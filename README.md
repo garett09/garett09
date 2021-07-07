@@ -62,6 +62,11 @@
 | GitHub Streak | Garett's GitHub Stats|
 | ---|------|
 |![Github streak](https://github-readme-streak-stats.herokuapp.com/?user=garett09&theme=light")|![Garett's GitHub stats](https://github-readme-stats.vercel.app/api?username=garett09&show_icons=true?)|
+
+### <img src="https://media.giphy.com/media/vybWlRniCXzZC/giphy.gif" width="30">&nbsp;Now Playing 
+
+ [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=garett_09&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=garett_09&redirect=true)
+
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
@@ -74,10 +79,6 @@
 <!--END_SECTION:activity-->
 
 --- 
-### <img src="https://media.giphy.com/media/vybWlRniCXzZC/giphy.gif" width="30">&nbsp;Now Playing 
-
- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=garett_09&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=garett_09&redirect=true)
-
 
 
 
