@@ -59,7 +59,7 @@
 
 | GitHub Streak | GitHub Stats|
 | ----|-----|
-|![Github streak](https://github-readme-streak-stats.herokuapp.com/?user=garett09&theme=light")|![Garett's GitHub stats](https://github-readme-stats.vercel.app/api?username=garett09&show_icons=true?&count_private=true&include_all_commits=true)
+|![Github streak](https://github-readme-streak-stats.herokuapp.com/?user=garett09&theme=light")|![Garett's GitHub stats](https://github-readme-stats.vercel.app/api?username=garett09&show_icons=true?&include_all_commits=true)
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
