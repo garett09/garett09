@@ -12,31 +12,33 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact:  I play lots of games on my PS5. You can add me and hit me up at [garett_09]
 
-### Connect with me:
-
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />]
-
 ### 🛠 &nbsp;Tech Stack
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
 
 ### Softwares:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-
 <a href="https://www.vegascreativesoftware.com/us/vegas-pro/" target="_blank"> <img align="left" alt="Vegas" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Vegas_Pro_15.0.png/900px-Vegas_Pro_15.0.png"/> </a> 
 <a href="https://powerbi.microsoft.com/en-us/" target="_blank"> <img align="left" alt="Illustrator" width="26px" src="https://img.icons8.com/color/452/power-bi.png"/> </a> 
 <a href="https://www.photoshop.com/en" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/photoshop.png?raw=true"/> </a>
 <a href="https://www.blender.org" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/blender.png?raw=true"/> </a>
+
+### 📫 &nbsp; How to reach me:
+
+<a href="https://www.linkedin.com/in/adrian-garett-sian-766775159/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
+<a href="mailto:adriansian@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
+<a href="https://instagram.com/adriansian"><img src="https://img.shields.io/badge/-@adriansian_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
+
+### Now Playing 🎧
+
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)]https://open.spotify.com/user/garett_09)
 
 [![GitHub Followers](https://img.shields.io/github/followers/garett09?label=Followers)](https://vineelsai.me)
 [![GitHub Stars](https://img.shields.io/github/stars/garett09?label=Stars)](https://vineelsai.me)
