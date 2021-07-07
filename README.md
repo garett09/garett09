@@ -74,10 +74,6 @@
 
 
 
-
-
-<!--END_SECTION:activity-->
-
 --- 
 
 
