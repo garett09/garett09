@@ -1,6 +1,6 @@
 ### Hi there, I'm Adrian - aka [garett_09]  👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/garett09?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fgarett09&screen_name=garett09)
+[![Twitter Follow](https://img.shields.io/twitter/follow/adriaansian?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fadriaansian&screen_name=adriaansian)
 
 ## I'm an Information Systems student at the University of Santo Tomas, and a ROM developer!
 - 🔭 I’m currently working on  ROM development that I make on my own device which includes LineageOS, dotOs, and cRdroid.
