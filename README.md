@@ -48,11 +48,15 @@
 <a href="https://rapidminer.com/" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_57808224b107cb60467c99e49137ca77/rapidminer-studio.png"/> </a> &nbsp;
 
 
-### Some stats
+### Now Playing 🎧
 
- GitHub Streak | GitHub Stats|Now Playing|
-| ----|-----|-----|
-| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=garett09&theme=light) | ![Garett's GitHub stats](https://github-readme-stats.vercel.app/api?username=garett09&show_icons=true) | [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=garett_09&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=garett_09&redirect=true)
+ [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=garett_09&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=garett_09&redirect=true)
+
+### Stats 📊
+<img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=garett09&theme=light"></img>  
+![Garett's GitHub stats](https://github-readme-stats.vercel.app/api?username=garett09&show_icons=true)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=garett09&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 [twitter]: https://twitter.com/adriaansian
