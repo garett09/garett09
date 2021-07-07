@@ -58,8 +58,8 @@
 ### <img src="https://media.giphy.com/media/l378c04F2fjeZ7vH2/giphy.gif" width="30">&nbsp;Stats 
 
 | GitHub Streak | GitHub Stats|
-| ----|-----|
-|![Github streak](https://github-readme-streak-stats.herokuapp.com/?user=garett09&theme=light")|![Garett's GitHub stats](https://github-readme-stats.vercel.app/api?username=garett09&show_icons=true?&include_all_commits=true)
+| --|-------|
+|![Github streak](https://github-readme-streak-stats.herokuapp.com/?user=garett09&theme=light")|![Garett's GitHub stats](https://github-readme-stats.vercel.app/api?username=garett09&show_icons=true?)
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
