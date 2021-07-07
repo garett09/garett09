@@ -52,14 +52,13 @@
 
 ### Now Playing 🎧
 
- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=garett_09&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=garett_09&redirect=true)
+ [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=garett_09&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=garett_09&redirect=true)
 
 ### Stats 📊
 
 | GitHub Streak | GitHub Stats|
 | ----|-----|
-|![Github streak](https://github-readme-streak-stats.herokuapp.com/?user=garett09&theme=light")|
-![Garett's GitHub stats](https://github-readme-stats.vercel.app/api?username=garett09&show_icons=true)|
+|![Github streak](https://github-readme-streak-stats.herokuapp.com/?user=garett09&theme=light")|![Garett's GitHub stats](https://github-readme-stats.vercel.app/api?username=garett09&show_icons=true)|
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=garett09&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
