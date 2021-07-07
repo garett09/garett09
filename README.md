@@ -34,11 +34,10 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-![TheGarettShow's GitHub stats](https://github-readme-stats.vercel.app/api?username=garett09&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=garett09&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
- GitHub Streak | GitHub Stats|
-| ----|-----|
-| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=garett09&theme=light)](https://vineelsai.me)
+
+ GitHub Streak | GitHub Stats| Top Languages |
+| ----|-----|-----|
+| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=garett09&theme=light)](https://vineelsai.me) | [![Garett's GitHub stats](https://github-readme-stats.vercel.app/api?username=garett09&show_icons=true)](https://vineelsai.me)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=garett09&layout=compact)](https://github.com/anuraghazra/github-readme-stats)|
 
 
 
