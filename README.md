@@ -76,7 +76,7 @@
 4. ❗️ Opened issue [#2](https://github.com/garett09/local_manifests/issues/2) in [garett09/local_manifests](https://github.com/garett09/local_manifests)
 5. ❗️ Opened issue [#1](https://github.com/garett09/local_manifests/issues/1) in [garett09/local_manifests](https://github.com/garett09/local_manifests)
 <!--END_SECTION:activity-->
-1. ❗️ Opened issue [#13](https://github.com/garett09/afk-hotel/issues/13) in [garett09/afk-hotel](https://github.com/garett09/afk-hotel)
+
 
 
 
