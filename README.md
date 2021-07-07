@@ -14,7 +14,14 @@
 - 🥅 2021 Goals: Contribute more to **Open Source projects**
 - ⚡ Fun fact:  I play lots of games on my PS5. You can add me and hit me up at **garett_09**
 
-###  <img src="https://media.giphy.com/media/c5vDr1rkcbcrBwG9SX/giphy.gif>&nbsp; How to reach me:
+### <img src="https://media.giphy.com/media/l378c04F2fjeZ7vH2/giphy.gif" width="30">&nbsp;Stats 
+
+| GitHub Streak | GitHub Stats|
+| ----|-----|
+|![Github streak](https://github-readme-streak-stats.herokuapp.com/?user=garett09&theme=light")|![Garett's GitHub stats](https://github-readme-stats.vercel.app/api?username=garett09&show_icons=true)
+
+
+###  <img src="https://media.giphy.com/media/c5vDr1rkcbcrBwG9SX/giphy.gif" width="30">&nbsp; How to reach me:
 
 <a href="https://www.linkedin.com/in/adrian-garett-sian-766775159/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="mailto:adriansian@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> &nbsp;
@@ -35,7 +42,7 @@
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)&nbsp;
 ![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 
-### <img src="https://media.giphy.com/media/XsHkc4MCBXDn0yNybG/giphy.gif width="30">&nbsp;Hosting/SaaS
+### <img src="https://media.giphy.com/media/XsHkc4MCBXDn0yNybG/giphy.gif "width="30"> &nbsp;Hosting/SaaS
 
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)&nbsp;
 ![Amazon Web Service](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
@@ -54,11 +61,6 @@
 
  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=garett_09&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=garett_09&redirect=true)
 
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">&nbsp;Stats 
-
-| GitHub Streak | GitHub Stats|
-| ----|-----|
-|![Github streak](https://github-readme-streak-stats.herokuapp.com/?user=garett09&theme=light")|![Garett's GitHub stats](https://github-readme-stats.vercel.app/api?username=garett09&show_icons=true)
 
 
 
