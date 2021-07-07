@@ -61,7 +61,12 @@
 
  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=garett_09&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=garett_09&redirect=true)
 
+### :zap: Recent Activity
 
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
 
 
 [twitter]: https://twitter.com/adriaansian
