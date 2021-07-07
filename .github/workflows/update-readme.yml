@@ -14,6 +14,6 @@ jobs:
       - uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-	with:
+	    with:
           COMMIT_MSG: 'GitHub actions added changes in recent activity'
           MAX_LINES: 10
