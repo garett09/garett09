@@ -1,4 +1,4 @@
-# Hi there, I'm Adrian
+### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> Hello there !
 ![profile count](https://komarev.com/ghpvc/?username=garett09&color=red)&nbsp;
 [![GitHub Garettl](https://img.shields.io/github/followers/garett09?label=follow&style=social)](https://github.com/garett09)&nbsp;
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UChAoCAh1jVTaMz0Sc61X5Xw?style=social)&nbsp;
@@ -10,11 +10,11 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=garett09&column=6&no-bg=true&theme=onestar&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-
-## I'm an Information Systems student at the University of Santo Tomas from the Philippines!
+### <img src="https://media.giphy.com/media/fTsZNbPQxJWtor2LXE/giphy.gif"  width="30">&nbsp;About Me
+- <h3 align="center">A passionate and learning developer from Manila, Philippines.</h3>
 - 🔭 I’m currently working on  **ROM development that I make on my own device which includes LineageOS, dotOs, and cRdroid.**
 - 🌱 I’m currently learning **Javascript, Python and more about Business Analytics.**
-- 👯 I’m looking to collaborate on other developers on **making a project, website or even contribute to open source software.**
+- 👯 I’m looking to collaborate with other developers on **making a project, website or even contribute to open source software.**
 - 📫 How to reach me: You can reach me by my email at adriansian@gmail.com  
 - 🥅 2021 Goals: Contribute more to **Open Source projects**
 - ⚡ Fun fact:  I play lots of games on my PS5. You can add me and hit me up at **garett_09**
@@ -28,7 +28,6 @@
 <a href="https://instagram.com/adriansian"><img src="https://img.shields.io/badge/@adriansian_-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a> &nbsp;
 <a href="https://t.me/garett_09"><img src="https://img.shields.io/badge/@garett_09_-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a> &nbsp;
 
----
 
 ###  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;Tech Stack
 
@@ -58,7 +57,6 @@
 <a href="https://powerbi.microsoft.com/en-us/" target="_blank"> <img align="left" alt="Illustrator" width="26px" src="https://img.icons8.com/color/452/power-bi.png"/> </a> &nbsp;
 <a href="https://rapidminer.com/" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_57808224b107cb60467c99e49137ca77/rapidminer-studio.png"/> </a> &nbsp;
 
----
 
 ### <img src="https://media.giphy.com/media/l378c04F2fjeZ7vH2/giphy.gif" width="30">&nbsp;Stats 
 
