@@ -1,12 +1,12 @@
 # Hi there, I'm Adrian
----
-
 ![profile count](https://komarev.com/ghpvc/?username=garett09&color=red)&nbsp;
 [![GitHub Garettl](https://img.shields.io/github/followers/garett09?label=follow&style=social)](https://github.com/garett09)&nbsp;
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UChAoCAh1jVTaMz0Sc61X5Xw?style=social)&nbsp;
 ![build: passing](https://img.shields.io/badge/build-passing-success)&nbsp;
 &nbsp;
-[![trophy](https://github-profile-trophy.vercel.app/?username=garett09&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+---
+##Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=garett09&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
