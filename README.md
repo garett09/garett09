@@ -38,7 +38,7 @@
 
 ### Now Playing 🎧
 
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)]https://open.spotify.com/user/garett_09)
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/garett_09)
 
 [![GitHub Followers](https://img.shields.io/github/followers/garett09?label=Followers)](https://vineelsai.me)
 [![GitHub Stars](https://img.shields.io/github/stars/garett09?label=Stars)](https://vineelsai.me)
