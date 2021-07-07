@@ -5,7 +5,8 @@
 ![build: passing](https://img.shields.io/badge/build-passing-success)&nbsp;
 &nbsp;
 ---
-##Trophies
+## Trophies
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=garett09&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 
@@ -61,8 +62,8 @@
 
 ### <img src="https://media.giphy.com/media/l378c04F2fjeZ7vH2/giphy.gif" width="30">&nbsp;Stats 
 
-Github streak ![Github streak](https://github-readme-streak-stats.herokuapp.com/?user=garett09&theme=light")
-Garett's Github stats![Garett's GitHub stats](https://github-readme-stats.vercel.app/api?username=garett09&show_icons=true?)
+|Github streak| Garett's Github Stats|
+|![Github streak](https://github-readme-streak-stats.herokuapp.com/?user=garett09&theme=light")|![Garett's GitHub stats](https://github-readme-stats.vercel.app/api?username=garett09&show_icons=true?)|
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
