@@ -1,16 +1,23 @@
-### Hi there, I'm Adrian - aka [garett_09] 
+### Hi there, I'm Adrian - aka **garett_09**
 
 ![profile count](https://komarev.com/ghpvc/?username=garett09&color=red)&nbsp;
 [![GitHub Garettl](https://img.shields.io/github/followers/garett09?label=follow&style=social)](https://github.com/garett09)&nbsp;
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 
-## I'm an Information Systems student at the University of Santo Tomas, and a ROM developer!
-- 🔭 I’m currently working on  ROM development that I make on my own device which includes LineageOS, dotOs, and cRdroid.
-- 🌱 I’m currently learning Javascript, Python and more about Business Analytics.
-- 👯 I’m looking to collaborate on other developers on making a project, website or even contribute to open source software.
+## I'm an Information Systems student at the University of Santo Tomas from the Philippines!
+- 🔭 I’m currently working on  **ROM development that I make on my own device which includes LineageOS, dotOs, and cRdroid.**
+- 🌱 I’m currently learning **Javascript, Python and more about Business Analytics.**
+- 👯 I’m looking to collaborate on other developers on **making a project, website or even contribute to open source software.**
 - 📫 How to reach me: You can reach me by my email at adriansian@gmail.com  
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact:  I play lots of games on my PS5. You can add me and hit me up at [garett_09]
+- 🥅 2021 Goals: Contribute more to **Open Source projects**
+- ⚡ Fun fact:  I play lots of games on my PS5. You can add me and hit me up at **garett_09**
+
+### 📫 &nbsp; How to reach me:
+
+<a href="https://www.linkedin.com/in/adrian-garett-sian-766775159/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> &nbsp;
+<a href="mailto:adriansian@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> &nbsp;
+<a href="https://instagram.com/adriansian"><img src="https://img.shields.io/badge/@adriansian_-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a> &nbsp;
+<a href="https://t.me/garett_09"><img src="https://img.shields.io/badge/@garett_09_-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a> &nbsp;
 
 ###  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;Tech Stack
 
@@ -40,38 +47,14 @@
 <a href="https://powerbi.microsoft.com/en-us/" target="_blank"> <img align="left" alt="Illustrator" width="26px" src="https://img.icons8.com/color/452/power-bi.png"/> </a> &nbsp;
 <a href="https://rapidminer.com/" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_57808224b107cb60467c99e49137ca77/rapidminer-studio.png"/> </a> &nbsp;
 
-### 📫 &nbsp; How to reach me:
-
-<a href="https://www.linkedin.com/in/adrian-garett-sian-766775159/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> &nbsp;
-<a href="mailto:adriansian@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> &nbsp;
-<a href="https://instagram.com/adriansian"><img src="https://img.shields.io/badge/@adriansian_-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a> &nbsp;
 
 ### Now Playing 🎧
 
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/garett_09)
-
-[![GitHub Followers](https://img.shields.io/github/followers/garett09?label=Followers)](https://vineelsai.me)
-[![GitHub Stars](https://img.shields.io/github/stars/garett09?label=Stars)](https://vineelsai.me)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=garett_09&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
  GitHub Streak | GitHub Stats|
 | ----|-----|
 | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=garett09&theme=light) | ![Garett's GitHub stats](https://github-readme-stats.vercel.app/api?username=garett09&show_icons=true)
-
-
-<!--
-**garett09/garett09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 [twitter]: https://twitter.com/adriaansian
 [youtube]: https://youtube.com/TheGarettShow
