@@ -35,7 +35,7 @@
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)&nbsp;
 ![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 
-### 🛠 &nbsp;Hosting/SaaS
+### <img src="https://media.giphy.com/media/XsHkc4MCBXDn0yNybG/giphy.gif width="30">&nbsp;Hosting/SaaS
 
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)&nbsp;
 ![Amazon Web Service](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
@@ -50,16 +50,15 @@
 <a href="https://rapidminer.com/" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_57808224b107cb60467c99e49137ca77/rapidminer-studio.png"/> </a> &nbsp;
 
 
-### Now Playing 🎧
+### <img src="https://media.giphy.com/media/vybWlRniCXzZC/giphy.gif width="30">&nbsp;Now Playing 
 
  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=garett_09&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=garett_09&redirect=true)
 
-### Stats 📊
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">&nbsp;Stats 
 
 | GitHub Streak | GitHub Stats|
 | ----|-----|
-|![Github streak](https://github-readme-streak-stats.herokuapp.com/?user=garett09&theme=light")|![Garett's GitHub stats](https://github-readme-stats.vercel.app/api?username=garett09&show_icons=true)|
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=garett09&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+|![Github streak](https://github-readme-streak-stats.herokuapp.com/?user=garett09&theme=light")|![Garett's GitHub stats](https://github-readme-stats.vercel.app/api?username=garett09&show_icons=true)
 
 
 
