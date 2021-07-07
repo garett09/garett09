@@ -51,4 +51,4 @@ Here are some ideas to get you started:
 [twitter]: https://twitter.com/adriaansian
 [youtube]: https://youtube.com/TheGarettShow
 [instagram]: https://instagram.com/adriansian
-[linkedin]: https://www.linkedin.com/in/adrian-garett-sian-766775159/
+[linkedin]: https://www.linkedin.com/in/adrian-garett-sian-766775159
