@@ -42,7 +42,7 @@
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)&nbsp;
 ![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 
-### <img src="https://media.giphy.com/media/XsHkc4MCBXDn0yNybG/giphy.gif "width="30"> &nbsp;Hosting/SaaS
+### <img src="https://media.giphy.com/media/XsHkc4MCBXDn0yNybG/giphy.gif" width="30"> &nbsp;Hosting/SaaS
 
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)&nbsp;
 ![Amazon Web Service](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
