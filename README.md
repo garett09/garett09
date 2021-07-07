@@ -70,7 +70,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3](https://github.com/garett09/local_manifests/issues/3) in [garett09/local_manifests](https://github.com/garett09/local_manifests)
+1. ❗️ Opened issue [#13](https://github.com/garett09/afk-hotel/issues/13) in [garett09/afk-hotel](https://github.com/garett09/afk-hotel)
 
 
 
