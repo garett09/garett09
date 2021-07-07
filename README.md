@@ -11,7 +11,7 @@
 
 
 ### <img src="https://media.giphy.com/media/fTsZNbPQxJWtor2LXE/giphy.gif"  width="30">&nbsp;About Me
-- <h3 align="center">A passionate and learning developer from Manila, Philippines.</h3>
+<h2 align="center">A passionate and learning developer from Manila, Philippines.</h2>
 - 🔭 I’m currently working on  **ROM development that I make on my own device which includes LineageOS, dotOs, and cRdroid.**
 - 🌱 I’m currently learning **Javascript, Python and more about Business Analytics.**
 - 👯 I’m looking to collaborate with other developers on **making a project, website or even contribute to open source software.**
