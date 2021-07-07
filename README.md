@@ -47,9 +47,6 @@
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)&nbsp;
 ![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 
-<br>
-<br>
-
 ### <img src="https://media.giphy.com/media/XsHkc4MCBXDn0yNybG/giphy.gif" width="30"> &nbsp;Hosting/SaaS
 
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)&nbsp;
@@ -57,18 +54,14 @@
 ![Google Cloud Platform](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)&nbsp;
 
-<br>
-<br>
-
-### <img src="https://media.giphy.com/media/bx3Cvt88j7PtM4SOaS/giphy.gif" width="30"> &nbsp;;Softwares
+### <img src="https://media.giphy.com/media/bx3Cvt88j7PtM4SOaS/giphy.gif" width="30"> &nbsp;Softwares
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />&nbsp;
 <a href="https://www.vegascreativesoftware.com/us/vegas-pro/" target="_blank"> <img align="left" alt="Vegas" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Vegas_Pro_15.0.png/900px-Vegas_Pro_15.0.png"/> </a> &nbsp;
 <a href="https://powerbi.microsoft.com/en-us/" target="_blank"> <img align="left" alt="Illustrator" width="26px" src="https://img.icons8.com/color/452/power-bi.png"/> </a> &nbsp;
 <a href="https://rapidminer.com/" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_57808224b107cb60467c99e49137ca77/rapidminer-studio.png"/> </a> &nbsp;
-<br>
-<br>
 
+---
 ### <img src="https://media.giphy.com/media/vybWlRniCXzZC/giphy.gif" width="30">&nbsp;Now Playing 
 
  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=garett_09&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=garett_09&redirect=true)
