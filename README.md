@@ -1,8 +1,10 @@
-### Hi there, I'm Adrian - aka **garett_09**
+### Hi there, I'm Adrian
 
 ![profile count](https://komarev.com/ghpvc/?username=garett09&color=red)&nbsp;
 [![GitHub Garettl](https://img.shields.io/github/followers/garett09?label=follow&style=social)](https://github.com/garett09)&nbsp;
-![build: passing](https://img.shields.io/badge/build-passing-success)
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UChAoCAh1jVTaMz0Sc61X5Xw?style=social)&nbsp;
+![build: passing](https://img.shields.io/badge/build-passing-success)&nbsp;
+
 
 ## I'm an Information Systems student at the University of Santo Tomas from the Philippines!
 - 🔭 I’m currently working on  **ROM development that I make on my own device which includes LineageOS, dotOs, and cRdroid.**
@@ -53,7 +55,7 @@
  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=garett_09&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=garett_09&redirect=true)
 
 ### Stats 📊
-<img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=garett09&theme=light"></img>  
+![Github streak](https://github-readme-streak-stats.herokuapp.com/?user=garett09&theme=light")
 ![Garett's GitHub stats](https://github-readme-stats.vercel.app/api?username=garett09&show_icons=true)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=garett09&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
