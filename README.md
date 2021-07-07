@@ -75,6 +75,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+1. ❗️ Opened issue [#12](https://github.com/garett09/afk-hotel/issues/12) in [garett09/afk-hotel](https://github.com/garett09/afk-hotel)
 <!--END_SECTION:activity-->
 
 ---
