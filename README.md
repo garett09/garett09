@@ -27,7 +27,8 @@
 1. ❗️ Opened issue [#12](https://github.com/garett09/afk-hotel/issues/12) in [garett09/afk-hotel](https://github.com/garett09/afk-hotel)
 <!--END_SECTION:activity-->
 
----|
+--- 
+|
 ---
 
 ###  <img src="https://media.giphy.com/media/c5vDr1rkcbcrBwG9SX/giphy.gif" width="30">&nbsp; How to reach me:
