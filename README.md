@@ -20,8 +20,14 @@
 
 | GitHub Streak | GitHub Stats|
 | ----|-----|
-|![Github streak](https://github-readme-streak-stats.herokuapp.com/?user=garett09&theme=light")|![Garett's GitHub stats](https://github-readme-stats.vercel.app/api?username=garett09&show_icons=true)
+|![Github streak](https://github-readme-streak-stats.herokuapp.com/?user=garett09&theme=light")|![Garett's GitHub stats](https://github-readme-stats.vercel.app/api?username=garett09&show_icons=true)|
+### :zap: Recent Activity
 
+<!--START_SECTION:activity-->
+1. ❗️ Opened issue [#12](https://github.com/garett09/afk-hotel/issues/12) in [garett09/afk-hotel](https://github.com/garett09/afk-hotel)
+<!--END_SECTION:activity-->
+
+---|
 ---
 
 ###  <img src="https://media.giphy.com/media/c5vDr1rkcbcrBwG9SX/giphy.gif" width="30">&nbsp; How to reach me:
@@ -66,13 +72,7 @@
 
  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=garett_09&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=garett_09&redirect=true)
 
-### :zap: Recent Activity
 
-<!--START_SECTION:activity-->
-1. ❗️ Opened issue [#12](https://github.com/garett09/afk-hotel/issues/12) in [garett09/afk-hotel](https://github.com/garett09/afk-hotel)
-<!--END_SECTION:activity-->
-
----
 
 
 [twitter]: https://twitter.com/adriaansian
