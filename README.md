@@ -4,6 +4,9 @@
 [![GitHub Garettl](https://img.shields.io/github/followers/garett09?label=follow&style=social)](https://github.com/garett09)&nbsp;
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UChAoCAh1jVTaMz0Sc61X5Xw?style=social)&nbsp;
 ![build: passing](https://img.shields.io/badge/build-passing-success)&nbsp;
+&nbsp;
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 ## I'm an Information Systems student at the University of Santo Tomas from the Philippines!
@@ -57,9 +60,8 @@
 
 ### <img src="https://media.giphy.com/media/l378c04F2fjeZ7vH2/giphy.gif" width="30">&nbsp;Stats 
 
-| GitHub Streak | GitHub Stats|
-| --|-------|
-|![Github streak](https://github-readme-streak-stats.herokuapp.com/?user=garett09&theme=light")|![Garett's GitHub stats](https://github-readme-stats.vercel.app/api?username=garett09&show_icons=true?)
+Github streak ![Github streak](https://github-readme-streak-stats.herokuapp.com/?user=garett09&theme=light")
+Garett's Github stats![Garett's GitHub stats](https://github-readme-stats.vercel.app/api?username=garett09&show_icons=true?)
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
