@@ -63,10 +63,6 @@
 | ---|------|
 |![Github streak](https://github-readme-streak-stats.herokuapp.com/?user=garett09&theme=light")|![Garett's GitHub stats](https://github-readme-stats.vercel.app/api?username=garett09&show_icons=true?)|
 
-### <img src="https://media.giphy.com/media/vybWlRniCXzZC/giphy.gif" width="30">&nbsp;Now Playing 
-
- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=garett_09&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=garett_09&redirect=true)
-
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
@@ -76,11 +72,13 @@
 4. ❗️ Opened issue [#2](https://github.com/garett09/local_manifests/issues/2) in [garett09/local_manifests](https://github.com/garett09/local_manifests)
 5. ❗️ Opened issue [#1](https://github.com/garett09/local_manifests/issues/1) in [garett09/local_manifests](https://github.com/garett09/local_manifests)
 <!--END_SECTION:activity-->
-
-
-
-
 --- 
+
+### <img src="https://media.giphy.com/media/vybWlRniCXzZC/giphy.gif" width="30">&nbsp;Now Playing 
+
+ [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=garett_09&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=garett_09&redirect=true)
+
+
 
 
 
