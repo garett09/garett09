@@ -28,8 +28,7 @@
 <a href="https://instagram.com/adriansian"><img src="https://img.shields.io/badge/@adriansian_-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a> &nbsp;
 <a href="https://t.me/garett_09"><img src="https://img.shields.io/badge/@garett_09_-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a> &nbsp;
 
-
-###  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;Tech Stack
+###  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;Languages
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
