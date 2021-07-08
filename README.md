@@ -191,7 +191,7 @@ Linux                    42 mins             ██░░░░░░░░░�
 - ["If she wants you to chase her, immediately run in the opposite direction" - My Dad](https://www.reddit.com/r/quotes/comments/og2jg9/if_she_wants_you_to_chase_her_immediately_run_in/)
 - ["You're not to be so blind with patriotism that you can't face reality. Wrong is wrong, no matter who does it or says it." – Malcolm X](https://www.reddit.com/r/quotes/comments/og62lh/youre_not_to_be_so_blind_with_patriotism_that_you/)
 - [Just because you lost me as a friend. doesn't mean you gained me as an enemy I am bigger than that, I still wanna see you eat just not at my table.](https://www.reddit.com/r/quotes/comments/ofzdmj/just_because_you_lost_me_as_a_friend_doesnt_mean/)
-- [“some people are so poor all they have is money” -Bob Marley](https://www.reddit.com/r/quotes/comments/ofroec/some_people_are_so_poor_all_they_have_is_money/)
+- ["Arachnophobia is bullshit let spiders get married". - My Little Sister.](https://www.reddit.com/r/quotes/comments/ogeyqs/arachnophobia_is_bullshit_let_spiders_get_married/)
 - [Forgive me, I know it's my fault because I was desperate with my own need to capture your heart, desperate to forget the terrible loneliness in mine.](https://www.reddit.com/r/quotes/comments/og61wf/forgive_me_i_know_its_my_fault_because_i_was/)
 <!-- QUOTES:END -->
 
