@@ -64,7 +64,7 @@
 ![Github streak](https://github-readme-streak-stats.herokuapp.com/?user=garett09&theme=light")|![Garett's GitHub stats](https://github-readme-stats.vercel.app/api?username=garett09&show_icons=true?)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=garett_09" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=garett_09&v=2" />
 </a>
 
 ### :zap: Recent Activity
