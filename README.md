@@ -38,7 +38,7 @@ const skills =
   
   platforms :[Google Cloud Platform, Amazon Web Services, Buildkite, Heroku, Microsoft Sharepoint],
   
-  cicd      :[Github Workflows]
+  cicd      :[Github Workflows],
 
   softwares :[Microsoft PowerBi, Microsoft Acess, Rapid Miner, Vegas Pro]
 }
