@@ -182,7 +182,7 @@ Linux                    42 mins             ██░░░░░░░░░�
 - [My son accidentally handed me a dad joke on a platter and it was glorious.](https://www.reddit.com/r/dadjokes/comments/og7zk2/my_son_accidentally_handed_me_a_dad_joke_on_a/)
 - [Pulled a Dad Joke on a Nurse](https://www.reddit.com/r/dadjokes/comments/ofrfzn/pulled_a_dad_joke_on_a_nurse/)
 - [Did you know that your pupils are the last parts to stop working after you die?](https://www.reddit.com/r/dadjokes/comments/ofuxop/did_you_know_that_your_pupils_are_the_last_parts/)
-- [What’s the difference between a light bulb and a pregnant woman?](https://www.reddit.com/r/dadjokes/comments/og4c3o/whats_the_difference_between_a_light_bulb_and_a/)
+- [I returned my lizard to the pet store as he wouldn’t stop telling dad jokes.](https://www.reddit.com/r/dadjokes/comments/ogcoh4/i_returned_my_lizard_to_the_pet_store_as_he/)
 <!-- JOKES:END -->
 
 ### 📣 Quotes of the hour
