@@ -161,11 +161,11 @@ No Activity Tracked This Week
 ### 📣 Jokes of the hour
 
 <!-- JOKES:START -->
+- [Apparently nobody in Djibouti likes the Flinstones…](https://www.reddit.com/r/dadjokes/comments/ogb7my/apparently_nobody_in_djibouti_likes_the_flinstones/)
+- [Robin tells Batman "I can't get the batmobile started"](https://www.reddit.com/r/Jokes/comments/ogb793/robin_tells_batman_i_cant_get_the_batmobile/)
+- [What is one thing every woman wants that starts with P and ends with S?](https://www.reddit.com/r/dadjokes/comments/og9oal/what_is_one_thing_every_woman_wants_that_starts/)
 - [How many conspiracy theorists does it take to change a light bulb?](https://www.reddit.com/r/Jokes/comments/og9g49/how_many_conspiracy_theorists_does_it_take_to/)
 - [So my 95 lb wife just told me she'll slam my head on the keyboard if I don't get off the computer. Ha.](https://www.reddit.com/r/dadjokes/comments/og95qs/so_my_95_lb_wife_just_told_me_shell_slam_my_head/)
-- [Friday night, Patrick went to his friend Paddy and said](https://www.reddit.com/r/Jokes/comments/og9020/friday_night_patrick_went_to_his_friend_paddy_and/)
-- [Reddit should rename 'share' to 'spreddit', 'delete' to 'shreddit' and 'karma' to 'creddit'.](https://www.reddit.com/r/Jokes/comments/og8qjn/reddit_should_rename_share_to_spreddit_delete_to/)
-- [I submitted 10 puns to a joke-writing competition so see if any of them would make the finals.](https://www.reddit.com/r/dadjokes/comments/og876z/i_submitted_10_puns_to_a_jokewriting_competition/)
 <!-- JOKES:END -->
 
 ### 📣 Quotes of the hour
