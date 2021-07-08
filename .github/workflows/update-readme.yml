@@ -1,4 +1,4 @@
-name: Adrian Sian Update README
+name: Workflow activity
 
 on:
   schedule:
