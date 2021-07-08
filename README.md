@@ -105,6 +105,11 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Quote of the hour
 
 <!-- QUOTES:START -->
+- [What do you want people to truly remember you by at the end of your life?” – Jason Brown (from his interview with Jesus Calling podcast)](https://www.reddit.com/r/quotes/comments/og8guf/what_do_you_want_people_to_truly_remember_you_by/)
+- [When remembering someone starts stinging, stop getting further in the direction.](https://www.reddit.com/r/quotes/comments/og88qj/when_remembering_someone_starts_stinging_stop/)
+- ["Life ... is a tale Told by an idiot, full of sound and fury, Signifying nothing."– William Shakespeare, Macbeth](https://www.reddit.com/r/quotes/comments/og73zm/life_is_a_tale_told_by_an_idiot_full_of_sound_and/)
+- ["The oppressed are allowed once every few years to decide which particular representatives of the oppressing class are to represent and repress them." – Karl Marx](https://www.reddit.com/r/quotes/comments/og63ub/the_oppressed_are_allowed_once_every_few_years_to/)
+- ["There is a cult of ignorance in the United States, and there has always been. The strain of anti-intellectualism has been a constant thread winding its way through our political and cultural life, nurtured by the false notion that democracy means that 'my ignorance is just as good"– Isaac Asimov](https://www.reddit.com/r/quotes/comments/og63fq/there_is_a_cult_of_ignorance_in_the_united_states/)
 <!-- QUOTES:END -->
 
 --- 
