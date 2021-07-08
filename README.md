@@ -64,6 +64,82 @@
 ![Github streak](https://github-readme-streak-stats.herokuapp.com/?user=garett09&theme=light")|![Garett's GitHub stats](https://github-readme-stats.vercel.app/api?username=garett09&count_private=true&show_icons=true?)
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-156-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-45728%20lines%20of%20code-blue)
+
+**🐱 My Github Data** 
+
+> 🏆 255 Contributions in the Year 2021
+ > 
+> 📦 2.1 MB Used in Github's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 25 Public Repositories 
+ > 
+> 🔑 4 Private Repositories  
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    89 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.51% 
+🌆 Daytime    250 commits    █████████░░░░░░░░░░░░░░░░   37.94% 
+🌃 Evening    246 commits    █████████░░░░░░░░░░░░░░░░   37.33% 
+🌙 Night      74 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.23%
+
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday       105 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.93% 
+Tuesday      119 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.06% 
+Wednesday    137 commits    █████░░░░░░░░░░░░░░░░░░░░   20.79% 
+Thursday     87 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.2% 
+Friday       73 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.08% 
+Saturday     67 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.17% 
+Sunday       71 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.77%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Singapore
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in Makefile** 
+
+```text
+Makefile                 14 repos            ███████████░░░░░░░░░░░░░░   45.16% 
+C                        7 repos             █████░░░░░░░░░░░░░░░░░░░░   22.58% 
+C++                      4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.9% 
+HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.45% 
+Java                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.23%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/garett09/garett09/main/charts/bar_graph.png) 
+
+
+ Last Updated on 08/07/2021
 <!--END_SECTION:waka-->
 
 ### :zap: Recent Activity
