@@ -171,9 +171,9 @@ No Activity Tracked This Week
 ### 📣 Quotes of the hour
 
 <!-- QUOTES:START -->
-- ['There's no shame in falling down but there is shame in not trying to get back up again'](https://www.reddit.com/r/quotes/comments/oga9i4/theres_no_shame_in_falling_down_but_there_is/)
+- ["If Adolf Hitler flew in today....](https://www.reddit.com/r/quotes/comments/ogbxry/if_adolf_hitler_flew_in_today/)
+- [[Video] How to make a film while traveling alone. A South Korean man from the opposite side of the Earth made a film while travelling alone 30 cities in Europe for 3 months. The scenes were filmed by passers-by willing to help him. It was his first trip for all of his life.](https://www.reddit.com/r/GetMotivated/comments/ogawcl/video_how_to_make_a_film_while_traveling_alone_a/)
 - [[image] never stop working on yourself](https://www.reddit.com/r/GetMotivated/comments/oga5te/image_never_stop_working_on_yourself/)
-- [It is [every woman’s] right to ignore the dictates of fashion and dress in a manner that is becoming to her own character and personality. ...Lillie Langtry](https://www.reddit.com/r/quotes/comments/og9xx6/it_is_every_womans_right_to_ignore_the_dictates/)
 - [Women are meant to be loved, not to be understood. ....Oscar Wilde](https://www.reddit.com/r/quotes/comments/og9w8p/women_are_meant_to_be_loved_not_to_be_understood/)
 - [“It’s amazing that the heart makes no noise when it cracks.” ~ Robert Cormier (Heroes)](https://www.reddit.com/r/quotes/comments/og8xbv/its_amazing_that_the_heart_makes_no_noise_when_it/)
 <!-- QUOTES:END -->
