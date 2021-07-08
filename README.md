@@ -21,7 +21,7 @@
 
 ---
 
-###  <img src="https://media.giphy.com/media/c5vDr1rkcbcrBwG9SX/giphy.gif" width="30">&nbsp; How to reach me
+###  <img src="https://media.giphy.com/media/c5vDr1rkcbcrBwG9SX/giphy.gif" width="30">&nbsp; Let's talk
 
 <a href="https://www.linkedin.com/in/adrian-garett-sian-766775159/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="mailto:adriansian@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> &nbsp;
@@ -42,7 +42,7 @@
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)&nbsp;
 ![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 
-### <img src="https://media.giphy.com/media/XsHkc4MCBXDn0yNybG/giphy.gif" width="30"> &nbsp;Hosting/SaaS
+### <img src="https://media.giphy.com/media/XsHkc4MCBXDn0yNybG/giphy.gif" width="30"> &nbsp;Hosting and SaaS
 
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)&nbsp;
 ![Amazon Web Service](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
@@ -56,12 +56,14 @@
 <a href="https://powerbi.microsoft.com/en-us/" target="_blank"> <img align="left" alt="Illustrator" width="26px" src="https://img.icons8.com/color/452/power-bi.png"/> </a> &nbsp;
 <a href="https://rapidminer.com/" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_57808224b107cb60467c99e49137ca77/rapidminer-studio.png"/> </a> &nbsp;
 
-
+<details>
 ### <img src="https://media.giphy.com/media/l378c04F2fjeZ7vH2/giphy.gif" width="30">&nbsp;Stats 
 
 | GitHub Streak | Garett's GitHub Stats|
 | ---|------|
 |![Github streak](https://github-readme-streak-stats.herokuapp.com/?user=garett09&theme=light")|![Garett's GitHub stats](https://github-readme-stats.vercel.app/api?username=garett09&show_icons=true?)|
+[![Garett's Language stats](https://github-readme-stats.vercel.app/api/wakatime?username=garett09)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### :zap: Recent Activity
 
@@ -73,6 +75,8 @@
 5. ❗️ Closed issue [#12](https://github.com/garett09/afk-hotel/issues/12) in [garett09/afk-hotel](https://github.com/garett09/afk-hotel)
 <!--END_SECTION:activity-->
 --- 
+
+</details>
 
 ### <img src="https://media.giphy.com/media/vybWlRniCXzZC/giphy.gif" width="30">&nbsp;Now Playing 
 
