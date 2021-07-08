@@ -13,7 +13,7 @@ jobs:
         with:
           comment_tag_name: JOKES
           feed_list: "https://www.reddit.com/r/dadjokes/.rss,https://www.reddit.com/r/Jokes/.rss"
-       - uses: gautamkrishnar/blog-post-workflow@master
+      - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: QUOTES
           feed_list: "https://www.reddit.com/r/quotes/.rss,https://www.reddit.com/r/GetMotivated/.rss"
