@@ -42,12 +42,6 @@ const garett = {
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#3](https://github.com/garett09/local_manifests/issues/3) in [garett09/local_manifests](https://github.com/garett09/local_manifests)
-2. ❗️ Closed issue [#4](https://github.com/garett09/local_manifests/issues/4) in [garett09/local_manifests](https://github.com/garett09/local_manifests)
-3. ❗️ Closed issue [#2](https://github.com/garett09/local_manifests/issues/2) in [garett09/local_manifests](https://github.com/garett09/local_manifests)
-4. ❗️ Closed issue [#1](https://github.com/garett09/local_manifests/issues/1) in [garett09/local_manifests](https://github.com/garett09/local_manifests)
-5. ❗️ Closed issue [#12](https://github.com/garett09/afk-hotel/issues/12) in [garett09/afk-hotel](https://github.com/garett09/afk-hotel)
-<!--END_SECTION:activity-->
 --- 
 
 ###  <img src="https://media.giphy.com/media/c5vDr1rkcbcrBwG9SX/giphy.gif" width="30">&nbsp; Let's talk
