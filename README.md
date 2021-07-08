@@ -3,6 +3,8 @@
 ![profile count](https://komarev.com/ghpvc/?username=garett09&color=red)&nbsp;
 [![GitHub Garettl](https://img.shields.io/github/followers/garett09?label=follow&style=social)](https://github.com/garett09)&nbsp;
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UChAoCAh1jVTaMz0Sc61X5Xw?style=social)&nbsp;
+[![Linkedin: anmol](https://img.shields.io/badge/-garett_09-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adrian-garett-sian-766775159/)](https://www.linkedin.com/in/adrian-garett-sian-766775159/)
+[![Waka Readme](https://github.com/garett09/garett09/actions/workflows/update-commits.yml/badge.svg)](https://github.com/garett09/garett09/actions/workflows/update-commits.yml)
 ---
 
 ### <img src="https://media.giphy.com/media/fTsZNbPQxJWtor2LXE/giphy.gif"  width="30">&nbsp;About Me
