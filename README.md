@@ -22,7 +22,7 @@ const garett = {
         mobile: {
             native: ["Android: ROM and Kernel development"]
         },
-        devOps: ["Amazon Web Service", "Google Cloud Platform", "Microsoft Azure", "Heroku"],
+        devOps: ["Amazon Web Service", "Google Cloud Platform", "Microsoft Azure", "Heroku", "Buildkite"],
         databases: ["Microsoft SQL Server,", "Access SQL"],
         misc: ["Vegas Pro", "Microsoft Power Bi", "Rapid Miner", "Micrsoft Sharepoint"]
     },
@@ -100,12 +100,3 @@ No Activity Tracked This Week
 ### <img src="https://media.giphy.com/media/vybWlRniCXzZC/giphy.gif" width="30">&nbsp;Now Playing 
 
  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=garett_09&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=garett_09&redirect=true)
-
-
-
-
-
-[twitter]: https://twitter.com/adriaansian
-[youtube]: https://youtube.com/TheGarettShow
-[instagram]: https://instagram.com/adriansian
-[linkedin]: https://www.linkedin.com/in/adrian-garett-sian-766775159
