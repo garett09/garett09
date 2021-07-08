@@ -7,7 +7,7 @@
 [![Wakatime updates](https://github.com/garett09/garett09/actions/workflows/update-commits.yml/badge.svg?branch=main)](https://github.com/garett09/garett09/actions/workflows/update-commits.yml)
 ---
 
-### <img src="https://media.giphy.com/media/fTsZNbPQxJWtor2LXE/giphy.gif"  width="30">&nbsp;About Me
+## <img src="https://media.giphy.com/media/fTsZNbPQxJWtor2LXE/giphy.gif"  width="30">&nbsp;About Me
 -   👩‍💻  **Currently a third year student at the University of Santo Tomas. Aiming to be a passionate developer in the future.**
 -   🔭  I’m currently working on  **ROM development that I make on my own device which includes LineageOS, dotOs, and cRdroid.**
 -   🌱  I’m currently learning **Javascript, Python and more about Business Analytics.**
@@ -54,7 +54,7 @@ while(dev.isCoding() && dev.isStuck())
 }
 ```
 
-### <img src="https://media.giphy.com/media/c5vDr1rkcbcrBwG9SX/giphy.gif" width="30">&nbsp; Contact me
+## <img src="https://media.giphy.com/media/c5vDr1rkcbcrBwG9SX/giphy.gif" width="30">&nbsp; Contact me
 
 <a href="mailto:adriansian@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> &nbsp;
 <a href="https://instagram.com/adriansian"><img src="https://img.shields.io/badge/@adriansian_-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a> &nbsp;
