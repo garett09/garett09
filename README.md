@@ -55,12 +55,15 @@
 <a href="https://www.vegascreativesoftware.com/us/vegas-pro/" target="_blank"> <img align="left" alt="Vegas" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Vegas_Pro_15.0.png/900px-Vegas_Pro_15.0.png"/> </a> &nbsp;
 <a href="https://powerbi.microsoft.com/en-us/" target="_blank"> <img align="left" alt="Illustrator" width="26px" src="https://img.icons8.com/color/452/power-bi.png"/> </a> &nbsp;
 <a href="https://rapidminer.com/" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_57808224b107cb60467c99e49137ca77/rapidminer-studio.png"/> </a> &nbsp;
+
 ### <img src="https://media.giphy.com/media/l378c04F2fjeZ7vH2/giphy.gif" width="30">&nbsp;Stats 
 
 | GitHub Streak | Garett's GitHub Stats|
 | ---|------|
 |![Github streak](https://github-readme-streak-stats.herokuapp.com/?user=garett09&theme=light")|![Garett's GitHub stats](https://github-readme-stats.vercel.app/api?username=garett09&show_icons=true?)
-[![Garett's Language stats](https://github-readme-stats.vercel.app/api/wakatime?username=garett_09)](https://github.com/anuraghazra/github-readme-stats)
+|Garett's Language stats|
+| ---- |
+|[![Garett's Language stats](https://github-readme-stats.vercel.app/api/wakatime?username=garett_09)](https://github.com/anuraghazra/github-readme-stats)|
 
 
 ### :zap: Recent Activity
