@@ -85,97 +85,28 @@ while(dev.isCoding() && dev.isStuck())
 ### <img src="https://media.giphy.com/media/l378c04F2fjeZ7vH2/giphy.gif" width="30">&nbsp;Stats
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-45712%20lines%20of%20code-blue)
-
-**🐱 My Github Data** 
-
-> 🏆 347 Contributions in the Year 2021
- > 
-> 📦 2.1 MB Used in Github's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 25 Public Repositories 
- > 
-> 🔑 4 Private Repositories  
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    86 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.84% 
-🌆 Daytime    275 commits    ██████████░░░░░░░░░░░░░░░   41.04% 
-🌃 Evening    235 commits    ████████░░░░░░░░░░░░░░░░░   35.07% 
-🌙 Night      74 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.04%
-
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday       105 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.67% 
-Tuesday      119 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.76% 
-Wednesday    67 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
-Thursday     168 commits    ██████░░░░░░░░░░░░░░░░░░░   25.07% 
-Friday       73 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.9% 
-Saturday     67 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
-Sunday       71 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.6%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Singapore
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-```
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/garett09/garett09/main/charts/bar_graph.png) 
-
-
- Last Updated on 08/07/2021
 <!--END_SECTION:waka-->
+
 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#6](https://github.com/garett09/garett09/issues/6) in [garett09/garett09](https://github.com/garett09/garett09)
-2. ❗️ Closed issue [#5](https://github.com/garett09/garett09/issues/5) in [garett09/garett09](https://github.com/garett09/garett09)
-3. ❗️ Closed issue [#4](https://github.com/garett09/garett09/issues/4) in [garett09/garett09](https://github.com/garett09/garett09)
-4. ❗️ Closed issue [#3](https://github.com/garett09/garett09/issues/3) in [garett09/garett09](https://github.com/garett09/garett09)
-5. ❗️ Closed issue [#2](https://github.com/garett09/garett09/issues/2) in [garett09/garett09](https://github.com/garett09/garett09)
-<!--END_SECTION:activity-->
 
 ---
+
+### 📣 Memes of the hour
+
+<!-- MEMES:START -->
+<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
 <!-- JOKES:START -->
-- [Apparently nobody in Djibouti likes the Flinstones…](https://www.reddit.com/r/dadjokes/comments/ogb7my/apparently_nobody_in_djibouti_likes_the_flinstones/)
-- [Robin tells Batman "I can't get the batmobile started"](https://www.reddit.com/r/Jokes/comments/ogb793/robin_tells_batman_i_cant_get_the_batmobile/)
-- [What is one thing every woman wants that starts with P and ends with S?](https://www.reddit.com/r/dadjokes/comments/og9oal/what_is_one_thing_every_woman_wants_that_starts/)
-- [How many conspiracy theorists does it take to change a light bulb?](https://www.reddit.com/r/Jokes/comments/og9g49/how_many_conspiracy_theorists_does_it_take_to/)
-- [So my 95 lb wife just told me she'll slam my head on the keyboard if I don't get off the computer. Ha.](https://www.reddit.com/r/dadjokes/comments/og95qs/so_my_95_lb_wife_just_told_me_shell_slam_my_head/)
 <!-- JOKES:END -->
 
 ### 📣 Quotes of the hour
 
 <!-- QUOTES:START -->
-- ["If Adolf Hitler flew in today....](https://www.reddit.com/r/quotes/comments/ogbxry/if_adolf_hitler_flew_in_today/)
-- [[Video] How to make a film while traveling alone. A South Korean man from the opposite side of the Earth made a film while travelling alone 30 cities in Europe for 3 months. The scenes were filmed by passers-by willing to help him. It was his first trip for all of his life.](https://www.reddit.com/r/GetMotivated/comments/ogawcl/video_how_to_make_a_film_while_traveling_alone_a/)
-- [[image] never stop working on yourself](https://www.reddit.com/r/GetMotivated/comments/oga5te/image_never_stop_working_on_yourself/)
-- [Women are meant to be loved, not to be understood. ....Oscar Wilde](https://www.reddit.com/r/quotes/comments/og9w8p/women_are_meant_to_be_loved_not_to_be_understood/)
-- [“It’s amazing that the heart makes no noise when it cracks.” ~ Robert Cormier (Heroes)](https://www.reddit.com/r/quotes/comments/og8xbv/its_amazing_that_the_heart_makes_no_noise_when_it/)
 <!-- QUOTES:END -->
 
 --- 

@@ -5,18 +5,32 @@ on:
   workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
 jobs:
   update-readme-with-blog:
-    name: Update this repo's README with latest blog posts
+    name: Update this repo's README with latest posts
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: JOKES
-          commit_message: "Updated readme with the latest jokes data from RSS source"
-          feed_list: "https://www.reddit.com/r/dadjokes/.rss,https://www.reddit.com/r/Jokes/.rss"
+          commit_message: "New jokes 🤣"
+          disable_sort: True
+          committer_username: garett09
+          committer_email: adriansian@gmail.com
+          feed_list: "https://www.reddit.com/r/dadjokes/.rss,https://www.reddit.com/r/Jokes/.rss,https://www.reddit.com/r/funny/.rss"
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: QUOTES
-          commit_message: "Updated readme with the latest quotes data from RSS source"
-          feed_list: "https://www.reddit.com/r/quotes/.rss,https://www.reddit.com/r/GetMotivated/.rss"
+          commit_message: "New batch of motivational quotes  👌"
+          disable_sort: True
+          committer_username: garett09
+          committer_email: adriansian@gmail.com
+          feed_list: "https://www.reddit.com/r/quotes/.rss,https://www.reddit.com/r/GetMotivated/.rss,https://www.reddit.com/r/QuotesPorn/.rss"
+       - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: MEMES
+          commit_message: "New batch of memes  🖕🏻"
+          disable_sort: True
+          committer_username: garett09
+          committer_email: adriansian@gmail.com
+          feed_list: "https://www.reddit.com/r/dankmemes/.rss,https://www.reddit.com/r/memes/.rss,https://www.reddit.com/r/pinoymemes/.rss,https://www.reddit.com/r/CoronavirusMemes/.rss"
           
