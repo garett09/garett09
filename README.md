@@ -108,7 +108,7 @@ while(dev.isCoding() && dev.isStuck())
 - [How does Moses make his coffee?](https://www.reddit.com/r/dadjokes/comments/og6lys/how_does_moses_make_his_coffee/)
 <!-- JOKES:END -->
 
-### 📣 Quote of the hour
+### 📣 Quotes of the hour
 
 <!-- QUOTES:START -->
 - [[image] “Because believing that the dots will connect down the road will give you the confidence to follow your heart even when it leads you off the well worn path; and that will make all the difference.”](https://www.reddit.com/r/GetMotivated/comments/og8npv/image_because_believing_that_the_dots_will/)
