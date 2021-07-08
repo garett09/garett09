@@ -1,4 +1,4 @@
-<h2> Kumusta (Hello)🙏 I'm Adrian Garett Sian 🏻<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h2> Kumusta (Hello)🙏 I'm Adrian Garett Sian<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 
 ![profile count](https://komarev.com/ghpvc/?username=garett09&color=red)
 [![GitHub Garettl](https://img.shields.io/github/followers/garett09?label=follow&style=social)](https://github.com/garett09)
