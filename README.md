@@ -89,33 +89,18 @@ while(dev.isCoding() && dev.isStuck())
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#6](https://github.com/garett09/garett09/issues/6) in [garett09/garett09](https://github.com/garett09/garett09)
-2. ❗️ Closed issue [#5](https://github.com/garett09/garett09/issues/5) in [garett09/garett09](https://github.com/garett09/garett09)
-3. ❗️ Closed issue [#4](https://github.com/garett09/garett09/issues/4) in [garett09/garett09](https://github.com/garett09/garett09)
-4. ❗️ Closed issue [#3](https://github.com/garett09/garett09/issues/3) in [garett09/garett09](https://github.com/garett09/garett09)
-5. ❗️ Closed issue [#2](https://github.com/garett09/garett09/issues/2) in [garett09/garett09](https://github.com/garett09/garett09)
-<!--END_SECTION:activity-->
+
 
 ---
 
 ### 📣 Jokes of the hour
 
 <!-- JOKES:START -->
-- [My son accidentally handed me a dad joke on a platter and it was glorious.](https://www.reddit.com/r/dadjokes/comments/og7zk2/my_son_accidentally_handed_me_a_dad_joke_on_a/)
-- [In college, I was refused membership in all the fraternities because I was circumcised.](https://www.reddit.com/r/Jokes/comments/og7oi6/in_college_i_was_refused_membership_in_all_the/)
-- [What do you call a fish wearing a bowtie?](https://www.reddit.com/r/dadjokes/comments/og7nml/what_do_you_call_a_fish_wearing_a_bowtie/)
-- [Darth Vader walked into a record store and they told him they did not have George Michael.](https://www.reddit.com/r/dadjokes/comments/og721u/darth_vader_walked_into_a_record_store_and_they/)
-- [How does Moses make his coffee?](https://www.reddit.com/r/dadjokes/comments/og6lys/how_does_moses_make_his_coffee/)
 <!-- JOKES:END -->
 
 ### 📣 Quote of the hour
 
-<!-- QUOTES:START -->
-- [What do you want people to truly remember you by at the end of your life?” – Jason Brown (from his interview with Jesus Calling podcast)](https://www.reddit.com/r/quotes/comments/og8guf/what_do_you_want_people_to_truly_remember_you_by/)
-- [When remembering someone starts stinging, stop getting further in the direction.](https://www.reddit.com/r/quotes/comments/og88qj/when_remembering_someone_starts_stinging_stop/)
-- ["Life ... is a tale Told by an idiot, full of sound and fury, Signifying nothing."– William Shakespeare, Macbeth](https://www.reddit.com/r/quotes/comments/og73zm/life_is_a_tale_told_by_an_idiot_full_of_sound_and/)
-- ["The oppressed are allowed once every few years to decide which particular representatives of the oppressing class are to represent and repress them." – Karl Marx](https://www.reddit.com/r/quotes/comments/og63ub/the_oppressed_are_allowed_once_every_few_years_to/)
-- ["There is a cult of ignorance in the United States, and there has always been. The strain of anti-intellectualism has been a constant thread winding its way through our political and cultural life, nurtured by the false notion that democracy means that 'my ignorance is just as good"– Isaac Asimov](https://www.reddit.com/r/quotes/comments/og63fq/there_is_a_cult_of_ignorance_in_the_united_states/)
+<!-- QUOTES:START -->)
 <!-- QUOTES:END -->
 
 --- 
