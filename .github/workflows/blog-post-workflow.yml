@@ -25,7 +25,7 @@ jobs:
           committer_username: garett09
           committer_email: adriansian@gmail.com
           feed_list: "https://www.reddit.com/r/quotes/.rss,https://www.reddit.com/r/GetMotivated/.rss,https://www.reddit.com/r/QuotesPorn/.rss"
-       - uses: gautamkrishnar/blog-post-workflow@master
+      - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: MEMES
           commit_message: "New batch of memes  🖕🏻"
