@@ -66,7 +66,7 @@
 
 | Weekly coding stats|
 |---|
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=garett_09&range=last_year&v=2&layout=compact&custom_title=Garett's coding stats)](https://github.com/anuraghazra/github-readme-stats)
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=garett_09&range=last_year&v=2&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### :zap: Recent Activity
 
