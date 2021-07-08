@@ -62,7 +62,7 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=garett09&theme=light" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img width="137px" src="https://github-readme-stats.vercel.app/api?username=garett09&count_private=true&show_icons=true?" />
+  <img width="800px" src="https://github-readme-stats.vercel.app/api?username=garett09&count_private=true&show_icons=true?" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=garett_09" />
