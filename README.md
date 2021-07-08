@@ -63,10 +63,8 @@
 | ---|------|
 ![Github streak](https://github-readme-streak-stats.herokuapp.com/?user=garett09&theme=light")|![Garett's GitHub stats](https://github-readme-stats.vercel.app/api?username=garett09&count_private=true&show_icons=true?)
 
-
-| Weekly coding stats|
-|---|
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=garett_09&range=last_year&layout=compact&custom_title=Garett%27s%20coding%20stats)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ### :zap: Recent Activity
 
