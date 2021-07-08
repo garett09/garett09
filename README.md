@@ -95,6 +95,11 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Jokes of the hour
 
 <!-- JOKES:START -->
+- [My son accidentally handed me a dad joke on a platter and it was glorious.](https://www.reddit.com/r/dadjokes/comments/og7zk2/my_son_accidentally_handed_me_a_dad_joke_on_a/)
+- [In college, I was refused membership in all the fraternities because I was circumcised.](https://www.reddit.com/r/Jokes/comments/og7oi6/in_college_i_was_refused_membership_in_all_the/)
+- [What do you call a fish wearing a bowtie?](https://www.reddit.com/r/dadjokes/comments/og7nml/what_do_you_call_a_fish_wearing_a_bowtie/)
+- [Darth Vader walked into a record store and they told him they did not have George Michael.](https://www.reddit.com/r/dadjokes/comments/og721u/darth_vader_walked_into_a_record_store_and_they/)
+- [How does Moses make his coffee?](https://www.reddit.com/r/dadjokes/comments/og6lys/how_does_moses_make_his_coffee/)
 <!-- JOKES:END -->
 
 ### 📣 Quote of the hour
