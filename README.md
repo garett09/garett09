@@ -58,11 +58,6 @@
 
 ### <img src="https://media.giphy.com/media/l378c04F2fjeZ7vH2/giphy.gif" width="30">&nbsp;Stats 
 
-
-| GitHub Streak | Garett's GitHub Stats|
-| ---|------|
-![Github streak](https://github-readme-streak-stats.herokuapp.com/?user=garett09&theme=light")|![Garett's GitHub stats](https://github-readme-stats.vercel.app/api?username=garett09&count_private=true&show_icons=true?)
-
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-156-blue)
 
