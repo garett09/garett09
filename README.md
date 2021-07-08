@@ -16,10 +16,10 @@ const garett = {
     askMeAbout: ["web dev", "tech", "photography/videography", "games"],
     technologies: {
         frontEnd: {
-            js: ["HTML", "CSS", "Bootstrap", "AngularJS", "jQuery", "JavaScript"],
+            lang: ["HTML", "CSS", "Bootstrap", "AngularJS", "jQuery", "JavaScript"],
         },
         backEnd: {
-            js: ["Java", "PHP"],
+            lang: ["Java", "PHP"],
         },
         mobile: {
             native: ["Android: ROM and Kernel development"]
