@@ -30,11 +30,9 @@ var status =
 
 const skills = 
 {
-  languages :[Python, Bash, Html, Css, Javascript, BootStrap, Java, Git, Markdown, AngularJs, jQuery, AccessSQL, MySQL],
+  languages :[Python, Bash, Html, Css, Javascript, BootStrap, Java, Git, Markdown, AngularJs, AccessSQL, MySQL],
   
   ide       :[Vs Code],
-  
-  architecture :[ Dynamic web applications],
   
   frameworks:[Bootstrap],
   
@@ -83,26 +81,29 @@ while(dev.isCoding() && dev.isStuck())
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)&nbsp;
 
 ---
-#### <img src="https://media.giphy.com/media/l378c04F2fjeZ7vH2/giphy.gif" width="30">&nbsp;Stats
+### <img src="https://media.giphy.com/media/l378c04F2fjeZ7vH2/giphy.gif" width="30">&nbsp;Stats
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-#### :zap: Recent Activity
+### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
 
-### Blog posts
-<!-- BLOG-POST-LIST:START -->
-- [In college, I was refused membership in all the fraternities because I was circumcised.](https://www.reddit.com/r/Jokes/comments/og7oi6/in_college_i_was_refused_membership_in_all_the/)
-- [Last Day Alive](https://www.reddit.com/r/Jokes/comments/og6fhr/last_day_alive/)
-- [A Mormon was seated next to an Irishman on a flight from London to the US.](https://www.reddit.com/r/Jokes/comments/og6cpt/a_mormon_was_seated_next_to_an_irishman_on_a/)
-- [This is ridiculous. It's July 6th and people are still setting off fireworks.](https://www.reddit.com/r/Jokes/comments/og5m28/this_is_ridiculous_its_july_6th_and_people_are/)
-- [My neighbor says he is too afraid to plant an apple tree.](https://www.reddit.com/r/Jokes/comments/og567a/my_neighbor_says_he_is_too_afraid_to_plant_an/)
-<!-- BLOG-POST-LIST:END -->
+---
+
+### 📣 Jokes of the hour
+
+<!-- JOKES:START -->
+<!-- JOKES:END -->
+
+### 📣 Quote of the hour
+
+<!-- QUOTES:START -->
+<!-- QUOTES:END -->
 
 --- 
-## 💻 Workspace Spec
+### 💻 Workspace Spec
 
 ![Windows](https://img.shields.io/badge/Windows-v_20H2-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Nvidia](https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
