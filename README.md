@@ -94,6 +94,11 @@ while(dev.isCoding() && dev.isStuck())
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [In college, I was refused membership in all the fraternities because I was circumcised.](https://www.reddit.com/r/Jokes/comments/og7oi6/in_college_i_was_refused_membership_in_all_the/)
+- [Last Day Alive](https://www.reddit.com/r/Jokes/comments/og6fhr/last_day_alive/)
+- [A Mormon was seated next to an Irishman on a flight from London to the US.](https://www.reddit.com/r/Jokes/comments/og6cpt/a_mormon_was_seated_next_to_an_irishman_on_a/)
+- [This is ridiculous. It's July 6th and people are still setting off fireworks.](https://www.reddit.com/r/Jokes/comments/og5m28/this_is_ridiculous_its_july_6th_and_people_are/)
+- [My neighbor says he is too afraid to plant an apple tree.](https://www.reddit.com/r/Jokes/comments/og567a/my_neighbor_says_he_is_too_afraid_to_plant_an/)
 <!-- BLOG-POST-LIST:END -->
 
 --- 
