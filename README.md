@@ -25,7 +25,7 @@ const garett = {
         },
         devOps: ["Amazon Web Service", "Google Cloud Platform", "Microsoft Azure", "Heroku"],
         databases: ["Microsoft SQL Server,", "Access SQL"],
-        misc: ["Vegas Pro", "Microsoft Power Bi", "Rapid Miner"]
+        misc: ["Vegas Pro", "Microsoft Power Bi", "Rapid Miner", "Micrsoft Sharepoint"]
     },
     architecture: ["Dynamic web application"],
     currentFocus: "Business analytics",
