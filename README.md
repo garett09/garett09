@@ -97,6 +97,11 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
+- [A tale of 5 million gnome children](https://www.reddit.com/r/dankmemes/comments/o1a5i1/a_tale_of_5_million_gnome_children/)
+- [“Think, Mark, think!” is your May 2021 Meme of the Month!!!](https://www.reddit.com/r/dankmemes/comments/ods6l9/think_mark_think_is_your_may_2021_meme_of_the/)
+- [no offense](https://www.reddit.com/r/dankmemes/comments/og6fs8/no_offense/)
+- [Bling bling](https://www.reddit.com/r/dankmemes/comments/og5qw8/bling_bling/)
+- [man i'm dumb af](https://www.reddit.com/r/dankmemes/comments/og5u5s/man_im_dumb_af/)
 <!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
