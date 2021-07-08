@@ -33,7 +33,7 @@ const garett = {
 };
 ```
 ---
-<summary><img src="https://media.giphy.com/media/l378c04F2fjeZ7vH2/giphy.gif" width="30">&nbsp;Stats</summary>
+### <img src="https://media.giphy.com/media/l378c04F2fjeZ7vH2/giphy.gif" width="30">&nbsp;Stats
 <br>
 <!--START_SECTION:waka-->
 
