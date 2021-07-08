@@ -70,4 +70,4 @@
 
  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=garett_09&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=garett_09&redirect=true)
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=garett_09&width=510&count=10)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=garett_09&width=510)
