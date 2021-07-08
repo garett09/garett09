@@ -43,6 +43,63 @@ const garett = {
 ### <img src="https://media.giphy.com/media/l378c04F2fjeZ7vH2/giphy.gif" width="30">&nbsp;Stats
 
 <!--START_SECTION:waka-->
+**🐱 My Github Data** 
+
+> 🏆 306 Contributions in the Year 2021
+ > 
+> 📦 2.1 MB Used in Github's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 26 Public Repositories 
+ > 
+> 🔑 4 Private Repositories  
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    86 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.84% 
+🌆 Daytime    275 commits    ██████████░░░░░░░░░░░░░░░   41.04% 
+🌃 Evening    235 commits    ████████░░░░░░░░░░░░░░░░░   35.07% 
+🌙 Night      74 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.04%
+
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday       105 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.67% 
+Tuesday      119 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.76% 
+Wednesday    85 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.69% 
+Thursday     150 commits    █████░░░░░░░░░░░░░░░░░░░░   22.39% 
+Friday       73 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.9% 
+Saturday     67 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
+Sunday       71 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.6%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Singapore
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+```
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/garett09/garett09/main/charts/bar_graph.png) 
+
+
+ Last Updated on 08/07/2021
 <!--END_SECTION:waka-->
 
 ### :zap: Recent Activity
