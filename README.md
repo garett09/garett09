@@ -12,6 +12,7 @@
 ```javascript
 const garett = {
     pronouns: "He" | "Him",
+    aboutMe: ["20", "college student in UST", "Information Systems major" "business analytics ♥"]
     askMeAbout: ["web dev", "tech", "photography/videography", "games"],
     technologies: {
         frontEnd: {
