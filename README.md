@@ -58,12 +58,11 @@
 
 ### <img src="https://media.giphy.com/media/l378c04F2fjeZ7vH2/giphy.gif" width="30">&nbsp;Stats 
 
-<a href="">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=garett09&theme=light" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img width="600px" src="https://github-readme-stats.vercel.app/api?username=garett09&count_private=true&show_icons=true?" />
-</a>
+
+| GitHub Streak | Garett's GitHub Stats|
+| ---|------|
+![Github streak](https://github-readme-streak-stats.herokuapp.com/?user=garett09&theme=light")|![Garett's GitHub stats](https://github-readme-stats.vercel.app/api?username=garett09&show_icons=true?)
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=garett_09" />
 </a>
