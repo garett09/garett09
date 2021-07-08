@@ -181,8 +181,8 @@ Linux                    42 mins             ██░░░░░░░░░�
 - [Interviewer : why should we hire you as a waiter?](https://www.reddit.com/r/dadjokes/comments/og52u0/interviewer_why_should_we_hire_you_as_a_waiter/)
 - [My son accidentally handed me a dad joke on a platter and it was glorious.](https://www.reddit.com/r/dadjokes/comments/og7zk2/my_son_accidentally_handed_me_a_dad_joke_on_a/)
 - [I returned my lizard to the pet store as he wouldn’t stop telling dad jokes.](https://www.reddit.com/r/dadjokes/comments/ogcoh4/i_returned_my_lizard_to_the_pet_store_as_he/)
+- [My friend keeps saying “cheer up man it could be worse, you could be stuck underground in a hole full of water.”](https://www.reddit.com/r/dadjokes/comments/oge46v/my_friend_keeps_saying_cheer_up_man_it_could_be/)
 - [Pulled a Dad Joke on a Nurse](https://www.reddit.com/r/dadjokes/comments/ofrfzn/pulled_a_dad_joke_on_a_nurse/)
-- [Did you know that your pupils are the last parts to stop working after you die?](https://www.reddit.com/r/dadjokes/comments/ofuxop/did_you_know_that_your_pupils_are_the_last_parts/)
 <!-- JOKES:END -->
 
 ### 📣 Quotes of the hour
