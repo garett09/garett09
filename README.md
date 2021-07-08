@@ -171,8 +171,8 @@ Linux                    42 mins             ██░░░░░░░░░�
 - [A tale of 5 million gnome children](https://www.reddit.com/r/dankmemes/comments/o1a5i1/a_tale_of_5_million_gnome_children/)
 - [“Think, Mark, think!” is your May 2021 Meme of the Month!!!](https://www.reddit.com/r/dankmemes/comments/ods6l9/think_mark_think_is_your_may_2021_meme_of_the/)
 - [How the fuck did they exist](https://www.reddit.com/r/dankmemes/comments/ogbq5y/how_the_fuck_did_they_exist/)
-- [I’m depressed now](https://www.reddit.com/r/dankmemes/comments/oga33e/im_depressed_now/)
 - [My dreams, just like pots, are smashed.](https://www.reddit.com/r/dankmemes/comments/ogcxwx/my_dreams_just_like_pots_are_smashed/)
+- [I’m depressed now](https://www.reddit.com/r/dankmemes/comments/oga33e/im_depressed_now/)
 <!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
