@@ -172,7 +172,7 @@ Linux                    42 mins             ██░░░░░░░░░�
 - [“Think, Mark, think!” is your May 2021 Meme of the Month!!!](https://www.reddit.com/r/dankmemes/comments/ods6l9/think_mark_think_is_your_may_2021_meme_of_the/)
 - [How the fuck did they exist](https://www.reddit.com/r/dankmemes/comments/ogbq5y/how_the_fuck_did_they_exist/)
 - [I’m depressed now](https://www.reddit.com/r/dankmemes/comments/oga33e/im_depressed_now/)
-- [no offense](https://www.reddit.com/r/dankmemes/comments/og6fs8/no_offense/)
+- [My dreams, just like pots, are smashed.](https://www.reddit.com/r/dankmemes/comments/ogcxwx/my_dreams_just_like_pots_are_smashed/)
 <!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
