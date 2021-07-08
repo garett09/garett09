@@ -61,11 +61,11 @@
 
 | GitHub Streak | Garett's GitHub Stats|
 | ---|------|
-![Github streak](https://github-readme-streak-stats.herokuapp.com/?user=garett09&theme=light")|![Garett's GitHub stats](https://github-readme-stats.vercel.app/api?username=garett09&show_icons=true?)
+![Github streak](https://github-readme-streak-stats.herokuapp.com/?user=garett09&theme=light")|![Garett's GitHub stats](https://github-readme-stats.vercel.app/api?username=garett09&count_private=true&show_icons=true?)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=garett_09&v=2" />
-</a>
+
+| Weekly coding stats|
+|[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=garett_09&range=last_year&v=2&layout=compact&custom_title=Garett's coding stats)](https://github.com/anuraghazra/github-readme-stats)|
 
 ### :zap: Recent Activity
 
