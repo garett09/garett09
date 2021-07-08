@@ -170,9 +170,9 @@ Linux                    42 mins             ██░░░░░░░░░�
 <!-- MEMES:START -->
 - [A tale of 5 million gnome children](https://www.reddit.com/r/dankmemes/comments/o1a5i1/a_tale_of_5_million_gnome_children/)
 - [“Think, Mark, think!” is your May 2021 Meme of the Month!!!](https://www.reddit.com/r/dankmemes/comments/ods6l9/think_mark_think_is_your_may_2021_meme_of_the/)
-- [no offense](https://www.reddit.com/r/dankmemes/comments/og6fs8/no_offense/)
-- [Bling bling](https://www.reddit.com/r/dankmemes/comments/og5qw8/bling_bling/)
+- [I’m depressed now](https://www.reddit.com/r/dankmemes/comments/oga33e/im_depressed_now/)
 - [A healthy relationship](https://www.reddit.com/r/dankmemes/comments/og8fpk/a_healthy_relationship/)
+- [How the fuck did they exist](https://www.reddit.com/r/dankmemes/comments/ogbq5y/how_the_fuck_did_they_exist/)
 <!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
