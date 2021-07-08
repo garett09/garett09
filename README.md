@@ -3,8 +3,6 @@
 ![profile count](https://komarev.com/ghpvc/?username=garett09&color=red)&nbsp;
 [![GitHub Garettl](https://img.shields.io/github/followers/garett09?label=follow&style=social)](https://github.com/garett09)&nbsp;
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UChAoCAh1jVTaMz0Sc61X5Xw?style=social)&nbsp;
-[![Wakatime](https://github.com/garett09/garett09/actions/workflows/update-stats.yml/badge.svg?branch=main)](https://github.com/garett09/garett09/actions/workflows/update-stats.yml)&nbsp;
-[![Workflow activity](https://github.com/garett09/garett09/actions/workflows/update-readme.yml/badge.svg?branch=main)](https://github.com/garett09/garett09/actions/workflows/update-readme.yml)
 ---
 
 ### <img src="https://media.giphy.com/media/fTsZNbPQxJWtor2LXE/giphy.gif"  width="30">&nbsp;About Me
