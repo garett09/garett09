@@ -5,7 +5,6 @@
 ![Total time worked](https://wakatime.com/badge/github/garett09/garett09.svg)&nbsp;
 [![Wakatime](https://github.com/garett09/garett09/actions/workflows/update-stats.yml/badge.svg?branch=main)](https://github.com/garett09/garett09/actions/workflows/update-stats.yml)&nbsp;
 [![Workflow activity](https://github.com/garett09/garett09/actions/workflows/update-readme.yml/badge.svg?branch=main)](https://github.com/garett09/garett09/actions/workflows/update-readme.yml)
-&nbsp;
 ---
 
 ### <img src="https://media.giphy.com/media/fTsZNbPQxJWtor2LXE/giphy.gif"  width="30">&nbsp;About Me
