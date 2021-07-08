@@ -171,11 +171,11 @@ No Activity Tracked This Week
 ### 📣 Quotes of the hour
 
 <!-- QUOTES:START -->
-- [[image] “Because believing that the dots will connect down the road will give you the confidence to follow your heart even when it leads you off the well worn path; and that will make all the difference.”](https://www.reddit.com/r/GetMotivated/comments/og8npv/image_because_believing_that_the_dots_will/)
+- [“It’s amazing that the heart makes no noise when it cracks.” ~ Robert Cormier (Heroes)](https://www.reddit.com/r/quotes/comments/og8xbv/its_amazing_that_the_heart_makes_no_noise_when_it/)
+- [[Image] "Six Things Mentally Strong People Do"](https://www.reddit.com/r/GetMotivated/comments/og8tws/image_six_things_mentally_strong_people_do/)
 - [What do you want people to truly remember you by at the end of your life?” – Jason Brown (from his interview with Jesus Calling podcast)](https://www.reddit.com/r/quotes/comments/og8guf/what_do_you_want_people_to_truly_remember_you_by/)
 - [When remembering someone starts stinging, stop getting further in the direction.](https://www.reddit.com/r/quotes/comments/og88qj/when_remembering_someone_starts_stinging_stop/)
 - ["Life ... is a tale Told by an idiot, full of sound and fury, Signifying nothing."– William Shakespeare, Macbeth](https://www.reddit.com/r/quotes/comments/og73zm/life_is_a_tale_told_by_an_idiot_full_of_sound_and/)
-- ["The oppressed are allowed once every few years to decide which particular representatives of the oppressing class are to represent and repress them." – Karl Marx](https://www.reddit.com/r/quotes/comments/og63ub/the_oppressed_are_allowed_once_every_few_years_to/)
 <!-- QUOTES:END -->
 
 --- 
