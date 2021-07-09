@@ -171,11 +171,11 @@ Linux                    42 mins             ██░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
-- [Weird Japanese Service](http://9gag.com/gag/aWjdrpn)
-- [First time using a sandwich toaster](http://9gag.com/gag/aP3pE5V)
+- [Impossible in today&rsquo;s world](http://9gag.com/gag/awM8R5B)
+- [Cosplay is for everyone !](http://9gag.com/gag/a5Ex8br)
 - [&quot;Londo Jerman&quot;](http://9gag.com/gag/azMB0Ep)
-- [Ooh no](http://9gag.com/gag/agBdPdx)
 - [Men are simple creatures](http://9gag.com/gag/av5D37q)
+- [Ooh no](http://9gag.com/gag/agBdPdx)
 <!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
