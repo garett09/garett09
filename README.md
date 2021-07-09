@@ -153,6 +153,10 @@ Linux                    42 mins             ██░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 
+#### All time coding stats
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=garett_09&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
