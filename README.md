@@ -119,11 +119,11 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Jokes of the hour
 
 <!-- JOKES:START -->
-- [Woman mocks “sexy” celebrity photos with her own versions….(30 Photos)](https://thechive.com/2021/07/08/woman-mocks-sexy-celebrity-photos-with-her-own-versions-30-photos-2/)
-- [A Handful of Ways to Switch up Your Masturbation (12 GIFs)](https://thechive.com/2021/07/08/a-handful-of-ways-to-switch-up-your-masturbation-12-gifs/)
-- [Sh***y neighbors that are worse than a strict HOA (18 GIFs)](https://thechive.com/2021/07/08/shy-neighbors-that-are-worse-than-a-strict-hoa/)
-- [Zip up your HAZMAT suit — we’re going into the Thrift Shop (33 photos)](https://thechive.com/2021/07/08/zip-up-your-hazmat-suit-were-going-into-the-thrift-shop-33-photos/)
-- [I’m picking up some eerie vibes from these cursed images (36 Photos)](https://thechive.com/2021/07/08/im-picking-up-some-eerie-vibes-from-these-cursed-images-36-photos/)
+- [Latest Joke on Tubelight](http://chillyjokes.com/latest-joke-on-tubelight/)
+- [Real Friendship Need Love](http://chillyjokes.com/real-friendship-need-love/)
+- [Travel to GOA](http://chillyjokes.com/travel-to-goa/)
+- [Talent Indian Boys](http://chillyjokes.com/talent-indian-boys/)
+- [Talk with Short People](http://chillyjokes.com/talk-with-short-people/)
 <!-- JOKES:END -->
 
 ### 📣 Quotes of the hour
