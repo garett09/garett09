@@ -170,11 +170,11 @@ Linux                    42 mins             ██░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
-- [A Menagerie of Memes With a Multitude of Themes](https://cheezburger.com/14720005/a-menagerie-of-memes-with-a-multitude-of-themes)
-- [Twitter Thread Details All The BS That Goes On In HR Departments](https://cheezburger.com/9738245/twitter-thread-details-all-the-bs-that-goes-on-in-hr-departments)
-- [Guy Splits Opinion By Showing Off A Goofy Print In The House He’s Staying At](https://cheezburger.com/14725893/guy-splits-opinion-by-showing-off-a-goofy-print-in-the-house-hes-staying-at)
-- [Younique Makeup Fails That Are the Definition of a Scam](https://cheezburger.com/6290181/younique-makeup-fails-that-are-the-definition-of-a-scam)
-- [Relatable Gamer Content for Geeks Who Play Hard](https://cheezburger.com/14644741/relatable-gamer-content-for-geeks-who-play-hard)
+- [Python  .MD 2 .PDF](https://envoy1084.hashnode.dev/python-md-2-pdf)
+- [Git and GitHub Essentials - #7 Undoing](https://envoy1084.hashnode.dev/7-undoing)
+- [Git and GitHub Essentials - #6 Git Diff](https://envoy1084.hashnode.dev/6-git-diff)
+- [Learn JavaScript the Eloquent Way- Operators](https://envoy1084.hashnode.dev/learn-javascript-operators)
+- [Git and GitHub Essentials - #5 Ignoring Files and Folders](https://envoy1084.hashnode.dev/5-ignoring-files-and-folders)
 <!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
