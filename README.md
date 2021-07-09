@@ -194,11 +194,11 @@ Linux                    42 mins             ██░░░░░░░░░�
 ### 📣 Quotes of the hour
 
 <!-- QUOTES:START -->
-- ["If she wants you to chase her, immediately run in the opposite direction" - My Dad](https://www.reddit.com/r/quotes/comments/og2jg9/if_she_wants_you_to_chase_her_immediately_run_in/)
 - ["Arachnophobia is bullshit let spiders get married". - My Little Sister.](https://www.reddit.com/r/quotes/comments/ogeyqs/arachnophobia_is_bullshit_let_spiders_get_married/)
-- ["You're not to be so blind with patriotism that you can't face reality. Wrong is wrong, no matter who does it or says it." – Malcolm X](https://www.reddit.com/r/quotes/comments/og62lh/youre_not_to_be_so_blind_with_patriotism_that_you/)
+- ["If she wants you to chase her, immediately run in the opposite direction" - My Dad](https://www.reddit.com/r/quotes/comments/og2jg9/if_she_wants_you_to_chase_her_immediately_run_in/)
 - [“All of us, at some time or other, need help. Whether we’re giving or receiving help, each one of us has something valuable to bring to this world. That’s one of the things that connects us as neighbors–in our own way, each one of us is a giver and a receiver.” ― Fred Rogers](https://www.reddit.com/r/quotes/comments/ogkgvr/all_of_us_at_some_time_or_other_need_help_whether/)
-- [Just because you lost me as a friend. doesn't mean you gained me as an enemy I am bigger than that, I still wanna see you eat just not at my table.](https://www.reddit.com/r/quotes/comments/ofzdmj/just_because_you_lost_me_as_a_friend_doesnt_mean/)
+- ["You're not to be so blind with patriotism that you can't face reality. Wrong is wrong, no matter who does it or says it." – Malcolm X](https://www.reddit.com/r/quotes/comments/og62lh/youre_not_to_be_so_blind_with_patriotism_that_you/)
+- [“We don’t own the planet Earth, we belong to it." – Steve Irwin](https://www.reddit.com/r/quotes/comments/ogl41p/we_dont_own_the_planet_earth_we_belong_to_it/)
 <!-- QUOTES:END -->
 
 --- 
