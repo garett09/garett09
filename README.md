@@ -180,7 +180,7 @@ Linux                    42 mins             ██░░░░░░░░░�
 <!-- JOKES:START -->
 - [r/jokes has a discord and you need to join!](https://www.reddit.com/r/Jokes/comments/i3mmsn/rjokes_has_a_discord_and_you_need_to_join/)
 - [Reposts...](https://www.reddit.com/r/Jokes/comments/ics15s/reposts/)
-- [CEO of IKEA is now the Prime Minister of Sweden](https://www.reddit.com/r/Jokes/comments/ogk4en/ceo_of_ikea_is_now_the_prime_minister_of_sweden/)
+- [A Canadian was having a coffee and croissants with butter and jam in a cafe when an American tourist, chewing gum, sat down next to him.](https://www.reddit.com/r/Jokes/comments/ogs5pr/a_canadian_was_having_a_coffee_and_croissants/)
 <!-- JOKES:END -->
 
 ### 📣 Quotes of the hour
