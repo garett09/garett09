@@ -171,10 +171,10 @@ Linux                    42 mins             ██░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
-- [Impossible in today&rsquo;s world](http://9gag.com/gag/awM8R5B)
-- [Cosplay is for everyone !](http://9gag.com/gag/a5Ex8br)
-- [&quot;Londo Jerman&quot;](http://9gag.com/gag/azMB0Ep)
+- [Aaaaand it closes again just before you arrive](http://9gag.com/gag/ad8dZg9)
 - [Men are simple creatures](http://9gag.com/gag/av5D37q)
+- [Impossible in today&rsquo;s world](http://9gag.com/gag/awM8R5B)
+- [Modern problems require shithole solutions](http://9gag.com/gag/aLpbY2W)
 - [Ooh no](http://9gag.com/gag/agBdPdx)
 <!-- MEMES:END -->
 
