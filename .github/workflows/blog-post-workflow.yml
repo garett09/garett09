@@ -16,15 +16,15 @@ jobs:
           disable_sort: True
           committer_username: garett09
           committer_email: adriansian@gmail.com
-          feed_list: "https://www.reddit.com/r/dadjokes/.rss,https://www.reddit.com/r/Jokes/.rss,https://www.reddit.com/r/funny/.rss"
+          feed_list: "https://thechive.com/feed/,http://chillyjokes.com/chillyjokes/jokes/feed,http://laffgaff.com/feed,http://laughbreak.com/category/stories/feed"
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: QUOTES
-          commit_message: "[AUTOMATED] New batch of motivational quotes  👌"
+          commit_message: "[AUTOMATED] New batch of quotes  👌"
           disable_sort: True
           committer_username: garett09
           committer_email: adriansian@gmail.com
-          feed_list: "https://www.reddit.com/r/quotes/.rss,https://www.reddit.com/r/GetMotivated/.rss,https://www.reddit.com/r/QuotesPorn/.rss"
+          feed_list: https://www.brainyquote.com/link/quotebr.rss,https://tinybuddha.com/feed/,https://www.brainyquote.com/link/quotefu.rss,https://www.brainyquote.com/link/quotelo.rss,https://www.brainyquote.com/link/quotena.rss,https://www.brainyquote.com/link/quotear.rss"
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: MEMES
@@ -32,5 +32,5 @@ jobs:
           disable_sort: True
           committer_username: garett09
           committer_email: adriansian@gmail.com
-          feed_list: "https://www.reddit.com/r/dankmemes/.rss,https://www.reddit.com/r/memes/.rss,https://www.reddit.com/r/pinoymemes/.rss,https://www.reddit.com/r/CoronavirusMemes/.rss"
+          feed_list: "https://memebase.cheezburger.com/rss,http://9gagrss.com/feed/"
           
