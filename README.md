@@ -170,16 +170,16 @@ Linux                    42 mins             ██░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
-- [The butt sex people.](http://9gag.com/gag/aK6LogO)
-- [These people...](http://9gag.com/gag/a8EnxKQ)
-- [When one of the boys gets into a relationship](http://9gag.com/gag/aDdPe4w)
 - [Yes please. Make it a three-day work week while we&rsquo;re at it.](http://9gag.com/gag/a4Ex0mQ)
-- [People rescuing a Great White Shark that beached itself chasing a seagull. Filmed on Cape Cod, Massachusetts.](http://9gag.com/gag/amPd4Qj)
+- [Happy weekend...](http://9gag.com/gag/aLpbZLz)
 - [Numbering system that can go to 9999 within the space of a single character](http://9gag.com/gag/aWjd37x)
+- [People rescuing a Great White Shark that beached itself chasing a seagull. Filmed on Cape Cod, Massachusetts.](http://9gag.com/gag/amPd4Qj)
+- [Weird Japanese Service](http://9gag.com/gag/aWjdrpn)
 - [That will teach her](http://9gag.com/gag/aMKWMO1)
 - [Handle](http://9gag.com/gag/aQorLP8)
-- [England fans](http://9gag.com/gag/aoMdQDe)
 - [Legendary](http://9gag.com/gag/anQdmeE)
+- [England fans](http://9gag.com/gag/aoMdQDe)
+- [Everybody should be just working like 937% harder!](http://9gag.com/gag/aXodypz)
 <!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
