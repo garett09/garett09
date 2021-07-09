@@ -119,8 +119,8 @@ JavaScript   8 mins          ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 - [A tale of 5 million gnome children](https://www.reddit.com/r/dankmemes/comments/o1a5i1/a_tale_of_5_million_gnome_children/)
 - [“Think, Mark, think!” is your May 2021 Meme of the Month!!!](https://www.reddit.com/r/dankmemes/comments/ods6l9/think_mark_think_is_your_may_2021_meme_of_the/)
 - [Haha loki go brrrrr](https://www.reddit.com/r/dankmemes/comments/oghnpm/haha_loki_go_brrrrr/)
-- [we're not all like this okay (ಥ_ಥ)](https://www.reddit.com/r/dankmemes/comments/ogewxd/were_not_all_like_this_okay_ಥ_ಥ/)
 - [Unvirgins your olive oil](https://www.reddit.com/r/dankmemes/comments/ogiu9z/unvirgins_your_olive_oil/)
+- [we're not all like this okay (ಥ_ಥ)](https://www.reddit.com/r/dankmemes/comments/ogewxd/were_not_all_like_this_okay_ಥ_ಥ/)
 <!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
