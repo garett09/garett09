@@ -24,7 +24,7 @@ jobs:
           disable_sort: True
           committer_username: garett09
           committer_email: adriansian@gmail.com
-          feed_list: "https://www.brainyquote.com/link/quotebr.rss,https://tinybuddha.com/feed/,https://www.brainyquote.com/link/quotefu.rss,https://www.brainyquote.com/link/quotelo.rss,https://www.brainyquote.com/link/quotena.rss,https://www.brainyquote.com/link/quotear.rss"
+          feed_list: "https://www.reddit.com/r/motivation/.rss,https://www.reddit.com/r/quotes/.rss,https://www.reddit.com/r/QuotesPorn/.rss,https://www.reddit.com/r/GetMotivated/.rss,https://www.reddit.com/r/wholesomememes/.rss,https://www.reddit.com/r/MotivationalMemes/.rss"
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: MEMES
