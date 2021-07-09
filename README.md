@@ -162,12 +162,6 @@ Linux                    42 mins             ██░░░░░░░░░�
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#6](https://github.com/garett09/garett09/issues/6) in [garett09/garett09](https://github.com/garett09/garett09)
-2. ❗️ Closed issue [#5](https://github.com/garett09/garett09/issues/5) in [garett09/garett09](https://github.com/garett09/garett09)
-3. ❗️ Closed issue [#4](https://github.com/garett09/garett09/issues/4) in [garett09/garett09](https://github.com/garett09/garett09)
-4. ❗️ Closed issue [#3](https://github.com/garett09/garett09/issues/3) in [garett09/garett09](https://github.com/garett09/garett09)
-5. ❗️ Closed issue [#2](https://github.com/garett09/garett09/issues/2) in [garett09/garett09](https://github.com/garett09/garett09)
-<!--END_SECTION:activity-->
 
 ---
 
