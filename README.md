@@ -109,11 +109,11 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
-- [A tale of 5 million gnome children](https://www.reddit.com/r/dankmemes/comments/o1a5i1/a_tale_of_5_million_gnome_children/)
-- [“Think, Mark, think!” is your May 2021 Meme of the Month!!!](https://www.reddit.com/r/dankmemes/comments/ods6l9/think_mark_think_is_your_may_2021_meme_of_the/)
-- [Haha loki go brrrrr](https://www.reddit.com/r/dankmemes/comments/oghnpm/haha_loki_go_brrrrr/)
-- [Unvirgins your olive oil](https://www.reddit.com/r/dankmemes/comments/ogiu9z/unvirgins_your_olive_oil/)
-- [we're not all like this okay (ಥ_ಥ)](https://www.reddit.com/r/dankmemes/comments/ogewxd/were_not_all_like_this_okay_ಥ_ಥ/)
+- [A Menagerie of Memes With a Multitude of Themes](https://cheezburger.com/14720005/a-menagerie-of-memes-with-a-multitude-of-themes)
+- [Twitter Thread Details All The BS That Goes On In HR Departments](https://cheezburger.com/9738245/twitter-thread-details-all-the-bs-that-goes-on-in-hr-departments)
+- [Guy Splits Opinion By Showing Off A Goofy Print In The House He’s Staying At](https://cheezburger.com/14725893/guy-splits-opinion-by-showing-off-a-goofy-print-in-the-house-hes-staying-at)
+- [Younique Makeup Fails That Are the Definition of a Scam](https://cheezburger.com/6290181/younique-makeup-fails-that-are-the-definition-of-a-scam)
+- [Relatable Gamer Content for Geeks Who Play Hard](https://cheezburger.com/14644741/relatable-gamer-content-for-geeks-who-play-hard)
 <!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
