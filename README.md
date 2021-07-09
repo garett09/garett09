@@ -200,6 +200,11 @@ Linux                    42 mins             ██░░░░░░░░░�
 - [Love is Love no matter old you are, and I knew if I gave you enough time, you'd come back to me.](http://quotesbox.org/authors/nicholas-sparks-7177_388165/)
 - [Love grows by giving. The love we give away is the only love we keep. The only way to retain love is to give it away.](http://quotesbox.org/authors/elbert-hubbard-12331_175908/)
 - [Love is my sin, and thy dear virtue hate, Hate of my sin, grounded on sinful loving,](http://quotesbox.org/authors/william-shakespeare-5484_389078/)
+- [Love each other dearly always. There is scarcely anything else in the world but that: to love one another.](http://quotesbox.org/authors/victor-hugo-12573_385907/)
+- [Love of one is a piece of barbarism: for it is practised at the expense of all others. Love of God likewise.](http://quotesbox.org/authors/friedrich-nietzsche-1502_382668/)
+- [Love is Love no matter old you are, and I knew if I gave you enough time, you'd come back to me.](http://quotesbox.org/authors/nicholas-sparks-7177_388165/)
+- [Love grows by giving. The love we give away is the only love we keep. The only way to retain love is to give it away.](http://quotesbox.org/authors/elbert-hubbard-12331_175908/)
+- [Love is my sin, and thy dear virtue hate, Hate of my sin, grounded on sinful loving,](http://quotesbox.org/authors/william-shakespeare-5484_389078/)
 <!-- QUOTES:END -->
 
 --- 
