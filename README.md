@@ -151,8 +151,8 @@ Linux                    42 mins             ██░░░░░░░░░�
 
 
 
-### 🐐 All time coding stats
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=garett_09&layout=compact&custom_title=Garett's%20all%20time%20coding%20stats)](https://github.com/anuraghazra/github-readme-stats)
+### 🐐 Garett's overall coding time
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=garett_09&layout=compact&custom_title=All%20time%20coding%20stats)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### :zap: Recent Activity
