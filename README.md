@@ -170,9 +170,9 @@ Linux                    42 mins             ██░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
-- [That will teach her](http://9gag.com/gag/aMKWMO1)
+- [Fanimem](http://9gag.com/gag/aNpqNnw)
 - [Run](http://9gag.com/gag/aDdPKex)
-- [First time using a sandwich toaster](http://9gag.com/gag/aP3pE5V)
+- [90s](http://9gag.com/gag/anQdmVB)
 <!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
