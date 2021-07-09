@@ -190,11 +190,11 @@ Linux                    42 mins             ██░░░░░░░░░�
 ### 📣 Quotes of the hour
 
 <!-- QUOTES:START -->
-- [A fighters mentality.](https://www.reddit.com/r/motivation/comments/ogp7p5/a_fighters_mentality/)
-- [What it takes to be successful ❤️](https://www.reddit.com/r/motivation/comments/ogk3ug/what_it_takes_to_be_successful/)
-- [The only three solutions you ever need😌.](https://www.reddit.com/r/motivation/comments/og7zdy/the_only_three_solutions_you_ever_need/)
-- [Never feel you are worthless](https://www.reddit.com/r/motivation/comments/og10q8/never_feel_you_are_worthless/)
-- [I thought this was GREAT!](https://www.reddit.com/r/motivation/comments/ogj8nb/i_thought_this_was_great/)
+- [Python  .MD 2 .PDF](https://envoy1084.hashnode.dev/python-md-2-pdf)
+- [Git and GitHub Essentials - #7 Undoing](https://envoy1084.hashnode.dev/7-undoing)
+- [Git and GitHub Essentials - #6 Git Diff](https://envoy1084.hashnode.dev/6-git-diff)
+- [Learn JavaScript the Eloquent Way- Operators](https://envoy1084.hashnode.dev/learn-javascript-operators)
+- [Git and GitHub Essentials - #5 Ignoring Files and Folders](https://envoy1084.hashnode.dev/5-ignoring-files-and-folders)
 <!-- QUOTES:END -->
 
 --- 
