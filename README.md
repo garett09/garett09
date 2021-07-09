@@ -172,7 +172,7 @@ Linux                    42 mins             ██░░░░░░░░░�
 <!-- MEMES:START -->
 - [England fans](http://9gag.com/gag/aoMdQDe)
 - [90s](http://9gag.com/gag/anQdmVB)
-- [Run](http://9gag.com/gag/aDdPKex)
+- [Legendary](http://9gag.com/gag/anQdmeE)
 <!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
