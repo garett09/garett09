@@ -129,11 +129,11 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Quotes of the hour
 
 <!-- QUOTES:START -->
-- [The Simple Path to a More Fulfilling, Far Richer Life](https://tinybuddha.com/blog/the-simple-path-to-a-more-fulfilling-far-richer-life/)
-- [How to Embrace Your Sensitivity and See It as a Strength](https://tinybuddha.com/blog/how-to-embrace-your-sensitivity-and-see-it-as-a-strength/)
-- [Emotionally Numb and Physically Disconnected? DDD May Be the Problem](https://tinybuddha.com/blog/emotionally-numb-and-physically-disconnected-ddd-may-be-the-problem/)
-- [The World Is Not My Enemy – Why I’m Trying to Let My Guard Down](https://tinybuddha.com/blog/the-world-is-not-my-enemy-why-im-trying-to-let-my-guard-down/)
-- [How My Son Taught Me That Crying Can Boost My Mental Health](https://tinybuddha.com/blog/how-my-son-taught-me-that-crying-can-boost-my-mental-health/)
+- [What it takes to be successful ❤️](https://www.reddit.com/r/motivation/comments/ogk3ug/what_it_takes_to_be_successful/)
+- [The only three solutions you ever need😌.](https://www.reddit.com/r/motivation/comments/og7zdy/the_only_three_solutions_you_ever_need/)
+- [Never feel you are worthless](https://www.reddit.com/r/motivation/comments/og10q8/never_feel_you_are_worthless/)
+- [A fighters mentality.](https://www.reddit.com/r/motivation/comments/ogp7p5/a_fighters_mentality/)
+- [I thought this was GREAT!](https://www.reddit.com/r/motivation/comments/ogj8nb/i_thought_this_was_great/)
 <!-- QUOTES:END -->
 
 --- 
