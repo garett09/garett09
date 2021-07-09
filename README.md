@@ -170,7 +170,7 @@ Linux                    42 mins             ██░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
-- [Fanimem](http://9gag.com/gag/aNpqNnw)
+- [Handle](http://9gag.com/gag/aQorLP8)
 - [Run](http://9gag.com/gag/aDdPKex)
 - [90s](http://9gag.com/gag/anQdmVB)
 <!-- MEMES:END -->
