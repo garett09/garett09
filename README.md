@@ -171,9 +171,11 @@ Linux                    42 mins             ██░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
-- [Run](http://9gag.com/gag/aDdPKex)
+- [Serving liquor..!!](http://9gag.com/gag/aB2vANP)
+- [Weird Japanese Service](http://9gag.com/gag/aWjdrpn)
+- [First time using a sandwich toaster](http://9gag.com/gag/aP3pE5V)
+- [&quot;Londo Jerman&quot;](http://9gag.com/gag/azMB0Ep)
 - [Men are simple creatures](http://9gag.com/gag/av5D37q)
-- [Fanimem](http://9gag.com/gag/aNpqNnw)
 <!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
