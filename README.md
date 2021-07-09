@@ -171,11 +171,11 @@ Linux                    42 mins             ██░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
+- [The forbidden fleshlight](http://9gag.com/gag/a8EnPnd)
 - [Aaaaand it closes again just before you arrive](http://9gag.com/gag/ad8dZg9)
-- [Men are simple creatures](http://9gag.com/gag/av5D37q)
-- [Impossible in today&rsquo;s world](http://9gag.com/gag/awM8R5B)
-- [Modern problems require shithole solutions](http://9gag.com/gag/aLpbY2W)
 - [Ooh no](http://9gag.com/gag/agBdPdx)
+- [Modern problems require shithole solutions](http://9gag.com/gag/aLpbY2W)
+- [Impossible in today&rsquo;s world](http://9gag.com/gag/awM8R5B)
 <!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
