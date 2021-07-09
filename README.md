@@ -170,9 +170,9 @@ Linux                    42 mins             ██░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
-- [England fans](http://9gag.com/gag/aoMdQDe)
-- [90s](http://9gag.com/gag/anQdmVB)
 - [Legendary](http://9gag.com/gag/anQdmeE)
+- [90s](http://9gag.com/gag/anQdmVB)
+- [Happy weekend...](http://9gag.com/gag/aLpbZLz)
 <!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
