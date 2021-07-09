@@ -119,21 +119,21 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Jokes of the hour
 
 <!-- JOKES:START -->
-- [Woman mocks “sexy” celebrity photos with her own versions….(30 Photos)](https://thechive.com/2021/07/08/woman-mocks-sexy-celebrity-photos-with-her-own-versions-30-photos-2/)
-- [A Handful of Ways to Switch up Your Masturbation (12 GIFs)](https://thechive.com/2021/07/08/a-handful-of-ways-to-switch-up-your-masturbation-12-gifs/)
-- [Sh***y neighbors that are worse than a strict HOA (18 GIFs)](https://thechive.com/2021/07/08/shy-neighbors-that-are-worse-than-a-strict-hoa/)
-- [Zip up your HAZMAT suit — we’re going into the Thrift Shop (33 photos)](https://thechive.com/2021/07/08/zip-up-your-hazmat-suit-were-going-into-the-thrift-shop-33-photos/)
-- [I’m picking up some eerie vibes from these cursed images (36 Photos)](https://thechive.com/2021/07/08/im-picking-up-some-eerie-vibes-from-these-cursed-images-36-photos/)
+- [Latest Joke on Tubelight](http://chillyjokes.com/latest-joke-on-tubelight/)
+- [Real Friendship Need Love](http://chillyjokes.com/real-friendship-need-love/)
+- [Travel to GOA](http://chillyjokes.com/travel-to-goa/)
+- [Talent Indian Boys](http://chillyjokes.com/talent-indian-boys/)
+- [Talk with Short People](http://chillyjokes.com/talk-with-short-people/)
 <!-- JOKES:END -->
 
 ### 📣 Quotes of the hour
 
 <!-- QUOTES:START -->
-- ["Arachnophobia is bullshit let spiders get married". - My Little Sister.](https://www.reddit.com/r/quotes/comments/ogeyqs/arachnophobia_is_bullshit_let_spiders_get_married/)
-- [“Fall in love when you’re ready, not when you’re lonely.”- Unknown](https://www.reddit.com/r/quotes/comments/ogn0gw/fall_in_love_when_youre_ready_not_when_youre/)
-- [“All of us, at some time or other, need help. Whether we’re giving or receiving help, each one of us has something valuable to bring to this world. That’s one of the things that connects us as neighbors–in our own way, each one of us is a giver and a receiver.” ― Fred Rogers](https://www.reddit.com/r/quotes/comments/ogkgvr/all_of_us_at_some_time_or_other_need_help_whether/)
-- [“We don’t own the planet Earth, we belong to it." – Steve Irwin](https://www.reddit.com/r/quotes/comments/ogl41p/we_dont_own_the_planet_earth_we_belong_to_it/)
-- ["If she wants you to chase her, immediately run in the opposite direction" - My Dad](https://www.reddit.com/r/quotes/comments/og2jg9/if_she_wants_you_to_chase_her_immediately_run_in/)
+- [The Simple Path to a More Fulfilling, Far Richer Life](https://tinybuddha.com/blog/the-simple-path-to-a-more-fulfilling-far-richer-life/)
+- [How to Embrace Your Sensitivity and See It as a Strength](https://tinybuddha.com/blog/how-to-embrace-your-sensitivity-and-see-it-as-a-strength/)
+- [Emotionally Numb and Physically Disconnected? DDD May Be the Problem](https://tinybuddha.com/blog/emotionally-numb-and-physically-disconnected-ddd-may-be-the-problem/)
+- [The World Is Not My Enemy – Why I’m Trying to Let My Guard Down](https://tinybuddha.com/blog/the-world-is-not-my-enemy-why-im-trying-to-let-my-guard-down/)
+- [How My Son Taught Me That Crying Can Boost My Mental Health](https://tinybuddha.com/blog/how-my-son-taught-me-that-crying-can-boost-my-mental-health/)
 <!-- QUOTES:END -->
 
 --- 
