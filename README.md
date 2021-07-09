@@ -3,7 +3,6 @@
 ![profile count](https://komarev.com/ghpvc/?username=garett09&color=red)
 [![GitHub Garettl](https://img.shields.io/github/followers/garett09?label=follow&style=social)](https://github.com/garett09)
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UChAoCAh1jVTaMz0Sc61X5Xw?style=social)
-[![Linkedin: Adrian Sian](https://img.shields.io/badge/-Adrian%20Garett%20Sian-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adrian-garett-sian-766775159/)](https://www.linkedin.com/in/adrian-garett-sian-766775159/)
 [![Wakatime updates](https://github.com/garett09/garett09/actions/workflows/update-commits.yml/badge.svg?branch=main)](https://github.com/garett09/garett09/actions/workflows/update-commits.yml)
 ---
 
@@ -12,7 +11,7 @@
 -   🔭  I’m currently working on  **ROM development that I make on my own device which includes LineageOS, dotOs, and cRdroid.**
 -   🌱  I’m currently learning **Javascript, Python and more about Business Analytics.**
 -   👯  I’m looking to collaborate with other developers on **making a project, website or even contribute to open source software.**
--   📫  How to reach me: You can reach me with the links provided above and below. 
+-   📫  How to reach me: You can reach me with the links provided below. 
 -   🥅  2021 Goals: Contribute more to **Open Source projects**
 -   👷  Architecture: **Dynamic web application**
 -   📍   Location: **Quezon City, Philippines** 
@@ -59,6 +58,7 @@ while(dev.isCoding() && dev.isStuck())
 <a href="mailto:adriansian@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> &nbsp;
 <a href="https://instagram.com/adriansian"><img src="https://img.shields.io/badge/@adriansian_-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a> &nbsp;
 <a href="https://t.me/garett_09"><img src="https://img.shields.io/badge/@garett_09_-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a> &nbsp;
+<a href="https://www.linkedin.com/in/adrian-garett-sian-766775159/"><img src="https://img.shields.io/badge/-Adrian%20Garett%20Sian-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adrian-garett-sian-766775159/"/></a> &nbsp;
 
 ---
 
