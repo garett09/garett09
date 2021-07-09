@@ -174,7 +174,7 @@ Linux                    42 mins             ██░░░░░░░░░�
 - [When one of the boys gets into a relationship](http://9gag.com/gag/aDdPe4w)
 - [Yes please. Make it a three-day work week while we&rsquo;re at it.](http://9gag.com/gag/a4Ex0mQ)
 - [People rescuing a Great White Shark that beached itself chasing a seagull. Filmed on Cape Cod, Massachusetts.](http://9gag.com/gag/amPd4Qj)
-- [Handle](http://9gag.com/gag/aQorLP8)
+- [Numbering system that can go to 9999 within the space of a single character](http://9gag.com/gag/aWjd37x)
 <!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
