@@ -190,8 +190,8 @@ Linux                    42 mins             ██░░░░░░░░░�
 ### 📣 Quotes of the hour
 
 <!-- QUOTES:START -->
-- [What it takes to be successful ❤️](https://www.reddit.com/r/motivation/comments/ogk3ug/what_it_takes_to_be_successful/)
 - [A fighters mentality.](https://www.reddit.com/r/motivation/comments/ogp7p5/a_fighters_mentality/)
+- [What it takes to be successful ❤️](https://www.reddit.com/r/motivation/comments/ogk3ug/what_it_takes_to_be_successful/)
 - [The only three solutions you ever need😌.](https://www.reddit.com/r/motivation/comments/og7zdy/the_only_three_solutions_you_ever_need/)
 - [Never feel you are worthless](https://www.reddit.com/r/motivation/comments/og10q8/never_feel_you_are_worthless/)
 - [I thought this was GREAT!](https://www.reddit.com/r/motivation/comments/ogj8nb/i_thought_this_was_great/)
