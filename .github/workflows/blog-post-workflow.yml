@@ -16,7 +16,7 @@ jobs:
           disable_sort: True
           committer_username: garett09
           committer_email: adriansian@gmail.com
-          feed_list: "https://thechive.com/feed/,http://chillyjokes.com/chillyjokes/jokes/feed,http://laffgaff.com/feed,http://laughbreak.com/category/stories/feed"
+          feed_list: "https://thechive.com/feed/,http://chillyjokes.com/chillyjokes/jokes/feed,http://laffgaff.com/feed"
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: QUOTES
