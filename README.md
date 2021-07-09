@@ -171,9 +171,9 @@ Linux                    42 mins             ██░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
+- [Run](http://9gag.com/gag/aDdPKex)
 - [Men are simple creatures](http://9gag.com/gag/av5D37q)
-- [90s](http://9gag.com/gag/anQdmVB)
-- [Happy weekend...](http://9gag.com/gag/aLpbZLz)
+- [Fanimem](http://9gag.com/gag/aNpqNnw)
 <!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
