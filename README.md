@@ -170,9 +170,9 @@ Linux                    42 mins             ██░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
-- [When one of the boys gets into a relationship](http://9gag.com/gag/aDdPe4w)
-- [Happy weekend...](http://9gag.com/gag/aLpbZLz)
 - [Numbering system that can go to 9999 within the space of a single character](http://9gag.com/gag/aWjd37x)
+- [Serving liquor..!!](http://9gag.com/gag/aB2vANP)
+- [People rescuing a Great White Shark that beached itself chasing a seagull. Filmed on Cape Cod, Massachusetts.](http://9gag.com/gag/amPd4Qj)
 <!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
