@@ -137,10 +137,10 @@ JavaScript   8 mins          ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- QUOTES:START -->
 - ["Arachnophobia is bullshit let spiders get married". - My Little Sister.](https://www.reddit.com/r/quotes/comments/ogeyqs/arachnophobia_is_bullshit_let_spiders_get_married/)
-- [“All of us, at some time or other, need help. Whether we’re giving or receiving help, each one of us has something valuable to bring to this world. That’s one of the things that connects us as neighbors–in our own way, each one of us is a giver and a receiver.” ― Fred Rogers](https://www.reddit.com/r/quotes/comments/ogkgvr/all_of_us_at_some_time_or_other_need_help_whether/)
-- ["If she wants you to chase her, immediately run in the opposite direction" - My Dad](https://www.reddit.com/r/quotes/comments/og2jg9/if_she_wants_you_to_chase_her_immediately_run_in/)
-- [“We don’t own the planet Earth, we belong to it." – Steve Irwin](https://www.reddit.com/r/quotes/comments/ogl41p/we_dont_own_the_planet_earth_we_belong_to_it/)
 - [“Fall in love when you’re ready, not when you’re lonely.”- Unknown](https://www.reddit.com/r/quotes/comments/ogn0gw/fall_in_love_when_youre_ready_not_when_youre/)
+- [“All of us, at some time or other, need help. Whether we’re giving or receiving help, each one of us has something valuable to bring to this world. That’s one of the things that connects us as neighbors–in our own way, each one of us is a giver and a receiver.” ― Fred Rogers](https://www.reddit.com/r/quotes/comments/ogkgvr/all_of_us_at_some_time_or_other_need_help_whether/)
+- [“We don’t own the planet Earth, we belong to it." – Steve Irwin](https://www.reddit.com/r/quotes/comments/ogl41p/we_dont_own_the_planet_earth_we_belong_to_it/)
+- ["If she wants you to chase her, immediately run in the opposite direction" - My Dad](https://www.reddit.com/r/quotes/comments/og2jg9/if_she_wants_you_to_chase_her_immediately_run_in/)
 <!-- QUOTES:END -->
 
 --- 
