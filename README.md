@@ -190,11 +190,11 @@ Linux                    42 mins             ██░░░░░░░░░�
 ### 📣 Quotes of the hour
 
 <!-- QUOTES:START -->
-- [Python  .MD 2 .PDF](https://envoy1084.hashnode.dev/python-md-2-pdf)
-- [Git and GitHub Essentials - #7 Undoing](https://envoy1084.hashnode.dev/7-undoing)
-- [Git and GitHub Essentials - #6 Git Diff](https://envoy1084.hashnode.dev/6-git-diff)
-- [Learn JavaScript the Eloquent Way- Operators](https://envoy1084.hashnode.dev/learn-javascript-operators)
-- [Git and GitHub Essentials - #5 Ignoring Files and Folders](https://envoy1084.hashnode.dev/5-ignoring-files-and-folders)
+- [The Simple Path to a More Fulfilling, Far Richer Life](https://tinybuddha.com/blog/the-simple-path-to-a-more-fulfilling-far-richer-life/)
+- [How to Embrace Your Sensitivity and See It as a Strength](https://tinybuddha.com/blog/how-to-embrace-your-sensitivity-and-see-it-as-a-strength/)
+- [Emotionally Numb and Physically Disconnected? DDD May Be the Problem](https://tinybuddha.com/blog/emotionally-numb-and-physically-disconnected-ddd-may-be-the-problem/)
+- [The World Is Not My Enemy – Why I’m Trying to Let My Guard Down](https://tinybuddha.com/blog/the-world-is-not-my-enemy-why-im-trying-to-let-my-guard-down/)
+- [How My Son Taught Me That Crying Can Boost My Mental Health](https://tinybuddha.com/blog/how-my-son-taught-me-that-crying-can-boost-my-mental-health/)
 <!-- QUOTES:END -->
 
 --- 
