@@ -32,5 +32,5 @@ jobs:
           disable_sort: True
           committer_username: garett09
           committer_email: adriansian@gmail.com
-          feed_list: "https://envoy1084.hashnode.dev/rss.xml"
+          feed_list: "http://9gagrss.com/feed/,https://www.reddit.com/r/dankmemes/.rss,https://www.reddit.com/r/HistoryMemes/.rss,https://www.reddit.com/r/memes/.rss,https://www.reddit.com/r/funny/.rss,https://funnyjunk.com/rss/latest_funny_links.rss,https://funnyjunk.com/rss/latest_funny_pictures.rss
           
