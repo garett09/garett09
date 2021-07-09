@@ -151,7 +151,7 @@ Linux                    42 mins             ██░░░░░░░░░�
 
 
 
-#### All time coding stats
+#### Live all time coding stats
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=garett_09&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
