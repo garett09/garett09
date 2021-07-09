@@ -119,11 +119,11 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Jokes of the hour
 
 <!-- JOKES:START -->
-- [What’s the difference between an Indian restaurant and a Vietnamese restaurant?](https://www.reddit.com/r/dadjokes/comments/ogij9c/whats_the_difference_between_an_indian_restaurant/)
-- [My son accidentally handed me a dad joke on a platter and it was glorious.](https://www.reddit.com/r/dadjokes/comments/og7zk2/my_son_accidentally_handed_me_a_dad_joke_on_a/)
-- [Interviewer : why should we hire you as a waiter?](https://www.reddit.com/r/dadjokes/comments/og52u0/interviewer_why_should_we_hire_you_as_a_waiter/)
-- [It's a five minute walk from my house to the pub, and it’s a 35 minute walk from the pub to my house.](https://www.reddit.com/r/dadjokes/comments/ogk5uw/its_a_five_minute_walk_from_my_house_to_the_pub/)
-- [I returned my lizard to the pet store as he wouldn’t stop telling dad jokes.](https://www.reddit.com/r/dadjokes/comments/ogcoh4/i_returned_my_lizard_to_the_pet_store_as_he/)
+- [Woman mocks “sexy” celebrity photos with her own versions….(30 Photos)](https://thechive.com/2021/07/08/woman-mocks-sexy-celebrity-photos-with-her-own-versions-30-photos-2/)
+- [A Handful of Ways to Switch up Your Masturbation (12 GIFs)](https://thechive.com/2021/07/08/a-handful-of-ways-to-switch-up-your-masturbation-12-gifs/)
+- [Sh***y neighbors that are worse than a strict HOA (18 GIFs)](https://thechive.com/2021/07/08/shy-neighbors-that-are-worse-than-a-strict-hoa/)
+- [Zip up your HAZMAT suit — we’re going into the Thrift Shop (33 photos)](https://thechive.com/2021/07/08/zip-up-your-hazmat-suit-were-going-into-the-thrift-shop-33-photos/)
+- [I’m picking up some eerie vibes from these cursed images (36 Photos)](https://thechive.com/2021/07/08/im-picking-up-some-eerie-vibes-from-these-cursed-images-36-photos/)
 <!-- JOKES:END -->
 
 ### 📣 Quotes of the hour
