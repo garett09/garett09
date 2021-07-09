@@ -180,11 +180,11 @@ Linux                    42 mins             ██░░░░░░░░░�
 ### 📣 Jokes of the hour
 
 <!-- JOKES:START -->
-- [Python  .MD 2 .PDF](https://envoy1084.hashnode.dev/python-md-2-pdf)
-- [Git and GitHub Essentials - #7 Undoing](https://envoy1084.hashnode.dev/7-undoing)
-- [Git and GitHub Essentials - #6 Git Diff](https://envoy1084.hashnode.dev/6-git-diff)
-- [Learn JavaScript the Eloquent Way- Operators](https://envoy1084.hashnode.dev/learn-javascript-operators)
-- [Git and GitHub Essentials - #5 Ignoring Files and Folders](https://envoy1084.hashnode.dev/5-ignoring-files-and-folders)
+- [obsequious Cormorant](https://funnyjunk.com/Obsequious+cormorant/wGzMNjT/)
+- [clever Giraffe](https://funnyjunk.com/Clever+giraffe/bywMNol/)
+- [fading Chimpanzee](https://funnyjunk.com/Fading+chimpanzee/scLNNfp/)
+- [weak Raven](https://funnyjunk.com/Weak+raven/apyMNnc/)
+- [stainless Goat](https://funnyjunk.com/Stainless+goat/nxDNNak/)
 <!-- JOKES:END -->
 
 ### 📣 Quotes of the hour
