@@ -180,7 +180,7 @@ Linux                    42 mins             ██░░░░░░░░░�
 <!-- JOKES:START -->
 - [r/jokes has a discord and you need to join!](https://www.reddit.com/r/Jokes/comments/i3mmsn/rjokes_has_a_discord_and_you_need_to_join/)
 - [Reposts...](https://www.reddit.com/r/Jokes/comments/ics15s/reposts/)
-- [A Canadian was having a coffee and croissants with butter and jam in a cafe when an American tourist, chewing gum, sat down next to him.](https://www.reddit.com/r/Jokes/comments/ogs5pr/a_canadian_was_having_a_coffee_and_croissants/)
+- [What is the difference between BTS and Logan Paul?](https://www.reddit.com/r/Jokes/comments/ogufcq/what_is_the_difference_between_bts_and_logan_paul/)
 <!-- JOKES:END -->
 
 ### 📣 Quotes of the hour
