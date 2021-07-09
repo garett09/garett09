@@ -170,9 +170,9 @@ Linux                    42 mins             ██░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
-- [Numbering system that can go to 9999 within the space of a single character](http://9gag.com/gag/aWjd37x)
-- [Serving liquor..!!](http://9gag.com/gag/aB2vANP)
-- [People rescuing a Great White Shark that beached itself chasing a seagull. Filmed on Cape Cod, Massachusetts.](http://9gag.com/gag/amPd4Qj)
+- [That will teach her](http://9gag.com/gag/aMKWMO1)
+- [Run](http://9gag.com/gag/aDdPKex)
+- [First time using a sandwich toaster](http://9gag.com/gag/aP3pE5V)
 <!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
