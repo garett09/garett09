@@ -84,8 +84,10 @@ while(dev.isCoding() && dev.isStuck())
 
 ### <img src="https://media.giphy.com/media/l378c04F2fjeZ7vH2/giphy.gif" width="30">&nbsp;Stats
 
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
 
 
 #### All time coding stats
