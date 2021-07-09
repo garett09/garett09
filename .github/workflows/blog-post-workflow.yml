@@ -12,7 +12,7 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: JOKES
-          commit_message: "New jokes 🤣"
+          commit_message: "[AUTOMATED] New jokes 🤣"
           disable_sort: True
           committer_username: garett09
           committer_email: adriansian@gmail.com
@@ -20,7 +20,7 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: QUOTES
-          commit_message: "New batch of motivational quotes  👌"
+          commit_message: "[AUTOMATED] New batch of motivational quotes  👌"
           disable_sort: True
           committer_username: garett09
           committer_email: adriansian@gmail.com
@@ -28,7 +28,7 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: MEMES
-          commit_message: "New batch of memes  🖕🏻"
+          commit_message: "[AUTOMATED] New batch of memes  🖕🏻"
           disable_sort: True
           committer_username: garett09
           committer_email: adriansian@gmail.com
