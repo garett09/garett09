@@ -32,5 +32,5 @@ jobs:
           disable_sort: True
           committer_username: garett09
           committer_email: adriansian@gmail.com
-          feed_list: "https://memebase.cheezburger.com/rss,http://9gagrss.com/feed/"
+          feed_list: "https://9gagrss.xyz/rss.php?channel=Among+Us"
           
