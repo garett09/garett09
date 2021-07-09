@@ -16,7 +16,7 @@ jobs:
           disable_sort: True
           committer_username: garett09
           committer_email: adriansian@gmail.com
-          feed_list: "https://envoy1084.hashnode.dev/rss.xml"
+          feed_list: "https://funnyjunk.com/rss/latest_funny_pictures.rss"
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: QUOTES
