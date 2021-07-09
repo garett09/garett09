@@ -137,9 +137,12 @@ while(dev.isCoding() && dev.isStuck())
 --- 
 ### 💻 Workspace Spec
 
-![Windows](https://img.shields.io/badge/Windows-v_20H2-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Nvidia](https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![Intel](https://img.shields.io/badge/Intel-Core_i5_9th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-11-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Nvidia](https://img.shields.io/badge/NVIDIA-RTX3070-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![Intel](https://img.shields.io/badge/Intel-Core_i7_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)
+
 
 ## ❤ Support me
 [![Paypal](https://img.shields.io/badge/PayPal-garett_09?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/garett_09)
