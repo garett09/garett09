@@ -24,7 +24,7 @@ jobs:
           disable_sort: True
           committer_username: garett09
           committer_email: adriansian@gmail.com
-          feed_list: "https://tinybuddha.com/feed/,https://www.reddit.com/r/motivation/.rss,https://www.reddit.com/r/quotes/.rss,https://www.reddit.com/r/QuotesPorn/.rss,https://www.reddit.com/r/GetMotivated/.rss,https://www.reddit.com/r/wholesomememes/.rss,https://www.reddit.com/r/MotivationalMemes/.rss"
+          feed_list: "http://quotesbox.org/motiv.rss,https://tinybuddha.com/feed/,https://www.reddit.com/r/motivation/.rss,https://www.reddit.com/r/quotes/.rss,https://www.reddit.com/r/QuotesPorn/.rss,https://www.reddit.com/r/GetMotivated/.rss,https://www.reddit.com/r/wholesomememes/.rss,https://www.reddit.com/r/MotivationalMemes/.rss"
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: MEMES
