@@ -190,11 +190,11 @@ Linux                    42 mins             ██░░░░░░░░░�
 ### 📣 Quotes of the hour
 
 <!-- QUOTES:START -->
-- [The Simple Path to a More Fulfilling, Far Richer Life](https://tinybuddha.com/blog/the-simple-path-to-a-more-fulfilling-far-richer-life/)
-- [How to Embrace Your Sensitivity and See It as a Strength](https://tinybuddha.com/blog/how-to-embrace-your-sensitivity-and-see-it-as-a-strength/)
-- [Emotionally Numb and Physically Disconnected? DDD May Be the Problem](https://tinybuddha.com/blog/emotionally-numb-and-physically-disconnected-ddd-may-be-the-problem/)
-- [The World Is Not My Enemy – Why I’m Trying to Let My Guard Down](https://tinybuddha.com/blog/the-world-is-not-my-enemy-why-im-trying-to-let-my-guard-down/)
-- [How My Son Taught Me That Crying Can Boost My Mental Health](https://tinybuddha.com/blog/how-my-son-taught-me-that-crying-can-boost-my-mental-health/)
+- [Love each other dearly always. There is scarcely anything else in the world but that: to love one another.](http://quotesbox.org/authors/victor-hugo-12573_385907/)
+- [Love of one is a piece of barbarism: for it is practised at the expense of all others. Love of God likewise.](http://quotesbox.org/authors/friedrich-nietzsche-1502_382668/)
+- [Love is Love no matter old you are, and I knew if I gave you enough time, you'd come back to me.](http://quotesbox.org/authors/nicholas-sparks-7177_388165/)
+- [Love grows by giving. The love we give away is the only love we keep. The only way to retain love is to give it away.](http://quotesbox.org/authors/elbert-hubbard-12331_175908/)
+- [Love is my sin, and thy dear virtue hate, Hate of my sin, grounded on sinful loving,](http://quotesbox.org/authors/william-shakespeare-5484_389078/)
 <!-- QUOTES:END -->
 
 --- 
