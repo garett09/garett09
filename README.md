@@ -180,11 +180,11 @@ Linux                    42 mins             ██░░░░░░░░░�
 ### 📣 Jokes of the hour
 
 <!-- JOKES:START -->
-- [What’s the difference between an Indian restaurant and a Vietnamese restaurant?](https://www.reddit.com/r/dadjokes/comments/ogij9c/whats_the_difference_between_an_indian_restaurant/)
-- [My son accidentally handed me a dad joke on a platter and it was glorious.](https://www.reddit.com/r/dadjokes/comments/og7zk2/my_son_accidentally_handed_me_a_dad_joke_on_a/)
-- [It's a five minute walk from my house to the pub, and it’s a 35 minute walk from the pub to my house.](https://www.reddit.com/r/dadjokes/comments/ogk5uw/its_a_five_minute_walk_from_my_house_to_the_pub/)
-- [Interviewer : why should we hire you as a waiter?](https://www.reddit.com/r/dadjokes/comments/og52u0/interviewer_why_should_we_hire_you_as_a_waiter/)
-- [I returned my lizard to the pet store as he wouldn’t stop telling dad jokes.](https://www.reddit.com/r/dadjokes/comments/ogcoh4/i_returned_my_lizard_to_the_pet_store_as_he/)
+- [Python  .MD 2 .PDF](https://envoy1084.hashnode.dev/python-md-2-pdf)
+- [Git and GitHub Essentials - #7 Undoing](https://envoy1084.hashnode.dev/7-undoing)
+- [Git and GitHub Essentials - #6 Git Diff](https://envoy1084.hashnode.dev/6-git-diff)
+- [Learn JavaScript the Eloquent Way- Operators](https://envoy1084.hashnode.dev/learn-javascript-operators)
+- [Git and GitHub Essentials - #5 Ignoring Files and Folders](https://envoy1084.hashnode.dev/5-ignoring-files-and-folders)
 <!-- JOKES:END -->
 
 ### 📣 Quotes of the hour
