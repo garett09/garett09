@@ -188,13 +188,6 @@ Linux                    42 mins             ██░░░░░░░░░�
 - [r/jokes has a discord and you need to join!](https://www.reddit.com/r/Jokes/comments/i3mmsn/rjokes_has_a_discord_and_you_need_to_join/)
 - [Reposts...](https://www.reddit.com/r/Jokes/comments/ics15s/reposts/)
 - [CEO of IKEA is now the Prime Minister of Sweden](https://www.reddit.com/r/Jokes/comments/ogk4en/ceo_of_ikea_is_now_the_prime_minister_of_sweden/)
-- [A Mormon was seated next to an Irishman on a flight from London to the US.](https://www.reddit.com/r/Jokes/comments/og6cpt/a_mormon_was_seated_next_to_an_irishman_on_a/)
-- [Q: What do you call 500 neo-Nazis at the bottom of the ocean?](https://www.reddit.com/r/Jokes/comments/ogl2l3/q_what_do_you_call_500_neonazis_at_the_bottom_of/)
-- [A Canadian was having a coffee and croissants with butter and jam in a cafe when an American tourist, chewing gum, sat down next to him.](https://www.reddit.com/r/Jokes/comments/ogs5pr/a_canadian_was_having_a_coffee_and_croissants/)
-- [Reddit should rename 'share' to 'spreddit', 'delete' to 'shreddit' and 'karma' to 'creddit'.](https://www.reddit.com/r/Jokes/comments/og8qjn/reddit_should_rename_share_to_spreddit_delete_to/)
-- [There was a man who worked for the Post Office whose job was to process all the mail that had illegible addresses.](https://www.reddit.com/r/Jokes/comments/ogpu00/there_was_a_man_who_worked_for_the_post_office/)
-- [Construction worker on the 5th floor of a building needed a handsaw.](https://www.reddit.com/r/Jokes/comments/og0nla/construction_worker_on_the_5th_floor_of_a/)
-- [Robin tells Batman "I can't get the batmobile started"](https://www.reddit.com/r/Jokes/comments/ogb793/robin_tells_batman_i_cant_get_the_batmobile/)
 <!-- JOKES:END -->
 
 ### 📣 Quotes of the hour
