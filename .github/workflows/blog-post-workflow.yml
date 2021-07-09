@@ -16,7 +16,7 @@ jobs:
           disable_sort: True
           committer_username: garett09
           committer_email: adriansian@gmail.com
-          feed_list: "https://funnyjunk.com/rss/latest_funny_pictures.rss"
+          feed_list: "https://www.reddit.com/r/Jokes/.rss,https://www.reddit.com/r/dadjokes/.rss,https://www.reddit.com/r/funny/.rss,https://funnyjunk.com/rss/latest_funny_links.rss"
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: QUOTES
