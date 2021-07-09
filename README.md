@@ -185,8 +185,8 @@ Linux                    42 mins             ██░░░░░░░░░�
 
 <!-- JOKES:START -->
 - [My son accidentally handed me a dad joke on a platter and it was glorious.](https://www.reddit.com/r/dadjokes/comments/og7zk2/my_son_accidentally_handed_me_a_dad_joke_on_a/)
-- [Interviewer : why should we hire you as a waiter?](https://www.reddit.com/r/dadjokes/comments/og52u0/interviewer_why_should_we_hire_you_as_a_waiter/)
 - [What’s the difference between an Indian restaurant and a Vietnamese restaurant?](https://www.reddit.com/r/dadjokes/comments/ogij9c/whats_the_difference_between_an_indian_restaurant/)
+- [Interviewer : why should we hire you as a waiter?](https://www.reddit.com/r/dadjokes/comments/og52u0/interviewer_why_should_we_hire_you_as_a_waiter/)
 - [I returned my lizard to the pet store as he wouldn’t stop telling dad jokes.](https://www.reddit.com/r/dadjokes/comments/ogcoh4/i_returned_my_lizard_to_the_pet_store_as_he/)
 - [It's a five minute walk from my house to the pub, and it’s a 35 minute walk from the pub to my house.](https://www.reddit.com/r/dadjokes/comments/ogk5uw/its_a_five_minute_walk_from_my_house_to_the_pub/)
 <!-- JOKES:END -->
