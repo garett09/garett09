@@ -170,11 +170,11 @@ Linux                    42 mins             ██░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
-- [Python  .MD 2 .PDF](https://envoy1084.hashnode.dev/python-md-2-pdf)
-- [Git and GitHub Essentials - #7 Undoing](https://envoy1084.hashnode.dev/7-undoing)
-- [Git and GitHub Essentials - #6 Git Diff](https://envoy1084.hashnode.dev/6-git-diff)
-- [Learn JavaScript the Eloquent Way- Operators](https://envoy1084.hashnode.dev/learn-javascript-operators)
-- [Git and GitHub Essentials - #5 Ignoring Files and Folders](https://envoy1084.hashnode.dev/5-ignoring-files-and-folders)
+- [The butt sex people.](http://9gag.com/gag/aK6LogO)
+- [When one of the boys gets into a relationship](http://9gag.com/gag/aDdPe4w)
+- [Yes please. Make it a three-day work week while we&rsquo;re at it.](http://9gag.com/gag/a4Ex0mQ)
+- [People rescuing a Great White Shark that beached itself chasing a seagull. Filmed on Cape Cod, Massachusetts.](http://9gag.com/gag/amPd4Qj)
+- [Handle](http://9gag.com/gag/aQorLP8)
 <!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
