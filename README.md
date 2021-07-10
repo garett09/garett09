@@ -180,10 +180,11 @@ Linux                    56 mins             ██░░░░░░░░░�
 ### 📣 Jokes of the hour
 
 <!-- JOKES:START -->
-- [Reader Beware: Creepy Facts Ahead (15 GIFs)](https://thechive.com/2021/07/10/reader-beware-creepy-facts-ahead-15-gifs/)
-- [Internet responses that nailed it like no others (30 Photos)](https://thechive.com/2021/07/09/internet-responses-that-nailed-it-like-no-others-30-photos-9/)
-- [Step aside, MacGyver. Rednecks will take it from here (31 Photos)](https://thechive.com/2021/07/09/step-aside-macgyver-rednecks-will-take-it-from-here-33-photos/)
-<!-- JOKES:END -->
+ - 🐔
+ - 🕉
+ - 🕉
+ - 👾
+ - 🎈<!-- JOKES:END -->
 
 ### 📣 Quotes of the hour
 
