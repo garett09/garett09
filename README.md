@@ -190,11 +190,11 @@ Linux                    56 mins             ██░░░░░░░░░�
 ### 📣 Quotes of the hour
 
 <!-- QUOTES:START -->
- - 🔥 ["It takes a long time to grow an old friend." - John Leonard](https://www.brainyquote.com/quotes/john_leonard_105249)
- - 🌮 ["A man's friendships are one of the best measures of his worth." - Charles Darwin](https://www.brainyquote.com/quotes/charles_darwin_383136)
- - 🌮 ["Friends and good manners will carry you where money won't go." - Margaret Walker](https://www.brainyquote.com/quotes/margaret_walker_189840)
- - 💯 ["One of the most beautiful qualities of true friendship is to understand and to be understood." - Lucius Annaeus Seneca](https://www.brainyquote.com/quotes/lucius_annaeus_seneca_155059)
- - 💫 ["The friend in my adversity I shall always cherish most. I can better trust those who helped to relieve the gloom of my dark hours than those who are so ready to enjoy with me the sunshine of my prosperity." - Ulysses S. Grant](https://www.brainyquote.com/quotes/ulysses_s_grant_132903)<!-- QUOTES:END -->
+ - 🔥 ["True friendship multiplies the good in life and divides its evils. Strive to have friends, for life without friends is like life on a desert island... to find one real friend in a lifetime is good fortune; to keep him is a blessing." - Baltasar Gracian](https://www.brainyquote.com/quotes/baltasar_gracian_408657)
+ - 🌮 ["I cannot even imagine where I would be today were it not for that handful of friends who have given me a heart full of joy. Let's face it, friends make life a lot more fun." - Charles R. Swindoll](https://www.brainyquote.com/quotes/charles_r_swindoll_121433)
+ - 🌮 ["No person is your friend who demands your silence, or denies your right to grow." - Alice Walker](https://www.brainyquote.com/quotes/alice_walker_131842)
+ - 💯 ["Things are never quite as scary when you've got a best friend." - Bill Watterson](https://www.brainyquote.com/quotes/bill_watterson_383142)
+ - 💫 ["There is nothing on this earth more to be prized than true friendship." - Thomas Aquinas](https://www.brainyquote.com/quotes/thomas_aquinas_163328)<!-- QUOTES:END -->
 
 --- 
 ### 💻 Workspace Spec
