@@ -172,9 +172,9 @@ Linux                    56 mins             ██░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
+- [Fossil of 37 million years old Whale Skeleton found in Wadi Al Hitan, Egyptian desert](http://9gag.com/gag/aDdNRqG)
 - [Turn a beard trimmer into an amazing robot.](http://9gag.com/gag/a8EXdAe)
 - [Feeding Hungry Racoons in Sub-Zero Winter](http://9gag.com/gag/aMKNeBM)
-- [Just a simple, gag from the webs. Not a real tweet, ftr.](http://9gag.com/gag/aB2N9QZ)
 <!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
