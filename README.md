@@ -172,11 +172,11 @@ Linux                    56 mins             ██░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [My Gesellenst&uuml;ck. A workpiece that you have to design and build yourself to be a licensed carpenter in Germany](http://9gag.com/gag/a7E6LWe)
- - 🚯 [That Sweden though](http://9gag.com/gag/axMnd4b)
- - 🚯 [A moment of silence for the child please](http://9gag.com/gag/a07W9nL)
- - 😝 [Money is more important than human life](http://9gag.com/gag/amPbXEy)
- - 🚅 [When galaxies collide. Simulation pauses to show real images taken by Hubble space telescope.](http://9gag.com/gag/ayMV7Yp)<!-- MEMES:END -->
+ - 🚖 [Harleen Deol incredible catch in Ind vs Eng Women&#039;s T20 (09-10 Jul 21)](http://9gag.com/gag/aDdNAxO)
+ - 🚯 [When galaxies collide. Simulation pauses to show real images taken by Hubble space telescope.](http://9gag.com/gag/ayMV7Yp)
+ - 🚯 [A true hero](http://9gag.com/gag/a7E65Qz)
+ - 😝 [A moment of silence for the child please](http://9gag.com/gag/a07W9nL)
+ - 🚅 [Flooding in Tokyo subway vs flooding in NYC subway](http://9gag.com/gag/aoMqEv3)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
