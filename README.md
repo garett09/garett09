@@ -181,11 +181,11 @@ Linux                    56 mins             ██░░░░░░░░░�
 ### 📣 Jokes of the hour
 
 <!-- JOKES:START -->
- - 🐔 [A Toast to Those Who’ve Had a Bad Day (25 Photos)](https://thechive.com/2021/07/10/a-toast-to-those-whove-had-a-bad-day-25-photos/)
- - 🕉 [Villains that could have EASILY won but didn’t seal the deal (22 Photos)](https://thechive.com/2021/07/10/villains-that-could-have-easily-won-but-didnt-seal-the-deal-22-photos/)
- - 🕉 [The Hunnies and Funnies: Bad Girls, Bad Jokes (17 Photos)](https://thechive.com/2021/07/10/the-hunnies-and-funnies-bad-girls-bad-jokes-17-photos/)
- - 👾 [Afghan War…2 words politicians FORGOT (24 HIGH-RES Photos)](https://thechive.com/2021/07/10/afghan-war2-words-politicians-forgot/)
- - 🎈 [Weekend Morning Awesomeness (38 Photos)](https://thechive.com/2021/07/10/weekend-morning-awesomeness-38-photos-50/)<!-- JOKES:END -->
+ - 🐔 [Cat Saturday Brings No Paws For Concern (32 Photos)](https://thechive.com/2021/07/10/cat-saturday-brings-no-paws-for-concern-32-photos/)
+ - 🕉 [That’s it man, game over! No wait… GAME ON!!! (65 Photos)](https://thechive.com/2021/07/10/thats-it-man-game-over-no-wait-game-on-65-photos/)
+ - 🕉 [A Toast to Those Who’ve Had a Bad Day (25 Photos)](https://thechive.com/2021/07/10/a-toast-to-those-whove-had-a-bad-day-25-photos/)
+ - 👾 [Villains that could have EASILY won but didn’t seal the deal (22 Photos)](https://thechive.com/2021/07/10/villains-that-could-have-easily-won-but-didnt-seal-the-deal-22-photos/)
+ - 🎈 [The Hunnies and Funnies: Bad Girls, Bad Jokes (17 Photos)](https://thechive.com/2021/07/10/the-hunnies-and-funnies-bad-girls-bad-jokes-17-photos/)<!-- JOKES:END -->
 
 ### 📣 Quotes of the hour
 
