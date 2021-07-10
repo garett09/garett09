@@ -26,7 +26,7 @@ jobs:
           committer_username: garett09
           max_post_count: 3
           committer_email: adriansian@gmail.com
-          feed_list: "http://quotesbox.org/motiv.rss,http://quotesbox.org/friend.rss,https://tinybuddha.com/feed/,http://quotesbox.org/happy.rss,http://quotesbox.org/life.rss,http://quotesbox.org/love.rss,https://www.reddit.com/r/quotes/.rss,https://www.reddit.com/r/QuotesPorn/.rss,https://www.reddit.com/r/inspirationalquotes/.rss,https://www.reddit.com/r/GetMotivated/.rss"
+          feed_list: "https://www.fmylife.com/rss?x=1"
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: MEMES
