@@ -105,11 +105,11 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A true hero](http://9gag.com/gag/a7E65Qz)
- - 🚯 [Damn. They are intelligent.](http://9gag.com/gag/anQWK7n)
- - 🚯 [Baby on top !](http://9gag.com/gag/a8EXWoY)
- - 😝 [Apparently this is how the covid-19 mutations start](http://9gag.com/gag/aRXNgyA)
- - 🚅 [Movies you won&#039;t regret (feel free to add)](http://9gag.com/gag/apNjoeb)<!-- MEMES:END -->
+ - 🚖 [Baby on top !](http://9gag.com/gag/a8EXWoY)
+ - 🚯 [Money is more important than human life](http://9gag.com/gag/amPbXEy)
+ - 🚯 [Apparently this is how the covid-19 mutations start](http://9gag.com/gag/aRXNgyA)
+ - 😝 [Billie Smoke](http://9gag.com/gag/a1rqZ28)
+ - 🚅 [Wise words](http://9gag.com/gag/abVmqgp)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
