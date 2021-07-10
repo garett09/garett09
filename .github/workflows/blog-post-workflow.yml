@@ -15,7 +15,7 @@ jobs:
           commit_message: "[AUTOMATED] New jokes 🤣"
           committer_username: garett09
           disable_sort: True
-          max_post_count: 3
+          template: $newline - $randomEmoji(👾,🔟,✒️,🐔,🎈,👫,🌀,💝,👿,🕉)
           feed_list: "https://thechive.com/feed/,https://icanhas.cheezburger.com/rss,https://pleated-jeans.com/feed/,http://feeds.feedburner.com/imao/jNDB"
           committer_email: adriansian@gmail.com
 
@@ -25,7 +25,6 @@ jobs:
           commit_message: "[AUTOMATED] New batch of quotes  👌"
           disable_sort: True
           committer_username: garett09
-          max_post_count: 3
           committer_email: adriansian@gmail.com
           feed_list: "https://rss.app/feeds/_E49Mh0Y8EhF5Ecga.xml,https://www.reddit.com/r/quotes/.rss,https://www.reddit.com/r/QuotesPorn/.rss,https://www.reddit.com/r/GetMotivated/.rsshttps://www.reddit.com/r/motivation/.rss"
           template: $newline - $randomEmoji(💯,🔥,💫,🚀,🌮) [$description]($url) 
@@ -35,7 +34,7 @@ jobs:
           commit_message: "[AUTOMATED] New batch of memes  🖕🏻"
           disable_sort: True
           committer_username: garett09
-          max_post_count: 3
+          template: $newline - $randomEmoji(😝,👱,📀,🚖,🚅,⏩,💣,👉,6️⃣,🚯)
           committer_email: adriansian@gmail.com
           feed_list: "http://9gagrss.com/feed/,https://rss.app/feeds/_B29DrDNmXf7SGRqs.xml,https://www.reddit.com/r/funny/.rss"
           
