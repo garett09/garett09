@@ -192,12 +192,11 @@ Linux                    56 mins             ██░░░░░░░░░�
 ### 📣 Quotes of the hour
 
 <!-- QUOTES:START -->
+- [By yuyu](https://www.fmylife.com/article/lockdown-4-covid-strikes-back_357750.html)
 - [By Anonymous](https://www.fmylife.com/article/third-degree_357668.html)
 - [By Anonymous](https://www.fmylife.com/article/systemic_357667.html)
 - [By Anonymous](https://www.fmylife.com/article/not-the-sharpest-tool_357680.html)
 - [By Pointless](https://www.fmylife.com/article/what-s-going-on_357678.html)
-- [[spicy] |
-                                By Anonymous](https://www.fmylife.com/article/no-kidding_357675.html)
 <!-- QUOTES:END -->
 
 --- 
