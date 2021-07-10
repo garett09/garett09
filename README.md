@@ -190,11 +190,9 @@ Linux                    56 mins             ██░░░░░░░░░�
 ### 📣 Quotes of the hour
 
 <!-- QUOTES:START -->
- - 🔥 ["No man ever steps in the same river twice, for it's not the same river and he's not the same man." - Heraclitus](https://www.brainyquote.com/quotes/heraclitus_107157)
- - 🌮 ["Life can only be understood backwards; but it must be lived forwards." - Soren Kierkegaard](https://www.brainyquote.com/quotes/soren_kierkegaard_105030)
- - 🌮 ["We are not human beings having a spiritual experience. We are spiritual beings having a human experience." - Pierre Teilhard de Chardin](https://www.brainyquote.com/quotes/pierre_teilhard_de_chardi_160888)
- - 💯 ["Life is the art of drawing without an eraser." - John W. Gardner](https://www.brainyquote.com/quotes/john_w_gardner_161655)
- - 💫 ["Good judgment comes from experience, and experience comes from bad judgment." - Rita Mae Brown](https://www.brainyquote.com/quotes/rita_mae_brown_105028)<!-- QUOTES:END -->
+ - 🔥 ["Experience: that most brutal of teachers. But you learn, my God do you learn." - William Nicholson](https://www.brainyquote.com/quotes/william_nicholson_103466)
+ - 🌮 ["Life is the art of drawing without an eraser." - John W. Gardner](https://www.brainyquote.com/quotes/john_w_gardner_161655)
+ - 🌮 ["Do you know the difference between education and experience? Education is when you read the fine print; experience is what you get when you don't." - Pete Seeger](https://www.brainyquote.com/quotes/pete_seeger_104922)<!-- QUOTES:END -->
 
 --- 
 ### 💻 Workspace Spec
