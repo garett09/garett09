@@ -15,7 +15,8 @@ jobs:
           commit_message: "[AUTOMATED] New jokes 🤣"
           committer_username: garett09
           disable_sort: True
-          feed_list: "http://feeds.sydv.net/latest-bash-quotes.rss,https://thechive.com/feed/,https://icanhas.cheezburger.com/rss,https://pleated-jeans.com/feed/,http://feeds.feedburner.com/imao/jNDB"
+          max_post_count: 3
+          feed_list: "https://thechive.com/feed/,https://icanhas.cheezburger.com/rss,https://pleated-jeans.com/feed/,http://feeds.feedburner.com/imao/jNDB"
           committer_email: adriansian@gmail.com
 
       - uses: gautamkrishnar/blog-post-workflow@master
@@ -24,6 +25,7 @@ jobs:
           commit_message: "[AUTOMATED] New batch of quotes  👌"
           disable_sort: True
           committer_username: garett09
+          max_post_count: 3
           committer_email: adriansian@gmail.com
           feed_list: "https://rss.app/feeds/Kdt3YN2YH1K3Bep6.xml,https://rss.app/feeds/SrCA3vwoyS2WZ8ft.xml,https://rss.app/feeds/BOVP3Njh1zGdfIrl.xml,https://rss.app/feeds/y736MDsTpatJuQ2v.xml,https://rss.app/feeds/U0kLMnxmokwfGlp7.xml,https://rss.app/feeds/SAS0dNIr7A4GdQVK.xml,https://rss.app/feeds/LkpHhQiIwS67r0hY.xml"
           template: $newline - $randomEmoji(💯,🔥,💫,🚀,🌮) [$description]($url) 
@@ -33,6 +35,7 @@ jobs:
           commit_message: "[AUTOMATED] New batch of memes  🖕🏻"
           disable_sort: True
           committer_username: garett09
+          max_post_count: 3
           committer_email: adriansian@gmail.com
           feed_list: "http://9gagrss.com/feed/,https://www.reddit.com/r/dankmemes/.rss,https://www.reddit.com/r/HistoryMemes/.rss,https://www.reddit.com/r/memes/.rss,https://www.reddit.com/r/funny/.rss,https://funnyjunk.com/rss/latest_funny_links.rss,https://funnyjunk.com/rss/latest_funny_pictures.rss"
           
