@@ -172,11 +172,11 @@ Linux                    56 mins             ██░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
-- [I got you](http://9gag.com/gag/azMB0yB)
-- [Farrier life](http://9gag.com/gag/av5DYME)
-- [Lightning hitting a golf ball in mid air](http://9gag.com/gag/a27xBpO)
-- [Welcome to the Internet!](http://9gag.com/gag/aqjdv9j)
+- [Just a simple, gag from the webs. Not a real tweet, ftr.](http://9gag.com/gag/aB2N9QZ)
+- [The one thing I envy about atheists is that they don&#039;t go to churches](http://9gag.com/gag/aMKWpRG)
 - [Familiar](http://9gag.com/gag/a7EGjWx)
+- [Curb your strong womenhood](http://9gag.com/gag/aZ0d9LQ)
+- [Hummer: Now everyone will know.](http://9gag.com/gag/awM8q8Q)
 <!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
