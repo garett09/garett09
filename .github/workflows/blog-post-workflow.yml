@@ -17,7 +17,7 @@ jobs:
           disable_sort: True
           committer_email: adriansian@gmail.com
           feed_list: "https://rss.app/feeds/Kdt3YN2YH1K3Bep6.xml"
-          template: $newline $description $randomEmoji(💯,🔥,💫,🚀,🌮)
+          template: $description $randomEmoji(💯,🔥,💫,🚀,🌮) $newline
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: QUOTES
