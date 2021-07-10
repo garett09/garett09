@@ -188,9 +188,9 @@ Linux                    56 mins             ██░░░░░░░░░�
 ### 📣 Quotes of the hour
 
 <!-- QUOTES:START -->
- - 🔥 [<div><img src="https://www.brainyquote.com/photos_tr/en/w/walterwinchell/121442/walterwinchell1.jpg" style="width: 100%;"><div>"A real friend is one who walks in when the rest of the world walks out." - Walter Winchell</div></div>](https://www.brainyquote.com/quotes/walter_winchell_121442)
- - 🌮 [<div><img src="https://www.brainyquote.com/photos_tr/en/h/huberthhumphrey/152599/huberthhumphrey1.jpg" style="width: 100%;"><div>"The greatest gift of life is friendship, and I have received it." - Hubert H. Humphrey</div></div>](https://www.brainyquote.com/quotes/hubert_h_humphrey_152599)
- - 🌮 [<div><img src="https://www.brainyquote.com/photos_tr/en/e/euripides/149016/euripides1.jpg" style="width: 100%;"><div>"One loyal friend is worth ten thousand relatives." - Euripides</div></div>](https://www.brainyquote.com/quotes/euripides_149016)<!-- QUOTES:END -->
+ - 🔥 ["A real friend is one who walks in when the rest of the world walks out." - Walter Winchell](https://www.brainyquote.com/quotes/walter_winchell_121442)
+ - 🌮 ["The greatest gift of life is friendship, and I have received it." - Hubert H. Humphrey](https://www.brainyquote.com/quotes/hubert_h_humphrey_152599)
+ - 🌮 ["One loyal friend is worth ten thousand relatives." - Euripides](https://www.brainyquote.com/quotes/euripides_149016)<!-- QUOTES:END -->
 
 --- 
 ### 💻 Workspace Spec
