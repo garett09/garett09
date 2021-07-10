@@ -182,11 +182,11 @@ Linux                    56 mins             ██░░░░░░░░░�
 ### 📣 Jokes of the hour
 
 <!-- JOKES:START -->
-- [Heraclitus Quotes](https://www.brainyquote.com/quotes/heraclitus_107157)
-- [Soren Kierkegaard Quotes](https://www.brainyquote.com/quotes/soren_kierkegaard_105030)
-- [Pierre Teilhard de Chardin Quotes](https://www.brainyquote.com/quotes/pierre_teilhard_de_chardi_160888)
-- [John W. Gardner Quotes](https://www.brainyquote.com/quotes/john_w_gardner_161655)
-- [Rita Mae Brown Quotes](https://www.brainyquote.com/quotes/rita_mae_brown_105028)
+- [Heraclitus](https://www.brainyquote.com/quotes/heraclitus_107157)
+- [Soren Kierkegaard](https://www.brainyquote.com/quotes/soren_kierkegaard_105030)
+- [Pierre Teilhard de Chardin](https://www.brainyquote.com/quotes/pierre_teilhard_de_chardi_160888)
+- [John W. Gardner](https://www.brainyquote.com/quotes/john_w_gardner_161655)
+- [Rita Mae Brown](https://www.brainyquote.com/quotes/rita_mae_brown_105028)
 <!-- JOKES:END -->
 
 ### 📣 Quotes of the hour
