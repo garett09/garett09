@@ -27,7 +27,7 @@ jobs:
           committer_username: garett09
           max_post_count: 3
           committer_email: adriansian@gmail.com
-          feed_list: "https://rss.app/feeds/_E49Mh0Y8EhF5Ecga.xml"
+          feed_list: "https://rss.app/feeds/_E49Mh0Y8EhF5Ecga.xml,https://www.reddit.com/r/quotes/.rss,https://www.reddit.com/r/QuotesPorn/.rss,https://www.reddit.com/r/GetMotivated/.rsshttps://www.reddit.com/r/motivation/.rss"
           template: $newline - $randomEmoji(💯,🔥,💫,🚀,🌮) [$description]($url) 
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
