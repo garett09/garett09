@@ -181,11 +181,11 @@ Linux                    56 mins             ██░░░░░░░░░�
 ### 📣 Jokes of the hour
 
 <!-- JOKES:START -->
- - 🐔 [Reader Beware: Creepy Facts Ahead (15 GIFs)](https://thechive.com/2021/07/10/reader-beware-creepy-facts-ahead-15-gifs/)
+ - 🐔 [Weekend Morning Awesomeness (38 Photos)](https://thechive.com/2021/07/10/weekend-morning-awesomeness-38-photos-50/)
+ - 🕉 [Reader Beware: Creepy Facts Ahead (15 GIFs)](https://thechive.com/2021/07/10/reader-beware-creepy-facts-ahead-15-gifs/)
  - 🕉 [Internet responses that nailed it like no others (30 Photos)](https://thechive.com/2021/07/09/internet-responses-that-nailed-it-like-no-others-30-photos-9/)
- - 🕉 [Step aside, MacGyver. Rednecks will take it from here (31 Photos)](https://thechive.com/2021/07/09/step-aside-macgyver-rednecks-will-take-it-from-here-33-photos/)
- - 👾 [Daily Dopamine Dump](http://i.thechive.com/dopamine-dump)
- - 🎈 [Chivettes and Fridays go together like peas and carrots (40 Photos)](https://thechive.com/2021/07/09/chivettes-and-fridays-go-together-like-peas-and-carrots-40-photos/)<!-- JOKES:END -->
+ - 👾 [Step aside, MacGyver. Rednecks will take it from here (31 Photos)](https://thechive.com/2021/07/09/step-aside-macgyver-rednecks-will-take-it-from-here-33-photos/)
+ - 🎈 [Daily Dopamine Dump](http://i.thechive.com/dopamine-dump)<!-- JOKES:END -->
 
 ### 📣 Quotes of the hour
 
