@@ -172,11 +172,11 @@ Linux                    56 mins             ██░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Fossil of 37 million years old Whale Skeleton found in Wadi Al Hitan, Egyptian desert](http://9gag.com/gag/aDdNRqG)
- - 🚯 [Feeding Hungry Racoons in Sub-Zero Winter](http://9gag.com/gag/aMKNeBM)
- - 🚯 [Bystanders at the Cherry Festival in Traverse City, Michigan rushed over to stop a carnival ride from tipping over](http://9gag.com/gag/aB2vD52)
- - 😝 [Harleen Deol incredible catch in Ind vs Eng Women&#039;s T20 (09-10 Jul 21)](http://9gag.com/gag/aDdNAxO)
- - 🚅 [My Gesellenst&uuml;ck. A workpiece that you have to design and build yourself to be a licensed carpenter in Germany](http://9gag.com/gag/a7E6LWe)<!-- MEMES:END -->
+ - 🚖 [Sometimes a Father, sometimes a Daddy.](http://9gag.com/gag/aNp2rzw)
+ - 🚯 [An old gem. Here&#039;s the original...](http://9gag.com/gag/aEpNvGn)
+ - 🚯 [Shark has seen some shit](http://9gag.com/gag/azMDgbp)
+ - 😝 [I know it&rsquo;s meaningless, but being able to buy my own cookware in my new apartment is a big thing for me..just wanted to share with y&rsquo;all.](http://9gag.com/gag/aZ0Vqbz)
+ - 🚅 [Phew!](http://9gag.com/gag/apNjK3E)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
