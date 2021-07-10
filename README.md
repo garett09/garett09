@@ -105,11 +105,11 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Baby on top !](http://9gag.com/gag/a8EXWoY)
- - 🚯 [Money is more important than human life](http://9gag.com/gag/amPbXEy)
+ - 🚖 [Money is more important than human life](http://9gag.com/gag/amPbXEy)
  - 🚯 [Apparently this is how the covid-19 mutations start](http://9gag.com/gag/aRXNgyA)
+ - 🚯 [Wise words](http://9gag.com/gag/abVmqgp)
  - 😝 [Billie Smoke](http://9gag.com/gag/a1rqZ28)
- - 🚅 [Wise words](http://9gag.com/gag/abVmqgp)<!-- MEMES:END -->
+ - 🚅 [How tf?](http://9gag.com/gag/aqjpNqp)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
