@@ -172,11 +172,11 @@ Linux                    56 mins             ██░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
-- [Modern problems require shithole solutions](http://9gag.com/gag/aLpbY2W)
 - [The forbidden fleshlight](http://9gag.com/gag/a8EnPnd)
-- [Welcome to the Internet!](http://9gag.com/gag/aqjdv9j)
 - [Martial art level : yes](http://9gag.com/gag/av5DNNM)
 - [Impossible in today&rsquo;s world](http://9gag.com/gag/awM8R5B)
+- [Farrier life](http://9gag.com/gag/av5DYME)
+- [1932 vs 2016 100m swim comparison.](http://9gag.com/gag/aO3jXDR)
 <!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
