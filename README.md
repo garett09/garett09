@@ -172,11 +172,11 @@ Linux                    56 mins             ██░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
-- [The forbidden fleshlight](http://9gag.com/gag/a8EnPnd)
-- [Martial art level : yes](http://9gag.com/gag/av5DNNM)
+- [Familiar](http://9gag.com/gag/a7EGjWx)
+- [Curb your strong womenhood](http://9gag.com/gag/aZ0d9LQ)
 - [Impossible in today&rsquo;s world](http://9gag.com/gag/awM8R5B)
-- [Farrier life](http://9gag.com/gag/av5DYME)
 - [1932 vs 2016 100m swim comparison.](http://9gag.com/gag/aO3jXDR)
+- [Farrier life](http://9gag.com/gag/av5DYME)
 <!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
