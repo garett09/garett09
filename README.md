@@ -174,19 +174,19 @@ Linux                    56 mins             ██░░░░░░░░░�
 <!-- MEMES:START -->
 - [Turn a beard trimmer into an amazing robot.](http://9gag.com/gag/a8EXdAe)
 - [Curb your strong womenhood](http://9gag.com/gag/aZ0d9LQ)
-- [The one thing I envy about atheists is that they don&#039;t go to churches](http://9gag.com/gag/aMKWpRG)
 - [Just a simple, gag from the webs. Not a real tweet, ftr.](http://9gag.com/gag/aB2N9QZ)
+- [The one thing I envy about atheists is that they don&#039;t go to churches](http://9gag.com/gag/aMKWpRG)
 - [Hummer: Now everyone will know.](http://9gag.com/gag/awM8q8Q)
 <!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
-<!-- JOKES:START -->"No man ever steps in the same river twice, for it's not the same river and he's not the same man." - Heraclitus $randomEmoji 
-"Life can only be understood backwards; but it must be lived forwards." - Soren Kierkegaard $randomEmoji 
-"We are not human beings having a spiritual experience. We are spiritual beings having a human experience." - Pierre Teilhard de Chardin $randomEmoji 
-"Life is the art of drawing without an eraser." - John W. Gardner $randomEmoji 
-"Good judgment comes from experience, and experience comes from bad judgment." - Rita Mae Brown $randomEmoji 
-<!-- JOKES:END -->
+<!-- JOKES:START -->
+ "No man ever steps in the same river twice, for it's not the same river and he's not the same man." - Heraclitus 🔥
+ "Life can only be understood backwards; but it must be lived forwards." - Soren Kierkegaard 🌮
+ "We are not human beings having a spiritual experience. We are spiritual beings having a human experience." - Pierre Teilhard de Chardin 🌮
+ "Life is the art of drawing without an eraser." - John W. Gardner 💯
+ "Good judgment comes from experience, and experience comes from bad judgment." - Rita Mae Brown 💫<!-- JOKES:END -->
 
 ### 📣 Quotes of the hour
 
