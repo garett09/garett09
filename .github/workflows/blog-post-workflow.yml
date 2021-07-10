@@ -15,7 +15,7 @@ jobs:
           commit_message: "[AUTOMATED] New jokes 🤣"
           committer_username: garett09
           disable_sort: True
-          template: $newline - $randomEmoji(👾,🔟,✒️,🐔,🎈,👫,🌀,💝,👿,🕉)
+          template: $newline - $randomEmoji(👾,🔟,✒️,🐔,🎈,👫,🌀,💝,👿,🕉) [$title]($url)
           feed_list: "https://thechive.com/feed/,https://icanhas.cheezburger.com/rss,https://pleated-jeans.com/feed/,http://feeds.feedburner.com/imao/jNDB"
           committer_email: adriansian@gmail.com
 
@@ -34,7 +34,7 @@ jobs:
           commit_message: "[AUTOMATED] New batch of memes  🖕🏻"
           disable_sort: True
           committer_username: garett09
-          template: $newline - $randomEmoji(😝,👱,📀,🚖,🚅,⏩,💣,👉,6️⃣,🚯)
+          template: $newline - $randomEmoji(😝,👱,📀,🚖,🚅,⏩,💣,👉,6️⃣,🚯) [$title]($url)
           committer_email: adriansian@gmail.com
           feed_list: "http://9gagrss.com/feed/,https://rss.app/feeds/_B29DrDNmXf7SGRqs.xml,https://www.reddit.com/r/funny/.rss"
           
