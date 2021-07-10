@@ -191,12 +191,12 @@ Linux                    56 mins             ██░░░░░░░░░�
 
 ### 📣 Quotes of the hour
 
-<!-- QUOTES:START -->-"No man ever steps in the same river twice, for it's not the same river and he's not the same man." - Heraclitus 
--"Life can only be understood backwards; but it must be lived forwards." - Soren Kierkegaard 
--"We are not human beings having a spiritual experience. We are spiritual beings having a human experience." - Pierre Teilhard de Chardin 
--"Life is the art of drawing without an eraser." - John W. Gardner 
--"Good judgment comes from experience, and experience comes from bad judgment." - Rita Mae Brown 
-<!-- QUOTES:END -->
+<!-- QUOTES:START -->
+ - 🔥 ["No man ever steps in the same river twice, for it's not the same river and he's not the same man." - Heraclitus](https://www.brainyquote.com/quotes/heraclitus_107157)
+ - 🌮 ["Life can only be understood backwards; but it must be lived forwards." - Soren Kierkegaard](https://www.brainyquote.com/quotes/soren_kierkegaard_105030)
+ - 🌮 ["We are not human beings having a spiritual experience. We are spiritual beings having a human experience." - Pierre Teilhard de Chardin](https://www.brainyquote.com/quotes/pierre_teilhard_de_chardi_160888)
+ - 💯 ["Life is the art of drawing without an eraser." - John W. Gardner](https://www.brainyquote.com/quotes/john_w_gardner_161655)
+ - 💫 ["Good judgment comes from experience, and experience comes from bad judgment." - Rita Mae Brown](https://www.brainyquote.com/quotes/rita_mae_brown_105028)<!-- QUOTES:END -->
 
 --- 
 ### 💻 Workspace Spec
