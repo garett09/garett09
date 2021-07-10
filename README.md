@@ -172,11 +172,12 @@ Linux                    56 mins             ██░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- <video preload="auto" poster="https://img-9gag-fun.9cache.com/photo/aMKNeBM_460s.jpg" loop muted autoplay="autoplay" controls="controls" style="width:100%;height:auto;margin:0 auto;" autoplay><source src="https://img-9gag-fun.9cache.com/photo/aMKNeBM_460sv.mp4" type="video/mp4"></video><p>827 points, 73 comments.</p>
- <img src="https://img-9gag-fun.9cache.com/photo/awM8q8Q_700b.jpg" /><br /><br /><p>Tags: <a href="https://9gag.com/tag/hummer">Hummer</a>, <a href="https://9gag.com/tag/gmc-hummer-ev">GMC Hummer EV</a></p><p>5056 points, 216 comments.</p>
- <video preload="auto" poster="https://img-9gag-fun.9cache.com/photo/aMKWpRG_460s.jpg" loop muted autoplay="autoplay" controls="controls" style="width:100%;height:auto;margin:0 auto;" autoplay><source src="https://img-9gag-fun.9cache.com/photo/aMKWpRG_460sv.mp4" type="video/mp4"></video><p>1962 points, 167 comments.</p>
- <img src="https://img-9gag-fun.9cache.com/photo/aB2N9QZ_700b.jpg" /><br /><br /><p>Tags: <a href="https://9gag.com/tag/delta">delta</a>, <a href="https://9gag.com/tag/fake-tweet">fake tweet</a></p><p>2674 points, 133 comments.</p>
- <video preload="auto" poster="https://img-9gag-fun.9cache.com/photo/aK6LbR1_460s.jpg" loop muted autoplay="autoplay" controls="controls" style="width:100%;height:auto;margin:0 auto;" autoplay><source src="https://img-9gag-fun.9cache.com/photo/aK6LbR1_460sv.mp4" type="video/mp4"></video><br /><p>Tags: <a href="https://9gag.com/tag/kaori">kaori</a>, <a href="https://9gag.com/tag/kawabuchi">kawabuchi</a></p><p>2648 points, 211 comments.</p><!-- MEMES:END -->
+- [Feeding Hungry Racoons in Sub-Zero Winter](http://9gag.com/gag/aMKNeBM)
+- [Hummer: Now everyone will know.](http://9gag.com/gag/awM8q8Q)
+- [The one thing I envy about atheists is that they don&#039;t go to churches](http://9gag.com/gag/aMKWpRG)
+- [Just a simple, gag from the webs. Not a real tweet, ftr.](http://9gag.com/gag/aB2N9QZ)
+- [Beautiful and deadly dance](http://9gag.com/gag/aK6LbR1)
+<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
