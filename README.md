@@ -172,11 +172,11 @@ Linux                    56 mins             ██░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Asians be like: Wires? who needs them???](http://9gag.com/gag/a4ErK9p)
+ - 🚖 [A moment of silence for the child please](http://9gag.com/gag/a07W9nL)
  - 🚯 [Freedom is a myth](http://9gag.com/gag/aNp2rwA)
- - 🚯 [That Sweden though](http://9gag.com/gag/axMnd4b)
- - 😝 [Baby on top !](http://9gag.com/gag/a8EXWoY)
- - 🚅 [My Gesellenst&uuml;ck. A workpiece that you have to design and build yourself to be a licensed carpenter in Germany](http://9gag.com/gag/a7E6LWe)<!-- MEMES:END -->
+ - 🚯 [My Gesellenst&uuml;ck. A workpiece that you have to design and build yourself to be a licensed carpenter in Germany](http://9gag.com/gag/a7E6LWe)
+ - 😝 [That Sweden though](http://9gag.com/gag/axMnd4b)
+ - 🚅 [When galaxies collide. Simulation pauses to show real images taken by Hubble space telescope.](http://9gag.com/gag/ayMV7Yp)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
