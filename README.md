@@ -190,11 +190,11 @@ Linux                    56 mins             ██░░░░░░░░░�
 ### 📣 Quotes of the hour
 
 <!-- QUOTES:START -->
- - 🔥 ["It takes a long time to grow an old friend." - John Leonard](https://www.brainyquote.com/quotes/john_leonard_105249)
- - 🌮 ["No person is your friend who demands your silence, or denies your right to grow." - Alice Walker](https://www.brainyquote.com/quotes/alice_walker_131842)
- - 🌮 ["The greatest gift of life is friendship, and I have received it." - Hubert H. Humphrey](https://www.brainyquote.com/quotes/hubert_h_humphrey_152599)
- - 💯 ["Friends are the siblings God never gave us." - Mencius](https://www.brainyquote.com/quotes/mencius_379023)
- - 💫 ["True friendship multiplies the good in life and divides its evils. Strive to have friends, for life without friends is like life on a desert island... to find one real friend in a lifetime is good fortune; to keep him is a blessing." - Baltasar Gracian](https://www.brainyquote.com/quotes/baltasar_gracian_408657)<!-- QUOTES:END -->
+ - 🔥 ["True friendship multiplies the good in life and divides its evils. Strive to have friends, for life without friends is like life on a desert island... to find one real friend in a lifetime is good fortune; to keep him is a blessing." - Baltasar Gracian](https://www.brainyquote.com/quotes/baltasar_gracian_408657)
+ - 🌮 ["A real friend is one who walks in when the rest of the world walks out." - Walter Winchell](https://www.brainyquote.com/quotes/walter_winchell_121442)
+ - 🌮 ["The only way to have a friend is to be one." - Ralph Waldo Emerson](https://www.brainyquote.com/quotes/ralph_waldo_emerson_100740)
+ - 💯 ["If you have one true friend you have more than your share." - Thomas Fuller](https://www.brainyquote.com/quotes/thomas_fuller_151904)
+ - 💫 ["A person often meets his destiny on the road he took to avoid it." - Jean de La Fontaine](https://www.brainyquote.com/quotes/jean_de_la_fontaine_107696)<!-- QUOTES:END -->
 
 --- 
 ### 💻 Workspace Spec
