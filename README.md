@@ -181,7 +181,12 @@ Linux                    56 mins             ██░░░░░░░░░�
 
 ### 📣 Jokes of the hour
 
-<!-- JOKES:START -->"No man ever steps in the same river twice, for it's not the same river and he's not the same man." - Heraclitus"Life can only be understood backwards; but it must be lived forwards." - Soren Kierkegaard"We are not human beings having a spiritual experience. We are spiritual beings having a human experience." - Pierre Teilhard de Chardin"Life is the art of drawing without an eraser." - John W. Gardner"Good judgment comes from experience, and experience comes from bad judgment." - Rita Mae Brown<!-- JOKES:END -->
+<!-- JOKES:START -->"No man ever steps in the same river twice, for it's not the same river and he's not the same man." - Heraclitus 
+ $randomEmoji"Life can only be understood backwards; but it must be lived forwards." - Soren Kierkegaard 
+ $randomEmoji"We are not human beings having a spiritual experience. We are spiritual beings having a human experience." - Pierre Teilhard de Chardin 
+ $randomEmoji"Life is the art of drawing without an eraser." - John W. Gardner 
+ $randomEmoji"Good judgment comes from experience, and experience comes from bad judgment." - Rita Mae Brown 
+ $randomEmoji<!-- JOKES:END -->
 
 ### 📣 Quotes of the hour
 
