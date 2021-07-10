@@ -182,11 +182,9 @@ Linux                    56 mins             ██░░░░░░░░░�
 ### 📣 Jokes of the hour
 
 <!-- JOKES:START -->
-- [Bash QDB - 966262](http://bash.org/?966262)
-- [Bash QDB - 966243](http://bash.org/?966243)
-- [Bash QDB - 966229](http://bash.org/?966229)
-- [Bash QDB - 966228](http://bash.org/?966228)
-- [Bash QDB - 966225](http://bash.org/?966225)
+- [Internet responses that nailed it like no others (30 Photos)](https://thechive.com/2021/07/09/internet-responses-that-nailed-it-like-no-others-30-photos-9/)
+- [Step aside, MacGyver. Rednecks will take it from here (31 Photos)](https://thechive.com/2021/07/09/step-aside-macgyver-rednecks-will-take-it-from-here-33-photos/)
+- [Daily Dopamine Dump](http://i.thechive.com/dopamine-dump)
 <!-- JOKES:END -->
 
 ### 📣 Quotes of the hour
