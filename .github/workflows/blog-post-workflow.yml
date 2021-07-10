@@ -15,7 +15,6 @@ jobs:
           commit_message: "[AUTOMATED] New jokes 🤣"
           disable_sort: True
           committer_username: garett09
-          max_post_count: 3
           committer_email: adriansian@gmail.com
           feed_list: "https://www.reddit.com/r/Jokes/.rss,https://www.reddit.com/r/dadjokes/.rss,https://www.reddit.com/r/funny/.rss,https://funnyjunk.com/rss/latest_funny_links.rss"
       - uses: gautamkrishnar/blog-post-workflow@master
@@ -24,7 +23,6 @@ jobs:
           commit_message: "[AUTOMATED] New batch of quotes  👌"
           disable_sort: True
           committer_username: garett09
-          max_post_count: 3
           committer_email: adriansian@gmail.com
           feed_list: "https://www.fmylife.com/rss?x=1"
       - uses: gautamkrishnar/blog-post-workflow@master
@@ -33,7 +31,6 @@ jobs:
           commit_message: "[AUTOMATED] New batch of memes  🖕🏻"
           disable_sort: True
           committer_username: garett09
-          max_post_count: 3
           committer_email: adriansian@gmail.com
           feed_list: "http://9gagrss.com/feed/,https://www.reddit.com/r/dankmemes/.rss,https://www.reddit.com/r/HistoryMemes/.rss,https://www.reddit.com/r/memes/.rss,https://www.reddit.com/r/funny/.rss,https://funnyjunk.com/rss/latest_funny_links.rss,https://funnyjunk.com/rss/latest_funny_pictures.rss"
           

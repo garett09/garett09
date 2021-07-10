@@ -87,11 +87,11 @@ while(dev.isCoding() && dev.isStuck())
 
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-45702%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-45701%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 419 Contributions in the Year 2021
+> 🏆 479 Contributions in the Year 2021
  > 
 > 📦 2.1 MB Used in Github's Storage 
  > 
@@ -104,22 +104,22 @@ while(dev.isCoding() && dev.isStuck())
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    115 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.14% 
-🌆 Daytime    233 commits    ████████░░░░░░░░░░░░░░░░░   34.72% 
-🌃 Evening    233 commits    ████████░░░░░░░░░░░░░░░░░   34.72% 
-🌙 Night      90 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.41%
+🌞 Morning    111 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.52% 
+🌆 Daytime    233 commits    ████████░░░░░░░░░░░░░░░░░   34.67% 
+🌃 Evening    238 commits    ████████░░░░░░░░░░░░░░░░░   35.42% 
+🌙 Night      90 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.39%
 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday       105 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.65% 
-Tuesday      119 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.73% 
-Wednesday    67 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.99% 
-Thursday     98 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.61% 
-Friday       144 commits    █████░░░░░░░░░░░░░░░░░░░░   21.46% 
-Saturday     67 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.99% 
-Sunday       71 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.58%
+Monday       105 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.62% 
+Tuesday      119 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.71% 
+Wednesday    68 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.12% 
+Thursday     68 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.12% 
+Friday       156 commits    █████░░░░░░░░░░░░░░░░░░░░   23.21% 
+Saturday     85 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.65% 
+Sunday       71 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.57%
 
 ```
 
@@ -130,24 +130,25 @@ Sunday       71 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Markdown                 3 hrs 16 mins       ████████████░░░░░░░░░░░░░   49.39% 
-Other                    1 hr 52 mins        ███████░░░░░░░░░░░░░░░░░░   28.24% 
-YAML                     52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.16% 
-Makefile                 24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.23% 
-JavaScript               8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.13%
+Markdown                 3 hrs 56 mins       █████████░░░░░░░░░░░░░░░░   37.55% 
+YAML                     3 hrs 49 mins       █████████░░░░░░░░░░░░░░░░   36.47% 
+Other                    1 hr 56 mins        ████░░░░░░░░░░░░░░░░░░░░░   18.52% 
+Makefile                 35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.56% 
+JavaScript               8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.35%
 
 🔥 Editors: 
-VS Code                  4 hrs 46 mins       ██████████████████░░░░░░░   71.76% 
-Browser                  1 hr 52 mins        ███████░░░░░░░░░░░░░░░░░░   28.24%
+VS Code                  8 hrs 33 mins       ████████████████████░░░░░   81.48% 
+Browser                  1 hr 52 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.87% 
+Bash                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.65%
 
 💻 Operating System: 
-Windows                  5 hrs 56 mins       ██████████████████████░░░   89.38% 
-Linux                    42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.62%
+Windows                  9 hrs 33 mins       ██████████████████████░░░   91.01% 
+Linux                    56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.99%
 
 ```
 
 
- Last Updated on 09/07/2021
+ Last Updated on 10/07/2021
 <!--END_SECTION:waka-->
 
 
@@ -171,9 +172,11 @@ Linux                    42 mins             ██░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
-- [Legendary](http://9gag.com/gag/anQdmeE)
-- [90s](http://9gag.com/gag/anQdmVB)
-- [Happy weekend...](http://9gag.com/gag/aLpbZLz)
+- [I got you](http://9gag.com/gag/azMB0yB)
+- [Farrier life](http://9gag.com/gag/av5DYME)
+- [Lightning hitting a golf ball in mid air](http://9gag.com/gag/a27xBpO)
+- [Welcome to the Internet!](http://9gag.com/gag/aqjdv9j)
+- [Familiar](http://9gag.com/gag/a7EGjWx)
 <!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
@@ -181,7 +184,9 @@ Linux                    42 mins             ██░░░░░░░░░�
 <!-- JOKES:START -->
 - [r/jokes has a discord and you need to join!](https://www.reddit.com/r/Jokes/comments/i3mmsn/rjokes_has_a_discord_and_you_need_to_join/)
 - [Reposts...](https://www.reddit.com/r/Jokes/comments/ics15s/reposts/)
+- [A woman places an ad in the local newspaper. “Looking for a man with three qualifications: won’t beat me up, won’t run away from me, and would be IMMENSELY good in bed".](https://www.reddit.com/r/Jokes/comments/oh53vc/a_woman_places_an_ad_in_the_local_newspaper/)
 - [What is the difference between BTS and Logan Paul?](https://www.reddit.com/r/Jokes/comments/ogufcq/what_is_the_difference_between_bts_and_logan_paul/)
+- [A Canadian was having a coffee and croissants with butter and jam in a cafe when an American tourist, chewing gum, sat down next to him.](https://www.reddit.com/r/Jokes/comments/ogs5pr/a_canadian_was_having_a_coffee_and_croissants/)
 <!-- JOKES:END -->
 
 ### 📣 Quotes of the hour
@@ -190,6 +195,8 @@ Linux                    42 mins             ██░░░░░░░░░�
 - [Love each other dearly always. There is scarcely anything else in the world but that: to love one another.](http://quotesbox.org/authors/victor-hugo-12573_385907/)
 - [Love of one is a piece of barbarism: for it is practised at the expense of all others. Love of God likewise.](http://quotesbox.org/authors/friedrich-nietzsche-1502_382668/)
 - [Love is Love no matter old you are, and I knew if I gave you enough time, you'd come back to me.](http://quotesbox.org/authors/nicholas-sparks-7177_388165/)
+- [Love grows by giving. The love we give away is the only love we keep. The only way to retain love is to give it away.](http://quotesbox.org/authors/elbert-hubbard-12331_175908/)
+- [Love is my sin, and thy dear virtue hate, Hate of my sin, grounded on sinful loving,](http://quotesbox.org/authors/william-shakespeare-5484_389078/)
 <!-- QUOTES:END -->
 
 --- 
