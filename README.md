@@ -106,10 +106,10 @@ while(dev.isCoding() && dev.isStuck())
 
 <!-- MEMES:START -->
  - 🚖 [A moment of silence for the child please](http://9gag.com/gag/a07W9nL)
- - 🚯 [Flooding in Tokyo subway vs flooding in NYC subway](http://9gag.com/gag/aoMqEv3)
- - 🚯 [First date should be at a waterpark](http://9gag.com/gag/abVmXWE)
+ - 🚯 [Adios](http://9gag.com/gag/a4Er9pd)
+ - 🚯 [Apparently this is how the covid-19 mutations start](http://9gag.com/gag/aRXNgyA)
  - 😝 [A true hero](http://9gag.com/gag/a7E65Qz)
- - 🚅 [Billie Smoke](http://9gag.com/gag/a1rqZ28)<!-- MEMES:END -->
+ - 🚅 [Baby on top !](http://9gag.com/gag/a8EXWoY)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
