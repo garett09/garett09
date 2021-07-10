@@ -172,11 +172,11 @@ Linux                    56 mins             ██░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Phew!](http://9gag.com/gag/apNjK3E)
- - 🚯 [Shark has seen some shit](http://9gag.com/gag/azMDgbp)
+ - 🚖 [The present I gave my wife for her 46th birthday.](http://9gag.com/gag/azMDg8B)
+ - 🚯 [That Sweden though](http://9gag.com/gag/axMnd4b)
  - 🚯 [Freedom is a myth](http://9gag.com/gag/aNp2rwA)
- - 😝 [Imagine if Italy becomes the Euro Winner](http://9gag.com/gag/awMGNbx)
- - 🚅 [I come from ukraine, where the salaries are really low, never was able to afford buing nice things. At the beginning of this year I relocated to Switzerland to work as a network architect. Now that I earn more, I could buy my 1st ebike. So happy!](http://9gag.com/gag/anQWewz)<!-- MEMES:END -->
+ - 😝 [I come from ukraine, where the salaries are really low, never was able to afford buing nice things. At the beginning of this year I relocated to Switzerland to work as a network architect. Now that I earn more, I could buy my 1st ebike. So happy!](http://9gag.com/gag/anQWewz)
+ - 🚅 [Asians be like: Wires? who needs them???](http://9gag.com/gag/a4ErK9p)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
