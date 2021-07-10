@@ -114,11 +114,11 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Jokes of the hour
 
 <!-- JOKES:START -->
- - 🐔 [There’s just something seductive about long legs and high heels (43 Photos)](https://thechive.com/2021/07/10/theres-just-something-seductive-about-long-legs-and-high-heels-44-photos/)
+ - 🐔 [Weekend Afternoon Randomness (37 Photos)](https://thechive.com/2021/07/10/weekend-afternoon-randomness-37-photos-37/)
+ - 🕉 [There’s just something seductive about long legs and high heels (43 Photos)](https://thechive.com/2021/07/10/theres-just-something-seductive-about-long-legs-and-high-heels-44-photos/)
  - 🕉 [Real-life SUPERTROOPER cop has strange “DRUGs are BAD” traffic stop (Video)](https://thechive.com/2021/07/10/real-life-supertrooper-cop-has-strange-drugs-are-bad-traffic-stop-video/)
- - 🕉 [This hospital food is so gross we’re now considering death instead (20 Photos)](https://thechive.com/2021/07/10/this-hospital-food-is-so-gross-were-now-considering-death-instead-20-photos/)
- - 👾 [The Ultimate Home Run Derby sure would be a sight to see (31 Photos)](https://thechive.com/2021/07/10/the-ultimate-home-run-derby-sure-would-be-a-sight-to-see-31-photos/)
- - 🎈 [Smoking hot facts about Scarlett Johannson (20 Photos and GIFs)](https://thechive.com/2021/07/10/smoking-hot-facts-about-scarlett-johannson-20-photos-and-gifs/)<!-- JOKES:END -->
+ - 👾 [This hospital food is so gross we’re now considering death instead (20 Photos)](https://thechive.com/2021/07/10/this-hospital-food-is-so-gross-were-now-considering-death-instead-20-photos/)
+ - 🎈 [The Ultimate Home Run Derby sure would be a sight to see (31 Photos)](https://thechive.com/2021/07/10/the-ultimate-home-run-derby-sure-would-be-a-sight-to-see-31-photos/)<!-- JOKES:END -->
 
 ### 📣 Quotes of the hour
 
