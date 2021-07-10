@@ -190,12 +190,11 @@ Linux                    56 mins             ██░░░░░░░░░�
 
 ### 📣 Quotes of the hour
 
-<!-- QUOTES:START -->
-- [By yuyu](https://www.fmylife.com/article/lockdown-4-covid-strikes-back_357750.html)
-- [By Anonymous](https://www.fmylife.com/article/third-degree_357668.html)
-- [By Anonymous](https://www.fmylife.com/article/systemic_357667.html)
-- [By Anonymous](https://www.fmylife.com/article/not-the-sharpest-tool_357680.html)
-- [By Pointless](https://www.fmylife.com/article/what-s-going-on_357678.html)
+<!-- QUOTES:START -->"No man ever steps in the same river twice, for it's not the same river and he's not the same man." - Heraclitus 🔥 
+"Life can only be understood backwards; but it must be lived forwards." - Soren Kierkegaard 🌮 
+"We are not human beings having a spiritual experience. We are spiritual beings having a human experience." - Pierre Teilhard de Chardin 🌮 
+"Life is the art of drawing without an eraser." - John W. Gardner 💯 
+"Good judgment comes from experience, and experience comes from bad judgment." - Rita Mae Brown 💫 
 <!-- QUOTES:END -->
 
 --- 
