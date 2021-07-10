@@ -181,12 +181,12 @@ Linux                    56 mins             ██░░░░░░░░░�
 
 ### 📣 Jokes of the hour
 
-<!-- JOKES:START -->
- "No man ever steps in the same river twice, for it's not the same river and he's not the same man." - Heraclitus 🔥
- "Life can only be understood backwards; but it must be lived forwards." - Soren Kierkegaard 🌮
- "We are not human beings having a spiritual experience. We are spiritual beings having a human experience." - Pierre Teilhard de Chardin 🌮
- "Life is the art of drawing without an eraser." - John W. Gardner 💯
- "Good judgment comes from experience, and experience comes from bad judgment." - Rita Mae Brown 💫<!-- JOKES:END -->
+<!-- JOKES:START --><img width="500" height="377" src="https://thechive.com/wp-content/uploads/2021/07/responses-lead.jpg?attachment_cache_bust=3738536&amp;quality=85&amp;strip=info&amp;w=500&amp;h=377&amp;crop=1" class="attachment-rss-thumb size-rss-thumb wp-post-image" alt="" loading="lazy" srcset="https://thechive.com/wp-content/uploads/2021/07/responses-lead.jpg?resize=500,377 500w, https://thechive.com/wp-content/uploads/2021/07/responses-lead.jpg?resize=300,225 300w, https://thechive.com/wp-content/uploads/2021/07/responses-lead.jpg?resize=150,113 150w" sizes="(max-width: 500px) 100vw, 500px" /> 🔥 
+<img width="500" height="377" src="https://thechive.com/wp-content/uploads/2021/07/FEATURED-Redneck-Engineering-And-Innovations-Humor-Funny-Pictures-DIY-.jpg?attachment_cache_bust=3731186&amp;quality=85&amp;strip=info&amp;w=500&amp;h=377&amp;crop=1" class="attachment-rss-thumb size-rss-thumb wp-post-image" alt="" loading="lazy" /> 🌮 
+<img width="500" height="377" src="https://thechive.com/wp-content/uploads/2021/07/DD70921.jpg?attachment_cache_bust=3732100&amp;quality=85&amp;strip=info&amp;w=500&amp;h=377&amp;crop=1" class="attachment-rss-thumb size-rss-thumb wp-post-image" alt="" loading="lazy" srcset="https://thechive.com/wp-content/uploads/2021/07/DD70921.jpg?resize=500,377 500w, https://thechive.com/wp-content/uploads/2021/07/DD70921.jpg?resize=300,225 300w, https://thechive.com/wp-content/uploads/2021/07/DD70921.jpg?resize=150,113 150w" sizes="(max-width: 500px) 100vw, 500px" /> 🌮 
+<img width="500" height="377" src="https://thechive.com/wp-content/uploads/2021/07/feature-15.jpg?attachment_cache_bust=3737224&amp;quality=85&amp;strip=info&amp;w=500&amp;h=377&amp;crop=1" class="attachment-rss-thumb size-rss-thumb wp-post-image" alt="" loading="lazy" /> 💯 
+<img width="500" height="377" src="https://thechive.com/wp-content/uploads/2021/07/1L-18.jpg?attachment_cache_bust=3735261&amp;quality=85&amp;strip=info&amp;w=500&amp;h=377&amp;crop=1" class="attachment-rss-thumb size-rss-thumb wp-post-image" alt="" loading="lazy" srcset="https://thechive.com/wp-content/uploads/2021/07/1L-18.jpg?resize=500,377 500w, https://thechive.com/wp-content/uploads/2021/07/1L-18.jpg?resize=300,225 300w, https://thechive.com/wp-content/uploads/2021/07/1L-18.jpg?resize=150,113 150w" sizes="(max-width: 500px) 100vw, 500px" /> 💫 
+<!-- JOKES:END -->
 
 ### 📣 Quotes of the hour
 
