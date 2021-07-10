@@ -181,11 +181,12 @@ Linux                    56 mins             ██░░░░░░░░░�
 
 ### 📣 Jokes of the hour
 
-<!-- JOKES:START --><img width="500" height="377" src="https://thechive.com/wp-content/uploads/2021/07/responses-lead.jpg?attachment_cache_bust=3738536&amp;quality=85&amp;strip=info&amp;w=500&amp;h=377&amp;crop=1" class="attachment-rss-thumb size-rss-thumb wp-post-image" alt="" loading="lazy" srcset="https://thechive.com/wp-content/uploads/2021/07/responses-lead.jpg?resize=500,377 500w, https://thechive.com/wp-content/uploads/2021/07/responses-lead.jpg?resize=300,225 300w, https://thechive.com/wp-content/uploads/2021/07/responses-lead.jpg?resize=150,113 150w" sizes="(max-width: 500px) 100vw, 500px" /> 🔥 
-<img width="500" height="377" src="https://thechive.com/wp-content/uploads/2021/07/FEATURED-Redneck-Engineering-And-Innovations-Humor-Funny-Pictures-DIY-.jpg?attachment_cache_bust=3731186&amp;quality=85&amp;strip=info&amp;w=500&amp;h=377&amp;crop=1" class="attachment-rss-thumb size-rss-thumb wp-post-image" alt="" loading="lazy" /> 🌮 
-<img width="500" height="377" src="https://thechive.com/wp-content/uploads/2021/07/DD70921.jpg?attachment_cache_bust=3732100&amp;quality=85&amp;strip=info&amp;w=500&amp;h=377&amp;crop=1" class="attachment-rss-thumb size-rss-thumb wp-post-image" alt="" loading="lazy" srcset="https://thechive.com/wp-content/uploads/2021/07/DD70921.jpg?resize=500,377 500w, https://thechive.com/wp-content/uploads/2021/07/DD70921.jpg?resize=300,225 300w, https://thechive.com/wp-content/uploads/2021/07/DD70921.jpg?resize=150,113 150w" sizes="(max-width: 500px) 100vw, 500px" /> 🌮 
-<img width="500" height="377" src="https://thechive.com/wp-content/uploads/2021/07/feature-15.jpg?attachment_cache_bust=3737224&amp;quality=85&amp;strip=info&amp;w=500&amp;h=377&amp;crop=1" class="attachment-rss-thumb size-rss-thumb wp-post-image" alt="" loading="lazy" /> 💯 
-<img width="500" height="377" src="https://thechive.com/wp-content/uploads/2021/07/1L-18.jpg?attachment_cache_bust=3735261&amp;quality=85&amp;strip=info&amp;w=500&amp;h=377&amp;crop=1" class="attachment-rss-thumb size-rss-thumb wp-post-image" alt="" loading="lazy" srcset="https://thechive.com/wp-content/uploads/2021/07/1L-18.jpg?resize=500,377 500w, https://thechive.com/wp-content/uploads/2021/07/1L-18.jpg?resize=300,225 300w, https://thechive.com/wp-content/uploads/2021/07/1L-18.jpg?resize=150,113 150w" sizes="(max-width: 500px) 100vw, 500px" /> 💫 
+<!-- JOKES:START -->
+- [Internet responses that nailed it like no others (30 Photos)](https://thechive.com/2021/07/09/internet-responses-that-nailed-it-like-no-others-30-photos-9/)
+- [Step aside, MacGyver. Rednecks will take it from here (31 Photos)](https://thechive.com/2021/07/09/step-aside-macgyver-rednecks-will-take-it-from-here-33-photos/)
+- [Daily Dopamine Dump](http://i.thechive.com/dopamine-dump)
+- [Chivettes and Fridays go together like peas and carrots (40 Photos)](https://thechive.com/2021/07/09/chivettes-and-fridays-go-together-like-peas-and-carrots-40-photos/)
+- [Cheers to drinking memes, booze, and the WEEKEND!!! (52 Photos)](https://thechive.com/2021/07/09/cheers-to-drinking-memes-booze-and-the-weekend-xx-photos-3/)
 <!-- JOKES:END -->
 
 ### 📣 Quotes of the hour
