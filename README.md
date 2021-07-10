@@ -174,8 +174,8 @@ Linux                    56 mins             ██░░░░░░░░░�
 <!-- MEMES:START -->
 - [Turn a beard trimmer into an amazing robot.](http://9gag.com/gag/a8EXdAe)
 - [Curb your strong womenhood](http://9gag.com/gag/aZ0d9LQ)
-- [The one thing I envy about atheists is that they don&#039;t go to churches](http://9gag.com/gag/aMKWpRG)
 - [Just a simple, gag from the webs. Not a real tweet, ftr.](http://9gag.com/gag/aB2N9QZ)
+- [The one thing I envy about atheists is that they don&#039;t go to churches](http://9gag.com/gag/aMKWpRG)
 - [Hummer: Now everyone will know.](http://9gag.com/gag/awM8q8Q)
 <!-- MEMES:END -->
 
