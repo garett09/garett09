@@ -15,7 +15,6 @@ jobs:
           commit_message: "[AUTOMATED] New jokes 🤣"
           committer_username: garett09
           disable_sort: True
-          template: $newline - $randomEmoji(💯,🔥,💫,🚀,🌮) [$description]($url) 
           feed_list: "http://feeds.sydv.net/latest-bash-quotes.rss,https://thechive.com/feed/,https://icanhas.cheezburger.com/rss,https://pleated-jeans.com/feed/,http://feeds.feedburner.com/imao/jNDB"
           committer_email: adriansian@gmail.com
 
