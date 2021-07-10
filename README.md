@@ -172,10 +172,10 @@ Linux                    56 mins             ██░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
-- [Familiar](http://9gag.com/gag/a7EGjWx)
-- [Curb your strong womenhood](http://9gag.com/gag/aZ0d9LQ)
 - [Impossible in today&rsquo;s world](http://9gag.com/gag/awM8R5B)
 - [1932 vs 2016 100m swim comparison.](http://9gag.com/gag/aO3jXDR)
+- [Familiar](http://9gag.com/gag/a7EGjWx)
+- [Accurate](http://9gag.com/gag/a3ExVN3)
 - [Farrier life](http://9gag.com/gag/av5DYME)
 <!-- MEMES:END -->
 
