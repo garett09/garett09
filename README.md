@@ -172,11 +172,11 @@ Linux                    56 mins             ██░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Sometimes a Father, sometimes a Daddy.](http://9gag.com/gag/aNp2rzw)
- - 🚯 [An old gem. Here&#039;s the original...](http://9gag.com/gag/aEpNvGn)
+ - 🚖 [Phew!](http://9gag.com/gag/apNjK3E)
  - 🚯 [Shark has seen some shit](http://9gag.com/gag/azMDgbp)
- - 😝 [I know it&rsquo;s meaningless, but being able to buy my own cookware in my new apartment is a big thing for me..just wanted to share with y&rsquo;all.](http://9gag.com/gag/aZ0Vqbz)
- - 🚅 [Phew!](http://9gag.com/gag/apNjK3E)<!-- MEMES:END -->
+ - 🚯 [Freedom is a myth](http://9gag.com/gag/aNp2rwA)
+ - 😝 [Imagine if Italy becomes the Euro Winner](http://9gag.com/gag/awMGNbx)
+ - 🚅 [I come from ukraine, where the salaries are really low, never was able to afford buing nice things. At the beginning of this year I relocated to Switzerland to work as a network architect. Now that I earn more, I could buy my 1st ebike. So happy!](http://9gag.com/gag/anQWewz)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
