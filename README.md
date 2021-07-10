@@ -172,30 +172,30 @@ Linux                    56 mins             ██░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
-- [Police discover a well hidden grow house...](http://9gag.com/gag/aV71j0d)
-- [The one thing I envy about atheists is that they don&#039;t go to churches](http://9gag.com/gag/aMKWpRG)
-- [Just a simple, gag from the webs. Not a real tweet, ftr.](http://9gag.com/gag/aB2N9QZ)
-- [Hummer: Now everyone will know.](http://9gag.com/gag/awM8q8Q)
-- [Phew!](http://9gag.com/gag/apNjK3E)
-<!-- MEMES:END -->
+ <video preload="auto" poster="https://img-9gag-fun.9cache.com/photo/aMKNeBM_460s.jpg" loop muted autoplay="autoplay" controls="controls" style="width:100%;height:auto;margin:0 auto;" autoplay><source src="https://img-9gag-fun.9cache.com/photo/aMKNeBM_460sv.mp4" type="video/mp4"></video><p>827 points, 73 comments.</p>
+ <img src="https://img-9gag-fun.9cache.com/photo/awM8q8Q_700b.jpg" /><br /><br /><p>Tags: <a href="https://9gag.com/tag/hummer">Hummer</a>, <a href="https://9gag.com/tag/gmc-hummer-ev">GMC Hummer EV</a></p><p>5056 points, 216 comments.</p>
+ <video preload="auto" poster="https://img-9gag-fun.9cache.com/photo/aMKWpRG_460s.jpg" loop muted autoplay="autoplay" controls="controls" style="width:100%;height:auto;margin:0 auto;" autoplay><source src="https://img-9gag-fun.9cache.com/photo/aMKWpRG_460sv.mp4" type="video/mp4"></video><p>1962 points, 167 comments.</p>
+ <img src="https://img-9gag-fun.9cache.com/photo/aB2N9QZ_700b.jpg" /><br /><br /><p>Tags: <a href="https://9gag.com/tag/delta">delta</a>, <a href="https://9gag.com/tag/fake-tweet">fake tweet</a></p><p>2674 points, 133 comments.</p>
+ <video preload="auto" poster="https://img-9gag-fun.9cache.com/photo/aK6LbR1_460s.jpg" loop muted autoplay="autoplay" controls="controls" style="width:100%;height:auto;margin:0 auto;" autoplay><source src="https://img-9gag-fun.9cache.com/photo/aK6LbR1_460sv.mp4" type="video/mp4"></video><br /><p>Tags: <a href="https://9gag.com/tag/kaori">kaori</a>, <a href="https://9gag.com/tag/kawabuchi">kawabuchi</a></p><p>2648 points, 211 comments.</p><!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
-<!-- JOKES:START --><img width="500" height="377" src="https://thechive.com/wp-content/uploads/2021/07/responses-lead.jpg?attachment_cache_bust=3738536&amp;quality=85&amp;strip=info&amp;w=500&amp;h=377&amp;crop=1" class="attachment-rss-thumb size-rss-thumb wp-post-image" alt="" loading="lazy" srcset="https://thechive.com/wp-content/uploads/2021/07/responses-lead.jpg?resize=500,377 500w, https://thechive.com/wp-content/uploads/2021/07/responses-lead.jpg?resize=300,225 300w, https://thechive.com/wp-content/uploads/2021/07/responses-lead.jpg?resize=150,113 150w" sizes="(max-width: 500px) 100vw, 500px" /> 🔥 
-<img width="500" height="377" src="https://thechive.com/wp-content/uploads/2021/07/FEATURED-Redneck-Engineering-And-Innovations-Humor-Funny-Pictures-DIY-.jpg?attachment_cache_bust=3731186&amp;quality=85&amp;strip=info&amp;w=500&amp;h=377&amp;crop=1" class="attachment-rss-thumb size-rss-thumb wp-post-image" alt="" loading="lazy" /> 🌮 
-<img width="500" height="377" src="https://thechive.com/wp-content/uploads/2021/07/DD70921.jpg?attachment_cache_bust=3732100&amp;quality=85&amp;strip=info&amp;w=500&amp;h=377&amp;crop=1" class="attachment-rss-thumb size-rss-thumb wp-post-image" alt="" loading="lazy" srcset="https://thechive.com/wp-content/uploads/2021/07/DD70921.jpg?resize=500,377 500w, https://thechive.com/wp-content/uploads/2021/07/DD70921.jpg?resize=300,225 300w, https://thechive.com/wp-content/uploads/2021/07/DD70921.jpg?resize=150,113 150w" sizes="(max-width: 500px) 100vw, 500px" /> 🌮 
-<img width="500" height="377" src="https://thechive.com/wp-content/uploads/2021/07/feature-15.jpg?attachment_cache_bust=3737224&amp;quality=85&amp;strip=info&amp;w=500&amp;h=377&amp;crop=1" class="attachment-rss-thumb size-rss-thumb wp-post-image" alt="" loading="lazy" /> 💯 
-<img width="500" height="377" src="https://thechive.com/wp-content/uploads/2021/07/1L-18.jpg?attachment_cache_bust=3735261&amp;quality=85&amp;strip=info&amp;w=500&amp;h=377&amp;crop=1" class="attachment-rss-thumb size-rss-thumb wp-post-image" alt="" loading="lazy" srcset="https://thechive.com/wp-content/uploads/2021/07/1L-18.jpg?resize=500,377 500w, https://thechive.com/wp-content/uploads/2021/07/1L-18.jpg?resize=300,225 300w, https://thechive.com/wp-content/uploads/2021/07/1L-18.jpg?resize=150,113 150w" sizes="(max-width: 500px) 100vw, 500px" /> 💫 
+<!-- JOKES:START -->
+- [Internet responses that nailed it like no others (30 Photos)](https://thechive.com/2021/07/09/internet-responses-that-nailed-it-like-no-others-30-photos-9/)
+- [Step aside, MacGyver. Rednecks will take it from here (31 Photos)](https://thechive.com/2021/07/09/step-aside-macgyver-rednecks-will-take-it-from-here-33-photos/)
+- [Daily Dopamine Dump](http://i.thechive.com/dopamine-dump)
+- [Chivettes and Fridays go together like peas and carrots (40 Photos)](https://thechive.com/2021/07/09/chivettes-and-fridays-go-together-like-peas-and-carrots-40-photos/)
+- [Cheers to drinking memes, booze, and the WEEKEND!!! (52 Photos)](https://thechive.com/2021/07/09/cheers-to-drinking-memes-booze-and-the-weekend-xx-photos-3/)
 <!-- JOKES:END -->
 
 ### 📣 Quotes of the hour
 
-<!-- QUOTES:START -->"No man ever steps in the same river twice, for it's not the same river and he's not the same man." - Heraclitus 🔥 
-"Life can only be understood backwards; but it must be lived forwards." - Soren Kierkegaard 🌮 
-"We are not human beings having a spiritual experience. We are spiritual beings having a human experience." - Pierre Teilhard de Chardin 🌮 
-"Life is the art of drawing without an eraser." - John W. Gardner 💯 
-"Good judgment comes from experience, and experience comes from bad judgment." - Rita Mae Brown 💫 
-<!-- QUOTES:END -->
+<!-- QUOTES:START -->
+ "No man ever steps in the same river twice, for it's not the same river and he's not the same man." - Heraclitus
+ "Life can only be understood backwards; but it must be lived forwards." - Soren Kierkegaard
+ "We are not human beings having a spiritual experience. We are spiritual beings having a human experience." - Pierre Teilhard de Chardin
+ "Life is the art of drawing without an eraser." - John W. Gardner
+ "Good judgment comes from experience, and experience comes from bad judgment." - Rita Mae Brown<!-- QUOTES:END -->
 
 --- 
 ### 💻 Workspace Spec
