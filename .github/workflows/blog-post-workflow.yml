@@ -14,9 +14,10 @@ jobs:
           comment_tag_name: JOKES
           commit_message: "[AUTOMATED] New jokes 🤣"
           committer_username: garett09
+          disable_sort: True
           committer_email: adriansian@gmail.com
           feed_list: "https://rss.app/feeds/Kdt3YN2YH1K3Bep6.xml"
-          template: $description $newline
+          template: $newline $description $randomEmoji(💯,🔥,💫,🚀,🌮)
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: QUOTES
