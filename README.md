@@ -186,7 +186,7 @@ Linux                    56 mins             ██░░░░░░░░░�
 - [Reposts...](https://www.reddit.com/r/Jokes/comments/ics15s/reposts/)
 - [What is the difference between BTS and Logan Paul?](https://www.reddit.com/r/Jokes/comments/ogufcq/what_is_the_difference_between_bts_and_logan_paul/)
 - [A Canadian was having a coffee and croissants with butter and jam in a cafe when an American tourist, chewing gum, sat down next to him.](https://www.reddit.com/r/Jokes/comments/ogs5pr/a_canadian_was_having_a_coffee_and_croissants/)
-- [CEO of IKEA is now the Prime Minister of Sweden](https://www.reddit.com/r/Jokes/comments/ogk4en/ceo_of_ikea_is_now_the_prime_minister_of_sweden/)
+- [A woman places an ad in the local newspaper. “Looking for a man with three qualifications: won’t beat me up, won’t run away from me, and would be IMMENSELY good in bed".](https://www.reddit.com/r/Jokes/comments/oh53vc/a_woman_places_an_ad_in_the_local_newspaper/)
 <!-- JOKES:END -->
 
 ### 📣 Quotes of the hour
