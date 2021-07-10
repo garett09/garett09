@@ -190,11 +190,11 @@ Linux                    56 mins             ██░░░░░░░░░�
 ### 📣 Quotes of the hour
 
 <!-- QUOTES:START -->
- - 🔥 ["If you have one true friend you have more than your share." - Thomas Fuller](https://www.brainyquote.com/quotes/thomas_fuller_151904)
- - 🌮 ["There are no strangers here; Only friends you haven't yet met." - William Butler Yeats](https://www.brainyquote.com/quotes/william_butler_yeats_383082)
- - 🌮 ["Things are never quite as scary when you've got a best friend." - Bill Watterson](https://www.brainyquote.com/quotes/bill_watterson_383142)
- - 💯 ["A man's friendships are one of the best measures of his worth." - Charles Darwin](https://www.brainyquote.com/quotes/charles_darwin_383136)
- - 💫 ["She is a friend of mind. She gather me, man. The pieces I am, she gather them and give them back to me in all the right order. It's good, you know, when you got a woman who is a friend of your mind." - Toni Morrison](https://www.brainyquote.com/quotes/toni_morrison_105243)<!-- QUOTES:END -->
+ - 🔥 ["The best time to make friends is before you need them." - Ethel Barrymore](https://www.brainyquote.com/quotes/ethel_barrymore_158797)
+ - 🌮 ["It takes a long time to grow an old friend." - John Leonard](https://www.brainyquote.com/quotes/john_leonard_105249)
+ - 🌮 ["One of the most beautiful qualities of true friendship is to understand and to be understood." - Lucius Annaeus Seneca](https://www.brainyquote.com/quotes/lucius_annaeus_seneca_155059)
+ - 💯 ["No person is your friend who demands your silence, or denies your right to grow." - Alice Walker](https://www.brainyquote.com/quotes/alice_walker_131842)
+ - 💫 ["There is nothing on this earth more to be prized than true friendship." - Thomas Aquinas](https://www.brainyquote.com/quotes/thomas_aquinas_163328)<!-- QUOTES:END -->
 
 --- 
 ### 💻 Workspace Spec
