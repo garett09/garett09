@@ -172,11 +172,11 @@ Linux                    56 mins             ██░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
-- [Hummer: Now everyone will know.](http://9gag.com/gag/awM8q8Q)
-- [Accurate](http://9gag.com/gag/a3ExVN3)
-- [Farrier life](http://9gag.com/gag/av5DYME)
-- [Familiar](http://9gag.com/gag/a7EGjWx)
 - [I got you](http://9gag.com/gag/azMB0yB)
+- [Farrier life](http://9gag.com/gag/av5DYME)
+- [Lightning hitting a golf ball in mid air](http://9gag.com/gag/a27xBpO)
+- [Welcome to the Internet!](http://9gag.com/gag/aqjdv9j)
+- [Familiar](http://9gag.com/gag/a7EGjWx)
 <!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
