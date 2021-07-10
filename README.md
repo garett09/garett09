@@ -172,11 +172,11 @@ Linux                    56 mins             ██░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I come from ukraine, where the salaries are really low, never was able to afford buing nice things. At the beginning of this year I relocated to Switzerland to work as a network architect. Now that I earn more, I could buy my 1st ebike. So happy!](http://9gag.com/gag/anQWewz)
- - 🚯 [Asians be like: Wires? who needs them???](http://9gag.com/gag/a4ErK9p)
+ - 🚖 [Asians be like: Wires? who needs them???](http://9gag.com/gag/a4ErK9p)
  - 🚯 [Freedom is a myth](http://9gag.com/gag/aNp2rwA)
- - 😝 [That Sweden though](http://9gag.com/gag/axMnd4b)
- - 🚅 [Flooding in Tokyo subway vs flooding in NYC subway](http://9gag.com/gag/aoMqEv3)<!-- MEMES:END -->
+ - 🚯 [That Sweden though](http://9gag.com/gag/axMnd4b)
+ - 😝 [Baby on top !](http://9gag.com/gag/a8EXWoY)
+ - 🚅 [My Gesellenst&uuml;ck. A workpiece that you have to design and build yourself to be a licensed carpenter in Germany](http://9gag.com/gag/a7E6LWe)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
