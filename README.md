@@ -114,11 +114,11 @@ while(dev.isCoding() && dev.isStuck())
 ### 📣 Jokes of the hour
 
 <!-- JOKES:START -->
- - 🐔 [Weekend Afternoon Randomness (37 Photos)](https://thechive.com/2021/07/10/weekend-afternoon-randomness-37-photos-37/)
- - 🕉 [There’s just something seductive about long legs and high heels (43 Photos)](https://thechive.com/2021/07/10/theres-just-something-seductive-about-long-legs-and-high-heels-44-photos/)
- - 🕉 [Real-life SUPERTROOPER cop has strange “DRUGs are BAD” traffic stop (Video)](https://thechive.com/2021/07/10/real-life-supertrooper-cop-has-strange-drugs-are-bad-traffic-stop-video/)
- - 👾 [This hospital food is so gross we’re now considering death instead (20 Photos)](https://thechive.com/2021/07/10/this-hospital-food-is-so-gross-were-now-considering-death-instead-20-photos/)
- - 🎈 [The Ultimate Home Run Derby sure would be a sight to see (31 Photos)](https://thechive.com/2021/07/10/the-ultimate-home-run-derby-sure-would-be-a-sight-to-see-31-photos/)<!-- JOKES:END -->
+ - 🐔 [Just stop bragging about these things. You’re impressing no one. (18 GIFs)](https://thechive.com/2021/07/10/just-stop-bragging-about-these-things-youre-impressing-no-one-18-gifs/)
+ - 🕉 [Crazy! Crazy on sale!! Buy now and the shipping is free (32 Photos)](https://thechive.com/2021/07/10/crazy-crazy-on-sale-buy-now-and-the-shipping-is-free-32-photos/)
+ - 🕉 [I Didn’t Know That, but Now I Do (20 Photos)](https://thechive.com/2021/07/10/i-didnt-know-that-but-now-i-do-20-photos/)
+ - 👾 [Weekend Afternoon Randomness (37 Photos)](https://thechive.com/2021/07/10/weekend-afternoon-randomness-37-photos-37/)
+ - 🎈 [There’s just something seductive about long legs and high heels (43 Photos)](https://thechive.com/2021/07/10/theres-just-something-seductive-about-long-legs-and-high-heels-44-photos/)<!-- JOKES:END -->
 
 ### 📣 Quotes of the hour
 
