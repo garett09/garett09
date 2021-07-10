@@ -172,10 +172,10 @@ Linux                    56 mins             ██░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
-- [The forbidden fleshlight](http://9gag.com/gag/a8EnPnd)
-- [Aaaaand it closes again just before you arrive](http://9gag.com/gag/ad8dZg9)
-- [Ooh no](http://9gag.com/gag/agBdPdx)
 - [Modern problems require shithole solutions](http://9gag.com/gag/aLpbY2W)
+- [The forbidden fleshlight](http://9gag.com/gag/a8EnPnd)
+- [Welcome to the Internet!](http://9gag.com/gag/aqjdv9j)
+- [Martial art level : yes](http://9gag.com/gag/av5DNNM)
 - [Impossible in today&rsquo;s world](http://9gag.com/gag/awM8R5B)
 <!-- MEMES:END -->
 
