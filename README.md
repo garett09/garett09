@@ -172,9 +172,9 @@ Linux                    56 mins             ██░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
-- [Feeding Hungry Racoons in Sub-Zero Winter](http://9gag.com/gag/aMKNeBM)
 - [Hummer: Now everyone will know.](http://9gag.com/gag/awM8q8Q)
 - [The one thing I envy about atheists is that they don&#039;t go to churches](http://9gag.com/gag/aMKWpRG)
+- [Feeding Hungry Racoons in Sub-Zero Winter](http://9gag.com/gag/aMKNeBM)
 - [Just a simple, gag from the webs. Not a real tweet, ftr.](http://9gag.com/gag/aB2N9QZ)
 - [Beautiful and deadly dance](http://9gag.com/gag/aK6LbR1)
 <!-- MEMES:END -->
