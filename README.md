@@ -181,11 +181,11 @@ Linux                    56 mins             ██░░░░░░░░░�
 ### 📣 Jokes of the hour
 
 <!-- JOKES:START -->
- - 🐔 [Afghan War…2 words politicians FORGOT (24 HIGH-RES Photos)](https://thechive.com/2021/07/10/afghan-war2-words-politicians-forgot/)
- - 🕉 [Weekend Morning Awesomeness (38 Photos)](https://thechive.com/2021/07/10/weekend-morning-awesomeness-38-photos-50/)
- - 🕉 [Reader Beware: Creepy Facts Ahead (15 GIFs)](https://thechive.com/2021/07/10/reader-beware-creepy-facts-ahead-15-gifs/)
- - 👾 [Internet responses that nailed it like no others (30 Photos)](https://thechive.com/2021/07/09/internet-responses-that-nailed-it-like-no-others-30-photos-9/)
- - 🎈 [Step aside, MacGyver. Rednecks will take it from here (31 Photos)](https://thechive.com/2021/07/09/step-aside-macgyver-rednecks-will-take-it-from-here-33-photos/)<!-- JOKES:END -->
+ - 🐔 [Villains that could have EASILY won but didn’t seal the deal (22 Photos)](https://thechive.com/2021/07/10/villains-that-could-have-easily-won-but-didnt-seal-the-deal-22-photos/)
+ - 🕉 [The Hunnies and Funnies: Bad Girls, Bad Jokes (17 Photos)](https://thechive.com/2021/07/10/the-hunnies-and-funnies-bad-girls-bad-jokes-17-photos/)
+ - 🕉 [Afghan War…2 words politicians FORGOT (24 HIGH-RES Photos)](https://thechive.com/2021/07/10/afghan-war2-words-politicians-forgot/)
+ - 👾 [Weekend Morning Awesomeness (38 Photos)](https://thechive.com/2021/07/10/weekend-morning-awesomeness-38-photos-50/)
+ - 🎈 [Reader Beware: Creepy Facts Ahead (15 GIFs)](https://thechive.com/2021/07/10/reader-beware-creepy-facts-ahead-15-gifs/)<!-- JOKES:END -->
 
 ### 📣 Quotes of the hour
 
