@@ -172,10 +172,10 @@ Linux                    56 mins             █░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 🚖 [Imagine seeing this at night](http://9gag.com/gag/aGpNwrw)
- - 🚯 [Apparently this is how the covid-19 mutations start](http://9gag.com/gag/aRXNgyA)
- - 🚯 [Billie Smoke](http://9gag.com/gag/a1rqZ28)
- - 😝 [Was it? Did you?](http://9gag.com/gag/aGpNw47)
- - 🚅 [Finally decided to throw away the my &bdquo;could be useful in the future&ldquo; cable collection](http://9gag.com/gag/aYonpP7)<!-- MEMES:END -->
+ - 🚯 [Here for you](http://9gag.com/gag/aB2N3D2)
+ - 🚯 [Was it? Did you?](http://9gag.com/gag/aGpNw47)
+ - 😝 [Finally decided to throw away the my &bdquo;could be useful in the future&ldquo; cable collection](http://9gag.com/gag/aYonpP7)
+ - 🚅 [WARNING: Black Widow Spoliers](http://9gag.com/gag/agBZv2v)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
