@@ -171,11 +171,11 @@ Linux                    56 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Imagine seeing this at night](http://9gag.com/gag/aGpNwrw)
+ - 🚖 [Arrivederci](http://9gag.com/gag/apNjBLM)
  - 🚯 [Here for you](http://9gag.com/gag/aB2N3D2)
- - 🚯 [Was it? Did you?](http://9gag.com/gag/aGpNw47)
- - 😝 [Finally decided to throw away the my &bdquo;could be useful in the future&ldquo; cable collection](http://9gag.com/gag/aYonpP7)
- - 🚅 [WARNING: Black Widow Spoliers](http://9gag.com/gag/agBZv2v)<!-- MEMES:END -->
+ - 🚯 [Finally decided to throw away the my &bdquo;could be useful in the future&ldquo; cable collection](http://9gag.com/gag/aYonpP7)
+ - 😝 [Was it? Did you?](http://9gag.com/gag/aGpNw47)
+ - 🚅 [Damn. They are intelligent.](http://9gag.com/gag/anQWK7n)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
