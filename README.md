@@ -171,11 +171,11 @@ Linux                    56 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Found something in the woods near Luxembourg.](http://9gag.com/gag/agBZGPw)
- - 🚯 [Chimp use broom left by zoo keeper to sweep after seeing zoo keeper clean the area everyday for 6 years](http://9gag.com/gag/axMnDr1)
- - 🚯 [Never underestimate an Irishman when a pint is involved.](http://9gag.com/gag/agBZG7g)
- - 😝 [Bromance](http://9gag.com/gag/a5EyrmO)
- - 🚅 [Call for the support!!](http://9gag.com/gag/amPbzD2)<!-- MEMES:END -->
+ - 🚖 [England v Italy](http://9gag.com/gag/aZ0VpzV)
+ - 🚯 [Burn it all down](http://9gag.com/gag/aRXNK2Q)
+ - 🚯 [Bromance](http://9gag.com/gag/a5EyrmO)
+ - 😝 [Call for the support!!](http://9gag.com/gag/amPbzD2)
+ - 🚅 [Listen here you little shit](http://9gag.com/gag/anQWyq5)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
