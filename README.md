@@ -180,11 +180,11 @@ Linux                    56 mins             █░░░░░░░░░░�
 ### 📣 Jokes of the hour
 
 <!-- JOKES:START -->
- - 🐔 [Kids are so DUMB that they really believed these things (30 Photos)](https://thechive.com/2021/07/11/kids-are-so-dumb-that-they-really-believed-these-things-30-photos/)
- - 🕉 [Top Comments dishing out precious diamonds in the rough (82 Photos)](https://thechive.com/2021/07/11/top-comments-dishing-out-precious-diamonds-in-the-rough-82-photos/)
- - 🕉 [Job Search Tips From a Career Coach (17 Photos)](https://thechive.com/2021/07/11/job-search-tips-from-a-career-coach-17-photos/)
- - 👾 [Celebs who had some “average Joe” jobs back before their fame (20 Photos)](https://thechive.com/2021/07/11/celebs-who-had-some-average-joe-jobs-back-before-their-fame-20-photos/)
- - 🎈 [These exes are out of their f*cking minds…](https://thechive.com/2021/07/11/these-exes-are-out-of-their-fcking-minds/)<!-- JOKES:END -->
+ - 🐔 [It’s the beautiful story of a daughter, a dad, a tweet, and Costco (22 Photos)](https://thechive.com/2021/07/11/its-the-beautiful-story-of-a-daughter-a-dad-a-tweet-and-costco-22-photos/)
+ - 🕉 [7-Eleven day is upon us and we all could use a free slurpee (18 Photos)](https://thechive.com/2021/07/11/7-eleven-day-is-upon-us-and-we-all-could-use-a-free-slurpee-18-photos/)
+ - 🕉 [Cats that can’t compute…error…error (35 Photos)](https://thechive.com/2021/07/11/cats-that-cant-compute-error-error/)
+ - 👾 [Kids are so DUMB that they really believed these things (30 Photos)](https://thechive.com/2021/07/11/kids-are-so-dumb-that-they-really-believed-these-things-30-photos/)
+ - 🎈 [Top Comments dishing out precious diamonds in the rough (82 Photos)](https://thechive.com/2021/07/11/top-comments-dishing-out-precious-diamonds-in-the-rough-82-photos/)<!-- JOKES:END -->
 
 ### 📣 Quotes of the hour
 
