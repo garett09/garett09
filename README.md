@@ -180,11 +180,11 @@ Linux                    56 mins             █░░░░░░░░░░�
 ### 📣 Jokes of the hour
 
 <!-- JOKES:START -->
- - 🐔 [Sex getting stale? Why not spice things up in the bedroom? (8 Photos)](https://thechive.com/2021/07/11/sex-getting-stale-why-not-spice-things-up-in-the-bedroom-8-photos/)
- - 🕉 [Dear Coffee: I Appreciate You (34 Photos)](https://thechive.com/2021/07/11/dear-coffee-i-appreciate-you-34-photos/)
- - 🕉 [Weekend Morning Awesomeness (38 photos)](https://thechive.com/2021/07/11/weekend-morning-awesomeness-38-photos-47/)
- - 👾 [Forget someone’s name? Do THIS instead of just asking like an adult! (29 Photos)](https://thechive.com/2021/07/11/forget-someones-name-do-this-instead-of-just-asking-like-an-adult-29-photos/)
- - 🎈 [Sunnies, bunnies, bikinis, beets, bears and Battlestars (66 Photos)](https://thechive.com/2021/07/10/sunnies-bunnies-bikinis-beets-bears-and-battlestars-66-photos/)<!-- JOKES:END -->
+ - 🐔 [These exes are out of their f*cking minds…](https://thechive.com/2021/07/11/these-exes-are-out-of-their-fcking-minds/)
+ - 🕉 [The Things in Life EVERY Man Should Master (20 Photos)](https://thechive.com/2021/07/11/the-things-in-life-every-man-should-master-20-photos/)
+ - 🕉 [Beers Babes and Burgers. That’s All I Need. (45 Photos)](https://thechive.com/2021/07/11/beers-babes-and-burgers-thats-all-i-need-45-photos/)
+ - 👾 [Sex getting stale? Why not spice things up in the bedroom? (8 Photos)](https://thechive.com/2021/07/11/sex-getting-stale-why-not-spice-things-up-in-the-bedroom-8-photos/)
+ - 🎈 [Dear Coffee: I Appreciate You (34 Photos)](https://thechive.com/2021/07/11/dear-coffee-i-appreciate-you-34-photos/)<!-- JOKES:END -->
 
 ### 📣 Quotes of the hour
 
