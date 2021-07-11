@@ -180,11 +180,11 @@ Linux                    56 mins             █░░░░░░░░░░�
 ### 📣 Jokes of the hour
 
 <!-- JOKES:START -->
- - 🐔 [It’s the beautiful story of a daughter, a dad, a tweet, and Costco (22 Photos)](https://thechive.com/2021/07/11/its-the-beautiful-story-of-a-daughter-a-dad-a-tweet-and-costco-22-photos/)
- - 🕉 [7-Eleven day is upon us and we all could use a free slurpee (18 Photos)](https://thechive.com/2021/07/11/7-eleven-day-is-upon-us-and-we-all-could-use-a-free-slurpee-18-photos/)
- - 🕉 [Cats that can’t compute…error…error (35 Photos)](https://thechive.com/2021/07/11/cats-that-cant-compute-error-error/)
- - 👾 [Kids are so DUMB that they really believed these things (30 Photos)](https://thechive.com/2021/07/11/kids-are-so-dumb-that-they-really-believed-these-things-30-photos/)
- - 🎈 [Top Comments dishing out precious diamonds in the rough (82 Photos)](https://thechive.com/2021/07/11/top-comments-dishing-out-precious-diamonds-in-the-rough-82-photos/)<!-- JOKES:END -->
+ - 🐔 [Awesome Is In the Eye of the Beholder (25 Photos)](https://thechive.com/2021/07/11/awesome-is-in-the-eye-of-the-beholder-25-photos/)
+ - 🕉 [Babysitters war stories prove they need a raise (or at least a union)](https://thechive.com/2021/07/11/babysitters-war-stories-prove-they-need-a-raise-or-at-least-a-union/)
+ - 🕉 [It’s the beautiful story of a daughter, a dad, a tweet, and Costco (22 Photos)](https://thechive.com/2021/07/11/its-the-beautiful-story-of-a-daughter-a-dad-a-tweet-and-costco-22-photos/)
+ - 👾 [7-Eleven day is upon us and we all could use a free slurpee (18 Photos)](https://thechive.com/2021/07/11/7-eleven-day-is-upon-us-and-we-all-could-use-a-free-slurpee-18-photos/)
+ - 🎈 [Cats that can’t compute…error…error (35 Photos)](https://thechive.com/2021/07/11/cats-that-cant-compute-error-error/)<!-- JOKES:END -->
 
 ### 📣 Quotes of the hour
 
