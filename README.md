@@ -171,11 +171,11 @@ Linux                    56 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Brothers of the mine rejoice!](http://9gag.com/gag/ad84Xj2)
- - 🚯 [Never underestimate an Irishman when a pint is involved.](http://9gag.com/gag/agBZG7g)
+ - 🚖 [&quot;It&#039;s a good life we lead brother&quot; &quot;May it never change&quot; &quot;and may it never change us&quot;](http://9gag.com/gag/a8EX4qY)
  - 🚯 [Not too ba-d](http://9gag.com/gag/apNjvMM)
- - 😝 [He took &quot;lemme talk to the manager&quot; to a whole new level.](http://9gag.com/gag/aAbNPyp)
- - 🚅 [This is it](http://9gag.com/gag/a07WpPB)<!-- MEMES:END -->
+ - 🚯 [Guarantee nobody here knew this. Christopher Lee asked what his most powerful performance was.](http://9gag.com/gag/abVmZeL)
+ - 😝 [Finals](http://9gag.com/gag/aZ0Vpo3)
+ - 🚅 [Keep it Clean](http://9gag.com/gag/aQoN8GW)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
