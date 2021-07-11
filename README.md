@@ -171,11 +171,11 @@ Linux                    56 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ain&#039;t nobody got time for that](http://9gag.com/gag/aeAPbKv)
- - 🚯 [Burn it all down](http://9gag.com/gag/aRXNK2Q)
- - 🚯 [Listen here you little shit](http://9gag.com/gag/anQWyq5)
- - 😝 [Finals](http://9gag.com/gag/aZ0Vpo3)
- - 🚅 [One of the most bizzare places known to mankind.](http://9gag.com/gag/a4ErZAA)<!-- MEMES:END -->
+ - 🚖 [Go Italy.](http://9gag.com/gag/a9ENr9m)
+ - 🚯 [I present you the shittiest fans in football history](http://9gag.com/gag/aeAPbzj)
+ - 🚯 [One of the most bizzare places known to mankind.](http://9gag.com/gag/a4ErZAA)
+ - 😝 [It is time to confess, brothers](http://9gag.com/gag/aNp2A3b)
+ - 🚅 [Freddie mercury&#039;s last moments on camera](http://9gag.com/gag/aLpNDGx)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
