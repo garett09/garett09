@@ -171,11 +171,11 @@ Linux                    56 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [England v Italy](http://9gag.com/gag/aZ0VpzV)
+ - 🚖 [Ain&#039;t nobody got time for that](http://9gag.com/gag/aeAPbKv)
  - 🚯 [Burn it all down](http://9gag.com/gag/aRXNK2Q)
- - 🚯 [Bromance](http://9gag.com/gag/a5EyrmO)
- - 😝 [Call for the support!!](http://9gag.com/gag/amPbzD2)
- - 🚅 [Listen here you little shit](http://9gag.com/gag/anQWyq5)<!-- MEMES:END -->
+ - 🚯 [Listen here you little shit](http://9gag.com/gag/anQWyq5)
+ - 😝 [Finals](http://9gag.com/gag/aZ0Vpo3)
+ - 🚅 [One of the most bizzare places known to mankind.](http://9gag.com/gag/a4ErZAA)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
