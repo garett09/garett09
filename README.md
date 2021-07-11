@@ -171,10 +171,10 @@ Linux                    56 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This is why we support Italy](http://9gag.com/gag/aLpN8jV)
- - 🚯 [Freddie mercury&#039;s last moments on camera](http://9gag.com/gag/aLpNDGx)
- - 🚯 [Cake: Give me something for the pain and let me die...](http://9gag.com/gag/aNp2A13)
- - 😝 [It&#039;s like a zombie apocalypse](http://9gag.com/gag/azMDqEm)
+ - 🚖 [Sterling is a clown](http://9gag.com/gag/axMn0n1)
+ - 🚯 [This is why we support Italy](http://9gag.com/gag/aLpN8jV)
+ - 🚯 [It&#039;s like a zombie apocalypse](http://9gag.com/gag/azMDqEm)
+ - 😝 [Thats why i love poland](http://9gag.com/gag/aXoGqbP)
  - 🚅 [Go Italy.](http://9gag.com/gag/a9ENr9m)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
