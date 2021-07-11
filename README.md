@@ -171,11 +171,11 @@ Linux                    56 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Call for the support!!](http://9gag.com/gag/amPbzD2)
- - 🚯 [Guarantee nobody here knew this. Christopher Lee asked what his most powerful performance was.](http://9gag.com/gag/abVmZeL)
- - 🚯 [He is right you know...](http://9gag.com/gag/anQW1eB)
- - 😝 [Keep it Clean](http://9gag.com/gag/aQoN8GW)
- - 🚅 [He took &quot;lemme talk to the manager&quot; to a whole new level.](http://9gag.com/gag/aAbNPyp)<!-- MEMES:END -->
+ - 🚖 [Bromance](http://9gag.com/gag/a5EyrmO)
+ - 🚯 [He took &quot;lemme talk to the manager&quot; to a whole new level.](http://9gag.com/gag/aAbNPyp)
+ - 🚯 [I pray my country acts civil](http://9gag.com/gag/aV71eOP)
+ - 😝 [The fight was getting fired up but damn this sucks](http://9gag.com/gag/a1rqM1D)
+ - 🚅 [Never underestimate an Irishman when a pint is involved.](http://9gag.com/gag/agBZG7g)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
