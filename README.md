@@ -171,11 +171,11 @@ Linux                    56 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Damn. They are intelligent.](http://9gag.com/gag/anQWK7n)
- - 🚯 [Movies you won&#039;t regret (feel free to add)](http://9gag.com/gag/apNjoeb)
+ - 🚖 [In 2017 authorities discovered a cocaine packing machine in the Jardim Avelino neighborhood of San Paulo, Brazil. The machine had a flow-through technology used by the food-service industry and was capable of producing 150,000 bags a day](http://9gag.com/gag/aV71PWM)
+ - 🚯 [Get out there and live your life already](http://9gag.com/gag/aGpNwGK)
  - 🚯 [After every 5 videos](http://9gag.com/gag/a3EpBY8)
- - 😝 [Get out there and live your life already](http://9gag.com/gag/aGpNwGK)
- - 🚅 [How tf?](http://9gag.com/gag/aqjpNqp)<!-- MEMES:END -->
+ - 😝 [How tf?](http://9gag.com/gag/aqjpNqp)
+ - 🚅 [Brazil fans right now](http://9gag.com/gag/aoMqjQ3)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
