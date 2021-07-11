@@ -189,11 +189,11 @@ Linux                    56 mins             █░░░░░░░░░░�
 ### 📣 Quotes of the hour
 
 <!-- QUOTES:START -->
- - 🔥 ["A real friend is one who walks in when the rest of the world walks out." - Walter Winchell](https://www.brainyquote.com/quotes/walter_winchell_121442)
- - 🌮 ["A true friend is someone who is there for you when he'd rather be anywhere else." - Len Wein](https://www.brainyquote.com/quotes/len_wein_366317)
- - 🌮 ["I cannot even imagine where I would be today were it not for that handful of friends who have given me a heart full of joy. Let's face it, friends make life a lot more fun." - Charles R. Swindoll](https://www.brainyquote.com/quotes/charles_r_swindoll_121433)
- - 💯 ["There is nothing on this earth more to be prized than true friendship." - Thomas Aquinas](https://www.brainyquote.com/quotes/thomas_aquinas_163328)
- - 💫 ["No person is your friend who demands your silence, or denies your right to grow." - Alice Walker](https://www.brainyquote.com/quotes/alice_walker_131842)<!-- QUOTES:END -->
+ - 🔥 ["It takes a long time to grow an old friend." - John Leonard](https://www.brainyquote.com/quotes/john_leonard_105249)
+ - 🌮 ["Things are never quite as scary when you've got a best friend." - Bill Watterson](https://www.brainyquote.com/quotes/bill_watterson_383142)
+ - 🌮 ["The best time to make friends is before you need them." - Ethel Barrymore](https://www.brainyquote.com/quotes/ethel_barrymore_158797)
+ - 💯 ["I cannot even imagine where I would be today were it not for that handful of friends who have given me a heart full of joy. Let's face it, friends make life a lot more fun." - Charles R. Swindoll](https://www.brainyquote.com/quotes/charles_r_swindoll_121433)
+ - 💫 ["True friendship is like sound health; the value of it is seldom known until it is lost." - Charles Caleb Colton](https://www.brainyquote.com/quotes/charles_caleb_colton_108909)<!-- QUOTES:END -->
 
 --- 
 ### 💻 Workspace Spec
