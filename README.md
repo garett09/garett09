@@ -171,11 +171,11 @@ Linux                    56 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Bromance](http://9gag.com/gag/a5EyrmO)
- - 🚯 [He took &quot;lemme talk to the manager&quot; to a whole new level.](http://9gag.com/gag/aAbNPyp)
- - 🚯 [I pray my country acts civil](http://9gag.com/gag/aV71eOP)
- - 😝 [The fight was getting fired up but damn this sucks](http://9gag.com/gag/a1rqM1D)
- - 🚅 [Never underestimate an Irishman when a pint is involved.](http://9gag.com/gag/agBZG7g)<!-- MEMES:END -->
+ - 🚖 [Found something in the woods near Luxembourg.](http://9gag.com/gag/agBZGPw)
+ - 🚯 [Chimp use broom left by zoo keeper to sweep after seeing zoo keeper clean the area everyday for 6 years](http://9gag.com/gag/axMnDr1)
+ - 🚯 [Never underestimate an Irishman when a pint is involved.](http://9gag.com/gag/agBZG7g)
+ - 😝 [Bromance](http://9gag.com/gag/a5EyrmO)
+ - 🚅 [Call for the support!!](http://9gag.com/gag/amPbzD2)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
