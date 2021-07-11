@@ -171,11 +171,11 @@ Linux                    56 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [In 2017 authorities discovered a cocaine packing machine in the Jardim Avelino neighborhood of San Paulo, Brazil. The machine had a flow-through technology used by the food-service industry and was capable of producing 150,000 bags a day](http://9gag.com/gag/aV71PWM)
- - 🚯 [Get out there and live your life already](http://9gag.com/gag/aGpNwGK)
+ - 🚖 [Kids got it right](http://9gag.com/gag/aXoG9b2)
+ - 🚯 [Making fire using ice. Credits Simple Woodsman.](http://9gag.com/gag/aB2NY2N)
  - 🚯 [After every 5 videos](http://9gag.com/gag/a3EpBY8)
  - 😝 [How tf?](http://9gag.com/gag/aqjpNqp)
- - 🚅 [Brazil fans right now](http://9gag.com/gag/aoMqjQ3)<!-- MEMES:END -->
+ - 🚅 [Congratulation Messi](http://9gag.com/gag/a6E3Lgb)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
