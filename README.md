@@ -180,11 +180,11 @@ Linux                    56 mins             █░░░░░░░░░░�
 ### 📣 Jokes of the hour
 
 <!-- JOKES:START -->
- - 🐔 [Forget someone’s name? Do THIS instead of just asking like an adult! (29 Photos)](https://thechive.com/2021/07/11/forget-someones-name-do-this-instead-of-just-asking-like-an-adult-29-photos/)
+ - 🐔 [Weekend Morning Awesomeness (38 photos)](https://thechive.com/2021/07/11/weekend-morning-awesomeness-38-photos-47/)
+ - 🕉 [Forget someone’s name? Do THIS instead of just asking like an adult! (29 Photos)](https://thechive.com/2021/07/11/forget-someones-name-do-this-instead-of-just-asking-like-an-adult-29-photos/)
  - 🕉 [Sunnies, bunnies, bikinis, beets, bears and Battlestars (66 Photos)](https://thechive.com/2021/07/10/sunnies-bunnies-bikinis-beets-bears-and-battlestars-66-photos/)
- - 🕉 [And all of our respect is gone in 3…2…](https://thechive.com/2021/07/10/and-all-of-our-respect-is-gone-in-3-2/)
- - 👾 [BABE BREAK is go for launch in 5…4…(38 Photos)](https://thechive.com/2021/07/10/babe-break-is-go-for-launch-in-5-4-38-photos/)
- - 🎈 [Just stop bragging about these things. You’re impressing no one. (18 GIFs)](https://thechive.com/2021/07/10/just-stop-bragging-about-these-things-youre-impressing-no-one-18-gifs/)<!-- JOKES:END -->
+ - 👾 [And all of our respect is gone in 3…2…](https://thechive.com/2021/07/10/and-all-of-our-respect-is-gone-in-3-2/)
+ - 🎈 [BABE BREAK is go for launch in 5…4…(38 Photos)](https://thechive.com/2021/07/10/babe-break-is-go-for-launch-in-5-4-38-photos/)<!-- JOKES:END -->
 
 ### 📣 Quotes of the hour
 
