@@ -171,11 +171,11 @@ Linux                    56 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It&#039;s amazing how far we&#039;ve come since then isn&#039;t it?](http://9gag.com/gag/aV71PN2)
- - 🚯 [Keep it Clean](http://9gag.com/gag/aQoN8GW)
- - 🚯 [Congratulation Messi](http://9gag.com/gag/a6E3Lgb)
- - 😝 [I pray my country acts civil](http://9gag.com/gag/aV71eOP)
- - 🚅 [He is right you know...](http://9gag.com/gag/anQW1eB)<!-- MEMES:END -->
+ - 🚖 [Not too ba-d](http://9gag.com/gag/apNjvMM)
+ - 🚯 [A small smack was all he needed !!!!](http://9gag.com/gag/arMrK80)
+ - 🚯 [Brazil fans right now](http://9gag.com/gag/aoMqjQ3)
+ - 😝 [So happy for Messi](http://9gag.com/gag/aK6NBMZ)
+ - 🚅 [This is it](http://9gag.com/gag/a07WpPB)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
