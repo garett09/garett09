@@ -180,11 +180,11 @@ Linux                    56 mins             █░░░░░░░░░░�
 ### 📣 Jokes of the hour
 
 <!-- JOKES:START -->
- - 🐔 [Celebs who had some “average Joe” jobs back before their fame (20 Photos)](https://thechive.com/2021/07/11/celebs-who-had-some-average-joe-jobs-back-before-their-fame-20-photos/)
- - 🕉 [These exes are out of their f*cking minds…](https://thechive.com/2021/07/11/these-exes-are-out-of-their-fcking-minds/)
- - 🕉 [The Things in Life EVERY Man Should Master (20 Photos)](https://thechive.com/2021/07/11/the-things-in-life-every-man-should-master-20-photos/)
- - 👾 [Beers Babes and Burgers. That’s All I Need. (45 Photos)](https://thechive.com/2021/07/11/beers-babes-and-burgers-thats-all-i-need-45-photos/)
- - 🎈 [Sex getting stale? Why not spice things up in the bedroom? (8 Photos)](https://thechive.com/2021/07/11/sex-getting-stale-why-not-spice-things-up-in-the-bedroom-8-photos/)<!-- JOKES:END -->
+ - 🐔 [Top Comments dishing out precious diamonds in the rough (82 Photos)](https://thechive.com/2021/07/11/top-comments-dishing-out-precious-diamonds-in-the-rough-82-photos/)
+ - 🕉 [Job Search Tips From a Career Coach (17 Photos)](https://thechive.com/2021/07/11/job-search-tips-from-a-career-coach-17-photos/)
+ - 🕉 [Celebs who had some “average Joe” jobs back before their fame (20 Photos)](https://thechive.com/2021/07/11/celebs-who-had-some-average-joe-jobs-back-before-their-fame-20-photos/)
+ - 👾 [These exes are out of their f*cking minds…](https://thechive.com/2021/07/11/these-exes-are-out-of-their-fcking-minds/)
+ - 🎈 [The Things in Life EVERY Man Should Master (20 Photos)](https://thechive.com/2021/07/11/the-things-in-life-every-man-should-master-20-photos/)<!-- JOKES:END -->
 
 ### 📣 Quotes of the hour
 
