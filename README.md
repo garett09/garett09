@@ -189,11 +189,11 @@ Linux                    56 mins             █░░░░░░░░░░�
 ### 📣 Quotes of the hour
 
 <!-- QUOTES:START -->
- - 🔥 ["There is nothing on this earth more to be prized than true friendship." - Thomas Aquinas](https://www.brainyquote.com/quotes/thomas_aquinas_163328)
- - 🌮 ["If you have one true friend you have more than your share." - Thomas Fuller](https://www.brainyquote.com/quotes/thomas_fuller_151904)
- - 🌮 ["There are no strangers here; Only friends you haven't yet met." - William Butler Yeats](https://www.brainyquote.com/quotes/william_butler_yeats_383082)
- - 💯 ["A real friend is one who walks in when the rest of the world walks out." - Walter Winchell](https://www.brainyquote.com/quotes/walter_winchell_121442)
- - 💫 ["One of the most beautiful qualities of true friendship is to understand and to be understood." - Lucius Annaeus Seneca](https://www.brainyquote.com/quotes/lucius_annaeus_seneca_155059)<!-- QUOTES:END -->
+ - 🔥 ["One loyal friend is worth ten thousand relatives." - Euripides](https://www.brainyquote.com/quotes/euripides_149016)
+ - 🌮 ["A man's friendships are one of the best measures of his worth." - Charles Darwin](https://www.brainyquote.com/quotes/charles_darwin_383136)
+ - 🌮 ["Friends are the siblings God never gave us." - Mencius](https://www.brainyquote.com/quotes/mencius_379023)
+ - 💯 ["No person is your friend who demands your silence, or denies your right to grow." - Alice Walker](https://www.brainyquote.com/quotes/alice_walker_131842)
+ - 💫 ["There are no strangers here; Only friends you haven't yet met." - William Butler Yeats](https://www.brainyquote.com/quotes/william_butler_yeats_383082)<!-- QUOTES:END -->
 
 --- 
 ### 💻 Workspace Spec
