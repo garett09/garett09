@@ -171,11 +171,11 @@ Linux                    56 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Go Italy.](http://9gag.com/gag/a9ENr9m)
- - 🚯 [I present you the shittiest fans in football history](http://9gag.com/gag/aeAPbzj)
- - 🚯 [One of the most bizzare places known to mankind.](http://9gag.com/gag/a4ErZAA)
- - 😝 [It is time to confess, brothers](http://9gag.com/gag/aNp2A3b)
- - 🚅 [Freddie mercury&#039;s last moments on camera](http://9gag.com/gag/aLpNDGx)<!-- MEMES:END -->
+ - 🚖 [This is why we support Italy](http://9gag.com/gag/aLpN8jV)
+ - 🚯 [Freddie mercury&#039;s last moments on camera](http://9gag.com/gag/aLpNDGx)
+ - 🚯 [Cake: Give me something for the pain and let me die...](http://9gag.com/gag/aNp2A13)
+ - 😝 [It&#039;s like a zombie apocalypse](http://9gag.com/gag/azMDqEm)
+ - 🚅 [Go Italy.](http://9gag.com/gag/a9ENr9m)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
