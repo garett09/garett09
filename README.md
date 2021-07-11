@@ -180,11 +180,11 @@ Linux                    56 mins             █░░░░░░░░░░�
 ### 📣 Jokes of the hour
 
 <!-- JOKES:START -->
- - 🐔 [Just stop bragging about these things. You’re impressing no one. (18 GIFs)](https://thechive.com/2021/07/10/just-stop-bragging-about-these-things-youre-impressing-no-one-18-gifs/)
+ - 🐔 [BABE BREAK is go for launch in 5…4…(38 Photos)](https://thechive.com/2021/07/10/babe-break-is-go-for-launch-in-5-4-38-photos/)
+ - 🕉 [Just stop bragging about these things. You’re impressing no one. (18 GIFs)](https://thechive.com/2021/07/10/just-stop-bragging-about-these-things-youre-impressing-no-one-18-gifs/)
  - 🕉 [Crazy! Crazy on sale!! Buy now and the shipping is free (32 Photos)](https://thechive.com/2021/07/10/crazy-crazy-on-sale-buy-now-and-the-shipping-is-free-32-photos/)
- - 🕉 [I Didn’t Know That, but Now I Do (20 Photos)](https://thechive.com/2021/07/10/i-didnt-know-that-but-now-i-do-20-photos/)
- - 👾 [Weekend Afternoon Randomness (37 Photos)](https://thechive.com/2021/07/10/weekend-afternoon-randomness-37-photos-37/)
- - 🎈 [There’s just something seductive about long legs and high heels (43 Photos)](https://thechive.com/2021/07/10/theres-just-something-seductive-about-long-legs-and-high-heels-44-photos/)<!-- JOKES:END -->
+ - 👾 [I Didn’t Know That, but Now I Do (20 Photos)](https://thechive.com/2021/07/10/i-didnt-know-that-but-now-i-do-20-photos/)
+ - 🎈 [Weekend Afternoon Randomness (37 Photos)](https://thechive.com/2021/07/10/weekend-afternoon-randomness-37-photos-37/)<!-- JOKES:END -->
 
 ### 📣 Quotes of the hour
 
