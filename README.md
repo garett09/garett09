@@ -171,11 +171,11 @@ Linux                    56 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Kids got it right](http://9gag.com/gag/aXoG9b2)
- - 🚯 [Making fire using ice. Credits Simple Woodsman.](http://9gag.com/gag/aB2NY2N)
- - 🚯 [After every 5 videos](http://9gag.com/gag/a3EpBY8)
- - 😝 [How tf?](http://9gag.com/gag/aqjpNqp)
- - 🚅 [Congratulation Messi](http://9gag.com/gag/a6E3Lgb)<!-- MEMES:END -->
+ - 🚖 [It&#039;s amazing how far we&#039;ve come since then isn&#039;t it?](http://9gag.com/gag/aV71PN2)
+ - 🚯 [Keep it Clean](http://9gag.com/gag/aQoN8GW)
+ - 🚯 [Congratulation Messi](http://9gag.com/gag/a6E3Lgb)
+ - 😝 [I pray my country acts civil](http://9gag.com/gag/aV71eOP)
+ - 🚅 [He is right you know...](http://9gag.com/gag/anQW1eB)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
