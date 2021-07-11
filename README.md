@@ -34,7 +34,7 @@ const skills =
   
   ide       :[Vs Code],
   
-  frameworks:[Bootstrap, Sharepoint framework],
+  frameworks:[Bootstrap, SharepointFramework],
   
   platforms :[Google Cloud Platform, Amazon Web Services, Buildkite, Heroku, Microsoft Sharepoint],
   
