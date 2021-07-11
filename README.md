@@ -173,9 +173,9 @@ Linux                    56 mins             █░░░░░░░░░░�
 <!-- MEMES:START -->
  - 🚖 [Arrivederci](http://9gag.com/gag/apNjBLM)
  - 🚯 [Here for you](http://9gag.com/gag/aB2N3D2)
- - 🚯 [Finally decided to throw away the my &bdquo;could be useful in the future&ldquo; cable collection](http://9gag.com/gag/aYonpP7)
- - 😝 [Was it? Did you?](http://9gag.com/gag/aGpNw47)
- - 🚅 [Damn. They are intelligent.](http://9gag.com/gag/anQWK7n)<!-- MEMES:END -->
+ - 🚯 [Was it? Did you?](http://9gag.com/gag/aGpNw47)
+ - 😝 [Damn. They are intelligent.](http://9gag.com/gag/anQWK7n)
+ - 🚅 [Movies you won&#039;t regret (feel free to add)](http://9gag.com/gag/apNjoeb)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
