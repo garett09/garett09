@@ -171,11 +171,11 @@ Linux                    56 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Go Italy.](http://9gag.com/gag/a9ENr9m)
- - 🚯 [This is why we support Italy](http://9gag.com/gag/aLpN8jV)
+ - 🚖 [Try again....](http://9gag.com/gag/aDdNxYw)
  - 🚯 [I present you the shittiest fans in football history](http://9gag.com/gag/aeAPbzj)
- - 😝 [Sterling is a clown](http://9gag.com/gag/axMn0n1)
- - 🚅 [English fans without tickets storm through the security ahead of euro final](http://9gag.com/gag/anQWjqL)<!-- MEMES:END -->
+ - 🚯 [Disgusting English Fans](http://9gag.com/gag/aDdNxe9)
+ - 😝 [Congratulation Italy](http://9gag.com/gag/awMGXMW)
+ - 🚅 [ITS GOING ROME!](http://9gag.com/gag/a1rqorG)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
