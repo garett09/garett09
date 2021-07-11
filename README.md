@@ -171,11 +171,11 @@ Linux                    56 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Money is more important than human life](http://9gag.com/gag/amPbXEy)
+ - 🚖 [Imagine seeing this at night](http://9gag.com/gag/aGpNwrw)
  - 🚯 [Apparently this is how the covid-19 mutations start](http://9gag.com/gag/aRXNgyA)
- - 🚯 [Wise words](http://9gag.com/gag/abVmqgp)
- - 😝 [Billie Smoke](http://9gag.com/gag/a1rqZ28)
- - 🚅 [How tf?](http://9gag.com/gag/aqjpNqp)<!-- MEMES:END -->
+ - 🚯 [Billie Smoke](http://9gag.com/gag/a1rqZ28)
+ - 😝 [Was it? Did you?](http://9gag.com/gag/aGpNw47)
+ - 🚅 [Finally decided to throw away the my &bdquo;could be useful in the future&ldquo; cable collection](http://9gag.com/gag/aYonpP7)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
