@@ -171,10 +171,10 @@ Linux                    56 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Not too ba-d](http://9gag.com/gag/apNjvMM)
- - 🚯 [A small smack was all he needed !!!!](http://9gag.com/gag/arMrK80)
- - 🚯 [Brazil fans right now](http://9gag.com/gag/aoMqjQ3)
- - 😝 [So happy for Messi](http://9gag.com/gag/aK6NBMZ)
+ - 🚖 [Brothers of the mine rejoice!](http://9gag.com/gag/ad84Xj2)
+ - 🚯 [Never underestimate an Irishman when a pint is involved.](http://9gag.com/gag/agBZG7g)
+ - 🚯 [Not too ba-d](http://9gag.com/gag/apNjvMM)
+ - 😝 [He took &quot;lemme talk to the manager&quot; to a whole new level.](http://9gag.com/gag/aAbNPyp)
  - 🚅 [This is it](http://9gag.com/gag/a07WpPB)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
