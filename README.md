@@ -173,8 +173,8 @@ Linux                    56 mins             █░░░░░░░░░░�
 <!-- MEMES:START -->
  - 🚖 [She finally graduated](http://9gag.com/gag/awMGzwr)
  - 🚯 [Making chocolate from scratch](http://9gag.com/gag/a27j1bw)
- - 🚯 [Theseus paradox](http://9gag.com/gag/anQWQVL)
- - 😝 [Super special gift](http://9gag.com/gag/aeAPg4v)
+ - 🚯 [Super special gift](http://9gag.com/gag/aeAPg4v)
+ - 😝 [Sports bro making her day](http://9gag.com/gag/aB2NdPA)
  - 🚅 [Not what I expected](http://9gag.com/gag/aoMqMqe)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
