@@ -171,11 +171,11 @@ Linux                    56 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Thief caught in act WHOOPASS](http://9gag.com/gag/a8EXEMd)
- - 🚯 [Badass level: Leonardo Bonucci](http://9gag.com/gag/aAbNeAp)
- - 🚯 [Sensitive](http://9gag.com/gag/aDdNdDw)
+ - 🚖 [She finally graduated](http://9gag.com/gag/awMGzwr)
+ - 🚯 [Making chocolate from scratch](http://9gag.com/gag/a27j1bw)
+ - 🚯 [Theseus paradox](http://9gag.com/gag/anQWQVL)
  - 😝 [Super special gift](http://9gag.com/gag/aeAPg4v)
- - 🚅 [Theseus paradox](http://9gag.com/gag/anQWQVL)<!-- MEMES:END -->
+ - 🚅 [Not what I expected](http://9gag.com/gag/aoMqMqe)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
