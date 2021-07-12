@@ -180,11 +180,11 @@ Linux                    56 mins             █░░░░░░░░░░�
 ### 📣 Jokes of the hour
 
 <!-- JOKES:START -->
- - 🐔 [Guy asks for $35 refund from date after she breaks things off (14 photos)](https://thechive.com/2021/07/12/guy-asks-for-35-refund-from-date-after-she-breaks-things-off-14-photos/)
- - 🕉 [Brand new copy of Super Mario 64 sells for more money than a private island (10 GIFs)](https://thechive.com/2021/07/12/brand-new-copy-of-super-mario-64-sells-for-more-money-than-a-private-island-12-gifs/)
- - 🕉 [So….you got abso-f*cking-lutely WASTED?! (35 Photos)](https://thechive.com/2021/07/12/so-you-got-abso-fcking-lutely-wasted-35-photos/)
- - 👾 [Congrats, you are all total A**holes (36 Photos)](https://thechive.com/2021/07/12/congrats-you-are-all-total-aholes-36-photos/)
- - 🎈 [Sh*t happens sometimes (35 Photos)](https://thechive.com/2021/07/12/sht-happens-sometimes-35-photos-47/)<!-- JOKES:END -->
+ - 🐔 [You never turn your back on family, even when they do.](https://www.thechivery.com/products/family-tee?utm_source=thechivehomepage&utm_medium=loop2&utm_campaign=family_071221)
+ - 🕉 [Dogs and memes, what more could you ask for? (35 Photos)](https://thechive.com/2021/07/12/dogs-and-memes-what-more-could-you-ask-for-35-photos/)
+ - 🕉 [Guy asks for $35 refund from date after she breaks things off (14 photos)](https://thechive.com/2021/07/12/guy-asks-for-35-refund-from-date-after-she-breaks-things-off-14-photos/)
+ - 👾 [Brand new copy of Super Mario 64 sells for more money than a private island (10 GIFs)](https://thechive.com/2021/07/12/brand-new-copy-of-super-mario-64-sells-for-more-money-than-a-private-island-12-gifs/)
+ - 🎈 [So….you got abso-f*cking-lutely WASTED?! (35 Photos)](https://thechive.com/2021/07/12/so-you-got-abso-fcking-lutely-wasted-35-photos/)<!-- JOKES:END -->
 
 ### 📣 Quotes of the hour
 
