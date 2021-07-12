@@ -171,11 +171,11 @@ Linux                    56 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Me after moving out to the floor above my upstairs neighbor](http://9gag.com/gag/aDdN2nN)
+ - 🚖 [Opening one of the greatest gifts I&rsquo;ve ever received, almost 25 years ago](http://9gag.com/gag/ad84BWZ)
  - 🚯 [All races fighting back together South African looters and rioter](http://9gag.com/gag/aO3N3Ry)
- - 🚯 [I was explaining to my 6yr old little brother that birds are the closest descendants of dinosaurs, he didn&#039;t believe me so I showed him this. The foot of the world&#039;s most dangerous bird. (the cassowary)](http://9gag.com/gag/aRXNEOG)
- - 😝 [&quot;Tell me you&#039;re italian without saying that you&#039;re italian&quot; Federico Chiesa calling his Mamma right after becoming European Champion](http://9gag.com/gag/arMrm2B)
- - 🚅 [South African police Not Looting.](http://9gag.com/gag/a5Ey1vo)<!-- MEMES:END -->
+ - 🚯 [I&rsquo;d like it](http://9gag.com/gag/aO3N8Lr)
+ - 😝 [Sports bro making her day](http://9gag.com/gag/aB2NdPA)
+ - 🚅 [&quot;Tell me you&#039;re italian without saying that you&#039;re italian&quot; Federico Chiesa calling his Mamma right after becoming European Champion](http://9gag.com/gag/arMrm2B)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
