@@ -171,11 +171,11 @@ Linux                    56 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Theseus paradox](http://9gag.com/gag/anQWQVL)
- - 🚯 [Sterling was happy to accept the 1st &#039;Best Actor Award&#039; that UEFA created in collaboration with The Academy. Congratulations, it was well deserved.](http://9gag.com/gag/apNjG6p)
+ - 🚖 [Such a poser](http://9gag.com/gag/ajmMgNq)
+ - 🚯 [Scale used for packing the right amount](http://9gag.com/gag/aQoNoLd)
  - 🚯 [Sensitive](http://9gag.com/gag/aDdNdDw)
- - 😝 [Impressive](http://9gag.com/gag/axMn9eK)
- - 🚅 [Thief caught in act WHOOPASS](http://9gag.com/gag/a8EXEMd)<!-- MEMES:END -->
+ - 😝 [Thief caught in act WHOOPASS](http://9gag.com/gag/a8EXEMd)
+ - 🚅 [Theseus paradox](http://9gag.com/gag/anQWQVL)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
