@@ -180,11 +180,11 @@ Linux                    56 mins             █░░░░░░░░░░�
 ### 📣 Jokes of the hour
 
 <!-- JOKES:START -->
- - 🐔 [Forget pineapple on pizza, toppings don’t get worse than this (19 GIFs)](https://thechive.com/2021/07/11/forget-pineapple-on-pizza-toppings-dont-get-worse-than-this-19-gifs/)
- - 🕉 [Weekend Afternoon Randomness (36 Photos)](https://thechive.com/2021/07/11/weekend-afternoon-randomness-36-photos-56/)
- - 🕉 [Mulatto beauty has “BUNs of Perfection” (21 GIFs)](https://thechive.com/2021/07/11/mulatto-beauty-has-buns-of-perfection-20-gifs/)
- - 👾 [Awesome Is In the Eye of the Beholder (25 Photos)](https://thechive.com/2021/07/11/awesome-is-in-the-eye-of-the-beholder-25-photos/)
- - 🎈 [Babysitters war stories prove they need a raise (or at least a union)](https://thechive.com/2021/07/11/babysitters-war-stories-prove-they-need-a-raise-or-at-least-a-union/)<!-- JOKES:END -->
+ - 🐔 [Celebrity deaths that hit us right in the feels (18 GIFs)](https://thechive.com/2021/07/11/celebrity-deaths-that-hit-us-right-in-the-feels-18-gifs/)
+ - 🕉 [Blue Angels STUNTS: “How much is COMPUTER Controlled?” (Video)](https://thechive.com/2021/07/11/blue-angels-stunts-how-much-is-computer-controlled-video/)
+ - 🕉 [Just to Confirm: If You Laugh, You Will Lose (27 Photos)](https://thechive.com/2021/07/11/just-to-confirm-if-you-laugh-you-will-lose-27-photos/)
+ - 👾 [Bad girls bend at the waist (38 Photos)](https://thechive.com/2021/07/11/bad-girls-bend-at-the-waist-51/)
+ - 🎈 [Forget pineapple on pizza, toppings don’t get worse than this (19 GIFs)](https://thechive.com/2021/07/11/forget-pineapple-on-pizza-toppings-dont-get-worse-than-this-19-gifs/)<!-- JOKES:END -->
 
 ### 📣 Quotes of the hour
 
