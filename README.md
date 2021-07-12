@@ -171,11 +171,11 @@ Linux                    56 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Try again....](http://9gag.com/gag/aDdNxYw)
- - 🚯 [I present you the shittiest fans in football history](http://9gag.com/gag/aeAPbzj)
- - 🚯 [Disgusting English Fans](http://9gag.com/gag/aDdNxe9)
- - 😝 [Congratulation Italy](http://9gag.com/gag/awMGXMW)
- - 🚅 [ITS GOING ROME!](http://9gag.com/gag/a1rqorG)<!-- MEMES:END -->
+ - 🚖 [Why is everyone taking the medal off??!](http://9gag.com/gag/aAbNx92)
+ - 🚯 [Friendly remaind](http://9gag.com/gag/agBZLLg)
+ - 🚯 [Congratulation Italy](http://9gag.com/gag/awMGXMW)
+ - 😝 [ITS GOING ROME!](http://9gag.com/gag/a1rqorG)
+ - 🚅 [Living the dream](http://9gag.com/gag/aB2N8vO)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
