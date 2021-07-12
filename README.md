@@ -171,11 +171,11 @@ Linux                    56 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [*sad british noice*](http://9gag.com/gag/anQW9YE)
+ - 🚖 [English rage quit leaving the stadium empty before the medals. Sore losers](http://9gag.com/gag/aqjpKNj)
  - 🚯 [Dear Italians, Thank You so much, Love from Scotland (&amp; rest of Europe) x](http://9gag.com/gag/a07WQxq)
- - 🚯 [Living the dream](http://9gag.com/gag/aB2N8vO)
- - 😝 [Donnarumma looks like nothing happened after winning Euro2020](http://9gag.com/gag/apNjmv8)
- - 🚅 [Sterling is a clown](http://9gag.com/gag/axMn0n1)<!-- MEMES:END -->
+ - 🚯 [Sterling is a clown](http://9gag.com/gag/axMn0n1)
+ - 😝 [F**k no I&rsquo;m not ok!](http://9gag.com/gag/aXoGj5g)
+ - 🚅 [Congratulations Richard Branson!](http://9gag.com/gag/apNjQDW)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
