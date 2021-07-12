@@ -172,10 +172,10 @@ Linux                    56 mins             █░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 🚖 [The Sipmsons did it again](http://9gag.com/gag/aeAPDvj)
- - 🚯 [It&rsquo;s coming Rome](http://9gag.com/gag/aZ0Vym0)
- - 🚯 [Steve Irwin spots one of the most venomous sea snakes swimming in the ocean and guess what he does?](http://9gag.com/gag/aeAPD4m)
- - 😝 [Impressive](http://9gag.com/gag/axMn9eK)
- - 🚅 [Internet for me today. I hope that football sports event is over soon.](http://9gag.com/gag/aNp206v)<!-- MEMES:END -->
+ - 🚯 [Internet for me today. I hope that football sports event is over soon.](http://9gag.com/gag/aNp206v)
+ - 🚯 [Thief caught in act WHOOPASS](http://9gag.com/gag/a8EXEMd)
+ - 😝 [F**k no I&rsquo;m not ok!](http://9gag.com/gag/aXoGj5g)
+ - 🚅 [Impressive](http://9gag.com/gag/axMn9eK)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
