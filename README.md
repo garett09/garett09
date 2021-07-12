@@ -180,11 +180,11 @@ Linux                    56 mins             █░░░░░░░░░░�
 ### 📣 Jokes of the hour
 
 <!-- JOKES:START -->
- - 🐔 [Congrats, you are all total A**holes (36 Photos)](https://thechive.com/2021/07/12/congrats-you-are-all-total-aholes-36-photos/)
+ - 🐔 [So….you got abso-f*cking-lutely WASTED?! (35 Photos)](https://thechive.com/2021/07/12/so-you-got-abso-fcking-lutely-wasted-35-photos/)
+ - 🕉 [Congrats, you are all total A**holes (36 Photos)](https://thechive.com/2021/07/12/congrats-you-are-all-total-aholes-36-photos/)
  - 🕉 [Sh*t happens sometimes (35 Photos)](https://thechive.com/2021/07/12/sht-happens-sometimes-35-photos-47/)
- - 🕉 [Wach’ya cooking? (21 GIFs)](https://thechive.com/2021/07/12/wachya-cooking-20-gifs/)
- - 👾 [GAPS can help cure those pesky Monday Blues (58 Photos)](https://thechive.com/2021/07/12/gaps-can-help-cure-those-pesky-monday-blues-58-photos/)
- - 🎈 [Brutally honest homework answers we can’t stop laughing at (34 Photos)](https://thechive.com/2021/07/12/brutally-honest-homework-answers-we-cant-stop-laughing-at-34-photos/)<!-- JOKES:END -->
+ - 👾 [Wach’ya cooking? (21 GIFs)](https://thechive.com/2021/07/12/wachya-cooking-20-gifs/)
+ - 🎈 [GAPS can help cure those pesky Monday Blues (58 Photos)](https://thechive.com/2021/07/12/gaps-can-help-cure-those-pesky-monday-blues-58-photos/)<!-- JOKES:END -->
 
 ### 📣 Quotes of the hour
 
