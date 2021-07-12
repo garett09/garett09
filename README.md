@@ -171,10 +171,10 @@ Linux                    56 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Such a poser](http://9gag.com/gag/ajmMgNq)
- - 🚯 [Scale used for packing the right amount](http://9gag.com/gag/aQoNoLd)
+ - 🚖 [Thief caught in act WHOOPASS](http://9gag.com/gag/a8EXEMd)
+ - 🚯 [Badass level: Leonardo Bonucci](http://9gag.com/gag/aAbNeAp)
  - 🚯 [Sensitive](http://9gag.com/gag/aDdNdDw)
- - 😝 [Thief caught in act WHOOPASS](http://9gag.com/gag/a8EXEMd)
+ - 😝 [Super special gift](http://9gag.com/gag/aeAPg4v)
  - 🚅 [Theseus paradox](http://9gag.com/gag/anQWQVL)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
