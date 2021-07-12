@@ -171,11 +171,11 @@ Linux                    56 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Why is everyone taking the medal off??!](http://9gag.com/gag/aAbNx92)
- - 🚯 [Friendly remaind](http://9gag.com/gag/agBZLLg)
+ - 🚖 [Congrats to italy](http://9gag.com/gag/anQWMQq)
  - 🚯 [Congratulation Italy](http://9gag.com/gag/awMGXMW)
- - 😝 [ITS GOING ROME!](http://9gag.com/gag/a1rqorG)
- - 🚅 [Living the dream](http://9gag.com/gag/aB2N8vO)<!-- MEMES:END -->
+ - 🚯 [Why is everyone taking the medal off??!](http://9gag.com/gag/aAbNx92)
+ - 😝 [Living the dream](http://9gag.com/gag/aB2N8vO)
+ - 🚅 [Sterling is a clown](http://9gag.com/gag/axMn0n1)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
