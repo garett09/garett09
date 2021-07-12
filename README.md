@@ -180,11 +180,11 @@ Linux                    56 mins             █░░░░░░░░░░�
 ### 📣 Jokes of the hour
 
 <!-- JOKES:START -->
- - 🐔 [Dank Memes Bring the Laughter Out (27 Photos)](https://thechive.com/2021/07/11/dank-memes-bring-the-laughter-out-27-photos/)
+ - 🐔 [Daily Morning Awesomeness (38 Photos)](https://thechive.com/2021/07/12/daily-morning-awesomeness-38-photos-170/)
+ - 🕉 [Dank Memes Bring the Laughter Out (27 Photos)](https://thechive.com/2021/07/11/dank-memes-bring-the-laughter-out-27-photos/)
  - 🕉 [Weird names for bodily ailments that you’ll want to use all the time](https://thechive.com/2021/07/11/weird-names-for-bodily-ailments-that-youll-want-to-use-all-the-time/)
- - 🕉 [GIFs that kept GIF-ing all damn week (21 GIFs)](https://thechive.com/2021/07/11/gifs-that-kept-gif-ing-all-damn-week-21-gifs-2/)
- - 👾 [Partners share the best ways they troll the Hell out of S.O.s (42 Photos)](https://thechive.com/2021/07/11/partners-share-the-best-ways-they-troll-the-hell-out-of-s-o-s-42-photos/)
- - 🎈 [Celebrity deaths that hit us right in the feels (18 GIFs)](https://thechive.com/2021/07/11/celebrity-deaths-that-hit-us-right-in-the-feels-18-gifs/)<!-- JOKES:END -->
+ - 👾 [GIFs that kept GIF-ing all damn week (21 GIFs)](https://thechive.com/2021/07/11/gifs-that-kept-gif-ing-all-damn-week-21-gifs-2/)
+ - 🎈 [Partners share the best ways they troll the Hell out of S.O.s (42 Photos)](https://thechive.com/2021/07/11/partners-share-the-best-ways-they-troll-the-hell-out-of-s-o-s-42-photos/)<!-- JOKES:END -->
 
 ### 📣 Quotes of the hour
 
