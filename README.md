@@ -171,11 +171,11 @@ Linux                    56 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Donnarumma looks like nothing happened after winning Euro2020](http://9gag.com/gag/apNjmv8)
- - 🚯 [Love how people run up to film](http://9gag.com/gag/axMn7Wn)
- - 🚯 [Airplane!](http://9gag.com/gag/aV7108y)
+ - 🚖 [SpaceX just casually landing two 10+ story tall orbital boosters simultaneously](http://9gag.com/gag/aP3d7Rq)
+ - 🚯 [Its going rome](http://9gag.com/gag/aB2NmRQ)
+ - 🚯 [Why is everyone taking the medal off??!](http://9gag.com/gag/aAbNx92)
  - 😝 [Tip to face an ostrich.](http://9gag.com/gag/aDdNg8x)
- - 🚅 [Why is everyone taking the medal off??!](http://9gag.com/gag/aAbNx92)<!-- MEMES:END -->
+ - 🚅 [Airplane!](http://9gag.com/gag/aV7108y)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
