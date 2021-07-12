@@ -180,11 +180,11 @@ Linux                    56 mins             █░░░░░░░░░░�
 ### 📣 Jokes of the hour
 
 <!-- JOKES:START -->
- - 🐔 [Take 2 FLBPs and call me in the morning (69 Photos)](https://thechive.com/2021/07/12/take-2-flbps-and-call-me-in-the-morning-69-photos/)
+ - 🐔 [Travel back in time for the biggest summer blockbusters of the ’80s (16 GIFs)](https://thechive.com/2021/07/12/travel-back-in-time-for-the-biggest-summer-blockbusters-of-the-80s-16-gifs/)
+ - 🕉 [Take 2 FLBPs and call me in the morning (69 Photos)](https://thechive.com/2021/07/12/take-2-flbps-and-call-me-in-the-morning-69-photos/)
  - 🕉 [Daily Morning Awesomeness (38 Photos)](https://thechive.com/2021/07/12/daily-morning-awesomeness-38-photos-170/)
- - 🕉 [Dank Memes Bring the Laughter Out (27 Photos)](https://thechive.com/2021/07/11/dank-memes-bring-the-laughter-out-27-photos/)
- - 👾 [Weird names for bodily ailments that you’ll want to use all the time](https://thechive.com/2021/07/11/weird-names-for-bodily-ailments-that-youll-want-to-use-all-the-time/)
- - 🎈 [GIFs that kept GIF-ing all damn week (21 GIFs)](https://thechive.com/2021/07/11/gifs-that-kept-gif-ing-all-damn-week-21-gifs-2/)<!-- JOKES:END -->
+ - 👾 [Dank Memes Bring the Laughter Out (27 Photos)](https://thechive.com/2021/07/11/dank-memes-bring-the-laughter-out-27-photos/)
+ - 🎈 [Weird names for bodily ailments that you’ll want to use all the time](https://thechive.com/2021/07/11/weird-names-for-bodily-ailments-that-youll-want-to-use-all-the-time/)<!-- JOKES:END -->
 
 ### 📣 Quotes of the hour
 
