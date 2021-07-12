@@ -171,11 +171,11 @@ Linux                    56 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [She finally graduated](http://9gag.com/gag/awMGzwr)
- - 🚯 [Making chocolate from scratch](http://9gag.com/gag/a27j1bw)
- - 🚯 [Super special gift](http://9gag.com/gag/aeAPg4v)
- - 😝 [Sports bro making her day](http://9gag.com/gag/aB2NdPA)
- - 🚅 [Not what I expected](http://9gag.com/gag/aoMqMqe)<!-- MEMES:END -->
+ - 🚖 [&quot;Tell me you&#039;re italian without saying that you&#039;re italian&quot; Federico Chiesa calling his Mamma right after becoming European Champion](http://9gag.com/gag/arMrm2B)
+ - 🚯 [Such a poser](http://9gag.com/gag/ajmMgNq)
+ - 🚯 [Next post b*tch !](http://9gag.com/gag/aNp2wPv)
+ - 😝 [The ultimate answer to riots in South Africa...](http://9gag.com/gag/aZ0VZ36)
+ - 🚅 [Taking Windows 10 lock screen to it&#039;s actual location!](http://9gag.com/gag/aZ0VDnQ)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
