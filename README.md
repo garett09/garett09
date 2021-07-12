@@ -171,11 +171,11 @@ Linux                    56 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This is what we call as real art](http://9gag.com/gag/azMD20z)
- - 🚯 [Next post b*tch !](http://9gag.com/gag/aNp2wPv)
- - 🚯 [Taking Windows 10 lock screen to it&#039;s actual location!](http://9gag.com/gag/aZ0VDnQ)
+ - 🚖 [Me after moving out to the floor above my upstairs neighbor](http://9gag.com/gag/aDdN2nN)
+ - 🚯 [All races fighting back together South African looters and rioter](http://9gag.com/gag/aO3N3Ry)
+ - 🚯 [I was explaining to my 6yr old little brother that birds are the closest descendants of dinosaurs, he didn&#039;t believe me so I showed him this. The foot of the world&#039;s most dangerous bird. (the cassowary)](http://9gag.com/gag/aRXNEOG)
  - 😝 [&quot;Tell me you&#039;re italian without saying that you&#039;re italian&quot; Federico Chiesa calling his Mamma right after becoming European Champion](http://9gag.com/gag/arMrm2B)
- - 🚅 [I was explaining to my 6yr old little brother that birds are the closest descendants of dinosaurs, he didn&#039;t believe me so I showed him this. The foot of the world&#039;s most dangerous bird. (the cassowary)](http://9gag.com/gag/aRXNEOG)<!-- MEMES:END -->
+ - 🚅 [South African police Not Looting.](http://9gag.com/gag/a5Ey1vo)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
