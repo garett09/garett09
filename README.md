@@ -171,11 +171,11 @@ Linux                    56 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [ITS GOING ROME!](http://9gag.com/gag/a1rqorG)
- - 🚯 [It&rsquo;s coming Rome](http://9gag.com/gag/aZ0Vym0)
- - 🚯 [Tip to face an ostrich.](http://9gag.com/gag/aDdNg8x)
- - 😝 [Airplane!](http://9gag.com/gag/aV7108y)
- - 🚅 [Its going rome](http://9gag.com/gag/aB2NmRQ)<!-- MEMES:END -->
+ - 🚖 [SpaceX just casually landing two 10+ story tall orbital boosters simultaneously](http://9gag.com/gag/aP3d7Rq)
+ - 🚯 [Impressive](http://9gag.com/gag/axMn9eK)
+ - 🚯 [Its going rome](http://9gag.com/gag/aB2NmRQ)
+ - 😝 [It&rsquo;s coming Rome](http://9gag.com/gag/aZ0Vym0)
+ - 🚅 [Steve Irwin spots one of the most venomous sea snakes swimming in the ocean and guess what he does?](http://9gag.com/gag/aeAPD4m)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
