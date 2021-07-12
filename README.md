@@ -180,11 +180,11 @@ Linux                    56 mins             █░░░░░░░░░░�
 ### 📣 Jokes of the hour
 
 <!-- JOKES:START -->
- - 🐔 [Celebrity deaths that hit us right in the feels (18 GIFs)](https://thechive.com/2021/07/11/celebrity-deaths-that-hit-us-right-in-the-feels-18-gifs/)
- - 🕉 [Blue Angels STUNTS: “How much is COMPUTER Controlled?” (Video)](https://thechive.com/2021/07/11/blue-angels-stunts-how-much-is-computer-controlled-video/)
- - 🕉 [Just to Confirm: If You Laugh, You Will Lose (27 Photos)](https://thechive.com/2021/07/11/just-to-confirm-if-you-laugh-you-will-lose-27-photos/)
- - 👾 [Bad girls bend at the waist (38 Photos)](https://thechive.com/2021/07/11/bad-girls-bend-at-the-waist-51/)
- - 🎈 [Forget pineapple on pizza, toppings don’t get worse than this (19 GIFs)](https://thechive.com/2021/07/11/forget-pineapple-on-pizza-toppings-dont-get-worse-than-this-19-gifs/)<!-- JOKES:END -->
+ - 🐔 [GIFs that kept GIF-ing all damn week (21 GIFs)](https://thechive.com/2021/07/11/gifs-that-kept-gif-ing-all-damn-week-21-gifs-2/)
+ - 🕉 [Partners share the best ways they troll the Hell out of S.O.s (42 Photos)](https://thechive.com/2021/07/11/partners-share-the-best-ways-they-troll-the-hell-out-of-s-o-s-42-photos/)
+ - 🕉 [Celebrity deaths that hit us right in the feels (18 GIFs)](https://thechive.com/2021/07/11/celebrity-deaths-that-hit-us-right-in-the-feels-18-gifs/)
+ - 👾 [Blue Angels STUNTS: “How much is COMPUTER Controlled?” (Video)](https://thechive.com/2021/07/11/blue-angels-stunts-how-much-is-computer-controlled-video/)
+ - 🎈 [Just to Confirm: If You Laugh, You Will Lose (27 Photos)](https://thechive.com/2021/07/11/just-to-confirm-if-you-laugh-you-will-lose-27-photos/)<!-- JOKES:END -->
 
 ### 📣 Quotes of the hour
 
