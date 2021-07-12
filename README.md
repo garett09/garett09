@@ -180,11 +180,11 @@ Linux                    56 mins             █░░░░░░░░░░�
 ### 📣 Jokes of the hour
 
 <!-- JOKES:START -->
- - 🐔 [GAPS can help cure those pesky Monday Blues (58 Photos)](https://thechive.com/2021/07/12/gaps-can-help-cure-those-pesky-monday-blues-58-photos/)
- - 🕉 [Brutally honest homework answers we can’t stop laughing at (34 Photos)](https://thechive.com/2021/07/12/brutally-honest-homework-answers-we-cant-stop-laughing-at-34-photos/)
- - 🕉 [Painfully bad tan lines that will have you reaching for the aloe (38 Photos)](https://thechive.com/2021/07/12/painfully-bad-tan-lines-that-will-have-you-reaching-for-the-aloe-38-photos/)
- - 👾 [Machine gun training with new Special Ops. 69th Bike Force (Video)](https://thechive.com/2021/07/12/special-forces-firing-guns-on-a-bmx-video/)
- - 🎈 [These anti-memes are hilariously flipping the script (37 Photos)](https://thechive.com/2021/07/12/these-anti-memes-are-hilariously-flipping-the-script-37-photos/)<!-- JOKES:END -->
+ - 🐔 [Sh*t happens sometimes (35 Photos)](https://thechive.com/2021/07/12/sht-happens-sometimes-35-photos-47/)
+ - 🕉 [Wach’ya cooking? (21 GIFs)](https://thechive.com/2021/07/12/wachya-cooking-20-gifs/)
+ - 🕉 [GAPS can help cure those pesky Monday Blues (58 Photos)](https://thechive.com/2021/07/12/gaps-can-help-cure-those-pesky-monday-blues-58-photos/)
+ - 👾 [Brutally honest homework answers we can’t stop laughing at (34 Photos)](https://thechive.com/2021/07/12/brutally-honest-homework-answers-we-cant-stop-laughing-at-34-photos/)
+ - 🎈 [Painfully bad tan lines that will have you reaching for the aloe (38 Photos)](https://thechive.com/2021/07/12/painfully-bad-tan-lines-that-will-have-you-reaching-for-the-aloe-38-photos/)<!-- JOKES:END -->
 
 ### 📣 Quotes of the hour
 
