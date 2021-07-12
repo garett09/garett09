@@ -189,11 +189,11 @@ Linux                    56 mins             █░░░░░░░░░░�
 ### 📣 Quotes of the hour
 
 <!-- QUOTES:START -->
- - 🔥 ["The best time to make friends is before you need them." - Ethel Barrymore](https://www.brainyquote.com/quotes/ethel_barrymore_158797)
- - 🌮 ["She is a friend of mind. She gather me, man. The pieces I am, she gather them and give them back to me in all the right order. It's good, you know, when you got a woman who is a friend of your mind." - Toni Morrison](https://www.brainyquote.com/quotes/toni_morrison_105243)
- - 🌮 ["Sometimes being a friend means mastering the art of timing. There is a time for silence. A time to let go and allow people to hurl themselves into their own destiny. And a time to prepare to pick up the pieces when it's all over." - Octavia E. Butler](https://www.brainyquote.com/quotes/octavia_e_butler_170210)
- - 💯 ["No person is your friend who demands your silence, or denies your right to grow." - Alice Walker](https://www.brainyquote.com/quotes/alice_walker_131842)
- - 💫 ["The friend in my adversity I shall always cherish most. I can better trust those who helped to relieve the gloom of my dark hours than those who are so ready to enjoy with me the sunshine of my prosperity." - Ulysses S. Grant](https://www.brainyquote.com/quotes/ulysses_s_grant_132903)<!-- QUOTES:END -->
+ - 🔥 ["Friends and good manners will carry you where money won't go." - Margaret Walker](https://www.brainyquote.com/quotes/margaret_walker_189840)
+ - 🌮 ["One loyal friend is worth ten thousand relatives." - Euripides](https://www.brainyquote.com/quotes/euripides_149016)
+ - 🌮 ["No person is your friend who demands your silence, or denies your right to grow." - Alice Walker](https://www.brainyquote.com/quotes/alice_walker_131842)
+ - 💯 ["She is a friend of mind. She gather me, man. The pieces I am, she gather them and give them back to me in all the right order. It's good, you know, when you got a woman who is a friend of your mind." - Toni Morrison](https://www.brainyquote.com/quotes/toni_morrison_105243)
+ - 💫 ["A true friend is someone who is there for you when he'd rather be anywhere else." - Len Wein](https://www.brainyquote.com/quotes/len_wein_366317)<!-- QUOTES:END -->
 
 --- 
 ### 💻 Workspace Spec
