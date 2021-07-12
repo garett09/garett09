@@ -180,11 +180,11 @@ Linux                    56 mins             █░░░░░░░░░░�
 ### 📣 Jokes of the hour
 
 <!-- JOKES:START -->
- - 🐔 [More homes, more curious findings to wrap our heads around (19 Photos)](https://thechive.com/2021/07/12/more-homes-more-curious-findings-to-wrap-our-heads-around-19-photos/)
+ - 🐔 [These anti-memes are hilariously flipping the script (37 Photos)](https://thechive.com/2021/07/12/these-anti-memes-are-hilariously-flipping-the-script-37-photos/)
+ - 🕉 [More homes, more curious findings to wrap our heads around (19 Photos)](https://thechive.com/2021/07/12/more-homes-more-curious-findings-to-wrap-our-heads-around-19-photos/)
  - 🕉 [Travel back in time for the biggest summer blockbusters of the ’80s (16 GIFs)](https://thechive.com/2021/07/12/travel-back-in-time-for-the-biggest-summer-blockbusters-of-the-80s-16-gifs/)
- - 🕉 [Take 2 FLBPs and call me in the morning (69 Photos)](https://thechive.com/2021/07/12/take-2-flbps-and-call-me-in-the-morning-69-photos/)
- - 👾 [Daily Morning Awesomeness (38 Photos)](https://thechive.com/2021/07/12/daily-morning-awesomeness-38-photos-170/)
- - 🎈 [Dank Memes Bring the Laughter Out (27 Photos)](https://thechive.com/2021/07/11/dank-memes-bring-the-laughter-out-27-photos/)<!-- JOKES:END -->
+ - 👾 [Take 2 FLBPs and call me in the morning (69 Photos)](https://thechive.com/2021/07/12/take-2-flbps-and-call-me-in-the-morning-69-photos/)
+ - 🎈 [Daily Morning Awesomeness (38 Photos)](https://thechive.com/2021/07/12/daily-morning-awesomeness-38-photos-170/)<!-- JOKES:END -->
 
 ### 📣 Quotes of the hour
 
