@@ -171,11 +171,11 @@ Linux                    56 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I present you the shittiest fans in football history](http://9gag.com/gag/aeAPbzj)
- - 🚯 [Donnarumma looks like nothing happened after winning Euro2020](http://9gag.com/gag/apNjmv8)
+ - 🚖 [Dear Italians, Thank You so much, Love from Scotland (&amp; rest of Europe) x](http://9gag.com/gag/a07WQxq)
  - 🚯 [Living the dream](http://9gag.com/gag/aB2N8vO)
+ - 🚯 [Donnarumma looks like nothing happened after winning Euro2020](http://9gag.com/gag/apNjmv8)
  - 😝 [Why is everyone taking the medal off??!](http://9gag.com/gag/aAbNx92)
- - 🚅 [Sterling is a clown](http://9gag.com/gag/axMn0n1)<!-- MEMES:END -->
+ - 🚅 [Best move so far](http://9gag.com/gag/axMn1GW)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
