@@ -180,11 +180,11 @@ Linux                    56 mins             █░░░░░░░░░░�
 ### 📣 Jokes of the hour
 
 <!-- JOKES:START -->
- - 🐔 [Elderly wholesomeness on full display (31 Photos)](https://thechive.com/2021/07/12/elderly-wholesomeness-on-full-display-31-photos/)
- - 🕉 [Pornhub’s comment section is as NSFW as it is absurd (34 Photos)](https://thechive.com/2021/07/12/pornhubs-comment-section-is-as-nsfw-as-it-is-absurd-34-photos/)
- - 🕉 [You never turn your back on family, even when they do.](https://www.thechivery.com/products/family-tee?utm_source=thechivehomepage&utm_medium=loop2&utm_campaign=family_071221)
- - 👾 [Dogs and memes, what more could you ask for? (35 Photos)](https://thechive.com/2021/07/12/dogs-and-memes-what-more-could-you-ask-for-35-photos/)
- - 🎈 [Guy asks for $35 refund from date after she breaks things off (14 photos)](https://thechive.com/2021/07/12/guy-asks-for-35-refund-from-date-after-she-breaks-things-off-14-photos/)<!-- JOKES:END -->
+ - 🐔 [Daily Afternoon Randomness (49 Photos)](https://thechive.com/2021/07/12/daily-afternoon-randomness-49-photos-1305/)
+ - 🕉 [A petition for Jeff Bezos to buy and eat the Mona Lisa is gaining steam at over 16K signatures](https://thechive.com/2021/07/12/a-petition-for-jeff-bezos-to-buy-and-eat-the-mona-lisa-is-gaining-steam-at-over-16k-signatures/)
+ - 🕉 [Actors who crushed a role SO HARD no one will ever live up to it (30 Photos)](https://thechive.com/2021/07/12/actors-who-crushed-a-role-so-hard-no-one-will-ever-live-up-to-it-30-photos/)
+ - 👾 [Elderly wholesomeness on full display (31 Photos)](https://thechive.com/2021/07/12/elderly-wholesomeness-on-full-display-31-photos/)
+ - 🎈 [Pornhub’s comment section is as NSFW as it is absurd (34 Photos)](https://thechive.com/2021/07/12/pornhubs-comment-section-is-as-nsfw-as-it-is-absurd-34-photos/)<!-- JOKES:END -->
 
 ### 📣 Quotes of the hour
 
