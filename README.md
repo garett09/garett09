@@ -171,11 +171,11 @@ Linux                    56 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The Sipmsons did it again](http://9gag.com/gag/aeAPDvj)
- - 🚯 [Internet for me today. I hope that football sports event is over soon.](http://9gag.com/gag/aNp206v)
- - 🚯 [Thief caught in act WHOOPASS](http://9gag.com/gag/a8EXEMd)
- - 😝 [F**k no I&rsquo;m not ok!](http://9gag.com/gag/aXoGj5g)
- - 🚅 [Impressive](http://9gag.com/gag/axMn9eK)<!-- MEMES:END -->
+ - 🚖 [F**k no I&rsquo;m not ok!](http://9gag.com/gag/aXoGj5g)
+ - 🚯 [Sensitive](http://9gag.com/gag/aDdNdDw)
+ - 🚯 [Impressive](http://9gag.com/gag/axMn9eK)
+ - 😝 [Not what I expected](http://9gag.com/gag/aoMqMqe)
+ - 🚅 [Sterling was happy to accept the 1st &#039;Best Actor Award&#039; that UEFA created in collaboration with The Academy. Congratulations, it was well deserved.](http://9gag.com/gag/apNjG6p)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
