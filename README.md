@@ -171,11 +171,11 @@ Linux                    56 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Sauce: Dude trust me](http://9gag.com/gag/aLpNz3P)
- - 🚯 [Scotland pub when england lost](http://9gag.com/gag/agBZ1Dr)
+ - 🚖 [It do be like that](http://9gag.com/gag/azMDPbj)
  - 🚯 [Caterpillar creates place to hide so predators can&#039;t kill while it eats](http://9gag.com/gag/anQWR4n)
- - 😝 [23-year-old blonde London student Melissa Johnson in 1996 lifted her apron to give both players an eyeful and then proceeded to do the same for the royals before being taken away by a gentleman of the law. It was taken in a fun way and and was released without further action.](http://9gag.com/gag/aoMqyBA)
- - 🚅 [I feel so bad](http://9gag.com/gag/arMr3O5)<!-- MEMES:END -->
+ - 🚯 [I recently started using this after so many years of having hard shits. Highly recommend if you are always having to push hard to poop.](http://9gag.com/gag/aB2NZEP)
+ - 😝 [I feel so bad](http://9gag.com/gag/arMr3O5)
+ - 🚅 [Who was your first TV/Movie crush? This was mine. Pink Ranger (Amy Jo Johnson)](http://9gag.com/gag/aZ0V1xn)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
