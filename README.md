@@ -171,11 +171,11 @@ Linux                    56 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Kids nowdays doesn&#039;t know how entertaining he is](http://9gag.com/gag/aO3N4M3)
- - 🚯 [Work got me faffin&rsquo; around](http://9gag.com/gag/aK6NAXO)
- - 🚯 [Sauce: Dude trust me](http://9gag.com/gag/aLpNz3P)
- - 😝 [Man your harpoons!](http://9gag.com/gag/a3EpAEQ)
- - 🚅 [It do be like that](http://9gag.com/gag/aqjpX5P)<!-- MEMES:END -->
+ - 🚖 [1+1=11](http://9gag.com/gag/a7E6enA)
+ - 🚯 [Man your harpoons!](http://9gag.com/gag/a3EpAEQ)
+ - 🚯 [How cork are produced](http://9gag.com/gag/aAbNEjL)
+ - 😝 [Scotland pub when england lost](http://9gag.com/gag/agBZ1Dr)
+ - 🚅 [Italians speaking in public](http://9gag.com/gag/amPbGg9)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
