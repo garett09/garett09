@@ -171,11 +171,11 @@ Linux                    56 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It&rsquo;s coming Rome](http://9gag.com/gag/aB2NLoN)
- - 🚯 [Looted superstore in Durban, SA looks like something out of a zombie apocalypse movie](http://9gag.com/gag/apNj6eW)
- - 🚯 [South Africa is about to prove South Park right again...](http://9gag.com/gag/a6E359N)
- - 😝 [Old wc3 times](http://9gag.com/gag/aP3dooB)
- - 🚅 [Freedom isn&rsquo;t free](http://9gag.com/gag/aEpNAYN)<!-- MEMES:END -->
+ - 🚖 [South Africa is about to prove South Park right again...](http://9gag.com/gag/a6E359N)
+ - 🚯 [Freedom isn&rsquo;t free](http://9gag.com/gag/aEpNAYN)
+ - 🚯 [Kids nowdays doesn&#039;t know how entertaining he is](http://9gag.com/gag/aO3N4M3)
+ - 😝 [More South Africa looters, taking solar panels](http://9gag.com/gag/a7E6ePr)
+ - 🚅 [Old wc3 times](http://9gag.com/gag/aP3dooB)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
