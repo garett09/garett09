@@ -172,10 +172,10 @@ Linux                    56 mins             █░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 🚖 [The New Canadian Space Program](http://9gag.com/gag/abVmx9p)
- - 🚯 [Breakfast of champions](http://9gag.com/gag/aNp2BnA)
- - 🚯 [Whats is dis?](http://9gag.com/gag/a1rq2pG)
- - 😝 [Rohirrim !!](http://9gag.com/gag/aoMqx3n)
- - 🚅 [Cutting a wheel of cheese](http://9gag.com/gag/azMDOKB)<!-- MEMES:END -->
+ - 🚯 [Rohirrim !!](http://9gag.com/gag/aoMqx3n)
+ - 🚯 [Cutting a wheel of cheese](http://9gag.com/gag/azMDOKB)
+ - 😝 [RIP Liam....friendzoned](http://9gag.com/gag/awMGdMD)
+ - 🚅 [Co camping, they said... It Will be fun, they said. Limburg the Netherlands, today..](http://9gag.com/gag/a7E69PL)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
