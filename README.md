@@ -40,7 +40,7 @@ const skills =
   
   cicd      :[Github Workflows],
 
-  softwares :[Microsoft PowerBi, Microsoft Acess, Rapid Miner, Vegas Pro]
+  softwares :[Microsoft PowerBi, Microsoft Access, Rapid Miner, Vegas Pro]
 }
 
 Developer dev = new Developer(garett_09);
