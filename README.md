@@ -171,10 +171,10 @@ Linux                    56 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [South Africa is about to prove South Park right again...](http://9gag.com/gag/a6E359N)
+ - 🚖 [Kids nowdays doesn&#039;t know how entertaining he is](http://9gag.com/gag/aO3N4M3)
+ - 🚯 [More South Africa looters, taking solar panels](http://9gag.com/gag/a7E6ePr)
  - 🚯 [Freedom isn&rsquo;t free](http://9gag.com/gag/aEpNAYN)
- - 🚯 [Kids nowdays doesn&#039;t know how entertaining he is](http://9gag.com/gag/aO3N4M3)
- - 😝 [More South Africa looters, taking solar panels](http://9gag.com/gag/a7E6ePr)
+ - 😝 [Blind Spot](http://9gag.com/gag/aqjpQYL)
  - 🚅 [Old wc3 times](http://9gag.com/gag/aP3dooB)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
