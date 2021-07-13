@@ -180,11 +180,11 @@ Linux                    56 mins             █░░░░░░░░░░�
 ### 📣 Jokes of the hour
 
 <!-- JOKES:START -->
- - 🐔 [Waterbeds, Kool-Aid man and other weird and wildly irrational fears (27 Photos)](https://thechive.com/2021/07/13/waterbeds-kool-aid-man-and-other-weird-and-wildly-irrational-fears-27-photos/)
+ - 🐔 [Simple Psych Tricks That Promise to Help (14 GIFs)](https://thechive.com/2021/07/13/simple-psych-tricks-that-promise-to-help-14-gifs/)
+ - 🕉 [Waterbeds, Kool-Aid man and other weird and wildly irrational fears (27 Photos)](https://thechive.com/2021/07/13/waterbeds-kool-aid-man-and-other-weird-and-wildly-irrational-fears-27-photos/)
  - 🕉 [Nice KNOCKERs vs. Middle Finger GIFs…it’s oddly Enjoyable (50 Photos/Gifs)](https://thechive.com/2021/07/13/nice-knockers-vs-middle-finger-gifits-oddly-enjoyable-50-photos-gifs/)
- - 🕉 [Some things are better than sex and you cannot convince me otherwise (20 GIFs)](https://thechive.com/2021/07/13/some-things-are-better-than-sex-and-you-cannot-convince-me-otherwise-20-gifs/)
- - 👾 [Daily Morning Awesomeness (38 Photos)](https://thechive.com/2021/07/13/daily-morning-awesomeness-38-photos-171/)
- - 🎈 [Wallpapers of heavy bombing “Big Ugly Fat Fellow”…the B-52 Stratofortress (41 HQ Photos)](https://thechive.com/2021/07/12/wallpapers-of-heavy-bombing-big-ugly-fat-fellowthe-b-52-stratofortress-41-hq-photos/)<!-- JOKES:END -->
+ - 👾 [Some things are better than sex and you cannot convince me otherwise (20 GIFs)](https://thechive.com/2021/07/13/some-things-are-better-than-sex-and-you-cannot-convince-me-otherwise-20-gifs/)
+ - 🎈 [Daily Morning Awesomeness (38 Photos)](https://thechive.com/2021/07/13/daily-morning-awesomeness-38-photos-171/)<!-- JOKES:END -->
 
 ### 📣 Quotes of the hour
 
