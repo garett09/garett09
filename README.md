@@ -171,10 +171,10 @@ Linux                    56 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Me after moving out to the floor above my upstairs neighbor](http://9gag.com/gag/aDdN2nN)
- - 🚯 [Those where the times my friends&hellip;](http://9gag.com/gag/aWjNpn2)
+ - 🚖 [This is the money cat... You&#039;ll get good fortune in the next week!](http://9gag.com/gag/aLpNLwz)
  - 🚯 [Opening one of the greatest gifts I&rsquo;ve ever received, almost 25 years ago](http://9gag.com/gag/ad84BWZ)
- - 😝 [&quot;Tell me you&#039;re italian without saying that you&#039;re italian&quot; Federico Chiesa calling his Mamma right after becoming European Champion](http://9gag.com/gag/arMrm2B)
+ - 🚯 [Those where the times my friends&hellip;](http://9gag.com/gag/aWjNpn2)
+ - 😝 [I recently started using this after so many years of having hard shits. Highly recommend if you are always having to push hard to poop.](http://9gag.com/gag/aB2NZEP)
  - 🚅 [23-year-old blonde London student Melissa Johnson in 1996 lifted her apron to give both players an eyeful and then proceeded to do the same for the royals before being taken away by a gentleman of the law. It was taken in a fun way and and was released without further action.](http://9gag.com/gag/aoMqyBA)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
