@@ -171,10 +171,10 @@ Linux                    56 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It do be like that](http://9gag.com/gag/azMDPbj)
- - 🚯 [Caterpillar creates place to hide so predators can&#039;t kill while it eats](http://9gag.com/gag/anQWR4n)
- - 🚯 [I recently started using this after so many years of having hard shits. Highly recommend if you are always having to push hard to poop.](http://9gag.com/gag/aB2NZEP)
- - 😝 [I feel so bad](http://9gag.com/gag/arMr3O5)
+ - 🚖 [I feel so bad](http://9gag.com/gag/arMr3O5)
+ - 🚯 [Italians speaking in public](http://9gag.com/gag/amPbGg9)
+ - 🚯 [It do be like that](http://9gag.com/gag/azMDPbj)
+ - 😝 [Big huge bunny cuddle time](http://9gag.com/gag/aMKNmeV)
  - 🚅 [Who was your first TV/Movie crush? This was mine. Pink Ranger (Amy Jo Johnson)](http://9gag.com/gag/aZ0V1xn)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
