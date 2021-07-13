@@ -180,11 +180,11 @@ Linux                    56 mins             █░░░░░░░░░░�
 ### 📣 Jokes of the hour
 
 <!-- JOKES:START -->
- - 🐔 [Smiles so bright they could light up your life (38 Photos)](https://thechive.com/2021/07/13/smiles-so-bright-they-could-light-up-your-life-38-photos/)
- - 🕉 [F-ck Hollywood…REAL sexy is a NERDY Chemical engineer that SMILEs (39 Photos)](https://thechive.com/2021/07/13/f-ck-hollywoodreal-sexy-is-a-nerdy-chemical-engineer-that-smiles-39-photos/)
- - 🕉 [Time for a little ‘Hip Hip… Bootaaaaaaaaay! (15 GIFs)](https://thechive.com/2021/07/13/time-for-a-little-hip-hip-bootaaaaaaaaay-15-gifs/)
- - 👾 [Chick-Fil-A ranked America’s favorite fast food place — McDonald’s gets dead last](https://thechive.com/2021/07/13/chick-fil-a-ranked-americas-favorite-fast-food-place-mcdonalds-gets-dead-last/)
- - 🎈 [Keep Calm and keep those floors dry with our NEW Dog Bowl Placemats](https://www.thechivery.com/collections/pets?utm_source=thechivehomepage&utm_medium=loop2&utm_campaign=pets_071321)<!-- JOKES:END -->
+ - 🐔 [Daily Afternoon Randomness (49 Photos)](https://thechive.com/2021/07/13/daily-afternoon-randomness-49-photos-1306/)
+ - 🕉 [Shark Week memes are BLOODY funny (32 Photos)](https://thechive.com/2021/07/13/shark-week-memes-are-bloody-funny-32-photos/)
+ - 🕉 [Smiles so bright they could light up your life (38 Photos)](https://thechive.com/2021/07/13/smiles-so-bright-they-could-light-up-your-life-38-photos/)
+ - 👾 [F-ck Hollywood…REAL sexy is a NERDY Chemical engineer that SMILEs (39 Photos)](https://thechive.com/2021/07/13/f-ck-hollywoodreal-sexy-is-a-nerdy-chemical-engineer-that-smiles-39-photos/)
+ - 🎈 [Time for a little ‘Hip Hip… Bootaaaaaaaaay! (15 GIFs)](https://thechive.com/2021/07/13/time-for-a-little-hip-hip-bootaaaaaaaaay-15-gifs/)<!-- JOKES:END -->
 
 ### 📣 Quotes of the hour
 
