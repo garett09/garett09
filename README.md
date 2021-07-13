@@ -171,11 +171,11 @@ Linux                    56 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I&rsquo;d like it](http://9gag.com/gag/aO3N8Lr)
- - 🚯 [Caterpillar creates place to hide so predators can&#039;t kill while it eats](http://9gag.com/gag/anQWR4n)
+ - 🚖 [Harold Holt Posting](http://9gag.com/gag/aK6NAEN)
  - 🚯 [Those where the times my friends&hellip;](http://9gag.com/gag/aWjNpn2)
- - 😝 [I feel so bad](http://9gag.com/gag/arMr3O5)
- - 🚅 [Today in South Africa, more rampant looting and protest action. No, not due to covid restrictions or anything like that, but because a corrupt ex president was FINALLY jailed and protestors want him released(Jacob Zuma).](http://9gag.com/gag/ajmMVG0)<!-- MEMES:END -->
+ - 🚯 [Today in South Africa, more rampant looting and protest action. No, not due to covid restrictions or anything like that, but because a corrupt ex president was FINALLY jailed and protestors want him released(Jacob Zuma).](http://9gag.com/gag/ajmMVG0)
+ - 😝 [Caterpillar creates place to hide so predators can&#039;t kill while it eats](http://9gag.com/gag/anQWR4n)
+ - 🚅 [I feel so bad](http://9gag.com/gag/arMr3O5)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
