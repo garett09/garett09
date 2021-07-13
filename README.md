@@ -171,11 +171,11 @@ Linux                    56 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Have you ever seen an Albino Bull?](http://9gag.com/gag/ayMVWGb)
- - 🚯 [Friend recorded this from my hometown in South Africa. I donno where my mom is going to buy food](http://9gag.com/gag/abVmOvv)
+ - 🚖 [A nation of wankers](http://9gag.com/gag/apNjP8D)
+ - 🚯 [Co camping, they said... It Will be fun, they said. Limburg the Netherlands, today..](http://9gag.com/gag/a7E69PL)
  - 🚯 [Breakfast of champions](http://9gag.com/gag/aNp2BnA)
- - 😝 [Rohirrim !!](http://9gag.com/gag/aoMqx3n)
- - 🚅 [An electricity thief in India was trying to sneak in and disconnect his illegal connection, but the officials were already filming him.](http://9gag.com/gag/aoMq48m)<!-- MEMES:END -->
+ - 😝 [Cutting a wheel of cheese](http://9gag.com/gag/azMDOKB)
+ - 🚅 [Blind Spot](http://9gag.com/gag/aqjpQYL)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
