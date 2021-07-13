@@ -180,11 +180,11 @@ Linux                    56 mins             █░░░░░░░░░░�
 ### 📣 Jokes of the hour
 
 <!-- JOKES:START -->
- - 🐔 [Chick-Fil-A ranked America’s favorite fast food place — McDonald’s gets dead last](https://thechive.com/2021/07/13/chick-fil-a-ranked-americas-favorite-fast-food-place-mcdonalds-gets-dead-last/)
- - 🕉 [Keep Calm and keep those floors dry with our NEW Dog Bowl Placemats](https://www.thechivery.com/collections/pets?utm_source=thechivehomepage&utm_medium=loop2&utm_campaign=pets_071321)
- - 🕉 [Keep calm and tug on (41 Photos)](https://thechive.com/2021/07/13/keep-calm-and-tug-on-14/)
- - 👾 [These people are one step away from LOSING THEIR MINDS (26 Photos)](https://thechive.com/2021/07/13/these-people-are-one-step-away-from-losing-their-minds-26-photos/)
- - 🎈 [Dad, what are you doing? It’s Shark Week! (20 GIFs)](https://thechive.com/2021/07/13/dad-what-are-you-doing-its-shark-week-20-gifs/)<!-- JOKES:END -->
+ - 🐔 [Smiles so bright they could light up your life (38 Photos)](https://thechive.com/2021/07/13/smiles-so-bright-they-could-light-up-your-life-38-photos/)
+ - 🕉 [F-ck Hollywood…REAL sexy is a NERDY Chemical engineer that SMILEs (39 Photos)](https://thechive.com/2021/07/13/f-ck-hollywoodreal-sexy-is-a-nerdy-chemical-engineer-that-smiles-39-photos/)
+ - 🕉 [Time for a little ‘Hip Hip… Bootaaaaaaaaay! (15 GIFs)](https://thechive.com/2021/07/13/time-for-a-little-hip-hip-bootaaaaaaaaay-15-gifs/)
+ - 👾 [Chick-Fil-A ranked America’s favorite fast food place — McDonald’s gets dead last](https://thechive.com/2021/07/13/chick-fil-a-ranked-americas-favorite-fast-food-place-mcdonalds-gets-dead-last/)
+ - 🎈 [Keep Calm and keep those floors dry with our NEW Dog Bowl Placemats](https://www.thechivery.com/collections/pets?utm_source=thechivehomepage&utm_medium=loop2&utm_campaign=pets_071321)<!-- JOKES:END -->
 
 ### 📣 Quotes of the hour
 
