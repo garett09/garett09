@@ -180,11 +180,11 @@ Linux                    56 mins             █░░░░░░░░░░�
 ### 📣 Jokes of the hour
 
 <!-- JOKES:START -->
- - 🐔 [Keep calm and tug on (41 Photos)](https://thechive.com/2021/07/13/keep-calm-and-tug-on-14/)
- - 🕉 [These people are one step away from LOSING THEIR MINDS (26 Photos)](https://thechive.com/2021/07/13/these-people-are-one-step-away-from-losing-their-minds-26-photos/)
- - 🕉 [Dad, what are you doing? It’s Shark Week! (20 GIFs)](https://thechive.com/2021/07/13/dad-what-are-you-doing-its-shark-week-20-gifs/)
- - 👾 [These dresses have our brains in a fugue state (60 Photos)](https://thechive.com/2021/07/13/these-dresses-have-our-brains-in-a-fugue-state-60-photos/)
- - 🎈 [Side Boobs Are Always the Answer (40 Photos)](https://thechive.com/2021/07/13/side-boobs-are-always-the-answer-40-photos/)<!-- JOKES:END -->
+ - 🐔 [Chick-Fil-A ranked America’s favorite fast food place — McDonald’s gets dead last](https://thechive.com/2021/07/13/chick-fil-a-ranked-americas-favorite-fast-food-place-mcdonalds-gets-dead-last/)
+ - 🕉 [Keep Calm and keep those floors dry with our NEW Dog Bowl Placemats](https://www.thechivery.com/collections/pets?utm_source=thechivehomepage&utm_medium=loop2&utm_campaign=pets_071321)
+ - 🕉 [Keep calm and tug on (41 Photos)](https://thechive.com/2021/07/13/keep-calm-and-tug-on-14/)
+ - 👾 [These people are one step away from LOSING THEIR MINDS (26 Photos)](https://thechive.com/2021/07/13/these-people-are-one-step-away-from-losing-their-minds-26-photos/)
+ - 🎈 [Dad, what are you doing? It’s Shark Week! (20 GIFs)](https://thechive.com/2021/07/13/dad-what-are-you-doing-its-shark-week-20-gifs/)<!-- JOKES:END -->
 
 ### 📣 Quotes of the hour
 
