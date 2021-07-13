@@ -180,11 +180,11 @@ Linux                    56 mins             █░░░░░░░░░░�
 ### 📣 Jokes of the hour
 
 <!-- JOKES:START -->
- - 🐔 [Work in IT/Support Desk? These memes are for (and about) you (27 Photos)](https://thechive.com/2021/07/12/work-in-it-support-desk-these-memes-are-for-and-about-you/)
- - 🕉 [Your driving is terrible, and you should feel terrible (30 Photos)](https://thechive.com/2021/07/12/your-driving-is-terrible-and-you-should-feel-terrible-30-photos/)
- - 🕉 [Daily Dopamine Dump](http://i.thechive.com/dopamine-dump)
- - 👾 [Drunken Tinder Date from HELL screams her way through the night (Video)](https://thechive.com/2021/07/12/drunken-tinder-date-from-hell-screams-her-way-through-the-night-video/)
- - 🎈 [Chivettes know how to turn that Monday frown upside down (35 Photos)](https://thechive.com/2021/07/12/chivettes-know-how-to-turn-that-monday-frown-upside-down-35-photos/)<!-- JOKES:END -->
+ - 🐔 [Wallpapers of heavy bombing “Big Ugly Fat Fellow”…the B-52 Stratofortress (41 HQ Photos)](https://thechive.com/2021/07/12/wallpapers-of-heavy-bombing-big-ugly-fat-fellowthe-b-52-stratofortress-41-hq-photos/)
+ - 🕉 [Mid-night sexy GIFs (24 buns in motion)](https://thechive.com/2021/07/12/mid-night-sexy-gifs-24-buns-in-motion/)
+ - 🕉 [Alright, this is some HOT sh*t!  (20 Photos)](https://thechive.com/2021/07/12/alright-this-is-some-hot-sht-20-photos-4/)
+ - 👾 [Work in IT/Support Desk? These memes are for (and about) you (27 Photos)](https://thechive.com/2021/07/12/work-in-it-support-desk-these-memes-are-for-and-about-you/)
+ - 🎈 [Your driving is terrible, and you should feel terrible (30 Photos)](https://thechive.com/2021/07/12/your-driving-is-terrible-and-you-should-feel-terrible-30-photos/)<!-- JOKES:END -->
 
 ### 📣 Quotes of the hour
 
