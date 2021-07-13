@@ -180,11 +180,11 @@ Linux                    56 mins             █░░░░░░░░░░�
 ### 📣 Jokes of the hour
 
 <!-- JOKES:START -->
- - 🐔 [Your ‘Food Scam’ has left me feeling betrayed…and a little hungry (30 Photos)](https://thechive.com/2021/07/13/your-food-scam-has-left-me-feeling-betrayed-and-a-little-hungry-30-photos/)
+ - 🐔 [Side Boobs Are Always the Answer (40 Photos)](https://thechive.com/2021/07/13/side-boobs-are-always-the-answer-40-photos/)
+ - 🕉 [Your ‘Food Scam’ has left me feeling betrayed…and a little hungry (30 Photos)](https://thechive.com/2021/07/13/your-food-scam-has-left-me-feeling-betrayed-and-a-little-hungry-30-photos/)
  - 🕉 [Amazing Facts About Gorillas (17 Photos)](https://thechive.com/2021/07/13/amazing-facts-about-gorillas-17-photos/)
- - 🕉 [Mac’n morning cheesy memes (38 Photos)](https://thechive.com/2021/07/13/macn-morning-cheesy-memes-38-photos/)
- - 👾 [Never forget: Always look for the helpers (20 Photos)](https://thechive.com/2021/07/13/never-forget-always-look-for-the-helpers/)
- - 🎈 [Simple Psych Tricks That Promise to Help (14 GIFs)](https://thechive.com/2021/07/13/simple-psych-tricks-that-promise-to-help-14-gifs/)<!-- JOKES:END -->
+ - 👾 [Mac’n morning cheesy memes (38 Photos)](https://thechive.com/2021/07/13/macn-morning-cheesy-memes-38-photos/)
+ - 🎈 [Never forget: Always look for the helpers (20 Photos)](https://thechive.com/2021/07/13/never-forget-always-look-for-the-helpers/)<!-- JOKES:END -->
 
 ### 📣 Quotes of the hour
 
