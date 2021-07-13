@@ -180,11 +180,11 @@ Linux                    56 mins             █░░░░░░░░░░�
 ### 📣 Jokes of the hour
 
 <!-- JOKES:START -->
- - 🐔 [Some things are better than sex and you cannot convince me otherwise (20 GIFs)](https://thechive.com/2021/07/13/some-things-are-better-than-sex-and-you-cannot-convince-me-otherwise-20-gifs/)
+ - 🐔 [Nice KNOCKERs vs. Middle Finger GIFs…it’s oddly Enjoyable (50 Photos/Gifs)](https://thechive.com/2021/07/13/nice-knockers-vs-middle-finger-gifits-oddly-enjoyable-50-photos-gifs/)
+ - 🕉 [Some things are better than sex and you cannot convince me otherwise (20 GIFs)](https://thechive.com/2021/07/13/some-things-are-better-than-sex-and-you-cannot-convince-me-otherwise-20-gifs/)
  - 🕉 [Daily Morning Awesomeness (38 Photos)](https://thechive.com/2021/07/13/daily-morning-awesomeness-38-photos-171/)
- - 🕉 [Wallpapers of heavy bombing “Big Ugly Fat Fellow”…the B-52 Stratofortress (41 HQ Photos)](https://thechive.com/2021/07/12/wallpapers-of-heavy-bombing-big-ugly-fat-fellowthe-b-52-stratofortress-41-hq-photos/)
- - 👾 [Mid-night sexy GIFs (24 buns in motion)](https://thechive.com/2021/07/12/mid-night-sexy-gifs-24-buns-in-motion/)
- - 🎈 [Alright, this is some HOT sh*t!  (20 Photos)](https://thechive.com/2021/07/12/alright-this-is-some-hot-sht-20-photos-4/)<!-- JOKES:END -->
+ - 👾 [Wallpapers of heavy bombing “Big Ugly Fat Fellow”…the B-52 Stratofortress (41 HQ Photos)](https://thechive.com/2021/07/12/wallpapers-of-heavy-bombing-big-ugly-fat-fellowthe-b-52-stratofortress-41-hq-photos/)
+ - 🎈 [Mid-night sexy GIFs (24 buns in motion)](https://thechive.com/2021/07/12/mid-night-sexy-gifs-24-buns-in-motion/)<!-- JOKES:END -->
 
 ### 📣 Quotes of the hour
 
