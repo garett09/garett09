@@ -171,11 +171,11 @@ Linux                    56 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Freedom isn&rsquo;t free](http://9gag.com/gag/aEpNAYN)
- - 🚯 [Old wc3 times](http://9gag.com/gag/aP3dooB)
- - 🚯 [An electricity thief in India was trying to sneak in and disconnect his illegal connection, but the officials were already filming him.](http://9gag.com/gag/aoMq48m)
- - 😝 [It was his turn to choose the activity](http://9gag.com/gag/a1rq5jw)
- - 🚅 [A nation of wankers](http://9gag.com/gag/apNjP8D)<!-- MEMES:END -->
+ - 🚖 [Have you ever seen an Albino Bull?](http://9gag.com/gag/ayMVWGb)
+ - 🚯 [Friend recorded this from my hometown in South Africa. I donno where my mom is going to buy food](http://9gag.com/gag/abVmOvv)
+ - 🚯 [Breakfast of champions](http://9gag.com/gag/aNp2BnA)
+ - 😝 [Rohirrim !!](http://9gag.com/gag/aoMqx3n)
+ - 🚅 [An electricity thief in India was trying to sneak in and disconnect his illegal connection, but the officials were already filming him.](http://9gag.com/gag/aoMq48m)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
