@@ -171,11 +171,11 @@ Linux                    56 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Opening one of the greatest gifts I&rsquo;ve ever received, almost 25 years ago](http://9gag.com/gag/ad84BWZ)
- - 🚯 [All races fighting back together South African looters and rioter](http://9gag.com/gag/aO3N3Ry)
- - 🚯 [I&rsquo;d like it](http://9gag.com/gag/aO3N8Lr)
- - 😝 [Sports bro making her day](http://9gag.com/gag/aB2NdPA)
- - 🚅 [&quot;Tell me you&#039;re italian without saying that you&#039;re italian&quot; Federico Chiesa calling his Mamma right after becoming European Champion](http://9gag.com/gag/arMrm2B)<!-- MEMES:END -->
+ - 🚖 [Me after moving out to the floor above my upstairs neighbor](http://9gag.com/gag/aDdN2nN)
+ - 🚯 [Those where the times my friends&hellip;](http://9gag.com/gag/aWjNpn2)
+ - 🚯 [Opening one of the greatest gifts I&rsquo;ve ever received, almost 25 years ago](http://9gag.com/gag/ad84BWZ)
+ - 😝 [&quot;Tell me you&#039;re italian without saying that you&#039;re italian&quot; Federico Chiesa calling his Mamma right after becoming European Champion](http://9gag.com/gag/arMrm2B)
+ - 🚅 [23-year-old blonde London student Melissa Johnson in 1996 lifted her apron to give both players an eyeful and then proceeded to do the same for the royals before being taken away by a gentleman of the law. It was taken in a fun way and and was released without further action.](http://9gag.com/gag/aoMqyBA)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
