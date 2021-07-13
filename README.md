@@ -171,10 +171,10 @@ Linux                    56 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Harold Holt Posting](http://9gag.com/gag/aK6NAEN)
- - 🚯 [Those where the times my friends&hellip;](http://9gag.com/gag/aWjNpn2)
- - 🚯 [Today in South Africa, more rampant looting and protest action. No, not due to covid restrictions or anything like that, but because a corrupt ex president was FINALLY jailed and protestors want him released(Jacob Zuma).](http://9gag.com/gag/ajmMVG0)
- - 😝 [Caterpillar creates place to hide so predators can&#039;t kill while it eats](http://9gag.com/gag/anQWR4n)
+ - 🚖 [Sauce: Dude trust me](http://9gag.com/gag/aLpNz3P)
+ - 🚯 [Scotland pub when england lost](http://9gag.com/gag/agBZ1Dr)
+ - 🚯 [Caterpillar creates place to hide so predators can&#039;t kill while it eats](http://9gag.com/gag/anQWR4n)
+ - 😝 [23-year-old blonde London student Melissa Johnson in 1996 lifted her apron to give both players an eyeful and then proceeded to do the same for the royals before being taken away by a gentleman of the law. It was taken in a fun way and and was released without further action.](http://9gag.com/gag/aoMqyBA)
  - 🚅 [I feel so bad](http://9gag.com/gag/arMr3O5)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
