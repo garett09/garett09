@@ -171,11 +171,11 @@ Linux                    56 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How cork are produced](http://9gag.com/gag/aAbNEjL)
- - 🚯 [Old wc3 times](http://9gag.com/gag/aP3dooB)
- - 🚯 [Freedom isn&rsquo;t free](http://9gag.com/gag/aEpNAYN)
- - 😝 [It&rsquo;s coming Rome](http://9gag.com/gag/aB2NLoN)
- - 🚅 [Kids nowdays doesn&#039;t know how entertaining he is](http://9gag.com/gag/aO3N4M3)<!-- MEMES:END -->
+ - 🚖 [It&rsquo;s coming Rome](http://9gag.com/gag/aB2NLoN)
+ - 🚯 [Looted superstore in Durban, SA looks like something out of a zombie apocalypse movie](http://9gag.com/gag/apNj6eW)
+ - 🚯 [South Africa is about to prove South Park right again...](http://9gag.com/gag/a6E359N)
+ - 😝 [Old wc3 times](http://9gag.com/gag/aP3dooB)
+ - 🚅 [Freedom isn&rsquo;t free](http://9gag.com/gag/aEpNAYN)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
