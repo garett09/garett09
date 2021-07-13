@@ -180,11 +180,11 @@ Linux                    56 mins             █░░░░░░░░░░�
 ### 📣 Jokes of the hour
 
 <!-- JOKES:START -->
- - 🐔 [Sister Acts (12 Photos)](https://thechive.com/2021/07/13/sister-acts-10-photos/)
- - 🕉 [Daily Afternoon Randomness (49 Photos)](https://thechive.com/2021/07/13/daily-afternoon-randomness-49-photos-1306/)
- - 🕉 [Shark Week memes are BLOODY funny (32 Photos)](https://thechive.com/2021/07/13/shark-week-memes-are-bloody-funny-32-photos/)
- - 👾 [Smiles so bright they could light up your life (38 Photos)](https://thechive.com/2021/07/13/smiles-so-bright-they-could-light-up-your-life-38-photos/)
- - 🎈 [F-ck Hollywood…REAL sexy is a NERDY Chemical engineer that SMILEs (39 Photos)](https://thechive.com/2021/07/13/f-ck-hollywoodreal-sexy-is-a-nerdy-chemical-engineer-that-smiles-39-photos/)<!-- JOKES:END -->
+ - 🐔 [If you dabble in Dirty, we’ve got some goodies for you (40 Photos)](https://thechive.com/2021/07/13/if-you-dabble-in-dirty-weve-got-some-goodies-for-you-40-photos/)
+ - 🕉 [Everyone has their one Worst day on the job ever (18 GIFs)](https://thechive.com/2021/07/13/everyone-has-their-one-worst-day-on-the-job-ever-18-gifs/)
+ - 🕉 [Serial killers so disturbed they make Michael Myers look normal (16 Photos)](https://thechive.com/2021/07/13/serial-killers-so-disturbed-they-make-michael-myers-look-normal-16-photos/)
+ - 👾 [Sister Acts (12 Photos)](https://thechive.com/2021/07/13/sister-acts-10-photos/)
+ - 🎈 [Daily Afternoon Randomness (49 Photos)](https://thechive.com/2021/07/13/daily-afternoon-randomness-49-photos-1306/)<!-- JOKES:END -->
 
 ### 📣 Quotes of the hour
 
