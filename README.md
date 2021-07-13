@@ -171,11 +171,11 @@ Linux                    56 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Opening one of the greatest gifts I&rsquo;ve ever received, almost 25 years ago](http://9gag.com/gag/ad84BWZ)
- - 🚯 [This is the money cat... You&#039;ll get good fortune in the next week!](http://9gag.com/gag/aLpNLwz)
- - 🚯 [Those where the times my friends&hellip;](http://9gag.com/gag/aWjNpn2)
- - 😝 [I&rsquo;d like it](http://9gag.com/gag/aO3N8Lr)
- - 🚅 [&ldquo;What calm?! What calm?! C&rsquo;mon Giorgione!!&rdquo; *Big Giorgio](http://9gag.com/gag/aK6NGA6)<!-- MEMES:END -->
+ - 🚖 [The ultimate answer to riots in South Africa...](http://9gag.com/gag/aZ0VZ36)
+ - 🚯 [I&rsquo;d like it](http://9gag.com/gag/aO3N8Lr)
+ - 🚯 [&ldquo;What calm?! What calm?! C&rsquo;mon Giorgione!!&rdquo; *Big Giorgio](http://9gag.com/gag/aK6NGA6)
+ - 😝 [Those where the times my friends&hellip;](http://9gag.com/gag/aWjNpn2)
+ - 🚅 [Today in South Africa, more rampant looting and protest action. No, not due to covid restrictions or anything like that, but because a corrupt ex president was FINALLY jailed and protestors want him released(Jacob Zuma).](http://9gag.com/gag/ajmMVG0)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
