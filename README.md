@@ -171,11 +171,11 @@ Linux                    56 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A nation of wankers](http://9gag.com/gag/apNjP8D)
- - 🚯 [Co camping, they said... It Will be fun, they said. Limburg the Netherlands, today..](http://9gag.com/gag/a7E69PL)
+ - 🚖 [The New Canadian Space Program](http://9gag.com/gag/abVmx9p)
  - 🚯 [Breakfast of champions](http://9gag.com/gag/aNp2BnA)
- - 😝 [Cutting a wheel of cheese](http://9gag.com/gag/azMDOKB)
- - 🚅 [Blind Spot](http://9gag.com/gag/aqjpQYL)<!-- MEMES:END -->
+ - 🚯 [Whats is dis?](http://9gag.com/gag/a1rq2pG)
+ - 😝 [Rohirrim !!](http://9gag.com/gag/aoMqx3n)
+ - 🚅 [Cutting a wheel of cheese](http://9gag.com/gag/azMDOKB)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
