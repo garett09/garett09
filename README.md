@@ -171,11 +171,11 @@ Linux                    56 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [1+1=11](http://9gag.com/gag/a7E6enA)
- - 🚯 [Scotland pub when england lost](http://9gag.com/gag/agBZ1Dr)
- - 🚯 [Italians speaking in public](http://9gag.com/gag/amPbGg9)
- - 😝 [Work work](http://9gag.com/gag/aGpNBY0)
- - 🚅 [How cork are produced](http://9gag.com/gag/aAbNEjL)<!-- MEMES:END -->
+ - 🚖 [Italians speaking in public](http://9gag.com/gag/amPbGg9)
+ - 🚯 [Work work](http://9gag.com/gag/aGpNBY0)
+ - 🚯 [Freedom isn&rsquo;t free](http://9gag.com/gag/aEpNAYN)
+ - 😝 [How cork are produced](http://9gag.com/gag/aAbNEjL)
+ - 🚅 [It&rsquo;s coming Rome](http://9gag.com/gag/aB2NLoN)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
