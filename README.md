@@ -180,11 +180,11 @@ Linux                    56 mins             █░░░░░░░░░░�
 ### 📣 Jokes of the hour
 
 <!-- JOKES:START -->
- - 🐔 [Daily Afternoon Randomness (49 Photos)](https://thechive.com/2021/07/13/daily-afternoon-randomness-49-photos-1306/)
+ - 🐔 [Sister Acts (12 Photos)](https://thechive.com/2021/07/13/sister-acts-10-photos/)
+ - 🕉 [Daily Afternoon Randomness (49 Photos)](https://thechive.com/2021/07/13/daily-afternoon-randomness-49-photos-1306/)
  - 🕉 [Shark Week memes are BLOODY funny (32 Photos)](https://thechive.com/2021/07/13/shark-week-memes-are-bloody-funny-32-photos/)
- - 🕉 [Smiles so bright they could light up your life (38 Photos)](https://thechive.com/2021/07/13/smiles-so-bright-they-could-light-up-your-life-38-photos/)
- - 👾 [F-ck Hollywood…REAL sexy is a NERDY Chemical engineer that SMILEs (39 Photos)](https://thechive.com/2021/07/13/f-ck-hollywoodreal-sexy-is-a-nerdy-chemical-engineer-that-smiles-39-photos/)
- - 🎈 [Time for a little ‘Hip Hip… Bootaaaaaaaaay! (15 GIFs)](https://thechive.com/2021/07/13/time-for-a-little-hip-hip-bootaaaaaaaaay-15-gifs/)<!-- JOKES:END -->
+ - 👾 [Smiles so bright they could light up your life (38 Photos)](https://thechive.com/2021/07/13/smiles-so-bright-they-could-light-up-your-life-38-photos/)
+ - 🎈 [F-ck Hollywood…REAL sexy is a NERDY Chemical engineer that SMILEs (39 Photos)](https://thechive.com/2021/07/13/f-ck-hollywoodreal-sexy-is-a-nerdy-chemical-engineer-that-smiles-39-photos/)<!-- JOKES:END -->
 
 ### 📣 Quotes of the hour
 
