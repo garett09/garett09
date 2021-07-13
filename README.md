@@ -180,11 +180,11 @@ Linux                    56 mins             █░░░░░░░░░░�
 ### 📣 Jokes of the hour
 
 <!-- JOKES:START -->
- - 🐔 [Dad, what are you doing? It’s Shark Week! (20 GIFs)](https://thechive.com/2021/07/13/dad-what-are-you-doing-its-shark-week-20-gifs/)
- - 🕉 [These dresses have our brains in a fugue state (60 Photos)](https://thechive.com/2021/07/13/these-dresses-have-our-brains-in-a-fugue-state-60-photos/)
- - 🕉 [Side Boobs Are Always the Answer (40 Photos)](https://thechive.com/2021/07/13/side-boobs-are-always-the-answer-40-photos/)
- - 👾 [Your ‘Food Scam’ has left me feeling betrayed…and a little hungry (30 Photos)](https://thechive.com/2021/07/13/your-food-scam-has-left-me-feeling-betrayed-and-a-little-hungry-30-photos/)
- - 🎈 [Amazing Facts About Gorillas (17 Photos)](https://thechive.com/2021/07/13/amazing-facts-about-gorillas-17-photos/)<!-- JOKES:END -->
+ - 🐔 [Keep calm and tug on (41 Photos)](https://thechive.com/2021/07/13/keep-calm-and-tug-on-14/)
+ - 🕉 [These people are one step away from LOSING THEIR MINDS (26 Photos)](https://thechive.com/2021/07/13/these-people-are-one-step-away-from-losing-their-minds-26-photos/)
+ - 🕉 [Dad, what are you doing? It’s Shark Week! (20 GIFs)](https://thechive.com/2021/07/13/dad-what-are-you-doing-its-shark-week-20-gifs/)
+ - 👾 [These dresses have our brains in a fugue state (60 Photos)](https://thechive.com/2021/07/13/these-dresses-have-our-brains-in-a-fugue-state-60-photos/)
+ - 🎈 [Side Boobs Are Always the Answer (40 Photos)](https://thechive.com/2021/07/13/side-boobs-are-always-the-answer-40-photos/)<!-- JOKES:END -->
 
 ### 📣 Quotes of the hour
 
