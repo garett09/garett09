@@ -171,11 +171,11 @@ Linux                    56 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Thats why women lives longer than men](http://9gag.com/gag/a3EpAj5)
- - 🚯 [It do be like that](http://9gag.com/gag/azMDPbj)
- - 🚯 [Big huge bunny cuddle time](http://9gag.com/gag/aMKNmeV)
+ - 🚖 [Kids nowdays doesn&#039;t know how entertaining he is](http://9gag.com/gag/aO3N4M3)
+ - 🚯 [Work got me faffin&rsquo; around](http://9gag.com/gag/aK6NAXO)
+ - 🚯 [Sauce: Dude trust me](http://9gag.com/gag/aLpNz3P)
  - 😝 [Man your harpoons!](http://9gag.com/gag/a3EpAEQ)
- - 🚅 [Work got me faffin&rsquo; around](http://9gag.com/gag/aK6NAXO)<!-- MEMES:END -->
+ - 🚅 [It do be like that](http://9gag.com/gag/aqjpX5P)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
