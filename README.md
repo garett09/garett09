@@ -180,11 +180,11 @@ Linux                    56 mins             █░░░░░░░░░░�
 ### 📣 Jokes of the hour
 
 <!-- JOKES:START -->
- - 🐔 [Best MLB players to NEVER make an All-Star Game (11 Photos)](https://thechive.com/2021/07/12/best-mlb-players-to-never-make-an-all-star-game-11-photos/)
- - 🕉 [You wake up as US President tomorrow, what’s the first order of business? (20 Photos)](https://thechive.com/2021/07/12/you-wake-up-as-us-president-tomorrow-whats-the-first-order-of-business-20-photos/)
- - 🕉 [Beautiful is BEAUTIFUL…and really sexy too (52 Photos)](https://thechive.com/2021/07/12/beautiful-is-beautifuland-really-sexy-too/)
- - 👾 [Daily Afternoon Randomness (49 Photos)](https://thechive.com/2021/07/12/daily-afternoon-randomness-49-photos-1305/)
- - 🎈 [A petition for Jeff Bezos to buy and eat the Mona Lisa is gaining steam at over 16K signatures](https://thechive.com/2021/07/12/a-petition-for-jeff-bezos-to-buy-and-eat-the-mona-lisa-is-gaining-steam-at-over-16k-signatures/)<!-- JOKES:END -->
+ - 🐔 [Drunken Tinder Date from HELL screams her way through the night (Video)](https://thechive.com/2021/07/12/drunken-tinder-date-from-hell-screams-her-way-through-the-night-video/)
+ - 🕉 [Chivettes know how to turn that Monday frown upside down (35 Photos)](https://thechive.com/2021/07/12/chivettes-know-how-to-turn-that-monday-frown-upside-down-35-photos/)
+ - 🕉 [Best MLB players to NEVER make an All-Star Game (11 Photos)](https://thechive.com/2021/07/12/best-mlb-players-to-never-make-an-all-star-game-11-photos/)
+ - 👾 [You wake up as US President tomorrow, what’s the first order of business? (20 Photos)](https://thechive.com/2021/07/12/you-wake-up-as-us-president-tomorrow-whats-the-first-order-of-business-20-photos/)
+ - 🎈 [Beautiful is BEAUTIFUL…and really sexy too (52 Photos)](https://thechive.com/2021/07/12/beautiful-is-beautifuland-really-sexy-too/)<!-- JOKES:END -->
 
 ### 📣 Quotes of the hour
 
