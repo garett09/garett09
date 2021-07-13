@@ -172,10 +172,10 @@ Linux                    56 mins             █░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 🚖 [1+1=11](http://9gag.com/gag/a7E6enA)
- - 🚯 [Man your harpoons!](http://9gag.com/gag/a3EpAEQ)
- - 🚯 [How cork are produced](http://9gag.com/gag/aAbNEjL)
- - 😝 [Scotland pub when england lost](http://9gag.com/gag/agBZ1Dr)
- - 🚅 [Italians speaking in public](http://9gag.com/gag/amPbGg9)<!-- MEMES:END -->
+ - 🚯 [Scotland pub when england lost](http://9gag.com/gag/agBZ1Dr)
+ - 🚯 [Italians speaking in public](http://9gag.com/gag/amPbGg9)
+ - 😝 [Work work](http://9gag.com/gag/aGpNBY0)
+ - 🚅 [How cork are produced](http://9gag.com/gag/aAbNEjL)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
