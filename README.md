@@ -171,11 +171,11 @@ Linux                    56 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Italians speaking in public](http://9gag.com/gag/amPbGg9)
- - 🚯 [Work work](http://9gag.com/gag/aGpNBY0)
+ - 🚖 [How cork are produced](http://9gag.com/gag/aAbNEjL)
+ - 🚯 [Old wc3 times](http://9gag.com/gag/aP3dooB)
  - 🚯 [Freedom isn&rsquo;t free](http://9gag.com/gag/aEpNAYN)
- - 😝 [How cork are produced](http://9gag.com/gag/aAbNEjL)
- - 🚅 [It&rsquo;s coming Rome](http://9gag.com/gag/aB2NLoN)<!-- MEMES:END -->
+ - 😝 [It&rsquo;s coming Rome](http://9gag.com/gag/aB2NLoN)
+ - 🚅 [Kids nowdays doesn&#039;t know how entertaining he is](http://9gag.com/gag/aO3N4M3)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
