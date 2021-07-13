@@ -171,11 +171,11 @@ Linux                    56 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I feel so bad](http://9gag.com/gag/arMr3O5)
- - 🚯 [Italians speaking in public](http://9gag.com/gag/amPbGg9)
+ - 🚖 [Thats why women lives longer than men](http://9gag.com/gag/a3EpAj5)
  - 🚯 [It do be like that](http://9gag.com/gag/azMDPbj)
- - 😝 [Big huge bunny cuddle time](http://9gag.com/gag/aMKNmeV)
- - 🚅 [Who was your first TV/Movie crush? This was mine. Pink Ranger (Amy Jo Johnson)](http://9gag.com/gag/aZ0V1xn)<!-- MEMES:END -->
+ - 🚯 [Big huge bunny cuddle time](http://9gag.com/gag/aMKNmeV)
+ - 😝 [Man your harpoons!](http://9gag.com/gag/a3EpAEQ)
+ - 🚅 [Work got me faffin&rsquo; around](http://9gag.com/gag/aK6NAXO)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
