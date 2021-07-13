@@ -180,11 +180,11 @@ Linux                    56 mins             █░░░░░░░░░░�
 ### 📣 Jokes of the hour
 
 <!-- JOKES:START -->
- - 🐔 [Drunken Tinder Date from HELL screams her way through the night (Video)](https://thechive.com/2021/07/12/drunken-tinder-date-from-hell-screams-her-way-through-the-night-video/)
- - 🕉 [Chivettes know how to turn that Monday frown upside down (35 Photos)](https://thechive.com/2021/07/12/chivettes-know-how-to-turn-that-monday-frown-upside-down-35-photos/)
- - 🕉 [Best MLB players to NEVER make an All-Star Game (11 Photos)](https://thechive.com/2021/07/12/best-mlb-players-to-never-make-an-all-star-game-11-photos/)
- - 👾 [You wake up as US President tomorrow, what’s the first order of business? (20 Photos)](https://thechive.com/2021/07/12/you-wake-up-as-us-president-tomorrow-whats-the-first-order-of-business-20-photos/)
- - 🎈 [Beautiful is BEAUTIFUL…and really sexy too (52 Photos)](https://thechive.com/2021/07/12/beautiful-is-beautifuland-really-sexy-too/)<!-- JOKES:END -->
+ - 🐔 [Work in IT/Support Desk? These memes are for (and about) you (27 Photos)](https://thechive.com/2021/07/12/work-in-it-support-desk-these-memes-are-for-and-about-you/)
+ - 🕉 [Your driving is terrible, and you should feel terrible (30 Photos)](https://thechive.com/2021/07/12/your-driving-is-terrible-and-you-should-feel-terrible-30-photos/)
+ - 🕉 [Daily Dopamine Dump](http://i.thechive.com/dopamine-dump)
+ - 👾 [Drunken Tinder Date from HELL screams her way through the night (Video)](https://thechive.com/2021/07/12/drunken-tinder-date-from-hell-screams-her-way-through-the-night-video/)
+ - 🎈 [Chivettes know how to turn that Monday frown upside down (35 Photos)](https://thechive.com/2021/07/12/chivettes-know-how-to-turn-that-monday-frown-upside-down-35-photos/)<!-- JOKES:END -->
 
 ### 📣 Quotes of the hour
 
