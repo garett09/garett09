@@ -171,11 +171,11 @@ Linux                    56 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Being a guy is hard](http://9gag.com/gag/aqjpD4j)
- - 🚯 [#11/20 - Don&rsquo;t forget your Wednesday beer my dudes](http://9gag.com/gag/aqjpA1P)
- - 🚯 [The dream](http://9gag.com/gag/aqjpD7p)
- - 😝 [Loader working in extreme conditions](http://9gag.com/gag/aqjpD9Y)
- - 🚅 [Freedom, FOS, dissent. Kim - we don&#039;t do that here.](http://9gag.com/gag/a8EXzGd)<!-- MEMES:END -->
+ - 🚖 [Magic wand](http://9gag.com/gag/av5X91E)
+ - 🚯 [Not like my 20&rsquo;s have been a wild ride so far](http://9gag.com/gag/azMDQwz)
+ - 🚯 [&ldquo;Good afternoon, excuse me, to Bolonia?&rdquo;](http://9gag.com/gag/aP3dnAV)
+ - 😝 [Not everyone can afford healthy meals](http://9gag.com/gag/aGpNby0)
+ - 🚅 [#11/20 - Don&rsquo;t forget your Wednesday beer my dudes](http://9gag.com/gag/aqjpA1P)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
