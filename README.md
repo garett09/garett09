@@ -189,11 +189,11 @@ Linux                    56 mins             █░░░░░░░░░░�
 ### 📣 Quotes of the hour
 
 <!-- QUOTES:START -->
- - 🔥 ["It's the friends you can call up at 4 a.m. that matter." - Marlene Dietrich](https://www.brainyquote.com/quotes/marlene_dietrich_105242)
- - 🌮 ["If you have one true friend you have more than your share." - Thomas Fuller](https://www.brainyquote.com/quotes/thomas_fuller_151904)
- - 🌮 ["There are no strangers here; Only friends you haven't yet met." - William Butler Yeats](https://www.brainyquote.com/quotes/william_butler_yeats_383082)
- - 💯 ["The best time to make friends is before you need them." - Ethel Barrymore](https://www.brainyquote.com/quotes/ethel_barrymore_158797)
- - 💫 ["One of the most beautiful qualities of true friendship is to understand and to be understood." - Lucius Annaeus Seneca](https://www.brainyquote.com/quotes/lucius_annaeus_seneca_155059)<!-- QUOTES:END -->
+ - 🔥 ["A thing of beauty is a joy forever: its loveliness increases; it will never pass into nothingness." - John Keats](https://www.brainyquote.com/quotes/john_keats_109205)
+ - 🌮 ["Let us be grateful to people who make us happy, they are the charming gardeners who make our souls blossom." - Marcel Proust](https://www.brainyquote.com/quotes/marcel_proust_105251)
+ - 🌮 ["The best time to make friends is before you need them." - Ethel Barrymore](https://www.brainyquote.com/quotes/ethel_barrymore_158797)
+ - 💯 ["If you have one true friend you have more than your share." - Thomas Fuller](https://www.brainyquote.com/quotes/thomas_fuller_151904)
+ - 💫 ["The friend in my adversity I shall always cherish most. I can better trust those who helped to relieve the gloom of my dark hours than those who are so ready to enjoy with me the sunshine of my prosperity." - Ulysses S. Grant](https://www.brainyquote.com/quotes/ulysses_s_grant_132903)<!-- QUOTES:END -->
 
 --- 
 ### 💻 Workspace Spec
