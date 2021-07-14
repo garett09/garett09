@@ -171,11 +171,11 @@ Linux                    56 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Use big condenser lens to melt down the rock to the magma (about 1100 Celsius degree)](http://9gag.com/gag/apNjYyB)
- - 🚯 [Magic wand](http://9gag.com/gag/av5X91E)
+ - 🚖 [Be like what?! We be like WHAT?!](http://9gag.com/gag/a07WOZX)
  - 🚯 [Being a guy is hard](http://9gag.com/gag/aqjpD4j)
- - 😝 [Its happening to me slowly :(](http://9gag.com/gag/aDdNOxw)
- - 🚅 [A good idea](http://9gag.com/gag/azMDYRz)<!-- MEMES:END -->
+ - 🚯 [The dream](http://9gag.com/gag/aqjpD7p)
+ - 😝 [A good idea](http://9gag.com/gag/azMDYRz)
+ - 🚅 [Magic wand](http://9gag.com/gag/av5X91E)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
