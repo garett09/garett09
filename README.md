@@ -180,11 +180,11 @@ Linux                    56 mins             █░░░░░░░░░░�
 ### 📣 Jokes of the hour
 
 <!-- JOKES:START -->
- - 🐔 [Parenting can be truly f%$titleing weird sometimes (18 GIFs)](https://thechive.com/2021/07/14/theres-no-tougher-or-weirder-job-than-being-a-parent-18-gifs/)
+ - 🐔 [Colorful proof that cross-stitching is definitely not boring (33 Photos)](https://thechive.com/2021/07/14/colorful-proof-that-cross-stitching-is-definitely-not-boring-33-photos/)
+ - 🕉 [Parenting can be truly f%$titleing weird sometimes (18 GIFs)](https://thechive.com/2021/07/14/theres-no-tougher-or-weirder-job-than-being-a-parent-18-gifs/)
  - 🕉 [If you had to spend one day with a clone version of yourself, how would you go about it? (18 GIFs)](https://thechive.com/2021/07/14/if-you-had-to-spend-one-day-with-a-clone-version-of-yourself-how-would-you-go-about-it-18-gifs/)
- - 🕉 [Daily Morning Awesomeness (44 Photos)](https://thechive.com/2021/07/14/daily-morning-awesomeness-44-photos-172/)
- - 👾 [The most INSANE things strip club employees have ever heard (32 Photos)](https://thechive.com/2021/07/13/the-most-insane-things-strip-club-employees-have-ever-heard-32-photos/)
- - 🎈 [Stroke your HIGH-RES palette to a sexy Artist…Shelby Alexandra (28 HQ Photos)](https://thechive.com/2021/07/13/stroke-your-high-res-palette-to-a-sexy-artistshelby-alexandra-28-hq-photos/)<!-- JOKES:END -->
+ - 👾 [Daily Morning Awesomeness (44 Photos)](https://thechive.com/2021/07/14/daily-morning-awesomeness-44-photos-172/)
+ - 🎈 [The most INSANE things strip club employees have ever heard (32 Photos)](https://thechive.com/2021/07/13/the-most-insane-things-strip-club-employees-have-ever-heard-32-photos/)<!-- JOKES:END -->
 
 ### 📣 Quotes of the hour
 
