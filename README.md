@@ -180,11 +180,11 @@ Linux                    56 mins             █░░░░░░░░░░�
 ### 📣 Jokes of the hour
 
 <!-- JOKES:START -->
- - 🐔 [Men describe the things they WISH women knew](https://thechive.com/2021/07/13/men-describe-the-things-they-wish-women-knew/)
- - 🕉 [If you dabble in Dirty, we’ve got some goodies for you (40 Photos)](https://thechive.com/2021/07/13/if-you-dabble-in-dirty-weve-got-some-goodies-for-you-40-photos/)
- - 🕉 [Everyone has their one Worst day on the job ever (18 GIFs)](https://thechive.com/2021/07/13/everyone-has-their-one-worst-day-on-the-job-ever-18-gifs/)
- - 👾 [Serial killers so disturbed they make Michael Myers look normal (16 Photos)](https://thechive.com/2021/07/13/serial-killers-so-disturbed-they-make-michael-myers-look-normal-16-photos/)
- - 🎈 [Sister Acts (12 Photos)](https://thechive.com/2021/07/13/sister-acts-10-photos/)<!-- JOKES:END -->
+ - 🐔 [Parents speak the truth that only comes with experience (22 Photos)](https://thechive.com/2021/07/13/parents-speak-the-truth-that-only-comes-with-experience-22-photos/)
+ - 🕉 [Daily Dopamine Dump](http://i.thechive.com/dopamine-dump)
+ - 🕉 [Italy beats England and the memes are even better than the outcome (30 Photos)](https://thechive.com/2021/07/13/italy-beats-england-and-the-memes-are-even-better-than-the-outcome-30-photos/)
+ - 👾 [Men describe the things they WISH women knew](https://thechive.com/2021/07/13/men-describe-the-things-they-wish-women-knew/)
+ - 🎈 [If you dabble in Dirty, we’ve got some goodies for you (40 Photos)](https://thechive.com/2021/07/13/if-you-dabble-in-dirty-weve-got-some-goodies-for-you-40-photos/)<!-- JOKES:END -->
 
 ### 📣 Quotes of the hour
 
