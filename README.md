@@ -173,8 +173,8 @@ Linux                    56 mins             █░░░░░░░░░░�
 <!-- MEMES:START -->
  - 🚖 [Cutting a wheel of cheese](http://9gag.com/gag/azMDOKB)
  - 🚯 [Co camping, they said... It Will be fun, they said. Limburg the Netherlands, today..](http://9gag.com/gag/a7E69PL)
- - 🚯 [The New Canadian Space Program](http://9gag.com/gag/abVmx9p)
- - 😝 [South Africa-Mamma beating some Looters](http://9gag.com/gag/aK6NWKQ)
+ - 🚯 [South Africa-Mamma beating some Looters](http://9gag.com/gag/aK6NWKQ)
+ - 😝 [The New Canadian Space Program](http://9gag.com/gag/abVmx9p)
  - 🚅 [Whats is dis?](http://9gag.com/gag/a1rq2pG)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
