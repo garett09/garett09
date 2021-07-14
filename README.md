@@ -171,11 +171,11 @@ Linux                    56 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Superhero VR](http://9gag.com/gag/a3Ep2ze)
- - 🚯 [Co camping, they said... It Will be fun, they said. Limburg the Netherlands, today..](http://9gag.com/gag/a7E69PL)
- - 🚯 [South Africa-Mamma beating some Looters](http://9gag.com/gag/aK6NWKQ)
- - 😝 [The New Canadian Space Program](http://9gag.com/gag/abVmx9p)
- - 🚅 [Whats is dis?](http://9gag.com/gag/a1rq2pG)<!-- MEMES:END -->
+ - 🚖 [South Africa-Mamma beating some Looters](http://9gag.com/gag/aK6NWKQ)
+ - 🚯 [Superhero VR](http://9gag.com/gag/a3Ep2ze)
+ - 🚯 [The New Canadian Space Program](http://9gag.com/gag/abVmx9p)
+ - 😝 [Whats is dis?](http://9gag.com/gag/a1rq2pG)
+ - 🚅 [Curb your fat acceptance.](http://9gag.com/gag/a5Eyz9G)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
