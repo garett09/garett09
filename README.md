@@ -180,11 +180,11 @@ Linux                    56 mins             █░░░░░░░░░░�
 ### 📣 Jokes of the hour
 
 <!-- JOKES:START -->
- - 🐔 [Parents speak the truth that only comes with experience (22 Photos)](https://thechive.com/2021/07/13/parents-speak-the-truth-that-only-comes-with-experience-22-photos/)
- - 🕉 [Daily Dopamine Dump](http://i.thechive.com/dopamine-dump)
- - 🕉 [Italy beats England and the memes are even better than the outcome (30 Photos)](https://thechive.com/2021/07/13/italy-beats-england-and-the-memes-are-even-better-than-the-outcome-30-photos/)
- - 👾 [Men describe the things they WISH women knew](https://thechive.com/2021/07/13/men-describe-the-things-they-wish-women-knew/)
- - 🎈 [If you dabble in Dirty, we’ve got some goodies for you (40 Photos)](https://thechive.com/2021/07/13/if-you-dabble-in-dirty-weve-got-some-goodies-for-you-40-photos/)<!-- JOKES:END -->
+ - 🐔 [SMOKING 21 Year Old Starts OnlyFans After Leaving Her Parent’s House](https://thechive.com/2021/07/13/smoking-21-year-old-starts-onlyfans-after-leaving-her-parents-house/)
+ - 🕉 [Skills that *definitely* aren’t “safe for work” (19 GIFs)](https://thechive.com/2021/07/13/skills-that-definitely-arent-safe-for-work/)
+ - 🕉 [Parents speak the truth that only comes with experience (22 Photos)](https://thechive.com/2021/07/13/parents-speak-the-truth-that-only-comes-with-experience-22-photos/)
+ - 👾 [Daily Dopamine Dump](http://i.thechive.com/dopamine-dump)
+ - 🎈 [Italy beats England and the memes are even better than the outcome (30 Photos)](https://thechive.com/2021/07/13/italy-beats-england-and-the-memes-are-even-better-than-the-outcome-30-photos/)<!-- JOKES:END -->
 
 ### 📣 Quotes of the hour
 
