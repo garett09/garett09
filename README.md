@@ -171,11 +171,11 @@ Linux                    56 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The Worst Person on Earth](http://9gag.com/gag/a07WxoZ)
- - 🚯 [Not like my 20&rsquo;s have been a wild ride so far](http://9gag.com/gag/azMDQwz)
- - 🚯 [This one sparks joy](http://9gag.com/gag/ad84bAV)
- - 😝 [Dear southafricans](http://9gag.com/gag/aYondD2)
- - 🚅 [UFC pre-fight staredown](http://9gag.com/gag/a4ErxPv)<!-- MEMES:END -->
+ - 🚖 [Humans are somehow awesome](http://9gag.com/gag/awMGGgR)
+ - 🚯 [Right now in west Germany](http://9gag.com/gag/ajmMMLp)
+ - 🚯 [UFC pre-fight staredown](http://9gag.com/gag/a4ErxPv)
+ - 😝 [Germany again](http://9gag.com/gag/abVmdwr)
+ - 🚅 [DELET-A DIS!](http://9gag.com/gag/aP3ddnP)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
