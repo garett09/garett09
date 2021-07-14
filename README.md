@@ -171,11 +171,11 @@ Linux                    56 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Herego, another tiktoker](http://9gag.com/gag/a4ErW4Z)
- - 🚯 [Use big condenser lens to melt down the rock to the magma (about 1100 Celsius degree)](http://9gag.com/gag/apNjYyB)
- - 🚯 [How do I speak with people naturally, without trying so hard to keep simple conversation going?](http://9gag.com/gag/aWjNDPK)
- - 😝 [This is just pure gold](http://9gag.com/gag/a9ENOBL)
- - 🚅 [A lighting strike hits and destroys a mural of George Floyd.](http://9gag.com/gag/aDdNQWB)<!-- MEMES:END -->
+ - 🚖 [Use big condenser lens to melt down the rock to the magma (about 1100 Celsius degree)](http://9gag.com/gag/apNjYyB)
+ - 🚯 [Magic wand](http://9gag.com/gag/av5X91E)
+ - 🚯 [Being a guy is hard](http://9gag.com/gag/aqjpD4j)
+ - 😝 [Its happening to me slowly :(](http://9gag.com/gag/aDdNOxw)
+ - 🚅 [A good idea](http://9gag.com/gag/azMDYRz)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
