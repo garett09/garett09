@@ -171,11 +171,11 @@ Linux                    56 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Trying to stand on a slippery rock](http://9gag.com/gag/amPbVpj)
- - 🚯 [One](http://9gag.com/gag/aLpNX9V)
- - 🚯 [RIP Liam....friendzoned](http://9gag.com/gag/awMGdMD)
- - 😝 [Never touch a horse from behind](http://9gag.com/gag/a27jbMD)
- - 🚅 [And they say white people have no culture. Yeah right.](http://9gag.com/gag/aWjNbZA)<!-- MEMES:END -->
+ - 🚖 [Herego, another tiktoker](http://9gag.com/gag/a4ErW4Z)
+ - 🚯 [Trying to stand on a slippery rock](http://9gag.com/gag/amPbVpj)
+ - 🚯 [Never touch a horse from behind](http://9gag.com/gag/a27jbMD)
+ - 😝 [It happens in anime, it happens in life](http://9gag.com/gag/azMDYLb)
+ - 🚅 [This represents Brazil more than Carnaval and Samba.](http://9gag.com/gag/aqjpWdZ)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
