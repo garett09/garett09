@@ -171,11 +171,11 @@ Linux                    56 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Guy single-handedly solved the flood. Not all heroes wear capes.](http://9gag.com/gag/arMrBD7)
- - 🚯 [It happens in anime, it happens in life](http://9gag.com/gag/azMDYLb)
+ - 🚖 [How do I speak with people naturally, without trying so hard to keep simple conversation going?](http://9gag.com/gag/aWjNDPK)
  - 🚯 [This is the worst, especially at work](http://9gag.com/gag/aMKNOxW)
- - 😝 [What a shame](http://9gag.com/gag/amPbpxV)
- - 🚅 [Topology demonstrations](http://9gag.com/gag/aO3N1A6)<!-- MEMES:END -->
+ - 🚯 [Idiot who doesn&rsquo;t know side mirrors are there for a reason](http://9gag.com/gag/ayMVQeV)
+ - 😝 [Topology demonstrations](http://9gag.com/gag/aO3N1A6)
+ - 🚅 [This is just pure gold](http://9gag.com/gag/a9ENOBL)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
