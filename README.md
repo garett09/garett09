@@ -171,7 +171,7 @@ Linux                    56 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Cutting a wheel of cheese](http://9gag.com/gag/azMDOKB)
+ - 🚖 [Superhero VR](http://9gag.com/gag/a3Ep2ze)
  - 🚯 [Co camping, they said... It Will be fun, they said. Limburg the Netherlands, today..](http://9gag.com/gag/a7E69PL)
  - 🚯 [South Africa-Mamma beating some Looters](http://9gag.com/gag/aK6NWKQ)
  - 😝 [The New Canadian Space Program](http://9gag.com/gag/abVmx9p)
