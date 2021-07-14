@@ -180,11 +180,11 @@ Linux                    56 mins             █░░░░░░░░░░�
 ### 📣 Jokes of the hour
 
 <!-- JOKES:START -->
- - 🐔 [Wait… hold up a second (25 photos)](https://thechive.com/2021/07/14/wait-hold-up-a-second-25-photos/)
- - 🕉 [The things guys do that piss each other off the most (18 GIFs)](https://thechive.com/2021/07/14/the-things-guys-do-that-piss-each-other-off-the-most-18-gifs/)
- - 🕉 [Photobomb level: Expert (30 Photos)](https://thechive.com/2021/07/14/photobomb-level-expert-30-photos-2/)
- - 👾 [Food-shaped cars are an insult to snacks, taste, and vehicles everywhere (35 Photos)](https://thechive.com/2021/07/14/food-shaped-cars-are-an-insult-to-snacks-taste-and-vehicles-everywhere-35-photos/)
- - 🎈 [You gotta let those puppies off the leash every now and then (36 Photos)](https://thechive.com/2021/07/14/you-gotta-let-those-puppies-off-the-leash-every-now-and-then-36-photos/)<!-- JOKES:END -->
+ - 🐔 [Man tries to find out if he’s “the a**hole” for his response to his friend’s open marriage woes (14 GIFs and Photos)](https://thechive.com/2021/07/14/man-tries-to-find-out-if-hes-the-ahole-for-his-response-to-his-friends-open-marriage-woes/)
+ - 🕉 [The call of the Great Outdoors sure is a seductive one (55 Photos)](https://thechive.com/2021/07/14/the-call-of-the-great-outdoors-sure-is-seductive-55-photos/)
+ - 🕉 [Only BUNs can move like that (20 GIFs)](https://thechive.com/2021/07/14/only-buns-can-move-like-that-20-gifs-2/)
+ - 👾 [Wait… hold up a second (25 photos)](https://thechive.com/2021/07/14/wait-hold-up-a-second-25-photos/)
+ - 🎈 [The things guys do that piss each other off the most (18 GIFs)](https://thechive.com/2021/07/14/the-things-guys-do-that-piss-each-other-off-the-most-18-gifs/)<!-- JOKES:END -->
 
 ### 📣 Quotes of the hour
 
