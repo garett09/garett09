@@ -171,11 +171,11 @@ Linux                    56 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Whats is dis?](http://9gag.com/gag/a1rq2pG)
- - 🚯 [Never touch a horse from behind](http://9gag.com/gag/a27jbMD)
- - 🚯 [Curb your fat acceptance.](http://9gag.com/gag/a5Eyz9G)
- - 😝 [One](http://9gag.com/gag/aLpNX9V)
- - 🚅 [Topology demonstrations](http://9gag.com/gag/aO3N1A6)<!-- MEMES:END -->
+ - 🚖 [Trying to stand on a slippery rock](http://9gag.com/gag/amPbVpj)
+ - 🚯 [One](http://9gag.com/gag/aLpNX9V)
+ - 🚯 [RIP Liam....friendzoned](http://9gag.com/gag/awMGdMD)
+ - 😝 [Never touch a horse from behind](http://9gag.com/gag/a27jbMD)
+ - 🚅 [And they say white people have no culture. Yeah right.](http://9gag.com/gag/aWjNbZA)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
