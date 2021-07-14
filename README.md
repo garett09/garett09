@@ -180,11 +180,11 @@ Linux                    56 mins             █░░░░░░░░░░�
 ### 📣 Jokes of the hour
 
 <!-- JOKES:START -->
- - 🐔 [Tweets that capture the lives of our Dogs & Cats (33 Photos)](https://thechive.com/2021/07/14/tweets-that-capture-the-lives-of-our-dogs-cats/)
- - 🕉 [Colorful proof that cross-stitching is definitely not boring (33 Photos)](https://thechive.com/2021/07/14/colorful-proof-that-cross-stitching-is-definitely-not-boring-33-photos/)
- - 🕉 [Parenting can be truly f%$titleing weird sometimes (18 GIFs)](https://thechive.com/2021/07/14/theres-no-tougher-or-weirder-job-than-being-a-parent-18-gifs/)
- - 👾 [If you had to spend one day with a clone version of yourself, how would you go about it? (18 GIFs)](https://thechive.com/2021/07/14/if-you-had-to-spend-one-day-with-a-clone-version-of-yourself-how-would-you-go-about-it-18-gifs/)
- - 🎈 [Daily Morning Awesomeness (44 Photos)](https://thechive.com/2021/07/14/daily-morning-awesomeness-44-photos-172/)<!-- JOKES:END -->
+ - 🐔 [Food-shaped cars are an insult to snacks, taste, and vehicles everywhere (35 Photos)](https://thechive.com/2021/07/14/food-shaped-cars-are-an-insult-to-snacks-taste-and-vehicles-everywhere-35-photos/)
+ - 🕉 [You gotta let those puppies off the leash every now and then (36 Photos)](https://thechive.com/2021/07/14/you-gotta-let-those-puppies-off-the-leash-every-now-and-then-36-photos/)
+ - 🕉 [Tweets that capture the lives of our Dogs & Cats (33 Photos)](https://thechive.com/2021/07/14/tweets-that-capture-the-lives-of-our-dogs-cats/)
+ - 👾 [Colorful proof that cross-stitching is definitely not boring (33 Photos)](https://thechive.com/2021/07/14/colorful-proof-that-cross-stitching-is-definitely-not-boring-33-photos/)
+ - 🎈 [Parenting can be truly f%$titleing weird sometimes (18 GIFs)](https://thechive.com/2021/07/14/theres-no-tougher-or-weirder-job-than-being-a-parent-18-gifs/)<!-- JOKES:END -->
 
 ### 📣 Quotes of the hour
 
