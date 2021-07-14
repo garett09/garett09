@@ -171,10 +171,10 @@ Linux                    56 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [UFC pre-fight staredown](http://9gag.com/gag/a4ErxPv)
- - 🚯 [A lighting strike hits and destroys a mural of George Floyd.](http://9gag.com/gag/aDdNQWB)
- - 🚯 [&ldquo;Good afternoon, excuse me, to Bolonia?&rdquo;](http://9gag.com/gag/aP3dnAV)
- - 😝 [#11/20 - Don&rsquo;t forget your Wednesday beer my dudes](http://9gag.com/gag/aqjpA1P)
+ - 🚖 [&ldquo;Good afternoon, excuse me, to Bolonia?&rdquo;](http://9gag.com/gag/aP3dnAV)
+ - 🚯 [#11/20 - Don&rsquo;t forget your Wednesday beer my dudes](http://9gag.com/gag/aqjpA1P)
+ - 🚯 [Freedom, FOS, dissent. Kim - we don&#039;t do that here.](http://9gag.com/gag/a8EXzGd)
+ - 😝 [Not like my 20&rsquo;s have been a wild ride so far](http://9gag.com/gag/azMDQwz)
  - 🚅 [This one sparks joy](http://9gag.com/gag/ad84bAV)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
