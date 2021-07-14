@@ -171,11 +171,11 @@ Linux                    56 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [&ldquo;Good afternoon, excuse me, to Bolonia?&rdquo;](http://9gag.com/gag/aP3dnAV)
- - 🚯 [#11/20 - Don&rsquo;t forget your Wednesday beer my dudes](http://9gag.com/gag/aqjpA1P)
- - 🚯 [Freedom, FOS, dissent. Kim - we don&#039;t do that here.](http://9gag.com/gag/a8EXzGd)
- - 😝 [Not like my 20&rsquo;s have been a wild ride so far](http://9gag.com/gag/azMDQwz)
- - 🚅 [This one sparks joy](http://9gag.com/gag/ad84bAV)<!-- MEMES:END -->
+ - 🚖 [Dear southafricans](http://9gag.com/gag/aYondD2)
+ - 🚯 [Vive le France](http://9gag.com/gag/aZ0VRgQ)
+ - 🚯 [Not like my 20&rsquo;s have been a wild ride so far](http://9gag.com/gag/azMDQwz)
+ - 😝 [This one sparks joy](http://9gag.com/gag/ad84bAV)
+ - 🚅 [Germany again](http://9gag.com/gag/abVmdwr)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
