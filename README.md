@@ -171,11 +171,11 @@ Linux                    56 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Herego, another tiktoker](http://9gag.com/gag/a4ErW4Z)
- - 🚯 [Trying to stand on a slippery rock](http://9gag.com/gag/amPbVpj)
- - 🚯 [Never touch a horse from behind](http://9gag.com/gag/a27jbMD)
+ - 🚖 [This represents Brazil more than Carnaval and Samba.](http://9gag.com/gag/aqjpWdZ)
+ - 🚯 [This is the worst, especially at work](http://9gag.com/gag/aMKNOxW)
+ - 🚯 [Guy single-handedly solved the flood. Not all heroes wear capes.](http://9gag.com/gag/arMrBD7)
  - 😝 [It happens in anime, it happens in life](http://9gag.com/gag/azMDYLb)
- - 🚅 [This represents Brazil more than Carnaval and Samba.](http://9gag.com/gag/aqjpWdZ)<!-- MEMES:END -->
+ - 🚅 [Herego, another tiktoker](http://9gag.com/gag/a4ErW4Z)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
