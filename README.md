@@ -171,11 +171,11 @@ Linux                    56 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This represents Brazil more than Carnaval and Samba.](http://9gag.com/gag/aqjpWdZ)
+ - 🚖 [Guy single-handedly solved the flood. Not all heroes wear capes.](http://9gag.com/gag/arMrBD7)
+ - 🚯 [It happens in anime, it happens in life](http://9gag.com/gag/azMDYLb)
  - 🚯 [This is the worst, especially at work](http://9gag.com/gag/aMKNOxW)
- - 🚯 [Guy single-handedly solved the flood. Not all heroes wear capes.](http://9gag.com/gag/arMrBD7)
- - 😝 [It happens in anime, it happens in life](http://9gag.com/gag/azMDYLb)
- - 🚅 [Herego, another tiktoker](http://9gag.com/gag/a4ErW4Z)<!-- MEMES:END -->
+ - 😝 [What a shame](http://9gag.com/gag/amPbpxV)
+ - 🚅 [Topology demonstrations](http://9gag.com/gag/aO3N1A6)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
