@@ -189,11 +189,11 @@ Linux                    56 mins             █░░░░░░░░░░�
 ### 📣 Quotes of the hour
 
 <!-- QUOTES:START -->
- - 🔥 ["Friends and good manners will carry you where money won't go." - Margaret Walker](https://www.brainyquote.com/quotes/margaret_walker_189840)
- - 🌮 ["The best time to make friends is before you need them." - Ethel Barrymore](https://www.brainyquote.com/quotes/ethel_barrymore_158797)
- - 🌮 ["It takes a long time to grow an old friend." - John Leonard](https://www.brainyquote.com/quotes/john_leonard_105249)
- - 💯 ["A thing of beauty is a joy forever: its loveliness increases; it will never pass into nothingness." - John Keats](https://www.brainyquote.com/quotes/john_keats_109205)
- - 💫 ["No person is your friend who demands your silence, or denies your right to grow." - Alice Walker](https://www.brainyquote.com/quotes/alice_walker_131842)<!-- QUOTES:END -->
+ - 🔥 ["No person is your friend who demands your silence, or denies your right to grow." - Alice Walker](https://www.brainyquote.com/quotes/alice_walker_131842)
+ - 🌮 ["I'm not sure what the future holds but I do know that I'm going to be positive and not wake up feeling desperate. As my dad said 'Nic, it is what it is, it's not what it should have been, not what it could have been, it is what it is.'" - Nicole Kidman](https://www.brainyquote.com/quotes/nicole_kidman_410939)
+ - 🌮 ["A thing of beauty is a joy forever: its loveliness increases; it will never pass into nothingness." - John Keats](https://www.brainyquote.com/quotes/john_keats_109205)
+ - 💯 ["Friends and good manners will carry you where money won't go." - Margaret Walker](https://www.brainyquote.com/quotes/margaret_walker_189840)
+ - 💫 ["It takes a long time to grow an old friend." - John Leonard](https://www.brainyquote.com/quotes/john_leonard_105249)<!-- QUOTES:END -->
 
 --- 
 ### 💻 Workspace Spec
