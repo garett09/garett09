@@ -173,8 +173,8 @@ Linux                    56 mins             █░░░░░░░░░░�
 <!-- MEMES:START -->
  - 🚖 [Be like what?! We be like WHAT?!](http://9gag.com/gag/a07WOZX)
  - 🚯 [Being a guy is hard](http://9gag.com/gag/aqjpD4j)
- - 🚯 [The dream](http://9gag.com/gag/aqjpD7p)
- - 😝 [A good idea](http://9gag.com/gag/azMDYRz)
+ - 🚯 [A good idea](http://9gag.com/gag/azMDYRz)
+ - 😝 [The dream](http://9gag.com/gag/aqjpD7p)
  - 🚅 [Magic wand](http://9gag.com/gag/av5X91E)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
