@@ -171,11 +171,11 @@ Linux                    56 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Humans are somehow awesome](http://9gag.com/gag/awMGGgR)
- - 🚯 [Right now in west Germany](http://9gag.com/gag/ajmMMLp)
- - 🚯 [UFC pre-fight staredown](http://9gag.com/gag/a4ErxPv)
- - 😝 [Germany again](http://9gag.com/gag/abVmdwr)
- - 🚅 [DELET-A DIS!](http://9gag.com/gag/aP3ddnP)<!-- MEMES:END -->
+ - 🚖 [UFC pre-fight staredown](http://9gag.com/gag/a4ErxPv)
+ - 🚯 [So, not only were the shops looted, and the rest of the country looking like crap already with the riots. But they stole all the ATMs? Only in South Africa.](http://9gag.com/gag/aDdNNoZ)
+ - 🚯 [Germany again](http://9gag.com/gag/abVmdwr)
+ - 😝 [Right now in west Germany](http://9gag.com/gag/ajmMMLp)
+ - 🚅 [Arrrrrrrrrrrr](http://9gag.com/gag/apNjdPn)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
