@@ -180,11 +180,11 @@ Linux                    56 mins             █░░░░░░░░░░�
 ### 📣 Jokes of the hour
 
 <!-- JOKES:START -->
- - 🐔 [‘Karen’ has an absolutely INSANE meltdown in Victoria’s Secret after taking a swipe at another customer](https://thechive.com/2021/07/14/karen-has-an-absolutely-insane-meltdown-in-victorias-secret-after-taking-a-swipe-at-another-customer/)
+ - 🐔 [Independence, authority, style, and these Variant tees](https://www.thechivery.com/collections/new?utm_source=thechivehomepage&utm_medium=loop2&utm_campaign=variant_071421)
+ - 🕉 [‘Karen’ has an absolutely INSANE meltdown in Victoria’s Secret after taking a swipe at another customer](https://thechive.com/2021/07/14/karen-has-an-absolutely-insane-meltdown-in-victorias-secret-after-taking-a-swipe-at-another-customer/)
  - 🕉 [People who were absolutely ROASTED by…themselves!? (30 Photos)](https://thechive.com/2021/07/14/people-who-were-absolutely-roasted-bythemselves-30-photos/)
- - 🕉 [Man tries to find out if he’s “the a**hole” for his response to his friend’s open marriage woes (14 GIFs and Photos)](https://thechive.com/2021/07/14/man-tries-to-find-out-if-hes-the-ahole-for-his-response-to-his-friends-open-marriage-woes/)
- - 👾 [The call of the Great Outdoors sure is a seductive one (55 Photos)](https://thechive.com/2021/07/14/the-call-of-the-great-outdoors-sure-is-seductive-55-photos/)
- - 🎈 [Only BUNs can move like that (20 GIFs)](https://thechive.com/2021/07/14/only-buns-can-move-like-that-20-gifs-2/)<!-- JOKES:END -->
+ - 👾 [Man tries to find out if he’s “the a**hole” for his response to his friend’s open marriage woes (14 GIFs and Photos)](https://thechive.com/2021/07/14/man-tries-to-find-out-if-hes-the-ahole-for-his-response-to-his-friends-open-marriage-woes/)
+ - 🎈 [The call of the Great Outdoors sure is a seductive one (55 Photos)](https://thechive.com/2021/07/14/the-call-of-the-great-outdoors-sure-is-seductive-55-photos/)<!-- JOKES:END -->
 
 ### 📣 Quotes of the hour
 
