@@ -171,11 +171,11 @@ Linux                    56 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Superhero VR](http://9gag.com/gag/a3Ep2ze)
- - 🚯 [One](http://9gag.com/gag/aLpNX9V)
- - 🚯 [The New Canadian Space Program](http://9gag.com/gag/abVmx9p)
- - 😝 [Whats is dis?](http://9gag.com/gag/a1rq2pG)
- - 🚅 [Curb your fat acceptance.](http://9gag.com/gag/a5Eyz9G)<!-- MEMES:END -->
+ - 🚖 [Whats is dis?](http://9gag.com/gag/a1rq2pG)
+ - 🚯 [Never touch a horse from behind](http://9gag.com/gag/a27jbMD)
+ - 🚯 [Curb your fat acceptance.](http://9gag.com/gag/a5Eyz9G)
+ - 😝 [One](http://9gag.com/gag/aLpNX9V)
+ - 🚅 [Topology demonstrations](http://9gag.com/gag/aO3N1A6)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
