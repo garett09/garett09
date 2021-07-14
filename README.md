@@ -171,11 +171,11 @@ Linux                    56 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Magic wand](http://9gag.com/gag/av5X91E)
- - 🚯 [Not like my 20&rsquo;s have been a wild ride so far](http://9gag.com/gag/azMDQwz)
- - 🚯 [&ldquo;Good afternoon, excuse me, to Bolonia?&rdquo;](http://9gag.com/gag/aP3dnAV)
- - 😝 [Not everyone can afford healthy meals](http://9gag.com/gag/aGpNby0)
- - 🚅 [#11/20 - Don&rsquo;t forget your Wednesday beer my dudes](http://9gag.com/gag/aqjpA1P)<!-- MEMES:END -->
+ - 🚖 [Netflix has done it again](http://9gag.com/gag/aAbNmw0)
+ - 🚯 [Yes](http://9gag.com/gag/aDdNQGB)
+ - 🚯 [Not everyone can afford healthy meals](http://9gag.com/gag/aGpNby0)
+ - 😝 [This one sparks joy](http://9gag.com/gag/ad84bAV)
+ - 🚅 [&ldquo;Good afternoon, excuse me, to Bolonia?&rdquo;](http://9gag.com/gag/aP3dnAV)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
