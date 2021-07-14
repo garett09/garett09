@@ -180,11 +180,11 @@ Linux                    56 mins             █░░░░░░░░░░�
 ### 📣 Jokes of the hour
 
 <!-- JOKES:START -->
- - 🐔 [SMOKING 21 Year Old Starts OnlyFans After Leaving Her Parent’s House](https://thechive.com/2021/07/13/smoking-21-year-old-starts-onlyfans-after-leaving-her-parents-house/)
- - 🕉 [Skills that *definitely* aren’t “safe for work” (19 GIFs)](https://thechive.com/2021/07/13/skills-that-definitely-arent-safe-for-work/)
- - 🕉 [Parents speak the truth that only comes with experience (22 Photos)](https://thechive.com/2021/07/13/parents-speak-the-truth-that-only-comes-with-experience-22-photos/)
- - 👾 [Daily Dopamine Dump](http://i.thechive.com/dopamine-dump)
- - 🎈 [Italy beats England and the memes are even better than the outcome (30 Photos)](https://thechive.com/2021/07/13/italy-beats-england-and-the-memes-are-even-better-than-the-outcome-30-photos/)<!-- JOKES:END -->
+ - 🐔 [Stroke your HIGH-RES palette to a sexy Artist…Shelby Alexandra (28 HQ Photos)](https://thechive.com/2021/07/13/stroke-your-high-res-palette-to-a-sexy-artistshelby-alexandra-28-hq-photos/)
+ - 🕉 [The most INSANE things strip club employees have ever heard (32 Photos)](https://thechive.com/2021/07/13/the-most-insane-things-strip-club-employees-have-ever-heard-32-photos/)
+ - 🕉 [SMOKING 21 Year Old Starts OnlyFans After Leaving Her Parent’s House](https://thechive.com/2021/07/13/smoking-21-year-old-starts-onlyfans-after-leaving-her-parents-house/)
+ - 👾 [Skills that *definitely* aren’t “safe for work” (19 GIFs)](https://thechive.com/2021/07/13/skills-that-definitely-arent-safe-for-work/)
+ - 🎈 [Parents speak the truth that only comes with experience (22 Photos)](https://thechive.com/2021/07/13/parents-speak-the-truth-that-only-comes-with-experience-22-photos/)<!-- JOKES:END -->
 
 ### 📣 Quotes of the hour
 
