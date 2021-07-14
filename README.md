@@ -171,11 +171,11 @@ Linux                    56 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The New Canadian Space Program](http://9gag.com/gag/abVmx9p)
- - 🚯 [Rohirrim !!](http://9gag.com/gag/aoMqx3n)
- - 🚯 [Cutting a wheel of cheese](http://9gag.com/gag/azMDOKB)
- - 😝 [RIP Liam....friendzoned](http://9gag.com/gag/awMGdMD)
- - 🚅 [Co camping, they said... It Will be fun, they said. Limburg the Netherlands, today..](http://9gag.com/gag/a7E69PL)<!-- MEMES:END -->
+ - 🚖 [Cutting a wheel of cheese](http://9gag.com/gag/azMDOKB)
+ - 🚯 [Co camping, they said... It Will be fun, they said. Limburg the Netherlands, today..](http://9gag.com/gag/a7E69PL)
+ - 🚯 [The New Canadian Space Program](http://9gag.com/gag/abVmx9p)
+ - 😝 [South Africa-Mamma beating some Looters](http://9gag.com/gag/aK6NWKQ)
+ - 🚅 [Whats is dis?](http://9gag.com/gag/a1rq2pG)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
