@@ -180,11 +180,11 @@ Linux                    56 mins             █░░░░░░░░░░�
 ### 📣 Jokes of the hour
 
 <!-- JOKES:START -->
- - 🐔 [The best ways to completely BLOW HER MIND during sex (18 Photos)](https://thechive.com/2021/07/14/the-best-ways-to-completely-blow-her-mind-during-sex-18-photos/)
+ - 🐔 [Daily Afternoon Randomness (49 Photos)](https://thechive.com/2021/07/14/daily-afternoon-randomness-49-photos-1307/)
+ - 🕉 [The best ways to completely BLOW HER MIND during sex (18 Photos)](https://thechive.com/2021/07/14/the-best-ways-to-completely-blow-her-mind-during-sex-18-photos/)
  - 🕉 [Fun can be had with a FLAMETHROWER (22 GIFs)](https://thechive.com/2021/07/14/fun-can-be-had-with-a-flamethrower/)
- - 🕉 [PSA: Come to a complete stop before taking a Car Selfie (32 Photos)](https://thechive.com/2021/07/14/psa-come-to-a-complete-stop-before-taking-a-car-selfie-25/)
- - 👾 [Hump Day is here! Jump in here and celebrate (38 Photos)](https://thechive.com/2021/07/14/we-made-it-hump-day-is-finally-here-38-photos/)
- - 🎈 [Independence, authority, style, and these Variant tees](https://www.thechivery.com/collections/new?utm_source=thechivehomepage&utm_medium=loop2&utm_campaign=variant_071421)<!-- JOKES:END -->
+ - 👾 [PSA: Come to a complete stop before taking a Car Selfie (32 Photos)](https://thechive.com/2021/07/14/psa-come-to-a-complete-stop-before-taking-a-car-selfie-25/)
+ - 🎈 [Hump Day is here! Jump in here and celebrate (38 Photos)](https://thechive.com/2021/07/14/we-made-it-hump-day-is-finally-here-38-photos/)<!-- JOKES:END -->
 
 ### 📣 Quotes of the hour
 
