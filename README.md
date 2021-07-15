@@ -171,11 +171,11 @@ Linux                    56 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Better runaway she gonna kick ur ass like a beast!](http://9gag.com/gag/azMDvZx)
- - 🚯 [An experiment at a wildlife sanctuary in South Africa, volunteer Dolph Volker with 3 female cheetahs](http://9gag.com/gag/av5XB5W)
- - 🚯 [*confused noises](http://9gag.com/gag/aGpNr86)
- - 😝 [South Africa right now](http://9gag.com/gag/ajmMMW1)
- - 🚅 [What happened!? Only wrong answers](http://9gag.com/gag/aAbNLNd)<!-- MEMES:END -->
+ - 🚖 [Quagmire is the hero we all need](http://9gag.com/gag/aLpNOqx)
+ - 🚯 [Live news report about floods in Belgium](http://9gag.com/gag/aMKN6GW)
+ - 🚯 [Googlehammer](http://9gag.com/gag/aQoND9r)
+ - 😝 [One day ....](http://9gag.com/gag/a7E6BKq)
+ - 🚅 [Allow me to flip the script.](http://9gag.com/gag/ajmMjr8)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
