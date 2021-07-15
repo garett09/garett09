@@ -189,9 +189,9 @@ Linux                    56 mins             █░░░░░░░░░░�
 ### 📣 Quotes of the hour
 
 <!-- QUOTES:START -->
- - 🔥 ["True friendship multiplies the good in life and divides its evils. Strive to have friends, for life without friends is like life on a desert island... to find one real friend in a lifetime is good fortune; to keep him is a blessing." - Baltasar Gracian](https://www.brainyquote.com/quotes/baltasar_gracian_408657)
- - 🌮 ["Let us be grateful to people who make us happy, they are the charming gardeners who make our souls blossom." - Marcel Proust](https://www.brainyquote.com/quotes/marcel_proust_105251)
- - 🌮 ["A real friend is one who walks in when the rest of the world walks out." - Walter Winchell](https://www.brainyquote.com/quotes/walter_winchell_121442)
+ - 🔥 ["She is a friend of mind. She gather me, man. The pieces I am, she gather them and give them back to me in all the right order. It's good, you know, when you got a woman who is a friend of your mind." - Toni Morrison](https://www.brainyquote.com/quotes/toni_morrison_105243)
+ - 🌮 ["It takes a long time to grow an old friend." - John Leonard](https://www.brainyquote.com/quotes/john_leonard_105249)
+ - 🌮 ["There are no strangers here; Only friends you haven't yet met." - William Butler Yeats](https://www.brainyquote.com/quotes/william_butler_yeats_383082)
  - 💯 ["Friends and good manners will carry you where money won't go." - Margaret Walker](https://www.brainyquote.com/quotes/margaret_walker_189840)
  - 💫 ["No person is your friend who demands your silence, or denies your right to grow." - Alice Walker](https://www.brainyquote.com/quotes/alice_walker_131842)<!-- QUOTES:END -->
 
