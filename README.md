@@ -180,11 +180,11 @@ Linux                    56 mins             █░░░░░░░░░░�
 ### 📣 Jokes of the hour
 
 <!-- JOKES:START -->
- - 🐔 [An army of redheaded sirens approach, my Lord (53 Photos)](https://thechive.com/2021/07/15/an-army-of-redheaded-sirens-approach-my-lord-53-photos/)
- - 🕉 [Popeyes coming out with nuggets “unlike anything else” and the memes came too (21 Photos)](https://thechive.com/2021/07/15/popeyes-coming-out-with-nuggets-unlike-anything-else-and-the-memes-came-too-21-photos/)
- - 🕉 [‘Average Joe’ dad goes viral for providing practical life tips (30 Photos)](https://thechive.com/2021/07/15/average-joe-dad-goes-viral-for-providing-practical-life-tips-30-photos/)
- - 👾 [Need some random knowledge? There’s a chart for that (28 Photos)](https://thechive.com/2021/07/15/need-some-random-knowledge-theres-a-chart-for-that-28-photos-5/)
- - 🎈 [Life hacks that are true and in NO WAY BEING SARCASTIC (45 Photos)](https://thechive.com/2021/07/15/life-hacks-that-are-true-and-in-no-way-being-sarcastic-45-photos/)<!-- JOKES:END -->
+ - 🐔 [Loki Season Finale Memes serve a GLORIOUS PURPOSE! (45 Photos)](https://thechive.com/2021/07/15/internet-reacts-to-the-loki-season-finale-with-glorious-purpose-45-photos/)
+ - 🕉 [Woman recreates famous pop culture artwork via bad*ss Cosplay (30 Photos)](https://thechive.com/2021/07/15/woman-recreates-famous-pop-culture-artwork-via-badss-cosplay-30-photos/)
+ - 🕉 [An army of redheaded sirens approach, my Lord (53 Photos)](https://thechive.com/2021/07/15/an-army-of-redheaded-sirens-approach-my-lord-53-photos/)
+ - 👾 [Popeyes coming out with nuggets “unlike anything else” and the memes came too (21 Photos)](https://thechive.com/2021/07/15/popeyes-coming-out-with-nuggets-unlike-anything-else-and-the-memes-came-too-21-photos/)
+ - 🎈 [‘Average Joe’ dad goes viral for providing practical life tips (30 Photos)](https://thechive.com/2021/07/15/average-joe-dad-goes-viral-for-providing-practical-life-tips-30-photos/)<!-- JOKES:END -->
 
 ### 📣 Quotes of the hour
 
