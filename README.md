@@ -172,9 +172,9 @@ Linux                    56 mins             █░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 🚖 [I did this once, ngl...](http://9gag.com/gag/azMDoDz)
- - 🚯 [So, not only were the shops looted, and the rest of the country looking like crap already with the riots. But they stole all the ATMs? Only in South Africa.](http://9gag.com/gag/aDdNNoZ)
- - 🚯 [His confidence level is 9000](http://9gag.com/gag/amPbKYo)
- - 😝 [More realistic Wonder Woman.](http://9gag.com/gag/a5EyvRE)
+ - 🚯 [More realistic Wonder Woman.](http://9gag.com/gag/a5EyvRE)
+ - 🚯 [Googlehammer](http://9gag.com/gag/aQoND9r)
+ - 😝 [An experiment at a wildlife sanctuary in South Africa, volunteer Dolph Volker with 3 female cheetahs](http://9gag.com/gag/av5XB5W)
  - 🚅 [DELET-A DIS!](http://9gag.com/gag/aP3ddnP)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
