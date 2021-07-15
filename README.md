@@ -171,11 +171,11 @@ Linux                    56 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Arrrrrrrrrrrr](http://9gag.com/gag/apNjdPn)
- - 🚯 [Just got out of a horrible relationship. Always being cheated on, lied too, treated a if I was blind and stupid. Now it&#039;s just me and my cat.](http://9gag.com/gag/amPbKXV)
- - 🚯 [So, not only were the shops looted, and the rest of the country looking like crap already with the riots. But they stole all the ATMs? Only in South Africa.](http://9gag.com/gag/aDdNNoZ)
- - 😝 [Germany, NRW, Rheine. Today. That&rsquo;s Summer in Germany 2021](http://9gag.com/gag/aLpNb5g)
- - 🚅 [Right now in west Germany](http://9gag.com/gag/ajmMMLp)<!-- MEMES:END -->
+ - 🚖 [Humans are somehow awesome](http://9gag.com/gag/awMGGgR)
+ - 🚯 [There is a Bromance between them](http://9gag.com/gag/a3EpprN)
+ - 🚯 [Germany, NRW, Rheine. Today. That&rsquo;s Summer in Germany 2021](http://9gag.com/gag/aLpNb5g)
+ - 😝 [Netflix has done it again](http://9gag.com/gag/aAbNmw0)
+ - 🚅 [So, not only were the shops looted, and the rest of the country looking like crap already with the riots. But they stole all the ATMs? Only in South Africa.](http://9gag.com/gag/aDdNNoZ)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
