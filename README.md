@@ -189,11 +189,11 @@ Linux                    56 mins             █░░░░░░░░░░�
 ### 📣 Quotes of the hour
 
 <!-- QUOTES:START -->
- - 🔥 ["A thing of beauty is a joy forever: its loveliness increases; it will never pass into nothingness." - John Keats](https://www.brainyquote.com/quotes/john_keats_109205)
- - 🌮 ["It takes a long time to grow an old friend." - John Leonard](https://www.brainyquote.com/quotes/john_leonard_105249)
- - 🌮 ["The friend in my adversity I shall always cherish most. I can better trust those who helped to relieve the gloom of my dark hours than those who are so ready to enjoy with me the sunshine of my prosperity." - Ulysses S. Grant](https://www.brainyquote.com/quotes/ulysses_s_grant_132903)
- - 💯 ["It's the friends you can call up at 4 a.m. that matter." - Marlene Dietrich](https://www.brainyquote.com/quotes/marlene_dietrich_105242)
- - 💫 ["There is nothing on this earth more to be prized than true friendship." - Thomas Aquinas](https://www.brainyquote.com/quotes/thomas_aquinas_163328)<!-- QUOTES:END -->
+ - 🔥 ["Friends are the siblings God never gave us." - Mencius](https://www.brainyquote.com/quotes/mencius_379023)
+ - 🌮 ["Let us be grateful to people who make us happy, they are the charming gardeners who make our souls blossom." - Marcel Proust](https://www.brainyquote.com/quotes/marcel_proust_105251)
+ - 🌮 ["If you have one true friend you have more than your share." - Thomas Fuller](https://www.brainyquote.com/quotes/thomas_fuller_151904)
+ - 💯 ["There is nothing on this earth more to be prized than true friendship." - Thomas Aquinas](https://www.brainyquote.com/quotes/thomas_aquinas_163328)
+ - 💫 ["A true friend is someone who is there for you when he'd rather be anywhere else." - Len Wein](https://www.brainyquote.com/quotes/len_wein_366317)<!-- QUOTES:END -->
 
 --- 
 ### 💻 Workspace Spec
