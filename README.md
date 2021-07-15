@@ -171,11 +171,11 @@ Linux                    56 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Quagmire is the hero we all need](http://9gag.com/gag/aLpNOqx)
- - 🚯 [Live news report about floods in Belgium](http://9gag.com/gag/aMKN6GW)
+ - 🚖 [NFC](http://9gag.com/gag/awMG9Zr)
  - 🚯 [Googlehammer](http://9gag.com/gag/aQoND9r)
- - 😝 [One day ....](http://9gag.com/gag/a7E6BKq)
- - 🚅 [Allow me to flip the script.](http://9gag.com/gag/ajmMjr8)<!-- MEMES:END -->
+ - 🚯 [Quagmire is the hero we all need](http://9gag.com/gag/aLpNOqx)
+ - 😝 [Apple Shaped Buns](http://9gag.com/gag/aWjNevn)
+ - 🚅 [Dad&#039;s reaction when he sees the gift his family gave him](http://9gag.com/gag/axMneGY)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
