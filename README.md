@@ -180,11 +180,11 @@ Linux                    56 mins             █░░░░░░░░░░�
 ### 📣 Jokes of the hour
 
 <!-- JOKES:START -->
- - 🐔 [Time impress your friends with totally random factoids (35 Photos)](https://thechive.com/2021/07/15/time-impress-your-friends-with-totally-random-factoids-35-photos/)
+ - 🐔 [These folks are lying like rugs just for the fun of it (27 Photos)](https://thechive.com/2021/07/15/these-folks-are-lying-like-rugs-just-for-the-fun-of-it-27-photos/)
+ - 🕉 [Time impress your friends with totally random factoids (35 Photos)](https://thechive.com/2021/07/15/time-impress-your-friends-with-totally-random-factoids-35-photos/)
  - 🕉 [Daily Morning Awesomeness (40 Photos)](https://thechive.com/2021/07/15/daily-morning-awesomeness-40-photos-172-2/)
- - 🕉 [Damn girl, you’ve won my heart and my money (21 Photos)](https://thechive.com/2021/07/14/damn-girl-youve-won-my-heart-and-my-money-20-photos/)
- - 👾 [Our perfectly legal “addictions” are slowly taking over our lives (19 GIFs)](https://thechive.com/2021/07/14/our-perfectly-legal-addictions-are-slowly-taking-over-our-lives/)
- - 🎈 [‘Adventures with dad’ are enough to make Momma freak the F**K out (37 Photos)](https://thechive.com/2021/07/14/adventures-with-dad-are-enough-to-make-momma-freak-the-fk-out-37-photos/)<!-- JOKES:END -->
+ - 👾 [Damn girl, you’ve won my heart and my money (21 Photos)](https://thechive.com/2021/07/14/damn-girl-youve-won-my-heart-and-my-money-20-photos/)
+ - 🎈 [Our perfectly legal “addictions” are slowly taking over our lives (19 GIFs)](https://thechive.com/2021/07/14/our-perfectly-legal-addictions-are-slowly-taking-over-our-lives/)<!-- JOKES:END -->
 
 ### 📣 Quotes of the hour
 
