@@ -171,10 +171,10 @@ Linux                    56 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [One day ....](http://9gag.com/gag/a7E6BKq)
- - 🚯 [Live news report about floods in Belgium](http://9gag.com/gag/aMKN6GW)
+ - 🚖 [Show this to professional diver Sterling](http://9gag.com/gag/arMr03X)
  - 🚯 [Allow me to flip the script.](http://9gag.com/gag/ajmMjr8)
- - 😝 [The lost micky mouse club house episode](http://9gag.com/gag/azMDzMK)
+ - 🚯 [The lost micky mouse club house episode](http://9gag.com/gag/azMDzMK)
+ - 😝 [This thing on the horizon is the German Bagger 288 &ndash; an excavator that stands 96 meters tall, is 240 meters long and weighs 13 000 tons. Built in 1978, it&rsquo;s the largest land vehicle in existence.](http://9gag.com/gag/aV7184w)
  - 🚅 [Exercise training device to increase speed, agility, and stamina](http://9gag.com/gag/a7E6Be2)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
