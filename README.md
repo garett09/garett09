@@ -180,11 +180,11 @@ Linux                    56 mins             █░░░░░░░░░░�
 ### 📣 Jokes of the hour
 
 <!-- JOKES:START -->
- - 🐔 [Are you ready for The Open? These golf memes will help (36 Photos)](https://thechive.com/2021/07/14/are-you-ready-for-the-open-these-golf-memes-will-help-35-photos/)
- - 🕉 [Well damn, that’s just Depressing. (45 Photos)](https://thechive.com/2021/07/14/well-damn-thats-just-depressing-45-photos/)
- - 🕉 [Daily Afternoon Randomness (49 Photos)](https://thechive.com/2021/07/14/daily-afternoon-randomness-49-photos-1307/)
- - 👾 [The best ways to completely BLOW HER MIND during sex (18 Photos)](https://thechive.com/2021/07/14/the-best-ways-to-completely-blow-her-mind-during-sex-18-photos/)
- - 🎈 [Fun can be had with a FLAMETHROWER (22 GIFs)](https://thechive.com/2021/07/14/fun-can-be-had-with-a-flamethrower/)<!-- JOKES:END -->
+ - 🐔 [If they sneeze, things are going to… happen (36 Photos)](https://thechive.com/2021/07/14/if-they-sneeze-things-are-going-to-happen-33-photos/)
+ - 🕉 [The most HYPED UP movies that ended up being terrible….(18 Photos)](https://thechive.com/2021/07/14/the-most-hyped-up-movies-that-ended-up-being-terrible-18-photos/)
+ - 🕉 [Are you ready for The Open? These golf memes will help (36 Photos)](https://thechive.com/2021/07/14/are-you-ready-for-the-open-these-golf-memes-will-help-35-photos/)
+ - 👾 [Well damn, that’s just Depressing. (45 Photos)](https://thechive.com/2021/07/14/well-damn-thats-just-depressing-45-photos/)
+ - 🎈 [Daily Afternoon Randomness (49 Photos)](https://thechive.com/2021/07/14/daily-afternoon-randomness-49-photos-1307/)<!-- JOKES:END -->
 
 ### 📣 Quotes of the hour
 
