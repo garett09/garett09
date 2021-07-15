@@ -180,11 +180,11 @@ Linux                    56 mins             █░░░░░░░░░░�
 ### 📣 Jokes of the hour
 
 <!-- JOKES:START -->
- - 🐔 [Popeyes coming out with nuggets “unlike anything else” and the memes came too (21 Photos)](https://thechive.com/2021/07/15/popeyes-coming-out-with-nuggets-unlike-anything-else-and-the-memes-came-too-21-photos/)
+ - 🐔 [An army of redheaded sirens approach, my Lord (53 Photos)](https://thechive.com/2021/07/15/an-army-of-redheaded-sirens-approach-my-lord-53-photos/)
+ - 🕉 [Popeyes coming out with nuggets “unlike anything else” and the memes came too (21 Photos)](https://thechive.com/2021/07/15/popeyes-coming-out-with-nuggets-unlike-anything-else-and-the-memes-came-too-21-photos/)
  - 🕉 [‘Average Joe’ dad goes viral for providing practical life tips (30 Photos)](https://thechive.com/2021/07/15/average-joe-dad-goes-viral-for-providing-practical-life-tips-30-photos/)
- - 🕉 [Need some random knowledge? There’s a chart for that (28 Photos)](https://thechive.com/2021/07/15/need-some-random-knowledge-theres-a-chart-for-that-28-photos-5/)
- - 👾 [Life hacks that are true and in NO WAY BEING SARCASTIC (45 Photos)](https://thechive.com/2021/07/15/life-hacks-that-are-true-and-in-no-way-being-sarcastic-45-photos/)
- - 🎈 [Everyone loves these classic movies except for these total HATERS (27 Photos)](https://thechive.com/2021/07/15/everyone-loves-these-classic-movies-except-for-these-total-haters-27-photos/)<!-- JOKES:END -->
+ - 👾 [Need some random knowledge? There’s a chart for that (28 Photos)](https://thechive.com/2021/07/15/need-some-random-knowledge-theres-a-chart-for-that-28-photos-5/)
+ - 🎈 [Life hacks that are true and in NO WAY BEING SARCASTIC (45 Photos)](https://thechive.com/2021/07/15/life-hacks-that-are-true-and-in-no-way-being-sarcastic-45-photos/)<!-- JOKES:END -->
 
 ### 📣 Quotes of the hour
 
