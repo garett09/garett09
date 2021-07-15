@@ -171,11 +171,11 @@ Linux                    56 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Are there even grills here ?](http://9gag.com/gag/aMKN5Gx)
- - 🚯 [Famous crime reporter (in the Netherlands) by the name of Peter r de Vries, was gunned down about a week ago and succumbed to his injuries just now. RIP](http://9gag.com/gag/abVmDpO)
- - 🚯 [Such a classic](http://9gag.com/gag/aGpNvW5)
- - 😝 [The classic uno reverse card](http://9gag.com/gag/a7E6X9e)
- - 🚅 [Untouched water that&rsquo;s millions of years old](http://9gag.com/gag/a07Wqqd)<!-- MEMES:END -->
+ - 🚖 [Christoph Waltz in a kids show](http://9gag.com/gag/aK6NM1N)
+ - 🚯 [Germany experienced record breaking flashfloods yesterday with at least 20 dead and many still missing. The upper and lower image are depicting the same village before and during the flood.](http://9gag.com/gag/arMrEny)
+ - 🚯 [The classic uno reverse card](http://9gag.com/gag/a7E6X9e)
+ - 😝 [These shitheads dumping plastic waste into Amazon river](http://9gag.com/gag/a3Eprom)
+ - 🚅 [On my holidays in Amsterdam almost every girl looked like a model](http://9gag.com/gag/aYonB8V)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
