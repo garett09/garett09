@@ -171,11 +171,11 @@ Linux                    56 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Huehuehue](http://9gag.com/gag/agBZbYK)
+ - 🚖 [Germany right now](http://9gag.com/gag/aMKN7WM)
  - 🚯 [Exercise training device to increase speed, agility, and stamina](http://9gag.com/gag/a7E6Be2)
  - 🚯 [South african special forces on duty](http://9gag.com/gag/aYonBRv)
  - 😝 [This thing on the horizon is the German Bagger 288 &ndash; an excavator that stands 96 meters tall, is 240 meters long and weighs 13 000 tons. Built in 1978, it&rsquo;s the largest land vehicle in existence.](http://9gag.com/gag/aV7184w)
- - 🚅 [Germany experienced record breaking flashfloods yesterday with at least 20 dead and many still missing. The upper and lower image are depicting the same village before and during the flood.](http://9gag.com/gag/arMrEny)<!-- MEMES:END -->
+ - 🚅 [Stores throwing oil on the floor for the looting](http://9gag.com/gag/aP3d0rR)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
