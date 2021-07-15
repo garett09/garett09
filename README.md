@@ -189,11 +189,11 @@ Linux                    56 mins             █░░░░░░░░░░�
 ### 📣 Quotes of the hour
 
 <!-- QUOTES:START -->
- - 🔥 ["She is a friend of mind. She gather me, man. The pieces I am, she gather them and give them back to me in all the right order. It's good, you know, when you got a woman who is a friend of your mind." - Toni Morrison](https://www.brainyquote.com/quotes/toni_morrison_105243)
- - 🌮 ["The only way to have a friend is to be one." - Ralph Waldo Emerson](https://www.brainyquote.com/quotes/ralph_waldo_emerson_100740)
- - 🌮 ["I cannot even imagine where I would be today were it not for that handful of friends who have given me a heart full of joy. Let's face it, friends make life a lot more fun." - Charles R. Swindoll](https://www.brainyquote.com/quotes/charles_r_swindoll_121433)
- - 💯 ["One of the most beautiful qualities of true friendship is to understand and to be understood." - Lucius Annaeus Seneca](https://www.brainyquote.com/quotes/lucius_annaeus_seneca_155059)
- - 💫 ["The only disability in life is a bad attitude." - Scott Hamilton](https://www.brainyquote.com/quotes/scott_hamilton_104173)<!-- QUOTES:END -->
+ - 🔥 ["Friends are the siblings God never gave us." - Mencius](https://www.brainyquote.com/quotes/mencius_379023)
+ - 🌮 ["Let us be grateful to people who make us happy, they are the charming gardeners who make our souls blossom." - Marcel Proust](https://www.brainyquote.com/quotes/marcel_proust_105251)
+ - 🌮 ["The only disability in life is a bad attitude." - Scott Hamilton](https://www.brainyquote.com/quotes/scott_hamilton_104173)
+ - 💯 ["If you have one true friend you have more than your share." - Thomas Fuller](https://www.brainyquote.com/quotes/thomas_fuller_151904)
+ - 💫 ["Sometimes being a friend means mastering the art of timing. There is a time for silence. A time to let go and allow people to hurl themselves into their own destiny. And a time to prepare to pick up the pieces when it's all over." - Octavia E. Butler](https://www.brainyquote.com/quotes/octavia_e_butler_170210)<!-- QUOTES:END -->
 
 --- 
 ### 💻 Workspace Spec
