@@ -180,11 +180,11 @@ Linux                    56 mins             █░░░░░░░░░░�
 ### 📣 Jokes of the hour
 
 <!-- JOKES:START -->
- - 🐔 [If they sneeze, things are going to… happen (36 Photos)](https://thechive.com/2021/07/14/if-they-sneeze-things-are-going-to-happen-33-photos/)
- - 🕉 [The most HYPED UP movies that ended up being terrible….(18 Photos)](https://thechive.com/2021/07/14/the-most-hyped-up-movies-that-ended-up-being-terrible-18-photos/)
- - 🕉 [Are you ready for The Open? These golf memes will help (36 Photos)](https://thechive.com/2021/07/14/are-you-ready-for-the-open-these-golf-memes-will-help-35-photos/)
- - 👾 [Well damn, that’s just Depressing. (45 Photos)](https://thechive.com/2021/07/14/well-damn-thats-just-depressing-45-photos/)
- - 🎈 [Daily Afternoon Randomness (49 Photos)](https://thechive.com/2021/07/14/daily-afternoon-randomness-49-photos-1307/)<!-- JOKES:END -->
+ - 🐔 [Our perfectly legal “addictions” are slowly taking over our lives (19 GIFs)](https://thechive.com/2021/07/14/our-perfectly-legal-addictions-are-slowly-taking-over-our-lives/)
+ - 🕉 [‘Adventures with dad’ are enough to make Momma freak the F**K out (37 Photos)](https://thechive.com/2021/07/14/adventures-with-dad-are-enough-to-make-momma-freak-the-fk-out-37-photos/)
+ - 🕉 [Daily Dopamine Dump](http://i.thechive.com/dopamine-dump)
+ - 👾 [If they sneeze, things are going to… happen (36 Photos)](https://thechive.com/2021/07/14/if-they-sneeze-things-are-going-to-happen-33-photos/)
+ - 🎈 [The most HYPED UP movies that ended up being terrible….(18 Photos)](https://thechive.com/2021/07/14/the-most-hyped-up-movies-that-ended-up-being-terrible-18-photos/)<!-- JOKES:END -->
 
 ### 📣 Quotes of the hour
 
