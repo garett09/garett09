@@ -180,11 +180,11 @@ Linux                    56 mins             █░░░░░░░░░░�
 ### 📣 Jokes of the hour
 
 <!-- JOKES:START -->
- - 🐔 [Daily Afternoon Randomness (52 Photos)](https://thechive.com/2021/07/15/daily-afternoon-randomness-52-photos-59/)
- - 🕉 [The last line of defense before the explosion (10 Photos)](https://thechive.com/2021/07/15/the-last-line-of-defense-before-the-explosion-10-photos/)
- - 🕉 [Kraft unveils limited edition Mac & Cheese Flavored Ice Cream and I’m both disgusted and intrigued](https://thechive.com/2021/07/15/kraft-unveils-limited-edition-mac-cheese-flavored-ice-cream-and-im-both-disgusted-and-intrigued/)
- - 👾 [The SEXIEST Marvel Cinematic Universe characters ranked (18 Photos)](https://thechive.com/2021/07/15/the-sexiest-marvel-cinematic-universe-characters-ranked-18-photos/)
- - 🎈 [Of course, it’s a gallery of cores set in corsets (30 Photos)](https://thechive.com/2021/07/15/of-course-its-a-gallery-of-cores-set-in-corsets-30-photos/)<!-- JOKES:END -->
+ - 🐔 [Please, please, don’t make us go back into the office (45 Photos)](https://thechive.com/2021/07/15/please-please-dont-make-us-go-back-into-the-office-45-photos/)
+ - 🕉 [“Yep, I’m definitely dead” moments people survived with next to no injury (18 Photos)](https://thechive.com/2021/07/15/yep-im-definitely-dead-moments-people-survived-with-next-to-no-injury-18-photos/)
+ - 🕉 [Daily Afternoon Randomness (52 Photos)](https://thechive.com/2021/07/15/daily-afternoon-randomness-52-photos-59/)
+ - 👾 [The last line of defense before the explosion (10 Photos)](https://thechive.com/2021/07/15/the-last-line-of-defense-before-the-explosion-10-photos/)
+ - 🎈 [Kraft unveils limited edition Mac & Cheese Flavored Ice Cream and I’m both disgusted and intrigued](https://thechive.com/2021/07/15/kraft-unveils-limited-edition-mac-cheese-flavored-ice-cream-and-im-both-disgusted-and-intrigued/)<!-- JOKES:END -->
 
 ### 📣 Quotes of the hour
 
