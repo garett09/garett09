@@ -180,11 +180,11 @@ Linux                    56 mins             █░░░░░░░░░░�
 ### 📣 Jokes of the hour
 
 <!-- JOKES:START -->
- - 🐔 [Turn Your Crotch Up A Notch!](https://www.thechivery.com/collections/bn3th?utm_source=thechivehomepage&utm_medium=loop2&utm_campaign=bn3th_071521)
+ - 🐔 [Of course, it’s a gallery of cores set in corsets (30 Photos)](https://thechive.com/2021/07/15/of-course-its-a-gallery-of-cores-set-in-corsets-30-photos/)
+ - 🕉 [Turn Your Crotch Up A Notch!](https://www.thechivery.com/collections/bn3th?utm_source=thechivehomepage&utm_medium=loop2&utm_campaign=bn3th_071521)
  - 🕉 [Transformations of animals before & after adoption (30 Photos)](https://thechive.com/2021/07/15/transformations-of-animals-before-after-adoption-30-photos/)
- - 🕉 [When Carrie Fisher learned a producer assaulted her friend, she gave him a cow tongue in a Tiffany box with a note that said, “the next delivery will be something of yours in a much smaller box!”](https://thechive.com/2021/07/15/when-carrie-fisher-learned-a-producer-assaulted-her-friend-she-gave-him-a-cow-tongue-in-a-tiffany-box-with-a-note-that-said-the-next-delivery-will-be-something-of-yours-in-a-much-smaller-box/)
- - 👾 [New A-10 “Blacksnakes” paint job is so damn Brrrrrrrt-A$ (22 HQ Photos)](https://thechive.com/2021/07/15/new-a-10-blacksnakes-paint-job-is-so-damn-brrrrrrrt-a/)
- - 🎈 [Burn your bra and join the revolution (40 Photos)](https://thechive.com/2021/07/15/burn-your-bra-and-join-the-revolution-92/)<!-- JOKES:END -->
+ - 👾 [When Carrie Fisher learned a producer assaulted her friend, she gave him a cow tongue in a Tiffany box with a note that said, “the next delivery will be something of yours in a much smaller box!”](https://thechive.com/2021/07/15/when-carrie-fisher-learned-a-producer-assaulted-her-friend-she-gave-him-a-cow-tongue-in-a-tiffany-box-with-a-note-that-said-the-next-delivery-will-be-something-of-yours-in-a-much-smaller-box/)
+ - 🎈 [New A-10 “Blacksnakes” paint job is so damn Brrrrrrrt-A$ (22 HQ Photos)](https://thechive.com/2021/07/15/new-a-10-blacksnakes-paint-job-is-so-damn-brrrrrrrt-a/)<!-- JOKES:END -->
 
 ### 📣 Quotes of the hour
 
