@@ -171,11 +171,11 @@ Linux                    56 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [On my holidays in Amsterdam almost every girl looked like a model](http://9gag.com/gag/aYonB8V)
- - 🚯 [The classic uno reverse card](http://9gag.com/gag/a7E6X9e)
- - 🚯 [Well, that was dumb](http://9gag.com/gag/aV7164v)
- - 😝 [Old woman&#039;a reaction when she saw her only source of income got looted in SA.](http://9gag.com/gag/abVmDGX)
- - 🚅 [Yes, let me shoot this innocent store owner and expect no repercussions.](http://9gag.com/gag/aGpN5LG)<!-- MEMES:END -->
+ - 🚖 [Are you?](http://9gag.com/gag/anQWPYq)
+ - 🚯 [People saving a frieman from drowning during today&#039;s flooding catastrophe in Germany](http://9gag.com/gag/aEpN4No)
+ - 🚯 [Yes, let me shoot this innocent store owner and expect no repercussions.](http://9gag.com/gag/aGpN5LG)
+ - 😝 [Hail the queen](http://9gag.com/gag/a6E3Rem)
+ - 🚅 [These shitheads dumping plastic waste into Amazon river](http://9gag.com/gag/a3Eprom)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
