@@ -171,11 +171,11 @@ Linux                    56 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The classic uno reverse card](http://9gag.com/gag/a7E6X9e)
- - 🚯 [Yes, let me shoot this innocent store owner and expect no repercussions.](http://9gag.com/gag/aGpN5LG)
- - 🚯 [Are there even grills here ?](http://9gag.com/gag/aMKN5Gx)
- - 😝 [Stores throwing oil on the floor for the looting](http://9gag.com/gag/aP3d0rR)
- - 🚅 [Such a classic](http://9gag.com/gag/aGpNvW5)<!-- MEMES:END -->
+ - 🚖 [Are there even grills here ?](http://9gag.com/gag/aMKN5Gx)
+ - 🚯 [Famous crime reporter (in the Netherlands) by the name of Peter r de Vries, was gunned down about a week ago and succumbed to his injuries just now. RIP](http://9gag.com/gag/abVmDpO)
+ - 🚯 [Such a classic](http://9gag.com/gag/aGpNvW5)
+ - 😝 [The classic uno reverse card](http://9gag.com/gag/a7E6X9e)
+ - 🚅 [Untouched water that&rsquo;s millions of years old](http://9gag.com/gag/a07Wqqd)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
