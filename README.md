@@ -171,11 +171,11 @@ Linux                    56 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Stores throwing oil on the floor for the looting](http://9gag.com/gag/aP3d0rR)
- - 🚯 [What happened!? Only wrong answers](http://9gag.com/gag/aAbNLNd)
- - 🚯 [One day ....](http://9gag.com/gag/a7E6BKq)
- - 😝 [South african special forces on duty](http://9gag.com/gag/aYonBRv)
- - 🚅 [The lost micky mouse club house episode](http://9gag.com/gag/azMDzMK)<!-- MEMES:END -->
+ - 🚖 [One day ....](http://9gag.com/gag/a7E6BKq)
+ - 🚯 [Live news report about floods in Belgium](http://9gag.com/gag/aMKN6GW)
+ - 🚯 [Allow me to flip the script.](http://9gag.com/gag/ajmMjr8)
+ - 😝 [The lost micky mouse club house episode](http://9gag.com/gag/azMDzMK)
+ - 🚅 [Exercise training device to increase speed, agility, and stamina](http://9gag.com/gag/a7E6Be2)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
