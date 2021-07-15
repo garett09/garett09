@@ -189,11 +189,11 @@ Linux                    56 mins             █░░░░░░░░░░�
 ### 📣 Quotes of the hour
 
 <!-- QUOTES:START -->
- - 🔥 ["A true friend is someone who is there for you when he'd rather be anywhere else." - Len Wein](https://www.brainyquote.com/quotes/len_wein_366317)
- - 🌮 ["She is a friend of mind. She gather me, man. The pieces I am, she gather them and give them back to me in all the right order. It's good, you know, when you got a woman who is a friend of your mind." - Toni Morrison](https://www.brainyquote.com/quotes/toni_morrison_105243)
- - 🌮 ["There are no strangers here; Only friends you haven't yet met." - William Butler Yeats](https://www.brainyquote.com/quotes/william_butler_yeats_383082)
- - 💯 ["Friends are the siblings God never gave us." - Mencius](https://www.brainyquote.com/quotes/mencius_379023)
- - 💫 ["True friendship multiplies the good in life and divides its evils. Strive to have friends, for life without friends is like life on a desert island... to find one real friend in a lifetime is good fortune; to keep him is a blessing." - Baltasar Gracian](https://www.brainyquote.com/quotes/baltasar_gracian_408657)<!-- QUOTES:END -->
+ - 🔥 ["She is a friend of mind. She gather me, man. The pieces I am, she gather them and give them back to me in all the right order. It's good, you know, when you got a woman who is a friend of your mind." - Toni Morrison](https://www.brainyquote.com/quotes/toni_morrison_105243)
+ - 🌮 ["There is nothing on this earth more to be prized than true friendship." - Thomas Aquinas](https://www.brainyquote.com/quotes/thomas_aquinas_163328)
+ - 🌮 ["Friends are the siblings God never gave us." - Mencius](https://www.brainyquote.com/quotes/mencius_379023)
+ - 💯 ["There are no strangers here; Only friends you haven't yet met." - William Butler Yeats](https://www.brainyquote.com/quotes/william_butler_yeats_383082)
+ - 💫 ["A real friend is one who walks in when the rest of the world walks out." - Walter Winchell](https://www.brainyquote.com/quotes/walter_winchell_121442)<!-- QUOTES:END -->
 
 --- 
 ### 💻 Workspace Spec
