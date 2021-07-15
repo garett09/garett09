@@ -189,11 +189,11 @@ Linux                    56 mins             █░░░░░░░░░░�
 ### 📣 Quotes of the hour
 
 <!-- QUOTES:START -->
- - 🔥 ["If you have one true friend you have more than your share." - Thomas Fuller](https://www.brainyquote.com/quotes/thomas_fuller_151904)
- - 🌮 ["The only way to have a friend is to be one." - Ralph Waldo Emerson](https://www.brainyquote.com/quotes/ralph_waldo_emerson_100740)
+ - 🔥 ["One loyal friend is worth ten thousand relatives." - Euripides](https://www.brainyquote.com/quotes/euripides_149016)
+ - 🌮 ["True friendship multiplies the good in life and divides its evils. Strive to have friends, for life without friends is like life on a desert island... to find one real friend in a lifetime is good fortune; to keep him is a blessing." - Baltasar Gracian](https://www.brainyquote.com/quotes/baltasar_gracian_408657)
  - 🌮 ["It takes a long time to grow an old friend." - John Leonard](https://www.brainyquote.com/quotes/john_leonard_105249)
- - 💯 ["True friendship multiplies the good in life and divides its evils. Strive to have friends, for life without friends is like life on a desert island... to find one real friend in a lifetime is good fortune; to keep him is a blessing." - Baltasar Gracian](https://www.brainyquote.com/quotes/baltasar_gracian_408657)
- - 💫 ["The only disability in life is a bad attitude." - Scott Hamilton](https://www.brainyquote.com/quotes/scott_hamilton_104173)<!-- QUOTES:END -->
+ - 💯 ["There are no strangers here; Only friends you haven't yet met." - William Butler Yeats](https://www.brainyquote.com/quotes/william_butler_yeats_383082)
+ - 💫 ["There is nothing on this earth more to be prized than true friendship." - Thomas Aquinas](https://www.brainyquote.com/quotes/thomas_aquinas_163328)<!-- QUOTES:END -->
 
 --- 
 ### 💻 Workspace Spec
