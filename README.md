@@ -189,11 +189,11 @@ Linux                    56 mins             █░░░░░░░░░░�
 ### 📣 Quotes of the hour
 
 <!-- QUOTES:START -->
- - 🔥 ["One loyal friend is worth ten thousand relatives." - Euripides](https://www.brainyquote.com/quotes/euripides_149016)
- - 🌮 ["True friendship multiplies the good in life and divides its evils. Strive to have friends, for life without friends is like life on a desert island... to find one real friend in a lifetime is good fortune; to keep him is a blessing." - Baltasar Gracian](https://www.brainyquote.com/quotes/baltasar_gracian_408657)
+ - 🔥 ["Let us be grateful to people who make us happy, they are the charming gardeners who make our souls blossom." - Marcel Proust](https://www.brainyquote.com/quotes/marcel_proust_105251)
  - 🌮 ["It takes a long time to grow an old friend." - John Leonard](https://www.brainyquote.com/quotes/john_leonard_105249)
- - 💯 ["There are no strangers here; Only friends you haven't yet met." - William Butler Yeats](https://www.brainyquote.com/quotes/william_butler_yeats_383082)
- - 💫 ["There is nothing on this earth more to be prized than true friendship." - Thomas Aquinas](https://www.brainyquote.com/quotes/thomas_aquinas_163328)<!-- QUOTES:END -->
+ - 🌮 ["A real friend is one who walks in when the rest of the world walks out." - Walter Winchell](https://www.brainyquote.com/quotes/walter_winchell_121442)
+ - 💯 ["The best time to make friends is before you need them." - Ethel Barrymore](https://www.brainyquote.com/quotes/ethel_barrymore_158797)
+ - 💫 ["Sometimes being a friend means mastering the art of timing. There is a time for silence. A time to let go and allow people to hurl themselves into their own destiny. And a time to prepare to pick up the pieces when it's all over." - Octavia E. Butler](https://www.brainyquote.com/quotes/octavia_e_butler_170210)<!-- QUOTES:END -->
 
 --- 
 ### 💻 Workspace Spec
