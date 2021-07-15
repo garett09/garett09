@@ -171,11 +171,11 @@ Linux                    56 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I did this once, ngl...](http://9gag.com/gag/azMDoDz)
- - 🚯 [More realistic Wonder Woman.](http://9gag.com/gag/a5EyvRE)
- - 🚯 [Googlehammer](http://9gag.com/gag/aQoND9r)
+ - 🚖 [DELET-A DIS!](http://9gag.com/gag/aP3ddnP)
+ - 🚯 [*confused noises](http://9gag.com/gag/aGpNr86)
+ - 🚯 [I guess he hit that](http://9gag.com/gag/aDdNNBK)
  - 😝 [An experiment at a wildlife sanctuary in South Africa, volunteer Dolph Volker with 3 female cheetahs](http://9gag.com/gag/av5XB5W)
- - 🚅 [DELET-A DIS!](http://9gag.com/gag/aP3ddnP)<!-- MEMES:END -->
+ - 🚅 [Googlehammer](http://9gag.com/gag/aQoND9r)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
