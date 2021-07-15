@@ -189,10 +189,10 @@ Linux                    56 mins             █░░░░░░░░░░�
 ### 📣 Quotes of the hour
 
 <!-- QUOTES:START -->
- - 🔥 ["Friends are the siblings God never gave us." - Mencius](https://www.brainyquote.com/quotes/mencius_379023)
- - 🌮 ["Let us be grateful to people who make us happy, they are the charming gardeners who make our souls blossom." - Marcel Proust](https://www.brainyquote.com/quotes/marcel_proust_105251)
- - 🌮 ["If you have one true friend you have more than your share." - Thomas Fuller](https://www.brainyquote.com/quotes/thomas_fuller_151904)
- - 💯 ["There is nothing on this earth more to be prized than true friendship." - Thomas Aquinas](https://www.brainyquote.com/quotes/thomas_aquinas_163328)
+ - 🔥 ["A real friend is one who walks in when the rest of the world walks out." - Walter Winchell](https://www.brainyquote.com/quotes/walter_winchell_121442)
+ - 🌮 ["There is nothing on this earth more to be prized than true friendship." - Thomas Aquinas](https://www.brainyquote.com/quotes/thomas_aquinas_163328)
+ - 🌮 ["The greatest gift of life is friendship, and I have received it." - Hubert H. Humphrey](https://www.brainyquote.com/quotes/hubert_h_humphrey_152599)
+ - 💯 ["Friends are the siblings God never gave us." - Mencius](https://www.brainyquote.com/quotes/mencius_379023)
  - 💫 ["A true friend is someone who is there for you when he'd rather be anywhere else." - Len Wein](https://www.brainyquote.com/quotes/len_wein_366317)<!-- QUOTES:END -->
 
 --- 
