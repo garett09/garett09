@@ -171,11 +171,11 @@ Linux                    56 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [DELET-A DIS!](http://9gag.com/gag/aP3ddnP)
+ - 🚖 [Better runaway she gonna kick ur ass like a beast!](http://9gag.com/gag/azMDvZx)
+ - 🚯 [An experiment at a wildlife sanctuary in South Africa, volunteer Dolph Volker with 3 female cheetahs](http://9gag.com/gag/av5XB5W)
  - 🚯 [*confused noises](http://9gag.com/gag/aGpNr86)
- - 🚯 [I guess he hit that](http://9gag.com/gag/aDdNNBK)
- - 😝 [An experiment at a wildlife sanctuary in South Africa, volunteer Dolph Volker with 3 female cheetahs](http://9gag.com/gag/av5XB5W)
- - 🚅 [Googlehammer](http://9gag.com/gag/aQoND9r)<!-- MEMES:END -->
+ - 😝 [South Africa right now](http://9gag.com/gag/ajmMMW1)
+ - 🚅 [What happened!? Only wrong answers](http://9gag.com/gag/aAbNLNd)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
