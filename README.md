@@ -180,11 +180,11 @@ Linux                    56 mins             █░░░░░░░░░░�
 ### 📣 Jokes of the hour
 
 <!-- JOKES:START -->
- - 🐔 [Life hacks that are true and in NO WAY BEING SARCASTIC (45 Photos)](https://thechive.com/2021/07/15/life-hacks-that-are-true-and-in-no-way-being-sarcastic-45-photos/)
+ - 🐔 [Need some random knowledge? There’s a chart for that (28 Photos)](https://thechive.com/2021/07/15/need-some-random-knowledge-theres-a-chart-for-that-28-photos-5/)
+ - 🕉 [Life hacks that are true and in NO WAY BEING SARCASTIC (45 Photos)](https://thechive.com/2021/07/15/life-hacks-that-are-true-and-in-no-way-being-sarcastic-45-photos/)
  - 🕉 [Everyone loves these classic movies except for these total HATERS (27 Photos)](https://thechive.com/2021/07/15/everyone-loves-these-classic-movies-except-for-these-total-haters-27-photos/)
- - 🕉 [Not-so-traditional marriage proposal stories to light up your morning (25 Photos and GIFs)](https://thechive.com/2021/07/15/not-so-traditional-marriage-proposal-stories-to-light-up-your-morning/)
- - 👾 [Extremely specific Spotify playlists for extremely specific times](https://thechive.com/2021/07/15/extremely-specific-spotify-playlists-for-extremely-specific-times/)
- - 🎈 [These folks are lying like rugs just for the fun of it (27 Photos)](https://thechive.com/2021/07/15/these-folks-are-lying-like-rugs-just-for-the-fun-of-it-27-photos/)<!-- JOKES:END -->
+ - 👾 [Not-so-traditional marriage proposal stories to light up your morning (25 Photos and GIFs)](https://thechive.com/2021/07/15/not-so-traditional-marriage-proposal-stories-to-light-up-your-morning/)
+ - 🎈 [Extremely specific Spotify playlists for extremely specific times](https://thechive.com/2021/07/15/extremely-specific-spotify-playlists-for-extremely-specific-times/)<!-- JOKES:END -->
 
 ### 📣 Quotes of the hour
 
