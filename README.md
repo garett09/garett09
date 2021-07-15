@@ -171,11 +171,11 @@ Linux                    56 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [NFC](http://9gag.com/gag/awMG9Zr)
- - 🚯 [Googlehammer](http://9gag.com/gag/aQoND9r)
- - 🚯 [Quagmire is the hero we all need](http://9gag.com/gag/aLpNOqx)
- - 😝 [Apple Shaped Buns](http://9gag.com/gag/aWjNevn)
- - 🚅 [Dad&#039;s reaction when he sees the gift his family gave him](http://9gag.com/gag/axMneGY)<!-- MEMES:END -->
+ - 🚖 [Stores throwing oil on the floor for the looting](http://9gag.com/gag/aP3d0rR)
+ - 🚯 [What happened!? Only wrong answers](http://9gag.com/gag/aAbNLNd)
+ - 🚯 [One day ....](http://9gag.com/gag/a7E6BKq)
+ - 😝 [South african special forces on duty](http://9gag.com/gag/aYonBRv)
+ - 🚅 [The lost micky mouse club house episode](http://9gag.com/gag/azMDzMK)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
