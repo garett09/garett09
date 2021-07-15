@@ -171,11 +171,11 @@ Linux                    56 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Germany right now](http://9gag.com/gag/aMKN7WM)
+ - 🚖 [The classic uno reverse card](http://9gag.com/gag/a7E6X9e)
+ - 🚯 [Yes, let me shoot this innocent store owner and expect no repercussions.](http://9gag.com/gag/aGpN5LG)
  - 🚯 [Are there even grills here ?](http://9gag.com/gag/aMKN5Gx)
- - 🚯 [This thing on the horizon is the German Bagger 288 &ndash; an excavator that stands 96 meters tall, is 240 meters long and weighs 13 000 tons. Built in 1978, it&rsquo;s the largest land vehicle in existence.](http://9gag.com/gag/aV7184w)
- - 😝 [Such a classic](http://9gag.com/gag/aGpNvW5)
- - 🚅 [Stores throwing oil on the floor for the looting](http://9gag.com/gag/aP3d0rR)<!-- MEMES:END -->
+ - 😝 [Stores throwing oil on the floor for the looting](http://9gag.com/gag/aP3d0rR)
+ - 🚅 [Such a classic](http://9gag.com/gag/aGpNvW5)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
