@@ -189,11 +189,11 @@ Linux                    56 mins             █░░░░░░░░░░�
 ### 📣 Quotes of the hour
 
 <!-- QUOTES:START -->
- - 🔥 ["A true friend is someone who is there for you when he'd rather be anywhere else." - Len Wein](https://www.brainyquote.com/quotes/len_wein_366317)
- - 🌮 ["True friendship multiplies the good in life and divides its evils. Strive to have friends, for life without friends is like life on a desert island... to find one real friend in a lifetime is good fortune; to keep him is a blessing." - Baltasar Gracian](https://www.brainyquote.com/quotes/baltasar_gracian_408657)
- - 🌮 ["It's the friends you can call up at 4 a.m. that matter." - Marlene Dietrich](https://www.brainyquote.com/quotes/marlene_dietrich_105242)
- - 💯 ["No person is your friend who demands your silence, or denies your right to grow." - Alice Walker](https://www.brainyquote.com/quotes/alice_walker_131842)
- - 💫 ["One loyal friend is worth ten thousand relatives." - Euripides](https://www.brainyquote.com/quotes/euripides_149016)<!-- QUOTES:END -->
+ - 🔥 ["If you have one true friend you have more than your share." - Thomas Fuller](https://www.brainyquote.com/quotes/thomas_fuller_151904)
+ - 🌮 ["The only way to have a friend is to be one." - Ralph Waldo Emerson](https://www.brainyquote.com/quotes/ralph_waldo_emerson_100740)
+ - 🌮 ["It takes a long time to grow an old friend." - John Leonard](https://www.brainyquote.com/quotes/john_leonard_105249)
+ - 💯 ["True friendship multiplies the good in life and divides its evils. Strive to have friends, for life without friends is like life on a desert island... to find one real friend in a lifetime is good fortune; to keep him is a blessing." - Baltasar Gracian](https://www.brainyquote.com/quotes/baltasar_gracian_408657)
+ - 💫 ["The only disability in life is a bad attitude." - Scott Hamilton](https://www.brainyquote.com/quotes/scott_hamilton_104173)<!-- QUOTES:END -->
 
 --- 
 ### 💻 Workspace Spec
