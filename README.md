@@ -180,11 +180,11 @@ Linux                    56 mins             █░░░░░░░░░░�
 ### 📣 Jokes of the hour
 
 <!-- JOKES:START -->
- - 🐔 [Loki Season Finale Memes serve a GLORIOUS PURPOSE! (45 Photos)](https://thechive.com/2021/07/15/internet-reacts-to-the-loki-season-finale-with-glorious-purpose-45-photos/)
- - 🕉 [Woman recreates famous pop culture artwork via bad*ss Cosplay (30 Photos)](https://thechive.com/2021/07/15/woman-recreates-famous-pop-culture-artwork-via-badss-cosplay-30-photos/)
- - 🕉 [An army of redheaded sirens approach, my Lord (53 Photos)](https://thechive.com/2021/07/15/an-army-of-redheaded-sirens-approach-my-lord-53-photos/)
- - 👾 [Popeyes coming out with nuggets “unlike anything else” and the memes came too (21 Photos)](https://thechive.com/2021/07/15/popeyes-coming-out-with-nuggets-unlike-anything-else-and-the-memes-came-too-21-photos/)
- - 🎈 [‘Average Joe’ dad goes viral for providing practical life tips (30 Photos)](https://thechive.com/2021/07/15/average-joe-dad-goes-viral-for-providing-practical-life-tips-30-photos/)<!-- JOKES:END -->
+ - 🐔 [When Carrie Fisher learned a producer assaulted her friend, she gave him a cow tongue in a Tiffany box with a note that said, “the next delivery will be something of yours in a much smaller box!”](https://thechive.com/2021/07/15/when-carrie-fisher-learned-a-producer-assaulted-her-friend-she-gave-him-a-cow-tongue-in-a-tiffany-box-with-a-note-that-said-the-next-delivery-will-be-something-of-yours-in-a-much-smaller-box/)
+ - 🕉 [New A-10 “Blacksnakes” paint job is so damn Brrrrrrrt-A$ (22 HQ Photos)](https://thechive.com/2021/07/15/new-a-10-blacksnakes-paint-job-is-so-damn-brrrrrrrt-a/)
+ - 🕉 [Burn your bra and join the revolution (40 Photos)](https://thechive.com/2021/07/15/burn-your-bra-and-join-the-revolution-92/)
+ - 👾 [Loki Season Finale Memes serve a GLORIOUS PURPOSE! (45 Photos)](https://thechive.com/2021/07/15/internet-reacts-to-the-loki-season-finale-with-glorious-purpose-45-photos/)
+ - 🎈 [Woman recreates famous pop culture artwork via bad*ss Cosplay (30 Photos)](https://thechive.com/2021/07/15/woman-recreates-famous-pop-culture-artwork-via-badss-cosplay-30-photos/)<!-- JOKES:END -->
 
 ### 📣 Quotes of the hour
 
