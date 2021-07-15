@@ -180,11 +180,11 @@ Linux                    56 mins             █░░░░░░░░░░�
 ### 📣 Jokes of the hour
 
 <!-- JOKES:START -->
- - 🐔 [Of course, it’s a gallery of cores set in corsets (30 Photos)](https://thechive.com/2021/07/15/of-course-its-a-gallery-of-cores-set-in-corsets-30-photos/)
- - 🕉 [Turn Your Crotch Up A Notch!](https://www.thechivery.com/collections/bn3th?utm_source=thechivehomepage&utm_medium=loop2&utm_campaign=bn3th_071521)
- - 🕉 [Transformations of animals before & after adoption (30 Photos)](https://thechive.com/2021/07/15/transformations-of-animals-before-after-adoption-30-photos/)
- - 👾 [When Carrie Fisher learned a producer assaulted her friend, she gave him a cow tongue in a Tiffany box with a note that said, “the next delivery will be something of yours in a much smaller box!”](https://thechive.com/2021/07/15/when-carrie-fisher-learned-a-producer-assaulted-her-friend-she-gave-him-a-cow-tongue-in-a-tiffany-box-with-a-note-that-said-the-next-delivery-will-be-something-of-yours-in-a-much-smaller-box/)
- - 🎈 [New A-10 “Blacksnakes” paint job is so damn Brrrrrrrt-A$ (22 HQ Photos)](https://thechive.com/2021/07/15/new-a-10-blacksnakes-paint-job-is-so-damn-brrrrrrrt-a/)<!-- JOKES:END -->
+ - 🐔 [Daily Afternoon Randomness (52 Photos)](https://thechive.com/2021/07/15/daily-afternoon-randomness-52-photos-59/)
+ - 🕉 [The last line of defense before the explosion (10 Photos)](https://thechive.com/2021/07/15/the-last-line-of-defense-before-the-explosion-10-photos/)
+ - 🕉 [Kraft unveils limited edition Mac & Cheese Flavored Ice Cream and I’m both disgusted and intrigued](https://thechive.com/2021/07/15/kraft-unveils-limited-edition-mac-cheese-flavored-ice-cream-and-im-both-disgusted-and-intrigued/)
+ - 👾 [The SEXIEST Marvel Cinematic Universe characters ranked (18 Photos)](https://thechive.com/2021/07/15/the-sexiest-marvel-cinematic-universe-characters-ranked-18-photos/)
+ - 🎈 [Of course, it’s a gallery of cores set in corsets (30 Photos)](https://thechive.com/2021/07/15/of-course-its-a-gallery-of-cores-set-in-corsets-30-photos/)<!-- JOKES:END -->
 
 ### 📣 Quotes of the hour
 
