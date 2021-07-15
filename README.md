@@ -180,11 +180,11 @@ Linux                    56 mins             █░░░░░░░░░░�
 ### 📣 Jokes of the hour
 
 <!-- JOKES:START -->
- - 🐔 [Extremely specific Spotify playlists for extremely specific times](https://thechive.com/2021/07/15/extremely-specific-spotify-playlists-for-extremely-specific-times/)
+ - 🐔 [Not-so-traditional marriage proposal stories to light up your morning (25 Photos and GIFs)](https://thechive.com/2021/07/15/not-so-traditional-marriage-proposal-stories-to-light-up-your-morning/)
+ - 🕉 [Extremely specific Spotify playlists for extremely specific times](https://thechive.com/2021/07/15/extremely-specific-spotify-playlists-for-extremely-specific-times/)
  - 🕉 [These folks are lying like rugs just for the fun of it (27 Photos)](https://thechive.com/2021/07/15/these-folks-are-lying-like-rugs-just-for-the-fun-of-it-27-photos/)
- - 🕉 [Time impress your friends with totally random factoids (35 Photos)](https://thechive.com/2021/07/15/time-impress-your-friends-with-totally-random-factoids-35-photos/)
- - 👾 [Daily Morning Awesomeness (40 Photos)](https://thechive.com/2021/07/15/daily-morning-awesomeness-40-photos-172-2/)
- - 🎈 [Damn girl, you’ve won my heart and my money (21 Photos)](https://thechive.com/2021/07/14/damn-girl-youve-won-my-heart-and-my-money-20-photos/)<!-- JOKES:END -->
+ - 👾 [Time impress your friends with totally random factoids (35 Photos)](https://thechive.com/2021/07/15/time-impress-your-friends-with-totally-random-factoids-35-photos/)
+ - 🎈 [Daily Morning Awesomeness (40 Photos)](https://thechive.com/2021/07/15/daily-morning-awesomeness-40-photos-172-2/)<!-- JOKES:END -->
 
 ### 📣 Quotes of the hour
 
