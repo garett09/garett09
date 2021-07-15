@@ -171,11 +171,11 @@ Linux                    56 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [There is a Bromance between them](http://9gag.com/gag/a3EpprN)
- - 🚯 [Right now in west Germany](http://9gag.com/gag/ajmMMLp)
+ - 🚖 [I did this once, ngl...](http://9gag.com/gag/azMDoDz)
+ - 🚯 [So, not only were the shops looted, and the rest of the country looking like crap already with the riots. But they stole all the ATMs? Only in South Africa.](http://9gag.com/gag/aDdNNoZ)
  - 🚯 [His confidence level is 9000](http://9gag.com/gag/amPbKYo)
  - 😝 [More realistic Wonder Woman.](http://9gag.com/gag/a5EyvRE)
- - 🚅 [So, not only were the shops looted, and the rest of the country looking like crap already with the riots. But they stole all the ATMs? Only in South Africa.](http://9gag.com/gag/aDdNNoZ)<!-- MEMES:END -->
+ - 🚅 [DELET-A DIS!](http://9gag.com/gag/aP3ddnP)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
