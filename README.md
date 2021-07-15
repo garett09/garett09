@@ -171,11 +171,11 @@ Linux                    56 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Christoph Waltz in a kids show](http://9gag.com/gag/aK6NM1N)
- - 🚯 [Germany experienced record breaking flashfloods yesterday with at least 20 dead and many still missing. The upper and lower image are depicting the same village before and during the flood.](http://9gag.com/gag/arMrEny)
+ - 🚖 [On my holidays in Amsterdam almost every girl looked like a model](http://9gag.com/gag/aYonB8V)
  - 🚯 [The classic uno reverse card](http://9gag.com/gag/a7E6X9e)
- - 😝 [These shitheads dumping plastic waste into Amazon river](http://9gag.com/gag/a3Eprom)
- - 🚅 [On my holidays in Amsterdam almost every girl looked like a model](http://9gag.com/gag/aYonB8V)<!-- MEMES:END -->
+ - 🚯 [Well, that was dumb](http://9gag.com/gag/aV7164v)
+ - 😝 [Old woman&#039;a reaction when she saw her only source of income got looted in SA.](http://9gag.com/gag/abVmDGX)
+ - 🚅 [Yes, let me shoot this innocent store owner and expect no repercussions.](http://9gag.com/gag/aGpN5LG)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
