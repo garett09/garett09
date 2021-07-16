@@ -170,11 +170,11 @@ Linux                    9 mins              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Something went wrong](http://9gag.com/gag/a8EXZgO)
- - 🚯 [Know your rights! Its &ldquo;Shut the f*ck up Friday&rdquo;!](http://9gag.com/gag/anQWL1z)
+ - 🚖 [Hey well done pals!](http://9gag.com/gag/aoMqXde)
+ - 🚯 [Priorities](http://9gag.com/gag/abVm7np)
  - 🚯 [The Very First 9GAG NFT Is Here!](http://9gag.com/gag/azMDnex)
- - 😝 [Czech Republic seems like a good place!](http://9gag.com/gag/abVm71X)
- - 🚅 [Hey well done pals!](http://9gag.com/gag/aoMqXde)<!-- MEMES:END -->
+ - 😝 [Another day at the park](http://9gag.com/gag/aV71N1P)
+ - 🚅 [Fixed it](http://9gag.com/gag/aDdNEbd)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
