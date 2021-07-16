@@ -170,11 +170,11 @@ Linux                    9 mins              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [There is a solution to looting....](http://9gag.com/gag/aGpNWDz)
- - 🚯 [Traveling to Venice](http://9gag.com/gag/a5Ey4Mq)
+ - 🚖 [Something went wrong](http://9gag.com/gag/a8EXZgO)
+ - 🚯 [After the floodings...](http://9gag.com/gag/aP3d5oG)
  - 🚯 [The Very First 9GAG NFT Is Here!](http://9gag.com/gag/azMDnex)
- - 😝 [South african truck driver almost shot.](http://9gag.com/gag/aRXNbNM)
- - 🚅 [After the floodings...](http://9gag.com/gag/aP3d5oG)<!-- MEMES:END -->
+ - 😝 [What are they feeding the dog?](http://9gag.com/gag/aZ0VGrX)
+ - 🚅 [Priorities](http://9gag.com/gag/abVm7np)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
