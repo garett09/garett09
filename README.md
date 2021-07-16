@@ -179,11 +179,11 @@ Linux                    9 mins              ░░░░░░░░░░░�
 ### 📣 Jokes of the hour
 
 <!-- JOKES:START -->
- - 🐔 [Woahhh that’s actually really bada**…(20 Photos)](https://thechive.com/2021/07/15/woahhh-thats-actually-really-bada-20-photos/)
+ - 🐔 [Daily Morning Awesomeness (38 Photos)](https://thechive.com/2021/07/16/daily-morning-awesomeness-38-photos-172/)
+ - 🕉 [Woahhh that’s actually really bada**…(20 Photos)](https://thechive.com/2021/07/15/woahhh-thats-actually-really-bada-20-photos/)
  - 🕉 [What exactly am I looking at here… (22 Photos)](https://thechive.com/2021/07/15/what-exactly-am-i-looking-at-here-22-photos/)
- - 🕉 [Stories that made people blurt out “IT’S NOT WHAT IT LOOKS LIKE” (18 GIFs)](https://thechive.com/2021/07/15/stories-that-made-people-blurt-out-its-not-what-it-looks-like/)
- - 👾 [Daily Dopamine Dump](http://i.thechive.com/dopamine-dump)
- - 🎈 [Things That Bounce is here! (15 GIFs)](https://thechive.com/2021/07/15/things-that-bounce-is-here-15-gifs/)<!-- JOKES:END -->
+ - 👾 [Stories that made people blurt out “IT’S NOT WHAT IT LOOKS LIKE” (18 GIFs)](https://thechive.com/2021/07/15/stories-that-made-people-blurt-out-its-not-what-it-looks-like/)
+ - 🎈 [Daily Dopamine Dump](http://i.thechive.com/dopamine-dump)<!-- JOKES:END -->
 
 ### 📣 Quotes of the hour
 
