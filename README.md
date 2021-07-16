@@ -170,8 +170,8 @@ Linux                    9 mins              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I used to think kanaroos are lovely](http://9gag.com/gag/apNjy3n)
- - 🚯 [Now that make sense](http://9gag.com/gag/aoMqBq0)
+ - 🚖 [Wait for it](http://9gag.com/gag/a4ErM8A)
+ - 🚯 [Satisfying](http://9gag.com/gag/a4ErMXd)
  - 🚯 [The Very First 9GAG NFT Is Here!](http://9gag.com/gag/azMDnex)
  - 😝 [Still a long way ahead of me. Feel proud and want to share. 25kg gone another 25 to go.](http://9gag.com/gag/aEpNrDn)
  - 🚅 [Guy enjoying his first head wax](http://9gag.com/gag/a07WmYX)<!-- MEMES:END -->
