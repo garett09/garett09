@@ -170,10 +170,10 @@ Linux                    9 mins              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Fixed it](http://9gag.com/gag/aDdNEbd)
- - 🚯 [Still a long way ahead of me. Feel proud and want to share. 25kg gone another 25 to go.](http://9gag.com/gag/aEpNrDn)
+ - 🚖 [Another day at the park](http://9gag.com/gag/aV71N1P)
+ - 🚯 [Guy enjoying his first head wax](http://9gag.com/gag/a07WmYX)
  - 🚯 [The Very First 9GAG NFT Is Here!](http://9gag.com/gag/azMDnex)
- - 😝 [Another day at the park](http://9gag.com/gag/aV71N1P)
+ - 😝 [Third degree burn in 144p.](http://9gag.com/gag/av5XNbq)
  - 🚅 [Laid to rest](http://9gag.com/gag/aV71NbK)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
