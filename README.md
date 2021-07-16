@@ -171,10 +171,10 @@ Linux                    9 mins              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 🚖 [Yes, let me shoot this innocent store owner and expect no repercussions.](http://9gag.com/gag/aGpN5LG)
- - 🚯 [People saving a frieman from drowning during today&#039;s flooding catastrophe in Germany](http://9gag.com/gag/aEpN4No)
  - 🚯 [Untouched water that&rsquo;s millions of years old](http://9gag.com/gag/a07Wqqd)
- - 😝 [These shitheads dumping plastic waste into Amazon river](http://9gag.com/gag/a3Eprom)
- - 🚅 [Old but gold](http://9gag.com/gag/aDdN5PN)<!-- MEMES:END -->
+ - 🚯 [Old but gold](http://9gag.com/gag/aDdN5PN)
+ - 😝 [People saving a frieman from drowning during today&#039;s flooding catastrophe in Germany](http://9gag.com/gag/aEpN4No)
+ - 🚅 [These shitheads dumping plastic waste into Amazon river](http://9gag.com/gag/a3Eprom)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
