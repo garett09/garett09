@@ -179,11 +179,11 @@ Linux                    9 mins              ░░░░░░░░░░░�
 ### 📣 Jokes of the hour
 
 <!-- JOKES:START -->
- - 🐔 [ATTENTION: Sexy Chivers. That is all (37 Photos)](https://thechive.com/2021/07/16/attention-sexy-chivers-that-is-all-37-photos-2/)
- - 🕉 [‘Bachelorette’ contestants are forbidden from masturbating](https://thechive.com/2021/07/16/bachelorette-contestants-are-forbidden-from-masturbating/)
- - 🕉 [Umm that’s the funniest f*#king thing I’ve seen all week (30 Photos)](https://thechive.com/2021/07/16/umm-thats-the-funniest-fking-thing-ive-seen-all-week-30-photos-8/)
- - 👾 [The Copper Bar is open and THERE WAS A HAPPY HOUR!! (50 HQ Photos)](https://thechive.com/2021/07/16/the-copper-bar-is-open-and-there-was-a-happy-hour-50-hq-photos/)
- - 🎈 [These struggling tops are in desperate need of your thoughts and prayers (41 photos)](https://thechive.com/2021/07/16/these-struggling-tops-are-in-desperate-need-of-your-thoughts-and-prayers-41-photos/)<!-- JOKES:END -->
+ - 🐔 [YEAH, it’s science memes b*tch! (32 Photos)](https://thechive.com/2021/07/16/yeah-its-science-memes-btch-32-photos/)
+ - 🕉 [Studios spared no expense to make these TV shows (17 Photos)](https://thechive.com/2021/07/16/studios-spared-no-expense-to-make-these-tv-shows-17-photos/)
+ - 🕉 [ATTENTION: Sexy Chivers. That is all (37 Photos)](https://thechive.com/2021/07/16/attention-sexy-chivers-that-is-all-37-photos-2/)
+ - 👾 [‘Bachelorette’ contestants are forbidden from masturbating](https://thechive.com/2021/07/16/bachelorette-contestants-are-forbidden-from-masturbating/)
+ - 🎈 [Umm that’s the funniest f*#king thing I’ve seen all week (30 Photos)](https://thechive.com/2021/07/16/umm-thats-the-funniest-fking-thing-ive-seen-all-week-30-photos-8/)<!-- JOKES:END -->
 
 ### 📣 Quotes of the hour
 
