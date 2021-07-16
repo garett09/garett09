@@ -170,11 +170,11 @@ Linux                    9 mins              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Is there something screwed up with the Matrix again, or did I wake up in the wrong reality?](http://9gag.com/gag/aP3dE3G)
- - 🚯 [Driver evades spike strip like a pro.](http://9gag.com/gag/aAbNzjL)
- - 🚯 [Got it!?](http://9gag.com/gag/a4ErXmp)
- - 😝 [That cat has seen some shit](http://9gag.com/gag/aoMqveX)
- - 🚅 [Don&#039;t click on the aed!](http://9gag.com/gag/aEpNmye)<!-- MEMES:END -->
+ - 🚖 [That cat has seen some shit](http://9gag.com/gag/aoMqveX)
+ - 🚯 [Y&#039;all need jesus](http://9gag.com/gag/a3Ep6gm)
+ - 🚯 [Don&#039;t click on the aed!](http://9gag.com/gag/aEpNmye)
+ - 😝 [Got it!?](http://9gag.com/gag/a4ErXmp)
+ - 🚅 [Only One Store In Watercrest Mall Stayed Untouched](http://9gag.com/gag/aMKNo1X)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
