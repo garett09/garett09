@@ -179,11 +179,11 @@ Linux                    9 mins              ░░░░░░░░░░░�
 ### 📣 Jokes of the hour
 
 <!-- JOKES:START -->
- - 🐔 [Things That Bounce is here! (15 GIFs)](https://thechive.com/2021/07/15/things-that-bounce-is-here-15-gifs/)
- - 🕉 [What’s worse: WTF sex, poop, or a polygamist](https://thechive.com/2021/07/15/whats-worse-wtf-sex-poop-or-a-polygamist/)
- - 🕉 [Movie quotes you should NOT say during SEX (25 Photos)](https://thechive.com/2021/07/15/movie-quotes-you-should-not-say-during-sex-25-photos/)
- - 👾 [You had… ONE JOB!!! (30 Photos)](https://thechive.com/2021/07/15/you-had-one-job-30-photos-4/)
- - 🎈 [Please, please, don’t make us go back into the office (45 Photos)](https://thechive.com/2021/07/15/please-please-dont-make-us-go-back-into-the-office-45-photos/)<!-- JOKES:END -->
+ - 🐔 [Stories that made people blurt out “IT’S NOT WHAT IT LOOKS LIKE” (18 GIFs)](https://thechive.com/2021/07/15/stories-that-made-people-blurt-out-its-not-what-it-looks-like/)
+ - 🕉 [Daily Dopamine Dump](http://i.thechive.com/dopamine-dump)
+ - 🕉 [Things That Bounce is here! (15 GIFs)](https://thechive.com/2021/07/15/things-that-bounce-is-here-15-gifs/)
+ - 👾 [What’s worse: WTF sex, poop, or a polygamist](https://thechive.com/2021/07/15/whats-worse-wtf-sex-poop-or-a-polygamist/)
+ - 🎈 [Movie quotes you should NOT say during SEX (25 Photos)](https://thechive.com/2021/07/15/movie-quotes-you-should-not-say-during-sex-25-photos/)<!-- JOKES:END -->
 
 ### 📣 Quotes of the hour
 
