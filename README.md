@@ -170,11 +170,11 @@ Linux                    9 mins              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [After the floodings...](http://9gag.com/gag/aP3d5oG)
- - 🚯 [Bear chewing on water hose accidentally slapped himself in the nuts](http://9gag.com/gag/apNj48E)
+ - 🚖 [Spacecraft?](http://9gag.com/gag/aGpNm20)
+ - 🚯 [Hey well done pals!](http://9gag.com/gag/aoMqXde)
  - 🚯 [The Very First 9GAG NFT Is Here!](http://9gag.com/gag/azMDnex)
  - 😝 [Finessing a Karen](http://9gag.com/gag/a8EXZy3)
- - 🚅 [Spacecraft?](http://9gag.com/gag/aGpNm20)<!-- MEMES:END -->
+ - 🚅 [If you want good customer service, than be a good customer.](http://9gag.com/gag/aQoNLVK)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
