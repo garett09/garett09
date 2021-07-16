@@ -170,11 +170,11 @@ Linux                    9 mins              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [There is no other way](http://9gag.com/gag/aNp2xeb)
- - 🚯 [Do those people exist?](http://9gag.com/gag/a9ENQDW)
+ - 🚖 [Fixed it](http://9gag.com/gag/aDdNEbd)
+ - 🚯 [Still a long way ahead of me. Feel proud and want to share. 25kg gone another 25 to go.](http://9gag.com/gag/aEpNrDn)
  - 🚯 [The Very First 9GAG NFT Is Here!](http://9gag.com/gag/azMDnex)
- - 😝 [Fixed it](http://9gag.com/gag/aDdNEbd)
- - 🚅 [There is a solution to looting....](http://9gag.com/gag/aGpNWDz)<!-- MEMES:END -->
+ - 😝 [Another day at the park](http://9gag.com/gag/aV71N1P)
+ - 🚅 [Laid to rest](http://9gag.com/gag/aV71NbK)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
