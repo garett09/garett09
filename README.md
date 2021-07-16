@@ -170,11 +170,11 @@ Linux                    9 mins              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [That cat has seen some shit](http://9gag.com/gag/aoMqveX)
- - 🚯 [Hail the queen](http://9gag.com/gag/a6E3Rem)
+ - 🚖 [Christoph Waltz in a kids show](http://9gag.com/gag/aK6NM1N)
+ - 🚯 [L&#039;&ouml;&ouml;&ouml;&ouml;](http://9gag.com/gag/azMD30Z)
  - 🚯 [Now this is just nice to see.](http://9gag.com/gag/a27j3mO)
- - 😝 [Christoph Waltz in a kids show](http://9gag.com/gag/aK6NM1N)
- - 🚅 [L&#039;&ouml;&ouml;&ouml;&ouml;](http://9gag.com/gag/azMD30Z)<!-- MEMES:END -->
+ - 😝 [Bear chewing on water hose accidentally slapped himself in the nuts](http://9gag.com/gag/apNj48E)
+ - 🚅 [Driver evades spike strip like a pro.](http://9gag.com/gag/aAbNzjL)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
