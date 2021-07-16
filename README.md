@@ -170,11 +170,11 @@ Linux                    9 mins              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Finessing a Karen](http://9gag.com/gag/a8EXZy3)
- - 🚯 [Y&#039;all need jesus](http://9gag.com/gag/a3Ep6gm)
+ - 🚖 [After the floodings...](http://9gag.com/gag/aP3d5oG)
+ - 🚯 [Bear chewing on water hose accidentally slapped himself in the nuts](http://9gag.com/gag/apNj48E)
  - 🚯 [The Very First 9GAG NFT Is Here!](http://9gag.com/gag/azMDnex)
- - 😝 [Czech Republic seems like a good place!](http://9gag.com/gag/abVm71X)
- - 🚅 [Traveling to Venice](http://9gag.com/gag/a5Ey4Mq)<!-- MEMES:END -->
+ - 😝 [Finessing a Karen](http://9gag.com/gag/a8EXZy3)
+ - 🚅 [Spacecraft?](http://9gag.com/gag/aGpNm20)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
