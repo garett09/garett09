@@ -170,10 +170,10 @@ Linux                    9 mins              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hey well done pals!](http://9gag.com/gag/aoMqXde)
- - 🚯 [Priorities](http://9gag.com/gag/abVm7np)
+ - 🚖 [Elder Karen VS. extremely patient hairdresser (sorry for the bad quality)](http://9gag.com/gag/aoMqb6m)
+ - 🚯 [A Georgia woman opened fire on a trio of robbers who broke into her house, killing one of the three invaders.](http://9gag.com/gag/aqjp35Z)
  - 🚯 [The Very First 9GAG NFT Is Here!](http://9gag.com/gag/azMDnex)
- - 😝 [Another day at the park](http://9gag.com/gag/aV71N1P)
+ - 😝 [What are they feeding the dog?](http://9gag.com/gag/aZ0VGrX)
  - 🚅 [Fixed it](http://9gag.com/gag/aDdNEbd)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
