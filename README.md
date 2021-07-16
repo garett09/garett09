@@ -171,9 +171,9 @@ Linux                    9 mins              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 🚖 [Wait for it](http://9gag.com/gag/a4ErM8A)
- - 🚯 [Satisfying](http://9gag.com/gag/a4ErMXd)
+ - 🚯 [Still a long way ahead of me. Feel proud and want to share. 25kg gone another 25 to go.](http://9gag.com/gag/aEpNrDn)
  - 🚯 [The Very First 9GAG NFT Is Here!](http://9gag.com/gag/azMDnex)
- - 😝 [Still a long way ahead of me. Feel proud and want to share. 25kg gone another 25 to go.](http://9gag.com/gag/aEpNrDn)
+ - 😝 [Satisfying](http://9gag.com/gag/a4ErMXd)
  - 🚅 [Guy enjoying his first head wax](http://9gag.com/gag/a07WmYX)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
