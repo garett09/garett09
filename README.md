@@ -170,11 +170,11 @@ Linux                    9 mins              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Spacecraft?](http://9gag.com/gag/aGpNm20)
- - 🚯 [Hey well done pals!](http://9gag.com/gag/aoMqXde)
+ - 🚖 [There is a solution to looting....](http://9gag.com/gag/aGpNWDz)
+ - 🚯 [Traveling to Venice](http://9gag.com/gag/a5Ey4Mq)
  - 🚯 [The Very First 9GAG NFT Is Here!](http://9gag.com/gag/azMDnex)
- - 😝 [Finessing a Karen](http://9gag.com/gag/a8EXZy3)
- - 🚅 [If you want good customer service, than be a good customer.](http://9gag.com/gag/aQoNLVK)<!-- MEMES:END -->
+ - 😝 [South african truck driver almost shot.](http://9gag.com/gag/aRXNbNM)
+ - 🚅 [After the floodings...](http://9gag.com/gag/aP3d5oG)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
