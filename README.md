@@ -179,11 +179,11 @@ Linux                    9 mins              ░░░░░░░░░░░�
 ### 📣 Jokes of the hour
 
 <!-- JOKES:START -->
- - 🐔 [It’s the weekend…Do you know where your Wingman is? (35 Photos)](https://thechive.com/2021/07/16/its-the-weekend-do-you-know-where-your-wingman-is-35-photos/)
+ - 🐔 [Daily Afternoon Randomness (52 HQ Photos)](https://thechive.com/2021/07/16/daily-afternoon-randomness-52-hq-photos-3/)
+ - 🕉 [It’s the weekend…Do you know where your Wingman is? (35 Photos)](https://thechive.com/2021/07/16/its-the-weekend-do-you-know-where-your-wingman-is-35-photos/)
  - 🕉 [Chivette Challenge: I scream, you scream, we all scream for ice cream (65 Photos)](https://thechive.com/2021/07/16/chivette-challenge-i-scream-you-scream-we-all-scream-for-ice-cream-65-photos/)
- - 🕉 [Look closer… Closer… Do you SEE IT?! (27 Photos)](https://thechive.com/2021/07/16/look-closer-closer-do-you-see-it-27-photos/)
- - 👾 [YEAH, it’s science memes b*tch! (32 Photos)](https://thechive.com/2021/07/16/yeah-its-science-memes-btch-32-photos/)
- - 🎈 [Studios spared no expense to make these TV shows (17 Photos)](https://thechive.com/2021/07/16/studios-spared-no-expense-to-make-these-tv-shows-17-photos/)<!-- JOKES:END -->
+ - 👾 [Look closer… Closer… Do you SEE IT?! (27 Photos)](https://thechive.com/2021/07/16/look-closer-closer-do-you-see-it-27-photos/)
+ - 🎈 [YEAH, it’s science memes b*tch! (32 Photos)](https://thechive.com/2021/07/16/yeah-its-science-memes-btch-32-photos/)<!-- JOKES:END -->
 
 ### 📣 Quotes of the hour
 
