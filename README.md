@@ -170,11 +170,11 @@ Linux                    9 mins              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Traveling to Venice](http://9gag.com/gag/a5Ey4Mq)
- - 🚯 [Only One Store In Watercrest Mall Stayed Untouched](http://9gag.com/gag/aMKNo1X)
- - 🚯 [When video games make better action movies than most action movies nowadays. People here often say it&#039;s a movie not a game (seriously?) but still this was dope.](http://9gag.com/gag/azMDWDp)
- - 😝 [Y&#039;all need jesus](http://9gag.com/gag/a3Ep6gm)
- - 🚅 [Got it!?](http://9gag.com/gag/a4ErXmp)<!-- MEMES:END -->
+ - 🚖 [Finessing a Karen](http://9gag.com/gag/a8EXZy3)
+ - 🚯 [Y&#039;all need jesus](http://9gag.com/gag/a3Ep6gm)
+ - 🚯 [The Very First 9GAG NFT Is Here!](http://9gag.com/gag/azMDnex)
+ - 😝 [Czech Republic seems like a good place!](http://9gag.com/gag/abVm71X)
+ - 🚅 [Traveling to Venice](http://9gag.com/gag/a5Ey4Mq)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
