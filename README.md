@@ -171,10 +171,10 @@ Linux                    9 mins              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 🚖 [Something went wrong](http://9gag.com/gag/a8EXZgO)
- - 🚯 [After the floodings...](http://9gag.com/gag/aP3d5oG)
+ - 🚯 [Know your rights! Its &ldquo;Shut the f*ck up Friday&rdquo;!](http://9gag.com/gag/anQWL1z)
  - 🚯 [The Very First 9GAG NFT Is Here!](http://9gag.com/gag/azMDnex)
- - 😝 [What are they feeding the dog?](http://9gag.com/gag/aZ0VGrX)
- - 🚅 [Priorities](http://9gag.com/gag/abVm7np)<!-- MEMES:END -->
+ - 😝 [Czech Republic seems like a good place!](http://9gag.com/gag/abVm71X)
+ - 🚅 [Hey well done pals!](http://9gag.com/gag/aoMqXde)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
