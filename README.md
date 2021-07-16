@@ -179,11 +179,11 @@ Linux                    9 mins              ░░░░░░░░░░░�
 ### 📣 Jokes of the hour
 
 <!-- JOKES:START -->
- - 🐔 [These pets have brought SHAME upon their households!! (32 Photos)](https://thechive.com/2021/07/16/these-pets-have-brought-shame-upon-their-households-32-photos/)
- - 🕉 [It’s So 90s It Hurts, Yet It Hurts So Good (38 Photos)](https://thechive.com/2021/07/16/its-so-90s-it-hurts-yet-it-hurts-so-good-38-photos/)
- - 🕉 [100% did NOT see that coming (24 GIFs)](https://thechive.com/2021/07/16/100-did-not-see-that-coming-24-gifs-2/)
- - 👾 [Mouth-watering homemade meals look good enough for any restaurant (38 Photos)](https://thechive.com/2021/07/16/mouth-watering-homemade-meals-look-good-enough-for-any-restaurant-38-photos/)
- - 🎈 [Kids have a name for everything, and they’re so wrong it might just be right (32 Photos and GIFs)](https://thechive.com/2021/07/16/kids-have-a-name-for-everything-and-theyre-so-wrong-it-might-just-be-right/)<!-- JOKES:END -->
+ - 🐔 [The Copper Bar is open and THERE WAS A HAPPY HOUR!! (50 HQ Photos)](https://thechive.com/2021/07/16/the-copper-bar-is-open-and-there-was-a-happy-hour-50-hq-photos/)
+ - 🕉 [These struggling tops are in desperate need of your thoughts and prayers (41 photos)](https://thechive.com/2021/07/16/these-struggling-tops-are-in-desperate-need-of-your-thoughts-and-prayers-41-photos/)
+ - 🕉 [These pets have brought SHAME upon their households!! (32 Photos)](https://thechive.com/2021/07/16/these-pets-have-brought-shame-upon-their-households-32-photos/)
+ - 👾 [It’s So 90s It Hurts, Yet It Hurts So Good (38 Photos)](https://thechive.com/2021/07/16/its-so-90s-it-hurts-yet-it-hurts-so-good-38-photos/)
+ - 🎈 [100% did NOT see that coming (25 GIFs)](https://thechive.com/2021/07/16/100-did-not-see-that-coming-24-gifs-2/)<!-- JOKES:END -->
 
 ### 📣 Quotes of the hour
 
