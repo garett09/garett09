@@ -179,11 +179,11 @@ Linux                    9 mins              ░░░░░░░░░░░�
 ### 📣 Jokes of the hour
 
 <!-- JOKES:START -->
- - 🐔 [Please, please, don’t make us go back into the office (45 Photos)](https://thechive.com/2021/07/15/please-please-dont-make-us-go-back-into-the-office-45-photos/)
- - 🕉 [“Yep, I’m definitely dead” moments people survived with next to no injury (18 Photos)](https://thechive.com/2021/07/15/yep-im-definitely-dead-moments-people-survived-with-next-to-no-injury-18-photos/)
- - 🕉 [Daily Afternoon Randomness (52 Photos)](https://thechive.com/2021/07/15/daily-afternoon-randomness-52-photos-59/)
- - 👾 [The last line of defense before the explosion (10 Photos)](https://thechive.com/2021/07/15/the-last-line-of-defense-before-the-explosion-10-photos/)
- - 🎈 [Kraft unveils limited edition Mac & Cheese Flavored Ice Cream and I’m both disgusted and intrigued](https://thechive.com/2021/07/15/kraft-unveils-limited-edition-mac-cheese-flavored-ice-cream-and-im-both-disgusted-and-intrigued/)<!-- JOKES:END -->
+ - 🐔 [Things That Bounce is here! (15 GIFs)](https://thechive.com/2021/07/15/things-that-bounce-is-here-15-gifs/)
+ - 🕉 [What’s worse: WTF sex, poop, or a polygamist](https://thechive.com/2021/07/15/whats-worse-wtf-sex-poop-or-a-polygamist/)
+ - 🕉 [Movie quotes you should NOT say during SEX (25 Photos)](https://thechive.com/2021/07/15/movie-quotes-you-should-not-say-during-sex-25-photos/)
+ - 👾 [You had… ONE JOB!!! (30 Photos)](https://thechive.com/2021/07/15/you-had-one-job-30-photos-4/)
+ - 🎈 [Please, please, don’t make us go back into the office (45 Photos)](https://thechive.com/2021/07/15/please-please-dont-make-us-go-back-into-the-office-45-photos/)<!-- JOKES:END -->
 
 ### 📣 Quotes of the hour
 
