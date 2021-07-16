@@ -170,11 +170,11 @@ Linux                    9 mins              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [These shitheads dumping plastic waste into Amazon river](http://9gag.com/gag/a3Eprom)
- - 🚯 [People saving a frieman from drowning during today&#039;s flooding catastrophe in Germany](http://9gag.com/gag/aEpN4No)
- - 🚯 [Guess which store wasn&rsquo;t looted?](http://9gag.com/gag/aV71pMO)
- - 😝 [Driver evades spike strip like a pro.](http://9gag.com/gag/aAbNzjL)
- - 🚅 [Hail the queen](http://9gag.com/gag/a6E3Rem)<!-- MEMES:END -->
+ - 🚖 [That cat has seen some shit](http://9gag.com/gag/aoMqveX)
+ - 🚯 [Hail the queen](http://9gag.com/gag/a6E3Rem)
+ - 🚯 [Now this is just nice to see.](http://9gag.com/gag/a27j3mO)
+ - 😝 [Christoph Waltz in a kids show](http://9gag.com/gag/aK6NM1N)
+ - 🚅 [L&#039;&ouml;&ouml;&ouml;&ouml;](http://9gag.com/gag/azMD30Z)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
