@@ -179,11 +179,11 @@ Linux                    9 mins              ░░░░░░░░░░░�
 ### 📣 Jokes of the hour
 
 <!-- JOKES:START -->
- - 🐔 [Mouth-watering homemade meals look good enough for any restaurant (38 Photos)](https://thechive.com/2021/07/16/mouth-watering-homemade-meals-look-good-enough-for-any-restaurant-38-photos/)
+ - 🐔 [100% did NOT see that coming (25 GIFs)](https://thechive.com/2021/07/16/100-did-not-see-that-coming-24-gifs-2/)
+ - 🕉 [Mouth-watering homemade meals look good enough for any restaurant (38 Photos)](https://thechive.com/2021/07/16/mouth-watering-homemade-meals-look-good-enough-for-any-restaurant-38-photos/)
  - 🕉 [Kids have a name for everything, and they’re so wrong it might just be right (32 Photos and GIFs)](https://thechive.com/2021/07/16/kids-have-a-name-for-everything-and-theyre-so-wrong-it-might-just-be-right/)
- - 🕉 [This traveling cat is living his best life all over the world (30 Photos)](https://thechive.com/2021/07/16/this-traveling-cat-is-living-his-best-life-all-over-the-world-30-photos/)
- - 👾 [The 50 best space films of all time (50 Photos)](https://thechive.com/2021/07/16/the-50-best-space-films-of-all-time-50-photos/)
- - 🎈 [Wow, you’re so limber…(34 Photos)](https://thechive.com/2021/07/16/wow-youre-so-limber-34-photos/)<!-- JOKES:END -->
+ - 👾 [This traveling cat is living his best life all over the world (30 Photos)](https://thechive.com/2021/07/16/this-traveling-cat-is-living-his-best-life-all-over-the-world-30-photos/)
+ - 🎈 [The 50 best space films of all time (50 Photos)](https://thechive.com/2021/07/16/the-50-best-space-films-of-all-time-50-photos/)<!-- JOKES:END -->
 
 ### 📣 Quotes of the hour
 
