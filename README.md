@@ -170,11 +170,11 @@ Linux                    9 mins              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Another day at the park](http://9gag.com/gag/aV71N1P)
- - 🚯 [Guy enjoying his first head wax](http://9gag.com/gag/a07WmYX)
+ - 🚖 [I used to think kanaroos are lovely](http://9gag.com/gag/apNjy3n)
+ - 🚯 [A Georgia woman opened fire on a trio of robbers who broke into her house, killing one of the three invaders.](http://9gag.com/gag/aqjp35Z)
  - 🚯 [The Very First 9GAG NFT Is Here!](http://9gag.com/gag/azMDnex)
- - 😝 [Third degree burn in 144p.](http://9gag.com/gag/av5XNbq)
- - 🚅 [Laid to rest](http://9gag.com/gag/aV71NbK)<!-- MEMES:END -->
+ - 😝 [Much wow](http://9gag.com/gag/aqjpvd7)
+ - 🚅 [Still a long way ahead of me. Feel proud and want to share. 25kg gone another 25 to go.](http://9gag.com/gag/aEpNrDn)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
