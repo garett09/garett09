@@ -188,11 +188,11 @@ Linux                    9 mins              ░░░░░░░░░░░�
 ### 📣 Quotes of the hour
 
 <!-- QUOTES:START -->
- - 🔥 ["It's the friends you can call up at 4 a.m. that matter." - Marlene Dietrich](https://www.brainyquote.com/quotes/marlene_dietrich_105242)
- - 🌮 ["One of the most beautiful qualities of true friendship is to understand and to be understood." - Lucius Annaeus Seneca](https://www.brainyquote.com/quotes/lucius_annaeus_seneca_155059)
- - 🌮 ["There are no strangers here; Only friends you haven't yet met." - William Butler Yeats](https://www.brainyquote.com/quotes/william_butler_yeats_383082)
- - 💯 ["The friend in my adversity I shall always cherish most. I can better trust those who helped to relieve the gloom of my dark hours than those who are so ready to enjoy with me the sunshine of my prosperity." - Ulysses S. Grant](https://www.brainyquote.com/quotes/ulysses_s_grant_132903)
- - 💫 ["A true friend is someone who is there for you when he'd rather be anywhere else." - Len Wein](https://www.brainyquote.com/quotes/len_wein_366317)<!-- QUOTES:END -->
+ - 🔥 ["One of the most beautiful qualities of true friendship is to understand and to be understood." - Lucius Annaeus Seneca](https://www.brainyquote.com/quotes/lucius_annaeus_seneca_155059)
+ - 🌮 ["Things are never quite as scary when you've got a best friend." - Bill Watterson](https://www.brainyquote.com/quotes/bill_watterson_383142)
+ - 🌮 ["The only way to have a friend is to be one." - Ralph Waldo Emerson](https://www.brainyquote.com/quotes/ralph_waldo_emerson_100740)
+ - 💯 ["There are no strangers here; Only friends you haven't yet met." - William Butler Yeats](https://www.brainyquote.com/quotes/william_butler_yeats_383082)
+ - 💫 ["The greatest gift of life is friendship, and I have received it." - Hubert H. Humphrey](https://www.brainyquote.com/quotes/hubert_h_humphrey_152599)<!-- QUOTES:END -->
 
 --- 
 ### 💻 Workspace Spec
