@@ -171,10 +171,10 @@ Linux                    9 mins              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 🚖 [I used to think kanaroos are lovely](http://9gag.com/gag/apNjy3n)
- - 🚯 [A Georgia woman opened fire on a trio of robbers who broke into her house, killing one of the three invaders.](http://9gag.com/gag/aqjp35Z)
+ - 🚯 [Now that make sense](http://9gag.com/gag/aoMqBq0)
  - 🚯 [The Very First 9GAG NFT Is Here!](http://9gag.com/gag/azMDnex)
- - 😝 [Much wow](http://9gag.com/gag/aqjpvd7)
- - 🚅 [Still a long way ahead of me. Feel proud and want to share. 25kg gone another 25 to go.](http://9gag.com/gag/aEpNrDn)<!-- MEMES:END -->
+ - 😝 [Still a long way ahead of me. Feel proud and want to share. 25kg gone another 25 to go.](http://9gag.com/gag/aEpNrDn)
+ - 🚅 [Guy enjoying his first head wax](http://9gag.com/gag/a07WmYX)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
