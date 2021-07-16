@@ -170,11 +170,11 @@ Linux                    9 mins              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Christoph Waltz in a kids show](http://9gag.com/gag/aK6NM1N)
- - 🚯 [L&#039;&ouml;&ouml;&ouml;&ouml;](http://9gag.com/gag/azMD30Z)
- - 🚯 [Now this is just nice to see.](http://9gag.com/gag/a27j3mO)
- - 😝 [Bear chewing on water hose accidentally slapped himself in the nuts](http://9gag.com/gag/apNj48E)
- - 🚅 [Driver evades spike strip like a pro.](http://9gag.com/gag/aAbNzjL)<!-- MEMES:END -->
+ - 🚖 [Is there something screwed up with the Matrix again, or did I wake up in the wrong reality?](http://9gag.com/gag/aP3dE3G)
+ - 🚯 [Driver evades spike strip like a pro.](http://9gag.com/gag/aAbNzjL)
+ - 🚯 [Got it!?](http://9gag.com/gag/a4ErXmp)
+ - 😝 [That cat has seen some shit](http://9gag.com/gag/aoMqveX)
+ - 🚅 [Don&#039;t click on the aed!](http://9gag.com/gag/aEpNmye)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
