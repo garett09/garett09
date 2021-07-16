@@ -170,10 +170,10 @@ Linux                    9 mins              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Untouched water that&rsquo;s millions of years old](http://9gag.com/gag/a07Wqqd)
- - 🚯 [Old but gold](http://9gag.com/gag/aDdN5PN)
- - 🚯 [These shitheads dumping plastic waste into Amazon river](http://9gag.com/gag/a3Eprom)
- - 😝 [People saving a frieman from drowning during today&#039;s flooding catastrophe in Germany](http://9gag.com/gag/aEpN4No)
+ - 🚖 [These shitheads dumping plastic waste into Amazon river](http://9gag.com/gag/a3Eprom)
+ - 🚯 [People saving a frieman from drowning during today&#039;s flooding catastrophe in Germany](http://9gag.com/gag/aEpN4No)
+ - 🚯 [Guess which store wasn&rsquo;t looted?](http://9gag.com/gag/aV71pMO)
+ - 😝 [Driver evades spike strip like a pro.](http://9gag.com/gag/aAbNzjL)
  - 🚅 [Hail the queen](http://9gag.com/gag/a6E3Rem)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
