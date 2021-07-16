@@ -170,11 +170,11 @@ Linux                    9 mins              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [That cat has seen some shit](http://9gag.com/gag/aoMqveX)
- - 🚯 [Y&#039;all need jesus](http://9gag.com/gag/a3Ep6gm)
- - 🚯 [Don&#039;t click on the aed!](http://9gag.com/gag/aEpNmye)
- - 😝 [Got it!?](http://9gag.com/gag/a4ErXmp)
- - 🚅 [Only One Store In Watercrest Mall Stayed Untouched](http://9gag.com/gag/aMKNo1X)<!-- MEMES:END -->
+ - 🚖 [Traveling to Venice](http://9gag.com/gag/a5Ey4Mq)
+ - 🚯 [Only One Store In Watercrest Mall Stayed Untouched](http://9gag.com/gag/aMKNo1X)
+ - 🚯 [When video games make better action movies than most action movies nowadays. People here often say it&#039;s a movie not a game (seriously?) but still this was dope.](http://9gag.com/gag/azMDWDp)
+ - 😝 [Y&#039;all need jesus](http://9gag.com/gag/a3Ep6gm)
+ - 🚅 [Got it!?](http://9gag.com/gag/a4ErXmp)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
