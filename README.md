@@ -177,11 +177,11 @@ Windows                  3 hrs 45 mins       ███████████�
 ### 📣 Jokes of the hour
 
 <!-- JOKES:START -->
- - 🐔 [What do we want? Not these! When do we want them? NEVER! (30 Photos)](https://thechive.com/2021/07/17/what-do-we-want-not-these-when-do-we-want-them-never-30-photos/)
- - 🕉 [The Hunnies and Funnies Have Arrived on Time (17 Photos)](https://thechive.com/2021/07/17/the-hunnies-and-funnies-have-arrived-on-time-17-photos/)
- - 🕉 [Weekend Morning Awesomeness (40 Photos)](https://thechive.com/2021/07/17/weekend-morning-awesomeness-40-photos-52/)
- - 👾 [Crack Open a Crypt Creepy Facts (15 GIFs)](https://thechive.com/2021/07/17/crack-open-a-crypt-creepy-facts-15-gifs/)
- - 🎈 [This laugh is on the house….(40 Photos)](https://thechive.com/2021/07/16/this-laugh-is-on-the-house-40-photos-15/)<!-- JOKES:END -->
+ - 🐔 [These people, pets, and objects have a way of blending into the background (22 Photos)](https://thechive.com/2021/07/17/these-people-pets-and-objects-have-a-way-of-blending-into-the-background/)
+ - 🕉 [I Like My Facts Like My Capitalization: RanDom](https://thechive.com/2021/07/17/i-like-my-facts-like-my-capitalization-random/)
+ - 🕉 [What do we want? Not these! When do we want them? NEVER! (30 Photos)](https://thechive.com/2021/07/17/what-do-we-want-not-these-when-do-we-want-them-never-30-photos/)
+ - 👾 [The Hunnies and Funnies Have Arrived on Time (17 Photos)](https://thechive.com/2021/07/17/the-hunnies-and-funnies-have-arrived-on-time-17-photos/)
+ - 🎈 [Weekend Morning Awesomeness (40 Photos)](https://thechive.com/2021/07/17/weekend-morning-awesomeness-40-photos-52/)<!-- JOKES:END -->
 
 ### 📣 Quotes of the hour
 
