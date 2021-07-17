@@ -168,11 +168,11 @@ Windows                  3 hrs 45 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Officer WT&hellip;. Oh thanks!](http://9gag.com/gag/aLpVRN5)
- - 🚯 [There&#039;s always room for one more person in hell](http://9gag.com/gag/a1rBAMD)
+ - 🚖 [Mad lad fans leak military documents to prove tanks are wrong.](http://9gag.com/gag/aoMAzPm)
+ - 🚯 [Officer WT&hellip;. Oh thanks!](http://9gag.com/gag/aLpVRN5)
  - 🚯 [The Very First 9GAG NFT Is Here!](http://9gag.com/gag/azMDnex)
- - 😝 [I think we know where this is going](http://9gag.com/gag/apNzK8D)
- - 🚅 [Small difference](http://9gag.com/gag/ayMZE6V)<!-- MEMES:END -->
+ - 😝 [There&#039;s always room for one more person in hell](http://9gag.com/gag/a1rBAMD)
+ - 🚅 [In 1996, a newborn baby girl was left in a garbage can near the city of Kolkata, India. Three friendly street dogs discovered and protected her for nearly two days, even attempting to feed the child before authorities were contacted and the young one was saved.](http://9gag.com/gag/agB6y0v)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
