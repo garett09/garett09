@@ -168,11 +168,11 @@ Windows                  3 hrs 45 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Intentionally cutting off another car](http://9gag.com/gag/aEpyGAp)
- - 🚯 [Government: be carefull in the flooded areas, take no risk, germans: hold my beer](http://9gag.com/gag/aV74Wzd)
- - 🚯 [Unreal engine uruk-hai](http://9gag.com/gag/aAbqV4R)
- - 😝 [This guy thought it would be a good ideia to start a fight on porpuse with strangers, for internet points...](http://9gag.com/gag/aXoQpyD)
- - 🚅 [I found this](http://9gag.com/gag/a1rBZjD)<!-- MEMES:END -->
+ - 🚖 [Government: be carefull in the flooded areas, take no risk, germans: hold my beer](http://9gag.com/gag/aV74Wzd)
+ - 🚯 [When you realize its a bad idea that you even existed..](http://9gag.com/gag/aV74XvO)
+ - 🚯 [I found this](http://9gag.com/gag/a1rBZjD)
+ - 😝 [I&rsquo;ve collected hundreds of plastic bottles floating in this lake!](http://9gag.com/gag/a8EQbVO)
+ - 🚅 [A more scientifically accurate T-Rex rendering](http://9gag.com/gag/aYoZpGw)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
