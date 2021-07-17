@@ -168,10 +168,10 @@ Windows                  3 hrs 45 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Just a number](http://9gag.com/gag/ad8ryMB)
- - 🚯 [Satisfying](http://9gag.com/gag/a4ErMXd)
+ - 🚖 [Honestly](http://9gag.com/gag/aAbqBMd)
+ - 🚯 [Just a number](http://9gag.com/gag/ad8ryMB)
  - 🚯 [The Very First 9GAG NFT Is Here!](http://9gag.com/gag/azMDnex)
- - 😝 [He must be getting paid by the bag !](http://9gag.com/gag/a8EXPXV)
+ - 😝 [How to fish Piranha in Maranh&atilde;o Brazil](http://9gag.com/gag/aAbNnbo)
  - 🚅 [And it was awesome](http://9gag.com/gag/aGp6KGz)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
