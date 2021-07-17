@@ -168,11 +168,11 @@ Windows                  3 hrs 45 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Government: be carefull in the flooded areas, take no risk, germans: hold my beer](http://9gag.com/gag/aV74Wzd)
- - 🚯 [When you realize its a bad idea that you even existed..](http://9gag.com/gag/aV74XvO)
- - 🚯 [I found this](http://9gag.com/gag/a1rBZjD)
- - 😝 [I&rsquo;ve collected hundreds of plastic bottles floating in this lake!](http://9gag.com/gag/a8EQbVO)
- - 🚅 [A more scientifically accurate T-Rex rendering](http://9gag.com/gag/aYoZpGw)<!-- MEMES:END -->
+ - 🚖 [Leonardo DiCaprio and Monica Bellucci](http://9gag.com/gag/aB2jrRD)
+ - 🚯 [I&rsquo;ve collected hundreds of plastic bottles floating in this lake!](http://9gag.com/gag/a8EQbVO)
+ - 🚯 [A more scientifically accurate T-Rex rendering](http://9gag.com/gag/aYoZpGw)
+ - 😝 [AWNNNN](http://9gag.com/gag/aNp8Z4A)
+ - 🚅 [She was celebrating by herself and then the restaurant staff joined in.](http://9gag.com/gag/aLpVBeV)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
