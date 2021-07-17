@@ -169,10 +169,10 @@ Windows                  3 hrs 45 mins       ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Paraguayan Robot Chicken](http://9gag.com/gag/aO3AKrR)
- - 🚯 [Just a number](http://9gag.com/gag/ad8ryMB)
+ - 🚯 [Much wow](http://9gag.com/gag/aqjpvd7)
  - 🚯 [The Very First 9GAG NFT Is Here!](http://9gag.com/gag/azMDnex)
  - 😝 [And it was awesome](http://9gag.com/gag/aGp6KGz)
- - 🚅 [Much wow](http://9gag.com/gag/aqjpvd7)<!-- MEMES:END -->
+ - 🚅 [Time wait for no one](http://9gag.com/gag/a9EZjo6)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
