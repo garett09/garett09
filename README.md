@@ -168,11 +168,11 @@ Windows                  3 hrs 45 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Damn his wife nice... AYO WTF](http://9gag.com/gag/abVKqOb)
- - 🚯 [Heat](http://9gag.com/gag/agB60mq)
- - 🚯 [It was dumb, but enjoyable.](http://9gag.com/gag/awMPrZD)
- - 😝 [Limburg the Netherlands Altough Germany also has problems with the rain people living at the border are helping us Dutch to control the problem. Another reason Germany and the Germans are great. Tnx, nachbarn.](http://9gag.com/gag/aAbqV1p)
- - 🚅 [Intentionally cutting off another car](http://9gag.com/gag/aEpyGAp)<!-- MEMES:END -->
+ - 🚖 [I miss you so much it hurts](http://9gag.com/gag/aWjP09q)
+ - 🚯 [I found this](http://9gag.com/gag/a1rBZjD)
+ - 🚯 [The lamp that we needed.](http://9gag.com/gag/aV74WOd)
+ - 😝 [Mother! I have fallen off my scooter and require assistance!](http://9gag.com/gag/aQoBpnq)
+ - 🚅 [Today&#039;s pickings from my little garden](http://9gag.com/gag/a07zP9d)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
