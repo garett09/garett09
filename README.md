@@ -168,11 +168,11 @@ Windows                  3 hrs 45 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Strange accident](http://9gag.com/gag/anQ8NX5)
+ - 🚖 [Indeed](http://9gag.com/gag/aoMA923)
  - 🚯 [Leonardo DiCaprio and Monica Bellucci](http://9gag.com/gag/aB2jrRD)
- - 🚯 [The lamp that we needed.](http://9gag.com/gag/aV74WOd)
- - 😝 [Aftermath of the flood in bad neuenahr, nearby my hometown. Looks like Photoshop or something. Still can&#039;t believe what happened the last few days...](http://9gag.com/gag/aZ0oNOX)
- - 🚅 [Australia right now. Germany 2.0](http://9gag.com/gag/awMPxbx)<!-- MEMES:END -->
+ - 🚯 [Strange accident](http://9gag.com/gag/anQ8NX5)
+ - 😝 [This guy thought it would be a good ideia to start a fight on porpuse with strangers, for internet points...](http://9gag.com/gag/aXoQpyD)
+ - 🚅 [Aftermath of the flood in bad neuenahr, nearby my hometown. Looks like Photoshop or something. Still can&#039;t believe what happened the last few days...](http://9gag.com/gag/aZ0oNOX)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
