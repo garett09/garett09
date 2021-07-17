@@ -168,11 +168,11 @@ Windows                  3 hrs 45 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [And it was awesome](http://9gag.com/gag/aGp6KGz)
- - 🚯 [Time wait for no one](http://9gag.com/gag/a9EZjo6)
+ - 🚖 [Officer WT&hellip;. Oh thanks!](http://9gag.com/gag/aLpVRN5)
+ - 🚯 [There&#039;s always room for one more person in hell](http://9gag.com/gag/a1rBAMD)
  - 🚯 [The Very First 9GAG NFT Is Here!](http://9gag.com/gag/azMDnex)
- - 😝 [Sad but soo true.](http://9gag.com/gag/ayMZ7AX)
- - 🚅 [I think we know where this is going](http://9gag.com/gag/apNzK8D)<!-- MEMES:END -->
+ - 😝 [I think we know where this is going](http://9gag.com/gag/apNzK8D)
+ - 🚅 [Small difference](http://9gag.com/gag/ayMZE6V)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
