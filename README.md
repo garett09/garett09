@@ -168,11 +168,11 @@ Windows                  3 hrs 45 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Wait for it](http://9gag.com/gag/a4ErM8A)
- - 🚯 [Still a long way ahead of me. Feel proud and want to share. 25kg gone another 25 to go.](http://9gag.com/gag/aEpNrDn)
+ - 🚖 [And it was awesome](http://9gag.com/gag/aGp6KGz)
+ - 🚯 [Do those people exist?](http://9gag.com/gag/a9ENQDW)
  - 🚯 [The Very First 9GAG NFT Is Here!](http://9gag.com/gag/azMDnex)
- - 😝 [Satisfying](http://9gag.com/gag/a4ErMXd)
- - 🚅 [Guy enjoying his first head wax](http://9gag.com/gag/a07WmYX)<!-- MEMES:END -->
+ - 😝 [Guy enjoying his first head wax](http://9gag.com/gag/a07WmYX)
+ - 🚅 [Satisfying](http://9gag.com/gag/a4ErMXd)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
