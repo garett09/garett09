@@ -168,11 +168,11 @@ Windows                  3 hrs 45 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Leonardo DiCaprio and Monica Bellucci](http://9gag.com/gag/aB2jrRD)
- - 🚯 [I&rsquo;ve collected hundreds of plastic bottles floating in this lake!](http://9gag.com/gag/a8EQbVO)
- - 🚯 [A more scientifically accurate T-Rex rendering](http://9gag.com/gag/aYoZpGw)
+ - 🚖 [A more scientifically accurate T-Rex rendering](http://9gag.com/gag/aYoZpGw)
+ - 🚯 [The da Vinci surgical system.](http://9gag.com/gag/aAbqpQp)
+ - 🚯 [Leonardo DiCaprio and Monica Bellucci](http://9gag.com/gag/aB2jrRD)
  - 😝 [AWNNNN](http://9gag.com/gag/aNp8Z4A)
- - 🚅 [She was celebrating by herself and then the restaurant staff joined in.](http://9gag.com/gag/aLpVBeV)<!-- MEMES:END -->
+ - 🚅 [The lamp that we needed.](http://9gag.com/gag/aV74WOd)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
