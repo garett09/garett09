@@ -168,11 +168,11 @@ Windows                  3 hrs 45 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Honestly](http://9gag.com/gag/aAbqBMd)
+ - 🚖 [Paraguayan Robot Chicken](http://9gag.com/gag/aO3AKrR)
  - 🚯 [Just a number](http://9gag.com/gag/ad8ryMB)
  - 🚯 [The Very First 9GAG NFT Is Here!](http://9gag.com/gag/azMDnex)
- - 😝 [How to fish Piranha in Maranh&atilde;o Brazil](http://9gag.com/gag/aAbNnbo)
- - 🚅 [And it was awesome](http://9gag.com/gag/aGp6KGz)<!-- MEMES:END -->
+ - 😝 [And it was awesome](http://9gag.com/gag/aGp6KGz)
+ - 🚅 [Much wow](http://9gag.com/gag/aqjpvd7)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
