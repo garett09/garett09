@@ -177,11 +177,11 @@ Windows                  3 hrs 45 mins       ███████████�
 ### 📣 Jokes of the hour
 
 <!-- JOKES:START -->
- - 🐔 [These people, pets, and objects have a way of blending into the background (22 Photos)](https://thechive.com/2021/07/17/these-people-pets-and-objects-have-a-way-of-blending-into-the-background/)
- - 🕉 [I Like My Facts Like My Capitalization: RanDom](https://thechive.com/2021/07/17/i-like-my-facts-like-my-capitalization-random/)
- - 🕉 [What do we want? Not these! When do we want them? NEVER! (30 Photos)](https://thechive.com/2021/07/17/what-do-we-want-not-these-when-do-we-want-them-never-30-photos/)
- - 👾 [The Hunnies and Funnies Have Arrived on Time (17 Photos)](https://thechive.com/2021/07/17/the-hunnies-and-funnies-have-arrived-on-time-17-photos/)
- - 🎈 [Weekend Morning Awesomeness (40 Photos)](https://thechive.com/2021/07/17/weekend-morning-awesomeness-40-photos-52/)<!-- JOKES:END -->
+ - 🐔 [Cat Saturday Is Here Like a Bowl of Milk (32 Photos)](https://thechive.com/2021/07/17/cat-saturday-is-here-like-a-bowl-of-milk-32-photos/)
+ - 🕉 [Local hammer survey reveals this week’s NAILED IT champs (41 Photos)](https://thechive.com/2021/07/17/local-hammer-survey-reveals-this-weeks-nailed-it-champs-41-photos/)
+ - 🕉 [The ‘Popular’ Sh*t People Actually Hate](https://thechive.com/2021/07/17/the-popular-sht-people-actually-hate/)
+ - 👾 [These people, pets, and objects have a way of blending into the background (22 Photos)](https://thechive.com/2021/07/17/these-people-pets-and-objects-have-a-way-of-blending-into-the-background/)
+ - 🎈 [I Like My Facts Like My Capitalization: RanDom](https://thechive.com/2021/07/17/i-like-my-facts-like-my-capitalization-random/)<!-- JOKES:END -->
 
 ### 📣 Quotes of the hour
 
