@@ -168,11 +168,11 @@ Windows                  3 hrs 45 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Mother! I have fallen off my scooter and require assistance!](http://9gag.com/gag/aQoBpnq)
+ - 🚖 [Intentionally cutting off another car](http://9gag.com/gag/aEpyGAp)
  - 🚯 [Government: be carefull in the flooded areas, take no risk, germans: hold my beer](http://9gag.com/gag/aV74Wzd)
- - 🚯 [Intentionally cutting off another car](http://9gag.com/gag/aEpyGAp)
- - 😝 [Unreal engine uruk-hai](http://9gag.com/gag/aAbqV4R)
- - 🚅 [AWNNNN](http://9gag.com/gag/aNp8Z4A)<!-- MEMES:END -->
+ - 🚯 [Unreal engine uruk-hai](http://9gag.com/gag/aAbqV4R)
+ - 😝 [This guy thought it would be a good ideia to start a fight on porpuse with strangers, for internet points...](http://9gag.com/gag/aXoQpyD)
+ - 🚅 [I found this](http://9gag.com/gag/a1rBZjD)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
