@@ -168,11 +168,11 @@ Windows                  3 hrs 45 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This is not ok](http://9gag.com/gag/aAbqY6g)
- - 🚯 [Mad lad fans leak military documents to prove tanks are wrong.](http://9gag.com/gag/aoMAzPm)
- - 🚯 [Screw football championship, give me more of this!](http://9gag.com/gag/aGp6YLK)
+ - 🚖 [Sad but soo true.](http://9gag.com/gag/ayMZ7AX)
+ - 🚯 [Expectations](http://9gag.com/gag/aV74OLO)
+ - 🚯 [Found on Facebook](http://9gag.com/gag/aAbqYgL)
  - 😝 [There&#039;s always room for one more person in hell](http://9gag.com/gag/a1rBAMD)
- - 🚅 [Sad but soo true.](http://9gag.com/gag/ayMZ7AX)<!-- MEMES:END -->
+ - 🚅 [In 1996, a newborn baby girl was left in a garbage can near the city of Kolkata, India. Three friendly street dogs discovered and protected her for nearly two days, even attempting to feed the child before authorities were contacted and the young one was saved.](http://9gag.com/gag/agB6y0v)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
