@@ -177,11 +177,11 @@ Windows                  3 hrs 45 mins       ███████████�
 ### 📣 Jokes of the hour
 
 <!-- JOKES:START -->
- - 🐔 [A 12-year-old just took gold at the X-Games….against Tony Hawk! (6 GIFs)](https://thechive.com/2021/07/17/a-12-year-old-just-took-gold-at-the-x-games-against-tony-hawk-6-gifs/)
- - 🕉 [Weird messages from cheugy boomers with some sus vibes (33 Photos)](https://thechive.com/2021/07/17/weird-messages-from-cheugy-boomers-with-some-sus-vibes-33-photos/)
- - 🕉 [“Clown Prince of Hip-Hop” Biz Markie dead at 57 (12 Photos)](https://thechive.com/2021/07/17/clown-prince-of-hip-hop-biz-markie-dead-at-57-12-photos/)
- - 👾 [Cat Saturday Is Here Like a Bowl of Milk (32 Photos)](https://thechive.com/2021/07/17/cat-saturday-is-here-like-a-bowl-of-milk-32-photos/)
- - 🎈 [Local hammer survey reveals this week’s NAILED IT champs (41 Photos)](https://thechive.com/2021/07/17/local-hammer-survey-reveals-this-weeks-nailed-it-champs-41-photos/)<!-- JOKES:END -->
+ - 🐔 [It’s pretty simple, I’m into dimples (32 Photos)](https://thechive.com/2021/07/17/its-pretty-simple-im-into-dimples-32-photos/)
+ - 🕉 [Kids Can Be Really F**king Creepy (15 GIFs)](https://thechive.com/2021/07/17/kids-can-be-really-fking-creepy-15-gifs/)
+ - 🕉 [A 12-year-old just took gold at the X-Games….against Tony Hawk! (6 GIFs)](https://thechive.com/2021/07/17/a-12-year-old-just-took-gold-at-the-x-games-against-tony-hawk-6-gifs/)
+ - 👾 [Weird messages from cheugy boomers with some sus vibes (33 Photos)](https://thechive.com/2021/07/17/weird-messages-from-cheugy-boomers-with-some-sus-vibes-33-photos/)
+ - 🎈 [“Clown Prince of Hip-Hop” Biz Markie dead at 57 (12 Photos)](https://thechive.com/2021/07/17/clown-prince-of-hip-hop-biz-markie-dead-at-57-12-photos/)<!-- JOKES:END -->
 
 ### 📣 Quotes of the hour
 
