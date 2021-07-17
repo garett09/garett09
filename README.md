@@ -169,10 +169,10 @@ Windows                  3 hrs 45 mins       ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Germany so hot right now](http://9gag.com/gag/agB6yZg)
- - 🚯 [Steam powered locomotive (Santa Fe 3751) smokin it down a California highway](http://9gag.com/gag/aRX9w22)
+ - 🚯 [Expectations](http://9gag.com/gag/aV74OLO)
  - 🚯 [Best Simpsons intro](http://9gag.com/gag/aO3AqR6)
- - 😝 [Expectations](http://9gag.com/gag/aV74OLO)
- - 🚅 [Found on Facebook](http://9gag.com/gag/aAbqYgL)<!-- MEMES:END -->
+ - 😝 [Found on Facebook](http://9gag.com/gag/aAbqYgL)
+ - 🚅 [Limburg the Netherlands Altough Germany also has problems with the rain people living at the border are helping us Dutch to control the problem. Another reason Germany and the Germans are great. Tnx, nachbarn.](http://9gag.com/gag/aAbqV1p)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
