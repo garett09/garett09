@@ -177,11 +177,11 @@ Windows                  3 hrs 45 mins       ███████████�
 ### 📣 Jokes of the hour
 
 <!-- JOKES:START -->
- - 🐔 [Weekend Morning Awesomeness (40 Photos)](https://thechive.com/2021/07/17/weekend-morning-awesomeness-40-photos-52/)
- - 🕉 [Crack Open a Crypt Creepy Facts (15 GIFs)](https://thechive.com/2021/07/17/crack-open-a-crypt-creepy-facts-15-gifs/)
- - 🕉 [This laugh is on the house….(40 Photos)](https://thechive.com/2021/07/16/this-laugh-is-on-the-house-40-photos-15/)
- - 👾 [Turns out marriage is a big f@#%ing joke (31 Photos)](https://thechive.com/2021/07/16/turns-out-marriage-is-a-big-fing-joke-30-photos/)
- - 🎈 [Craigslist ad seeking wedding date for “narcissist” mother-in-law is on fire for perfect reasons (10 Photos and GIFs)](https://thechive.com/2021/07/16/craigslist-ad-seeking-wedding-date-for-narcissist-mother-in-law-is-on-fire-for-perfect-reasons/)<!-- JOKES:END -->
+ - 🐔 [What do we want? Not these! When do we want them? NEVER! (30 Photos)](https://thechive.com/2021/07/17/what-do-we-want-not-these-when-do-we-want-them-never-30-photos/)
+ - 🕉 [The Hunnies and Funnies Have Arrived on Time (17 Photos)](https://thechive.com/2021/07/17/the-hunnies-and-funnies-have-arrived-on-time-17-photos/)
+ - 🕉 [Weekend Morning Awesomeness (40 Photos)](https://thechive.com/2021/07/17/weekend-morning-awesomeness-40-photos-52/)
+ - 👾 [Crack Open a Crypt Creepy Facts (15 GIFs)](https://thechive.com/2021/07/17/crack-open-a-crypt-creepy-facts-15-gifs/)
+ - 🎈 [This laugh is on the house….(40 Photos)](https://thechive.com/2021/07/16/this-laugh-is-on-the-house-40-photos-15/)<!-- JOKES:END -->
 
 ### 📣 Quotes of the hour
 
