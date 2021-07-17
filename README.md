@@ -168,10 +168,10 @@ Windows                  3 hrs 45 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Germany so hot right now](http://9gag.com/gag/agB6yZg)
- - 🚯 [Expectations](http://9gag.com/gag/aV74OLO)
- - 🚯 [Best Simpsons intro](http://9gag.com/gag/aO3AqR6)
- - 😝 [Found on Facebook](http://9gag.com/gag/aAbqYgL)
+ - 🚖 [I&rsquo;ve collected hundreds of plastic bottles floating in this lake!](http://9gag.com/gag/a8EQbVO)
+ - 🚯 [Unreal engine uruk-hai](http://9gag.com/gag/aAbqV4R)
+ - 🚯 [This is not ok](http://9gag.com/gag/aAbqY6g)
+ - 😝 [You f**king f**king blo*dy blo*dy!!](http://9gag.com/gag/axMQdxb)
  - 🚅 [Limburg the Netherlands Altough Germany also has problems with the rain people living at the border are helping us Dutch to control the problem. Another reason Germany and the Germans are great. Tnx, nachbarn.](http://9gag.com/gag/aAbqV1p)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
