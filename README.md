@@ -177,11 +177,11 @@ Windows                  3 hrs 45 mins       ███████████�
 ### 📣 Jokes of the hour
 
 <!-- JOKES:START -->
- - 🐔 [Red flags at weddings that left us saying “this won’t last” (18 GIFs)](https://thechive.com/2021/07/16/red-flags-at-weddings-that-left-us-saying-this-wont-last-18-gifs/)
- - 🕉 [Cheers to drinking memes, booze, and the weekend!! (52 Photos)](https://thechive.com/2021/07/16/cheers-to-drinking-memes-booze-and-the-weekend-52-photos-6/)
- - 🕉 [Best Photos of the Week!! (100 Photos)](https://thechive.com/2021/07/16/best-photos-of-the-week-100-photos-161/)
- - 👾 [Daily Afternoon Randomness (52 HQ Photos)](https://thechive.com/2021/07/16/daily-afternoon-randomness-52-hq-photos-3/)
- - 🎈 [It’s the weekend…Do you know where your Wingman is? (35 Photos)](https://thechive.com/2021/07/16/its-the-weekend-do-you-know-where-your-wingman-is-35-photos/)<!-- JOKES:END -->
+ - 🐔 [These wholesome smiles are on the house (24 photos)](https://thechive.com/2021/07/16/these-wholesome-smiles-are-on-the-house-24-photos/)
+ - 🕉 [X-ray vision reveals incredible details that nature never could (21 Photos)](https://thechive.com/2021/07/16/x-ray-vision-reveals-incredible-details-that-nature-never-could-21-photos/)
+ - 🕉 [Daily Dopamine Dump](http://i.thechive.com/dopamine-dump)
+ - 👾 [Red flags at weddings that left us saying “this won’t last” (18 GIFs)](https://thechive.com/2021/07/16/red-flags-at-weddings-that-left-us-saying-this-wont-last-18-gifs/)
+ - 🎈 [Cheers to drinking memes, booze, and the weekend!! (52 Photos)](https://thechive.com/2021/07/16/cheers-to-drinking-memes-booze-and-the-weekend-52-photos-6/)<!-- JOKES:END -->
 
 ### 📣 Quotes of the hour
 
