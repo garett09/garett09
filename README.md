@@ -168,11 +168,11 @@ Windows                  3 hrs 45 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I miss you so much it hurts](http://9gag.com/gag/aWjP09q)
- - 🚯 [I found this](http://9gag.com/gag/a1rBZjD)
- - 🚯 [The lamp that we needed.](http://9gag.com/gag/aV74WOd)
+ - 🚖 [Government: be carefull in the flooded areas, take no risk, germans: hold my beer](http://9gag.com/gag/aV74Wzd)
+ - 🚯 [I miss you so much it hurts](http://9gag.com/gag/aWjP09q)
+ - 🚯 [Today&#039;s pickings from my little garden](http://9gag.com/gag/a07zP9d)
  - 😝 [Mother! I have fallen off my scooter and require assistance!](http://9gag.com/gag/aQoBpnq)
- - 🚅 [Today&#039;s pickings from my little garden](http://9gag.com/gag/a07zP9d)<!-- MEMES:END -->
+ - 🚅 [Intentionally cutting off another car](http://9gag.com/gag/aEpyGAp)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
