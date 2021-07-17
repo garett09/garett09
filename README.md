@@ -186,11 +186,11 @@ Windows                  3 hrs 45 mins       ███████████�
 ### 📣 Quotes of the hour
 
 <!-- QUOTES:START -->
- - 🔥 ["It's the friends you can call up at 4 a.m. that matter." - Marlene Dietrich](https://www.brainyquote.com/quotes/marlene_dietrich_105242)
- - 🌮 ["There are no strangers here; Only friends you haven't yet met." - William Butler Yeats](https://www.brainyquote.com/quotes/william_butler_yeats_383082)
- - 🌮 ["Friends and good manners will carry you where money won't go." - Margaret Walker](https://www.brainyquote.com/quotes/margaret_walker_189840)
- - 💯 ["The greatest gift of life is friendship, and I have received it." - Hubert H. Humphrey](https://www.brainyquote.com/quotes/hubert_h_humphrey_152599)
- - 💫 ["A thing of beauty is a joy forever: its loveliness increases; it will never pass into nothingness." - John Keats](https://www.brainyquote.com/quotes/john_keats_109205)<!-- QUOTES:END -->
+ - 🔥 ["There are no strangers here; Only friends you haven't yet met." - William Butler Yeats](https://www.brainyquote.com/quotes/william_butler_yeats_383082)
+ - 🌮 ["Things are never quite as scary when you've got a best friend." - Bill Watterson](https://www.brainyquote.com/quotes/bill_watterson_383142)
+ - 🌮 ["The only way to have a friend is to be one." - Ralph Waldo Emerson](https://www.brainyquote.com/quotes/ralph_waldo_emerson_100740)
+ - 💯 ["She is a friend of mind. She gather me, man. The pieces I am, she gather them and give them back to me in all the right order. It's good, you know, when you got a woman who is a friend of your mind." - Toni Morrison](https://www.brainyquote.com/quotes/toni_morrison_105243)
+ - 💫 ["I cannot even imagine where I would be today were it not for that handful of friends who have given me a heart full of joy. Let's face it, friends make life a lot more fun." - Charles R. Swindoll](https://www.brainyquote.com/quotes/charles_r_swindoll_121433)<!-- QUOTES:END -->
 
 --- 
 ### 💻 Workspace Spec
