@@ -166,11 +166,11 @@ Windows                  35 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [90th LAN Party&hellip;letz Go!](http://9gag.com/gag/a4EmZ0Q)
- - 🚯 [The logic on some people](http://9gag.com/gag/a3Eeqv5)
- - 🚯 [Needed hobby in pandemic, started with DIY mechanics. Just installed new spark plug filter. Not much but it&#039;s great fun](http://9gag.com/gag/aO3AdYN)
- - 😝 [I thought english is easy, until i meet scottish people](http://9gag.com/gag/aoMA1z3)
- - 🚅 [Solar eclipse in Portugal](http://9gag.com/gag/anQ8yoq)<!-- MEMES:END -->
+ - 🚖 [Diploma go go go go](http://9gag.com/gag/aqjBrRj)
+ - 🚯 [Solar eclipse in Portugal](http://9gag.com/gag/anQ8yoq)
+ - 🚯 [What a chad](http://9gag.com/gag/aDdrjXB)
+ - 😝 [Gov attempt to discourage street parking goes very badly](http://9gag.com/gag/aLpVMKv)
+ - 🚅 [The logic on some people](http://9gag.com/gag/a3Eeqv5)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
