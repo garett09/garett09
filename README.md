@@ -166,11 +166,11 @@ Windows                  35 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The size of the Everest compared to the size of the Earth.](http://9gag.com/gag/aXoQ91b)
+ - 🚖 [*sad pigeon noises*](http://9gag.com/gag/agB6Gwg)
+ - 🚯 [Nutella spaghetti](http://9gag.com/gag/aNp8n5A)
  - 🚯 [BADUMTSS...](http://9gag.com/gag/aDdrGLO)
- - 🚯 [Australia right now. Germany 2.0](http://9gag.com/gag/awMPxbx)
- - 😝 [Nine months sober today!](http://9gag.com/gag/abVKbOL)
- - 🚅 [Nutella spaghetti](http://9gag.com/gag/aNp8n5A)<!-- MEMES:END -->
+ - 😝 [Never forget](http://9gag.com/gag/aQoB85r)
+ - 🚅 [And for the pimples](http://9gag.com/gag/a5EvZpG)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
