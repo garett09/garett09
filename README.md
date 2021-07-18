@@ -166,10 +166,10 @@ Windows                  35 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This man took care of the baby until the mom came back](http://9gag.com/gag/a5Ev7BE)
- - 🚯 [The size of the Everest compared to the size of the Earth.](http://9gag.com/gag/aXoQ91b)
- - 🚯 [Aftermath of the flood in bad neuenahr, nearby my hometown. Looks like Photoshop or something. Still can&#039;t believe what happened the last few days...](http://9gag.com/gag/aZ0oNOX)
- - 😝 [Australia right now. Germany 2.0](http://9gag.com/gag/awMPxbx)
+ - 🚖 [The size of the Everest compared to the size of the Earth.](http://9gag.com/gag/aXoQ91b)
+ - 🚯 [BADUMTSS...](http://9gag.com/gag/aDdrGLO)
+ - 🚯 [Australia right now. Germany 2.0](http://9gag.com/gag/awMPxbx)
+ - 😝 [Nine months sober today!](http://9gag.com/gag/abVKbOL)
  - 🚅 [Nutella spaghetti](http://9gag.com/gag/aNp8n5A)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
