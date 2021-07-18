@@ -166,11 +166,11 @@ Windows                  35 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The wailing wall](http://9gag.com/gag/azMorXj)
- - 🚯 [Always a great idea!](http://9gag.com/gag/aWjP8B6)
- - 🚯 [Mexican guy defends random girl from 4 stalkers who were harassing her, knocks the **** out of one. People are calling him &quot;the knight of love&quot;](http://9gag.com/gag/a3EejGQ)
- - 😝 [Needed hobby in pandemic, started with DIY mechanics. Just installed new spark plug filter. Not much but it&#039;s great fun](http://9gag.com/gag/aO3AdYN)
- - 🚅 [What a chad](http://9gag.com/gag/aDdrjXB)<!-- MEMES:END -->
+ - 🚖 [90th LAN Party&hellip;letz Go!](http://9gag.com/gag/a4EmZ0Q)
+ - 🚯 [The logic on some people](http://9gag.com/gag/a3Eeqv5)
+ - 🚯 [Needed hobby in pandemic, started with DIY mechanics. Just installed new spark plug filter. Not much but it&#039;s great fun](http://9gag.com/gag/aO3AdYN)
+ - 😝 [I thought english is easy, until i meet scottish people](http://9gag.com/gag/aoMA1z3)
+ - 🚅 [Solar eclipse in Portugal](http://9gag.com/gag/anQ8yoq)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
