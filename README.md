@@ -167,10 +167,10 @@ Windows                  35 mins             ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Just Chinese Things...](http://9gag.com/gag/a5Evnjr)
- - 🚯 [Unsportsmanlike](http://9gag.com/gag/a8EQ8re)
  - 🚯 [&quot;Shrug&quot;](http://9gag.com/gag/apNzp7n)
- - 😝 [Take her license away. Now!](http://9gag.com/gag/a7EPD9q)
- - 🚅 [And they wonder why nobody likes them... British fans cheer as Max Verstappen crashes with speed over 200KMH (51G crash)](http://9gag.com/gag/awMPQp1)<!-- MEMES:END -->
+ - 🚯 [Take her license away. Now!](http://9gag.com/gag/a7EPD9q)
+ - 😝 [Unsportsmanlike](http://9gag.com/gag/a8EQ8re)
+ - 🚅 [Congrats on the win you f**k1ng d**head](http://9gag.com/gag/a9EZAZK)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
