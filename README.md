@@ -166,10 +166,10 @@ Windows                  35 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Appreciate](http://9gag.com/gag/azMo8EK)
- - 🚯 [What a chad](http://9gag.com/gag/aDdrjXB)
- - 🚯 [Gov attempt to discourage street parking goes very badly](http://9gag.com/gag/aLpVMKv)
- - 😝 [Solar eclipse in Portugal](http://9gag.com/gag/anQ8yoq)
+ - 🚖 [Solar eclipse in Portugal](http://9gag.com/gag/anQ8yoq)
+ - 🚯 [Did they activate cheat code or something](http://9gag.com/gag/aNp8A8v)
+ - 🚯 [Just wanted to share my change of the Last 10 months being sober. I was so disgusted of myself I couldn&#039;t Look in the mirror for 5 years straight (hence the closed eyes) and nearly drank myself to death. It was a real Shit Show getting Back in track, but so worth it](http://9gag.com/gag/aGp60Gz)
+ - 😝 [&quot;Shrug&quot;](http://9gag.com/gag/apNzp7n)
  - 🚅 [The logic on some people](http://9gag.com/gag/a3Eeqv5)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
