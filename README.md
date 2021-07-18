@@ -175,11 +175,11 @@ Windows                  35 mins             ███████████�
 ### 📣 Jokes of the hour
 
 <!-- JOKES:START -->
- - 🐔 [These successful work scams prove cheaters do prosper (29 Photos)](https://thechive.com/2021/07/18/these-successful-work-scams-prove-cheaters-do-prosper-29-photos/)
+ - 🐔 [Weekend Morning Awesomeness (37 photos)](https://thechive.com/2021/07/18/weekend-morning-awesomeness-37-photos-36/)
+ - 🕉 [These successful work scams prove cheaters do prosper (29 Photos)](https://thechive.com/2021/07/18/these-successful-work-scams-prove-cheaters-do-prosper-29-photos/)
  - 🕉 [Babe Breaks are the new cigarette breaks (30 Photos)](https://thechive.com/2021/07/17/babe-breaks-are-the-new-cigarette-breaks-30-photos/)
- - 🕉 [Son gives his 2 cents on what you can’t get for 4 cents (Video)](https://thechive.com/2021/07/17/son-gives-his-2-cents-on-what-you-cant-get-for-4-cents-video/)
- - 👾 [Beautifully Balanced Butts Over Backs (40 Photos)](https://thechive.com/2021/07/17/beautifully-balanced-butts-over-backs-40-photos-3/)
- - 🎈 [Common myths we are just sick and tired of hearing (18 GIFs)](https://thechive.com/2021/07/17/common-myths-we-are-just-sick-and-tired-of-hearing-18-gifs/)<!-- JOKES:END -->
+ - 👾 [Son gives his 2 cents on what you can’t get for 4 cents (Video)](https://thechive.com/2021/07/17/son-gives-his-2-cents-on-what-you-cant-get-for-4-cents-video/)
+ - 🎈 [Beautifully Balanced Butts Over Backs (40 Photos)](https://thechive.com/2021/07/17/beautifully-balanced-butts-over-backs-40-photos-3/)<!-- JOKES:END -->
 
 ### 📣 Quotes of the hour
 
