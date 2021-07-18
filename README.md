@@ -167,9 +167,9 @@ Windows                  35 mins             ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [This man took care of the baby until the mom came back](http://9gag.com/gag/a5Ev7BE)
- - 🚯 [Indeed](http://9gag.com/gag/aoMA923)
- - 🚯 [When you realize its a bad idea that you even existed..](http://9gag.com/gag/aV74XvO)
- - 😝 [Aftermath of the flood in bad neuenahr, nearby my hometown. Looks like Photoshop or something. Still can&#039;t believe what happened the last few days...](http://9gag.com/gag/aZ0oNOX)
+ - 🚯 [The size of the Everest compared to the size of the Earth.](http://9gag.com/gag/aXoQ91b)
+ - 🚯 [Aftermath of the flood in bad neuenahr, nearby my hometown. Looks like Photoshop or something. Still can&#039;t believe what happened the last few days...](http://9gag.com/gag/aZ0oNOX)
+ - 😝 [Australia right now. Germany 2.0](http://9gag.com/gag/awMPxbx)
  - 🚅 [Nutella spaghetti](http://9gag.com/gag/aNp8n5A)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
