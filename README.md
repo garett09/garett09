@@ -175,11 +175,11 @@ Windows                  35 mins             ███████████�
 ### 📣 Jokes of the hour
 
 <!-- JOKES:START -->
- - 🐔 [National Ice Cream Day is here and these are our favorite treats (15 Photos)](https://thechive.com/2021/07/18/national-ice-cream-day-is-here-and-these-are-our-favorite-treats-15-photos/)
- - 🕉 [Perfectly fitted, as all things should be (33 Photos)](https://thechive.com/2021/07/18/perfectly-fitted-as-all-things-should-be-33-photos/)
- - 🕉 [Take these Top Comments and Smoke ’em! (80 Photos)](https://thechive.com/2021/07/18/take-these-top-comments-and-smoke-em-80-photos/)
- - 👾 [Sunday Monday, Sh*tty Days, Tuesday Wednesday, Sh*tty Days!](https://thechive.com/2021/07/18/sunday-monday-shtty-days-tuesday-wednesday-shtty-days/)
- - 🎈 [These people caught their coworkers doing some absolutely insane sh*t (16 Gifs)](https://thechive.com/2021/07/18/these-people-caught-their-coworkers-doing-some-absolutely-insane-sht/)<!-- JOKES:END -->
+ - 🐔 [If you love it, then put it on a shelf(ie) (53 Photos)](https://thechive.com/2021/07/18/if-you-love-it-then-put-it-on-a-shelfie-53-photos/)
+ - 🕉 [British images without any context…and we have questions (30 Photos)](https://thechive.com/2021/07/18/british-images-without-any-context-and-we-have-questions-30-photos/)
+ - 🕉 [National Ice Cream Day is here and these are our favorite treats (15 Photos)](https://thechive.com/2021/07/18/national-ice-cream-day-is-here-and-these-are-our-favorite-treats-15-photos/)
+ - 👾 [Perfectly fitted, as all things should be (33 Photos)](https://thechive.com/2021/07/18/perfectly-fitted-as-all-things-should-be-33-photos/)
+ - 🎈 [Take these Top Comments and Smoke ’em! (80 Photos)](https://thechive.com/2021/07/18/take-these-top-comments-and-smoke-em-80-photos/)<!-- JOKES:END -->
 
 ### 📣 Quotes of the hour
 
