@@ -167,10 +167,10 @@ Windows                  35 mins             ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Just Chinese Things...](http://9gag.com/gag/a5Evnjr)
- - 🚯 [Hmm](http://9gag.com/gag/agB6YD6)
  - 🚯 [$5,000 of gold vs $5,000 of silver](http://9gag.com/gag/a9EZA11)
- - 😝 [I was building Minas Tirith in Planet Zoo. I wanted to make 1:1 movie version, I spent over a year on this and I guess I put too much stuff in there, because now the game wont even load. I guess these are my last screenshots :-/](http://9gag.com/gag/awMP56y)
- - 🚅 [Red wine cistern catastrophically ruptures at Sicilian winery](http://9gag.com/gag/aqjBbwp)<!-- MEMES:END -->
+ - 🚯 [Did they activate cheat code or something](http://9gag.com/gag/aNp8A8v)
+ - 😝 [Red wine cistern catastrophically ruptures at Sicilian winery](http://9gag.com/gag/aqjBbwp)
+ - 🚅 [Take her license away. Now!](http://9gag.com/gag/a7EPD9q)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
