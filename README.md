@@ -166,11 +166,11 @@ Windows                  35 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Solar eclipse in Portugal](http://9gag.com/gag/anQ8yoq)
- - 🚯 [Did they activate cheat code or something](http://9gag.com/gag/aNp8A8v)
- - 🚯 [Just wanted to share my change of the Last 10 months being sober. I was so disgusted of myself I couldn&#039;t Look in the mirror for 5 years straight (hence the closed eyes) and nearly drank myself to death. It was a real Shit Show getting Back in track, but so worth it](http://9gag.com/gag/aGp60Gz)
- - 😝 [&quot;Shrug&quot;](http://9gag.com/gag/apNzp7n)
- - 🚅 [The logic on some people](http://9gag.com/gag/a3Eeqv5)<!-- MEMES:END -->
+ - 🚖 [Just wanted to share my change of the Last 10 months being sober. I was so disgusted of myself I couldn&#039;t Look in the mirror for 5 years straight (hence the closed eyes) and nearly drank myself to death. It was a real Shit Show getting Back in track, but so worth it](http://9gag.com/gag/aGp60Gz)
+ - 🚯 [The logic on some people](http://9gag.com/gag/a3Eeqv5)
+ - 🚯 [Just a vending machine in Germany](http://9gag.com/gag/arM9be6)
+ - 😝 [Lana sit on my face!](http://9gag.com/gag/aNp8AYr)
+ - 🚅 [Red wine cistern catastrophically ruptures at Sicilian winery](http://9gag.com/gag/aqjBbwp)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
