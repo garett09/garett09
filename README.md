@@ -175,11 +175,11 @@ Windows                  35 mins             ███████████�
 ### 📣 Jokes of the hour
 
 <!-- JOKES:START -->
- - 🐔 [Golfer tees up, takes his swing, and repeatedly embarrasses himself (Video)](https://thechive.com/2021/07/17/golfer-tees-up-takes-his-swing-and-repeatedly-embarrasses-himself-video/)
- - 🕉 [Weekend Afternoon Randomness (37 Photos)](https://thechive.com/2021/07/17/weekend-afternoon-randomness-37-photos-38/)
- - 🕉 [It’s pretty simple, I’m into dimples (32 Photos)](https://thechive.com/2021/07/17/its-pretty-simple-im-into-dimples-32-photos/)
- - 👾 [Kids Can Be Really F**king Creepy (15 GIFs)](https://thechive.com/2021/07/17/kids-can-be-really-fking-creepy-15-gifs/)
- - 🎈 [A 12-year-old just took gold at the X-Games….against Tony Hawk! (6 GIFs)](https://thechive.com/2021/07/17/a-12-year-old-just-took-gold-at-the-x-games-against-tony-hawk-6-gifs/)<!-- JOKES:END -->
+ - 🐔 [Beautifully Balanced Butts Over Backs (40 Photos)](https://thechive.com/2021/07/17/beautifully-balanced-butts-over-backs-40-photos-3/)
+ - 🕉 [Common myths we are just sick and tired of hearing (18 GIFs)](https://thechive.com/2021/07/17/common-myths-we-are-just-sick-and-tired-of-hearing-18-gifs/)
+ - 🕉 [Golfer tees up, takes his swing, and repeatedly embarrasses himself (Video)](https://thechive.com/2021/07/17/golfer-tees-up-takes-his-swing-and-repeatedly-embarrasses-himself-video/)
+ - 👾 [Weekend Afternoon Randomness (37 Photos)](https://thechive.com/2021/07/17/weekend-afternoon-randomness-37-photos-38/)
+ - 🎈 [It’s pretty simple, I’m into dimples (32 Photos)](https://thechive.com/2021/07/17/its-pretty-simple-im-into-dimples-32-photos/)<!-- JOKES:END -->
 
 ### 📣 Quotes of the hour
 
