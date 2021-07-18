@@ -175,11 +175,11 @@ Windows                  35 mins             ███████████�
 ### 📣 Jokes of the hour
 
 <!-- JOKES:START -->
- - 🐔 [If you love it, then put it on a shelf(ie) (53 Photos)](https://thechive.com/2021/07/18/if-you-love-it-then-put-it-on-a-shelfie-53-photos/)
- - 🕉 [British images without any context…and we have questions (30 Photos)](https://thechive.com/2021/07/18/british-images-without-any-context-and-we-have-questions-30-photos/)
- - 🕉 [National Ice Cream Day is here and these are our favorite treats (15 Photos)](https://thechive.com/2021/07/18/national-ice-cream-day-is-here-and-these-are-our-favorite-treats-15-photos/)
- - 👾 [Perfectly fitted, as all things should be (33 Photos)](https://thechive.com/2021/07/18/perfectly-fitted-as-all-things-should-be-33-photos/)
- - 🎈 [Take these Top Comments and Smoke ’em! (80 Photos)](https://thechive.com/2021/07/18/take-these-top-comments-and-smoke-em-80-photos/)<!-- JOKES:END -->
+ - 🐔 [Black is beautiful (42 Photos)](https://thechive.com/2021/07/18/black-is-beautiful-42-photos-3/)
+ - 🕉 [Awesome Is As Awesome Does (25 Photos)](https://thechive.com/2021/07/18/awesome-is-as-awesome-does-25-photos/)
+ - 🕉 [The best sports rivalries have absolutely no chill (11 GIFs)](https://thechive.com/2021/07/18/the-best-sports-rivalries-have-absolutely-no-chill-11-gifs/)
+ - 👾 [What are the odds that happens again? (18 GIFs)](https://thechive.com/2021/07/18/what-are-the-odds-that-happens-again-18-gifs/)
+ - 🎈 [If you love it, then put it on a shelf(ie) (53 Photos)](https://thechive.com/2021/07/18/if-you-love-it-then-put-it-on-a-shelfie-53-photos/)<!-- JOKES:END -->
 
 ### 📣 Quotes of the hour
 
