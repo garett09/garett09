@@ -167,8 +167,8 @@ Windows                  35 mins             ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Just Chinese Things...](http://9gag.com/gag/a5Evnjr)
- - 🚯 [&quot;Shrug&quot;](http://9gag.com/gag/apNzp7n)
  - 🚯 [Take her license away. Now!](http://9gag.com/gag/a7EPD9q)
+ - 🚯 [My dad is recovering from covid. We&#039;re not financially stable. Today he broke down crying to me. First time I saw in my lifetime. I assured him everything is going to be fine and I&#039;m taking responsibility to the household. I&#039;ve been crying like a b*tch for an hour. Fck covid.](http://9gag.com/gag/av548Gb)
  - 😝 [Unsportsmanlike](http://9gag.com/gag/a8EQ8re)
  - 🚅 [Congrats on the win you f**k1ng d**head](http://9gag.com/gag/a9EZAZK)<!-- MEMES:END -->
 
