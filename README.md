@@ -166,11 +166,11 @@ Windows                  35 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [$5,000 of gold vs $5,000 of silver](http://9gag.com/gag/a9EZA11)
- - 🚯 [The logic on some people](http://9gag.com/gag/a3Eeqv5)
- - 🚯 [Just a vending machine in Germany](http://9gag.com/gag/arM9be6)
- - 😝 [Lana sit on my face!](http://9gag.com/gag/aNp8AYr)
- - 🚅 [I thought english is easy, until i meet scottish people](http://9gag.com/gag/aoMA1z3)<!-- MEMES:END -->
+ - 🚖 [My kind of pc](http://9gag.com/gag/arM95Nd)
+ - 🚯 [Lana sit on my face!](http://9gag.com/gag/aNp8AYr)
+ - 🚯 [I thought english is easy, until i meet scottish people](http://9gag.com/gag/aoMA1z3)
+ - 😝 [$5,000 of gold vs $5,000 of silver](http://9gag.com/gag/a9EZA11)
+ - 🚅 [Take her license away. Now!](http://9gag.com/gag/a7EPD9q)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
