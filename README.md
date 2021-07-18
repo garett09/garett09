@@ -175,11 +175,11 @@ Windows                  35 mins             ███████████�
 ### 📣 Jokes of the hour
 
 <!-- JOKES:START -->
- - 🐔 [Black is beautiful (42 Photos)](https://thechive.com/2021/07/18/black-is-beautiful-42-photos-3/)
- - 🕉 [Awesome Is As Awesome Does (25 Photos)](https://thechive.com/2021/07/18/awesome-is-as-awesome-does-25-photos/)
- - 🕉 [The best sports rivalries have absolutely no chill (11 GIFs)](https://thechive.com/2021/07/18/the-best-sports-rivalries-have-absolutely-no-chill-11-gifs/)
- - 👾 [What are the odds that happens again? (18 GIFs)](https://thechive.com/2021/07/18/what-are-the-odds-that-happens-again-18-gifs/)
- - 🎈 [If you love it, then put it on a shelf(ie) (53 Photos)](https://thechive.com/2021/07/18/if-you-love-it-then-put-it-on-a-shelfie-53-photos/)<!-- JOKES:END -->
+ - 🐔 [Weekend Afternoon Randomness (38 Photos)](https://thechive.com/2021/07/18/weekend-afternoon-randomness-38-photos-18/)
+ - 🕉 [These pictures are NOT easy on the eyes… (25 Photos)](https://thechive.com/2021/07/18/these-pictures-are-not-easy-on-the-eyes-25-photos/)
+ - 🕉 [Black is beautiful (42 Photos)](https://thechive.com/2021/07/18/black-is-beautiful-42-photos-3/)
+ - 👾 [Awesome Is As Awesome Does (25 Photos)](https://thechive.com/2021/07/18/awesome-is-as-awesome-does-25-photos/)
+ - 🎈 [The best sports rivalries have absolutely no chill (11 GIFs)](https://thechive.com/2021/07/18/the-best-sports-rivalries-have-absolutely-no-chill-11-gifs/)<!-- JOKES:END -->
 
 ### 📣 Quotes of the hour
 
