@@ -166,11 +166,11 @@ Windows                  35 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Indeed](http://9gag.com/gag/aoMA923)
- - 🚯 [Leonardo DiCaprio and Monica Bellucci](http://9gag.com/gag/aB2jrRD)
+ - 🚖 [Never forget](http://9gag.com/gag/aQoB85r)
+ - 🚯 [This guy thought it would be a good ideia to start a fight on porpuse with strangers, for internet points...](http://9gag.com/gag/aXoQpyD)
  - 🚯 [Strange accident](http://9gag.com/gag/anQ8NX5)
- - 😝 [This guy thought it would be a good ideia to start a fight on porpuse with strangers, for internet points...](http://9gag.com/gag/aXoQpyD)
- - 🚅 [Aftermath of the flood in bad neuenahr, nearby my hometown. Looks like Photoshop or something. Still can&#039;t believe what happened the last few days...](http://9gag.com/gag/aZ0oNOX)<!-- MEMES:END -->
+ - 😝 [Indeed](http://9gag.com/gag/aoMA923)
+ - 🚅 [She was celebrating by herself and then the restaurant staff joined in.](http://9gag.com/gag/aLpVBeV)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
