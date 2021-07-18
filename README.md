@@ -175,11 +175,11 @@ Windows                  35 mins             ███████████�
 ### 📣 Jokes of the hour
 
 <!-- JOKES:START -->
- - 🐔 [SOLO PLEASURE has never been the same (6 Photos)](https://thechive.com/2021/07/18/solo-pleasure-has-never-been-the-same-6-photos/)
- - 🕉 [Sundays and lingerie go together like PB&J (45 Photos)](https://thechive.com/2021/07/18/sundays-and-lingerie-go-together-like-pbj-45-photos-2/)
- - 🕉 [SIMPLE Things That Make You More Attractive (15 Photos)](https://thechive.com/2021/07/18/simple-things-that-make-you-more-attractive-15-photos/)
- - 👾 [Weekend Morning Awesomeness (37 photos)](https://thechive.com/2021/07/18/weekend-morning-awesomeness-37-photos-36/)
- - 🎈 [These successful work scams prove cheaters do prosper (29 Photos)](https://thechive.com/2021/07/18/these-successful-work-scams-prove-cheaters-do-prosper-29-photos/)<!-- JOKES:END -->
+ - 🐔 [These Facebook moms are BAD and not in a cool way (29 Photos)](https://thechive.com/2021/07/18/these-facebook-moms-are-bad-and-not-in-a-cool-way-29-photos/)
+ - 🕉 [You Know It’s a Good Day When the BBB Is Involved (45 Photos)](https://thechive.com/2021/07/18/you-know-its-a-good-day-when-the-bbb-is-involved-45-photos/)
+ - 🕉 [SOLO PLEASURE has never been the same (6 Photos)](https://thechive.com/2021/07/18/solo-pleasure-has-never-been-the-same-6-photos/)
+ - 👾 [Sundays and lingerie go together like PB&J (45 Photos)](https://thechive.com/2021/07/18/sundays-and-lingerie-go-together-like-pbj-45-photos-2/)
+ - 🎈 [SIMPLE Things That Make You More Attractive (15 Photos)](https://thechive.com/2021/07/18/simple-things-that-make-you-more-attractive-15-photos/)<!-- JOKES:END -->
 
 ### 📣 Quotes of the hour
 
