@@ -166,11 +166,11 @@ Windows                  35 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Strange accident](http://9gag.com/gag/anQ8NX5)
- - 🚯 [Imagine-reality](http://9gag.com/gag/a8EQMPd)
- - 🚯 [She was celebrating by herself and then the restaurant staff joined in.](http://9gag.com/gag/aLpVBeV)
- - 😝 [Indeed](http://9gag.com/gag/aoMA923)
- - 🚅 [Never forget](http://9gag.com/gag/aQoB85r)<!-- MEMES:END -->
+ - 🚖 [She was celebrating by herself and then the restaurant staff joined in.](http://9gag.com/gag/aLpVBeV)
+ - 🚯 [Nutella spaghetti](http://9gag.com/gag/aNp8n5A)
+ - 🚯 [Indeed](http://9gag.com/gag/aoMA923)
+ - 😝 [When you realize its a bad idea that you even existed..](http://9gag.com/gag/aV74XvO)
+ - 🚅 [Aftermath of the flood in bad neuenahr, nearby my hometown. Looks like Photoshop or something. Still can&#039;t believe what happened the last few days...](http://9gag.com/gag/aZ0oNOX)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
