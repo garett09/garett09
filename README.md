@@ -175,11 +175,11 @@ Windows                  35 mins             ███████████�
 ### 📣 Jokes of the hour
 
 <!-- JOKES:START -->
- - 🐔 [Beautifully Balanced Butts Over Backs (40 Photos)](https://thechive.com/2021/07/17/beautifully-balanced-butts-over-backs-40-photos-3/)
+ - 🐔 [Son gives his 2 cents on what you can’t get for 4 cents (Video)](https://thechive.com/2021/07/17/son-gives-his-2-cents-on-what-you-cant-get-for-4-cents-video/)
+ - 🕉 [Beautifully Balanced Butts Over Backs (40 Photos)](https://thechive.com/2021/07/17/beautifully-balanced-butts-over-backs-40-photos-3/)
  - 🕉 [Common myths we are just sick and tired of hearing (18 GIFs)](https://thechive.com/2021/07/17/common-myths-we-are-just-sick-and-tired-of-hearing-18-gifs/)
- - 🕉 [Golfer tees up, takes his swing, and repeatedly embarrasses himself (Video)](https://thechive.com/2021/07/17/golfer-tees-up-takes-his-swing-and-repeatedly-embarrasses-himself-video/)
- - 👾 [Weekend Afternoon Randomness (37 Photos)](https://thechive.com/2021/07/17/weekend-afternoon-randomness-37-photos-38/)
- - 🎈 [It’s pretty simple, I’m into dimples (32 Photos)](https://thechive.com/2021/07/17/its-pretty-simple-im-into-dimples-32-photos/)<!-- JOKES:END -->
+ - 👾 [Golfer tees up, takes his swing, and repeatedly embarrasses himself (Video)](https://thechive.com/2021/07/17/golfer-tees-up-takes-his-swing-and-repeatedly-embarrasses-himself-video/)
+ - 🎈 [Weekend Afternoon Randomness (37 Photos)](https://thechive.com/2021/07/17/weekend-afternoon-randomness-37-photos-38/)<!-- JOKES:END -->
 
 ### 📣 Quotes of the hour
 
