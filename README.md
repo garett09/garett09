@@ -176,10 +176,10 @@ Windows                  35 mins             ███████████�
 
 <!-- JOKES:START -->
  - 🐔 [Weekend Afternoon Randomness (38 Photos)](https://thechive.com/2021/07/18/weekend-afternoon-randomness-38-photos-18/)
+ - 🕉 [SIMPLE Things That Make You More Attractive (15 Photos)](https://thechive.com/2021/07/18/simple-things-that-make-you-more-attractive-15-photos/)
  - 🕉 [These pictures are NOT easy on the eyes… (25 Photos)](https://thechive.com/2021/07/18/these-pictures-are-not-easy-on-the-eyes-25-photos/)
- - 🕉 [Black is beautiful (42 Photos)](https://thechive.com/2021/07/18/black-is-beautiful-42-photos-3/)
- - 👾 [Awesome Is As Awesome Does (25 Photos)](https://thechive.com/2021/07/18/awesome-is-as-awesome-does-25-photos/)
- - 🎈 [The best sports rivalries have absolutely no chill (11 GIFs)](https://thechive.com/2021/07/18/the-best-sports-rivalries-have-absolutely-no-chill-11-gifs/)<!-- JOKES:END -->
+ - 👾 [Black is beautiful (42 Photos)](https://thechive.com/2021/07/18/black-is-beautiful-42-photos-3/)
+ - 🎈 [Awesome Is As Awesome Does (25 Photos)](https://thechive.com/2021/07/18/awesome-is-as-awesome-does-25-photos/)<!-- JOKES:END -->
 
 ### 📣 Quotes of the hour
 
