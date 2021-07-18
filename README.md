@@ -175,11 +175,11 @@ Windows                  35 mins             ███████████�
 ### 📣 Jokes of the hour
 
 <!-- JOKES:START -->
- - 🐔 [These people caught their coworkers doing some absolutely insane sh*t (16 Gifs)](https://thechive.com/2021/07/18/these-people-caught-their-coworkers-doing-some-absolutely-insane-sht/)
- - 🕉 [These Facebook moms are BAD and not in a cool way (29 Photos)](https://thechive.com/2021/07/18/these-facebook-moms-are-bad-and-not-in-a-cool-way-29-photos/)
- - 🕉 [You Know It’s a Good Day When the BBB Is Involved (45 Photos)](https://thechive.com/2021/07/18/you-know-its-a-good-day-when-the-bbb-is-involved-45-photos/)
- - 👾 [SOLO PLEASURE has never been the same (6 Photos)](https://thechive.com/2021/07/18/solo-pleasure-has-never-been-the-same-6-photos/)
- - 🎈 [Sundays and lingerie go together like PB&J (45 Photos)](https://thechive.com/2021/07/18/sundays-and-lingerie-go-together-like-pbj-45-photos-2/)<!-- JOKES:END -->
+ - 🐔 [Take these Top Comments and Smoke ’em! (80 Photos)](https://thechive.com/2021/07/18/take-these-top-comments-and-smoke-em-80-photos/)
+ - 🕉 [Sunday Monday, Sh*tty Days, Tuesday Wednesday, Sh*tty Days!](https://thechive.com/2021/07/18/sunday-monday-shtty-days-tuesday-wednesday-shtty-days/)
+ - 🕉 [These people caught their coworkers doing some absolutely insane sh*t (16 Gifs)](https://thechive.com/2021/07/18/these-people-caught-their-coworkers-doing-some-absolutely-insane-sht/)
+ - 👾 [These Facebook moms are BAD and not in a cool way (29 Photos)](https://thechive.com/2021/07/18/these-facebook-moms-are-bad-and-not-in-a-cool-way-29-photos/)
+ - 🎈 [You Know It’s a Good Day When the BBB Is Involved (45 Photos)](https://thechive.com/2021/07/18/you-know-its-a-good-day-when-the-bbb-is-involved-45-photos/)<!-- JOKES:END -->
 
 ### 📣 Quotes of the hour
 
