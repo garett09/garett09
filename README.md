@@ -166,10 +166,10 @@ Windows                  35 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Diploma go go go go](http://9gag.com/gag/aqjBrRj)
- - 🚯 [Solar eclipse in Portugal](http://9gag.com/gag/anQ8yoq)
+ - 🚖 [Appreciate](http://9gag.com/gag/azMo8EK)
  - 🚯 [What a chad](http://9gag.com/gag/aDdrjXB)
- - 😝 [Gov attempt to discourage street parking goes very badly](http://9gag.com/gag/aLpVMKv)
+ - 🚯 [Gov attempt to discourage street parking goes very badly](http://9gag.com/gag/aLpVMKv)
+ - 😝 [Solar eclipse in Portugal](http://9gag.com/gag/anQ8yoq)
  - 🚅 [The logic on some people](http://9gag.com/gag/a3Eeqv5)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
