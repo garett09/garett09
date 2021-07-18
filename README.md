@@ -166,11 +166,11 @@ Windows                  35 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Little girl singing to her horse](http://9gag.com/gag/aQoBxm7)
- - 🚯 [Just wanted to share my change of the Last 10 months being sober. I was so disgusted of myself I couldn&#039;t Look in the mirror for 5 years straight (hence the closed eyes) and nearly drank myself to death. It was a real Shit Show getting Back in track, but so worth it](http://9gag.com/gag/aGp60Gz)
- - 🚯 [Needed hobby in pandemic, started with DIY mechanics. Just installed new spark plug filter. Not much but it&#039;s great fun](http://9gag.com/gag/aO3AdYN)
- - 😝 [Stepsister](http://9gag.com/gag/aDdrGY7)
- - 🚅 [Diploma go go go go](http://9gag.com/gag/aqjBrRj)<!-- MEMES:END -->
+ - 🚖 [Tell me, please...](http://9gag.com/gag/amPKrAy)
+ - 🚯 [And for the pimples](http://9gag.com/gag/a5EvZpG)
+ - 🚯 [What a chad](http://9gag.com/gag/aDdrjXB)
+ - 😝 [Needed hobby in pandemic, started with DIY mechanics. Just installed new spark plug filter. Not much but it&#039;s great fun](http://9gag.com/gag/aO3AdYN)
+ - 🚅 [Always a great idea!](http://9gag.com/gag/aWjP8B6)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
