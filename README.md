@@ -167,10 +167,10 @@ Windows                  35 mins             ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Just Chinese Things...](http://9gag.com/gag/a5Evnjr)
- - 🚯 [$5,000 of gold vs $5,000 of silver](http://9gag.com/gag/a9EZA11)
- - 🚯 [Did they activate cheat code or something](http://9gag.com/gag/aNp8A8v)
- - 😝 [Red wine cistern catastrophically ruptures at Sicilian winery](http://9gag.com/gag/aqjBbwp)
- - 🚅 [Take her license away. Now!](http://9gag.com/gag/a7EPD9q)<!-- MEMES:END -->
+ - 🚯 [Unsportsmanlike](http://9gag.com/gag/a8EQ8re)
+ - 🚯 [&quot;Shrug&quot;](http://9gag.com/gag/apNzp7n)
+ - 😝 [Take her license away. Now!](http://9gag.com/gag/a7EPD9q)
+ - 🚅 [And they wonder why nobody likes them... British fans cheer as Max Verstappen crashes with speed over 200KMH (51G crash)](http://9gag.com/gag/awMPQp1)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
