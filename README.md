@@ -166,11 +166,11 @@ Windows                  35 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Never forget](http://9gag.com/gag/aQoB85r)
- - 🚯 [This guy thought it would be a good ideia to start a fight on porpuse with strangers, for internet points...](http://9gag.com/gag/aXoQpyD)
- - 🚯 [Strange accident](http://9gag.com/gag/anQ8NX5)
+ - 🚖 [Strange accident](http://9gag.com/gag/anQ8NX5)
+ - 🚯 [Imagine-reality](http://9gag.com/gag/a8EQMPd)
+ - 🚯 [She was celebrating by herself and then the restaurant staff joined in.](http://9gag.com/gag/aLpVBeV)
  - 😝 [Indeed](http://9gag.com/gag/aoMA923)
- - 🚅 [She was celebrating by herself and then the restaurant staff joined in.](http://9gag.com/gag/aLpVBeV)<!-- MEMES:END -->
+ - 🚅 [Never forget](http://9gag.com/gag/aQoB85r)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
