@@ -166,11 +166,11 @@ Windows                  35 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [My kind of pc](http://9gag.com/gag/arM95Nd)
- - 🚯 [Lana sit on my face!](http://9gag.com/gag/aNp8AYr)
- - 🚯 [I thought english is easy, until i meet scottish people](http://9gag.com/gag/aoMA1z3)
- - 😝 [$5,000 of gold vs $5,000 of silver](http://9gag.com/gag/a9EZA11)
- - 🚅 [Take her license away. Now!](http://9gag.com/gag/a7EPD9q)<!-- MEMES:END -->
+ - 🚖 [Just Chinese Things...](http://9gag.com/gag/a5Evnjr)
+ - 🚯 [Hmm](http://9gag.com/gag/agB6YD6)
+ - 🚯 [$5,000 of gold vs $5,000 of silver](http://9gag.com/gag/a9EZA11)
+ - 😝 [I was building Minas Tirith in Planet Zoo. I wanted to make 1:1 movie version, I spent over a year on this and I guess I put too much stuff in there, because now the game wont even load. I guess these are my last screenshots :-/](http://9gag.com/gag/awMP56y)
+ - 🚅 [Red wine cistern catastrophically ruptures at Sicilian winery](http://9gag.com/gag/aqjBbwp)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
