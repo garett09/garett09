@@ -166,11 +166,11 @@ Windows                  35 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Tell me, please...](http://9gag.com/gag/amPKrAy)
- - 🚯 [And for the pimples](http://9gag.com/gag/a5EvZpG)
- - 🚯 [What a chad](http://9gag.com/gag/aDdrjXB)
+ - 🚖 [The wailing wall](http://9gag.com/gag/azMorXj)
+ - 🚯 [Always a great idea!](http://9gag.com/gag/aWjP8B6)
+ - 🚯 [Mexican guy defends random girl from 4 stalkers who were harassing her, knocks the **** out of one. People are calling him &quot;the knight of love&quot;](http://9gag.com/gag/a3EejGQ)
  - 😝 [Needed hobby in pandemic, started with DIY mechanics. Just installed new spark plug filter. Not much but it&#039;s great fun](http://9gag.com/gag/aO3AdYN)
- - 🚅 [Always a great idea!](http://9gag.com/gag/aWjP8B6)<!-- MEMES:END -->
+ - 🚅 [What a chad](http://9gag.com/gag/aDdrjXB)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
