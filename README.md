@@ -166,11 +166,11 @@ Windows                  47 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [That&#039;s for sure](http://9gag.com/gag/aAbq3N2)
- - 🚯 [The last 6 I will ever eat. Believe it.](http://9gag.com/gag/aeAy50m)
+ - 🚖 [In South Korea, the solar panels in the middle of the highway have a bicyce path underneath..cyclists are protected from the sun, isolated from traffic, and the country can produce clean energy](http://9gag.com/gag/aeAy575)
  - 🚯 [Tired of losing from Max, Lewis Hamilton crashes into Max Verstappen at the 2021 British GP to win his &ldquo;best ever&rdquo; race.](http://9gag.com/gag/aB2jx1Z)
- - 😝 [If you are already rich, why be a b*tch?](http://9gag.com/gag/arM9oMV)
- - 🚅 [Vaccines cause Autism](http://9gag.com/gag/anQ85yL)<!-- MEMES:END -->
+ - 🚯 [The last 6 I will ever eat. Believe it.](http://9gag.com/gag/aeAy50m)
+ - 😝 [This Propeller Driven Shower Head](http://9gag.com/gag/a6E4Onm)
+ - 🚅 [My dad is recovering from covid. We&#039;re not financially stable. Today he broke down crying to me. First time I saw in my lifetime. I assured him everything is going to be fine and I&#039;m taking responsibility to the household. I&#039;ve been crying like a b*tch for an hour. Fck covid.](http://9gag.com/gag/av548Gb)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
