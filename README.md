@@ -166,11 +166,11 @@ Windows                  47 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Summer is here and this is the top secret working schedule of these mf](http://9gag.com/gag/aK6n6DZ)
- - 🚯 [Why the flood happens](http://9gag.com/gag/axMQMO1)
+ - 🚖 [When you socialize but no one socializing with you](http://9gag.com/gag/aRX97GA)
  - 🚯 [Even most germans dont know about it. I was paid 1 year, helped me alot!](http://9gag.com/gag/a1rBrXb)
- - 😝 [When you socialize but no one socializing with you](http://9gag.com/gag/aRX97GA)
- - 🚅 [Saw a post ... now is complete!](http://9gag.com/gag/aNp8gy0)<!-- MEMES:END -->
+ - 🚯 [Saw a post ... now is complete!](http://9gag.com/gag/aNp8gy0)
+ - 😝 [The most intense garden sprinkler](http://9gag.com/gag/amPKPMd)
+ - 🚅 [Why the flood happens](http://9gag.com/gag/axMQMO1)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
