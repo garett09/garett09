@@ -166,11 +166,11 @@ Windows                  47 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How can I stop this suffering?!?!](http://9gag.com/gag/a5EvMKN)
- - 🚯 [Grass parking lots absorbs more rainfall keeping water out of storm drains. It reduces heat. Provides habitat for insects. Helps offset carbon dioxide. Filters the water. It looks better and is cheaper than concrete while being stronger than asphalt.](http://9gag.com/gag/awMPAO1)
- - 🚯 [Vaccines cause Autism](http://9gag.com/gag/anQ85yL)
- - 😝 [That&#039;s for sure](http://9gag.com/gag/aAbq3N2)
- - 🚅 [I&rsquo;ll do it again](http://9gag.com/gag/a9EZKro)<!-- MEMES:END -->
+ - 🚖 [That&#039;s for sure](http://9gag.com/gag/aAbq3N2)
+ - 🚯 [The last 6 I will ever eat. Believe it.](http://9gag.com/gag/aeAy50m)
+ - 🚯 [Tired of losing from Max, Lewis Hamilton crashes into Max Verstappen at the 2021 British GP to win his &ldquo;best ever&rdquo; race.](http://9gag.com/gag/aB2jx1Z)
+ - 😝 [If you are already rich, why be a b*tch?](http://9gag.com/gag/arM9oMV)
+ - 🚅 [Vaccines cause Autism](http://9gag.com/gag/anQ85yL)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
