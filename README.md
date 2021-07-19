@@ -175,11 +175,11 @@ Windows                  47 mins             ███████████�
 ### 📣 Jokes of the hour
 
 <!-- JOKES:START -->
- - 🐔 [Everyone loves themselves some good pits!](https://www.thechivery.com/collections/pets?utm_source=thechivehomepage&utm_medium=loop2&utm_campaign=pitties_071921)
- - 🕉 [Sh*t happens sometimes (35 Photos)](https://thechive.com/2021/07/19/sht-happens-sometimes-35-photos-48/)
- - 🕉 [Beautiful daughter / future LEADER at West Point…Proud father shares DAY 1 (11 Photos)](https://thechive.com/2021/07/19/beautiful-daughter-future-leader-at-west-pointproud-father-shares-day-1-10-photos/)
- - 👾 [Space: The Final Wedding Venue? (7 Photos)](https://thechive.com/2021/07/19/space-the-final-wedding-venue-7-photos/)
- - 🎈 [Non-Americans CANNOT understand if Americans really do these TV things (32 Photos)](https://thechive.com/2021/07/19/non-americans-cannot-understand-if-americans-really-do-these-tv-things-32-photos/)<!-- JOKES:END -->
+ - 🐔 [GAPS can help cure those pesky Monday Blues (52 Photos)](https://thechive.com/2021/07/19/gaps-can-help-cure-those-pesky-monday-blues-52-photos/)
+ - 🕉 [Fruits and vegetables that look far too much like sentient beings for my comfort (37 photos)](https://thechive.com/2021/07/19/fruits-and-vegetables-that-look-far-too-much-like-sentient-beings-for-my-comfort-37-photos/)
+ - 🕉 [Everyone loves themselves some good pits!](https://www.thechivery.com/collections/pets?utm_source=thechivehomepage&utm_medium=loop2&utm_campaign=pitties_071921)
+ - 👾 [Sh*t happens sometimes (35 Photos)](https://thechive.com/2021/07/19/sht-happens-sometimes-35-photos-48/)
+ - 🎈 [Beautiful daughter / future LEADER at West Point…Proud father shares DAY 1 (11 Photos)](https://thechive.com/2021/07/19/beautiful-daughter-future-leader-at-west-pointproud-father-shares-day-1-10-photos/)<!-- JOKES:END -->
 
 ### 📣 Quotes of the hour
 
