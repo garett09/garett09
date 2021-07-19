@@ -175,7 +175,7 @@ Windows                  47 mins             ███████████�
 ### 📣 Jokes of the hour
 
 <!-- JOKES:START -->
- - 🐔 [Best DEBATE ever: Can a massive RACK be “too Big?” (33 Photos)](https://thechive.com/2021/07/19/best-debate-ever-can-a-massive-rack-be-too-big-33-photos/)
+ - 🐔 [Best DEBATE ever: Can a massive TOPs be “too Big?” (33 Photos)](https://thechive.com/2021/07/19/best-debate-ever-can-a-massive-rack-be-too-big-33-photos/)
  - 🕉 [This woman got an Amazon worker to do a hit job on her spider](https://thechive.com/2021/07/19/this-woman-got-an-amazon-worker-to-do-a-hit-job-on-her-spider/)
  - 🕉 [Wrong number texts that will have you cringe-laughing (34 Photos)](https://thechive.com/2021/07/19/wrong-number-texts-that-will-have-you-cringe-laughing-34-photos/)
  - 👾 [Unwritten rules that make me say “Come on man! Write those rules down!” (18 Gifs)](https://thechive.com/2021/07/19/unwritten-rules-that-make-me-say-come-on-man-write-those-rules-down-18-gifs/)
