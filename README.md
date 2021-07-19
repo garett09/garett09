@@ -166,11 +166,11 @@ Windows                  47 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [One is Super Glue. The other is Hemorrhoids cream. And i have a sad story to tell](http://9gag.com/gag/azMomZB)
- - 🚯 [Summer is here and this is the top secret working schedule of these mf](http://9gag.com/gag/aK6n6DZ)
+ - 🚖 [Summer is here and this is the top secret working schedule of these mf](http://9gag.com/gag/aK6n6DZ)
+ - 🚯 [Why the flood happens](http://9gag.com/gag/axMQMO1)
  - 🚯 [Even most germans dont know about it. I was paid 1 year, helped me alot!](http://9gag.com/gag/a1rBrXb)
- - 😝 [I can&#039;t begin to describe the pain. Sure, we were paid well, but it wasn&#039;t about money... We put so much heart into it, and it was a true piece of art... That night my master and I went to a bar, and drowned our sorrow in whiskey until we couldn&#039;t even walk. Sorry for a long post](http://9gag.com/gag/aGp6dX0)
- - 🚅 [Romain Grosjean: F1 horror crash driver says controversial Halo safety device saved his life](http://9gag.com/gag/a1rBr5Y)<!-- MEMES:END -->
+ - 😝 [When you socialize but no one socializing with you](http://9gag.com/gag/aRX97GA)
+ - 🚅 [Saw a post ... now is complete!](http://9gag.com/gag/aNp8gy0)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
