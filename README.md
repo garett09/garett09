@@ -166,11 +166,11 @@ Windows                  47 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Never skip leg day..](http://9gag.com/gag/aGp6EEK)
- - 🚯 [Brake checking a taxi](http://9gag.com/gag/awMPZ18)
- - 🚯 [Buy a snake they said......](http://9gag.com/gag/azMoMPm)
+ - 🚖 [P stands for](http://9gag.com/gag/a7EPqNm)
+ - 🚯 [FACT](http://9gag.com/gag/a1rB1YP)
+ - 🚯 [Never skip leg day..](http://9gag.com/gag/aGp6EEK)
  - 😝 [Rest of the word: &quot;You invented this beautiful sport called football. You must be... Nevermind.&quot;](http://9gag.com/gag/azMo2rm)
- - 🚅 [FACT](http://9gag.com/gag/a1rB1YP)<!-- MEMES:END -->
+ - 🚅 [Brake checking a taxi](http://9gag.com/gag/awMPZ18)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
