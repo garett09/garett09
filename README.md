@@ -166,11 +166,11 @@ Windows                  47 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This Propeller Driven Shower Head](http://9gag.com/gag/a6E4Onm)
- - 🚯 [Congrats on the win you f**k1ng d**head](http://9gag.com/gag/a9EZAZK)
- - 🚯 [Hmm](http://9gag.com/gag/agB6YD6)
- - 😝 [I&rsquo;ll do it again](http://9gag.com/gag/a9EZKro)
- - 🚅 [Unsportsmanlike](http://9gag.com/gag/a8EQ8re)<!-- MEMES:END -->
+ - 🚖 [Man&#039;s family surprised him with a new puppy.](http://9gag.com/gag/axMQz2p)
+ - 🚯 [How can I stop this suffering?!?!](http://9gag.com/gag/a5EvMKN)
+ - 🚯 [Unsportsmanlike](http://9gag.com/gag/a8EQ8re)
+ - 😝 [And they wonder why nobody likes them... British fans cheer as Max Verstappen crashes with speed over 200KMH (51G crash)](http://9gag.com/gag/awMPQp1)
+ - 🚅 [Best Game I&#039;ve Played in my Life.](http://9gag.com/gag/amPK77X)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
