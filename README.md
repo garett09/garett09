@@ -167,10 +167,10 @@ Windows                  47 mins             ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Why the flood happens](http://9gag.com/gag/axMQMO1)
+ - 🚯 [Sebastian Vettel helps tidy up after British Grand Prix as fans leave Silverstone in a mess](http://9gag.com/gag/apNzNQ9)
  - 🚯 [Community cleans up after rioters loot an LG factory in Durban, South Africa](http://9gag.com/gag/aNp8pE6)
- - 🚯 [FACT](http://9gag.com/gag/a1rB1YP)
- - 😝 [Sebastian Vettel helps tidy up after British Grand Prix as fans leave Silverstone in a mess](http://9gag.com/gag/apNzNQ9)
- - 🚅 [German houses are built differently](http://9gag.com/gag/axMQMzL)<!-- MEMES:END -->
+ - 😝 [German houses are built differently](http://9gag.com/gag/axMQMzL)
+ - 🚅 [Romain Grosjean: F1 horror crash driver says controversial Halo safety device saved his life](http://9gag.com/gag/a1rBr5Y)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
