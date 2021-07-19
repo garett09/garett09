@@ -166,11 +166,11 @@ Windows                  47 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Unsportsmanlike](http://9gag.com/gag/a8EQ8re)
+ - 🚖 [How can I stop this suffering?!?!](http://9gag.com/gag/a5EvMKN)
  - 🚯 [Grass parking lots absorbs more rainfall keeping water out of storm drains. It reduces heat. Provides habitat for insects. Helps offset carbon dioxide. Filters the water. It looks better and is cheaper than concrete while being stronger than asphalt.](http://9gag.com/gag/awMPAO1)
- - 🚯 [How can I stop this suffering?!?!](http://9gag.com/gag/a5EvMKN)
- - 😝 [Best Game I&#039;ve Played in my Life.](http://9gag.com/gag/amPK77X)
- - 🚅 [That&#039;s for sure](http://9gag.com/gag/aAbq3N2)<!-- MEMES:END -->
+ - 🚯 [Vaccines cause Autism](http://9gag.com/gag/anQ85yL)
+ - 😝 [That&#039;s for sure](http://9gag.com/gag/aAbq3N2)
+ - 🚅 [I&rsquo;ll do it again](http://9gag.com/gag/a9EZKro)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
