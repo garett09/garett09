@@ -166,11 +166,11 @@ Windows                  47 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Puma is apex predator](http://9gag.com/gag/a07zNLn)
- - 🚯 [Jonathan mc](http://9gag.com/gag/aeAyD3q)
- - 🚯 [Bingo!](http://9gag.com/gag/azMomLN)
- - 😝 [In South Korea, the solar panels in the middle of the highway have a bicyce path underneath..cyclists are protected from the sun, isolated from traffic, and the country can produce clean energy](http://9gag.com/gag/aeAy575)
- - 🚅 [If you are already rich, why be a b*tch?](http://9gag.com/gag/arM9oMV)<!-- MEMES:END -->
+ - 🚖 [One is Super Glue. The other is Hemorrhoids cream. And i have a sad story to tell](http://9gag.com/gag/azMomZB)
+ - 🚯 [In South Korea, the solar panels in the middle of the highway have a bicyce path underneath..cyclists are protected from the sun, isolated from traffic, and the country can produce clean energy](http://9gag.com/gag/aeAy575)
+ - 🚯 [Got offered a 50% raise, promotion and benefits. Feeling really good about myself for the first time in a long time. Hope you guys have a good week!](http://9gag.com/gag/aXoQgYg)
+ - 😝 [If you are already rich, why be a b*tch?](http://9gag.com/gag/arM9oMV)
+ - 🚅 [Bingo!](http://9gag.com/gag/azMomLN)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
