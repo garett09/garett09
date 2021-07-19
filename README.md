@@ -175,11 +175,11 @@ Windows                  47 mins             ███████████�
 ### 📣 Jokes of the hour
 
 <!-- JOKES:START -->
- - 🐔 [Daily Afternoon Randomness (49 Photos)](https://thechive.com/2021/07/19/daily-afternoon-randomness-49-photos-1308/)
- - 🕉 [Instagram is a sexy, weird-*ss, confusing place (30 Photos)](https://thechive.com/2021/07/19/instagram-is-a-sexy-weird-ss-confusing-place-30-photos-2/)
- - 🕉 [GAPS can help cure those pesky Monday Blues (52 Photos)](https://thechive.com/2021/07/19/gaps-can-help-cure-those-pesky-monday-blues-52-photos/)
- - 👾 [Fruits and vegetables that look far too much like sentient beings for my comfort (37 photos)](https://thechive.com/2021/07/19/fruits-and-vegetables-that-look-far-too-much-like-sentient-beings-for-my-comfort-37-photos/)
- - 🎈 [Everyone loves themselves some good pits!](https://www.thechivery.com/collections/pets?utm_source=thechivehomepage&utm_medium=loop2&utm_campaign=pitties_071921)<!-- JOKES:END -->
+ - 🐔 [Damn, this truth will cut right to the core of you (43 Photos)](https://thechive.com/2021/07/19/damn-this-truth-will-cut-right-to-the-core-of-you-43-photos/)
+ - 🕉 [Fantasy football just got a whole lot sexier with FantasyBoss (9 GIFs)](https://thechive.com/2021/07/19/fantasy-football-just-got-a-whole-lot-sexier-with-fantasy-boss-9-photos/)
+ - 🕉 [Daily Afternoon Randomness (49 Photos)](https://thechive.com/2021/07/19/daily-afternoon-randomness-49-photos-1308/)
+ - 👾 [Instagram is a sexy, weird-*ss, confusing place (30 Photos)](https://thechive.com/2021/07/19/instagram-is-a-sexy-weird-ss-confusing-place-30-photos-2/)
+ - 🎈 [GAPS can help cure those pesky Monday Blues (52 Photos)](https://thechive.com/2021/07/19/gaps-can-help-cure-those-pesky-monday-blues-52-photos/)<!-- JOKES:END -->
 
 ### 📣 Quotes of the hour
 
