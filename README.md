@@ -175,11 +175,11 @@ Windows                  47 mins             ███████████�
 ### 📣 Jokes of the hour
 
 <!-- JOKES:START -->
- - 🐔 [Anxiety memes will make everything okay, RIGHT?! (30 Photos)](https://thechive.com/2021/07/18/anxiety-memes-will-make-everything-okay-right-30-photos/)
- - 🕉 [Before you say “I Do” and eat some cake, read these cautionary memes (47 Photos)](https://thechive.com/2021/07/18/before-you-say-i-do-and-eat-some-cake-read-these-cautionary-memes-47-photos/)
- - 🕉 [Weekend Afternoon Randomness (38 Photos)](https://thechive.com/2021/07/18/weekend-afternoon-randomness-38-photos-18/)
- - 👾 [SIMPLE Things That Make You More Attractive (15 Photos)](https://thechive.com/2021/07/18/simple-things-that-make-you-more-attractive-15-photos/)
- - 🎈 [These pictures are NOT easy on the eyes… (25 Photos)](https://thechive.com/2021/07/18/these-pictures-are-not-easy-on-the-eyes-25-photos/)<!-- JOKES:END -->
+ - 🐔 [Up Next in Internet Comedy: You Laugh, You Lose! (30 Photos)](https://thechive.com/2021/07/18/up-next-in-internet-comedy-you-laugh-you-lose-30-photos/)
+ - 🕉 [Cancel all your plans for these introvert memes (30 Photos)](https://thechive.com/2021/07/18/cancel-all-your-plans-for-these-introvert-memes-30-photos-7/)
+ - 🕉 [Some people have the WEIRDEST fetishes (18 GIFs)](https://thechive.com/2021/07/18/some-people-have-the-weirdest-fetishes-18-gifs/)
+ - 👾 [Anxiety memes will make everything okay, RIGHT?! (30 Photos)](https://thechive.com/2021/07/18/anxiety-memes-will-make-everything-okay-right-30-photos/)
+ - 🎈 [Before you say “I Do” and eat some cake, read these cautionary memes (47 Photos)](https://thechive.com/2021/07/18/before-you-say-i-do-and-eat-some-cake-read-these-cautionary-memes-47-photos/)<!-- JOKES:END -->
 
 ### 📣 Quotes of the hour
 
