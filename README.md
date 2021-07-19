@@ -166,11 +166,11 @@ Windows                  47 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [One is Super Glue. The other is Hemorrhoids cream. And i have a sad story to tell](http://9gag.com/gag/azMomZB)
- - 🚯 [In South Korea, the solar panels in the middle of the highway have a bicyce path underneath..cyclists are protected from the sun, isolated from traffic, and the country can produce clean energy](http://9gag.com/gag/aeAy575)
- - 🚯 [Got offered a 50% raise, promotion and benefits. Feeling really good about myself for the first time in a long time. Hope you guys have a good week!](http://9gag.com/gag/aXoQgYg)
- - 😝 [If you are already rich, why be a b*tch?](http://9gag.com/gag/arM9oMV)
- - 🚅 [Bingo!](http://9gag.com/gag/azMomLN)<!-- MEMES:END -->
+ - 🚖 [I can&#039;t begin to describe the pain. Sure, we were paid well, but it wasn&#039;t about money... We put so much heart into it, and it was a true piece of art... That night my master and I went to a bar, and drowned our sorrow in whiskey until we couldn&#039;t even walk. Sorry for a long post](http://9gag.com/gag/aGp6dX0)
+ - 🚯 [Kiss your dog..](http://9gag.com/gag/a7EPwD2)
+ - 🚯 [Bingo!](http://9gag.com/gag/azMomLN)
+ - 😝 [Investigation thinks it&#039;s SUICIDE. Woman found dead with 28 knife wounds after leaving her husband.](http://9gag.com/gag/ayMZeNp)
+ - 🚅 [One is Super Glue. The other is Hemorrhoids cream. And i have a sad story to tell](http://9gag.com/gag/azMomZB)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
