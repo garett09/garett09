@@ -166,11 +166,11 @@ Windows                  47 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Why the flood happens](http://9gag.com/gag/axMQMO1)
- - 🚯 [Sebastian Vettel helps tidy up after British Grand Prix as fans leave Silverstone in a mess](http://9gag.com/gag/apNzNQ9)
- - 🚯 [Community cleans up after rioters loot an LG factory in Durban, South Africa](http://9gag.com/gag/aNp8pE6)
- - 😝 [German houses are built differently](http://9gag.com/gag/axMQMzL)
- - 🚅 [Romain Grosjean: F1 horror crash driver says controversial Halo safety device saved his life](http://9gag.com/gag/a1rBr5Y)<!-- MEMES:END -->
+ - 🚖 [German houses are built differently](http://9gag.com/gag/axMQMzL)
+ - 🚯 [Rest of the word: &quot;You invented this beautiful sport called football. You must be... Nevermind.&quot;](http://9gag.com/gag/azMo2rm)
+ - 🚯 [Student pilot loses engine during flight](http://9gag.com/gag/aGp6Ew7)
+ - 😝 [Romain Grosjean: F1 horror crash driver says controversial Halo safety device saved his life](http://9gag.com/gag/a1rBr5Y)
+ - 🚅 [Community cleans up after rioters loot an LG factory in Durban, South Africa](http://9gag.com/gag/aNp8pE6)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
