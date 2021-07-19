@@ -175,11 +175,11 @@ Windows                  47 mins             ███████████�
 ### 📣 Jokes of the hour
 
 <!-- JOKES:START -->
- - 🐔 [Dank Memes Will Be the Life of Me (27 Photos)](https://thechive.com/2021/07/18/dank-memes-will-be-the-life-of-me-27-photos/)
+ - 🐔 [Daily Morning Awesomeness (38 Photos)](https://thechive.com/2021/07/19/daily-morning-awesomeness-38-photos-173/)
+ - 🕉 [Dank Memes Will Be the Life of Me (27 Photos)](https://thechive.com/2021/07/18/dank-memes-will-be-the-life-of-me-27-photos/)
  - 🕉 [Let’s learn some ‘udderly’ fascinating facts about cows (11 Photos)](https://thechive.com/2021/07/18/lets-learn-some-udderly-fascinating-facts-about-cows-11-photos/)
- - 🕉 [The Dog Days will never be over (34 photos)](https://thechive.com/2021/07/18/the-dog-days-will-never-be-over-34-photos-2/)
- - 👾 [GIFs that kept GIF-ing all damn week (20 GIFs)](https://thechive.com/2021/07/18/gifs-that-kept-gif-ing-all-damn-week-20-gifs-34/)
- - 🎈 [SIMPLE Things That Make You More Attractive (15 Photos)](https://thechive.com/2021/07/18/simple-things-that-make-you-more-attractive-15-photos/)<!-- JOKES:END -->
+ - 👾 [The Dog Days will never be over (34 photos)](https://thechive.com/2021/07/18/the-dog-days-will-never-be-over-34-photos-2/)
+ - 🎈 [GIFs that kept GIF-ing all damn week (20 GIFs)](https://thechive.com/2021/07/18/gifs-that-kept-gif-ing-all-damn-week-20-gifs-34/)<!-- JOKES:END -->
 
 ### 📣 Quotes of the hour
 
