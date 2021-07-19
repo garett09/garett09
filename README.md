@@ -166,11 +166,11 @@ Windows                  47 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When you socialize but no one socializing with you](http://9gag.com/gag/aRX97GA)
- - 🚯 [Even most germans dont know about it. I was paid 1 year, helped me alot!](http://9gag.com/gag/a1rBrXb)
- - 🚯 [Saw a post ... now is complete!](http://9gag.com/gag/aNp8gy0)
- - 😝 [The most intense garden sprinkler](http://9gag.com/gag/amPKPMd)
- - 🚅 [Why the flood happens](http://9gag.com/gag/axMQMO1)<!-- MEMES:END -->
+ - 🚖 [FACT](http://9gag.com/gag/a1rB1YP)
+ - 🚯 [The most intense garden sprinkler](http://9gag.com/gag/amPKPMd)
+ - 🚯 [Community cleans up after rioters loot an LG factory in Durban, South Africa](http://9gag.com/gag/aNp8pE6)
+ - 😝 [Why the flood happens](http://9gag.com/gag/axMQMO1)
+ - 🚅 [Sebastian Vettel helps tidy up after British Grand Prix as fans leave Silverstone in a mess](http://9gag.com/gag/apNzNQ9)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
