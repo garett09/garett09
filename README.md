@@ -175,11 +175,11 @@ Windows                  47 mins             ███████████�
 ### 📣 Jokes of the hour
 
 <!-- JOKES:START -->
- - 🐔 [Best DEBATE ever: Can a massive TOPs be “too Big?” (33 Photos)](https://thechive.com/2021/07/19/best-debate-ever-can-a-massive-rack-be-too-big-33-photos/)
+ - 🐔 [If aliens asked us to reveal our finest human, this is who we’d choose…(20 Photos)](https://thechive.com/2021/07/19/if-aliens-asked-us-to-reveal-our-finest-human-this-is-who-wed-choose-20-photos/)
+ - 🕉 [Best DEBATE ever: Can a massive TOPs be “too Big?” (33 Photos)](https://thechive.com/2021/07/19/best-debate-ever-can-a-massive-rack-be-too-big-33-photos/)
  - 🕉 [This woman got an Amazon worker to do a hit job on her spider](https://thechive.com/2021/07/19/this-woman-got-an-amazon-worker-to-do-a-hit-job-on-her-spider/)
- - 🕉 [Wrong number texts that will have you cringe-laughing (34 Photos)](https://thechive.com/2021/07/19/wrong-number-texts-that-will-have-you-cringe-laughing-34-photos/)
- - 👾 [Unwritten rules that make me say “Come on man! Write those rules down!” (18 Gifs)](https://thechive.com/2021/07/19/unwritten-rules-that-make-me-say-come-on-man-write-those-rules-down-18-gifs/)
- - 🎈 [A heavy case of the FLBP blues worth the “weight” (70 Photos)](https://thechive.com/2021/07/19/a-heavy-case-of-the-flbp-blues-worth-the-weight-69-photos/)<!-- JOKES:END -->
+ - 👾 [Wrong number texts that will have you cringe-laughing (34 Photos)](https://thechive.com/2021/07/19/wrong-number-texts-that-will-have-you-cringe-laughing-34-photos/)
+ - 🎈 [Unwritten rules that make me say “Come on man! Write those rules down!” (18 Gifs)](https://thechive.com/2021/07/19/unwritten-rules-that-make-me-say-come-on-man-write-those-rules-down-18-gifs/)<!-- JOKES:END -->
 
 ### 📣 Quotes of the hour
 
