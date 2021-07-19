@@ -166,11 +166,11 @@ Windows                  47 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Looks like they&#039;re having a takeout today.](http://9gag.com/gag/aRX9ELQ)
- - 🚯 [Rest of the word: &quot;You invented this beautiful sport called football. You must be... Nevermind.&quot;](http://9gag.com/gag/azMo2rm)
- - 🚯 [P stands for](http://9gag.com/gag/a7EPqNm)
+ - 🚖 [P stands for](http://9gag.com/gag/a7EPqNm)
+ - 🚯 [True true. Yet Beer w/o alcohol is water](http://9gag.com/gag/aMKDVXR)
+ - 🚯 [Girl meets her favorite basketball player &amp; gives him drawings](http://9gag.com/gag/a4EmPom)
  - 😝 [Never skip leg day..](http://9gag.com/gag/aGp6EEK)
- - 🚅 [Healthcare worker gets punched in the eye for asking someone to put on a mask in Madrid&#039;s subway. He is now blind in the eye that was hit](http://9gag.com/gag/aXoQrZ2)<!-- MEMES:END -->
+ - 🚅 [The 1980s were constant chaos](http://9gag.com/gag/a4EmPAA)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
