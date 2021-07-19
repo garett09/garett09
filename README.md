@@ -166,11 +166,11 @@ Windows                  47 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Man&#039;s family surprised him with a new puppy.](http://9gag.com/gag/axMQz2p)
+ - 🚖 [Unsportsmanlike](http://9gag.com/gag/a8EQ8re)
+ - 🚯 [Grass parking lots absorbs more rainfall keeping water out of storm drains. It reduces heat. Provides habitat for insects. Helps offset carbon dioxide. Filters the water. It looks better and is cheaper than concrete while being stronger than asphalt.](http://9gag.com/gag/awMPAO1)
  - 🚯 [How can I stop this suffering?!?!](http://9gag.com/gag/a5EvMKN)
- - 🚯 [Unsportsmanlike](http://9gag.com/gag/a8EQ8re)
- - 😝 [And they wonder why nobody likes them... British fans cheer as Max Verstappen crashes with speed over 200KMH (51G crash)](http://9gag.com/gag/awMPQp1)
- - 🚅 [Best Game I&#039;ve Played in my Life.](http://9gag.com/gag/amPK77X)<!-- MEMES:END -->
+ - 😝 [Best Game I&#039;ve Played in my Life.](http://9gag.com/gag/amPK77X)
+ - 🚅 [That&#039;s for sure](http://9gag.com/gag/aAbq3N2)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
