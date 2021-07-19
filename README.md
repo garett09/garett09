@@ -166,9 +166,9 @@ Windows                  47 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Bingo!](http://9gag.com/gag/azMomLN)
+ - 🚖 [Puma is apex predator](http://9gag.com/gag/a07zNLn)
  - 🚯 [Jonathan mc](http://9gag.com/gag/aeAyD3q)
- - 🚯 [Vaccines cause Autism](http://9gag.com/gag/anQ85yL)
+ - 🚯 [Bingo!](http://9gag.com/gag/azMomLN)
  - 😝 [In South Korea, the solar panels in the middle of the highway have a bicyce path underneath..cyclists are protected from the sun, isolated from traffic, and the country can produce clean energy](http://9gag.com/gag/aeAy575)
  - 🚅 [If you are already rich, why be a b*tch?](http://9gag.com/gag/arM9oMV)<!-- MEMES:END -->
 
