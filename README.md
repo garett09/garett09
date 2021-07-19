@@ -175,11 +175,11 @@ Windows                  47 mins             ███████████�
 ### 📣 Jokes of the hour
 
 <!-- JOKES:START -->
- - 🐔 [Unwritten rules that make me say “Come on man! Write those rules down!” (18 Gifs)](https://thechive.com/2021/07/19/unwritten-rules-that-make-me-say-come-on-man-write-those-rules-down-18-gifs/)
- - 🕉 [A heavy case of the FLBP blues worth the “weight” (70 Photos)](https://thechive.com/2021/07/19/a-heavy-case-of-the-flbp-blues-worth-the-weight-69-photos/)
- - 🕉 [Daily Morning Awesomeness (38 Photos)](https://thechive.com/2021/07/19/daily-morning-awesomeness-38-photos-173/)
- - 👾 [Dank Memes Will Be the Life of Me (27 Photos)](https://thechive.com/2021/07/18/dank-memes-will-be-the-life-of-me-27-photos/)
- - 🎈 [Let’s learn some ‘udderly’ fascinating facts about cows (11 Photos)](https://thechive.com/2021/07/18/lets-learn-some-udderly-fascinating-facts-about-cows-11-photos/)<!-- JOKES:END -->
+ - 🐔 [This woman got an Amazon worker to do a hit job on her spider](https://thechive.com/2021/07/19/this-woman-got-an-amazon-worker-to-do-a-hit-job-on-her-spider/)
+ - 🕉 [Wrong number texts that will have you cringe-laughing (34 Photos)](https://thechive.com/2021/07/19/wrong-number-texts-that-will-have-you-cringe-laughing-34-photos/)
+ - 🕉 [Unwritten rules that make me say “Come on man! Write those rules down!” (18 Gifs)](https://thechive.com/2021/07/19/unwritten-rules-that-make-me-say-come-on-man-write-those-rules-down-18-gifs/)
+ - 👾 [A heavy case of the FLBP blues worth the “weight” (70 Photos)](https://thechive.com/2021/07/19/a-heavy-case-of-the-flbp-blues-worth-the-weight-69-photos/)
+ - 🎈 [Daily Morning Awesomeness (38 Photos)](https://thechive.com/2021/07/19/daily-morning-awesomeness-38-photos-173/)<!-- JOKES:END -->
 
 ### 📣 Quotes of the hour
 
