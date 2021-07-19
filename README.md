@@ -166,11 +166,11 @@ Windows                  47 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [P stands for](http://9gag.com/gag/a7EPqNm)
- - 🚯 [FACT](http://9gag.com/gag/a1rB1YP)
- - 🚯 [Never skip leg day..](http://9gag.com/gag/aGp6EEK)
- - 😝 [Rest of the word: &quot;You invented this beautiful sport called football. You must be... Nevermind.&quot;](http://9gag.com/gag/azMo2rm)
- - 🚅 [Brake checking a taxi](http://9gag.com/gag/awMPZ18)<!-- MEMES:END -->
+ - 🚖 [Looks like they&#039;re having a takeout today.](http://9gag.com/gag/aRX9ELQ)
+ - 🚯 [Rest of the word: &quot;You invented this beautiful sport called football. You must be... Nevermind.&quot;](http://9gag.com/gag/azMo2rm)
+ - 🚯 [P stands for](http://9gag.com/gag/a7EPqNm)
+ - 😝 [Never skip leg day..](http://9gag.com/gag/aGp6EEK)
+ - 🚅 [Healthcare worker gets punched in the eye for asking someone to put on a mask in Madrid&#039;s subway. He is now blind in the eye that was hit](http://9gag.com/gag/aXoQrZ2)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
