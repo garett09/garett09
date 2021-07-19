@@ -175,11 +175,11 @@ Windows                  47 mins             ███████████�
 ### 📣 Jokes of the hour
 
 <!-- JOKES:START -->
- - 🐔 [Up Next in Internet Comedy: You Laugh, You Lose! (30 Photos)](https://thechive.com/2021/07/18/up-next-in-internet-comedy-you-laugh-you-lose-30-photos/)
- - 🕉 [Cancel all your plans for these introvert memes (30 Photos)](https://thechive.com/2021/07/18/cancel-all-your-plans-for-these-introvert-memes-30-photos-7/)
- - 🕉 [Some people have the WEIRDEST fetishes (18 GIFs)](https://thechive.com/2021/07/18/some-people-have-the-weirdest-fetishes-18-gifs/)
- - 👾 [Anxiety memes will make everything okay, RIGHT?! (30 Photos)](https://thechive.com/2021/07/18/anxiety-memes-will-make-everything-okay-right-30-photos/)
- - 🎈 [Before you say “I Do” and eat some cake, read these cautionary memes (47 Photos)](https://thechive.com/2021/07/18/before-you-say-i-do-and-eat-some-cake-read-these-cautionary-memes-47-photos/)<!-- JOKES:END -->
+ - 🐔 [Let’s learn some ‘udderly’ fascinating facts about cows (11 Photos)](https://thechive.com/2021/07/18/lets-learn-some-udderly-fascinating-facts-about-cows-11-photos/)
+ - 🕉 [The Dog Days will never be over (34 photos)](https://thechive.com/2021/07/18/the-dog-days-will-never-be-over-34-photos-2/)
+ - 🕉 [GIFs that kept GIF-ing all damn week (20 GIFs)](https://thechive.com/2021/07/18/gifs-that-kept-gif-ing-all-damn-week-20-gifs-34/)
+ - 👾 [SIMPLE Things That Make You More Attractive (15 Photos)](https://thechive.com/2021/07/18/simple-things-that-make-you-more-attractive-15-photos/)
+ - 🎈 [Hunter S. Thompson’s daily routine was absolutely f**king nuts (20 Photos)](https://thechive.com/2021/07/18/hunter-s-thompsons-daily-routine-was-absolutely-fking-nuts-20-photos/)<!-- JOKES:END -->
 
 ### 📣 Quotes of the hour
 
