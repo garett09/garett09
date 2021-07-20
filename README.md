@@ -175,11 +175,11 @@ Windows                  13 mins             ███████████�
 ### 📣 Jokes of the hour
 
 <!-- JOKES:START -->
- - 🐔 [What-the-Flying F*CK wheels…and hot Chicks by Rides (69 Photos)](https://thechive.com/2021/07/20/what-the-flying-fck-wheelsand-hot-chicks-by-rides-69-photos/)
- - 🕉 [NEW Chivette Tees Are Here!](https://www.thechivery.com/collections/chivette?utm_source=thechivehomepage&utm_medium=loop12&utm_campaign=chivette_072021)
- - 🕉 [When it comes to bad neighbors, there is no such thing as petty (19 GIFs)](https://thechive.com/2021/07/20/when-it-comes-to-bad-neighbors-there-is-no-such-thing-as-petty-19-gifs/)
- - 👾 [Kids fought the sleep, but the sleep won (25 Photos)](https://thechive.com/2021/07/20/kids-fought-the-sleep-but-the-sleep-won-25-photos/)
- - 🎈 [Long LEGs ’n Lacie LINGERIE …with the sexy OliveP (36 Photos)](https://thechive.com/2021/07/20/long-legs-n-lacie-lingerie-with-the-sexy-olivep-33-photos/)<!-- JOKES:END -->
+ - 🐔 [A podcast about failure, our community, and never selling theCHIVE (2 Photos)](https://thechive.com/2021/07/20/a-podcast-about-failure-our-community-and-never-selling-thechive-2-photos/)
+ - 🕉 [The cringe… it burrrrns (25 photos)](https://thechive.com/2021/07/20/the-cringe-it-burrrrns-25-photos/)
+ - 🕉 [These Adulting Memes Are NOT My Responsibility (30 Photos)](https://thechive.com/2021/07/20/these-adulting-memes-are-not-my-responsibility-30-photos/)
+ - 👾 [What-the-Flying F*CK wheels…and, hot Chicks by Rides (69 Photos)](https://thechive.com/2021/07/20/what-the-flying-fck-wheelsand-hot-chicks-by-rides-69-photos/)
+ - 🎈 [NEW Chivette Tees Are Here!](https://www.thechivery.com/collections/chivette?utm_source=thechivehomepage&utm_medium=loop12&utm_campaign=chivette_072021)<!-- JOKES:END -->
 
 ### 📣 Quotes of the hour
 
