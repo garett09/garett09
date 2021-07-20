@@ -166,11 +166,11 @@ Windows                  13 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Tell me you&#039;re in your 30s without telling me you&#039;re in your 30s.](http://9gag.com/gag/a8EQ0WZ)
- - 🚯 [Zhengzhou, China right now. Scary](http://9gag.com/gag/agB67Rx)
- - 🚯 [Shock of life. Always laugh when i see it.](http://9gag.com/gag/amPKx1V)
- - 😝 [Amazon employee watching his boss go to space](http://9gag.com/gag/axMQ6Wb)
- - 🚅 [Blue Origin Giving Jeff Bezos a Medal](http://9gag.com/gag/anQ8vRb)<!-- MEMES:END -->
+ - 🚖 [Sailing close to this strong whirlpool. The Moskstraumen or Moskenstraumen is a system of tidal eddies and whirlpools, one of the strongest in the world, that forms at the Lofoten archipelago in Nordland county, Norway between the Norwegian Sea and the Vestfjorden](http://9gag.com/gag/aDdrbLd)
+ - 🚯 [Blue Origin Giving Jeff Bezos a Medal](http://9gag.com/gag/anQ8vRb)
+ - 🚯 [People escape from subway, China, Henan](http://9gag.com/gag/aWjPoo4)
+ - 😝 [Society explained in 31sec](http://9gag.com/gag/abVKxR9)
+ - 🚅 [Shock of life. Always laugh when i see it.](http://9gag.com/gag/amPKx1V)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
