@@ -175,11 +175,11 @@ Windows                  13 mins             ███████████�
 ### 📣 Jokes of the hour
 
 <!-- JOKES:START -->
- - 🐔 [NEW Chivette Tees Are Here!](https://www.thechivery.com/collections/chivette?utm_source=thechivehomepage&utm_medium=loop12&utm_campaign=chivette_072021)
+ - 🐔 [What-the-Flying F*CK wheels…and hot Chicks by Rides (69 Photos)](https://thechive.com/2021/07/20/what-the-flying-fck-wheelsand-hot-chicks-by-rides-69-photos/)
+ - 🕉 [NEW Chivette Tees Are Here!](https://www.thechivery.com/collections/chivette?utm_source=thechivehomepage&utm_medium=loop12&utm_campaign=chivette_072021)
  - 🕉 [When it comes to bad neighbors, there is no such thing as petty (19 GIFs)](https://thechive.com/2021/07/20/when-it-comes-to-bad-neighbors-there-is-no-such-thing-as-petty-19-gifs/)
- - 🕉 [Kids fought the sleep, but the sleep won (25 Photos)](https://thechive.com/2021/07/20/kids-fought-the-sleep-but-the-sleep-won-25-photos/)
- - 👾 [Long LEGs ’n Lacie LINGERIE …with the sexy OliveP (36 Photos)](https://thechive.com/2021/07/20/long-legs-n-lacie-lingerie-with-the-sexy-olivep-33-photos/)
- - 🎈 [Tuesdays are for tugging (37 Photos)](https://thechive.com/2021/07/20/tuesdays-are-for-tugging-6/)<!-- JOKES:END -->
+ - 👾 [Kids fought the sleep, but the sleep won (25 Photos)](https://thechive.com/2021/07/20/kids-fought-the-sleep-but-the-sleep-won-25-photos/)
+ - 🎈 [Long LEGs ’n Lacie LINGERIE …with the sexy OliveP (36 Photos)](https://thechive.com/2021/07/20/long-legs-n-lacie-lingerie-with-the-sexy-olivep-33-photos/)<!-- JOKES:END -->
 
 ### 📣 Quotes of the hour
 
