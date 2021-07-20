@@ -166,10 +166,10 @@ Windows                  13 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Asking the real question here](http://9gag.com/gag/ayMZNbr)
- - 🚯 [Why pandas are rare](http://9gag.com/gag/aqjBeGQ)
- - 🚯 [Help arriving to South Africa](http://9gag.com/gag/aDdr2Vd)
- - 😝 [True](http://9gag.com/gag/aLpVngv)
+ - 🚖 [Hmm...](http://9gag.com/gag/aO3A2qN)
+ - 🚯 [Asking the real question here](http://9gag.com/gag/ayMZNbr)
+ - 🚯 [True](http://9gag.com/gag/aLpVngv)
+ - 😝 [Help arriving to South Africa](http://9gag.com/gag/aDdr2Vd)
  - 🚅 [Girl meets her favorite basketball player &amp; gives him drawings](http://9gag.com/gag/a4EmPom)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
