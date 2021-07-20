@@ -166,11 +166,11 @@ Windows                  13 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It just takes one pissed of Amazon worker...Just sayin](http://9gag.com/gag/aEpy6vO)
- - 🚯 [Still one of the greatest moments in human history!](http://9gag.com/gag/a7EPeKL)
- - 🚯 [Spot the differences](http://9gag.com/gag/agB61zg)
- - 😝 [And for 29 seconds everything&#039;s ok](http://9gag.com/gag/ajmGOyq)
- - 🚅 [Wait a minute, something is wrong here&hellip;](http://9gag.com/gag/aDdrnLZ)<!-- MEMES:END -->
+ - 🚖 [Road rage croatian way!!](http://9gag.com/gag/a1rBD4b)
+ - 🚯 [A traditional welcome by his elder brother and father, who returned from across the flowing river. Only happens in india](http://9gag.com/gag/ayMZ4KM)
+ - 🚯 [And for 29 seconds everything&#039;s ok](http://9gag.com/gag/ajmGOyq)
+ - 😝 [Old memories Romania 1 Japan 0](http://9gag.com/gag/aEpyVWo)
+ - 🚅 [Clearly a simp](http://9gag.com/gag/abVK41O)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
