@@ -166,11 +166,11 @@ Windows                  13 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Spot the differences](http://9gag.com/gag/agB61zg)
- - 🚯 [Good time creates memes](http://9gag.com/gag/arM93rV)
- - 🚯 [Saw a post ... now is complete!](http://9gag.com/gag/aP3zx5K)
- - 😝 [Zooming planet SATURN with Nikon P1000](http://9gag.com/gag/aAbq6EL)
- - 🚅 [Might be helpful](http://9gag.com/gag/aLpVzjV)<!-- MEMES:END -->
+ - 🚖 [Saw a post ... now is complete!](http://9gag.com/gag/aP3zx5K)
+ - 🚯 [A birdy on hole 9](http://9gag.com/gag/aNp89BG)
+ - 🚯 [Zooming planet SATURN with Nikon P1000](http://9gag.com/gag/aAbq6EL)
+ - 😝 [Might be helpful](http://9gag.com/gag/aLpVzjV)
+ - 🚅 [Spot the differences](http://9gag.com/gag/agB61zg)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
