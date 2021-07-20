@@ -166,11 +166,11 @@ Windows                  13 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Typhoons season here&hellip;](http://9gag.com/gag/aRX9M27)
- - 🚯 [And again](http://9gag.com/gag/azMoK5p)
- - 🚯 [Zhengzhou, China right now. Scary](http://9gag.com/gag/agB67Rx)
+ - 🚖 [Zhengzhou, China right now. Scary](http://9gag.com/gag/agB67Rx)
+ - 🚯 [Clearly a simp](http://9gag.com/gag/abVK41O)
+ - 🚯 [Tell me you&#039;re in your 30s without telling me you&#039;re in your 30s.](http://9gag.com/gag/a8EQ0WZ)
  - 😝 [Blue Origin Giving Jeff Bezos a Medal](http://9gag.com/gag/anQ8vRb)
- - 🚅 [Clearly a simp](http://9gag.com/gag/abVK41O)<!-- MEMES:END -->
+ - 🚅 [Amazon employee watching his boss go to space](http://9gag.com/gag/axMQ6Wb)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
