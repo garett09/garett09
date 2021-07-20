@@ -175,11 +175,11 @@ Windows                  13 mins             ███████████�
 ### 📣 Jokes of the hour
 
 <!-- JOKES:START -->
- - 🐔 [The most memorable things our high school teachers told us (19 GIFs)](https://thechive.com/2021/07/19/the-most-memorable-things-our-high-school-teachers-told-us/)
+ - 🐔 [Well would you look at her….I mean….the thing (18 Photos)](https://thechive.com/2021/07/19/well-would-you-look-at-her-i-mean-the-thing-18-photos/)
+ - 🕉 [The most memorable things our high school teachers told us (19 GIFs)](https://thechive.com/2021/07/19/the-most-memorable-things-our-high-school-teachers-told-us/)
  - 🕉 [You had one job…ONE F–KING JOB (31 Photos)](https://thechive.com/2021/07/19/you-had-one-job-one-f-king-job-31-photos/)
- - 🕉 [Daily Dopamine Dump](http://i.thechive.com/dopamine-dump)
- - 👾 [Mondays are made to celebrate these beautiful Chivettes (36 Photos)](https://thechive.com/2021/07/19/mondays-are-made-to-celebrate-these-beautiful-chivettes-36-photos/)
- - 🎈 [That’s a terrible idea…GENIUS but terrible. (26 Photos)](https://thechive.com/2021/07/19/thats-a-terrible-idea-genius-but-terrible-26-photos/)<!-- JOKES:END -->
+ - 👾 [Daily Dopamine Dump](http://i.thechive.com/dopamine-dump)
+ - 🎈 [Mondays are made to celebrate these beautiful Chivettes (36 Photos)](https://thechive.com/2021/07/19/mondays-are-made-to-celebrate-these-beautiful-chivettes-36-photos/)<!-- JOKES:END -->
 
 ### 📣 Quotes of the hour
 
