@@ -166,11 +166,11 @@ Windows                  13 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Wait a minute, something is wrong here&hellip;](http://9gag.com/gag/aDdrnLZ)
- - 🚯 [How this woman deals with POTS fainting](http://9gag.com/gag/aQoBvvr)
+ - 🚖 [It just takes one pissed of Amazon worker...Just sayin](http://9gag.com/gag/aEpy6vO)
  - 🚯 [Still one of the greatest moments in human history!](http://9gag.com/gag/a7EPeKL)
- - 😝 [It just takes one pissed of Amazon worker...Just sayin](http://9gag.com/gag/aEpy6vO)
- - 🚅 [And for 29 seconds everything&#039;s ok](http://9gag.com/gag/ajmGOyq)<!-- MEMES:END -->
+ - 🚯 [Spot the differences](http://9gag.com/gag/agB61zg)
+ - 😝 [And for 29 seconds everything&#039;s ok](http://9gag.com/gag/ajmGOyq)
+ - 🚅 [Wait a minute, something is wrong here&hellip;](http://9gag.com/gag/aDdrnLZ)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
