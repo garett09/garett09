@@ -166,11 +166,11 @@ Windows                  13 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Straight into her box...](http://9gag.com/gag/aNp89n4)
- - 🚯 [Zooming planet SATURN with Nikon P1000](http://9gag.com/gag/aAbq6EL)
- - 🚯 [Actually thats pretty accurate](http://9gag.com/gag/a279MD1)
- - 😝 [Might be helpful](http://9gag.com/gag/aLpVzjV)
- - 🚅 [How this woman deals with POTS fainting](http://9gag.com/gag/aQoBvvr)<!-- MEMES:END -->
+ - 🚖 [Spot the differences](http://9gag.com/gag/agB61zg)
+ - 🚯 [Good time creates memes](http://9gag.com/gag/arM93rV)
+ - 🚯 [Saw a post ... now is complete!](http://9gag.com/gag/aP3zx5K)
+ - 😝 [Zooming planet SATURN with Nikon P1000](http://9gag.com/gag/aAbq6EL)
+ - 🚅 [Might be helpful](http://9gag.com/gag/aLpVzjV)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
