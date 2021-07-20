@@ -166,11 +166,11 @@ Windows                  13 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Wait a minute, something is wrong here&hellip;](http://9gag.com/gag/aDdrnLZ)
- - 🚯 [Typhoons season here&hellip;](http://9gag.com/gag/aRX9M27)
+ - 🚖 [They never seem to acknowledge that](http://9gag.com/gag/aDdr8XK)
  - 🚯 [First time playing a game and u don&#039;t know the moves.](http://9gag.com/gag/a07zVML)
- - 😝 [And again](http://9gag.com/gag/azMoK5p)
- - 🚅 [If you remember any of these here, you are a legend. We are getting old too](http://9gag.com/gag/a7EP0jb)<!-- MEMES:END -->
+ - 🚯 [Typhoons season here&hellip;](http://9gag.com/gag/aRX9M27)
+ - 😝 [Curb your Breastfeeding. Tbh I hate Tucker ,but exceptions can be made.](http://9gag.com/gag/aB2jL6D)
+ - 🚅 [And again](http://9gag.com/gag/azMoK5p)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
