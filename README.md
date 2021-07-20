@@ -175,11 +175,11 @@ Windows                  13 mins             ███████████�
 ### 📣 Jokes of the hour
 
 <!-- JOKES:START -->
- - 🐔 [Have a dirty mind? There’s no judgement from us. (40 Photos)](https://thechive.com/2021/07/20/have-a-dirty-mind-theres-no-judgement-from-our-standpoint-40-photos/)
+ - 🐔 [Landmarks completely reinvented thanks to simple cutouts (21 Photos)](https://thechive.com/2021/07/20/landmarks-completely-reinvented-thanks-to-simple-cutouts/)
+ - 🕉 [Have a dirty mind? There’s no judgement from us. (40 Photos)](https://thechive.com/2021/07/20/have-a-dirty-mind-theres-no-judgement-from-our-standpoint-40-photos/)
  - 🕉 [Daily Morning Awesomeness (38 Photos)](https://thechive.com/2021/07/20/daily-morning-awesomeness-38-photos-174/)
- - 🕉 [Well would you look at her….I mean….the thing (18 Photos)](https://thechive.com/2021/07/19/well-would-you-look-at-her-i-mean-the-thing-18-photos/)
- - 👾 [The most memorable things our high school teachers told us (19 GIFs)](https://thechive.com/2021/07/19/the-most-memorable-things-our-high-school-teachers-told-us/)
- - 🎈 [You had one job…ONE F–KING JOB (31 Photos)](https://thechive.com/2021/07/19/you-had-one-job-one-f-king-job-31-photos/)<!-- JOKES:END -->
+ - 👾 [Well would you look at her….I mean….the thing (18 Photos)](https://thechive.com/2021/07/19/well-would-you-look-at-her-i-mean-the-thing-18-photos/)
+ - 🎈 [The most memorable things our high school teachers told us (19 GIFs)](https://thechive.com/2021/07/19/the-most-memorable-things-our-high-school-teachers-told-us/)<!-- JOKES:END -->
 
 ### 📣 Quotes of the hour
 
