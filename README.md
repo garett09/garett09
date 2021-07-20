@@ -175,11 +175,11 @@ Windows                  13 mins             ███████████�
 ### 📣 Jokes of the hour
 
 <!-- JOKES:START -->
- - 🐔 [Shiny Latex and Leather will make your day better (35 Photos)](https://thechive.com/2021/07/20/shiny-latex-and-leather-will-make-your-day-better-35-photos/)
- - 🕉 [GIFs prove: can’t out-RANDOM the internet (24 GIFs)](https://thechive.com/2021/07/20/gifs-prove-cant-out-random-the-internet-25-gifs-2/)
- - 🕉 [Landmarks completely reinvented thanks to simple cutouts (21 Photos)](https://thechive.com/2021/07/20/landmarks-completely-reinvented-thanks-to-simple-cutouts/)
- - 👾 [Have a dirty mind? There’s no judgement from us. (40 Photos)](https://thechive.com/2021/07/20/have-a-dirty-mind-theres-no-judgement-from-our-standpoint-40-photos/)
- - 🎈 [Daily Morning Awesomeness (38 Photos)](https://thechive.com/2021/07/20/daily-morning-awesomeness-38-photos-174/)<!-- JOKES:END -->
+ - 🐔 [Long LEGs ’n Lacie LINGERIE …with the sexy OliveP (33 Photos)](https://thechive.com/2021/07/20/long-legs-n-lacie-lingerie-with-the-sexy-olivep-33-photos/)
+ - 🕉 [Tuesdays are for tugging (37 Photos)](https://thechive.com/2021/07/20/tuesdays-are-for-tugging-6/)
+ - 🕉 [For those who need a reminder why the world is worth fighting for…(37 Photos)](https://thechive.com/2021/07/20/for-those-who-need-a-reminder-why-the-world-is-worth-fighting-for-37-photos/)
+ - 👾 [Power Moves Only (24 photos)](https://thechive.com/2021/07/20/power-moves-only-24-photos/)
+ - 🎈 [Shiny Latex and Leather will make your day better (35 Photos)](https://thechive.com/2021/07/20/shiny-latex-and-leather-will-make-your-day-better-35-photos/)<!-- JOKES:END -->
 
 ### 📣 Quotes of the hour
 
