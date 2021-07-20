@@ -175,11 +175,11 @@ Windows                  13 mins             ███████████�
 ### 📣 Jokes of the hour
 
 <!-- JOKES:START -->
- - 🐔 [A podcast about failure, our community, and never selling theCHIVE (2 Photos)](https://thechive.com/2021/07/20/a-podcast-about-failure-our-community-and-never-selling-thechive-2-photos/)
- - 🕉 [The cringe… it burrrrns (25 photos)](https://thechive.com/2021/07/20/the-cringe-it-burrrrns-25-photos/)
- - 🕉 [These Adulting Memes Are NOT My Responsibility (30 Photos)](https://thechive.com/2021/07/20/these-adulting-memes-are-not-my-responsibility-30-photos/)
- - 👾 [What-the-Flying F*CK wheels…and, hot Chicks by Rides (69 Photos)](https://thechive.com/2021/07/20/what-the-flying-fck-wheelsand-hot-chicks-by-rides-69-photos/)
- - 🎈 [NEW Chivette Tees Are Here!](https://www.thechivery.com/collections/chivette?utm_source=thechivehomepage&utm_medium=loop12&utm_campaign=chivette_072021)<!-- JOKES:END -->
+ - 🐔 [Daily Afternoon Randomness (49 Photos)](https://thechive.com/2021/07/20/daily-afternoon-randomness-49-photos-1309/)
+ - 🕉 [The firefighter who saved his own life (14 Photos)](https://thechive.com/2021/07/20/the-firefighter-who-saved-his-own-life-14-photos/)
+ - 🕉 [Girls putting the ‘Undress’ in ‘Sundress’ (34 Photos)](https://thechive.com/2021/07/20/girls-putting-the-undress-in-sundress-34-photos-2/)
+ - 👾 [Ever wondered what it’s like to have SEX with a Pornstar? (10 Photos)](https://thechive.com/2021/07/20/ever-wondered-what-its-like-to-have-sex-with-a-pornstar-10-photos/)
+ - 🎈 [A podcast about failure, our community, and never selling theCHIVE (2 Photos)](https://thechive.com/2021/07/20/a-podcast-about-failure-our-community-and-never-selling-thechive-2-photos/)<!-- JOKES:END -->
 
 ### 📣 Quotes of the hour
 
