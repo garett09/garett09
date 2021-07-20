@@ -166,11 +166,11 @@ Windows                  13 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Typhoons season here&hellip;](http://9gag.com/gag/aRX9M27)
- - 🚯 [Old memories Romania 1 Japan 0](http://9gag.com/gag/aEpyVWo)
- - 🚯 [And for 29 seconds everything&#039;s ok](http://9gag.com/gag/ajmGOyq)
- - 😝 [Wait a minute, something is wrong here&hellip;](http://9gag.com/gag/aDdrnLZ)
- - 🚅 [Amazon employee watching his boss go to space](http://9gag.com/gag/axMQ6Wb)<!-- MEMES:END -->
+ - 🚖 [Wait a minute, something is wrong here&hellip;](http://9gag.com/gag/aDdrnLZ)
+ - 🚯 [Typhoons season here&hellip;](http://9gag.com/gag/aRX9M27)
+ - 🚯 [First time playing a game and u don&#039;t know the moves.](http://9gag.com/gag/a07zVML)
+ - 😝 [And again](http://9gag.com/gag/azMoK5p)
+ - 🚅 [If you remember any of these here, you are a legend. We are getting old too](http://9gag.com/gag/a7EP0jb)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
