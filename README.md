@@ -175,11 +175,11 @@ Windows                  13 mins             ███████████�
 ### 📣 Jokes of the hour
 
 <!-- JOKES:START -->
- - 🐔 [25 places to go that are cooler than 3 miles into space](https://thechive.com/2021/07/20/26-places-to-go-that-are-cooler-than-3-miles-into-space/)
- - 🕉 [Daily Afternoon Randomness (49 Photos)](https://thechive.com/2021/07/20/daily-afternoon-randomness-49-photos-1309/)
- - 🕉 [The firefighter who saved his own life (14 Photos)](https://thechive.com/2021/07/20/the-firefighter-who-saved-his-own-life-14-photos/)
- - 👾 [Girls putting the ‘Undress’ in ‘Sundress’ (34 Photos)](https://thechive.com/2021/07/20/girls-putting-the-undress-in-sundress-34-photos-2/)
- - 🎈 [Ever wondered what it’s like to have SEX with a Pornstar? (10 Photos)](https://thechive.com/2021/07/20/ever-wondered-what-its-like-to-have-sex-with-a-pornstar-10-photos/)<!-- JOKES:END -->
+ - 🐔 [Sh*tty letter spacing can make ALLLL the difference (28 Photos)](https://thechive.com/2021/07/20/shtty-letter-spacing-can-make-allll-the-difference-28-photos/)
+ - 🕉 [Jeff Bezos “went to space” and the internet was quick to ground him (21 Photos)](https://thechive.com/2021/07/20/jeff-bezos-went-to-space-and-the-internet-was-quick-to-ground-him-21-photos/)
+ - 🕉 [25 places to go that are cooler than 3 miles into space](https://thechive.com/2021/07/20/26-places-to-go-that-are-cooler-than-3-miles-into-space/)
+ - 👾 [Daily Afternoon Randomness (49 Photos)](https://thechive.com/2021/07/20/daily-afternoon-randomness-49-photos-1309/)
+ - 🎈 [The firefighter who saved his own life (14 Photos)](https://thechive.com/2021/07/20/the-firefighter-who-saved-his-own-life-14-photos/)<!-- JOKES:END -->
 
 ### 📣 Quotes of the hour
 
