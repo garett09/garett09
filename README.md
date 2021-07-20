@@ -166,11 +166,11 @@ Windows                  13 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [P stands for](http://9gag.com/gag/a7EPqNm)
- - 🚯 [True true. Yet Beer w/o alcohol is water](http://9gag.com/gag/aMKDVXR)
- - 🚯 [Girl meets her favorite basketball player &amp; gives him drawings](http://9gag.com/gag/a4EmPom)
- - 😝 [Never skip leg day..](http://9gag.com/gag/aGp6EEK)
- - 🚅 [The 1980s were constant chaos](http://9gag.com/gag/a4EmPAA)<!-- MEMES:END -->
+ - 🚖 [Help arriving to South Africa](http://9gag.com/gag/aDdr2Vd)
+ - 🚯 [True](http://9gag.com/gag/aLpVngv)
+ - 🚯 [Student pilot loses engine during flight](http://9gag.com/gag/aGp6Ew7)
+ - 😝 [Why pandas are rare](http://9gag.com/gag/aqjBeGQ)
+ - 🚅 [Girl meets her favorite basketball player &amp; gives him drawings](http://9gag.com/gag/a4EmPom)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
