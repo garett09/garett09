@@ -166,10 +166,10 @@ Windows                  13 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Zhengzhou, China right now. Scary](http://9gag.com/gag/agB67Rx)
- - 🚯 [Blue Origin Giving Jeff Bezos a Medal](http://9gag.com/gag/anQ8vRb)
- - 🚯 [Typhoons season here&hellip;](http://9gag.com/gag/aRX9M27)
- - 😝 [And again](http://9gag.com/gag/azMoK5p)
+ - 🚖 [Typhoons season here&hellip;](http://9gag.com/gag/aRX9M27)
+ - 🚯 [And again](http://9gag.com/gag/azMoK5p)
+ - 🚯 [Zhengzhou, China right now. Scary](http://9gag.com/gag/agB67Rx)
+ - 😝 [Blue Origin Giving Jeff Bezos a Medal](http://9gag.com/gag/anQ8vRb)
  - 🚅 [Clearly a simp](http://9gag.com/gag/abVK41O)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
