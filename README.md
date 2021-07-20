@@ -166,11 +166,11 @@ Windows                  13 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A birdy on hole 9](http://9gag.com/gag/aNp89BG)
- - 🚯 [Pee Pa Pa Para Po](http://9gag.com/gag/arM93E7)
- - 🚯 [Zooming planet SATURN with Nikon P1000](http://9gag.com/gag/aAbq6EL)
- - 😝 [Might be helpful](http://9gag.com/gag/aLpVzjV)
- - 🚅 [We still use them.](http://9gag.com/gag/axMQWpn)<!-- MEMES:END -->
+ - 🚖 [Zooming planet SATURN with Nikon P1000](http://9gag.com/gag/aAbq6EL)
+ - 🚯 [We still use them.](http://9gag.com/gag/axMQWpn)
+ - 🚯 [Might be helpful](http://9gag.com/gag/aLpVzjV)
+ - 😝 [Still one of the greatest moments in human history!](http://9gag.com/gag/a7EPeKL)
+ - 🚅 [This is cute](http://9gag.com/gag/av541W5)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
