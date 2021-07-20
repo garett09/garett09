@@ -175,11 +175,11 @@ Windows                  13 mins             ███████████�
 ### 📣 Jokes of the hour
 
 <!-- JOKES:START -->
- - 🐔 [Long LEGs ’n Lacie LINGERIE …with the sexy OliveP (33 Photos)](https://thechive.com/2021/07/20/long-legs-n-lacie-lingerie-with-the-sexy-olivep-33-photos/)
+ - 🐔 [Kids fought the sleep, but the sleep won (25 Photos)](https://thechive.com/2021/07/20/kids-fought-the-sleep-but-the-sleep-won-25-photos/)
+ - 🕉 [Long LEGs ’n Lacie LINGERIE …with the sexy OliveP (36 Photos)](https://thechive.com/2021/07/20/long-legs-n-lacie-lingerie-with-the-sexy-olivep-33-photos/)
  - 🕉 [Tuesdays are for tugging (37 Photos)](https://thechive.com/2021/07/20/tuesdays-are-for-tugging-6/)
- - 🕉 [For those who need a reminder why the world is worth fighting for…(37 Photos)](https://thechive.com/2021/07/20/for-those-who-need-a-reminder-why-the-world-is-worth-fighting-for-37-photos/)
- - 👾 [Power Moves Only (24 photos)](https://thechive.com/2021/07/20/power-moves-only-24-photos/)
- - 🎈 [Shiny Latex and Leather will make your day better (35 Photos)](https://thechive.com/2021/07/20/shiny-latex-and-leather-will-make-your-day-better-35-photos/)<!-- JOKES:END -->
+ - 👾 [For those who need a reminder why the world is worth fighting for…(37 Photos)](https://thechive.com/2021/07/20/for-those-who-need-a-reminder-why-the-world-is-worth-fighting-for-37-photos/)
+ - 🎈 [Power Moves Only (24 photos)](https://thechive.com/2021/07/20/power-moves-only-24-photos/)<!-- JOKES:END -->
 
 ### 📣 Quotes of the hour
 
