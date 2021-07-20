@@ -166,11 +166,11 @@ Windows                  13 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [You weirdos keep asking for it so here it is: The entire LOTR in one gif](http://9gag.com/gag/aeAy9d5)
- - 🚯 [Same.](http://9gag.com/gag/a1rB76v)
+ - 🚖 [Same.](http://9gag.com/gag/a1rB76v)
  - 🚯 [Death by snu snu](http://9gag.com/gag/a3EeGe7)
- - 😝 [The 1980s were constant chaos](http://9gag.com/gag/a4EmPAA)
- - 🚅 [True true. Yet Beer w/o alcohol is water](http://9gag.com/gag/aMKDVXR)<!-- MEMES:END -->
+ - 🚯 [Love this Family moment.](http://9gag.com/gag/ayMZqNW)
+ - 😝 [Might be helpful](http://9gag.com/gag/aLpVzjV)
+ - 🚅 [Straight into her box...](http://9gag.com/gag/aNp89n4)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
