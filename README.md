@@ -166,11 +166,11 @@ Windows                  13 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Road rage croatian way!!](http://9gag.com/gag/a1rBD4b)
- - 🚯 [A traditional welcome by his elder brother and father, who returned from across the flowing river. Only happens in india](http://9gag.com/gag/ayMZ4KM)
+ - 🚖 [Typhoons season here&hellip;](http://9gag.com/gag/aRX9M27)
+ - 🚯 [Old memories Romania 1 Japan 0](http://9gag.com/gag/aEpyVWo)
  - 🚯 [And for 29 seconds everything&#039;s ok](http://9gag.com/gag/ajmGOyq)
- - 😝 [Old memories Romania 1 Japan 0](http://9gag.com/gag/aEpyVWo)
- - 🚅 [Clearly a simp](http://9gag.com/gag/abVK41O)<!-- MEMES:END -->
+ - 😝 [Wait a minute, something is wrong here&hellip;](http://9gag.com/gag/aDdrnLZ)
+ - 🚅 [Amazon employee watching his boss go to space](http://9gag.com/gag/axMQ6Wb)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
