@@ -166,11 +166,11 @@ Windows                  13 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [They never seem to acknowledge that](http://9gag.com/gag/aDdr8XK)
- - 🚯 [First time playing a game and u don&#039;t know the moves.](http://9gag.com/gag/a07zVML)
+ - 🚖 [Zhengzhou, China right now. Scary](http://9gag.com/gag/agB67Rx)
+ - 🚯 [Blue Origin Giving Jeff Bezos a Medal](http://9gag.com/gag/anQ8vRb)
  - 🚯 [Typhoons season here&hellip;](http://9gag.com/gag/aRX9M27)
- - 😝 [Curb your Breastfeeding. Tbh I hate Tucker ,but exceptions can be made.](http://9gag.com/gag/aB2jL6D)
- - 🚅 [And again](http://9gag.com/gag/azMoK5p)<!-- MEMES:END -->
+ - 😝 [And again](http://9gag.com/gag/azMoK5p)
+ - 🚅 [Clearly a simp](http://9gag.com/gag/abVK41O)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
