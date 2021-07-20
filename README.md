@@ -166,11 +166,11 @@ Windows                  13 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [True](http://9gag.com/gag/aLpVngv)
- - 🚯 [Love this Family moment.](http://9gag.com/gag/ayMZqNW)
- - 🚯 [Girl meets her favorite basketball player &amp; gives him drawings](http://9gag.com/gag/a4EmPom)
- - 😝 [Help arriving to South Africa](http://9gag.com/gag/aDdr2Vd)
- - 🚅 [For 1988 Seoul Olympics opening they had Grilled Doves](http://9gag.com/gag/aO3AQZy)<!-- MEMES:END -->
+ - 🚖 [Girl meets her favorite basketball player &amp; gives him drawings](http://9gag.com/gag/a4EmPom)
+ - 🚯 [For 1988 Seoul Olympics opening they had Grilled Doves](http://9gag.com/gag/aO3AQZy)
+ - 🚯 [Help arriving to South Africa](http://9gag.com/gag/aDdr2Vd)
+ - 😝 [Love this Family moment.](http://9gag.com/gag/ayMZqNW)
+ - 🚅 [You weirdos keep asking for it so here it is: The entire LOTR in one gif](http://9gag.com/gag/aeAy9d5)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
