@@ -166,11 +166,11 @@ Windows                  13 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hmm...](http://9gag.com/gag/aO3A2qN)
- - 🚯 [Asking the real question here](http://9gag.com/gag/ayMZNbr)
- - 🚯 [True](http://9gag.com/gag/aLpVngv)
+ - 🚖 [True](http://9gag.com/gag/aLpVngv)
+ - 🚯 [Love this Family moment.](http://9gag.com/gag/ayMZqNW)
+ - 🚯 [Girl meets her favorite basketball player &amp; gives him drawings](http://9gag.com/gag/a4EmPom)
  - 😝 [Help arriving to South Africa](http://9gag.com/gag/aDdr2Vd)
- - 🚅 [Girl meets her favorite basketball player &amp; gives him drawings](http://9gag.com/gag/a4EmPom)<!-- MEMES:END -->
+ - 🚅 [For 1988 Seoul Olympics opening they had Grilled Doves](http://9gag.com/gag/aO3AQZy)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
