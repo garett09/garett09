@@ -166,11 +166,11 @@ Windows                  13 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Zooming planet SATURN with Nikon P1000](http://9gag.com/gag/aAbq6EL)
- - 🚯 [We still use them.](http://9gag.com/gag/axMQWpn)
- - 🚯 [Might be helpful](http://9gag.com/gag/aLpVzjV)
- - 😝 [Still one of the greatest moments in human history!](http://9gag.com/gag/a7EPeKL)
- - 🚅 [This is cute](http://9gag.com/gag/av541W5)<!-- MEMES:END -->
+ - 🚖 [Wait a minute, something is wrong here&hellip;](http://9gag.com/gag/aDdrnLZ)
+ - 🚯 [How this woman deals with POTS fainting](http://9gag.com/gag/aQoBvvr)
+ - 🚯 [Still one of the greatest moments in human history!](http://9gag.com/gag/a7EPeKL)
+ - 😝 [It just takes one pissed of Amazon worker...Just sayin](http://9gag.com/gag/aEpy6vO)
+ - 🚅 [And for 29 seconds everything&#039;s ok](http://9gag.com/gag/ajmGOyq)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
