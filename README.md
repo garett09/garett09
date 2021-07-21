@@ -168,11 +168,11 @@ Windows                  1 hr                ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [One of the best moments in sitcom history](http://9gag.com/gag/aeAymQq)
- - 🚯 [Fantastic 4](http://9gag.com/gag/amPKMOd)
- - 🚯 [Sailing close to this strong whirlpool. The Moskstraumen or Moskenstraumen is a system of tidal eddies and whirlpools, one of the strongest in the world, that forms at the Lofoten archipelago in Nordland county, Norway between the Norwegian Sea and the Vestfjorden](http://9gag.com/gag/aDdrbLd)
- - 😝 [Tiny horse is learning how to find his food!](http://9gag.com/gag/a8EQ2NO)
- - 🚅 [Society explained in 31sec](http://9gag.com/gag/abVKxR9)<!-- MEMES:END -->
+ - 🚖 [Men&#039;s beach-handball teams uniform vs the women&#039;s uniform.](http://9gag.com/gag/aQoBmMd)
+ - 🚯 [Carnivorous caterpillars](http://9gag.com/gag/aeAymXq)
+ - 🚯 [Just the essentials.](http://9gag.com/gag/aZ0o20X)
+ - 😝 [SilverFang FTW](http://9gag.com/gag/aMKDvmA)
+ - 🚅 [Tiny horse is learning how to find his food!](http://9gag.com/gag/a8EQ2NO)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
