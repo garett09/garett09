@@ -168,11 +168,7 @@ Windows                  1 hr                ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Critical Role’s new D&D show is great but still challenging for newcomers](https://www.polygon.com/reviews/22587057/dungeons-dragons-critical-role-exandria-unlimited-review)
- - [Ghost of Tsushima Director’s Cut will explore Jin’s traumas in a ‘story of healing’](https://www.polygon.com/22586965/ghost-of-tsushima-directors-cut-story-expansion-trailer-iki-island-ps4-ps5-upgrade)
- - [We were never going to like Super Mario Bros.: The Movie](https://www.polygon.com/videos/22586832/super-mario-bros-movie-history)
- - [EA Sports PGA Tour gets a fifth major tournament — from the LPGA](https://www.polygon.com/22586620/ea-sports-pga-tour-womens-golf-lpga-modes-avatars-career)
- - [The US Secretary of Defense, armed with an alien coffin, is coming to Guilty Gear](https://www.polygon.com/22586795/guilty-gear-strive-dlc-1-fighter-goldlewis-dickinson-trailer-release-date)<!-- GAME:END -->
+<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
