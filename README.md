@@ -177,11 +177,11 @@ Windows                  1 hr                ███████████�
 ### 📣 Jokes of the hour
 
 <!-- JOKES:START -->
- - 🐔 [F*ck your job, mess around with these Google tricks and games instead (22 photos)](https://thechive.com/2021/07/21/fck-your-job-mess-around-with-these-google-tricks-and-games-instead-22-photos/)
+ - 🐔 [School’s out for summer and these parents NEED a drink… or six (37 Photos)](https://thechive.com/2021/07/21/schools-out-for-summer-and-these-parents-need-a-drink-or-six-37-photos/)
+ - 🕉 [F*ck your job, mess around with these Google tricks and games instead (22 photos)](https://thechive.com/2021/07/21/fck-your-job-mess-around-with-these-google-tricks-and-games-instead-22-photos/)
  - 🕉 [Movie/TV scenes we watched as kids that scarred us for life (24 Photos)](https://thechive.com/2021/07/21/movie-tv-scenes-we-watched-as-kids-that-scarred-us-for-life-24-photos/)
- - 🕉 [Wake up, a sexy batch of perfection awaits! (85 Photos)](https://thechive.com/2021/07/21/wake-up-a-sexy-batch-of-perfection-awaits-85-photos/)
- - 👾 [Daily Morning Awesomeness (39 Photos)](https://thechive.com/2021/07/21/daily-morning-awesomeness-39-photos-175/)
- - 🎈 [Concepts kids totally didn’t get that are pretty damn amusing if you ask me (35 Photos and GIFs)](https://thechive.com/2021/07/20/concepts-kids-totally-didnt-get-that-are-pretty-damn-amusing-if-you-ask-me/)<!-- JOKES:END -->
+ - 👾 [Wake up, a sexy batch of perfection awaits! (85 Photos)](https://thechive.com/2021/07/21/wake-up-a-sexy-batch-of-perfection-awaits-85-photos/)
+ - 🎈 [Daily Morning Awesomeness (39 Photos)](https://thechive.com/2021/07/21/daily-morning-awesomeness-39-photos-175/)<!-- JOKES:END -->
 
 ### 📣 Quotes of the hour
 
