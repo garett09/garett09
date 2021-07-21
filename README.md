@@ -177,7 +177,11 @@ Windows                  1 hr                ███████████�
 ### 📣 Jokes of the hour
 
 <!-- TECH:START -->
-<!-- TECH:END -->
+ - [Want a Galaxy Z Fold 3? Samsung will let you trade two devices at once for it.](https://www.androidauthority.com/samsung-galaxy-z-fold-3-trade-1647348)
+ - [Save over $300 on an unlocked iPhone 11, and more great iPhone deals](https://www.androidauthority.com/best-iphone-deals-1117011)
+ - [Poll: What’s more important, camera hardware or software?](https://www.androidauthority.com/camera-hardware-software-poll-1647230)
+ - [Daily Authority: Fold 3, August 11](https://www.androidauthority.com/newsletters/da-july-21-2021)
+ - [OnePlus 6 and 6T gain July security patch with latest update, but little else](https://www.androidauthority.com/oneplus-6t-updates-922469)<!-- TECH:END -->
 
 ### 📣 Quotes of the hour
 
