@@ -168,11 +168,11 @@ Windows                  1 hr                ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I finally did it! First bike](http://9gag.com/gag/axMQYPK)
+ - 🚖 [[Action required] Your RSS.app Trial has Expired - Wed Jul 21 2021](https://rss.app)
+ - 🚯 [I finally did it! First bike](http://9gag.com/gag/axMQYPK)
  - 🚯 [Bald people have no hair](http://9gag.com/gag/aNp8j73)
- - 🚯 [Floods in China](http://9gag.com/gag/aWjPRod)
- - 😝 [It&#039;s the same picture](http://9gag.com/gag/aWjPR3x)
- - 🚅 [Mastering the art of Kunai rope dart.](http://9gag.com/gag/arM9807)<!-- MEMES:END -->
+ - 😝 [Floods in China](http://9gag.com/gag/aWjPRod)
+ - 🚅 [It&#039;s the same picture](http://9gag.com/gag/aWjPR3x)<!-- MEMES:END -->
 
 ### 📣 Tech news for the hour
 
