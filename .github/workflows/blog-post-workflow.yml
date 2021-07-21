@@ -27,7 +27,7 @@ jobs:
           committer_username: garett09
           template: $newline - $randomEmoji(😝,👱,📀,🚖,🚅,⏩,💣,👉,6️⃣,🚯) [$title]($url)
           committer_email: adriansian@gmail.com
-          feed_list: "http://9gagrss.com/feed/,https://rss.app/feeds/_B29DrDNmXf7SGRqs.xml,https://www.reddit.com/r/funny/.rss"
+          feed_list: "http://9gagrss.com/feed/,https://www.reddit.com/r/funny/.rss"
           
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
