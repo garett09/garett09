@@ -168,10 +168,10 @@ Windows                  1 hr                ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Sailing close to this strong whirlpool. The Moskstraumen or Moskenstraumen is a system of tidal eddies and whirlpools, one of the strongest in the world, that forms at the Lofoten archipelago in Nordland county, Norway between the Norwegian Sea and the Vestfjorden](http://9gag.com/gag/aDdrbLd)
- - 🚯 [Blue Origin Giving Jeff Bezos a Medal](http://9gag.com/gag/anQ8vRb)
- - 🚯 [People escape from subway, China, Henan](http://9gag.com/gag/aWjPoo4)
- - 😝 [Society explained in 31sec](http://9gag.com/gag/abVKxR9)
+ - 🚖 [More cities in Iran joining the anti government protests.. People chanting &quot;Down with the Islamic Republic&quot; and &quot;we want the Monorchay back&quot;](http://9gag.com/gag/arM9xdV)
+ - 🚯 [Sailing close to this strong whirlpool. The Moskstraumen or Moskenstraumen is a system of tidal eddies and whirlpools, one of the strongest in the world, that forms at the Lofoten archipelago in Nordland county, Norway between the Norwegian Sea and the Vestfjorden](http://9gag.com/gag/aDdrbLd)
+ - 🚯 [If you remember any of these here, you are a legend. We are getting old too](http://9gag.com/gag/a7EP0jb)
+ - 😝 [People escape from subway, China, Henan](http://9gag.com/gag/aWjPoo4)
  - 🚅 [Shock of life. Always laugh when i see it.](http://9gag.com/gag/amPKx1V)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
