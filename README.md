@@ -168,11 +168,11 @@ Windows                  1 hr                ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Men&#039;s beach-handball teams uniform vs the women&#039;s uniform.](http://9gag.com/gag/aQoBmMd)
- - 🚯 [Carnivorous caterpillars](http://9gag.com/gag/aeAymXq)
+ - 🚖 [Fantastic 4](http://9gag.com/gag/amPKMOd)
+ - 🚯 [Ian Davis has dedicated himself to improving the scope and diversity of prosthetics available in the marketplace for partial hand amputees, including himself. Here&#039;s a recent update on his progress.](http://9gag.com/gag/a8EQwmY)
  - 🚯 [Just the essentials.](http://9gag.com/gag/aZ0o20X)
- - 😝 [SilverFang FTW](http://9gag.com/gag/aMKDvmA)
- - 🚅 [Tiny horse is learning how to find his food!](http://9gag.com/gag/a8EQ2NO)<!-- MEMES:END -->
+ - 😝 [*Intensive Sad Noises*](http://9gag.com/gag/aB2jXYP)
+ - 🚅 [True](http://9gag.com/gag/av54vVM)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
