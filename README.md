@@ -168,11 +168,11 @@ Windows                  1 hr                ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Looters don&rsquo;t even have to actually hide their identity anymore in San Francisco. They just grab the goods and walk right out smiling.](http://9gag.com/gag/aV74RDO)
- - 🚯 [I bought red, my sister blue](http://9gag.com/gag/a279LKp)
- - 🚯 [Donk](http://9gag.com/gag/azMoYAN)
- - 😝 [The salted pork, is particularly good.](http://9gag.com/gag/ad8rRNB)
- - 🚅 [Man runs martial arts clinic for boys without fathers](http://9gag.com/gag/a1rBEjv)<!-- MEMES:END -->
+ - 🚖 [Floods in China](http://9gag.com/gag/aWjPRod)
+ - 🚯 [The salted pork, is particularly good.](http://9gag.com/gag/ad8rRNB)
+ - 🚯 [Man runs martial arts clinic for boys without fathers](http://9gag.com/gag/a1rBEjv)
+ - 😝 [I finally did it! First bike](http://9gag.com/gag/axMQYPK)
+ - 🚅 [I am white](http://9gag.com/gag/a4EmWG1)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
