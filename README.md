@@ -168,11 +168,11 @@ Windows                  1 hr                ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [That look](http://9gag.com/gag/a6E4jM9)
- - 🚯 [Without hesitation](http://9gag.com/gag/arM9BYp)
- - 🚯 [Curb your Michelin star chef](http://9gag.com/gag/amPKp7v)
- - 😝 [Huehuehue](http://9gag.com/gag/aMKDXVG)
- - 🚅 [Donk](http://9gag.com/gag/azMoYAN)<!-- MEMES:END -->
+ - 🚖 [I bought red, my sister blue](http://9gag.com/gag/a279LKp)
+ - 🚯 [Just bought a new bicycle because tired of being ugly and fat, just wanna be ugly. Not great, not terrible, not even from a famous brand, but I love it.](http://9gag.com/gag/axMQYQY)
+ - 🚯 [Huehuehue](http://9gag.com/gag/aMKDXVG)
+ - 😝 [True](http://9gag.com/gag/av54vVM)
+ - 🚅 [A little bit of Delta in my life](http://9gag.com/gag/aoMA8Gm)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
