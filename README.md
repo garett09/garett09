@@ -177,11 +177,11 @@ Windows                  1 hr                ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [‘PlugWalkJoe’ arrested in connection with 2020 hack of famous Twitter accounts](https://www.theverge.com/2021/7/21/22587022/twitter-hack-2020-man-arrested-uk-spain)
  - [Android settings will now be your one-stop shop for Google One backups](https://www.androidauthority.com/android-backup-google-one-1647407)
  - [Nokia hopes you’ll like its smart lighting as much as its phones](https://www.androidauthority.com/nokia-smart-lighting-1647388)
  - [Clubhouse is now out of beta and open to everyone](http://feedproxy.google.com/~r/Techcrunch/~3/ehkLlg6l3GY/)
- - [Clubhouse is no longer invite-only](https://www.theverge.com/2021/7/21/22586845/clubhouse-open-beta-invite-access-android-ios)
- - [UK man arrested for 2020 Twitter hack that targeted Biden, Musk     - CNET](https://www.cnet.com/tech/services-and-software/uk-man-arrested-for-2020-twitter-hack-that-targeted-biden-musk/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Clubhouse is no longer invite-only](https://www.theverge.com/2021/7/21/22586845/clubhouse-open-beta-invite-access-android-ios)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
