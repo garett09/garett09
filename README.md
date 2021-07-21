@@ -177,11 +177,11 @@ Windows                  1 hr                ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Rivian plans to install EV chargers in Tennessee’s 56 state parks](http://feedproxy.google.com/~r/Techcrunch/~3/zfJD-wrwsV0/)
- - [Michael Arrington’s next act](http://feedproxy.google.com/~r/Techcrunch/~3/840C2wYDGfU/)
- - [Here’s how to check your phone for Pegasus spyware using Amnesty’s tool](https://www.theverge.com/2021/7/21/22587234/amnesty-international-nso-pegasus-spyware-detection-tool-ios-android-guide-windows-mac)
- - [Watch Sandra Oh in new trailer for Netflix's comedy-drama The Chair     - CNET](https://www.cnet.com/news/watch-sandra-oh-in-new-trailer-for-netflixs-comedy-drama-the-chair/#ftag=CAD590a51e)
- - [Asus just launched a surprisingly powerful 14-inch Chromebook](https://www.androidauthority.com/asus-chromebook-flip-cx5400-1647699)<!-- TECH:END -->
+ - [Ghost of Tsushima’s dark new expansion has fuzzy cats to pet](https://www.theverge.com/2021/7/21/22587775/ghost-of-tsushima-directors-cut-expansion-pet-cats-deer-monkeys-sony-sucker-punch)
+ - [NASA shares epic shot of the moon's creepy shadow during June eclipse     - CNET](https://www.cnet.com/news/nasa-shares-epic-shot-of-the-moons-creepy-shadow-during-june-eclipse/#ftag=CAD590a51e)
+ - [Elon Musk, Jack Dorsey talk future of Bitcoin and cryptocurrency     - CNET](https://www.cnet.com/tech/elon-musk-jack-dorsey-talk-future-of-bitcoin-and-cryptocurrency/#ftag=CAD590a51e)
+ - [Now Salesforce officially owns Slack](https://www.theverge.com/2021/7/21/22587666/slack-acquisition-salesforce-closed-messaging-cloud)
+ - [Amazon’s new MMO may be bricking Nvidia 3090s](https://www.theverge.com/2021/7/21/22587616/amazon-games-new-world-nvidia-rtx-3090-bricked-evga-closed-beta)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
