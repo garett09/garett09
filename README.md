@@ -177,11 +177,11 @@ Windows                  1 hr                ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Khalid’s latest music video is a big, sloppy kiss to Silicon Valley](https://www.theverge.com/2021/7/21/22587312/khalid-new-normal-video-silicon-valley-av-drone-smart-home)
- - [Samsung Galaxy Buds 2 renders show off colors and designs from all angles](https://www.androidauthority.com/samsung-galaxy-buds-2-colors-1647625)
- - [2020 Tokyo Olympics: How to stream the summer games](https://www.androidauthority.com/tokyo-olympics-2020-peacock-1646908)
- - [UK man arrested for massive Twitter hack that targeted Biden, Musk in 2020     - CNET](https://www.cnet.com/tech/services-and-software/uk-man-arrested-for-massive-twitter-hack-that-targeted-biden-musk-in-2020/#ftag=CAD590a51e)
- - [Google Maps now helps you avoid crowded public transportation     - CNET](https://www.cnet.com/tech/google-maps-now-helps-you-avoid-crowded-public-transportation/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [World's fastest train debuts with speeds reportedly up to 373 miles per hour     - Roadshow](https://www.cnet.com/roadshow/news/worlds-fastest-train-debuts-with-speeds-reportedly-up-to-373-miles-per-hour/#ftag=CAD590a51e)
+ - [Theragun massage guns are on sale for up to $60 off     - CNET](https://www.cnet.com/health/fitness/theragun-massage-guns-are-on-sale-for-up-to-60-off/#ftag=CAD590a51e)
+ - [Tesla closes its very first Supercharger station     - Roadshow](https://www.cnet.com/roadshow/news/tesla-first-supercharger-station/#ftag=CAD590a51e)
+ - [Right to Repair gets an important ally: the FTC](https://www.androidauthority.com/right-to-repair-ftc-policy-1647620)
+ - [Galaxy Buds 2 pictures leak ahead of Samsung Unpacked     - CNET](https://www.cnet.com/tech/mobile/galaxy-buds-2-pictures-leak-ahead-of-samsung-unpacked/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
