@@ -177,11 +177,11 @@ Windows                  1 hr                ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [World's fastest train debuts with speeds reportedly up to 373 miles per hour     - Roadshow](https://www.cnet.com/roadshow/news/worlds-fastest-train-debuts-with-speeds-reportedly-up-to-373-miles-per-hour/#ftag=CAD590a51e)
- - [Theragun massage guns are on sale for up to $60 off     - CNET](https://www.cnet.com/health/fitness/theragun-massage-guns-are-on-sale-for-up-to-60-off/#ftag=CAD590a51e)
- - [Tesla closes its very first Supercharger station     - Roadshow](https://www.cnet.com/roadshow/news/tesla-first-supercharger-station/#ftag=CAD590a51e)
- - [Right to Repair gets an important ally: the FTC](https://www.androidauthority.com/right-to-repair-ftc-policy-1647620)
- - [Galaxy Buds 2 pictures leak ahead of Samsung Unpacked     - CNET](https://www.cnet.com/tech/mobile/galaxy-buds-2-pictures-leak-ahead-of-samsung-unpacked/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Rivian plans to install EV chargers in Tennessee’s 56 state parks](http://feedproxy.google.com/~r/Techcrunch/~3/zfJD-wrwsV0/)
+ - [Michael Arrington’s next act](http://feedproxy.google.com/~r/Techcrunch/~3/840C2wYDGfU/)
+ - [Here’s how to check your phone for Pegasus spyware using Amnesty’s tool](https://www.theverge.com/2021/7/21/22587234/amnesty-international-nso-pegasus-spyware-detection-tool-ios-android-guide-windows-mac)
+ - [Watch Sandra Oh in new trailer for Netflix's comedy-drama The Chair     - CNET](https://www.cnet.com/news/watch-sandra-oh-in-new-trailer-for-netflixs-comedy-drama-the-chair/#ftag=CAD590a51e)
+ - [Asus just launched a surprisingly powerful 14-inch Chromebook](https://www.androidauthority.com/asus-chromebook-flip-cx5400-1647699)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
