@@ -186,10 +186,10 @@ Windows                  1 hr                ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It&#039;s the same picture](http://9gag.com/gag/aWjPR3x)
+ - 🚖 [Don&#039;t f**k with the library](http://9gag.com/gag/aB2jvbz)
+ - 🚯 [Dirty Jokes with Mom](http://9gag.com/gag/aK6nKb6)
  - 🚯 [Horses](http://9gag.com/gag/apNzdQD)
- - 🚯 [#18/20 - Haha some hits](http://9gag.com/gag/amPKRb2)
- - 😝 [Dirty Jokes with Mom](http://9gag.com/gag/aK6nKb6)
+ - 😝 [NASA scientists](http://9gag.com/gag/arM9d0X)
  - 🚅 [How the ancient Greeks knew the Earth was round. All you need is sticks, eyes, feet and brains.](http://9gag.com/gag/aO3AjBR)<!-- MEMES:END -->
 
 --- 
