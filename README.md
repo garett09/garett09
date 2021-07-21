@@ -168,11 +168,11 @@ Windows                  1 hr                ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I did it boys, I finally went out and bought my very first bike, hard work and determination pays off, cheers!](http://9gag.com/gag/aZ0ojpQ)
- - 🚯 [Odd way to demolition](http://9gag.com/gag/aQoBmnq)
- - 🚯 [SilverFang FTW](http://9gag.com/gag/aMKDvmA)
- - 😝 [People escape from subway, China, Henan](http://9gag.com/gag/aWjPoo4)
- - 🚅 [Shock of life. Always laugh when i see it.](http://9gag.com/gag/amPKx1V)<!-- MEMES:END -->
+ - 🚖 [One of the best moments in sitcom history](http://9gag.com/gag/aeAymQq)
+ - 🚯 [Karen gets slapped for testing the wrong one.](http://9gag.com/gag/a3Ee2D3)
+ - 🚯 [People escape from subway, China, Henan](http://9gag.com/gag/aWjPoo4)
+ - 😝 [Shock of life. Always laugh when i see it.](http://9gag.com/gag/amPKx1V)
+ - 🚅 [Sailing close to this strong whirlpool. The Moskstraumen or Moskenstraumen is a system of tidal eddies and whirlpools, one of the strongest in the world, that forms at the Lofoten archipelago in Nordland county, Norway between the Norwegian Sea and the Vestfjorden](http://9gag.com/gag/aDdrbLd)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
