@@ -168,11 +168,11 @@ Windows                  1 hr                ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Denis Villeneuve’s Dune feels bigger and louder than the trailers make it look](https://www.polygon.com/22587087/dune-movie-zendaya-scene-imax-footage-preview)
+ - [Becoming Storm Shadow meant more than learning moves for Snake Eyes’ Andrew Koji](https://www.polygon.com/interviews/22585742/snake-eyes-andrew-koji-storm-shadow-actor-interview)
+ - [I finally beat FF7 and somehow didn’t know its biggest spoiler](https://www.polygon.com/gaming/22587016/original-final-fantasy-7-remake-spoiler-twist-reveal-original-nintendo-switch)
  - [Critical Role’s new D&D show is great but still challenging for newcomers](https://www.polygon.com/reviews/22587057/dungeons-dragons-critical-role-exandria-unlimited-review)
- - [Ghost of Tsushima Director’s Cut will explore Jin’s traumas in a ‘story of healing’](https://www.polygon.com/22586965/ghost-of-tsushima-directors-cut-story-expansion-trailer-iki-island-ps4-ps5-upgrade)
- - [We were never going to like Super Mario Bros.: The Movie](https://www.polygon.com/videos/22586832/super-mario-bros-movie-history)
- - [EA Sports PGA Tour gets a fifth major tournament — from the LPGA](https://www.polygon.com/22586620/ea-sports-pga-tour-womens-golf-lpga-modes-avatars-career)
- - [The US Secretary of Defense, armed with an alien coffin, is coming to Guilty Gear](https://www.polygon.com/22586795/guilty-gear-strive-dlc-1-fighter-goldlewis-dickinson-trailer-release-date)<!-- GAME:END -->
+ - [Ghost of Tsushima Director’s Cut will explore Jin’s traumas in a ‘story of healing’](https://www.polygon.com/22586965/ghost-of-tsushima-directors-cut-story-expansion-trailer-iki-island-ps4-ps5-upgrade)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
