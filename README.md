@@ -177,11 +177,11 @@ Windows                  1 hr                ███████████�
 ### 📣 Jokes of the hour
 
 <!-- JOKES:START -->
- - 🐔 [Sh*tty letter spacing can make ALLLL the difference (28 Photos)](https://thechive.com/2021/07/20/shtty-letter-spacing-can-make-allll-the-difference-28-photos/)
- - 🕉 [Jeff Bezos “went to space” and the internet was quick to ground him (21 Photos)](https://thechive.com/2021/07/20/jeff-bezos-went-to-space-and-the-internet-was-quick-to-ground-him-21-photos/)
- - 🕉 [25 places to go that are cooler than 3 miles into space](https://thechive.com/2021/07/20/26-places-to-go-that-are-cooler-than-3-miles-into-space/)
- - 👾 [Daily Afternoon Randomness (49 Photos)](https://thechive.com/2021/07/20/daily-afternoon-randomness-49-photos-1309/)
- - 🎈 [The firefighter who saved his own life (14 Photos)](https://thechive.com/2021/07/20/the-firefighter-who-saved-his-own-life-14-photos/)<!-- JOKES:END -->
+ - 🐔 [God bless you, slow-motion (Video)](https://thechive.com/2021/07/20/god-bless-you-slow-motion-video-2/)
+ - 🕉 [Video games that sold for more than most of our cars (15 GIFs)](https://thechive.com/2021/07/20/video-games-that-sold-for-more-than-most-of-our-cars-15-gifs/)
+ - 🕉 [Got boobs? You’ll get these memes… (30 Photos)](https://thechive.com/2021/07/20/got-boobs-youll-get-these-memes-30-photos/)
+ - 👾 [If cars took an acid trip this is likely what their journey would look like (53 Photos)](https://thechive.com/2021/07/20/if-cars-took-an-acid-trip-this-is-likely-what-their-journey-would-look-like-53-photos/)
+ - 🎈 [Sh*tty letter spacing can make ALLLL the difference (28 Photos)](https://thechive.com/2021/07/20/shtty-letter-spacing-can-make-allll-the-difference-28-photos/)<!-- JOKES:END -->
 
 ### 📣 Quotes of the hour
 
