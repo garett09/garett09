@@ -37,4 +37,4 @@ jobs:
           committer_username: garett09
           template: $newline - [$title]($url)
           committer_email: adriansian@gmail.com
-          feed_list: "http://feeds.feedburner.com/PSBlog,http://feeds.gawker.com/kotaku/vip,http://www.polygon.com/rss/index.xml"
+          feed_list: "http://feeds.feedburner.com/PSBlog,http://www.maximumpc.com/articles/all/feed,http://www.polygon.com/rss/index.xml"
