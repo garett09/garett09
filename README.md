@@ -182,7 +182,11 @@ Windows                  1 hr                ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
-<!-- MEMES:END -->
+ - 🚖 [[Action required] Your RSS.app Trial has Expired - Wed Jul 21 2021](https://rss.app)
+ - 🚯 [Dirty Jokes with Mom](http://9gag.com/gag/aK6nKb6)
+ - 🚯 [Bald people have no hair](http://9gag.com/gag/aNp8j73)
+ - 😝 [Floods in China](http://9gag.com/gag/aWjPRod)
+ - 🚅 [It&#039;s the same picture](http://9gag.com/gag/aWjPR3x)<!-- MEMES:END -->
 
 --- 
 
