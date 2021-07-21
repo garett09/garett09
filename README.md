@@ -168,11 +168,11 @@ Windows                  1 hr                ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Loki series director Kate Herron weighs in on fandom’s big incest question](https://www.polygon.com/interviews/22587056/loki-director-kate-herron-interview-finale)
+ - [Pro Evolution Soccer is now simply eFootball — and it’s free to play](https://www.polygon.com/22587429/pes-efootball-release-date-pc-ps5-xbox-series-x-one-ps4-android-ios)
+ - [Skyward Sword is the exact opposite of Breath of the Wild, but it’s still great](https://www.polygon.com/reviews/22587356/review-the-legend-of-zelda-skyward-sword-nintendo-switch)
  - [Ghost of Tsushima Director’s Cut will let Jin pet even more cute animals](https://www.polygon.com/22587327/ghost-of-tsushima-directors-cut-animal-petting-flute-cat-deer-monkey)
- - [Denis Villeneuve’s Dune feels bigger and louder than the trailers make it look](https://www.polygon.com/22587087/dune-movie-zendaya-scene-imax-footage-preview)
- - [Becoming Storm Shadow meant more than learning moves for Snake Eyes’ Andrew Koji](https://www.polygon.com/interviews/22585742/snake-eyes-andrew-koji-storm-shadow-actor-interview)
- - [I finally beat FF7 and somehow didn’t know its biggest spoiler](https://www.polygon.com/gaming/22587016/original-final-fantasy-7-remake-spoiler-twist-reveal-original-nintendo-switch)
- - [Critical Role’s new D&D show is great but still challenging for newcomers](https://www.polygon.com/reviews/22587057/dungeons-dragons-critical-role-exandria-unlimited-review)<!-- GAME:END -->
+ - [Denis Villeneuve’s Dune feels bigger and louder than the trailers make it look](https://www.polygon.com/22587087/dune-movie-zendaya-scene-imax-footage-preview)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
