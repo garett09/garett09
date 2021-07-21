@@ -176,12 +176,8 @@ Windows                  1 hr                ███████████�
 
 ### 📣 Jokes of the hour
 
-<!-- JOKES:START -->
- - 🐔 [Take some hilarious animals in these trying times…(55 Photos)](https://thechive.com/2021/07/21/take-some-hilarious-animals-in-these-trying-times-55-photos/)
- - 🕉 [Chivette Shelby is a work of art (31 photos)](https://thechive.com/2021/07/21/chivette-shelby-is-a-work-of-art-31-photos/)
- - 🕉 [Dating apps: You might find nudes, probably not love (25 Photos)](https://thechive.com/2021/07/21/dating-apps-you-might-find-nudes-probably-not-love-25-photos/)
- - 👾 [These little things are a GUARANTEED Turn On (14 Photos)](https://thechive.com/2021/07/21/these-little-things-are-a-guaranteed-turn-on/)
- - 🎈 [The Crackheads of Craigslist are at it again… (30 Photos)](https://thechive.com/2021/07/21/the-crackheads-of-craigslist-are-at-it-again-30-photos-2/)<!-- JOKES:END -->
+<!-- TECH:START -->
+<!-- TECH:END -->
 
 ### 📣 Quotes of the hour
 

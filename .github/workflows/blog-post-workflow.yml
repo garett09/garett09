@@ -11,23 +11,14 @@ jobs:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          comment_tag_name: JOKES
-          commit_message: "[AUTOMATED] New jokes 🤣"
+          comment_tag_name: TECH
+          commit_message: "[AUTOMATED] Updated tech articles"
           committer_username: garett09
           disable_sort: True
-          template: $newline - $randomEmoji(👾,🔟,✒️,🐔,🎈,👫,🌀,💝,👿,🕉) [$title]($url)
-          feed_list: "https://thechive.com/feed/,https://icanhas.cheezburger.com/rss,https://pleated-jeans.com/feed/,http://feeds.feedburner.com/imao/jNDB"
-          committer_email: adriansian@gmail.com
+          template: $newline - [$title]($url)
+          feed_list: "http://feeds.feedburner.com/androidauthority,http://news.cnet.com/2547-1_3-0-20.xml,http://feeds.feedburner.com/Techcrunch,http://www.theverge.com/rss/full.xml"
+          committer_email: adriansian@gmail.com+
 
-      - uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          comment_tag_name: QUOTES
-          commit_message: "[AUTOMATED] New batch of quotes  👌"
-          disable_sort: True
-          committer_username: garett09
-          committer_email: adriansian@gmail.com
-          feed_list: "https://rss.app/feeds/_E49Mh0Y8EhF5Ecga.xml,https://www.reddit.com/r/quotes/.rss,https://www.reddit.com/r/QuotesPorn/.rss,https://www.reddit.com/r/GetMotivated/.rss,https://www.reddit.com/r/motivation/.rss"
-          template: $newline - $randomEmoji(💯,🔥,💫,🚀,🌮) [$description]($url) 
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: MEMES
