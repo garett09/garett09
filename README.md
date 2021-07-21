@@ -177,11 +177,11 @@ Windows                  1 hr                ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Okendo raises $5.3M to help D2C brands ween themselves off of Big Tech customer data](http://feedproxy.google.com/~r/Techcrunch/~3/ObE7jCHEGuk/)
- - [Jeff Bezos eyes space as a new ‘sacrifice zone’](https://www.theverge.com/2021/7/21/22587249/jeff-bezos-space-pollution-industry-sacrifice-zone-amazon-environmental-justice)
- - [Netflix's Sexy Beasts episode 6 recap: A word on wattles     - CNET](https://www.cnet.com/news/netflixs-sexy-beasts-episode-6-recap-a-word-on-wattles/#ftag=CAD590a51e)
- - [Dear Sophie: Should we look to Canada to retain international talent?](http://feedproxy.google.com/~r/Techcrunch/~3/C-kKdPGwxw0/)
- - [Alexa finally gets a masculine-sounding voice option](https://www.theverge.com/2021/7/21/22587130/alexa-masculine-voice-gender-ziggy-amazon-smart-assistant)<!-- TECH:END -->
+ - [Netflix thinks games matter more than buying movie studios](https://www.theverge.com/22587048/netflix-mobile-games-streaming-wars)
+ - [Galaxy S22 vs. Galaxy S21: The newest rumors about Samsung's next flagship     - CNET](https://www.cnet.com/tech/mobile/galaxy-s22-vs-galaxy-s21-the-newest-rumors-about-samsungs-next-flagship/#ftag=CAD590a51e)
+ - [Galaxy S22 rumors: Samsung's new lineup could support 65W charging     - CNET](https://www.cnet.com/tech/mobile/galaxy-s22-rumors-samsungs-new-lineup-could-support-65w-charging/#ftag=CAD590a51e)
+ - [Verizon's Smart Display is real and responds to 'Hi, Verizon'     - CNET](https://www.cnet.com/home/smart-home/verizons-smart-display-is-real-and-responds-to-hi-verizon/#ftag=CAD590a51e)
+ - [NASA Perseverance rover gears up to collect its first Mars rock sample     - CNET](https://www.cnet.com/news/nasa-perseverance-rover-gears-up-to-collect-its-first-mars-rock-sample/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
