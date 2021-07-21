@@ -177,11 +177,11 @@ Windows                  1 hr                ███████████�
 ### 📣 Jokes of the hour
 
 <!-- JOKES:START -->
- - 🐔 [Concepts kids totally didn’t get that are pretty damn amusing if you ask me (35 Photos and GIFs)](https://thechive.com/2021/07/20/concepts-kids-totally-didnt-get-that-are-pretty-damn-amusing-if-you-ask-me/)
+ - 🐔 [Daily Morning Awesomeness (39 Photos)](https://thechive.com/2021/07/21/daily-morning-awesomeness-39-photos-175/)
+ - 🕉 [Concepts kids totally didn’t get that are pretty damn amusing if you ask me (35 Photos and GIFs)](https://thechive.com/2021/07/20/concepts-kids-totally-didnt-get-that-are-pretty-damn-amusing-if-you-ask-me/)
  - 🕉 [Soccer ball from Challenger explosion…b/c NASA > Billionaire Bezos (Story)](https://thechive.com/2021/07/20/soccer-ball-from-challenger-explosionb-c-nasa-billionaire-bezos/)
- - 🕉 [People sharing monumental breakthroughs prove we can all change for the better (18 Photos)](https://thechive.com/2021/07/20/people-sharing-monumental-breakthroughs-prove-we-can-all-change-for-the-better-18-photos/)
- - 👾 [Daily Dopamine Dump](http://i.thechive.com/dopamine-dump)
- - 🎈 [God bless you, slow-motion (Video)](https://thechive.com/2021/07/20/god-bless-you-slow-motion-video-2/)<!-- JOKES:END -->
+ - 👾 [People sharing monumental breakthroughs prove we can all change for the better (18 Photos)](https://thechive.com/2021/07/20/people-sharing-monumental-breakthroughs-prove-we-can-all-change-for-the-better-18-photos/)
+ - 🎈 [Daily Dopamine Dump](http://i.thechive.com/dopamine-dump)<!-- JOKES:END -->
 
 ### 📣 Quotes of the hour
 
