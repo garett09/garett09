@@ -168,11 +168,11 @@ Windows                  1 hr                ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Man runs martial arts clinic for boys without fathers](http://9gag.com/gag/a1rBEjv)
- - 🚯 [I finally did it! First bike](http://9gag.com/gag/axMQYPK)
- - 🚯 [I am white](http://9gag.com/gag/a4EmWG1)
- - 😝 [Floods in China](http://9gag.com/gag/aWjPRod)
- - 🚅 [It&#039;s the same picture](http://9gag.com/gag/aWjPR3x)<!-- MEMES:END -->
+ - 🚖 [I finally did it! First bike](http://9gag.com/gag/axMQYPK)
+ - 🚯 [Bald people have no hair](http://9gag.com/gag/aNp8j73)
+ - 🚯 [Floods in China](http://9gag.com/gag/aWjPRod)
+ - 😝 [It&#039;s the same picture](http://9gag.com/gag/aWjPR3x)
+ - 🚅 [Mastering the art of Kunai rope dart.](http://9gag.com/gag/arM9807)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
