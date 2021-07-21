@@ -177,11 +177,11 @@ Windows                  1 hr                ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix thinks games matter more than buying movie studios](https://www.theverge.com/22587048/netflix-mobile-games-streaming-wars)
- - [Galaxy S22 vs. Galaxy S21: The newest rumors about Samsung's next flagship     - CNET](https://www.cnet.com/tech/mobile/galaxy-s22-vs-galaxy-s21-the-newest-rumors-about-samsungs-next-flagship/#ftag=CAD590a51e)
- - [Galaxy S22 rumors: Samsung's new lineup could support 65W charging     - CNET](https://www.cnet.com/tech/mobile/galaxy-s22-rumors-samsungs-new-lineup-could-support-65w-charging/#ftag=CAD590a51e)
- - [Verizon's Smart Display is real and responds to 'Hi, Verizon'     - CNET](https://www.cnet.com/home/smart-home/verizons-smart-display-is-real-and-responds-to-hi-verizon/#ftag=CAD590a51e)
- - [NASA Perseverance rover gears up to collect its first Mars rock sample     - CNET](https://www.cnet.com/news/nasa-perseverance-rover-gears-up-to-collect-its-first-mars-rock-sample/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Khalid’s latest music video is a big, sloppy kiss to Silicon Valley](https://www.theverge.com/2021/7/21/22587312/khalid-new-normal-video-silicon-valley-av-drone-smart-home)
+ - [Samsung Galaxy Buds 2 renders show off colors and designs from all angles](https://www.androidauthority.com/samsung-galaxy-buds-2-colors-1647625)
+ - [2020 Tokyo Olympics: How to stream the summer games](https://www.androidauthority.com/tokyo-olympics-2020-peacock-1646908)
+ - [UK man arrested for massive Twitter hack that targeted Biden, Musk in 2020     - CNET](https://www.cnet.com/tech/services-and-software/uk-man-arrested-for-massive-twitter-hack-that-targeted-biden-musk-in-2020/#ftag=CAD590a51e)
+ - [Google Maps now helps you avoid crowded public transportation     - CNET](https://www.cnet.com/tech/google-maps-now-helps-you-avoid-crowded-public-transportation/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
