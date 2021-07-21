@@ -168,11 +168,11 @@ Windows                  1 hr                ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Terry at it again](http://9gag.com/gag/agB6K5K)
- - 🚯 [Man runs martial arts clinic for boys without fathers](http://9gag.com/gag/a1rBEjv)
- - 🚯 [Curb your Michelin star chef](http://9gag.com/gag/amPKp7v)
- - 😝 [Someone had to do it! Sorry Jeff&hellip;](http://9gag.com/gag/aAbqX7L)
- - 🚅 [I bought red, my sister blue](http://9gag.com/gag/a279LKp)<!-- MEMES:END -->
+ - 🚖 [Looters don&rsquo;t even have to actually hide their identity anymore in San Francisco. They just grab the goods and walk right out smiling.](http://9gag.com/gag/aV74RDO)
+ - 🚯 [I bought red, my sister blue](http://9gag.com/gag/a279LKp)
+ - 🚯 [Donk](http://9gag.com/gag/azMoYAN)
+ - 😝 [The salted pork, is particularly good.](http://9gag.com/gag/ad8rRNB)
+ - 🚅 [Man runs martial arts clinic for boys without fathers](http://9gag.com/gag/a1rBEjv)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
