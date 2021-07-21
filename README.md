@@ -177,11 +177,11 @@ Windows                  1 hr                ███████████�
 ### 📣 Jokes of the hour
 
 <!-- JOKES:START -->
- - 🐔 [These little things are a GUARANTEED Turn On (14 Photos)](https://thechive.com/2021/07/21/these-little-things-are-a-guaranteed-turn-on/)
+ - 🐔 [Dating apps: You might find nudes, probably not love (25 Photos)](https://thechive.com/2021/07/21/dating-apps-you-might-find-nudes-probably-not-love-25-photos/)
+ - 🕉 [These little things are a GUARANTEED Turn On (14 Photos)](https://thechive.com/2021/07/21/these-little-things-are-a-guaranteed-turn-on/)
  - 🕉 [The Crackheads of Craigslist are at it again… (30 Photos)](https://thechive.com/2021/07/21/the-crackheads-of-craigslist-are-at-it-again-30-photos-2/)
- - 🕉 [School’s out for summer and these parents NEED a drink… or six (37 Photos)](https://thechive.com/2021/07/21/schools-out-for-summer-and-these-parents-need-a-drink-or-six-37-photos/)
- - 👾 [F*ck your job, mess around with these Google tricks and games instead (22 photos)](https://thechive.com/2021/07/21/fck-your-job-mess-around-with-these-google-tricks-and-games-instead-22-photos/)
- - 🎈 [Movie/TV scenes we watched as kids that scarred us for life (24 Photos)](https://thechive.com/2021/07/21/movie-tv-scenes-we-watched-as-kids-that-scarred-us-for-life-24-photos/)<!-- JOKES:END -->
+ - 👾 [School’s out for summer and these parents NEED a drink… or six (37 Photos)](https://thechive.com/2021/07/21/schools-out-for-summer-and-these-parents-need-a-drink-or-six-37-photos/)
+ - 🎈 [F*ck your job, mess around with these Google tricks and games instead (22 photos)](https://thechive.com/2021/07/21/fck-your-job-mess-around-with-these-google-tricks-and-games-instead-22-photos/)<!-- JOKES:END -->
 
 ### 📣 Quotes of the hour
 
