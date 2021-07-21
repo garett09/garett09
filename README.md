@@ -165,25 +165,25 @@ Windows                  1 hr                ███████████�
 
 ---
 
-### 📣 Memes of the hour
+### 📣 Game news for the hour
 
-<!-- MEMES:START -->
- - 🚖 [[Action required] Your RSS.app Trial has Expired - Wed Jul 21 2021](https://rss.app)
- - 🚯 [I finally did it! First bike](http://9gag.com/gag/axMQYPK)
- - 🚯 [Bald people have no hair](http://9gag.com/gag/aNp8j73)
- - 😝 [Floods in China](http://9gag.com/gag/aWjPRod)
- - 🚅 [It&#039;s the same picture](http://9gag.com/gag/aWjPR3x)<!-- MEMES:END -->
+<!-- GAME:START -->
+<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [WHO head cheers Olympic ‘hope’ as COVID-19 cases in athletes’ village rise](https://www.theverge.com/2021/7/21/22586773/who-olympics-tokyo-ioc-covid)
- - [The real ROI of making your products more accessible](http://feedproxy.google.com/~r/Techcrunch/~3/XysrFzey0gk/)
- - [Amazon aims to inject new life into Alexa with release of developer tools and features](http://feedproxy.google.com/~r/Techcrunch/~3/0-_jmtY1VM8/)
- - [Upgrade launches a credit card with bitcoin rewards](http://feedproxy.google.com/~r/Techcrunch/~3/UY0MESZA5aA/)
- - [WhenThen’s no-code payments platform attracts $6M from European VCs Stride and Cavalry](http://feedproxy.google.com/~r/Techcrunch/~3/z1z_Z0_EYTw/)<!-- TECH:END -->
+<!-- TECH:END -->
+
+### 📣 Memes of the hour
+
+<!-- MEMES:START -->
+<!-- MEMES:END -->
 
 --- 
+
+
+
 ### 💻 Workspace Spec
 
 ![Windows](https://img.shields.io/badge/Windows-11-0078D6?style=for-the-badge&logo=windows&logoColor=white)
