@@ -168,11 +168,11 @@ Windows                  1 hr                ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Floods in China](http://9gag.com/gag/aWjPRod)
- - 🚯 [The salted pork, is particularly good.](http://9gag.com/gag/ad8rRNB)
- - 🚯 [Man runs martial arts clinic for boys without fathers](http://9gag.com/gag/a1rBEjv)
- - 😝 [I finally did it! First bike](http://9gag.com/gag/axMQYPK)
- - 🚅 [I am white](http://9gag.com/gag/a4EmWG1)<!-- MEMES:END -->
+ - 🚖 [Man runs martial arts clinic for boys without fathers](http://9gag.com/gag/a1rBEjv)
+ - 🚯 [I finally did it! First bike](http://9gag.com/gag/axMQYPK)
+ - 🚯 [I am white](http://9gag.com/gag/a4EmWG1)
+ - 😝 [Floods in China](http://9gag.com/gag/aWjPRod)
+ - 🚅 [It&#039;s the same picture](http://9gag.com/gag/aWjPR3x)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
