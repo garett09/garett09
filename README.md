@@ -186,11 +186,11 @@ Windows                  1 hr                ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Bald people have no hair](http://9gag.com/gag/aNp8j73)
- - 🚯 [Dirty Jokes with Mom](http://9gag.com/gag/aK6nKb6)
- - 🚯 [Terry at it again](http://9gag.com/gag/agB6K5K)
- - 😝 [Mastering the art of Kunai rope dart.](http://9gag.com/gag/arM9807)
- - 🚅 [It&#039;s something](http://9gag.com/gag/aV74B1M)<!-- MEMES:END -->
+ - 🚖 [Terry at it again](http://9gag.com/gag/agB6K5K)
+ - 🚯 [Looters don&rsquo;t even have to actually hide their identity anymore in San Francisco. They just grab the goods and walk right out smiling.](http://9gag.com/gag/aV74RDO)
+ - 🚯 [Mastering the art of Kunai rope dart.](http://9gag.com/gag/arM9807)
+ - 😝 [Dirty Jokes with Mom](http://9gag.com/gag/aK6nKb6)
+ - 🚅 [He hits the target](http://9gag.com/gag/aQoBVVe)<!-- MEMES:END -->
 
 --- 
 
