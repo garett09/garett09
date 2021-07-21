@@ -168,11 +168,11 @@ Windows                  1 hr                ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Fantastic 4](http://9gag.com/gag/amPKMOd)
- - 🚯 [Ian Davis has dedicated himself to improving the scope and diversity of prosthetics available in the marketplace for partial hand amputees, including himself. Here&#039;s a recent update on his progress.](http://9gag.com/gag/a8EQwmY)
- - 🚯 [Just the essentials.](http://9gag.com/gag/aZ0o20X)
- - 😝 [*Intensive Sad Noises*](http://9gag.com/gag/aB2jXYP)
- - 🚅 [True](http://9gag.com/gag/av54vVM)<!-- MEMES:END -->
+ - 🚖 [Ian Davis has dedicated himself to improving the scope and diversity of prosthetics available in the marketplace for partial hand amputees, including himself. Here&#039;s a recent update on his progress.](http://9gag.com/gag/a8EQwmY)
+ - 🚯 [*Intensive Sad Noises*](http://9gag.com/gag/aB2jXYP)
+ - 🚯 [Without hesitation](http://9gag.com/gag/arM9BYp)
+ - 😝 [Karen gets slapped for testing the wrong one.](http://9gag.com/gag/a3Ee2D3)
+ - 🚅 [Blue Origin Giving Jeff Bezos a Medal](http://9gag.com/gag/aB2jGpZ)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
