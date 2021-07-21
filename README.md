@@ -168,11 +168,11 @@ Windows                  1 hr                ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [CPU OVERLOADED](http://9gag.com/gag/awMPYM1)
- - 🚯 [A little bit of Delta in my life](http://9gag.com/gag/aoMA8Gm)
+ - 🚖 [Terry at it again](http://9gag.com/gag/agB6K5K)
+ - 🚯 [Man runs martial arts clinic for boys without fathers](http://9gag.com/gag/a1rBEjv)
  - 🚯 [Curb your Michelin star chef](http://9gag.com/gag/amPKp7v)
- - 😝 [I bought red, my sister blue](http://9gag.com/gag/a279LKp)
- - 🚅 [I finally did it! First bike](http://9gag.com/gag/axMQYPK)<!-- MEMES:END -->
+ - 😝 [Someone had to do it! Sorry Jeff&hellip;](http://9gag.com/gag/aAbqX7L)
+ - 🚅 [I bought red, my sister blue](http://9gag.com/gag/a279LKp)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
