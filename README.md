@@ -168,11 +168,11 @@ Windows                  1 hr                ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [More cities in Iran joining the anti government protests.. People chanting &quot;Down with the Islamic Republic&quot; and &quot;we want the Monorchay back&quot;](http://9gag.com/gag/arM9xdV)
- - 🚯 [Sailing close to this strong whirlpool. The Moskstraumen or Moskenstraumen is a system of tidal eddies and whirlpools, one of the strongest in the world, that forms at the Lofoten archipelago in Nordland county, Norway between the Norwegian Sea and the Vestfjorden](http://9gag.com/gag/aDdrbLd)
+ - 🚖 [I did it boys, I finally went out and bought my very first bike, hard work and determination pays off, cheers!](http://9gag.com/gag/aZ0ojpQ)
  - 🚯 [If you remember any of these here, you are a legend. We are getting old too](http://9gag.com/gag/a7EP0jb)
- - 😝 [People escape from subway, China, Henan](http://9gag.com/gag/aWjPoo4)
- - 🚅 [Shock of life. Always laugh when i see it.](http://9gag.com/gag/amPKx1V)<!-- MEMES:END -->
+ - 🚯 [Odd way to demolition](http://9gag.com/gag/aQoBmnq)
+ - 😝 [Sailing close to this strong whirlpool. The Moskstraumen or Moskenstraumen is a system of tidal eddies and whirlpools, one of the strongest in the world, that forms at the Lofoten archipelago in Nordland county, Norway between the Norwegian Sea and the Vestfjorden](http://9gag.com/gag/aDdrbLd)
+ - 🚅 [People escape from subway, China, Henan](http://9gag.com/gag/aWjPoo4)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
