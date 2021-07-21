@@ -177,11 +177,11 @@ Windows                  1 hr                ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [‘PlugWalkJoe’ arrested in connection with 2020 hack of famous Twitter accounts](https://www.theverge.com/2021/7/21/22587022/twitter-hack-2020-man-arrested-uk-spain)
- - [Android settings will now be your one-stop shop for Google One backups](https://www.androidauthority.com/android-backup-google-one-1647407)
- - [Nokia hopes you’ll like its smart lighting as much as its phones](https://www.androidauthority.com/nokia-smart-lighting-1647388)
- - [Clubhouse is now out of beta and open to everyone](http://feedproxy.google.com/~r/Techcrunch/~3/ehkLlg6l3GY/)
- - [Clubhouse is no longer invite-only](https://www.theverge.com/2021/7/21/22586845/clubhouse-open-beta-invite-access-android-ios)<!-- TECH:END -->
+ - [Okendo raises $5.3M to help D2C brands ween themselves off of Big Tech customer data](http://feedproxy.google.com/~r/Techcrunch/~3/ObE7jCHEGuk/)
+ - [Jeff Bezos eyes space as a new ‘sacrifice zone’](https://www.theverge.com/2021/7/21/22587249/jeff-bezos-space-pollution-industry-sacrifice-zone-amazon-environmental-justice)
+ - [Netflix's Sexy Beasts episode 6 recap: A word on wattles     - CNET](https://www.cnet.com/news/netflixs-sexy-beasts-episode-6-recap-a-word-on-wattles/#ftag=CAD590a51e)
+ - [Dear Sophie: Should we look to Canada to retain international talent?](http://feedproxy.google.com/~r/Techcrunch/~3/C-kKdPGwxw0/)
+ - [Alexa finally gets a masculine-sounding voice option](https://www.theverge.com/2021/7/21/22587130/alexa-masculine-voice-gender-ziggy-amazon-smart-assistant)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
