@@ -168,11 +168,11 @@ Windows                  1 hr                ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Karen gets slapped for testing the wrong one.](http://9gag.com/gag/a3Ee2D3)
- - 🚯 [Dude has his mouth duct taped by order of the judge.](http://9gag.com/gag/anQ8DwL)
- - 🚯 [Blue Origin Giving Jeff Bezos a Medal](http://9gag.com/gag/aB2jGpZ)
- - 😝 [Donk](http://9gag.com/gag/azMoYAN)
- - 🚅 [Without hesitation](http://9gag.com/gag/arM9BYp)<!-- MEMES:END -->
+ - 🚖 [That look](http://9gag.com/gag/a6E4jM9)
+ - 🚯 [Without hesitation](http://9gag.com/gag/arM9BYp)
+ - 🚯 [Curb your Michelin star chef](http://9gag.com/gag/amPKp7v)
+ - 😝 [Huehuehue](http://9gag.com/gag/aMKDXVG)
+ - 🚅 [Donk](http://9gag.com/gag/azMoYAN)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
