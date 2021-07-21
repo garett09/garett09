@@ -169,10 +169,10 @@ Windows                  1 hr                ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [One of the best moments in sitcom history](http://9gag.com/gag/aeAymQq)
- - 🚯 [Karen gets slapped for testing the wrong one.](http://9gag.com/gag/a3Ee2D3)
- - 🚯 [People escape from subway, China, Henan](http://9gag.com/gag/aWjPoo4)
- - 😝 [Shock of life. Always laugh when i see it.](http://9gag.com/gag/amPKx1V)
- - 🚅 [Sailing close to this strong whirlpool. The Moskstraumen or Moskenstraumen is a system of tidal eddies and whirlpools, one of the strongest in the world, that forms at the Lofoten archipelago in Nordland county, Norway between the Norwegian Sea and the Vestfjorden](http://9gag.com/gag/aDdrbLd)<!-- MEMES:END -->
+ - 🚯 [Fantastic 4](http://9gag.com/gag/amPKMOd)
+ - 🚯 [Sailing close to this strong whirlpool. The Moskstraumen or Moskenstraumen is a system of tidal eddies and whirlpools, one of the strongest in the world, that forms at the Lofoten archipelago in Nordland county, Norway between the Norwegian Sea and the Vestfjorden](http://9gag.com/gag/aDdrbLd)
+ - 😝 [Tiny horse is learning how to find his food!](http://9gag.com/gag/a8EQ2NO)
+ - 🚅 [Society explained in 31sec](http://9gag.com/gag/abVKxR9)<!-- MEMES:END -->
 
 ### 📣 Jokes of the hour
 
