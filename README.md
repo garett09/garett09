@@ -174,7 +174,7 @@ Windows                  1 hr                ███████████�
  - 😝 [It&#039;s the same picture](http://9gag.com/gag/aWjPR3x)
  - 🚅 [Mastering the art of Kunai rope dart.](http://9gag.com/gag/arM9807)<!-- MEMES:END -->
 
-### 📣 Jokes of the hour
+### 📣 Tech news for the hour
 
 <!-- TECH:START -->
  - [Want a Galaxy Z Fold 3? Samsung will let you trade two devices at once for it.](https://www.androidauthority.com/samsung-galaxy-z-fold-3-trade-1647348)
@@ -182,15 +182,6 @@ Windows                  1 hr                ███████████�
  - [Poll: What’s more important, camera hardware or software?](https://www.androidauthority.com/camera-hardware-software-poll-1647230)
  - [Daily Authority: Fold 3, August 11](https://www.androidauthority.com/newsletters/da-july-21-2021)
  - [OnePlus 6 and 6T gain July security patch with latest update, but little else](https://www.androidauthority.com/oneplus-6t-updates-922469)<!-- TECH:END -->
-
-### 📣 Quotes of the hour
-
-<!-- QUOTES:START -->
- - 🔥 [Your trial has expired. Please update your subscription plan at <a href="https://rss.app">rss.app</a>. - (_E49Mh0Y8EhF5Ecga)](https://rss.app)
- - 🌮 [&#32; submitted by &#32; <a href="https://www.reddit.com/user/ScrambledShow"> /u/ScrambledShow </a> <br/> <span><a href="https://www.reddit.com/r/quotes/comments/oomzcs/believe_those_who_are_seeking_the_truth_doubt/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/quotes/comments/oomzcs/believe_those_who_are_seeking_the_truth_doubt/">[comments]</a></span>](https://www.reddit.com/r/quotes/comments/oomzcs/believe_those_who_are_seeking_the_truth_doubt/)
- - 🌮 [&#32; submitted by &#32; <a href="https://www.reddit.com/user/comeout-and-hauntme"> /u/comeout-and-hauntme </a> <br/> <span><a href="https://www.reddit.com/r/quotes/comments/oofqwr/the_most_painful_thing_is_losing_yourself_in_the/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/quotes/comments/oofqwr/the_most_painful_thing_is_losing_yourself_in_the/">[comments]</a></span>](https://www.reddit.com/r/quotes/comments/oofqwr/the_most_painful_thing_is_losing_yourself_in_the/)
- - 💯 [&#32; submitted by &#32; <a href="https://www.reddit.com/user/ifftie"> /u/ifftie </a> <br/> <span><a href="https://www.reddit.com/r/quotes/comments/ooplsk/a_man_who_stands_for_nothing_will_fall_for/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/quotes/comments/ooplsk/a_man_who_stands_for_nothing_will_fall_for/">[comments]</a></span>](https://www.reddit.com/r/quotes/comments/ooplsk/a_man_who_stands_for_nothing_will_fall_for/)
- - 💫 [&#32; submitted by &#32; <a href="https://www.reddit.com/user/Efren_John"> /u/Efren_John </a> <br/> <span><a href="https://www.reddit.com/r/quotes/comments/oonwra/i_wanted_freedom_to_do_whatever_i_want_then_i/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/quotes/comments/oonwra/i_wanted_freedom_to_do_whatever_i_want_then_i/">[comments]</a></span>](https://www.reddit.com/r/quotes/comments/oonwra/i_wanted_freedom_to_do_whatever_i_want_then_i/)<!-- QUOTES:END -->
 
 --- 
 ### 💻 Workspace Spec
