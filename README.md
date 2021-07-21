@@ -177,11 +177,11 @@ Windows                  1 hr                ███████████�
 ### 📣 Jokes of the hour
 
 <!-- JOKES:START -->
- - 🐔 [Soccer ball from Challenger explosion…b/c NASA > Billionaire Bezos (Story)](https://thechive.com/2021/07/20/soccer-ball-from-challenger-explosionb-c-nasa-billionaire-bezos/)
+ - 🐔 [Concepts kids totally didn’t get that are pretty damn amusing if you ask me (35 Photos and GIFs)](https://thechive.com/2021/07/20/concepts-kids-totally-didnt-get-that-are-pretty-damn-amusing-if-you-ask-me/)
+ - 🕉 [Soccer ball from Challenger explosion…b/c NASA > Billionaire Bezos (Story)](https://thechive.com/2021/07/20/soccer-ball-from-challenger-explosionb-c-nasa-billionaire-bezos/)
  - 🕉 [People sharing monumental breakthroughs prove we can all change for the better (18 Photos)](https://thechive.com/2021/07/20/people-sharing-monumental-breakthroughs-prove-we-can-all-change-for-the-better-18-photos/)
- - 🕉 [Daily Dopamine Dump](http://i.thechive.com/dopamine-dump)
- - 👾 [God bless you, slow-motion (Video)](https://thechive.com/2021/07/20/god-bless-you-slow-motion-video-2/)
- - 🎈 [Video games that sold for more than most of our cars (15 GIFs)](https://thechive.com/2021/07/20/video-games-that-sold-for-more-than-most-of-our-cars-15-gifs/)<!-- JOKES:END -->
+ - 👾 [Daily Dopamine Dump](http://i.thechive.com/dopamine-dump)
+ - 🎈 [God bless you, slow-motion (Video)](https://thechive.com/2021/07/20/god-bless-you-slow-motion-video-2/)<!-- JOKES:END -->
 
 ### 📣 Quotes of the hour
 
