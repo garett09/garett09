@@ -186,11 +186,11 @@ Windows                  1 hr                ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How the ancient Greeks knew the Earth was round. All you need is sticks, eyes, feet and brains.](http://9gag.com/gag/aO3AjBR)
- - 🚯 [Just bought a new bicycle because tired of being ugly and fat, just wanna be ugly. Not great, not terrible, not even from a famous brand, but I love it.](http://9gag.com/gag/axMQYQY)
- - 🚯 [Mastering the art of Kunai rope dart.](http://9gag.com/gag/arM9807)
- - 😝 [It&#039;s the same picture](http://9gag.com/gag/aWjPR3x)
- - 🚅 [Dirty Jokes with Mom](http://9gag.com/gag/aK6nKb6)<!-- MEMES:END -->
+ - 🚖 [It&#039;s the same picture](http://9gag.com/gag/aWjPR3x)
+ - 🚯 [Horses](http://9gag.com/gag/apNzdQD)
+ - 🚯 [#18/20 - Haha some hits](http://9gag.com/gag/amPKRb2)
+ - 😝 [Dirty Jokes with Mom](http://9gag.com/gag/aK6nKb6)
+ - 🚅 [How the ancient Greeks knew the Earth was round. All you need is sticks, eyes, feet and brains.](http://9gag.com/gag/aO3AjBR)<!-- MEMES:END -->
 
 --- 
 
