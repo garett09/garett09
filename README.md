@@ -177,11 +177,11 @@ Windows                  1 hr                ███████████�
 ### 📣 Jokes of the hour
 
 <!-- JOKES:START -->
- - 🐔 [God bless you, slow-motion (Video)](https://thechive.com/2021/07/20/god-bless-you-slow-motion-video-2/)
- - 🕉 [Video games that sold for more than most of our cars (15 GIFs)](https://thechive.com/2021/07/20/video-games-that-sold-for-more-than-most-of-our-cars-15-gifs/)
- - 🕉 [Got boobs? You’ll get these memes… (30 Photos)](https://thechive.com/2021/07/20/got-boobs-youll-get-these-memes-30-photos/)
- - 👾 [If cars took an acid trip this is likely what their journey would look like (53 Photos)](https://thechive.com/2021/07/20/if-cars-took-an-acid-trip-this-is-likely-what-their-journey-would-look-like-53-photos/)
- - 🎈 [Sh*tty letter spacing can make ALLLL the difference (28 Photos)](https://thechive.com/2021/07/20/shtty-letter-spacing-can-make-allll-the-difference-28-photos/)<!-- JOKES:END -->
+ - 🐔 [Soccer ball from Challenger explosion…b/c NASA > Billionaire Bezos (Story)](https://thechive.com/2021/07/20/soccer-ball-from-challenger-explosionb-c-nasa-billionaire-bezos/)
+ - 🕉 [People sharing monumental breakthroughs prove we can all change for the better (18 Photos)](https://thechive.com/2021/07/20/people-sharing-monumental-breakthroughs-prove-we-can-all-change-for-the-better-18-photos/)
+ - 🕉 [Daily Dopamine Dump](http://i.thechive.com/dopamine-dump)
+ - 👾 [God bless you, slow-motion (Video)](https://thechive.com/2021/07/20/god-bless-you-slow-motion-video-2/)
+ - 🎈 [Video games that sold for more than most of our cars (15 GIFs)](https://thechive.com/2021/07/20/video-games-that-sold-for-more-than-most-of-our-cars-15-gifs/)<!-- JOKES:END -->
 
 ### 📣 Quotes of the hour
 
