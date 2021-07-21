@@ -187,9 +187,9 @@ Windows                  1 hr                ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Don&#039;t f**k with the library](http://9gag.com/gag/aB2jvbz)
- - 🚯 [Dirty Jokes with Mom](http://9gag.com/gag/aK6nKb6)
- - 🚯 [Horses](http://9gag.com/gag/apNzdQD)
- - 😝 [NASA scientists](http://9gag.com/gag/arM9d0X)
+ - 🚯 [NASA scientists](http://9gag.com/gag/arM9d0X)
+ - 🚯 [Lol lol lol lol lol lol. Stupidity](http://9gag.com/gag/a3EexoN)
+ - 😝 [He hits the target](http://9gag.com/gag/aQoBVVe)
  - 🚅 [How the ancient Greeks knew the Earth was round. All you need is sticks, eyes, feet and brains.](http://9gag.com/gag/aO3AjBR)<!-- MEMES:END -->
 
 --- 
