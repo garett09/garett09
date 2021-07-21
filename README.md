@@ -173,7 +173,11 @@ Windows                  1 hr                ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
-<!-- TECH:END -->
+ - [Nokia hopes you’ll like its smart lighting as much as its phones](https://www.androidauthority.com/nokia-smart-lighting-1647388)
+ - [Clubhouse is now out of beta and open to everyone](http://feedproxy.google.com/~r/Techcrunch/~3/ehkLlg6l3GY/)
+ - [Clubhouse is no longer invite-only](https://www.theverge.com/2021/7/21/22586845/clubhouse-open-beta-invite-access-android-ios)
+ - [WHO head cheers Olympic ‘hope’ as COVID-19 cases in athletes’ village rise](https://www.theverge.com/2021/7/21/22586773/who-olympics-tokyo-ioc-covid)
+ - [The real ROI of making your products more accessible](http://feedproxy.google.com/~r/Techcrunch/~3/XysrFzey0gk/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
