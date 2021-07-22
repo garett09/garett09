@@ -187,10 +187,10 @@ Windows                  1 hr 3 mins         ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Maximum concentration](http://9gag.com/gag/a5Ev35q)
- - 🚯 [WTF](http://9gag.com/gag/aO3A5Pv)
  - 🚯 [Saw many of these memes..here is another one](http://9gag.com/gag/aP3z2gK)
- - 😝 [The power of plastic surgery](http://9gag.com/gag/a9EZ06L)
- - 🚅 [And still no 5G either on my arm](http://9gag.com/gag/a279gGw)<!-- MEMES:END -->
+ - 🚯 [WTF](http://9gag.com/gag/aO3A5Pv)
+ - 😝 [And still no 5G either on my arm](http://9gag.com/gag/a279gGw)
+ - 🚅 [I just couldn&#039;t believe when he said it, I thought it&#039;s just a tasteless joke, but it wasn&#039;t... Why I don&#039;t quit? Because they pay is shit everywhere, and those who freelance earn even less because taxes on freelancers take nearly 80%. Welcome to Lithuania...](http://9gag.com/gag/abVKDVv)<!-- MEMES:END -->
 
 --- 
 
