@@ -168,11 +168,11 @@ Windows                  1 hr 3 mins         ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Activision Blizzard sued by California over widespread sexism, sexual harassment](https://www.polygon.com/22588407/activision-blizzard-sexual-harassment-sexism-california-lawsuit)
+ - [Timothée Chalamet confronts his sandy destiny in new trailer for Dune](https://www.polygon.com/22587597/dune-trailer-timothee-chalamet-zendaya)
+ - [Hey, at least Snake Eyes gets that ninjas are the coolest part of G.I. Joe](https://www.polygon.com/reviews/22587682/snake-eyes-review-gi-joe-origins)
  - [The Homeworld tabletop RPG will include work from the game’s original writer](https://www.polygon.com/22587361/homeworld-tabletop-rpg-original-writer-martin-cirulis-gearbox-blackbird)
- - [25 of the best movies on Netflix right now](https://www.polygon.com/21266801/best-movies-on-netflix)
- - [Beastars season 2 continues to set the bar for CG anime](https://www.polygon.com/2021/7/21/22586853/beastars-season-2-continues-to-set-the-bar-for-cg-anime)
- - [In the Heights’ Leslie Grace to star in Batgirl movie](https://www.polygon.com/22587612/batgirl-leslie-grace-dc-universe-hbo-max-movie)
- - [Loki series director Kate Herron weighs in on fandom’s big incest question](https://www.polygon.com/interviews/22587056/loki-director-kate-herron-interview-finale)<!-- GAME:END -->
+ - [25 of the best movies on Netflix right now](https://www.polygon.com/21266801/best-movies-on-netflix)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
