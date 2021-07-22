@@ -177,11 +177,11 @@ Windows                  1 hr 3 mins         ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [PS5 owners can get six months of Apple TV Plus for no charge](https://www.theverge.com/2021/7/22/22588577/ps5-sony-apple-tv-plus-six-month-trial-subscription)
- - [All Raise launches virtual bootcamp for women and nonbinary founders](http://feedproxy.google.com/~r/Techcrunch/~3/QTFoL9JvPgQ/)
- - [Tune in today to watch Extreme Tech Challenge (XTC) Global Finals](http://feedproxy.google.com/~r/Techcrunch/~3/-c139aFSMfU/)
- - [Microsoft’s cyber startup spending spree continues with CloudKnox acquisition](http://feedproxy.google.com/~r/Techcrunch/~3/oTxvi2_Or1M/)
- - [Google’s new Tokyo Olympics Doodle is an homage to 16-bit video games](https://www.theverge.com/2021/7/22/22587264/google-doodle-olympics-champion-island-games-japan)<!-- TECH:END -->
+ - [Motorola G100 is first with Snapdragon 800-series chip (Update: US availability)](https://www.androidauthority.com/motorola-moto-g100-1208859)
+ - [It’s time to ditch your Galaxy S21 Ultra for a OnePlus 9 Pro](https://www.androidauthority.com/switch-to-oneplus-9-pro-1646732)
+ - [OnePlus Nord 2 review: Powerful hardware, ailing imaging](https://www.androidauthority.com/oneplus-nord-2-review-1646127)
+ - [OnePlus Buds Pro announced: Fast-charging earbuds to take on Apple, Samsung](https://www.androidauthority.com/oneplus-buds-pro-1641510)
+ - [OnePlus Nord 2 buyer’s guide: Everything you need to know](https://www.androidauthority.com/oneplus-nord-2-1177400)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
