@@ -177,11 +177,11 @@ Windows                  1 hr 3 mins         ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fi’s smart collar adds sleep tracking for dogs](http://feedproxy.google.com/~r/Techcrunch/~3/xedSIRPE_Yg/)
- - [Facebook Messenger is stepping up its emoji game](http://feedproxy.google.com/~r/Techcrunch/~3/l10RPDI9DUY/)
- - [Magic lands $27M Series A for its ‘plug and play’ passwordless tech](http://feedproxy.google.com/~r/Techcrunch/~3/ygV3wxCQkeg/)
- - [Index Ventures’ trio of new funds leads to $3 billion, and more TikTok](http://feedproxy.google.com/~r/Techcrunch/~3/5LrNIbkTr90/)
- - [Obé Fitness raises $15M for its personality-driven exercise platform](http://feedproxy.google.com/~r/Techcrunch/~3/-x-AvhNL25A/)<!-- TECH:END -->
+ - [PS5 owners can get six months of Apple TV Plus for no charge](https://www.theverge.com/2021/7/22/22588577/ps5-sony-apple-tv-plus-six-month-trial-subscription)
+ - [All Raise launches virtual bootcamp for women and nonbinary founders](http://feedproxy.google.com/~r/Techcrunch/~3/QTFoL9JvPgQ/)
+ - [Tune in today to watch Extreme Tech Challenge (XTC) Global Finals](http://feedproxy.google.com/~r/Techcrunch/~3/-c139aFSMfU/)
+ - [Microsoft’s cyber startup spending spree continues with CloudKnox acquisition](http://feedproxy.google.com/~r/Techcrunch/~3/oTxvi2_Or1M/)
+ - [Google’s new Tokyo Olympics Doodle is an homage to 16-bit video games](https://www.theverge.com/2021/7/22/22587264/google-doodle-olympics-champion-island-games-japan)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
