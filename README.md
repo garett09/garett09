@@ -168,11 +168,11 @@ Windows                  1 hr 3 mins         ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [I Expect You To Die 2: PS VR follow-up gets an August 24 release date](http://feedproxy.google.com/~r/PSBlog/~3/HRovs0c-3hY/)
  - [Ratchet and Clank blast into Fall Guys for Limited Time Events and unique rewards](http://feedproxy.google.com/~r/PSBlog/~3/QyG88EySMd0/)
- - [Activision Blizzard sued by California over widespread sexism, sexual harassment](https://www.polygon.com/22588407/activision-blizzard-sexual-harassment-sexism-california-lawsuit)
- - [Timothée Chalamet confronts his sandy destiny in new trailer for Dune](https://www.polygon.com/22587597/dune-trailer-timothee-chalamet-zendaya)
- - [Hey, at least Snake Eyes gets that ninjas are the coolest part of G.I. Joe](https://www.polygon.com/reviews/22587682/snake-eyes-review-gi-joe-origins)
- - [The Homeworld tabletop RPG will include work from the game’s original writer](https://www.polygon.com/22587361/homeworld-tabletop-rpg-original-writer-martin-cirulis-gearbox-blackbird)<!-- GAME:END -->
+ - [Ghost of Tsushima: Journey into the dark secrets of Iki Island](http://feedproxy.google.com/~r/PSBlog/~3/FWoCqeKsQzo/)
+ - [Rhythm ‘n Bullets Definitive Edition announced, releasing July 22](http://feedproxy.google.com/~r/PSBlog/~3/wEywoEye5lQ/)
+ - [The massive Summer Sale comes to PlayStation Store](http://feedproxy.google.com/~r/PSBlog/~3/px5vWqqsv2I/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
