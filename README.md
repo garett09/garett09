@@ -186,11 +186,11 @@ Windows                  1 hr 3 mins         ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Chemotherapy round 3/4. On top of the hospital smoking weed for the countereffects. No thought of jumping so far. View for few. Thessaloniki as seen by little. Sorry for bad quality.](http://9gag.com/gag/azMoDzq)
- - 🚯 [He&#039;s making music!](http://9gag.com/gag/aB2jNzx)
- - 🚯 [I&#039;m getting adopted!](http://9gag.com/gag/aB2jNdQ)
- - 😝 [Come&#039;on Tars!](http://9gag.com/gag/azMooeq)
- - 🚅 [Uncle Iroh vs mugger](http://9gag.com/gag/anQ8WEq)<!-- MEMES:END -->
+ - 🚖 [Lol lol lol lol lol lol. Stupidity](http://9gag.com/gag/a3EexoN)
+ - 🚯 [Uncle Iroh vs mugger](http://9gag.com/gag/anQ8WEq)
+ - 🚯 [Getting hooked up for heart surgery round 2! Send me the good vibes internet strangers!](http://9gag.com/gag/a1rBx5D)
+ - 😝 [I&#039;ll never let go.](http://9gag.com/gag/a8EQQ0d)
+ - 🚅 [Great parenting in the wild](http://9gag.com/gag/aAbqqv9)<!-- MEMES:END -->
 
 --- 
 
