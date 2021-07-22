@@ -186,11 +186,11 @@ Windows                  1 hr 3 mins         ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Why they gotta do Jeff like that?](http://9gag.com/gag/a8EQQXY)
- - 🚯 [What are the odds](http://9gag.com/gag/aV741GM)
- - 🚯 [Come&#039;on Tars!](http://9gag.com/gag/azMooeq)
- - 😝 [When your sibling is getting scolded and you&#039;re laughing at him](http://9gag.com/gag/ad8rrDM)
- - 🚅 [I&#039;ll never let go.](http://9gag.com/gag/a8EQQ0d)<!-- MEMES:END -->
+ - 🚖 [Come&#039;on Tars!](http://9gag.com/gag/azMooeq)
+ - 🚯 [I&#039;ll never let go.](http://9gag.com/gag/a8EQQ0d)
+ - 🚯 [Facts](http://9gag.com/gag/agB6py6)
+ - 😝 [He asked for it](http://9gag.com/gag/aoMAAmw)
+ - 🚅 [Great parenting in the wild](http://9gag.com/gag/aAbqqv9)<!-- MEMES:END -->
 
 --- 
 
