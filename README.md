@@ -177,11 +177,11 @@ Windows                  1 hr 3 mins         ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Huawei P50 series: Everything we know so far (Updated: July 22)](https://www.androidauthority.com/huawei-p50-1179970)
+ - [India’s BlackBuck valued at $1 billion in $67 million fundraise](http://feedproxy.google.com/~r/Techcrunch/~3/K85fUIRctg4/)
+ - [Why Kodak apologized to China over an Instagram post     - CNET](https://www.cnet.com/news/why-kodak-apologized-to-china-over-an-instagram-post/#ftag=CAD590a51e)
  - [Indonesian B2B marketplace GudangAda raises more than $100M in new funding](http://feedproxy.google.com/~r/Techcrunch/~3/NfxkHzTbyKA/)
- - [Indonesia “sea-to-table” platform Aruna hooks $35M led by Prosus and East Ventures Growth Fund](http://feedproxy.google.com/~r/Techcrunch/~3/47zL6oCQZ_g/)
- - [Best checking account for July 2021     - CNET](https://www.cnet.com/personal-finance/banking/best-checking-account/#ftag=CAD590a51e)
- - [Netflix: The 53 best TV shows to watch this week     - CNET](https://www.cnet.com/news/netflix-the-53-best-tv-shows-to-watch-this-week/#ftag=CAD590a51e)
- - [Amazon’s new MMO may be bricking Nvidia 3090s](https://www.theverge.com/2021/7/21/22587616/amazon-games-new-world-nvidia-rtx-3090-bricked-evga-closed-beta)<!-- TECH:END -->
+ - [Indonesia “sea-to-table” platform Aruna hooks $35M led by Prosus and East Ventures Growth Fund](http://feedproxy.google.com/~r/Techcrunch/~3/47zL6oCQZ_g/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
