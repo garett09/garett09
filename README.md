@@ -186,11 +186,11 @@ Windows                  1 hr 3 mins         ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It&#039;s something](http://9gag.com/gag/aV74B1M)
- - 🚯 [NASA scientists](http://9gag.com/gag/arM9d0X)
- - 🚯 [Bought this bad boy for 20&euro; today since i heard some good reviews about it, can&rsquo;t wait to start](http://9gag.com/gag/a3EexE3)
+ - 🚖 [Chemotherapy round 3/4. On top of the hospital smoking weed for the countereffects. No thought of jumping so far. View for few. Thessaloniki as seen by little. Sorry for bad quality.](http://9gag.com/gag/azMoDzq)
+ - 🚯 [A passenger had left his phone behind and realized it after the gates were closed and the plane was pushed off the entrance tunnel.](http://9gag.com/gag/aQoBN22)
+ - 🚯 [He&#039;s making music!](http://9gag.com/gag/aB2jNzx)
  - 😝 [I&#039;m getting adopted!](http://9gag.com/gag/aB2jNdQ)
- - 🚅 [He asked for it](http://9gag.com/gag/aoMAAmw)<!-- MEMES:END -->
+ - 🚅 [What are the odds](http://9gag.com/gag/aV741GM)<!-- MEMES:END -->
 
 --- 
 
