@@ -177,11 +177,11 @@ Windows                  1 hr 3 mins         ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily Authority: Robotaxi debate, Nord 2 today, and more](https://www.androidauthority.com/newsletters/da-july-22-2021)
- - [Twitter’s new beta TweetDeck is so bad I’m ready to ragequit](https://www.theverge.com/2021/7/22/22587583/twitter-new-tweetdeck-preview-beta-hands-on-editorial)
- - [Intel’s new NUC comes with 11th gen CPUs and space for a full-size graphics card](https://www.theverge.com/2021/7/22/22588361/intel-nuc-11-extreme-price-release-date-features-11th-gen-cpu-full-size-graphics-card)
+ - [Visa acquires Currencycloud, which makes APIs for remittances and currency transfers, in a $963M deal](http://feedproxy.google.com/~r/Techcrunch/~3/vZTGyzo1VIo/)
+ - [Tailor Brands raises $50M, aims to be one-stop shop for small businesses to launch](http://feedproxy.google.com/~r/Techcrunch/~3/B9IG2SkKOCM/)
  - [Apple MagSafe-like wireless charging tech could be headed to Android phones](https://www.androidauthority.com/realme-magdart-magnetic-wireless-charging-1647865)
- - [You told us: Here’s how much you spend on mobile games each month](https://www.androidauthority.com/mobile-games-month-spending-poll-results-1647095)<!-- TECH:END -->
+ - [Daily Authority: Robotaxi debate, Nord 2 today, and more](https://www.androidauthority.com/newsletters/da-july-22-2021)
+ - [Twitter’s new beta TweetDeck is so bad I’m ready to ragequit](https://www.theverge.com/2021/7/22/22587583/twitter-new-tweetdeck-preview-beta-hands-on-editorial)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
