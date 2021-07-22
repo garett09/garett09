@@ -177,11 +177,11 @@ Windows                  1 hr 3 mins         ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tons of major sites go down, causing outages around the world](https://www.androidauthority.com/internet-outage-july-2021-1648119)
+ - [Wear OS 3 is official name of new system, will come to these existing watches](https://www.androidauthority.com/wear-os-3-1648058)
+ - [OnePlus Nord 2: Hot or not? (Poll)](https://www.androidauthority.com/oneplus-nord-2-hot-or-not-poll-1647691)
  - [Android Auto’s new beta program is now live. Here’s how to sign up.](https://www.androidauthority.com/android-auto-beta-1647788)
- - [OnePlus will offer toggle to curb throttling, as it should have done originally](https://www.androidauthority.com/oneplus-performance-toggle-1648020)
- - [Motorola G100 is first with Snapdragon 800-series chip (Update: US availability)](https://www.androidauthority.com/motorola-moto-g100-1208859)
- - [It’s time to ditch your Galaxy S21 Ultra for a OnePlus 9 Pro](https://www.androidauthority.com/switch-to-oneplus-9-pro-1646732)
- - [OnePlus Nord 2 review: Powerful hardware, ailing imaging](https://www.androidauthority.com/oneplus-nord-2-review-1646127)<!-- TECH:END -->
+ - [OnePlus will offer toggle to curb throttling, as it should have done originally](https://www.androidauthority.com/oneplus-performance-toggle-1648020)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
