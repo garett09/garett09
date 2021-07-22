@@ -187,10 +187,10 @@ Windows                  1 hr 3 mins         ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Don&#039;t f**k with the library](http://9gag.com/gag/aB2jvbz)
+ - 🚯 [He hits the target](http://9gag.com/gag/aQoBVVe)
  - 🚯 [NASA scientists](http://9gag.com/gag/arM9d0X)
- - 🚯 [Lol lol lol lol lol lol. Stupidity](http://9gag.com/gag/a3EexoN)
- - 😝 [He hits the target](http://9gag.com/gag/aQoBVVe)
- - 🚅 [How the ancient Greeks knew the Earth was round. All you need is sticks, eyes, feet and brains.](http://9gag.com/gag/aO3AjBR)<!-- MEMES:END -->
+ - 😝 [How the ancient Greeks knew the Earth was round. All you need is sticks, eyes, feet and brains.](http://9gag.com/gag/aO3AjBR)
+ - 🚅 [It&#039;s something](http://9gag.com/gag/aV74B1M)<!-- MEMES:END -->
 
 --- 
 
