@@ -186,11 +186,11 @@ Windows                  1 hr 3 mins         ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [He asked for it](http://9gag.com/gag/aoMAAmw)
- - 🚯 [Pizza Time](http://9gag.com/gag/aLpVOgz)
- - 🚯 [Great parenting in the wild](http://9gag.com/gag/aAbqqv9)
- - 😝 [Facts](http://9gag.com/gag/agB6py6)
- - 🚅 [This is actually too funny](http://9gag.com/gag/aGp66mw)<!-- MEMES:END -->
+ - 🚖 [Great parenting in the wild](http://9gag.com/gag/aAbqqv9)
+ - 🚯 [Facts](http://9gag.com/gag/agB6py6)
+ - 🚯 [This is actually too funny](http://9gag.com/gag/aGp66mw)
+ - 😝 [Pizza Time](http://9gag.com/gag/aLpVOgz)
+ - 🚅 [Motivashen](http://9gag.com/gag/amPKO09)<!-- MEMES:END -->
 
 --- 
 
