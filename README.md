@@ -177,11 +177,11 @@ Windows                  1 hr 3 mins         ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Poll: Are you one of the 430,000 people who recently canceled Netflix?](https://www.androidauthority.com/netflix-subscriber-poll-1647759)
- - [Report: Realme is now ahead of its (former) parent company in India](https://www.androidauthority.com/realme-q2-2021-india-1647760)
- - [Samsung’s next foldables could be totally fine with a dunk in the pool](https://www.androidauthority.com/samsung-galaxy-z-fold-3-water-resistance-1647750)
- - [California sues Activision Blizzard over a culture of ‘constant sexual harassment’](https://www.theverge.com/2021/7/22/22588215/activision-blizzard-lawsuit-sexual-harassment-discrimination-pay)
- - [Ted Lasso season 2 review: If you were worried, don't be     - CNET](https://www.cnet.com/news/ted-lasso-season-2-review-if-you-were-worried-dont-be/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Untitled Ventures joins the scramble for Russian & Eastern European startups with a $118M warchest](http://feedproxy.google.com/~r/Techcrunch/~3/KhCYFvWKwtY/)
+ - [Louis Vuitton's UFO-like speaker is now available for pre-orders     - CNET](https://www.cnet.com/tech/mobile/louis-vuittons-ufo-like-speaker-is-now-available-for-pre-orders/#ftag=CAD590a51e)
+ - [Yoobic raises $50M for its chat and communications app app aimed at frontline and service workers](http://feedproxy.google.com/~r/Techcrunch/~3/s9lSvaPh-WA/)
+ - [B2B social management platform Oktopost raises $20M growth round with Expedition](http://feedproxy.google.com/~r/Techcrunch/~3/KzYjgGkuF90/)
+ - [Aston Martin's new online configurator is more powerful and easier to use     - Roadshow](https://www.cnet.com/roadshow/pictures/aston-martin-online-configurator/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
