@@ -186,11 +186,11 @@ Windows                  1 hr 3 mins         ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When your sibling is getting scolded and you&#039;re laughing at him](http://9gag.com/gag/ad8rrDM)
+ - 🚖 [When you&rsquo;re single at a wedding](http://9gag.com/gag/a9EZ4eo)
+ - 🚯 [Pizza Time](http://9gag.com/gag/aLpVOgz)
  - 🚯 [The name&#039;s Bond....Black Bond by Netflix](http://9gag.com/gag/agB6p9x)
- - 🚯 [That&#039;s no fish, it&#039;s a river monster](http://9gag.com/gag/aP3zzEg)
- - 😝 [Land rising somewhere in India](http://9gag.com/gag/av54BjO)
- - 🚅 [Pizza Time](http://9gag.com/gag/aLpVOgz)<!-- MEMES:END -->
+ - 😝 [They took errr jerbs!](http://9gag.com/gag/aAbqLyo)
+ - 🚅 [This is fine](http://9gag.com/gag/aXoQm2g)<!-- MEMES:END -->
 
 --- 
 
