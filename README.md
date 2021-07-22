@@ -186,11 +186,11 @@ Windows                  1 hr 3 mins         ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [LED backpack with programmable screen.](http://9gag.com/gag/aRX9WXy)
- - 🚯 [And still no 5G either on my arm](http://9gag.com/gag/a279gGw)
+ - 🚖 [Best one yay or nay ?](http://9gag.com/gag/aeAyz5B)
  - 🚯 [Gota love Germane](http://9gag.com/gag/aAbq7rE)
- - 😝 [Right in the feelings](http://9gag.com/gag/a6E4zB9)
- - 🚅 [They don&#039;t know.....](http://9gag.com/gag/aAbqLj0)<!-- MEMES:END -->
+ - 🚯 [They don&#039;t know.....](http://9gag.com/gag/aAbqLj0)
+ - 😝 [LED backpack with programmable screen.](http://9gag.com/gag/aRX9WXy)
+ - 🚅 [Right in the feelings](http://9gag.com/gag/a6E4zB9)<!-- MEMES:END -->
 
 --- 
 
