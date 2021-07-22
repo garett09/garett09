@@ -168,11 +168,11 @@ Windows                  1 hr 3 mins         ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [25 of the best movies on Netflix right now](https://www.polygon.com/21266801/best-movies-on-netflix)
  - [Beastars season 2 continues to set the bar for CG anime](https://www.polygon.com/2021/7/21/22586853/beastars-season-2-continues-to-set-the-bar-for-cg-anime)
  - [In the Heights’ Leslie Grace to star in Batgirl movie](https://www.polygon.com/22587612/batgirl-leslie-grace-dc-universe-hbo-max-movie)
  - [Loki series director Kate Herron weighs in on fandom’s big incest question](https://www.polygon.com/interviews/22587056/loki-director-kate-herron-interview-finale)
- - [Pro Evolution Soccer is now simply eFootball — and it’s free to play](https://www.polygon.com/22587429/pes-efootball-release-date-pc-ps5-xbox-series-x-one-ps4-android-ios)
- - [Skyward Sword is the exact opposite of Breath of the Wild, but it’s still great](https://www.polygon.com/reviews/22587356/review-the-legend-of-zelda-skyward-sword-nintendo-switch)<!-- GAME:END -->
+ - [Pro Evolution Soccer is now simply eFootball — and it’s free to play](https://www.polygon.com/22587429/pes-efootball-release-date-pc-ps5-xbox-series-x-one-ps4-android-ios)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
