@@ -186,11 +186,11 @@ Windows                  1 hr 3 mins         ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Funny video](http://9gag.com/gag/aO3AOe6)
- - 🚯 [Chun li: Call the ambulance. but not for me](http://9gag.com/gag/abVKLW8)
- - 🚯 [Ignorance.](http://9gag.com/gag/a8EQ961)
+ - 🚖 [Ignorance.](http://9gag.com/gag/a8EQ961)
+ - 🚯 [Land rising somewhere in India](http://9gag.com/gag/av54BjO)
+ - 🚯 [I just couldn&#039;t believe when he said it, I thought it&#039;s just a tasteless joke, but it wasn&#039;t... Why I don&#039;t quit? Because they pay is shit everywhere, and those who freelance earn even less because taxes on freelancers take nearly 80%. Welcome to Lithuania...](http://9gag.com/gag/abVKDVv)
  - 😝 [Right in the feelings](http://9gag.com/gag/a6E4zB9)
- - 🚅 [Lets go after a hitman&rsquo;s father. What could go wrong &hellip; (nobody)](http://9gag.com/gag/apNzXrD)<!-- MEMES:END -->
+ - 🚅 [Nooo my dog!!!](http://9gag.com/gag/a5Evgjr)<!-- MEMES:END -->
 
 --- 
 
