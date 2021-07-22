@@ -186,11 +186,11 @@ Windows                  1 hr 3 mins         ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This is fine](http://9gag.com/gag/aXoQm2g)
- - 🚯 [Motivashen](http://9gag.com/gag/amPKO09)
- - 🚯 [Chun li: Call the ambulance. but not for me](http://9gag.com/gag/abVKLW8)
- - 😝 [Youtube is about to unleash the Multiverse of Madness.](http://9gag.com/gag/aGp66P7)
- - 🚅 [When your sibling is getting scolded and you&#039;re laughing at him](http://9gag.com/gag/ad8rrDM)<!-- MEMES:END -->
+ - 🚖 [When your sibling is getting scolded and you&#039;re laughing at him](http://9gag.com/gag/ad8rrDM)
+ - 🚯 [The name&#039;s Bond....Black Bond by Netflix](http://9gag.com/gag/agB6p9x)
+ - 🚯 [That&#039;s no fish, it&#039;s a river monster](http://9gag.com/gag/aP3zzEg)
+ - 😝 [Land rising somewhere in India](http://9gag.com/gag/av54BjO)
+ - 🚅 [Pizza Time](http://9gag.com/gag/aLpVOgz)<!-- MEMES:END -->
 
 --- 
 
