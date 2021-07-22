@@ -186,11 +186,11 @@ Windows                  1 hr 3 mins         ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Lets go after a hitman&rsquo;s father. What could go wrong &hellip; (nobody)](http://9gag.com/gag/apNzXrD)
- - 🚯 [This is fine](http://9gag.com/gag/aXoQm2g)
+ - 🚖 [This is fine](http://9gag.com/gag/aXoQm2g)
+ - 🚯 [Ignorance.](http://9gag.com/gag/a8EQ961)
  - 🚯 [The name&#039;s Bond....Black Bond by Netflix](http://9gag.com/gag/agB6p9x)
- - 😝 [Chun li: Call the ambulance. but not for me](http://9gag.com/gag/abVKLW8)
- - 🚅 [Ignorance.](http://9gag.com/gag/a8EQ961)<!-- MEMES:END -->
+ - 😝 [Lets go after a hitman&rsquo;s father. What could go wrong &hellip; (nobody)](http://9gag.com/gag/apNzXrD)
+ - 🚅 [Chun li: Call the ambulance. but not for me](http://9gag.com/gag/abVKLW8)<!-- MEMES:END -->
 
 --- 
 
