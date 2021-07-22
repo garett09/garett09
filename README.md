@@ -186,11 +186,11 @@ Windows                  1 hr 3 mins         ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Lol lol lol lol lol lol. Stupidity](http://9gag.com/gag/a3EexoN)
- - 🚯 [Uncle Iroh vs mugger](http://9gag.com/gag/anQ8WEq)
- - 🚯 [Getting hooked up for heart surgery round 2! Send me the good vibes internet strangers!](http://9gag.com/gag/a1rBx5D)
- - 😝 [I&#039;ll never let go.](http://9gag.com/gag/a8EQQ0d)
- - 🚅 [Great parenting in the wild](http://9gag.com/gag/aAbqqv9)<!-- MEMES:END -->
+ - 🚖 [Why they gotta do Jeff like that?](http://9gag.com/gag/a8EQQXY)
+ - 🚯 [What are the odds](http://9gag.com/gag/aV741GM)
+ - 🚯 [Come&#039;on Tars!](http://9gag.com/gag/azMooeq)
+ - 😝 [When your sibling is getting scolded and you&#039;re laughing at him](http://9gag.com/gag/ad8rrDM)
+ - 🚅 [I&#039;ll never let go.](http://9gag.com/gag/a8EQQ0d)<!-- MEMES:END -->
 
 --- 
 
