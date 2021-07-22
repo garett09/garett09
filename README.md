@@ -177,11 +177,11 @@ Windows                  1 hr 3 mins         ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Indonesia “sea-to-table” platform Aruna hooks $35M led by Prosus and East Ventures Growth Fund](http://feedproxy.google.com/~r/Techcrunch/~3/47zL6oCQZ_g/)
  - [Best checking account for July 2021     - CNET](https://www.cnet.com/personal-finance/banking/best-checking-account/#ftag=CAD590a51e)
  - [Netflix: The 53 best TV shows to watch this week     - CNET](https://www.cnet.com/news/netflix-the-53-best-tv-shows-to-watch-this-week/#ftag=CAD590a51e)
  - [Amazon’s new MMO may be bricking Nvidia 3090s](https://www.theverge.com/2021/7/21/22587616/amazon-games-new-world-nvidia-rtx-3090-bricked-evga-closed-beta)
- - [The problem with Jeff Bezos and other billionaires going to space     - CNET](https://www.cnet.com/news/the-problem-with-jeff-bezos-and-other-billionaires-going-to-space/#ftag=CAD590a51e)
- - [Ghost of Tsushima’s dark new expansion has fuzzy cats to pet](https://www.theverge.com/2021/7/21/22587775/ghost-of-tsushima-directors-cut-expansion-pet-cats-deer-monkeys-sony-sucker-punch)<!-- TECH:END -->
+ - [The problem with Jeff Bezos and other billionaires going to space     - CNET](https://www.cnet.com/news/the-problem-with-jeff-bezos-and-other-billionaires-going-to-space/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
