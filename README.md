@@ -186,11 +186,11 @@ Windows                  1 hr 3 mins         ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Come&#039;on Tars!](http://9gag.com/gag/azMooeq)
- - 🚯 [I&#039;ll never let go.](http://9gag.com/gag/a8EQQ0d)
- - 🚯 [Facts](http://9gag.com/gag/agB6py6)
- - 😝 [He asked for it](http://9gag.com/gag/aoMAAmw)
- - 🚅 [Great parenting in the wild](http://9gag.com/gag/aAbqqv9)<!-- MEMES:END -->
+ - 🚖 [He asked for it](http://9gag.com/gag/aoMAAmw)
+ - 🚯 [Pizza Time](http://9gag.com/gag/aLpVOgz)
+ - 🚯 [Great parenting in the wild](http://9gag.com/gag/aAbqqv9)
+ - 😝 [Facts](http://9gag.com/gag/agB6py6)
+ - 🚅 [This is actually too funny](http://9gag.com/gag/aGp66mw)<!-- MEMES:END -->
 
 --- 
 
