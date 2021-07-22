@@ -187,10 +187,10 @@ Windows                  1 hr 3 mins         ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Chemotherapy round 3/4. On top of the hospital smoking weed for the countereffects. No thought of jumping so far. View for few. Thessaloniki as seen by little. Sorry for bad quality.](http://9gag.com/gag/azMoDzq)
- - 🚯 [A passenger had left his phone behind and realized it after the gates were closed and the plane was pushed off the entrance tunnel.](http://9gag.com/gag/aQoBN22)
  - 🚯 [He&#039;s making music!](http://9gag.com/gag/aB2jNzx)
- - 😝 [I&#039;m getting adopted!](http://9gag.com/gag/aB2jNdQ)
- - 🚅 [What are the odds](http://9gag.com/gag/aV741GM)<!-- MEMES:END -->
+ - 🚯 [I&#039;m getting adopted!](http://9gag.com/gag/aB2jNdQ)
+ - 😝 [Come&#039;on Tars!](http://9gag.com/gag/azMooeq)
+ - 🚅 [Uncle Iroh vs mugger](http://9gag.com/gag/anQ8WEq)<!-- MEMES:END -->
 
 --- 
 
