@@ -186,11 +186,11 @@ Windows                  1 hr 3 mins         ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Maximum concentration](http://9gag.com/gag/a5Ev35q)
- - 🚯 [Saw many of these memes..here is another one](http://9gag.com/gag/aP3z2gK)
- - 🚯 [WTF](http://9gag.com/gag/aO3A5Pv)
+ - 🚖 [Time flies](http://9gag.com/gag/a7EPXQm)
+ - 🚯 [I just couldn&#039;t believe when he said it, I thought it&#039;s just a tasteless joke, but it wasn&#039;t... Why I don&#039;t quit? Because they pay is shit everywhere, and those who freelance earn even less because taxes on freelancers take nearly 80%. Welcome to Lithuania...](http://9gag.com/gag/abVKDVv)
+ - 🚯 [The Chordettes - Mr Sandman (1958)](http://9gag.com/gag/azMo3Xj)
  - 😝 [And still no 5G either on my arm](http://9gag.com/gag/a279gGw)
- - 🚅 [I just couldn&#039;t believe when he said it, I thought it&#039;s just a tasteless joke, but it wasn&#039;t... Why I don&#039;t quit? Because they pay is shit everywhere, and those who freelance earn even less because taxes on freelancers take nearly 80%. Welcome to Lithuania...](http://9gag.com/gag/abVKDVv)<!-- MEMES:END -->
+ - 🚅 [Saw many of these memes..here is another one](http://9gag.com/gag/aP3z2gK)<!-- MEMES:END -->
 
 --- 
 
