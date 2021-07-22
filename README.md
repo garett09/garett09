@@ -177,11 +177,11 @@ Windows                  1 hr 3 mins         ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [LG adds mic and speakers to its air-purifying mask, launching next month](https://www.theverge.com/2021/7/22/22588315/lg-air-purifying-face-mask-update-speakers-microphone-puricare-wearable-air-purifier)
  - [Untitled Ventures joins the scramble for Russian & Eastern European startups with a $118M warchest](http://feedproxy.google.com/~r/Techcrunch/~3/KhCYFvWKwtY/)
- - [Louis Vuitton's UFO-like speaker is now available for pre-orders     - CNET](https://www.cnet.com/tech/mobile/louis-vuittons-ufo-like-speaker-is-now-available-for-pre-orders/#ftag=CAD590a51e)
+ - [Louis Vuitton's UFO-style speaker is now available for preorders     - CNET](https://www.cnet.com/tech/mobile/louis-vuittons-ufo-like-speaker-is-now-available-for-pre-orders/#ftag=CAD590a51e)
  - [Yoobic raises $50M for its chat and communications app app aimed at frontline and service workers](http://feedproxy.google.com/~r/Techcrunch/~3/s9lSvaPh-WA/)
- - [B2B social management platform Oktopost raises $20M growth round with Expedition](http://feedproxy.google.com/~r/Techcrunch/~3/KzYjgGkuF90/)
- - [Aston Martin's new online configurator is more powerful and easier to use     - Roadshow](https://www.cnet.com/roadshow/pictures/aston-martin-online-configurator/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [B2B social management platform Oktopost raises $20M growth round with Expedition](http://feedproxy.google.com/~r/Techcrunch/~3/KzYjgGkuF90/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
