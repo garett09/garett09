@@ -177,11 +177,11 @@ Windows                  1 hr 3 mins         ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon’s new MMO may be bricking Nvidia 3090s](https://www.theverge.com/2021/7/21/22587616/amazon-games-new-world-nvidia-rtx-3090-bricked-evga-closed-beta)
+ - [The problem with Jeff Bezos and other billionaires going to space     - CNET](https://www.cnet.com/news/the-problem-with-jeff-bezos-and-other-billionaires-going-to-space/#ftag=CAD590a51e)
  - [Ghost of Tsushima’s dark new expansion has fuzzy cats to pet](https://www.theverge.com/2021/7/21/22587775/ghost-of-tsushima-directors-cut-expansion-pet-cats-deer-monkeys-sony-sucker-punch)
  - [NASA shares epic shot of the moon's creepy shadow during June eclipse     - CNET](https://www.cnet.com/news/nasa-shares-epic-shot-of-the-moons-creepy-shadow-during-june-eclipse/#ftag=CAD590a51e)
- - [Elon Musk, Jack Dorsey talk future of Bitcoin and cryptocurrency     - CNET](https://www.cnet.com/tech/elon-musk-jack-dorsey-talk-future-of-bitcoin-and-cryptocurrency/#ftag=CAD590a51e)
- - [Now Salesforce officially owns Slack](https://www.theverge.com/2021/7/21/22587666/slack-acquisition-salesforce-closed-messaging-cloud)
- - [Amazon’s new MMO may be bricking Nvidia 3090s](https://www.theverge.com/2021/7/21/22587616/amazon-games-new-world-nvidia-rtx-3090-bricked-evga-closed-beta)<!-- TECH:END -->
+ - [Elon Musk, Jack Dorsey talk future of Bitcoin and cryptocurrency     - CNET](https://www.cnet.com/tech/elon-musk-jack-dorsey-talk-future-of-bitcoin-and-cryptocurrency/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
