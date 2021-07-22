@@ -177,11 +177,11 @@ Windows                  1 hr 3 mins         ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Visa acquires Currencycloud, which makes APIs for remittances and currency transfers, in a $963M deal](http://feedproxy.google.com/~r/Techcrunch/~3/vZTGyzo1VIo/)
- - [Tailor Brands raises $50M, aims to be one-stop shop for small businesses to launch](http://feedproxy.google.com/~r/Techcrunch/~3/B9IG2SkKOCM/)
- - [Apple MagSafe-like wireless charging tech could be headed to Android phones](https://www.androidauthority.com/realme-magdart-magnetic-wireless-charging-1647865)
- - [Daily Authority: Robotaxi debate, Nord 2 today, and more](https://www.androidauthority.com/newsletters/da-july-22-2021)
- - [Twitter’s new beta TweetDeck is so bad I’m ready to ragequit](https://www.theverge.com/2021/7/22/22587583/twitter-new-tweetdeck-preview-beta-hands-on-editorial)<!-- TECH:END -->
+ - [Fi’s smart collar adds sleep tracking for dogs](http://feedproxy.google.com/~r/Techcrunch/~3/xedSIRPE_Yg/)
+ - [Facebook Messenger is stepping up its emoji game](http://feedproxy.google.com/~r/Techcrunch/~3/l10RPDI9DUY/)
+ - [Magic lands $27M Series A for its ‘plug and play’ passwordless tech](http://feedproxy.google.com/~r/Techcrunch/~3/ygV3wxCQkeg/)
+ - [Index Ventures’ trio of new funds leads to $3 billion, and more TikTok](http://feedproxy.google.com/~r/Techcrunch/~3/5LrNIbkTr90/)
+ - [Obé Fitness raises $15M for its personality-driven exercise platform](http://feedproxy.google.com/~r/Techcrunch/~3/-x-AvhNL25A/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
