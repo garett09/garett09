@@ -186,10 +186,10 @@ Windows                  1 hr 3 mins         ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Saw many of these memes..here is another one](http://9gag.com/gag/aP3z2gK)
- - 🚯 [The eggs that glow are fertilised](http://9gag.com/gag/axMQKLn)
- - 🚯 [Right in the feelings](http://9gag.com/gag/a6E4zB9)
- - 😝 [LED backpack with programmable screen.](http://9gag.com/gag/aRX9WXy)
+ - 🚖 [Maximum concentration](http://9gag.com/gag/a5Ev35q)
+ - 🚯 [WTF](http://9gag.com/gag/aO3A5Pv)
+ - 🚯 [Saw many of these memes..here is another one](http://9gag.com/gag/aP3z2gK)
+ - 😝 [The power of plastic surgery](http://9gag.com/gag/a9EZ06L)
  - 🚅 [And still no 5G either on my arm](http://9gag.com/gag/a279gGw)<!-- MEMES:END -->
 
 --- 
