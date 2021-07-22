@@ -168,11 +168,11 @@ Windows                  1 hr 3 mins         ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Grid Legends revealed: Become a legend in a blockbuster racer](http://feedproxy.google.com/~r/PSBlog/~3/y4h85N7RzhU/)
  - [I Expect You To Die 2: PS VR follow-up gets an August 24 release date](http://feedproxy.google.com/~r/PSBlog/~3/HRovs0c-3hY/)
  - [Ratchet and Clank blast into Fall Guys for Limited Time Events and unique rewards](http://feedproxy.google.com/~r/PSBlog/~3/QyG88EySMd0/)
  - [Ghost of Tsushima: Journey into the dark secrets of Iki Island](http://feedproxy.google.com/~r/PSBlog/~3/FWoCqeKsQzo/)
- - [Rhythm ‘n Bullets Definitive Edition announced, releasing July 22](http://feedproxy.google.com/~r/PSBlog/~3/wEywoEye5lQ/)
- - [The massive Summer Sale comes to PlayStation Store](http://feedproxy.google.com/~r/PSBlog/~3/px5vWqqsv2I/)<!-- GAME:END -->
+ - [Rhythm ‘n Bullets Definitive Edition announced, releasing July 22](http://feedproxy.google.com/~r/PSBlog/~3/wEywoEye5lQ/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
