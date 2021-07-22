@@ -177,11 +177,11 @@ Windows                  1 hr 3 mins         ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Poll: Are you one of the 430,000 people who recently canceled Netflix?](https://www.androidauthority.com/netflix-subscriber-poll-1647759)
+ - [Report: Realme is now ahead of its (former) parent company in India](https://www.androidauthority.com/realme-q2-2021-india-1647760)
  - [Samsung’s next foldables could be totally fine with a dunk in the pool](https://www.androidauthority.com/samsung-galaxy-z-fold-3-water-resistance-1647750)
  - [California sues Activision Blizzard over a culture of ‘constant sexual harassment’](https://www.theverge.com/2021/7/22/22588215/activision-blizzard-lawsuit-sexual-harassment-discrimination-pay)
- - [Huawei P50 series: Everything we know so far (Updated: July 22)](https://www.androidauthority.com/huawei-p50-1179970)
- - [Huawei's P50 flagship series set to launch on July 29     - CNET](https://www.cnet.com/tech/mobile/huaweis-p50-flagship-series-is-set-to-launch-on-july-29/#ftag=CAD590a51e)
- - [India’s BlackBuck valued at $1 billion in $67 million fundraise](http://feedproxy.google.com/~r/Techcrunch/~3/K85fUIRctg4/)<!-- TECH:END -->
+ - [Ted Lasso season 2 review: If you were worried, don't be     - CNET](https://www.cnet.com/news/ted-lasso-season-2-review-if-you-were-worried-dont-be/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
