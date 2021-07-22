@@ -186,11 +186,11 @@ Windows                  1 hr 3 mins         ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Don&#039;t f**k with the library](http://9gag.com/gag/aB2jvbz)
- - 🚯 [He hits the target](http://9gag.com/gag/aQoBVVe)
+ - 🚖 [How the ancient Greeks knew the Earth was round. All you need is sticks, eyes, feet and brains.](http://9gag.com/gag/aO3AjBR)
  - 🚯 [NASA scientists](http://9gag.com/gag/arM9d0X)
- - 😝 [How the ancient Greeks knew the Earth was round. All you need is sticks, eyes, feet and brains.](http://9gag.com/gag/aO3AjBR)
- - 🚅 [It&#039;s something](http://9gag.com/gag/aV74B1M)<!-- MEMES:END -->
+ - 🚯 [It&#039;s something](http://9gag.com/gag/aV74B1M)
+ - 😝 [Bought this bad boy for 20&euro; today since i heard some good reviews about it, can&rsquo;t wait to start](http://9gag.com/gag/a3EexE3)
+ - 🚅 [Uncle Iroh vs mugger](http://9gag.com/gag/anQ8WEq)<!-- MEMES:END -->
 
 --- 
 
