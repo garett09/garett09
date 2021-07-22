@@ -186,11 +186,11 @@ Windows                  1 hr 3 mins         ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ignorance.](http://9gag.com/gag/a8EQ961)
- - 🚯 [Land rising somewhere in India](http://9gag.com/gag/av54BjO)
- - 🚯 [I just couldn&#039;t believe when he said it, I thought it&#039;s just a tasteless joke, but it wasn&#039;t... Why I don&#039;t quit? Because they pay is shit everywhere, and those who freelance earn even less because taxes on freelancers take nearly 80%. Welcome to Lithuania...](http://9gag.com/gag/abVKDVv)
+ - 🚖 [LED backpack with programmable screen.](http://9gag.com/gag/aRX9WXy)
+ - 🚯 [And still no 5G either on my arm](http://9gag.com/gag/a279gGw)
+ - 🚯 [Gota love Germane](http://9gag.com/gag/aAbq7rE)
  - 😝 [Right in the feelings](http://9gag.com/gag/a6E4zB9)
- - 🚅 [Nooo my dog!!!](http://9gag.com/gag/a5Evgjr)<!-- MEMES:END -->
+ - 🚅 [They don&#039;t know.....](http://9gag.com/gag/aAbqLj0)<!-- MEMES:END -->
 
 --- 
 
