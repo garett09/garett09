@@ -186,11 +186,11 @@ Windows                  1 hr 3 mins         ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When you&rsquo;re single at a wedding](http://9gag.com/gag/a9EZ4eo)
- - 🚯 [Pizza Time](http://9gag.com/gag/aLpVOgz)
+ - 🚖 [Lets go after a hitman&rsquo;s father. What could go wrong &hellip; (nobody)](http://9gag.com/gag/apNzXrD)
+ - 🚯 [This is fine](http://9gag.com/gag/aXoQm2g)
  - 🚯 [The name&#039;s Bond....Black Bond by Netflix](http://9gag.com/gag/agB6p9x)
- - 😝 [They took errr jerbs!](http://9gag.com/gag/aAbqLyo)
- - 🚅 [This is fine](http://9gag.com/gag/aXoQm2g)<!-- MEMES:END -->
+ - 😝 [Chun li: Call the ambulance. but not for me](http://9gag.com/gag/abVKLW8)
+ - 🚅 [Ignorance.](http://9gag.com/gag/a8EQ961)<!-- MEMES:END -->
 
 --- 
 
