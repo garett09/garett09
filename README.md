@@ -186,11 +186,11 @@ Windows                  1 hr 3 mins         ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Great parenting in the wild](http://9gag.com/gag/aAbqqv9)
- - 🚯 [Facts](http://9gag.com/gag/agB6py6)
- - 🚯 [This is actually too funny](http://9gag.com/gag/aGp66mw)
- - 😝 [Pizza Time](http://9gag.com/gag/aLpVOgz)
- - 🚅 [Motivashen](http://9gag.com/gag/amPKO09)<!-- MEMES:END -->
+ - 🚖 [This is fine](http://9gag.com/gag/aXoQm2g)
+ - 🚯 [Motivashen](http://9gag.com/gag/amPKO09)
+ - 🚯 [Chun li: Call the ambulance. but not for me](http://9gag.com/gag/abVKLW8)
+ - 😝 [Youtube is about to unleash the Multiverse of Madness.](http://9gag.com/gag/aGp66P7)
+ - 🚅 [When your sibling is getting scolded and you&#039;re laughing at him](http://9gag.com/gag/ad8rrDM)<!-- MEMES:END -->
 
 --- 
 
