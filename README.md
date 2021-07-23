@@ -186,11 +186,11 @@ Windows                  1 hr 7 mins         ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Tuh&middot;maa&middot;tow / tuh&middot;may&middot;tow problemo](http://9gag.com/gag/aK6nQ11)
- - 🚯 [No banana. Normal Hooman toilet for scale](http://9gag.com/gag/a7EPYZm)
- - 🚯 [These type of people need professional help.](http://9gag.com/gag/aoMAQqm)
- - 😝 [This does put a](http://9gag.com/gag/aGp6mp0)
- - 🚅 [This is where you can find IBEX in Pakistan](http://9gag.com/gag/aqjBoMp)<!-- MEMES:END -->
+ - 🚖 [Witcher is getting an Animated series from the same guys who did Castlevania and it&#039;s about Younger Vesemir](http://9gag.com/gag/azMoW3z)
+ - 🚯 [Valid](http://9gag.com/gag/azMoWGj)
+ - 🚯 [Guys! I&#039;m a Doctor!!!](http://9gag.com/gag/azMop2j)
+ - 😝 [This is where you can find IBEX in Pakistan](http://9gag.com/gag/aqjBoMp)
+ - 🚅 [This does put a](http://9gag.com/gag/aGp6mp0)<!-- MEMES:END -->
 
 --- 
 
