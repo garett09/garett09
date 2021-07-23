@@ -186,11 +186,11 @@ Windows                  1 hr 7 mins         ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I would take a roll of coarse toilet paper over a Xylospongium any day](http://9gag.com/gag/aP3z5Mq)
- - 🚯 [Any movies, tvseries you knwo with these kinda moments?](http://9gag.com/gag/aV74NXK)
- - 🚯 [This guy house walls getting hit by car accident 2 times in 4 days!](http://9gag.com/gag/aMKDgwR)
- - 😝 [Wake up bro, it&#039;s 2005](http://9gag.com/gag/aWjPz2q)
- - 🚅 [German reporter Susanna Ohlen puts mud on her face and clothes to look like, she helped cleaning in the flooded region before her news report.](http://9gag.com/gag/a2793nY)<!-- MEMES:END -->
+ - 🚖 [German reporter Susanna Ohlen puts mud on her face and clothes to look like, she helped cleaning in the flooded region before her news report.](http://9gag.com/gag/a2793nY)
+ - 🚯 [Witcher is getting an Animated series from the same guys who did Castlevania and it&#039;s about Younger Vesemir](http://9gag.com/gag/azMoW3z)
+ - 🚯 [Wake up bro, it&#039;s 2005](http://9gag.com/gag/aWjPz2q)
+ - 😝 [Tragically not hip anymore](http://9gag.com/gag/aqjB03L)
+ - 🚅 [Japanese dude went to the grocery store with a WW2-era Kettenkrad (Sd.Kfz.2), what a mad lad](http://9gag.com/gag/aV74Avd)<!-- MEMES:END -->
 
 --- 
 
