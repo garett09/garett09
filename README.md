@@ -186,11 +186,11 @@ Windows                  1 hr 7 mins         ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [German reporter Susanna Ohlen puts mud on her face and clothes to look like, she helped cleaning in the flooded region before her news report.](http://9gag.com/gag/a2793nY)
- - 🚯 [Witcher is getting an Animated series from the same guys who did Castlevania and it&#039;s about Younger Vesemir](http://9gag.com/gag/azMoW3z)
+ - 🚖 [Classic Fiat Commercials are the best](http://9gag.com/gag/aGp6mb5)
+ - 🚯 [Japanese dude went to the grocery store with a WW2-era Kettenkrad (Sd.Kfz.2), what a mad lad](http://9gag.com/gag/aV74Avd)
  - 🚯 [Wake up bro, it&#039;s 2005](http://9gag.com/gag/aWjPz2q)
  - 😝 [Tragically not hip anymore](http://9gag.com/gag/aqjB03L)
- - 🚅 [Japanese dude went to the grocery store with a WW2-era Kettenkrad (Sd.Kfz.2), what a mad lad](http://9gag.com/gag/aV74Avd)<!-- MEMES:END -->
+ - 🚅 [But what do I know..](http://9gag.com/gag/aAbqjyL)<!-- MEMES:END -->
 
 --- 
 
