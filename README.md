@@ -186,11 +186,11 @@ Windows                  1 hr 7 mins         ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A village in India saved a drowning elephant&rsquo;s life](http://9gag.com/gag/aGp6m6w)
- - 🚯 [Increase your jail time 10x with one simple trick](http://9gag.com/gag/aeAynwB)
- - 🚯 [German firefighters resting in the middle of the street after the flood in Germany. Respect for all the heroes doing theire best.](http://9gag.com/gag/abVKN0B)
- - 😝 [This does put a](http://9gag.com/gag/aGp6mp0)
- - 🚅 [Double standards](http://9gag.com/gag/aZ0o6mV)<!-- MEMES:END -->
+ - 🚖 [I would take a roll of coarse toilet paper over a Xylospongium any day](http://9gag.com/gag/aP3z5Mq)
+ - 🚯 [This what woke culture look like](http://9gag.com/gag/amPKejo)
+ - 🚯 [This guy house walls getting hit by car accident 2 times in 4 days!](http://9gag.com/gag/aMKDgwR)
+ - 😝 [Who&#039;s turn is it? Fine I&#039;ll post it Never Forget](http://9gag.com/gag/a6E4PrL)
+ - 🚅 [Increase your jail time 10x with one simple trick](http://9gag.com/gag/aeAynwB)<!-- MEMES:END -->
 
 --- 
 
