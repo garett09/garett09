@@ -186,11 +186,11 @@ Windows                  1 hr 7 mins         ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Japanese dude went to the grocery store with a WW2-era Kettenkrad (Sd.Kfz.2), what a mad lad](http://9gag.com/gag/aV74Avd)
- - 🚯 [Wake up bro, it&#039;s 2005](http://9gag.com/gag/aWjPz2q)
- - 🚯 [Tragically not hip anymore](http://9gag.com/gag/aqjB03L)
- - 😝 [Needs more protein](http://9gag.com/gag/ayMZOgq)
- - 🚅 [But what do I know..](http://9gag.com/gag/aAbqjyL)<!-- MEMES:END -->
+ - 🚖 [Tragically not hip anymore](http://9gag.com/gag/aqjB03L)
+ - 🚯 [But what do I know..](http://9gag.com/gag/aAbqjyL)
+ - 🚯 [This is what fairness look like.](http://9gag.com/gag/aP3zNmq)
+ - 😝 [2nd day of walking practice on biotech c-legs. First time on a sidewalk with no grass.](http://9gag.com/gag/a1rBzmb)
+ - 🚅 [Any movies, tvseries you knwo with these kinda moments?](http://9gag.com/gag/aV74NXK)<!-- MEMES:END -->
 
 --- 
 
