@@ -177,11 +177,11 @@ Windows                  1 hr 7 mins         ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Daily Authority: Nord misaligned 🧭](https://www.androidauthority.com/newsletters/da-july-23-2021)
+ - [This is Motorola’s upcoming 5G mid-ranger with a 120Hz display, 108MP camera](https://www.androidauthority.com/motorola-edge-20-1648456)
  - [OnePlus Nord 2 gets first Oxygen OS update with camera improvements](https://www.androidauthority.com/oneplus-nord-2-updates-1648431)
  - [Samsung patent hints at Galaxy Z Flip with Asus-style flippy camera](https://www.androidauthority.com/samsung-galaxy-z-flip-flipping-camera-patent-1648432)
- - [You told us: Looks, fit, or sound quality? Here’s what you value in TWS earbuds](https://www.androidauthority.com/true-wireless-earbuds-fit-poll-results-1648364)
- - [Relame brings two affordable smartwatches to India with long-lasting batteries](https://www.androidauthority.com/realme-watch-2-pro-india-launch-1648374)
- - [Poco F3 GT lands with 120Hz display, gaming triggers to take on OnePlus Nord 2](https://www.androidauthority.com/poco-f3-gt-1648316)<!-- TECH:END -->
+ - [You told us: Looks, fit, or sound quality? Here’s what you value in TWS earbuds](https://www.androidauthority.com/true-wireless-earbuds-fit-poll-results-1648364)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
