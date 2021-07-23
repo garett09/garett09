@@ -186,11 +186,11 @@ Windows                  1 hr 7 mins         ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [There was a report that there was a person with a knife in Istanbul. As soon as the cops arrives at the location, person attacks them. Officer neutralizes the attacker by shooting him in the legs.](http://9gag.com/gag/aO3AE42)
+ - 🚖 [Saw many of these memes..here is another one](http://9gag.com/gag/aP3z2gK)
  - 🚯 [Time flies](http://9gag.com/gag/a7EPXQm)
- - 🚯 [Saw many of these memes..here is another one](http://9gag.com/gag/aP3z2gK)
- - 😝 [WTF](http://9gag.com/gag/aO3A5Pv)
- - 🚅 [Nooo my dog!!!](http://9gag.com/gag/a5Evgjr)<!-- MEMES:END -->
+ - 🚯 [P keyboard](http://9gag.com/gag/aAbq9mg)
+ - 😝 [Nooo my dog!!!](http://9gag.com/gag/a5Evgjr)
+ - 🚅 [WTF](http://9gag.com/gag/aO3A5Pv)<!-- MEMES:END -->
 
 --- 
 
