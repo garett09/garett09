@@ -186,11 +186,11 @@ Windows                  1 hr 7 mins         ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Tragically not hip anymore](http://9gag.com/gag/aqjB03L)
- - 🚯 [But what do I know..](http://9gag.com/gag/aAbqjyL)
- - 🚯 [This is what fairness look like.](http://9gag.com/gag/aP3zNmq)
- - 😝 [2nd day of walking practice on biotech c-legs. First time on a sidewalk with no grass.](http://9gag.com/gag/a1rBzmb)
- - 🚅 [Any movies, tvseries you knwo with these kinda moments?](http://9gag.com/gag/aV74NXK)<!-- MEMES:END -->
+ - 🚖 [Another example of &quot;Tinder vs reality&quot;](http://9gag.com/gag/a6E4Wmb)
+ - 🚯 [Tragically not hip anymore](http://9gag.com/gag/aqjB03L)
+ - 🚯 [Any movies, tvseries you knwo with these kinda moments?](http://9gag.com/gag/aV74NXK)
+ - 😝 [Needs more protein](http://9gag.com/gag/ayMZOgq)
+ - 🚅 [2nd day of walking practice on biotech c-legs. First time on a sidewalk with no grass.](http://9gag.com/gag/a1rBzmb)<!-- MEMES:END -->
 
 --- 
 
