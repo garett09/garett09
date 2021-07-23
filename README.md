@@ -186,11 +186,11 @@ Windows                  1 hr 7 mins         ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [You want some ram?](http://9gag.com/gag/aWjPKD3)
- - 🚯 [Caught in 4K](http://9gag.com/gag/aNp8yZ3)
- - 🚯 [Any movies, tvseries you knwo with these kinda moments?](http://9gag.com/gag/aV74NXK)
- - 😝 [Needs more protein](http://9gag.com/gag/ayMZOgq)
- - 🚅 [A fathers love](http://9gag.com/gag/av543Rn)<!-- MEMES:END -->
+ - 🚖 [This is my dad when he married my mom. I asked him, &quot;Why were you dressed like this to the wedding?&quot; and he said, &quot;Your mom invited me to the wedding, but she didn&#039;t tell me who.&quot;](http://9gag.com/gag/awMPqK8)
+ - 🚯 [Needs more protein](http://9gag.com/gag/ayMZOgq)
+ - 🚯 [A fathers love](http://9gag.com/gag/av543Rn)
+ - 😝 [Caught in 4K](http://9gag.com/gag/aNp8yZ3)
+ - 🚅 [When you get to meet the father in law (00:17)](http://9gag.com/gag/aDdrpwN)<!-- MEMES:END -->
 
 --- 
 
