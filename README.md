@@ -186,11 +186,11 @@ Windows                  1 hr 7 mins         ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Another example of &quot;Tinder vs reality&quot;](http://9gag.com/gag/a6E4Wmb)
- - 🚯 [Tragically not hip anymore](http://9gag.com/gag/aqjB03L)
+ - 🚖 [You want some ram?](http://9gag.com/gag/aWjPKD3)
+ - 🚯 [Caught in 4K](http://9gag.com/gag/aNp8yZ3)
  - 🚯 [Any movies, tvseries you knwo with these kinda moments?](http://9gag.com/gag/aV74NXK)
  - 😝 [Needs more protein](http://9gag.com/gag/ayMZOgq)
- - 🚅 [2nd day of walking practice on biotech c-legs. First time on a sidewalk with no grass.](http://9gag.com/gag/a1rBzmb)<!-- MEMES:END -->
+ - 🚅 [A fathers love](http://9gag.com/gag/av543Rn)<!-- MEMES:END -->
 
 --- 
 
