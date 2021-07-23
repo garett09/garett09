@@ -177,11 +177,11 @@ Windows                  1 hr 7 mins         ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung phones will be first to get Corning’s new Gorilla Glass for cameras](https://www.androidauthority.com/corning-gorilla-glass-dx-samsung-1648328)
+ - [Got a PS5? Then you can get six months of Apple TV Plus for free](https://www.androidauthority.com/apple-tv-plus-ps5-promotion-1648321)
  - [OnePlus 8T gets new update that still doesn’t include July 2021 patch](https://www.androidauthority.com/oneplus-8t-update-1173244)
  - [Tons of major sites go down, causing outages around the world](https://www.androidauthority.com/internet-outage-july-2021-1648119)
- - [Save 30% on the WD 1TB My Passport SSD, and more external hard drive deals](https://www.androidauthority.com/best-cheap-external-hard-drive-deals-1118021)
- - [Wear OS 3 is official name of new system, will come to these existing watches](https://www.androidauthority.com/wear-os-3-1648058)
- - [OnePlus Nord 2: Hot or not? (Poll)](https://www.androidauthority.com/oneplus-nord-2-hot-or-not-poll-1647691)<!-- TECH:END -->
+ - [Save 30% on the WD 1TB My Passport SSD, and more external hard drive deals](https://www.androidauthority.com/best-cheap-external-hard-drive-deals-1118021)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
