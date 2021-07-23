@@ -186,11 +186,11 @@ Windows                  1 hr 7 mins         ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [WTF](http://9gag.com/gag/aO3A5Pv)
- - 🚯 [The power of plastic surgery](http://9gag.com/gag/a9EZ06L)
- - 🚯 [Sit back and relax](http://9gag.com/gag/aP3zbgR)
- - 😝 [P keyboard](http://9gag.com/gag/aAbq9mg)
- - 🚅 [The Chordettes - Mr Sandman (1958)](http://9gag.com/gag/azMo3Xj)<!-- MEMES:END -->
+ - 🚖 [P keyboard](http://9gag.com/gag/aAbq9mg)
+ - 🚯 [The Chordettes - Mr Sandman (1958)](http://9gag.com/gag/azMo3Xj)
+ - 🚯 [This bar full of people pumping up a little guy who likes to raise his arms up for cheers!](http://9gag.com/gag/aQoBWm8)
+ - 😝 [How the turn tables](http://9gag.com/gag/aLpV7mA)
+ - 🚅 [Sit back and relax](http://9gag.com/gag/aP3zbgR)<!-- MEMES:END -->
 
 --- 
 
