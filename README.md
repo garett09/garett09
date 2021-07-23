@@ -177,11 +177,11 @@ Windows                  1 hr 7 mins         ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OnePlus Nord 2 gets first Oxygen OS update with camera improvements](https://www.androidauthority.com/oneplus-nord-2-updates-1648431)
+ - [Samsung patent hints at Galaxy Z Flip with Asus-style flippy camera](https://www.androidauthority.com/samsung-galaxy-z-flip-flipping-camera-patent-1648432)
  - [You told us: Looks, fit, or sound quality? Here’s what you value in TWS earbuds](https://www.androidauthority.com/true-wireless-earbuds-fit-poll-results-1648364)
  - [Relame brings two affordable smartwatches to India with long-lasting batteries](https://www.androidauthority.com/realme-watch-2-pro-india-launch-1648374)
- - [Poco F3 GT lands with 120Hz display, gaming triggers to take on OnePlus Nord 2](https://www.androidauthority.com/poco-f3-gt-1648316)
- - [Samsung phones will be first to get Corning’s new Gorilla Glass for cameras](https://www.androidauthority.com/corning-gorilla-glass-dx-samsung-1648328)
- - [Got a PS5? Then you can get six months of Apple TV Plus for free](https://www.androidauthority.com/apple-tv-plus-ps5-promotion-1648321)<!-- TECH:END -->
+ - [Poco F3 GT lands with 120Hz display, gaming triggers to take on OnePlus Nord 2](https://www.androidauthority.com/poco-f3-gt-1648316)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
