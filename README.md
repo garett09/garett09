@@ -177,11 +177,11 @@ Windows                  1 hr 7 mins         ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Save up to $500 on the Galaxy Tab S7 and more Samsung Galaxy Tab deals](https://www.androidauthority.com/best-cheap-samsung-galaxy-tab-deals-1119065)
  - [Dune, Malignant, Nine Perfect Strangers and more streaming trailers to watch](https://www.androidauthority.com/new-movie-trailers-1151533)
  - [Poll: Do you ever turn off 5G on your phone?](https://www.androidauthority.com/turn-off-5g-phone-poll-1648510)
  - [Google’s Olympics doodle is a slick 16-bit RPG that you should play](https://www.androidauthority.com/google-doodle-olympics-rpg-1648515)
- - [Daily Authority: Nord misaligned 🧭](https://www.androidauthority.com/newsletters/da-july-23-2021)
- - [This is Motorola’s upcoming 5G mid-ranger with a 120Hz display, 108MP camera](https://www.androidauthority.com/motorola-edge-20-1648456)<!-- TECH:END -->
+ - [Daily Authority: Nord misaligned 🧭](https://www.androidauthority.com/newsletters/da-july-23-2021)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
