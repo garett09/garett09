@@ -177,11 +177,11 @@ Windows                  1 hr 7 mins         ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Poll: Do you ever turn off 5G on your phone?](https://www.androidauthority.com/turn-off-5g-phone-poll-1648510)
  - [Google’s Olympics doodle is a slick 16-bit RPG that you should play](https://www.androidauthority.com/google-doodle-olympics-rpg-1648515)
  - [Daily Authority: Nord misaligned 🧭](https://www.androidauthority.com/newsletters/da-july-23-2021)
  - [This is Motorola’s upcoming 5G mid-ranger with a 120Hz display, 108MP camera](https://www.androidauthority.com/motorola-edge-20-1648456)
- - [OnePlus Nord 2 gets first Oxygen OS update with camera improvements](https://www.androidauthority.com/oneplus-nord-2-updates-1648431)
- - [Samsung patent hints at Galaxy Z Flip with Asus-style flippy camera](https://www.androidauthority.com/samsung-galaxy-z-flip-flipping-camera-patent-1648432)<!-- TECH:END -->
+ - [OnePlus Nord 2 gets first Oxygen OS update with camera improvements](https://www.androidauthority.com/oneplus-nord-2-updates-1648431)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
