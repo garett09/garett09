@@ -186,11 +186,11 @@ Windows                  1 hr 7 mins         ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Witcher is getting an Animated series from the same guys who did Castlevania and it&#039;s about Younger Vesemir](http://9gag.com/gag/azMoW3z)
- - 🚯 [Valid](http://9gag.com/gag/azMoWGj)
- - 🚯 [Guys! I&#039;m a Doctor!!!](http://9gag.com/gag/azMop2j)
- - 😝 [This is where you can find IBEX in Pakistan](http://9gag.com/gag/aqjBoMp)
- - 🚅 [This does put a](http://9gag.com/gag/aGp6mp0)<!-- MEMES:END -->
+ - 🚖 [A village in India saved a drowning elephant&rsquo;s life](http://9gag.com/gag/aGp6m6w)
+ - 🚯 [Increase your jail time 10x with one simple trick](http://9gag.com/gag/aeAynwB)
+ - 🚯 [German firefighters resting in the middle of the street after the flood in Germany. Respect for all the heroes doing theire best.](http://9gag.com/gag/abVKN0B)
+ - 😝 [This does put a](http://9gag.com/gag/aGp6mp0)
+ - 🚅 [Double standards](http://9gag.com/gag/aZ0o6mV)<!-- MEMES:END -->
 
 --- 
 
