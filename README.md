@@ -186,11 +186,11 @@ Windows                  1 hr 7 mins         ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Time flies](http://9gag.com/gag/a7EPXQm)
- - 🚯 [Hutch is right](http://9gag.com/gag/aRX9q0j)
- - 🚯 [WTF](http://9gag.com/gag/aO3A5Pv)
+ - 🚖 [WTF](http://9gag.com/gag/aO3A5Pv)
+ - 🚯 [The power of plastic surgery](http://9gag.com/gag/a9EZ06L)
+ - 🚯 [Sit back and relax](http://9gag.com/gag/aP3zbgR)
  - 😝 [P keyboard](http://9gag.com/gag/aAbq9mg)
- - 🚅 [The power of plastic surgery](http://9gag.com/gag/a9EZ06L)<!-- MEMES:END -->
+ - 🚅 [The Chordettes - Mr Sandman (1958)](http://9gag.com/gag/azMo3Xj)<!-- MEMES:END -->
 
 --- 
 
