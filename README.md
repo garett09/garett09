@@ -186,11 +186,11 @@ Windows                  1 hr 7 mins         ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How the turn tables](http://9gag.com/gag/aLpV7mA)
+ - 🚖 [Tuh&middot;maa&middot;tow / tuh&middot;may&middot;tow problemo](http://9gag.com/gag/aK6nQ11)
  - 🚯 [No banana. Normal Hooman toilet for scale](http://9gag.com/gag/a7EPYZm)
- - 🚯 [Flying a Boeing C-17 Globemaster through the middle of a city in Australia.](http://9gag.com/gag/aGp64j0)
- - 😝 [These type of people need professional help.](http://9gag.com/gag/aoMAQqm)
- - 🚅 [FYI. It is sad truth of supply and demand.](http://9gag.com/gag/aeAyngQ)<!-- MEMES:END -->
+ - 🚯 [These type of people need professional help.](http://9gag.com/gag/aoMAQqm)
+ - 😝 [This does put a](http://9gag.com/gag/aGp6mp0)
+ - 🚅 [This is where you can find IBEX in Pakistan](http://9gag.com/gag/aqjBoMp)<!-- MEMES:END -->
 
 --- 
 
