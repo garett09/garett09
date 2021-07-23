@@ -186,11 +186,11 @@ Windows                  1 hr 7 mins         ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Saw many of these memes..here is another one](http://9gag.com/gag/aP3z2gK)
- - 🚯 [Time flies](http://9gag.com/gag/a7EPXQm)
- - 🚯 [P keyboard](http://9gag.com/gag/aAbq9mg)
- - 😝 [Nooo my dog!!!](http://9gag.com/gag/a5Evgjr)
- - 🚅 [WTF](http://9gag.com/gag/aO3A5Pv)<!-- MEMES:END -->
+ - 🚖 [Time flies](http://9gag.com/gag/a7EPXQm)
+ - 🚯 [Hutch is right](http://9gag.com/gag/aRX9q0j)
+ - 🚯 [WTF](http://9gag.com/gag/aO3A5Pv)
+ - 😝 [P keyboard](http://9gag.com/gag/aAbq9mg)
+ - 🚅 [The power of plastic surgery](http://9gag.com/gag/a9EZ06L)<!-- MEMES:END -->
 
 --- 
 
