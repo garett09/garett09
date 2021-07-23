@@ -186,11 +186,11 @@ Windows                  1 hr 7 mins         ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [P keyboard](http://9gag.com/gag/aAbq9mg)
- - 🚯 [The Chordettes - Mr Sandman (1958)](http://9gag.com/gag/azMo3Xj)
- - 🚯 [This bar full of people pumping up a little guy who likes to raise his arms up for cheers!](http://9gag.com/gag/aQoBWm8)
- - 😝 [How the turn tables](http://9gag.com/gag/aLpV7mA)
- - 🚅 [Sit back and relax](http://9gag.com/gag/aP3zbgR)<!-- MEMES:END -->
+ - 🚖 [How much do you cost?](http://9gag.com/gag/aV74yKy)
+ - 🚯 [Sit back and relax](http://9gag.com/gag/aP3zbgR)
+ - 🚯 [These type of people need professional help.](http://9gag.com/gag/aoMAQqm)
+ - 😝 [This bar full of people pumping up a little guy who likes to raise his arms up for cheers!](http://9gag.com/gag/aQoBWm8)
+ - 🚅 [How the turn tables](http://9gag.com/gag/aLpV7mA)<!-- MEMES:END -->
 
 --- 
 
