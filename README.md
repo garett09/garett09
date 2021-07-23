@@ -168,11 +168,11 @@ Windows                  1 hr 7 mins         ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Official PlayStation Podcast 404: Episode Not Found](http://feedproxy.google.com/~r/PSBlog/~3/j2fVnLORxCg/)
  - [Share of the Week: Ghost of Tsushima – One Year Anniversary](http://feedproxy.google.com/~r/PSBlog/~3/D_OgjnRNdUs/)
  - [Grid Legends revealed: Become a legend in a blockbuster racer](http://feedproxy.google.com/~r/PSBlog/~3/y4h85N7RzhU/)
  - [I Expect You To Die 2: PS VR follow-up gets an August 24 release date](http://feedproxy.google.com/~r/PSBlog/~3/HRovs0c-3hY/)
- - [Ratchet and Clank blast into Fall Guys for Limited Time Events and unique rewards](http://feedproxy.google.com/~r/PSBlog/~3/QyG88EySMd0/)
- - [Ghost of Tsushima: Journey into the dark secrets of Iki Island](http://feedproxy.google.com/~r/PSBlog/~3/FWoCqeKsQzo/)<!-- GAME:END -->
+ - [Ratchet and Clank blast into Fall Guys for Limited Time Events and unique rewards](http://feedproxy.google.com/~r/PSBlog/~3/QyG88EySMd0/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
