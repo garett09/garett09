@@ -186,11 +186,11 @@ Windows                  1 hr 7 mins         ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How much do you cost?](http://9gag.com/gag/aV74yKy)
- - 🚯 [Sit back and relax](http://9gag.com/gag/aP3zbgR)
- - 🚯 [These type of people need professional help.](http://9gag.com/gag/aoMAQqm)
- - 😝 [This bar full of people pumping up a little guy who likes to raise his arms up for cheers!](http://9gag.com/gag/aQoBWm8)
- - 🚅 [How the turn tables](http://9gag.com/gag/aLpV7mA)<!-- MEMES:END -->
+ - 🚖 [Sit back and relax](http://9gag.com/gag/aP3zbgR)
+ - 🚯 [Last year my wife almost didn&#039;t make it. When she recovered she started cooking like crazy and sharing her recipes online.](http://9gag.com/gag/aYoZ0MV)
+ - 🚯 [This bar full of people pumping up a little guy who likes to raise his arms up for cheers!](http://9gag.com/gag/aQoBWm8)
+ - 😝 [How the turn tables](http://9gag.com/gag/aLpV7mA)
+ - 🚅 [German firefighters resting in the middle of the street after the flood in Germany. Respect for all the heroes doing theire best.](http://9gag.com/gag/abVKN0B)<!-- MEMES:END -->
 
 --- 
 
