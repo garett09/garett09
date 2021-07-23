@@ -186,9 +186,9 @@ Windows                  1 hr 7 mins         ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This what woke culture look like](http://9gag.com/gag/amPKejo)
- - 🚯 [FYI. It is sad truth of supply and demand.](http://9gag.com/gag/aeAyngQ)
- - 🚯 [Who&#039;s turn is it? Fine I&#039;ll post it Never Forget](http://9gag.com/gag/a6E4PrL)
+ - 🚖 [Dadadadadadadada](http://9gag.com/gag/aeAyLYq)
+ - 🚯 [This what woke culture look like](http://9gag.com/gag/amPKejo)
+ - 🚯 [Japanese dude went to the grocery store with a WW2-era Kettenkrad (Sd.Kfz.2), what a mad lad](http://9gag.com/gag/aV74Avd)
  - 😝 [I would take a roll of coarse toilet paper over a Xylospongium any day](http://9gag.com/gag/aP3z5Mq)
  - 🚅 [This guy house walls getting hit by car accident 2 times in 4 days!](http://9gag.com/gag/aMKDgwR)<!-- MEMES:END -->
 
