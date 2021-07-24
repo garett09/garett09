@@ -175,9 +175,9 @@ Windows                  1 hr 46 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Robinhood’s IPO roadshow answered questions I wasn’t asking](https://www.theverge.com/2021/7/24/22592076/robinhood-ipo-roadshow-tenev-questions)
  - [Amazon slashes $400 to $500 off Apple's 16-inch MacBook Pro, prices from $1,999](https://appleinsider.com/articles/21/07/23/amazon-slashes-400-to-500-off-apples-16-inch-macbook-pro-prices-from-1999?utm_medium=rss)
- - [WhatsApp CEO takes issue with NSO's denials of iPhone Pegasus hacks](https://appleinsider.com/articles/21/07/24/whatsapp-ceo-refutes-nsos-denials-on-iphone-pegasus-hacks?utm_medium=rss)
- - [Unihertz Atom XL review: Walkie-talkie meets smartphone](https://www.androidauthority.com/unihertz-atom-xl-review-1240423)<!-- TECH:END -->
+ - [WhatsApp CEO takes issue with NSO's denials of iPhone Pegasus hacks](https://appleinsider.com/articles/21/07/24/whatsapp-ceo-refutes-nsos-denials-on-iphone-pegasus-hacks?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
