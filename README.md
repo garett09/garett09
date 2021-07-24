@@ -177,11 +177,9 @@ Windows                  1 hr 46 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sony Xperia 1 III camera tested: Zoom or bust](https://www.androidauthority.com/sony-xperia-1-iii-camera-test-1638849)
  - [Uncertainty about the nature of the list of 50K potential Pegasus targets created confusion and controversy, but doesn't negate the investigation's key findings (Kim Zetter/Zero Day)](http://www.techmeme.com/210724/p4#a210724p4)
- - [Sweetch, which has developed an AI-powered app that aims to increase patient compliance and boost health outcomes, raises $20M Series A led by Entre&eacute; Capital (Emma Betuel/TechCrunch)](http://www.techmeme.com/210724/p3#a210724p3)
- - [China's antitrust authorities order Tencent Music to end its exclusive music licensing deals with global record labels within 30 days and impose a fine of ~$77K (Joanna Tan/CNBC)](http://www.techmeme.com/210724/p2#a210724p2)
- - [China orders Tencent Music to relinquish exclusive licensing deals (South China Morning Post)](http://www.techmeme.com/210724/p1#a210724p1)
- - [Experts working with companies affected by the Kaseya ransomware attack say Kaseya is requiring companies to sign NDAs before providing access to decryption key (CNN)](http://www.techmeme.com/210723/p36#a210723p36)<!-- TECH:END -->
+ - [Sweetch, which has developed an AI-powered app that aims to increase patient compliance and boost health outcomes, raises $20M Series A led by Entre&eacute; Capital (Emma Betuel/TechCrunch)](http://www.techmeme.com/210724/p3#a210724p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
