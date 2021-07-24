@@ -186,11 +186,11 @@ Windows                  1 hr 46 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Tell me you play Skyrim without actually telling me you&#039;re playing Skyrim](http://9gag.com/gag/aGp6Pow)
- - 🚯 [True.](http://9gag.com/gag/ad8r3mj)
- - 🚯 [2nd day of walking practice on biotech c-legs. First time on a sidewalk with no grass.](http://9gag.com/gag/a1rBzmb)
- - 😝 [Totally normal stuff](http://9gag.com/gag/aXoQ8dz)
- - 🚅 [Caught in 4K](http://9gag.com/gag/aNp8yZ3)<!-- MEMES:END -->
+ - 🚖 [He is OK, I hope](http://9gag.com/gag/aK6nbR3)
+ - 🚯 [Caught in 4K](http://9gag.com/gag/aNp8yZ3)
+ - 🚯 [Totally normal stuff](http://9gag.com/gag/aXoQ8dz)
+ - 😝 [Frightening movie visual effects from 1937](http://9gag.com/gag/aeAqKr5)
+ - 🚅 [True.](http://9gag.com/gag/ad8r3mj)<!-- MEMES:END -->
 
 --- 
 
