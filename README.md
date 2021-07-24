@@ -182,9 +182,9 @@ Windows                  1 hr 46 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Grandma Showcases Smooth Drum Doubles](http://9gag.com/gag/ad8WY82)
- - 🚯 [Dam Son...](http://9gag.com/gag/ajm30Q8)
- - 🚯 [Amen to that](http://9gag.com/gag/a3Ez3Z8)<!-- MEMES:END -->
+ - 🚖 [Skills B*TCH](http://9gag.com/gag/a3Ez3y3)
+ - 🚯 [Grandma Showcases Smooth Drum Doubles](http://9gag.com/gag/ad8WY82)
+ - 🚯 [Paralympic athletes bench pressing 305kg/ 673lbs for a world record.](http://9gag.com/gag/aYovpzO)<!-- MEMES:END -->
 
 --- 
 
