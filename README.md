@@ -175,9 +175,9 @@ Windows                  1 hr 46 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Genki ShadowCast review: a clever but limited capture card](https://www.theverge.com/22590853/genki-shadowcast-review-hdmi-usb-capture-card-nintendo-switch-ps5-ps4-pc-macos)
- - [Did Apple leak the M1 16-inch MacBook Pro? -- This Week in Apple](https://appleinsider.com/articles/21/07/24/did-apple-leak-the-m1-16-inch-macbook-pro----this-week-in-apple?utm_medium=rss)
- - [Sendlane, which helps e-commerce companies automate email and SMS marketing, raises $20M Series A; CEO says Sendlane, which is seeing $7M+ in ARR, is profitable (Christine Hall/TechCrunch)](http://www.techmeme.com/210724/p6#a210724p6)<!-- TECH:END -->
+ - [Best deals for July 24 - Nanoleaf Shapes starter kits, standing desk, TP-Link Router](https://appleinsider.com/articles/21/07/24/best-deals-for-july-24---20-off-nanoleaf-shapes-starter-kits?utm_medium=rss)
+ - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-390-1649399)
+ - [New job posting shows Amazon seeking a digital currency and blockchain expert](https://www.theverge.com/2021/7/24/22591754/amazon-hiring-cryptocurrency-aws-payments-jassy)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
