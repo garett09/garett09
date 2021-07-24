@@ -175,9 +175,9 @@ Windows                  1 hr 46 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony Xperia 1 III camera tested: Zoom or bust](https://www.androidauthority.com/sony-xperia-1-iii-camera-test-1638849)
- - [Apple's fall event 2021: When is it and what do we expect?     - CNET](https://www.cnet.com/tech/mobile/apples-fall-event-2021-when-is-it-and-what-do-we-expect/#ftag=CAD590a51e)
- - [Uncertainty about the nature of the list of 50K potential Pegasus targets created confusion and controversy, but doesn't negate the investigation's key findings (Kim Zetter/Zero Day)](http://www.techmeme.com/210724/p4#a210724p4)<!-- TECH:END -->
+ - [Event management software company Cvent is going public by merging with a SPAC at a valuation of $5.3B; Cvent was taken private in 2016 by Vista Equity Partners (Niket Nishant/Reuters)](http://www.techmeme.com/210724/p5#a210724p5)
+ - [The 16 Best Weekend Deals on Headphones, Soundbars, and More](https://www.wired.com/story/weekend-deals-july-24-2021)
+ - [Space Jam and the Fury of an Algorithm Scorned](https://www.wired.com/story/space-jam-algorithm-mitchells-machines-ai-scorned)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
