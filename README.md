@@ -182,7 +182,7 @@ Windows                  1 hr 46 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A story in four parts](http://9gag.com/gag/aB2bKnZ)
+ - 🚖 [Help me step bro. I&#039;m stuck.](http://9gag.com/gag/aGpr95n)
  - 🚯 [Legends](http://9gag.com/gag/av5B0pd)
  - 🚯 [The way he guides](http://9gag.com/gag/aGprYPw)<!-- MEMES:END -->
 
