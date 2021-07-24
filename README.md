@@ -168,9 +168,9 @@ Windows                  1 hr 46 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Rick and Morty vs. D&D actual play is Comic-Con’s nerdiest crossover event](https://www.polygon.com/22587354/dungeons-dragons-rick-and-morty-actual-play-sdcc-satine-phoenix)
- - [Red Dead Online Is Currently Filled With Weird, Out-Of-Control Horses](https://kotaku.com/red-dead-online-is-currently-filled-with-weird-out-of-1847355773)
- - [11 great movies leaving Netflix, Hulu, and Amazon at the end of July](https://www.polygon.com/2021/7/24/22588877/best-movies-netflix-amazon-hulu-leaving-july-2021)<!-- GAME:END -->
+ - [The Dragon Prince SDCC 2021 panel dropped lots of out-of-context clues and spoilers](https://www.polygon.com/animation-cartoons/22591857/dragon-prince-season-4-sdcc-2021)
+ - [Heavy Metal Publishing wants you to know it’s still rocking post-pandemic](https://www.polygon.com/comics/22591860/sdcc-2021-heavy-metal-comics-news-steve-orlando-dan-fogler-romero)
+ - [Rick and Morty vs. D&D actual play is Comic-Con’s nerdiest crossover event](https://www.polygon.com/22587354/dungeons-dragons-rick-and-morty-actual-play-sdcc-satine-phoenix)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
