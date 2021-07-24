@@ -186,10 +186,10 @@ Windows                  1 hr 46 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [He is OK, I hope](http://9gag.com/gag/aK6nbR3)
- - 🚯 [Caught in 4K](http://9gag.com/gag/aNp8yZ3)
+ - 🚖 [Caught in 4K](http://9gag.com/gag/aNp8yZ3)
+ - 🚯 [He is OK, I hope](http://9gag.com/gag/aK6nbR3)
  - 🚯 [Totally normal stuff](http://9gag.com/gag/aXoQ8dz)
- - 😝 [Frightening movie visual effects from 1937](http://9gag.com/gag/aeAqKr5)
+ - 😝 [In the last few days I often seen posts about new bikes/cars. I present you now my beast of a cleaning trolley. it has one human power, 4x4 and is as fast as I can run.](http://9gag.com/gag/aP3zKOg)
  - 🚅 [True.](http://9gag.com/gag/ad8r3mj)<!-- MEMES:END -->
 
 --- 
