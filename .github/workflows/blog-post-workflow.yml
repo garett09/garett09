@@ -14,7 +14,7 @@ jobs:
           comment_tag_name: TECH
           commit_message: "[AUTOMATED] Updated tech articles"
           committer_username: garett09
-          disable_sort: True
+          disable_sort: False
           template: $newline - [$title]($url)
           feed_list: "http://feeds.feedburner.com/androidauthority,http://news.cnet.com/2547-1_3-0-20.xml,http://feeds.feedburner.com/Techcrunch,http://www.theverge.com/rss/full.xml"
           committer_email: adriansian@gmail.com
@@ -23,18 +23,18 @@ jobs:
         with:
           comment_tag_name: MEMES
           commit_message: "[AUTOMATED] New batch of memes  🖕🏻"
-          disable_sort: True
+          disable_sort: False
           committer_username: garett09
           template: $newline - $randomEmoji(😝,👱,📀,🚖,🚅,⏩,💣,👉,6️⃣,🚯) [$title]($url)
           committer_email: adriansian@gmail.com
-          feed_list: "http://9gagrss.com/feed/,https://www.reddit.com/r/funny/.rss"
+          feed_list: "http://9gagrss.com/feed/,https://www.reddit.com/r/funny/.rss,https://www.reddit.com/r/memes/.rss"
           
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: GAME
           commit_message: "[AUTOMATED] Gaming updates"
-          disable_sort: True
+          disable_sort: False
           committer_username: garett09
           template: $newline - [$title]($url)
           committer_email: adriansian@gmail.com
-          feed_list: "http://feeds.feedburner.com/PSBlog,http://feedproxy.google.com/GameRant,http://www.polygon.com/rss/index.xml"
+          feed_list: "http://feeds.feedburner.com/PSBlog,http://feedproxy.google.com/GameRant,http://www.polygon.com/rss/index.xml,https://kotaku.com/rss,https://www.pcgamer.com/rss/,https://blog.playstation.com/feed/"
