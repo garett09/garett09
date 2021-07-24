@@ -182,7 +182,11 @@ Windows                  1 hr 46 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
-<!-- MEMES:END -->
+ - 🚖 [This is what fairness look like.](http://9gag.com/gag/aP3zNmq)
+ - 🚯 [Removing old varnish from a painting during restoration](http://9gag.com/gag/aO3noeM)
+ - 🚯 [Frightening movie visual effects from 1937](http://9gag.com/gag/aeAqKr5)
+ - 😝 [Damn dude, what the hek?](http://9gag.com/gag/aV79zY2)
+ - 🚅 [1800 drones above the National Stadium in Tokyo, Japan form a globe at the Tokyo2020 Olympics opening ceremony](http://9gag.com/gag/aDdrBrG)<!-- MEMES:END -->
 
 --- 
 
