@@ -175,9 +175,9 @@ Windows                  1 hr 46 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [WhatsApp CEO takes issues with NSO's denials on iPhone Pegasus hacks](https://appleinsider.com/articles/21/07/24/whatsapp-ceo-refutes-nsos-denials-on-iphone-pegasus-hacks?utm_medium=rss)
  - [The DL on CockroachDB](http://feedproxy.google.com/~r/Techcrunch/~3/l2F8A5Kxw_Y/)
- - [How to run Shortcuts on macOS Monterey](https://appleinsider.com/articles/21/07/24/how-to-run-shortcuts-on-macos-monterey?utm_medium=rss)
- - [Best deals for July 24 - Nanoleaf Shapes starter kits, standing desk, TP-Link Router](https://appleinsider.com/articles/21/07/24/best-deals-for-july-24---20-off-nanoleaf-shapes-starter-kits?utm_medium=rss)<!-- TECH:END -->
+ - [How to run Shortcuts on macOS Monterey](https://appleinsider.com/articles/21/07/24/how-to-run-shortcuts-on-macos-monterey?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
