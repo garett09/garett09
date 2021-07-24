@@ -168,9 +168,9 @@ Windows                  1 hr 46 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Star Wars team reveals the next, grim stage of The High Republic prequel initiative](https://www.polygon.com/sdcc/22591953/star-wars-high-republic-books-order-wave-3-sdcc-2021)
- - [I Played Those Zombie Games Following You Around The Internet So You Don't Have To](https://kotaku.com/i-played-those-zombie-games-following-you-around-the-in-1847356046)
- - [The Dragon Prince SDCC 2021 panel dropped lots of out-of-context clues and spoilers](https://www.polygon.com/animation-cartoons/22591857/dragon-prince-season-4-sdcc-2021)<!-- GAME:END -->
+ - [Todd McFarlane explains that King Spawn is not a king but he is a ‘king,’ in the Spawn-sense](https://www.polygon.com/sdcc/22592050/king-spawn-comic-con-todd-mcfarlane-toys-sdcc-2021)
+ - [Dark Horse promises ‘It’s not just straight white boy comics anymore’](https://www.polygon.com/sdcc/22592007/comic-con-dark-horse-comics-news-sdcc-2021)
+ - [Star Wars team reveals the next, grim stage of The High Republic prequel initiative](https://www.polygon.com/sdcc/22591953/star-wars-high-republic-books-order-wave-3-sdcc-2021)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
