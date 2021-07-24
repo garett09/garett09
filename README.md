@@ -168,9 +168,9 @@ Windows                  1 hr 46 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Dragon Prince SDCC 2021 panel dropped lots of out-of-context clues and spoilers](https://www.polygon.com/animation-cartoons/22591857/dragon-prince-season-4-sdcc-2021)
- - [Heavy Metal Publishing wants you to know it’s still rocking post-pandemic](https://www.polygon.com/comics/22591860/sdcc-2021-heavy-metal-comics-news-steve-orlando-dan-fogler-romero)
- - [Rick and Morty vs. D&D actual play is Comic-Con’s nerdiest crossover event](https://www.polygon.com/22587354/dungeons-dragons-rick-and-morty-actual-play-sdcc-satine-phoenix)<!-- GAME:END -->
+ - [Star Wars team reveals the next, grim stage of The High Republic prequel initiative](https://www.polygon.com/sdcc/22591953/star-wars-high-republic-books-order-wave-3-sdcc-2021)
+ - [I Played Those Zombie Games Following You Around The Internet So You Don't Have To](https://kotaku.com/i-played-those-zombie-games-following-you-around-the-in-1847356046)
+ - [The Dragon Prince SDCC 2021 panel dropped lots of out-of-context clues and spoilers](https://www.polygon.com/animation-cartoons/22591857/dragon-prince-season-4-sdcc-2021)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
