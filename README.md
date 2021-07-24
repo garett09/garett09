@@ -168,9 +168,9 @@ Windows                  1 hr 46 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [DC Comics is taking Superman to War(world)](https://www.polygon.com/sdcc/22592130/comic-con-new-superman-comic-warworld-grant-morrison-dc-comics-tom-taylor)
- - [Stephen Amell and Loki creator enter the SDCC ring for Heels](https://www.polygon.com/sdcc/22592047/comic-con-stephen-amell-alexander-ludwig-heels-cast-sdcc-2021)
- - [Todd McFarlane explains that King Spawn is not a king but he is a ‘king,’ in the Spawn-sense](https://www.polygon.com/sdcc/22592050/king-spawn-comic-con-todd-mcfarlane-toys-sdcc-2021)<!-- GAME:END -->
+ - [There’ll be new Dune stories in the future, no matter how the movie does](https://www.polygon.com/sdcc/22592133/new-dune-books-comics-comic-con-sdcc-2021)
+ - [Robert Kirkman promises more Invincible, more Walking Dead, and beyond](https://www.polygon.com/sdcc/22592173/invincible-comic-con-robert-kirkman-walking-dead-sdcc-2021)
+ - [DC Comics is taking Superman to War(world)](https://www.polygon.com/sdcc/22592130/comic-con-new-superman-comic-warworld-grant-morrison-dc-comics-tom-taylor)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
