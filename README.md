@@ -186,11 +186,11 @@ Windows                  1 hr 46 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This is my dad when he married my mom. I asked him, &quot;Why were you dressed like this to the wedding?&quot; and he said, &quot;Your mom invited me to the wedding, but she didn&#039;t tell me who.&quot;](http://9gag.com/gag/awMPqK8)
- - 🚯 [A fathers love](http://9gag.com/gag/av543Rn)
- - 🚯 [When you get to meet the father in law (00:17)](http://9gag.com/gag/aDdrpwN)
- - 😝 [1800 drones above the National Stadium in Tokyo, Japan form a globe at the Tokyo2020 Olympics opening ceremony](http://9gag.com/gag/aDdrBrG)
- - 🚅 [2nd day of walking practice on biotech c-legs. First time on a sidewalk with no grass.](http://9gag.com/gag/a1rBzmb)<!-- MEMES:END -->
+ - 🚖 [Tell me you play Skyrim without actually telling me you&#039;re playing Skyrim](http://9gag.com/gag/aGp6Pow)
+ - 🚯 [True.](http://9gag.com/gag/ad8r3mj)
+ - 🚯 [2nd day of walking practice on biotech c-legs. First time on a sidewalk with no grass.](http://9gag.com/gag/a1rBzmb)
+ - 😝 [Totally normal stuff](http://9gag.com/gag/aXoQ8dz)
+ - 🚅 [Caught in 4K](http://9gag.com/gag/aNp8yZ3)<!-- MEMES:END -->
 
 --- 
 
