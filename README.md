@@ -186,11 +186,11 @@ Windows                  1 hr 46 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Caught in 4K](http://9gag.com/gag/aNp8yZ3)
- - 🚯 [In the last few days I often seen posts about new bikes/cars. I present you now my beast of a cleaning trolley. it has one human power, 4x4 and is as fast as I can run.](http://9gag.com/gag/aP3zKOg)
+ - 🚖 [Thats why you need solid fundations](http://9gag.com/gag/aMK0eZP)
+ - 🚯 [Another example of &quot;Tinder vs reality&quot;](http://9gag.com/gag/a6E4Wmb)
  - 🚯 [Totally normal stuff](http://9gag.com/gag/aXoQ8dz)
  - 😝 [He is OK, I hope](http://9gag.com/gag/aK6nbR3)
- - 🚅 [Another example of &quot;Tinder vs reality&quot;](http://9gag.com/gag/a6E4Wmb)<!-- MEMES:END -->
+ - 🚅 [Removing old varnish from a painting during restoration](http://9gag.com/gag/aO3noeM)<!-- MEMES:END -->
 
 --- 
 
