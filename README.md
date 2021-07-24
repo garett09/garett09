@@ -182,9 +182,9 @@ Windows                  1 hr 46 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Nothing is fun anymore](http://9gag.com/gag/axMednb)
- - 🚯 [REALLY](http://9gag.com/gag/a07D9YO)
- - 🚯 [Taiwan isn&rsquo;t allowed to compete in the Olympics with their name, flag, or anthem](http://9gag.com/gag/aAbLBAo)<!-- MEMES:END -->
+ - 🚖 [As if there are other options](http://9gag.com/gag/azMvgQZ)
+ - 🚯 [Tongue fu.](http://9gag.com/gag/aB2bKGP)
+ - 🚯 [Legends](http://9gag.com/gag/av5B0pd)<!-- MEMES:END -->
 
 --- 
 
