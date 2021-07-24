@@ -168,9 +168,9 @@ Windows                  1 hr 46 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [It took me two years and 300 hours to beat Sekiro](https://www.polygon.com/22580009/sekiro-shadows-die-twice-difficulty-corrupt-save-fromsoft)
- - [Adventure Time’s Wizard City will explore a Dark One’s past](https://www.polygon.com/sdcc/22591618/adventure-time-sdcc-2021-wizard-city-release-panel)
- - [Rick and Morty’s Comic-Con panel took Comic-Con as seriously as Rick and Morty would](https://www.polygon.com/sdcc/22590401/rick-and-morty-sdcc-2021-panel)<!-- GAME:END -->
+ - [Black Widow shows why the MCU’s closure problem is so crucial](https://www.polygon.com/22590942/black-widow-mcu-closure-problem)
+ - [Slugma Can Never Sleep](https://kotaku.com/slugma-can-never-sleep-1847353424)
+ - [It took me two years and 300 hours to beat Sekiro](https://www.polygon.com/22580009/sekiro-shadows-die-twice-difficulty-corrupt-save-fromsoft)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
