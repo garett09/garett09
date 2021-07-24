@@ -182,9 +182,9 @@ Windows                  1 hr 46 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [2nd day on tech legs. 1st time off a wall onto a hill. LFG!](http://9gag.com/gag/aK6XgAb)
- - 🚯 [Ronda Rousey at her best](http://9gag.com/gag/aGprVow)
- - 🚯 [Agile front loader working in heavy traffic](http://9gag.com/gag/abVLbGr)<!-- MEMES:END -->
+ - 🚖 [They rarely do that though](http://9gag.com/gag/aRX8P82)
+ - 🚯 [Amen to that](http://9gag.com/gag/a3Ez3Z8)
+ - 🚯 [Ronda Rousey at her best](http://9gag.com/gag/aGprVow)<!-- MEMES:END -->
 
 --- 
 
