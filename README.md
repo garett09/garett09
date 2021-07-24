@@ -175,9 +175,9 @@ Windows                  1 hr 46 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Apple Watch Series 6 is $279 at Best Buy and Amazon](https://www.theverge.com/good-deals/2021/7/24/22590778/apple-watch-series-6-deal-sale-ghost-of-tsushima-jabra-elite-85t-nintendo-switch-lite)
- - [Did Apple leak the M1 16-inch MacBook Pro? -- This Week in Apple](https://appleinsider.com/articles/21/07/24/did-apple-leak-the-m1-16-inch-macbook-pro----this-week-in-apple?utm_medium=rss)
- - [There’s only one feature I want from the Samsung Galaxy Z Fold 3: Affordability](https://www.androidauthority.com/samsung-galaxy-z-fold-3-price-1647293)<!-- TECH:END -->
+ - [How AI Will Help Keep Time at the Tokyo Olympics](https://www.wired.com/story/omega-olympics-beach-volleyball-time)
+ - [Super Mario 64 probably won’t be the last million-dollar video game](https://www.theverge.com/2021/7/24/22587929/super-mario-64-heritage-auctions-most-expensive-wata-games)
+ - [iPhone 13 vs. iPhone 12: The latest rumors about Apple's new iPhone lineup     - CNET](https://www.cnet.com/tech/mobile/iphone-13-vs-iphone-12-the-latest-rumors-about-apples-new-iphone-lineup/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
