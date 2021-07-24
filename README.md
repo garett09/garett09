@@ -168,9 +168,9 @@ Windows                  1 hr 46 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Rick and Morty’s Comic-Con panel took Comic-Con as seriously as Rick and Morty would](https://www.polygon.com/sdcc/22590401/rick-and-morty-sdcc-2021-panel)
  - [Crapshoot: Cool Yoda Stories, bro](https://www.pcgamer.com/saturday-crapshoot-yoda-stories)
- - [Ex Blizzard Boss Mike Morhaime To Women: 'I Failed You'](https://kotaku.com/ex-blizzard-boss-mike-morhaime-to-women-i-failed-you-1847354746)
- - [Blade Runner anime Black Lotus gets first trailer](https://www.polygon.com/sdcc/22590211/blade-runner-black-lotus-anime-first-trailer-crunchyroll-adult-swim)<!-- GAME:END -->
+ - [Ex Blizzard Boss Mike Morhaime To Women: 'I Failed You'](https://kotaku.com/ex-blizzard-boss-mike-morhaime-to-women-i-failed-you-1847354746)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
