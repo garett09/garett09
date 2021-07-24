@@ -177,11 +177,11 @@ Windows                  1 hr 46 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Save up to $500 on the Galaxy Tab S7 and more Samsung Galaxy Tab deals](https://www.androidauthority.com/best-cheap-samsung-galaxy-tab-deals-1119065)
- - [Dune, Malignant, Nine Perfect Strangers and more streaming trailers to watch](https://www.androidauthority.com/new-movie-trailers-1151533)
- - [Poll: Do you ever turn off 5G on your phone?](https://www.androidauthority.com/turn-off-5g-phone-poll-1648510)
- - [Google’s Olympics doodle is a slick 16-bit RPG that you should play](https://www.androidauthority.com/google-doodle-olympics-rpg-1648515)
- - [Daily Authority: Nord misaligned 🧭](https://www.androidauthority.com/newsletters/da-july-23-2021)<!-- TECH:END -->
+ - [Scientists discover ancient Roman road submerged in Venice lagoon     - CNET](https://www.cnet.com/news/scientists-discover-ancient-roman-road-submerged-in-venice-lagoon/#ftag=CAD590a51e)
+ - [In historic first, NASA spacecraft maps what lurks below surface of Mars     - CNET](https://www.cnet.com/news/in-historic-first-nasa-spacecraft-maps-what-lurks-below-surface-of-mars/#ftag=CAD590a51e)
+ - [Dragon Ball Super: Super Hero teaser reveals full movie title, confirms 2022 release     - CNET](https://www.cnet.com/news/dragon-ball-super-super-hero-teaser-reveals-full-movie-title-confirms-2022-release/#ftag=CAD590a51e)
+ - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
+ - [Facebook rolls out cloud games on Apple devices through a web app     - CNET](https://www.cnet.com/tech/mobile/facebook-rolls-out-cloud-games-on-apple-devices-through-a-web-app-safari-browser/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
