@@ -182,9 +182,9 @@ Windows                  1 hr 46 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Nothing is fun anymore](http://9gag.com/gag/axMednb)
- - 🚯 [My precious!!](http://9gag.com/gag/azMvggm)
- - 🚯 [Ways to trigger the happy chemicals in your brain](http://9gag.com/gag/aXom0Nb)<!-- MEMES:END -->
+ - 🚖 [No spoilers boys](http://9gag.com/gag/a8EvLN1)
+ - 🚯 [Ways to trigger the happy chemicals in your brain](http://9gag.com/gag/aXom0Nb)
+ - 🚯 [Nothing is fun anymore](http://9gag.com/gag/axMednb)<!-- MEMES:END -->
 
 --- 
 
