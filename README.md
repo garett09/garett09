@@ -186,10 +186,10 @@ Windows                  1 hr 46 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Thats why you need solid fundations](http://9gag.com/gag/aMK0eZP)
- - 🚯 [Another example of &quot;Tinder vs reality&quot;](http://9gag.com/gag/a6E4Wmb)
- - 🚯 [Totally normal stuff](http://9gag.com/gag/aXoQ8dz)
- - 😝 [He is OK, I hope](http://9gag.com/gag/aK6nbR3)
+ - 🚖 [Totally normal stuff](http://9gag.com/gag/aXoQ8dz)
+ - 🚯 [My precious!!](http://9gag.com/gag/azMvggm)
+ - 🚯 [He is OK, I hope](http://9gag.com/gag/aK6nbR3)
+ - 😝 [True.](http://9gag.com/gag/ad8r3mj)
  - 🚅 [Removing old varnish from a painting during restoration](http://9gag.com/gag/aO3noeM)<!-- MEMES:END -->
 
 --- 
