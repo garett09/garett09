@@ -182,9 +182,9 @@ Windows                  1 hr 46 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [No spoilers boys](http://9gag.com/gag/a8EvLN1)
- - 🚯 [Ways to trigger the happy chemicals in your brain](http://9gag.com/gag/aXom0Nb)
- - 🚯 [Nothing is fun anymore](http://9gag.com/gag/axMednb)<!-- MEMES:END -->
+ - 🚖 [Nothing is fun anymore](http://9gag.com/gag/axMednb)
+ - 🚯 [REALLY](http://9gag.com/gag/a07D9YO)
+ - 🚯 [Taiwan isn&rsquo;t allowed to compete in the Olympics with their name, flag, or anthem](http://9gag.com/gag/aAbLBAo)<!-- MEMES:END -->
 
 --- 
 
