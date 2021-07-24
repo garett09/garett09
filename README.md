@@ -168,9 +168,9 @@ Windows                  1 hr 46 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Rick and Morty’s Comic-Con panel took Comic-Con as seriously as Rick and Morty would](https://www.polygon.com/sdcc/22590401/rick-and-morty-sdcc-2021-panel)
- - [Crapshoot: Cool Yoda Stories, bro](https://www.pcgamer.com/saturday-crapshoot-yoda-stories)
- - [Ex Blizzard Boss Mike Morhaime To Women: 'I Failed You'](https://kotaku.com/ex-blizzard-boss-mike-morhaime-to-women-i-failed-you-1847354746)<!-- GAME:END -->
+ - [It took me two years and 300 hours to beat Sekiro](https://www.polygon.com/22580009/sekiro-shadows-die-twice-difficulty-corrupt-save-fromsoft)
+ - [Adventure Time’s Wizard City will explore a Dark One’s past](https://www.polygon.com/sdcc/22591618/adventure-time-sdcc-2021-wizard-city-release-panel)
+ - [Rick and Morty’s Comic-Con panel took Comic-Con as seriously as Rick and Morty would](https://www.polygon.com/sdcc/22590401/rick-and-morty-sdcc-2021-panel)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
