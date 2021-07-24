@@ -182,9 +182,9 @@ Windows                  1 hr 46 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Dam Son...](http://9gag.com/gag/ajm30Q8)
- - 🚯 [Best kind of prank](http://9gag.com/gag/aDdqwwK)
- - 🚯 [Korea doesn&#039;t give a f**k](http://9gag.com/gag/amPOXA6)<!-- MEMES:END -->
+ - 🚖 [Grandma Showcases Smooth Drum Doubles](http://9gag.com/gag/ad8WY82)
+ - 🚯 [Dam Son...](http://9gag.com/gag/ajm30Q8)
+ - 🚯 [Amen to that](http://9gag.com/gag/a3Ez3Z8)<!-- MEMES:END -->
 
 --- 
 
