@@ -175,9 +175,9 @@ Windows                  1 hr 46 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How AI Will Help Keep Time at the Tokyo Olympics](https://www.wired.com/story/omega-olympics-beach-volleyball-time)
- - [Super Mario 64 probably won’t be the last million-dollar video game](https://www.theverge.com/2021/7/24/22587929/super-mario-64-heritage-auctions-most-expensive-wata-games)
- - [iPhone 13 vs. iPhone 12: The latest rumors about Apple's new iPhone lineup     - CNET](https://www.cnet.com/tech/mobile/iphone-13-vs-iphone-12-the-latest-rumors-about-apples-new-iphone-lineup/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple MagSafe Battery Pack Review: Great, but controversial](https://appleinsider.com/articles/21/07/24/apple-magsafe-battery-pack-review-great-but-controversy-abound?utm_medium=rss)
+ - [Apple, Fitbit, and other fitness trackers have biases you need to be aware of](https://www.androidauthority.com/fitness-tracker-bias-1645548)
+ - [The Senate’s E-BIKE Act could make electric bikes a lot cheaper](https://www.theverge.com/2021/7/24/22590792/ebike-act-senate-brian-schatz-tax-credit-infrastructure)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
