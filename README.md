@@ -186,11 +186,11 @@ Windows                  1 hr 46 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Removing old varnish from a painting during restoration](http://9gag.com/gag/aO3noeM)
+ - 🚖 [1800 drones above the National Stadium in Tokyo, Japan form a globe at the Tokyo2020 Olympics opening ceremony](http://9gag.com/gag/aDdrBrG)
  - 🚯 [Just a little help needed](http://9gag.com/gag/aYovNKv)
- - 🚯 [Frightening movie visual effects from 1937](http://9gag.com/gag/aeAqKr5)
- - 😝 [1800 drones above the National Stadium in Tokyo, Japan form a globe at the Tokyo2020 Olympics opening ceremony](http://9gag.com/gag/aDdrBrG)
- - 🚅 [Damn dude, what the hek?](http://9gag.com/gag/aV79zY2)<!-- MEMES:END -->
+ - 🚯 [Damn dude, what the hek?](http://9gag.com/gag/aV79zY2)
+ - 😝 [My precious!!](http://9gag.com/gag/azMvggm)
+ - 🚅 [Happy 20 years to this masterpiece, my 1st game on my PC](http://9gag.com/gag/a8EvL4O)<!-- MEMES:END -->
 
 --- 
 
