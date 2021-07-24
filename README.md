@@ -176,8 +176,8 @@ Windows                  1 hr 46 mins        ███████████�
 
 <!-- TECH:START -->
  - [Sony Xperia 1 III camera tested: Zoom or bust](https://www.androidauthority.com/sony-xperia-1-iii-camera-test-1638849)
- - [Uncertainty about the nature of the list of 50K potential Pegasus targets created confusion and controversy, but doesn't negate the investigation's key findings (Kim Zetter/Zero Day)](http://www.techmeme.com/210724/p4#a210724p4)
- - [Sweetch, which has developed an AI-powered app that aims to increase patient compliance and boost health outcomes, raises $20M Series A led by Entre&eacute; Capital (Emma Betuel/TechCrunch)](http://www.techmeme.com/210724/p3#a210724p3)<!-- TECH:END -->
+ - [Apple's fall event 2021: When is it and what do we expect?     - CNET](https://www.cnet.com/tech/mobile/apples-fall-event-2021-when-is-it-and-what-do-we-expect/#ftag=CAD590a51e)
+ - [Uncertainty about the nature of the list of 50K potential Pegasus targets created confusion and controversy, but doesn't negate the investigation's key findings (Kim Zetter/Zero Day)](http://www.techmeme.com/210724/p4#a210724p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
