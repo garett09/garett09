@@ -170,9 +170,7 @@ Windows                  1 hr 46 mins        ███████████�
 <!-- GAME:START -->
  - [Ex Blizzard Boss Mike Morhaime To Women: 'I Failed You'](https://kotaku.com/ex-blizzard-boss-mike-morhaime-to-women-i-failed-you-1847354746)
  - [Blade Runner anime Black Lotus gets first trailer](https://www.polygon.com/sdcc/22590211/blade-runner-black-lotus-anime-first-trailer-crunchyroll-adult-swim)
- - [Activision Blizzard employees denounce corporate statements: 'We are here, angry, and not so easily silenced'](https://www.pcgamer.com/activision-blizzard-employees-denounce-corporate-statements-we-are-here-angry-and-not-so-easily-silenced)
- - [Blood Red Sky, The Forever Purge, and every other new movie you can stream at home this weekend](https://www.polygon.com/2021/7/23/22588764/blood-red-sky-forever-purge-new-to-streaming)
- - [The indie sci-fi film Settlers feels subversive, but maybe not on purpose](https://www.polygon.com/22591056/settlers-review-indie-sci-fi)<!-- GAME:END -->
+ - [Activision Blizzard employees denounce corporate statements: 'We are here, angry, and not so easily silenced'](https://www.pcgamer.com/activision-blizzard-employees-denounce-corporate-statements-we-are-here-angry-and-not-so-easily-silenced)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
