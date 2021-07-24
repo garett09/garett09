@@ -168,9 +168,9 @@ Windows                  1 hr 46 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Bone creator Jeff Smith got his ‘dream team’ for Netflix animated series](https://www.polygon.com/comics/2021/7/24/22589309/netflix-bone-animated-series-jeff-smith-update)
- - [Kevin Smith says Masters of the Universe: Revelation is He-Man ‘for grown ups’](https://www.polygon.com/animation-cartoons/22591719/he-man-teela-masters-universe-kevin-smith-netflix)
- - [EVGA Is Replacing All RTX 3090 Cards Killed By Amazon's New World](https://kotaku.com/evga-is-replacing-all-rtx-3090-cards-killed-by-amazons-1847355548)<!-- GAME:END -->
+ - [Rick and Morty vs. D&D actual play is Comic-Con’s nerdiest crossover event](https://www.polygon.com/22587354/dungeons-dragons-rick-and-morty-actual-play-sdcc-satine-phoenix)
+ - [Red Dead Online Is Currently Filled With Weird, Out-Of-Control Horses](https://kotaku.com/red-dead-online-is-currently-filled-with-weird-out-of-1847355773)
+ - [11 great movies leaving Netflix, Hulu, and Amazon at the end of July](https://www.polygon.com/2021/7/24/22588877/best-movies-netflix-amazon-hulu-leaving-july-2021)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
