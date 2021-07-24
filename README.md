@@ -182,9 +182,9 @@ Windows                  1 hr 46 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This is the resurrection plant which curls up in desert conditions and reopens when it comes in contact with water.](http://9gag.com/gag/aYovbnm)
- - 🚯 [2nd day on tech legs. 1st time off a wall onto a hill. LFG!](http://9gag.com/gag/aK6XgAb)
- - 🚯 [REALLY](http://9gag.com/gag/a07D9YO)<!-- MEMES:END -->
+ - 🚖 [Olympics](http://9gag.com/gag/amPOLB9)
+ - 🚯 [Help me step bro. I&#039;m stuck.](http://9gag.com/gag/aGpr95n)
+ - 🚯 [My sister is in Tokyo for the Olympics I couldn&#039;t be more proud of her After years and years of training she finally made it. 10 M platform diving. The worst part is I cannot even be there to support her.](http://9gag.com/gag/aLpOROz)<!-- MEMES:END -->
 
 --- 
 
