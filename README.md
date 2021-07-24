@@ -182,9 +182,9 @@ Windows                  1 hr 46 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Help me step bro. I&#039;m stuck.](http://9gag.com/gag/aGpr95n)
- - 🚯 [Legends](http://9gag.com/gag/av5B0pd)
- - 🚯 [The way he guides](http://9gag.com/gag/aGprYPw)<!-- MEMES:END -->
+ - 🚖 [This is the resurrection plant which curls up in desert conditions and reopens when it comes in contact with water.](http://9gag.com/gag/aYovbnm)
+ - 🚯 [2nd day on tech legs. 1st time off a wall onto a hill. LFG!](http://9gag.com/gag/aK6XgAb)
+ - 🚯 [REALLY](http://9gag.com/gag/a07D9YO)<!-- MEMES:END -->
 
 --- 
 
