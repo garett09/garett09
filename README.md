@@ -168,9 +168,9 @@ Windows                  1 hr 46 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Todd McFarlane explains that King Spawn is not a king but he is a ‘king,’ in the Spawn-sense](https://www.polygon.com/sdcc/22592050/king-spawn-comic-con-todd-mcfarlane-toys-sdcc-2021)
- - [Dark Horse promises ‘It’s not just straight white boy comics anymore’](https://www.polygon.com/sdcc/22592007/comic-con-dark-horse-comics-news-sdcc-2021)
- - [Star Wars team reveals the next, grim stage of The High Republic prequel initiative](https://www.polygon.com/sdcc/22591953/star-wars-high-republic-books-order-wave-3-sdcc-2021)<!-- GAME:END -->
+ - [DC Comics is taking Superman to War(world)](https://www.polygon.com/sdcc/22592130/comic-con-new-superman-comic-warworld-grant-morrison-dc-comics-tom-taylor)
+ - [Stephen Amell and Loki creator enter the SDCC ring for Heels](https://www.polygon.com/sdcc/22592047/comic-con-stephen-amell-alexander-ludwig-heels-cast-sdcc-2021)
+ - [Todd McFarlane explains that King Spawn is not a king but he is a ‘king,’ in the Spawn-sense](https://www.polygon.com/sdcc/22592050/king-spawn-comic-con-todd-mcfarlane-toys-sdcc-2021)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
