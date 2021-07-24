@@ -186,11 +186,11 @@ Windows                  1 hr 46 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Totally normal stuff](http://9gag.com/gag/aXoQ8dz)
- - 🚯 [My precious!!](http://9gag.com/gag/azMvggm)
- - 🚯 [He is OK, I hope](http://9gag.com/gag/aK6nbR3)
- - 😝 [True.](http://9gag.com/gag/ad8r3mj)
- - 🚅 [Removing old varnish from a painting during restoration](http://9gag.com/gag/aO3noeM)<!-- MEMES:END -->
+ - 🚖 [True.](http://9gag.com/gag/ad8r3mj)
+ - 🚯 [U bloody bastard b!tch U faking U](http://9gag.com/gag/aEpjdDn)
+ - 🚯 [This is what fairness look like.](http://9gag.com/gag/aP3zNmq)
+ - 😝 [Removing old varnish from a painting during restoration](http://9gag.com/gag/aO3noeM)
+ - 🚅 [Happy 20 years to this masterpiece, my 1st game on my PC](http://9gag.com/gag/a8EvL4O)<!-- MEMES:END -->
 
 --- 
 
