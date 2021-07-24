@@ -168,9 +168,9 @@ Windows                  1 hr 46 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Black Widow shows why the MCU’s closure problem is so crucial](https://www.polygon.com/22590942/black-widow-mcu-closure-problem)
- - [Slugma Can Never Sleep](https://kotaku.com/slugma-can-never-sleep-1847353424)
- - [It took me two years and 300 hours to beat Sekiro](https://www.polygon.com/22580009/sekiro-shadows-die-twice-difficulty-corrupt-save-fromsoft)<!-- GAME:END -->
+ - [Bone creator Jeff Smith got his ‘dream team’ for Netflix animated series](https://www.polygon.com/comics/2021/7/24/22589309/netflix-bone-animated-series-jeff-smith-update)
+ - [Kevin Smith says Masters of the Universe: Revelation is He-Man ‘for grown ups’](https://www.polygon.com/animation-cartoons/22591719/he-man-teela-masters-universe-kevin-smith-netflix)
+ - [EVGA Is Replacing All RTX 3090 Cards Killed By Amazon's New World](https://kotaku.com/evga-is-replacing-all-rtx-3090-cards-killed-by-amazons-1847355548)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
