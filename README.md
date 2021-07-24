@@ -175,9 +175,9 @@ Windows                  1 hr 46 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Should we be worried about insurtech valuations?](http://feedproxy.google.com/~r/Techcrunch/~3/j7Rp8a_Hz3A/)
- - [WhatsApp CEO says they had recorded an attack against 1,400 users over a two-week period in 2019, casting doubts on NSO defenses in a Pegasus investigation (Stephanie Kirchgaessner/The Guardian)](http://www.techmeme.com/210724/p7#a210724p7)
- - [GM, Cruise suing to stop Ford from using the name ‘BlueCruise’](https://www.theverge.com/2021/7/24/22591805/gm-cruise-lawsuit-trademark-infringement-hands-free-driving-autonomous)<!-- TECH:END -->
+ - [The DL on CockroachDB](http://feedproxy.google.com/~r/Techcrunch/~3/l2F8A5Kxw_Y/)
+ - [How to run Shortcuts on macOS Monterey](https://appleinsider.com/articles/21/07/24/how-to-run-shortcuts-on-macos-monterey?utm_medium=rss)
+ - [Best deals for July 24 - Nanoleaf Shapes starter kits, standing desk, TP-Link Router](https://appleinsider.com/articles/21/07/24/best-deals-for-july-24---20-off-nanoleaf-shapes-starter-kits?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
