@@ -15,6 +15,7 @@ jobs:
           commit_message: "[AUTOMATED] Updated tech articles"
           committer_username: garett09
           disable_sort: False
+          max_post_count: 3
           template: $newline - [$title]($url)
           feed_list: "https://www.techmeme.com/feed.xml?x=1,https://www.wired.com/feed/rss,http://feeds.feedburner.com/androidauthority,https://www.cnet.com/rss/news/,https://appleinsider.com/rss/news/,http://feeds.feedburner.com/Techcrunch,http://www.theverge.com/rss/full.xml"
           committer_email: adriansian@gmail.com
@@ -24,6 +25,7 @@ jobs:
           comment_tag_name: MEMES
           commit_message: "[AUTOMATED] New batch of memes  🖕🏻"
           disable_sort: False
+          max_post_count: 3
           committer_username: garett09
           template: $newline - $randomEmoji(😝,👱,📀,🚖,🚅,⏩,💣,👉,6️⃣,🚯) [$title]($url)
           committer_email: adriansian@gmail.com
@@ -35,6 +37,7 @@ jobs:
           commit_message: "[AUTOMATED] Gaming updates"
           disable_sort: False
           committer_username: garett09
+          max_post_count: 3
           template: $newline - [$title]($url)
           committer_email: adriansian@gmail.com
           feed_list: "http://feeds.feedburner.com/PSBlog,https://news.xbox.com/en-us/feed/,http://feedproxy.google.com/GameRant,http://www.polygon.com/rss/index.xml,https://kotaku.com/rss,https://www.pcgamer.com/rss/,https://blog.playstation.com/feed/"
