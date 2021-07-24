@@ -168,9 +168,9 @@ Windows                  1 hr 46 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Crapshoot: Cool Yoda Stories, bro](https://www.pcgamer.com/saturday-crapshoot-yoda-stories)
  - [Ex Blizzard Boss Mike Morhaime To Women: 'I Failed You'](https://kotaku.com/ex-blizzard-boss-mike-morhaime-to-women-i-failed-you-1847354746)
- - [Blade Runner anime Black Lotus gets first trailer](https://www.polygon.com/sdcc/22590211/blade-runner-black-lotus-anime-first-trailer-crunchyroll-adult-swim)
- - [Activision Blizzard employees denounce corporate statements: 'We are here, angry, and not so easily silenced'](https://www.pcgamer.com/activision-blizzard-employees-denounce-corporate-statements-we-are-here-angry-and-not-so-easily-silenced)<!-- GAME:END -->
+ - [Blade Runner anime Black Lotus gets first trailer](https://www.polygon.com/sdcc/22590211/blade-runner-black-lotus-anime-first-trailer-crunchyroll-adult-swim)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
