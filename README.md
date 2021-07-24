@@ -184,7 +184,7 @@ Windows                  1 hr 46 mins        ███████████�
 <!-- MEMES:START -->
  - 🚖 [Olympics](http://9gag.com/gag/amPOLB9)
  - 🚯 [Help me step bro. I&#039;m stuck.](http://9gag.com/gag/aGpr95n)
- - 🚯 [My sister is in Tokyo for the Olympics I couldn&#039;t be more proud of her After years and years of training she finally made it. 10 M platform diving. The worst part is I cannot even be there to support her.](http://9gag.com/gag/aLpOROz)<!-- MEMES:END -->
+ - 🚯 [Best kind of prank](http://9gag.com/gag/aDdqwwK)<!-- MEMES:END -->
 
 --- 
 
