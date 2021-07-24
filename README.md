@@ -168,29 +168,17 @@ Windows                  1 hr 46 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Ex Blizzard Boss Mike Morhaime To Women: 'I Failed You'](https://kotaku.com/ex-blizzard-boss-mike-morhaime-to-women-i-failed-you-1847354746)
- - [Blade Runner anime Black Lotus gets first trailer](https://www.polygon.com/sdcc/22590211/blade-runner-black-lotus-anime-first-trailer-crunchyroll-adult-swim)
- - [Activision Blizzard employees denounce corporate statements: 'We are here, angry, and not so easily silenced'](https://www.pcgamer.com/activision-blizzard-employees-denounce-corporate-statements-we-are-here-angry-and-not-so-easily-silenced)
- - [Blood Red Sky, The Forever Purge, and every other new movie you can stream at home this weekend](https://www.polygon.com/2021/7/23/22588764/blood-red-sky-forever-purge-new-to-streaming)
- - [The indie sci-fi film Settlers feels subversive, but maybe not on purpose](https://www.polygon.com/22591056/settlers-review-indie-sci-fi)<!-- GAME:END -->
+<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Scientists discover ancient Roman road submerged in Venice lagoon     - CNET](https://www.cnet.com/news/scientists-discover-ancient-roman-road-submerged-in-venice-lagoon/#ftag=CAD590a51e)
- - [In historic first, NASA spacecraft maps what lurks below surface of Mars     - CNET](https://www.cnet.com/news/in-historic-first-nasa-spacecraft-maps-what-lurks-below-surface-of-mars/#ftag=CAD590a51e)
- - [Dragon Ball Super: Super Hero teaser reveals full movie title, confirms 2022 release     - CNET](https://www.cnet.com/news/dragon-ball-super-super-hero-teaser-reveals-full-movie-title-confirms-2022-release/#ftag=CAD590a51e)
- - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
- - [Facebook rolls out cloud games on Apple devices through a web app     - CNET](https://www.cnet.com/tech/mobile/facebook-rolls-out-cloud-games-on-apple-devices-through-a-web-app-safari-browser/#ftag=CAD590a51e)<!-- TECH:END -->
+<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This is what fairness look like.](http://9gag.com/gag/aP3zNmq)
- - 🚯 [Removing old varnish from a painting during restoration](http://9gag.com/gag/aO3noeM)
- - 🚯 [Frightening movie visual effects from 1937](http://9gag.com/gag/aeAqKr5)
- - 😝 [Damn dude, what the hek?](http://9gag.com/gag/aV79zY2)
- - 🚅 [1800 drones above the National Stadium in Tokyo, Japan form a globe at the Tokyo2020 Olympics opening ceremony](http://9gag.com/gag/aDdrBrG)<!-- MEMES:END -->
+<!-- MEMES:END -->
 
 --- 
 
