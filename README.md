@@ -182,9 +182,9 @@ Windows                  1 hr 46 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Olympics](http://9gag.com/gag/amPOLB9)
- - 🚯 [Help me step bro. I&#039;m stuck.](http://9gag.com/gag/aGpr95n)
- - 🚯 [Best kind of prank](http://9gag.com/gag/aDdqwwK)<!-- MEMES:END -->
+ - 🚖 [Dam Son...](http://9gag.com/gag/ajm30Q8)
+ - 🚯 [Best kind of prank](http://9gag.com/gag/aDdqwwK)
+ - 🚯 [Korea doesn&#039;t give a f**k](http://9gag.com/gag/amPOXA6)<!-- MEMES:END -->
 
 --- 
 
