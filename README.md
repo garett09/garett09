@@ -182,9 +182,9 @@ Windows                  1 hr 46 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [As if there are other options](http://9gag.com/gag/azMvgQZ)
- - 🚯 [Tongue fu.](http://9gag.com/gag/aB2bKGP)
- - 🚯 [Legends](http://9gag.com/gag/av5B0pd)<!-- MEMES:END -->
+ - 🚖 [A story in four parts](http://9gag.com/gag/aB2bKnZ)
+ - 🚯 [Legends](http://9gag.com/gag/av5B0pd)
+ - 🚯 [The way he guides](http://9gag.com/gag/aGprYPw)<!-- MEMES:END -->
 
 --- 
 
