@@ -168,9 +168,9 @@ Windows                  1 hr 46 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [There’ll be new Dune stories in the future, no matter how the movie does](https://www.polygon.com/sdcc/22592133/new-dune-books-comics-comic-con-sdcc-2021)
- - [Robert Kirkman promises more Invincible, more Walking Dead, and beyond](https://www.polygon.com/sdcc/22592173/invincible-comic-con-robert-kirkman-walking-dead-sdcc-2021)
- - [DC Comics is taking Superman to War(world)](https://www.polygon.com/sdcc/22592130/comic-con-new-superman-comic-warworld-grant-morrison-dc-comics-tom-taylor)<!-- GAME:END -->
+ - [The Walking Dead’s final season trailer introduces us to the Commonwealth](https://www.polygon.com/22592189/walking-dead-final-season-11-trailer-commonwealth-release-date)
+ - [Former Blizzard head Mike Morhaime: 'I am extremely sorry that I failed you'](https://www.pcgamer.com/former-blizzard-head-mike-morhaime-i-am-extremely-sorry-that-i-failed-you)
+ - [There’ll be new Dune stories in the future, no matter how the movie does](https://www.polygon.com/sdcc/22592133/new-dune-books-comics-comic-con-sdcc-2021)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
