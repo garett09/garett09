@@ -184,11 +184,9 @@ Windows                  1 hr 46 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [1800 drones above the National Stadium in Tokyo, Japan form a globe at the Tokyo2020 Olympics opening ceremony](http://9gag.com/gag/aDdrBrG)
- - 🚯 [Just a little help needed](http://9gag.com/gag/aYovNKv)
- - 🚯 [Damn dude, what the hek?](http://9gag.com/gag/aV79zY2)
- - 😝 [My precious!!](http://9gag.com/gag/azMvggm)
- - 🚅 [Happy 20 years to this masterpiece, my 1st game on my PC](http://9gag.com/gag/a8EvL4O)<!-- MEMES:END -->
+ - 🚖 [Nothing is fun anymore](http://9gag.com/gag/axMednb)
+ - 🚯 [My precious!!](http://9gag.com/gag/azMvggm)
+ - 🚯 [Ways to trigger the happy chemicals in your brain](http://9gag.com/gag/aXom0Nb)<!-- MEMES:END -->
 
 --- 
 
