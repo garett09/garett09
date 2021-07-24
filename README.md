@@ -175,9 +175,9 @@ Windows                  1 hr 46 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple MagSafe Battery Pack Review: Great, but controversial](https://appleinsider.com/articles/21/07/24/apple-magsafe-battery-pack-review-great-but-controversy-abound?utm_medium=rss)
- - [Apple, Fitbit, and other fitness trackers have biases you need to be aware of](https://www.androidauthority.com/fitness-tracker-bias-1645548)
- - [The Senate’s E-BIKE Act could make electric bikes a lot cheaper](https://www.theverge.com/2021/7/24/22590792/ebike-act-senate-brian-schatz-tax-credit-infrastructure)<!-- TECH:END -->
+ - [Genki ShadowCast review: a clever but limited capture card](https://www.theverge.com/22590853/genki-shadowcast-review-hdmi-usb-capture-card-nintendo-switch-ps5-ps4-pc-macos)
+ - [Did Apple leak the M1 16-inch MacBook Pro? -- This Week in Apple](https://appleinsider.com/articles/21/07/24/did-apple-leak-the-m1-16-inch-macbook-pro----this-week-in-apple?utm_medium=rss)
+ - [Sendlane, which helps e-commerce companies automate email and SMS marketing, raises $20M Series A; CEO says Sendlane, which is seeing $7M+ in ARR, is profitable (Christine Hall/TechCrunch)](http://www.techmeme.com/210724/p6#a210724p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
