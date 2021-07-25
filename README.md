@@ -168,9 +168,9 @@ Windows                  1 hr 44 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Lucifer creators on the final season, ‘the last year we can surprise people’](https://www.polygon.com/sdcc/22592993/lucifer-season-6-premiere-cast-theories-comic-con-sdcc-2021)
- - [Sunday Comics: Spoiled Food](https://kotaku.com/sunday-comics-spoiled-food-1847356699)
- - [The Owl House, Amphibia cross over and tease the future at SDCC 2021](https://www.polygon.com/animation-cartoons/22592880/owl-house-amphibia-seasons-future-crossover-comic-con-sdcc-2021)<!-- GAME:END -->
+ - [Valve Says It Hasn't Found A Game That The Steam Deck Can't Handle](https://kotaku.com/valve-says-it-hasnt-found-a-game-that-the-steam-deck-ca-1847358340)
+ - [The Simpsons writers enter season 33 with self-awareness and no signs of slowing down](https://www.polygon.com/sdcc/22593026/simpsons-season-33-cast-episodes-guest-stars-comic-con-2021)
+ - [Junji Ito thinks the world has gotten scarier, but not as scary as his manga](https://www.polygon.com/sdcc/22593006/junji-ito-sensor-manga-interview-comic-con-2021)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
