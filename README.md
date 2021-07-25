@@ -182,8 +182,8 @@ Windows                  1 hr 44 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Too true](http://9gag.com/gag/aV79DYv)
- - 🚯 [Got my first dose yesterday](http://9gag.com/gag/anQ0yKE)
+ - 🚖 [Got my first dose yesterday](http://9gag.com/gag/anQ0yKE)
+ - 🚯 [No regrets](http://9gag.com/gag/aRX8m4B)
  - 🚯 [Well, of course I know him. He&rsquo;s me!](http://9gag.com/gag/aQoDMRr)<!-- MEMES:END -->
 
 --- 
