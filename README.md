@@ -175,9 +175,9 @@ Windows                  1 hr 44 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best deals for July 25 - Roborock S4 Max, Brother laser printer, Razer mouse](https://appleinsider.com/articles/21/07/25/best-deals-for-july-25---roborock-s4-max-brother-laser-printer-razer-mouse?utm_medium=rss)
- - [How to Share Your Wi-Fi Password](https://www.wired.com/story/how-to-share-wi-fi-password)
- - [High-tech cars and cracked windshields don't mix well     - Roadshow](https://www.cnet.com/roadshow/news/cracked-windshield-repair-high-tech-cars/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Did Apple leak the M1 16-inch MacBook Pro? -- This Week in Apple](https://appleinsider.com/articles/21/07/24/did-apple-leak-the-m1-16-inch-macbook-pro----this-week-in-apple?utm_medium=rss)
+ - [Deutsche Telekom's incubator seeks iOS AR app developers](https://appleinsider.com/articles/21/07/24/deutsche-telekoms-incubator-seeks-ios-ar-app-developers?utm_medium=rss)
+ - [WhatsApp CEO takes issue with NSO's denials of iPhone Pegasus hacks](https://appleinsider.com/articles/21/07/24/whatsapp-ceo-refutes-nsos-denials-on-iphone-pegasus-hacks?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
