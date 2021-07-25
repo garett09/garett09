@@ -182,9 +182,9 @@ Windows                  1 hr 44 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Very true](http://9gag.com/gag/aDdqje7)
- - 🚯 [ITs SeAvIeW pRoPeRtY](http://9gag.com/gag/a7EmZGz)
- - 🚯 [Fixed](http://9gag.com/gag/amPOrQv)<!-- MEMES:END -->
+ - 🚖 [Too true](http://9gag.com/gag/aV79DYv)
+ - 🚯 [Very true](http://9gag.com/gag/aDdqje7)
+ - 🚯 [Tokyo Olympics](http://9gag.com/gag/apNnrAb)<!-- MEMES:END -->
 
 --- 
 
