@@ -168,9 +168,9 @@ Windows                  1 hr 44 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Gen:Lock season 2 ups the ante with first teaser and preview out of Comic-Con](https://www.polygon.com/sdcc/22593106/gen-lock-season-2-trailer-comic-con)
- - [Valve Says It Hasn't Found A Game That The Steam Deck Can't Handle](https://kotaku.com/valve-says-it-hasnt-found-a-game-that-the-steam-deck-ca-1847358340)
- - [The Simpsons writers enter season 33 with self-awareness and no signs of slowing down](https://www.polygon.com/sdcc/22593026/simpsons-season-33-cast-episodes-guest-stars-comic-con-2021)<!-- GAME:END -->
+ - [This week in PC Gaming: The Ascent, The Forgotten City, and cyberpunk kitties](https://www.pcgamer.com/this-week-in-pc-gaming-the-ascent-the-forgotten-city-and-cyberpunk-kitties)
+ - [GTA Online's Latest Update Adds A Hard-To-Kill Terminator Knock-Off](https://kotaku.com/gta-onlines-latest-update-adds-a-hard-to-kill-terminato-1847358551)
+ - [Gen:Lock season 2 ups the ante with first teaser and preview out of Comic-Con](https://www.polygon.com/sdcc/22593106/gen-lock-season-2-trailer-comic-con)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
