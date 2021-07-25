@@ -168,9 +168,9 @@ Windows                  1 hr 44 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Walking Dead’s final season trailer introduces us to the Commonwealth](https://www.polygon.com/22592189/walking-dead-final-season-11-trailer-commonwealth-release-date)
- - [Former Blizzard head Mike Morhaime: 'I am extremely sorry that I failed you'](https://www.pcgamer.com/former-blizzard-head-mike-morhaime-i-am-extremely-sorry-that-i-failed-you)
- - [There’ll be new Dune stories in the future, no matter how the movie does](https://www.polygon.com/sdcc/22592133/new-dune-books-comics-comic-con-sdcc-2021)<!-- GAME:END -->
+ - [Nuclear-grade Fear The Walking Dead Comic-Con panel reveals season 7 premiere date, first details](https://www.polygon.com/sdcc/22592369/fear-the-walking-dead-season-7-premiere-date-cast-comic-con-2021)
+ - [Spate of odd ghost horse incidents plague Red Dead Online](https://www.pcgamer.com/spate-of-odd-ghost-horse-incidents-plague-red-dead-online)
+ - [Two Magic designers walk into a tavern to discuss D&D cards](https://www.polygon.com/sdcc/22592305/dungeons-dragons-magic-the-gathering-afr-sdcc-panel-mark-rosewater-interview)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
