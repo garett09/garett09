@@ -175,9 +175,9 @@ Windows                  1 hr 44 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best deals for July 25 - Roborock S4 Max, Brother laser printer, Razer mouse](https://appleinsider.com/articles/21/07/25/best-deals-for-july-25---roborock-s4-max-brother-laser-printer-razer-mouse?utm_medium=rss)
  - [How to Share Your Wi-Fi Password](https://www.wired.com/story/how-to-share-wi-fi-password)
- - [Rogers quietly adds support for Apple Business Chat](https://appleinsider.com/articles/21/07/25/rogers-quietly-adds-support-for-apple-business-chat?utm_medium=rss)
- - [What is Pegasus and how is it used for spying?](https://www.androidauthority.com/pegasus-spyware-1646458)<!-- TECH:END -->
+ - [High-tech cars and cracked windshields don't mix well     - Roadshow](https://www.cnet.com/roadshow/news/cracked-windshield-repair-high-tech-cars/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
