@@ -175,9 +175,9 @@ Windows                  1 hr 44 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Weekly Authority: Space race, Nord 2 launch, and more](https://www.androidauthority.com/newsletters/weekly-authority-july-25)
- - [OnePlus Nord 2 second opinion: Struggling to stand out](https://www.androidauthority.com/oneplus-nord-2-review-second-opinion-1646590)
- - [Best iPhone 2021: We looked at all 7 models Apple sells to decide which is best     - CNET](https://www.cnet.com/tech/mobile/best-iphone-2021-7-different-models-how-to-decide-now/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Chinese chip manufacturer Tsinghua Unigroup, which is saddled with ~$30.8B in liabilities, is seeking a huge bailout from investors amid bankruptcy proceedings (Che Pan/South China Morning Post)](http://www.techmeme.com/210725/p5#a210725p5)
+ - [Hit the Road With These Travel-Planning Apps and Tricks](https://www.wired.com/story/travel-planning-apps-google-apple-maps-tripit)
+ - [Trucks Move Past Cars on the Road to Autonomy](https://www.wired.com/story/trucks-move-past-cars-road-autonomy)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
