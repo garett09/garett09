@@ -175,9 +175,9 @@ Windows                  1 hr 44 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Lev, which wants to automate commercial real estate financing, raises $30M Series A at a $130M valuation, after raising a $10M seed round four months ago (Christine Hall/TechCrunch)](http://www.techmeme.com/210724/p10#a210724p10)
  - [Apple's fall event 2021: When is it and what do we expect?     - CNET](https://www.cnet.com/tech/mobile/apples-fall-event-2021-when-is-it-what-do-we-expect/#ftag=CAD590a51e)
- - [A look at the presence of crypto in hip-hop culture, beginning as early as 2013, including meme songs, rapper Nas's Coinbase investment, and illicit ICOs (Ashwin Rodrigues/VICE)](http://www.techmeme.com/210724/p9#a210724p9)
- - [Apple TV+ 'Central Park' cast and producers appear in Comic-Con panel](https://appleinsider.com/articles/21/07/24/apple-tv-central-park-cast-and-producers-appear-in-comic-con-panel?utm_medium=rss)<!-- TECH:END -->
+ - [A look at the presence of crypto in hip-hop culture, beginning as early as 2013, including meme songs, rapper Nas's Coinbase investment, and illicit ICOs (Ashwin Rodrigues/VICE)](http://www.techmeme.com/210724/p9#a210724p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
