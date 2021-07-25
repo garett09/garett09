@@ -182,9 +182,9 @@ Windows                  1 hr 44 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A cool way to silence them](http://9gag.com/gag/aNpGKN3)
- - 🚯 [L&aacute;szl&oacute; Szatm&aacute;ri survives a staggering 30 seconds in 9Gs of force](http://9gag.com/gag/aqjV5rv)
- - 🚯 [Explain a film plot badly](http://9gag.com/gag/abVLyEL)<!-- MEMES:END -->
+ - 🚖 [He&#039;s a good actor tho](http://9gag.com/gag/aP3VDGB)
+ - 🚯 [Explain a film plot badly](http://9gag.com/gag/abVLyEL)
+ - 🚯 [My coworkers don&rsquo;t recognize me outside of work](http://9gag.com/gag/aMK0Q2X)<!-- MEMES:END -->
 
 --- 
 
