@@ -175,9 +175,9 @@ Windows                  1 hr 44 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Wristcam review: The most feature-complete Apple Watch accessory to date](https://appleinsider.com/articles/21/07/25/wristcam-review-the-most-feature-complete-apple-watch-accessory-to-date?utm_medium=rss)
  - [Banned brand Aukey is still selling earbuds on Amazon](https://www.theverge.com/2021/7/25/22593165/amazon-aukey-key-series-mpow-xmpow-banned)
- - [In a blow to the edtech sector, China orders tutoring companies teaching the school curriculum to go non-profit, bans them from IPOs and raising foreign capital (Bloomberg)](http://www.techmeme.com/210725/p7#a210725p7)
- - [Data-driven iteration helped China’s Genki Forest become a $6B beverage giant in 5 years](http://feedproxy.google.com/~r/Techcrunch/~3/TxRjuma3b_w/)<!-- TECH:END -->
+ - [In a blow to the edtech sector, China orders tutoring companies teaching the school curriculum to go non-profit, bans them from IPOs and raising foreign capital (Bloomberg)](http://www.techmeme.com/210725/p7#a210725p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
