@@ -168,9 +168,9 @@ Windows                  1 hr 44 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Owl House, Amphibia cross over and tease the future at SDCC 2021](https://www.polygon.com/animation-cartoons/22592880/owl-house-amphibia-seasons-future-crossover-comic-con-sdcc-2021)
- - [Steam Deck 30 fps target is 'the floor of what we consider playable'](https://www.pcgamer.com/valve-steam-deck-30-fps-target)
- - [The Walking Dead: The World Beyond promises to fill in some TWD universe gaps](https://www.polygon.com/sdcc/2021/7/24/22592489/walking-dead-world-beyond-season-2-cast-premiere-sdcc-2021)<!-- GAME:END -->
+ - [Lucifer creators on the final season, ‘the last year we can surprise people’](https://www.polygon.com/sdcc/22592993/lucifer-season-6-premiere-cast-theories-comic-con-sdcc-2021)
+ - [Sunday Comics: Spoiled Food](https://kotaku.com/sunday-comics-spoiled-food-1847356699)
+ - [The Owl House, Amphibia cross over and tease the future at SDCC 2021](https://www.polygon.com/animation-cartoons/22592880/owl-house-amphibia-seasons-future-crossover-comic-con-sdcc-2021)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
