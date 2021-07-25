@@ -168,9 +168,9 @@ Windows                  1 hr 44 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Genshin Impact is finally becoming a real game by adding fishing in 2.1](https://www.pcgamer.com/genshin-impact-is-finally-becoming-a-real-game-by-adding-fishing-in-21)
- - [This week in PC Gaming: The Ascent, The Forgotten City, and cyberpunk kitties](https://www.pcgamer.com/this-week-in-pc-gaming-the-ascent-the-forgotten-city-and-cyberpunk-kitties)
- - [GTA Online's Latest Update Adds A Hard-To-Kill Terminator Knock-Off](https://kotaku.com/gta-onlines-latest-update-adds-a-hard-to-kill-terminato-1847358551)<!-- GAME:END -->
+ - [The Week In Games: Butterfly In The Sky, I Can Go Twice As High](https://kotaku.com/the-week-in-games-butterfly-in-the-sky-i-can-go-twice-1847358945)
+ - [Okay, This Chinese Not-PUBG Movie Looks Damn Good](https://kotaku.com/new-chinese-esports-action-movie-looks-a-lot-like-pubg-1847358832)
+ - [Stargate Atlantis cast reunites to remember just how popular Stargate Atlantis was](https://www.polygon.com/sdcc/22593256/stargate-atlantis-cast-comic-con-sdcc-2021)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
