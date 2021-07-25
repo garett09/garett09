@@ -182,9 +182,9 @@ Windows                  1 hr 44 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I found something](http://9gag.com/gag/amPOYb2)
- - 🚯 [No regrets](http://9gag.com/gag/aRX8m4B)
- - 🚯 [Thats why I love olympics. Complete unknown Anna Kiesenhofer (Austria) just won Gold in the 237km streetrace. She is semi-professional, retired for two years to work as mathematic teacher and just wanted to compete in the olympics. Now she obliterad all the favourites.](http://9gag.com/gag/abVLZjp)<!-- MEMES:END -->
+ - 🚖 [Tokyo Olympics](http://9gag.com/gag/apNnrAb)
+ - 🚯 [Fixed](http://9gag.com/gag/amPOrQv)
+ - 🚯 [I found something](http://9gag.com/gag/amPOYb2)<!-- MEMES:END -->
 
 --- 
 
