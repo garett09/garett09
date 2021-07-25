@@ -182,9 +182,9 @@ Windows                  1 hr 44 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This bus lane in Sweden goes through a roundabout.](http://9gag.com/gag/a1r8eNY)
- - 🚯 [He forgot they were in a secret relationship..](http://9gag.com/gag/aMK0GnP)
- - 🚯 [He&#039;s a good actor tho](http://9gag.com/gag/aP3VDGB)<!-- MEMES:END -->
+ - 🚖 [He&#039;s a good actor tho](http://9gag.com/gag/aP3VDGB)
+ - 🚯 [It still baffles me that humans are capable of this.](http://9gag.com/gag/aGprR1K)
+ - 🚯 [In the spirit of Olympics](http://9gag.com/gag/ad8WjvQ)<!-- MEMES:END -->
 
 --- 
 
