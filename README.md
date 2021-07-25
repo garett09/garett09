@@ -175,9 +175,9 @@ Windows                  1 hr 44 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at FTX, Binance, BitMEX, and their once North America-based founders, who run exchanges for highly-leveraged crypto derivatives trading outside the US (New York Times)](http://www.techmeme.com/210725/p4#a210725p4)
- - [Ted Lasso season 2: When it starts, how to watch, cast and everything to know     - CNET](https://www.cnet.com/news/ted-lasso-season-2-when-it-starts-how-to-watch-cast-and-everything-to-know/#ftag=CAD590a51e)
- - [Mobile game publisher Jam City is no longer going public via a SPAC merger, announced in May, that would have valued the company at $1.2B (Bloomberg)](http://www.techmeme.com/210725/p3#a210725p3)<!-- TECH:END -->
+ - [Weekly Authority: Space race, Nord 2 launch, and more](https://www.androidauthority.com/newsletters/weekly-authority-july-25)
+ - [OnePlus Nord 2 second opinion: Struggling to stand out](https://www.androidauthority.com/oneplus-nord-2-review-second-opinion-1646590)
+ - [Apple Watch 7 rumors: The new smartwatch could be coming in September     - CNET](https://www.cnet.com/tech/mobile/apple-watch-7-rumors-the-new-smartwatch-could-be-coming-in-september/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
