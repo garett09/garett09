@@ -175,9 +175,9 @@ Windows                  1 hr 44 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [4 things my 3-year-old phone does better than some 2021 flagships](https://www.androidauthority.com/3-year-old-phone-better-2021-flagships-1644685)
- - [Mark Gurman: Face ID on the Mac is likely coming within a couple of years, and all iPhones and iPads will transition to Face ID within that timeframe, too (Sami Fathi/MacRumors)](http://www.techmeme.com/210725/p6#a210725p6)
- - [Did Apple leak the M1 16-inch MacBook Pro? -- This Week in Apple](https://appleinsider.com/articles/21/07/24/did-apple-leak-the-m1-16-inch-macbook-pro----this-week-in-apple?utm_medium=rss)<!-- TECH:END -->
+ - [Data-driven iteration helped China’s Genki Forest become a $6B beverage giant in 5 years](http://feedproxy.google.com/~r/Techcrunch/~3/TxRjuma3b_w/)
+ - [The Steam Deck has an ‘optional built-in FPS limiter’ for better battery life](https://www.theverge.com/2021/7/25/22593079/valve-steam-deck-fps-limiter-target-performance-battery-life)
+ - [Apple TV+ 'Central Park' cast and producers appear in Comic-Con panel](https://appleinsider.com/articles/21/07/24/apple-tv-central-park-cast-and-producers-appear-in-comic-con-panel?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
