@@ -182,9 +182,9 @@ Windows                  1 hr 44 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [They rarely do that though](http://9gag.com/gag/aRX8P82)
- - 🚯 [Amen to that](http://9gag.com/gag/a3Ez3Z8)
- - 🚯 [Ronda Rousey at her best](http://9gag.com/gag/aGprVow)<!-- MEMES:END -->
+ - 🚖 [Fishing with dad](http://9gag.com/gag/a9E4PEj)
+ - 🚯 [Ronda Rousey at her best](http://9gag.com/gag/aGprVow)
+ - 🚯 [Smooth](http://9gag.com/gag/aNpGKMK)<!-- MEMES:END -->
 
 --- 
 
