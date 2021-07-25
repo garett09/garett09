@@ -175,9 +175,9 @@ Windows                  1 hr 44 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to Share Your Wi-Fi Password](https://www.wired.com/story/how-to-share-wi-fi-password)
  - [Rogers quietly adds support for Apple Business Chat](https://appleinsider.com/articles/21/07/25/rogers-quietly-adds-support-for-apple-business-chat?utm_medium=rss)
- - [What is Pegasus and how is it used for spying?](https://www.androidauthority.com/pegasus-spyware-1646458)
- - [The Best Sunglasses for Every Outdoor Adventure](https://www.wired.com/gallery/best-sunglasses)<!-- TECH:END -->
+ - [What is Pegasus and how is it used for spying?](https://www.androidauthority.com/pegasus-spyware-1646458)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
