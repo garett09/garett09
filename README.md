@@ -168,9 +168,9 @@ Windows                  1 hr 44 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [John Constantine is leaving Legends of Tomorrow, but his actor will return](https://www.polygon.com/2021/7/25/22593380/john-constantine-death-legends-of-tomorrow-season-7)
- - [Netflix’s Army of the Dead prequel Army of Thieves already has a trailer](https://www.polygon.com/22592278/army-of-thieves-trailer-army-of-dead-prequel-netflix)
- - [This mod is becoming the fantasy grand strategy game you can't get elsewhere](https://www.pcgamer.com/this-mod-is-becoming-the-fantasy-grand-strategy-game-you-cant-get-elsewhere)<!-- GAME:END -->
+ - [Try to save your crumbling sci-fi empire in the Alliance of the Sacred Suns demo](https://www.pcgamer.com/try-to-save-your-crumbling-sci-fi-empire-in-the-alliance-of-the-sacred-suns-demo)
+ - [The future of Wonder Woman lies with Queen Nubia of the Amazons](https://www.polygon.com/22593424/wonder-woman-comics-nubia-san-diego-comic-con-80th-anniversary)
+ - [John Constantine is leaving Legends of Tomorrow, but his actor will return](https://www.polygon.com/2021/7/25/22593380/john-constantine-death-legends-of-tomorrow-season-7)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
