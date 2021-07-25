@@ -182,9 +182,9 @@ Windows                  1 hr 44 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Well here&#039;s to another night](http://9gag.com/gag/a1r8K0v)
- - 🚯 [Host calls out audience for laughing at male domestic violence victim](http://9gag.com/gag/aMK0AKW)
- - 🚯 [Boy asks blind girl for prom](http://9gag.com/gag/aXomqQd)<!-- MEMES:END -->
+ - 🚖 [Truck driver got skills. Not this guy, the other one.](http://9gag.com/gag/aLpOjwx)
+ - 🚯 [Wa ter me lon](http://9gag.com/gag/ayMmXLX)
+ - 🚯 [When you find the perfect opportunity to test out your new submarine](http://9gag.com/gag/a8Evo7Y)<!-- MEMES:END -->
 
 --- 
 
