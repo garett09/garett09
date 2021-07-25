@@ -182,9 +182,9 @@ Windows                  1 hr 44 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [He&#039;s a good actor tho](http://9gag.com/gag/aP3VDGB)
- - 🚯 [Explain a film plot badly](http://9gag.com/gag/abVLyEL)
- - 🚯 [My coworkers don&rsquo;t recognize me outside of work](http://9gag.com/gag/aMK0Q2X)<!-- MEMES:END -->
+ - 🚖 [My coworkers don&rsquo;t recognize me outside of work](http://9gag.com/gag/aMK0Q2X)
+ - 🚯 [He&#039;s a good actor tho](http://9gag.com/gag/aP3VDGB)
+ - 🚯 [No no, he has a point](http://9gag.com/gag/aXom9MV)<!-- MEMES:END -->
 
 --- 
 
