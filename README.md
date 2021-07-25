@@ -182,9 +182,9 @@ Windows                  1 hr 44 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Host calls out audience for laughing at male domestic violence victim](http://9gag.com/gag/aMK0AKW)
+ - 🚖 [Oh cr#p it&#039;s the feds!](http://9gag.com/gag/aZ04g29)
  - 🚯 [Go Sports!](http://9gag.com/gag/aeAqbqO)
- - 🚯 [Very true](http://9gag.com/gag/aDdqje7)<!-- MEMES:END -->
+ - 🚯 [Well here&#039;s to another night](http://9gag.com/gag/a1r8K0v)<!-- MEMES:END -->
 
 --- 
 
