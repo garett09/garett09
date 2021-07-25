@@ -168,9 +168,9 @@ Windows                  1 hr 44 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Steam Deck 30 fps target is 'the floor of what we consider playable'](https://www.pcgamer.com/valve-steam-deck-30-fps-target)
  - [The Walking Dead: The World Beyond promises to fill in some TWD universe gaps](https://www.polygon.com/sdcc/2021/7/24/22592489/walking-dead-world-beyond-season-2-cast-premiere-sdcc-2021)
- - [Do you listen to dialogue, or read it and skip ahead?](https://www.pcgamer.com/do-you-listen-to-dialogue-or-just-read-it-and-skip-ahead)
- - [The Walking Dead adds new character relationships, new characters in final season](https://www.polygon.com/sdcc/22592400/walking-dead-season-11-cast-news-premiere-date-comic-con)<!-- GAME:END -->
+ - [Do you listen to dialogue, or read it and skip ahead?](https://www.pcgamer.com/do-you-listen-to-dialogue-or-just-read-it-and-skip-ahead)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
