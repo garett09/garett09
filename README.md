@@ -182,9 +182,9 @@ Windows                  1 hr 44 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Patato monument, Croatia](http://9gag.com/gag/aWjeM92)
- - 🚯 [For all of it&rsquo;s good, there&rsquo;s this.](http://9gag.com/gag/aWjeMW2)
- - 🚯 [Please do not park too close to the driving side. I&#039;m pretty fat. Thanks.](http://9gag.com/gag/agBpGPn)<!-- MEMES:END -->
+ - 🚖 [Fk James](http://9gag.com/gag/amPOrN2)
+ - 🚯 [Please do not park too close to the driving side. I&#039;m pretty fat. Thanks.](http://9gag.com/gag/agBpGPn)
+ - 🚯 [This is embarrassing](http://9gag.com/gag/aB2b19N)<!-- MEMES:END -->
 
 --- 
 
