@@ -175,9 +175,9 @@ Windows                  1 hr 44 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [AuthenticID, which offers AI-based identity proofing and verification to help businesses fight fraud, raises $100M from Long Ridge Equity Partners (Omar Faridi/Crowdfund Insider)](http://www.techmeme.com/210725/p1#a210725p1)
- - [Canadian auto parts supplier Magna has agreed to buy Veoneer, which develops advanced driver-assistance systems for autonomous vehicles, for $3.8B in cash (Bloomberg)](http://www.techmeme.com/210724/p11#a210724p11)
- - [Lev, which wants to automate commercial real estate financing, raises $30M Series A at a $130M valuation, after raising a $10M seed round four months ago (Christine Hall/TechCrunch)](http://www.techmeme.com/210724/p10#a210724p10)<!-- TECH:END -->
+ - [Mobile game publisher Jam City is no longer going public via a SPAC merger, announced in May, that would have valued the company at $1.2B (Bloomberg)](http://www.techmeme.com/210725/p3#a210725p3)
+ - [Paystone, which provides service-based businesses with payments and customer engagement tech, raises $23.8M, bringing its total funds raised in 2021 to $78.8M (Christine Hall/TechCrunch)](http://www.techmeme.com/210725/p2#a210725p2)
+ - [AuthenticID, which offers AI-based identity proofing and verification to help businesses fight fraud, raises $100M from Long Ridge Equity Partners (Omar Faridi/Crowdfund Insider)](http://www.techmeme.com/210725/p1#a210725p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
