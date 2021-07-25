@@ -168,9 +168,9 @@ Windows                  1 hr 44 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Do you listen to dialogue, or read it and skip ahead?](https://www.pcgamer.com/do-you-listen-to-dialogue-or-just-read-it-and-skip-ahead)
  - [The Walking Dead adds new character relationships, new characters in final season](https://www.polygon.com/sdcc/22592400/walking-dead-season-11-cast-news-premiere-date-comic-con)
- - [Chris Metzen is the latest ex-Blizzard dev to speak up: 'There is no excuse'](https://www.pcgamer.com/chris-metzen-is-the-latest-ex-blizzard-dev-to-speak-up-there-is-no-excuse)
- - [Nuclear-grade Fear The Walking Dead Comic-Con panel reveals season 7 premiere date, first details](https://www.polygon.com/sdcc/22592369/fear-the-walking-dead-season-7-premiere-date-cast-comic-con-2021)<!-- GAME:END -->
+ - [Chris Metzen is the latest ex-Blizzard dev to speak up: 'There is no excuse'](https://www.pcgamer.com/chris-metzen-is-the-latest-ex-blizzard-dev-to-speak-up-there-is-no-excuse)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
