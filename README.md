@@ -175,9 +175,9 @@ Windows                  1 hr 44 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Parking apps in the US have seen a new wave of customers amid a surge in car ownership spurred by people avoiding mass transit and ride sharing due to COVID-19 (Priya Anand/Bloomberg)](http://www.techmeme.com/210725/p8#a210725p8)
- - [The Pentagon says DJI drones still pose a threat, disavowing its own earlier report](https://www.theverge.com/2021/6/1/22463946/dji-drone-ban-pentagon-department-of-interior)
- - [The Roku Channel: Everything you need to know about the free streaming service](https://www.androidauthority.com/the-roku-channel-1227761)<!-- TECH:END -->
+ - [Kanye West's 'Donda' will be released on August 6](https://appleinsider.com/articles/21/07/25/kanye-wests-donda-will-be-released-on-august-6?utm_medium=rss)
+ - [MLB will try encrypted transmitters and bone conduction to stop sign stealing](https://www.theverge.com/2021/7/25/22593363/mlb-baseball-sign-stealing-transmitter-pitchcom)
+ - [Parking apps in the US have seen a new wave of customers amid a surge in car ownership spurred by people avoiding mass transit and ride sharing due to COVID-19 (Priya Anand/Bloomberg)](http://www.techmeme.com/210725/p8#a210725p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
