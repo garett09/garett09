@@ -168,9 +168,9 @@ Windows                  1 hr 44 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Week In Games: Butterfly In The Sky, I Can Go Twice As High](https://kotaku.com/the-week-in-games-butterfly-in-the-sky-i-can-go-twice-1847358945)
- - [Okay, This Chinese Not-PUBG Movie Looks Damn Good](https://kotaku.com/new-chinese-esports-action-movie-looks-a-lot-like-pubg-1847358832)
- - [Stargate Atlantis cast reunites to remember just how popular Stargate Atlantis was](https://www.polygon.com/sdcc/22593256/stargate-atlantis-cast-comic-con-sdcc-2021)<!-- GAME:END -->
+ - [This mod is becoming the fantasy grand strategy game you can't get elsewhere](https://www.pcgamer.com/this-mod-is-becoming-the-fantasy-grand-strategy-game-you-cant-get-elsewhere)
+ - [Doctor Who series 13 trailer hints at the show’s new serialized approach](https://www.polygon.com/sdcc/22593340/doctor-who-series-13-trailer-premiere-date-cast)
+ - [The first trailer for Dexter’s new season revives the killer instinct](https://www.polygon.com/22593134/dexter-trailer-new-blood-season-9-release-date)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
