@@ -182,8 +182,8 @@ Windows                  1 hr 44 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [He&#039;s a good actor tho](http://9gag.com/gag/aP3VDGB)
- - 🚯 [It still baffles me that humans are capable of this.](http://9gag.com/gag/aGprR1K)
+ - 🚖 [A Chair at the Beach](http://9gag.com/gag/awM9x38)
+ - 🚯 [Every six months this man in South Dakota climbs 457 meter communication tower to change the light bulb He&#039;s paid $20,000 per climb](http://9gag.com/gag/anQ01XB)
  - 🚯 [In the spirit of Olympics](http://9gag.com/gag/ad8WjvQ)<!-- MEMES:END -->
 
 --- 
