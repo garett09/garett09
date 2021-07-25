@@ -175,9 +175,9 @@ Windows                  1 hr 44 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple's fall event 2021: When is it and what do we expect?     - CNET](https://www.cnet.com/tech/mobile/apples-fall-event-2021-when-is-it-what-do-we-expect/#ftag=CAD590a51e)
  - [A look at the presence of crypto in hip-hop culture, beginning as early as 2013, including meme songs, rapper Nas's Coinbase investment, and illicit ICOs (Ashwin Rodrigues/VICE)](http://www.techmeme.com/210724/p9#a210724p9)
- - [Apple TV+ 'Central Park' cast and producers appear in Comic-Con panel](https://appleinsider.com/articles/21/07/24/apple-tv-central-park-cast-and-producers-appear-in-comic-con-panel?utm_medium=rss)
- - [Audi RS Q E-Tron is a Dakar-bound, electrified off-roader     - Roadshow](https://www.cnet.com/roadshow/pictures/audi-rs-q-e-tron-dakar-rally-electrified/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple TV+ 'Central Park' cast and producers appear in Comic-Con panel](https://appleinsider.com/articles/21/07/24/apple-tv-central-park-cast-and-producers-appear-in-comic-con-panel?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
