@@ -175,9 +175,9 @@ Windows                  1 hr 44 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Kenyan tech founders say there is a funding bias toward North American and European expats in the country; analysis: only one Kenyan founder raised $1M+ in 2019 (Yinka Adegoke/Rest of World)](http://www.techmeme.com/210725/p9#a210725p9)
  - [Kanye West's 'Donda' will be released on August 6](https://appleinsider.com/articles/21/07/25/kanye-wests-donda-will-be-released-on-august-6?utm_medium=rss)
- - [MLB will try encrypted transmitters and bone conduction to stop sign stealing](https://www.theverge.com/2021/7/25/22593363/mlb-baseball-sign-stealing-transmitter-pitchcom)
- - [Parking apps in the US have seen a new wave of customers amid a surge in car ownership spurred by people avoiding mass transit and ride sharing due to COVID-19 (Priya Anand/Bloomberg)](http://www.techmeme.com/210725/p8#a210725p8)<!-- TECH:END -->
+ - [MLB will try encrypted transmitters and bone conduction to stop sign stealing](https://www.theverge.com/2021/7/25/22593363/mlb-baseball-sign-stealing-transmitter-pitchcom)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
