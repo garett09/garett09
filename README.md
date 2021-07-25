@@ -182,9 +182,9 @@ Windows                  1 hr 44 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Fk James](http://9gag.com/gag/amPOrN2)
- - 🚯 [Please do not park too close to the driving side. I&#039;m pretty fat. Thanks.](http://9gag.com/gag/agBpGPn)
- - 🚯 [This is embarrassing](http://9gag.com/gag/aB2b19N)<!-- MEMES:END -->
+ - 🚖 [Please do not park too close to the driving side. I&#039;m pretty fat. Thanks.](http://9gag.com/gag/agBpGPn)
+ - 🚯 [Amazing](http://9gag.com/gag/agBpGxg)
+ - 🚯 [Lawd Jesass ! Those Olympic rings.](http://9gag.com/gag/aMK09BV)<!-- MEMES:END -->
 
 --- 
 
