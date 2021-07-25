@@ -175,9 +175,9 @@ Windows                  1 hr 44 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Did Apple leak the M1 16-inch MacBook Pro? -- This Week in Apple](https://appleinsider.com/articles/21/07/24/did-apple-leak-the-m1-16-inch-macbook-pro----this-week-in-apple?utm_medium=rss)
- - [Deutsche Telekom's incubator seeks iOS AR app developers](https://appleinsider.com/articles/21/07/24/deutsche-telekoms-incubator-seeks-ios-ar-app-developers?utm_medium=rss)
- - [WhatsApp CEO takes issue with NSO's denials of iPhone Pegasus hacks](https://appleinsider.com/articles/21/07/24/whatsapp-ceo-refutes-nsos-denials-on-iphone-pegasus-hacks?utm_medium=rss)<!-- TECH:END -->
+ - [4 things my 3-year-old phone does better than some 2021 flagships](https://www.androidauthority.com/3-year-old-phone-better-2021-flagships-1644685)
+ - [Mark Gurman: Face ID on the Mac is likely coming within a couple of years, and all iPhones and iPads will transition to Face ID within that timeframe, too (Sami Fathi/MacRumors)](http://www.techmeme.com/210725/p6#a210725p6)
+ - [Did Apple leak the M1 16-inch MacBook Pro? -- This Week in Apple](https://appleinsider.com/articles/21/07/24/did-apple-leak-the-m1-16-inch-macbook-pro----this-week-in-apple?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
