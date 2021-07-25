@@ -182,9 +182,9 @@ Windows                  1 hr 44 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Fishing with dad](http://9gag.com/gag/a9E4PEj)
- - 🚯 [Ronda Rousey at her best](http://9gag.com/gag/aGprVow)
- - 🚯 [Smooth](http://9gag.com/gag/aNpGKMK)<!-- MEMES:END -->
+ - 🚖 [A cool way to silence them](http://9gag.com/gag/aNpGKN3)
+ - 🚯 [L&aacute;szl&oacute; Szatm&aacute;ri survives a staggering 30 seconds in 9Gs of force](http://9gag.com/gag/aqjV5rv)
+ - 🚯 [Explain a film plot badly](http://9gag.com/gag/abVLyEL)<!-- MEMES:END -->
 
 --- 
 
