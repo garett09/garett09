@@ -182,9 +182,9 @@ Windows                  1 hr 44 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Every six months this man in South Dakota climbs 457 meter communication tower to change the light bulb He&#039;s paid $20,000 per climb](http://9gag.com/gag/anQ01XB)
- - 🚯 [What are the odds?](http://9gag.com/gag/aGprxQ6)
- - 🚯 [For all of it&rsquo;s good, there&rsquo;s this.](http://9gag.com/gag/aWjeMW2)<!-- MEMES:END -->
+ - 🚖 [Patato monument, Croatia](http://9gag.com/gag/aWjeM92)
+ - 🚯 [For all of it&rsquo;s good, there&rsquo;s this.](http://9gag.com/gag/aWjeMW2)
+ - 🚯 [Please do not park too close to the driving side. I&#039;m pretty fat. Thanks.](http://9gag.com/gag/agBpGPn)<!-- MEMES:END -->
 
 --- 
 
