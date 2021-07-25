@@ -175,9 +175,9 @@ Windows                  1 hr 44 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chinese chip manufacturer Tsinghua Unigroup, which is saddled with ~$30.8B in liabilities, is seeking a huge bailout from investors amid bankruptcy proceedings (Che Pan/South China Morning Post)](http://www.techmeme.com/210725/p5#a210725p5)
- - [Hit the Road With These Travel-Planning Apps and Tricks](https://www.wired.com/story/travel-planning-apps-google-apple-maps-tripit)
- - [Trucks Move Past Cars on the Road to Autonomy](https://www.wired.com/story/trucks-move-past-cars-road-autonomy)<!-- TECH:END -->
+ - [Rogers quietly adds support for Apple Business Chat](https://appleinsider.com/articles/21/07/25/rogers-quietly-adds-support-for-apple-business-chat?utm_medium=rss)
+ - [What is Pegasus and how is it used for spying?](https://www.androidauthority.com/pegasus-spyware-1646458)
+ - [The Best Sunglasses for Every Outdoor Adventure](https://www.wired.com/gallery/best-sunglasses)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
