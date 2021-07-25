@@ -182,9 +182,9 @@ Windows                  1 hr 44 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A Chair at the Beach](http://9gag.com/gag/awM9x38)
- - 🚯 [Every six months this man in South Dakota climbs 457 meter communication tower to change the light bulb He&#039;s paid $20,000 per climb](http://9gag.com/gag/anQ01XB)
- - 🚯 [In the spirit of Olympics](http://9gag.com/gag/ad8WjvQ)<!-- MEMES:END -->
+ - 🚖 [L&aacute;szl&oacute; Szatm&aacute;ri survives a staggering 30 seconds in 9Gs of force](http://9gag.com/gag/aqjV5rv)
+ - 🚯 [For all of it&rsquo;s good, there&rsquo;s this.](http://9gag.com/gag/aWjeMW2)
+ - 🚯 [Every six months this man in South Dakota climbs 457 meter communication tower to change the light bulb He&#039;s paid $20,000 per climb](http://9gag.com/gag/anQ01XB)<!-- MEMES:END -->
 
 --- 
 
