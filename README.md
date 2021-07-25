@@ -182,9 +182,9 @@ Windows                  1 hr 44 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [L&aacute;szl&oacute; Szatm&aacute;ri survives a staggering 30 seconds in 9Gs of force](http://9gag.com/gag/aqjV5rv)
+ - 🚖 [Lawd Jesass ! Those Olympic rings.](http://9gag.com/gag/aMK09BV)
  - 🚯 [For all of it&rsquo;s good, there&rsquo;s this.](http://9gag.com/gag/aWjeMW2)
- - 🚯 [Every six months this man in South Dakota climbs 457 meter communication tower to change the light bulb He&#039;s paid $20,000 per climb](http://9gag.com/gag/anQ01XB)<!-- MEMES:END -->
+ - 🚯 [Unlimited power](http://9gag.com/gag/aYoveXv)<!-- MEMES:END -->
 
 --- 
 
