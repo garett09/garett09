@@ -175,9 +175,9 @@ Windows                  1 hr 44 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Roku Channel: Everything you need to know about the free streaming service](https://www.androidauthority.com/the-roku-channel-1227761)
- - [Doctor Who’s 13th season is a single story, and here’s the first trailer](https://www.theverge.com/2021/7/25/22593232/doctor-who-series-13-teaser-trailer-story)
- - [Wristcam review: The most feature-complete Apple Watch accessory to date](https://appleinsider.com/articles/21/07/25/wristcam-review-the-most-feature-complete-apple-watch-accessory-to-date?utm_medium=rss)<!-- TECH:END -->
+ - [Parking apps in the US have seen a new wave of customers amid a surge in car ownership spurred by people avoiding mass transit and ride sharing due to COVID-19 (Priya Anand/Bloomberg)](http://www.techmeme.com/210725/p8#a210725p8)
+ - [The Pentagon says DJI drones still pose a threat, disavowing its own earlier report](https://www.theverge.com/2021/6/1/22463946/dji-drone-ban-pentagon-department-of-interior)
+ - [The Roku Channel: Everything you need to know about the free streaming service](https://www.androidauthority.com/the-roku-channel-1227761)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
