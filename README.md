@@ -183,8 +183,8 @@ Windows                  1 hr 44 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Too true](http://9gag.com/gag/aV79DYv)
- - 🚯 [Very true](http://9gag.com/gag/aDdqje7)
- - 🚯 [Tokyo Olympics](http://9gag.com/gag/apNnrAb)<!-- MEMES:END -->
+ - 🚯 [Got my first dose yesterday](http://9gag.com/gag/anQ0yKE)
+ - 🚯 [Well, of course I know him. He&rsquo;s me!](http://9gag.com/gag/aQoDMRr)<!-- MEMES:END -->
 
 --- 
 
