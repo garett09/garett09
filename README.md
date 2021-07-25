@@ -182,9 +182,9 @@ Windows                  1 hr 44 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Truck driver got skills. Not this guy, the other one.](http://9gag.com/gag/aLpOjwx)
- - 🚯 [Wa ter me lon](http://9gag.com/gag/ayMmXLX)
- - 🚯 [When you find the perfect opportunity to test out your new submarine](http://9gag.com/gag/a8Evo7Y)<!-- MEMES:END -->
+ - 🚖 [My Rona](http://9gag.com/gag/aAbLDx9)
+ - 🚯 [That this doesn&#039;t please us doesn&#039;t mean he is wrong. He is absolutely right, you know?](http://9gag.com/gag/aZ043o9)
+ - 🚯 [This one sparks joy](http://9gag.com/gag/anQ0jQ5)<!-- MEMES:END -->
 
 --- 
 
