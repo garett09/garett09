@@ -182,9 +182,9 @@ Windows                  1 hr 44 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Tokyo Olympics](http://9gag.com/gag/apNnrAb)
- - 🚯 [Fixed](http://9gag.com/gag/amPOrQv)
- - 🚯 [I found something](http://9gag.com/gag/amPOYb2)<!-- MEMES:END -->
+ - 🚖 [Host calls out audience for laughing at male domestic violence victim](http://9gag.com/gag/aMK0AKW)
+ - 🚯 [Go Sports!](http://9gag.com/gag/aeAqbqO)
+ - 🚯 [Very true](http://9gag.com/gag/aDdqje7)<!-- MEMES:END -->
 
 --- 
 
