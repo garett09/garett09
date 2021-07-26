@@ -181,9 +181,9 @@ Windows                  1 hr 32 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Kid can&#039;t hold her beautiful joy.](http://9gag.com/gag/aZ04yQV)
- - 🚯 [FIRST OLYMPIC GOLD MEDAL OF THE PHILIPPINES WON BY HIDILYN DIAZ FOR WEIGHTLIFTING! PROUD TO BE FILIPINO!](http://9gag.com/gag/abVLVn9)
- - 🚯 [We ordered 1,600 of them... Sent them a link for a logo and they printed the link](http://9gag.com/gag/a6EeK0A)<!-- MEMES:END -->
+ - 🚖 [Small erection (ignore the f**king music)](http://9gag.com/gag/aV79x3d)
+ - 🚯 [Laughs in 5min 0-G](http://9gag.com/gag/aQoDoEd)
+ - 🚯 [&quot;Chchi-naa-h&quot;](http://9gag.com/gag/ayMmMOM)<!-- MEMES:END -->
 
 --- 
 
