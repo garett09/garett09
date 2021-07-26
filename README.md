@@ -174,9 +174,9 @@ Windows                  1 hr 32 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [China's tech crackdown has focused on consumer-facing internet companies, perhaps because Xi believes hard tech like chipmaking is more geopolitically important (Noah Smith/Noahpinion)](http://www.techmeme.com/210725/p11#a210725p11)
- - [Kevin Can F**k Himself is the weirdest show on TV, but does it work?     - CNET](https://www.cnet.com/news/kevin-can-fk-himself-is-the-weirdest-show-on-tv-but-does-it-work/#ftag=CAD590a51e)
- - [Virtual roller coaster rides reveal mysteries of major migraines     - CNET](https://www.cnet.com/news/virtual-roller-coaster-rides-reveal-mysteries-of-major-migraines/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Leaker: Galaxy Z Fold 3 under-display selfie camera won’t be bad (or great)](https://www.androidauthority.com/galaxy-z-fold-3-under-display-camera-1647838)
+ - [Analysts and US officials say the disinformation-for-hire industry is booming, as influencers get approached by back-alley firms to spread falsehoods (Max Fisher/New York Times)](http://www.techmeme.com/210726/p1#a210726p1)
+ - [Oppo Watch 2 leaks ahead of July 27 launch, but will it get the new Wear OS 3?](https://www.androidauthority.com/oppo-watch-3-renders-1656242)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
