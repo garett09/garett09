@@ -167,9 +167,9 @@ Windows                  1 hr 32 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [New Sonic game announcement 'a bit premature' says Sonic Team head](https://www.pcgamer.com/new-sonic-game-announcement-a-bit-premature-says-sonic-team-head)
  - [Five new Steam games you probably missed (July 26, 2021)](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-july-26-2021)
- - [More People Can Play Mini Motorways Now, Which Is Nice](https://kotaku.com/more-people-can-play-mini-motorways-now-which-is-nice-1847359618)
- - [Homeworld Is Being Turned Into A Tabletop RPG](https://kotaku.com/homeworld-is-being-turned-into-a-tabletop-rpg-1847359546)<!-- GAME:END -->
+ - [More People Can Play Mini Motorways Now, Which Is Nice](https://kotaku.com/more-people-can-play-mini-motorways-now-which-is-nice-1847359618)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
