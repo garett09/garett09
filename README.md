@@ -167,9 +167,9 @@ Windows                  1 hr 32 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Sims players are flooding their homes with the new pond tool](https://www.pcgamer.com/sims-players-are-flooding-their-homes-with-the-new-pond-tool)
- - [The Witcher Fan Wins Gold At The Tokyo Olympics](https://kotaku.com/the-witcher-fan-wins-gold-at-the-tokyo-olympics-1847360254)
- - [Big-big screen gaming](https://www.pcgamer.com/big-big-screen-gaming)<!-- GAME:END -->
+ - [A gaming subreddit's harassment campaign peaked when a member faked death threats to themselves](https://www.pcgamer.com/a-gaming-subreddits-harassment-campaign-peaked-when-a-member-faked-death-threats-to-themselves)
+ - [Careful where you download Windows 11, some installers are packed with malware](https://www.pcgamer.com/careful-where-you-download-windows-11-some-installers-are-packed-with-malware)
+ - [New Dragon Ball Anime Movie Teased By CG Goku](https://kotaku.com/cg-goku-teases-new-dragon-ball-anime-movie-1847360611)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
