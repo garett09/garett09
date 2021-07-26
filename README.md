@@ -181,9 +181,9 @@ Windows                  1 hr 32 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Chewie!](http://9gag.com/gag/aV79xLw)
- - 🚯 [Always someone filming when there is a bully](http://9gag.com/gag/a8EvG9O)
- - 🚯 [FIRST OLYMPIC GOLD MEDAL OF THE PHILIPPINES WON BY HIDILYN DIAZ FOR WEIGHTLIFTING! PROUD TO BE FILIPINO!](http://9gag.com/gag/abVLVn9)<!-- MEMES:END -->
+ - 🚖 [Painted this a while back, hope you like it! Would you run or fight?](http://9gag.com/gag/a27AKdd)
+ - 🚯 [Aslong as you&#039;re an employee](http://9gag.com/gag/aV797YM)
+ - 🚯 [&quot;Chchi-naa-h&quot;](http://9gag.com/gag/ayMmMOM)<!-- MEMES:END -->
 
 --- 
 
