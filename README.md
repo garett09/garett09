@@ -174,9 +174,9 @@ Windows                  1 hr 32 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus Nord N10 gets its final major OS update in the form of Android 11](https://www.androidauthority.com/oneplus-nord-n10-n100-update-1174495)
- - [As part of its expanded outreach to US churches, Facebook is offering subscription tools for exclusive content and donation tools during live streams (Elizabeth Dias/New York Times)](http://www.techmeme.com/210726/p5#a210726p5)
- - ['iPhone 14 Pro' may come with titanium alloy frame or enclosure in 2022](https://appleinsider.com/articles/21/07/26/iphone-14-pro-may-come-with-titanium-alloy-frame-or-enclosure-in-2022?utm_medium=rss)<!-- TECH:END -->
+ - [Leaked Surface Duo 2 photos reveal new triple camera system](https://www.theverge.com/2021/7/26/22593992/microsoft-surface-duo-2-triple-camera-leak-photos)
+ - [A look at some of the metrics that FTC can use to define Facebook's alleged monopoly in its refiled antitrust suit, including time on-site and "active users" (John Newman/ProMarket)](http://www.techmeme.com/210726/p12#a210726p12)
+ - [Leak: Redmi K50 series could offer next-generation Snapdragon power](https://www.androidauthority.com/redmi-k50-series-1656736)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
