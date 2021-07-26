@@ -167,9 +167,9 @@ Windows                  1 hr 32 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Nanometer no more: Intel changes its process names to match TSMC](https://www.pcgamer.com/intel-renames-process-nodes-intros-angstrom-era-of-semiconductors)
- - [Portal-Based Shooter Delayed Because It’s Too Dang Popular](https://kotaku.com/portal-based-shooter-delayed-because-it-s-too-dang-popu-1847364918)
- - [What you learn from being the overlord of G.I. Joe and Transformers](https://www.polygon.com/22593298/gi-joe-transformers-movies-producer-lorenzo-di-bonaventura-snake-eyes-interview)<!-- GAME:END -->
+ - [More than 1,500 Activision Blizzard employees condemn company leadership, call for 'compassion for victims'](https://www.pcgamer.com/more-than-1500-activision-blizzard-employees-condemn-company-leadership-call-for-compassion-for-victims)
+ - [11-year-old discovers loophole in Newegg's lottery system, buys RTX 3090](https://www.pcgamer.com/11-year-old-discovers-loophole-in-neweggs-lottery-system-buys-rtx-3090)
+ - [Intel announces Amazon and Qualcomm as its first foundry customers](https://www.pcgamer.com/intel-announces-first-foundry-customers)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
