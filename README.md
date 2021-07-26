@@ -167,9 +167,9 @@ Windows                  1 hr 32 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Try to save your crumbling sci-fi empire in the Alliance of the Sacred Suns demo](https://www.pcgamer.com/try-to-save-your-crumbling-sci-fi-empire-in-the-alliance-of-the-sacred-suns-demo)
- - [The future of Wonder Woman lies with Queen Nubia of the Amazons](https://www.polygon.com/22593424/wonder-woman-comics-nubia-san-diego-comic-con-80th-anniversary)
- - [John Constantine is leaving Legends of Tomorrow, but his actor will return](https://www.polygon.com/2021/7/25/22593380/john-constantine-death-legends-of-tomorrow-season-7)<!-- GAME:END -->
+ - [Five new Steam games you probably missed (July 26, 2021)](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-july-26-2021)
+ - [More People Can Play Mini Motorways Now, Which Is Nice](https://kotaku.com/more-people-can-play-mini-motorways-now-which-is-nice-1847359618)
+ - [Homeworld Is Being Turned Into A Tabletop RPG](https://kotaku.com/homeworld-is-being-turned-into-a-tabletop-rpg-1847359546)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
