@@ -174,9 +174,9 @@ Windows                  1 hr 32 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [‘Good night’ or ‘bedtime’, Alexa routines now support multiple phrases](https://www.theverge.com/2021/7/26/22593874/alexa-smart-home-routines-multiple-custom-phrases)
- - [Biden has to play hardball with platforms like Facebook that amplify disinformation in order to prioritize Americans' wellbeing over Big Tech's whims (Roger McNamee/Wired)](http://www.techmeme.com/210726/p3#a210726p3)
- - [Apple expects high demand for 'iPhone 13,' orders over 100 million A15 processors](https://appleinsider.com/articles/21/07/26/apple-expects-high-demand-for-iphone-13-orders-over-100-million-a15-processors?utm_medium=rss)<!-- TECH:END -->
+ - [OnePlus Nord N10 gets its final major OS update in the form of Android 11](https://www.androidauthority.com/oneplus-nord-n10-n100-update-1174495)
+ - [As part of its expanded outreach to US churches, Facebook is offering subscription tools for exclusive content and donation tools during live streams (Elizabeth Dias/New York Times)](http://www.techmeme.com/210726/p5#a210726p5)
+ - ['iPhone 14 Pro' may come with titanium alloy frame or enclosure in 2022](https://appleinsider.com/articles/21/07/26/iphone-14-pro-may-come-with-titanium-alloy-frame-or-enclosure-in-2022?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
