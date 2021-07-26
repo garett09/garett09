@@ -174,9 +174,9 @@ Windows                  1 hr 32 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - ['The Office' writers credit first video iPod with boosting show's popularity](https://appleinsider.com/articles/21/07/26/the-office-writers-credit-first-video-ipod-with-boosting-shows-popularity?utm_medium=rss)
- - [Apple gives 11 reasons why business users should choose Mac](https://appleinsider.com/articles/21/07/26/apple-gives-11-reasons-why-business-users-should-choose-mac?utm_medium=rss)
- - [Google issues a new Enterprise APIs policy, promising that APIs will remain available far into the future, aiming to move past a reputation for killing services (Tom Krazit/Protocol)](http://www.techmeme.com/210726/p30#a210726p30)<!-- TECH:END -->
+ - [Daily Crunch: Accused January 6 insurrectionist must use face to unlock laptop, orders judge](http://feedproxy.google.com/~r/Techcrunch/~3/jGxgw3cLXLQ/)
+ - [Intel says its Foundry Services will build chips for Qualcomm and AWS and lays out a roadmap to catch up with TSMC and Samsung by 2025 (Stephen Nellis/Reuters)](http://www.techmeme.com/210726/p32#a210726p32)
+ - [Apple gives 11 reasons why business users should choose Mac](https://appleinsider.com/articles/21/07/26/apple-gives-11-reasons-why-business-users-should-choose-mac?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
