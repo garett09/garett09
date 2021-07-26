@@ -181,9 +181,9 @@ Windows                  1 hr 32 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [True af](http://9gag.com/gag/axMe7yD)
- - 🚯 [You dropped this](http://9gag.com/gag/aRX808Q)
- - 🚯 [CCP @ssh0le](http://9gag.com/gag/aoMGezn)<!-- MEMES:END -->
+ - 🚖 [Nikola Tesla&rsquo;s last message to his mother : &ldquo;All these years I had spent in the service of mankind brought me nothing but insults and humiliation.&rdquo;](http://9gag.com/gag/awM9B01)
+ - 🚯 [Scientists: Sir, will this post going to impact the child that failed the test?](http://9gag.com/gag/ad8W5DM)
+ - 🚯 [You dropped this](http://9gag.com/gag/aRX808Q)<!-- MEMES:END -->
 
 --- 
 
