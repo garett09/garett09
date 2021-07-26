@@ -181,9 +181,9 @@ Windows                  1 hr 32 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Whachu doin&#039;?](http://9gag.com/gag/ayMmeZp)
- - 🚯 [Science is amazing](http://9gag.com/gag/aWjeEw3)
- - 🚯 [We ordered 1,600 of them... Sent them a link for a logo and they printed the link](http://9gag.com/gag/a6EeK0A)<!-- MEMES:END -->
+ - 🚖 [Mind blowing ads for Olympic](http://9gag.com/gag/a8Ev5Bp)
+ - 🚯 [Whachu doin&#039;?](http://9gag.com/gag/ayMmeZp)
+ - 🚯 [Disrespecting entire culture](http://9gag.com/gag/ayMmeeb)<!-- MEMES:END -->
 
 --- 
 
