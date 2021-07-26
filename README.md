@@ -175,8 +175,8 @@ Windows                  1 hr 32 mins        ███████████�
 
 <!-- TECH:START -->
  - [As China ramps up testing of its digital yuan, its call for help from Ant and Tencent has led to an awkward dynamic, as Alipay and WeChat Pay are likely rivals (Jing Yang/Wall Street Journal)](http://www.techmeme.com/210725/p10#a210725p10)
- - [This YouTube channel is using AI to gloriously remaster classic game cutscenes](https://www.theverge.com/2021/7/25/22593438/upscale-enhance-hd-4k-8k-final-fantasy-kingdom-hearts-wow-onimusha)
- - [Climbing at the Tokyo Olympics: When and how to watch     - CNET](https://www.cnet.com/news/climbing-at-the-tokyo-olympics-when-and-how-to-watch/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Surfing at the Tokyo Olympics: When and how to watch     - CNET](https://www.cnet.com/news/surfing-at-the-tokyo-summer-olympics-everything-you-need-to-know/#ftag=CAD590a51e)
+ - [Skateboarding at the Tokyo Olympics: Schedule, events, what to know     - CNET](https://www.cnet.com/news/skateboarding-at-the-tokyo-olympics-schedule-events-what-to-know/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
