@@ -181,9 +181,9 @@ Windows                  1 hr 32 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Painted this a while back, hope you like it! Would you run or fight?](http://9gag.com/gag/a27AKdd)
- - 🚯 [Aslong as you&#039;re an employee](http://9gag.com/gag/aV797YM)
- - 🚯 [&quot;Chchi-naa-h&quot;](http://9gag.com/gag/ayMmMOM)<!-- MEMES:END -->
+ - 🚖 [&quot;Chchi-naa-h&quot;](http://9gag.com/gag/ayMmMOM)
+ - 🚯 [Small erection (ignore the f**king music)](http://9gag.com/gag/aV79x3d)
+ - 🚯 [And you still want McDonald&rsquo;s](http://9gag.com/gag/aZ04D7n)<!-- MEMES:END -->
 
 --- 
 
