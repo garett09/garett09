@@ -181,8 +181,8 @@ Windows                  1 hr 32 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Small erection (ignore the f**king music)](http://9gag.com/gag/aV79x3d)
- - 🚯 [Laughs in 5min 0-G](http://9gag.com/gag/aQoDoEd)
+ - 🚖 [Awwww](http://9gag.com/gag/ad8WgL2)
+ - 🚯 [Small erection (ignore the f**king music)](http://9gag.com/gag/aV79x3d)
  - 🚯 [&quot;Chchi-naa-h&quot;](http://9gag.com/gag/ayMmMOM)<!-- MEMES:END -->
 
 --- 
