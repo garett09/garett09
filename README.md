@@ -174,9 +174,9 @@ Windows                  1 hr 32 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [As China ramps up testing of its digital yuan, its call for help from Ant and Tencent has led to an awkward dynamic, as Alipay and WeChat Pay are likely rivals (Jing Yang/Wall Street Journal)](http://www.techmeme.com/210725/p10#a210725p10)
- - [Surfing at the Tokyo Olympics: When and how to watch     - CNET](https://www.cnet.com/news/surfing-at-the-tokyo-summer-olympics-everything-you-need-to-know/#ftag=CAD590a51e)
- - [Skateboarding at the Tokyo Olympics: Schedule, events, what to know     - CNET](https://www.cnet.com/news/skateboarding-at-the-tokyo-olympics-schedule-events-what-to-know/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [China's tech crackdown has focused on consumer-facing internet companies, perhaps because Xi believes hard tech like chipmaking is more geopolitically important (Noah Smith/Noahpinion)](http://www.techmeme.com/210725/p11#a210725p11)
+ - [Kevin Can F**k Himself is the weirdest show on TV, but does it work?     - CNET](https://www.cnet.com/news/kevin-can-fk-himself-is-the-weirdest-show-on-tv-but-does-it-work/#ftag=CAD590a51e)
+ - [Virtual roller coaster rides reveal mysteries of major migraines     - CNET](https://www.cnet.com/news/virtual-roller-coaster-rides-reveal-mysteries-of-major-migraines/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
