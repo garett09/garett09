@@ -167,9 +167,9 @@ Windows                  1 hr 32 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Microsoft Flight Simulator is a Fantastic Flying Experience on Xbox Series X|S](https://news.xbox.com/en-us/2021/07/26/microsoft-flight-simulator-xbox-series-x-preview/)
- - [Some Gaming Websites, YouTube Channels Halt Coverage Of Activision Blizzard Games](https://kotaku.com/some-gaming-websites-youtube-channels-halt-coverage-of-1847362179)
- - [Genshin Impact: 7 things to do in the first 7 days of 2.0](https://www.pcgamer.com/genshin-impact-7-things-to-do-in-the-first-7-days-of-20)<!-- GAME:END -->
+ - [Red Dead Online players are thrift shopping for the newest luxuries](https://www.polygon.com/22594379/red-dead-online-player-cosmetics-clothing-arthur-outfit-haraway-price)
+ - [Pokémon Unite Glitch Makes Machamp Look Even More Naked](https://kotaku.com/pokemon-unite-glitch-makes-machamp-look-even-more-naked-1847362107)
+ - [The best Genshin Impact characters](https://www.pcgamer.com/all-new-genshin-impact-characters-tier-list)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
