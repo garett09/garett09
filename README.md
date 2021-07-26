@@ -174,9 +174,9 @@ Windows                  1 hr 32 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Surface Duo 2 leaks, Microsoft could address a major complaint of original](https://www.androidauthority.com/microsoft-surface-duo-2-camera-1656868)
- - [Spotify adds a What's New feed on iOS and Android, showing continually updating new releases from followed artists, rolling out over the coming weeks (Igor Bonifacic/Engadget)](http://www.techmeme.com/210726/p18#a210726p18)
- - [Amazon could take bitcoin payments in 2021 as it prepares own cryptocurrency](https://appleinsider.com/articles/21/07/26/amazon-could-take-bitcoin-payments-in-2021-as-it-prepares-own-cryptocurrency?utm_medium=rss)<!-- TECH:END -->
+ - [LTE version of Galaxy Chromebook Go could have surprise premium feature](https://www.androidauthority.com/samsung-galaxy-chromebook-go-lte-1656987)
+ - [Bezos offers billions in incentives for NASA’s lunar lander contract](http://feedproxy.google.com/~r/Techcrunch/~3/x3ecTTfZIaY/)
+ - [Best deals for July 26 - $30 off Apple Pencil, $100 off Netgear Orbi](https://appleinsider.com/articles/21/07/26/best-deals-for-july-26---30-off-apple-pencil-100-off-netgear-orbi?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
