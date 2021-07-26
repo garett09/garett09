@@ -174,9 +174,9 @@ Windows                  1 hr 32 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Alexa finally gets a new name and voice: How to switch them up on your Amazon Echo     - CNET](https://www.cnet.com/home/smart-home/alexa-finally-gets-a-new-name-and-voice-how-to-switch-them-up-on-your-amazon-echo/#ftag=CAD590a51e)
  - [You told us: Here’s what you value more between camera software and hardware](https://www.androidauthority.com/camera-hardware-software-poll-results-1656317)
- - [Leaker tells us what to expect from Galaxy Z Fold 3 under-display selfie camera](https://www.androidauthority.com/galaxy-z-fold-3-under-display-camera-1647838)
- - [Analysts and US officials say the disinformation-for-hire industry is booming, as influencers get approached by back-alley firms to spread falsehoods (Max Fisher/New York Times)](http://www.techmeme.com/210726/p1#a210726p1)<!-- TECH:END -->
+ - [Leaker tells us what to expect from Galaxy Z Fold 3 under-display selfie camera](https://www.androidauthority.com/galaxy-z-fold-3-under-display-camera-1647838)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
