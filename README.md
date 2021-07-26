@@ -181,9 +181,9 @@ Windows                  1 hr 32 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [&quot;Chchi-naa-h&quot;](http://9gag.com/gag/ayMmMOM)
- - 🚯 [Small erection (ignore the f**king music)](http://9gag.com/gag/aV79x3d)
- - 🚯 [And you still want McDonald&rsquo;s](http://9gag.com/gag/aZ04D7n)<!-- MEMES:END -->
+ - 🚖 [Dutch bmx rider hit an official that wanted to cross the track.](http://9gag.com/gag/ayMm2Xq)
+ - 🚯 [Funniest GIF contest!!!](http://9gag.com/gag/a07D7qB)
+ - 🚯 [Gallic rooster](http://9gag.com/gag/aAbLb7R)<!-- MEMES:END -->
 
 --- 
 
