@@ -167,9 +167,9 @@ Windows                  1 hr 32 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Blizzard Devs Say Some Men Were Sexually Harassed, Too](https://kotaku.com/blizzard-devs-say-some-men-were-sexually-harassed-too-1847363241)
- - [New Forza Horizon 5 screens showcase 11 biomes on a huge map](https://www.polygon.com/22594786/forza-horizon-5-screenshots-map-size-release-date-xbox-series-x-pc)
- - [Activision Blizzard employees call leadership response to harassment suit ‘abhorrent and insulting’](https://www.polygon.com/22594765/activision-blizzard-open-letter-harassment-lawsuit)<!-- GAME:END -->
+ - [Nanometer no more: Intel changes its process names to match TSMC](https://www.pcgamer.com/intel-renames-process-nodes-intros-angstrom-era-of-semiconductors)
+ - [Portal-Based Shooter Delayed Because It’s Too Dang Popular](https://kotaku.com/portal-based-shooter-delayed-because-it-s-too-dang-popu-1847364918)
+ - [What you learn from being the overlord of G.I. Joe and Transformers](https://www.polygon.com/22593298/gi-joe-transformers-movies-producer-lorenzo-di-bonaventura-snake-eyes-interview)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
