@@ -174,9 +174,9 @@ Windows                  1 hr 32 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [More ‘record-shattering’ heatwaves are on the way](https://www.theverge.com/2021/7/26/22594471/heatwaves-prediction-more-study-climate-change)
- - [PowerZeus 500 Portable Power Station review: Power everything, even off-grid](https://appleinsider.com/articles/21/07/26/powerzeus-500-portable-power-station-review-power-everything-even-off-grid?utm_medium=rss)
- - [Apple is reportedly amassing A15 chips for the iPhone 13 launch     - CNET](https://www.cnet.com/news/apple-is-reportedly-amassing-a15-chips-for-the-iphone-13-launch/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Teamflow, which provides 2D virtual offices to promote informal collaboration among remote staff, raises $35M Series B at a $225M valuation led by Coatue (Rebecca Szkutak/Forbes)](http://www.techmeme.com/210726/p29#a210726p29)
+ - [Apple Music streaming record reportedly shattered by Kanye's 'Donda' event](https://appleinsider.com/articles/21/07/26/apple-music-streaming-record-reportedly-shattered-by-kanyes-donda-event?utm_medium=rss)
+ - [The best wired or wireless gaming headsets to buy](https://www.theverge.com/21549510/best-gaming-headset-wired-wireless-features-specs-price-sound-microphone-test-buy)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
