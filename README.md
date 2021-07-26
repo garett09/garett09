@@ -167,9 +167,9 @@ Windows                  1 hr 32 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Big-big screen gaming](https://www.pcgamer.com/big-big-screen-gaming)
  - [The ALOT texture mod comes to Mass Effect Legendary Edition](https://www.pcgamer.com/the-alot-texture-mod-comes-to-mass-effect-legendary-edition)
- - [Halo Infinite's first technical preview is coming very soon, maybe even next weekend](https://www.pcgamer.com/halo-infinites-first-technical-preview-is-coming-very-soon-maybe-even-next-weekend)
- - [New Sonic game announcement 'a bit premature' says Sonic Team head](https://www.pcgamer.com/new-sonic-game-announcement-a-bit-premature-says-sonic-team-head)<!-- GAME:END -->
+ - [Halo Infinite's first technical preview is coming very soon, maybe even next weekend](https://www.pcgamer.com/halo-infinites-first-technical-preview-is-coming-very-soon-maybe-even-next-weekend)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
