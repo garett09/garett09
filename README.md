@@ -167,9 +167,9 @@ Windows                  1 hr 32 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Magic: The Gathering Arena getting an exclusive new version of Jumpstart](https://www.polygon.com/22594156/magic-the-gathering-arena-jumpstart-historic-horizons-leak-confirmed)
- - [Street Fighter V Champ: ‘Imma Just Play Guilty Gear’](https://kotaku.com/street-fighter-v-champ-imma-just-play-guilty-gear-1847363419)
- - [AMD Radeon RX 6600 XT and RX 6600 prices leak](https://www.pcgamer.com/amd-radeon-rx-6600-xt-and-rx-6600-prices-leak)<!-- GAME:END -->
+ - [Blizzard Devs Say Some Men Were Sexually Harassed, Too](https://kotaku.com/blizzard-devs-say-some-men-were-sexually-harassed-too-1847363241)
+ - [New Forza Horizon 5 screens showcase 11 biomes on a huge map](https://www.polygon.com/22594786/forza-horizon-5-screenshots-map-size-release-date-xbox-series-x-pc)
+ - [Activision Blizzard employees call leadership response to harassment suit ‘abhorrent and insulting’](https://www.polygon.com/22594765/activision-blizzard-open-letter-harassment-lawsuit)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
