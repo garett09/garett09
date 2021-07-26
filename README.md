@@ -181,9 +181,9 @@ Windows                  1 hr 32 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Nikola Tesla&rsquo;s last message to his mother : &ldquo;All these years I had spent in the service of mankind brought me nothing but insults and humiliation.&rdquo;](http://9gag.com/gag/awM9B01)
- - 🚯 [You dropped this](http://9gag.com/gag/aRX808Q)
- - 🚯 [Science is amazing](http://9gag.com/gag/aWjeEw3)<!-- MEMES:END -->
+ - 🚖 [It&rsquo;s bow time!](http://9gag.com/gag/aMK0xmP)
+ - 🚯 [Scientists: Sir, will this post going to impact the child that failed the test?](http://9gag.com/gag/ad8W5DM)
+ - 🚯 [Nikola Tesla&rsquo;s last message to his mother : &ldquo;All these years I had spent in the service of mankind brought me nothing but insults and humiliation.&rdquo;](http://9gag.com/gag/awM9B01)<!-- MEMES:END -->
 
 --- 
 
