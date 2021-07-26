@@ -174,9 +174,9 @@ Windows                  1 hr 32 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lucid Motors goes public, collects $4.5 billion](https://www.theverge.com/2021/7/26/22594177/lucid-motors-spac-nasdaq-saudi-arabia-ev-startup)
- - [2022 Mac Pro said to use Intel Ice Lake Xeon W-3300 CPU](https://appleinsider.com/articles/21/07/26/2022-mac-pro-said-to-use-intel-ice-lake-xeon-w-3300-cpus?utm_medium=rss)
- - [Health record company pays hospitals that use its algorithms](https://www.theverge.com/2021/7/26/22594241/epic-health-algorithm-payment-accuracy-sepsis)<!-- TECH:END -->
+ - [Medallia, which offers customer experience management tools, says PE firm Thoma Bravo will take the company private for $6.4B, after going public in 2019 (Reuters)](http://www.techmeme.com/210726/p25#a210726p25)
+ - [Apple releases iOS 14.7.1, iPadOS 14.7.1 with Apple Watch TouchID unlock fix](https://appleinsider.com/articles/21/07/26/apple-releases-ios-1471-ipados-1471-with-apple-watch-touchid-unlock-fix?utm_medium=rss)
+ - [Court orders US Capitol rioter to unlock his laptop ‘with his face’](http://feedproxy.google.com/~r/Techcrunch/~3/tb9nrm529gI/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
