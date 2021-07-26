@@ -174,9 +174,9 @@ Windows                  1 hr 32 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily Crunch: Accused January 6 insurrectionist must use face to unlock laptop, orders judge](http://feedproxy.google.com/~r/Techcrunch/~3/jGxgw3cLXLQ/)
- - [Intel says its Foundry Services will build chips for Qualcomm and AWS and lays out a roadmap to catch up with TSMC and Samsung by 2025 (Stephen Nellis/Reuters)](http://www.techmeme.com/210726/p32#a210726p32)
- - [Apple gives 11 reasons why business users should choose Mac](https://appleinsider.com/articles/21/07/26/apple-gives-11-reasons-why-business-users-should-choose-mac?utm_medium=rss)<!-- TECH:END -->
+ - [Facebook's Oculus investigating Apple Health app integration](https://appleinsider.com/articles/21/07/26/facebooks-oculus-investigating-apple-health-app-integration?utm_medium=rss)
+ - [Nokia’s rugged XR20 phone coming to US with three years of updates, $550 price](https://www.androidauthority.com/nokia-xr20-1657238)
+ - [Nokia’s XR20 is a rugged 5G phone with three years of OS updates](https://www.theverge.com/2021/7/26/22591113/nokia-xr20-rugged-phone-c30-6310-clarity-earbuds-pro)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
