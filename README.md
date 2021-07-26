@@ -174,9 +174,9 @@ Windows                  1 hr 32 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Medallia, which offers customer experience management tools, says PE firm Thoma Bravo will take the company private for $6.4B, after going public in 2019 (Reuters)](http://www.techmeme.com/210726/p25#a210726p25)
- - [Apple releases iOS 14.7.1, iPadOS 14.7.1 with Apple Watch TouchID unlock fix](https://appleinsider.com/articles/21/07/26/apple-releases-ios-1471-ipados-1471-with-apple-watch-touchid-unlock-fix?utm_medium=rss)
- - [Court orders US Capitol rioter to unlock his laptop ‘with his face’](http://feedproxy.google.com/~r/Techcrunch/~3/tb9nrm529gI/)<!-- TECH:END -->
+ - [Amazon-backed Indian D2C beauty brand MyGlamm raises $71 million](http://feedproxy.google.com/~r/Techcrunch/~3/hZJ9E-OV4Fc/)
+ - [Android 12 release date: When can you expect it to launch?](https://www.androidauthority.com/android-12-release-date-1202179)
+ - [Profile of Google Cloud boss Thomas Kurian, an Oracle veteran who oversees 37,000 employees and has focused on improving Google's sales teams (Nico Grant/Bloomberg)](http://www.techmeme.com/210726/p27#a210726p27)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
