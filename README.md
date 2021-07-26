@@ -167,9 +167,9 @@ Windows                  1 hr 32 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Red Dead Online players are thrift shopping for the newest luxuries](https://www.polygon.com/22594379/red-dead-online-player-cosmetics-clothing-arthur-outfit-haraway-price)
- - [Pokémon Unite Glitch Makes Machamp Look Even More Naked](https://kotaku.com/pokemon-unite-glitch-makes-machamp-look-even-more-naked-1847362107)
- - [The best Genshin Impact characters](https://www.pcgamer.com/all-new-genshin-impact-characters-tier-list)<!-- GAME:END -->
+ - [Report: Netflix Is Making A Live-Action Pokémon Series](https://kotaku.com/report-netflix-is-making-a-live-action-pokemon-series-1847363481)
+ - [Report: Live-action Pokémon series in the works at Netflix](https://www.polygon.com/22594619/netflix-pokemon-live-action-tv-show-release-dates-launch-premiere)
+ - [Pig, a reminder that Nicolas Cage is GOAT, and everything else we’ve been watching](https://www.polygon.com/2021/7/26/22594110/new-movies-watch-pig-nic-cage-netflix-blood-red-sky)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
