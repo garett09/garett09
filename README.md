@@ -174,9 +174,9 @@ Windows                  1 hr 32 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Leaked Surface Duo 2 photos reveal new triple camera system](https://www.theverge.com/2021/7/26/22593992/microsoft-surface-duo-2-triple-camera-leak-photos)
- - [A look at some of the metrics that FTC can use to define Facebook's alleged monopoly in its refiled antitrust suit, including time on-site and "active users" (John Newman/ProMarket)](http://www.techmeme.com/210726/p12#a210726p12)
- - [Leak: Redmi K50 series could offer next-generation Snapdragon power](https://www.androidauthority.com/redmi-k50-series-1656736)<!-- TECH:END -->
+ - [Apple’s AirPods Pro are $179 in-store at Staples through the rest of July](https://www.theverge.com/good-deals/2021/7/26/22593999/apple-airpods-pro-homepod-mini-brydge-ipad-surface-keyboard-deal-sale)
+ - [Phil Schiller talks iconic design in Lamborghini Countach interview](https://appleinsider.com/articles/21/07/26/phil-schiller-talks-iconic-design-in-lamborghini-countach-interview?utm_medium=rss)
+ - [A look at the Intel World Open esports competition at the Tokyo Olympics, which took place entirely online, outside of the official games, and was laggy (Shannon Liao/Washington Post)](http://www.techmeme.com/210726/p15#a210726p15)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
