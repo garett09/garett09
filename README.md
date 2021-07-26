@@ -174,9 +174,9 @@ Windows                  1 hr 32 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kenyan tech founders say there is a funding bias toward North American and European expats in the country; analysis: only one Kenyan founder raised $1M+ in 2019 (Yinka Adegoke/Rest of World)](http://www.techmeme.com/210725/p9#a210725p9)
- - [Kanye West's 'Donda' will be released on August 6](https://appleinsider.com/articles/21/07/25/kanye-wests-donda-will-be-released-on-august-6?utm_medium=rss)
- - [MLB will try encrypted transmitters and bone conduction to stop sign stealing](https://www.theverge.com/2021/7/25/22593363/mlb-baseball-sign-stealing-transmitter-pitchcom)<!-- TECH:END -->
+ - [As China ramps up testing of its digital yuan, its call for help from Ant and Tencent has led to an awkward dynamic, as Alipay and WeChat Pay are likely rivals (Jing Yang/Wall Street Journal)](http://www.techmeme.com/210725/p10#a210725p10)
+ - [This YouTube channel is using AI to gloriously remaster classic game cutscenes](https://www.theverge.com/2021/7/25/22593438/upscale-enhance-hd-4k-8k-final-fantasy-kingdom-hearts-wow-onimusha)
+ - [Climbing at the Tokyo Olympics: When and how to watch     - CNET](https://www.cnet.com/news/climbing-at-the-tokyo-olympics-when-and-how-to-watch/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
