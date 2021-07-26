@@ -167,9 +167,9 @@ Windows                  1 hr 32 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dexter: New Blood creators want to redefine Dexter’s original finale with new ending that’ll ‘blow up the internet’](https://www.polygon.com/22594107/dexter-ending-new-blood-2021-episodes-comic-con)
- - [Tribes of Midgard: Viking-tastic beasts and how to fight them](http://feedproxy.google.com/~r/PSBlog/~3/E4wG1p8WrRs/)
- - [Tribes of Midgard: Viking-tastic beasts and how to fight them](https://blog.playstation.com/2021/07/26/tribes-of-midgard-viking-tastic-beasts-and-how-to-fight-them/)<!-- GAME:END -->
+ - [Microsoft Flight Simulator is a Fantastic Flying Experience on Xbox Series X|S](https://news.xbox.com/en-us/2021/07/26/microsoft-flight-simulator-xbox-series-x-preview/)
+ - [Some Gaming Websites, YouTube Channels Halt Coverage Of Activision Blizzard Games](https://kotaku.com/some-gaming-websites-youtube-channels-halt-coverage-of-1847362179)
+ - [Genshin Impact: 7 things to do in the first 7 days of 2.0](https://www.pcgamer.com/genshin-impact-7-things-to-do-in-the-first-7-days-of-20)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
