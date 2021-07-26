@@ -181,9 +181,9 @@ Windows                  1 hr 32 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Rayssa, 13 y/o girl from Brazil, just won silver medal on street skate. LEGEND](http://9gag.com/gag/av5BoEn)
- - 🚯 [Nikola Tesla&rsquo;s last message to his mother : &ldquo;All these years I had spent in the service of mankind brought me nothing but insults and humiliation.&rdquo;](http://9gag.com/gag/awM9B01)
- - 🚯 [Mind blowing ads for Olympic](http://9gag.com/gag/a8Ev5Bp)<!-- MEMES:END -->
+ - 🚖 [Whachu doin&#039;?](http://9gag.com/gag/ayMmeZp)
+ - 🚯 [Science is amazing](http://9gag.com/gag/aWjeEw3)
+ - 🚯 [We ordered 1,600 of them... Sent them a link for a logo and they printed the link](http://9gag.com/gag/a6EeK0A)<!-- MEMES:END -->
 
 --- 
 
