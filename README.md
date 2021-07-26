@@ -167,9 +167,9 @@ Windows                  1 hr 32 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [More than 1,500 Activision Blizzard employees condemn company leadership, call for 'compassion for victims'](https://www.pcgamer.com/more-than-1500-activision-blizzard-employees-condemn-company-leadership-call-for-compassion-for-victims)
- - [11-year-old discovers loophole in Newegg's lottery system, buys RTX 3090](https://www.pcgamer.com/11-year-old-discovers-loophole-in-neweggs-lottery-system-buys-rtx-3090)
- - [Intel announces Amazon and Qualcomm as its first foundry customers](https://www.pcgamer.com/intel-announces-first-foundry-customers)<!-- GAME:END -->
+ - [Samurai Warriors 5 does what Warriors games do well, again](https://www.polygon.com/reviews/22590714/samurai-warriors-5-review-playstation-4-koei-tecmo)
+ - [New Unreal Engine Renders Even More Realistic Grizzled White Men](https://kotaku.com/new-unreal-engine-renders-even-more-realistic-grizzled-1847365866)
+ - [Emulator developers see tons of potential in the Steam Deck](https://www.pcgamer.com/emulator-developers-see-tons-of-potential-in-the-steam-deck)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
