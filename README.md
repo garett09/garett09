@@ -181,9 +181,9 @@ Windows                  1 hr 32 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Man makes fun of another man&#039;s origin then gets rocked](http://9gag.com/gag/a07DQrZ)
- - 🚯 [Junking An Old Car](http://9gag.com/gag/agBpn6K)
- - 🚯 [That this doesn&#039;t please us doesn&#039;t mean he is wrong. He is absolutely right, you know?](http://9gag.com/gag/aZ043o9)<!-- MEMES:END -->
+ - 🚖 [Did not expect that&hellip;](http://9gag.com/gag/aV79032)
+ - 🚯 [Just gonna shop for ten minutes while blocking a fire truck](http://9gag.com/gag/aP3VYWG)
+ - 🚯 [There&#039;s just something about them](http://9gag.com/gag/amPOBYv)<!-- MEMES:END -->
 
 --- 
 
