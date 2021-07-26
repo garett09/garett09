@@ -167,9 +167,9 @@ Windows                  1 hr 32 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Leaks suggest AMD's new GPU has 3x the core count of an RX 6900 XT](https://www.pcgamer.com/amd-navi-31-rdna-3-rumours-multi-chip-design)
- - [Seagate's 8TB external HDD with professional data recovery is just $170 today](https://www.pcgamer.com/seagates-8tb-external-hdd-with-professional-data-recovery-is-just-dollar170-today)
- - [Nvidia GeForce RTX 40-series rumours point to TSMC 5nm, Lovelace, and late 2022 launch](https://www.pcgamer.com/nvidia-geforce-rtx-40-series-gpu-architecture-process-node-launch-rumour)<!-- GAME:END -->
+ - [Diablo Co-Creator Chris Metzen On Blizzard Lawsuit: 'We Failed'](https://kotaku.com/diablo-co-creator-chris-metzen-on-blizzard-lawsuit-we-1847361133)
+ - [Winds & Leaves blooms on PS VR tomorrow](http://feedproxy.google.com/~r/PSBlog/~3/e6dbd9JsyVo/)
+ - [Winds & Leaves blooms on PS VR tomorrow](https://blog.playstation.com/2021/07/26/winds-leaves-blooms-on-ps-vr-tomorrow/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
