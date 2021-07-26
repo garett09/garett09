@@ -174,9 +174,9 @@ Windows                  1 hr 32 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [LTE version of Galaxy Chromebook Go could have surprise premium feature](https://www.androidauthority.com/samsung-galaxy-chromebook-go-lte-1656987)
- - [Bezos offers billions in incentives for NASA’s lunar lander contract](http://feedproxy.google.com/~r/Techcrunch/~3/x3ecTTfZIaY/)
- - [Best deals for July 26 - $30 off Apple Pencil, $100 off Netgear Orbi](https://appleinsider.com/articles/21/07/26/best-deals-for-july-26---30-off-apple-pencil-100-off-netgear-orbi?utm_medium=rss)<!-- TECH:END -->
+ - [Lucid Motors goes public, collects $4.5 billion](https://www.theverge.com/2021/7/26/22594177/lucid-motors-spac-nasdaq-saudi-arabia-ev-startup)
+ - [2022 Mac Pro said to use Intel Ice Lake Xeon W-3300 CPU](https://appleinsider.com/articles/21/07/26/2022-mac-pro-said-to-use-intel-ice-lake-xeon-w-3300-cpus?utm_medium=rss)
+ - [Health record company pays hospitals that use its algorithms](https://www.theverge.com/2021/7/26/22594241/epic-health-algorithm-payment-accuracy-sepsis)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
