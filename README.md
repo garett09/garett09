@@ -181,9 +181,9 @@ Windows                  1 hr 32 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hero yorkie puts up brave fight to protect 10-year-old girl from coyote attack......](http://9gag.com/gag/anQ09mL)
- - 🚯 [Now that&#039;s what i call the best moments of life](http://9gag.com/gag/apNnQMb)
- - 🚯 [Inside an ice cream production facility](http://9gag.com/gag/a9E4Kq1)<!-- MEMES:END -->
+ - 🚖 [Man makes fun of another man&#039;s origin then gets rocked](http://9gag.com/gag/a07DQrZ)
+ - 🚯 [Junking An Old Car](http://9gag.com/gag/agBpn6K)
+ - 🚯 [That this doesn&#039;t please us doesn&#039;t mean he is wrong. He is absolutely right, you know?](http://9gag.com/gag/aZ043o9)<!-- MEMES:END -->
 
 --- 
 
