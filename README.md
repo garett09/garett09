@@ -181,9 +181,9 @@ Windows                  1 hr 32 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [My Rona](http://9gag.com/gag/aAbLDx9)
- - 🚯 [That this doesn&#039;t please us doesn&#039;t mean he is wrong. He is absolutely right, you know?](http://9gag.com/gag/aZ043o9)
- - 🚯 [This one sparks joy](http://9gag.com/gag/anQ0jQ5)<!-- MEMES:END -->
+ - 🚖 [There&#039;s just something about them](http://9gag.com/gag/amPOBYv)
+ - 🚯 [It Hurts](http://9gag.com/gag/aB2b8DD)
+ - 🚯 [Society drove him to do it.](http://9gag.com/gag/ad8WKX2)<!-- MEMES:END -->
 
 --- 
 
