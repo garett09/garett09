@@ -167,9 +167,9 @@ Windows                  1 hr 32 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The Witcher Fan Wins Gold At The Tokyo Olympics](https://kotaku.com/the-witcher-fan-wins-gold-at-the-tokyo-olympics-1847360254)
  - [Big-big screen gaming](https://www.pcgamer.com/big-big-screen-gaming)
- - [The ALOT texture mod comes to Mass Effect Legendary Edition](https://www.pcgamer.com/the-alot-texture-mod-comes-to-mass-effect-legendary-edition)
- - [Halo Infinite's first technical preview is coming very soon, maybe even next weekend](https://www.pcgamer.com/halo-infinites-first-technical-preview-is-coming-very-soon-maybe-even-next-weekend)<!-- GAME:END -->
+ - [The ALOT texture mod comes to Mass Effect Legendary Edition](https://www.pcgamer.com/the-alot-texture-mod-comes-to-mass-effect-legendary-edition)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
