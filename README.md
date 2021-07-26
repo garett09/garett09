@@ -181,9 +181,9 @@ Windows                  1 hr 32 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Did not expect that&hellip;](http://9gag.com/gag/aV79032)
- - 🚯 [Just gonna shop for ten minutes while blocking a fire truck](http://9gag.com/gag/aP3VYWG)
- - 🚯 [There&#039;s just something about them](http://9gag.com/gag/amPOBYv)<!-- MEMES:END -->
+ - 🚖 [True af](http://9gag.com/gag/axMe7yD)
+ - 🚯 [You dropped this](http://9gag.com/gag/aRX808Q)
+ - 🚯 [CCP @ssh0le](http://9gag.com/gag/aoMGezn)<!-- MEMES:END -->
 
 --- 
 
