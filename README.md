@@ -181,9 +181,9 @@ Windows                  1 hr 32 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Dutch bmx rider hit an official that wanted to cross the track.](http://9gag.com/gag/ayMm2Xq)
- - 🚯 [Funniest GIF contest!!!](http://9gag.com/gag/a07D7qB)
- - 🚯 [Gallic rooster](http://9gag.com/gag/aAbLb7R)<!-- MEMES:END -->
+ - 🚖 [Gallic rooster](http://9gag.com/gag/aAbLb7R)
+ - 🚯 [Dutch bmx rider hit an official that wanted to cross the track.](http://9gag.com/gag/ayMm2Xq)
+ - 🚯 [We all have that one friend](http://9gag.com/gag/aNpGDzb)<!-- MEMES:END -->
 
 --- 
 
