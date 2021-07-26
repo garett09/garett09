@@ -167,9 +167,9 @@ Windows                  1 hr 32 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Diablo Co-Creator Chris Metzen On Blizzard Lawsuit: 'We Failed'](https://kotaku.com/diablo-co-creator-chris-metzen-on-blizzard-lawsuit-we-1847361133)
- - [Winds & Leaves blooms on PS VR tomorrow](http://feedproxy.google.com/~r/PSBlog/~3/e6dbd9JsyVo/)
- - [Winds & Leaves blooms on PS VR tomorrow](https://blog.playstation.com/2021/07/26/winds-leaves-blooms-on-ps-vr-tomorrow/)<!-- GAME:END -->
+ - [Dexter: New Blood creators want to redefine Dexter’s original finale with new ending that’ll ‘blow up the internet’](https://www.polygon.com/22594107/dexter-ending-new-blood-2021-episodes-comic-con)
+ - [Tribes of Midgard: Viking-tastic beasts and how to fight them](http://feedproxy.google.com/~r/PSBlog/~3/E4wG1p8WrRs/)
+ - [Tribes of Midgard: Viking-tastic beasts and how to fight them](https://blog.playstation.com/2021/07/26/tribes-of-midgard-viking-tastic-beasts-and-how-to-fight-them/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
