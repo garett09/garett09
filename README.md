@@ -167,9 +167,9 @@ Windows                  1 hr 32 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Halo Infinite's first technical preview is coming very soon, maybe even next weekend](https://www.pcgamer.com/halo-infinites-first-technical-preview-is-coming-very-soon-maybe-even-next-weekend)
  - [New Sonic game announcement 'a bit premature' says Sonic Team head](https://www.pcgamer.com/new-sonic-game-announcement-a-bit-premature-says-sonic-team-head)
- - [Five new Steam games you probably missed (July 26, 2021)](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-july-26-2021)
- - [More People Can Play Mini Motorways Now, Which Is Nice](https://kotaku.com/more-people-can-play-mini-motorways-now-which-is-nice-1847359618)<!-- GAME:END -->
+ - [Five new Steam games you probably missed (July 26, 2021)](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-july-26-2021)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
