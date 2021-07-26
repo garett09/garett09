@@ -181,9 +181,9 @@ Windows                  1 hr 32 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [There&#039;s just something about them](http://9gag.com/gag/amPOBYv)
- - 🚯 [It Hurts](http://9gag.com/gag/aB2b8DD)
- - 🚯 [Society drove him to do it.](http://9gag.com/gag/ad8WKX2)<!-- MEMES:END -->
+ - 🚖 [It Hurts](http://9gag.com/gag/aB2b8DD)
+ - 🚯 [Society drove him to do it.](http://9gag.com/gag/ad8WKX2)
+ - 🚯 [When you find the perfect opportunity to test out your new submarine](http://9gag.com/gag/a8Evo7Y)<!-- MEMES:END -->
 
 --- 
 
