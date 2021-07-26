@@ -181,9 +181,9 @@ Windows                  1 hr 32 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Mind blowing ads for Olympic](http://9gag.com/gag/a8Ev5Bp)
+ - 🚖 [Laughs in 5min 0-G](http://9gag.com/gag/aQoDoEd)
  - 🚯 [Whachu doin&#039;?](http://9gag.com/gag/ayMmeZp)
- - 🚯 [Disrespecting entire culture](http://9gag.com/gag/ayMmeeb)<!-- MEMES:END -->
+ - 🚯 [It&rsquo;s bow time!](http://9gag.com/gag/aMK0xmP)<!-- MEMES:END -->
 
 --- 
 
