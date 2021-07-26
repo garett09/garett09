@@ -174,9 +174,9 @@ Windows                  1 hr 32 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Teamflow, which provides 2D virtual offices to promote informal collaboration among remote staff, raises $35M Series B at a $225M valuation led by Coatue (Rebecca Szkutak/Forbes)](http://www.techmeme.com/210726/p29#a210726p29)
- - [Apple Music streaming record reportedly shattered by Kanye's 'Donda' event](https://appleinsider.com/articles/21/07/26/apple-music-streaming-record-reportedly-shattered-by-kanyes-donda-event?utm_medium=rss)
- - [The best wired or wireless gaming headsets to buy](https://www.theverge.com/21549510/best-gaming-headset-wired-wireless-features-specs-price-sound-microphone-test-buy)<!-- TECH:END -->
+ - ['The Office' writers credit first video iPod with boosting show's popularity](https://appleinsider.com/articles/21/07/26/the-office-writers-credit-first-video-ipod-with-boosting-shows-popularity?utm_medium=rss)
+ - [Apple gives 11 reasons why business users should choose Mac](https://appleinsider.com/articles/21/07/26/apple-gives-11-reasons-why-business-users-should-choose-mac?utm_medium=rss)
+ - [Google issues a new Enterprise APIs policy, promising that APIs will remain available far into the future, aiming to move past a reputation for killing services (Tom Krazit/Protocol)](http://www.techmeme.com/210726/p30#a210726p30)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
