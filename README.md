@@ -181,9 +181,9 @@ Windows                  1 hr 32 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It Hurts](http://9gag.com/gag/aB2b8DD)
- - 🚯 [India railways cleaning service](http://9gag.com/gag/aZ04gq9)
- - 🚯 [When you find the perfect opportunity to test out your new submarine](http://9gag.com/gag/a8Evo7Y)<!-- MEMES:END -->
+ - 🚖 [Cracked me up](http://9gag.com/gag/aAbL3No)
+ - 🚯 [Junking An Old Car](http://9gag.com/gag/agBpn6K)
+ - 🚯 [Now that&#039;s what i call the best moments of life](http://9gag.com/gag/apNnQMb)<!-- MEMES:END -->
 
 --- 
 
