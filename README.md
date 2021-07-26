@@ -167,9 +167,9 @@ Windows                  1 hr 32 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Report: Netflix Is Making A Live-Action Pokémon Series](https://kotaku.com/report-netflix-is-making-a-live-action-pokemon-series-1847363481)
- - [Report: Live-action Pokémon series in the works at Netflix](https://www.polygon.com/22594619/netflix-pokemon-live-action-tv-show-release-dates-launch-premiere)
- - [Pig, a reminder that Nicolas Cage is GOAT, and everything else we’ve been watching](https://www.polygon.com/2021/7/26/22594110/new-movies-watch-pig-nic-cage-netflix-blood-red-sky)<!-- GAME:END -->
+ - [Magic: The Gathering Arena getting an exclusive new version of Jumpstart](https://www.polygon.com/22594156/magic-the-gathering-arena-jumpstart-historic-horizons-leak-confirmed)
+ - [Street Fighter V Champ: ‘Imma Just Play Guilty Gear’](https://kotaku.com/street-fighter-v-champ-imma-just-play-guilty-gear-1847363419)
+ - [AMD Radeon RX 6600 XT and RX 6600 prices leak](https://www.pcgamer.com/amd-radeon-rx-6600-xt-and-rx-6600-prices-leak)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
