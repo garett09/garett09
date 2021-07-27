@@ -167,9 +167,9 @@ Windows                  1 hr 32 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Cruelty Squad is both brilliant and hard to love](https://www.polygon.com/reviews/22596014/cruelty-squad-immersive-sim-review-missions-combat-aesthetics)
- - [Microsoft Flight Simulator Available Today on Xbox Series X | S and Xbox Game Pass](https://news.xbox.com/en-us/2021/07/27/microsoft-flight-simulator-available-today-on-xbox-series-x-s-and-xbox-game-pass/)
- - [The best Warzone loadouts and class setups](https://www.pcgamer.com/best-warzone-loadout)<!-- GAME:END -->
+ - [Blizzard quietly reveals all the new cards in the Hearthstone: United in Stormwind expansion](https://www.pcgamer.com/blizzard-quietly-reveals-all-the-new-cards-in-the-hearthstone-united-in-stormwind-expansion)
+ - [The 5 films that inspired The Green Knight](https://www.polygon.com/what-to-watch/22595838/green-knight-best-fantasy-movies-inspiration-david-lowery)
+ - [Dreams: DreamsCom21 starts today](http://feedproxy.google.com/~r/PSBlog/~3/TBkJ-X5qXcY/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
