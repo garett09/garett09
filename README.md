@@ -181,9 +181,9 @@ Windows                  1 hr 32 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Bending levels](http://9gag.com/gag/awM9yvr)
- - 🚯 [Just one more...](http://9gag.com/gag/aMK0VNM)
- - 🚯 [Australian swimmer Kaylee McKeown celebrates her 100m backstroke gold medal in true Aussie style](http://9gag.com/gag/abVLeeL)<!-- MEMES:END -->
+ - 🚖 [Straight to therapy](http://9gag.com/gag/awM9gO8)
+ - 🚯 [Australian swimmer Kaylee McKeown celebrates her 100m backstroke gold medal in true Aussie style](http://9gag.com/gag/abVLeeL)
+ - 🚯 [6 years ago Tony Hawk tweeted a video of Rayssa Leal. Now at 13 yes old she is an Olympic silver medalist.](http://9gag.com/gag/a6EeZg8)<!-- MEMES:END -->
 
 --- 
 
