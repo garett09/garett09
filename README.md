@@ -181,9 +181,9 @@ Windows                  1 hr 32 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Gallic rooster](http://9gag.com/gag/aAbLb7R)
+ - 🚖 [Why great white sharks have no natural predators](http://9gag.com/gag/aNpGw3b)
  - 🚯 [Dutch bmx rider hit an official that wanted to cross the track.](http://9gag.com/gag/ayMm2Xq)
- - 🚯 [We all have that one friend](http://9gag.com/gag/aNpGDzb)<!-- MEMES:END -->
+ - 🚯 [Norwegen Team needs to change their color](http://9gag.com/gag/aAbLGng)<!-- MEMES:END -->
 
 --- 
 
