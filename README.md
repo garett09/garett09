@@ -167,9 +167,9 @@ Windows                  1 hr 32 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [I just can't stop staring at this hypnotic DIY Ambilight project](https://www.pcgamer.com/makeshift-arduino-philips-ambilight-feature)
- - [UK games industry veteran Ian Richardson dies aged 53](https://www.pcgamer.com/uk-games-industry-veteran-ian-richardson-dies-aged-53)
- - [This free bundle of the Mass Effect OST, comics and art books is only available for a few more days](https://www.pcgamer.com/this-free-bundle-of-the-mass-effect-ost-comics-and-art-books-is-only-available-for-a-few-more-days)<!-- GAME:END -->
+ - [We're Making New Animal Crossing Content, Nintendo Says](https://kotaku.com/were-making-new-animal-crossing-content-nintendo-says-1847368366)
+ - [AMD's flagship Ryzen 9 5950X is in stock and selling below MSRP right now](https://www.pcgamer.com/amds-flagship-ryzen-9-5950x-is-in-stock-and-selling-below-msrp-right-now)
+ - [Your new favourite indie in five words: Fully destructible sword-wielding robots](https://www.pcgamer.com/your-new-favourite-indie-in-five-words-fully-destructible-sword-wielding-robots)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
