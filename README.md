@@ -174,9 +174,9 @@ Windows                  1 hr 32 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mark Ronson talks pleasures and problems in making 'Watch the Sound' for Apple TV+](https://appleinsider.com/articles/21/07/27/mark-ronson-talks-pleasures-and-problems-in-making-watch-the-sound-for-apple-tv?utm_medium=rss)
- - [Wiliot, which is developing IoT chips powered by ambient radio frequencies, raises $200M Series C led by SoftBank's Vision Fund 2 as it plans an SaaS pivot (Ingrid Lunden/TechCrunch)](http://www.techmeme.com/210727/p15#a210727p15)
- - [Zens 4-in-1 wireless charger powers MagSafe iPhones and three other devices](https://appleinsider.com/articles/21/07/27/zens-4-in-1-wireless-charger-powers-magsafe-iphones-and-three-other-devices?utm_medium=rss)<!-- TECH:END -->
+ - [Fireblocks, which lets users store, transfer, and issue digital assets, raises $310M Series D led by Sequoia, Stripes, and Spark at a $2.2B valuation (Mary Ann Azevedo/TechCrunch)](http://www.techmeme.com/210727/p18#a210727p18)
+ - [Instagram announces changes for teen accounts, including making them private by default, restricting messages from "suspicious" adults, and limiting ads (Olivia Solon/NBC News)](http://www.techmeme.com/210727/p17#a210727p17)
+ - [Amazon’s second-gen Echo Buds are down to their lowest price since Prime Day](https://www.theverge.com/good-deals/2021/7/27/22595047/amazon-echo-buds-logitech-mx-keys-mac-keyboard-sandisk-microsd-card-deal-sale)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
