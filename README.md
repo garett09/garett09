@@ -167,9 +167,9 @@ Windows                  1 hr 32 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Imagine if Settlers of Catan looked like SimCity](https://www.polygon.com/22595914/settlers-of-catan-pixel-art-astro-boy-game-development-mecha-tactis-rpg)
- - [Skyward Sword deserved the Final Fantasy 7 Remake treatment](https://www.polygon.com/22596531/skyward-sword-hd-remake-remaster-controls-camera)
- - [You Don’t Need To Download All Of Microsoft Flight Sim On Xbox Series X/S](https://kotaku.com/you-don-t-need-to-download-all-of-microsoft-flight-sim-1847372175)<!-- GAME:END -->
+ - [Sizing up the 10 most popular things on Netflix right now](https://www.polygon.com/2020/3/10/21167710/10-netflix-movies-shows-most-popular)
+ - [Sports video games double-dip with annual releases and cosmetic battle passes](https://www.polygon.com/22596609/f1-2021-podium-pass-customizables-liveries-helmets-carryover-problem)
+ - [Mass Effect: Legendary Edition brought out the basic Paragon Shepards](https://www.pcgamer.com/mass-effect-legendary-edition-brought-out-the-basic-paragon-shepards)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
