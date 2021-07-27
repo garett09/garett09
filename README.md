@@ -174,9 +174,9 @@ Windows                  1 hr 32 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Notes of interest from Apple's Q3 2021 earnings report and conference call](https://appleinsider.com/articles/21/07/27/notes-of-interest-from-apples-q3-2021-earnings-report-and-conference-call?utm_medium=rss)
- - [iPhone sales fuel Apple’s Wall Street-beating Q3](http://feedproxy.google.com/~r/Techcrunch/~3/dDS_VX_Epug/)
- - [TikTok’s live video push continues with new features for creators and viewers](https://www.theverge.com/2021/7/27/22596718/tiktok-live-video-streaming-events-scheduling-co-host-picture-in-picture)<!-- TECH:END -->
+ - [Daily Crunch: No-code startup Bubble pops with $100 million Series A round](http://feedproxy.google.com/~r/Techcrunch/~3/j2DHIla5iKc/)
+ - [Apple's Mac and iPad sales break quarterly records](https://appleinsider.com/articles/21/07/27/apples-mac-and-ipad-sales-break-quarterly-records?utm_medium=rss)
+ - [YouTube reports $7B in Q2 ad revenue, up 84% YoY from $3.81B, and says its Shorts feature now has 15B global daily views, up from 6.5B in March (Todd Spangler/Variety)](http://www.techmeme.com/210727/p51#a210727p51)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
