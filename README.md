@@ -174,9 +174,9 @@ Windows                  1 hr 32 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [DataRobot, which helps companies train and deploy ML models, raises $300M Series G at a $6.3B post-money valuation, up from $2.7B in November 2020 (Kyle Wiggers/VentureBeat)](http://www.techmeme.com/210727/p22#a210727p22)
- - [Apple Watch 'black box' algorithms unreliable for medical research](https://appleinsider.com/articles/21/07/27/apple-watch-black-box-algorithms-unreliable-for-medical-research?utm_medium=rss)
- - [The best OnePlus Nord 2 alternatives: 7 phones to consider before you buy](https://www.androidauthority.com/oneplus-nord-2-alternatives-1646131)<!-- TECH:END -->
+ - [Antitrust action the biggest threat to Apple shares, analyst says](https://appleinsider.com/articles/21/07/27/antitrust-action-the-biggest-threat-to-apple-shares-analyst-says?utm_medium=rss)
+ - [Master & Dynamic’s MW08 Sport earbuds have wireless charging and a Kevlar case](https://www.theverge.com/2021/7/27/22595944/master-dynamics-mw08-sport-earbuds-announced-features-specs-price)
+ - [The RapidSOS EC-1](http://feedproxy.google.com/~r/Techcrunch/~3/ldUbpl-p5YY/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
