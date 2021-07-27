@@ -182,7 +182,7 @@ Windows                  1 hr 32 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Abundant blessings](http://9gag.com/gag/a9E467K)
- - 🚯 [Scottish dude fell asleep in the wrong house](http://9gag.com/gag/a4EBnzy)
+ - 🚯 [The hands of an Olympic gold winner in weightlifting](http://9gag.com/gag/aGprLOw)
  - 🚯 [Those words heal.](http://9gag.com/gag/aWje7jd)<!-- MEMES:END -->
 
 --- 
