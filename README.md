@@ -167,9 +167,9 @@ Windows                  1 hr 32 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This free bundle of the Mass Effect OST, comics and art books is only available for a few more days](https://www.pcgamer.com/this-free-bundle-of-the-mass-effect-ost-comics-and-art-books-is-only-available-for-a-few-more-days)
- - [This lo-fi horror roguelike looks like the best Resident Evil spin-off Capcom never made](https://www.pcgamer.com/this-lo-fi-horror-roguelike-looks-like-the-best-resident-evil-spin-off-capcoms-never-made)
- - [Death's Door reaches over 100,000 players in its first week](https://www.pcgamer.com/deaths-door-reaches-over-100000-players-in-its-first-week)<!-- GAME:END -->
+ - [I just can't stop staring at this hypnotic DIY Ambilight project](https://www.pcgamer.com/makeshift-arduino-philips-ambilight-feature)
+ - [UK games industry veteran Ian Richardson dies aged 53](https://www.pcgamer.com/uk-games-industry-veteran-ian-richardson-dies-aged-53)
+ - [This free bundle of the Mass Effect OST, comics and art books is only available for a few more days](https://www.pcgamer.com/this-free-bundle-of-the-mass-effect-ost-comics-and-art-books-is-only-available-for-a-few-more-days)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
