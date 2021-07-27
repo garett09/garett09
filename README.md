@@ -167,9 +167,9 @@ Windows                  1 hr 32 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Blizzard quietly reveals all the new cards in the Hearthstone: United in Stormwind expansion](https://www.pcgamer.com/blizzard-quietly-reveals-all-the-new-cards-in-the-hearthstone-united-in-stormwind-expansion)
- - [The 5 films that inspired The Green Knight](https://www.polygon.com/what-to-watch/22595838/green-knight-best-fantasy-movies-inspiration-david-lowery)
- - [Dreams: DreamsCom21 starts today](http://feedproxy.google.com/~r/PSBlog/~3/TBkJ-X5qXcY/)<!-- GAME:END -->
+ - [Warframe’s New War is just one part of the game’s future updates](https://www.polygon.com/22596238/warframe-new-war-railjack-steel-path-interview-tennocon-2021)
+ - [Activision Blizzard employees to walk out in support of harassment lawsuit](https://www.polygon.com/22595703/activision-blizzard-employee-protest-walk-out-lawsuit)
+ - [Activision Blizzard Employees Plan Walkout Wednesday To Protest Working Conditions](https://kotaku.com/activision-blizzard-employees-plan-walkout-wednesday-to-1847362030)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
