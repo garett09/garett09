@@ -174,9 +174,9 @@ Windows                  1 hr 32 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Facebook's Oculus investigating Apple Health app integration](https://appleinsider.com/articles/21/07/26/facebooks-oculus-investigating-apple-health-app-integration?utm_medium=rss)
- - [Nokia’s rugged XR20 phone coming to US with three years of updates, $550 price](https://www.androidauthority.com/nokia-xr20-1657238)
- - [Nokia’s XR20 is a rugged 5G phone with three years of OS updates](https://www.theverge.com/2021/7/26/22591113/nokia-xr20-rugged-phone-c30-6310-clarity-earbuds-pro)<!-- TECH:END -->
+ - [Elon Musk takes jabs at Apple during Tesla earnings call](https://appleinsider.com/articles/21/07/27/elon-musk-takes-jabs-at-apple-during-tesla-earnings-call?utm_medium=rss)
+ - [Apple releases iOS 14.7.1 to fix Apple Watch unlocking and a zero-day exploit](https://www.theverge.com/2021/7/26/22595188/ios-14-7-1-macos-11-5-1-security-zero-day-update)
+ - [Intel's Ambitious Plan to Regain Chipmaking Leadership](https://www.wired.com/story/intels-ambitious-plan-regain-chipmaking-leadership)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
