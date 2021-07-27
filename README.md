@@ -181,9 +181,9 @@ Windows                  1 hr 32 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Those words heal.](http://9gag.com/gag/aWje7jd)
+ - 🚖 [The look of a defeated soul](http://9gag.com/gag/a1r8N7P)
  - 🚯 [What was the amount of f**ks given this day?](http://9gag.com/gag/a8EvmWO)
- - 🚯 [And yellow vests](http://9gag.com/gag/agBpOXK)<!-- MEMES:END -->
+ - 🚯 [Deutschland](http://9gag.com/gag/aB2b6p2)<!-- MEMES:END -->
 
 --- 
 
