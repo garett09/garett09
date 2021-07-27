@@ -181,8 +181,8 @@ Windows                  1 hr 32 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Strike one!](http://9gag.com/gag/aDdqZ6O)
- - 🚯 [He was alright in the early 2000s but something has happened to that man](http://9gag.com/gag/azMvGPB)
+ - 🚖 [He was alright in the early 2000s but something has happened to that man](http://9gag.com/gag/azMvGPB)
+ - 🚯 [A very clean cut](http://9gag.com/gag/aAbLM3R)
  - 🚯 [Dutch soccer team beat West Taiwan 8 - 2 on the Olympics. I wonder what the CCP state media will say about the match.](http://9gag.com/gag/aXomV99)<!-- MEMES:END -->
 
 --- 
