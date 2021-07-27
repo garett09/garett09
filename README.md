@@ -167,9 +167,9 @@ Windows                  1 hr 32 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Olympics Commentator Tries His Best To Say 'Gundam'](https://kotaku.com/olympics-commentator-tries-his-best-to-say-gundam-1847366388)
- - [Splitgate's final release is delayed while studio revamps server infrastructure](https://www.pcgamer.com/splitgates-final-release-is-delayed-while-studio-revamps-server-infrastructure)
- - [Highfleet Is Kicking My Ass In The Best Way Possible](https://kotaku.com/highfleet-is-kicking-my-ass-in-the-best-way-possible-1847359863)<!-- GAME:END -->
+ - [That's One Hell Of A Gun](https://kotaku.com/thats-one-hell-of-a-gun-1847366633)
+ - [Witcher fan wins Olympic gold medal while wearing Geralt's medallion](https://www.pcgamer.com/witcher-fan-wins-olympic-gold-medal-while-wearing-geralts-medallion)
+ - [Olympics Commentator Tries His Best To Say 'Gundam'](https://kotaku.com/olympics-commentator-tries-his-best-to-say-gundam-1847366388)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
