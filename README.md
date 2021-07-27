@@ -181,9 +181,9 @@ Windows                  1 hr 32 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The look of a defeated soul](http://9gag.com/gag/a1r8N7P)
+ - 🚖 [Deutschland](http://9gag.com/gag/aB2b6p2)
  - 🚯 [What was the amount of f**ks given this day?](http://9gag.com/gag/a8EvmWO)
- - 🚯 [Deutschland](http://9gag.com/gag/aB2b6p2)<!-- MEMES:END -->
+ - 🚯 [No disrespect but seriously...watching olympics in german tv is a torture.](http://9gag.com/gag/awM9mWR)<!-- MEMES:END -->
 
 --- 
 
