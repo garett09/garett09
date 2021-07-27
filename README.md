@@ -174,9 +174,9 @@ Windows                  1 hr 32 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fireblocks, which lets users store, transfer, and issue digital assets, raises $310M Series D led by Sequoia, Stripes, and Spark at a $2.2B valuation (Mary Ann Azevedo/TechCrunch)](http://www.techmeme.com/210727/p18#a210727p18)
- - [Instagram announces changes for teen accounts, including making them private by default, restricting messages from "suspicious" adults, and limiting ads (Olivia Solon/NBC News)](http://www.techmeme.com/210727/p17#a210727p17)
- - [Amazon’s second-gen Echo Buds are down to their lowest price since Prime Day](https://www.theverge.com/good-deals/2021/7/27/22595047/amazon-echo-buds-logitech-mx-keys-mac-keyboard-sandisk-microsd-card-deal-sale)<!-- TECH:END -->
+ - [DataRobot, which helps companies train and deploy ML models, raises $300M Series G at a $6.3B post-money valuation, up from $2.7B in November 2020 (Kyle Wiggers/VentureBeat)](http://www.techmeme.com/210727/p22#a210727p22)
+ - [Apple Watch 'black box' algorithms unreliable for medical research](https://appleinsider.com/articles/21/07/27/apple-watch-black-box-algorithms-unreliable-for-medical-research?utm_medium=rss)
+ - [The best OnePlus Nord 2 alternatives: 7 phones to consider before you buy](https://www.androidauthority.com/oneplus-nord-2-alternatives-1646131)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
