@@ -174,9 +174,9 @@ Windows                  1 hr 32 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple continues plans for Touch ID embedded within displays](https://appleinsider.com/articles/21/07/27/apple-continues-plans-for-touch-id-embedded-within-displays?utm_medium=rss)
- - [iAngels raises $55 million, anchored by the European Investment Fund, for first institutional fund](http://feedproxy.google.com/~r/Techcrunch/~3/4G6e6msjFnk/)
- - [Static charge could give iPhone displays friction-based haptics](https://appleinsider.com/articles/21/07/27/static-charge-could-give-iphone-displays-friction-based-haptics?utm_medium=rss)<!-- TECH:END -->
+ - [Mark Ronson talks pleasures and problems in making 'Watch the Sound' for Apple TV+](https://appleinsider.com/articles/21/07/27/mark-ronson-talks-pleasures-and-problems-in-making-watch-the-sound-for-apple-tv?utm_medium=rss)
+ - [Wiliot, which is developing IoT chips powered by ambient radio frequencies, raises $200M Series C led by SoftBank's Vision Fund 2 as it plans an SaaS pivot (Ingrid Lunden/TechCrunch)](http://www.techmeme.com/210727/p15#a210727p15)
+ - [Zens 4-in-1 wireless charger powers MagSafe iPhones and three other devices](https://appleinsider.com/articles/21/07/27/zens-4-in-1-wireless-charger-powers-magsafe-iphones-and-three-other-devices?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
