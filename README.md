@@ -181,8 +181,8 @@ Windows                  1 hr 32 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Abundant blessings](http://9gag.com/gag/a9E467K)
- - 🚯 [The hands of an Olympic gold winner in weightlifting](http://9gag.com/gag/aGprLOw)
+ - 🚖 [Sounds like a nice lad](http://9gag.com/gag/aAbL65L)
+ - 🚯 [Switzerland won Gold, silver, bronze in the same race of mountain cycling for women in Olympics Tokyo 2020! They could never be more proud](http://9gag.com/gag/a1r8NW6)
  - 🚯 [Those words heal.](http://9gag.com/gag/aWje7jd)<!-- MEMES:END -->
 
 --- 
