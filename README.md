@@ -181,8 +181,8 @@ Windows                  1 hr 32 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Why great white sharks have no natural predators](http://9gag.com/gag/aNpGw3b)
- - 🚯 [Dutch bmx rider hit an official that wanted to cross the track.](http://9gag.com/gag/ayMm2Xq)
+ - 🚖 [Just one more...](http://9gag.com/gag/aMK0VNM)
+ - 🚯 [Another game where China lost gold medal, congratulations JAPAN, btw without audience it&#039;s weird](http://9gag.com/gag/aYovQo7)
  - 🚯 [Norwegen Team needs to change their color](http://9gag.com/gag/aAbLGng)<!-- MEMES:END -->
 
 --- 
