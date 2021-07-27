@@ -167,9 +167,9 @@ Windows                  1 hr 32 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Chernobylite review](https://www.pcgamer.com/chernobylite-review)
- - [The Die Hard prequel McClane died hard because of Disney](https://www.polygon.com/22595827/die-hard-6-movie-mcclane-prequel-disney)
- - [Genshin Impact Baal boss guide](https://www.pcgamer.com/best-genshin-impact-baal-build-banner)<!-- GAME:END -->
+ - [Cruelty Squad is both brilliant and hard to love](https://www.polygon.com/reviews/22596014/cruelty-squad-immersive-sim-review-missions-combat-aesthetics)
+ - [Microsoft Flight Simulator Available Today on Xbox Series X | S and Xbox Game Pass](https://news.xbox.com/en-us/2021/07/27/microsoft-flight-simulator-available-today-on-xbox-series-x-s-and-xbox-game-pass/)
+ - [The best Warzone loadouts and class setups](https://www.pcgamer.com/best-warzone-loadout)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
