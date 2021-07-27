@@ -167,9 +167,9 @@ Windows                  1 hr 32 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Sizing up the 10 most popular things on Netflix right now](https://www.polygon.com/2020/3/10/21167710/10-netflix-movies-shows-most-popular)
- - [Sports video games double-dip with annual releases and cosmetic battle passes](https://www.polygon.com/22596609/f1-2021-podium-pass-customizables-liveries-helmets-carryover-problem)
- - [Mass Effect: Legendary Edition brought out the basic Paragon Shepards](https://www.pcgamer.com/mass-effect-legendary-edition-brought-out-the-basic-paragon-shepards)<!-- GAME:END -->
+ - [World of Warcraft developers pledge to remove in-game references that are 'not appropriate' following sexual harassment lawsuit](https://www.pcgamer.com/world-of-warcraft-developers-pledge-to-remove-in-game-references-that-are-not-appropriate-following-sexual-harassment-lawsuit)
+ - [World Of Warcraft Removing Inappropriate References To 'Rebuild Trust' In Wake of Lawsuit](https://kotaku.com/world-of-warcraft-removing-inappropriate-references-to-1847373517)
+ - [These Dune-inspired Mass Effect posters are dope](https://www.pcgamer.com/these-dune-inspired-mass-effect-posters-are-dope)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
