@@ -167,9 +167,9 @@ Windows                  1 hr 32 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Death's Door reaches over 100,000 players in its first week](https://www.pcgamer.com/deaths-door-reaches-over-100000-players-in-its-first-week)
  - [That's One Hell Of A Gun](https://kotaku.com/thats-one-hell-of-a-gun-1847366633)
- - [Olympic athlete wins gold medal while wearing a Witcher medallion](https://www.pcgamer.com/witcher-fan-wins-olympic-gold-medal-while-wearing-geralts-medallion)
- - [Olympics Commentator Tries His Best To Say 'Gundam'](https://kotaku.com/olympics-commentator-tries-his-best-to-say-gundam-1847366388)<!-- GAME:END -->
+ - [Olympic athlete wins gold medal while wearing a Witcher medallion](https://www.pcgamer.com/witcher-fan-wins-olympic-gold-medal-while-wearing-geralts-medallion)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
