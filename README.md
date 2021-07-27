@@ -174,9 +174,9 @@ Windows                  1 hr 32 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft Cloud Strength Fuels Fourth Quarter Results (Microsoft - Investor Relations)](http://www.techmeme.com/210727/p44#a210727p44)
- - [OnePlus 9 Pro review: a refined, niche flagship](https://www.theverge.com/22344840/oneplus-9-pro-review-price-camera-screen-specs)
- - [In the new iPadOS 15 beta, Apple makes its controversial Safari redesign optional, letting users choose a more conventional tab layout in settings (Ian Carlos Campbell/The Verge)](http://www.techmeme.com/210727/p43#a210727p43)<!-- TECH:END -->
+ - [Notes of interest from Apple's Q3 2021 earnings report and conference call](https://appleinsider.com/articles/21/07/27/notes-of-interest-from-apples-q3-2021-earnings-report-and-conference-call?utm_medium=rss)
+ - [iPhone sales fuel Apple’s Wall Street-beating Q3](http://feedproxy.google.com/~r/Techcrunch/~3/dDS_VX_Epug/)
+ - [TikTok’s live video push continues with new features for creators and viewers](https://www.theverge.com/2021/7/27/22596718/tiktok-live-video-streaming-events-scheduling-co-host-picture-in-picture)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
