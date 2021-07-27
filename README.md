@@ -181,9 +181,9 @@ Windows                  1 hr 32 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Sounds like a nice lad](http://9gag.com/gag/aAbL65L)
- - 🚯 [Switzerland won Gold, silver, bronze in the same race of mountain cycling for women in Olympics Tokyo 2020! They could never be more proud](http://9gag.com/gag/a1r8NW6)
- - 🚯 [Those words heal.](http://9gag.com/gag/aWje7jd)<!-- MEMES:END -->
+ - 🚖 [Those words heal.](http://9gag.com/gag/aWje7jd)
+ - 🚯 [What was the amount of f**ks given this day?](http://9gag.com/gag/a8EvmWO)
+ - 🚯 [And yellow vests](http://9gag.com/gag/agBpOXK)<!-- MEMES:END -->
 
 --- 
 
