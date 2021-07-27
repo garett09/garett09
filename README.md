@@ -181,9 +181,9 @@ Windows                  1 hr 32 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The look of a defeated soul](http://9gag.com/gag/a1r8N7P)
- - 🚯 [These guys carving a block of stone and it&#039;s really hard](http://9gag.com/gag/aK6X1K6)
- - 🚯 [Abundant blessings](http://9gag.com/gag/a9E467K)<!-- MEMES:END -->
+ - 🚖 [Abundant blessings](http://9gag.com/gag/a9E467K)
+ - 🚯 [Scottish dude fell asleep in the wrong house](http://9gag.com/gag/a4EBnzy)
+ - 🚯 [Those words heal.](http://9gag.com/gag/aWje7jd)<!-- MEMES:END -->
 
 --- 
 
