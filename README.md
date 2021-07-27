@@ -174,9 +174,9 @@ Windows                  1 hr 32 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [ActiveFence comes out of the shadows with $100M in funding and tech that detects online harm](http://feedproxy.google.com/~r/Techcrunch/~3/E1UdjTVmrl0/)
- - [Moovit integrates Lime electric scooters, bikes, mopeds into transit planning app](http://feedproxy.google.com/~r/Techcrunch/~3/RFFiWWGniMk/)
- - [India’s ShareChat valued at $2.88 billion in $145 million fundraise](http://feedproxy.google.com/~r/Techcrunch/~3/eCJGq2TvJdw/)<!-- TECH:END -->
+ - [Samsung Galaxy Z Fold 3’s under-display camera could pack a tiny sensor](https://www.androidauthority.com/samsung-galaxy-z-fold-3-under-display-camera-1657709)
+ - [ActiveFence, whose tech proactively detects disinformation and other malicious content, raises $100M in a combined Series A and Series B (Ingrid Lunden/TechCrunch)](http://www.techmeme.com/210727/p1#a210727p1)
+ - [Motorola Edge 20 Pro leaked renders show it’s not as ‘edgy’ as before](https://www.androidauthority.com/motorola-edge-20-pro-1657695)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
