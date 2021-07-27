@@ -168,7 +168,7 @@ Windows                  1 hr 32 mins        ███████████�
 
 <!-- GAME:START -->
  - [That's One Hell Of A Gun](https://kotaku.com/thats-one-hell-of-a-gun-1847366633)
- - [Witcher fan wins Olympic gold medal while wearing Geralt's medallion](https://www.pcgamer.com/witcher-fan-wins-olympic-gold-medal-while-wearing-geralts-medallion)
+ - [Olympic athlete wins gold medal while wearing a Witcher medallion](https://www.pcgamer.com/witcher-fan-wins-olympic-gold-medal-while-wearing-geralts-medallion)
  - [Olympics Commentator Tries His Best To Say 'Gundam'](https://kotaku.com/olympics-commentator-tries-his-best-to-say-gundam-1847366388)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
