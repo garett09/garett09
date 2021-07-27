@@ -174,9 +174,9 @@ Windows                  1 hr 32 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to use TikTok’s Text-to-Speech feature](https://www.theverge.com/22594929/tiktok-text-to-speech-how-to)
- - [Survey of 20,699 Americans: those who rely on Facebook for COVID-related news are less likely to get vaccinated than average and less likely than Fox viewers (Washington Post)](http://www.techmeme.com/210727/p36#a210727p36)
- - [How to Run iOS Apps on Mac](https://www.androidauthority.com/how-to-run-ios-apps-on-mac-1647914)<!-- TECH:END -->
+ - [eBay's ex-senior global security manager, the first of five former staffers convicted in a cyberstalking campaign against eBay critics, gets 18 months in prison (Janelle Lawrence/Bloomberg)](http://www.techmeme.com/210727/p39#a210727p39)
+ - [Instagram Reels can now be twice as long](https://www.theverge.com/2021/7/27/22596530/instagram-reels-60-seconds-time-extension)
+ - [Dan Olsen leads a product-market fit masterclass for the Startup Alley+ cohort](http://feedproxy.google.com/~r/Techcrunch/~3/uUW-gHV7P2g/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
