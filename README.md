@@ -174,9 +174,9 @@ Windows                  1 hr 32 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tesla delays Semi truck to 2022; Cybertruck back-burnered for Model Y](http://feedproxy.google.com/~r/Techcrunch/~3/9-Yq-mAGqXg/)
  - [Cloudflare announces Project Pangea, an initiative to offer its suite of network services to local underserved communities for free (The Cloudflare Blog)](http://www.techmeme.com/210726/p35#a210726p35)
- - [Samsung’s Odyssey Neo G9 is a high-end TV disguised as a 49-inch curved gaming monitor](https://www.theverge.com/2021/7/26/22587089/samsung-odyssey-neo-g9-49-inch-curved-gaming-monitor-price-specs-release-date-features)
- - [Tesla’s solar and energy storage business rakes in $810M, finally exceeds cost of revenue](http://feedproxy.google.com/~r/Techcrunch/~3/Y-LtZAdhgFc/)<!-- TECH:END -->
+ - [Samsung’s Odyssey Neo G9 is a high-end TV disguised as a 49-inch curved gaming monitor](https://www.theverge.com/2021/7/26/22587089/samsung-odyssey-neo-g9-49-inch-curved-gaming-monitor-price-specs-release-date-features)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
