@@ -174,9 +174,9 @@ Windows                  1 hr 32 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nium, a Singapore-based B2B payments company, raises $200M Series D at a $1B+ valuation led by Riverwood Capital, with Temasek, Visa, and others participating (Christine Hall/TechCrunch)](http://www.techmeme.com/210726/p36#a210726p36)
- - [Nium crosses $1B valuation with $200M Riverwood Capital-led round](http://feedproxy.google.com/~r/Techcrunch/~3/uiWN_HK9J2I/)
- - [Climbing at the Tokyo Olympics: Start times and how to watch     - CNET](https://www.cnet.com/news/climbing-at-the-tokyo-olympics-start-times-and-how-to-watch/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [ActiveFence comes out of the shadows with $100M in funding and tech that detects online harm](http://feedproxy.google.com/~r/Techcrunch/~3/E1UdjTVmrl0/)
+ - [Moovit integrates Lime electric scooters, bikes, mopeds into transit planning app](http://feedproxy.google.com/~r/Techcrunch/~3/RFFiWWGniMk/)
+ - [India’s ShareChat valued at $2.88 billion in $145 million fundraise](http://feedproxy.google.com/~r/Techcrunch/~3/eCJGq2TvJdw/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
