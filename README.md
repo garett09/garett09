@@ -174,9 +174,9 @@ Windows                  1 hr 32 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily Crunch: No-code startup Bubble pops with $100 million Series A round](http://feedproxy.google.com/~r/Techcrunch/~3/j2DHIla5iKc/)
- - [Apple's Mac and iPad sales break quarterly records](https://appleinsider.com/articles/21/07/27/apples-mac-and-ipad-sales-break-quarterly-records?utm_medium=rss)
- - [YouTube reports $7B in Q2 ad revenue, up 84% YoY from $3.81B, and says its Shorts feature now has 15B global daily views, up from 6.5B in March (Todd Spangler/Variety)](http://www.techmeme.com/210727/p51#a210727p51)<!-- TECH:END -->
+ - [Mac and iPad sales break quarterly records in Q3, with Mac revenue of $8.2B, up 16% YoY, and iPad revenue of $7.4B, up 12% YoY (Mike Peterson/AppleInsider)](http://www.techmeme.com/210727/p52#a210727p52)
+ - [New Ghostbusters: Afterlife trailer gets Ecto-1 back on the streets     - CNET](https://www.cnet.com/news/new-ghostbusters-afterlife-trailer-puts-ecto-1-back-on-the-streets/#ftag=CAD590a51e)
+ - [Blizzard is encouraging its own employees to attend Wednesday’s walkout with paid time off](https://www.theverge.com/2021/7/27/22596957/blizzard-pto-sexual-harassment-walkout)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
