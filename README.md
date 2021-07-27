@@ -167,9 +167,9 @@ Windows                  1 hr 32 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Warframe’s New War is just one part of the game’s future updates](https://www.polygon.com/22596238/warframe-new-war-railjack-steel-path-interview-tennocon-2021)
- - [Activision Blizzard employees to walk out in support of harassment lawsuit](https://www.polygon.com/22595703/activision-blizzard-employee-protest-walk-out-lawsuit)
- - [Activision Blizzard Employees Plan Walkout Wednesday To Protest Working Conditions](https://kotaku.com/activision-blizzard-employees-plan-walkout-wednesday-to-1847362030)<!-- GAME:END -->
+ - [Tribes of Midgard: How to climb cliffs with ramps](https://www.pcgamer.com/how-to-tribes-of-midgard-climb-cliffs-ramps)
+ - [Purple carrots and horrifying toilets were key to making The Forgotten City's ancient Rome believable](https://www.pcgamer.com/purple-carrots-and-horrifying-toilets-were-key-to-making-the-forgotten-citys-ancient-rome-believable)
+ - [Everyone Makes The Same Choices In Mass Effect, Apparently](https://kotaku.com/everyone-makes-the-same-choices-in-mass-effect-apparen-1847370895)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
