@@ -174,9 +174,9 @@ Windows                  1 hr 32 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [FCC challenges a bid won by SpaceX for $886M in rural broadband subsidies, concerned some of the spending may be wasteful, duplicative, or headed for other uses (Todd Shields/Bloomberg)](http://www.techmeme.com/210727/p5#a210727p5)
- - [Hundreds of Ways to Get S#!+ Done—and We Still Don’t](https://www.wired.com/story/to-do-apps-failed-productivity-tools)
- - [Android 13’s dessert codename might be Tiramisu](https://www.theverge.com/2021/7/27/22595631/android-13-tiramisu-2022-internal-dessert-codename)<!-- TECH:END -->
+ - [Apple continues plans for Touch ID embedded within displays](https://appleinsider.com/articles/21/07/27/apple-continues-plans-for-touch-id-embedded-within-displays?utm_medium=rss)
+ - [iAngels raises $55 million, anchored by the European Investment Fund, for first institutional fund](http://feedproxy.google.com/~r/Techcrunch/~3/4G6e6msjFnk/)
+ - [Static charge could give iPhone displays friction-based haptics](https://appleinsider.com/articles/21/07/27/static-charge-could-give-iphone-displays-friction-based-haptics?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
