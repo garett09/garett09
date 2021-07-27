@@ -181,9 +181,9 @@ Windows                  1 hr 32 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Crane with stabilizers](http://9gag.com/gag/axMeyQ1)
- - 🚯 [Installing a brand new marble countertop.](http://9gag.com/gag/aXomPQ9)
- - 🚯 [Another game where China lost gold medal, congratulations JAPAN, btw without audience it&#039;s weird](http://9gag.com/gag/aYovQo7)<!-- MEMES:END -->
+ - 🚖 [A perfectly synchronized double dive](http://9gag.com/gag/anQ0Orz)
+ - 🚯 [Another game where China lost gold medal, congratulations JAPAN, btw without audience it&#039;s weird](http://9gag.com/gag/aYovQo7)
+ - 🚯 [We all have that one friend](http://9gag.com/gag/aNpGDzb)<!-- MEMES:END -->
 
 --- 
 
