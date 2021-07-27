@@ -174,9 +174,9 @@ Windows                  1 hr 32 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy Z Fold 3’s under-display camera could pack a tiny sensor](https://www.androidauthority.com/samsung-galaxy-z-fold-3-under-display-camera-1657709)
- - [ActiveFence, whose tech proactively detects disinformation and other malicious content, raises $100M in a combined Series A and Series B (Ingrid Lunden/TechCrunch)](http://www.techmeme.com/210727/p1#a210727p1)
- - [Motorola Edge 20 Pro leaked renders show it’s not as ‘edgy’ as before](https://www.androidauthority.com/motorola-edge-20-pro-1657695)<!-- TECH:END -->
+ - [Sedna banks $34M for a platform that parses large volumes of email and chat to automatically action items within them](http://feedproxy.google.com/~r/Techcrunch/~3/86TCv2IY-wE/)
+ - [Element, a messaging app built on the decentralized Matrix protocol, raises $30M](http://feedproxy.google.com/~r/Techcrunch/~3/44veGjuuQ_8/)
+ - [German startup Aleph Alpha raises $27M Series A round to build ‘Europe’s OpenAI’](http://feedproxy.google.com/~r/Techcrunch/~3/H8iMpi3Q7u8/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
