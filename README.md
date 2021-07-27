@@ -181,9 +181,9 @@ Windows                  1 hr 32 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The only part of the Olympics I can truly relate to is the Canadian swimmer (Maggie MacNeil) who didn&#039;t realize she won gold because she wasn&#039;t wearing her glasses in the pool.](http://9gag.com/gag/aGpr8VK)
- - 🚯 [What a real DJ looks like](http://9gag.com/gag/aV79mVv)
- - 🚯 [No disrespect but seriously...watching olympics in german tv is a torture.](http://9gag.com/gag/awM9mWR)<!-- MEMES:END -->
+ - 🚖 [The four different spies](http://9gag.com/gag/aRX8zXG)
+ - 🚯 [He was alright in the early 2000s but something has happened to that man](http://9gag.com/gag/azMvGPB)
+ - 🚯 [Truth be told and it hurts](http://9gag.com/gag/a9E4v81)<!-- MEMES:END -->
 
 --- 
 
