@@ -167,9 +167,9 @@ Windows                  1 hr 32 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Death's Door reaches over 100,000 players in its first week](https://www.pcgamer.com/deaths-door-reaches-over-100000-players-in-its-first-week)
- - [That's One Hell Of A Gun](https://kotaku.com/thats-one-hell-of-a-gun-1847366633)
- - [Olympic athlete wins gold medal while wearing a Witcher medallion](https://www.pcgamer.com/witcher-fan-wins-olympic-gold-medal-while-wearing-geralts-medallion)<!-- GAME:END -->
+ - [This free bundle of the Mass Effect OST, comics and art books is only available for a few more days](https://www.pcgamer.com/this-free-bundle-of-the-mass-effect-ost-comics-and-art-books-is-only-available-for-a-few-more-days)
+ - [This lo-fi horror roguelike looks like the best Resident Evil spin-off Capcom never made](https://www.pcgamer.com/this-lo-fi-horror-roguelike-looks-like-the-best-resident-evil-spin-off-capcoms-never-made)
+ - [Death's Door reaches over 100,000 players in its first week](https://www.pcgamer.com/deaths-door-reaches-over-100000-players-in-its-first-week)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
