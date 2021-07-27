@@ -181,9 +181,9 @@ Windows                  1 hr 32 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A perfectly synchronized double dive](http://9gag.com/gag/anQ0Orz)
- - 🚯 [Another game where China lost gold medal, congratulations JAPAN, btw without audience it&#039;s weird](http://9gag.com/gag/aYovQo7)
- - 🚯 [We all have that one friend](http://9gag.com/gag/aNpGDzb)<!-- MEMES:END -->
+ - 🚖 [Bending levels](http://9gag.com/gag/awM9yvr)
+ - 🚯 [Just one more...](http://9gag.com/gag/aMK0VNM)
+ - 🚯 [Australian swimmer Kaylee McKeown celebrates her 100m backstroke gold medal in true Aussie style](http://9gag.com/gag/abVLeeL)<!-- MEMES:END -->
 
 --- 
 
