@@ -174,9 +174,9 @@ Windows                  1 hr 32 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A Controversial Tool Calls Out Vulnerabilities Across the Web](https://www.wired.com/story/punkspider-web-site-vulnerabilities)
- - [Google TV now supports more streaming services and live TV channels](https://www.androidauthority.com/google-tv-update-1658017)
- - [Jungle Cruise desperately wants to be The Mummy](https://www.theverge.com/2021/7/27/22595789/jungle-cruise-review-disney-plus)<!-- TECH:END -->
+ - [Apple seeds fourth iOS 15, iPadOS 15, tvOS 15, watchOS 8 betas](https://appleinsider.com/articles/21/07/27/apple-seeds-fourth-ios-15-ipados-15-tvos-15-betas?utm_medium=rss)
+ - [Following appliance energy efficiency laws in CA, CO, HI, OR, VT, and WA, Dell has stopped shipping select power-hungry PCs in those markets (Thomas Claburn/The Register)](http://www.techmeme.com/210727/p34#a210727p34)
+ - [Poll: Would you buy a modular laptop?](https://www.androidauthority.com/modular-laptop-poll-1658485)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
