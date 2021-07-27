@@ -181,9 +181,9 @@ Windows                  1 hr 32 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Deutschland](http://9gag.com/gag/aB2b6p2)
- - 🚯 [What was the amount of f**ks given this day?](http://9gag.com/gag/a8EvmWO)
- - 🚯 [No disrespect but seriously...watching olympics in german tv is a torture.](http://9gag.com/gag/awM9mWR)<!-- MEMES:END -->
+ - 🚖 [There&#039;s always at least a couple of those](http://9gag.com/gag/aGpr8q5)
+ - 🚯 [Weight Lifter Guo Hsing-Chun Secures a Gold Medal for Taiwan today!](http://9gag.com/gag/aGprnAZ)
+ - 🚯 [Residents in Zhengzhou, China&#039;s Henan Province laid flowers to mourn the dead in the flooded line 5 subway at the line&#039;s Shakou Road exit. Officials tried to hide the scene.](http://9gag.com/gag/aDdqnww)<!-- MEMES:END -->
 
 --- 
 
