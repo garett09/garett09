@@ -181,9 +181,9 @@ Windows                  1 hr 32 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Just one more...](http://9gag.com/gag/aMK0VNM)
- - 🚯 [Another game where China lost gold medal, congratulations JAPAN, btw without audience it&#039;s weird](http://9gag.com/gag/aYovQo7)
- - 🚯 [Norwegen Team needs to change their color](http://9gag.com/gag/aAbLGng)<!-- MEMES:END -->
+ - 🚖 [HongKongers booed at the Chinese National anthems and chanted &ldquo;We are Hong Kong&rdquo; at the Olympic fencing award ceremony when a Honkonger claims gold for HongKong after 25 years](http://9gag.com/gag/aV79bGd)
+ - 🚯 [Painted this a while back, hope you like it! Would you run or fight?](http://9gag.com/gag/a27AKdd)
+ - 🚯 [I&#039;ve never thought I&#039;d live to use this meme.](http://9gag.com/gag/aRX8EOM)<!-- MEMES:END -->
 
 --- 
 
