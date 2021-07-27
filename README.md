@@ -174,9 +174,9 @@ Windows                  1 hr 32 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Antitrust action the biggest threat to Apple shares, analyst says](https://appleinsider.com/articles/21/07/27/antitrust-action-the-biggest-threat-to-apple-shares-analyst-says?utm_medium=rss)
- - [Master & Dynamic’s MW08 Sport earbuds have wireless charging and a Kevlar case](https://www.theverge.com/2021/7/27/22595944/master-dynamics-mw08-sport-earbuds-announced-features-specs-price)
- - [The RapidSOS EC-1](http://feedproxy.google.com/~r/Techcrunch/~3/ldUbpl-p5YY/)<!-- TECH:END -->
+ - [A Controversial Tool Calls Out Vulnerabilities Across the Web](https://www.wired.com/story/punkspider-web-site-vulnerabilities)
+ - [Google TV now supports more streaming services and live TV channels](https://www.androidauthority.com/google-tv-update-1658017)
+ - [Jungle Cruise desperately wants to be The Mummy](https://www.theverge.com/2021/7/27/22595789/jungle-cruise-review-disney-plus)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
