@@ -167,9 +167,9 @@ Windows                  1 hr 32 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Tribes of Midgard: How to climb cliffs with ramps](https://www.pcgamer.com/how-to-tribes-of-midgard-climb-cliffs-ramps)
- - [Purple carrots and horrifying toilets were key to making The Forgotten City's ancient Rome believable](https://www.pcgamer.com/purple-carrots-and-horrifying-toilets-were-key-to-making-the-forgotten-citys-ancient-rome-believable)
- - [Everyone Makes The Same Choices In Mass Effect, Apparently](https://kotaku.com/everyone-makes-the-same-choices-in-mass-effect-apparen-1847370895)<!-- GAME:END -->
+ - [Fans Upset At Magic: The Gathering Arena's Special New Digital Cards](https://kotaku.com/fans-upset-at-magic-the-gathering-arenas-special-new-d-1847371718)
+ - [American Horror Story is bringing aliens back, but at what cost?](https://www.polygon.com/22596454/american-horror-story-double-feature-teaser-trailer)
+ - [Pokémon Unite adds Gardevoir to the roster](https://www.polygon.com/22596432/pokemon-unite-update-gardevoir-playable)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
