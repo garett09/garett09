@@ -167,9 +167,9 @@ Windows                  1 hr 32 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [World of Warcraft developers pledge to remove in-game references that are 'not appropriate' following sexual harassment lawsuit](https://www.pcgamer.com/world-of-warcraft-developers-pledge-to-remove-in-game-references-that-are-not-appropriate-following-sexual-harassment-lawsuit)
- - [World Of Warcraft Removing Inappropriate References To 'Rebuild Trust' In Wake of Lawsuit](https://kotaku.com/world-of-warcraft-removing-inappropriate-references-to-1847373517)
- - [These Dune-inspired Mass Effect posters are dope](https://www.pcgamer.com/these-dune-inspired-mass-effect-posters-are-dope)<!-- GAME:END -->
+ - [World of Warcraft team pledges ‘immediate action’ in-game after Activision Blizzard discrimination lawsuit](https://www.polygon.com/22596847/activision-blizzard-harassment-lawsuit-world-of-warcraft-changes-alex-afrasiabi)
+ - [If you play Tribes of Midgard solo, prepare to get stomped](https://www.pcgamer.com/tribes-of-midgard-solo)
+ - [World of Warcraft developers pledge to remove in-game references that are 'not appropriate' following sexual harassment lawsuit](https://www.pcgamer.com/world-of-warcraft-developers-pledge-to-remove-in-game-references-that-are-not-appropriate-following-sexual-harassment-lawsuit)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
