@@ -167,9 +167,9 @@ Windows                  1 hr 32 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [We're Making New Animal Crossing Content, Nintendo Says](https://kotaku.com/were-making-new-animal-crossing-content-nintendo-says-1847368366)
- - [AMD's flagship Ryzen 9 5950X is in stock and selling below MSRP right now](https://www.pcgamer.com/amds-flagship-ryzen-9-5950x-is-in-stock-and-selling-below-msrp-right-now)
- - [Your new favourite indie in five words: Fully destructible sword-wielding robots](https://www.pcgamer.com/your-new-favourite-indie-in-five-words-fully-destructible-sword-wielding-robots)<!-- GAME:END -->
+ - [Chernobylite review](https://www.pcgamer.com/chernobylite-review)
+ - [The Die Hard prequel McClane died hard because of Disney](https://www.polygon.com/22595827/die-hard-6-movie-mcclane-prequel-disney)
+ - [Genshin Impact Baal boss guide](https://www.pcgamer.com/best-genshin-impact-baal-build-banner)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
