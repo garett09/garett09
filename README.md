@@ -174,9 +174,9 @@ Windows                  1 hr 32 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Indonesia-based grocery app HappyFresh reaps $65M led by Naver Financial and Gafina](http://feedproxy.google.com/~r/Techcrunch/~3/qZeOf7QJFxA/)
- - [South African payments startup Yoco raises $83M Series C led by Dragoneer](http://feedproxy.google.com/~r/Techcrunch/~3/YG8IPUyKtPo/)
- - [The internal code name for Android 13 is pretty sweet (naturally)](https://www.androidauthority.com/android-13-dessert-name-1657813)<!-- TECH:END -->
+ - [You told us: Most of you remain Netflix subscribers but many have also quit](https://www.androidauthority.com/netflix-subscriber-poll-results-1657896)
+ - [Best iPhone 2021: We looked at all 7 models Apple sells to decide which is best     - CNET](https://www.cnet.com/tech/mobile/best-iphone-2021-7-different-models-how-to-now/#ftag=CAD590a51e)
+ - [Rocketium raises $3.2M to help creative teams create massive marketing campaigns](http://feedproxy.google.com/~r/Techcrunch/~3/WwTswXbtFII/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
