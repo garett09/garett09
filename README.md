@@ -167,9 +167,9 @@ Windows                  1 hr 32 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Fans Upset At Magic: The Gathering Arena's Special New Digital Cards](https://kotaku.com/fans-upset-at-magic-the-gathering-arenas-special-new-d-1847371718)
- - [American Horror Story is bringing aliens back, but at what cost?](https://www.polygon.com/22596454/american-horror-story-double-feature-teaser-trailer)
- - [Pokémon Unite adds Gardevoir to the roster](https://www.polygon.com/22596432/pokemon-unite-update-gardevoir-playable)<!-- GAME:END -->
+ - [Imagine if Settlers of Catan looked like SimCity](https://www.polygon.com/22595914/settlers-of-catan-pixel-art-astro-boy-game-development-mecha-tactis-rpg)
+ - [Skyward Sword deserved the Final Fantasy 7 Remake treatment](https://www.polygon.com/22596531/skyward-sword-hd-remake-remaster-controls-camera)
+ - [You Don’t Need To Download All Of Microsoft Flight Sim On Xbox Series X/S](https://kotaku.com/you-don-t-need-to-download-all-of-microsoft-flight-sim-1847372175)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
