@@ -174,9 +174,9 @@ Windows                  1 hr 32 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple seeds fourth iOS 15, iPadOS 15, tvOS 15, watchOS 8 betas](https://appleinsider.com/articles/21/07/27/apple-seeds-fourth-ios-15-ipados-15-tvos-15-betas?utm_medium=rss)
- - [Following appliance energy efficiency laws in CA, CO, HI, OR, VT, and WA, Dell has stopped shipping select power-hungry PCs in those markets (Thomas Claburn/The Register)](http://www.techmeme.com/210727/p34#a210727p34)
- - [Poll: Would you buy a modular laptop?](https://www.androidauthority.com/modular-laptop-poll-1658485)<!-- TECH:END -->
+ - [How to use TikTok’s Text-to-Speech feature](https://www.theverge.com/22594929/tiktok-text-to-speech-how-to)
+ - [Survey of 20,699 Americans: those who rely on Facebook for COVID-related news are less likely to get vaccinated than average and less likely than Fox viewers (Washington Post)](http://www.techmeme.com/210727/p36#a210727p36)
+ - [How to Run iOS Apps on Mac](https://www.androidauthority.com/how-to-run-ios-apps-on-mac-1647914)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
