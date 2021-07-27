@@ -174,9 +174,9 @@ Windows                  1 hr 32 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk takes jabs at Apple during Tesla earnings call](https://appleinsider.com/articles/21/07/27/elon-musk-takes-jabs-at-apple-during-tesla-earnings-call?utm_medium=rss)
- - [Apple releases iOS 14.7.1 to fix Apple Watch unlocking and a zero-day exploit](https://www.theverge.com/2021/7/26/22595188/ios-14-7-1-macos-11-5-1-security-zero-day-update)
- - [Intel's Ambitious Plan to Regain Chipmaking Leadership](https://www.wired.com/story/intels-ambitious-plan-regain-chipmaking-leadership)<!-- TECH:END -->
+ - [Cloudflare announces Project Pangea, an initiative to offer its suite of network services to local underserved communities for free (The Cloudflare Blog)](http://www.techmeme.com/210726/p35#a210726p35)
+ - [Samsung’s Odyssey Neo G9 is a high-end TV disguised as a 49-inch curved gaming monitor](https://www.theverge.com/2021/7/26/22587089/samsung-odyssey-neo-g9-49-inch-curved-gaming-monitor-price-specs-release-date-features)
+ - [Tesla’s solar and energy storage business rakes in $810M, finally exceeds cost of revenue](http://feedproxy.google.com/~r/Techcrunch/~3/Y-LtZAdhgFc/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
