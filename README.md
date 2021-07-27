@@ -174,9 +174,9 @@ Windows                  1 hr 32 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tesla delays Semi truck to 2022; Cybertruck back-burnered for Model Y](http://feedproxy.google.com/~r/Techcrunch/~3/9-Yq-mAGqXg/)
- - [Cloudflare announces Project Pangea, an initiative to offer its suite of network services to local underserved communities for free (The Cloudflare Blog)](http://www.techmeme.com/210726/p35#a210726p35)
- - [Samsung’s Odyssey Neo G9 is a high-end TV disguised as a 49-inch curved gaming monitor](https://www.theverge.com/2021/7/26/22587089/samsung-odyssey-neo-g9-49-inch-curved-gaming-monitor-price-specs-release-date-features)<!-- TECH:END -->
+ - [Nium, a Singapore-based B2B payments company, raises $200M Series D at a $1B+ valuation led by Riverwood Capital, with Temasek, Visa, and others participating (Christine Hall/TechCrunch)](http://www.techmeme.com/210726/p36#a210726p36)
+ - [Nium crosses $1B valuation with $200M Riverwood Capital-led round](http://feedproxy.google.com/~r/Techcrunch/~3/uiWN_HK9J2I/)
+ - [Climbing at the Tokyo Olympics: Start times and how to watch     - CNET](https://www.cnet.com/news/climbing-at-the-tokyo-olympics-start-times-and-how-to-watch/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
