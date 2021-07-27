@@ -174,9 +174,9 @@ Windows                  1 hr 32 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sedna banks $34M for a platform that parses large volumes of email and chat to automatically action items within them](http://feedproxy.google.com/~r/Techcrunch/~3/86TCv2IY-wE/)
- - [Element, a messaging app built on the decentralized Matrix protocol, raises $30M](http://feedproxy.google.com/~r/Techcrunch/~3/44veGjuuQ_8/)
- - [German startup Aleph Alpha raises $27M Series A round to build ‘Europe’s OpenAI’](http://feedproxy.google.com/~r/Techcrunch/~3/H8iMpi3Q7u8/)<!-- TECH:END -->
+ - [Indonesia-based grocery app HappyFresh reaps $65M led by Naver Financial and Gafina](http://feedproxy.google.com/~r/Techcrunch/~3/qZeOf7QJFxA/)
+ - [South African payments startup Yoco raises $83M Series C led by Dragoneer](http://feedproxy.google.com/~r/Techcrunch/~3/YG8IPUyKtPo/)
+ - [The internal code name for Android 13 is pretty sweet (naturally)](https://www.androidauthority.com/android-13-dessert-name-1657813)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
