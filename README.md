@@ -174,9 +174,9 @@ Windows                  1 hr 32 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [eBay's ex-senior global security manager, the first of five former staffers convicted in a cyberstalking campaign against eBay critics, gets 18 months in prison (Janelle Lawrence/Bloomberg)](http://www.techmeme.com/210727/p39#a210727p39)
- - [Instagram Reels can now be twice as long](https://www.theverge.com/2021/7/27/22596530/instagram-reels-60-seconds-time-extension)
- - [Dan Olsen leads a product-market fit masterclass for the Startup Alley+ cohort](http://feedproxy.google.com/~r/Techcrunch/~3/uUW-gHV7P2g/)<!-- TECH:END -->
+ - [Microsoft Cloud Strength Fuels Fourth Quarter Results (Microsoft - Investor Relations)](http://www.techmeme.com/210727/p44#a210727p44)
+ - [OnePlus 9 Pro review: a refined, niche flagship](https://www.theverge.com/22344840/oneplus-9-pro-review-price-camera-screen-specs)
+ - [In the new iPadOS 15 beta, Apple makes its controversial Safari redesign optional, letting users choose a more conventional tab layout in settings (Ian Carlos Campbell/The Verge)](http://www.techmeme.com/210727/p43#a210727p43)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
