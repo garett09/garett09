@@ -182,8 +182,8 @@ Windows                  1 hr 32 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [There&#039;s always at least a couple of those](http://9gag.com/gag/aGpr8q5)
- - 🚯 [And yellow vests](http://9gag.com/gag/agBpOXK)
- - 🚯 [Germany right now... Bayer in Leverkusen](http://9gag.com/gag/aLpOzW6)<!-- MEMES:END -->
+ - 🚯 [Germany right now... Bayer in Leverkusen](http://9gag.com/gag/aLpOzW6)
+ - 🚯 [There is a Brazilian athlete playing with mask in the olympics game but a Karen can&rsquo;t go to a grocery store because the mask suffocates her](http://9gag.com/gag/ad8Wnp2)<!-- MEMES:END -->
 
 --- 
 
