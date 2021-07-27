@@ -181,9 +181,9 @@ Windows                  1 hr 32 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [There&#039;s always at least a couple of those](http://9gag.com/gag/aGpr8q5)
- - 🚯 [Germany right now... Bayer in Leverkusen](http://9gag.com/gag/aLpOzW6)
- - 🚯 [There is a Brazilian athlete playing with mask in the olympics game but a Karen can&rsquo;t go to a grocery store because the mask suffocates her](http://9gag.com/gag/ad8Wnp2)<!-- MEMES:END -->
+ - 🚖 [The only part of the Olympics I can truly relate to is the Canadian swimmer (Maggie MacNeil) who didn&#039;t realize she won gold because she wasn&#039;t wearing her glasses in the pool.](http://9gag.com/gag/aGpr8VK)
+ - 🚯 [What a real DJ looks like](http://9gag.com/gag/aV79mVv)
+ - 🚯 [No disrespect but seriously...watching olympics in german tv is a torture.](http://9gag.com/gag/awM9mWR)<!-- MEMES:END -->
 
 --- 
 
