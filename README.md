@@ -181,9 +181,9 @@ Windows                  1 hr 32 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Residents in Zhengzhou, China&#039;s Henan Province laid flowers to mourn the dead in the flooded line 5 subway at the line&#039;s Shakou Road exit. Officials tried to hide the scene.](http://9gag.com/gag/aDdqnww)
- - 🚯 [Baguette-man has no chill for misspelling](http://9gag.com/gag/aeAqOqq)
- - 🚯 [There&#039;s always at least a couple of those](http://9gag.com/gag/aGpr8q5)<!-- MEMES:END -->
+ - 🚖 [There&#039;s always at least a couple of those](http://9gag.com/gag/aGpr8q5)
+ - 🚯 [And yellow vests](http://9gag.com/gag/agBpOXK)
+ - 🚯 [Germany right now... Bayer in Leverkusen](http://9gag.com/gag/aLpOzW6)<!-- MEMES:END -->
 
 --- 
 
