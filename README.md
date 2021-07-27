@@ -181,9 +181,9 @@ Windows                  1 hr 32 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The four different spies](http://9gag.com/gag/aRX8zXG)
+ - 🚖 [Strike one!](http://9gag.com/gag/aDdqZ6O)
  - 🚯 [He was alright in the early 2000s but something has happened to that man](http://9gag.com/gag/azMvGPB)
- - 🚯 [Truth be told and it hurts](http://9gag.com/gag/a9E4v81)<!-- MEMES:END -->
+ - 🚯 [Dutch soccer team beat West Taiwan 8 - 2 on the Olympics. I wonder what the CCP state media will say about the match.](http://9gag.com/gag/aXomV99)<!-- MEMES:END -->
 
 --- 
 
