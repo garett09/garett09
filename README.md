@@ -174,9 +174,9 @@ Windows                  46 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ivorian fintech Julaya raises $2M to digitize business payments in Francophone Africa](http://feedproxy.google.com/~r/Techcrunch/~3/Gli2caGrtYk/)
- - [Best VPN service for Amazon Fire TV Stick in 2021     - CNET](https://www.cnet.com/tech/services-and-software/best-vpn-for-amazon-fire-tv-stick/#ftag=CAD590a51e)
- - [Apple Watch 'black box' algorithms unreliable for medical research [u]](https://appleinsider.com/articles/21/07/27/apple-watch-black-box-algorithms-unreliable-for-medical-research?utm_medium=rss)<!-- TECH:END -->
+ - [Droom, an online marketplace for used cars and motorbikes in India, raises $200M in a pre-IPO growth round, at a $1.2B valuation, up from $500M in 2018 (Manish Singh/TechCrunch)](http://www.techmeme.com/210728/p3#a210728p3)
+ - [OnePlus Nord 2 now available in the UK. Here’s where to buy it.](https://www.androidauthority.com/oneplus-nord-2-uk-1659154)
+ - [Indian automobile marketplace Droom valued at $1.2 billion in $200 million pre-IPO funding](http://feedproxy.google.com/~r/Techcrunch/~3/gq7XuhpwRjw/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
