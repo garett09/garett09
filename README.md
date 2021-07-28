@@ -181,9 +181,9 @@ Windows                  46 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Well, that&#039;s an idea!](http://9gag.com/gag/aoMG8r3)
+ - 🚖 [Never bully the quiet kid](http://9gag.com/gag/aXomKjP)
  - 🚯 [Also a real DJ](http://9gag.com/gag/aMK0qA1)
- - 🚯 [Never bully the quiet kid](http://9gag.com/gag/aXomKjP)<!-- MEMES:END -->
+ - 🚯 [No Elevator Of Course](http://9gag.com/gag/aQoDyNr)<!-- MEMES:END -->
 
 --- 
 
