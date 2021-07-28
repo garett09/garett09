@@ -181,9 +181,9 @@ Windows                  46 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [D&uacute;olingo is coming for you!!!](http://9gag.com/gag/abVL26O)
- - 🚯 [Jordan Peterson : &quot;They want to be nurses? No damn way. So off to the brick works with you!&quot;](http://9gag.com/gag/ajm3xNq)
- - 🚯 [Popping a limestone nodule](http://9gag.com/gag/aGprAz7)<!-- MEMES:END -->
+ - 🚖 [A win for a small country &gt; a win for a big country](http://9gag.com/gag/aLpOXWx)
+ - 🚯 [Olympics](http://9gag.com/gag/ad8WeOj)
+ - 🚯 [Definitely a keeper](http://9gag.com/gag/aYov1nO)<!-- MEMES:END -->
 
 --- 
 
