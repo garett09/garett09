@@ -174,9 +174,9 @@ Windows                  46 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Patchwork Health raises £3.5M to fix the staff scheduling disaster inside stressed hospitals](http://feedproxy.google.com/~r/Techcrunch/~3/z7-PXED9zGA/)
- - [Joshua Kushner’s Thrive Capital leads $20M investment in Brazilian healthcare startup Pipo Saude](http://feedproxy.google.com/~r/Techcrunch/~3/feiLL6juw4w/)
- - [Watch: Samsung highlights BlackBerry, Motorola in Galaxy Z Fold 3 teaser](https://www.androidauthority.com/samsung-galaxy-z-fold-3-teaser-1659245)<!-- TECH:END -->
+ - [IBM report: in 2021, the average data breach costs companies $4.24M to remedy, up 10% YoY; "mega" breaches involving 50M+ consumer records can cost $401M (Charlie Osborne/ZDNet)](http://www.techmeme.com/210728/p5#a210728p5)
+ - [Field Intelligence targets 11 African cities to expand its pharmacy inventory-management service](http://feedproxy.google.com/~r/Techcrunch/~3/5frVVERCFdw/)
+ - [Yes, the Android 12-based One UI 4.0 beta is coming soon](https://www.androidauthority.com/samsung-one-ui-4-beta-1659336)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
