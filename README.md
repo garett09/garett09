@@ -174,9 +174,9 @@ Windows                  46 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [You told us: Here’s how many readers switch off 5G on their phones](https://www.androidauthority.com/turn-off-5g-phone-poll-results-1659170)
- - [Brazil-based Pipo Saude, which sells and manages healthcare benefits for other companies, raises $20M Series A led by Thrive Capital (Mary Ann Azevedo/TechCrunch)](http://www.techmeme.com/210728/p10#a210728p10)
- - [Treeverse, which develops an open source Git-like service for data lakes, raises $23M Series A from Dell Technologies Capital and others (Paul Sawers/VentureBeat)](http://www.techmeme.com/210728/p9#a210728p9)<!-- TECH:END -->
+ - [Daily Authority: China’s tech crackdown 📉](https://www.androidauthority.com/newsletters/da-july-28-2021)
+ - [Contentful, which offers APIs to let companies manage content, raises $175M Series F led by Tiger Global at a ~$3B valuation, after a $80M Series E in June 2020 (Alex Wilhelm/TechCrunch)](http://www.techmeme.com/210728/p18#a210728p18)
+ - [Creators of PunkSpider say they're relaunching their search engine for hackable sites at Defcon next week to spur web admins to fix thousands of unpatched bugs (Andy Greenberg/Wired)](http://www.techmeme.com/210728/p17#a210728p17)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
