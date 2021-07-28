@@ -174,9 +174,9 @@ Windows                  46 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kili Technology, which helps companies transform raw data into high-quality annotated data for AI training, raises $25M Series A led by Balderton Capital (Dan Taylor/Tech.eu)](http://www.techmeme.com/210727/p60#a210727p60)
- - [Everything new in iOS 15 beta 4: Safari redesign changes, MagSafe battery support, more](https://appleinsider.com/articles/21/07/28/everything-new-in-ios-15-beta-4-safari-redesign-changes-magsafe-battery-support-more?utm_medium=rss)
- - [In letters to companies, CA AG says data sharing via analytics trackers, like cookies, for ad and analytics purposes fits CCPA's definition of a data "sale" (Kate Kaye/Digiday)](http://www.techmeme.com/210727/p59#a210727p59)<!-- TECH:END -->
+ - [A Harvard biostatistician is reconsidering plans to use Apple Watch as part of a study after finding inconsistencies in heart rate variability data collected (Nicole Wetsman/The Verge)](http://www.techmeme.com/210728/p1#a210728p1)
+ - [New energy regulations prompt Dell to stop sales of high-performance PCs in six states](https://appleinsider.com/articles/21/07/28/dell-stops-sales-of-high-performance-pcs-in-six-states-citing-new-energy-bill?utm_medium=rss)
+ - [Apple's iOS 15 to reportedly use facial recognition to validate ID cards](https://appleinsider.com/articles/21/07/28/apples-ios-15-to-reportedly-use-facial-recognition-to-validate-id-card-storage?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
