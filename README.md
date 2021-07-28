@@ -167,9 +167,9 @@ Windows                  46 mins             ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [In praise of Aragorn, the most well-rounded sex symbol on Middle (or any) earth](https://www.polygon.com/lord-of-the-rings/22596790/lotr-aragorn-hot-sexy-viggo-mortensen)
- - [High-end gaming PCs are exempt from the CEC power regulations](https://www.pcgamer.com/high-end-gaming-pcs-are-exempt-from-the-cec-power-regulations)
- - [Battlefield 2042’s new mode is the opposite of esports, and that rules](https://www.polygon.com/22598351/battlefield-2042-portal-creation-competition-balance-mode-esports-steam-share)<!-- GAME:END -->
+ - [Ubisoft Workers Decry Industry's 'Culture Of Abuse'](https://kotaku.com/ubisoft-workers-decry-industrys-culture-of-abuse-1847380511)
+ - [Ubisoft employees say they've 'had enough' of 'empty promises,' offer solidarity to Activision Blizzard](https://www.pcgamer.com/ubisoft-employees-say-theyve-had-enough-of-empty-promises-offer-solidarity-to-activision-blizzard)
+ - [Save scumming: reviled exploit or useful mechanic?](https://www.polygon.com/videos/22598307/save-scumming-exploit-xcom-desperados)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
