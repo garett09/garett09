@@ -174,9 +174,9 @@ Windows                  46 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This might be the name of Qualcomm’s 2022 flagship phone chip](https://www.androidauthority.com/qualcomm-snapdragon-898-chip-name-leak-1660228)
- - [Score a free month of Extra Crunch with your TC Sessions: SaaS 2021 pass](http://feedproxy.google.com/~r/Techcrunch/~3/0uHMdpM3u-U/)
- - [Drivers for Elon Musk’s Loop get a script about their ‘great leader’](http://feedproxy.google.com/~r/Techcrunch/~3/hRrhQYrg3Oo/)<!-- TECH:END -->
+ - [Facebook Reports Second Quarter 2021 Results (Facebook)](http://www.techmeme.com/210728/p54#a210728p54)
+ - [In a memo, Apple says it plans to restore a mask requirement for staff and customers at most of its US retail stores on Thursday, due to rising COVID cases (Mark Gurman/Bloomberg)](http://www.techmeme.com/210728/p53#a210728p53)
+ - [White House says infrastructure deal includes $65 billion for broadband](https://www.theverge.com/2021/7/28/22598636/white-house-infrastructure-broadband-package-bipartisan)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
