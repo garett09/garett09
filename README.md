@@ -167,9 +167,9 @@ Windows                  46 mins             ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Humble Starfinder Bundle has everything you need to start playing](https://www.polygon.com/tabletop-games/22597839/humble-bundle-starfinder-release-date-price)
- - [Love hurts in Boyfriend Dungeon, a dating sim where you romance your weapons](https://www.pcgamer.com/love-hurts-in-boyfriend-dungeon-a-dating-sim-where-you-romance-your-weapons)
- - [New blockbuster studio That's No Moon boasts an embarrassment of talent](https://www.pcgamer.com/new-blockbuster-studio-thats-no-moon-boasts-an-embarrassment-of-talent)<!-- GAME:END -->
+ - [The color of emotion in Life is Strange: True Colors](http://feedproxy.google.com/~r/PSBlog/~3/VzJAKAiZuE4/)
+ - [The color of emotion in Life is Strange: True Colors](https://blog.playstation.com/2021/07/28/the-color-of-emotion-in-life-is-strange-true-colors/)
+ - [New Games with Gold for August 2021](https://news.xbox.com/en-us/2021/07/28/new-games-with-gold-for-august-2021/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
