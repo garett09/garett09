@@ -167,9 +167,9 @@ Windows                  46 mins             ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Inside Blizzard Developers’ Infamous Bill ‘Cosby Suite’](https://kotaku.com/inside-blizzard-developers-infamous-bill-cosby-suite-1847378762)
- - [The Forgotten City’s Journey From a Mod to a Standalone Game](https://news.xbox.com/en-us/2021/07/28/the-forgotten-city-journey-from-a-mod-to-a-standalone-game/)
- - [If You Have Xbox Games With Gold, Try Darksiders III In August](https://kotaku.com/if-you-have-xbox-games-with-gold-try-darksiders-iii-in-1847379229)<!-- GAME:END -->
+ - [In praise of Aragorn, the most well-rounded sex symbol on Middle (or any) earth](https://www.polygon.com/lord-of-the-rings/22596790/lotr-aragorn-hot-sexy-viggo-mortensen)
+ - [High-end gaming PCs are exempt from the CEC power regulations](https://www.pcgamer.com/high-end-gaming-pcs-are-exempt-from-the-cec-power-regulations)
+ - [Battlefield 2042’s new mode is the opposite of esports, and that rules](https://www.polygon.com/22598351/battlefield-2042-portal-creation-competition-balance-mode-esports-steam-share)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
