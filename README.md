@@ -181,9 +181,9 @@ Windows                  46 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [First time living without roommates](http://9gag.com/gag/aYovmMO)
- - 🚯 [Instant karma b*tch!](http://9gag.com/gag/ad8Wbb9)
- - 🚯 [In Indonesia if you get vaccinated you get a chicken](http://9gag.com/gag/a4EBVxy)<!-- MEMES:END -->
+ - 🚖 [Meow meow ***ga](http://9gag.com/gag/abVLRwv)
+ - 🚯 [Jeff Bezos laughing as he gets richer](http://9gag.com/gag/azMv4Pj)
+ - 🚯 [Fook wasp](http://9gag.com/gag/awM9v4W)<!-- MEMES:END -->
 
 --- 
 
