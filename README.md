@@ -174,9 +174,9 @@ Windows                  46 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Facebook Reports Second Quarter 2021 Results (Facebook)](http://www.techmeme.com/210728/p54#a210728p54)
- - [In a memo, Apple says it plans to restore a mask requirement for staff and customers at most of its US retail stores on Thursday, due to rising COVID cases (Mark Gurman/Bloomberg)](http://www.techmeme.com/210728/p53#a210728p53)
- - [White House says infrastructure deal includes $65 billion for broadband](https://www.theverge.com/2021/7/28/22598636/white-house-infrastructure-broadband-package-bipartisan)<!-- TECH:END -->
+ - [Facebook will require US office employees to be vaccinated](https://www.theverge.com/2021/7/28/22598818/facebook-vaccine-requirement-us-office-employees)
+ - [The best Chromebook for 2021](https://www.theverge.com/21296102/best-chromebooks)
+ - [PayPal beats with Q2 revenue of $6.24B, up 17% YoY, total payments volume of $311B, up 40% YoY, and added 11.4M new active accounts for a total of 403M (Jonathan Greig/ZDNet)](http://www.techmeme.com/210728/p57#a210728p57)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
