@@ -174,9 +174,9 @@ Windows                  46 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Facebook will require US office employees to be vaccinated](https://www.theverge.com/2021/7/28/22598818/facebook-vaccine-requirement-us-office-employees)
- - [The best Chromebook for 2021](https://www.theverge.com/21296102/best-chromebooks)
- - [PayPal beats with Q2 revenue of $6.24B, up 17% YoY, total payments volume of $311B, up 40% YoY, and added 11.4M new active accounts for a total of 403M (Jonathan Greig/ZDNet)](http://www.techmeme.com/210728/p57#a210728p57)<!-- TECH:END -->
+ - [Apple opens applications for next Entrepreneur Camp for Black founders and developers](https://appleinsider.com/articles/21/07/28/apple-opens-applications-for-next-entrepreneur-camp-for-black-founders-and-developers?utm_medium=rss)
+ - [The Senate has reached a deal on an infrastructure package that includes $65B for broadband investments, $35B less than what Biden proposed in March (Makena Kelly/The Verge)](http://www.techmeme.com/210728/p60#a210728p60)
+ - [Dear Sophie: Should we sponsor international hires for H-1B transfers and green cards?](http://feedproxy.google.com/~r/Techcrunch/~3/-wjc8fOwnrk/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
