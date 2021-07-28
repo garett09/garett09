@@ -167,9 +167,9 @@ Windows                  46 mins             ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Halo Infinite's first technical preview is happening this weekend](https://www.pcgamer.com/halo-infinites-first-technical-preview-is-coming-very-soon-maybe-even-next-weekend)
- - [Fuse and Caustic will get major buffs in Apex Legends Season 10](https://www.pcgamer.com/fuse-and-caustic-will-get-major-buffs-in-apex-legends-season-10)
- - [Pokémon Go Accidentally Banned A Ton Of Players](https://kotaku.com/pokemon-go-accidentally-banned-a-ton-of-players-1847374250)<!-- GAME:END -->
+ - [Bobby Kotick finally responds to Activision Blizzard employees: our initial response was 'tone deaf'](https://www.pcgamer.com/bobby-kotick-finally-responds-to-activision-blizzard-employees-our-initial-response-was-tone-deaf)
+ - [Bob’s Burgers will keep breaking rules in season 12, the eventual movie](https://www.polygon.com/animation-cartoons/2021/7/27/22595916/bobs-burger-season-12-movie-plans-comic-con-2021)
+ - [Activision CEO Bobby Kotick Comments On Harassment Allegations](https://kotaku.com/activision-ceo-bobby-kotick-comments-on-harassment-alle-1847374627)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
