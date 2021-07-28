@@ -182,8 +182,8 @@ Windows                  46 mins             ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [He was alright in the early 2000s but something has happened to that man](http://9gag.com/gag/azMvGPB)
- - 🚯 [A very clean cut](http://9gag.com/gag/aAbLM3R)
- - 🚯 [Dutch soccer team beat West Taiwan 8 - 2 on the Olympics. I wonder what the CCP state media will say about the match.](http://9gag.com/gag/aXomV99)<!-- MEMES:END -->
+ - 🚯 [Jabuticaba tree, only in Brazil, Argentina, Paraguay, and Bolivia - the fruit grows directly on the trunk and branches and tastes like blueberry yogurt](http://9gag.com/gag/aAbLMgR)
+ - 🚯 [My gf asked me to buy something for the bathroom (like sea shells or potpourri). I bought this. I have no bananas for scale, but it&#039;s pretty big.](http://9gag.com/gag/a5E9w9q)<!-- MEMES:END -->
 
 --- 
 
