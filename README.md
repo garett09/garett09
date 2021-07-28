@@ -167,9 +167,9 @@ Windows                  46 mins             ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dr. Mario World Is Being Pronounced Dead In November](https://kotaku.com/dr-mario-world-is-being-pronounced-dead-in-november-1847375406)
- - [I Will Talk About Whatever You Want To Talk About](https://kotaku.com/i-will-talk-about-whatever-you-want-to-talk-about-1847375308)
- - [Bobby Kotick finally responds to Activision Blizzard employees: our initial response was 'tone deaf'](https://www.pcgamer.com/bobby-kotick-finally-responds-to-activision-blizzard-employees-our-initial-response-was-tone-deaf)<!-- GAME:END -->
+ - [Time-looping murder mystery The Forgotten City is out today](https://www.pcgamer.com/time-looping-murder-mystery-the-forgotten-city-is-out-today)
+ - [Japanese Fans Accidently Thought That Olympians Were 'Pikachu' And 'Raichu'](https://kotaku.com/japanese-fans-accidently-thought-that-olympians-were-pi-1847376115)
+ - [Dr. Mario World Is Being Pronounced Dead In November](https://kotaku.com/dr-mario-world-is-being-pronounced-dead-in-november-1847375406)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
