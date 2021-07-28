@@ -181,9 +181,9 @@ Windows                  46 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Confessions of a Vice journalist](http://9gag.com/gag/aZ042L6)
- - 🚯 [Driveway turntable](http://9gag.com/gag/aDdqVrO)
- - 🚯 [Thank you for the ear comfort in my/our early years. RIP Joey Jordison](http://9gag.com/gag/a3EzW0Q)<!-- MEMES:END -->
+ - 🚖 [Can&#039;t think otherwise now](http://9gag.com/gag/aV792py)
+ - 🚯 [Thank you for the ear comfort in my/our early years. RIP Joey Jordison](http://9gag.com/gag/a3EzW0Q)
+ - 🚯 [A win for a small country &gt; a win for a big country](http://9gag.com/gag/aLpOXWx)<!-- MEMES:END -->
 
 --- 
 
