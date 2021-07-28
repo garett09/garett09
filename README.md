@@ -181,9 +181,9 @@ Windows                  46 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Can&#039;t think otherwise now](http://9gag.com/gag/aV792py)
- - 🚯 [Thank you for the ear comfort in my/our early years. RIP Joey Jordison](http://9gag.com/gag/a3EzW0Q)
- - 🚯 [A win for a small country &gt; a win for a big country](http://9gag.com/gag/aLpOXWx)<!-- MEMES:END -->
+ - 🚖 [What a f*cking legend - Rest in Peace Joey Jordison.. This video absolutely bloew my mind when i started playing drums myself as a teenager. This guy has been my very first idol for many years](http://9gag.com/gag/aXomKpg)
+ - 🚯 [A win for a small country &gt; a win for a big country](http://9gag.com/gag/aLpOXWx)
+ - 🚯 [Thank you for the ear comfort in my/our early years. RIP Joey Jordison](http://9gag.com/gag/a3EzW0Q)<!-- MEMES:END -->
 
 --- 
 
