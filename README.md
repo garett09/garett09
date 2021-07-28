@@ -167,9 +167,9 @@ Windows                  46 mins             ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Activision Blizzard CEO apologizes to employees for ‘tone deaf’ response to harassment suit](https://www.polygon.com/22597748/activision-blizzard-ceo-bobby-kotick-employees-response-harassment-lawsuit)
- - [Trying to craft some bullets in Amazon's New World sent me over the edge](https://www.pcgamer.com/trying-to-craft-some-bullets-in-amazons-new-world-sent-me-over-the-edge)
- - [Weird West is swinging just as hard as Prey and Dishonored](https://www.pcgamer.com/weird-west-is-swinging-just-as-hard-as-prey-and-dishonored)<!-- GAME:END -->
+ - [Humble Starfinder Bundle has everything you need to start playing](https://www.polygon.com/tabletop-games/22597839/humble-bundle-starfinder-release-date-price)
+ - [Love hurts in Boyfriend Dungeon, a dating sim where you romance your weapons](https://www.pcgamer.com/love-hurts-in-boyfriend-dungeon-a-dating-sim-where-you-romance-your-weapons)
+ - [New blockbuster studio That's No Moon boasts an embarrassment of talent](https://www.pcgamer.com/new-blockbuster-studio-thats-no-moon-boasts-an-embarrassment-of-talent)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
