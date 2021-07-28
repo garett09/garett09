@@ -167,9 +167,9 @@ Windows                  46 mins             ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The color of emotion in Life is Strange: True Colors](http://feedproxy.google.com/~r/PSBlog/~3/VzJAKAiZuE4/)
- - [The color of emotion in Life is Strange: True Colors](https://blog.playstation.com/2021/07/28/the-color-of-emotion-in-life-is-strange-true-colors/)
- - [New Games with Gold for August 2021](https://news.xbox.com/en-us/2021/07/28/new-games-with-gold-for-august-2021/)<!-- GAME:END -->
+ - [Destruction AllStars July update arrives today](http://feedproxy.google.com/~r/PSBlog/~3/nH5u29D7QHc/)
+ - [Destruction AllStars July update arrives today](https://blog.playstation.com/2021/07/28/destruction-allstars-july-update-arrives-today/)
+ - [Pokémon GO Really Needs To Stop Fixing Raid Captures](https://kotaku.com/pokemon-go-really-needs-to-stop-fixing-raid-captures-1847377800)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
