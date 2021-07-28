@@ -174,9 +174,9 @@ Windows                  46 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [IBM report: in 2021, the average data breach costs companies $4.24M to remedy, up 10% YoY; "mega" breaches involving 50M+ consumer records can cost $401M (Charlie Osborne/ZDNet)](http://www.techmeme.com/210728/p5#a210728p5)
- - [Field Intelligence targets 11 African cities to expand its pharmacy inventory-management service](http://feedproxy.google.com/~r/Techcrunch/~3/5frVVERCFdw/)
- - [Yes, the Android 12-based One UI 4.0 beta is coming soon](https://www.androidauthority.com/samsung-one-ui-4-beta-1659336)<!-- TECH:END -->
+ - [You told us: Here’s how many readers switch off 5G on their phones](https://www.androidauthority.com/turn-off-5g-phone-poll-results-1659170)
+ - [Brazil-based Pipo Saude, which sells and manages healthcare benefits for other companies, raises $20M Series A led by Thrive Capital (Mary Ann Azevedo/TechCrunch)](http://www.techmeme.com/210728/p10#a210728p10)
+ - [Treeverse, which develops an open source Git-like service for data lakes, raises $23M Series A from Dell Technologies Capital and others (Paul Sawers/VentureBeat)](http://www.techmeme.com/210728/p9#a210728p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
