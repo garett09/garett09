@@ -182,7 +182,7 @@ Windows                  46 mins             ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Confessions of a Vice journalist](http://9gag.com/gag/aZ042L6)
- - 🚯 [&quot;Looking like men.&quot; ... That&#039;s because they are men.](http://9gag.com/gag/a8EvwQO)
+ - 🚯 [Driveway turntable](http://9gag.com/gag/aDdqVrO)
  - 🚯 [Thank you for the ear comfort in my/our early years. RIP Joey Jordison](http://9gag.com/gag/a3EzW0Q)<!-- MEMES:END -->
 
 --- 
