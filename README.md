@@ -174,9 +174,9 @@ Windows                  46 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mac and iPad sales break quarterly records in Q3, with Mac revenue of $8.2B, up 16% YoY, and iPad revenue of $7.4B, up 12% YoY (Mike Peterson/AppleInsider)](http://www.techmeme.com/210727/p52#a210727p52)
- - [New Ghostbusters: Afterlife trailer gets Ecto-1 back on the streets     - CNET](https://www.cnet.com/news/new-ghostbusters-afterlife-trailer-puts-ecto-1-back-on-the-streets/#ftag=CAD590a51e)
- - [Blizzard is encouraging its own employees to attend Wednesday’s walkout with paid time off](https://www.theverge.com/2021/7/27/22596957/blizzard-pto-sexual-harassment-walkout)<!-- TECH:END -->
+ - [Dell stops sales of high-performance PCs in six states citing new energy bill](https://appleinsider.com/articles/21/07/28/dell-stops-sales-of-high-performance-pcs-in-six-states-citing-new-energy-bill?utm_medium=rss)
+ - [Apple warns that supply constraints due to "legacy node" chip production will be worse in Q4 than in Q3 and will likely affect sales of the iPhone and iPad (Kif Leswing/CNBC)](http://www.techmeme.com/210727/p56#a210727p56)
+ - [Live Text is no longer an M1-exclusive in Apple’s newest macOS Monterey beta](https://www.theverge.com/2021/7/27/22596970/apple-macos-monterey-live-text-intel-processors)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
