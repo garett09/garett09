@@ -167,9 +167,9 @@ Windows                  46 mins             ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Bobby Kotick finally responds to Activision Blizzard employees: our initial response was 'tone deaf'](https://www.pcgamer.com/bobby-kotick-finally-responds-to-activision-blizzard-employees-our-initial-response-was-tone-deaf)
- - [Bob’s Burgers will keep breaking rules in season 12, the eventual movie](https://www.polygon.com/animation-cartoons/2021/7/27/22595916/bobs-burger-season-12-movie-plans-comic-con-2021)
- - [Activision CEO Bobby Kotick Comments On Harassment Allegations](https://kotaku.com/activision-ceo-bobby-kotick-comments-on-harassment-alle-1847374627)<!-- GAME:END -->
+ - [Dr. Mario World Is Being Pronounced Dead In November](https://kotaku.com/dr-mario-world-is-being-pronounced-dead-in-november-1847375406)
+ - [I Will Talk About Whatever You Want To Talk About](https://kotaku.com/i-will-talk-about-whatever-you-want-to-talk-about-1847375308)
+ - [Bobby Kotick finally responds to Activision Blizzard employees: our initial response was 'tone deaf'](https://www.pcgamer.com/bobby-kotick-finally-responds-to-activision-blizzard-employees-our-initial-response-was-tone-deaf)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
