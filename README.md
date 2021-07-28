@@ -181,9 +181,9 @@ Windows                  46 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The dark side of the olympic games. Unnecessarily buildings from tax payers money, evicted citizens etc.](http://9gag.com/gag/azMvYwp)
- - 🚯 [Fook wasp](http://9gag.com/gag/awM9v4W)
- - 🚯 [Its my 22. birthday and wednesday my dudes](http://9gag.com/gag/a07DMxO)<!-- MEMES:END -->
+ - 🚖 [First time living without roommates](http://9gag.com/gag/aYovmMO)
+ - 🚯 [Instant karma b*tch!](http://9gag.com/gag/ad8Wbb9)
+ - 🚯 [In Indonesia if you get vaccinated you get a chicken](http://9gag.com/gag/a4EBVxy)<!-- MEMES:END -->
 
 --- 
 
