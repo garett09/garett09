@@ -174,9 +174,9 @@ Windows                  46 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A Harvard biostatistician is reconsidering plans to use Apple Watch as part of a study after finding inconsistencies in heart rate variability data collected (Nicole Wetsman/The Verge)](http://www.techmeme.com/210728/p1#a210728p1)
- - [New energy regulations prompt Dell to stop sales of high-performance PCs in six states](https://appleinsider.com/articles/21/07/28/dell-stops-sales-of-high-performance-pcs-in-six-states-citing-new-energy-bill?utm_medium=rss)
- - [Apple's iOS 15 to reportedly use facial recognition to validate ID cards](https://appleinsider.com/articles/21/07/28/apples-ios-15-to-reportedly-use-facial-recognition-to-validate-id-card-storage?utm_medium=rss)<!-- TECH:END -->
+ - [Ivorian fintech Julaya raises $2M to digitize business payments in Francophone Africa](http://feedproxy.google.com/~r/Techcrunch/~3/Gli2caGrtYk/)
+ - [Apple Watch 'black box' algorithms unreliable for medical research [u]](https://appleinsider.com/articles/21/07/27/apple-watch-black-box-algorithms-unreliable-for-medical-research?utm_medium=rss)
+ - [Apple greenlights 'For All Mankind' season four, Writers Guild suggests](https://appleinsider.com/articles/21/07/28/apple-greenlights-for-all-mankind-season-four-writers-guild-suggests?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
