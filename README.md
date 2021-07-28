@@ -174,9 +174,9 @@ Windows                  46 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily Authority: China’s tech crackdown 📉](https://www.androidauthority.com/newsletters/da-july-28-2021)
- - [Contentful, which offers APIs to let companies manage content, raises $175M Series F led by Tiger Global at a ~$3B valuation, after a $80M Series E in June 2020 (Alex Wilhelm/TechCrunch)](http://www.techmeme.com/210728/p18#a210728p18)
- - [Creators of PunkSpider say they're relaunching their search engine for hackable sites at Defcon next week to spur web admins to fix thousands of unpatched bugs (Andy Greenberg/Wired)](http://www.techmeme.com/210728/p17#a210728p17)<!-- TECH:END -->
+ - [Algolia, which provides APIs for developers to integrate real-time search into websites and apps, raises $150M Series D at a $2.25B valuation (Romain Dillet/TechCrunch)](http://www.techmeme.com/210728/p23#a210728p23)
+ - [Could you beat this bipedal robot’s 5K run time?](https://www.theverge.com/2021/7/28/22597655/biped-robot-cassie-runs-first-robotic-outdoors-5k)
+ - [Apple's Q3 revenue for Wearables, Home, and Accessories category, which includes Watch and AirPods, was $8.8B, up 36% YoY; nearly 75% of Watch buyers were new (Juli Clover/MacRumors)](http://www.techmeme.com/210728/p22#a210728p22)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
