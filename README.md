@@ -167,9 +167,9 @@ Windows                  46 mins             ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [World of Warcraft team pledges ‘immediate action’ in-game after Activision Blizzard discrimination lawsuit](https://www.polygon.com/22596847/activision-blizzard-harassment-lawsuit-world-of-warcraft-changes-alex-afrasiabi)
- - [If you play Tribes of Midgard solo, prepare to get stomped](https://www.pcgamer.com/tribes-of-midgard-solo)
- - [World of Warcraft developers pledge to remove in-game references that are 'not appropriate' following sexual harassment lawsuit](https://www.pcgamer.com/world-of-warcraft-developers-pledge-to-remove-in-game-references-that-are-not-appropriate-following-sexual-harassment-lawsuit)<!-- GAME:END -->
+ - [Halo Infinite's first technical preview is happening this weekend](https://www.pcgamer.com/halo-infinites-first-technical-preview-is-coming-very-soon-maybe-even-next-weekend)
+ - [Fuse and Caustic will get major buffs in Apex Legends Season 10](https://www.pcgamer.com/fuse-and-caustic-will-get-major-buffs-in-apex-legends-season-10)
+ - [Pokémon Go Accidentally Banned A Ton Of Players](https://kotaku.com/pokemon-go-accidentally-banned-a-ton-of-players-1847374250)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
