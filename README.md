@@ -167,9 +167,9 @@ Windows                  46 mins             ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dimension 20 goes back to school with a new season this August](https://www.polygon.com/22598150/dungeons-dragons-dimension-20-new-season-actual-play-the-seven-dropout-tv-release-dates)
- - [Summer Spotlight 2021: Over 75 New Games Coming to Xbox](https://news.xbox.com/en-us/2021/07/28/summer-spotlight-2021-over-75-new-games-coming-to-xbox/)
- - [In praise of Aragorn, the most well-rounded sex symbol on Middle (or any) earth](https://www.polygon.com/lord-of-the-rings/22596790/lotr-aragorn-hot-sexy-viggo-mortensen)<!-- GAME:END -->
+ - [Inside Blizzard Developers’ Infamous Bill ‘Cosby Suite’](https://kotaku.com/inside-blizzard-developers-infamous-bill-cosby-suite-1847378762)
+ - [The Forgotten City’s Journey From a Mod to a Standalone Game](https://news.xbox.com/en-us/2021/07/28/the-forgotten-city-journey-from-a-mod-to-a-standalone-game/)
+ - [If You Have Xbox Games With Gold, Try Darksiders III In August](https://kotaku.com/if-you-have-xbox-games-with-gold-try-darksiders-iii-in-1847379229)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
