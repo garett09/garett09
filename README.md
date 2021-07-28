@@ -181,9 +181,9 @@ Windows                  46 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When you&#039;re not allowed to go on the road so you wait for paps to get your ball for you.](http://9gag.com/gag/axMeRYK)
- - 🚯 [Favourite scene in &ldquo;The Office&rdquo;..](http://9gag.com/gag/aZ04jwQ)
- - 🚯 [Driveway turntable](http://9gag.com/gag/aDdqVrO)<!-- MEMES:END -->
+ - 🚖 [Krist&oacute;f Mil&aacute;k (22y) after beating Michael Phelps&#039;s record from 2004 at 200m butterfly and win his first ever olympic gold medal.](http://9gag.com/gag/aP3VQ1R)
+ - 🚯 [Eddie Hall holding 500kg world record deadlift as long as he can, even after the referee approves. Beast.](http://9gag.com/gag/aNpGB5v)
+ - 🚯 [Jordan Peterson : &quot;They want to be nurses? No damn way. So off to the brick works with you!&quot;](http://9gag.com/gag/ajm3xNq)<!-- MEMES:END -->
 
 --- 
 
