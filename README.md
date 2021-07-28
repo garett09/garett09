@@ -181,9 +181,9 @@ Windows                  46 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Meow meow ***ga](http://9gag.com/gag/abVLRwv)
- - 🚯 [Jeff Bezos laughing as he gets richer](http://9gag.com/gag/azMv4Pj)
- - 🚯 [Fook wasp](http://9gag.com/gag/awM9v4W)<!-- MEMES:END -->
+ - 🚖 [Time to git gud.](http://9gag.com/gag/aEpjQ2e)
+ - 🚯 [It wasn&rsquo;t all...](http://9gag.com/gag/a5E9D4G)
+ - 🚯 [She has competed in 8 olympics! What a woman.](http://9gag.com/gag/agBpK91)<!-- MEMES:END -->
 
 --- 
 
