@@ -181,9 +181,9 @@ Windows                  46 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Little girl with her new toy.](http://9gag.com/gag/amPOpMv)
+ - 🚖 [Definitely a keeper](http://9gag.com/gag/aYov1nO)
  - 🚯 [What a f*cking legend - Rest in Peace Joey Jordison.. This video absolutely bloew my mind when i started playing drums myself as a teenager. This guy has been my very first idol for many years](http://9gag.com/gag/aXomKpg)
- - 🚯 [Save this for later](http://9gag.com/gag/av5Bd9M)<!-- MEMES:END -->
+ - 🚯 [Jeff Bezos laughing as he gets richer](http://9gag.com/gag/azMv4Pj)<!-- MEMES:END -->
 
 --- 
 
