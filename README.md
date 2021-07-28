@@ -174,9 +174,9 @@ Windows                  46 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Algolia, which provides APIs for developers to integrate real-time search into websites and apps, raises $150M Series D at a $2.25B valuation (Romain Dillet/TechCrunch)](http://www.techmeme.com/210728/p23#a210728p23)
- - [Could you beat this bipedal robot’s 5K run time?](https://www.theverge.com/2021/7/28/22597655/biped-robot-cassie-runs-first-robotic-outdoors-5k)
- - [Apple's Q3 revenue for Wearables, Home, and Accessories category, which includes Watch and AirPods, was $8.8B, up 36% YoY; nearly 75% of Watch buyers were new (Juli Clover/MacRumors)](http://www.techmeme.com/210728/p22#a210728p22)<!-- TECH:END -->
+ - [Samsung says Android 12-based One UI 4.0 beta is coming soon (Update: Removed)](https://www.androidauthority.com/samsung-one-ui-4-beta-1659336)
+ - [Biden instructs federal agencies to develop voluntary cybersecurity goals for companies operating critical infrastructure, as officials consider mandatory rules (Dustin Volz/Wall Street Journal)](http://www.techmeme.com/210728/p28#a210728p28)
+ - [TSMC receives final approval for a 2nm chip plant in Taiwan; sources say construction will begin in 2022 and equipment will be installed in 2023 (Nikkei Asia)](http://www.techmeme.com/210728/p27#a210728p27)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
