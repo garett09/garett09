@@ -175,8 +175,8 @@ Windows                  46 mins             ███████████�
 
 <!-- TECH:START -->
  - [Ivorian fintech Julaya raises $2M to digitize business payments in Francophone Africa](http://feedproxy.google.com/~r/Techcrunch/~3/Gli2caGrtYk/)
- - [Apple Watch 'black box' algorithms unreliable for medical research [u]](https://appleinsider.com/articles/21/07/27/apple-watch-black-box-algorithms-unreliable-for-medical-research?utm_medium=rss)
- - [Apple greenlights 'For All Mankind' season four, Writers Guild suggests](https://appleinsider.com/articles/21/07/28/apple-greenlights-for-all-mankind-season-four-writers-guild-suggests?utm_medium=rss)<!-- TECH:END -->
+ - [Best VPN service for Amazon Fire TV Stick in 2021     - CNET](https://www.cnet.com/tech/services-and-software/best-vpn-for-amazon-fire-tv-stick/#ftag=CAD590a51e)
+ - [Apple Watch 'black box' algorithms unreliable for medical research [u]](https://appleinsider.com/articles/21/07/27/apple-watch-black-box-algorithms-unreliable-for-medical-research?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
