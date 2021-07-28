@@ -181,9 +181,9 @@ Windows                  46 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A win for a small country &gt; a win for a big country](http://9gag.com/gag/aLpOXWx)
- - 🚯 [Olympics](http://9gag.com/gag/ad8WeOj)
- - 🚯 [Definitely a keeper](http://9gag.com/gag/aYov1nO)<!-- MEMES:END -->
+ - 🚖 [Confessions of a Vice journalist](http://9gag.com/gag/aZ042L6)
+ - 🚯 [&quot;Looking like men.&quot; ... That&#039;s because they are men.](http://9gag.com/gag/a8EvwQO)
+ - 🚯 [Thank you for the ear comfort in my/our early years. RIP Joey Jordison](http://9gag.com/gag/a3EzW0Q)<!-- MEMES:END -->
 
 --- 
 
