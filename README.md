@@ -174,9 +174,9 @@ Windows                  46 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Most analysts got Apple's Q3 2021 wrong -- here's what they predicted](https://appleinsider.com/articles/21/07/28/most-analysts-got-apples-q3-2021-wrong----heres-what-they-predicted?utm_medium=rss)
- - [New Today at Apple video teaches you how to take otherworldly photos at night](https://appleinsider.com/articles/21/07/28/new-today-at-apple-video-teaches-you-how-to-take-otherworldly-photos-at-night?utm_medium=rss)
- - [In a court filing, AGs from 45 states, DC, and Guam say they will appeal the dismissal of their Facebook antitrust case (Leah Nylen/Politico)](http://www.techmeme.com/210728/p40#a210728p40)<!-- TECH:END -->
+ - [Coinbase report: in H1 2021, the market for ether was 3x busier than bitcoin, as ETH trading grew 1,461% to $1.4T, compared to BTC's 489% rise to $2.1T (Omkar Godbole/CoinDesk)](http://www.techmeme.com/210728/p43#a210728p43)
+ - [Activision Blizzard employees say CEO’s letter ‘fails to address’ key concerns](https://www.theverge.com/2021/7/28/22598128/activision-blizzard-employees-ceo-letter-response-key-concerns)
+ - [Financial firms should leverage machine learning to make anomaly detection easier](http://feedproxy.google.com/~r/Techcrunch/~3/7dFyGHKcrW4/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
