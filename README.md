@@ -181,9 +181,9 @@ Windows                  46 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Olympics](http://9gag.com/gag/ad8WeOj)
- - 🚯 [There is a Brazilian athlete playing with mask in the olympics game but a Karen can&rsquo;t go to a grocery store because the mask suffocates her](http://9gag.com/gag/ad8Wnp2)
- - 🚯 [When Romans shit their Pants](http://9gag.com/gag/a9E48qW)<!-- MEMES:END -->
+ - 🚖 [A very clean cut](http://9gag.com/gag/aAbLM3R)
+ - 🚯 [Jabuticaba tree, only in Brazil, Argentina, Paraguay, and Bolivia - the fruit grows directly on the trunk and branches and tastes like blueberry yogurt](http://9gag.com/gag/aAbLMgR)
+ - 🚯 [Just sayin&#039;](http://9gag.com/gag/aeAqV9O)<!-- MEMES:END -->
 
 --- 
 
