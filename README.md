@@ -174,9 +174,9 @@ Windows                  46 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple opens applications for next Entrepreneur Camp for Black founders and developers](https://appleinsider.com/articles/21/07/28/apple-opens-applications-for-next-entrepreneur-camp-for-black-founders-and-developers?utm_medium=rss)
- - [The Senate has reached a deal on an infrastructure package that includes $65B for broadband investments, $35B less than what Biden proposed in March (Makena Kelly/The Verge)](http://www.techmeme.com/210728/p60#a210728p60)
- - [Dear Sophie: Should we sponsor international hires for H-1B transfers and green cards?](http://feedproxy.google.com/~r/Techcrunch/~3/-wjc8fOwnrk/)<!-- TECH:END -->
+ - [Mark Zuckerberg says video now accounts for almost half the time spent on Facebook, and that Reels is the "largest contributor to engagement growth" (Karissa Bell/Engadget)](http://www.techmeme.com/210728/p61#a210728p61)
+ - [Apple's iOS, Android split share of new smartphone activations in last year](https://appleinsider.com/articles/21/07/28/apples-ios-android-split-share-of-new-smartphone-activations-in-last-year?utm_medium=rss)
+ - [Activision Blizzard Employees Walk Out Over Sexism Complaints](https://www.wired.com/story/activision-blizzard-employees-walk-out-after-allegations-of-rampant-sexism)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
