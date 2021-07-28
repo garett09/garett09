@@ -174,9 +174,9 @@ Windows                  46 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [CISA and FBI, UK's NCSC, and Australia's ACSC issue a joint advisory detailing the most exploited vulnerabilities in 2020 and 2021 (Catalin Cimpanu/The Record)](http://www.techmeme.com/210728/p31#a210728p31)
- - [China’s regulatory crackdown is good news for startups aligned with CCP goals](http://feedproxy.google.com/~r/Techcrunch/~3/7mtY08x83k0/)
- - [Relief looks to negotiate on behalf of users struggling with debt](http://feedproxy.google.com/~r/Techcrunch/~3/nqv9wzf-lD8/)<!-- TECH:END -->
+ - [Most analysts got Apple's Q3 2021 wrong -- here's what they predicted](https://appleinsider.com/articles/21/07/28/most-analysts-got-apples-q3-2021-wrong----heres-what-they-predicted?utm_medium=rss)
+ - [New Today at Apple video teaches you how to take otherworldly photos at night](https://appleinsider.com/articles/21/07/28/new-today-at-apple-video-teaches-you-how-to-take-otherworldly-photos-at-night?utm_medium=rss)
+ - [In a court filing, AGs from 45 states, DC, and Guam say they will appeal the dismissal of their Facebook antitrust case (Leah Nylen/Politico)](http://www.techmeme.com/210728/p40#a210728p40)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
