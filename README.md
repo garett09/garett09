@@ -181,9 +181,9 @@ Windows                  46 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A very clean cut](http://9gag.com/gag/aAbLM3R)
- - 🚯 [Jabuticaba tree, only in Brazil, Argentina, Paraguay, and Bolivia - the fruit grows directly on the trunk and branches and tastes like blueberry yogurt](http://9gag.com/gag/aAbLMgR)
- - 🚯 [Just sayin&#039;](http://9gag.com/gag/aeAqV9O)<!-- MEMES:END -->
+ - 🚖 [When you&#039;re not allowed to go on the road so you wait for paps to get your ball for you.](http://9gag.com/gag/axMeRYK)
+ - 🚯 [Favourite scene in &ldquo;The Office&rdquo;..](http://9gag.com/gag/aZ04jwQ)
+ - 🚯 [Driveway turntable](http://9gag.com/gag/aDdqVrO)<!-- MEMES:END -->
 
 --- 
 
