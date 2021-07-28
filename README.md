@@ -174,9 +174,9 @@ Windows                  46 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung says Android 12-based One UI 4.0 beta is coming soon (Update: Removed)](https://www.androidauthority.com/samsung-one-ui-4-beta-1659336)
- - [Biden instructs federal agencies to develop voluntary cybersecurity goals for companies operating critical infrastructure, as officials consider mandatory rules (Dustin Volz/Wall Street Journal)](http://www.techmeme.com/210728/p28#a210728p28)
- - [TSMC receives final approval for a 2nm chip plant in Taiwan; sources say construction will begin in 2022 and equipment will be installed in 2023 (Nikkei Asia)](http://www.techmeme.com/210728/p27#a210728p27)<!-- TECH:END -->
+ - [CISA and FBI, UK's NCSC, and Australia's ACSC issue a joint advisory detailing the most exploited vulnerabilities in 2020 and 2021 (Catalin Cimpanu/The Record)](http://www.techmeme.com/210728/p31#a210728p31)
+ - [China’s regulatory crackdown is good news for startups aligned with CCP goals](http://feedproxy.google.com/~r/Techcrunch/~3/7mtY08x83k0/)
+ - [Relief looks to negotiate on behalf of users struggling with debt](http://feedproxy.google.com/~r/Techcrunch/~3/nqv9wzf-lD8/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
