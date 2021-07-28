@@ -167,9 +167,9 @@ Windows                  46 mins             ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Destruction AllStars July update arrives today](http://feedproxy.google.com/~r/PSBlog/~3/nH5u29D7QHc/)
- - [Destruction AllStars July update arrives today](https://blog.playstation.com/2021/07/28/destruction-allstars-july-update-arrives-today/)
- - [Pokémon GO Really Needs To Stop Fixing Raid Captures](https://kotaku.com/pokemon-go-really-needs-to-stop-fixing-raid-captures-1847377800)<!-- GAME:END -->
+ - [Dimension 20 goes back to school with a new season this August](https://www.polygon.com/22598150/dungeons-dragons-dimension-20-new-season-actual-play-the-seven-dropout-tv-release-dates)
+ - [Summer Spotlight 2021: Over 75 New Games Coming to Xbox](https://news.xbox.com/en-us/2021/07/28/summer-spotlight-2021-over-75-new-games-coming-to-xbox/)
+ - [In praise of Aragorn, the most well-rounded sex symbol on Middle (or any) earth](https://www.polygon.com/lord-of-the-rings/22596790/lotr-aragorn-hot-sexy-viggo-mortensen)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
