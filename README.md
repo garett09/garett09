@@ -174,9 +174,9 @@ Windows                  46 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Droom, an online marketplace for used cars and motorbikes in India, raises $200M in a pre-IPO growth round, at a $1.2B valuation, up from $500M in 2018 (Manish Singh/TechCrunch)](http://www.techmeme.com/210728/p3#a210728p3)
- - [OnePlus Nord 2 now available in the UK. Here’s where to buy it.](https://www.androidauthority.com/oneplus-nord-2-uk-1659154)
- - [Indian automobile marketplace Droom valued at $1.2 billion in $200 million pre-IPO funding](http://feedproxy.google.com/~r/Techcrunch/~3/gq7XuhpwRjw/)<!-- TECH:END -->
+ - [Patchwork Health raises £3.5M to fix the staff scheduling disaster inside stressed hospitals](http://feedproxy.google.com/~r/Techcrunch/~3/z7-PXED9zGA/)
+ - [Joshua Kushner’s Thrive Capital leads $20M investment in Brazilian healthcare startup Pipo Saude](http://feedproxy.google.com/~r/Techcrunch/~3/feiLL6juw4w/)
+ - [Watch: Samsung highlights BlackBerry, Motorola in Galaxy Z Fold 3 teaser](https://www.androidauthority.com/samsung-galaxy-z-fold-3-teaser-1659245)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
