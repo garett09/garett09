@@ -174,9 +174,9 @@ Windows                  46 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Coinbase report: in H1 2021, the market for ether was 3x busier than bitcoin, as ETH trading grew 1,461% to $1.4T, compared to BTC's 489% rise to $2.1T (Omkar Godbole/CoinDesk)](http://www.techmeme.com/210728/p43#a210728p43)
- - [Activision Blizzard employees say CEO’s letter ‘fails to address’ key concerns](https://www.theverge.com/2021/7/28/22598128/activision-blizzard-employees-ceo-letter-response-key-concerns)
- - [Financial firms should leverage machine learning to make anomaly detection easier](http://feedproxy.google.com/~r/Techcrunch/~3/7dFyGHKcrW4/)<!-- TECH:END -->
+ - [Google says anyone coming to work at its campuses must be vaccinated, starting in the US, and will delay the return to offices from September until mid-October (Tripp Mickle/Wall Street Journal)](http://www.techmeme.com/210728/p46#a210728p46)
+ - [Pfizer COVID-19 vaccine’s protection against severe disease holds steady over six months](https://www.theverge.com/2021/7/28/22598151/pfizer-covid-vaccine-efficacy-drop-booster)
+ - [Here’s how Android apps on Google Play will share their security policies](https://www.androidauthority.com/google-play-android-security-policy-details-1660074)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
