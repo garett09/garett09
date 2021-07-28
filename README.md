@@ -174,9 +174,9 @@ Windows                  46 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [In letters to companies, CA AG says data sharing via analytics trackers, like cookies, for ad and analytics purposes fits CCPA's definition of a data "sale" (Kate Kaye/Digiday)](http://www.techmeme.com/210727/p59#a210727p59)
- - [LinkedIn posted Q4 revenue of ~$3B, passing the $10B mark in annual revenue for the first time since Microsoft acquisition; Q4 ad revenue was up 97% to $1B+ (Todd Bishop/GeekWire)](http://www.techmeme.com/210727/p58#a210727p58)
- - [Read Activision Blizzard CEO Bobby Kotick’s letter addressing the harassment allegations](https://www.theverge.com/2021/7/27/22597166/activision-blizzard-ceo-bobby-kotick-letter-sexual-harrassment-allegations)<!-- TECH:END -->
+ - [Kili Technology, which helps companies transform raw data into high-quality annotated data for AI training, raises $25M Series A led by Balderton Capital (Dan Taylor/Tech.eu)](http://www.techmeme.com/210727/p60#a210727p60)
+ - [Everything new in iOS 15 beta 4: Safari redesign changes, MagSafe battery support, more](https://appleinsider.com/articles/21/07/28/everything-new-in-ios-15-beta-4-safari-redesign-changes-magsafe-battery-support-more?utm_medium=rss)
+ - [In letters to companies, CA AG says data sharing via analytics trackers, like cookies, for ad and analytics purposes fits CCPA's definition of a data "sale" (Kate Kaye/Digiday)](http://www.techmeme.com/210727/p59#a210727p59)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
