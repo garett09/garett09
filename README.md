@@ -174,9 +174,9 @@ Windows                  46 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google says anyone coming to work at its campuses must be vaccinated, starting in the US, and will delay the return to offices from September until mid-October (Tripp Mickle/Wall Street Journal)](http://www.techmeme.com/210728/p46#a210728p46)
- - [Pfizer COVID-19 vaccine’s protection against severe disease holds steady over six months](https://www.theverge.com/2021/7/28/22598151/pfizer-covid-vaccine-efficacy-drop-booster)
- - [Here’s how Android apps on Google Play will share their security policies](https://www.androidauthority.com/google-play-android-security-policy-details-1660074)<!-- TECH:END -->
+ - [United Airlines will let passengers preorder food and snacks online before flights](https://www.theverge.com/2021/7/28/22596430/united-airlines-preorder-food-drink-website-app)
+ - [Walmart to sell its e-commerce technologies to other retailers](http://feedproxy.google.com/~r/Techcrunch/~3/xdmMNnsUZVk/)
+ - [Why I make everyone in my company be the CEO for a day](http://feedproxy.google.com/~r/Techcrunch/~3/DeIIgBrvUaE/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
