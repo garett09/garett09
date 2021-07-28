@@ -181,9 +181,9 @@ Windows                  46 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Never bully the quiet kid](http://9gag.com/gag/aXomKjP)
- - 🚯 [Also a real DJ](http://9gag.com/gag/aMK0qA1)
- - 🚯 [No Elevator Of Course](http://9gag.com/gag/aQoDyNr)<!-- MEMES:END -->
+ - 🚖 [The dark side of the olympic games. Unnecessarily buildings from tax payers money, evicted citizens etc.](http://9gag.com/gag/azMvYwp)
+ - 🚯 [Fook wasp](http://9gag.com/gag/awM9v4W)
+ - 🚯 [Its my 22. birthday and wednesday my dudes](http://9gag.com/gag/a07DMxO)<!-- MEMES:END -->
 
 --- 
 
