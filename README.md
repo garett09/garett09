@@ -174,9 +174,9 @@ Windows                  46 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [United Airlines will let passengers preorder food and snacks online before flights](https://www.theverge.com/2021/7/28/22596430/united-airlines-preorder-food-drink-website-app)
- - [Walmart to sell its e-commerce technologies to other retailers](http://feedproxy.google.com/~r/Techcrunch/~3/xdmMNnsUZVk/)
- - [Why I make everyone in my company be the CEO for a day](http://feedproxy.google.com/~r/Techcrunch/~3/DeIIgBrvUaE/)<!-- TECH:END -->
+ - [This might be the name of Qualcomm’s 2022 flagship phone chip](https://www.androidauthority.com/qualcomm-snapdragon-898-chip-name-leak-1660228)
+ - [Score a free month of Extra Crunch with your TC Sessions: SaaS 2021 pass](http://feedproxy.google.com/~r/Techcrunch/~3/0uHMdpM3u-U/)
+ - [Drivers for Elon Musk’s Loop get a script about their ‘great leader’](http://feedproxy.google.com/~r/Techcrunch/~3/hRrhQYrg3Oo/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
