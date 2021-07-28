@@ -181,9 +181,9 @@ Windows                  46 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What a f*cking legend - Rest in Peace Joey Jordison.. This video absolutely bloew my mind when i started playing drums myself as a teenager. This guy has been my very first idol for many years](http://9gag.com/gag/aXomKpg)
- - 🚯 [A win for a small country &gt; a win for a big country](http://9gag.com/gag/aLpOXWx)
- - 🚯 [Thank you for the ear comfort in my/our early years. RIP Joey Jordison](http://9gag.com/gag/a3EzW0Q)<!-- MEMES:END -->
+ - 🚖 [Its my 22. birthday and wednesday my dudes](http://9gag.com/gag/a07DMxO)
+ - 🚯 [I&rsquo;m feeling broken](http://9gag.com/gag/aV792mn)
+ - 🚯 [The dark side of the olympic games. Unnecessarily buildings from tax payers money, evicted citizens etc.](http://9gag.com/gag/azMvYwp)<!-- MEMES:END -->
 
 --- 
 
