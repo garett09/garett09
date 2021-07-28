@@ -181,9 +181,9 @@ Windows                  46 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Its my 22. birthday and wednesday my dudes](http://9gag.com/gag/a07DMxO)
- - 🚯 [I&rsquo;m feeling broken](http://9gag.com/gag/aV792mn)
- - 🚯 [The dark side of the olympic games. Unnecessarily buildings from tax payers money, evicted citizens etc.](http://9gag.com/gag/azMvYwp)<!-- MEMES:END -->
+ - 🚖 [Little girl with her new toy.](http://9gag.com/gag/amPOpMv)
+ - 🚯 [What a f*cking legend - Rest in Peace Joey Jordison.. This video absolutely bloew my mind when i started playing drums myself as a teenager. This guy has been my very first idol for many years](http://9gag.com/gag/aXomKpg)
+ - 🚯 [Save this for later](http://9gag.com/gag/av5Bd9M)<!-- MEMES:END -->
 
 --- 
 
