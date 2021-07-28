@@ -181,9 +181,9 @@ Windows                  46 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Definitely a keeper](http://9gag.com/gag/aYov1nO)
- - 🚯 [What a f*cking legend - Rest in Peace Joey Jordison.. This video absolutely bloew my mind when i started playing drums myself as a teenager. This guy has been my very first idol for many years](http://9gag.com/gag/aXomKpg)
- - 🚯 [Jeff Bezos laughing as he gets richer](http://9gag.com/gag/azMv4Pj)<!-- MEMES:END -->
+ - 🚖 [Regarding the 87kg woman&rsquo;s weightlifting category](http://9gag.com/gag/aWjeRZx)
+ - 🚯 [Also a real DJ](http://9gag.com/gag/aMK0qA1)
+ - 🚯 [O Fortuna](http://9gag.com/gag/amPOp04)<!-- MEMES:END -->
 
 --- 
 
