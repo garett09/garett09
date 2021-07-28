@@ -167,9 +167,9 @@ Windows                  46 mins             ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [10 Tips and Tricks to Help You Hit the Ground Fighting in Samurai Warriors 5](https://news.xbox.com/en-us/2021/07/28/10-tips-and-tricks-to-help-you-hit-the-ground-fighting-in-samurai-warriors-5/)
- - [Blizzard says it fired ex-World of Warcraft lead named in harassment lawsuit for ‘misconduct’](https://www.polygon.com/22598602/blizzard-harassment-lawsuit-alex-afrasiabi-world-of-warcraft-cosby-suite)
- - [James Bond’s Aston Martin comes to Rocket League](https://www.polygon.com/22598624/rocket-league-james-bond-car-item-store-price-release-date)<!-- GAME:END -->
+ - [Halo Infinite lets you drop weapons for the first time in series history](https://www.pcgamer.com/halo-infinite-lets-you-drop-weapons-for-the-first-time-in-series-history)
+ - [The best VPN for gaming in 2021](https://www.pcgamer.com/best-vpn-for-pc-gaming)
+ - [xQc promises to be more careful after he gets suspended from Twitch yet again](https://www.pcgamer.com/xqc-promises-to-be-more-careful-after-he-gets-suspended-from-twitch-yet-again)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
