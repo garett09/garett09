@@ -167,9 +167,9 @@ Windows                  46 mins             ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Time-looping murder mystery The Forgotten City is out today](https://www.pcgamer.com/time-looping-murder-mystery-the-forgotten-city-is-out-today)
- - [Japanese Fans Accidently Thought That Olympians Were 'Pikachu' And 'Raichu'](https://kotaku.com/japanese-fans-accidently-thought-that-olympians-were-pi-1847376115)
- - [Dr. Mario World Is Being Pronounced Dead In November](https://kotaku.com/dr-mario-world-is-being-pronounced-dead-in-november-1847375406)<!-- GAME:END -->
+ - [Faster gaming monitors are coming, including 4K at 240Hz and 1080p at 480Hz](https://www.pcgamer.com/gaming-monitor-4k-240hz-1080p-480hz)
+ - [Guild Wars 2's End of Dragons expansion introduces a siege turtle and fishing](https://www.pcgamer.com/guild-wars-2s-end-of-dragons-expansion-introduces-a-siege-turtle-and-fishing)
+ - [AMD's Zen 4 and RDNA 3 on track for a 2022 launch](https://www.pcgamer.com/amd-zen-4-rdna-3-on-track)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
