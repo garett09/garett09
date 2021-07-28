@@ -181,9 +181,9 @@ Windows                  46 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Regarding the 87kg woman&rsquo;s weightlifting category](http://9gag.com/gag/aWjeRZx)
+ - 🚖 [Well, that&#039;s an idea!](http://9gag.com/gag/aoMG8r3)
  - 🚯 [Also a real DJ](http://9gag.com/gag/aMK0qA1)
- - 🚯 [O Fortuna](http://9gag.com/gag/amPOp04)<!-- MEMES:END -->
+ - 🚯 [Never bully the quiet kid](http://9gag.com/gag/aXomKjP)<!-- MEMES:END -->
 
 --- 
 
