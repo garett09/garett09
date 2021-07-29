@@ -181,8 +181,8 @@ Windows                  42 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [My dream flat... nothing big](http://9gag.com/gag/aQoDrgr)
- - 🚯 [He did the flood](http://9gag.com/gag/aB2bjMz)
+ - 🚖 [Brazil - Canela City - July 28](http://9gag.com/gag/a9E4NrD)
+ - 🚯 [Dad jokes compilation (and some not that joke)](http://9gag.com/gag/a7Em6Aw)
  - 🚯 [I need what they are having](http://9gag.com/gag/a4EBrMy)<!-- MEMES:END -->
 
 --- 
