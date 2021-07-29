@@ -174,9 +174,9 @@ Windows                  42 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Robot arranges 100,000 dominoes into a Super Mario Bros. mural in one day](https://www.theverge.com/2021/7/29/22599111/mark-rober-domino-robot-super-mario-bros-mural-single-day)
- - [HBO Max: 10 of the best movies to see this week     - CNET](https://www.cnet.com/news/hbo-max-10-of-the-best-movies-to-see-this-week/#ftag=CAD590a51e)
- - [Cairo and Dubai-based Swvl, a bus-hailing and ridesharing provider in emerging markets, plans to go public in the US in a SPAC merger at a valuation of ~$1.5B (Tage Kene-Okafor/TechCrunch)](http://www.techmeme.com/210728/p70#a210728p70)<!-- TECH:END -->
+ - [New bipartisan infrastructure bill aims to raise ~$30B by imposing new taxes on exchanges trading digital assets including crypto; bill awaits Congress approval (Nikhilesh De/CoinDesk)](http://www.techmeme.com/210729/p1#a210729p1)
+ - [OnePlus 9R gains July security patch and Bitmoji AOD with latest update](https://www.androidauthority.com/oneplus-9-update-1212009)
+ - [Robot arranges 100,000 dominoes into a Super Mario Bros. mural in one day](https://www.theverge.com/2021/7/29/22599111/mark-rober-domino-robot-super-mario-bros-mural-single-day)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
