@@ -181,9 +181,9 @@ Windows                  42 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Can we all just take a moment and let the fact sink in that the great Dusty Hills of the great ZZ Top has passed away.. What a great band and Rest In Peace Dusty Hills](http://9gag.com/gag/a7EmGEr)
- - 🚯 [10 cities from the south region of Brazil had a f**king SNOWSTORM today! It is such a rare phenomenon to happen over here that people are emotionally gathering on the streets to celebrate like an 90&#039;s Christmas movie! A local TV is broadcasting it live and we are amazed by it!](http://9gag.com/gag/aYovnNw)
- - 🚯 [This is amazing! The kid has got razor sharp reflexes and some unbelievable vocabulary skills.](http://9gag.com/gag/amPOdDV)<!-- MEMES:END -->
+ - 🚖 [This is amazing! The kid has got razor sharp reflexes and some unbelievable vocabulary skills.](http://9gag.com/gag/amPOdDV)
+ - 🚯 [My dream flat... nothing big](http://9gag.com/gag/aQoDrgr)
+ - 🚯 [I need what they are having](http://9gag.com/gag/a4EBrMy)<!-- MEMES:END -->
 
 --- 
 
