@@ -174,9 +174,9 @@ Windows                  42 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tenderly raises $15.3M to help Ethereum developers ship decentralized apps faster](http://feedproxy.google.com/~r/Techcrunch/~3/uIeigiJ1kFY/)
- - [Motorola Edge 20 software support policy has been amended (Update from Motorola)](https://www.androidauthority.com/motorola-edge-20-updates-1658433)
- - [Merqueo, which operates an online supermarket in more than 25 cities in Colombia, Mexico, and Brazil, raises $50M Series C, bringing its total raised to $85M (Mary Ann Azevedo/TechCrunch)](http://www.techmeme.com/210729/p31#a210729p31)<!-- TECH:END -->
+ - [Windows 11 now has its first beta release](https://www.theverge.com/2021/7/29/22600261/windows-11-beta-release-insider-microsoft-download-test)
+ - [A look at Turkey's aggressive regulatory stance towards Google, like banning shopping search ads, which some attribute to Erdogan's authoritarian leadership (New York Times)](http://www.techmeme.com/210729/p32#a210729p32)
+ - [Microsoft in talks to back India’s Oyo](http://feedproxy.google.com/~r/Techcrunch/~3/DDawdRFXP34/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
