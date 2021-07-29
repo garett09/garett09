@@ -167,9 +167,9 @@ Windows                  42 mins             ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Marvel’s Avengers’ Black Panther expansion launches Aug. 17](https://www.polygon.com/e3/22532214/marvels-avengers-black-panther-war-for-wakanda-release-date-trailer-e3-2021)
- - [Forza Motorsport 7 reaches ‘end of life,’ won’t be sold after Sept. 15](https://www.polygon.com/22600297/forza-motorsport-7-end-of-life-details-september-2021)
- - [Fortnite chops down fan-favorite NPC Bushranger](https://www.polygon.com/22600335/fortnite-bushranger-killed-rip-dead-npc-alien-baby)<!-- GAME:END -->
+ - [Black Panther Leaps Into Marvel’s Avengers Next Month](https://kotaku.com/black-panther-leaps-into-marvel-s-avengers-next-month-1847388277)
+ - [A Memoir Blue tells a moving story completely without words](http://feedproxy.google.com/~r/PSBlog/~3/ntTGXEmcoto/)
+ - [A Memoir Blue tells a moving story completely without words](https://blog.playstation.com/2021/07/29/a-memoir-blue-tells-a-moving-story-completely-without-words/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
