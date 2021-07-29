@@ -181,9 +181,9 @@ Windows                  42 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [True Happiness](http://9gag.com/gag/aB2bje2)
- - 🚯 [This guy makes me laugh too much! both the hair and how crazy it is](http://9gag.com/gag/aoMGq6w)
- - 🚯 [What happened that weekend?](http://9gag.com/gag/aoMGAE2)<!-- MEMES:END -->
+ - 🚖 [Lol truth](http://9gag.com/gag/aLpOOwP)
+ - 🚯 [Wrong place for shoplifting](http://9gag.com/gag/aAbLLrZ)
+ - 🚯 [Is pepsi](http://9gag.com/gag/aLpOOKV)<!-- MEMES:END -->
 
 --- 
 
