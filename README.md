@@ -181,9 +181,9 @@ Windows                  42 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Wear parachutes..](http://9gag.com/gag/aLpON65)
- - 🚯 [Ground pew pew Vs Air pew pew](http://9gag.com/gag/a6Ee3N8)
- - 🚯 [With all the joey jordison posts](http://9gag.com/gag/aNpGqGb)<!-- MEMES:END -->
+ - 🚖 [Dad jokes compilation (and some not that joke)](http://9gag.com/gag/a7Em6Aw)
+ - 🚯 [Trying to get in between cars in a tight space](http://9gag.com/gag/a9E4NLL)
+ - 🚯 [This guy makes me laugh too much! both the hair and how crazy it is](http://9gag.com/gag/aoMGq6w)<!-- MEMES:END -->
 
 --- 
 
