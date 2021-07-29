@@ -174,9 +174,9 @@ Windows                  42 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Belgium-based Odoo, which offers a huge variety of open-source enterprise apps, raises $215M at a $2.3B valuation from Summit Partners (Ingrid Lunden/TechCrunch)](http://www.techmeme.com/210729/p16#a210729p16)
- - [Profile of Bessemer Venture Partners, an early investor in Twilio and Shopify, as its competition with Andreessen Horowitz, Tiger Global, and SoftBank ramps up (Eric Newcomer/Newcomer)](http://www.techmeme.com/210729/p15#a210729p15)
- - [Summit invests $215M into Odoo, an open source business management software developer, at a $2.3B+ valuation](http://feedproxy.google.com/~r/Techcrunch/~3/vFf9OcneLqw/)<!-- TECH:END -->
+ - [Deals: Save $120 to $150 on Apple's M1 MacBook Pro with 16GB RAM](https://appleinsider.com/articles/21/07/29/deals-save-120-to-150-on-apples-m1-macbook-pro-with-16gb-ram?utm_medium=rss)
+ - [Nothing Ear (1) wireless earbuds review: comfortable, unique transparent design and lots of features, but buggy performance and so-so noise cancellation (Chris Welch/The Verge)](http://www.techmeme.com/210729/p21#a210729p21)
+ - [Comcast says NBCUniversal's Peacock has 54M total signups since its April 2020 launch, with 20M MAUs in Q2, as it plans a European expansion via Sky (Cynthia Littleton/Variety)](http://www.techmeme.com/210729/p20#a210729p20)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
