@@ -181,9 +181,9 @@ Windows                  42 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [An endless stream of single use plastic washing up on Guatemala&rsquo;s coast right now.](http://9gag.com/gag/ad8WAzZ)
- - 🚯 [Here&#039;s the one with sound.](http://9gag.com/gag/apNn7D8)
- - 🚯 [Me, watching public opinion destroying the new (S)He-man&#039;s movie!](http://9gag.com/gag/aAbL5KZ)<!-- MEMES:END -->
+ - 🚖 [This belongs here](http://9gag.com/gag/awM9pNW)
+ - 🚯 [Snowing in Australia and its not every day that you get to see Kangaroos hopping in the snow](http://9gag.com/gag/av5BwKX)
+ - 🚯 [2002 - 2021](http://9gag.com/gag/aO3n5PD)<!-- MEMES:END -->
 
 --- 
 
