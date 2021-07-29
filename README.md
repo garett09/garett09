@@ -174,9 +174,9 @@ Windows                  42 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - ['Hamilton' star Phillipa Soo joins cast of Apple TV+ thriller 'Shining Girls'](https://appleinsider.com/articles/21/07/29/hamilton-star-phillipa-soo-joins-cast-of-apple-tv-thriller-shining-girls?utm_medium=rss)
- - [4 key areas SaaS startups must address to scale infrastructure for the enterprise](http://feedproxy.google.com/~r/Techcrunch/~3/nPonDKuLA9Q/)
- - [Apple job listing hints at work on Class II medical device](https://appleinsider.com/articles/21/07/29/apple-job-listing-hints-at-work-on-class-ii-medical-device?utm_medium=rss)<!-- TECH:END -->
+ - [Daily Crunch: Scarlett Johansson sues Disney, says streaming release of ‘Black Widow’ breaches contract](http://feedproxy.google.com/~r/Techcrunch/~3/VZWmF9V3fZo/)
+ - [Twitter announces updates to Spaces which will let users tweet directly from the Space; iOS users will be able to search for live and upcoming Spaces (Karissa Bell/Engadget)](http://www.techmeme.com/210729/p37#a210729p37)
+ - [Another banner quarter as Chromebook shipments grow 75% YOY](http://feedproxy.google.com/~r/Techcrunch/~3/SEaLZS17G5s/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
