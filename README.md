@@ -174,9 +174,9 @@ Windows                  42 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Rare Steve Jobs application sells for $343,000, NFT version pulls in $23,000](https://appleinsider.com/articles/21/07/29/rare-steve-jobs-application-sells-for-343000-nft-version-pulls-in-23000?utm_medium=rss)
- - [Japan-based sneaker reselling platform SODA raises $56.4M Series C led by SoftBank Ventures Asia; also acquires its rival Monokabu to gain 80% of marketshare (Catherine Shu/TechCrunch)](http://www.techmeme.com/210728/p65#a210728p65)
- - [Suzy, a SaaS provider for companies to conduct on-demand DTC market research, raises $50M Series D led by H.I.G. Capital, bringing its total raised to $104.1M (AlleyWatch)](http://www.techmeme.com/210728/p64#a210728p64)<!-- TECH:END -->
+ - [Filing: Ixigo, an Indian online travel app with 250M+ users, raises $53M led by Singapore's GIC; source: Ixigo is targeting a $750M+ valuation for its IPO in Q4 (The Economic Times)](http://www.techmeme.com/210728/p69#a210728p69)
+ - [OpenAI introduces Triton 1.0, an open-source programming language for writing GPU code for neural networks, and claims it is easier to write than Nvidia's CUDA (Tiernan Ray/ZDNet)](http://www.techmeme.com/210728/p68#a210728p68)
+ - [Israel investigates Pegasus developer NSO over spyware abuse allegations](https://appleinsider.com/articles/21/07/28/israel-investigates-pegasus-developer-nso-over-spyware-abuse-allegations?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
