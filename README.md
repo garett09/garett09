@@ -181,9 +181,9 @@ Windows                  42 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Where can I get one?](http://9gag.com/gag/aZ04469)
- - 🚯 [Lost my big brother yesterday to covid.38 years old,strong as an ox..Gone. As kids we argued at times but mostly we loved each other no matter what...he was my big brother. Tell your family you love them. Forgive everyone... Last thing he said to me was he needs a sensu bean.](http://9gag.com/gag/a27A9n1)
- - 🚯 [What to do?](http://9gag.com/gag/aQoDKNd)<!-- MEMES:END -->
+ - 🚖 [Why the f**k is snowing in Brazil?](http://9gag.com/gag/aMK069V)
+ - 🚯 [Guy got mad for not getting paid. Poor Guy. #ger](http://9gag.com/gag/aMK0DgM)
+ - 🚯 [Why women live longer](http://9gag.com/gag/aeAqqyj)<!-- MEMES:END -->
 
 --- 
 
