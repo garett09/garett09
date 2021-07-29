@@ -174,9 +174,9 @@ Windows                  42 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Cost of Preventing Deaths by Climate-Driven Heat](https://www.wired.com/story/how-much-will-it-cost-to-prevent-deaths-by-climate-driven-heat)
- - [Founder of India Covid Crypto Relief Fund says Buterin's gift of 50T Shiba Inu memecoin should eventually amount to $400M, and ~$20M has been paid out so far (Bloomberg)](http://www.techmeme.com/210729/p3#a210729p3)
- - [Coralogix logs $55M for its new take on production analytics, now valued at $300-$400M](http://feedproxy.google.com/~r/Techcrunch/~3/cPA3BUtDnYk/)<!-- TECH:END -->
+ - [Latest Galaxy Z Flip 3 spill showcases Samsung’s funky case designs](https://www.androidauthority.com/samsung-galaxy-z-flip-3-cases-leak-1660872)
+ - [Interview with Mona Shtaya of 7amleh, a social media advocacy and digital rights group in the Middle East, on how social networks censored Palestinians in May (Bani Sapra/WIRED Middle East)](http://www.techmeme.com/210729/p5#a210729p5)
+ - [Homebase raises $70M for a team management platform aimed at SMBs and their hourly workers](http://feedproxy.google.com/~r/Techcrunch/~3/47Y_Rc0GmhQ/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
