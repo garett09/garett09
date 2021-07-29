@@ -174,9 +174,9 @@ Windows                  42 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Robinhood sets IPO price at $38 per share, at the low end of its targeted range, which would give it a valuation of about $32B (Wall Street Journal)](http://www.techmeme.com/210728/p62#a210728p62)
- - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
- - [Twitter shuttering NY, SF offices in response to new CDC guidelines](http://feedproxy.google.com/~r/Techcrunch/~3/AnSANs77Ayw/)<!-- TECH:END -->
+ - [Rare Steve Jobs application sells for $343,000, NFT version pulls in $23,000](https://appleinsider.com/articles/21/07/29/rare-steve-jobs-application-sells-for-343000-nft-version-pulls-in-23000?utm_medium=rss)
+ - [Japan-based sneaker reselling platform SODA raises $56.4M Series C led by SoftBank Ventures Asia; also acquires its rival Monokabu to gain 80% of marketshare (Catherine Shu/TechCrunch)](http://www.techmeme.com/210728/p65#a210728p65)
+ - [Suzy, a SaaS provider for companies to conduct on-demand DTC market research, raises $50M Series D led by H.I.G. Capital, bringing its total raised to $104.1M (AlleyWatch)](http://www.techmeme.com/210728/p64#a210728p64)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
