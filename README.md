@@ -167,9 +167,9 @@ Windows                  42 mins             ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [I’m Obsessed With These Low-Rent CSGO No-Scope ‘Hacks’](https://kotaku.com/i-m-obsessed-with-these-low-rent-csgo-no-scope-hacks-1847382867)
  - [Fatal Frame: Maiden of Black Water PC port gets a release date](https://www.pcgamer.com/fatal-frame-maiden-of-black-water-pc-port-gets-a-release-date)
- - [Rare Street Fighter II Anime Finally Translated Into English](https://kotaku.com/rare-street-fighter-ii-anime-finally-translated-into-en-1847382393)
- - [Fortnite crosses over with Suicide Squad, featuring Bloodsport](https://www.pcgamer.com/suicide-squad-fortnite)<!-- GAME:END -->
+ - [Rare Street Fighter II Anime Finally Translated Into English](https://kotaku.com/rare-street-fighter-ii-anime-finally-translated-into-en-1847382393)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
