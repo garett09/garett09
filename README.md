@@ -181,9 +181,9 @@ Windows                  42 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It wasn&rsquo;t all...](http://9gag.com/gag/a5E9D4G)
- - 🚯 [Time to git gud.](http://9gag.com/gag/aEpjQ2e)
- - 🚯 [Fook wasp](http://9gag.com/gag/awM9v4W)<!-- MEMES:END -->
+ - 🚖 [Wear parachutes..](http://9gag.com/gag/aLpON65)
+ - 🚯 [Sucking Dicks not allowed](http://9gag.com/gag/aoMGD9X)
+ - 🚯 [With all the joey jordison posts](http://9gag.com/gag/aNpGqGb)<!-- MEMES:END -->
 
 --- 
 
