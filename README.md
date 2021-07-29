@@ -181,9 +181,9 @@ Windows                  42 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Why the f**k is snowing in Brazil?](http://9gag.com/gag/aMK069V)
- - 🚯 [Do you want one](http://9gag.com/gag/a8Ev9L3)
- - 🚯 [Let&rsquo;s bash these guys once again](http://9gag.com/gag/axMe8Ab)<!-- MEMES:END -->
+ - 🚖 [Let&rsquo;s bash these guys once again](http://9gag.com/gag/axMe8Ab)
+ - 🚯 [Here&#039;s the one with sound.](http://9gag.com/gag/apNn7D8)
+ - 🚯 [For real](http://9gag.com/gag/aV79rAw)<!-- MEMES:END -->
 
 --- 
 
