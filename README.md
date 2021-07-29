@@ -181,9 +181,9 @@ Windows                  42 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Let&rsquo;s bash these guys once again](http://9gag.com/gag/axMe8Ab)
+ - 🚖 [An endless stream of single use plastic washing up on Guatemala&rsquo;s coast right now.](http://9gag.com/gag/ad8WAzZ)
  - 🚯 [Here&#039;s the one with sound.](http://9gag.com/gag/apNn7D8)
- - 🚯 [For real](http://9gag.com/gag/aV79rAw)<!-- MEMES:END -->
+ - 🚯 [Make way for the VIP!](http://9gag.com/gag/anQ03Wq)<!-- MEMES:END -->
 
 --- 
 
