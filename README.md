@@ -174,9 +174,9 @@ Windows                  42 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mark Zuckerberg says video now accounts for almost half the time spent on Facebook, and that Reels is the "largest contributor to engagement growth" (Karissa Bell/Engadget)](http://www.techmeme.com/210728/p61#a210728p61)
- - [Apple's iOS, Android split share of new smartphone activations in last year](https://appleinsider.com/articles/21/07/28/apples-ios-android-split-share-of-new-smartphone-activations-in-last-year?utm_medium=rss)
- - [Activision Blizzard Employees Walk Out Over Sexism Complaints](https://www.wired.com/story/activision-blizzard-employees-walk-out-after-allegations-of-rampant-sexism)<!-- TECH:END -->
+ - [Robinhood sets IPO price at $38 per share, at the low end of its targeted range, which would give it a valuation of about $32B (Wall Street Journal)](http://www.techmeme.com/210728/p62#a210728p62)
+ - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
+ - [Twitter shuttering NY, SF offices in response to new CDC guidelines](http://feedproxy.google.com/~r/Techcrunch/~3/AnSANs77Ayw/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
