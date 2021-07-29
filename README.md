@@ -167,9 +167,9 @@ Windows                  42 mins             ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Crimson Desert is being delayed to an unspecified date](https://www.pcgamer.com/crimson-desert-is-being-delayed-to-an-unspecified-date)
- - [Descent: Legends of the Dark is the biggest, most ambitious board game of the year](https://www.polygon.com/tabletop-games/22596743/descent-legends-of-the-dark-fantasy-flight-games-interview-preview-video)
- - [Superhot VR gets review-bombed following the removal of suicide scenes](https://www.pcgamer.com/superhot-vr-gets-review-bombed-following-the-removal-of-self-harm-scenes)<!-- GAME:END -->
+ - [One of Steam Deck's 'terrifying prototypes' was called the 'Ugly Baby'](https://www.pcgamer.com/valve-steam-deck-ugly-baby-prototype)
+ - [The best Swiss K31 loadouts for Warzone](https://www.pcgamer.com/best-swiss-k31-warzone-loadout-class-setup)
+ - [Even faster SSDs based on PCIe 5.0 are expected to arrive next year](https://www.pcgamer.com/even-faster-ssds-based-on-pcie-50-are-expected-to-arrive-next-year)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
