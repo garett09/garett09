@@ -174,9 +174,9 @@ Windows                  42 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [We asked, you told us: Our readers’ love for Nokia is a complicated affair](https://www.androidauthority.com/nokia-phone-poll-results-1660754)
- - [Rocket Lab returns to flight after failed May mission with successful launch for U.S. Space Force](http://feedproxy.google.com/~r/Techcrunch/~3/BL8AAeZdv_Y/)
- - [Daily Authority: PlayStation 5 📈](https://www.androidauthority.com/newsletters/da-july-29-2021)<!-- TECH:END -->
+ - [Belgium-based Odoo, which offers a huge variety of open-source enterprise apps, raises $215M at a $2.3B valuation from Summit Partners (Ingrid Lunden/TechCrunch)](http://www.techmeme.com/210729/p16#a210729p16)
+ - [Profile of Bessemer Venture Partners, an early investor in Twilio and Shopify, as its competition with Andreessen Horowitz, Tiger Global, and SoftBank ramps up (Eric Newcomer/Newcomer)](http://www.techmeme.com/210729/p15#a210729p15)
+ - [Summit invests $215M into Odoo, an open source business management software developer, at a $2.3B+ valuation](http://feedproxy.google.com/~r/Techcrunch/~3/vFf9OcneLqw/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
