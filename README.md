@@ -182,8 +182,8 @@ Windows                  42 mins             ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Wear parachutes..](http://9gag.com/gag/aLpON65)
- - 🚯 [Sucking Dicks not allowed](http://9gag.com/gag/aoMGD9X)
- - 🚯 [With all the joey jordison posts](http://9gag.com/gag/aNpGqGb)<!-- MEMES:END -->
+ - 🚯 [Trying to get in between cars in a tight space](http://9gag.com/gag/a9E4NLL)
+ - 🚯 [When will this end](http://9gag.com/gag/azMvBjp)<!-- MEMES:END -->
 
 --- 
 
