@@ -167,9 +167,9 @@ Windows                  42 mins             ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Begin Your Journey with Omno, Available Now on Xbox Game Pass](https://news.xbox.com/en-us/2021/07/29/begin-your-journey-with-omno-available-now-xbox-game-pass/)
- - [Halo Infinite Has 'Drop Weapon' Button, So Don't Kill Me To Get Sniper](https://kotaku.com/halo-infinite-has-drop-weapon-button-so-dont-kill-me-t-1847386144)
- - [The Ascent: 7 tips to get you started](https://www.pcgamer.com/the-ascent-guide-tips)<!-- GAME:END -->
+ - [Jodie Whittaker and showrunner leaving Doctor Who in 2022](https://www.polygon.com/22599953/doctor-who-jodie-whittaker-chris-chibnall-showrunner-leaving-regenerate)
+ - [Survive a Dystopian Future in The Ascent, Available Now with Xbox Game Pass](https://news.xbox.com/en-us/2021/07/29/the-ascent-available-now-with-xbox-game-pass/)
+ - [Watch Annapurna Interactive’s new showcase for a fresh look at cool indie games](https://www.polygon.com/22599885/annapurna-interactive-showcase-livestream-event)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
