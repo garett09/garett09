@@ -167,9 +167,9 @@ Windows                  42 mins             ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Final Fantasy Pixel Remasters are out now and there's already a way to improve their crappy font](https://www.pcgamer.com/the-final-fantasy-pixel-remasters-are-out-now-and-theres-already-a-way-to-improve-their-crappy-font)
- - [Watch a full match of Halo Infinite multiplayer ahead of tomorrow's technical preview](https://www.pcgamer.com/watch-a-full-match-of-halo-infinite-multiplayer-ahead-of-tomorrows-technical-preview)
- - [Kena: Bridge of Spirits delayed by a month](https://www.pcgamer.com/kena-bridge-of-spirits-delayed-by-a-month)<!-- GAME:END -->
+ - [Fatal Frame: Maiden of Black Water PC port gets a release date](https://www.pcgamer.com/fatal-frame-maiden-of-black-water-pc-port-gets-a-release-date)
+ - [Rare Street Fighter II Anime Finally Translated Into English](https://kotaku.com/rare-street-fighter-ii-anime-finally-translated-into-en-1847382393)
+ - [Fortnite crosses over with Suicide Squad, featuring Bloodsport](https://www.pcgamer.com/suicide-squad-fortnite)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
