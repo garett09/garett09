@@ -167,9 +167,9 @@ Windows                  42 mins             ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [One of Steam Deck's 'terrifying prototypes' was called the 'Ugly Baby'](https://www.pcgamer.com/valve-steam-deck-ugly-baby-prototype)
- - [The best Swiss K31 loadouts for Warzone](https://www.pcgamer.com/best-swiss-k31-warzone-loadout-class-setup)
- - [Even faster SSDs based on PCIe 5.0 are expected to arrive next year](https://www.pcgamer.com/even-faster-ssds-based-on-pcie-50-are-expected-to-arrive-next-year)<!-- GAME:END -->
+ - [The Ascent review](https://www.pcgamer.com/the-ascent-review)
+ - [The Ascent's cyberpunk metropolis is way cooler than Night City](https://www.pcgamer.com/the-ascents-cyberpunk-metropolis-is-way-cooler-than-night-city)
+ - [PUBG's planes are now terrifying fiery death traps](https://www.pcgamer.com/pubgs-planes-are-now-terrifying-fiery-death-traps)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
