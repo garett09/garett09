@@ -174,9 +174,9 @@ Windows                  42 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Huawei P50 and P50 Pro buyer’s guide: Everything you need to know](https://www.androidauthority.com/huawei-p50-1179970)
- - [Tim Cook, other CEOs urge Congress to pass citizenship path for Dreamers](https://appleinsider.com/articles/21/07/29/tim-cook-other-ceos-urge-congress-to-pass-citizenship-path-for-dreamers?utm_medium=rss)
- - [Amazon’s Fire TV Cube now supports Zoom calls on your TV](http://feedproxy.google.com/~r/Techcrunch/~3/lehYTzpcptM/)<!-- TECH:END -->
+ - [It’s not just you, streaming the Olympics is a mess](https://www.theverge.com/2021/7/29/22589928/peacock-2020-olympics-streaming)
+ - [Uber will offer free Rosetta Stone language courses to drivers](http://feedproxy.google.com/~r/Techcrunch/~3/mQeO2VKWHs0/)
+ - [Preorders for retro-inspired Playdate gaming console have opened](https://appleinsider.com/articles/21/07/29/preorders-for-retro-inspired-playdate-gaming-console-have-opened?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
