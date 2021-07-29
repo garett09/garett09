@@ -181,8 +181,8 @@ Windows                  42 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This is amazing! The kid has got razor sharp reflexes and some unbelievable vocabulary skills.](http://9gag.com/gag/amPOdDV)
- - 🚯 [My dream flat... nothing big](http://9gag.com/gag/aQoDrgr)
+ - 🚖 [My dream flat... nothing big](http://9gag.com/gag/aQoDrgr)
+ - 🚯 [He did the flood](http://9gag.com/gag/aB2bjMz)
  - 🚯 [I need what they are having](http://9gag.com/gag/a4EBrMy)<!-- MEMES:END -->
 
 --- 
