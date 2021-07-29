@@ -167,9 +167,9 @@ Windows                  42 mins             ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Rocket League gets James Bond's suave Aston Martin DB5](https://www.pcgamer.com/rocket-league-gets-james-bonds-suave-aston-martin-db35)
- - [Deathloop: everything we know about Arkane's time loop assassin sandbox](https://www.pcgamer.com/deathloop-release-date-trailer-story)
- - [I’m Obsessed With These Low-Rent CSGO No-Scope ‘Hacks’](https://kotaku.com/i-m-obsessed-with-these-low-rent-csgo-no-scope-hacks-1847382867)<!-- GAME:END -->
+ - [Descent: Legends of the Dark is the biggest, most ambitious board game of the year](https://www.polygon.com/tabletop-games/22596743/descent-legends-of-the-dark-fantasy-flight-games-interview-preview-video)
+ - [Superhot VR gets review-bombed following the removal of self-harm scenes](https://www.pcgamer.com/superhot-vr-gets-review-bombed-following-the-removal-of-self-harm-scenes)
+ - [Rocket League gets James Bond's suave Aston Martin DB5](https://www.pcgamer.com/rocket-league-gets-james-bonds-suave-aston-martin-db35)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
