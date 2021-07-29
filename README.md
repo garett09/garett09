@@ -174,9 +174,9 @@ Windows                  42 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [It’s not just you, streaming the Olympics is a mess](https://www.theverge.com/2021/7/29/22589928/peacock-2020-olympics-streaming)
- - [Uber will offer free Rosetta Stone language courses to drivers](http://feedproxy.google.com/~r/Techcrunch/~3/mQeO2VKWHs0/)
- - [Preorders for retro-inspired Playdate gaming console have opened](https://appleinsider.com/articles/21/07/29/preorders-for-retro-inspired-playdate-gaming-console-have-opened?utm_medium=rss)<!-- TECH:END -->
+ - [Tenderly raises $15.3M to help Ethereum developers ship decentralized apps faster](http://feedproxy.google.com/~r/Techcrunch/~3/uIeigiJ1kFY/)
+ - [Motorola Edge 20 software support policy has been amended (Update from Motorola)](https://www.androidauthority.com/motorola-edge-20-updates-1658433)
+ - [Merqueo, which operates an online supermarket in more than 25 cities in Colombia, Mexico, and Brazil, raises $50M Series C, bringing its total raised to $85M (Mary Ann Azevedo/TechCrunch)](http://www.techmeme.com/210729/p31#a210729p31)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
