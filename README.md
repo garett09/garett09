@@ -181,9 +181,9 @@ Windows                  42 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Morgan Freeman was a gangsta in his younger days](http://9gag.com/gag/axMe802)
- - 🚯 [About to get divorced form my cheating wife, wish me luck guys. Thanks for entertaining me in the waiting room.](http://9gag.com/gag/aNpGGnw)
- - 🚯 [This is so accurate with my boyfriend!](http://9gag.com/gag/aP3VVOP)<!-- MEMES:END -->
+ - 🚖 [Where can I get one?](http://9gag.com/gag/aZ04469)
+ - 🚯 [Lost my big brother yesterday to covid.38 years old,strong as an ox..Gone. As kids we argued at times but mostly we loved each other no matter what...he was my big brother. Tell your family you love them. Forgive everyone... Last thing he said to me was he needs a sensu bean.](http://9gag.com/gag/a27A9n1)
+ - 🚯 [What to do?](http://9gag.com/gag/aQoDKNd)<!-- MEMES:END -->
 
 --- 
 
