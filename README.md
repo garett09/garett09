@@ -181,9 +181,9 @@ Windows                  42 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This is so accurate with my boyfriend!](http://9gag.com/gag/aP3VVOP)
- - 🚯 [Lol truth](http://9gag.com/gag/aLpOOwP)
- - 🚯 [If he wins it&#039;ll be funny. If he loses, hilarious](http://9gag.com/gag/aQoDD3r)<!-- MEMES:END -->
+ - 🚖 [Morgan Freeman was a gangsta in his younger days](http://9gag.com/gag/axMe802)
+ - 🚯 [About to get divorced form my cheating wife, wish me luck guys. Thanks for entertaining me in the waiting room.](http://9gag.com/gag/aNpGGnw)
+ - 🚯 [This is so accurate with my boyfriend!](http://9gag.com/gag/aP3VVOP)<!-- MEMES:END -->
 
 --- 
 
