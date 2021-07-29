@@ -167,9 +167,9 @@ Windows                  42 mins             ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [ASRock X570S PG Riptide motherboard review](https://www.pcgamer.com/asrock-x570s-riptide-amd-motherboard-review-benchmarks)
- - [Co-op Dungeon Crawling Comes to Xbox Series X|S and Xbox One in Blightbound](https://news.xbox.com/en-us/2021/07/29/blightbound-available-now-for-xbox-series-x-s-and-xbox-one/)
- - [New Pokémon Snap Adds Free Content, Like More Monsters](https://kotaku.com/new-pokemon-snap-adds-free-content-like-more-monsters-1847385256)<!-- GAME:END -->
+ - [Begin Your Journey with Omno, Available Now on Xbox Game Pass](https://news.xbox.com/en-us/2021/07/29/begin-your-journey-with-omno-available-now-xbox-game-pass/)
+ - [Halo Infinite Has 'Drop Weapon' Button, So Don't Kill Me To Get Sniper](https://kotaku.com/halo-infinite-has-drop-weapon-button-so-dont-kill-me-t-1847386144)
+ - [The Ascent: 7 tips to get you started](https://www.pcgamer.com/the-ascent-guide-tips)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
