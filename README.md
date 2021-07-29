@@ -181,8 +181,8 @@ Windows                  42 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Checkout my new audio setup](http://9gag.com/gag/a9E4eGZ)
- - 🚯 [This is so accurate with my boyfriend!](http://9gag.com/gag/aP3VVOP)
+ - 🚖 [Why the f**k is snowing in Brazil?](http://9gag.com/gag/aMK069V)
+ - 🚯 [Do you want one](http://9gag.com/gag/a8Ev9L3)
  - 🚯 [Let&rsquo;s bash these guys once again](http://9gag.com/gag/axMe8Ab)<!-- MEMES:END -->
 
 --- 
