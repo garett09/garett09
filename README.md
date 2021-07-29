@@ -167,9 +167,9 @@ Windows                  42 mins             ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Valve responds to antitrust lawsuit, defends Steam's 30% cut](https://www.pcgamer.com/valve-responds-to-antitrust-lawsuit-defends-steams-30-cut)
- - [12 Hours With 2021's Latest Big Viking Game](https://kotaku.com/12-hours-with-2021s-latest-big-viking-game-1847388392)
- - [7 Games From Annapurna’s Showcase You Should Know About](https://kotaku.com/7-games-from-annapurna-s-showcase-you-should-know-about-1847386575)<!-- GAME:END -->
+ - [Final Fantasy 14 nails the most important part of starting a new MMO](https://www.polygon.com/22600347/final-fantasy-14-beginner-mmo-mounts-cosmetics)
+ - [Give Me The Stray Cat Game Right Now And Nobody Gets Hurt](https://kotaku.com/give-me-the-stray-cat-game-right-now-and-nobody-gets-hu-1847389472)
+ - [Annapurna Interactive reveals too many good new projects](https://www.polygon.com/22600545/annapurna-interactive-new-game-no-code-outerloop-jessica-mak-ivy-road)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
