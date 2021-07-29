@@ -167,9 +167,9 @@ Windows                  42 mins             ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Final Fantasy 14 nails the most important part of starting a new MMO](https://www.polygon.com/22600347/final-fantasy-14-beginner-mmo-mounts-cosmetics)
- - [Give Me The Stray Cat Game Right Now And Nobody Gets Hurt](https://kotaku.com/give-me-the-stray-cat-game-right-now-and-nobody-gets-hu-1847389472)
- - [Annapurna Interactive reveals too many good new projects](https://www.polygon.com/22600545/annapurna-interactive-new-game-no-code-outerloop-jessica-mak-ivy-road)<!-- GAME:END -->
+ - [Forza Motorsport 7 is being removed from sale only four years after release](https://www.pcgamer.com/forza-motorsport-7-is-being-removed-from-sale-only-four-years-after-release)
+ - [Ubisoft CEO says 'important progress' has been made since 2020 harassment scandal](https://www.pcgamer.com/ubisoft-ceo-says-the-company-has-made-many-improvements-since-2020-harassment-scandal)
+ - [The Forgotten City review](https://www.pcgamer.com/the-forgotten-city-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
