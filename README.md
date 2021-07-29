@@ -181,9 +181,9 @@ Windows                  42 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Brazil - Canela City - July 28](http://9gag.com/gag/a9E4NrD)
- - 🚯 [Dad jokes compilation (and some not that joke)](http://9gag.com/gag/a7Em6Aw)
- - 🚯 [I need what they are having](http://9gag.com/gag/a4EBrMy)<!-- MEMES:END -->
+ - 🚖 [True Happiness](http://9gag.com/gag/aB2bje2)
+ - 🚯 [This guy makes me laugh too much! both the hair and how crazy it is](http://9gag.com/gag/aoMGq6w)
+ - 🚯 [What happened that weekend?](http://9gag.com/gag/aoMGAE2)<!-- MEMES:END -->
 
 --- 
 
