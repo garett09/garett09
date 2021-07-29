@@ -174,9 +174,9 @@ Windows                  42 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy Z Fold 3: All the rumors so far (Updated: July 29)](https://www.androidauthority.com/samsung-galaxy-z-fold-3-1179131)
- - [US Marshals Service has given a $6.6M+ contract to crypto startup Anchorage to manage seized crypto assets; BitGo had won a similar $4.5M contract in April (Jeff Benson/Decrypt)](http://www.techmeme.com/210729/p2#a210729p2)
- - [Oxygen OS 11 is now (almost) fixed on the OnePlus 7 and 7T](https://www.androidauthority.com/oneplus-7-oneplus-7t-oxygen-os-11-update-fixed-1660619)<!-- TECH:END -->
+ - [Bang & Olufsen launches its first pair of noise-canceling true wireless earbuds](https://www.theverge.com/2021/7/29/22594086/bang-olufsen-beoplay-eq-true-wireless-earbuds-price-release-date-features)
+ - [Wild leak suggests Xiaomi could be be planning the biggest Mi Band redesign ever](https://www.androidauthority.com/xiaomi-mi-band-x-1660668)
+ - [Samsung Galaxy Z Fold 3: All the rumors so far (Updated: July 29)](https://www.androidauthority.com/samsung-galaxy-z-fold-3-1179131)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
