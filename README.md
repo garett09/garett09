@@ -181,9 +181,9 @@ Windows                  42 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Lol truth](http://9gag.com/gag/aLpOOwP)
- - 🚯 [Wrong place for shoplifting](http://9gag.com/gag/aAbLLrZ)
- - 🚯 [Is pepsi](http://9gag.com/gag/aLpOOKV)<!-- MEMES:END -->
+ - 🚖 [It&#039;s hard, every day feels like that day](http://9gag.com/gag/anQ08z0)
+ - 🚯 [If he wins it&#039;ll be funny. If he loses, hilarious](http://9gag.com/gag/aQoDD3r)
+ - 🚯 [Lol truth](http://9gag.com/gag/aLpOOwP)<!-- MEMES:END -->
 
 --- 
 
