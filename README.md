@@ -174,9 +174,9 @@ Windows                  42 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filing: Ixigo, an Indian online travel app with 250M+ users, raises $53M led by Singapore's GIC; source: Ixigo is targeting a $750M+ valuation for its IPO in Q4 (The Economic Times)](http://www.techmeme.com/210728/p69#a210728p69)
- - [OpenAI introduces Triton 1.0, an open-source programming language for writing GPU code for neural networks, and claims it is easier to write than Nvidia's CUDA (Tiernan Ray/ZDNet)](http://www.techmeme.com/210728/p68#a210728p68)
- - [Israel investigates Pegasus developer NSO over spyware abuse allegations](https://appleinsider.com/articles/21/07/28/israel-investigates-pegasus-developer-nso-over-spyware-abuse-allegations?utm_medium=rss)<!-- TECH:END -->
+ - [Robot arranges 100,000 dominoes into a Super Mario Bros. mural in one day](https://www.theverge.com/2021/7/29/22599111/mark-rober-domino-robot-super-mario-bros-mural-single-day)
+ - [HBO Max: 10 of the best movies to see this week     - CNET](https://www.cnet.com/news/hbo-max-10-of-the-best-movies-to-see-this-week/#ftag=CAD590a51e)
+ - [Cairo and Dubai-based Swvl, a bus-hailing and ridesharing provider in emerging markets, plans to go public in the US in a SPAC merger at a valuation of ~$1.5B (Tage Kene-Okafor/TechCrunch)](http://www.techmeme.com/210728/p70#a210728p70)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
