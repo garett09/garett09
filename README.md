@@ -174,9 +174,9 @@ Windows                  42 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Windows 11 now has its first beta release](https://www.theverge.com/2021/7/29/22600261/windows-11-beta-release-insider-microsoft-download-test)
- - [A look at Turkey's aggressive regulatory stance towards Google, like banning shopping search ads, which some attribute to Erdogan's authoritarian leadership (New York Times)](http://www.techmeme.com/210729/p32#a210729p32)
- - [Microsoft in talks to back India’s Oyo](http://feedproxy.google.com/~r/Techcrunch/~3/DDawdRFXP34/)<!-- TECH:END -->
+ - [Pinterest misses on user growth in Q2, with 454M MAUs vs. 482M est., as revenue beats, with $613M, up 125%+ YoY, vs. $562.1M est.; stock down ~14% after hours (Salvador Rodriguez/CNBC)](http://www.techmeme.com/210729/p34#a210729p34)
+ - [Why wildfire smoke can be worse than other air pollutants](https://www.theverge.com/22600224/wildfire-smoke-worse-air-pollution)
+ - [Joe Biden wants states to pay people $100 to get vaccinated](https://www.theverge.com/2021/7/29/22600571/biden-vaccine-payment-incentive)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
