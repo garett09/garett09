@@ -174,9 +174,9 @@ Windows                  42 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bang & Olufsen launches its first pair of noise-canceling true wireless earbuds](https://www.theverge.com/2021/7/29/22594086/bang-olufsen-beoplay-eq-true-wireless-earbuds-price-release-date-features)
- - [Wild leak suggests Xiaomi could be be planning the biggest Mi Band redesign ever](https://www.androidauthority.com/xiaomi-mi-band-x-1660668)
- - [Samsung Galaxy Z Fold 3: All the rumors so far (Updated: July 29)](https://www.androidauthority.com/samsung-galaxy-z-fold-3-1179131)<!-- TECH:END -->
+ - [Gaia GPS off-road navigation app gains Android Auto compatibility     - Roadshow](https://www.cnet.com/roadshow/news/gaia-gps-off-road-navigation-app-android-auto/#ftag=CAD590a51e)
+ - [Outer Banks season 2 review: This North Carolinian can't get enough     - CNET](https://www.cnet.com/news/outer-banks-season-2-review-this-north-carolinian-cant-get-enough/#ftag=CAD590a51e)
+ - [Bang & Olufsen launches its first pair of noise-canceling true wireless earbuds](https://www.theverge.com/2021/7/29/22594086/bang-olufsen-beoplay-eq-true-wireless-earbuds-price-release-date-features)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
