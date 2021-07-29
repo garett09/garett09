@@ -174,9 +174,9 @@ Windows                  42 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [New bipartisan infrastructure bill aims to raise ~$30B by imposing new taxes on exchanges trading digital assets including crypto; bill awaits Congress approval (Nikhilesh De/CoinDesk)](http://www.techmeme.com/210729/p1#a210729p1)
- - [OnePlus 9R gains July security patch and Bitmoji AOD with latest update](https://www.androidauthority.com/oneplus-9-update-1212009)
- - [Robot arranges 100,000 dominoes into a Super Mario Bros. mural in one day](https://www.theverge.com/2021/7/29/22599111/mark-rober-domino-robot-super-mario-bros-mural-single-day)<!-- TECH:END -->
+ - [Samsung Galaxy Z Fold 3: All the rumors so far (Updated: July 29)](https://www.androidauthority.com/samsung-galaxy-z-fold-3-1179131)
+ - [US Marshals Service has given a $6.6M+ contract to crypto startup Anchorage to manage seized crypto assets; BitGo had won a similar $4.5M contract in April (Jeff Benson/Decrypt)](http://www.techmeme.com/210729/p2#a210729p2)
+ - [Oxygen OS 11 is now (almost) fixed on the OnePlus 7 and 7T](https://www.androidauthority.com/oneplus-7-oneplus-7t-oxygen-os-11-update-fixed-1660619)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
