@@ -174,9 +174,9 @@ Windows                  42 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily Crunch: Scarlett Johansson sues Disney, says streaming release of ‘Black Widow’ breaches contract](http://feedproxy.google.com/~r/Techcrunch/~3/VZWmF9V3fZo/)
- - [Twitter announces updates to Spaces which will let users tweet directly from the Space; iOS users will be able to search for live and upcoming Spaces (Karissa Bell/Engadget)](http://www.techmeme.com/210729/p37#a210729p37)
- - [Another banner quarter as Chromebook shipments grow 75% YOY](http://feedproxy.google.com/~r/Techcrunch/~3/SEaLZS17G5s/)<!-- TECH:END -->
+ - [Snapchat is crashing for a lot of people again](https://www.theverge.com/2021/7/29/22600902/snapchat-crashing-down-outage-issue-app-login)
+ - [Forza Motorsport 7 will be driving into the sunset in September](https://www.theverge.com/2021/7/29/22600640/forza-motorsport-7-end-of-life-september-game-pass-microsoft)
+ - [Apple says hardware leaks harm consumers](https://appleinsider.com/articles/21/07/29/apple-says-hardware-leaks-harm-consumers?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
