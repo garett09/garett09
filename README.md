@@ -167,9 +167,9 @@ Windows                  42 mins             ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Black Panther Leaps Into Marvel’s Avengers Next Month](https://kotaku.com/black-panther-leaps-into-marvel-s-avengers-next-month-1847388277)
- - [A Memoir Blue tells a moving story completely without words](http://feedproxy.google.com/~r/PSBlog/~3/ntTGXEmcoto/)
- - [A Memoir Blue tells a moving story completely without words](https://blog.playstation.com/2021/07/29/a-memoir-blue-tells-a-moving-story-completely-without-words/)<!-- GAME:END -->
+ - [Valve responds to antitrust lawsuit, defends Steam's 30% cut](https://www.pcgamer.com/valve-responds-to-antitrust-lawsuit-defends-steams-30-cut)
+ - [12 Hours With 2021's Latest Big Viking Game](https://kotaku.com/12-hours-with-2021s-latest-big-viking-game-1847388392)
+ - [7 Games From Annapurna’s Showcase You Should Know About](https://kotaku.com/7-games-from-annapurna-s-showcase-you-should-know-about-1847386575)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
