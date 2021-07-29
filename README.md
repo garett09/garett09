@@ -174,9 +174,9 @@ Windows                  42 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hands-on with Intel's new NUC 11 Extreme, aka "Beast Canyon", which has an 8-liter chassis for larger gaming components, starting at ~$1,150 for i7 (Sean Hollister/The Verge)](http://www.techmeme.com/210729/p23#a210729p23)
- - [Cricket Wireless deals: Grab an iPhone SE and Sam’s Club membership for free](https://www.androidauthority.com/best-cricket-wireless-deals-2-835972)
- - [Motorola’s new reason for its dismal phone update policy basically blames you](https://www.androidauthority.com/motorola-edge-20-updates-1658433)<!-- TECH:END -->
+ - [Lenovo Flex 5 Chromebook review: midrange done right](https://www.theverge.com/22598860/lenovo-flex-5-chromebook-review)
+ - [UK NHS app updated with Apple Wallet support for COVID Pass](https://appleinsider.com/articles/21/07/29/uk-nhs-app-updated-with-apple-pay-support-for-covid-pass?utm_medium=rss)
+ - [Fortnite teases concert series with ‘record-breaking superstar’](https://www.theverge.com/2021/7/29/22599908/fortnite-rift-tour-concert-series)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
