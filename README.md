@@ -181,9 +181,9 @@ Windows                  42 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Why the f**k is snowing in Brazil?](http://9gag.com/gag/aMK069V)
- - 🚯 [Guy got mad for not getting paid. Poor Guy. #ger](http://9gag.com/gag/aMK0DgM)
- - 🚯 [Why women live longer](http://9gag.com/gag/aeAqqyj)<!-- MEMES:END -->
+ - 🚖 [Checkout my new audio setup](http://9gag.com/gag/a9E4eGZ)
+ - 🚯 [This is so accurate with my boyfriend!](http://9gag.com/gag/aP3VVOP)
+ - 🚯 [Let&rsquo;s bash these guys once again](http://9gag.com/gag/axMe8Ab)<!-- MEMES:END -->
 
 --- 
 
