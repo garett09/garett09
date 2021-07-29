@@ -174,9 +174,9 @@ Windows                  42 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deals: Save $120 to $150 on Apple's M1 MacBook Pro with 16GB RAM](https://appleinsider.com/articles/21/07/29/deals-save-120-to-150-on-apples-m1-macbook-pro-with-16gb-ram?utm_medium=rss)
- - [Nothing Ear (1) wireless earbuds review: comfortable, unique transparent design and lots of features, but buggy performance and so-so noise cancellation (Chris Welch/The Verge)](http://www.techmeme.com/210729/p21#a210729p21)
- - [Comcast says NBCUniversal's Peacock has 54M total signups since its April 2020 launch, with 20M MAUs in Q2, as it plans a European expansion via Sky (Cynthia Littleton/Variety)](http://www.techmeme.com/210729/p20#a210729p20)<!-- TECH:END -->
+ - [Hands-on with Intel's new NUC 11 Extreme, aka "Beast Canyon", which has an 8-liter chassis for larger gaming components, starting at ~$1,150 for i7 (Sean Hollister/The Verge)](http://www.techmeme.com/210729/p23#a210729p23)
+ - [Cricket Wireless deals: Grab an iPhone SE and Sam’s Club membership for free](https://www.androidauthority.com/best-cricket-wireless-deals-2-835972)
+ - [Motorola’s new reason for its dismal phone update policy basically blames you](https://www.androidauthority.com/motorola-edge-20-updates-1658433)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
