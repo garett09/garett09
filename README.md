@@ -181,8 +181,8 @@ Windows                  42 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This belongs here](http://9gag.com/gag/awM9pNW)
- - 🚯 [Snowing in Australia and its not every day that you get to see Kangaroos hopping in the snow](http://9gag.com/gag/av5BwKX)
+ - 🚖 [Finally answered that centaur pants question](http://9gag.com/gag/a8EvNAZ)
+ - 🚯 [I know right!](http://9gag.com/gag/av5BjOd)
  - 🚯 [2002 - 2021](http://9gag.com/gag/aO3n5PD)<!-- MEMES:END -->
 
 --- 
