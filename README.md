@@ -174,9 +174,9 @@ Windows                  42 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lenovo Flex 5 Chromebook review: midrange done right](https://www.theverge.com/22598860/lenovo-flex-5-chromebook-review)
- - [UK NHS app updated with Apple Wallet support for COVID Pass](https://appleinsider.com/articles/21/07/29/uk-nhs-app-updated-with-apple-pay-support-for-covid-pass?utm_medium=rss)
- - [Fortnite teases concert series with ‘record-breaking superstar’](https://www.theverge.com/2021/7/29/22599908/fortnite-rift-tour-concert-series)<!-- TECH:END -->
+ - [Huawei P50 and P50 Pro buyer’s guide: Everything you need to know](https://www.androidauthority.com/huawei-p50-1179970)
+ - [Tim Cook, other CEOs urge Congress to pass citizenship path for Dreamers](https://appleinsider.com/articles/21/07/29/tim-cook-other-ceos-urge-congress-to-pass-citizenship-path-for-dreamers?utm_medium=rss)
+ - [Amazon’s Fire TV Cube now supports Zoom calls on your TV](http://feedproxy.google.com/~r/Techcrunch/~3/lehYTzpcptM/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
