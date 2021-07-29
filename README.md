@@ -174,9 +174,9 @@ Windows                  42 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pinterest misses on user growth in Q2, with 454M MAUs vs. 482M est., as revenue beats, with $613M, up 125%+ YoY, vs. $562.1M est.; stock down ~14% after hours (Salvador Rodriguez/CNBC)](http://www.techmeme.com/210729/p34#a210729p34)
- - [Why wildfire smoke can be worse than other air pollutants](https://www.theverge.com/22600224/wildfire-smoke-worse-air-pollution)
- - [Joe Biden wants states to pay people $100 to get vaccinated](https://www.theverge.com/2021/7/29/22600571/biden-vaccine-payment-incentive)<!-- TECH:END -->
+ - ['Hamilton' star Phillipa Soo joins cast of Apple TV+ thriller 'Shining Girls'](https://appleinsider.com/articles/21/07/29/hamilton-star-phillipa-soo-joins-cast-of-apple-tv-thriller-shining-girls?utm_medium=rss)
+ - [4 key areas SaaS startups must address to scale infrastructure for the enterprise](http://feedproxy.google.com/~r/Techcrunch/~3/nPonDKuLA9Q/)
+ - [Apple job listing hints at work on Class II medical device](https://appleinsider.com/articles/21/07/29/apple-job-listing-hints-at-work-on-class-ii-medical-device?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
