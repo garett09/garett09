@@ -174,9 +174,9 @@ Windows                  42 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Latest Galaxy Z Flip 3 spill showcases Samsung’s funky case designs](https://www.androidauthority.com/samsung-galaxy-z-flip-3-cases-leak-1660872)
- - [Interview with Mona Shtaya of 7amleh, a social media advocacy and digital rights group in the Middle East, on how social networks censored Palestinians in May (Bani Sapra/WIRED Middle East)](http://www.techmeme.com/210729/p5#a210729p5)
- - [Homebase raises $70M for a team management platform aimed at SMBs and their hourly workers](http://feedproxy.google.com/~r/Techcrunch/~3/47Y_Rc0GmhQ/)<!-- TECH:END -->
+ - [We asked, you told us: Our readers’ love for Nokia is a complicated affair](https://www.androidauthority.com/nokia-phone-poll-results-1660754)
+ - [Rocket Lab returns to flight after failed May mission with successful launch for U.S. Space Force](http://feedproxy.google.com/~r/Techcrunch/~3/BL8AAeZdv_Y/)
+ - [Daily Authority: PlayStation 5 📈](https://www.androidauthority.com/newsletters/da-july-29-2021)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
