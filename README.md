@@ -174,9 +174,9 @@ Windows                  42 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gaia GPS off-road navigation app gains Android Auto compatibility     - Roadshow](https://www.cnet.com/roadshow/news/gaia-gps-off-road-navigation-app-android-auto/#ftag=CAD590a51e)
- - [Outer Banks season 2 review: This North Carolinian can't get enough     - CNET](https://www.cnet.com/news/outer-banks-season-2-review-this-north-carolinian-cant-get-enough/#ftag=CAD590a51e)
- - [Bang & Olufsen launches its first pair of noise-canceling true wireless earbuds](https://www.theverge.com/2021/7/29/22594086/bang-olufsen-beoplay-eq-true-wireless-earbuds-price-release-date-features)<!-- TECH:END -->
+ - [The Cost of Preventing Deaths by Climate-Driven Heat](https://www.wired.com/story/how-much-will-it-cost-to-prevent-deaths-by-climate-driven-heat)
+ - [Founder of India Covid Crypto Relief Fund says Buterin's gift of 50T Shiba Inu memecoin should eventually amount to $400M, and ~$20M has been paid out so far (Bloomberg)](http://www.techmeme.com/210729/p3#a210729p3)
+ - [Coralogix logs $55M for its new take on production analytics, now valued at $300-$400M](http://feedproxy.google.com/~r/Techcrunch/~3/cPA3BUtDnYk/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
