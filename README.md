@@ -181,9 +181,9 @@ Windows                  42 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Dad jokes compilation (and some not that joke)](http://9gag.com/gag/a7Em6Aw)
- - 🚯 [Trying to get in between cars in a tight space](http://9gag.com/gag/a9E4NLL)
- - 🚯 [This guy makes me laugh too much! both the hair and how crazy it is](http://9gag.com/gag/aoMGq6w)<!-- MEMES:END -->
+ - 🚖 [Can we all just take a moment and let the fact sink in that the great Dusty Hills of the great ZZ Top has passed away.. What a great band and Rest In Peace Dusty Hills](http://9gag.com/gag/a7EmGEr)
+ - 🚯 [10 cities from the south region of Brazil had a f**king SNOWSTORM today! It is such a rare phenomenon to happen over here that people are emotionally gathering on the streets to celebrate like an 90&#039;s Christmas movie! A local TV is broadcasting it live and we are amazed by it!](http://9gag.com/gag/aYovnNw)
+ - 🚯 [This is amazing! The kid has got razor sharp reflexes and some unbelievable vocabulary skills.](http://9gag.com/gag/amPOdDV)<!-- MEMES:END -->
 
 --- 
 
