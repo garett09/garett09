@@ -167,9 +167,9 @@ Windows                  42 mins             ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Ascent review](https://www.pcgamer.com/the-ascent-review)
- - [The Ascent's cyberpunk metropolis is way cooler than Night City](https://www.pcgamer.com/the-ascents-cyberpunk-metropolis-is-way-cooler-than-night-city)
- - [PUBG's planes are now terrifying fiery death traps](https://www.pcgamer.com/pubgs-planes-are-now-terrifying-fiery-death-traps)<!-- GAME:END -->
+ - [ASRock X570S PG Riptide motherboard review](https://www.pcgamer.com/asrock-x570s-riptide-amd-motherboard-review-benchmarks)
+ - [Co-op Dungeon Crawling Comes to Xbox Series X|S and Xbox One in Blightbound](https://news.xbox.com/en-us/2021/07/29/blightbound-available-now-for-xbox-series-x-s-and-xbox-one/)
+ - [New Pokémon Snap Adds Free Content, Like More Monsters](https://kotaku.com/new-pokemon-snap-adds-free-content-like-more-monsters-1847385256)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
