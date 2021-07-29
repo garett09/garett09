@@ -167,9 +167,9 @@ Windows                  42 mins             ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Jodie Whittaker and showrunner leaving Doctor Who in 2022](https://www.polygon.com/22599953/doctor-who-jodie-whittaker-chris-chibnall-showrunner-leaving-regenerate)
- - [Survive a Dystopian Future in The Ascent, Available Now with Xbox Game Pass](https://news.xbox.com/en-us/2021/07/29/the-ascent-available-now-with-xbox-game-pass/)
- - [Watch Annapurna Interactive’s new showcase for a fresh look at cool indie games](https://www.polygon.com/22599885/annapurna-interactive-showcase-livestream-event)<!-- GAME:END -->
+ - [Marvel’s Avengers’ Black Panther expansion launches Aug. 17](https://www.polygon.com/e3/22532214/marvels-avengers-black-panther-war-for-wakanda-release-date-trailer-e3-2021)
+ - [Forza Motorsport 7 reaches ‘end of life,’ won’t be sold after Sept. 15](https://www.polygon.com/22600297/forza-motorsport-7-end-of-life-details-september-2021)
+ - [Fortnite chops down fan-favorite NPC Bushranger](https://www.polygon.com/22600335/fortnite-bushranger-killed-rip-dead-npc-alien-baby)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
