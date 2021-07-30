@@ -181,9 +181,9 @@ Windows                  42 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How times change!! We are evolving just backwards... can we go back to old animation???](http://9gag.com/gag/a6EeYwL)
- - 🚯 [Me, watching public opinion destroying the new (S)He-man&#039;s movie!](http://9gag.com/gag/aAbL5KZ)
- - 🚯 [Snowing in Australia and its not every day that you get to see Kangaroos hopping in the snow](http://9gag.com/gag/av5BwKX)<!-- MEMES:END -->
+ - 🚖 [Snowing in Australia and its not every day that you get to see Kangaroos hopping in the snow](http://9gag.com/gag/av5BwKX)
+ - 🚯 [Hmmm](http://9gag.com/gag/apNnMgD)
+ - 🚯 [This belongs here](http://9gag.com/gag/awM9pNW)<!-- MEMES:END -->
 
 --- 
 
