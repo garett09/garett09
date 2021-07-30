@@ -181,9 +181,9 @@ Windows                  42 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [One for the Dutch.](http://9gag.com/gag/av5BMME)
- - 🚯 [Sometimes](http://9gag.com/gag/aP3VbEg)
- - 🚯 [No no no no.......](http://9gag.com/gag/aRX8b1G)<!-- MEMES:END -->
+ - 🚖 [Bali is in Indonesia](http://9gag.com/gag/aO3nwPD)
+ - 🚯 [No no no no.......](http://9gag.com/gag/aRX8b1G)
+ - 🚯 [Japan is on next level.](http://9gag.com/gag/a9E4xOL)<!-- MEMES:END -->
 
 --- 
 
