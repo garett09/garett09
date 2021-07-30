@@ -174,9 +174,9 @@ Windows                  42 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Physicists say they used Google's quantum computer to demo a time crystal, which forever cycles between states without consuming energy, for the first time (Natalie Wolchover/Quanta Magazine)](http://www.techmeme.com/210730/p14#a210730p14)
- - [Apple testing new Apple Maps for Italy, Vatican City, and San Marino in iOS 15 betas](https://appleinsider.com/articles/21/07/30/apple-testing-new-apple-maps-for-italy-vatican-city-and-san-marino-in-ios-15-betas?utm_medium=rss)
- - [Tile Mate review: The original AirTag alternative](https://www.androidauthority.com/tile-mate-review-1648776)<!-- TECH:END -->
+ - [Elon Musk calls Apple’s App Store fees ‘a de facto global tax on the Internet’](http://feedproxy.google.com/~r/Techcrunch/~3/gNA4f29p0bc/)
+ - [Twitter offers bug bounty of up to $3,500 to spot bias in its photo cropping algorithm, which was shown to favor white people over Black people (Stephen Shankland/CNET)](http://www.techmeme.com/210730/p16#a210730p16)
+ - [Government watchdog rejects Blue Origin’s protest over lunar lander contract](http://feedproxy.google.com/~r/Techcrunch/~3/LD2dDxGDCyI/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
