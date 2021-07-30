@@ -181,9 +181,9 @@ Windows                  42 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When programming and advertising alignes just right for once.](http://9gag.com/gag/a07DBXv)
- - 🚯 [Why are we not funding this](http://9gag.com/gag/aEpj9n9)
- - 🚯 [Just going with the flow!](http://9gag.com/gag/abVL7r9)<!-- MEMES:END -->
+ - 🚖 [Just going with the flow!](http://9gag.com/gag/abVL7r9)
+ - 🚯 [Nothing to see here](http://9gag.com/gag/aXom5jg)
+ - 🚯 [What would you do if you woke up to see this](http://9gag.com/gag/aqjVqLY)<!-- MEMES:END -->
 
 --- 
 
