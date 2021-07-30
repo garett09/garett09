@@ -167,9 +167,9 @@ Windows                  42 mins             ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Forza Motorsport 7 is being removed from sale only four years after release](https://www.pcgamer.com/forza-motorsport-7-is-being-removed-from-sale-only-four-years-after-release)
- - [Ubisoft CEO says 'important progress' has been made since 2020 harassment scandal](https://www.pcgamer.com/ubisoft-ceo-says-the-company-has-made-many-improvements-since-2020-harassment-scandal)
- - [The Forgotten City review](https://www.pcgamer.com/the-forgotten-city-review)<!-- GAME:END -->
+ - [Steam Client Beta overhauls downloads page and storage management, looks great](https://www.pcgamer.com/steam-client-beta-overhauls-downloads-page-and-storage-management-looks-great)
+ - [PS2 Game Boxes Almost Looked A Lot Cooler](https://kotaku.com/ps2-game-boxes-almost-looked-a-lot-cooler-1847374428)
+ - [Microsoft Flight Simulator patch improves performance but causes more crashes](https://www.pcgamer.com/microsoft-flight-simulator-patch-improves-performance-but-causes-more-crashes)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
