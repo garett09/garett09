@@ -174,9 +174,9 @@ Windows                  42 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple issues $6.5B bond to fund buyback, acquisitions](https://appleinsider.com/articles/21/07/30/apple-issues-65b-bond-to-fund-buyback-acquisitions?utm_medium=rss)
- - [Argo AI can now offer the public rides in its autonomous vehicles in California](http://feedproxy.google.com/~r/Techcrunch/~3/bT7wNduCWvU/)
- - [Bose's QuietComfort 45 headphones make a new appearance inside the Bose Music app     - CNET](https://www.cnet.com/tech/mobile/boses-quietcomfort-45-headphones-make-a-new-appearance-inside-the-bose-music-app/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Pittsburgh Google contractors ratify deal with HCL](http://feedproxy.google.com/~r/Techcrunch/~3/w6oP_I_1ZpM/)
+ - [Here are the latest accusations Activision Blizzard employees have leveled at the company](https://www.theverge.com/2021/7/30/22602655/activision-blizzard-employees-accusations-allegations-lawsuit)
+ - [Telegram's latest update adds group video calls of up to 1,000 users with 30 simultaneous broadcasts, video messages, screen sharing during video calls, more (Telegram)](http://www.techmeme.com/210730/p25#a210730p25)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
