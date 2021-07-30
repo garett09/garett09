@@ -167,9 +167,9 @@ Windows                  42 mins             ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [After Losing At Crane Games, Man Threatens Tokyo Arcade With Poison Gas](https://kotaku.com/after-losing-at-crane-games-man-threatens-tokyo-arcade-1847396196)
- - [Report: Sony to delay Horizon Forbidden West to early 2022](https://www.polygon.com/22602238/horizon-forbidden-west-delayed-2022-guerrilla-games-sony)
- - [Fortnite Crew August: Summer Skye is your next subscriber skin](https://www.pcgamer.com/new-fortnite-crew-skin)<!-- GAME:END -->
+ - [Enter Chernobyl’s Exclusion Zone in Chernobylite September 7](https://news.xbox.com/en-us/2021/07/30/enter-chernobyls-exclusion-zone-in-chernobylite-september-7/)
+ - [Space Jam: A New Legacy runs on video game logic, in every way](https://www.polygon.com/22602328/space-jam-2-a-new-legacy-video-game-metaverse-warner-bros-fortnite)
+ - [Report: Blizzard Once Slapped With 'Misogyny Tax'](https://kotaku.com/report-blizzard-once-slapped-with-misogyny-tax-1847397099)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
