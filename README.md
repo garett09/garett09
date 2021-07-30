@@ -181,9 +181,9 @@ Windows                  42 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Girls really do that?](http://9gag.com/gag/aXomyDv)
- - 🚯 [Tatjana Schoenmaker&#039;s reaction to realizing she just set a new world record](http://9gag.com/gag/aK6XQbZ)
- - 🚯 [Birthday Song Horror](http://9gag.com/gag/aWjew82)<!-- MEMES:END -->
+ - 🚖 [Tatjana Schoenmaker&#039;s reaction to realizing she just set a new world record](http://9gag.com/gag/aK6XQbZ)
+ - 🚯 [Birthday Song Horror](http://9gag.com/gag/aWjew82)
+ - 🚯 [Bali is in Indonesia](http://9gag.com/gag/aO3nwPD)<!-- MEMES:END -->
 
 --- 
 
