@@ -174,9 +174,9 @@ Windows                  42 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Snapchat says a technical issue has impacted some users after ~125K users reported problems on Downdetector, adds that it is working on a fix (Jay Peters/The Verge)](http://www.techmeme.com/210730/p1#a210730p1)
- - [Climbing at the Tokyo Olympics: Start times, how to watch and how it works     - CNET](https://www.cnet.com/news/climbing-at-the-tokyo-olympics-start-times-how-to-watch-and-how-it-works/#ftag=CAD590a51e)
- - [Source: NSO Group has temporarily blocked several government clients globally from using its technology as the company investigates their possible misuse (Daniel Estrin/NPR)](http://www.techmeme.com/210729/p44#a210729p44)<!-- TECH:END -->
+ - [Snapdragon-branded phones and earbuds exist now (Update: Pre-orders open)](https://www.androidauthority.com/smartphone-for-snapdragon-insiders-1640690)
+ - [OnePlus fixes overheating, improves camera performance in latest Nord CE update](https://www.androidauthority.com/oneplus-nord-ce-update-1236153)
+ - [Snap says a technical issue has impacted some Snapchat users after ~125K reported problems on Downdetector, adds that it is working on a fix (Jay Peters/The Verge)](http://www.techmeme.com/210730/p1#a210730p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
