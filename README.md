@@ -181,9 +181,9 @@ Windows                  42 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Bali is in Indonesia](http://9gag.com/gag/aO3nwPD)
- - 🚯 [No no no no.......](http://9gag.com/gag/aRX8b1G)
- - 🚯 [Japan is on next level.](http://9gag.com/gag/a9E4xOL)<!-- MEMES:END -->
+ - 🚖 [Japan is on next level.](http://9gag.com/gag/a9E4xOL)
+ - 🚯 [When your boss doesn&rsquo;t want his feet to get wet](http://9gag.com/gag/awM9E8r)
+ - 🚯 [Ukrainian Alyona Kravchenko from Odessa has been growing her hair since she was five years old - she is now 34 years old, and she can boast a hair 1.8 meters long.](http://9gag.com/gag/azMvnRN)<!-- MEMES:END -->
 
 --- 
 
