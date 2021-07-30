@@ -174,9 +174,9 @@ Windows                  42 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [August security patch lands early on Samsung Galaxy S21 series](https://www.androidauthority.com/samsung-galaxy-s21-update-1201187)
  - [Is Snapchat not working for you? Here’s how you can try to fix it](https://www.androidauthority.com/snapchat-not-working-how-to-fix-977763)
- - [Xiaomi might be just a hair’s breadth away from Samsung for the top spot](https://www.androidauthority.com/xiaomi-samsung-q2-2021-2026656)
- - [Best Chromebook 2021: 8 best Chromebooks starting under $300     - CNET](https://www.cnet.com/tech/computing/best-chromebook/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Xiaomi might be just a hair’s breadth away from Samsung for the top spot](https://www.androidauthority.com/xiaomi-samsung-q2-2021-2026656)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
