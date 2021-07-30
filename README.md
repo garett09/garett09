@@ -167,9 +167,9 @@ Windows                  42 mins             ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [AMD announces '1080p beast' Radeon RX 6600 XT for $379](https://www.pcgamer.com/amd-radeon-rx-6600-xt-release-date-price)
  - [Try not to get guillotined in Ambition: A Minuet in Power this August](https://www.pcgamer.com/try-not-to-get-guillotined-in-ambition-a-minuet-in-power-this-august)
- - [eBay AU is flogging heaps of Dell stuff for cheap, including a AU$600 360Hz monitor](https://www.pcgamer.com/ebay-au-is-flogging-heaps-of-dell-stuff-for-cheap-including-a-audollar600-360hz-monitor)
- - [Unionize](https://kotaku.com/unionize-1847383476)<!-- GAME:END -->
+ - [eBay AU is flogging heaps of Dell stuff for cheap, including a AU$600 360Hz monitor](https://www.pcgamer.com/ebay-au-is-flogging-heaps-of-dell-stuff-for-cheap-including-a-audollar600-360hz-monitor)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
