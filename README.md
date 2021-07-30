@@ -167,9 +167,9 @@ Windows                  42 mins             ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Destiny 2 Trials of Osiris rewards, July 30-Aug. 3](https://www.polygon.com/destiny-2-guide-walkthrough/2021/7/30/22602162/destiny-2-trials-osiris-rewards-july-30-aug-3)
- - [Report: Horizon Forbidden West Delayed To 2022](https://kotaku.com/report-horizon-forbidden-west-delayed-to-2022-1847396038)
- - [Double XP Weekend, Limited-time 32v32 Mode, and More Coming to Super Animal Royale](https://news.xbox.com/en-us/2021/07/30/double-xp-weekend-limited-time-32v32-mode-and-more-coming-to-super-animal-royale/)<!-- GAME:END -->
+ - [After Losing At Crane Games, Man Threatens Tokyo Arcade With Poison Gas](https://kotaku.com/after-losing-at-crane-games-man-threatens-tokyo-arcade-1847396196)
+ - [Report: Sony to delay Horizon Forbidden West to early 2022](https://www.polygon.com/22602238/horizon-forbidden-west-delayed-2022-guerrilla-games-sony)
+ - [Fortnite Crew August: Summer Skye is your next subscriber skin](https://www.pcgamer.com/new-fortnite-crew-skin)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
