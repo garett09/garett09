@@ -181,9 +181,9 @@ Windows                  42 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What would you do if you woke up to see this](http://9gag.com/gag/aqjVqLY)
- - 🚯 [Keeping it weird](http://9gag.com/gag/aqjV37j)
- - 🚯 [I need some right now](http://9gag.com/gag/aYov8bO)<!-- MEMES:END -->
+ - 🚖 [Keeping it weird](http://9gag.com/gag/aqjV37j)
+ - 🚯 [I need some right now](http://9gag.com/gag/aYov8bO)
+ - 🚯 [350--&gt;200 ~15 months never felt better!](http://9gag.com/gag/aXomDN2)<!-- MEMES:END -->
 
 --- 
 
