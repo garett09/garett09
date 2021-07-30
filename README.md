@@ -181,9 +181,9 @@ Windows                  42 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [For real](http://9gag.com/gag/aV79rAw)
- - 🚯 [Me on new game plus](http://9gag.com/gag/a8EvN26)
- - 🚯 [2002 - 2021](http://9gag.com/gag/aO3n5PD)<!-- MEMES:END -->
+ - 🚖 [Shame.... must&#039;ve been embarrassed as she deserved for doing it in the first place /:](http://9gag.com/gag/azMv3vq)
+ - 🚯 [Facts! The gold times...](http://9gag.com/gag/aGprQo5)
+ - 🚯 [Shieet](http://9gag.com/gag/aZ04X5W)<!-- MEMES:END -->
 
 --- 
 
