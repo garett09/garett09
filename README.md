@@ -167,9 +167,9 @@ Windows                  42 mins             ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Enter Chernobyl’s Exclusion Zone in Chernobylite September 7](https://news.xbox.com/en-us/2021/07/30/enter-chernobyls-exclusion-zone-in-chernobylite-september-7/)
- - [Space Jam: A New Legacy runs on video game logic, in every way](https://www.polygon.com/22602328/space-jam-2-a-new-legacy-video-game-metaverse-warner-bros-fortnite)
- - [Report: Blizzard Once Slapped With 'Misogyny Tax'](https://kotaku.com/report-blizzard-once-slapped-with-misogyny-tax-1847397099)<!-- GAME:END -->
+ - [Everything that's happened since the Activision Blizzard lawsuit went public](https://www.pcgamer.com/activision-blizzard-lawsuit-controversy-timeline-explained)
+ - [Best cheap gaming PC right now](https://www.pcgamer.com/best-cheap-gaming-pc)
+ - [Her Award-Winning Gaming Collection Could Get Her Paid. But That's Not The Point.](https://kotaku.com/her-award-winning-gaming-collection-could-get-her-paid-1847397446)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
