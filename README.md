@@ -167,9 +167,9 @@ Windows                  42 mins             ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Steam Client Beta overhauls downloads page and storage management, looks great](https://www.pcgamer.com/steam-client-beta-overhauls-downloads-page-and-storage-management-looks-great)
- - [PS2 Game Boxes Almost Looked A Lot Cooler](https://kotaku.com/ps2-game-boxes-almost-looked-a-lot-cooler-1847374428)
- - [Microsoft Flight Simulator patch improves performance but causes more crashes](https://www.pcgamer.com/microsoft-flight-simulator-patch-improves-performance-but-causes-more-crashes)<!-- GAME:END -->
+ - [Try not to get guillotined in Ambition: A Minuet in Power this August](https://www.pcgamer.com/try-not-to-get-guillotined-in-ambition-a-minuet-in-power-this-august)
+ - [eBay AU is flogging heaps of Dell stuff for cheap, including a AU$600 360Hz monitor](https://www.pcgamer.com/ebay-au-is-flogging-heaps-of-dell-stuff-for-cheap-including-a-audollar600-360hz-monitor)
+ - [Unionize](https://kotaku.com/unionize-1847383476)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
