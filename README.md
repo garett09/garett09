@@ -167,9 +167,9 @@ Windows                  42 mins             ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Netflix’s Centaurworld is a cute musical, until the body horror hits](https://www.polygon.com/22601972/centaurworld-netflix-review)
- - [Pokemon Unite's Pay-To-Win Is A Drag, Even If It'll Even Out Later](https://kotaku.com/pokemon-unites-pay-to-win-is-a-drag-even-if-itll-even-1847394740)
- - [I'm only a few hours into New World, but the grind is already frustrating](https://www.pcgamer.com/im-only-a-few-hours-into-new-world-but-the-grind-is-already-frustrating)<!-- GAME:END -->
+ - [In GTA Online, Being Rich and Owning Everything Is A Pain In The Ass](https://kotaku.com/in-gta-online-being-rich-and-owning-everything-is-a-pa-1847395369)
+ - [The Witcher season 2 release date, cast, and everything else we know](https://www.pcgamer.com/the-witcher-season-2-release-date-episode-recaps-and-more)
+ - [Tactical Turn-based Fantasy Game Fort Triumph Available on August 13](https://news.xbox.com/en-us/2021/07/30/tactical-turn-based-fantasy-game-fort-triumph-available-on-august-13/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
