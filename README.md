@@ -181,7 +181,7 @@ Windows                  42 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Snowing in Australia and its not every day that you get to see Kangaroos hopping in the snow](http://9gag.com/gag/av5BwKX)
+ - 🚖 [Armadillo](http://9gag.com/gag/aeAqBE5)
  - 🚯 [Hmmm](http://9gag.com/gag/apNnMgD)
  - 🚯 [This belongs here](http://9gag.com/gag/awM9pNW)<!-- MEMES:END -->
 
