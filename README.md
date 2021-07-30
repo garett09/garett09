@@ -182,8 +182,8 @@ Windows                  42 mins             ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [When your boss doesn&rsquo;t want his feet to get wet](http://9gag.com/gag/awM9E8r)
- - 🚯 [Pochinil](http://9gag.com/gag/apNnZjb)
- - 🚯 [These kids](http://9gag.com/gag/aDdqeyG)<!-- MEMES:END -->
+ - 🚯 [Tatjana Schoenmaker&#039;s reaction to realizing she just set a new world record](http://9gag.com/gag/aK6XQbZ)
+ - 🚯 [Darwin award goes to](http://9gag.com/gag/aZ04OOp)<!-- MEMES:END -->
 
 --- 
 
