@@ -181,9 +181,9 @@ Windows                  42 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Chitty-Bang-Bang](http://9gag.com/gag/aGpr4NK)
- - 🚯 [How times change!! We are evolving just backwards... can we go back to old animation???](http://9gag.com/gag/a6EeYwL)
- - 🚯 [Pochinil](http://9gag.com/gag/apNnZjb)<!-- MEMES:END -->
+ - 🚖 [When your boss doesn&rsquo;t want his feet to get wet](http://9gag.com/gag/awM9E8r)
+ - 🚯 [Pochinil](http://9gag.com/gag/apNnZjb)
+ - 🚯 [These kids](http://9gag.com/gag/aDdqeyG)<!-- MEMES:END -->
 
 --- 
 
