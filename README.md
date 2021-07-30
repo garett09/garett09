@@ -174,9 +174,9 @@ Windows                  42 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily Authority: Moto’s new Edge 👉](https://www.androidauthority.com/newsletters/da-july-30-2021)
- - ['Watch the Sound' host Mark Ronson tells Zane Lowe the origins of the series](https://appleinsider.com/articles/21/07/30/watch-the-sound-host-mark-ronson-tells-zane-lowe-the-origins-of-the-series?utm_medium=rss)
- - [Here’s why Apple says it hates leaks](https://www.theverge.com/2021/7/30/22601564/apple-leak-phone-cases-cease-and-desist-trade-secrets)<!-- TECH:END -->
+ - [Airtel Mobile Commerce, which offers mobile money services in 14 African countries, raises $200M from the Qatar Investment Authority (Tage Kene-Okafor/TechCrunch)](http://www.techmeme.com/210730/p8#a210730p8)
+ - [Swimply lets you swim in a stranger's pool. It's less weird than you think     - CNET](https://www.cnet.com/news/swimply-lets-you-swim-in-a-strangers-pool-its-less-weird-than-you-think/#ftag=CAD590a51e)
+ - [Why the History of Black Twitter Needed to Be Told](https://www.wired.com/story/gadget-lab-podcast-514)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
