@@ -181,8 +181,8 @@ Windows                  42 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Finally answered that centaur pants question](http://9gag.com/gag/a8EvNAZ)
- - 🚯 [I know right!](http://9gag.com/gag/av5BjOd)
+ - 🚖 [For real](http://9gag.com/gag/aV79rAw)
+ - 🚯 [Me on new game plus](http://9gag.com/gag/a8EvN26)
  - 🚯 [2002 - 2021](http://9gag.com/gag/aO3n5PD)<!-- MEMES:END -->
 
 --- 
