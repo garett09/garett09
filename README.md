@@ -174,9 +174,9 @@ Windows                  42 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [App Store, iTunes Store unavailable to some as outage hits Apple services [u]](https://appleinsider.com/articles/21/07/30/app-store-itunes-store-unavailable-to-some-as-outage-hits-apple-services?utm_medium=rss)
- - [Apple reportedly asking employees for COVID-19 vaccination status](https://appleinsider.com/articles/21/07/30/apple-reportedly-asking-employees-for-covid-19-vaccination-status?utm_medium=rss)
- - [Latest Apple Pay promo nabs Sonic, ParkWhiz and HotelTonight specials](https://appleinsider.com/articles/21/07/30/latest-apple-pay-promo-nabs-sonic-parkwhiz-and-hoteltonight-specials?utm_medium=rss)<!-- TECH:END -->
+ - [Snapchat says a technical issue has impacted some users after ~125K users reported problems on Downdetector, adds that it is working on a fix (Jay Peters/The Verge)](http://www.techmeme.com/210730/p1#a210730p1)
+ - [Climbing at the Tokyo Olympics: Start times, how to watch and how it works     - CNET](https://www.cnet.com/news/climbing-at-the-tokyo-olympics-start-times-how-to-watch-and-how-it-works/#ftag=CAD590a51e)
+ - [Source: NSO Group has temporarily blocked several government clients globally from using its technology as the company investigates their possible misuse (Daniel Estrin/NPR)](http://www.techmeme.com/210729/p44#a210729p44)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
