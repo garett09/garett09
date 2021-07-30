@@ -181,9 +181,9 @@ Windows                  42 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [350--&gt;200 ~15 months never felt better!](http://9gag.com/gag/aXomDN2)
- - 🚯 [WWE is real](http://9gag.com/gag/a4EBDKA)
- - 🚯 [So,&nbsp;how was work&nbsp;today?](http://9gag.com/gag/axMex3n)<!-- MEMES:END -->
+ - 🚖 [WWE is real](http://9gag.com/gag/a4EBDKA)
+ - 🚯 [350--&gt;200 ~15 months never felt better!](http://9gag.com/gag/aXomDN2)
+ - 🚯 [36 years on...](http://9gag.com/gag/anQ0L0B)<!-- MEMES:END -->
 
 --- 
 
