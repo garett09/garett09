@@ -167,9 +167,9 @@ Windows                  42 mins             ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [In GTA Online, Being Rich and Owning Everything Is A Pain In The Ass](https://kotaku.com/in-gta-online-being-rich-and-owning-everything-is-a-pa-1847395369)
- - [The Witcher season 2 release date, cast, and everything else we know](https://www.pcgamer.com/the-witcher-season-2-release-date-episode-recaps-and-more)
- - [Tactical Turn-based Fantasy Game Fort Triumph Available on August 13](https://news.xbox.com/en-us/2021/07/30/tactical-turn-based-fantasy-game-fort-triumph-available-on-august-13/)<!-- GAME:END -->
+ - [Destiny 2 Trials of Osiris rewards, July 30-Aug. 3](https://www.polygon.com/destiny-2-guide-walkthrough/2021/7/30/22602162/destiny-2-trials-osiris-rewards-july-30-aug-3)
+ - [Report: Horizon Forbidden West Delayed To 2022](https://kotaku.com/report-horizon-forbidden-west-delayed-to-2022-1847396038)
+ - [Double XP Weekend, Limited-time 32v32 Mode, and More Coming to Super Animal Royale](https://news.xbox.com/en-us/2021/07/30/double-xp-weekend-limited-time-32v32-mode-and-more-coming-to-super-animal-royale/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
