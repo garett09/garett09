@@ -174,9 +174,9 @@ Windows                  42 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [August security patch lands early on Samsung Galaxy S21 series](https://www.androidauthority.com/samsung-galaxy-s21-update-1201187)
- - [Is Snapchat not working for you? Here’s how you can try to fix it](https://www.androidauthority.com/snapchat-not-working-how-to-fix-977763)
- - [Xiaomi might be just a hair’s breadth away from Samsung for the top spot](https://www.androidauthority.com/xiaomi-samsung-q2-2021-2026656)<!-- TECH:END -->
+ - [Sgt. Pepper’s to get new Atmos mix because current version ‘doesn’t sound quite right’](https://www.theverge.com/2021/7/30/22601508/the-beatles-dolby-atmos-sgt-peppers-lonely-hearts-club-band-remix-mono-stereo-apple-music)
+ - [How to own an electric car in a rented house     - Roadshow](https://www.cnet.com/roadshow/news/electric-car-ownership-renting-kia-niro-ev/#ftag=CAD590a51e)
+ - [2021 Mercedes-Benz S580 wants to coddle at every opportunity     - Roadshow](https://www.cnet.com/roadshow/pictures/2021-mercedes-benz-s580-review/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
