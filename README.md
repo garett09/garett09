@@ -167,9 +167,9 @@ Windows                  42 mins             ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Everything that's happened since the Activision Blizzard lawsuit went public](https://www.pcgamer.com/activision-blizzard-lawsuit-controversy-timeline-explained)
- - [Best cheap gaming PC right now](https://www.pcgamer.com/best-cheap-gaming-pc)
- - [Her Award-Winning Gaming Collection Could Get Her Paid. But That's Not The Point.](https://kotaku.com/her-award-winning-gaming-collection-could-get-her-paid-1847397446)<!-- GAME:END -->
+ - [Game Industry Women Need You To Stop Defining Them By Their Trauma](https://kotaku.com/the-kick-ass-shit-women-in-the-game-industry-dont-get-e-1847397963)
+ - [Valve says Steam Machines were 'a good idea' that helped make Steam Deck possible](https://www.pcgamer.com/valve-says-steam-machines-were-a-good-idea-that-helped-make-steam-deck-possible)
+ - [Black Woman Says Goodbye To Kotaku](https://kotaku.com/black-woman-says-goodbye-to-kotaku-1847398013)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
