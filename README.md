@@ -174,9 +174,9 @@ Windows                  42 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the fallout from the Activision Blizzard suit, as the company confirms it fired WoW lead for misconduct last year and hires "union-busting" law firm (Nick Statt/Protocol)](http://www.techmeme.com/210729/p42#a210729p42)
- - [Profile of Israeli surveillance startup Paragon, funded with $5-10M from US-based Battery, which sources say allows police to hack encrypted messaging apps (Thomas Brewster/Forbes)](http://www.techmeme.com/210729/p41#a210729p41)
- - [Jared Leto is unrecognizable in House of Gucci trailer     - CNET](https://www.cnet.com/news/jared-leto-is-unrecognizable-in-house-of-gucci-trailer/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [App Store, iTunes Store unavailable to some as outage hits Apple services [u]](https://appleinsider.com/articles/21/07/30/app-store-itunes-store-unavailable-to-some-as-outage-hits-apple-services?utm_medium=rss)
+ - [Apple reportedly asking employees for COVID-19 vaccination status](https://appleinsider.com/articles/21/07/30/apple-reportedly-asking-employees-for-covid-19-vaccination-status?utm_medium=rss)
+ - [Latest Apple Pay promo nabs Sonic, ParkWhiz and HotelTonight specials](https://appleinsider.com/articles/21/07/30/latest-apple-pay-promo-nabs-sonic-parkwhiz-and-hoteltonight-specials?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
