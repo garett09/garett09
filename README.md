@@ -174,9 +174,9 @@ Windows                  42 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kodiak Robotics’ founder says tight focus on autonomous trucks is working](http://feedproxy.google.com/~r/Techcrunch/~3/qMDXAR-p4-0/)
- - [Growth roundup: Investing in community, targeting developers, new marketer recs](http://feedproxy.google.com/~r/Techcrunch/~3/8NSUkNql5sg/)
- - [China's top court issues new guidelines that hotels, airports, and other commercial venues must get consent from customers to use facial recognition from Aug. 1 (Eva Dou/Washington Post)](http://www.techmeme.com/210730/p19#a210730p19)<!-- TECH:END -->
+ - [Deliveroo says it plans to pull out of Spain, citing limited market share; Spain unveiled a "rider law" in March to reclassify couriers as employees (Jasper Jolly/The Guardian)](http://www.techmeme.com/210730/p21#a210730p21)
+ - [A Tesla Megapack burst into flames at ‘Victorian Big Battery’](https://www.theverge.com/2021/7/30/22602411/neoen-tesla-megapack-fire-victorian-big-battery)
+ - [Deliveroo could leave Spanish market ahead of on-demand labor reclassification](http://feedproxy.google.com/~r/Techcrunch/~3/1y4v9uLiBdY/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
