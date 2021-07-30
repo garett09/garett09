@@ -181,9 +181,9 @@ Windows                  42 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Armadillo](http://9gag.com/gag/aeAqBE5)
- - 🚯 [Hmmm](http://9gag.com/gag/apNnMgD)
- - 🚯 [This belongs here](http://9gag.com/gag/awM9pNW)<!-- MEMES:END -->
+ - 🚖 [I know right!](http://9gag.com/gag/av5BjOd)
+ - 🚯 [These kids](http://9gag.com/gag/aDdqeyG)
+ - 🚯 [Facts! The gold times...](http://9gag.com/gag/aGprQo5)<!-- MEMES:END -->
 
 --- 
 
