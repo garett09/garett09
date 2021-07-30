@@ -167,9 +167,9 @@ Windows                  42 mins             ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [eBay AU is flogging heaps of Dell stuff for cheap, including a AU$600 360Hz monitor](https://www.pcgamer.com/ebay-au-is-flogging-heaps-of-dell-stuff-for-cheap-including-a-audollar600-360hz-monitor)
- - [AMD announces '1080p beast' Radeon RX 6600 XT for $379](https://www.pcgamer.com/amd-radeon-rx-6600-xt-release-date-price)
- - [Try not to get guillotined in Ambition: A Minuet in Power this August](https://www.pcgamer.com/try-not-to-get-guillotined-in-ambition-a-minuet-in-power-this-august)<!-- GAME:END -->
+ - [Motherboard manufacturers unite against Intel's efficient PSU plans](https://www.pcgamer.com/intel-atx12vo-power-standard-pushback-manufacturers)
+ - [Second-hand GPU lottery: Mining cards lose 10% performance every year](https://www.pcgamer.com/palit-used-mining-graphics-cards-advice)
+ - [Let's Build a Zoo is a cute yet chaotic sim full of animal abominations](https://www.pcgamer.com/lets-build-a-zoo-is-a-cute-yet-chaotic-sim-full-of-animal-abominations)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
