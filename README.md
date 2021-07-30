@@ -181,9 +181,9 @@ Windows                  42 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Shame.... must&#039;ve been embarrassed as she deserved for doing it in the first place /:](http://9gag.com/gag/azMv3vq)
- - 🚯 [Facts! The gold times...](http://9gag.com/gag/aGprQo5)
- - 🚯 [Shieet](http://9gag.com/gag/aZ04X5W)<!-- MEMES:END -->
+ - 🚖 [How times change!! We are evolving just backwards... can we go back to old animation???](http://9gag.com/gag/a6EeYwL)
+ - 🚯 [Me, watching public opinion destroying the new (S)He-man&#039;s movie!](http://9gag.com/gag/aAbL5KZ)
+ - 🚯 [Snowing in Australia and its not every day that you get to see Kangaroos hopping in the snow](http://9gag.com/gag/av5BwKX)<!-- MEMES:END -->
 
 --- 
 
