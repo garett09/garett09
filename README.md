@@ -174,9 +174,9 @@ Windows                  42 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deliveroo says it plans to pull out of Spain, citing limited market share; Spain unveiled a "rider law" in March to reclassify couriers as employees (Jasper Jolly/The Guardian)](http://www.techmeme.com/210730/p21#a210730p21)
- - [A Tesla Megapack burst into flames at ‘Victorian Big Battery’](https://www.theverge.com/2021/7/30/22602411/neoen-tesla-megapack-fire-victorian-big-battery)
- - [Deliveroo could leave Spanish market ahead of on-demand labor reclassification](http://feedproxy.google.com/~r/Techcrunch/~3/1y4v9uLiBdY/)<!-- TECH:END -->
+ - [Apple issues $6.5B bond to fund buyback, acquisitions](https://appleinsider.com/articles/21/07/30/apple-issues-65b-bond-to-fund-buyback-acquisitions?utm_medium=rss)
+ - [Argo AI can now offer the public rides in its autonomous vehicles in California](http://feedproxy.google.com/~r/Techcrunch/~3/bT7wNduCWvU/)
+ - [Bose's QuietComfort 45 headphones make a new appearance inside the Bose Music app     - CNET](https://www.cnet.com/tech/mobile/boses-quietcomfort-45-headphones-make-a-new-appearance-inside-the-bose-music-app/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
