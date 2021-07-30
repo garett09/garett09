@@ -181,9 +181,9 @@ Windows                  42 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When your boss doesn&rsquo;t want his feet to get wet](http://9gag.com/gag/awM9E8r)
- - 🚯 [Tatjana Schoenmaker&#039;s reaction to realizing she just set a new world record](http://9gag.com/gag/aK6XQbZ)
- - 🚯 [Darwin award goes to](http://9gag.com/gag/aZ04OOp)<!-- MEMES:END -->
+ - 🚖 [One for the Dutch.](http://9gag.com/gag/av5BMME)
+ - 🚯 [Sometimes](http://9gag.com/gag/aP3VbEg)
+ - 🚯 [No no no no.......](http://9gag.com/gag/aRX8b1G)<!-- MEMES:END -->
 
 --- 
 
