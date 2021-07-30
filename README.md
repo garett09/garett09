@@ -174,9 +174,9 @@ Windows                  42 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Growth is not enough](http://feedproxy.google.com/~r/Techcrunch/~3/0H1NhibjyXc/)
- - [In an email to creators, audio app Fireside, funded by Mark Cuban, says it is accepting investments through August from anyone who is interested (Ashley Carman/The Verge)](http://www.techmeme.com/210730/p11#a210730p11)
- - [The Mark Cuban-founded audio app Fireside is asking its own users to invest](https://www.theverge.com/2021/7/30/22601191/fireside-app-mark-cuban-falon-fatemi-libsyn-rode-invest)<!-- TECH:END -->
+ - [MoEngage, a customer engagement service that enables personalization across email, SMS, and more, raises $32.5M, bringing its total raised to $72M+ (Kyle Wiggers/VentureBeat)](http://www.techmeme.com/210730/p13#a210730p13)
+ - [How to charge your Apple Watch](https://www.androidauthority.com/how-to-charge-apple-watch-1660079)
+ - [Tesla agrees to pay $1.5 million to settle battery throttling lawsuit](https://www.theverge.com/2021/7/30/22601832/tesla-settlement-battery-throttle-model-s-amount)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
