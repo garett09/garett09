@@ -174,9 +174,9 @@ Windows                  42 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Faced with rising ransomware risks, companies seeking cybersecurity professionals are paying higher salaries and offering more autonomy (Catherine Stupp/Wall Street Journal)](http://www.techmeme.com/210730/p3#a210730p3)
- - [Apple TV+ review: 'Ted Lasso' stays charming in season 2](https://appleinsider.com/articles/21/07/30/apple-tv-review-ted-lasso-stays-charming-in-season-2?utm_medium=rss)
- - [Dark mode might not be a silver bullet for improved battery life](https://www.androidauthority.com/dark-mode-study-battery-2026759)<!-- TECH:END -->
+ - [Daily Authority: Moto’s new Edge 👉](https://www.androidauthority.com/newsletters/da-july-30-2021)
+ - ['Watch the Sound' host Mark Ronson tells Zane Lowe the origins of the series](https://appleinsider.com/articles/21/07/30/watch-the-sound-host-mark-ronson-tells-zane-lowe-the-origins-of-the-series?utm_medium=rss)
+ - [Here’s why Apple says it hates leaks](https://www.theverge.com/2021/7/30/22601564/apple-leak-phone-cases-cease-and-desist-trade-secrets)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
