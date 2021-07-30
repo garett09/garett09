@@ -174,9 +174,9 @@ Windows                  42 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon slammed with $887 million fine by EU privacy regulators](https://appleinsider.com/articles/21/07/30/amazon-slammed-with-887-million-fine-by-eu-privacy-regulators?utm_medium=rss)
- - [Amazon fined record $887 million over EU privacy violations](https://www.theverge.com/2021/7/30/22601661/amazon-gdpr-fine-cnpd-marketplace-antitrust-data)
- - [Platform-as-a-service startup Porter aims to become go-to platform for deploying, managing cloud-based apps](http://feedproxy.google.com/~r/Techcrunch/~3/v6pjuRwfeVI/)<!-- TECH:END -->
+ - [Growth is not enough](http://feedproxy.google.com/~r/Techcrunch/~3/0H1NhibjyXc/)
+ - [In an email to creators, audio app Fireside, funded by Mark Cuban, says it is accepting investments through August from anyone who is interested (Ashley Carman/The Verge)](http://www.techmeme.com/210730/p11#a210730p11)
+ - [The Mark Cuban-founded audio app Fireside is asking its own users to invest](https://www.theverge.com/2021/7/30/22601191/fireside-app-mark-cuban-falon-fatemi-libsyn-rode-invest)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
