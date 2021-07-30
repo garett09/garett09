@@ -174,9 +174,9 @@ Windows                  42 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Airtel Mobile Commerce, which offers mobile money services in 14 African countries, raises $200M from the Qatar Investment Authority (Tage Kene-Okafor/TechCrunch)](http://www.techmeme.com/210730/p8#a210730p8)
- - [Swimply lets you swim in a stranger's pool. It's less weird than you think     - CNET](https://www.cnet.com/news/swimply-lets-you-swim-in-a-strangers-pool-its-less-weird-than-you-think/#ftag=CAD590a51e)
- - [Why the History of Black Twitter Needed to Be Told](https://www.wired.com/story/gadget-lab-podcast-514)<!-- TECH:END -->
+ - [Amazon slammed with $887 million fine by EU privacy regulators](https://appleinsider.com/articles/21/07/30/amazon-slammed-with-887-million-fine-by-eu-privacy-regulators?utm_medium=rss)
+ - [Amazon fined record $887 million over EU privacy violations](https://www.theverge.com/2021/7/30/22601661/amazon-gdpr-fine-cnpd-marketplace-antitrust-data)
+ - [Platform-as-a-service startup Porter aims to become go-to platform for deploying, managing cloud-based apps](http://feedproxy.google.com/~r/Techcrunch/~3/v6pjuRwfeVI/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
