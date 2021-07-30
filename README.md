@@ -181,9 +181,9 @@ Windows                  42 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Tatjana Schoenmaker&#039;s reaction to realizing she just set a new world record](http://9gag.com/gag/aK6XQbZ)
- - 🚯 [I need some right now](http://9gag.com/gag/aYov8bO)
- - 🚯 [Ukrainian Alyona Kravchenko from Odessa has been growing her hair since she was five years old - she is now 34 years old, and she can boast a hair 1.8 meters long.](http://9gag.com/gag/azMvnRN)<!-- MEMES:END -->
+ - 🚖 [What would you do if you woke up to see this](http://9gag.com/gag/aqjVqLY)
+ - 🚯 [Keeping it weird](http://9gag.com/gag/aqjV37j)
+ - 🚯 [I need some right now](http://9gag.com/gag/aYov8bO)<!-- MEMES:END -->
 
 --- 
 
