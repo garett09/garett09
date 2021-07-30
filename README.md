@@ -181,9 +181,9 @@ Windows                  42 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Shame.... must&#039;ve been embarrassed as she deserved for doing it in the first place /:](http://9gag.com/gag/azMv3vq)
+ - 🚖 [No no no no.......](http://9gag.com/gag/aRX8b1G)
  - 🚯 [Chitty-Bang-Bang](http://9gag.com/gag/aGpr4NK)
- - 🚯 [I didn&#039;t order the extra chili... in fact... i didn&#039;t order any chili at all...](http://9gag.com/gag/a8EvxMY)<!-- MEMES:END -->
+ - 🚯 [Get out!](http://9gag.com/gag/anQ0m45)<!-- MEMES:END -->
 
 --- 
 
