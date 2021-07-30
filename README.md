@@ -182,8 +182,8 @@ Windows                  42 mins             ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Tatjana Schoenmaker&#039;s reaction to realizing she just set a new world record](http://9gag.com/gag/aK6XQbZ)
- - 🚯 [Birthday Song Horror](http://9gag.com/gag/aWjew82)
- - 🚯 [Bali is in Indonesia](http://9gag.com/gag/aO3nwPD)<!-- MEMES:END -->
+ - 🚯 [I need some right now](http://9gag.com/gag/aYov8bO)
+ - 🚯 [Ukrainian Alyona Kravchenko from Odessa has been growing her hair since she was five years old - she is now 34 years old, and she can boast a hair 1.8 meters long.](http://9gag.com/gag/azMvnRN)<!-- MEMES:END -->
 
 --- 
 
