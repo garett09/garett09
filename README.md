@@ -174,9 +174,9 @@ Windows                  42 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Snapchat is crashing for a lot of people again](https://www.theverge.com/2021/7/29/22600902/snapchat-crashing-down-outage-issue-app-login)
- - [Forza Motorsport 7 will be driving into the sunset in September](https://www.theverge.com/2021/7/29/22600640/forza-motorsport-7-end-of-life-september-game-pass-microsoft)
- - [Apple says hardware leaks harm consumers](https://appleinsider.com/articles/21/07/29/apple-says-hardware-leaks-harm-consumers?utm_medium=rss)<!-- TECH:END -->
+ - [Profile of Israeli surveillance startup Paragon, funded with $5-10M from US-based Battery, which sources say allows police to hack encrypted messaging apps (Thomas Brewster/Forbes)](http://www.techmeme.com/210729/p41#a210729p41)
+ - [Latest Apple Pay promo nabs Sonic, ParkWhiz and HotelTonight specials](https://appleinsider.com/articles/21/07/30/latest-apple-pay-promo-nabs-sonic-parkwhiz-and-hoteltonight-specials?utm_medium=rss)
+ - [Dish adds HBO Max and will now offer HBO and Cinemax](https://www.theverge.com/2021/7/29/22600943/dish-adds-hbo-max-cinemax)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
