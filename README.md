@@ -181,9 +181,9 @@ Windows                  42 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Japan is on next level.](http://9gag.com/gag/a9E4xOL)
- - 🚯 [When your boss doesn&rsquo;t want his feet to get wet](http://9gag.com/gag/awM9E8r)
- - 🚯 [Ukrainian Alyona Kravchenko from Odessa has been growing her hair since she was five years old - she is now 34 years old, and she can boast a hair 1.8 meters long.](http://9gag.com/gag/azMvnRN)<!-- MEMES:END -->
+ - 🚖 [When programming and advertising alignes just right for once.](http://9gag.com/gag/a07DBXv)
+ - 🚯 [Why are we not funding this](http://9gag.com/gag/aEpj9n9)
+ - 🚯 [Just going with the flow!](http://9gag.com/gag/abVL7r9)<!-- MEMES:END -->
 
 --- 
 
