@@ -167,9 +167,9 @@ Windows                  42 mins             ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Animal Crossing: New Horizons Adds Eggplant Cows And Cucumber Horses For Dead Spirits](https://kotaku.com/animal-crossing-new-horizons-adds-eggplant-cows-and-cu-1847393359)
- - [Next Week on Xbox: August 2 to 6](https://news.xbox.com/en-us/2021/07/30/next-week-on-xbox-august-2-to-6/)
- - [Fantasy film The Green Knight has its own tabletop RPG that you can play at home](https://www.polygon.com/2020/8/24/21399827/the-green-knight-movie-game-dungeons-dragons-rpg-price)<!-- GAME:END -->
+ - [Bringing Beast Wars expertise to the Easter eggs of Transformers: War for Cybertron - Kingdom](https://www.polygon.com/animation-cartoons/22599690/transformers-kingdom-easter-eggs-beast-wars-war-for-cybertron)
+ - [Disney’s Jungle Cruise has the same goofy charm as the ride that spawned it](https://www.polygon.com/22600711/jungle-cruise-review-disney-plus-the-rock)
+ - [Minecraft’s 'Worst' Server Was Exploited So Hard, Griefers Could See The Future](https://kotaku.com/minecraft-s-worst-server-was-exploited-so-hard-griefe-1847393788)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
