@@ -167,9 +167,9 @@ Windows                  42 mins             ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Motherboard manufacturers unite against Intel's efficient PSU plans](https://www.pcgamer.com/intel-atx12vo-power-standard-pushback-manufacturers)
- - [Second-hand GPU lottery: Mining cards lose 10% performance every year](https://www.pcgamer.com/palit-used-mining-graphics-cards-advice)
- - [Let's Build a Zoo is a cute yet chaotic sim full of animal abominations](https://www.pcgamer.com/lets-build-a-zoo-is-a-cute-yet-chaotic-sim-full-of-animal-abominations)<!-- GAME:END -->
+ - [How to buy a graphics card](https://www.pcgamer.com/where-to-buy-a-graphics-card)
+ - [Intel launches 'Beast Canyon' modular mini gaming PC kits starting at $1,150](https://www.pcgamer.com/intel-launches-beast-canyon-modular-mini-gaming-pc-kits-starting-at-dollar1150)
+ - [Gaming PC build guide](https://www.pcgamer.com/gaming-pc-build-guide)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
