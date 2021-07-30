@@ -174,9 +174,9 @@ Windows                  42 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Is Snapchat not working for you? Here’s how you can try to fix it](https://www.androidauthority.com/snapchat-not-working-how-to-fix-977763)
  - [Xiaomi might be just a hair’s breadth away from Samsung for the top spot](https://www.androidauthority.com/xiaomi-samsung-q2-2021-2026656)
- - [Fans urge Samsung to launch new Galaxy Note instead of Galaxy S22 next year](https://www.androidauthority.com/samsung-galaxy-note-petition-2026642)
- - [Galaxy S20 FE gains another July update, but expect the August 2021 patch soon](https://www.androidauthority.com/samsung-galaxy-s20-fe-update-1186657)<!-- TECH:END -->
+ - [Best Chromebook 2021: 8 best Chromebooks starting under $300     - CNET](https://www.cnet.com/tech/computing/best-chromebook/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
