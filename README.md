@@ -174,9 +174,9 @@ Windows                  42 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Germany to allow institutional funds, which currently manage a total of ~$2.1T, to hold up to 20% of their holdings in Bitcoin and other crypto assets (Stephan Kahl/Bloomberg)](http://www.techmeme.com/210730/p17#a210730p17)
- - [Save 33% on a 13-inch MacBook Pro, and more of the latest MacBook deals](https://www.androidauthority.com/best-cheap-macbook-deals-1112936)
- - [Apple ships 12.9M iPads in Q2, maintains dominant lead in tablet market](https://appleinsider.com/articles/21/07/30/apple-ships-129m-ipads-in-q2-maintains-dominant-lead-in-tablet-market?utm_medium=rss)<!-- TECH:END -->
+ - [Safari's extremely slow pace in adopting popular features and fixing showstopping bugs, and refusal to engage with contentious API proposals, is harming the web (Tim Perry/HTTP Toolkit)](http://www.techmeme.com/210730/p18#a210730p18)
+ - [‘May be an image’: what it’s like browsing Instagram while blind](https://www.theverge.com/2021/7/30/22587544/instagram-twitter-tiktok-accessibility-blind-low-vision)
+ - [Calendly CEO Tope Awotona is joining us at Disrupt 2021](http://feedproxy.google.com/~r/Techcrunch/~3/gOu-wkK5xvw/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
