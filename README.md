@@ -174,9 +174,9 @@ Windows                  42 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sgt. Pepper’s to get new Atmos mix because current version ‘doesn’t sound quite right’](https://www.theverge.com/2021/7/30/22601508/the-beatles-dolby-atmos-sgt-peppers-lonely-hearts-club-band-remix-mono-stereo-apple-music)
- - [How to own an electric car in a rented house     - Roadshow](https://www.cnet.com/roadshow/news/electric-car-ownership-renting-kia-niro-ev/#ftag=CAD590a51e)
- - [2021 Mercedes-Benz S580 wants to coddle at every opportunity     - Roadshow](https://www.cnet.com/roadshow/pictures/2021-mercedes-benz-s580-review/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Faced with rising ransomware risks, companies seeking cybersecurity professionals are paying higher salaries and offering more autonomy (Catherine Stupp/Wall Street Journal)](http://www.techmeme.com/210730/p3#a210730p3)
+ - [Apple TV+ review: 'Ted Lasso' stays charming in season 2](https://appleinsider.com/articles/21/07/30/apple-tv-review-ted-lasso-stays-charming-in-season-2?utm_medium=rss)
+ - [Dark mode might not be a silver bullet for improved battery life](https://www.androidauthority.com/dark-mode-study-battery-2026759)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
