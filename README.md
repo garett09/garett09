@@ -167,9 +167,9 @@ Windows                  42 mins             ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Bringing Beast Wars expertise to the Easter eggs of Transformers: War for Cybertron - Kingdom](https://www.polygon.com/animation-cartoons/22599690/transformers-kingdom-easter-eggs-beast-wars-war-for-cybertron)
- - [Disney’s Jungle Cruise has the same goofy charm as the ride that spawned it](https://www.polygon.com/22600711/jungle-cruise-review-disney-plus-the-rock)
- - [Minecraft’s 'Worst' Server Was Exploited So Hard, Griefers Could See The Future](https://kotaku.com/minecraft-s-worst-server-was-exploited-so-hard-griefe-1847393788)<!-- GAME:END -->
+ - [Netflix’s Centaurworld is a cute musical, until the body horror hits](https://www.polygon.com/22601972/centaurworld-netflix-review)
+ - [Pokemon Unite's Pay-To-Win Is A Drag, Even If It'll Even Out Later](https://kotaku.com/pokemon-unites-pay-to-win-is-a-drag-even-if-itll-even-1847394740)
+ - [I'm only a few hours into New World, but the grind is already frustrating](https://www.pcgamer.com/im-only-a-few-hours-into-new-world-but-the-grind-is-already-frustrating)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
