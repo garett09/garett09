@@ -174,9 +174,9 @@ Windows                  42 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk calls Apple’s App Store fees ‘a de facto global tax on the Internet’](http://feedproxy.google.com/~r/Techcrunch/~3/gNA4f29p0bc/)
- - [Twitter offers bug bounty of up to $3,500 to spot bias in its photo cropping algorithm, which was shown to favor white people over Black people (Stephen Shankland/CNET)](http://www.techmeme.com/210730/p16#a210730p16)
- - [Government watchdog rejects Blue Origin’s protest over lunar lander contract](http://feedproxy.google.com/~r/Techcrunch/~3/LD2dDxGDCyI/)<!-- TECH:END -->
+ - [Germany to allow institutional funds, which currently manage a total of ~$2.1T, to hold up to 20% of their holdings in Bitcoin and other crypto assets (Stephan Kahl/Bloomberg)](http://www.techmeme.com/210730/p17#a210730p17)
+ - [Save 33% on a 13-inch MacBook Pro, and more of the latest MacBook deals](https://www.androidauthority.com/best-cheap-macbook-deals-1112936)
+ - [Apple ships 12.9M iPads in Q2, maintains dominant lead in tablet market](https://appleinsider.com/articles/21/07/30/apple-ships-129m-ipads-in-q2-maintains-dominant-lead-in-tablet-market?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
