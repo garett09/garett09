@@ -181,9 +181,9 @@ Windows                  42 mins             ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Just going with the flow!](http://9gag.com/gag/abVL7r9)
- - 🚯 [Nothing to see here](http://9gag.com/gag/aXom5jg)
- - 🚯 [What would you do if you woke up to see this](http://9gag.com/gag/aqjVqLY)<!-- MEMES:END -->
+ - 🚖 [Girls really do that?](http://9gag.com/gag/aXomyDv)
+ - 🚯 [Tatjana Schoenmaker&#039;s reaction to realizing she just set a new world record](http://9gag.com/gag/aK6XQbZ)
+ - 🚯 [Birthday Song Horror](http://9gag.com/gag/aWjew82)<!-- MEMES:END -->
 
 --- 
 
