@@ -174,9 +174,9 @@ Windows                  42 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Safari's extremely slow pace in adopting popular features and fixing showstopping bugs, and refusal to engage with contentious API proposals, is harming the web (Tim Perry/HTTP Toolkit)](http://www.techmeme.com/210730/p18#a210730p18)
- - [‘May be an image’: what it’s like browsing Instagram while blind](https://www.theverge.com/2021/7/30/22587544/instagram-twitter-tiktok-accessibility-blind-low-vision)
- - [Calendly CEO Tope Awotona is joining us at Disrupt 2021](http://feedproxy.google.com/~r/Techcrunch/~3/gOu-wkK5xvw/)<!-- TECH:END -->
+ - [Kodiak Robotics’ founder says tight focus on autonomous trucks is working](http://feedproxy.google.com/~r/Techcrunch/~3/qMDXAR-p4-0/)
+ - [Growth roundup: Investing in community, targeting developers, new marketer recs](http://feedproxy.google.com/~r/Techcrunch/~3/8NSUkNql5sg/)
+ - [China's top court issues new guidelines that hotels, airports, and other commercial venues must get consent from customers to use facial recognition from Aug. 1 (Eva Dou/Washington Post)](http://www.techmeme.com/210730/p19#a210730p19)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
