@@ -167,9 +167,9 @@ Windows                  42 mins             ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Fantasy film The Green Knight has its own tabletop RPG that you can play at home](https://www.polygon.com/2020/8/24/21399827/the-green-knight-movie-game-dungeons-dragons-rpg-price)
- - [Intel Alder Lake CPUs: What are they, when will they launch, and how fast will they be?](https://www.pcgamer.com/intel-alder-lake-release-date-specs-performance-price)
- - [Neo: The World Ends With You: The Kotaku Review](https://kotaku.com/neo-the-world-ends-with-you-the-kotaku-review-1847386418)<!-- GAME:END -->
+ - [Animal Crossing: New Horizons Adds Eggplant Cows And Cucumber Horses For Dead Spirits](https://kotaku.com/animal-crossing-new-horizons-adds-eggplant-cows-and-cu-1847393359)
+ - [Next Week on Xbox: August 2 to 6](https://news.xbox.com/en-us/2021/07/30/next-week-on-xbox-august-2-to-6/)
+ - [Fantasy film The Green Knight has its own tabletop RPG that you can play at home](https://www.polygon.com/2020/8/24/21399827/the-green-knight-movie-game-dungeons-dragons-rpg-price)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
