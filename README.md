@@ -174,9 +174,9 @@ Windows                  42 mins             ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [MoEngage, a customer engagement service that enables personalization across email, SMS, and more, raises $32.5M, bringing its total raised to $72M+ (Kyle Wiggers/VentureBeat)](http://www.techmeme.com/210730/p13#a210730p13)
- - [How to charge your Apple Watch](https://www.androidauthority.com/how-to-charge-apple-watch-1660079)
- - [Tesla agrees to pay $1.5 million to settle battery throttling lawsuit](https://www.theverge.com/2021/7/30/22601832/tesla-settlement-battery-throttle-model-s-amount)<!-- TECH:END -->
+ - [Physicists say they used Google's quantum computer to demo a time crystal, which forever cycles between states without consuming energy, for the first time (Natalie Wolchover/Quanta Magazine)](http://www.techmeme.com/210730/p14#a210730p14)
+ - [Apple testing new Apple Maps for Italy, Vatican City, and San Marino in iOS 15 betas](https://appleinsider.com/articles/21/07/30/apple-testing-new-apple-maps-for-italy-vatican-city-and-san-marino-in-ios-15-betas?utm_medium=rss)
+ - [Tile Mate review: The original AirTag alternative](https://www.androidauthority.com/tile-mate-review-1648776)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
