@@ -178,9 +178,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Sex and all is nice, but watching these dudes trying to escape the police](http://9gag.com/gag/azMv0dp)
- - 🚯 [Intensive Bonk](http://9gag.com/gag/ad8W30D)
- - 🚯 [So,&nbsp;how was work&nbsp;today?](http://9gag.com/gag/axMex3n)<!-- MEMES:END -->
+ - 🚖 [So,&nbsp;how was work&nbsp;today?](http://9gag.com/gag/axMex3n)
+ - 🚯 [This guy has the right idea](http://9gag.com/gag/anQ0Ago)
+ - 🚯 [Nothing to see here](http://9gag.com/gag/aXom5jg)<!-- MEMES:END -->
 
 --- 
 
