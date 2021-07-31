@@ -179,7 +179,7 @@ Windows                  0 secs              ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [So,&nbsp;how was work&nbsp;today?](http://9gag.com/gag/axMex3n)
- - 🚯 [This guy has the right idea](http://9gag.com/gag/anQ0Ago)
+ - 🚯 [Intensive Bonk](http://9gag.com/gag/ad8W30D)
  - 🚯 [Nothing to see here](http://9gag.com/gag/aXom5jg)<!-- MEMES:END -->
 
 --- 
