@@ -171,9 +171,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [B2B commerce and financing startup OfBusiness raises $160M led by SoftBank Vision Fund 2 at a valuation of $1.5B, becoming the 18th Indian unicorn for the year (Digbijay Mishra/The Economic Times)](http://www.techmeme.com/210731/p2#a210731p2)
  - [Vietnam-based VNLife, the parent company of VNPay, which helps banks provide mobile payment apps and other digital services, raises $250M at a valuation of $1B+ (Nikkei Asia)](http://www.techmeme.com/210731/p1#a210731p1)
- - [Educational publisher Pearson says it is switching to a subscription model for all of its 1,500 titles, available for $14.99/month through its new Pearson+ app (Financial Times)](http://www.techmeme.com/210730/p30#a210730p30)
- - [The Justice Department says 27 US Attorney offices had at least one employee's Microsoft email account breached by Russian hackers from May 7 to Dec. 27, 2020 (Associated Press)](http://www.techmeme.com/210730/p29#a210730p29)<!-- TECH:END -->
+ - [Educational publisher Pearson says it is switching to a subscription model for all of its 1,500 titles, available for $14.99/month through its new Pearson+ app (Financial Times)](http://www.techmeme.com/210730/p30#a210730p30)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
