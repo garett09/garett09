@@ -178,9 +178,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Cats are royalty in HK](http://9gag.com/gag/aGpqVM7)
- - 🚯 [In the 1930s you could buy fake snow made of 100% asbestos](http://9gag.com/gag/a8E9WX1)
- - 🚯 [Don&#039;t worry, be happy #3](http://9gag.com/gag/aqjOmRR)<!-- MEMES:END -->
+ - 🚖 [Jamaal Williams: &quot;I don&#039;t watch TV. I watch anime all day.&quot;](http://9gag.com/gag/a5EAd3y)
+ - 🚯 [Cats are royalty in HK](http://9gag.com/gag/aGpqVM7)
+ - 🚯 [My brother&#039;s new fren clearly doesn&#039;t like being picked up](http://9gag.com/gag/aV78WzP)<!-- MEMES:END -->
 
 --- 
 
