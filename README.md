@@ -178,9 +178,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Nothing to see here](http://9gag.com/gag/aXom5jg)
- - 🚯 [Intensive Bonk](http://9gag.com/gag/ad8W30D)
- - 🚯 [I dont think it was postet yet here](http://9gag.com/gag/a8EvrRV)<!-- MEMES:END -->
+ - 🚖 [Him: Can I buy you a drink? Her:](http://9gag.com/gag/aLpOYx5)
+ - 🚯 [Wiener Wiener chicken dinner](http://9gag.com/gag/a1r84oG)
+ - 🚯 [Disney is Asshoe](http://9gag.com/gag/agBpM2n)<!-- MEMES:END -->
 
 --- 
 
