@@ -178,9 +178,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Joanna Connor shredding the guitar](http://9gag.com/gag/aeAEjzB)
- - 🚯 [Algae Infested Pool Gets Cleaned](http://9gag.com/gag/a1rnp9w)
- - 🚯 [A teacher of culture](http://9gag.com/gag/aMK62gX)<!-- MEMES:END -->
+ - 🚖 [Police blocked off the road for a fatal crash scene. Someone tried to drive through it anyway](http://9gag.com/gag/aB2MRKN)
+ - 🚯 [Joanna Connor shredding the guitar](http://9gag.com/gag/aeAEjzB)
+ - 🚯 [Just look how fast those well defined pixels move!](http://9gag.com/gag/aB2MR1x)<!-- MEMES:END -->
 
 --- 
 
