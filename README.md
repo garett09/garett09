@@ -171,9 +171,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [B2B commerce and financing startup OfBusiness raises $160M led by SoftBank Vision Fund 2 at a valuation of $1.5B, becoming the 18th Indian unicorn for the year (Digbijay Mishra/The Economic Times)](http://www.techmeme.com/210731/p2#a210731p2)
- - [Vietnam-based VNLife, the parent company of VNPay, which helps banks provide mobile payment apps and other digital services, raises $250M at a valuation of $1B+ (Nikkei Asia)](http://www.techmeme.com/210731/p1#a210731p1)
- - [Educational publisher Pearson says it is switching to a subscription model for all of its 1,500 titles, available for $14.99/month through its new Pearson+ app (Financial Times)](http://www.techmeme.com/210730/p30#a210730p30)<!-- TECH:END -->
+ - [Metaverse, as Zuckerberg and others imagine, is an odd vision built from a compendium of juvenile fantasies, perceived market opportunities, and overt dystopias (Brian Merchant/VICE)](http://www.techmeme.com/210731/p5#a210731p5)
+ - [Riskified, an Israeli e-commerce fraud protection company, began trading on the NYSE on Thursday after raising $363M in its IPO, at a valuation of $3.3B (Shiri Habib-Valdhorn/Globes Online)](http://www.techmeme.com/210731/p4#a210731p4)
+ - [Digital bank Monzo reveals a loss of &pound;130M on &pound;66M revenue for the year ended Feb. and says UK FCA is investigating it over potential money laundering breaches (Nicholas Megaw/Financial Times)](http://www.techmeme.com/210731/p3#a210731p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
