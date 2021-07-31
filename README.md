@@ -178,9 +178,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Amazon workers start their day, 2016.](http://9gag.com/gag/aMK6rPA)
- - 🚯 [Painted this doggo a while back, hope you like it! How can we name that good boy?](http://9gag.com/gag/azMzL4m)
- - 🚯 [I&#039;ve never done this before. So I took days off work just to travel around my country. First time building a tent and it worked out just fine. Cheers guys.](http://9gag.com/gag/a4E8dgm)<!-- MEMES:END -->
+ - 🚖 [The best fandom](http://9gag.com/gag/aK6yPZ3)
+ - 🚯 [Amazon workers start their day, 2016.](http://9gag.com/gag/aMK6rPA)
+ - 🚯 [Roasting cosplayers](http://9gag.com/gag/awMDbMy)<!-- MEMES:END -->
 
 --- 
 
