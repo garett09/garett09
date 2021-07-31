@@ -171,9 +171,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anti-vax app ejected from App Store over user content issues](https://appleinsider.com/articles/21/07/31/anti-vax-app-ejected-from-app-store-over-user-content-issues?utm_medium=rss)
- - [The pandemic effect is slowing](http://feedproxy.google.com/~r/Techcrunch/~3/Byxenp-hVOY/)
- - [A look at the debate over Spotify's Discovery Mode, whereby artists are prioritized for reduced royalties, a key way for Spotify to improve margins (Anna Nicolaou/Financial Times)](http://www.techmeme.com/210731/p10#a210731p10)<!-- TECH:END -->
+ - [Apple Music, iTunes Store, App Store hit by outages](https://appleinsider.com/articles/21/07/31/apple-music-itunes-store-app-store-hit-by-outages?utm_medium=rss)
+ - [UK's CMA launches an inquiry into Facebook's acquisition of Kustomer, investigating whether the deal violates the UK's Enterprise Act 2002 (Jaime Llinares Taboada/MarketWatch)](http://www.techmeme.com/210731/p11#a210731p11)
+ - [Chipolo One review: Free features and flashy colors for everyone](https://www.androidauthority.com/chipolo-one-review-1658424)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
