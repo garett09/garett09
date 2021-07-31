@@ -164,9 +164,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Genshin Impact's Official Discord Hit Its Max User Capacity Forcing Devs To Create A Second Server](https://kotaku.com/genshin-impacts-official-discord-hit-its-max-user-capac-1847401601)
  - [Everything That Has Happened Since The Activision Blizzard Lawsuit Was Filed](https://kotaku.com/everything-that-has-happened-since-the-activision-blizz-1847401161)
- - [How Blizzard's reputation collapsed in just 3 years](https://www.pcgamer.com/how-blizzards-reputation-collapsed-in-just-3-years)
- - [Ubisoft And Bungie Suing Popular Cheat Seller](https://kotaku.com/ubisoft-and-bungie-suing-popular-cheat-seller-ring-1-1847400740)<!-- GAME:END -->
+ - [How Blizzard's reputation collapsed in just 3 years](https://www.pcgamer.com/how-blizzards-reputation-collapsed-in-just-3-years)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
