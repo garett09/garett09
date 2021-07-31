@@ -171,9 +171,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Australia-based IntelligenceBank, a marketing software provider for brands, raises $37M from Five Elms Capital to help speed up its expansion in the US (Paul Smith/Australian Financial Review)](http://www.techmeme.com/210731/p6#a210731p6)
- - [OnePlus Nord 2 vs older OnePlus phones: Should you upgrade?](https://www.androidauthority.com/oneplus-nord-2-vs-oneplus-upgrade-1657660)
- - [Metaverse, as Zuckerberg and others imagine, is an odd vision built from a compendium of juvenile fantasies, perceived market opportunities, and overt dystopias (Brian Merchant/VICE)](http://www.techmeme.com/210731/p5#a210731p5)<!-- TECH:END -->
+ - [The 14 Best Weekend Deals on Smartphones, Laptops, and Audio](https://www.wired.com/story/weekend-deals-july-31-2021)
+ - [How to Get the Most Out of Your Meditation App](https://www.wired.com/story/how-to-get-the-most-out-of-your-meditation-app)
+ - [Google Pixel 6 rumors: The latest release date, price and Whitechapel chip buzz     - CNET](https://www.cnet.com/tech/mobile/google-pixel-6-rumors-the-latest-release-date-price-and-whitechapel-chip-buzz/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
