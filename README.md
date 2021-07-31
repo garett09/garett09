@@ -164,9 +164,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Crapshoot: The Russian Leisure Suit Larry with a 'sexy' Tetris minigame](https://www.pcgamer.com/saturday-crapshoot-gag)
- - [Halo Infinite's bot names are kind of great](https://www.pcgamer.com/halo-infinites-bot-names-are-kind-of-great)
- - [I'm pleased to report that Halo Infinite's needler whips ass](https://www.pcgamer.com/im-pleased-to-report-that-halo-infinites-needler-whips-ass)<!-- GAME:END -->
+ - [Destiny 2’s story is heating up with a compelling political allegory](https://www.polygon.com/22599987/destiny-2-lore-explainer-season-of-the-splicer-witch-queen)
+ - [The best anime of 2021, so far](https://www.polygon.com/22594587/best-anime-2021)
+ - [Crapshoot: The Russian Leisure Suit Larry with a 'sexy' Tetris minigame](https://www.pcgamer.com/saturday-crapshoot-gag)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
