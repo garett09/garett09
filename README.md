@@ -178,9 +178,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Jamaal Williams: &quot;I don&#039;t watch TV. I watch anime all day.&quot;](http://9gag.com/gag/a5EAd3y)
- - 🚯 [Cats are royalty in HK](http://9gag.com/gag/aGpqVM7)
- - 🚯 [My brother&#039;s new fren clearly doesn&#039;t like being picked up](http://9gag.com/gag/aV78WzP)<!-- MEMES:END -->
+ - 🚖 [Painted this doggo a while back, hope you like it! How can we name that good boy?](http://9gag.com/gag/azMzL4m)
+ - 🚯 [Guys, I think I&#039;ve just found the best way to die.](http://9gag.com/gag/a1rnZp6)
+ - 🚯 [In the middle of difficulty&hellip; lies opportunity](http://9gag.com/gag/abVoqpO)<!-- MEMES:END -->
 
 --- 
 
