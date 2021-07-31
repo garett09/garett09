@@ -178,9 +178,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [THE PROTEIN SHEIKH](http://9gag.com/gag/a6EeWBN)
- - 🚯 [When you&#039;re born in the 2nd dimension and make it to the 3rd.](http://9gag.com/gag/a9E43ro)
- - 🚯 [Go to be a b*tch over there!!!!](http://9gag.com/gag/a27VEOZ)<!-- MEMES:END -->
+ - 🚖 [Tokyo 2020 Lacey-ass free diving event. Bring out your best Bronn memes.](http://9gag.com/gag/awMDNAB)
+ - 🚯 [Go to be a b*tch over there!!!!](http://9gag.com/gag/a27VEOZ)
+ - 🚯 [Accurate as F*CK](http://9gag.com/gag/av5V2md)<!-- MEMES:END -->
 
 --- 
 
