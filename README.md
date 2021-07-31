@@ -171,9 +171,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Music, iTunes Store, App Store hit by outages](https://appleinsider.com/articles/21/07/31/apple-music-itunes-store-app-store-hit-by-outages?utm_medium=rss)
- - [UK's CMA launches an inquiry into Facebook's acquisition of Kustomer, investigating whether the deal violates the UK's Enterprise Act 2002 (Jaime Llinares Taboada/MarketWatch)](http://www.techmeme.com/210731/p11#a210731p11)
- - [Chipolo One review: Free features and flashy colors for everyone](https://www.androidauthority.com/chipolo-one-review-1658424)<!-- TECH:END -->
+ - [Netflix: The 40 best TV shows to watch tonight     - CNET](https://www.cnet.com/news/netflix-the-40-best-tv-shows-to-watch-tonight/#ftag=CAD590a51e)
+ - [Google pairs Stadia Controller and Chromecast as $100 ‘play and watch’ bundle](https://www.theverge.com/2021/7/31/22603498/google-stadia-controller-chromecast-play-watch-bundle)
+ - [Apple Music, iTunes Store, App Store hit by outages](https://appleinsider.com/articles/21/07/31/apple-music-itunes-store-app-store-hit-by-outages?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
