@@ -178,9 +178,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Police blocked off the road for a fatal crash scene. Someone tried to drive through it anyway](http://9gag.com/gag/aB2MRKN)
- - 🚯 [Joanna Connor shredding the guitar](http://9gag.com/gag/aeAEjzB)
- - 🚯 [Just look how fast those well defined pixels move!](http://9gag.com/gag/aB2MR1x)<!-- MEMES:END -->
+ - 🚖 [Joanna Connor shredding the guitar](http://9gag.com/gag/aeAEjzB)
+ - 🚯 [Bri&#039;ish food bad init](http://9gag.com/gag/ad8MN6Z)
+ - 🚯 [\ud835\udc0e\ud835\udc01\ud835\udc12\ud835\udc08\ud835\udc03\ud835\udc08\ud835\udc00\ud835\udc0d: Natural Volcanic glass , Obsidian is produced from felsic lava](http://9gag.com/gag/awMD0PR)<!-- MEMES:END -->
 
 --- 
 
