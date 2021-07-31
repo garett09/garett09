@@ -171,9 +171,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Metaverse, as Zuckerberg and others imagine, is an odd vision built from a compendium of juvenile fantasies, perceived market opportunities, and overt dystopias (Brian Merchant/VICE)](http://www.techmeme.com/210731/p5#a210731p5)
- - [Riskified, an Israeli e-commerce fraud protection company, began trading on the NYSE on Thursday after raising $363M in its IPO, at a valuation of $3.3B (Shiri Habib-Valdhorn/Globes Online)](http://www.techmeme.com/210731/p4#a210731p4)
- - [Digital bank Monzo reveals a loss of &pound;130M on &pound;66M revenue for the year ended Feb. and says UK FCA is investigating it over potential money laundering breaches (Nicholas Megaw/Financial Times)](http://www.techmeme.com/210731/p3#a210731p3)<!-- TECH:END -->
+ - [Australia-based IntelligenceBank, a marketing software provider for brands, raises $37M from Five Elms Capital to help speed up its expansion in the US (Paul Smith/Australian Financial Review)](http://www.techmeme.com/210731/p6#a210731p6)
+ - [OnePlus Nord 2 vs older OnePlus phones: Should you upgrade?](https://www.androidauthority.com/oneplus-nord-2-vs-oneplus-upgrade-1657660)
+ - [Metaverse, as Zuckerberg and others imagine, is an odd vision built from a compendium of juvenile fantasies, perceived market opportunities, and overt dystopias (Brian Merchant/VICE)](http://www.techmeme.com/210731/p5#a210731p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
