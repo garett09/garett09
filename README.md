@@ -178,9 +178,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Joanna Connor shredding the guitar](http://9gag.com/gag/aeAEjzB)
- - 🚯 [Bri&#039;ish food bad init](http://9gag.com/gag/ad8MN6Z)
- - 🚯 [\ud835\udc0e\ud835\udc01\ud835\udc12\ud835\udc08\ud835\udc03\ud835\udc08\ud835\udc00\ud835\udc0d: Natural Volcanic glass , Obsidian is produced from felsic lava](http://9gag.com/gag/awMD0PR)<!-- MEMES:END -->
+ - 🚖 [Bri&#039;ish food bad init](http://9gag.com/gag/ad8MN6Z)
+ - 🚯 [\ud835\udc0e\ud835\udc01\ud835\udc12\ud835\udc08\ud835\udc03\ud835\udc08\ud835\udc00\ud835\udc0d: Natural Volcanic glass , Obsidian is produced from felsic lava](http://9gag.com/gag/awMD0PR)
+ - 🚯 [Never thought I would be looking forward to play as a cat but this one looks damn exciting. Seems Annapurna did a neat work on the gameplay reveal.](http://9gag.com/gag/aNpXrPr)<!-- MEMES:END -->
 
 --- 
 
