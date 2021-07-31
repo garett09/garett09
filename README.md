@@ -171,9 +171,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spotify and Apple Music need to recruit more indies to corner the market](https://www.androidauthority.com/spotify-apple-indie-artists-1648712)
- - [This Week in Apps: Instagram restricts teens’ accounts, Elon Musk criticizes App Store fees, Google Play’s new policies](http://feedproxy.google.com/~r/Techcrunch/~3/VH5zqEWVVCI/)
- - [Bring your own environment: The future of work](http://feedproxy.google.com/~r/Techcrunch/~3/r4smanOyt-I/)<!-- TECH:END -->
+ - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-391-2024589)
+ - [A starter pack of Nanoleaf’s stunning canvas panels is $50 off at Costco today](https://www.theverge.com/good-deals/2021/7/31/22601889/nanoleaf-canvas-light-panels-razer-nari-essential-gaming-headset-amazon-echo-buds-deal-sale)
+ - [Apple removes Unjected, a social app for "unvaxxed friendly", citing COVID-19 misinfo; Unjected removed social feed from its Android app after a Google warning (Jackie Davalos/Bloomberg)](http://www.techmeme.com/210731/p9#a210731p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
