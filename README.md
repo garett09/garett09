@@ -178,9 +178,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Him: Can I buy you a drink? Her:](http://9gag.com/gag/aLpOYx5)
- - 🚯 [Wiener Wiener chicken dinner](http://9gag.com/gag/a1r84oG)
- - 🚯 [Disney is Asshoe](http://9gag.com/gag/agBpM2n)<!-- MEMES:END -->
+ - 🚖 [He&#039;s out of line but he&#039;s right](http://9gag.com/gag/aeAEKEp)
+ - 🚯 [I dont think it was postet yet here](http://9gag.com/gag/a8EvrRV)
+ - 🚯 [Bro Chill Plz](http://9gag.com/gag/aO3OonR)<!-- MEMES:END -->
 
 --- 
 
