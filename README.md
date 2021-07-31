@@ -178,9 +178,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Let me blob for you](http://9gag.com/gag/aLp3Kzv)
+ - 🚖 [GREEN SHIRT GUY!! THE HERO WE NEED](http://9gag.com/gag/aB2MKKA)
  - 🚯 [In the 1930s you could buy fake snow made of 100% asbestos](http://9gag.com/gag/a8E9WX1)
- - 🚯 [Western society goes brrrrr](http://9gag.com/gag/abVoX7E)<!-- MEMES:END -->
+ - 🚯 [A teacher of culture](http://9gag.com/gag/aMK62gX)<!-- MEMES:END -->
 
 --- 
 
