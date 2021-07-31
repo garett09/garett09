@@ -164,9 +164,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Halo Infinite's bot names are kind of great](https://www.pcgamer.com/halo-infinites-bot-names-are-kind-of-great)
  - [I'm pleased to report that Halo Infinite's needler whips ass](https://www.pcgamer.com/im-pleased-to-report-that-halo-infinites-needler-whips-ass)
- - [Uh oh, Halo Infinite campaign details are leaking from the tech test](https://www.pcgamer.com/uh-oh-halo-infinite-campaign-details-are-leaking-from-the-tech-test)
- - [Hexes never looked as beautiful as they do in the Hexoplanet trailer](https://www.pcgamer.com/hexes-never-looked-as-beautiful-as-they-do-in-the-hexoplanet-trailer)<!-- GAME:END -->
+ - [Uh oh, Halo Infinite campaign details are leaking from the tech test](https://www.pcgamer.com/uh-oh-halo-infinite-campaign-details-are-leaking-from-the-tech-test)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
