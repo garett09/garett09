@@ -178,9 +178,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A rainstorm in Alabama outside of a factory.](http://9gag.com/gag/aXozb5b)
- - 🚯 [Those double digit IQ points kicking hard](http://9gag.com/gag/aV78W5K)
- - 🚯 [The best fandom](http://9gag.com/gag/aK6yPZ3)<!-- MEMES:END -->
+ - 🚖 [Dental composite resins allow for the seamless repair of a large hole in a tooth](http://9gag.com/gag/anQ3BKo)
+ - 🚯 [Amazon workers start their day, 2016.](http://9gag.com/gag/aMK6rPA)
+ - 🚯 [Ok, hear me out...](http://9gag.com/gag/ad8M6mM)<!-- MEMES:END -->
 
 --- 
 
