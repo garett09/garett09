@@ -178,9 +178,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Tokyo 2020 Lacey-ass free diving event. Bring out your best Bronn memes.](http://9gag.com/gag/awMDNAB)
- - 🚯 [Go to be a b*tch over there!!!!](http://9gag.com/gag/a27VEOZ)
- - 🚯 [Accurate as F*CK](http://9gag.com/gag/av5V2md)<!-- MEMES:END -->
+ - 🚖 [Not because you&#039;re a rabbit](http://9gag.com/gag/aGpqYZ7)
+ - 🚯 [Accurate as F*CK](http://9gag.com/gag/av5V2md)
+ - 🚯 [Bro Chill Plz](http://9gag.com/gag/aO3OonR)<!-- MEMES:END -->
 
 --- 
 
