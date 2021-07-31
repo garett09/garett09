@@ -178,9 +178,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [WWE is real](http://9gag.com/gag/a4EBDKA)
- - 🚯 [350--&gt;200 ~15 months never felt better!](http://9gag.com/gag/aXomDN2)
- - 🚯 [36 years on...](http://9gag.com/gag/anQ0L0B)<!-- MEMES:END -->
+ - 🚖 [Sex and all is nice, but watching these dudes trying to escape the police](http://9gag.com/gag/azMv0dp)
+ - 🚯 [Intensive Bonk](http://9gag.com/gag/ad8W30D)
+ - 🚯 [So,&nbsp;how was work&nbsp;today?](http://9gag.com/gag/axMex3n)<!-- MEMES:END -->
 
 --- 
 
