@@ -171,9 +171,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Wyze Labs, which makes devices like smart security cameras, robot vacuums, and smartwatches, raises $110M Series B led by Marcy Venture Partners (Kurt Schlosser/GeekWire)](http://www.techmeme.com/210730/p28#a210730p28)
  - [Google contract workers in Pittsburgh have ratified a three-year deal with their employer HCL, for higher wages and more, nearly two years after unionizing (Brian Heater/TechCrunch)](http://www.techmeme.com/210730/p27#a210730p27)
- - [TuSimple’s self-driving truck network takes shape with Ryder partnership](http://feedproxy.google.com/~r/Techcrunch/~3/ICoFImIYdiE/)
- - [PSA: You might want to avoid the gobs of Halo Infinite spoilers Microsoft just leaked](https://www.theverge.com/2021/7/30/22602811/halo-infinite-story-spoiler-leak-cortana-technical-preview)<!-- TECH:END -->
+ - [Best language learning apps of 2021     - CNET](https://www.cnet.com/tech/services-and-software/best-language-learning-apps/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
