@@ -171,9 +171,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [K-pop’s fandom platforms are changing what it means to be an idol](https://www.theverge.com/22589460/kpop-fan-cafe-weverse-universe-lysn-bts-idol-fandom-group)
- - [Our top picks for the best electric car in 2021     - Roadshow](https://www.cnet.com/roadshow/news/best-electric-cars-top-picks/#ftag=CAD590a51e)
- - [Telegram update enables 1,000-user audiences for group video calls](https://appleinsider.com/articles/21/07/31/telegram-update-enables-1000-user-audiences-for-group-video-calls?utm_medium=rss)<!-- TECH:END -->
+ - [Tesla's Elon Musk backs Epic, calls App Store fees a 'de facto global tax'](https://appleinsider.com/articles/21/07/30/teslas-elon-musk-backs-epic-calls-app-store-fees-a-de-facto-global-tax?utm_medium=rss)
+ - [Apple stock dip despite record earnings & Intel Mac Pro rumors - This Week in Apple](https://appleinsider.com/articles/21/07/31/why-apples-stock-dipped-despites-its-record-earnings----this-week-in-apple?utm_medium=rss)
+ - [Mega shootout: The best camera phones of 2021 so far tested](https://www.androidauthority.com/best-camera-phone-test-mid-2021-1648623)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
