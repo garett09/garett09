@@ -171,9 +171,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pittsburgh Google contractors ratify deal with HCL](http://feedproxy.google.com/~r/Techcrunch/~3/w6oP_I_1ZpM/)
- - [Here are the latest accusations Activision Blizzard employees have leveled at the company](https://www.theverge.com/2021/7/30/22602655/activision-blizzard-employees-accusations-allegations-lawsuit)
- - [Telegram's latest update adds group video calls of up to 1,000 users with 30 simultaneous broadcasts, video messages, screen sharing during video calls, more (Telegram)](http://www.techmeme.com/210730/p25#a210730p25)<!-- TECH:END -->
+ - [Google contract workers in Pittsburgh have ratified a three-year deal with their employer HCL, for higher wages and more, nearly two years after unionizing (Brian Heater/TechCrunch)](http://www.techmeme.com/210730/p27#a210730p27)
+ - [TuSimple’s self-driving truck network takes shape with Ryder partnership](http://feedproxy.google.com/~r/Techcrunch/~3/ICoFImIYdiE/)
+ - [PSA: You might want to avoid the gobs of Halo Infinite spoilers Microsoft just leaked](https://www.theverge.com/2021/7/30/22602811/halo-infinite-story-spoiler-leak-cortana-technical-preview)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
