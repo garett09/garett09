@@ -171,9 +171,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 14 Best Weekend Deals on Smartphones, Laptops, and Audio](https://www.wired.com/story/weekend-deals-july-31-2021)
- - [How to Get the Most Out of Your Meditation App](https://www.wired.com/story/how-to-get-the-most-out-of-your-meditation-app)
- - [Google Pixel 6 rumors: The latest release date, price and Whitechapel chip buzz     - CNET](https://www.cnet.com/tech/mobile/google-pixel-6-rumors-the-latest-release-date-price-and-whitechapel-chip-buzz/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Telegram update enables 1,000-user audiences for group video calls](https://appleinsider.com/articles/21/07/31/telegram-update-enables-1000-user-audiences-for-group-video-calls?utm_medium=rss)
+ - [Wisconsin-based Veda, which uses AI to automate data processing for healthcare payers and providers, raises $45M Series B led by Oak HC/FT (Teddy Nykiel/Milwaukee Business Journal)](http://www.techmeme.com/210731/p7#a210731p7)
+ - [Are iPhone buyers more loyal than Android buyers?](https://www.androidauthority.com/iphone-vs-android-loyalty-1648024)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
