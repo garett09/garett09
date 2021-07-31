@@ -171,9 +171,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Many viewers are experiencing the Olympics primarily through TikTok, with some of the most-watched videos coming not from NBC but from athletes themselves (Tatum Hunter/Washington Post)](http://www.techmeme.com/210731/p13#a210731p13)
  - [Best 0% APR credit cards for August 2021     - CNET](https://www.cnet.com/personal-finance/credit-cards/best-0-apr-credit-cards/#ftag=CAD590a51e)
- - [Native Union Rise Dock review: A modern throne for your MagSafe charger](https://appleinsider.com/articles/21/07/31/native-union-rise-dock-review-a-modern-throne-for-your-magsafe-charger?utm_medium=rss)
- - [Latest IDC numbers reiterate Apple’s dominance of tablet market](https://www.theverge.com/2021/7/31/22603371/apple-ipad-tablet-shipments-samsung-amazon-q2-2021)<!-- TECH:END -->
+ - [Native Union Rise Dock review: A modern throne for your MagSafe charger](https://appleinsider.com/articles/21/07/31/native-union-rise-dock-review-a-modern-throne-for-your-magsafe-charger?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
