@@ -171,9 +171,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Telegram update enables 1,000-user audiences for group video calls](https://appleinsider.com/articles/21/07/31/telegram-update-enables-1000-user-audiences-for-group-video-calls?utm_medium=rss)
- - [Wisconsin-based Veda, which uses AI to automate data processing for healthcare payers and providers, raises $45M Series B led by Oak HC/FT (Teddy Nykiel/Milwaukee Business Journal)](http://www.techmeme.com/210731/p7#a210731p7)
- - [Are iPhone buyers more loyal than Android buyers?](https://www.androidauthority.com/iphone-vs-android-loyalty-1648024)<!-- TECH:END -->
+ - [K-pop’s fandom platforms are changing what it means to be an idol](https://www.theverge.com/22589460/kpop-fan-cafe-weverse-universe-lysn-bts-idol-fandom-group)
+ - [Our top picks for the best electric car in 2021     - Roadshow](https://www.cnet.com/roadshow/news/best-electric-cars-top-picks/#ftag=CAD590a51e)
+ - [Telegram update enables 1,000-user audiences for group video calls](https://appleinsider.com/articles/21/07/31/telegram-update-enables-1000-user-audiences-for-group-video-calls?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
