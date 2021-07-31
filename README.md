@@ -171,9 +171,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-391-2024589)
- - [A starter pack of Nanoleaf’s stunning canvas panels is $50 off at Costco today](https://www.theverge.com/good-deals/2021/7/31/22601889/nanoleaf-canvas-light-panels-razer-nari-essential-gaming-headset-amazon-echo-buds-deal-sale)
- - [Apple removes Unjected, a social app for "unvaxxed friendly", citing COVID-19 misinfo; Unjected removed social feed from its Android app after a Google warning (Jackie Davalos/Bloomberg)](http://www.techmeme.com/210731/p9#a210731p9)<!-- TECH:END -->
+ - [Anti-vax app ejected from App Store over user content issues](https://appleinsider.com/articles/21/07/31/anti-vax-app-ejected-from-app-store-over-user-content-issues?utm_medium=rss)
+ - [The pandemic effect is slowing](http://feedproxy.google.com/~r/Techcrunch/~3/Byxenp-hVOY/)
+ - [A look at the debate over Spotify's Discovery Mode, whereby artists are prioritized for reduced royalties, a key way for Spotify to improve margins (Anna Nicolaou/Financial Times)](http://www.techmeme.com/210731/p10#a210731p10)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
