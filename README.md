@@ -171,9 +171,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix: The 40 best TV shows to watch tonight     - CNET](https://www.cnet.com/news/netflix-the-40-best-tv-shows-to-watch-tonight/#ftag=CAD590a51e)
- - [Google pairs Stadia Controller and Chromecast as $100 ‘play and watch’ bundle](https://www.theverge.com/2021/7/31/22603498/google-stadia-controller-chromecast-play-watch-bundle)
- - [Apple Music, iTunes Store, App Store hit by outages](https://appleinsider.com/articles/21/07/31/apple-music-itunes-store-app-store-hit-by-outages?utm_medium=rss)<!-- TECH:END -->
+ - [The Flight Attendant season 2: Everything we know about the HBO Max series](https://www.androidauthority.com/flight-attendant-season-2-hbo-max-1647588)
+ - [How Apple became an "antifragile" company, by building a diverse portfolio of products and performing even stronger during the pandemic than it did before (Josh Centers/TidBITS)](http://www.techmeme.com/210731/p12#a210731p12)
+ - [Netflix: The 40 best TV shows to watch tonight     - CNET](https://www.cnet.com/news/netflix-the-40-best-tv-shows-to-watch-tonight/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
