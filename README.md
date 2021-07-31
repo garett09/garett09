@@ -178,9 +178,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A day worth to remember](http://9gag.com/gag/aoM6EA3)
- - 🚯 [Western society goes brrrrr](http://9gag.com/gag/abVoX7E)
- - 🚯 [A rainstorm in Alabama outside of a factory.](http://9gag.com/gag/aXozb5b)<!-- MEMES:END -->
+ - 🚖 [Let me blob for you](http://9gag.com/gag/aLp3Kzv)
+ - 🚯 [In the 1930s you could buy fake snow made of 100% asbestos](http://9gag.com/gag/a8E9WX1)
+ - 🚯 [Western society goes brrrrr](http://9gag.com/gag/abVoX7E)<!-- MEMES:END -->
 
 --- 
 
