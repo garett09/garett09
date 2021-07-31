@@ -171,9 +171,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Actor Bob Odenkirk says he had a heart attack, but will 'be back soon'     - CNET](https://www.cnet.com/news/actor-bob-odenkirk-says-he-had-a-heart-attack-but-will-be-back-soon/#ftag=CAD590a51e)
- - [Wyze Labs, which makes devices like smart security cameras, robot vacuums, and smartwatches, raises $110M Series B led by Marcy Venture Partners (Kurt Schlosser/GeekWire)](http://www.techmeme.com/210730/p28#a210730p28)
- - [Google contract workers in Pittsburgh have ratified a three-year deal with their employer HCL, for higher wages and more, nearly two years after unionizing (Brian Heater/TechCrunch)](http://www.techmeme.com/210730/p27#a210730p27)<!-- TECH:END -->
+ - [Vietnam-based VNLife, the parent company of VNPay, which helps banks provide mobile payment apps and other digital services, raises $250M at a valuation of $1B+ (Nikkei Asia)](http://www.techmeme.com/210731/p1#a210731p1)
+ - [Educational publisher Pearson says it is switching to a subscription model for all of its 1,500 titles, available for $14.99/month through its new Pearson+ app (Financial Times)](http://www.techmeme.com/210730/p30#a210730p30)
+ - [The Justice Department says 27 US Attorney offices had at least one employee's Microsoft email account breached by Russian hackers from May 7 to Dec. 27, 2020 (Associated Press)](http://www.techmeme.com/210730/p29#a210730p29)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
