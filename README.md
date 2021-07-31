@@ -164,9 +164,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Crapshoot: The Russian Leisure Suit Larry with a 'sexy' Tetris minigame](https://www.pcgamer.com/saturday-crapshoot-gag)
  - [Halo Infinite's bot names are kind of great](https://www.pcgamer.com/halo-infinites-bot-names-are-kind-of-great)
- - [I'm pleased to report that Halo Infinite's needler whips ass](https://www.pcgamer.com/im-pleased-to-report-that-halo-infinites-needler-whips-ass)
- - [Uh oh, Halo Infinite campaign details are leaking from the tech test](https://www.pcgamer.com/uh-oh-halo-infinite-campaign-details-are-leaking-from-the-tech-test)<!-- GAME:END -->
+ - [I'm pleased to report that Halo Infinite's needler whips ass](https://www.pcgamer.com/im-pleased-to-report-that-halo-infinites-needler-whips-ass)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
