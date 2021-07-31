@@ -178,9 +178,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [So,&nbsp;how was work&nbsp;today?](http://9gag.com/gag/axMex3n)
+ - 🚖 [Nothing to see here](http://9gag.com/gag/aXom5jg)
  - 🚯 [Intensive Bonk](http://9gag.com/gag/ad8W30D)
- - 🚯 [Nothing to see here](http://9gag.com/gag/aXom5jg)<!-- MEMES:END -->
+ - 🚯 [I dont think it was postet yet here](http://9gag.com/gag/a8EvrRV)<!-- MEMES:END -->
 
 --- 
 
