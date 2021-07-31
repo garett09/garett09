@@ -164,9 +164,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Let's Rank The Main Resident Evil Games, From Worst To Best](https://kotaku.com/lets-rank-the-main-resident-evil-games-from-worst-to-b-1847399290)
- - [Adata XPG Gammix S50 Lite 2TB SSD review](https://www.pcgamer.com/adata-xpg-gammix-s50-lite-2tb-ssd-review)
- - [The world’s biggest tournament for the world’s longest board game](https://www.polygon.com/tabletop-games/22600004/twilight-imperium-tournament-video-space-cats-peace-turtles)<!-- GAME:END -->
+ - [How Blizzard's reputation collapsed in just 3 years](https://www.pcgamer.com/how-blizzards-reputation-collapsed-in-just-3-years)
+ - [Ubisoft And Bungie Suing Popular Cheat Seller](https://kotaku.com/ubisoft-and-bungie-suing-popular-cheat-seller-ring-1-1847400740)
+ - [Let's Rank The Main Resident Evil Games, From Worst To Best](https://kotaku.com/lets-rank-the-main-resident-evil-games-from-worst-to-b-1847399290)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
