@@ -164,9 +164,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Let's Rank The Main Resident Evil Games, From Worst To Best](https://kotaku.com/lets-rank-the-main-resident-evil-games-from-worst-to-b-1847399290)
  - [Adata XPG Gammix S50 Lite 2TB SSD review](https://www.pcgamer.com/adata-xpg-gammix-s50-lite-2tb-ssd-review)
- - [The world’s biggest tournament for the world’s longest board game](https://www.polygon.com/tabletop-games/22600004/twilight-imperium-tournament-video-space-cats-peace-turtles)
- - [Gengar Is A Scary Prankster That Loves To Kill](https://kotaku.com/gengar-is-a-scary-prankster-that-loves-to-kill-1847394672)<!-- GAME:END -->
+ - [The world’s biggest tournament for the world’s longest board game](https://www.polygon.com/tabletop-games/22600004/twilight-imperium-tournament-video-space-cats-peace-turtles)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
