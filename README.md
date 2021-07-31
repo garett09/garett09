@@ -171,9 +171,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Music, iTunes Store, App Store hit by outages [u]](https://appleinsider.com/articles/21/07/31/apple-music-itunes-store-app-store-hit-by-outages?utm_medium=rss)
  - [Many viewers are experiencing the Olympics primarily through TikTok, with some of the most-watched videos coming not from NBC but from athletes themselves (Tatum Hunter/Washington Post)](http://www.techmeme.com/210731/p13#a210731p13)
- - [Best 0% APR credit cards for August 2021     - CNET](https://www.cnet.com/personal-finance/credit-cards/best-0-apr-credit-cards/#ftag=CAD590a51e)
- - [Native Union Rise Dock review: A modern throne for your MagSafe charger](https://appleinsider.com/articles/21/07/31/native-union-rise-dock-review-a-modern-throne-for-your-magsafe-charger?utm_medium=rss)<!-- TECH:END -->
+ - [SolarWinds hackers nailed federal prosecutors' offices, Department of Justice says     - CNET](https://www.cnet.com/tech/services-and-software/solarwinds-hackers-nailed-federal-prosecutors-offices-department-of-justice-says/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
