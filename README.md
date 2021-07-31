@@ -178,9 +178,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Not because you&#039;re a rabbit](http://9gag.com/gag/aGpqYZ7)
- - 🚯 [Accurate as F*CK](http://9gag.com/gag/av5V2md)
- - 🚯 [Bro Chill Plz](http://9gag.com/gag/aO3OonR)<!-- MEMES:END -->
+ - 🚖 [Joanna Connor shredding the guitar](http://9gag.com/gag/aeAEjzB)
+ - 🚯 [Algae Infested Pool Gets Cleaned](http://9gag.com/gag/a1rnp9w)
+ - 🚯 [A teacher of culture](http://9gag.com/gag/aMK62gX)<!-- MEMES:END -->
 
 --- 
 
