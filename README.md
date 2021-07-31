@@ -178,9 +178,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [GREEN SHIRT GUY!! THE HERO WE NEED](http://9gag.com/gag/aB2MKKA)
+ - 🚖 [Cats are royalty in HK](http://9gag.com/gag/aGpqVM7)
  - 🚯 [In the 1930s you could buy fake snow made of 100% asbestos](http://9gag.com/gag/a8E9WX1)
- - 🚯 [A teacher of culture](http://9gag.com/gag/aMK62gX)<!-- MEMES:END -->
+ - 🚯 [Don&#039;t worry, be happy #3](http://9gag.com/gag/aqjOmRR)<!-- MEMES:END -->
 
 --- 
 
