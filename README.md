@@ -178,9 +178,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Painted this doggo a while back, hope you like it! How can we name that good boy?](http://9gag.com/gag/azMzL4m)
- - 🚯 [Guys, I think I&#039;ve just found the best way to die.](http://9gag.com/gag/a1rnZp6)
- - 🚯 [In the middle of difficulty&hellip; lies opportunity](http://9gag.com/gag/abVoqpO)<!-- MEMES:END -->
+ - 🚖 [Amazon workers start their day, 2016.](http://9gag.com/gag/aMK6rPA)
+ - 🚯 [Painted this doggo a while back, hope you like it! How can we name that good boy?](http://9gag.com/gag/azMzL4m)
+ - 🚯 [I&#039;ve never done this before. So I took days off work just to travel around my country. First time building a tent and it worked out just fine. Cheers guys.](http://9gag.com/gag/a4E8dgm)<!-- MEMES:END -->
 
 --- 
 
