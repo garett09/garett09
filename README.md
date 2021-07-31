@@ -178,9 +178,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [He&#039;s out of line but he&#039;s right](http://9gag.com/gag/aeAEKEp)
- - 🚯 [I dont think it was postet yet here](http://9gag.com/gag/a8EvrRV)
- - 🚯 [Bro Chill Plz](http://9gag.com/gag/aO3OonR)<!-- MEMES:END -->
+ - 🚖 [I dont think it was postet yet here](http://9gag.com/gag/a8EvrRV)
+ - 🚯 [Go to be a b*tch over there!!!!](http://9gag.com/gag/a27VEOZ)
+ - 🚯 [I can sleep now](http://9gag.com/gag/aNpXmzr)<!-- MEMES:END -->
 
 --- 
 
