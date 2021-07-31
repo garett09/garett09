@@ -164,9 +164,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Game Industry Women Need You To Stop Defining Them By Their Trauma](https://kotaku.com/the-kick-ass-shit-women-in-the-game-industry-dont-get-e-1847397963)
- - [Valve says Steam Machines were 'a good idea' that helped make Steam Deck possible](https://www.pcgamer.com/valve-says-steam-machines-were-a-good-idea-that-helped-make-steam-deck-possible)
- - [Black Woman Says Goodbye To Kotaku](https://kotaku.com/black-woman-says-goodbye-to-kotaku-1847398013)<!-- GAME:END -->
+ - [I'm pleased to report that Halo Infinite's needler whips ass](https://www.pcgamer.com/im-pleased-to-report-that-halo-infinites-needler-whips-ass)
+ - [Uh oh, Halo Infinite campaign details are leaking from the tech test](https://www.pcgamer.com/uh-oh-halo-infinite-campaign-details-are-leaking-from-the-tech-test)
+ - [Hexes never looked as beautiful as they do in the Hexoplanet trailer](https://www.pcgamer.com/hexes-never-looked-as-beautiful-as-they-do-in-the-hexoplanet-trailer)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
