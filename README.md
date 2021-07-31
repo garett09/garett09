@@ -164,9 +164,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Destiny 2’s story is heating up with a compelling political allegory](https://www.polygon.com/22599987/destiny-2-lore-explainer-season-of-the-splicer-witch-queen)
- - [The best anime of 2021, so far](https://www.polygon.com/22594587/best-anime-2021)
- - [Crapshoot: The Russian Leisure Suit Larry with a 'sexy' Tetris minigame](https://www.pcgamer.com/saturday-crapshoot-gag)<!-- GAME:END -->
+ - [Adata XPG Gammix S50 Lite 2TB SSD review](https://www.pcgamer.com/adata-xpg-gammix-s50-lite-2tb-ssd-review)
+ - [The world’s biggest tournament for the world’s longest board game](https://www.polygon.com/tabletop-games/22600004/twilight-imperium-tournament-video-space-cats-peace-turtles)
+ - [Gengar Is A Scary Prankster That Loves To Kill](https://kotaku.com/gengar-is-a-scary-prankster-that-loves-to-kill-1847394672)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
