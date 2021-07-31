@@ -171,9 +171,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tesla's Elon Musk backs Epic, calls App Store fees a 'de facto global tax'](https://appleinsider.com/articles/21/07/30/teslas-elon-musk-backs-epic-calls-app-store-fees-a-de-facto-global-tax?utm_medium=rss)
- - [Apple stock dip despite record earnings & Intel Mac Pro rumors - This Week in Apple](https://appleinsider.com/articles/21/07/31/why-apples-stock-dipped-despites-its-record-earnings----this-week-in-apple?utm_medium=rss)
- - [Mega shootout: The best camera phones of 2021 so far tested](https://www.androidauthority.com/best-camera-phone-test-mid-2021-1648623)<!-- TECH:END -->
+ - [Spotify and Apple Music need to recruit more indies to corner the market](https://www.androidauthority.com/spotify-apple-indie-artists-1648712)
+ - [This Week in Apps: Instagram restricts teens’ accounts, Elon Musk criticizes App Store fees, Google Play’s new policies](http://feedproxy.google.com/~r/Techcrunch/~3/VH5zqEWVVCI/)
+ - [Bring your own environment: The future of work](http://feedproxy.google.com/~r/Techcrunch/~3/r4smanOyt-I/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
