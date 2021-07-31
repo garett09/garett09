@@ -171,9 +171,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Flight Attendant season 2: Everything we know about the HBO Max series](https://www.androidauthority.com/flight-attendant-season-2-hbo-max-1647588)
- - [How Apple became an "antifragile" company, by building a diverse portfolio of products and performing even stronger during the pandemic than it did before (Josh Centers/TidBITS)](http://www.techmeme.com/210731/p12#a210731p12)
- - [Netflix: The 40 best TV shows to watch tonight     - CNET](https://www.cnet.com/news/netflix-the-40-best-tv-shows-to-watch-tonight/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best 0% APR credit cards for August 2021     - CNET](https://www.cnet.com/personal-finance/credit-cards/best-0-apr-credit-cards/#ftag=CAD590a51e)
+ - [Native Union Rise Dock review: A modern throne for your MagSafe charger](https://appleinsider.com/articles/21/07/31/native-union-rise-dock-review-a-modern-throne-for-your-magsafe-charger?utm_medium=rss)
+ - [Latest IDC numbers reiterate Apple’s dominance of tablet market](https://www.theverge.com/2021/7/31/22603371/apple-ipad-tablet-shipments-samsung-amazon-q2-2021)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
