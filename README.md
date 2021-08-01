@@ -178,9 +178,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hypocrisy](http://9gag.com/gag/aoM6OWx)
- - 🚯 [Here&#039;s what occurs inside the saw when the brake is activated. When skin contact is detected, a 150-pound spring deploys an aluminum brake into the blade path, bringing it to a halt in 5 milliseconds or less.](http://9gag.com/gag/aAb7DeE)
- - 🚯 [This sparks joy.](http://9gag.com/gag/aQoKMWq)<!-- MEMES:END -->
+ - 🚖 [Friendly fire](http://9gag.com/gag/av5VG0Z)
+ - 🚯 [This pretty athlete (Kristina Timanowskaja) is now prosecuted by the Belarussian Olympic Comitee for criticizing the political situation in her country. Belarus wants to bring her home by force. Let&#039;s hope she is fine...](http://9gag.com/gag/aLp3jKx)
+ - 🚯 [Madlad from 1993](http://9gag.com/gag/a9EeAP6)<!-- MEMES:END -->
 
 --- 
 
