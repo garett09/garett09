@@ -171,9 +171,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to Make the Air in Your Home More Breathable](https://www.wired.com/story/when-to-use-air-purifier-dehumidiers-humidifiers)
- - [A Guide to RCS, and Why It Makes Texting So Much Better](https://www.wired.com/story/guide-to-rcs-why-it-makes-texting-better)
- - [Weekly Authority: Edition #153](https://www.androidauthority.com/newsletters/weekly-authority-august-1)<!-- TECH:END -->
+ - [How the radical environmental themes of the game Final Fantasy VII, released in 1997 for the original PlayStation, influenced a generation of environmentalists (Stephen K. Hirst/Ars Technica)](http://www.techmeme.com/210801/p8#a210801p8)
+ - [It’s high time that all iPhones had zoom cameras](https://www.androidauthority.com/apple-iphone-camera-zoom-1647373)
+ - [Prolific identity thief used Apple Pay to steal from Apple Stores in the Apple Crime Blotter](https://appleinsider.com/articles/21/08/01/prolific-identity-thief-used-apple-pay-to-steal-from-apple-stores-in-the-apple-crime-blotter?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
