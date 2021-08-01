@@ -171,9 +171,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft is avoiding antitrust scrutiny by rebranding itself as nice and boring, even as it reverts to some of the behaviors that led to prosecution the '90s (Molly Wood/The Atlantic)](http://www.techmeme.com/210731/p14#a210731p14)
  - [Apple Music, iTunes Store, App Store hit by outages [u]](https://appleinsider.com/articles/21/07/31/apple-music-itunes-store-app-store-hit-by-outages?utm_medium=rss)
- - [Many viewers are experiencing the Olympics primarily through TikTok, with some of the most-watched videos coming not from NBC but from athletes themselves (Tatum Hunter/Washington Post)](http://www.techmeme.com/210731/p13#a210731p13)
- - [SolarWinds hackers nailed federal prosecutors' offices, Department of Justice says     - CNET](https://www.cnet.com/tech/services-and-software/solarwinds-hackers-nailed-federal-prosecutors-offices-department-of-justice-says/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Many viewers are experiencing the Olympics primarily through TikTok, with some of the most-watched videos coming not from NBC but from athletes themselves (Tatum Hunter/Washington Post)](http://www.techmeme.com/210731/p13#a210731p13)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
