@@ -164,9 +164,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [GTA GeoGuesser Is For Folks Who Don't Know Much About The Real World, But Have GTA Online Memorized](https://kotaku.com/gta-geoguesser-is-for-folks-who-dont-know-much-about-th-1847401941)
  - [Every movie and show coming to Netflix in August](https://www.polygon.com/22598110/new-netflix-movies-tv-shows-watch-august-2021)
- - [Sunday Comics: Job Well Done!](https://kotaku.com/sunday-comics-job-well-done-1847401906)
- - [This week in PC Gaming: Apex Season 10, Evo 2021 Online, and Death Trash](https://www.pcgamer.com/this-week-in-pc-gaming-apex-season-10-evo-2021-online-and-death-trash)<!-- GAME:END -->
+ - [Sunday Comics: Job Well Done!](https://kotaku.com/sunday-comics-job-well-done-1847401906)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
