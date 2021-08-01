@@ -164,9 +164,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Halo Infinite's Bots Are Impressive (And Making Me Nervous)](https://kotaku.com/halo-infinites-bots-are-impressive-and-making-me-nervo-1847403991)
- - [Ariana Grande will have a virtual concert in Fortnite](https://www.polygon.com/fortnite/22598845/fortnite-ariana-grande-concert-rift-tour-event-dates-times)
- - [It's GeoGuesser, But In GTA Online](https://kotaku.com/gta-geoguesser-is-for-folks-who-dont-know-much-about-th-1847401941)<!-- GAME:END -->
+ - [Every new movie and show coming to Disney Plus in August](https://www.polygon.com/disney-plus/22598121/disney-plus-new-movies-tv-watch-august-2021)
+ - [Fortnite's Next Big In-Game Concert Stars Ariana Grande](https://kotaku.com/fortnites-next-big-in-game-concert-stars-ariana-grande-1847404400)
+ - [Halo Infinite's Bots Are Impressive (And Making Me Nervous)](https://kotaku.com/halo-infinites-bots-are-impressive-and-making-me-nervo-1847403991)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
