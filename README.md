@@ -171,9 +171,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deals: Save $120 to $150 on Apple's M1 MacBook Pro with 16GB RAM](https://appleinsider.com/articles/21/07/29/deals-save-120-to-150-on-apples-m1-macbook-pro-with-16gb-ram?utm_medium=rss)
- - [Mercury, which offers banking services to startups, raises $120M Series B, including a $5M allotment for crowdfunding, led by Coatue at a $1.62B valuation (Joe Burns/FinLedger)](http://www.techmeme.com/210731/p16#a210731p16)
- - [Best rewards credit cards for August 2021     - CNET](https://www.cnet.com/personal-finance/credit-cards/best-rewards-credit-card/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Replicated, which sells tools that help software makers create and deploy on-premises versions of their applications, raises $50M Series C led by Owl Rock (Mike Wheatley/SiliconANGLE)](http://www.techmeme.com/210801/p3#a210801p3)
+ - [Cyolo, which is developing zero trust security tech to enable users to securely access their organization's apps, servers, and files, raises $21M Series A (Kyle Wiggers/VentureBeat)](http://www.techmeme.com/210801/p2#a210801p2)
+ - [Medical imaging startup Exo, which aims to commercialize its AI-powered point-of-care workflow software and handheld ultrasound device, raises $220M Series C (Christine Hall/TechCrunch)](http://www.techmeme.com/210801/p1#a210801p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
