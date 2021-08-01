@@ -178,9 +178,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [*sad low-income houses violin instrument](http://9gag.com/gag/aV78eYw)
- - 🚯 [Thats a decent breakfast in northern Germany...](http://9gag.com/gag/aO3Od02)
- - 🚯 [Taking it to the next level](http://9gag.com/gag/abVo6rp)<!-- MEMES:END -->
+ - 🚖 [Don&#039;t see this everyday at beach](http://9gag.com/gag/amPyr2d)
+ - 🚯 [Taking it to the next level](http://9gag.com/gag/abVo6rp)
+ - 🚯 [Finally someone who gets it.](http://9gag.com/gag/aV78DjP)<!-- MEMES:END -->
 
 --- 
 
