@@ -171,9 +171,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Replicated, which sells tools that help software makers create and deploy on-premises versions of their applications, raises $50M Series C led by Owl Rock (Mike Wheatley/SiliconANGLE)](http://www.techmeme.com/210801/p3#a210801p3)
- - [Cyolo, which is developing zero trust security tech to enable users to securely access their organization's apps, servers, and files, raises $21M Series A (Kyle Wiggers/VentureBeat)](http://www.techmeme.com/210801/p2#a210801p2)
- - [Medical imaging startup Exo, which aims to commercialize its AI-powered point-of-care workflow software and handheld ultrasound device, raises $220M Series C (Christine Hall/TechCrunch)](http://www.techmeme.com/210801/p1#a210801p1)<!-- TECH:END -->
+ - [After a decade of online identities coming under increasingly centralized control, online anonymity is starting to look like a threatened privilege than a right (John Herrman/New York Times)](http://www.techmeme.com/210801/p7#a210801p7)
+ - [Qualtrics to acquire Virginia-based Clarabridge, which offers AI-powered customer experience management tools, for $1.125B in stock (Stephen Nellis/Reuters)](http://www.techmeme.com/210801/p6#a210801p6)
+ - [SolCyber, which offers endpoint detection and response services, comes out of stealth with $20M Series A led by ForgePoint Capital (Kyle Wiggers/VentureBeat)](http://www.techmeme.com/210801/p5#a210801p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
