@@ -178,9 +178,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Helpful hedgehog at the Tokyo Olympics](http://9gag.com/gag/aB2MroD)
- - 🚯 [When New Yorkers hear a violin before corona](http://9gag.com/gag/agBbNRn)
- - 🚯 [Dental composite resins allow for the seamless repair of a large hole in a tooth](http://9gag.com/gag/anQ3BKo)<!-- MEMES:END -->
+ - 🚖 [Saw the english breakfast, which looks breathtaking, so I present you the costa rican breakfast](http://9gag.com/gag/axM8jzL)
+ - 🚯 [Dental composite resins allow for the seamless repair of a large hole in a tooth](http://9gag.com/gag/anQ3BKo)
+ - 🚯 [When New Yorkers hear a violin before corona](http://9gag.com/gag/agBbNRn)<!-- MEMES:END -->
 
 --- 
 
