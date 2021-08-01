@@ -178,9 +178,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Madlad from 1993](http://9gag.com/gag/a9EeAP6)
- - 🚯 [The chair did not pass the test](http://9gag.com/gag/aLp3MVW)
- - 🚯 [Update on my sister practicing for the 4th of August.](http://9gag.com/gag/anQ3yKL)<!-- MEMES:END -->
+ - 🚖 [Update on my sister practicing for the 4th of August.](http://9gag.com/gag/anQ3yKL)
+ - 🚯 [Mutaz Essa Barshim and Gianmarco Tamberi decide to share the Gold Medal in the men&#039;s high jump final at the Olympics](http://9gag.com/gag/aB2MW0Q)
+ - 🚯 [Madlad from 1993](http://9gag.com/gag/a9EeAP6)<!-- MEMES:END -->
 
 --- 
 
