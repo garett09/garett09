@@ -178,9 +178,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Weird reference stuff](http://9gag.com/gag/anQ3BwL)
- - 🚯 [Invasion of D-day](http://9gag.com/gag/aV78P3P)
- - 🚯 [High kick](http://9gag.com/gag/a6EzyXb)<!-- MEMES:END -->
+ - 🚖 [Helpful hedgehog at the Tokyo Olympics](http://9gag.com/gag/aB2MroD)
+ - 🚯 [When New Yorkers hear a violin before corona](http://9gag.com/gag/agBbNRn)
+ - 🚯 [Dental composite resins allow for the seamless repair of a large hole in a tooth](http://9gag.com/gag/anQ3BKo)<!-- MEMES:END -->
 
 --- 
 
