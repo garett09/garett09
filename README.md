@@ -171,9 +171,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Leaked Galaxy Watch photos show Samsung and Google’s new smartwatch OS on an actual device](https://www.theverge.com/2021/8/1/22604862/samsung-galaxy-watch-photos-images-leaked-classic-4-wear-smartwatch-os-google)
- - [Some K-pop stars are bypassing Twitter and Facebook to create platforms for fans, like Universe, which features AI-generated voice calls with the idols (Stitch/The Verge)](http://www.techmeme.com/210801/p11#a210801p11)
- - [Thunderbolt 5 details leak via deleted Twitter photo by Intel executive](https://appleinsider.com/articles/21/08/01/thunderbolt-5-details-leak-via-deleted-twitter-photo-by-intel-executive?utm_medium=rss)<!-- TECH:END -->
+ - [Report: Facebook, Twitter, Instagram, YouTube, and TikTok failed to act on 84% of posts spreading anti-Semitism reported via their own complaint systems (Maya Wolfe-Robinson/The Guardian)](http://www.techmeme.com/210801/p13#a210801p13)
+ - [Square to buy Afterpay, which offers a ‘buy now, pay later’ service, for $29 billion in stock](https://www.theverge.com/2021/8/1/22605025/square-afterpay-acquisition-buy-now-pay-later-service-29-billion-stock)
+ - [Square says it's buying Australia-based buy now, pay later service Afterpay for $29B in an all-stock deal, paying a 30% premium on Afterpay's last closing (Reuters)](http://www.techmeme.com/210801/p12#a210801p12)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
