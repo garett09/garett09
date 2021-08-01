@@ -164,9 +164,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Final Fantasy 14 icon changed after complaints from players with trypophobia](https://www.pcgamer.com/final-fantasy-14-icon-changed-after-complaints-from-players-with-trypophobia)
  - [No Longer Home understands the mythology of the student flat](https://www.pcgamer.com/no-longer-home-understands-the-mythology-of-the-student-flat)
- - [Jungle Cruise is a milestone for Dwayne Johnson that will also shape his future](https://www.polygon.com/22603234/jungle-cruise-dwayne-johnson-pirates-disney)
- - [What's a game you like to play while doing or watching something else?](https://www.pcgamer.com/whats-a-game-you-like-to-play-while-doing-or-watching-something-else)<!-- GAME:END -->
+ - [Jungle Cruise is a milestone for Dwayne Johnson that will also shape his future](https://www.polygon.com/22603234/jungle-cruise-dwayne-johnson-pirates-disney)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
