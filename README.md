@@ -178,9 +178,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Women&#039;s Olympic 2050 be like...](http://9gag.com/gag/a5EAr4y)
- - 🚯 [Taking it to the next level](http://9gag.com/gag/abVo6rp)
- - 🚯 [How old are You?](http://9gag.com/gag/awMDVL1)<!-- MEMES:END -->
+ - 🚖 [*sad low-income houses violin instrument](http://9gag.com/gag/aV78eYw)
+ - 🚯 [Thats a decent breakfast in northern Germany...](http://9gag.com/gag/aO3Od02)
+ - 🚯 [Taking it to the next level](http://9gag.com/gag/abVo6rp)<!-- MEMES:END -->
 
 --- 
 
