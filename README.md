@@ -178,9 +178,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Don&#039;t see this everyday at beach](http://9gag.com/gag/amPyr2d)
- - 🚯 [Women&#039;s Olympic 2050 be like...](http://9gag.com/gag/a5EAr4y)
- - 🚯 [What are you going to spot next](http://9gag.com/gag/a1rnXRD)<!-- MEMES:END -->
+ - 🚖 [Women&#039;s Olympic 2050 be like...](http://9gag.com/gag/a5EAr4y)
+ - 🚯 [Taking it to the next level](http://9gag.com/gag/abVo6rp)
+ - 🚯 [How old are You?](http://9gag.com/gag/awMDVL1)<!-- MEMES:END -->
 
 --- 
 
