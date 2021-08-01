@@ -171,9 +171,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best deals for August 1 -- $149 Magic Keyboard, Lego Bonsai, SanDisk Portable SSD, and more!](https://appleinsider.com/articles/21/08/01/best-deals-for-august-1----149-magic-keyboard-lego-bonsai-sandisk-portable-ssd-and-more?utm_medium=rss)
- - [AT&T’s 5G network is ready for Stadia, even if Stadia isn’t ready for mobile](https://www.androidauthority.com/stadia-5g-att-1660303)
- - [Profile of Bored Ape Yacht Club, an NFT collection that sold for $2M+ in April, spawned a collector community, and has since seen ~$100M in trading activity (Kyle Chayka/New Yorker)](http://www.techmeme.com/210801/p9#a210801p9)<!-- TECH:END -->
+ - [Ariana Grande is headlining Fortnite’s next concert series](https://www.theverge.com/2021/8/1/22602826/ariana-grande-fortnite-rift-tour-concert-epic-games)
+ - [Zoom agrees to pay $85M and bolster its security practices to settle a class action lawsuit over alleged user privacy violations and Zoombombing (Jonathan Stempel/Reuters)](http://www.techmeme.com/210801/p10#a210801p10)
+ - [Watch a young Kurt Russell become a teen cyborg on Disney Plus](https://www.androidauthority.com/the-computer-wore-tennis-shoes-disney-plus-1648111)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
