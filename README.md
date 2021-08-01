@@ -164,9 +164,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [This week in PC Gaming: Apex Season 10, Evo 2021 Online, and Death Trash](https://www.pcgamer.com/this-week-in-pc-gaming-apex-season-10-evo-2021-online-and-death-trash)
  - [Guilty Gear Strive proves the series had to change to survive](https://www.polygon.com/22602443/guilty-gear-strive-arc-system-works-impressions)
- - [Final Fantasy 14 icon changed after complaints from players with trypophobia](https://www.pcgamer.com/final-fantasy-14-icon-changed-after-complaints-from-players-with-trypophobia)
- - [No Longer Home understands the mythology of the student flat](https://www.pcgamer.com/no-longer-home-understands-the-mythology-of-the-student-flat)<!-- GAME:END -->
+ - [Final Fantasy 14 icon changed after complaints from players with trypophobia](https://www.pcgamer.com/final-fantasy-14-icon-changed-after-complaints-from-players-with-trypophobia)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
