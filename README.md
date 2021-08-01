@@ -178,9 +178,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Watch out!](http://9gag.com/gag/amPyLEX)
- - 🚯 [The best fandom](http://9gag.com/gag/aK6yPZ3)
- - 🚯 [Helpful hedgehog at the Tokyo Olympics](http://9gag.com/gag/aB2MroD)<!-- MEMES:END -->
+ - 🚖 [Weird reference stuff](http://9gag.com/gag/anQ3BwL)
+ - 🚯 [Invasion of D-day](http://9gag.com/gag/aV78P3P)
+ - 🚯 [High kick](http://9gag.com/gag/a6EzyXb)<!-- MEMES:END -->
 
 --- 
 
