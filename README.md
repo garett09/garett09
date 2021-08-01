@@ -164,9 +164,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This week in PC Gaming: Apex Season 10, Evo 2021 Online, and Death Trash](https://www.pcgamer.com/this-week-in-pc-gaming-apex-season-10-evo-2021-online-and-death-trash)
- - [Guilty Gear Strive proves the series had to change to survive](https://www.polygon.com/22602443/guilty-gear-strive-arc-system-works-impressions)
- - [Final Fantasy 14 icon changed after complaints from players with trypophobia](https://www.pcgamer.com/final-fantasy-14-icon-changed-after-complaints-from-players-with-trypophobia)<!-- GAME:END -->
+ - [Every movie and show coming to Netflix in August](https://www.polygon.com/22598110/new-netflix-movies-tv-shows-watch-august-2021)
+ - [Sunday Comics: Job Well Done!](https://kotaku.com/sunday-comics-job-well-done-1847401906)
+ - [This week in PC Gaming: Apex Season 10, Evo 2021 Online, and Death Trash](https://www.pcgamer.com/this-week-in-pc-gaming-apex-season-10-evo-2021-online-and-death-trash)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
