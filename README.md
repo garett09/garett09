@@ -178,9 +178,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Taking it to the next level](http://9gag.com/gag/abVo6rp)
- - 🚯 [That catch tho..](http://9gag.com/gag/apNXrvD)
- - 🚯 [The chair did not pass the test](http://9gag.com/gag/aLp3MVW)<!-- MEMES:END -->
+ - 🚖 [Madlad from 1993](http://9gag.com/gag/a9EeAP6)
+ - 🚯 [The chair did not pass the test](http://9gag.com/gag/aLp3MVW)
+ - 🚯 [Update on my sister practicing for the 4th of August.](http://9gag.com/gag/anQ3yKL)<!-- MEMES:END -->
 
 --- 
 
