@@ -178,9 +178,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Really](http://9gag.com/gag/a5EA7Oo)
- - 🚯 [What do you have?](http://9gag.com/gag/aEpbnMK)
- - 🚯 [Squeezing farts out of a baby](http://9gag.com/gag/axM8DNp)<!-- MEMES:END -->
+ - 🚖 [Does the baton have nuclear energy?](http://9gag.com/gag/aMK6GY6)
+ - 🚯 [Squeezing farts out of a baby](http://9gag.com/gag/axM8DNp)
+ - 🚯 [How old are You?](http://9gag.com/gag/awMDVL1)<!-- MEMES:END -->
 
 --- 
 
