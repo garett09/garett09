@@ -178,9 +178,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Balanced...](http://9gag.com/gag/aQoKxBq)
- - 🚯 [Taking it to the next level](http://9gag.com/gag/abVo6rp)
- - 🚯 [Qatari and Italian high jumpers Mutaz Barsham and Gianmarco Tamberi are approached about a high-jump tiebreaker jump-off&hellip; but agree to share Olympic gold. The true essence of sportsmanship](http://9gag.com/gag/arM0bBK)<!-- MEMES:END -->
+ - 🚖 [Taking it to the next level](http://9gag.com/gag/abVo6rp)
+ - 🚯 [That catch tho..](http://9gag.com/gag/apNXrvD)
+ - 🚯 [The chair did not pass the test](http://9gag.com/gag/aLp3MVW)<!-- MEMES:END -->
 
 --- 
 
