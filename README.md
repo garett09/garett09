@@ -178,9 +178,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [That&#039;s it...](http://9gag.com/gag/amPyzGV)
- - 🚯 [I honestly prefer the rooster](http://9gag.com/gag/aV78ezM)
- - 🚯 [Sarah Andersen, the creator of Sarah Scribbles Comic.](http://9gag.com/gag/azMzjwq)<!-- MEMES:END -->
+ - 🚖 [Sarah Andersen, the creator of Sarah Scribbles Comic.](http://9gag.com/gag/azMzjwq)
+ - 🚯 [Finally someone who gets it.](http://9gag.com/gag/aV78DjP)
+ - 🚯 [I honestly prefer the rooster](http://9gag.com/gag/aV78ezM)<!-- MEMES:END -->
 
 --- 
 
