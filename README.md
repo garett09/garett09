@@ -178,9 +178,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Dental composite resins allow for the seamless repair of a large hole in a tooth](http://9gag.com/gag/anQ3BKo)
- - 🚯 [Amazon workers start their day, 2016.](http://9gag.com/gag/aMK6rPA)
- - 🚯 [Ok, hear me out...](http://9gag.com/gag/ad8M6mM)<!-- MEMES:END -->
+ - 🚖 [Amazon workers start their day, 2016.](http://9gag.com/gag/aMK6rPA)
+ - 🚯 [Ok, hear me out...](http://9gag.com/gag/ad8M6mM)
+ - 🚯 [Watch out!](http://9gag.com/gag/amPyLEX)<!-- MEMES:END -->
 
 --- 
 
