@@ -178,9 +178,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Sarah Andersen, the creator of Sarah Scribbles Comic.](http://9gag.com/gag/azMzjwq)
- - 🚯 [Finally someone who gets it.](http://9gag.com/gag/aV78DjP)
- - 🚯 [I honestly prefer the rooster](http://9gag.com/gag/aV78ezM)<!-- MEMES:END -->
+ - 🚖 [Don&#039;t see this everyday at beach](http://9gag.com/gag/amPyr2d)
+ - 🚯 [Women&#039;s Olympic 2050 be like...](http://9gag.com/gag/a5EAr4y)
+ - 🚯 [What are you going to spot next](http://9gag.com/gag/a1rnXRD)<!-- MEMES:END -->
 
 --- 
 
