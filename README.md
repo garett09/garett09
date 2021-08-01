@@ -171,9 +171,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Rey, which uses VR-based tools powered by OxfordVR to provide on-demand mental health care services, raises $26M Series A, three months after launching (Rashi Shrivastava/Forbes)](http://www.techmeme.com/210731/p15#a210731p15)
- - [Best weighted blanket for 2021     - CNET](https://www.cnet.com/health/sleep/best-weighted-blanket/#ftag=CAD590a51e)
- - [Microsoft is avoiding antitrust scrutiny by rebranding itself as nice and boring, even as it reverts to some of the behaviors that led to prosecution the '90s (Molly Wood/The Atlantic)](http://www.techmeme.com/210731/p14#a210731p14)<!-- TECH:END -->
+ - [Deals: Save $120 to $150 on Apple's M1 MacBook Pro with 16GB RAM](https://appleinsider.com/articles/21/07/29/deals-save-120-to-150-on-apples-m1-macbook-pro-with-16gb-ram?utm_medium=rss)
+ - [Mercury, which offers banking services to startups, raises $120M Series B, including a $5M allotment for crowdfunding, led by Coatue at a $1.62B valuation (Joe Burns/FinLedger)](http://www.techmeme.com/210731/p16#a210731p16)
+ - [Best rewards credit cards for August 2021     - CNET](https://www.cnet.com/personal-finance/credit-cards/best-rewards-credit-card/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
