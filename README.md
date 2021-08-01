@@ -172,8 +172,8 @@ Windows                  0 secs              ███████████�
 
 <!-- TECH:START -->
  - [Rey, which uses VR-based tools powered by OxfordVR to provide on-demand mental health care services, raises $26M Series A, three months after launching (Rashi Shrivastava/Forbes)](http://www.techmeme.com/210731/p15#a210731p15)
- - [Microsoft is avoiding antitrust scrutiny by rebranding itself as nice and boring, even as it reverts to some of the behaviors that led to prosecution the '90s (Molly Wood/The Atlantic)](http://www.techmeme.com/210731/p14#a210731p14)
- - [Apple Music, iTunes Store, App Store hit by outages [u]](https://appleinsider.com/articles/21/07/31/apple-music-itunes-store-app-store-hit-by-outages?utm_medium=rss)<!-- TECH:END -->
+ - [Best weighted blanket for 2021     - CNET](https://www.cnet.com/health/sleep/best-weighted-blanket/#ftag=CAD590a51e)
+ - [Microsoft is avoiding antitrust scrutiny by rebranding itself as nice and boring, even as it reverts to some of the behaviors that led to prosecution the '90s (Molly Wood/The Atlantic)](http://www.techmeme.com/210731/p14#a210731p14)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
