@@ -171,9 +171,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Weekly Authority: Edition #153](https://www.androidauthority.com/newsletters/weekly-authority-august-1)
- - [After a decade of online identities coming under increasingly centralized control, online anonymity is starting to look like a threatened privilege than a right (John Herrman/New York Times)](http://www.techmeme.com/210801/p7#a210801p7)
- - [Qualtrics to acquire Virginia-based Clarabridge, which offers AI-powered customer experience management tools, for $1.125B in stock (Stephen Nellis/Reuters)](http://www.techmeme.com/210801/p6#a210801p6)<!-- TECH:END -->
+ - [How to Make the Air in Your Home More Breathable](https://www.wired.com/story/when-to-use-air-purifier-dehumidiers-humidifiers)
+ - [A Guide to RCS, and Why It Makes Texting So Much Better](https://www.wired.com/story/guide-to-rcs-why-it-makes-texting-better)
+ - [Weekly Authority: Edition #153](https://www.androidauthority.com/newsletters/weekly-authority-august-1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
