@@ -171,9 +171,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Thunderbolt 5 details leak via deleted Twitter photo by Intel executive](https://appleinsider.com/articles/21/08/01/thunderbolt-5-details-leak-via-deleted-twitter-photo-by-intel-executive?utm_medium=rss)
- - [Samsung Galaxy A11 review: A solid starter smartphone](https://www.androidauthority.com/samsung-galaxy-a11-review-1225424)
- - [Netflix: 40 best movies to see tonight     - CNET](https://www.cnet.com/news/netflix-40-best-movies-to-see-tonight/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Leaked Galaxy Watch photos show Samsung and Google’s new smartwatch OS on an actual device](https://www.theverge.com/2021/8/1/22604862/samsung-galaxy-watch-photos-images-leaked-classic-4-wear-smartwatch-os-google)
+ - [Some K-pop stars are bypassing Twitter and Facebook to create platforms for fans, like Universe, which features AI-generated voice calls with the idols (Stitch/The Verge)](http://www.techmeme.com/210801/p11#a210801p11)
+ - [Thunderbolt 5 details leak via deleted Twitter photo by Intel executive](https://appleinsider.com/articles/21/08/01/thunderbolt-5-details-leak-via-deleted-twitter-photo-by-intel-executive?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
