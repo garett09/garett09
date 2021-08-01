@@ -164,7 +164,7 @@ Windows                  0 secs              ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [GTA GeoGuesser Is For Folks Who Don't Know Much About The Real World, But Have GTA Online Memorized](https://kotaku.com/gta-geoguesser-is-for-folks-who-dont-know-much-about-th-1847401941)
+ - [It's GeoGuesser, But In GTA Online](https://kotaku.com/gta-geoguesser-is-for-folks-who-dont-know-much-about-th-1847401941)
  - [Every movie and show coming to Netflix in August](https://www.polygon.com/22598110/new-netflix-movies-tv-shows-watch-august-2021)
  - [Sunday Comics: Job Well Done!](https://kotaku.com/sunday-comics-job-well-done-1847401906)<!-- GAME:END -->
 
