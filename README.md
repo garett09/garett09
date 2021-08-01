@@ -171,9 +171,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How the radical environmental themes of the game Final Fantasy VII, released in 1997 for the original PlayStation, influenced a generation of environmentalists (Stephen K. Hirst/Ars Technica)](http://www.techmeme.com/210801/p8#a210801p8)
- - [It’s high time that all iPhones had zoom cameras](https://www.androidauthority.com/apple-iphone-camera-zoom-1647373)
- - [Prolific identity thief used Apple Pay to steal from Apple Stores in the Apple Crime Blotter](https://appleinsider.com/articles/21/08/01/prolific-identity-thief-used-apple-pay-to-steal-from-apple-stores-in-the-apple-crime-blotter?utm_medium=rss)<!-- TECH:END -->
+ - [MagSafe Battery launched, Ted Lasso relaunched, Kanye West didn't - July 2021 in review](https://appleinsider.com/articles/21/08/01/magsafe-battery-launched-ted-lasso-relaunched-kanye-west-didnt---july-2021-in-review?utm_medium=rss)
+ - [Are Virtual Surround Gaming Headsets Worth It?](https://www.wired.com/story/are-virtual-surround-gaming-headsets-worth-it)
+ - [Elite students are debating hot-button issues on an invite-only TikTok clone](https://www.theverge.com/22588932/polemix-app-tiktok-clone-students-invite-only-debating-app)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
