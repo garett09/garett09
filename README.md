@@ -178,9 +178,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Don&#039;t see this everyday at beach](http://9gag.com/gag/amPyr2d)
+ - 🚖 [Balanced...](http://9gag.com/gag/aQoKxBq)
  - 🚯 [Taking it to the next level](http://9gag.com/gag/abVo6rp)
- - 🚯 [Finally someone who gets it.](http://9gag.com/gag/aV78DjP)<!-- MEMES:END -->
+ - 🚯 [Qatari and Italian high jumpers Mutaz Barsham and Gianmarco Tamberi are approached about a high-jump tiebreaker jump-off&hellip; but agree to share Olympic gold. The true essence of sportsmanship](http://9gag.com/gag/arM0bBK)<!-- MEMES:END -->
 
 --- 
 
