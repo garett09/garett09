@@ -171,9 +171,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ariana Grande is headlining Fortnite’s next concert series](https://www.theverge.com/2021/8/1/22602826/ariana-grande-fortnite-rift-tour-concert-epic-games)
- - [Zoom agrees to pay $85M and bolster its security practices to settle a class action lawsuit over alleged user privacy violations and Zoombombing (Jonathan Stempel/Reuters)](http://www.techmeme.com/210801/p10#a210801p10)
- - [Watch a young Kurt Russell become a teen cyborg on Disney Plus](https://www.androidauthority.com/the-computer-wore-tennis-shoes-disney-plus-1648111)<!-- TECH:END -->
+ - [Thunderbolt 5 details leak via deleted Twitter photo by Intel executive](https://appleinsider.com/articles/21/08/01/thunderbolt-5-details-leak-via-deleted-twitter-photo-by-intel-executive?utm_medium=rss)
+ - [Samsung Galaxy A11 review: A solid starter smartphone](https://www.androidauthority.com/samsung-galaxy-a11-review-1225424)
+ - [Netflix: 40 best movies to see tonight     - CNET](https://www.cnet.com/news/netflix-40-best-movies-to-see-tonight/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
