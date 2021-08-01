@@ -178,9 +178,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Does the baton have nuclear energy?](http://9gag.com/gag/aMK6GY6)
- - 🚯 [Squeezing farts out of a baby](http://9gag.com/gag/axM8DNp)
- - 🚯 [How old are You?](http://9gag.com/gag/awMDVL1)<!-- MEMES:END -->
+ - 🚖 [That&#039;s it...](http://9gag.com/gag/amPyzGV)
+ - 🚯 [I honestly prefer the rooster](http://9gag.com/gag/aV78ezM)
+ - 🚯 [Sarah Andersen, the creator of Sarah Scribbles Comic.](http://9gag.com/gag/azMzjwq)<!-- MEMES:END -->
 
 --- 
 
