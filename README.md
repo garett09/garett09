@@ -178,9 +178,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Amazon workers start their day, 2016.](http://9gag.com/gag/aMK6rPA)
- - 🚯 [Ok, hear me out...](http://9gag.com/gag/ad8M6mM)
- - 🚯 [Watch out!](http://9gag.com/gag/amPyLEX)<!-- MEMES:END -->
+ - 🚖 [Watch out!](http://9gag.com/gag/amPyLEX)
+ - 🚯 [The best fandom](http://9gag.com/gag/aK6yPZ3)
+ - 🚯 [Helpful hedgehog at the Tokyo Olympics](http://9gag.com/gag/aB2MroD)<!-- MEMES:END -->
 
 --- 
 
