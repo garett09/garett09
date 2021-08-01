@@ -178,9 +178,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Madlad from 1993](http://9gag.com/gag/a9EeAP6)
- - 🚯 [Stylish entrance](http://9gag.com/gag/aDdLzmd)
- - 🚯 [Here&#039;s what occurs inside the saw when the brake is activated. When skin contact is detected, a 150-pound spring deploys an aluminum brake into the blade path, bringing it to a halt in 5 milliseconds or less.](http://9gag.com/gag/aAb7DeE)<!-- MEMES:END -->
+ - 🚖 [Stylish entrance](http://9gag.com/gag/aDdLzmd)
+ - 🚯 [Finally somebody understood it! Probably designed by an introvert, but for me this is the only way to travel comfortable in public transportation](http://9gag.com/gag/aXozx26)
+ - 🚯 [In Japan, some restaurant is really private, You are sitting in a corner, where no one sees you, a sluice opens in front of you, the chef&#039;s hands come out and it serve you without looking.](http://9gag.com/gag/anQ3MN0)<!-- MEMES:END -->
 
 --- 
 
