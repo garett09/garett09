@@ -178,9 +178,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Harsh truth](http://9gag.com/gag/aqjO5GL)
- - 🚯 [Really](http://9gag.com/gag/a5EA7Oo)
- - 🚯 [*sad low-income houses violin instrument](http://9gag.com/gag/aV78eYw)<!-- MEMES:END -->
+ - 🚖 [Really](http://9gag.com/gag/a5EA7Oo)
+ - 🚯 [What do you have?](http://9gag.com/gag/aEpbnMK)
+ - 🚯 [Squeezing farts out of a baby](http://9gag.com/gag/axM8DNp)<!-- MEMES:END -->
 
 --- 
 
