@@ -171,9 +171,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Titanium Apple Watch Series 6 unavailable for pick-up from many Apple Stores](https://appleinsider.com/articles/21/08/01/titanium-apple-watch-series-6-unavailable-for-pick-up-from-many-apple-stores?utm_medium=rss)
- - [Buy an iPhone 12 now or wait for the iPhone 13? How to choose what's best for you     - CNET](https://www.cnet.com/tech/mobile/buy-an-iphone-12-now-wait-for-iphone-13-how-whats-best-for-you/#ftag=CAD590a51e)
- - [Will smartphones eventually ship with nothing else in the box?](https://www.androidauthority.com/apple-samsung-chargers-smartphones-1658563)<!-- TECH:END -->
+ - [Best deals for August 1 -- $149 Magic Keyboard, Lego Bonsai, SanDisk Portable SSD, and more!](https://appleinsider.com/articles/21/08/01/best-deals-for-august-1----149-magic-keyboard-lego-bonsai-sandisk-portable-ssd-and-more?utm_medium=rss)
+ - [AT&T’s 5G network is ready for Stadia, even if Stadia isn’t ready for mobile](https://www.androidauthority.com/stadia-5g-att-1660303)
+ - [Profile of Bored Ape Yacht Club, an NFT collection that sold for $2M+ in April, spawned a collector community, and has since seen ~$100M in trading activity (Kyle Chayka/New Yorker)](http://www.techmeme.com/210801/p9#a210801p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
