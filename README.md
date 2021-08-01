@@ -171,9 +171,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Weekly Authority: Edition #153](https://www.androidauthority.com/newsletters/weekly-authority-august-1)
  - [After a decade of online identities coming under increasingly centralized control, online anonymity is starting to look like a threatened privilege than a right (John Herrman/New York Times)](http://www.techmeme.com/210801/p7#a210801p7)
- - [Qualtrics to acquire Virginia-based Clarabridge, which offers AI-powered customer experience management tools, for $1.125B in stock (Stephen Nellis/Reuters)](http://www.techmeme.com/210801/p6#a210801p6)
- - [SolCyber, which offers endpoint detection and response services, comes out of stealth with $20M Series A led by ForgePoint Capital (Kyle Wiggers/VentureBeat)](http://www.techmeme.com/210801/p5#a210801p5)<!-- TECH:END -->
+ - [Qualtrics to acquire Virginia-based Clarabridge, which offers AI-powered customer experience management tools, for $1.125B in stock (Stephen Nellis/Reuters)](http://www.techmeme.com/210801/p6#a210801p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
