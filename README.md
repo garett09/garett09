@@ -178,9 +178,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Saw the english breakfast, which looks breathtaking, so I present you the costa rican breakfast](http://9gag.com/gag/axM8jzL)
- - 🚯 [Dental composite resins allow for the seamless repair of a large hole in a tooth](http://9gag.com/gag/anQ3BKo)
- - 🚯 [When New Yorkers hear a violin before corona](http://9gag.com/gag/agBbNRn)<!-- MEMES:END -->
+ - 🚖 [I&#039;ve never done this before. So I took days off work just to travel around my country. First time building a tent and it worked out just fine. Cheers guys.](http://9gag.com/gag/a4E8dgm)
+ - 🚯 [Harsh truth](http://9gag.com/gag/aqjO5GL)
+ - 🚯 [Estimated size of a Megalodon shark. And no it&rsquo;s not possible it could still be alive.](http://9gag.com/gag/a07GYWq)<!-- MEMES:END -->
 
 --- 
 
