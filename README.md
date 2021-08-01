@@ -171,9 +171,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [MagSafe Battery launched, Ted Lasso relaunched, Kanye West didn't - July 2021 in review](https://appleinsider.com/articles/21/08/01/magsafe-battery-launched-ted-lasso-relaunched-kanye-west-didnt---july-2021-in-review?utm_medium=rss)
- - [Are Virtual Surround Gaming Headsets Worth It?](https://www.wired.com/story/are-virtual-surround-gaming-headsets-worth-it)
- - [Elite students are debating hot-button issues on an invite-only TikTok clone](https://www.theverge.com/22588932/polemix-app-tiktok-clone-students-invite-only-debating-app)<!-- TECH:END -->
+ - [Buy an iPhone 12 now or wait for the iPhone 13? How to choose what's best for you     - CNET](https://www.cnet.com/tech/mobile/buy-an-iphone-12-now-wait-for-iphone-13-how-whats-best-for-you/#ftag=CAD590a51e)
+ - [Will smartphones eventually ship with nothing else in the box?](https://www.androidauthority.com/apple-samsung-chargers-smartphones-1658563)
+ - [MagSafe Battery launched, Ted Lasso relaunched, Kanye West didn't - July 2021 in review](https://appleinsider.com/articles/21/08/01/magsafe-battery-launched-ted-lasso-relaunched-kanye-west-didnt---july-2021-in-review?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
