@@ -178,9 +178,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Olympics 113 years ago...](http://9gag.com/gag/a7EBE92)
- - 🚯 [Apple](http://9gag.com/gag/aqjOnWQ)
- - 🚯 [A guy in Russia made a flamethrower car.](http://9gag.com/gag/aLp3wzx)<!-- MEMES:END -->
+ - 🚖 [A guy in Russia made a flamethrower car.](http://9gag.com/gag/aLp3wzx)
+ - 🚯 [Afghanistan is lost.](http://9gag.com/gag/aRXG7ry)
+ - 🚯 [I am not a civil engineer but my darwin senses are tingling](http://9gag.com/gag/abVoGWp)<!-- MEMES:END -->
 
 --- 
 
