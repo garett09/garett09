@@ -178,9 +178,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Legend](http://9gag.com/gag/aDdL4NK)
- - 🚯 [Today is my 22nd Birthday, and I demand fake internet points!!!!](http://9gag.com/gag/aoM6Pzn)
- - 🚯 [Greatest sportsmanship ever](http://9gag.com/gag/a3EDRNe)<!-- MEMES:END -->
+ - 🚖 [Greatest sportsmanship ever](http://9gag.com/gag/a3EDRNe)
+ - 🚯 [Spaniard Lydia Valent&iacute;n does a 110 kg / 242 lb snatch.](http://9gag.com/gag/aAb7bRg)
+ - 🚯 [Dont know how it happened but it did](http://9gag.com/gag/aAb7ePo)<!-- MEMES:END -->
 
 --- 
 
