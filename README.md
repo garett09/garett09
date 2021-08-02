@@ -178,9 +178,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [In Japan, some restaurant is really private, You are sitting in a corner, where no one sees you, a sluice opens in front of you, the chef&#039;s hands come out and it serve you without looking.](http://9gag.com/gag/anQ3MN0)
- - 🚯 [Belarus Olympia Athlete Kristina Timanovskaya is being threatened to be arrested at home for no reason. She is now protected by japanese Police and will seek asylum in Austria. I say, we need talents like her!](http://9gag.com/gag/azMzqEx)
- - 🚯 [Qatari and Italian high jumpers Mutaz Barsham and Gianmarco Tamberi are approached about a high-jump tiebreaker jump-off&hellip; but agree to share Olympic gold. The true essence of sportsmanship](http://9gag.com/gag/arM0bBK)<!-- MEMES:END -->
+ - 🚖 [People just can&#039;t drive](http://9gag.com/gag/ayMAX2V)
+ - 🚯 [Man did not think twice to risk his life to save a little girl](http://9gag.com/gag/av5V8bq)
+ - 🚯 [So exciting](http://9gag.com/gag/aDdL1bG)<!-- MEMES:END -->
 
 --- 
 
