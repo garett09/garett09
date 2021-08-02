@@ -171,9 +171,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filings: Larry Page and Sergey Brin have sold a combined $1B+ in Google stock since May 2021, the most since 2017; Google's share price has since tripled (Jennifer Elias/CNBC)](http://www.techmeme.com/210802/p15#a210802p15)
- - [Mixlab, which lets veterinarians prescribe and deliver medications to pet owners, raises $20M Series A led by Sonoma Brands (Christine Hall/TechCrunch)](http://www.techmeme.com/210802/p14#a210802p14)
- - [Got Bigger Ears? Sony’s WF-1000XM4 Are Your New Best Buds](https://www.wired.com/review/sony-wf-1000xm4)<!-- TECH:END -->
+ - [Hands on with Ikea's picture frame speaker, smart kitchens, & more on HomeKit Insider](https://appleinsider.com/articles/21/08/02/hands-on-with-ikeas-picture-frame-speaker-smart-kitchens-more-on-homekit-insider?utm_medium=rss)
+ - [Coupon: Apple's MagSafe Battery Pack for iPhone 12 discounted to $89](https://appleinsider.com/articles/21/08/02/coupon-apples-magsafe-battery-pack-for-iphone-12-discounted-to-89?utm_medium=rss)
+ - [Zoom reaches $85M settlement in ‘Zoombombing’ lawsuit](http://feedproxy.google.com/~r/Techcrunch/~3/iBWEEF7ZAsA/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
