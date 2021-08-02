@@ -164,9 +164,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to get the Ariana Grande Fortnite skin and watch the concert](https://www.pcgamer.com/ariana-fortnite-skin)
- - [Amazon’s Lord of the Rings series premieres in September 2022](https://www.polygon.com/22606213/amazon-lord-of-the-rings-series-premiere-date)
- - [What Really Happened At That BlizzCon Panel, According To The Woman In The Video](https://kotaku.com/what-really-happened-at-that-blizzcon-panel-according-1847408469)<!-- GAME:END -->
+ - [Niantic ends Pokémon Go pandemic gameplay bonuses as COVID cases rise](https://www.polygon.com/22605615/pokemon-go-pokestop-distance-update-covid-cases-delta-variant)
+ - [The Shorter Games With Worse Graphics Bundle Is No Joke](https://kotaku.com/the-shorter-games-with-worse-graphics-bundle-is-no-joke-1847409374)
+ - [The Green Knight’s sensuality comes with a sharp warning about sex](https://www.polygon.com/22606315/the-green-knight-sex-and-sensuality)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
