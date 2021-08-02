@@ -178,9 +178,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [One of the best post apocalyptic movie I&#039;ve watched in a very long time. Highly recommended.](http://9gag.com/gag/a8E9q01)
- - 🚯 [Rest In Peace, Thea White (1940-2021), the voice actress for Muriel Bagge from Courage the Cowardly Dog](http://9gag.com/gag/aEpbp0K)
- - 🚯 [Knit &lsquo;em up](http://9gag.com/gag/aP30ZNq)<!-- MEMES:END -->
+ - 🚖 [Olympics 113 years ago...](http://9gag.com/gag/a7EBE92)
+ - 🚯 [True hero](http://9gag.com/gag/a07GZYB)
+ - 🚯 [That&#039;s it that&#039;s all it takes](http://9gag.com/gag/aoM6KK0)<!-- MEMES:END -->
 
 --- 
 
