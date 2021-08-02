@@ -171,9 +171,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily Authority: 5G still iffy 📶](https://www.androidauthority.com/newsletters/da-august-2-2021)
- - [Nozomi Networks, which aims to shield critical infrastructure from cyberattacks, raises $100M Series D led by Triangle Peak Partners as it prepares for an IPO (Carly Page/TechCrunch)](http://www.techmeme.com/210802/p10#a210802p10)
- - [How to bypass iPhone passcode](https://appleinsider.com/articles/21/08/02/how-to-bypass-iphone-passcode?utm_medium=rss)<!-- TECH:END -->
+ - [Filings: Larry Page and Sergey Brin have sold a combined $1B+ in Google stock since May 2021, the most since 2017; Google's share price has since tripled (Jennifer Elias/CNBC)](http://www.techmeme.com/210802/p15#a210802p15)
+ - [Mixlab, which lets veterinarians prescribe and deliver medications to pet owners, raises $20M Series A led by Sonoma Brands (Christine Hall/TechCrunch)](http://www.techmeme.com/210802/p14#a210802p14)
+ - [Got Bigger Ears? Sony’s WF-1000XM4 Are Your New Best Buds](https://www.wired.com/review/sony-wf-1000xm4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
