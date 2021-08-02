@@ -171,9 +171,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Poll: Do you use custom ROMs on your Android devices?](https://www.androidauthority.com/custom-rom-poll-2727904)
- - [Hospitals Still Use Pneumatic Tubes—and They Can Be Hacked](https://www.wired.com/story/pneumatic-tubes-hospitals-hacking)
- - [YouTube ‘Premium Lite’ subscription offers ad-free viewing for less](https://www.theverge.com/2021/8/2/22605455/youtube-premium-lite-pilot-benelux-nordics-experiment-ad-free-subscription)<!-- TECH:END -->
+ - [Daily Authority: 5G still iffy 📶](https://www.androidauthority.com/newsletters/da-august-2-2021)
+ - [Nozomi Networks, which aims to shield critical infrastructure from cyberattacks, raises $100M Series D led by Triangle Peak Partners as it prepares for an IPO (Carly Page/TechCrunch)](http://www.techmeme.com/210802/p10#a210802p10)
+ - [How to bypass iPhone passcode](https://appleinsider.com/articles/21/08/02/how-to-bypass-iphone-passcode?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
