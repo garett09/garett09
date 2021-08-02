@@ -178,9 +178,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Jellyfish Larvae like moving snowflakes](http://9gag.com/gag/amPy5My)
- - 🚯 [Indonesia Beat West Taiwan in Women&#039;s Double Badminton Match, Winning Its First Gold Medal](http://9gag.com/gag/aLp30OP)
- - 🚯 [Helping others pays off......](http://9gag.com/gag/ayMAorW)<!-- MEMES:END -->
+ - 🚖 [Except for that nose I think](http://9gag.com/gag/agBb5w6)
+ - 🚯 [That`s..... Brutal](http://9gag.com/gag/aB2M05A)
+ - 🚯 [Indonesia Beat West Taiwan in Women&#039;s Double Badminton Match, Winning Its First Gold Medal](http://9gag.com/gag/aLp30OP)<!-- MEMES:END -->
 
 --- 
 
