@@ -164,9 +164,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Ra’s al Ghul has become the DC universe’s hottest grandpa](https://www.polygon.com/comics/2021/8/2/22605734/batman-ras-al-ghul-costume-redesign-robin)
- - [Google may start licensing out its Stadia game streaming platform to 'industry partners'](https://www.pcgamer.com/google-stadia-white-label-game-streaming-job-listing)
- - [Players’ Choice: Vote for July 2021’s best new game](http://feedproxy.google.com/~r/PSBlog/~3/LAEGiJlnsfI/)<!-- GAME:END -->
+ - [GTA Online's New Update Has Fans Walking In Circles For Days](https://kotaku.com/gta-onlines-new-update-has-fans-walking-in-circles-for-1847408040)
+ - [Tales of Arise has fishing and farming, and a demo is on the way](https://www.pcgamer.com/tales-of-arise-has-fishing-and-farming-and-a-demo-is-on-the-way)
+ - [Minecraft's most anarchic server brought to its knees by griefers](https://www.pcgamer.com/minecrafts-most-anarchic-server-brought-to-its-knees-by-griefers)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
