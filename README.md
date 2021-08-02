@@ -171,9 +171,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Fuck You Pay Me, a Glassdoor-like service where creators can review brands they have worked with and share ad rates (Taylor Lorenz/New York Times)](http://www.techmeme.com/210802/p35#a210802p35)
- - [High-performance Acura NSX Type S will debut at Monterey Car Week     - Roadshow](https://www.cnet.com/roadshow/news/acura-nsx-type-s-teaser-monterey-car-week/#ftag=CAD590a51e)
- - [Best food processors for 2021     - CNET](https://www.cnet.com/home/kitchen-and-household/best-food-processors/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Twitter partners with Reuters and the AP, who will provide context and highlight links from trusted sources for Trends, Moments, Search, and more (Sarah Perez/TechCrunch)](http://www.techmeme.com/210802/p37#a210802p37)
+ - [New Apple Store App Clip surfaces self-checkout options](https://appleinsider.com/articles/21/08/02/new-apple-store-app-clip-surfaces-self-checkout-options?utm_medium=rss)
+ - [How to change your Apple Watch face](https://www.androidauthority.com/how-to-change-apple-watch-face-2681752)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
