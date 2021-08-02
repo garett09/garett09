@@ -171,9 +171,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This upcoming flagship could cram five rear cameras into bulbous array](https://www.androidauthority.com/honor-magic-3-design-2727890)
- - [You told us: Most of you want a Galaxy Note instead of the Galaxy S22 next year](https://www.androidauthority.com/samsung-galaxy-note-vs-galaxy-s22-poll-2727829)
- - [Nigeria is now second only to the US in bitcoin trading volume, hitting $2.4B in May from $684M in Dec. 2020, as the government tries and fails to curb its use (Emmanuel Akinwotu/The Guardian)](http://www.techmeme.com/210802/p6#a210802p6)<!-- TECH:END -->
+ - [Poll: Do you use custom ROMs on your Android devices?](https://www.androidauthority.com/custom-rom-poll-2727904)
+ - [Hospitals Still Use Pneumatic Tubes—and They Can Be Hacked](https://www.wired.com/story/pneumatic-tubes-hospitals-hacking)
+ - [YouTube ‘Premium Lite’ subscription offers ad-free viewing for less](https://www.theverge.com/2021/8/2/22605455/youtube-premium-lite-pilot-benelux-nordics-experiment-ad-free-subscription)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
