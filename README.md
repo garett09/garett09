@@ -179,7 +179,7 @@ Windows                  0 secs              ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [When experience overcomes privilege.](http://9gag.com/gag/awMDzr1)
- - 🚯 [Spaniard Lydia Valent&iacute;n does a 110 kg / 242 lb snatch.](http://9gag.com/gag/aAb7bRg)
+ - 🚯 [This is definitely a Karen](http://9gag.com/gag/aGpqzwX)
  - 🚯 [&#039;Yenas can be adorable too](http://9gag.com/gag/aB2M25N)<!-- MEMES:END -->
 
 --- 
