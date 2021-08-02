@@ -164,9 +164,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [It’s Too Hot To Play Video Games](https://kotaku.com/it-s-too-hot-to-play-video-games-1847410462)
- - [Take-Two confirms it's announcing a new game soon. Will it be Marvel XCOM?](https://www.pcgamer.com/take-two-confirms-its-announcing-a-new-game-soon-will-it-be-marvel-xcom)
- - [This game looks like Van Gogh’s Game Boy Advance](https://www.polygon.com/22605957/best-in-game-development-hidden-object-game-boy-advance-paintings)<!-- GAME:END -->
+ - [Take-Two boss says inclusion and diversity are of 'paramount importance'](https://www.pcgamer.com/take-two-boss-says-inclusion-and-diversity-are-of-paramount-importance-in-games-industry)
+ - [Sonic 2 Boss Toy Can Be Defeated By Hitting Weak Spot Three Times](https://kotaku.com/sonic-2-boss-toy-can-be-defeated-by-hitting-weak-spot-t-1847410586)
+ - [Valheim speedrunner takes down every boss in reverse order, a world-first](https://www.pcgamer.com/valheim-speedrunner-takes-down-every-boss-in-reverse-order-a-world-first)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
