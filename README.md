@@ -179,8 +179,8 @@ Windows                  0 secs              ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [A Swedish engineer has invented a suit that will change the lives of people with Parkinson&#039;s and stroke. With the help of electrical stimulation, it helps to get rid of tremors.](http://9gag.com/gag/azMzqKZ)
- - 🚯 [In Japan, some restaurant is really private, You are sitting in a corner, where no one sees you, a sluice opens in front of you, the chef&#039;s hands come out and it serve you without looking.](http://9gag.com/gag/anQ3MN0)
- - 🚯 [Hypocrisy](http://9gag.com/gag/aoM6OWx)<!-- MEMES:END -->
+ - 🚯 [People just can&#039;t drive](http://9gag.com/gag/ayMAX2V)
+ - 🚯 [In Japan, some restaurant is really private, You are sitting in a corner, where no one sees you, a sluice opens in front of you, the chef&#039;s hands come out and it serve you without looking.](http://9gag.com/gag/anQ3MN0)<!-- MEMES:END -->
 
 --- 
 
