@@ -178,9 +178,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [People just can&#039;t drive](http://9gag.com/gag/ayMAX2V)
- - 🚯 [Man did not think twice to risk his life to save a little girl](http://9gag.com/gag/av5V8bq)
- - 🚯 [So exciting](http://9gag.com/gag/aDdL1bG)<!-- MEMES:END -->
+ - 🚖 [Venezuelan jumper Yulimar Rojas beats the Olympic record in the first jump. In the last jump beats the world record with 15.64 m. Gold medal to Venezuela!](http://9gag.com/gag/aO3Or2y)
+ - 🚯 [Go figure](http://9gag.com/gag/aqjOK0M)
+ - 🚯 [This pretty athlete (Kristina Timanowskaja) is now prosecuted by the Belarussian Olympic Comitee for criticizing the political situation in her country. Belarus wants to bring her home by force. Let&#039;s hope she is fine...](http://9gag.com/gag/aLp3jKx)<!-- MEMES:END -->
 
 --- 
 
