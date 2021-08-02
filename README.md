@@ -171,9 +171,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Indian edtech Unacademy valued at $3.44 billion in $440 million fundraise](http://feedproxy.google.com/~r/Techcrunch/~3/FmNedD_nMvE/)
- - [Filings: Starlink has secured a license to build a satellite ground station on the Isle of Man, aiming to provide "blanket coverage" across Great Britain (Francis Agustin/Insider)](http://www.techmeme.com/210801/p14#a210801p14)
- - [Square buys 'buy now pay later' service Afterpay for $29 billion     - CNET](https://www.cnet.com/tech/mobile/square-buys-buy-now-pay-later-service-afterpay-for-29-billion/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Bangalore-based online learning startup Unacademy raises $440M round led by Temasek at a $3.44B valuation (Manish Singh/TechCrunch)](http://www.techmeme.com/210801/p15#a210801p15)
+ - [Olympics 2021: Simone Biles withdraws from floor exercise final     - CNET](https://www.cnet.com/news/olympics-2021-simone-biles-withdraws-from-floor-exercise-final/#ftag=CAD590a51e)
+ - [Indian edtech Unacademy valued at $3.44 billion in $440 million fundraise](http://feedproxy.google.com/~r/Techcrunch/~3/FmNedD_nMvE/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
