@@ -171,9 +171,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hands on with Ikea's picture frame speaker, smart kitchens, & more on HomeKit Insider](https://appleinsider.com/articles/21/08/02/hands-on-with-ikeas-picture-frame-speaker-smart-kitchens-more-on-homekit-insider?utm_medium=rss)
- - [Hear Startup Alley companies pitch expert VC judges on the next episode of Extra Crunch Live](http://feedproxy.google.com/~r/Techcrunch/~3/ViNu6NbmchU/)
- - [Investigation: in the last five years, six EU academic institutes received tens of millions of pounds in funding from Google, Facebook, Amazon, and Microsoft (New Statesman)](http://www.techmeme.com/210802/p26#a210802p26)<!-- TECH:END -->
+ - [Two new Macs, 'Apple Watch Series 7' pop up in regulatory filings](https://appleinsider.com/articles/21/08/02/two-new-macs-apple-watch-series-7-pop-up-in-regulatory-filings?utm_medium=rss)
+ - [Apple ranks first in profitability in Fortune Global 500 list, sixth for revenue](https://appleinsider.com/articles/21/08/02/apple-ranks-first-in-profitability-in-fortune-global-500-list-sixth-for-revenue?utm_medium=rss)
+ - [Google unveils Pixel 6, with 6.4" FHD+ 90Hz display, and Pixel 6 Pro, with 6.7" QHD+ 120Hz display and 4x optical zoom, featuring a Google-designed Tensor SoC (Dieter Bohn/The Verge)](http://www.techmeme.com/210802/p29#a210802p29)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
