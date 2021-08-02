@@ -164,9 +164,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Niantic ends Pokémon Go pandemic gameplay bonuses as COVID cases rise](https://www.polygon.com/22605615/pokemon-go-pokestop-distance-update-covid-cases-delta-variant)
- - [The Shorter Games With Worse Graphics Bundle Is No Joke](https://kotaku.com/the-shorter-games-with-worse-graphics-bundle-is-no-joke-1847409374)
- - [The Green Knight’s sensuality comes with a sharp warning about sex](https://www.polygon.com/22606315/the-green-knight-sex-and-sensuality)<!-- GAME:END -->
+ - [Dead by Daylight’s Summer Keeps Rolling with Tome VIII, New Graphical Updates, and More](https://news.xbox.com/en-us/2021/08/02/dead-by-daylight-new-updates/)
+ - [Gearbox confirms early 2022 release for Tiny Tina's Wonderlands](https://www.pcgamer.com/gearbox-confirms-early-2022-release-for-tiny-tinas-wonderlands)
+ - [Explore the New Stranger Things Experience on Roblox](https://news.xbox.com/en-us/2021/08/02/explore-the-new-stranger-things-experience-on-roblox/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
