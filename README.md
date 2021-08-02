@@ -178,9 +178,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Greatest sportsmanship ever](http://9gag.com/gag/a3EDRNe)
- - 🚯 [Spaniard Lydia Valent&iacute;n does a 110 kg / 242 lb snatch.](http://9gag.com/gag/aAb7bRg)
- - 🚯 [Dont know how it happened but it did](http://9gag.com/gag/aAb7ePo)<!-- MEMES:END -->
+ - 🚖 [Olympics 113 years ago...](http://9gag.com/gag/a7EBE92)
+ - 🚯 [Apple](http://9gag.com/gag/aqjOnWQ)
+ - 🚯 [A guy in Russia made a flamethrower car.](http://9gag.com/gag/aLp3wzx)<!-- MEMES:END -->
 
 --- 
 
