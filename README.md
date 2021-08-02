@@ -171,9 +171,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Save up to 50% on Netgear devices today, and more wireless router deals](https://www.androidauthority.com/best-wireless-router-deals-1113654)
- - [Google teases Pixel 6, Pixel 6 Pro with new Tensor AI chip](https://appleinsider.com/articles/21/08/02/google-teases-pixel-6-pixel-6-pro-with-new-tensor-ai-chip?utm_medium=rss)
- - [How to use tags in Reminders iOS 15](https://appleinsider.com/articles/21/08/02/how-to-use-tags-in-reminders-ios-15?utm_medium=rss)<!-- TECH:END -->
+ - [Master & Dynamic MW08 Sport review: Premium earbuds for your hardest workouts](https://appleinsider.com/articles/21/08/02/master-dynamic-mw08-sport-review-premium-earbuds-for-your-hardest-workouts?utm_medium=rss)
+ - [An in-depth look at the political motivations behind China's tech crackdown, as Xi pursues progressive authoritarianism at the expense of international capital (Bloomberg)](http://www.techmeme.com/210802/p31#a210802p31)
+ - [The shadow of the chip shortage is looming over tech’s big quarter](https://www.theverge.com/22602104/chip-shortage-tech-quarterly-earnings-intel-apple-microsoft-amd-samsung-tesla)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
