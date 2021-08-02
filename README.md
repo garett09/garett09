@@ -164,9 +164,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Final Fantasy pixel remasters review-bombed on Metacritic](https://www.pcgamer.com/final-fantasy-pixel-remasters-review-bombed-on-metacritic)
  - [Age of Empires 4 shows off naval battles, camel riders](https://www.pcgamer.com/age-of-empires-4-shows-off-naval-battles-camel-riders)
- - [Assassin's Creed game director is directing the Dead Space remake](https://www.pcgamer.com/assassins-creed-game-director-is-directing-the-dead-space-remake)
- - [More Mega Man Games That Look Like This Please!](https://kotaku.com/more-mega-man-games-that-look-like-this-please-1847405259)<!-- GAME:END -->
+ - [Assassin's Creed game director is directing the Dead Space remake](https://www.pcgamer.com/assassins-creed-game-director-is-directing-the-dead-space-remake)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
