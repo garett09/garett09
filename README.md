@@ -171,9 +171,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tokyo Olympics: High jump event ends with unprecedented shared gold     - CNET](https://www.cnet.com/news/tokyo-olympics-high-jump-event-ends-with-unprecedented-shared-gold/#ftag=CAD590a51e)
- - [Bangalore-based online learning startup Unacademy raises $440M round led by Temasek at a $3.44B valuation (Manish Singh/TechCrunch)](http://www.techmeme.com/210801/p15#a210801p15)
- - [Olympics 2021: Simone Biles withdraws from floor exercise final     - CNET](https://www.cnet.com/news/olympics-2021-simone-biles-withdraws-from-floor-exercise-final/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Profile of Netflix's head of movies Scott Stuber, who has grown original film output from 21 in 2016 to 70+ in 2021, as it makes deals with Spielberg and others (Brent Lang/Variety)](http://www.techmeme.com/210802/p1#a210802p1)
+ - [Indian online insurer PolicyBazaar files for IPO, seeks to raise over $800 million](http://feedproxy.google.com/~r/Techcrunch/~3/oefWadsl5-U/)
+ - [Tokyo Olympics: High jump event ends with unprecedented shared gold     - CNET](https://www.cnet.com/news/tokyo-olympics-high-jump-event-ends-with-unprecedented-shared-gold/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
