@@ -164,9 +164,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Battle in Total War: Warhammer 3 isn't just about winning or losing, it's a fight for survival](https://www.pcgamer.com/battle-in-total-war-warhammer-3-isnt-just-about-winning-or-losing-its-a-fight-for-survival)
  - [The Ascent's broken Game Pass edition is getting fixed, developer promises](https://www.pcgamer.com/the-ascents-broken-game-pass-edition-is-getting-fixed-developer-promises)
- - [Final Fantasy pixel remasters review-bombed on Metacritic](https://www.pcgamer.com/final-fantasy-pixel-remasters-review-bombed-on-metacritic)
- - [Age of Empires 4 shows off naval battles, camel riders](https://www.pcgamer.com/age-of-empires-4-shows-off-naval-battles-camel-riders)<!-- GAME:END -->
+ - [Final Fantasy pixel remasters review-bombed on Metacritic](https://www.pcgamer.com/final-fantasy-pixel-remasters-review-bombed-on-metacritic)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
