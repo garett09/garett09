@@ -178,9 +178,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When experience overcomes privilege.](http://9gag.com/gag/awMDzr1)
- - 🚯 [This is definitely a Karen](http://9gag.com/gag/aGpqzwX)
- - 🚯 [&#039;Yenas can be adorable too](http://9gag.com/gag/aB2M25N)<!-- MEMES:END -->
+ - 🚖 [One of the best post apocalyptic movie I&#039;ve watched in a very long time. Highly recommended.](http://9gag.com/gag/a8E9q01)
+ - 🚯 [Rest In Peace, Thea White (1940-2021), the voice actress for Muriel Bagge from Courage the Cowardly Dog](http://9gag.com/gag/aEpbp0K)
+ - 🚯 [Knit &lsquo;em up](http://9gag.com/gag/aP30ZNq)<!-- MEMES:END -->
 
 --- 
 
