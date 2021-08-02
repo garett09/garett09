@@ -164,9 +164,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Assassin’s Creed Valhalla game director leading Dead Space remake](https://www.polygon.com/22605648/assassins-creed-valhalla-director-dead-space-remake-eric-batizat-ea-motive-ubisoft)
- - [Tetris the board game is Tetris minus the panic](https://www.polygon.com/reviews/22598794/tetris-strategy-board-game-review)
- - [Eddie and Venom’s relationship is on the rocks in the new trailer for Venom 2](https://www.polygon.com/22605638/venom-2-let-there-be-carnage-cletus-kasady)<!-- GAME:END -->
+ - [PlayStation Now games for August: Nier: Automata, Ghostrunner, Undertale](http://feedproxy.google.com/~r/PSBlog/~3/CsPkVefWE_s/)
+ - [PlayStation Now games for August: Nier: Automata, Ghostrunner, Undertale](https://blog.playstation.com/2021/08/02/playstation-now-games-for-august-nier-automata-ghostrunner-undertale/)
+ - [Playing the technical test has convinced me Halo Infinite is great, actually](https://www.pcgamer.com/playing-the-technical-test-has-convinced-me-halo-infinite-is-great-actually)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
