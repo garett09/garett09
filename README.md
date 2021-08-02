@@ -171,9 +171,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Report: Facebook, Twitter, Instagram, YouTube, and TikTok failed to act on 84% of posts spreading anti-Semitism reported via their own complaint systems (Maya Wolfe-Robinson/The Guardian)](http://www.techmeme.com/210801/p13#a210801p13)
- - [Square to buy Afterpay, which offers a ‘buy now, pay later’ service, for $29 billion in stock](https://www.theverge.com/2021/8/1/22605025/square-afterpay-acquisition-buy-now-pay-later-service-29-billion-stock)
- - [Square says it's buying Australia-based buy now, pay later service Afterpay for $29B in an all-stock deal, paying a 30% premium on Afterpay's last closing (Reuters)](http://www.techmeme.com/210801/p12#a210801p12)<!-- TECH:END -->
+ - [Best deals for August 1 -- $149 iPad Pro Magic Keyboard, Lego Bonsai, SanDisk Portable SSD, more!](https://appleinsider.com/articles/21/08/01/best-deals-for-august-1----149-magic-keyboard-lego-bonsai-sandisk-portable-ssd-and-more?utm_medium=rss)
+ - [Apple Silicon transition may hit its two-year target with 2022 Mac Pro](https://appleinsider.com/articles/21/08/01/apple-silicon-transition-may-hit-its-two-year-target-with-2022-mac-pro?utm_medium=rss)
+ - [Square to buy ‘buy now, pay later’ giant Afterpay in $29B deal](http://feedproxy.google.com/~r/Techcrunch/~3/J1oAyYj1xZ4/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
