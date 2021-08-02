@@ -164,9 +164,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [SkateBIRD delayed to September](https://www.pcgamer.com/skatebird-delayed-to-september)
- - [The Logitech G502 has a hyper-fast scroll wheel to die for, and is less than half price](https://www.pcgamer.com/the-logitech-g502-has-a-hyper-fast-scroll-wheel-to-die-for-and-is-less-than-half-price)
- - [Assassin's Creed has a 'culinary codex' coming, also known as a 'cookbook'](https://www.pcgamer.com/assassins-creed-has-a-culinary-codex-coming-also-known-as-a-cookbook)<!-- GAME:END -->
+ - [Assassin’s Creed Valhalla game director leading Dead Space remake](https://www.polygon.com/22605648/assassins-creed-valhalla-director-dead-space-remake-eric-batizat-ea-motive-ubisoft)
+ - [Tetris the board game is Tetris minus the panic](https://www.polygon.com/reviews/22598794/tetris-strategy-board-game-review)
+ - [Eddie and Venom’s relationship is on the rocks in the new trailer for Venom 2](https://www.polygon.com/22605638/venom-2-let-there-be-carnage-cletus-kasady)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
