@@ -164,9 +164,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Activision Blizzard's Torture Apologist Executive Is Now Blocking Employees On Twitter](https://kotaku.com/activisions-torture-apologist-executive-is-now-blocking-1847405007)
- - [Mothmen and Shark Riders: the mind-melting fantasy of pixel-pulps](https://www.pcgamer.com/mothmen-and-shark-riders-the-mind-melting-fantasy-of-pixel-pulps)
- - [Every movie and show coming to Netflix in August](https://www.polygon.com/22598110/new-netflix-movies-tv-shows-watch-august-2021)<!-- GAME:END -->
+ - [More Mega Man Games That Look Like This Please!](https://kotaku.com/more-mega-man-games-that-look-like-this-please-1847405259)
+ - [Five new Steam games you probably missed (August 2, 2021)](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-august-2-2021)
+ - [Activision Blizzard's Torture Apologist Executive Is Now Blocking Employees On Twitter](https://kotaku.com/activisions-torture-apologist-executive-is-now-blocking-1847405007)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
