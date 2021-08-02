@@ -178,9 +178,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A guy in Russia made a flamethrower car.](http://9gag.com/gag/aLp3wzx)
- - 🚯 [Afghanistan is lost.](http://9gag.com/gag/aRXG7ry)
- - 🚯 [I am not a civil engineer but my darwin senses are tingling](http://9gag.com/gag/abVoGWp)<!-- MEMES:END -->
+ - 🚖 [Thought you lot might enjoy this](http://9gag.com/gag/abVoVMX)
+ - 🚯 [I am not a civil engineer but my darwin senses are tingling](http://9gag.com/gag/abVoGWp)
+ - 🚯 [&#039;Yenas can be adorable too](http://9gag.com/gag/aB2M25N)<!-- MEMES:END -->
 
 --- 
 
