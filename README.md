@@ -164,9 +164,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Assassin's Creed game director is directing the Dead Space remake](https://www.pcgamer.com/assassins-creed-game-director-is-directing-the-dead-space-remake)
  - [More Mega Man Games That Look Like This Please!](https://kotaku.com/more-mega-man-games-that-look-like-this-please-1847405259)
- - [Five new Steam games you probably missed (August 2, 2021)](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-august-2-2021)
- - [Activision Blizzard's Torture Apologist Executive Is Now Blocking Employees On Twitter](https://kotaku.com/activisions-torture-apologist-executive-is-now-blocking-1847405007)<!-- GAME:END -->
+ - [Five new Steam games you probably missed (August 2, 2021)](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-august-2-2021)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
