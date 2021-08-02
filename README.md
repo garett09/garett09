@@ -171,9 +171,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitter partners with Reuters and the AP, who will provide context and highlight links from trusted sources for Trends, Moments, Search, and more (Sarah Perez/TechCrunch)](http://www.techmeme.com/210802/p37#a210802p37)
- - [New Apple Store App Clip surfaces self-checkout options](https://appleinsider.com/articles/21/08/02/new-apple-store-app-clip-surfaces-self-checkout-options?utm_medium=rss)
- - [How to change your Apple Watch face](https://www.androidauthority.com/how-to-change-apple-watch-face-2681752)<!-- TECH:END -->
+ - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
+ - [NLRB officer says Amazon violated US labor law](https://www.theverge.com/2021/8/2/22598004/nlrb-officer-new-election-amazon-bessemer-union-drive)
+ - [There’s now a subscription service for college textbooks](https://www.theverge.com/2021/8/2/22606423/pearson-plus-college-textbook-subscription-service-app-launch)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
