@@ -171,9 +171,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tokyo Olympics: High jump event ends with unprecedented shared gold     - CNET](https://www.cnet.com/news/tokyo-olympics-high-jump-event-ends-with-unprecedented-shared-gold/#ftag=CAD590a51e)
  - [Bangalore-based online learning startup Unacademy raises $440M round led by Temasek at a $3.44B valuation (Manish Singh/TechCrunch)](http://www.techmeme.com/210801/p15#a210801p15)
- - [Olympics 2021: Simone Biles withdraws from floor exercise final     - CNET](https://www.cnet.com/news/olympics-2021-simone-biles-withdraws-from-floor-exercise-final/#ftag=CAD590a51e)
- - [Indian edtech Unacademy valued at $3.44 billion in $440 million fundraise](http://feedproxy.google.com/~r/Techcrunch/~3/FmNedD_nMvE/)<!-- TECH:END -->
+ - [Olympics 2021: Simone Biles withdraws from floor exercise final     - CNET](https://www.cnet.com/news/olympics-2021-simone-biles-withdraws-from-floor-exercise-final/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
