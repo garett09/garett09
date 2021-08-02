@@ -171,9 +171,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Master & Dynamic MW08 Sport review: Premium earbuds for your hardest workouts](https://appleinsider.com/articles/21/08/02/master-dynamic-mw08-sport-review-premium-earbuds-for-your-hardest-workouts?utm_medium=rss)
- - [An in-depth look at the political motivations behind China's tech crackdown, as Xi pursues progressive authoritarianism at the expense of international capital (Bloomberg)](http://www.techmeme.com/210802/p31#a210802p31)
- - [The shadow of the chip shortage is looming over tech’s big quarter](https://www.theverge.com/22602104/chip-shortage-tech-quarterly-earnings-intel-apple-microsoft-amd-samsung-tesla)<!-- TECH:END -->
+ - [Finite State, a supply chain security startup that helps uncover security flaws in device firmware, lands $30M Series B led by Energize Ventures (Carly Page/TechCrunch)](http://www.techmeme.com/210802/p32#a210802p32)
+ - [Amazon’s Lord of the Rings series will premiere in September 2022](https://www.theverge.com/2021/8/2/22606267/lord-of-the-rings-amazon-series-release-date)
+ - [MGA Thermal raises $8M AUD led by Main Sequence for its modular energy storage blocks](http://feedproxy.google.com/~r/Techcrunch/~3/tlBEjI2TKhQ/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
