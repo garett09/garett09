@@ -178,9 +178,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Olympics 113 years ago...](http://9gag.com/gag/a7EBE92)
+ - 🚖 [For Frodo *and Sam](http://9gag.com/gag/aAb70yp)
  - 🚯 [True hero](http://9gag.com/gag/a07GZYB)
- - 🚯 [That&#039;s it that&#039;s all it takes](http://9gag.com/gag/aoM6KK0)<!-- MEMES:END -->
+ - 🚯 [Laurel hubbard at the Olympics be like](http://9gag.com/gag/ajmjmoR)<!-- MEMES:END -->
 
 --- 
 
