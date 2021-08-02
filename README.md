@@ -171,9 +171,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hands on with Ikea's picture frame speaker, smart kitchens, & more on HomeKit Insider](https://appleinsider.com/articles/21/08/02/hands-on-with-ikeas-picture-frame-speaker-smart-kitchens-more-on-homekit-insider?utm_medium=rss)
- - [Coupon: Apple's MagSafe Battery Pack for iPhone 12 discounted to $89](https://appleinsider.com/articles/21/08/02/coupon-apples-magsafe-battery-pack-for-iphone-12-discounted-to-89?utm_medium=rss)
- - [Zoom reaches $85M settlement in ‘Zoombombing’ lawsuit](http://feedproxy.google.com/~r/Techcrunch/~3/iBWEEF7ZAsA/)<!-- TECH:END -->
+ - [Govee’s excellent TV backlight kit is even more affordable today](https://www.theverge.com/good-deals/2021/8/2/22605596/govee-tv-led-backlight-iphone-11-pro-max-battery-case-amazon-echo-buds-2-deal)
+ - [New York City Council passes five bills aimed at reducing the power of food delivery platforms, including extending a cap on restaurant commissions to Feb. 2022 (Laura Forman/Wall Street Journal)](http://www.techmeme.com/210802/p23#a210802p23)
+ - [The tale of two edtech IPOs](http://feedproxy.google.com/~r/Techcrunch/~3/_MnWrmz1xn0/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
