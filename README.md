@@ -164,9 +164,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dead by Daylight’s Summer Keeps Rolling with Tome VIII, New Graphical Updates, and More](https://news.xbox.com/en-us/2021/08/02/dead-by-daylight-new-updates/)
- - [Gearbox confirms early 2022 release for Tiny Tina's Wonderlands](https://www.pcgamer.com/gearbox-confirms-early-2022-release-for-tiny-tinas-wonderlands)
- - [Explore the New Stranger Things Experience on Roblox](https://news.xbox.com/en-us/2021/08/02/explore-the-new-stranger-things-experience-on-roblox/)<!-- GAME:END -->
+ - [It’s Too Hot To Play Video Games](https://kotaku.com/it-s-too-hot-to-play-video-games-1847410462)
+ - [Take-Two confirms it's announcing a new game soon. Will it be Marvel XCOM?](https://www.pcgamer.com/take-two-confirms-its-announcing-a-new-game-soon-will-it-be-marvel-xcom)
+ - [This game looks like Van Gogh’s Game Boy Advance](https://www.polygon.com/22605957/best-in-game-development-hidden-object-game-boy-advance-paintings)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
