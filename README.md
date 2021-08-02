@@ -164,9 +164,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Battle in Total War: Warhammer 3 isn't just about winning or losing, it's a fight for survival](https://www.pcgamer.com/battle-in-total-war-warhammer-3-isnt-just-about-winning-or-losing-its-a-fight-for-survival)
- - [The Ascent's broken Game Pass edition is getting fixed, developer promises](https://www.pcgamer.com/the-ascents-broken-game-pass-edition-is-getting-fixed-developer-promises)
- - [Final Fantasy pixel remasters review-bombed on Metacritic](https://www.pcgamer.com/final-fantasy-pixel-remasters-review-bombed-on-metacritic)<!-- GAME:END -->
+ - [Assassin's Creed has a 'culinary codex' coming, also known as a 'cookbook'](https://www.pcgamer.com/assassins-creed-has-a-culinary-codex-coming-also-known-as-a-cookbook)
+ - [The first James Bond board game of this generation turns players into supervillains](https://www.polygon.com/tabletop-games/22601885/spectre-james-bond-board-game-modiphius-announcement-release-date-price)
+ - [Now is the best time to preview Windows 11 as it lands in the beta channel](https://www.pcgamer.com/now-is-the-best-time-to-preview-windows-11-as-it-lands-in-the-beta-channel)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
