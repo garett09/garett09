@@ -171,9 +171,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best deals for August 1 -- $149 iPad Pro Magic Keyboard, Lego Bonsai, SanDisk Portable SSD, more!](https://appleinsider.com/articles/21/08/01/best-deals-for-august-1----149-magic-keyboard-lego-bonsai-sandisk-portable-ssd-and-more?utm_medium=rss)
- - [Apple Silicon transition may hit its two-year target with 2022 Mac Pro](https://appleinsider.com/articles/21/08/01/apple-silicon-transition-may-hit-its-two-year-target-with-2022-mac-pro?utm_medium=rss)
- - [Square to buy ‘buy now, pay later’ giant Afterpay in $29B deal](http://feedproxy.google.com/~r/Techcrunch/~3/J1oAyYj1xZ4/)<!-- TECH:END -->
+ - [Indian edtech Unacademy valued at $3.44 billion in $440 million fundraise](http://feedproxy.google.com/~r/Techcrunch/~3/FmNedD_nMvE/)
+ - [Filings: Starlink has secured a license to build a satellite ground station on the Isle of Man, aiming to provide "blanket coverage" across Great Britain (Francis Agustin/Insider)](http://www.techmeme.com/210801/p14#a210801p14)
+ - [Square buys 'buy now pay later' service Afterpay for $29 billion     - CNET](https://www.cnet.com/tech/mobile/square-buys-buy-now-pay-later-service-afterpay-for-29-billion/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
