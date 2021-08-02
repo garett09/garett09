@@ -171,9 +171,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at technology's role in professional surfing, as ML-based wave forecasting and biomechanics data help improve riders' performance and prevent injuries (Daniela Hernandez/Wall Street Journal)](http://www.techmeme.com/210802/p5#a210802p5)
- - [Got an ancient phone? You won’t be able to sign in to your Google account soon](https://www.androidauthority.com/google-account-old-devices-gingerbread-1657732)
- - [Super Nintendo World’s Donkey Kong zone may already be under construction](https://www.theverge.com/2021/8/2/22605383/super-nintendo-world-donkey-kong-area-construction)<!-- TECH:END -->
+ - [Telegram update brings a ton of video-focused upgrades](https://www.androidauthority.com/telegram-update-group-video-calls-2727832)
+ - [Samsung Galaxy S22 could reintroduce camera tech made popular by Huawei](https://www.androidauthority.com/samsung-galaxy-s22-rgbw-camera-2727811)
+ - [Kuda, the African challenger bank, raises $55M at a $500M valuation](http://feedproxy.google.com/~r/Techcrunch/~3/Se5KwfG0HV4/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
