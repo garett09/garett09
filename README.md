@@ -178,9 +178,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Helping others pays off......](http://9gag.com/gag/ayMAorW)
- - 🚯 [I am not a civil engineer but my darwin senses are tingling](http://9gag.com/gag/abVoGWp)
- - 🚯 [Today is my 22nd Birthday, and I demand fake internet points!!!!](http://9gag.com/gag/aoM6Pzn)<!-- MEMES:END -->
+ - 🚖 [Legend](http://9gag.com/gag/aDdL4NK)
+ - 🚯 [Today is my 22nd Birthday, and I demand fake internet points!!!!](http://9gag.com/gag/aoM6Pzn)
+ - 🚯 [Greatest sportsmanship ever](http://9gag.com/gag/a3EDRNe)<!-- MEMES:END -->
 
 --- 
 
