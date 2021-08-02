@@ -171,9 +171,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Matrixport, led by Bitmain founder Wu Jihan, which offers crypto financial services, raises $100M+ Series C, and says a second tranche is to come (Zheping Huang/Bloomberg)](http://www.techmeme.com/210802/p4#a210802p4)
- - [Square reports Q2 revenue of $4.88B, up 143% YoY, while its Cash App service's bitcoin yearly revenue was $2.72B, up 200% (Greg Ahlstrand/CoinDesk)](http://www.techmeme.com/210802/p3#a210802p3)
- - [Samsung Galaxy Buds 2 leak spills tech specs and pricing information](https://www.androidauthority.com/samsung-galaxy-buds-2-specs-price-2727780)<!-- TECH:END -->
+ - [A look at technology's role in professional surfing, as ML-based wave forecasting and biomechanics data help improve riders' performance and prevent injuries (Daniela Hernandez/Wall Street Journal)](http://www.techmeme.com/210802/p5#a210802p5)
+ - [Got an ancient phone? You won’t be able to sign in to your Google account soon](https://www.androidauthority.com/google-account-old-devices-gingerbread-1657732)
+ - [Super Nintendo World’s Donkey Kong zone may already be under construction](https://www.theverge.com/2021/8/2/22605383/super-nintendo-world-donkey-kong-area-construction)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
