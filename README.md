@@ -171,9 +171,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Finite State, a supply chain security startup that helps uncover security flaws in device firmware, lands $30M Series B led by Energize Ventures (Carly Page/TechCrunch)](http://www.techmeme.com/210802/p32#a210802p32)
- - [Amazon’s Lord of the Rings series will premiere in September 2022](https://www.theverge.com/2021/8/2/22606267/lord-of-the-rings-amazon-series-release-date)
- - [MGA Thermal raises $8M AUD led by Main Sequence for its modular energy storage blocks](http://feedproxy.google.com/~r/Techcrunch/~3/tlBEjI2TKhQ/)<!-- TECH:END -->
+ - [Microsoft is ready to rent Windows 365 cloud PCs for as little as $20 per month](https://www.theverge.com/2021/8/2/22605800/microsoft-windows-365-cloud-pc-streaming-html5)
+ - [Microsoft's desktop-as-a-service Windows 365 Cloud PC is generally available and costs between $20 to $162 per user per month, based on cores, RAM, and storage (Mary Jo Foley/ZDNet)](http://www.techmeme.com/210802/p34#a210802p34)
+ - [Facebook to require all US on-campus staff to wear masks starting on Aug. 4, regardless of vaccination status, citing rising COVID cases and local regulations (Salvador Rodriguez/CNBC)](http://www.techmeme.com/210802/p33#a210802p33)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
