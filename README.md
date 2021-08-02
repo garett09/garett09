@@ -164,9 +164,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [PlayStation Now games for August: Nier: Automata, Ghostrunner, Undertale](http://feedproxy.google.com/~r/PSBlog/~3/CsPkVefWE_s/)
- - [PlayStation Now games for August: Nier: Automata, Ghostrunner, Undertale](https://blog.playstation.com/2021/08/02/playstation-now-games-for-august-nier-automata-ghostrunner-undertale/)
- - [Playing the technical test has convinced me Halo Infinite is great, actually](https://www.pcgamer.com/playing-the-technical-test-has-convinced-me-halo-infinite-is-great-actually)<!-- GAME:END -->
+ - [Ra’s al Ghul has become the DC universe’s hottest grandpa](https://www.polygon.com/comics/2021/8/2/22605734/batman-ras-al-ghul-costume-redesign-robin)
+ - [Google may start licensing out its Stadia game streaming platform to 'industry partners'](https://www.pcgamer.com/google-stadia-white-label-game-streaming-job-listing)
+ - [Players’ Choice: Vote for July 2021’s best new game](http://feedproxy.google.com/~r/PSBlog/~3/LAEGiJlnsfI/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
