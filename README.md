@@ -171,9 +171,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Profile of Netflix's head of movies Scott Stuber, who has grown original film output from 21 in 2016 to 70+ in 2021, as it makes deals with Spielberg and others (Brent Lang/Variety)](http://www.techmeme.com/210802/p1#a210802p1)
- - [Indian online insurer PolicyBazaar files for IPO, seeks to raise over $800 million](http://feedproxy.google.com/~r/Techcrunch/~3/oefWadsl5-U/)
- - [Tokyo Olympics: High jump event ends with unprecedented shared gold     - CNET](https://www.cnet.com/news/tokyo-olympics-high-jump-event-ends-with-unprecedented-shared-gold/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Matrixport, led by Bitmain founder Wu Jihan, which offers crypto financial services, raises $100M+ Series C, and says a second tranche is to come (Zheping Huang/Bloomberg)](http://www.techmeme.com/210802/p4#a210802p4)
+ - [Square reports Q2 revenue of $4.88B, up 143% YoY, while its Cash App service's bitcoin yearly revenue was $2.72B, up 200% (Greg Ahlstrand/CoinDesk)](http://www.techmeme.com/210802/p3#a210802p3)
+ - [Samsung Galaxy Buds 2 leak spills tech specs and pricing information](https://www.androidauthority.com/samsung-galaxy-buds-2-specs-price-2727780)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
