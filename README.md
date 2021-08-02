@@ -178,9 +178,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Thought you lot might enjoy this](http://9gag.com/gag/abVoVMX)
- - 🚯 [I am not a civil engineer but my darwin senses are tingling](http://9gag.com/gag/abVoGWp)
- - 🚯 [&#039;Yenas can be adorable too](http://9gag.com/gag/aB2M25N)<!-- MEMES:END -->
+ - 🚖 [&#039;Yenas can be adorable too](http://9gag.com/gag/aB2M25N)
+ - 🚯 [Subrim](http://9gag.com/gag/a7EBWqw)
+ - 🚯 [Spaniard Lydia Valent&iacute;n does a 110 kg / 242 lb snatch.](http://9gag.com/gag/aAb7bRg)<!-- MEMES:END -->
 
 --- 
 
