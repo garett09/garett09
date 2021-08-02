@@ -178,9 +178,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Except for that nose I think](http://9gag.com/gag/agBb5w6)
- - 🚯 [Indonesia won its first ever gold medal in female&#039;s double against West Taiwan!!](http://9gag.com/gag/a5EAR2V)
- - 🚯 [Ball boy throws his own ball to keep the momentum of his team going](http://9gag.com/gag/a07GR2d)<!-- MEMES:END -->
+ - 🚖 [Helping others pays off......](http://9gag.com/gag/ayMAorW)
+ - 🚯 [I am not a civil engineer but my darwin senses are tingling](http://9gag.com/gag/abVoGWp)
+ - 🚯 [Today is my 22nd Birthday, and I demand fake internet points!!!!](http://9gag.com/gag/aoM6Pzn)<!-- MEMES:END -->
 
 --- 
 
