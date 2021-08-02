@@ -164,9 +164,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [GTA Online's New Update Has Fans Walking In Circles For Days](https://kotaku.com/gta-onlines-new-update-has-fans-walking-in-circles-for-1847408040)
- - [Tales of Arise has fishing and farming, and a demo is on the way](https://www.pcgamer.com/tales-of-arise-has-fishing-and-farming-and-a-demo-is-on-the-way)
- - [Minecraft's most anarchic server brought to its knees by griefers](https://www.pcgamer.com/minecrafts-most-anarchic-server-brought-to-its-knees-by-griefers)<!-- GAME:END -->
+ - [What Really Happened At That BlizzCon Panel, According To The Woman In The Video](https://kotaku.com/what-really-happened-at-that-blizzcon-panel-according-1847408469)
+ - [Fans Dismayed Niantic Removed Pokémon Go Safety Measures Despite Delta](https://kotaku.com/fans-dismayed-niantic-removed-pokemon-go-safety-measure-1847408137)
+ - [Apex Legends’ season 10 patch brings a new Legend and lots of balance changes](https://www.polygon.com/22605955/apex-legends-season-10-patch-notes-changes-worlds-edge-seer-weapons-nerf)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
