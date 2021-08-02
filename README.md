@@ -171,9 +171,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Telegram update brings a ton of video-focused upgrades](https://www.androidauthority.com/telegram-update-group-video-calls-2727832)
- - [Samsung Galaxy S22 could reintroduce camera tech made popular by Huawei](https://www.androidauthority.com/samsung-galaxy-s22-rgbw-camera-2727811)
- - [Kuda, the African challenger bank, raises $55M at a $500M valuation](http://feedproxy.google.com/~r/Techcrunch/~3/Se5KwfG0HV4/)<!-- TECH:END -->
+ - [This upcoming flagship could cram five rear cameras into bulbous array](https://www.androidauthority.com/honor-magic-3-design-2727890)
+ - [You told us: Most of you want a Galaxy Note instead of the Galaxy S22 next year](https://www.androidauthority.com/samsung-galaxy-note-vs-galaxy-s22-poll-2727829)
+ - [Nigeria is now second only to the US in bitcoin trading volume, hitting $2.4B in May from $684M in Dec. 2020, as the government tries and fails to curb its use (Emmanuel Akinwotu/The Guardian)](http://www.techmeme.com/210802/p6#a210802p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
