@@ -179,8 +179,8 @@ Windows                  0 secs              ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Hahahahaha Russian](http://9gag.com/gag/aEpb25n)
- - 🚯 [So exciting](http://9gag.com/gag/aDdL1bG)
- - 🚯 [Congratulations Indonesia](http://9gag.com/gag/aLp30A6)<!-- MEMES:END -->
+ - 🚯 [Go figure](http://9gag.com/gag/aqjOK0M)
+ - 🚯 [Jellyfish Larvae like moving snowflakes](http://9gag.com/gag/amPy5My)<!-- MEMES:END -->
 
 --- 
 
