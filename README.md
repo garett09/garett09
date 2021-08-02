@@ -164,9 +164,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Week In Games: A Quiet Summer Week](https://kotaku.com/the-week-in-games-a-quiet-summer-week-1847404553)
- - [Every new movie and show coming to Disney Plus in August](https://www.polygon.com/disney-plus/22598121/disney-plus-new-movies-tv-watch-august-2021)
- - [Fortnite's Next Big In-Game Concert Stars Ariana Grande](https://kotaku.com/fortnites-next-big-in-game-concert-stars-ariana-grande-1847404400)<!-- GAME:END -->
+ - [Activision Blizzard's Torture Apologist Executive Is Now Blocking Employees On Twitter](https://kotaku.com/activisions-torture-apologist-executive-is-now-blocking-1847405007)
+ - [Mothmen and Shark Riders: the mind-melting fantasy of pixel-pulps](https://www.pcgamer.com/mothmen-and-shark-riders-the-mind-melting-fantasy-of-pixel-pulps)
+ - [Every movie and show coming to Netflix in August](https://www.polygon.com/22598110/new-netflix-movies-tv-shows-watch-august-2021)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
