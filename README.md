@@ -164,9 +164,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Assassin's Creed has a 'culinary codex' coming, also known as a 'cookbook'](https://www.pcgamer.com/assassins-creed-has-a-culinary-codex-coming-also-known-as-a-cookbook)
- - [The first James Bond board game of this generation turns players into supervillains](https://www.polygon.com/tabletop-games/22601885/spectre-james-bond-board-game-modiphius-announcement-release-date-price)
- - [Now is the best time to preview Windows 11 as it lands in the beta channel](https://www.pcgamer.com/now-is-the-best-time-to-preview-windows-11-as-it-lands-in-the-beta-channel)<!-- GAME:END -->
+ - [SkateBIRD delayed to September](https://www.pcgamer.com/skatebird-delayed-to-september)
+ - [The Logitech G502 has a hyper-fast scroll wheel to die for, and is less than half price](https://www.pcgamer.com/the-logitech-g502-has-a-hyper-fast-scroll-wheel-to-die-for-and-is-less-than-half-price)
+ - [Assassin's Creed has a 'culinary codex' coming, also known as a 'cookbook'](https://www.pcgamer.com/assassins-creed-has-a-culinary-codex-coming-also-known-as-a-cookbook)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
