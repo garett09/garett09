@@ -171,9 +171,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best deals for August 2 - 15% off refurbished on eBay, $20 off Belkin, more!](https://appleinsider.com/articles/21/08/03/best-deals-for-august-2---15-off-refurbished-ebay-products-20-off-belkin-products-and-more?utm_medium=rss)
  - [Apple adds new Radeon Pro graphics cards to Mac Pro configurator](https://appleinsider.com/articles/21/08/03/apple-adds-new-radeon-pro-graphics-cards-to-mac-pro-configurator?utm_medium=rss)
- - [Report: Facebook wants to analyze encrypted WhatsApp messages for ads](https://www.androidauthority.com/whatsapp-encryption-ads-2728774)<!-- TECH:END -->
+ - [Boeing postpones its Starliner mission after detecting a technical issue](https://www.theverge.com/2021/8/3/22607683/boeing-starliner-technical-issue-nasa-launch-postponed)
+ - [Microsoft tells employees it will require proof of vaccination to enter a Microsoft building in the US starting September, with medical and religious exceptions (Jay Peters/The Verge)](http://www.techmeme.com/210803/p30#a210803p30)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
