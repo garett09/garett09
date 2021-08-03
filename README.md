@@ -171,9 +171,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google consolidates its sign-in offerings with a new family of Identity APIs called Google Identity Services, including a new "One Tap" sign in prompt (Abner Li/9to5Google)](http://www.techmeme.com/210803/p43#a210803p43)
- - [Realme officially launches its Apple MagSafe clone](https://www.androidauthority.com/realme-magdart-magsafe-clone-official-2729094)
- - [HBO Max looks to woo new subscribers with free episodes](https://www.theverge.com/2021/8/3/22608403/hbo-max-new-subscribers-free-episodes)<!-- TECH:END -->
+ - [Google leaks unannounced Nest security cameras on its own online store](https://www.theverge.com/2021/8/3/22608507/google-leaks-unannounced-nest-camera-doorbell-online-store)
+ - [Scientists are sending a slimy blob to space     - CNET](https://www.cnet.com/news/scientists-are-sending-a-slimy-blob-to-space/#ftag=CAD590a51e)
+ - [Best place to buy contacts online for 2021     - CNET](https://www.cnet.com/health/personal-care/best-place-to-buy-contacts-online/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
