@@ -178,9 +178,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How to do a backflip in a minute, for those guys who want to learn a trick for the next party.](http://9gag.com/gag/aZ0KwZ0)
+ - 🚖 [Get back in formation you drunken fool](http://9gag.com/gag/a3EDAWe)
  - 🚯 [Blind kid experience his first curb by himself while his parents encouraged him.](http://9gag.com/gag/a07G0od)
- - 🚯 [Get back in formation you drunken fool](http://9gag.com/gag/a3EDAWe)<!-- MEMES:END -->
+ - 🚯 [Opening mozzarella](http://9gag.com/gag/amPymn2)<!-- MEMES:END -->
 
 --- 
 
