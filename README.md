@@ -178,9 +178,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Yes women&#039;s football deserve more money... This is pure gold.](http://9gag.com/gag/anQ32xq)
+ - 🚖 [How to do a backflip in a minute, for those guys who want to learn a trick for the next party.](http://9gag.com/gag/aZ0KwZ0)
  - 🚯 [Blind kid experience his first curb by himself while his parents encouraged him.](http://9gag.com/gag/a07G0od)
- - 🚯 [Dedicated effort to get fit and she succeeded](http://9gag.com/gag/aYoBP1x)<!-- MEMES:END -->
+ - 🚯 [Get back in formation you drunken fool](http://9gag.com/gag/a3EDAWe)<!-- MEMES:END -->
 
 --- 
 
