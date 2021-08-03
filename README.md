@@ -178,9 +178,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It&#039;s a god damned art](http://9gag.com/gag/aAb76b0)
- - 🚯 [Don&rsquo;t stress](http://9gag.com/gag/aDdL6z9)
- - 🚯 [So heavy](http://9gag.com/gag/ajmj7R8)<!-- MEMES:END -->
+ - 🚖 [Diabeetus](http://9gag.com/gag/agBb1Yx)
+ - 🚯 [90s Gamers](http://9gag.com/gag/aGpqnL5)
+ - 🚯 [Very talented girl](http://9gag.com/gag/a3ED46Q)<!-- MEMES:END -->
 
 --- 
 
