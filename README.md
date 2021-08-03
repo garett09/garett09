@@ -178,9 +178,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Geh](http://9gag.com/gag/aAb7Q0E)
- - 🚯 [This awakens my new hobby in sports](http://9gag.com/gag/aGpqLzz)
- - 🚯 [Pretty much](http://9gag.com/gag/ayMAq4W)<!-- MEMES:END -->
+ - 🚖 [This awakens my new hobby in sports](http://9gag.com/gag/aGpqLzz)
+ - 🚯 [That one time japanese tv thought Cristiano Ronaldo was brazilian and made him a carnival homage](http://9gag.com/gag/a4E8PB1)
+ - 🚯 [Geh](http://9gag.com/gag/aAb7Q0E)<!-- MEMES:END -->
 
 --- 
 
