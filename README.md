@@ -171,9 +171,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Rapyd, which offers APIs to add financial services like payments, raises $300M Series E led by Target Global, sources say at a $8.75B valuation (Ingrid Lunden/TechCrunch)](http://www.techmeme.com/210803/p19#a210803p19)
- - [Kenya’s Wapi Pay raises $2.2M pre-seed for cross-border payments between Africa and Asia](http://feedproxy.google.com/~r/Techcrunch/~3/HylXKOOTzfw/)
- - [Apple asking Chinese iPad mini users if the screen is too small](https://appleinsider.com/articles/21/08/03/apple-asking-chinese-ipad-mini-users-if-the-screen-is-too-small?utm_medium=rss)<!-- TECH:END -->
+ - [Crime-tracking app Citizen now includes a premium-priced safety help line](https://www.theverge.com/2021/8/3/22606053/citizen-crime-tracking-app-protect-safety-helpline-subscription-launch)
+ - [Facebook confirms it is building a team of AI researchers to study ways of analyzing encrypted data without decrypting it, potentially helping better target ads (The Information)](http://www.techmeme.com/210803/p24#a210803p24)
+ - [You’ve heard of Live Caption, but the Pixel 6 is getting Live Translate too](https://www.androidauthority.com/google-pixel-6-live-translate-2728725)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
