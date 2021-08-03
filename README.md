@@ -171,9 +171,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [After Chinese state media criticized online gaming as "opium for the mind" in a now-deleted article, Tencent announces stricter rules for young users (Chong Koh Ping/Wall Street Journal)](http://www.techmeme.com/210803/p6#a210803p6)
- - [Xiaomi’s new tablets, Mi Mix might launch as soon as next week](https://www.androidauthority.com/xiaomi-mi-pad-5-mi-mix-4-launch-2728610)
- - [Bill Gates and Melinda French Gates have officially divorced](https://www.theverge.com/2021/8/3/22607200/bill-gates-melinda-french-gates-divorce-finalized-financial-assets-foundation)<!-- TECH:END -->
+ - [Sources: well over 100 UK-based employees at Amazon's Prime Air drone delivery unit have lost their jobs since 2019, as the company scales back its ambitions (Andrew Kersley/Wired UK)](http://www.techmeme.com/210803/p10#a210803p10)
+ - [Xiaomi overtakes Samsung to take top spot in European phone shipments in Q2 2021](https://www.theverge.com/2021/8/3/22607248/xiaomi-overtakes-samsung-europe-smartphone-sales-apple)
+ - [Interview with BlackMatter, a new ransomware group that only targets companies with $100M+ revenue and says it will avoid certain industries like healthcare (Dmitry Smilyanets/The Record)](http://www.techmeme.com/210803/p9#a210803p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
