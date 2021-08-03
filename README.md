@@ -178,9 +178,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Reality is an illusion](http://9gag.com/gag/aMK6ED1)
- - 🚯 [How old are you?](http://9gag.com/gag/abVoA4p)
- - 🚯 [This girl being able to walk on a treadmill with her prosthetic legs](http://9gag.com/gag/abVov1L)<!-- MEMES:END -->
+ - 🚖 [That&#039;s it that&#039;s all it takes](http://9gag.com/gag/aoM6KK0)
+ - 🚯 [An orangutan female wears glasses dropped by a visitor to a zoo in Indonesia. Despite the public&#039;s compliments, the glasses were eventually returned to the owner in exchange for a treat](http://9gag.com/gag/aGpqypX)
+ - 🚯 [How old are you?](http://9gag.com/gag/abVoA4p)<!-- MEMES:END -->
 
 --- 
 
