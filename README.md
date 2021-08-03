@@ -171,9 +171,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Vivo explores phone with multiple pop-up cameras that aren’t meant for selfies](https://www.androidauthority.com/vivo-multiple-pop-up-cameras-phone-2728492)
- - [Logitech's new Zone True Wireless earbuds get down to business     - CNET](https://www.cnet.com/tech/mobile/logitechs-new-zone-true-wireless-earbuds-get-down-to-business/#ftag=CAD590a51e)
- - [Nykaa, an Indian e-commerce startup for beauty products, files for an IPO, and seeks to raise as much as $70.6M at a valuation of $4B (Saritha Rai/Bloomberg)](http://www.techmeme.com/210803/p4#a210803p4)<!-- TECH:END -->
+ - [Gapsquare, a pioneer of machine learning into gender pay disparity, is acquired by XpertHR](http://feedproxy.google.com/~r/Techcrunch/~3/QpViq5IjnxY/)
+ - [Google Pixel 6 series confirmed to launch at least in these 8 countries](https://www.androidauthority.com/google-pixel-6-availability-2728588)
+ - [India’s Infra.Market valued at $2.5B in Tiger Global-led $125M funding](http://feedproxy.google.com/~r/Techcrunch/~3/oHXisl0bK5I/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
