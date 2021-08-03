@@ -164,9 +164,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Activision Blizzard sued for culture of gender discrimination, sexual harassment](https://www.polygon.com/22608315/activision-blizzard-lawsuit-gender-discrimination-sexual-harassment-california-dfeh)
- - [Blizzard’s Top HR Guy Out Following Lawsuit And Widespread Criticism](https://kotaku.com/blizzard-s-top-hr-guy-out-following-lawsuit-and-widespr-1847417626)
- - [Blizzard’s HR boss is the latest exec to say goodbye](https://www.polygon.com/22608340/blizzard-hr-sexual-harassment-lawsuit)<!-- GAME:END -->
+ - [Fortnite getting another round of Street Fighter characters with Cammy and Guile](https://www.polygon.com/fortnite/22608424/fortnite-guile-cammy-street-fighter-skin-outfit-bundle)
+ - [Crossword Fans Are Mad At The New York Times](https://kotaku.com/crossword-fans-are-mad-at-the-new-york-times-1847417645)
+ - [Blizzard's head of HR gone, too](https://www.pcgamer.com/blizzards-head-of-hr-gone-too)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
