@@ -171,9 +171,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Crime-tracking app Citizen now includes a premium-priced safety help line](https://www.theverge.com/2021/8/3/22606053/citizen-crime-tracking-app-protect-safety-helpline-subscription-launch)
- - [Facebook confirms it is building a team of AI researchers to study ways of analyzing encrypted data without decrypting it, potentially helping better target ads (The Information)](http://www.techmeme.com/210803/p24#a210803p24)
- - [You’ve heard of Live Caption, but the Pixel 6 is getting Live Translate too](https://www.androidauthority.com/google-pixel-6-live-translate-2728725)<!-- TECH:END -->
+ - [Watch Boeing try its pivotal crew spacecraft orbital demonstration launch for the second time](http://feedproxy.google.com/~r/Techcrunch/~3/CzL7dYSqb2w/)
+ - [The infrastructure deal could create pipelines for captured CO2](https://www.theverge.com/2021/8/3/22606395/pipeline-battle-co2-removal-carbon-capture-bipartisan-infrastructure)
+ - [What tools keep AppleInsider staffers working from home](https://appleinsider.com/articles/21/08/03/what-tools-keep-appleinsider-staffers-working-from-home?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
