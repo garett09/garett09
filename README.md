@@ -164,9 +164,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [T-Mobile branding removed from Overwatch and Call of Duty League websites](https://www.pcgamer.com/t-mobile-branding-removed-from-overwatch-and-call-of-duty-league-websites)
- - [Get Down, Mr. Freeman](https://kotaku.com/get-down-mr-freeman-1847411349)
- - [The best gaming laptops in Australia for 2021](https://www.pcgamer.com/the-best-gaming-laptops-in-australia-for-2021)<!-- GAME:END -->
+ - [A Stardew Valley fan recreated Pelican Town in Minecraft](https://www.pcgamer.com/a-stardew-valley-fan-recreated-pelican-town-in-minecraft)
+ - [Win UFC 265 tickets as Lords Mobile and UFC join forces](https://www.pcgamer.com/win-ufc-265-tickets-as-lords-mobile-and-ufc-join-forces)
+ - [Splitgate dev 'can't just buy more servers' to deal with exploding player numbers](https://www.pcgamer.com/splitgate-dev-cant-just-buy-more-servers-to-deal-with-exploding-player-numbers)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
