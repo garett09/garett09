@@ -178,9 +178,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Are people in Iran Geh? they do this shit to womans on tv](http://9gag.com/gag/awMD36y)
- - 🚯 [What your clothes see when the washing machine starts](http://9gag.com/gag/a3ED5N8)
- - 🚯 [Jumpn&lsquo;t](http://9gag.com/gag/aQoKvOe)<!-- MEMES:END -->
+ - 🚖 [90s Gamers](http://9gag.com/gag/aGpqnL5)
+ - 🚯 [Don&rsquo;t stress](http://9gag.com/gag/aDdL6z9)
+ - 🚯 [I guess imperial guys are just hotter...](http://9gag.com/gag/aGpq8p6)<!-- MEMES:END -->
 
 --- 
 
