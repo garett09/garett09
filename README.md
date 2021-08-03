@@ -179,8 +179,8 @@ Windows                  0 secs              ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Yes women&#039;s football deserve more money... This is pure gold.](http://9gag.com/gag/anQ32xq)
- - 🚯 [My gf broke up with me after 7 years so this is my new cave.](http://9gag.com/gag/aYoBOxm)
- - 🚯 [How to get a girlfriend 101](http://9gag.com/gag/aQoKA6K)<!-- MEMES:END -->
+ - 🚯 [Blind kid experience his first curb by himself while his parents encouraged him.](http://9gag.com/gag/a07G0od)
+ - 🚯 [Dedicated effort to get fit and she succeeded](http://9gag.com/gag/aYoBP1x)<!-- MEMES:END -->
 
 --- 
 
