@@ -178,9 +178,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Rookie mistake by not pulling the handbrakes](http://9gag.com/gag/aXoznDP)
- - 🚯 [How old are you?](http://9gag.com/gag/abVoA4p)
- - 🚯 [One of the best post apocalyptic movie I&#039;ve watched in a very long time. Highly recommended.](http://9gag.com/gag/a8E9q01)<!-- MEMES:END -->
+ - 🚖 [Geh](http://9gag.com/gag/aAb7Q0E)
+ - 🚯 [This awakens my new hobby in sports](http://9gag.com/gag/aGpqLzz)
+ - 🚯 [Pretty much](http://9gag.com/gag/ayMAq4W)<!-- MEMES:END -->
 
 --- 
 
