@@ -171,9 +171,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple adds new Radeon Pro graphics cards to Mac Pro configurator](https://appleinsider.com/articles/21/08/03/apple-adds-new-radeon-pro-graphics-cards-to-mac-pro-configurator?utm_medium=rss)
- - [Boeing postpones its Starliner mission after detecting a technical issue](https://www.theverge.com/2021/8/3/22607683/boeing-starliner-technical-issue-nasa-launch-postponed)
- - [Microsoft tells employees it will require proof of vaccination to enter a Microsoft building in the US starting September, with medical and religious exceptions (Jay Peters/The Verge)](http://www.techmeme.com/210803/p30#a210803p30)<!-- TECH:END -->
+ - [Apple's Mac Pro gains new Radeon Pro MPX graphics card options](https://appleinsider.com/articles/21/08/03/apple-adds-new-radeon-pro-graphics-cards-to-mac-pro-configurator?utm_medium=rss)
+ - [New Chromebooks will now have Google Meet installed by default](https://www.theverge.com/2021/8/3/22607620/google-meet-app-chromebooks-chrome-os-now-preinstalled)
+ - [Poll: What do you think of the Pixel 6 so far?](https://www.androidauthority.com/poll-google-pixel-6-opinion-2728857)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
