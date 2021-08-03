@@ -164,9 +164,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Unite the Klingon Houses Today in Star Trek Online](https://news.xbox.com/en-us/2021/08/03/unite-the-klingon-houses-today-in-star-trek-online/)
- - [Red Dead Online criminals get some new, fancy targets to rob](https://www.polygon.com/22607826/red-dead-online-il-sovrano-diamond-saloon-contact-crime)
- - [There's a new Shorter Games With Worse Graphics Bundle on Itch.io, and it's exactly what it says it is](https://www.pcgamer.com/theres-a-new-shorter-games-with-worse-graphics-bundle-on-itchio-and-its-exactly-what-it-says-on-the-tin)<!-- GAME:END -->
+ - [Linux takes 1% of Steam market share as interest in Steam Deck rises](https://www.pcgamer.com/linux-takes-1-of-steam-market-share-as-interest-in-steam-deck-rises)
+ - [Aviat Aircraft Husky A-1C Available Today on Microsoft Flight Simulator](https://news.xbox.com/en-us/2021/08/03/aviat-aircraft-husky-a-1c-available-today-on-microsoft-flight-simulator/)
+ - [Halo Infinite's New Radar Sucks](https://kotaku.com/halo-infinites-new-radar-sucks-1847415848)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
