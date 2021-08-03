@@ -178,9 +178,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How to get out of a speeding ticket](http://9gag.com/gag/anQ3n60)
- - 🚯 [- Those bastards lied to me.](http://9gag.com/gag/aXozNwg)
- - 🚯 [I guess imperial guys are just hotter...](http://9gag.com/gag/aGpq8p6)<!-- MEMES:END -->
+ - 🚖 [This father couldn&#039;t afford a full cake for his daughters birthday and she wasn&#039;t expecting one.](http://9gag.com/gag/a9Ee50m)
+ - 🚯 [Yes women&#039;s football deserve more money... This is pure gold.](http://9gag.com/gag/anQ32xq)
+ - 🚯 [Look at this shit](http://9gag.com/gag/aZ0Kwzn)<!-- MEMES:END -->
 
 --- 
 
