@@ -171,9 +171,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple stops iOS 14.7 code signing following release of iOS 14.7.1](https://appleinsider.com/articles/21/08/03/apple-stops-ios-147-code-signing-following-release-of-ios-1471?utm_medium=rss)
- - [HBO Max: The 20 best TV shows to watch this week     - CNET](https://www.cnet.com/news/hbo-max-the-20-best-tv-shows-to-watch-this-week/#ftag=CAD590a51e)
- - [Tokyo Olympics: Simone Biles to compete in balance beam final, how to watch     - CNET](https://www.cnet.com/news/tokyo-olympics-simone-biles-to-compete-in-balance-beam-final-how-to-watch/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Novakid, an app that offers online English language classes to kids aged 4-12, raises $35M Series B led by Owl Ventures and Goodwater Capital (Natasha Mascarenhas/TechCrunch)](http://www.techmeme.com/210802/p39#a210802p39)
+ - [HBO Max: 20 best TV shows to watch this week     - CNET](https://www.cnet.com/news/hbo-max-20-best-tv-shows-to-watch-this-week/#ftag=CAD590a51e)
+ - [Netflix: The 50 best TV shows to watch this week     - CNET](https://www.cnet.com/news/netflix-the-50-best-tv-shows-to-watch-this-week/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
