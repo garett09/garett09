@@ -178,9 +178,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [So heavy](http://9gag.com/gag/ajmj7R8)
- - 🚯 [What we do to get by](http://9gag.com/gag/aQoKg18)
- - 🚯 [Pretty much](http://9gag.com/gag/ayMAq4W)<!-- MEMES:END -->
+ - 🚖 [It&#039;s a god damned art](http://9gag.com/gag/aAb76b0)
+ - 🚯 [Don&rsquo;t stress](http://9gag.com/gag/aDdL6z9)
+ - 🚯 [So heavy](http://9gag.com/gag/ajmj7R8)<!-- MEMES:END -->
 
 --- 
 
