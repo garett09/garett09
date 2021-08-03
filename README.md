@@ -171,9 +171,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: well over 100 UK-based employees at Amazon's Prime Air drone delivery unit have lost their jobs since 2019, as the company scales back its ambitions (Andrew Kersley/Wired UK)](http://www.techmeme.com/210803/p10#a210803p10)
- - [Xiaomi overtakes Samsung to take top spot in European phone shipments in Q2 2021](https://www.theverge.com/2021/8/3/22607248/xiaomi-overtakes-samsung-europe-smartphone-sales-apple)
- - [Interview with BlackMatter, a new ransomware group that only targets companies with $100M+ revenue and says it will avoid certain industries like healthcare (Dmitry Smilyanets/The Record)](http://www.techmeme.com/210803/p9#a210803p9)<!-- TECH:END -->
+ - [Daily Authority: Google’s Pixel plans 📈](https://www.androidauthority.com/newsletters/da-august-3-2021)
+ - [Amazon’s drone delivery program ‘one gigantic oversell,’ says report into UK operation](https://www.theverge.com/2021/8/3/22607267/amazon-drone-delivery-program-uk-operations-failure-oversell)
+ - [Prepare your wallets: The Google Pixel 6 Pro will be ‘expensive’](https://www.androidauthority.com/google-pixel-6-pro-price-2728664)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
