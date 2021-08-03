@@ -171,9 +171,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Australian court rules AI can be considered an inventor on patent filings, days after South Africa granted a patent in which AI was designated as the inventor (Simon Sharwood/The Register)](http://www.techmeme.com/210802/p40#a210802p40)
  - [Novakid, an app that offers online English language classes to kids aged 4-12, raises $35M Series B led by Owl Ventures and Goodwater Capital (Natasha Mascarenhas/TechCrunch)](http://www.techmeme.com/210802/p39#a210802p39)
- - [HBO Max: 20 best TV shows to watch this week     - CNET](https://www.cnet.com/news/hbo-max-20-best-tv-shows-to-watch-this-week/#ftag=CAD590a51e)
- - [Netflix: The 50 best TV shows to watch this week     - CNET](https://www.cnet.com/news/netflix-the-50-best-tv-shows-to-watch-this-week/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [HBO Max: 20 best TV shows to watch this week     - CNET](https://www.cnet.com/news/hbo-max-20-best-tv-shows-to-watch-this-week/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
