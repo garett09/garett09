@@ -164,9 +164,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [A Stardew Valley fan recreated Pelican Town in Minecraft](https://www.pcgamer.com/a-stardew-valley-fan-recreated-pelican-town-in-minecraft)
- - [Win UFC 265 tickets as Lords Mobile and UFC join forces](https://www.pcgamer.com/win-ufc-265-tickets-as-lords-mobile-and-ufc-join-forces)
- - [Splitgate dev 'can't just buy more servers' to deal with exploding player numbers](https://www.pcgamer.com/splitgate-dev-cant-just-buy-more-servers-to-deal-with-exploding-player-numbers)<!-- GAME:END -->
+ - [Stardew Valley's biggest mod now lets you become friends with Shane's chicken](https://www.pcgamer.com/stardew-valleys-biggest-mod-now-lets-you-become-friends-with-shanes-chicken)
+ - [Nvidia boasts it's a matter of 'when, not if' publishers will sign up for GeForce Now](https://www.pcgamer.com/nvidia-geforce-now-interview-controversies)
+ - [Mass Effect's Citadel is one of the best virtual cities BioWare has ever created](https://www.pcgamer.com/mass-effects-citadel-is-one-of-the-best-virtual-cities-bioware-has-ever-created)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
