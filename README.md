@@ -171,9 +171,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Australian court rules AI can be considered an inventor on patent filings, days after South Africa granted a patent in which AI was designated as the inventor (Simon Sharwood/The Register)](http://www.techmeme.com/210802/p40#a210802p40)
- - [Novakid, an app that offers online English language classes to kids aged 4-12, raises $35M Series B led by Owl Ventures and Goodwater Capital (Natasha Mascarenhas/TechCrunch)](http://www.techmeme.com/210802/p39#a210802p39)
- - [HBO Max: 20 best TV shows to watch this week     - CNET](https://www.cnet.com/news/hbo-max-20-best-tv-shows-to-watch-this-week/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Latin America now has at least 23 unicorns, which collectively have raised $15B+, 15 have raised money this year; 40% of all VC money in 2020 went into fintech (Joanna Glasner/Crunchbase News)](http://www.techmeme.com/210803/p1#a210803p1)
+ - [This leak suggests Samsung new foldables could be much cheaper than before](https://www.androidauthority.com/samsung-galaxy-fold-3-galaxy-flip-3-prices-2728476)
+ - [Australian court rules AI can be considered an inventor on patent filings, days after South Africa granted a patent in which AI was designated as the inventor (Simon Sharwood/The Register)](http://www.techmeme.com/210802/p40#a210802p40)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
