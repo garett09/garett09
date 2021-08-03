@@ -178,9 +178,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This father couldn&#039;t afford a full cake for his daughters birthday and she wasn&#039;t expecting one.](http://9gag.com/gag/a9Ee50m)
- - 🚯 [Yes women&#039;s football deserve more money... This is pure gold.](http://9gag.com/gag/anQ32xq)
- - 🚯 [Look at this shit](http://9gag.com/gag/aZ0Kwzn)<!-- MEMES:END -->
+ - 🚖 [Yes women&#039;s football deserve more money... This is pure gold.](http://9gag.com/gag/anQ32xq)
+ - 🚯 [My gf broke up with me after 7 years so this is my new cave.](http://9gag.com/gag/aYoBOxm)
+ - 🚯 [How to get a girlfriend 101](http://9gag.com/gag/aQoKA6K)<!-- MEMES:END -->
 
 --- 
 
