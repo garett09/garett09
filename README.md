@@ -164,9 +164,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Take-Two boss says inclusion and diversity are of 'paramount importance'](https://www.pcgamer.com/take-two-boss-says-inclusion-and-diversity-are-of-paramount-importance-in-games-industry)
- - [Sonic 2 Boss Toy Can Be Defeated By Hitting Weak Spot Three Times](https://kotaku.com/sonic-2-boss-toy-can-be-defeated-by-hitting-weak-spot-t-1847410586)
- - [Valheim speedrunner takes down every boss in reverse order, a world-first](https://www.pcgamer.com/valheim-speedrunner-takes-down-every-boss-in-reverse-order-a-world-first)<!-- GAME:END -->
+ - [Get Down, Mr. Freeman](https://kotaku.com/get-down-mr-freeman-1847411349)
+ - [The best gaming laptops in Australia for 2021](https://www.pcgamer.com/the-best-gaming-laptops-in-australia-for-2021)
+ - [Sony Stops McDonalds From Giving Away PS5 Controllers](https://kotaku.com/sony-stops-mcdonalds-from-releasing-ps5-controllers-1847410890)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
