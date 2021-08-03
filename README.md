@@ -164,9 +164,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Unicomp New Model M review](https://www.pcgamer.com/unicomp-new-model-m-review)
- - [Death Lurks Nearby in the First Major Updates for Outbreak: Endless Nightmares](https://news.xbox.com/en-us/2021/08/03/first-major-update-for-outbreak-endless-nightmares/)
- - [Who’s up for some Retired Men’s Nude Beach Volleyball League?](https://www.polygon.com/22607340/retired-mens-nude-beach-volleyball-league-humble-release)<!-- GAME:END -->
+ - [Unite the Klingon Houses Today in Star Trek Online](https://news.xbox.com/en-us/2021/08/03/unite-the-klingon-houses-today-in-star-trek-online/)
+ - [Red Dead Online criminals get some new, fancy targets to rob](https://www.polygon.com/22607826/red-dead-online-il-sovrano-diamond-saloon-contact-crime)
+ - [There's a new Shorter Games With Worse Graphics Bundle on Itch.io, and it's exactly what it says it is](https://www.pcgamer.com/theres-a-new-shorter-games-with-worse-graphics-bundle-on-itchio-and-its-exactly-what-it-says-on-the-tin)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
