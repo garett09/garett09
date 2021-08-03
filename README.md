@@ -171,9 +171,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Watch Boeing try its pivotal crew spacecraft orbital demonstration launch for the second time](http://feedproxy.google.com/~r/Techcrunch/~3/CzL7dYSqb2w/)
- - [The infrastructure deal could create pipelines for captured CO2](https://www.theverge.com/2021/8/3/22606395/pipeline-battle-co2-removal-carbon-capture-bipartisan-infrastructure)
- - [What tools keep AppleInsider staffers working from home](https://appleinsider.com/articles/21/08/03/what-tools-keep-appleinsider-staffers-working-from-home?utm_medium=rss)<!-- TECH:END -->
+ - [Best deals for August 2 - 15% off refurbished on eBay, $20 off Belkin, more!](https://appleinsider.com/articles/21/08/03/best-deals-for-august-2---15-off-refurbished-ebay-products-20-off-belkin-products-and-more?utm_medium=rss)
+ - [Apple adds new Radeon Pro graphics cards to Mac Pro configurator](https://appleinsider.com/articles/21/08/03/apple-adds-new-radeon-pro-graphics-cards-to-mac-pro-configurator?utm_medium=rss)
+ - [Report: Facebook wants to analyze encrypted WhatsApp messages for ads](https://www.androidauthority.com/whatsapp-encryption-ads-2728774)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
