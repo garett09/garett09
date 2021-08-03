@@ -164,9 +164,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Banish Traffic with New Halo-themed Waze Content](https://news.xbox.com/en-us/2021/08/03/banish-traffic-with-halo-waze-content/)
- - [Final Fantasy 10's Tidus almost became gaming's second plumber](https://www.pcgamer.com/final-fantasy-10s-tidus-almost-became-gamings-second-plumber)
- - [Gory racing game Carmageddon returns in Wreckfest](https://www.polygon.com/22607449/wreckfest-carmageddon-tournament-dates-details)<!-- GAME:END -->
+ - [League of Legends’ Ruined King story wraps up with a new cinematic](https://www.polygon.com/22607668/league-of-legends-ruined-king-sentinels-of-light-event-absolution-cinematic)
+ - [Best gaming monitor 2021](https://www.pcgamer.com/best-gaming-monitor)
+ - [Loki creator Michael Waldron on what to expect in season 2](https://www.polygon.com/interviews/22607497/loki-season-2-interview-michael-waldron)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
