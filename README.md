@@ -164,9 +164,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [In which I predict who will survive The Suicide Squad](https://www.polygon.com/22607675/the-suicide-squad-character-deaths)
- - [Clone Drone in the Danger Zone is Available Now for Xbox One and Xbox Series X|S](https://news.xbox.com/en-us/2021/08/03/clone-drone-in-the-danger-zone-available-now/)
- - [Blizzard delays Diablo Immortal to 2022](https://www.polygon.com/22608318/diablo-immortal-release-date-delayed-2022-blizzard)<!-- GAME:END -->
+ - [Activision Blizzard sued for culture of gender discrimination, sexual harassment](https://www.polygon.com/22608315/activision-blizzard-lawsuit-gender-discrimination-sexual-harassment-california-dfeh)
+ - [Blizzard’s Top HR Guy Out Following Lawsuit And Widespread Criticism](https://kotaku.com/blizzard-s-top-hr-guy-out-following-lawsuit-and-widespr-1847417626)
+ - [Blizzard’s HR boss is the latest exec to say goodbye](https://www.polygon.com/22608340/blizzard-hr-sexual-harassment-lawsuit)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
