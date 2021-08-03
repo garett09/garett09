@@ -171,9 +171,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple's Mac Pro gains new Radeon Pro MPX graphics card options](https://appleinsider.com/articles/21/08/03/apple-adds-new-radeon-pro-graphics-cards-to-mac-pro-configurator?utm_medium=rss)
- - [New Chromebooks will now have Google Meet installed by default](https://www.theverge.com/2021/8/3/22607620/google-meet-app-chromebooks-chrome-os-now-preinstalled)
- - [Poll: What do you think of the Pixel 6 so far?](https://www.androidauthority.com/poll-google-pixel-6-opinion-2728857)<!-- TECH:END -->
+ - [Get Xbox Game Pass Ultimate for $1, plus more great Xbox deals](https://www.androidauthority.com/best-xbox-deals-1118171)
+ - [Fandango combines its streamers under Vudu](https://www.androidauthority.com/fandangonow-vudu-2728916)
+ - [Brendan Fraser joins upcoming Apple TV+ film 'Killers of the Flower Moon' cast](https://appleinsider.com/articles/21/08/03/brendan-fraser-joins-upcoming-apple-tv-film-killers-of-the-flower-moon-cast?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
