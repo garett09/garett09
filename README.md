@@ -171,9 +171,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best US Cellular deals: Save $700 on nearly any phone](https://www.androidauthority.com/best-us-cellular-deals-835558)
- - [Nikola shows its truck going uphill, for a change](https://www.theverge.com/tldr/2021/8/3/22607724/nikola-earnings-hydrogen-truck-trevor-milton)
- - [Apple to partner with Affirm's PayBright on 'buy now, pay later' scheme in Canada, report says](https://appleinsider.com/articles/21/08/03/apple-to-partner-with-affirm-on-buy-now-pay-later-scheme-in-canada-report-says?utm_medium=rss)<!-- TECH:END -->
+ - [Google consolidates its sign-in offerings with a new family of Identity APIs called Google Identity Services, including a new "One Tap" sign in prompt (Abner Li/9to5Google)](http://www.techmeme.com/210803/p43#a210803p43)
+ - [Realme officially launches its Apple MagSafe clone](https://www.androidauthority.com/realme-magdart-magsafe-clone-official-2729094)
+ - [HBO Max looks to woo new subscribers with free episodes](https://www.theverge.com/2021/8/3/22608403/hbo-max-new-subscribers-free-episodes)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
