@@ -171,9 +171,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Delta deploying iPad Pro as pilot electronic flight bag upgrade](https://appleinsider.com/articles/21/08/03/delta-rolls-out-ipad-pro-as-pilot-electronic-flight-bag-upgrade?utm_medium=rss)
- - [This new movie about a half-lamb, half-human child looks terrifying     - CNET](https://www.cnet.com/news/this-new-movie-about-a-half-lamb-half-human-child-looks-terrifying/#ftag=CAD590a51e)
- - [Best Lenovo laptop deals: Discounted ThinkPad, IdeaPad, Yoga and Legion models     - CNET](https://www.cnet.com/tech/computing/best-lenovo-laptop-deals-discounted-thinkpad-ideapad-yoga-and-legion-models/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Robinhood's stock closes at $46.80, up 24.2% on the day's trading, blowing past its IPO price of $38 and becoming the day's "top traded stock" on Fidelity (Maggie Fitzgerald/CNBC)](http://www.techmeme.com/210803/p38#a210803p38)
+ - [Lyft reports Q2 revenue of $765M, up 125% YoY and 26% QoQ, vs $696.9M est., active riders of 17.14M, vs 15.45M est., and a net loss of $251.9M vs $437M in Q2'20 (Jessica Bursztynsky/CNBC)](http://www.techmeme.com/210803/p37#a210803p37)
+ - [Here are the best Amazon Echo deals right now](https://www.theverge.com/21546591/best-amazon-echo-deals)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
