@@ -178,9 +178,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It happens every day](http://9gag.com/gag/aGpqLWz)
- - 🚯 [Diabeetus](http://9gag.com/gag/agBb1Yx)
- - 🚯 [Jumpn&lsquo;t](http://9gag.com/gag/aQoKvOe)<!-- MEMES:END -->
+ - 🚖 [My gf broke up with me after 7 years so this is my new cave.](http://9gag.com/gag/aYoBOxm)
+ - 🚯 [Southern Hospitality &hellip;](http://9gag.com/gag/aB2MZeD)
+ - 🚯 [What your clothes see when the washing machine starts](http://9gag.com/gag/a3ED5N8)<!-- MEMES:END -->
 
 --- 
 
