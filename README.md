@@ -164,9 +164,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [T-Mobile branding removed from Overwatch and Call of Duty League websites](https://www.pcgamer.com/t-mobile-branding-removed-from-overwatch-and-call-of-duty-league-websites)
  - [Get Down, Mr. Freeman](https://kotaku.com/get-down-mr-freeman-1847411349)
- - [The best gaming laptops in Australia for 2021](https://www.pcgamer.com/the-best-gaming-laptops-in-australia-for-2021)
- - [Sony Stops McDonalds From Giving Away PS5 Controllers](https://kotaku.com/sony-stops-mcdonalds-from-releasing-ps5-controllers-1847410890)<!-- GAME:END -->
+ - [The best gaming laptops in Australia for 2021](https://www.pcgamer.com/the-best-gaming-laptops-in-australia-for-2021)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
