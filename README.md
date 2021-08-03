@@ -178,8 +178,8 @@ Windows                  0 secs              ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Pro Bowler](http://9gag.com/gag/aGpqL45)
- - 🚯 [Geh](http://9gag.com/gag/aAb7Q0E)
+ - 🚖 [So heavy](http://9gag.com/gag/ajmj7R8)
+ - 🚯 [What we do to get by](http://9gag.com/gag/aQoKg18)
  - 🚯 [Pretty much](http://9gag.com/gag/ayMAq4W)<!-- MEMES:END -->
 
 --- 
