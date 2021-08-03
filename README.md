@@ -164,9 +164,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Yikes: My Hero Academia’s most hated character might be its first bisexual](https://www.polygon.com/22607424/my-hero-academia-memes-bisexual-mineta-manga-anime)
- - [Activistion Blizzard Faces Second Lawsuit Over First Lawsuit](https://kotaku.com/activistion-blizzard-faces-second-lawsuit-over-first-la-1847415904)
- - [Age of Empires 4 beta begins later this week](https://www.pcgamer.com/age-of-empires-4-closed-beta-date)<!-- GAME:END -->
+ - [In which I predict who will survive The Suicide Squad](https://www.polygon.com/22607675/the-suicide-squad-character-deaths)
+ - [Clone Drone in the Danger Zone is Available Now for Xbox One and Xbox Series X|S](https://news.xbox.com/en-us/2021/08/03/clone-drone-in-the-danger-zone-available-now/)
+ - [Blizzard delays Diablo Immortal to 2022](https://www.polygon.com/22608318/diablo-immortal-release-date-delayed-2022-blizzard)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
