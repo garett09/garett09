@@ -178,9 +178,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [That&#039;s it that&#039;s all it takes](http://9gag.com/gag/aoM6KK0)
- - 🚯 [An orangutan female wears glasses dropped by a visitor to a zoo in Indonesia. Despite the public&#039;s compliments, the glasses were eventually returned to the owner in exchange for a treat](http://9gag.com/gag/aGpqypX)
- - 🚯 [How old are you?](http://9gag.com/gag/abVoA4p)<!-- MEMES:END -->
+ - 🚖 [She&#039;s isn&#039;t dead, her ex sent the alimony in products instead of money](http://9gag.com/gag/aNpXD90)
+ - 🚯 [Rookie mistake by not pulling the handbrakes](http://9gag.com/gag/aXoznDP)
+ - 🚯 [IDK what happened too](http://9gag.com/gag/apNXRwW)<!-- MEMES:END -->
 
 --- 
 
