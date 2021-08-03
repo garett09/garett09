@@ -171,9 +171,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Latin America now has at least 23 unicorns, which collectively have raised $15B+, 15 have raised money this year; 40% of all VC money in 2020 went into fintech (Joanna Glasner/Crunchbase News)](http://www.techmeme.com/210803/p1#a210803p1)
- - [This leak suggests Samsung new foldables could be much cheaper than before](https://www.androidauthority.com/samsung-galaxy-fold-3-galaxy-flip-3-prices-2728476)
- - [Australian court rules AI can be considered an inventor on patent filings, days after South Africa granted a patent in which AI was designated as the inventor (Simon Sharwood/The Register)](http://www.techmeme.com/210802/p40#a210802p40)<!-- TECH:END -->
+ - [Xiaomi has reportedly passed Samsung for the top spot in Europe](https://www.androidauthority.com/europe-q2-2021-xiaomi-2728496)
+ - [London-based Palta, which develops health and wellness apps, raises $100M Series B led by Per Brillioth at VNV Global (Mike Butcher/TechCrunch)](http://www.techmeme.com/210803/p3#a210803p3)
+ - [The confusing language in the infrastructure bill's crypto provision suggests that nearly any entity in crypto is a broker and must collect their users' data (Rainey Reitman/Electronic Frontier ...)](http://www.techmeme.com/210803/p2#a210803p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
