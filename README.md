@@ -178,9 +178,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [For Frodo *and Sam](http://9gag.com/gag/aAb70yp)
- - 🚯 [True hero](http://9gag.com/gag/a07GZYB)
- - 🚯 [Laurel hubbard at the Olympics be like](http://9gag.com/gag/ajmjmoR)<!-- MEMES:END -->
+ - 🚖 [Knit &lsquo;em up](http://9gag.com/gag/aP30ZNq)
+ - 🚯 [This girl being able to walk on a treadmill with her prosthetic legs](http://9gag.com/gag/abVov1L)
+ - 🚯 [Please focus](http://9gag.com/gag/aqjOGVv)<!-- MEMES:END -->
 
 --- 
 
