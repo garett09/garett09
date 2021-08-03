@@ -171,9 +171,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Robinhood's stock closes at $46.80, up 24.2% on the day's trading, blowing past its IPO price of $38 and becoming the day's "top traded stock" on Fidelity (Maggie Fitzgerald/CNBC)](http://www.techmeme.com/210803/p38#a210803p38)
- - [Lyft reports Q2 revenue of $765M, up 125% YoY and 26% QoQ, vs $696.9M est., active riders of 17.14M, vs 15.45M est., and a net loss of $251.9M vs $437M in Q2'20 (Jessica Bursztynsky/CNBC)](http://www.techmeme.com/210803/p37#a210803p37)
- - [Here are the best Amazon Echo deals right now](https://www.theverge.com/21546591/best-amazon-echo-deals)<!-- TECH:END -->
+ - [The best US Cellular deals: Save $700 on nearly any phone](https://www.androidauthority.com/best-us-cellular-deals-835558)
+ - [Nikola shows its truck going uphill, for a change](https://www.theverge.com/tldr/2021/8/3/22607724/nikola-earnings-hydrogen-truck-trevor-milton)
+ - [Apple to partner with Affirm's PayBright on 'buy now, pay later' scheme in Canada, report says](https://appleinsider.com/articles/21/08/03/apple-to-partner-with-affirm-on-buy-now-pay-later-scheme-in-canada-report-says?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
