@@ -178,9 +178,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Knit &lsquo;em up](http://9gag.com/gag/aP30ZNq)
- - 🚯 [This girl being able to walk on a treadmill with her prosthetic legs](http://9gag.com/gag/abVov1L)
- - 🚯 [Please focus](http://9gag.com/gag/aqjOGVv)<!-- MEMES:END -->
+ - 🚖 [Reality is an illusion](http://9gag.com/gag/aMK6ED1)
+ - 🚯 [How old are you?](http://9gag.com/gag/abVoA4p)
+ - 🚯 [This girl being able to walk on a treadmill with her prosthetic legs](http://9gag.com/gag/abVov1L)<!-- MEMES:END -->
 
 --- 
 
