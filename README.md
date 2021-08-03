@@ -164,9 +164,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Linux takes 1% of Steam market share as interest in Steam Deck rises](https://www.pcgamer.com/linux-takes-1-of-steam-market-share-as-interest-in-steam-deck-rises)
- - [Aviat Aircraft Husky A-1C Available Today on Microsoft Flight Simulator](https://news.xbox.com/en-us/2021/08/03/aviat-aircraft-husky-a-1c-available-today-on-microsoft-flight-simulator/)
- - [Halo Infinite's New Radar Sucks](https://kotaku.com/halo-infinites-new-radar-sucks-1847415848)<!-- GAME:END -->
+ - [Yikes: My Hero Academia’s most hated character might be its first bisexual](https://www.polygon.com/22607424/my-hero-academia-memes-bisexual-mineta-manga-anime)
+ - [Activistion Blizzard Faces Second Lawsuit Over First Lawsuit](https://kotaku.com/activistion-blizzard-faces-second-lawsuit-over-first-la-1847415904)
+ - [Age of Empires 4 beta begins later this week](https://www.pcgamer.com/age-of-empires-4-closed-beta-date)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
