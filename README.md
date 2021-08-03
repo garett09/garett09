@@ -171,9 +171,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily Authority: Google’s Pixel plans 📈](https://www.androidauthority.com/newsletters/da-august-3-2021)
- - [Amazon’s drone delivery program ‘one gigantic oversell,’ says report into UK operation](https://www.theverge.com/2021/8/3/22607267/amazon-drone-delivery-program-uk-operations-failure-oversell)
- - [Prepare your wallets: The Google Pixel 6 Pro will be ‘expensive’](https://www.androidauthority.com/google-pixel-6-pro-price-2728664)<!-- TECH:END -->
+ - [Rapyd, which offers APIs to add financial services like payments, raises $300M Series E led by Target Global, sources say at a $8.75B valuation (Ingrid Lunden/TechCrunch)](http://www.techmeme.com/210803/p19#a210803p19)
+ - [Kenya’s Wapi Pay raises $2.2M pre-seed for cross-border payments between Africa and Asia](http://feedproxy.google.com/~r/Techcrunch/~3/HylXKOOTzfw/)
+ - [Apple asking Chinese iPad mini users if the screen is too small](https://appleinsider.com/articles/21/08/03/apple-asking-chinese-ipad-mini-users-if-the-screen-is-too-small?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
