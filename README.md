@@ -179,8 +179,8 @@ Windows                  0 secs              ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [How to get out of a speeding ticket](http://9gag.com/gag/anQ3n60)
- - 🚯 [I guess imperial guys are just hotter...](http://9gag.com/gag/aGpq8p6)
- - 🚯 [- Those bastards lied to me.](http://9gag.com/gag/aXozNwg)<!-- MEMES:END -->
+ - 🚯 [- Those bastards lied to me.](http://9gag.com/gag/aXozNwg)
+ - 🚯 [I guess imperial guys are just hotter...](http://9gag.com/gag/aGpq8p6)<!-- MEMES:END -->
 
 --- 
 
