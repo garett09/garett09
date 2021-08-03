@@ -178,8 +178,8 @@ Windows                  0 secs              ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [90s Gamers](http://9gag.com/gag/aGpqnL5)
- - 🚯 [Don&rsquo;t stress](http://9gag.com/gag/aDdL6z9)
+ - 🚖 [It&#039;s a god damned art](http://9gag.com/gag/aAb76b0)
+ - 🚯 [Look at this shit](http://9gag.com/gag/aZ0Kwzn)
  - 🚯 [I guess imperial guys are just hotter...](http://9gag.com/gag/aGpq8p6)<!-- MEMES:END -->
 
 --- 
