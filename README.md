@@ -171,9 +171,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple TV app, hardware users complain of audio issues](https://appleinsider.com/articles/21/08/02/apple-tv-app-hardware-users-complain-of-audio-issues?utm_medium=rss)
- - [Tesla settles class-action lawsuit over Model S range reduction     - Roadshow](https://www.cnet.com/roadshow/news/tesla-settles-class-action-lawsuit-over-model-s-range-reduction/#ftag=CAD590a51e)
- - [Bill and Melinda Gates are officially divorced as of Monday     - CNET](https://www.cnet.com/news/bill-and-melinda-gates-are-officially-divorced-as-of-monday/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple stops iOS 14.7 code signing following release of iOS 14.7.1](https://appleinsider.com/articles/21/08/03/apple-stops-ios-147-code-signing-following-release-of-ios-1471?utm_medium=rss)
+ - [HBO Max: The 20 best TV shows to watch this week     - CNET](https://www.cnet.com/news/hbo-max-the-20-best-tv-shows-to-watch-this-week/#ftag=CAD590a51e)
+ - [Tokyo Olympics: Simone Biles to compete in balance beam final, how to watch     - CNET](https://www.cnet.com/news/tokyo-olympics-simone-biles-to-compete-in-balance-beam-final-how-to-watch/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
