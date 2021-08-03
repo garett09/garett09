@@ -164,9 +164,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [5 tips for The Walking Dead: Saints & Sinners’ new free expansion, Aftershocks](http://feedproxy.google.com/~r/PSBlog/~3/OgWWDUP8d-8/)
- - [5 tips for The Walking Dead: Saints & Sinners’ new free expansion, Aftershocks](https://blog.playstation.com/2021/08/03/5-tips-for-the-walking-dead-saints-sinners-new-free-expansion-aftershocks/)
- - [Shimmer Up Your Controller Collection with the Aqua Shift Special Edition](https://news.xbox.com/en-us/2021/08/03/shimmer-up-your-controller-collection-with-the-aqua-shift-special-edition/)<!-- GAME:END -->
+ - [Banish Traffic with New Halo-themed Waze Content](https://news.xbox.com/en-us/2021/08/03/banish-traffic-with-halo-waze-content/)
+ - [Final Fantasy 10's Tidus almost became gaming's second plumber](https://www.pcgamer.com/final-fantasy-10s-tidus-almost-became-gamings-second-plumber)
+ - [Gory racing game Carmageddon returns in Wreckfest](https://www.polygon.com/22607449/wreckfest-carmageddon-tournament-dates-details)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
