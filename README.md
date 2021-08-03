@@ -171,9 +171,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
- - [NLRB officer says Amazon violated US labor law](https://www.theverge.com/2021/8/2/22598004/nlrb-officer-new-election-amazon-bessemer-union-drive)
- - [There’s now a subscription service for college textbooks](https://www.theverge.com/2021/8/2/22606423/pearson-plus-college-textbook-subscription-service-app-launch)<!-- TECH:END -->
+ - [Apple TV app, hardware users complain of audio issues](https://appleinsider.com/articles/21/08/02/apple-tv-app-hardware-users-complain-of-audio-issues?utm_medium=rss)
+ - [Tesla settles class-action lawsuit over Model S range reduction     - Roadshow](https://www.cnet.com/roadshow/news/tesla-settles-class-action-lawsuit-over-model-s-range-reduction/#ftag=CAD590a51e)
+ - [Bill and Melinda Gates are officially divorced as of Monday     - CNET](https://www.cnet.com/news/bill-and-melinda-gates-are-officially-divorced-as-of-monday/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
