@@ -171,9 +171,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Get Xbox Game Pass Ultimate for $1, plus more great Xbox deals](https://www.androidauthority.com/best-xbox-deals-1118171)
- - [Fandango combines its streamers under Vudu](https://www.androidauthority.com/fandangonow-vudu-2728916)
- - [Brendan Fraser joins upcoming Apple TV+ film 'Killers of the Flower Moon' cast](https://appleinsider.com/articles/21/08/03/brendan-fraser-joins-upcoming-apple-tv-film-killers-of-the-flower-moon-cast?utm_medium=rss)<!-- TECH:END -->
+ - [Delta deploying iPad Pro as pilot electronic flight bag upgrade](https://appleinsider.com/articles/21/08/03/delta-rolls-out-ipad-pro-as-pilot-electronic-flight-bag-upgrade?utm_medium=rss)
+ - [This new movie about a half-lamb, half-human child looks terrifying     - CNET](https://www.cnet.com/news/this-new-movie-about-a-half-lamb-half-human-child-looks-terrifying/#ftag=CAD590a51e)
+ - [Best Lenovo laptop deals: Discounted ThinkPad, IdeaPad, Yoga and Legion models     - CNET](https://www.cnet.com/tech/computing/best-lenovo-laptop-deals-discounted-thinkpad-ideapad-yoga-and-legion-models/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
