@@ -178,9 +178,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [My gf broke up with me after 7 years so this is my new cave.](http://9gag.com/gag/aYoBOxm)
- - 🚯 [Southern Hospitality &hellip;](http://9gag.com/gag/aB2MZeD)
- - 🚯 [What your clothes see when the washing machine starts](http://9gag.com/gag/a3ED5N8)<!-- MEMES:END -->
+ - 🚖 [Are people in Iran Geh? they do this shit to womans on tv](http://9gag.com/gag/awMD36y)
+ - 🚯 [What your clothes see when the washing machine starts](http://9gag.com/gag/a3ED5N8)
+ - 🚯 [Jumpn&lsquo;t](http://9gag.com/gag/aQoKvOe)<!-- MEMES:END -->
 
 --- 
 
