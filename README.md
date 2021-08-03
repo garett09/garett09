@@ -171,9 +171,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gapsquare, a pioneer of machine learning into gender pay disparity, is acquired by XpertHR](http://feedproxy.google.com/~r/Techcrunch/~3/QpViq5IjnxY/)
- - [Google Pixel 6 series confirmed to launch at least in these 8 countries](https://www.androidauthority.com/google-pixel-6-availability-2728588)
- - [India’s Infra.Market valued at $2.5B in Tiger Global-led $125M funding](http://feedproxy.google.com/~r/Techcrunch/~3/oHXisl0bK5I/)<!-- TECH:END -->
+ - [After Chinese state media criticized online gaming as "opium for the mind" in a now-deleted article, Tencent announces stricter rules for young users (Chong Koh Ping/Wall Street Journal)](http://www.techmeme.com/210803/p6#a210803p6)
+ - [Xiaomi’s new tablets, Mi Mix might launch as soon as next week](https://www.androidauthority.com/xiaomi-mi-pad-5-mi-mix-4-launch-2728610)
+ - [Bill Gates and Melinda French Gates have officially divorced](https://www.theverge.com/2021/8/3/22607200/bill-gates-melinda-french-gates-divorce-finalized-financial-assets-foundation)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
