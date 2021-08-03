@@ -178,9 +178,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It&#039;s a god damned art](http://9gag.com/gag/aAb76b0)
- - 🚯 [Look at this shit](http://9gag.com/gag/aZ0Kwzn)
- - 🚯 [I guess imperial guys are just hotter...](http://9gag.com/gag/aGpq8p6)<!-- MEMES:END -->
+ - 🚖 [How to get out of a speeding ticket](http://9gag.com/gag/anQ3n60)
+ - 🚯 [I guess imperial guys are just hotter...](http://9gag.com/gag/aGpq8p6)
+ - 🚯 [- Those bastards lied to me.](http://9gag.com/gag/aXozNwg)<!-- MEMES:END -->
 
 --- 
 
