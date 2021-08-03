@@ -171,9 +171,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Xiaomi has reportedly passed Samsung for the top spot in Europe](https://www.androidauthority.com/europe-q2-2021-xiaomi-2728496)
- - [London-based Palta, which develops health and wellness apps, raises $100M Series B led by Per Brillioth at VNV Global (Mike Butcher/TechCrunch)](http://www.techmeme.com/210803/p3#a210803p3)
- - [The confusing language in the infrastructure bill's crypto provision suggests that nearly any entity in crypto is a broker and must collect their users' data (Rainey Reitman/Electronic Frontier ...)](http://www.techmeme.com/210803/p2#a210803p2)<!-- TECH:END -->
+ - [Vivo explores phone with multiple pop-up cameras that aren’t meant for selfies](https://www.androidauthority.com/vivo-multiple-pop-up-cameras-phone-2728492)
+ - [Logitech's new Zone True Wireless earbuds get down to business     - CNET](https://www.cnet.com/tech/mobile/logitechs-new-zone-true-wireless-earbuds-get-down-to-business/#ftag=CAD590a51e)
+ - [Nykaa, an Indian e-commerce startup for beauty products, files for an IPO, and seeks to raise as much as $70.6M at a valuation of $4B (Saritha Rai/Bloomberg)](http://www.techmeme.com/210803/p4#a210803p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
