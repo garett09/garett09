@@ -164,9 +164,9 @@ Windows                  0 secs              ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [League of Legends’ Ruined King story wraps up with a new cinematic](https://www.polygon.com/22607668/league-of-legends-ruined-king-sentinels-of-light-event-absolution-cinematic)
- - [Best gaming monitor 2021](https://www.pcgamer.com/best-gaming-monitor)
- - [Loki creator Michael Waldron on what to expect in season 2](https://www.polygon.com/interviews/22607497/loki-season-2-interview-michael-waldron)<!-- GAME:END -->
+ - [Unicomp New Model M review](https://www.pcgamer.com/unicomp-new-model-m-review)
+ - [Death Lurks Nearby in the First Major Updates for Outbreak: Endless Nightmares](https://news.xbox.com/en-us/2021/08/03/first-major-update-for-outbreak-endless-nightmares/)
+ - [Who’s up for some Retired Men’s Nude Beach Volleyball League?](https://www.polygon.com/22607340/retired-mens-nude-beach-volleyball-league-humble-release)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
