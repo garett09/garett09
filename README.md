@@ -171,9 +171,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon expands same-day Prime delivery to 6 more U.S. cities](http://feedproxy.google.com/~r/Techcrunch/~3/unxiUESA5jE/)
- - [Samsung Galaxy Tab S7 FE comes to the US: Here’s the info you need](https://www.androidauthority.com/samsung-galaxy-tab-s7-fe-us-2728998)
- - [When the goals of PR and journalism don’t align](http://feedproxy.google.com/~r/Techcrunch/~3/POF5dlm37_Q/)<!-- TECH:END -->
+ - [Meross Wi-Fi Smart Plug review: A low-cost way into HomeKit automation](https://appleinsider.com/articles/21/08/04/meross-wi-fi-smart-plug-review-a-low-cost-way-into-homekit-automation?utm_medium=rss)
+ - [Instacart hires longtime Facebook ads chief Carolyn Everson, who left in June, as president, starting Sept. 7, following other high-profile hires from Facebook (Salvador Rodriguez/CNBC)](http://www.techmeme.com/210804/p20#a210804p20)
+ - [Final Fantasy VII Remake for PS4 and PS5 is half off through August 19th](https://www.theverge.com/good-deals/2021/8/4/22609420/final-fantasy-vii-remake-ps4-ps5-deal-date)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
