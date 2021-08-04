@@ -178,9 +178,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Belarusian sprinter Tsimanouskaya switched planes last minute as a safety measure and is now flying to Austria instead of Poland](http://9gag.com/gag/aGpq2dX)
- - 🚯 [Have you ever felt rain on a big sunny day during summer? This is ur-&lsquo;rain&rsquo;.](http://9gag.com/gag/azMzYZp)
- - 🚯 [Hans?](http://9gag.com/gag/awMDYGx)<!-- MEMES:END -->
+ - 🚖 [Can&#039;t argue.](http://9gag.com/gag/aDdLOWO)
+ - 🚯 [- Evolution of the Nokia Tune.](http://9gag.com/gag/aZ0K2X9)
+ - 🚯 [Water must be too hot](http://9gag.com/gag/ayMAQGr)<!-- MEMES:END -->
 
 --- 
 
