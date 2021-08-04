@@ -178,9 +178,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Tweet tweet](http://9gag.com/gag/ad8Me9j)
- - 🚯 [New York city 1993 in HD](http://9gag.com/gag/a6Ez2DA)
- - 🚯 [Showing off a wheelie, and then..](http://9gag.com/gag/a6EzB8R)<!-- MEMES:END -->
+ - 🚖 [I&#039;m this old.](http://9gag.com/gag/aMK6XKX)
+ - 🚯 [Accidents happen.](http://9gag.com/gag/aYoBqoO)
+ - 🚯 [Killer save](http://9gag.com/gag/aeAEmWB)<!-- MEMES:END -->
 
 --- 
 
