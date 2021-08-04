@@ -178,9 +178,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Blyat](http://9gag.com/gag/aDdLXvB)
- - 🚯 [Would you help others without showing it to the world?](http://9gag.com/gag/aeAE2q5)
- - 🚯 [I&#039;m not crying](http://9gag.com/gag/a4E8qXZ)<!-- MEMES:END -->
+ - 🚖 [I&#039;m not crying](http://9gag.com/gag/a4E8qXZ)
+ - 🚯 [Can&#039;t argue.](http://9gag.com/gag/aDdLOWO)
+ - 🚯 [Dont be like that, mate!](http://9gag.com/gag/a27VLKD)<!-- MEMES:END -->
 
 --- 
 
