@@ -179,8 +179,8 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [Can&#039;t argue.](http://9gag.com/gag/aDdLOWO)
- - 🚯 [- Evolution of the Nokia Tune.](http://9gag.com/gag/aZ0K2X9)
- - 🚯 [Water must be too hot](http://9gag.com/gag/ayMAQGr)<!-- MEMES:END -->
+ - 🚯 [Water must be too hot](http://9gag.com/gag/ayMAQGr)
+ - 🚯 [Netflix animated series at its best these days](http://9gag.com/gag/aK6yOzN)<!-- MEMES:END -->
 
 --- 
 
