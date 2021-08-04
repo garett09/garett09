@@ -164,9 +164,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Tribes of Midgard Fenrir boss guide](https://www.pcgamer.com/tribes-of-midgard-fenrir-weakness-boss-guide)
- - [​​​Ghost of Tsushima: Legends gets standalone release, adds new “Rivals” mode on September 3](http://feedproxy.google.com/~r/PSBlog/~3/pSisyGPNVUg/)
- - [​​​Ghost of Tsushima: Legends gets standalone release, adds new “Rivals” mode on September 3](https://blog.playstation.com/2021/08/04/ghost-of-tsushima-legends-gets-standalone-release-adds-new-rivals-mode-on-september-3/)<!-- GAME:END -->
+ - [Ghost of Tsushima’s multiplayer gets a stand-alone launch, plus a new mode](https://www.polygon.com/22609584/ghost-of-tsushima-legends-standalone-release-dates-ps4-ps5-directors-cut)
+ - [Rainbow Six Siege Containment Event Adds Parasite-Infected PVP Mode](https://news.xbox.com/en-us/2021/08/04/rainbow-six-siege-containment-event-adds-parasite-infected-pvp-mode/)
+ - [The Sims 4: Cottage Living Is Already One Of Its Best Expansions](https://kotaku.com/the-sims-4-cottage-living-is-already-one-of-its-best-e-1847421534)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
