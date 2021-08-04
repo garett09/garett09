@@ -164,9 +164,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Super Monkey Ball x Jet Set Radio Crossover Is Like A Tasty Peanut Butter Cup](https://kotaku.com/super-monkey-ball-x-jet-set-radio-crossover-is-like-a-t-1847422852)
- - [Braver Comes to Phantasy Star Online 2 New Genesis](https://news.xbox.com/en-us/2021/08/04/braver-comes-to-phantasy-star-online-2-new-genesis/)
- - [Activision Blizzard’s Latest Investor Call Was An Especially Ghoulish Affair](https://kotaku.com/activision-blizzard-s-latest-investor-call-was-an-espec-1847422536)<!-- GAME:END -->
+ - [Retro-Styled Platformer Castle of Pixel Skulls is Available Now](https://news.xbox.com/en-us/2021/08/04/retro-styled-platformer-castle-of-pixel-skulls-is-available-now/)
+ - [Amazon delays its MMO New World, again](https://www.polygon.com/22609853/amazon-game-studios-new-world-mmo-delay-release-date)
+ - [Hold up, PUBG is called PUBG: Battlegrounds now?](https://www.pcgamer.com/hold-up-pubg-is-called-pubg-battlegrounds-now)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
