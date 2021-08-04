@@ -178,9 +178,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Get back in formation you drunken fool](http://9gag.com/gag/a3EDAWe)
- - 🚯 [Blind kid experience his first curb by himself while his parents encouraged him.](http://9gag.com/gag/a07G0od)
- - 🚯 [Opening mozzarella](http://9gag.com/gag/amPymn2)<!-- MEMES:END -->
+ - 🚖 [The difference 100 lbs can make](http://9gag.com/gag/ajmjLbG)
+ - 🚯 [Schooltrip](http://9gag.com/gag/a9EemvK)
+ - 🚯 [Finally some good news](http://9gag.com/gag/aqjOx4L)<!-- MEMES:END -->
 
 --- 
 
