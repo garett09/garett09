@@ -164,9 +164,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Disney’s animated-shorts program is evolving the ways the studio works](https://www.polygon.com/animation-cartoons/22610060/disney-animation-short-circuit-interview)
- - [Become a Space Pirate and Fight Demons in Madness Beverage](https://news.xbox.com/en-us/2021/08/04/become-a-space-pirate-and-fight-demons-in-madness-beverage/)
- - [Art of Rally’s console launch includes new racing course in Kenya](https://www.polygon.com/22610049/art-of-rally-kenya-update-nintendo-switch-release-dates-xbox-series-x-xbox-one-game-pass)<!-- GAME:END -->
+ - [The truth about elven immortality](https://www.polygon.com/lord-of-the-rings/22610056/lord-of-the-rings-where-elves-go-when-they-die-grey-havens)
+ - [Pokémon Unite: The battle between Mons I love and a good team](https://www.polygon.com/22609941/pokemon-unite-team-composition-tanks-fighters)
+ - [How do you playtest a board game for 5-year-olds?](https://www.polygon.com/tabletop-games/22608427/bestselling-childrens-board-games-haba-yellow-boxes-child-psychologist-hammer-time)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
