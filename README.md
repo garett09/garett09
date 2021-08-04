@@ -171,9 +171,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [It’s official: Xiaomi Mi Mix 4 will launch on August 10](https://www.androidauthority.com/xiaomi-mi-pad-5-mi-mix-4-launch-2728610)
- - [WhiteHat Jr founder departs a year after selling to Byju’s](http://feedproxy.google.com/~r/Techcrunch/~3/xP9On1QQqqg/)
- - [Leaked Mi Mix 4 video shows super flexible screen, under-display camera](https://www.androidauthority.com/xiaomi-mi-mix-4-flexible-screen-2729265)<!-- TECH:END -->
+ - [California AG's case examples of CCPA enforcement seem to indicate that companies can't rely on trade groups' blanket opt-out tools not tailored to CCPA (Kate Kaye/Digiday)](http://www.techmeme.com/210804/p2#a210804p2)
+ - [We asked, you told us: This phone takes the best shots so far in 2021](https://www.androidauthority.com/best-camera-phone-2021-poll-results-2729308)
+ - [It’s official: Xiaomi Mi Mix 4 will launch on August 10](https://www.androidauthority.com/xiaomi-mi-pad-5-mi-mix-4-launch-2728610)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
