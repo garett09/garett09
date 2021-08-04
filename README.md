@@ -178,9 +178,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hans?](http://9gag.com/gag/awMDYGx)
- - 🚯 [Interesting](http://9gag.com/gag/a8E9KM1)
- - 🚯 [Tomas](http://9gag.com/gag/aV78BYK)<!-- MEMES:END -->
+ - 🚖 [When Ravi Dahiya(India) was pinning the wrestler down the Kazakistan, Wrestler started biting him but he still pinned him.](http://9gag.com/gag/azMz4jp)
+ - 🚯 [At the World Championship in 1995Jonathan Edwards took a 18.29m triple jump leap. That&#039;s almost 6.10m. per jump and that, my friends, is simply unfreakingbelievable world record that still is standing. I cropped the video and slowed it down...just for you to see it...](http://9gag.com/gag/aAb7Z4o)
+ - 🚯 [That laugh, that damned laugh](http://9gag.com/gag/aO3ORN6)<!-- MEMES:END -->
 
 --- 
 
