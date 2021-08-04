@@ -171,9 +171,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [WhatsApp’s View Once messages feature is finally live: Here’s how to use it](https://www.androidauthority.com/whatsapp-view-once-messages-1637051)
- - [Oppo’s new under-display camera tech promises sharper screens, better images](https://www.androidauthority.com/oppo-next-generation-under-display-camera-2727799)
- - [Galaxy Buds 2 could boast better IP rating than original Buds](https://www.androidauthority.com/samsung-galaxy-buds-2-specs-leak-2729209)<!-- TECH:END -->
+ - [It’s official: Xiaomi Mi Mix 4 will launch on August 10](https://www.androidauthority.com/xiaomi-mi-pad-5-mi-mix-4-launch-2728610)
+ - [WhiteHat Jr founder departs a year after selling to Byju’s](http://feedproxy.google.com/~r/Techcrunch/~3/xP9On1QQqqg/)
+ - [Leaked Mi Mix 4 video shows super flexible screen, under-display camera](https://www.androidauthority.com/xiaomi-mi-mix-4-flexible-screen-2729265)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
