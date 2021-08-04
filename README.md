@@ -171,9 +171,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Overview of the severe shortage of cybersecurity workers across the US government and private sector, despite an unprecedented slate of hacking threats (Joseph Marks/Washington Post)](http://www.techmeme.com/210803/p49#a210803p49)
- - [I became a D&D Dungeon Master because I hate Zoom trivia     - CNET](https://www.cnet.com/news/i-became-a-d-d-dungeon-master-because-i-hate-zoom-trivia/#ftag=CAD590a51e)
- - [Oppo announces ‘next-generation’ under-display selfie camera](https://www.theverge.com/2021/8/3/22608812/oppo-next-generation-under-screen-camera-tech-announced)<!-- TECH:END -->
+ - [Best live TV streaming service for cutting cable     - CNET](https://www.cnet.com/tech/services-and-software/best-live-tv-streaming-service-for-cutting-cable/#ftag=CAD590a51e)
+ - [Apple's AirTag used to monitor alleged illegal dumping of homeless' property](https://appleinsider.com/articles/21/08/04/apples-airtag-used-to-monitor-illegal-dumping-of-homeless-property?utm_medium=rss)
+ - [Overview of the severe shortage of cybersecurity workers across the US government and private sector, despite an unprecedented slate of hacking threats (Joseph Marks/Washington Post)](http://www.techmeme.com/210803/p49#a210803p49)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
