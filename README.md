@@ -171,9 +171,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Amazon's dilemma around mandating vaccinations for workers, which could alienate the many virus skeptics in its ranks, amid a tight labor market (Bloomberg)](http://www.techmeme.com/210804/p23#a210804p23)
- - [Supercritical launches carbon removal offset marketplace for tech firms reach NetZero](http://feedproxy.google.com/~r/Techcrunch/~3/UdOKrWdTeQI/)
- - [Gmail 101: How to increase the time you have to unsend an email](https://www.theverge.com/22608125/gmail-how-to-undo-email-google-send)<!-- TECH:END -->
+ - [Launchpad hiccups indefinitely delay Boeing’s troubled Starliner orbital test](http://feedproxy.google.com/~r/Techcrunch/~3/7omFL5DGin8/)
+ - [Cybersecurity trainer HackerU acquires Cybint for $50M, say sources](http://feedproxy.google.com/~r/Techcrunch/~3/jBnyCUNbiN0/)
+ - [2018 i9 15-inch MacBook Pro review: Three years later, post Apple Silicon](https://appleinsider.com/articles/21/08/04/2018-i9-15-inch-macbook-pro-review-three-years-later-post-apple-silicon?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
