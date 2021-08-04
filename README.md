@@ -178,9 +178,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [China monster fishing fleet,always illegally fishing at neighbours water territorial..](http://9gag.com/gag/aV78By8)
- - 🚯 [Stay in school](http://9gag.com/gag/aoM6nK2)
- - 🚯 [This happens a lot in pop song nowadays because the producers trying to make more money by using chord/tone that already familiar in people ear. (They&#039;re choosing to make products instead of art)](http://9gag.com/gag/aMK6ynA)<!-- MEMES:END -->
+ - 🚖 [Stay in school](http://9gag.com/gag/aoM6nK2)
+ - 🚯 [China monster fishing fleet,always illegally fishing at neighbours water territorial..](http://9gag.com/gag/aV78By8)
+ - 🚯 [That&#039;s kawaii](http://9gag.com/gag/aDdLQ8N)<!-- MEMES:END -->
 
 --- 
 
