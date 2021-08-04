@@ -178,9 +178,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When Ravi Dahiya(India) was pinning the wrestler down the Kazakistan, Wrestler started biting him but he still pinned him.](http://9gag.com/gag/azMz4jp)
- - 🚯 [At the World Championship in 1995Jonathan Edwards took a 18.29m triple jump leap. That&#039;s almost 6.10m. per jump and that, my friends, is simply unfreakingbelievable world record that still is standing. I cropped the video and slowed it down...just for you to see it...](http://9gag.com/gag/aAb7Z4o)
- - 🚯 [That laugh, that damned laugh](http://9gag.com/gag/aO3ORN6)<!-- MEMES:END -->
+ - 🚖 [China monster fishing fleet,always illegally fishing at neighbours water territorial..](http://9gag.com/gag/aV78By8)
+ - 🚯 [Stay in school](http://9gag.com/gag/aoM6nK2)
+ - 🚯 [This happens a lot in pop song nowadays because the producers trying to make more money by using chord/tone that already familiar in people ear. (They&#039;re choosing to make products instead of art)](http://9gag.com/gag/aMK6ynA)<!-- MEMES:END -->
 
 --- 
 
