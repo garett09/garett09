@@ -178,9 +178,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Lolll](http://9gag.com/gag/aAb7XLd)
- - 🚯 [Belgium dying in the olympics decathlon](http://9gag.com/gag/aGpqA0X)
- - 🚯 [Survive.](http://9gag.com/gag/agBb4Mw)<!-- MEMES:END -->
+ - 🚖 [What a Competition Level in Olympics](http://9gag.com/gag/aAb727g)
+ - 🚯 [I&#039;m this old.](http://9gag.com/gag/aMK6XKX)
+ - 🚯 [Would you help others without showing it to the world?](http://9gag.com/gag/aeAE2q5)<!-- MEMES:END -->
 
 --- 
 
