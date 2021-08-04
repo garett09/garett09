@@ -178,8 +178,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The difference 100 lbs can make](http://9gag.com/gag/ajmjLbG)
- - 🚯 [Schooltrip](http://9gag.com/gag/a9EemvK)
+ - 🚖 [This father couldn&#039;t afford a full cake for his daughters birthday and she wasn&#039;t expecting one.](http://9gag.com/gag/a9Ee50m)
+ - 🚯 [How to get a girlfriend 101](http://9gag.com/gag/aQoKA6K)
  - 🚯 [Finally some good news](http://9gag.com/gag/aqjOx4L)<!-- MEMES:END -->
 
 --- 
