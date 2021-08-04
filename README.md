@@ -178,9 +178,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What a Competition Level in Olympics](http://9gag.com/gag/aAb727g)
- - 🚯 [I&#039;m this old.](http://9gag.com/gag/aMK6XKX)
- - 🚯 [Would you help others without showing it to the world?](http://9gag.com/gag/aeAE2q5)<!-- MEMES:END -->
+ - 🚖 [Blyat](http://9gag.com/gag/aDdLXvB)
+ - 🚯 [Would you help others without showing it to the world?](http://9gag.com/gag/aeAE2q5)
+ - 🚯 [I&#039;m not crying](http://9gag.com/gag/a4E8qXZ)<!-- MEMES:END -->
 
 --- 
 
