@@ -178,9 +178,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Stay in school](http://9gag.com/gag/aoM6nK2)
- - 🚯 [China monster fishing fleet,always illegally fishing at neighbours water territorial..](http://9gag.com/gag/aV78By8)
- - 🚯 [That&#039;s kawaii](http://9gag.com/gag/aDdLQ8N)<!-- MEMES:END -->
+ - 🚖 [How is he??!](http://9gag.com/gag/aZ0Kdb6)
+ - 🚯 [That&#039;s kawaii](http://9gag.com/gag/aDdLQ8N)
+ - 🚯 [Girl: Tap Out or Go Out Guy: I choose violence!](http://9gag.com/gag/amPyR1v)<!-- MEMES:END -->
 
 --- 
 
