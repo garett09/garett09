@@ -179,8 +179,8 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [&quot;I was just doin&#039; some push-ups baby&quot;](http://9gag.com/gag/aQoKmbd)
- - 🚯 [To the casino!!](http://9gag.com/gag/a7EBVPA)
- - 🚯 [Finally some good news](http://9gag.com/gag/aqjOx4L)<!-- MEMES:END -->
+ - 🚯 [Tweet tweet](http://9gag.com/gag/ad8Me9j)
+ - 🚯 [ELLY, THAT&#039;S SOLT](http://9gag.com/gag/av5VEZb)<!-- MEMES:END -->
 
 --- 
 
