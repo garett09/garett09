@@ -178,9 +178,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Can&#039;t argue.](http://9gag.com/gag/aDdLOWO)
- - 🚯 [Water must be too hot](http://9gag.com/gag/ayMAQGr)
- - 🚯 [Netflix animated series at its best these days](http://9gag.com/gag/aK6yOzN)<!-- MEMES:END -->
+ - 🚖 [Netflix animated series at its best these days](http://9gag.com/gag/aK6yOzN)
+ - 🚯 [Next time she will think twice before hitting other people *guaranteed*](http://9gag.com/gag/a7EBA5m)
+ - 🚯 [Hans?](http://9gag.com/gag/awMDYGx)<!-- MEMES:END -->
 
 --- 
 
