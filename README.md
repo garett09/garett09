@@ -178,9 +178,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Accidents happen.](http://9gag.com/gag/aYoBqoO)
- - 🚯 [What is this enjoyable sport?](http://9gag.com/gag/a27VD4e)
- - 🚯 [Tweet tweet](http://9gag.com/gag/ad8Me9j)<!-- MEMES:END -->
+ - 🚖 [Tweet tweet](http://9gag.com/gag/ad8Me9j)
+ - 🚯 [New York city 1993 in HD](http://9gag.com/gag/a6Ez2DA)
+ - 🚯 [Showing off a wheelie, and then..](http://9gag.com/gag/a6EzB8R)<!-- MEMES:END -->
 
 --- 
 
