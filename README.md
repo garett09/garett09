@@ -171,9 +171,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Facebook says it has disabled the accounts, apps, Pages, and access to its APIs for researchers running NYU's Ad Observatory Project, citing TOS violations (Bloomberg)](http://www.techmeme.com/210803/p47#a210803p47)
- - [Apple introduces redesigned online store with dedicated 'Store' tab](https://appleinsider.com/articles/21/08/04/apple-introduces-redesigned-online-apple-store-with-ios-design-store-tab-on-homepage?utm_medium=rss)
- - [Apple's online storefront is temporarily offline [u]](https://appleinsider.com/articles/21/08/03/apples-online-storefront-is-temporarily-offline-in-us?utm_medium=rss)<!-- TECH:END -->
+ - [Apple debuts redesigned online store with dedicated 'Store' tab](https://appleinsider.com/articles/21/08/04/apple-introduces-redesigned-online-apple-store-with-ios-design-store-tab-on-homepage?utm_medium=rss)
+ - [T-Mobile to retire Sprint's LTE network in June 2022](https://appleinsider.com/articles/21/08/04/t-mobile-to-retire-sprints-lte-network-in-june-2022?utm_medium=rss)
+ - [Facebook says it has disabled the accounts, apps, Pages, and access to its APIs for researchers running NYU's Ad Observatory Project, citing TOS violations (Bloomberg)](http://www.techmeme.com/210803/p47#a210803p47)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
