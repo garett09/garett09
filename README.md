@@ -171,9 +171,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Female Apple employee put on administrative leave following tweets about sexism in the workplace](https://appleinsider.com/articles/21/08/04/apple-places-female-employee-on-administrative-leave-following-tweets-about-sexism-in-the-workplace?utm_medium=rss)
- - [The best Boost Mobile deals: Save big on a 5GB prepaid plan](https://www.androidauthority.com/best-boost-mobile-deals-839972)
- - [Amnesty International: of the world's 53 largest VC firms, only one meets UN human rights due diligence standards (Edward Ongweso Jr/VICE)](http://www.techmeme.com/210804/p31#a210804p31)<!-- TECH:END -->
+ - [Facebook streamlines the settings page on mobile](https://www.theverge.com/2021/8/4/22610310/facebook-mobile-settings-page-redesign-layout-ios-android-web-lite)
+ - [5 factors founders must consider before choosing their VC](http://feedproxy.google.com/~r/Techcrunch/~3/2Qh6vE1yvnI/)
+ - [Job alert: ‘Spaceport Mixologist’](https://www.theverge.com/2021/8/4/22609916/spacex-job-opening-spaceport-mixologist-starship-elon-musk)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
