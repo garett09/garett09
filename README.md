@@ -178,9 +178,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I&#039;m not crying](http://9gag.com/gag/a4E8qXZ)
- - 🚯 [Can&#039;t argue.](http://9gag.com/gag/aDdLOWO)
- - 🚯 [Dont be like that, mate!](http://9gag.com/gag/a27VLKD)<!-- MEMES:END -->
+ - 🚖 [Belarusian sprinter Tsimanouskaya switched planes last minute as a safety measure and is now flying to Austria instead of Poland](http://9gag.com/gag/aGpq2dX)
+ - 🚯 [Have you ever felt rain on a big sunny day during summer? This is ur-&lsquo;rain&rsquo;.](http://9gag.com/gag/azMzYZp)
+ - 🚯 [Hans?](http://9gag.com/gag/awMDYGx)<!-- MEMES:END -->
 
 --- 
 
