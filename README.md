@@ -171,9 +171,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Peloton is updating its treadmills to again be useful without a subscription](https://www.theverge.com/2021/8/4/22609744/peloton-update-tread-plus-treadmill-lock-subscription)
- - [TikTok is testing a Snapchat-style stories feature](https://www.theverge.com/2021/8/4/22610011/tiktok-stories-snapchat-feature-social-media)
- - [This one-off McLaren Speedtail, named Albert, took 12 weeks to paint     - Roadshow](https://www.cnet.com/roadshow/news/mclaren-speedtail-albert-one-off-hypercar/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [AirPods Pro get Conversation Boost in latest beta firmware release](https://appleinsider.com/articles/21/08/04/airpods-pro-get-conversation-boost-in-latest-beta-software-release?utm_medium=rss)
+ - [EA beats estimates with Q1 total net revenue of $1.55B, up from $1.46B YoY, net income of $204M, down from $365M YoY, and net bookings of $1.34B, down 3% YoY (Dean Takahashi/VentureBeat)](http://www.techmeme.com/210804/p30#a210804p30)
+ - [This Flo Rida Roblox Amazon TikTok ad is fake but amazing](https://www.theverge.com/2021/8/4/22610175/amazon-tiktok-fake-ad-flo-rida-low-roblox-apple-bottom-jeans)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
