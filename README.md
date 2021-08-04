@@ -164,9 +164,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How Final Fantasy 14 brings veterans and newbies together](https://www.pcgamer.com/how-final-fantasy-14-brings-veterans-and-newbies-together)
- - [Jet Set Radio’s Beat joins the new Super Monkey Ball roster](https://www.polygon.com/22608223/super-monkey-ball-banana-mania-jet-set-radio-sega-dreamcast)
- - [Skyward Sword HD Revisits The Stumble That Lead To Breath Of The Wild](https://kotaku.com/skyward-sword-hd-revisits-the-stumble-that-lead-to-brea-1847410364)<!-- GAME:END -->
+ - [Nintendo Lawsuit Forces Japanese Dev To Cough Up $30 Million](https://kotaku.com/nintendo-s-lawsuit-forces-japanese-dev-to-cough-up-30-1847420631)
+ - [Street Fighter 5’s final character, Luke, is a look at Street Fighter’s future](https://www.polygon.com/22609265/street-fighter-5-final-character-dlc-luke-capcom-sf6)
+ - [Far Cry 5 is free to play this weekend](https://www.pcgamer.com/far-cry-5-free-weekend)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
