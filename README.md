@@ -178,9 +178,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [&quot;I was just doin&#039; some push-ups baby&quot;](http://9gag.com/gag/aQoKmbd)
- - 🚯 [Tweet tweet](http://9gag.com/gag/ad8Me9j)
- - 🚯 [ELLY, THAT&#039;S SOLT](http://9gag.com/gag/av5VEZb)<!-- MEMES:END -->
+ - 🚖 [Accidents happen.](http://9gag.com/gag/aYoBqoO)
+ - 🚯 [What is this enjoyable sport?](http://9gag.com/gag/a27VD4e)
+ - 🚯 [Tweet tweet](http://9gag.com/gag/ad8Me9j)<!-- MEMES:END -->
 
 --- 
 
