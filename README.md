@@ -164,9 +164,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [A Tiger In The Grass](https://kotaku.com/a-tiger-in-the-grass-1847418523)
- - [Sizing up the 10 most popular things on Netflix right now](https://www.polygon.com/2020/3/10/21167710/10-netflix-movies-shows-most-popular)
- - [A class-action law firm is looking to make money off its own Activision Blizzard lawsuit](https://www.pcgamer.com/a-class-action-law-firm-is-looking-to-make-money-off-its-own-activision-blizzard-lawsuit)<!-- GAME:END -->
+ - [Left 4 Dead 2 survivors come to Zombie Army 4](https://www.pcgamer.com/left-4-dead-2-survivors-come-to-zombie-army-4)
+ - [Second Life is banning gacha style transactions next month](https://www.pcgamer.com/second-life-is-banning-gacha-style-transactions-next-month)
+ - [A Tiger In The Grass](https://kotaku.com/a-tiger-in-the-grass-1847418523)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
