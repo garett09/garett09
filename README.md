@@ -171,9 +171,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iOS admin app iMazing offers free tool that can detect Pegasus spyware](https://appleinsider.com/articles/21/08/04/ios-admin-app-imazing-offers-free-tool-that-can-detect-pegasus-spyware?utm_medium=rss)
- - [Facebook can project your eyes onto a VR headset, and it’s exactly as uncanny as it sounds](https://www.theverge.com/2021/8/4/22609564/facebook-reality-lab-reverse-passthrough-vr-prototype-research-siggraph)
- - [Meross Wi-Fi Smart Plug review: A low-cost way into HomeKit automation](https://appleinsider.com/articles/21/08/04/meross-wi-fi-smart-plug-review-a-low-cost-way-into-homekit-automation?utm_medium=rss)<!-- TECH:END -->
+ - [Peloton is updating its treadmills to again be useful without a subscription](https://www.theverge.com/2021/8/4/22609744/peloton-update-tread-plus-treadmill-lock-subscription)
+ - [TikTok is testing a Snapchat-style stories feature](https://www.theverge.com/2021/8/4/22610011/tiktok-stories-snapchat-feature-social-media)
+ - [This one-off McLaren Speedtail, named Albert, took 12 weeks to paint     - Roadshow](https://www.cnet.com/roadshow/news/mclaren-speedtail-albert-one-off-hypercar/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
