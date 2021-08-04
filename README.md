@@ -171,9 +171,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Poll: When was the last time you changed your phone wallpaper?](https://www.androidauthority.com/phone-wallpaper-poll-2729393)
- - [Sony’s $499 PS5 is no longer selling at a loss](https://www.theverge.com/2021/8/4/22609150/sony-playstation-5-ps5-loss-profit)
- - [Elroy Air, which is building autonomous drones to transport cargo over long distances, raises $40M Series A from Lockheed Martin and others (Aria Alamalhodaei/TechCrunch)](http://www.techmeme.com/210804/p9#a210804p9)<!-- TECH:END -->
+ - [Buildots, which uses computer vision to modernize construction management, raises $30M Series B led by Lightspeed Ventures (George Lawton/VentureBeat)](http://www.techmeme.com/210804/p13#a210804p13)
+ - [Atlanta-based FullStory, which offers analytics tools to improve user experiences, raises $103M Series D at a $1.8B valuation, bringing total raised to $170M (Ingrid Lunden/TechCrunch)](http://www.techmeme.com/210804/p12#a210804p12)
+ - [Baleon Capital closes first fund to provide capital infusion to healthcare startups](http://feedproxy.google.com/~r/Techcrunch/~3/fwpcmljTVKg/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
