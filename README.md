@@ -164,9 +164,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The truth about elven immortality](https://www.polygon.com/lord-of-the-rings/22610056/lord-of-the-rings-where-elves-go-when-they-die-grey-havens)
- - [Pokémon Unite: The battle between Mons I love and a good team](https://www.polygon.com/22609941/pokemon-unite-team-composition-tanks-fighters)
- - [How do you playtest a board game for 5-year-olds?](https://www.polygon.com/tabletop-games/22608427/bestselling-childrens-board-games-haba-yellow-boxes-child-psychologist-hammer-time)<!-- GAME:END -->
+ - [Destiny 2 assistant director reassures PvP players that they have not been abandoned](https://www.pcgamer.com/destiny-2-assistant-director-reassures-pvp-players-that-they-have-not-been-abandoned)
+ - [Best cheap gaming chair: Snapshot guide](https://www.pcgamer.com/cheap-gaming-chair-should-i-buy)
+ - [PS5 Dev Kits Quickly Pulled From Ebay](https://kotaku.com/ps5-dev-kits-quickly-pulled-from-ebay-1847424806)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
