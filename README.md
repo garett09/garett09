@@ -171,9 +171,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Check out this white OnePlus 9 Pro that you (probably) can’t get](https://www.androidauthority.com/white-oneplus-9-pro-2729365)
- - [Facebook bans academics who researched ad transparency and misinformation on Facebook](https://www.theverge.com/2021/8/4/22609020/facebook-bans-academic-researchers-ad-transparency-misinformation-nyu-ad-observatory-plug-in)
- - [Suma Brands raises $150M to acquire more third-party brands for its Amazon roll-up play](http://feedproxy.google.com/~r/Techcrunch/~3/BgeZ0GPH318/)<!-- TECH:END -->
+ - [Poll: When was the last time you changed your phone wallpaper?](https://www.androidauthority.com/phone-wallpaper-poll-2729393)
+ - [Sony’s $499 PS5 is no longer selling at a loss](https://www.theverge.com/2021/8/4/22609150/sony-playstation-5-ps5-loss-profit)
+ - [Elroy Air, which is building autonomous drones to transport cargo over long distances, raises $40M Series A from Lockheed Martin and others (Aria Alamalhodaei/TechCrunch)](http://www.techmeme.com/210804/p9#a210804p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
