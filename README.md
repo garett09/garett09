@@ -164,9 +164,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Nintendo Lawsuit Forces Japanese Dev To Cough Up $30 Million](https://kotaku.com/nintendo-s-lawsuit-forces-japanese-dev-to-cough-up-30-1847420631)
- - [Street Fighter 5’s final character, Luke, is a look at Street Fighter’s future](https://www.polygon.com/22609265/street-fighter-5-final-character-dlc-luke-capcom-sf6)
- - [Far Cry 5 is free to play this weekend](https://www.pcgamer.com/far-cry-5-free-weekend)<!-- GAME:END -->
+ - [Tribes of Midgard Fenrir boss guide](https://www.pcgamer.com/tribes-of-midgard-fenrir-weakness-boss-guide)
+ - [​​​Ghost of Tsushima: Legends gets standalone release, adds new “Rivals” mode on September 3](http://feedproxy.google.com/~r/PSBlog/~3/pSisyGPNVUg/)
+ - [​​​Ghost of Tsushima: Legends gets standalone release, adds new “Rivals” mode on September 3](https://blog.playstation.com/2021/08/04/ghost-of-tsushima-legends-gets-standalone-release-adds-new-rivals-mode-on-september-3/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
