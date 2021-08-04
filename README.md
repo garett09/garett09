@@ -171,9 +171,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [AirPods Pro get Conversation Boost in latest beta firmware release](https://appleinsider.com/articles/21/08/04/airpods-pro-get-conversation-boost-in-latest-beta-software-release?utm_medium=rss)
- - [EA beats estimates with Q1 total net revenue of $1.55B, up from $1.46B YoY, net income of $204M, down from $365M YoY, and net bookings of $1.34B, down 3% YoY (Dean Takahashi/VentureBeat)](http://www.techmeme.com/210804/p30#a210804p30)
- - [This Flo Rida Roblox Amazon TikTok ad is fake but amazing](https://www.theverge.com/2021/8/4/22610175/amazon-tiktok-fake-ad-flo-rida-low-roblox-apple-bottom-jeans)<!-- TECH:END -->
+ - [Female Apple employee put on administrative leave following tweets about sexism in the workplace](https://appleinsider.com/articles/21/08/04/apple-places-female-employee-on-administrative-leave-following-tweets-about-sexism-in-the-workplace?utm_medium=rss)
+ - [The best Boost Mobile deals: Save big on a 5GB prepaid plan](https://www.androidauthority.com/best-boost-mobile-deals-839972)
+ - [Amnesty International: of the world's 53 largest VC firms, only one meets UN human rights due diligence standards (Edward Ongweso Jr/VICE)](http://www.techmeme.com/210804/p31#a210804p31)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
