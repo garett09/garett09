@@ -164,9 +164,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Battlefield 2042 begins limited playtesting next week](https://www.pcgamer.com/battlefield-2042-begins-limited-playtesting-next-week)
- - [Hades, Lumines Remastered and MS Solitaire join Xbox Game Pass in August](https://www.pcgamer.com/hades-lumines-remastered-and-ms-solitaire-join-xbox-game-pass-in-august)
- - [The Ramp Is Skateboarding Stripped To Its Beautiful Basics](https://kotaku.com/the-ramp-is-skateboarding-stripped-to-its-beautiful-bas-1847418851)<!-- GAME:END -->
+ - [Apex Legends Seer guide: How to get the most from the stealthy scout](https://www.pcgamer.com/apex-legends-seer-abilities)
+ - [Which Tribes of Midgard class to choose](https://www.pcgamer.com/tribes-of-midgard-classes-berserker-tier-list)
+ - [What GPU shortage? AMD and Apple's gorgeous new graphics card comes with two](https://www.pcgamer.com/amd-radeon-pro-w6800x-duo-graphics-card)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
