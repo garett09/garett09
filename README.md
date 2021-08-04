@@ -178,9 +178,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Golden ratio rectangle explained](http://9gag.com/gag/aQoKm9q)
- - 🚯 [Finally I&rsquo;m ready to die](http://9gag.com/gag/abVoxMO)
- - 🚯 [Dedicated effort to get fit and she succeeded](http://9gag.com/gag/aYoBP1x)<!-- MEMES:END -->
+ - 🚖 [&quot;I was just doin&#039; some push-ups baby&quot;](http://9gag.com/gag/aQoKmbd)
+ - 🚯 [To the casino!!](http://9gag.com/gag/a7EBVPA)
+ - 🚯 [Finally some good news](http://9gag.com/gag/aqjOx4L)<!-- MEMES:END -->
 
 --- 
 
