@@ -171,9 +171,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [ByteDance rival Kuaishou is shutting down controversial app Zynn](http://feedproxy.google.com/~r/Techcrunch/~3/rstTkWRahh8/)
- - [Naspers leads $11M investment in South African insurtech Naked](http://feedproxy.google.com/~r/Techcrunch/~3/h_jimVpIvbo/)
- - [Humanity launches ‘slow your aging’ app in the UK and raises $2.5M more from health investors](http://feedproxy.google.com/~r/Techcrunch/~3/3AL7QtloxWg/)<!-- TECH:END -->
+ - [Check out this white OnePlus 9 Pro that you (probably) can’t get](https://www.androidauthority.com/white-oneplus-9-pro-2729365)
+ - [Facebook bans academics who researched ad transparency and misinformation on Facebook](https://www.theverge.com/2021/8/4/22609020/facebook-bans-academic-researchers-ad-transparency-misinformation-nyu-ad-observatory-plug-in)
+ - [Suma Brands raises $150M to acquire more third-party brands for its Amazon roll-up play](http://feedproxy.google.com/~r/Techcrunch/~3/BgeZ0GPH318/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
