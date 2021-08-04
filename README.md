@@ -171,9 +171,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google leaks unannounced Nest security cameras on its own online store](https://www.theverge.com/2021/8/3/22608507/google-leaks-unannounced-nest-camera-doorbell-online-store)
- - [Scientists are sending a slimy blob to space     - CNET](https://www.cnet.com/news/scientists-are-sending-a-slimy-blob-to-space/#ftag=CAD590a51e)
- - [Best place to buy contacts online for 2021     - CNET](https://www.cnet.com/health/personal-care/best-place-to-buy-contacts-online/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Facebook says it has disabled the accounts, apps, Pages, and access to its APIs for researchers running NYU's Ad Observatory Project, citing TOS violations (Bloomberg)](http://www.techmeme.com/210803/p47#a210803p47)
+ - [Apple introduces redesigned online store with dedicated 'Store' tab](https://appleinsider.com/articles/21/08/04/apple-introduces-redesigned-online-apple-store-with-ios-design-store-tab-on-homepage?utm_medium=rss)
+ - [Apple's online storefront is temporarily offline [u]](https://appleinsider.com/articles/21/08/03/apples-online-storefront-is-temporarily-offline-in-us?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
