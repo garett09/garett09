@@ -164,9 +164,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Retro-Styled Platformer Castle of Pixel Skulls is Available Now](https://news.xbox.com/en-us/2021/08/04/retro-styled-platformer-castle-of-pixel-skulls-is-available-now/)
- - [Amazon delays its MMO New World, again](https://www.polygon.com/22609853/amazon-game-studios-new-world-mmo-delay-release-date)
- - [Hold up, PUBG is called PUBG: Battlegrounds now?](https://www.pcgamer.com/hold-up-pubg-is-called-pubg-battlegrounds-now)<!-- GAME:END -->
+ - [Disney’s animated-shorts program is evolving the ways the studio works](https://www.polygon.com/animation-cartoons/22610060/disney-animation-short-circuit-interview)
+ - [Become a Space Pirate and Fight Demons in Madness Beverage](https://news.xbox.com/en-us/2021/08/04/become-a-space-pirate-and-fight-demons-in-madness-beverage/)
+ - [Art of Rally’s console launch includes new racing course in Kenya](https://www.polygon.com/22610049/art-of-rally-kenya-update-nintendo-switch-release-dates-xbox-series-x-xbox-one-game-pass)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
