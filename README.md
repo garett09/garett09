@@ -164,9 +164,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Ghost of Tsushima’s multiplayer gets a stand-alone launch, plus a new mode](https://www.polygon.com/22609584/ghost-of-tsushima-legends-standalone-release-dates-ps4-ps5-directors-cut)
- - [Rainbow Six Siege Containment Event Adds Parasite-Infected PVP Mode](https://news.xbox.com/en-us/2021/08/04/rainbow-six-siege-containment-event-adds-parasite-infected-pvp-mode/)
- - [The Sims 4: Cottage Living Is Already One Of Its Best Expansions](https://kotaku.com/the-sims-4-cottage-living-is-already-one-of-its-best-e-1847421534)<!-- GAME:END -->
+ - [Competitive Horde Mode Coming To Ghost Of Tsushima](https://kotaku.com/competitive-horde-mode-coming-to-ghost-of-tsushima-1847422334)
+ - [Xbox Unveils Life-Size Warthog at 20th Century Studios’ “Free Guy” World Premiere](https://news.xbox.com/en-us/2021/08/04/xbox-unveils-life-size-warthog/)
+ - ['90s Amiga mascot Zool is being exhumed for reasons unknown](https://www.pcgamer.com/90s-amiga-mascot-zool-is-being-exhumed-for-reasons-unknown)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
