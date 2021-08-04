@@ -164,9 +164,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The Ramp Is Skateboarding Stripped To Its Beautiful Basics](https://kotaku.com/the-ramp-is-skateboarding-stripped-to-its-beautiful-bas-1847418851)
  - [Left 4 Dead 2 survivors come to Zombie Army 4](https://www.pcgamer.com/left-4-dead-2-survivors-come-to-zombie-army-4)
- - [Second Life is banning gacha style transactions next month](https://www.pcgamer.com/second-life-is-banning-gacha-style-transactions-next-month)
- - [A Tiger In The Grass](https://kotaku.com/a-tiger-in-the-grass-1847418523)<!-- GAME:END -->
+ - [Second Life is banning gacha style transactions next month](https://www.pcgamer.com/second-life-is-banning-gacha-style-transactions-next-month)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
