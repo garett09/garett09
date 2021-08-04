@@ -178,9 +178,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Lady complains to driver that he brake too fast, starts a high-speed chase and crashes with her 12-year-old son in the car](http://9gag.com/gag/ad8Me6V)
- - 🚯 [When a picture is synomnymous with the word &#039;history&#039;](http://9gag.com/gag/a6EzpL9)
- - 🚯 [This weight loss comparison](http://9gag.com/gag/a6Ez29b)<!-- MEMES:END -->
+ - 🚖 [Lolll](http://9gag.com/gag/aAb7XLd)
+ - 🚯 [Belgium dying in the olympics decathlon](http://9gag.com/gag/aGpqA0X)
+ - 🚯 [Survive.](http://9gag.com/gag/agBb4Mw)<!-- MEMES:END -->
 
 --- 
 
