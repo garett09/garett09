@@ -178,9 +178,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This father couldn&#039;t afford a full cake for his daughters birthday and she wasn&#039;t expecting one.](http://9gag.com/gag/a9Ee50m)
- - 🚯 [How to get a girlfriend 101](http://9gag.com/gag/aQoKA6K)
- - 🚯 [Finally some good news](http://9gag.com/gag/aqjOx4L)<!-- MEMES:END -->
+ - 🚖 [Golden ratio rectangle explained](http://9gag.com/gag/aQoKm9q)
+ - 🚯 [Finally I&rsquo;m ready to die](http://9gag.com/gag/abVoxMO)
+ - 🚯 [Dedicated effort to get fit and she succeeded](http://9gag.com/gag/aYoBP1x)<!-- MEMES:END -->
 
 --- 
 
