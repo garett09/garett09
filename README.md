@@ -164,9 +164,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Competitive Horde Mode Coming To Ghost Of Tsushima](https://kotaku.com/competitive-horde-mode-coming-to-ghost-of-tsushima-1847422334)
- - [Xbox Unveils Life-Size Warthog at 20th Century Studios’ “Free Guy” World Premiere](https://news.xbox.com/en-us/2021/08/04/xbox-unveils-life-size-warthog/)
- - ['90s Amiga mascot Zool is being exhumed for reasons unknown](https://www.pcgamer.com/90s-amiga-mascot-zool-is-being-exhumed-for-reasons-unknown)<!-- GAME:END -->
+ - [Super Monkey Ball x Jet Set Radio Crossover Is Like A Tasty Peanut Butter Cup](https://kotaku.com/super-monkey-ball-x-jet-set-radio-crossover-is-like-a-t-1847422852)
+ - [Braver Comes to Phantasy Star Online 2 New Genesis](https://news.xbox.com/en-us/2021/08/04/braver-comes-to-phantasy-star-online-2-new-genesis/)
+ - [Activision Blizzard’s Latest Investor Call Was An Especially Ghoulish Affair](https://kotaku.com/activision-blizzard-s-latest-investor-call-was-an-espec-1847422536)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
