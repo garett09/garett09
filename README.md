@@ -164,9 +164,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Destiny 2 assistant director reassures PvP players that they have not been abandoned](https://www.pcgamer.com/destiny-2-assistant-director-reassures-pvp-players-that-they-have-not-been-abandoned)
- - [Best cheap gaming chair: Snapshot guide](https://www.pcgamer.com/cheap-gaming-chair-should-i-buy)
- - [PS5 Dev Kits Quickly Pulled From Ebay](https://kotaku.com/ps5-dev-kits-quickly-pulled-from-ebay-1847424806)<!-- GAME:END -->
+ - [The best Solasta: Crown of the Magister mods](https://www.pcgamer.com/the-best-solasta-crown-of-the-magister-mods)
+ - [Defensive Activision Blizzard executive deletes her Twitter account](https://www.pcgamer.com/defensive-activision-blizzard-executive-deletes-her-twitter-account)
+ - [Destiny 2 assistant director reassures PvP players that they have not been abandoned](https://www.pcgamer.com/destiny-2-assistant-director-reassures-pvp-players-that-they-have-not-been-abandoned)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
