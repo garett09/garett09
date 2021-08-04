@@ -171,9 +171,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Buildots, which uses computer vision to modernize construction management, raises $30M Series B led by Lightspeed Ventures (George Lawton/VentureBeat)](http://www.techmeme.com/210804/p13#a210804p13)
- - [Atlanta-based FullStory, which offers analytics tools to improve user experiences, raises $103M Series D at a $1.8B valuation, bringing total raised to $170M (Ingrid Lunden/TechCrunch)](http://www.techmeme.com/210804/p12#a210804p12)
- - [Baleon Capital closes first fund to provide capital infusion to healthcare startups](http://feedproxy.google.com/~r/Techcrunch/~3/fwpcmljTVKg/)<!-- TECH:END -->
+ - [Amazon expands same-day Prime delivery to 6 more U.S. cities](http://feedproxy.google.com/~r/Techcrunch/~3/unxiUESA5jE/)
+ - [Samsung Galaxy Tab S7 FE comes to the US: Here’s the info you need](https://www.androidauthority.com/samsung-galaxy-tab-s7-fe-us-2728998)
+ - [When the goals of PR and journalism don’t align](http://feedproxy.google.com/~r/Techcrunch/~3/POF5dlm37_Q/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
