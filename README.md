@@ -164,9 +164,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Apex Legends Seer guide: How to get the most from the stealthy scout](https://www.pcgamer.com/apex-legends-seer-abilities)
- - [Which Tribes of Midgard class to choose](https://www.pcgamer.com/tribes-of-midgard-classes-berserker-tier-list)
- - [What GPU shortage? AMD and Apple's gorgeous new graphics card comes with two](https://www.pcgamer.com/amd-radeon-pro-w6800x-duo-graphics-card)<!-- GAME:END -->
+ - [How Final Fantasy 14 brings veterans and newbies together](https://www.pcgamer.com/how-final-fantasy-14-brings-veterans-and-newbies-together)
+ - [Jet Set Radio’s Beat joins the new Super Monkey Ball roster](https://www.polygon.com/22608223/super-monkey-ball-banana-mania-jet-set-radio-sega-dreamcast)
+ - [Skyward Sword HD Revisits The Stumble That Lead To Breath Of The Wild](https://kotaku.com/skyward-sword-hd-revisits-the-stumble-that-lead-to-brea-1847410364)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
