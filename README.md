@@ -178,9 +178,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Netflix animated series at its best these days](http://9gag.com/gag/aK6yOzN)
- - 🚯 [Next time she will think twice before hitting other people *guaranteed*](http://9gag.com/gag/a7EBA5m)
- - 🚯 [Hans?](http://9gag.com/gag/awMDYGx)<!-- MEMES:END -->
+ - 🚖 [Hans?](http://9gag.com/gag/awMDYGx)
+ - 🚯 [Interesting](http://9gag.com/gag/a8E9KM1)
+ - 🚯 [Tomas](http://9gag.com/gag/aV78BYK)<!-- MEMES:END -->
 
 --- 
 
