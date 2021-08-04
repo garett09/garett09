@@ -171,9 +171,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Overview of the severe shortage of cybersecurity workers across the US government and private sector, despite an unprecedented slate of hacking threats (Joseph Marks/Washington Post)](http://www.techmeme.com/210803/p49#a210803p49)
  - [I became a D&D Dungeon Master because I hate Zoom trivia     - CNET](https://www.cnet.com/news/i-became-a-d-d-dungeon-master-because-i-hate-zoom-trivia/#ftag=CAD590a51e)
- - [Oppo announces ‘next-generation’ under-display selfie camera](https://www.theverge.com/2021/8/3/22608812/oppo-next-generation-under-screen-camera-tech-announced)
- - [Facebook disables accounts tied to NYU's research into political ads     - CNET](https://www.cnet.com/news/facebook-disables-accounts-tied-to-nyus-research-into-political-ads/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Oppo announces ‘next-generation’ under-display selfie camera](https://www.theverge.com/2021/8/3/22608812/oppo-next-generation-under-screen-camera-tech-announced)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
