@@ -171,9 +171,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Launchpad hiccups indefinitely delay Boeing’s troubled Starliner orbital test](http://feedproxy.google.com/~r/Techcrunch/~3/7omFL5DGin8/)
- - [Cybersecurity trainer HackerU acquires Cybint for $50M, say sources](http://feedproxy.google.com/~r/Techcrunch/~3/jBnyCUNbiN0/)
- - [2018 i9 15-inch MacBook Pro review: Three years later, post Apple Silicon](https://appleinsider.com/articles/21/08/04/2018-i9-15-inch-macbook-pro-review-three-years-later-post-apple-silicon?utm_medium=rss)<!-- TECH:END -->
+ - [Watch a Hacker Hijack a Hotel Room's Lights, Fans, and Beds](https://www.wired.com/story/capsule-hotel-hack-lights-fan-bed)
+ - [Enterprise AI 2.0: the acceleration of B2B innovation has begun](http://feedproxy.google.com/~r/Techcrunch/~3/iuJHh78tjjI/)
+ - [Facebook cuts off NYU researcher access, prompting rebuke from lawmakers](http://feedproxy.google.com/~r/Techcrunch/~3/aKq3CCCM4IA/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
