@@ -171,9 +171,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meross Wi-Fi Smart Plug review: A low-cost way into HomeKit automation](https://appleinsider.com/articles/21/08/04/meross-wi-fi-smart-plug-review-a-low-cost-way-into-homekit-automation?utm_medium=rss)
- - [Instacart hires longtime Facebook ads chief Carolyn Everson, who left in June, as president, starting Sept. 7, following other high-profile hires from Facebook (Salvador Rodriguez/CNBC)](http://www.techmeme.com/210804/p20#a210804p20)
- - [Final Fantasy VII Remake for PS4 and PS5 is half off through August 19th](https://www.theverge.com/good-deals/2021/8/4/22609420/final-fantasy-vii-remake-ps4-ps5-deal-date)<!-- TECH:END -->
+ - [A look at Amazon's dilemma around mandating vaccinations for workers, which could alienate the many virus skeptics in its ranks, amid a tight labor market (Bloomberg)](http://www.techmeme.com/210804/p23#a210804p23)
+ - [Supercritical launches carbon removal offset marketplace for tech firms reach NetZero](http://feedproxy.google.com/~r/Techcrunch/~3/UdOKrWdTeQI/)
+ - [Gmail 101: How to increase the time you have to unsend an email](https://www.theverge.com/22608125/gmail-how-to-undo-email-google-send)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
