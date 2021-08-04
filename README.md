@@ -164,9 +164,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Hades, Lumines Remastered and MS Solitaire join Xbox Game Pass in August](https://www.pcgamer.com/hades-lumines-remastered-and-ms-solitaire-join-xbox-game-pass-in-august)
  - [The Ramp Is Skateboarding Stripped To Its Beautiful Basics](https://kotaku.com/the-ramp-is-skateboarding-stripped-to-its-beautiful-bas-1847418851)
- - [Left 4 Dead 2 survivors come to Zombie Army 4](https://www.pcgamer.com/left-4-dead-2-survivors-come-to-zombie-army-4)
- - [Second Life is banning gacha style transactions next month](https://www.pcgamer.com/second-life-is-banning-gacha-style-transactions-next-month)<!-- GAME:END -->
+ - [Left 4 Dead 2 survivors come to Zombie Army 4](https://www.pcgamer.com/left-4-dead-2-survivors-come-to-zombie-army-4)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
