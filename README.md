@@ -171,9 +171,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple debuts redesigned online store with dedicated 'Store' tab](https://appleinsider.com/articles/21/08/04/apple-introduces-redesigned-online-apple-store-with-ios-design-store-tab-on-homepage?utm_medium=rss)
- - [T-Mobile to retire Sprint's LTE network in June 2022](https://appleinsider.com/articles/21/08/04/t-mobile-to-retire-sprints-lte-network-in-june-2022?utm_medium=rss)
- - [Facebook says it has disabled the accounts, apps, Pages, and access to its APIs for researchers running NYU's Ad Observatory Project, citing TOS violations (Bloomberg)](http://www.techmeme.com/210803/p47#a210803p47)<!-- TECH:END -->
+ - [I became a D&D Dungeon Master because I hate Zoom trivia     - CNET](https://www.cnet.com/news/i-became-a-d-d-dungeon-master-because-i-hate-zoom-trivia/#ftag=CAD590a51e)
+ - [Oppo announces ‘next-generation’ under-display selfie camera](https://www.theverge.com/2021/8/3/22608812/oppo-next-generation-under-screen-camera-tech-announced)
+ - [Facebook disables accounts tied to NYU's research into political ads     - CNET](https://www.cnet.com/news/facebook-disables-accounts-tied-to-nyus-research-into-political-ads/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
