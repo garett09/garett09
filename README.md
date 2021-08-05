@@ -180,9 +180,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Weirdly enough, I like her bikini most of all!](http://9gag.com/gag/aLp337W)
- - 🚯 [I usually lick it off](http://9gag.com/gag/aEpbjXK)
- - 🚯 [Healthy relationship](http://9gag.com/gag/a07GDev)<!-- MEMES:END -->
+ - 🚖 [Finding your dog after he went missing](http://9gag.com/gag/aYoB6xq)
+ - 🚯 [When Kangal Dog swallowed V12 engine.](http://9gag.com/gag/aXozz59)
+ - 🚯 [This is the future old man](http://9gag.com/gag/aeAEzOQ)<!-- MEMES:END -->
 
 --- 
 
