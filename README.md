@@ -173,9 +173,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Music for Artists updated with new 'Shareable Milestones' feature](https://appleinsider.com/articles/21/08/05/apple-music-for-artists-updated-with-new-shareable-milestones-feature?utm_medium=rss)
- - [Sen. Marco Rubio sounds off against in-flight TikTok     - CNET](https://www.cnet.com/news/sen-marco-rubio-sounds-off-against-in-flight-tiktok/#ftag=CAD590a51e)
- - [Apple reveals new efforts to fight child abuse imagery](https://www.theverge.com/2021/8/5/22611721/apple-csam-child-abuse-scanning-hash-system-ncmec)<!-- TECH:END -->
+ - [Duolingo is working on a math app for kids](http://feedproxy.google.com/~r/Techcrunch/~3/E3Mv9X1fPtk/)
+ - [Apple Walks a Privacy Tightrope to Spot Child Abuse in iCloud](https://www.wired.com/story/apple-csam-detection-icloud-photos-encryption-privacy)
+ - [John Deere Doubles Down on Silicon Valley and Robots](https://www.wired.com/story/john-deere-doubles-silicon-valley-robots)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
