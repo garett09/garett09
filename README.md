@@ -171,9 +171,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dataiku, which helps enterprises use AI for data analytics, raises $400M led by Tiger Global at a $4.6B valuation (Bloomberg)](http://www.techmeme.com/210805/p1#a210805p1)
- - [Spilled PSVR 2 headset secrets point to big feature buffs, hybrid games](https://www.androidauthority.com/sony-psvr-2-specs-2729829)
- - [Samsung Galaxy Buds 2 unboxing video drops ahead of launch](https://www.androidauthority.com/samsung-galaxy-buds-2-unboxing-video-2729809)<!-- TECH:END -->
+ - [Nintendo profits decline year-on-year as Switch hits 89 million sold](https://www.theverge.com/2021/8/5/22610853/nintendo-earnings-q1-2021-switch-sales)
+ - [Honor’s latest low-cost earbuds tout strong battery life](https://www.androidauthority.com/honor-earbuds-2-lite-2729726)
+ - [Dataiku gets $400M at a $4.6B valuation, led by Tiger Global](http://feedproxy.google.com/~r/Techcrunch/~3/MzfFY-nveyw/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
