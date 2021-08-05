@@ -171,9 +171,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - ['Little Voice' is first Apple TV+ series to see cancellation](https://appleinsider.com/articles/21/08/05/little-voice-is-first-apple-tv-series-cancellation?utm_medium=rss)
- - [Draw like it’s 1989 with this Kid Pix web app](https://www.theverge.com/tldr/2021/8/4/22610448/kid-pix-html-port-web-art-drawing-memories)
- - [Denver-based Reserve Trust, which enables domestic and international B2B payments, raises $30.5M Series A led by QED Ventures (Mary Ann Azevedo/TechCrunch)](http://www.techmeme.com/210804/p33#a210804p33)<!-- TECH:END -->
+ - [Apple promotes exclusive monthly Apple Card offers in Wallet app](https://appleinsider.com/articles/21/08/05/apple-promotes-exclusive-monthly-apple-card-offers-in-wallet-app?utm_medium=rss)
+ - [Philadelphia-based ZeroEyes, which uses AI to detect guns, raises $20.9M Series A led by Octave Ventures (FinSMEs)](http://www.techmeme.com/210804/p34#a210804p34)
+ - [American Airlines will let you watch 30 minutes of TikTok in the air for free](https://www.theverge.com/2021/8/4/22610408/american-airlines-free-30-minute-tiktok-in-flight)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
