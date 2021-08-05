@@ -173,9 +173,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Moderna says a third shot of its COVID-19 vaccine may be needed to protect against variants](https://www.theverge.com/2021/8/5/22611045/moderna-third-shot-covid-19-vaccine-booster-delta-variants-coronavirus)
- - [Affinity creative apps update makes some tasks up to 10 times faster](https://appleinsider.com/articles/21/08/05/affinity-creative-apps-update-makes-some-tasks-up-to-10-times-faster?utm_medium=rss)
- - [Xiaomi is now the biggest smartphone manufacturer in the world, says one report](https://www.androidauthority.com/xiaomi-june-2021-2730007)<!-- TECH:END -->
+ - [Unfinished AirPower unit shown off in new video](https://appleinsider.com/articles/21/08/05/unfinished-airpower-unit-shown-off-in-new-video?utm_medium=rss)
+ - [Master & Dynamic MW08 versus AirPods Pro and Beats Studio Buds](https://appleinsider.com/articles/21/08/05/master-dynamics-mw08-versus-airpods-pro-and-beats-studio-buds?utm_medium=rss)
+ - [3 invaluable founder lessons I learned on my immigration journey](http://feedproxy.google.com/~r/Techcrunch/~3/uC2o2K24Gs0/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
