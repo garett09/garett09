@@ -178,9 +178,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Perfect time to sit down and talk about the toe story](http://9gag.com/gag/a1rnxdR)
- - 🚯 [Olympic hurdler with her coach](http://9gag.com/gag/aZ0KdX9)
- - 🚯 [How is he??!](http://9gag.com/gag/aZ0Kdb6)<!-- MEMES:END -->
+ - 🚖 [How is he??!](http://9gag.com/gag/aZ0Kdb6)
+ - 🚯 [Next time she will think twice before hitting other people *guaranteed*](http://9gag.com/gag/a7EBA5m)
+ - 🚯 [Olympic hurdler with her coach](http://9gag.com/gag/aZ0KdX9)<!-- MEMES:END -->
 
 --- 
 
