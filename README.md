@@ -166,9 +166,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Cobra Kai season 4 teaser gives up release month, little else](https://www.polygon.com/22611212/cobra-kai-season-4-release-date-netflix)
- - [Bewitching crafting adventure Wytchwood comes to brew on PS4 & PS5 this Fall](http://feedproxy.google.com/~r/PSBlog/~3/0y622lvEwpU/)
- - [Bewitching crafting adventure Wytchwood comes to brew on PS4 & PS5 this Fall](https://blog.playstation.com/2021/08/05/bewitching-crafting-adventure-wytchwood-comes-to-brew-on-ps4-ps5-this-fall/)<!-- GAME:END -->
+ - [The best Bullfrog loadouts for Warzone](https://www.pcgamer.com/best-warzone-bullfrog-loadout-class-setup)
+ - [The best gaming PC in 2021](https://www.pcgamer.com/best-gaming-pc)
+ - [Crafting a tiny open world: A look behind the scenes at the creation of A Short Hike](http://feedproxy.google.com/~r/PSBlog/~3/tNaZMZvNjAI/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
