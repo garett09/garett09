@@ -178,8 +178,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Olympic Cameraman be like:](http://9gag.com/gag/av5VX85)
- - 🚯 [The cable management is impressive!!!](http://9gag.com/gag/aZ0KoPQ)
+ - 🚖 [Ok doc.... (Seriously??)..](http://9gag.com/gag/a3EDeL3)
+ - 🚯 [Aqua is useless](http://9gag.com/gag/aWjANdA)
  - 🚯 [The move that made LeBron cry](http://9gag.com/gag/aQoKN0w)<!-- MEMES:END -->
 
 --- 
