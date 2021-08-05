@@ -181,8 +181,8 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [Finding your dog after he went missing](http://9gag.com/gag/aYoB6xq)
- - 🚯 [When Kangal Dog swallowed V12 engine.](http://9gag.com/gag/aXozz59)
- - 🚯 [This is the future old man](http://9gag.com/gag/aeAEzOQ)<!-- MEMES:END -->
+ - 🚯 [I&#039;m ugly](http://9gag.com/gag/a9Eew0K)
+ - 🚯 [Magenta Vs Mosquito](http://9gag.com/gag/aK6yyNg)<!-- MEMES:END -->
 
 --- 
 
