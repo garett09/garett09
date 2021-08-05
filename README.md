@@ -171,9 +171,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Facebook streamlines the settings page on mobile](https://www.theverge.com/2021/8/4/22610310/facebook-mobile-settings-page-redesign-layout-ios-android-web-lite)
- - [5 factors founders must consider before choosing their VC](http://feedproxy.google.com/~r/Techcrunch/~3/2Qh6vE1yvnI/)
- - [Job alert: ‘Spaceport Mixologist’](https://www.theverge.com/2021/8/4/22609916/spacex-job-opening-spaceport-mixologist-starship-elon-musk)<!-- TECH:END -->
+ - ['Little Voice' is first Apple TV+ series to see cancellation](https://appleinsider.com/articles/21/08/05/little-voice-is-first-apple-tv-series-cancellation?utm_medium=rss)
+ - [Draw like it’s 1989 with this Kid Pix web app](https://www.theverge.com/tldr/2021/8/4/22610448/kid-pix-html-port-web-art-drawing-memories)
+ - [Denver-based Reserve Trust, which enables domestic and international B2B payments, raises $30.5M Series A led by QED Ventures (Mary Ann Azevedo/TechCrunch)](http://www.techmeme.com/210804/p33#a210804p33)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
