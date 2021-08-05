@@ -164,9 +164,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Allegations of 'toxic culture' at acclaimed indie studio Fullbright](https://www.pcgamer.com/allegations-of-toxic-culture-at-acclaimed-indie-studio-fullbright)
  - [Gone Home Studio Co-Founder Steps Down After Allegations Of 'Toxic' Workplace [Update]](https://kotaku.com/gone-home-studio-co-founder-steps-down-after-allegation-1847426033)
- - [How the founder’s toxic culture tore apart Fullbright, the studio behind Gone Home](https://www.polygon.com/22610490/fullbright-steve-gaynor-controversy-stepped-down-open-roads)
- - [PUBG teams up with hugely popular K-pop group Blackpink](https://www.pcgamer.com/pubg-teams-up-with-hugely-popular-k-pop-group-blackpink)<!-- GAME:END -->
+ - [How the founder’s toxic culture tore apart Fullbright, the studio behind Gone Home](https://www.polygon.com/22610490/fullbright-steve-gaynor-controversy-stepped-down-open-roads)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
