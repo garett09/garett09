@@ -180,9 +180,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Priorities.](http://9gag.com/gag/aZ0Kow9)
- - 🚯 [Go Sport](http://9gag.com/gag/aQoKD78)
- - 🚯 [Children need to be taught early on](http://9gag.com/gag/anQ30Dz)<!-- MEMES:END -->
+ - 🚖 [No way!](http://9gag.com/gag/aP30VDB)
+ - 🚯 [Children need to be taught early on](http://9gag.com/gag/anQ30Dz)
+ - 🚯 [How old are you? ME:](http://9gag.com/gag/aO3OOPr)<!-- MEMES:END -->
 
 --- 
 
