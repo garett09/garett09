@@ -171,9 +171,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [These Algorithms Look at X-Rays—and Somehow Detect Your Race](https://www.wired.com/story/these-algorithms-look-x-rays-detect-your-race)
- - [What Rat Empathy May Reveal About Human Compassion](https://www.wired.com/story/what-rat-empathy-may-reveal-about-human-compassion)
- - [11 Face Masks Your Kids May Actually Wear](https://www.wired.com/gallery/best-kids-face-masks)<!-- TECH:END -->
+ - [Checkmarx acquires open source supply chain security startup Dustico](http://feedproxy.google.com/~r/Techcrunch/~3/6d9Y6Gs4rfc/)
+ - [Report: 25 oil and gas organizations spent $9.5M+ on 25K+ Facebook ads in 2020, seen 431M+ times, potentially undermining Facebook's ban on oil and gas misinfo (Chris McGreal/The Guardian)](http://www.techmeme.com/210805/p13#a210805p13)
+ - [Future Apple devices may let you select text fields at a glance](https://appleinsider.com/articles/21/08/05/future-apple-devices-may-let-you-select-text-just-by-looking-at-it?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
