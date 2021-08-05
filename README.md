@@ -166,9 +166,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Second ID@Xbox and Twitch Indie Showcase Slated for August 10](https://news.xbox.com/en-us/2021/08/05/second-idxbox-and-twitch-indie-showcase-august-10/)
- - [That Time Konami Made A Game About Fat-Shaming A Penguin](https://kotaku.com/that-time-konami-made-a-game-about-fat-shaming-a-pengui-1847429336)
- - [Wytchwood, Sol Cresta, and more indies are coming to PS5](https://www.polygon.com/22611373/wytchwood-hades-sol-cresta-oxenfree-2-carrion-a-short-hike-axiom-verge-playstation-indie)<!-- GAME:END -->
+ - [Critical Role’s D&D campaign book is getting the deluxe treatment from Beadle & Grimm’s](https://www.polygon.com/22611639/dungeons-dragons-critical-role-beadle-grimm-delux-tal-dorei-release-date-price)
+ - [Back 4 Blood's Versus mode is missing the magic of Left 4 Dead](https://www.pcgamer.com/back-4-bloods-versus-mode-is-missing-the-magic-of-left-4-dead)
+ - [We Have a Bloody Good Time with Back 4 Blood](https://news.xbox.com/en-us/2021/08/05/back-4-blood-hands-on-preview/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
