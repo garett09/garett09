@@ -166,9 +166,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Y: The Last Man trailer brings the classic comic to life](https://www.polygon.com/22168560/y-the-last-man-trailer-fx-hulu)
- - [The origins of Hades, out next week on PS5, PS4](http://feedproxy.google.com/~r/PSBlog/~3/WJo7dz46MjQ/)
- - [The origins of Hades, out next week on PS5, PS4](https://blog.playstation.com/2021/08/05/the-origins-of-hades-out-next-week-on-ps5-ps4/)<!-- GAME:END -->
+ - [Second ID@Xbox and Twitch Indie Showcase Slated for August 10](https://news.xbox.com/en-us/2021/08/05/second-idxbox-and-twitch-indie-showcase-august-10/)
+ - [That Time Konami Made A Game About Fat-Shaming A Penguin](https://kotaku.com/that-time-konami-made-a-game-about-fat-shaming-a-pengui-1847429336)
+ - [Wytchwood, Sol Cresta, and more indies are coming to PS5](https://www.polygon.com/22611373/wytchwood-hades-sol-cresta-oxenfree-2-carrion-a-short-hike-axiom-verge-playstation-indie)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
