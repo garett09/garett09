@@ -164,9 +164,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [I Bought A Switch And I'm An Idiot, So I Ruined My Daughter's Birthday](https://kotaku.com/i-bought-a-switch-and-im-an-idiot-so-i-ruined-my-daugh-1847425719)
- - [The best gaming mouse in 2021](https://www.pcgamer.com/the-best-gaming-mouse)
- - [The best high refresh rate monitors](https://www.pcgamer.com/best-high-refresh-rate-monitor-for-gaming)<!-- GAME:END -->
+ - [Gone Home Studio Co-Founder Steps Down After Allegations Of 'Toxic' Workplace [Update]](https://kotaku.com/gone-home-studio-co-founder-steps-down-after-allegation-1847426033)
+ - [How the founder’s toxic culture tore apart Fullbright, the studio behind Gone Home](https://www.polygon.com/22610490/fullbright-steve-gaynor-controversy-stepped-down-open-roads)
+ - [PUBG teams up with hugely popular K-pop group Blackpink](https://www.pcgamer.com/pubg-teams-up-with-hugely-popular-k-pop-group-blackpink)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
