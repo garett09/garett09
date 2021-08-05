@@ -164,9 +164,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Papalook PA930 webcam review](https://www.pcgamer.com/papalook-pa930-webcam-review)
- - [A Plague Tale: Innocence and Speed Brawl are free on Epic Games Store this week](https://www.pcgamer.com/a-plague-tale-innocence-and-speed-brawl-are-free-on-epic-games-store-this-week)
- - [Nintendo Sold Too Much Animal Crossing Last Year And That's Hard To Repeat](https://kotaku.com/nintendo-sold-too-much-animal-crossing-last-year-and-th-1847427181)<!-- GAME:END -->
+ - [Genshin Impact 2.1: Everything we know](https://www.pcgamer.com/genshin-impact-21-release-date-update)
+ - [Here's when you can watch Gamescom's Opening Night Live](https://www.pcgamer.com/heres-when-you-can-watch-gamescoms-opening-night-live)
+ - [Don't count on Supergiant making a direct Hades follow-up](https://www.pcgamer.com/dont-count-on-supergiant-making-a-direct-hades-follow-up)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
