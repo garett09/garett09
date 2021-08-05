@@ -173,9 +173,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iTunes Match is not working for a growing number of users](https://appleinsider.com/articles/21/08/05/itunes-match-is-not-working-for-a-growing-number-of-users?utm_medium=rss)
- - [Apple expanding child safety features across iMessage, Siri, iCloud Photos](https://appleinsider.com/articles/21/08/05/apple-expanding-child-safety-features-across-imessage-siri-icloud-photos?utm_medium=rss)
- - [Daily Crunch: Google reveals new designs and improved chip for Nest Cam and Doorbell](http://feedproxy.google.com/~r/Techcrunch/~3/zeQhal59XCA/)<!-- TECH:END -->
+ - [Save over $100 on top Sonos speakers, and more Sonos deals](https://www.androidauthority.com/best-sonos-deals-1116144)
+ - [Best Buy investing millions in Brown Venture Group, a firm exclusively backing BIPOC founders](http://feedproxy.google.com/~r/Techcrunch/~3/cEQLz3vcdYU/)
+ - [Dropbox beats in Q2 with revenue of $530.6M vs estimates of $524.06M, up 13.5% YoY, 16.14M paying users up from 14.96M YoY, and ARR of $2.17B, up 12.2% YoY (Stephanie Condon/ZDNet)](http://www.techmeme.com/210805/p38#a210805p38)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
