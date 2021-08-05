@@ -171,9 +171,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Climbing at the Tokyo Olympics: Start times, finals schedule, how to watch     - CNET](https://www.cnet.com/news/climbing-at-the-tokyo-olympics-start-times-finals-schedule-how-to-watch/#ftag=CAD590a51e)
- - [Apple promotes exclusive monthly Apple Card offers in Wallet app](https://appleinsider.com/articles/21/08/05/apple-promotes-exclusive-monthly-apple-card-offers-in-wallet-app?utm_medium=rss)
- - [Philadelphia-based ZeroEyes, which uses AI to detect guns, raises $20.9M Series A led by Octave Ventures (FinSMEs)](http://www.techmeme.com/210804/p34#a210804p34)<!-- TECH:END -->
+ - [Female Apple employee put on administrative leave following tweets about sexism in the workplace](https://appleinsider.com/articles/21/08/04/apple-places-female-employee-on-administrative-leave-following-tweets-about-sexism-in-the-workplace?utm_medium=rss)
+ - [Mozilla's analysis says Facebook's justifications for cutting off API access to researchers running NYU's Ad Observatory project "simply do not hold water" (Gilad Edelman/Wired)](http://www.techmeme.com/210804/p35#a210804p35)
+ - [UFC 265 Derrick Lewis vs. Cyril Gane: When it starts and how to watch     - CNET](https://www.cnet.com/news/ufc-265-derrick-lewis-vs-cyril-gane-when-it-starts-and-how-to-watch/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
