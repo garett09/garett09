@@ -180,9 +180,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Magenta Vs Mosquito](http://9gag.com/gag/aK6yyNg)
- - 🚯 [After giving countless interviews, finally landed a job in a warehouse. It&#039;s not much but it&#039;s an honest work.](http://9gag.com/gag/a4E8B9v)
- - 🚯 [I usually lick it off](http://9gag.com/gag/aEpbjXK)<!-- MEMES:END -->
+ - 🚖 [Weirdly enough, I like her bikini most of all!](http://9gag.com/gag/aLp337W)
+ - 🚯 [I usually lick it off](http://9gag.com/gag/aEpbjXK)
+ - 🚯 [Healthy relationship](http://9gag.com/gag/a07GDev)<!-- MEMES:END -->
 
 --- 
 
