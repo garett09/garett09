@@ -1,7 +1,4 @@
-<h2> Kumusta (Hello)🙏, I'm Adrian Garett Sian<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-
-<div align="center">
-    <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
+<h2> Kumusta (Hello)🙏, I'm Adrian Garett Sian<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif"><img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/flags/hd/iranparrot.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="25"/>
     <img src="https://cultofthepartyparrot.com/parrots/exceptionallyfastparrot.gif" width="25" height="25"/>
@@ -24,8 +21,7 @@
     <img src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="25" height="25"/>
-</div>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="25" height="25"/></h2>
 
 <p align="center">
 :octocat:<a href="https://github.com/garett09"><img src="https://img.shields.io/badge/-I'm%20craving%20for%20Open%20Source-green?style=for-the-badge&logo=github"></a>:octocat:
