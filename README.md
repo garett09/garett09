@@ -173,9 +173,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Yelp adds tools that let businesses share their Covid policies related to vaccines](http://feedproxy.google.com/~r/Techcrunch/~3/oI4CswY86_w/)
- - [Do bronze medals ever make sense for unicorns?](http://feedproxy.google.com/~r/Techcrunch/~3/LqACHX3Ci34/)
- - [AMD’s Ryzen 5000 processors with integrated graphics are now available to buy](https://www.theverge.com/2021/8/5/22611066/amd-ryzen-5000-g-series-processor-graphics-gpu-cpu)<!-- TECH:END -->
+ - [Crehana, a Latin American online learning service, raises $70M led by General Atlantic and says its user base jumped from 1.2M to 5M in 2020 (Andrea Navarro/Bloomberg)](http://www.techmeme.com/210805/p29#a210805p29)
+ - [Yelp will let businesses list their vaccination policies, including if customers must show proof of vaccination, wear masks, or if all staff are vaccinated (Jon Porter/The Verge)](http://www.techmeme.com/210805/p28#a210805p28)
+ - [Elon Musk shares epic views of Super Heavy rocket moving to launch pad     - CNET](https://www.cnet.com/news/elon-musk-shares-epic-views-of-super-heavy-rocket-moving-to-launch-pad/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
