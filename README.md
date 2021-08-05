@@ -180,9 +180,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Boys](http://9gag.com/gag/aMK6D5W)
- - 🚯 [She probably thought one day, this day, will have her day, and I&rsquo;ll quit this day job.](http://9gag.com/gag/aZ0KoK0)
- - 🚯 [If recycling was honest (cracked:YT)](http://9gag.com/gag/aGpq670)<!-- MEMES:END -->
+ - 🚖 [If recycling was honest (cracked:YT)](http://9gag.com/gag/aGpq670)
+ - 🚯 [Priorities.](http://9gag.com/gag/aZ0Kow9)
+ - 🚯 [Children need to be taught early on](http://9gag.com/gag/anQ30Dz)<!-- MEMES:END -->
 
 --- 
 
