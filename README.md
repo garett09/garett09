@@ -173,9 +173,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A three-pack of Google Wifi mesh routers is just $150 at Amazon](https://www.theverge.com/good-deals/2021/8/5/22610997/google-wifi-mesh-routers-microsoft-surface-duo-samsung-galaxy-deal-sale)
- - [Google refreshes its Nest lineup, including its video doorbell and indoor-only camera, with a unified design language and lower prices (Dan Seifert/The Verge)](http://www.techmeme.com/210805/p15#a210805p15)
- - [Bluecore lands $125M Series E on $1B valuation as e-commerce personalization grows](http://feedproxy.google.com/~r/Techcrunch/~3/lK0Ai8-RoYU/)<!-- TECH:END -->
+ - [Moderna says a third shot of its COVID-19 vaccine may be needed to protect against variants](https://www.theverge.com/2021/8/5/22611045/moderna-third-shot-covid-19-vaccine-booster-delta-variants-coronavirus)
+ - [Affinity creative apps update makes some tasks up to 10 times faster](https://appleinsider.com/articles/21/08/05/affinity-creative-apps-update-makes-some-tasks-up-to-10-times-faster?utm_medium=rss)
+ - [Xiaomi is now the biggest smartphone manufacturer in the world, says one report](https://www.androidauthority.com/xiaomi-june-2021-2730007)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
