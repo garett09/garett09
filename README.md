@@ -164,9 +164,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best Solasta: Crown of the Magister mods](https://www.pcgamer.com/the-best-solasta-crown-of-the-magister-mods)
- - [Defensive Activision Blizzard executive deletes her Twitter account](https://www.pcgamer.com/defensive-activision-blizzard-executive-deletes-her-twitter-account)
- - [Destiny 2 assistant director reassures PvP players that they have not been abandoned](https://www.pcgamer.com/destiny-2-assistant-director-reassures-pvp-players-that-they-have-not-been-abandoned)<!-- GAME:END -->
+ - [I Bought A Switch And I'm An Idiot, So I Ruined My Daughter's Birthday](https://kotaku.com/i-bought-a-switch-and-im-an-idiot-so-i-ruined-my-daugh-1847425719)
+ - [The best gaming mouse in 2021](https://www.pcgamer.com/the-best-gaming-mouse)
+ - [The best high refresh rate monitors](https://www.pcgamer.com/best-high-refresh-rate-monitor-for-gaming)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
