@@ -178,9 +178,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ok doc.... (Seriously??)..](http://9gag.com/gag/a3EDeL3)
- - 🚯 [No way!](http://9gag.com/gag/aP30VDB)
- - 🚯 [Boys](http://9gag.com/gag/aMK6D5W)<!-- MEMES:END -->
+ - 🚖 [Healthy relationship](http://9gag.com/gag/a07GDev)
+ - 🚯 [Ok.. Im out](http://9gag.com/gag/awMDPpx)
+ - 🚯 [Alright have a nice day](http://9gag.com/gag/arM09qX)<!-- MEMES:END -->
 
 --- 
 
