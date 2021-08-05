@@ -178,9 +178,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How is he??!](http://9gag.com/gag/aZ0Kdb6)
- - 🚯 [Next time she will think twice before hitting other people *guaranteed*](http://9gag.com/gag/a7EBA5m)
- - 🚯 [Olympic hurdler with her coach](http://9gag.com/gag/aZ0KdX9)<!-- MEMES:END -->
+ - 🚖 [Big One!](http://9gag.com/gag/aP30pnG)
+ - 🚯 [At the World Championship in 1995Jonathan Edwards took a 18.29m triple jump leap. That&#039;s almost 6.10m. per jump and that, my friends, is simply unfreakingbelievable world record that still is standing. I cropped the video and slowed it down...just for you to see it...](http://9gag.com/gag/aAb7Z4o)
+ - 🚯 [China monster fishing fleet,always illegally fishing at neighbours water territorial..](http://9gag.com/gag/aV78By8)<!-- MEMES:END -->
 
 --- 
 
