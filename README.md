@@ -171,9 +171,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Checkmarx acquires open source supply chain security startup Dustico](http://feedproxy.google.com/~r/Techcrunch/~3/6d9Y6Gs4rfc/)
- - [Report: 25 oil and gas organizations spent $9.5M+ on 25K+ Facebook ads in 2020, seen 431M+ times, potentially undermining Facebook's ban on oil and gas misinfo (Chris McGreal/The Guardian)](http://www.techmeme.com/210805/p13#a210805p13)
- - [Future Apple devices may let you select text fields at a glance](https://appleinsider.com/articles/21/08/05/future-apple-devices-may-let-you-select-text-just-by-looking-at-it?utm_medium=rss)<!-- TECH:END -->
+ - [A three-pack of Google Wifi mesh routers is just $150 at Amazon](https://www.theverge.com/good-deals/2021/8/5/22610997/google-wifi-mesh-routers-microsoft-surface-duo-samsung-galaxy-deal-sale)
+ - [Google refreshes its Nest lineup, including its video doorbell and indoor-only camera, with a unified design language and lower prices (Dan Seifert/The Verge)](http://www.techmeme.com/210805/p15#a210805p15)
+ - [Bluecore lands $125M Series E on $1B valuation as e-commerce personalization grows](http://feedproxy.google.com/~r/Techcrunch/~3/lK0Ai8-RoYU/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
