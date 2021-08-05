@@ -166,9 +166,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Great Ace Attorney’s voice actors share a lot with their characters](https://www.polygon.com/interviews/22608020/interview-the-great-ace-attorney-chronicles-english-voice-actors-ryunosuke-susato)
- - [I’m intrigued by this mini PC with a mobile AMD Ryzen 9 APU for lightweight gaming](https://www.pcgamer.com/minisforum-elitemini-hx90-amd-gaming-pc)
- - [Genshin Impact 2.1: Everything we know](https://www.pcgamer.com/genshin-impact-21-release-date-update)<!-- GAME:END -->
+ - [Ralph Ineson spills the secrets of playing the Green Knight](https://www.polygon.com/interviews/22609679/ralph-ineson-interview-the-green-knight)
+ - [Uncover the full story as Riley in Oxenfree II: Lost Signals, coming to PlayStation](http://feedproxy.google.com/~r/PSBlog/~3/aKITCmvcZOc/)
+ - [Uncover the full story as Riley in Oxenfree II: Lost Signals, coming to PlayStation](https://blog.playstation.com/2021/08/05/uncover-the-full-story-as-riley-in-oxenfree-ii-lost-signals-coming-to-playstation/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
