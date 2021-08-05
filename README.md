@@ -180,9 +180,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Tutankhamooncake](http://9gag.com/gag/aoM6wj0)
- - 🚯 [That&#039;s gotta hurt](http://9gag.com/gag/av5VBqX)
- - 🚯 [I&#039;m ugly](http://9gag.com/gag/a9Eew0K)<!-- MEMES:END -->
+ - 🚖 [How old are you? ME:](http://9gag.com/gag/aO3OOPr)
+ - 🚯 [I&#039;m ugly](http://9gag.com/gag/a9Eew0K)
+ - 🚯 [Tutankhamooncake](http://9gag.com/gag/aoM6wj0)<!-- MEMES:END -->
 
 --- 
 
