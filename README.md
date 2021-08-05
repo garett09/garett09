@@ -180,8 +180,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Tell me that this is the perfect view in the morning that you wish..](http://9gag.com/gag/aEpbbwx)
- - 🚯 [Children need to be taught early on](http://9gag.com/gag/anQ30Dz)
+ - 🚖 [Magenta Vs Mosquito](http://9gag.com/gag/aK6yyNg)
+ - 🚯 [After giving countless interviews, finally landed a job in a warehouse. It&#039;s not much but it&#039;s an honest work.](http://9gag.com/gag/a4E8B9v)
  - 🚯 [I usually lick it off](http://9gag.com/gag/aEpbjXK)<!-- MEMES:END -->
 
 --- 
