@@ -164,9 +164,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Great Ace Attorney Chronicles guide: 6 tips to winning a trial](https://www.pcgamer.com/the-great-ace-attorney-chronicles-guide)
- - [Embracer Group Buys Seven Studios, Including Duke Nukem's 3D Realms](https://kotaku.com/embracer-group-buys-seven-studios-including-duke-nukem-1847426844)
- - [Allegations of 'toxic culture' at acclaimed indie studio Fullbright](https://www.pcgamer.com/allegations-of-toxic-culture-at-acclaimed-indie-studio-fullbright)<!-- GAME:END -->
+ - [Papalook PA930 webcam review](https://www.pcgamer.com/papalook-pa930-webcam-review)
+ - [A Plague Tale: Innocence and Speed Brawl are free on Epic Games Store this week](https://www.pcgamer.com/a-plague-tale-innocence-and-speed-brawl-are-free-on-epic-games-store-this-week)
+ - [Nintendo Sold Too Much Animal Crossing Last Year And That's Hard To Repeat](https://kotaku.com/nintendo-sold-too-much-animal-crossing-last-year-and-th-1847427181)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
