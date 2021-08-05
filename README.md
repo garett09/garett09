@@ -178,9 +178,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ok doc.... (Seriously??)..](http://9gag.com/gag/a3EDeL3)
- - 🚯 [Aqua is useless](http://9gag.com/gag/aWjANdA)
- - 🚯 [The move that made LeBron cry](http://9gag.com/gag/aQoKN0w)<!-- MEMES:END -->
+ - 🚖 [U used to think that gymnastics will have it flat.](http://9gag.com/gag/aAb7qwp)
+ - 🚯 [The move that made LeBron cry](http://9gag.com/gag/aQoKN0w)
+ - 🚯 [Ok doc.... (Seriously??)..](http://9gag.com/gag/a3EDeL3)<!-- MEMES:END -->
 
 --- 
 
