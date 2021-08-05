@@ -171,9 +171,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Female Apple employee put on administrative leave following tweets about sexism in the workplace](https://appleinsider.com/articles/21/08/04/apple-places-female-employee-on-administrative-leave-following-tweets-about-sexism-in-the-workplace?utm_medium=rss)
- - [Apple rolls out exclusive monthly Apple Card offers [u]](https://appleinsider.com/articles/21/08/05/apple-promotes-exclusive-monthly-apple-card-offers-in-wallet-app?utm_medium=rss)
- - [Amazon makes amends after backlash for destroying millions of unsold products](https://www.androidauthority.com/amazon-waste-programs-2729782)<!-- TECH:END -->
+ - [Samsung Galaxy Buds 2 unboxing video drops ahead of launch](https://www.androidauthority.com/samsung-galaxy-buds-2-unboxing-video-2729809)
+ - [Qualcomm could launch a new smartwatch chipset soon, spied code suggests](https://www.androidauthority.com/qualcomm-snapdragon-wear-5100-leak-2729787)
+ - [Female Apple employee put on administrative leave following tweets about sexism in the workplace](https://appleinsider.com/articles/21/08/04/apple-places-female-employee-on-administrative-leave-following-tweets-about-sexism-in-the-workplace?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
