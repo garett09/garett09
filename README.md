@@ -164,9 +164,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Genshin Impact 2.1: Everything we know](https://www.pcgamer.com/genshin-impact-21-release-date-update)
- - [Here's when you can watch Gamescom's Opening Night Live](https://www.pcgamer.com/heres-when-you-can-watch-gamescoms-opening-night-live)
- - [Don't count on Supergiant making a direct Hades follow-up](https://www.pcgamer.com/dont-count-on-supergiant-making-a-direct-hades-follow-up)<!-- GAME:END -->
+ - [The Great Ace Attorney’s voice actors share a lot with their characters](https://www.polygon.com/interviews/22608020/interview-the-great-ace-attorney-chronicles-english-voice-actors-ryunosuke-susato)
+ - [I’m intrigued by this mini PC with a mobile AMD Ryzen 9 APU for lightweight gaming](https://www.pcgamer.com/minisforum-elitemini-hx90-amd-gaming-pc)
+ - [Genshin Impact 2.1: Everything we know](https://www.pcgamer.com/genshin-impact-21-release-date-update)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
