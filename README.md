@@ -166,9 +166,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [John and the Hole is basically We Need to Talk About Kevin McCallister](https://www.polygon.com/movies/22257886/john-and-the-hole-review)
- - [PC Gamer is hiring](https://www.pcgamer.com/pc-gamer-is-hiring)
- - [Pokémon Unite Bug Ruins Gengar’s Best Move](https://kotaku.com/pokemon-unite-bug-ruins-gengar-s-best-move-1847431486)<!-- GAME:END -->
+ - [Red Dead Player Gets Famous For 'Killing' KKK Racists Online](https://kotaku.com/red-dead-player-gets-famous-for-killing-kkk-racists-onl-1847432311)
+ - [Mass Effect Legendary Edition sold even better than EA expected](https://www.pcgamer.com/mass-effect-legendary-edition-sold-even-better-than-ea-expected)
+ - [We played The Green Knight RPG and ... it might be even better than The Green Knight?](https://www.polygon.com/2021/8/5/22611760/green-knight-rpg-tabletop-actual-play-galaxy-brains-podcast)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
