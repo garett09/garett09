@@ -178,9 +178,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Healthy relationship](http://9gag.com/gag/a07GDev)
- - 🚯 [Ok.. Im out](http://9gag.com/gag/awMDPpx)
- - 🚯 [Alright have a nice day](http://9gag.com/gag/arM09qX)<!-- MEMES:END -->
+ - 🚖 [Boys](http://9gag.com/gag/aMK6D5W)
+ - 🚯 [She probably thought one day, this day, will have her day, and I&rsquo;ll quit this day job.](http://9gag.com/gag/aZ0KoK0)
+ - 🚯 [If recycling was honest (cracked:YT)](http://9gag.com/gag/aGpq670)<!-- MEMES:END -->
 
 --- 
 
