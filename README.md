@@ -166,9 +166,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best Bullfrog loadouts for Warzone](https://www.pcgamer.com/best-warzone-bullfrog-loadout-class-setup)
- - [The best gaming PC in 2021](https://www.pcgamer.com/best-gaming-pc)
- - [Crafting a tiny open world: A look behind the scenes at the creation of A Short Hike](http://feedproxy.google.com/~r/PSBlog/~3/tNaZMZvNjAI/)<!-- GAME:END -->
+ - [Y: The Last Man trailer brings the classic comic to life](https://www.polygon.com/22168560/y-the-last-man-trailer-fx-hulu)
+ - [The origins of Hades, out next week on PS5, PS4](http://feedproxy.google.com/~r/PSBlog/~3/WJo7dz46MjQ/)
+ - [The origins of Hades, out next week on PS5, PS4](https://blog.playstation.com/2021/08/05/the-origins-of-hades-out-next-week-on-ps5-ps4/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
