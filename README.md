@@ -10,8 +10,6 @@
     <img src="https://cultofthepartyparrot.com/parrots/databaseparrot.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/parrots/fixparrot.gif" width="36" height="25"/>
 
-&nbsp;
-    
 ![profile count](https://komarev.com/ghpvc/?username=garett09&color=red)
 [![GitHub Garettl](https://img.shields.io/github/followers/garett09?label=follow&style=social)](https://github.com/garett09)
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UChAoCAh1jVTaMz0Sc61X5Xw?style=social)
