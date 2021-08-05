@@ -1,10 +1,5 @@
 <h2> Kumusta (Hello)🙏, I'm Adrian Garett Sian<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 
-![profile count](https://komarev.com/ghpvc/?username=garett09&color=red)
-[![GitHub Garettl](https://img.shields.io/github/followers/garett09?label=follow&style=social)](https://github.com/garett09)
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UChAoCAh1jVTaMz0Sc61X5Xw?style=social)
-[![Wakatime updates](https://github.com/garett09/garett09/actions/workflows/update-commits.yml/badge.svg?branch=main)](https://github.com/garett09/garett09/actions/workflows/update-commits.yml)
-
 <div align="center">
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/flags/hd/iranparrot.gif" width="25" height="25"/>
@@ -35,6 +30,12 @@
 <p align="center">
 :octocat:<a href="https://github.com/garett09"><img src="https://img.shields.io/badge/-I'm%20craving%20for%20Open%20Source-green?style=for-the-badge&logo=github"></a>:octocat:
 </p>
+
+![profile count](https://komarev.com/ghpvc/?username=garett09&color=red)
+[![GitHub Garettl](https://img.shields.io/github/followers/garett09?label=follow&style=social)](https://github.com/garett09)
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UChAoCAh1jVTaMz0Sc61X5Xw?style=social)
+[![Wakatime updates](https://github.com/garett09/garett09/actions/workflows/update-commits.yml/badge.svg?branch=main)](https://github.com/garett09/garett09/actions/workflows/update-commits.yml)
+
 ---
 
 ## <img src="https://media.giphy.com/media/fTsZNbPQxJWtor2LXE/giphy.gif"  width="30">&nbsp;About Me
