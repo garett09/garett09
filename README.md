@@ -178,9 +178,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [She probably thought one day, this day, will have her day, and I&rsquo;ll quit this day job.](http://9gag.com/gag/aZ0KoK0)
- - 🚯 [She worked 42 years as a nurse at the same hospital. 1979-2021](http://9gag.com/gag/a9EeN6L)
- - 🚯 [The cable management is impressive!!!](http://9gag.com/gag/aZ0KoPQ)<!-- MEMES:END -->
+ - 🚖 [Ok doc.... (Seriously??)..](http://9gag.com/gag/a3EDeL3)
+ - 🚯 [No way!](http://9gag.com/gag/aP30VDB)
+ - 🚯 [Boys](http://9gag.com/gag/aMK6D5W)<!-- MEMES:END -->
 
 --- 
 
