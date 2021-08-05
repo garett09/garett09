@@ -8,8 +8,6 @@
 [![Wakatime updates](https://github.com/garett09/garett09/actions/workflows/update-commits.yml/badge.svg?branch=main)](https://github.com/garett09/garett09/actions/workflows/update-commits.yml) 
 :octocat:<a href="https://github.com/garett09"><img src="https://img.shields.io/badge/-I'm%20craving%20for%20Open%20Source-green?style=for-the-badge&logo=github" width="250"></a>:octocat:
 
----
-
 ## <img src="https://media.giphy.com/media/fTsZNbPQxJWtor2LXE/giphy.gif"  width="30">&nbsp;About Me
 -   👩‍💻  **Currently a third year student at the University of Santo Tomas. Aiming to be a passionate developer in the future.**
 -   🔭  I’m currently working on  **ROM development that I make on my own device which includes LineageOS, dotOs, and cRdroid.**
