@@ -180,8 +180,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [If recycling was honest (cracked:YT)](http://9gag.com/gag/aGpq670)
- - 🚯 [Priorities.](http://9gag.com/gag/aZ0Kow9)
+ - 🚖 [Priorities.](http://9gag.com/gag/aZ0Kow9)
+ - 🚯 [Go Sport](http://9gag.com/gag/aQoKD78)
  - 🚯 [Children need to be taught early on](http://9gag.com/gag/anQ30Dz)<!-- MEMES:END -->
 
 --- 
