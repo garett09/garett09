@@ -173,9 +173,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Unfinished AirPower unit shown off in new video](https://appleinsider.com/articles/21/08/05/unfinished-airpower-unit-shown-off-in-new-video?utm_medium=rss)
- - [Master & Dynamic MW08 versus AirPods Pro and Beats Studio Buds](https://appleinsider.com/articles/21/08/05/master-dynamics-mw08-versus-airpods-pro-and-beats-studio-buds?utm_medium=rss)
- - [3 invaluable founder lessons I learned on my immigration journey](http://feedproxy.google.com/~r/Techcrunch/~3/uC2o2K24Gs0/)<!-- TECH:END -->
+ - [Yelp adds tools that let businesses share their Covid policies related to vaccines](http://feedproxy.google.com/~r/Techcrunch/~3/oI4CswY86_w/)
+ - [Do bronze medals ever make sense for unicorns?](http://feedproxy.google.com/~r/Techcrunch/~3/LqACHX3Ci34/)
+ - [AMD’s Ryzen 5000 processors with integrated graphics are now available to buy](https://www.theverge.com/2021/8/5/22611066/amd-ryzen-5000-g-series-processor-graphics-gpu-cpu)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
