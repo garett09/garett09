@@ -166,9 +166,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Destiny 2 is getting a major ability refresh later this month](https://www.polygon.com/22611977/destiny-2-ability-change-balance-patch-aug-24-showcase-season-15-witch-queen)
- - [Coca-Cola and State Farm are pulling back from the Overwatch League](https://www.pcgamer.com/coca-cola-and-state-farm-are-pulling-back-from-the-overwatch-league)
- - [All Those Cool Games You Thought Were Already On PS4 Are Coming To PS4](https://kotaku.com/all-those-cool-games-you-thought-were-already-on-ps4-ar-1847432748)<!-- GAME:END -->
+ - [FIFA Ultimate Team's new Preview Packs actually boosted loot box sales, EA says](https://www.pcgamer.com/fifa-ultimate-teams-new-preview-packs-actually-boosted-loot-box-sales-ea-says)
+ - [The BBC Still Doesn't Know What Gundam is](https://kotaku.com/the-bbc-still-doesnt-know-what-gundam-is-1847433101)
+ - [Haven Park is a short and cozy island management game that I never want to end](https://www.pcgamer.com/haven-park-is-a-short-and-cozy-island-management-game-that-i-never-want-to-end)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
