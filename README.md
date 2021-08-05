@@ -173,9 +173,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Walter Isaacson is working on a biography of Elon Musk](http://feedproxy.google.com/~r/Techcrunch/~3/GsfwH_IVpdc/)
- - [Scarlett Johansson’s Black Widow lawsuit has unearthed a huge problem with streaming](https://www.theverge.com/22611516/scarlett-johansson-disney-lawsuit-streaming-services-transparency)
- - [Microsoft announces "Super Duper Secure Mode" for its Edge desktop browser, which disables V8's JIT, allowing for security features like Arbitrary Code Guard (Catalin Cimpanu/The Record)](http://www.techmeme.com/210805/p31#a210805p31)<!-- TECH:END -->
+ - [Amazon’s Halo band can share your heart rate to other apps and workout equipment](https://www.theverge.com/2021/8/5/22611518/amazon-halo-band-heart-rate-third-party-apps)
+ - [Unfinished AirPower unit shown off in new video](https://appleinsider.com/articles/21/08/05/unfinished-airpower-unit-shown-off-in-new-video?utm_medium=rss)
+ - [Apple expanding child safety features across iMessage, Siri, iCloud Photos](https://appleinsider.com/articles/21/08/05/apple-expanding-child-safety-features-across-imessage-siri-icloud-photos?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
