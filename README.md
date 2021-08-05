@@ -166,9 +166,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Red Dead Player Gets Famous For 'Killing' KKK Racists Online](https://kotaku.com/red-dead-player-gets-famous-for-killing-kkk-racists-onl-1847432311)
- - [Mass Effect Legendary Edition sold even better than EA expected](https://www.pcgamer.com/mass-effect-legendary-edition-sold-even-better-than-ea-expected)
- - [We played The Green Knight RPG and ... it might be even better than The Green Knight?](https://www.polygon.com/2021/8/5/22611760/green-knight-rpg-tabletop-actual-play-galaxy-brains-podcast)<!-- GAME:END -->
+ - [Destiny 2 is getting a major ability refresh later this month](https://www.polygon.com/22611977/destiny-2-ability-change-balance-patch-aug-24-showcase-season-15-witch-queen)
+ - [Coca-Cola and State Farm are pulling back from the Overwatch League](https://www.pcgamer.com/coca-cola-and-state-farm-are-pulling-back-from-the-overwatch-league)
+ - [All Those Cool Games You Thought Were Already On PS4 Are Coming To PS4](https://kotaku.com/all-those-cool-games-you-thought-were-already-on-ps4-ar-1847432748)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
