@@ -166,9 +166,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Ralph Ineson spills the secrets of playing the Green Knight](https://www.polygon.com/interviews/22609679/ralph-ineson-interview-the-green-knight)
- - [Uncover the full story as Riley in Oxenfree II: Lost Signals, coming to PlayStation](http://feedproxy.google.com/~r/PSBlog/~3/aKITCmvcZOc/)
- - [Uncover the full story as Riley in Oxenfree II: Lost Signals, coming to PlayStation](https://blog.playstation.com/2021/08/05/uncover-the-full-story-as-riley-in-oxenfree-ii-lost-signals-coming-to-playstation/)<!-- GAME:END -->
+ - [Cobra Kai season 4 teaser gives up release month, little else](https://www.polygon.com/22611212/cobra-kai-season-4-release-date-netflix)
+ - [Bewitching crafting adventure Wytchwood comes to brew on PS4 & PS5 this Fall](http://feedproxy.google.com/~r/PSBlog/~3/0y622lvEwpU/)
+ - [Bewitching crafting adventure Wytchwood comes to brew on PS4 & PS5 this Fall](https://blog.playstation.com/2021/08/05/bewitching-crafting-adventure-wytchwood-comes-to-brew-on-ps4-ps5-this-fall/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
