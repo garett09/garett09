@@ -164,9 +164,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The Great Ace Attorney Chronicles guide: 6 tips to winning a trial](https://www.pcgamer.com/the-great-ace-attorney-chronicles-guide)
  - [Embracer Group Buys Seven Studios, Including Duke Nukem's 3D Realms](https://kotaku.com/embracer-group-buys-seven-studios-including-duke-nukem-1847426844)
- - [Allegations of 'toxic culture' at acclaimed indie studio Fullbright](https://www.pcgamer.com/allegations-of-toxic-culture-at-acclaimed-indie-studio-fullbright)
- - [Gone Home Studio Co-Founder Steps Down After Allegations Of 'Toxic' Workplace [Update]](https://kotaku.com/gone-home-studio-co-founder-steps-down-after-allegation-1847426033)<!-- GAME:END -->
+ - [Allegations of 'toxic culture' at acclaimed indie studio Fullbright](https://www.pcgamer.com/allegations-of-toxic-culture-at-acclaimed-indie-studio-fullbright)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
