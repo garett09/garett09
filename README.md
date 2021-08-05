@@ -173,9 +173,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Duolingo is working on a math app for kids](http://feedproxy.google.com/~r/Techcrunch/~3/E3Mv9X1fPtk/)
- - [Apple Walks a Privacy Tightrope to Spot Child Abuse in iCloud](https://www.wired.com/story/apple-csam-detection-icloud-photos-encryption-privacy)
- - [John Deere Doubles Down on Silicon Valley and Robots](https://www.wired.com/story/john-deere-doubles-silicon-valley-robots)<!-- TECH:END -->
+ - [iTunes Match is not working for a growing number of users](https://appleinsider.com/articles/21/08/05/itunes-match-is-not-working-for-a-growing-number-of-users?utm_medium=rss)
+ - [Apple expanding child safety features across iMessage, Siri, iCloud Photos](https://appleinsider.com/articles/21/08/05/apple-expanding-child-safety-features-across-imessage-siri-icloud-photos?utm_medium=rss)
+ - [Daily Crunch: Google reveals new designs and improved chip for Nest Cam and Doorbell](http://feedproxy.google.com/~r/Techcrunch/~3/zeQhal59XCA/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
