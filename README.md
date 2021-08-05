@@ -173,9 +173,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Crehana, a Latin American online learning service, raises $70M led by General Atlantic and says its user base jumped from 1.2M to 5M in 2020 (Andrea Navarro/Bloomberg)](http://www.techmeme.com/210805/p29#a210805p29)
- - [Yelp will let businesses list their vaccination policies, including if customers must show proof of vaccination, wear masks, or if all staff are vaccinated (Jon Porter/The Verge)](http://www.techmeme.com/210805/p28#a210805p28)
- - [Elon Musk shares epic views of Super Heavy rocket moving to launch pad     - CNET](https://www.cnet.com/news/elon-musk-shares-epic-views-of-super-heavy-rocket-moving-to-launch-pad/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Walter Isaacson is working on a biography of Elon Musk](http://feedproxy.google.com/~r/Techcrunch/~3/GsfwH_IVpdc/)
+ - [Scarlett Johansson’s Black Widow lawsuit has unearthed a huge problem with streaming](https://www.theverge.com/22611516/scarlett-johansson-disney-lawsuit-streaming-services-transparency)
+ - [Microsoft announces "Super Duper Secure Mode" for its Edge desktop browser, which disables V8's JIT, allowing for security features like Arbitrary Code Guard (Catalin Cimpanu/The Record)](http://www.techmeme.com/210805/p31#a210805p31)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
