@@ -172,8 +172,8 @@ No Activity Tracked This Week
 
 <!-- TECH:START -->
  - [Female Apple employee put on administrative leave following tweets about sexism in the workplace](https://appleinsider.com/articles/21/08/04/apple-places-female-employee-on-administrative-leave-following-tweets-about-sexism-in-the-workplace?utm_medium=rss)
- - [Mozilla's analysis says Facebook's justifications for cutting off API access to researchers running NYU's Ad Observatory project "simply do not hold water" (Gilad Edelman/Wired)](http://www.techmeme.com/210804/p35#a210804p35)
- - [UFC 265 Derrick Lewis vs. Cyril Gane: When it starts and how to watch     - CNET](https://www.cnet.com/news/ufc-265-derrick-lewis-vs-cyril-gane-when-it-starts-and-how-to-watch/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple rolls out exclusive monthly Apple Card offers [u]](https://appleinsider.com/articles/21/08/05/apple-promotes-exclusive-monthly-apple-card-offers-in-wallet-app?utm_medium=rss)
+ - [Amazon makes amends after backlash for destroying millions of unsold products](https://www.androidauthority.com/amazon-waste-programs-2729782)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
