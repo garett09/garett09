@@ -178,9 +178,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I&#039;ve been homeless too. Watching people go home was the worst](http://9gag.com/gag/awMDvgx)
- - 🚯 [Big One!](http://9gag.com/gag/aP30pnG)
- - 🚯 [Olympic Cameraman be like:](http://9gag.com/gag/av5VX85)<!-- MEMES:END -->
+ - 🚖 [Olympic Cameraman be like:](http://9gag.com/gag/av5VX85)
+ - 🚯 [The cable management is impressive!!!](http://9gag.com/gag/aZ0KoPQ)
+ - 🚯 [The move that made LeBron cry](http://9gag.com/gag/aQoKN0w)<!-- MEMES:END -->
 
 --- 
 
