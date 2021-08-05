@@ -171,9 +171,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon's free, ad-supported streaming service IMDb TV arrives on iOS and Android, more than two years after launching (Todd Spangler/Variety)](http://www.techmeme.com/210805/p8#a210805p8)
- - [Tencent resumes accepting user registrations on WeChat, after suspending them on July 27 for a "security technical upgrade" to comply with Chinese regulations (Zheping Huang/Bloomberg)](http://www.techmeme.com/210805/p7#a210805p7)
- - [Ford's BlueCruise driving aid is easy-peasy hands-free tech     - Roadshow](https://www.cnet.com/roadshow/news/ford-bluecruise-hands-free-driver-tech-review/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [These Algorithms Look at X-Rays—and Somehow Detect Your Race](https://www.wired.com/story/these-algorithms-look-x-rays-detect-your-race)
+ - [What Rat Empathy May Reveal About Human Compassion](https://www.wired.com/story/what-rat-empathy-may-reveal-about-human-compassion)
+ - [11 Face Masks Your Kids May Actually Wear](https://www.wired.com/gallery/best-kids-face-masks)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
