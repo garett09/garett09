@@ -180,9 +180,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Finding your dog after he went missing](http://9gag.com/gag/aYoB6xq)
- - 🚯 [I&#039;m ugly](http://9gag.com/gag/a9Eew0K)
- - 🚯 [Magenta Vs Mosquito](http://9gag.com/gag/aK6yyNg)<!-- MEMES:END -->
+ - 🚖 [Tutankhamooncake](http://9gag.com/gag/aoM6wj0)
+ - 🚯 [That&#039;s gotta hurt](http://9gag.com/gag/av5VBqX)
+ - 🚯 [I&#039;m ugly](http://9gag.com/gag/a9Eew0K)<!-- MEMES:END -->
 
 --- 
 
