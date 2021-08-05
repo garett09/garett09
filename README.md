@@ -15,8 +15,7 @@
     <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="25" height="25"/>
 
 &nbsp;
-&nbsp;
-&nbsp;
+
     
 ![profile count](https://komarev.com/ghpvc/?username=garett09&color=red)
 [![GitHub Garettl](https://img.shields.io/github/followers/garett09?label=follow&style=social)](https://github.com/garett09)
