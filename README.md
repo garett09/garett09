@@ -171,9 +171,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nintendo profits decline year-on-year as Switch hits 89 million sold](https://www.theverge.com/2021/8/5/22610853/nintendo-earnings-q1-2021-switch-sales)
- - [Honor’s latest low-cost earbuds tout strong battery life](https://www.androidauthority.com/honor-earbuds-2-lite-2729726)
- - [Dataiku gets $400M at a $4.6B valuation, led by Tiger Global](http://feedproxy.google.com/~r/Techcrunch/~3/MzfFY-nveyw/)<!-- TECH:END -->
+ - [Steve Jobs’ biographer Walter Isaacson is writing a book about Elon Musk, says Elon Musk](https://www.theverge.com/2021/8/5/22610862/elon-musk-biography-walter-isaacson-steve-jobs)
+ - [Apple's HomePod, HomePod mini 'largely absent' in smart speaker market](https://appleinsider.com/articles/21/08/04/apples-homepod-homepod-mini-largely-absent-in-smart-speaker-market?utm_medium=rss)
+ - [Biden wants half of new cars sold in 2030 to be hybrid or all-electric](https://www.theverge.com/2021/8/5/22610501/biden-2030-ev-goal-trump-emissions-rollback)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
