@@ -166,9 +166,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Critical Role’s D&D campaign book is getting the deluxe treatment from Beadle & Grimm’s](https://www.polygon.com/22611639/dungeons-dragons-critical-role-beadle-grimm-delux-tal-dorei-release-date-price)
- - [Back 4 Blood's Versus mode is missing the magic of Left 4 Dead](https://www.pcgamer.com/back-4-bloods-versus-mode-is-missing-the-magic-of-left-4-dead)
- - [We Have a Bloody Good Time with Back 4 Blood](https://news.xbox.com/en-us/2021/08/05/back-4-blood-hands-on-preview/)<!-- GAME:END -->
+ - [John and the Hole is basically We Need to Talk About Kevin McCallister](https://www.polygon.com/movies/22257886/john-and-the-hole-review)
+ - [PC Gamer is hiring](https://www.pcgamer.com/pc-gamer-is-hiring)
+ - [Pokémon Unite Bug Ruins Gengar’s Best Move](https://kotaku.com/pokemon-unite-bug-ruins-gengar-s-best-move-1847431486)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
