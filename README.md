@@ -178,9 +178,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Olympic Cameraman be like:](http://9gag.com/gag/av5VX85)
- - 🚯 [China monster fishing fleet,always illegally fishing at neighbours water territorial..](http://9gag.com/gag/aV78By8)
- - 🚯 [This happens a lot in pop song nowadays because the producers trying to make more money by using chord/tone that already familiar in people ear. (They&#039;re choosing to make products instead of art)](http://9gag.com/gag/aMK6ynA)<!-- MEMES:END -->
+ - 🚖 [I&#039;ve been homeless too. Watching people go home was the worst](http://9gag.com/gag/awMDvgx)
+ - 🚯 [Big One!](http://9gag.com/gag/aP30pnG)
+ - 🚯 [Olympic Cameraman be like:](http://9gag.com/gag/av5VX85)<!-- MEMES:END -->
 
 --- 
 
