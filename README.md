@@ -171,9 +171,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy Buds 2 unboxing video drops ahead of launch](https://www.androidauthority.com/samsung-galaxy-buds-2-unboxing-video-2729809)
- - [Qualcomm could launch a new smartwatch chipset soon, spied code suggests](https://www.androidauthority.com/qualcomm-snapdragon-wear-5100-leak-2729787)
- - [Female Apple employee put on administrative leave following tweets about sexism in the workplace](https://appleinsider.com/articles/21/08/04/apple-places-female-employee-on-administrative-leave-following-tweets-about-sexism-in-the-workplace?utm_medium=rss)<!-- TECH:END -->
+ - [Dataiku, which helps enterprises use AI for data analytics, raises $400M led by Tiger Global at a $4.6B valuation (Bloomberg)](http://www.techmeme.com/210805/p1#a210805p1)
+ - [Spilled PSVR 2 headset secrets point to big feature buffs, hybrid games](https://www.androidauthority.com/sony-psvr-2-specs-2729829)
+ - [Samsung Galaxy Buds 2 unboxing video drops ahead of launch](https://www.androidauthority.com/samsung-galaxy-buds-2-unboxing-video-2729809)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
