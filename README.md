@@ -171,9 +171,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Climbing at the Tokyo Olympics: Start times, finals schedule, how to watch     - CNET](https://www.cnet.com/news/climbing-at-the-tokyo-olympics-start-times-finals-schedule-how-to-watch/#ftag=CAD590a51e)
  - [Apple promotes exclusive monthly Apple Card offers in Wallet app](https://appleinsider.com/articles/21/08/05/apple-promotes-exclusive-monthly-apple-card-offers-in-wallet-app?utm_medium=rss)
- - [Philadelphia-based ZeroEyes, which uses AI to detect guns, raises $20.9M Series A led by Octave Ventures (FinSMEs)](http://www.techmeme.com/210804/p34#a210804p34)
- - [American Airlines will let you watch 30 minutes of TikTok in the air for free](https://www.theverge.com/2021/8/4/22610408/american-airlines-free-30-minute-tiktok-in-flight)<!-- TECH:END -->
+ - [Philadelphia-based ZeroEyes, which uses AI to detect guns, raises $20.9M Series A led by Octave Ventures (FinSMEs)](http://www.techmeme.com/210804/p34#a210804p34)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
