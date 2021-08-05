@@ -178,9 +178,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [U used to think that gymnastics will have it flat.](http://9gag.com/gag/aAb7qwp)
- - 🚯 [The move that made LeBron cry](http://9gag.com/gag/aQoKN0w)
- - 🚯 [Ok doc.... (Seriously??)..](http://9gag.com/gag/a3EDeL3)<!-- MEMES:END -->
+ - 🚖 [The move that made LeBron cry](http://9gag.com/gag/aQoKN0w)
+ - 🚯 [We live in a society](http://9gag.com/gag/aXozG3V)
+ - 🚯 [If recycling was honest (cracked:YT)](http://9gag.com/gag/aGpq670)<!-- MEMES:END -->
 
 --- 
 
