@@ -178,9 +178,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How is he??!](http://9gag.com/gag/aZ0Kdb6)
- - 🚯 [That&#039;s kawaii](http://9gag.com/gag/aDdLQ8N)
- - 🚯 [Girl: Tap Out or Go Out Guy: I choose violence!](http://9gag.com/gag/amPyR1v)<!-- MEMES:END -->
+ - 🚖 [I never owned a ps or xbox...](http://9gag.com/gag/aqjOAqQ)
+ - 🚯 [Perfect time to sit down and talk about the toe story](http://9gag.com/gag/a1rnxdR)
+ - 🚯 [How is he??!](http://9gag.com/gag/aZ0Kdb6)<!-- MEMES:END -->
 
 --- 
 
