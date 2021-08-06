@@ -180,9 +180,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Lionel Messi x Barcelona. The beginning of an era!](http://9gag.com/gag/aLp3xj6)
- - 🚯 [Fast!](http://9gag.com/gag/ajmjzGg)
- - 🚯 [The real world](http://9gag.com/gag/aYoB3Ox)<!-- MEMES:END -->
+ - 🚖 [I bet they sing together](http://9gag.com/gag/aB2MAoZ)
+ - 🚯 [Surprised pikachu face](http://9gag.com/gag/aAb7jEL)
+ - 🚯 [At least avenge my death...](http://9gag.com/gag/aV78p12)<!-- MEMES:END -->
 
 --- 
 
