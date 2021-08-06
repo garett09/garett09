@@ -166,9 +166,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How horror game The Medium immerses players with the DualSense wireless controller](http://feedproxy.google.com/~r/PSBlog/~3/Z3Yry7gvCzY/)
- - [How horror game The Medium immerses players with the DualSense wireless controller](https://blog.playstation.com/2021/08/06/how-horror-game-the-medium-immerses-players-with-the-dualsense-wireless-controller/)
- - [Analogue Pocket Pre-orders: The Kotaku Review](https://kotaku.com/analogue-pocket-pre-orders-the-kotaku-review-1847434703)<!-- GAME:END -->
+ - [Pokémon Go’s biggest players call on Niantic to restore pandemic bonuses](https://www.polygon.com/22611737/pokemon-go-hearusniantic-pokestop-spin-distance-pandemic-rollback-niantic-boycott)
+ - [Next Week on Xbox: August 9 to 13](https://news.xbox.com/en-us/2021/08/06/next-week-on-xbox-august-9-to-13/)
+ - [Dad Surprises Son With Secret Gundam Model Skills](https://kotaku.com/dad-surprises-son-with-secret-gundam-model-skills-1847436160)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
