@@ -173,9 +173,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Internal Apple memo addresses public concern over new child protection features](https://appleinsider.com/articles/21/08/06/internal-memo-at-apple-addresses-public-concern-over-new-child-protection-features?utm_medium=rss)
- - [Best deals for August 5 - 3D Resin Printer for $99, Sony 65-inch TV, and more!](https://appleinsider.com/articles/21/08/06/best-deals-for-august-5---3d-resin-printer-for-99-sony-65-inch-tv-and-more?utm_medium=rss)
- - [Samsung Galaxy Watch 4: Everything we know so far (August 6)](https://www.androidauthority.com/samsung-galaxy-watch-4-1206747/)<!-- TECH:END -->
+ - [Court filings: Epic says Google called plans to distribute Fortnite via sideloading a threatening "contagion", and contemplated buying some or all of Epic (Adi Robertson/The Verge)](http://www.techmeme.com/210806/p24#a210806p24)
+ - [Prices increase tonight on all TechCrunch Disrupt 2021 passes](http://feedproxy.google.com/~r/Techcrunch/~3/v2vvhOFkAcQ/)
+ - [Apple VP acknowledges concerns about new scanning feature in internal memo](https://www.theverge.com/2021/8/6/22612934/apple-vp-memo-concerns-privacy-new-scanning-photos-images-ios)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
