@@ -180,8 +180,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Fast!](http://9gag.com/gag/ajmjzGg)
- - 🚯 [You had one job...](http://9gag.com/gag/a1rn3yY)
+ - 🚖 [Sad French Noises](http://9gag.com/gag/a3EDXAm)
+ - 🚯 [Fast!](http://9gag.com/gag/ajmjzGg)
  - 🚯 [At least avenge my death...](http://9gag.com/gag/aV78p12)<!-- MEMES:END -->
 
 --- 
