@@ -166,9 +166,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Go’s biggest players call on Niantic to restore pandemic bonuses](https://www.polygon.com/22611737/pokemon-go-hearusniantic-pokestop-spin-distance-pandemic-rollback-niantic-boycott)
- - [Next Week on Xbox: August 9 to 13](https://news.xbox.com/en-us/2021/08/06/next-week-on-xbox-august-9-to-13/)
- - [Dad Surprises Son With Secret Gundam Model Skills](https://kotaku.com/dad-surprises-son-with-secret-gundam-model-skills-1847436160)<!-- GAME:END -->
+ - [Season Five of Black Ops Cold War and Warzone launches August 12](http://feedproxy.google.com/~r/PSBlog/~3/D8Y8n1UQNEA/)
+ - [Season Five of Black Ops Cold War and Warzone launches August 12](https://blog.playstation.com/2021/08/06/season-five-of-black-ops-cold-war-and-warzone-launches-august-12/)
+ - [It’s weird how much I like doing the murder in Dread Hunger](https://www.polygon.com/22609865/dread-hunger-social-sabotage-pc-game-murder-betrayal-steam-early-access)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
