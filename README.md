@@ -173,9 +173,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best deals for August 5 - 3D Resin Printer for $99, Sony 65-inch TV, and more!](https://appleinsider.com/articles/21/08/06/best-deals-for-august-5---3d-resin-printer-for-99-sony-65-inch-tv-and-more?utm_medium=rss)
- - [The best laptop you can buy in 2021](https://www.theverge.com/21250695/best-laptops)
- - [What you need to know: Apple's iCloud Photos and Messages child safety initiatives](https://appleinsider.com/articles/21/08/06/what-you-need-to-know-apples-icloud-photos-and-messages-child-safety-initiatives?utm_medium=rss)<!-- TECH:END -->
+ - [Federal judge tosses out a $308.5M patent-infringement verdict against Apple, ruling that Personalized Media Communication's patent is unenforceable (Susan Decker/Bloomberg)](http://www.techmeme.com/210806/p27#a210806p27)
+ - [Sequoia’s Stephanie Zhan and Rec Room’s Nick Fajt are joining us on Extra Crunch Live](http://feedproxy.google.com/~r/Techcrunch/~3/PiaQ1HnKI2A/)
+ - [The Suicide Squad: All the classic songs and awful deaths, ranked     - CNET](https://www.cnet.com/news/the-suicide-squad-all-the-classic-songs-and-awful-deaths-ranked/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
