@@ -180,9 +180,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Tutankhamooncake](http://9gag.com/gag/aoM6wj0)
+ - 🚖 [This is the future old man](http://9gag.com/gag/aeAEzOQ)
  - 🚯 [This man can talk in reverse and his story is incredible!](http://9gag.com/gag/abVowVr)
- - 🚯 [This is the future old man](http://9gag.com/gag/aeAEzOQ)<!-- MEMES:END -->
+ - 🚯 [He knows what he is doing.](http://9gag.com/gag/aV78502)<!-- MEMES:END -->
 
 --- 
 
