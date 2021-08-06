@@ -173,9 +173,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Court filings: Epic says Google called plans to distribute Fortnite via sideloading a threatening "contagion", and contemplated buying some or all of Epic (Adi Robertson/The Verge)](http://www.techmeme.com/210806/p24#a210806p24)
- - [Prices increase tonight on all TechCrunch Disrupt 2021 passes](http://feedproxy.google.com/~r/Techcrunch/~3/v2vvhOFkAcQ/)
- - [Apple VP acknowledges concerns about new scanning feature in internal memo](https://www.theverge.com/2021/8/6/22612934/apple-vp-memo-concerns-privacy-new-scanning-photos-images-ios)<!-- TECH:END -->
+ - [Best deals for August 5 - 3D Resin Printer for $99, Sony 65-inch TV, and more!](https://appleinsider.com/articles/21/08/06/best-deals-for-august-5---3d-resin-printer-for-99-sony-65-inch-tv-and-more?utm_medium=rss)
+ - [The best laptop you can buy in 2021](https://www.theverge.com/21250695/best-laptops)
+ - [What you need to know: Apple's iCloud Photos and Messages child safety initiatives](https://appleinsider.com/articles/21/08/06/what-you-need-to-know-apples-icloud-photos-and-messages-child-safety-initiatives?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
