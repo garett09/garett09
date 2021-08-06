@@ -180,9 +180,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This is the future old man](http://9gag.com/gag/aeAEzOQ)
- - 🚯 [This man can talk in reverse and his story is incredible!](http://9gag.com/gag/abVowVr)
- - 🚯 [He knows what he is doing.](http://9gag.com/gag/aV78502)<!-- MEMES:END -->
+ - 🚖 [Biker making this lady&rsquo;s day](http://9gag.com/gag/a5EAgnL)
+ - 🚯 [He knows what he is doing.](http://9gag.com/gag/aV78502)
+ - 🚯 [Ancient action figure](http://9gag.com/gag/av5Vj65)<!-- MEMES:END -->
 
 --- 
 
