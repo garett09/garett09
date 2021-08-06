@@ -180,9 +180,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ancient action figure](http://9gag.com/gag/av5Vj65)
- - 🚯 [INVASION!!!](http://9gag.com/gag/aEpb4wG)
- - 🚯 [Gotta love metal fabrication](http://9gag.com/gag/aZ0KO33)<!-- MEMES:END -->
+ - 🚖 [Comedian name: Andrew Schultz](http://9gag.com/gag/aAb75nE)
+ - 🚯 [Gotta love metal fabrication](http://9gag.com/gag/aZ0KO33)
+ - 🚯 [Inside A Squirrel&#039;s nest](http://9gag.com/gag/amPy4VX)<!-- MEMES:END -->
 
 --- 
 
