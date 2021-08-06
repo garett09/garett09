@@ -180,7 +180,7 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Lebanese villagers stopped Hezbollah from firing rockets at Israel from their village in Choiaiyya.](http://9gag.com/gag/arM0YdV)
+ - 🚖 [Computer goes brrrrrrrrrrr](http://9gag.com/gag/a4E8DL6)
  - 🚯 [Interesting part of hydraulic physics](http://9gag.com/gag/a1rnGpR)
  - 🚯 [Surprised pikachu face](http://9gag.com/gag/aAb7jEL)<!-- MEMES:END -->
 
