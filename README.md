@@ -166,9 +166,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [One of Skyrim's most popular modders is pulling his work from Nexus Mods](https://www.pcgamer.com/one-of-skyrims-most-popular-modders-is-pulling-his-work-from-nexus-mods)
- - [Pokémon Go Creators Reconsidering Rule Changes After Players Threaten Boycott](https://kotaku.com/pokemon-go-creators-form-rules-task-force-after-players-1847434506)
- - [Evil Dead: The Game delayed for ‘polish’ and a singleplayer mode](https://www.pcgamer.com/evil-dead-the-game-delayed-for-polish-and-a-singleplayer-mode)<!-- GAME:END -->
+ - [The best Australian PC gaming deals this week](https://www.pcgamer.com/best-australian-pc-gaming-deals)
+ - [The Pokémon Company Company Actually Says Gay Rights](https://kotaku.com/the-pokemon-company-company-actually-says-gay-rights-1847434624)
+ - [Battle Sister is the first Warhammer 40,000 game built for VR](https://www.pcgamer.com/battle-sister-is-the-first-warhammer-40000-game-built-for-vr)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
