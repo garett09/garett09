@@ -180,9 +180,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Invisible something](http://9gag.com/gag/a3EDmR5)
+ - 🚖 [Lionel Messi x Barcelona. The beginning of an era!](http://9gag.com/gag/aLp3xj6)
  - 🚯 [Fast!](http://9gag.com/gag/ajmjzGg)
- - 🚯 [Tiktok vs real talk](http://9gag.com/gag/aDdLerN)<!-- MEMES:END -->
+ - 🚯 [The real world](http://9gag.com/gag/aYoB3Ox)<!-- MEMES:END -->
 
 --- 
 
