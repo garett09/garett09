@@ -166,9 +166,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Borderlands 3 Receives New Rewards with Vault Card 2: Welcome to Pandora](https://news.xbox.com/en-us/2021/08/06/borderlands-3-vault-card-2-welcome-to-pandora/)
- - [The 5 Best (And Worst) Dunks In Pokemon Unite](https://kotaku.com/the-5-best-and-worst-dunks-in-pokemon-unite-1847439369)
- - [Leaked JoJo’s Bizarre Adventure: Stone Ocean art introduces the new cast](https://www.polygon.com/22613396/jojo-part-6-bizarre-adventure-stone-ocean-characters-voice-cast)<!-- GAME:END -->
+ - [I Want This Portable PlayStation 2](https://kotaku.com/i-want-this-portable-playstation-2-1847440328)
+ - [This Genshin Impact player spent 7 hours using glitches and 'ice bridges' to break into its new zone](https://www.pcgamer.com/this-genshin-impact-player-spent-7-hours-using-glitches-and-ice-bridges-to-break-into-its-new-zone)
+ - [John Boyega’s sci-fi heist movie Naked Singularity sounds amazing, and isn’t](https://www.polygon.com/22613454/naked-singularity-john-boyega-sci-fi)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
