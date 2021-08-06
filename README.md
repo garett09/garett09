@@ -181,8 +181,8 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [Break my heart](http://9gag.com/gag/aDdLpN7)
- - 🚯 [When your horse has no interest in Olympic medals at all and begins trolling](http://9gag.com/gag/aDdLyyG)
- - 🚯 [Night pub before closing in the mirning. Only though people last.](http://9gag.com/gag/ad8MmAd)<!-- MEMES:END -->
+ - 🚯 [A 700-year-old castle built on a swamp](http://9gag.com/gag/aK6yb4b)
+ - 🚯 [And some people get fat just by smelling the smoke from a barbecue](http://9gag.com/gag/amPyj16)<!-- MEMES:END -->
 
 --- 
 
