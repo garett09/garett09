@@ -180,9 +180,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Gotta love metal fabrication](http://9gag.com/gag/aZ0KO33)
- - 🚯 [Have a good friday](http://9gag.com/gag/av5Vjjb)
- - 🚯 [F**k this people](http://9gag.com/gag/a1rn3b2)<!-- MEMES:END -->
+ - 🚖 [Wtf I just watched? W t f ?!](http://9gag.com/gag/a6EzYYR)
+ - 🚯 [F**k this people](http://9gag.com/gag/a1rn3b2)
+ - 🚯 [Go Sports!](http://9gag.com/gag/a9EegK1)<!-- MEMES:END -->
 
 --- 
 
