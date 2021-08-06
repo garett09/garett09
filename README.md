@@ -180,9 +180,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Sad French Noises](http://9gag.com/gag/a3EDXAm)
+ - 🚖 [Invisible something](http://9gag.com/gag/a3EDmR5)
  - 🚯 [Fast!](http://9gag.com/gag/ajmjzGg)
- - 🚯 [At least avenge my death...](http://9gag.com/gag/aV78p12)<!-- MEMES:END -->
+ - 🚯 [Tiktok vs real talk](http://9gag.com/gag/aDdLerN)<!-- MEMES:END -->
 
 --- 
 
