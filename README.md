@@ -166,9 +166,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Evil Dead: The Game delayed for ‘polish’ and a singleplayer mode](https://www.pcgamer.com/evil-dead-the-game-delayed-for-polish-and-a-singleplayer-mode)
  - [Aroo?](https://kotaku.com/aroo-1847433801)
- - [Agent 47, Welcome To The Flower Show](https://kotaku.com/agent-47-welcome-to-the-flower-show-1847433594)
- - [Destiny 2 abilities will see big changes in Season 15](https://www.pcgamer.com/destiny-2-abilities-will-see-big-changes-in-season-15)<!-- GAME:END -->
+ - [Agent 47, Welcome To The Flower Show](https://kotaku.com/agent-47-welcome-to-the-flower-show-1847433594)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
