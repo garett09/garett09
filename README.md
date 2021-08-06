@@ -173,9 +173,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Facebook's decision to disable researcher's ability to run the NYU's Ad Observatory Project should be a call to regulate the ad tech industry as a whole (Nathalie Mar&eacute;chal/Tech Policy Press)](http://www.techmeme.com/210806/p1#a210806p1)
- - [Agricultural manufacturing giant John Deere acquires autonomous tractor startup Bear Flag Robotics for $250M (Brian Heater/TechCrunch)](http://www.techmeme.com/210805/p43#a210805p43)
- - [Apple Cash Instant Transfer now supports Mastercard debit cards, fee increases to 1.5%](https://appleinsider.com/articles/21/08/06/apple-cash-instant-transfer-now-supports-mastercard-debit-cards-fee-increases-to-15?utm_medium=rss)<!-- TECH:END -->
+ - [Xiaomi confirms Mi Mix 4, Mi Pad 5 will launch next week (Update)](https://www.androidauthority.com/xiaomi-mi-pad-5-mi-mix-4-launch-2728610)
+ - [Senators Warner and Portman propose an amendment to infrastructure bill that only excludes crypto miners from broker definition; White House shows support (James Rubin/CoinDesk)](http://www.techmeme.com/210806/p2#a210806p2)
+ - [Facebook's decision to disable researcher's ability to run the NYU's Ad Observatory Project should be a call to regulate the ad tech industry as a whole (Nathalie Mar&eacute;chal/Tech Policy Press)](http://www.techmeme.com/210806/p1#a210806p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
