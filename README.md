@@ -173,9 +173,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deals: Quad-core MacBook Air on sale for $799 ($450 off), 256GB iPhone SE $459](https://appleinsider.com/articles/21/08/06/deals-quad-core-macbook-air-on-sale-for-799-450-off-256gb-iphone-se-459?utm_medium=rss)
- - [Internal Apple memo addresses public concern over new child protection features](https://appleinsider.com/articles/21/08/06/internal-memo-at-apple-addresses-public-concern-over-new-child-protection-features?utm_medium=rss)
- - [Microsoft’s new Xbox night mode dims your screen, controller, and power button](https://www.theverge.com/2021/8/6/22613617/microsoft-xbox-night-mode-feature-dim-screen-controller-led)<!-- TECH:END -->
+ - [Gillmor Gang: Time Delay](http://feedproxy.google.com/~r/Techcrunch/~3/sOYbjFfN4sM/)
+ - [Spotify says it plans to add AirPlay 2 to its iOS app — eventually](https://www.theverge.com/2021/8/6/22613420/spotify-airplay2-support-audio-issues-drivers)
+ - [In response to CSAM detection misuse concerns, Apple says protections will roll out in the US first, then on a country-by-country basis after legal evaluation (Joe Rossignol/MacRumors)](http://www.techmeme.com/210806/p33#a210806p33)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
