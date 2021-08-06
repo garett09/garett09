@@ -166,9 +166,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [FIFA Ultimate Team's new Preview Packs actually boosted loot box sales, EA says](https://www.pcgamer.com/fifa-ultimate-teams-new-preview-packs-actually-boosted-loot-box-sales-ea-says)
- - [The BBC Still Doesn't Know What Gundam is](https://kotaku.com/the-bbc-still-doesnt-know-what-gundam-is-1847433101)
- - [Haven Park is a short and cozy island management game that I never want to end](https://www.pcgamer.com/haven-park-is-a-short-and-cozy-island-management-game-that-i-never-want-to-end)<!-- GAME:END -->
+ - [Aroo?](https://kotaku.com/aroo-1847433801)
+ - [Agent 47, Welcome To The Flower Show](https://kotaku.com/agent-47-welcome-to-the-flower-show-1847433594)
+ - [Destiny 2 abilities will see big changes in Season 15](https://www.pcgamer.com/destiny-2-abilities-will-see-big-changes-in-season-15)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
