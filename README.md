@@ -166,9 +166,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Get rich quick with these Mount & Blade 2: Bannerlord cheats](https://www.pcgamer.com/mount-blade-2-bannerlord-cheats)
- - [The Witcher season 2 release date, cast, and everything else we know](https://www.pcgamer.com/the-witcher-season-2-release-date-episode-recaps-and-more)
- - [FIFA 22: Everything we know](https://www.pcgamer.com/fifa-22-release-date-pre-order-cover)<!-- GAME:END -->
+ - [Mario & Luigi Studio’s First GBA RPG Now Playable In English](https://kotaku.com/mario-luigi-studio-s-first-gba-rpg-now-playable-in-en-1847438551)
+ - [Genshin Impact player breaks into game’s new zone, way before they’re supposed to](https://www.polygon.com/22612966/genshin-impact-player-breaks-inazuma-hack)
+ - [New Shiny Things Are Coming Soon to Unturned](https://news.xbox.com/en-us/2021/08/06/new-shiny-things-coming-to-unturned/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
