@@ -173,9 +173,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [India’s Vedantu not in talks to sell to Byju’s, top exec says](http://feedproxy.google.com/~r/Techcrunch/~3/R_fGIQzj4Xc/)
- - [We asked, you told us: Custom ROMs still have their place on Android phones](https://www.androidauthority.com/custom-rom-poll-results-2730313)
- - [The first Zambian startup to get into YC is developing Africa’s first card-issuing API](http://feedproxy.google.com/~r/Techcrunch/~3/GTqcwVwhI0g/)<!-- TECH:END -->
+ - [Bulk payments startup Comma raises $6M Seed round led by Octopus and Connect](http://feedproxy.google.com/~r/Techcrunch/~3/ZHyynOCFkM0/)
+ - [Even Small Volcanic Eruptions Could Create Global Chaos](https://www.wired.com/story/even-smaller-volcanic-eruptions-could-create-global-chaos)
+ - [Nigeria’s Decagon raises millions to finance and train software engineers](http://feedproxy.google.com/~r/Techcrunch/~3/BZ__mSsLFwM/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
