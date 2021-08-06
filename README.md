@@ -166,9 +166,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Pokémon Go Creators Reconsidering Rule Changes After Players Threaten Boycott](https://kotaku.com/pokemon-go-creators-form-rules-task-force-after-players-1847434506)
  - [Evil Dead: The Game delayed for ‘polish’ and a singleplayer mode](https://www.pcgamer.com/evil-dead-the-game-delayed-for-polish-and-a-singleplayer-mode)
- - [Aroo?](https://kotaku.com/aroo-1847433801)
- - [Agent 47, Welcome To The Flower Show](https://kotaku.com/agent-47-welcome-to-the-flower-show-1847433594)<!-- GAME:END -->
+ - [Aroo?](https://kotaku.com/aroo-1847433801)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
