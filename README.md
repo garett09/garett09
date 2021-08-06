@@ -173,9 +173,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Xiaomi confirms Mi Mix 4, Mi Pad 5 will launch next week (Update)](https://www.androidauthority.com/xiaomi-mi-pad-5-mi-mix-4-launch-2728610)
- - [Senators Warner and Portman propose an amendment to infrastructure bill that only excludes crypto miners from broker definition; White House shows support (James Rubin/CoinDesk)](http://www.techmeme.com/210806/p2#a210806p2)
- - [Facebook's decision to disable researcher's ability to run the NYU's Ad Observatory Project should be a call to regulate the ad tech industry as a whole (Nathalie Mar&eacute;chal/Tech Policy Press)](http://www.techmeme.com/210806/p1#a210806p1)<!-- TECH:END -->
+ - [Google One may include Play Pass in a future discounted bundle](https://www.androidauthority.com/google-one-play-pass-bundle-2730275)
+ - [India’s Supreme Court rules in favor of Amazon to stall $3.4B Future and Reliance deal](http://feedproxy.google.com/~r/Techcrunch/~3/wafPkdCht9U/)
+ - [Patient engagement software maker Relatient raises $100M, plans to acquire Radix Health for its ML-based software that enables patient-provider matching, more (Elise Reuter/MedCity News)](http://www.techmeme.com/210806/p4#a210806p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
