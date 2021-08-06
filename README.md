@@ -166,9 +166,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Asus is rolling out BIOS updates to alleviate likely Windows 11 upgrade headaches](https://www.pcgamer.com/asus-tpm-motherboard-bios-update)
- - [Season 2 of The Witcher begins with A Grain of Truth](https://www.pcgamer.com/season-2-of-the-witcher-begins-with-a-grain-of-truth)
- - [Streets of Rage 4 developer Dotemu gets acquired by Focus Home](https://www.pcgamer.com/streets-of-rage-4-developer-dotemu-gets-acquired-by-focus-home)<!-- GAME:END -->
+ - [How horror game The Medium immerses players with the DualSense wireless controller](http://feedproxy.google.com/~r/PSBlog/~3/Z3Yry7gvCzY/)
+ - [How horror game The Medium immerses players with the DualSense wireless controller](https://blog.playstation.com/2021/08/06/how-horror-game-the-medium-immerses-players-with-the-dualsense-wireless-controller/)
+ - [Analogue Pocket Pre-orders: The Kotaku Review](https://kotaku.com/analogue-pocket-pre-orders-the-kotaku-review-1847434703)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
