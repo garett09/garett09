@@ -180,9 +180,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Soldering a circuit board](http://9gag.com/gag/aQoKjmr)
- - 🚯 [At least he has a gf.](http://9gag.com/gag/a07Gqzz)
- - 🚯 [Even when nobody cares about it, i wanna share my achievement. Lost 85kg&#039;s (or 461,27 bananas) since last january. Sorry for bothering you, i&#039;m just proud :) and now roast me like you Would do anyways](http://9gag.com/gag/a4E88vm)<!-- MEMES:END -->
+ - 🚖 [Ancient action figure](http://9gag.com/gag/av5Vj65)
+ - 🚯 [INVASION!!!](http://9gag.com/gag/aEpb4wG)
+ - 🚯 [Gotta love metal fabrication](http://9gag.com/gag/aZ0KO33)<!-- MEMES:END -->
 
 --- 
 
