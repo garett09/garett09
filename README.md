@@ -173,9 +173,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google One may include Play Pass in a future discounted bundle](https://www.androidauthority.com/google-one-play-pass-bundle-2730275)
- - [India’s Supreme Court rules in favor of Amazon to stall $3.4B Future and Reliance deal](http://feedproxy.google.com/~r/Techcrunch/~3/wafPkdCht9U/)
- - [Patient engagement software maker Relatient raises $100M, plans to acquire Radix Health for its ML-based software that enables patient-provider matching, more (Elise Reuter/MedCity News)](http://www.techmeme.com/210806/p4#a210806p4)<!-- TECH:END -->
+ - [The first Zambian startup to get into YC is developing Africa’s first card-issuing API](http://feedproxy.google.com/~r/Techcrunch/~3/GTqcwVwhI0g/)
+ - [Voi, which aims to use computer vision tech to prevent pavement riding, and solve parking issues, raises $45M led by The Raine Group at a $205M valuation (Rebecca Bellan/TechCrunch)](http://www.techmeme.com/210806/p7#a210806p7)
+ - [Shares for Indonesian online marketplace Bukalapak rose 25% after raising $1.5B in its Jakarta IPO at a $7.5B valuation (Bloomberg)](http://www.techmeme.com/210806/p6#a210806p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
