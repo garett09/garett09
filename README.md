@@ -173,9 +173,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Save over $100 on top Sonos speakers, and more Sonos deals](https://www.androidauthority.com/best-sonos-deals-1116144)
- - [Best Buy investing millions in Brown Venture Group, a firm exclusively backing BIPOC founders](http://feedproxy.google.com/~r/Techcrunch/~3/cEQLz3vcdYU/)
- - [Dropbox beats in Q2 with revenue of $530.6M vs estimates of $524.06M, up 13.5% YoY, 16.14M paying users up from 14.96M YoY, and ARR of $2.17B, up 12.2% YoY (Stephanie Condon/ZDNet)](http://www.techmeme.com/210805/p38#a210805p38)<!-- TECH:END -->
+ - [Twitter Spaces launches a co-hosting feature, which will now allow rooms to have one host, up to two co-hosts, and ten additional speakers active at once (Jos&eacute; Adorno/9to5Mac)](http://www.techmeme.com/210805/p41#a210805p41)
+ - [Apple challenges patent troll targeting Maps navigation](https://appleinsider.com/articles/21/08/06/apple-challenges-patent-troll-targeting-maps-navigation?utm_medium=rss)
+ - [In a letter to Zuckerberg, the FTC called Facebook's initial claim it cut off NYU researchers' access to comply with an FTC privacy agreement as "inaccurate" (Cristiano Lima/Washington Post)](http://www.techmeme.com/210805/p40#a210805p40)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
