@@ -180,9 +180,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This man can talk in reverse and his story is incredible!](http://9gag.com/gag/abVowVr)
+ - 🚖 [Soldering a circuit board](http://9gag.com/gag/aQoKjmr)
  - 🚯 [At least he has a gf.](http://9gag.com/gag/a07Gqzz)
- - 🚯 [Flight rules must be followed](http://9gag.com/gag/a8E9gVQ)<!-- MEMES:END -->
+ - 🚯 [Even when nobody cares about it, i wanna share my achievement. Lost 85kg&#039;s (or 461,27 bananas) since last january. Sorry for bothering you, i&#039;m just proud :) and now roast me like you Would do anyways](http://9gag.com/gag/a4E88vm)<!-- MEMES:END -->
 
 --- 
 
