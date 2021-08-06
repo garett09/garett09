@@ -180,8 +180,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Annika Schleu (Olympic pentathlete) went from first place to 31st and broke down in tears after her horse refused to jump](http://9gag.com/gag/aQoK0XW)
- - 🚯 [Saved this little guy from a Chinese market today. He&#039;s terrified of everything and doesn&#039;t know how to play, but I&#039;ll make him enjoy life again](http://9gag.com/gag/aAb7jbd)
+ - 🚖 [Break my heart](http://9gag.com/gag/aDdLpN7)
+ - 🚯 [When your horse has no interest in Olympic medals at all and begins trolling](http://9gag.com/gag/aDdLyyG)
  - 🚯 [Night pub before closing in the mirning. Only though people last.](http://9gag.com/gag/ad8MmAd)<!-- MEMES:END -->
 
 --- 
