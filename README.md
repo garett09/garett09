@@ -180,9 +180,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I bet they sing together](http://9gag.com/gag/aB2MAoZ)
- - 🚯 [Surprised pikachu face](http://9gag.com/gag/aAb7jEL)
- - 🚯 [At least avenge my death...](http://9gag.com/gag/aV78p12)<!-- MEMES:END -->
+ - 🚖 [Lebanese villagers stopped Hezbollah from firing rockets at Israel from their village in Choiaiyya.](http://9gag.com/gag/arM0YdV)
+ - 🚯 [Irish dance](http://9gag.com/gag/aV78poK)
+ - 🚯 [When your horse has no interest in Olympic medals at all and begins trolling](http://9gag.com/gag/aDdLyyG)<!-- MEMES:END -->
 
 --- 
 
