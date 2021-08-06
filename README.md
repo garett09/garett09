@@ -166,9 +166,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [We faced the Green Knight in the movie’s tabletop RPG](https://www.polygon.com/videos/22611638/lets-play-green-knight-rpg-jonah-ray-dave-schilling)
- - [The Falconeer: Edge of the World DLC Soars to Xbox One, Xbox Series X|S, and Windows PC Today](https://news.xbox.com/en-us/2021/08/06/the-falconeer-edge-of-the-world-available-now/)
- - [One Of The Rarest TVs In Existence Is On Ebay](https://kotaku.com/one-of-the-rarest-tvs-in-existence-is-on-ebay-1847438744)<!-- GAME:END -->
+ - [Let’s Give All The Video Game Cats A Scritch Behind The Ears](https://kotaku.com/let-s-give-all-the-video-game-cats-a-scritch-behind-the-1847439322)
+ - [The Ascent's latest patch adds ray tracing to Game Pass version, squashes co-op bugs](https://www.pcgamer.com/the-ascents-latest-patch-adds-ray-tracing-to-game-pass-version-squashes-co-op-bugs)
+ - [Lin-Manuel Miranda’s Vivo can’t escape the shadow of Hamilton](https://www.polygon.com/2021/8/6/22611805/vivo-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
