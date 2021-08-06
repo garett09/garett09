@@ -173,9 +173,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [SpaceX stacks the full Starship launch system for the first time, standing nearly 400 feet tall](http://feedproxy.google.com/~r/Techcrunch/~3/Ptc1b4s1BEA/)
- - [macOS Monterey impressions, Google Pixel 6, iPhone vs. Android on the AppleInsider podcast](https://appleinsider.com/articles/21/08/06/macos-monterey-impressions-pixel-6-announced-iphone-vs-android-on-the-appleinsider-podcast?utm_medium=rss)
- - [Current refinance rates on Aug. 6, 2021: Rates slide     - CNET](https://www.cnet.com/personal-finance/mortgages/current-refinance-rates-on-aug-6-2021-rates-slide/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [New Bitcoin tax plans could stifle greener blockchain tech](https://www.theverge.com/2021/8/6/22612663/infrastructure-bitcoin-tax-blockchain-proof-of-work-stake-ethereum)
+ - [It’s the Perfect Time to Switch to a Cheaper Phone Plan](https://www.wired.com/story/guide-to-mvno-phone-plans)
+ - [The Witcher’s anime spinoff keeps the bathtub, but adds a fun-loving lead](https://www.theverge.com/2021/8/6/22602293/witcher-nightmare-of-the-wolf-anime-spinoff-netflix-interview)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
