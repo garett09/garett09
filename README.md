@@ -166,9 +166,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Season Five of Black Ops Cold War and Warzone launches August 12](http://feedproxy.google.com/~r/PSBlog/~3/D8Y8n1UQNEA/)
- - [Season Five of Black Ops Cold War and Warzone launches August 12](https://blog.playstation.com/2021/08/06/season-five-of-black-ops-cold-war-and-warzone-launches-august-12/)
- - [It’s weird how much I like doing the murder in Dread Hunger](https://www.polygon.com/22609865/dread-hunger-social-sabotage-pc-game-murder-betrayal-steam-early-access)<!-- GAME:END -->
+ - [Hackers targeted Titanfall and Apex Legends in a scheme to revive a cancelled free-to-play spin-off](https://www.pcgamer.com/hackers-targeted-titanfall-and-apex-legends-in-a-scheme-to-revive-a-cancelled-free-to-play-spin-off)
+ - [Win this SteelSeries and Neverwinter prize pack on the PCG forums](https://www.pcgamer.com/win-this-steelseries-and-neverwinter-prize-pack-on-the-pcg-forums)
+ - [Share of the Week: Bosses](http://feedproxy.google.com/~r/PSBlog/~3/-Yti2NvXT6s/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
