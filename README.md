@@ -175,7 +175,7 @@ No Activity Tracked This Week
 <!-- TECH:START -->
  - [Twitter Spaces launches a co-hosting feature, which will now allow rooms to have one host, up to two co-hosts, and ten additional speakers active at once (Jos&eacute; Adorno/9to5Mac)](http://www.techmeme.com/210805/p41#a210805p41)
  - [Apple challenges patent troll targeting Maps navigation](https://appleinsider.com/articles/21/08/06/apple-challenges-patent-troll-targeting-maps-navigation?utm_medium=rss)
- - [In a letter to Zuckerberg, the FTC called Facebook's initial claim it cut off NYU researchers' access to comply with an FTC privacy agreement as "inaccurate" (Cristiano Lima/Washington Post)](http://www.techmeme.com/210805/p40#a210805p40)<!-- TECH:END -->
+ - [Aaliyah's music finally coming to streaming, 20 years after her death     - CNET](https://www.cnet.com/news/aaliyahs-music-finally-coming-to-streaming-20-years-after-her-death/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
