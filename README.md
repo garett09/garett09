@@ -166,9 +166,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [One of Skyrim's most popular modders is pulling his work from Nexus Mods](https://www.pcgamer.com/one-of-skyrims-most-popular-modders-is-pulling-his-work-from-nexus-mods)
  - [Pokémon Go Creators Reconsidering Rule Changes After Players Threaten Boycott](https://kotaku.com/pokemon-go-creators-form-rules-task-force-after-players-1847434506)
- - [Evil Dead: The Game delayed for ‘polish’ and a singleplayer mode](https://www.pcgamer.com/evil-dead-the-game-delayed-for-polish-and-a-singleplayer-mode)
- - [Aroo?](https://kotaku.com/aroo-1847433801)<!-- GAME:END -->
+ - [Evil Dead: The Game delayed for ‘polish’ and a singleplayer mode](https://www.pcgamer.com/evil-dead-the-game-delayed-for-polish-and-a-singleplayer-mode)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
