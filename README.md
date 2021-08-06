@@ -166,9 +166,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [I Want This Portable PlayStation 2](https://kotaku.com/i-want-this-portable-playstation-2-1847440328)
- - [This Genshin Impact player spent 7 hours using glitches and 'ice bridges' to break into its new zone](https://www.pcgamer.com/this-genshin-impact-player-spent-7-hours-using-glitches-and-ice-bridges-to-break-into-its-new-zone)
- - [John Boyega’s sci-fi heist movie Naked Singularity sounds amazing, and isn’t](https://www.polygon.com/22613454/naked-singularity-john-boyega-sci-fi)<!-- GAME:END -->
+ - [Ultima Underworld and Syndicate return to GOG, and now they're free](https://www.pcgamer.com/ultima-underworld-and-syndicate-return-to-gog-and-now-theyre-free)
+ - [Ariana Grande’s Fortnite event takes players all over the Rift](https://www.polygon.com/fortnite/22611970/ariana-grande-fortnite-event-rift-tour-concert)
+ - [I Want This Portable PlayStation 2](https://kotaku.com/i-want-this-portable-playstation-2-1847440328)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
