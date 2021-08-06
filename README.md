@@ -180,9 +180,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Wtf I just watched? W t f ?!](http://9gag.com/gag/a6EzYYR)
- - 🚯 [F**k this people](http://9gag.com/gag/a1rn3b2)
- - 🚯 [Go Sports!](http://9gag.com/gag/a9EegK1)<!-- MEMES:END -->
+ - 🚖 [Historic Flood levels compared to this years flood of the Ahr in Germany.](http://9gag.com/gag/aGpq4W6)
+ - 🚯 [Go Sports!](http://9gag.com/gag/a9EegK1)
+ - 🚯 [Irish dance](http://9gag.com/gag/aV78poK)<!-- MEMES:END -->
 
 --- 
 
