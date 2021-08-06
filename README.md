@@ -180,9 +180,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Computer goes brrrrrrrrrrr](http://9gag.com/gag/a4E8DL6)
- - 🚯 [Interesting part of hydraulic physics](http://9gag.com/gag/a1rnGpR)
- - 🚯 [Surprised pikachu face](http://9gag.com/gag/aAb7jEL)<!-- MEMES:END -->
+ - 🚖 [Unexpected sure](http://9gag.com/gag/arM0Ypp)
+ - 🚯 [Before vs Now](http://9gag.com/gag/a7EBY4w)
+ - 🚯 [Saved this little guy from a Chinese market today. He&#039;s terrified of everything and doesn&#039;t know how to play, but I&#039;ll make him enjoy life again](http://9gag.com/gag/aAb7jbd)<!-- MEMES:END -->
 
 --- 
 
