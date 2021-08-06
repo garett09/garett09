@@ -173,9 +173,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: China plans to levy a roughly $1B fine on Meituan in the coming weeks for abusing its market position (Keith Zhai/Wall Street Journal)](http://www.techmeme.com/210806/p10#a210806p10)
- - [You can now pre-book Samsung’s upcoming foldables in India](https://www.androidauthority.com/samsung-galaxy-z-fold-3-india-2730372/)
- - [Facebook’s justification for banning third-party researchers ‘inaccurate,’ says FTC](https://www.theverge.com/2021/8/6/22612545/facebook-banned-third-party-researchers-inaccurate-says-ftc)<!-- TECH:END -->
+ - [Daily Authority: Apple’s scans 🔓](https://www.androidauthority.com/newsletters/da-august-6-2021/)
+ - [Where to Get a Covid-19 Vaccine, and What to Expect](https://www.wired.com/story/covid-19-us-vaccination-guide)
+ - [A Field Guide for Nature-Resistant Nerds](https://www.wired.com/story/a-field-guide-for-nature-resistant-nerds-microchips-climate-change)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
