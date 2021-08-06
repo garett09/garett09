@@ -166,9 +166,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Hackers targeted Titanfall and Apex Legends in a scheme to revive a cancelled free-to-play spin-off](https://www.pcgamer.com/hackers-targeted-titanfall-and-apex-legends-in-a-scheme-to-revive-a-cancelled-free-to-play-spin-off)
- - [Win this SteelSeries and Neverwinter prize pack on the PCG forums](https://www.pcgamer.com/win-this-steelseries-and-neverwinter-prize-pack-on-the-pcg-forums)
- - [Share of the Week: Bosses](http://feedproxy.google.com/~r/PSBlog/~3/-Yti2NvXT6s/)<!-- GAME:END -->
+ - [Get rich quick with these Mount & Blade 2: Bannerlord cheats](https://www.pcgamer.com/mount-blade-2-bannerlord-cheats)
+ - [The Witcher season 2 release date, cast, and everything else we know](https://www.pcgamer.com/the-witcher-season-2-release-date-episode-recaps-and-more)
+ - [FIFA 22: Everything we know](https://www.pcgamer.com/fifa-22-release-date-pre-order-cover)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
