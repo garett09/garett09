@@ -173,9 +173,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [New Bitcoin tax plans could stifle greener blockchain tech](https://www.theverge.com/2021/8/6/22612663/infrastructure-bitcoin-tax-blockchain-proof-of-work-stake-ethereum)
- - [It’s the Perfect Time to Switch to a Cheaper Phone Plan](https://www.wired.com/story/guide-to-mvno-phone-plans)
- - [The Witcher’s anime spinoff keeps the bathtub, but adds a fun-loving lead](https://www.theverge.com/2021/8/6/22602293/witcher-nightmare-of-the-wolf-anime-spinoff-netflix-interview)<!-- TECH:END -->
+ - [Internal Apple memo addresses public concern over new child protection features](https://appleinsider.com/articles/21/08/06/internal-memo-at-apple-addresses-public-concern-over-new-child-protection-features?utm_medium=rss)
+ - [Best deals for August 5 - 3D Resin Printer for $99, Sony 65-inch TV, and more!](https://appleinsider.com/articles/21/08/06/best-deals-for-august-5---3d-resin-printer-for-99-sony-65-inch-tv-and-more?utm_medium=rss)
+ - [Samsung Galaxy Watch 4: Everything we know so far (August 6)](https://www.androidauthority.com/samsung-galaxy-watch-4-1206747/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
