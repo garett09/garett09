@@ -180,9 +180,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Historic Flood levels compared to this years flood of the Ahr in Germany.](http://9gag.com/gag/aGpq4W6)
- - 🚯 [Inside A Squirrel&#039;s nest](http://9gag.com/gag/amPy4VX)
- - 🚯 [The real world](http://9gag.com/gag/aYoB3Ox)<!-- MEMES:END -->
+ - 🚖 [Fast!](http://9gag.com/gag/ajmjzGg)
+ - 🚯 [You had one job...](http://9gag.com/gag/a1rn3yY)
+ - 🚯 [At least avenge my death...](http://9gag.com/gag/aV78p12)<!-- MEMES:END -->
 
 --- 
 
