@@ -173,9 +173,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Federal judge tosses out a $308.5M patent-infringement verdict against Apple, ruling that Personalized Media Communication's patent is unenforceable (Susan Decker/Bloomberg)](http://www.techmeme.com/210806/p27#a210806p27)
- - [Sequoia’s Stephanie Zhan and Rec Room’s Nick Fajt are joining us on Extra Crunch Live](http://feedproxy.google.com/~r/Techcrunch/~3/PiaQ1HnKI2A/)
- - [The Suicide Squad: All the classic songs and awful deaths, ranked     - CNET](https://www.cnet.com/news/the-suicide-squad-all-the-classic-songs-and-awful-deaths-ranked/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Netflix: The 50 best TV series stream tonight     - CNET](https://www.cnet.com/news/netflix-the-50-best-tv-series-stream-tonight/#ftag=CAD590a51e)
+ - [Samsung Galaxy Z Fold 3: All the rumors so far (August 6)](https://www.androidauthority.com/samsung-galaxy-z-fold-3-1179131/)
+ - [Netflix: 40 of the best movies to see tonight     - CNET](https://www.cnet.com/news/netflix-40-of-the-best-movies-to-see-tonight/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
