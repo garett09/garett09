@@ -173,9 +173,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Save 35% on the AirPods with wireless charging case, and more AirPods deals](https://www.androidauthority.com/best-airpods-deals-1108713/)
- - [Growth roundup: Recruiting a team, writing successful newsletters, 14 questions for paid search ads](http://feedproxy.google.com/~r/Techcrunch/~3/fnZ914WlvwQ/)
- - [Extra Crunch roundup: build a founding team, choose a VC and recruit your board](http://feedproxy.google.com/~r/Techcrunch/~3/y5INrgh39hY/)<!-- TECH:END -->
+ - [Deals: Quad-core MacBook Air on sale for $799 ($450 off), 256GB iPhone SE $459](https://appleinsider.com/articles/21/08/06/deals-quad-core-macbook-air-on-sale-for-799-450-off-256gb-iphone-se-459?utm_medium=rss)
+ - [Internal Apple memo addresses public concern over new child protection features](https://appleinsider.com/articles/21/08/06/internal-memo-at-apple-addresses-public-concern-over-new-child-protection-features?utm_medium=rss)
+ - [Microsoft’s new Xbox night mode dims your screen, controller, and power button](https://www.theverge.com/2021/8/6/22613617/microsoft-xbox-night-mode-feature-dim-screen-controller-led)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
