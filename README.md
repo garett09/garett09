@@ -173,9 +173,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Arlo services outage preventing devices from being added to HomeKit](https://appleinsider.com/articles/21/08/06/arlo-services-outage-preventing-devices-from-being-added-to-homekit?utm_medium=rss)
- - [China Telecom, one of the country's three big carriers, plans to raise ~$7.3B in a Shanghai share sale, after being delisted from NYSE (Wall Street Journal)](http://www.techmeme.com/210806/p16#a210806p16)
- - [Huawei’s rollable phone ambitions are far from dead, new patent reveals](https://www.androidauthority.com/huawei-rollable-phone-2730470/)<!-- TECH:END -->
+ - [SpaceX stacks the full Starship launch system for the first time, standing nearly 400 feet tall](http://feedproxy.google.com/~r/Techcrunch/~3/Ptc1b4s1BEA/)
+ - [macOS Monterey impressions, Google Pixel 6, iPhone vs. Android on the AppleInsider podcast](https://appleinsider.com/articles/21/08/06/macos-monterey-impressions-pixel-6-announced-iphone-vs-android-on-the-appleinsider-podcast?utm_medium=rss)
+ - [Current refinance rates on Aug. 6, 2021: Rates slide     - CNET](https://www.cnet.com/personal-finance/mortgages/current-refinance-rates-on-aug-6-2021-rates-slide/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
