@@ -173,9 +173,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix: The 50 best TV series stream tonight     - CNET](https://www.cnet.com/news/netflix-the-50-best-tv-series-stream-tonight/#ftag=CAD590a51e)
- - [Samsung Galaxy Z Fold 3: All the rumors so far (August 6)](https://www.androidauthority.com/samsung-galaxy-z-fold-3-1179131/)
- - [Netflix: 40 of the best movies to see tonight     - CNET](https://www.cnet.com/news/netflix-40-of-the-best-movies-to-see-tonight/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Indiegogo’s CEO on how crowdfunding navigated the pandemic](http://feedproxy.google.com/~r/Techcrunch/~3/tJP0sfHQGRc/)
+ - [Kickstarter’s CEO on the future of crowdfunding](http://feedproxy.google.com/~r/Techcrunch/~3/5VFBL7f8DvI/)
+ - [Valve Steam Deck hands-on: handles resource-intensive games better than other handheld PC gaming devices, great ergonomics, gyroscopic aiming feature works well (Sean Hollister/The Verge)](http://www.techmeme.com/210806/p30#a210806p30)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
