@@ -166,9 +166,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best Australian PC gaming deals this week](https://www.pcgamer.com/best-australian-pc-gaming-deals)
- - [The Pokémon Company Company Actually Says Gay Rights](https://kotaku.com/the-pokemon-company-company-actually-says-gay-rights-1847434624)
- - [Battle Sister is the first Warhammer 40,000 game built for VR](https://www.pcgamer.com/battle-sister-is-the-first-warhammer-40000-game-built-for-vr)<!-- GAME:END -->
+ - [Hitman 3 smells the roses with a free and permanent Dartmoor Garden Show event](https://www.pcgamer.com/hitman-3-smells-the-roses-with-a-free-and-permanent-dartmoor-garden-show-event)
+ - [Garry's Mod's Garry is helping get anti-cheat software running on the Steam Deck right now](https://www.pcgamer.com/garrys-mods-garry-is-helping-get-anti-cheat-software-running-on-the-steam-deck-right-now)
+ - [Cow surfing is Minecraft's rad new way to travel](https://www.pcgamer.com/cow-surfing-is-minecrafts-rad-new-way-to-travel)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
