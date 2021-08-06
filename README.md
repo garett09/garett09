@@ -173,9 +173,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The first Zambian startup to get into YC is developing Africa’s first card-issuing API](http://feedproxy.google.com/~r/Techcrunch/~3/GTqcwVwhI0g/)
- - [Voi, which aims to use computer vision tech to prevent pavement riding, and solve parking issues, raises $45M led by The Raine Group at a $205M valuation (Rebecca Bellan/TechCrunch)](http://www.techmeme.com/210806/p7#a210806p7)
- - [Shares for Indonesian online marketplace Bukalapak rose 25% after raising $1.5B in its Jakarta IPO at a $7.5B valuation (Bloomberg)](http://www.techmeme.com/210806/p6#a210806p6)<!-- TECH:END -->
+ - [India’s Vedantu not in talks to sell to Byju’s, top exec says](http://feedproxy.google.com/~r/Techcrunch/~3/R_fGIQzj4Xc/)
+ - [We asked, you told us: Custom ROMs still have their place on Android phones](https://www.androidauthority.com/custom-rom-poll-results-2730313)
+ - [The first Zambian startup to get into YC is developing Africa’s first card-issuing API](http://feedproxy.google.com/~r/Techcrunch/~3/GTqcwVwhI0g/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
