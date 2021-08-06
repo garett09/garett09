@@ -166,9 +166,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Let’s Give All The Video Game Cats A Scritch Behind The Ears](https://kotaku.com/let-s-give-all-the-video-game-cats-a-scritch-behind-the-1847439322)
- - [The Ascent's latest patch adds ray tracing to Game Pass version, squashes co-op bugs](https://www.pcgamer.com/the-ascents-latest-patch-adds-ray-tracing-to-game-pass-version-squashes-co-op-bugs)
- - [Lin-Manuel Miranda’s Vivo can’t escape the shadow of Hamilton](https://www.polygon.com/2021/8/6/22611805/vivo-review)<!-- GAME:END -->
+ - [Borderlands 3 Receives New Rewards with Vault Card 2: Welcome to Pandora](https://news.xbox.com/en-us/2021/08/06/borderlands-3-vault-card-2-welcome-to-pandora/)
+ - [The 5 Best (And Worst) Dunks In Pokemon Unite](https://kotaku.com/the-5-best-and-worst-dunks-in-pokemon-unite-1847439369)
+ - [Leaked JoJo’s Bizarre Adventure: Stone Ocean art introduces the new cast](https://www.polygon.com/22613396/jojo-part-6-bizarre-adventure-stone-ocean-characters-voice-cast)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
