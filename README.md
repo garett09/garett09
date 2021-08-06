@@ -180,9 +180,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Biker making this lady&rsquo;s day](http://9gag.com/gag/a5EAgnL)
- - 🚯 [He knows what he is doing.](http://9gag.com/gag/aV78502)
- - 🚯 [Ancient action figure](http://9gag.com/gag/av5Vj65)<!-- MEMES:END -->
+ - 🚖 [This man can talk in reverse and his story is incredible!](http://9gag.com/gag/abVowVr)
+ - 🚯 [At least he has a gf.](http://9gag.com/gag/a07Gqzz)
+ - 🚯 [Flight rules must be followed](http://9gag.com/gag/a8E9gVQ)<!-- MEMES:END -->
 
 --- 
 
