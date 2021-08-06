@@ -181,8 +181,8 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [Historic Flood levels compared to this years flood of the Ahr in Germany.](http://9gag.com/gag/aGpq4W6)
- - 🚯 [Go Sports!](http://9gag.com/gag/a9EegK1)
- - 🚯 [Irish dance](http://9gag.com/gag/aV78poK)<!-- MEMES:END -->
+ - 🚯 [Inside A Squirrel&#039;s nest](http://9gag.com/gag/amPy4VX)
+ - 🚯 [The real world](http://9gag.com/gag/aYoB3Ox)<!-- MEMES:END -->
 
 --- 
 
