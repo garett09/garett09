@@ -166,9 +166,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Mario & Luigi Studio’s First GBA RPG Now Playable In English](https://kotaku.com/mario-luigi-studio-s-first-gba-rpg-now-playable-in-en-1847438551)
- - [Genshin Impact player breaks into game’s new zone, way before they’re supposed to](https://www.polygon.com/22612966/genshin-impact-player-breaks-inazuma-hack)
- - [New Shiny Things Are Coming Soon to Unturned](https://news.xbox.com/en-us/2021/08/06/new-shiny-things-coming-to-unturned/)<!-- GAME:END -->
+ - [We faced the Green Knight in the movie’s tabletop RPG](https://www.polygon.com/videos/22611638/lets-play-green-knight-rpg-jonah-ray-dave-schilling)
+ - [The Falconeer: Edge of the World DLC Soars to Xbox One, Xbox Series X|S, and Windows PC Today](https://news.xbox.com/en-us/2021/08/06/the-falconeer-edge-of-the-world-available-now/)
+ - [One Of The Rarest TVs In Existence Is On Ebay](https://kotaku.com/one-of-the-rarest-tvs-in-existence-is-on-ebay-1847438744)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
