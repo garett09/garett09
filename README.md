@@ -180,9 +180,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How old are you? ME:](http://9gag.com/gag/aO3OOPr)
- - 🚯 [I&#039;m ugly](http://9gag.com/gag/a9Eew0K)
- - 🚯 [Tutankhamooncake](http://9gag.com/gag/aoM6wj0)<!-- MEMES:END -->
+ - 🚖 [Tutankhamooncake](http://9gag.com/gag/aoM6wj0)
+ - 🚯 [This man can talk in reverse and his story is incredible!](http://9gag.com/gag/abVowVr)
+ - 🚯 [This is the future old man](http://9gag.com/gag/aeAEzOQ)<!-- MEMES:END -->
 
 --- 
 
