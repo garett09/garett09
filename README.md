@@ -166,9 +166,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Hitman 3 smells the roses with a free and permanent Dartmoor Garden Show event](https://www.pcgamer.com/hitman-3-smells-the-roses-with-a-free-and-permanent-dartmoor-garden-show-event)
- - [Garry's Mod's Garry is helping get anti-cheat software running on the Steam Deck right now](https://www.pcgamer.com/garrys-mods-garry-is-helping-get-anti-cheat-software-running-on-the-steam-deck-right-now)
- - [Cow surfing is Minecraft's rad new way to travel](https://www.pcgamer.com/cow-surfing-is-minecrafts-rad-new-way-to-travel)<!-- GAME:END -->
+ - [Asus is rolling out BIOS updates to alleviate likely Windows 11 upgrade headaches](https://www.pcgamer.com/asus-tpm-motherboard-bios-update)
+ - [Season 2 of The Witcher begins with A Grain of Truth](https://www.pcgamer.com/season-2-of-the-witcher-begins-with-a-grain-of-truth)
+ - [Streets of Rage 4 developer Dotemu gets acquired by Focus Home](https://www.pcgamer.com/streets-of-rage-4-developer-dotemu-gets-acquired-by-focus-home)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
