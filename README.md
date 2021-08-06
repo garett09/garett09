@@ -180,9 +180,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Comedian name: Andrew Schultz](http://9gag.com/gag/aAb75nE)
- - 🚯 [Gotta love metal fabrication](http://9gag.com/gag/aZ0KO33)
- - 🚯 [Inside A Squirrel&#039;s nest](http://9gag.com/gag/amPy4VX)<!-- MEMES:END -->
+ - 🚖 [Gotta love metal fabrication](http://9gag.com/gag/aZ0KO33)
+ - 🚯 [Have a good friday](http://9gag.com/gag/av5Vjjb)
+ - 🚯 [F**k this people](http://9gag.com/gag/a1rn3b2)<!-- MEMES:END -->
 
 --- 
 
