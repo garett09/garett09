@@ -173,9 +173,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bulk payments startup Comma raises $6M Seed round led by Octopus and Connect](http://feedproxy.google.com/~r/Techcrunch/~3/ZHyynOCFkM0/)
- - [Even Small Volcanic Eruptions Could Create Global Chaos](https://www.wired.com/story/even-smaller-volcanic-eruptions-could-create-global-chaos)
- - [Nigeria’s Decagon raises millions to finance and train software engineers](http://feedproxy.google.com/~r/Techcrunch/~3/BZ__mSsLFwM/)<!-- TECH:END -->
+ - [Sources: China plans to levy a roughly $1B fine on Meituan in the coming weeks for abusing its market position (Keith Zhai/Wall Street Journal)](http://www.techmeme.com/210806/p10#a210806p10)
+ - [You can now pre-book Samsung’s upcoming foldables in India](https://www.androidauthority.com/samsung-galaxy-z-fold-3-india-2730372/)
+ - [Facebook’s justification for banning third-party researchers ‘inaccurate,’ says FTC](https://www.theverge.com/2021/8/6/22612545/facebook-banned-third-party-researchers-inaccurate-says-ftc)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
