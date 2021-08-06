@@ -173,9 +173,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Indiegogo’s CEO on how crowdfunding navigated the pandemic](http://feedproxy.google.com/~r/Techcrunch/~3/tJP0sfHQGRc/)
- - [Kickstarter’s CEO on the future of crowdfunding](http://feedproxy.google.com/~r/Techcrunch/~3/5VFBL7f8DvI/)
- - [Valve Steam Deck hands-on: handles resource-intensive games better than other handheld PC gaming devices, great ergonomics, gyroscopic aiming feature works well (Sean Hollister/The Verge)](http://www.techmeme.com/210806/p30#a210806p30)<!-- TECH:END -->
+ - [Save 35% on the AirPods with wireless charging case, and more AirPods deals](https://www.androidauthority.com/best-airpods-deals-1108713/)
+ - [Growth roundup: Recruiting a team, writing successful newsletters, 14 questions for paid search ads](http://feedproxy.google.com/~r/Techcrunch/~3/fnZ914WlvwQ/)
+ - [Extra Crunch roundup: build a founding team, choose a VC and recruit your board](http://feedproxy.google.com/~r/Techcrunch/~3/y5INrgh39hY/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
