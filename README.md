@@ -173,9 +173,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily Authority: Apple’s scans 🔓](https://www.androidauthority.com/newsletters/da-august-6-2021/)
- - [Where to Get a Covid-19 Vaccine, and What to Expect](https://www.wired.com/story/covid-19-us-vaccination-guide)
- - [A Field Guide for Nature-Resistant Nerds](https://www.wired.com/story/a-field-guide-for-nature-resistant-nerds-microchips-climate-change)<!-- TECH:END -->
+ - [Arlo services outage preventing devices from being added to HomeKit](https://appleinsider.com/articles/21/08/06/arlo-services-outage-preventing-devices-from-being-added-to-homekit?utm_medium=rss)
+ - [China Telecom, one of the country's three big carriers, plans to raise ~$7.3B in a Shanghai share sale, after being delisted from NYSE (Wall Street Journal)](http://www.techmeme.com/210806/p16#a210806p16)
+ - [Huawei’s rollable phone ambitions are far from dead, new patent reveals](https://www.androidauthority.com/huawei-rollable-phone-2730470/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
