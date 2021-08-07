@@ -182,9 +182,9 @@ Windows                  3 mins              ████░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [First Gold for India by Neeraj Chopra in Javelin Throw!](http://9gag.com/gag/aB2zKLN)
- - 🚯 [Who has this as a child?](http://9gag.com/gag/aZ0XPjp)
- - 🚯 [Absolutely terrifying footage from a ferry carrying passengers escaping the shores of Lake Evia in Greece](http://9gag.com/gag/aMK725V)<!-- MEMES:END -->
+ - 🚖 [Who has this as a child?](http://9gag.com/gag/aZ0XPjp)
+ - 🚯 [Absolutely terrifying footage from a ferry carrying passengers escaping the shores of Lake Evia in Greece](http://9gag.com/gag/aMK725V)
+ - 🚯 [He harpooned the wrong fish, close one](http://9gag.com/gag/amPQXK4)<!-- MEMES:END -->
 
 --- 
 
