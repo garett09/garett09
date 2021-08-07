@@ -180,9 +180,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Animals shouldn&#039;t be in captivity.](http://9gag.com/gag/ayMrEnY)
- - 🚯 [Glitch in the matrix](http://9gag.com/gag/aQoKYWw)
- - 🚯 [Armand Duplantis, 21 y.o pole vaulting champion. Damn that looks surreal.](http://9gag.com/gag/agB9rZw)<!-- MEMES:END -->
+ - 🚖 [Bad news first](http://9gag.com/gag/arM0Po5)
+ - 🚯 [Uooooo](http://9gag.com/gag/aNpMmxA)
+ - 🚯 [A Dollar Can Save a Child](http://9gag.com/gag/ad8Ay2B)<!-- MEMES:END -->
 
 --- 
 
