@@ -180,9 +180,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Armand Duplantis, 21 y.o pole vaulting champion. Damn that looks surreal.](http://9gag.com/gag/agB9rZw)
- - 🚯 [Celebrities fangirling over the interviewer](http://9gag.com/gag/abVD3g8)
- - 🚯 [Misma expresi&oacute;n](http://9gag.com/gag/aB2MD4Z)<!-- MEMES:END -->
+ - 🚖 [Animals shouldn&#039;t be in captivity.](http://9gag.com/gag/ayMrEnY)
+ - 🚯 [Glitch in the matrix](http://9gag.com/gag/aQoKYWw)
+ - 🚯 [Armand Duplantis, 21 y.o pole vaulting champion. Damn that looks surreal.](http://9gag.com/gag/agB9rZw)<!-- MEMES:END -->
 
 --- 
 
