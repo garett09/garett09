@@ -175,9 +175,9 @@ Windows                  3 mins              ████░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Xbox: Everything you need to know about the gaming giant](https://www.androidauthority.com/xbox-1229451/)
- - [WhatsApp lead and other tech experts fire back at Apple’s Child Safety plan](https://www.theverge.com/2021/8/6/22613365/apple-icloud-csam-scanning-whatsapp-surveillance-reactions)
- - [Riot moves League of Legends’ US championship from Prudential Center due to COVID-19](https://www.theverge.com/2021/8/7/22614556/league-of-legends-lcs-us-championship-finals-prudential-center)<!-- TECH:END -->
+ - [Riot moves League of Legends’ US championship from Prudential Center due to COVID-19](https://www.theverge.com/2021/8/7/22614556/league-of-legends-lcs-us-championship-finals-prudential-center)
+ - [Experts say the $65B broadband bill Congress is finalizing has many good aspects, but won't fix the high prices that result from broadband monopolization (Karl Bode/VICE)](http://www.techmeme.com/210807/p9#a210807p9)
+ - [Xbox: Everything you need to know about the gaming giant](https://www.androidauthority.com/xbox-1229451/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
