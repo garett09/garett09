@@ -173,9 +173,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Singapore's efforts to become a leading hub for esports in Southeast Asia, a region expected to see the fastest esports revenue growth globally (Selina Xu/Bloomberg)](http://www.techmeme.com/210807/p5#a210807p5)
- - [Amazon Echo Show 10 (3rd gen) review: Alexa on the move](https://www.androidauthority.com/amazon-echo-show-10-review-1659242/)
- - [2021 Chevy Corvette, Genesis GV70, Acura NSX Type S and more: Roadshow's week in review     - Roadshow](https://www.cnet.com/roadshow/news/2021-chevy-corvette-genesis-gv70-acura-nsx-type-s-week-in-review/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Twitter appoints “grievance officer” to comply with India’s new rules](https://www.theverge.com/2021/8/7/22614205/twitter-appoints-grievance-compliance-officer-comply-india-rules)
+ - [With Kate, Netflix Is Still Looking for Its Own John Wick](https://www.wired.com/story/kate-netflix-trailer)
+ - [Considering a MacBook? Here are Our Favorites](https://www.wired.com/story/which-macbook-should-you-buy)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
