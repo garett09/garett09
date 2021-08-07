@@ -154,8 +154,8 @@ No Activity Tracked This Week
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/Exynos9810-development/android_device_samsung_universal9810-common/pull/1) in [Exynos9810-development/android_device_samsung_universal9810-common](https://github.com/Exynos9810-development/android_device_samsung_universal9810-common)
-2. ❗️ Closed issue [#5](https://github.com/garett09/garett09/issues/5) in [garett09/garett09](https://github.com/garett09/garett09)
+1. ❌ Closed PR [#1](https://github.com/Exynos9810-development/android_device_samsung_universal9810-common/pull/1) in [Exynos9810-development/android_device_samsung_universal9810-common](https://github.com/Exynos9810-development/android_device_samsung_universal9810-common)
+2. 💪 Opened PR [#1](https://github.com/Exynos9810-development/android_device_samsung_universal9810-common/pull/1) in [Exynos9810-development/android_device_samsung_universal9810-common](https://github.com/Exynos9810-development/android_device_samsung_universal9810-common)
 3. ❗️ Closed issue [#4](https://github.com/garett09/garett09/issues/4) in [garett09/garett09](https://github.com/garett09/garett09)
 4. ❗️ Closed issue [#3](https://github.com/garett09/garett09/issues/3) in [garett09/garett09](https://github.com/garett09/garett09)
 5. ❗️ Closed issue [#2](https://github.com/garett09/garett09/issues/2) in [garett09/garett09](https://github.com/garett09/garett09)
