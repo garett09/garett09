@@ -173,9 +173,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitter appoints “grievance officer” to comply with India’s new rules](https://www.theverge.com/2021/8/7/22614205/twitter-appoints-grievance-compliance-officer-comply-india-rules)
- - [With Kate, Netflix Is Still Looking for Its Own John Wick](https://www.wired.com/story/kate-netflix-trailer)
- - [Considering a MacBook? Here are Our Favorites](https://www.wired.com/story/which-macbook-should-you-buy)<!-- TECH:END -->
+ - [Best deals for August 7 - Lego Empire State Building, Yale HomeKit Lock, and more!](https://appleinsider.com/articles/21/08/07/best-deals-for-august-7---lego-empire-state-building-yale-homekit-lock-and-more?utm_medium=rss)
+ - [The Pixel 6 is Google’s first true answer to the iPhone](https://www.androidauthority.com/google-pixel-6-vs-iphone-2728247/)
+ - [Twitter appoints “grievance officer” to comply with India’s new rules](https://www.theverge.com/2021/8/7/22614205/twitter-appoints-grievance-compliance-officer-comply-india-rules)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
