@@ -175,9 +175,9 @@ Windows                  3 mins              ████░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [[Thread] Apple's child safety protections announcement hurt the effort to find a policy balance on safety and privacy aspects of e2e encrypted comms products (Alex Stamos/@alexstamos)](http://www.techmeme.com/210807/p10#a210807p10)
  - [Everything we know about Zack Snyder’s Army of the Dead franchise](https://www.androidauthority.com/zack-snyder-army-of-the-dead-netflix-1649425/)
- - [Epic Games CEO slams Apple 'government spyware'](https://appleinsider.com/articles/21/08/07/epic-games-ceo-slams-apple-government-spyware?utm_medium=rss)
- - [Google reportedly planning a new Silicon Valley campus with a hardware center](https://www.theverge.com/2021/8/7/22614501/google-new-silicon-valley-campus-hardware-nest-pixel)<!-- TECH:END -->
+ - [Epic Games CEO slams Apple 'government spyware'](https://appleinsider.com/articles/21/08/07/epic-games-ceo-slams-apple-government-spyware?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
