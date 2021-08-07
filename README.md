@@ -173,9 +173,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Vietnam, which has a relatively low number of bank branches per capita, has become a battleground for e-wallets as market leader MoMo looks to maintain its lead (Nikkei Asia)](http://www.techmeme.com/210807/p3#a210807p3)
- - [Does the Apple Watch track sleep? Yes, but there are some caveats.](https://www.androidauthority.com/apple-watch-sleep-tracking-1658686/)
- - [RedmiBook Pro first impressions: More misses than hits?](https://www.androidauthority.com/redmibook-pro-review-2730352/)<!-- TECH:END -->
+ - [Experts say Rappi's service has worsened even as the Colombian on-demand delivery company continues to grow, opening the door to competitors like JOKR (Megan Janetsky/Rest of World)](http://www.techmeme.com/210807/p4#a210807p4)
+ - [Google Fi, Mint Mobile, Visible: Which wireless networks do smaller providers use?     - CNET](https://www.cnet.com/tech/mobile/google-fi-mint-mobile-visible-which-wireless-networks-do-smaller-providers-use/#ftag=CAD590a51e)
+ - [Realme MagDart tested: Wireless charging at wired speeds](https://www.androidauthority.com/realme-magdart-tested-2728755/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
