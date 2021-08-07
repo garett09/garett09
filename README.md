@@ -168,9 +168,9 @@ Windows                  3 mins              ████░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [After a decade, Kerbal Space Program development is over](https://www.pcgamer.com/after-a-decade-kerbal-space-program-development-is-over)
- - [Ariana Grande's Fortnite Event Is Epic's Best Concert Yet](https://kotaku.com/ariana-grandes-fortnite-event-is-epics-best-concert-yet-1847443620)
- - [Back 4 Blood Beta Players Think They Hear Zombies Yelling The N-Word](https://kotaku.com/back-4-blood-beta-players-think-they-hear-zombies-yelli-1847443163)<!-- GAME:END -->
+ - [Intellivision Amico Delayed A Third Time, Now Out By End Of Year](https://kotaku.com/intellivision-amico-delayed-a-third-time-now-out-by-en-1847444094)
+ - [Three random words are still one of the best passwords, experts say](https://www.pcgamer.com/three-random-words-are-still-one-of-the-best-passwords-experts-say)
+ - [After a decade, Kerbal Space Program development is over](https://www.pcgamer.com/after-a-decade-kerbal-space-program-development-is-over)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
