@@ -180,9 +180,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Men stopping a dude taking a shirt meant for a kid](http://9gag.com/gag/aqjM99L)
- - 🚯 [Good job Todd](http://9gag.com/gag/aO3Eov6)
- - 🚯 [How to trigger people in less than 19 seconds](http://9gag.com/gag/apNXeYM)<!-- MEMES:END -->
+ - 🚖 [Work smarter not harder](http://9gag.com/gag/awMj0AW)
+ - 🚯 [Armand Duplantis, 21 y.o pole vaulting champion. Damn that looks surreal.](http://9gag.com/gag/agB9rZw)
+ - 🚯 [Inevitable future](http://9gag.com/gag/aoMoEMX)<!-- MEMES:END -->
 
 --- 
 
