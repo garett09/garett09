@@ -166,9 +166,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Great Ace Attorney takes aim at the British Empire but doesn’t pull the trigger](https://www.polygon.com/22612944/the-great-ace-attorney-chronicles-british-empire-critique-ending-analysis-spoilers)
- - [No Longer Home: The Kotaku Review](https://kotaku.com/no-longer-home-the-kotaku-review-1847440205)
- - [Valve intends 'to continue making devices' in the same handheld category as the Steam Deck](https://www.pcgamer.com/valve-intends-to-make-more-steam-decks)<!-- GAME:END -->
+ - [Shelgon Never Eats Or Drinks And Nobody Knows How It's Still Alive](https://kotaku.com/shelgon-never-eats-or-drinks-and-nobody-knows-how-its-s-1847442693)
+ - [To Suicide Squad star David Dastmalchian, we are all Polka-Dot Man](https://www.polygon.com/interviews/22612999/suicide-squad-polka-dot-man-james-gunn-david-dastmalchian)
+ - [The Great Ace Attorney takes aim at the British Empire but doesn’t pull the trigger](https://www.polygon.com/22612944/the-great-ace-attorney-chronicles-british-empire-critique-ending-analysis-spoilers)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
