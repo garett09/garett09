@@ -173,9 +173,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Chronus, a developer of enterprise software for employee development programs, raises $78M from Level Equity as demand for its product grew during the pandemic (Laurel Deppen/GeekWire)](http://www.techmeme.com/210807/p1#a210807p1)
  - [China-based Inceptio, which is developing autonomous trucks, raises $270M Series B led by JD Logistics, Meituan, and PE firm PAG, bringing total raised to $490M (Jill Shen/TechNode)](http://www.techmeme.com/210806/p37#a210806p37)
- - [Vaccine skeptics who have been demonetized on YouTube are now raising money on crowdfunding platforms, including the Christian-oriented GiveSendGo and GoFundMe (Aaron Mak/Slate)](http://www.techmeme.com/210806/p36#a210806p36)
- - [Apple Watch credited with saving man's life after fall](https://appleinsider.com/articles/21/08/07/apple-watch-credited-with-saving-mans-life-after-fall?utm_medium=rss)<!-- TECH:END -->
+ - [Vaccine skeptics who have been demonetized on YouTube are now raising money on crowdfunding platforms, including the Christian-oriented GiveSendGo and GoFundMe (Aaron Mak/Slate)](http://www.techmeme.com/210806/p36#a210806p36)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
