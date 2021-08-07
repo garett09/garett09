@@ -180,9 +180,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Bad news first](http://9gag.com/gag/arM0Po5)
- - 🚯 [Uooooo](http://9gag.com/gag/aNpMmxA)
- - 🚯 [A Dollar Can Save a Child](http://9gag.com/gag/ad8Ay2B)<!-- MEMES:END -->
+ - 🚖 [Men stopping a dude taking a shirt meant for a kid](http://9gag.com/gag/aqjM99L)
+ - 🚯 [Good job Todd](http://9gag.com/gag/aO3Eov6)
+ - 🚯 [How to trigger people in less than 19 seconds](http://9gag.com/gag/apNXeYM)<!-- MEMES:END -->
 
 --- 
 
