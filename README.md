@@ -175,9 +175,9 @@ Windows                  3 mins              ████░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Turtle Beach’s Recon is a multitalented wired Xbox controller](https://www.theverge.com/22611872/turtle-beach-recon-controller-xbox-review-features-price)
- - [Redmonk study of programming languages, combining GitHub and Stack Overflow data, shows Java in second place alongside Python, while JavaScript remains top (Stephen O'Grady/Redmonk)](http://www.techmeme.com/210807/p6#a210807p6)
- - [Report finds Doximity, a social network for doctors, is riddled with anti-vaccine comments](https://www.theverge.com/2021/8/7/22614255/doximity-social-network-doctors-healthcare-vaccine-coronavirus-covid)<!-- TECH:END -->
+ - [What you need to know: Apple's iCloud Photos and Messages child safety initiatives](https://appleinsider.com/articles/21/08/06/what-you-need-to-know-apples-icloud-photos-and-messages-child-safety-initiatives?utm_medium=rss)
+ - [China roundup: Games are opium, algorithms need scrutiny](http://feedproxy.google.com/~r/Techcrunch/~3/l7mNPzN4bWU/)
+ - [Major record labels sue Charter Communications again for alleged copyright infringement](https://www.theverge.com/2021/8/7/22614327/major-record-labels-sue-charter-communications-copyright-infringement)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
