@@ -182,9 +182,9 @@ Windows                  3 mins              ████░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [He harpooned the wrong fish, close one](http://9gag.com/gag/amPQXK4)
- - 🚯 [He knew he won Gold the sec he released... Such a proud and happy moment... Neeraj Chopra of India wins Gold in Javelin Throw - 87.58 Mts](http://9gag.com/gag/aeAz3Vb)
- - 🚯 [The horse meme origin story.](http://9gag.com/gag/aLpoQAz)<!-- MEMES:END -->
+ - 🚖 [He knew he won Gold the sec he released... Such a proud and happy moment... Neeraj Chopra of India wins Gold in Javelin Throw - 87.58 Mts](http://9gag.com/gag/aeAz3Vb)
+ - 🚯 [Playin Carousel on a high level](http://9gag.com/gag/aNpMo23)
+ - 🚯 [Yo ass&hellip;](http://9gag.com/gag/aB2zKLZ)<!-- MEMES:END -->
 
 --- 
 
