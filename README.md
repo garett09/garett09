@@ -166,9 +166,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The Great Ace Attorney takes aim at the British Empire but doesn’t pull the trigger](https://www.polygon.com/22612944/the-great-ace-attorney-chronicles-british-empire-critique-ending-analysis-spoilers)
  - [No Longer Home: The Kotaku Review](https://kotaku.com/no-longer-home-the-kotaku-review-1847440205)
- - [Valve intends 'to continue making devices' in the same handheld category as the Steam Deck](https://www.pcgamer.com/valve-intends-to-make-more-steam-decks)
- - [The key thing to know about The Suicide Squad’s King Shark](https://www.polygon.com/22613658/king-shark-powers-suicide-squad-origin-dc-comics)<!-- GAME:END -->
+ - [Valve intends 'to continue making devices' in the same handheld category as the Steam Deck](https://www.pcgamer.com/valve-intends-to-make-more-steam-decks)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
