@@ -180,9 +180,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Misma expresi&oacute;n](http://9gag.com/gag/aB2MD4Z)
+ - 🚖 [Germans have a word for everything](http://9gag.com/gag/aB2M73Q)
  - 🚯 [Thai women are like a box of chocolates, you never know what you&#039;re going to get.](http://9gag.com/gag/ayMAgny)
- - 🚯 [Germans have a word for everything](http://9gag.com/gag/aB2M73Q)<!-- MEMES:END -->
+ - 🚯 [A 700-year-old castle built on a swamp](http://9gag.com/gag/aK6yb4b)<!-- MEMES:END -->
 
 --- 
 
