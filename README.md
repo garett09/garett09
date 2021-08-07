@@ -181,8 +181,8 @@ No Activity Tracked This Week
 
 <!-- MEMES:START -->
  - 🚖 [Childhood before internet](http://9gag.com/gag/a8ENLwQ)
- - 🚯 [Uooooo](http://9gag.com/gag/aNpMmxA)
- - 🚯 [Inevitable future](http://9gag.com/gag/aoMoEMX)<!-- MEMES:END -->
+ - 🚯 [Inevitable future](http://9gag.com/gag/aoMoEMX)
+ - 🚯 [Romania sent 110 firefighters along with firetrucks to Greece, to help fight the wildfires. Thanks Romania!](http://9gag.com/gag/aoMomoX)<!-- MEMES:END -->
 
 --- 
 
