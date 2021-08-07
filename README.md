@@ -180,9 +180,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Childhood before internet](http://9gag.com/gag/a8ENLwQ)
- - 🚯 [Dave !!](http://9gag.com/gag/aoMoENg)
- - 🚯 [Yup, exactly what I wanted to see today](http://9gag.com/gag/aAbARz0)<!-- MEMES:END -->
+ - 🚖 [SLAV STYLE !!](http://9gag.com/gag/aNpMr6w)
+ - 🚯 [Yup, exactly what I wanted to see today](http://9gag.com/gag/aAbARz0)
+ - 🚯 [Yo ass&hellip;](http://9gag.com/gag/aB2zKLZ)<!-- MEMES:END -->
 
 --- 
 
