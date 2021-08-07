@@ -175,9 +175,9 @@ Windows                  3 mins              ████░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fitbit Sense buyer’s guide: Everything you need to know](https://www.androidauthority.com/fitbit-sense-2727478/)
- - [More than 4,000 organizations and individuals sign an open letter asking Apple to halt the implementation of its proposed content monitoring technology (Apple Privacy Letter)](http://www.techmeme.com/210807/p8#a210807p8)
- - [Unopened copy of Super Mario Bros. sells for a record $2 million](https://www.theverge.com/2021/8/7/22614450/unopened-copy-super-mario-bros-sells-2-million-record)<!-- TECH:END -->
+ - [Spotify abandons AirPlay 2 support [u]](https://appleinsider.com/articles/21/08/06/spotify-abandons-airplay-2-support?utm_medium=rss)
+ - [Spotify backtracks, AirPlay 2 coming after all](https://appleinsider.com/articles/21/08/07/spotify-backtracks-airplay-2-coming-after-all?utm_medium=rss)
+ - [Fitbit Sense buyer’s guide: Everything you need to know](https://www.androidauthority.com/fitbit-sense-2727478/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
