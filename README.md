@@ -180,9 +180,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ohh boy noooo](http://9gag.com/gag/aEpbr1K)
- - 🚯 [A 700-year-old castle built on a swamp](http://9gag.com/gag/aK6yb4b)
- - 🚯 [C&lsquo;mon b*tch open your eyez](http://9gag.com/gag/aMK6R1P)<!-- MEMES:END -->
+ - 🚖 [A 700-year-old castle built on a swamp](http://9gag.com/gag/aK6yb4b)
+ - 🚯 [I guess no interview :( funny is not the right category ^^](http://9gag.com/gag/av5VbPZ)
+ - 🚯 [Animals shouldn&#039;t be in captivity.](http://9gag.com/gag/ayMrEnY)<!-- MEMES:END -->
 
 --- 
 
