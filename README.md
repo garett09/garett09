@@ -173,9 +173,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Experts say Rappi's service has worsened even as the Colombian on-demand delivery company continues to grow, opening the door to competitors like JOKR (Megan Janetsky/Rest of World)](http://www.techmeme.com/210807/p4#a210807p4)
- - [Google Fi, Mint Mobile, Visible: Which wireless networks do smaller providers use?     - CNET](https://www.cnet.com/tech/mobile/google-fi-mint-mobile-visible-which-wireless-networks-do-smaller-providers-use/#ftag=CAD590a51e)
- - [Realme MagDart tested: Wireless charging at wired speeds](https://www.androidauthority.com/realme-magdart-tested-2728755/)<!-- TECH:END -->
+ - [AI Wrote Better Phishing Emails Than Humans in a Recent Test](https://www.wired.com/story/ai-phishing-emails)
+ - [All the Ways Spotify Tracks You—and How to Stop It](https://www.wired.com/story/spotify-tracking-how-to-stop-it)
+ - [The 13 Best Weekend Deals on TVs, Laptops, and Vibrators](https://www.wired.com/story/weekend-deals-august-7-2021)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
