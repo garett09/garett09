@@ -166,9 +166,9 @@ No Activity Tracked This Week
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The key thing to know about The Suicide Squad’s King Shark](https://www.polygon.com/22613658/king-shark-powers-suicide-squad-origin-dc-comics)
  - [The Leaderboard Shares “107 Facts” About Psychonauts](https://news.xbox.com/en-us/2021/08/06/the-leaderboard-shares-107-facts-about-psychonauts/)
- - [The Suicide Squad has a post-credits scene, but it’s not sequel setup](https://www.polygon.com/22613421/suicide-squad-after-credits-scene-peacemaker-explained)
- - [I killed a demon, cowered before a giant bear, and survived an M.C. Escher world at Ariana Grande's Fortnite concert](https://www.pcgamer.com/ariana-grande-fortnite)<!-- GAME:END -->
+ - [The Suicide Squad has a post-credits scene, but it’s not sequel setup](https://www.polygon.com/22613421/suicide-squad-after-credits-scene-peacemaker-explained)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
