@@ -173,9 +173,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [China-based Inceptio, which is developing autonomous trucks, raises $270M Series B led by JD Logistics, Meituan, and PE firm PAG, bringing total raised to $490M (Jill Shen/TechNode)](http://www.techmeme.com/210806/p37#a210806p37)
  - [Vaccine skeptics who have been demonetized on YouTube are now raising money on crowdfunding platforms, including the Christian-oriented GiveSendGo and GoFundMe (Aaron Mak/Slate)](http://www.techmeme.com/210806/p36#a210806p36)
- - [Apple Watch credited with saving man's life after fall](https://appleinsider.com/articles/21/08/07/apple-watch-credited-with-saving-mans-life-after-fall?utm_medium=rss)
- - [Refurbed, a European marketplace for refurbished electronics, raises $54M Series B led by Evli Growth Partners and Almaz Capital (Mike Butcher/TechCrunch)](http://www.techmeme.com/210806/p35#a210806p35)<!-- TECH:END -->
+ - [Apple Watch credited with saving man's life after fall](https://appleinsider.com/articles/21/08/07/apple-watch-credited-with-saving-mans-life-after-fall?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
