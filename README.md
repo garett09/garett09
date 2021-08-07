@@ -180,9 +180,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [White people have no culture !](http://9gag.com/gag/av5VYwW)
- - 🚯 [I guess no interview :( funny is not the right category ^^](http://9gag.com/gag/av5VbPZ)
- - 🚯 [Thai women are like a box of chocolates, you never know what you&#039;re going to get.](http://9gag.com/gag/ayMAgny)<!-- MEMES:END -->
+ - 🚖 [Misma expresi&oacute;n](http://9gag.com/gag/aB2MD4Z)
+ - 🚯 [Thai women are like a box of chocolates, you never know what you&#039;re going to get.](http://9gag.com/gag/ayMAgny)
+ - 🚯 [Germans have a word for everything](http://9gag.com/gag/aB2M73Q)<!-- MEMES:END -->
 
 --- 
 
