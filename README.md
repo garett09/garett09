@@ -173,9 +173,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Watch credited with saving man's life after fall](https://appleinsider.com/articles/21/08/07/apple-watch-credited-with-saving-mans-life-after-fall?utm_medium=rss)
  - [Refurbed, a European marketplace for refurbished electronics, raises $54M Series B led by Evli Growth Partners and Almaz Capital (Mike Butcher/TechCrunch)](http://www.techmeme.com/210806/p35#a210806p35)
- - [Open letter asks Apple not to implement Child Safety measures](https://appleinsider.com/articles/21/08/07/open-letter-asks-apple-not-to-implement-child-safety-measures?utm_medium=rss)
- - [Netflix: The 50 best TV series to stream tonight     - CNET](https://www.cnet.com/news/netflix-the-50-best-tv-series-to-stream-tonight/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Open letter asks Apple not to implement Child Safety measures](https://appleinsider.com/articles/21/08/07/open-letter-asks-apple-not-to-implement-child-safety-measures?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
