@@ -175,9 +175,9 @@ Windows                  3 mins              ████░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spotify abandons AirPlay 2 support [u]](https://appleinsider.com/articles/21/08/06/spotify-abandons-airplay-2-support?utm_medium=rss)
- - [Spotify backtracks, AirPlay 2 coming after all](https://appleinsider.com/articles/21/08/07/spotify-backtracks-airplay-2-coming-after-all?utm_medium=rss)
- - [Fitbit Sense buyer’s guide: Everything you need to know](https://www.androidauthority.com/fitbit-sense-2727478/)<!-- TECH:END -->
+ - [Xbox: Everything you need to know about the gaming giant](https://www.androidauthority.com/xbox-1229451/)
+ - [WhatsApp lead and other tech experts fire back at Apple’s Child Safety plan](https://www.theverge.com/2021/8/6/22613365/apple-icloud-csam-scanning-whatsapp-surveillance-reactions)
+ - [Riot moves League of Legends’ US championship from Prudential Center due to COVID-19](https://www.theverge.com/2021/8/7/22614556/league-of-legends-lcs-us-championship-finals-prudential-center)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
