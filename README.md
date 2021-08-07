@@ -173,9 +173,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best deals for August 7 - Lego Empire State Building, Yale HomeKit Lock, and more!](https://appleinsider.com/articles/21/08/07/best-deals-for-august-7---lego-empire-state-building-yale-homekit-lock-and-more?utm_medium=rss)
- - [The Pixel 6 is Google’s first true answer to the iPhone](https://www.androidauthority.com/google-pixel-6-vs-iphone-2728247/)
- - [Twitter appoints “grievance officer” to comply with India’s new rules](https://www.theverge.com/2021/8/7/22614205/twitter-appoints-grievance-compliance-officer-comply-india-rules)<!-- TECH:END -->
+ - [Turtle Beach’s Recon is a multitalented wired Xbox controller](https://www.theverge.com/22611872/turtle-beach-recon-controller-xbox-review-features-price)
+ - [Redmonk study of programming languages, combining GitHub and Stack Overflow data, shows Java in second place alongside Python, while JavaScript remains top (Stephen O'Grady/Redmonk)](http://www.techmeme.com/210807/p6#a210807p6)
+ - [Report finds Doximity, a social network for doctors, is riddled with anti-vaccine comments](https://www.theverge.com/2021/8/7/22614255/doximity-social-network-doctors-healthcare-vaccine-coronavirus-covid)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
