@@ -180,9 +180,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [White people have no culture !](http://9gag.com/gag/av5VYwW)
- - 🚯 [Thai women are like a box of chocolates, you never know what you&#039;re going to get.](http://9gag.com/gag/ayMAgny)
- - 🚯 [A 700-year-old castle built on a swamp](http://9gag.com/gag/aK6yb4b)<!-- MEMES:END -->
+ - 🚖 [Ohh boy noooo](http://9gag.com/gag/aEpbr1K)
+ - 🚯 [A 700-year-old castle built on a swamp](http://9gag.com/gag/aK6yb4b)
+ - 🚯 [C&lsquo;mon b*tch open your eyez](http://9gag.com/gag/aMK6R1P)<!-- MEMES:END -->
 
 --- 
 
