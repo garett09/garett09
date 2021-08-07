@@ -175,9 +175,9 @@ Windows                  3 mins              ████░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Profile of ACLU veteran Laura Murphy, who ran Facebook's civil rights audit before working on content moderation issues, as more companies face calls for audits (Naomi Nix/Bloomberg)](http://www.techmeme.com/210807/p7#a210807p7)
  - [What you need to know: Apple's iCloud Photos and Messages child safety initiatives](https://appleinsider.com/articles/21/08/06/what-you-need-to-know-apples-icloud-photos-and-messages-child-safety-initiatives?utm_medium=rss)
- - [China roundup: Games are opium, algorithms need scrutiny](http://feedproxy.google.com/~r/Techcrunch/~3/l7mNPzN4bWU/)
- - [Major record labels sue Charter Communications again for alleged copyright infringement](https://www.theverge.com/2021/8/7/22614327/major-record-labels-sue-charter-communications-copyright-infringement)<!-- TECH:END -->
+ - [China roundup: Games are opium, algorithms need scrutiny](http://feedproxy.google.com/~r/Techcrunch/~3/l7mNPzN4bWU/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
