@@ -180,9 +180,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [SLAV STYLE !!](http://9gag.com/gag/aNpMr6w)
- - 🚯 [Yup, exactly what I wanted to see today](http://9gag.com/gag/aAbARz0)
- - 🚯 [Yo ass&hellip;](http://9gag.com/gag/aB2zKLZ)<!-- MEMES:END -->
+ - 🚖 [Great success](http://9gag.com/gag/a3EgPAe)
+ - 🚯 [Who has this as a child?](http://9gag.com/gag/aZ0XPjp)
+ - 🚯 [First Gold for India by Neeraj Chopra in Javelin Throw!](http://9gag.com/gag/aB2zKLN)<!-- MEMES:END -->
 
 --- 
 
