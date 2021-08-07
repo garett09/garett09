@@ -168,9 +168,9 @@ Windows                  3 mins              ████░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Back 4 Blood Beta Players Think They Hear Zombies Yelling The N-Word](https://kotaku.com/back-4-blood-beta-players-think-they-hear-zombies-yelli-1847443163)
  - [10 Years After Release, Development On Kerbal Space Program Has Ended](https://kotaku.com/10-years-after-release-development-on-kerbal-space-pro-1847442884)
- - [The 13 best movies new to streaming to watch in August](https://www.polygon.com/what-to-watch/2021/8/7/22606257/best-new-movies-netflix-amazon-hbo-july-2021)
- - [Shelgon Never Eats Or Drinks And Nobody Knows How It's Still Alive](https://kotaku.com/shelgon-never-eats-or-drinks-and-nobody-knows-how-its-s-1847442693)<!-- GAME:END -->
+ - [The 13 best movies new to streaming to watch in August](https://www.polygon.com/what-to-watch/2021/8/7/22606257/best-new-movies-netflix-amazon-hbo-july-2021)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
