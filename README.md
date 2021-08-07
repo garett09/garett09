@@ -175,9 +175,9 @@ Windows                  3 mins              ████░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Profile of ACLU veteran Laura Murphy, who ran Facebook's civil rights audit before working on content moderation issues, as more companies face calls for audits (Naomi Nix/Bloomberg)](http://www.techmeme.com/210807/p7#a210807p7)
- - [What you need to know: Apple's iCloud Photos and Messages child safety initiatives](https://appleinsider.com/articles/21/08/06/what-you-need-to-know-apples-icloud-photos-and-messages-child-safety-initiatives?utm_medium=rss)
- - [China roundup: Games are opium, algorithms need scrutiny](http://feedproxy.google.com/~r/Techcrunch/~3/l7mNPzN4bWU/)<!-- TECH:END -->
+ - [Fitbit Sense buyer’s guide: Everything you need to know](https://www.androidauthority.com/fitbit-sense-2727478/)
+ - [More than 4,000 organizations and individuals sign an open letter asking Apple to halt the implementation of its proposed content monitoring technology (Apple Privacy Letter)](http://www.techmeme.com/210807/p8#a210807p8)
+ - [Unopened copy of Super Mario Bros. sells for a record $2 million](https://www.theverge.com/2021/8/7/22614450/unopened-copy-super-mario-bros-sells-2-million-record)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
