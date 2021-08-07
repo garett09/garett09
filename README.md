@@ -182,9 +182,9 @@ Windows                  3 mins              ████░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This dude is a Treasure](http://9gag.com/gag/a6EgmW9)
- - 🚯 [Still not buying it](http://9gag.com/gag/abVDb5v)
- - 🚯 [This guys gun skill.](http://9gag.com/gag/abVDyqp)<!-- MEMES:END -->
+ - 🚖 [This guys gun skill.](http://9gag.com/gag/abVDyqp)
+ - 🚯 [Belgian marathoner reached 28th place At the Olympics, but she didn&#039;t believe that](http://9gag.com/gag/a3EgLRm)
+ - 🚯 [1st gold for India. Neeraj Chopra the prodigal boy. So happy.](http://9gag.com/gag/axMKNBb)<!-- MEMES:END -->
 
 --- 
 
