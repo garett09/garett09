@@ -180,9 +180,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Break my heart](http://9gag.com/gag/aDdLpN7)
- - 🚯 [A 700-year-old castle built on a swamp](http://9gag.com/gag/aK6yb4b)
- - 🚯 [And some people get fat just by smelling the smoke from a barbecue](http://9gag.com/gag/amPyj16)<!-- MEMES:END -->
+ - 🚖 [White people have no culture !](http://9gag.com/gag/av5VYwW)
+ - 🚯 [I guess no interview :( funny is not the right category ^^](http://9gag.com/gag/av5VbPZ)
+ - 🚯 [Thai women are like a box of chocolates, you never know what you&#039;re going to get.](http://9gag.com/gag/ayMAgny)<!-- MEMES:END -->
 
 --- 
 
