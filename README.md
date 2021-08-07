@@ -180,9 +180,9 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A 700-year-old castle built on a swamp](http://9gag.com/gag/aK6yb4b)
- - 🚯 [I guess no interview :( funny is not the right category ^^](http://9gag.com/gag/av5VbPZ)
- - 🚯 [Animals shouldn&#039;t be in captivity.](http://9gag.com/gag/ayMrEnY)<!-- MEMES:END -->
+ - 🚖 [Armand Duplantis, 21 y.o pole vaulting champion. Damn that looks surreal.](http://9gag.com/gag/agB9rZw)
+ - 🚯 [Celebrities fangirling over the interviewer](http://9gag.com/gag/abVD3g8)
+ - 🚯 [Misma expresi&oacute;n](http://9gag.com/gag/aB2MD4Z)<!-- MEMES:END -->
 
 --- 
 
