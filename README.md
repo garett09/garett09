@@ -173,9 +173,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [AI Wrote Better Phishing Emails Than Humans in a Recent Test](https://www.wired.com/story/ai-phishing-emails)
- - [All the Ways Spotify Tracks You—and How to Stop It](https://www.wired.com/story/spotify-tracking-how-to-stop-it)
- - [The 13 Best Weekend Deals on TVs, Laptops, and Vibrators](https://www.wired.com/story/weekend-deals-august-7-2021)<!-- TECH:END -->
+ - [A look at Singapore's efforts to become a leading hub for esports in Southeast Asia, a region expected to see the fastest esports revenue growth globally (Selina Xu/Bloomberg)](http://www.techmeme.com/210807/p5#a210807p5)
+ - [Amazon Echo Show 10 (3rd gen) review: Alexa on the move](https://www.androidauthority.com/amazon-echo-show-10-review-1659242/)
+ - [2021 Chevy Corvette, Genesis GV70, Acura NSX Type S and more: Roadshow's week in review     - Roadshow](https://www.cnet.com/roadshow/news/2021-chevy-corvette-genesis-gv70-acura-nsx-type-s-week-in-review/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
