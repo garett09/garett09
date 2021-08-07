@@ -180,8 +180,8 @@ No Activity Tracked This Week
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Work smarter not harder](http://9gag.com/gag/awMj0AW)
- - 🚯 [Armand Duplantis, 21 y.o pole vaulting champion. Damn that looks surreal.](http://9gag.com/gag/agB9rZw)
+ - 🚖 [Childhood before internet](http://9gag.com/gag/a8ENLwQ)
+ - 🚯 [Uooooo](http://9gag.com/gag/aNpMmxA)
  - 🚯 [Inevitable future](http://9gag.com/gag/aoMoEMX)<!-- MEMES:END -->
 
 --- 
