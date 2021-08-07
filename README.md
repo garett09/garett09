@@ -168,9 +168,9 @@ Windows                  3 mins              ████░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Back 4 Blood Beta Players Think They Hear Zombies Yelling The N-Word](https://kotaku.com/back-4-blood-beta-players-think-they-hear-zombies-yelli-1847443163)
- - [10 Years After Release, Development On Kerbal Space Program Has Ended](https://kotaku.com/10-years-after-release-development-on-kerbal-space-pro-1847442884)
- - [The 13 best movies new to streaming to watch in August](https://www.polygon.com/what-to-watch/2021/8/7/22606257/best-new-movies-netflix-amazon-hbo-july-2021)<!-- GAME:END -->
+ - [After a decade, Kerbal Space Program development is over](https://www.pcgamer.com/after-a-decade-kerbal-space-program-development-is-over)
+ - [Ariana Grande's Fortnite Event Is Epic's Best Concert Yet](https://kotaku.com/ariana-grandes-fortnite-event-is-epics-best-concert-yet-1847443620)
+ - [Back 4 Blood Beta Players Think They Hear Zombies Yelling The N-Word](https://kotaku.com/back-4-blood-beta-players-think-they-hear-zombies-yelli-1847443163)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
