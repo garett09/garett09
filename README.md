@@ -173,9 +173,9 @@ No Activity Tracked This Week
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gillmor Gang: Time Delay](http://feedproxy.google.com/~r/Techcrunch/~3/sOYbjFfN4sM/)
- - [Spotify says it plans to add AirPlay 2 to its iOS app — eventually](https://www.theverge.com/2021/8/6/22613420/spotify-airplay2-support-audio-issues-drivers)
- - [In response to CSAM detection misuse concerns, Apple says protections will roll out in the US first, then on a country-by-country basis after legal evaluation (Joe Rossignol/MacRumors)](http://www.techmeme.com/210806/p33#a210806p33)<!-- TECH:END -->
+ - [Refurbed, a European marketplace for refurbished electronics, raises $54M Series B led by Evli Growth Partners and Almaz Capital (Mike Butcher/TechCrunch)](http://www.techmeme.com/210806/p35#a210806p35)
+ - [Open letter asks Apple not to implement Child Safety measures](https://appleinsider.com/articles/21/08/07/open-letter-asks-apple-not-to-implement-child-safety-measures?utm_medium=rss)
+ - [Netflix: The 50 best TV series to stream tonight     - CNET](https://www.cnet.com/news/netflix-the-50-best-tv-series-to-stream-tonight/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
