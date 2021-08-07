@@ -182,9 +182,9 @@ Windows                  3 mins              ████░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [He knew he won Gold the sec he released... Such a proud and happy moment... Neeraj Chopra of India wins Gold in Javelin Throw - 87.58 Mts](http://9gag.com/gag/aeAz3Vb)
- - 🚯 [Playin Carousel on a high level](http://9gag.com/gag/aNpMo23)
- - 🚯 [Yo ass&hellip;](http://9gag.com/gag/aB2zKLZ)<!-- MEMES:END -->
+ - 🚖 [Not my problem](http://9gag.com/gag/aRXWPKQ)
+ - 🚯 [He knew he won Gold the sec he released... Such a proud and happy moment... Neeraj Chopra of India wins Gold in Javelin Throw - 87.58 Mts](http://9gag.com/gag/aeAz3Vb)
+ - 🚯 [Japan beat the US in Baseball ( No punchline needed)](http://9gag.com/gag/aNpMon3)<!-- MEMES:END -->
 
 --- 
 
