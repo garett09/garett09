@@ -186,9 +186,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Plash Speed 5](http://9gag.com/gag/aYo6eoO)
- - 🚯 [&quot;Nothing to hide, nothing to fear&quot; argument](http://9gag.com/gag/a8EN4p6)
- - 🚯 [It&#039;s learning.](http://9gag.com/gag/agB9VZ1)<!-- MEMES:END -->
+ - 🚖 [It&#039;s learning.](http://9gag.com/gag/agB9VZ1)
+ - 🚯 [Sad at this point](http://9gag.com/gag/a5Eg7XO)
+ - 🚯 [&quot;Korbut Flip&quot; by Olga Korbut in Munich 1972 Olympics.](http://9gag.com/gag/apN7vVW)<!-- MEMES:END -->
 
 --- 
 
