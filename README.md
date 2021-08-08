@@ -172,9 +172,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Take-Two is working on three more remasters or re-releases](https://www.pcgamer.com/take-two-is-working-on-three-more-remasters-or-re-releases)
- - [Sunday Comics: Déjà Vu](https://kotaku.com/sunday-comics-deja-vu-1847445855)
- - [Saving Hideaki Anno’s legendary DAICON III isn’t going as planned](https://www.polygon.com/features/22613071/daicon-3-hideaki-anno-watch-remaster)<!-- GAME:END -->
+ - [The Steam Deck Might Struggle To Play Some Games On Big TVs](https://kotaku.com/the-steam-deck-might-struggle-to-play-some-games-on-big-1847446128)
+ - [This week in PC Gaming: Button City, Assassins Creed Valhalla DLC, and Free Guy](https://www.pcgamer.com/this-week-in-pc-gaming-button-city-assassins-creed-valhalla-dlc-and-free-guy)
+ - [Take-Two is working on three more remasters or re-releases](https://www.pcgamer.com/take-two-is-working-on-three-more-remasters-or-re-releases)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
