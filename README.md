@@ -172,9 +172,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Splitgate, Back 4 Blood rank in top 10 on Steam over the weekend](https://www.pcgamer.com/splitgate-back-4-blood-rank-in-top-10-on-steam-over-the-weekend)
- - [Back 4 Blood's Beta Hit Nearly 100k Active Players On Steam Over The Weekend](https://kotaku.com/back-4-bloods-beta-hit-nearly-100k-active-players-on-st-1847446673)
- - [It Took 400+ Hours To Make This Super Accurate 3D Printed GTA V Map](https://kotaku.com/it-took-400-hours-to-make-this-super-accurate-3d-print-1847446484)<!-- GAME:END -->
+ - [The Week In Games: Hades Lands On PlayStation And Xbox](https://kotaku.com/the-week-in-games-hades-lands-on-playstation-and-xbox-1847446884)
+ - [Apex Legends cross progression and new-gen update are still coming, eventually](https://www.pcgamer.com/apex-legends-cross-progression-and-new-gen-update-are-still-coming-eventually)
+ - [Splitgate, Back 4 Blood rank in top 10 on Steam over the weekend](https://www.pcgamer.com/splitgate-back-4-blood-rank-in-top-10-on-steam-over-the-weekend)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
