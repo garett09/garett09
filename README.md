@@ -186,8 +186,8 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Stop licking](http://9gag.com/gag/aLpoBdv)
- - 🚯 [Will we ever know who?](http://9gag.com/gag/aZ0XMp3)
+ - 🚖 [Apashe&#039;s new album and Corsair HS60 Haptic, what&#039;s your combo?](http://9gag.com/gag/aP3LGdV)
+ - 🚯 [Holup](http://9gag.com/gag/a6EgLw2)
  - 🚯 [Still not buying it](http://9gag.com/gag/abVDb5v)<!-- MEMES:END -->
 
 --- 
