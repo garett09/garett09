@@ -179,9 +179,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Despite claims of diversity and inclusion, Asian Americans in Silicon Valley still face racism and are least likely to break into leadership positions (Bloomberg)](http://www.techmeme.com/210808/p4#a210808p4)
  - [PE firm Clearlake Capital to acquire and take private Cornerstone OnDemand, a cloud-based learning and talent management software company, for ~$5.2B (Mark Feffer/HCM Technology Report)](http://www.techmeme.com/210808/p3#a210808p3)
- - [Toronto-based Smile CDR, which offers software for health and clinical data interoperability, raises $20M Series A led by 30 North Group and UPMC Enterprises (Fred Pennic/HIT Consultant)](http://www.techmeme.com/210808/p2#a210808p2)
- - [Retain.ai, a service that gives enterprises a view of customer engagement across teams, processes, and apps, raises $23M Series A led by Emergence Capital (Kyle Wiggers/VentureBeat)](http://www.techmeme.com/210808/p1#a210808p1)<!-- TECH:END -->
+ - [Toronto-based Smile CDR, which offers software for health and clinical data interoperability, raises $20M Series A led by 30 North Group and UPMC Enterprises (Fred Pennic/HIT Consultant)](http://www.techmeme.com/210808/p2#a210808p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
