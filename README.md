@@ -186,9 +186,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [- Arachnid Anarchy.](http://9gag.com/gag/aV7reR2)
- - 🚯 [Polish javelin thrower Maria Andrejczyk asked a question on the internet](http://9gag.com/gag/aO3Ev42)
- - 🚯 [How hard emotional support dogs try](http://9gag.com/gag/a9EwYNj)<!-- MEMES:END -->
+ - 🚖 [Polish javelin thrower Maria Andrejczyk asked a question on the internet](http://9gag.com/gag/aO3Ev42)
+ - 🚯 [How hard emotional support dogs try](http://9gag.com/gag/a9EwYNj)
+ - 🚯 [So you see, that&#039;s where the trouble began. That smile. That damned smile.](http://9gag.com/gag/aEpKnWN)<!-- MEMES:END -->
 
 --- 
 
