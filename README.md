@@ -172,9 +172,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Steam Deck will not boost performance while docked](https://www.pcgamer.com/steam-deck-dock-performance)
- - [Here's Skyrim with over 500 mods and ray tracing](https://www.pcgamer.com/heres-skyrim-with-over-500-mods-and-ray-tracing)
- - [Crapshoot: Horror host Elvira's titular games](https://www.pcgamer.com/saturday-crapshoot-elvira-mistress-of-the-dark)<!-- GAME:END -->
+ - [Saving Hideaki Anno’s legendary DAICON III isn’t going as planned](https://www.polygon.com/features/22613071/daicon-3-hideaki-anno-watch-remaster)
+ - [This week in PC Gaming: Button City, Assassins Creed Valhalla DLC, and Free Guy](https://www.pcgamer.com/this-week-in-pc-gaming-button-city-assassins-creed-valhalla-dlc-and-free-guy)
+ - [The Steam Deck will not boost performance while docked](https://www.pcgamer.com/steam-deck-dock-performance)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
