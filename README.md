@@ -179,9 +179,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Siemens says that it has agreed to buy Netherlands-based Sqills, a cloud-based software suite for rail transport operators worldwide, for ~$650M (Sean O'Neill/Skift)](http://www.techmeme.com/210807/p12#a210807p12)
  - [China sues Tencent, claiming WeChat's "youth mode" does not comply with the country's laws protecting minors (Reuters)](http://www.techmeme.com/210807/p11#a210807p11)
- - [Open letter asks Apple not to implement Child Safety measures](https://appleinsider.com/articles/21/08/07/open-letter-asks-apple-not-to-implement-child-safety-measures?utm_medium=rss)
- - [Best running shoes for men in 2021     - CNET](https://www.cnet.com/health/fitness/best-running-shoes-for-men/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Open letter asks Apple not to implement Child Safety measures](https://appleinsider.com/articles/21/08/07/open-letter-asks-apple-not-to-implement-child-safety-measures?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
