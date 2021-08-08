@@ -186,9 +186,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Feryal Abdelaziz Wins Historic GOLD for Egypt at Tokyo 2020 Olympics. First women gold for Egypt.](http://9gag.com/gag/aWjyOGx)
- - 🚯 [The horse meme origin story.](http://9gag.com/gag/aLpoQAz)
- - 🚯 [When you know you landed gold before your javelin lands.](http://9gag.com/gag/aXo3EAz)<!-- MEMES:END -->
+ - 🚖 [Who thought that randomly assigned horses was a good idea?](http://9gag.com/gag/a7Eg5g2)
+ - 🚯 [Go Volley](http://9gag.com/gag/abVDbQv)
+ - 🚯 [Feryal Abdelaziz Wins Historic GOLD for Egypt at Tokyo 2020 Olympics. First women gold for Egypt.](http://9gag.com/gag/aWjyOGx)<!-- MEMES:END -->
 
 --- 
 
