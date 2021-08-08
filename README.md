@@ -179,9 +179,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [As Cuba's government tightens its control on internet access, attempts from the US government to bolster connectivity on the island seem unlikely to succeed (The Guardian)](http://www.techmeme.com/210808/p6#a210808p6)
- - [How to turn Online Friends Into IRL Ones](https://www.wired.com/story/how-to-turn-online-friends-into-irl-ones)
- - [A Failed Star Called 'The Accident' Puzzles Astronomers](https://www.wired.com/story/a-failed-star-called-the-accident-puzzles-astronomers)<!-- TECH:END -->
+ - [Apple emails beta testers to try out iOS 15, macOS Monterey](https://appleinsider.com/articles/21/08/08/apple-emails-beta-testers-to-try-out-ios-15-macos-monterey?utm_medium=rss)
+ - [Beats Studio Buds review: Apple’s Android olive branch](https://www.androidauthority.com/beats-studio-buds-review-2729535/)
+ - [The Best Chromebooks for Every Budget](https://www.wired.com/gallery/best-chromebooks)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
