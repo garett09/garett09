@@ -186,8 +186,8 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Who thought that randomly assigned horses was a good idea?](http://9gag.com/gag/a7Eg5g2)
- - 🚯 [Go Volley](http://9gag.com/gag/abVDbQv)
+ - 🚖 [This is hilarious!](http://9gag.com/gag/ad8ApON)
+ - 🚯 [Stop licking](http://9gag.com/gag/aLpoBdv)
  - 🚯 [Feryal Abdelaziz Wins Historic GOLD for Egypt at Tokyo 2020 Olympics. First women gold for Egypt.](http://9gag.com/gag/aWjyOGx)<!-- MEMES:END -->
 
 --- 
