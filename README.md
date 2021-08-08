@@ -172,9 +172,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Back 4 Blood's Beta Hit Nearly 100k Active Players On Steam Over The Weekend](https://kotaku.com/back-4-bloods-beta-hit-nearly-100k-active-players-on-st-1847446673)
  - [It Took 400+ Hours To Make This Super Accurate 3D Printed GTA V Map](https://kotaku.com/it-took-400-hours-to-make-this-super-accurate-3d-print-1847446484)
- - [The Steam Deck Might Struggle To Play Some Games On Big TVs](https://kotaku.com/the-steam-deck-might-struggle-to-play-some-games-on-big-1847446128)
- - [This week in PC Gaming: Button City, Assassins Creed Valhalla DLC, and Free Guy](https://www.pcgamer.com/this-week-in-pc-gaming-button-city-assassins-creed-valhalla-dlc-and-free-guy)<!-- GAME:END -->
+ - [The Steam Deck Might Struggle To Play Some Games On Big TVs](https://kotaku.com/the-steam-deck-might-struggle-to-play-some-games-on-big-1847446128)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
