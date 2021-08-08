@@ -179,9 +179,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [ISS astronauts show off zero-gravity moves in the space Olympics which should be a real thing](https://www.theverge.com/2021/8/8/22615422/astronauts-esa-jaxa-space-olympics-iss-tokyo-paris)
  - [Apple emails beta testers to try out iOS 15, macOS Monterey](https://appleinsider.com/articles/21/08/08/apple-emails-beta-testers-to-try-out-ios-15-macos-monterey?utm_medium=rss)
- - [Beats Studio Buds review: Apple’s Android olive branch](https://www.androidauthority.com/beats-studio-buds-review-2729535/)
- - [The Best Chromebooks for Every Budget](https://www.wired.com/gallery/best-chromebooks)<!-- TECH:END -->
+ - [Beats Studio Buds review: Apple’s Android olive branch](https://www.androidauthority.com/beats-studio-buds-review-2729535/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
