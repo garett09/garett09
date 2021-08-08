@@ -186,8 +186,8 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [\ud835\udde6\ud835\uddfc \ud835\uddf9\ud835\uddfc\ud835\uddfb\ud835\uddf4, \ud835\udde2\ud835\uddf9\ud835\ude06\ud835\uddfa\ud835\uddfd\ud835\uddf6\ud835\uddf0 \ud835\uddda\ud835\uddee\ud835\uddfa\ud835\uddf2\ud835\ude00 \ud835\udde7\ud835\uddfc\ud835\uddf8\ud835\ude06\ud835\uddfc \ud835\udfee\ud835\udfec\ud835\udfee\ud835\udfec](http://9gag.com/gag/ajmvXY1)
- - 🚯 [Common Sense and a Waterproof Pouch...](http://9gag.com/gag/a07gdoO)
+ - 🚖 [You don&rsquo;t blame Ronald](http://9gag.com/gag/aMK78jW)
+ - 🚯 [Oh yes, czech streets](http://9gag.com/gag/aeAz6oQ)
  - 🚯 [But Sir fu**ing fa**ot pu**y? Why are you arresting me. I didn&#039;t do anything except give you the finger, called you some names and drove over your foot and stuff? Is that not allowed to anymore in this country?](http://9gag.com/gag/aMK7wyV)<!-- MEMES:END -->
 
 --- 
