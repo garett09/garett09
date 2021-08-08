@@ -186,9 +186,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I&lsquo;d shit my pants](http://9gag.com/gag/aAbAppg)
- - 🚯 [Feryal Abdelaziz Wins Historic GOLD for Egypt at Tokyo 2020 Olympics. First women gold for Egypt.](http://9gag.com/gag/aWjyOGx)
- - 🚯 [Apashe&#039;s new album and Corsair HS60 Haptic, what&#039;s your combo?](http://9gag.com/gag/aP3LGdV)<!-- MEMES:END -->
+ - 🚖 [Me trying to flirt](http://9gag.com/gag/a8ENMDZ)
+ - 🚯 [Apashe&#039;s new album and Corsair HS60 Haptic, what&#039;s your combo?](http://9gag.com/gag/aP3LGdV)
+ - 🚯 [Belgian marathoner reached 28th place At the Olympics, but she didn&#039;t believe that](http://9gag.com/gag/a3EgLRm)<!-- MEMES:END -->
 
 --- 
 
