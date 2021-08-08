@@ -179,9 +179,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How cryptocurrency industry gained influence in Washington and has become one of the biggest stumbling blocks holding up the passage of the infrastructure bill (Washington Post)](http://www.techmeme.com/210808/p8#a210808p8)
- - [Watch the Disney film that tried to go toe-to-toe with Alien](https://www.androidauthority.com/disney-plus-the-black-hole-2026576/)
- - [Apple engineers lack optimism about the Apple TV strategy, claims report](https://appleinsider.com/articles/21/08/08/apple-engineers-lack-optimism-on-apple-tv-strategy?utm_medium=rss)<!-- TECH:END -->
+ - [Report finds Doximity, a social network for doctors, is riddled with anti-vaccine comments](https://www.theverge.com/2021/8/7/22614255/doximity-social-network-doctors-healthcare-vaccine-coronavirus-covid)
+ - [Plugable 7-in-1 USB 3.0 Hub review: solid USB-A options, but not much else](https://appleinsider.com/articles/21/08/08/plugable-7-in-1-usb-30-hub-review-solid-usb-a-options-but-not-much-else?utm_medium=rss)
+ - [How cryptocurrency industry gained influence in Washington and has become one of the biggest stumbling blocks holding up the passage of the infrastructure bill (Washington Post)](http://www.techmeme.com/210808/p8#a210808p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
