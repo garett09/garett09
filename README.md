@@ -179,9 +179,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [New trailers: Venom: Let There be Carnage, Y: The Last Man, The Great, and more](https://www.theverge.com/2021/8/8/22614613/new-trailers-venom-let-there-be-carnage-kate-y-the-last-man-the-great-netflix-hulu)
  - [Here are the best Paramount Plus movies you can watch right now](https://www.androidauthority.com/best-paramount-plus-movies-1217273/)
- - [FCC mobile broadband map shows LTE coverage areas across the U.S.](https://appleinsider.com/articles/21/08/08/fcc-mobile-broadband-map-shows-lte-coverage-areas-across-the-us?utm_medium=rss)
- - [Call center operator Teleperformance, which counts Apple, Amazon, and Uber as clients, wants to monitor staff working from home in Colombia, via AI-powered cams (Olivia Solon/NBC News)](http://www.techmeme.com/210808/p9#a210808p9)<!-- TECH:END -->
+ - [FCC mobile broadband map shows LTE coverage areas across the U.S.](https://appleinsider.com/articles/21/08/08/fcc-mobile-broadband-map-shows-lte-coverage-areas-across-the-us?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
