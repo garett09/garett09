@@ -186,9 +186,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [You don&rsquo;t blame Ronald](http://9gag.com/gag/aMK78jW)
- - 🚯 [Beating anorexia 2 year Transformation](http://9gag.com/gag/aMK785W)
- - 🚯 [But Sir fu**ing fa**ot pu**y? Why are you arresting me. I didn&#039;t do anything except give you the finger, called you some names and drove over your foot and stuff? Is that not allowed to anymore in this country?](http://9gag.com/gag/aMK7wyV)<!-- MEMES:END -->
+ - 🚖 [Do you agree?](http://9gag.com/gag/ad8AqX9)
+ - 🚯 [But Sir fu**ing fa**ot pu**y? Why are you arresting me. I didn&#039;t do anything except give you the finger, called you some names and drove over your foot and stuff? Is that not allowed to anymore in this country?](http://9gag.com/gag/aMK7wyV)
+ - 🚯 [How to become world champion in formula 1](http://9gag.com/gag/aGpv0M0)<!-- MEMES:END -->
 
 --- 
 
