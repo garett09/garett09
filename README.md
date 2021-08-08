@@ -186,9 +186,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Me trying to flirt](http://9gag.com/gag/a8ENMDZ)
- - 🚯 [Apashe&#039;s new album and Corsair HS60 Haptic, what&#039;s your combo?](http://9gag.com/gag/aP3LGdV)
- - 🚯 [Belgian marathoner reached 28th place At the Olympics, but she didn&#039;t believe that](http://9gag.com/gag/a3EgLRm)<!-- MEMES:END -->
+ - 🚖 [Plash Speed 5](http://9gag.com/gag/aYo6eoO)
+ - 🚯 [&quot;Nothing to hide, nothing to fear&quot; argument](http://9gag.com/gag/a8EN4p6)
+ - 🚯 [It&#039;s learning.](http://9gag.com/gag/agB9VZ1)<!-- MEMES:END -->
 
 --- 
 
