@@ -179,9 +179,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Report finds Doximity, a social network for doctors, is riddled with anti-vaccine comments](https://www.theverge.com/2021/8/7/22614255/doximity-social-network-doctors-healthcare-vaccine-coronavirus-covid)
- - [Plugable 7-in-1 USB 3.0 Hub review: solid USB-A options, but not much else](https://appleinsider.com/articles/21/08/08/plugable-7-in-1-usb-30-hub-review-solid-usb-a-options-but-not-much-else?utm_medium=rss)
- - [How cryptocurrency industry gained influence in Washington and has become one of the biggest stumbling blocks holding up the passage of the infrastructure bill (Washington Post)](http://www.techmeme.com/210808/p8#a210808p8)<!-- TECH:END -->
+ - [Netflix: The 50 best TV series to stream tonight     - CNET](https://www.cnet.com/news/netflix-the-50-best-tv-series-to-stream-tonight/#ftag=CAD590a51e)
+ - [The most common Samsung Galaxy Watch problems and how to fix them](https://www.androidauthority.com/samsung-galaxy-watch-problems-solutions-1647234/)
+ - [Netflix: 40 of the best movies to see tonight     - CNET](https://www.cnet.com/news/netflix-40-of-the-best-movies-to-see-tonight/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
