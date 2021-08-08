@@ -172,9 +172,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Here's Skyrim with over 500 mods and ray tracing](https://www.pcgamer.com/heres-skyrim-with-over-500-mods-and-ray-tracing)
  - [Crapshoot: Horror host Elvira's titular games](https://www.pcgamer.com/saturday-crapshoot-elvira-mistress-of-the-dark)
- - [What's your favorite multiplayer map?](https://www.pcgamer.com/whats-your-favorite-multiplayer-map)
- - [Intellivision Amico Delayed A Third Time, Now Out By End Of Year](https://kotaku.com/intellivision-amico-delayed-a-third-time-now-out-by-en-1847444094)<!-- GAME:END -->
+ - [What's your favorite multiplayer map?](https://www.pcgamer.com/whats-your-favorite-multiplayer-map)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
