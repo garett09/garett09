@@ -179,9 +179,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Now that Xiaomi is number one, can it stay ahead of Samsung?](https://www.androidauthority.com/xiaomi-samsung-number-one-1647898/)
- - [What You Should Know About the Google Play Store Changes](https://www.wired.com/story/google-app-play-store-changes-apk-aab)
- - [Our Favorite Products to Use Over and Over Again](https://www.wired.com/gallery/our-favorite-reusable-products)<!-- TECH:END -->
+ - [As Cuba's government tightens its control on internet access, attempts from the US government to bolster connectivity on the island seem unlikely to succeed (The Guardian)](http://www.techmeme.com/210808/p6#a210808p6)
+ - [How to turn Online Friends Into IRL Ones](https://www.wired.com/story/how-to-turn-online-friends-into-irl-ones)
+ - [A Failed Star Called 'The Accident' Puzzles Astronomers](https://www.wired.com/story/a-failed-star-called-the-accident-puzzles-astronomers)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
