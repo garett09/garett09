@@ -186,9 +186,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Do you agree?](http://9gag.com/gag/ad8AqX9)
- - 🚯 [- Arachnid Anarchy.](http://9gag.com/gag/aV7reR2)
- - 🚯 [Not great success](http://9gag.com/gag/aRXWKQM)<!-- MEMES:END -->
+ - 🚖 [- Arachnid Anarchy.](http://9gag.com/gag/aV7reR2)
+ - 🚯 [Polish javelin thrower Maria Andrejczyk asked a question on the internet](http://9gag.com/gag/aO3Ev42)
+ - 🚯 [How hard emotional support dogs try](http://9gag.com/gag/a9EwYNj)<!-- MEMES:END -->
 
 --- 
 
