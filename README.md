@@ -179,9 +179,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Apple TV Plus quietly became a powerhouse of original programming](https://www.androidauthority.com/apple-tv-plus-shows-2727493/)
- - [Apple emails beta testers to try out iOS 15, macOS Monterey](https://appleinsider.com/articles/21/08/08/apple-emails-beta-testers-to-try-out-ios-15-macos-monterey?utm_medium=rss)
- - [Go read this look at how Amazon third-party sellers pester customers who leave bad reviews](https://www.theverge.com/2021/8/8/22615467/go-read-this-amazon-sellers-pester-customers-bad-reviews)<!-- TECH:END -->
+ - [Analysis of e-receipts from 1M+ consumers shows that the average Uber and Lyft fares in the US were 50% higher in July 2021 compared with January 2020 (Preetika Rana/Wall Street Journal)](http://www.techmeme.com/210808/p7#a210808p7)
+ - [Apple engineers lack optimism on Apple TV strategy](https://appleinsider.com/articles/21/08/08/apple-engineers-lack-optimism-on-apple-tv-strategy?utm_medium=rss)
+ - [How Apple TV Plus quietly became a powerhouse of original programming](https://www.androidauthority.com/apple-tv-plus-shows-2727493/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
