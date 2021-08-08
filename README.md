@@ -179,9 +179,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Firefox for Desktop lost ~46M MAUs, dropping from ~244M MAUs in Dec. 2018 to ~198M MAUs in July 2021, as users moved to Chrome and Chromium-based browsers (Ankush Das/It's FOSS News)](http://www.techmeme.com/210808/p5#a210808p5)
- - [Best laptop 2021: 15 best laptops we recommend in 2021     - CNET](https://www.cnet.com/tech/computing/best-laptop/#ftag=CAD590a51e)
- - [Despite claims of diversity and inclusion, Asian Americans in Silicon Valley still face racism and are least likely to break into leadership positions (Bloomberg)](http://www.techmeme.com/210808/p4#a210808p4)<!-- TECH:END -->
+ - [Now that Xiaomi is number one, can it stay ahead of Samsung?](https://www.androidauthority.com/xiaomi-samsung-number-one-1647898/)
+ - [What You Should Know About the Google Play Store Changes](https://www.wired.com/story/google-app-play-store-changes-apk-aab)
+ - [Our Favorite Products to Use Over and Over Again](https://www.wired.com/gallery/our-favorite-reusable-products)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
