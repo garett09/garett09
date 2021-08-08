@@ -187,8 +187,8 @@ Linux                    16 mins             ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 🚖 [Olympic relay winner taking his prize home](http://9gag.com/gag/aqjMb3j)
- - 🚯 [Bloody &#039;ell! You all takin&#039; the piss, innit?](http://9gag.com/gag/ad8A9Aj)
- - 🚯 [Just tell the truth](http://9gag.com/gag/anQZby0)<!-- MEMES:END -->
+ - 🚯 [True](http://9gag.com/gag/aeAzMKO)
+ - 🚯 [SHI-BU-KI , the splash of sea wave, Japanese Folk music sounds like fusion genre of Folk music &amp; Metal .](http://9gag.com/gag/aNpM1mK)<!-- MEMES:END -->
 
 --- 
 
