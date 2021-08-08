@@ -179,9 +179,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [[Thread] Apple's child safety protections announcement hurt the effort to find a policy balance on safety and privacy aspects of e2e encrypted comms products (Alex Stamos/@alexstamos)](http://www.techmeme.com/210807/p10#a210807p10)
- - [Everything we know about Zack Snyder’s Army of the Dead franchise](https://www.androidauthority.com/zack-snyder-army-of-the-dead-netflix-1649425/)
- - [Epic Games CEO slams Apple 'government spyware'](https://appleinsider.com/articles/21/08/07/epic-games-ceo-slams-apple-government-spyware?utm_medium=rss)<!-- TECH:END -->
+ - [Open letter asks Apple not to implement Child Safety measures](https://appleinsider.com/articles/21/08/07/open-letter-asks-apple-not-to-implement-child-safety-measures?utm_medium=rss)
+ - [Best running shoes for men in 2021     - CNET](https://www.cnet.com/health/fitness/best-running-shoes-for-men/#ftag=CAD590a51e)
+ - [[Thread] Apple's child safety protections announcement hurt the effort to find a policy balance on safety and privacy aspects of e2e encrypted comms products (Alex Stamos/@alexstamos)](http://www.techmeme.com/210807/p10#a210807p10)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
