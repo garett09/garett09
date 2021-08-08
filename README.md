@@ -179,9 +179,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [New trailers: Venom: Let There be Carnage, Y: The Last Man, The Great, and more](https://www.theverge.com/2021/8/8/22614613/new-trailers-venom-let-there-be-carnage-kate-y-the-last-man-the-great-netflix-hulu)
- - [Here are the best Paramount Plus movies you can watch right now](https://www.androidauthority.com/best-paramount-plus-movies-1217273/)
- - [FCC mobile broadband map shows LTE coverage areas across the U.S.](https://appleinsider.com/articles/21/08/08/fcc-mobile-broadband-map-shows-lte-coverage-areas-across-the-us?utm_medium=rss)<!-- TECH:END -->
+ - [The Suicide Squad's opening box office is the second lowest in DCEU history     - CNET](https://www.cnet.com/news/the-suicide-squads-opening-box-office-is-the-second-lowest-in-dceu-history/#ftag=CAD590a51e)
+ - [A look at Metaphysic, a company which uses deepfake tech to create ads and restore old film; its founder went viral on TikTok for deepfaking Tom Cruise (Rachel Metz/CNN)](http://www.techmeme.com/210808/p10#a210808p10)
+ - [The Olympics no one wanted was the Olympics we all needed     - CNET](https://www.cnet.com/news/the-olympics-no-one-wanted-was-the-olympics-we-all-needed/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
