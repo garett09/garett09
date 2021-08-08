@@ -186,9 +186,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [10% of population, 100% of the fame](http://9gag.com/gag/azMyA2Z)
- - 🚯 [How Differential Steering Works (1937)](http://9gag.com/gag/azMyAyz)
- - 🚯 [- Arachnid Anarchy.](http://9gag.com/gag/aV7reR2)<!-- MEMES:END -->
+ - 🚖 [Do you agree?](http://9gag.com/gag/ad8AqX9)
+ - 🚯 [- Arachnid Anarchy.](http://9gag.com/gag/aV7reR2)
+ - 🚯 [Not great success](http://9gag.com/gag/aRXWKQM)<!-- MEMES:END -->
 
 --- 
 
