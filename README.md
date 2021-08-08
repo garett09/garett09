@@ -179,9 +179,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [China sues Tencent, claiming WeChat's "youth mode" does not comply with the country's laws protecting minors (Reuters)](http://www.techmeme.com/210807/p11#a210807p11)
  - [Open letter asks Apple not to implement Child Safety measures](https://appleinsider.com/articles/21/08/07/open-letter-asks-apple-not-to-implement-child-safety-measures?utm_medium=rss)
- - [Best running shoes for men in 2021     - CNET](https://www.cnet.com/health/fitness/best-running-shoes-for-men/#ftag=CAD590a51e)
- - [[Thread] Apple's child safety protections announcement hurt the effort to find a policy balance on safety and privacy aspects of e2e encrypted comms products (Alex Stamos/@alexstamos)](http://www.techmeme.com/210807/p10#a210807p10)<!-- TECH:END -->
+ - [Best running shoes for men in 2021     - CNET](https://www.cnet.com/health/fitness/best-running-shoes-for-men/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
