@@ -172,9 +172,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The Steam Deck will not boost performance while docked](https://www.pcgamer.com/steam-deck-dock-performance)
  - [Here's Skyrim with over 500 mods and ray tracing](https://www.pcgamer.com/heres-skyrim-with-over-500-mods-and-ray-tracing)
- - [Crapshoot: Horror host Elvira's titular games](https://www.pcgamer.com/saturday-crapshoot-elvira-mistress-of-the-dark)
- - [What's your favorite multiplayer map?](https://www.pcgamer.com/whats-your-favorite-multiplayer-map)<!-- GAME:END -->
+ - [Crapshoot: Horror host Elvira's titular games](https://www.pcgamer.com/saturday-crapshoot-elvira-mistress-of-the-dark)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
