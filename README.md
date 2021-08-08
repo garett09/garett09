@@ -179,9 +179,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple emails beta testers to try out iOS 15, macOS Monterey](https://appleinsider.com/articles/21/08/08/apple-emails-beta-testers-to-try-out-ios-15-macos-monterey?utm_medium=rss)
- - [Tesla will reportedly require workers at its Nevada battery factory to wear masks](https://www.theverge.com/2021/8/8/22615785/tesla-require-workers-nevada-battery-factory-reno-wear-masks-covid)
- - [Netflix: The 50 best TV series to stream tonight     - CNET](https://www.cnet.com/news/netflix-the-50-best-tv-series-to-stream-tonight/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Here are the best Paramount Plus movies you can watch right now](https://www.androidauthority.com/best-paramount-plus-movies-1217273/)
+ - [FCC mobile broadband map shows LTE coverage areas across the U.S.](https://appleinsider.com/articles/21/08/08/fcc-mobile-broadband-map-shows-lte-coverage-areas-across-the-us?utm_medium=rss)
+ - [Call center operator Teleperformance, which counts Apple, Amazon, and Uber as clients, wants to monitor staff working from home in Colombia, via AI-powered cams (Olivia Solon/NBC News)](http://www.techmeme.com/210808/p9#a210808p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
