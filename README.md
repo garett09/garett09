@@ -179,9 +179,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Analysis of e-receipts from 1M+ consumers shows that the average Uber and Lyft fares in the US were 50% higher in July 2021 compared with January 2020 (Preetika Rana/Wall Street Journal)](http://www.techmeme.com/210808/p7#a210808p7)
- - [Apple engineers lack optimism on Apple TV strategy](https://appleinsider.com/articles/21/08/08/apple-engineers-lack-optimism-on-apple-tv-strategy?utm_medium=rss)
- - [How Apple TV Plus quietly became a powerhouse of original programming](https://www.androidauthority.com/apple-tv-plus-shows-2727493/)<!-- TECH:END -->
+ - [How cryptocurrency industry gained influence in Washington and has become one of the biggest stumbling blocks holding up the passage of the infrastructure bill (Washington Post)](http://www.techmeme.com/210808/p8#a210808p8)
+ - [Watch the Disney film that tried to go toe-to-toe with Alien](https://www.androidauthority.com/disney-plus-the-black-hole-2026576/)
+ - [Apple engineers lack optimism about the Apple TV strategy, claims report](https://appleinsider.com/articles/21/08/08/apple-engineers-lack-optimism-on-apple-tv-strategy?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
