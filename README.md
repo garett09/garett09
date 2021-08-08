@@ -186,9 +186,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Polish javelin thrower Maria Andrejczyk asked a question on the internet](http://9gag.com/gag/aO3Ev42)
- - 🚯 [How hard emotional support dogs try](http://9gag.com/gag/a9EwYNj)
- - 🚯 [So you see, that&#039;s where the trouble began. That smile. That damned smile.](http://9gag.com/gag/aEpKnWN)<!-- MEMES:END -->
+ - 🚖 [So you see, that&#039;s where the trouble began. That smile. That damned smile.](http://9gag.com/gag/aEpKnWN)
+ - 🚯 [Muraciaaa.](http://9gag.com/gag/a27gdMp)
+ - 🚯 [How Differential Steering Works (1937)](http://9gag.com/gag/azMyAyz)<!-- MEMES:END -->
 
 --- 
 
