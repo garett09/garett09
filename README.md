@@ -186,9 +186,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This is hilarious!](http://9gag.com/gag/ad8ApON)
- - 🚯 [Stop licking](http://9gag.com/gag/aLpoBdv)
- - 🚯 [Feryal Abdelaziz Wins Historic GOLD for Egypt at Tokyo 2020 Olympics. First women gold for Egypt.](http://9gag.com/gag/aWjyOGx)<!-- MEMES:END -->
+ - 🚖 [Stop licking](http://9gag.com/gag/aLpoBdv)
+ - 🚯 [Will we ever know who?](http://9gag.com/gag/aZ0XMp3)
+ - 🚯 [Still not buying it](http://9gag.com/gag/abVDb5v)<!-- MEMES:END -->
 
 --- 
 
