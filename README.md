@@ -186,9 +186,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Apashe&#039;s new album and Corsair HS60 Haptic, what&#039;s your combo?](http://9gag.com/gag/aP3LGdV)
- - 🚯 [Holup](http://9gag.com/gag/a6EgLw2)
- - 🚯 [Still not buying it](http://9gag.com/gag/abVDb5v)<!-- MEMES:END -->
+ - 🚖 [Still not buying it](http://9gag.com/gag/abVDb5v)
+ - 🚯 [Apashe&#039;s new album and Corsair HS60 Haptic, what&#039;s your combo?](http://9gag.com/gag/aP3LGdV)
+ - 🚯 [Feryal Abdelaziz Wins Historic GOLD for Egypt at Tokyo 2020 Olympics. First women gold for Egypt.](http://9gag.com/gag/aWjyOGx)<!-- MEMES:END -->
 
 --- 
 
