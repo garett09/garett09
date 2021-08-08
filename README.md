@@ -186,9 +186,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [- Arachnid Anarchy.](http://9gag.com/gag/aV7reR2)
- - 🚯 [&quot;Nothing to hide, nothing to fear&quot; argument](http://9gag.com/gag/a8EN4p6)
- - 🚯 [How hard emotional support dogs try](http://9gag.com/gag/a9EwYNj)<!-- MEMES:END -->
+ - 🚖 [10% of population, 100% of the fame](http://9gag.com/gag/azMyA2Z)
+ - 🚯 [How Differential Steering Works (1937)](http://9gag.com/gag/azMyAyz)
+ - 🚯 [- Arachnid Anarchy.](http://9gag.com/gag/aV7reR2)<!-- MEMES:END -->
 
 --- 
 
