@@ -187,9 +187,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Madre miaaaa](http://9gag.com/gag/amPQ55y)
- - 🚯 [World record longest car fly!](http://9gag.com/gag/ad8A51V)
- - 🚯 [This is why cats hate cucumbers](http://9gag.com/gag/aO3E7b3)<!-- MEMES:END -->
+ - 🚖 [Best known thing about Lithuania is nobody knows about Lithuania](http://9gag.com/gag/amPQvWy)
+ - 🚯 [Canadair pilot performing manoeuvre to take out fire in Greece.](http://9gag.com/gag/a1rgWQw)
+ - 🚯 [By a looooooooooot.](http://9gag.com/gag/aDd919K)<!-- MEMES:END -->
 
 --- 
 
