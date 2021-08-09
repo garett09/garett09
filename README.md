@@ -187,9 +187,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [3301](http://9gag.com/gag/ajmv9wQ)
- - 🚯 [How to start bad day](http://9gag.com/gag/aYo6r1v)
- - 🚯 [I&#039;m 29 today](http://9gag.com/gag/agB9Bmx)<!-- MEMES:END -->
+ - 🚖 [ATTENTION TAX PAYERS!](http://9gag.com/gag/aeAzg4Q)
+ - 🚯 [Feeding big cats](http://9gag.com/gag/aV7rx6P)
+ - 🚯 [Reverse Format Because Reasons](http://9gag.com/gag/aDd94MN)<!-- MEMES:END -->
 
 --- 
 
