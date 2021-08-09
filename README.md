@@ -180,9 +180,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [New Stranger Things trailer shows glimpse of season 4     - CNET](https://www.cnet.com/news/new-stranger-things-trailer-shows-glimpse-of-season-4/#ftag=CAD590a51e)
- - [Jake Paul vs. Tyron Woodley: Start time, how to watch, how much it costs     - CNET](https://www.cnet.com/news/jake-paul-vs-tyron-woodley-start-time-how-to-watch-how-much-it-costs/#ftag=CAD590a51e)
- - [Buy an iPhone 12 or wait for the iPhone 13? How to decide which Apple flagship is best for you     - CNET](https://www.cnet.com/tech/mobile/buy-an-iphone-12-or-wait-for-iphone-13-how-to-decide-which-apple-flagship-best-for-you/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [CB Insights: global corporate venture capital-backed funding reached $79B across 2,099 deals in H1 2021, up from $74B in all of 2020; GV had most deals with 64 (Kia Kokalitcheva/Axios)](http://www.techmeme.com/210808/p11#a210808p11)
+ - [Scientists discover tiny chameleon once feared extinct, but its future is uncertain     - CNET](https://www.cnet.com/news/scientists-discover-tiny-chameleon-once-feared-extinct-but-its-future-is-uncertain/#ftag=CAD590a51e)
+ - [3,700-year-old Babylonian clay tablet upends history of mathematics     - CNET](https://www.cnet.com/news/3700-year-old-babylonian-clay-tablet-upends-history-of-mathematics/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
