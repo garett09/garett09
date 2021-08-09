@@ -173,9 +173,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Valheim is nerfing some of your favorite foods](https://www.pcgamer.com/valheim-is-nerfing-some-of-your-favorite-foods)
- - [What to watch after The Suicide Squad](https://www.polygon.com/22611930/movies-like-suicide-squad-watch-netflix-hbo-amazon-prime)
- - [Magic: The Gathering returns to gothic horror with back-to-back Innistrad sets](https://www.polygon.com/22617111/magic-the-gathering-innistrad-midnight-hunt-crimson-vow-preview-cards-release-date-price)<!-- GAME:END -->
+ - [Final Fantasy Fan Gets Every Franchise Trophy—And It Took A Decade](https://kotaku.com/final-fantasy-fan-gets-every-franchise-trophy-and-it-to-1847452779)
+ - [Forza Horizon 5's map is here and the volcano is basically Mount Doom](https://www.pcgamer.com/forza-horizon-5s-map-is-here-and-the-volcano-is-basically-mount-doom)
+ - [King Shark’s new miniseries makes him the Jesus of sharks](https://www.polygon.com/comics/2021/8/9/22616753/suicide-squad-king-shark-origin-dc-comics)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
