@@ -180,9 +180,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple publishes a CSAM FAQ to address misconceptions and concerns about photo scanning, but leaves potential government pressure unaddressed (Ben Lovejoy/9to5Mac)](http://www.techmeme.com/210809/p10#a210809p10)
- - [LawVu, a cloud-based platform for in-house legal teams, raises $17M NZD from Insight Partners](http://feedproxy.google.com/~r/Techcrunch/~3/TZNsBKKFsKk/)
- - [Dualtron's New E-Scooter Eats Steep Hills for Breakfast](https://www.wired.com/review/dualtron-victor)<!-- TECH:END -->
+ - [China's tech companies, including Huawei and Kunlun, are quietly driving a revolution in Africa's fintech sector, investing in mobile payment apps and wallets (Jevans Nyabiage/South China Morning Post)](http://www.techmeme.com/210809/p14#a210809p14)
+ - [Apple’s 2020 iPad Pro is $200 off at Best Buy today](https://www.theverge.com/2021/8/9/22616482/apple-2020-ipad-pro-200-off-sony-wh-1000xm3-1more-echo-show-8-sales-deals)
+ - [As part of a lottery, Amazon will offer cash prizes up to $500K, cars, and vacation packages to warehouse employees who can prove they have been vaccinated (Matt Day/Bloomberg)](http://www.techmeme.com/210809/p13#a210809p13)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
