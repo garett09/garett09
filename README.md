@@ -180,9 +180,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung patents a movable camera system with adaptive aperture](https://www.androidauthority.com/samsung-movable-camera-patent-2731153/)
- - [SteamVR beta lets you arrange desktop windows inside your virtual world](https://www.theverge.com/2021/8/9/22616349/steamvr-virtual-desktop-windows-floating-ingame-virtual-reality-vr)
- - [The 'fearsome dragon' that terrorized Australia’s skies     - CNET](https://www.cnet.com/news/the-fearsome-dragon-that-terrorized-australias-skies/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple vows child safety tools will never be used for spying](https://appleinsider.com/articles/21/08/09/apple-publishes-response-to-criticism-of-child-safety-initiatives?utm_medium=rss)
+ - [Zoom games: How to play poker, Kahoot and more during your next meeting     - CNET](https://www.cnet.com/tech/services-and-software/zoom-games-how-to-play-poker-kahoot-and-more-during-your-next-meeting/#ftag=CAD590a51e)
+ - [Kitchen automation has risen during the pandemic, with robots from Miso Robotics, Chowbotics, and other startups now replacing some jobs in fast food chains (Christopher Mims/Wall Street Journal)](http://www.techmeme.com/210809/p4#a210809p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
