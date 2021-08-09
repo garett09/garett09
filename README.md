@@ -187,9 +187,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Absolute chad dad made his son a Lamborghini mostlt made out of wood](http://9gag.com/gag/azMymxB)
- - 🚯 [Baldness is a curse after 30&#039;s for some](http://9gag.com/gag/aO3E0A2)
- - 🚯 [Stop it already](http://9gag.com/gag/aMK7xwX)<!-- MEMES:END -->
+ - 🚖 [A heart-warming moment on sport climbing podium](http://9gag.com/gag/abVDV08)
+ - 🚯 [Idols](http://9gag.com/gag/aB2z2dO)
+ - 🚯 [This is why cats hate cucumbers](http://9gag.com/gag/aO3E7b3)<!-- MEMES:END -->
 
 --- 
 
