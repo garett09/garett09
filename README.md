@@ -173,9 +173,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How San Diego Studio built Field of Dreams in MLB The Show 21](http://feedproxy.google.com/~r/PSBlog/~3/hZFHvKEMGv0/)
- - [How San Diego Studio built Field of Dreams in MLB The Show 21](https://blog.playstation.com/2021/08/09/how-san-diego-studio-built-field-of-dreams-in-mlb-the-show-21/)
- - [Xbox Honors International Day of the World’s Indigenous Peoples](https://news.xbox.com/en-us/2021/08/09/xbox-honors-international-day-of-the-worlds-indigenous-peoples/)<!-- GAME:END -->
+ - [Four Of The Best PC Games Ever Are Free Right Now](https://kotaku.com/four-of-the-best-pc-games-ever-are-free-right-now-1847448962)
+ - [Rick and Morty’s season 5 finale gets its own teaser](https://www.polygon.com/22616665/rick-morty-season-5-finale-teaser-trailer)
+ - [A pair of Gigabyte PSUs appear prone to catastrophic failure](https://www.pcgamer.com/a-pair-of-gigabyte-psus-appear-prone-to-catastrophic-failure)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
