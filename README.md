@@ -180,9 +180,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Alibaba fires manager who is accused of rape by a female employee, after the allegation led to a police investigation; two execs also resigned for mismanagement (Bloomberg)](http://www.techmeme.com/210809/p1#a210809p1)
- - [Best coffee maker 2021     - CNET](https://www.cnet.com/home/kitchen-and-household/best-coffee-maker/#ftag=CAD590a51e)
- - [Deals: Save $100 on Apple's iPad Air 4 at Amazon, now $499](https://appleinsider.com/articles/21/08/09/deals-save-100-on-apples-ipad-air-4-at-amazon-now-499?utm_medium=rss)<!-- TECH:END -->
+ - [Redmi 10 specs, renders leak: A significant upgrade over the Redmi 9?](https://www.androidauthority.com/redmi-10-2729211/)
+ - [Amazon sellers found offering bribes, hounding customers for leaving bad reviews](https://www.androidauthority.com/amazon-negative-reviews-2731087/)
+ - [What happened in The Suicide Squad post-credits scene?     - CNET](https://www.cnet.com/news/that-suicide-squad-movie-post-credits-scene-explained-spoilers-ahead/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
