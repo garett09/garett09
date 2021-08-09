@@ -181,8 +181,8 @@ Linux                    16 mins             ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Deals: Save $100 on Apple's iPad Air 4 at Amazon, now $499](https://appleinsider.com/articles/21/08/09/deals-save-100-on-apples-ipad-air-4-at-amazon-now-499?utm_medium=rss)
- - [CB Insights: global corporate venture capital-backed funding reached $79B across 2,099 deals in H1 2021, up from $74B in all of 2020; GV had most deals with 64 (Kia Kokalitcheva/Axios)](http://www.techmeme.com/210808/p11#a210808p11)
- - [Scientists discover tiny chameleon once feared extinct, but its future is uncertain     - CNET](https://www.cnet.com/news/scientists-discover-tiny-chameleon-once-feared-extinct-but-its-future-is-uncertain/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [PlayStation Plus: All the free games subscribers can download now     - CNET](https://www.cnet.com/news/playstation-plus-all-the-free-games-subscribers-can-download-now/#ftag=CAD590a51e)
+ - [The 5 best chest strap heart-rate monitors you can buy now     - CNET](https://www.cnet.com/health/fitness/best-chest-strap-heart-rate-monitors/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
