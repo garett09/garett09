@@ -180,9 +180,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Workhorse is already redesigning its new electric van](https://www.theverge.com/2021/8/9/22616733/workhorse-c1000-electric-van-truck-redesign-wkhs-usps)
- - [PitchBook: 3,000+ angel investors are expected to make their first deal in 2021, up from 2,725 in 2020; angels have invested $2.1B in H1 2021 vs. $2.6B in 2020 (Erin Griffith/New York Times)](http://www.techmeme.com/210809/p21#a210809p21)
- - [The Witcher: Nightmare of the Wolf’s new trailer teases a ton of monster-hunting action](https://www.theverge.com/2021/8/9/22616620/the-witcher-nightmare-of-the-wolf-new-trailer-release-date-august-23rd-netflix)<!-- TECH:END -->
+ - [Microsoft’s Xbox Cloud Gaming is finally native on PCs](https://www.androidauthority.com/microsoft-xbox-cloud-gaming-pc-2731438/)
+ - [Instagram tests ads in its Shop tab](http://feedproxy.google.com/~r/Techcrunch/~3/8HTqHuiTSC4/)
+ - [Best gaming keyboard for 2021     - CNET](https://www.cnet.com/tech/computing/best-gaming-keyboard/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
