@@ -188,8 +188,8 @@ Linux                    16 mins             ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 🚖 [Toooo accurate](http://9gag.com/gag/a1rgorY)
- - 🚯 [Since the next olympics are in France, why don&#039;t we introduce &quot;b&eacute;hourd&quot; (medieval battles) as a new displine ?](http://9gag.com/gag/aLpo8wM)
- - 🚯 [Bloody &#039;ell! You all takin&#039; the piss, innit?](http://9gag.com/gag/ad8A9Aj)<!-- MEMES:END -->
+ - 🚯 [True.](http://9gag.com/gag/aZ0Xg3X)
+ - 🚯 [Oh Germany&hellip;](http://9gag.com/gag/aEpKxyK)<!-- MEMES:END -->
 
 --- 
 
