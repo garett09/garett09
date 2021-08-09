@@ -180,9 +180,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple TV+ 'CODA' in theaters first film to have burned-in captions](https://appleinsider.com/articles/21/08/09/apple-tv-coda-in-theaters-first-film-to-have-burned-in-captions?utm_medium=rss)
- - [Best gas grills of 2021     - CNET](https://www.cnet.com/home/yard-and-outdoors/best-gas-grill/#ftag=CAD590a51e)
- - [Samsung chief paroled months into bribery, embezzlement sentence](https://appleinsider.com/articles/21/08/09/samsung-chief-paroled-months-into-bribery-embezzlement-sentence?utm_medium=rss)<!-- TECH:END -->
+ - [Workhorse is already redesigning its new electric van](https://www.theverge.com/2021/8/9/22616733/workhorse-c1000-electric-van-truck-redesign-wkhs-usps)
+ - [PitchBook: 3,000+ angel investors are expected to make their first deal in 2021, up from 2,725 in 2020; angels have invested $2.1B in H1 2021 vs. $2.6B in 2020 (Erin Griffith/New York Times)](http://www.techmeme.com/210809/p21#a210809p21)
+ - [The Witcher: Nightmare of the Wolf’s new trailer teases a ton of monster-hunting action](https://www.theverge.com/2021/8/9/22616620/the-witcher-nightmare-of-the-wolf-new-trailer-release-date-august-23rd-netflix)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
