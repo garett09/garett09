@@ -180,9 +180,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple's plan to find CSAM should have centered around scanning images on iCloud servers, not on users' devices, where there is a greater expectation of privacy (Ben Thompson/Stratechery)](http://www.techmeme.com/210809/p24#a210809p24)
- - [Pentagon will require COVID-19 vaccine for US military by Sept. 15     - CNET](https://www.cnet.com/news/pentagon-will-require-covid-19-vaccine-for-us-military-by-sept-15/#ftag=CAD590a51e)
- - [Britney Spears, 39, just got first iPad, calls it a 'groundbreaking day'     - CNET](https://www.cnet.com/news/britney-spears-39-just-got-her-first-ipad-says-my-life-is-changing/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [UN’s IPCC report on climate change sounds “code red” for planet](http://feedproxy.google.com/~r/Techcrunch/~3/j_-vDp8tsoM/)
+ - [How Twilio is moving beyond a diversity numbers game toward becoming an antiracist company](http://feedproxy.google.com/~r/Techcrunch/~3/20Fa9VAD1kM/)
+ - [Fossil hints a ‘way faster’ Gen 6 smartwatch is launching soon](https://www.androidauthority.com/fossil-gen-6-smartwatch-teaser-2731574/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
