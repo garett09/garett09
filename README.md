@@ -187,8 +187,8 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Now that everything is reopening, remember to get the goon suit](http://9gag.com/gag/arMEoNV)
- - 🚯 [The unsung hero of the Tokyo Games](http://9gag.com/gag/aLpogRM)
+ - 🚖 [World record longest car fly!](http://9gag.com/gag/ad8A51V)
+ - 🚯 [Now that everything is reopening, remember to get the goon suit](http://9gag.com/gag/arMEoNV)
  - 🚯 [F*ck off Josh!](http://9gag.com/gag/anQZ9PB)<!-- MEMES:END -->
 
 --- 
