@@ -187,9 +187,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Today I learned: human goo](http://9gag.com/gag/a9Ewn41)
- - 🚯 [A heart-warming moment on sport climbing podium](http://9gag.com/gag/abVDV08)
- - 🚯 [3301](http://9gag.com/gag/ajmv9wQ)<!-- MEMES:END -->
+ - 🚖 [3301](http://9gag.com/gag/ajmv9wQ)
+ - 🚯 [How to start bad day](http://9gag.com/gag/aYo6r1v)
+ - 🚯 [I&#039;m 29 today](http://9gag.com/gag/agB9Bmx)<!-- MEMES:END -->
 
 --- 
 
