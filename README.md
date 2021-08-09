@@ -187,9 +187,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Idols](http://9gag.com/gag/aB2z2dO)
+ - 🚖 [My girlfriend challenged me to a call of duty 1v1. Idk what she was thinking](http://9gag.com/gag/aDd9YbB)
  - 🚯 [ATTENTION TAX PAYERS!](http://9gag.com/gag/aeAzg4Q)
- - 🚯 [About time](http://9gag.com/gag/aLpop8P)<!-- MEMES:END -->
+ - 🚯 [I&#039;m in for the comments. Show me a photo of your last hike. Took these few days ago on Mt Ceahlau, Romania.](http://9gag.com/gag/aMK7KMX)<!-- MEMES:END -->
 
 --- 
 
