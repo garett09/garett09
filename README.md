@@ -173,9 +173,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Final Fantasy Fan Gets Every Franchise Trophy—And It Took A Decade](https://kotaku.com/final-fantasy-fan-gets-every-franchise-trophy-and-it-to-1847452779)
- - [Forza Horizon 5's map is here and the volcano is basically Mount Doom](https://www.pcgamer.com/forza-horizon-5s-map-is-here-and-the-volcano-is-basically-mount-doom)
- - [King Shark’s new miniseries makes him the Jesus of sharks](https://www.polygon.com/comics/2021/8/9/22616753/suicide-squad-king-shark-origin-dc-comics)<!-- GAME:END -->
+ - [Death Trash is a gutsy take on old-school RPGs, but maybe play it next year](https://www.polygon.com/22609864/death-trash-early-access-impressions-old-school-rpg-narrative)
+ - [Fallout 76’s new water parks make the wasteland fun — perhaps too fun](https://www.polygon.com/22617144/fallout-76-camps-water-parks-camp-customization-building)
+ - [Razer will test its absurd RBG face masks on the public soon](https://www.pcgamer.com/razer-will-test-its-absurd-rbg-face-masks-on-the-public-soon)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
