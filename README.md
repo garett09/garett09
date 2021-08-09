@@ -187,9 +187,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A heart-warming moment on sport climbing podium](http://9gag.com/gag/abVDV08)
- - 🚯 [Idols](http://9gag.com/gag/aB2z2dO)
- - 🚯 [This is why cats hate cucumbers](http://9gag.com/gag/aO3E7b3)<!-- MEMES:END -->
+ - 🚖 [Mondays -sip coffee-](http://9gag.com/gag/anQZ46q)
+ - 🚯 [Best known thing about Lithuania is nobody knows about Lithuania](http://9gag.com/gag/amPQvWy)
+ - 🚯 [Today I learned: human goo](http://9gag.com/gag/a9Ewn41)<!-- MEMES:END -->
 
 --- 
 
