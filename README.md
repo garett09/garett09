@@ -180,9 +180,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Suicide Squad: Let's rank the music and the gory kills, because why not     - CNET](https://www.cnet.com/news/the-suicide-squad-lets-rank-the-music-and-the-gory-kills-because-why-not/#ftag=CAD590a51e)
- - [Indonesian crypto assets service Pintu closes a $35M Series A+ led by Lightspeed Ventures, two months after a $6M Series A (Catherine Shu/TechCrunch)](http://www.techmeme.com/210809/p6#a210809p6)
- - [Siga secures $8.1M Series B to prevent cyberattacks on critical infrastructure](http://feedproxy.google.com/~r/Techcrunch/~3/7qdVM23W_8o/)<!-- TECH:END -->
+ - [Apple publishes a CSAM FAQ to address misconceptions and concerns about photo scanning, but leaves potential government pressure unaddressed (Ben Lovejoy/9to5Mac)](http://www.techmeme.com/210809/p10#a210809p10)
+ - [LawVu, a cloud-based platform for in-house legal teams, raises $17M NZD from Insight Partners](http://feedproxy.google.com/~r/Techcrunch/~3/TZNsBKKFsKk/)
+ - [Dualtron's New E-Scooter Eats Steep Hills for Breakfast](https://www.wired.com/review/dualtron-victor)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
