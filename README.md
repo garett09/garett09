@@ -180,9 +180,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Suicide Squad's opening box office is the second lowest in DCEU history     - CNET](https://www.cnet.com/news/the-suicide-squads-opening-box-office-is-the-second-lowest-in-dceu-history/#ftag=CAD590a51e)
- - [A look at Metaphysic, a company which uses deepfake tech to create ads and restore old film; its founder went viral on TikTok for deepfaking Tom Cruise (Rachel Metz/CNN)](http://www.techmeme.com/210808/p10#a210808p10)
- - [The Olympics no one wanted was the Olympics we all needed     - CNET](https://www.cnet.com/news/the-olympics-no-one-wanted-was-the-olympics-we-all-needed/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [New Stranger Things trailer shows glimpse of season 4     - CNET](https://www.cnet.com/news/new-stranger-things-trailer-shows-glimpse-of-season-4/#ftag=CAD590a51e)
+ - [Jake Paul vs. Tyron Woodley: Start time, how to watch, how much it costs     - CNET](https://www.cnet.com/news/jake-paul-vs-tyron-woodley-start-time-how-to-watch-how-much-it-costs/#ftag=CAD590a51e)
+ - [Buy an iPhone 12 or wait for the iPhone 13? How to decide which Apple flagship is best for you     - CNET](https://www.cnet.com/tech/mobile/buy-an-iphone-12-or-wait-for-iphone-13-how-to-decide-which-apple-flagship-best-for-you/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
