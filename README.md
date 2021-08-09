@@ -180,9 +180,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [UN’s IPCC report on climate change sounds “code red” for planet](http://feedproxy.google.com/~r/Techcrunch/~3/j_-vDp8tsoM/)
- - [How Twilio is moving beyond a diversity numbers game toward becoming an antiracist company](http://feedproxy.google.com/~r/Techcrunch/~3/20Fa9VAD1kM/)
- - [Fossil hints a ‘way faster’ Gen 6 smartwatch is launching soon](https://www.androidauthority.com/fossil-gen-6-smartwatch-teaser-2731574/)<!-- TECH:END -->
+ - [Google’s VPN service is now available outside the US](https://www.androidauthority.com/google-one-vpn-outside-us-2731611/)
+ - [Match beta test targets dating app complaints like frustration with swiping, ghosting](http://feedproxy.google.com/~r/Techcrunch/~3/cGSDf0UPfYY/)
+ - [Amazon and GoPro are suing Chinese sellers over counterfeit tripods and grips](https://www.theverge.com/2021/8/9/22617120/amazon-gopro-fakes-counterfeit-lawsuit-china-criminal-investigation)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
