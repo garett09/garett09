@@ -188,8 +188,8 @@ Linux                    16 mins             ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 🚖 [Mondays -sip coffee-](http://9gag.com/gag/anQZ46q)
- - 🚯 [Best known thing about Lithuania is nobody knows about Lithuania](http://9gag.com/gag/amPQvWy)
- - 🚯 [Today I learned: human goo](http://9gag.com/gag/a9Ewn41)<!-- MEMES:END -->
+ - 🚯 [Gonna tell my kids this is the actual footage of India winning the gold in Javelin throw at the Olympics](http://9gag.com/gag/aV7rwzv)
+ - 🚯 [I&#039;m 29 today](http://9gag.com/gag/agB9Bmx)<!-- MEMES:END -->
 
 --- 
 
