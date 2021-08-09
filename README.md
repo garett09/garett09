@@ -187,9 +187,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [ATTENTION TAX PAYERS!](http://9gag.com/gag/aeAzg4Q)
- - 🚯 [Feeding big cats](http://9gag.com/gag/aV7rx6P)
- - 🚯 [Reverse Format Because Reasons](http://9gag.com/gag/aDd94MN)<!-- MEMES:END -->
+ - 🚖 [Idols](http://9gag.com/gag/aB2z2dO)
+ - 🚯 [ATTENTION TAX PAYERS!](http://9gag.com/gag/aeAzg4Q)
+ - 🚯 [About time](http://9gag.com/gag/aLpop8P)<!-- MEMES:END -->
 
 --- 
 
