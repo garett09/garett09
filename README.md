@@ -187,9 +187,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Are you a boy or a girl?](http://9gag.com/gag/ad8ALBD)
- - 🚯 [SHI-BU-KI , the splash of sea wave, Japanese Folk music sounds like fusion genre of Folk music &amp; Metal .](http://9gag.com/gag/aNpM1mK)
- - 🚯 [Morhad Amdouni could have killed or hurt fellow runners during the olympics marathon - By on purpose knocking over a row of waterbottles and take the very last one at a water station in his effort to cheat to a medal.](http://9gag.com/gag/aO3Ez93)<!-- MEMES:END -->
+ - 🚖 [F*ck off Josh!](http://9gag.com/gag/anQZ9PB)
+ - 🚯 [A foul ball was given to a young teenager in the audience then he kindly give it away to a little boy.](http://9gag.com/gag/aV7rY1w)
+ - 🚯 [Police: Just promise me you won&rsquo;t escape okay Bob?](http://9gag.com/gag/aEpK2OM)<!-- MEMES:END -->
 
 --- 
 
