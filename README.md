@@ -173,9 +173,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best Australian PC gaming deals this week](https://www.pcgamer.com/best-australian-pc-gaming-deals)
- - [The best Skyrim mods](https://www.pcgamer.com/best-skyrim-mods)
- - [Mods restore Crazy Taxi's analog controls, product placement, and more](https://www.pcgamer.com/mods-restore-crazy-taxis-analog-controls-product-placement-and-more)<!-- GAME:END -->
+ - [From battle royale to burnout with former DayZ director Brian Hicks](https://www.pcgamer.com/from-battle-royale-to-burnout-with-former-dayz-director-brian-hicks)
+ - [Join Us for the gamescom 2021 Xbox Stream and More Later this Month](https://news.xbox.com/en-us/2021/08/09/join-us-for-the-gamescom-2021-xbox-stream-and-more/)
+ - [Kill Team reboot brings D&D-style storytelling to Warhammer 40K](https://www.polygon.com/reviews/22611779/warhammer-40k-kill-team-octarius-reboot-orks-krieg-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
