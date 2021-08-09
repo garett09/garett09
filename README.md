@@ -180,9 +180,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily Crunch: Bangalore-based UpGrad becomes India’s newest unicorn with $185M funding round](http://feedproxy.google.com/~r/Techcrunch/~3/7uu2QBbqLLY/)
- - [Save $750 on a 75-inch Sony Bravia, and more of the latest TV deals](https://www.androidauthority.com/best-tv-deals-2-1111250/)
- - [Twitch will give streamers a bit more info on why they were banned](https://www.theverge.com/2021/8/9/22617270/twitch-banned-streamers-notice-content-reason-suspension)<!-- TECH:END -->
+ - [Apple removes 'iDOS 2' from iOS App Store](https://appleinsider.com/articles/21/08/09/apple-removes-idos-2-from-ios-app-store?utm_medium=rss)
+ - [A new Lamborghini Countach is coming, and it might be a hybrid](https://www.theverge.com/2021/8/9/22616693/lamborghini-countach-teaser-hybrid-supercar)
+ - [Marvel's What If...? release dates: When does episode 1 hit Disney Plus?     - CNET](https://www.cnet.com/news/marvels-what-if-release-dates-when-does-episode-1-hit-disney-plus/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
