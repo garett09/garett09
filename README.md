@@ -187,9 +187,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Toooo accurate](http://9gag.com/gag/a1rgorY)
- - 🚯 [True](http://9gag.com/gag/aeAzMKO)
- - 🚯 [Oh Germany&hellip;](http://9gag.com/gag/aEpKxyK)<!-- MEMES:END -->
+ - 🚖 [Oh Germany&hellip;](http://9gag.com/gag/aEpKxyK)
+ - 🚯 [They should hire him (her?) as narrator](http://9gag.com/gag/aO3Err3)
+ - 🚯 [SHI-BU-KI , the splash of sea wave, Japanese Folk music sounds like fusion genre of Folk music &amp; Metal .](http://9gag.com/gag/aNpM1mK)<!-- MEMES:END -->
 
 --- 
 
