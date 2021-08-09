@@ -180,9 +180,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s VPN service is now available outside the US](https://www.androidauthority.com/google-one-vpn-outside-us-2731611/)
- - [Match beta test targets dating app complaints like frustration with swiping, ghosting](http://feedproxy.google.com/~r/Techcrunch/~3/cGSDf0UPfYY/)
- - [Amazon and GoPro are suing Chinese sellers over counterfeit tripods and grips](https://www.theverge.com/2021/8/9/22617120/amazon-gopro-fakes-counterfeit-lawsuit-china-criminal-investigation)<!-- TECH:END -->
+ - [Sony completes acquisition of Crunchyroll from AT&T](https://www.theverge.com/2021/8/9/22617356/sony-crunchyroll-att-funimation-acquisition)
+ - [Apple keeps shutting down employee-run surveys on pay equity — and labor lawyers say it’s illegal](https://www.theverge.com/2021/8/9/22609687/apple-pay-equity-employee-surveys-protected-activity)
+ - [SpaceX to acquire small satellite startup Swarm Technologies](https://www.theverge.com/2021/8/9/22616894/spacex-elon-musk-starlink-swarm-technologies)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
