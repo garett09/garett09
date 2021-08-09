@@ -173,9 +173,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Mods restore Crazy Taxi's analog controls, product placement, and more](https://www.pcgamer.com/mods-restore-crazy-taxis-analog-controls-product-placement-and-more)
  - [The DOOM Roguelike Jupiter Hell Is Finally Out And It’s Great](https://kotaku.com/the-doom-roguelike-jupiter-hell-is-finally-out-and-it-s-1847447293)
- - [The next South Park game will be 3D, and developed in-house](https://www.pcgamer.com/the-next-south-park-game-will-be-3d-and-developed-in-house)
- - [Five new Steam games you probably missed (August 9, 2021)](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-august-9-2021)<!-- GAME:END -->
+ - [The next South Park game will be 3D, and developed in-house](https://www.pcgamer.com/the-next-south-park-game-will-be-3d-and-developed-in-house)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
