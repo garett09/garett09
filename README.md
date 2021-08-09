@@ -180,9 +180,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best coffee maker 2021     - CNET](https://www.cnet.com/home/kitchen-and-household/best-coffee-maker/#ftag=CAD590a51e)
  - [Deals: Save $100 on Apple's iPad Air 4 at Amazon, now $499](https://appleinsider.com/articles/21/08/09/deals-save-100-on-apples-ipad-air-4-at-amazon-now-499?utm_medium=rss)
- - [PlayStation Plus: All the free games subscribers can download now     - CNET](https://www.cnet.com/news/playstation-plus-all-the-free-games-subscribers-can-download-now/#ftag=CAD590a51e)
- - [The 5 best chest strap heart-rate monitors you can buy now     - CNET](https://www.cnet.com/health/fitness/best-chest-strap-heart-rate-monitors/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [PlayStation Plus: All the free games subscribers can download now     - CNET](https://www.cnet.com/news/playstation-plus-all-the-free-games-subscribers-can-download-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
