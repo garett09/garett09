@@ -180,9 +180,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How one founder bucked the data-driven trend and created a startup based on inspiration](http://feedproxy.google.com/~r/Techcrunch/~3/R6iQvZTy2u4/)
- - [Changes to cryptocurrency tax rules could be too late for infrastructure vote](https://appleinsider.com/articles/21/08/09/changes-to-cryptocurrency-tax-rules-could-be-too-late-for-infrastructure-vote?utm_medium=rss)
- - [When Amazon customers leave negative reviews, some sellers hound them to revise or delete them, in exchange for refunds or gift cards, violating Amazon policies (Nicole Nguyen/Wall Street Journal)](http://www.techmeme.com/210809/p17#a210809p17)<!-- TECH:END -->
+ - [Apple TV+ 'CODA' in theaters first film to have burned-in captions](https://appleinsider.com/articles/21/08/09/apple-tv-coda-in-theaters-first-film-to-have-burned-in-captions?utm_medium=rss)
+ - [Best gas grills of 2021     - CNET](https://www.cnet.com/home/yard-and-outdoors/best-gas-grill/#ftag=CAD590a51e)
+ - [Samsung chief paroled months into bribery, embezzlement sentence](https://appleinsider.com/articles/21/08/09/samsung-chief-paroled-months-into-bribery-embezzlement-sentence?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
