@@ -180,9 +180,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The ‘fearsome dragon’ that terrorized Australia’s skies     - CNET](https://www.cnet.com/news/the-fearsome-dragon-that-terrorized-australias-skies/#ftag=CAD590a51e)
- - [Earth already feeling 'irreversible' impacts of climate change, IPCC says     - CNET](https://www.cnet.com/news/earth-already-feeling-irreversible-impacts-of-climate-change-ipcc-says/#ftag=CAD590a51e)
- - [The UN Climate Report: All Is Not Well—but All Is Not Lost](https://www.wired.com/story/the-un-climate-report-all-is-not-well-but-all-is-not-lost)<!-- TECH:END -->
+ - [Samsung patents a movable camera system with adaptive aperture](https://www.androidauthority.com/samsung-movable-camera-patent-2731153/)
+ - [SteamVR beta lets you arrange desktop windows inside your virtual world](https://www.theverge.com/2021/8/9/22616349/steamvr-virtual-desktop-windows-floating-ingame-virtual-reality-vr)
+ - [The 'fearsome dragon' that terrorized Australia’s skies     - CNET](https://www.cnet.com/news/the-fearsome-dragon-that-terrorized-australias-skies/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
