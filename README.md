@@ -180,9 +180,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Redmi 10 specs, renders leak: A significant upgrade over the Redmi 9?](https://www.androidauthority.com/redmi-10-2729211/)
- - [Amazon sellers found offering bribes, hounding customers for leaving bad reviews](https://www.androidauthority.com/amazon-negative-reviews-2731087/)
- - [What happened in The Suicide Squad post-credits scene?     - CNET](https://www.cnet.com/news/that-suicide-squad-movie-post-credits-scene-explained-spoilers-ahead/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Two months after its Series A, Pintu gets $35M in new funding led by Lightspeed](http://feedproxy.google.com/~r/Techcrunch/~3/vVIc9ov0SpE/)
+ - [Poll: Do you use your phone camera’s AI mode?](https://www.androidauthority.com/phone-camera-ai-mode-poll-2731125/)
+ - [Moody's to buy RMS, which sells data that analyzes changing climate patterns caused by global warming to the insurance industry, for ~$2B (Julie Steinberg/Wall Street Journal)](http://www.techmeme.com/210809/p2#a210809p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
