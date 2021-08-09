@@ -173,9 +173,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This game looks like Katamari Damacy and Resident Evil had a morphing flesh baby](https://www.polygon.com/22616539/all-the-best-games-being-made-right-now-action-adventure-horror)
- - [Xbox cloud streaming is now available in the Windows app](https://www.pcgamer.com/xbox-cloud-streaming-is-now-available-in-the-windows-app)
- - [Guardians of the Galaxy's Gamora is coming to Fortnite](https://www.pcgamer.com/gamora-fortnite-skin)<!-- GAME:END -->
+ - [Valheim is nerfing some of your favorite foods](https://www.pcgamer.com/valheim-is-nerfing-some-of-your-favorite-foods)
+ - [What to watch after The Suicide Squad](https://www.polygon.com/22611930/movies-like-suicide-squad-watch-netflix-hbo-amazon-prime)
+ - [Magic: The Gathering returns to gothic horror with back-to-back Innistrad sets](https://www.polygon.com/22617111/magic-the-gathering-innistrad-midnight-hunt-crimson-vow-preview-cards-release-date-price)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
