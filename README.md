@@ -180,9 +180,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony completes acquisition of Crunchyroll from AT&T](https://www.theverge.com/2021/8/9/22617356/sony-crunchyroll-att-funimation-acquisition)
- - [Apple keeps shutting down employee-run surveys on pay equity — and labor lawyers say it’s illegal](https://www.theverge.com/2021/8/9/22609687/apple-pay-equity-employee-surveys-protected-activity)
- - [SpaceX to acquire small satellite startup Swarm Technologies](https://www.theverge.com/2021/8/9/22616894/spacex-elon-musk-starlink-swarm-technologies)<!-- TECH:END -->
+ - [Daily Crunch: Bangalore-based UpGrad becomes India’s newest unicorn with $185M funding round](http://feedproxy.google.com/~r/Techcrunch/~3/7uu2QBbqLLY/)
+ - [Save $750 on a 75-inch Sony Bravia, and more of the latest TV deals](https://www.androidauthority.com/best-tv-deals-2-1111250/)
+ - [Twitch will give streamers a bit more info on why they were banned](https://www.theverge.com/2021/8/9/22617270/twitch-banned-streamers-notice-content-reason-suspension)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
