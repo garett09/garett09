@@ -187,9 +187,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [World record longest car fly!](http://9gag.com/gag/ad8A51V)
- - 🚯 [Now that everything is reopening, remember to get the goon suit](http://9gag.com/gag/arMEoNV)
- - 🚯 [F*ck off Josh!](http://9gag.com/gag/anQZ9PB)<!-- MEMES:END -->
+ - 🚖 [F*ck off Josh!](http://9gag.com/gag/anQZ9PB)
+ - 🚯 [World record longest car fly!](http://9gag.com/gag/ad8A51V)
+ - 🚯 [Madre miaaaa](http://9gag.com/gag/amPQ55y)<!-- MEMES:END -->
 
 --- 
 
