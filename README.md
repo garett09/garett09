@@ -187,9 +187,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Best known thing about Lithuania is nobody knows about Lithuania](http://9gag.com/gag/amPQvWy)
- - 🚯 [Canadair pilot performing manoeuvre to take out fire in Greece.](http://9gag.com/gag/a1rgWQw)
- - 🚯 [By a looooooooooot.](http://9gag.com/gag/aDd919K)<!-- MEMES:END -->
+ - 🚖 [3301](http://9gag.com/gag/ajmv9wQ)
+ - 🚯 [Stop it already](http://9gag.com/gag/aMK7xwX)
+ - 🚯 [Baldness is a curse after 30&#039;s for some](http://9gag.com/gag/aO3E0A2)<!-- MEMES:END -->
 
 --- 
 
