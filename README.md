@@ -187,9 +187,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [My girlfriend challenged me to a call of duty 1v1. Idk what she was thinking](http://9gag.com/gag/aDd9YbB)
- - 🚯 [ATTENTION TAX PAYERS!](http://9gag.com/gag/aeAzg4Q)
- - 🚯 [I&#039;m in for the comments. Show me a photo of your last hike. Took these few days ago on Mt Ceahlau, Romania.](http://9gag.com/gag/aMK7KMX)<!-- MEMES:END -->
+ - 🚖 [Baklava is probably more famous tho](http://9gag.com/gag/aEpKp9O)
+ - 🚯 [This b*tch is outta control](http://9gag.com/gag/azMy2Xx)
+ - 🚯 [Bring the 90s back](http://9gag.com/gag/a8ENqVe)<!-- MEMES:END -->
 
 --- 
 
