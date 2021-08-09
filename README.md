@@ -188,7 +188,7 @@ Linux                    16 mins             ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 🚖 [Toooo accurate](http://9gag.com/gag/a1rgorY)
- - 🚯 [True.](http://9gag.com/gag/aZ0Xg3X)
+ - 🚯 [The unsung hero of the Tokyo Games](http://9gag.com/gag/aLpogRM)
  - 🚯 [Oh Germany&hellip;](http://9gag.com/gag/aEpKxyK)<!-- MEMES:END -->
 
 --- 
