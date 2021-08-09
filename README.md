@@ -180,9 +180,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft’s Xbox Cloud Gaming is finally native on PCs](https://www.androidauthority.com/microsoft-xbox-cloud-gaming-pc-2731438/)
- - [Instagram tests ads in its Shop tab](http://feedproxy.google.com/~r/Techcrunch/~3/8HTqHuiTSC4/)
- - [Best gaming keyboard for 2021     - CNET](https://www.cnet.com/tech/computing/best-gaming-keyboard/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple's plan to find CSAM should have centered around scanning images on iCloud servers, not on users' devices, where there is a greater expectation of privacy (Ben Thompson/Stratechery)](http://www.techmeme.com/210809/p24#a210809p24)
+ - [Pentagon will require COVID-19 vaccine for US military by Sept. 15     - CNET](https://www.cnet.com/news/pentagon-will-require-covid-19-vaccine-for-us-military-by-sept-15/#ftag=CAD590a51e)
+ - [Britney Spears, 39, just got first iPad, calls it a 'groundbreaking day'     - CNET](https://www.cnet.com/news/britney-spears-39-just-got-her-first-ipad-says-my-life-is-changing/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
