@@ -173,9 +173,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This AMD Ryzen motherboard for $84 is a great start for a compact gaming PC](https://www.pcgamer.com/this-amd-ryzen-motherboard-for-dollar84-is-a-great-start-for-a-compact-gaming-pc)
- - [JoJo’s Bizarre Adventure Stone Ocean has a new trailer and will arrive in December on Netflix](https://www.polygon.com/22615994/jojos-bizarre-adventure-stone-ocean-trailer-netflix-release-date-streaming)
- - [No Man's Sky teases new expansion, Frontiers, in 5-year anniversary video](https://www.pcgamer.com/no-mans-sky-teases-new-expansion-frontiers-in-5-year-anniversary-video)<!-- GAME:END -->
+ - [How San Diego Studio built Field of Dreams in MLB The Show 21](http://feedproxy.google.com/~r/PSBlog/~3/hZFHvKEMGv0/)
+ - [How San Diego Studio built Field of Dreams in MLB The Show 21](https://blog.playstation.com/2021/08/09/how-san-diego-studio-built-field-of-dreams-in-mlb-the-show-21/)
+ - [Xbox Honors International Day of the World’s Indigenous Peoples](https://news.xbox.com/en-us/2021/08/09/xbox-honors-international-day-of-the-worlds-indigenous-peoples/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
