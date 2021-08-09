@@ -173,9 +173,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Four Of The Best PC Games Ever Are Free Right Now](https://kotaku.com/four-of-the-best-pc-games-ever-are-free-right-now-1847448962)
- - [Rick and Morty’s season 5 finale gets its own teaser](https://www.polygon.com/22616665/rick-morty-season-5-finale-teaser-trailer)
- - [A pair of Gigabyte PSUs appear prone to catastrophic failure](https://www.pcgamer.com/a-pair-of-gigabyte-psus-appear-prone-to-catastrophic-failure)<!-- GAME:END -->
+ - [The cooler, more chaotic way to read a comic book on your PC](https://www.polygon.com/comics/22616680/peow-studio-digital-comic-reader-internal-affairs)
+ - [Best cheap gaming PC right now](https://www.pcgamer.com/best-cheap-gaming-pc)
+ - [This is why Valve is switching from Debian to Arch for Steam Deck's Linux OS](https://www.pcgamer.com/this-is-why-valve-is-switching-from-debian-to-arch-for-steam-decks-linux-os)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
