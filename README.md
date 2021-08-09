@@ -180,9 +180,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Two months after its Series A, Pintu gets $35M in new funding led by Lightspeed](http://feedproxy.google.com/~r/Techcrunch/~3/vVIc9ov0SpE/)
- - [Poll: Do you use your phone camera’s AI mode?](https://www.androidauthority.com/phone-camera-ai-mode-poll-2731125/)
- - [Moody's to buy RMS, which sells data that analyzes changing climate patterns caused by global warming to the insurance industry, for ~$2B (Julie Steinberg/Wall Street Journal)](http://www.techmeme.com/210809/p2#a210809p2)<!-- TECH:END -->
+ - [The ‘fearsome dragon’ that terrorized Australia’s skies     - CNET](https://www.cnet.com/news/the-fearsome-dragon-that-terrorized-australias-skies/#ftag=CAD590a51e)
+ - [Earth already feeling 'irreversible' impacts of climate change, IPCC says     - CNET](https://www.cnet.com/news/earth-already-feeling-irreversible-impacts-of-climate-change-ipcc-says/#ftag=CAD590a51e)
+ - [The UN Climate Report: All Is Not Well—but All Is Not Lost](https://www.wired.com/story/the-un-climate-report-all-is-not-well-but-all-is-not-lost)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
