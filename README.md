@@ -187,9 +187,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [F*ck off Josh!](http://9gag.com/gag/anQZ9PB)
- - 🚯 [A foul ball was given to a young teenager in the audience then he kindly give it away to a little boy.](http://9gag.com/gag/aV7rY1w)
- - 🚯 [Police: Just promise me you won&rsquo;t escape okay Bob?](http://9gag.com/gag/aEpK2OM)<!-- MEMES:END -->
+ - 🚖 [Now that everything is reopening, remember to get the goon suit](http://9gag.com/gag/arMEoNV)
+ - 🚯 [The unsung hero of the Tokyo Games](http://9gag.com/gag/aLpogRM)
+ - 🚯 [F*ck off Josh!](http://9gag.com/gag/anQZ9PB)<!-- MEMES:END -->
 
 --- 
 
