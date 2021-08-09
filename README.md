@@ -173,9 +173,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The cooler, more chaotic way to read a comic book on your PC](https://www.polygon.com/comics/22616680/peow-studio-digital-comic-reader-internal-affairs)
- - [Best cheap gaming PC right now](https://www.pcgamer.com/best-cheap-gaming-pc)
- - [This is why Valve is switching from Debian to Arch for Steam Deck's Linux OS](https://www.pcgamer.com/this-is-why-valve-is-switching-from-debian-to-arch-for-steam-decks-linux-os)<!-- GAME:END -->
+ - [Some Destiny 2 fans are pissed about sliding](https://www.polygon.com/22616810/destiny-2-season-15-slide-changes-shotgun-pvp-crucible)
+ - [I Woke From A Coma Into A Fortnite-Obsessed World](https://kotaku.com/i-woke-from-a-coma-into-a-fortnite-obsessed-world-1847450200)
+ - [Don't buy it: AMD RX 6600 XT for $1,200 on Newegg ahead of release](https://www.pcgamer.com/dont-buy-it-amd-rx-6600-xt-for-dollar1200-on-newegg-ahead-of-release)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
