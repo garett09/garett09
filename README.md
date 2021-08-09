@@ -180,9 +180,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple vows child safety tools will never be used for spying](https://appleinsider.com/articles/21/08/09/apple-publishes-response-to-criticism-of-child-safety-initiatives?utm_medium=rss)
- - [Zoom games: How to play poker, Kahoot and more during your next meeting     - CNET](https://www.cnet.com/tech/services-and-software/zoom-games-how-to-play-poker-kahoot-and-more-during-your-next-meeting/#ftag=CAD590a51e)
- - [Kitchen automation has risen during the pandemic, with robots from Miso Robotics, Chowbotics, and other startups now replacing some jobs in fast food chains (Christopher Mims/Wall Street Journal)](http://www.techmeme.com/210809/p4#a210809p4)<!-- TECH:END -->
+ - [The Suicide Squad: Let's rank the music and the gory kills, because why not     - CNET](https://www.cnet.com/news/the-suicide-squad-lets-rank-the-music-and-the-gory-kills-because-why-not/#ftag=CAD590a51e)
+ - [Indonesian crypto assets service Pintu closes a $35M Series A+ led by Lightspeed Ventures, two months after a $6M Series A (Catherine Shu/TechCrunch)](http://www.techmeme.com/210809/p6#a210809p6)
+ - [Siga secures $8.1M Series B to prevent cyberattacks on critical infrastructure](http://feedproxy.google.com/~r/Techcrunch/~3/7qdVM23W_8o/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
