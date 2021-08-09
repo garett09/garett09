@@ -187,8 +187,8 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [\ud835\udde6\ud835\uddfc \ud835\uddf9\ud835\uddfc\ud835\uddfb\ud835\uddf4, \ud835\udde2\ud835\uddf9\ud835\ude06\ud835\uddfa\ud835\uddfd\ud835\uddf6\ud835\uddf0 \ud835\uddda\ud835\uddee\ud835\uddfa\ud835\uddf2\ud835\ude00 \ud835\udde7\ud835\uddfc\ud835\uddf8\ud835\ude06\ud835\uddfc \ud835\udfee\ud835\udfec\ud835\udfee\ud835\udfec](http://9gag.com/gag/ajmvXY1)
- - 🚯 [Yes](http://9gag.com/gag/aDd9WKO)
+ - 🚖 [Toooo accurate](http://9gag.com/gag/a1rgorY)
+ - 🚯 [Since the next olympics are in France, why don&#039;t we introduce &quot;b&eacute;hourd&quot; (medieval battles) as a new displine ?](http://9gag.com/gag/aLpo8wM)
  - 🚯 [Bloody &#039;ell! You all takin&#039; the piss, innit?](http://9gag.com/gag/ad8A9Aj)<!-- MEMES:END -->
 
 --- 
