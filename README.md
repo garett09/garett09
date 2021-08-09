@@ -173,9 +173,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Cancelled Power Rangers game would have been an Arkham-like co-op brawler](https://www.pcgamer.com/cancelled-power-rangers-game-would-have-been-an-arkham-like-co-op-brawler)
- - [The best full-tower case in 2021](https://www.pcgamer.com/best-full-tower-case)
- - [From battle royale to burnout with former DayZ director Brian Hicks](https://www.pcgamer.com/from-battle-royale-to-burnout-with-former-dayz-director-brian-hicks)<!-- GAME:END -->
+ - [Back 4 Blood hit almost 100,000 concurrent players during last weekend's beta](https://www.pcgamer.com/back-4-blood-hit-almost-100000-concurrent-players-during-last-weekends-beta)
+ - [Best antivirus for PC gaming 2021](https://www.pcgamer.com/best-anti-virus)
+ - [Cancelled Power Rangers game would have been an Arkham-like co-op brawler](https://www.pcgamer.com/cancelled-power-rangers-game-would-have-been-an-arkham-like-co-op-brawler)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
