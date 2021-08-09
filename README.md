@@ -187,9 +187,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Mondays -sip coffee-](http://9gag.com/gag/anQZ46q)
- - 🚯 [Gonna tell my kids this is the actual footage of India winning the gold in Javelin throw at the Olympics](http://9gag.com/gag/aV7rwzv)
- - 🚯 [I&#039;m 29 today](http://9gag.com/gag/agB9Bmx)<!-- MEMES:END -->
+ - 🚖 [Today I learned: human goo](http://9gag.com/gag/a9Ewn41)
+ - 🚯 [A heart-warming moment on sport climbing podium](http://9gag.com/gag/abVDV08)
+ - 🚯 [3301](http://9gag.com/gag/ajmv9wQ)<!-- MEMES:END -->
 
 --- 
 
