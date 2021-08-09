@@ -173,9 +173,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Death Trash is a gutsy take on old-school RPGs, but maybe play it next year](https://www.polygon.com/22609864/death-trash-early-access-impressions-old-school-rpg-narrative)
- - [Fallout 76’s new water parks make the wasteland fun — perhaps too fun](https://www.polygon.com/22617144/fallout-76-camps-water-parks-camp-customization-building)
- - [Razer will test its absurd RBG face masks on the public soon](https://www.pcgamer.com/razer-will-test-its-absurd-rbg-face-masks-on-the-public-soon)<!-- GAME:END -->
+ - [Xbox Consoles Are Getting A 'Night Mode' To Help Your Tired Eyes](https://kotaku.com/xbox-consoles-are-getting-a-night-mode-to-help-your-tir-1847453592)
+ - [Cookie Clicker is coming to Steam](https://www.pcgamer.com/cookie-clicker-is-coming-to-steam)
+ - [EVE Online's record-setting war ends with a whimper](https://www.pcgamer.com/eve-onlines-record-setting-war-ends-with-a-whimper)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
