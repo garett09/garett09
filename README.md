@@ -173,9 +173,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Celebrating No Man’s Sky’s 5th Anniversary](https://news.xbox.com/en-us/2021/08/09/celebrating-no-mans-skys-5th-anniversary/)
- - [Mario Kart 64 Champion Makes History By Becoming Fastest Player On Every Course](https://kotaku.com/mario-kart-64-champion-makes-history-by-becoming-fastes-1847450824)
- - [Back 4 Blood won’t have one of Left 4 Dead’s best modes](https://www.polygon.com/22616789/back-4-blood-versus-campaign-left-4-dead-turtle-rock)<!-- GAME:END -->
+ - [This game looks like Katamari Damacy and Resident Evil had a morphing flesh baby](https://www.polygon.com/22616539/all-the-best-games-being-made-right-now-action-adventure-horror)
+ - [Xbox cloud streaming is now available in the Windows app](https://www.pcgamer.com/xbox-cloud-streaming-is-now-available-in-the-windows-app)
+ - [Guardians of the Galaxy's Gamora is coming to Fortnite](https://www.pcgamer.com/gamora-fortnite-skin)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
