@@ -173,9 +173,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Week In Games: Hades Lands On PlayStation And Xbox](https://kotaku.com/the-week-in-games-hades-lands-on-playstation-and-xbox-1847446884)
- - [Apex Legends cross progression and new-gen update are still coming, eventually](https://www.pcgamer.com/apex-legends-cross-progression-and-new-gen-update-are-still-coming-eventually)
- - [Splitgate, Back 4 Blood rank in top 10 on Steam over the weekend](https://www.pcgamer.com/splitgate-back-4-blood-rank-in-top-10-on-steam-over-the-weekend)<!-- GAME:END -->
+ - [Five new Steam games you probably missed (August 9, 2021)](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-august-9-2021)
+ - [$400 Spider-Man NFT Looks Like A PS2 Cutscene](https://kotaku.com/400-spider-man-nft-looks-like-a-ps2-cutscene-1847447172)
+ - [Watch a trailer for Gearbox's canceled Duke Nukem prequel](https://www.pcgamer.com/watch-a-trailer-for-gearboxs-canceled-duke-nukem-prequel)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
