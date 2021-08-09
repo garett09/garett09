@@ -187,9 +187,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [3301](http://9gag.com/gag/ajmv9wQ)
- - 🚯 [Stop it already](http://9gag.com/gag/aMK7xwX)
- - 🚯 [Baldness is a curse after 30&#039;s for some](http://9gag.com/gag/aO3E0A2)<!-- MEMES:END -->
+ - 🚖 [Absolute chad dad made his son a Lamborghini mostlt made out of wood](http://9gag.com/gag/azMymxB)
+ - 🚯 [Baldness is a curse after 30&#039;s for some](http://9gag.com/gag/aO3E0A2)
+ - 🚯 [Stop it already](http://9gag.com/gag/aMK7xwX)<!-- MEMES:END -->
 
 --- 
 
