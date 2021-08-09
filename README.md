@@ -173,9 +173,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Back 4 Blood hit almost 100,000 concurrent players during last weekend's beta](https://www.pcgamer.com/back-4-blood-hit-almost-100000-concurrent-players-during-last-weekends-beta)
- - [Best antivirus for PC gaming 2021](https://www.pcgamer.com/best-anti-virus)
- - [Cancelled Power Rangers game would have been an Arkham-like co-op brawler](https://www.pcgamer.com/cancelled-power-rangers-game-would-have-been-an-arkham-like-co-op-brawler)<!-- GAME:END -->
+ - [This AMD Ryzen motherboard for $84 is a great start for a compact gaming PC](https://www.pcgamer.com/this-amd-ryzen-motherboard-for-dollar84-is-a-great-start-for-a-compact-gaming-pc)
+ - [JoJo’s Bizarre Adventure Stone Ocean has a new trailer and will arrive in December on Netflix](https://www.polygon.com/22615994/jojos-bizarre-adventure-stone-ocean-trailer-netflix-release-date-streaming)
+ - [No Man's Sky teases new expansion, Frontiers, in 5-year anniversary video](https://www.pcgamer.com/no-mans-sky-teases-new-expansion-frontiers-in-5-year-anniversary-video)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
