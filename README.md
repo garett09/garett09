@@ -187,9 +187,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Oh, no.](http://9gag.com/gag/ajmv5x1)
- - 🚯 [Madre miaaaa](http://9gag.com/gag/amPQ55y)
- - 🚯 [World record longest car fly!](http://9gag.com/gag/ad8A51V)<!-- MEMES:END -->
+ - 🚖 [Madre miaaaa](http://9gag.com/gag/amPQ55y)
+ - 🚯 [World record longest car fly!](http://9gag.com/gag/ad8A51V)
+ - 🚯 [This is why cats hate cucumbers](http://9gag.com/gag/aO3E7b3)<!-- MEMES:END -->
 
 --- 
 
