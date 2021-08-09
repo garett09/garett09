@@ -180,9 +180,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [China's tech companies, including Huawei and Kunlun, are quietly driving a revolution in Africa's fintech sector, investing in mobile payment apps and wallets (Jevans Nyabiage/South China Morning Post)](http://www.techmeme.com/210809/p14#a210809p14)
- - [Apple’s 2020 iPad Pro is $200 off at Best Buy today](https://www.theverge.com/2021/8/9/22616482/apple-2020-ipad-pro-200-off-sony-wh-1000xm3-1more-echo-show-8-sales-deals)
- - [As part of a lottery, Amazon will offer cash prizes up to $500K, cars, and vacation packages to warehouse employees who can prove they have been vaccinated (Matt Day/Bloomberg)](http://www.techmeme.com/210809/p13#a210809p13)<!-- TECH:END -->
+ - [How one founder bucked the data-driven trend and created a startup based on inspiration](http://feedproxy.google.com/~r/Techcrunch/~3/R6iQvZTy2u4/)
+ - [Changes to cryptocurrency tax rules could be too late for infrastructure vote](https://appleinsider.com/articles/21/08/09/changes-to-cryptocurrency-tax-rules-could-be-too-late-for-infrastructure-vote?utm_medium=rss)
+ - [When Amazon customers leave negative reviews, some sellers hound them to revise or delete them, in exchange for refunds or gift cards, violating Amazon policies (Nicole Nguyen/Wall Street Journal)](http://www.techmeme.com/210809/p17#a210809p17)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
