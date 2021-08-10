@@ -180,9 +180,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple 'poisoned the well' for client-side CSAM scanning, says former Facebook security chief](https://appleinsider.com/articles/21/08/10/apple-poisoned-the-well-for-client-side-csam-scanning-says-former-facebook-security-chief?utm_medium=rss)
- - [How to remove iCloud Activation Lock without password](https://appleinsider.com/articles/21/08/09/how-to-remove-icloud-activation-lock-without-password?utm_medium=rss)
- - [OwnBackup, which provides data backup and recovery tools for cloud providers, including Salesforce, raises $240M Series E at a $3.35B valuation (Paul Sawers/VentureBeat)](http://www.techmeme.com/210810/p19#a210810p19)<!-- TECH:END -->
+ - [Two AirTags used by security expert to track down stolen e-scooter](https://appleinsider.com/articles/21/08/10/two-airtags-used-by-security-expert-to-track-down-stolen-e-scooter?utm_medium=rss)
+ - [Gaming companies should avoid predatory designs, lawmakers say](https://www.theverge.com/2021/8/10/22618221/gaming-video-games-loot-box-blizzard-trahan-markey-castor)
+ - [Venmo to allow credit cardholders to automatically buy cryptocurrency with their cash back](http://feedproxy.google.com/~r/Techcrunch/~3/jC3GQ-J8dfI/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
