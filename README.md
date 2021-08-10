@@ -187,9 +187,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [That boulder has long history of anti-sedimentism](http://9gag.com/gag/aQobgAW)
- - 🚯 [You are on this council, but.... wait. NO you are not.](http://9gag.com/gag/a4Eg6b1)
- - 🚯 [Get a Siberian Husky they said, it would be fun they said](http://9gag.com/gag/aEpKMen)<!-- MEMES:END -->
+ - 🚖 [Jesus take the handlebar and guide me](http://9gag.com/gag/a5Eg6Xg)
+ - 🚯 [Get a Siberian Husky they said, it would be fun they said](http://9gag.com/gag/aEpKMen)
+ - 🚯 [You are on this council, but.... wait. NO you are not.](http://9gag.com/gag/a4Eg6b1)<!-- MEMES:END -->
 
 --- 
 
