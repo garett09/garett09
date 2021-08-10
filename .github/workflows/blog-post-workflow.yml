@@ -23,7 +23,7 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: MEMES
-          commit_message: "[AUTOMATED] New batch of memes  🖕🏻"
+          commit_message: "[AUTOMATED] New batch of memes"
           disable_sort: False
           max_post_count: 3
           committer_username: garett09
