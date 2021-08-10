@@ -180,9 +180,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - ['iPhone 13' adding ProRes video recording, doubling down on pro camera features](https://appleinsider.com/articles/21/08/10/iphone-13-adding-prores-video-recording-doubling-down-on-pro-camera-features?utm_medium=rss)
- - [Apple’s 2021 iPhones will reportedly have a video portrait mode](https://www.theverge.com/2021/8/10/22618070/apple-2021-iphone-13-camera-features-video-portrait-prores-ai-filters)
- - [iPhone demand could raise Apple's India revenue to $3B in 2021](https://appleinsider.com/articles/21/08/10/iphone-demand-could-raise-apples-india-revenue-to-3b-in-2021?utm_medium=rss)<!-- TECH:END -->
+ - [Apple 'poisoned the well' for client-side CSAM scanning, says former Facebook security chief](https://appleinsider.com/articles/21/08/10/apple-poisoned-the-well-for-client-side-csam-scanning-says-former-facebook-security-chief?utm_medium=rss)
+ - [How to remove iCloud Activation Lock without password](https://appleinsider.com/articles/21/08/09/how-to-remove-icloud-activation-lock-without-password?utm_medium=rss)
+ - [OwnBackup, which provides data backup and recovery tools for cloud providers, including Salesforce, raises $240M Series E at a $3.35B valuation (Paul Sawers/VentureBeat)](http://www.techmeme.com/210810/p19#a210810p19)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
