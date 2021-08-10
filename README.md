@@ -180,9 +180,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Asus ROG Phone 5S tipped for launch: How would it differ from ROG Phone 5?](https://www.androidauthority.com/asus-rog-phone-5s-2731952/)
- - [We asked, you told us: Here’s what you’d pay for the Pixel 6 Pro](https://www.androidauthority.com/google-pixel-6-pro-cost-poll-results-2731910/)
- - [Greece's catastrophic wildfires: Everything you need to know     - CNET](https://www.cnet.com/news/greeces-catastrophic-wildfires-everything-you-need-to-know/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Amazon says it will pay up to $1,000 in damages for dangerous goods sold by third-party merchants starting September 1 in the US (Dave Lee/Financial Times)](http://www.techmeme.com/210810/p5#a210810p5)
+ - [The NYPD Had a Secret Fund for Surveillance Tools](https://www.wired.com/story/nypd-secret-fund-surveillance-tools)
+ - [Omnibiz gets $3M to digitize Nigeria’s informal B2B supply chain](http://feedproxy.google.com/~r/Techcrunch/~3/snAJphwNN_M/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
