@@ -173,9 +173,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [AMD Radeon RX 6600 XT review](https://www.pcgamer.com/amd-radeon-rx-6600-xt-review-xfx-merc-308-benchmarks)
- - [Xbox Partners with Special Olympics for the Inaugural Gaming for Inclusion Esports Tournament](https://news.xbox.com/en-us/2021/08/10/xbox-and-the-special-olympics-gaming-for-inclusion-event/)
- - [Logitech's lightweight and sturdy G Pro wireless gaming mouse is on sale for $92](https://www.pcgamer.com/logitechs-lightweight-and-sturdy-g-pro-wireless-gaming-mouse-is-on-sale-for-dollar92)<!-- GAME:END -->
+ - [Windjammers 2 out soon on PS4 & PS5, open multiplayer Beta starts tomorrow](http://feedproxy.google.com/~r/PSBlog/~3/L0i5cprmkWY/)
+ - [Windjammers 2 out soon on PS4 & PS5, open multiplayer Beta starts tomorrow](https://blog.playstation.com/2021/08/10/windjammers-2-out-soon-on-ps4-ps5-open-multiplayer-beta-starts-tomorrow/)
+ - [Apple Is Bringing Back The Greatest Match-3 Franchise](https://kotaku.com/apple-is-bringing-back-the-greatest-match-3-franchise-1847456215)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
