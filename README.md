@@ -180,9 +180,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Two AirTags used by security expert to track down stolen e-scooter](https://appleinsider.com/articles/21/08/10/two-airtags-used-by-security-expert-to-track-down-stolen-e-scooter?utm_medium=rss)
- - [Gaming companies should avoid predatory designs, lawmakers say](https://www.theverge.com/2021/8/10/22618221/gaming-video-games-loot-box-blizzard-trahan-markey-castor)
- - [Venmo to allow credit cardholders to automatically buy cryptocurrency with their cash back](http://feedproxy.google.com/~r/Techcrunch/~3/jC3GQ-J8dfI/)<!-- TECH:END -->
+ - [COVID-19 misinformation is increasing amid US virus surge](https://www.theverge.com/22618249/covid-misinformation-surge-delta-russia-vaccine)
+ - [Venmo will let credit cardholders automatically buy cryptocurrency with the cash back they earn and says there will be no associated transaction fees (Sarah Perez/TechCrunch)](http://www.techmeme.com/210810/p26#a210810p26)
+ - [Amazon says it will now compensate consumers for defective products sold on its marketplace](http://feedproxy.google.com/~r/Techcrunch/~3/gDHQNHCVCmM/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
