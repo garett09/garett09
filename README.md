@@ -180,9 +180,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily Authority: Samsung Rollable 🗞️](https://www.androidauthority.com/newsletters/da-august-10-2021/)
- - [New MacBook Pro, iPad OLED screens may be supplied by Samsung](https://appleinsider.com/articles/21/08/10/new-macbook-pro-ipad-oled-screens-may-be-supplied-by-samsung?utm_medium=rss)
- - [Poll: What should be the minimum software upgrade period for any Android phone?](https://www.androidauthority.com/android-software-upgrades-poll-2731917/)<!-- TECH:END -->
+ - ['iPhone 13' adding ProRes video recording, doubling down on pro camera features](https://appleinsider.com/articles/21/08/10/iphone-13-adding-prores-video-recording-doubling-down-on-pro-camera-features?utm_medium=rss)
+ - [Apple’s 2021 iPhones will reportedly have a video portrait mode](https://www.theverge.com/2021/8/10/22618070/apple-2021-iphone-13-camera-features-video-portrait-prores-ai-filters)
+ - [iPhone demand could raise Apple's India revenue to $3B in 2021](https://appleinsider.com/articles/21/08/10/iphone-demand-could-raise-apples-india-revenue-to-3b-in-2021?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
