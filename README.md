@@ -173,9 +173,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [One of the Robins just came out of the closet](https://www.polygon.com/comics/22617395/robin-gay-queer-batman-dc-comics)
- - [You Should Try The Tales of Arise Demo To See How Far Series Has Come](https://kotaku.com/you-should-try-the-tales-of-arise-demo-to-see-how-far-s-1847458721)
- - [Superman's in Fortnite now, here's how to get him](https://www.pcgamer.com/superman-fortnite)<!-- GAME:END -->
+ - [Xbox Welcomes Developers Making Their First Console Game](https://news.xbox.com/en-us/2021/08/10/xbox-welcomes-developers-making-their-first-console-game/)
+ - [The World Of Warcraft Community Is In Shambles At The Moment](https://kotaku.com/the-world-of-warcraft-community-is-in-shambles-at-the-m-1847459420)
+ - [Dr Disrespect is starting his own game development studio](https://www.pcgamer.com/dr-disrespect-is-starting-his-own-game-development-studio)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
