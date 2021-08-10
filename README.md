@@ -180,9 +180,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [COVID-19 misinformation is increasing amid US virus surge](https://www.theverge.com/22618249/covid-misinformation-surge-delta-russia-vaccine)
- - [Venmo will let credit cardholders automatically buy cryptocurrency with the cash back they earn and says there will be no associated transaction fees (Sarah Perez/TechCrunch)](http://www.techmeme.com/210810/p26#a210810p26)
- - [Amazon says it will now compensate consumers for defective products sold on its marketplace](http://feedproxy.google.com/~r/Techcrunch/~3/gDHQNHCVCmM/)<!-- TECH:END -->
+ - [Apple issues fifth developer betas for iOS 15, iPadOS 15, tvOS 15](https://appleinsider.com/articles/21/08/10/apple-issues-fifth-developer-betas-for-ios-15-ipados-15-tvos-15?utm_medium=rss)
+ - [Group behind Poly Network, a cross-chain protocol used for DeFi applications, says a hacker has stolen $611M; one researcher blames the attack on a crypto flaw (Tim Copeland/The Block)](http://www.techmeme.com/210810/p32#a210810p32)
+ - [VCs are betting big on Kubernetes: Here are 5 reasons why](http://feedproxy.google.com/~r/Techcrunch/~3/6HlP9gvgzF4/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
