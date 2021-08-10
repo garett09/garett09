@@ -188,8 +188,8 @@ Linux                    16 mins             ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 🚖 [Age is only a number.](http://9gag.com/gag/ayMrqmX)
- - 🚯 [Our hero is excited about his upcoming project.](http://9gag.com/gag/aO3E21D)
- - 🚯 [Wholesome Christian anime](http://9gag.com/gag/abVDeOL)<!-- MEMES:END -->
+ - 🚯 [Guys Literally Only Want One Thing And It&#039;s F**king Adorable!](http://9gag.com/gag/anQZ7pE)
+ - 🚯 [Our hero is excited about his upcoming project.](http://9gag.com/gag/aO3E21D)<!-- MEMES:END -->
 
 --- 
 
