@@ -187,9 +187,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This basket, handmade in a village in Ghana, can be used to fetch and store water with no leakage, just like a bucket](http://9gag.com/gag/apN73WD)
- - 🚯 [LMFAO](http://9gag.com/gag/aXo3Vq9)
- - 🚯 [One of the most extraordinary films ever made!](http://9gag.com/gag/awMjmLD)<!-- MEMES:END -->
+ - 🚖 [I am not from Poland](http://9gag.com/gag/a6Eg9Pe)
+ - 🚯 [In light of recent events..](http://9gag.com/gag/awMj3WQ)
+ - 🚯 [Legit](http://9gag.com/gag/agB9O3r)<!-- MEMES:END -->
 
 --- 
 
