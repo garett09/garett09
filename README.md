@@ -173,9 +173,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Windjammers 2 out soon on PS4 & PS5, open multiplayer Beta starts tomorrow](http://feedproxy.google.com/~r/PSBlog/~3/L0i5cprmkWY/)
- - [Windjammers 2 out soon on PS4 & PS5, open multiplayer Beta starts tomorrow](https://blog.playstation.com/2021/08/10/windjammers-2-out-soon-on-ps4-ps5-open-multiplayer-beta-starts-tomorrow/)
- - [Apple Is Bringing Back The Greatest Match-3 Franchise](https://kotaku.com/apple-is-bringing-back-the-greatest-match-3-franchise-1847456215)<!-- GAME:END -->
+ - [5 Tips to survive your first year in survial city-builder Patron](https://www.pcgamer.com/5-tips-to-survive-your-first-year-in-survial-city-builder-patron)
+ - [How San Diego Studio Built Field of Dreams in MLB The Show 21](https://news.xbox.com/en-us/2021/08/10/how-san-diego-studio-built-field-of-dreams-in-mlb-the-show-21/)
+ - [These are the lost features of Windows 11 that passionate users are demanding return](https://www.pcgamer.com/these-are-the-lost-features-of-windows-11-that-passionate-users-are-demanding-return)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
