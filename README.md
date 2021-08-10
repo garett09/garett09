@@ -180,9 +180,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Asus ROG Phone 5S tipped for launch: How would it differ from ROG Phone 5?](https://www.androidauthority.com/asus-rog-phone-5s-2731952/)
  - [We asked, you told us: Here’s what you’d pay for the Pixel 6 Pro](https://www.androidauthority.com/google-pixel-6-pro-cost-poll-results-2731910/)
- - [Greece's catastrophic wildfires: Everything you need to know     - CNET](https://www.cnet.com/news/greeces-catastrophic-wildfires-everything-you-need-to-know/#ftag=CAD590a51e)
- - [Samsung unveils the 5nm Exynos W920 for wearables, featuring two Cortex-A55 cores and a Mali-G68 GPU, and claims 20% better CPU and 10x better GPU performance (Sam Byford/The Verge)](http://www.techmeme.com/210810/p3#a210810p3)<!-- TECH:END -->
+ - [Greece's catastrophic wildfires: Everything you need to know     - CNET](https://www.cnet.com/news/greeces-catastrophic-wildfires-everything-you-need-to-know/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
