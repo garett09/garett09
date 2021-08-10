@@ -187,9 +187,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This cant be true](http://9gag.com/gag/anQZz9E)
- - 🚯 [Canadian kindness](http://9gag.com/gag/aEpK0xn)
- - 🚯 [Classy Competition](http://9gag.com/gag/aV7rxBw)<!-- MEMES:END -->
+ - 🚖 [Drip too hard](http://9gag.com/gag/amPQoro)
+ - 🚯 [Bring the 90s back](http://9gag.com/gag/a8ENqVe)
+ - 🚯 [YouTube Survival Builders Aftermath...](http://9gag.com/gag/a7Ego1A)<!-- MEMES:END -->
 
 --- 
 
