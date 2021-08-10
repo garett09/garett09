@@ -180,9 +180,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The JRR Token cryptocurrency is almost certainly headed for Mt. Doom](https://www.theverge.com/2021/8/10/22608361/jrr-token-cryptocurrency-one-ring-lord-of-the-rings)
- - [NortonLifeLock says that it will merge with Avast in a cash and stock deal worth between $8.1B and $8.6B (Tiernan Ray/ZDNet)](http://www.techmeme.com/210810/p42#a210810p42)
- - [29% off the Samsung HW-A550 sound bar, and more sound bar deals](https://www.androidauthority.com/best-sound-bar-deals-1114174/)<!-- TECH:END -->
+ - [Facebook says it has removed a network of accounts from Russia linked to a UK marketing firm that pushed anti-vaccine content using Planet of the Apes memes (Elizabeth Culliford/Reuters)](http://www.techmeme.com/210810/p44#a210810p44)
+ - [Sources: FTC is reviewing Uber's partnership with delivery startup Gopuff on anti-competitive grounds, as well as its purchase of alcohol delivery firm Drizly (The Information)](http://www.techmeme.com/210810/p43#a210810p43)
+ - [Code in iOS 15 details AirPods Pro, Max integration with Apple's Find My network](https://appleinsider.com/articles/21/08/10/code-in-ios-15-details-airpods-pro-max-integration-with-apples-find-my-network?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
