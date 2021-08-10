@@ -180,9 +180,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon says it will pay up to $1,000 in damages for dangerous goods sold by third-party merchants starting September 1 in the US (Dave Lee/Financial Times)](http://www.techmeme.com/210810/p5#a210810p5)
- - [The NYPD Had a Secret Fund for Surveillance Tools](https://www.wired.com/story/nypd-secret-fund-surveillance-tools)
- - [Omnibiz gets $3M to digitize Nigeria’s informal B2B supply chain](http://feedproxy.google.com/~r/Techcrunch/~3/snAJphwNN_M/)<!-- TECH:END -->
+ - [Here’s what Samsung may have in store for its first rollable phone](https://www.androidauthority.com/samsung-rollable-phone-design-2731982/)
+ - [Google will bring its VPN, available on Google One plans with over 2TB of storage, to Canada, Mexico, UK, France, Germany, Spain, and Italy (Abner Li/9to5Google)](http://www.techmeme.com/210810/p8#a210810p8)
+ - [Twitter’s photo-cropping algorithm prefers young, beautiful, and light-skinned faces](https://www.theverge.com/2021/8/10/22617972/twitter-photo-cropping-algorithm-ai-bias-bug-bounty-results)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
