@@ -180,9 +180,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [What’s driving the global surge in retail media spending?](http://feedproxy.google.com/~r/Techcrunch/~3/dkZN11OR_eY/)
- - [Memestock AMC now plans to accept Bitcoin](https://www.theverge.com/2021/8/10/22617594/amc-bitcoin-memestock-apple-google-pay)
- - [Activision Blizzard shareholder says company’s response doesn’t ‘go nearly far enough’](https://www.theverge.com/2021/8/10/22618776/activision-blizzard-shareholder-letter-soc-investment-group)<!-- TECH:END -->
+ - [The JRR Token cryptocurrency is almost certainly headed for Mt. Doom](https://www.theverge.com/2021/8/10/22608361/jrr-token-cryptocurrency-one-ring-lord-of-the-rings)
+ - [NortonLifeLock says that it will merge with Avast in a cash and stock deal worth between $8.1B and $8.6B (Tiernan Ray/ZDNet)](http://www.techmeme.com/210810/p42#a210810p42)
+ - [29% off the Samsung HW-A550 sound bar, and more sound bar deals](https://www.androidauthority.com/best-sound-bar-deals-1114174/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
