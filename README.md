@@ -180,9 +180,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Funimation and Crunchyroll merger: What it means and what happens next?     - CNET](https://www.cnet.com/news/funimation-and-crunchyroll-merger-what-it-means-and-what-happens-next/#ftag=CAD590a51e)
- - [Cybersecurity firm Proofpoint has dismissed its lawsuit against Facebook and has agreed to transfer a series of disputed phishing test domains to Facebook (Catalin Cimpanu/The Record)](http://www.techmeme.com/210809/p29#a210809p29)
- - [Marvel reportedly pays comic book writers just $5K for storylines used in movies     - CNET](https://www.cnet.com/news/marvel-reportedly-pays-comic-book-writers-just-5k-for-storylines-used-in-movies/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [CoinDCX raises $90M Series C led by B Capital Group at a valuation of $1.1B, becoming the first Indian cryptocurrency exchange to reach unicorn status (Suvashree Ghosh/Bloomberg)](http://www.techmeme.com/210809/p30#a210809p30)
+ - [Free AirPods offer incentivizes youth vaccinations in Washington, DC](https://appleinsider.com/articles/21/08/10/free-airpods-offer-incentivizes-youth-vaccinations-in-washington-dc?utm_medium=rss)
+ - [Hulu: The 10 best films to see this week     - CNET](https://www.cnet.com/news/hulu-the-10-best-films-to-see-this-week/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
