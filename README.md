@@ -180,9 +180,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Funimation and Crunchyroll merger: What it means and what happens next?     - CNET](https://www.cnet.com/news/funimation-and-crunchyroll-merger-what-it-means-and-what-happens-next/#ftag=CAD590a51e)
  - [Cybersecurity firm Proofpoint has dismissed its lawsuit against Facebook and has agreed to transfer a series of disputed phishing test domains to Facebook (Catalin Cimpanu/The Record)](http://www.techmeme.com/210809/p29#a210809p29)
- - [Jack Dorsey says Bitcoin will unite the world, but doesn’t say how](https://www.theverge.com/2021/8/9/22617551/jack-dorsey-bitcoin-unite-country-world-peace-cryptocurrency)
- - [Movie theater giant AMC to accept Apple Pay by 2022](https://appleinsider.com/articles/21/08/10/movie-theater-giant-amc-to-accept-apple-pay-by-2022?utm_medium=rss)<!-- TECH:END -->
+ - [Marvel reportedly pays comic book writers just $5K for storylines used in movies     - CNET](https://www.cnet.com/news/marvel-reportedly-pays-comic-book-writers-just-5k-for-storylines-used-in-movies/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
