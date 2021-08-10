@@ -180,9 +180,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twelve South SurfacePad review: MagSafe support helps this incredible iPhone cover](https://appleinsider.com/articles/21/08/10/twelve-south-surfacepad-review-magsafe-support-helps-this-incredible-iphone-cover?utm_medium=rss)
- - [Galaxy S21 FE rumors: Samsung may have leaked its new phone on Instagram     - CNET](https://www.cnet.com/tech/mobile/galaxy-s21-fe-rumors-samsung-may-have-leaked-its-new-phone-on-instagram/#ftag=CAD590a51e)
- - [Amazon Deals: Save $100 on Apple's M1 iPad Pro, priced from $699](https://appleinsider.com/articles/21/08/10/amazon-deals-save-100-on-apples-m1-ipad-pro-priced-from-699?utm_medium=rss)<!-- TECH:END -->
+ - [What’s driving the global surge in retail media spending?](http://feedproxy.google.com/~r/Techcrunch/~3/dkZN11OR_eY/)
+ - [Memestock AMC now plans to accept Bitcoin](https://www.theverge.com/2021/8/10/22617594/amc-bitcoin-memestock-apple-google-pay)
+ - [Activision Blizzard shareholder says company’s response doesn’t ‘go nearly far enough’](https://www.theverge.com/2021/8/10/22618776/activision-blizzard-shareholder-letter-soc-investment-group)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
