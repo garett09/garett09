@@ -187,9 +187,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Age is only a number.](http://9gag.com/gag/ayMrqmX)
- - 🚯 [Guys Literally Only Want One Thing And It&#039;s F**king Adorable!](http://9gag.com/gag/anQZ7pE)
- - 🚯 [Our hero is excited about his upcoming project.](http://9gag.com/gag/aO3E21D)<!-- MEMES:END -->
+ - 🚖 [Get a Siberian Husky they said, it would be fun they said](http://9gag.com/gag/aEpKMen)
+ - 🚯 [Our hero is excited about his upcoming project.](http://9gag.com/gag/aO3E21D)
+ - 🚯 [That boulder has long history of anti-sedimentism](http://9gag.com/gag/aQobgAW)<!-- MEMES:END -->
 
 --- 
 
