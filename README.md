@@ -187,9 +187,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Leslie nielsen and his](http://9gag.com/gag/aB2zVmZ)
- - 🚯 [I am not from Poland](http://9gag.com/gag/a6Eg9Pe)
- - 🚯 [One of the most extraordinary films ever made!](http://9gag.com/gag/awMjmLD)<!-- MEMES:END -->
+ - 🚖 [I&#039;m 31, first apartment, not much only one room and bathroom but i am proud of it!](http://9gag.com/gag/aGpvG0w)
+ - 🚯 [This guy goes to all the neighbours and begs for food, as you can tell by his weight.](http://9gag.com/gag/amPQm8V)
+ - 🚯 [LMFAO](http://9gag.com/gag/aXo3Vq9)<!-- MEMES:END -->
 
 --- 
 
