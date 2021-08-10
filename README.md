@@ -187,9 +187,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Baklava is probably more famous tho](http://9gag.com/gag/aEpKp9O)
- - 🚯 [This b*tch is outta control](http://9gag.com/gag/azMy2Xx)
- - 🚯 [Bring the 90s back](http://9gag.com/gag/a8ENqVe)<!-- MEMES:END -->
+ - 🚖 [Feeding big cats](http://9gag.com/gag/aV7rx6P)
+ - 🚯 [This cant be true](http://9gag.com/gag/anQZz9E)
+ - 🚯 [Practice makes perfect! I thought you would minimum need a small orchestra to play Vivaldi&#039;s four seasons. Alexandr Hrustevich proofed me wrong. Simply incredible...](http://9gag.com/gag/ayMrN8r)<!-- MEMES:END -->
 
 --- 
 
