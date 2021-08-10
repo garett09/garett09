@@ -187,9 +187,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Bring the 90s back](http://9gag.com/gag/a8ENqVe)
- - 🚯 [This b*tch is outta control](http://9gag.com/gag/azMy2Xx)
- - 🚯 [YouTube Survival Builders Aftermath...](http://9gag.com/gag/a7Ego1A)<!-- MEMES:END -->
+ - 🚖 [No need a Special Costume](http://9gag.com/gag/aB2zyA1)
+ - 🚯 [YouTube Survival Builders Aftermath...](http://9gag.com/gag/a7Ego1A)
+ - 🚯 [I&rsquo;d say](http://9gag.com/gag/aNpMDgb)<!-- MEMES:END -->
 
 --- 
 
