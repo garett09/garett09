@@ -180,9 +180,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [FreshBooks, a Toronto-based cloud accounting software company focused on SMBs, raises $80.75M Series E led by Accomplice at a $1B+ valuation (Mary Ann Azevedo/TechCrunch)](http://www.techmeme.com/210810/p2#a210810p2)
- - [Here’s why we don’t see more PC and console games ported to Shield TV](https://www.androidauthority.com/nvidia-shield-tv-pc-console-ports-2731104/)
- - [Samsung’s new Galaxy Watch 4 chipset is a giant leap for Wear OS smartwatches](https://www.androidauthority.com/samsung-exynos-w920-galaxy-watch-4-2731868/)<!-- TECH:END -->
+ - [We asked, you told us: Here’s what you’d pay for the Pixel 6 Pro](https://www.androidauthority.com/google-pixel-6-pro-cost-poll-results-2731910/)
+ - [Greece's catastrophic wildfires: Everything you need to know     - CNET](https://www.cnet.com/news/greeces-catastrophic-wildfires-everything-you-need-to-know/#ftag=CAD590a51e)
+ - [Samsung unveils the 5nm Exynos W920 for wearables, featuring two Cortex-A55 cores and a Mali-G68 GPU, and claims 20% better CPU and 10x better GPU performance (Sam Byford/The Verge)](http://www.techmeme.com/210810/p3#a210810p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
