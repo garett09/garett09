@@ -180,9 +180,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple removes 'iDOS 2' from iOS App Store](https://appleinsider.com/articles/21/08/09/apple-removes-idos-2-from-ios-app-store?utm_medium=rss)
- - [A new Lamborghini Countach is coming, and it might be a hybrid](https://www.theverge.com/2021/8/9/22616693/lamborghini-countach-teaser-hybrid-supercar)
- - [Marvel's What If...? release dates: When does episode 1 hit Disney Plus?     - CNET](https://www.cnet.com/news/marvels-what-if-release-dates-when-does-episode-1-hit-disney-plus/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Cybersecurity firm Proofpoint has dismissed its lawsuit against Facebook and has agreed to transfer a series of disputed phishing test domains to Facebook (Catalin Cimpanu/The Record)](http://www.techmeme.com/210809/p29#a210809p29)
+ - [Jack Dorsey says Bitcoin will unite the world, but doesn’t say how](https://www.theverge.com/2021/8/9/22617551/jack-dorsey-bitcoin-unite-country-world-peace-cryptocurrency)
+ - [Movie theater giant AMC to accept Apple Pay by 2022](https://appleinsider.com/articles/21/08/10/movie-theater-giant-amc-to-accept-apple-pay-by-2022?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
