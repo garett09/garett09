@@ -180,9 +180,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple issues fifth developer betas for iOS 15, iPadOS 15, tvOS 15](https://appleinsider.com/articles/21/08/10/apple-issues-fifth-developer-betas-for-ios-15-ipados-15-tvos-15?utm_medium=rss)
- - [Group behind Poly Network, a cross-chain protocol used for DeFi applications, says a hacker has stolen $611M; one researcher blames the attack on a crypto flaw (Tim Copeland/The Block)](http://www.techmeme.com/210810/p32#a210810p32)
- - [VCs are betting big on Kubernetes: Here are 5 reasons why](http://feedproxy.google.com/~r/Techcrunch/~3/6HlP9gvgzF4/)<!-- TECH:END -->
+ - [Twelve South SurfacePad review: MagSafe support helps this incredible iPhone cover](https://appleinsider.com/articles/21/08/10/twelve-south-surfacepad-review-magsafe-support-helps-this-incredible-iphone-cover?utm_medium=rss)
+ - [Galaxy S21 FE rumors: Samsung may have leaked its new phone on Instagram     - CNET](https://www.cnet.com/tech/mobile/galaxy-s21-fe-rumors-samsung-may-have-leaked-its-new-phone-on-instagram/#ftag=CAD590a51e)
+ - [Amazon Deals: Save $100 on Apple's M1 iPad Pro, priced from $699](https://appleinsider.com/articles/21/08/10/amazon-deals-save-100-on-apples-m1-ipad-pro-priced-from-699?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
