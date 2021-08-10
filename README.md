@@ -187,9 +187,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Feeding big cats](http://9gag.com/gag/aV7rx6P)
- - 🚯 [This cant be true](http://9gag.com/gag/anQZz9E)
- - 🚯 [Practice makes perfect! I thought you would minimum need a small orchestra to play Vivaldi&#039;s four seasons. Alexandr Hrustevich proofed me wrong. Simply incredible...](http://9gag.com/gag/ayMrN8r)<!-- MEMES:END -->
+ - 🚖 [I&rsquo;d say](http://9gag.com/gag/aNpMDgb)
+ - 🚯 [How to start bad day](http://9gag.com/gag/aYo6r1v)
+ - 🚯 [This cant be true](http://9gag.com/gag/anQZz9E)<!-- MEMES:END -->
 
 --- 
 
