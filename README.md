@@ -173,9 +173,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Fallout tabletop RPG emerges from the vaults](https://www.pcgamer.com/the-fallout-tabletop-rpg-emerges-from-the-vaults)
- - [Soar around Skyrim with Link’s Breath of the Wild paraglider](https://www.polygon.com/22618998/zelda-breath-of-the-wild-skyrim-mod-paraglider)
- - [Players are unhappy about Rocket League's new casual mode rules](https://www.pcgamer.com/players-are-unhappy-about-rocket-leagues-new-casual-mode-rules)<!-- GAME:END -->
+ - [Assassin's Creed: Brotherhood Of Venice: The Kotaku Review](https://kotaku.com/assassins-creed-brotherhood-of-venice-the-kotaku-revi-1847405708)
+ - [Diablo 2: Resurrected open beta kicks off next week, but some players will get in sooner](https://www.pcgamer.com/diablo-2-resurrected-open-beta-kicks-off-next-week-but-some-players-will-get-in-sooner)
+ - [The Ascent Looks Fantastic In First-Person](https://kotaku.com/the-ascent-looks-fantastic-in-first-person-1847461734)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
