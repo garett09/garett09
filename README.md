@@ -173,9 +173,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Valorant’s latest patch is secretly a huge Viper nerf](https://www.polygon.com/22618382/valorant-patch-3-03-notes-changes-viper-nerf-custom-crosshair-sharing)
- - [It’s OK to be horny for the villain](https://www.polygon.com/22618379/great-villains-sex-appeal-thirst)
- - [Streamers Are Rallying Behind ‘Twitch Do Better’](https://kotaku.com/streamers-are-rallying-behind-twitch-do-better-1847458046)<!-- GAME:END -->
+ - [One of the Robins just came out of the closet](https://www.polygon.com/comics/22617395/robin-gay-queer-batman-dc-comics)
+ - [You Should Try The Tales of Arise Demo To See How Far Series Has Come](https://kotaku.com/you-should-try-the-tales-of-arise-demo-to-see-how-far-s-1847458721)
+ - [Superman's in Fortnite now, here's how to get him](https://www.pcgamer.com/superman-fortnite)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
