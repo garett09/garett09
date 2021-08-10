@@ -173,9 +173,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [PAX Australia Has Been Cancelled, Will Be Replaced With Online Show](https://kotaku.com/pax-australia-has-been-cancelled-will-be-replaced-with-1847454172)
- - [Aorus Upgrade Pack competition winner](https://www.pcgamer.com/aorus-upgrade-pack-competition-winner)
- - [Rocket League's next season starts this week, brings cowboy stuff](https://www.pcgamer.com/rocket-leagues-next-season-starts-this-week-brings-cowboy-stuff)<!-- GAME:END -->
+ - [We Finally Know SOMETHING About The New Super Mario Bros. Movie](https://kotaku.com/we-finally-know-something-about-the-new-super-mario-bro-1847454059)
+ - [PAX Australia 2021 is cancelled](https://www.pcgamer.com/pax-australia-2021-is-cancelled)
+ - [PAX Australia Has Been Cancelled, Will Be Replaced With Online Show](https://kotaku.com/pax-australia-has-been-cancelled-will-be-replaced-with-1847454172)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
