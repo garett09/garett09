@@ -173,9 +173,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [(For Southeast Asia) PS4® “SUPER ROBOT WARS 30” release date is set for 28 October!](https://blog.playstation.com/2021/08/10/20210810-srw30/)
- - [Best power supply for PC gaming](https://www.pcgamer.com/best-power-supply-unit-for-pc-gaming-our-top-psu-for-pc)
- - [One Of The Wildest Console Hacks Ever](https://kotaku.com/one-of-the-wildest-console-hacks-ever-1847455427)<!-- GAME:END -->
+ - [Best AMD motherboards in 2021](https://www.pcgamer.com/best-AMD-motherboards)
+ - [Upgraded Aya Neo Pro costs almost double the most expensive Steam Deck](https://www.pcgamer.com/upgraded-aya-neo-pro-costs-almost-double-the-most-expensive-steam-deck)
+ - [Matt Damon is a huge Myst fan, didn't want The Bourne Conspiracy to be an FPS](https://www.pcgamer.com/matt-damon-is-a-huge-myst-fan-didnt-want-the-bourne-conspiracy-to-be-an-fps)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
