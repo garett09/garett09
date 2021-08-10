@@ -180,9 +180,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [CoinDCX raises $90M Series C led by B Capital Group at a valuation of $1.1B, becoming the first Indian cryptocurrency exchange to reach unicorn status (Suvashree Ghosh/Bloomberg)](http://www.techmeme.com/210809/p30#a210809p30)
- - [Free AirPods offer incentivizes youth vaccinations in Washington, DC](https://appleinsider.com/articles/21/08/10/free-airpods-offer-incentivizes-youth-vaccinations-in-washington-dc?utm_medium=rss)
- - [Hulu: The 10 best films to see this week     - CNET](https://www.cnet.com/news/hulu-the-10-best-films-to-see-this-week/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [24-hour Flash Deal: Apple's Intel Mac mini discounted to $499](https://appleinsider.com/articles/21/08/10/24-hour-flash-deal-apples-intel-mac-mini-discounted-to-499?utm_medium=rss)
+ - [Latent AI, which says it can compress common AI models by 10x, lands some key backing](http://feedproxy.google.com/~r/Techcrunch/~3/BSM7udb1bgM/)
+ - [The new Parallels 17 officially lets you run Windows 11 on your Mac](https://www.theverge.com/2021/8/10/22617544/parallels-17-mac-windows-11-preview-emulation-performance-upgrades)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
