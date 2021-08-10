@@ -187,9 +187,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Fixing a common door problem!](http://9gag.com/gag/apN73jB)
- - 🚯 [When you&#039;re too busy f**king in highschool](http://9gag.com/gag/a9Ew64j)
- - 🚯 [Why](http://9gag.com/gag/aRXW41A)<!-- MEMES:END -->
+ - 🚖 [This basket, handmade in a village in Ghana, can be used to fetch and store water with no leakage, just like a bucket](http://9gag.com/gag/apN73WD)
+ - 🚯 [LMFAO](http://9gag.com/gag/aXo3Vq9)
+ - 🚯 [One of the most extraordinary films ever made!](http://9gag.com/gag/awMjmLD)<!-- MEMES:END -->
 
 --- 
 
