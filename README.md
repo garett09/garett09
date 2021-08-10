@@ -187,9 +187,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [No need a Special Costume](http://9gag.com/gag/aB2zyA1)
- - 🚯 [YouTube Survival Builders Aftermath...](http://9gag.com/gag/a7Ego1A)
- - 🚯 [I&rsquo;d say](http://9gag.com/gag/aNpMDgb)<!-- MEMES:END -->
+ - 🚖 [You will be fine. It has began](http://9gag.com/gag/aNpMLD4)
+ - 🚯 [I&rsquo;d say](http://9gag.com/gag/aNpMDgb)
+ - 🚯 [Wholesome Christian anime](http://9gag.com/gag/abVDeOL)<!-- MEMES:END -->
 
 --- 
 
