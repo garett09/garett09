@@ -173,9 +173,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Welcomes Developers Making Their First Console Game](https://news.xbox.com/en-us/2021/08/10/xbox-welcomes-developers-making-their-first-console-game/)
- - [The World Of Warcraft Community Is In Shambles At The Moment](https://kotaku.com/the-world-of-warcraft-community-is-in-shambles-at-the-m-1847459420)
- - [Dr Disrespect is starting his own game development studio](https://www.pcgamer.com/dr-disrespect-is-starting-his-own-game-development-studio)<!-- GAME:END -->
+ - [The Fallout tabletop RPG emerges from the vaults](https://www.pcgamer.com/the-fallout-tabletop-rpg-emerges-from-the-vaults)
+ - [Soar around Skyrim with Link’s Breath of the Wild paraglider](https://www.polygon.com/22618998/zelda-breath-of-the-wild-skyrim-mod-paraglider)
+ - [Players are unhappy about Rocket League's new casual mode rules](https://www.pcgamer.com/players-are-unhappy-about-rocket-leagues-new-casual-mode-rules)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
