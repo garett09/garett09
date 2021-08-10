@@ -187,8 +187,8 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [You are on this council, but.... wait. NO you are not.](http://9gag.com/gag/a4Eg6b1)
- - 🚯 [Smooth compilation](http://9gag.com/gag/aDd979B)
+ - 🚖 [Fixing a common door problem!](http://9gag.com/gag/apN73jB)
+ - 🚯 [Good old fashion equality](http://9gag.com/gag/a1rg7mw)
  - 🚯 [When you&#039;re too busy f**king in highschool](http://9gag.com/gag/a9Ew64j)<!-- MEMES:END -->
 
 --- 
