@@ -180,9 +180,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s what Samsung may have in store for its first rollable phone](https://www.androidauthority.com/samsung-rollable-phone-design-2731982/)
- - [Google will bring its VPN, available on Google One plans with over 2TB of storage, to Canada, Mexico, UK, France, Germany, Spain, and Italy (Abner Li/9to5Google)](http://www.techmeme.com/210810/p8#a210810p8)
- - [Twitter’s photo-cropping algorithm prefers young, beautiful, and light-skinned faces](https://www.theverge.com/2021/8/10/22617972/twitter-photo-cropping-algorithm-ai-bias-bug-bounty-results)<!-- TECH:END -->
+ - [Daily Authority: Samsung Rollable 🗞️](https://www.androidauthority.com/newsletters/da-august-10-2021/)
+ - [New MacBook Pro, iPad OLED screens may be supplied by Samsung](https://appleinsider.com/articles/21/08/10/new-macbook-pro-ipad-oled-screens-may-be-supplied-by-samsung?utm_medium=rss)
+ - [Poll: What should be the minimum software upgrade period for any Android phone?](https://www.androidauthority.com/android-software-upgrades-poll-2731917/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
