@@ -187,8 +187,8 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [You will be fine. It has began](http://9gag.com/gag/aNpMLD4)
- - 🚯 [I&rsquo;d say](http://9gag.com/gag/aNpMDgb)
+ - 🚖 [Age is only a number.](http://9gag.com/gag/ayMrqmX)
+ - 🚯 [Our hero is excited about his upcoming project.](http://9gag.com/gag/aO3E21D)
  - 🚯 [Wholesome Christian anime](http://9gag.com/gag/abVDeOL)<!-- MEMES:END -->
 
 --- 
