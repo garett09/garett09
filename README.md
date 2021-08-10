@@ -173,9 +173,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Sony Now Owns Anime Site Crunchyroll](https://kotaku.com/sony-now-owns-anime-site-crunchyroll-1847454789)
- - [We Finally Know SOMETHING About The New Super Mario Bros. Movie](https://kotaku.com/we-finally-know-something-about-the-new-super-mario-bro-1847454059)
- - [PAX Australia 2021 is cancelled](https://www.pcgamer.com/pax-australia-2021-is-cancelled)<!-- GAME:END -->
+ - [(For Southeast Asia) PS4® “SUPER ROBOT WARS 30” release date is set for 28 October!](https://blog.playstation.com/2021/08/10/20210810-srw30/)
+ - [Best power supply for PC gaming](https://www.pcgamer.com/best-power-supply-unit-for-pc-gaming-our-top-psu-for-pc)
+ - [One Of The Wildest Console Hacks Ever](https://kotaku.com/one-of-the-wildest-console-hacks-ever-1847455427)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
