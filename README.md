@@ -180,9 +180,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [24-hour Flash Deal: Apple's Intel Mac mini discounted to $499](https://appleinsider.com/articles/21/08/10/24-hour-flash-deal-apples-intel-mac-mini-discounted-to-499?utm_medium=rss)
- - [Latent AI, which says it can compress common AI models by 10x, lands some key backing](http://feedproxy.google.com/~r/Techcrunch/~3/BSM7udb1bgM/)
- - [The new Parallels 17 officially lets you run Windows 11 on your Mac](https://www.theverge.com/2021/8/10/22617544/parallels-17-mac-windows-11-preview-emulation-performance-upgrades)<!-- TECH:END -->
+ - [FreshBooks reaches $1B+ valuation with $130.75M for its SMB-focused accounting platform](http://feedproxy.google.com/~r/Techcrunch/~3/Un9phborU58/)
+ - [Samsung details new smartwatch chip ahead of Galaxy Watch 4 launch](https://www.theverge.com/2021/8/10/22617873/samsung-exynos-w920-chip-announced-galaxy-watch-4)
+ - [24-hour Flash Deal: Apple's Intel Mac mini discounted to $499](https://appleinsider.com/articles/21/08/10/24-hour-flash-deal-apples-intel-mac-mini-discounted-to-499?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
