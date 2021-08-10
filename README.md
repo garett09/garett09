@@ -173,9 +173,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Best AMD motherboards in 2021](https://www.pcgamer.com/best-AMD-motherboards)
- - [Upgraded Aya Neo Pro costs almost double the most expensive Steam Deck](https://www.pcgamer.com/upgraded-aya-neo-pro-costs-almost-double-the-most-expensive-steam-deck)
- - [Matt Damon is a huge Myst fan, didn't want The Bourne Conspiracy to be an FPS](https://www.pcgamer.com/matt-damon-is-a-huge-myst-fan-didnt-want-the-bourne-conspiracy-to-be-an-fps)<!-- GAME:END -->
+ - [AMD Radeon RX 6600 XT review](https://www.pcgamer.com/amd-radeon-rx-6600-xt-review-xfx-merc-308-benchmarks)
+ - [Xbox Partners with Special Olympics for the Inaugural Gaming for Inclusion Esports Tournament](https://news.xbox.com/en-us/2021/08/10/xbox-and-the-special-olympics-gaming-for-inclusion-event/)
+ - [Logitech's lightweight and sturdy G Pro wireless gaming mouse is on sale for $92](https://www.pcgamer.com/logitechs-lightweight-and-sturdy-g-pro-wireless-gaming-mouse-is-on-sale-for-dollar92)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
