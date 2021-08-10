@@ -173,9 +173,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Consoles Are Getting A 'Night Mode' To Help Your Tired Eyes](https://kotaku.com/xbox-consoles-are-getting-a-night-mode-to-help-your-tir-1847453592)
- - [Cookie Clicker is coming to Steam](https://www.pcgamer.com/cookie-clicker-is-coming-to-steam)
- - [EVE Online's record-setting war ends with a whimper](https://www.pcgamer.com/eve-onlines-record-setting-war-ends-with-a-whimper)<!-- GAME:END -->
+ - [PAX Australia Has Been Cancelled, Will Be Replaced With Online Show](https://kotaku.com/pax-australia-has-been-cancelled-will-be-replaced-with-1847454172)
+ - [Aorus Upgrade Pack competition winner](https://www.pcgamer.com/aorus-upgrade-pack-competition-winner)
+ - [Rocket League's next season starts this week, brings cowboy stuff](https://www.pcgamer.com/rocket-leagues-next-season-starts-this-week-brings-cowboy-stuff)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
