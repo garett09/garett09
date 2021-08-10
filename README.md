@@ -187,9 +187,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I&rsquo;d say](http://9gag.com/gag/aNpMDgb)
- - 🚯 [How to start bad day](http://9gag.com/gag/aYo6r1v)
- - 🚯 [This cant be true](http://9gag.com/gag/anQZz9E)<!-- MEMES:END -->
+ - 🚖 [This cant be true](http://9gag.com/gag/anQZz9E)
+ - 🚯 [Canadian kindness](http://9gag.com/gag/aEpK0xn)
+ - 🚯 [Classy Competition](http://9gag.com/gag/aV7rxBw)<!-- MEMES:END -->
 
 --- 
 
