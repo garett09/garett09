@@ -187,8 +187,8 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Drip too hard](http://9gag.com/gag/amPQoro)
- - 🚯 [Bring the 90s back](http://9gag.com/gag/a8ENqVe)
+ - 🚖 [Bring the 90s back](http://9gag.com/gag/a8ENqVe)
+ - 🚯 [This b*tch is outta control](http://9gag.com/gag/azMy2Xx)
  - 🚯 [YouTube Survival Builders Aftermath...](http://9gag.com/gag/a7Ego1A)<!-- MEMES:END -->
 
 --- 
