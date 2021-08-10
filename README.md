@@ -173,9 +173,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Sony Now Owns Anime Site Crunchyroll](https://kotaku.com/sony-now-owns-anime-site-crunchyroll-1847454789)
  - [We Finally Know SOMETHING About The New Super Mario Bros. Movie](https://kotaku.com/we-finally-know-something-about-the-new-super-mario-bro-1847454059)
- - [PAX Australia 2021 is cancelled](https://www.pcgamer.com/pax-australia-2021-is-cancelled)
- - [PAX Australia Has Been Cancelled, Will Be Replaced With Online Show](https://kotaku.com/pax-australia-has-been-cancelled-will-be-replaced-with-1847454172)<!-- GAME:END -->
+ - [PAX Australia 2021 is cancelled](https://www.pcgamer.com/pax-australia-2021-is-cancelled)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
