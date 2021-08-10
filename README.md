@@ -187,9 +187,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I am not from Poland](http://9gag.com/gag/a6Eg9Pe)
- - 🚯 [In light of recent events..](http://9gag.com/gag/awMj3WQ)
- - 🚯 [Legit](http://9gag.com/gag/agB9O3r)<!-- MEMES:END -->
+ - 🚖 [Leslie nielsen and his](http://9gag.com/gag/aB2zVmZ)
+ - 🚯 [I am not from Poland](http://9gag.com/gag/a6Eg9Pe)
+ - 🚯 [One of the most extraordinary films ever made!](http://9gag.com/gag/awMjmLD)<!-- MEMES:END -->
 
 --- 
 
