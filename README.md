@@ -188,8 +188,8 @@ Linux                    16 mins             ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 🚖 [Fixing a common door problem!](http://9gag.com/gag/apN73jB)
- - 🚯 [Good old fashion equality](http://9gag.com/gag/a1rg7mw)
- - 🚯 [When you&#039;re too busy f**king in highschool](http://9gag.com/gag/a9Ew64j)<!-- MEMES:END -->
+ - 🚯 [When you&#039;re too busy f**king in highschool](http://9gag.com/gag/a9Ew64j)
+ - 🚯 [Why](http://9gag.com/gag/aRXW41A)<!-- MEMES:END -->
 
 --- 
 
