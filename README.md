@@ -173,9 +173,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [5 Tips to survive your first year in survial city-builder Patron](https://www.pcgamer.com/5-tips-to-survive-your-first-year-in-survial-city-builder-patron)
- - [How San Diego Studio Built Field of Dreams in MLB The Show 21](https://news.xbox.com/en-us/2021/08/10/how-san-diego-studio-built-field-of-dreams-in-mlb-the-show-21/)
- - [These are the lost features of Windows 11 that passionate users are demanding return](https://www.pcgamer.com/these-are-the-lost-features-of-windows-11-that-passionate-users-are-demanding-return)<!-- GAME:END -->
+ - [Valorant’s latest patch is secretly a huge Viper nerf](https://www.polygon.com/22618382/valorant-patch-3-03-notes-changes-viper-nerf-custom-crosshair-sharing)
+ - [It’s OK to be horny for the villain](https://www.polygon.com/22618379/great-villains-sex-appeal-thirst)
+ - [Streamers Are Rallying Behind ‘Twitch Do Better’](https://kotaku.com/streamers-are-rallying-behind-twitch-do-better-1847458046)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
