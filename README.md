@@ -180,9 +180,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [FreshBooks reaches $1B+ valuation with $130.75M for its SMB-focused accounting platform](http://feedproxy.google.com/~r/Techcrunch/~3/Un9phborU58/)
- - [Samsung details new smartwatch chip ahead of Galaxy Watch 4 launch](https://www.theverge.com/2021/8/10/22617873/samsung-exynos-w920-chip-announced-galaxy-watch-4)
- - [24-hour Flash Deal: Apple's Intel Mac mini discounted to $499](https://appleinsider.com/articles/21/08/10/24-hour-flash-deal-apples-intel-mac-mini-discounted-to-499?utm_medium=rss)<!-- TECH:END -->
+ - [FreshBooks, a Toronto-based cloud accounting software company focused on SMBs, raises $80.75M Series E led by Accomplice at a $1B+ valuation (Mary Ann Azevedo/TechCrunch)](http://www.techmeme.com/210810/p2#a210810p2)
+ - [Here’s why we don’t see more PC and console games ported to Shield TV](https://www.androidauthority.com/nvidia-shield-tv-pc-console-ports-2731104/)
+ - [Samsung’s new Galaxy Watch 4 chipset is a giant leap for Wear OS smartwatches](https://www.androidauthority.com/samsung-exynos-w920-galaxy-watch-4-2731868/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
