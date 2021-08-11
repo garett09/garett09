@@ -180,9 +180,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy Buds 2 hands-on: A watered down version of the Buds Pro](https://www.androidauthority.com/samsung-galaxy-buds-2-review-2731437/)
- - [Internal iOS 15 code and animations show Apple will let users link AirPods to the Find My network; the headphones will use Bluetooth to show a location (Filipe Esp&oacute;sito/9to5Mac)](http://www.techmeme.com/210811/p9#a210811p9)
- - [Daily Authority: Mi too 👨🏻‍🤝‍👨🏻](https://www.androidauthority.com/newsletters/da-august-11-2021/)<!-- TECH:END -->
+ - [Singapore-headquartered Parcel Perform, which offers shipping logistics tools to e-commerce companies, raises $20M Series A led by Cambridge Capital (Manish Singh/TechCrunch)](http://www.techmeme.com/210811/p13#a210811p13)
+ - [Predictive sales startup People.ai raises $100M from Mubadala Investment and Akkadian Ventures at a $1.1B valuation, up from $400M in 2019 (Bloomberg)](http://www.techmeme.com/210811/p12#a210811p12)
+ - [What If...? is a playful expansion of Marvel’s multiverse](https://www.theverge.com/2021/8/11/22617245/what-if-marvel-disney-plus-streaming-interview-multiverse)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
