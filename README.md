@@ -183,9 +183,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to preorder the Galaxy Z Flip 3 and Z Fold 3](https://www.theverge.com/22617611/samsung-galaxy-z-flip-3-fold-3-preorder-buy-price-availability-release-date)
- - [eBay Q2: rev. of $2.7B, up 14% YoY, GMV of $22.1B, down 7%, 159M global active buyers, down 2%, and says it sold 80% of its S. Korea division to Emart for ~$3B (Natalie Gagliordi/ZDNet)](http://www.techmeme.com/210811/p36#a210811p36)
- - [Android 12 features: Everything confirmed so far (Updated: Aug 11)](https://www.androidauthority.com/android-12-features-1195735/)<!-- TECH:END -->
+ - [NASA thinks it knows why that Mars rover rock sample went missing     - CNET](https://www.cnet.com/news/nasa-thinks-it-knows-why-that-mars-rover-rock-sample-went-missing/#ftag=CAD590a51e)
+ - [Three more high-profile Blizzard employees are no longer at the company, including Diablo 4’s director](https://www.theverge.com/2021/8/11/22620800/activision-blizzard-departures-lawsuit-diablo-4-director)
+ - [Best leggings of 2021     - CNET](https://www.cnet.com/health/fitness/best-leggings/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
