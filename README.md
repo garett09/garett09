@@ -182,7 +182,7 @@ Linux                    16 mins             ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [MIUI can be very hit and miss, but this update could improve matters](https://www.androidauthority.com/miui-12-5-enhanced-edition-2731874/)
  - [Singapore’s logistics tech startup Parcel Perform raises $20 million](http://feedproxy.google.com/~r/Techcrunch/~3/qs5Wnp_lAMM/)
- - [CRANQ  launches to save developers time when adding text code](http://feedproxy.google.com/~r/Techcrunch/~3/igy6S17OUbA/)<!-- TECH:END -->
+ - [Marvel's What If…? episode 1 recap: Captain Carter smashes Hydra in WW II     - CNET](https://www.cnet.com/news/marvel-what-if-episode-1-recap-captain-carter-smashes-hydra-in-ww2/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
