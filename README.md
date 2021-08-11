@@ -176,9 +176,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Take-Two Goes On Another Grand Theft Auto Mod-Killing Spree](https://kotaku.com/take-two-goes-on-another-grand-theft-auto-mod-killing-s-1847467984)
- - [Black Book: A Glimpse Into the Life of a Witch](https://news.xbox.com/en-us/2021/08/11/black-book-a-glimpse-into-the-life-of-a-witch/)
- - [Great Western Trail Second Edition reinvigorates a modern board game classic](https://www.polygon.com/reviews/22620179/great-western-trail-second-edition-review-solo-mode)<!-- GAME:END -->
+ - [Sonic and Tails Join the Super Monkey Ball Gang for a Special Birthday Bash](https://news.xbox.com/en-us/2021/08/11/sonic-and-tails-join-super-monkey-ball/)
+ - [Chucklefish's charming adventure RPG Eastward comes in September](https://www.pcgamer.com/chucklefishs-charming-adventure-rpg-eastward-comes-in-september)
+ - [Hell Lets Loose is a big WWII shooter that one person plays as an RTS](https://www.polygon.com/22620125/world-war-2-team-shooter-100-players-hell-let-loose-explained)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
