@@ -180,9 +180,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [In its first post-IPO results, Deliveroo says its pre-tax loss narrowed to &pound;104.8M in H1 2021 as revenue rose 82% YoY to &pound;922.5M; MAUs rose 81% YoY to 7.8M (Tim Bradshaw/Financial Times)](http://www.techmeme.com/210811/p4#a210811p4)
- - [Norton and Avast are merging into an $8 billion antivirus empire](https://www.theverge.com/2021/8/11/22619667/nortonlifelock-avast-merger-deal-anti-virus-cyber-security-software)
- - [A look at the multi-year effort by English soccer organizations to push Facebook to crack down on hate speech against players, intensifying during Euro 2020 (New York Times)](http://www.techmeme.com/210811/p3#a210811p3)<!-- TECH:END -->
+ - [Twitter is now obeying India’s new internet rules, government tells court](https://www.theverge.com/2021/8/11/22619718/twitter-indian-government-internet-it-rules-compliance-grievance-nodal-officer)
+ - [Apple drops lawsuit against virtualization firm Corellium](https://appleinsider.com/articles/21/08/11/apple-settles-lawsuit-against-virtualization-firm-corellium?utm_medium=rss)
+ - [How Parallel Wireless, a New Hampshire-based Open RAN vendor, is leading the charge to turn African mobile operators away from China's Huawei and ZTE (Abubakar Idris/Rest of World)](http://www.techmeme.com/210811/p6#a210811p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
