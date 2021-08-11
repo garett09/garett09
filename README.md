@@ -190,9 +190,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Invest!](http://9gag.com/gag/aMK7yNW)
- - 🚯 [You can keep your soul until around 30](http://9gag.com/gag/a07gOXd)
- - 🚯 [Allheilmittel](http://9gag.com/gag/agB9Kxw)<!-- MEMES:END -->
+ - 🚖 [Allheilmittel](http://9gag.com/gag/agB9Kxw)
+ - 🚯 [No way](http://9gag.com/gag/aRXWRy2)
+ - 🚯 [Fellow 9gagers. I&#039;m about to start a New adventure opening a comic/boardgames/wargames/merchandishing/magicthegathering/yugioh store. I put all my savings on it. Wish me luck brothers and sisters](http://9gag.com/gag/aLpobBx)<!-- MEMES:END -->
 
 --- 
 
