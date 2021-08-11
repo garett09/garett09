@@ -173,9 +173,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [What If Fall Guys, But Cars?](https://kotaku.com/what-if-fall-guys-but-cars-1847462721)
  - [Here's 12 minutes of Forza Horizon 5 gameplay footage](https://www.pcgamer.com/heres-12-minutes-of-forza-horizon-5-gameplay-footage)
- - [Age of Empires 2: Definitive Edition gets 2 new civilizations, 3 new campaigns](https://www.pcgamer.com/age-of-empires-2-definitive-edition-gets-2-new-civilizations-3-new-campaigns)
- - [Lightyear Frontier Is Another Farming Game, Only This Time With Mechs](https://kotaku.com/lightyear-frontier-is-another-farming-game-only-this-t-1847461903)<!-- GAME:END -->
+ - [Age of Empires 2: Definitive Edition gets 2 new civilizations, 3 new campaigns](https://www.pcgamer.com/age-of-empires-2-definitive-edition-gets-2-new-civilizations-3-new-campaigns)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
