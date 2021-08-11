@@ -190,9 +190,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Allheilmittel](http://9gag.com/gag/agB9Kxw)
+ - 🚖 [And that&#039;s why men earn more](http://9gag.com/gag/a1rgwEw)
  - 🚯 [No way](http://9gag.com/gag/aRXWRy2)
- - 🚯 [Fellow 9gagers. I&#039;m about to start a New adventure opening a comic/boardgames/wargames/merchandishing/magicthegathering/yugioh store. I put all my savings on it. Wish me luck brothers and sisters](http://9gag.com/gag/aLpobBx)<!-- MEMES:END -->
+ - 🚯 [Its just bad](http://9gag.com/gag/ad8ARbQ)<!-- MEMES:END -->
 
 --- 
 
