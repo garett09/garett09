@@ -190,9 +190,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Before Corona: I was waiter. During Corona: I&#039;ve met a girl (now fiance ). Moved from Croatia to Sweden, got a job as truck driver 07-15h. Decent salary. Got a french Bulldog. Life is beautiful](http://9gag.com/gag/aO3E1pR)
- - 🚯 [Its just bad](http://9gag.com/gag/ad8ARbQ)
- - 🚯 [No way](http://9gag.com/gag/aRXWRy2)<!-- MEMES:END -->
+ - 🚖 [I got nothing... books maybe?!!](http://9gag.com/gag/aK6ZOVQ)
+ - 🚯 [The Vessel, a $200 million staircase that keeps getting closed due to suicides](http://9gag.com/gag/av5qmoZ)
+ - 🚯 [There is no curse in the tongues of Men for this treachery](http://9gag.com/gag/aRXW257)<!-- MEMES:END -->
 
 --- 
 
