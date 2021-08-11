@@ -187,8 +187,8 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I&#039;m 31, first apartment, not much only one room and bathroom but i am proud of it!](http://9gag.com/gag/aGpvG0w)
- - 🚯 [Gubbel gubbel...](http://9gag.com/gag/av5qRYd)
+ - 🚖 [I don&#039;t get it](http://9gag.com/gag/aB2zXdN)
+ - 🚯 [More time to watch The Mummy](http://9gag.com/gag/a4Eg2nv)
  - 🚯 [Moms are the best](http://9gag.com/gag/aB2zGPQ)<!-- MEMES:END -->
 
 --- 
