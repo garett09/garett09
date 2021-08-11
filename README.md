@@ -190,9 +190,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The Internet](http://9gag.com/gag/awMjY0R)
- - 🚯 [Core memory](http://9gag.com/gag/aB2zXe1)
- - 🚯 [A good man](http://9gag.com/gag/agB92Mg)<!-- MEMES:END -->
+ - 🚖 [Before Corona: I was waiter. During Corona: I&#039;ve met a girl (now fiance ). Moved from Croatia to Sweden, got a job as truck driver 07-15h. Decent salary. Got a french Bulldog. Life is beautiful](http://9gag.com/gag/aO3E1pR)
+ - 🚯 [Its just bad](http://9gag.com/gag/ad8ARbQ)
+ - 🚯 [No way](http://9gag.com/gag/aRXWRy2)<!-- MEMES:END -->
 
 --- 
 
