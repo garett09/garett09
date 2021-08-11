@@ -188,8 +188,8 @@ Linux                    16 mins             ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 🚖 [This is how an Ancient Greek city looked like](http://9gag.com/gag/a3Egy87)
- - 🚯 [As a Greek, i wanna thank all the countries that sent help to Greece to fight the wild fires.](http://9gag.com/gag/a5EgwdG)
- - 🚯 [19 yo woman deadlifts 150kg (330lb) at a bodyweight of 47kg (104lbs)](http://9gag.com/gag/aYo6PA0)<!-- MEMES:END -->
+ - 🚯 [I&#039;m angry at the manager so I&#039;ll just throw my cup of coffee at this security guard. What could possibly go wrong?](http://9gag.com/gag/aMK7mR6)
+ - 🚯 [This cannot be expressed enough](http://9gag.com/gag/aoMoxnX)<!-- MEMES:END -->
 
 --- 
 
