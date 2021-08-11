@@ -180,9 +180,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitter is now obeying India’s new internet rules, government tells court](https://www.theverge.com/2021/8/11/22619718/twitter-indian-government-internet-it-rules-compliance-grievance-nodal-officer)
- - [Apple drops lawsuit against virtualization firm Corellium](https://appleinsider.com/articles/21/08/11/apple-settles-lawsuit-against-virtualization-firm-corellium?utm_medium=rss)
- - [How Parallel Wireless, a New Hampshire-based Open RAN vendor, is leading the charge to turn African mobile operators away from China's Huawei and ZTE (Abubakar Idris/Rest of World)](http://www.techmeme.com/210811/p6#a210811p6)<!-- TECH:END -->
+ - [Samsung Galaxy Buds 2 hands-on: A watered down version of the Buds Pro](https://www.androidauthority.com/samsung-galaxy-buds-2-review-2731437/)
+ - [Internal iOS 15 code and animations show Apple will let users link AirPods to the Find My network; the headphones will use Bluetooth to show a location (Filipe Esp&oacute;sito/9to5Mac)](http://www.techmeme.com/210811/p9#a210811p9)
+ - [Daily Authority: Mi too 👨🏻‍🤝‍👨🏻](https://www.androidauthority.com/newsletters/da-august-11-2021/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
