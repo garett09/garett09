@@ -187,9 +187,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Dreams do come true. Finally joined the master race at 34. Time to play minesweeper.](http://9gag.com/gag/av5qRM5)
- - 🚯 [First World Millionaire Problems](http://9gag.com/gag/a3EgWN8)
- - 🚯 [Go to your grandparets, they said.. It&#039;s gona be fun, they said..](http://9gag.com/gag/a9EwX8m)<!-- MEMES:END -->
+ - 🚖 [Unhappy with a Court Decision, He Decided to Release Dozens of Poisonous Snakes in the Courtroom](http://9gag.com/gag/aZ0X2z3)
+ - 🚯 [Its sad because its true!](http://9gag.com/gag/aRXW2zA)
+ - 🚯 [A good man](http://9gag.com/gag/agB92Mg)<!-- MEMES:END -->
 
 --- 
 
