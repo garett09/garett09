@@ -180,9 +180,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best microwaves for 2021     - CNET](https://www.cnet.com/home/kitchen-and-household/best-microwave/#ftag=CAD590a51e)
- - [Now Microsoft is protesting after Amazon won a $10 billion NSA cloud contract](https://www.theverge.com/2021/8/10/22618764/nsa-10-billion-microsoft-aws-cloud-services-protest)
- - [Apple joins forces with Olivia Rodrigo to promote iPad on TikTok](https://appleinsider.com/articles/21/08/11/apple-joins-forces-with-olivia-rodrigo-to-promote-ipad-on-tiktok?utm_medium=rss)<!-- TECH:END -->
+ - [Facebook’s vaccine stance is part of a familiar pattern, says author and NYTimes journalist](http://feedproxy.google.com/~r/Techcrunch/~3/PEM3iCZo0yM/)
+ - [Samsung Galaxy S21 series updates: August patch arrives in the US](https://www.androidauthority.com/samsung-galaxy-s21-update-1201187/)
+ - [Signal’s latest feature makes disappearing messages the norm](https://www.androidauthority.com/signal-default-disappearing-messages-2732635/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
