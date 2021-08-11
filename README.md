@@ -176,9 +176,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Call of Duty: Black Ops Cold War’s season 5 patch balances assault rifles and nerfs pistols](https://www.polygon.com/call-of-duty/22620741/call-of-duty-black-ops-cold-war-season-5-patch-assault-rifles-balance-pistol-nerfs)
- - [Legends of Runeterra’s next expansion is cute but deadly](https://www.polygon.com/22620531/beyond-the-bandlewood-legends-of-runeterra-expansion)
- - [Destiny 2's seasonal storytelling is now so good that other live games should be taking notes](https://www.pcgamer.com/destiny-2s-seasonal-storytelling-is-now-so-good-that-other-live-games-should-be-taking-notes)<!-- GAME:END -->
+ - [Life is Strange remaster delayed to 2022](https://www.pcgamer.com/life-is-strange-remaster-delayed-to-2022)
+ - [Explaining Hunter x Hunter’s wildest arc is a rite of passage](https://www.polygon.com/22619955/hunter-x-hunter-chimera-ant-fans-netflix)
+ - [Diablo 4 director, lead level designer, and WoW designer depart Blizzard](https://www.pcgamer.com/diablo-4-director-lead-level-designer-and-wow-designer-all-fired-from-blizzard)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
