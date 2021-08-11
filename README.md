@@ -183,9 +183,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [NASA thinks it knows why that Mars rover rock sample went missing     - CNET](https://www.cnet.com/news/nasa-thinks-it-knows-why-that-mars-rover-rock-sample-went-missing/#ftag=CAD590a51e)
- - [Three more high-profile Blizzard employees are no longer at the company, including Diablo 4’s director](https://www.theverge.com/2021/8/11/22620800/activision-blizzard-departures-lawsuit-diablo-4-director)
- - [Best leggings of 2021     - CNET](https://www.cnet.com/health/fitness/best-leggings/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [WhatsApp to enable chat history transfers between iOS and Android](https://appleinsider.com/articles/21/08/11/whatsapp-to-enable-chat-history-transfers-between-ios-and-android?utm_medium=rss)
+ - [Lordstown Motors pivots to renting space at former GM factory](https://www.theverge.com/2021/8/11/22620787/lordstown-motors-q2-2021-earnings-gm-factory-production-manufacturing)
+ - [Mushroom-based meat alternative startup Fable Food raises $6.5M AUD, will launch in the US](http://feedproxy.google.com/~r/Techcrunch/~3/FqigvHpyWc0/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
