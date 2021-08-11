@@ -187,9 +187,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Brendan Fraser talking about his return to acting.](http://9gag.com/gag/aeAzxMm)
- - 🚯 [19 yo woman deadlifts 150kg (330lb) at a bodyweight of 47kg (104lbs)](http://9gag.com/gag/aYo6PA0)
- - 🚯 [This cannot be expressed enough](http://9gag.com/gag/aoMoxnX)<!-- MEMES:END -->
+ - 🚖 [19 yo woman deadlifts 150kg (330lb) at a bodyweight of 47kg (104lbs)](http://9gag.com/gag/aYo6PA0)
+ - 🚯 [Brendan Fraser talking about his return to acting.](http://9gag.com/gag/aeAzxMm)
+ - 🚯 [This one sparks joy](http://9gag.com/gag/aEpKAPN)<!-- MEMES:END -->
 
 --- 
 
