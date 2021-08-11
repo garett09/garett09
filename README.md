@@ -34,7 +34,7 @@ const skills =
 {
   languages :[Python, Bash, Html, Css, Javascript, BootStrap, Java, Git, Markdown, AngularJs, AccessSQL, MySQL],
   
-  ide       :[Vs Code],
+  ide       :[Vs Code, GitHub Codespace, GitPod],
   
   frameworks:[Bootstrap, Sharepoint Framework],
   
