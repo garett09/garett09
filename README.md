@@ -183,9 +183,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Workflow automation company ServiceNow is acquiring MapWize, a France-based indoor mapping and visualization software company (Paul Sawers/VentureBeat)](http://www.techmeme.com/210811/p34#a210811p34)
- - [Uber’s latest delivery service partnership has drawn the FTC’s attention](https://www.theverge.com/2021/8/11/22620267/uber-gopuff-ftc-investigation-drizly-delivery)
- - [The best Chromebook for 2021](https://www.theverge.com/21296102/best-chromebooks)<!-- TECH:END -->
+ - [How to preorder the Galaxy Z Flip 3 and Z Fold 3](https://www.theverge.com/22617611/samsung-galaxy-z-flip-3-fold-3-preorder-buy-price-availability-release-date)
+ - [eBay Q2: rev. of $2.7B, up 14% YoY, GMV of $22.1B, down 7%, 159M global active buyers, down 2%, and says it sold 80% of its S. Korea division to Emart for ~$3B (Natalie Gagliordi/ZDNet)](http://www.techmeme.com/210811/p36#a210811p36)
+ - [Android 12 features: Everything confirmed so far (Updated: Aug 11)](https://www.androidauthority.com/android-12-features-1195735/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
