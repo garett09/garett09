@@ -173,9 +173,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The best gaming laptops in Australia for 2021](https://www.pcgamer.com/the-best-gaming-laptops-in-australia-for-2021)
  - [What If Fall Guys, But Cars?](https://kotaku.com/what-if-fall-guys-but-cars-1847462721)
- - [Here's 12 minutes of Forza Horizon 5 gameplay footage](https://www.pcgamer.com/heres-12-minutes-of-forza-horizon-5-gameplay-footage)
- - [Age of Empires 2: Definitive Edition gets 2 new civilizations, 3 new campaigns](https://www.pcgamer.com/age-of-empires-2-definitive-edition-gets-2-new-civilizations-3-new-campaigns)<!-- GAME:END -->
+ - [Here's 12 minutes of Forza Horizon 5 gameplay footage](https://www.pcgamer.com/heres-12-minutes-of-forza-horizon-5-gameplay-footage)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
