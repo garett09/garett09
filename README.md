@@ -173,9 +173,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Discord Malware is a persistent and growing threat warns Sophos](https://www.pcgamer.com/discord-malware-persistence-sophos-report)
- - [HP Omen 25i gaming monitor review](https://www.pcgamer.com/hp-omen-25i-gaming-monitor-review)
- - [Nvidia's new GPU driver primes your PC for Naraka: Bladepoint and Back 4 Blood](https://www.pcgamer.com/nvidias-new-gpu-driver-primes-your-pc-for-naraka-bladepoint-and-back-4-blood)<!-- GAME:END -->
+ - [Rumoured Intel laptop chip could deliver desktop graphics card frame rates](https://www.pcgamer.com/intel-arrow-lake-p-rumour-mobile-processor-gpu)
+ - [Try out the new Stony Peaks biome with Minecraft's latest 1.18 experimental snapshot](https://www.pcgamer.com/try-out-the-new-stony-peaks-biome-with-minecrafts-latest-118-experimental-snapshot)
+ - [Watch Nintendo’s new Indie World stream](https://www.polygon.com/22618181/nintendo-direct-2021-indie-world-switch-date-time)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
