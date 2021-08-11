@@ -176,9 +176,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Sonic and Tails Join the Super Monkey Ball Gang for a Special Birthday Bash](https://news.xbox.com/en-us/2021/08/11/sonic-and-tails-join-super-monkey-ball/)
- - [Chucklefish's charming adventure RPG Eastward comes in September](https://www.pcgamer.com/chucklefishs-charming-adventure-rpg-eastward-comes-in-september)
- - [Hell Lets Loose is a big WWII shooter that one person plays as an RTS](https://www.polygon.com/22620125/world-war-2-team-shooter-100-players-hell-let-loose-explained)<!-- GAME:END -->
+ - [Here's a co-op farming game with mechs](https://www.pcgamer.com/heres-a-co-op-farming-game-with-mechs)
+ - [Jesse Mcree, Diablo 4 Director No Longer At Activision Blizzard](https://kotaku.com/jesse-mcree-diablo-4-director-no-longer-at-activision-1847469113)
+ - [Steve Rogers is Captain America, why couldn’t Peggy be Captain Britain?](https://www.polygon.com/22620015/what-if-captain-carter-captain-britian-x-men-mcu)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
