@@ -180,9 +180,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Facebook’s vaccine stance is part of a familiar pattern, says author and NYTimes journalist](http://feedproxy.google.com/~r/Techcrunch/~3/PEM3iCZo0yM/)
- - [Samsung Galaxy S21 series updates: August patch arrives in the US](https://www.androidauthority.com/samsung-galaxy-s21-update-1201187/)
- - [Signal’s latest feature makes disappearing messages the norm](https://www.androidauthority.com/signal-default-disappearing-messages-2732635/)<!-- TECH:END -->
+ - [MIUI can be very hit and miss, but this update could improve matters](https://www.androidauthority.com/miui-12-5-enhanced-edition-2731874/)
+ - [Singapore’s logistics tech startup Parcel Perform raises $20 million](http://feedproxy.google.com/~r/Techcrunch/~3/qs5Wnp_lAMM/)
+ - [CRANQ  launches to save developers time when adding text code](http://feedproxy.google.com/~r/Techcrunch/~3/igy6S17OUbA/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
