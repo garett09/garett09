@@ -190,8 +190,8 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Must&#039;ve been one good looking boy.](http://9gag.com/gag/ayMrPdb)
- - 🚯 [Scam](http://9gag.com/gag/a27gGb1)
+ - 🚖 [Invest!](http://9gag.com/gag/aMK7yNW)
+ - 🚯 [You can keep your soul until around 30](http://9gag.com/gag/a07gOXd)
  - 🚯 [Allheilmittel](http://9gag.com/gag/agB9Kxw)<!-- MEMES:END -->
 
 --- 
