@@ -179,9 +179,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Kingdomino is turning an ancient game piece into the next hit board game franchise](https://www.polygon.com/tabletop-games/22618761/kingdomino-origins-preview-designer-bruno-cathalha-interview)
- - [Simlish ASMR is something I didn't know I needed until now](https://www.pcgamer.com/simlish-asmr-is-something-i-didnt-know-i-needed-until-now)
- - [Collectors Are Driving Up PSP And Nintendo DS Game Prices In Japan](https://kotaku.com/collectors-are-driving-up-psp-and-nintendo-ds-game-pric-1847464563)<!-- GAME:END -->
+ - [Warhammer Plus includes a stand-alone streaming app for mobile, desktop, and smart TVs](https://www.polygon.com/22620004/warhammer-plus-streaming-app-platforms-compatibility-ios-android-amazon-roku-apple-tv)
+ - [Japan Reaches Impressive Pokémon Manhole Milestone](https://kotaku.com/japan-reaches-impressive-pokemon-manhole-milestone-1847465203)
+ - [PlayStation Store: July 2021’s top downloads](http://feedproxy.google.com/~r/PSBlog/~3/ixhbmD4KVvA/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
