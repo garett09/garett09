@@ -187,8 +187,8 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [First World Millionaire Problems](http://9gag.com/gag/a3EgWN8)
- - 🚯 [Its sad because its true!](http://9gag.com/gag/aRXW2zA)
+ - 🚖 [Dreams do come true. Finally joined the master race at 34. Time to play minesweeper.](http://9gag.com/gag/av5qRM5)
+ - 🚯 [First World Millionaire Problems](http://9gag.com/gag/a3EgWN8)
  - 🚯 [Go to your grandparets, they said.. It&#039;s gona be fun, they said..](http://9gag.com/gag/a9EwX8m)<!-- MEMES:END -->
 
 --- 
