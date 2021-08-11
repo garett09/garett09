@@ -183,9 +183,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pay under $4 a month for NordVPN, and more great VPN deals](https://www.androidauthority.com/best-vpn-deals-1122185/)
- - [Senators target Apple’s App Store exclusivity in new bill](https://www.theverge.com/2021/8/11/22620454/apple-google-app-store-senate-play-bill-epic-games-fortnite)
- - [A national alert test will buzz US TVs, radios,  and any phones that opt-in at 2:20PM ET](https://www.theverge.com/2021/8/11/22619915/fema-alert-wea-eas-test-message-2021)<!-- TECH:END -->
+ - [Archer Aviation is seeking $1B in damages from Wisk Aero as legal dispute escalates](http://feedproxy.google.com/~r/Techcrunch/~3/CzKiNqfhPzs/)
+ - [Yes, Twitter changed its font](https://www.theverge.com/2021/8/11/22620438/twitter-changes-font-chirp-design-icon)
+ - [A national alert test buzzed US TVs, radios,  and any phones that opted-in at 2:20PM ET](https://www.theverge.com/2021/8/11/22619915/fema-alert-wea-eas-test-message-2021)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
