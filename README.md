@@ -188,8 +188,8 @@ Linux                    16 mins             ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 🚖 [Just an average hotel room in Kazakhstan](http://9gag.com/gag/av5qd7n)
- - 🚯 [Post Brexit England](http://9gag.com/gag/aEpKXvG)
- - 🚯 [The Internet](http://9gag.com/gag/awMjY0R)<!-- MEMES:END -->
+ - 🚯 [The Internet](http://9gag.com/gag/awMjY0R)
+ - 🚯 [I don&#039;t get it](http://9gag.com/gag/aB2zXdN)<!-- MEMES:END -->
 
 --- 
 
