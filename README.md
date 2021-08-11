@@ -158,7 +158,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
     
  **Full WakaTime stats**   
-[![adriansian's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=garett_09)]
+[![adriansian's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=garett_09)
+ 
+'slightly delayed'
 
 
 
