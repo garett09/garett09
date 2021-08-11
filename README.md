@@ -187,9 +187,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Driver was like &quot;Ight Imma Head Out&quot;](http://9gag.com/gag/ayMrW5V)
- - 🚯 [More time to watch The Mummy](http://9gag.com/gag/a4Eg2nv)
- - 🚯 [Well trained](http://9gag.com/gag/ayMr1Qb)<!-- MEMES:END -->
+ - 🚖 [If evolution isn&#039;t real, explain this](http://9gag.com/gag/awMjdZQ)
+ - 🚯 [Cat greetings are just amazing.](http://9gag.com/gag/azMyRvx)
+ - 🚯 [Loveable oaf that deserves some good luck in Hollywood](http://9gag.com/gag/a1rg5B2)<!-- MEMES:END -->
 
 --- 
 
