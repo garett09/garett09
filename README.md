@@ -187,8 +187,8 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This is how an Ancient Greek city looked like](http://9gag.com/gag/a3Egy87)
- - 🚯 [I&#039;m angry at the manager so I&#039;ll just throw my cup of coffee at this security guard. What could possibly go wrong?](http://9gag.com/gag/aMK7mR6)
+ - 🚖 [Brendan Fraser talking about his return to acting.](http://9gag.com/gag/aeAzxMm)
+ - 🚯 [19 yo woman deadlifts 150kg (330lb) at a bodyweight of 47kg (104lbs)](http://9gag.com/gag/aYo6PA0)
  - 🚯 [This cannot be expressed enough](http://9gag.com/gag/aoMoxnX)<!-- MEMES:END -->
 
 --- 
