@@ -186,9 +186,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung announces Galaxy Z Flip3 with a 120Hz, 6.7-inch internal display, plus a 1.9-inch fold-out panel, starting at $999, shipping August 26 (Ben Schoon/9to5Google)](http://www.techmeme.com/210811/p22#a210811p22)
- - [Samsung announces Galaxy Watch4, starting at $249, and Galaxy Watch4 Classic, starting at $349, both with "Wear OS Powered by Samsung", shipping August 27 (Jon Porter/The Verge)](http://www.techmeme.com/210811/p20#a210811p20)
- - [Samsung announces Galaxy Z Fold3 with a 120Hz, 7.6-inch primary screen, S Pen support, and IPX8 water resistance, on sale starting August 27 for $1,799 (Chris Welch/The Verge)](http://www.techmeme.com/210811/p21#a210811p21)<!-- TECH:END -->
+ - [Galaxy Buds 2 are coming Aug. 27: Samsung's true-wireless earbuds cost $150     - CNET](https://www.cnet.com/tech/mobile/galaxy-buds-2-are-coming-august-27-samsung-true-wireless-earbuds-cost-150-dollars/#ftag=CAD590a51e)
+ - [Facebook says it is undertaking a "very meaningful pivot", still in its infancy, to change how its ad tools work with a focus on privacy (Alex Heath/The Verge)](http://www.techmeme.com/210811/p27#a210811p27)
+ - [Galaxy Z Flip 3 is $1,000 and no longer looks like a foldable drink coaster     - CNET](https://www.cnet.com/tech/mobile/samsung-galaxy-z-flip-3-is-1000-dollars-and-no-longer-looks-like-a-foldable-drink-coaster/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
