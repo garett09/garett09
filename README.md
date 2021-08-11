@@ -187,9 +187,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Unhappy with a Court Decision, He Decided to Release Dozens of Poisonous Snakes in the Courtroom](http://9gag.com/gag/aZ0X2z3)
- - 🚯 [Its sad because its true!](http://9gag.com/gag/aRXW2zA)
- - 🚯 [A good man](http://9gag.com/gag/agB92Mg)<!-- MEMES:END -->
+ - 🚖 [Just an average hotel room in Kazakhstan](http://9gag.com/gag/av5qd7n)
+ - 🚯 [Post Brexit England](http://9gag.com/gag/aEpKXvG)
+ - 🚯 [The Internet](http://9gag.com/gag/awMjY0R)<!-- MEMES:END -->
 
 --- 
 
