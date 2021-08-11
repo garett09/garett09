@@ -186,9 +186,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s everything Samsung announced this morning](http://feedproxy.google.com/~r/Techcrunch/~3/vJS2uUjUpUs/)
- - [Hyzon Motors has begun shipping hydrogen fuel cell trucks to customers](http://feedproxy.google.com/~r/Techcrunch/~3/Z5k_vy3tWN8/)
- - [Austin transplant Geoff Lewis wants to pop Silicon Valley’s ‘self-referential’ bubble](http://feedproxy.google.com/~r/Techcrunch/~3/QK3q08pOVRI/)<!-- TECH:END -->
+ - [How Sweden's policy of putting a computer in every home and early concurrent investment in internet connectivity helped birth Spotify, Skype, Klarna, and others (Reuters)](http://www.techmeme.com/210811/p30#a210811p30)
+ - [The gray revolution: Fundraising within the older adult space](http://feedproxy.google.com/~r/Techcrunch/~3/ZZ7wqJeXbiM/)
+ - [Apple releases macOS Big Sur 11.5.2 to the public](https://appleinsider.com/articles/21/08/11/apple-releases-macos-big-sur-1152-to-the-public?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
