@@ -187,8 +187,8 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Police in the Netherlands give out &quot;trauma teddies&quot; to kids involved in a car accident.](http://9gag.com/gag/aP3L8oq)
- - 🚯 [15 years and counting](http://9gag.com/gag/ajmvZrQ)
+ - 🚖 [Driver was like &quot;Ight Imma Head Out&quot;](http://9gag.com/gag/ayMrW5V)
+ - 🚯 [More time to watch The Mummy](http://9gag.com/gag/a4Eg2nv)
  - 🚯 [Well trained](http://9gag.com/gag/ayMr1Qb)<!-- MEMES:END -->
 
 --- 
