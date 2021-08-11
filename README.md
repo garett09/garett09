@@ -180,9 +180,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pave, whose software analyzes HR data to help companies close pay and equity gaps, raises $46M Series B led by YC Continuity at a $400M post-money valuation (Kyle Wiggers/VentureBeat)](http://www.techmeme.com/210810/p45#a210810p45)
- - [2022 iPhones, Macs could boast 3nm chips](https://appleinsider.com/articles/21/08/11/2022-iphones-macs-could-boast-3nm-chips?utm_medium=rss)
- - [BMW recalls Toyota Supra again, this time over loss of power brakes     - Roadshow](https://www.cnet.com/roadshow/news/bmw-toyota-supra-recall-power-brakes/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Court docs: Apple settles its 2019 lawsuit against Corellium over Corellium's "virtualized" iPhone business; Corellium says it still sells virtual iOS devices (Reed Albergotti/Washington Post)](http://www.techmeme.com/210810/p47#a210810p47)
+ - [T-Mobile has started offering fiber home internet in a limited pilot program](https://www.theverge.com/2021/8/10/22619132/t-mobile-fiber-optic-home-internet-pilot-program)
+ - [BitMEX crypto exchange agrees to pay $100 million to get financial regulators off its back](https://www.theverge.com/2021/8/10/22619180/bitmex-crypto-fine-fincen-cftc-100-million)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
