@@ -183,9 +183,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Sweden's policy of putting a computer in every home and early concurrent investment in internet connectivity helped birth Spotify, Skype, Klarna, and others (Reuters)](http://www.techmeme.com/210811/p30#a210811p30)
- - [The gray revolution: Fundraising within the older adult space](http://feedproxy.google.com/~r/Techcrunch/~3/ZZ7wqJeXbiM/)
- - [Apple releases macOS Big Sur 11.5.2 to the public](https://appleinsider.com/articles/21/08/11/apple-releases-macos-big-sur-1152-to-the-public?utm_medium=rss)<!-- TECH:END -->
+ - [Pay under $4 a month for NordVPN, and more great VPN deals](https://www.androidauthority.com/best-vpn-deals-1122185/)
+ - [Senators target Apple’s App Store exclusivity in new bill](https://www.theverge.com/2021/8/11/22620454/apple-google-app-store-senate-play-bill-epic-games-fortnite)
+ - [A national alert test will buzz US TVs, radios,  and any phones that opt-in at 2:20PM ET](https://www.theverge.com/2021/8/11/22619915/fema-alert-wea-eas-test-message-2021)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
