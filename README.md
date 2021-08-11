@@ -187,9 +187,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [19 yo woman deadlifts 150kg (330lb) at a bodyweight of 47kg (104lbs)](http://9gag.com/gag/aYo6PA0)
- - 🚯 [Brendan Fraser talking about his return to acting.](http://9gag.com/gag/aeAzxMm)
- - 🚯 [This one sparks joy](http://9gag.com/gag/aEpKAPN)<!-- MEMES:END -->
+ - 🚖 [Police in the Netherlands give out &quot;trauma teddies&quot; to kids involved in a car accident.](http://9gag.com/gag/aP3L8oq)
+ - 🚯 [15 years and counting](http://9gag.com/gag/ajmvZrQ)
+ - 🚯 [Well trained](http://9gag.com/gag/ayMr1Qb)<!-- MEMES:END -->
 
 --- 
 
