@@ -173,9 +173,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Baldur's Gate 3: Everything we know](https://www.pcgamer.com/baldurs-gate-3-everything-we-know)
- - [The best gaming laptops in Australia for 2021](https://www.pcgamer.com/the-best-gaming-laptops-in-australia-for-2021)
- - [What If Fall Guys, But Cars?](https://kotaku.com/what-if-fall-guys-but-cars-1847462721)<!-- GAME:END -->
+ - [How FPS masters and Gears Tactics studio Splash Damage went from team-based to turn-based](https://www.pcgamer.com/how-fps-masters-and-gears-tactics-studio-splash-damage-went-from-team-based-to-turn-based)
+ - [Soviet immersive sim Atomic Heart is in the final stages of development, will have 2 endings](https://www.pcgamer.com/soviet-immersive-sim-atomic-heart-is-in-the-final-stages-of-development-will-have-2-endings)
+ - [Baldur's Gate 3: Everything we know](https://www.pcgamer.com/baldurs-gate-3-everything-we-know)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
