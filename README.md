@@ -32,13 +32,13 @@ var status =
 
 const skills = 
 {
-  languages :[Python, Bash, Html, Css, Javascript, BootStrap, Java, Git, Markdown, AngularJs, AccessSQL, MySQL],
+  languages :[ReactJS, Bash, Html, Css, Javascript, BootStrap, Java, Git, Markdown, VueJS],
   
   ide       :[Vs Code, GitHub Codespace, GitPod],
   
   frameworks:[Bootstrap, Sharepoint Framework],
   
-  platforms :[Google Cloud Platform, Amazon Web Services, Buildkite, Heroku, Microsoft Sharepoint],
+  platforms :[Google Cloud Platform, Buildkite, Heroku],
   
   cicd      :[Github Workflows],
 
@@ -74,14 +74,8 @@ while(dev.isCoding() && dev.isStuck())
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&nbsp;
-![Microsoft Sharepoint](https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white)&nbsp;
-![AngularJS](https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white)&nbsp;
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)&nbsp;
-![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)&nbsp;
-![Amazon Web Service](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
 ![Google Cloud Platform](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
-![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)&nbsp;
 
 ---
 
