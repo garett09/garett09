@@ -180,9 +180,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple settles lawsuit against virtualization firm Corellium](https://appleinsider.com/articles/21/08/11/apple-settles-lawsuit-against-virtualization-firm-corellium?utm_medium=rss)
- - [Doximity, a networking service for doctors, reports Q1 revenue of $72.7M, up 100% YoY, and net income of $26.3M in its first earnings report as a public company (Ari Levy/CNBC)](http://www.techmeme.com/210810/p50#a210810p50)
- - [Best laptop for college 2021     - CNET](https://www.cnet.com/tech/computing/best-laptop-for-college/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Now Microsoft is protesting after Amazon won a $10 billion NSA cloud contract](https://www.theverge.com/2021/8/10/22618764/nsa-10-billion-microsoft-aws-cloud-services-protest)
+ - [Apple joins forces with Olivia Rodrigo to promote iPad on TikTok](https://appleinsider.com/articles/21/08/11/apple-joins-forces-with-olivia-rodrigo-to-promote-ipad-on-tiktok?utm_medium=rss)
+ - [Zomato reports revenue of $113.4M, up ~3x YoY, and a net loss of $48M for the quarter that ended in June, in its first quarterly earnings report since its IPO (Manish Singh/TechCrunch)](http://www.techmeme.com/210810/p51#a210810p51)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
