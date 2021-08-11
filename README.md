@@ -180,9 +180,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [MIUI can be very hit and miss, but this update could improve matters](https://www.androidauthority.com/miui-12-5-enhanced-edition-2731874/)
- - [Singapore’s logistics tech startup Parcel Perform raises $20 million](http://feedproxy.google.com/~r/Techcrunch/~3/qs5Wnp_lAMM/)
- - [Marvel's What If…? episode 1 recap: Captain Carter smashes Hydra in WW II     - CNET](https://www.cnet.com/news/marvel-what-if-episode-1-recap-captain-carter-smashes-hydra-in-ww2/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [In its first post-IPO results, Deliveroo says its pre-tax loss narrowed to &pound;104.8M in H1 2021 as revenue rose 82% YoY to &pound;922.5M; MAUs rose 81% YoY to 7.8M (Tim Bradshaw/Financial Times)](http://www.techmeme.com/210811/p4#a210811p4)
+ - [Norton and Avast are merging into an $8 billion antivirus empire](https://www.theverge.com/2021/8/11/22619667/nortonlifelock-avast-merger-deal-anti-virus-cyber-security-software)
+ - [A look at the multi-year effort by English soccer organizations to push Facebook to crack down on hate speech against players, intensifying during Euro 2020 (New York Times)](http://www.techmeme.com/210811/p3#a210811p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
