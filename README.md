@@ -176,9 +176,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Hidden Gem Town-Builder Dwarrows is Available Today for Xbox One and Xbox Series X|S](https://news.xbox.com/en-us/2021/08/11/hidden-gem-dwarrows-a-town-building-and-adventure-game-released-on-xbox-today/)
- - [Dead by Daylight devs buff Pyramid Head’s butt in latest patch](https://www.polygon.com/22620295/dead-by-daylight-pyramid-head-executioner-butt-patch-notes-fix)
- - [Where to place video cameras at different landing ship locations in Fortnite](https://www.pcgamer.com/place-video-cameras-fortnite)<!-- GAME:END -->
+ - [Take-Two Goes On Another Grand Theft Auto Mod-Killing Spree](https://kotaku.com/take-two-goes-on-another-grand-theft-auto-mod-killing-s-1847467984)
+ - [Black Book: A Glimpse Into the Life of a Witch](https://news.xbox.com/en-us/2021/08/11/black-book-a-glimpse-into-the-life-of-a-witch/)
+ - [Great Western Trail Second Edition reinvigorates a modern board game classic](https://www.polygon.com/reviews/22620179/great-western-trail-second-edition-review-solo-mode)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
