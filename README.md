@@ -180,9 +180,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nanox, which digitizes traditional X-rays, has agreed to acquire Zebra Medical Vision, which makes AI-based tools for radiologists, in a deal valued up to $200M (Kyle Wiggers/VentureBeat)](http://www.techmeme.com/210810/p48#a210810p48)
  - [Court docs: Apple settles its 2019 lawsuit against Corellium over Corellium's "virtualized" iPhone business; Corellium says it still sells virtual iOS devices (Reed Albergotti/Washington Post)](http://www.techmeme.com/210810/p47#a210810p47)
- - [T-Mobile has started offering fiber home internet in a limited pilot program](https://www.theverge.com/2021/8/10/22619132/t-mobile-fiber-optic-home-internet-pilot-program)
- - [BitMEX crypto exchange agrees to pay $100 million to get financial regulators off its back](https://www.theverge.com/2021/8/10/22619180/bitmex-crypto-fine-fincen-cftc-100-million)<!-- TECH:END -->
+ - [T-Mobile has started offering fiber home internet in a limited pilot program](https://www.theverge.com/2021/8/10/22619132/t-mobile-fiber-optic-home-internet-pilot-program)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
