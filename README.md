@@ -188,8 +188,8 @@ Linux                    16 mins             ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 🚖 [If evolution isn&#039;t real, explain this](http://9gag.com/gag/awMjdZQ)
- - 🚯 [Cat greetings are just amazing.](http://9gag.com/gag/azMyRvx)
- - 🚯 [Loveable oaf that deserves some good luck in Hollywood](http://9gag.com/gag/a1rg5B2)<!-- MEMES:END -->
+ - 🚯 [15 years and counting](http://9gag.com/gag/ajmvZrQ)
+ - 🚯 [Moms are the best](http://9gag.com/gag/aB2zGPQ)<!-- MEMES:END -->
 
 --- 
 
