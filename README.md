@@ -179,9 +179,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Warhammer Plus includes a stand-alone streaming app for mobile, desktop, and smart TVs](https://www.polygon.com/22620004/warhammer-plus-streaming-app-platforms-compatibility-ios-android-amazon-roku-apple-tv)
- - [Japan Reaches Impressive Pokémon Manhole Milestone](https://kotaku.com/japan-reaches-impressive-pokemon-manhole-milestone-1847465203)
- - [PlayStation Store: July 2021’s top downloads](http://feedproxy.google.com/~r/PSBlog/~3/ixhbmD4KVvA/)<!-- GAME:END -->
+ - [Shovel Knight: Pocket Dungeon drops this winter for Nintendo Switch](https://www.polygon.com/22620040/shovel-knight-pocket-dungeon-release-date-nintendo-switch)
+ - [Metal Slug Tactics is bringing turn-based action to Nintendo Switch](https://www.polygon.com/22620080/metal-slug-tactics-nintendo-switch-roguelike)
+ - [Axiom Verge 2 launches on Switch, PC, and PS4 today](https://www.polygon.com/22619980/axiom-verge-2-release-date-nintendo-switch-pc-ps4)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
