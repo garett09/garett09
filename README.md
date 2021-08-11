@@ -187,9 +187,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This guy goes to all the neighbours and begs for food, as you can tell by his weight.](http://9gag.com/gag/amPQm8V)
- - 🚯 [LMFAO](http://9gag.com/gag/aXo3Vq9)
- - 🚯 [As a Greek, i wanna thank all the countries that sent help to Greece to fight the wild fires.](http://9gag.com/gag/a5EgwdG)<!-- MEMES:END -->
+ - 🚖 [This is how an Ancient Greek city looked like](http://9gag.com/gag/a3Egy87)
+ - 🚯 [As a Greek, i wanna thank all the countries that sent help to Greece to fight the wild fires.](http://9gag.com/gag/a5EgwdG)
+ - 🚯 [19 yo woman deadlifts 150kg (330lb) at a bodyweight of 47kg (104lbs)](http://9gag.com/gag/aYo6PA0)<!-- MEMES:END -->
 
 --- 
 
