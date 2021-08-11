@@ -176,9 +176,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Here's a co-op farming game with mechs](https://www.pcgamer.com/heres-a-co-op-farming-game-with-mechs)
- - [Jesse Mcree, Diablo 4 Director No Longer At Activision Blizzard](https://kotaku.com/jesse-mcree-diablo-4-director-no-longer-at-activision-1847469113)
- - [Steve Rogers is Captain America, why couldn’t Peggy be Captain Britain?](https://www.polygon.com/22620015/what-if-captain-carter-captain-britian-x-men-mcu)<!-- GAME:END -->
+ - [Call of Duty: Black Ops Cold War’s season 5 patch balances assault rifles and nerfs pistols](https://www.polygon.com/call-of-duty/22620741/call-of-duty-black-ops-cold-war-season-5-patch-assault-rifles-balance-pistol-nerfs)
+ - [Legends of Runeterra’s next expansion is cute but deadly](https://www.polygon.com/22620531/beyond-the-bandlewood-legends-of-runeterra-expansion)
+ - [Destiny 2's seasonal storytelling is now so good that other live games should be taking notes](https://www.pcgamer.com/destiny-2s-seasonal-storytelling-is-now-so-good-that-other-live-games-should-be-taking-notes)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
