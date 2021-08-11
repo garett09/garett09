@@ -180,9 +180,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nanox, which digitizes traditional X-rays, has agreed to acquire Zebra Medical Vision, which makes AI-based tools for radiologists, in a deal valued up to $200M (Kyle Wiggers/VentureBeat)](http://www.techmeme.com/210810/p48#a210810p48)
- - [Court docs: Apple settles its 2019 lawsuit against Corellium over Corellium's "virtualized" iPhone business; Corellium says it still sells virtual iOS devices (Reed Albergotti/Washington Post)](http://www.techmeme.com/210810/p47#a210810p47)
- - [T-Mobile has started offering fiber home internet in a limited pilot program](https://www.theverge.com/2021/8/10/22619132/t-mobile-fiber-optic-home-internet-pilot-program)<!-- TECH:END -->
+ - [Apple settles lawsuit against virtualization firm Corellium](https://appleinsider.com/articles/21/08/11/apple-settles-lawsuit-against-virtualization-firm-corellium?utm_medium=rss)
+ - [Doximity, a networking service for doctors, reports Q1 revenue of $72.7M, up 100% YoY, and net income of $26.3M in its first earnings report as a public company (Ari Levy/CNBC)](http://www.techmeme.com/210810/p50#a210810p50)
+ - [Best laptop for college 2021     - CNET](https://www.cnet.com/tech/computing/best-laptop-for-college/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
