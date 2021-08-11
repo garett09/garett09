@@ -186,9 +186,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Galaxy Buds 2 are coming Aug. 27: Samsung's true-wireless earbuds cost $150     - CNET](https://www.cnet.com/tech/mobile/galaxy-buds-2-are-coming-august-27-samsung-true-wireless-earbuds-cost-150-dollars/#ftag=CAD590a51e)
- - [Facebook says it is undertaking a "very meaningful pivot", still in its infancy, to change how its ad tools work with a focus on privacy (Alex Heath/The Verge)](http://www.techmeme.com/210811/p27#a210811p27)
- - [Galaxy Z Flip 3 is $1,000 and no longer looks like a foldable drink coaster     - CNET](https://www.cnet.com/tech/mobile/samsung-galaxy-z-flip-3-is-1000-dollars-and-no-longer-looks-like-a-foldable-drink-coaster/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Here’s everything Samsung announced this morning](http://feedproxy.google.com/~r/Techcrunch/~3/vJS2uUjUpUs/)
+ - [Hyzon Motors has begun shipping hydrogen fuel cell trucks to customers](http://feedproxy.google.com/~r/Techcrunch/~3/Z5k_vy3tWN8/)
+ - [Austin transplant Geoff Lewis wants to pop Silicon Valley’s ‘self-referential’ bubble](http://feedproxy.google.com/~r/Techcrunch/~3/QK3q08pOVRI/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
