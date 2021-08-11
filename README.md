@@ -173,9 +173,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Assassin's Creed Valhalla: The Siege of Paris nails the bleak and cruel landscape of 9th century Francia](https://www.pcgamer.com/assassins-creed-valhalla-the-siege-of-paris-nails-the-bleak-and-cruel-landscape-of-9th-century-francia)
- - [If you love sad knights, Scottish skeletons and Dark Souls, check out this free horror game](https://www.pcgamer.com/if-you-love-sad-knights-scottish-skeletons-and-dark-souls-check-out-this-free-horror-game)
- - [How FPS masters and Gears Tactics studio Splash Damage went from team-based to turn-based](https://www.pcgamer.com/how-fps-masters-and-gears-tactics-studio-splash-damage-went-from-team-based-to-turn-based)<!-- GAME:END -->
+ - [Discord Malware is a persistent and growing threat warns Sophos](https://www.pcgamer.com/discord-malware-persistence-sophos-report)
+ - [HP Omen 25i gaming monitor review](https://www.pcgamer.com/hp-omen-25i-gaming-monitor-review)
+ - [Nvidia's new GPU driver primes your PC for Naraka: Bladepoint and Back 4 Blood](https://www.pcgamer.com/nvidias-new-gpu-driver-primes-your-pc-for-naraka-bladepoint-and-back-4-blood)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
