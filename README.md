@@ -183,9 +183,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Archer Aviation is seeking $1B in damages from Wisk Aero as legal dispute escalates](http://feedproxy.google.com/~r/Techcrunch/~3/CzKiNqfhPzs/)
- - [Yes, Twitter changed its font](https://www.theverge.com/2021/8/11/22620438/twitter-changes-font-chirp-design-icon)
- - [A national alert test buzzed US TVs, radios,  and any phones that opted-in at 2:20PM ET](https://www.theverge.com/2021/8/11/22619915/fema-alert-wea-eas-test-message-2021)<!-- TECH:END -->
+ - [Workflow automation company ServiceNow is acquiring MapWize, a France-based indoor mapping and visualization software company (Paul Sawers/VentureBeat)](http://www.techmeme.com/210811/p34#a210811p34)
+ - [Uber’s latest delivery service partnership has drawn the FTC’s attention](https://www.theverge.com/2021/8/11/22620267/uber-gopuff-ftc-investigation-drizly-delivery)
+ - [The best Chromebook for 2021](https://www.theverge.com/21296102/best-chromebooks)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
