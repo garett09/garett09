@@ -173,9 +173,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Rumoured Intel laptop chip could deliver desktop graphics card frame rates](https://www.pcgamer.com/intel-arrow-lake-p-rumour-mobile-processor-gpu)
- - [Try out the new Stony Peaks biome with Minecraft's latest 1.18 experimental snapshot](https://www.pcgamer.com/try-out-the-new-stony-peaks-biome-with-minecrafts-latest-118-experimental-snapshot)
- - [Watch Nintendo’s new Indie World stream](https://www.polygon.com/22618181/nintendo-direct-2021-indie-world-switch-date-time)<!-- GAME:END -->
+ - [Kingdomino is turning an ancient game piece into the next hit board game franchise](https://www.polygon.com/tabletop-games/22618761/kingdomino-origins-preview-designer-bruno-cathalha-interview)
+ - [Simlish ASMR is something I didn't know I needed until now](https://www.pcgamer.com/simlish-asmr-is-something-i-didnt-know-i-needed-until-now)
+ - [Collectors Are Driving Up PSP And Nintendo DS Game Prices In Japan](https://kotaku.com/collectors-are-driving-up-psp-and-nintendo-ds-game-pric-1847464563)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
