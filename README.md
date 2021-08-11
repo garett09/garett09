@@ -187,8 +187,8 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [If evolution isn&#039;t real, explain this](http://9gag.com/gag/awMjdZQ)
- - 🚯 [15 years and counting](http://9gag.com/gag/ajmvZrQ)
+ - 🚖 [I&#039;m 31, first apartment, not much only one room and bathroom but i am proud of it!](http://9gag.com/gag/aGpvG0w)
+ - 🚯 [Gubbel gubbel...](http://9gag.com/gag/av5qRYd)
  - 🚯 [Moms are the best](http://9gag.com/gag/aB2zGPQ)<!-- MEMES:END -->
 
 --- 
