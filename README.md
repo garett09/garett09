@@ -180,9 +180,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Facebook says it has removed a network of accounts from Russia linked to a UK marketing firm that pushed anti-vaccine content using Planet of the Apes memes (Elizabeth Culliford/Reuters)](http://www.techmeme.com/210810/p44#a210810p44)
- - [Sources: FTC is reviewing Uber's partnership with delivery startup Gopuff on anti-competitive grounds, as well as its purchase of alcohol delivery firm Drizly (The Information)](http://www.techmeme.com/210810/p43#a210810p43)
- - [Code in iOS 15 details AirPods Pro, Max integration with Apple's Find My network](https://appleinsider.com/articles/21/08/10/code-in-ios-15-details-airpods-pro-max-integration-with-apples-find-my-network?utm_medium=rss)<!-- TECH:END -->
+ - [Pave, whose software analyzes HR data to help companies close pay and equity gaps, raises $46M Series B led by YC Continuity at a $400M post-money valuation (Kyle Wiggers/VentureBeat)](http://www.techmeme.com/210810/p45#a210810p45)
+ - [2022 iPhones, Macs could boast 3nm chips](https://appleinsider.com/articles/21/08/11/2022-iphones-macs-could-boast-3nm-chips?utm_medium=rss)
+ - [BMW recalls Toyota Supra again, this time over loss of power brakes     - Roadshow](https://www.cnet.com/roadshow/news/bmw-toyota-supra-recall-power-brakes/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
