@@ -179,9 +179,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Shovel Knight: Pocket Dungeon drops this winter for Nintendo Switch](https://www.polygon.com/22620040/shovel-knight-pocket-dungeon-release-date-nintendo-switch)
- - [Metal Slug Tactics is bringing turn-based action to Nintendo Switch](https://www.polygon.com/22620080/metal-slug-tactics-nintendo-switch-roguelike)
- - [Axiom Verge 2 launches on Switch, PC, and PS4 today](https://www.polygon.com/22619980/axiom-verge-2-release-date-nintendo-switch-pc-ps4)<!-- GAME:END -->
+ - [The Biggest Shiny Pokémon Collector Needs One $30,000 Card To Complete Set](https://kotaku.com/the-biggest-shiny-pokemon-collector-needs-one-30-000-c-1847466672)
+ - [Criterion is getting 4K Blu-rays starting with Citizen Kane and Mulholland Dr.](https://www.polygon.com/22620230/criterion-collection-4k-blu-ray-uhd-citizen-kane-mulholland-dr)
+ - [Mike Richards is the new host of Jeopardy!](https://www.polygon.com/22611138/jeopardy-mike-richards-new-host)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
