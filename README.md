@@ -180,9 +180,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Singapore-headquartered Parcel Perform, which offers shipping logistics tools to e-commerce companies, raises $20M Series A led by Cambridge Capital (Manish Singh/TechCrunch)](http://www.techmeme.com/210811/p13#a210811p13)
- - [Predictive sales startup People.ai raises $100M from Mubadala Investment and Akkadian Ventures at a $1.1B valuation, up from $400M in 2019 (Bloomberg)](http://www.techmeme.com/210811/p12#a210811p12)
- - [What If...? is a playful expansion of Marvel’s multiverse](https://www.theverge.com/2021/8/11/22617245/what-if-marvel-disney-plus-streaming-interview-multiverse)<!-- TECH:END -->
+ - [How to use Safari extensions in iOS 15](https://appleinsider.com/articles/21/08/11/how-to-use-safari-extensions-in-ios-15?utm_medium=rss)
+ - [How to watch Samsung’s August 2021 Galaxy Unpacked Event](https://www.theverge.com/2021/8/11/22613824/samsung-galaxy-unpacked-how-to-watch-live-stream-time-galaxy-z-fold-flip-3)
+ - [Watch Samsung introduce its latest foldables live](http://feedproxy.google.com/~r/Techcrunch/~3/-fYuSdER440/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
