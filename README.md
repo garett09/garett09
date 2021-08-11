@@ -176,9 +176,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Biggest Shiny Pokémon Collector Needs One $30,000 Card To Complete Set](https://kotaku.com/the-biggest-shiny-pokemon-collector-needs-one-30-000-c-1847466672)
- - [Criterion is getting 4K Blu-rays starting with Citizen Kane and Mulholland Dr.](https://www.polygon.com/22620230/criterion-collection-4k-blu-ray-uhd-citizen-kane-mulholland-dr)
- - [Mike Richards is the new host of Jeopardy!](https://www.polygon.com/22611138/jeopardy-mike-richards-new-host)<!-- GAME:END -->
+ - [Hidden Gem Town-Builder Dwarrows is Available Today for Xbox One and Xbox Series X|S](https://news.xbox.com/en-us/2021/08/11/hidden-gem-dwarrows-a-town-building-and-adventure-game-released-on-xbox-today/)
+ - [Dead by Daylight devs buff Pyramid Head’s butt in latest patch](https://www.polygon.com/22620295/dead-by-daylight-pyramid-head-executioner-butt-patch-notes-fix)
+ - [Where to place video cameras at different landing ship locations in Fortnite](https://www.pcgamer.com/place-video-cameras-fortnite)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
