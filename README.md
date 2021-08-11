@@ -190,9 +190,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I got nothing... books maybe?!!](http://9gag.com/gag/aK6ZOVQ)
- - 🚯 [The Vessel, a $200 million staircase that keeps getting closed due to suicides](http://9gag.com/gag/av5qmoZ)
- - 🚯 [There is no curse in the tongues of Men for this treachery](http://9gag.com/gag/aRXW257)<!-- MEMES:END -->
+ - 🚖 [Must&#039;ve been one good looking boy.](http://9gag.com/gag/ayMrPdb)
+ - 🚯 [Scam](http://9gag.com/gag/a27gGb1)
+ - 🚯 [Allheilmittel](http://9gag.com/gag/agB9Kxw)<!-- MEMES:END -->
 
 --- 
 
