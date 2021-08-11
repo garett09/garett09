@@ -173,9 +173,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How FPS masters and Gears Tactics studio Splash Damage went from team-based to turn-based](https://www.pcgamer.com/how-fps-masters-and-gears-tactics-studio-splash-damage-went-from-team-based-to-turn-based)
- - [Soviet immersive sim Atomic Heart is in the final stages of development, will have 2 endings](https://www.pcgamer.com/soviet-immersive-sim-atomic-heart-is-in-the-final-stages-of-development-will-have-2-endings)
- - [Baldur's Gate 3: Everything we know](https://www.pcgamer.com/baldurs-gate-3-everything-we-know)<!-- GAME:END -->
+ - [Assassin's Creed Valhalla: The Siege of Paris nails the bleak and cruel landscape of 9th century Francia](https://www.pcgamer.com/assassins-creed-valhalla-the-siege-of-paris-nails-the-bleak-and-cruel-landscape-of-9th-century-francia)
+ - [If you love sad knights, Scottish skeletons and Dark Souls, check out this free horror game](https://www.pcgamer.com/if-you-love-sad-knights-scottish-skeletons-and-dark-souls-check-out-this-free-horror-game)
+ - [How FPS masters and Gears Tactics studio Splash Damage went from team-based to turn-based](https://www.pcgamer.com/how-fps-masters-and-gears-tactics-studio-splash-damage-went-from-team-based-to-turn-based)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
