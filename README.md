@@ -193,9 +193,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Just an average hotel room in Kazakhstan](http://9gag.com/gag/av5qd7n)
- - 🚯 [The Internet](http://9gag.com/gag/awMjY0R)
- - 🚯 [I don&#039;t get it](http://9gag.com/gag/aB2zXdN)<!-- MEMES:END -->
+ - 🚖 [It works](http://9gag.com/gag/av5qdBn)
+ - 🚯 [Just an average hotel room in Kazakhstan](http://9gag.com/gag/av5qd7n)
+ - 🚯 [The Internet](http://9gag.com/gag/awMjY0R)<!-- MEMES:END -->
 
 --- 
 
