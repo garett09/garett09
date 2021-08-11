@@ -180,9 +180,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to use Safari extensions in iOS 15](https://appleinsider.com/articles/21/08/11/how-to-use-safari-extensions-in-ios-15?utm_medium=rss)
- - [How to watch Samsung’s August 2021 Galaxy Unpacked Event](https://www.theverge.com/2021/8/11/22613824/samsung-galaxy-unpacked-how-to-watch-live-stream-time-galaxy-z-fold-flip-3)
- - [Watch Samsung introduce its latest foldables live](http://feedproxy.google.com/~r/Techcrunch/~3/-fYuSdER440/)<!-- TECH:END -->
+ - [Samsung announces Galaxy Z Flip3 with a 120Hz, 6.7-inch internal display, plus a 1.9-inch fold-out panel, starting at $999, shipping August 26 (Ben Schoon/9to5Google)](http://www.techmeme.com/210811/p22#a210811p22)
+ - [Samsung announces Galaxy Watch4, starting at $249, and Galaxy Watch4 Classic, starting at $349, both with "Wear OS Powered by Samsung", shipping August 27 (Jon Porter/The Verge)](http://www.techmeme.com/210811/p20#a210811p20)
+ - [Samsung announces Galaxy Z Fold3 with a 120Hz, 7.6-inch primary screen, S Pen support, and IPX8 water resistance, on sale starting August 27 for $1,799 (Chris Welch/The Verge)](http://www.techmeme.com/210811/p21#a210811p21)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
