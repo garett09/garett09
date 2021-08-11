@@ -173,9 +173,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Baldur's Gate 3: Everything we know](https://www.pcgamer.com/baldurs-gate-3-everything-we-know)
  - [The best gaming laptops in Australia for 2021](https://www.pcgamer.com/the-best-gaming-laptops-in-australia-for-2021)
- - [What If Fall Guys, But Cars?](https://kotaku.com/what-if-fall-guys-but-cars-1847462721)
- - [Here's 12 minutes of Forza Horizon 5 gameplay footage](https://www.pcgamer.com/heres-12-minutes-of-forza-horizon-5-gameplay-footage)<!-- GAME:END -->
+ - [What If Fall Guys, But Cars?](https://kotaku.com/what-if-fall-guys-but-cars-1847462721)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
