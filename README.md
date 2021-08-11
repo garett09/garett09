@@ -187,9 +187,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I don&#039;t get it](http://9gag.com/gag/aB2zXdN)
- - 🚯 [More time to watch The Mummy](http://9gag.com/gag/a4Eg2nv)
- - 🚯 [Moms are the best](http://9gag.com/gag/aB2zGPQ)<!-- MEMES:END -->
+ - 🚖 [First World Millionaire Problems](http://9gag.com/gag/a3EgWN8)
+ - 🚯 [Its sad because its true!](http://9gag.com/gag/aRXW2zA)
+ - 🚯 [Go to your grandparets, they said.. It&#039;s gona be fun, they said..](http://9gag.com/gag/a9EwX8m)<!-- MEMES:END -->
 
 --- 
 
