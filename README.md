@@ -184,9 +184,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple employees express concern over new child safety tools](https://appleinsider.com/articles/21/08/12/apple-employees-express-concern-over-new-child-safety-tools?utm_medium=rss)
  - [Disney+ reaches 116M subscribers in less than two years](https://appleinsider.com/articles/21/08/12/disney-reaches-116m-subscribers-in-less-than-two-years?utm_medium=rss)
- - [How many phones do you have around? Samsung wants them all for a Z Fold 3.](https://www.androidauthority.com/samsung-trade-in-galaxy-z-fold-3-2733890/)<!-- TECH:END -->
+ - [Amid Black Widow lawsuit, Disney boss defends its pandemic release strategy](https://www.theverge.com/2021/8/12/22622604/black-widow-lawsuit-disney-defends-release)
+ - [DoorDash reports Q2 revenue of $1.24B, up 83% YoY, total orders of 345M, up 69% YoY, net loss of $102M, and says fee caps in cities like NY and LA cost it $26M (Dee-Ann Durbin/Associated Press)](http://www.techmeme.com/210812/p38#a210812p38)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
