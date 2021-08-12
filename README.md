@@ -177,9 +177,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Surgeon Simulator 2: Access All Areas is Coming Soon to Xbox Game Pass](https://news.xbox.com/en-us/2021/08/12/surgeon-simulator-2-coming-soon-xbox-game-pass/)
- - [Venom: Let There Be Carnage delayed](https://www.polygon.com/22622006/movie-venom-2-let-there-be-carnage-delayed-new-release-date)
- - [No, Halo Infinite’s Bots Aren’t Actually Teabagging Anyone](https://kotaku.com/no-halo-infinite-s-bots-aren-t-actually-teabagging-any-1847474724)<!-- GAME:END -->
+ - [Chainsaw Man’s creator abandons the gore in his emotionally devastating new manga](https://www.polygon.com/22621776/manga-chainsaw-man-creator-look-back-one-shot-tatsuki-fujimoto)
+ - [Car Mechanic Simulator 2021 is Available Now for Xbox One and Xbox Series X|S](https://news.xbox.com/en-us/2021/08/12/car-mechanic-simulator-2021-available-now/)
+ - [Frostpunk Is Getting A Sequel Called...Frostpunk 2](https://kotaku.com/frostpunk-is-getting-a-sequel-called-frostpunk-2-1847476027)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
