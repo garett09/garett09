@@ -177,9 +177,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Chainsaw Man’s creator abandons the gore in his emotionally devastating new manga](https://www.polygon.com/22621776/manga-chainsaw-man-creator-look-back-one-shot-tatsuki-fujimoto)
- - [Car Mechanic Simulator 2021 is Available Now for Xbox One and Xbox Series X|S](https://news.xbox.com/en-us/2021/08/12/car-mechanic-simulator-2021-available-now/)
- - [Frostpunk Is Getting A Sequel Called...Frostpunk 2](https://kotaku.com/frostpunk-is-getting-a-sequel-called-frostpunk-2-1847476027)<!-- GAME:END -->
+ - [Rogue Company Voyages to Japan in the Latest Update](https://news.xbox.com/en-us/2021/08/12/rogue-company-voyages-to-japan-in-the-latest-update/)
+ - [Team Fortress 2 Fans Are Rebuilding The Game With Latest Tech](https://kotaku.com/team-fortress-2-fans-are-rebuilding-the-game-with-lates-1847475438)
+ - [League’s newly sexy skeleton man is causing problems for everyone](https://www.polygon.com/22620303/league-of-legends-wild-rift-cinematic-thresh-noxus-bort)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
