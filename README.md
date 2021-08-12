@@ -184,9 +184,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at how centralized social media platforms have made the creator and gig economies equally corrosive for workers and what can be done to remedy the issue (Li Jin/Li's Newsletter)](http://www.techmeme.com/210812/p18#a210812p18)
- - [How to Scan a QR Code](https://www.wired.com/story/how-to-scan-a-qr-code)
- - [Reddit is now valued at more than $10 billion](https://www.theverge.com/2021/8/12/22621445/reddit-valuation-revenue-funding-round)<!-- TECH:END -->
+ - [Plex just changed the game when it comes to music playlists that aren’t terrible](https://www.androidauthority.com/plex-super-sonic-2733162/)
+ - [Youreka Labs spins out with $8M to provide smart mobile assistant apps to field workers](http://feedproxy.google.com/~r/Techcrunch/~3/jlOq-mAclJI/)
+ - [Wonder Brands picks up $20M, aims to build marketplace of Latin American e-commerce brands](http://feedproxy.google.com/~r/Techcrunch/~3/t5WtgC_-73Q/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
