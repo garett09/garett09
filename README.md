@@ -177,9 +177,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Life is Strange remaster delayed to 2022](https://www.pcgamer.com/life-is-strange-remaster-delayed-to-2022)
- - [Explaining Hunter x Hunter’s wildest arc is a rite of passage](https://www.polygon.com/22619955/hunter-x-hunter-chimera-ant-fans-netflix)
- - [Diablo 4 director, lead level designer, and WoW designer depart Blizzard](https://www.pcgamer.com/diablo-4-director-lead-level-designer-and-wow-designer-all-fired-from-blizzard)<!-- GAME:END -->
+ - [Gigabyte Hackers Threaten To Leak Internal AMD, Intel Documents](https://kotaku.com/gigabyte-hackers-threaten-to-leak-internal-amd-intel-d-1847470589)
+ - [Apex Legends lead game designer fired for remarks made in 2007](https://www.pcgamer.com/apex-legends-lead-game-designer-fired-for-remarks-made-in-2007)
+ - [Call Of Duty League Crowds Will Have To Be Vaccinated, Wear Masks](https://kotaku.com/call-of-duty-league-crowds-will-have-to-be-vaccinated-1847470157)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
