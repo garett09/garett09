@@ -177,9 +177,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Frostpunk 2 is a more ambitious dystopian apocalypse simulator](https://www.polygon.com/22621800/frostpunk-2-trailer-survival-city-builder-sequel-details)
- - [Battlefield 2042 story trailer brings back a BF4 favorite](https://www.polygon.com/22621841/battlefield-2042-short-film-exodus-story-irish-specialist)
- - [Overwatch League Casters Stop Saying McCree’s Name](https://kotaku.com/overwatch-league-casters-stop-saying-mccree-s-name-1847474058)<!-- GAME:END -->
+ - [The GTA Remastered Trilogy Appears To Be Real, And Coming To Switch](https://kotaku.com/the-gta-remastered-trilogy-appears-to-be-real-and-comi-1847474620)
+ - [QuakeCon 2021 – Three Days of Livestreams, Giveaways, Charities, and More](https://news.xbox.com/en-us/2021/08/12/quakecon-2021-three-days-of-livestreams-giveaways-charities-and-more/)
+ - [Frostpunk 2 is a more ambitious dystopian apocalypse simulator](https://www.polygon.com/22621800/frostpunk-2-trailer-survival-city-builder-sequel-details)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
