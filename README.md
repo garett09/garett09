@@ -184,9 +184,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Zoom’s new focus mode could keep students from distracting each other](https://www.theverge.com/2021/8/11/22620822/zoom-virtual-learning-classes-focus-mode-teachers-students)
- - [New iOS 15 and iPadOS 15 developer tool aggressively prioritizes 5G over Wi-Fi](https://appleinsider.com/articles/21/08/11/new-ios-15-and-ipados-15-developer-tool-aggressively-prioritizes-5g-over-wi-fi?utm_medium=rss)
- - [WhatsApp to enable chat history transfers between iOS and Android](https://appleinsider.com/articles/21/08/11/whatsapp-to-enable-chat-history-transfers-between-ios-and-android?utm_medium=rss)<!-- TECH:END -->
+ - [Samsung's new Galaxy Watch 4 models are not iOS compatible](https://appleinsider.com/articles/21/08/12/samsungs-new-galaxy-watch-4-models-are-not-ios-compatible?utm_medium=rss)
+ - [Saturn, a social calendar app for US high school students, raises $35M led by General Catalyst, Insight Partners, and Coatue, bringing its total raised to $44M (Alexandra Sternlicht/Forbes)](http://www.techmeme.com/210811/p40#a210811p40)
+ - [Asteroid Bennu has very tiny chance of smashing into Earth, NASA says     - CNET](https://www.cnet.com/news/asteroid-bennu-has-very-tiny-chance-of-smashing-into-earth-nasa-says/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
