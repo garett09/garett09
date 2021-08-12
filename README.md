@@ -184,9 +184,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Adia Sowho helped steer Thrive Agric through the pandemic crisis](http://feedproxy.google.com/~r/Techcrunch/~3/G1e8_iveieI/)
- - [Sources: Atlanta-based MailChimp explores strategic options, including a sale at a $10B+ valuation; source says MailChimp had $300M in EBITDA earnings in 2020 (Bloomberg)](http://www.techmeme.com/210812/p5#a210812p5)
- - [Spotify’s Wear OS app is finally gaining offline playback support](https://www.androidauthority.com/spotify-wear-os-offline-playback-2733406/)<!-- TECH:END -->
+ - [You told us: You aren’t too enthusiastic about your phone’s AI camera modes](https://www.androidauthority.com/phone-camera-ai-mode-poll-results-2733352/)
+ - [After Alibaba fired an employee accused of rape, over 6,000 workers sign a letter urging it to ban sexual remarks and games in ice-breaking and business events (Li Yuan/New York Times)](http://www.techmeme.com/210812/p11#a210812p11)
+ - [US grocery delivery startup Gopuff says it has acquired British competitor Dija, which was founded in Dec. 2020 and has raised $20M seed, to expand into Europe (Ryan Browne/CNBC)](http://www.techmeme.com/210812/p10#a210812p10)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
