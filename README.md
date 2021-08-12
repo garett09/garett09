@@ -191,9 +191,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Landing a plane](http://9gag.com/gag/aV7rdZd)
+ - 🚖 [This doctor was ahead of his time](http://9gag.com/gag/aO3Ej1R)
  - 🚯 [Shake hands...](http://9gag.com/gag/a9EwN1W)
- - 🚯 [Let the battle of existence begin!!! through internet .](http://9gag.com/gag/awMjG71)<!-- MEMES:END -->
+ - 🚯 [More than 50% of Latinas live near a beach in walking distance](http://9gag.com/gag/aQobNrw)<!-- MEMES:END -->
 
 --- 
 
