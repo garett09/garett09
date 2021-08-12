@@ -184,9 +184,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [WhatsApp to enable chat history transfers between iOS and Android](https://appleinsider.com/articles/21/08/11/whatsapp-to-enable-chat-history-transfers-between-ios-and-android?utm_medium=rss)
- - [Lordstown Motors pivots to renting space at former GM factory](https://www.theverge.com/2021/8/11/22620787/lordstown-motors-q2-2021-earnings-gm-factory-production-manufacturing)
- - [Mushroom-based meat alternative startup Fable Food raises $6.5M AUD, will launch in the US](http://feedproxy.google.com/~r/Techcrunch/~3/FqigvHpyWc0/)<!-- TECH:END -->
+ - [Zoom’s new focus mode could keep students from distracting each other](https://www.theverge.com/2021/8/11/22620822/zoom-virtual-learning-classes-focus-mode-teachers-students)
+ - [New iOS 15 and iPadOS 15 developer tool aggressively prioritizes 5G over Wi-Fi](https://appleinsider.com/articles/21/08/11/new-ios-15-and-ipados-15-developer-tool-aggressively-prioritizes-5g-over-wi-fi?utm_medium=rss)
+ - [WhatsApp to enable chat history transfers between iOS and Android](https://appleinsider.com/articles/21/08/11/whatsapp-to-enable-chat-history-transfers-between-ios-and-android?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
