@@ -191,9 +191,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Have your breakfast at that nice place at Norway](http://9gag.com/gag/a8ENXO3)
- - 🚯 [Pool time, MADAFAKAS!](http://9gag.com/gag/ayMrZWY)
- - 🚯 [No farmers no food never give up](http://9gag.com/gag/aB2zj4D)<!-- MEMES:END -->
+ - 🚖 [Pool time, MADAFAKAS!](http://9gag.com/gag/ayMrZWY)
+ - 🚯 [Robin Williams used his films to give homeless people jobs.](http://9gag.com/gag/av5q4jM)
+ - 🚯 [Every Clock in &quot;Joker&quot; (2019) Is Set To 11:11. One Theory as to Why States that the Clock Doesn&rsquo;t Move Because Everything Is Happening In Arthur&rsquo;s Head&rdquo;](http://9gag.com/gag/aMK7DDP)<!-- MEMES:END -->
 
 --- 
 
