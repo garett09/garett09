@@ -184,9 +184,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung's new Galaxy Watch 4 models are not iOS compatible](https://appleinsider.com/articles/21/08/12/samsungs-new-galaxy-watch-4-models-are-not-ios-compatible?utm_medium=rss)
- - [Saturn, a social calendar app for US high school students, raises $35M led by General Catalyst, Insight Partners, and Coatue, bringing its total raised to $44M (Alexandra Sternlicht/Forbes)](http://www.techmeme.com/210811/p40#a210811p40)
- - [Asteroid Bennu has very tiny chance of smashing into Earth, NASA says     - CNET](https://www.cnet.com/news/asteroid-bennu-has-very-tiny-chance-of-smashing-into-earth-nasa-says/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Chicago-based Hologram, which develops a custom SIM card to give IoT devices data access from multiple carriers, raises a $65M Series B led by Tiger Global (Jim Dallke/Chicago Business Journal)](http://www.techmeme.com/210811/p42#a210811p42)
+ - [Shanghai-based MediTrust Health, an online healthcare payment and pharmacy platform, raises $308M Series C, following a $154.2M Series B in March (KrASIA)](http://www.techmeme.com/210811/p41#a210811p41)
+ - [Samsung's new Galaxy Watch 4 models are not iOS compatible](https://appleinsider.com/articles/21/08/12/samsungs-new-galaxy-watch-4-models-are-not-ios-compatible?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
