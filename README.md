@@ -191,9 +191,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Wait a minute ..](http://9gag.com/gag/awMjjjr)
- - 🚯 [Jamaican hurdler Hansle Parchment tracked down and thanked a Tokyo 2020 volunteer from Serbia, who paid for his taxi to the Olympic Stadium, where he later won a gold medal.](http://9gag.com/gag/aeAzqWb)
- - 🚯 [I wish i&#039;d watched it earlier. Amazing show.](http://9gag.com/gag/aP3LL8G)<!-- MEMES:END -->
+ - 🚖 [This is absolutely breathtaking video.](http://9gag.com/gag/a27ggMd)
+ - 🚯 [Titanic - Animated Version](http://9gag.com/gag/aMK76xR)
+ - 🚯 [Fail](http://9gag.com/gag/aYo65e0)<!-- MEMES:END -->
 
 --- 
 
