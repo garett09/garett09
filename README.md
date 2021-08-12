@@ -191,9 +191,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What a Chad](http://9gag.com/gag/aeAzE7p)
- - 🚯 [If you love your country... (3min)](http://9gag.com/gag/apN7nGW)
- - 🚯 [Man Saves Woman and her Dog Seconds Before Car Sinks](http://9gag.com/gag/a5Eg9YL)<!-- MEMES:END -->
+ - 🚖 [Yelling at a raccoon can be dangerous](http://9gag.com/gag/a27gAjd)
+ - 🚯 [What a Chad](http://9gag.com/gag/aeAzE7p)
+ - 🚯 [Just do right by the rest of society. Thats all we ask.](http://9gag.com/gag/azMyzwx)<!-- MEMES:END -->
 
 --- 
 
