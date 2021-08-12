@@ -191,8 +191,8 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Post ur favorite gifs/memes/videos. This is mine.](http://9gag.com/gag/a8ENzjY)
- - 🚯 [Perfect bonk sound](http://9gag.com/gag/aDd9N7d)
+ - 🚖 [Landing a plane](http://9gag.com/gag/aV7rdZd)
+ - 🚯 [Shake hands...](http://9gag.com/gag/a9EwN1W)
  - 🚯 [Let the battle of existence begin!!! through internet .](http://9gag.com/gag/awMjG71)<!-- MEMES:END -->
 
 --- 
