@@ -184,9 +184,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - ['iPhone 13' to launch in September with A15, bigger batteries, researchers say](https://appleinsider.com/articles/21/08/12/iphone-13-to-launch-in-september-with-a15-bigger-batteries-trendforce-says?utm_medium=rss)
- - [Billie Eilish and Apple Music team up on Spatial Audio short film](https://appleinsider.com/articles/21/08/12/billie-eilish-and-apple-music-team-up-on-spatial-audio-short-film?utm_medium=rss)
- - [3 lies VCs tell ourselves about startup valuations](http://feedproxy.google.com/~r/Techcrunch/~3/vSJT2jfDDiA/)<!-- TECH:END -->
+ - [Samsung’s Galaxy Watch 4 calculates body fat from the wrist](https://www.theverge.com/2021/8/12/22621600/samsung-galaxy-watch-body-fat-composition)
+ - [Get these sub-branded Soundpeats earbuds for just $7.80     - CNET](https://www.cnet.com/tech/mobile/get-these-sub-branded-soundpeats-earbuds-for-just-7-80/#ftag=CAD590a51e)
+ - [Strava’s new update gives users control over their privacy](https://www.androidauthority.com/strava-update-privacy-settings-2733212/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
