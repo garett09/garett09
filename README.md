@@ -191,9 +191,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [And that&#039;s why men earn more](http://9gag.com/gag/a1rgwEw)
- - 🚯 [No way](http://9gag.com/gag/aRXWRy2)
- - 🚯 [Its just bad](http://9gag.com/gag/ad8ARbQ)<!-- MEMES:END -->
+ - 🚖 [Landing a plane](http://9gag.com/gag/aV7rdZd)
+ - 🚯 [A short intro](http://9gag.com/gag/aYo6dex)
+ - 🚯 [So many questions...](http://9gag.com/gag/aQobrKq)<!-- MEMES:END -->
 
 --- 
 
