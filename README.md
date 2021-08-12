@@ -184,9 +184,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Agora, a materials management platform for building contractors, raises $33M Series B led by Tiger Global, bringing its total raised to about $45M (Mary Ann Azevedo/TechCrunch)](http://www.techmeme.com/210812/p26#a210812p26)
- - [Nikola wins $2 million DOE grant after founder’s indictment](https://www.theverge.com/2021/8/12/22621530/nikola-doe-grant-hydrogen-fueling-autonomous-biden-granholm)
- - ['iPhone 13' to launch in September with A15, bigger batteries, TrendForce says](https://appleinsider.com/articles/21/08/12/iphone-13-to-launch-in-september-with-a15-bigger-batteries-trendforce-says?utm_medium=rss)<!-- TECH:END -->
+ - ['iPhone 13' to launch in September with A15, bigger batteries, researchers say](https://appleinsider.com/articles/21/08/12/iphone-13-to-launch-in-september-with-a15-bigger-batteries-trendforce-says?utm_medium=rss)
+ - [Billie Eilish and Apple Music team up on Spatial Audio short film](https://appleinsider.com/articles/21/08/12/billie-eilish-and-apple-music-team-up-on-spatial-audio-short-film?utm_medium=rss)
+ - [3 lies VCs tell ourselves about startup valuations](http://feedproxy.google.com/~r/Techcrunch/~3/vSJT2jfDDiA/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
