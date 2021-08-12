@@ -191,9 +191,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Every Clock in &quot;Joker&quot; (2019) Is Set To 11:11. One Theory as to Why States that the Clock Doesn&rsquo;t Move Because Everything Is Happening In Arthur&rsquo;s Head&rdquo;](http://9gag.com/gag/aMK7DDP)
- - 🚯 [If you love your country... (3min)](http://9gag.com/gag/apN7nGW)
- - 🚯 [Jamaican hurdler Hansle Parchment tracked down and thanked a Tokyo 2020 volunteer from Serbia, who paid for his taxi to the Olympic Stadium, where he later won a gold medal.](http://9gag.com/gag/aeAzqWb)<!-- MEMES:END -->
+ - 🚖 [Tried so hard](http://9gag.com/gag/a7EgmWm)
+ - 🚯 [Hmmmm](http://9gag.com/gag/aDd9r2Z)
+ - 🚯 [After living in the city for 8 years. Moving to this paradise in about 4months](http://9gag.com/gag/a6Eg489)<!-- MEMES:END -->
 
 --- 
 
