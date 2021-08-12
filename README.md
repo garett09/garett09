@@ -184,9 +184,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Foxconn beats on Q2 earnings, COVID & chip shortage may impact Q3](https://appleinsider.com/articles/21/08/12/foxconn-beats-on-q2-earnings-covid-chip-shortage-may-impact-q3?utm_medium=rss)
- - [Google Fi has one of the most interesting Samsung Galaxy Flip 3 preorder deals today     - CNET](https://www.cnet.com/tech/mobile/google-fi-has-one-of-the-most-interesting-samsung-galaxy-flip-3-preorder-deals-today/#ftag=CAD590a51e)
- - [Even Microsoft is mocking its Xbox Series X name](https://www.theverge.com/tldr/2021/8/12/22621589/microsoft-xbox-series-x-name-meme-mock-video)<!-- TECH:END -->
+ - [Agora, a materials management platform for building contractors, raises $33M Series B led by Tiger Global, bringing its total raised to about $45M (Mary Ann Azevedo/TechCrunch)](http://www.techmeme.com/210812/p26#a210812p26)
+ - [Nikola wins $2 million DOE grant after founder’s indictment](https://www.theverge.com/2021/8/12/22621530/nikola-doe-grant-hydrogen-fueling-autonomous-biden-granholm)
+ - ['iPhone 13' to launch in September with A15, bigger batteries, TrendForce says](https://appleinsider.com/articles/21/08/12/iphone-13-to-launch-in-september-with-a15-bigger-batteries-trendforce-says?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
