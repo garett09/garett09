@@ -191,9 +191,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I wish i&#039;d watched it earlier. Amazing show.](http://9gag.com/gag/aP3LL8G)
- - 🚯 [Just do right by the rest of society. Thats all we ask.](http://9gag.com/gag/azMyzwx)
- - 🚯 [What a Chad](http://9gag.com/gag/aeAzE7p)<!-- MEMES:END -->
+ - 🚖 [Wait a minute ..](http://9gag.com/gag/awMjjjr)
+ - 🚯 [Jamaican hurdler Hansle Parchment tracked down and thanked a Tokyo 2020 volunteer from Serbia, who paid for his taxi to the Olympic Stadium, where he later won a gold medal.](http://9gag.com/gag/aeAzqWb)
+ - 🚯 [I wish i&#039;d watched it earlier. Amazing show.](http://9gag.com/gag/aP3LL8G)<!-- MEMES:END -->
 
 --- 
 
