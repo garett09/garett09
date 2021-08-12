@@ -177,9 +177,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Chivalry 2: House Galencourt – New Features To Get Excited About](https://news.xbox.com/en-us/2021/08/12/chivalry-2-house-galencourt-new-features/)
- - [What Is Even Happening In These Video Game Ads, Help](https://kotaku.com/what-is-even-happening-in-these-video-game-ads-help-1847477175)
- - [Life is Strange: True Colors’ prequel DLC looks super cozy](https://www.polygon.com/22622370/life-is-strange-wavelengths-prequel-dlc-true-colors-steph)<!-- GAME:END -->
+ - [Mad with power, fishing sim developers release an entire expansion about scallops](https://www.pcgamer.com/fishing-north-atlantic-has-an-entire-expansion-about-scallops)
+ - [It sure sounds like GTA 3, Vice City and San Andreas are getting a remaster this year](https://www.pcgamer.com/it-sure-sounds-like-gta-3-vice-city-and-san-andreas-are-getting-a-remaster-this-year)
+ - [Marvel’s Shang-Chi will come to Disney Plus 45 days after theatrical release](https://www.polygon.com/22622272/shang-chi-and-the-legend-of-the-ten-rings-disney-plus-45-day-window)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
