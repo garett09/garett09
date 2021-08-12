@@ -184,9 +184,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Plex just changed the game when it comes to music playlists that aren’t terrible](https://www.androidauthority.com/plex-super-sonic-2733162/)
- - [Youreka Labs spins out with $8M to provide smart mobile assistant apps to field workers](http://feedproxy.google.com/~r/Techcrunch/~3/jlOq-mAclJI/)
- - [Wonder Brands picks up $20M, aims to build marketplace of Latin American e-commerce brands](http://feedproxy.google.com/~r/Techcrunch/~3/t5WtgC_-73Q/)<!-- TECH:END -->
+ - [Foxconn beats on Q2 earnings, COVID & chip shortage may impact Q3](https://appleinsider.com/articles/21/08/12/foxconn-beats-on-q2-earnings-covid-chip-shortage-may-impact-q3?utm_medium=rss)
+ - [Google Fi has one of the most interesting Samsung Galaxy Flip 3 preorder deals today     - CNET](https://www.cnet.com/tech/mobile/google-fi-has-one-of-the-most-interesting-samsung-galaxy-flip-3-preorder-deals-today/#ftag=CAD590a51e)
+ - [Even Microsoft is mocking its Xbox Series X name](https://www.theverge.com/tldr/2021/8/12/22621589/microsoft-xbox-series-x-name-meme-mock-video)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
