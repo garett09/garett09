@@ -191,9 +191,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Seems like there had to be others outside these two and the one filming](http://9gag.com/gag/aV7rd5O)
- - 🚯 [Landing a plane](http://9gag.com/gag/aV7rdZd)
- - 🚯 [KGB defector Yuri Bezmenov predicts word for word what is happening in the U.S. right now](http://9gag.com/gag/a1rgOQ2)<!-- MEMES:END -->
+ - 🚖 [Landing a plane](http://9gag.com/gag/aV7rdZd)
+ - 🚯 [Scam](http://9gag.com/gag/a27gGb1)
+ - 🚯 [Post ur favorite gifs/memes/videos. This is mine.](http://9gag.com/gag/a8ENzjY)<!-- MEMES:END -->
 
 --- 
 
