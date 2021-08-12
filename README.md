@@ -184,9 +184,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [You told us: You aren’t too enthusiastic about your phone’s AI camera modes](https://www.androidauthority.com/phone-camera-ai-mode-poll-results-2733352/)
- - [After Alibaba fired an employee accused of rape, over 6,000 workers sign a letter urging it to ban sexual remarks and games in ice-breaking and business events (Li Yuan/New York Times)](http://www.techmeme.com/210812/p11#a210812p11)
- - [US grocery delivery startup Gopuff says it has acquired British competitor Dija, which was founded in Dec. 2020 and has raised $20M seed, to expand into Europe (Ryan Browne/CNBC)](http://www.techmeme.com/210812/p10#a210812p10)<!-- TECH:END -->
+ - [Reddit raises $410M+ led by Fidelity Investments at a $10B+ valuation, up from $6B six months ago when it raised $250M (Mike Isaac/New York Times)](http://www.techmeme.com/210812/p16#a210812p16)
+ - [Daily Authority: New Galaxy 🌌](https://www.androidauthority.com/newsletters/da-august-12-2021/)
+ - [London-based Aforza, which builds tools on top of Salesforce and Google Cloud to help sell consumer packaged goods, raises $22M Series A led by DN Capital (Christine Hall/TechCrunch)](http://www.techmeme.com/210812/p15#a210812p15)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
