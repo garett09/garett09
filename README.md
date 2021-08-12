@@ -184,9 +184,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [VerSe Innovation, parent of news aggregator Dailyhunt and short video app Josh, raises $450M+ Series I, five months after raising $200M (Manish Singh/TechCrunch)](http://www.techmeme.com/210812/p1#a210812p1)
- - [Motorola’s latest G series phone brings swift 50W charging to the table](https://www.androidauthority.com/moto-g60s-2733306/)
- - [Google Pixel 6 camera and chipset details hinted in latest Android 12 beta](https://www.androidauthority.com/google-pixel-6-50mp-camera-2733304/)<!-- TECH:END -->
+ - [Daversa, an executive recruitment firm for companies like Instacart and Spotify, is facing allegations of male-on-male harassment and assault in a new lawsuit (Zoe Schiffer/The Verge)](http://www.techmeme.com/210812/p2#a210812p2)
+ - [Twitter locks account of India’s largest opposition party](http://feedproxy.google.com/~r/Techcrunch/~3/4J1FCtXuhrY/)
+ - [India’s Eruditus valued at $3.2 billion in $650 million fundraise](http://feedproxy.google.com/~r/Techcrunch/~3/HnZ3QcwQFbE/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
