@@ -191,9 +191,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Yelling at a raccoon can be dangerous](http://9gag.com/gag/a27gAjd)
- - 🚯 [What a Chad](http://9gag.com/gag/aeAzE7p)
- - 🚯 [Just do right by the rest of society. Thats all we ask.](http://9gag.com/gag/azMyzwx)<!-- MEMES:END -->
+ - 🚖 [I wish i&#039;d watched it earlier. Amazing show.](http://9gag.com/gag/aP3LL8G)
+ - 🚯 [Just do right by the rest of society. Thats all we ask.](http://9gag.com/gag/azMyzwx)
+ - 🚯 [What a Chad](http://9gag.com/gag/aeAzE7p)<!-- MEMES:END -->
 
 --- 
 
