@@ -191,9 +191,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Shake hands...](http://9gag.com/gag/a9EwN1W)
- - 🚯 [Have your breakfast at that nice place at Norway](http://9gag.com/gag/a8ENXO3)
- - 🚯 [Drying cocoa seeds on my family&#039;s farm... Thought you would appreciate](http://9gag.com/gag/a8ENnBV)<!-- MEMES:END -->
+ - 🚖 [Returning a fallen Koala joey back to mom .](http://9gag.com/gag/aeAzyDp)
+ - 🚯 [Perfect bonk sound](http://9gag.com/gag/aDd9N7d)
+ - 🚯 [What did they made it of?](http://9gag.com/gag/a7Eg6Km)<!-- MEMES:END -->
 
 --- 
 
