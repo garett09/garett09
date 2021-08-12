@@ -184,9 +184,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tulip, which builds cloud-based software tools for factory workers, raises $100M led by Insight Partners at a ~$1B valuation, bringing its total raised to $153M (Amy Feldman/Forbes)](http://www.techmeme.com/210811/p43#a210811p43)
- - [Chicago-based Hologram, which develops a custom SIM card to give IoT devices data access from multiple carriers, raises a $65M Series B led by Tiger Global (Jim Dallke/Chicago Business Journal)](http://www.techmeme.com/210811/p42#a210811p42)
- - [Shanghai-based MediTrust Health, an online healthcare payment and pharmacy platform, raises $308M Series C, following a $154.2M Series B in March (KrASIA)](http://www.techmeme.com/210811/p41#a210811p41)<!-- TECH:END -->
+ - [Apple plans housing project at undeveloped San Jose property after fire threatens encampment](https://appleinsider.com/articles/21/08/12/apple-plans-housing-project-at-undeveloped-san-jose-property-after-fire-threatens-encampment?utm_medium=rss)
+ - [Jake Paul vs. Tyron Woodley: Start time, how to watch, everything you need to know     - CNET](https://www.cnet.com/news/jake-paul-vs-tyron-woodley-start-time-how-to-watch-everything-you-need-to-know/#ftag=CAD590a51e)
+ - [AEW All Out 2021: CM Punk rumors, match card, how to watch     - CNET](https://www.cnet.com/news/aew-all-out-2021-cm-punk-rumors-match-card-how-to-watch/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
