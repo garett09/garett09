@@ -191,9 +191,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Landing a plane](http://9gag.com/gag/aV7rdZd)
- - 🚯 [Scam](http://9gag.com/gag/a27gGb1)
- - 🚯 [Post ur favorite gifs/memes/videos. This is mine.](http://9gag.com/gag/a8ENzjY)<!-- MEMES:END -->
+ - 🚖 [Post ur favorite gifs/memes/videos. This is mine.](http://9gag.com/gag/a8ENzjY)
+ - 🚯 [Perfect bonk sound](http://9gag.com/gag/aDd9N7d)
+ - 🚯 [Let the battle of existence begin!!! through internet .](http://9gag.com/gag/awMjG71)<!-- MEMES:END -->
 
 --- 
 
