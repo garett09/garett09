@@ -184,9 +184,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Do we see others online as human?](https://www.theverge.com/22621580/online-trolls-tiktok-facebook-twitter-comments)
- - [The best AT&T deals: Save $1,000 on the Galaxy Z Fold 3 with a trade-in](https://www.androidauthority.com/best-att-deals-2-836102/)
- - [How in the world did these AMD RX 6600 XT GPUs sell at or under MSRP?](https://www.theverge.com/2021/8/12/22622066/amd-rx-6600-xt-sale-msrp-micro-center-379-dollars)<!-- TECH:END -->
+ - [‘The tortoise and the hare’ story is playing out right now in VC](http://feedproxy.google.com/~r/Techcrunch/~3/LaTXloQ8twQ/)
+ - [Circle announces intention to become a bank, fully regulated by Federal Reserve, OCC, and FDIC, which could make USDC a de facto central bank digital currency (Felix Salmon/Axios)](http://www.techmeme.com/210812/p31#a210812p31)
+ - [Bill Gates wants in on Congress’ big climate infrastructure push](https://www.theverge.com/2021/8/12/22621636/bill-gates-fund-climate-change-tech)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
