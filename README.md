@@ -177,9 +177,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Nine Inch Nails guitarist and Spec Ops: The Line director team up to make a 'cosmic horror game'](https://www.pcgamer.com/eyes-out-announcement)
- - [Hack and Slash Your Way Out of Hell in Hades Starting August 13 with Xbox Game Pass](https://news.xbox.com/en-us/2021/08/12/hades-august-13-with-xbox-game-pass/)
- - [Studio Dunks On Cyberpunk 2077 While Explaining Open-World Game Delay](https://kotaku.com/studio-dunks-on-cyberpunk-2077-while-explaining-open-wo-1847472819)<!-- GAME:END -->
+ - [Activision Blizzard’s QA Department Seems Like A Hellhole](https://kotaku.com/activision-blizzard-s-qa-department-seems-like-a-hellho-1847473158)
+ - [Frostpunk 2 announced, takes place 30 years after we 'survive the unsurvivable'](https://www.pcgamer.com/frostpunk-2-announcement-trailer)
+ - [Free Play Days – Battlefield 4, Neon Abyss, and AO Tennis 2](https://news.xbox.com/en-us/2021/08/12/free-play-days-battlefield-4-neon-abyss-and-ao-tennis-2/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
