@@ -177,9 +177,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The battle royale games of 2021](https://www.pcgamer.com/battle-royale-games)
- - [Where to get a Grab-i-Tron in Fortnite](https://www.pcgamer.com/grab-itron-fortnite-gravity-gun-location)
- - [Gigabyte Hackers Threaten To Leak Internal AMD, Intel Documents](https://kotaku.com/gigabyte-hackers-threaten-to-leak-internal-amd-intel-d-1847470589)<!-- GAME:END -->
+ - [Metal Slug Tactics gameplay footage shows off its chunky sprites and vivid backgrounds](https://www.pcgamer.com/metal-slug-tactics-gameplay-footage-shows-off-its-chunky-sprites-and-vivid-backgrounds)
+ - [After a flood of 'hate-raiding', Twitch responds to calls to do more for marginalized streamers](https://www.pcgamer.com/after-a-flood-of-hate-raiding-twitch-responds-to-calls-to-do-more-for-marginalized-streamers)
+ - [The battle royale games of 2021](https://www.pcgamer.com/battle-royale-games)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
