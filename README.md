@@ -177,9 +177,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Microsoft Flight Simulator is Climbing to New Heights on Xbox Series X|S and PC](https://news.xbox.com/en-us/2021/08/12/microsoft-flight-simulator-climbing-to-new-heights/)
- - [Keyboard Group Buys Rule When They Don’t Suck](https://kotaku.com/keyboard-group-buys-rule-when-they-don-t-suck-1847468935)
- - [The best choice for a high-end gaming router is marked way down right now](https://www.pcgamer.com/the-best-choice-for-a-high-end-gaming-router-is-marked-way-down-right-now)<!-- GAME:END -->
+ - [Nine Inch Nails guitarist and Spec Ops: The Line director team up to make a 'cosmic horror game'](https://www.pcgamer.com/eyes-out-announcement)
+ - [Hack and Slash Your Way Out of Hell in Hades Starting August 13 with Xbox Game Pass](https://news.xbox.com/en-us/2021/08/12/hades-august-13-with-xbox-game-pass/)
+ - [Studio Dunks On Cyberpunk 2077 While Explaining Open-World Game Delay](https://kotaku.com/studio-dunks-on-cyberpunk-2077-while-explaining-open-wo-1847472819)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
