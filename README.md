@@ -192,8 +192,8 @@ Linux                    16 mins             ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 🚖 [Landing a plane](http://9gag.com/gag/aV7rdZd)
- - 🚯 [A short intro](http://9gag.com/gag/aYo6dex)
- - 🚯 [So many questions...](http://9gag.com/gag/aQobrKq)<!-- MEMES:END -->
+ - 🚯 [About time he gets some](http://9gag.com/gag/av5qm9b)
+ - 🚯 [KGB defector Yuri Bezmenov predicts word for word what is happening in the U.S. right now](http://9gag.com/gag/a1rgOQ2)<!-- MEMES:END -->
 
 --- 
 
