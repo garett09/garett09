@@ -177,9 +177,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Activision Blizzard’s QA Department Seems Like A Hellhole](https://kotaku.com/activision-blizzard-s-qa-department-seems-like-a-hellho-1847473158)
- - [Frostpunk 2 announced, takes place 30 years after we 'survive the unsurvivable'](https://www.pcgamer.com/frostpunk-2-announcement-trailer)
- - [Free Play Days – Battlefield 4, Neon Abyss, and AO Tennis 2](https://news.xbox.com/en-us/2021/08/12/free-play-days-battlefield-4-neon-abyss-and-ao-tennis-2/)<!-- GAME:END -->
+ - [Frostpunk 2 is a more ambitious dystopian apocalypse simulator](https://www.polygon.com/22621800/frostpunk-2-trailer-survival-city-builder-sequel-details)
+ - [Battlefield 2042 story trailer brings back a BF4 favorite](https://www.polygon.com/22621841/battlefield-2042-short-film-exodus-story-irish-specialist)
+ - [Overwatch League Casters Stop Saying McCree’s Name](https://kotaku.com/overwatch-league-casters-stop-saying-mccree-s-name-1847474058)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
