@@ -177,9 +177,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Everything you need to know about Naraka: Bladepoint](https://www.pcgamer.com/naraka-bladepoint-tips-guide)
- - [If you truly despise Windows 11’s Start menu, there’s an app for that](https://www.pcgamer.com/windows-11-stardock-start11-start-menu-taskbar)
- - [Meet the heroes of Naraka: Bladepoint](https://www.pcgamer.com/best-naraka-bladepoint-heroes-tier-list)<!-- GAME:END -->
+ - [Microsoft Flight Simulator is Climbing to New Heights on Xbox Series X|S and PC](https://news.xbox.com/en-us/2021/08/12/microsoft-flight-simulator-climbing-to-new-heights/)
+ - [Keyboard Group Buys Rule When They Don’t Suck](https://kotaku.com/keyboard-group-buys-rule-when-they-don-t-suck-1847468935)
+ - [The best choice for a high-end gaming router is marked way down right now](https://www.pcgamer.com/the-best-choice-for-a-high-end-gaming-router-is-marked-way-down-right-now)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
