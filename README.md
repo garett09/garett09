@@ -184,9 +184,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung’s Galaxy Watch 4 calculates body fat from the wrist](https://www.theverge.com/2021/8/12/22621600/samsung-galaxy-watch-body-fat-composition)
- - [Get these sub-branded Soundpeats earbuds for just $7.80     - CNET](https://www.cnet.com/tech/mobile/get-these-sub-branded-soundpeats-earbuds-for-just-7-80/#ftag=CAD590a51e)
- - [Strava’s new update gives users control over their privacy](https://www.androidauthority.com/strava-update-privacy-settings-2733212/)<!-- TECH:END -->
+ - [Do we see others online as human?](https://www.theverge.com/22621580/online-trolls-tiktok-facebook-twitter-comments)
+ - [The best AT&T deals: Save $1,000 on the Galaxy Z Fold 3 with a trade-in](https://www.androidauthority.com/best-att-deals-2-836102/)
+ - [How in the world did these AMD RX 6600 XT GPUs sell at or under MSRP?](https://www.theverge.com/2021/8/12/22622066/amd-rx-6600-xt-sale-msrp-micro-center-379-dollars)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
