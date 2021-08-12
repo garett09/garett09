@@ -177,9 +177,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Someone built Hollow Knight's Forgotten Crossroads hot spring in Minecraft](https://www.pcgamer.com/someone-built-hollow-knights-forgotten-crossroads-hot-spring-in-minecraft)
  - [Student or not, Dell's Back to School sale has actual gaming PCs with actual GPUs](https://www.pcgamer.com/dell-back-to-school-gaming-pc-deal)
- - [Metal Slug Tactics gameplay footage shows off its chunky sprites and vivid backgrounds](https://www.pcgamer.com/metal-slug-tactics-gameplay-footage-shows-off-its-chunky-sprites-and-vivid-backgrounds)
- - [After a flood of 'hate-raiding', Twitch responds to calls to do more for marginalized streamers](https://www.pcgamer.com/after-a-flood-of-hate-raiding-twitch-responds-to-calls-to-do-more-for-marginalized-streamers)<!-- GAME:END -->
+ - [Metal Slug Tactics gameplay footage shows off its chunky sprites and vivid backgrounds](https://www.pcgamer.com/metal-slug-tactics-gameplay-footage-shows-off-its-chunky-sprites-and-vivid-backgrounds)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
