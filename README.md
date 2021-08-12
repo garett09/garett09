@@ -192,8 +192,8 @@ Linux                    16 mins             ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 🚖 [Tried so hard](http://9gag.com/gag/a7EgmWm)
- - 🚯 [Hmmmm](http://9gag.com/gag/aDd9r2Z)
- - 🚯 [After living in the city for 8 years. Moving to this paradise in about 4months](http://9gag.com/gag/a6Eg489)<!-- MEMES:END -->
+ - 🚯 [Man Saves Woman and her Dog Seconds Before Car Sinks](http://9gag.com/gag/a5Eg9YL)
+ - 🚯 [Guy tries breaking into house the wrong house.](http://9gag.com/gag/aV7r4DP)<!-- MEMES:END -->
 
 --- 
 
