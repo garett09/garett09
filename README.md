@@ -184,9 +184,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [‘The tortoise and the hare’ story is playing out right now in VC](http://feedproxy.google.com/~r/Techcrunch/~3/LaTXloQ8twQ/)
- - [Circle announces intention to become a bank, fully regulated by Federal Reserve, OCC, and FDIC, which could make USDC a de facto central bank digital currency (Felix Salmon/Axios)](http://www.techmeme.com/210812/p31#a210812p31)
- - [Bill Gates wants in on Congress’ big climate infrastructure push](https://www.theverge.com/2021/8/12/22621636/bill-gates-fund-climate-change-tech)<!-- TECH:END -->
+ - [Apple updates Eddy Cue’s title to better reflect its turn to services](https://www.theverge.com/2021/8/12/22622178/apple-eddy-cue-job-title-update-senior-vp-services)
+ - [Facebook office return delayed until 2022 in the US](https://www.theverge.com/2021/8/12/22622282/facebook-office-return-delayed-2022-us)
+ - [Medal.tv, a video clipping service for gamers, enters the livestreaming market with Rawa.tv acquisition](http://feedproxy.google.com/~r/Techcrunch/~3/vYsRxXUbJZ0/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
