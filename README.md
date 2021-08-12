@@ -184,9 +184,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple updates Eddy Cue’s title to better reflect its turn to services](https://www.theverge.com/2021/8/12/22622178/apple-eddy-cue-job-title-update-senior-vp-services)
- - [Facebook office return delayed until 2022 in the US](https://www.theverge.com/2021/8/12/22622282/facebook-office-return-delayed-2022-us)
- - [Medal.tv, a video clipping service for gamers, enters the livestreaming market with Rawa.tv acquisition](http://feedproxy.google.com/~r/Techcrunch/~3/vYsRxXUbJZ0/)<!-- TECH:END -->
+ - [A look at community NFT projects like Pudgy Penguins, which have become a new kind of financial and social status symbol on the internet (Kevin Roose/New York Times)](http://www.techmeme.com/210812/p35#a210812p35)
+ - [Amazon’s $1.5 billion Air Hub opens in Kentucky to speed up deliveries](https://www.theverge.com/2021/8/12/22622087/amazon-kentucky-air-hub-opens-faster-deliveries-prime)
+ - [Facebook shouldn't be allowed to buy Giphy, says UK regulator](https://www.theverge.com/2021/8/12/22621957/facebook-giphy-deal-blocked-uk-regulator)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
