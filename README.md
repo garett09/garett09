@@ -177,9 +177,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The battle royale games of 2021](https://www.pcgamer.com/battle-royale-games)
  - [Where to get a Grab-i-Tron in Fortnite](https://www.pcgamer.com/grab-itron-fortnite-gravity-gun-location)
- - [Gigabyte Hackers Threaten To Leak Internal AMD, Intel Documents](https://kotaku.com/gigabyte-hackers-threaten-to-leak-internal-amd-intel-d-1847470589)
- - [Apex Legends lead game designer fired for remarks made in 2007](https://www.pcgamer.com/apex-legends-lead-game-designer-fired-for-remarks-made-in-2007)<!-- GAME:END -->
+ - [Gigabyte Hackers Threaten To Leak Internal AMD, Intel Documents](https://kotaku.com/gigabyte-hackers-threaten-to-leak-internal-amd-intel-d-1847470589)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
