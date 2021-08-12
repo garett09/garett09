@@ -177,9 +177,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Rogue Company Voyages to Japan in the Latest Update](https://news.xbox.com/en-us/2021/08/12/rogue-company-voyages-to-japan-in-the-latest-update/)
- - [Team Fortress 2 Fans Are Rebuilding The Game With Latest Tech](https://kotaku.com/team-fortress-2-fans-are-rebuilding-the-game-with-lates-1847475438)
- - [League’s newly sexy skeleton man is causing problems for everyone](https://www.polygon.com/22620303/league-of-legends-wild-rift-cinematic-thresh-noxus-bort)<!-- GAME:END -->
+ - [Chivalry 2: House Galencourt – New Features To Get Excited About](https://news.xbox.com/en-us/2021/08/12/chivalry-2-house-galencourt-new-features/)
+ - [What Is Even Happening In These Video Game Ads, Help](https://kotaku.com/what-is-even-happening-in-these-video-game-ads-help-1847477175)
+ - [Life is Strange: True Colors’ prequel DLC looks super cozy](https://www.polygon.com/22622370/life-is-strange-wavelengths-prequel-dlc-true-colors-steph)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
