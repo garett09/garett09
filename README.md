@@ -184,9 +184,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [WhatsApp to finally allow iOS to Android migration but not for everyone](https://www.androidauthority.com/whatsapp-ios-to-android-transfer-2733377/)
- - [Daversa, an executive recruitment firm for companies like Instacart and Spotify, is facing allegations of male-on-male harassment and assault in a new lawsuit (Zoe Schiffer/The Verge)](http://www.techmeme.com/210812/p2#a210812p2)
- - [Twitter locks account of India’s largest opposition party](http://feedproxy.google.com/~r/Techcrunch/~3/4J1FCtXuhrY/)<!-- TECH:END -->
+ - [How Adia Sowho helped steer Thrive Agric through the pandemic crisis](http://feedproxy.google.com/~r/Techcrunch/~3/G1e8_iveieI/)
+ - [Sources: Atlanta-based MailChimp explores strategic options, including a sale at a $10B+ valuation; source says MailChimp had $300M in EBITDA earnings in 2020 (Bloomberg)](http://www.techmeme.com/210812/p5#a210812p5)
+ - [Spotify’s Wear OS app is finally gaining offline playback support](https://www.androidauthority.com/spotify-wear-os-offline-playback-2733406/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
