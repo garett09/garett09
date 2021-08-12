@@ -184,9 +184,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Reddit raises $410M+ led by Fidelity Investments at a $10B+ valuation, up from $6B six months ago when it raised $250M (Mike Isaac/New York Times)](http://www.techmeme.com/210812/p16#a210812p16)
- - [Daily Authority: New Galaxy 🌌](https://www.androidauthority.com/newsletters/da-august-12-2021/)
- - [London-based Aforza, which builds tools on top of Salesforce and Google Cloud to help sell consumer packaged goods, raises $22M Series A led by DN Capital (Christine Hall/TechCrunch)](http://www.techmeme.com/210812/p15#a210812p15)<!-- TECH:END -->
+ - [A look at how centralized social media platforms have made the creator and gig economies equally corrosive for workers and what can be done to remedy the issue (Li Jin/Li's Newsletter)](http://www.techmeme.com/210812/p18#a210812p18)
+ - [How to Scan a QR Code](https://www.wired.com/story/how-to-scan-a-qr-code)
+ - [Reddit is now valued at more than $10 billion](https://www.theverge.com/2021/8/12/22621445/reddit-valuation-revenue-funding-round)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
