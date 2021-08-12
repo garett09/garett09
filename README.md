@@ -177,9 +177,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Someone built Hollow Knight's Forgotten Crossroads hot spring in Minecraft](https://www.pcgamer.com/someone-built-hollow-knights-forgotten-crossroads-hot-spring-in-minecraft)
- - [Student or not, Dell's Back to School sale has actual gaming PCs with actual GPUs](https://www.pcgamer.com/dell-back-to-school-gaming-pc-deal)
- - [Metal Slug Tactics gameplay footage shows off its chunky sprites and vivid backgrounds](https://www.pcgamer.com/metal-slug-tactics-gameplay-footage-shows-off-its-chunky-sprites-and-vivid-backgrounds)<!-- GAME:END -->
+ - [Everything you need to know about Naraka: Bladepoint](https://www.pcgamer.com/naraka-bladepoint-tips-guide)
+ - [If you truly despise Windows 11’s Start menu, there’s an app for that](https://www.pcgamer.com/windows-11-stardock-start11-start-menu-taskbar)
+ - [Meet the heroes of Naraka: Bladepoint](https://www.pcgamer.com/best-naraka-bladepoint-heroes-tier-list)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
