@@ -191,9 +191,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This doctor was ahead of his time](http://9gag.com/gag/aO3Ej1R)
- - 🚯 [Shake hands...](http://9gag.com/gag/a9EwN1W)
- - 🚯 [More than 50% of Latinas live near a beach in walking distance](http://9gag.com/gag/aQobNrw)<!-- MEMES:END -->
+ - 🚖 [Shake hands...](http://9gag.com/gag/a9EwN1W)
+ - 🚯 [Have your breakfast at that nice place at Norway](http://9gag.com/gag/a8ENXO3)
+ - 🚯 [Drying cocoa seeds on my family&#039;s farm... Thought you would appreciate](http://9gag.com/gag/a8ENnBV)<!-- MEMES:END -->
 
 --- 
 
