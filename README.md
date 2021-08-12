@@ -191,9 +191,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Pool time, MADAFAKAS!](http://9gag.com/gag/ayMrZWY)
- - 🚯 [Robin Williams used his films to give homeless people jobs.](http://9gag.com/gag/av5q4jM)
- - 🚯 [Every Clock in &quot;Joker&quot; (2019) Is Set To 11:11. One Theory as to Why States that the Clock Doesn&rsquo;t Move Because Everything Is Happening In Arthur&rsquo;s Head&rdquo;](http://9gag.com/gag/aMK7DDP)<!-- MEMES:END -->
+ - 🚖 [37 yo wife just made this. Not sure why, but it&#039;s the kind of stuff that made me realize she was the one. Life is short, be childish.](http://9gag.com/gag/ayMrm5M)
+ - 🚯 [No farmers no food never give up](http://9gag.com/gag/aB2zj4D)
+ - 🚯 [She wasn&#039;t expecting but it happened](http://9gag.com/gag/aO3EAzy)<!-- MEMES:END -->
 
 --- 
 
