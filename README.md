@@ -192,8 +192,8 @@ Linux                    16 mins             ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 🚖 [This is absolutely breathtaking video.](http://9gag.com/gag/a27ggMd)
- - 🚯 [Titanic - Animated Version](http://9gag.com/gag/aMK76xR)
- - 🚯 [Fail](http://9gag.com/gag/aYo65e0)<!-- MEMES:END -->
+ - 🚯 [Brendan Fraser](http://9gag.com/gag/a27gAeZ)
+ - 🚯 [I wish i&#039;d watched it earlier. Amazing show.](http://9gag.com/gag/aP3LL8G)<!-- MEMES:END -->
 
 --- 
 
