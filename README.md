@@ -184,9 +184,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at community NFT projects like Pudgy Penguins, which have become a new kind of financial and social status symbol on the internet (Kevin Roose/New York Times)](http://www.techmeme.com/210812/p35#a210812p35)
- - [Amazon’s $1.5 billion Air Hub opens in Kentucky to speed up deliveries](https://www.theverge.com/2021/8/12/22622087/amazon-kentucky-air-hub-opens-faster-deliveries-prime)
- - [Facebook shouldn't be allowed to buy Giphy, says UK regulator](https://www.theverge.com/2021/8/12/22621957/facebook-giphy-deal-blocked-uk-regulator)<!-- TECH:END -->
+ - [Apple employees express concern over new child safety tools](https://appleinsider.com/articles/21/08/12/apple-employees-express-concern-over-new-child-safety-tools?utm_medium=rss)
+ - [Disney+ reaches 116M subscribers in less than two years](https://appleinsider.com/articles/21/08/12/disney-reaches-116m-subscribers-in-less-than-two-years?utm_medium=rss)
+ - [How many phones do you have around? Samsung wants them all for a Z Fold 3.](https://www.androidauthority.com/samsung-trade-in-galaxy-z-fold-3-2733890/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
