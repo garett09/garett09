@@ -191,9 +191,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Rocking my plastic chair with no cushion.](http://9gag.com/gag/aV7r4gK)
- - 🚯 [Returning a fallen Koala joey back to mom .](http://9gag.com/gag/aeAzyDp)
- - 🚯 [More than 50% of Latinas live near a beach in walking distance](http://9gag.com/gag/aQobNrw)<!-- MEMES:END -->
+ - 🚖 [Have your breakfast at that nice place at Norway](http://9gag.com/gag/a8ENXO3)
+ - 🚯 [Pool time, MADAFAKAS!](http://9gag.com/gag/ayMrZWY)
+ - 🚯 [No farmers no food never give up](http://9gag.com/gag/aB2zj4D)<!-- MEMES:END -->
 
 --- 
 
