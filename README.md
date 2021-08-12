@@ -184,9 +184,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple plans housing project at undeveloped San Jose property after fire threatens encampment](https://appleinsider.com/articles/21/08/12/apple-plans-housing-project-at-undeveloped-san-jose-property-after-fire-threatens-encampment?utm_medium=rss)
- - [Jake Paul vs. Tyron Woodley: Start time, how to watch, everything you need to know     - CNET](https://www.cnet.com/news/jake-paul-vs-tyron-woodley-start-time-how-to-watch-everything-you-need-to-know/#ftag=CAD590a51e)
- - [AEW All Out 2021: CM Punk rumors, match card, how to watch     - CNET](https://www.cnet.com/news/aew-all-out-2021-cm-punk-rumors-match-card-how-to-watch/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [India’s VerSe Innovation raises over $450 million to expand Dailyhunt and Josh apps globally](http://feedproxy.google.com/~r/Techcrunch/~3/oz2_qPy2jmw/)
+ - [Fire threatens encampment on Apple land, company plans affordable housing project](https://appleinsider.com/articles/21/08/12/apple-plans-housing-project-at-undeveloped-san-jose-property-after-fire-threatens-encampment?utm_medium=rss)
+ - [An ode to my dead, decaying Animal Crossing island     - CNET](https://www.cnet.com/news/an-ode-to-my-dead-decaying-animal-crossing-island/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
