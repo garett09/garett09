@@ -184,9 +184,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [India’s VerSe Innovation raises over $450 million to expand Dailyhunt and Josh apps globally](http://feedproxy.google.com/~r/Techcrunch/~3/oz2_qPy2jmw/)
- - [Fire threatens encampment on Apple land, company plans affordable housing project](https://appleinsider.com/articles/21/08/12/apple-plans-housing-project-at-undeveloped-san-jose-property-after-fire-threatens-encampment?utm_medium=rss)
- - [An ode to my dead, decaying Animal Crossing island     - CNET](https://www.cnet.com/news/an-ode-to-my-dead-decaying-animal-crossing-island/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [VerSe Innovation, parent of news aggregator Dailyhunt and short video app Josh, raises $450M+ Series I, five months after raising $200M (Manish Singh/TechCrunch)](http://www.techmeme.com/210812/p1#a210812p1)
+ - [Motorola’s latest G series phone brings swift 50W charging to the table](https://www.androidauthority.com/moto-g60s-2733306/)
+ - [Google Pixel 6 camera and chipset details hinted in latest Android 12 beta](https://www.androidauthority.com/google-pixel-6-50mp-camera-2733304/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
