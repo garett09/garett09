@@ -191,9 +191,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Tried so hard](http://9gag.com/gag/a7EgmWm)
+ - 🚖 [Eyyy](http://9gag.com/gag/aAbAL5o)
  - 🚯 [Man Saves Woman and her Dog Seconds Before Car Sinks](http://9gag.com/gag/a5Eg9YL)
- - 🚯 [Guy tries breaking into house the wrong house.](http://9gag.com/gag/aV7r4DP)<!-- MEMES:END -->
+ - 🚯 [Crack me up](http://9gag.com/gag/aQobDPq)<!-- MEMES:END -->
 
 --- 
 
