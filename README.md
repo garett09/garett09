@@ -177,9 +177,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The GTA Remastered Trilogy Appears To Be Real, And Coming To Switch](https://kotaku.com/the-gta-remastered-trilogy-appears-to-be-real-and-comi-1847474620)
- - [QuakeCon 2021 – Three Days of Livestreams, Giveaways, Charities, and More](https://news.xbox.com/en-us/2021/08/12/quakecon-2021-three-days-of-livestreams-giveaways-charities-and-more/)
- - [Frostpunk 2 is a more ambitious dystopian apocalypse simulator](https://www.polygon.com/22621800/frostpunk-2-trailer-survival-city-builder-sequel-details)<!-- GAME:END -->
+ - [Surgeon Simulator 2: Access All Areas is Coming Soon to Xbox Game Pass](https://news.xbox.com/en-us/2021/08/12/surgeon-simulator-2-coming-soon-xbox-game-pass/)
+ - [Venom: Let There Be Carnage delayed](https://www.polygon.com/22622006/movie-venom-2-let-there-be-carnage-delayed-new-release-date)
+ - [No, Halo Infinite’s Bots Aren’t Actually Teabagging Anyone](https://kotaku.com/no-halo-infinite-s-bots-aren-t-actually-teabagging-any-1847474724)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
