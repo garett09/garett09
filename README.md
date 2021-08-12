@@ -184,9 +184,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [WhatsApp to finally allow iOS to Android migration but not for everyone](https://www.androidauthority.com/whatsapp-ios-to-android-transfer-2733377/)
  - [Daversa, an executive recruitment firm for companies like Instacart and Spotify, is facing allegations of male-on-male harassment and assault in a new lawsuit (Zoe Schiffer/The Verge)](http://www.techmeme.com/210812/p2#a210812p2)
- - [Twitter locks account of India’s largest opposition party](http://feedproxy.google.com/~r/Techcrunch/~3/4J1FCtXuhrY/)
- - [India’s Eruditus valued at $3.2 billion in $650 million fundraise](http://feedproxy.google.com/~r/Techcrunch/~3/HnZ3QcwQFbE/)<!-- TECH:END -->
+ - [Twitter locks account of India’s largest opposition party](http://feedproxy.google.com/~r/Techcrunch/~3/4J1FCtXuhrY/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
