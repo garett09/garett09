@@ -191,9 +191,9 @@ Linux                    16 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Robin Williams used his films to give homeless people jobs.](http://9gag.com/gag/av5q4jM)
- - 🚯 [Crack me up](http://9gag.com/gag/aQobDPq)
- - 🚯 [So very true](http://9gag.com/gag/ayMrAe8)<!-- MEMES:END -->
+ - 🚖 [What a Chad](http://9gag.com/gag/aeAzE7p)
+ - 🚯 [If you love your country... (3min)](http://9gag.com/gag/apN7nGW)
+ - 🚯 [Man Saves Woman and her Dog Seconds Before Car Sinks](http://9gag.com/gag/a5Eg9YL)<!-- MEMES:END -->
 
 --- 
 
