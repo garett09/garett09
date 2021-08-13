@@ -184,9 +184,9 @@ Linux                    46 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spain integrates Apple Wallet support for EU Digital COVID Certificate](https://appleinsider.com/articles/21/08/13/spain-integrates-apple-wallet-support-for-eu-digital-covid-certificate?utm_medium=rss)
- - [The next PS5, Xbox Series X restock hits Walmart at 9 p.m. ET     - CNET](https://www.cnet.com/tech/computing/ps5-xbox-series-x-restock-happening-at-walmart-today/#ftag=CAD590a51e)
- - [Cats are food freeloaders, scientists say     - CNET](https://www.cnet.com/news/cats-are-food-freeloaders-scientists-say/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Lobbying group backed by Apple and Google rails against Open App Markets Act](https://appleinsider.com/articles/21/08/13/lobbying-group-backed-by-apple-and-google-rails-against-open-app-markets-act?utm_medium=rss)
+ - [Bentley Flying Spur gets the fancy-pants Mulliner treatment     - Roadshow](https://www.cnet.com/roadshow/news/bentley-flying-spur-mulliner-debut/#ftag=CAD590a51e)
+ - [Star Wars: The Bad Batch release dates -- When does episode 16 hit Disney Plus?     - CNET](https://www.cnet.com/news/star-wars-the-bad-batch-release-dates-when-does-episode-16-hit-disney-plus/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
