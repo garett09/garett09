@@ -177,9 +177,9 @@ Linux                    46 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Bugsnax is coming to Steam in 2022](https://www.pcgamer.com/bugsnax-is-coming-to-steam-in-2022)
  - [QuakeCon 2021 schedule briefly mentioned a 'revitalized' Quake](https://www.pcgamer.com/quakecon-2021-schedule-briefly-mentioned-a-revitalized-quake)
- - [New CS:GO music kits include polka-metal and a disco grenade](https://www.pcgamer.com/new-csgo-music-kits-include-polka-metal-and-a-disco-grenade)
- - [Art of Rally's big free Kenya update is out today](https://www.pcgamer.com/art-of-rallys-big-free-kenya-update-is-out-today)<!-- GAME:END -->
+ - [New CS:GO music kits include polka-metal and a disco grenade](https://www.pcgamer.com/new-csgo-music-kits-include-polka-metal-and-a-disco-grenade)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
