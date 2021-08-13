@@ -177,9 +177,9 @@ Linux                    46 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Nuclear Bombs And Video Games Were Created By The Same Guy](https://kotaku.com/nuclear-bombs-and-video-games-were-created-by-the-same-1847481382)
- - [Don’t Breathe 2 is a great action film buried inside a so-so exploitation movie](https://www.polygon.com/reviews/22623315/dont-breathe-2-review)
- - [Monster Hunter Stories 2 Monsties list: All monsters eggs and where to find them](https://www.pcgamer.com/monster-hunter-stories-2-monster-list-monstie)<!-- GAME:END -->
+ - [Mario Kart 64 Legend Just Retired Because He Got Betrayed](https://kotaku.com/mario-kart-64-legend-just-retired-because-he-got-betray-1847482074)
+ - [Turn on Nvidia Reflex in Naraka: Bladepoint if you're running an older GPU](https://www.pcgamer.com/turn-on-nvidia-reflex-in-naraka-bladepoint-if-youre-running-an-older-gpu)
+ - [Suicide Squad and Hard-R movie food pairings.](https://www.polygon.com/22622332/suicide-squad-starro-galaxy-brains-podcast)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
