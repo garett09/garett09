@@ -186,9 +186,9 @@ Linux                    46 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Getting Nostalgic About Developing the ‘90s-themed The Big Con](https://news.xbox.com/en-us/2021/08/13/getting-nostalgic-about-developing-the-90s-themed-the-big-con/)
- - [Steam Deck hands-on: extended discussion](https://www.pcgamer.com/steam-deck-hands-on-extended-discussion)
- - [The Steam reviews for Lawn Mowing Simulator are revealing very strong feelings about lawn mowing](https://www.pcgamer.com/lawn-mowing-simulator-steam-reviewers-have-strong-opinions-about-lawn-mowing)<!-- GAME:END -->
+ - [Don’t Miss Out on an Exclusive Kimble “Irish” Graves Skin in Battlefield 2042](https://news.xbox.com/en-us/2021/08/13/exclusive-kimble-irish-graves-skin-battlefield-2042/)
+ - [Oh hell yeah, get almost all the Jackbox games for $20](https://www.pcgamer.com/oh-hell-yeah-get-almost-all-the-jackbox-games-for-dollar20)
+ - [Battle Royale Players Upset Their Early Kills Were Actually Just Bots](https://kotaku.com/battle-royale-players-upset-their-early-kills-were-actu-1847483782)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
