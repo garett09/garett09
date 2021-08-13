@@ -184,9 +184,9 @@ Linux                    46 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Deals August 13 - $170 off internal SSD, $120 off Roborock Smart Vacuum, and more!](https://appleinsider.com/articles/21/08/13/best-deals-august-13---170-off-internal-ssd-120-off-roborock-smart-vacuum-and-more?utm_medium=rss)
- - [Argentine fintech Ualá lands $350M at a $2.45B valuation in SoftBank, Tencent-led round](http://feedproxy.google.com/~r/Techcrunch/~3/oV_Ag58NuHE/)
- - [Best Apple Watch deals: Save up to $100 on Series 6, SE as low as $249     - CNET](https://www.cnet.com/tech/mobile/best-apple-watch-deals-big-discounts-on-the-series-6-at-amazon-and-walmart/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google’s Nest Hubs will warn users about nearby pollution and smoke](https://www.theverge.com/2021/8/13/22623397/google-nest-hubs-air-pollution-smoke-alert-feature)
+ - [Asteroid Bennu has 1 in 1,750 chance of smashing into Earth, NASA says     - CNET](https://www.cnet.com/news/asteroid-bennu-has-a-1-in-1750-chance-of-smashing-into-earth-nasa-says/#ftag=CAD590a51e)
+ - [Apple, iPhones, photos and child abuse: Should you be concerned?     - CNET](https://www.cnet.com/tech/services-and-software/apple-iphones-photos-and-child-abuse-should-you-be-concerned/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
