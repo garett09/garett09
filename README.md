@@ -184,9 +184,9 @@ Linux                    46 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy S21 FE hits Bluetooth SIG: Hints at original launch date?](https://www.androidauthority.com/samsung-galaxy-s21-fe-launch-date-2734108/)
- - [The Acura Integra will return in 2022     - Roadshow](https://www.cnet.com/roadshow/news/2022-acura-integra-coupe-teaser-monterey-car-week/#ftag=CAD590a51e)
- - [This new gaming handheld combines Android and a Switch-style design](https://www.androidauthority.com/gpd-xp-2732676/)<!-- TECH:END -->
+ - [Is an iPhone 11 worth buying in 2021? Here's what to consider     - CNET](https://www.cnet.com/tech/mobile/is-an-iphone-11-worth-buying-in-2021-heres-what-to-consider/#ftag=CAD590a51e)
+ - [You told us: You demand longer software upgrade periods for Android phones](https://www.androidauthority.com/android-software-upgrades-poll-results-2734069/)
+ - [Illustrators say Corporate Memphis, an art aesthetic synonymous with tech marketing, has stuck around because execs continue to overlook the value of their work (Hirsh Chitkara/Protocol)](http://www.techmeme.com/210813/p3#a210813p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
