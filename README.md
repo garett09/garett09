@@ -191,9 +191,9 @@ Linux                    46 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Great Expectations](http://9gag.com/gag/aK6Z5X6)
- - 🚯 [Fail](http://9gag.com/gag/aYo65e0)
- - 🚯 [Consequence of corporate greed.](http://9gag.com/gag/a9Ewwno)<!-- MEMES:END -->
+ - 🚖 [Fail](http://9gag.com/gag/aYo65e0)
+ - 🚯 [Consequence of corporate greed.](http://9gag.com/gag/a9Ewwno)
+ - 🚯 [I love happy endings &hearts;](http://9gag.com/gag/aK6ZMv3)<!-- MEMES:END -->
 
 --- 
 
