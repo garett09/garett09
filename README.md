@@ -191,8 +191,8 @@ Linux                    46 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Oi, Oi, u cheeky bastard....](http://9gag.com/gag/a27g3NZ)
- - 🚯 [Brendan Fraser gets emotional when he finds out the internet is &quot;rooting for you&quot;](http://9gag.com/gag/aLpoEGx)
+ - 🚖 [Give up your best arrow gifs](http://9gag.com/gag/aDd9vBB)
+ - 🚯 [The slander is real](http://9gag.com/gag/aB2zArQ)
  - 🚯 [The World&rsquo;s First Meme Museum by 9GAG brings your favorite memes to life! Here&rsquo;s a VIP virtual tour for those who can&rsquo;t make it this time!](http://9gag.com/gag/apN7ZZB)<!-- MEMES:END -->
 
 --- 
