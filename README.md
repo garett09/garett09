@@ -184,9 +184,9 @@ Linux                    46 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Redmi 10 accidentally revealed: A big upgrade over the Redmi 9?](https://www.androidauthority.com/xiaomi-redmi-10-2734173/)
- - [The New Delta Variant Meme Is Onto Something](https://www.wired.com/story/delta-variant-meme)
- - [The Physics of Johnny Knoxville, Human Cannonball](https://www.wired.com/story/the-physics-of-johnny-knoxville-human-cannonball)<!-- TECH:END -->
+ - [Airbnb updating policy to end forced arbitration for sexual harassment cases for guests, hosts](https://www.theverge.com/2021/8/13/22623224/airbnb-sexual-harassment-policy-forced-arbitration-update)
+ - [Netflix isn’t the savior Nollywood needs](https://www.theverge.com/22621845/netflix-nigeria-nollywood-streaming-films)
+ - [Don’t give your weed dealer all your data](http://feedproxy.google.com/~r/Techcrunch/~3/5JPlFfZWSTk/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
