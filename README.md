@@ -184,9 +184,9 @@ Linux                    46 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Poll: Are foldables really ‘the new mainstream’ for smartphones?](https://www.androidauthority.com/foldables-new-mainstream-poll-2734149/)
- - [Head of Twitter India is moving to the US as Senior Director, Revenue Strategy and Operations amid continued tensions between Twitter and the Indian government (Manish Singh/TechCrunch)](http://www.techmeme.com/210813/p5#a210813p5)
- - [Apple’s iCloud Photo-Scanning Tech Explained](https://www.wired.com/story/gadget-lab-podcast-516)<!-- TECH:END -->
+ - [Redmi 10 accidentally revealed: A big upgrade over the Redmi 9?](https://www.androidauthority.com/xiaomi-redmi-10-2734173/)
+ - [The New Delta Variant Meme Is Onto Something](https://www.wired.com/story/delta-variant-meme)
+ - [The Physics of Johnny Knoxville, Human Cannonball](https://www.wired.com/story/the-physics-of-johnny-knoxville-human-cannonball)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
