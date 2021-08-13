@@ -186,9 +186,9 @@ Linux                    46 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Check Out All the New Features for Madden NFL 22 and Start Playing Today with EA Play](https://news.xbox.com/en-us/2021/08/13/new-features-for-madden-nfl-22-play-today-with-ea-play/)
- - [Eve Spectrum 4K gaming monitor review](https://www.pcgamer.com/eve-spectrum-4k-gaming-monitor-es07d03)
- - [STALKER 2 will use Unreal Engine 5](https://www.pcgamer.com/stalker-2-will-use-unreal-engine-5)<!-- GAME:END -->
+ - [Getting Nostalgic About Developing the ‘90s-themed The Big Con](https://news.xbox.com/en-us/2021/08/13/getting-nostalgic-about-developing-the-90s-themed-the-big-con/)
+ - [Steam Deck hands-on: extended discussion](https://www.pcgamer.com/steam-deck-hands-on-extended-discussion)
+ - [The Steam reviews for Lawn Mowing Simulator are revealing very strong feelings about lawn mowing](https://www.pcgamer.com/lawn-mowing-simulator-steam-reviewers-have-strong-opinions-about-lawn-mowing)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
