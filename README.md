@@ -177,9 +177,9 @@ Linux                    46 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Halo Infinite's bots aren't teabagging you, at least not on purpose](https://www.pcgamer.com/halo-infinites-bots-arent-teabagging-you-at-least-not-on-purpose)
- - [Assassin’s Creed Valhalla's New DLC Is All About War, Vengeance, And Poor Optimization](https://kotaku.com/assassin-s-creed-valhallas-new-dlc-is-all-about-war-ve-1847477834)
- - [This fully loaded Aero 15 is way more laptop than you need, but it’s also $1,100 off](https://www.pcgamer.com/this-fully-loaded-aero-15-is-way-more-laptop-than-you-need-but-its-also-dollar1100-off)<!-- GAME:END -->
+ - [Next Week on Xbox: August 16 to 20](https://news.xbox.com/en-us/2021/08/13/next-week-on-xbox-august-16-to-20/)
+ - [The Gargoyles board game has great combat, but it needs more Keith David](https://www.polygon.com/reviews/22621923/gargoyles-board-game-review-target-ravensburger)
+ - [Twitch Takes A Half-Assed Swipe At Gambling Streams](https://kotaku.com/twitch-takes-a-half-assed-swipe-at-gambling-streams-1847480762)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
