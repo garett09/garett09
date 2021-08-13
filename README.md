@@ -184,9 +184,9 @@ Linux                    46 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This new gaming handheld combines Android and a Switch-style design](https://www.androidauthority.com/gpd-xp-2732676/)
- - [Innovusion Holdings, which develops lidar systems, raises $66M Series B plus round, bringing its total raised to $180M (David Ramli/Bloomberg)](http://www.techmeme.com/210813/p2#a210813p2)
- - [These could be the specs of Jio and Google’s ultra-affordable Android phone](https://www.androidauthority.com/jiophone-next-specs-2734051/)<!-- TECH:END -->
+ - [Samsung Galaxy S21 FE hits Bluetooth SIG: Hints at original launch date?](https://www.androidauthority.com/samsung-galaxy-s21-fe-launch-date-2734108/)
+ - [The Acura Integra will return in 2022     - Roadshow](https://www.cnet.com/roadshow/news/2022-acura-integra-coupe-teaser-monterey-car-week/#ftag=CAD590a51e)
+ - [This new gaming handheld combines Android and a Switch-style design](https://www.androidauthority.com/gpd-xp-2732676/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
