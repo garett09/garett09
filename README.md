@@ -191,9 +191,9 @@ Linux                    46 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [For Encino Man](http://9gag.com/gag/aGpv4Vn)
- - 🚯 [Brendan Fraser after waking up and finding out that the internet worship him:](http://9gag.com/gag/anQZwGo)
- - 🚯 [Men being bros save horse stuck upside down in rocks](http://9gag.com/gag/anQZoV5)<!-- MEMES:END -->
+ - 🚖 [Priority](http://9gag.com/gag/anQZPd0)
+ - 🚯 [Men being bros save horse stuck upside down in rocks](http://9gag.com/gag/anQZoV5)
+ - 🚯 [Hooman beens](http://9gag.com/gag/a8ENxm6)<!-- MEMES:END -->
 
 --- 
 
