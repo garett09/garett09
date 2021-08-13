@@ -193,9 +193,9 @@ Linux                    46 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple-backed Matter smart home standard delayed until 2022](https://appleinsider.com/articles/21/08/13/apple-backed-matter-smart-home-standard-delayed-until-2022?utm_medium=rss)
- - [Sources: Discord is raising money at a valuation of around $15B, in a funding round that would at least double its valuation of $7B in 2020 (Eric Newcomer/Newcomer)](http://www.techmeme.com/210813/p16#a210813p16)
- - [There could be more to the Salesforce+ video streaming service than meets the eye](http://feedproxy.google.com/~r/Techcrunch/~3/hIyvPel3TwI/)<!-- TECH:END -->
+ - [Apple details its CSAM detection system, says it expects to set a match threshold of 30 known CSAM images before an iCloud account is flagged for manual review (Joe Rossignol/MacRumors)](http://www.techmeme.com/210813/p18#a210813p18)
+ - [Twitter is pausing its verification program again, after giving fake accounts blue checks](https://www.theverge.com/2021/8/13/22623714/twitter-verification-program-pause-fake-accounts-review)
+ - [Sequoia’s Stephanie Zhan and Rec Room’s Nick Fajt are joining us on Extra Crunch Live](http://feedproxy.google.com/~r/Techcrunch/~3/HDH4erb3z_k/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
