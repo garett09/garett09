@@ -200,8 +200,8 @@ Linux                    46 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What is hygiene](http://9gag.com/gag/awMjwD1)
- - 🚯 [Confusion](http://9gag.com/gag/av5qNXd)
+ - 🚖 [Ok, let&#039;s hear your votes for funniest film ever made. This is damn close](http://9gag.com/gag/aDd9Ee7)
+ - 🚯 [And battery dies](http://9gag.com/gag/abVD7zb)
  - 🚯 [The World&rsquo;s First Meme Museum by 9GAG brings your favorite memes to life! Here&rsquo;s a VIP virtual tour for those who can&rsquo;t make it this time!](http://9gag.com/gag/apN7ZZB)<!-- MEMES:END -->
 
 --- 
