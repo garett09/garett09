@@ -191,8 +191,8 @@ Linux                    46 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Give up your best arrow gifs](http://9gag.com/gag/aDd9vBB)
- - 🚯 [The slander is real](http://9gag.com/gag/aB2zArQ)
+ - 🚖 [Now it&#039;s clear who won the civil war.](http://9gag.com/gag/aB2zAPx)
+ - 🚯 [A Happy Cow Plays Fetch With Its Owner](http://9gag.com/gag/aYo63E7)
  - 🚯 [The World&rsquo;s First Meme Museum by 9GAG brings your favorite memes to life! Here&rsquo;s a VIP virtual tour for those who can&rsquo;t make it this time!](http://9gag.com/gag/apN7ZZB)<!-- MEMES:END -->
 
 --- 
