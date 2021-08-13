@@ -186,9 +186,9 @@ Linux                    46 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [It’s Like A Nintendo Direct, But For 3D Platformers](https://kotaku.com/it-s-like-a-nintendo-direct-but-for-3d-platformers-1847484635)
- - [Why some Overwatch casters have stopped saying McCree's name during matches](https://www.pcgamer.com/why-some-overwatch-casters-have-stopped-saying-mccrees-name-during-matches)
- - [The best graphics cards in 2021](https://www.pcgamer.com/the-best-graphics-cards)<!-- GAME:END -->
+ - [Next Call of Duty game now being teased in Warzone](https://www.polygon.com/22623971/call-of-duty-2021-vanguard-teaser-warzone)
+ - [Ex-Faze Clan Member Says He's Paying Back Scammed Fans](https://kotaku.com/ex-faze-clan-member-says-hes-paying-back-scammed-fans-1847484842)
+ - [You can get a Diablo 2: Resurrected beta key by watching Twitch streams right now](https://www.pcgamer.com/you-can-get-a-diablo-2-resurrected-beta-key-by-watching-twitch-streams-right-now)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
