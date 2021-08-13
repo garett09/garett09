@@ -177,9 +177,9 @@ Linux                    46 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Week on Xbox: August 16 to 20](https://news.xbox.com/en-us/2021/08/13/next-week-on-xbox-august-16-to-20/)
- - [The Gargoyles board game has great combat, but it needs more Keith David](https://www.polygon.com/reviews/22621923/gargoyles-board-game-review-target-ravensburger)
- - [Twitch Takes A Half-Assed Swipe At Gambling Streams](https://kotaku.com/twitch-takes-a-half-assed-swipe-at-gambling-streams-1847480762)<!-- GAME:END -->
+ - [Nuclear Bombs And Video Games Were Created By The Same Guy](https://kotaku.com/nuclear-bombs-and-video-games-were-created-by-the-same-1847481382)
+ - [Don’t Breathe 2 is a great action film buried inside a so-so exploitation movie](https://www.polygon.com/reviews/22623315/dont-breathe-2-review)
+ - [Monster Hunter Stories 2 Monsties list: All monsters eggs and where to find them](https://www.pcgamer.com/monster-hunter-stories-2-monster-list-monstie)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
