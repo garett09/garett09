@@ -191,8 +191,8 @@ Linux                    46 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When you fail as a team](http://9gag.com/gag/amPQed9)
- - 🚯 [The slander is real](http://9gag.com/gag/aB2zArQ)
+ - 🚖 [Catch many mouses with one shot](http://9gag.com/gag/anQZm6q)
+ - 🚯 [You son of a b*tch, you in.](http://9gag.com/gag/a7EgQvz)
  - 🚯 [The World&rsquo;s First Meme Museum by 9GAG brings your favorite memes to life! Here&rsquo;s a VIP virtual tour for those who can&rsquo;t make it this time!](http://9gag.com/gag/apN7ZZB)<!-- MEMES:END -->
 
 --- 
