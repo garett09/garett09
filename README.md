@@ -193,9 +193,9 @@ Linux                    46 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s Nest Hubs will warn users about nearby pollution and smoke](https://www.theverge.com/2021/8/13/22623397/google-nest-hubs-air-pollution-smoke-alert-feature)
- - [Asteroid Bennu has 1 in 1,750 chance of smashing into Earth, NASA says     - CNET](https://www.cnet.com/news/asteroid-bennu-has-a-1-in-1750-chance-of-smashing-into-earth-nasa-says/#ftag=CAD590a51e)
- - [Apple, iPhones, photos and child abuse: Should you be concerned?     - CNET](https://www.cnet.com/tech/services-and-software/apple-iphones-photos-and-child-abuse-should-you-be-concerned/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Facebook is bringing end-to-end encryption to Messenger calls and Instagram DMs](http://feedproxy.google.com/~r/Techcrunch/~3/OzY0XtZq--E/)
+ - [Dare to see what comes next at realme Fan Festival 2021](https://www.androidauthority.com/realme-fan-festival-2734411/)
+ - [Audio out-of-home advertising is reinventing personalization](http://feedproxy.google.com/~r/Techcrunch/~3/PfPtyM_u2Ww/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
