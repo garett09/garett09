@@ -184,9 +184,9 @@ Linux                    46 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Disney+ reaches 116M subscribers in less than two years](https://appleinsider.com/articles/21/08/12/disney-reaches-116m-subscribers-in-less-than-two-years?utm_medium=rss)
- - [Amid Black Widow lawsuit, Disney boss defends its pandemic release strategy](https://www.theverge.com/2021/8/12/22622604/black-widow-lawsuit-disney-defends-release)
- - [DoorDash reports Q2 revenue of $1.24B, up 83% YoY, total orders of 345M, up 69% YoY, net loss of $102M, and says fee caps in cities like NY and LA cost it $26M (Dee-Ann Durbin/Associated Press)](http://www.techmeme.com/210812/p38#a210812p38)<!-- TECH:END -->
+ - [Spain integrates Apple Wallet support for EU Digital COVID Certificate](https://appleinsider.com/articles/21/08/13/spain-integrates-apple-wallet-support-for-eu-digital-covid-certificate?utm_medium=rss)
+ - [The next PS5, Xbox Series X restock hits Walmart at 9 p.m. ET     - CNET](https://www.cnet.com/tech/computing/ps5-xbox-series-x-restock-happening-at-walmart-today/#ftag=CAD590a51e)
+ - [Cats are food freeloaders, scientists say     - CNET](https://www.cnet.com/news/cats-are-food-freeloaders-scientists-say/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
