@@ -9,7 +9,8 @@
 [![Wakatime updates](https://github.com/garett09/garett09/actions/workflows/update-commits.yml/badge.svg?branch=main)](https://github.com/garett09/garett09/actions/workflows/update-commits.yml) 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/62999bf4-98d2-4882-a325-da266023bf2b/deploy-status)](https://app.netlify.com/sites/cocky-mccarthy-7a67fb/deploys)
 &nbsp;
-#Projects
+    
+## Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=garett09&repo=tapos-na-ba-ang-covid-ph&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=garett09&repo=project-COVID19Tracker&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=garett09&repo=afk-hotel&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
