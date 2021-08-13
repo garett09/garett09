@@ -184,9 +184,9 @@ Linux                    46 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ford GT 64 Prototype Heritage Edition celebrates the GT's beginning and its end     - Roadshow](https://www.cnet.com/roadshow/pictures/ford-gt-64-prototype-heritage-edition-debut/#ftag=CAD590a51e)
- - [Is an iPhone 11 worth buying in 2021? Here's what to consider     - CNET](https://www.cnet.com/tech/mobile/is-an-iphone-11-worth-buying-in-2021-heres-what-to-consider/#ftag=CAD590a51e)
- - [You told us: You demand longer software upgrade periods for Android phones](https://www.androidauthority.com/android-software-upgrades-poll-results-2734069/)<!-- TECH:END -->
+ - [How to Get Free Kindle Books With Your Library Card](https://www.wired.com/story/how-to-get-free-kindle-books-with-your-library-card)
+ - [Free Guy Sees the Metaverse Through Rose-Colored Glasses](https://www.wired.com/story/free-guy-ai-metaverse-review)
+ - [Samsung Has Its Own AI-Designed Chip. Soon, Others Will Too](https://www.wired.com/story/samsung-ai-designed-chip-soon-others-too)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
