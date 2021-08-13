@@ -7,8 +7,8 @@
 [![GitHub Garettl](https://img.shields.io/github/followers/garett09?label=follow&style=social)](https://github.com/garett09) 
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UChAoCAh1jVTaMz0Sc61X5Xw?style=social) 
 [![Wakatime updates](https://github.com/garett09/garett09/actions/workflows/update-commits.yml/badge.svg?branch=main)](https://github.com/garett09/garett09/actions/workflows/update-commits.yml) 
-:octocat:<a href="https://github.com/garett09"><img src="https://img.shields.io/badge/-I'm%20craving%20for%20Open%20Source-green?style=for-the-badge&logo=github" width="250"></a>:octocat:
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/62999bf4-98d2-4882-a325-da266023bf2b/deploy-status)](https://app.netlify.com/sites/cocky-mccarthy-7a67fb/deploys)
+    
 ## <img src="https://media.giphy.com/media/fTsZNbPQxJWtor2LXE/giphy.gif"  width="30">&nbsp;About Me
 -   👩‍💻  **Currently a third year student at the University of Santo Tomas. Aiming to be a passionate developer in the future.**
 -   🔭  I’m currently working on  **ROM development that I make on my own device which includes LineageOS, dotOs, and cRdroid.**
