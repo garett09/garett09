@@ -184,9 +184,9 @@ Linux                    46 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon moves Lord of the Rings production from New Zealand to UK](https://www.theverge.com/2021/8/13/22622926/amazon-lord-of-the-rings-series-production-uk-new-zealand)
- - [Immunocompromised people can get third COVID-19 vaccine shot, FDA says](https://www.theverge.com/2021/8/12/22620757/booster-covid-vaccine-immunocompromised-fda)
- - [YC-backed Tablevibe’s customer surveys help restaurants reduce their reliance on delivery apps](http://feedproxy.google.com/~r/Techcrunch/~3/otVhqajDBdo/)<!-- TECH:END -->
+ - [This leaked Samsung mid-ranger could be the $500 5G phone to beat](https://www.androidauthority.com/samsung-galaxy-a52s-2734035/)
+ - [Disney+ beats Q3 subscriber estimates, reaching 116M subscribers vs. 114.5M expected; ESPN+ subscribers rose 75% YoY to 14.9M, Hulu grew 21% YoY to 42.8M (Sarah Perez/TechCrunch)](http://www.techmeme.com/210813/p1#a210813p1)
+ - [Amazon moves Lord of the Rings production from New Zealand to UK](https://www.theverge.com/2021/8/13/22622926/amazon-lord-of-the-rings-series-production-uk-new-zealand)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
