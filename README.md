@@ -191,9 +191,9 @@ Linux                    46 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Firefighter snatches suicide jumper out of mid air](http://9gag.com/gag/aGpvQbZ)
- - 🚯 [The unity and skill of these students is absolutely divine](http://9gag.com/gag/aYo60xq)
- - 🚯 [Great Expectations](http://9gag.com/gag/aK6Z5X6)<!-- MEMES:END -->
+ - 🚖 [The unity and skill of these students is absolutely divine](http://9gag.com/gag/aYo60xq)
+ - 🚯 [Give up your best arrow gifs](http://9gag.com/gag/aDd9vBB)
+ - 🚯 [I would buy this.](http://9gag.com/gag/agB99Pw)<!-- MEMES:END -->
 
 --- 
 
