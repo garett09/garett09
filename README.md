@@ -191,8 +191,8 @@ Linux                    46 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Must watch film &hellip; good comedy..](http://9gag.com/gag/aO3EWzD)
- - 🚯 [My deep gratitude](http://9gag.com/gag/apN7MX9)
+ - 🚖 [Oi, Oi, u cheeky bastard....](http://9gag.com/gag/a27g3NZ)
+ - 🚯 [Brendan Fraser gets emotional when he finds out the internet is &quot;rooting for you&quot;](http://9gag.com/gag/aLpoEGx)
  - 🚯 [The World&rsquo;s First Meme Museum by 9GAG brings your favorite memes to life! Here&rsquo;s a VIP virtual tour for those who can&rsquo;t make it this time!](http://9gag.com/gag/apN7ZZB)<!-- MEMES:END -->
 
 --- 
