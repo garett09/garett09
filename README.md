@@ -193,9 +193,9 @@ Linux                    46 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily Crunch: 3 US Senators ask Amazon how biometric payment system will handle customers’ palm prints](http://feedproxy.google.com/~r/Techcrunch/~3/Z39h597GyyM/)
- - [A judge has ruled that Google infringed on Sonos’ patents](https://www.theverge.com/2021/8/13/22623977/sonos-google-patent-lawsuit-itc-judge-initial-ruling-infringement)
- - [The FDA OKs an Extra Vaccine Dose for Immunosuppressed People](https://www.wired.com/story/the-fda-oks-an-extra-covid-vaccine-dose-for-immunosuppressed-people)<!-- TECH:END -->
+ - [Code42 analysis: there were ~65M attempts by staff to steal source code from their companies in Q2, up from about 20M in each of the previous three quarters (Hannah Murphy/Financial Times)](http://www.techmeme.com/210813/p24#a210813p24)
+ - [Motorola is updating its first-gen foldable Razr — with Android 11](https://www.theverge.com/2021/8/13/22623902/motorola-razr-foldable-android-11-software-update-in-2021)
+ - [Apple to spend millions on outreach, relocation for homeless living on its San Jose land](https://appleinsider.com/articles/21/08/13/apple-to-spend-millions-on-outreach-relocation-for-homeless-living-on-its-san-jose-land?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
