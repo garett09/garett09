@@ -191,9 +191,9 @@ Linux                    46 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The unity and skill of these students is absolutely divine](http://9gag.com/gag/aYo60xq)
- - 🚯 [Give up your best arrow gifs](http://9gag.com/gag/aDd9vBB)
- - 🚯 [I would buy this.](http://9gag.com/gag/agB99Pw)<!-- MEMES:END -->
+ - 🚖 [Oh high there](http://9gag.com/gag/a3EgXL3)
+ - 🚯 [For Encino Man](http://9gag.com/gag/aGpv4Vn)
+ - 🚯 [Press F to pay respects](http://9gag.com/gag/aoMowVg)<!-- MEMES:END -->
 
 --- 
 
