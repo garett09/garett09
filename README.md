@@ -186,9 +186,9 @@ Linux                    46 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Here's some sick Doom armor modded into Fallout 4](https://www.pcgamer.com/heres-some-sick-doom-armor-modded-into-fallout-4)
  - [Next Call of Duty game now being teased in Warzone](https://www.polygon.com/22623971/call-of-duty-2021-vanguard-teaser-warzone)
- - [Ex-Faze Clan Member Says He's Paying Back Scammed Fans](https://kotaku.com/ex-faze-clan-member-says-hes-paying-back-scammed-fans-1847484842)
- - [You can get a Diablo 2: Resurrected beta key by watching Twitch streams right now](https://www.pcgamer.com/you-can-get-a-diablo-2-resurrected-beta-key-by-watching-twitch-streams-right-now)<!-- GAME:END -->
+ - [Ex-Faze Clan Member Says He's Paying Back Scammed Fans](https://kotaku.com/ex-faze-clan-member-says-hes-paying-back-scammed-fans-1847484842)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
