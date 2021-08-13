@@ -10,6 +10,10 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/62999bf4-98d2-4882-a325-da266023bf2b/deploy-status)](https://app.netlify.com/sites/cocky-mccarthy-7a67fb/deploys)
  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=garett09&repo=tapos-na-ba-ang-covid-ph&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=garett09&repo=project-COVID19Tracker&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=garett09&repo=afk-hotel&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=garett09&repo=garett09&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
     
 ## <img src="https://media.giphy.com/media/fTsZNbPQxJWtor2LXE/giphy.gif"  width="30">&nbsp;About Me
