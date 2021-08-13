@@ -186,9 +186,9 @@ Linux                    46 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Mario Kart 64 Legend Just Retired Because He Got Betrayed](https://kotaku.com/mario-kart-64-legend-just-retired-because-he-got-betray-1847482074)
- - [Turn on Nvidia Reflex in Naraka: Bladepoint if you're running an older GPU](https://www.pcgamer.com/turn-on-nvidia-reflex-in-naraka-bladepoint-if-youre-running-an-older-gpu)
- - [Suicide Squad and Hard-R movie food pairings.](https://www.polygon.com/22622332/suicide-squad-starro-galaxy-brains-podcast)<!-- GAME:END -->
+ - [Diablo II: Resurrected – Crafting the controller experience](http://feedproxy.google.com/~r/PSBlog/~3/40m2R7pM6sU/)
+ - [Diablo II: Resurrected – Crafting the controller experience](https://blog.playstation.com/2021/08/13/diablo-ii-resurrected-crafting-the-controller-experience/)
+ - [Fortnite Streamer Banned From Twitch, YouTube Following Rape Arrest](https://kotaku.com/fortnite-streamer-banned-from-twitch-youtube-following-1847482590)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
