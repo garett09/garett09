@@ -200,8 +200,8 @@ Linux                    46 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This part hated most](http://9gag.com/gag/a6EgPKR)
- - 🚯 [When you fail as a team](http://9gag.com/gag/amPQed9)
+ - 🚖 [You son of a b*tch, you in.](http://9gag.com/gag/a7EgQvz)
+ - 🚯 [Bully harrasing street vendor,gets knocked and sent to deep realm.](http://9gag.com/gag/a4EgXj6)
  - 🚯 [The World&rsquo;s First Meme Museum by 9GAG brings your favorite memes to life! Here&rsquo;s a VIP virtual tour for those who can&rsquo;t make it this time!](http://9gag.com/gag/apN7ZZB)<!-- MEMES:END -->
 
 --- 
