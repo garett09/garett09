@@ -11,7 +11,6 @@
 &nbsp;
     
 ### Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=garett09&repo=tapos-na-ba-ang-covid-ph&show_owner=true)](https://github.com/garett09/tapos-na-ba-ang-covid-ph)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=garett09&repo=project-COVID19Tracker&show_owner=true)](https://github.com/garett09/project-COVID19Tracker)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=garett09&repo=afk-hotel&show_owner=true)](https://github.com/garett09/afk-hotel)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=garett09&repo=garett09&show_owner=true)](https://github.com/garett09/garett09)
