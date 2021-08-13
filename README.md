@@ -186,9 +186,9 @@ Linux                    46 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Diablo II: Resurrected – Crafting the controller experience](http://feedproxy.google.com/~r/PSBlog/~3/40m2R7pM6sU/)
- - [Diablo II: Resurrected – Crafting the controller experience](https://blog.playstation.com/2021/08/13/diablo-ii-resurrected-crafting-the-controller-experience/)
- - [Fortnite Streamer Banned From Twitch, YouTube Following Rape Arrest](https://kotaku.com/fortnite-streamer-banned-from-twitch-youtube-following-1847482590)<!-- GAME:END -->
+ - [Check Out All the New Features for Madden NFL 22 and Start Playing Today with EA Play](https://news.xbox.com/en-us/2021/08/13/new-features-for-madden-nfl-22-play-today-with-ea-play/)
+ - [Eve Spectrum 4K gaming monitor review](https://www.pcgamer.com/eve-spectrum-4k-gaming-monitor-es07d03)
+ - [STALKER 2 will use Unreal Engine 5](https://www.pcgamer.com/stalker-2-will-use-unreal-engine-5)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
