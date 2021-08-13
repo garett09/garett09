@@ -193,9 +193,9 @@ Linux                    46 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [CDC panel votes to recommend third COVID shot for some immunocompromised people     - CNET](https://www.cnet.com/health/cdc-panel-votes-to-recommend-third-covid-shot-for-some-immunocompromised-people/#ftag=CAD590a51e)
- - [iPhone privacy: How Apple's decision to expose more child abusers might affect you     - CNET](https://www.cnet.com/tech/services-and-software/iphone-privacy-how-apples-decision-to-expose-more-child-abusers-might-affect-you/#ftag=CAD590a51e)
- - [Lamborghini’s Countach LPI 800-4 is an 802-horsepower hybrid supercar](http://feedproxy.google.com/~r/Techcrunch/~3/8V1-l67MHs0/)<!-- TECH:END -->
+ - [Twitter’s web redesign isn’t as accessible as it should be, experts say](http://feedproxy.google.com/~r/Techcrunch/~3/gcdYJDyKYdE/)
+ - [In a preliminary ruling, ITC judge finds Google infringed on five patents owned by Sonos; full commission will make a final ruling in December (Daisuke Wakabayashi/New York Times)](http://www.techmeme.com/210813/p22#a210813p22)
+ - [Reddit launches a TikTok-like video feed on iOS](https://www.theverge.com/2021/8/13/22623724/reddit-titktok-video-feed-ios-app)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
