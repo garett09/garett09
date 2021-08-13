@@ -191,8 +191,8 @@ Linux                    46 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Now it&#039;s clear who won the civil war.](http://9gag.com/gag/aB2zAPx)
- - 🚯 [A Happy Cow Plays Fetch With Its Owner](http://9gag.com/gag/aYo63E7)
+ - 🚖 [When you fail as a team](http://9gag.com/gag/amPQed9)
+ - 🚯 [The slander is real](http://9gag.com/gag/aB2zArQ)
  - 🚯 [The World&rsquo;s First Meme Museum by 9GAG brings your favorite memes to life! Here&rsquo;s a VIP virtual tour for those who can&rsquo;t make it this time!](http://9gag.com/gag/apN7ZZB)<!-- MEMES:END -->
 
 --- 
