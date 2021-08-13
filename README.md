@@ -201,7 +201,7 @@ Linux                    46 mins             ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 🚖 [You son of a b*tch, you in.](http://9gag.com/gag/a7EgQvz)
- - 🚯 [Bully harrasing street vendor,gets knocked and sent to deep realm.](http://9gag.com/gag/a4EgXj6)
+ - 🚯 [Todays house market prices?! I&#039;d do the same](http://9gag.com/gag/aXo3ynD)
  - 🚯 [The World&rsquo;s First Meme Museum by 9GAG brings your favorite memes to life! Here&rsquo;s a VIP virtual tour for those who can&rsquo;t make it this time!](http://9gag.com/gag/apN7ZZB)<!-- MEMES:END -->
 
 --- 
