@@ -184,9 +184,9 @@ Linux                    46 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [YC-backed Tablevibe’s customer surveys help restaurants reduce their reliance on delivery apps](http://feedproxy.google.com/~r/Techcrunch/~3/otVhqajDBdo/)
  - [XtalPi, which uses AI for drug discovery and development, raises $400M Series D led by OrbiMed and RRJ, at a valuation of over $2B (KrASIA)](http://www.techmeme.com/210812/p40#a210812p40)
- - [Lobbying group backed by Apple and Google rails against Open App Markets Act](https://appleinsider.com/articles/21/08/13/lobbying-group-backed-by-apple-and-google-rails-against-open-app-markets-act?utm_medium=rss)
- - [I use subtitles for every TV show I watch and so should you     - CNET](https://www.cnet.com/news/i-use-subtitles-for-every-tv-show-i-watch-and-so-should-you/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Lobbying group backed by Apple and Google rails against Open App Markets Act](https://appleinsider.com/articles/21/08/13/lobbying-group-backed-by-apple-and-google-rails-against-open-app-markets-act?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
