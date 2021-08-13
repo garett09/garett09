@@ -177,9 +177,9 @@ Linux                    46 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [AMD claims its largest share of the overall x86 CPU market in 14 years](https://www.pcgamer.com/amd-claims-its-largest-share-of-the-overall-x86-cpu-market-in-14-years)
- - [AMD's best CPUs are back in stock at the MSRP, making them unprofitable for resellers](https://www.pcgamer.com/amd-zen-3-ryzen-5000-reselling-no-longer-profitably)
- - [Assassin's Creed Hidden Ones' mission: Where to find the keys and the Joyeuse short sword](https://www.pcgamer.com/ac-valhalla-short-sword-location-hidden-ones-keys-joyeuse)<!-- GAME:END -->
+ - [Halo Infinite's bots aren't teabagging you, at least not on purpose](https://www.pcgamer.com/halo-infinites-bots-arent-teabagging-you-at-least-not-on-purpose)
+ - [Assassin’s Creed Valhalla's New DLC Is All About War, Vengeance, And Poor Optimization](https://kotaku.com/assassin-s-creed-valhallas-new-dlc-is-all-about-war-ve-1847477834)
+ - [This fully loaded Aero 15 is way more laptop than you need, but it’s also $1,100 off](https://www.pcgamer.com/this-fully-loaded-aero-15-is-way-more-laptop-than-you-need-but-its-also-dollar1100-off)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
