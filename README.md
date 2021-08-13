@@ -177,9 +177,9 @@ Linux                    46 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Mad with power, fishing sim developers release an entire expansion about scallops](https://www.pcgamer.com/fishing-north-atlantic-has-an-entire-expansion-about-scallops)
- - [It sure sounds like GTA 3, Vice City and San Andreas are getting a remaster this year](https://www.pcgamer.com/it-sure-sounds-like-gta-3-vice-city-and-san-andreas-are-getting-a-remaster-this-year)
- - [Marvel’s Shang-Chi will come to Disney Plus 45 days after theatrical release](https://www.polygon.com/22622272/shang-chi-and-the-legend-of-the-ten-rings-disney-plus-45-day-window)<!-- GAME:END -->
+ - [Welcome Back To Wrestling’s Great Video Game Sign War](https://kotaku.com/welcome-back-to-wrestling-s-great-video-game-sign-war-1847478555)
+ - [The best weapons in Naraka: Bladepoint so far](https://www.pcgamer.com/naraka-bladepoint-best-weapons)
+ - [Back 4 Blood sound effect that resembles a racial slur was a randomization accident](https://www.pcgamer.com/back-4-blood-racial-slur-is-a-quirk-of-randomization-and-will-be-fixed-studio-promises)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
