@@ -191,7 +191,7 @@ Linux                    46 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Brendan Fraser](http://9gag.com/gag/a27gAeZ)
+ - 🚖 [Great Expectations](http://9gag.com/gag/aK6Z5X6)
  - 🚯 [I wish i&#039;d watched it earlier. Amazing show.](http://9gag.com/gag/aP3LL8G)
  - 🚯 [Fail](http://9gag.com/gag/aYo65e0)<!-- MEMES:END -->
 
