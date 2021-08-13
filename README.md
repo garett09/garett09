@@ -177,9 +177,9 @@ Linux                    46 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Welcome Back To Wrestling’s Great Video Game Sign War](https://kotaku.com/welcome-back-to-wrestling-s-great-video-game-sign-war-1847478555)
- - [The best weapons in Naraka: Bladepoint so far](https://www.pcgamer.com/naraka-bladepoint-best-weapons)
- - [Back 4 Blood sound effect that resembles a racial slur was a randomization accident](https://www.pcgamer.com/back-4-blood-racial-slur-is-a-quirk-of-randomization-and-will-be-fixed-studio-promises)<!-- GAME:END -->
+ - [New CS:GO music kits include polka-metal and a disco grenade](https://www.pcgamer.com/new-csgo-music-kits-include-polka-metal-and-a-disco-grenade)
+ - [Art of Rally's big free Kenya update is out today](https://www.pcgamer.com/art-of-rallys-big-free-kenya-update-is-out-today)
+ - [Welcome Back To Wrestling’s Great Video Game Sign War](https://kotaku.com/welcome-back-to-wrestling-s-great-video-game-sign-war-1847478555)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
