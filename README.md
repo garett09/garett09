@@ -193,9 +193,9 @@ Linux                    46 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple details its CSAM detection system, says it expects to set a match threshold of 30 known CSAM images before an iCloud account is flagged for manual review (Joe Rossignol/MacRumors)](http://www.techmeme.com/210813/p18#a210813p18)
- - [Twitter is pausing its verification program again, after giving fake accounts blue checks](https://www.theverge.com/2021/8/13/22623714/twitter-verification-program-pause-fake-accounts-review)
- - [Sequoia’s Stephanie Zhan and Rec Room’s Nick Fajt are joining us on Extra Crunch Live](http://feedproxy.google.com/~r/Techcrunch/~3/HDH4erb3z_k/)<!-- TECH:END -->
+ - [CDC panel votes to recommend third COVID shot for some immunocompromised people     - CNET](https://www.cnet.com/health/cdc-panel-votes-to-recommend-third-covid-shot-for-some-immunocompromised-people/#ftag=CAD590a51e)
+ - [iPhone privacy: How Apple's decision to expose more child abusers might affect you     - CNET](https://www.cnet.com/tech/services-and-software/iphone-privacy-how-apples-decision-to-expose-more-child-abusers-might-affect-you/#ftag=CAD590a51e)
+ - [Lamborghini’s Countach LPI 800-4 is an 802-horsepower hybrid supercar](http://feedproxy.google.com/~r/Techcrunch/~3/8V1-l67MHs0/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
