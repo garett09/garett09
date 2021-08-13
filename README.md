@@ -184,9 +184,9 @@ Linux                    46 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to Get Free Kindle Books With Your Library Card](https://www.wired.com/story/how-to-get-free-kindle-books-with-your-library-card)
- - [Free Guy Sees the Metaverse Through Rose-Colored Glasses](https://www.wired.com/story/free-guy-ai-metaverse-review)
- - [Samsung Has Its Own AI-Designed Chip. Soon, Others Will Too](https://www.wired.com/story/samsung-ai-designed-chip-soon-others-too)<!-- TECH:END -->
+ - [Poll: Are foldables really ‘the new mainstream’ for smartphones?](https://www.androidauthority.com/foldables-new-mainstream-poll-2734149/)
+ - [Head of Twitter India is moving to the US as Senior Director, Revenue Strategy and Operations amid continued tensions between Twitter and the Indian government (Manish Singh/TechCrunch)](http://www.techmeme.com/210813/p5#a210813p5)
+ - [Apple’s iCloud Photo-Scanning Tech Explained](https://www.wired.com/story/gadget-lab-podcast-516)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
