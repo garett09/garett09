@@ -186,9 +186,9 @@ Linux                    46 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Don’t Miss Out on an Exclusive Kimble “Irish” Graves Skin in Battlefield 2042](https://news.xbox.com/en-us/2021/08/13/exclusive-kimble-irish-graves-skin-battlefield-2042/)
- - [Oh hell yeah, get almost all the Jackbox games for $20](https://www.pcgamer.com/oh-hell-yeah-get-almost-all-the-jackbox-games-for-dollar20)
- - [Battle Royale Players Upset Their Early Kills Were Actually Just Bots](https://kotaku.com/battle-royale-players-upset-their-early-kills-were-actu-1847483782)<!-- GAME:END -->
+ - [It’s Like A Nintendo Direct, But For 3D Platformers](https://kotaku.com/it-s-like-a-nintendo-direct-but-for-3d-platformers-1847484635)
+ - [Why some Overwatch casters have stopped saying McCree's name during matches](https://www.pcgamer.com/why-some-overwatch-casters-have-stopped-saying-mccrees-name-during-matches)
+ - [The best graphics cards in 2021](https://www.pcgamer.com/the-best-graphics-cards)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
