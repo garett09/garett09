@@ -184,9 +184,9 @@ Linux                    46 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [These could be the specs of Jio and Google’s ultra-affordable Android phone](https://www.androidauthority.com/jiophone-next-specs-2734051/)
- - [This leaked Samsung mid-ranger could be the $500 5G phone to beat](https://www.androidauthority.com/samsung-galaxy-a52s-2734035/)
- - [Disney+ beats Q3 subscriber estimates, reaching 116M subscribers vs. 114.5M expected; ESPN+ subscribers rose 75% YoY to 14.9M, Hulu grew 21% YoY to 42.8M (Sarah Perez/TechCrunch)](http://www.techmeme.com/210813/p1#a210813p1)<!-- TECH:END -->
+ - [This new gaming handheld combines Android and a Switch-style design](https://www.androidauthority.com/gpd-xp-2732676/)
+ - [Innovusion Holdings, which develops lidar systems, raises $66M Series B plus round, bringing its total raised to $180M (David Ramli/Bloomberg)](http://www.techmeme.com/210813/p2#a210813p2)
+ - [These could be the specs of Jio and Google’s ultra-affordable Android phone](https://www.androidauthority.com/jiophone-next-specs-2734051/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
