@@ -191,9 +191,9 @@ Linux                    46 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Priority](http://9gag.com/gag/anQZPd0)
- - 🚯 [Men being bros save horse stuck upside down in rocks](http://9gag.com/gag/anQZoV5)
- - 🚯 [Hooman beens](http://9gag.com/gag/a8ENxm6)<!-- MEMES:END -->
+ - 🚖 [Must watch film &hellip; good comedy..](http://9gag.com/gag/aO3EWzD)
+ - 🚯 [My deep gratitude](http://9gag.com/gag/apN7MX9)
+ - 🚯 [The World&rsquo;s First Meme Museum by 9GAG brings your favorite memes to life! Here&rsquo;s a VIP virtual tour for those who can&rsquo;t make it this time!](http://9gag.com/gag/apN7ZZB)<!-- MEMES:END -->
 
 --- 
 
