@@ -191,9 +191,9 @@ Linux                    46 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Oh high there](http://9gag.com/gag/a3EgXL3)
- - 🚯 [For Encino Man](http://9gag.com/gag/aGpv4Vn)
- - 🚯 [Press F to pay respects](http://9gag.com/gag/aoMowVg)<!-- MEMES:END -->
+ - 🚖 [For Encino Man](http://9gag.com/gag/aGpv4Vn)
+ - 🚯 [Brendan Fraser after waking up and finding out that the internet worship him:](http://9gag.com/gag/anQZwGo)
+ - 🚯 [Men being bros save horse stuck upside down in rocks](http://9gag.com/gag/anQZoV5)<!-- MEMES:END -->
 
 --- 
 
