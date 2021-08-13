@@ -184,9 +184,9 @@ Linux                    46 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ford GT 64 Prototype Heritage Edition celebrates the GT's beginning and its end     - Roadshow](https://www.cnet.com/roadshow/pictures/ford-gt-64-prototype-heritage-edition-debut/#ftag=CAD590a51e)
  - [Is an iPhone 11 worth buying in 2021? Here's what to consider     - CNET](https://www.cnet.com/tech/mobile/is-an-iphone-11-worth-buying-in-2021-heres-what-to-consider/#ftag=CAD590a51e)
- - [You told us: You demand longer software upgrade periods for Android phones](https://www.androidauthority.com/android-software-upgrades-poll-results-2734069/)
- - [Illustrators say Corporate Memphis, an art aesthetic synonymous with tech marketing, has stuck around because execs continue to overlook the value of their work (Hirsh Chitkara/Protocol)](http://www.techmeme.com/210813/p3#a210813p3)<!-- TECH:END -->
+ - [You told us: You demand longer software upgrade periods for Android phones](https://www.androidauthority.com/android-software-upgrades-poll-results-2734069/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
