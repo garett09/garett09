@@ -192,7 +192,7 @@ Linux                    46 mins             ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 🚖 [Catch many mouses with one shot](http://9gag.com/gag/anQZm6q)
- - 🚯 [You son of a b*tch, you in.](http://9gag.com/gag/a7EgQvz)
+ - 🚯 [Artyom Milushkin and his wife Leah Milushkina, russian political activists for free and fair elections from Pskov region, just got 11 years in prison. They have two children.](http://9gag.com/gag/a6EgYB2)
  - 🚯 [The World&rsquo;s First Meme Museum by 9GAG brings your favorite memes to life! Here&rsquo;s a VIP virtual tour for those who can&rsquo;t make it this time!](http://9gag.com/gag/apN7ZZB)<!-- MEMES:END -->
 
 --- 
