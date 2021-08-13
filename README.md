@@ -191,9 +191,9 @@ Linux                    46 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Fail](http://9gag.com/gag/aYo65e0)
- - 🚯 [Consequence of corporate greed.](http://9gag.com/gag/a9Ewwno)
- - 🚯 [I love happy endings &hearts;](http://9gag.com/gag/aK6ZMv3)<!-- MEMES:END -->
+ - 🚖 [Firefighter snatches suicide jumper out of mid air](http://9gag.com/gag/aGpvQbZ)
+ - 🚯 [The unity and skill of these students is absolutely divine](http://9gag.com/gag/aYo60xq)
+ - 🚯 [Great Expectations](http://9gag.com/gag/aK6Z5X6)<!-- MEMES:END -->
 
 --- 
 
