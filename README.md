@@ -191,8 +191,8 @@ Linux                    46 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Catch many mouses with one shot](http://9gag.com/gag/anQZm6q)
- - 🚯 [Artyom Milushkin and his wife Leah Milushkina, russian political activists for free and fair elections from Pskov region, just got 11 years in prison. They have two children.](http://9gag.com/gag/a6EgYB2)
+ - 🚖 [This part hated most](http://9gag.com/gag/a6EgPKR)
+ - 🚯 [When you fail as a team](http://9gag.com/gag/amPQed9)
  - 🚯 [The World&rsquo;s First Meme Museum by 9GAG brings your favorite memes to life! Here&rsquo;s a VIP virtual tour for those who can&rsquo;t make it this time!](http://9gag.com/gag/apN7ZZB)<!-- MEMES:END -->
 
 --- 
