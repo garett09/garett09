@@ -193,9 +193,9 @@ Linux                    46 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitter’s web redesign isn’t as accessible as it should be, experts say](http://feedproxy.google.com/~r/Techcrunch/~3/gcdYJDyKYdE/)
- - [In a preliminary ruling, ITC judge finds Google infringed on five patents owned by Sonos; full commission will make a final ruling in December (Daisuke Wakabayashi/New York Times)](http://www.techmeme.com/210813/p22#a210813p22)
- - [Reddit launches a TikTok-like video feed on iOS](https://www.theverge.com/2021/8/13/22623724/reddit-titktok-video-feed-ios-app)<!-- TECH:END -->
+ - [Daily Crunch: 3 US Senators ask Amazon how biometric payment system will handle customers’ palm prints](http://feedproxy.google.com/~r/Techcrunch/~3/Z39h597GyyM/)
+ - [A judge has ruled that Google infringed on Sonos’ patents](https://www.theverge.com/2021/8/13/22623977/sonos-google-patent-lawsuit-itc-judge-initial-ruling-infringement)
+ - [The FDA OKs an Extra Vaccine Dose for Immunosuppressed People](https://www.wired.com/story/the-fda-oks-an-extra-covid-vaccine-dose-for-immunosuppressed-people)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
