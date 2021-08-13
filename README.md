@@ -177,9 +177,9 @@ Linux                    46 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [QuakeCon 2021 schedule briefly mentioned a 'revitalized' Quake](https://www.pcgamer.com/quakecon-2021-schedule-briefly-mentioned-a-revitalized-quake)
  - [New CS:GO music kits include polka-metal and a disco grenade](https://www.pcgamer.com/new-csgo-music-kits-include-polka-metal-and-a-disco-grenade)
- - [Art of Rally's big free Kenya update is out today](https://www.pcgamer.com/art-of-rallys-big-free-kenya-update-is-out-today)
- - [Welcome Back To Wrestling’s Great Video Game Sign War](https://kotaku.com/welcome-back-to-wrestling-s-great-video-game-sign-war-1847478555)<!-- GAME:END -->
+ - [Art of Rally's big free Kenya update is out today](https://www.pcgamer.com/art-of-rallys-big-free-kenya-update-is-out-today)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
