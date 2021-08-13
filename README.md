@@ -184,9 +184,9 @@ Linux                    46 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Airbnb updating policy to end forced arbitration for sexual harassment cases for guests, hosts](https://www.theverge.com/2021/8/13/22623224/airbnb-sexual-harassment-policy-forced-arbitration-update)
- - [Netflix isn’t the savior Nollywood needs](https://www.theverge.com/22621845/netflix-nigeria-nollywood-streaming-films)
- - [Don’t give your weed dealer all your data](http://feedproxy.google.com/~r/Techcrunch/~3/5JPlFfZWSTk/)<!-- TECH:END -->
+ - [Best Deals August 13 - $170 off internal SSD, $120 off Roborock Smart Vacuum, and more!](https://appleinsider.com/articles/21/08/13/best-deals-august-13---170-off-internal-ssd-120-off-roborock-smart-vacuum-and-more?utm_medium=rss)
+ - [Argentine fintech Ualá lands $350M at a $2.45B valuation in SoftBank, Tencent-led round](http://feedproxy.google.com/~r/Techcrunch/~3/oV_Ag58NuHE/)
+ - [Best Apple Watch deals: Save up to $100 on Series 6, SE as low as $249     - CNET](https://www.cnet.com/tech/mobile/best-apple-watch-deals-big-discounts-on-the-series-6-at-amazon-and-walmart/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
