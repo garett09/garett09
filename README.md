@@ -177,9 +177,9 @@ Linux                    46 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Bugsnax is coming to Steam in 2022](https://www.pcgamer.com/bugsnax-is-coming-to-steam-in-2022)
- - [QuakeCon 2021 schedule briefly mentioned a 'revitalized' Quake](https://www.pcgamer.com/quakecon-2021-schedule-briefly-mentioned-a-revitalized-quake)
- - [New CS:GO music kits include polka-metal and a disco grenade](https://www.pcgamer.com/new-csgo-music-kits-include-polka-metal-and-a-disco-grenade)<!-- GAME:END -->
+ - [AMD claims its largest share of the overall x86 CPU market in 14 years](https://www.pcgamer.com/amd-claims-its-largest-share-of-the-overall-x86-cpu-market-in-14-years)
+ - [AMD's best CPUs are back in stock at the MSRP, making them unprofitable for resellers](https://www.pcgamer.com/amd-zen-3-ryzen-5000-reselling-no-longer-profitably)
+ - [Assassin's Creed Hidden Ones' mission: Where to find the keys and the Joyeuse short sword](https://www.pcgamer.com/ac-valhalla-short-sword-location-hidden-ones-keys-joyeuse)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
