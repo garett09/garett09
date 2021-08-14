@@ -193,9 +193,9 @@ Linux                    29 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Code42 analysis: there were ~65M attempts by staff to steal source code from their companies in Q2, up from about 20M in each of the previous three quarters (Hannah Murphy/Financial Times)](http://www.techmeme.com/210813/p24#a210813p24)
- - [Motorola is updating its first-gen foldable Razr — with Android 11](https://www.theverge.com/2021/8/13/22623902/motorola-razr-foldable-android-11-software-update-in-2021)
- - [Apple to spend millions on outreach, relocation for homeless living on its San Jose land](https://appleinsider.com/articles/21/08/13/apple-to-spend-millions-on-outreach-relocation-for-homeless-living-on-its-san-jose-land?utm_medium=rss)<!-- TECH:END -->
+ - [Konami resurrects 'Castlevania: Grimoire of Souls' as Apple Arcade exclusive](https://appleinsider.com/articles/21/08/14/konami-resurrects-castlevania-grimoire-of-souls-as-apple-arcade-exclusive?utm_medium=rss)
+ - [Google Stadia’s first game that responds directly to touch is coming this August](https://www.theverge.com/2021/8/13/22624023/stadia-direct-touch-control-scheme-humankind-stadia)
+ - [Code42 analysis: there were ~65M attempts by staff to steal source code from their companies in Q2, up from about 20M in each of the previous three quarters (Hannah Murphy/Financial Times)](http://www.techmeme.com/210813/p24#a210813p24)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
