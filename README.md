@@ -186,9 +186,9 @@ Linux                    29 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Here's some sick Doom armor modded into Fallout 4](https://www.pcgamer.com/heres-some-sick-doom-armor-modded-into-fallout-4)
- - [Next Call of Duty game now being teased in Warzone](https://www.polygon.com/22623971/call-of-duty-2021-vanguard-teaser-warzone)
- - [Ex-Faze Clan Member Says He's Paying Back Scammed Fans](https://kotaku.com/ex-faze-clan-member-says-hes-paying-back-scammed-fans-1847484842)<!-- GAME:END -->
+ - [Naraka: Bladepoint is pretty fun once you escape bot purgatory](https://www.pcgamer.com/naraka-bladepoint-is-pretty-fun-once-you-escape-bot-purgatory)
+ - [Netflix’s Beckett puts the wrong man at the center of a wrong-man thriller](https://www.polygon.com/22624174/beckett-review-netflix)
+ - [Here's some sick Doom armor modded into Fallout 4](https://www.pcgamer.com/heres-some-sick-doom-armor-modded-into-fallout-4)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
