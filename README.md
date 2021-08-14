@@ -186,9 +186,9 @@ Linux                    29 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Gigabyte responds to failing PSU reports: adjusts overpower protection and offers exchanges](https://www.pcgamer.com/gigabyte-faulty-psu-response-returns)
- - [Best cheap microphone for streaming and gaming](https://www.pcgamer.com/best-budget-microphone)
- - [Your weekly PC hardware catchup: flashy Razer keyboard kits and adorable Nvidia GPUs](https://www.pcgamer.com/new-pc-hardware-august-14-2021)<!-- GAME:END -->
+ - [The best films you can stream on HBO Max this month](https://www.polygon.com/streaming/22431940/best-movies-on-hbo-max)
+ - [Jacksepticeye, LazarBeam, and DanTDM on the biggest misconceptions they face about their videos](https://www.polygon.com/22623848/jacksepticeye-lazarbeam-dantdm-interview)
+ - [Free Guy’s IP-bonanza ending was inspired by the entire crew](https://www.polygon.com/22622314/free-guy-ending-interview)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
