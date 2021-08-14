@@ -193,9 +193,9 @@ Linux                    29 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hawkeye on Disney Plus: Everything we know about the MCU show](https://www.androidauthority.com/hawkeye-show-disney-plus-2732462/)
- - [Twitter says it is changing the contrast of its new buttons, as users complain about headaches after its redesign that some experts say isn't very accessible (Amanda Silberling/TechCrunch)](http://www.techmeme.com/210814/p9#a210814p9)
- - [Galaxy Z Flip 3 ongoing review: Let's talk about that cover screen     - CNET](https://www.cnet.com/tech/mobile/galaxy-z-flip-3-ongoing-review-lets-talk-about-that-cover-screen/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Deals August 14 - $3,999 laser projector, $115 portable display, and more!](https://appleinsider.com/articles/21/08/14/best-deals-august-14---3999-laser-projector-115-portable-display-and-more?utm_medium=rss)
+ - [U.S. ITC judge sides with Sonos in Google patent infringement suit](https://appleinsider.com/articles/21/08/14/us-itc-judge-sides-with-sonos-in-google-patent-infringement-suit?utm_medium=rss)
+ - [Apple’s controversial plan to try to curb child sexual abuse imagery](https://www.theverge.com/2021/8/14/22624770/apple-controversial-plan-csam-child-abuse-privacy-ios-messages)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
