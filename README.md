@@ -200,9 +200,9 @@ Linux                    29 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [He asked for it, he delivered](http://9gag.com/gag/aK65wYb)
- - 🚯 [Love this movie &amp; the soundtrack](http://9gag.com/gag/a5E3eyV)
- - 🚯 [Raw steaks that have traditionally been put on black eyes were done so because the meat is cold, not because it has any special healing properties](http://9gag.com/gag/azMwg0b)<!-- MEMES:END -->
+ - 🚖 [Raw steaks that have traditionally been put on black eyes were done so because the meat is cold, not because it has any special healing properties](http://9gag.com/gag/azMwg0b)
+ - 🚯 [I&#039;m proud of myself!](http://9gag.com/gag/arMwvQ5)
+ - 🚯 [The perfect waifu does exist!](http://9gag.com/gag/awM2bnB)<!-- MEMES:END -->
 
 --- 
 
