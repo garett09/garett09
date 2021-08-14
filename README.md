@@ -186,9 +186,9 @@ Linux                    29 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Boyfriend Dungeon will update with 'more accurate' content warning about stalking](https://www.pcgamer.com/boyfriend-dungeon-will-update-with-more-accurate-content-warning-about-stalking)
- - [Battlefield 2042 Playtesters Who Break NDA May Be Banned From Playing The Full Game](https://kotaku.com/battlefield-2042-playtesters-who-break-nda-may-be-banne-1847487639)
- - [Half-Life 2 community gets highest amount of concurrent players since literal records began](https://www.pcgamer.com/half-life-2-community-gets-highest-amount-of-concurrent-players-since-literal-records-began)<!-- GAME:END -->
+ - [Assassin's Creed Valhalla's New DLC Adds Cavalry Units That Keep Kicking My Ass](https://kotaku.com/assassins-creed-valhalla-new-dlc-adds-cavalry-units-tha-1847488173)
+ - [Ladies speedrun for charity in Flame Fatales, kicking off August 15th](https://www.pcgamer.com/ladies-speedrun-for-charity-in-flame-fatales-kicking-off-august-15th)
+ - [Boyfriend Dungeon will update with 'more accurate' content warning about stalking](https://www.pcgamer.com/boyfriend-dungeon-will-update-with-more-accurate-content-warning-about-stalking)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
