@@ -200,9 +200,9 @@ Linux                    29 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This show is simply timeless](http://9gag.com/gag/a27pE11)
- - 🚯 [Food is life.](http://9gag.com/gag/aV75jdv)
- - 🚯 [Harvesting lavender bushels](http://9gag.com/gag/axMwEob)<!-- MEMES:END -->
+ - 🚖 [Very Erotic Voice.. Congratulations](http://9gag.com/gag/aB259YP)
+ - 🚯 [Harvesting lavender bushels](http://9gag.com/gag/axMwEob)
+ - 🚯 [Millenials&#039; know](http://9gag.com/gag/ad8w0Y9)<!-- MEMES:END -->
 
 --- 
 
