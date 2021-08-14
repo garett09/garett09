@@ -186,9 +186,9 @@ Linux                    29 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Your weekly PC hardware catchup: flashy Razer keyboard kits and adorable Nvidia GPUs](https://www.pcgamer.com/new-pc-hardware-august-14-2021)
- - [Crapshoot: X-COM Enforcer, where you're a robot for some reason](https://www.pcgamer.com/saturday-crapshoot-x-com-enforcer)
- - [Naraka: Bladepoint is pretty fun once you escape bot purgatory](https://www.pcgamer.com/naraka-bladepoint-is-pretty-fun-once-you-escape-bot-purgatory)<!-- GAME:END -->
+ - [Gigabyte responds to failing PSU reports: adjusts overpower protection and offers exchanges](https://www.pcgamer.com/gigabyte-faulty-psu-response-returns)
+ - [Best cheap microphone for streaming and gaming](https://www.pcgamer.com/best-budget-microphone)
+ - [Your weekly PC hardware catchup: flashy Razer keyboard kits and adorable Nvidia GPUs](https://www.pcgamer.com/new-pc-hardware-august-14-2021)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
