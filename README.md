@@ -200,9 +200,9 @@ Linux                    29 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Football is brutal and savage](http://9gag.com/gag/aO35oNy)
- - 🚯 [I&#039;m proud of myself!](http://9gag.com/gag/arMwvQ5)
- - 🚯 [He asked for it, he delivered](http://9gag.com/gag/aK65wYb)<!-- MEMES:END -->
+ - 🚖 [Love this movie &amp; the soundtrack](http://9gag.com/gag/a5E3eyV)
+ - 🚯 [People leaves when informed they are being injected with Chinese vaccines](http://9gag.com/gag/aMK5eqP)
+ - 🚯 [Millenials&#039; know](http://9gag.com/gag/ad8w0Y9)<!-- MEMES:END -->
 
 --- 
 
