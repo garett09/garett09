@@ -193,9 +193,9 @@ Linux                    29 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netherlands-based Betty Blocks, which offers low-code application development tools to organizations, raises $33M led by SmartFin Capital (Maija Ehlinger/Hypepotamus)](http://www.techmeme.com/210814/p2#a210814p2)
- - [HBO Max plans to roll out a new app in the next four or five months for connected TVs, built from the ground up, after complaints of glitches in its current app (Josef Adalian/Vulture)](http://www.techmeme.com/210814/p1#a210814p1)
- - [Best student credit card for August 2021     - CNET](https://www.cnet.com/personal-finance/credit-cards/best-student-credit-card/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [New book details Android's acquisition by Google, and how Android pitched its OS to Samsung, HTC, and East Coast VC firms before meeting with Larry Page (Chet Haase/Ars Technica)](http://www.techmeme.com/210814/p5#a210814p5)
+ - [Poco F3 GT review: High power, low price](https://www.androidauthority.com/poco-f3-gt-review-1648499/)
+ - [Germany-based WorkMotion, an HR software startup that helps companies onboard and manage staff abroad, raises ~$24M Series A led by Activant Capital and XAnge (Vishal Singh/Silicon Canals)](http://www.techmeme.com/210814/p4#a210814p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
