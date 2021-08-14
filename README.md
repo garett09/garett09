@@ -200,8 +200,8 @@ Linux                    29 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Keep your secrets](http://9gag.com/gag/aMK5eYX)
- - 🚯 [Harvesting lavender bushels](http://9gag.com/gag/axMwEob)
+ - 🚖 [Dude calmly yeets a pitbull](http://9gag.com/gag/axMKxQK)
+ - 🚯 [Curious](http://9gag.com/gag/axMwEnD)
  - 🚯 [The World&rsquo;s First Meme Museum by 9GAG brings your favorite memes to life! Here&rsquo;s a VIP virtual tour for those who can&rsquo;t make it this time!](http://9gag.com/gag/apN7ZZB)<!-- MEMES:END -->
 
 --- 
