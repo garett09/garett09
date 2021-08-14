@@ -193,9 +193,9 @@ Linux                    29 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Galaxy Z Flip 3 ongoing review: Let's talk about that cover screen     - CNET](https://www.cnet.com/tech/mobile/galaxy-z-flip-3-ongoing-review-lets-talk-about-that-cover-screen/#ftag=CAD590a51e)
  - [Apple promises macOS scanner fix in a future update](https://appleinsider.com/articles/21/08/14/apple-promises-macos-scanner-fix-in-a-future-update?utm_medium=rss)
- - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-393-2734443/)
- - [Interview with Niantic CEO John Hanke about Niantic's vision for the metaverse and how the metaverse could become a dystopian nightmare (Mark Sullivan/Fast Company)](http://www.techmeme.com/210814/p8#a210814p8)<!-- TECH:END -->
+ - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-393-2734443/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
