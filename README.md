@@ -200,8 +200,8 @@ Linux                    29 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Raw steaks that have traditionally been put on black eyes were done so because the meat is cold, not because it has any special healing properties](http://9gag.com/gag/azMwg0b)
- - 🚯 [I&#039;m proud of myself!](http://9gag.com/gag/arMwvQ5)
+ - 🚖 [Well okay](http://9gag.com/gag/aLp5RXz)
+ - 🚯 [When your vegetarian friends invite you to dinner on a Saturday night](http://9gag.com/gag/axMwNqY)
  - 🚯 [The perfect waifu does exist!](http://9gag.com/gag/awM2bnB)<!-- MEMES:END -->
 
 --- 
