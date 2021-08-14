@@ -186,9 +186,9 @@ Linux                    29 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Firaxis are looking for a narrative lead with a 'knowledge and passion for world history'](https://www.pcgamer.com/firaxis-are-looking-for-a-narrative-lead-with-a-knowledge-and-passion-for-world-history)
- - [Stoutland Is Such A Good Dog Some People Let It Babysit Kids](https://kotaku.com/stoutland-is-such-a-good-dog-some-people-let-it-babysit-1847487265)
- - [The best films you can stream on HBO Max this month](https://www.polygon.com/streaming/22431940/best-movies-on-hbo-max)<!-- GAME:END -->
+ - [Skate across a burning city for love in Fire Tonight](https://www.pcgamer.com/skate-across-a-burning-city-for-love-in-fire-tonight)
+ - [Nintendo Orders ROM Site To ‘Destroy’ All Its Games, Or Else](https://kotaku.com/nintendo-orders-rom-site-to-destroy-all-its-games-or-1847487357)
+ - [Firaxis are looking for a narrative lead with a 'knowledge and passion for world history'](https://www.pcgamer.com/firaxis-are-looking-for-a-narrative-lead-with-a-knowledge-and-passion-for-world-history)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
