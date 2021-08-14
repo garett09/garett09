@@ -186,9 +186,9 @@ Linux                    29 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [A possible Alan Wake 2 is now in "full production"](https://www.pcgamer.com/a-possible-alan-wake-2-is-now-in-full-production)
  - [Assassin's Creed Valhalla's New DLC Adds Cavalry Units That Keep Kicking My Ass](https://kotaku.com/assassins-creed-valhalla-new-dlc-adds-cavalry-units-tha-1847488173)
- - [Ladies speedrun for charity in Flame Fatales, kicking off August 15th](https://www.pcgamer.com/ladies-speedrun-for-charity-in-flame-fatales-kicking-off-august-15th)
- - [Boyfriend Dungeon will update with 'more accurate' content warning about stalking](https://www.pcgamer.com/boyfriend-dungeon-will-update-with-more-accurate-content-warning-about-stalking)<!-- GAME:END -->
+ - [Ladies speedrun for charity in Flame Fatales, kicking off August 15th](https://www.pcgamer.com/ladies-speedrun-for-charity-in-flame-fatales-kicking-off-august-15th)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
