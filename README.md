@@ -200,9 +200,9 @@ Linux                    29 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Keep your secrets](http://9gag.com/gag/aMK5eYX)
- - 🚯 [You little rat!](http://9gag.com/gag/aLp5Rg5)
- - 🚯 [Poor pup got bitten by bee](http://9gag.com/gag/aGp5K8K)<!-- MEMES:END -->
+ - 🚖 [Football is brutal and savage](http://9gag.com/gag/aO35oNy)
+ - 🚯 [I&#039;m proud of myself!](http://9gag.com/gag/arMwvQ5)
+ - 🚯 [He asked for it, he delivered](http://9gag.com/gag/aK65wYb)<!-- MEMES:END -->
 
 --- 
 
