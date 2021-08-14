@@ -186,9 +186,9 @@ Linux                    29 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Boyfriend Dungeon will update with 'more accurate' content warning about stalking](https://www.pcgamer.com/boyfriend-dungeon-will-update-with-more-accurate-content-warning-about-stalking)
  - [Battlefield 2042 Playtesters Who Break NDA May Be Banned From Playing The Full Game](https://kotaku.com/battlefield-2042-playtesters-who-break-nda-may-be-banne-1847487639)
- - [Half-Life 2 community gets highest amount of concurrent players since literal records began](https://www.pcgamer.com/half-life-2-community-gets-highest-amount-of-concurrent-players-since-literal-records-began)
- - [Skate across a burning city for love in Fire Tonight](https://www.pcgamer.com/skate-across-a-burning-city-for-love-in-fire-tonight)<!-- GAME:END -->
+ - [Half-Life 2 community gets highest amount of concurrent players since literal records began](https://www.pcgamer.com/half-life-2-community-gets-highest-amount-of-concurrent-players-since-literal-records-began)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
