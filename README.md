@@ -193,9 +193,9 @@ Linux                    29 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Poly Network hacker returns nearly all $610M in stolen assets](https://appleinsider.com/articles/21/08/14/poly-network-hacker-returns-nearly-all-610m-in-stolen-assets?utm_medium=rss)
  - [Konami resurrects 'Castlevania: Grimoire of Souls' as Apple Arcade exclusive](https://appleinsider.com/articles/21/08/14/konami-resurrects-castlevania-grimoire-of-souls-as-apple-arcade-exclusive?utm_medium=rss)
- - [Report: 55 of the top 100 banks by assets under management have invested in crypto or a blockchain company; Barclays and Citigroup are the most active investors (Osato Avan-Nomayo/Cointelegraph)](http://www.techmeme.com/210813/p25#a210813p25)
- - [Ram recalls 212,000 pickups over faulty airbag inflators     - Roadshow](https://www.cnet.com/roadshow/news/ram-recalls-212000-pickups-over-faulty-airbag-inflators/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Scientists map 17,000-year-old woolly mammoth's path using its tusk     - CNET](https://www.cnet.com/news/scientists-map-17000-year-old-woolly-mammoths-path-using-its-tusk/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
