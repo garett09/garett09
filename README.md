@@ -193,9 +193,9 @@ Linux                    29 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Will iPhone 13 get a bigger battery? That and more on This Week in Apple](https://appleinsider.com/articles/21/08/14/will-iphone-13-get-a-bigger-battery-that-and-more-on-this-week-in-apple?utm_medium=rss)
- - [Samsung’s innovative streak is fighting an uphill battle with Android](https://www.androidauthority.com/samsung-android-innovation-2733510/)
- - [Analysis: VC-backed companies in the gaming space have raised $5.9B so far in 2021, already surpassing the total raised in 2020 and 2019 (Sophia Kunthara/Crunchbase News)](http://www.techmeme.com/210814/p7#a210814p7)<!-- TECH:END -->
+ - [Go read this story of tech workers who secretly work multiple remote jobs](https://www.theverge.com/2021/8/14/22624669/wall-street-journal-tech-workers-multiple-remote-jobs)
+ - [Best Deals August 14 - $3,999 laser projector, $115 portable display, and more!](https://appleinsider.com/articles/21/08/14/best-deals-august-14---3999-laser-projector-115-portable-display-and-more?utm_medium=rss)
+ - [Will iPhone 13 get a bigger battery? That and more on This Week in Apple](https://appleinsider.com/articles/21/08/14/will-iphone-13-get-a-bigger-battery-that-and-more-on-this-week-in-apple?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
