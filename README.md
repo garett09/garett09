@@ -186,9 +186,9 @@ Linux                    29 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Naraka: Bladepoint is pretty fun once you escape bot purgatory](https://www.pcgamer.com/naraka-bladepoint-is-pretty-fun-once-you-escape-bot-purgatory)
- - [Beckett puts the wrong man at the center of a wrong-man thriller](https://www.polygon.com/22624174/beckett-review-netflix)
- - [Here's some sick Doom armor modded into Fallout 4](https://www.pcgamer.com/heres-some-sick-doom-armor-modded-into-fallout-4)<!-- GAME:END -->
+ - [Your weekly PC hardware catchup: flashy Razer keyboard kits and adorable Nvidia GPUs](https://www.pcgamer.com/new-pc-hardware-august-14-2021)
+ - [Crapshoot: X-COM Enforcer, where you're a robot for some reason](https://www.pcgamer.com/saturday-crapshoot-x-com-enforcer)
+ - [Naraka: Bladepoint is pretty fun once you escape bot purgatory](https://www.pcgamer.com/naraka-bladepoint-is-pretty-fun-once-you-escape-bot-purgatory)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
