@@ -193,9 +193,9 @@ Linux                    29 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Want to Slash Carbon Emissions? Start With These Power Plants](https://www.wired.com/story/to-slash-carbon-emissions-start-with-these-power-plants)
- - [Acer’s Nitro XV282K KV monitor is great for next-gen console gaming, but it comes at a high price](https://www.theverge.com/22620628/acer-nitro-xv282k-kv-monitor-console-gaming-ps5-xbox-series-x-review)
- - [The future of PC gaming is portable](https://www.androidauthority.com/portable-pc-gaming-2728762/)<!-- TECH:END -->
+ - [Will iPhone 13 get a bigger battery? That and more on This Week in Apple](https://appleinsider.com/articles/21/08/14/will-iphone-13-get-a-bigger-battery-that-and-more-on-this-week-in-apple?utm_medium=rss)
+ - [Samsung’s innovative streak is fighting an uphill battle with Android](https://www.androidauthority.com/samsung-android-innovation-2733510/)
+ - [Analysis: VC-backed companies in the gaming space have raised $5.9B so far in 2021, already surpassing the total raised in 2020 and 2019 (Sophia Kunthara/Crunchbase News)](http://www.techmeme.com/210814/p7#a210814p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
