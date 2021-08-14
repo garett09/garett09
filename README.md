@@ -200,9 +200,9 @@ Linux                    29 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Football is brutal and savage](http://9gag.com/gag/aO35oNy)
- - 🚯 [Curious](http://9gag.com/gag/axMwEnD)
- - 🚯 [Mother goose protecting its nest from seagull (via drowning it)](http://9gag.com/gag/aLp56Kg)<!-- MEMES:END -->
+ - 🚖 [Chill amigo](http://9gag.com/gag/axMwdjM)
+ - 🚯 [Well okay](http://9gag.com/gag/aLp5RXz)
+ - 🚯 [In 10 Million years he&#039;ll be a god in the post apocalyptic ant-dominated world](http://9gag.com/gag/aeAwKPm)<!-- MEMES:END -->
 
 --- 
 
