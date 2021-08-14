@@ -193,9 +193,9 @@ Linux                    29 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best student credit card for August 2021     - CNET](https://www.cnet.com/personal-finance/credit-cards/best-student-credit-card/#ftag=CAD590a51e)
- - [Best balance transfer credit cards for August 2021     - CNET](https://www.cnet.com/personal-finance/credit-cards/best-balance-transfer-credit-card/#ftag=CAD590a51e)
- - [Poly Network hacker returns nearly all $610M in stolen assets](https://appleinsider.com/articles/21/08/14/poly-network-hacker-returns-nearly-all-610m-in-stolen-assets?utm_medium=rss)<!-- TECH:END -->
+ - [Netherlands-based Betty Blocks, which offers low-code application development tools to organizations, raises $33M led by SmartFin Capital (Maija Ehlinger/Hypepotamus)](http://www.techmeme.com/210814/p2#a210814p2)
+ - [HBO Max plans to roll out a new app in the next four or five months for connected TVs, built from the ground up, after complaints of glitches in its current app (Josef Adalian/Vulture)](http://www.techmeme.com/210814/p1#a210814p1)
+ - [Best student credit card for August 2021     - CNET](https://www.cnet.com/personal-finance/credit-cards/best-student-credit-card/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
