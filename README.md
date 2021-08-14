@@ -200,8 +200,8 @@ Linux                    29 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Brendan Fraser and Keanu Reeves could do a movie together just called &quot;Movie&quot; and we would all go see it in theaters](http://9gag.com/gag/aQob0V2)
- - 🚯 [Ok, let&#039;s hear your votes for funniest film ever made. This is damn close](http://9gag.com/gag/aDd9Ee7)
+ - 🚖 [Ok, let&#039;s hear your votes for funniest film ever made. This is damn close](http://9gag.com/gag/aDd9Ee7)
+ - 🚯 [Brendan Fraser and Keanu Reeves could do a movie together just called &quot;Movie&quot; and we would all go see it in theaters](http://9gag.com/gag/aQob0V2)
  - 🚯 [The World&rsquo;s First Meme Museum by 9GAG brings your favorite memes to life! Here&rsquo;s a VIP virtual tour for those who can&rsquo;t make it this time!](http://9gag.com/gag/apN7ZZB)<!-- MEMES:END -->
 
 --- 
