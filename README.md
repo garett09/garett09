@@ -200,9 +200,9 @@ Linux                    29 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Love this movie &amp; the soundtrack](http://9gag.com/gag/a5E3eyV)
- - 🚯 [People leaves when informed they are being injected with Chinese vaccines](http://9gag.com/gag/aMK5eqP)
- - 🚯 [Millenials&#039; know](http://9gag.com/gag/ad8w0Y9)<!-- MEMES:END -->
+ - 🚖 [He asked for it, he delivered](http://9gag.com/gag/aK65wYb)
+ - 🚯 [Love this movie &amp; the soundtrack](http://9gag.com/gag/a5E3eyV)
+ - 🚯 [Raw steaks that have traditionally been put on black eyes were done so because the meat is cold, not because it has any special healing properties](http://9gag.com/gag/azMwg0b)<!-- MEMES:END -->
 
 --- 
 
