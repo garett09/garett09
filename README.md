@@ -200,8 +200,8 @@ Linux                    29 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Also I&#039;m fat](http://9gag.com/gag/a9Ew9gm)
- - 🚯 [Games, music, films, documentaries etc. can all be scrubbedd off the face of the earth for being &ldquo;too controversial&rdquo; any second if we were to consider a digital only future](http://9gag.com/gag/ajmv2Qp)
+ - 🚖 [Overcoming your fears](http://9gag.com/gag/aAbAWx0)
+ - 🚯 [Correct](http://9gag.com/gag/abVDj5b)
  - 🚯 [The World&rsquo;s First Meme Museum by 9GAG brings your favorite memes to life! Here&rsquo;s a VIP virtual tour for those who can&rsquo;t make it this time!](http://9gag.com/gag/apN7ZZB)<!-- MEMES:END -->
 
 --- 
