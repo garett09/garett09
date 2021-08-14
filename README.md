@@ -193,9 +193,9 @@ Linux                    29 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ford asks court to dismiss GM’s lawsuit over “BlueCruise” driver assist feature](https://www.theverge.com/2021/8/14/22624945/ford-dismiss-cruise-gm-lawsuit-driver-assist-blue-cruise)
  - [Senate's $1T infrastructure bill includes $2B for cybersecurity programs, including $1B to provide federal cybersecurity assistance to state, local governments (Cat Zakrzewski/Washington Post)](http://www.techmeme.com/210814/p10#a210814p10)
- - [Roborock Auto-Empty Dock review: Emptying your vacuum and your wallet](https://www.androidauthority.com/roborock-auto-empy-dock-review-1647655/)
- - [Nomad Leather Keychain review: A better AirTag keyring](https://appleinsider.com/articles/21/08/14/nomad-leather-keychain-review-a-better-airtag-keyring?utm_medium=rss)<!-- TECH:END -->
+ - [Roborock Auto-Empty Dock review: Emptying your vacuum and your wallet](https://www.androidauthority.com/roborock-auto-empy-dock-review-1647655/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
