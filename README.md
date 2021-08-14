@@ -193,9 +193,9 @@ Linux                    29 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Study of 12.7M tweets shows social media amplifies expressions of moral outrage, as users learn that such language gets rewarded with more "likes" and "shares" (Bill Hathaway/YaleNews)](http://www.techmeme.com/210814/p11#a210814p11)
  - [HBO Max Apple TV app to be overhauled by end of 2021](https://appleinsider.com/articles/21/08/14/hbo-max-apple-tv-app-to-be-overhauled-by-end-of-2021?utm_medium=rss)
- - [Ford asks court to dismiss GM’s lawsuit over “BlueCruise” driver assist feature](https://www.theverge.com/2021/8/14/22624945/ford-dismiss-cruise-gm-lawsuit-driver-assist-blue-cruise)
- - [Senate's $1T infrastructure bill includes $2B for cybersecurity programs, including $1B to provide federal cybersecurity assistance to state, local governments (Cat Zakrzewski/Washington Post)](http://www.techmeme.com/210814/p10#a210814p10)<!-- TECH:END -->
+ - [Ford asks court to dismiss GM’s lawsuit over “BlueCruise” driver assist feature](https://www.theverge.com/2021/8/14/22624945/ford-dismiss-cruise-gm-lawsuit-driver-assist-blue-cruise)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
