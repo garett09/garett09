@@ -194,8 +194,8 @@ Linux                    29 mins             ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Konami resurrects 'Castlevania: Grimoire of Souls' as Apple Arcade exclusive](https://appleinsider.com/articles/21/08/14/konami-resurrects-castlevania-grimoire-of-souls-as-apple-arcade-exclusive?utm_medium=rss)
- - [Google Stadia’s first game that responds directly to touch is coming this August](https://www.theverge.com/2021/8/13/22624023/stadia-direct-touch-control-scheme-humankind-stadia)
- - [Code42 analysis: there were ~65M attempts by staff to steal source code from their companies in Q2, up from about 20M in each of the previous three quarters (Hannah Murphy/Financial Times)](http://www.techmeme.com/210813/p24#a210813p24)<!-- TECH:END -->
+ - [Report: 55 of the top 100 banks by assets under management have invested in crypto or a blockchain company; Barclays and Citigroup are the most active investors (Osato Avan-Nomayo/Cointelegraph)](http://www.techmeme.com/210813/p25#a210813p25)
+ - [Ram recalls 212,000 pickups over faulty airbag inflators     - Roadshow](https://www.cnet.com/roadshow/news/ram-recalls-212000-pickups-over-faulty-airbag-inflators/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
