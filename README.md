@@ -193,9 +193,9 @@ Linux                    29 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Go read this story of tech workers who secretly work multiple remote jobs](https://www.theverge.com/2021/8/14/22624669/wall-street-journal-tech-workers-multiple-remote-jobs)
- - [Best Deals August 14 - $3,999 laser projector, $115 portable display, and more!](https://appleinsider.com/articles/21/08/14/best-deals-august-14---3999-laser-projector-115-portable-display-and-more?utm_medium=rss)
- - [Will iPhone 13 get a bigger battery? That and more on This Week in Apple](https://appleinsider.com/articles/21/08/14/will-iphone-13-get-a-bigger-battery-that-and-more-on-this-week-in-apple?utm_medium=rss)<!-- TECH:END -->
+ - [Apple promises macOS scanner fix in a future update](https://appleinsider.com/articles/21/08/14/apple-promises-macos-scanner-fix-in-a-future-update?utm_medium=rss)
+ - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-393-2734443/)
+ - [Interview with Niantic CEO John Hanke about Niantic's vision for the metaverse and how the metaverse could become a dystopian nightmare (Mark Sullivan/Fast Company)](http://www.techmeme.com/210814/p8#a210814p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
