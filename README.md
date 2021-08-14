@@ -193,9 +193,9 @@ Linux                    29 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Poly Network hacker returns nearly all $610M in stolen assets](https://appleinsider.com/articles/21/08/14/poly-network-hacker-returns-nearly-all-610m-in-stolen-assets?utm_medium=rss)
- - [Konami resurrects 'Castlevania: Grimoire of Souls' as Apple Arcade exclusive](https://appleinsider.com/articles/21/08/14/konami-resurrects-castlevania-grimoire-of-souls-as-apple-arcade-exclusive?utm_medium=rss)
- - [Scientists map 17,000-year-old woolly mammoth's path using its tusk     - CNET](https://www.cnet.com/news/scientists-map-17000-year-old-woolly-mammoths-path-using-its-tusk/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best student credit card for August 2021     - CNET](https://www.cnet.com/personal-finance/credit-cards/best-student-credit-card/#ftag=CAD590a51e)
+ - [Best balance transfer credit cards for August 2021     - CNET](https://www.cnet.com/personal-finance/credit-cards/best-balance-transfer-credit-card/#ftag=CAD590a51e)
+ - [Poly Network hacker returns nearly all $610M in stolen assets](https://appleinsider.com/articles/21/08/14/poly-network-hacker-returns-nearly-all-610m-in-stolen-assets?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
