@@ -200,8 +200,8 @@ Linux                    29 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Overcoming your fears](http://9gag.com/gag/aAbAWx0)
- - 🚯 [Correct](http://9gag.com/gag/abVDj5b)
+ - 🚖 [Keep your secrets](http://9gag.com/gag/aMK5eYX)
+ - 🚯 [Harvesting lavender bushels](http://9gag.com/gag/axMwEob)
  - 🚯 [The World&rsquo;s First Meme Museum by 9GAG brings your favorite memes to life! Here&rsquo;s a VIP virtual tour for those who can&rsquo;t make it this time!](http://9gag.com/gag/apN7ZZB)<!-- MEMES:END -->
 
 --- 
