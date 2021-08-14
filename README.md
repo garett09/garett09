@@ -200,9 +200,9 @@ Linux                    29 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Very Erotic Voice.. Congratulations](http://9gag.com/gag/aB259YP)
- - 🚯 [Harvesting lavender bushels](http://9gag.com/gag/axMwEob)
- - 🚯 [Millenials&#039; know](http://9gag.com/gag/ad8w0Y9)<!-- MEMES:END -->
+ - 🚖 [Football is brutal and savage](http://9gag.com/gag/aO35oNy)
+ - 🚯 [Curious](http://9gag.com/gag/axMwEnD)
+ - 🚯 [Mother goose protecting its nest from seagull (via drowning it)](http://9gag.com/gag/aLp56Kg)<!-- MEMES:END -->
 
 --- 
 
