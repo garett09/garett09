@@ -193,9 +193,9 @@ Linux                    29 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best Samsung Galaxy Z Flip 3 cases you can get](https://www.androidauthority.com/best-samsung-galaxy-z-flip-3-cases-2733790/)
  - [New book details Android's acquisition by Google, and how Android pitched its OS to Samsung, HTC, and East Coast VC firms before meeting with Larry Page (Chet Haase/Ars Technica)](http://www.techmeme.com/210814/p5#a210814p5)
- - [Poco F3 GT review: High power, low price](https://www.androidauthority.com/poco-f3-gt-review-1648499/)
- - [Germany-based WorkMotion, an HR software startup that helps companies onboard and manage staff abroad, raises ~$24M Series A led by Activant Capital and XAnge (Vishal Singh/Silicon Canals)](http://www.techmeme.com/210814/p4#a210814p4)<!-- TECH:END -->
+ - [Poco F3 GT review: High power, low price](https://www.androidauthority.com/poco-f3-gt-review-1648499/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
