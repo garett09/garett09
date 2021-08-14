@@ -193,9 +193,9 @@ Linux                    29 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The future of PC gaming is portable](https://www.androidauthority.com/portable-pc-gaming-2728762/)
- - [Galaxy Z Fold 3 has one true killer app. The pandemic took it away     - CNET](https://www.cnet.com/tech/mobile/galaxy-z-fold-3-has-one-true-killer-app-the-pandemic-took-it-away/#ftag=CAD590a51e)
- - [These are the best luxury SUVs for 2021     - Roadshow](https://www.cnet.com/roadshow/news/best-luxury-suv-choice/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Want to Slash Carbon Emissions? Start With These Power Plants](https://www.wired.com/story/to-slash-carbon-emissions-start-with-these-power-plants)
+ - [Acer’s Nitro XV282K KV monitor is great for next-gen console gaming, but it comes at a high price](https://www.theverge.com/22620628/acer-nitro-xv282k-kv-monitor-console-gaming-ps5-xbox-series-x-review)
+ - [The future of PC gaming is portable](https://www.androidauthority.com/portable-pc-gaming-2728762/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
