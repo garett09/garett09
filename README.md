@@ -200,9 +200,9 @@ Linux                    29 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Chill amigo](http://9gag.com/gag/axMwdjM)
- - 🚯 [Well okay](http://9gag.com/gag/aLp5RXz)
- - 🚯 [In 10 Million years he&#039;ll be a god in the post apocalyptic ant-dominated world](http://9gag.com/gag/aeAwKPm)<!-- MEMES:END -->
+ - 🚖 [Keep your secrets](http://9gag.com/gag/aMK5eYX)
+ - 🚯 [You little rat!](http://9gag.com/gag/aLp5Rg5)
+ - 🚯 [Poor pup got bitten by bee](http://9gag.com/gag/aGp5K8K)<!-- MEMES:END -->
 
 --- 
 
