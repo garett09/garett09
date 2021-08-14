@@ -193,9 +193,9 @@ Linux                    29 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPads, MacBooks, and More Apple Gadgets Are on Sale Right Now](https://www.wired.com/story/apple-deals-august-2021)
- - [The 17 Best Weekend Deals on Laptops and Smart Home Gadgets](https://www.wired.com/story/weekend-deals-august-14-2021)
- - [Report: companies like Huawei and ZTE have driven the demand for surveillance tech in Latin America by offering local governments free or discounted equipment (Leo Schwartz/Rest of World)](http://www.techmeme.com/210814/p6#a210814p6)<!-- TECH:END -->
+ - [The future of PC gaming is portable](https://www.androidauthority.com/portable-pc-gaming-2728762/)
+ - [Galaxy Z Fold 3 has one true killer app. The pandemic took it away     - CNET](https://www.cnet.com/tech/mobile/galaxy-z-fold-3-has-one-true-killer-app-the-pandemic-took-it-away/#ftag=CAD590a51e)
+ - [These are the best luxury SUVs for 2021     - Roadshow](https://www.cnet.com/roadshow/news/best-luxury-suv-choice/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
