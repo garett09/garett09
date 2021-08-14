@@ -186,9 +186,9 @@ Linux                    29 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Skate across a burning city for love in Fire Tonight](https://www.pcgamer.com/skate-across-a-burning-city-for-love-in-fire-tonight)
- - [Nintendo Orders ROM Site To ‘Destroy’ All Its Games, Or Else](https://kotaku.com/nintendo-orders-rom-site-to-destroy-all-its-games-or-1847487357)
- - [Firaxis are looking for a narrative lead with a 'knowledge and passion for world history'](https://www.pcgamer.com/firaxis-are-looking-for-a-narrative-lead-with-a-knowledge-and-passion-for-world-history)<!-- GAME:END -->
+ - [Battlefield 2042 Playtesters Who Break NDA May Be Banned From Playing The Full Game](https://kotaku.com/battlefield-2042-playtesters-who-break-nda-may-be-banne-1847487639)
+ - [Half-Life 2 community gets highest amount of concurrent players since literal records began](https://www.pcgamer.com/half-life-2-community-gets-highest-amount-of-concurrent-players-since-literal-records-began)
+ - [Skate across a burning city for love in Fire Tonight](https://www.pcgamer.com/skate-across-a-burning-city-for-love-in-fire-tonight)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
