@@ -200,7 +200,7 @@ Linux                    29 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Well okay](http://9gag.com/gag/aLp5RXz)
+ - 🚖 [Sponsored by Acme](http://9gag.com/gag/aXo1Eq9)
  - 🚯 [When your vegetarian friends invite you to dinner on a Saturday night](http://9gag.com/gag/axMwNqY)
  - 🚯 [The perfect waifu does exist!](http://9gag.com/gag/awM2bnB)<!-- MEMES:END -->
 
