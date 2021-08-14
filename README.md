@@ -187,7 +187,7 @@ Linux                    29 mins             ░░░░░░░░░░░�
 
 <!-- GAME:START -->
  - [Naraka: Bladepoint is pretty fun once you escape bot purgatory](https://www.pcgamer.com/naraka-bladepoint-is-pretty-fun-once-you-escape-bot-purgatory)
- - [Netflix’s Beckett puts the wrong man at the center of a wrong-man thriller](https://www.polygon.com/22624174/beckett-review-netflix)
+ - [Beckett puts the wrong man at the center of a wrong-man thriller](https://www.polygon.com/22624174/beckett-review-netflix)
  - [Here's some sick Doom armor modded into Fallout 4](https://www.pcgamer.com/heres-some-sick-doom-armor-modded-into-fallout-4)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
