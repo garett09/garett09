@@ -200,8 +200,8 @@ Linux                    29 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Understandable, have a nice day](http://9gag.com/gag/aoMw0Pw)
- - 🚯 [Not today motherf**ker](http://9gag.com/gag/aNp5e9v)
+ - 🚖 [Is that even possible?](http://9gag.com/gag/a6E6dvb)
+ - 🚯 [Understandable, have a nice day](http://9gag.com/gag/aoMw0Pw)
  - 🚯 [The perfect waifu does exist!](http://9gag.com/gag/awM2bnB)<!-- MEMES:END -->
 
 --- 
