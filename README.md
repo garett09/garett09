@@ -200,7 +200,7 @@ Linux                    29 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Sponsored by Acme](http://9gag.com/gag/aXo1Eq9)
+ - 🚖 [Understandable, have a nice day](http://9gag.com/gag/aoMw0Pw)
  - 🚯 [Not today motherf**ker](http://9gag.com/gag/aNp5e9v)
  - 🚯 [The perfect waifu does exist!](http://9gag.com/gag/awM2bnB)<!-- MEMES:END -->
 
