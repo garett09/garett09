@@ -193,9 +193,9 @@ Linux                    29 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Report: companies like Huawei and ZTE have driven the demand for surveillance tech in Latin America by offering local governments free or discounted equipment (Leo Schwartz/Rest of World)](http://www.techmeme.com/210814/p6#a210814p6)
- - [The best Samsung Galaxy Z Flip 3 cases you can get](https://www.androidauthority.com/best-samsung-galaxy-z-flip-3-cases-2733790/)
- - [New book details Android's acquisition by Google, and how Android pitched its OS to Samsung, HTC, and East Coast VC firms before meeting with Larry Page (Chet Haase/Ars Technica)](http://www.techmeme.com/210814/p5#a210814p5)<!-- TECH:END -->
+ - [iPads, MacBooks, and More Apple Gadgets Are on Sale Right Now](https://www.wired.com/story/apple-deals-august-2021)
+ - [The 17 Best Weekend Deals on Laptops and Smart Home Gadgets](https://www.wired.com/story/weekend-deals-august-14-2021)
+ - [Report: companies like Huawei and ZTE have driven the demand for surveillance tech in Latin America by offering local governments free or discounted equipment (Leo Schwartz/Rest of World)](http://www.techmeme.com/210814/p6#a210814p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
