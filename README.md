@@ -193,9 +193,9 @@ Linux                    29 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&A with Alex Stamos on Apple's proposed child safety features, his reservations about the company's announcement and approach to child safety online (Julia Angwin/Hello World)](http://www.techmeme.com/210815/p9#a210815p9)
- - [$199 Babbel lifetime subscription is back, save $300 with access to 14 languages](https://appleinsider.com/articles/21/08/15/199-babbel-lifetime-subscription-is-back-save-300-with-access-to-14-languages?utm_medium=rss)
- - [Hulu: 10 best films to see tonight     - CNET](https://www.cnet.com/news/hulu-10-best-films-to-see-tonight/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Harber Slim Laptop Backpack Review: lightweight, protective, and gorgeous](https://appleinsider.com/articles/21/08/15/harber-slim-laptop-backpack-review-lightweightprotective-and-gorgeous?utm_medium=rss)
+ - [What you need to know: Apple's iCloud Photos and Messages child safety initiatives](https://appleinsider.com/articles/21/08/06/what-you-need-to-know-apples-icloud-photos-and-messages-child-safety-initiatives?utm_medium=rss)
+ - [Q&A with Alex Stamos on Apple's proposed child safety features, his reservations about the company's announcement and approach to child safety online (Julia Angwin/Hello World)](http://www.techmeme.com/210815/p9#a210815p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
