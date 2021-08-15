@@ -193,9 +193,9 @@ Linux                    29 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Is Netflix still worth subscribing to?](https://www.androidauthority.com/netflix-worth-subscribing-2730186/)
- - [The Vitamix Made Me a Blender Person—No Kale Required](https://www.wired.com/story/vitamix-5200-ultimate-kitchen-gadget)
- - [Score Some Sweet Deals With Your Student Email](https://www.wired.com/story/how-to-nab-deals-with-your-student-email-address)<!-- TECH:END -->
+ - [iPhones stolen from Lollapalooza attendees in the Apple Crime Blotter](https://appleinsider.com/articles/21/08/15/iphones-stolen-from-lollapalooza-attendees-in-the-apple-crime-blotter?utm_medium=rss)
+ - [In a new lawsuit, a US-based contractor claims Huawei stole its tech and pressured it to build a "back door" into a sensitive surveillance project in Pakistan (Wall Street Journal)](http://www.techmeme.com/210815/p7#a210815p7)
+ - [Animals Can Count. How Far Does Their Number Sense Go?](https://www.wired.com/story/animals-count-and-use-zero-how-far-does-their-number-sense-go)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
