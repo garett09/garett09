@@ -193,9 +193,9 @@ Linux                    29 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [M-DAQ, a Singapore-based SaaS provider for ecommerce and tech companies to facilitate cross border transactions, raises ~$200M Series D from Affinity (Samreen Ahmad/Tech in Asia)](http://www.techmeme.com/210815/p2#a210815p2)
- - [Indian online travel app Ixigo files for an IPO in India to raise $200M+, sources say at a valuation of about $850M (The Economic Times)](http://www.techmeme.com/210815/p1#a210815p1)
- - [Best cheap true-wireless earbuds in 2021: Top AirPods alternatives for $100 or less     - CNET](https://www.cnet.com/tech/mobile/best-cheap-wireless-headphones/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Profile of Philip Agre, a computer scientist turned humanities professor, whose work is considered foundational in studying the effects of technology on society (Reed Albergotti/Washington Post)](http://www.techmeme.com/210815/p6#a210815p6)
+ - [GS Retail-led consortium to buy South Korean food delivery app Yogiyo for $685M; Delivery Hero sold Yogiyo to meet regulatory requirements for acquiring Woowa (Joyce Lee/Reuters)](http://www.techmeme.com/210815/p5#a210815p5)
+ - [Chrono24, an online marketplace for new and pre-owned luxury watches, raises ~$118M Series C led by General Atlantic, bringing its total raised to ~$236M (PYMNTS.com)](http://www.techmeme.com/210815/p4#a210815p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
