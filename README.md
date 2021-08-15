@@ -193,9 +193,9 @@ Linux                    29 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [MacBook Pro to drive mini LED use in displays, says Ming-Chi Kuo](https://appleinsider.com/articles/21/08/15/macbook-pro-to-drive-mini-led-use-in-displays-says-ming-chi-kuo?utm_medium=rss)
  - [Twitter unblocks Indian politicians’ accounts after suspending them for violating disclosure law](https://www.theverge.com/2021/8/15/22625807/twitter-unblocks-india-politicians-accounts-violating-law-grievance-officer)
- - [Samsung wallpapers: Get the latest ones available](https://www.androidauthority.com/download-samsung-wallpapers-2734079/)
- - [Cook pledges Apple's support following Haiti earthquake](https://appleinsider.com/articles/21/08/15/cook-pledges-apples-support-following-haiti-earthquake?utm_medium=rss)<!-- TECH:END -->
+ - [Samsung wallpapers: Get the latest ones available](https://www.androidauthority.com/download-samsung-wallpapers-2734079/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
