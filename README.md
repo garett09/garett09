@@ -200,9 +200,9 @@ Linux                    29 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Years ago, I was there. All this for nothing. 2 weeks, that&#039;s how long this corrupted Afghan government held.](http://9gag.com/gag/aO35Bp2)
- - 🚯 [Fall of Saigon II: Afghan Boogaloo](http://9gag.com/gag/agBwLVK)
- - 🚯 [Years of academy training wasted](http://9gag.com/gag/aMK58Z1)<!-- MEMES:END -->
+ - 🚖 [I heard the internet is good in canceling](http://9gag.com/gag/aXo1vxV)
+ - 🚯 [This is just sad. People climbing into a military plane to leave Kabul.](http://9gag.com/gag/aP32BEB)
+ - 🚯 [Afghanistan has never risen back to be honest](http://9gag.com/gag/ajmwq5Q)<!-- MEMES:END -->
 
 --- 
 
