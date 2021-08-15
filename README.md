@@ -200,8 +200,8 @@ Linux                    29 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [*sad male noises*](http://9gag.com/gag/aGp5Rew)
- - 🚯 [Unfortunate truth](http://9gag.com/gag/aP32GBg)
+ - 🚖 [This one sparks joy](http://9gag.com/gag/arMwRQ5)
+ - 🚯 [Such sad](http://9gag.com/gag/a6E6LA2)
  - 🚯 [The perfect waifu does exist!](http://9gag.com/gag/awM2bnB)<!-- MEMES:END -->
 
 --- 
