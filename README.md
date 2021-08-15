@@ -193,9 +193,9 @@ Linux                    29 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best cheap true-wireless earbuds in 2021: Top AirPods alternatives for $100 or less     - CNET](https://www.cnet.com/tech/mobile/best-cheap-wireless-headphones/#ftag=CAD590a51e)
- - [Gillmor Gang: Who’s On First](http://feedproxy.google.com/~r/Techcrunch/~3/qs4FEMc4-JY/)
- - [Study of 12.7M tweets shows social media amplifies expressions of moral outrage, as users learn that such language gets rewarded with more "likes" and "shares" (Bill Hathaway/YaleNews)](http://www.techmeme.com/210814/p11#a210814p11)<!-- TECH:END -->
+ - [M-DAQ, a Singapore-based SaaS provider for ecommerce and tech companies to facilitate cross border transactions, raises ~$200M Series D from Affinity (Samreen Ahmad/Tech in Asia)](http://www.techmeme.com/210815/p2#a210815p2)
+ - [Indian online travel app Ixigo files for an IPO in India to raise $200M+, sources say at a valuation of about $850M (The Economic Times)](http://www.techmeme.com/210815/p1#a210815p1)
+ - [Best cheap true-wireless earbuds in 2021: Top AirPods alternatives for $100 or less     - CNET](https://www.cnet.com/tech/mobile/best-cheap-wireless-headphones/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
