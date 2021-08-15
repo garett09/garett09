@@ -193,9 +193,9 @@ Linux                    29 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Weekly Authority: Edition #155](https://www.androidauthority.com/newsletters/weekly-authority-edition-155/)
  - [Profile of Philip Agre, a computer scientist turned humanities professor, whose work is considered foundational in studying the effects of technology on society (Reed Albergotti/Washington Post)](http://www.techmeme.com/210815/p6#a210815p6)
- - [GS Retail-led consortium to buy South Korean food delivery app Yogiyo for $685M; Delivery Hero sold Yogiyo to meet regulatory requirements for acquiring Woowa (Joyce Lee/Reuters)](http://www.techmeme.com/210815/p5#a210815p5)
- - [Chrono24, an online marketplace for new and pre-owned luxury watches, raises ~$118M Series C led by General Atlantic, bringing its total raised to ~$236M (PYMNTS.com)](http://www.techmeme.com/210815/p4#a210815p4)<!-- TECH:END -->
+ - [GS Retail-led consortium to buy South Korean food delivery app Yogiyo for $685M; Delivery Hero sold Yogiyo to meet regulatory requirements for acquiring Woowa (Joyce Lee/Reuters)](http://www.techmeme.com/210815/p5#a210815p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
