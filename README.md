@@ -193,9 +193,9 @@ Linux                    29 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cisco confirms it has acquired Epsagon, an Israel-based cloud application monitoring startup; sources say Cisco will be paying $500M (Globes Online)](http://www.techmeme.com/210815/p10#a210815p10)
- - [T-Mobile investigating report of customer data breach that reportedly involves 100 million people](https://www.theverge.com/2021/8/15/22626270/t-mobile-investigating-report-customer-data-breach)
- - [Harber Slim Laptop Backpack Review: lightweight, protective, and gorgeous](https://appleinsider.com/articles/21/08/15/harber-slim-laptop-backpack-review-lightweightprotective-and-gorgeous?utm_medium=rss)<!-- TECH:END -->
+ - [USITC judge sides with Sonos in Google patent infringement suit](https://appleinsider.com/articles/21/08/14/us-itc-judge-sides-with-sonos-in-google-patent-infringement-suit?utm_medium=rss)
+ - [New Trailers: Dopesick, Impeachment: American Crime Story, Midnight Mass, and more](https://www.theverge.com/2021/8/15/22625980/new-trailers-dopesick-impeachment-american-crime-story-clickbait-netflix-hulu)
+ - [Cisco confirms it has acquired Epsagon, an Israel-based cloud application monitoring startup; sources say Cisco will be paying $500M (Globes Online)](http://www.techmeme.com/210815/p10#a210815p10)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
