@@ -193,9 +193,9 @@ Linux                    29 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [MacBook Pro to drive mini LED use in displays, says Ming-Chi Kuo](https://appleinsider.com/articles/21/08/15/macbook-pro-to-drive-mini-led-use-in-displays-says-ming-chi-kuo?utm_medium=rss)
- - [Twitter unblocks Indian politicians’ accounts after suspending them for violating disclosure law](https://www.theverge.com/2021/8/15/22625807/twitter-unblocks-india-politicians-accounts-violating-law-grievance-officer)
- - [Samsung wallpapers: Get the latest ones available](https://www.androidauthority.com/download-samsung-wallpapers-2734079/)<!-- TECH:END -->
+ - [Pixel 6 is coming, but should you buy a Google Pixel 3, 4 or 5 instead?     - CNET](https://www.cnet.com/tech/mobile/pixel-6-is-coming-but-should-you-buy-a-google-pixel-3-4-or-5-instead/#ftag=CAD590a51e)
+ - [The Coen Brothers’ first film is streaming on HBO Max and Criterion](https://www.androidauthority.com/blood-simple-on-hbo-max-2733260/)
+ - [T-Mobile investigates claim that hackers have obtained data from its servers, including phone numbers, names, SSNs, driver license info, related to 100M+ people (Joseph Cox/VICE)](http://www.techmeme.com/210815/p8#a210815p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
