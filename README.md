@@ -201,7 +201,7 @@ Linux                    29 mins             ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 🚖 [Is that even possible?](http://9gag.com/gag/a6E6dvb)
- - 🚯 [Understandable, have a nice day](http://9gag.com/gag/aoMw0Pw)
+ - 🚯 [View in Norway](http://9gag.com/gag/azMwEoz)
  - 🚯 [The perfect waifu does exist!](http://9gag.com/gag/awM2bnB)<!-- MEMES:END -->
 
 --- 
