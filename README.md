@@ -186,9 +186,9 @@ Linux                    29 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Valve made an ad for the Steam Deck](https://www.pcgamer.com/valve-made-an-ad-for-the-steam-deck)
  - [Cultic is a Blood-inspired retro shooter, you can play a demo now](https://www.pcgamer.com/cultic-is-a-blood-inspired-retro-shooter-you-can-play-a-demo-now)
- - [Here's what the PowerSlave remaster will look like](https://www.pcgamer.com/heres-what-the-powerslave-remaster-will-look-like)
- - [EA might ban beta leakers from Battlefield 2042 after release](https://www.pcgamer.com/ea-might-ban-beta-leakers-from-battlefield-2042-after-release)<!-- GAME:END -->
+ - [Here's what the PowerSlave remaster will look like](https://www.pcgamer.com/heres-what-the-powerslave-remaster-will-look-like)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
