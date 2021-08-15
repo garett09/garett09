@@ -193,9 +193,9 @@ Linux                    29 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Weekly Authority: Edition #155](https://www.androidauthority.com/newsletters/weekly-authority-edition-155/)
- - [Should you still buy an iPhone 12? The iPhone 13 may not be best for everyone     - CNET](https://www.cnet.com/tech/mobile/should-you-still-buy-an-iphone-12-the-iphone-13-may-not-be-best-for-everyone/#ftag=CAD590a51e)
- - [Profile of Philip Agre, a computer scientist turned humanities professor, whose work is considered foundational in studying the effects of technology on society (Reed Albergotti/Washington Post)](http://www.techmeme.com/210815/p6#a210815p6)<!-- TECH:END -->
+ - [Is Netflix still worth subscribing to?](https://www.androidauthority.com/netflix-worth-subscribing-2730186/)
+ - [The Vitamix Made Me a Blender Person—No Kale Required](https://www.wired.com/story/vitamix-5200-ultimate-kitchen-gadget)
+ - [Score Some Sweet Deals With Your Student Email](https://www.wired.com/story/how-to-nab-deals-with-your-student-email-address)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
