@@ -193,9 +193,9 @@ Linux                    29 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [First Asian giant hornet (aka murder hornet) sighting of 2021 confirmed in Washington state](https://www.theverge.com/2021/8/15/22626063/first-asian-giant-murder-hornet-sighting-washington-state)
- - [Zens Magnetic + Watch Wireless Charger Review: MagSafe-like mount and power for four devices](https://appleinsider.com/articles/21/08/15/zens-magnetic-watch-wireless-charger-review-magsafe-like-mount-and-power-for-four-devices?utm_medium=rss)
- - [Pixel 6 is coming, but should you buy a Google Pixel 3, 4 or 5 instead?     - CNET](https://www.cnet.com/tech/mobile/pixel-6-is-coming-but-should-you-buy-a-google-pixel-3-4-or-5-instead/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to buy cryptocurrency: A definitive guide to cryptocurrency investing](https://www.androidauthority.com/how-to-invest-in-cryptocurrency-1657443/)
+ - ['iPhone 13' launch may feature 'Time to Run' for 'Apple Watch Series 7'](https://appleinsider.com/articles/21/08/15/iphone-13-launch-may-feature-time-to-run-for-apple-watch-series-7?utm_medium=rss)
+ - [Crash-prone HBO Max Apple TV app will be overhauled by end of 2021](https://appleinsider.com/articles/21/08/14/hbo-max-apple-tv-app-to-be-overhauled-by-end-of-2021?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
