@@ -193,9 +193,9 @@ Linux                    29 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhones stolen from Lollapalooza attendees in the Apple Crime Blotter](https://appleinsider.com/articles/21/08/15/iphones-stolen-from-lollapalooza-attendees-in-the-apple-crime-blotter?utm_medium=rss)
- - [In a new lawsuit, a US-based contractor claims Huawei stole its tech and pressured it to build a "back door" into a sensitive surveillance project in Pakistan (Wall Street Journal)](http://www.techmeme.com/210815/p7#a210815p7)
- - [Animals Can Count. How Far Does Their Number Sense Go?](https://www.wired.com/story/animals-count-and-use-zero-how-far-does-their-number-sense-go)<!-- TECH:END -->
+ - [Google’s Pixel 6 camera finally gets competitive, and I couldn’t be more excited](https://www.androidauthority.com/google-pixel-6-camera-hardware-2729356/)
+ - [The Coros Pace 2 Is My New Favorite GPS Running Watch](https://www.wired.com/review/coros-pace-2)
+ - [iPhones stolen from Lollapalooza attendees in the Apple Crime Blotter](https://appleinsider.com/articles/21/08/15/iphones-stolen-from-lollapalooza-attendees-in-the-apple-crime-blotter?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
