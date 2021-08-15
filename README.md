@@ -200,9 +200,9 @@ Linux                    29 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Kabul right now&hellip; people say the transition is underway and taliban will have full control before Monday.. Russia said they won&rsquo;t remove their embassy in Kabul.](http://9gag.com/gag/agBwG41)
- - 🚯 [20 years of training, 88 billion dollars...and then we wonder how the Afghan army lost from the Taliban in a month&#039;s time ....](http://9gag.com/gag/aAb5wrE)
- - 🚯 [Afghanistan, the graveyard of empires, did it again.](http://9gag.com/gag/aAb5w82)<!-- MEMES:END -->
+ - 🚖 [This is just sad. People climbing into a military plane to leave Kabul.](http://9gag.com/gag/aP32BEB)
+ - 🚯 [Kabul right now](http://9gag.com/gag/a1rjdxR)
+ - 🚯 [Because fk you](http://9gag.com/gag/a27pdAp)<!-- MEMES:END -->
 
 --- 
 
