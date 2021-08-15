@@ -186,9 +186,9 @@ Linux                    29 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [John Romero is making Sigil 2, but he's using Doom 2 this time](https://www.pcgamer.com/john-romero-is-making-sigil-2-but-hes-using-doom-2-this-time)
  - [A New Retro Shooter About Helping People Dress Better](https://kotaku.com/a-new-retro-shooter-about-helping-people-dress-better-1847490776)
- - [Security flaw for unlimited Steam Wallet funds found, fixed](https://www.pcgamer.com/security-flaw-for-unlimited-steam-wallet-funds-found-fixed)
- - [Valve Patches Exploit That Let You Add Infinite Steam Wallet Money](https://kotaku.com/valve-patched-a-steam-exploit-that-let-users-add-unlimi-1847490455)<!-- GAME:END -->
+ - [Security flaw for unlimited Steam Wallet funds found, fixed](https://www.pcgamer.com/security-flaw-for-unlimited-steam-wallet-funds-found-fixed)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
