@@ -200,8 +200,8 @@ Linux                    29 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Is that even possible?](http://9gag.com/gag/a6E6dvb)
- - 🚯 [View in Norway](http://9gag.com/gag/azMwEoz)
+ - 🚖 [*sad male noises*](http://9gag.com/gag/aGp5Rew)
+ - 🚯 [Unfortunate truth](http://9gag.com/gag/aP32GBg)
  - 🚯 [The perfect waifu does exist!](http://9gag.com/gag/awM2bnB)<!-- MEMES:END -->
 
 --- 
