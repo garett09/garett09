@@ -201,7 +201,7 @@ Linux                    29 mins             ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 🚖 [I used to like it a lot.](http://9gag.com/gag/aWj56j2)
- - 🚯 [If you leave public park tables like this, you&rsquo;re a piece of shit](http://9gag.com/gag/aRXdVoG)
+ - 🚯 [Welcome to Suplex City](http://9gag.com/gag/av5wL1X)
  - 🚯 [The perfect waifu does exist!](http://9gag.com/gag/awM2bnB)<!-- MEMES:END -->
 
 --- 
