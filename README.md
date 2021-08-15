@@ -194,8 +194,8 @@ Linux                    29 mins             ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Weekly Authority: Edition #155](https://www.androidauthority.com/newsletters/weekly-authority-edition-155/)
- - [Profile of Philip Agre, a computer scientist turned humanities professor, whose work is considered foundational in studying the effects of technology on society (Reed Albergotti/Washington Post)](http://www.techmeme.com/210815/p6#a210815p6)
- - [GS Retail-led consortium to buy South Korean food delivery app Yogiyo for $685M; Delivery Hero sold Yogiyo to meet regulatory requirements for acquiring Woowa (Joyce Lee/Reuters)](http://www.techmeme.com/210815/p5#a210815p5)<!-- TECH:END -->
+ - [Should you still buy an iPhone 12? The iPhone 13 may not be best for everyone     - CNET](https://www.cnet.com/tech/mobile/should-you-still-buy-an-iphone-12-the-iphone-13-may-not-be-best-for-everyone/#ftag=CAD590a51e)
+ - [Profile of Philip Agre, a computer scientist turned humanities professor, whose work is considered foundational in studying the effects of technology on society (Reed Albergotti/Washington Post)](http://www.techmeme.com/210815/p6#a210815p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
