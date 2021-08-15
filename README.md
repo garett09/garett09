@@ -200,8 +200,8 @@ Linux                    29 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [1975 Saigon and 2021 Kabul](http://9gag.com/gag/a7EXdrb)
- - 🚯 [Independence Day - 15th August.](http://9gag.com/gag/aV75P82)
+ - 🚖 [I ended up chunk, you?](http://9gag.com/gag/aNp5WOG)
+ - 🚯 [And then i will understand the signals 2 years later](http://9gag.com/gag/a4Eyjrm)
  - 🚯 [The perfect waifu does exist!](http://9gag.com/gag/awM2bnB)<!-- MEMES:END -->
 
 --- 
