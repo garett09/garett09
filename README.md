@@ -200,9 +200,9 @@ Linux                    29 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Opening a car door without checking traffic](http://9gag.com/gag/aZ05BvV)
- - 🚯 [Three trillions dollar well spent.](http://9gag.com/gag/aV75D78)
- - 🚯 [The result of 20 years of war in Afghanistan. Nothing. (Kabul hours ago)](http://9gag.com/gag/aO35vK3)<!-- MEMES:END -->
+ - 🚖 [Three trillions dollar well spent.](http://9gag.com/gag/aV75D78)
+ - 🚯 [Kabul right now&hellip; people say the transition is underway and taliban will have full control before Monday.. Russia said they won&rsquo;t remove their embassy in Kabul.](http://9gag.com/gag/agBwG41)
+ - 🚯 [Afghanistan, the graveyard of empires, did it again.](http://9gag.com/gag/aAb5w82)<!-- MEMES:END -->
 
 --- 
 
