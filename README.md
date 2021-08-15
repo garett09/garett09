@@ -186,9 +186,9 @@ Linux                    29 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [This week in PC Gaming: Marvel Avengers DLC, Humankind, and Twelve Minutes](https://www.pcgamer.com/this-week-in-pc-gaming-marvel-avengers-dlc-humankind-and-twelve-minutes)
  - [GDQ's Next Big Speedrunning Event, Flame Fatales 2021, Starts Today](https://kotaku.com/gdqs-next-big-speedrunning-event-flame-fatales-starts-1847490179)
- - [Titans season 3 has too much Batman for a show with no Batman](https://www.polygon.com/reviews/22624068/titans-season-3-review-hbo-max)
- - [Sunday Comics: Crunch & Munch](https://kotaku.com/sunday-comics-crunch-munch-1847490043)<!-- GAME:END -->
+ - [Titans season 3 has too much Batman for a show with no Batman](https://www.polygon.com/reviews/22624068/titans-season-3-review-hbo-max)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
