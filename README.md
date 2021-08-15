@@ -193,9 +193,9 @@ Linux                    29 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pixel 6 is coming, but should you buy a Google Pixel 3, 4 or 5 instead?     - CNET](https://www.cnet.com/tech/mobile/pixel-6-is-coming-but-should-you-buy-a-google-pixel-3-4-or-5-instead/#ftag=CAD590a51e)
- - [The Coen Brothers’ first film is streaming on HBO Max and Criterion](https://www.androidauthority.com/blood-simple-on-hbo-max-2733260/)
- - [T-Mobile investigates claim that hackers have obtained data from its servers, including phone numbers, names, SSNs, driver license info, related to 100M+ people (Joseph Cox/VICE)](http://www.techmeme.com/210815/p8#a210815p8)<!-- TECH:END -->
+ - [First Asian giant hornet (aka murder hornet) sighting of 2021 confirmed in Washington state](https://www.theverge.com/2021/8/15/22626063/first-asian-giant-murder-hornet-sighting-washington-state)
+ - [Zens Magnetic + Watch Wireless Charger Review: MagSafe-like mount and power for four devices](https://appleinsider.com/articles/21/08/15/zens-magnetic-watch-wireless-charger-review-magsafe-like-mount-and-power-for-four-devices?utm_medium=rss)
+ - [Pixel 6 is coming, but should you buy a Google Pixel 3, 4 or 5 instead?     - CNET](https://www.cnet.com/tech/mobile/pixel-6-is-coming-but-should-you-buy-a-google-pixel-3-4-or-5-instead/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
