@@ -193,9 +193,9 @@ Linux                    29 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Deals August 15 - $359 34-inch QHD monitor, $23 wireless mouse, and more!](https://appleinsider.com/articles/21/08/15/best-deals-august-15---359-34-inch-qhd-monitor-23-wireless-mouse-and-more?utm_medium=rss)
- - [ThinkPad X1 Yoga Gen 6 review: flexible flagship](https://www.theverge.com/22623290/thinkpad-x1-yoga-gen-6-review-price-specs)
- - [Jury decides Apple should pay $300 million in patent dispute](https://www.theverge.com/2021/8/15/22625796/jury-apple-pay-300-million-patent-dispute-iphone)<!-- TECH:END -->
+ - [Twitter unblocks Indian politicians’ accounts after suspending them for violating disclosure law](https://www.theverge.com/2021/8/15/22625807/twitter-unblocks-india-politicians-accounts-violating-law-grievance-officer)
+ - [Samsung wallpapers: Get the latest ones available](https://www.androidauthority.com/download-samsung-wallpapers-2734079/)
+ - [Cook pledges Apple's support following Haiti earthquake](https://appleinsider.com/articles/21/08/15/cook-pledges-apples-support-following-haiti-earthquake?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
