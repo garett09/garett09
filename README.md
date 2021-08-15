@@ -200,9 +200,9 @@ Linux                    29 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Three trillions dollar well spent.](http://9gag.com/gag/aV75D78)
- - 🚯 [Because fk you](http://9gag.com/gag/a27pdAp)
- - 🚯 [The perfect waifu does exist!](http://9gag.com/gag/awM2bnB)<!-- MEMES:END -->
+ - 🚖 [Opening a car door without checking traffic](http://9gag.com/gag/aZ05BvV)
+ - 🚯 [Three trillions dollar well spent.](http://9gag.com/gag/aV75D78)
+ - 🚯 [The result of 20 years of war in Afghanistan. Nothing. (Kabul hours ago)](http://9gag.com/gag/aO35vK3)<!-- MEMES:END -->
 
 --- 
 
