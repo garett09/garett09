@@ -186,9 +186,9 @@ Linux                    29 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Sunday Comics: Crunch & Munch](https://kotaku.com/sunday-comics-crunch-munch-1847490043)
- - [Valve made an ad for the Steam Deck](https://www.pcgamer.com/valve-made-an-ad-for-the-steam-deck)
- - [Cultic is a Blood-inspired retro shooter, you can play a demo now](https://www.pcgamer.com/cultic-is-a-blood-inspired-retro-shooter-you-can-play-a-demo-now)<!-- GAME:END -->
+ - [GDQ's Next Big Speedrunning Event, Flame Fatales 2021, Starts Today](https://kotaku.com/gdqs-next-big-speedrunning-event-flame-fatales-starts-1847490179)
+ - [Titans season 3 has too much Batman for a show with no Batman](https://www.polygon.com/reviews/22624068/titans-season-3-review-hbo-max)
+ - [Sunday Comics: Crunch & Munch](https://kotaku.com/sunday-comics-crunch-munch-1847490043)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
