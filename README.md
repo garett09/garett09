@@ -200,8 +200,8 @@ Linux                    29 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Woman smart](http://9gag.com/gag/a8EOj8p)
- - 🚯 [This one sparks joy](http://9gag.com/gag/arMwRQ5)
+ - 🚖 [This one sparks joy](http://9gag.com/gag/arMwRQ5)
+ - 🚯 [-100 social credits](http://9gag.com/gag/aMK5Qj6)
  - 🚯 [The perfect waifu does exist!](http://9gag.com/gag/awM2bnB)<!-- MEMES:END -->
 
 --- 
