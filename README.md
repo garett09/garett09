@@ -193,9 +193,9 @@ Linux                    29 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to buy cryptocurrency: A definitive guide to cryptocurrency investing](https://www.androidauthority.com/how-to-invest-in-cryptocurrency-1657443/)
- - ['iPhone 13' launch may feature 'Time to Run' for 'Apple Watch Series 7'](https://appleinsider.com/articles/21/08/15/iphone-13-launch-may-feature-time-to-run-for-apple-watch-series-7?utm_medium=rss)
- - [Crash-prone HBO Max Apple TV app will be overhauled by end of 2021](https://appleinsider.com/articles/21/08/14/hbo-max-apple-tv-app-to-be-overhauled-by-end-of-2021?utm_medium=rss)<!-- TECH:END -->
+ - [Q&A with Alex Stamos on Apple's proposed child safety features, his reservations about the company's announcement and approach to child safety online (Julia Angwin/Hello World)](http://www.techmeme.com/210815/p9#a210815p9)
+ - [$199 Babbel lifetime subscription is back, save $300 with access to 14 languages](https://appleinsider.com/articles/21/08/15/199-babbel-lifetime-subscription-is-back-save-300-with-access-to-14-languages?utm_medium=rss)
+ - [Hulu: 10 best films to see tonight     - CNET](https://www.cnet.com/news/hulu-10-best-films-to-see-tonight/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
