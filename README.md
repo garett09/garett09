@@ -193,9 +193,9 @@ Linux                    29 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Harber Slim Laptop Backpack Review: lightweight, protective, and gorgeous](https://appleinsider.com/articles/21/08/15/harber-slim-laptop-backpack-review-lightweightprotective-and-gorgeous?utm_medium=rss)
- - [What you need to know: Apple's iCloud Photos and Messages child safety initiatives](https://appleinsider.com/articles/21/08/06/what-you-need-to-know-apples-icloud-photos-and-messages-child-safety-initiatives?utm_medium=rss)
- - [Q&A with Alex Stamos on Apple's proposed child safety features, his reservations about the company's announcement and approach to child safety online (Julia Angwin/Hello World)](http://www.techmeme.com/210815/p9#a210815p9)<!-- TECH:END -->
+ - [Cisco confirms it has acquired Epsagon, an Israel-based cloud application monitoring startup; sources say Cisco will be paying $500M (Globes Online)](http://www.techmeme.com/210815/p10#a210815p10)
+ - [T-Mobile investigating report of customer data breach that reportedly involves 100 million people](https://www.theverge.com/2021/8/15/22626270/t-mobile-investigating-report-customer-data-breach)
+ - [Harber Slim Laptop Backpack Review: lightweight, protective, and gorgeous](https://appleinsider.com/articles/21/08/15/harber-slim-laptop-backpack-review-lightweightprotective-and-gorgeous?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
