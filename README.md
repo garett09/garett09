@@ -200,7 +200,7 @@ Linux                    29 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [If you wanna be my lover](http://9gag.com/gag/a4EyYqm)
+ - 🚖 [1975 Saigon and 2021 Kabul](http://9gag.com/gag/a7EXdrb)
  - 🚯 [Independence Day - 15th August.](http://9gag.com/gag/aV75P82)
  - 🚯 [The perfect waifu does exist!](http://9gag.com/gag/awM2bnB)<!-- MEMES:END -->
 
