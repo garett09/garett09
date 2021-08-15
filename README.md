@@ -200,9 +200,9 @@ Linux                    29 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Could just wait for them to fall apart](http://9gag.com/gag/aZ05gN0)
- - 🚯 [Because fk you](http://9gag.com/gag/a27pdAp)
- - 🚯 [Afghanistan, the graveyard of empires, did it again.](http://9gag.com/gag/aAb5w82)<!-- MEMES:END -->
+ - 🚖 [Years ago, I was there. All this for nothing. 2 weeks, that&#039;s how long this corrupted Afghan government held.](http://9gag.com/gag/aO35Bp2)
+ - 🚯 [Fall of Saigon II: Afghan Boogaloo](http://9gag.com/gag/agBwLVK)
+ - 🚯 [Years of academy training wasted](http://9gag.com/gag/aMK58Z1)<!-- MEMES:END -->
 
 --- 
 
