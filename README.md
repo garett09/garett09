@@ -186,9 +186,9 @@ Linux                    29 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [EA might ban beta leakers from Battlefield 2042 after release](https://www.pcgamer.com/ea-might-ban-beta-leakers-from-battlefield-2042-after-release)
- - [What's the last game whose graphics wowed you?](https://www.pcgamer.com/whats-the-last-game-whose-graphics-wowed-you)
- - [A possible Alan Wake 2 is now in "full production"](https://www.pcgamer.com/a-possible-alan-wake-2-is-now-in-full-production)<!-- GAME:END -->
+ - [Cultic is a Blood-inspired retro shooter, you can play a demo now](https://www.pcgamer.com/cultic-is-a-blood-inspired-retro-shooter-you-can-play-a-demo-now)
+ - [Here's what the PowerSlave remaster will look like](https://www.pcgamer.com/heres-what-the-powerslave-remaster-will-look-like)
+ - [EA might ban beta leakers from Battlefield 2042 after release](https://www.pcgamer.com/ea-might-ban-beta-leakers-from-battlefield-2042-after-release)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
