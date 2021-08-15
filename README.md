@@ -200,8 +200,8 @@ Linux                    29 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [That is so cute](http://9gag.com/gag/a8EOMRp)
- - 🚯 [The Hobbit trilogy was terrible when you watch the LOTR](http://9gag.com/gag/aRXdAz5)
+ - 🚖 [Movie name: Marty](http://9gag.com/gag/aO35vYN)
+ - 🚯 [1975 Saigon and 2021 Kabul](http://9gag.com/gag/a7EXdrb)
  - 🚯 [The perfect waifu does exist!](http://9gag.com/gag/awM2bnB)<!-- MEMES:END -->
 
 --- 
