@@ -200,8 +200,8 @@ Linux                    29 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The Hobbit trilogy was terrible when you watch the LOTR](http://9gag.com/gag/aRXdAz5)
- - 🚯 [After the cities of Hiroshima and Nagasaki are destroyed, the Japanese delegation meets with General McCarthur aboard the USS Missouri to sign an agreement of unconditional surrender](http://9gag.com/gag/aEp5zrO)
+ - 🚖 [I used to like it a lot.](http://9gag.com/gag/aWj56j2)
+ - 🚯 [If you leave public park tables like this, you&rsquo;re a piece of shit](http://9gag.com/gag/aRXdVoG)
  - 🚯 [The perfect waifu does exist!](http://9gag.com/gag/awM2bnB)<!-- MEMES:END -->
 
 --- 
