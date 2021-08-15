@@ -193,9 +193,9 @@ Linux                    29 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best cheap true-wireless earbuds in 2021: Top AirPods alternatives for $100 or less     - CNET](https://www.cnet.com/tech/mobile/best-cheap-wireless-headphones/#ftag=CAD590a51e)
  - [Gillmor Gang: Who’s On First](http://feedproxy.google.com/~r/Techcrunch/~3/qs4FEMc4-JY/)
- - [Study of 12.7M tweets shows social media amplifies expressions of moral outrage, as users learn that such language gets rewarded with more "likes" and "shares" (Bill Hathaway/YaleNews)](http://www.techmeme.com/210814/p11#a210814p11)
- - [Cars under $40,000: Check our top picks     - Roadshow](https://www.cnet.com/roadshow/news/car-shopping-best-40000/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Study of 12.7M tweets shows social media amplifies expressions of moral outrage, as users learn that such language gets rewarded with more "likes" and "shares" (Bill Hathaway/YaleNews)](http://www.techmeme.com/210814/p11#a210814p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
