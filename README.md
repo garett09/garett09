@@ -200,8 +200,8 @@ Linux                    29 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This one sparks joy](http://9gag.com/gag/arMwRQ5)
- - 🚯 [-100 social credits](http://9gag.com/gag/aMK5Qj6)
+ - 🚖 [The Hobbit trilogy was terrible when you watch the LOTR](http://9gag.com/gag/aRXdAz5)
+ - 🚯 [After the cities of Hiroshima and Nagasaki are destroyed, the Japanese delegation meets with General McCarthur aboard the USS Missouri to sign an agreement of unconditional surrender](http://9gag.com/gag/aEp5zrO)
  - 🚯 [The perfect waifu does exist!](http://9gag.com/gag/awM2bnB)<!-- MEMES:END -->
 
 --- 
