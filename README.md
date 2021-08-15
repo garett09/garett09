@@ -200,8 +200,8 @@ Linux                    29 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Is that even possible?](http://9gag.com/gag/a6E6dvb)
- - 🚯 [Understandable, have a nice day](http://9gag.com/gag/aoMw0Pw)
+ - 🚖 [Lots of Profit](http://9gag.com/gag/aAb5pV0)
+ - 🚯 [Is that even possible?](http://9gag.com/gag/a6E6dvb)
  - 🚯 [The perfect waifu does exist!](http://9gag.com/gag/awM2bnB)<!-- MEMES:END -->
 
 --- 
