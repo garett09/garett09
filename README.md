@@ -193,9 +193,9 @@ Linux                    29 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s Pixel 6 camera finally gets competitive, and I couldn’t be more excited](https://www.androidauthority.com/google-pixel-6-camera-hardware-2729356/)
- - [The Coros Pace 2 Is My New Favorite GPS Running Watch](https://www.wired.com/review/coros-pace-2)
- - [iPhones stolen from Lollapalooza attendees in the Apple Crime Blotter](https://appleinsider.com/articles/21/08/15/iphones-stolen-from-lollapalooza-attendees-in-the-apple-crime-blotter?utm_medium=rss)<!-- TECH:END -->
+ - [Best Deals August 15 - $359 34-inch QHD monitor, $23 wireless mouse, and more!](https://appleinsider.com/articles/21/08/15/best-deals-august-15---359-34-inch-qhd-monitor-23-wireless-mouse-and-more?utm_medium=rss)
+ - [ThinkPad X1 Yoga Gen 6 review: flexible flagship](https://www.theverge.com/22623290/thinkpad-x1-yoga-gen-6-review-price-specs)
+ - [Jury decides Apple should pay $300 million in patent dispute](https://www.theverge.com/2021/8/15/22625796/jury-apple-pay-300-million-patent-dispute-iphone)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
