@@ -200,9 +200,9 @@ Linux                    29 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This is just sad. People climbing into a military plane to leave Kabul.](http://9gag.com/gag/aP32BEB)
- - 🚯 [Kabul right now](http://9gag.com/gag/a1rjdxR)
- - 🚯 [Because fk you](http://9gag.com/gag/a27pdAp)<!-- MEMES:END -->
+ - 🚖 [Could just wait for them to fall apart](http://9gag.com/gag/aZ05gN0)
+ - 🚯 [Because fk you](http://9gag.com/gag/a27pdAp)
+ - 🚯 [Afghanistan, the graveyard of empires, did it again.](http://9gag.com/gag/aAb5w82)<!-- MEMES:END -->
 
 --- 
 
