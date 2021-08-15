@@ -200,8 +200,8 @@ Linux                    29 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I ended up chunk, you?](http://9gag.com/gag/aNp5WOG)
- - 🚯 [And then i will understand the signals 2 years later](http://9gag.com/gag/a4Eyjrm)
+ - 🚖 [Three trillions dollar well spent.](http://9gag.com/gag/aV75D78)
+ - 🚯 [Because fk you](http://9gag.com/gag/a27pdAp)
  - 🚯 [The perfect waifu does exist!](http://9gag.com/gag/awM2bnB)<!-- MEMES:END -->
 
 --- 
