@@ -186,9 +186,9 @@ Linux                    29 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Valve Patched An Exploit That Let Users Add Unlimited Funds To Steam Wallets](https://kotaku.com/valve-patched-a-steam-exploit-that-let-users-add-unlimi-1847490455)
- - [This week in PC Gaming: Marvel Avengers DLC, Humankind, and Twelve Minutes](https://www.pcgamer.com/this-week-in-pc-gaming-marvel-avengers-dlc-humankind-and-twelve-minutes)
- - [GDQ's Next Big Speedrunning Event, Flame Fatales 2021, Starts Today](https://kotaku.com/gdqs-next-big-speedrunning-event-flame-fatales-starts-1847490179)<!-- GAME:END -->
+ - [A New Retro Shooter About Helping People Dress Better](https://kotaku.com/a-new-retro-shooter-about-helping-people-dress-better-1847490776)
+ - [Security flaw for unlimited Steam Wallet funds found, fixed](https://www.pcgamer.com/security-flaw-for-unlimited-steam-wallet-funds-found-fixed)
+ - [Valve Patches Exploit That Let You Add Infinite Steam Wallet Money](https://kotaku.com/valve-patched-a-steam-exploit-that-let-users-add-unlimi-1847490455)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
