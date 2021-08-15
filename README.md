@@ -200,8 +200,8 @@ Linux                    29 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I used to like it a lot.](http://9gag.com/gag/aWj56j2)
- - 🚯 [Welcome to Suplex City](http://9gag.com/gag/av5wL1X)
+ - 🚖 [That is so cute](http://9gag.com/gag/a8EOMRp)
+ - 🚯 [The Hobbit trilogy was terrible when you watch the LOTR](http://9gag.com/gag/aRXdAz5)
  - 🚯 [The perfect waifu does exist!](http://9gag.com/gag/awM2bnB)<!-- MEMES:END -->
 
 --- 
