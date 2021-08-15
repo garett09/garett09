@@ -186,9 +186,9 @@ Linux                    29 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Sunday Comics: Crunch & Munch](https://kotaku.com/sunday-comics-crunch-munch-1847490043)
  - [Valve made an ad for the Steam Deck](https://www.pcgamer.com/valve-made-an-ad-for-the-steam-deck)
- - [Cultic is a Blood-inspired retro shooter, you can play a demo now](https://www.pcgamer.com/cultic-is-a-blood-inspired-retro-shooter-you-can-play-a-demo-now)
- - [Here's what the PowerSlave remaster will look like](https://www.pcgamer.com/heres-what-the-powerslave-remaster-will-look-like)<!-- GAME:END -->
+ - [Cultic is a Blood-inspired retro shooter, you can play a demo now](https://www.pcgamer.com/cultic-is-a-blood-inspired-retro-shooter-you-can-play-a-demo-now)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
