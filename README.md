@@ -198,9 +198,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Female comedian disguises as a man to prove she is funny. Had mental breakdown when everyone thought she wasn&#039;t.](http://9gag.com/gag/apNwQDD)
- - 🚯 [Have no fear! Joe is on it!](http://9gag.com/gag/aRXd37Q)
- - 🚯 [Kabul airport is packed with people looking for a way out](http://9gag.com/gag/aDd5zvK)<!-- MEMES:END -->
+ - 🚖 [Have no fear! Joe is on it!](http://9gag.com/gag/aRXd37Q)
+ - 🚯 [Kabul airport is packed with people looking for a way out](http://9gag.com/gag/aDd5zvK)
+ - 🚯 [Owner recorded this footage a few hours after his doggo past away](http://9gag.com/gag/aB25xgZ)<!-- MEMES:END -->
 
 --- 
 
