@@ -198,9 +198,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Kabul airport is packed with people looking for a way out](http://9gag.com/gag/aDd5zvK)
- - 🚯 [Early surprise](http://9gag.com/gag/a6E6obq)
- - 🚯 [Self Cleaning Public Restroom](http://9gag.com/gag/a9E0KMm)<!-- MEMES:END -->
+ - 🚖 [Owner recorded this footage a few hours after his doggo past away](http://9gag.com/gag/aB25xgZ)
+ - 🚯 [Dairy is bad for you!](http://9gag.com/gag/aNp5Y3A)
+ - 🚯 [So far...](http://9gag.com/gag/a8EOoV3)<!-- MEMES:END -->
 
 --- 
 
