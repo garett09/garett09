@@ -193,9 +193,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [US: I see this as an Absolute Win!](http://9gag.com/gag/av5wzgO)
- - 🚯 [10 years ago I was not there and this is a random google search image. all for nothing.](http://9gag.com/gag/a4EyRNQ)
- - 🚯 [&quot;The disappearance of women&quot;. Work of an iranian photographer.](http://9gag.com/gag/aDd5dxw)<!-- MEMES:END -->
+ - 🚖 [Best feeling ever, right guys?](http://9gag.com/gag/anQwQ6o)
+ - 🚯 [China mock the US](http://9gag.com/gag/axMwM5M)
+ - 🚯 [Aimbot Bow](http://9gag.com/gag/aXo1ob6)<!-- MEMES:END -->
 
 --- 
 
