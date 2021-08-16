@@ -186,9 +186,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Nuro EC-1](http://feedproxy.google.com/~r/Techcrunch/~3/pmUxA9CQb14/)
- - [How Google’s self-driving car project accidentally spawned its robotic delivery rival](http://feedproxy.google.com/~r/Techcrunch/~3/FDRrH03VOCU/)
- - [Why regulators love Nuro’s self-driving delivery vehicles](http://feedproxy.google.com/~r/Techcrunch/~3/N4jRfuoSc4o/)<!-- TECH:END -->
+ - [How to use window management in macOS Monterey](https://appleinsider.com/articles/21/08/16/how-to-use-window-management-in-macos-monterey?utm_medium=rss)
+ - [Tropic, which helps streamline software procurement, raises $25M Series A, says it passed $250M in managed spend, and processed transactions for 1,200+ vendors (Christine Hall/TechCrunch)](http://www.techmeme.com/210816/p21#a210816p21)
+ - [Best Deals August 16 - Satechi 20% off, $229.99 2TB Solid State Drive, and more!](https://appleinsider.com/articles/21/08/16/best-deals-august-16---satechi-20-off-22999-2tb-solid-state-drive-and-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
