@@ -191,9 +191,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Huge T-Mobile hack could have compromised personal data of 100 million users](https://www.androidauthority.com/t-mobile-hacked-2735038/)
  - [Leaked Fitbit Charge 5 renders shed light on tracker’s big redesign](https://www.androidauthority.com/fitbit-charge-5-renders-2735036/)
- - [HBO series The White Lotus ending explained, and your questions answered     - CNET](https://www.cnet.com/news/hbo-series-the-white-lotus-ending-explained-and-your-questions-answered/#ftag=CAD590a51e)
- - [Profile of @images_ai, a Twitter account launched by a music student in June, that uses neural networks, including OpenAI's CLIP, to generate surreal art (Kyle Chayka/New Yorker)](http://www.techmeme.com/210815/p11#a210815p11)<!-- TECH:END -->
+ - [The White Lotus finale: That ending explained, and your questions answered     - CNET](https://www.cnet.com/news/the-white-lotus-hbo-finale-that-ending-explained-and-your-questions-answered/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
