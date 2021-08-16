@@ -186,9 +186,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon's hidden AirPods Pro deal drives price down to $179.99](https://appleinsider.com/articles/21/08/16/amazons-hidden-airpods-pro-deal-drives-price-down-to-17999?utm_medium=rss)
- - [Users lobby 1Password to abandon new Electron version](https://appleinsider.com/articles/21/08/16/users-lobby-1password-to-abandon-new-electron-version?utm_medium=rss)
- - [Poll: How many smart home devices do you have?](https://www.androidauthority.com/smart-home-devices-poll-2735172/)<!-- TECH:END -->
+ - [The Nuro EC-1](http://feedproxy.google.com/~r/Techcrunch/~3/pmUxA9CQb14/)
+ - [How Google’s self-driving car project accidentally spawned its robotic delivery rival](http://feedproxy.google.com/~r/Techcrunch/~3/FDRrH03VOCU/)
+ - [Why regulators love Nuro’s self-driving delivery vehicles](http://feedproxy.google.com/~r/Techcrunch/~3/N4jRfuoSc4o/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
