@@ -193,7 +193,7 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Too bad](http://9gag.com/gag/azMw1rq)
+ - 🚖 [What way do you like to travel?](http://9gag.com/gag/aLp5wD6)
  - 🚯 [Wow, this is from freaking Pluto. Pluto&rsquo;s ice mountains, frozen plains and layers of atmospheric haze backlit by a distant sun, as seen by the New Horizons spacecraft.](http://9gag.com/gag/ayMwo3M)
  - 🚯 [When you have to clear your runway with an Apache so your C17 can take off](http://9gag.com/gag/aLp50Gz)<!-- MEMES:END -->
 
