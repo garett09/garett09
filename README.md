@@ -193,9 +193,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [You pay, me shoot](http://9gag.com/gag/a5E3M3N)
- - 🚯 [Dairy is bad for you!](http://9gag.com/gag/aNp5Y3A)
- - 🚯 [Too bad](http://9gag.com/gag/azMw1rq)<!-- MEMES:END -->
+ - 🚖 [13 YEARS AGO I WAS THERE, EVEN LOST MY BEST FRIEND..... FOR WHAT?](http://9gag.com/gag/aRXd39j)
+ - 🚯 [In the end it doesn&#039;t even matter](http://9gag.com/gag/a3ErQ9N)
+ - 🚯 [When you have to clear your runway with an Apache so your C17 can take off](http://9gag.com/gag/aLp50Gz)<!-- MEMES:END -->
 
 --- 
 
