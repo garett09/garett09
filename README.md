@@ -193,9 +193,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [If you are one of these people who creepily stalks and stares at celebrities trying to live their lives, you should be very ashamed of yourself. Seriously. This is creepy and gross.](http://9gag.com/gag/aP32gwq)
- - 🚯 [Secret Service agent shows Joe Biden which way to go, but he&rsquo;s confused and follows him through the bushes](http://9gag.com/gag/apNwG3D)
- - 🚯 [&quot;With a strong urge condemnation message and meeting then world shall know peace&quot; - UN security council 2021](http://9gag.com/gag/aeAwg3m)<!-- MEMES:END -->
+ - 🚖 [Impressive](http://9gag.com/gag/aB2521A)
+ - 🚯 [16 years ago I was there....all for nothing](http://9gag.com/gag/ayMw9OY)
+ - 🚯 [If you are one of these people who creepily stalks and stares at celebrities trying to live their lives, you should be very ashamed of yourself. Seriously. This is creepy and gross.](http://9gag.com/gag/aP32gwq)<!-- MEMES:END -->
 
 --- 
 
