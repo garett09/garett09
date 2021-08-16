@@ -191,9 +191,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Jake Paul vs. Tyron Woodley: Start time, how to watch, fight rules and details     - CNET](https://www.cnet.com/news/jake-paul-vs-tyron-woodley-start-time-how-to-watch-fight-rules-and-details/#ftag=CAD590a51e)
  - [The best Netflix documentaries to watch this week     - CNET](https://www.cnet.com/news/the-best-netflix-documentaries-to-watch-this-week/#ftag=CAD590a51e)
- - [Supermassive black hole 'burps' reveal how big the cosmic monsters grow     - CNET](https://www.cnet.com/news/supermassive-black-hole-burps-reveal-how-big-the-cosmic-monsters-grow/#ftag=CAD590a51e)
- - [Man hunts down stolen scooter using Apple AirTags     - CNET](https://www.cnet.com/news/guy-successfully-hunts-down-his-stolen-scooter-using-apple-airtags/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Supermassive black hole 'burps' reveal how big the cosmic monsters grow     - CNET](https://www.cnet.com/news/supermassive-black-hole-burps-reveal-how-big-the-cosmic-monsters-grow/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
