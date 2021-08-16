@@ -191,9 +191,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google and Facebook say they will participate in a new subsea cable system for 2024 linking Japan, Singapore, Taiwan, Guam, the Philippines, and Indonesia (Vlad Savov/Bloomberg)](http://www.techmeme.com/210816/p1#a210816p1)
- - [You can now control your Android phone with your facial expressions](https://www.androidauthority.com/android-facial-gestures-2735084/)
- - [Xiaomi Mi 11T specs leak: Triple rear camera with MediaTek power?](https://www.androidauthority.com/xiaomi-mi-11t-redmi-k40-ultra-2735080/)<!-- TECH:END -->
+ - [Indian bike taxi service Rapido raises $52 million](http://feedproxy.google.com/~r/Techcrunch/~3/8BApAWKIUjg/)
+ - [The best Samsung Galaxy Z Fold 3 cases you can get](https://www.androidauthority.com/best-samsung-galaxy-z-fold-3-cases-2734231/)
+ - [Google and Facebook say they will participate in a new subsea cable system for 2024 linking Japan, Singapore, Taiwan, Guam, the Philippines, and Indonesia (Vlad Savov/Bloomberg)](http://www.techmeme.com/210816/p1#a210816p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
