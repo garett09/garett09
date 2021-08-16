@@ -193,9 +193,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Impressive](http://9gag.com/gag/aB2521A)
- - 🚯 [Aimbot Bow](http://9gag.com/gag/aXo1ob6)
- - 🚯 [When you have to clear your runway with an Apache so your C17 can take off](http://9gag.com/gag/aLp50Gz)<!-- MEMES:END -->
+ - 🚖 [Bring him to the farthest hospital](http://9gag.com/gag/amPw5yV)
+ - 🚯 [&quot;The disappearance of women&quot;. Work of an iranian photographer.](http://9gag.com/gag/aDd5dxw)
+ - 🚯 [US: I see this as an Absolute Win!](http://9gag.com/gag/av5wzgO)<!-- MEMES:END -->
 
 --- 
 
