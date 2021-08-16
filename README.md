@@ -193,9 +193,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Best feeling ever, right guys?](http://9gag.com/gag/anQwQ6o)
- - 🚯 [China mock the US](http://9gag.com/gag/axMwM5M)
- - 🚯 [Aimbot Bow](http://9gag.com/gag/aXo1ob6)<!-- MEMES:END -->
+ - 🚖 [Roads in Finland](http://9gag.com/gag/ad8w8EQ)
+ - 🚯 [&quot;The disappearance of women&quot;. Work of an iranian photographer.](http://9gag.com/gag/aDd5dxw)
+ - 🚯 [Let&#039;s not forget this pearl](http://9gag.com/gag/ad8wgRV)<!-- MEMES:END -->
 
 --- 
 
