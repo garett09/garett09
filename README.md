@@ -179,9 +179,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Fairytale Puzzle Game Tetragon Available Now for Xbox One and Xbox Series X|S](https://news.xbox.com/en-us/2021/08/16/tetragon-available-now-xbox-one-and-xbox-series-xs/)
- - [Cyberpunk 2077’s next patch makes resetting perks much cheaper](https://www.polygon.com/22627086/cyberpunk-2077-patch-notes-13-reset-perks-minimap-clouds-bug-fixes)
- - [Riot is considering giving Valorant the K/DA treatment](https://www.pcgamer.com/riot-is-considering-giving-valorant-the-kda-treatment)<!-- GAME:END -->
+ - [Marvel’s Avengers War Table for Wakanda Recap](http://feedproxy.google.com/~r/PSBlog/~3/8XsB2APcCGU/)
+ - [Fan Accidentally Discovers Massive Metal Gear Solid Glitch, Speedrunners Freaking Out](https://kotaku.com/fan-accidentally-discovers-massive-metal-gear-solid-gli-1847494571)
+ - [Marvel’s Avengers War Table for Wakanda Recap](https://blog.playstation.com/2021/08/16/marvels-avengers-war-table-for-wakanda-recap/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
