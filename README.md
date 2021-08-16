@@ -179,9 +179,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Not Tonight 2 leaves Brexit behind for racism and greed in the US](https://www.pcgamer.com/not-tonight-2)
- - [Everything You Need To Know To Beat Hades (For The First Time)](https://kotaku.com/everything-you-need-to-know-to-beat-hades-for-the-firs-1845142723)
- - [Stranger Things will depart Dead by Daylight in November](https://www.pcgamer.com/stranger-things-will-depart-dead-by-daylight-in-november)<!-- GAME:END -->
+ - [You really can’t watch the Evangelion movies before the series](https://www.polygon.com/22627444/watch-evangelion-franchise-amazon-netflix)
+ - [Blizzard aims to slow down Hearthstone with slew of nerfs coming tomorrow](https://www.pcgamer.com/blizzard-aims-to-slow-down-hearthstone-with-slew-of-nerfs-coming-tomorrow)
+ - [I'm baking thousands of cookies and not letting anyone eat them in city builder Patron](https://www.pcgamer.com/im-baking-thousands-of-cookies-and-not-letting-anyone-eat-them-in-city-builder-patron)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
