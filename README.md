@@ -193,9 +193,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Roads in Finland](http://9gag.com/gag/ad8w8EQ)
- - 🚯 [&quot;The disappearance of women&quot;. Work of an iranian photographer.](http://9gag.com/gag/aDd5dxw)
- - 🚯 [Let&#039;s not forget this pearl](http://9gag.com/gag/ad8wgRV)<!-- MEMES:END -->
+ - 🚖 [If you are one of these people who creepily stalks and stares at celebrities trying to live their lives, you should be very ashamed of yourself. Seriously. This is creepy and gross.](http://9gag.com/gag/aP32gwq)
+ - 🚯 [Secret Service agent shows Joe Biden which way to go, but he&rsquo;s confused and follows him through the bushes](http://9gag.com/gag/apNwG3D)
+ - 🚯 [&quot;With a strong urge condemnation message and meeting then world shall know peace&quot; - UN security council 2021](http://9gag.com/gag/aeAwg3m)<!-- MEMES:END -->
 
 --- 
 
