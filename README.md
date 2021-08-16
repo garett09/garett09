@@ -179,9 +179,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Guilty Gear Strive kicks off pumpkin spice season with new fighter Jack-O’](https://www.polygon.com/22626903/guilty-gear-strive-characters-dlc-2-jack-o-valentine-release-date)
- - [Nvidia's mining limiter hacked: LHR GPUs now 70% effective](https://www.pcgamer.com/nvidias-mining-limiter-hacked-lhr-gpus-now-70-effective)
- - [Streamer gets blown backwards into a huge new Metal Gear Solid glitch](https://www.pcgamer.com/streamer-gets-blown-backwards-into-a-huge-new-metal-gear-solid-glitch)<!-- GAME:END -->
+ - [You don't have to play every immersive sim as a stealth game](https://www.pcgamer.com/you-dont-have-to-play-every-immersive-sim-as-a-stealth-game)
+ - [Rainbow Six Siege's first trans operator can reshape maps with powerful bulletproof shields](https://www.pcgamer.com/rainbow-six-sieges-first-trans-operator-can-reshape-maps-with-powerful-bulletproof-shields)
+ - [Humankind review](https://www.pcgamer.com/humankind-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
