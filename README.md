@@ -179,9 +179,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Destiny’s confusing lore makes a lot more sense as a D&D game](https://www.polygon.com/2021/2/17/22286358/dungeons-and-destiny-dungeons-dragons-mod-free-total-conversion)
- - [Is PC gaming for everyone yet?](https://www.pcgamer.com/is-pc-gaming-for-everyone-yet)
- - [Introducing Tandem: A Tale of Shadows, out October 21 on PS4](http://feedproxy.google.com/~r/PSBlog/~3/wTnVSjlHJb8/)<!-- GAME:END -->
+ - [Fairytale Puzzle Game Tetragon Available Now for Xbox One and Xbox Series X|S](https://news.xbox.com/en-us/2021/08/16/tetragon-available-now-xbox-one-and-xbox-series-xs/)
+ - [Cyberpunk 2077’s next patch makes resetting perks much cheaper](https://www.polygon.com/22627086/cyberpunk-2077-patch-notes-13-reset-perks-minimap-clouds-bug-fixes)
+ - [Riot is considering giving Valorant the K/DA treatment](https://www.pcgamer.com/riot-is-considering-giving-valorant-the-kda-treatment)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
