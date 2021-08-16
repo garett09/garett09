@@ -191,9 +191,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Profile of @images_ai, a Twitter account launched by a music student in June, that uses neural networks, including OpenAI's CLIP, to generate surreal art (Kyle Chayka/New Yorker)](http://www.techmeme.com/210815/p11#a210815p11)
- - [I regret buying my Nintendo Switch Lite     - CNET](https://www.cnet.com/news/i-regret-buying-my-nintendo-switch-lite/#ftag=CAD590a51e)
- - [An ode to my long dead, decaying Animal Crossing island     - CNET](https://www.cnet.com/news/an-ode-to-my-long-dead-decaying-animal-crossing-island/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Leaked Fitbit Charge 5 renders shed light on tracker’s big redesign](https://www.androidauthority.com/fitbit-charge-5-renders-2735036/)
+ - [HBO series The White Lotus ending explained, and your questions answered     - CNET](https://www.cnet.com/news/hbo-series-the-white-lotus-ending-explained-and-your-questions-answered/#ftag=CAD590a51e)
+ - [Profile of @images_ai, a Twitter account launched by a music student in June, that uses neural networks, including OpenAI's CLIP, to generate surreal art (Kyle Chayka/New Yorker)](http://www.techmeme.com/210815/p11#a210815p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
