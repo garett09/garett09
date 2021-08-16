@@ -198,9 +198,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I heard the internet is good in canceling](http://9gag.com/gag/aXo1vxV)
- - 🚯 [This is just sad. People climbing into a military plane to leave Kabul.](http://9gag.com/gag/aP32BEB)
- - 🚯 [Afghanistan has never risen back to be honest](http://9gag.com/gag/ajmwq5Q)<!-- MEMES:END -->
+ - 🚖 [Kabul airport is packed with people looking for a way out](http://9gag.com/gag/aDd5zvK)
+ - 🚯 [Afghan army leaving US humvees behind to Taliban.](http://9gag.com/gag/a27p4PO)
+ - 🚯 [Shocking new footage from afghanistan](http://9gag.com/gag/a07qKpd)<!-- MEMES:END -->
 
 --- 
 
