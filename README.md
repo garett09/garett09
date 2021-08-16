@@ -186,9 +186,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [T-Mobile confirms hackers gained access to its systems, following reports that sensitive data on over 100M people was for sale on the dark web (Joseph Cox/VICE)](http://www.techmeme.com/210816/p26#a210816p26)
- - [Windows users can now manage their iCloud Passwords](https://www.theverge.com/2021/8/16/22627512/icloud-for-windows-12-5-password-manager-keychain)
- - [Call of Duty: Vanguard announced, with more to be revealed in Warzone on August 19th](https://www.theverge.com/2021/8/16/22627527/call-of-duty-vanguard-teaser-warzone-event-activision)<!-- TECH:END -->
+ - [How the latest and greatest Samsung and Apple earbuds lock you into their world](https://www.theverge.com/22627099/samsung-galaxy-buds-2-apple-airpods-pro-ecosystem-lock-in-features-companion-app)
+ - [California accuses Riot of misleading employees about their right to speak up](https://www.theverge.com/2021/8/16/22627796/riot-games-harassment-lawsuit-california)
+ - [LG Energy Solution inks deal with Australian mining company for nickel and cobalt](http://feedproxy.google.com/~r/Techcrunch/~3/CZ8YAZAkUMQ/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
