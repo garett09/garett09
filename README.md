@@ -191,9 +191,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Profile of @images_ai, a Twitter account launched by a music student in June, that uses neural networks, including OpenAI's CLIP, to generate surreal art (Kyle Chayka/New Yorker)](http://www.techmeme.com/210815/p11#a210815p11)
  - [I regret buying my Nintendo Switch Lite     - CNET](https://www.cnet.com/news/i-regret-buying-my-nintendo-switch-lite/#ftag=CAD590a51e)
- - [An ode to my long dead, decaying Animal Crossing island     - CNET](https://www.cnet.com/news/an-ode-to-my-long-dead-decaying-animal-crossing-island/#ftag=CAD590a51e)
- - [Live Murder Hornet sighted in the US for the first time in 2021     - CNET](https://www.cnet.com/news/live-murder-hornet-sighted-in-the-us-for-the-first-time-in-2021/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [An ode to my long dead, decaying Animal Crossing island     - CNET](https://www.cnet.com/news/an-ode-to-my-long-dead-decaying-animal-crossing-island/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
