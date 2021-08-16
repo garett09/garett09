@@ -198,9 +198,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Self Cleaning Public Restroom](http://9gag.com/gag/a9E0KMm)
- - 🚯 [Years ago, I was there. All this for nothing. 2 weeks, that&#039;s how long this corrupted Afghan government held.](http://9gag.com/gag/aO35Bp2)
- - 🚯 [The simple life](http://9gag.com/gag/a27ponw)<!-- MEMES:END -->
+ - 🚖 [Louis C.K. great as always](http://9gag.com/gag/aLp50Q6)
+ - 🚯 [Camping made easy.](http://9gag.com/gag/aZ05L6W)
+ - 🚯 [You pay, me shoot](http://9gag.com/gag/a5E3M3N)<!-- MEMES:END -->
 
 --- 
 
