@@ -184,9 +184,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The best Australian PC gaming deals this week](https://www.pcgamer.com/best-australian-pc-gaming-deals)
  - [Looks like Pinhead from Hellraiser is coming to Dead By Daylight](https://www.pcgamer.com/looks-like-pinhead-from-hellraiser-is-coming-to-dead-by-daylight)
- - [Bloodborne First-Person Mod Looks Very Impressive](https://kotaku.com/bloodborne-first-person-mod-looks-very-impressive-1847491663)
- - [Metal Gear Solid 2's Iconic E3 Trailer, Upscaled To 4K By An AI](https://kotaku.com/metal-gear-solid-2s-iconic-e3-trailer-upscaled-to-4k-b-1847491535)<!-- GAME:END -->
+ - [Bloodborne First-Person Mod Looks Very Impressive](https://kotaku.com/bloodborne-first-person-mod-looks-very-impressive-1847491663)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
