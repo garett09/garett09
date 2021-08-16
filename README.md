@@ -191,9 +191,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [USITC judge sides with Sonos in Google patent infringement suit](https://appleinsider.com/articles/21/08/14/us-itc-judge-sides-with-sonos-in-google-patent-infringement-suit?utm_medium=rss)
- - [New Trailers: Dopesick, Impeachment: American Crime Story, Midnight Mass, and more](https://www.theverge.com/2021/8/15/22625980/new-trailers-dopesick-impeachment-american-crime-story-clickbait-netflix-hulu)
- - [Cisco confirms it has acquired Epsagon, an Israel-based cloud application monitoring startup; sources say Cisco will be paying $500M (Globes Online)](http://www.techmeme.com/210815/p10#a210815p10)<!-- TECH:END -->
+ - [The best Netflix documentaries to watch this week     - CNET](https://www.cnet.com/news/the-best-netflix-documentaries-to-watch-this-week/#ftag=CAD590a51e)
+ - [Supermassive black hole 'burps' reveal how big the cosmic monsters grow     - CNET](https://www.cnet.com/news/supermassive-black-hole-burps-reveal-how-big-the-cosmic-monsters-grow/#ftag=CAD590a51e)
+ - [Man hunts down stolen scooter using Apple AirTags     - CNET](https://www.cnet.com/news/guy-successfully-hunts-down-his-stolen-scooter-using-apple-airtags/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
