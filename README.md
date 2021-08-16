@@ -198,9 +198,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [7 years ago i was there, all for nothing](http://9gag.com/gag/aWj51qn)
- - 🚯 [Afghan army leaving US humvees behind to Taliban.](http://9gag.com/gag/a27p4PO)
- - 🚯 [Afghanistan right now](http://9gag.com/gag/axMwVKD)<!-- MEMES:END -->
+ - 🚖 [Female comedian disguises as a man to prove she is funny. Had mental breakdown when everyone thought she wasn&#039;t.](http://9gag.com/gag/apNwQDD)
+ - 🚯 [Have no fear! Joe is on it!](http://9gag.com/gag/aRXd37Q)
+ - 🚯 [Kabul airport is packed with people looking for a way out](http://9gag.com/gag/aDd5zvK)<!-- MEMES:END -->
 
 --- 
 
