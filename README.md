@@ -186,9 +186,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily Authority: ROG Phone 5S announced 📈](https://www.androidauthority.com/newsletters/da-august-16-2021/)
- - [Fitbit Charge 5 leaked images show color display and new rounded look](https://www.theverge.com/2021/8/16/22626752/fitbit-charge-5-leaked-images-specs-news)
- - [Samsung Galaxy Z Flip 3, Z Fold 3 launch in India, starting at ~$1,150](https://www.androidauthority.com/samsung-galaxy-z-flip-3-z-fold-3-india-2735199/)<!-- TECH:END -->
+ - [Chinese government says integrated circuit output rose 47.3% YoY to 203.6B units in the year to July, as new capacity is added to meet semiconductor demand (Che Pan/South China Morning Post)](http://www.techmeme.com/210816/p6#a210816p6)
+ - [Baffle lands $20M Series B to simplify data-centric encryption](http://feedproxy.google.com/~r/Techcrunch/~3/fZ0PwY9AKXc/)
+ - [Crypto staking service Figment raises $50M Series B, led by Senator Investment Group and Liberty City Ventures, source says at a ~$500M valuation (Joanna Ossinger/Bloomberg)](http://www.techmeme.com/210816/p5#a210816p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
