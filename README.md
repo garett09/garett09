@@ -198,9 +198,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [So far...](http://9gag.com/gag/a8EOoV3)
- - 🚯 [7 years ago i was there, all for nothing](http://9gag.com/gag/aWj51qn)
- - 🚯 [Self Cleaning Public Restroom](http://9gag.com/gag/a9E0KMm)<!-- MEMES:END -->
+ - 🚖 [Self Cleaning Public Restroom](http://9gag.com/gag/a9E0KMm)
+ - 🚯 [Years ago, I was there. All this for nothing. 2 weeks, that&#039;s how long this corrupted Afghan government held.](http://9gag.com/gag/aO35Bp2)
+ - 🚯 [The simple life](http://9gag.com/gag/a27ponw)<!-- MEMES:END -->
 
 --- 
 
