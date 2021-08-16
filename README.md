@@ -191,9 +191,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Indian bike taxi service Rapido raises $52 million](http://feedproxy.google.com/~r/Techcrunch/~3/8BApAWKIUjg/)
- - [The best Samsung Galaxy Z Fold 3 cases you can get](https://www.androidauthority.com/best-samsung-galaxy-z-fold-3-cases-2734231/)
- - [Google and Facebook say they will participate in a new subsea cable system for 2024 linking Japan, Singapore, Taiwan, Guam, the Philippines, and Indonesia (Vlad Savov/Bloomberg)](http://www.techmeme.com/210816/p1#a210816p1)<!-- TECH:END -->
+ - [Asus ROG Phone 5S and 5S Pro announced: SD888 Plus added, not much else](https://www.androidauthority.com/asus-rog-phone-5s-2731952/)
+ - [The fan-equipped Zephyr Pro gaming mouse is much cooler than the original](https://www.theverge.com/2021/8/16/22626714/marsback-zephyr-pro-gaming-mouse-fan-review)
+ - [Xiaomi is finally bringing the Mi Band 6 to India later this month](https://www.androidauthority.com/xiaomi-mi-band-6-india-launch-2735149/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
