@@ -186,9 +186,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bill targeting App Store will harm consumers & app ecosystems, claims think tank](https://appleinsider.com/articles/21/08/16/bill-targeting-app-store-will-harm-consumers-app-ecosystems-claims-think-tank?utm_medium=rss)
- - [How drones are changing our view of sharks](https://www.theverge.com/22623363/shark-sightings-drones-us-beaches)
- - [DHS mulls using private companies to analyze public social media after the intelligence community failed to identify threats that led to Jan. 6 violence (Rachael Levy/Wall Street Journal)](http://www.techmeme.com/210816/p13#a210816p13)<!-- TECH:END -->
+ - [Amazon's hidden AirPods Pro deal drives price down to $179.99](https://appleinsider.com/articles/21/08/16/amazons-hidden-airpods-pro-deal-drives-price-down-to-17999?utm_medium=rss)
+ - [Users lobby 1Password to abandon new Electron version](https://appleinsider.com/articles/21/08/16/users-lobby-1password-to-abandon-new-electron-version?utm_medium=rss)
+ - [Poll: How many smart home devices do you have?](https://www.androidauthority.com/smart-home-devices-poll-2735172/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
