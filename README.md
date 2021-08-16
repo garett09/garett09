@@ -179,9 +179,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The new Doctor Strange comic will catapult your eyeballs to another dimension](https://www.polygon.com/comics/2021/8/16/22627013/doctor-strange-marvel-comics-defenders-al-ewing-javier-rodriguez)
- - [This New Furry Strategy RPG Won't Stop Breaking My Heart](https://kotaku.com/this-new-furry-strategy-rpg-wont-stop-breaking-my-heart-1847495234)
- - [Wonder Woman is coming to Fortnite](https://www.pcgamer.com/wonder-woman-fortnite)<!-- GAME:END -->
+ - [Not Tonight 2 leaves Brexit behind for racism and greed in the US](https://www.pcgamer.com/not-tonight-2)
+ - [Everything You Need To Know To Beat Hades (For The First Time)](https://kotaku.com/everything-you-need-to-know-to-beat-hades-for-the-firs-1845142723)
+ - [Stranger Things will depart Dead by Daylight in November](https://www.pcgamer.com/stranger-things-will-depart-dead-by-daylight-in-november)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
