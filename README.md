@@ -193,9 +193,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [13 YEARS AGO I WAS THERE, EVEN LOST MY BEST FRIEND..... FOR WHAT?](http://9gag.com/gag/aRXd39j)
- - 🚯 [In the end it doesn&#039;t even matter](http://9gag.com/gag/a3ErQ9N)
- - 🚯 [When you have to clear your runway with an Apache so your C17 can take off](http://9gag.com/gag/aLp50Gz)<!-- MEMES:END -->
+ - 🚖 [In the end it doesn&#039;t even matter](http://9gag.com/gag/a3ErQ9N)
+ - 🚯 [6 Years ago i was there, PTBS and the Pain for nothing.](http://9gag.com/gag/aQo5Rrw)
+ - 🚯 [Task successfully failed](http://9gag.com/gag/aeAwr7m)<!-- MEMES:END -->
 
 --- 
 
