@@ -184,9 +184,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Week In Games: Twelve Minutes Launches In Like 4,680 Minutes](https://kotaku.com/the-week-in-games-twelve-minutes-launches-in-like-4-68-1847491058)
- - [John Romero is making Sigil 2, but he's using Doom 2 this time](https://www.pcgamer.com/john-romero-is-making-sigil-2-but-hes-using-doom-2-this-time)
- - [A New Retro Shooter About Helping People Dress Better](https://kotaku.com/a-new-retro-shooter-about-helping-people-dress-better-1847490776)<!-- GAME:END -->
+ - [Five new Steam games you probably missed (August 16, 2021)](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-august-16-2021)
+ - [Gigabyte Will Replace 'Exploding' PSUs, Takes Shot At Media On The Way Out](https://kotaku.com/gigabyte-will-replace-exploding-psus-takes-shot-at-med-1847491215)
+ - [Upcoming immersive sim Core Decay's getting a demo this year](https://www.pcgamer.com/upcoming-immersive-sim-core-decays-getting-a-demo-this-year)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
