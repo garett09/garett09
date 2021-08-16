@@ -179,9 +179,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Masahiro Sakurai Isn't Thrilled With Being A Meme](https://kotaku.com/masahiro-sakurai-isnt-thrilled-with-being-a-meme-1847492388)
- - [Best Razer gaming laptop deals](https://www.pcgamer.com/the-best-razer-laptop-for-gaming-2019)
- - [Owner of vanquished ROM site isn't even allowed to play Nintendo ROMs anymore](https://www.pcgamer.com/owner-of-vanquished-rom-site-isnt-even-allowed-to-play-nintendo-roms-anymore)<!-- GAME:END -->
+ - [Guilty Gear Strive kicks off pumpkin spice season with new fighter Jack-O’](https://www.polygon.com/22626903/guilty-gear-strive-characters-dlc-2-jack-o-valentine-release-date)
+ - [Nvidia's mining limiter hacked: LHR GPUs now 70% effective](https://www.pcgamer.com/nvidias-mining-limiter-hacked-lhr-gpus-now-70-effective)
+ - [Streamer gets blown backwards into a huge new Metal Gear Solid glitch](https://www.pcgamer.com/streamer-gets-blown-backwards-into-a-huge-new-metal-gear-solid-glitch)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
