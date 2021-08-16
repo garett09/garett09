@@ -184,9 +184,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Five new Steam games you probably missed (August 16, 2021)](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-august-16-2021)
- - [Gigabyte Will Replace 'Exploding' PSUs, Takes Shot At Media On The Way Out](https://kotaku.com/gigabyte-will-replace-exploding-psus-takes-shot-at-med-1847491215)
- - [Upcoming immersive sim Core Decay's getting a demo this year](https://www.pcgamer.com/upcoming-immersive-sim-core-decays-getting-a-demo-this-year)<!-- GAME:END -->
+ - [Metal Gear Solid 2's Iconic E3 Trailer, Upscaled To 4K By An AI](https://kotaku.com/metal-gear-solid-2s-iconic-e3-trailer-upscaled-to-4k-b-1847491535)
+ - [There's a scythe that cuts reality in Amid Evil's expansion](https://www.pcgamer.com/theres-a-scythe-that-cuts-reality-in-amid-evils-expansion)
+ - [Five new Steam games you probably missed (August 16, 2021)](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-august-16-2021)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
