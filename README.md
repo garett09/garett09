@@ -179,9 +179,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [You don't have to play every immersive sim as a stealth game](https://www.pcgamer.com/you-dont-have-to-play-every-immersive-sim-as-a-stealth-game)
- - [Rainbow Six Siege's first trans operator can reshape maps with powerful bulletproof shields](https://www.pcgamer.com/rainbow-six-sieges-first-trans-operator-can-reshape-maps-with-powerful-bulletproof-shields)
- - [Humankind review](https://www.pcgamer.com/humankind-review)<!-- GAME:END -->
+ - [Destiny’s confusing lore makes a lot more sense as a D&D game](https://www.polygon.com/2021/2/17/22286358/dungeons-and-destiny-dungeons-dragons-mod-free-total-conversion)
+ - [Is PC gaming for everyone yet?](https://www.pcgamer.com/is-pc-gaming-for-everyone-yet)
+ - [Introducing Tandem: A Tale of Shadows, out October 21 on PS4](http://feedproxy.google.com/~r/PSBlog/~3/wTnVSjlHJb8/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
