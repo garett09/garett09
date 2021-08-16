@@ -186,9 +186,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [We asked, you told us: The Galaxy Z Fold 3 has its fair share of detractors](https://www.androidauthority.com/galaxy-z-fold-3-hot-not-poll-results-2734077/)
  - [Asus ROG Phone 5S and 5S Pro announced: SD888 Plus added, not much else](https://www.androidauthority.com/asus-rog-phone-5s-2731952/)
- - [The fan-equipped Zephyr Pro gaming mouse is much cooler than the original](https://www.theverge.com/2021/8/16/22626714/marsback-zephyr-pro-gaming-mouse-fan-review)
- - [Xiaomi is finally bringing the Mi Band 6 to India later this month](https://www.androidauthority.com/xiaomi-mi-band-6-india-launch-2735149/)<!-- TECH:END -->
+ - [The fan-equipped Zephyr Pro gaming mouse is much cooler than the original](https://www.theverge.com/2021/8/16/22626714/marsback-zephyr-pro-gaming-mouse-fan-review)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
