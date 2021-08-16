@@ -191,9 +191,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Jake Paul vs. Tyron Woodley: Start time, how to watch, fight rules and details     - CNET](https://www.cnet.com/news/jake-paul-vs-tyron-woodley-start-time-how-to-watch-fight-rules-and-details/#ftag=CAD590a51e)
- - [The best Netflix documentaries to watch this week     - CNET](https://www.cnet.com/news/the-best-netflix-documentaries-to-watch-this-week/#ftag=CAD590a51e)
- - [Supermassive black hole 'burps' reveal how big the cosmic monsters grow     - CNET](https://www.cnet.com/news/supermassive-black-hole-burps-reveal-how-big-the-cosmic-monsters-grow/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [I regret buying my Nintendo Switch Lite     - CNET](https://www.cnet.com/news/i-regret-buying-my-nintendo-switch-lite/#ftag=CAD590a51e)
+ - [An ode to my long dead, decaying Animal Crossing island     - CNET](https://www.cnet.com/news/an-ode-to-my-long-dead-decaying-animal-crossing-island/#ftag=CAD590a51e)
+ - [Live Murder Hornet sighted in the US for the first time in 2021     - CNET](https://www.cnet.com/news/live-murder-hornet-sighted-in-the-us-for-the-first-time-in-2021/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
