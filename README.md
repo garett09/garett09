@@ -199,8 +199,8 @@ Linux                    40 mins             ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 🚖 [7 years ago i was there, all for nothing](http://9gag.com/gag/aWj51qn)
- - 🚯 [Shocking new footage from afghanistan](http://9gag.com/gag/a07qKpd)
- - 🚯 [Afghan army leaving US humvees behind to Taliban.](http://9gag.com/gag/a27p4PO)<!-- MEMES:END -->
+ - 🚯 [Afghan army leaving US humvees behind to Taliban.](http://9gag.com/gag/a27p4PO)
+ - 🚯 [Afghanistan right now](http://9gag.com/gag/axMwVKD)<!-- MEMES:END -->
 
 --- 
 
