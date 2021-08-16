@@ -179,9 +179,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [PC Gamer plays: Emily is Away, Assassin's Creed Valhalla, Noita, Total War: Rome Remastered](https://www.pcgamer.com/pc-gamer-plays-emily-is-away-assassins-creed-valhalla-noita-total-war-rome-remastered)
  - [The best gaming laptops in Australia for 2021](https://www.pcgamer.com/the-best-gaming-laptops-in-australia-for-2021)
- - [The best Australian PC gaming deals this week](https://www.pcgamer.com/best-australian-pc-gaming-deals)
- - [Looks like Pinhead from Hellraiser is coming to Dead By Daylight](https://www.pcgamer.com/looks-like-pinhead-from-hellraiser-is-coming-to-dead-by-daylight)<!-- GAME:END -->
+ - [The best Australian PC gaming deals this week](https://www.pcgamer.com/best-australian-pc-gaming-deals)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
