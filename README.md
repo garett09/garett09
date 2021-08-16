@@ -186,9 +186,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spin’s electric scooters and bikes are now on Google Maps](http://feedproxy.google.com/~r/Techcrunch/~3/wpfqLPlKPRI/)
- - [Google Pixel 5a leak reveals the largest-ever Pixel battery](https://www.androidauthority.com/google-pixel-5a-battery-2735555/)
- - [Peloton says a fix is ready for one of its treadmill recalls](https://www.theverge.com/2021/8/16/22627383/peloton-tread-recall-update-repair-fix-screen)<!-- TECH:END -->
+ - [T-Mobile confirms hackers gained access to its systems, following reports that sensitive data on over 100M people was for sale on the dark web (Joseph Cox/VICE)](http://www.techmeme.com/210816/p26#a210816p26)
+ - [Windows users can now manage their iCloud Passwords](https://www.theverge.com/2021/8/16/22627512/icloud-for-windows-12-5-password-manager-keychain)
+ - [Call of Duty: Vanguard announced, with more to be revealed in Warzone on August 19th](https://www.theverge.com/2021/8/16/22627527/call-of-duty-vanguard-teaser-warzone-event-activision)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
