@@ -186,9 +186,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chinese government says integrated circuit output rose 47.3% YoY to 203.6B units in the year to July, as new capacity is added to meet semiconductor demand (Che Pan/South China Morning Post)](http://www.techmeme.com/210816/p6#a210816p6)
- - [Baffle lands $20M Series B to simplify data-centric encryption](http://feedproxy.google.com/~r/Techcrunch/~3/fZ0PwY9AKXc/)
- - [Crypto staking service Figment raises $50M Series B, led by Senator Investment Group and Liberty City Ventures, source says at a ~$500M valuation (Joanna Ossinger/Bloomberg)](http://www.techmeme.com/210816/p5#a210816p5)<!-- TECH:END -->
+ - [Bill targeting App Store will harm consumers & app ecosystems, claims think tank](https://appleinsider.com/articles/21/08/16/bill-targeting-app-store-will-harm-consumers-app-ecosystems-claims-think-tank?utm_medium=rss)
+ - [How drones are changing our view of sharks](https://www.theverge.com/22623363/shark-sightings-drones-us-beaches)
+ - [DHS mulls using private companies to analyze public social media after the intelligence community failed to identify threats that led to Jan. 6 violence (Rachael Levy/Wall Street Journal)](http://www.techmeme.com/210816/p13#a210816p13)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
