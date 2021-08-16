@@ -179,9 +179,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Black Panther can summon the god of all panthers in Marvel’s Avengers](https://www.polygon.com/22627340/black-panther-marvels-avengers-game-update-war-for-wakanda)
- - [The best EM2 loadout for Warzone](https://www.pcgamer.com/best-warzone-em2-loadout-class-setup)
- - [8 months after launch, Cyberpunk 2077's minimap is getting fixed](https://www.pcgamer.com/8-months-after-launch-cyberpunk-2077s-minimap-is-getting-fixed)<!-- GAME:END -->
+ - [The new Doctor Strange comic will catapult your eyeballs to another dimension](https://www.polygon.com/comics/2021/8/16/22627013/doctor-strange-marvel-comics-defenders-al-ewing-javier-rodriguez)
+ - [This New Furry Strategy RPG Won't Stop Breaking My Heart](https://kotaku.com/this-new-furry-strategy-rpg-wont-stop-breaking-my-heart-1847495234)
+ - [Wonder Woman is coming to Fortnite](https://www.pcgamer.com/wonder-woman-fortnite)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
