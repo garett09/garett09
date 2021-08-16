@@ -193,9 +193,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Louis C.K. great as always](http://9gag.com/gag/aLp50Q6)
- - 🚯 [Camping made easy.](http://9gag.com/gag/aZ05L6W)
- - 🚯 [You pay, me shoot](http://9gag.com/gag/a5E3M3N)<!-- MEMES:END -->
+ - 🚖 [You pay, me shoot](http://9gag.com/gag/a5E3M3N)
+ - 🚯 [Dairy is bad for you!](http://9gag.com/gag/aNp5Y3A)
+ - 🚯 [Too bad](http://9gag.com/gag/azMw1rq)<!-- MEMES:END -->
 
 --- 
 
