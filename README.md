@@ -186,9 +186,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best early Labor Day mattress deals: Discounts from Tuft & Needle, Amerisleep, Tempur-Pedic, Birch and more     - CNET](https://www.cnet.com/health/sleep/best-mattress-deals/#ftag=CAD590a51e)
- - [Evangelion: 3.0 + 1.0 Thrice Upon a Time movie: Ending explained and dissected     - CNET](https://www.cnet.com/news/evangelion-3-0-1-0-thrice-upon-a-time-movie-ending-explained-and-dissected/#ftag=CAD590a51e)
- - [The best minimalist wallet for 2021     - CNET](https://www.cnet.com/tech/best-minimalist-wallet/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best price yet on the Roku Express 4K Plus, and more cheap Roku deals](https://www.androidauthority.com/best-cheap-roku-deals-1115065/)
+ - [Drought-choked Colorado River faces an unprecedented water shortage](https://www.theverge.com/2021/8/16/22627681/water-shortage-lake-mead-hoover-dam-colorado-river)
+ - [Best early Labor Day mattress deals: Discounts from Tuft & Needle, Amerisleep, Tempur-Pedic, Birch and more     - CNET](https://www.cnet.com/health/sleep/best-mattress-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
