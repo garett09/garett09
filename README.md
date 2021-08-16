@@ -193,9 +193,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Impressive](http://9gag.com/gag/aB2521A)
- - 🚯 [16 years ago I was there....all for nothing](http://9gag.com/gag/ayMw9OY)
- - 🚯 [If you are one of these people who creepily stalks and stares at celebrities trying to live their lives, you should be very ashamed of yourself. Seriously. This is creepy and gross.](http://9gag.com/gag/aP32gwq)<!-- MEMES:END -->
+ - 🚖 [Best feeling ever, right guys?](http://9gag.com/gag/anQwQ6o)
+ - 🚯 [A video is worth a trillion words](http://9gag.com/gag/aoMw57m)
+ - 🚯 [Bush did it again](http://9gag.com/gag/apNwNW9)<!-- MEMES:END -->
 
 --- 
 
