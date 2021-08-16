@@ -198,9 +198,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Kabul airport is packed with people looking for a way out](http://9gag.com/gag/aDd5zvK)
- - 🚯 [Afghan army leaving US humvees behind to Taliban.](http://9gag.com/gag/a27p4PO)
- - 🚯 [Shocking new footage from afghanistan](http://9gag.com/gag/a07qKpd)<!-- MEMES:END -->
+ - 🚖 [7 years ago i was there, all for nothing](http://9gag.com/gag/aWj51qn)
+ - 🚯 [Shocking new footage from afghanistan](http://9gag.com/gag/a07qKpd)
+ - 🚯 [Afghan army leaving US humvees behind to Taliban.](http://9gag.com/gag/a27p4PO)<!-- MEMES:END -->
 
 --- 
 
