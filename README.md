@@ -179,9 +179,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Marvel’s Avengers War Table for Wakanda Recap](http://feedproxy.google.com/~r/PSBlog/~3/8XsB2APcCGU/)
- - [Fan Accidentally Discovers Massive Metal Gear Solid Glitch, Speedrunners Freaking Out](https://kotaku.com/fan-accidentally-discovers-massive-metal-gear-solid-gli-1847494571)
- - [Marvel’s Avengers War Table for Wakanda Recap](https://blog.playstation.com/2021/08/16/marvels-avengers-war-table-for-wakanda-recap/)<!-- GAME:END -->
+ - [Black Panther can summon the god of all panthers in Marvel’s Avengers](https://www.polygon.com/22627340/black-panther-marvels-avengers-game-update-war-for-wakanda)
+ - [The best EM2 loadout for Warzone](https://www.pcgamer.com/best-warzone-em2-loadout-class-setup)
+ - [8 months after launch, Cyberpunk 2077's minimap is getting fixed](https://www.pcgamer.com/8-months-after-launch-cyberpunk-2077s-minimap-is-getting-fixed)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
