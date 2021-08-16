@@ -179,9 +179,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Best MSI gaming laptop deals](https://www.pcgamer.com/the-best-msi-laptop-for-gaming-2020)
- - [PC Gamer plays: Emily is Away, Assassin's Creed Valhalla, Noita, Total War: Rome Remastered](https://www.pcgamer.com/pc-gamer-plays-emily-is-away-assassins-creed-valhalla-noita-total-war-rome-remastered)
- - [The best gaming laptops in Australia for 2021](https://www.pcgamer.com/the-best-gaming-laptops-in-australia-for-2021)<!-- GAME:END -->
+ - [Masahiro Sakurai Isn't Thrilled With Being A Meme](https://kotaku.com/masahiro-sakurai-isnt-thrilled-with-being-a-meme-1847492388)
+ - [Best Razer gaming laptop deals](https://www.pcgamer.com/the-best-razer-laptop-for-gaming-2019)
+ - [Owner of vanquished ROM site isn't even allowed to play Nintendo ROMs anymore](https://www.pcgamer.com/owner-of-vanquished-rom-site-isnt-even-allowed-to-play-nintendo-roms-anymore)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
