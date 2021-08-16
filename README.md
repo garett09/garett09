@@ -184,9 +184,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The best gaming laptops in Australia for 2021](https://www.pcgamer.com/the-best-gaming-laptops-in-australia-for-2021)
  - [The best Australian PC gaming deals this week](https://www.pcgamer.com/best-australian-pc-gaming-deals)
- - [Looks like Pinhead from Hellraiser is coming to Dead By Daylight](https://www.pcgamer.com/looks-like-pinhead-from-hellraiser-is-coming-to-dead-by-daylight)
- - [Bloodborne First-Person Mod Looks Very Impressive](https://kotaku.com/bloodborne-first-person-mod-looks-very-impressive-1847491663)<!-- GAME:END -->
+ - [Looks like Pinhead from Hellraiser is coming to Dead By Daylight](https://www.pcgamer.com/looks-like-pinhead-from-hellraiser-is-coming-to-dead-by-daylight)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
