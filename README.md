@@ -186,9 +186,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How the latest and greatest Samsung and Apple earbuds lock you into their world](https://www.theverge.com/22627099/samsung-galaxy-buds-2-apple-airpods-pro-ecosystem-lock-in-features-companion-app)
- - [California accuses Riot of misleading employees about their right to speak up](https://www.theverge.com/2021/8/16/22627796/riot-games-harassment-lawsuit-california)
- - [LG Energy Solution inks deal with Australian mining company for nickel and cobalt](http://feedproxy.google.com/~r/Techcrunch/~3/CZ8YAZAkUMQ/)<!-- TECH:END -->
+ - [Best early Labor Day mattress deals: Discounts from Tuft & Needle, Amerisleep, Tempur-Pedic, Birch and more     - CNET](https://www.cnet.com/health/sleep/best-mattress-deals/#ftag=CAD590a51e)
+ - [Evangelion: 3.0 + 1.0 Thrice Upon a Time movie: Ending explained and dissected     - CNET](https://www.cnet.com/news/evangelion-3-0-1-0-thrice-upon-a-time-movie-ending-explained-and-dissected/#ftag=CAD590a51e)
+ - [The best minimalist wallet for 2021     - CNET](https://www.cnet.com/tech/best-minimalist-wallet/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
