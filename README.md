@@ -179,9 +179,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [You really can’t watch the Evangelion movies before the series](https://www.polygon.com/22627444/watch-evangelion-franchise-amazon-netflix)
- - [Blizzard aims to slow down Hearthstone with slew of nerfs coming tomorrow](https://www.pcgamer.com/blizzard-aims-to-slow-down-hearthstone-with-slew-of-nerfs-coming-tomorrow)
- - [I'm baking thousands of cookies and not letting anyone eat them in city builder Patron](https://www.pcgamer.com/im-baking-thousands-of-cookies-and-not-letting-anyone-eat-them-in-city-builder-patron)<!-- GAME:END -->
+ - [Riot must let workers talk to ‘unlawful workplace’ investigators, California says](https://www.polygon.com/22627866/riot-games-lawsuit-workers-rights-sexual-harassment-discrimination)
+ - [New Valheim video outlines upcoming changes to blocking and staggering](https://www.pcgamer.com/new-valheim-video-outlines-upcoming-changes-to-blocking-and-staggering)
+ - [I’ve seen Tifa with short hair and I can’t go back](https://www.polygon.com/22627651/final-fantasy-7-remake-tifa-lockhart-short-hair)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
