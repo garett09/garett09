@@ -186,9 +186,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to play on your PlayStation 5 or Xbox Series X with an iPad Pro](https://appleinsider.com/articles/21/08/16/how-to-play-on-your-playstation-5-or-xbox-series-x-with-an-ipad-pro?utm_medium=rss)
- - [Regulating crypto is essential to ensuring its global legitimacy](http://feedproxy.google.com/~r/Techcrunch/~3/EpWmx2Y9BgU/)
- - [Intel’s plan for new high-performance graphics: everything we know](https://www.androidauthority.com/intel-arc-2735361/)<!-- TECH:END -->
+ - [Automattic closed a new funding round of $288M in February and recently completed a $250M share buyback aimed at current and ex-employees at a $7.5B valuation (Matt Mullenweg)](http://www.techmeme.com/210816/p23#a210816p23)
+ - [Save 33% on the latest Fire tablets, and more great tablet deals](https://www.androidauthority.com/best-tablet-deals-1117141/)
+ - [OpenTable adds a new ‘verified’ tag for restaurants to check vaccine status](https://www.theverge.com/2021/8/16/22627029/opentable-verified-tag-restaurants-vaccine-status)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
