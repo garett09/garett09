@@ -186,9 +186,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Automattic closed a new funding round of $288M in February and recently completed a $250M share buyback aimed at current and ex-employees at a $7.5B valuation (Matt Mullenweg)](http://www.techmeme.com/210816/p23#a210816p23)
- - [Save 33% on the latest Fire tablets, and more great tablet deals](https://www.androidauthority.com/best-tablet-deals-1117141/)
- - [OpenTable adds a new ‘verified’ tag for restaurants to check vaccine status](https://www.theverge.com/2021/8/16/22627029/opentable-verified-tag-restaurants-vaccine-status)<!-- TECH:END -->
+ - [Spin’s electric scooters and bikes are now on Google Maps](http://feedproxy.google.com/~r/Techcrunch/~3/wpfqLPlKPRI/)
+ - [Google Pixel 5a leak reveals the largest-ever Pixel battery](https://www.androidauthority.com/google-pixel-5a-battery-2735555/)
+ - [Peloton says a fix is ready for one of its treadmill recalls](https://www.theverge.com/2021/8/16/22627383/peloton-tread-recall-update-repair-fix-screen)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
