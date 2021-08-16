@@ -198,9 +198,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Owner recorded this footage a few hours after his doggo past away](http://9gag.com/gag/aB25xgZ)
- - 🚯 [Dairy is bad for you!](http://9gag.com/gag/aNp5Y3A)
- - 🚯 [So far...](http://9gag.com/gag/a8EOoV3)<!-- MEMES:END -->
+ - 🚖 [So far...](http://9gag.com/gag/a8EOoV3)
+ - 🚯 [7 years ago i was there, all for nothing](http://9gag.com/gag/aWj51qn)
+ - 🚯 [Self Cleaning Public Restroom](http://9gag.com/gag/a9E0KMm)<!-- MEMES:END -->
 
 --- 
 
