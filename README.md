@@ -187,9 +187,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Toyota recalls 31,307 2019-2020 Yaris models over faulty low-pressure fuel pumps     - Roadshow](https://www.cnet.com/roadshow/news/toyota-yaris-2019-2020-recall-fuel-pump/#ftag=CAD590a51e)
- - [WWE SummerSlam 2021: How to watch, Saturday start times and predictions     - CNET](https://www.cnet.com/news/wwe-summerslam-2021-how-to-watch-saturday-start-times-and-predictions/#ftag=CAD590a51e)
- - [Why Jeff Bezos' Blue Origin is going to war with NASA and SpaceX     - CNET](https://www.cnet.com/news/why-jeff-bezos-blue-origin-is-going-to-war-with-nasa-and-spacex/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple Watch used to call for help during armed burglary](https://appleinsider.com/articles/21/08/17/apple-watch-used-to-call-for-help-during-armed-burglary?utm_medium=rss)
+ - [Scientists tweak daddy long legs genes to make daddy short legs     - CNET](https://www.cnet.com/news/scientists-tweak-daddy-long-legs-genes-to-make-daddy-short-legs/#ftag=CAD590a51e)
+ - [Nine Perfect Strangers: Nicole Kidman's Hulu miniseries is surprisingly disappointing     - CNET](https://www.cnet.com/news/nine-perfect-strangers-review-nicole-kidman-hulu-miniseries-surprisingly-disappointing/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
