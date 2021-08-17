@@ -187,9 +187,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Motorola Edge 20, Edge 20 Fusion hit India: 108MP cameras, high refresh rate](https://www.androidauthority.com/motorola-edge-20-series-india-2735874/)
- - [Astro teams up with Timbuk2 to make bags for all of your gaming gear](https://www.theverge.com/2021/8/17/22626981/astro-timbuk2-bp35-cs03-backpack-crossbody-sling-price)
- - [Shang-Chi and the Legend of the Ten Rings first reactions: "Phenomenal"     - CNET](https://www.cnet.com/news/shang-chi-and-the-legend-of-the-ten-rings-first-reactions-phenomenal/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Vienna-based crypto trading platform Bitpanda raises $263M led by Valar Ventures at a $4.1B valuation, up from $1.2B five months ago (Ryan Browne/CNBC)](http://www.techmeme.com/210817/p2#a210817p2)
+ - [Apple Pay accounted for 92% of US mobile wallet debit transactions in 2020, study says](https://appleinsider.com/articles/21/08/17/apple-pay-accounted-for-92-of-us-mobile-wallet-debit-transactions-in-2020-study-says?utm_medium=rss)
+ - [Apple Pay launches in Qatar with QNB integration](https://appleinsider.com/articles/21/08/17/apple-pay-launches-in-qatar-with-qnb-integration?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
