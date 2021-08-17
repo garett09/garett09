@@ -194,9 +194,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Nice landing man](http://9gag.com/gag/a9E0zqK)
- - 🚯 [Why is there a Trump (MAGA) hat?](http://9gag.com/gag/azMw2Aq)
- - 🚯 [The situation right now](http://9gag.com/gag/aDd57dK)<!-- MEMES:END -->
+ - 🚖 [Just Russian things....](http://9gag.com/gag/aDd57yK)
+ - 🚯 [No stress.](http://9gag.com/gag/a6E6DnN)
+ - 🚯 [I&lsquo;m a Photographer, it just hurts](http://9gag.com/gag/aGp5y37)<!-- MEMES:END -->
 
 --- 
 
