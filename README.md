@@ -194,9 +194,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Interesting](http://9gag.com/gag/av5wQDZ)
- - 🚯 [The bad guys will make the good guy look like the bad one.](http://9gag.com/gag/a4EyPGd)
- - 🚯 [Learning to walk for the third time at 26 after multiple medical interventions. It&rsquo;s not about where you&rsquo;ve been, it&rsquo;s about where you&rsquo;re going. Keep trucking on!](http://9gag.com/gag/a8EOq13)<!-- MEMES:END -->
+ - 🚖 [Futurama is better than The Simpsons](http://9gag.com/gag/a6E6ZXR)
+ - 🚯 [Learning to walk for the third time at 26 after multiple medical interventions. It&rsquo;s not about where you&rsquo;ve been, it&rsquo;s about where you&rsquo;re going. Keep trucking on!](http://9gag.com/gag/a8EOq13)
+ - 🚯 [Let&#039;s not forget this pearl](http://9gag.com/gag/ad8wgRV)<!-- MEMES:END -->
 
 --- 
 
