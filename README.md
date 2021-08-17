@@ -188,8 +188,8 @@ Linux                    40 mins             ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Apple Watch used to call for help during armed burglary](https://appleinsider.com/articles/21/08/17/apple-watch-used-to-call-for-help-during-armed-burglary?utm_medium=rss)
- - [Scientists tweak daddy long legs genes to make daddy short legs     - CNET](https://www.cnet.com/news/scientists-tweak-daddy-long-legs-genes-to-make-daddy-short-legs/#ftag=CAD590a51e)
- - [Nine Perfect Strangers: Nicole Kidman's Hulu miniseries is surprisingly disappointing     - CNET](https://www.cnet.com/news/nine-perfect-strangers-review-nicole-kidman-hulu-miniseries-surprisingly-disappointing/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Revenue-based financing startup Jenfi raises $6.3M to focus on high-growth Southeast Asian companies](http://feedproxy.google.com/~r/Techcrunch/~3/B4B14exSf_s/)
+ - [Scientists tweak daddy long legs genes to make daddy short legs     - CNET](https://www.cnet.com/news/scientists-tweak-daddy-long-legs-genes-to-make-daddy-short-legs/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
