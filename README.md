@@ -180,9 +180,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [League Of Legends Player Arrested By Off-Duty Cop In Internet Café](https://kotaku.com/league-of-legends-player-arrested-by-off-duty-cop-in-in-1847498225)
- - [Naraka: Bladepoint tips: how to counter, get more kills, and live longer](https://www.pcgamer.com/naraka-bladepoint-tips-guide)
- - [How Deathloop defies the immersive sim's reliance on quick save](https://www.pcgamer.com/how-deathloop-defies-the-immersive-sims-reliance-on-quick-save)<!-- GAME:END -->
+ - [Here are all the free games you can grab right now](https://www.pcgamer.com/here-are-all-the-free-games-you-can-grab-right-now)
+ - [Mortal Shell’s new roguelike expansion is free-to-keep for a limited time](https://www.pcgamer.com/mortal-shells-new-roguelike-expansion-is-free-to-keep-for-a-limited-time)
+ - [League Of Legends Player Arrested By Off-Duty Cop In Internet Café](https://kotaku.com/league-of-legends-player-arrested-by-off-duty-cop-in-in-1847498225)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
