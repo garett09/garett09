@@ -187,9 +187,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [BlackBerry admits a critical flaw in its QNX OS, impacting 200M+ cars, hospital equipment, more; sources say it resisted public disclosure until talks with CISA (Politico)](http://www.techmeme.com/210817/p38#a210817p38)
- - [AirTag helps find stolen motorcycle, may have acted as a deterrent](https://appleinsider.com/articles/21/08/17/airtag-helps-find-stolen-motorcycle-may-have-acted-as-a-deterrent?utm_medium=rss)
- - [Apple releases watchOS 8 beta 6 to developers](https://appleinsider.com/articles/21/08/17/apple-releases-watchos-8-beta-6-to-developers?utm_medium=rss)<!-- TECH:END -->
+ - [Report: militias like the Three Percenters are key spreaders of vaccine misinfo on Facebook, and some of their Facebook Group admins get a "Group Expert" badge (David Gilbert/VICE)](http://www.techmeme.com/210817/p42#a210817p42)
+ - [Sources: the Taliban have seized US military biometric devices, known as HIIDE, that could aid in the identification of Afghans who supported coalition forces (The Intercept)](http://www.techmeme.com/210817/p41#a210817p41)
+ - [Apple seeds sixth developer betas for iOS 15, iPadOS 15, tvOS 15](https://appleinsider.com/articles/21/08/17/apple-seeds-sixth-developer-betas-for-ios-15-ipados-15-tvos-15?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
