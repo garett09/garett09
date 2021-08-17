@@ -194,9 +194,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I&lsquo;m a Photographer, it just hurts](http://9gag.com/gag/aGp5y37)
- - 🚯 [Futurama is better than The Simpsons](http://9gag.com/gag/a6E6ZXR)
- - 🚯 [Alligator attacks keeper, bystanders jump in to help](http://9gag.com/gag/azMwxQx)<!-- MEMES:END -->
+ - 🚖 [Futurama is better than The Simpsons](http://9gag.com/gag/a6E6ZXR)
+ - 🚯 [16 years ago I was there....all for nothing](http://9gag.com/gag/ayMw9OY)
+ - 🚯 [If you are one of these people who creepily stalks and stares at celebrities trying to live their lives, you should be very ashamed of yourself. Seriously. This is creepy and gross.](http://9gag.com/gag/aP32gwq)<!-- MEMES:END -->
 
 --- 
 
