@@ -187,9 +187,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Consumer Technology Association says attendees of CES 2022 will be required to show proof of COVID-19 vaccination (Carrie Mihalcik/CNET)](http://www.techmeme.com/210817/p37#a210817p37)
- - [Save up to $1,200 on the iPhone 12 with Verizon, and more great iPhone deals](https://www.androidauthority.com/best-iphone-deals-1117011/)
- - [Scripps Health, a CA-based healthcare provider with 25 facilities including 5 hospitals, says it expects to lose ~$106.8M after a ransomware attack in May 2021 (Catalin Cimpanu/The Record)](http://www.techmeme.com/210817/p36#a210817p36)<!-- TECH:END -->
+ - [BlackBerry admits a critical flaw in its QNX OS, impacting 200M+ cars, hospital equipment, more; sources say it resisted public disclosure until talks with CISA (Politico)](http://www.techmeme.com/210817/p38#a210817p38)
+ - [AirTag helps find stolen motorcycle, may have acted as a deterrent](https://appleinsider.com/articles/21/08/17/airtag-helps-find-stolen-motorcycle-may-have-acted-as-a-deterrent?utm_medium=rss)
+ - [Apple releases watchOS 8 beta 6 to developers](https://appleinsider.com/articles/21/08/17/apple-releases-watchos-8-beta-6-to-developers?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
