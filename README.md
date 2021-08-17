@@ -180,9 +180,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Behind the creative boss design of RPG brawler Young Souls](http://feedproxy.google.com/~r/PSBlog/~3/wg6c710N8uQ/)
- - [Behind the creative boss design of RPG brawler Young Souls](https://blog.playstation.com/2021/08/17/behind-the-creative-boss-design-of-rpg-brawler-young-souls/)
- - [Coming Soon to Xbox Game Pass: Psychonauts 2, Humankind, Twelve Minutes, and More](https://news.xbox.com/en-us/2021/08/17/coming-soon-xbox-game-pass-wave-2-august-2021/)<!-- GAME:END -->
+ - [Ratchet & Clank blasts into Rocket League, plus ride into Season 4](http://feedproxy.google.com/~r/PSBlog/~3/cx9wSrROrHU/)
+ - [Ratchet & Clank blasts into Rocket League, plus ride into Season 4](https://blog.playstation.com/2021/08/17/ratchet-clank-blasts-into-rocket-league-plus-ride-into-season-4/)
+ - [Myst is Coming to Xbox for the First Time on August 26 with Xbox Game Pass](https://news.xbox.com/en-us/2021/08/17/myst-is-coming-august-26-with-xbox-game-pass/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
