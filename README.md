@@ -187,9 +187,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily Authority: Intel takes on GPU kings 👑](https://www.androidauthority.com/newsletters/da-august-17-2021/)
- - [Future Apple Watch band may include hydration sensor, after years of research](https://appleinsider.com/articles/21/08/17/apple-may-finally-include-hydration-sensor-in-an-apple-watch-band?utm_medium=rss)
- - [African fintech Pngme raises $15M for its financial data infrastructure platform](http://feedproxy.google.com/~r/Techcrunch/~3/70THDf-ROIg/)<!-- TECH:END -->
+ - [Salesforce announces deeper integration between its services and Slack, including Sales Cloud and Tableau, following the close of its Slack acquisition (Kyle Wiggers/VentureBeat)](http://www.techmeme.com/210817/p17#a210817p17)
+ - [Travel booking app Hopper raises $170M Series G at a $3.5B+ valuation, after raising $170M Series F in March 2021, bringing its total raised to nearly $600M (Darrell Etherington/TechCrunch)](http://www.techmeme.com/210817/p16#a210817p16)
+ - [OnlyFans begins promoting OFTV, a free safe-for-work app available on iOS and Android with 800+ videos, as it prepares to raise new funding (Lucas Shaw/Bloomberg)](http://www.techmeme.com/210817/p15#a210817p15)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
