@@ -180,9 +180,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [California claims Riot is delaying its sexual harassment investigation](https://www.pcgamer.com/california-claims-riot-is-delaying-its-sexual-harassment-investigation)
- - [Noctua will offer free CPU cooler mounting kits for Intel Alder Lake](https://www.pcgamer.com/noctua-free-intel-alder-lake-lga-1700-cpu-cooler)
- - [Final Fantasy Fans, Here Is A Very Cool Video](https://kotaku.com/final-fantasy-fans-here-is-a-very-cool-video-1847498619)<!-- GAME:END -->
+ - [Assassin's Creed Valhalla: The Siege of Paris choices guide](https://www.pcgamer.com/ac-valhalla-charles-kill-or-spare)
+ - [Apex Legends streamer grinds to top rank in a marathon 54-hour session](https://www.pcgamer.com/apex-legends-streamer-grinds-to-top-rank-in-a-marathon-54-hour-session)
+ - [AMD's newest GPU drivers reduce power usage in YouTube, but only at 4K](https://www.pcgamer.com/amds-newest-gpu-drivers-reduce-power-usage-in-youtube-but-only-at-4k)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
