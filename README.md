@@ -180,9 +180,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [All That Stranger Things Stuff In Dead By Daylight Is About To Vanish](https://kotaku.com/all-that-stranger-things-stuff-in-dead-by-daylight-is-a-1847497663)
- - [Riot must let workers talk to ‘unlawful workplace’ investigators, California says](https://www.polygon.com/22627866/riot-games-lawsuit-workers-rights-sexual-harassment-discrimination)
- - [New Valheim video outlines upcoming changes to blocking and staggering](https://www.pcgamer.com/new-valheim-video-outlines-upcoming-changes-to-blocking-and-staggering)<!-- GAME:END -->
+ - [League Of Legends Player Arrested By Off-Duty Cop In Internet Café](https://kotaku.com/league-of-legends-player-arrested-by-off-duty-cop-in-in-1847498225)
+ - [Naraka: Bladepoint tips: how to counter, get more kills, and live longer](https://www.pcgamer.com/naraka-bladepoint-tips-guide)
+ - [How Deathloop defies the immersive sim's reliance on quick save](https://www.pcgamer.com/how-deathloop-defies-the-immersive-sims-reliance-on-quick-save)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
