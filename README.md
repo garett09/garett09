@@ -187,9 +187,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Salesforce announces deeper integration between its services and Slack, including Sales Cloud and Tableau, following the close of its Slack acquisition (Kyle Wiggers/VentureBeat)](http://www.techmeme.com/210817/p17#a210817p17)
- - [Travel booking app Hopper raises $170M Series G at a $3.5B+ valuation, after raising $170M Series F in March 2021, bringing its total raised to nearly $600M (Darrell Etherington/TechCrunch)](http://www.techmeme.com/210817/p16#a210817p16)
- - [OnlyFans begins promoting OFTV, a free safe-for-work app available on iOS and Android with 800+ videos, as it prepares to raise new funding (Lucas Shaw/Bloomberg)](http://www.techmeme.com/210817/p15#a210817p15)<!-- TECH:END -->
+ - [iOS 15 lets you disable Night Mode on an iPhone camera](https://www.theverge.com/2021/8/17/22628619/apple-ios-15-disable-night-mode-feature-option)
+ - [Meet the self-driving brains inside Volkswagen and Ford](https://www.theverge.com/22627847/argo-ai-bryan-salesky-decoder-interview-lyft-self-driving)
+ - [Mastercard will start removing magnetic strips from its cards in 2024     - CNET](https://www.cnet.com/tech/services-and-software/mastercard-will-start-removing-magnetic-strips-from-its-cards-in-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
