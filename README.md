@@ -194,9 +194,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It&#039;s sad but true](http://9gag.com/gag/amPw104)
+ - 🚖 [Toy makers should rethink.](http://9gag.com/gag/av5w1wb)
  - 🚯 [I was there. 3000 years ago](http://9gag.com/gag/awM233y)
- - 🚯 [Just Russian things....](http://9gag.com/gag/aDd57yK)<!-- MEMES:END -->
+ - 🚯 [Go fails!!](http://9gag.com/gag/a4Ey6zd)<!-- MEMES:END -->
 
 --- 
 
