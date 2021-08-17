@@ -194,9 +194,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The bad guys will make the good guy look like the bad one.](http://9gag.com/gag/a4EyPGd)
- - 🚯 [No stress.](http://9gag.com/gag/a6E6DnN)
- - 🚯 [The Singing Ringing Tree with sound.](http://9gag.com/gag/aK651vO)<!-- MEMES:END -->
+ - 🚖 [This motherf**ker right here](http://9gag.com/gag/aLp5LnA)
+ - 🚯 [For all us corporate slaves.](http://9gag.com/gag/ajmw7yQ)
+ - 🚯 [Yes from Twitter but 640 people saved](http://9gag.com/gag/aMK5ED6)<!-- MEMES:END -->
 
 --- 
 
