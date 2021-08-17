@@ -194,9 +194,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Futurama is better than The Simpsons](http://9gag.com/gag/a6E6ZXR)
- - 🚯 [16 years ago I was there....all for nothing](http://9gag.com/gag/ayMw9OY)
- - 🚯 [If you are one of these people who creepily stalks and stares at celebrities trying to live their lives, you should be very ashamed of yourself. Seriously. This is creepy and gross.](http://9gag.com/gag/aP32gwq)<!-- MEMES:END -->
+ - 🚖 [Nice landing man](http://9gag.com/gag/a9E0zqK)
+ - 🚯 [Why is there a Trump (MAGA) hat?](http://9gag.com/gag/azMw2Aq)
+ - 🚯 [The situation right now](http://9gag.com/gag/aDd57dK)<!-- MEMES:END -->
 
 --- 
 
