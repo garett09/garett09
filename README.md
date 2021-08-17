@@ -187,9 +187,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best price yet on the Roku Express 4K Plus, and more cheap Roku deals](https://www.androidauthority.com/best-cheap-roku-deals-1115065/)
- - [Drought-choked Colorado River faces an unprecedented water shortage](https://www.theverge.com/2021/8/16/22627681/water-shortage-lake-mead-hoover-dam-colorado-river)
- - [Best early Labor Day mattress deals: Discounts from Tuft & Needle, Amerisleep, Tempur-Pedic, Birch and more     - CNET](https://www.cnet.com/health/sleep/best-mattress-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Toyota recalls 31,307 2019-2020 Yaris models over faulty low-pressure fuel pumps     - Roadshow](https://www.cnet.com/roadshow/news/toyota-yaris-2019-2020-recall-fuel-pump/#ftag=CAD590a51e)
+ - [WWE SummerSlam 2021: How to watch, Saturday start times and predictions     - CNET](https://www.cnet.com/news/wwe-summerslam-2021-how-to-watch-saturday-start-times-and-predictions/#ftag=CAD590a51e)
+ - [Why Jeff Bezos' Blue Origin is going to war with NASA and SpaceX     - CNET](https://www.cnet.com/news/why-jeff-bezos-blue-origin-is-going-to-war-with-nasa-and-spacex/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
