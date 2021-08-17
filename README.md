@@ -180,9 +180,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Next Pokémon Patch Is Gonna Kill Our Sleepy Boy, Snorlax](https://kotaku.com/the-next-pokemon-patch-is-gonna-murder-our-sleepy-boy-1847500983)
- - [Bringing Recompile’s striking art style to life](http://feedproxy.google.com/~r/PSBlog/~3/4mcjM4I79Ag/)
- - [Bringing Recompile’s striking art style to life](https://blog.playstation.com/2021/08/17/bringing-recompiles-striking-art-style-to-life/)<!-- GAME:END -->
+ - [8 historical board games, from diverse designers, that show great promise](https://www.polygon.com/tabletop-games/22628696/zenobia-award-finalists-2021-tabletop-games-diversity)
+ - [Fracked gameplay tips for saving the world](http://feedproxy.google.com/~r/PSBlog/~3/tcWhvEW7HyQ/)
+ - [Fracked gameplay tips for saving the world](https://blog.playstation.com/2021/08/17/fracked-gameplay-tips-for-saving-the-world/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
