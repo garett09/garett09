@@ -180,9 +180,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Here’s the Xbox Series S running PS1 games in 4K](https://www.polygon.com/22629340/xbox-series-s-running-playstation-1-games-in-4k)
- - [There’s nothing cuddly about this Woolly World version of Snake](https://www.polygon.com/22626954/snake-classic-3d-puzzle-dungeon-game-development)
- - [Komi Can’t Communicate anime has a release date and a new trailer](https://www.polygon.com/22629343/komi-cant-communicate-anime-trailer-release-date-streaming)<!-- GAME:END -->
+ - [Anime girls can finally chill](https://www.polygon.com/22629147/anime-girls-iyashikei-shows)
+ - [Millions Of Players Later, Outriders Devs Still Waiting For Money](https://kotaku.com/millions-of-players-later-outriders-devs-still-waiting-1847504451)
+ - [Eve Online’s yearlong war ends with an epic retreat](https://www.polygon.com/features/22628973/eve-online-world-war-bee-2-imperium-wins-papi-loses)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
