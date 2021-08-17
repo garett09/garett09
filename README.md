@@ -187,9 +187,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Vienna-based crypto trading platform Bitpanda raises $263M led by Valar Ventures at a $4.1B valuation, up from $1.2B five months ago (Ryan Browne/CNBC)](http://www.techmeme.com/210817/p2#a210817p2)
- - [Apple Pay accounted for 92% of US mobile wallet debit transactions in 2020, study says](https://appleinsider.com/articles/21/08/17/apple-pay-accounted-for-92-of-us-mobile-wallet-debit-transactions-in-2020-study-says?utm_medium=rss)
- - [Apple Pay launches in Qatar with QNB integration](https://appleinsider.com/articles/21/08/17/apple-pay-launches-in-qatar-with-qnb-integration?utm_medium=rss)<!-- TECH:END -->
+ - [A leaked bill for Nigerian startups reveals a theme of licenses, fees, fines, and sentences](http://feedproxy.google.com/~r/Techcrunch/~3/2d9DJOqsgcU/)
+ - [Shares in Alibaba, Tencent, and JD fall after China's antitrust watchdog announces a ban on unfair competitive practices, including exploiting user data (Christian Shepherd/Financial Times)](http://www.techmeme.com/210817/p7#a210817p7)
+ - [Researcher finds a terrorist watchlist of 1.9M people, including "no-fly" records, on an unsecured Elasticsearch cluster; DHS later took the server offline (Ax Sharma/BleepingComputer)](http://www.techmeme.com/210817/p6#a210817p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
