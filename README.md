@@ -187,9 +187,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple seeds sixth developer betas for iOS 15, iPadOS 15, tvOS 15](https://appleinsider.com/articles/21/08/17/apple-seeds-sixth-developer-betas-for-ios-15-ipados-15-tvos-15?utm_medium=rss)
- - [CES 2022 to require proof of vaccination for attendees, exhibitors](https://www.theverge.com/2021/8/17/22628787/ces-2022-covid-19-vaccine-proof-cta)
- - [If you see Reddit down right now, you are not alone](https://www.androidauthority.com/reddit-not-working-how-to-fix-1184723/)<!-- TECH:END -->
+ - [German government wants Tim Cook to reconsider CSAM plans](https://appleinsider.com/articles/21/08/17/germany-writes-to-tim-cook-to-reconsider-csam-plans?utm_medium=rss)
+ - [Apple giving iOS 15 users choice between new and old Safari design](https://appleinsider.com/articles/21/08/17/apple-giving-ios-15-users-choice-between-new-and-old-safari-design?utm_medium=rss)
+ - [Google confirms the Pixel 6 won’t ship with a charger in the box](https://www.androidauthority.com/google-pixel-6-charger-2736258/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
