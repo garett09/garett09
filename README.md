@@ -187,9 +187,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A leaked bill for Nigerian startups reveals a theme of licenses, fees, fines, and sentences](http://feedproxy.google.com/~r/Techcrunch/~3/2d9DJOqsgcU/)
- - [Shares in Alibaba, Tencent, and JD fall after China's antitrust watchdog announces a ban on unfair competitive practices, including exploiting user data (Christian Shepherd/Financial Times)](http://www.techmeme.com/210817/p7#a210817p7)
- - [Researcher finds a terrorist watchlist of 1.9M people, including "no-fly" records, on an unsecured Elasticsearch cluster; DHS later took the server offline (Ax Sharma/BleepingComputer)](http://www.techmeme.com/210817/p6#a210817p6)<!-- TECH:END -->
+ - [Daily Authority: Intel takes on GPU kings 👑](https://www.androidauthority.com/newsletters/da-august-17-2021/)
+ - [Future Apple Watch band may include hydration sensor, after years of research](https://appleinsider.com/articles/21/08/17/apple-may-finally-include-hydration-sensor-in-an-apple-watch-band?utm_medium=rss)
+ - [African fintech Pngme raises $15M for its financial data infrastructure platform](http://feedproxy.google.com/~r/Techcrunch/~3/70THDf-ROIg/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
