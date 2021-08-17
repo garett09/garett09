@@ -187,9 +187,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple and Google's vague and inconsistent policies around hookup apps can harm LGBTQ people, especially those in countries with explicitly anti-LGBTQ laws (Wired UK)](http://www.techmeme.com/210816/p29#a210816p29)
- - [Apple now offers annual AppleCare+ subscriptions for new Mac owners](https://appleinsider.com/articles/21/08/17/apple-now-offers-annual-applecare-subscriptions-for-new-mac-owners?utm_medium=rss)
- - [California regulators think T-Mobile lied to get Sprint merger approved](https://www.theverge.com/2021/8/16/22627940/t-mobile-dish-network-cdma-sunset-cpuc-ruling)<!-- TECH:END -->
+ - [T-Mobile confirms hack that may have compromised 100 million users (Updated)](https://www.androidauthority.com/t-mobile-hacked-2735038/)
+ - [Apple Pay accounted for 92% of US mobile wallet debit transactions in 2020, study says](https://appleinsider.com/articles/21/08/17/apple-pay-accounted-for-92-of-us-mobile-wallet-debit-transactions-in-2020-study-says?utm_medium=rss)
+ - [Apple to restart in-person 'Today at Apple' sessions in US, Europe on Aug. 30](https://appleinsider.com/articles/21/08/16/apple-to-restart-in-person-today-at-apple-sessions-in-us-europe-on-aug-30?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
