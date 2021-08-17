@@ -187,9 +187,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [T-Mobile confirms hack that may have compromised 100 million users (Updated)](https://www.androidauthority.com/t-mobile-hacked-2735038/)
- - [Apple Pay accounted for 92% of US mobile wallet debit transactions in 2020, study says](https://appleinsider.com/articles/21/08/17/apple-pay-accounted-for-92-of-us-mobile-wallet-debit-transactions-in-2020-study-says?utm_medium=rss)
- - [Arctic Ocean fossils suggest climate change might not be so great for plankton     - CNET](https://www.cnet.com/news/arctic-ocean-fossils-suggest-climate-change-might-not-be-so-great-for-plankton/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Astro teams up with Timbuk2 to make bags for all of your gaming gear](https://www.theverge.com/2021/8/17/22626981/astro-timbuk2-bp35-cs03-backpack-crossbody-sling-price)
+ - [NASA Mars helicopter nails 12th flight, scouts ahead for Perseverance rover     - CNET](https://www.cnet.com/news/nasa-mars-helicopter-nails-12th-flight-scouts-ahead-for-perseverance-rover/#ftag=CAD590a51e)
+ - [T-Mobile confirms hack that may have compromised 100 million users (Updated)](https://www.androidauthority.com/t-mobile-hacked-2735038/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
