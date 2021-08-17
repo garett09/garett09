@@ -180,9 +180,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Ratchet & Clank blasts into Rocket League, plus ride into Season 4](http://feedproxy.google.com/~r/PSBlog/~3/cx9wSrROrHU/)
- - [Ratchet & Clank blasts into Rocket League, plus ride into Season 4](https://blog.playstation.com/2021/08/17/ratchet-clank-blasts-into-rocket-league-plus-ride-into-season-4/)
- - [Myst is Coming to Xbox for the First Time on August 26 with Xbox Game Pass](https://news.xbox.com/en-us/2021/08/17/myst-is-coming-august-26-with-xbox-game-pass/)<!-- GAME:END -->
+ - [The Next Pokémon Patch Is Gonna Kill Our Sleepy Boy, Snorlax](https://kotaku.com/the-next-pokemon-patch-is-gonna-murder-our-sleepy-boy-1847500983)
+ - [Bringing Recompile’s striking art style to life](http://feedproxy.google.com/~r/PSBlog/~3/4mcjM4I79Ag/)
+ - [Bringing Recompile’s striking art style to life](https://blog.playstation.com/2021/08/17/bringing-recompiles-striking-art-style-to-life/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
