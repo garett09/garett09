@@ -187,9 +187,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Deals August 17 - 30% off Monoprice office, $15 off Amazon Echo Dot, and more!](https://appleinsider.com/articles/21/08/17/best-deals-august-17---30-off-monoprice-office-15-off-amazon-echo-dot-and-more?utm_medium=rss)
- - [Discover all things biotech with Mayfield at Disrupt 2021](http://feedproxy.google.com/~r/Techcrunch/~3/Es9PmaCx4VI/)
- - [Nura offers a smaller, cheaper version of its wireless earbuds for rent](http://feedproxy.google.com/~r/Techcrunch/~3/qhqFZhf7xec/)<!-- TECH:END -->
+ - [Governments should invest in their diaspora founders](http://feedproxy.google.com/~r/Techcrunch/~3/BDZ4Z9n4u3s/)
+ - [Google says the Pixel 5a is the last Pixel phone that will come with a charging brick, claiming most people already have a USB-C charger (Allison Johnson/The Verge)](http://www.techmeme.com/210817/p25#a210817p25)
+ - [As its startup market accelerates, Brazil could be in for an IPO bonanza](http://feedproxy.google.com/~r/Techcrunch/~3/EnaGyPY6FmE/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
