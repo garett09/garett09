@@ -194,8 +194,8 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Best feeling ever, right guys?](http://9gag.com/gag/anQwQ6o)
- - 🚯 [Interesting](http://9gag.com/gag/av5wQDZ)
+ - 🚖 [Interesting](http://9gag.com/gag/av5wQDZ)
+ - 🚯 [Bush did it again](http://9gag.com/gag/apNwNW9)
  - 🚯 [Learning to walk for the third time at 26 after multiple medical interventions. It&rsquo;s not about where you&rsquo;ve been, it&rsquo;s about where you&rsquo;re going. Keep trucking on!](http://9gag.com/gag/a8EOq13)<!-- MEMES:END -->
 
 --- 
