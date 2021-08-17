@@ -187,9 +187,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Intel says it's "winding down" its RealSense camera business, which focused on hardware for computer vision applications (Dylan Martin/CRN)](http://www.techmeme.com/210817/p34#a210817p34)
- - [YouTube Premium subscribers can get three months of Stadia Pro for free](https://www.theverge.com/2021/8/17/22629313/youtube-premium-stadia-pro-deal-three-months-free)
- - [Roblox is struggling to moderate re-creations of mass shootings](https://www.theverge.com/2021/8/17/22628624/roblox-moderation-trust-and-safety-terrorist-content-christchurch)<!-- TECH:END -->
+ - [The Consumer Technology Association says attendees of CES 2022 will be required to show proof of COVID-19 vaccination (Carrie Mihalcik/CNET)](http://www.techmeme.com/210817/p37#a210817p37)
+ - [Save up to $1,200 on the iPhone 12 with Verizon, and more great iPhone deals](https://www.androidauthority.com/best-iphone-deals-1117011/)
+ - [Scripps Health, a CA-based healthcare provider with 25 facilities including 5 hospitals, says it expects to lose ~$106.8M after a ransomware attack in May 2021 (Catalin Cimpanu/The Record)](http://www.techmeme.com/210817/p36#a210817p36)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
