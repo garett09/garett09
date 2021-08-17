@@ -194,8 +194,8 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The drivers where i live](http://9gag.com/gag/aZ05w0X)
- - 🚯 [My wife and I are divorcing and it&#039;s been immensely stressful. Half an hour ago one of our cats, who never ever lay on my lap before, installed herself here and now refuses to leave. We don&#039;t deserve animals..](http://9gag.com/gag/a3ErAK8)
+ - 🚖 [My wife and I are divorcing and it&#039;s been immensely stressful. Half an hour ago one of our cats, who never ever lay on my lap before, installed herself here and now refuses to leave. We don&#039;t deserve animals..](http://9gag.com/gag/a3ErAK8)
+ - 🚯 [Darwin Award Contenders.](http://9gag.com/gag/aZ05wvn)
  - 🚯 [Want to enjoy some &ldquo;Mii&rdquo; time? It&rsquo;s time! Win a Nintendo Switch from Club9 x GameTaster!](http://9gag.com/gag/aWj5nLK)<!-- MEMES:END -->
 
 --- 
