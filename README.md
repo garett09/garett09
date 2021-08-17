@@ -194,8 +194,8 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [1 case?!](http://9gag.com/gag/anQwR90)
- - 🚯 [We strike at dawn!!!](http://9gag.com/gag/azMwK9q)
+ - 🚖 [We strike at dawn!!!](http://9gag.com/gag/azMwK9q)
+ - 🚯 [This is money dog&hellip; money will rain on you within the next 24 hours](http://9gag.com/gag/aqjwQRP)
  - 🚯 [Want to enjoy some &ldquo;Mii&rdquo; time? It&rsquo;s time! Win a Nintendo Switch from Club9 x GameTaster!](http://9gag.com/gag/aWj5nLK)<!-- MEMES:END -->
 
 --- 
