@@ -194,7 +194,7 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Fairn&#039;t?](http://9gag.com/gag/apNw6qb)
+ - 🚖 [A piece of Internet&#039;s history in HD, 60 fps](http://9gag.com/gag/aDd5ZLd)
  - 🚯 [Mi no spik Enqwish - in the name of Shakespeare! Wtf are they sayin&#039;?](http://9gag.com/gag/aQo5Axd)
  - 🚯 [Want to enjoy some &ldquo;Mii&rdquo; time? It&rsquo;s time! Win a Nintendo Switch from Club9 x GameTaster!](http://9gag.com/gag/aWj5nLK)<!-- MEMES:END -->
 
