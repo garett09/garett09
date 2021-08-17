@@ -194,8 +194,8 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Pure wholesome Dad being Dad](http://9gag.com/gag/aDd58jK)
- - 🚯 [&quot;There&#039;s no point in sending troops to afghan if its army doesnt want to defend its own nation&quot; - Biden remarks on 16 August 2021 after the fall of afghan](http://9gag.com/gag/aAb5QzZ)
+ - 🚖 [1 case?!](http://9gag.com/gag/anQwR90)
+ - 🚯 [We strike at dawn!!!](http://9gag.com/gag/azMwK9q)
  - 🚯 [Want to enjoy some &ldquo;Mii&rdquo; time? It&rsquo;s time! Win a Nintendo Switch from Club9 x GameTaster!](http://9gag.com/gag/aWj5nLK)<!-- MEMES:END -->
 
 --- 
