@@ -180,9 +180,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Junji Ito does Lovecraft better than Lovecraft in Sensor](https://www.polygon.com/22628986/sensor-junji-ito-review-english-viz)
- - [Adventure Time’s Fionna and Cake getting a spinoff series](https://www.polygon.com/animation-cartoons/2021/8/17/22629161/adventure-time-fionna-and-cake-series-hbo-max)
- - [Sizing up the 10 most popular things on Netflix right now](https://www.polygon.com/2020/3/10/21167710/10-netflix-movies-shows-most-popular)<!-- GAME:END -->
+ - [Greak: Memories of Azur Available Now for Xbox Series X|S](https://news.xbox.com/en-us/2021/08/17/greak-memories-of-azur-available-now-for-xbox-series-xs/)
+ - [Axiom Verge 2 is obsessed, and cursed, with nostalgia](https://www.polygon.com/reviews/22629138/axiom-verge-2-review-metroidvania-nintendo-switch-ps4-pc-epic-games-store)
+ - [Cyberpunk 2077 patch 1.3 will include DLC and fixes for nearly 100 quests](https://www.polygon.com/22629210/cyberpunk-2077-patch-notes-13-release-date-playstation-xbox-pc-stadia)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
