@@ -194,9 +194,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This motherf**ker right here](http://9gag.com/gag/aLp5LnA)
+ - 🚖 [Life](http://9gag.com/gag/aXo1L8z)
  - 🚯 [For all us corporate slaves.](http://9gag.com/gag/ajmw7yQ)
- - 🚯 [Yes from Twitter but 640 people saved](http://9gag.com/gag/aMK5ED6)<!-- MEMES:END -->
+ - 🚯 [Little Known Fact: Sudan (a country in Africa) has more than 200 pyramids dating back to 5,000 years.](http://9gag.com/gag/aZ05n9n)<!-- MEMES:END -->
 
 --- 
 
