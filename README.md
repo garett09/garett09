@@ -187,9 +187,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iOS 15 lets you disable Night Mode on an iPhone camera](https://www.theverge.com/2021/8/17/22628619/apple-ios-15-disable-night-mode-feature-option)
- - [Meet the self-driving brains inside Volkswagen and Ford](https://www.theverge.com/22627847/argo-ai-bryan-salesky-decoder-interview-lyft-self-driving)
- - [Mastercard will start removing magnetic strips from its cards in 2024     - CNET](https://www.cnet.com/tech/services-and-software/mastercard-will-start-removing-magnetic-strips-from-its-cards-in-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [OWC shipping Mercury Pro LTO backup solution with new ArGest software](https://appleinsider.com/articles/21/08/17/owc-shipping-mercury-pro-lto-backup-solution-with-new-argest-software?utm_medium=rss)
+ - [A bug in a medical startup’s website put thousands of COVID-19 test results at risk](http://feedproxy.google.com/~r/Techcrunch/~3/SEnO4WG9-G0/)
+ - [Boston Dynamics shows how bipedal Atlas robot flips, vaults, and falls over in latest videos](https://www.theverge.com/2021/8/17/22628663/boston-dynamics-atlas-video-parkour-flips-falls-program)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
