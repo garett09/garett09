@@ -187,9 +187,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Governments should invest in their diaspora founders](http://feedproxy.google.com/~r/Techcrunch/~3/BDZ4Z9n4u3s/)
- - [Google says the Pixel 5a is the last Pixel phone that will come with a charging brick, claiming most people already have a USB-C charger (Allison Johnson/The Verge)](http://www.techmeme.com/210817/p25#a210817p25)
- - [As its startup market accelerates, Brazil could be in for an IPO bonanza](http://feedproxy.google.com/~r/Techcrunch/~3/EnaGyPY6FmE/)<!-- TECH:END -->
+ - [Apple seeds sixth developer betas for iOS 15, iPadOS 15, tvOS 15](https://appleinsider.com/articles/21/08/17/apple-seeds-sixth-developer-betas-for-ios-15-ipados-15-tvos-15?utm_medium=rss)
+ - [CES 2022 to require proof of vaccination for attendees, exhibitors](https://www.theverge.com/2021/8/17/22628787/ces-2022-covid-19-vaccine-proof-cta)
+ - [If you see Reddit down right now, you are not alone](https://www.androidauthority.com/reddit-not-working-how-to-fix-1184723/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
