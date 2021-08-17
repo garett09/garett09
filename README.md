@@ -194,9 +194,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Toy makers should rethink.](http://9gag.com/gag/av5w1wb)
- - 🚯 [I was there. 3000 years ago](http://9gag.com/gag/awM233y)
- - 🚯 [Go fails!!](http://9gag.com/gag/a4Ey6zd)<!-- MEMES:END -->
+ - 🚖 [Marbles in their mouth...](http://9gag.com/gag/a07qVZd)
+ - 🚯 [Go fails!!](http://9gag.com/gag/a4Ey6zd)
+ - 🚯 [When people are arguing wether to blame Trump or Biden but you&#039;re the one who started it all](http://9gag.com/gag/av5w17X)<!-- MEMES:END -->
 
 --- 
 
