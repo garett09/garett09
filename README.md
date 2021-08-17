@@ -187,9 +187,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [German government wants Tim Cook to reconsider CSAM plans](https://appleinsider.com/articles/21/08/17/germany-writes-to-tim-cook-to-reconsider-csam-plans?utm_medium=rss)
- - [Apple giving iOS 15 users choice between new and old Safari design](https://appleinsider.com/articles/21/08/17/apple-giving-ios-15-users-choice-between-new-and-old-safari-design?utm_medium=rss)
- - [Google confirms the Pixel 6 won’t ship with a charger in the box](https://www.androidauthority.com/google-pixel-6-charger-2736258/)<!-- TECH:END -->
+ - [Following Revolut's valuation jump from $5.5B in 2020 to $33B this July, at least 76 past and current employees now own shares worth $1M+, per UK public records (Isabel Woodford/Sifted)](http://www.techmeme.com/210817/p32#a210817p32)
+ - [Twitter asks users to flag COVID-19 and election misinformation](http://feedproxy.google.com/~r/Techcrunch/~3/CJJKanSZTMk/)
+ - [Twitter launches new process for reporting COVID misinformation](https://www.theverge.com/2021/8/17/22629097/twitter-misinformation-health-covid19-reporting-feature-white-house)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
