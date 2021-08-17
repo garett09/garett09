@@ -180,9 +180,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Assassin's Creed Valhalla: The Siege of Paris choices guide](https://www.pcgamer.com/ac-valhalla-charles-kill-or-spare)
- - [Apex Legends streamer grinds to top rank in a marathon 54-hour session](https://www.pcgamer.com/apex-legends-streamer-grinds-to-top-rank-in-a-marathon-54-hour-session)
- - [AMD's newest GPU drivers reduce power usage in YouTube, but only at 4K](https://www.pcgamer.com/amds-newest-gpu-drivers-reduce-power-usage-in-youtube-but-only-at-4k)<!-- GAME:END -->
+ - [Behind the creative boss design of RPG brawler Young Souls](http://feedproxy.google.com/~r/PSBlog/~3/wg6c710N8uQ/)
+ - [Behind the creative boss design of RPG brawler Young Souls](https://blog.playstation.com/2021/08/17/behind-the-creative-boss-design-of-rpg-brawler-young-souls/)
+ - [Coming Soon to Xbox Game Pass: Psychonauts 2, Humankind, Twelve Minutes, and More](https://news.xbox.com/en-us/2021/08/17/coming-soon-xbox-game-pass-wave-2-august-2021/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
