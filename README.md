@@ -180,9 +180,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Free Guy’s title is ancient gamer slang](https://www.polygon.com/22629503/free-guy-disney-movie-gaming-slang-meaning)
- - [It looks like Will Smith is going to do the 'Bim Bam toi' in Fortnite](https://www.pcgamer.com/it-looks-like-will-smith-is-going-to-do-the-bim-bam-toi-in-fortnite)
- - [The hacker who stole and gave back $600M has been offered a job and reward from the company he stole from](https://www.pcgamer.com/the-hacker-who-stole-and-gave-back-dollar600m-has-been-offered-a-job-and-reward-from-the-company-he-stole-from)<!-- GAME:END -->
+ - [Fortnite finally adds Morty to its Rick and Morty crossover](https://www.pcgamer.com/fortnite-finally-adds-morty-to-its-rick-and-morty-crossover)
+ - [Among Us Devs Aren't Feeling Fortnite’s New ‘Impostors’ Mode](https://kotaku.com/among-us-devs-arent-feeling-fortnite-s-new-impostors-1847505281)
+ - [Free Guy’s title is ancient gamer slang](https://www.polygon.com/22629503/free-guy-disney-movie-gaming-slang-meaning)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
