@@ -187,9 +187,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Watch used to call for help during armed burglary](https://appleinsider.com/articles/21/08/17/apple-watch-used-to-call-for-help-during-armed-burglary?utm_medium=rss)
- - [Revenue-based financing startup Jenfi raises $6.3M to focus on high-growth Southeast Asian companies](http://feedproxy.google.com/~r/Techcrunch/~3/B4B14exSf_s/)
- - [Scientists tweak daddy long legs genes to make daddy short legs     - CNET](https://www.cnet.com/news/scientists-tweak-daddy-long-legs-genes-to-make-daddy-short-legs/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [California regulators think T-Mobile lied to get Sprint merger approved](https://www.theverge.com/2021/8/16/22627940/t-mobile-dish-network-cdma-sunset-cpuc-ruling)
+ - [Apple now offers annual AppleCare+ subscriptions for new Mac owners](https://appleinsider.com/articles/21/08/17/apple-now-offers-annual-applecare-subscriptions-for-new-mac-owners?utm_medium=rss)
+ - [CM Punk in-ring return: The AEW rumors explained     - CNET](https://www.cnet.com/news/cm-punk-in-ring-return-the-aew-rumors-explained/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
