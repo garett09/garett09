@@ -187,9 +187,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OWC shipping Mercury Pro LTO backup solution with new ArGest software](https://appleinsider.com/articles/21/08/17/owc-shipping-mercury-pro-lto-backup-solution-with-new-argest-software?utm_medium=rss)
- - [A bug in a medical startup’s website put thousands of COVID-19 test results at risk](http://feedproxy.google.com/~r/Techcrunch/~3/SEnO4WG9-G0/)
- - [Boston Dynamics shows how bipedal Atlas robot flips, vaults, and falls over in latest videos](https://www.theverge.com/2021/8/17/22628663/boston-dynamics-atlas-video-parkour-flips-falls-program)<!-- TECH:END -->
+ - [Best Deals August 17 - 30% off Monoprice office, $15 off Amazon Echo Dot, and more!](https://appleinsider.com/articles/21/08/17/best-deals-august-17---30-off-monoprice-office-15-off-amazon-echo-dot-and-more?utm_medium=rss)
+ - [Discover all things biotech with Mayfield at Disrupt 2021](http://feedproxy.google.com/~r/Techcrunch/~3/Es9PmaCx4VI/)
+ - [Nura offers a smaller, cheaper version of its wireless earbuds for rent](http://feedproxy.google.com/~r/Techcrunch/~3/qhqFZhf7xec/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
