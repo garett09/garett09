@@ -180,9 +180,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Final Fantasy Fans, Here Is A Very Cool Video](https://kotaku.com/final-fantasy-fans-here-is-a-very-cool-video-1847498619)
- - [Here are all the free games you can grab right now](https://www.pcgamer.com/here-are-all-the-free-games-you-can-grab-right-now)
- - [Mortal Shell’s new roguelike expansion is free-to-keep for a limited time](https://www.pcgamer.com/mortal-shells-new-roguelike-expansion-is-free-to-keep-for-a-limited-time)<!-- GAME:END -->
+ - [California claims Riot is delaying its sexual harassment investigation](https://www.pcgamer.com/california-claims-riot-is-delaying-its-sexual-harassment-investigation)
+ - [Noctua will offer free CPU cooler mounting kits for Intel Alder Lake](https://www.pcgamer.com/noctua-free-intel-alder-lake-lga-1700-cpu-cooler)
+ - [Final Fantasy Fans, Here Is A Very Cool Video](https://kotaku.com/final-fantasy-fans-here-is-a-very-cool-video-1847498619)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
