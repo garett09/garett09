@@ -180,9 +180,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Anime girls can finally chill](https://www.polygon.com/22629147/anime-girls-iyashikei-shows)
- - [Millions Of Players Later, Outriders Devs Still Waiting For Money](https://kotaku.com/millions-of-players-later-outriders-devs-still-waiting-1847504451)
- - [Eve Online’s yearlong war ends with an epic retreat](https://www.polygon.com/features/22628973/eve-online-world-war-bee-2-imperium-wins-papi-loses)<!-- GAME:END -->
+ - [Free Guy’s title is ancient gamer slang](https://www.polygon.com/22629503/free-guy-disney-movie-gaming-slang-meaning)
+ - [It looks like Will Smith is going to do the 'Bim Bam toi' in Fortnite](https://www.pcgamer.com/it-looks-like-will-smith-is-going-to-do-the-bim-bam-toi-in-fortnite)
+ - [The hacker who stole and gave back $600M has been offered a job and reward from the company he stole from](https://www.pcgamer.com/the-hacker-who-stole-and-gave-back-dollar600m-has-been-offered-a-job-and-reward-from-the-company-he-stole-from)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
