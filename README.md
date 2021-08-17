@@ -194,8 +194,8 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Take flight](http://9gag.com/gag/aP328rV)
- - 🚯 [These gas prices are insane](http://9gag.com/gag/anQwvV0)
+ - 🚖 [Fairn&#039;t?](http://9gag.com/gag/apNw6qb)
+ - 🚯 [Mi no spik Enqwish - in the name of Shakespeare! Wtf are they sayin&#039;?](http://9gag.com/gag/aQo5Axd)
  - 🚯 [Want to enjoy some &ldquo;Mii&rdquo; time? It&rsquo;s time! Win a Nintendo Switch from Club9 x GameTaster!](http://9gag.com/gag/aWj5nLK)<!-- MEMES:END -->
 
 --- 
