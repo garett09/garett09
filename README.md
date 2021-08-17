@@ -180,9 +180,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Arson Suspected After House Of Twitch's Biggest Female Star Catches Fire](https://kotaku.com/arson-suspected-after-house-of-twitchs-biggest-female-s-1847502001)
- - [Creating the World of Wakanda in Marvel’s Avengers](http://feedproxy.google.com/~r/PSBlog/~3/3hoqComEpnE/)
- - [Creating the World of Wakanda in Marvel’s Avengers](https://blog.playstation.com/2021/08/17/creating-the-world-of-wakanda-in-marvels-avengers/)<!-- GAME:END -->
+ - [Junji Ito does Lovecraft better than Lovecraft in Sensor](https://www.polygon.com/22628986/sensor-junji-ito-review-english-viz)
+ - [Adventure Time’s Fionna and Cake getting a spinoff series](https://www.polygon.com/animation-cartoons/2021/8/17/22629161/adventure-time-fionna-and-cake-series-hbo-max)
+ - [Sizing up the 10 most popular things on Netflix right now](https://www.polygon.com/2020/3/10/21167710/10-netflix-movies-shows-most-popular)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
