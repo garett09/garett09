@@ -194,9 +194,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Just Russian things....](http://9gag.com/gag/aDd57yK)
+ - 🚖 [The bad guys will make the good guy look like the bad one.](http://9gag.com/gag/a4EyPGd)
  - 🚯 [No stress.](http://9gag.com/gag/a6E6DnN)
- - 🚯 [I&lsquo;m a Photographer, it just hurts](http://9gag.com/gag/aGp5y37)<!-- MEMES:END -->
+ - 🚯 [The Singing Ringing Tree with sound.](http://9gag.com/gag/aK651vO)<!-- MEMES:END -->
 
 --- 
 
