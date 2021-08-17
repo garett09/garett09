@@ -187,9 +187,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Following Revolut's valuation jump from $5.5B in 2020 to $33B this July, at least 76 past and current employees now own shares worth $1M+, per UK public records (Isabel Woodford/Sifted)](http://www.techmeme.com/210817/p32#a210817p32)
- - [Twitter asks users to flag COVID-19 and election misinformation](http://feedproxy.google.com/~r/Techcrunch/~3/CJJKanSZTMk/)
- - [Twitter launches new process for reporting COVID misinformation](https://www.theverge.com/2021/8/17/22629097/twitter-misinformation-health-covid19-reporting-feature-white-house)<!-- TECH:END -->
+ - [Intel says it's "winding down" its RealSense camera business, which focused on hardware for computer vision applications (Dylan Martin/CRN)](http://www.techmeme.com/210817/p34#a210817p34)
+ - [YouTube Premium subscribers can get three months of Stadia Pro for free](https://www.theverge.com/2021/8/17/22629313/youtube-premium-stadia-pro-deal-three-months-free)
+ - [Roblox is struggling to moderate re-creations of mass shootings](https://www.theverge.com/2021/8/17/22628624/roblox-moderation-trust-and-safety-terrorist-content-christchurch)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
