@@ -180,9 +180,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Greak: Memories of Azur Available Now for Xbox Series X|S](https://news.xbox.com/en-us/2021/08/17/greak-memories-of-azur-available-now-for-xbox-series-xs/)
- - [Axiom Verge 2 is obsessed, and cursed, with nostalgia](https://www.polygon.com/reviews/22629138/axiom-verge-2-review-metroidvania-nintendo-switch-ps4-pc-epic-games-store)
- - [Cyberpunk 2077 patch 1.3 will include DLC and fixes for nearly 100 quests](https://www.polygon.com/22629210/cyberpunk-2077-patch-notes-13-release-date-playstation-xbox-pc-stadia)<!-- GAME:END -->
+ - [Here’s the Xbox Series S running PS1 games in 4K](https://www.polygon.com/22629340/xbox-series-s-running-playstation-1-games-in-4k)
+ - [There’s nothing cuddly about this Woolly World version of Snake](https://www.polygon.com/22626954/snake-classic-3d-puzzle-dungeon-game-development)
+ - [Komi Can’t Communicate anime has a release date and a new trailer](https://www.polygon.com/22629343/komi-cant-communicate-anime-trailer-release-date-streaming)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
