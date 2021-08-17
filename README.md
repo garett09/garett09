@@ -187,9 +187,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Motorola Edge 20, Edge 20 Fusion hit India: 108MP cameras, high refresh rate](https://www.androidauthority.com/motorola-edge-20-series-india-2735874/)
  - [Astro teams up with Timbuk2 to make bags for all of your gaming gear](https://www.theverge.com/2021/8/17/22626981/astro-timbuk2-bp35-cs03-backpack-crossbody-sling-price)
- - [NASA Mars helicopter nails 12th flight, scouts ahead for Perseverance rover     - CNET](https://www.cnet.com/news/nasa-mars-helicopter-nails-12th-flight-scouts-ahead-for-perseverance-rover/#ftag=CAD590a51e)
- - [T-Mobile confirms hack that may have compromised 100 million users (Updated)](https://www.androidauthority.com/t-mobile-hacked-2735038/)<!-- TECH:END -->
+ - [Shang-Chi and the Legend of the Ten Rings first reactions: "Phenomenal"     - CNET](https://www.cnet.com/news/shang-chi-and-the-legend-of-the-ten-rings-first-reactions-phenomenal/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
