@@ -187,9 +187,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [California regulators think T-Mobile lied to get Sprint merger approved](https://www.theverge.com/2021/8/16/22627940/t-mobile-dish-network-cdma-sunset-cpuc-ruling)
+ - [Apple and Google's vague and inconsistent policies around hookup apps can harm LGBTQ people, especially those in countries with explicitly anti-LGBTQ laws (Wired UK)](http://www.techmeme.com/210816/p29#a210816p29)
  - [Apple now offers annual AppleCare+ subscriptions for new Mac owners](https://appleinsider.com/articles/21/08/17/apple-now-offers-annual-applecare-subscriptions-for-new-mac-owners?utm_medium=rss)
- - [CM Punk in-ring return: The AEW rumors explained     - CNET](https://www.cnet.com/news/cm-punk-in-ring-return-the-aew-rumors-explained/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [California regulators think T-Mobile lied to get Sprint merger approved](https://www.theverge.com/2021/8/16/22627940/t-mobile-dish-network-cdma-sunset-cpuc-ruling)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
