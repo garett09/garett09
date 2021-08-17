@@ -194,9 +194,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I was there. 3000 years ago](http://9gag.com/gag/awM233y)
- - 🚯 [Go fails!!](http://9gag.com/gag/a4Ey6zd)
- - 🚯 [Little Known Fact: Sudan (a country in Africa) has more than 200 pyramids dating back to 5,000 years.](http://9gag.com/gag/aZ05n9n)<!-- MEMES:END -->
+ - 🚖 [It&#039;s sad but true](http://9gag.com/gag/amPw104)
+ - 🚯 [I was there. 3000 years ago](http://9gag.com/gag/awM233y)
+ - 🚯 [Just Russian things....](http://9gag.com/gag/aDd57yK)<!-- MEMES:END -->
 
 --- 
 
