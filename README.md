@@ -194,8 +194,8 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Pure wholesome Dad being Dad](http://9gag.com/gag/aDd58jK)
- - 🚯 [When baby gets excited...](http://9gag.com/gag/aO35Z2M)
+ - 🚖 [Take flight](http://9gag.com/gag/aP328rV)
+ - 🚯 [These gas prices are insane](http://9gag.com/gag/anQwvV0)
  - 🚯 [Want to enjoy some &ldquo;Mii&rdquo; time? It&rsquo;s time! Win a Nintendo Switch from Club9 x GameTaster!](http://9gag.com/gag/aWj5nLK)<!-- MEMES:END -->
 
 --- 
