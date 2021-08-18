@@ -187,9 +187,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Report: militias like the Three Percenters are key spreaders of vaccine misinfo on Facebook, and some of their Facebook Group admins get a "Group Expert" badge (David Gilbert/VICE)](http://www.techmeme.com/210817/p42#a210817p42)
- - [Sources: the Taliban have seized US military biometric devices, known as HIIDE, that could aid in the identification of Afghans who supported coalition forces (The Intercept)](http://www.techmeme.com/210817/p41#a210817p41)
- - [Apple seeds sixth developer betas for iOS 15, iPadOS 15, tvOS 15](https://appleinsider.com/articles/21/08/17/apple-seeds-sixth-developer-betas-for-ios-15-ipados-15-tvos-15?utm_medium=rss)<!-- TECH:END -->
+ - [Tweetbot 6 for iOS updated with Timeline Widgets, multiple windows on iPad, more](https://appleinsider.com/articles/21/08/18/tweetbot-6-for-ios-updated-with-timeline-widgets-multiple-windows-on-ipad-more?utm_medium=rss)
+ - [Octavia Spencer, Kate Hudson talk Apple TV+ original 'Truth Be Told' ahead of second season](https://appleinsider.com/articles/21/08/18/octavia-spencer-kate-hudson-talk-apple-tv-original-truth-be-told-ahead-of-second-season?utm_medium=rss)
+ - [South Korean online secondhand marketplace Danggeun Market, publisher of hyperlocal community app Karrot, raises $162M Series D at a $2.7B valuation (Kate Park/TechCrunch)](http://www.techmeme.com/210817/p43#a210817p43)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
