@@ -187,9 +187,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ahead of South Korea's tighter crypto regulations, Binance and some other exchanges have proactively halted or discontinued trading using Korean currency (Yonhap News Agency)](http://www.techmeme.com/210818/p1#a210818p1)
  - [The best Netflix documentaries to watch right now     - CNET](https://www.cnet.com/news/the-best-netflix-documentaries-to-watch-right-now/#ftag=CAD590a51e)
- - [iPhone 13 release date: Could Apple's new smartphone come this fall?     - CNET](https://www.cnet.com/tech/mobile/iphone-13-release-date-could-apples-new-smartphone-come-fall/#ftag=CAD590a51e)
- - [Newly discovered prehistoric creature named after The Hobbit character     - CNET](https://www.cnet.com/news/newly-discovered-prehistoric-creature-named-after-the-hobbit-character/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [iPhone 13 release date: Could Apple's new smartphone come this fall?     - CNET](https://www.cnet.com/tech/mobile/iphone-13-release-date-could-apples-new-smartphone-come-fall/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
