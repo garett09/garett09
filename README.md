@@ -180,9 +180,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [12 Minutes review](https://www.pcgamer.com/12-minutes-review)
- - [Catlateral Damage: Remeowstered unleashes feline fury on PS4 and PS5 September 15](http://feedproxy.google.com/~r/PSBlog/~3/h6NJLMHQup8/)
- - [Twelve Minutes is an uncomfortable journey — maybe too uncomfortable](https://www.polygon.com/reviews/22629756/twelve-minutes-review-annapurna-xbox-game-pass-series-x-one-pc)<!-- GAME:END -->
+ - [eFootball: Everything we know](https://www.pcgamer.com/pes-efootball-2022-release-date)
+ - [Our Inspirations Behind Black Panther’s Outfits in the War for Wakanda Expansion](http://feedproxy.google.com/~r/PSBlog/~3/mYWo9o-ZbfY/)
+ - [Our Inspirations Behind Black Panther’s Outfits in the War for Wakanda Expansion](https://blog.playstation.com/2021/08/18/our-inspirations-behind-black-panthers-outfits-in-the-war-for-wakanda-expansion/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
