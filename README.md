@@ -194,9 +194,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Time pass...](http://9gag.com/gag/anQwVwb)
+ - 🚖 [Borgir](http://9gag.com/gag/aNp5jOv)
  - 🚯 [Yes](http://9gag.com/gag/a27pOgO)
- - 🚯 [Borgir](http://9gag.com/gag/aNp5jOv)<!-- MEMES:END -->
+ - 🚯 [Disgustang](http://9gag.com/gag/aB254Lx)<!-- MEMES:END -->
 
 --- 
 
