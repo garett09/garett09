@@ -194,9 +194,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Paul Rudd being himself from the start](http://9gag.com/gag/aeAw7Bq)
- - 🚯 [Western culture is unbelievable cruel](http://9gag.com/gag/aP3214w)
- - 🚯 [Want to enjoy some &ldquo;Mii&rdquo; time? It&rsquo;s time! Win a Nintendo Switch from Club9 x GameTaster!](http://9gag.com/gag/aWj5nLK)<!-- MEMES:END -->
+ - 🚖 [F**king moron](http://9gag.com/gag/aqjwD8Y)
+ - 🚯 [Disgustang](http://9gag.com/gag/aB254Lx)
+ - 🚯 [Paul Rudd being himself from the start](http://9gag.com/gag/aeAw7Bq)<!-- MEMES:END -->
 
 --- 
 
