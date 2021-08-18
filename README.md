@@ -180,9 +180,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Legends: Arceus has all-new Pokémon, including a new nightmare fish](https://www.polygon.com/22630496/pokemon-legends-arceus-new-pokemon-evolutions-basculegion-wyrdeer)
- - [Meet the genre-hopping Mayhem Brawler: trading card game turned side-scroller](http://feedproxy.google.com/~r/PSBlog/~3/z2GE-6ZwdiM/)
- - [Meet the genre-hopping Mayhem Brawler: trading card game turned side-scroller](https://blog.playstation.com/2021/08/18/meet-the-genre-hopping-mayhem-brawler-trading-card-game-turned-side-scroller/)<!-- GAME:END -->
+ - [Chibi Cynthia, please destroy me when I pick up Pokémon Brilliant Diamond and Shining Pearl](https://www.polygon.com/22630562/cynthia-pokemon-brilliant-diamond-shining-pearl-remake-garchomp-battle-trainer)
+ - [Pokémon Sleep Is Still Only A Dream](https://kotaku.com/pokemon-sleep-is-still-only-a-dream-1847508779)
+ - [Everything announced at Pokémon Presents](https://www.polygon.com/22630428/pokemon-presents-news-roundup-brilliant-diamond-shining-pearl-legends-arceus)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
