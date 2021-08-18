@@ -180,9 +180,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Chibi Cynthia, please destroy me when I pick up Pokémon Brilliant Diamond and Shining Pearl](https://www.polygon.com/22630562/cynthia-pokemon-brilliant-diamond-shining-pearl-remake-garchomp-battle-trainer)
- - [Pokémon Sleep Is Still Only A Dream](https://kotaku.com/pokemon-sleep-is-still-only-a-dream-1847508779)
- - [Everything announced at Pokémon Presents](https://www.polygon.com/22630428/pokemon-presents-news-roundup-brilliant-diamond-shining-pearl-legends-arceus)<!-- GAME:END -->
+ - [12 Minutes review](https://www.pcgamer.com/12-minutes-review)
+ - [Catlateral Damage: Remeowstered unleashes feline fury on PS4 and PS5 September 15](http://feedproxy.google.com/~r/PSBlog/~3/h6NJLMHQup8/)
+ - [Twelve Minutes is an uncomfortable journey — maybe too uncomfortable](https://www.polygon.com/reviews/22629756/twelve-minutes-review-annapurna-xbox-game-pass-series-x-one-pc)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
