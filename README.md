@@ -187,9 +187,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily Crunch: T-Mobile confirms ‘highly sophisticated cyberattack’ affecting 47M customer accounts](http://feedproxy.google.com/~r/Techcrunch/~3/wITQ74rtc_I/)
- - [Facebook's content report shares too little data to make meaningful conclusions, ranking many generic domains like YouTube without detailing the content viewed (Ethan Zuckerman)](http://www.techmeme.com/210818/p41#a210818p41)
- - [Microsoft’s new Paint redesign for Windows 11 includes a dark mode](https://www.theverge.com/2021/8/18/22631442/microsoft-windows-11-paint-redesign-update-app)<!-- TECH:END -->
+ - [SEC sues three ex-Netflix software engineers and two others for allegedly using confidential subscriber growth numbers to trade ahead of earnings announcements (Matt Robinson/Bloomberg)](http://www.techmeme.com/210818/p43#a210818p43)
+ - [Apple's Lisa Jackson talks environmental justice with US EPA Administrator Michael Regan](https://appleinsider.com/articles/21/08/18/apples-lisa-jackson-talks-environmental-justice-with-us-epa-administrator-michael-regan?utm_medium=rss)
+ - [Netflix is finally adding support for spatial audio on iPhone and iPad](https://www.theverge.com/2021/8/18/22631444/netflix-spatial-audio-support-iphone-ipad-apple)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
