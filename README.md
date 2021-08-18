@@ -187,9 +187,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple appeals a 2019 copyright case it lost against Corellium, after settling other claims with the company relating to the DMCA this month to avoid a trial (Reuters)](http://www.techmeme.com/210817/p44#a210817p44)
  - [Amazon Prime Video: The 31 best TV shows to watch this week     - CNET](https://www.cnet.com/news/amazon-prime-video-the-31-best-tv-shows-to-watch-this-week/#ftag=CAD590a51e)
- - [Tweetbot 6 for iOS updated with Timeline Widgets, multiple windows on iPad, more](https://appleinsider.com/articles/21/08/18/tweetbot-6-for-ios-updated-with-timeline-widgets-multiple-windows-on-ipad-more?utm_medium=rss)
- - [Octavia Spencer, Kate Hudson talk Apple TV+ original 'Truth Be Told' ahead of second season](https://appleinsider.com/articles/21/08/18/octavia-spencer-kate-hudson-talk-apple-tv-original-truth-be-told-ahead-of-second-season?utm_medium=rss)<!-- TECH:END -->
+ - [Tweetbot 6 for iOS updated with Timeline Widgets, multiple windows on iPad, more](https://appleinsider.com/articles/21/08/18/tweetbot-6-for-ios-updated-with-timeline-widgets-multiple-windows-on-ipad-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
