@@ -180,9 +180,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Fortnite finally adds Morty to its Rick and Morty crossover](https://www.pcgamer.com/fortnite-finally-adds-morty-to-its-rick-and-morty-crossover)
- - [Among Us Devs Aren't Feeling Fortnite’s New ‘Impostors’ Mode](https://kotaku.com/among-us-devs-arent-feeling-fortnite-s-new-impostors-1847505281)
- - [Free Guy’s title is ancient gamer slang](https://www.polygon.com/22629503/free-guy-disney-movie-gaming-slang-meaning)<!-- GAME:END -->
+ - [During development, the cart in Skyrim's intro was defeated by a single bee](https://www.pcgamer.com/during-development-the-cart-in-skyrims-intro-was-defeated-by-a-single-bee)
+ - [Games Under promotion comes to PlayStation Store](http://feedproxy.google.com/~r/PSBlog/~3/2FZAEKWK9hg/)
+ - [Humankind: The Kotaku Review](https://kotaku.com/humankind-the-kotaku-review-1847491705)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
