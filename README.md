@@ -180,9 +180,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Monoprice Dark Matter 27-inch Gaming Monitor review](https://www.pcgamer.com/monoprice-dark-matter-27-inch-gaming-monitor-review)
- - [The Epic Games Store's equivalent to Steam Direct is in beta](https://www.pcgamer.com/the-epic-games-stores-equivalent-to-steam-direct-is-in-beta)
- - [eFootball: Everything we know](https://www.pcgamer.com/pes-efootball-2022-release-date)<!-- GAME:END -->
+ - [Cook, Craft, and Battle in the Tales of Arise Demo](https://news.xbox.com/en-us/2021/08/18/cook-craft-and-battle-in-the-tales-of-arise-demo/)
+ - [Fall Guys’ extra reward systems have gotten a little bit silly](https://www.polygon.com/22629448/fall-guys-season-pass-rewards-crowns-systems-objectives-achievements)
+ - [Yakuza’s Kiryu rolls into Super Monkey Ball Banana Mania](https://www.polygon.com/22631024/yakuza-kazuma-kiryu-super-monkey-ball-banana-mania)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
