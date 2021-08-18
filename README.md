@@ -187,9 +187,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Podcasters say Apple Podcasts Connect, a requirement for using its new subscriptions product, is buggy and has a confusing UI (Ashley Carman/The Verge)](http://www.techmeme.com/210818/p33#a210818p33)
- - [A look at the race between TuSimple, Plus, Embark Trucks, and Aurora Innovation to achieve Level 4 autonomy in trucks, after collectively raising ~$5.7B (Wall Street Journal)](http://www.techmeme.com/210818/p32#a210818p32)
- - [Dear Sophie: Tips on EB-1A and EB-2 NIW?](http://feedproxy.google.com/~r/Techcrunch/~3/XWiQi-wg-Ak/)<!-- TECH:END -->
+ - [Facebook for the first time shares a report on the most widely viewed content on Facebook in the US, including Q2's most-viewed domains, links, posts, and pages (Issie Lapowsky/Protocol)](http://www.techmeme.com/210818/p35#a210818p35)
+ - [Apple's Lisa Jackson speaks on US infrastructure bill, CSAM detection](https://appleinsider.com/articles/21/08/18/apples-lisa-jackson-speaks-on-us-infrastructure-bill-csam-detection?utm_medium=rss)
+ - [How to use the new Safari tab bar in iOS 15 -- if you want to](https://appleinsider.com/articles/21/08/18/how-to-use-the-new-safari-tab-bar-in-ios-15----if-you-want-to?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
