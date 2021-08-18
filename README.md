@@ -194,8 +194,8 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Milk](http://9gag.com/gag/aNp5436)
- - 🚯 [Just paid an old lady $30 for these &quot;VHS games&quot;](http://9gag.com/gag/aWj520A)
+ - 🚖 [Lost weight and gained eyes - total of 5 years work](http://9gag.com/gag/aXo126b)
+ - 🚯 [A hiker hides behind a tree as a moose approaches](http://9gag.com/gag/aB25GyA)
  - 🚯 [Want to enjoy some &ldquo;Mii&rdquo; time? It&rsquo;s time! Win a Nintendo Switch from Club9 x GameTaster!](http://9gag.com/gag/aWj5nLK)<!-- MEMES:END -->
 
 --- 
