@@ -194,9 +194,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [F**king moron](http://9gag.com/gag/aqjwD8Y)
- - 🚯 [Disgustang](http://9gag.com/gag/aB254Lx)
- - 🚯 [Paul Rudd being himself from the start](http://9gag.com/gag/aeAw7Bq)<!-- MEMES:END -->
+ - 🚖 [Borgir](http://9gag.com/gag/aNp5jOv)
+ - 🚯 [This weed-killing robot will be a game-changer for farmers.](http://9gag.com/gag/aDd5ODG)
+ - 🚯 [Trust only yourself](http://9gag.com/gag/arMw2y6)<!-- MEMES:END -->
 
 --- 
 
