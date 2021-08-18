@@ -194,8 +194,8 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Polish javelinist Maria Andrejczyk auctioned her Tokyo 2020 silver medal for $125k USD to help send 8-month-old Mi\u0142oszek Ma\u0142ysa to Stanford University for heart surgery. \u017babka, a chain of Polish supermarkets, submitted the winning bid before giving the medal back to Andrejczyk.](http://9gag.com/gag/aNp5B6K)
- - 🚯 [Don&#039;t f**k with snakes](http://9gag.com/gag/a1rj23Y)
+ - 🚖 [This made me giggle.](http://9gag.com/gag/ajmwZqq)
+ - 🚯 [Just paid an old lady $30 for these &quot;VHS games&quot;](http://9gag.com/gag/aWj520A)
  - 🚯 [Want to enjoy some &ldquo;Mii&rdquo; time? It&rsquo;s time! Win a Nintendo Switch from Club9 x GameTaster!](http://9gag.com/gag/aWj5nLK)<!-- MEMES:END -->
 
 --- 
