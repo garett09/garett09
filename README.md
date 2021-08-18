@@ -187,9 +187,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [China's government rebukes 43 apps, including Tencent's WeChat, for illegally transferring user data, including location and contacts, and orders rectifications (Reuters)](http://www.techmeme.com/210818/p10#a210818p10)
- - [Analysis: SoftBank likely raised over $6B by selling stakes in Facebook, Microsoft, Alphabet, Salesforce, and Netflix in the three months ending June 30 (Bloomberg)](http://www.techmeme.com/210818/p9#a210818p9)
- - [Brazilian startup Kovi, which rents vehicles to drivers who work for ride hailing and delivery companies, raises $104M Series B, bringing total raised to $145M (Mary Ann Azevedo/TechCrunch)](http://www.techmeme.com/210818/p8#a210818p8)<!-- TECH:END -->
+ - [Baidu's Kunlun says it has begun mass producing second-generation AI chips built on a 7nm process, offering 2-3x the power of the first-gen chips from 2020 (Reuters)](http://www.techmeme.com/210818/p14#a210818p14)
+ - [LG spending $2.81 billion on OLED display production for iPad, iPhone](https://appleinsider.com/articles/21/08/18/lg-spending-281-billion-on-oled-display-production-for-ipad-iphone?utm_medium=rss)
+ - [You told us: Here’s how much faith you have in Xiaomi staying ahead of Samsung](https://www.androidauthority.com/xiaomi-vs-samsung-poll-results-2735920/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
