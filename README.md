@@ -180,9 +180,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [World Of Warships Players Are In Open Revolt Over Shady Monetisation Schemes](https://kotaku.com/world-of-warships-players-are-in-open-revolt-over-shady-1847506495)
  - [When the Chainsaw Man anime comes out, based on everything we know](https://www.polygon.com/22629570/chainsaw-man-anime-release-date-netflix-crunchyroll)
- - [During development, the cart in Skyrim's intro was defeated by a single bee](https://www.pcgamer.com/during-development-the-cart-in-skyrims-intro-was-defeated-by-a-single-bee)
- - [Games Under promotion comes to PlayStation Store](http://feedproxy.google.com/~r/PSBlog/~3/2FZAEKWK9hg/)<!-- GAME:END -->
+ - [During development, the cart in Skyrim's intro was defeated by a single bee](https://www.pcgamer.com/during-development-the-cart-in-skyrims-intro-was-defeated-by-a-single-bee)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
