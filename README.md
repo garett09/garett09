@@ -194,9 +194,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Borgir](http://9gag.com/gag/aNp5jOv)
- - 🚯 [This weed-killing robot will be a game-changer for farmers.](http://9gag.com/gag/aDd5ODG)
- - 🚯 [Trust only yourself](http://9gag.com/gag/arMw2y6)<!-- MEMES:END -->
+ - 🚖 [Paul Rudd being himself from the start](http://9gag.com/gag/aeAw7Bq)
+ - 🚯 [Yes](http://9gag.com/gag/a27pOgO)
+ - 🚯 [Dad left me, my mom and my sister when I was 7 (I&#039;m 23 rn) . Learned how to fix little things like this on my own. Kinda proud of it.](http://9gag.com/gag/aB25OXO)<!-- MEMES:END -->
 
 --- 
 
