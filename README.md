@@ -187,9 +187,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple applied list of terms censored in China to Taiwan & Hong Kong](https://appleinsider.com/articles/21/08/18/apple-applied-list-of-terms-censored-in-china-to-taiwan-hong-kong?utm_medium=rss)
- - [The Taliban may have seized biometric data that can ID US allies in Afghanistan](https://www.theverge.com/2021/8/18/22630686/biometric-data-afghanistan-taliban-hiide-civilians)
- - [What is happening to risk-taking in venture capital?](http://feedproxy.google.com/~r/Techcrunch/~3/FKe6JSjLi0s/)<!-- TECH:END -->
+ - [Apple Watch Series 6 review: One year later](https://appleinsider.com/articles/21/08/18/apple-watch-series-6-review-one-year-later?utm_medium=rss)
+ - [Twitter is making it easier for other apps to point to Spaces](https://www.theverge.com/2021/8/18/22631036/twitter-spaces-developers-api-v2)
+ - [How to establish a health tech startup advisory board](http://feedproxy.google.com/~r/Techcrunch/~3/8Bdnt4tg4FE/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
