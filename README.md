@@ -194,9 +194,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Well now sh*t](http://9gag.com/gag/aV75dXy)
- - 🚯 [Angry man shows firemen how to enter a property without permission](http://9gag.com/gag/aLp5r3v)
- - 🚯 [Lmao](http://9gag.com/gag/aGp5bmn)<!-- MEMES:END -->
+ - 🚖 [Lmao](http://9gag.com/gag/aGp5bmn)
+ - 🚯 [Lady in white SUV tries to bully an 18-wheeler](http://9gag.com/gag/apNwdOD)
+ - 🚯 [RIP the legend Sean Lock](http://9gag.com/gag/aXo1dOb)<!-- MEMES:END -->
 
 --- 
 
