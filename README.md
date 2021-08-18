@@ -180,9 +180,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Black Panther: War For Wakanda Is The Best Marvel’s Avengers DLC](https://kotaku.com/black-panther-war-for-wakanda-is-the-best-marvel-s-ave-1847512260)
- - [Dodgeball Academia is an anime sports RPG with NBA Jam vibes](https://www.pcgamer.com/dodgeball-academia-impressions)
- - [Top-ranked League of Legends player arrested in Chinese internet cafe after his name is announced to everyone](https://www.pcgamer.com/top-ranked-league-of-legends-player-arrested-in-chinese-internet-cafe-after-his-name-is-announced-to-everyone)<!-- GAME:END -->
+ - [The best gaming mouse in 2021](https://www.pcgamer.com/the-best-gaming-mouse)
+ - [Chivalry sells 1 million copies, resulting in 7,969 flute-related deaths](https://www.pcgamer.com/chivalry-2-sales)
+ - [10 Minutes with the Creator of Twelve Minutes](https://news.xbox.com/en-us/2021/08/18/10-minutes-with-the-creator-of-twelve-minutes/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
