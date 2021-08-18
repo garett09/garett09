@@ -187,9 +187,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Facebook for the first time shares a report on the most widely viewed content on Facebook in the US, including Q2's most-viewed domains, links, posts, and pages (Issie Lapowsky/Protocol)](http://www.techmeme.com/210818/p35#a210818p35)
- - [Apple's Lisa Jackson speaks on US infrastructure bill, CSAM detection](https://appleinsider.com/articles/21/08/18/apples-lisa-jackson-speaks-on-us-infrastructure-bill-csam-detection?utm_medium=rss)
- - [How to use the new Safari tab bar in iOS 15 -- if you want to](https://appleinsider.com/articles/21/08/18/how-to-use-the-new-safari-tab-bar-in-ios-15----if-you-want-to?utm_medium=rss)<!-- TECH:END -->
+ - [Apple applied list of terms censored in China to Taiwan & Hong Kong](https://appleinsider.com/articles/21/08/18/apple-applied-list-of-terms-censored-in-china-to-taiwan-hong-kong?utm_medium=rss)
+ - [The Taliban may have seized biometric data that can ID US allies in Afghanistan](https://www.theverge.com/2021/8/18/22630686/biometric-data-afghanistan-taliban-hiide-civilians)
+ - [What is happening to risk-taking in venture capital?](http://feedproxy.google.com/~r/Techcrunch/~3/FKe6JSjLi0s/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
