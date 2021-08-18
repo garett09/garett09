@@ -180,9 +180,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Genshin Impact Theater Mechanicus guide](https://www.pcgamer.com/genshin-impact-theater-mechanicus-guide)
- - [Deathloop: everything we know about Arkane's time loop assassin sandbox](https://www.pcgamer.com/deathloop-release-date-trailer-story)
- - [Every Warhammer 40,000 game, ranked](https://www.pcgamer.com/best-warhammer-40k-games)<!-- GAME:END -->
+ - [Watch the new Pokémon Presents livestream](https://www.polygon.com/22629243/pokemon-presents-2021-brilliant-diamond-shining-pearl-legends-arceus-livestream)
+ - [Mass shooting recreations keep finding their way onto Roblox](https://www.pcgamer.com/mass-shooting-recreations-keep-finding-their-way-onto-roblox)
+ - [Genshin Impact Theater Mechanicus guide](https://www.pcgamer.com/genshin-impact-theater-mechanicus-guide)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
