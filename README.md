@@ -194,9 +194,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Paul Rudd being himself from the start](http://9gag.com/gag/aeAw7Bq)
+ - 🚖 [Time pass...](http://9gag.com/gag/anQwVwb)
  - 🚯 [Yes](http://9gag.com/gag/a27pOgO)
- - 🚯 [Dad left me, my mom and my sister when I was 7 (I&#039;m 23 rn) . Learned how to fix little things like this on my own. Kinda proud of it.](http://9gag.com/gag/aB25OXO)<!-- MEMES:END -->
+ - 🚯 [Borgir](http://9gag.com/gag/aNp5jOv)<!-- MEMES:END -->
 
 --- 
 
