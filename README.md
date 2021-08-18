@@ -187,9 +187,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Baidu's Kunlun says it has begun mass producing second-generation AI chips built on a 7nm process, offering 2-3x the power of the first-gen chips from 2020 (Reuters)](http://www.techmeme.com/210818/p14#a210818p14)
- - [LG spending $2.81 billion on OLED display production for iPad, iPhone](https://appleinsider.com/articles/21/08/18/lg-spending-281-billion-on-oled-display-production-for-ipad-iphone?utm_medium=rss)
- - [You told us: Here’s how much faith you have in Xiaomi staying ahead of Samsung](https://www.androidauthority.com/xiaomi-vs-samsung-poll-results-2735920/)<!-- TECH:END -->
+ - [Daily Authority: Pixel 5a 🤔](https://www.androidauthority.com/newsletters/da-august-18-2021/)
+ - [Realme Book announced: A mid-range 14-incher packing Intel CPUs](https://www.androidauthority.com/realme-book-2736725/)
+ - [Airbnb says it will change its TOS this fall to no longer require arbitration in cases involving sexual assault of hosts and guests, after two women sued (Olivia Carville/Bloomberg)](http://www.techmeme.com/210818/p19#a210818p19)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
