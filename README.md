@@ -187,9 +187,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Enable, which is building tools for B2B rebate management, raises $45M Series B led by Norwest Venture Partners, following a $13M Series A in 2020 (Christine Hall/TechCrunch)](http://www.techmeme.com/210818/p26#a210818p26)
- - [Rapid Robotics, which is developing AI-powered industrial robots, raises $36.7M Series B led by Kleiner Perkins and Tiger Global (Maria Deutscher/SiliconANGLE)](http://www.techmeme.com/210818/p25#a210818p25)
- - [Samsung’s new Galaxy Buds 2 are already $25 off at Woot](https://www.theverge.com/good-deals/2021/8/18/22630394/samsung-galaxy-buds-2-earbuds-woot-chromebook-2-airpods-max-apple-deal-sale-amazon)<!-- TECH:END -->
+ - [Profile of DDoSecrets, a collective formed in 2018 that has shared confidential documents from US law enforcement, Myanmar, Ukraine, Gab, and others (Jacob Silverman/New Republic)](http://www.techmeme.com/210818/p28#a210818p28)
+ - [Samsung Galaxy Z Fold 3 review: No Note replacement, but a fine foldable](https://www.androidauthority.com/samsung-galaxy-z-fold-3-review-2732195/)
+ - [What to expect from Tesla’s AI day event](https://www.theverge.com/2021/8/18/22627101/tesla-event-ai-day-rumors-elon-musk-what-to-expect)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
