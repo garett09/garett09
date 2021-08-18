@@ -187,9 +187,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Postman, which helps developers build, test, and iterate their APIs, raises $225M Series D led by Insight Partners at a $5.6B valuation, up from $2B in 2020 (Manish Singh/TechCrunch)](http://www.techmeme.com/210818/p22#a210818p22)
- - [Poll: What do you think of ads in Android skins and pre-installed apps?](https://www.androidauthority.com/android-apps-ads-poll-2735923/)
- - [Evervault’s ‘encryption as a service’ is now open access](http://feedproxy.google.com/~r/Techcrunch/~3/bHRhDXZUYrA/)<!-- TECH:END -->
+ - [Enable, which is building tools for B2B rebate management, raises $45M Series B led by Norwest Venture Partners, following a $13M Series A in 2020 (Christine Hall/TechCrunch)](http://www.techmeme.com/210818/p26#a210818p26)
+ - [Rapid Robotics, which is developing AI-powered industrial robots, raises $36.7M Series B led by Kleiner Perkins and Tiger Global (Maria Deutscher/SiliconANGLE)](http://www.techmeme.com/210818/p25#a210818p25)
+ - [Samsung’s new Galaxy Buds 2 are already $25 off at Woot](https://www.theverge.com/good-deals/2021/8/18/22630394/samsung-galaxy-buds-2-earbuds-woot-chromebook-2-airpods-max-apple-deal-sale-amazon)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
