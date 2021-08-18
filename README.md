@@ -194,8 +194,8 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Lost weight and gained eyes - total of 5 years work](http://9gag.com/gag/aXo126b)
- - 🚯 [A hiker hides behind a tree as a moose approaches](http://9gag.com/gag/aB25GyA)
+ - 🚖 [I thought this would be appropriated](http://9gag.com/gag/a4EyqoZ)
+ - 🚯 [Sh!t, what did i tell you . . .](http://9gag.com/gag/axMwPdK)
  - 🚯 [Want to enjoy some &ldquo;Mii&rdquo; time? It&rsquo;s time! Win a Nintendo Switch from Club9 x GameTaster!](http://9gag.com/gag/aWj5nLK)<!-- MEMES:END -->
 
 --- 
