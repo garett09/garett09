@@ -187,9 +187,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Fossil Gen 6 smartwatch has leaked with new images and info](https://www.androidauthority.com/fossil-gen-6-smartwatch-specs-2736887/)
- - [Best Deals August 18 - Flexispot desks 32% off, MagSafe Charger, and more!](https://appleinsider.com/articles/21/08/18/best-deals-august-18---flexispot-desks-32-off-magsafe-charger-and-more?utm_medium=rss)
- - [Pinterest is adding search filters for different hair textures](https://www.theverge.com/2021/8/18/22628978/pinterest-hair-patterns-textures-search-filters)<!-- TECH:END -->
+ - [Podcasters say Apple Podcasts Connect, a requirement for using its new subscriptions product, is buggy and has a confusing UI (Ashley Carman/The Verge)](http://www.techmeme.com/210818/p33#a210818p33)
+ - [A look at the race between TuSimple, Plus, Embark Trucks, and Aurora Innovation to achieve Level 4 autonomy in trucks, after collectively raising ~$5.7B (Wall Street Journal)](http://www.techmeme.com/210818/p32#a210818p32)
+ - [Dear Sophie: Tips on EB-1A and EB-2 NIW?](http://feedproxy.google.com/~r/Techcrunch/~3/XWiQi-wg-Ak/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
