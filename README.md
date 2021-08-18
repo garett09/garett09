@@ -194,8 +194,8 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I thought this would be appropriated](http://9gag.com/gag/a4EyqoZ)
- - 🚯 [Sh!t, what did i tell you . . .](http://9gag.com/gag/axMwPdK)
+ - 🚖 [For a moment McGregor had premonition of gulag](http://9gag.com/gag/aWj5D8A)
+ - 🚯 [This weed-killing robot will be a game-changer for farmers.](http://9gag.com/gag/aDd5ODG)
  - 🚯 [Want to enjoy some &ldquo;Mii&rdquo; time? It&rsquo;s time! Win a Nintendo Switch from Club9 x GameTaster!](http://9gag.com/gag/aWj5nLK)<!-- MEMES:END -->
 
 --- 
