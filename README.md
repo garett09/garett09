@@ -187,9 +187,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus 8 and 8 Pro updates: Bitmoji AOD and more feature in August patch](https://www.androidauthority.com/oneplus-8-pro-update-1108368/)
- - [Ahead of South Korea's tighter crypto regulations, Binance and some other exchanges have proactively halted or discontinued trading using Korean currency (Yonhap News Agency)](http://www.techmeme.com/210818/p1#a210818p1)
- - [The best Netflix documentaries to watch right now     - CNET](https://www.cnet.com/news/the-best-netflix-documentaries-to-watch-right-now/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: several execs at Waymo, which saw a mass exodus of top talent this spring, felt frustrated about the sluggish pace of progress of its driverless tech (Bloomberg)](http://www.techmeme.com/210818/p3#a210818p3)
+ - [Google’s affordable Pixel Buds A series is heading to India](https://www.androidauthority.com/google-pixel-buds-a-india-2736581/)
+ - [Pakistan’s Airlift raises $85 million for its quick commerce startup, eyes international expansion](http://feedproxy.google.com/~r/Techcrunch/~3/k2apluILkRI/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
