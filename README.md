@@ -180,9 +180,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Watch the new Pokémon Presents livestream](https://www.polygon.com/22629243/pokemon-presents-2021-brilliant-diamond-shining-pearl-legends-arceus-livestream)
- - [Mass shooting recreations keep finding their way onto Roblox](https://www.pcgamer.com/mass-shooting-recreations-keep-finding-their-way-onto-roblox)
- - [Genshin Impact Theater Mechanicus guide](https://www.pcgamer.com/genshin-impact-theater-mechanicus-guide)<!-- GAME:END -->
+ - [Diablo 2: Resurrected gets an open beta this weekend](https://www.pcgamer.com/diablo-2-resurrected-gets-an-open-beta-this-weekend)
+ - [How to watch the Call of Duty: Vanguard reveal in Warzone](https://www.pcgamer.com/how-to-watch-call-of-duty-cod-vanguard-event-warzone)
+ - [Here come the first DDR5 memory kits with RGB lighting](https://www.pcgamer.com/here-come-the-first-ddr5-memory-kits-with-rgb-lighting)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
