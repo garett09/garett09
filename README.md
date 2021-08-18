@@ -194,8 +194,8 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [For a moment McGregor had premonition of gulag](http://9gag.com/gag/aWj5D8A)
- - 🚯 [This weed-killing robot will be a game-changer for farmers.](http://9gag.com/gag/aDd5ODG)
+ - 🚖 [Two year old with second degree burns treated with stem cell therapy for amazing results](http://9gag.com/gag/agBwENx)
+ - 🚯 [Biggus Dickus](http://9gag.com/gag/abVw288)
  - 🚯 [Want to enjoy some &ldquo;Mii&rdquo; time? It&rsquo;s time! Win a Nintendo Switch from Club9 x GameTaster!](http://9gag.com/gag/aWj5nLK)<!-- MEMES:END -->
 
 --- 
