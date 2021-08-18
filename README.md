@@ -187,9 +187,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Watch Series 6 review: One year later](https://appleinsider.com/articles/21/08/18/apple-watch-series-6-review-one-year-later?utm_medium=rss)
- - [Twitter is making it easier for other apps to point to Spaces](https://www.theverge.com/2021/8/18/22631036/twitter-spaces-developers-api-v2)
- - [How to establish a health tech startup advisory board](http://feedproxy.google.com/~r/Techcrunch/~3/8Bdnt4tg4FE/)<!-- TECH:END -->
+ - [Twitter adds support for Twitter Spaces in its new API and says it hopes developers will build new products that let users find Spaces more easily (Sarah Perez/TechCrunch)](http://www.techmeme.com/210818/p38#a210818p38)
+ - [China Aims Its Propaganda Firehose at the BBC](https://www.wired.com/story/china-aims-its-propaganda-firehose-at-the-bbc)
+ - [Apple releases iOS 15 & iPadOS 15 public beta 6](https://appleinsider.com/articles/21/08/18/apple-releases-ios-15-ipados-15-public-beta-5?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
