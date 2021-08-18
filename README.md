@@ -180,9 +180,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Cook, Craft, and Battle in the Tales of Arise Demo](https://news.xbox.com/en-us/2021/08/18/cook-craft-and-battle-in-the-tales-of-arise-demo/)
- - [Fall Guys’ extra reward systems have gotten a little bit silly](https://www.polygon.com/22629448/fall-guys-season-pass-rewards-crowns-systems-objectives-achievements)
- - [Yakuza’s Kiryu rolls into Super Monkey Ball Banana Mania](https://www.polygon.com/22631024/yakuza-kazuma-kiryu-super-monkey-ball-banana-mania)<!-- GAME:END -->
+ - [Black Panther: War For Wakanda Is The Best Marvel’s Avengers DLC](https://kotaku.com/black-panther-war-for-wakanda-is-the-best-marvel-s-ave-1847512260)
+ - [Dodgeball Academia is an anime sports RPG with NBA Jam vibes](https://www.pcgamer.com/dodgeball-academia-impressions)
+ - [Top-ranked League of Legends player arrested in Chinese internet cafe after his name is announced to everyone](https://www.pcgamer.com/top-ranked-league-of-legends-player-arrested-in-chinese-internet-cafe-after-his-name-is-announced-to-everyone)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
