@@ -180,9 +180,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best gaming mouse in 2021](https://www.pcgamer.com/the-best-gaming-mouse)
- - [Chivalry sells 1 million copies, resulting in 7,969 flute-related deaths](https://www.pcgamer.com/chivalry-2-sales)
- - [10 Minutes with the Creator of Twelve Minutes](https://news.xbox.com/en-us/2021/08/18/10-minutes-with-the-creator-of-twelve-minutes/)<!-- GAME:END -->
+ - [Return to a time when horny videogames made you type: Leisure Suit Larry is now free](https://www.pcgamer.com/return-to-a-time-when-horny-videogames-made-you-type-leisure-suit-larry-is-now-free)
+ - [25 of the best movies on Netflix right now](https://www.polygon.com/21266801/best-movies-on-netflix)
+ - [The Two Towers is underrated as a movie sequel](https://www.polygon.com/lord-of-the-rings/22631178/two-towers-best-lotr-movie-sequel)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
