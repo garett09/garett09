@@ -187,9 +187,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily Authority: Pixel 5a 🤔](https://www.androidauthority.com/newsletters/da-august-18-2021/)
- - [Realme Book announced: A mid-range 14-incher packing Intel CPUs](https://www.androidauthority.com/realme-book-2736725/)
- - [Airbnb says it will change its TOS this fall to no longer require arbitration in cases involving sexual assault of hosts and guests, after two women sued (Olivia Carville/Bloomberg)](http://www.techmeme.com/210818/p19#a210818p19)<!-- TECH:END -->
+ - [Postman, which helps developers build, test, and iterate their APIs, raises $225M Series D led by Insight Partners at a $5.6B valuation, up from $2B in 2020 (Manish Singh/TechCrunch)](http://www.techmeme.com/210818/p22#a210818p22)
+ - [Poll: What do you think of ads in Android skins and pre-installed apps?](https://www.androidauthority.com/android-apps-ads-poll-2735923/)
+ - [Evervault’s ‘encryption as a service’ is now open access](http://feedproxy.google.com/~r/Techcrunch/~3/bHRhDXZUYrA/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
