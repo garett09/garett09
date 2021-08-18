@@ -180,9 +180,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Return to a time when horny videogames made you type: Leisure Suit Larry is now free](https://www.pcgamer.com/return-to-a-time-when-horny-videogames-made-you-type-leisure-suit-larry-is-now-free)
- - [25 of the best movies on Netflix right now](https://www.polygon.com/21266801/best-movies-on-netflix)
- - [The Two Towers is underrated as a movie sequel](https://www.polygon.com/lord-of-the-rings/22631178/two-towers-best-lotr-movie-sequel)<!-- GAME:END -->
+ - [Skyrim's 'treasure fox' myth has been explained](https://www.pcgamer.com/skyrims-treasure-fox-explained)
+ - [’90s Arcade-Inspired Beat ’em up Mayhem Brawler Launches August 19](https://news.xbox.com/en-us/2021/08/18/90s-arcade-inspired-beat-em-up-mayhem-brawler-launches-august-19/)
+ - [Vintage cat food locations in Fortnite](https://www.pcgamer.com/vintage-cat-food-fortnite)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
