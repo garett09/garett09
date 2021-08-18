@@ -194,9 +194,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Borgir](http://9gag.com/gag/aNp5jOv)
- - 🚯 [Yes](http://9gag.com/gag/a27pOgO)
- - 🚯 [Disgustang](http://9gag.com/gag/aB254Lx)<!-- MEMES:END -->
+ - 🚖 [Well now sh*t](http://9gag.com/gag/aV75dXy)
+ - 🚯 [Angry man shows firemen how to enter a property without permission](http://9gag.com/gag/aLp5r3v)
+ - 🚯 [Lmao](http://9gag.com/gag/aGp5bmn)<!-- MEMES:END -->
 
 --- 
 
