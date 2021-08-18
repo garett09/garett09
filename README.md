@@ -187,9 +187,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple appeals a 2019 copyright case it lost against Corellium, after settling other claims with the company relating to the DMCA this month to avoid a trial (Reuters)](http://www.techmeme.com/210817/p44#a210817p44)
- - [Amazon Prime Video: The 31 best TV shows to watch this week     - CNET](https://www.cnet.com/news/amazon-prime-video-the-31-best-tv-shows-to-watch-this-week/#ftag=CAD590a51e)
- - [Tweetbot 6 for iOS updated with Timeline Widgets, multiple windows on iPad, more](https://appleinsider.com/articles/21/08/18/tweetbot-6-for-ios-updated-with-timeline-widgets-multiple-windows-on-ipad-more?utm_medium=rss)<!-- TECH:END -->
+ - [Split, which makes it easy for developers to use feature flags, raises $50M Series D led by Owl Rock, bringing its total raised to $110M (Ron Miller/TechCrunch)](http://www.techmeme.com/210817/p48#a210817p48)
+ - [PatPat, an e-commerce website that sells kids wear and matching family outfits, raises $160M from SoftBank's Vision Fund 2, bringing its total raised to $700M+ (Eudora Wang/DealStreetAsia)](http://www.techmeme.com/210817/p47#a210817p47)
+ - [Female and family focused digital health startup Maven raises $110M Series D co-led by Dragoneer Investment Group and Lux Capital at an over $1B valuation (Beth Kowitt/Fortune)](http://www.techmeme.com/210817/p46#a210817p46)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
