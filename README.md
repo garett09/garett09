@@ -194,8 +194,8 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Two year old with second degree burns treated with stem cell therapy for amazing results](http://9gag.com/gag/agBwENx)
- - 🚯 [Biggus Dickus](http://9gag.com/gag/abVw288)
+ - 🚖 [Paul Rudd being himself from the start](http://9gag.com/gag/aeAw7Bq)
+ - 🚯 [Yah Jeremy - get the f**k out....](http://9gag.com/gag/aWj5D43)
  - 🚯 [Want to enjoy some &ldquo;Mii&rdquo; time? It&rsquo;s time! Win a Nintendo Switch from Club9 x GameTaster!](http://9gag.com/gag/aWj5nLK)<!-- MEMES:END -->
 
 --- 
