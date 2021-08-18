@@ -187,9 +187,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Split, which makes it easy for developers to use feature flags, raises $50M Series D led by Owl Rock, bringing its total raised to $110M (Ron Miller/TechCrunch)](http://www.techmeme.com/210817/p48#a210817p48)
- - [PatPat, an e-commerce website that sells kids wear and matching family outfits, raises $160M from SoftBank's Vision Fund 2, bringing its total raised to $700M+ (Eudora Wang/DealStreetAsia)](http://www.techmeme.com/210817/p47#a210817p47)
- - [Female and family focused digital health startup Maven raises $110M Series D co-led by Dragoneer Investment Group and Lux Capital at an over $1B valuation (Beth Kowitt/Fortune)](http://www.techmeme.com/210817/p46#a210817p46)<!-- TECH:END -->
+ - [The best Netflix documentaries to watch right now     - CNET](https://www.cnet.com/news/the-best-netflix-documentaries-to-watch-right-now/#ftag=CAD590a51e)
+ - [iPhone 13 release date: Could Apple's new smartphone come this fall?     - CNET](https://www.cnet.com/tech/mobile/iphone-13-release-date-could-apples-new-smartphone-come-fall/#ftag=CAD590a51e)
+ - [Newly discovered prehistoric creature named after The Hobbit character     - CNET](https://www.cnet.com/news/newly-discovered-prehistoric-creature-named-after-the-hobbit-character/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
