@@ -187,9 +187,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Profile of DDoSecrets, a collective formed in 2018 that has shared confidential documents from US law enforcement, Myanmar, Ukraine, Gab, and others (Jacob Silverman/New Republic)](http://www.techmeme.com/210818/p28#a210818p28)
- - [Samsung Galaxy Z Fold 3 review: No Note replacement, but a fine foldable](https://www.androidauthority.com/samsung-galaxy-z-fold-3-review-2732195/)
- - [What to expect from Tesla’s AI day event](https://www.theverge.com/2021/8/18/22627101/tesla-event-ai-day-rumors-elon-musk-what-to-expect)<!-- TECH:END -->
+ - [The Fossil Gen 6 smartwatch has leaked with new images and info](https://www.androidauthority.com/fossil-gen-6-smartwatch-specs-2736887/)
+ - [Best Deals August 18 - Flexispot desks 32% off, MagSafe Charger, and more!](https://appleinsider.com/articles/21/08/18/best-deals-august-18---flexispot-desks-32-off-magsafe-charger-and-more?utm_medium=rss)
+ - [Pinterest is adding search filters for different hair textures](https://www.theverge.com/2021/8/18/22628978/pinterest-hair-patterns-textures-search-filters)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
