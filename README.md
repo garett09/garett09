@@ -187,9 +187,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple's CSAM detection algorithm reportedly harvested from iOS 14.3 [u]](https://appleinsider.com/articles/21/08/18/apples-csam-detection-algorithm-reportedly-harvested-from-ios-143?utm_medium=rss)
- - [Netflix enables Spatial Audio support for iPhone and iPad](https://appleinsider.com/articles/21/08/18/netflix-enables-spatial-audio-support-for-iphone-and-ipad?utm_medium=rss)
- - [Would the math work if Databricks were valued at $38B?](http://feedproxy.google.com/~r/Techcrunch/~3/hq9qu22JsRs/)<!-- TECH:END -->
+ - [Daily Crunch: T-Mobile confirms ‘highly sophisticated cyberattack’ affecting 47M customer accounts](http://feedproxy.google.com/~r/Techcrunch/~3/wITQ74rtc_I/)
+ - [Facebook's content report shares too little data to make meaningful conclusions, ranking many generic domains like YouTube without detailing the content viewed (Ethan Zuckerman)](http://www.techmeme.com/210818/p41#a210818p41)
+ - [Microsoft’s new Paint redesign for Windows 11 includes a dark mode](https://www.theverge.com/2021/8/18/22631442/microsoft-windows-11-paint-redesign-update-app)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
