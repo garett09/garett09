@@ -194,9 +194,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Lmao](http://9gag.com/gag/aGp5bmn)
- - 🚯 [Lady in white SUV tries to bully an 18-wheeler](http://9gag.com/gag/apNwdOD)
- - 🚯 [RIP the legend Sean Lock](http://9gag.com/gag/aXo1dOb)<!-- MEMES:END -->
+ - 🚖 [Literally Yeeted by a car](http://9gag.com/gag/ajmwdp1)
+ - 🚯 [RIP Sean Lock, one of the funniest guys on TV](http://9gag.com/gag/aAb5vBE)
+ - 🚯 [Time pass...](http://9gag.com/gag/anQwVwb)<!-- MEMES:END -->
 
 --- 
 
