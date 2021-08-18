@@ -180,9 +180,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dying Light 2's parkour, combat, and factions to be detailed at Gamescom](https://www.pcgamer.com/dying-light-2s-parkour-combat-and-factions-to-be-detailed-at-gamescom)
- - [AMD's next-gen GPUs could embrace DisplayPort 2.0 for 8K HDR gaming](https://www.pcgamer.com/amds-next-gen-gpus-could-embrace-displayport-20-for-8k-hdr-gaming)
- - [Diablo 2: Resurrected gets an open beta this weekend](https://www.pcgamer.com/diablo-2-resurrected-gets-an-open-beta-this-weekend)<!-- GAME:END -->
+ - [Pokémon Legends: Arceus has all-new Pokémon, including a new nightmare fish](https://www.polygon.com/22630496/pokemon-legends-arceus-new-pokemon-evolutions-basculegion-wyrdeer)
+ - [Meet the genre-hopping Mayhem Brawler: trading card game turned side-scroller](http://feedproxy.google.com/~r/PSBlog/~3/z2GE-6ZwdiM/)
+ - [Meet the genre-hopping Mayhem Brawler: trading card game turned side-scroller](https://blog.playstation.com/2021/08/18/meet-the-genre-hopping-mayhem-brawler-trading-card-game-turned-side-scroller/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
