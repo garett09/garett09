@@ -180,9 +180,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Genshin Impact Theater Mechanicus guide](https://www.pcgamer.com/genshin-impact-theater-mechanicus-guide)
  - [Deathloop: everything we know about Arkane's time loop assassin sandbox](https://www.pcgamer.com/deathloop-release-date-trailer-story)
- - [Every Warhammer 40,000 game, ranked](https://www.pcgamer.com/best-warhammer-40k-games)
- - [Free Guy is a better videogame movie than I expected](https://www.pcgamer.com/free-guy-is-a-better-videogame-movie-than-i-expected)<!-- GAME:END -->
+ - [Every Warhammer 40,000 game, ranked](https://www.pcgamer.com/best-warhammer-40k-games)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
