@@ -180,9 +180,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [eFootball: Everything we know](https://www.pcgamer.com/pes-efootball-2022-release-date)
- - [Our Inspirations Behind Black Panther’s Outfits in the War for Wakanda Expansion](http://feedproxy.google.com/~r/PSBlog/~3/mYWo9o-ZbfY/)
- - [Our Inspirations Behind Black Panther’s Outfits in the War for Wakanda Expansion](https://blog.playstation.com/2021/08/18/our-inspirations-behind-black-panthers-outfits-in-the-war-for-wakanda-expansion/)<!-- GAME:END -->
+ - [Monoprice Dark Matter 27-inch Gaming Monitor review](https://www.pcgamer.com/monoprice-dark-matter-27-inch-gaming-monitor-review)
+ - [The Epic Games Store's equivalent to Steam Direct is in beta](https://www.pcgamer.com/the-epic-games-stores-equivalent-to-steam-direct-is-in-beta)
+ - [eFootball: Everything we know](https://www.pcgamer.com/pes-efootball-2022-release-date)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
