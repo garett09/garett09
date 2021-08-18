@@ -180,9 +180,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Free Guy is a better videogame movie than I expected](https://www.pcgamer.com/free-guy-is-a-better-videogame-movie-than-i-expected)
- - [World Of Warships Players Are In Open Revolt Over Shady Monetisation Schemes](https://kotaku.com/world-of-warships-players-are-in-open-revolt-over-shady-1847506495)
- - [When the Chainsaw Man anime comes out, based on everything we know](https://www.polygon.com/22629570/chainsaw-man-anime-release-date-netflix-crunchyroll)<!-- GAME:END -->
+ - [Deathloop: everything we know about Arkane's time loop assassin sandbox](https://www.pcgamer.com/deathloop-release-date-trailer-story)
+ - [Every Warhammer 40,000 game, ranked](https://www.pcgamer.com/best-warhammer-40k-games)
+ - [Free Guy is a better videogame movie than I expected](https://www.pcgamer.com/free-guy-is-a-better-videogame-movie-than-i-expected)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
