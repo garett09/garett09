@@ -187,9 +187,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Brazil’s Kovi closes $104M Series B to make car ownership ‘more inclusive’ in LatAm](http://feedproxy.google.com/~r/Techcrunch/~3/Y6FMB1WYeIY/)
- - [New leak spills specs, design of Bose’s upcoming flagship headphones](https://www.androidauthority.com/bose-quietcomfort-45-specs-2736579/)
- - [This cheap Android handheld could be an emulation beast](https://www.androidauthority.com/ayn-odin-android-gaming-handheld-2736576/)<!-- TECH:END -->
+ - [China's government rebukes 43 apps, including Tencent's WeChat, for illegally transferring user data, including location and contacts, and orders rectifications (Reuters)](http://www.techmeme.com/210818/p10#a210818p10)
+ - [Analysis: SoftBank likely raised over $6B by selling stakes in Facebook, Microsoft, Alphabet, Salesforce, and Netflix in the three months ending June 30 (Bloomberg)](http://www.techmeme.com/210818/p9#a210818p9)
+ - [Brazilian startup Kovi, which rents vehicles to drivers who work for ride hailing and delivery companies, raises $104M Series B, bringing total raised to $145M (Mary Ann Azevedo/TechCrunch)](http://www.techmeme.com/210818/p8#a210818p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
