@@ -187,9 +187,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: several execs at Waymo, which saw a mass exodus of top talent this spring, felt frustrated about the sluggish pace of progress of its driverless tech (Bloomberg)](http://www.techmeme.com/210818/p3#a210818p3)
- - [Google’s affordable Pixel Buds A series is heading to India](https://www.androidauthority.com/google-pixel-buds-a-india-2736581/)
- - [Pakistan’s Airlift raises $85 million for its quick commerce startup, eyes international expansion](http://feedproxy.google.com/~r/Techcrunch/~3/k2apluILkRI/)<!-- TECH:END -->
+ - [Brazil’s Kovi closes $104M Series B to make car ownership ‘more inclusive’ in LatAm](http://feedproxy.google.com/~r/Techcrunch/~3/Y6FMB1WYeIY/)
+ - [New leak spills specs, design of Bose’s upcoming flagship headphones](https://www.androidauthority.com/bose-quietcomfort-45-specs-2736579/)
+ - [This cheap Android handheld could be an emulation beast](https://www.androidauthority.com/ayn-odin-android-gaming-handheld-2736576/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
