@@ -194,9 +194,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Literally Yeeted by a car](http://9gag.com/gag/ajmwdp1)
- - 🚯 [It&#039;s starting again...](http://9gag.com/gag/apNwzbp)
- - 🚯 [Lady in white SUV tries to bully an 18-wheeler](http://9gag.com/gag/apNwdOD)<!-- MEMES:END -->
+ - 🚖 [Matchlighting 101](http://9gag.com/gag/anQw8qL)
+ - 🚯 [Damn, that&rsquo;s one super fast 7 year old&hellip;](http://9gag.com/gag/abVwmnr)
+ - 🚯 [Dangerous profession](http://9gag.com/gag/aLp5N15)<!-- MEMES:END -->
 
 --- 
 
