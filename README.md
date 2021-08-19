@@ -187,9 +187,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [When is the next 2021 Apple event? We think we'll find out very soon     - CNET](https://www.cnet.com/tech/mobile/when-is-the-next-2021-apple-event-we-think-well-find-out-very-soon/#ftag=CAD590a51e)
- - [FTC's new suit says Facebook has a monopoly in "US personal social networking services", distinguishing it from TikTok, and Lina Khan will not recuse herself (The Verge)](http://www.techmeme.com/210819/p26#a210819p26)
- - [Apple’s new Foundation trailer has some serious ‘Game of Thrones but in space’ energy](https://www.theverge.com/2021/8/19/22632413/foundation-apple-tv-plus-trailer-game-of-thrones-energy)<!-- TECH:END -->
+ - [JP Morgan ups Apple price target to $170, citing 5G iPhone SE expectations](https://appleinsider.com/articles/21/08/19/jp-morgan-ups-apple-price-target-to-170-citing-5g-iphone-se-expectations?utm_medium=rss)
+ - [An overview of the most interesting internal emails from the Apple v. Epic trial, including discussions about an "iPhone nano" and lowering App Store fees (Sean Hollister/The Verge)](http://www.techmeme.com/210819/p27#a210819p27)
+ - [Twitter is testing a newsletter subscription button on profile pages](https://www.theverge.com/2021/8/19/22632414/twitter-newsletter-subscription-button-revue-profile)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
