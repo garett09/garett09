@@ -187,9 +187,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [From continuous zoom to RGBW sensors: Oppo reveals plenty of camera innovations](https://www.androidauthority.com/oppo-imaging-2021-2736645/)
- - [Oppo introduces true continuous zoom lens for smartphones](https://www.theverge.com/2021/8/19/22631974/oppo-continuous-zoom-lens-smartphone-camera-tech-event)
- - [You told us: Galaxy Z Fold 3 or Galaxy Z Flip 3? The winner surprised us.](https://www.androidauthority.com/galaxy-z-fold-3-or-galaxy-z-flip-3-poll-results-2737243/)<!-- TECH:END -->
+ - [Nvidia says its planned acquisition of Arm is unlikely to be completed within the planned 18-month time frame, due to investigations in the UK and China (Richard Waters/Financial Times)](http://www.techmeme.com/210819/p3#a210819p3)
+ - [Tencent says it will give an additional $7B to aid the Chinese government's wealth redistribution plans and warns investors of more government regulations (Zheping Huang/Bloomberg)](http://www.techmeme.com/210819/p2#a210819p2)
+ - [Nvidia admits acquisition of British chip designer Arm may take longer than 18 months](https://www.theverge.com/2021/8/19/22632017/nvidia-acquisition-arm-timeframe-18-months-schedule-regulatory-scrutiny)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
