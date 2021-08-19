@@ -194,8 +194,8 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When monster magnets are joined with proper technique VS when monster magnets are joined directly.](http://9gag.com/gag/apNwwLE)
- - 🚯 [On September 11, 2001, at 8:45 am](http://9gag.com/gag/a3ErDL5)
+ - 🚖 [Safety at work comes first](http://9gag.com/gag/aXo1zpv)
+ - 🚯 [Canadian Driver Going Insane on Indian Roads](http://9gag.com/gag/aeAwEzm)
  - 🚯 [What&#039;s your favorite food from another country?](http://9gag.com/gag/aV759ow)<!-- MEMES:END -->
 
 --- 
