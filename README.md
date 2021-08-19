@@ -180,9 +180,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [El Shaddai: Ascension of the Metatron gets firm Steam release date](https://www.pcgamer.com/el-shaddai-ascension-of-the-metatron-gets-firm-steam-release-date)
  - [Time For An Upgrade](https://kotaku.com/time-for-an-upgrade-1847514375)
- - [Myst remake hits PC and Game Pass on August 26](https://www.pcgamer.com/myst-remake-hits-pc-and-game-pass-on-august-26)
- - [Splitgate will stay in open beta indefinitely](https://www.pcgamer.com/splitgate-will-stay-in-open-beta-indefinitely)<!-- GAME:END -->
+ - [Myst remake hits PC and Game Pass on August 26](https://www.pcgamer.com/myst-remake-hits-pc-and-game-pass-on-august-26)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
