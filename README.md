@@ -187,9 +187,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [JP Morgan ups Apple price target to $170, citing 5G iPhone SE expectations](https://appleinsider.com/articles/21/08/19/jp-morgan-ups-apple-price-target-to-170-citing-5g-iphone-se-expectations?utm_medium=rss)
- - [An overview of the most interesting internal emails from the Apple v. Epic trial, including discussions about an "iPhone nano" and lowering App Store fees (Sean Hollister/The Verge)](http://www.techmeme.com/210819/p27#a210819p27)
- - [Twitter is testing a newsletter subscription button on profile pages](https://www.theverge.com/2021/8/19/22632414/twitter-newsletter-subscription-button-revue-profile)<!-- TECH:END -->
+ - [OnlyFans says it will prohibit users from posting any sexually explicit conduct starting in October, but will allow them to post nude photos and videos (Lucas Shaw/Bloomberg)](http://www.techmeme.com/210819/p29#a210819p29)
+ - [Revolut introduces salary advance feature in the UK](http://feedproxy.google.com/~r/Techcrunch/~3/JhjQpsEYwKM/)
+ - [Call of Duty: Vanguard brings the series back to WWII in November](https://www.theverge.com/2021/8/19/22631315/call-of-duty-vanguard-release-date-trailer-sledgehammer-ps5-xbox)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
