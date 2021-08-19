@@ -180,9 +180,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Ghost of Tsushima’s upgraded camera helps, but is it really necessary?](https://www.polygon.com/22631418/ghost-of-tsushima-directors-cut-impressions-ps5-ps4-new-content-options-patch)
- - [Ghost of Tsushima Director's Cut's Iki Island Expansion Is Just Fine](https://kotaku.com/ghost-of-tsushima-directors-cuts-iki-island-expansion-i-1847514939)
- - [IRL Sims stream controlled by viewers goes as well as you'd expect](https://www.pcgamer.com/irl-sims-stream-controlled-by-viewers-goes-as-well-as-youd-expect)<!-- GAME:END -->
+ - [The final Eternals trailer picks up where Avengers: Endgame left off](https://www.polygon.com/22632170/eternals-trailer-release-date-avengers-marvel-order)
+ - [Plug in and Game on with the New Xbox Stereo Headset](https://news.xbox.com/en-us/2021/08/19/game-on-with-new-xbox-stereo-headset/)
+ - [You can build a glassy-looking PC inside this Corsair case that's on sale for $100](https://www.pcgamer.com/you-can-build-a-glassy-looking-pc-inside-this-corsair-case-thats-on-sale-for-dollar100)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
