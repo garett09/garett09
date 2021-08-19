@@ -187,9 +187,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [PUBG New State: Everything you need to know (Update: Potential launch date)](https://www.androidauthority.com/pubg-new-state-1203962/)
- - [Score this Ms Pac-Man Arcade 1Up cabinet for 33% off today     - CNET](https://www.cnet.com/news/score-this-ms-pacman-arcade-1up-cabinet-for-33-off-today/#ftag=CAD590a51e)
- - [Toyota says it will cut production in Japan by 40% in September due to the global chip shortage, after touting its ability to insulate itself (Sean McLain/Wall Street Journal)](http://www.techmeme.com/210819/p14#a210819p14)<!-- TECH:END -->
+ - [Intel details its Alder Lake lineup, coming this fall, which uses a 10nm process and offers hybrid performance and efficiency x86 cores (Chaim Gartenberg/The Verge)](http://www.techmeme.com/210819/p17#a210819p17)
+ - [General Motors and AT&T will offer 5G connectivity in certain vehicles from model year 2024](http://feedproxy.google.com/~r/Techcrunch/~3/5mkeSPX8P70/)
+ - ['Civilization VI' New Frontier Pass coming to iOS August 24](https://appleinsider.com/articles/21/08/19/civilization-vi-new-frontier-pass-coming-to-ios-august-24?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
