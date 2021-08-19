@@ -187,9 +187,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Vine’s creator is now working on NFT blockchain video games](https://www.theverge.com/2021/8/19/22632765/vine-creator-dom-hofmann-blockchain-video-game-nft-supdrive)
- - [Microsoft says it will raise the prices of commercial Microsoft 365 subscription bundles in March 2022, the first major price change since their 2011 launch (Jordan Novet/CNBC)](http://www.techmeme.com/210819/p32#a210819p32)
- - [Twitter rolls out a series of improvements to its Direct Message system](http://feedproxy.google.com/~r/Techcrunch/~3/H23T92YS-7w/)<!-- TECH:END -->
+ - [Adobe acquires video collaboration platform Frame.io for $1.275B](https://appleinsider.com/articles/21/08/19/adobe-acquires-video-collaboration-platform-frameio-for-1275b?utm_medium=rss)
+ - [Samsung Galaxy Watch 4 Classic: A well-rounded smartwatch](http://feedproxy.google.com/~r/Techcrunch/~3/-iBFu3gr7Jc/)
+ - [Adobe buying Frame.io in $1.28B deal](http://feedproxy.google.com/~r/Techcrunch/~3/C74-cV063JM/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
