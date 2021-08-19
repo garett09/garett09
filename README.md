@@ -180,9 +180,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Skyrim's 'treasure fox' myth has been explained](https://www.pcgamer.com/skyrims-treasure-fox-explained)
- - [’90s Arcade-Inspired Beat ’em up Mayhem Brawler Launches August 19](https://news.xbox.com/en-us/2021/08/18/90s-arcade-inspired-beat-em-up-mayhem-brawler-launches-august-19/)
- - [Vintage cat food locations in Fortnite](https://www.pcgamer.com/vintage-cat-food-fortnite)<!-- GAME:END -->
+ - [Yes, Skyrim's Foxes Do Lead You To Treasure, Sort Of](https://kotaku.com/yes-skyrims-foxes-do-lead-you-to-treasure-sort-of-1847514070)
+ - [Thanos’ turn in Marvel’s What If...? was inevitable](https://www.polygon.com/22630436/thanos-josh-brolin-marvel-what-if-episode-2)
+ - ['Stolen' Game Aeon Must Die Returns, Despite Unresolved Allegations Of Abuse And Corruption](https://kotaku.com/stolen-game-aeon-must-die-returns-despite-unresolved-a-1847513802)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
