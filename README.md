@@ -180,9 +180,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [NHL 22 heads to PS5 and Xbox Series X, but won’t leave last-gen players behind](https://www.polygon.com/22631542/nhl-22-trailer-ps5-ps4-xbox-series-x-one-release-date-frostbite)
- - [The Eternals trailer’s giant red robot is the Cthulhu of the Marvel universe](https://www.polygon.com/comics/22632222/eternals-celestial-red-robot-eyes-comics-galactus)
- - [Quake remake rated by the ESRB, more information expected today](https://www.pcgamer.com/quake-remake-rated-by-the-esrb-more-information-expected-today)<!-- GAME:END -->
+ - [Destiny 2 anti-cheat system coming next season, Bungie says](https://www.polygon.com/22632345/destiny-2-anti-cheat-bungie-battleye-hackers-cheaters-trials-crucible)
+ - [Intel's Alchemist gaming GPUs could actually stand a chance against Nvidia and AMD](https://www.pcgamer.com/intel-dg2-gaming-graphics-card-release-date-specs-price-performance-xe-hpg)
+ - [Battlefield 2042 datamine reveals a Tarkov-esque game mode](https://www.pcgamer.com/battlefield-2042-datamine-reveals-a-tarkov-esque-game-mode)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
