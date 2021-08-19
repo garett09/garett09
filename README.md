@@ -187,9 +187,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnlyFans says it will prohibit users from posting any sexually explicit conduct starting in October, but will allow them to post nude photos and videos (Lucas Shaw/Bloomberg)](http://www.techmeme.com/210819/p29#a210819p29)
- - [Revolut introduces salary advance feature in the UK](http://feedproxy.google.com/~r/Techcrunch/~3/JhjQpsEYwKM/)
- - [Call of Duty: Vanguard brings the series back to WWII in November](https://www.theverge.com/2021/8/19/22631315/call-of-duty-vanguard-release-date-trailer-sledgehammer-ps5-xbox)<!-- TECH:END -->
+ - [OnlyFans bans explicit content](http://feedproxy.google.com/~r/Techcrunch/~3/16v-6_rDGac/)
+ - [Epic’s store-crashing GTA V freebie brought more than 7 million new users to its online marketplace](https://www.theverge.com/2021/8/19/22631952/epic-games-store-gta-v-free-game-7-million-new-users-apple-trial)
+ - [Hank Azaria tapped to play Tim Cook in new Showtime series about Uber](https://appleinsider.com/articles/21/08/19/hank-azaria-tapped-to-play-tim-cook-in-new-showtime-series-about-uber?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
