@@ -187,9 +187,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How the Taliban moved away from its technophobic roots and began using WhatsApp, Twitter, and Facebook to launder its brand and advance its agenda (Gavin Butler/VICE)](http://www.techmeme.com/210819/p34#a210819p34)
- - [The Epic v. Google lawsuit finally makes sense](https://www.theverge.com/2021/8/19/22632804/epic-google-lawsuit-unredacted-complaint-antitrust)
- - [SpaceX’s lunar lander contract on hold again pending Blue Origin’s lawsuit](https://www.theverge.com/2021/8/19/22632990/spacex-lunar-lander-contract-paused-blue-origin-nasa-lawsuit)<!-- TECH:END -->
+ - [Lina Khan’s Theory of the Facebook Antitrust Case Takes Shape](https://www.wired.com/story/lina-khan-theory-facebook-antitrust-case-takes-shape)
+ - [Foxconn's electric vehicle ambitions date back to 2014](https://appleinsider.com/articles/21/08/19/foxconns-electric-vehicle-ambitions-date-back-to-2014?utm_medium=rss)
+ - [Spawn Together campaign surpasses $1 million fundraising goal for AbleGamers charity](https://www.theverge.com/2021/8/19/22630693/spawn-together-campaign-1-million-ablegamers-charity)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
