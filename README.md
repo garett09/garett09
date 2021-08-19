@@ -194,8 +194,8 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Drunk road rager gets his ass kicked while his unoccupied car slowly drifts down the road](http://9gag.com/gag/a9E0Z5K)
- - 🚯 [Steve-O celebrates 4 years with Wendy, who he adopted as a stray off the streets of Peru.](http://9gag.com/gag/a8EOQqZ)
+ - 🚖 [Outstanding](http://9gag.com/gag/amPwO84)
+ - 🚯 [It&#039;s starting again...](http://9gag.com/gag/apNwzbp)
  - 🚯 [Once Again Bond with VISA](http://9gag.com/gag/a8EOvLp)<!-- MEMES:END -->
 
 --- 
