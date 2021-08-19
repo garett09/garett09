@@ -187,9 +187,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [WhatsApp is looking to add a really long time limit to disappearing messages](https://www.androidauthority.com/whatsapp-disappearing-messages-90-days-2737224/)
- - [Australian antitrust regulator mulls regulations to open Apple, Google app stores](https://appleinsider.com/articles/21/08/19/australian-antitrust-regulator-mulls-regulations-to-open-apple-google-app-stores?utm_medium=rss)
- - [Should you still buy an iPhone 12? The iPhone 13 may not be best for everyone     - CNET](https://www.cnet.com/tech/mobile/should-you-still-buy-an-iphone-12-the-iphone-13-may-not-be-best-everyone/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [RedmiBook 15 Pro review: Hiding behind small mercies](https://www.androidauthority.com/redmibook-15-pro-review-2734125/)
+ - [Latest OnePlus 8T update brings Bitmoji AOD, August security patch](https://www.androidauthority.com/oneplus-8t-update-1173244/)
+ - [Amazon rolls out India’s first celebrity voice on Alexa with Amitabh Bachchan](http://feedproxy.google.com/~r/Techcrunch/~3/N65VlYuulZI/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
