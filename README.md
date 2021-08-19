@@ -187,9 +187,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Adobe acquires video collaboration platform Frame.io for $1.275B](https://appleinsider.com/articles/21/08/19/adobe-acquires-video-collaboration-platform-frameio-for-1275b?utm_medium=rss)
- - [Samsung Galaxy Watch 4 Classic: A well-rounded smartwatch](http://feedproxy.google.com/~r/Techcrunch/~3/-iBFu3gr7Jc/)
- - [Adobe buying Frame.io in $1.28B deal](http://feedproxy.google.com/~r/Techcrunch/~3/C74-cV063JM/)<!-- TECH:END -->
+ - [How the Taliban moved away from its technophobic roots and began using WhatsApp, Twitter, and Facebook to launder its brand and advance its agenda (Gavin Butler/VICE)](http://www.techmeme.com/210819/p34#a210819p34)
+ - [The Epic v. Google lawsuit finally makes sense](https://www.theverge.com/2021/8/19/22632804/epic-google-lawsuit-unredacted-complaint-antitrust)
+ - [SpaceX’s lunar lander contract on hold again pending Blue Origin’s lawsuit](https://www.theverge.com/2021/8/19/22632990/spacex-lunar-lander-contract-paused-blue-origin-nasa-lawsuit)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
