@@ -187,9 +187,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [WhatsApp is looking to add a really long time limit to disappearing messages](https://www.androidauthority.com/whatsapp-disappearing-messages-90-days-2737224/)
  - [Australian antitrust regulator mulls regulations to open Apple, Google app stores](https://appleinsider.com/articles/21/08/19/australian-antitrust-regulator-mulls-regulations-to-open-apple-google-app-stores?utm_medium=rss)
- - [Should you still buy an iPhone 12? The iPhone 13 may not be best for everyone     - CNET](https://www.cnet.com/tech/mobile/should-you-still-buy-an-iphone-12-the-iphone-13-may-not-be-best-everyone/#ftag=CAD590a51e)
- - [Canada Drives, which launched an online used car shopping and next day delivery service last year, raises ~$79.4M Series B, bringing its total raised to ~$159M (Rebecca Bellan/TechCrunch)](http://www.techmeme.com/210818/p50#a210818p50)<!-- TECH:END -->
+ - [Should you still buy an iPhone 12? The iPhone 13 may not be best for everyone     - CNET](https://www.cnet.com/tech/mobile/should-you-still-buy-an-iphone-12-the-iphone-13-may-not-be-best-everyone/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
