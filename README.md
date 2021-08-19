@@ -187,9 +187,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [One, a digital bank aimed at the middle class, raises $40M Series B led by Progressive Investment Company, bringing its total funding to $66M (Mary Ann Azevedo/TechCrunch)](http://www.techmeme.com/210818/p47#a210818p47)
- - [Podcasters complain of Apple Podcasts platform pain points](https://appleinsider.com/articles/21/08/19/podcasters-complain-of-apple-podcasts-platform-pain-points?utm_medium=rss)
- - [NFTs, explained](https://www.theverge.com/22310188/nft-explainer-what-is-blockchain-crypto-art-faq)<!-- TECH:END -->
+ - [Canada Drives, which launched an online used car shopping and next day delivery service last year, raises ~$79.4M Series B, bringing its total raised to ~$159M (Rebecca Bellan/TechCrunch)](http://www.techmeme.com/210818/p50#a210818p50)
+ - [Coinbase has $4.36B in cash reserves as of June 30, about four times higher than at the end of 2020, as it prepares for possible tighter regulation (Kristin Broughton/Wall Street Journal)](http://www.techmeme.com/210818/p49#a210818p49)
+ - [Facebook says it took action against 12 COVID vaccine misinfo "superspreaders" but disputes claims that those 12 were responsible for 73% of misinfo on Facebook (Karissa Bell/Engadget)](http://www.techmeme.com/210818/p48#a210818p48)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
