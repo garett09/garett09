@@ -187,9 +187,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [NFTs, explained](https://www.theverge.com/22310188/nft-explainer-what-is-blockchain-crypto-art-faq)
- - [How an Obscure Green Bay Packers Site Conquered Facebook](https://www.wired.com/story/facebook-transparency-biggest-sites-pages-links)
- - [Robinhood says crypto accounted for ~52% of all transaction-based revenue in Q2, and 62% of crypto revenue came from dogecoin (CNBC)](http://www.techmeme.com/210818/p46#a210818p46)<!-- TECH:END -->
+ - [One, a digital bank aimed at the middle class, raises $40M Series B led by Progressive Investment Company, bringing its total funding to $66M (Mary Ann Azevedo/TechCrunch)](http://www.techmeme.com/210818/p47#a210818p47)
+ - [Podcasters complain of Apple Podcasts platform pain points](https://appleinsider.com/articles/21/08/19/podcasters-complain-of-apple-podcasts-platform-pain-points?utm_medium=rss)
+ - [NFTs, explained](https://www.theverge.com/22310188/nft-explainer-what-is-blockchain-crypto-art-faq)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
