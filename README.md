@@ -194,7 +194,7 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Why does this keep happening?](http://9gag.com/gag/aV758Vw)
+ - 🚖 [When monster magnets are joined with proper technique VS when monster magnets are joined directly.](http://9gag.com/gag/apNwwLE)
  - 🚯 [On September 11, 2001, at 8:45 am](http://9gag.com/gag/a3ErDL5)
  - 🚯 [What&#039;s your favorite food from another country?](http://9gag.com/gag/aV759ow)<!-- MEMES:END -->
 
