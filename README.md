@@ -187,9 +187,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnlyFans bans explicit content](http://feedproxy.google.com/~r/Techcrunch/~3/16v-6_rDGac/)
- - [Epic’s store-crashing GTA V freebie brought more than 7 million new users to its online marketplace](https://www.theverge.com/2021/8/19/22631952/epic-games-store-gta-v-free-game-7-million-new-users-apple-trial)
- - [Hank Azaria tapped to play Tim Cook in new Showtime series about Uber](https://appleinsider.com/articles/21/08/19/hank-azaria-tapped-to-play-tim-cook-in-new-showtime-series-about-uber?utm_medium=rss)<!-- TECH:END -->
+ - [Vine’s creator is now working on NFT blockchain video games](https://www.theverge.com/2021/8/19/22632765/vine-creator-dom-hofmann-blockchain-video-game-nft-supdrive)
+ - [Microsoft says it will raise the prices of commercial Microsoft 365 subscription bundles in March 2022, the first major price change since their 2011 launch (Jordan Novet/CNBC)](http://www.techmeme.com/210819/p32#a210819p32)
+ - [Twitter rolls out a series of improvements to its Direct Message system](http://feedproxy.google.com/~r/Techcrunch/~3/H23T92YS-7w/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
