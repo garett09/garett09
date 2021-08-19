@@ -187,9 +187,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Institutional ownership of Apple surges in Q3, though still down year-over-year](https://appleinsider.com/articles/21/08/19/institutional-ownership-of-apple-surges-in-q3-though-still-down-year-over-year?utm_medium=rss)
- - [Smartwatch-induced health anxiety led one woman to run 916 ECGs in a year](https://www.theverge.com/2021/8/19/22630463/smartwatch-health-anxiety-heart-alerts-patient-education)
- - [Steve Jobs email confirms Apple was working on an ‘iPhone nano’](https://www.theverge.com/2021/8/19/22631541/steve-jobs-email-apple-iphone-nano-epic-lawsuit)<!-- TECH:END -->
+ - [How Big Tech companies use shell corporations to get massive tax breaks from US cities for data centers that create few jobs and consume a lot of power (David Jeans/Forbes)](http://www.techmeme.com/210819/p21#a210819p21)
+ - [Steve Jobs email reveals Apple was evaluating an 'iPhone nano' in 2010](https://appleinsider.com/articles/21/08/19/steve-jobs-email-reveals-apple-was-evaluating-an-iphone-nano-in-2010?utm_medium=rss)
+ - [Best Deals August 19 - Free 240GB SSD, $50 off LG UltraWide monitor, 20% off Otterbox cases, and more!](https://appleinsider.com/articles/21/08/19/best-deals-august-19---free-240gb-ssd-50-off-lg-ultrawide-monitor-20-off-otterbox-cases-and-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
