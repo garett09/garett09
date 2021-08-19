@@ -194,8 +194,8 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Making connection](http://9gag.com/gag/amPwZ6y)
- - 🚯 [Just a small experiment how popular is this Czech treasure even if most people here can&acute;t understand it](http://9gag.com/gag/aQo5bA7)
+ - 🚖 [Just a small experiment how popular is this Czech treasure even if most people here can&acute;t understand it](http://9gag.com/gag/aQo5bA7)
+ - 🚯 [When monster magnets are joined with proper technique VS when monster magnets are joined directly.](http://9gag.com/gag/apNwwLE)
  - 🚯 [What&#039;s your favorite food from another country?](http://9gag.com/gag/aV759ow)<!-- MEMES:END -->
 
 --- 
