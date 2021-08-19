@@ -194,8 +194,8 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Who needs to punch the wall](http://9gag.com/gag/aAb5ADo)
- - 🚯 [This dad gets it.](http://9gag.com/gag/amPwwV9)
+ - 🚖 [Making connection](http://9gag.com/gag/amPwZ6y)
+ - 🚯 [Just a small experiment how popular is this Czech treasure even if most people here can&acute;t understand it](http://9gag.com/gag/aQo5bA7)
  - 🚯 [What&#039;s your favorite food from another country?](http://9gag.com/gag/aV759ow)<!-- MEMES:END -->
 
 --- 
