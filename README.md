@@ -194,7 +194,7 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Canadian Driver Going Insane on Indian Roads](http://9gag.com/gag/aeAwEzm)
+ - 🚖 [Who needs to punch the wall](http://9gag.com/gag/aAb5ADo)
  - 🚯 [This dad gets it.](http://9gag.com/gag/amPwwV9)
  - 🚯 [What&#039;s your favorite food from another country?](http://9gag.com/gag/aV759ow)<!-- MEMES:END -->
 
