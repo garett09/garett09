@@ -194,9 +194,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [R.I.P Sean Lock, May this meme last forever, 1963-2021.](http://9gag.com/gag/a8EOng6)
- - 🚯 [Dangerous profession](http://9gag.com/gag/aLp5N15)
- - 🚯 [Drunk road rager gets his ass kicked while his unoccupied car slowly drifts down the road](http://9gag.com/gag/a9E0Z5K)<!-- MEMES:END -->
+ - 🚖 [Drunk road rager gets his ass kicked while his unoccupied car slowly drifts down the road](http://9gag.com/gag/a9E0Z5K)
+ - 🚯 [A satisfying ending..](http://9gag.com/gag/a5E3yOL)
+ - 🚯 [Steve-O celebrates 4 years with Wendy, who he adopted as a stray off the streets of Peru.](http://9gag.com/gag/a8EOQqZ)<!-- MEMES:END -->
 
 --- 
 
