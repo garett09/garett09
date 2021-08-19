@@ -180,9 +180,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The best Australian PC gaming deals this week](https://www.pcgamer.com/best-australian-pc-gaming-deals)
  - [Humankind’s Animations Are Too Damn Slow](https://kotaku.com/humankind-s-animations-are-too-damn-slow-1847514799)
- - [El Shaddai: Ascension of the Metatron gets firm Steam release date](https://www.pcgamer.com/el-shaddai-ascension-of-the-metatron-gets-firm-steam-release-date)
- - [Time For An Upgrade](https://kotaku.com/time-for-an-upgrade-1847514375)<!-- GAME:END -->
+ - [El Shaddai: Ascension of the Metatron gets firm Steam release date](https://www.pcgamer.com/el-shaddai-ascension-of-the-metatron-gets-firm-steam-release-date)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
