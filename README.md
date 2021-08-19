@@ -194,8 +194,8 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What we see and what an ice skater sees while performing an upright spin.](http://9gag.com/gag/abVwoYb)
- - 🚯 [Canadian Driver Going Insane on Indian Roads](http://9gag.com/gag/aeAwEzm)
+ - 🚖 [Hope this counts, maybe not quite a meme..](http://9gag.com/gag/apNwXv9)
+ - 🚯 [Interesting](http://9gag.com/gag/aWj5AA3)
  - 🚯 [What&#039;s your favorite food from another country?](http://9gag.com/gag/aV759ow)<!-- MEMES:END -->
 
 --- 
