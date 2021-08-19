@@ -194,9 +194,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Matchlighting 101](http://9gag.com/gag/anQw8qL)
- - 🚯 [Damn, that&rsquo;s one super fast 7 year old&hellip;](http://9gag.com/gag/abVwmnr)
- - 🚯 [Dangerous profession](http://9gag.com/gag/aLp5N15)<!-- MEMES:END -->
+ - 🚖 [R.I.P Sean Lock, May this meme last forever, 1963-2021.](http://9gag.com/gag/a8EOng6)
+ - 🚯 [Dangerous profession](http://9gag.com/gag/aLp5N15)
+ - 🚯 [Drunk road rager gets his ass kicked while his unoccupied car slowly drifts down the road](http://9gag.com/gag/a9E0Z5K)<!-- MEMES:END -->
 
 --- 
 
