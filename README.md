@@ -180,9 +180,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [PC Gamer UK October issue: Dying Light 2](https://www.pcgamer.com/pc-gamer-uk-october-issue-dying-light-2)
  - [This artist funded his sister's degree and added a floor to his parent's house with Warframe skins](https://www.pcgamer.com/this-artist-funded-his-sisters-degree-and-added-a-floor-to-his-parents-house-with-warframe-skins)
- - [The best Australian PC gaming deals this week](https://www.pcgamer.com/best-australian-pc-gaming-deals)
- - [Humankind’s Animations Are Too Damn Slow](https://kotaku.com/humankind-s-animations-are-too-damn-slow-1847514799)<!-- GAME:END -->
+ - [The best Australian PC gaming deals this week](https://www.pcgamer.com/best-australian-pc-gaming-deals)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
