@@ -180,9 +180,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Witcher TV creator lands giant partnership deal at Netflix](https://www.polygon.com/22632423/witcher-creator-lauren-hissirch-netflix-deal)
- - [Monster Train deserves a second life on Nintendo Switch](https://www.polygon.com/22632511/monster-train-switch-clan-deckbuilder-roguelite)
- - [Pokemon Legends: Arceus Can’t Be The Next Breath of the Wild, But That’s OK](https://kotaku.com/pokemon-legends-arceus-can-t-be-the-next-breath-of-the-1847517800)<!-- GAME:END -->
+ - [Doja Cat put TikTok’s dancing veterinarian on her Spotify to troll everyone](https://www.polygon.com/22632269/doja-cat-tiktok-get-into-it-yuh-vet-anal-gland)
+ - [Amid Turmoil, Activision's Call Of Duty Machine Grinds Ahead With Vanguard](https://kotaku.com/amid-turmoil-activisions-call-of-duty-machine-grinds-a-1847518979)
+ - [Call of Duty: Vanguard does away with WWII’s health packs](https://www.polygon.com/22632718/call-of-duty-vanguard-health-packs-regen-wwii)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
