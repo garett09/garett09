@@ -194,7 +194,7 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hope this counts, maybe not quite a meme..](http://9gag.com/gag/apNwXv9)
+ - 🚖 [Nothing feels better than driving on smooth brand new asphalt](http://9gag.com/gag/ayMwrZb)
  - 🚯 [Interesting](http://9gag.com/gag/aWj5AA3)
  - 🚯 [What&#039;s your favorite food from another country?](http://9gag.com/gag/aV759ow)<!-- MEMES:END -->
 
