@@ -194,9 +194,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Matchlighting 101](http://9gag.com/gag/anQw8qL)
- - 🚯 [Just a friendly reminder how it all started.](http://9gag.com/gag/a8EOXp1)
- - 🚯 [Man pays for assaulting and taunting skater kids](http://9gag.com/gag/a9E0BBm)<!-- MEMES:END -->
+ - 🚖 [Literally Yeeted by a car](http://9gag.com/gag/ajmwdp1)
+ - 🚯 [It&#039;s starting again...](http://9gag.com/gag/apNwzbp)
+ - 🚯 [Lady in white SUV tries to bully an 18-wheeler](http://9gag.com/gag/apNwdOD)<!-- MEMES:END -->
 
 --- 
 
