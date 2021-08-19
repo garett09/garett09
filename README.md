@@ -180,9 +180,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [This artist funded his sister's degree and added a floor to his parent's house with Warframe skins](https://www.pcgamer.com/this-artist-funded-his-sisters-degree-and-added-a-floor-to-his-parents-house-with-warframe-skins)
  - [The best Australian PC gaming deals this week](https://www.pcgamer.com/best-australian-pc-gaming-deals)
- - [Humankind’s Animations Are Too Damn Slow](https://kotaku.com/humankind-s-animations-are-too-damn-slow-1847514799)
- - [El Shaddai: Ascension of the Metatron gets firm Steam release date](https://www.pcgamer.com/el-shaddai-ascension-of-the-metatron-gets-firm-steam-release-date)<!-- GAME:END -->
+ - [Humankind’s Animations Are Too Damn Slow](https://kotaku.com/humankind-s-animations-are-too-damn-slow-1847514799)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
