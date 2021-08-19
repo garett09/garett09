@@ -194,8 +194,8 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Once Again Bond with VISA](http://9gag.com/gag/a8EOvLp)
- - 🚯 [Starting my MS treatment. Hope for the best. You people made me laugh for 10 years. Thank you.](http://9gag.com/gag/aMK5DLV)
+ - 🚖 [Let history never forget this coward.](http://9gag.com/gag/a1rjBO6)
+ - 🚯 [Cameraman doesn&rsquo;t even flinch](http://9gag.com/gag/aV7542n)
  - 🚯 [What&#039;s your favorite food from another country?](http://9gag.com/gag/aV759ow)<!-- MEMES:END -->
 
 --- 
