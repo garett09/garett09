@@ -180,9 +180,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Free Play Days – The Elder Scrolls Online: Tamriel Unlimited, Hood: Outlaws and Legends, and I Am Bread](https://news.xbox.com/en-us/2021/08/19/free-play-days-elder-scrolls-online-hood-and-i-am-bread/)
- - [Sony spent five years building a new PlayStation VR studio, then abruptly shut it down](https://www.polygon.com/2021/8/19/22629431/sony-playstation-vr-studio-csar-combat-search-rescue-canceled)
- - [Street Fighter Pros Apologize For Trolling Streamers](https://kotaku.com/street-fighter-pros-apologize-for-trolling-streamers-1847516337)<!-- GAME:END -->
+ - [NHL 22 heads to PS5 and Xbox Series X, but won’t leave last-gen players behind](https://www.polygon.com/22631542/nhl-22-trailer-ps5-ps4-xbox-series-x-one-release-date-frostbite)
+ - [The Eternals trailer’s giant red robot is the Cthulhu of the Marvel universe](https://www.polygon.com/comics/22632222/eternals-celestial-red-robot-eyes-comics-galactus)
+ - [Quake remake rated by the ESRB, more information expected today](https://www.pcgamer.com/quake-remake-rated-by-the-esrb-more-information-expected-today)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
