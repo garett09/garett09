@@ -187,9 +187,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Feiyu one-ups DJI by letting you stick its tiny self-balancing camera to anything you like](https://www.theverge.com/2021/8/18/22631560/feiyutech-pocket-2s-detachable-gimbal-camera)
- - [Tim Robbins joins cast of Apple TV+ original series 'Wool'](https://appleinsider.com/articles/21/08/18/tim-robbins-joins-cast-of-apple-tv-original-series-wool?utm_medium=rss)
- - [Apple's Lisa Jackson talks environmental justice with US EPA Administrator Michael Regan](https://appleinsider.com/articles/21/08/18/apples-lisa-jackson-talks-environmental-justice-with-us-epa-administrator-michael-regan?utm_medium=rss)<!-- TECH:END -->
+ - [NFTs, explained](https://www.theverge.com/22310188/nft-explainer-what-is-blockchain-crypto-art-faq)
+ - [How an Obscure Green Bay Packers Site Conquered Facebook](https://www.wired.com/story/facebook-transparency-biggest-sites-pages-links)
+ - [Robinhood says crypto accounted for ~52% of all transaction-based revenue in Q2, and 62% of crypto revenue came from dogecoin (CNBC)](http://www.techmeme.com/210818/p46#a210818p46)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
