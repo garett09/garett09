@@ -180,9 +180,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Yes, Skyrim's Foxes Do Lead You To Treasure, Sort Of](https://kotaku.com/yes-skyrims-foxes-do-lead-you-to-treasure-sort-of-1847514070)
- - [Thanos’ turn in Marvel’s What If...? was inevitable](https://www.polygon.com/22630436/thanos-josh-brolin-marvel-what-if-episode-2)
- - ['Stolen' Game Aeon Must Die Returns, Despite Unresolved Allegations Of Abuse And Corruption](https://kotaku.com/stolen-game-aeon-must-die-returns-despite-unresolved-a-1847513802)<!-- GAME:END -->
+ - [Time For An Upgrade](https://kotaku.com/time-for-an-upgrade-1847514375)
+ - [Myst remake hits PC and Game Pass on August 26](https://www.pcgamer.com/myst-remake-hits-pc-and-game-pass-on-august-26)
+ - [Splitgate will stay in open beta indefinitely](https://www.pcgamer.com/splitgate-will-stay-in-open-beta-indefinitely)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
