@@ -194,9 +194,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Damn, that&rsquo;s one super fast 7 year old&hellip;](http://9gag.com/gag/abVwmnr)
- - 🚯 [Incredibly Rare Footage of the 1st Plane on 9/11](http://9gag.com/gag/av5wm8W)
- - 🚯 [A satisfying ending..](http://9gag.com/gag/a5E3yOL)<!-- MEMES:END -->
+ - 🚖 [Matchlighting 101](http://9gag.com/gag/anQw8qL)
+ - 🚯 [Just a friendly reminder how it all started.](http://9gag.com/gag/a8EOXp1)
+ - 🚯 [Man pays for assaulting and taunting skater kids](http://9gag.com/gag/a9E0BBm)<!-- MEMES:END -->
 
 --- 
 
