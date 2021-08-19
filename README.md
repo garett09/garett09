@@ -180,9 +180,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The final Eternals trailer picks up where Avengers: Endgame left off](https://www.polygon.com/22632170/eternals-trailer-release-date-avengers-marvel-order)
- - [Plug in and Game on with the New Xbox Stereo Headset](https://news.xbox.com/en-us/2021/08/19/game-on-with-new-xbox-stereo-headset/)
- - [You can build a glassy-looking PC inside this Corsair case that's on sale for $100](https://www.pcgamer.com/you-can-build-a-glassy-looking-pc-inside-this-corsair-case-thats-on-sale-for-dollar100)<!-- GAME:END -->
+ - [Free Play Days – The Elder Scrolls Online: Tamriel Unlimited, Hood: Outlaws and Legends, and I Am Bread](https://news.xbox.com/en-us/2021/08/19/free-play-days-elder-scrolls-online-hood-and-i-am-bread/)
+ - [Sony spent five years building a new PlayStation VR studio, then abruptly shut it down](https://www.polygon.com/2021/8/19/22629431/sony-playstation-vr-studio-csar-combat-search-rescue-canceled)
+ - [Street Fighter Pros Apologize For Trolling Streamers](https://kotaku.com/street-fighter-pros-apologize-for-trolling-streamers-1847516337)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
