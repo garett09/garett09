@@ -194,9 +194,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [&quot; Henry the fifth was talking to his men and he said from this day to the ending of the world we and it shall be remembered. We lucky few, we band of brothers, for he who sheds his blood with me today shall be my brother.&quot; Lieutenant C. Carwood Lipton](http://9gag.com/gag/a5E3x5r)
+ - 🚖 [Two time golden globe winner Jim Carrey](http://9gag.com/gag/aYo5n47)
  - 🚯 [Just a friendly reminder how it all started.](http://9gag.com/gag/a8EOXp1)
- - 🚯 [Literally Yeeted by a car](http://9gag.com/gag/ajmwdp1)<!-- MEMES:END -->
+ - 🚯 [Afghan Soldier crying and shouting to his commander: I will not surrender, will not give up my gun to Taliban. This clearly shows the surrender command/order had come up from the top of the government.](http://9gag.com/gag/aB25vxP)<!-- MEMES:END -->
 
 --- 
 
