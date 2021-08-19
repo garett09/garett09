@@ -180,9 +180,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [PC Gamer UK October issue: Dying Light 2](https://www.pcgamer.com/pc-gamer-uk-october-issue-dying-light-2)
- - [This artist funded his sister's degree and added a floor to his parent's house with Warframe skins](https://www.pcgamer.com/this-artist-funded-his-sisters-degree-and-added-a-floor-to-his-parents-house-with-warframe-skins)
- - [The best Australian PC gaming deals this week](https://www.pcgamer.com/best-australian-pc-gaming-deals)<!-- GAME:END -->
+ - [Ghost of Tsushima’s upgraded camera helps, but is it really necessary?](https://www.polygon.com/22631418/ghost-of-tsushima-directors-cut-impressions-ps5-ps4-new-content-options-patch)
+ - [Ghost of Tsushima Director's Cut's Iki Island Expansion Is Just Fine](https://kotaku.com/ghost-of-tsushima-directors-cuts-iki-island-expansion-i-1847514939)
+ - [IRL Sims stream controlled by viewers goes as well as you'd expect](https://www.pcgamer.com/irl-sims-stream-controlled-by-viewers-goes-as-well-as-youd-expect)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
