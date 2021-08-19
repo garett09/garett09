@@ -187,9 +187,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Intel details its Alder Lake lineup, coming this fall, which uses a 10nm process and offers hybrid performance and efficiency x86 cores (Chaim Gartenberg/The Verge)](http://www.techmeme.com/210819/p17#a210819p17)
- - [General Motors and AT&T will offer 5G connectivity in certain vehicles from model year 2024](http://feedproxy.google.com/~r/Techcrunch/~3/5mkeSPX8P70/)
- - ['Civilization VI' New Frontier Pass coming to iOS August 24](https://appleinsider.com/articles/21/08/19/civilization-vi-new-frontier-pass-coming-to-ios-august-24?utm_medium=rss)<!-- TECH:END -->
+ - [Institutional ownership of Apple surges in Q3, though still down year-over-year](https://appleinsider.com/articles/21/08/19/institutional-ownership-of-apple-surges-in-q3-though-still-down-year-over-year?utm_medium=rss)
+ - [Smartwatch-induced health anxiety led one woman to run 916 ECGs in a year](https://www.theverge.com/2021/8/19/22630463/smartwatch-health-anxiety-heart-alerts-patient-education)
+ - [Steve Jobs email confirms Apple was working on an ‘iPhone nano’](https://www.theverge.com/2021/8/19/22631541/steve-jobs-email-apple-iphone-nano-epic-lawsuit)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
