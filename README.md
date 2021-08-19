@@ -187,9 +187,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Canada Drives, which launched an online used car shopping and next day delivery service last year, raises ~$79.4M Series B, bringing its total raised to ~$159M (Rebecca Bellan/TechCrunch)](http://www.techmeme.com/210818/p50#a210818p50)
- - [Coinbase has $4.36B in cash reserves as of June 30, about four times higher than at the end of 2020, as it prepares for possible tighter regulation (Kristin Broughton/Wall Street Journal)](http://www.techmeme.com/210818/p49#a210818p49)
- - [Facebook says it took action against 12 COVID vaccine misinfo "superspreaders" but disputes claims that those 12 were responsible for 73% of misinfo on Facebook (Karissa Bell/Engadget)](http://www.techmeme.com/210818/p48#a210818p48)<!-- TECH:END -->
+ - [Australian antitrust regulator mulls regulations to open Apple, Google app stores](https://appleinsider.com/articles/21/08/19/australian-antitrust-regulator-mulls-regulations-to-open-apple-google-app-stores?utm_medium=rss)
+ - [Should you still buy an iPhone 12? The iPhone 13 may not be best for everyone     - CNET](https://www.cnet.com/tech/mobile/should-you-still-buy-an-iphone-12-the-iphone-13-may-not-be-best-everyone/#ftag=CAD590a51e)
+ - [Canada Drives, which launched an online used car shopping and next day delivery service last year, raises ~$79.4M Series B, bringing its total raised to ~$159M (Rebecca Bellan/TechCrunch)](http://www.techmeme.com/210818/p50#a210818p50)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
