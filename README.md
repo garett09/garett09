@@ -194,8 +194,8 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Let history never forget this coward.](http://9gag.com/gag/a1rjBO6)
- - 🚯 [Cameraman doesn&rsquo;t even flinch](http://9gag.com/gag/aV7542n)
+ - 🚖 [Nice](http://9gag.com/gag/a8EOvm1)
+ - 🚯 [What we see and what an ice skater sees while performing an upright spin.](http://9gag.com/gag/abVwoYb)
  - 🚯 [What&#039;s your favorite food from another country?](http://9gag.com/gag/aV759ow)<!-- MEMES:END -->
 
 --- 
