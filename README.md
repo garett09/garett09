@@ -180,9 +180,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Destiny 2 anti-cheat system coming next season, Bungie says](https://www.polygon.com/22632345/destiny-2-anti-cheat-bungie-battleye-hackers-cheaters-trials-crucible)
- - [Intel's Alchemist gaming GPUs could actually stand a chance against Nvidia and AMD](https://www.pcgamer.com/intel-dg2-gaming-graphics-card-release-date-specs-price-performance-xe-hpg)
- - [Battlefield 2042 datamine reveals a Tarkov-esque game mode](https://www.pcgamer.com/battlefield-2042-datamine-reveals-a-tarkov-esque-game-mode)<!-- GAME:END -->
+ - [The Witcher TV creator lands giant partnership deal at Netflix](https://www.polygon.com/22632423/witcher-creator-lauren-hissirch-netflix-deal)
+ - [Monster Train deserves a second life on Nintendo Switch](https://www.polygon.com/22632511/monster-train-switch-clan-deckbuilder-roguelite)
+ - [Pokemon Legends: Arceus Can’t Be The Next Breath of the Wild, But That’s OK](https://kotaku.com/pokemon-legends-arceus-can-t-be-the-next-breath-of-the-1847517800)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
