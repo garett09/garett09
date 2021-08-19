@@ -194,9 +194,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Outstanding](http://9gag.com/gag/amPwO84)
- - 🚯 [It&#039;s starting again...](http://9gag.com/gag/apNwzbp)
- - 🚯 [Once Again Bond with VISA](http://9gag.com/gag/a8EOvLp)<!-- MEMES:END -->
+ - 🚖 [Once Again Bond with VISA](http://9gag.com/gag/a8EOvLp)
+ - 🚯 [Starting my MS treatment. Hope for the best. You people made me laugh for 10 years. Thank you.](http://9gag.com/gag/aMK5DLV)
+ - 🚯 [What&#039;s your favorite food from another country?](http://9gag.com/gag/aV759ow)<!-- MEMES:END -->
 
 --- 
 
