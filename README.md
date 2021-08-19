@@ -180,9 +180,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Doja Cat put TikTok’s dancing veterinarian on her Spotify to troll everyone](https://www.polygon.com/22632269/doja-cat-tiktok-get-into-it-yuh-vet-anal-gland)
- - [Amid Turmoil, Activision's Call Of Duty Machine Grinds Ahead With Vanguard](https://kotaku.com/amid-turmoil-activisions-call-of-duty-machine-grinds-a-1847518979)
- - [Call of Duty: Vanguard does away with WWII’s health packs](https://www.polygon.com/22632718/call-of-duty-vanguard-health-packs-regen-wwii)<!-- GAME:END -->
+ - [Quake Returns with an Enhanced Re-release Available Today with Xbox Game Pass](https://news.xbox.com/en-us/2021/08/19/quake-returns-available-today-with-xbox-game-pass/)
+ - [Quake remaster out now for PC, consoles with new expansion](https://www.polygon.com/22632775/quake-remaster-release-date-pc-ps4-xbox-switch-quakecon)
+ - [Surprise: Legendary FPS Quake Just Got Remastered On Every Platform](https://kotaku.com/surprise-legendary-fps-quake-just-got-remastered-on-ev-1847518213)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
