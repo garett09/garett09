@@ -187,9 +187,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily Authority: Fold reviews 🎯](https://www.androidauthority.com/newsletters/da-august-19-2021/)
- - [Facebook announces Horizon Workrooms, a virtual meeting space with avatars, spatial audio, a whiteboard, and more, in beta on Oculus Quest 2 (Alex Heath/The Verge)](http://www.techmeme.com/210819/p10#a210819p10)
- - [Thinner iPad, iPad mini predicted before end of 2021](https://appleinsider.com/articles/21/08/19/thinner-ipad-ipad-mini-predicted-before-end-of-2021?utm_medium=rss)<!-- TECH:END -->
+ - [PUBG New State: Everything you need to know (Update: Potential launch date)](https://www.androidauthority.com/pubg-new-state-1203962/)
+ - [Score this Ms Pac-Man Arcade 1Up cabinet for 33% off today     - CNET](https://www.cnet.com/news/score-this-ms-pacman-arcade-1up-cabinet-for-33-off-today/#ftag=CAD590a51e)
+ - [Toyota says it will cut production in Japan by 40% in September due to the global chip shortage, after touting its ability to insulate itself (Sean McLain/Wall Street Journal)](http://www.techmeme.com/210819/p14#a210819p14)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
