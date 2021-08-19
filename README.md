@@ -195,8 +195,8 @@ Linux                    40 mins             ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 🚖 [Damn, that&rsquo;s one super fast 7 year old&hellip;](http://9gag.com/gag/abVwmnr)
- - 🚯 [Afghan Soldier crying and shouting to his commander: I will not surrender, will not give up my gun to Taliban. This clearly shows the surrender command/order had come up from the top of the government.](http://9gag.com/gag/aB25vxP)
- - 🚯 [Incredibly Rare Footage of the 1st Plane on 9/11](http://9gag.com/gag/av5wm8W)<!-- MEMES:END -->
+ - 🚯 [Incredibly Rare Footage of the 1st Plane on 9/11](http://9gag.com/gag/av5wm8W)
+ - 🚯 [A satisfying ending..](http://9gag.com/gag/a5E3yOL)<!-- MEMES:END -->
 
 --- 
 
