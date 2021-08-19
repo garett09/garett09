@@ -187,9 +187,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [DTS’s Play-Fi multiroom audio platform is getting a big home theater upgrade](https://www.theverge.com/2021/8/19/22632053/dts-play-fi-home-theater-wireless-speakers-soundbar-television-audio)
- - [The four numbers Apple won’t let you engrave on your iPhone in China](https://www.theverge.com/2021/8/19/22632029/apple-engraving-filter-censorship-keyword-china-hong-kong-taiwan)
- - [RepairSmith raises $42M Series B to bring auto repair to customers’ doorsteps](http://feedproxy.google.com/~r/Techcrunch/~3/shv-1sug-Sw/)<!-- TECH:END -->
+ - [Daily Authority: Fold reviews 🎯](https://www.androidauthority.com/newsletters/da-august-19-2021/)
+ - [Facebook announces Horizon Workrooms, a virtual meeting space with avatars, spatial audio, a whiteboard, and more, in beta on Oculus Quest 2 (Alex Heath/The Verge)](http://www.techmeme.com/210819/p10#a210819p10)
+ - [Thinner iPad, iPad mini predicted before end of 2021](https://appleinsider.com/articles/21/08/19/thinner-ipad-ipad-mini-predicted-before-end-of-2021?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
