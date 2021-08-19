@@ -187,9 +187,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [RedmiBook 15 Pro review: Hiding behind small mercies](https://www.androidauthority.com/redmibook-15-pro-review-2734125/)
- - [Latest OnePlus 8T update brings Bitmoji AOD, August security patch](https://www.androidauthority.com/oneplus-8t-update-1173244/)
- - [Amazon rolls out India’s first celebrity voice on Alexa with Amitabh Bachchan](http://feedproxy.google.com/~r/Techcrunch/~3/N65VlYuulZI/)<!-- TECH:END -->
+ - [From continuous zoom to RGBW sensors: Oppo reveals plenty of camera innovations](https://www.androidauthority.com/oppo-imaging-2021-2736645/)
+ - [Oppo introduces true continuous zoom lens for smartphones](https://www.theverge.com/2021/8/19/22631974/oppo-continuous-zoom-lens-smartphone-camera-tech-event)
+ - [You told us: Galaxy Z Fold 3 or Galaxy Z Flip 3? The winner surprised us.](https://www.androidauthority.com/galaxy-z-fold-3-or-galaxy-z-flip-3-poll-results-2737243/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
