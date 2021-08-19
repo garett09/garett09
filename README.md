@@ -194,8 +194,8 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Safety at work comes first](http://9gag.com/gag/aXo1zpv)
- - 🚯 [Canadian Driver Going Insane on Indian Roads](http://9gag.com/gag/aeAwEzm)
+ - 🚖 [Canadian Driver Going Insane on Indian Roads](http://9gag.com/gag/aeAwEzm)
+ - 🚯 [This dad gets it.](http://9gag.com/gag/amPwwV9)
  - 🚯 [What&#039;s your favorite food from another country?](http://9gag.com/gag/aV759ow)<!-- MEMES:END -->
 
 --- 
