@@ -187,9 +187,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nvidia says its planned acquisition of Arm is unlikely to be completed within the planned 18-month time frame, due to investigations in the UK and China (Richard Waters/Financial Times)](http://www.techmeme.com/210819/p3#a210819p3)
- - [Tencent says it will give an additional $7B to aid the Chinese government's wealth redistribution plans and warns investors of more government regulations (Zheping Huang/Bloomberg)](http://www.techmeme.com/210819/p2#a210819p2)
- - [Nvidia admits acquisition of British chip designer Arm may take longer than 18 months](https://www.theverge.com/2021/8/19/22632017/nvidia-acquisition-arm-timeframe-18-months-schedule-regulatory-scrutiny)<!-- TECH:END -->
+ - [DTS’s Play-Fi multiroom audio platform is getting a big home theater upgrade](https://www.theverge.com/2021/8/19/22632053/dts-play-fi-home-theater-wireless-speakers-soundbar-television-audio)
+ - [The four numbers Apple won’t let you engrave on your iPhone in China](https://www.theverge.com/2021/8/19/22632029/apple-engraving-filter-censorship-keyword-china-hong-kong-taiwan)
+ - [RepairSmith raises $42M Series B to bring auto repair to customers’ doorsteps](http://feedproxy.google.com/~r/Techcrunch/~3/shv-1sug-Sw/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
