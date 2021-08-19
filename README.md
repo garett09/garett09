@@ -187,9 +187,9 @@ Linux                    40 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Big Tech companies use shell corporations to get massive tax breaks from US cities for data centers that create few jobs and consume a lot of power (David Jeans/Forbes)](http://www.techmeme.com/210819/p21#a210819p21)
- - [Steve Jobs email reveals Apple was evaluating an 'iPhone nano' in 2010](https://appleinsider.com/articles/21/08/19/steve-jobs-email-reveals-apple-was-evaluating-an-iphone-nano-in-2010?utm_medium=rss)
- - [Best Deals August 19 - Free 240GB SSD, $50 off LG UltraWide monitor, 20% off Otterbox cases, and more!](https://appleinsider.com/articles/21/08/19/best-deals-august-19---free-240gb-ssd-50-off-lg-ultrawide-monitor-20-off-otterbox-cases-and-more?utm_medium=rss)<!-- TECH:END -->
+ - [When is the next 2021 Apple event? We think we'll find out very soon     - CNET](https://www.cnet.com/tech/mobile/when-is-the-next-2021-apple-event-we-think-well-find-out-very-soon/#ftag=CAD590a51e)
+ - [FTC's new suit says Facebook has a monopoly in "US personal social networking services", distinguishing it from TikTok, and Lina Khan will not recuse herself (The Verge)](http://www.techmeme.com/210819/p26#a210819p26)
+ - [Apple’s new Foundation trailer has some serious ‘Game of Thrones but in space’ energy](https://www.theverge.com/2021/8/19/22632413/foundation-apple-tv-plus-trailer-game-of-thrones-energy)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
