@@ -187,9 +187,9 @@ Linux                    11 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Alerzo raises $10.5M Series A to bring Nigeria’s informal retail sector online](http://feedproxy.google.com/~r/Techcrunch/~3/I-KWF4mSA1c/)
- - [Epomaker AK84S review: a great wireless keyboard, plus some quirks](https://www.theverge.com/22632285/epomaker-ak84s-review-wireless-bluetooth-keyboard-75-percent)
- - [iPhones were tiny in 2010, but Apple had plans to go “nano”](https://www.androidauthority.com/iphone-nano-2737773/)<!-- TECH:END -->
+ - [PUBG New State: Everything you need to know (Update: New alpha test)](https://www.androidauthority.com/pubg-new-state-1203962/)
+ - [Xiaomi Mi 11T Pro specs leak: 120W charging with 120Hz OLED tipped](https://www.androidauthority.com/xiaomi-mi-11t-pro-specs-2737792/)
+ - [Facebook launches program to help small Indian businesses secure loans](http://feedproxy.google.com/~r/Techcrunch/~3/L42meGtQAWc/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
