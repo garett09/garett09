@@ -187,9 +187,9 @@ Linux                    11 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bird shows improving scooter economics, long march to profitability](http://feedproxy.google.com/~r/Techcrunch/~3/ZeJxBKgQj9M/)
- - [UK's CMA recommends an in-depth investigation into Nvidia's planned $40B acquisition of Arm, saying there are "serious competition concerns" about the deal (Kate Beioley/Financial Times)](http://www.techmeme.com/210820/p9#a210820p9)
- - [Men are a niche demographic](http://feedproxy.google.com/~r/Techcrunch/~3/fRK6J0odlSw/)<!-- TECH:END -->
+ - [Apple attempted to hire Google deputy search chief Ben Gomes](https://appleinsider.com/articles/21/08/20/apple-attempted-to-hire-google-deputy-search-chief-ben-gomes?utm_medium=rss)
+ - [Save up to $350 on the Galaxy Tab S7 FE, and more Samsung Galaxy Tab deals](https://www.androidauthority.com/best-cheap-samsung-galaxy-tab-deals-1119065/)
+ - [Apple launches Siri Speech Study, an iOS app that lets invited participants share their voice requests and other feedback with Apple (Sarah Perez/TechCrunch)](http://www.techmeme.com/210820/p12#a210820p12)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
