@@ -180,9 +180,9 @@ Linux                    11 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Gloomhaven, Blades in the Dark publishers break ties with tabletop CEO accused of assault](https://www.polygon.com/tabletop-games/22632835/broken-token-greg-spence-allegations-sexual-assault-abuse)
  - [Introducing a New Fortnite Experience: Impostors](https://news.xbox.com/en-us/2021/08/20/introducing-a-new-fortnite-experience-impostors/)
- - [Halo Infinite Won't Have Campaign Co-Op At Launch](https://kotaku.com/halo-infinite-wont-have-campaign-co-op-at-launch-1847528820)
- - [Almost a decade after shutting down, Curt Schilling's 38 Studios is finally sending employees money it owes them](https://www.pcgamer.com/38-studios-paychecks)<!-- GAME:END -->
+ - [Halo Infinite Won't Have Campaign Co-Op At Launch](https://kotaku.com/halo-infinite-wont-have-campaign-co-op-at-launch-1847528820)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
