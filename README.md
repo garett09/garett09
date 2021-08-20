@@ -180,9 +180,9 @@ Linux                    11 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Genshin Impact fans aren't happy with its 'broken' new character](https://www.pcgamer.com/genshin-impact-fans-arent-happy-with-its-broken-new-character)
- - [Cheap gaming laptop deals this week](https://www.pcgamer.com/gaming-laptop-deals)
- - [Best cheap gaming PC right now](https://www.pcgamer.com/best-cheap-gaming-pc)<!-- GAME:END -->
+ - [The name of Destiny 2's next season has leaked](https://www.pcgamer.com/the-name-of-destiny-2s-next-season-has-leaked)
+ - [A recent Windows 10 update broke Alt+Tab switching on some PCs, here's how to fix it](https://www.pcgamer.com/a-recent-windows-10-update-broke-alttab-switching-on-some-pcs-heres-how-to-fix-it)
+ - [Genshin Impact fans aren't happy with its 'broken' new character](https://www.pcgamer.com/genshin-impact-fans-arent-happy-with-its-broken-new-character)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
