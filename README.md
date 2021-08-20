@@ -180,9 +180,9 @@ Linux                    11 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Activision Name Conspicuously Absent From Call Of Duty: Vanguard Marketing](https://kotaku.com/activision-name-conspicuously-absent-from-call-of-duty-1847529748)
- - [Call of Duty menu meme asks how many CoDs is too many](https://www.pcgamer.com/cod-meme-menu)
- - [The Green Knight, Netflix’s Sweet Girl and every new movie you can watch at home this weekend](https://www.polygon.com/2021/8/20/22626737/sweet-girl-netflix-green-knight-watch-reminiscence-hbo-amazon)<!-- GAME:END -->
+ - [Sony continues to walk the line between pissing off PlayStation owners and putting its games on PC](https://www.pcgamer.com/sony-continues-to-walk-the-line-between-pissing-off-playstation-owners-and-putting-its-games-on-pc)
+ - [Top Twitch streamer Amouranth says investigators 'strongly suspect' fire at her house was arson](https://www.pcgamer.com/top-twitch-streamer-amouranth-says-investigators-strongly-suspect-fire-at-her-house-was-arson)
+ - [Activision Name Conspicuously Absent From Call Of Duty: Vanguard Marketing](https://kotaku.com/activision-name-conspicuously-absent-from-call-of-duty-1847529748)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
