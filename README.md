@@ -180,9 +180,9 @@ Linux                    11 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Destiny 2: Season 15 name reveal starts to confirm some far-fetched rumors](https://www.polygon.com/22633702/destiny-2-season-of-the-lost-15-mara-sov-dreaming-city-leak)
- - [Genshin Impact codes: free Primogems, Mora, and Enhancement Ore](https://www.pcgamer.com/redeem-code-genshin-impact-promo)
- - [Leaked AMD 600-series mobo specs lack PCIe 5.0 support](https://www.pcgamer.com/leaked-amd-600-series-mobo-specs-lack-pcie-50-support)<!-- GAME:END -->
+ - [Genshin Impact 2.1: Everything we know](https://www.pcgamer.com/genshin-impact-21-release-date-update)
+ - [Warzone's Battle Of Verdansk event was somehow both dry and hilarious](https://www.pcgamer.com/warzone-battle-of-verdansk-event-was-somehow-dry-and-hilarious)
+ - [Scaramouche is returning to Genshin Impact, this is not a drill](https://www.pcgamer.com/scaramouche-is-returning-to-genshin-impact-this-is-not-a-drill)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
