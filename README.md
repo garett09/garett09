@@ -180,9 +180,9 @@ Linux                    11 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Get an Alienware 240Hz monitor for half price as part of this eBay Australia sale](https://www.pcgamer.com/get-an-alienware-240hz-monitor-for-half-price-as-part-of-this-ebay-australia-sale)
- - [It's Shocking Just How Shady Roblox Actually Is](https://kotaku.com/its-shocking-just-how-shady-roblox-actually-is-1847522070)
- - [Epic Games Store freebies this week include Yooka-Laylee](https://www.pcgamer.com/epic-games-store-freebies-this-week-include-yooka-laylee)<!-- GAME:END -->
+ - [Warhammer 40,000: Battlesector is adding progression systems and more factions](https://www.pcgamer.com/warhammer-40000-battlesector-is-adding-progression-systems-and-more-factions)
+ - [Cheap SSD deals of the week](https://www.pcgamer.com/best-ssd-deals-today)
+ - [The best gaming TV in 2021](https://www.pcgamer.com/best-4k-tv-for-gaming)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
