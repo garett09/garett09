@@ -187,9 +187,9 @@ Linux                    11 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [‘Nvidia controlling Arm could create real problems,’ UK regulator concludes](https://www.theverge.com/2021/8/20/22634379/nvidia-arm-aquisition-delay-uk-phase-2-investigation)
- - [How to take advantage of Android 12’s new privacy options](https://www.theverge.com/22634128/privacy-android-12-dashboard-apps-sensors)
- - [OnePlus is using Lunchables-style packaging to re-hype the OnePlus 9 Pro](https://www.androidauthority.com/oneplus-9-pro-lunchables-2738261/)<!-- TECH:END -->
+ - [Peloton’s Android app hints at long-rumored rowing machine](http://feedproxy.google.com/~r/Techcrunch/~3/e8OaU9E9CAY/)
+ - [How to install the Android 12 public beta](https://www.theverge.com/22442576/android-12-public-beta-install-how-to-update)
+ - [San Francisco doctor charged with possessing child pornography in iCloud](https://appleinsider.com/articles/21/08/20/san-francisco-doctor-charged-with-possessing-child-pornography-in-icloud?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
