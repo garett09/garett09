@@ -194,9 +194,9 @@ Linux                    11 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I&#039;m missing: not a vampire (Priest) not a CIA agent (RED) not Julius Cesar (Hercules) not Cupid (Xena)](http://9gag.com/gag/a27pnLZ)
- - 🚯 [Wwyd without his wisdom?](http://9gag.com/gag/aQo5GO7)
- - 🚯 [Boss Fight](http://9gag.com/gag/aAb5oPR)<!-- MEMES:END -->
+ - 🚖 [Wwyd without his wisdom?](http://9gag.com/gag/aQo5GO7)
+ - 🚯 [CBS giving Lizzo the only support she really needs](http://9gag.com/gag/aDd5EDw)
+ - 🚯 [Bravo six going dark](http://9gag.com/gag/aGp5Xon)<!-- MEMES:END -->
 
 --- 
 
