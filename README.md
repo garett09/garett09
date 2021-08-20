@@ -187,9 +187,9 @@ Linux                    11 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [General Motors issues third recall for Chevrolet Bolt EVs, citing rare battery defects](http://feedproxy.google.com/~r/Techcrunch/~3/SNlMhKkwGpc/)
- - [When it comes to diversity in hiring, businesses are their own worst enemy](http://feedproxy.google.com/~r/Techcrunch/~3/sBkyIw0HMcY/)
- - [Researchers who built rudimentary CSAM system say Apple's is a danger](https://appleinsider.com/articles/21/08/20/researchers-who-built-rudimentary-csam-system-say-apples-is-a-danger?utm_medium=rss)<!-- TECH:END -->
+ - [OnlyFans shares its new policy banning sexually explicit content](https://www.theverge.com/2021/8/20/22634785/onlyfans-new-terms-of-service-policy-banning-sex-masturbation)
+ - [Get 30% off the 14-inch MSI Modern laptop, and more great laptop deals](https://www.androidauthority.com/best-laptop-deals-1109232/)
+ - [Tesla Bot Takes Tech Demos to Their Logical Conclusion](https://www.wired.com/story/tesla-bot-takes-tech-demos-to-their-logical-conclusion)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
