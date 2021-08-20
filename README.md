@@ -180,9 +180,9 @@ Linux                    11 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Week on Xbox: August 23 to 27](https://news.xbox.com/en-us/2021/08/20/next-week-on-xbox-august-23-to-27/)
- - [Windows 11 Insider Preview ISO download is out: Here's how to do a clean install of Microsoft's new OS](https://www.pcgamer.com/microsoft-windows-11-iso-install)
- - [The Protégé director Martin Campbell: ‘I like real action and not visual effects’](https://www.polygon.com/movies/22542989/the-protege-maggie-q-martin-campbell-interview)<!-- GAME:END -->
+ - [Destiny 2: Season 15 name reveal starts to confirm some far-fetched rumors](https://www.polygon.com/22633702/destiny-2-season-of-the-lost-15-mara-sov-dreaming-city-leak)
+ - [Genshin Impact codes: free Primogems, Mora, and Enhancement Ore](https://www.pcgamer.com/redeem-code-genshin-impact-promo)
+ - [Leaked AMD 600-series mobo specs lack PCIe 5.0 support](https://www.pcgamer.com/leaked-amd-600-series-mobo-specs-lack-pcie-50-support)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
