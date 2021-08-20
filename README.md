@@ -187,9 +187,9 @@ Linux                    11 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lina Khan’s Theory of the Facebook Antitrust Case Takes Shape](https://www.wired.com/story/lina-khan-theory-facebook-antitrust-case-takes-shape)
- - [Foxconn's electric vehicle ambitions date back to 2014](https://appleinsider.com/articles/21/08/19/foxconns-electric-vehicle-ambitions-date-back-to-2014?utm_medium=rss)
- - [Spawn Together campaign surpasses $1 million fundraising goal for AbleGamers charity](https://www.theverge.com/2021/8/19/22630693/spawn-together-campaign-1-million-ablegamers-charity)<!-- TECH:END -->
+ - [Here’s how much it costs to fix a Z Fold 3 or Z Flip 3 with a broken screen](https://www.theverge.com/2021/8/19/22633039/samsung-galaxy-z-fold-flip-3-screen-repair-prices-fix)
+ - [Google Health VP David Feinberg, who led Google's COVID-19 initiatives, will depart the company to take over as CEO at electronic health records company Cerner (Wall Street Journal)](http://www.techmeme.com/210819/p38#a210819p38)
+ - [Functional Apple-1 with hardware suite sells for over $370,000](https://appleinsider.com/articles/21/08/20/functional-apple-1-with-hardware-suite-sells-for-over-370000?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
