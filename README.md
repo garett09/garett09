@@ -187,9 +187,9 @@ Linux                    11 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OneLab: Who drives the creative engine within OnePlus?](https://www.androidauthority.com/onelab-oneplus-interview-2737674/)
- - [Best Deals August 20 - $39 JBL AirPlay 2 speaker, Monoprice essentials, free Quake II](https://appleinsider.com/articles/21/08/20/best-deals-august-20---jbl-airplay-2-speaker-for-39-monoprice-essentials-free-quake-ii?utm_medium=rss)
- - [Vergecast: reviews for the Pixel 5A, Samsung Galaxy Z Fold 3, and Z Flip 3](https://www.theverge.com/2021/8/20/22633953/review-google-pixel-5a-samsung-galaxy-z-flold-flip-vergecast-podcast-463)<!-- TECH:END -->
+ - [Get the Galaxy Buds Pro for $126.99 today, and more top headphone deals](https://www.androidauthority.com/best-headphone-deals-1111467/)
+ - [Apple launches secret feedback app to make Siri suck less](https://www.androidauthority.com/apple-launches-siri-app-2738150/)
+ - [China passes the world's strictest user data protection law](https://appleinsider.com/articles/21/08/20/china-passes-the-worlds-strictest-user-data-protection-law?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
