@@ -187,9 +187,9 @@ Linux                    11 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google is shutting down its Android Auto mobile app in favor of Google Assistant](https://www.theverge.com/2021/8/20/22633755/google-android-auto-for-phone-screens-shutting-down-android-12-google-assistant-driving-mode)
- - [China passes data privacy law that will take effect November 1: data collection must have a reasonable purpose, a user's consent, and limited to "minimum scope" (Josh Horwitz/Reuters)](http://www.techmeme.com/210820/p5#a210820p5)
- - [Realme’s bulky magnetic wireless charger is almost as fast as promised](https://www.theverge.com/2021/8/20/22633722/realme-flash-magdart-magnetic-wireless-charging-time-test)<!-- TECH:END -->
+ - [Tech industry needs to rebuild user trust after privacy losses, says Tim Cook](https://appleinsider.com/articles/21/08/20/tech-industry-needs-to-rebuild-user-trust-after-privacy-losses-says-tim-cook?utm_medium=rss)
+ - [Future Apple Watch could gain sweat-sampling hydration tracker](https://www.androidauthority.com/apple-watch-hydration-tracking-2737872/)
+ - [Daily Authority: Google lawsuit revelations, Tesla Bot 🤖](https://www.androidauthority.com/newsletters/da-august-20-2021/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
