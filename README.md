@@ -194,9 +194,9 @@ Linux                    11 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Look who&#039;s laughing now .....](http://9gag.com/gag/ajmwb9G)
- - 🚯 [A wig gives happiness to this kid after loosing her hair](http://9gag.com/gag/aeAwvZj)
- - 🚯 [Intense game actually](http://9gag.com/gag/aMK5RrA)<!-- MEMES:END -->
+ - 🚖 [Intense game actually](http://9gag.com/gag/aMK5RrA)
+ - 🚯 [Pffff... I&#039;m this old..](http://9gag.com/gag/aV75nrd)
+ - 🚯 [Well said](http://9gag.com/gag/axMwXW2)<!-- MEMES:END -->
 
 --- 
 
