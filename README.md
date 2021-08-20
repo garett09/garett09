@@ -187,9 +187,9 @@ Linux                    11 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - ['iPhone 13' launch, 'Apple Watch Series 7' design, SharePlay delay on the AppleInsider podcast](https://appleinsider.com/articles/21/08/20/iphone-13-launch-apple-watch-series-7-design-shareplay-delay-on-the-appleinsider-podcast?utm_medium=rss)
- - [Can Tech Ethics Be Learned—or Is Society Doomed?](https://www.wired.com/story/plaintext-tech-ethics-learned)
- - [Eternals and the Movies That Can Save All Movies](https://www.wired.com/story/eternals-movies-that-can-save-all-movies)<!-- TECH:END -->
+ - [Bird shows improving scooter economics, long march to profitability](http://feedproxy.google.com/~r/Techcrunch/~3/ZeJxBKgQj9M/)
+ - [UK's CMA recommends an in-depth investigation into Nvidia's planned $40B acquisition of Arm, saying there are "serious competition concerns" about the deal (Kate Beioley/Financial Times)](http://www.techmeme.com/210820/p9#a210820p9)
+ - [Men are a niche demographic](http://feedproxy.google.com/~r/Techcrunch/~3/fRK6J0odlSw/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
