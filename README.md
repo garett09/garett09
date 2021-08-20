@@ -187,9 +187,9 @@ Linux                    11 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnlyFans shares its new policy banning sexually explicit content](https://www.theverge.com/2021/8/20/22634785/onlyfans-new-terms-of-service-policy-banning-sex-masturbation)
- - [Get 30% off the 14-inch MSI Modern laptop, and more great laptop deals](https://www.androidauthority.com/best-laptop-deals-1109232/)
- - [Tesla Bot Takes Tech Demos to Their Logical Conclusion](https://www.wired.com/story/tesla-bot-takes-tech-demos-to-their-logical-conclusion)<!-- TECH:END -->
+ - [Facebook shelved its content transparency report in Q1 fearing public criticism, as the most-viewed link suggested a doctor died due to a COVID-19 vaccine (New York Times)](http://www.techmeme.com/210820/p18#a210820p18)
+ - [An NES game donated to Goodwill just sold for $411,278     - CNET](https://www.cnet.com/news/an-nes-game-donated-to-goodwill-just-sold-for-411278/#ftag=CAD590a51e)
+ - ['Tetris Beat' for Apple Arcade brings new twist to classic tile-matching gameplay](https://appleinsider.com/articles/21/08/20/tetris-beat-for-apple-arcade-brings-new-twist-to-classic-tile-matching-gameplay?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
