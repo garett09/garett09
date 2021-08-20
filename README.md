@@ -194,9 +194,9 @@ Linux                    11 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Kabul residents defy the Taliban, and replace their flag with the Afghan flag.](http://9gag.com/gag/axMwXep)
- - 🚯 [Roads : a story in one act](http://9gag.com/gag/aV75A3O)
- - 🚯 [Boss Fight](http://9gag.com/gag/aAb5oPR)<!-- MEMES:END -->
+ - 🚖 [Look who&#039;s laughing now .....](http://9gag.com/gag/ajmwb9G)
+ - 🚯 [Intense game actually](http://9gag.com/gag/aMK5RrA)
+ - 🚯 [Kabul residents defy the Taliban, and replace their flag with the Afghan flag.](http://9gag.com/gag/axMwXep)<!-- MEMES:END -->
 
 --- 
 
