@@ -180,9 +180,9 @@ Linux                    11 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Genshin Impact 2.1: Everything we know](https://www.pcgamer.com/genshin-impact-21-release-date-update)
- - [Warzone's Battle Of Verdansk event was somehow both dry and hilarious](https://www.pcgamer.com/warzone-battle-of-verdansk-event-was-somehow-dry-and-hilarious)
- - [Scaramouche is returning to Genshin Impact, this is not a drill](https://www.pcgamer.com/scaramouche-is-returning-to-genshin-impact-this-is-not-a-drill)<!-- GAME:END -->
+ - [Valheim Hearth and Home update: Everything we know](https://www.pcgamer.com/valheim-hearth-and-home-update-release-date)
+ - [Warzone Battle of Verdansk rewards guide](https://www.pcgamer.com/warzone-battle-of-verdansk-rewards-end-time)
+ - [Diablo II: Resurrected Open Beta – The Gates of Hell Are Open](https://news.xbox.com/en-us/2021/08/20/diablo-ii-resurrected-open-beta-the-gates-of-hell-are-open/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
