@@ -187,9 +187,9 @@ Linux                    11 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Podcasters complain of Apple Podcasts platform pain points](https://appleinsider.com/articles/21/08/19/podcasters-complain-of-apple-podcasts-platform-pain-points?utm_medium=rss)
- - [Elon Musk says Tesla is working on humanoid robots](https://www.theverge.com/2021/8/19/22633514/tesla-robot-prototype-elon-musk-humanoid-ai-day)
- - [Apple's Alisha Johnson discusses climate-focused 'Impact Accelerator' program](https://appleinsider.com/articles/21/08/20/apples-alisha-johnson-discusses-climate-focused-impact-accelerator-program?utm_medium=rss)<!-- TECH:END -->
+ - [Elon Musk says Tesla is working on a humanoid robot which will handle "tasks that are unsafe, repetitive or boring", will build a prototype "sometime next year" (Sean O'Kane/The Verge)](http://www.techmeme.com/210819/p44#a210819p44)
+ - [Balto, which uses AI to enable call centers to improve conversations in real time, raises $37M Series B led by Stripes, bringing its total raised to $51.2M (Kyle Wiggers/VentureBeat)](http://www.techmeme.com/210819/p43#a210819p43)
+ - [DriveWealth, whose tech enables businesses to build fractional trading like Robinhood, raises $450M round led by Insight and Accel at a $2.85B valuation (Bloomberg)](http://www.techmeme.com/210819/p42#a210819p42)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
