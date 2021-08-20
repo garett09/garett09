@@ -187,9 +187,9 @@ Linux                    11 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Metabase, which makes open-source analytics and business intelligence software, raises $30M Series B led by Insight Partners, bringing total raised to $42.5M (Christine Hall/TechCrunch)](http://www.techmeme.com/210819/p41#a210819p41)
- - [OnlyFans to prohibit sexually explicit content beginning in October](https://www.theverge.com/2021/8/19/22632797/onlyfans-prohibit-sexually-explicit-content-porn-creators)
- - [Twitter is rolling out ability to DM a tweet to multiple people in different chats at once on iOS and web, and long press messages for reactions on iOS (Kim Lyons/The Verge)](http://www.techmeme.com/210819/p40#a210819p40)<!-- TECH:END -->
+ - [Podcasters complain of Apple Podcasts platform pain points](https://appleinsider.com/articles/21/08/19/podcasters-complain-of-apple-podcasts-platform-pain-points?utm_medium=rss)
+ - [Elon Musk says Tesla is working on humanoid robots](https://www.theverge.com/2021/8/19/22633514/tesla-robot-prototype-elon-musk-humanoid-ai-day)
+ - [Apple's Alisha Johnson discusses climate-focused 'Impact Accelerator' program](https://appleinsider.com/articles/21/08/20/apples-alisha-johnson-discusses-climate-focused-impact-accelerator-program?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
