@@ -180,9 +180,9 @@ Linux                    11 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [A battle to preserve Hideaki Anno’s DAICON III ends with news of Gainax’s re-release plans](https://www.polygon.com/features/22613071/daicon-3-hideaki-anno-watch-remaster)
- - [Madden NFL 22’s Franchise is a slow — and overdue — burn](https://www.polygon.com/22633591/madden-nfl-22-review-franchise-mode-changes-upgrades-ps5-xbox-series-x)
- - [Syberia: The World Before brings back Benoit Sokal's strange world in December](https://www.pcgamer.com/syberia-the-world-before-brings-back-benoit-sokals-strange-world-in-december)<!-- GAME:END -->
+ - [Genshin Impact getting Baal in 2.1 Inazuma update next month](https://www.polygon.com/22634394/genshin-impact-characters-2-1-update-baal-aloy)
+ - [Jeopardy!’s Skeezy New Host Sure Didn’t Last Long](https://kotaku.com/jeopardy-s-skeezy-new-host-sure-didn-t-last-long-1847527641)
+ - [Alien: Fate of the Nostromo is a tight, tense board game with multiple endings](https://www.polygon.com/reviews/22634108/alien-fate-of-the-nostromo-board-game-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
