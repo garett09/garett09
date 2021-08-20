@@ -187,9 +187,9 @@ Linux                    11 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy S22 Ultra may not bring any exciting camera gains](https://www.androidauthority.com/samsung-galaxy-s22-ultra-cameras-2737769/)
- - [Apple reportedly delays return to office until January amid COVID surge     - CNET](https://www.cnet.com/tech/mobile/apple-reportedly-delays-return-to-office-until-january-amid-covid-surge/#ftag=CAD590a51e)
- - [Apple postpones return to office mandate to at least January 2022](https://appleinsider.com/articles/21/08/20/apple-postpones-return-to-office-mandate-to-at-least-january-2022?utm_medium=rss)<!-- TECH:END -->
+ - [Alerzo raises $10.5M Series A to bring Nigeria’s informal retail sector online](http://feedproxy.google.com/~r/Techcrunch/~3/I-KWF4mSA1c/)
+ - [Epomaker AK84S review: a great wireless keyboard, plus some quirks](https://www.theverge.com/22632285/epomaker-ak84s-review-wireless-bluetooth-keyboard-75-percent)
+ - [iPhones were tiny in 2010, but Apple had plans to go “nano”](https://www.androidauthority.com/iphone-nano-2737773/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
