@@ -187,9 +187,9 @@ Linux                    11 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tech industry needs to rebuild user trust after privacy losses, says Tim Cook](https://appleinsider.com/articles/21/08/20/tech-industry-needs-to-rebuild-user-trust-after-privacy-losses-says-tim-cook?utm_medium=rss)
- - [Future Apple Watch could gain sweat-sampling hydration tracker](https://www.androidauthority.com/apple-watch-hydration-tracking-2737872/)
- - [Daily Authority: Google lawsuit revelations, Tesla Bot 🤖](https://www.androidauthority.com/newsletters/da-august-20-2021/)<!-- TECH:END -->
+ - [Apple exec said iCloud was the 'greatest platform' for CSAM distribution](https://appleinsider.com/articles/21/08/20/apple-exec-said-icloud-was-the-greatest-platform-for-csam-distribution?utm_medium=rss)
+ - [Coalition for App Fairness originally Epic-funded to assist in App Store legal battles](https://appleinsider.com/articles/21/08/20/coalition-for-app-fairness-originally-epic-funded-to-assist-in-app-store-legal-battles?utm_medium=rss)
+ - [Apple launches a new iOS app, ‘Siri Speech Study,’ to gather feedback for Siri improvements](http://feedproxy.google.com/~r/Techcrunch/~3/0a1FDsB0zpo/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
