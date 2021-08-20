@@ -187,9 +187,9 @@ Linux                    11 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How much does it cost to replace a foldable phone’s screen?](https://www.androidauthority.com/foldable-phone-screen-repair-costs-1069279/)
- - [Google and Apple apparently discussed an Android-iOS “partnership” years ago](https://www.androidauthority.com/google-and-apple-android-ios-partnership-2737811/)
- - [A look at the fintech boom in Nigeria, which has seen ~40% of Nigeria's $307M VC funding, and how 60M adults without bank accounts are driving explosive growth (Neil Munshi/Financial Times)](http://www.techmeme.com/210820/p4#a210820p4)<!-- TECH:END -->
+ - [Google is shutting down its Android Auto mobile app in favor of Google Assistant](https://www.theverge.com/2021/8/20/22633755/google-android-auto-for-phone-screens-shutting-down-android-12-google-assistant-driving-mode)
+ - [China passes data privacy law that will take effect November 1: data collection must have a reasonable purpose, a user's consent, and limited to "minimum scope" (Josh Horwitz/Reuters)](http://www.techmeme.com/210820/p5#a210820p5)
+ - [Realme’s bulky magnetic wireless charger is almost as fast as promised](https://www.theverge.com/2021/8/20/22633722/realme-flash-magdart-magnetic-wireless-charging-time-test)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
