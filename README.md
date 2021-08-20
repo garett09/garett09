@@ -187,9 +187,9 @@ Linux                    11 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [PUBG New State: Everything you need to know (Update: New alpha test)](https://www.androidauthority.com/pubg-new-state-1203962/)
- - [Xiaomi Mi 11T Pro specs leak: 120W charging with 120Hz OLED tipped](https://www.androidauthority.com/xiaomi-mi-11t-pro-specs-2737792/)
- - [Facebook launches program to help small Indian businesses secure loans](http://feedproxy.google.com/~r/Techcrunch/~3/L42meGtQAWc/)<!-- TECH:END -->
+ - [How much does it cost to replace a foldable phone’s screen?](https://www.androidauthority.com/foldable-phone-screen-repair-costs-1069279/)
+ - [Google and Apple apparently discussed an Android-iOS “partnership” years ago](https://www.androidauthority.com/google-and-apple-android-ios-partnership-2737811/)
+ - [A look at the fintech boom in Nigeria, which has seen ~40% of Nigeria's $307M VC funding, and how 60M adults without bank accounts are driving explosive growth (Neil Munshi/Financial Times)](http://www.techmeme.com/210820/p4#a210820p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
