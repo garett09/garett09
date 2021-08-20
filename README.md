@@ -180,9 +180,9 @@ Linux                    11 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Quake Returns with an Enhanced Re-release Available Today with Xbox Game Pass](https://news.xbox.com/en-us/2021/08/19/quake-returns-available-today-with-xbox-game-pass/)
- - [Quake remaster out now for PC, consoles with new expansion](https://www.polygon.com/22632775/quake-remaster-release-date-pc-ps4-xbox-switch-quakecon)
- - [Surprise: Legendary FPS Quake Just Got Remastered On Every Platform](https://kotaku.com/surprise-legendary-fps-quake-just-got-remastered-on-ev-1847518213)<!-- GAME:END -->
+ - [It's Shocking Just How Shady Roblox Actually Is](https://kotaku.com/its-shocking-just-how-shady-roblox-actually-is-1847522070)
+ - [Epic Games Store freebies this week include Yooka-Laylee](https://www.pcgamer.com/epic-games-store-freebies-this-week-include-yooka-laylee)
+ - [Destiny 2's Primary weapons are getting infinite ammo in the next season](https://www.pcgamer.com/destiny-2s-primary-weapons-are-getting-infinite-ammo-in-the-next-season)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
