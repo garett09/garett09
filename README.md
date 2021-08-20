@@ -194,8 +194,8 @@ Linux                    11 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Serbian regime cut off power to the street lights so protesters wouldn&#039;t be seen. Everyone pulled out their phones.](http://9gag.com/gag/apNwZPb)
- - 🚯 [Someone shoot me](http://9gag.com/gag/a8EOxnZ)
+ - 🚖 [Nostalgia](http://9gag.com/gag/aB25AzD)
+ - 🚯 [Backyard BBQ Maestro](http://9gag.com/gag/aQo5LQ7)
  - 🚯 [What&#039;s your favorite food from another country?](http://9gag.com/gag/aV759ow)<!-- MEMES:END -->
 
 --- 
