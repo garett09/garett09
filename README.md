@@ -195,8 +195,8 @@ Linux                    11 mins             ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 🚖 [Look who&#039;s laughing now .....](http://9gag.com/gag/ajmwb9G)
- - 🚯 [Intense game actually](http://9gag.com/gag/aMK5RrA)
- - 🚯 [Kabul residents defy the Taliban, and replace their flag with the Afghan flag.](http://9gag.com/gag/axMwXep)<!-- MEMES:END -->
+ - 🚯 [A wig gives happiness to this kid after loosing her hair](http://9gag.com/gag/aeAwvZj)
+ - 🚯 [Intense game actually](http://9gag.com/gag/aMK5RrA)<!-- MEMES:END -->
 
 --- 
 
