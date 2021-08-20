@@ -180,9 +180,9 @@ Linux                    11 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Gloomhaven, Blades in the Dark publishers break ties with tabletop CEO accused of assault](https://www.polygon.com/tabletop-games/22632835/broken-token-greg-spence-allegations-sexual-assault-abuse)
- - [Introducing a New Fortnite Experience: Impostors](https://news.xbox.com/en-us/2021/08/20/introducing-a-new-fortnite-experience-impostors/)
- - [Halo Infinite Won't Have Campaign Co-Op At Launch](https://kotaku.com/halo-infinite-wont-have-campaign-co-op-at-launch-1847528820)<!-- GAME:END -->
+ - [Activision Name Conspicuously Absent From Call Of Duty: Vanguard Marketing](https://kotaku.com/activision-name-conspicuously-absent-from-call-of-duty-1847529748)
+ - [Call of Duty menu meme asks how many CoDs is too many](https://www.pcgamer.com/cod-meme-menu)
+ - [The Green Knight, Netflix’s Sweet Girl and every new movie you can watch at home this weekend](https://www.polygon.com/2021/8/20/22626737/sweet-girl-netflix-green-knight-watch-reminiscence-hbo-amazon)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
