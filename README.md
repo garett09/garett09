@@ -194,7 +194,7 @@ Linux                    11 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Oh No](http://9gag.com/gag/aoMw7yn)
+ - 🚖 [Again? Seriously?](http://9gag.com/gag/aP32bMn)
  - 🚯 [This was way ahead of its time...](http://9gag.com/gag/aGp5Qbz)
  - 🚯 [What&#039;s your favorite food from another country?](http://9gag.com/gag/aV759ow)<!-- MEMES:END -->
 
