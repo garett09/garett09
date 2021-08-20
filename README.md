@@ -187,9 +187,9 @@ Linux                    11 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Peloton’s Android app hints at long-rumored rowing machine](http://feedproxy.google.com/~r/Techcrunch/~3/e8OaU9E9CAY/)
- - [How to install the Android 12 public beta](https://www.theverge.com/22442576/android-12-public-beta-install-how-to-update)
- - [San Francisco doctor charged with possessing child pornography in iCloud](https://appleinsider.com/articles/21/08/20/san-francisco-doctor-charged-with-possessing-child-pornography-in-icloud?utm_medium=rss)<!-- TECH:END -->
+ - [General Motors issues third recall for Chevrolet Bolt EVs, citing rare battery defects](http://feedproxy.google.com/~r/Techcrunch/~3/SNlMhKkwGpc/)
+ - [When it comes to diversity in hiring, businesses are their own worst enemy](http://feedproxy.google.com/~r/Techcrunch/~3/sBkyIw0HMcY/)
+ - [Researchers who built rudimentary CSAM system say Apple's is a danger](https://appleinsider.com/articles/21/08/20/researchers-who-built-rudimentary-csam-system-say-apples-is-a-danger?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
