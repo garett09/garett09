@@ -194,8 +194,8 @@ Linux                    11 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Nothing feels better than driving on smooth brand new asphalt](http://9gag.com/gag/ayMwrZb)
- - 🚯 [After a week in the gym.](http://9gag.com/gag/aWj530Z)
+ - 🚖 [Excessive speed on highway](http://9gag.com/gag/aO35Wj3)
+ - 🚯 [Ok, hear me out..](http://9gag.com/gag/aGp540z)
  - 🚯 [What&#039;s your favorite food from another country?](http://9gag.com/gag/aV759ow)<!-- MEMES:END -->
 
 --- 
