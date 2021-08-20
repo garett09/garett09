@@ -180,9 +180,9 @@ Linux                    11 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Valheim Hearth and Home update: Everything we know](https://www.pcgamer.com/valheim-hearth-and-home-update-release-date)
- - [Warzone Battle of Verdansk rewards guide](https://www.pcgamer.com/warzone-battle-of-verdansk-rewards-end-time)
- - [Diablo II: Resurrected Open Beta – The Gates of Hell Are Open](https://news.xbox.com/en-us/2021/08/20/diablo-ii-resurrected-open-beta-the-gates-of-hell-are-open/)<!-- GAME:END -->
+ - [A battle to preserve Hideaki Anno’s DAICON III ends with news of Gainax’s re-release plans](https://www.polygon.com/features/22613071/daicon-3-hideaki-anno-watch-remaster)
+ - [Madden NFL 22’s Franchise is a slow — and overdue — burn](https://www.polygon.com/22633591/madden-nfl-22-review-franchise-mode-changes-upgrades-ps5-xbox-series-x)
+ - [Syberia: The World Before brings back Benoit Sokal's strange world in December](https://www.pcgamer.com/syberia-the-world-before-brings-back-benoit-sokals-strange-world-in-december)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
