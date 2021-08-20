@@ -194,9 +194,9 @@ Linux                    11 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How to take care of a baby.](http://9gag.com/gag/aeAwvEQ)
- - 🚯 [Im scared, are you?](http://9gag.com/gag/aGp5PZw)
- - 🚯 [Pffff... I&#039;m this old..](http://9gag.com/gag/aV75nrd)<!-- MEMES:END -->
+ - 🚖 [Pffff... I&#039;m this old..](http://9gag.com/gag/aV75nrd)
+ - 🚯 [Don&#039;t f**k with this Bus Driver !](http://9gag.com/gag/agBwPQv)
+ - 🚯 [Im scared, are you?](http://9gag.com/gag/aGp5PZw)<!-- MEMES:END -->
 
 --- 
 
