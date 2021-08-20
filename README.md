@@ -180,9 +180,9 @@ Linux                    11 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Warhammer 40,000: Battlesector is adding progression systems and more factions](https://www.pcgamer.com/warhammer-40000-battlesector-is-adding-progression-systems-and-more-factions)
- - [Cheap SSD deals of the week](https://www.pcgamer.com/best-ssd-deals-today)
- - [The best gaming TV in 2021](https://www.pcgamer.com/best-4k-tv-for-gaming)<!-- GAME:END -->
+ - [Cheap gaming laptop deals this week](https://www.pcgamer.com/gaming-laptop-deals)
+ - [Best cheap gaming PC right now](https://www.pcgamer.com/best-cheap-gaming-pc)
+ - [Warhammer 40,000: Battlesector is adding progression systems and more factions](https://www.pcgamer.com/warhammer-40000-battlesector-is-adding-progression-systems-and-more-factions)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
