@@ -187,9 +187,9 @@ Linux                    11 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple postpones return to office mandate to at least January 2022](https://appleinsider.com/articles/21/08/20/apple-postpones-return-to-office-mandate-to-at-least-january-2022?utm_medium=rss)
- - [Top four highlights of Elon Musk’s Tesla AI Day](http://feedproxy.google.com/~r/Techcrunch/~3/hAUQhHIg7po/)
- - [Internal memo: Apple is delaying return to corporate offices from October until January at the earliest because of surging COVID-19 cases and new variants (Mark Gurman/Bloomberg)](http://www.techmeme.com/210820/p2#a210820p2)<!-- TECH:END -->
+ - [Samsung Galaxy S22 Ultra may not bring any exciting camera gains](https://www.androidauthority.com/samsung-galaxy-s22-ultra-cameras-2737769/)
+ - [Apple reportedly delays return to office until January amid COVID surge     - CNET](https://www.cnet.com/tech/mobile/apple-reportedly-delays-return-to-office-until-january-amid-covid-surge/#ftag=CAD590a51e)
+ - [Apple postpones return to office mandate to at least January 2022](https://appleinsider.com/articles/21/08/20/apple-postpones-return-to-office-mandate-to-at-least-january-2022?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
