@@ -180,9 +180,9 @@ Linux                    11 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Genshin Impact fans aren't happy with its 'broken' new character](https://www.pcgamer.com/genshin-impact-fans-arent-happy-with-its-broken-new-character)
  - [Cheap gaming laptop deals this week](https://www.pcgamer.com/gaming-laptop-deals)
- - [Best cheap gaming PC right now](https://www.pcgamer.com/best-cheap-gaming-pc)
- - [Warhammer 40,000: Battlesector is adding progression systems and more factions](https://www.pcgamer.com/warhammer-40000-battlesector-is-adding-progression-systems-and-more-factions)<!-- GAME:END -->
+ - [Best cheap gaming PC right now](https://www.pcgamer.com/best-cheap-gaming-pc)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
