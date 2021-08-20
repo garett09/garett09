@@ -194,9 +194,9 @@ Linux                    11 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Girls fantasies about guys](http://9gag.com/gag/agBwWjr)
- - 🚯 [Snake plays dead after being poked](http://9gag.com/gag/a6E6Pm2)
- - 🚯 [Old anti china movie in hongkong](http://9gag.com/gag/a8EOZqZ)<!-- MEMES:END -->
+ - 🚖 [Boss Fight](http://9gag.com/gag/aAb5oPR)
+ - 🚯 [Well said](http://9gag.com/gag/axMwXW2)
+ - 🚯 [Always remember. You don&#039;t exist to work for money.](http://9gag.com/gag/aB25AXA)<!-- MEMES:END -->
 
 --- 
 
