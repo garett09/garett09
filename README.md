@@ -194,8 +194,8 @@ Linux                    11 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Nostalgia](http://9gag.com/gag/aB25AzD)
- - 🚯 [Backyard BBQ Maestro](http://9gag.com/gag/aQo5LQ7)
+ - 🚖 [This is a serval, if you want to know!](http://9gag.com/gag/aeAwn3b)
+ - 🚯 [Stay the f**k inside](http://9gag.com/gag/azMwWeK)
  - 🚯 [What&#039;s your favorite food from another country?](http://9gag.com/gag/aV759ow)<!-- MEMES:END -->
 
 --- 
