@@ -194,8 +194,8 @@ Linux                    11 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This is a serval, if you want to know!](http://9gag.com/gag/aeAwn3b)
- - 🚯 [Stay the f**k inside](http://9gag.com/gag/azMwWeK)
+ - 🚖 [Snake plays dead after being poked](http://9gag.com/gag/a6E6Pm2)
+ - 🚯 [Backyard BBQ Maestro](http://9gag.com/gag/aQo5LQ7)
  - 🚯 [What&#039;s your favorite food from another country?](http://9gag.com/gag/aV759ow)<!-- MEMES:END -->
 
 --- 
