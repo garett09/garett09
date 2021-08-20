@@ -187,9 +187,9 @@ Linux                    11 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple exec said iCloud was the 'greatest platform' for CSAM distribution](https://appleinsider.com/articles/21/08/20/apple-exec-said-icloud-was-the-greatest-platform-for-csam-distribution?utm_medium=rss)
- - [Coalition for App Fairness originally Epic-funded to assist in App Store legal battles](https://appleinsider.com/articles/21/08/20/coalition-for-app-fairness-originally-epic-funded-to-assist-in-app-store-legal-battles?utm_medium=rss)
- - [Apple launches a new iOS app, ‘Siri Speech Study,’ to gather feedback for Siri improvements](http://feedproxy.google.com/~r/Techcrunch/~3/0a1FDsB0zpo/)<!-- TECH:END -->
+ - ['iPhone 13' launch, 'Apple Watch Series 7' design, SharePlay delay on the AppleInsider podcast](https://appleinsider.com/articles/21/08/20/iphone-13-launch-apple-watch-series-7-design-shareplay-delay-on-the-appleinsider-podcast?utm_medium=rss)
+ - [Can Tech Ethics Be Learned—or Is Society Doomed?](https://www.wired.com/story/plaintext-tech-ethics-learned)
+ - [Eternals and the Movies That Can Save All Movies](https://www.wired.com/story/eternals-movies-that-can-save-all-movies)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
