@@ -187,9 +187,9 @@ Linux                    11 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple attempted to hire Google deputy search chief Ben Gomes](https://appleinsider.com/articles/21/08/20/apple-attempted-to-hire-google-deputy-search-chief-ben-gomes?utm_medium=rss)
- - [Save up to $350 on the Galaxy Tab S7 FE, and more Samsung Galaxy Tab deals](https://www.androidauthority.com/best-cheap-samsung-galaxy-tab-deals-1119065/)
- - [Apple launches Siri Speech Study, an iOS app that lets invited participants share their voice requests and other feedback with Apple (Sarah Perez/TechCrunch)](http://www.techmeme.com/210820/p12#a210820p12)<!-- TECH:END -->
+ - [OneLab: Who drives the creative engine within OnePlus?](https://www.androidauthority.com/onelab-oneplus-interview-2737674/)
+ - [Best Deals August 20 - $39 JBL AirPlay 2 speaker, Monoprice essentials, free Quake II](https://appleinsider.com/articles/21/08/20/best-deals-august-20---jbl-airplay-2-speaker-for-39-monoprice-essentials-free-quake-ii?utm_medium=rss)
+ - [Vergecast: reviews for the Pixel 5A, Samsung Galaxy Z Fold 3, and Z Flip 3](https://www.theverge.com/2021/8/20/22633953/review-google-pixel-5a-samsung-galaxy-z-flold-flip-vergecast-podcast-463)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
