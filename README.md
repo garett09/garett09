@@ -180,9 +180,9 @@ Linux                    11 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Protégé director Martin Campbell: ‘I like real action and not visual effects’](https://www.polygon.com/movies/22542989/the-protege-maggie-q-martin-campbell-interview)
- - [Ghost of Tsushima Director’s Cut: Official merchandise](http://feedproxy.google.com/~r/PSBlog/~3/KkdI_ZgFjB8/)
- - [Ghost of Tsushima Director’s Cut: Official merchandise](https://blog.playstation.com/2021/08/20/ghost-of-tsushima-directors-cut-official-merchandise/)<!-- GAME:END -->
+ - [Next Week on Xbox: August 23 to 27](https://news.xbox.com/en-us/2021/08/20/next-week-on-xbox-august-23-to-27/)
+ - [Windows 11 Insider Preview ISO download is out: Here's how to do a clean install of Microsoft's new OS](https://www.pcgamer.com/microsoft-windows-11-iso-install)
+ - [The Protégé director Martin Campbell: ‘I like real action and not visual effects’](https://www.polygon.com/movies/22542989/the-protege-maggie-q-martin-campbell-interview)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
