@@ -187,9 +187,9 @@ Linux                    11 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Get the Galaxy Buds Pro for $126.99 today, and more top headphone deals](https://www.androidauthority.com/best-headphone-deals-1111467/)
- - [Apple launches secret feedback app to make Siri suck less](https://www.androidauthority.com/apple-launches-siri-app-2738150/)
- - [China passes the world's strictest user data protection law](https://appleinsider.com/articles/21/08/20/china-passes-the-worlds-strictest-user-data-protection-law?utm_medium=rss)<!-- TECH:END -->
+ - [Apple’s Photo-Scanning Plan Sparks Outcry From Policy Groups](https://www.wired.com/story/apple-csam-plan-sparks-outcry-from-policy-groups)
+ - [Sweet Girl on Netflix: A messy but effective Jason Momoa actioner](https://www.androidauthority.com/sweet-girl-netflix-2736994/)
+ - [VidCon cancels its 2021 event, says next one will be in June 2022](https://www.theverge.com/2021/8/20/22634270/vidcon-2021-event-california-canceled-covid-concerns)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
