@@ -194,8 +194,8 @@ Linux                    11 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Again? Seriously?](http://9gag.com/gag/aP32bMn)
- - 🚯 [Serbian regime cut off power to the street lights so protesters wouldn&#039;t be seen. Everyone pulled out their phones.](http://9gag.com/gag/apNwZPb)
+ - 🚖 [Oh No](http://9gag.com/gag/aoMw7yn)
+ - 🚯 [This was way ahead of its time...](http://9gag.com/gag/aGp5Qbz)
  - 🚯 [What&#039;s your favorite food from another country?](http://9gag.com/gag/aV759ow)<!-- MEMES:END -->
 
 --- 
