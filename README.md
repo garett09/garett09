@@ -194,8 +194,8 @@ Linux                    11 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Just a small experiment how popular is this Czech treasure even if most people here can&acute;t understand it](http://9gag.com/gag/aQo5bA7)
- - 🚯 [When monster magnets are joined with proper technique VS when monster magnets are joined directly.](http://9gag.com/gag/apNwwLE)
+ - 🚖 [Nothing feels better than driving on smooth brand new asphalt](http://9gag.com/gag/ayMwrZb)
+ - 🚯 [After a week in the gym.](http://9gag.com/gag/aWj530Z)
  - 🚯 [What&#039;s your favorite food from another country?](http://9gag.com/gag/aV759ow)<!-- MEMES:END -->
 
 --- 
