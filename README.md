@@ -187,9 +187,9 @@ Linux                    11 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple’s Photo-Scanning Plan Sparks Outcry From Policy Groups](https://www.wired.com/story/apple-csam-plan-sparks-outcry-from-policy-groups)
- - [Sweet Girl on Netflix: A messy but effective Jason Momoa actioner](https://www.androidauthority.com/sweet-girl-netflix-2736994/)
- - [VidCon cancels its 2021 event, says next one will be in June 2022](https://www.theverge.com/2021/8/20/22634270/vidcon-2021-event-california-canceled-covid-concerns)<!-- TECH:END -->
+ - [‘Nvidia controlling Arm could create real problems,’ UK regulator concludes](https://www.theverge.com/2021/8/20/22634379/nvidia-arm-aquisition-delay-uk-phase-2-investigation)
+ - [How to take advantage of Android 12’s new privacy options](https://www.theverge.com/22634128/privacy-android-12-dashboard-apps-sensors)
+ - [OnePlus is using Lunchables-style packaging to re-hype the OnePlus 9 Pro](https://www.androidauthority.com/oneplus-9-pro-lunchables-2738261/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
