@@ -187,9 +187,9 @@ Linux                    11 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s how much it costs to fix a Z Fold 3 or Z Flip 3 with a broken screen](https://www.theverge.com/2021/8/19/22633039/samsung-galaxy-z-fold-flip-3-screen-repair-prices-fix)
- - [Google Health VP David Feinberg, who led Google's COVID-19 initiatives, will depart the company to take over as CEO at electronic health records company Cerner (Wall Street Journal)](http://www.techmeme.com/210819/p38#a210819p38)
- - [Functional Apple-1 with hardware suite sells for over $370,000](https://appleinsider.com/articles/21/08/20/functional-apple-1-with-hardware-suite-sells-for-over-370000?utm_medium=rss)<!-- TECH:END -->
+ - [Metabase, which makes open-source analytics and business intelligence software, raises $30M Series B led by Insight Partners, bringing total raised to $42.5M (Christine Hall/TechCrunch)](http://www.techmeme.com/210819/p41#a210819p41)
+ - [OnlyFans to prohibit sexually explicit content beginning in October](https://www.theverge.com/2021/8/19/22632797/onlyfans-prohibit-sexually-explicit-content-porn-creators)
+ - [Twitter is rolling out ability to DM a tweet to multiple people in different chats at once on iOS and web, and long press messages for reactions on iOS (Kim Lyons/The Verge)](http://www.techmeme.com/210819/p40#a210819p40)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
