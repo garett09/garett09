@@ -194,8 +194,8 @@ Linux                    11 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Excessive speed on highway](http://9gag.com/gag/aO35Wj3)
- - 🚯 [Ok, hear me out..](http://9gag.com/gag/aGp540z)
+ - 🚖 [Again? Seriously?](http://9gag.com/gag/aP32bMn)
+ - 🚯 [Serbian regime cut off power to the street lights so protesters wouldn&#039;t be seen. Everyone pulled out their phones.](http://9gag.com/gag/apNwZPb)
  - 🚯 [What&#039;s your favorite food from another country?](http://9gag.com/gag/aV759ow)<!-- MEMES:END -->
 
 --- 
