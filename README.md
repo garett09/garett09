@@ -194,9 +194,9 @@ Linux                    11 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Wwyd without his wisdom?](http://9gag.com/gag/aQo5GO7)
- - 🚯 [CBS giving Lizzo the only support she really needs](http://9gag.com/gag/aDd5EDw)
- - 🚯 [Bravo six going dark](http://9gag.com/gag/aGp5Xon)<!-- MEMES:END -->
+ - 🚖 [Kabul residents defy the Taliban, and replace their flag with the Afghan flag.](http://9gag.com/gag/axMwXep)
+ - 🚯 [Roads : a story in one act](http://9gag.com/gag/aV75A3O)
+ - 🚯 [Boss Fight](http://9gag.com/gag/aAb5oPR)<!-- MEMES:END -->
 
 --- 
 
