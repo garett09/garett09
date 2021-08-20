@@ -180,9 +180,9 @@ Linux                    11 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Genshin Impact getting Baal in 2.1 Inazuma update next month](https://www.polygon.com/22634394/genshin-impact-characters-2-1-update-baal-aloy)
- - [Jeopardy!’s Skeezy New Host Sure Didn’t Last Long](https://kotaku.com/jeopardy-s-skeezy-new-host-sure-didn-t-last-long-1847527641)
- - [Alien: Fate of the Nostromo is a tight, tense board game with multiple endings](https://www.polygon.com/reviews/22634108/alien-fate-of-the-nostromo-board-game-review)<!-- GAME:END -->
+ - [Introducing a New Fortnite Experience: Impostors](https://news.xbox.com/en-us/2021/08/20/introducing-a-new-fortnite-experience-impostors/)
+ - [Halo Infinite Won't Have Campaign Co-Op At Launch](https://kotaku.com/halo-infinite-wont-have-campaign-co-op-at-launch-1847528820)
+ - [Almost a decade after shutting down, Curt Schilling's 38 Studios is finally sending employees money it owes them](https://www.pcgamer.com/38-studios-paychecks)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
