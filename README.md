@@ -187,9 +187,9 @@ Linux                    11 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple exec discusses importance of Entrepreneur Camp for women, Black developers](https://appleinsider.com/articles/21/08/20/apple-exec-discusses-importance-of-entrepreneur-camp-for-women-black-developers?utm_medium=rss)
- - [India-based AgNext Technologies, which uses AI to assess food quality and accelerate trade, raises $21M Series A led by Alpha Wave Incubation fund (The Economic Times)](http://www.techmeme.com/210819/p45#a210819p45)
- - [Elon Musk says Tesla is working on a humanoid robot which will handle "tasks that are unsafe, repetitive or boring", will build a prototype "sometime next year" (Sean O'Kane/The Verge)](http://www.techmeme.com/210819/p44#a210819p44)<!-- TECH:END -->
+ - [Apple postpones return to office mandate to at least January 2022](https://appleinsider.com/articles/21/08/20/apple-postpones-return-to-office-mandate-to-at-least-january-2022?utm_medium=rss)
+ - [Top four highlights of Elon Musk’s Tesla AI Day](http://feedproxy.google.com/~r/Techcrunch/~3/hAUQhHIg7po/)
+ - [Internal memo: Apple is delaying return to corporate offices from October until January at the earliest because of surging COVID-19 cases and new variants (Mark Gurman/Bloomberg)](http://www.techmeme.com/210820/p2#a210820p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
