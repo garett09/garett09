@@ -194,9 +194,9 @@ Linux                    11 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Snake plays dead after being poked](http://9gag.com/gag/a6E6Pm2)
+ - 🚖 [Oh no ... poor little buddy.](http://9gag.com/gag/aAb5z8R)
  - 🚯 [Backyard BBQ Maestro](http://9gag.com/gag/aQo5LQ7)
- - 🚯 [What&#039;s your favorite food from another country?](http://9gag.com/gag/aV759ow)<!-- MEMES:END -->
+ - 🚯 [Interesting interpretation](http://9gag.com/gag/aQo5Ljz)<!-- MEMES:END -->
 
 --- 
 
