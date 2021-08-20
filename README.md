@@ -194,9 +194,9 @@ Linux                    11 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Pffff... I&#039;m this old..](http://9gag.com/gag/aV75nrd)
- - 🚯 [Don&#039;t f**k with this Bus Driver !](http://9gag.com/gag/agBwPQv)
- - 🚯 [Im scared, are you?](http://9gag.com/gag/aGp5PZw)<!-- MEMES:END -->
+ - 🚖 [Just a casual rifle inspection](http://9gag.com/gag/aYo5zK7)
+ - 🚯 [Pffff... I&#039;m this old..](http://9gag.com/gag/aV75nrd)
+ - 🚯 [I&rsquo;m this old](http://9gag.com/gag/aYo58Kw)<!-- MEMES:END -->
 
 --- 
 
