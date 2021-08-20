@@ -187,9 +187,9 @@ Linux                    11 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk says Tesla is working on a humanoid robot which will handle "tasks that are unsafe, repetitive or boring", will build a prototype "sometime next year" (Sean O'Kane/The Verge)](http://www.techmeme.com/210819/p44#a210819p44)
- - [Balto, which uses AI to enable call centers to improve conversations in real time, raises $37M Series B led by Stripes, bringing its total raised to $51.2M (Kyle Wiggers/VentureBeat)](http://www.techmeme.com/210819/p43#a210819p43)
- - [DriveWealth, whose tech enables businesses to build fractional trading like Robinhood, raises $450M round led by Insight and Accel at a $2.85B valuation (Bloomberg)](http://www.techmeme.com/210819/p42#a210819p42)<!-- TECH:END -->
+ - [Apple exec discusses importance of Entrepreneur Camp for women, Black developers](https://appleinsider.com/articles/21/08/20/apple-exec-discusses-importance-of-entrepreneur-camp-for-women-black-developers?utm_medium=rss)
+ - [India-based AgNext Technologies, which uses AI to assess food quality and accelerate trade, raises $21M Series A led by Alpha Wave Incubation fund (The Economic Times)](http://www.techmeme.com/210819/p45#a210819p45)
+ - [Elon Musk says Tesla is working on a humanoid robot which will handle "tasks that are unsafe, repetitive or boring", will build a prototype "sometime next year" (Sean O'Kane/The Verge)](http://www.techmeme.com/210819/p44#a210819p44)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
