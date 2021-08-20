@@ -194,9 +194,9 @@ Linux                    11 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Oh no ... poor little buddy.](http://9gag.com/gag/aAb5z8R)
- - 🚯 [Backyard BBQ Maestro](http://9gag.com/gag/aQo5LQ7)
- - 🚯 [Interesting interpretation](http://9gag.com/gag/aQo5Ljz)<!-- MEMES:END -->
+ - 🚖 [Interesting interpretation](http://9gag.com/gag/aQo5Ljz)
+ - 🚯 [They&#039;ll be installing Fortnite Minecraft or PUBG now](http://9gag.com/gag/aEp599K)
+ - 🚯 [I am sure there are some real Jerrys out there.](http://9gag.com/gag/aB25p42)<!-- MEMES:END -->
 
 --- 
 
