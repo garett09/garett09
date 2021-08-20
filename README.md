@@ -195,7 +195,7 @@ Linux                    11 mins             ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 🚖 [Again? Seriously?](http://9gag.com/gag/aP32bMn)
- - 🚯 [This was way ahead of its time...](http://9gag.com/gag/aGp5Qbz)
+ - 🚯 [Me and the boys having a good time](http://9gag.com/gag/aQo5LRz)
  - 🚯 [What&#039;s your favorite food from another country?](http://9gag.com/gag/aV759ow)<!-- MEMES:END -->
 
 --- 
