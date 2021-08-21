@@ -194,9 +194,9 @@ Linux                    11 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Borrowing a fan&#039;s coat to dry the wet ball](http://9gag.com/gag/aAb9B4L)
- - 🚯 [When you know you know](http://9gag.com/gag/ajm4QdQ)
- - 🚯 [Karen tries to claim Tesla as hers!](http://9gag.com/gag/aNp5xXA)<!-- MEMES:END -->
+ - 🚖 [But 4 is bigger!](http://9gag.com/gag/a1r6vWG)
+ - 🚯 [I asked my client what size she wanter her banner and she sent me this](http://9gag.com/gag/aB25DEA)
+ - 🚯 [When you know you know](http://9gag.com/gag/ajm4QdQ)<!-- MEMES:END -->
 
 --- 
 
