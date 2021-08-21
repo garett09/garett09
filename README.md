@@ -180,9 +180,9 @@ Linux                    11 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The end of the Evangelion experiment](https://www.polygon.com/22633960/rebuild-evangelion-movies-ending)
  - [Reminiscence lays out a terrible future by staring back at the past](https://www.polygon.com/reviews/22634846/reminiscence-review-lisa-joy)
- - [Sony continues to walk the line between pissing off PlayStation owners and putting its games on PC](https://www.pcgamer.com/sony-continues-to-walk-the-line-between-pissing-off-playstation-owners-and-putting-its-games-on-pc)
- - [Top Twitch streamer Amouranth says investigators 'strongly suspect' fire at her house was arson](https://www.pcgamer.com/top-twitch-streamer-amouranth-says-investigators-strongly-suspect-fire-at-her-house-was-arson)<!-- GAME:END -->
+ - [Sony continues to walk the line between pissing off PlayStation owners and putting its games on PC](https://www.pcgamer.com/sony-continues-to-walk-the-line-between-pissing-off-playstation-owners-and-putting-its-games-on-pc)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
