@@ -187,9 +187,9 @@ Linux                    11 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [‘How to hire’ is the new ‘how to conserve runway’](http://feedproxy.google.com/~r/Techcrunch/~3/Bxj_j8jiof8/)
- - [Oxygen OS guide: Everything you need to know about OnePlus’ Android skin](https://www.androidauthority.com/oneplus-oxygen-os-2729449/)
- - [Leviton's second-generation Decora Dimmer review: Wi-Fi connected HomeKit switches](https://appleinsider.com/articles/21/08/21/levitons-second-generation-decora-dimmer-review-wi-fi-connected-homekit-switches?utm_medium=rss)<!-- TECH:END -->
+ - [Everything we know about the Foundation TV series on Apple TV Plus](https://www.androidauthority.com/foundation-tv-series-apple-tv-plus-2737547/)
+ - [[Thread] OnlyFans is banning sexually explicit content because new Mastercard rules, in force from October 1, make hosting such content prohibitively expensive (Post-Culture/@postcultrev)](http://www.techmeme.com/210821/p8#a210821p8)
+ - [Go read this story of why Aaliyah’s ‘One in a Million’ album took 20 years to come to streaming](https://www.theverge.com/2021/8/21/22635598/aaliyah-music-20-years-streaming-one-in-a-million)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
