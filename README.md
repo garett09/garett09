@@ -194,9 +194,9 @@ Linux                    11 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Quack Troopers](http://9gag.com/gag/aO3Wy5E)
- - 🚯 [Scaling and cleaning a fish in under 30 seconds](http://9gag.com/gag/apNMozB)
- - 🚯 [Love this show](http://9gag.com/gag/aP3q47G)<!-- MEMES:END -->
+ - 🚖 [Biggest treadmill ever](http://9gag.com/gag/ayMK04X)
+ - 🚯 [Facts](http://9gag.com/gag/aNpbZLA)
+ - 🚯 [Don&#039;t let it die.](http://9gag.com/gag/av5jZKd)<!-- MEMES:END -->
 
 --- 
 
