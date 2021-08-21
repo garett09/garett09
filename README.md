@@ -194,9 +194,9 @@ Linux                    11 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Putting pants on while in space is a breeze](http://9gag.com/gag/aWjXZgK)
- - 🚯 [It&#039;s funny coz they are...](http://9gag.com/gag/a9EGbGo)
- - 🚯 [I&#039;ve been waiting my whole life for this](http://9gag.com/gag/aXoOb0v)<!-- MEMES:END -->
+ - 🚖 [I&#039;ve been waiting my whole life for this](http://9gag.com/gag/aXoOb0v)
+ - 🚯 [Putting pants on while in space is a breeze](http://9gag.com/gag/aWjXZgK)
+ - 🚯 [Drunk, you are more honest](http://9gag.com/gag/ad8z6Y9)<!-- MEMES:END -->
 
 --- 
 
