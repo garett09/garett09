@@ -187,9 +187,9 @@ Linux                    11 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Pay wallet now lets you store a digital version of a COVID-19 vaccination card](https://www.theverge.com/2021/8/21/22635740/samsung-pay-wallet-digital-covid-vaccination-proof)
- - [Bill Maher declares Apple CSAM tools a 'blatant constitutional breach'](https://appleinsider.com/articles/21/08/21/bill-maher-declares-apple-csam-tools-a-blatant-constitutional-breach?utm_medium=rss)
- - [Elon Musk's Tesla Bot may never arrive. Here are robots you can experience now     - CNET](https://www.cnet.com/home/smart-home/no-one-knows-when-tesla-bot-will-arrive-here-are-robots-you-can-experience-right-now/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [CEO of Saygus smartphone company that never released a phone charged with fraud](https://www.theverge.com/2021/8/21/22635779/ceo-saygus-smartphone-company-fraud)
+ - [Mous MagSafe-compatible gear review: A whole ecosystem of magnetic accessories](https://appleinsider.com/articles/21/08/21/mous-magsafe-compatible-gear-review-a-whole-ecosystem-of-magnetic-accessories?utm_medium=rss)
+ - [Samsung Pay wallet now lets you store a digital version of a COVID-19 vaccination card](https://www.theverge.com/2021/8/21/22635740/samsung-pay-wallet-digital-covid-vaccination-proof)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
