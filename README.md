@@ -187,9 +187,9 @@ Linux                    11 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple developing new home products as it increases retail hiring](https://appleinsider.com/articles/21/08/21/apple-developing-new-home-products-as-it-increases-retail-hiring?utm_medium=rss)
  - [FTC's updated suit against Facebook incorrectly claims that Facebook has driven up ad prices via monopoly control over the personal social networking market (Eric Benjamin Seufert/Mobile Dev Memo)](http://www.techmeme.com/210821/p1#a210821p1)
- - [A consortium including Nordic Capital and Insight Partners to buy and take private Inovalon, which makes software for analyzing healthcare data, for $6.41B (Mrinalika Roy/Reuters)](http://www.techmeme.com/210820/p21#a210820p21)
- - [India’s path to SaaS leadership is clear, but challenges remain](http://feedproxy.google.com/~r/Techcrunch/~3/oMniYwiLlcA/)<!-- TECH:END -->
+ - [A consortium including Nordic Capital and Insight Partners to buy and take private Inovalon, which makes software for analyzing healthcare data, for $6.41B (Mrinalika Roy/Reuters)](http://www.techmeme.com/210820/p21#a210820p21)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
