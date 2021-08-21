@@ -194,9 +194,9 @@ Linux                    11 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Very trained...](http://9gag.com/gag/apNMqV9)
- - 🚯 [Mango chocolate mousse cake](http://9gag.com/gag/ayMK7bY)
- - 🚯 [Putting pants on while in space is a breeze](http://9gag.com/gag/aWjXZgK)<!-- MEMES:END -->
+ - 🚖 [Putting pants on while in space is a breeze](http://9gag.com/gag/aWjXZgK)
+ - 🚯 [It&#039;s funny coz they are...](http://9gag.com/gag/a9EGbGo)
+ - 🚯 [I&#039;ve been waiting my whole life for this](http://9gag.com/gag/aXoOb0v)<!-- MEMES:END -->
 
 --- 
 
