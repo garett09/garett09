@@ -180,9 +180,9 @@ Linux                    11 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [A Brand New Saints Row Game Is Getting Revealed Next Week](https://kotaku.com/a-brand-new-saints-row-game-is-getting-revealed-next-we-1847532678)
  - [Is Destiny a PvE or PvP game? Bungie can’t decide](https://www.polygon.com/22632590/destiny-2-pvp-pve-crucible-raid-debate-seperate-balance)
- - [13 great comedies you’ll find on streaming right now](https://www.polygon.com/22632484/best-comedy-movies-netflix-amazon-prime-hulu-hbo-max)
- - [Tyrunt Is A Spoiled Brat That Loves To Be Pampered](https://kotaku.com/tyrunt-is-a-spoiled-brat-that-loves-to-be-pampered-1847532501)<!-- GAME:END -->
+ - [13 great comedies you’ll find on streaming right now](https://www.polygon.com/22632484/best-comedy-movies-netflix-amazon-prime-hulu-hbo-max)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
