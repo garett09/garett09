@@ -194,9 +194,9 @@ Linux                    11 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How to taste-block yourself 101](http://9gag.com/gag/aqjE2GM)
- - 🚯 [It&#039;s like wtf!](http://9gag.com/gag/aO3WmY2)
- - 🚯 [Biggest treadmill ever](http://9gag.com/gag/ayMK04X)<!-- MEMES:END -->
+ - 🚖 [Weird Fish In Deep Void](http://9gag.com/gag/aGpQRr0)
+ - 🚯 [How to taste-block yourself 101](http://9gag.com/gag/aqjE2GM)
+ - 🚯 [When building the Golden Gate Bridge, a lead structural engineer Joseph insisted on the installation of a safety net even though its $130,000 cost was deemed exorbitant. Over 4 years of its construction, the net saved 19 men.](http://9gag.com/gag/aB2erj2)<!-- MEMES:END -->
 
 --- 
 
