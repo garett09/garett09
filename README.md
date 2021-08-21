@@ -194,9 +194,9 @@ Linux                    11 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It&#039;s funny coz they are...](http://9gag.com/gag/a9EGbGo)
+ - 🚖 [Mango chocolate mousse cake](http://9gag.com/gag/ayMK7bY)
  - 🚯 [Sneakers are temporary; your daughter&#039;s happy, funny memories last her a lifetime.](http://9gag.com/gag/aLpERgM)
- - 🚯 [Horze help me. Was dis horze?!](http://9gag.com/gag/aGpQKLz)<!-- MEMES:END -->
+ - 🚯 [But 4 is bigger!](http://9gag.com/gag/a1r6vWG)<!-- MEMES:END -->
 
 --- 
 
