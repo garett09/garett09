@@ -194,9 +194,9 @@ Linux                    11 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I&#039;ve been waiting my whole life for this](http://9gag.com/gag/aXoOb0v)
- - 🚯 [Putting pants on while in space is a breeze](http://9gag.com/gag/aWjXZgK)
- - 🚯 [Drunk, you are more honest](http://9gag.com/gag/ad8z6Y9)<!-- MEMES:END -->
+ - 🚖 [Hope he has found solace](http://9gag.com/gag/arMLp55)
+ - 🚯 [I seriously thought this only happens in cartoon!](http://9gag.com/gag/a4E09n6)
+ - 🚯 [Youth is where ferocity lies](http://9gag.com/gag/aNpbeBK)<!-- MEMES:END -->
 
 --- 
 
