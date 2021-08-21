@@ -187,9 +187,9 @@ Linux                    11 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sketchy leak purportedly shows 'iPhone 13 Pro' rear case in new rose gold color](https://appleinsider.com/articles/21/08/21/sketchy-leak-purportedly-shows-iphone-13-pro-in-new-rose-gold-color?utm_medium=rss)
  - [Profile of Cerebras, which made the world's largest chip by using a "wafer-scale" approach that offers one possibility for AI chips to keep up with Moore's law (Matthew Hutson/New Yorker)](http://www.techmeme.com/210821/p3#a210821p3)
- - [OnePlus wallpapers: Get all your favorites here](https://www.androidauthority.com/oneplus-wallpapers-download-2737316/)
- - [Chainalysis: global cryptocurrency adoption grew 881% YoY, led by Vietnam, India, and Pakistan, according to metrics such as P2P exchange trading volume (MacKenzie Sigalos/CNBC)](http://www.techmeme.com/210821/p2#a210821p2)<!-- TECH:END -->
+ - [OnePlus wallpapers: Get all your favorites here](https://www.androidauthority.com/oneplus-wallpapers-download-2737316/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
