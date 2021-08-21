@@ -194,9 +194,9 @@ Linux                    11 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Weird Fish In Deep Void](http://9gag.com/gag/aGpQRr0)
- - 🚯 [How to taste-block yourself 101](http://9gag.com/gag/aqjE2GM)
- - 🚯 [When building the Golden Gate Bridge, a lead structural engineer Joseph insisted on the installation of a safety net even though its $130,000 cost was deemed exorbitant. Over 4 years of its construction, the net saved 19 men.](http://9gag.com/gag/aB2erj2)<!-- MEMES:END -->
+ - 🚖 [Huh huh](http://9gag.com/gag/a7ExbBx)
+ - 🚯 [Driver pays for cutting off truck filled with gravel](http://9gag.com/gag/a073LDz)
+ - 🚯 [How to taste-block yourself 101](http://9gag.com/gag/aqjE2GM)<!-- MEMES:END -->
 
 --- 
 
