@@ -187,9 +187,9 @@ Linux                    11 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple developing new home products as it increases retail hiring](https://appleinsider.com/articles/21/08/21/apple-developing-new-home-products-as-it-increases-retail-hiring?utm_medium=rss)
- - [Profile of Thomas Templeton, an Apple hardware veteran building a bitcoin wallet for Square, and how he photographs retail countertops to inform product design (Benjamin Pimentel/Protocol)](http://www.techmeme.com/210821/p5#a210821p5)
- - [Google Pixel 5a vs Pixel 5: What’s the difference and which should you buy?](https://www.androidauthority.com/google-pixel-5a-vs-pixel-5-2737542/)<!-- TECH:END -->
+ - [The 12 Best Electric Bikes for Every Kind of Ride](https://www.wired.com/gallery/best-electric-bikes)
+ - [Hackers Stole Over $90M From Japan's Liquid Crypto Exchange](https://www.wired.com/story/liquid-crypto-hack-census-breach-apple-leaks-security-news)
+ - [Apple's September event plans, 1Password user revolt, & more on This Week in Apple](https://appleinsider.com/articles/21/08/21/apples-september-event-plans-1password-user-revolt-more-on-this-week-in-apple?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
