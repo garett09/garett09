@@ -194,9 +194,9 @@ Linux                    11 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Good job. You&#039;re an inspiration!](http://9gag.com/gag/anQoKxL)
- - 🚯 [Drunk, you are more honest](http://9gag.com/gag/ad8z6Y9)
- - 🚯 [It do be that in 40 years](http://9gag.com/gag/aV76WeO)<!-- MEMES:END -->
+ - 🚖 [Quack Troopers](http://9gag.com/gag/aO3Wy5E)
+ - 🚯 [Scaling and cleaning a fish in under 30 seconds](http://9gag.com/gag/apNMozB)
+ - 🚯 [Love this show](http://9gag.com/gag/aP3q47G)<!-- MEMES:END -->
 
 --- 
 
