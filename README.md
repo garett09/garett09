@@ -180,9 +180,9 @@ Linux                    11 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Mafia 'Titanic Mod' Released After 15 Years Of Fan Development](https://kotaku.com/mafia-titanic-mod-released-after-15-years-of-fan-develo-1847533575)
- - [Delayed Lego Star Wars: The Skywalker Saga will show up at Gamescom this week](https://www.pcgamer.com/delayed-lego-star-wars-the-skywalker-saga-will-show-up-at-gamescom-this-week)
- - [Gorgeous Black Myth: Wukong trailer highlights swap to Unreal Engine 5](https://www.pcgamer.com/gorgeous-black-myth-wukong-trailer-highlights-swap-to-unreal-engine-5)<!-- GAME:END -->
+ - [Crapshoot: The James Bond game starring 'John Glames'](https://www.pcgamer.com/saturday-crapshoot-james-bond-the-stealth-affair-aka-operation-stealth)
+ - [Indie adventure Fallow channels a mournful, mysterious American gothic](https://www.pcgamer.com/indie-adventure-fallow-channels-a-mournful-mysterious-american-gothic)
+ - [Mafia 'Titanic Mod' Released After 15 Years Of Fan Development](https://kotaku.com/mafia-titanic-mod-released-after-15-years-of-fan-develo-1847533575)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
