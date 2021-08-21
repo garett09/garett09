@@ -187,9 +187,9 @@ Linux                    11 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [CEO of South Korea's online retail giant Coupang is facing renewed criticism about working conditions after a fire damaged one of its main fulfillment centers (Bloomberg)](http://www.techmeme.com/210821/p4#a210821p4)
  - [Honor Earbuds 2 Lite review: An honorable AirPods alternative](https://www.androidauthority.com/honor-earbuds-2-lite-review-2733678/)
- - [Sketchy leak purportedly shows 'iPhone 13 Pro' rear case in new rose gold color](https://appleinsider.com/articles/21/08/21/sketchy-leak-purportedly-shows-iphone-13-pro-in-new-rose-gold-color?utm_medium=rss)
- - [Profile of Cerebras, which made the world's largest chip by using a "wafer-scale" approach that offers one possibility for AI chips to keep up with Moore's law (Matthew Hutson/New Yorker)](http://www.techmeme.com/210821/p3#a210821p3)<!-- TECH:END -->
+ - [Sketchy leak purportedly shows 'iPhone 13 Pro' rear case in new rose gold color](https://appleinsider.com/articles/21/08/21/sketchy-leak-purportedly-shows-iphone-13-pro-in-new-rose-gold-color?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
