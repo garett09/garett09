@@ -194,9 +194,9 @@ Linux                    11 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [But 4 is bigger!](http://9gag.com/gag/a1r6vWG)
- - 🚯 [I asked my client what size she wanter her banner and she sent me this](http://9gag.com/gag/aB25DEA)
- - 🚯 [When you know you know](http://9gag.com/gag/ajm4QdQ)<!-- MEMES:END -->
+ - 🚖 [It&#039;s funny coz they are...](http://9gag.com/gag/a9EGbGo)
+ - 🚯 [Sneakers are temporary; your daughter&#039;s happy, funny memories last her a lifetime.](http://9gag.com/gag/aLpERgM)
+ - 🚯 [Horze help me. Was dis horze?!](http://9gag.com/gag/aGpQKLz)<!-- MEMES:END -->
 
 --- 
 
