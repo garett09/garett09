@@ -194,9 +194,9 @@ Linux                    11 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Just a casual rifle inspection](http://9gag.com/gag/aYo5zK7)
- - 🚯 [Pffff... I&#039;m this old..](http://9gag.com/gag/aV75nrd)
- - 🚯 [I&rsquo;m this old](http://9gag.com/gag/aYo58Kw)<!-- MEMES:END -->
+ - 🚖 [Finally! Functional feline furniture for my friends and familys feasts and festivities. Farewell f**kers!](http://9gag.com/gag/aMKLeVP)
+ - 🚯 [Mommy distraction.](http://9gag.com/gag/aAb5nwZ)
+ - 🚯 [Im scared, are you?](http://9gag.com/gag/aGp5PZw)<!-- MEMES:END -->
 
 --- 
 
