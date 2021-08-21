@@ -188,8 +188,8 @@ Linux                    11 mins             ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [California’s gig worker Prop 22 ruled unconstitutional by superior court](http://feedproxy.google.com/~r/Techcrunch/~3/Z7g4j9WMLPI/)
- - [A California superior court judge rules that Prop 22 is unconstitutional because it infringes on the Legislature's power to set workplace standards (Jeong Park/Sacramento Bee)](http://www.techmeme.com/210820/p20#a210820p20)
- - [Peloton’s app indicates a rowing machine may finally be coming](https://www.theverge.com/2021/8/20/22634770/peloton-rower-rumors-android-app-mazu-app-analysis)<!-- TECH:END -->
+ - [Best wireless earbuds and Bluetooth headphones for making calls     - CNET](https://www.cnet.com/tech/mobile/best-wireless-earbuds-and-bluetooth-headphones-for-making-calls/#ftag=CAD590a51e)
+ - [A California superior court judge rules that Prop 22 is unconstitutional because it infringes on the Legislature's power to set workplace standards (Jeong Park/Sacramento Bee)](http://www.techmeme.com/210820/p20#a210820p20)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
