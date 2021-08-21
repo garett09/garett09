@@ -194,9 +194,9 @@ Linux                    11 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Putting pants on while in space is a breeze](http://9gag.com/gag/aWjXZgK)
- - 🚯 [Thicc af](http://9gag.com/gag/a8EgLxO)
- - 🚯 [How much do you like coffee?](http://9gag.com/gag/aqjE9g7)<!-- MEMES:END -->
+ - 🚖 [Very trained...](http://9gag.com/gag/apNMqV9)
+ - 🚯 [Mango chocolate mousse cake](http://9gag.com/gag/ayMK7bY)
+ - 🚯 [Putting pants on while in space is a breeze](http://9gag.com/gag/aWjXZgK)<!-- MEMES:END -->
 
 --- 
 
