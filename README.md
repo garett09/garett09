@@ -168,11 +168,11 @@ Linux                    11 mins             ░░░░░░░░░░░�
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/Exynos9810-development/android_device_samsung_universal9810-common/pull/1) in [Exynos9810-development/android_device_samsung_universal9810-common](https://github.com/Exynos9810-development/android_device_samsung_universal9810-common)
-2. 💪 Opened PR [#1](https://github.com/Exynos9810-development/android_device_samsung_universal9810-common/pull/1) in [Exynos9810-development/android_device_samsung_universal9810-common](https://github.com/Exynos9810-development/android_device_samsung_universal9810-common)
-3. ❗️ Closed issue [#4](https://github.com/garett09/garett09/issues/4) in [garett09/garett09](https://github.com/garett09/garett09)
-4. ❗️ Closed issue [#3](https://github.com/garett09/garett09/issues/3) in [garett09/garett09](https://github.com/garett09/garett09)
-5. ❗️ Closed issue [#2](https://github.com/garett09/garett09/issues/2) in [garett09/garett09](https://github.com/garett09/garett09)
+1. ❗️ Opened issue [#1](https://github.com/garett09/ICS2609-sourceCodes/issues/1) in [garett09/ICS2609-sourceCodes](https://github.com/garett09/ICS2609-sourceCodes)
+2. 🎉 Merged PR [#1](https://github.com/garett09/neat-starter/pull/1) in [garett09/neat-starter](https://github.com/garett09/neat-starter)
+3. 💪 Opened PR [#1](https://github.com/garett09/neat-starter/pull/1) in [garett09/neat-starter](https://github.com/garett09/neat-starter)
+4. ❗️ Opened issue [#1](https://github.com/garett09/tapos-na-ba-ang-covid-ph/issues/1) in [garett09/tapos-na-ba-ang-covid-ph](https://github.com/garett09/tapos-na-ba-ang-covid-ph)
+5. 🎉 Merged PR [#7](https://github.com/garett09/garett09/pull/7) in [garett09/garett09](https://github.com/garett09/garett09)
 <!--END_SECTION:activity-->
 
 ---
