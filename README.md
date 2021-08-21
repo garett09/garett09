@@ -187,9 +187,9 @@ Linux                    11 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Take note: Samsung is betting the farm on mainstream foldables, will it pay off?](https://www.androidauthority.com/samsung-galaxy-note-vs-fold-2735191/)
- - [Judge rules California Prop 22 gig workers law is unconstitutional](https://www.theverge.com/2021/8/21/22635286/judge-rules-california-prop-22-gig-workers-law-unconstitutional)
- - [The Apple Watch Series 6 is $75 off at Amazon and Walmart today](https://www.theverge.com/good-deals/2021/8/21/22633948/apple-watch-series-6-tp-link-smart-plug-playstation-plus-airpods-pro-quakecon-deal-sale)<!-- TECH:END -->
+ - [Q&A with Nick Shenkin, an SF-based FBI special agent, on warning big tech companies about economic espionage and IP theft by Russian and Chinese spies and more (Biz Carson/Protocol)](http://www.techmeme.com/210821/p6#a210821p6)
+ - [Best Deals August 21 - $100 off Radeon RX 6900 XT, $630 UltraWide Monitor](https://appleinsider.com/articles/21/08/21/best-deals-august-21---100-off-radeon-rx-6900-xt-630-ultrawide-monitor?utm_medium=rss)
+ - [Think you’re a top-level gamer? Alienware wants you to prove it](https://www.androidauthority.com/alienware-games-2021-2737581/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
