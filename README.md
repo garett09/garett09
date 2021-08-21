@@ -194,9 +194,9 @@ Linux                    11 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hope he has found solace](http://9gag.com/gag/arMLp55)
- - 🚯 [Armed dude quiclky reacts to robbery. This one sparks joy](http://9gag.com/gag/av5jp2d)
- - 🚯 [Mango chocolate mousse cake](http://9gag.com/gag/ayMK7bY)<!-- MEMES:END -->
+ - 🚖 [Thicc af](http://9gag.com/gag/a8EgLxO)
+ - 🚯 [My son was born today. 1 month early and thats where i first met him. (to scary to share the pics of himself with the tubes and stuff) Im really pushed up and also scared as fuc*. The mom is doing good.](http://9gag.com/gag/anQoed0)
+ - 🚯 [How much do you like coffee?](http://9gag.com/gag/aqjE9g7)<!-- MEMES:END -->
 
 --- 
 
