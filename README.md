@@ -180,9 +180,9 @@ Linux                    11 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Tyrunt Is A Spoiled Brat That Loves To Be Pampered](https://kotaku.com/tyrunt-is-a-spoiled-brat-that-loves-to-be-pampered-1847532501)
- - [The end of the Evangelion experiment](https://www.polygon.com/22633960/rebuild-evangelion-movies-ending)
- - [Reminiscence lays out a terrible future by staring back at the past](https://www.polygon.com/reviews/22634846/reminiscence-review-lisa-joy)<!-- GAME:END -->
+ - [Is Destiny a PvE or PvP game? Bungie can’t decide](https://www.polygon.com/22632590/destiny-2-pvp-pve-crucible-raid-debate-seperate-balance)
+ - [13 great comedies you’ll find on streaming right now](https://www.polygon.com/22632484/best-comedy-movies-netflix-amazon-prime-hulu-hbo-max)
+ - [Tyrunt Is A Spoiled Brat That Loves To Be Pampered](https://kotaku.com/tyrunt-is-a-spoiled-brat-that-loves-to-be-pampered-1847532501)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
