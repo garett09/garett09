@@ -194,8 +194,8 @@ Linux                    11 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [From my collection](http://9gag.com/gag/a1r6Zn8)
- - 🚯 [I knew it!](http://9gag.com/gag/anQoYoL)
+ - 🚖 [Quack Troopers](http://9gag.com/gag/aO3Wy5E)
+ - 🚯 [Scaling and cleaning a fish in under 30 seconds](http://9gag.com/gag/apNMozB)
  - 🚯 [I seriously thought this only happens in cartoon!](http://9gag.com/gag/a4E09n6)<!-- MEMES:END -->
 
 --- 
