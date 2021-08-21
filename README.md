@@ -187,9 +187,9 @@ Linux                    11 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple developing new home products as it increases retail hiring](https://appleinsider.com/articles/21/08/21/apple-developing-new-home-products-as-it-increases-retail-hiring?utm_medium=rss)
- - [Elon Musk unveils Tesla Bot, a humanoid robot that uses vehicle AI     - CNET](https://www.cnet.com/news/elon-musk-unveils-tesla-bot-a-humanoid-robot-utilizing-vehicle-ai/#ftag=CAD590a51e)
- - [No one knows when Tesla Bot will arrive. Here are robots you can experience now     - CNET](https://www.cnet.com/home/smart-home/no-one-knows-when-tesla-bot-will-arrive-here-are-robots-you-can-experience-now/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [California’s gig worker Prop 22 ruled unconstitutional by superior court](http://feedproxy.google.com/~r/Techcrunch/~3/Z7g4j9WMLPI/)
+ - [A California superior court judge rules that Prop 22 is unconstitutional because it infringes on the Legislature's power to set workplace standards (Jeong Park/Sacramento Bee)](http://www.techmeme.com/210820/p20#a210820p20)
+ - [Peloton’s app indicates a rowing machine may finally be coming](https://www.theverge.com/2021/8/20/22634770/peloton-rower-rumors-android-app-mazu-app-analysis)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
