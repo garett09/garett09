@@ -180,9 +180,9 @@ Linux                    11 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Gorgeous Black Myth: Wukong trailer highlights swap to Unreal Engine 5](https://www.pcgamer.com/gorgeous-black-myth-wukong-trailer-highlights-swap-to-unreal-engine-5)
  - [5 often overlooked videogame accessibility features](https://www.pcgamer.com/5-often-overlooked-videogame-accessibility-features)
- - [Impressive Simpsons: Hit & Run Remake Was Made By One Fan In A Week Using Unreal Engine](https://kotaku.com/impressive-simpsons-hit-run-remake-was-made-by-one-f-1847530115)
- - [Dash Shaw’s Cryptozoo redefines what adult animation looks like](https://www.polygon.com/animation-cartoons/2021/1/31/22259195/cryptozoo-review)<!-- GAME:END -->
+ - [Impressive Simpsons: Hit & Run Remake Was Made By One Fan In A Week Using Unreal Engine](https://kotaku.com/impressive-simpsons-hit-run-remake-was-made-by-one-f-1847530115)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
