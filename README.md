@@ -187,9 +187,9 @@ Linux                    11 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Would you pay a subscription for ad-free Android and long-term updates?](https://www.androidauthority.com/android-software-subscription-2727836/)
- - [CEO of South Korea's online retail giant Coupang is facing renewed criticism about working conditions after a fire damaged one of its main fulfillment centers (Bloomberg)](http://www.techmeme.com/210821/p4#a210821p4)
- - [Honor Earbuds 2 Lite review: An honorable AirPods alternative](https://www.androidauthority.com/honor-earbuds-2-lite-review-2733678/)<!-- TECH:END -->
+ - [Tech industry needs to rebuild user trust after privacy losses, says Tim Cook](https://appleinsider.com/articles/21/08/20/tech-industry-needs-to-rebuild-user-trust-after-privacy-losses-says-tim-cook?utm_medium=rss)
+ - [15 Best Weekend Deals on iPads, Fitness Trackers, and More](https://www.wired.com/story/weekend-deals-august-21-2021)
+ - [Would you pay a subscription for ad-free Android and long-term updates?](https://www.androidauthority.com/android-software-subscription-2727836/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
