@@ -187,9 +187,9 @@ Linux                    11 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [‘How to hire’ is the new ‘how to conserve runway’](http://feedproxy.google.com/~r/Techcrunch/~3/Bxj_j8jiof8/)
  - [Oxygen OS guide: Everything you need to know about OnePlus’ Android skin](https://www.androidauthority.com/oneplus-oxygen-os-2729449/)
- - [Leviton's second-generation Decora Dimmer review: Wi-Fi connected HomeKit switches](https://appleinsider.com/articles/21/08/21/levitons-second-generation-decora-dimmer-review-wi-fi-connected-homekit-switches?utm_medium=rss)
- - [Sources detail how Jack Ma's relationship with China's leadership soured, as he failed to keep up with Beijing's shifting views and tuned out warnings for years (Wall Street Journal)](http://www.techmeme.com/210821/p7#a210821p7)<!-- TECH:END -->
+ - [Leviton's second-generation Decora Dimmer review: Wi-Fi connected HomeKit switches](https://appleinsider.com/articles/21/08/21/levitons-second-generation-decora-dimmer-review-wi-fi-connected-homekit-switches?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
