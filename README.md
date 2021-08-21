@@ -187,9 +187,9 @@ Linux                    11 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Facebook shelved its content transparency report in Q1 fearing public criticism, as the most-viewed link suggested a doctor died due to a COVID-19 vaccine (New York Times)](http://www.techmeme.com/210820/p18#a210820p18)
- - [An NES game donated to Goodwill just sold for $411,278     - CNET](https://www.cnet.com/news/an-nes-game-donated-to-goodwill-just-sold-for-411278/#ftag=CAD590a51e)
- - ['Tetris Beat' for Apple Arcade brings new twist to classic tile-matching gameplay](https://appleinsider.com/articles/21/08/20/tetris-beat-for-apple-arcade-brings-new-twist-to-classic-tile-matching-gameplay?utm_medium=rss)<!-- TECH:END -->
+ - [Apple developing new home products as it increases retail hiring](https://appleinsider.com/articles/21/08/21/apple-developing-new-home-products-as-it-increases-retail-hiring?utm_medium=rss)
+ - [Elon Musk unveils Tesla Bot, a humanoid robot that uses vehicle AI     - CNET](https://www.cnet.com/news/elon-musk-unveils-tesla-bot-a-humanoid-robot-utilizing-vehicle-ai/#ftag=CAD590a51e)
+ - [No one knows when Tesla Bot will arrive. Here are robots you can experience now     - CNET](https://www.cnet.com/home/smart-home/no-one-knows-when-tesla-bot-will-arrive-here-are-robots-you-can-experience-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
