@@ -194,9 +194,9 @@ Linux                    11 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Biggest treadmill ever](http://9gag.com/gag/ayMK04X)
- - 🚯 [Facts](http://9gag.com/gag/aNpbZLA)
- - 🚯 [Don&#039;t let it die.](http://9gag.com/gag/av5jZKd)<!-- MEMES:END -->
+ - 🚖 [Don&#039;t let it die.](http://9gag.com/gag/av5jZKd)
+ - 🚯 [Love this show](http://9gag.com/gag/aP3q47G)
+ - 🚯 [Biggest treadmill ever](http://9gag.com/gag/ayMK04X)<!-- MEMES:END -->
 
 --- 
 
