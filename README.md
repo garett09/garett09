@@ -187,9 +187,9 @@ Linux                    11 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tech industry needs to rebuild user trust after privacy losses, says Tim Cook](https://appleinsider.com/articles/21/08/20/tech-industry-needs-to-rebuild-user-trust-after-privacy-losses-says-tim-cook?utm_medium=rss)
- - [15 Best Weekend Deals on iPads, Fitness Trackers, and More](https://www.wired.com/story/weekend-deals-august-21-2021)
- - [Would you pay a subscription for ad-free Android and long-term updates?](https://www.androidauthority.com/android-software-subscription-2727836/)<!-- TECH:END -->
+ - [Apple developing new home products as it increases retail hiring](https://appleinsider.com/articles/21/08/21/apple-developing-new-home-products-as-it-increases-retail-hiring?utm_medium=rss)
+ - [Profile of Thomas Templeton, an Apple hardware veteran building a bitcoin wallet for Square, and how he photographs retail countertops to inform product design (Benjamin Pimentel/Protocol)](http://www.techmeme.com/210821/p5#a210821p5)
+ - [Google Pixel 5a vs Pixel 5: What’s the difference and which should you buy?](https://www.androidauthority.com/google-pixel-5a-vs-pixel-5-2737542/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
