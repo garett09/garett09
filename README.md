@@ -194,9 +194,9 @@ Linux                    11 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hope he has found solace](http://9gag.com/gag/arMLp55)
- - 🚯 [I seriously thought this only happens in cartoon!](http://9gag.com/gag/a4E09n6)
- - 🚯 [Youth is where ferocity lies](http://9gag.com/gag/aNpbeBK)<!-- MEMES:END -->
+ - 🚖 [From my collection](http://9gag.com/gag/a1r6Zn8)
+ - 🚯 [I knew it!](http://9gag.com/gag/anQoYoL)
+ - 🚯 [I seriously thought this only happens in cartoon!](http://9gag.com/gag/a4E09n6)<!-- MEMES:END -->
 
 --- 
 
