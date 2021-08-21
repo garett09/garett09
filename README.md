@@ -187,9 +187,9 @@ Linux                    11 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Would you pay a subscription for ad-free Android and long-term updates?](https://www.androidauthority.com/android-software-subscription-2727836/)
  - [CEO of South Korea's online retail giant Coupang is facing renewed criticism about working conditions after a fire damaged one of its main fulfillment centers (Bloomberg)](http://www.techmeme.com/210821/p4#a210821p4)
- - [Honor Earbuds 2 Lite review: An honorable AirPods alternative](https://www.androidauthority.com/honor-earbuds-2-lite-review-2733678/)
- - [Sketchy leak purportedly shows 'iPhone 13 Pro' rear case in new rose gold color](https://appleinsider.com/articles/21/08/21/sketchy-leak-purportedly-shows-iphone-13-pro-in-new-rose-gold-color?utm_medium=rss)<!-- TECH:END -->
+ - [Honor Earbuds 2 Lite review: An honorable AirPods alternative](https://www.androidauthority.com/honor-earbuds-2-lite-review-2733678/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
