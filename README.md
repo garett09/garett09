@@ -194,9 +194,9 @@ Linux                    11 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Mango chocolate mousse cake](http://9gag.com/gag/ayMK7bY)
- - 🚯 [Sneakers are temporary; your daughter&#039;s happy, funny memories last her a lifetime.](http://9gag.com/gag/aLpERgM)
- - 🚯 [But 4 is bigger!](http://9gag.com/gag/a1r6vWG)<!-- MEMES:END -->
+ - 🚖 [Hope he has found solace](http://9gag.com/gag/arMLp55)
+ - 🚯 [Armed dude quiclky reacts to robbery. This one sparks joy](http://9gag.com/gag/av5jp2d)
+ - 🚯 [Mango chocolate mousse cake](http://9gag.com/gag/ayMK7bY)<!-- MEMES:END -->
 
 --- 
 
