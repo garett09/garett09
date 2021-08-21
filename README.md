@@ -187,9 +187,9 @@ Linux                    11 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [California’s gig worker Prop 22 ruled unconstitutional by superior court](http://feedproxy.google.com/~r/Techcrunch/~3/Z7g4j9WMLPI/)
- - [Best wireless earbuds and Bluetooth headphones for making calls     - CNET](https://www.cnet.com/tech/mobile/best-wireless-earbuds-and-bluetooth-headphones-for-making-calls/#ftag=CAD590a51e)
- - [A California superior court judge rules that Prop 22 is unconstitutional because it infringes on the Legislature's power to set workplace standards (Jeong Park/Sacramento Bee)](http://www.techmeme.com/210820/p20#a210820p20)<!-- TECH:END -->
+ - [FTC's updated suit against Facebook incorrectly claims that Facebook has driven up ad prices via monopoly control over the personal social networking market (Eric Benjamin Seufert/Mobile Dev Memo)](http://www.techmeme.com/210821/p1#a210821p1)
+ - [A consortium including Nordic Capital and Insight Partners to buy and take private Inovalon, which makes software for analyzing healthcare data, for $6.41B (Mrinalika Roy/Reuters)](http://www.techmeme.com/210820/p21#a210820p21)
+ - [India’s path to SaaS leadership is clear, but challenges remain](http://feedproxy.google.com/~r/Techcrunch/~3/oMniYwiLlcA/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
