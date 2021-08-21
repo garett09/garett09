@@ -187,9 +187,9 @@ Linux                    11 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [China passes new privacy law aimed at protecting users’ personal data](https://www.theverge.com/2021/8/21/22635404/china-privacy-law-protect-users-personal-data)
- - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-394-2737564/)
- - [Best Deals August 21 - $100 off Radeon RX 6900 XT, $630 UltraWide Monitor](https://appleinsider.com/articles/21/08/21/best-deals-august-21---100-off-radeon-rx-6900-xt-630-ultrawide-monitor?utm_medium=rss)<!-- TECH:END -->
+ - [Pixelmator Pro updates engine to improve PhotoShop file support](https://appleinsider.com/articles/21/08/21/pixelmator-pro-updates-engine-to-improve-photoshop-file-support?utm_medium=rss)
+ - [Weekend Apple Watch Series 6 Sale: Save up to $126 instantly](https://appleinsider.com/articles/21/08/21/weekend-apple-watch-series-6-sale-save-up-to-126-instantly?utm_medium=rss)
+ - [China passes new privacy law aimed at protecting users’ personal data](https://www.theverge.com/2021/8/21/22635404/china-privacy-law-protect-users-personal-data)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
