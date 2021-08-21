@@ -195,8 +195,8 @@ Linux                    11 mins             ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 🚖 [Finally! Functional feline furniture for my friends and familys feasts and festivities. Farewell f**kers!](http://9gag.com/gag/aMKLeVP)
- - 🚯 [Mommy distraction.](http://9gag.com/gag/aAb5nwZ)
- - 🚯 [Im scared, are you?](http://9gag.com/gag/aGp5PZw)<!-- MEMES:END -->
+ - 🚯 [Im scared, are you?](http://9gag.com/gag/aGp5PZw)
+ - 🚯 [I just need to get through this week(69)](http://9gag.com/gag/azM374m)<!-- MEMES:END -->
 
 --- 
 
