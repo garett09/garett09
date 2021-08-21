@@ -180,9 +180,9 @@ Linux                    11 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Reminiscence lays out a terrible future by staring back at the past](https://www.polygon.com/reviews/22634846/reminiscence-review-lisa-joy)
  - [Sony continues to walk the line between pissing off PlayStation owners and putting its games on PC](https://www.pcgamer.com/sony-continues-to-walk-the-line-between-pissing-off-playstation-owners-and-putting-its-games-on-pc)
- - [Top Twitch streamer Amouranth says investigators 'strongly suspect' fire at her house was arson](https://www.pcgamer.com/top-twitch-streamer-amouranth-says-investigators-strongly-suspect-fire-at-her-house-was-arson)
- - [Activision Name Conspicuously Absent From Call Of Duty: Vanguard Marketing](https://kotaku.com/activision-name-conspicuously-absent-from-call-of-duty-1847529748)<!-- GAME:END -->
+ - [Top Twitch streamer Amouranth says investigators 'strongly suspect' fire at her house was arson](https://www.pcgamer.com/top-twitch-streamer-amouranth-says-investigators-strongly-suspect-fire-at-her-house-was-arson)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
