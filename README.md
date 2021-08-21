@@ -194,9 +194,9 @@ Linux                    11 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Finally! Functional feline furniture for my friends and familys feasts and festivities. Farewell f**kers!](http://9gag.com/gag/aMKLeVP)
- - 🚯 [Im scared, are you?](http://9gag.com/gag/aGp5PZw)
- - 🚯 [I just need to get through this week(69)](http://9gag.com/gag/azM374m)<!-- MEMES:END -->
+ - 🚖 [When you know you know](http://9gag.com/gag/ajm4QdQ)
+ - 🚯 [He was not the only one who cried&mdash;](http://9gag.com/gag/aAb9Rx9)
+ - 🚯 [You get what you deserve](http://9gag.com/gag/aYo58Bw)<!-- MEMES:END -->
 
 --- 
 
