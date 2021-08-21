@@ -187,9 +187,9 @@ Linux                    11 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [CEO of Saygus smartphone company that never released a phone charged with fraud](https://www.theverge.com/2021/8/21/22635779/ceo-saygus-smartphone-company-fraud)
- - [Mous MagSafe-compatible gear review: A whole ecosystem of magnetic accessories](https://appleinsider.com/articles/21/08/21/mous-magsafe-compatible-gear-review-a-whole-ecosystem-of-magnetic-accessories?utm_medium=rss)
- - [Samsung Pay wallet now lets you store a digital version of a COVID-19 vaccination card](https://www.theverge.com/2021/8/21/22635740/samsung-pay-wallet-digital-covid-vaccination-proof)<!-- TECH:END -->
+ - [Clubhouse hides account bios, images to protect Afghan users](https://appleinsider.com/articles/21/08/21/clubhouse-hides-account-bios-images-to-protect-afghan-users?utm_medium=rss)
+ - [Get your pitch-off on with our Disrupt Startup Alley companies on upcoming episodes of Extra Crunch Live](http://feedproxy.google.com/~r/Techcrunch/~3/JUtkDEu30Gw/)
+ - [Profile of The Solidarity Fund by Coworker, which donated $112,000 to 44 tech workers in $2,500 increments, with the goal of supporting labor organizing efforts (Chase DiFeliciantonio/San Francisco ...)](http://www.techmeme.com/210821/p9#a210821p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
