@@ -194,9 +194,9 @@ Linux                    11 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When you know you know](http://9gag.com/gag/ajm4QdQ)
- - 🚯 [He was not the only one who cried&mdash;](http://9gag.com/gag/aAb9Rx9)
- - 🚯 [You get what you deserve](http://9gag.com/gag/aYo58Bw)<!-- MEMES:END -->
+ - 🚖 [Borrowing a fan&#039;s coat to dry the wet ball](http://9gag.com/gag/aAb9B4L)
+ - 🚯 [When you know you know](http://9gag.com/gag/ajm4QdQ)
+ - 🚯 [Karen tries to claim Tesla as hers!](http://9gag.com/gag/aNp5xXA)<!-- MEMES:END -->
 
 --- 
 
