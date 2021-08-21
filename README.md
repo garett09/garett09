@@ -194,8 +194,8 @@ Linux                    11 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Huh huh](http://9gag.com/gag/a7ExbBx)
- - 🚯 [Driver pays for cutting off truck filled with gravel](http://9gag.com/gag/a073LDz)
+ - 🚖 [Florida of the Left](http://9gag.com/gag/awMpx08)
+ - 🚯 [Why you should never touch a AM radio tower](http://9gag.com/gag/a5EYP9O)
  - 🚯 [How to taste-block yourself 101](http://9gag.com/gag/aqjE2GM)<!-- MEMES:END -->
 
 --- 
