@@ -187,9 +187,9 @@ Linux                    11 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pixelmator Pro updates engine to improve PhotoShop file support](https://appleinsider.com/articles/21/08/21/pixelmator-pro-updates-engine-to-improve-photoshop-file-support?utm_medium=rss)
- - [Weekend Apple Watch Series 6 Sale: Save up to $126 instantly](https://appleinsider.com/articles/21/08/21/weekend-apple-watch-series-6-sale-save-up-to-126-instantly?utm_medium=rss)
- - [China passes new privacy law aimed at protecting users’ personal data](https://www.theverge.com/2021/8/21/22635404/china-privacy-law-protect-users-personal-data)<!-- TECH:END -->
+ - [Oxygen OS guide: Everything you need to know about OnePlus’ Android skin](https://www.androidauthority.com/oneplus-oxygen-os-2729449/)
+ - [Leviton's second-generation Decora Dimmer review: Wi-Fi connected HomeKit switches](https://appleinsider.com/articles/21/08/21/levitons-second-generation-decora-dimmer-review-wi-fi-connected-homekit-switches?utm_medium=rss)
+ - [Sources detail how Jack Ma's relationship with China's leadership soured, as he failed to keep up with Beijing's shifting views and tuned out warnings for years (Wall Street Journal)](http://www.techmeme.com/210821/p7#a210821p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
