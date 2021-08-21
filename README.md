@@ -187,9 +187,9 @@ Linux                    11 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&A with Nick Shenkin, an SF-based FBI special agent, on warning big tech companies about economic espionage and IP theft by Russian and Chinese spies and more (Biz Carson/Protocol)](http://www.techmeme.com/210821/p6#a210821p6)
- - [Best Deals August 21 - $100 off Radeon RX 6900 XT, $630 UltraWide Monitor](https://appleinsider.com/articles/21/08/21/best-deals-august-21---100-off-radeon-rx-6900-xt-630-ultrawide-monitor?utm_medium=rss)
- - [Think you’re a top-level gamer? Alienware wants you to prove it](https://www.androidauthority.com/alienware-games-2021-2737581/)<!-- TECH:END -->
+ - [China passes new privacy law aimed at protecting users’ personal data](https://www.theverge.com/2021/8/21/22635404/china-privacy-law-protect-users-personal-data)
+ - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-394-2737564/)
+ - [Best Deals August 21 - $100 off Radeon RX 6900 XT, $630 UltraWide Monitor](https://appleinsider.com/articles/21/08/21/best-deals-august-21---100-off-radeon-rx-6900-xt-630-ultrawide-monitor?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
