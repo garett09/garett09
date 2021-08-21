@@ -187,9 +187,9 @@ Linux                    11 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Everything we know about the Foundation TV series on Apple TV Plus](https://www.androidauthority.com/foundation-tv-series-apple-tv-plus-2737547/)
- - [[Thread] OnlyFans is banning sexually explicit content because new Mastercard rules, in force from October 1, make hosting such content prohibitively expensive (Post-Culture/@postcultrev)](http://www.techmeme.com/210821/p8#a210821p8)
- - [Go read this story of why Aaliyah’s ‘One in a Million’ album took 20 years to come to streaming](https://www.theverge.com/2021/8/21/22635598/aaliyah-music-20-years-streaming-one-in-a-million)<!-- TECH:END -->
+ - [Samsung Pay wallet now lets you store a digital version of a COVID-19 vaccination card](https://www.theverge.com/2021/8/21/22635740/samsung-pay-wallet-digital-covid-vaccination-proof)
+ - [Bill Maher declares Apple CSAM tools a 'blatant constitutional breach'](https://appleinsider.com/articles/21/08/21/bill-maher-declares-apple-csam-tools-a-blatant-constitutional-breach?utm_medium=rss)
+ - [Elon Musk's Tesla Bot may never arrive. Here are robots you can experience now     - CNET](https://www.cnet.com/home/smart-home/no-one-knows-when-tesla-bot-will-arrive-here-are-robots-you-can-experience-right-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
