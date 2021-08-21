@@ -180,9 +180,9 @@ Linux                    11 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [A Brand New Saints Row Game Is Getting Revealed Next Week](https://kotaku.com/a-brand-new-saints-row-game-is-getting-revealed-next-we-1847532678)
- - [Is Destiny a PvE or PvP game? Bungie can’t decide](https://www.polygon.com/22632590/destiny-2-pvp-pve-crucible-raid-debate-seperate-balance)
- - [13 great comedies you’ll find on streaming right now](https://www.polygon.com/22632484/best-comedy-movies-netflix-amazon-prime-hulu-hbo-max)<!-- GAME:END -->
+ - [Impressive Simpsons: Hit & Run Remake Was Made By One Fan In A Week Using Unreal Engine](https://kotaku.com/impressive-simpsons-hit-run-remake-was-made-by-one-f-1847530115)
+ - [Dash Shaw’s Cryptozoo redefines what adult animation looks like](https://www.polygon.com/animation-cartoons/2021/1/31/22259195/cryptozoo-review)
+ - [A Brand New Saints Row Game Is Getting Revealed Next Week](https://kotaku.com/a-brand-new-saints-row-game-is-getting-revealed-next-we-1847532678)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
