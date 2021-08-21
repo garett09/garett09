@@ -194,8 +194,8 @@ Linux                    11 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Don&#039;t let it die.](http://9gag.com/gag/av5jZKd)
- - 🚯 [Love this show](http://9gag.com/gag/aP3q47G)
+ - 🚖 [How to taste-block yourself 101](http://9gag.com/gag/aqjE2GM)
+ - 🚯 [It&#039;s like wtf!](http://9gag.com/gag/aO3WmY2)
  - 🚯 [Biggest treadmill ever](http://9gag.com/gag/ayMK04X)<!-- MEMES:END -->
 
 --- 
