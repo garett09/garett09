@@ -194,8 +194,8 @@ Linux                    11 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Thicc af](http://9gag.com/gag/a8EgLxO)
- - 🚯 [My son was born today. 1 month early and thats where i first met him. (to scary to share the pics of himself with the tubes and stuff) Im really pushed up and also scared as fuc*. The mom is doing good.](http://9gag.com/gag/anQoed0)
+ - 🚖 [Putting pants on while in space is a breeze](http://9gag.com/gag/aWjXZgK)
+ - 🚯 [Thicc af](http://9gag.com/gag/a8EgLxO)
  - 🚯 [How much do you like coffee?](http://9gag.com/gag/aqjE9g7)<!-- MEMES:END -->
 
 --- 
