@@ -12,7 +12,7 @@
     
 ### Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=garett09&repo=tapos-na-ba-ang-covid-ph&show_owner=true)](https://github.com/garett09/tapos-na-ba-ang-covid-ph)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=garett09&repo=covid-sucks&show_owner=true)](https://github.com/garett09/covid-sucks)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=garett09&repo=project-COVID&show_owner=true)](https://github.com/garett09/project-COVID)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=garett09&repo=afk-hotel&show_owner=true)](https://github.com/garett09/afk-hotel)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=garett09&repo=garett09&show_owner=true)](https://github.com/garett09/garett09)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=garett09&repo=myhub&show_owner=true)](https://github.com/garett09/myhub)
