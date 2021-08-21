@@ -187,9 +187,9 @@ Linux                    11 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 12 Best Electric Bikes for Every Kind of Ride](https://www.wired.com/gallery/best-electric-bikes)
- - [Hackers Stole Over $90M From Japan's Liquid Crypto Exchange](https://www.wired.com/story/liquid-crypto-hack-census-breach-apple-leaks-security-news)
- - [Apple's September event plans, 1Password user revolt, & more on This Week in Apple](https://appleinsider.com/articles/21/08/21/apples-september-event-plans-1password-user-revolt-more-on-this-week-in-apple?utm_medium=rss)<!-- TECH:END -->
+ - [Take note: Samsung is betting the farm on mainstream foldables, will it pay off?](https://www.androidauthority.com/samsung-galaxy-note-vs-fold-2735191/)
+ - [Judge rules California Prop 22 gig workers law is unconstitutional](https://www.theverge.com/2021/8/21/22635286/judge-rules-california-prop-22-gig-workers-law-unconstitutional)
+ - [The Apple Watch Series 6 is $75 off at Amazon and Walmart today](https://www.theverge.com/good-deals/2021/8/21/22633948/apple-watch-series-6-tp-link-smart-plug-playstation-plus-airpods-pro-quakecon-deal-sale)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
