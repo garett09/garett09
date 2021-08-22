@@ -194,9 +194,9 @@ Linux                    12 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Women want a man with the body of a greek god, right?](http://9gag.com/gag/aDdvo5B)
- - 🚯 [Absolute CLASSIC!!](http://9gag.com/gag/aO3WVWM)
- - 🚯 [Weird Fish In Deep Void](http://9gag.com/gag/aGpQRr0)<!-- MEMES:END -->
+ - 🚖 [Weird Fish In Deep Void](http://9gag.com/gag/aGpQRr0)
+ - 🚯 [When building the Golden Gate Bridge, a lead structural engineer Joseph insisted on the installation of a safety net even though its $130,000 cost was deemed exorbitant. Over 4 years of its construction, the net saved 19 men.](http://9gag.com/gag/aB2erj2)
+ - 🚯 [Absolute CLASSIC!!](http://9gag.com/gag/aO3WVWM)<!-- MEMES:END -->
 
 --- 
 
