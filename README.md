@@ -187,9 +187,9 @@ Linux                    12 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Big Data Carried Graph Theory Into New Dimensions](https://www.wired.com/story/how-big-data-carried-graph-theory-into-new-dimensions)
- - [Monoprice's $250 Planar Magnetic Headphones Sound Awesome](https://www.wired.com/review/monoprice-monolith-m570-headphones)
- - [The best phone to buy in 2021     - CNET](https://www.cnet.com/tech/mobile/best-phone-to-buy-2021/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The best Google Pixel 5a alternatives: 5 phones you should consider](https://www.androidauthority.com/google-pixel-5a-alternatives-2735970/)
+ - [20 Amazingly Addictive Couch Co-Op Games](https://www.wired.com/gallery/best-local-couch-co-op-games)
+ - [How the Cuttlefish’s Robust Memory System Defies Old Age](https://www.wired.com/story/how-cuttlefishs-robust-memory-system-defies-old-age)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
