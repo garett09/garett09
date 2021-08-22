@@ -187,9 +187,9 @@ Linux                    12 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [WWE SummerSlam 2021: Results, Becky Lynch return, live updates     - CNET](https://www.cnet.com/news/wwe-summerslam-2021-results-becky-lynch-return-live-updates/#ftag=CAD590a51e)
  - [Facebook releases a previously shelved Q1 content transparency report, acknowledging the widespread reach of content casting doubt on COVID vaccines (Elizabeth Dwoskin/Washington Post)](http://www.techmeme.com/210821/p10#a210821p10)
- - [Facebook reportedly shelved report over fears it could make the company look bad     - CNET](https://www.cnet.com/news/facebook-reportedly-shelved-report-it-feared-could-make-it-look-bad/#ftag=CAD590a51e)
- - [Hulu: 39 best TV shows to watch tonight     - CNET](https://www.cnet.com/news/hulu-39-best-tv-shows-to-watch-tonight/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Facebook reportedly shelved report over fears it could make the company look bad     - CNET](https://www.cnet.com/news/facebook-reportedly-shelved-report-it-feared-could-make-it-look-bad/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
