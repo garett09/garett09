@@ -194,9 +194,9 @@ Linux                    12 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Before I knew this, I had to write about 1/4 of my thesis on my knees &#039;cause my lower back couldn&#039;t handle it anymore. This stretch saves lives lol](http://9gag.com/gag/a27X4W1)
- - 🚯 [Gladiator](http://9gag.com/gag/aXoOx86)
- - 🚯 [I would have just given up](http://9gag.com/gag/a7ExDzb)<!-- MEMES:END -->
+ - 🚖 [I would have just given up](http://9gag.com/gag/a7ExDzb)
+ - 🚯 [Ok...thats fkin impresive](http://9gag.com/gag/aDdv1D7)
+ - 🚯 [Can also bonk horny](http://9gag.com/gag/a8EgoW1)<!-- MEMES:END -->
 
 --- 
 
