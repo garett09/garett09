@@ -180,9 +180,9 @@ Linux                    12 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Skyrim Anniversary Edition comes with everything in the Creation Club](https://www.pcgamer.com/skyrim-anniversary-edition-comes-with-everything-in-the-creation-club)
  - [After months of 'hate raids', streamers plan #ADayOffTwitch](https://www.pcgamer.com/after-months-of-hate-raids-streamers-plan-adayofftwitch)
- - [What 'dead' genre deserves a comeback?](https://www.pcgamer.com/what-dead-genre-deserves-a-comeback)
- - [Watch a Warhammer 40,000 animation from Warhammer+ free for a limited time](https://www.pcgamer.com/watch-a-warhammer-40000-animation-from-warhammer-free-for-a-limited-time)<!-- GAME:END -->
+ - [What 'dead' genre deserves a comeback?](https://www.pcgamer.com/what-dead-genre-deserves-a-comeback)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
