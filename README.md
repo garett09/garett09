@@ -194,8 +194,8 @@ Linux                    12 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Weird Fish In Deep Void](http://9gag.com/gag/aGpQRr0)
- - 🚯 [When building the Golden Gate Bridge, a lead structural engineer Joseph insisted on the installation of a safety net even though its $130,000 cost was deemed exorbitant. Over 4 years of its construction, the net saved 19 men.](http://9gag.com/gag/aB2erj2)
+ - 🚖 [How to fold clothes](http://9gag.com/gag/aP3qWyQ)
+ - 🚯 [It is time to smash](http://9gag.com/gag/aQojxRr)
  - 🚯 [Absolute CLASSIC!!](http://9gag.com/gag/aO3WVWM)<!-- MEMES:END -->
 
 --- 
