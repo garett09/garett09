@@ -180,9 +180,9 @@ Linux                    12 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Here's a PC case that looks like a Warhammer 40k super-heavy tank](https://www.pcgamer.com/heres-a-pc-case-that-looks-like-a-warhammer-40k-super-heavy-tank)
- - [Sonic Amateur Games Expo Features 150+ Free Fan Games](https://kotaku.com/sonic-amateur-games-expo-features-150-free-fan-games-1847535618)
- - [The Call of Duty: Vanguard Alpha hits PlayStation August 27 to 29](http://feedproxy.google.com/~r/PSBlog/~3/rkwWJ9ilIcE/)<!-- GAME:END -->
+ - [The Week In Games: Psychonauts 2 Is (Almost) Here](https://kotaku.com/the-week-in-games-psychonauts-2-is-almost-here-1847535845)
+ - [Solve the puzzle of adorable spaceship engineering in Sunshine Heavy Industries](https://www.pcgamer.com/solve-the-puzzle-of-adorable-spaceship-engineering-in-sunshine-heavy-industries)
+ - [Here's a PC case that looks like a Warhammer 40k super-heavy tank](https://www.pcgamer.com/heres-a-pc-case-that-looks-like-a-warhammer-40k-super-heavy-tank)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
