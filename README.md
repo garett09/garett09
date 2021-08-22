@@ -187,9 +187,9 @@ Linux                    12 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Interview with Matt Mullenweg on Automattic's recent funding news, which had a $288M primary round, buyback rounds, and an internal liquidity market for staff (Biz Carson/Protocol)](http://www.techmeme.com/210822/p1#a210822p1)
- - [WWE SummerSlam 2021: Results, Brock Lesnar returns, full recap     - CNET](https://www.cnet.com/news/wwe-summerslam-2021-results-brock-lesnar-returns-full-recap/#ftag=CAD590a51e)
- - [Facebook releases a previously shelved Q1 content transparency report, acknowledging the widespread reach of content casting doubt on COVID vaccines (Elizabeth Dwoskin/Washington Post)](http://www.techmeme.com/210821/p10#a210821p10)<!-- TECH:END -->
+ - [Elon Musk's "Tesla Bot" is a distraction and an empty promise, considering the progress of Boston Dynamics' Atlas, which has been in development for 10+ years (James Vincent/The Verge)](http://www.techmeme.com/210822/p2#a210822p2)
+ - [Interview with Matt Mullenweg on Automattic's recent funding news, which outlined a $288M primary round, buybacks, and an internal liquidity market for staff (Biz Carson/Protocol)](http://www.techmeme.com/210822/p1#a210822p1)
+ - [WWE SummerSlam 2021: Results, Brock Lesnar returns, full recap     - CNET](https://www.cnet.com/news/wwe-summerslam-2021-results-brock-lesnar-returns-full-recap/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
