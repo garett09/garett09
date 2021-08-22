@@ -187,9 +187,9 @@ Linux                    12 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Google Pixel 5a alternatives: 5 phones you should consider](https://www.androidauthority.com/google-pixel-5a-alternatives-2735970/)
- - [20 Amazingly Addictive Couch Co-Op Games](https://www.wired.com/gallery/best-local-couch-co-op-games)
- - [How the Cuttlefish’s Robust Memory System Defies Old Age](https://www.wired.com/story/how-cuttlefishs-robust-memory-system-defies-old-age)<!-- TECH:END -->
+ - [Mous MagSafe-compatible gear review: A whole ecosystem of magnetic accessories](https://appleinsider.com/articles/21/08/21/mous-magsafe-compatible-gear-review-a-whole-ecosystem-of-magnetic-accessories?utm_medium=rss)
+ - [In-screen Touch ID tested by Apple, but won't make it to 'iPhone 13'](https://appleinsider.com/articles/21/08/22/in-screen-touch-id-tested-by-apple-but-wont-make-it-to-iphone-13?utm_medium=rss)
+ - [Which hardware features do you actually need on a fitness tracker?](https://www.androidauthority.com/fitness-tracker-features-2336258/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
