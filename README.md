@@ -194,9 +194,9 @@ Linux                    12 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hurts so good](http://9gag.com/gag/azM3rMq)
- - 🚯 [Lmao](http://9gag.com/gag/aDdvW2O)
- - 🚯 [Name this band](http://9gag.com/gag/a9EGWDD)<!-- MEMES:END -->
+ - 🚖 [Are you sure? Just self confidence?](http://9gag.com/gag/aB2eWm1)
+ - 🚯 [Nice](http://9gag.com/gag/aXoOqE2)
+ - 🚯 [Easy Pz...](http://9gag.com/gag/aO3Wzq3)<!-- MEMES:END -->
 
 --- 
 
