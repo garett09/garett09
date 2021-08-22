@@ -182,7 +182,7 @@ Linux                    12 mins             ░░░░░░░░░░░�
 <!-- GAME:START -->
  - [The Call of Duty: Vanguard Alpha hits PlayStation August 27 to 29](http://feedproxy.google.com/~r/PSBlog/~3/rkwWJ9ilIcE/)
  - [The Call of Duty: Vanguard Alpha hits PlayStation August 27 to 29](https://blog.playstation.com/2021/08/22/the-call-of-duty-vanguard-alpha-hits-playstation-august-27-to-29/)
- - [American McGee's Alice 3 finally exists, but only as an outline to read](https://www.pcgamer.com/american-mcgees-alice-3-finally-exists-but-only-as-an-outline-to-read)<!-- GAME:END -->
+ - [American McGee's Alice 3 exists, but only as an outline](https://www.pcgamer.com/american-mcgees-alice-3-finally-exists-but-only-as-an-outline-to-read)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
