@@ -194,9 +194,9 @@ Linux                    12 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Thats some skill](http://9gag.com/gag/axMrj0n)
- - 🚯 [Just a little something for nostalgia](http://9gag.com/gag/amPZz54)
- - 🚯 [Men will be men](http://9gag.com/gag/aEp4R7M)<!-- MEMES:END -->
+ - 🚖 [Best day evaa!!](http://9gag.com/gag/aDdvjYG)
+ - 🚯 [Men will be men](http://9gag.com/gag/aEp4R7M)
+ - 🚯 [Meow hurts](http://9gag.com/gag/a7ExdQL)<!-- MEMES:END -->
 
 --- 
 
