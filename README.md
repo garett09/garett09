@@ -180,9 +180,9 @@ Linux                    12 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [This week in PC Gaming: Psychonauts 2, Aliens: Fireteam Elite, and Gamescom 2021](https://www.pcgamer.com/this-week-in-pc-gaming-psychonauts-2-aliens-fireteam-elite-and-gamescom-2021)
  - [James McAvoy Was Playing Too Much Oblivion, So He Destroyed The Disc](https://kotaku.com/james-mcavoy-was-playing-too-much-oblivion-so-he-destr-1847534969)
- - [Sunday Comics: Super Gross](https://kotaku.com/sunday-comics-super-gross-1847534851)
- - [James McAvoy was so hooked on Oblivion he had to burn the disc](https://www.pcgamer.com/james-mcavoy-was-so-hooked-on-oblivion-he-had-to-burn-the-disc)<!-- GAME:END -->
+ - [Sunday Comics: Super Gross](https://kotaku.com/sunday-comics-super-gross-1847534851)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
