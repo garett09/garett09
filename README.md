@@ -187,9 +187,9 @@ Linux                    12 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at Afghanistan's burgeoning crypto scene, which Chainalysis ranked 20th globally in overall crypto adoption in 2021, after ranking among lowest last year (MacKenzie Sigalos/CNBC)](http://www.techmeme.com/210822/p3#a210822p3)
  - [Weekly Authority: Edition #156](https://www.androidauthority.com/newsletters/weekly-authority-edition-156/)
- - [Galaxy Watch 4: My thoughts on Samsung's new smartwatch after 2 days of wear     - CNET](https://www.cnet.com/tech/mobile/galaxy-watch-4-my-thoughts-on-samsungs-new-smartwatch-after-2-days-of-wear/#ftag=CAD590a51e)
- - [Pixel 6 is coming, but maybe you should buy a Google Pixel 3, 4, 5 or 5A now     - CNET](https://www.cnet.com/tech/mobile/pixel-6-is-coming-but-maybe-you-should-buy-a-google-pixel-3-4-5-or-5a-now/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [We think we know the iPhone 13 release date: Here are all the clues     - CNET](https://www.cnet.com/tech/mobile/we-think-we-know-the-iphone-13-release-date-here-are-all-the-clues/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
