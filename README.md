@@ -195,8 +195,8 @@ Linux                    12 mins             ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 🚖 [Florida of the Left](http://9gag.com/gag/awMpx08)
- - 🚯 [Why you should never touch a AM radio tower](http://9gag.com/gag/a5EYP9O)
- - 🚯 [How to taste-block yourself 101](http://9gag.com/gag/aqjE2GM)<!-- MEMES:END -->
+ - 🚯 [Good job. You&#039;re an inspiration!](http://9gag.com/gag/anQoKxL)
+ - 🚯 [It&#039;s like wtf!](http://9gag.com/gag/aO3WmY2)<!-- MEMES:END -->
 
 --- 
 
