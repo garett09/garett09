@@ -187,9 +187,9 @@ Linux                    12 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to manage album collections in Photos for macOS](https://appleinsider.com/articles/21/08/22/how-to-manage-album-collections-in-photos-for-macos?utm_medium=rss)
- - [M1X Mac mini with more ports could launch within months](https://appleinsider.com/articles/21/08/22/m1x-mac-mini-with-more-ports-could-launch-within-months?utm_medium=rss)
- - [Game developers across the industry describe the complexity of making what seem like simple things in games, from doors to object interaction and more (Rebekah Valentine/IGN)](http://www.techmeme.com/210822/p6#a210822p6)<!-- TECH:END -->
+ - [Yeedi Vac Station review: Sweeps, mops, and even empties itself](https://appleinsider.com/articles/21/08/22/yeedi-vac-station-review-sweeps-mops-and-even-empties-itself?utm_medium=rss)
+ - [Gillmor Gang: Cryptonomics](http://feedproxy.google.com/~r/Techcrunch/~3/h6CR_weJMjU/)
+ - [How Facebook has struggled to scale Diem, and Libra before it, due to data privacy issues and regulatory scrutiny, as Diem's Novi wallet readies for market (Daniel Kuhn/CoinDesk)](http://www.techmeme.com/210822/p7#a210822p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
