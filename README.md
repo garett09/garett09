@@ -194,9 +194,9 @@ Linux                    12 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How to fold clothes](http://9gag.com/gag/aP3qWyQ)
- - 🚯 [It is time to smash](http://9gag.com/gag/aQojxRr)
- - 🚯 [Absolute CLASSIC!!](http://9gag.com/gag/aO3WVWM)<!-- MEMES:END -->
+ - 🚖 [It is time to smash](http://9gag.com/gag/aQojxRr)
+ - 🚯 [Just a little something for nostalgia](http://9gag.com/gag/amPZz54)
+ - 🚯 [They demand a ban on eating animal meat](http://9gag.com/gag/aDdvoRO)<!-- MEMES:END -->
 
 --- 
 
