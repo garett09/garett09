@@ -180,9 +180,9 @@ Linux                    12 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Call of Duty: Vanguard Alpha hits PlayStation August 27 to 29](http://feedproxy.google.com/~r/PSBlog/~3/rkwWJ9ilIcE/)
- - [The Call of Duty: Vanguard Alpha hits PlayStation August 27 to 29](https://blog.playstation.com/2021/08/22/the-call-of-duty-vanguard-alpha-hits-playstation-august-27-to-29/)
- - [American McGee's Alice 3 exists, but only as an outline](https://www.pcgamer.com/american-mcgees-alice-3-finally-exists-but-only-as-an-outline-to-read)<!-- GAME:END -->
+ - [Here's a PC case that looks like a Warhammer 40k super-heavy tank](https://www.pcgamer.com/heres-a-pc-case-that-looks-like-a-warhammer-40k-super-heavy-tank)
+ - [Sonic Amateur Games Expo Features 150+ Free Fan Games](https://kotaku.com/sonic-amateur-games-expo-features-150-free-fan-games-1847535618)
+ - [The Call of Duty: Vanguard Alpha hits PlayStation August 27 to 29](http://feedproxy.google.com/~r/PSBlog/~3/rkwWJ9ilIcE/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
