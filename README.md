@@ -194,9 +194,9 @@ Linux                    12 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Absolute CLASSIC!!](http://9gag.com/gag/aO3WVWM)
- - 🚯 [It&#039;s like wtf!](http://9gag.com/gag/aO3WmY2)
- - 🚯 [Good job. You&#039;re an inspiration!](http://9gag.com/gag/anQoKxL)<!-- MEMES:END -->
+ - 🚖 [Women want a man with the body of a greek god, right?](http://9gag.com/gag/aDdvo5B)
+ - 🚯 [Absolute CLASSIC!!](http://9gag.com/gag/aO3WVWM)
+ - 🚯 [Weird Fish In Deep Void](http://9gag.com/gag/aGpQRr0)<!-- MEMES:END -->
 
 --- 
 
