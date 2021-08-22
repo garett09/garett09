@@ -180,9 +180,9 @@ Linux                    12 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The Quake remaster brings back a cut section of E2M6](https://www.pcgamer.com/the-quake-remaster-brings-back-a-cut-section-of-e2m6)
  - [Skyrim Anniversary Edition comes with everything in the Creation Club](https://www.pcgamer.com/skyrim-anniversary-edition-comes-with-everything-in-the-creation-club)
- - [After months of 'hate raids', streamers plan #ADayOffTwitch](https://www.pcgamer.com/after-months-of-hate-raids-streamers-plan-adayofftwitch)
- - [What 'dead' genre deserves a comeback?](https://www.pcgamer.com/what-dead-genre-deserves-a-comeback)<!-- GAME:END -->
+ - [After months of 'hate raids', streamers plan #ADayOffTwitch](https://www.pcgamer.com/after-months-of-hate-raids-streamers-plan-adayofftwitch)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
