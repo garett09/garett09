@@ -187,9 +187,9 @@ Linux                    12 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Clubhouse hides account bios, images to protect Afghan users](https://appleinsider.com/articles/21/08/21/clubhouse-hides-account-bios-images-to-protect-afghan-users?utm_medium=rss)
- - [Get your pitch-off on with our Disrupt Startup Alley companies on upcoming episodes of Extra Crunch Live](http://feedproxy.google.com/~r/Techcrunch/~3/JUtkDEu30Gw/)
- - [Profile of The Solidarity Fund by Coworker, which donated $112,000 to 44 tech workers in $2,500 increments, with the goal of supporting labor organizing efforts (Chase DiFeliciantonio/San Francisco ...)](http://www.techmeme.com/210821/p9#a210821p9)<!-- TECH:END -->
+ - [Facebook releases a previously shelved Q1 content transparency report, acknowledging the widespread reach of content casting doubt on COVID vaccines (Elizabeth Dwoskin/Washington Post)](http://www.techmeme.com/210821/p10#a210821p10)
+ - [Facebook reportedly shelved report over fears it could make the company look bad     - CNET](https://www.cnet.com/news/facebook-reportedly-shelved-report-it-feared-could-make-it-look-bad/#ftag=CAD590a51e)
+ - [Hulu: 39 best TV shows to watch tonight     - CNET](https://www.cnet.com/news/hulu-39-best-tv-shows-to-watch-tonight/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
