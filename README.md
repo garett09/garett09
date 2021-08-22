@@ -180,9 +180,9 @@ Linux                    12 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Crapshoot: The James Bond game starring 'John Glames'](https://www.pcgamer.com/saturday-crapshoot-james-bond-the-stealth-affair-aka-operation-stealth)
- - [Indie adventure Fallow channels a mournful, mysterious American gothic](https://www.pcgamer.com/indie-adventure-fallow-channels-a-mournful-mysterious-american-gothic)
- - [Mafia 'Titanic Mod' Released After 15 Years Of Fan Development](https://kotaku.com/mafia-titanic-mod-released-after-15-years-of-fan-develo-1847533575)<!-- GAME:END -->
+ - [What 'dead' genre deserves a comeback?](https://www.pcgamer.com/what-dead-genre-deserves-a-comeback)
+ - [Watch a Warhammer 40,000 animation from Warhammer+ free for a limited time](https://www.pcgamer.com/watch-a-warhammer-40000-animation-from-warhammer-free-for-a-limited-time)
+ - [Crapshoot: The James Bond game starring 'John Glames'](https://www.pcgamer.com/saturday-crapshoot-james-bond-the-stealth-affair-aka-operation-stealth)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
