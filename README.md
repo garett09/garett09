@@ -194,9 +194,9 @@ Linux                    12 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It be like that sometimes](http://9gag.com/gag/aV76D9w)
- - 🚯 [Best day evaa!!](http://9gag.com/gag/aDdvjYG)
- - 🚯 [And now for something completely different](http://9gag.com/gag/aO3Wv6M)<!-- MEMES:END -->
+ - 🚖 [Well done](http://9gag.com/gag/aYo0Kbx)
+ - 🚯 [Capitalism is evil but big cities are cool](http://9gag.com/gag/axMrVoM)
+ - 🚯 [Enough already](http://9gag.com/gag/aGpQ1zZ)<!-- MEMES:END -->
 
 --- 
 
