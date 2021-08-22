@@ -187,9 +187,9 @@ Linux                    12 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [When is Doom Patrol Season 3 dropping on HBO Max, and what’s it all about?](https://www.androidauthority.com/doom-patrol-season-3-2736494/)
- - [Go read this story about Ehtesab, a crisis alert app giving Afghans on-the-ground news](https://www.theverge.com/2021/8/22/22636642/go-read-this-afghanistan-app-ehtesab-news)
- - [Mark Gurman: high-end M1X Mac mini with an updated design and more ports than the current M1 Mac mini should replace the Intel model in the next several months (Sami Fathi/MacRumors)](http://www.techmeme.com/210822/p5#a210822p5)<!-- TECH:END -->
+ - [Monoprice SB-300 Soundbar review: an ideal apartment soundbar](https://appleinsider.com/articles/21/08/22/monoprice-sb-300-soundbar-review-an-ideal-apartment-soundbar?utm_medium=rss)
+ - [Suing your way to the stars](http://feedproxy.google.com/~r/Techcrunch/~3/kOdh2hCDXIk/)
+ - [When is Doom Patrol Season 3 dropping on HBO Max, and what’s it all about?](https://www.androidauthority.com/doom-patrol-season-3-2736494/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
