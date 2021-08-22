@@ -187,9 +187,9 @@ Linux                    12 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Lord of the Rings series: Everything we know about the Amazon Original](https://www.androidauthority.com/lord-of-the-rings-series-amazon-2735631/)
  - [Elon Musk's "Tesla Bot" is a distraction and an empty promise, considering the progress of Boston Dynamics' Atlas, which has been in development for 10+ years (James Vincent/The Verge)](http://www.techmeme.com/210822/p2#a210822p2)
- - [Interview with Matt Mullenweg on Automattic's recent funding news, which outlined a $288M primary round, buybacks, and an internal liquidity market for staff (Biz Carson/Protocol)](http://www.techmeme.com/210822/p1#a210822p1)
- - [WWE SummerSlam 2021: Results, Brock Lesnar returns, full recap     - CNET](https://www.cnet.com/news/wwe-summerslam-2021-results-brock-lesnar-returns-full-recap/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Interview with Matt Mullenweg on Automattic's recent funding news, which outlined a $288M primary round, buybacks, and an internal liquidity market for staff (Biz Carson/Protocol)](http://www.techmeme.com/210822/p1#a210822p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
