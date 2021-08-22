@@ -194,9 +194,9 @@ Linux                    12 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It is time to smash](http://9gag.com/gag/aQojxRr)
+ - 🚖 [Thats some skill](http://9gag.com/gag/axMrj0n)
  - 🚯 [Just a little something for nostalgia](http://9gag.com/gag/amPZz54)
- - 🚯 [They demand a ban on eating animal meat](http://9gag.com/gag/aDdvoRO)<!-- MEMES:END -->
+ - 🚯 [Men will be men](http://9gag.com/gag/aEp4R7M)<!-- MEMES:END -->
 
 --- 
 
