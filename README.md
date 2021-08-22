@@ -194,9 +194,9 @@ Linux                    12 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Are you sure? Just self confidence?](http://9gag.com/gag/aB2eWm1)
- - 🚯 [Easy Pz...](http://9gag.com/gag/aO3Wzq3)
- - 🚯 [Mykonos, Greece is so beautiful.](http://9gag.com/gag/aqjEbxP)<!-- MEMES:END -->
+ - 🚖 [Essential oils will amplify you positive vibes so the universe can have a better reception](http://9gag.com/gag/a4E0bXA)
+ - 🚯 [Mykonos, Greece is so beautiful.](http://9gag.com/gag/aqjEbxP)
+ - 🚯 [Enough already](http://9gag.com/gag/aGpQ1zZ)<!-- MEMES:END -->
 
 --- 
 
