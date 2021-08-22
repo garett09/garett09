@@ -194,9 +194,9 @@ Linux                    12 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How does this cat even allow this](http://9gag.com/gag/aAb9wr9)
- - 🚯 [Incoming.](http://9gag.com/gag/arMLOVy)
- - 🚯 [Men will be men](http://9gag.com/gag/aEp4R7M)<!-- MEMES:END -->
+ - 🚖 [Greece has erected a 40 km fence and installed a new surveillance system on its border with Turkey in anticipation of a surge in Afghan refugees trying to reach Europe. Police patrol a steel wall at Evros river near the village of Poros at the Greece-Turkey border.](http://9gag.com/gag/aWjX8eA)
+ - 🚯 [True](http://9gag.com/gag/aeABYL5)
+ - 🚯 [Best day evaa!!](http://9gag.com/gag/aDdvjYG)<!-- MEMES:END -->
 
 --- 
 
