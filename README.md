@@ -194,9 +194,9 @@ Linux                    12 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Mykonos, Greece is so beautiful.](http://9gag.com/gag/aqjEbxP)
- - 🚯 [I would have just given up](http://9gag.com/gag/a7ExDzb)
- - 🚯 [Capitalism is evil but big cities are cool](http://9gag.com/gag/axMrVoM)<!-- MEMES:END -->
+ - 🚖 [Safety is not first protocol in Egypt wtf !!!!](http://9gag.com/gag/agBeLBv)
+ - 🚯 [Goddamn right](http://9gag.com/gag/anQob8n)
+ - 🚯 [Insufficient storage error](http://9gag.com/gag/aeABebp)<!-- MEMES:END -->
 
 --- 
 
