@@ -187,9 +187,9 @@ Linux                    12 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [5 things we’d want to see in an Xbox portable console](https://www.androidauthority.com/xbox-portable-console-2735785/)
- - [You Should Be Using TweetDeck](https://www.wired.com/story/you-should-be-using-tweetdeck)
- - [Samsung Galaxy S22 rumors: Release date, price, camera specs and more     - CNET](https://www.cnet.com/tech/mobile/samsung-galaxy-s22-rumors-release-date-price-camera-specs-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How Big Data Carried Graph Theory Into New Dimensions](https://www.wired.com/story/how-big-data-carried-graph-theory-into-new-dimensions)
+ - [Monoprice's $250 Planar Magnetic Headphones Sound Awesome](https://www.wired.com/review/monoprice-monolith-m570-headphones)
+ - [The best phone to buy in 2021     - CNET](https://www.cnet.com/tech/mobile/best-phone-to-buy-2021/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
