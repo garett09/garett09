@@ -187,9 +187,9 @@ Linux                    12 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mark Gurman: high-end M1X Mac mini with an updated design and more ports than the current M1 Mac mini should replace the Intel model in the next several months (Sami Fathi/MacRumors)](http://www.techmeme.com/210822/p5#a210822p5)
- - [Apple has been testing in-screen Touch ID, but it won't be in 'iPhone 13'](https://appleinsider.com/articles/21/08/22/in-screen-touch-id-tested-by-apple-but-wont-make-it-to-iphone-13?utm_medium=rss)
- - [US orders six commercial airlines to provide planes to transport Afghans and Americans in Middle East](https://www.theverge.com/2021/8/22/22636608/us-orders-six-commercial-airlines-planes-help-evacuate-afghanistan-kabul)<!-- TECH:END -->
+ - [When is Doom Patrol Season 3 dropping on HBO Max, and what’s it all about?](https://www.androidauthority.com/doom-patrol-season-3-2736494/)
+ - [Go read this story about Ehtesab, a crisis alert app giving Afghans on-the-ground news](https://www.theverge.com/2021/8/22/22636642/go-read-this-afghanistan-app-ehtesab-news)
+ - [Mark Gurman: high-end M1X Mac mini with an updated design and more ports than the current M1 Mac mini should replace the Intel model in the next several months (Sami Fathi/MacRumors)](http://www.techmeme.com/210822/p5#a210822p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
