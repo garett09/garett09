@@ -194,9 +194,9 @@ Linux                    12 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Well done](http://9gag.com/gag/aYo0Kbx)
- - 🚯 [Capitalism is evil but big cities are cool](http://9gag.com/gag/axMrVoM)
- - 🚯 [Enough already](http://9gag.com/gag/aGpQ1zZ)<!-- MEMES:END -->
+ - 🚖 [Hurts so good](http://9gag.com/gag/azM3rMq)
+ - 🚯 [Lmao](http://9gag.com/gag/aDdvW2O)
+ - 🚯 [Name this band](http://9gag.com/gag/a9EGWDD)<!-- MEMES:END -->
 
 --- 
 
