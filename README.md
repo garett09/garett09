@@ -194,9 +194,9 @@ Linux                    12 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Best day evaa!!](http://9gag.com/gag/aDdvjYG)
- - 🚯 [Men will be men](http://9gag.com/gag/aEp4R7M)
- - 🚯 [Meow hurts](http://9gag.com/gag/a7ExdQL)<!-- MEMES:END -->
+ - 🚖 [How does this cat even allow this](http://9gag.com/gag/aAb9wr9)
+ - 🚯 [Incoming.](http://9gag.com/gag/arMLOVy)
+ - 🚯 [Men will be men](http://9gag.com/gag/aEp4R7M)<!-- MEMES:END -->
 
 --- 
 
