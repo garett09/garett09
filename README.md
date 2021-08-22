@@ -187,9 +187,9 @@ Linux                    12 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Yeedi Vac Station review: Sweeps, mops, and even empties itself](https://appleinsider.com/articles/21/08/22/yeedi-vac-station-review-sweeps-mops-and-even-empties-itself?utm_medium=rss)
- - [Gillmor Gang: Cryptonomics](http://feedproxy.google.com/~r/Techcrunch/~3/h6CR_weJMjU/)
- - [How Facebook has struggled to scale Diem, and Libra before it, due to data privacy issues and regulatory scrutiny, as Diem's Novi wallet readies for market (Daniel Kuhn/CoinDesk)](http://www.techmeme.com/210822/p7#a210822p7)<!-- TECH:END -->
+ - [Apple environment VP Twitter profile hints at September event preparation](https://appleinsider.com/articles/21/08/22/apple-environment-vp-twitter-profile-hints-at-september-event-preparation?utm_medium=rss)
+ - [Grimes, Bon Iver and more musicians turn up the volume on climate crisis     - CNET](https://www.cnet.com/news/grimes-bon-iver-and-more-musicians-turn-up-the-volume-on-climate-crisis/#ftag=CAD590a51e)
+ - [Yeedi Vac Station review: Sweeps, mops, and even empties itself](https://appleinsider.com/articles/21/08/22/yeedi-vac-station-review-sweeps-mops-and-even-empties-itself?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
