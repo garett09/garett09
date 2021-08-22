@@ -187,9 +187,9 @@ Linux                    12 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Deals August 22 - $50 Razer Hammerhead, $100 off Netgear gaming router](https://appleinsider.com/articles/21/08/22/best-deals-august-22---50-razer-hammerhead-100-off-netgear-gaming-router?utm_medium=rss)
- - [Baseus Quick Charge 5 Charger: One-stop plug for your phone, laptop, and more](https://www.androidauthority.com/baseus-100w-quick-charge-5-charger-2735376/)
- - [The tough calculus of emissions and the future of EVs](http://feedproxy.google.com/~r/Techcrunch/~3/_9dKjx_PHUk/)<!-- TECH:END -->
+ - [Mark Gurman: high-end M1X Mac mini with an updated design and more ports than the current M1 Mac mini should replace the Intel model in the next several months (Sami Fathi/MacRumors)](http://www.techmeme.com/210822/p5#a210822p5)
+ - [Apple has been testing in-screen Touch ID, but it won't be in 'iPhone 13'](https://appleinsider.com/articles/21/08/22/in-screen-touch-id-tested-by-apple-but-wont-make-it-to-iphone-13?utm_medium=rss)
+ - [US orders six commercial airlines to provide planes to transport Afghans and Americans in Middle East](https://www.theverge.com/2021/8/22/22636608/us-orders-six-commercial-airlines-planes-help-evacuate-afghanistan-kabul)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
