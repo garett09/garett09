@@ -187,9 +187,9 @@ Linux                    12 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mous MagSafe-compatible gear review: A whole ecosystem of magnetic accessories](https://appleinsider.com/articles/21/08/21/mous-magsafe-compatible-gear-review-a-whole-ecosystem-of-magnetic-accessories?utm_medium=rss)
- - [In-screen Touch ID tested by Apple, but won't make it to 'iPhone 13'](https://appleinsider.com/articles/21/08/22/in-screen-touch-id-tested-by-apple-but-wont-make-it-to-iphone-13?utm_medium=rss)
- - [Which hardware features do you actually need on a fitness tracker?](https://www.androidauthority.com/fitness-tracker-features-2336258/)<!-- TECH:END -->
+ - [Best Deals August 22 - $50 Razer Hammerhead, $100 off Netgear gaming router](https://appleinsider.com/articles/21/08/22/best-deals-august-22---50-razer-hammerhead-100-off-netgear-gaming-router?utm_medium=rss)
+ - [Baseus Quick Charge 5 Charger: One-stop plug for your phone, laptop, and more](https://www.androidauthority.com/baseus-100w-quick-charge-5-charger-2735376/)
+ - [The tough calculus of emissions and the future of EVs](http://feedproxy.google.com/~r/Techcrunch/~3/_9dKjx_PHUk/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
