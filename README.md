@@ -194,8 +194,8 @@ Linux                    12 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Enough already](http://9gag.com/gag/aGpQ1zZ)
- - 🚯 [Mykonos, Greece is so beautiful.](http://9gag.com/gag/aqjEbxP)
+ - 🚖 [Mykonos, Greece is so beautiful.](http://9gag.com/gag/aqjEbxP)
+ - 🚯 [I would have just given up](http://9gag.com/gag/a7ExDzb)
  - 🚯 [Capitalism is evil but big cities are cool](http://9gag.com/gag/axMrVoM)<!-- MEMES:END -->
 
 --- 
