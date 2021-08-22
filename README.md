@@ -188,7 +188,7 @@ Linux                    12 mins             ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Interview with Matt Mullenweg on Automattic's recent funding news, which had a $288M primary round, buyback rounds, and an internal liquidity market for staff (Biz Carson/Protocol)](http://www.techmeme.com/210822/p1#a210822p1)
- - [WWE SummerSlam 2021: Results, Becky Lynch return, live updates     - CNET](https://www.cnet.com/news/wwe-summerslam-2021-results-becky-lynch-return-live-updates/#ftag=CAD590a51e)
+ - [WWE SummerSlam 2021: Results, Brock Lesnar returns, full recap     - CNET](https://www.cnet.com/news/wwe-summerslam-2021-results-brock-lesnar-returns-full-recap/#ftag=CAD590a51e)
  - [Facebook releases a previously shelved Q1 content transparency report, acknowledging the widespread reach of content casting doubt on COVID vaccines (Elizabeth Dwoskin/Washington Post)](http://www.techmeme.com/210821/p10#a210821p10)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
