@@ -180,9 +180,9 @@ Linux                    12 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [James McAvoy Was Playing Too Much Oblivion, So He Destroyed The Disc](https://kotaku.com/james-mcavoy-was-playing-too-much-oblivion-so-he-destr-1847534969)
  - [Sunday Comics: Super Gross](https://kotaku.com/sunday-comics-super-gross-1847534851)
- - [James McAvoy was so hooked on Oblivion he had to burn the disc](https://www.pcgamer.com/james-mcavoy-was-so-hooked-on-oblivion-he-had-to-burn-the-disc)
- - [The Quake remaster brings back a cut section of E2M6](https://www.pcgamer.com/the-quake-remaster-brings-back-a-cut-section-of-e2m6)<!-- GAME:END -->
+ - [James McAvoy was so hooked on Oblivion he had to burn the disc](https://www.pcgamer.com/james-mcavoy-was-so-hooked-on-oblivion-he-had-to-burn-the-disc)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
