@@ -187,9 +187,9 @@ Linux                    12 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Monoprice SB-300 Soundbar review: an ideal apartment soundbar](https://appleinsider.com/articles/21/08/22/monoprice-sb-300-soundbar-review-an-ideal-apartment-soundbar?utm_medium=rss)
- - [Suing your way to the stars](http://feedproxy.google.com/~r/Techcrunch/~3/kOdh2hCDXIk/)
- - [When is Doom Patrol Season 3 dropping on HBO Max, and what’s it all about?](https://www.androidauthority.com/doom-patrol-season-3-2736494/)<!-- TECH:END -->
+ - [Should you wait for the Pixel 6? The Pixel 3, 4, 5 or 5A could be a better choice     - CNET](https://www.cnet.com/tech/mobile/should-you-wait-for-the-pixel-6-the-pixel-3-4-5-or-5a-could-be-a-better-choice/#ftag=CAD590a51e)
+ - [David Makes Man's Kwame Patterson loves that fans still call him Monk     - CNET](https://www.cnet.com/news/david-makes-mans-kwame-patterson-loves-that-fans-still-call-him-monk/#ftag=CAD590a51e)
+ - [Monoprice SB-300 Soundbar review: an ideal apartment soundbar](https://appleinsider.com/articles/21/08/22/monoprice-sb-300-soundbar-review-an-ideal-apartment-soundbar?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
