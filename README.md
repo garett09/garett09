@@ -180,9 +180,9 @@ Linux                    12 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [New PS5 Models Replace Annoying Screw Used To Attach Stand](https://kotaku.com/new-ps5-models-replace-annoying-screw-used-to-attach-st-1847535227)
  - [This week in PC Gaming: Psychonauts 2, Aliens: Fireteam Elite, and Gamescom 2021](https://www.pcgamer.com/this-week-in-pc-gaming-psychonauts-2-aliens-fireteam-elite-and-gamescom-2021)
- - [James McAvoy Was Playing Too Much Oblivion, So He Destroyed The Disc](https://kotaku.com/james-mcavoy-was-playing-too-much-oblivion-so-he-destr-1847534969)
- - [Sunday Comics: Super Gross](https://kotaku.com/sunday-comics-super-gross-1847534851)<!-- GAME:END -->
+ - [James McAvoy Was Playing Too Much Oblivion, So He Destroyed The Disc](https://kotaku.com/james-mcavoy-was-playing-too-much-oblivion-so-he-destr-1847534969)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
