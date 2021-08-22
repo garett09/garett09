@@ -195,8 +195,8 @@ Linux                    12 mins             ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 🚖 [Are you sure? Just self confidence?](http://9gag.com/gag/aB2eWm1)
- - 🚯 [Nice](http://9gag.com/gag/aXoOqE2)
- - 🚯 [Easy Pz...](http://9gag.com/gag/aO3Wzq3)<!-- MEMES:END -->
+ - 🚯 [Easy Pz...](http://9gag.com/gag/aO3Wzq3)
+ - 🚯 [Mykonos, Greece is so beautiful.](http://9gag.com/gag/aqjEbxP)<!-- MEMES:END -->
 
 --- 
 
