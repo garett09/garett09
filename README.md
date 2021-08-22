@@ -194,9 +194,9 @@ Linux                    12 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Essential oils will amplify you positive vibes so the universe can have a better reception](http://9gag.com/gag/a4E0bXA)
+ - 🚖 [Enough already](http://9gag.com/gag/aGpQ1zZ)
  - 🚯 [Mykonos, Greece is so beautiful.](http://9gag.com/gag/aqjEbxP)
- - 🚯 [Enough already](http://9gag.com/gag/aGpQ1zZ)<!-- MEMES:END -->
+ - 🚯 [Capitalism is evil but big cities are cool](http://9gag.com/gag/axMrVoM)<!-- MEMES:END -->
 
 --- 
 
