@@ -194,9 +194,9 @@ Linux                    12 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Safety is not first protocol in Egypt wtf !!!!](http://9gag.com/gag/agBeLBv)
- - 🚯 [Goddamn right](http://9gag.com/gag/anQob8n)
- - 🚯 [Insufficient storage error](http://9gag.com/gag/aeABebp)<!-- MEMES:END -->
+ - 🚖 [Wind is not that great](http://9gag.com/gag/ayMKXGW)
+ - 🚯 [Insufficient storage error](http://9gag.com/gag/aeABebp)
+ - 🚯 [Is it me](http://9gag.com/gag/aO3Wz52)<!-- MEMES:END -->
 
 --- 
 
