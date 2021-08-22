@@ -187,9 +187,9 @@ Linux                    12 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Afghanistan's burgeoning crypto scene, which Chainalysis ranked 20th globally in overall crypto adoption in 2021, after ranking among lowest last year (MacKenzie Sigalos/CNBC)](http://www.techmeme.com/210822/p3#a210822p3)
- - [Weekly Authority: Edition #156](https://www.androidauthority.com/newsletters/weekly-authority-edition-156/)
- - [We think we know the iPhone 13 release date: Here are all the clues     - CNET](https://www.cnet.com/tech/mobile/we-think-we-know-the-iphone-13-release-date-here-are-all-the-clues/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [5 things we’d want to see in an Xbox portable console](https://www.androidauthority.com/xbox-portable-console-2735785/)
+ - [You Should Be Using TweetDeck](https://www.wired.com/story/you-should-be-using-tweetdeck)
+ - [Samsung Galaxy S22 rumors: Release date, price, camera specs and more     - CNET](https://www.cnet.com/tech/mobile/samsung-galaxy-s22-rumors-release-date-price-camera-specs-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
