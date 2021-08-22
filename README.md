@@ -194,9 +194,9 @@ Linux                    12 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Florida of the Left](http://9gag.com/gag/awMpx08)
- - 🚯 [Good job. You&#039;re an inspiration!](http://9gag.com/gag/anQoKxL)
- - 🚯 [It&#039;s like wtf!](http://9gag.com/gag/aO3WmY2)<!-- MEMES:END -->
+ - 🚖 [Chilly](http://9gag.com/gag/aYo0eKV)
+ - 🚯 [It&#039;s like wtf!](http://9gag.com/gag/aO3WmY2)
+ - 🚯 [Good job. You&#039;re an inspiration!](http://9gag.com/gag/anQoKxL)<!-- MEMES:END -->
 
 --- 
 
