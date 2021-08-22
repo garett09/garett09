@@ -194,9 +194,9 @@ Linux                    12 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Wind is not that great](http://9gag.com/gag/ayMKXGW)
- - 🚯 [Insufficient storage error](http://9gag.com/gag/aeABebp)
- - 🚯 [Is it me](http://9gag.com/gag/aO3Wz52)<!-- MEMES:END -->
+ - 🚖 [After, so long](http://9gag.com/gag/aDdvxDB)
+ - 🚯 [The Neymar Mouse](http://9gag.com/gag/av5jOeb)
+ - 🚯 [Before I knew this, I had to write about 1/4 of my thesis on my knees &#039;cause my lower back couldn&#039;t handle it anymore. This stretch saves lives lol](http://9gag.com/gag/a27X4W1)<!-- MEMES:END -->
 
 --- 
 
