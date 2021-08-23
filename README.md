@@ -180,9 +180,9 @@ Linux                    1 min               ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Twelve Minutes Might Have The Worst Video Game Ending Of The Year](https://kotaku.com/twelve-minutes-might-have-the-worst-video-game-ending-o-1847540262)
- - [Fortnite finally adds Morty to its Rick and Morty crossover](https://www.pcgamer.com/fortnite-finally-adds-morty-to-its-rick-and-morty-crossover)
- - [A Twitch streamer let people control his life like The Sims, including when he peed](https://www.polygon.com/22634146/twitch-jerma-sims-dollhouse-stream-livestreaming)<!-- GAME:END -->
+ - [American Horror Story keeps getting sexier](https://www.polygon.com/22637915/american-horror-story-monsters-characters-ranked)
+ - [Report: Unity Employees Not Thrilled Their Work Is Supporting The Military](https://kotaku.com/report-unity-employees-not-thrilled-their-work-is-supp-1847541134)
+ - [Minecraft Dungeons comes swinging to Steam in September](https://www.polygon.com/22638329/minecraft-dungeons-pc-steam-release-date-mojang-xbox-game-studios)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
