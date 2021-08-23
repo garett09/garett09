@@ -187,9 +187,9 @@ Linux                    1 min               ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [PayPal will launch its cryptocurrency service in the UK this week, the product's first international expansion since it debuted in the US in 2020 (Ryan Browne/CNBC)](http://www.techmeme.com/210822/p8#a210822p8)
  - [Apple environment VP Twitter profile hints at September event preparation](https://appleinsider.com/articles/21/08/22/apple-environment-vp-twitter-profile-hints-at-september-event-preparation?utm_medium=rss)
- - [Grimes, Bon Iver and more musicians turn up the volume on climate crisis     - CNET](https://www.cnet.com/news/grimes-bon-iver-and-more-musicians-turn-up-the-volume-on-climate-crisis/#ftag=CAD590a51e)
- - [Yeedi Vac Station review: Sweeps, mops, and even empties itself](https://appleinsider.com/articles/21/08/22/yeedi-vac-station-review-sweeps-mops-and-even-empties-itself?utm_medium=rss)<!-- TECH:END -->
+ - [WWE SummerSlam 2021: Results, Brock Lesnar and Becky Lynch return, full recap     - CNET](https://www.cnet.com/news/wwe-summerslam-2021-results-brock-lesnar-and-becky-lynch-return-full-recap/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
