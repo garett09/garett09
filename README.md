@@ -187,9 +187,9 @@ Linux                    1 min               ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Higher-end Mac Mini reportedly landing ‘in the next several months’](https://www.theverge.com/2021/8/23/22637477/new-mac-mini-design-ports-m1x-release-date-gurman)
  - [You told us: Most of you think the Google Pixel 5a is hot](https://www.androidauthority.com/google-pixel-5a-hot-or-not-poll-results-2738718/)
- - [Tencent in talks to lead funding in India’s Pocket FM](http://feedproxy.google.com/~r/Techcrunch/~3/7rs2IrNWtvs/)
- - [Mobility startup Plentywaka picks up $1.2M seed, acquires Ghana’s Stabus](http://feedproxy.google.com/~r/Techcrunch/~3/76PfutaxR2Y/)<!-- TECH:END -->
+ - [Tencent in talks to lead funding in India’s Pocket FM](http://feedproxy.google.com/~r/Techcrunch/~3/7rs2IrNWtvs/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
