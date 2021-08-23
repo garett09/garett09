@@ -180,9 +180,9 @@ Linux                    1 min               ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Modders finally bring Titanfall wallrunning to Apex Legends](https://www.pcgamer.com/modders-finally-bring-titanfall-wallrunning-to-apex-legends)
- - [Aliens: Fireteam Elite review](https://www.pcgamer.com/aliens-fireteam-elite-review)
- - [Aliens: Fireteam Elite is safe to the point of being forgettable](https://www.polygon.com/reviews/22637583/aliens-fireteam-elite-review-forgettable-left-4-dead-inspired-shooter)<!-- GAME:END -->
+ - [WWE 2K22 launch delayed until March](https://www.polygon.com/22637994/wwe-2k22-release-date-delayed-2022-summerslam-trailer)
+ - [Aliens: Fireteam Elite Isn’t A Great Aliens Game](https://kotaku.com/aliens-fireteam-elite-isn-t-a-great-aliens-game-1847538608)
+ - [Deus Ex: Human Revolution is still a great immersive sim](https://www.pcgamer.com/seven-years-on-deus-ex-human-revolution-is-still-a-great-immersive-sim)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
