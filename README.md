@@ -180,9 +180,9 @@ Linux                    1 min               ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [American Horror Story keeps getting sexier](https://www.polygon.com/22637915/american-horror-story-monsters-characters-ranked)
- - [Report: Unity Employees Not Thrilled Their Work Is Supporting The Military](https://kotaku.com/report-unity-employees-not-thrilled-their-work-is-supp-1847541134)
- - [Minecraft Dungeons comes swinging to Steam in September](https://www.polygon.com/22638329/minecraft-dungeons-pc-steam-release-date-mojang-xbox-game-studios)<!-- GAME:END -->
+ - [Trees Have Become The Pokémon Fandom's Ultimate Brain Worms](https://kotaku.com/trees-have-become-the-pokemon-fandoms-ultimate-brain-wo-1847541501)
+ - [Disney teases Splash Mountain overhaul with new art designs](https://www.polygon.com/22638408/splash-mountain-disneyland-world-redesign-princess-and-the-frog)
+ - [Apex Legends’ new patch nerfs Seer, but he still won’t let you heal](https://www.polygon.com/22638438/apex-legends-update-patch-notes-seer-nerf-passive)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
