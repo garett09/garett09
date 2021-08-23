@@ -187,9 +187,9 @@ Linux                    1 min               ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to manage album collections in Photos for macOS](https://appleinsider.com/articles/21/08/22/how-to-manage-album-collections-in-photos-for-macos?utm_medium=rss)
- - [Daily Authority: Subscription updates? 💸](https://www.androidauthority.com/newsletters/da-august-23-2021/)
- - [Ryan Reynolds, Rob McElhenney demand biscuits over 'Ted Lasso' joke](https://appleinsider.com/articles/21/08/23/ryan-reynolds-rob-mcelhenny-demand-biscuits-over-ted-lasso-joke?utm_medium=rss)<!-- TECH:END -->
+ - [These Are the Best Dyson Vacuums You Can Buy](https://www.wired.com/gallery/best-dyson-vacuums)
+ - [The farmers market is moving online](https://www.theverge.com/22618396/farmers-market-online-local-food-distribution-platforms)
+ - [OnePlus Buds Pro review: these earbuds get a lot of things right](https://www.theverge.com/2021/8/23/22637548/oneplus-buds-pro-review-specs-price-features)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
