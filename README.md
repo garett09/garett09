@@ -187,9 +187,9 @@ Linux                    1 min               ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nuclear fusion test re-creates power of the sun in step toward energy revolution     - CNET](https://www.cnet.com/news/nuclear-fusion-test-re-creates-power-of-the-sun-in-step-toward-energy-revolution/#ftag=CAD590a51e)
  - [A bug in Razer's Synapse software, which Windows fetches and installs when a Razer accessory is plugged in, lets anyone with a Razer mouse gain admin privileges (Lawrence Abrams/BleepingComputer)](http://www.techmeme.com/210822/p10#a210822p10)
- - [Kevin Feige says a new Avengers movie probably won't happen anytime soon     - CNET](https://www.cnet.com/news/kevin-feige-says-new-a-avengers-movie-probably-wont-happen-anytime-soon/#ftag=CAD590a51e)
- - [Interview with Unreal Engine's Mark Petit on his view of the Metaverse as an immersive version of the internet, the need to have open standards for it, and more (Edd Gent/IEEE Spectrum)](http://www.techmeme.com/210822/p9#a210822p9)<!-- TECH:END -->
+ - [Kevin Feige says a new Avengers movie probably won't happen anytime soon     - CNET](https://www.cnet.com/news/kevin-feige-says-new-a-avengers-movie-probably-wont-happen-anytime-soon/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
