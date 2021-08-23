@@ -187,9 +187,9 @@ Linux                    1 min               ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Poll: How much RAM is good enough for you in a smartphone?](https://www.androidauthority.com/smartphone-ram-poll-2738764/)
- - [India’s Zetwerk valued at $1.33 billion in new funding](http://feedproxy.google.com/~r/Techcrunch/~3/o5NmdAUbQgE/)
- - [Huawei patent takes curved display design to new extreme](https://www.androidauthority.com/huawei-curved-display-patent-2738752/)<!-- TECH:END -->
+ - [How to manage album collections in Photos for macOS](https://appleinsider.com/articles/21/08/22/how-to-manage-album-collections-in-photos-for-macos?utm_medium=rss)
+ - [Daily Authority: Subscription updates? 💸](https://www.androidauthority.com/newsletters/da-august-23-2021/)
+ - [Ryan Reynolds, Rob McElhenney demand biscuits over 'Ted Lasso' joke](https://appleinsider.com/articles/21/08/23/ryan-reynolds-rob-mcelhenny-demand-biscuits-over-ted-lasso-joke?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
