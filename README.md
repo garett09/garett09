@@ -180,9 +180,9 @@ Linux                    1 min               ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The best gaming laptops in Australia for 2021](https://www.pcgamer.com/the-best-gaming-laptops-in-australia-for-2021)
  - [RTX 3090 Owner Finds Old Glove Inside $1500 GPU](https://kotaku.com/rtx-3090-owner-finds-old-glove-inside-1500-gpu-1847536432)
- - [Neither Snow Nor Rain Nor Heat Nor Gloom Of Night](https://kotaku.com/neither-snow-nor-rain-nor-heat-nor-gloom-of-night-1847536350)
- - [WWE 2K22 will be out in March, here's a trailer](https://www.pcgamer.com/wwe-2k22-will-be-out-in-march-heres-a-trailer)<!-- GAME:END -->
+ - [Neither Snow Nor Rain Nor Heat Nor Gloom Of Night](https://kotaku.com/neither-snow-nor-rain-nor-heat-nor-gloom-of-night-1847536350)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
