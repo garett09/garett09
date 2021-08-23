@@ -194,9 +194,9 @@ Linux                    1 min               ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Helping a fellow hedgehog](http://9gag.com/gag/arMLMMX)
- - 🚯 [Yes please](http://9gag.com/gag/a5EYEQN)
- - 🚯 [Even animals getting it ..](http://9gag.com/gag/aoM7MPe)<!-- MEMES:END -->
+ - 🚖 [Atheism in a nutshell..](http://9gag.com/gag/aV76w2P)
+ - 🚯 [Even animals getting it ..](http://9gag.com/gag/aoM7MPe)
+ - 🚯 [Who&#039;s got better moves? Lady or Poppy?](http://9gag.com/gag/aqjEj67)<!-- MEMES:END -->
 
 --- 
 
