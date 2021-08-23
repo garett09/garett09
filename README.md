@@ -187,9 +187,9 @@ Linux                    1 min               ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Why have the markets spurned public neoinsurance startups?](http://feedproxy.google.com/~r/Techcrunch/~3/P3e94LBgHdg/)
- - [Equity Monday: Stocks up, cryptos up, regulation up](http://feedproxy.google.com/~r/Techcrunch/~3/gOST94X2rMg/)
- - [Shelf.io closes huge $52.5M Series B after posting 4x ARR growth in the last year](http://feedproxy.google.com/~r/Techcrunch/~3/0qOxFK2BDlw/)<!-- TECH:END -->
+ - [Lumen metabolism analyzer releases Apple Watch companion app](https://appleinsider.com/articles/21/08/23/lumen-metabolism-analyzer-releases-apple-watch-companion-app?utm_medium=rss)
+ - [MSCHF’s next project won’t wait for Mickey Mouse to enter the public domain](https://www.theverge.com/2021/8/23/22637850/mickey-mouse-mschf-copyright-disney-public-domain)
+ - [Best Deals August 23 - $7,150 off GoPro Transmitter Kit, $150 off Apple Magic Keyboard, more!](https://appleinsider.com/articles/21/08/23/best-deals-august-23---7150-off-gopro-transmitter-kit-10-off-a-logitech-mac-keyboard-and-150-off-apple-magic-keyboard?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
