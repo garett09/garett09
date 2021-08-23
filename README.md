@@ -180,9 +180,9 @@ Linux                    1 min               ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [When Your Fallout Mod Is So Good Bethesda Hires You Before It Comes Out](https://kotaku.com/when-your-fallout-mod-is-so-good-bethesda-hires-you-bef-1847540068)
- - [Attack on Titan Final Season Part 2 to premiere in January](https://www.polygon.com/22538965/attack-on-titan-final-season-4-part-2-release-date)
- - [What Steam's most-wishlisted games tell us about the state of PC gaming](https://www.pcgamer.com/steam-wishlisted-games-analysis)<!-- GAME:END -->
+ - [Twelve Minutes Might Have The Worst Video Game Ending Of The Year](https://kotaku.com/twelve-minutes-might-have-the-worst-video-game-ending-o-1847540262)
+ - [Fortnite finally adds Morty to its Rick and Morty crossover](https://www.pcgamer.com/fortnite-finally-adds-morty-to-its-rick-and-morty-crossover)
+ - [A Twitch streamer let people control his life like The Sims, including when he peed](https://www.polygon.com/22634146/twitch-jerma-sims-dollhouse-stream-livestreaming)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
