@@ -180,9 +180,9 @@ Linux                    1 min               ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [WWE 2K22 will be out in March, here's a trailer](https://www.pcgamer.com/wwe-2k22-will-be-out-in-march-heres-a-trailer)
  - [Cyberpunk, The Witcher Look Fantastic Tilt-Shifted](https://kotaku.com/cyberpunk-the-witcher-look-fantastic-tilt-shifted-1847536116)
- - [Five new Steam games you probably missed (August 23, 2021)](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-august-23-2021)
- - [Curt Schilling's Former Employees Are Now Getting 14-20% Of Their Final Paychecks From 2012](https://kotaku.com/curt-schillings-former-employees-are-now-getting-14-20-1847535935)<!-- GAME:END -->
+ - [Five new Steam games you probably missed (August 23, 2021)](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-august-23-2021)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
