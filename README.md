@@ -187,9 +187,9 @@ Linux                    1 min               ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Disney fires back against Scarlett Johansson’s Black Widow lawsuit](https://www.theverge.com/2021/8/23/22638553/disney-black-widow-lawsuit-arbitration-motion-scarlett-johansson)
- - [Instagram says it's retiring the swipe-up link feature, which allows users to visit external links by swiping up, in favor of tappable stickers starting Aug. 30 (Ashley Carman/The Verge)](http://www.techmeme.com/210823/p21#a210823p21)
- - [Apple Maps 'Ratings and Photos' feature debuts in US](https://appleinsider.com/articles/21/08/23/apple-maps-ratings-and-photos-feature-debuts-in-us?utm_medium=rss)<!-- TECH:END -->
+ - [Poly Network says it has now recovered all of $610M in cryptocurrencies it lost to a hacker, and is in the process of returning them to their rightful owners (Igor Bonifacic/Engadget)](http://www.techmeme.com/210823/p23#a210823p23)
+ - [Offline playback on Spotify’s Wear OS app is rolling out now](https://www.theverge.com/2021/8/23/22638628/spotify-offline-playback-wear-os-now-rolling-out)
+ - [Facebook tries adding video and voice calls back into its main app](https://www.theverge.com/2021/8/23/22638530/facebook-messenger-video-voice-calls-back-main-app)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
