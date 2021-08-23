@@ -187,9 +187,9 @@ Linux                    1 min               ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Rocket Lab’s Mars mission gets green light from NASA](http://feedproxy.google.com/~r/Techcrunch/~3/MgIVygZslkg/)
- - [Elastic acquires build.security for security policy definition and enforcement](http://feedproxy.google.com/~r/Techcrunch/~3/HwIT21g1-6w/)
- - [New Oculus Quest feature can automatically sync VR photos and video clips to your phone](https://www.theverge.com/2021/8/23/22638155/oculus-quest-2-vr-headset-v32-update-sync-photos-videos)<!-- TECH:END -->
+ - [Disney fires back against Scarlett Johansson’s Black Widow lawsuit](https://www.theverge.com/2021/8/23/22638553/disney-black-widow-lawsuit-arbitration-motion-scarlett-johansson)
+ - [Instagram says it's retiring the swipe-up link feature, which allows users to visit external links by swiping up, in favor of tappable stickers starting Aug. 30 (Ashley Carman/The Verge)](http://www.techmeme.com/210823/p21#a210823p21)
+ - [Apple Maps 'Ratings and Photos' feature debuts in US](https://appleinsider.com/articles/21/08/23/apple-maps-ratings-and-photos-feature-debuts-in-us?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
