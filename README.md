@@ -187,9 +187,9 @@ Linux                    1 min               ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lumen metabolism analyzer releases Apple Watch companion app](https://appleinsider.com/articles/21/08/23/lumen-metabolism-analyzer-releases-apple-watch-companion-app?utm_medium=rss)
- - [MSCHF’s next project won’t wait for Mickey Mouse to enter the public domain](https://www.theverge.com/2021/8/23/22637850/mickey-mouse-mschf-copyright-disney-public-domain)
- - [Best Deals August 23 - $7,150 off GoPro Transmitter Kit, $150 off Apple Magic Keyboard, more!](https://appleinsider.com/articles/21/08/23/best-deals-august-23---7150-off-gopro-transmitter-kit-10-off-a-logitech-mac-keyboard-and-150-off-apple-magic-keyboard?utm_medium=rss)<!-- TECH:END -->
+ - [Apple not seeing seasonal iPhone sales decline ahead of 'iPhone 13' event](https://appleinsider.com/articles/21/08/23/apple-not-seeing-seasonal-iphone-sales-decline-ahead-of-iphone-13-event?utm_medium=rss)
+ - [Apple Watch Series 6 Sale: Save up to $126 instantly](https://appleinsider.com/articles/21/08/21/weekend-apple-watch-series-6-sale-save-up-to-126-instantly?utm_medium=rss)
+ - [Taiwan Innovative Space will conduct a test launch of its Hapith I rocket in Australia later this year](http://feedproxy.google.com/~r/Techcrunch/~3/wA7DWfhzYgo/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
