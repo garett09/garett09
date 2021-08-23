@@ -187,9 +187,9 @@ Linux                    1 min               ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple not seeing seasonal iPhone sales decline ahead of 'iPhone 13' event](https://appleinsider.com/articles/21/08/23/apple-not-seeing-seasonal-iphone-sales-decline-ahead-of-iphone-13-event?utm_medium=rss)
- - [Apple Watch Series 6 Sale: Save up to $126 instantly](https://appleinsider.com/articles/21/08/21/weekend-apple-watch-series-6-sale-save-up-to-126-instantly?utm_medium=rss)
- - [Taiwan Innovative Space will conduct a test launch of its Hapith I rocket in Australia later this year](http://feedproxy.google.com/~r/Techcrunch/~3/wA7DWfhzYgo/)<!-- TECH:END -->
+ - [The best gaming laptops in 2021: seven laptops to get your game on](https://www.theverge.com/22295181/best-gaming-laptop)
+ - [Pry Financials raises $4.2M to make startup accounting more approachable](http://feedproxy.google.com/~r/Techcrunch/~3/TwlVdTYpueY/)
+ - [38 million records left exposed on public databases thanks to weak Microsoft Power App defaults](https://appleinsider.com/articles/21/08/23/38-million-records-left-exposed-on-public-databases-thanks-to-weak-microsoft-power-app-defaults?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
