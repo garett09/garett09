@@ -194,7 +194,7 @@ Linux                    1 min               ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I do not feel safe in this world](http://9gag.com/gag/ajm49KR)
+ - 🚖 [Helping a fellow hedgehog](http://9gag.com/gag/arMLMMX)
  - 🚯 [Yes please](http://9gag.com/gag/a5EYEQN)
  - 🚯 [Even animals getting it ..](http://9gag.com/gag/aoM7MPe)<!-- MEMES:END -->
 
