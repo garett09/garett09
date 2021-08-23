@@ -194,8 +194,8 @@ Linux                    1 min               ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Rejected](http://9gag.com/gag/amPZo94)
- - 🚯 [Water : Adios](http://9gag.com/gag/a1r61Ew)
+ - 🚖 [Joy to the world.](http://9gag.com/gag/anQo7Pn)
+ - 🚯 [I want such woman](http://9gag.com/gag/a27XvD9)
  - 🚯 [Who&#039;s got better moves? Lady or Poppy?](http://9gag.com/gag/aqjEj67)<!-- MEMES:END -->
 
 --- 
