@@ -187,9 +187,9 @@ Linux                    1 min               ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Latest Fitbit Charge 5 leak teases a solid fitness tracker under $200](https://www.androidauthority.com/fitbit-charge-5-specs-price-2738693/)
  - [Nuclear fusion test re-creates power of the sun in step toward energy revolution     - CNET](https://www.cnet.com/news/nuclear-fusion-test-re-creates-power-of-the-sun-in-step-toward-energy-revolution/#ftag=CAD590a51e)
- - [A bug in Razer's Synapse software, which Windows fetches and installs when a Razer accessory is plugged in, lets anyone with a Razer mouse gain admin privileges (Lawrence Abrams/BleepingComputer)](http://www.techmeme.com/210822/p10#a210822p10)
- - [Kevin Feige says a new Avengers movie probably won't happen anytime soon     - CNET](https://www.cnet.com/news/kevin-feige-says-new-a-avengers-movie-probably-wont-happen-anytime-soon/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A bug in Razer's Synapse software, which Windows fetches and installs when a Razer accessory is plugged in, lets anyone with a Razer mouse gain admin privileges (Lawrence Abrams/BleepingComputer)](http://www.techmeme.com/210822/p10#a210822p10)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
