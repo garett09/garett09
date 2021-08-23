@@ -194,9 +194,9 @@ Linux                    1 min               ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Brilliant innit](http://9gag.com/gag/aWjXxgq)
- - 🚯 [I did my research](http://9gag.com/gag/aMKLKeW)
- - 🚯 [We never gonna let that go, are we?](http://9gag.com/gag/aoM7POx)<!-- MEMES:END -->
+ - 🚖 [We never gonna let that go, are we?](http://9gag.com/gag/aoM7POx)
+ - 🚯 [1958 nuclear test](http://9gag.com/gag/aK6M7VQ)
+ - 🚯 [Getting Hit by a Heat Ray](http://9gag.com/gag/aLpE0Nx)<!-- MEMES:END -->
 
 --- 
 
