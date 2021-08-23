@@ -194,7 +194,7 @@ Linux                    1 min               ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Insane Breathtaking Cliff Hiking in Interlaken, Switzerland. Will you do this? Every step matters!!](http://9gag.com/gag/ad8zgPV)
+ - 🚖 [Here we go again](http://9gag.com/gag/aMKLEpA)
  - 🚯 [Ufff, right in the feels.](http://9gag.com/gag/aV76xLK)
  - 🚯 [Who&#039;s got better moves? Lady or Poppy?](http://9gag.com/gag/aqjEj67)<!-- MEMES:END -->
 
