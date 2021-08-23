@@ -194,7 +194,7 @@ Linux                    1 min               ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I did my research](http://9gag.com/gag/aMKLKeW)
+ - 🚖 [Insane Breathtaking Cliff Hiking in Interlaken, Switzerland. Will you do this? Every step matters!!](http://9gag.com/gag/ad8zgPV)
  - 🚯 [Dogs are superior](http://9gag.com/gag/a9EG1Y6)
  - 🚯 [Who&#039;s got better moves? Lady or Poppy?](http://9gag.com/gag/aqjEj67)<!-- MEMES:END -->
 
