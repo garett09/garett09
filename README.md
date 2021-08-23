@@ -187,9 +187,9 @@ Linux                    1 min               ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy S21 FE: What we know so far (August 23)](https://www.androidauthority.com/samsung-galaxy-s21-fe-1211655/)
- - [Latest Fitbit Charge 5 leak teases a solid fitness tracker under $200](https://www.androidauthority.com/fitbit-charge-5-specs-price-2738693/)
- - [Nuclear fusion test re-creates power of the sun in step toward energy revolution     - CNET](https://www.cnet.com/news/nuclear-fusion-test-re-creates-power-of-the-sun-in-step-toward-energy-revolution/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Tencent in talks to lead funding in India’s Pocket FM](http://feedproxy.google.com/~r/Techcrunch/~3/7rs2IrNWtvs/)
+ - [Mobility startup Plentywaka picks up $1.2M seed, acquires Ghana’s Stabus](http://feedproxy.google.com/~r/Techcrunch/~3/76PfutaxR2Y/)
+ - [Watch: YouTuber goes through ridiculous hoop for Android source code](https://www.androidauthority.com/watch-youtuber-android-source-code-2735089/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
