@@ -180,9 +180,9 @@ Linux                    1 min               ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Trees Have Become The Pokémon Fandom's Ultimate Brain Worms](https://kotaku.com/trees-have-become-the-pokemon-fandoms-ultimate-brain-wo-1847541501)
- - [Disney teases Splash Mountain overhaul with new art designs](https://www.polygon.com/22638408/splash-mountain-disneyland-world-redesign-princess-and-the-frog)
- - [Apex Legends’ new patch nerfs Seer, but he still won’t let you heal](https://www.polygon.com/22638438/apex-legends-update-patch-notes-seer-nerf-passive)<!-- GAME:END -->
+ - [Netflix drops its full fall movie release schedule](https://www.polygon.com/22638245/netflix-fall-movie-schedule-2021)
+ - [The best PC joysticks in 2021](https://www.pcgamer.com/the-best-pc-joysticks)
+ - [Best antivirus for PC gaming 2021](https://www.pcgamer.com/best-anti-virus)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
