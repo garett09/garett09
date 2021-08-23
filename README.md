@@ -194,9 +194,9 @@ Linux                    1 min               ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [European communists...](http://9gag.com/gag/a7Ex3V2)
- - 🚯 [I make a website to demonstrate how bad user experience it is nowadays](http://9gag.com/gag/aNpbzO6)
- - 🚯 [It&#039;s only fair](http://9gag.com/gag/aGpQZ45)<!-- MEMES:END -->
+ - 🚖 [I make a website to demonstrate how bad user experience it is nowadays](http://9gag.com/gag/aNpbzO6)
+ - 🚯 [European communists...](http://9gag.com/gag/a7Ex3V2)
+ - 🚯 [Gladiator](http://9gag.com/gag/aXoOx86)<!-- MEMES:END -->
 
 --- 
 
