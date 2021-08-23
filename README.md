@@ -194,9 +194,9 @@ Linux                    1 min               ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I would have just given up](http://9gag.com/gag/a7ExDzb)
- - 🚯 [Ok...thats fkin impresive](http://9gag.com/gag/aDdv1D7)
- - 🚯 [Can also bonk horny](http://9gag.com/gag/a8EgoW1)<!-- MEMES:END -->
+ - 🚖 [European communists...](http://9gag.com/gag/a7Ex3V2)
+ - 🚯 [So cats /do/ understand mirrors](http://9gag.com/gag/agBenzK)
+ - 🚯 [Guy in the back went full ghost rider.](http://9gag.com/gag/aRXp3QQ)<!-- MEMES:END -->
 
 --- 
 
