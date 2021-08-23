@@ -187,9 +187,9 @@ Linux                    1 min               ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Michigan Republicans run afoul of TikTok’s vaccine misinformation rules](https://www.theverge.com/2021/8/23/22638290/tiktok-michigan-republicans-vaccine-misinformation-soladano-ryan-kelley)
- - [Apple employees are organizing, now under the banner #AppleToo](https://www.theverge.com/2021/8/23/22638150/apple-appletoo-employee-harassment-discord)
- - [OtterBox Folding Stand for MagSafe perfectly angles your iPhone](https://appleinsider.com/articles/21/08/23/otterbox-folding-stand-for-magsafe-perfectly-angles-your-iphone?utm_medium=rss)<!-- TECH:END -->
+ - [New #AppleToo movement drawing attention to racism, sexism, inequality inside Apple](https://appleinsider.com/articles/21/08/23/new-appletoo-movement-drawing-attention-to-racism-sexism-inequality-inside-apple?utm_medium=rss)
+ - [iPad Pro used to create AR effects in music video for Olivia Rodrigo's 'brutal'](https://appleinsider.com/articles/21/08/23/ipad-pro-used-to-create-ar-effects-in-music-video-for-olivia-rodrigos-brutal?utm_medium=rss)
+ - [OnlyFans’ explicit content ban should spark a conversation about a creators’ bill of rights](http://feedproxy.google.com/~r/Techcrunch/~3/qqeaAcYUvvs/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
