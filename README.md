@@ -187,9 +187,9 @@ Linux                    1 min               ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Higher-end Mac Mini reportedly landing ‘in the next several months’](https://www.theverge.com/2021/8/23/22637477/new-mac-mini-design-ports-m1x-release-date-gurman)
- - [You told us: Most of you think the Google Pixel 5a is hot](https://www.androidauthority.com/google-pixel-5a-hot-or-not-poll-results-2738718/)
- - [Tencent in talks to lead funding in India’s Pocket FM](http://feedproxy.google.com/~r/Techcrunch/~3/7rs2IrNWtvs/)<!-- TECH:END -->
+ - [Poll: How much RAM is good enough for you in a smartphone?](https://www.androidauthority.com/smartphone-ram-poll-2738764/)
+ - [India’s Zetwerk valued at $1.33 billion in new funding](http://feedproxy.google.com/~r/Techcrunch/~3/o5NmdAUbQgE/)
+ - [Huawei patent takes curved display design to new extreme](https://www.androidauthority.com/huawei-curved-display-patent-2738752/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
