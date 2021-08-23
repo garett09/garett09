@@ -187,9 +187,9 @@ Linux                    1 min               ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Stadia’s new direct touch controls are (almost) like magic](https://www.androidauthority.com/stadia-direct-touch-2736727/)
- - [Kapacity.io is using AI to drive energy and emissions savings for real estate](http://feedproxy.google.com/~r/Techcrunch/~3/ctQS4w53PMY/)
- - [The Pfizer vaccine will be officially called Comirnaty, for some reason](https://www.theverge.com/tldr/2021/8/23/22637955/spikevax-moderna-comirnaty-pfizer-fda-approval-names)<!-- TECH:END -->
+ - [Michigan Republicans run afoul of TikTok’s vaccine misinformation rules](https://www.theverge.com/2021/8/23/22638290/tiktok-michigan-republicans-vaccine-misinformation-soladano-ryan-kelley)
+ - [Apple employees are organizing, now under the banner #AppleToo](https://www.theverge.com/2021/8/23/22638150/apple-appletoo-employee-harassment-discord)
+ - [OtterBox Folding Stand for MagSafe perfectly angles your iPhone](https://appleinsider.com/articles/21/08/23/otterbox-folding-stand-for-magsafe-perfectly-angles-your-iphone?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
