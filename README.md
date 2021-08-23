@@ -194,9 +194,9 @@ Linux                    1 min               ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Better than Hollywood&#039;s 2020 movies](http://9gag.com/gag/aV760ww)
- - 🚯 [So cats /do/ understand mirrors](http://9gag.com/gag/agBenzK)
- - 🚯 [What languages should be taught in Austria schools -1962](http://9gag.com/gag/aWjXENK)<!-- MEMES:END -->
+ - 🚖 [This bring small joy isn&#039;t it ?](http://9gag.com/gag/a7Exw0m)
+ - 🚯 [How to get people attention 101](http://9gag.com/gag/aNpb0jG)
+ - 🚯 [Running up Crates](http://9gag.com/gag/a6ERKym)<!-- MEMES:END -->
 
 --- 
 
