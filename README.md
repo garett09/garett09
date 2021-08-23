@@ -194,9 +194,9 @@ Linux                    1 min               ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [True](http://9gag.com/gag/aB2exG1)
- - 🚯 [Ok...thats fkin impresive](http://9gag.com/gag/aDdv1D7)
- - 🚯 [It&#039;s been hard, but so worth it.](http://9gag.com/gag/a9EGROL)<!-- MEMES:END -->
+ - 🚖 [Better than Hollywood&#039;s 2020 movies](http://9gag.com/gag/aV760ww)
+ - 🚯 [It&#039;s only fair](http://9gag.com/gag/aGpQZ45)
+ - 🚯 [Quality training with shadow clones](http://9gag.com/gag/aLpEgEg)<!-- MEMES:END -->
 
 --- 
 
