@@ -187,9 +187,9 @@ Linux                    1 min               ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [PayPal will launch its cryptocurrency service in the UK this week, the product's first international expansion since it debuted in the US in 2020 (Ryan Browne/CNBC)](http://www.techmeme.com/210822/p8#a210822p8)
- - [Apple environment VP Twitter profile hints at September event preparation](https://appleinsider.com/articles/21/08/22/apple-environment-vp-twitter-profile-hints-at-september-event-preparation?utm_medium=rss)
- - [WWE SummerSlam 2021: Results, Brock Lesnar and Becky Lynch return, full recap     - CNET](https://www.cnet.com/news/wwe-summerslam-2021-results-brock-lesnar-and-becky-lynch-return-full-recap/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Interview with Unreal Engine's Mark Petit on his view of the Metaverse as an immersive version of the internet, the need to have open standards for it, and more (Edd Gent/IEEE Spectrum)](http://www.techmeme.com/210822/p9#a210822p9)
+ - [The 36 best Netflix documentaries to watch this week     - CNET](https://www.cnet.com/news/the-36-best-netflix-documentaries-to-watch-this-week/#ftag=CAD590a51e)
+ - [Puffy-cheeked prehistoric creature named after The Hobbit character     - CNET](https://www.cnet.com/news/puffy-cheeked-prehistoric-creature-named-after-the-hobbit-character/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
