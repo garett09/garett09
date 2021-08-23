@@ -195,8 +195,8 @@ Linux                    1 min               ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 🚖 [European communists...](http://9gag.com/gag/a7Ex3V2)
- - 🚯 [So cats /do/ understand mirrors](http://9gag.com/gag/agBenzK)
- - 🚯 [Guy in the back went full ghost rider.](http://9gag.com/gag/aRXp3QQ)<!-- MEMES:END -->
+ - 🚯 [I make a website to demonstrate how bad user experience it is nowadays](http://9gag.com/gag/aNpbzO6)
+ - 🚯 [It&#039;s only fair](http://9gag.com/gag/aGpQZ45)<!-- MEMES:END -->
 
 --- 
 
