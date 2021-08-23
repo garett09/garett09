@@ -194,8 +194,8 @@ Linux                    1 min               ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [My disappointment is immesurable...](http://9gag.com/gag/aqjEGOZ)
- - 🚯 [Insane Breathtaking Cliff Hiking in Interlaken, Switzerland. Will you do this? Every step matters!!](http://9gag.com/gag/ad8zgPV)
+ - 🚖 [Insane Breathtaking Cliff Hiking in Interlaken, Switzerland. Will you do this? Every step matters!!](http://9gag.com/gag/ad8zgPV)
+ - 🚯 [Ufff, right in the feels.](http://9gag.com/gag/aV76xLK)
  - 🚯 [Who&#039;s got better moves? Lady or Poppy?](http://9gag.com/gag/aqjEj67)<!-- MEMES:END -->
 
 --- 
