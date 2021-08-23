@@ -180,9 +180,9 @@ Linux                    1 min               ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Week In Games: Psychonauts 2 Is (Almost) Here](https://kotaku.com/the-week-in-games-psychonauts-2-is-almost-here-1847535845)
- - [Solve the puzzle of adorable spaceship engineering in Sunshine Heavy Industries](https://www.pcgamer.com/solve-the-puzzle-of-adorable-spaceship-engineering-in-sunshine-heavy-industries)
- - [Here's a PC case that looks like a Warhammer 40k super-heavy tank](https://www.pcgamer.com/heres-a-pc-case-that-looks-like-a-warhammer-40k-super-heavy-tank)<!-- GAME:END -->
+ - [Cyberpunk, The Witcher Look Fantastic Tilt-Shifted](https://kotaku.com/cyberpunk-the-witcher-look-fantastic-tilt-shifted-1847536116)
+ - [Five new Steam games you probably missed (August 23, 2021)](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-august-23-2021)
+ - [Curt Schilling's Former Employees Are Now Getting 14-20% Of Their Final Paychecks From 2012](https://kotaku.com/curt-schillings-former-employees-are-now-getting-14-20-1847535935)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
