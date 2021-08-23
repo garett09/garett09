@@ -180,9 +180,9 @@ Linux                    1 min               ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [WWE 2K22 launch delayed until March](https://www.polygon.com/22637994/wwe-2k22-release-date-delayed-2022-summerslam-trailer)
- - [Aliens: Fireteam Elite Isn’t A Great Aliens Game](https://kotaku.com/aliens-fireteam-elite-isn-t-a-great-aliens-game-1847538608)
- - [Deus Ex: Human Revolution is still a great immersive sim](https://www.pcgamer.com/seven-years-on-deus-ex-human-revolution-is-still-a-great-immersive-sim)<!-- GAME:END -->
+ - [The Beautiful and Disturbing Chaos Behind Struggling](https://news.xbox.com/en-us/2021/08/23/the-beautiful-and-disturbing-chaos-behind-struggling/)
+ - [Call of Duty: Vanguard multiplayer alpha will include new Champion Hill mode](https://www.polygon.com/call-of-duty/22637745/call-of-duty-vanguard-multiplayer-open-alpha-beta-dates-platforms-champion-hill)
+ - [Battlefield 2042 Cheats Advertised Months Before Release](https://kotaku.com/battlefield-2042-cheats-advertised-months-before-releas-1847538807)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
