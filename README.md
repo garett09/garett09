@@ -180,9 +180,9 @@ Linux                    1 min               ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Neither Snow Nor Rain Nor Heat Nor Gloom Of Night](https://kotaku.com/neither-snow-nor-rain-nor-heat-nor-gloom-of-night-1847536350)
  - [WWE 2K22 will be out in March, here's a trailer](https://www.pcgamer.com/wwe-2k22-will-be-out-in-march-heres-a-trailer)
- - [Cyberpunk, The Witcher Look Fantastic Tilt-Shifted](https://kotaku.com/cyberpunk-the-witcher-look-fantastic-tilt-shifted-1847536116)
- - [Five new Steam games you probably missed (August 23, 2021)](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-august-23-2021)<!-- GAME:END -->
+ - [Cyberpunk, The Witcher Look Fantastic Tilt-Shifted](https://kotaku.com/cyberpunk-the-witcher-look-fantastic-tilt-shifted-1847536116)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
