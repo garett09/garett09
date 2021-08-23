@@ -180,9 +180,9 @@ Linux                    1 min               ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [First look at Netflix’s live-action Cowboy Bebop shows off John Cho’s Spike swagger](https://www.polygon.com/22634241/cowboy-bebop-netflix-release-date-john-cho-cast-photos)
- - [Razer's ultra-compact Huntsman Mini keyboard is on sale for $78](https://www.pcgamer.com/razers-ultra-compact-huntsman-mini-keyboard-is-on-sale-for-dollar78)
- - [How to Watch the gamescom 2021 Xbox Stream](https://news.xbox.com/en-us/2021/08/23/how-to-watch-the-gamescom-2021-xbox-stream/)<!-- GAME:END -->
+ - [Aliens: Fireteam Elite is safe to the point of being forgettable](https://www.polygon.com/reviews/22637583/aliens-fireteam-elite-review-forgettable-left-4-dead-inspired-shooter)
+ - [Boston Dynamics' Atlas robot failing at parkour is strangely humbling](https://www.pcgamer.com/boston-dynamics-robots-doing-parkour)
+ - [The Boyfriend Dungeon backlash was nothing new for queer games](https://www.pcgamer.com/the-boyfriend-dungeon-backlash-was-nothing-new-for-queer-games)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
