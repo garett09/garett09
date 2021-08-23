@@ -180,9 +180,9 @@ Linux                    1 min               ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Aliens: Fireteam Elite is safe to the point of being forgettable](https://www.polygon.com/reviews/22637583/aliens-fireteam-elite-review-forgettable-left-4-dead-inspired-shooter)
- - [Boston Dynamics' Atlas robot failing at parkour is strangely humbling](https://www.pcgamer.com/boston-dynamics-robots-doing-parkour)
- - [The Boyfriend Dungeon backlash was nothing new for queer games](https://www.pcgamer.com/the-boyfriend-dungeon-backlash-was-nothing-new-for-queer-games)<!-- GAME:END -->
+ - [Modders finally bring Titanfall wallrunning to Apex Legends](https://www.pcgamer.com/modders-finally-bring-titanfall-wallrunning-to-apex-legends)
+ - [Aliens: Fireteam Elite review](https://www.pcgamer.com/aliens-fireteam-elite-review)
+ - [Aliens: Fireteam Elite is safe to the point of being forgettable](https://www.polygon.com/reviews/22637583/aliens-fireteam-elite-review-forgettable-left-4-dead-inspired-shooter)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
