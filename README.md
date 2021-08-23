@@ -187,9 +187,9 @@ Linux                    1 min               ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [New #AppleToo movement drawing attention to racism, sexism, inequality inside Apple](https://appleinsider.com/articles/21/08/23/new-appletoo-movement-drawing-attention-to-racism-sexism-inequality-inside-apple?utm_medium=rss)
- - [iPad Pro used to create AR effects in music video for Olivia Rodrigo's 'brutal'](https://appleinsider.com/articles/21/08/23/ipad-pro-used-to-create-ar-effects-in-music-video-for-olivia-rodrigos-brutal?utm_medium=rss)
- - [OnlyFans’ explicit content ban should spark a conversation about a creators’ bill of rights](http://feedproxy.google.com/~r/Techcrunch/~3/qqeaAcYUvvs/)<!-- TECH:END -->
+ - [Rocket Lab’s Mars mission gets green light from NASA](http://feedproxy.google.com/~r/Techcrunch/~3/MgIVygZslkg/)
+ - [Elastic acquires build.security for security policy definition and enforcement](http://feedproxy.google.com/~r/Techcrunch/~3/HwIT21g1-6w/)
+ - [New Oculus Quest feature can automatically sync VR photos and video clips to your phone](https://www.theverge.com/2021/8/23/22638155/oculus-quest-2-vr-headset-v32-update-sync-photos-videos)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
