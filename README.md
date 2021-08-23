@@ -194,9 +194,9 @@ Linux                    1 min               ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [1958 nuclear test](http://9gag.com/gag/aK6M7VQ)
+ - 🚖 [It&#039;s been hard, but so worth it.](http://9gag.com/gag/a9EGROL)
  - 🚯 [Brilliant innit](http://9gag.com/gag/aWjXxgq)
- - 🚯 [Running up Crates](http://9gag.com/gag/a6ERKym)<!-- MEMES:END -->
+ - 🚯 [1958 nuclear test](http://9gag.com/gag/aK6M7VQ)<!-- MEMES:END -->
 
 --- 
 
