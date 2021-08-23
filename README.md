@@ -187,9 +187,9 @@ Linux                    1 min               ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [These Are the Best Dyson Vacuums You Can Buy](https://www.wired.com/gallery/best-dyson-vacuums)
- - [The farmers market is moving online](https://www.theverge.com/22618396/farmers-market-online-local-food-distribution-platforms)
- - [OnePlus Buds Pro review: these earbuds get a lot of things right](https://www.theverge.com/2021/8/23/22637548/oneplus-buds-pro-review-specs-price-features)<!-- TECH:END -->
+ - [Sources: before its acquisition by Facebook, Giphy paid investors a dividend, reducing its value and ensuring antitrust officials did not need to be notified (David McLaughlin/Bloomberg)](http://www.techmeme.com/210823/p8#a210823p8)
+ - [YouTube says its Partner Program has 2M creators and the number of new channels joining the program in 2020 doubled YoY as channels making $100K+ grew 35% YoY (Kim Lyons/The Verge)](http://www.techmeme.com/210823/p7#a210823p7)
+ - [Xiaomi announces September 15 event: Mi 11T series incoming?](https://www.androidauthority.com/xiaomi-september-15-event-2738827/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
