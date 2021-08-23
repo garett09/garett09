@@ -194,9 +194,9 @@ Linux                    1 min               ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [European communists...](http://9gag.com/gag/a7Ex3V2)
- - 🚯 [Quality training with shadow clones](http://9gag.com/gag/aLpEgEg)
- - 🚯 [Gladiator](http://9gag.com/gag/aXoOx86)<!-- MEMES:END -->
+ - 🚖 [True](http://9gag.com/gag/aB2exG1)
+ - 🚯 [Ok...thats fkin impresive](http://9gag.com/gag/aDdv1D7)
+ - 🚯 [It&#039;s been hard, but so worth it.](http://9gag.com/gag/a9EGROL)<!-- MEMES:END -->
 
 --- 
 
