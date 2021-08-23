@@ -187,9 +187,9 @@ Linux                    1 min               ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: before its acquisition by Facebook, Giphy paid investors a dividend, reducing its value and ensuring antitrust officials did not need to be notified (David McLaughlin/Bloomberg)](http://www.techmeme.com/210823/p8#a210823p8)
- - [YouTube says its Partner Program has 2M creators and the number of new channels joining the program in 2020 doubled YoY as channels making $100K+ grew 35% YoY (Kim Lyons/The Verge)](http://www.techmeme.com/210823/p7#a210823p7)
- - [Xiaomi announces September 15 event: Mi 11T series incoming?](https://www.androidauthority.com/xiaomi-september-15-event-2738827/)<!-- TECH:END -->
+ - [Why have the markets spurned public neoinsurance startups?](http://feedproxy.google.com/~r/Techcrunch/~3/P3e94LBgHdg/)
+ - [Equity Monday: Stocks up, cryptos up, regulation up](http://feedproxy.google.com/~r/Techcrunch/~3/gOST94X2rMg/)
+ - [Shelf.io closes huge $52.5M Series B after posting 4x ARR growth in the last year](http://feedproxy.google.com/~r/Techcrunch/~3/0qOxFK2BDlw/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
