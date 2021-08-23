@@ -194,9 +194,9 @@ Linux                    1 min               ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Truest words have never been spoken](http://9gag.com/gag/a8EgGEO)
- - 🚯 [It checks out](http://9gag.com/gag/azM3M7x)
- - 🚯 [When your girl&#039;s gynecologist looks just like the pizza delivery guy and the plumber](http://9gag.com/gag/a073Nrd)<!-- MEMES:END -->
+ - 🚖 [I do not feel safe in this world](http://9gag.com/gag/ajm49KR)
+ - 🚯 [Yes please](http://9gag.com/gag/a5EYEQN)
+ - 🚯 [Even animals getting it ..](http://9gag.com/gag/aoM7MPe)<!-- MEMES:END -->
 
 --- 
 
