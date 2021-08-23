@@ -180,9 +180,9 @@ Linux                    1 min               ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Netflix drops its full fall movie release schedule](https://www.polygon.com/22638245/netflix-fall-movie-schedule-2021)
- - [The best PC joysticks in 2021](https://www.pcgamer.com/the-best-pc-joysticks)
- - [Best antivirus for PC gaming 2021](https://www.pcgamer.com/best-anti-virus)<!-- GAME:END -->
+ - [We're giving away a Black Geyser gaming PC with a pretty sick skull case](https://www.pcgamer.com/were-giving-away-a-black-geyser-gaming-pc-with-a-pretty-sick-skull-case)
+ - [Psychonauts 2 Achievements Revealed](https://news.xbox.com/en-us/2021/08/23/psychonauts-2-achievements-revealed/)
+ - [Fatal Frame: Maiden of Black Water is Guaranteed to Send Shivers Down Your Spine](https://news.xbox.com/en-us/2021/08/23/fatal-frame-maiden-of-black-water-interview/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
