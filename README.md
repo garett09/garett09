@@ -180,9 +180,9 @@ Linux                    1 min               ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [It's looking likely that AMD will introduce onboard graphics with Zen 4 Ryzen CPUs](https://www.pcgamer.com/its-looking-likely-that-amd-will-introduce-onboard-graphics-with-zen-4-ryzen-cpus)
- - [I'm in total disbelief at some of these Stardew Valley fan theories](https://www.pcgamer.com/im-in-total-disbelief-at-some-of-these-stardew-valley-fan-theories)
- - [Stardew Valley to host $40k tournament, is sort of an esport now](https://www.pcgamer.com/stardew-valley-to-host-dollar40k-tournament-is-sort-of-an-esport-now)<!-- GAME:END -->
+ - [First look at Netflix’s live-action Cowboy Bebop shows off John Cho’s Spike swagger](https://www.polygon.com/22634241/cowboy-bebop-netflix-release-date-john-cho-cast-photos)
+ - [Razer's ultra-compact Huntsman Mini keyboard is on sale for $78](https://www.pcgamer.com/razers-ultra-compact-huntsman-mini-keyboard-is-on-sale-for-dollar78)
+ - [How to Watch the gamescom 2021 Xbox Stream](https://news.xbox.com/en-us/2021/08/23/how-to-watch-the-gamescom-2021-xbox-stream/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
