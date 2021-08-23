@@ -194,8 +194,8 @@ Linux                    1 min               ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Here we go again](http://9gag.com/gag/aMKLEpA)
- - 🚯 [Ufff, right in the feels.](http://9gag.com/gag/aV76xLK)
+ - 🚖 [Rejected](http://9gag.com/gag/amPZo94)
+ - 🚯 [Water : Adios](http://9gag.com/gag/a1r61Ew)
  - 🚯 [Who&#039;s got better moves? Lady or Poppy?](http://9gag.com/gag/aqjEj67)<!-- MEMES:END -->
 
 --- 
