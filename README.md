@@ -194,8 +194,8 @@ Linux                    1 min               ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Barefoot Gen 1983 Hiroshima Nuclear Bomb drop and Aftermath](http://9gag.com/gag/aLpEvEg)
- - 🚯 [Aaaaah so carefully, and best friend forever that&#039;s for sure](http://9gag.com/gag/a8EgE6e)
+ - 🚖 [My disappointment is immesurable...](http://9gag.com/gag/aqjEGOZ)
+ - 🚯 [Insane Breathtaking Cliff Hiking in Interlaken, Switzerland. Will you do this? Every step matters!!](http://9gag.com/gag/ad8zgPV)
  - 🚯 [Who&#039;s got better moves? Lady or Poppy?](http://9gag.com/gag/aqjEj67)<!-- MEMES:END -->
 
 --- 
