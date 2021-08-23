@@ -194,9 +194,9 @@ Linux                    1 min               ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It&#039;s been hard, but so worth it.](http://9gag.com/gag/a9EGROL)
- - 🚯 [Brilliant innit](http://9gag.com/gag/aWjXxgq)
- - 🚯 [1958 nuclear test](http://9gag.com/gag/aK6M7VQ)<!-- MEMES:END -->
+ - 🚖 [Brilliant innit](http://9gag.com/gag/aWjXxgq)
+ - 🚯 [I did my research](http://9gag.com/gag/aMKLKeW)
+ - 🚯 [We never gonna let that go, are we?](http://9gag.com/gag/aoM7POx)<!-- MEMES:END -->
 
 --- 
 
