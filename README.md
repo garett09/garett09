@@ -195,8 +195,8 @@ Linux                    1 min               ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 🚖 [Better than Hollywood&#039;s 2020 movies](http://9gag.com/gag/aV760ww)
- - 🚯 [It&#039;s only fair](http://9gag.com/gag/aGpQZ45)
- - 🚯 [Quality training with shadow clones](http://9gag.com/gag/aLpEgEg)<!-- MEMES:END -->
+ - 🚯 [So cats /do/ understand mirrors](http://9gag.com/gag/agBenzK)
+ - 🚯 [What languages should be taught in Austria schools -1962](http://9gag.com/gag/aWjXENK)<!-- MEMES:END -->
 
 --- 
 
