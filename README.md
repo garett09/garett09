@@ -187,9 +187,9 @@ Linux                    1 min               ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best gaming laptops in 2021: seven laptops to get your game on](https://www.theverge.com/22295181/best-gaming-laptop)
- - [Pry Financials raises $4.2M to make startup accounting more approachable](http://feedproxy.google.com/~r/Techcrunch/~3/TwlVdTYpueY/)
- - [38 million records left exposed on public databases thanks to weak Microsoft Power App defaults](https://appleinsider.com/articles/21/08/23/38-million-records-left-exposed-on-public-databases-thanks-to-weak-microsoft-power-app-defaults?utm_medium=rss)<!-- TECH:END -->
+ - [Stadia’s new direct touch controls are (almost) like magic](https://www.androidauthority.com/stadia-direct-touch-2736727/)
+ - [Kapacity.io is using AI to drive energy and emissions savings for real estate](http://feedproxy.google.com/~r/Techcrunch/~3/ctQS4w53PMY/)
+ - [The Pfizer vaccine will be officially called Comirnaty, for some reason](https://www.theverge.com/tldr/2021/8/23/22637955/spikevax-moderna-comirnaty-pfizer-fda-approval-names)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
