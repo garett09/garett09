@@ -193,9 +193,9 @@ Linux                    21 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Just some artists problem](http://9gag.com/gag/aWjXnB2)
- - 🚯 [What are your thoughts on this?](http://9gag.com/gag/agBe79r)
- - 🚯 [A true veteran](http://9gag.com/gag/a8Eg071)<!-- MEMES:END -->
+ - 🚖 [Earth was Round before it was cool....](http://9gag.com/gag/aV76mev)
+ - 🚯 [A true veteran](http://9gag.com/gag/a8Eg071)
+ - 🚯 [Apocalypse](http://9gag.com/gag/ad8zOEQ)<!-- MEMES:END -->
 
 --- 
 
