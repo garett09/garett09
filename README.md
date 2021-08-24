@@ -193,7 +193,7 @@ Linux                    21 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Earth was Round before it was cool....](http://9gag.com/gag/aV76mev)
+ - 🚖 [Asteriod close to South Africa&hellip;.](http://9gag.com/gag/ad8zxNZ)
  - 🚯 [Quite right !](http://9gag.com/gag/azM3K3p)
  - 🚯 [What are your thoughts on this?](http://9gag.com/gag/agBe79r)<!-- MEMES:END -->
 
