@@ -179,9 +179,9 @@ Linux                    21 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [AMD's 6-core, 12-thread Ryzen 5 5600X is down to $273 right now](https://www.pcgamer.com/amds-6-core-12-thread-ryzen-5-5600x-is-down-to-dollar273-right-now)
- - [How to watch the Gamescom 2021 Xbox stream](https://www.pcgamer.com/how-to-watch-the-gamescom-2021-xbox-stream)
- - [Watch the new Destiny Showcase livestream](https://www.polygon.com/22637843/destiny-2-bungie-witch-queen-season-lost-expansion-reveal-lightfall-darkness)<!-- GAME:END -->
+ - [Aliens: Fireteam Elite Available Now for Xbox One and Xbox Series X|S](https://news.xbox.com/en-us/2021/08/24/aliens-fireteam-elite-available-now/)
+ - [The best VR headset in 2021](https://www.pcgamer.com/best-vr-headset)
+ - [Battlefield 2042 cheats are already being sold two months before launch](https://www.pcgamer.com/battlefield-2042-cheats-are-already-being-sold-two-months-before-launch)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
