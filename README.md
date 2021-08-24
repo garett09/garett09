@@ -179,9 +179,9 @@ Linux                    21 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Has science gone too far? Crusader Kings 3 is being ported to consoles](https://www.pcgamer.com/crusader-kings-3-console-port-xbox-playstation)
- - [Destiny 2: Season of the Lost guide: Tracing the Stars quest](https://www.polygon.com/destiny-2-guide-walkthrough/22640042/destiny-2-season-lost-quest-stasis-weapons-agers-scepter-trace-rifle-exotic-atlas-skews)
- - [Oh No, Jeopardy!’s Other New Host Is Pretty Bad Too](https://kotaku.com/oh-no-jeopardy-s-other-new-host-is-pretty-bad-too-1847549769)<!-- GAME:END -->
+ - [California Accuses Activision Blizzard Of Shredding Abuse Evidence](https://kotaku.com/california-accuses-activision-blizzard-of-shredding-abu-1847550659)
+ - [Spider-Man: No Way Home lifts from a key Marvel comic about the devil](https://www.polygon.com/2021/8/24/22640170/spider-man-no-way-home-doctor-strange-mephisto-comics-explained)
+ - [Fire Emblem's Gatekeeper Is Playable Now, And He's Powerful](https://kotaku.com/fire-emblems-gatekeeper-is-playable-now-and-hes-powerf-1847550510)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
