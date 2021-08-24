@@ -193,8 +193,8 @@ Linux                    21 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Bam!](http://9gag.com/gag/apNMDED)
- - 🚯 [Let&#039;s see what the experts think](http://9gag.com/gag/aoM7WXx)
+ - 🚖 [I don&#039;t remember his name but I guess it is the last one.](http://9gag.com/gag/abV8Oy9)
+ - 🚯 [I&rsquo;d rather be dumb in private.](http://9gag.com/gag/awMpmxB)
  - 🚯 [Who&#039;s got better moves? Lady or Poppy?](http://9gag.com/gag/aqjEj67)<!-- MEMES:END -->
 
 --- 
