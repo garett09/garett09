@@ -179,9 +179,9 @@ Linux                    21 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Microsoft Flight Simulator Celebrates gamescom with Major Updates](https://news.xbox.com/en-us/2021/08/24/microsoft-flight-simulator-celebrates-gamescom-with-major-updates/)
- - [Microsoft Flight Simulator gets a new racing mode with WWII-era planes](https://www.polygon.com/22637999/microsoft-flight-simulator-stihl-national-championship-air-races-p-51-sea-fury)
- - [Microsoft Flight Simulator’s futuristic new helicopter is very Westworld](https://www.polygon.com/22638473/microsoft-flight-simulator-helicopters-volocopter-volocity-release-date-price)<!-- GAME:END -->
+ - [gamescom 2021: The Gunk Re-Emerges in the Lead-Up to Launch this December](https://news.xbox.com/en-us/2021/08/24/gamescom-2021-the-gunk-launching-this-december/)
+ - [gamescom 2021: Crusader Kings III Coming Soon to Xbox Series X|S](https://news.xbox.com/en-us/2021/08/24/gamescom-2021-crusader-kings-3-coming-soon-xbox-series-xs/)
+ - [Crusader Kings 3 is coming to PS5 and Xbox Series X](https://www.polygon.com/22638378/crusader-kings-3-ps5-xbox-console-royal-court-release-date-dlc)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
