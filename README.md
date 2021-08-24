@@ -186,9 +186,9 @@ Linux                    21 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tim Cook visiting White House on Wednesday to discuss cyber attacks](https://appleinsider.com/articles/21/08/23/apples-tim-cook-to-visit-white-house-amid-rise-in-cyber-attacks?utm_medium=rss)
- - [Daily Authority: “Everybody but Apple” 📉](https://www.androidauthority.com/newsletters/da-august-24-2021/)
- - [How Hub Worlds Shape Video Game Design](https://www.wired.com/story/how-hub-worlds-shape-video-game-design)<!-- TECH:END -->
+ - [Ramp, which provides corporate cards and spend management software, raises $300M Series C at a $3.9B valuation, up from $1.6B after raising $115M in April (Mary Ann Azevedo/TechCrunch)](http://www.techmeme.com/210824/p15#a210824p15)
+ - [Samsung Galaxy Z Fold3 review: water resistant with an improved screen feel and multitasking, but terrible under-screen camera, expensive, and heavy (Dieter Bohn/The Verge)](http://www.techmeme.com/210824/p14#a210824p14)
+ - [Unlocking the Galaxy Z Fold 3’s bootloader kills all 5 cameras](https://www.androidauthority.com/samsung-galaxy-z-fold-3-bootloader-unlock-cameras-2739283/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
