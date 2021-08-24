@@ -186,9 +186,9 @@ Linux                    21 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hulu is adding HDR for some of its original shows and movies](https://www.theverge.com/2021/8/24/22639273/hulu-hdr-original-shows-movies-4k-picture-quality)
- - [Walmart announces GoLocal, a logistics service for third-party US merchants with a variety of delivery types, including same-day (Sarah Perez/TechCrunch)](http://www.techmeme.com/210824/p26#a210824p26)
- - [You can buy the Oculus Quest 2 again following a pause in sales](https://www.theverge.com/2021/8/24/22639523/oculus-quest-2-pause-sale-recall-base-model-storage)<!-- TECH:END -->
+ - [Profile of Cathie Wood, the CEO of Ark Invest, which manages $85B, whose aggressive bets on Tesla and others have earned her admiration from Reddit traders (Matt Phillips/New York Times)](http://www.techmeme.com/210824/p27#a210824p27)
+ - [US Apple Maps users are getting the ability to rate places and add their own photos](https://www.theverge.com/2021/8/24/22638723/apple-maps-ratings-photos-us-rollout-ios-yelp)
+ - [The best gaming laptops in 2021: seven laptops to get your game on](https://www.theverge.com/22295181/best-gaming-laptop)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
