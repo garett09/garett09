@@ -186,9 +186,9 @@ Linux                    21 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Profile of Cathie Wood, the CEO of Ark Invest, which manages $85B, whose aggressive bets on Tesla and others have earned her admiration from Reddit traders (Matt Phillips/New York Times)](http://www.techmeme.com/210824/p27#a210824p27)
- - [US Apple Maps users are getting the ability to rate places and add their own photos](https://www.theverge.com/2021/8/24/22638723/apple-maps-ratings-photos-us-rollout-ios-yelp)
- - [The best gaming laptops in 2021: seven laptops to get your game on](https://www.theverge.com/22295181/best-gaming-laptop)<!-- TECH:END -->
+ - [Microsoft says that Xbox Cloud Gaming will expand beyond PC and mobile to its Xbox Series X, Xbox Series S, and older Xbox One consoles this holiday (Ryan Browne/CNBC)](http://www.techmeme.com/210824/p29#a210824p29)
+ - [Boston’s startup market is more than setting records in scorching start to year](http://feedproxy.google.com/~r/Techcrunch/~3/fGRl9aDYim0/)
+ - [Ispace unveils bigger moon lander capable of surviving lunar nights](http://feedproxy.google.com/~r/Techcrunch/~3/LACl9xZBC_c/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
