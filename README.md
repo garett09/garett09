@@ -193,9 +193,9 @@ Linux                    21 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Good crept up](http://9gag.com/gag/a9EGvO1)
- - 🚯 [This is just right](http://9gag.com/gag/a6ER922)
- - 🚯 [This man is a treasure.](http://9gag.com/gag/axMrvDb)<!-- MEMES:END -->
+ - 🚖 [Quite right !](http://9gag.com/gag/azM3K3p)
+ - 🚯 [COULD YOU NOT?!](http://9gag.com/gag/aDdvnMx)
+ - 🚯 [Some stone age dude really saw this and thought; Yeah I think I can ride that.](http://9gag.com/gag/aYo0Op2)<!-- MEMES:END -->
 
 --- 
 
