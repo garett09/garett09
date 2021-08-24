@@ -179,9 +179,9 @@ Linux                    21 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This iPhone game looks 3D even without glasses](https://www.polygon.com/22634598/3d-game-on-phone-indie-dev-unity-cyberpunk-platformer-crt-tv-itchio)
- - [The Best Gamescom Surprise So Far Is This Spell-Casting Shooter](https://kotaku.com/the-best-gamescom-surprise-so-far-is-this-spell-casting-1847549755)
- - [Bungie co-founder Jason Jones looks back at the 'buckets of blood' that went into Halo and talks future of computing](https://www.pcgamer.com/bungie-co-founder-jason-jones-looks-back-at-the-buckets-of-blood-that-went-into-halo-and-talks-future-of-computing)<!-- GAME:END -->
+ - [Has science gone too far? Crusader Kings 3 is being ported to consoles](https://www.pcgamer.com/crusader-kings-3-console-port-xbox-playstation)
+ - [Destiny 2: Season of the Lost guide: Tracing the Stars quest](https://www.polygon.com/destiny-2-guide-walkthrough/22640042/destiny-2-season-lost-quest-stasis-weapons-agers-scepter-trace-rifle-exotic-atlas-skews)
+ - [Oh No, Jeopardy!’s Other New Host Is Pretty Bad Too](https://kotaku.com/oh-no-jeopardy-s-other-new-host-is-pretty-bad-too-1847549769)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
