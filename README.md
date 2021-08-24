@@ -193,8 +193,8 @@ Linux                    21 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Quick maff](http://9gag.com/gag/awMpyM4)
- - 🚯 [Unfortunately this is true](http://9gag.com/gag/aMKLEZW)
+ - 🚖 [I have no words for the feels this game gave me.](http://9gag.com/gag/azM32NN)
+ - 🚯 [Neither 29 nor 41..!](http://9gag.com/gag/aEp40Do)
  - 🚯 [Who&#039;s got better moves? Lady or Poppy?](http://9gag.com/gag/aqjEj67)<!-- MEMES:END -->
 
 --- 
