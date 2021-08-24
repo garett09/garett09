@@ -186,9 +186,9 @@ Linux                    21 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Poly Network says it has now recovered all of $610M in cryptocurrencies it lost to a hacker, and is in the process of returning them to their rightful owners (Igor Bonifacic/Engadget)](http://www.techmeme.com/210823/p23#a210823p23)
- - [Offline playback on Spotify’s Wear OS app is rolling out now](https://www.theverge.com/2021/8/23/22638628/spotify-offline-playback-wear-os-now-rolling-out)
- - [Facebook tries adding video and voice calls back into its main app](https://www.theverge.com/2021/8/23/22638530/facebook-messenger-video-voice-calls-back-main-app)<!-- TECH:END -->
+ - [UN-backed initiative Tech Against Terrorism adds the Taliban to its list of terrorist organizations and will alert tech companies when Taliban content is posted (Issie Lapowsky/Protocol)](http://www.techmeme.com/210823/p27#a210823p27)
+ - [Joe Biden reportedly hosting cybersecurity meeting with Tim Cook, Satya Nadella, and Andy Jassy attending](https://www.theverge.com/2021/8/23/22638724/joe-biden-cybersecurity-meeting-white-house-tim-cook-satya-nadella-andy-jassy)
+ - [Japan’s B2B ordering and supply platform CADDi raises $73 million Series B funding](http://feedproxy.google.com/~r/Techcrunch/~3/5B390lYDGc4/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
