@@ -193,8 +193,8 @@ Linux                    21 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Kids vs Crows](http://9gag.com/gag/anQoROL)
- - 🚯 [Son decided to swallow a nickel and turn $.05 into $4400.00](http://9gag.com/gag/azM35ZB)
+ - 🚖 [Bam!](http://9gag.com/gag/apNMDED)
+ - 🚯 [Future be like](http://9gag.com/gag/aDdv6GO)
  - 🚯 [Who&#039;s got better moves? Lady or Poppy?](http://9gag.com/gag/aqjEj67)<!-- MEMES:END -->
 
 --- 
