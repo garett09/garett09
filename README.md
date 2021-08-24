@@ -179,9 +179,9 @@ Linux                    21 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [gamescom 2021: The Gunk Re-Emerges in the Lead-Up to Launch this December](https://news.xbox.com/en-us/2021/08/24/gamescom-2021-the-gunk-launching-this-december/)
- - [gamescom 2021: Crusader Kings III Coming Soon to Xbox Series X|S](https://news.xbox.com/en-us/2021/08/24/gamescom-2021-crusader-kings-3-coming-soon-xbox-series-xs/)
- - [Crusader Kings 3 is coming to PS5 and Xbox Series X](https://www.polygon.com/22638378/crusader-kings-3-ps5-xbox-console-royal-court-release-date-dlc)<!-- GAME:END -->
+ - [Every trebuchet shown at Xbox’s Gamescom 2021 stream](https://www.polygon.com/22639737/xbox-gamescom-2021-trebuchet-roundup-age-of-empires-4)
+ - [Magic: the Gathering crossing over with Fortnite, Street Fighter, Lord of the Rings, and more](https://www.pcgamer.com/magic-the-gathering-fortnite-lord-of-the-rings-street-fighter)
+ - [Superman ‘78 #1 trusts the power of Christopher Reeve’s Man of Steel](https://www.polygon.com/reviews/22639632/superman-78-comic-review-christopher-reeve-dc-richard-donner)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
