@@ -186,9 +186,9 @@ Linux                    21 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [UN-backed initiative Tech Against Terrorism adds the Taliban to its list of terrorist organizations and will alert tech companies when Taliban content is posted (Issie Lapowsky/Protocol)](http://www.techmeme.com/210823/p27#a210823p27)
- - [Joe Biden reportedly hosting cybersecurity meeting with Tim Cook, Satya Nadella, and Andy Jassy attending](https://www.theverge.com/2021/8/23/22638724/joe-biden-cybersecurity-meeting-white-house-tim-cook-satya-nadella-andy-jassy)
- - [Japan’s B2B ordering and supply platform CADDi raises $73 million Series B funding](http://feedproxy.google.com/~r/Techcrunch/~3/5B390lYDGc4/)<!-- TECH:END -->
+ - [Facebook returns voice and video calls to flagship app](https://appleinsider.com/articles/21/08/24/facebook-returns-voice-and-video-calls-to-flagship-app?utm_medium=rss)
+ - [Hacker returns all $610M of stolen Poly Network crypto](https://appleinsider.com/articles/21/08/23/hacker-returns-all-610m-of-stolen-poly-network-crypto?utm_medium=rss)
+ - [All 42 movies Netflix is releasing in fall 2021     - CNET](https://www.cnet.com/news/all-42-movies-netflix-is-releasing-in-fall-2021/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
