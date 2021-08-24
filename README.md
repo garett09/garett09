@@ -186,9 +186,9 @@ Linux                    21 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [TikTok partners with Shopify to launch a pilot program letting merchants add a shopping tab to their profiles and link to products in their posts (Erin Woo/New York Times)](http://www.techmeme.com/210824/p19#a210824p19)
- - [Spotify says all US-based podcasters using Anchor can sell subscriptions to episodes available on RSS and Spotify, expanding internationally later (Ashley Carman/The Verge)](http://www.techmeme.com/210824/p18#a210824p18)
- - [Future Apple Watch may let you answer calls by blowing on it](https://appleinsider.com/articles/21/08/24/future-apple-watch-may-let-you-answer-calls-by-blowing-on-it?utm_medium=rss)<!-- TECH:END -->
+ - [Cowboy Bebop live action Netflix series: Release date and more you need to know](https://www.androidauthority.com/cowboy-bebop-live-action-netflix-2738977/)
+ - [Speed Test G: Google Pixel 5a vs Pixel 5 vs Pixel 4a 5G](https://www.androidauthority.com/pixel-5a-vs-pixel-5-vs-pixel-4a-2736081/)
+ - [Level Lock partners with Rocky Mountain Hardware to expand HomeKit lock options](https://appleinsider.com/articles/21/08/24/level-lock-partners-with-rocky-mountain-hardware-to-expand-homekit-lock-options?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
