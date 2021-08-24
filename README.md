@@ -193,9 +193,9 @@ Linux                    21 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Earth was Round before it was cool....](http://9gag.com/gag/aV76mev)
- - 🚯 [A true veteran](http://9gag.com/gag/a8Eg071)
- - 🚯 [Apocalypse](http://9gag.com/gag/ad8zOEQ)<!-- MEMES:END -->
+ - 🚖 [Apocalypse](http://9gag.com/gag/ad8zOEQ)
+ - 🚯 [Couple fell in love with a wingless bumblebee](http://9gag.com/gag/a0736Vz)
+ - 🚯 [Earth was Round before it was cool....](http://9gag.com/gag/aV76mev)<!-- MEMES:END -->
 
 --- 
 
