@@ -193,9 +193,9 @@ Linux                    21 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Asteriod close to South Africa&hellip;.](http://9gag.com/gag/ad8zxNZ)
- - 🚯 [Quite right !](http://9gag.com/gag/azM3K3p)
- - 🚯 [What are your thoughts on this?](http://9gag.com/gag/agBe79r)<!-- MEMES:END -->
+ - 🚖 [What are your thoughts on this?](http://9gag.com/gag/agBe79r)
+ - 🚯 [Movie Gem of the day: Dredd. Simple, violent, and doesn&#039;t try to overreach. this movie is a lot of fun.](http://9gag.com/gag/a073n6d)
+ - 🚯 [And how old are you !](http://9gag.com/gag/ayMK1jy)<!-- MEMES:END -->
 
 --- 
 
