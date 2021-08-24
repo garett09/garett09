@@ -193,9 +193,9 @@ Linux                    21 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [True enough.](http://9gag.com/gag/aqjEQ2Y)
- - 🚯 [After months of waiting and 3 years of savings I finnaly got a nice big plot of land where I&#039;m building my own house, plant my trees and got a nice pond to chill next to. Best time of my life!](http://9gag.com/gag/aoM7V5X)
- - 🚯 [Just some artists problem](http://9gag.com/gag/aWjXnB2)<!-- MEMES:END -->
+ - 🚖 [Just some artists problem](http://9gag.com/gag/aWjXnB2)
+ - 🚯 [What are your thoughts on this?](http://9gag.com/gag/agBe79r)
+ - 🚯 [A true veteran](http://9gag.com/gag/a8Eg071)<!-- MEMES:END -->
 
 --- 
 
