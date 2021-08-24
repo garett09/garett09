@@ -193,8 +193,8 @@ Linux                    21 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I don&#039;t remember his name but I guess it is the last one.](http://9gag.com/gag/abV8Oy9)
- - 🚯 [I&rsquo;d rather be dumb in private.](http://9gag.com/gag/awMpmxB)
+ - 🚖 [This is just right](http://9gag.com/gag/a6ER922)
+ - 🚯 [This man is a treasure.](http://9gag.com/gag/axMrvDb)
  - 🚯 [Who&#039;s got better moves? Lady or Poppy?](http://9gag.com/gag/aqjEj67)<!-- MEMES:END -->
 
 --- 
