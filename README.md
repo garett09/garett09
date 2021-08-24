@@ -179,9 +179,9 @@ Linux                    21 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [California Accuses Activision Blizzard Of Shredding Abuse Evidence](https://kotaku.com/california-accuses-activision-blizzard-of-shredding-abu-1847550659)
- - [Spider-Man: No Way Home lifts from a key Marvel comic about the devil](https://www.polygon.com/2021/8/24/22640170/spider-man-no-way-home-doctor-strange-mephisto-comics-explained)
- - [Fire Emblem's Gatekeeper Is Playable Now, And He's Powerful](https://kotaku.com/fire-emblems-gatekeeper-is-playable-now-and-hes-powerf-1847550510)<!-- GAME:END -->
+ - [Hahaha Crusader Kings III Is Coming To Consoles](https://kotaku.com/hahaha-crusader-kings-iii-is-coming-to-consoles-1847551299)
+ - [Crypto-hacker who stole $600 million finally gives the rest of it back](https://www.pcgamer.com/crypto-hacker-who-stole-dollar600-million-finally-gives-the-rest-of-it-back)
+ - [California Accuses Activision Blizzard Of Shredding Abuse Evidence](https://kotaku.com/california-accuses-activision-blizzard-of-shredding-abu-1847550659)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
