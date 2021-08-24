@@ -186,9 +186,9 @@ Linux                    21 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Tim Cook reshaped Apple in his first decade as CEO](https://appleinsider.com/articles/21/08/24/how-tim-cook-reshaped-apple-in-his-first-decade-as-ceo?utm_medium=rss)
- - [Poll: What would it take for you to leave Android?](https://www.androidauthority.com/leave-android-poll-2739228/)
- - [realme keeps reaching new heights, but what comes next?](https://www.androidauthority.com/realme-what-comes-next-2737137/)<!-- TECH:END -->
+ - [Tim Cook visiting White House on Wednesday to discuss cyber attacks](https://appleinsider.com/articles/21/08/23/apples-tim-cook-to-visit-white-house-amid-rise-in-cyber-attacks?utm_medium=rss)
+ - [Daily Authority: “Everybody but Apple” 📉](https://www.androidauthority.com/newsletters/da-august-24-2021/)
+ - [How Hub Worlds Shape Video Game Design](https://www.wired.com/story/how-hub-worlds-shape-video-game-design)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
