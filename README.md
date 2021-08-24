@@ -193,9 +193,9 @@ Linux                    21 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This is just right](http://9gag.com/gag/a6ER922)
- - 🚯 [This man is a treasure.](http://9gag.com/gag/axMrvDb)
- - 🚯 [Who&#039;s got better moves? Lady or Poppy?](http://9gag.com/gag/aqjEj67)<!-- MEMES:END -->
+ - 🚖 [Good crept up](http://9gag.com/gag/a9EGvO1)
+ - 🚯 [This is just right](http://9gag.com/gag/a6ER922)
+ - 🚯 [This man is a treasure.](http://9gag.com/gag/axMrvDb)<!-- MEMES:END -->
 
 --- 
 
