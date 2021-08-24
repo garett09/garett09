@@ -179,9 +179,9 @@ Linux                    21 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Destiny 2: Season of the Lost starts today](https://www.polygon.com/22627173/destiny-2-showcase-season-of-the-lost-witch-queen-reveal)
- - [Best PCIe 4.0 SSD for gaming in 2021](https://www.pcgamer.com/best-pcie-4-ssd-for-gaming)
- - [Destiny 2's The Witch Queen expansion introduces weapon crafting](https://www.pcgamer.com/destiny-2s-the-witch-queen-expansion-introduces-weapon-crafting)<!-- GAME:END -->
+ - [Microsoft Flight Simulator Celebrates gamescom with Major Updates](https://news.xbox.com/en-us/2021/08/24/microsoft-flight-simulator-celebrates-gamescom-with-major-updates/)
+ - [Microsoft Flight Simulator gets a new racing mode with WWII-era planes](https://www.polygon.com/22637999/microsoft-flight-simulator-stihl-national-championship-air-races-p-51-sea-fury)
+ - [Microsoft Flight Simulator’s futuristic new helicopter is very Westworld](https://www.polygon.com/22638473/microsoft-flight-simulator-helicopters-volocopter-volocity-release-date-price)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
