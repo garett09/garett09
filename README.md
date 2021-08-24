@@ -186,9 +186,9 @@ Linux                    21 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Arcade games 'Baldo: the Guardian Owls' & 'Asphalt 8: Airborne+' release Friday](https://appleinsider.com/articles/21/08/24/apple-arcade-games-baldo-the-guardian-owls-asphalt-8-airborne-release-friday?utm_medium=rss)
- - [Memory a major focus of Samsung's $205B three-year investment plan](https://appleinsider.com/articles/21/08/24/memory-a-major-focus-of-samsungs-205b-three-year-investment-plan?utm_medium=rss)
- - [NoRedInk, which aims to improve students' writing through a curriculum that pairs adaptive learning with Mad Libs-style prompts, raises $50M Series B (Natasha Mascarenhas/TechCrunch)](http://www.techmeme.com/210824/p30#a210824p30)<!-- TECH:END -->
+ - [Samsung notifying buyers that their new foldables and watches will be very late](https://www.androidauthority.com/samsung-galaxy-z-fold-3-delays-2739657/)
+ - [Walmart is launching a new white label delivery service](https://www.theverge.com/2021/8/24/22639778/walmart-golocal-delivery-service-small-business-drones)
+ - [EA is opening the patents for some of its accessibility tech](https://www.theverge.com/2021/8/24/22638535/ea-accessibility-patent-pledge-apex-legends-ping-system)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
