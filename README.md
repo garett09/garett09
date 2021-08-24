@@ -186,9 +186,9 @@ Linux                    21 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung’s new foldables already have 800,000 pre-orders in just one market](https://www.androidauthority.com/samsung-galaxy-z-flip-fold-3-korea-2738716/)
- - [Khatabook, which helps small Indian businesses digitize bookkeeping and accept payments online, raises $100M Series C at a valuation "close to $600M" (Manish Singh/TechCrunch)](http://www.techmeme.com/210824/p3#a210824p3)
- - [ForgeRock, which makes identity management software, has filed for an IPO seeking to raise $100M; sources say it may seek a valuation of $3B-$4B+ (Bloomberg)](http://www.techmeme.com/210824/p2#a210824p2)<!-- TECH:END -->
+ - [EA is opening the patents for some of its accessibility tech](https://www.theverge.com/2021/8/24/22638535/ea-accessibility-patent-pledge-apex-legends-ping-system)
+ - [Pakistan-based Bazaar, which operates a B2B marketplace for merchants and helps them digitize their bookkeeping, raises the country's largest Series A at $30M (Manish Singh/TechCrunch)](http://www.techmeme.com/210824/p5#a210824p5)
+ - [A look at the decade long struggle to bring the script of Tulu, an Indian language, into Unicode, and the problem of keeping languages alive in the digital age (Varsha Bansal/Rest of World)](http://www.techmeme.com/210824/p4#a210824p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
