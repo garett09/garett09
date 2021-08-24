@@ -186,9 +186,9 @@ Linux                    21 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Redmi 10 Prime to launch in India next month: A tweaked Redmi 10?](https://www.androidauthority.com/redmi-10-prime-india-2739200/)
- - [Google Meet now warns you when you're causing an echo](https://www.theverge.com/2021/8/24/22638696/google-meet-echo-warning-text-alert)
- - [Electronic Arts makes 'ping system,' other accessibility-focused patents free to use     - CNET](https://www.cnet.com/news/electronic-arts-makes-ping-system-other-accessibility-focused-patents-free-to-use/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Xiaomi moves away from its ‘Mi’ product branding](https://www.theverge.com/2021/8/24/22639020/xiaomi-mi-brand-ending-mix-4-confirmed)
+ - [Google dismantles Health unit in favor of tried-and-tested ‘throw everything at the wall’ strategy](https://www.theverge.com/2021/8/24/22639075/google-health-team-dispersed-strategy-change)
+ - [Samsung says it will hire 40,000 employees over the next three years in a $205B expansion, led by Samsung Electronics and Biologics (Sohee Kim/Bloomberg)](http://www.techmeme.com/210824/p6#a210824p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
