@@ -186,9 +186,9 @@ Linux                    21 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [EA is opening the patents for some of its accessibility tech](https://www.theverge.com/2021/8/24/22638535/ea-accessibility-patent-pledge-apex-legends-ping-system)
- - [Pakistan-based Bazaar, which operates a B2B marketplace for merchants and helps them digitize their bookkeeping, raises the country's largest Series A at $30M (Manish Singh/TechCrunch)](http://www.techmeme.com/210824/p5#a210824p5)
- - [A look at the decade long struggle to bring the script of Tulu, an Indian language, into Unicode, and the problem of keeping languages alive in the digital age (Varsha Bansal/Rest of World)](http://www.techmeme.com/210824/p4#a210824p4)<!-- TECH:END -->
+ - [Redmi 10 Prime to launch in India next month: A tweaked Redmi 10?](https://www.androidauthority.com/redmi-10-prime-india-2739200/)
+ - [Google Meet now warns you when you're causing an echo](https://www.theverge.com/2021/8/24/22638696/google-meet-echo-warning-text-alert)
+ - [Electronic Arts makes 'ping system,' other accessibility-focused patents free to use     - CNET](https://www.cnet.com/news/electronic-arts-makes-ping-system-other-accessibility-focused-patents-free-to-use/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
