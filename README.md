@@ -179,9 +179,9 @@ Linux                    21 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Some hero built an old-school Lego space computer that really works](https://www.pcgamer.com/lego-giant-classic-sci-fi-dashboard-console-computer)
- - [Spider-Man: No Way Home trailer tears open the multiverse](https://www.polygon.com/22560899/spider-man-no-way-home-trailer-release-date)
- - [Eight Very Convincing Reasons To Make Better Video Game Horses](https://kotaku.com/eight-very-convincing-reasons-to-make-better-video-game-1847543600)<!-- GAME:END -->
+ - [Asus TUF VG28UQL1A gaming monitor review](https://www.pcgamer.com/asus-tuf-gaming-vg28uql1a-gaming-monitor-review)
+ - [Yu-Gi-Oh! Duel Disk Modded Into Final Fantasy XIV Controller](https://kotaku.com/yu-gi-oh-duel-disk-modded-into-final-fantasy-xiv-contr-1847544982)
+ - [EA is letting developers freely nick Apex Legends' ping system](https://www.pcgamer.com/ea-is-letting-developers-freely-nick-apex-legends-ping-system)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
