@@ -193,8 +193,8 @@ Linux                    21 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Rejected](http://9gag.com/gag/amPZo94)
- - 🚯 [Impressive Rapping](http://9gag.com/gag/ayMKq4M)
+ - 🚖 [Impressive Rapping](http://9gag.com/gag/ayMKq4M)
+ - 🚯 [I want such woman](http://9gag.com/gag/a27XvD9)
  - 🚯 [Who&#039;s got better moves? Lady or Poppy?](http://9gag.com/gag/aqjEj67)<!-- MEMES:END -->
 
 --- 
