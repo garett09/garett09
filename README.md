@@ -179,9 +179,9 @@ Linux                    21 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Over half of Windows 11 survey respondents said they plan to upgrade](https://www.pcgamer.com/over-half-of-windows-11-survey-respondents-said-they-plan-to-upgrade)
- - [Everything we know about Destiny 2: Season of the Lost](https://www.pcgamer.com/destiny-2-season-of-the-lost)
- - [Try Windows 11 through your browser without installing a thing](https://www.pcgamer.com/windows-11-in-browser)<!-- GAME:END -->
+ - [AMD's 6-core, 12-thread Ryzen 5 5600X is down to $273 right now](https://www.pcgamer.com/amds-6-core-12-thread-ryzen-5-5600x-is-down-to-dollar273-right-now)
+ - [How to watch the Gamescom 2021 Xbox stream](https://www.pcgamer.com/how-to-watch-the-gamescom-2021-xbox-stream)
+ - [Watch the new Destiny Showcase livestream](https://www.polygon.com/22637843/destiny-2-bungie-witch-queen-season-lost-expansion-reveal-lightfall-darkness)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
