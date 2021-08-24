@@ -186,9 +186,9 @@ Linux                    21 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [SoBanHang gets $1.5M to help small Vietnamese stores sell online for the first time](http://feedproxy.google.com/~r/Techcrunch/~3/KoKitvWDJF0/)
- - [Latest OnePlus Nord CE update brings more camera tweaks](https://www.androidauthority.com/oneplus-nord-ce-update-1236153/)
- - [Profile of Invisible Universe, which is developing animated franchises using characters born on social media with the help of influencers like Serena Williams (Nicole LaPorte/Fast Company)](http://www.techmeme.com/210824/p1#a210824p1)<!-- TECH:END -->
+ - [Samsung’s new foldables already have 800,000 pre-orders in just one market](https://www.androidauthority.com/samsung-galaxy-z-flip-fold-3-korea-2738716/)
+ - [Khatabook, which helps small Indian businesses digitize bookkeeping and accept payments online, raises $100M Series C at a valuation "close to $600M" (Manish Singh/TechCrunch)](http://www.techmeme.com/210824/p3#a210824p3)
+ - [ForgeRock, which makes identity management software, has filed for an IPO seeking to raise $100M; sources say it may seek a valuation of $3B-$4B+ (Bloomberg)](http://www.techmeme.com/210824/p2#a210824p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
