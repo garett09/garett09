@@ -186,9 +186,9 @@ Linux                    21 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Grab the M1 Macbook Pro for an all-time low, and more great MacBook deals](https://www.androidauthority.com/best-cheap-macbook-deals-1112936/)
- - [Conservative pranksters face $5 million proposed fine over robocalls](https://www.theverge.com/2021/8/24/22640239/fcc-jacob-wohl-burkman-election-robocalls-fine)
- - [Cerebras Systems claims its hardware can now run a neural network with 120 trillion parameters, targeting a nascent market for massive NLP AI algorithms (Will Knight/Wired)](http://www.techmeme.com/210824/p35#a210824p35)<!-- TECH:END -->
+ - [Apple, Google want White House to challenge South Korean legislation on app stores](https://appleinsider.com/articles/21/08/24/apple-google-want-white-house-to-challenge-south-korean-legislation-on-app-stores?utm_medium=rss)
+ - [California expands lawsuit against Activision Blizzard to include temp workers and says the game maker interfered with investigation by shredding pertinent docs (Axios)](http://www.techmeme.com/210824/p36#a210824p36)
+ - [FAA grants could clean up airport emissions](https://www.theverge.com/2021/8/24/22640039/faa-grants-airport-emissions-electric-vehicles)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
