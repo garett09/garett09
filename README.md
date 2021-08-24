@@ -186,9 +186,9 @@ Linux                    21 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ramp, which provides corporate cards and spend management software, raises $300M Series C at a $3.9B valuation, up from $1.6B after raising $115M in April (Mary Ann Azevedo/TechCrunch)](http://www.techmeme.com/210824/p15#a210824p15)
- - [Samsung Galaxy Z Fold3 review: water resistant with an improved screen feel and multitasking, but terrible under-screen camera, expensive, and heavy (Dieter Bohn/The Verge)](http://www.techmeme.com/210824/p14#a210824p14)
- - [Unlocking the Galaxy Z Fold 3’s bootloader kills all 5 cameras](https://www.androidauthority.com/samsung-galaxy-z-fold-3-bootloader-unlock-cameras-2739283/)<!-- TECH:END -->
+ - [TikTok partners with Shopify to launch a pilot program letting merchants add a shopping tab to their profiles and link to products in their posts (Erin Woo/New York Times)](http://www.techmeme.com/210824/p19#a210824p19)
+ - [Spotify says all US-based podcasters using Anchor can sell subscriptions to episodes available on RSS and Spotify, expanding internationally later (Ashley Carman/The Verge)](http://www.techmeme.com/210824/p18#a210824p18)
+ - [Future Apple Watch may let you answer calls by blowing on it](https://appleinsider.com/articles/21/08/24/future-apple-watch-may-let-you-answer-calls-by-blowing-on-it?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
