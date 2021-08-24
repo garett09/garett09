@@ -193,8 +193,8 @@ Linux                    21 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Future be like](http://9gag.com/gag/aDdv6GO)
- - 🚯 [Work smart](http://9gag.com/gag/a5EYVjr)
+ - 🚖 [Do not think, do the math](http://9gag.com/gag/a4E06Wp)
+ - 🚯 [Sigh](http://9gag.com/gag/aDdv7QO)
  - 🚯 [Who&#039;s got better moves? Lady or Poppy?](http://9gag.com/gag/aqjEj67)<!-- MEMES:END -->
 
 --- 
