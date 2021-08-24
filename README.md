@@ -179,9 +179,9 @@ Linux                    21 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Apex Legends developer admits it 'missed the mark' with Seer, slams him with nerfs](https://www.pcgamer.com/apex-legends-developer-admits-it-missed-the-mark-with-seer-slams-him-with-nerfs)
- - [Xbox One’s ‘Black Screen Of Death’ Is Bricking Consoles (Again)](https://kotaku.com/xbox-one-s-black-screen-of-death-is-bricking-consoles-1847546423)
- - [The best VPN for gaming in 2021](https://www.pcgamer.com/best-vpn-for-pc-gaming)<!-- GAME:END -->
+ - [Destiny 2: Season of the Lost starts today](https://www.polygon.com/22627173/destiny-2-showcase-season-of-the-lost-witch-queen-reveal)
+ - [Best PCIe 4.0 SSD for gaming in 2021](https://www.pcgamer.com/best-pcie-4-ssd-for-gaming)
+ - [Destiny 2's The Witch Queen expansion introduces weapon crafting](https://www.pcgamer.com/destiny-2s-the-witch-queen-expansion-introduces-weapon-crafting)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
