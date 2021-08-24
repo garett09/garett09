@@ -193,8 +193,8 @@ Linux                    21 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Joy to the world.](http://9gag.com/gag/anQo7Pn)
- - 🚯 [I want such woman](http://9gag.com/gag/a27XvD9)
+ - 🚖 [Quick maff](http://9gag.com/gag/awMpyM4)
+ - 🚯 [Unfortunately this is true](http://9gag.com/gag/aMKLEZW)
  - 🚯 [Who&#039;s got better moves? Lady or Poppy?](http://9gag.com/gag/aqjEj67)<!-- MEMES:END -->
 
 --- 
