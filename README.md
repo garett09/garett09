@@ -186,9 +186,9 @@ Linux                    21 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Xiaomi moves away from its ‘Mi’ product branding](https://www.theverge.com/2021/8/24/22639020/xiaomi-mi-brand-ending-mix-4-confirmed)
- - [Google dismantles Health unit in favor of tried-and-tested ‘throw everything at the wall’ strategy](https://www.theverge.com/2021/8/24/22639075/google-health-team-dispersed-strategy-change)
- - [Samsung says it will hire 40,000 employees over the next three years in a $205B expansion, led by Samsung Electronics and Biologics (Sohee Kim/Bloomberg)](http://www.techmeme.com/210824/p6#a210824p6)<!-- TECH:END -->
+ - [How Tim Cook reshaped Apple in his first decade as CEO](https://appleinsider.com/articles/21/08/24/how-tim-cook-reshaped-apple-in-his-first-decade-as-ceo?utm_medium=rss)
+ - [Poll: What would it take for you to leave Android?](https://www.androidauthority.com/leave-android-poll-2739228/)
+ - [realme keeps reaching new heights, but what comes next?](https://www.androidauthority.com/realme-what-comes-next-2737137/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
