@@ -194,7 +194,7 @@ Linux                    21 mins             ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 🚖 [Impressive Rapping](http://9gag.com/gag/ayMKq4M)
- - 🚯 [Nope! Not me](http://9gag.com/gag/a6ERZB9)
+ - 🚯 [Work smart](http://9gag.com/gag/a5EYVjr)
  - 🚯 [Who&#039;s got better moves? Lady or Poppy?](http://9gag.com/gag/aqjEj67)<!-- MEMES:END -->
 
 --- 
