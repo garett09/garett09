@@ -179,9 +179,9 @@ Linux                    21 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Best Strategy Games On PC](https://kotaku.com/the-best-strategy-games-on-pc-1766534236)
- - [Destiny 2: The Witch Queen teaser shows a very intimidating Savathûn, who is taller than Lady D](https://www.pcgamer.com/destiny-2-the-witch-queen-teaser-shows-a-very-intimidating-savathun-who-is-taller-than-lady-d)
- - [Unity employees reportedly aren't happy about the company's military dealings](https://www.pcgamer.com/unity-employees-reportedly-arent-happy-about-the-companys-military-dealings)<!-- GAME:END -->
+ - [Spider-Man: No Way Home trailer tears open the multiverse](https://www.polygon.com/22560899/spider-man-no-way-home-trailer-release-date)
+ - [Eight Very Convincing Reasons To Make Better Video Game Horses](https://kotaku.com/eight-very-convincing-reasons-to-make-better-video-game-1847543600)
+ - [Straight Up Not Having A Good Time](https://kotaku.com/straight-up-not-having-a-good-time-1847543508)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
