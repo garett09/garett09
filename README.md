@@ -186,9 +186,9 @@ Linux                    21 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Facebook returns voice and video calls to flagship app](https://appleinsider.com/articles/21/08/24/facebook-returns-voice-and-video-calls-to-flagship-app?utm_medium=rss)
- - [Hacker returns all $610M of stolen Poly Network crypto](https://appleinsider.com/articles/21/08/23/hacker-returns-all-610m-of-stolen-poly-network-crypto?utm_medium=rss)
- - [All 42 movies Netflix is releasing in fall 2021     - CNET](https://www.cnet.com/news/all-42-movies-netflix-is-releasing-in-fall-2021/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Watch the first trailer for Spider-Man: No Way Home](https://www.theverge.com/2021/8/23/22638877/spider-man-no-way-home-first-trailer)
+ - [Developers might need to update their banking information on App Store Connect](https://appleinsider.com/articles/21/08/24/developers-might-need-to-update-their-banking-information-on-app-store-connect?utm_medium=rss)
+ - [JD.com reports net revenue of $39.14B in Q2, up 26% YoY, beating estimates, and added a record 32M users over the quarter amid ongoing regulatory tightening (Reuters)](http://www.techmeme.com/210823/p28#a210823p28)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
