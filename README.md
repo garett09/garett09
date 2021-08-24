@@ -179,9 +179,9 @@ Linux                    21 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Every trebuchet shown at Xbox’s Gamescom 2021 stream](https://www.polygon.com/22639737/xbox-gamescom-2021-trebuchet-roundup-age-of-empires-4)
- - [Magic: the Gathering crossing over with Fortnite, Street Fighter, Lord of the Rings, and more](https://www.pcgamer.com/magic-the-gathering-fortnite-lord-of-the-rings-street-fighter)
- - [Superman ‘78 #1 trusts the power of Christopher Reeve’s Man of Steel](https://www.polygon.com/reviews/22639632/superman-78-comic-review-christopher-reeve-dc-richard-donner)<!-- GAME:END -->
+ - [This iPhone game looks 3D even without glasses](https://www.polygon.com/22634598/3d-game-on-phone-indie-dev-unity-cyberpunk-platformer-crt-tv-itchio)
+ - [The Best Gamescom Surprise So Far Is This Spell-Casting Shooter](https://kotaku.com/the-best-gamescom-surprise-so-far-is-this-spell-casting-1847549755)
+ - [Bungie co-founder Jason Jones looks back at the 'buckets of blood' that went into Halo and talks future of computing](https://www.pcgamer.com/bungie-co-founder-jason-jones-looks-back-at-the-buckets-of-blood-that-went-into-halo-and-talks-future-of-computing)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
