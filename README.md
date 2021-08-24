@@ -186,9 +186,9 @@ Linux                    21 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Watch the first trailer for Spider-Man: No Way Home](https://www.theverge.com/2021/8/23/22638877/spider-man-no-way-home-first-trailer)
- - [Developers might need to update their banking information on App Store Connect](https://appleinsider.com/articles/21/08/24/developers-might-need-to-update-their-banking-information-on-app-store-connect?utm_medium=rss)
- - [JD.com reports net revenue of $39.14B in Q2, up 26% YoY, beating estimates, and added a record 32M users over the quarter amid ongoing regulatory tightening (Reuters)](http://www.techmeme.com/210823/p28#a210823p28)<!-- TECH:END -->
+ - [Apple and Google are calling on the WH to oppose a South Korean bill, set to face a vote this week, that would mandate multiple payment systems for IAPs (New York Times)](http://www.techmeme.com/210823/p30#a210823p30)
+ - [Tokyo-based CADDi, a B2B ordering and supply service in the manufacturing and procurement industry, raises $73M Series B, sources say at a ~$450M valuation (Kate Park/TechCrunch)](http://www.techmeme.com/210823/p29#a210823p29)
+ - [Watch the first trailer for Spider-Man: No Way Home](https://www.theverge.com/2021/8/23/22638877/spider-man-no-way-home-first-trailer)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
