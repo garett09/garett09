@@ -193,7 +193,7 @@ Linux                    21 mins             ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Impressive Rapping](http://9gag.com/gag/ayMKq4M)
+ - 🚖 [Future be like](http://9gag.com/gag/aDdv6GO)
  - 🚯 [Work smart](http://9gag.com/gag/a5EYVjr)
  - 🚯 [Who&#039;s got better moves? Lady or Poppy?](http://9gag.com/gag/aqjEj67)<!-- MEMES:END -->
 
