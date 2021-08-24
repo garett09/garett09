@@ -179,9 +179,9 @@ Linux                    21 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [We're giving away a Black Geyser gaming PC with a pretty sick skull case](https://www.pcgamer.com/were-giving-away-a-black-geyser-gaming-pc-with-a-pretty-sick-skull-case)
- - [Psychonauts 2 Achievements Revealed](https://news.xbox.com/en-us/2021/08/23/psychonauts-2-achievements-revealed/)
- - [Fatal Frame: Maiden of Black Water is Guaranteed to Send Shivers Down Your Spine](https://news.xbox.com/en-us/2021/08/23/fatal-frame-maiden-of-black-water-interview/)<!-- GAME:END -->
+ - [The Best Strategy Games On PC](https://kotaku.com/the-best-strategy-games-on-pc-1766534236)
+ - [Destiny 2: The Witch Queen teaser shows a very intimidating Savathûn, who is taller than Lady D](https://www.pcgamer.com/destiny-2-the-witch-queen-teaser-shows-a-very-intimidating-savathun-who-is-taller-than-lady-d)
+ - [Unity employees reportedly aren't happy about the company's military dealings](https://www.pcgamer.com/unity-employees-reportedly-arent-happy-about-the-companys-military-dealings)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
