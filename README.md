@@ -186,9 +186,9 @@ Linux                    21 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Leaker suggests 'Apple Watch Series 7' to increase by 1mm in size](https://appleinsider.com/articles/21/08/24/leaker-suggests-apple-watch-series-7-to-increase-by-1mm-in-size?utm_medium=rss)
- - [Save $200 on Apple's M1 MacBook Pro 13-inch at Amazon right now](https://appleinsider.com/articles/21/08/24/save-200-on-apples-m1-macbook-pro-13-inch-at-amazon-right-now?utm_medium=rss)
- - [Automotive cybersecurity startup Upstream raises $62M Series C led by Mitsui Sumitomo Insurance and plans to expand into insurance telematics and data analytics (Rebecca Bellan/TechCrunch)](http://www.techmeme.com/210824/p22#a210824p22)<!-- TECH:END -->
+ - [Hulu is adding HDR for some of its original shows and movies](https://www.theverge.com/2021/8/24/22639273/hulu-hdr-original-shows-movies-4k-picture-quality)
+ - [Walmart announces GoLocal, a logistics service for third-party US merchants with a variety of delivery types, including same-day (Sarah Perez/TechCrunch)](http://www.techmeme.com/210824/p26#a210824p26)
+ - [You can buy the Oculus Quest 2 again following a pause in sales](https://www.theverge.com/2021/8/24/22639523/oculus-quest-2-pause-sale-recall-base-model-storage)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
