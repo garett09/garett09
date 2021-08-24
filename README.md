@@ -194,7 +194,7 @@ Linux                    21 mins             ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 🚖 [Bam!](http://9gag.com/gag/apNMDED)
- - 🚯 [Future be like](http://9gag.com/gag/aDdv6GO)
+ - 🚯 [This man is a treasure.](http://9gag.com/gag/axMrvDb)
  - 🚯 [Who&#039;s got better moves? Lady or Poppy?](http://9gag.com/gag/aqjEj67)<!-- MEMES:END -->
 
 --- 
