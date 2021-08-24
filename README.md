@@ -179,9 +179,9 @@ Linux                    21 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Aliens: Fireteam Elite Available Now for Xbox One and Xbox Series X|S](https://news.xbox.com/en-us/2021/08/24/aliens-fireteam-elite-available-now/)
- - [The best VR headset in 2021](https://www.pcgamer.com/best-vr-headset)
- - [Battlefield 2042 cheats are already being sold two months before launch](https://www.pcgamer.com/battlefield-2042-cheats-are-already-being-sold-two-months-before-launch)<!-- GAME:END -->
+ - [Apex Legends developer admits it 'missed the mark' with Seer, slams him with nerfs](https://www.pcgamer.com/apex-legends-developer-admits-it-missed-the-mark-with-seer-slams-him-with-nerfs)
+ - [Xbox One’s ‘Black Screen Of Death’ Is Bricking Consoles (Again)](https://kotaku.com/xbox-one-s-black-screen-of-death-is-bricking-consoles-1847546423)
+ - [The best VPN for gaming in 2021](https://www.pcgamer.com/best-vpn-for-pc-gaming)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
