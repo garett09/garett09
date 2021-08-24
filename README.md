@@ -186,9 +186,9 @@ Linux                    21 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Digital locker app Movies Anywhere adds A.I.-powered lists to organize your library](http://feedproxy.google.com/~r/Techcrunch/~3/54zv1LpNTko/)
- - [Twitter boosts Spaces by showing which ones your friends are attending](https://www.theverge.com/2021/8/24/22640097/twitter-spaces-attending-listening-follow-top-of-feed)
- - [How Tim Cook reshaped Apple in his first decade as CEO](https://appleinsider.com/articles/21/08/24/how-tim-cook-reshaped-apple-in-his-first-decade-as-ceo?utm_medium=rss)<!-- TECH:END -->
+ - [Grab the M1 Macbook Pro for an all-time low, and more great MacBook deals](https://www.androidauthority.com/best-cheap-macbook-deals-1112936/)
+ - [Conservative pranksters face $5 million proposed fine over robocalls](https://www.theverge.com/2021/8/24/22640239/fcc-jacob-wohl-burkman-election-robocalls-fine)
+ - [Cerebras Systems claims its hardware can now run a neural network with 120 trillion parameters, targeting a nascent market for massive NLP AI algorithms (Will Knight/Wired)](http://www.techmeme.com/210824/p35#a210824p35)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
