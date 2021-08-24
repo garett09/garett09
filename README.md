@@ -186,9 +186,9 @@ Linux                    21 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft says that Xbox Cloud Gaming will expand beyond PC and mobile to its Xbox Series X, Xbox Series S, and older Xbox One consoles this holiday (Ryan Browne/CNBC)](http://www.techmeme.com/210824/p29#a210824p29)
- - [Boston’s startup market is more than setting records in scorching start to year](http://feedproxy.google.com/~r/Techcrunch/~3/fGRl9aDYim0/)
- - [Ispace unveils bigger moon lander capable of surviving lunar nights](http://feedproxy.google.com/~r/Techcrunch/~3/LACl9xZBC_c/)<!-- TECH:END -->
+ - [Apple Arcade games 'Baldo: the Guardian Owls' & 'Asphalt 8: Airborne+' release Friday](https://appleinsider.com/articles/21/08/24/apple-arcade-games-baldo-the-guardian-owls-asphalt-8-airborne-release-friday?utm_medium=rss)
+ - [Memory a major focus of Samsung's $205B three-year investment plan](https://appleinsider.com/articles/21/08/24/memory-a-major-focus-of-samsungs-205b-three-year-investment-plan?utm_medium=rss)
+ - [NoRedInk, which aims to improve students' writing through a curriculum that pairs adaptive learning with Mad Libs-style prompts, raises $50M Series B (Natasha Mascarenhas/TechCrunch)](http://www.techmeme.com/210824/p30#a210824p30)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
