@@ -179,9 +179,9 @@ Linux                    21 mins             ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Asus TUF VG28UQL1A gaming monitor review](https://www.pcgamer.com/asus-tuf-gaming-vg28uql1a-gaming-monitor-review)
- - [Yu-Gi-Oh! Duel Disk Modded Into Final Fantasy XIV Controller](https://kotaku.com/yu-gi-oh-duel-disk-modded-into-final-fantasy-xiv-contr-1847544982)
- - [EA is letting developers freely nick Apex Legends' ping system](https://www.pcgamer.com/ea-is-letting-developers-freely-nick-apex-legends-ping-system)<!-- GAME:END -->
+ - [Over half of Windows 11 survey respondents said they plan to upgrade](https://www.pcgamer.com/over-half-of-windows-11-survey-respondents-said-they-plan-to-upgrade)
+ - [Everything we know about Destiny 2: Season of the Lost](https://www.pcgamer.com/destiny-2-season-of-the-lost)
+ - [Try Windows 11 through your browser without installing a thing](https://www.pcgamer.com/windows-11-in-browser)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
