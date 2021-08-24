@@ -186,9 +186,9 @@ Linux                    21 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple, Google want White House to challenge South Korean legislation on app stores](https://appleinsider.com/articles/21/08/24/apple-google-want-white-house-to-challenge-south-korean-legislation-on-app-stores?utm_medium=rss)
- - [Spotify’s Wear OS app is getting offline playback support (Updated: Rolling out)](https://www.androidauthority.com/spotify-wear-os-offline-playback-2733406/)
- - [Apple and Google are calling on the WH to oppose a South Korean bill, set to face a vote this week, that would mandate multiple payment systems for IAPs (New York Times)](http://www.techmeme.com/210823/p30#a210823p30)<!-- TECH:END -->
+ - [SoBanHang gets $1.5M to help small Vietnamese stores sell online for the first time](http://feedproxy.google.com/~r/Techcrunch/~3/KoKitvWDJF0/)
+ - [Latest OnePlus Nord CE update brings more camera tweaks](https://www.androidauthority.com/oneplus-nord-ce-update-1236153/)
+ - [Profile of Invisible Universe, which is developing animated franchises using characters born on social media with the help of influencers like Serena Williams (Nicole LaPorte/Fast Company)](http://www.techmeme.com/210824/p1#a210824p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
