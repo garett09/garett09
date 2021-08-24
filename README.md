@@ -186,9 +186,9 @@ Linux                    21 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cowboy Bebop live action Netflix series: Release date and more you need to know](https://www.androidauthority.com/cowboy-bebop-live-action-netflix-2738977/)
- - [Speed Test G: Google Pixel 5a vs Pixel 5 vs Pixel 4a 5G](https://www.androidauthority.com/pixel-5a-vs-pixel-5-vs-pixel-4a-2736081/)
- - [Level Lock partners with Rocky Mountain Hardware to expand HomeKit lock options](https://appleinsider.com/articles/21/08/24/level-lock-partners-with-rocky-mountain-hardware-to-expand-homekit-lock-options?utm_medium=rss)<!-- TECH:END -->
+ - [Leaker suggests 'Apple Watch Series 7' to increase by 1mm in size](https://appleinsider.com/articles/21/08/24/leaker-suggests-apple-watch-series-7-to-increase-by-1mm-in-size?utm_medium=rss)
+ - [Save $200 on Apple's M1 MacBook Pro 13-inch at Amazon right now](https://appleinsider.com/articles/21/08/24/save-200-on-apples-m1-macbook-pro-13-inch-at-amazon-right-now?utm_medium=rss)
+ - [Automotive cybersecurity startup Upstream raises $62M Series C led by Mitsui Sumitomo Insurance and plans to expand into insurance telematics and data analytics (Rebecca Bellan/TechCrunch)](http://www.techmeme.com/210824/p22#a210824p22)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
