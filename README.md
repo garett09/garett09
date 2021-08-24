@@ -186,9 +186,9 @@ Linux                    21 mins             ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung notifying buyers that their new foldables and watches will be very late](https://www.androidauthority.com/samsung-galaxy-z-fold-3-delays-2739657/)
- - [Walmart is launching a new white label delivery service](https://www.theverge.com/2021/8/24/22639778/walmart-golocal-delivery-service-small-business-drones)
- - [EA is opening the patents for some of its accessibility tech](https://www.theverge.com/2021/8/24/22638535/ea-accessibility-patent-pledge-apex-legends-ping-system)<!-- TECH:END -->
+ - [Digital locker app Movies Anywhere adds A.I.-powered lists to organize your library](http://feedproxy.google.com/~r/Techcrunch/~3/54zv1LpNTko/)
+ - [Twitter boosts Spaces by showing which ones your friends are attending](https://www.theverge.com/2021/8/24/22640097/twitter-spaces-attending-listening-follow-top-of-feed)
+ - [How Tim Cook reshaped Apple in his first decade as CEO](https://appleinsider.com/articles/21/08/24/how-tim-cook-reshaped-apple-in-his-first-decade-as-ceo?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
