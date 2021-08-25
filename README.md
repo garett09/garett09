@@ -193,9 +193,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How to ask for a raise](http://9gag.com/gag/a1r62nG)
+ - 🚖 [And how old are you !](http://9gag.com/gag/ayMK1jy)
  - 🚯 [Boston Police trolling leftists with their sirens.](http://9gag.com/gag/axMrR9M)
- - 🚯 [And how old are you !](http://9gag.com/gag/ayMK1jy)<!-- MEMES:END -->
+ - 🚯 [Jet ski fun](http://9gag.com/gag/aO3W9g3)<!-- MEMES:END -->
 
 --- 
 
