@@ -193,9 +193,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Orcs then and now](http://9gag.com/gag/a8Eg0Oe)
- - 🚯 [Movie Gem of the day: Dredd. Simple, violent, and doesn&#039;t try to overreach. this movie is a lot of fun.](http://9gag.com/gag/a073n6d)
- - 🚯 [Yes](http://9gag.com/gag/anQoE95)<!-- MEMES:END -->
+ - 🚖 [Hello Torrent, my old friend](http://9gag.com/gag/arMLx9K)
+ - 🚯 [Eye see you](http://9gag.com/gag/a8Eg0vd)
+ - 🚯 [True enough.](http://9gag.com/gag/aqjEQ2Y)<!-- MEMES:END -->
 
 --- 
 
