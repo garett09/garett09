@@ -179,9 +179,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Inside Xbox Series X|S Optimized: Little Nightmares II](https://news.xbox.com/en-us/2021/08/25/inside-xbox-series-xs-optimized-little-nightmares-ii/)
- - [Destiny 2: How to unlock the Lorentz Driver exotic linear fusion rifle](https://www.pcgamer.com/destiny-2-lorentz-driver-exotic)
- - [Halo Infinite Release Date Leaks, Out In December](https://kotaku.com/halo-infinite-release-date-leaks-out-in-december-1847547355)<!-- GAME:END -->
+ - [The Mandalorian team really really really didn’t want Luke Skywalker’s cameo to leak](https://www.polygon.com/22641121/mandalorian-luke-skywalker-cameo-leaks-plo-koon)
+ - [This new god game has an actual Thanos snap button](https://www.pcgamer.com/super-worldbox-impressions)
+ - [Boyfriend Dungeon Director: Despite The Bad Faith, It’s Good That We’re Talking](https://kotaku.com/boyfriend-dungeon-director-despite-the-bad-faith-it-s-1847555533)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
