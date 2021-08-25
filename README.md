@@ -179,9 +179,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Jurassic World Evolution 2 launches November 9, 2021](http://feedproxy.google.com/~r/PSBlog/~3/-oqEvVM7Ees/)
- - [Jurassic World Evolution 2 launches November 9, 2021](https://blog.playstation.com/2021/08/25/jurassic-world-evolution-2-launches-november-9-2021/)
- - [April O’Neil will kick ass in the new Ninja Turtles beat-’em-up](https://www.polygon.com/22641646/tmnt-shredders-revenge-april-o-neil-ninja-turtles)<!-- GAME:END -->
+ - [Amazon’s New World MMO open beta beginning in September](https://www.polygon.com/22641065/amazon-new-world-release-date-beta-start)
+ - [Here’s everything new in Death Stranding’s Director’s Cut](https://www.polygon.com/22641342/death-stranding-directors-cut-gamescom-2021)
+ - [Fall Guys gets a Disney’s The Jungle Book crossover early next month](https://www.polygon.com/22641707/fall-guys-disney-jungle-book-king-louie-baloo-mowgli-shere-khan-skin)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
