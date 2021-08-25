@@ -179,9 +179,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Mandalorian team really really really didn’t want Luke Skywalker’s cameo to leak](https://www.polygon.com/22641121/mandalorian-luke-skywalker-cameo-leaks-plo-koon)
- - [This new god game has an actual Thanos snap button](https://www.pcgamer.com/super-worldbox-impressions)
- - [Boyfriend Dungeon Director: Despite The Bad Faith, It’s Good That We’re Talking](https://kotaku.com/boyfriend-dungeon-director-despite-the-bad-faith-it-s-1847555533)<!-- GAME:END -->
+ - [13 Years Later, Fan Gets Tricky Zelda Record In Smash Bros.](https://kotaku.com/13-years-later-fan-gets-tricky-zelda-record-in-smash-b-1847556212)
+ - [What If...? blows up a very nerdy bit of Marvel movie trivia](https://www.polygon.com/2021/8/25/22641157/what-if-episode-3-nick-fury-big-week-marvel-timeline)
+ - [Neverwinter: Jewel of the North is Available Now](https://news.xbox.com/en-us/2021/08/25/neverwinter-jewel-of-the-north-is-available-now/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
