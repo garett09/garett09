@@ -187,9 +187,9 @@ Artifact](https://www.pcgamer.com/how-to-get-destiny-2-wayfinders-compass-artifa
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [In an abrupt reversal, OnlyFans suspends the October 1 policy change banning porn after securing "assurances" to support its creators (Sin&eacute;ad Baker/Insider)](http://www.techmeme.com/210825/p13#a210825p13)
- - [Xiaomi reports Q2 revenue rose 64% YoY to $13.56B, as net income rose 80% YoY to $1.28B, and says it will buy autonomous driving startup Deepmotion for ~$77.3M (Manish Singh/TechCrunch)](http://www.techmeme.com/210825/p12#a210825p12)
- - [Big Tech firms to announce new cybersecurity plans after Biden meeting](https://appleinsider.com/articles/21/08/25/big-tech-firms-to-announce-new-cybersecurity-plans-after-biden-meeting?utm_medium=rss)<!-- TECH:END -->
+ - [Cribl, which helps companies monitor and analyze data created by their infrastructure, raises $200M Series C, source says at a $1.5B valuation (Christine Hall/TechCrunch)](http://www.techmeme.com/210825/p17#a210825p17)
+ - [Discord valued at $15B after Microsoft deal collapse](https://appleinsider.com/articles/21/08/25/discord-valued-at-15b-after-microsoft-deal-collapse?utm_medium=rss)
+ - [Fitbit announces Charge 5 with a rounded design, a larger and brighter color AMOLED display, GPS, and more, arriving in the fall for $179.95 (Jay Peters/The Verge)](http://www.techmeme.com/210825/p16#a210825p16)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
