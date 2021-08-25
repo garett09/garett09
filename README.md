@@ -179,9 +179,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Secrets of Magic is the biggest Pathfinder 2e book published this year](https://www.polygon.com/tabletop-games/22641809/pathfinder-secrets-of-magic-preview-release-date-price)
- - [The Gates to Jurassic World Evolution 2 Open November 9 for Xbox One and Xbox Series X|S](https://news.xbox.com/en-us/2021/08/25/jurassic-world-evolution-2-november-9/)
- - [Death Stranding Director's Cut looks mad as a hatter](https://www.pcgamer.com/death-stranding-directors-cut-looks-mad-as-a-hatter)<!-- GAME:END -->
+ - [Splitgate’s new season has already started](https://www.polygon.com/22641940/splitgate-server-queue-new-patch-notes-season-0)
+ - [Destiny 2’s Trials of Osiris mode is about to be a lot more accessible](https://www.polygon.com/22641976/destiny-2-trials-osiris-accessibility-matchmaking-reward-rework-upgarde)
+ - [The best RAAL MG loadout for Warzone](https://www.pcgamer.com/best-warzone-raal-mg-loadout-class-setup)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
