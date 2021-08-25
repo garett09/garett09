@@ -194,9 +194,9 @@ Artifact](https://www.pcgamer.com/how-to-get-destiny-2-wayfinders-compass-artifa
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Racism in the nature](http://9gag.com/gag/axMrYYY)
- - 🚯 [It was at this moment, he realised......](http://9gag.com/gag/agBeE3g)
- - 🚯 [Audacity of this man](http://9gag.com/gag/aqjEz3M)<!-- MEMES:END -->
+ - 🚖 [It was at this moment, he realised......](http://9gag.com/gag/agBeE3g)
+ - 🚯 [Paralympic High Jump](http://9gag.com/gag/a3EOWg3)
+ - 🚯 [Origin of memes (Pt 1)](http://9gag.com/gag/a9EGO0L)<!-- MEMES:END -->
 
 --- 
 
