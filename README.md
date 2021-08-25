@@ -193,8 +193,8 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [People are pandemic!!](http://9gag.com/gag/a6ER8e8)
- - 🚯 [To horny jail](http://9gag.com/gag/aDdvP19)
+ - 🚖 [Stop posting about this shithead John China.](http://9gag.com/gag/anQodo0)
+ - 🚯 [Comedian Nazar Mohamed getting arrested by the Taliban, knowing he will get killed, he cracks a joke about them and gets slapped.](http://9gag.com/gag/aqjEAGY)
  - 🚯 [Which look do you like more?](http://9gag.com/gag/aQoj2M7)<!-- MEMES:END -->
 
 --- 
