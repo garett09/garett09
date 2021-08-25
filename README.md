@@ -179,9 +179,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Halo Infinite is coming in December](https://www.polygon.com/22639708/halo-infinite-release-date-editions-xbox-series-x-pc-game-pass)
- - [Halo Infinite's release date may have just leaked](https://www.pcgamer.com/halo-infinites-release-date-may-have-just-leaked)
- - [How to buy a graphics card – GPU stock updates and tips](https://www.pcgamer.com/where-to-buy-a-graphics-card)<!-- GAME:END -->
+ - [Inside Xbox Series X|S Optimized: Little Nightmares II](https://news.xbox.com/en-us/2021/08/25/inside-xbox-series-xs-optimized-little-nightmares-ii/)
+ - [Destiny 2: How to unlock the Lorentz Driver exotic linear fusion rifle](https://www.pcgamer.com/destiny-2-lorentz-driver-exotic)
+ - [Halo Infinite Release Date Leaks, Out In December](https://kotaku.com/halo-infinite-release-date-leaks-out-in-december-1847547355)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
