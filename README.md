@@ -193,9 +193,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Eye see you](http://9gag.com/gag/a8Eg0vd)
- - 🚯 [Jennifer Connelly turns 51 this year](http://9gag.com/gag/aAb92x0)
- - 🚯 [True enough.](http://9gag.com/gag/aqjEQ2Y)<!-- MEMES:END -->
+ - 🚖 [Couple fell in love with a wingless bumblebee](http://9gag.com/gag/a0736Vz)
+ - 🚯 [Boston Police trolling leftists with their sirens.](http://9gag.com/gag/axMrR9M)
+ - 🚯 [Lol dem crates tho](http://9gag.com/gag/arMLqE7)<!-- MEMES:END -->
 
 --- 
 
