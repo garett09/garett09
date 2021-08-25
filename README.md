@@ -186,9 +186,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple App Store loopholes endanger children, claims watchdog](https://appleinsider.com/articles/21/08/25/apple-app-store-loopholes-endanger-children-claims-watchdog?utm_medium=rss)
- - [Jane Technologies, which offers an online weed marketplace for consumers and builds e-commerce backends for cannabis dispensaries, raises $100M Series C (Matt Burns/TechCrunch)](http://www.techmeme.com/210825/p25#a210825p25)
- - [Apple celebrates 105 years of America's National Parks with content, donations](https://appleinsider.com/articles/21/08/25/apple-celebrates-105-years-of-americas-national-parks-with-content-donations?utm_medium=rss)<!-- TECH:END -->
+ - [Saints Row is getting a reboot that’ll be out in February 2022](https://www.theverge.com/2021/8/25/22640635/saints-row-reboot-ps4-ps5-xbox-one-series-x-s-pc-epic-games-store-launch-date)
+ - [Save $584 on the Dell XPS 13, and more of the best Dell laptop deals](https://www.androidauthority.com/dell-laptop-deals-1123801/)
+ - [No, Nirvana's 'Nevermind' baby won't trigger Apple's CSAM detection](https://appleinsider.com/articles/21/08/25/no-nirvanas-nevermind-baby-wont-trigger-apples-csam-detection?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
