@@ -186,9 +186,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple, Intel join lawsuit against Trump-era tariffs on Chinese goods](https://appleinsider.com/articles/21/08/25/apple-intel-join-lawsuit-against-trump-era-tariffs-on-chinese-goods?utm_medium=rss)
- - [Your smartphone might get ‘smart’ RAM soon](https://www.androidauthority.com/samsung-pim-ram-smart-2740551/)
- - [Samsung's Latest Folding Phones Finally Feel Ready](https://www.wired.com/review/samsung-galaxy-z-flip3-galaxy-z-fold3)<!-- TECH:END -->
+ - [In an abrupt reversal, OnlyFans suspends the October 1 policy change banning porn after securing "assurances" to support its creators (Sin&eacute;ad Baker/Insider)](http://www.techmeme.com/210825/p13#a210825p13)
+ - [Xiaomi reports Q2 revenue rose 64% YoY to $13.56B, as net income rose 80% YoY to $1.28B, and says it will buy autonomous driving startup Deepmotion for ~$77.3M (Manish Singh/TechCrunch)](http://www.techmeme.com/210825/p12#a210825p12)
+ - [Big Tech firms to announce new cybersecurity plans after Biden meeting](https://appleinsider.com/articles/21/08/25/big-tech-firms-to-announce-new-cybersecurity-plans-after-biden-meeting?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
