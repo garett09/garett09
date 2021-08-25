@@ -193,8 +193,8 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Racism in the nature](http://9gag.com/gag/axMrYYY)
- - 🚯 [Passing down my sweet memories to my children with love](http://9gag.com/gag/aB2e4WD)
+ - 🚖 [Mumble rap after removing the music and auto-tune](http://9gag.com/gag/ad8zoPB)
+ - 🚯 [Kids are just really expensive pets](http://9gag.com/gag/aK6MKeN)
  - 🚯 [Which look do you like more?](http://9gag.com/gag/aQoj2M7)<!-- MEMES:END -->
 
 --- 
