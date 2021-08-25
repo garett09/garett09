@@ -186,9 +186,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Luxshare posts big gains after Apple 'iPhone 13' order win](https://appleinsider.com/articles/21/08/25/luxshare-posts-big-gains-after-apple-iphone-13-order-win?utm_medium=rss)
  - [Joe Carroll added to cast of Apple TV+ original 'Five Days at Memorial'](https://appleinsider.com/articles/21/08/25/joe-carroll-added-to-cast-of-apple-tv-original-five-days-at-memorial?utm_medium=rss)
- - [Apple Watch potentially saved Boston man's life twice](https://appleinsider.com/articles/21/08/25/apple-watch-potentially-saved-boston-mans-life-twice?utm_medium=rss)
- - [Vietnam after-school learning startup Marathon raises $1.5M pre-seed round](http://feedproxy.google.com/~r/Techcrunch/~3/JJj9yh-fZJ8/)<!-- TECH:END -->
+ - [Apple Watch potentially saved Boston man's life twice](https://appleinsider.com/articles/21/08/25/apple-watch-potentially-saved-boston-mans-life-twice?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
