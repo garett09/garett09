@@ -179,9 +179,10 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Intel is building up its Xe-HPG GPU drivers to take on AMD and Nvidia at their own game](https://www.pcgamer.com/intel-xe-hpg-arc-gpu-overclocking-game-capture)
- - [A massive restock of Nvidia RTX 30-series GPUs is happening at Best Buy tomorrow](https://www.pcgamer.com/a-massive-restock-of-nvidia-rtx-30-series-gpus-is-happening-at-best-buy-tomorrow)
- - [Pokémon Kimono Are A Very Good Idea](https://kotaku.com/pokemon-kimono-are-a-very-good-idea-1847553363)<!-- GAME:END -->
+ - [How to buy a graphics card – GPU stock updates and tips](https://www.pcgamer.com/where-to-buy-a-graphics-card)
+ - [Destiny 2: Season of the Lost — How to get the Wayfinder's Compass
+Artifact](https://www.pcgamer.com/how-to-get-destiny-2-wayfinders-compass-artifact)
+ - [South Korea Abolishing Controversial Gaming Shutdown Law](https://kotaku.com/south-korea-abolishing-controversial-gaming-shutdown-la-1847553496)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
