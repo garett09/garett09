@@ -193,9 +193,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Andrew Garfield: Fnck this. I&#039;m moving to a new timeline](http://9gag.com/gag/axMrYEM)
- - 🚯 [The secret is out](http://9gag.com/gag/a9EGXW1)
- - 🚯 [Something is going wrong here&hellip;](http://9gag.com/gag/aDdvX5Z)<!-- MEMES:END -->
+ - 🚖 [Racism in the nature](http://9gag.com/gag/axMrYYY)
+ - 🚯 [It was at this moment, he realised......](http://9gag.com/gag/agBeE3g)
+ - 🚯 [Audacity of this man](http://9gag.com/gag/aqjEz3M)<!-- MEMES:END -->
 
 --- 
 
