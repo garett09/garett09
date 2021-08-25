@@ -193,8 +193,8 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hello Torrent, my old friend](http://9gag.com/gag/arMLx9K)
- - 🚯 [Eye see you](http://9gag.com/gag/a8Eg0vd)
+ - 🚖 [Eye see you](http://9gag.com/gag/a8Eg0vd)
+ - 🚯 [Jennifer Connelly turns 51 this year](http://9gag.com/gag/aAb92x0)
  - 🚯 [True enough.](http://9gag.com/gag/aqjEQ2Y)<!-- MEMES:END -->
 
 --- 
