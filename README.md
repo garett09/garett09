@@ -179,9 +179,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Splitgate’s new season has already started](https://www.polygon.com/22641940/splitgate-server-queue-new-patch-notes-season-0)
- - [Destiny 2’s Trials of Osiris mode is about to be a lot more accessible](https://www.polygon.com/22641976/destiny-2-trials-osiris-accessibility-matchmaking-reward-rework-upgarde)
- - [The best RAAL MG loadout for Warzone](https://www.pcgamer.com/best-warzone-raal-mg-loadout-class-setup)<!-- GAME:END -->
+ - [Developer Fixing Saints Row 2's Long-Lost PC Version Has Died](https://kotaku.com/developer-fixing-saints-row-2s-long-lost-pc-version-has-1847559526)
+ - [The first note in the Lord of the Rings score has an ancient history](https://www.polygon.com/lord-of-the-rings/22641074/lord-of-the-rings-music-instruments-soundtrack)
+ - [Game that looks like GTA: Babies baffles world with context-free Gamescom trailer](https://www.pcgamer.com/dokev-mmo-trailer)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
