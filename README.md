@@ -179,10 +179,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to buy a graphics card – GPU stock updates and tips](https://www.pcgamer.com/where-to-buy-a-graphics-card)
- - [Destiny 2: Season of the Lost — How to get the Wayfinder's Compass
-Artifact](https://www.pcgamer.com/how-to-get-destiny-2-wayfinders-compass-artifact)
- - [South Korea Abolishing Controversial Gaming Shutdown Law](https://kotaku.com/south-korea-abolishing-controversial-gaming-shutdown-la-1847553496)<!-- GAME:END -->
+ - [Halo Infinite is coming in December](https://www.polygon.com/22639708/halo-infinite-release-date-editions-xbox-series-x-pc-game-pass)
+ - [Halo Infinite's release date may have just leaked](https://www.pcgamer.com/halo-infinites-release-date-may-have-just-leaked)
+ - [How to buy a graphics card – GPU stock updates and tips](https://www.pcgamer.com/where-to-buy-a-graphics-card)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
