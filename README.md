@@ -186,9 +186,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Report: Microsoft to quadruple cybersecurity spending to $20B over five years, spend $150M to help federal, state, and local governments improve security (Todd Bishop/GeekWire)](http://www.techmeme.com/210825/p33#a210825p33)
- - [Salad chain Sweetgreen buys kitchen robotics startup Spyce](http://feedproxy.google.com/~r/Techcrunch/~3/2vfL5cg9PdA/)
- - [GAO: 19 of 24 US government agencies surveyed use facial recognition in some capacity; DoD and DHS both have in-house systems, while 4 had used Clearview AI (Russell Brandom/The Verge)](http://www.techmeme.com/210825/p32#a210825p32)<!-- TECH:END -->
+ - [Snowflake beats in Q2 with revenue of $272.2M, up 104% YoY, 4,990 total customers, up 60% YoY, and losses of $189.7M vs. $77.6M in Q2 2020 (Eric J. Savitz/Barron's Online)](http://www.techmeme.com/210825/p36#a210825p36)
+ - [Instagram’s improved search could help close the gap with TikTok](https://www.theverge.com/2021/8/25/22641598/instagram-photo-video-search-ranking-results)
+ - [Save 30% on Eero 6 router systems, and more wireless router deals](https://www.androidauthority.com/best-wireless-router-deals-1113654/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
