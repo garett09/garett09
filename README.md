@@ -186,9 +186,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Saints Row is getting a reboot that’ll be out in February 2022](https://www.theverge.com/2021/8/25/22640635/saints-row-reboot-ps4-ps5-xbox-one-series-x-s-pc-epic-games-store-launch-date)
- - [Save $584 on the Dell XPS 13, and more of the best Dell laptop deals](https://www.androidauthority.com/dell-laptop-deals-1123801/)
- - [No, Nirvana's 'Nevermind' baby won't trigger Apple's CSAM detection](https://appleinsider.com/articles/21/08/25/no-nirvanas-nevermind-baby-wont-trigger-apples-csam-detection?utm_medium=rss)<!-- TECH:END -->
+ - [Investigation finds underage users can easily evade age limits on ~80 apps on Apple's App Store, such as dating, sex, and gambling apps restricted to ages 17+ (Tech Transparency Project)](http://www.techmeme.com/210825/p28#a210825p28)
+ - [Apple App Store loopholes endanger children, claims watchdog](https://appleinsider.com/articles/21/08/25/apple-app-store-loopholes-endanger-children-claims-watchdog?utm_medium=rss)
+ - [Microsoft announces $549 Halo-themed Xbox Series X console](https://www.theverge.com/2021/8/25/22641632/microsoft-xbox-series-x-halo-console-elite-2-controller)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
