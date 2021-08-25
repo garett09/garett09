@@ -186,9 +186,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Interview with Discord CEO Jason Citron, who says user numbers doubled and revenue tripled to $130M in 2020, and Discord is developing its own in-house games (Hannah Murphy/Financial Times)](http://www.techmeme.com/210825/p2#a210825p2)
- - [Samsung Galaxy S22 series: All the rumors in one place](https://www.androidauthority.com/samsung-galaxy-s22-1643006/)
- - [WhatsApp could soon let you ‘react’ to messages with emojis](https://www.androidauthority.com/whatsapp-message-reactions-2739858/)<!-- TECH:END -->
+ - [Huawei could be thinking of a Galaxy S9-style adjustable aperture camera](https://www.androidauthority.com/huawei-variable-aperture-camera-patent-2739904/)
+ - [Black Theatre United releases industry-wide reforms for diversity on Broadway     - CNET](https://www.cnet.com/news/black-theatre-united-releases-industry-wide-reforms-for-diversity-on-broadway/#ftag=CAD590a51e)
+ - [What If…? episode 3 recap: Marvel heroes' careers are cut short by a mystery villain     - CNET](https://www.cnet.com/news/what-if-episode-3-recap-marvel-heroes-careers-are-cut-short-by-a-mystery-villain/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
