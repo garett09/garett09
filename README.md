@@ -193,8 +193,8 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Why R U Geh The Prequel](http://9gag.com/gag/amPZp24)
- - 🚯 [Racism in the nature](http://9gag.com/gag/axMrYYY)
+ - 🚖 [Racism in the nature](http://9gag.com/gag/axMrYYY)
+ - 🚯 [Passing down my sweet memories to my children with love](http://9gag.com/gag/aB2e4WD)
  - 🚯 [Which look do you like more?](http://9gag.com/gag/aQoj2M7)<!-- MEMES:END -->
 
 --- 
