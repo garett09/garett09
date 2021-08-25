@@ -186,9 +186,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple issues beta version of TestFlight for Mac to developers](https://appleinsider.com/articles/21/08/25/apple-issues-beta-version-of-testflight-for-mac-to-developers?utm_medium=rss)
  - [South Korea likely to pass prohibitive app store legislation on Wednesday, report says](https://appleinsider.com/articles/21/08/24/south-korea-likely-to-pass-prohibitive-app-store-legislation-on-wednesday-report-says?utm_medium=rss)
- - [Alaska Airlines flight evacuated after Samsung Galaxy smartphone combusts](https://appleinsider.com/articles/21/08/25/alaska-airlines-flight-evacuated-after-samsung-galaxy-smartphone-combusts?utm_medium=rss)
- - [Shield AI, which develops AI and self-driving tech for military and commercial aircraft, raises $210M as part of its Series D at a valuation of about $1.25B (Joshua Brustein/Bloomberg)](http://www.techmeme.com/210824/p37#a210824p37)<!-- TECH:END -->
+ - [Alaska Airlines flight evacuated after Samsung Galaxy smartphone combusts](https://appleinsider.com/articles/21/08/25/alaska-airlines-flight-evacuated-after-samsung-galaxy-smartphone-combusts?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
