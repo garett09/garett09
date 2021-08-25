@@ -179,9 +179,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Even in the Legendary Edition, Mass Effect 2 feels like a big step up](https://www.pcgamer.com/even-in-the-legendary-edition-mass-effect-2-feels-like-a-big-step-up)
- - [Mysterious And Super Rare Nintendo Game & Watch Discovered At Auction](https://kotaku.com/mysterious-and-super-rare-nintendo-game-watch-discove-1847551605)
- - [Hahaha Crusader Kings III Is Coming To Consoles](https://kotaku.com/hahaha-crusader-kings-iii-is-coming-to-consoles-1847551299)<!-- GAME:END -->
+ - [Into the Pit is a spellcasting FPS roguelite with lashings of Heretic and Bloodborne](https://www.pcgamer.com/into-the-pit-is-a-spellcasting-fps-roguelite-with-lashings-of-heretic-and-bloodborne)
+ - [How Psychonauts 2 Approaches Trauma, Therapy And Empathy](https://kotaku.com/how-psychonauts-2-approaches-trauma-therapy-and-empath-1847544623)
+ - [Even in the Legendary Edition, Mass Effect 2 feels like a big step up](https://www.pcgamer.com/even-in-the-legendary-edition-mass-effect-2-feels-like-a-big-step-up)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
