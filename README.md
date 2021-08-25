@@ -186,9 +186,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [You told us: Here’s how often you use split-view multitasking](https://www.androidauthority.com/split-view-multitasking-poll-results-2739901/)
- - [With investors like Lightspeed and The Chainsmokers, Mexican neobroker Flink raises $57M to boost financial inclusion in LatAm](http://feedproxy.google.com/~r/Techcrunch/~3/-lH4tR333Yg/)
- - [Bright raises $15M for its live video platform that lets you Zoom with top creators](http://feedproxy.google.com/~r/Techcrunch/~3/ik2zxyz9xNc/)<!-- TECH:END -->
+ - [Grocery delivery startup Membo is hungry to build a Europe-wide, local food producer network](http://feedproxy.google.com/~r/Techcrunch/~3/QBzGK9UxTSE/)
+ - [Klarna says losses in Q2 soared to $111M, up from $10M in Q2 2020, as credit defaults doubled, driven by an expansion in new markets (Richard Milne/Financial Times)](http://www.techmeme.com/210825/p24#a210825p24)
+ - [Apple testing new Face ID that works with masks, says leaker](https://appleinsider.com/articles/21/08/25/apple-testing-new-face-id-that-works-with-masks-says-leaker?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
