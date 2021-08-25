@@ -186,9 +186,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Luxshare posts big gains after Apple 'iPhone 13' order win](https://appleinsider.com/articles/21/08/25/luxshare-posts-big-gains-after-apple-iphone-13-order-win?utm_medium=rss)
- - [Joe Carroll added to cast of Apple TV+ original 'Five Days at Memorial'](https://appleinsider.com/articles/21/08/25/joe-carroll-added-to-cast-of-apple-tv-original-five-days-at-memorial?utm_medium=rss)
- - [Apple Watch potentially saved Boston man's life twice](https://appleinsider.com/articles/21/08/25/apple-watch-potentially-saved-boston-mans-life-twice?utm_medium=rss)<!-- TECH:END -->
+ - [Lenovo exec says Snapdragon 898 GPU will be greatly upgraded](https://www.androidauthority.com/lenovo-snapdragon-898-gpu-upgrade-2739854/)
+ - [YouTube enables picture-in-picture on iPhone for premium subscribers](https://appleinsider.com/articles/21/08/25/youtube-enables-picture-in-picture-on-iphone-for-premium-subscribers?utm_medium=rss)
+ - [A look at Vaccine Talk, a tightly moderated Facebook group for vaccine skeptics with ~70K members that aims to change their minds with evidence-based info (Washington Post)](http://www.techmeme.com/210825/p1#a210825p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
