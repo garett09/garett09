@@ -179,9 +179,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Hahaha Crusader Kings III Is Coming To Consoles](https://kotaku.com/hahaha-crusader-kings-iii-is-coming-to-consoles-1847551299)
- - [Crypto-hacker who stole $600 million finally gives the rest of it back](https://www.pcgamer.com/crypto-hacker-who-stole-dollar600-million-finally-gives-the-rest-of-it-back)
- - [California Accuses Activision Blizzard Of Shredding Abuse Evidence](https://kotaku.com/california-accuses-activision-blizzard-of-shredding-abu-1847550659)<!-- GAME:END -->
+ - [Even in the Legendary Edition, Mass Effect 2 feels like a big step up](https://www.pcgamer.com/even-in-the-legendary-edition-mass-effect-2-feels-like-a-big-step-up)
+ - [Mysterious And Super Rare Nintendo Game & Watch Discovered At Auction](https://kotaku.com/mysterious-and-super-rare-nintendo-game-watch-discove-1847551605)
+ - [Hahaha Crusader Kings III Is Coming To Consoles](https://kotaku.com/hahaha-crusader-kings-iii-is-coming-to-consoles-1847551299)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
