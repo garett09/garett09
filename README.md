@@ -186,9 +186,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Knoetic, which builds software for HR departments, comes out of stealth with $18M Series A led by Accel (Mary Ann Azevedo/TechCrunch)](http://www.techmeme.com/210825/p20#a210825p20)
- - [Fitbit Charge 5 features ECG, Stress Management features in a thinner design](https://appleinsider.com/articles/21/08/25/fitbit-charge-5-features-ecg-stress-management-features-in-a-thinner-design?utm_medium=rss)
- - [Mindset, an artist-driven mental wellness audio platform, raises a $8.7M  from Scooter Braun and others](http://feedproxy.google.com/~r/Techcrunch/~3/_feCd7_6D_E/)<!-- TECH:END -->
+ - [You told us: Here’s how often you use split-view multitasking](https://www.androidauthority.com/split-view-multitasking-poll-results-2739901/)
+ - [With investors like Lightspeed and The Chainsmokers, Mexican neobroker Flink raises $57M to boost financial inclusion in LatAm](http://feedproxy.google.com/~r/Techcrunch/~3/-lH4tR333Yg/)
+ - [Bright raises $15M for its live video platform that lets you Zoom with top creators](http://feedproxy.google.com/~r/Techcrunch/~3/ik2zxyz9xNc/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
