@@ -179,9 +179,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Amazon’s New World MMO open beta beginning in September](https://www.polygon.com/22641065/amazon-new-world-release-date-beta-start)
- - [Here’s everything new in Death Stranding’s Director’s Cut](https://www.polygon.com/22641342/death-stranding-directors-cut-gamescom-2021)
- - [Fall Guys gets a Disney’s The Jungle Book crossover early next month](https://www.polygon.com/22641707/fall-guys-disney-jungle-book-king-louie-baloo-mowgli-shere-khan-skin)<!-- GAME:END -->
+ - [Secrets of Magic is the biggest Pathfinder 2e book published this year](https://www.polygon.com/tabletop-games/22641809/pathfinder-secrets-of-magic-preview-release-date-price)
+ - [The Gates to Jurassic World Evolution 2 Open November 9 for Xbox One and Xbox Series X|S](https://news.xbox.com/en-us/2021/08/25/jurassic-world-evolution-2-november-9/)
+ - [Death Stranding Director's Cut looks mad as a hatter](https://www.pcgamer.com/death-stranding-directors-cut-looks-mad-as-a-hatter)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
