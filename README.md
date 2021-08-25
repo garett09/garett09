@@ -193,8 +193,8 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [To horny jail](http://9gag.com/gag/aDdvP19)
- - 🚯 [Vampire destroying the runway while taking off](http://9gag.com/gag/aNpbqev)
+ - 🚖 [People are pandemic!!](http://9gag.com/gag/a6ER8e8)
+ - 🚯 [To horny jail](http://9gag.com/gag/aDdvP19)
  - 🚯 [Which look do you like more?](http://9gag.com/gag/aQoj2M7)<!-- MEMES:END -->
 
 --- 
