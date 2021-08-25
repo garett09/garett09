@@ -193,9 +193,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What are your thoughts on this?](http://9gag.com/gag/agBe79r)
+ - 🚖 [Orcs then and now](http://9gag.com/gag/a8Eg0Oe)
  - 🚯 [Movie Gem of the day: Dredd. Simple, violent, and doesn&#039;t try to overreach. this movie is a lot of fun.](http://9gag.com/gag/a073n6d)
- - 🚯 [And how old are you !](http://9gag.com/gag/ayMK1jy)<!-- MEMES:END -->
+ - 🚯 [Yes](http://9gag.com/gag/anQoE95)<!-- MEMES:END -->
 
 --- 
 
