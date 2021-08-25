@@ -193,9 +193,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Is he right or wrong?](http://9gag.com/gag/aDdvQww)
+ - 🚖 [Why R U Geh The Prequel](http://9gag.com/gag/amPZp24)
  - 🚯 [Racism in the nature](http://9gag.com/gag/axMrYYY)
- - 🚯 [Origin of memes (Pt 1)](http://9gag.com/gag/a9EGO0L)<!-- MEMES:END -->
+ - 🚯 [Which look do you like more?](http://9gag.com/gag/aQoj2M7)<!-- MEMES:END -->
 
 --- 
 
