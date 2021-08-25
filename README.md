@@ -193,9 +193,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Yeah yeah yeah, we all know about the toe. But did you know that on set Viggo Mortensen went fishing between takes?](http://9gag.com/gag/aMKLX7M)
- - 🚯 [It was at this moment, he realised......](http://9gag.com/gag/agBeE3g)
- - 🚯 [Andrew Garfield: Fnck this. I&#039;m moving to a new timeline](http://9gag.com/gag/axMrYEM)<!-- MEMES:END -->
+ - 🚖 [Andrew Garfield: Fnck this. I&#039;m moving to a new timeline](http://9gag.com/gag/axMrYEM)
+ - 🚯 [The secret is out](http://9gag.com/gag/a9EGXW1)
+ - 🚯 [Something is going wrong here&hellip;](http://9gag.com/gag/aDdvX5Z)<!-- MEMES:END -->
 
 --- 
 
