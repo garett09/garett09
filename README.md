@@ -193,9 +193,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I think it is a good likeness.](http://9gag.com/gag/a073EQX)
- - 🚯 [What is motivation? (Grandpa wanting to lift dearest LOVE ONE)](http://9gag.com/gag/a1r6LAR)
- - 🚯 [Jennifer Connelly turns 51 this year](http://9gag.com/gag/aAb92x0)<!-- MEMES:END -->
+ - 🚖 [What is motivation? (Grandpa wanting to lift dearest LOVE ONE)](http://9gag.com/gag/a1r6LAR)
+ - 🚯 [I think it is a good likeness.](http://9gag.com/gag/a073EQX)
+ - 🚯 [Lol dem crates tho](http://9gag.com/gag/arMLqE7)<!-- MEMES:END -->
 
 --- 
 
