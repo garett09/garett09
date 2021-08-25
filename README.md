@@ -193,9 +193,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What is motivation? (Grandpa wanting to lift dearest LOVE ONE)](http://9gag.com/gag/a1r6LAR)
- - 🚯 [I think it is a good likeness.](http://9gag.com/gag/a073EQX)
- - 🚯 [Lol dem crates tho](http://9gag.com/gag/arMLqE7)<!-- MEMES:END -->
+ - 🚖 [Audacity of this man](http://9gag.com/gag/aqjEz3M)
+ - 🚯 [Yeah yeah yeah, we all know about the toe. But did you know that on set Viggo Mortensen went fishing between takes?](http://9gag.com/gag/aMKLX7M)
+ - 🚯 [Sacred Band of Thebes, 300 bc](http://9gag.com/gag/a8Egww6)<!-- MEMES:END -->
 
 --- 
 
