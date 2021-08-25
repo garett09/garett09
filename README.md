@@ -186,9 +186,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple, Google want White House to challenge South Korean legislation on app stores](https://appleinsider.com/articles/21/08/24/apple-google-want-white-house-to-challenge-south-korean-legislation-on-app-stores?utm_medium=rss)
- - [California expands lawsuit against Activision Blizzard to include temp workers and says the game maker interfered with investigation by shredding pertinent docs (Axios)](http://www.techmeme.com/210824/p36#a210824p36)
- - [FAA grants could clean up airport emissions](https://www.theverge.com/2021/8/24/22640039/faa-grants-airport-emissions-electric-vehicles)<!-- TECH:END -->
+ - [New developer allowances suggest imminent launch of TestFlight for macOS](https://appleinsider.com/articles/21/08/25/new-developer-allowances-suggest-imminent-launch-of-testflight-for-macos?utm_medium=rss)
+ - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
+ - [Marvel's What If...? release dates: When does episode 3 hit Disney Plus?     - CNET](https://www.cnet.com/news/marvels-what-if-release-dates-when-does-episode-3-hit-disney-plus/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
