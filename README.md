@@ -186,9 +186,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [New developer allowances suggest imminent launch of TestFlight for macOS [u]](https://appleinsider.com/articles/21/08/25/new-developer-allowances-suggest-imminent-launch-of-testflight-for-macos?utm_medium=rss)
- - [South Korea likely to pass prohibitive app store legislation on Wednesday, report says](https://appleinsider.com/articles/21/08/24/south-korea-likely-to-pass-prohibitive-app-store-legislation-on-wednesday-report-says?utm_medium=rss)
- - [Apple Watch potentially saved Boston man's life twice](https://appleinsider.com/articles/21/08/25/apple-watch-potentially-saved-boston-mans-life-twice?utm_medium=rss)<!-- TECH:END -->
+ - [Joe Carroll added to cast of Apple TV+ original 'Five Days at Memorial'](https://appleinsider.com/articles/21/08/25/joe-carroll-added-to-cast-of-apple-tv-original-five-days-at-memorial?utm_medium=rss)
+ - [Apple Watch potentially saved Boston man's life twice](https://appleinsider.com/articles/21/08/25/apple-watch-potentially-saved-boston-mans-life-twice?utm_medium=rss)
+ - [Vietnam after-school learning startup Marathon raises $1.5M pre-seed round](http://feedproxy.google.com/~r/Techcrunch/~3/JJj9yh-fZJ8/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
