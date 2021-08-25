@@ -167,11 +167,11 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#4](https://github.com/garett09/ICS2609-sourceCodes/issues/4) in [garett09/ICS2609-sourceCodes](https://github.com/garett09/ICS2609-sourceCodes)
-2. 💪 Opened PR [#8](https://github.com/garett09/ICS2609-sourceCodes/pull/8) in [garett09/ICS2609-sourceCodes](https://github.com/garett09/ICS2609-sourceCodes)
-3. ❗️ Opened issue [#7](https://github.com/garett09/ICS2609-sourceCodes/issues/7) in [garett09/ICS2609-sourceCodes](https://github.com/garett09/ICS2609-sourceCodes)
-4. ❗️ Opened issue [#6](https://github.com/garett09/ICS2609-sourceCodes/issues/6) in [garett09/ICS2609-sourceCodes](https://github.com/garett09/ICS2609-sourceCodes)
-5. ❗️ Opened issue [#5](https://github.com/garett09/ICS2609-sourceCodes/issues/5) in [garett09/ICS2609-sourceCodes](https://github.com/garett09/ICS2609-sourceCodes)
+1. 🎉 Merged PR [#11](https://github.com/garett09/myhub/pull/11) in [garett09/myhub](https://github.com/garett09/myhub)
+2. 💪 Opened PR [#11](https://github.com/garett09/myhub/pull/11) in [garett09/myhub](https://github.com/garett09/myhub)
+3. 🎉 Merged PR [#10](https://github.com/garett09/myhub/pull/10) in [garett09/myhub](https://github.com/garett09/myhub)
+4. ❗️ Closed issue [#4](https://github.com/garett09/ICS2609-sourceCodes/issues/4) in [garett09/ICS2609-sourceCodes](https://github.com/garett09/ICS2609-sourceCodes)
+5. 💪 Opened PR [#8](https://github.com/garett09/ICS2609-sourceCodes/pull/8) in [garett09/ICS2609-sourceCodes](https://github.com/garett09/ICS2609-sourceCodes)
 <!--END_SECTION:activity-->
 
 ---
