@@ -193,8 +193,8 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Mumble rap after removing the music and auto-tune](http://9gag.com/gag/ad8zoPB)
- - 🚯 [Kids are just really expensive pets](http://9gag.com/gag/aK6MKeN)
+ - 🚖 [Poland wants to erect a 2.50-meter-high fence on the border with its eastern neighbor because of migrants entering the country illegally via Belarus. Currently, 900 soldiers are deployed along the 418-kilometer border with Belarus.](http://9gag.com/gag/a6ERj1L)
+ - 🚯 [Anime characters screaming technique names IRL](http://9gag.com/gag/a9EGBDD)
  - 🚯 [Which look do you like more?](http://9gag.com/gag/aQoj2M7)<!-- MEMES:END -->
 
 --- 
