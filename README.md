@@ -179,9 +179,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dying Light 2: Everything we know about the next zombie parkour game](https://www.pcgamer.com/dying-light-2-release-date)
- - [Wasteland 3's final expansion is Cult of the Holy Detonation](https://www.pcgamer.com/wasteland-3s-final-expansion-is-cult-of-the-holy-detonation)
- - [Final Fantasy 4 pixel remaster gets a release date](https://www.pcgamer.com/final-fantasy-4-pixel-remaster-gets-a-release-date)<!-- GAME:END -->
+ - [Fortnite: Where to find books on explosions](https://www.pcgamer.com/fortnite-books-on-explosions)
+ - [Google has killed Discord's best music bot](https://www.pcgamer.com/google-has-killed-discords-best-music-bot)
+ - [Dying Light 2: Everything we know about the next zombie parkour game](https://www.pcgamer.com/dying-light-2-release-date)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
