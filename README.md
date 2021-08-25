@@ -186,9 +186,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [New developer allowances suggest imminent launch of TestFlight for macOS](https://appleinsider.com/articles/21/08/25/new-developer-allowances-suggest-imminent-launch-of-testflight-for-macos?utm_medium=rss)
- - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
- - [Marvel's What If...? release dates: When does episode 3 hit Disney Plus?     - CNET](https://www.cnet.com/news/marvels-what-if-release-dates-when-does-episode-3-hit-disney-plus/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [South Korea likely to pass prohibitive app store legislation on Wednesday, report says](https://appleinsider.com/articles/21/08/24/south-korea-likely-to-pass-prohibitive-app-store-legislation-on-wednesday-report-says?utm_medium=rss)
+ - [Alaska Airlines flight evacuated after Samsung Galaxy smartphone combusts](https://appleinsider.com/articles/21/08/25/alaska-airlines-flight-evacuated-after-samsung-galaxy-smartphone-combusts?utm_medium=rss)
+ - [Shield AI, which develops AI and self-driving tech for military and commercial aircraft, raises $210M as part of its Series D at a valuation of about $1.25B (Joshua Brustein/Bloomberg)](http://www.techmeme.com/210824/p37#a210824p37)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
