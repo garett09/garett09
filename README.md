@@ -186,9 +186,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Luxshare posts big gains after Apple 'iPhone 13' order win](https://appleinsider.com/articles/21/08/25/luxshare-posts-big-gains-after-apple-iphone-13-order-win?utm_medium=rss)
- - [Indian e-commerce logistics company Delhivery acquires Bengaluru-based Spoton Logistics, sources say for $300M in cash, ahead of a planned IPO (The Economic Times)](http://www.techmeme.com/210825/p9#a210825p9)
- - [Kuaishou reports $3B in Q2 revenue, up 48.8% YoY and beating estimates, as net loss reached $1B; Kuaishou's value has declined by $180B since its Feb. debut (Zheping Huang/Bloomberg)](http://www.techmeme.com/210825/p8#a210825p8)<!-- TECH:END -->
+ - [Apple, Intel join lawsuit against Trump-era tariffs on Chinese goods](https://appleinsider.com/articles/21/08/25/apple-intel-join-lawsuit-against-trump-era-tariffs-on-chinese-goods?utm_medium=rss)
+ - [Your smartphone might get ‘smart’ RAM soon](https://www.androidauthority.com/samsung-pim-ram-smart-2740551/)
+ - [Samsung's Latest Folding Phones Finally Feel Ready](https://www.wired.com/review/samsung-galaxy-z-flip3-galaxy-z-fold3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
