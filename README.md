@@ -186,9 +186,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Snowflake beats in Q2 with revenue of $272.2M, up 104% YoY, 4,990 total customers, up 60% YoY, and losses of $189.7M vs. $77.6M in Q2 2020 (Eric J. Savitz/Barron's Online)](http://www.techmeme.com/210825/p36#a210825p36)
- - [Instagram’s improved search could help close the gap with TikTok](https://www.theverge.com/2021/8/25/22641598/instagram-photo-video-search-ranking-results)
- - [Save 30% on Eero 6 router systems, and more wireless router deals](https://www.androidauthority.com/best-wireless-router-deals-1113654/)<!-- TECH:END -->
+ - [Apple to enhance security across supply chain following White House meeting](https://appleinsider.com/articles/21/08/25/apple-to-enhance-security-across-supply-chain-following-white-house-meeting?utm_medium=rss)
+ - [Microsoft’s Halo-themed Xbox Series X will be available for preorder Wednesday night at Walmart](https://www.theverge.com/2021/8/25/22641927/microsoft-halo-infinite-limited-edition-xbox-series-x-restock-available-buy-walmart)
+ - [Apple's iCloud Private Relay to launch as public beta feature](https://appleinsider.com/articles/21/08/25/apples-icloud-private-relay-to-launch-as-public-beta-feature?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
