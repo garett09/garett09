@@ -193,8 +193,8 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It was at this moment, he realised......](http://9gag.com/gag/agBeE3g)
- - 🚯 [Paralympic High Jump](http://9gag.com/gag/a3EOWg3)
+ - 🚖 [Is he right or wrong?](http://9gag.com/gag/aDdvQww)
+ - 🚯 [Racism in the nature](http://9gag.com/gag/axMrYYY)
  - 🚯 [Origin of memes (Pt 1)](http://9gag.com/gag/a9EGO0L)<!-- MEMES:END -->
 
 --- 
