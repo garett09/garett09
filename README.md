@@ -186,9 +186,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Huawei could be thinking of a Galaxy S9-style adjustable aperture camera](https://www.androidauthority.com/huawei-variable-aperture-camera-patent-2739904/)
- - [Black Theatre United releases industry-wide reforms for diversity on Broadway     - CNET](https://www.cnet.com/news/black-theatre-united-releases-industry-wide-reforms-for-diversity-on-broadway/#ftag=CAD590a51e)
- - [What If…? episode 3 recap: Marvel heroes' careers are cut short by a mystery villain     - CNET](https://www.cnet.com/news/what-if-episode-3-recap-marvel-heroes-careers-are-cut-short-by-a-mystery-villain/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [After being fired as co-head of Google's Ethical AI group, Margaret Mitchell will join Hugging Face, an AI startup that aims to make algorithms fair (Dina Bass/Bloomberg)](http://www.techmeme.com/210825/p4#a210825p4)
+ - [How Tim Cook reshaped Apple in his first decade as CEO](https://appleinsider.com/articles/21/08/24/how-tim-cook-reshaped-apple-in-his-first-decade-as-ceo?utm_medium=rss)
+ - [Vivo X70 Pro renders leak: Vivo’s camera-focused mid-ranger breaks cover](https://www.androidauthority.com/vivo-x70-pro-2739917/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
