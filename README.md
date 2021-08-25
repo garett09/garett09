@@ -179,9 +179,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Fortnite: Where to find books on explosions](https://www.pcgamer.com/fortnite-books-on-explosions)
- - [Google has killed Discord's best music bot](https://www.pcgamer.com/google-has-killed-discords-best-music-bot)
- - [Dying Light 2: Everything we know about the next zombie parkour game](https://www.pcgamer.com/dying-light-2-release-date)<!-- GAME:END -->
+ - [Intel is building up its Xe-HPG GPU drivers to take on AMD and Nvidia at their own game](https://www.pcgamer.com/intel-xe-hpg-arc-gpu-overclocking-game-capture)
+ - [A massive restock of Nvidia RTX 30-series GPUs is happening at Best Buy tomorrow](https://www.pcgamer.com/a-massive-restock-of-nvidia-rtx-30-series-gpus-is-happening-at-best-buy-tomorrow)
+ - [Pokémon Kimono Are A Very Good Idea](https://kotaku.com/pokemon-kimono-are-a-very-good-idea-1847553363)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
