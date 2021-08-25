@@ -179,9 +179,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Final Fantasy 4 pixel remaster gets a release date](https://www.pcgamer.com/final-fantasy-4-pixel-remaster-gets-a-release-date)
- - [Into the Pit is a spellcasting FPS roguelite with lashings of Heretic and Bloodborne](https://www.pcgamer.com/into-the-pit-is-a-spellcasting-fps-roguelite-with-lashings-of-heretic-and-bloodborne)
- - [How Psychonauts 2 Approaches Trauma, Therapy And Empathy](https://kotaku.com/how-psychonauts-2-approaches-trauma-therapy-and-empath-1847544623)<!-- GAME:END -->
+ - [Dying Light 2: Everything we know about the next zombie parkour game](https://www.pcgamer.com/dying-light-2-release-date)
+ - [Wasteland 3's final expansion is Cult of the Holy Detonation](https://www.pcgamer.com/wasteland-3s-final-expansion-is-cult-of-the-holy-detonation)
+ - [Final Fantasy 4 pixel remaster gets a release date](https://www.pcgamer.com/final-fantasy-4-pixel-remaster-gets-a-release-date)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
