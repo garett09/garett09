@@ -193,9 +193,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Couple fell in love with a wingless bumblebee](http://9gag.com/gag/a0736Vz)
+ - 🚖 [How to ask for a raise](http://9gag.com/gag/a1r62nG)
  - 🚯 [Boston Police trolling leftists with their sirens.](http://9gag.com/gag/axMrR9M)
- - 🚯 [Lol dem crates tho](http://9gag.com/gag/arMLqE7)<!-- MEMES:END -->
+ - 🚯 [And how old are you !](http://9gag.com/gag/ayMK1jy)<!-- MEMES:END -->
 
 --- 
 
