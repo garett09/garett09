@@ -186,9 +186,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Panasonic’s wearable gaming speaker will literally blow your mind, if I’m seeing this image right](https://www.theverge.com/tldr/2021/8/25/22641563/panasonic-soundslayer-wigss-wireless-gaming-speaker-sc-gn01-price-release-date-specs)
- - [LOVE unveils a modern video messaging app with a business model that puts users in control](http://feedproxy.google.com/~r/Techcrunch/~3/RbhjAGv1BjE/)
- - [Biden meets with CEOs from Apple, IBM, Alphabet, Amazon, and others to discuss cybersecurity, and says private sector must do more to protect infrastructure (Washington Post)](http://www.techmeme.com/210825/p31#a210825p31)<!-- TECH:END -->
+ - [Report: Microsoft to quadruple cybersecurity spending to $20B over five years, spend $150M to help federal, state, and local governments improve security (Todd Bishop/GeekWire)](http://www.techmeme.com/210825/p33#a210825p33)
+ - [Salad chain Sweetgreen buys kitchen robotics startup Spyce](http://feedproxy.google.com/~r/Techcrunch/~3/2vfL5cg9PdA/)
+ - [GAO: 19 of 24 US government agencies surveyed use facial recognition in some capacity; DoD and DHS both have in-house systems, while 4 had used Clearview AI (Russell Brandom/The Verge)](http://www.techmeme.com/210825/p32#a210825p32)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
