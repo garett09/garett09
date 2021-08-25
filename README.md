@@ -193,9 +193,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [And how old are you !](http://9gag.com/gag/ayMK1jy)
- - 🚯 [Boston Police trolling leftists with their sirens.](http://9gag.com/gag/axMrR9M)
- - 🚯 [Jet ski fun](http://9gag.com/gag/aO3W9g3)<!-- MEMES:END -->
+ - 🚖 [I think it is a good likeness.](http://9gag.com/gag/a073EQX)
+ - 🚯 [What is motivation? (Grandpa wanting to lift dearest LOVE ONE)](http://9gag.com/gag/a1r6LAR)
+ - 🚯 [Jennifer Connelly turns 51 this year](http://9gag.com/gag/aAb92x0)<!-- MEMES:END -->
 
 --- 
 
