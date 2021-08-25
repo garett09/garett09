@@ -186,9 +186,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cribl, which helps companies monitor and analyze data created by their infrastructure, raises $200M Series C, source says at a $1.5B valuation (Christine Hall/TechCrunch)](http://www.techmeme.com/210825/p17#a210825p17)
- - [Discord valued at $15B after Microsoft deal collapse](https://appleinsider.com/articles/21/08/25/discord-valued-at-15b-after-microsoft-deal-collapse?utm_medium=rss)
- - [Fitbit announces Charge 5 with a rounded design, a larger and brighter color AMOLED display, GPS, and more, arriving in the fall for $179.95 (Jay Peters/The Verge)](http://www.techmeme.com/210825/p16#a210825p16)<!-- TECH:END -->
+ - [Knoetic, which builds software for HR departments, comes out of stealth with $18M Series A led by Accel (Mary Ann Azevedo/TechCrunch)](http://www.techmeme.com/210825/p20#a210825p20)
+ - [Fitbit Charge 5 features ECG, Stress Management features in a thinner design](https://appleinsider.com/articles/21/08/25/fitbit-charge-5-features-ecg-stress-management-features-in-a-thinner-design?utm_medium=rss)
+ - [Mindset, an artist-driven mental wellness audio platform, raises a $8.7M  from Scooter Braun and others](http://feedproxy.google.com/~r/Techcrunch/~3/_feCd7_6D_E/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
