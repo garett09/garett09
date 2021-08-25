@@ -179,9 +179,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [13 Years Later, Fan Gets Tricky Zelda Record In Smash Bros.](https://kotaku.com/13-years-later-fan-gets-tricky-zelda-record-in-smash-b-1847556212)
- - [What If...? blows up a very nerdy bit of Marvel movie trivia](https://www.polygon.com/2021/8/25/22641157/what-if-episode-3-nick-fury-big-week-marvel-timeline)
- - [Neverwinter: Jewel of the North is Available Now](https://news.xbox.com/en-us/2021/08/25/neverwinter-jewel-of-the-north-is-available-now/)<!-- GAME:END -->
+ - [All the news from Gamescom 2021: Opening Night Live](https://www.polygon.com/22641516/gamescom-2021-opening-night-live-stream-news-geoff-keighley)
+ - [Saints Row returns with a reboot in February 2022](https://www.polygon.com/22641585/saints-row-reboot-release-dates-gamescom-trailer-pc-xbox-series-x-ps5)
+ - [Marvel’s Midnight Suns is the next game from the XCOM team](https://www.polygon.com/22641096/marvels-midnight-suns-is-the-next-game-from-the-xcom-team)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
