@@ -186,9 +186,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple issues beta version of TestFlight for Mac to developers](https://appleinsider.com/articles/21/08/25/apple-issues-beta-version-of-testflight-for-mac-to-developers?utm_medium=rss)
+ - [New developer allowances suggest imminent launch of TestFlight for macOS [u]](https://appleinsider.com/articles/21/08/25/new-developer-allowances-suggest-imminent-launch-of-testflight-for-macos?utm_medium=rss)
  - [South Korea likely to pass prohibitive app store legislation on Wednesday, report says](https://appleinsider.com/articles/21/08/24/south-korea-likely-to-pass-prohibitive-app-store-legislation-on-wednesday-report-says?utm_medium=rss)
- - [Alaska Airlines flight evacuated after Samsung Galaxy smartphone combusts](https://appleinsider.com/articles/21/08/25/alaska-airlines-flight-evacuated-after-samsung-galaxy-smartphone-combusts?utm_medium=rss)<!-- TECH:END -->
+ - [Apple Watch potentially saved Boston man's life twice](https://appleinsider.com/articles/21/08/25/apple-watch-potentially-saved-boston-mans-life-twice?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
