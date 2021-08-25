@@ -186,9 +186,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Investigation finds underage users can easily evade age limits on ~80 apps on Apple's App Store, such as dating, sex, and gambling apps restricted to ages 17+ (Tech Transparency Project)](http://www.techmeme.com/210825/p28#a210825p28)
- - [Apple App Store loopholes endanger children, claims watchdog](https://appleinsider.com/articles/21/08/25/apple-app-store-loopholes-endanger-children-claims-watchdog?utm_medium=rss)
- - [Microsoft announces $549 Halo-themed Xbox Series X console](https://www.theverge.com/2021/8/25/22641632/microsoft-xbox-series-x-halo-console-elite-2-controller)<!-- TECH:END -->
+ - [Panasonic’s wearable gaming speaker will literally blow your mind, if I’m seeing this image right](https://www.theverge.com/tldr/2021/8/25/22641563/panasonic-soundslayer-wigss-wireless-gaming-speaker-sc-gn01-price-release-date-specs)
+ - [LOVE unveils a modern video messaging app with a business model that puts users in control](http://feedproxy.google.com/~r/Techcrunch/~3/RbhjAGv1BjE/)
+ - [Biden meets with CEOs from Apple, IBM, Alphabet, Amazon, and others to discuss cybersecurity, and says private sector must do more to protect infrastructure (Washington Post)](http://www.techmeme.com/210825/p31#a210825p31)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
