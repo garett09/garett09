@@ -186,9 +186,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lenovo exec says Snapdragon 898 GPU will be greatly upgraded](https://www.androidauthority.com/lenovo-snapdragon-898-gpu-upgrade-2739854/)
- - [YouTube enables picture-in-picture on iPhone for premium subscribers](https://appleinsider.com/articles/21/08/25/youtube-enables-picture-in-picture-on-iphone-for-premium-subscribers?utm_medium=rss)
- - [A look at Vaccine Talk, a tightly moderated Facebook group for vaccine skeptics with ~70K members that aims to change their minds with evidence-based info (Washington Post)](http://www.techmeme.com/210825/p1#a210825p1)<!-- TECH:END -->
+ - [Interview with Discord CEO Jason Citron, who says user numbers doubled and revenue tripled to $130M in 2020, and Discord is developing its own in-house games (Hannah Murphy/Financial Times)](http://www.techmeme.com/210825/p2#a210825p2)
+ - [Samsung Galaxy S22 series: All the rumors in one place](https://www.androidauthority.com/samsung-galaxy-s22-1643006/)
+ - [WhatsApp could soon let you ‘react’ to messages with emojis](https://www.androidauthority.com/whatsapp-message-reactions-2739858/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
