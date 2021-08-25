@@ -186,9 +186,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Grocery delivery startup Membo is hungry to build a Europe-wide, local food producer network](http://feedproxy.google.com/~r/Techcrunch/~3/QBzGK9UxTSE/)
- - [Klarna says losses in Q2 soared to $111M, up from $10M in Q2 2020, as credit defaults doubled, driven by an expansion in new markets (Richard Milne/Financial Times)](http://www.techmeme.com/210825/p24#a210825p24)
- - [Apple testing new Face ID that works with masks, says leaker](https://appleinsider.com/articles/21/08/25/apple-testing-new-face-id-that-works-with-masks-says-leaker?utm_medium=rss)<!-- TECH:END -->
+ - [Apple App Store loopholes endanger children, claims watchdog](https://appleinsider.com/articles/21/08/25/apple-app-store-loopholes-endanger-children-claims-watchdog?utm_medium=rss)
+ - [Jane Technologies, which offers an online weed marketplace for consumers and builds e-commerce backends for cannabis dispensaries, raises $100M Series C (Matt Burns/TechCrunch)](http://www.techmeme.com/210825/p25#a210825p25)
+ - [Apple celebrates 105 years of America's National Parks with content, donations](https://appleinsider.com/articles/21/08/25/apple-celebrates-105-years-of-americas-national-parks-with-content-donations?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
