@@ -179,9 +179,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [All the news from Gamescom 2021: Opening Night Live](https://www.polygon.com/22641516/gamescom-2021-opening-night-live-stream-news-geoff-keighley)
- - [Saints Row returns with a reboot in February 2022](https://www.polygon.com/22641585/saints-row-reboot-release-dates-gamescom-trailer-pc-xbox-series-x-ps5)
- - [Marvel’s Midnight Suns is the next game from the XCOM team](https://www.polygon.com/22641096/marvels-midnight-suns-is-the-next-game-from-the-xcom-team)<!-- GAME:END -->
+ - [Jurassic World Evolution 2 launches November 9, 2021](http://feedproxy.google.com/~r/PSBlog/~3/-oqEvVM7Ees/)
+ - [Jurassic World Evolution 2 launches November 9, 2021](https://blog.playstation.com/2021/08/25/jurassic-world-evolution-2-launches-november-9-2021/)
+ - [April O’Neil will kick ass in the new Ninja Turtles beat-’em-up](https://www.polygon.com/22641646/tmnt-shredders-revenge-april-o-neil-ninja-turtles)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
