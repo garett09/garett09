@@ -186,9 +186,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [After being fired as co-head of Google's Ethical AI group, Margaret Mitchell will join Hugging Face, an AI startup that aims to make algorithms fair (Dina Bass/Bloomberg)](http://www.techmeme.com/210825/p4#a210825p4)
- - [How Tim Cook reshaped Apple in his first decade as CEO](https://appleinsider.com/articles/21/08/24/how-tim-cook-reshaped-apple-in-his-first-decade-as-ceo?utm_medium=rss)
- - [Vivo X70 Pro renders leak: Vivo’s camera-focused mid-ranger breaks cover](https://www.androidauthority.com/vivo-x70-pro-2739917/)<!-- TECH:END -->
+ - [Luxshare posts big gains after Apple 'iPhone 13' order win](https://appleinsider.com/articles/21/08/25/luxshare-posts-big-gains-after-apple-iphone-13-order-win?utm_medium=rss)
+ - [Indian e-commerce logistics company Delhivery acquires Bengaluru-based Spoton Logistics, sources say for $300M in cash, ahead of a planned IPO (The Economic Times)](http://www.techmeme.com/210825/p9#a210825p9)
+ - [Kuaishou reports $3B in Q2 revenue, up 48.8% YoY and beating estimates, as net loss reached $1B; Kuaishou's value has declined by $180B since its Feb. debut (Zheping Huang/Bloomberg)](http://www.techmeme.com/210825/p8#a210825p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
