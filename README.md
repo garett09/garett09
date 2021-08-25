@@ -193,8 +193,8 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [F**k that stupid baby](http://9gag.com/gag/aGpQbm5)
- - 🚯 [Rabbit and the Turtle: The untold story](http://9gag.com/gag/azM3YWm)
+ - 🚖 [To horny jail](http://9gag.com/gag/aDdvP19)
+ - 🚯 [Vampire destroying the runway while taking off](http://9gag.com/gag/aNpbqev)
  - 🚯 [Which look do you like more?](http://9gag.com/gag/aQoj2M7)<!-- MEMES:END -->
 
 --- 
