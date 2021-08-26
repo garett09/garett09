@@ -179,9 +179,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Developer Fixing Saints Row 2's Long-Lost PC Version Has Died](https://kotaku.com/developer-fixing-saints-row-2s-long-lost-pc-version-has-1847559526)
- - [The first note in the Lord of the Rings score has an ancient history](https://www.polygon.com/lord-of-the-rings/22641074/lord-of-the-rings-music-instruments-soundtrack)
- - [Game that looks like GTA: Babies baffles world with context-free Gamescom trailer](https://www.pcgamer.com/dokev-mmo-trailer)<!-- GAME:END -->
+ - [I Really Like The New Halo Controller](https://kotaku.com/i-really-like-the-new-halo-controller-1847559855)
+ - [Here are the Marvel heroes who'll be in Midnight Suns](https://www.pcgamer.com/midnight-suns-heroes-marvel)
+ - [Hellish pixel platformer Valfaris goes 2.5D in forthcoming sequel](https://www.pcgamer.com/hellish-pixel-platformer-valfaris-goes-25d-in-forthcoming-sequel)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
