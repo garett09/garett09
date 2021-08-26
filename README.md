@@ -186,9 +186,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Researchers say YouTube, which attracts less scrutiny than Facebook or Twitter, is a hard platform to study because video is so difficult to analyze in bulk (Will Oremus/Washington Post)](http://www.techmeme.com/210826/p6#a210826p6)
- - [Apple's 'iPhone 13' expected to launch with much higher prices](https://appleinsider.com/articles/21/08/26/apples-iphone-13-expected-to-launch-with-significantly-higher-prices?utm_medium=rss)
- - [New leak supports claims of 45mm 'Apple Watch Series 7'](https://appleinsider.com/articles/21/08/26/new-leak-supports-claims-of-45mm-apple-watch-series-7?utm_medium=rss)<!-- TECH:END -->
+ - [Celebrate Jeff Bezos’ big day out to space with a $69 miniature dick rocket](https://www.theverge.com/tldr/2021/8/26/22642560/blue-origins-new-shephard-model-rocket-estes)
+ - [Samsung Galaxy Watch 4 vs Galaxy Watch 3: What are the differences?](https://www.androidauthority.com/samsung-galaxy-watch-4-vs-galaxy-watch-3-2731869/)
+ - [The Poop About Your Gut Health and Personalized Nutrition](https://www.wired.com/story/gut-health-personalized-nutrition)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
