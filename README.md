@@ -179,9 +179,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Saints Row III Remastered Is Free Right Now](https://kotaku.com/saints-row-iii-remastered-is-free-right-now-1847562043)
- - [Exploring a bizarre alien world with a spry spaceship in Jett: The Far Shore](https://www.pcgamer.com/exploring-a-bizarre-alien-world-with-a-spry-spaceship-in-jett-the-far-shore)
- - [Sizing up the 10 most popular things on Netflix right now](https://www.polygon.com/2020/3/10/21167710/10-netflix-movies-shows-most-popular)<!-- GAME:END -->
+ - [Celebrating MLK: TIME Studios presents March Through Time in Fortnite](http://feedproxy.google.com/~r/PSBlog/~3/7KJqCacIHkg/)
+ - [Celebrating MLK: TIME Studios presents March Through Time in Fortnite](https://blog.playstation.com/2021/08/26/celebrating-mlk-time-studios-presents-march-through-time-in-fortnite/)
+ - [Deathloop defies comparison in wonderful ways](https://www.polygon.com/22641627/deathloop-impressions-preview-ps5-bethesda-arkane)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
