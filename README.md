@@ -194,8 +194,8 @@ Linux                    51 mins             █░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 🚖 [Meme](http://9gag.com/gag/aDdvNnw)
- - 🚯 [Stop posting about this shithead John China.](http://9gag.com/gag/anQodo0)
- - 🚯 [Bryan Cranston imitating kevin hart](http://9gag.com/gag/aZ0YV6X)<!-- MEMES:END -->
+ - 🚯 [Classics](http://9gag.com/gag/aDdvNKx)
+ - 🚯 [Bear won&#039;t leave the man who saved it from a fire](http://9gag.com/gag/a9EGZLZ)<!-- MEMES:END -->
 
 --- 
 
