@@ -186,9 +186,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A history of Google's messaging apps and how a lack of any kind of top-down messaging leadership has led to a decade and a half of failed messaging platforms (Ron Amadeo/Ars Technica)](http://www.techmeme.com/210826/p2#a210826p2)
- - [Jolla hits profitability ahead of turning ten, eyes growth beyond mobile](http://feedproxy.google.com/~r/Techcrunch/~3/0WZ_BhMISk8/)
- - [OnePlus Nord N10 gains August security patch](https://www.androidauthority.com/oneplus-nord-n10-n100-update-1174495/)<!-- TECH:END -->
+ - [A look at farmer-specific e-commerce and food distribution services, including GrazeCart, Farmdrop, Farmigo, and GrownBy, which took off during the pandemic (Alexandra Marvar/The Verge)](http://www.techmeme.com/210826/p3#a210826p3)
+ - [Mental health startup Intellect gets $2.2M to expand across Asia](http://feedproxy.google.com/~r/Techcrunch/~3/IwDgCiVSeWs/)
+ - [Google Pixel 6: Everything we know so far (August 26)](https://www.androidauthority.com/google-pixel-6-1207778/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
