@@ -186,9 +186,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Is it OK to leave your Mac always on, or plugged in all the time? It's complicated](https://appleinsider.com/articles/21/08/26/is-it-ok-to-leave-your-mac-always-on-or-plugged-in-all-the-time-its-complicated?utm_medium=rss)
- - [Nuro is building a factory and test track in Nevada for its autonomous delivery robots](https://www.theverge.com/2021/8/26/22642846/nuro-autonomous-delivery-factory-test-track-nevada)
- - [Google Sheets’ formula suggestions are like autofill for math](https://www.theverge.com/2021/8/26/22642192/google-sheets-intelligent-formula-functions-spreadsheet-context-aware-math)<!-- TECH:END -->
+ - [Workstream, which helps SMBs hire frontline and deskless workers by using text messages, raises $48M Series B co-led by Mary Meeker's BOND and Coatue (Natasha Mascarenhas/TechCrunch)](http://www.techmeme.com/210826/p28#a210826p28)
+ - [Blizzard to change name of Overwatch’s McCree following sexual harassment lawsuit](https://www.theverge.com/2021/8/26/22638947/blizzard-overwatch-mccree-name-change-lawsuit)
+ - [Apple AirTag gets new firmware update](https://appleinsider.com/articles/21/08/26/apple-airtag-gets-new-firmware-update?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
