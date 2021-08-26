@@ -193,9 +193,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Bryan Cranston imitating kevin hart](http://9gag.com/gag/aZ0YV6X)
- - 🚯 [Yuck](http://9gag.com/gag/aeABdqW)
- - 🚯 [Which look do you like more?](http://9gag.com/gag/aQoj2M7)<!-- MEMES:END -->
+ - 🚖 [Meme](http://9gag.com/gag/aDdvNnw)
+ - 🚯 [Stop posting about this shithead John China.](http://9gag.com/gag/anQodo0)
+ - 🚯 [Bryan Cranston imitating kevin hart](http://9gag.com/gag/aZ0YV6X)<!-- MEMES:END -->
 
 --- 
 
