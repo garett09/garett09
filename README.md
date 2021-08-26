@@ -186,9 +186,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at farmer-specific e-commerce and food distribution services, including GrazeCart, Farmdrop, Farmigo, and GrownBy, which took off during the pandemic (Alexandra Marvar/The Verge)](http://www.techmeme.com/210826/p3#a210826p3)
- - [Mental health startup Intellect gets $2.2M to expand across Asia](http://feedproxy.google.com/~r/Techcrunch/~3/IwDgCiVSeWs/)
- - [Google Pixel 6: Everything we know so far (August 26)](https://www.androidauthority.com/google-pixel-6-1207778/)<!-- TECH:END -->
+ - [PawaPay raises $9M seed backed by MSA, 88mph and Mr Eazi’s Zagadat Capital](http://feedproxy.google.com/~r/Techcrunch/~3/WMQn6E-YPNc/)
+ - [Barclaycard & Experian offering months of free Apple Music, Apple Arcade, more](https://appleinsider.com/articles/21/08/25/barclaycard-experian-offering-months-of-free-apple-music-apple-arcade-more?utm_medium=rss)
+ - [Xiaomi makes product splash in India with Mi Band 6, Mi TV 5X, and more](https://www.androidauthority.com/xiaomi-mi-band-6-mi-tv-5x-mi-notebook-ultra-india-launch-2741169/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
