@@ -193,9 +193,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Pench tiger reserve, INDIA. A 16 km long elevated highway solely dedicated to wildlife movement underneath](http://9gag.com/gag/a4E0BKm)
- - 🚯 [Classics](http://9gag.com/gag/aDdvNKx)
- - 🚯 [2 year difference, 78lbs to go till goal weight.](http://9gag.com/gag/av5j4Xq)<!-- MEMES:END -->
+ - 🚖 [2 year difference, 78lbs to go till goal weight.](http://9gag.com/gag/av5j4Xq)
+ - 🚯 [I know right](http://9gag.com/gag/av5jBrE)
+ - 🚯 [Cheating?...Where?](http://9gag.com/gag/ajm4GRw)<!-- MEMES:END -->
 
 --- 
 
