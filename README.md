@@ -179,9 +179,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Celebrating MLK: TIME Studios presents March Through Time in Fortnite](http://feedproxy.google.com/~r/PSBlog/~3/7KJqCacIHkg/)
- - [Celebrating MLK: TIME Studios presents March Through Time in Fortnite](https://blog.playstation.com/2021/08/26/celebrating-mlk-time-studios-presents-march-through-time-in-fortnite/)
- - [Deathloop defies comparison in wonderful ways](https://www.polygon.com/22641627/deathloop-impressions-preview-ps5-bethesda-arkane)<!-- GAME:END -->
+ - [Genndy Tartakovsky says Primal season 2 will defy the action genre](https://www.polygon.com/interviews/22642789/primal-season-2-genndy-tartakovsky-animation-emmys)
+ - [Netflix begins testing mobile games with two Stranger Things titles](https://www.polygon.com/22642823/netflix-gaming-stranger-things-android)
+ - [New Games with Gold for September 2021](https://news.xbox.com/en-us/2021/08/26/new-games-with-gold-for-september-2021/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
