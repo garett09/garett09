@@ -193,9 +193,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Cheating?...Where?](http://9gag.com/gag/ajm4GRw)
- - 🚯 [I know right](http://9gag.com/gag/av5jBrE)
- - 🚯 [The coldest city on this planet](http://9gag.com/gag/av5j4NM)<!-- MEMES:END -->
+ - 🚖 [I know right](http://9gag.com/gag/av5jBrE)
+ - 🚯 [The coldest city on this planet](http://9gag.com/gag/av5j4NM)
+ - 🚯 [Something strange...](http://9gag.com/gag/aRXp84B)<!-- MEMES:END -->
 
 --- 
 
