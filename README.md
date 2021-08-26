@@ -188,7 +188,7 @@ Linux                    51 mins             █░░░░░░░░░░�
 <!-- TECH:START -->
  - [PawaPay raises $9M seed backed by MSA, 88mph and Mr Eazi’s Zagadat Capital](http://feedproxy.google.com/~r/Techcrunch/~3/WMQn6E-YPNc/)
  - [Barclaycard & Experian offering months of free Apple Music, Apple Arcade, more](https://appleinsider.com/articles/21/08/25/barclaycard-experian-offering-months-of-free-apple-music-apple-arcade-more?utm_medium=rss)
- - [Xiaomi makes product splash in India with Mi Band 6, Mi TV 5X, and more](https://www.androidauthority.com/xiaomi-mi-band-6-mi-tv-5x-mi-notebook-ultra-india-launch-2741169/)<!-- TECH:END -->
+ - [Xiaomi’s latest product splash includes new smart TVs, laptops, and even shoes](https://www.androidauthority.com/xiaomi-mi-band-6-mi-tv-5x-mi-notebook-ultra-india-launch-2741169/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
