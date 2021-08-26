@@ -179,9 +179,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Saints Row: The Third Remastered is free on the Epic Games Store](https://www.pcgamer.com/saints-row-the-third-remastered-is-free-on-the-epic-games-store)
- - [Saints Row modder and Volition community developer Mike Watson, aka IdolNinja, has died](https://www.pcgamer.com/saints-row-modder-and-volition-community-developer-mike-watson-aka-idolninja-has-died)
- - [I Really Like The New Halo Controller](https://kotaku.com/i-really-like-the-new-halo-controller-1847559855)<!-- GAME:END -->
+ - [Townscaper's seaside dioramas make for adorable 3D prints](https://www.pcgamer.com/townscapers-seaside-dioramas-make-for-adorable-3d-prints)
+ - [NES And SNES Designer Lance Barr Is Retiring From Nintendo](https://kotaku.com/nes-and-snes-designer-lance-barr-is-retiring-from-ninte-1847561525)
+ - [Discord shoots for $15bn value as social media exodus continues](https://www.pcgamer.com/discord-worth-value-funding-sony-console)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
