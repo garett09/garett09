@@ -179,9 +179,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Townscaper's seaside dioramas make for adorable 3D prints](https://www.pcgamer.com/townscapers-seaside-dioramas-make-for-adorable-3d-prints)
- - [NES And SNES Designer Lance Barr Is Retiring From Nintendo](https://kotaku.com/nes-and-snes-designer-lance-barr-is-retiring-from-ninte-1847561525)
- - [Discord shoots for $15bn value as social media exodus continues](https://www.pcgamer.com/discord-worth-value-funding-sony-console)<!-- GAME:END -->
+ - [This liquid cooler's CPU block is also a 1440p monitor with its own HDMI input](https://www.pcgamer.com/this-liquid-coolers-cpu-block-is-also-a-1440p-monitor-with-its-own-hdmi-input)
+ - ['Maybe' Nvidia will release a GeForce GPU that's faster than the RTX 3090 this year, leaks suggest](https://www.pcgamer.com/nvidia-rtx-3090-super-rumour)
+ - [The best builds for Barbara in Genshin Impact](https://www.pcgamer.com/best-genshin-impact-barbara-build)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
