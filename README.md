@@ -179,9 +179,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Saints Row modder and Volition community developer Mike Watson, aka IdolNinja, has died](https://www.pcgamer.com/saints-row-modder-and-volition-community-developer-mike-watson-aka-idolninja-has-died)
  - [I Really Like The New Halo Controller](https://kotaku.com/i-really-like-the-new-halo-controller-1847559855)
- - [Here are the Marvel heroes who'll be in Midnight Suns](https://www.pcgamer.com/midnight-suns-heroes-marvel)
- - [Hellish pixel platformer Valfaris goes 2.5D in forthcoming sequel](https://www.pcgamer.com/hellish-pixel-platformer-valfaris-goes-25d-in-forthcoming-sequel)<!-- GAME:END -->
+ - [Here are the Marvel heroes who'll be in Midnight Suns](https://www.pcgamer.com/midnight-suns-heroes-marvel)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
