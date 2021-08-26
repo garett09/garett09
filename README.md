@@ -179,9 +179,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dying Light Is Coming To Switch, Which...Hmm](https://kotaku.com/dying-light-is-coming-to-switch-which-hmm-1847566379)
- - [New Overwatch deathmatch map takes players to Italy](https://www.polygon.com/22588719/overwatch-deathmatch-ffa-map-malevento-announced-ptr-testing)
- - [Nobody Saves the World Launching Early 2022 with Online Co-op](https://news.xbox.com/en-us/2021/08/26/nobody-saves-the-world-launching-early-2022-with-online-co-op/)<!-- GAME:END -->
+ - [Blasphemous Sequel News Already Has Me Shook](https://kotaku.com/blasphemous-sequel-news-already-has-me-shook-1847566927)
+ - [Super Animal Royale 1.0 is Out Now with Pets, Power-ups, Season One, and More](https://news.xbox.com/en-us/2021/08/26/super-animal-royale-is-out-now/)
+ - [Cute voxel 'fishing RPG' Moonglow Bay is coming soon](https://www.pcgamer.com/moonglow-bay-release-date-announced)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
