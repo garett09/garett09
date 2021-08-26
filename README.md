@@ -194,8 +194,8 @@ Linux                    51 mins             █░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 🚖 [Pench tiger reserve, INDIA. A 16 km long elevated highway solely dedicated to wildlife movement underneath](http://9gag.com/gag/a4E0BKm)
- - 🚯 [Top Gear #15](http://9gag.com/gag/abV8Kxp)
- - 🚯 [Pepsi](http://9gag.com/gag/a8EgQ0O)<!-- MEMES:END -->
+ - 🚯 [Classics](http://9gag.com/gag/aDdvNKx)
+ - 🚯 [2 year difference, 78lbs to go till goal weight.](http://9gag.com/gag/av5j4Xq)<!-- MEMES:END -->
 
 --- 
 
