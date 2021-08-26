@@ -193,9 +193,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Cheeky greedy fuc*ker](http://9gag.com/gag/av5jD9M)
- - 🚯 [How dare you?!](http://9gag.com/gag/aRXp9V7)
- - 🚯 [Top Gear #15](http://9gag.com/gag/abV8Kxp)<!-- MEMES:END -->
+ - 🚖 [Pench tiger reserve, INDIA. A 16 km long elevated highway solely dedicated to wildlife movement underneath](http://9gag.com/gag/a4E0BKm)
+ - 🚯 [Top Gear #15](http://9gag.com/gag/abV8Kxp)
+ - 🚯 [Pepsi](http://9gag.com/gag/a8EgQ0O)<!-- MEMES:END -->
 
 --- 
 
