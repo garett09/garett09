@@ -186,9 +186,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone users drawn to iPad but not Mac or Apple's home devices, study finds](https://appleinsider.com/articles/21/08/26/iphone-users-drawn-to-ipad-but-not-mac-or-apples-home-devices-study-finds?utm_medium=rss)
- - [Microsoft has promoted Chief Product Officer Panos Panay to executive vice president role and has added him to its senior leadership team (Dina Bass/Bloomberg)](http://www.techmeme.com/210825/p42#a210825p42)
- - [All 5 (or 6) villains teased in the Spider-Man: No Way Home trailer     - CNET](https://www.cnet.com/news/all-5-or-6-villains-teased-in-the-spider-man-no-way-home-trailer/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Adam Mosseri says Instagram plans to more prominently feature photos and videos in search results in the future along with traditional accounts and hashtags (Ian Carlos Campbell/The Verge)](http://www.techmeme.com/210825/p44#a210825p44)
+ - [Apple TV+ promo dives into 'Truth Be Told' season two](https://appleinsider.com/articles/21/08/26/apple-tv-promo-dives-into-truth-be-told-season-two?utm_medium=rss)
+ - [Trove, which helps build online resale marketplaces for brands like Lululemon and Patagonia, raises $77.5M Series D, bringing its total funding to $122.5M (Matthew Townsend/Bloomberg)](http://www.techmeme.com/210825/p43#a210825p43)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
