@@ -186,9 +186,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I Expect You To Die 2 is the most fun I’ve had solving puzzles this year](https://www.theverge.com/2021/8/26/22641497/i-expect-you-to-die-2-schell-games-oculus-quest-steamvr-playstation-vr-review)
- - [Does the Fitbit Charge 5 use the same charger as the Fitbit Charge 4?](https://www.androidauthority.com/fitbit-charge-5-charger-2739836/)
- - [Q&A with John Binns, a 21-year-old American living in Turkey, who claims responsibility for the recent T-Mobile hack and says its security is "awful" (Wall Street Journal)](http://www.techmeme.com/210826/p18#a210826p18)<!-- TECH:END -->
+ - [What are the iOS permissions that your favorite apps don't need? Jamf knows.](https://appleinsider.com/articles/21/08/26/what-are-the-ios-permissions-that-your-favorite-apps-dont-need-jamf-knows?utm_medium=rss)
+ - [Airbnb to allow anyone, not only current hosts, to sign up to house Afghan refugees](http://feedproxy.google.com/~r/Techcrunch/~3/QSMqPqtIj6Y/)
+ - [Google confirms it’s pulling the plug on Streams, its UK clinician support app](http://feedproxy.google.com/~r/Techcrunch/~3/5IGWfkoruyc/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
