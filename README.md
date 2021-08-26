@@ -193,9 +193,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Dennis Quaid meltdown](http://9gag.com/gag/a1r684R)
- - 🚯 [This is what you get on a airplane](http://9gag.com/gag/a9EGw66)
- - 🚯 [Absolutely haram](http://9gag.com/gag/azM3vyx)<!-- MEMES:END -->
+ - 🚖 [Finnish culture](http://9gag.com/gag/ajm4j1g)
+ - 🚯 [The solution](http://9gag.com/gag/amPZQnV)
+ - 🚯 [What sports is this?](http://9gag.com/gag/a9EGejm)<!-- MEMES:END -->
 
 --- 
 
