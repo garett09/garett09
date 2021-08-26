@@ -186,9 +186,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple to enhance security across supply chain following White House meeting](https://appleinsider.com/articles/21/08/25/apple-to-enhance-security-across-supply-chain-following-white-house-meeting?utm_medium=rss)
- - [Microsoft’s Halo-themed Xbox Series X will be available for preorder Wednesday night at Walmart](https://www.theverge.com/2021/8/25/22641927/microsoft-halo-infinite-limited-edition-xbox-series-x-restock-available-buy-walmart)
- - [Apple's iCloud Private Relay to launch as public beta feature](https://appleinsider.com/articles/21/08/25/apples-icloud-private-relay-to-launch-as-public-beta-feature?utm_medium=rss)<!-- TECH:END -->
+ - [Pokemon Go is increasing interaction distances again after fan outcry     - CNET](https://www.cnet.com/news/pokemon-go-is-permanently-increasing-interaction-distances-after-fan-outcry/#ftag=CAD590a51e)
+ - [Newly published regulatory docs show Facebook's smart glasses are called Gemini, run on customized Android, and use the same camera sensor as the Oculus Quest 2 (Janko Roettgers/Protocol)](http://www.techmeme.com/210825/p41#a210825p41)
+ - [Tony Hawk's blood was infused into 100 limited-edition skateboards     - CNET](https://www.cnet.com/news/tony-hawks-blood-was-infused-into-100-limited-edition-skateboards/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
