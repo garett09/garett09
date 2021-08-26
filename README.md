@@ -179,9 +179,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best builds for Keqing in Genshin Impact](https://www.pcgamer.com/best-genshin-impact-keqing-build)
- - [Free Play Days – Battlefield V, Assetto Corsa Competizione, and The Elder Scrolls Online: Tamriel Unlimited](https://news.xbox.com/en-us/2021/08/26/free-play-days-battlefield-5-assetto-corsa-competizione-elder-scrolls-online/)
- - [Fortnite’s MLK event is a weird way to hear the ‘I Have a Dream’ speech](https://www.polygon.com/fortnite/22642844/fortnite-mlk-march-through-time-event)<!-- GAME:END -->
+ - [NASCAR’s newest game pretties up with Unreal Engine 4](https://www.polygon.com/22643082/nascar-21-ignition-developer-diary-video-cars-tracks-physics-unreal)
+ - [Spelunky and Spelunky 2 are even better on Switch](https://www.polygon.com/reviews/22642885/spelunky-2-nintendo-switch-review)
+ - [I'm pretty sure people would buy Corsair's gigantic joke cooling fan](https://www.pcgamer.com/im-pretty-sure-people-would-buy-corsairs-gigantic-joke-cooling-fan)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
