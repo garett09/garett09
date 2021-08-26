@@ -193,9 +193,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [2 year difference, 78lbs to go till goal weight.](http://9gag.com/gag/av5j4Xq)
+ - 🚖 [Cheating?...Where?](http://9gag.com/gag/ajm4GRw)
  - 🚯 [I know right](http://9gag.com/gag/av5jBrE)
- - 🚯 [Cheating?...Where?](http://9gag.com/gag/ajm4GRw)<!-- MEMES:END -->
+ - 🚯 [The coldest city on this planet](http://9gag.com/gag/av5j4NM)<!-- MEMES:END -->
 
 --- 
 
