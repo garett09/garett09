@@ -193,9 +193,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Brandy or Whisky](http://9gag.com/gag/aB2eM8A)
- - 🚯 [Dennis Quaid meltdown](http://9gag.com/gag/a1r684R)
- - 🚯 [Something strange...](http://9gag.com/gag/aRXp84B)<!-- MEMES:END -->
+ - 🚖 [Something strange...](http://9gag.com/gag/aRXp84B)
+ - 🚯 [Finnish culture](http://9gag.com/gag/ajm4j1g)
+ - 🚯 [All shapes](http://9gag.com/gag/awMpDnB)<!-- MEMES:END -->
 
 --- 
 
