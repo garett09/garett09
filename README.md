@@ -193,9 +193,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Meme](http://9gag.com/gag/aDdvNnw)
- - 🚯 [Classics](http://9gag.com/gag/aDdvNKx)
- - 🚯 [Bear won&#039;t leave the man who saved it from a fire](http://9gag.com/gag/a9EGZLZ)<!-- MEMES:END -->
+ - 🚖 [Cat](http://9gag.com/gag/aqjEpZY)
+ - 🚯 [Pepsi](http://9gag.com/gag/a8EgQ0O)
+ - 🚯 [Free gas bloat in a steer.](http://9gag.com/gag/aAb9m4d)<!-- MEMES:END -->
 
 --- 
 
