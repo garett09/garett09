@@ -186,9 +186,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Adam Mosseri says Instagram plans to more prominently feature photos and videos in search results in the future along with traditional accounts and hashtags (Ian Carlos Campbell/The Verge)](http://www.techmeme.com/210825/p44#a210825p44)
- - [Apple TV+ promo dives into 'Truth Be Told' season two](https://appleinsider.com/articles/21/08/26/apple-tv-promo-dives-into-truth-be-told-season-two?utm_medium=rss)
- - [Trove, which helps build online resale marketplaces for brands like Lululemon and Patagonia, raises $77.5M Series D, bringing its total funding to $122.5M (Matthew Townsend/Bloomberg)](http://www.techmeme.com/210825/p43#a210825p43)<!-- TECH:END -->
+ - [Edward Snowden calls Apple CSAM plans 'disaster-in-the-making'](https://appleinsider.com/articles/21/08/26/edward-snowden-calls-apple-csam-plans-disaster-in-the-making?utm_medium=rss)
+ - [Alphabet's Wing nears 100K drone deliveries two years after Logan, Australia launch; the drones fly up to six miles and deliver items weighing up to 3 pounds (Brian Heater/TechCrunch)](http://www.techmeme.com/210825/p45#a210825p45)
+ - [Adam Mosseri says Instagram plans to more prominently feature photos and videos in search results in the future along with traditional accounts and hashtags (Ian Carlos Campbell/The Verge)](http://www.techmeme.com/210825/p44#a210825p44)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
