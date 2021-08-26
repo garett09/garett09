@@ -186,9 +186,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Celebrate Jeff Bezos’ big day out to space with a $69 miniature dick rocket](https://www.theverge.com/tldr/2021/8/26/22642560/blue-origins-new-shephard-model-rocket-estes)
- - [Samsung Galaxy Watch 4 vs Galaxy Watch 3: What are the differences?](https://www.androidauthority.com/samsung-galaxy-watch-4-vs-galaxy-watch-3-2731869/)
- - [The Poop About Your Gut Health and Personalized Nutrition](https://www.wired.com/story/gut-health-personalized-nutrition)<!-- TECH:END -->
+ - [Sources: TSMC plans to increase prices by ~10% for advanced chips and ~20% for less advanced chips, starting later this year or early next (Wall Street Journal)](http://www.techmeme.com/210826/p16#a210826p16)
+ - [A look at China's evolving approach to state-sponsored hacking, which borrows from Russia and Iran and increasingly relies on private sector hackers (New York Times)](http://www.techmeme.com/210826/p15#a210826p15)
+ - [Samsung's Galaxy Buds2 Are Perfect Everyday Earbuds](https://www.wired.com/review/samsung-galaxy-buds2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
