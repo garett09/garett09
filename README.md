@@ -186,9 +186,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [PawaPay, a UK-based company offering payment services in 10 African countries, raises $9M in seed funding co-led by 88mph and MSA Capital (Tage Kene-Okafor/TechCrunch)](http://www.techmeme.com/210826/p26#a210826p26)
- - [Netflix games are just Play Store games, but only available through Netflix app](https://www.androidauthority.com/netflix-games-testing-2741472/)
- - [Panasonic photoshopped a white man’s head onto a Black man’s body](https://www.theverge.com/22642035/panasonic-photoshopped-white-head-black-body-photo-picture-gaming-speaker)<!-- TECH:END -->
+ - [Is it OK to leave your Mac always on, or plugged in all the time? It's complicated](https://appleinsider.com/articles/21/08/26/is-it-ok-to-leave-your-mac-always-on-or-plugged-in-all-the-time-its-complicated?utm_medium=rss)
+ - [Nuro is building a factory and test track in Nevada for its autonomous delivery robots](https://www.theverge.com/2021/8/26/22642846/nuro-autonomous-delivery-factory-test-track-nevada)
+ - [Google Sheets’ formula suggestions are like autofill for math](https://www.theverge.com/2021/8/26/22642192/google-sheets-intelligent-formula-functions-spreadsheet-context-aware-math)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
