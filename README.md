@@ -179,9 +179,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Skate 4 will launch on PC](https://www.polygon.com/22643229/skate-4-pc-version-confirmed)
- - [Bravely Default II Gets PC Port In September](https://kotaku.com/bravely-default-ii-gets-pc-port-in-september-1847564984)
- - [You can now watch tons of Pokemon episodes on your Switch](https://www.polygon.com/pokemon/22643167/pokemon-tv-app-switch-download-anime-episodes)<!-- GAME:END -->
+ - [Skate reboot is confirmed for PC](https://www.pcgamer.com/skate-reboot-is-confirmed-for-pc)
+ - [Celebrating MLK: TIME Studios Presents March Through Time in Fortnite](https://news.xbox.com/en-us/2021/08/26/time-studios-march-through-time-in-fortnite/)
+ - [Blizzard Is Changing McCree's Name In Overwatch Amid Lawsuit](https://kotaku.com/blizzard-is-changing-mccrees-name-in-overwatch-amid-law-1847565597)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
