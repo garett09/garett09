@@ -193,9 +193,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Bear won&#039;t leave the man who saved it from a fire](http://9gag.com/gag/a9EGZLZ)
+ - 🚖 [Cheeky greedy fuc*ker](http://9gag.com/gag/av5jD9M)
  - 🚯 [How dare you?!](http://9gag.com/gag/aRXp9V7)
- - 🚯 [2 year difference, 78lbs to go till goal weight.](http://9gag.com/gag/av5j4Xq)<!-- MEMES:END -->
+ - 🚯 [Top Gear #15](http://9gag.com/gag/abV8Kxp)<!-- MEMES:END -->
 
 --- 
 
