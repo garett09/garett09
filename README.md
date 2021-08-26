@@ -186,9 +186,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tim Cook about to get $750 million Apple stock payday](https://appleinsider.com/articles/21/08/26/tim-cook-about-to-get-750-million-apple-stock-payday?utm_medium=rss)
- - [Twitter starts to roll out paid Ticketed Spaces on iOS](http://feedproxy.google.com/~r/Techcrunch/~3/TVxXltAVdO0/)
- - [Zendesk acquires AI automation startup Cleverly to advance customer service](http://feedproxy.google.com/~r/Techcrunch/~3/cXKB_ma1Bc0/)<!-- TECH:END -->
+ - [Daily Crunch: Copenhagen-based Leapwork lands $62M Series B co-led by KKR and Salesforce Ventures](http://feedproxy.google.com/~r/Techcrunch/~3/za2Y0NzMt9s/)
+ - [Politico sells, Forbes SPACs, and Vice cuts](http://feedproxy.google.com/~r/Techcrunch/~3/_P1dJLJrRVg/)
+ - [VMware reports Q2 revenue of $3.14B, up 9% YoY, vs estimates of $3.1B, Subscription and Saas revenue of $776M, up 23% YoY, is on track for Dell spin-off in Nov. (Stephanie Condon/ZDNet)](http://www.techmeme.com/210826/p33#a210826p33)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
