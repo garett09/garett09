@@ -186,9 +186,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [PawaPay raises $9M seed backed by MSA, 88mph and Mr Eazi’s Zagadat Capital](http://feedproxy.google.com/~r/Techcrunch/~3/WMQn6E-YPNc/)
- - [Barclaycard & Experian offering months of free Apple Music, Apple Arcade, more](https://appleinsider.com/articles/21/08/25/barclaycard-experian-offering-months-of-free-apple-music-apple-arcade-more?utm_medium=rss)
- - [Xiaomi’s latest product splash includes new smart TVs, laptops, and even shoes](https://www.androidauthority.com/xiaomi-mi-band-6-mi-tv-5x-mi-notebook-ultra-india-launch-2741169/)<!-- TECH:END -->
+ - [Researchers say YouTube, which attracts less scrutiny than Facebook or Twitter, is a hard platform to study because video is so difficult to analyze in bulk (Will Oremus/Washington Post)](http://www.techmeme.com/210826/p6#a210826p6)
+ - [Apple's 'iPhone 13' expected to launch with much higher prices](https://appleinsider.com/articles/21/08/26/apples-iphone-13-expected-to-launch-with-significantly-higher-prices?utm_medium=rss)
+ - [New leak supports claims of 45mm 'Apple Watch Series 7'](https://appleinsider.com/articles/21/08/26/new-leak-supports-claims-of-45mm-apple-watch-series-7?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
