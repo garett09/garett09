@@ -186,9 +186,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [What are the iOS permissions that your favorite apps don't need? Jamf knows.](https://appleinsider.com/articles/21/08/26/what-are-the-ios-permissions-that-your-favorite-apps-dont-need-jamf-knows?utm_medium=rss)
- - [Airbnb to allow anyone, not only current hosts, to sign up to house Afghan refugees](http://feedproxy.google.com/~r/Techcrunch/~3/QSMqPqtIj6Y/)
- - [Google confirms it’s pulling the plug on Streams, its UK clinician support app](http://feedproxy.google.com/~r/Techcrunch/~3/5IGWfkoruyc/)<!-- TECH:END -->
+ - [Apple highlights biotech, VC firms aided by Racial Equity and Justice Initiative](https://appleinsider.com/articles/21/08/26/apple-highlights-biotech-vc-firms-aided-by-racial-equity-and-justice-initiative?utm_medium=rss)
+ - [Otter.ai expands automatic transcription assistant to Microsoft Teams, Google Meet and Cisco Webex](http://feedproxy.google.com/~r/Techcrunch/~3/A9LvBRB_1CE/)
+ - [Snap updates Snapchat's Scan feature, turning it into a visual search engine that identifies many things in the real world, like clothes or dog breeds (Alex Heath/The Verge)](http://www.techmeme.com/210826/p25#a210826p25)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
