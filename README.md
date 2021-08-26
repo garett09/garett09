@@ -179,9 +179,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [NASCAR’s newest game pretties up with Unreal Engine 4](https://www.polygon.com/22643082/nascar-21-ignition-developer-diary-video-cars-tracks-physics-unreal)
- - [Spelunky and Spelunky 2 are even better on Switch](https://www.polygon.com/reviews/22642885/spelunky-2-nintendo-switch-review)
- - [I'm pretty sure people would buy Corsair's gigantic joke cooling fan](https://www.pcgamer.com/im-pretty-sure-people-would-buy-corsairs-gigantic-joke-cooling-fan)<!-- GAME:END -->
+ - [Skate 4 will launch on PC](https://www.polygon.com/22643229/skate-4-pc-version-confirmed)
+ - [Bravely Default II Gets PC Port In September](https://kotaku.com/bravely-default-ii-gets-pc-port-in-september-1847564984)
+ - [You can now watch tons of Pokemon episodes on your Switch](https://www.polygon.com/pokemon/22643167/pokemon-tv-app-switch-download-anime-episodes)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
