@@ -193,9 +193,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Something strange...](http://9gag.com/gag/aRXp84B)
- - 🚯 [Finnish culture](http://9gag.com/gag/ajm4j1g)
- - 🚯 [All shapes](http://9gag.com/gag/awMpDnB)<!-- MEMES:END -->
+ - 🚖 [Total Confusion](http://9gag.com/gag/aEp4bMx)
+ - 🚯 [All shapes](http://9gag.com/gag/awMpDnB)
+ - 🚯 [Brandy or Whisky](http://9gag.com/gag/aB2eM8A)<!-- MEMES:END -->
 
 --- 
 
