@@ -194,7 +194,7 @@ Linux                    51 mins             █░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 🚖 [Anime characters screaming technique names IRL](http://9gag.com/gag/a9EGBDD)
- - 🚯 [Yuck](http://9gag.com/gag/aeABdqW)
+ - 🚯 [To horny jail](http://9gag.com/gag/aDdvP19)
  - 🚯 [Which look do you like more?](http://9gag.com/gag/aQoj2M7)<!-- MEMES:END -->
 
 --- 
