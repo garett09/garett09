@@ -193,9 +193,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What sports is this?](http://9gag.com/gag/a9EGejm)
- - 🚯 [That&#039;s why there are weight classes](http://9gag.com/gag/aEp45DM)
- - 🚯 [Now this is a real sport](http://9gag.com/gag/aO3WEqE)<!-- MEMES:END -->
+ - 🚖 [This is what you get on a airplane](http://9gag.com/gag/a9EGw66)
+ - 🚯 [This game was launched in 1999 feeling old yet?](http://9gag.com/gag/aWjXy02)
+ - 🚯 [Dance](http://9gag.com/gag/azM3zGq)<!-- MEMES:END -->
 
 --- 
 
