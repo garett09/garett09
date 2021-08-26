@@ -193,9 +193,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Tsunami in Greenland](http://9gag.com/gag/ayMKwz8)
- - 🚯 [This game was launched in 1999 feeling old yet?](http://9gag.com/gag/aWjXy02)
- - 🚯 [Dance](http://9gag.com/gag/azM3zGq)<!-- MEMES:END -->
+ - 🚖 [Tell him you&rsquo;re white](http://9gag.com/gag/aB2eewZ)
+ - 🚯 [Give me my beer](http://9gag.com/gag/aGpQv07)
+ - 🚯 [You already know what&#039;s going to happen.](http://9gag.com/gag/aDdvv0Z)<!-- MEMES:END -->
 
 --- 
 
