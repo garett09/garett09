@@ -179,9 +179,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Skate reboot is confirmed for PC](https://www.pcgamer.com/skate-reboot-is-confirmed-for-pc)
- - [Celebrating MLK: TIME Studios Presents March Through Time in Fortnite](https://news.xbox.com/en-us/2021/08/26/time-studios-march-through-time-in-fortnite/)
- - [Blizzard Is Changing McCree's Name In Overwatch Amid Lawsuit](https://kotaku.com/blizzard-is-changing-mccrees-name-in-overwatch-amid-law-1847565597)<!-- GAME:END -->
+ - [Dying Light Is Coming To Switch, Which...Hmm](https://kotaku.com/dying-light-is-coming-to-switch-which-hmm-1847566379)
+ - [New Overwatch deathmatch map takes players to Italy](https://www.polygon.com/22588719/overwatch-deathmatch-ffa-map-malevento-announced-ptr-testing)
+ - [Nobody Saves the World Launching Early 2022 with Online Co-op](https://news.xbox.com/en-us/2021/08/26/nobody-saves-the-world-launching-early-2022-with-online-co-op/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
