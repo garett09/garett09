@@ -193,8 +193,8 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Anime characters screaming technique names IRL](http://9gag.com/gag/a9EGBDD)
- - 🚯 [To horny jail](http://9gag.com/gag/aDdvP19)
+ - 🚖 [Bryan Cranston imitating kevin hart](http://9gag.com/gag/aZ0YV6X)
+ - 🚯 [Yuck](http://9gag.com/gag/aeABdqW)
  - 🚯 [Which look do you like more?](http://9gag.com/gag/aQoj2M7)<!-- MEMES:END -->
 
 --- 
