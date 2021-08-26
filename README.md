@@ -193,9 +193,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Give me my beer](http://9gag.com/gag/aGpQv07)
- - 🚯 [This game was launched in 1999 feeling old yet?](http://9gag.com/gag/aWjXy02)
- - 🚯 [Now this is a real sport](http://9gag.com/gag/aO3WEqE)<!-- MEMES:END -->
+ - 🚖 [Dennis Quaid meltdown](http://9gag.com/gag/a1r684R)
+ - 🚯 [This is what you get on a airplane](http://9gag.com/gag/a9EGw66)
+ - 🚯 [Absolutely haram](http://9gag.com/gag/azM3vyx)<!-- MEMES:END -->
 
 --- 
 
