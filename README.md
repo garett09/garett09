@@ -179,9 +179,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This liquid cooler's CPU block is also a 1440p monitor with its own HDMI input](https://www.pcgamer.com/this-liquid-coolers-cpu-block-is-also-a-1440p-monitor-with-its-own-hdmi-input)
- - ['Maybe' Nvidia will release a GeForce GPU that's faster than the RTX 3090 this year, leaks suggest](https://www.pcgamer.com/nvidia-rtx-3090-super-rumour)
- - [The best builds for Barbara in Genshin Impact](https://www.pcgamer.com/best-genshin-impact-barbara-build)<!-- GAME:END -->
+ - [Saints Row III Remastered Is Free Right Now](https://kotaku.com/saints-row-iii-remastered-is-free-right-now-1847562043)
+ - [Exploring a bizarre alien world with a spry spaceship in Jett: The Far Shore](https://www.pcgamer.com/exploring-a-bizarre-alien-world-with-a-spry-spaceship-in-jett-the-far-shore)
+ - [Sizing up the 10 most popular things on Netflix right now](https://www.polygon.com/2020/3/10/21167710/10-netflix-movies-shows-most-popular)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
