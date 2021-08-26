@@ -193,9 +193,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ooh, self burn those are rare](http://9gag.com/gag/axMrKAD)
- - 🚯 [What sports is this?](http://9gag.com/gag/a9EGejm)
- - 🚯 [Crackead white trash uk gets put down by one armed worker.](http://9gag.com/gag/arMLEd6)<!-- MEMES:END -->
+ - 🚖 [What sports is this?](http://9gag.com/gag/a9EGejm)
+ - 🚯 [That&#039;s why there are weight classes](http://9gag.com/gag/aEp45DM)
+ - 🚯 [Now this is a real sport](http://9gag.com/gag/aO3WEqE)<!-- MEMES:END -->
 
 --- 
 
