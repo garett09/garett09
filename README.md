@@ -186,9 +186,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Workstream, which helps SMBs hire frontline and deskless workers by using text messages, raises $48M Series B co-led by Mary Meeker's BOND and Coatue (Natasha Mascarenhas/TechCrunch)](http://www.techmeme.com/210826/p28#a210826p28)
- - [Blizzard to change name of Overwatch’s McCree following sexual harassment lawsuit](https://www.theverge.com/2021/8/26/22638947/blizzard-overwatch-mccree-name-change-lawsuit)
- - [Apple AirTag gets new firmware update](https://appleinsider.com/articles/21/08/26/apple-airtag-gets-new-firmware-update?utm_medium=rss)<!-- TECH:END -->
+ - [Boox tablets are welcome options in the growing oversize e-reader niche](http://feedproxy.google.com/~r/Techcrunch/~3/BFvAFnKOpPI/)
+ - [Streamlabs launches monthly tipping service as an alternative to Twitch subscriptions](https://www.theverge.com/2021/8/26/22643160/streamlabs-monthly-tipping-subscription-twitch-zero-fees)
+ - [After community backlash, Pokémon Go reinstates a COVID safety and accessibility feature](http://feedproxy.google.com/~r/Techcrunch/~3/V7CKGm2gQQA/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
