@@ -186,9 +186,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: TSMC plans to increase prices by ~10% for advanced chips and ~20% for less advanced chips, starting later this year or early next (Wall Street Journal)](http://www.techmeme.com/210826/p16#a210826p16)
- - [A look at China's evolving approach to state-sponsored hacking, which borrows from Russia and Iran and increasingly relies on private sector hackers (New York Times)](http://www.techmeme.com/210826/p15#a210826p15)
- - [Samsung's Galaxy Buds2 Are Perfect Everyday Earbuds](https://www.wired.com/review/samsung-galaxy-buds2)<!-- TECH:END -->
+ - [Palantir glitch allegedly granted some FBI staff unauthorized access to a crypto hacker’s data](http://feedproxy.google.com/~r/Techcrunch/~3/sUDbSgR-Aos/)
+ - [Long-Term Stock Exchange, a Silicon Valley-based rival to NYSE, says Twilio and Asana will list their shares Thursday, the first companies to do so (Katherine Doherty/Bloomberg)](http://www.techmeme.com/210826/p17#a210826p17)
+ - [Porsche expands online marketplace to include US inventory of new cars](http://feedproxy.google.com/~r/Techcrunch/~3/4xjtywNfsls/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
