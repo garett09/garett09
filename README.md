@@ -193,9 +193,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Finnish culture](http://9gag.com/gag/ajm4j1g)
- - 🚯 [The solution](http://9gag.com/gag/amPZQnV)
- - 🚯 [What sports is this?](http://9gag.com/gag/a9EGejm)<!-- MEMES:END -->
+ - 🚖 [Ooh, self burn those are rare](http://9gag.com/gag/axMrKAD)
+ - 🚯 [What sports is this?](http://9gag.com/gag/a9EGejm)
+ - 🚯 [Crackead white trash uk gets put down by one armed worker.](http://9gag.com/gag/arMLEd6)<!-- MEMES:END -->
 
 --- 
 
