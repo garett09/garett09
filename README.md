@@ -193,9 +193,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Total Confusion](http://9gag.com/gag/aEp4bMx)
- - 🚯 [All shapes](http://9gag.com/gag/awMpDnB)
- - 🚯 [Brandy or Whisky](http://9gag.com/gag/aB2eM8A)<!-- MEMES:END -->
+ - 🚖 [Give me my beer](http://9gag.com/gag/aGpQv07)
+ - 🚯 [This game was launched in 1999 feeling old yet?](http://9gag.com/gag/aWjXy02)
+ - 🚯 [Now this is a real sport](http://9gag.com/gag/aO3WEqE)<!-- MEMES:END -->
 
 --- 
 
