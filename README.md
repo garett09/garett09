@@ -186,9 +186,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pokemon Go is increasing interaction distances again after fan outcry     - CNET](https://www.cnet.com/news/pokemon-go-is-permanently-increasing-interaction-distances-after-fan-outcry/#ftag=CAD590a51e)
- - [Newly published regulatory docs show Facebook's smart glasses are called Gemini, run on customized Android, and use the same camera sensor as the Oculus Quest 2 (Janko Roettgers/Protocol)](http://www.techmeme.com/210825/p41#a210825p41)
- - [Tony Hawk's blood was infused into 100 limited-edition skateboards     - CNET](https://www.cnet.com/news/tony-hawks-blood-was-infused-into-100-limited-edition-skateboards/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [iPhone users drawn to iPad but not Mac or Apple's home devices, study finds](https://appleinsider.com/articles/21/08/26/iphone-users-drawn-to-ipad-but-not-mac-or-apples-home-devices-study-finds?utm_medium=rss)
+ - [Microsoft has promoted Chief Product Officer Panos Panay to executive vice president role and has added him to its senior leadership team (Dina Bass/Bloomberg)](http://www.techmeme.com/210825/p42#a210825p42)
+ - [All 5 (or 6) villains teased in the Spider-Man: No Way Home trailer     - CNET](https://www.cnet.com/news/all-5-or-6-villains-teased-in-the-spider-man-no-way-home-trailer/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
