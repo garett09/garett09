@@ -186,9 +186,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple highlights biotech, VC firms aided by Racial Equity and Justice Initiative](https://appleinsider.com/articles/21/08/26/apple-highlights-biotech-vc-firms-aided-by-racial-equity-and-justice-initiative?utm_medium=rss)
- - [Otter.ai expands automatic transcription assistant to Microsoft Teams, Google Meet and Cisco Webex](http://feedproxy.google.com/~r/Techcrunch/~3/A9LvBRB_1CE/)
- - [Snap updates Snapchat's Scan feature, turning it into a visual search engine that identifies many things in the real world, like clothes or dog breeds (Alex Heath/The Verge)](http://www.techmeme.com/210826/p25#a210826p25)<!-- TECH:END -->
+ - [PawaPay, a UK-based company offering payment services in 10 African countries, raises $9M in seed funding co-led by 88mph and MSA Capital (Tage Kene-Okafor/TechCrunch)](http://www.techmeme.com/210826/p26#a210826p26)
+ - [Netflix games are just Play Store games, but only available through Netflix app](https://www.androidauthority.com/netflix-games-testing-2741472/)
+ - [Panasonic photoshopped a white man’s head onto a Black man’s body](https://www.theverge.com/22642035/panasonic-photoshopped-white-head-black-body-photo-picture-gaming-speaker)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
