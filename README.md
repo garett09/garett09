@@ -193,9 +193,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Cat](http://9gag.com/gag/aqjEpZY)
- - 🚯 [Pepsi](http://9gag.com/gag/a8EgQ0O)
- - 🚯 [Free gas bloat in a steer.](http://9gag.com/gag/aAb9m4d)<!-- MEMES:END -->
+ - 🚖 [Bear won&#039;t leave the man who saved it from a fire](http://9gag.com/gag/a9EGZLZ)
+ - 🚯 [How dare you?!](http://9gag.com/gag/aRXp9V7)
+ - 🚯 [2 year difference, 78lbs to go till goal weight.](http://9gag.com/gag/av5j4Xq)<!-- MEMES:END -->
 
 --- 
 
