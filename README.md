@@ -186,9 +186,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily Crunch: Copenhagen-based Leapwork lands $62M Series B co-led by KKR and Salesforce Ventures](http://feedproxy.google.com/~r/Techcrunch/~3/za2Y0NzMt9s/)
- - [Politico sells, Forbes SPACs, and Vice cuts](http://feedproxy.google.com/~r/Techcrunch/~3/_P1dJLJrRVg/)
- - [VMware reports Q2 revenue of $3.14B, up 9% YoY, vs estimates of $3.1B, Subscription and Saas revenue of $776M, up 23% YoY, is on track for Dell spin-off in Nov. (Stephanie Condon/ZDNet)](http://www.techmeme.com/210826/p33#a210826p33)<!-- TECH:END -->
+ - [Cruise is buying solar energy from California farmers to power its electric, self-driving fleet](http://feedproxy.google.com/~r/Techcrunch/~3/h2VESSuAJ7g/)
+ - [DJ 3LAU launches Royal, which lets users trade shares of song royalty rights as crypto tokens, with $16M in seed funding led by Founders Fund and Paradigm (Ryan Weeks/The Block)](http://www.techmeme.com/210826/p34#a210826p34)
+ - [Federal Circuit upholds Apple win in patent infringement case involving Apple Pay](https://appleinsider.com/articles/21/08/26/federal-circuit-upholds-apple-win-in-patent-infringement-case-involving-apple-pay?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
