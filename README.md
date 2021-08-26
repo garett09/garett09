@@ -193,7 +193,7 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This is what you get on a airplane](http://9gag.com/gag/a9EGw66)
+ - 🚖 [Tsunami in Greenland](http://9gag.com/gag/ayMKwz8)
  - 🚯 [This game was launched in 1999 feeling old yet?](http://9gag.com/gag/aWjXy02)
  - 🚯 [Dance](http://9gag.com/gag/azM3zGq)<!-- MEMES:END -->
 
