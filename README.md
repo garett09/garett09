@@ -186,9 +186,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Boox tablets are welcome options in the growing oversize e-reader niche](http://feedproxy.google.com/~r/Techcrunch/~3/BFvAFnKOpPI/)
- - [Streamlabs launches monthly tipping service as an alternative to Twitch subscriptions](https://www.theverge.com/2021/8/26/22643160/streamlabs-monthly-tipping-subscription-twitch-zero-fees)
- - [After community backlash, Pokémon Go reinstates a COVID safety and accessibility feature](http://feedproxy.google.com/~r/Techcrunch/~3/V7CKGm2gQQA/)<!-- TECH:END -->
+ - [Tim Cook about to get $750 million Apple stock payday](https://appleinsider.com/articles/21/08/26/tim-cook-about-to-get-750-million-apple-stock-payday?utm_medium=rss)
+ - [Twitter starts to roll out paid Ticketed Spaces on iOS](http://feedproxy.google.com/~r/Techcrunch/~3/TVxXltAVdO0/)
+ - [Zendesk acquires AI automation startup Cleverly to advance customer service](http://feedproxy.google.com/~r/Techcrunch/~3/cXKB_ma1Bc0/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
