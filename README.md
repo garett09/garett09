@@ -186,9 +186,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Edward Snowden calls Apple CSAM plans 'disaster-in-the-making'](https://appleinsider.com/articles/21/08/26/edward-snowden-calls-apple-csam-plans-disaster-in-the-making?utm_medium=rss)
- - [Alphabet's Wing nears 100K drone deliveries two years after Logan, Australia launch; the drones fly up to six miles and deliver items weighing up to 3 pounds (Brian Heater/TechCrunch)](http://www.techmeme.com/210825/p45#a210825p45)
- - [Adam Mosseri says Instagram plans to more prominently feature photos and videos in search results in the future along with traditional accounts and hashtags (Ian Carlos Campbell/The Verge)](http://www.techmeme.com/210825/p44#a210825p44)<!-- TECH:END -->
+ - [OnePlus Nord N10 gains August security patch](https://www.androidauthority.com/oneplus-nord-n10-n100-update-1174495/)
+ - [Microsoft says it will no longer support Android Office apps on Chromebooks from September 18, saying users will be transitioned to the web versions thereafter (Kevin C. Tofel/About Chromebooks)](http://www.techmeme.com/210826/p1#a210826p1)
+ - [New leak supports claims of 45mm 'Apple Watch Series 7'](https://appleinsider.com/articles/21/08/26/new-leak-supports-claims-of-45mm-apple-watch-series-7?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
