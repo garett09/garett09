@@ -186,9 +186,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Palantir glitch allegedly granted some FBI staff unauthorized access to a crypto hacker’s data](http://feedproxy.google.com/~r/Techcrunch/~3/sUDbSgR-Aos/)
- - [Long-Term Stock Exchange, a Silicon Valley-based rival to NYSE, says Twilio and Asana will list their shares Thursday, the first companies to do so (Katherine Doherty/Bloomberg)](http://www.techmeme.com/210826/p17#a210826p17)
- - [Porsche expands online marketplace to include US inventory of new cars](http://feedproxy.google.com/~r/Techcrunch/~3/4xjtywNfsls/)<!-- TECH:END -->
+ - [I Expect You To Die 2 is the most fun I’ve had solving puzzles this year](https://www.theverge.com/2021/8/26/22641497/i-expect-you-to-die-2-schell-games-oculus-quest-steamvr-playstation-vr-review)
+ - [Does the Fitbit Charge 5 use the same charger as the Fitbit Charge 4?](https://www.androidauthority.com/fitbit-charge-5-charger-2739836/)
+ - [Q&A with John Binns, a 21-year-old American living in Turkey, who claims responsibility for the recent T-Mobile hack and says its security is "awful" (Wall Street Journal)](http://www.techmeme.com/210826/p18#a210826p18)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
