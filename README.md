@@ -179,9 +179,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Blasphemous Sequel News Already Has Me Shook](https://kotaku.com/blasphemous-sequel-news-already-has-me-shook-1847566927)
- - [Super Animal Royale 1.0 is Out Now with Pets, Power-ups, Season One, and More](https://news.xbox.com/en-us/2021/08/26/super-animal-royale-is-out-now/)
- - [Cute voxel 'fishing RPG' Moonglow Bay is coming soon](https://www.pcgamer.com/moonglow-bay-release-date-announced)<!-- GAME:END -->
+ - [April O’Neil fights CatDog in Nickelodeon’s All-Star Brawl](https://www.polygon.com/22643633/nickelodeon-all-star-brawl-roster-april-oneil-catdog-new-characters)
+ - [See NHL 22’s visual leap in its first gameplay trailer](https://www.polygon.com/22643622/nhl-22-gameplay-trailer-ps5-xbox-series-x)
+ - [The Other Two makes viral fame look like an embarrassing chore](https://www.polygon.com/reviews/22643564/the-other-two-season-2-review-hbo-max)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
