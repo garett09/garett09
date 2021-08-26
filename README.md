@@ -186,9 +186,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus Nord N10 gains August security patch](https://www.androidauthority.com/oneplus-nord-n10-n100-update-1174495/)
- - [Microsoft says it will no longer support Android Office apps on Chromebooks from September 18, saying users will be transitioned to the web versions thereafter (Kevin C. Tofel/About Chromebooks)](http://www.techmeme.com/210826/p1#a210826p1)
- - [New leak supports claims of 45mm 'Apple Watch Series 7'](https://appleinsider.com/articles/21/08/26/new-leak-supports-claims-of-45mm-apple-watch-series-7?utm_medium=rss)<!-- TECH:END -->
+ - [A history of Google's messaging apps and how a lack of any kind of top-down messaging leadership has led to a decade and a half of failed messaging platforms (Ron Amadeo/Ars Technica)](http://www.techmeme.com/210826/p2#a210826p2)
+ - [Jolla hits profitability ahead of turning ten, eyes growth beyond mobile](http://feedproxy.google.com/~r/Techcrunch/~3/0WZ_BhMISk8/)
+ - [OnePlus Nord N10 gains August security patch](https://www.androidauthority.com/oneplus-nord-n10-n100-update-1174495/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
