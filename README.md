@@ -179,9 +179,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Twist: He’s All That is better than She’s All That](https://www.polygon.com/22643642/hes-all-that-review-netflix-remake)
- - [Halo Infinite director: Here’s why campaign was a no-show at Gamescom](https://www.polygon.com/22644528/halo-infinite-campaign-gameplay-gamescom-2021)
- - [Get ready to build your own dinosaur park with Jurassic World Evolution 2, releasing on November 9](https://www.pcgamer.com/jurassic-world-evolution-2-releasing-on-november-9)<!-- GAME:END -->
+ - [Share of the Week: Ghost of Tsushima Director’s Cut](http://feedproxy.google.com/~r/PSBlog/~3/at1yDIcyn6g/)
+ - [Share of the Week: Ghost of Tsushima Director’s Cut](https://blog.playstation.com/2021/08/27/share-of-the-week-ghost-of-tsushima-directors-cut/)
+ - [Vikings Have Been Taking Over Video Games In The Last Few Years](https://kotaku.com/vikings-have-been-taking-over-video-games-in-the-last-f-1847571525)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
