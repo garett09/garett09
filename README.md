@@ -186,9 +186,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Pay limit to increase to GBP 100 from October 15 in UK](https://appleinsider.com/articles/21/08/27/apple-pay-limit-to-increase-to-gbp-100-from-october-15-in-uk?utm_medium=rss)
- - [The Architects of the Metaverse Need to Read the Virtual Room](https://www.wired.com/story/plaintext-architects-metaverse-diversity)
- - [You Should Have Waited for the Official 'Spider-Man: No Way Home' Trailer](https://www.wired.com/story/spider-man-trailer-just-wait)<!-- TECH:END -->
+ - ['Apple Watch Series 7' clones surface in China](https://appleinsider.com/articles/21/08/27/apple-watch-series-7-clones-surface-in-china?utm_medium=rss)
+ - [A Twitter outage cut off the Midwest this morning](https://www.theverge.com/2021/8/27/22644376/twitter-down-outage-midwest-states)
+ - [Twitter appears to be down for some users](https://appleinsider.com/articles/21/08/27/twitter-appears-to-be-down-for-some-users?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
