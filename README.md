@@ -186,9 +186,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple agrees to make key App Store changes, create $100M fund to settle developer lawsuit](https://appleinsider.com/articles/21/08/27/apple-agrees-to-pay-100m-make-app-store-changes-to-settle-developer-lawsuit?utm_medium=rss)
- - [Netflix in-app gaming initiative starts in Poland with 'Stranger Things'](https://appleinsider.com/articles/21/08/27/netflix-in-app-gaming-initiative-starts-in-poland-with-stranger-things?utm_medium=rss)
- - [Apple’s $100 million settlement agreement changes a key App Store rule for developers](https://www.theverge.com/2021/8/26/22643807/apple-developer-class-action-lawsuit-collect-information-ios-apps-anti-steering)<!-- TECH:END -->
+ - [Overjet, which creates AI-based software for dental clinics, raises $27M Series A led by General Catalyst, Insight Partners; its tech recently got FDA clearance (Andrea Park/FierceBiotech)](http://www.techmeme.com/210827/p2#a210827p2)
+ - [Hacker calls T-Mobile's security 'awful' after stealing data on 54M customers](https://appleinsider.com/articles/21/08/27/t-mobile-hacker-calls-carriers-security-awful-after-stealing-data-from-54m-customers?utm_medium=rss)
+ - [Apple's $100M settlement lets devs tell users about alt payment options using contact info from iOS app, but still won't allow adding the info inside the app (The Verge)](http://www.techmeme.com/210827/p1#a210827p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
