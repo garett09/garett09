@@ -179,9 +179,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The best Australian PC gaming deals this week](https://www.pcgamer.com/best-australian-pc-gaming-deals)
  - [NYPD Sends Helicopter After Graffiti Artist Over Super Mario Bros. Piece](https://kotaku.com/nypd-sends-helicopter-after-graffiti-artist-over-super-1847568692)
- - [Spider-Man: No Way Home: What we know so far](https://www.polygon.com/22639368/spiderman-no-way-home-release-date-cast-villains-disney-plus-netflix)
- - [Blizzard will no longer name characters after real people](https://www.pcgamer.com/blizzard-will-no-longer-name-characters-after-real-people)<!-- GAME:END -->
+ - [Spider-Man: No Way Home: What we know so far](https://www.polygon.com/22639368/spiderman-no-way-home-release-date-cast-villains-disney-plus-netflix)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
