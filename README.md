@@ -194,8 +194,8 @@ Linux                    51 mins             █░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 🚖 [Difference between Eastern and Western media](http://9gag.com/gag/a9EGg0W)
- - 🚯 [R u geh](http://9gag.com/gag/aMKLMNM)
- - 🚯 [Ring ring](http://9gag.com/gag/ajm4zm8)<!-- MEMES:END -->
+ - 🚯 [Medieval virgin detector](http://9gag.com/gag/aO3WLjM)
+ - 🚯 [Man stops a cyclist being chased by the police.](http://9gag.com/gag/a27X37O)<!-- MEMES:END -->
 
 --- 
 
