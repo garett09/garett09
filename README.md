@@ -186,9 +186,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Linux 5.14 set to boost future enterprise application security](http://feedproxy.google.com/~r/Techcrunch/~3/gph8JH6dUYk/)
- - [TikTok, Reddit, and Facebook are struggling with ivermectin misinformation](https://www.theverge.com/2021/8/27/22644579/tiktok-reddit-facebook-ivermectin-covid-19-misinformation)
- - [Law firm requesting 30% of $100M Apple Small Developer Assistance Fund](https://appleinsider.com/articles/21/08/27/law-firm-requesting-30-of-100m-apple-small-developer-assistance-fund?utm_medium=rss)<!-- TECH:END -->
+ - [Extra Crunch roundup: Pre-pitch tactics, Warby Parker S-1, Israel’s fintech ecosystem](http://feedproxy.google.com/~r/Techcrunch/~3/8ie_ocUvEMc/)
+ - [Chicago sues DoorDash and Grubhub for ‘unfair and deceptive’ practices](https://www.theverge.com/2021/8/27/22644880/chicago-doordash-grubhub-lawsuit-tipping-phone-order-fee-cap)
+ - [Amazon partners with Affirm to roll out monthly installments for purchases over $50 to some US customers; Affirm stock is up 50%+ after hours (Kate Rooney/CNBC)](http://www.techmeme.com/210827/p22#a210827p22)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
