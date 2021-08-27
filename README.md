@@ -186,9 +186,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cruise is buying solar energy from California farmers to power its electric, self-driving fleet](http://feedproxy.google.com/~r/Techcrunch/~3/h2VESSuAJ7g/)
- - [DJ 3LAU launches Royal, which lets users trade shares of song royalty rights as crypto tokens, with $16M in seed funding led by Founders Fund and Paradigm (Ryan Weeks/The Block)](http://www.techmeme.com/210826/p34#a210826p34)
- - [Federal Circuit upholds Apple win in patent infringement case involving Apple Pay](https://appleinsider.com/articles/21/08/26/federal-circuit-upholds-apple-win-in-patent-infringement-case-involving-apple-pay?utm_medium=rss)<!-- TECH:END -->
+ - [Apple agrees to settle class-action lawsuit, will let developers directly contact customers, inform them about alternative purchase options outside iOS, more (Apple)](http://www.techmeme.com/210826/p38#a210826p38)
+ - [Apple agrees to create $100M fund, make App Store changes to settle developer lawsuit](https://appleinsider.com/articles/21/08/27/apple-agrees-to-pay-100m-make-app-store-changes-to-settle-developer-lawsuit?utm_medium=rss)
+ - [Apple finally agrees to let app developers communicate with their customers](https://www.theverge.com/2021/8/26/22643807/apple-developer-class-action-lawsuit-collect-information-ios-apps-anti-steering)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
