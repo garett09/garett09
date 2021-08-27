@@ -179,9 +179,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Here's why Halo Infinite's campaign wasn't at Gamescom](https://www.pcgamer.com/heres-why-halo-infinites-campaign-wasnt-at-gamescom)
- - [Next Week on Xbox: August 30 to September 3](https://news.xbox.com/en-us/2021/08/27/next-week-on-xbox-august-30-to-september-3/)
- - [Intel XeSS should work on AMD RDNA 2 and Nvidia Ampere, Turing, & Pascal GPUs](https://www.pcgamer.com/intel-xess-compatibility-nvidia-amd)<!-- GAME:END -->
+ - [Twist: He’s All That is better than She’s All That](https://www.polygon.com/22643642/hes-all-that-review-netflix-remake)
+ - [Halo Infinite director: Here’s why campaign was a no-show at Gamescom](https://www.polygon.com/22644528/halo-infinite-campaign-gameplay-gamescom-2021)
+ - [Get ready to build your own dinosaur park with Jurassic World Evolution 2, releasing on November 9](https://www.pcgamer.com/jurassic-world-evolution-2-releasing-on-november-9)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
