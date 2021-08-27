@@ -186,9 +186,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The House select committee investigating the January 6 riot demands records from Facebook, Twitter, Google, Reddit, TikTok, and other tech companies (Kevin Breuninger/CNBC)](http://www.techmeme.com/210827/p19#a210827p19)
- - [Microsoft says it won't block users from getting Windows 11 on most older PCs if they install directly using ISO files, and not via Windows Update (Tom Warren/The Verge)](http://www.techmeme.com/210827/p18#a210827p18)
- - [New Vaccine Decisions, an Influx of Mandates, and More News](https://www.wired.com/story/vaccine-approval-boosters-mandates-coronavirus-news)<!-- TECH:END -->
+ - [The Windows 11 upgrade situation just got less and more confusing](https://www.theverge.com/22643275/windows-11-upgrade-system-requirements-pc-health-check)
+ - [Microsoft is discontinuing its Office apps for Chromebook users in favor of web versions](http://feedproxy.google.com/~r/Techcrunch/~3/z1k9wgn36BQ/)
+ - [Stipop offers developers and creators instant access to a huge global sticker library](http://feedproxy.google.com/~r/Techcrunch/~3/kfZBFC6I_ks/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
