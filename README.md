@@ -179,9 +179,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best films you can stream on Prime Video this month](https://www.polygon.com/streaming/22298985/best-movies-on-amazon-prime-video)
- - [World Of Warships Employee Suspended After Sending Abusive Message In Promo Code](https://kotaku.com/world-of-warships-employee-suspended-after-sending-abus-1847568436)
- - [Blasphemous gets a final expansion in December and a sequel is on the way](https://www.pcgamer.com/blasphemous-gets-a-final-expansion-in-december-and-a-sequel-is-on-the-way)<!-- GAME:END -->
+ - [NYPD Sends Helicopter After Graffiti Artist Over Super Mario Bros. Piece](https://kotaku.com/nypd-sends-helicopter-after-graffiti-artist-over-super-1847568692)
+ - [Spider-Man: No Way Home: What we know so far](https://www.polygon.com/22639368/spiderman-no-way-home-release-date-cast-villains-disney-plus-netflix)
+ - [Blizzard will no longer name characters after real people](https://www.pcgamer.com/blizzard-will-no-longer-name-characters-after-real-people)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
