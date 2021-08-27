@@ -186,9 +186,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Extra Crunch roundup: Pre-pitch tactics, Warby Parker S-1, Israel’s fintech ecosystem](http://feedproxy.google.com/~r/Techcrunch/~3/8ie_ocUvEMc/)
- - [Chicago sues DoorDash and Grubhub for ‘unfair and deceptive’ practices](https://www.theverge.com/2021/8/27/22644880/chicago-doordash-grubhub-lawsuit-tipping-phone-order-fee-cap)
- - [Amazon partners with Affirm to roll out monthly installments for purchases over $50 to some US customers; Affirm stock is up 50%+ after hours (Kate Rooney/CNBC)](http://www.techmeme.com/210827/p22#a210827p22)<!-- TECH:END -->
+ - [Apple launches iPhone 12, 12 Pro service program for 'no sound' issue](https://appleinsider.com/articles/21/08/27/apple-launches-iphone-12-12-pro-service-program-for-no-sound-issue?utm_medium=rss)
+ - [China says it has surpassed 1B internet users for the first time, up 8% from 2020; internet penetration rose to 71.6% and delivery services rose to 468M users (Nikkei Asia)](http://www.techmeme.com/210827/p23#a210827p23)
+ - [Paramount Plus orders new series Players from American Vandal creators](https://www.theverge.com/2021/8/27/22645190/paramount-plus-players-american-vandal-creators)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
