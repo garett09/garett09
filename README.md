@@ -186,9 +186,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix’s He’s All That updates a classic with mixed results](https://www.androidauthority.com/hes-all-that-netflix-2740984/)
- - [As Linux turns 30, a Q&A with Greg Kroah-Hartman, who oversees Linux kernel releases, on lessons learned, upcoming challenges, why Linux succeeded, and more (Thomas Claburn/The Register)](http://www.techmeme.com/210827/p4#a210827p4)
- - [The company behind Android alternative Sailfish OS is finally profitable](https://www.androidauthority.com/jolla-sailfish-os-profit-2739168/)<!-- TECH:END -->
+ - [You can now pre-book the Galaxy Watch 4, Galaxy Buds 2 in India](https://www.androidauthority.com/samsung-galaxy-watch-4-buds-2-india-2741711/)
+ - [China proposes strict control of algorithms](http://feedproxy.google.com/~r/Techcrunch/~3/1xxjdE-MIFQ/)
+ - [Netflix’s He’s All That updates a classic with mixed results](https://www.androidauthority.com/hes-all-that-netflix-2740984/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
