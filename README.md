@@ -193,9 +193,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Russian Disneyland](http://9gag.com/gag/awMpWq8)
- - 🚯 [We&#039;re more or less equal in everything. Except running. F*ck running. What are some of your job&#039;s daily struggles?](http://9gag.com/gag/aDdvK9x)
- - 🚯 [Man stops a cyclist being chased by the police.](http://9gag.com/gag/a27X37O)<!-- MEMES:END -->
+ - 🚖 [Ring ring](http://9gag.com/gag/ajm4zm8)
+ - 🚯 [What kind of sorcery is this ?](http://9gag.com/gag/aGpQmx7)
+ - 🚯 [It worked!](http://9gag.com/gag/aK6MR2g)<!-- MEMES:END -->
 
 --- 
 
