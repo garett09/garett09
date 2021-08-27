@@ -186,9 +186,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Can the Metaverse Thrive if It’s Fully Owned by Facebook?](https://www.wired.com/story/gadget-lab-podcast-518)
- - [The Joy of Walking in Games](https://www.wired.com/story/the-joy-of-walking-in-games)
- - [How small developers compete with the defaults on your phone](https://www.theverge.com/22641201/small-developers-ios-app-competition-replace-apple-defaults)<!-- TECH:END -->
+ - [Apple Pay limit to increase to GBP 100 from October 15 in UK](https://appleinsider.com/articles/21/08/27/apple-pay-limit-to-increase-to-gbp-100-from-october-15-in-uk?utm_medium=rss)
+ - [The Architects of the Metaverse Need to Read the Virtual Room](https://www.wired.com/story/plaintext-architects-metaverse-diversity)
+ - [You Should Have Waited for the Official 'Spider-Man: No Way Home' Trailer](https://www.wired.com/story/spider-man-trailer-just-wait)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
