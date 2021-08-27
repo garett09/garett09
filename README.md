@@ -179,9 +179,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Nobody is talking about this week’s biggest Destiny 2 announcement](https://www.polygon.com/22645202/destiny-2-witch-queen-dungeon-raid-schedule-release-season)
- - [Watch Dogs: Legion Assassin’s Creed Crossover and Title Update 5.5 Out Now](https://news.xbox.com/en-us/2021/08/27/watch-dogs-legion-assassins-creed-crossover-and-title-update-5-5-out-now/)
- - [The beautiful sci-fi film The Colony splices Aliens into Children of Men](https://www.polygon.com/reviews/22645157/the-colony-review-sci-fi)<!-- GAME:END -->
+ - [Official PlayStation Podcast Episode 408: Minds Over Matter](http://feedproxy.google.com/~r/PSBlog/~3/u9hrAg9Nc2k/)
+ - [Official PlayStation Podcast Episode 408: Minds Over Matter](https://blog.playstation.com/2021/08/27/official-playstation-podcast-episode-408-minds-over-matter/)
+ - [A sports documentary parody about League of Legends players is in the works](https://www.pcgamer.com/a-sports-documentary-parody-about-league-of-legends-players-is-in-the-works)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
