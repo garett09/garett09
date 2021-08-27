@@ -186,9 +186,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [We asked, you told us: These two things would make you leave Android](https://www.androidauthority.com/leave-android-poll-results-2741649/)
- - [Elon Musk: ‘Bezos retired in order to pursue a full-time job filing lawsuits against SpaceX’](https://www.theverge.com/2021/8/27/22644158/elon-musk-jeff-bezos-spacex-blue-origin-lawsuits-complaints-starlink-tweet)
- - [Microsoft Azure cloud vulnerability is the ‘worst you can imagine’](https://www.theverge.com/2021/8/27/22644161/microsoft-azure-database-vulnerabilty-chaosdb)<!-- TECH:END -->
+ - [Daily Authority: Apple’s App Store “changes” 🤔](https://www.androidauthority.com/newsletters/da-august-27-2021/)
+ - [A look at China's turbulent relationship with its domestic gaming industry, as it continues its crackdown on Tencent, while laying out plans for global growth (Josh Ye/South China Morning Post)](http://www.techmeme.com/210827/p8#a210827p8)
+ - [Titan's Strange Chemical World Gets Simulated in Tiny Tubes](https://www.wired.com/story/titans-strange-chemical-world-gets-simulated-in-tiny-tubes)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
