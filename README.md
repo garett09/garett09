@@ -179,9 +179,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Charybdis and Toon Mania Cthulhu Arrive with Smite’s Odyssey](https://news.xbox.com/en-us/2021/08/27/charybdis-and-toon-mania-cthulhu-arrive-with-smites-odyssey/)
- - [Axiom Verge 2 Shows It's Time To Rethink Metroidvanias](https://kotaku.com/axiom-verge-2-shows-its-time-to-rethink-metroidvanias-1847573879)
- - [Smaller Marvel Game Turned Out Better Than Big Budget Avengers](https://kotaku.com/smaller-marvel-game-turned-out-better-than-big-budget-a-1847574016)<!-- GAME:END -->
+ - [Feel-Good Fishing RPG Moonglow Bay Anchors on October 7](https://news.xbox.com/en-us/2021/08/27/moonglow-bay-launches-october-7/)
+ - [World of Warcraft's next update will remove more developer names](https://www.pcgamer.com/world-of-warcrafts-next-update-will-remove-more-developer-names)
+ - [Charybdis and Toon Mania Cthulhu Arrive with Smite’s Odyssey](https://news.xbox.com/en-us/2021/08/27/charybdis-and-toon-mania-cthulhu-arrive-with-smites-odyssey/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
