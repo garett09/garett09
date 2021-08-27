@@ -193,9 +193,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [EEEEEEEEEEEEEEEEEEEEEEE](http://9gag.com/gag/a7ExR1z)
- - 🚯 [Medieval virgin detector](http://9gag.com/gag/aO3WLjM)
- - 🚯 [Who?](http://9gag.com/gag/aoM7QQn)<!-- MEMES:END -->
+ - 🚖 [What kind of sorcery is this ?](http://9gag.com/gag/aGpQmx7)
+ - 🚯 [The real challenge](http://9gag.com/gag/a3EOO9v)
+ - 🚯 [Teaching his friends how to swerve through traffic like an idiot](http://9gag.com/gag/anQoo2L)<!-- MEMES:END -->
 
 --- 
 
