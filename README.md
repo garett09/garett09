@@ -193,9 +193,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ring ring](http://9gag.com/gag/ajm4zm8)
- - 🚯 [What kind of sorcery is this ?](http://9gag.com/gag/aGpQmx7)
- - 🚯 [It worked!](http://9gag.com/gag/aK6MR2g)<!-- MEMES:END -->
+ - 🚖 [Screenshot-ception](http://9gag.com/gag/a7ExQDm)
+ - 🚯 [Everyone has that employee](http://9gag.com/gag/agBeWB6)
+ - 🚯 [Norway is very progressive](http://9gag.com/gag/aZ0Y6gQ)<!-- MEMES:END -->
 
 --- 
 
