@@ -179,9 +179,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best Australian PC gaming deals this week](https://www.pcgamer.com/best-australian-pc-gaming-deals)
- - [NYPD Sends Helicopter After Graffiti Artist Over Super Mario Bros. Piece](https://kotaku.com/nypd-sends-helicopter-after-graffiti-artist-over-super-1847568692)
- - [Spider-Man: No Way Home: What we know so far](https://www.polygon.com/22639368/spiderman-no-way-home-release-date-cast-villains-disney-plus-netflix)<!-- GAME:END -->
+ - [No More Heroes 3 has so much style, its lack of substance doesn’t matter](https://www.polygon.com/reviews/22643302/no-more-heroes-3-review-nintendo-switch)
+ - [No More Heroes 3: The Kotaku Review](https://kotaku.com/no-more-heroes-3-the-kotaku-review-1847560250)
+ - [Thanks to Kingmaker's comeback, Pathfinder: Wrath of the Righteous can be a sandbox as varied as a tabletop campaign](https://www.pcgamer.com/thanks-to-kingmakers-comeback-pathfinder-wrath-of-the-righteous-can-be-a-sandbox-as-varied-as-a-tabletop-campaign)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
