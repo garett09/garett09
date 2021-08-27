@@ -194,8 +194,8 @@ Linux                    51 mins             █░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 🚖 [So True, that&#039;s why I like being single.](http://9gag.com/gag/amPZZMo)
- - 🚯 [Lay back and enjoy. &quot;Men in hope.&quot;](http://9gag.com/gag/a5EY3ry)
- - 🚯 [You already know what&#039;s going to happen.](http://9gag.com/gag/aDdvv0Z)<!-- MEMES:END -->
+ - 🚯 [You already know what&#039;s going to happen.](http://9gag.com/gag/aDdvv0Z)
+ - 🚯 [Italian 127mm naval gun in action!](http://9gag.com/gag/aeABwOv)<!-- MEMES:END -->
 
 --- 
 
