@@ -193,9 +193,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [So True, that&#039;s why I like being single.](http://9gag.com/gag/amPZZMo)
+ - 🚖 [Italian 127mm naval gun in action!](http://9gag.com/gag/aeABwOv)
  - 🚯 [You already know what&#039;s going to happen.](http://9gag.com/gag/aDdvv0Z)
- - 🚯 [Italian 127mm naval gun in action!](http://9gag.com/gag/aeABwOv)<!-- MEMES:END -->
+ - 🚯 [So True, that&#039;s why I like being single.](http://9gag.com/gag/amPZZMo)<!-- MEMES:END -->
 
 --- 
 
