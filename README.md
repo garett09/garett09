@@ -194,8 +194,8 @@ Linux                    51 mins             █░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 🚖 [Screenshot-ception](http://9gag.com/gag/a7ExQDm)
- - 🚯 [Everyone has that employee](http://9gag.com/gag/agBeWB6)
- - 🚯 [Norway is very progressive](http://9gag.com/gag/aZ0Y6gQ)<!-- MEMES:END -->
+ - 🚯 [I need this Bath Mat !!](http://9gag.com/gag/anQo6Lb)
+ - 🚯 [We&#039;re more or less equal in everything. Except running. F*ck running. What are some of your job&#039;s daily struggles?](http://9gag.com/gag/aDdvK9x)<!-- MEMES:END -->
 
 --- 
 
