@@ -193,9 +193,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Death wants my cat](http://9gag.com/gag/a4E0D8y)
- - 🚯 [The greatest combacks of the year](http://9gag.com/gag/aMKLRAV)
- - 🚯 [The shopping cart study - when we become aware of ourselves.](http://9gag.com/gag/aB2epq2)<!-- MEMES:END -->
+ - 🚖 [The shopping cart study - when we become aware of ourselves.](http://9gag.com/gag/aB2epq2)
+ - 🚯 [French island of Corsica, wild cows took the beach during lockdown... and won&#039;t give it back](http://9gag.com/gag/aLpEyjg)
+ - 🚯 [One of the best Horror Films of all time. a TRUE Masterpiece!](http://9gag.com/gag/a27Xn21)<!-- MEMES:END -->
 
 --- 
 
