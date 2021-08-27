@@ -193,8 +193,8 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Crackead white trash uk gets put down by one armed worker.](http://9gag.com/gag/arMLEd6)
- - 🚯 [Tsunami in Greenland](http://9gag.com/gag/ayMKwz8)
+ - 🚖 [So True, that&#039;s why I like being single.](http://9gag.com/gag/amPZZMo)
+ - 🚯 [Lay back and enjoy. &quot;Men in hope.&quot;](http://9gag.com/gag/a5EY3ry)
  - 🚯 [You already know what&#039;s going to happen.](http://9gag.com/gag/aDdvv0Z)<!-- MEMES:END -->
 
 --- 
