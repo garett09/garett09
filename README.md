@@ -186,9 +186,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The DOJ and DHS subpoenaed Peloton over treadmill injury reporting](http://feedproxy.google.com/~r/Techcrunch/~3/q0Yx4WKxIZU/)
- - [Electric vehicle company Rivian has confidentially filed for an IPO](http://feedproxy.google.com/~r/Techcrunch/~3/-n_8mymwqAY/)
- - [Lenovo ThinkPad X1 Titanium Yoga review: a promising start](https://www.theverge.com/22642876/lenovo-thinkpad-x1-titanium-yoga-review-windows-price-specs)<!-- TECH:END -->
+ - [Google posts 2-minute ad on Pixel 5a’s headphone jack, but Pixel 6 won’t have it](https://www.androidauthority.com/google-pixel-5a-headphone-jack-2742462/)
+ - [Peloton drops the price of its original Bike by $400 amid poor earnings results](https://www.theverge.com/2021/8/27/22643715/peloton-bike-price-drop-q4-results-subscription-prices)
+ - [Rivian files to go public at up to a reported $80 billion valuation](https://www.theverge.com/2021/8/27/22644601/rivian-ipo-november-december-filing-amazon-ford)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
