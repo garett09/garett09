@@ -186,9 +186,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - ['Apple Watch Series 7' clones surface in China](https://appleinsider.com/articles/21/08/27/apple-watch-series-7-clones-surface-in-china?utm_medium=rss)
- - [A Twitter outage cut off the Midwest this morning](https://www.theverge.com/2021/8/27/22644376/twitter-down-outage-midwest-states)
- - [Twitter appears to be down for some users](https://appleinsider.com/articles/21/08/27/twitter-appears-to-be-down-for-some-users?utm_medium=rss)<!-- TECH:END -->
+ - [The DOJ and DHS subpoenaed Peloton over treadmill injury reporting](http://feedproxy.google.com/~r/Techcrunch/~3/q0Yx4WKxIZU/)
+ - [Electric vehicle company Rivian has confidentially filed for an IPO](http://feedproxy.google.com/~r/Techcrunch/~3/-n_8mymwqAY/)
+ - [Lenovo ThinkPad X1 Titanium Yoga review: a promising start](https://www.theverge.com/22642876/lenovo-thinkpad-x1-titanium-yoga-review-windows-price-specs)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
