@@ -187,8 +187,8 @@ Linux                    51 mins             █░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Apple agrees to make key App Store changes, create $100M fund to settle developer lawsuit](https://appleinsider.com/articles/21/08/27/apple-agrees-to-pay-100m-make-app-store-changes-to-settle-developer-lawsuit?utm_medium=rss)
- - [China calls the "996" work culture, a weekly schedule of six 12-hour work days popular among Chinese tech firms, a "serious violation" of labor law (Zeyi Yang/Protocol)](http://www.techmeme.com/210826/p39#a210826p39)
- - [Jake Paul vs. Tyron Woodley: Start time, how to watch, press conference chaos, weird tattoo bet     - CNET](https://www.cnet.com/news/jake-paul-vs-tyron-woodley-start-time-how-to-watch-press-conference-chaos-weird-tattoo-bet/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Netflix in-app gaming initiative starts in Poland with 'Stranger Things'](https://appleinsider.com/articles/21/08/27/netflix-in-app-gaming-initiative-starts-in-poland-with-stranger-things?utm_medium=rss)
+ - [Apple’s $100 million settlement agreement changes a key App Store rule for developers](https://www.theverge.com/2021/8/26/22643807/apple-developer-class-action-lawsuit-collect-information-ios-apps-anti-steering)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
