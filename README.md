@@ -179,9 +179,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Share of the Week: Ghost of Tsushima Director’s Cut](http://feedproxy.google.com/~r/PSBlog/~3/at1yDIcyn6g/)
- - [Share of the Week: Ghost of Tsushima Director’s Cut](https://blog.playstation.com/2021/08/27/share-of-the-week-ghost-of-tsushima-directors-cut/)
- - [Vikings Have Been Taking Over Video Games In The Last Few Years](https://kotaku.com/vikings-have-been-taking-over-video-games-in-the-last-f-1847571525)<!-- GAME:END -->
+ - [Starfield has a planet where you get high on fish](https://www.polygon.com/22644692/bethesda-starfield-planets-locations-neon-akila-new-atlantis)
+ - [Behemoth livens up the eco-thriller with surprisingly intense horror](https://www.polygon.com/reviews/22644678/behemoth-review-sci-fi-horror)
+ - [The best playbooks in Madden NFL 22](https://www.pcgamer.com/best-madden-nfl-22-playbook-offense-defense)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
