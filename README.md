@@ -193,9 +193,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [We&#039;re more or less equal in everything. Except running. F*ck running. What are some of your job&#039;s daily struggles?](http://9gag.com/gag/aDdvK9x)
- - 🚯 [Screenshot-ception](http://9gag.com/gag/a7ExQDm)
- - 🚯 [Weight loss](http://9gag.com/gag/aqjEPOR)<!-- MEMES:END -->
+ - 🚖 [Screenshot-ception](http://9gag.com/gag/a7ExQDm)
+ - 🚯 [Those barriers are there for a reason, right?](http://9gag.com/gag/apNM47n)
+ - 🚯 [The shopping cart study - when we become aware of ourselves.](http://9gag.com/gag/aB2epq2)<!-- MEMES:END -->
 
 --- 
 
