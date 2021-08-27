@@ -179,9 +179,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Starfield will have a 'pleasure dome' where you can get super-high on alien fish](https://www.pcgamer.com/starfield-will-have-a-pleasure-dome-where-you-can-get-super-high-on-alien-fish)
- - [Kumail Nanjiani and the impossible-to-top satire of Idiocracy](https://www.polygon.com/22644824/kumail-nanjiani-movies-podcast-idiocracy-galaxy-brains)
- - [The Final Fall Episode of Tools Up! Garden Party is here](https://news.xbox.com/en-us/2021/08/27/the-final-fall-episode-of-tools-up-garden-party-is-here/)<!-- GAME:END -->
+ - [The next battle royale game? PUBG with superpowers](https://www.pcgamer.com/super-people-battle-royale)
+ - [An Inside Look at the Missions of World War Z: Aftermath](https://news.xbox.com/en-us/2021/08/27/an-inside-look-at-the-missions-of-world-war-z-aftermath/)
+ - [Noctua NH-P1 passive CPU cooler review](https://www.pcgamer.com/noctua-nh-p1-passive-cooler-review-benchmarks)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
