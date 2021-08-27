@@ -193,9 +193,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When the times were good](http://9gag.com/gag/ayMKggq)
- - 🚯 [One of the best Horror Films of all time. a TRUE Masterpiece!](http://9gag.com/gag/a27Xn21)
- - 🚯 [I need this Bath Mat !!](http://9gag.com/gag/anQo6Lb)<!-- MEMES:END -->
+ - 🚖 [Making Washi paper](http://9gag.com/gag/aGpQPAw)
+ - 🚯 [I need this Bath Mat !!](http://9gag.com/gag/anQo6Lb)
+ - 🚯 [The greatest combacks of the year](http://9gag.com/gag/aMKLRAV)<!-- MEMES:END -->
 
 --- 
 
