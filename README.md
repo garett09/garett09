@@ -179,9 +179,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Extreme gaming PC build 2021](https://www.pcgamer.com/build-guide-the-extreme-gaming-pc)
- - [The best PC fans in 2021](https://www.pcgamer.com/best-pc-fans)
- - [Saints Row: The Third cheats](https://www.pcgamer.com/saints-row-3-cheats)<!-- GAME:END -->
+ - [Best CPU coolers in 2021](https://www.pcgamer.com/best-cpu-coolers)
+ - [Townscaper review](https://www.pcgamer.com/townscaper-review)
+ - [Square Enix Donates $45,000 To Japanese Red Cross For Torrential Rain Relief](https://kotaku.com/square-enix-donates-45-000-to-japanese-red-cross-for-t-1847569896)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
