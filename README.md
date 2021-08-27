@@ -194,8 +194,8 @@ Linux                    51 mins             █░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 🚖 [One of the best Horror Films of all time. a TRUE Masterpiece!](http://9gag.com/gag/a27Xn21)
- - 🚯 [French island of Corsica, wild cows took the beach during lockdown... and won&#039;t give it back](http://9gag.com/gag/aLpEyjg)
- - 🚯 [It worked!](http://9gag.com/gag/aK6MR2g)<!-- MEMES:END -->
+ - 🚯 [Everyone has that employee](http://9gag.com/gag/agBeWB6)
+ - 🚯 [Maybe I am psychopath](http://9gag.com/gag/aqjE0NZ)<!-- MEMES:END -->
 
 --- 
 
