@@ -179,9 +179,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Starfield has a planet where you get high on fish](https://www.polygon.com/22644692/bethesda-starfield-planets-locations-neon-akila-new-atlantis)
- - [Behemoth livens up the eco-thriller with surprisingly intense horror](https://www.polygon.com/reviews/22644678/behemoth-review-sci-fi-horror)
- - [The best playbooks in Madden NFL 22](https://www.pcgamer.com/best-madden-nfl-22-playbook-offense-defense)<!-- GAME:END -->
+ - [Starfield will have a 'pleasure dome' where you can get super-high on alien fish](https://www.pcgamer.com/starfield-will-have-a-pleasure-dome-where-you-can-get-super-high-on-alien-fish)
+ - [Kumail Nanjiani and the impossible-to-top satire of Idiocracy](https://www.polygon.com/22644824/kumail-nanjiani-movies-podcast-idiocracy-galaxy-brains)
+ - [The Final Fall Episode of Tools Up! Garden Party is here](https://news.xbox.com/en-us/2021/08/27/the-final-fall-episode-of-tools-up-garden-party-is-here/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
