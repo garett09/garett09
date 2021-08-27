@@ -193,9 +193,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What kind of sorcery is this ?](http://9gag.com/gag/aGpQmx7)
- - 🚯 [The real challenge](http://9gag.com/gag/a3EOO9v)
- - 🚯 [Teaching his friends how to swerve through traffic like an idiot](http://9gag.com/gag/anQoo2L)<!-- MEMES:END -->
+ - 🚖 [Difference between Eastern and Western media](http://9gag.com/gag/a9EGg0W)
+ - 🚯 [R u geh](http://9gag.com/gag/aMKLMNM)
+ - 🚯 [Ring ring](http://9gag.com/gag/ajm4zm8)<!-- MEMES:END -->
 
 --- 
 
