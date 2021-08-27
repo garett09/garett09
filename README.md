@@ -186,9 +186,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily Authority: Apple’s App Store “changes” 🤔](https://www.androidauthority.com/newsletters/da-august-27-2021/)
- - [A look at China's turbulent relationship with its domestic gaming industry, as it continues its crackdown on Tencent, while laying out plans for global growth (Josh Ye/South China Morning Post)](http://www.techmeme.com/210827/p8#a210827p8)
- - [Titan's Strange Chemical World Gets Simulated in Tiny Tubes](https://www.wired.com/story/titans-strange-chemical-world-gets-simulated-in-tiny-tubes)<!-- TECH:END -->
+ - [Can the Metaverse Thrive if It’s Fully Owned by Facebook?](https://www.wired.com/story/gadget-lab-podcast-518)
+ - [The Joy of Walking in Games](https://www.wired.com/story/the-joy-of-walking-in-games)
+ - [How small developers compete with the defaults on your phone](https://www.theverge.com/22641201/small-developers-ios-app-competition-replace-apple-defaults)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
