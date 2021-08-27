@@ -186,9 +186,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Huawei makes EMUI 12 official with UI upgrades and several new features](https://www.androidauthority.com/huawei-emui-12-2741628/)
- - [Netflix: 50 of the best TV series to stream this week     - CNET](https://www.cnet.com/news/netflix-50-of-the-best-tv-series-to-stream-this-week/#ftag=CAD590a51e)
- - [Overjet, which creates AI-based software for dental clinics, raises $27M Series A led by General Catalyst, Insight Partners; its tech recently got FDA clearance (Andrea Park/FierceBiotech)](http://www.techmeme.com/210827/p2#a210827p2)<!-- TECH:END -->
+ - [KKR to acquire New Zealand bus company Ritchies Transport at value of $347M](http://feedproxy.google.com/~r/Techcrunch/~3/oqgjqgOaFlE/)
+ - [Venture Intelligence: Indian internet startups raised a record $20B this year, across 576 deals, surpassing the $13B from 878 deals in 2019 (M. Sriram/Moneycontrol)](http://www.techmeme.com/210827/p3#a210827p3)
+ - [Indiagold raises $12 million for its gold-focused digital alternative credit platform](http://feedproxy.google.com/~r/Techcrunch/~3/7XH75s-kqi0/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
