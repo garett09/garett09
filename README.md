@@ -179,9 +179,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Elden Ring might be FromSoftware’s Breath of the Wild](https://www.polygon.com/22642770/elden-ring-preview-from-software-dark-souls)
- - [Razer sale: save up to 60% on gaming keyboards, mice, laptops, and more](https://www.pcgamer.com/razer-sale-save-up-to-60-on-gaming-keyboards-mice-laptops-and-more)
- - [Saints Row devs 'not backing down' over reboot criticisms](https://www.pcgamer.com/saints-row-devs-not-backing-down-over-reboot-criticisms)<!-- GAME:END -->
+ - [Here's why Halo Infinite's campaign wasn't at Gamescom](https://www.pcgamer.com/heres-why-halo-infinites-campaign-wasnt-at-gamescom)
+ - [Next Week on Xbox: August 30 to September 3](https://news.xbox.com/en-us/2021/08/27/next-week-on-xbox-august-30-to-september-3/)
+ - [Intel XeSS should work on AMD RDNA 2 and Nvidia Ampere, Turing, & Pascal GPUs](https://www.pcgamer.com/intel-xess-compatibility-nvidia-amd)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
