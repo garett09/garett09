@@ -186,9 +186,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Deals August 27 - 35% off 23andMe+ Premium Membership Bundle, $90 WD 5TB portable HDD, and more](https://appleinsider.com/articles/21/08/27/best-deals-august-27---35-off-23andme-premium-membership-bundle-90-wd-5tb-portable-hdd-and-more?utm_medium=rss)
- - [How to delete a PlayStation Network account](https://www.androidauthority.com/how-to-delete-a-playstation-network-account-2737579/)
- - [Lordstown Motors taps Hertz board member to right the ship](https://www.theverge.com/2021/8/27/22644661/lordstown-motors-ceo-daniel-ninivaggi-hertz-steve-burns)<!-- TECH:END -->
+ - [The House select committee investigating the January 6 riot demands records from Facebook, Twitter, Google, Reddit, TikTok, and other tech companies (Kevin Breuninger/CNBC)](http://www.techmeme.com/210827/p19#a210827p19)
+ - [Microsoft says it won't block users from getting Windows 11 on most older PCs if they install directly using ISO files, and not via Windows Update (Tom Warren/The Verge)](http://www.techmeme.com/210827/p18#a210827p18)
+ - [New Vaccine Decisions, an Influx of Mandates, and More News](https://www.wired.com/story/vaccine-approval-boosters-mandates-coronavirus-news)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
