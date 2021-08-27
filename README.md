@@ -186,9 +186,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft Azure cloud vulnerability is the ‘worst you can imagine’](https://www.theverge.com/2021/8/27/22644161/microsoft-azure-database-vulnerabilty-chaosdb)
- - [Vivo develops a custom imaging chip, will debut with X70 series](https://www.androidauthority.com/vivo-v1-isp-2741721/)
- - [As the federal government prepares to deploy $42.5B for broadband development, the money will flow to states via the Commerce Department, bypassing the FCC (Margaret Harding McGill/Axios)](http://www.techmeme.com/210827/p5#a210827p5)<!-- TECH:END -->
+ - [We asked, you told us: These two things would make you leave Android](https://www.androidauthority.com/leave-android-poll-results-2741649/)
+ - [Elon Musk: ‘Bezos retired in order to pursue a full-time job filing lawsuits against SpaceX’](https://www.theverge.com/2021/8/27/22644158/elon-musk-jeff-bezos-spacex-blue-origin-lawsuits-complaints-starlink-tweet)
+ - [Microsoft Azure cloud vulnerability is the ‘worst you can imagine’](https://www.theverge.com/2021/8/27/22644161/microsoft-azure-database-vulnerabilty-chaosdb)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
