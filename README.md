@@ -186,9 +186,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Windows 11 upgrade situation just got less and more confusing](https://www.theverge.com/22643275/windows-11-upgrade-system-requirements-pc-health-check)
- - [Microsoft is discontinuing its Office apps for Chromebook users in favor of web versions](http://feedproxy.google.com/~r/Techcrunch/~3/z1k9wgn36BQ/)
- - [Stipop offers developers and creators instant access to a huge global sticker library](http://feedproxy.google.com/~r/Techcrunch/~3/kfZBFC6I_ks/)<!-- TECH:END -->
+ - [Linux 5.14 set to boost future enterprise application security](http://feedproxy.google.com/~r/Techcrunch/~3/gph8JH6dUYk/)
+ - [TikTok, Reddit, and Facebook are struggling with ivermectin misinformation](https://www.theverge.com/2021/8/27/22644579/tiktok-reddit-facebook-ivermectin-covid-19-misinformation)
+ - [Law firm requesting 30% of $100M Apple Small Developer Assistance Fund](https://appleinsider.com/articles/21/08/27/law-firm-requesting-30-of-100m-apple-small-developer-assistance-fund?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
