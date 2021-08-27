@@ -179,9 +179,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Feel-Good Fishing RPG Moonglow Bay Anchors on October 7](https://news.xbox.com/en-us/2021/08/27/moonglow-bay-launches-october-7/)
- - [World of Warcraft's next update will remove more developer names](https://www.pcgamer.com/world-of-warcrafts-next-update-will-remove-more-developer-names)
- - [Charybdis and Toon Mania Cthulhu Arrive with Smite’s Odyssey](https://news.xbox.com/en-us/2021/08/27/charybdis-and-toon-mania-cthulhu-arrive-with-smites-odyssey/)<!-- GAME:END -->
+ - [Nobody is talking about this week’s biggest Destiny 2 announcement](https://www.polygon.com/22645202/destiny-2-witch-queen-dungeon-raid-schedule-release-season)
+ - [Watch Dogs: Legion Assassin’s Creed Crossover and Title Update 5.5 Out Now](https://news.xbox.com/en-us/2021/08/27/watch-dogs-legion-assassins-creed-crossover-and-title-update-5-5-out-now/)
+ - [The beautiful sci-fi film The Colony splices Aliens into Children of Men](https://www.polygon.com/reviews/22645157/the-colony-review-sci-fi)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
