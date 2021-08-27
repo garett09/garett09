@@ -193,9 +193,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [One of the best Horror Films of all time. a TRUE Masterpiece!](http://9gag.com/gag/a27Xn21)
- - 🚯 [Everyone has that employee](http://9gag.com/gag/agBeWB6)
- - 🚯 [Maybe I am psychopath](http://9gag.com/gag/aqjE0NZ)<!-- MEMES:END -->
+ - 🚖 [Death wants my cat](http://9gag.com/gag/a4E0D8y)
+ - 🚯 [The greatest combacks of the year](http://9gag.com/gag/aMKLRAV)
+ - 🚯 [The shopping cart study - when we become aware of ourselves.](http://9gag.com/gag/aB2epq2)<!-- MEMES:END -->
 
 --- 
 
