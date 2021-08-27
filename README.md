@@ -186,9 +186,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple agrees to settle class-action lawsuit, will let developers directly contact customers, inform them about alternative purchase options outside iOS, more (Apple)](http://www.techmeme.com/210826/p38#a210826p38)
- - [Apple agrees to create $100M fund, make App Store changes to settle developer lawsuit](https://appleinsider.com/articles/21/08/27/apple-agrees-to-pay-100m-make-app-store-changes-to-settle-developer-lawsuit?utm_medium=rss)
- - [Apple finally agrees to let app developers communicate with their customers](https://www.theverge.com/2021/8/26/22643807/apple-developer-class-action-lawsuit-collect-information-ios-apps-anti-steering)<!-- TECH:END -->
+ - [Apple agrees to make key App Store changes, create $100M fund to settle developer lawsuit](https://appleinsider.com/articles/21/08/27/apple-agrees-to-pay-100m-make-app-store-changes-to-settle-developer-lawsuit?utm_medium=rss)
+ - [China calls the "996" work culture, a weekly schedule of six 12-hour work days popular among Chinese tech firms, a "serious violation" of labor law (Zeyi Yang/Protocol)](http://www.techmeme.com/210826/p39#a210826p39)
+ - [Jake Paul vs. Tyron Woodley: Start time, how to watch, press conference chaos, weird tattoo bet     - CNET](https://www.cnet.com/news/jake-paul-vs-tyron-woodley-start-time-how-to-watch-press-conference-chaos-weird-tattoo-bet/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
