@@ -186,9 +186,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [You can now pre-book the Galaxy Watch 4, Galaxy Buds 2 in India](https://www.androidauthority.com/samsung-galaxy-watch-4-buds-2-india-2741711/)
- - [China proposes strict control of algorithms](http://feedproxy.google.com/~r/Techcrunch/~3/1xxjdE-MIFQ/)
- - [Netflix’s He’s All That updates a classic with mixed results](https://www.androidauthority.com/hes-all-that-netflix-2740984/)<!-- TECH:END -->
+ - [Microsoft Azure cloud vulnerability is the ‘worst you can imagine’](https://www.theverge.com/2021/8/27/22644161/microsoft-azure-database-vulnerabilty-chaosdb)
+ - [Vivo develops a custom imaging chip, will debut with X70 series](https://www.androidauthority.com/vivo-v1-isp-2741721/)
+ - [As the federal government prepares to deploy $42.5B for broadband development, the money will flow to states via the Commerce Department, bypassing the FCC (Margaret Harding McGill/Axios)](http://www.techmeme.com/210827/p5#a210827p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
