@@ -179,9 +179,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Nintendo exclusive Bravely Default 2 hits Steam next week](https://www.pcgamer.com/nintendo-exclusive-bravely-default-2-hits-steam-next-week)
- - [Nickelodeon All-Star Brawl confirmed for PC in latest trailer](https://www.pcgamer.com/nickelodeon-all-star-brawl-pc)
- - [April O’Neil fights CatDog in Nickelodeon’s All-Star Brawl](https://www.polygon.com/22643633/nickelodeon-all-star-brawl-roster-april-oneil-catdog-new-characters)<!-- GAME:END -->
+ - [The best films you can stream on Prime Video this month](https://www.polygon.com/streaming/22298985/best-movies-on-amazon-prime-video)
+ - [World Of Warships Employee Suspended After Sending Abusive Message In Promo Code](https://kotaku.com/world-of-warships-employee-suspended-after-sending-abus-1847568436)
+ - [Blasphemous gets a final expansion in December and a sequel is on the way](https://www.pcgamer.com/blasphemous-gets-a-final-expansion-in-december-and-a-sequel-is-on-the-way)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
