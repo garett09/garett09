@@ -193,9 +193,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [French island of Corsica, wild cows took the beach during lockdown... and won&#039;t give it back](http://9gag.com/gag/aLpEyjg)
- - 🚯 [Screenshot-ception](http://9gag.com/gag/a7ExQDm)
- - 🚯 [The shopping cart study - when we become aware of ourselves.](http://9gag.com/gag/aB2epq2)<!-- MEMES:END -->
+ - 🚖 [One of the best Horror Films of all time. a TRUE Masterpiece!](http://9gag.com/gag/a27Xn21)
+ - 🚯 [French island of Corsica, wild cows took the beach during lockdown... and won&#039;t give it back](http://9gag.com/gag/aLpEyjg)
+ - 🚯 [It worked!](http://9gag.com/gag/aK6MR2g)<!-- MEMES:END -->
 
 --- 
 
