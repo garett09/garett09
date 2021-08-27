@@ -186,9 +186,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google posts 2-minute ad on Pixel 5a’s headphone jack, but Pixel 6 won’t have it](https://www.androidauthority.com/google-pixel-5a-headphone-jack-2742462/)
- - [Peloton drops the price of its original Bike by $400 amid poor earnings results](https://www.theverge.com/2021/8/27/22643715/peloton-bike-price-drop-q4-results-subscription-prices)
- - [Rivian files to go public at up to a reported $80 billion valuation](https://www.theverge.com/2021/8/27/22644601/rivian-ipo-november-december-filing-amazon-ford)<!-- TECH:END -->
+ - [Best Deals August 27 - 35% off 23andMe+ Premium Membership Bundle, $90 WD 5TB portable HDD, and more](https://appleinsider.com/articles/21/08/27/best-deals-august-27---35-off-23andme-premium-membership-bundle-90-wd-5tb-portable-hdd-and-more?utm_medium=rss)
+ - [How to delete a PlayStation Network account](https://www.androidauthority.com/how-to-delete-a-playstation-network-account-2737579/)
+ - [Lordstown Motors taps Hertz board member to right the ship](https://www.theverge.com/2021/8/27/22644661/lordstown-motors-ceo-daniel-ninivaggi-hertz-steve-burns)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
