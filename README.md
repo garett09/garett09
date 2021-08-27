@@ -179,9 +179,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [AMD loses more graphics card market share to Nvidia, says report](https://www.pcgamer.com/amd-loses-more-graphics-card-market-share-to-nvidia-says-report)
- - [Ubisoft Won't Give Up On Its Theme Park Dreams](https://kotaku.com/ubisoft-wont-give-up-on-its-theme-park-dreams-1847569985)
- - [Indie dev leaves industry 'indefinitely' thanks to exploitation of Steam's refund policy](https://www.pcgamer.com/indie-dev-leaves-industry-indefinitely-thanks-to-exploitation-of-steams-refund-policy)<!-- GAME:END -->
+ - [Elden Ring might be FromSoftware’s Breath of the Wild](https://www.polygon.com/22642770/elden-ring-preview-from-software-dark-souls)
+ - [Razer sale: save up to 60% on gaming keyboards, mice, laptops, and more](https://www.pcgamer.com/razer-sale-save-up-to-60-on-gaming-keyboards-mice-laptops-and-more)
+ - [Saints Row devs 'not backing down' over reboot criticisms](https://www.pcgamer.com/saints-row-devs-not-backing-down-over-reboot-criticisms)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
