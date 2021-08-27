@@ -193,9 +193,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Difference between Eastern and Western media](http://9gag.com/gag/a9EGg0W)
- - 🚯 [Medieval virgin detector](http://9gag.com/gag/aO3WLjM)
- - 🚯 [Man stops a cyclist being chased by the police.](http://9gag.com/gag/a27X37O)<!-- MEMES:END -->
+ - 🚖 [We&#039;re more or less equal in everything. Except running. F*ck running. What are some of your job&#039;s daily struggles?](http://9gag.com/gag/aDdvK9x)
+ - 🚯 [Who?](http://9gag.com/gag/aoM7QQn)
+ - 🚯 [Seen it for 3000 times and still loved it and brings pure joy](http://9gag.com/gag/a9EGgX0)<!-- MEMES:END -->
 
 --- 
 
