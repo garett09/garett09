@@ -179,9 +179,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The next battle royale game? PUBG with superpowers](https://www.pcgamer.com/super-people-battle-royale)
- - [An Inside Look at the Missions of World War Z: Aftermath](https://news.xbox.com/en-us/2021/08/27/an-inside-look-at-the-missions-of-world-war-z-aftermath/)
- - [Noctua NH-P1 passive CPU cooler review](https://www.pcgamer.com/noctua-nh-p1-passive-cooler-review-benchmarks)<!-- GAME:END -->
+ - [Charybdis and Toon Mania Cthulhu Arrive with Smite’s Odyssey](https://news.xbox.com/en-us/2021/08/27/charybdis-and-toon-mania-cthulhu-arrive-with-smites-odyssey/)
+ - [Axiom Verge 2 Shows It's Time To Rethink Metroidvanias](https://kotaku.com/axiom-verge-2-shows-its-time-to-rethink-metroidvanias-1847573879)
+ - [Smaller Marvel Game Turned Out Better Than Big Budget Avengers](https://kotaku.com/smaller-marvel-game-turned-out-better-than-big-budget-a-1847574016)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
