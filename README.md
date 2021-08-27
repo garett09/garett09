@@ -179,9 +179,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Saints Row: The Third cheats](https://www.pcgamer.com/saints-row-3-cheats)
  - [Official Animal Crossing Sneakers Look Very Cozy](https://kotaku.com/official-animal-crossing-sneakers-look-very-cozy-1847569550)
- - [Halo Infinite system requirements](https://www.pcgamer.com/halo-infinite-system-requirements)
- - [No More Heroes 3 has so much style, its lack of substance doesn’t matter](https://www.polygon.com/reviews/22643302/no-more-heroes-3-review-nintendo-switch)<!-- GAME:END -->
+ - [Halo Infinite system requirements](https://www.pcgamer.com/halo-infinite-system-requirements)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
