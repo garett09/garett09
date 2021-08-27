@@ -179,9 +179,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Best CPU coolers in 2021](https://www.pcgamer.com/best-cpu-coolers)
- - [Townscaper review](https://www.pcgamer.com/townscaper-review)
- - [Square Enix Donates $45,000 To Japanese Red Cross For Torrential Rain Relief](https://kotaku.com/square-enix-donates-45-000-to-japanese-red-cross-for-t-1847569896)<!-- GAME:END -->
+ - [AMD loses more graphics card market share to Nvidia, says report](https://www.pcgamer.com/amd-loses-more-graphics-card-market-share-to-nvidia-says-report)
+ - [Ubisoft Won't Give Up On Its Theme Park Dreams](https://kotaku.com/ubisoft-wont-give-up-on-its-theme-park-dreams-1847569985)
+ - [Indie dev leaves industry 'indefinitely' thanks to exploitation of Steam's refund policy](https://www.pcgamer.com/indie-dev-leaves-industry-indefinitely-thanks-to-exploitation-of-steams-refund-policy)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
