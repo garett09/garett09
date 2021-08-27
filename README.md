@@ -186,9 +186,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [KKR to acquire New Zealand bus company Ritchies Transport at value of $347M](http://feedproxy.google.com/~r/Techcrunch/~3/oqgjqgOaFlE/)
- - [Venture Intelligence: Indian internet startups raised a record $20B this year, across 576 deals, surpassing the $13B from 878 deals in 2019 (M. Sriram/Moneycontrol)](http://www.techmeme.com/210827/p3#a210827p3)
- - [Indiagold raises $12 million for its gold-focused digital alternative credit platform](http://feedproxy.google.com/~r/Techcrunch/~3/7XH75s-kqi0/)<!-- TECH:END -->
+ - [Netflix’s He’s All That updates a classic with mixed results](https://www.androidauthority.com/hes-all-that-netflix-2740984/)
+ - [As Linux turns 30, a Q&A with Greg Kroah-Hartman, who oversees Linux kernel releases, on lessons learned, upcoming challenges, why Linux succeeded, and more (Thomas Claburn/The Register)](http://www.techmeme.com/210827/p4#a210827p4)
+ - [The company behind Android alternative Sailfish OS is finally profitable](https://www.androidauthority.com/jolla-sailfish-os-profit-2739168/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
