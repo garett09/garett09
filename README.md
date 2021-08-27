@@ -186,9 +186,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Overjet, which creates AI-based software for dental clinics, raises $27M Series A led by General Catalyst, Insight Partners; its tech recently got FDA clearance (Andrea Park/FierceBiotech)](http://www.techmeme.com/210827/p2#a210827p2)
- - [Hacker calls T-Mobile's security 'awful' after stealing data on 54M customers](https://appleinsider.com/articles/21/08/27/t-mobile-hacker-calls-carriers-security-awful-after-stealing-data-from-54m-customers?utm_medium=rss)
- - [Apple's $100M settlement lets devs tell users about alt payment options using contact info from iOS app, but still won't allow adding the info inside the app (The Verge)](http://www.techmeme.com/210827/p1#a210827p1)<!-- TECH:END -->
+ - [Huawei makes EMUI 12 official with UI upgrades and several new features](https://www.androidauthority.com/huawei-emui-12-2741628/)
+ - [Netflix: 50 of the best TV series to stream this week     - CNET](https://www.cnet.com/news/netflix-50-of-the-best-tv-series-to-stream-this-week/#ftag=CAD590a51e)
+ - [Overjet, which creates AI-based software for dental clinics, raises $27M Series A led by General Catalyst, Insight Partners; its tech recently got FDA clearance (Andrea Park/FierceBiotech)](http://www.techmeme.com/210827/p2#a210827p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
