@@ -179,9 +179,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [No More Heroes 3 has so much style, its lack of substance doesn’t matter](https://www.polygon.com/reviews/22643302/no-more-heroes-3-review-nintendo-switch)
- - [No More Heroes 3: The Kotaku Review](https://kotaku.com/no-more-heroes-3-the-kotaku-review-1847560250)
- - [Thanks to Kingmaker's comeback, Pathfinder: Wrath of the Righteous can be a sandbox as varied as a tabletop campaign](https://www.pcgamer.com/thanks-to-kingmakers-comeback-pathfinder-wrath-of-the-righteous-can-be-a-sandbox-as-varied-as-a-tabletop-campaign)<!-- GAME:END -->
+ - [Official Animal Crossing Sneakers Look Very Cozy](https://kotaku.com/official-animal-crossing-sneakers-look-very-cozy-1847569550)
+ - [Halo Infinite system requirements](https://www.pcgamer.com/halo-infinite-system-requirements)
+ - [No More Heroes 3 has so much style, its lack of substance doesn’t matter](https://www.polygon.com/reviews/22643302/no-more-heroes-3-review-nintendo-switch)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
