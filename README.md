@@ -193,8 +193,8 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Tell him you&rsquo;re white](http://9gag.com/gag/aB2eewZ)
- - 🚯 [Give me my beer](http://9gag.com/gag/aGpQv07)
+ - 🚖 [Crackead white trash uk gets put down by one armed worker.](http://9gag.com/gag/arMLEd6)
+ - 🚯 [Tsunami in Greenland](http://9gag.com/gag/ayMKwz8)
  - 🚯 [You already know what&#039;s going to happen.](http://9gag.com/gag/aDdvv0Z)<!-- MEMES:END -->
 
 --- 
