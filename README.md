@@ -189,9 +189,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft is threatening to withhold Windows 11 updates if your CPU is old](https://www.theverge.com/2021/8/28/22646035/microsoft-windows-11-iso-workaround-no-update-guarantee)
- - [Google allegedly offered Netflix a break on the usual Play Store commission](https://www.theverge.com/2021/8/28/22645974/google-netflix-class-action-antitrust-play-store-commission)
- - [How to change the time on your Fitbit](https://www.androidauthority.com/how-to-change-time-fitbit-2732545/)<!-- TECH:END -->
+ - [CryptoPunks blasts past $1 billion in lifetime sales as NFT speculation surges](http://feedproxy.google.com/~r/Techcrunch/~3/y0DshPys27E/)
+ - [NASA's next-generation James Webb Space Telescope finally ready to ship     - CNET](https://www.cnet.com/news/nasas-next-generation-james-webb-space-telescope-finally-ready-to-ship-for-launch/#ftag=CAD590a51e)
+ - [Female hummingbirds dressed in male plumage get harassed less     - CNET](https://www.cnet.com/news/female-hummingbirds-dressed-in-male-plumage-suffer-less-harassment-study-finds/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
