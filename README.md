@@ -189,9 +189,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Deals August 28 - $60 off Adobe Elements bundle, 47% off Powerbeats, GoPro Hero9 Black, and more](https://appleinsider.com/articles/21/08/28/best-deals-august-28---60-off-adobe-elements-bundle-47-off-powerbeats-gopro-hero9-black-and-more?utm_medium=rss)
- - [Samsung Galaxy S21 Ultra revisited: This year’s Galaxy Note](https://www.androidauthority.com/samsung-galaxy-s21-ultra-review-revisited-2736813/)
- - [On the future of walls, or The Wall](http://feedproxy.google.com/~r/Techcrunch/~3/0l00cAkhg9k/)<!-- TECH:END -->
+ - [California Man Stole 610,000 iCloud Photos in Search of Nudes](https://www.wired.com/story/icloud-photo-theft-nudes-t-mobile-security-news)
+ - [EU's data protection supervisor recommends that personal data such as search queries and browsing history should not be used for the assessment of credit scores (Catalin Cimpanu/The Record)](http://www.techmeme.com/210828/p6#a210828p6)
+ - [Best Deals August 28 - $60 off Adobe Elements bundle, 47% off Powerbeats, GoPro Hero9 Black, and more](https://appleinsider.com/articles/21/08/28/best-deals-august-28---60-off-adobe-elements-bundle-47-off-powerbeats-gopro-hero9-black-and-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
