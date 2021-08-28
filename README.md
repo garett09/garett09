@@ -193,8 +193,8 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Making Washi paper](http://9gag.com/gag/aGpQPAw)
- - 🚯 [I need this Bath Mat !!](http://9gag.com/gag/anQo6Lb)
+ - 🚖 [Canadians being canadians](http://9gag.com/gag/av5j38Z)
+ - 🚯 [Asian life hack](http://9gag.com/gag/aQojYvW)
  - 🚯 [The greatest combacks of the year](http://9gag.com/gag/aMKLRAV)<!-- MEMES:END -->
 
 --- 
