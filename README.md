@@ -189,9 +189,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Last Stop Is a Playable Love Letter to London](https://www.wired.com/story/last-stop-impressions-love-letter-london)
- - [17 Early Labor Day Deals on Laptops, Headlamps, and TVs](https://www.wired.com/story/early-labor-day-deals-2021)
- - [Tile Pro review: The bluetooth tracker that’s built to last](https://www.androidauthority.com/tile-pro-review-2739339/)<!-- TECH:END -->
+ - [Apple Watch Series 6 is world's most popular smartwatch model, research suggests](https://appleinsider.com/articles/21/08/28/apple-watch-series-6-is-worlds-most-popular-smartwatch-model-research-suggests?utm_medium=rss)
+ - [Google spending $15B to remain default iOS search engine to block Microsoft](https://appleinsider.com/articles/21/08/27/google-forecast-to-spend-15b-in-2021-to-remain-default-ios-search-engine?utm_medium=rss)
+ - ['iPhone 13' price, Apple Event dates & more on This Week in Apple](https://appleinsider.com/articles/21/08/28/iphone-13-price-rises-apple-event-date-more-on-this-week-in-apple?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
