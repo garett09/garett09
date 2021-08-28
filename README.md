@@ -196,9 +196,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Kissing short girls look cute and wrong at the same](http://9gag.com/gag/a1r3ZKY)
- - 🚯 [It&lsquo;s not about the money. It&lsquo;s about sending a message](http://9gag.com/gag/aK6oPNg)
- - 🚯 [Close call](http://9gag.com/gag/av5KZpd)<!-- MEMES:END -->
+ - 🚖 [Aight Imma white out](http://9gag.com/gag/agBzvyg)
+ - 🚯 [Dinosaur?????](http://9gag.com/gag/awMWK21)
+ - 🚯 [Extracting Honey from a Beehive](http://9gag.com/gag/ayMj0Gr)<!-- MEMES:END -->
 
 --- 
 
