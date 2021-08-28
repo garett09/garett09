@@ -179,9 +179,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Crapshoot: Dreamweb was doing cyberpunk and nudity before it was cool](https://www.pcgamer.com/saturday-crapshoot-dreamweb)
  - [Here are all the free games you can grab right now](https://www.pcgamer.com/here-are-all-the-free-games-you-can-grab-right-now)
- - [Microsoft adds a few more CPUs to Windows 11 compatibility list, but the upgrade process still seems like a mess](https://www.pcgamer.com/microsoft-adds-a-few-more-cpus-to-windows-11-compatibility-list-but-the-upgrade-process-still-seems-like-a-mess)
- - [Official PlayStation Podcast Episode 408: Minds Over Matter](http://feedproxy.google.com/~r/PSBlog/~3/u9hrAg9Nc2k/)<!-- GAME:END -->
+ - [Microsoft adds a few more CPUs to Windows 11 compatibility list, but the upgrade process still seems like a mess](https://www.pcgamer.com/microsoft-adds-a-few-more-cpus-to-windows-11-compatibility-list-but-the-upgrade-process-still-seems-like-a-mess)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
