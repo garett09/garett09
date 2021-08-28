@@ -196,9 +196,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ah yes the negotiator](http://9gag.com/gag/ad8DN6j)
- - 🚯 [Russian fixing TV](http://9gag.com/gag/aB2BK5Z)
- - 🚯 [&ldquo;Dad , please don&rsquo;t do your trick when my friends are here&rdquo; / 5 minutes later](http://9gag.com/gag/ajmerZ1)<!-- MEMES:END -->
+ - 🚖 [We need a plan \u0e3f](http://9gag.com/gag/aXo6EVV)
+ - 🚯 [Things are costly in India](http://9gag.com/gag/azMpLym)
+ - 🚯 [Close call](http://9gag.com/gag/av5KZpd)<!-- MEMES:END -->
 
 --- 
 
