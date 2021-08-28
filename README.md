@@ -193,9 +193,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [We first met online on Gears of War in 2006. We finally met each other in person 2021.](http://9gag.com/gag/awMpqeQ)
- - 🚯 [This is how they cut trees in Austria](http://9gag.com/gag/aGpQ38z)
- - 🚯 [C&#039;mon big money](http://9gag.com/gag/aLpEYPW)<!-- MEMES:END -->
+ - 🚖 [This is how they cut trees in Austria](http://9gag.com/gag/aGpQ38z)
+ - 🚯 [Orcas making toys out of other animals...](http://9gag.com/gag/azM366j)
+ - 🚯 [Do your best, crazy bastards](http://9gag.com/gag/av5K27M)<!-- MEMES:END -->
 
 --- 
 
