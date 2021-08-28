@@ -186,9 +186,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus Buds Pro review: Much better](http://feedproxy.google.com/~r/Techcrunch/~3/W-R5gQXvSm0/)
- - [Google forecast to spend $15B in 2021 to remain default iOS search engine](https://appleinsider.com/articles/21/08/27/google-forecast-to-spend-15b-in-2021-to-remain-default-ios-search-engine?utm_medium=rss)
- - [Apple launches iPhone 12, 12 Pro service program for 'no sound' issue](https://appleinsider.com/articles/21/08/27/apple-launches-iphone-12-12-pro-service-program-for-no-sound-issue?utm_medium=rss)<!-- TECH:END -->
+ - [Customer-relations management software provider Freshworks files for an IPO, looking to raise $100M; Freshworks was last valued at $3.5B in 2019 (Bloomberg)](http://www.techmeme.com/210827/p26#a210827p26)
+ - [Apple Watch Series 6 is world's most popular smartwatch model, research suggests](https://appleinsider.com/articles/21/08/28/apple-watch-series-6-is-worlds-most-popular-smartwatch-model-research-suggests?utm_medium=rss)
+ - [How much will Jake Paul and Tyron Woodley make for their fight?     - CNET](https://www.cnet.com/news/how-much-will-jake-paul-and-tyron-woodley-make-for-their-fight/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
