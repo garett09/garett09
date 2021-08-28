@@ -43,7 +43,7 @@ var status =
 
 const skills = 
 {
-  languages :[ReactJS, Bash, Html, Css, JavaScript, BootStrap, Java, Git, Markdown, VueJS],
+  languages :[ReactJS, Bash, Html, Css, JavaScript, BootStrap, Java, Git, Markdown, VueJS, Material Ui],
   
   ide       :[Vs Code, GitHub Codespace, GitPod],
   
