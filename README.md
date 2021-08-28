@@ -189,9 +189,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Analysis: a record 19 fintech startups in Europe have become unicorns in 2021 so far, bringing the total number of fintech unicorns on the continent to 39 (Gen&eacute; Teare/Crunchbase News)](http://www.techmeme.com/210828/p7#a210828p7)
- - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-395-2741513/)
- - [Best Deals August 28 - $350 GoPro Hero9 Black, $60 off Adobe Elements, 47% off Powerbeats, more](https://appleinsider.com/articles/21/08/28/best-deals-august-28---60-off-adobe-elements-bundle-47-off-powerbeats-gopro-hero9-black-and-more?utm_medium=rss)<!-- TECH:END -->
+ - [Microsoft is threatening to withhold Windows 11 updates if your CPU is old](https://www.theverge.com/2021/8/28/22646035/microsoft-windows-11-iso-workaround-no-update-guarantee)
+ - [Google allegedly offered Netflix a break on the usual Play Store commission](https://www.theverge.com/2021/8/28/22645974/google-netflix-class-action-antitrust-play-store-commission)
+ - [How to change the time on your Fitbit](https://www.androidauthority.com/how-to-change-time-fitbit-2732545/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
