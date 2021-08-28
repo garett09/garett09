@@ -186,9 +186,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft updates CPU requirements for Windows 11](https://appleinsider.com/articles/21/08/28/microsoft-updates-cpu-requirements-for-windows-11?utm_medium=rss)
- - [5 upcoming phones we're most excited to see this year: iPhone 13, Galaxy S22, Pixel 6 and more     - CNET](https://www.cnet.com/tech/mobile/5-upcoming-phones-were-most-excited-to-see-this-year-iphone-13-galaxy-s22-pixel-6-more/#ftag=CAD590a51e)
- - [#AppleToo receives nearly 500 stories of workplace issues in four days](https://appleinsider.com/articles/21/08/28/appletoo-receives-nearly-500-stories-of-workplace-issues-in-four-days?utm_medium=rss)<!-- TECH:END -->
+ - [Unity acquires Oto, an AI voice chat analysis company, and releases a report that found ~70% of players have experienced toxic behavior while gaming online (Dean Takahashi/VentureBeat)](http://www.techmeme.com/210828/p1#a210828p1)
+ - [Twitter lets some iOS users monetize Spaces gatherings](https://appleinsider.com/articles/21/08/28/twitter-lets-some-ios-users-monetize-spaces-gatherings?utm_medium=rss)
+ - [Microsoft updates CPU requirements for Windows 11](https://appleinsider.com/articles/21/08/28/microsoft-updates-cpu-requirements-for-windows-11?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
