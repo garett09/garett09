@@ -189,9 +189,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elizabeth Holmes’ defense likely includes testimony accusing her ex-partner of abuse](https://www.theverge.com/2021/8/28/22646130/theranos-elizabeth-holmes-sunny-balwani-abuse-fraud)
- - [Filing in AGs' lawsuit against Google: the Play Store hit revenues of $11.2B in 2019, with $8.5B in gross profit and an operating margin of over 62% (Paresh Dave/Reuters)](http://www.techmeme.com/210828/p10#a210828p10)
- - [Apple TV+ 'Home Before Dark' season one is free to watch](https://appleinsider.com/articles/21/08/28/apple-tv-home-before-dark-season-one-is-free-to-watch?utm_medium=rss)<!-- TECH:END -->
+ - [Lawsuit claims Google offered Netflix favorable terms over Play Store fees](https://appleinsider.com/articles/21/08/28/lawsuit-claims-google-offered-netflix-favorable-terms-over-play-store-fees?utm_medium=rss)
+ - [Ted Lasso, See and more: What movies and shows are on Apple TV Plus?     - CNET](https://www.cnet.com/tech/services-and-software/ted-lasso-see-apple-tv-plus-movies-shows/#ftag=CAD590a51e)
+ - [Peacock TV: Movies, shows and everything else to know     - CNET](https://www.cnet.com/tech/services-and-software/peacock-tv-movies-shows-and-everything-else-to-know/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
