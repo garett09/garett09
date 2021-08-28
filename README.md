@@ -193,9 +193,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Asian life hack](http://9gag.com/gag/aQojYvW)
- - 🚯 [We first met online on Gears of War in 2006. We finally met each other in person 2021.](http://9gag.com/gag/awMpqeQ)
- - 🚯 [He was an expert in kung fu.](http://9gag.com/gag/a1r64jY)<!-- MEMES:END -->
+ - 🚖 [We first met online on Gears of War in 2006. We finally met each other in person 2021.](http://9gag.com/gag/awMpqeQ)
+ - 🚯 [This is how they cut trees in Austria](http://9gag.com/gag/aGpQ38z)
+ - 🚯 [C&#039;mon big money](http://9gag.com/gag/aLpEYPW)<!-- MEMES:END -->
 
 --- 
 
