@@ -197,8 +197,8 @@ Linux                    51 mins             █░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 🚖 [We need a plan \u0e3f](http://9gag.com/gag/aXo6EVV)
- - 🚯 [Things are costly in India](http://9gag.com/gag/azMpLym)
- - 🚯 [Close call](http://9gag.com/gag/av5KZpd)<!-- MEMES:END -->
+ - 🚯 [Aight Imma white out](http://9gag.com/gag/agBzvyg)
+ - 🚯 [Fun Fact: People swallow an average of 8 lemons per year while they sleep.](http://9gag.com/gag/aQoWq52)<!-- MEMES:END -->
 
 --- 
 
