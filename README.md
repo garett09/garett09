@@ -186,9 +186,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [#AppleToo receives nearly 500 stories of workplace issues in four days](https://appleinsider.com/articles/21/08/28/appletoo-receives-nearly-500-stories-of-workplace-issues-in-four-days?utm_medium=rss)
  - [Customer-relations management software provider Freshworks files for an IPO, looking to raise $100M; Freshworks was last valued at $3.5B in 2019 (Bloomberg)](http://www.techmeme.com/210827/p26#a210827p26)
- - [Apple Watch Series 6 is world's most popular smartwatch model, research suggests](https://appleinsider.com/articles/21/08/28/apple-watch-series-6-is-worlds-most-popular-smartwatch-model-research-suggests?utm_medium=rss)
- - [How much will Jake Paul and Tyron Woodley make for their fight?     - CNET](https://www.cnet.com/news/how-much-will-jake-paul-and-tyron-woodley-make-for-their-fight/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple Watch Series 6 is world's most popular smartwatch model, research suggests](https://appleinsider.com/articles/21/08/28/apple-watch-series-6-is-worlds-most-popular-smartwatch-model-research-suggests?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
