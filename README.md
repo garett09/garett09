@@ -193,9 +193,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Better than a telenovela.](http://9gag.com/gag/aB2eDDZ)
- - 🚯 [Making Washi paper](http://9gag.com/gag/aGpQPAw)
- - 🚯 [So part of the automated chicken feeding system broke today...](http://9gag.com/gag/a7ERveb)<!-- MEMES:END -->
+ - 🚖 [Some Good Stuff?](http://9gag.com/gag/a4EOKKp)
+ - 🚯 [He was an expert in kung fu.](http://9gag.com/gag/a1r64jY)
+ - 🚯 [Better than a telenovela.](http://9gag.com/gag/aB2eDDZ)<!-- MEMES:END -->
 
 --- 
 
