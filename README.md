@@ -189,9 +189,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [CryptoSlam: CryptoPunks, an NFT platform with 10K pixel portraits, crossed $1B in transaction volume, with the cheapest artwork available for sale costing $450K (Lucas Matney/TechCrunch)](http://www.techmeme.com/210828/p9#a210828p9)
- - [The Morning Show season 2: Everything we know about the Apple TV Plus show](https://www.androidauthority.com/morning-show-season-2-apple-tv-plus-2739506/)
- - [Get 38% off the Logitech G613 keyboard, and more wireless keyboard deals](https://www.androidauthority.com/best-wireless-keyboard-deals-1113192/)<!-- TECH:END -->
+ - [Elizabeth Holmes’ defense likely includes testimony accusing her ex-partner of abuse](https://www.theverge.com/2021/8/28/22646130/theranos-elizabeth-holmes-sunny-balwani-abuse-fraud)
+ - [Filing in AGs' lawsuit against Google: the Play Store hit revenues of $11.2B in 2019, with $8.5B in gross profit and an operating margin of over 62% (Paresh Dave/Reuters)](http://www.techmeme.com/210828/p10#a210828p10)
+ - [Apple TV+ 'Home Before Dark' season one is free to watch](https://appleinsider.com/articles/21/08/28/apple-tv-home-before-dark-season-one-is-free-to-watch?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
