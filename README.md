@@ -196,9 +196,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Some Good Stuff?](http://9gag.com/gag/a4EOKKp)
- - 🚯 [Wow](http://9gag.com/gag/aeA8jqq)
- - 🚯 [A Dad is a Dad, always.](http://9gag.com/gag/a4EOKN6)<!-- MEMES:END -->
+ - 🚖 [Ufff...](http://9gag.com/gag/aEpmwXp)
+ - 🚯 [Fun Fact: People swallow an average of 8 lemons per year while they sleep.](http://9gag.com/gag/aQoWq52)
+ - 🚯 [Shopping cart, corner pocket](http://9gag.com/gag/aWj3Zgx)<!-- MEMES:END -->
 
 --- 
 
