@@ -189,9 +189,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Watch Series 6 is world's most popular smartwatch model, research suggests](https://appleinsider.com/articles/21/08/28/apple-watch-series-6-is-worlds-most-popular-smartwatch-model-research-suggests?utm_medium=rss)
- - [Google spending $15B to remain default iOS search engine to block Microsoft](https://appleinsider.com/articles/21/08/27/google-forecast-to-spend-15b-in-2021-to-remain-default-ios-search-engine?utm_medium=rss)
- - ['iPhone 13' price, Apple Event dates & more on This Week in Apple](https://appleinsider.com/articles/21/08/28/iphone-13-price-rises-apple-event-date-more-on-this-week-in-apple?utm_medium=rss)<!-- TECH:END -->
+ - [The 8 Best Smart Speakers With Alexa or Google Assistant](https://www.wired.com/story/best-smart-speakers)
+ - [The App Store is too big to change](https://www.theverge.com/22645070/apple-app-store-policies-purchases-cut-fees-change-class-action)
+ - [Didi, which grew by moving in regulatory gray zones before the US IPO, became a bellwether for how far China is ready to go in Big Tech crackdowns (New York Times)](http://www.techmeme.com/210828/p5#a210828p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
