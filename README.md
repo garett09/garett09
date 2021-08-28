@@ -196,9 +196,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [We need a plan \u0e3f](http://9gag.com/gag/aXo6EVV)
- - 🚯 [Aight Imma white out](http://9gag.com/gag/agBzvyg)
- - 🚯 [Fun Fact: People swallow an average of 8 lemons per year while they sleep.](http://9gag.com/gag/aQoWq52)<!-- MEMES:END -->
+ - 🚖 [Those two girls felt that one as well](http://9gag.com/gag/ayMj5G8)
+ - 🚯 [We need a plan \u0e3f](http://9gag.com/gag/aXo6EVV)
+ - 🚯 [Kissing short girls look cute and wrong at the same](http://9gag.com/gag/a1r3ZKY)<!-- MEMES:END -->
 
 --- 
 
