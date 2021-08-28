@@ -193,8 +193,8 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Some Good Stuff?](http://9gag.com/gag/a4EOKKp)
- - 🚯 [He was an expert in kung fu.](http://9gag.com/gag/a1r64jY)
+ - 🚖 [The Shape of water](http://9gag.com/gag/aeA8Knp)
+ - 🚯 [262340](http://9gag.com/gag/aZ0Oqxp)
  - 🚯 [Better than a telenovela.](http://9gag.com/gag/aB2eDDZ)<!-- MEMES:END -->
 
 --- 
