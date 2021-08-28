@@ -182,9 +182,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Destiny 2 Nerfs Dancing Hunters](https://kotaku.com/destiny-2-nerfs-dancing-hunters-1847578409)
  - [Xbox Doesn't Want You To Name Your Baby 'Game Pass'](https://kotaku.com/xbox-doesnt-want-you-to-name-your-baby-game-pass-1847578086)
- - [It's 2021 And Halo 3 Is Still Getting New Maps](https://kotaku.com/its-2021-and-halo-3-is-still-getting-new-maps-1847577777)
- - [Clearing up one of The Green Knight’s biggest mysteries](https://www.polygon.com/interviews/22645517/green-knight-interview-colors-meaning-easter-eggs-helen-of-troy)<!-- GAME:END -->
+ - [It's 2021 And Halo 3 Is Still Getting New Maps](https://kotaku.com/its-2021-and-halo-3-is-still-getting-new-maps-1847577777)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
