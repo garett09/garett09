@@ -186,9 +186,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tile Pro review: The bluetooth tracker that’s built to last](https://www.androidauthority.com/tile-pro-review-2739339/)
- - [BlueCity, owner of China's biggest gay dating app Blued, is navigating a precarious environment for LGBTQI orgs by positioning itself as a sexual health service (Rest of World)](http://www.techmeme.com/210828/p4#a210828p4)
- - [2021 Moto Guzzi V7 Centenario is the company's 100th birthday present to itself     - Roadshow](https://www.cnet.com/roadshow/pictures/moto-guzzi-v7-centenario/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Last Stop Is a Playable Love Letter to London](https://www.wired.com/story/last-stop-impressions-love-letter-london)
+ - [17 Early Labor Day Deals on Laptops, Headlamps, and TVs](https://www.wired.com/story/early-labor-day-deals-2021)
+ - [Tile Pro review: The bluetooth tracker that’s built to last](https://www.androidauthority.com/tile-pro-review-2739339/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
