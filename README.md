@@ -196,9 +196,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Shopping cart, corner pocket](http://9gag.com/gag/aWj3Zgx)
- - 🚯 [Those two girls felt that one as well](http://9gag.com/gag/ayMj5G8)
- - 🚯 [Fun Fact: People swallow an average of 8 lemons per year while they sleep.](http://9gag.com/gag/aQoWq52)<!-- MEMES:END -->
+ - 🚖 [Ah yes the negotiator](http://9gag.com/gag/ad8DN6j)
+ - 🚯 [Russian fixing TV](http://9gag.com/gag/aB2BK5Z)
+ - 🚯 [&ldquo;Dad , please don&rsquo;t do your trick when my friends are here&rdquo; / 5 minutes later](http://9gag.com/gag/ajmerZ1)<!-- MEMES:END -->
 
 --- 
 
