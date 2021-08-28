@@ -194,7 +194,7 @@ Linux                    51 mins             █░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 🚖 [Someone talk to me plz](http://9gag.com/gag/aYoXNRv)
- - 🚯 [Yep. Adulthood has ruined my innocence](http://9gag.com/gag/aV7yzgn)
+ - 🚯 [Do your best, crazy bastards](http://9gag.com/gag/av5K27M)
  - 🚯 [Impawsibru..](http://9gag.com/gag/a1r3vP2)<!-- MEMES:END -->
 
 --- 
