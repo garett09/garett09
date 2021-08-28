@@ -189,9 +189,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nomad Leather Skin review: A cover that maintains your iPhone 12's aesthetic](https://appleinsider.com/articles/21/08/28/nomad-leather-skin-review-a-cover-that-maintains-your-iphone-12s-aesthetic?utm_medium=rss)
  - [Lawsuit claims Google offered Netflix favorable terms over Play Store fees](https://appleinsider.com/articles/21/08/28/lawsuit-claims-google-offered-netflix-favorable-terms-over-play-store-fees?utm_medium=rss)
- - [Ted Lasso, See and more: What movies and shows are on Apple TV Plus?     - CNET](https://www.cnet.com/tech/services-and-software/ted-lasso-see-apple-tv-plus-movies-shows/#ftag=CAD590a51e)
- - [Peacock TV: Movies, shows and everything else to know     - CNET](https://www.cnet.com/tech/services-and-software/peacock-tv-movies-shows-and-everything-else-to-know/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [At trial, Elizabeth Holmes may claim Theranos partner and onetime beau abused her     - CNET](https://www.cnet.com/news/at-trial-elizabeth-holmes-may-claim-theranos-partner-and-onetime-beau-abused-her/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
