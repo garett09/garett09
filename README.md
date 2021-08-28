@@ -196,9 +196,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Randall Champion accidentally touched a high-voltage line, electrifying himself and stopping his heart. A fellow linemen J.D. Thompson performed mouth-to-mouth CPR until paramedics arrived. Champion survived. This famous photo is known as &quot;The Kiss of Life.&quot; (1967).](http://9gag.com/gag/aDdeAKG)
- - 🚯 [No Alfred I ask for a batmobile not a bathmobile you senile f**k](http://9gag.com/gag/aV7yz6P)
- - 🚯 [Wow](http://9gag.com/gag/aeA8jqq)<!-- MEMES:END -->
+ - 🚖 [Some Good Stuff?](http://9gag.com/gag/a4EOKKp)
+ - 🚯 [Wow](http://9gag.com/gag/aeA8jqq)
+ - 🚯 [A Dad is a Dad, always.](http://9gag.com/gag/a4EOKN6)<!-- MEMES:END -->
 
 --- 
 
