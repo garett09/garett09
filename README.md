@@ -182,9 +182,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [No more overpowered dancing in Destiny 2 PVP](https://www.pcgamer.com/no-more-overpowered-dancing-in-destiny-2-pvp)
  - [Modders dethrone CGI to restore glorious FMV in the Myst remake](https://www.pcgamer.com/modders-dethrone-cgi-to-restore-glorious-fmv-in-the-myst-remake)
- - [Destiny 2 Nerfs Dancing Hunters](https://kotaku.com/destiny-2-nerfs-dancing-hunters-1847578409)
- - [Xbox Doesn't Want You To Name Your Baby 'Game Pass'](https://kotaku.com/xbox-doesnt-want-you-to-name-your-baby-game-pass-1847578086)<!-- GAME:END -->
+ - [Destiny 2 Nerfs Dancing Hunters](https://kotaku.com/destiny-2-nerfs-dancing-hunters-1847578409)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
