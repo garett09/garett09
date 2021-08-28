@@ -193,9 +193,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The Shape of water](http://9gag.com/gag/aeA8Knp)
- - 🚯 [Orcas making toys out of other animals...](http://9gag.com/gag/azM366j)
- - 🚯 [So part of the automated chicken feeding system broke today...](http://9gag.com/gag/a7ERveb)<!-- MEMES:END -->
+ - 🚖 [Someone talk to me plz](http://9gag.com/gag/aYoXNRv)
+ - 🚯 [Yep. Adulthood has ruined my innocence](http://9gag.com/gag/aV7yzgn)
+ - 🚯 [Impawsibru..](http://9gag.com/gag/a1r3vP2)<!-- MEMES:END -->
 
 --- 
 
