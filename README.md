@@ -194,8 +194,8 @@ Linux                    51 mins             █░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 🚖 [The Shape of water](http://9gag.com/gag/aeA8Knp)
- - 🚯 [262340](http://9gag.com/gag/aZ0Oqxp)
- - 🚯 [Better than a telenovela.](http://9gag.com/gag/aB2eDDZ)<!-- MEMES:END -->
+ - 🚯 [Orcas making toys out of other animals...](http://9gag.com/gag/azM366j)
+ - 🚯 [So part of the automated chicken feeding system broke today...](http://9gag.com/gag/a7ERveb)<!-- MEMES:END -->
 
 --- 
 
