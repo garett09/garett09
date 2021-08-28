@@ -186,9 +186,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitter lets some iOS users monetize Spaces gatherings](https://appleinsider.com/articles/21/08/28/twitter-lets-some-ios-users-monetize-spaces-gatherings?utm_medium=rss)
- - [Apple announces free repairs for iPhone 12 and iPhone 12 Pro devices manufactured between October 2020 and April 2021 affected by "no sound issues" (Chance Miller/9to5Mac)](http://www.techmeme.com/210828/p3#a210828p3)
- - [[Thread] Hopscotch CEO details the rejection of a minor app update in the App Store and says this was "not even her worst run-in" with Apple's App Review team (Samantha John/@samj0hn)](http://www.techmeme.com/210828/p2#a210828p2)<!-- TECH:END -->
+ - [Data scientists: don’t be afraid to explore new avenues](http://feedproxy.google.com/~r/Techcrunch/~3/TrT0V-ObVvQ/)
+ - [Microsoft updates CPU requirements for Windows 11](https://appleinsider.com/articles/21/08/28/microsoft-updates-cpu-requirements-for-windows-11?utm_medium=rss)
+ - [Twitter lets some iOS users monetize Spaces gatherings](https://appleinsider.com/articles/21/08/28/twitter-lets-some-ios-users-monetize-spaces-gatherings?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
