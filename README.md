@@ -193,9 +193,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This is how they cut trees in Austria](http://9gag.com/gag/aGpQ38z)
+ - 🚖 [Better than a telenovela.](http://9gag.com/gag/aB2eDDZ)
  - 🚯 [Orcas making toys out of other animals...](http://9gag.com/gag/azM366j)
- - 🚯 [Do your best, crazy bastards](http://9gag.com/gag/av5K27M)<!-- MEMES:END -->
+ - 🚯 [No one got it right](http://9gag.com/gag/aMKLRgR)<!-- MEMES:END -->
 
 --- 
 
