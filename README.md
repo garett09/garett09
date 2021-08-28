@@ -196,9 +196,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [0 to 100](http://9gag.com/gag/aAbzp1Z)
- - 🚯 [It&lsquo;s not about the money. It&lsquo;s about sending a message](http://9gag.com/gag/aK6oPNg)
- - 🚯 [True?](http://9gag.com/gag/aDde3q7)<!-- MEMES:END -->
+ - 🚖 [It&lsquo;s not about the money. It&lsquo;s about sending a message](http://9gag.com/gag/aK6oPNg)
+ - 🚯 [Prove this wrong, I dare you, I double dare you comrade!](http://9gag.com/gag/a276q1D)
+ - 🚯 [This dev had a great idea. Technology is too cool.](http://9gag.com/gag/aNpEZ1v)<!-- MEMES:END -->
 
 --- 
 
