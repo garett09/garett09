@@ -196,9 +196,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ufff...](http://9gag.com/gag/aEpmwXp)
- - 🚯 [Fun Fact: People swallow an average of 8 lemons per year while they sleep.](http://9gag.com/gag/aQoWq52)
- - 🚯 [Shopping cart, corner pocket](http://9gag.com/gag/aWj3Zgx)<!-- MEMES:END -->
+ - 🚖 [Shopping cart, corner pocket](http://9gag.com/gag/aWj3Zgx)
+ - 🚯 [Those two girls felt that one as well](http://9gag.com/gag/ayMj5G8)
+ - 🚯 [Fun Fact: People swallow an average of 8 lemons per year while they sleep.](http://9gag.com/gag/aQoWq52)<!-- MEMES:END -->
 
 --- 
 
