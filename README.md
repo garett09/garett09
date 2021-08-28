@@ -196,9 +196,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Those two girls felt that one as well](http://9gag.com/gag/ayMj5G8)
- - 🚯 [We need a plan \u0e3f](http://9gag.com/gag/aXo6EVV)
- - 🚯 [Kissing short girls look cute and wrong at the same](http://9gag.com/gag/a1r3ZKY)<!-- MEMES:END -->
+ - 🚖 [Kissing short girls look cute and wrong at the same](http://9gag.com/gag/a1r3ZKY)
+ - 🚯 [It&lsquo;s not about the money. It&lsquo;s about sending a message](http://9gag.com/gag/aK6oPNg)
+ - 🚯 [Close call](http://9gag.com/gag/av5KZpd)<!-- MEMES:END -->
 
 --- 
 
