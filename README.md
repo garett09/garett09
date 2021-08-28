@@ -186,9 +186,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Data scientists: don’t be afraid to explore new avenues](http://feedproxy.google.com/~r/Techcrunch/~3/TrT0V-ObVvQ/)
- - [Microsoft updates CPU requirements for Windows 11](https://appleinsider.com/articles/21/08/28/microsoft-updates-cpu-requirements-for-windows-11?utm_medium=rss)
- - [Twitter lets some iOS users monetize Spaces gatherings](https://appleinsider.com/articles/21/08/28/twitter-lets-some-ios-users-monetize-spaces-gatherings?utm_medium=rss)<!-- TECH:END -->
+ - [Tile Pro review: The bluetooth tracker that’s built to last](https://www.androidauthority.com/tile-pro-review-2739339/)
+ - [BlueCity, owner of China's biggest gay dating app Blued, is navigating a precarious environment for LGBTQI orgs by positioning itself as a sexual health service (Rest of World)](http://www.techmeme.com/210828/p4#a210828p4)
+ - [2021 Moto Guzzi V7 Centenario is the company's 100th birthday present to itself     - Roadshow](https://www.cnet.com/roadshow/pictures/moto-guzzi-v7-centenario/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
