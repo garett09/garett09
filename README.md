@@ -182,9 +182,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Buizel Is Just A Knock-Off Tails](https://kotaku.com/buizel-is-just-a-knock-off-tails-1847575610)
- - [13 great movies leaving Netflix, Hulu, and Amazon at the end of August 2021](https://www.polygon.com/2021/8/28/22642870/best-movies-netflix-amazon-hulu-leaving-september-2021)
- - [Crapshoot: Dreamweb was doing cyberpunk and nudity before it was cool](https://www.pcgamer.com/saturday-crapshoot-dreamweb)<!-- GAME:END -->
+ - [It's 2021 And Halo 3 Is Still Getting New Maps](https://kotaku.com/its-2021-and-halo-3-is-still-getting-new-maps-1847577777)
+ - [Clearing up one of The Green Knight’s biggest mysteries](https://www.polygon.com/interviews/22645517/green-knight-interview-colors-meaning-easter-eggs-helen-of-troy)
+ - [Buizel Is Just A Knock-Off Tails](https://kotaku.com/buizel-is-just-a-knock-off-tails-1847575610)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
