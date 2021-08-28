@@ -196,9 +196,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Aight Imma white out](http://9gag.com/gag/agBzvyg)
- - 🚯 [Dinosaur?????](http://9gag.com/gag/awMWK21)
- - 🚯 [Extracting Honey from a Beehive](http://9gag.com/gag/ayMj0Gr)<!-- MEMES:END -->
+ - 🚖 [0 to 100](http://9gag.com/gag/aAbzp1Z)
+ - 🚯 [It&lsquo;s not about the money. It&lsquo;s about sending a message](http://9gag.com/gag/aK6oPNg)
+ - 🚯 [True?](http://9gag.com/gag/aDde3q7)<!-- MEMES:END -->
 
 --- 
 
