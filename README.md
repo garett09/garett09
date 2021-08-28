@@ -189,9 +189,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 8 Best Smart Speakers With Alexa or Google Assistant](https://www.wired.com/story/best-smart-speakers)
- - [The App Store is too big to change](https://www.theverge.com/22645070/apple-app-store-policies-purchases-cut-fees-change-class-action)
- - [Didi, which grew by moving in regulatory gray zones before the US IPO, became a bellwether for how far China is ready to go in Big Tech crackdowns (New York Times)](http://www.techmeme.com/210828/p5#a210828p5)<!-- TECH:END -->
+ - [Best Deals August 28 - $60 off Adobe Elements bundle, 47% off Powerbeats, GoPro Hero9 Black, and more](https://appleinsider.com/articles/21/08/28/best-deals-august-28---60-off-adobe-elements-bundle-47-off-powerbeats-gopro-hero9-black-and-more?utm_medium=rss)
+ - [Samsung Galaxy S21 Ultra revisited: This year’s Galaxy Note](https://www.androidauthority.com/samsung-galaxy-s21-ultra-review-revisited-2736813/)
+ - [On the future of walls, or The Wall](http://feedproxy.google.com/~r/Techcrunch/~3/0l00cAkhg9k/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
