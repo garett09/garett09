@@ -49,7 +49,7 @@ const skills =
   
   frameworks:[Bootstrap, Sharepoint Framework, NodeJs],
   
-  platforms :[Google Cloud Platform, Buildkite, Heroku, Netlify, Firebase],
+  platforms :[Google Cloud Platform, Buildkite, Heroku, Netlify, Firebase, Cloudflare],
   
   cicd      :[Github Workflows, Jenkins, Gerrit Code Review],
 
