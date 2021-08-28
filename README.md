@@ -194,8 +194,8 @@ Linux                    51 mins             █░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 🚖 [Better than a telenovela.](http://9gag.com/gag/aB2eDDZ)
- - 🚯 [Orcas making toys out of other animals...](http://9gag.com/gag/azM366j)
- - 🚯 [No one got it right](http://9gag.com/gag/aMKLRgR)<!-- MEMES:END -->
+ - 🚯 [Making Washi paper](http://9gag.com/gag/aGpQPAw)
+ - 🚯 [So part of the automated chicken feeding system broke today...](http://9gag.com/gag/a7ERveb)<!-- MEMES:END -->
 
 --- 
 
