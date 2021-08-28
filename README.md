@@ -193,9 +193,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Canadians being canadians](http://9gag.com/gag/av5j38Z)
- - 🚯 [Asian life hack](http://9gag.com/gag/aQojYvW)
- - 🚯 [The greatest combacks of the year](http://9gag.com/gag/aMKLRAV)<!-- MEMES:END -->
+ - 🚖 [Asian life hack](http://9gag.com/gag/aQojYvW)
+ - 🚯 [We first met online on Gears of War in 2006. We finally met each other in person 2021.](http://9gag.com/gag/awMpqeQ)
+ - 🚯 [He was an expert in kung fu.](http://9gag.com/gag/a1r64jY)<!-- MEMES:END -->
 
 --- 
 
