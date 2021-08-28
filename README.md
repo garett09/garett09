@@ -193,9 +193,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Someone talk to me plz](http://9gag.com/gag/aYoXNRv)
- - 🚯 [Do your best, crazy bastards](http://9gag.com/gag/av5K27M)
- - 🚯 [Impawsibru..](http://9gag.com/gag/a1r3vP2)<!-- MEMES:END -->
+ - 🚖 [Mental battle. Substance abuse. Giving up and then seeing a bit of light for the first time in years.](http://9gag.com/gag/av5KpK5)
+ - 🚯 [Impawsibru..](http://9gag.com/gag/a1r3vP2)
+ - 🚯 [Whoop-whoop-pah!](http://9gag.com/gag/arM7vod)<!-- MEMES:END -->
 
 --- 
 
