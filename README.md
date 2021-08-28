@@ -182,9 +182,9 @@ Linux                    51 mins             █░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Crapshoot: Dreamweb was doing cyberpunk and nudity before it was cool](https://www.pcgamer.com/saturday-crapshoot-dreamweb)
- - [Here are all the free games you can grab right now](https://www.pcgamer.com/here-are-all-the-free-games-you-can-grab-right-now)
- - [Microsoft adds a few more CPUs to Windows 11 compatibility list, but the upgrade process still seems like a mess](https://www.pcgamer.com/microsoft-adds-a-few-more-cpus-to-windows-11-compatibility-list-but-the-upgrade-process-still-seems-like-a-mess)<!-- GAME:END -->
+ - [Buizel Is Just A Knock-Off Tails](https://kotaku.com/buizel-is-just-a-knock-off-tails-1847575610)
+ - [13 great movies leaving Netflix, Hulu, and Amazon at the end of August 2021](https://www.polygon.com/2021/8/28/22642870/best-movies-netflix-amazon-hulu-leaving-september-2021)
+ - [Crapshoot: Dreamweb was doing cyberpunk and nudity before it was cool](https://www.pcgamer.com/saturday-crapshoot-dreamweb)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
