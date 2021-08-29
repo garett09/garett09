@@ -182,9 +182,9 @@ Linux                    50 mins             █░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Nuclear Throne, Sludge Life, and Broforce devs team up for a slick little card game](https://www.pcgamer.com/nuclear-throne-sludge-life-and-broforce-devs-team-up-for-a-slick-little-card-game)
- - [Hubworld 2021 Showcased Some Awesome Looking 3D Platformers](https://kotaku.com/hubworld-2021-showcased-some-awesome-looking-3d-platfor-1847580816)
- - [Norman Reedus says he's "in negotiations" for more Death Stranding](https://www.pcgamer.com/norman-reedus-in-negotiations-for-more-death-stranding)<!-- GAME:END -->
+ - [The NoSkyrim mod has been banned from Nexus Mods](https://www.pcgamer.com/the-noskyrim-mod-has-been-banned-from-nexus-mods)
+ - [The Week In Games: Kiwi Birds](https://kotaku.com/the-week-in-games-kiwi-birds-1847581135)
+ - [Nuclear Throne, Sludge Life, and Broforce devs team up for a slick little card game](https://www.pcgamer.com/nuclear-throne-sludge-life-and-broforce-devs-team-up-for-a-slick-little-card-game)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
