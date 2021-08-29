@@ -182,9 +182,9 @@ Linux                    50 mins             █░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Dev Explains Terrifying Bug He Encountered During Testing](https://kotaku.com/dev-explains-terrifying-bug-he-encountered-during-testi-1847580103)
  - [The Good Fight is the Star Trek of legal dramas](https://www.polygon.com/features/22645241/the-good-fight-season-5-review)
- - [Sunday Comics: Non-Lethal Ammo](https://kotaku.com/sunday-comics-non-lethal-ammo-1847579955)
- - [Final Fantasy 14 birthday cake will make you want to eat a moogle](https://www.pcgamer.com/final-fantasy-14-birthday-cake-will-make-you-want-to-eat-a-moogle)<!-- GAME:END -->
+ - [Sunday Comics: Non-Lethal Ammo](https://kotaku.com/sunday-comics-non-lethal-ammo-1847579955)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
