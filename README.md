@@ -196,9 +196,9 @@ Linux                    50 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Every one hate Cyclist](http://9gag.com/gag/anQPN4E)
+ - 🚖 [A magnificent lion and his cubs](http://9gag.com/gag/aV7yP62)
  - 🚯 [You ok hun?](http://9gag.com/gag/axMqj9M)
- - 🚯 [It was cold wind probably, no?](http://9gag.com/gag/aB2Brxx)<!-- MEMES:END -->
+ - 🚯 [Oof](http://9gag.com/gag/aNpEKm4)<!-- MEMES:END -->
 
 --- 
 
