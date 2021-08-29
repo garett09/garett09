@@ -196,9 +196,9 @@ Linux                    50 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Go f*ck yourself!](http://9gag.com/gag/aZ0OpP9)
+ - 🚖 [Juan is a nice dude , I think](http://9gag.com/gag/a8Expjp)
  - 🚯 [Goth boots](http://9gag.com/gag/anQP10b)
- - 🚯 [FeelsGoodMan](http://9gag.com/gag/aLp7Mjv)<!-- MEMES:END -->
+ - 🚯 [Arsenal fans to Man City &quot;We lose every week. You&#039;re nothing special. We lose every week&quot;](http://9gag.com/gag/a276mQE)<!-- MEMES:END -->
 
 --- 
 
