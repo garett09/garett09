@@ -189,9 +189,9 @@ Linux                    50 mins             █░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Xiaomi Mi 12: 6 things we want to see from Xiaomi’s 2022 flagship](https://www.androidauthority.com/xiaomi-mi-12-2737874/)
- - [11 Ways to Upgrade Your Wi-Fi and Make Your Internet Faster](https://www.wired.com/story/how-to-make-your-wifi-better-faster)
- - [How to Save Money on Your Digital Subscriptions](https://www.wired.com/story/how-to-save-money-subscriptions-spotify-netflix-hulu-youtube)<!-- TECH:END -->
+ - [Angry Birds maker sued by New Mexico for allegedly violating COPPA](https://appleinsider.com/articles/21/08/29/angry-birds-maker-sued-by-new-mexico-for-allegedly-violating-coppa?utm_medium=rss)
+ - [Computer Scientists Find a Key Research Algorithm's Limits](https://www.wired.com/story/computer-scientists-find-a-key-research-algorithms-limits)
+ - [The Best Fitness Trackers and Watches for Everyone](https://www.wired.com/gallery/best-fitness-tracker)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
