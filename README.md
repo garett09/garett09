@@ -189,9 +189,9 @@ Linux                    50 mins             █░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [New research suggests the internet is not making people who engage in political discussions online more aggressive, but makes their behavior more visible (E&T Magazine)](http://www.techmeme.com/210829/p2#a210829p2)
- - [Interview with Apple engineer Cher Scarlett, who has become the face of the #AppleToo movement, a group that wants to shed light on workplace issues at Apple (Anna Kramer/Protocol)](http://www.techmeme.com/210829/p1#a210829p1)
- - [T-Mobile CEO calls latest data breach ‘humbling,’ claims it’s committed to security](https://www.theverge.com/2021/8/28/22646439/t-mobile-data-breach-ceo-security-mandiant-kpmg)<!-- TECH:END -->
+ - [Weekly Authority: Edition #157](https://www.androidauthority.com/newsletters/weekly-authority-edition-157/)
+ - [Galaxy S21 FE rumors: Samsung's budget-friendly phone may have 6GB of RAM, YouTube Premium     - CNET](https://www.cnet.com/tech/mobile/galaxy-s21-fe-rumors-samsungs-budget-friendly-phone-may-have-6gb-ram-youtube-premium/#ftag=CAD590a51e)
+ - [Jake Paul vs. Tyron Woodley: How much will they make?     - CNET](https://www.cnet.com/news/jake-paul-vs-tyron-woodley-how-much-will-they-make/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
