@@ -196,9 +196,9 @@ Linux                    50 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Goth boots](http://9gag.com/gag/anQP10b)
- - 🚯 [Service doggo makes a trip to the local market](http://9gag.com/gag/a7ER7XA)
- - 🚯 [It happens all the time](http://9gag.com/gag/aYoXL3v)<!-- MEMES:END -->
+ - 🚖 [How to train trick for your dogs](http://9gag.com/gag/a9EgY8j)
+ - 🚯 [No Matter How Low We Get, Good People Will Always Exist](http://9gag.com/gag/aNpEWov)
+ - 🚯 [If you could revive one person, who would it be?](http://9gag.com/gag/a27656O)<!-- MEMES:END -->
 
 --- 
 
