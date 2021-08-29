@@ -196,9 +196,9 @@ Linux                    50 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [He is such a great actor](http://9gag.com/gag/abVn09r)
- - 🚯 [How does it feel going out after a long lockdown](http://9gag.com/gag/aAbz1EE)
- - 🚯 [When the door gets opened](http://9gag.com/gag/aMKMGOX)<!-- MEMES:END -->
+ - 🚖 [I finished my project I started during the lockdowns. I feel very proud abut it and wanted to share](http://9gag.com/gag/arM7REy)
+ - 🚯 [When the door gets opened](http://9gag.com/gag/aMKMGOX)
+ - 🚯 [No Matter How Low We Get, Good People Will Always Exist](http://9gag.com/gag/aNpEWov)<!-- MEMES:END -->
 
 --- 
 
