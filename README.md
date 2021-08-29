@@ -196,8 +196,8 @@ Linux                    50 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Dinosaur?????](http://9gag.com/gag/awMWK21)
- - 🚯 [Prove this wrong, I dare you, I double dare you comrade!](http://9gag.com/gag/a276q1D)
+ - 🚖 [Prove this wrong, I dare you, I double dare you comrade!](http://9gag.com/gag/a276q1D)
+ - 🚯 [Dinosaur?????](http://9gag.com/gag/awMWK21)
  - 🚯 [You fools](http://9gag.com/gag/a9EgP0K)<!-- MEMES:END -->
 
 --- 
