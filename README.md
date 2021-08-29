@@ -196,9 +196,9 @@ Linux                    50 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Guess it&#039;s time to play Skyrim again](http://9gag.com/gag/aoMQ2d3)
- - 🚯 [In 2019, a Swedish mother of 6, Emma Schols, saved all of her 6 children from her burning home, running from room to room through flames while bleeding &amp; losing skin. Against all odds, she survived with extreme burns to over 90% of her body.](http://9gag.com/gag/aV7yqEK)
- - 🚯 [Walking through a swamp](http://9gag.com/gag/a8Ex8xV)<!-- MEMES:END -->
+ - 🚖 [FINISH HIM](http://9gag.com/gag/ayMjDGX)
+ - 🚯 [I heard you like big forge hammers...](http://9gag.com/gag/a1r3oWG)
+ - 🚯 [Square hole](http://9gag.com/gag/a9EgAe6)<!-- MEMES:END -->
 
 --- 
 
