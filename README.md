@@ -196,9 +196,9 @@ Linux                    50 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Imagine how easy it is to order a drink!](http://9gag.com/gag/ajmeAEw)
- - 🚯 [It&#039;s sad but true](http://9gag.com/gag/a1r3XKP)
- - 🚯 [Any French to deny this ?](http://9gag.com/gag/a07yjnq)<!-- MEMES:END -->
+ - 🚖 [Goth boots](http://9gag.com/gag/anQP10b)
+ - 🚯 [Service doggo makes a trip to the local market](http://9gag.com/gag/a7ER7XA)
+ - 🚯 [It happens all the time](http://9gag.com/gag/aYoXL3v)<!-- MEMES:END -->
 
 --- 
 
