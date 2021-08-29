@@ -182,9 +182,9 @@ Linux                    50 mins             █░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Final Fantasy 14 birthday cake will make you want to eat a moogle](https://www.pcgamer.com/final-fantasy-14-birthday-cake-will-make-you-want-to-eat-a-moogle)
- - [Get three more Leisure Suit Larry games free](https://www.pcgamer.com/get-three-more-leisure-suit-larry-games-free)
- - [Humankind to get mod tools "as soon as possible"](https://www.pcgamer.com/humankind-to-get-mod-tools-as-soon-as-possible)<!-- GAME:END -->
+ - [The Good Fight is the Star Trek of legal dramas](https://www.polygon.com/features/22645241/the-good-fight-season-5-review)
+ - [Sunday Comics: Non-Lethal Ammo](https://kotaku.com/sunday-comics-non-lethal-ammo-1847579955)
+ - [Final Fantasy 14 birthday cake will make you want to eat a moogle](https://www.pcgamer.com/final-fantasy-14-birthday-cake-will-make-you-want-to-eat-a-moogle)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
