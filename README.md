@@ -189,9 +189,9 @@ Linux                    50 mins             █░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy Z Fold 3 vs Galaxy Z Flip 3: Camera shootout](https://www.androidauthority.com/samsung-galaxy-z-fold-3-vs-galaxy-z-flip-3-camera-test-2739055/)
- - [Nothing Can Eat Australia’s Cane Toads—So They Eat Each Other](https://www.wired.com/story/nothing-can-eat-australias-cane-toads-they-eat-each-other)
- - [6 Things You Need to Do to Prevent Getting Hacked](https://www.wired.com/story/how-to-prevent-getting-hacked)<!-- TECH:END -->
+ - [Hurricane Ida strengthens into a life-threatening storm overnight](https://www.theverge.com/2021/8/29/22647037/hurricane-ida-rapid-intensification-louisiana-storm)
+ - [Kanye West releases 'Donda' on Apple Music following delays](https://appleinsider.com/articles/21/08/29/kanye-west-releases-donda-on-apple-music-following-delays?utm_medium=rss)
+ - [Will the iPhone 13 get a stylish new look? Apple's upcoming iPhone could come in a few snazzy colors     - CNET](https://www.cnet.com/tech/mobile/will-the-iphone-13-get-a-stylish-new-look-apples-upcoming-iphone-could-come-in-a-few-snazzy-colors/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
