@@ -182,9 +182,9 @@ Linux                    50 mins             █░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [This week in PC Gaming: Pathfinder: Wrath of the Righteous, Lake, and Pax West](https://www.pcgamer.com/this-week-in-pc-gaming-pathfinder-wrath-of-the-righteous-lake-and-pax-west)
  - [Dev Explains Terrifying Bug He Encountered During Testing](https://kotaku.com/dev-explains-terrifying-bug-he-encountered-during-testi-1847580103)
- - [The Good Fight is the Star Trek of legal dramas](https://www.polygon.com/features/22645241/the-good-fight-season-5-review)
- - [Sunday Comics: Non-Lethal Ammo](https://kotaku.com/sunday-comics-non-lethal-ammo-1847579955)<!-- GAME:END -->
+ - [The Good Fight is the Star Trek of legal dramas](https://www.polygon.com/features/22645241/the-good-fight-season-5-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
