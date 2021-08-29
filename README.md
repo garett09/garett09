@@ -189,9 +189,9 @@ Linux                    50 mins             █░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Jack Dorsey and Mike Brock say Square's TBD is building a Bitcoin-centric decentralized exchange for digital assets (Andrew Hayward/Decrypt)](http://www.techmeme.com/210829/p5#a210829p5)
- - [Watch Peter Jackson’s spooky comedy classic The Frighteners on Starz](https://www.androidauthority.com/the-frighteners-starz-2738389/)
- - [5 exciting phones to look out for this year: iPhone 13, Galaxy S22, Pixel 6 and more     - CNET](https://www.cnet.com/tech/mobile/5-exciting-phones-to-look-out-for-this-year-iphone-13-galaxy-s22-pixel-6-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Clubhouse adds spatial audio to help identify speakers](https://appleinsider.com/articles/21/08/29/clubhouse-adds-spatial-audio-to-help-identify-speakers?utm_medium=rss)
+ - [The iPhone 13 could have satellite connectivity](https://www.theverge.com/2021/8/29/22647252/the-iphone-13-5g-leo-satellite)
+ - [Sources: Apple Watch Series 7 will get an updated design, come in 41mm and 45mm sizes, featuring multiple new watch faces to take advantage of the bigger screen (Mark Gurman/Bloomberg)](http://www.techmeme.com/210829/p6#a210829p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
