@@ -182,9 +182,9 @@ Linux                    50 mins             █░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [No more overpowered dancing in Destiny 2 PVP](https://www.pcgamer.com/no-more-overpowered-dancing-in-destiny-2-pvp)
- - [Modders dethrone CGI to restore glorious FMV in the Myst remake](https://www.pcgamer.com/modders-dethrone-cgi-to-restore-glorious-fmv-in-the-myst-remake)
- - [Destiny 2 Nerfs Dancing Hunters](https://kotaku.com/destiny-2-nerfs-dancing-hunters-1847578409)<!-- GAME:END -->
+ - [Humankind to get mod tools "as soon as possible"](https://www.pcgamer.com/humankind-to-get-mod-tools-as-soon-as-possible)
+ - [Which underappreciated comic book characters deserve their own game?](https://www.pcgamer.com/which-underappreciated-comic-book-characters-deserve-their-own-game)
+ - [No more overpowered dancing in Destiny 2 PVP](https://www.pcgamer.com/no-more-overpowered-dancing-in-destiny-2-pvp)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
