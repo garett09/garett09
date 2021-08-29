@@ -189,9 +189,9 @@ Linux                    50 mins             █░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Clubhouse adds spatial audio to help identify speakers](https://appleinsider.com/articles/21/08/29/clubhouse-adds-spatial-audio-to-help-identify-speakers?utm_medium=rss)
- - [The iPhone 13 could have satellite connectivity](https://www.theverge.com/2021/8/29/22647252/the-iphone-13-5g-leo-satellite)
- - [Sources: Apple Watch Series 7 will get an updated design, come in 41mm and 45mm sizes, featuring multiple new watch faces to take advantage of the bigger screen (Mark Gurman/Bloomberg)](http://www.techmeme.com/210829/p6#a210829p6)<!-- TECH:END -->
+ - [Apple Maps data source MapmyIndia set for Monday IPO](https://appleinsider.com/articles/21/08/29/apple-maps-data-source-mapmyindia-set-for-monday-ipo?utm_medium=rss)
+ - [“Extremely dangerous” Hurricane Ida strengthens dramatically overnight](https://www.theverge.com/2021/8/29/22647037/hurricane-ida-rapid-intensification-louisiana-storm)
+ - [Best TV shows 2021: The White Lotus, Hacks, Marvel's Loki, more     - CNET](https://www.cnet.com/news/best-tv-shows-2021-from-the-white-lotus-to-marvel-loki/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
