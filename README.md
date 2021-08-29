@@ -189,9 +189,9 @@ Linux                    50 mins             █░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Maps data source MapmyIndia set for Monday IPO](https://appleinsider.com/articles/21/08/29/apple-maps-data-source-mapmyindia-set-for-monday-ipo?utm_medium=rss)
- - [“Extremely dangerous” Hurricane Ida strengthens dramatically overnight](https://www.theverge.com/2021/8/29/22647037/hurricane-ida-rapid-intensification-louisiana-storm)
- - [Best TV shows 2021: The White Lotus, Hacks, Marvel's Loki, more     - CNET](https://www.cnet.com/news/best-tv-shows-2021-from-the-white-lotus-to-marvel-loki/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Kanye West's 'Donda' was on Apple Music, until it wasn't](https://appleinsider.com/articles/21/08/29/kanye-west-releases-donda-on-apple-music-following-delays?utm_medium=rss)
+ - [Most of the internet privacy proposals on the table today are in absolute, direct conflict with most of the proposals to increase competition in the markets (Benedict Evans)](http://www.techmeme.com/210829/p7#a210829p7)
+ - [Apple Maps data source MapmyIndia set for Monday IPO](https://appleinsider.com/articles/21/08/29/apple-maps-data-source-mapmyindia-set-for-monday-ipo?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
