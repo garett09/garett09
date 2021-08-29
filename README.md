@@ -189,9 +189,9 @@ Linux                    50 mins             █░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Angry Birds maker sued by New Mexico for allegedly violating COPPA](https://appleinsider.com/articles/21/08/29/angry-birds-maker-sued-by-new-mexico-for-allegedly-violating-coppa?utm_medium=rss)
- - [Computer Scientists Find a Key Research Algorithm's Limits](https://www.wired.com/story/computer-scientists-find-a-key-research-algorithms-limits)
- - [The Best Fitness Trackers and Watches for Everyone](https://www.wired.com/gallery/best-fitness-tracker)<!-- TECH:END -->
+ - [Samsung Galaxy Z Fold 3 vs Galaxy Z Flip 3: Camera shootout](https://www.androidauthority.com/samsung-galaxy-z-fold-3-vs-galaxy-z-flip-3-camera-test-2739055/)
+ - [Nothing Can Eat Australia’s Cane Toads—So They Eat Each Other](https://www.wired.com/story/nothing-can-eat-australias-cane-toads-they-eat-each-other)
+ - [6 Things You Need to Do to Prevent Getting Hacked](https://www.wired.com/story/how-to-prevent-getting-hacked)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
