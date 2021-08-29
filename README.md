@@ -196,9 +196,9 @@ Linux                    50 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Godzilla at the end of every movie](http://9gag.com/gag/aB2BWWD)
- - 🚯 [Best selfie ever!!!!](http://9gag.com/gag/aDdejq7)
- - 🚯 [In 2010, Microsoft Held A Funeral For The iPhone after launching Windows Phone 7](http://9gag.com/gag/aRXqKPq)<!-- MEMES:END -->
+ - 🚖 [Russian AK-630M-2 and AK-630 goes brrrrttttt](http://9gag.com/gag/av5K7Lb)
+ - 🚯 [Godzilla at the end of every movie](http://9gag.com/gag/aB2BWWD)
+ - 🚯 [FINISH HIM](http://9gag.com/gag/ayMjDGX)<!-- MEMES:END -->
 
 --- 
 
