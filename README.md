@@ -189,9 +189,9 @@ Linux                    50 mins             █░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nomad Leather Skin review: A cover that maintains your iPhone 12's aesthetic](https://appleinsider.com/articles/21/08/28/nomad-leather-skin-review-a-cover-that-maintains-your-iphone-12s-aesthetic?utm_medium=rss)
- - [Lawsuit claims Google offered Netflix favorable terms over Play Store fees](https://appleinsider.com/articles/21/08/28/lawsuit-claims-google-offered-netflix-favorable-terms-over-play-store-fees?utm_medium=rss)
- - [At trial, Elizabeth Holmes may claim Theranos partner and onetime beau abused her     - CNET](https://www.cnet.com/news/at-trial-elizabeth-holmes-may-claim-theranos-partner-and-onetime-beau-abused-her/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [T-Mobile CEO calls latest data breach ‘humbling,’ claims it’s committed to security](https://www.theverge.com/2021/8/28/22646439/t-mobile-data-breach-ceo-security-mandiant-kpmg)
+ - [Tel Aviv-based startup Hour One is paying people to use their likenesses to create AI-voiced characters for marketing and educational videos for its clients (Will Douglas Heaven/MIT Technology Review)](http://www.techmeme.com/210828/p11#a210828p11)
+ - [Nomad Leather Skin review: A cover that maintains your iPhone 12's aesthetic](https://appleinsider.com/articles/21/08/28/nomad-leather-skin-review-a-cover-that-maintains-your-iphone-12s-aesthetic?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
