@@ -196,9 +196,9 @@ Linux                    50 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How to train trick for your dogs](http://9gag.com/gag/a9EgY8j)
- - 🚯 [No Matter How Low We Get, Good People Will Always Exist](http://9gag.com/gag/aNpEWov)
- - 🚯 [If you could revive one person, who would it be?](http://9gag.com/gag/a27656O)<!-- MEMES:END -->
+ - 🚖 [Go f*ck yourself!](http://9gag.com/gag/aZ0OpP9)
+ - 🚯 [Goth boots](http://9gag.com/gag/anQP10b)
+ - 🚯 [FeelsGoodMan](http://9gag.com/gag/aLp7Mjv)<!-- MEMES:END -->
 
 --- 
 
