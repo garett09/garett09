@@ -189,9 +189,9 @@ Linux                    50 mins             █░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Deals August 29 - $76 Netgear router, $200 outdoor pizza oven, more](https://appleinsider.com/articles/21/08/29/best-deals-august-29---76-netgear-router-200-outdoor-pizza-oven-more?utm_medium=rss)
- - [Astra rocket does a real smooth slide before failing to reach orbit](https://www.theverge.com/2021/8/29/22647094/astra-rocket-lv0006-launch-failed)
- - ['Ted Lasso' character has a notchless iPhone 13](https://appleinsider.com/articles/21/08/29/ted-lasso-character-has-a-notchless-iphone-13?utm_medium=rss)<!-- TECH:END -->
+ - [Jack Dorsey and Mike Brock say Square's TBD is building a Bitcoin-centric decentralized exchange for digital assets (Andrew Hayward/Decrypt)](http://www.techmeme.com/210829/p5#a210829p5)
+ - [Watch Peter Jackson’s spooky comedy classic The Frighteners on Starz](https://www.androidauthority.com/the-frighteners-starz-2738389/)
+ - [#AppleToo engineer target of online abuse, failed by HR](https://appleinsider.com/articles/21/08/29/appletoo-engineer-target-of-online-abuse-failed-by-hr?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
