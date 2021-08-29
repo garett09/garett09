@@ -189,9 +189,9 @@ Linux                    50 mins             █░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Weekly Authority: Edition #157](https://www.androidauthority.com/newsletters/weekly-authority-edition-157/)
- - [Galaxy S21 FE rumors: Samsung's budget-friendly phone may have 6GB of RAM, YouTube Premium     - CNET](https://www.cnet.com/tech/mobile/galaxy-s21-fe-rumors-samsungs-budget-friendly-phone-may-have-6gb-ram-youtube-premium/#ftag=CAD590a51e)
- - [Jake Paul vs. Tyron Woodley: How much will they make?     - CNET](https://www.cnet.com/news/jake-paul-vs-tyron-woodley-how-much-will-they-make/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Xiaomi Mi 12: 6 things we want to see from Xiaomi’s 2022 flagship](https://www.androidauthority.com/xiaomi-mi-12-2737874/)
+ - [11 Ways to Upgrade Your Wi-Fi and Make Your Internet Faster](https://www.wired.com/story/how-to-make-your-wifi-better-faster)
+ - [How to Save Money on Your Digital Subscriptions](https://www.wired.com/story/how-to-save-money-subscriptions-spotify-netflix-hulu-youtube)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
