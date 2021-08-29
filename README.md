@@ -189,9 +189,9 @@ Linux                    50 mins             █░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kanye West's 'Donda' was on Apple Music, until it wasn't](https://appleinsider.com/articles/21/08/29/kanye-west-releases-donda-on-apple-music-following-delays?utm_medium=rss)
- - [Most of the internet privacy proposals on the table today are in absolute, direct conflict with most of the proposals to increase competition in the markets (Benedict Evans)](http://www.techmeme.com/210829/p7#a210829p7)
- - [Apple Maps data source MapmyIndia set for Monday IPO](https://appleinsider.com/articles/21/08/29/apple-maps-data-source-mapmyindia-set-for-monday-ipo?utm_medium=rss)<!-- TECH:END -->
+ - [Nomad Glass Screen Protector review: The bare necessities](https://appleinsider.com/articles/21/08/29/nomad-glass-screen-protector-review-the-bare-necessities?utm_medium=rss)
+ - [Florida man guilty of thousand-iPhone fraud in the Apple Crime Blotter](https://appleinsider.com/articles/21/08/29/florida-man-guilty-of-thousand-iphone-fraud-in-the-apple-crime-blotter?utm_medium=rss)
+ - [How to customize your Apple Watch default message responses](https://appleinsider.com/articles/21/08/29/how-to-customize-your-apple-watch-default-message-responses?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
