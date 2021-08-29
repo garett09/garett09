@@ -196,9 +196,9 @@ Linux                    50 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Space X, Space Y](http://9gag.com/gag/axMqgYY)
- - 🚯 [I drew a page with random drawings](http://9gag.com/gag/aP3bBNB)
- - 🚯 [Two Kangaroos](http://9gag.com/gag/av5KrKW)<!-- MEMES:END -->
+ - 🚖 [I drew a page with random drawings](http://9gag.com/gag/aP3bBNB)
+ - 🚯 [In 2019, a Swedish mother of 6, Emma Schols, saved all of her 6 children from her burning home, running from room to room through flames while bleeding &amp; losing skin. Against all odds, she survived with extreme burns to over 90% of her body.](http://9gag.com/gag/aV7yqEK)
+ - 🚯 [Guess it&#039;s time to play Skyrim again](http://9gag.com/gag/aoMQ2d3)<!-- MEMES:END -->
 
 --- 
 
