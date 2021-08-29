@@ -189,9 +189,9 @@ Linux                    50 mins             █░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hurricane Ida strengthens into a life-threatening storm overnight](https://www.theverge.com/2021/8/29/22647037/hurricane-ida-rapid-intensification-louisiana-storm)
- - [Kanye West releases 'Donda' on Apple Music following delays](https://appleinsider.com/articles/21/08/29/kanye-west-releases-donda-on-apple-music-following-delays?utm_medium=rss)
- - [Will the iPhone 13 get a stylish new look? Apple's upcoming iPhone could come in a few snazzy colors     - CNET](https://www.cnet.com/tech/mobile/will-the-iphone-13-get-a-stylish-new-look-apples-upcoming-iphone-could-come-in-a-few-snazzy-colors/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Angry Birds maker sued for allegedly violating child privacy](https://appleinsider.com/articles/21/08/29/angry-birds-maker-sued-by-new-mexico-for-allegedly-violating-coppa?utm_medium=rss)
+ - [Tim Cook wants to debut one more big product category before he retires](https://appleinsider.com/articles/21/08/29/tim-cook-wants-to-debut-one-more-big-product-category-before-he-retires?utm_medium=rss)
+ - [Kuo: iPhone 13 hardware specifications could support LEO satellite communications; Apple may work with Globalstar to enable connectivity when not in 4G/5G range (Hartley Charlton/MacRumors)](http://www.techmeme.com/210829/p4#a210829p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
