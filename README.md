@@ -191,7 +191,7 @@ Linux                    50 mins             █░░░░░░░░░░�
 <!-- TECH:START -->
  - [T-Mobile CEO calls latest data breach ‘humbling,’ claims it’s committed to security](https://www.theverge.com/2021/8/28/22646439/t-mobile-data-breach-ceo-security-mandiant-kpmg)
  - [Tel Aviv-based startup Hour One is paying people to use their likenesses to create AI-voiced characters for marketing and educational videos for its clients (Will Douglas Heaven/MIT Technology Review)](http://www.techmeme.com/210828/p11#a210828p11)
- - [Nomad Leather Skin review: A cover that maintains your iPhone 12's aesthetic](https://appleinsider.com/articles/21/08/28/nomad-leather-skin-review-a-cover-that-maintains-your-iphone-12s-aesthetic?utm_medium=rss)<!-- TECH:END -->
+ - [Best laptop for high school students in 2021     - CNET](https://www.cnet.com/tech/computing/best-laptop-for-high-school-students/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
