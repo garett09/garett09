@@ -196,9 +196,9 @@ Linux                    50 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A magnificent lion and his cubs](http://9gag.com/gag/aV7yP62)
- - 🚯 [You ok hun?](http://9gag.com/gag/axMqj9M)
- - 🚯 [Oof](http://9gag.com/gag/aNpEKm4)<!-- MEMES:END -->
+ - 🚖 [He is such a great actor](http://9gag.com/gag/abVn09r)
+ - 🚯 [How does it feel going out after a long lockdown](http://9gag.com/gag/aAbz1EE)
+ - 🚯 [When the door gets opened](http://9gag.com/gag/aMKMGOX)<!-- MEMES:END -->
 
 --- 
 
