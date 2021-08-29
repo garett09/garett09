@@ -182,9 +182,9 @@ Linux                    50 mins             █░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Norman Reedus says he's "in negotiations" for more Death Stranding](https://www.pcgamer.com/norman-reedus-in-negotiations-for-more-death-stranding)
  - [Here's the trailer for chapter 2 of Fallout 4's best mod](https://www.pcgamer.com/heres-the-trailer-for-chapter-2-of-fallout-4s-best-mod)
- - [Wow, I Still Haven't Bought A Physical PS5 Game](https://kotaku.com/wow-i-still-havent-bought-a-physical-ps5-game-1847096890)
- - [This week in PC Gaming: Pathfinder: Wrath of the Righteous, Lake, and Pax West](https://www.pcgamer.com/this-week-in-pc-gaming-pathfinder-wrath-of-the-righteous-lake-and-pax-west)<!-- GAME:END -->
+ - [Wow, I Still Haven't Bought A Physical PS5 Game](https://kotaku.com/wow-i-still-havent-bought-a-physical-ps5-game-1847096890)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
