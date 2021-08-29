@@ -196,9 +196,9 @@ Linux                    50 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It&lsquo;s not about the money. It&lsquo;s about sending a message](http://9gag.com/gag/aK6oPNg)
- - 🚯 [Prove this wrong, I dare you, I double dare you comrade!](http://9gag.com/gag/a276q1D)
- - 🚯 [This dev had a great idea. Technology is too cool.](http://9gag.com/gag/aNpEZ1v)<!-- MEMES:END -->
+ - 🚖 [Ewan McGregor and Hayden Christensen behind the scenes](http://9gag.com/gag/aEpm1r9)
+ - 🚯 [You fools](http://9gag.com/gag/a9EgP0K)
+ - 🚯 [Prove this wrong, I dare you, I double dare you comrade!](http://9gag.com/gag/a276q1D)<!-- MEMES:END -->
 
 --- 
 
