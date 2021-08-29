@@ -196,9 +196,9 @@ Linux                    50 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ahhhh.. Good Old Days....](http://9gag.com/gag/aK6o2xQ)
- - 🚯 [Any French to deny this ?](http://9gag.com/gag/a07yjnq)
- - 🚯 [It happens all the time](http://9gag.com/gag/aYoXL3v)<!-- MEMES:END -->
+ - 🚖 [No one gets left behind](http://9gag.com/gag/a7ERZpr)
+ - 🚯 [What a time to be alive](http://9gag.com/gag/aGp40AG)
+ - 🚯 [B I R D](http://9gag.com/gag/aWj3Md4)<!-- MEMES:END -->
 
 --- 
 
