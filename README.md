@@ -191,7 +191,7 @@ Linux                    50 mins             █░░░░░░░░░░�
 <!-- TECH:START -->
  - [Jack Dorsey and Mike Brock say Square's TBD is building a Bitcoin-centric decentralized exchange for digital assets (Andrew Hayward/Decrypt)](http://www.techmeme.com/210829/p5#a210829p5)
  - [Watch Peter Jackson’s spooky comedy classic The Frighteners on Starz](https://www.androidauthority.com/the-frighteners-starz-2738389/)
- - [#AppleToo engineer target of online abuse, failed by HR](https://appleinsider.com/articles/21/08/29/appletoo-engineer-target-of-online-abuse-failed-by-hr?utm_medium=rss)<!-- TECH:END -->
+ - [5 exciting phones to look out for this year: iPhone 13, Galaxy S22, Pixel 6 and more     - CNET](https://www.cnet.com/tech/mobile/5-exciting-phones-to-look-out-for-this-year-iphone-13-galaxy-s22-pixel-6-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
