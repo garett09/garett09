@@ -196,9 +196,9 @@ Linux                    50 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Germany&hellip;.](http://9gag.com/gag/a276dAZ)
+ - 🚖 [Godzilla at the end of every movie](http://9gag.com/gag/aB2BWWD)
  - 🚯 [Best selfie ever!!!!](http://9gag.com/gag/aDdejq7)
- - 🚯 [What a time to be alive](http://9gag.com/gag/aGp40AG)<!-- MEMES:END -->
+ - 🚯 [In 2010, Microsoft Held A Funeral For The iPhone after launching Windows Phone 7](http://9gag.com/gag/aRXqKPq)<!-- MEMES:END -->
 
 --- 
 
