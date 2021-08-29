@@ -182,9 +182,9 @@ Linux                    50 mins             █░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Final Fantasy 14 birthday cake will make you want to eat a moogle](https://www.pcgamer.com/final-fantasy-14-birthday-cake-will-make-you-want-to-eat-a-moogle)
  - [Get three more Leisure Suit Larry games free](https://www.pcgamer.com/get-three-more-leisure-suit-larry-games-free)
- - [Humankind to get mod tools "as soon as possible"](https://www.pcgamer.com/humankind-to-get-mod-tools-as-soon-as-possible)
- - [Which underappreciated comic book characters deserve their own game?](https://www.pcgamer.com/which-underappreciated-comic-book-characters-deserve-their-own-game)<!-- GAME:END -->
+ - [Humankind to get mod tools "as soon as possible"](https://www.pcgamer.com/humankind-to-get-mod-tools-as-soon-as-possible)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
