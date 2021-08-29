@@ -196,9 +196,9 @@ Linux                    50 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Juan is a nice dude , I think](http://9gag.com/gag/a8Expjp)
- - 🚯 [Goth boots](http://9gag.com/gag/anQP10b)
- - 🚯 [Arsenal fans to Man City &quot;We lose every week. You&#039;re nothing special. We lose every week&quot;](http://9gag.com/gag/a276mQE)<!-- MEMES:END -->
+ - 🚖 [Ahhhh.. Good Old Days....](http://9gag.com/gag/aK6o2xQ)
+ - 🚯 [Any French to deny this ?](http://9gag.com/gag/a07yjnq)
+ - 🚯 [It happens all the time](http://9gag.com/gag/aYoXL3v)<!-- MEMES:END -->
 
 --- 
 
