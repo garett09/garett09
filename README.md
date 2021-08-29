@@ -189,9 +189,9 @@ Linux                    50 mins             █░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Angry Birds maker sued for allegedly violating child privacy](https://appleinsider.com/articles/21/08/29/angry-birds-maker-sued-by-new-mexico-for-allegedly-violating-coppa?utm_medium=rss)
- - [Tim Cook wants to debut one more big product category before he retires](https://appleinsider.com/articles/21/08/29/tim-cook-wants-to-debut-one-more-big-product-category-before-he-retires?utm_medium=rss)
- - [Kuo: iPhone 13 hardware specifications could support LEO satellite communications; Apple may work with Globalstar to enable connectivity when not in 4G/5G range (Hartley Charlton/MacRumors)](http://www.techmeme.com/210829/p4#a210829p4)<!-- TECH:END -->
+ - [Best Deals August 29 - $76 Netgear router, $200 outdoor pizza oven, more](https://appleinsider.com/articles/21/08/29/best-deals-august-29---76-netgear-router-200-outdoor-pizza-oven-more?utm_medium=rss)
+ - [Astra rocket does a real smooth slide before failing to reach orbit](https://www.theverge.com/2021/8/29/22647094/astra-rocket-lv0006-launch-failed)
+ - ['Ted Lasso' character has a notchless iPhone 13](https://appleinsider.com/articles/21/08/29/ted-lasso-character-has-a-notchless-iphone-13?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
