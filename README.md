@@ -196,9 +196,9 @@ Linux                    50 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I finished my project I started during the lockdowns. I feel very proud abut it and wanted to share](http://9gag.com/gag/arM7REy)
- - 🚯 [When the door gets opened](http://9gag.com/gag/aMKMGOX)
- - 🚯 [No Matter How Low We Get, Good People Will Always Exist](http://9gag.com/gag/aNpEWov)<!-- MEMES:END -->
+ - 🚖 [Imagine how easy it is to order a drink!](http://9gag.com/gag/ajmeAEw)
+ - 🚯 [It&#039;s sad but true](http://9gag.com/gag/a1r3XKP)
+ - 🚯 [Any French to deny this ?](http://9gag.com/gag/a07yjnq)<!-- MEMES:END -->
 
 --- 
 
