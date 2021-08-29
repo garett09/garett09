@@ -196,9 +196,9 @@ Linux                    50 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Imagine how easy it is to order a drink!](http://9gag.com/gag/ajmeAEw)
- - 🚯 [Dinosaur?????](http://9gag.com/gag/awMWK21)
- - 🚯 [Extracting Honey from a Beehive](http://9gag.com/gag/ayMj0Gr)<!-- MEMES:END -->
+ - 🚖 [Extracting Honey from a Beehive](http://9gag.com/gag/ayMj0Gr)
+ - 🚯 [You ok hun?](http://9gag.com/gag/axMqj9M)
+ - 🚯 [0 to 100](http://9gag.com/gag/aAbzp1Z)<!-- MEMES:END -->
 
 --- 
 
