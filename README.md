@@ -196,9 +196,9 @@ Linux                    50 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [FINISH HIM](http://9gag.com/gag/ayMjDGX)
- - 🚯 [I heard you like big forge hammers...](http://9gag.com/gag/a1r3oWG)
- - 🚯 [Square hole](http://9gag.com/gag/a9EgAe6)<!-- MEMES:END -->
+ - 🚖 [Square hole](http://9gag.com/gag/a9EgAe6)
+ - 🚯 [Walking through a swamp](http://9gag.com/gag/a8Ex8xV)
+ - 🚯 [Samsung launches another foldable phone](http://9gag.com/gag/aYoXx3w)<!-- MEMES:END -->
 
 --- 
 
