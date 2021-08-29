@@ -196,9 +196,9 @@ Linux                    50 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [No one gets left behind](http://9gag.com/gag/a7ERZpr)
- - 🚯 [What a time to be alive](http://9gag.com/gag/aGp40AG)
- - 🚯 [B I R D](http://9gag.com/gag/aWj3Md4)<!-- MEMES:END -->
+ - 🚖 [Germany&hellip;.](http://9gag.com/gag/a276dAZ)
+ - 🚯 [Best selfie ever!!!!](http://9gag.com/gag/aDdejq7)
+ - 🚯 [What a time to be alive](http://9gag.com/gag/aGp40AG)<!-- MEMES:END -->
 
 --- 
 
