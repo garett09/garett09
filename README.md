@@ -196,9 +196,9 @@ Linux                    50 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Russian AK-630M-2 and AK-630 goes brrrrttttt](http://9gag.com/gag/av5K7Lb)
- - 🚯 [Godzilla at the end of every movie](http://9gag.com/gag/aB2BWWD)
- - 🚯 [FINISH HIM](http://9gag.com/gag/ayMjDGX)<!-- MEMES:END -->
+ - 🚖 [Space X, Space Y](http://9gag.com/gag/axMqgYY)
+ - 🚯 [I drew a page with random drawings](http://9gag.com/gag/aP3bBNB)
+ - 🚯 [Two Kangaroos](http://9gag.com/gag/av5KrKW)<!-- MEMES:END -->
 
 --- 
 
