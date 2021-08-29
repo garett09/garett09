@@ -189,9 +189,9 @@ Linux                    50 mins             █░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [New research suggests the internet is not making people who engage in political discussions online more aggressive, but makes their behavior more visible (E&T Magazine)](http://www.techmeme.com/210829/p2#a210829p2)
  - [Interview with Apple engineer Cher Scarlett, who has become the face of the #AppleToo movement, a group that wants to shed light on workplace issues at Apple (Anna Kramer/Protocol)](http://www.techmeme.com/210829/p1#a210829p1)
- - [T-Mobile CEO calls latest data breach ‘humbling,’ claims it’s committed to security](https://www.theverge.com/2021/8/28/22646439/t-mobile-data-breach-ceo-security-mandiant-kpmg)
- - [Tel Aviv-based startup Hour One is paying people to use their likenesses to create AI-voiced characters for marketing and educational videos for its clients (Will Douglas Heaven/MIT Technology Review)](http://www.techmeme.com/210828/p11#a210828p11)<!-- TECH:END -->
+ - [T-Mobile CEO calls latest data breach ‘humbling,’ claims it’s committed to security](https://www.theverge.com/2021/8/28/22646439/t-mobile-data-breach-ceo-security-mandiant-kpmg)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
