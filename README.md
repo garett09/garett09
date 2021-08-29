@@ -196,9 +196,9 @@ Linux                    50 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Extracting Honey from a Beehive](http://9gag.com/gag/ayMj0Gr)
+ - 🚖 [Every one hate Cyclist](http://9gag.com/gag/anQPN4E)
  - 🚯 [You ok hun?](http://9gag.com/gag/axMqj9M)
- - 🚯 [0 to 100](http://9gag.com/gag/aAbzp1Z)<!-- MEMES:END -->
+ - 🚯 [It was cold wind probably, no?](http://9gag.com/gag/aB2Brxx)<!-- MEMES:END -->
 
 --- 
 
