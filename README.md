@@ -189,9 +189,9 @@ Linux                    50 mins             █░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Interview with Apple engineer Cher Scarlett, who has become the face of the #AppleToo movement, a group that wants to shed light on workplace issues at Apple (Anna Kramer/Protocol)](http://www.techmeme.com/210829/p1#a210829p1)
  - [T-Mobile CEO calls latest data breach ‘humbling,’ claims it’s committed to security](https://www.theverge.com/2021/8/28/22646439/t-mobile-data-breach-ceo-security-mandiant-kpmg)
- - [Tel Aviv-based startup Hour One is paying people to use their likenesses to create AI-voiced characters for marketing and educational videos for its clients (Will Douglas Heaven/MIT Technology Review)](http://www.techmeme.com/210828/p11#a210828p11)
- - [Best laptop for high school students in 2021     - CNET](https://www.cnet.com/tech/computing/best-laptop-for-high-school-students/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Tel Aviv-based startup Hour One is paying people to use their likenesses to create AI-voiced characters for marketing and educational videos for its clients (Will Douglas Heaven/MIT Technology Review)](http://www.techmeme.com/210828/p11#a210828p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
