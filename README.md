@@ -189,9 +189,9 @@ Linux                    50 mins             █░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple iPhone 13 to reportedly feature satellite connectivity     - CNET](https://www.cnet.com/tech/mobile/apple-iphone-13-reportedly-feature-satellite-connectivity/#ftag=CAD590a51e)
- - [Nomad Leather Skin review: A cover that maintains your iPhone 12's aesthetic](https://appleinsider.com/articles/21/08/28/nomad-leather-skin-review-a-cover-that-maintains-your-iphone-12s-aesthetic?utm_medium=rss)
- - [Best TV shows 2021: The White Lotus, Hacks, Marvel's Loki, more     - CNET](https://www.cnet.com/news/best-tv-shows-2021-from-the-white-lotus-to-marvel-loki/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple Watch Series 7 reportedly has flat sides and bigger screens](https://www.theverge.com/2021/8/29/22647766/apple-watch-series-7-rumors-screen-size-new-design-41mm-45mm)
+ - [Jake Paul vs. Tyron Woodley: Live updates, results     - CNET](https://www.cnet.com/news/jake-paul-vs-tyron-woodley-live-updates-results/#ftag=CAD590a51e)
+ - [Apple iPhone 13 to reportedly feature satellite connectivity     - CNET](https://www.cnet.com/tech/mobile/apple-iphone-13-reportedly-feature-satellite-connectivity/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
