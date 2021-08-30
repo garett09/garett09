@@ -182,9 +182,9 @@ Linux                    50 mins             █░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Grab a Logitech G305 wireless gaming mouse for just $40](https://www.pcgamer.com/grab-a-logitech-g305-wireless-gaming-mouse-for-just-dollar40)
- - [Peacock reveals the Vampire Academy series cast](https://www.polygon.com/22642932/vampire-academy-series-cast-peacock)
- - [The Witcher season 2 release date, cast, and everything else we know](https://www.pcgamer.com/the-witcher-season-2-release-date-episode-recaps-and-more)<!-- GAME:END -->
+ - [11th Gen Intel laptop processors are breaking new ground for PC gamers](https://www.pcgamer.com/11th-gen-intel-laptop-processors-are-breaking-new-ground-for-pc-gamers)
+ - [6 games I took vacations in this summer](https://www.pcgamer.com/6-games-i-took-vacations-in-this-summer)
+ - [And Now, Mario Kart Tracks In Flight Simulator](https://kotaku.com/and-now-mario-kart-tracks-in-flight-simulator-1847585857)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
