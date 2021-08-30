@@ -189,9 +189,9 @@ Linux                    50 mins             █░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How police laid down a geofence dragnet for Kenosha protestors](https://www.theverge.com/22644965/kenosha-protests-geofence-warrants-atf-android-data-police-jacob-blake)
- - [Fossil Gen 6 guide: What you need to know about the classy new smartwatches](https://www.androidauthority.com/fossil-gen-6-smartwatch-1159767/)
- - [Ragnarok ransomware gang shuts down and releases its decryption key](http://feedproxy.google.com/~r/Techcrunch/~3/KIMhy1Y5EIE/)<!-- TECH:END -->
+ - [Australia wants to reclassify & strictly regulate Apple Pay](https://appleinsider.com/articles/21/08/30/australian-government-wants-to-reclassify-apple-pay-to-come-under-financial-regulations?utm_medium=rss)
+ - [Alpaca raises $50M to rapidly scale its API-delivered equities trading business](http://feedproxy.google.com/~r/Techcrunch/~3/E79x-vPFq0o/)
+ - [The latest iPad Air is $100 off at Best Buy and Amazon](https://www.theverge.com/good-deals/2021/8/30/22648127/ipad-air-apple-gigabyte-aero-15-sony-wh1000xm3-headphones-deal-sale)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
