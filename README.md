@@ -196,9 +196,9 @@ Linux                    50 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Madlad spitting truth](http://9gag.com/gag/aqjoK2P)
- - 🚯 [I heard you like big forge hammers...](http://9gag.com/gag/a1r3oWG)
- - 🚯 [Hurricane Ida going through downtown New Orleans](http://9gag.com/gag/apNZm95)<!-- MEMES:END -->
+ - 🚖 [I heard you like big forge hammers...](http://9gag.com/gag/a1r3oWG)
+ - 🚯 [Guess i&#039;ll get another shot](http://9gag.com/gag/a07y5nO)
+ - 🚯 [This was the bubble gum we had in Brazil in our schools back in the 90&#039;s. It came with stickers.](http://9gag.com/gag/aK6oxN6)<!-- MEMES:END -->
 
 --- 
 
