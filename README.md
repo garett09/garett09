@@ -182,9 +182,9 @@ Linux                    50 mins             █░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This Is No Ordinary Golf Game](https://kotaku.com/this-is-no-ordinary-golf-game-1847587049)
- - [Titans’ weird take on Bruce Wayne is season 3’s biggest swing](https://www.polygon.com/entertainment/22649325/titans-bruce-wayne-batman-hbo-max)
- - [Spacelines From the Far Out Launches November 4](https://news.xbox.com/en-us/2021/08/30/spacelines-from-the-far-out-launches-november-4/)<!-- GAME:END -->
+ - [DrLupo signs exclusive streaming deal with YouTube](https://www.pcgamer.com/drlupo-signs-exclusive-streaming-deal-with-youtube)
+ - [Mod Designed To Make Skyrim Unplayable Banned For Same Reason](https://kotaku.com/mod-designed-to-make-skyrim-unplayable-banned-for-same-1847587236)
+ - [This Is No Ordinary Golf Game](https://kotaku.com/this-is-no-ordinary-golf-game-1847587049)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
