@@ -196,9 +196,9 @@ Linux                    50 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Square hole](http://9gag.com/gag/a9EgAe6)
- - 🚯 [Samsung launches another foldable phone](http://9gag.com/gag/aYoXx3w)
- - 🚯 [Russian AK-630M-2 and AK-630 goes brrrrttttt](http://9gag.com/gag/av5K7Lb)<!-- MEMES:END -->
+ - 🚖 [Russian AK-630M-2 and AK-630 goes brrrrttttt](http://9gag.com/gag/av5K7Lb)
+ - 🚯 [Berlin Woman jumps fence and hedge to play with polar bears, gets bit](http://9gag.com/gag/anQPjME)
+ - 🚯 [Milano today](http://9gag.com/gag/amP47xv)<!-- MEMES:END -->
 
 --- 
 
