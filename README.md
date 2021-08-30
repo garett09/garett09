@@ -182,9 +182,9 @@ Linux                    50 mins             █░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Six Hours With Garden Story, A Zelda-Like For The Stardew Crowd](https://kotaku.com/six-hours-with-garden-story-a-zelda-like-for-the-stard-1847585139)
- - [Megan Fox will join Stallone and Statham in Expendables 4](https://www.polygon.com/22648563/expendables-4-cast-megan-fox-tony-jaa-50-cent-statham-stallon)
- - [World of Warcraft update brings many fan-requested changes to Shadowlands](https://www.polygon.com/22648704/world-of-warcraft-9-1-5-content-update-shadowlands-conduit-energy-covenants)<!-- GAME:END -->
+ - [Grab a Logitech G305 wireless gaming mouse for just $40](https://www.pcgamer.com/grab-a-logitech-g305-wireless-gaming-mouse-for-just-dollar40)
+ - [Peacock reveals the Vampire Academy series cast](https://www.polygon.com/22642932/vampire-academy-series-cast-peacock)
+ - [The Witcher season 2 release date, cast, and everything else we know](https://www.pcgamer.com/the-witcher-season-2-release-date-episode-recaps-and-more)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
