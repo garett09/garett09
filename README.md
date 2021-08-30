@@ -197,8 +197,8 @@ Linux                    50 mins             █░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 🚖 [Square hole](http://9gag.com/gag/a9EgAe6)
- - 🚯 [Walking through a swamp](http://9gag.com/gag/a8Ex8xV)
- - 🚯 [Samsung launches another foldable phone](http://9gag.com/gag/aYoXx3w)<!-- MEMES:END -->
+ - 🚯 [Samsung launches another foldable phone](http://9gag.com/gag/aYoXx3w)
+ - 🚯 [Russian AK-630M-2 and AK-630 goes brrrrttttt](http://9gag.com/gag/av5K7Lb)<!-- MEMES:END -->
 
 --- 
 
