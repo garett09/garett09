@@ -182,9 +182,9 @@ Linux                    50 mins             █░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The cheapest way to pre-order Deathloop in Australia](https://www.pcgamer.com/the-cheapest-way-to-pre-order-deathloop-in-australia)
- - [Five new Steam games you probably missed (August 30, 2021)](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-august-30-2021)
- - [The New PS5 Has A Much Smaller Heatsink](https://kotaku.com/the-new-ps5-has-a-much-smaller-heatsink-1847581238)<!-- GAME:END -->
+ - [Starfield: Everything we know about Bethesda's next RPG](https://www.pcgamer.com/starfield-release-date-trailer-2022)
+ - [Toy Pokédex Becomes Working Nintendo DS](https://kotaku.com/toy-pokedex-becomes-working-nintendo-ds-1847581506)
+ - [Sovereign Syndicate is an RPG with tarot instead of dice where you can play an alcoholic minotaur](https://www.pcgamer.com/sovereign-syndicate-is-an-rpg-with-tarot-instead-of-dice-where-you-can-play-an-alcoholic-minotaur)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
