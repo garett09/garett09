@@ -189,9 +189,9 @@ Linux                    50 mins             █░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Deals August 30 - $320 refurbished 256GB iPhone X, $54 off a Logitech 4K webcam, and more!](https://appleinsider.com/articles/21/08/30/best-deals-august-30---320-refurbished-256gb-iphone-x-54-off-a-logitech-4k-webcam-and-more?utm_medium=rss)
- - [Clay debuts a new tool to help people better manage their business and personal relationships](http://feedproxy.google.com/~r/Techcrunch/~3/kg0uvze8m3g/)
- - [Tim Cook pledges relief aid following Hurricane Ida](https://appleinsider.com/articles/21/08/30/tim-cook-pledges-relief-aid-following-hurricane-ida?utm_medium=rss)<!-- TECH:END -->
+ - [Amazon Deals: $499 iPad Air 4, $30 MagSafe Charger for iPhone 12, $119 AirPods](https://appleinsider.com/articles/21/08/30/amazon-deals-499-ipad-air-4-30-magsafe-charger-for-iphone-12-119-airpods?utm_medium=rss)
+ - [5 takeaways from Toast’s S-1 filing](http://feedproxy.google.com/~r/Techcrunch/~3/vz1f1R7sWBY/)
+ - [Flip, a social commerce app with 1M+ downloads that mixes customer reviews with live shopping shows, raises $28M Series A led by Streamlined Ventures (Christine Hall/TechCrunch)](http://www.techmeme.com/210830/p8#a210830p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
