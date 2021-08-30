@@ -197,8 +197,8 @@ Linux                    50 mins             █░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 🚖 [The mechanism of an ancient Egyptian lock](http://9gag.com/gag/aAbzgBp)
- - 🚯 [I honestly wonder why is Africa still such a shithole despite all that charity aid. I am hearing about a starving children in Africa my entire life and I am little too old to care now.](http://9gag.com/gag/apNZ24b)
- - 🚯 [Let me try to beat the train, while hauling a f**king windmill blade](http://9gag.com/gag/amP4B8v)<!-- MEMES:END -->
+ - 🚯 [&quot;I&#039;vE sEeN ThIs PoSt&quot;](http://9gag.com/gag/a5E0RbL)
+ - 🚯 [Hurricane Ida going through downtown New Orleans](http://9gag.com/gag/apNZm95)<!-- MEMES:END -->
 
 --- 
 
