@@ -189,9 +189,9 @@ Linux                    50 mins             █░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [South Korea App Store payment bill final vote happening August 30](https://appleinsider.com/articles/21/08/30/south-korea-app-store-payment-bill-final-vote-happening-august-30?utm_medium=rss)
- - [ByteDance acquires VR headset maker Pico; according to IDC, Pico was the third-largest VR headset maker globally in Q1 2021 with shipments up 44.7% YoY (Zheping Huang/Bloomberg)](http://www.techmeme.com/210830/p3#a210830p3)
- - [Daily Authority: iPhone-satellite confusion 📡](https://www.androidauthority.com/newsletters/da-august-30-2021/)<!-- TECH:END -->
+ - [Level & Rocky Mountain Hardware, VOCOlinc gone & more on HomeKit Insider](https://appleinsider.com/articles/21/08/30/level-rocky-mountain-hardware-vocolinc-gone-more-on-homekit-insider?utm_medium=rss)
+ - [Our Favorite Paper Planners for Crossing Tasks off Your List](https://www.wired.com/gallery/our-favorite-paper-planners)
+ - [An Experimental Birth Control Attacks Sperm Like a Virus](https://www.wired.com/story/an-experimental-birth-control-attacks-sperm-like-a-virus)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
