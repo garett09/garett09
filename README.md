@@ -182,9 +182,9 @@ Linux                    50 mins             █░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Playing games on my ancient TV connects me to the present](https://www.polygon.com/22640172/crt-monitors-flat-screens-retro-games-better-worse-old-tvs)
- - [MiSTer 101: A classic gaming device to rule them all](https://www.polygon.com/22640171/mister-project-classic-gaming-retro-fpga-board-chip-io-explainer-usb-hub)
- - [Respecting retro game constraints in the age of remakes](https://www.polygon.com/22640167/retro-games-remakes-constraints-essay-demons-souls-remake-dead-space)<!-- GAME:END -->
+ - [Superman got a new secret identity and blew it immediately](https://www.polygon.com/comics/2021/8/30/22622465/superman-new-secret-identity-dc-comics)
+ - [­­­theHunter: Call of the Wild – 7 tips to master desert hunting in Rancho del Arroyo](http://feedproxy.google.com/~r/PSBlog/~3/iDeE_95FnoU/)
+ - [­­­theHunter: Call of the Wild – 7 tips to master desert hunting in Rancho del Arroyo](https://blog.playstation.com/2021/08/30/thehunter-call-of-the-wild-7-tips-to-master-desert-hunting-in-rancho-del-arroyo/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
