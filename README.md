@@ -182,9 +182,9 @@ Linux                    50 mins             █░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Lego Star Wars Battles shuttered in July, now returning as an Apple Arcade exclusive](https://www.polygon.com/22648573/lego-star-wars-battles-ios-release-apple-arcade)
- - [Best gaming keyboards in 2021](https://www.pcgamer.com/best-gaming-keyboard)
- - [Martin Luther King, Jr.’s Daughter Distances Herself From Fortnite Event](https://kotaku.com/martin-luther-king-jr-s-daughter-distances-herself-fro-1847584012)<!-- GAME:END -->
+ - [Six Hours With Garden Story, A Zelda-Like For The Stardew Crowd](https://kotaku.com/six-hours-with-garden-story-a-zelda-like-for-the-stard-1847585139)
+ - [Megan Fox will join Stallone and Statham in Expendables 4](https://www.polygon.com/22648563/expendables-4-cast-megan-fox-tony-jaa-50-cent-statham-stallon)
+ - [World of Warcraft update brings many fan-requested changes to Shadowlands](https://www.polygon.com/22648704/world-of-warcraft-9-1-5-content-update-shadowlands-conduit-energy-covenants)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
