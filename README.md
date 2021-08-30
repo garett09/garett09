@@ -189,9 +189,9 @@ Linux                    50 mins             █░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Scarlett Johansson & Chris Evans reunite in Apple TV+ romance](https://appleinsider.com/articles/21/08/30/apple-tv-reunites-scarlett-johansson-chris-evans-for-ghosted-romance?utm_medium=rss)
- - [OnePlus 7T series updates: Bitmoji AOD arrives with latest update](https://www.androidauthority.com/oneplus-7t-pro-update-1044547/)
- - ['Ted Lasso' wins four Hollywood Critics awards, more than any other show](https://appleinsider.com/articles/21/08/30/ted-lasso-wins-four-hollywood-critics-awards-more-than-any-other-show?utm_medium=rss)<!-- TECH:END -->
+ - [South Korea App Store payment bill final vote happening August 30](https://appleinsider.com/articles/21/08/30/south-korea-app-store-payment-bill-final-vote-happening-august-30?utm_medium=rss)
+ - [ByteDance acquires VR headset maker Pico; according to IDC, Pico was the third-largest VR headset maker globally in Q1 2021 with shipments up 44.7% YoY (Zheping Huang/Bloomberg)](http://www.techmeme.com/210830/p3#a210830p3)
+ - [Daily Authority: iPhone-satellite confusion 📡](https://www.androidauthority.com/newsletters/da-august-30-2021/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
