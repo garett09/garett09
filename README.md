@@ -196,9 +196,9 @@ Linux                    50 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The mechanism of an ancient Egyptian lock](http://9gag.com/gag/aAbzgBp)
- - 🚯 [&quot;I&#039;vE sEeN ThIs PoSt&quot;](http://9gag.com/gag/a5E0RbL)
- - 🚯 [Hurricane Ida going through downtown New Orleans](http://9gag.com/gag/apNZm95)<!-- MEMES:END -->
+ - 🚖 [He deadz](http://9gag.com/gag/azMp1Qx)
+ - 🚯 [Woman logic](http://9gag.com/gag/aNpE0Rb)
+ - 🚯 [This was the bubble gum we had in Brazil in our schools back in the 90&#039;s. It came with stickers.](http://9gag.com/gag/aK6oxN6)<!-- MEMES:END -->
 
 --- 
 
