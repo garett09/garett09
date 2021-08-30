@@ -182,9 +182,9 @@ Linux                    50 mins             █░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Watch Dogs gets a new mission based on Netflix’s Money Heist](https://www.polygon.com/22648223/watch-dogs-legion-money-heist-netflix-crossover-mission)
- - [A Chill, Ghibli-Like Adventure Game That's Set In New York](https://kotaku.com/a-chill-ghibli-like-adventure-game-thats-set-in-new-yo-1847582809)
- - [Ranking the best and worst Total War: Warhammer 2 DLC](https://www.pcgamer.com/ranking-the-best-and-worst-total-war-warhammer-2-dlc)<!-- GAME:END -->
+ - [Playing games on my ancient TV connects me to the present](https://www.polygon.com/22640172/crt-monitors-flat-screens-retro-games-better-worse-old-tvs)
+ - [MiSTer 101: A classic gaming device to rule them all](https://www.polygon.com/22640171/mister-project-classic-gaming-retro-fpga-board-chip-io-explainer-usb-hub)
+ - [Respecting retro game constraints in the age of remakes](https://www.polygon.com/22640167/retro-games-remakes-constraints-essay-demons-souls-remake-dead-space)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
