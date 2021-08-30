@@ -170,11 +170,11 @@ Linux                    50 mins             █░░░░░░░░░░�
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/garett09/sandbox-adventure/pull/3) in [garett09/sandbox-adventure](https://github.com/garett09/sandbox-adventure)
-2. 💪 Opened PR [#3](https://github.com/garett09/sandbox-adventure/pull/3) in [garett09/sandbox-adventure](https://github.com/garett09/sandbox-adventure)
-3. 🎉 Merged PR [#2](https://github.com/garett09/sandbox-adventure/pull/2) in [garett09/sandbox-adventure](https://github.com/garett09/sandbox-adventure)
-4. 🎉 Merged PR [#1](https://github.com/garett09/sandbox-adventure/pull/1) in [garett09/sandbox-adventure](https://github.com/garett09/sandbox-adventure)
-5. ❌ Closed PR [#13](https://github.com/garett09/myhub/pull/13) in [garett09/myhub](https://github.com/garett09/myhub)
+1. 🗣 Commented on [#1](https://github.com/nikkapiel/practicelab2/issues/1) in [nikkapiel/practicelab2](https://github.com/nikkapiel/practicelab2)
+2. 💪 Opened PR [#1](https://github.com/nikkapiel/practicelab2/pull/1) in [nikkapiel/practicelab2](https://github.com/nikkapiel/practicelab2)
+3. 🎉 Merged PR [#3](https://github.com/garett09/sandbox-adventure/pull/3) in [garett09/sandbox-adventure](https://github.com/garett09/sandbox-adventure)
+4. 💪 Opened PR [#3](https://github.com/garett09/sandbox-adventure/pull/3) in [garett09/sandbox-adventure](https://github.com/garett09/sandbox-adventure)
+5. 🎉 Merged PR [#2](https://github.com/garett09/sandbox-adventure/pull/2) in [garett09/sandbox-adventure](https://github.com/garett09/sandbox-adventure)
 <!--END_SECTION:activity-->
 
 ---
