@@ -189,9 +189,9 @@ Linux                    50 mins             █░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Pixel 6 launch date leaked, could beat iPhone 13 to the party](https://www.androidauthority.com/google-pixel-6-launch-date-2744441/)
- - [Jake Paul vs. Tyron Woodley results: Paul defeats Woodley in split decision     - CNET](https://www.cnet.com/news/jake-paul-vs-tyron-woodley-results-paul-defeats-woodley-in-split-decision/#ftag=CAD590a51e)
- - [Apple Watch Series 7 reportedly has flat sides and bigger screens](https://www.theverge.com/2021/8/29/22647766/apple-watch-series-7-rumors-screen-size-new-design-41mm-45mm)<!-- TECH:END -->
+ - [Q&A with Ann Kelleher, SVP & GM of Technology Development at Intel on the company's new logic roadmap, lithography, packaging, and process technology (Semiconductor Engineering)](http://www.techmeme.com/210830/p1#a210830p1)
+ - [Samsung Galaxy S21 FE could launch as early as next week](https://www.androidauthority.com/galaxy-s21-fe-launch-date-2744442/)
+ - [Google Pixel 6 launch date leaked, could beat iPhone 13 to the party](https://www.androidauthority.com/google-pixel-6-launch-date-2744441/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
