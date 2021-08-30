@@ -189,9 +189,9 @@ Linux                    50 mins             █░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&A with Ann Kelleher, SVP & GM of Technology Development at Intel on the company's new logic roadmap, lithography, packaging, and process technology (Semiconductor Engineering)](http://www.techmeme.com/210830/p1#a210830p1)
- - [Samsung Galaxy S21 FE could launch as early as next week](https://www.androidauthority.com/galaxy-s21-fe-launch-date-2744442/)
- - [Google Pixel 6 launch date leaked, could beat iPhone 13 to the party](https://www.androidauthority.com/google-pixel-6-launch-date-2744441/)<!-- TECH:END -->
+ - [The Pixel 5a apparently runs too hot. Google is investigating.](https://www.androidauthority.com/google-pixel-5a-overheating-2744480/)
+ - [Samsung Galaxy S21 FE: What we know so far (August 30)](https://www.androidauthority.com/samsung-galaxy-s21-fe-1211655/)
+ - [Vivo X70 Pro Plus leaks: Expect a unique camera hump (Updated: launch date)](https://www.androidauthority.com/vivo-x70-pro-plus-design-2741263/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
