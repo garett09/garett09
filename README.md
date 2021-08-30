@@ -189,9 +189,9 @@ Linux                    50 mins             █░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Clubhouse embraces spatial audio for more lifelike conversations](https://www.theverge.com/2021/8/30/22648050/clubhouse-spatial-audio-3d-360-sound)
- - [NASA's Hubble successor, the James Webb Space Telescope, finally ready to ship     - CNET](https://www.cnet.com/news/nasas-hubble-successor-the-james-webb-space-telescope-finally-ready-to-ship/#ftag=CAD590a51e)
- - [iPhone 13 could offer satellite connectivity for texting and calling](https://www.androidauthority.com/iphone-13-leo-satellites-2744474/)<!-- TECH:END -->
+ - [Scarlett Johansson & Chris Evans reunite in Apple TV+ romance](https://appleinsider.com/articles/21/08/30/apple-tv-reunites-scarlett-johansson-chris-evans-for-ghosted-romance?utm_medium=rss)
+ - [OnePlus 7T series updates: Bitmoji AOD arrives with latest update](https://www.androidauthority.com/oneplus-7t-pro-update-1044547/)
+ - ['Ted Lasso' wins four Hollywood Critics awards, more than any other show](https://appleinsider.com/articles/21/08/30/ted-lasso-wins-four-hollywood-critics-awards-more-than-any-other-show?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
