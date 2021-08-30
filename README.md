@@ -189,9 +189,9 @@ Linux                    50 mins             █░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [TikTok owner ByteDance buys a top virtual reality hardware startup](http://feedproxy.google.com/~r/Techcrunch/~3/3zCAu5K4s7E/)
- - [Invest at PayPal could compete with Robinhood and Square’s retail stock trading](https://www.theverge.com/2021/8/30/22648517/paypal-retail-investor-robinhood-stock-trading)
- - [Apple buys classical music service, Primephonic](http://feedproxy.google.com/~r/Techcrunch/~3/WpnwWL031XQ/)<!-- TECH:END -->
+ - [Otterbox launches nifty Folding Wireless Power Bank geared towards gamers](https://www.androidauthority.com/otterbox-folding-wireless-power-bank-2744853/)
+ - [COVID-19 issues impact capacitor production at two Apple suppliers](https://appleinsider.com/articles/21/08/30/covid-19-issues-impact-capacitor-production-at-two-apple-suppliers?utm_medium=rss)
+ - [Luminate aims to make hair loss from chemotherapy a thing of the past](http://feedproxy.google.com/~r/Techcrunch/~3/pFDZvD4tGUY/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
