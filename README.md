@@ -189,9 +189,9 @@ Linux                    50 mins             █░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 13 could talk to LEO satellites to broaden networking capabilities](https://www.androidauthority.com/iphone-13-leo-satellites-2744474/)
- - [GoPro’s next flagship action camera leaks](https://www.theverge.com/2021/8/30/22648027/gopros-hero-10-black-leak-specs-date-price)
- - [The Pixel 5a apparently runs too hot. Google is investigating.](https://www.androidauthority.com/google-pixel-5a-overheating-2744480/)<!-- TECH:END -->
+ - [Clubhouse embraces spatial audio for more lifelike conversations](https://www.theverge.com/2021/8/30/22648050/clubhouse-spatial-audio-3d-360-sound)
+ - [NASA's Hubble successor, the James Webb Space Telescope, finally ready to ship     - CNET](https://www.cnet.com/news/nasas-hubble-successor-the-james-webb-space-telescope-finally-ready-to-ship/#ftag=CAD590a51e)
+ - [iPhone 13 could offer satellite connectivity for texting and calling](https://www.androidauthority.com/iphone-13-leo-satellites-2744474/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
