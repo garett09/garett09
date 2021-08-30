@@ -189,9 +189,9 @@ Linux                    50 mins             █░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nomad Glass Screen Protector review: The bare necessities](https://appleinsider.com/articles/21/08/29/nomad-glass-screen-protector-review-the-bare-necessities?utm_medium=rss)
- - [Florida man guilty of thousand-iPhone fraud in the Apple Crime Blotter](https://appleinsider.com/articles/21/08/29/florida-man-guilty-of-thousand-iphone-fraud-in-the-apple-crime-blotter?utm_medium=rss)
- - [How to customize your Apple Watch default message responses](https://appleinsider.com/articles/21/08/29/how-to-customize-your-apple-watch-default-message-responses?utm_medium=rss)<!-- TECH:END -->
+ - [S. Korea is expected to be the first country to pass a law to prevent app stores from mandating first-party IAP payment systems; assembly vote on 8/30 is likely (Bloomberg)](http://www.techmeme.com/210829/p8#a210829p8)
+ - [Korean 3D spatial data tool startup Urbanbase closes $11.1M Series B+ round](http://feedproxy.google.com/~r/Techcrunch/~3/D6mtmGrD0J4/)
+ - [Jake Paul vs. Tyron Woodley fight purse: How much will the fighters make tonight?     - CNET](https://www.cnet.com/news/jake-paul-vs-tyron-woodley-fight-purse-how-much-will-the-fighters-make-tonight/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
