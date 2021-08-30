@@ -189,9 +189,9 @@ Linux                    50 mins             █░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Superhost brings your Airbnb nightmares to life on Shudder](https://www.androidauthority.com/superhost-review-shudder-2742563/)
- - [Telegram tops 1 billion downloads](http://feedproxy.google.com/~r/Techcrunch/~3/UQq7-HlhPUw/)
- - [Save 20% on the Google Nest Audio, and more Google Home and Nest deals](https://www.androidauthority.com/best-google-home-nest-deals-1112633/)<!-- TECH:END -->
+ - [Apple issues sixth developer beta for macOS Monterey](https://appleinsider.com/articles/21/08/30/apple-issues-sixth-developer-beta-for-macos-monterey?utm_medium=rss)
+ - [Apple's share price closes at new record high of $153.12](https://appleinsider.com/articles/21/08/30/apples-share-price-closes-at-new-record-high-of-15312?utm_medium=rss)
+ - [Zoom announces first startups receiving funding from $100M investment fund](http://feedproxy.google.com/~r/Techcrunch/~3/uIuJyeU6vdU/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
