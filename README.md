@@ -196,9 +196,9 @@ Linux                    50 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Good job Iced sales guy.](http://9gag.com/gag/aeA8ADO)
- - 🚯 [First Responder Rescue tool](http://9gag.com/gag/aV7y7gy)
- - 🚯 [Maybe i&#039;m getting old but i hate people like that](http://9gag.com/gag/aGp4dyz)<!-- MEMES:END -->
+ - 🚖 [You think you are safe in parking lot?](http://9gag.com/gag/a4EOEAw)
+ - 🚯 [Check mate!](http://9gag.com/gag/aP3b7gn)
+ - 🚯 [Seriously why apple products are so popular.](http://9gag.com/gag/anQP4K0)<!-- MEMES:END -->
 
 --- 
 
