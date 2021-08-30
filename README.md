@@ -189,9 +189,9 @@ Linux                    50 mins             █░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple issues sixth developer beta for macOS Monterey](https://appleinsider.com/articles/21/08/30/apple-issues-sixth-developer-beta-for-macos-monterey?utm_medium=rss)
- - [Apple's share price closes at new record high of $153.12](https://appleinsider.com/articles/21/08/30/apples-share-price-closes-at-new-record-high-of-15312?utm_medium=rss)
- - [Zoom announces first startups receiving funding from $100M investment fund](http://feedproxy.google.com/~r/Techcrunch/~3/uIuJyeU6vdU/)<!-- TECH:END -->
+ - [Apple's 'iPhone 13' won't support satellite communications, mobile analysts say](https://appleinsider.com/articles/21/08/30/apples-iphone-13-wont-support-satellite-communications-mobile-analysts-say?utm_medium=rss)
+ - [Cricket Wireless deals: Get a free iPhone SE, and more.](https://www.androidauthority.com/best-cricket-wireless-deals-2-835972/)
+ - [Global smartphone shipments are expected to grow by 7.4% in 2021, reaching 1.37B units, with iPhone shipments growing 13.8% and Android shipments growing 6.2% (IDC)](http://www.techmeme.com/210830/p15#a210830p15)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
