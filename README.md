@@ -182,9 +182,9 @@ Linux                    50 mins             █░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [WarioWare's fast-paced microgames meet horror film tropes in Spookware](https://www.pcgamer.com/wariowares-fast-paced-microgames-meet-horror-film-tropes-in-spookware)
- - [The Ascent gets another performance patch to address stuttering and bugs](https://www.pcgamer.com/the-ascent-gets-another-performance-patch-to-address-stuttering-and-bugs)
- - [Report: Yakuza Creator Toshihiro Nagoshi Leaving Sega To Join NetEase](https://kotaku.com/report-yakuza-creator-toshihiro-nagoshi-leaving-sega-t-1847581995)<!-- GAME:END -->
+ - [Neon Genesis Evangelion gets two more Blu-ray releases, digital download version](https://www.polygon.com/22647750/neon-genesis-evangelion-blu-ray-digital-download-release-date-price)
+ - [Bandai Launched A Gundam Model Recycling Project In Japan](https://kotaku.com/bandai-launched-a-gundam-model-recycling-project-in-jap-1847582227)
+ - [WarioWare's fast-paced microgames meet horror film tropes in Spookware](https://www.pcgamer.com/wariowares-fast-paced-microgames-meet-horror-film-tropes-in-spookware)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
