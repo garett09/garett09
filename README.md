@@ -196,8 +196,8 @@ Linux                    50 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hurricane Ida ripping off the roof over their main hospital](http://9gag.com/gag/aqjog2Z)
- - 🚯 [I&#039;ve seen about 5 weight loss posts over the past couple days. Just wanna remind everyone.](http://9gag.com/gag/amP4vqo)
+ - 🚖 [Check mate!](http://9gag.com/gag/aP3b7gn)
+ - 🚯 [Woman logic](http://9gag.com/gag/aNpE0Rb)
  - 🚯 [He deadz](http://9gag.com/gag/azMp1Qx)<!-- MEMES:END -->
 
 --- 
