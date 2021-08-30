@@ -196,9 +196,9 @@ Linux                    50 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [You think you are safe in parking lot?](http://9gag.com/gag/a4EOEAw)
+ - 🚖 [Seriously why apple products are so popular.](http://9gag.com/gag/anQP4K0)
  - 🚯 [Check mate!](http://9gag.com/gag/aP3b7gn)
- - 🚯 [Seriously why apple products are so popular.](http://9gag.com/gag/anQP4K0)<!-- MEMES:END -->
+ - 🚯 [You think you are safe in parking lot?](http://9gag.com/gag/a4EOEAw)<!-- MEMES:END -->
 
 --- 
 
