@@ -189,9 +189,9 @@ Linux                    50 mins             █░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon Deals: $499 iPad Air 4, $30 MagSafe Charger for iPhone 12, $119 AirPods](https://appleinsider.com/articles/21/08/30/amazon-deals-499-ipad-air-4-30-magsafe-charger-for-iphone-12-119-airpods?utm_medium=rss)
- - [5 takeaways from Toast’s S-1 filing](http://feedproxy.google.com/~r/Techcrunch/~3/vz1f1R7sWBY/)
- - [Flip, a social commerce app with 1M+ downloads that mixes customer reviews with live shopping shows, raises $28M Series A led by Streamlined Ventures (Christine Hall/TechCrunch)](http://www.techmeme.com/210830/p8#a210830p8)<!-- TECH:END -->
+ - [TikTok owner ByteDance buys a top virtual reality hardware startup](http://feedproxy.google.com/~r/Techcrunch/~3/3zCAu5K4s7E/)
+ - [Invest at PayPal could compete with Robinhood and Square’s retail stock trading](https://www.theverge.com/2021/8/30/22648517/paypal-retail-investor-robinhood-stock-trading)
+ - [Apple buys classical music service, Primephonic](http://feedproxy.google.com/~r/Techcrunch/~3/WpnwWL031XQ/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
