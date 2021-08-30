@@ -182,9 +182,9 @@ Linux                    50 mins             █░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [New Saints Row reboot video has actual gameplay footage](https://www.pcgamer.com/new-saints-row-reboot-video-has-actual-gameplay-footage)
  - [Safety On](https://kotaku.com/safety-on-1847581631)
- - [Starfield: Everything we know about Bethesda's next RPG](https://www.pcgamer.com/starfield-release-date-trailer-2022)
- - [Toy Pokédex Becomes Working Nintendo DS](https://kotaku.com/toy-pokedex-becomes-working-nintendo-ds-1847581506)<!-- GAME:END -->
+ - [Starfield: Everything we know about Bethesda's next RPG](https://www.pcgamer.com/starfield-release-date-trailer-2022)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
