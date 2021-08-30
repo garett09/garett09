@@ -196,9 +196,9 @@ Linux                    50 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I&#039;ve seen about 5 weight loss posts over the past couple days. Just wanna remind everyone.](http://9gag.com/gag/amP4vqo)
- - 🚯 [Cuteness over wife.](http://9gag.com/gag/av5Kzxn)
- - 🚯 [OMG Asians all look the same](http://9gag.com/gag/aZ0OyvW)<!-- MEMES:END -->
+ - 🚖 [How to Not Handle an RPG](http://9gag.com/gag/azMpMLb)
+ - 🚯 [OMG Asians all look the same](http://9gag.com/gag/aZ0OyvW)
+ - 🚯 [Only in Austria](http://9gag.com/gag/aDde4nN)<!-- MEMES:END -->
 
 --- 
 
