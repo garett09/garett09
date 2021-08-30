@@ -189,9 +189,9 @@ Linux                    50 mins             █░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [S. Korea is expected to be the first country to pass a law to prevent app stores from mandating first-party IAP payment systems; assembly vote on 8/30 is likely (Bloomberg)](http://www.techmeme.com/210829/p8#a210829p8)
- - [Korean 3D spatial data tool startup Urbanbase closes $11.1M Series B+ round](http://feedproxy.google.com/~r/Techcrunch/~3/D6mtmGrD0J4/)
- - [Jake Paul vs. Tyron Woodley fight purse: How much will the fighters make tonight?     - CNET](https://www.cnet.com/news/jake-paul-vs-tyron-woodley-fight-purse-how-much-will-the-fighters-make-tonight/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple iPhone 13 to reportedly feature satellite connectivity     - CNET](https://www.cnet.com/tech/mobile/apple-iphone-13-reportedly-feature-satellite-connectivity/#ftag=CAD590a51e)
+ - [Nomad Leather Skin review: A cover that maintains your iPhone 12's aesthetic](https://appleinsider.com/articles/21/08/28/nomad-leather-skin-review-a-cover-that-maintains-your-iphone-12s-aesthetic?utm_medium=rss)
+ - [Best TV shows 2021: The White Lotus, Hacks, Marvel's Loki, more     - CNET](https://www.cnet.com/news/best-tv-shows-2021-from-the-white-lotus-to-marvel-loki/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
