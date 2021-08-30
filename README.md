@@ -196,9 +196,9 @@ Linux                    50 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I heard you like big forge hammers...](http://9gag.com/gag/a1r3oWG)
- - 🚯 [Guess i&#039;ll get another shot](http://9gag.com/gag/a07y5nO)
- - 🚯 [This was the bubble gum we had in Brazil in our schools back in the 90&#039;s. It came with stickers.](http://9gag.com/gag/aK6oxN6)<!-- MEMES:END -->
+ - 🚖 [Madlad spitting truth](http://9gag.com/gag/aqjoK2P)
+ - 🚯 [Wokeflix](http://9gag.com/gag/aWj31mK)
+ - 🚯 [I honestly wonder why is Africa still such a shithole despite all that charity aid. I am hearing about a starving children in Africa my entire life and I am little too old to care now.](http://9gag.com/gag/apNZ24b)<!-- MEMES:END -->
 
 --- 
 
