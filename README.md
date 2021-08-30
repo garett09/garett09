@@ -196,9 +196,9 @@ Linux                    50 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The oldest door still in use in Rome. Cast in bronze for emperor Hadrian&#039; rebuilding, they date from about 115 AD. Human for scale.](http://9gag.com/gag/aB2BxXP)
- - 🚯 [Madlad spitting truth](http://9gag.com/gag/aqjoK2P)
- - 🚯 [Milano today](http://9gag.com/gag/amP47xv)<!-- MEMES:END -->
+ - 🚖 [Madlad spitting truth](http://9gag.com/gag/aqjoK2P)
+ - 🚯 [I heard you like big forge hammers...](http://9gag.com/gag/a1r3oWG)
+ - 🚯 [Hurricane Ida going through downtown New Orleans](http://9gag.com/gag/apNZm95)<!-- MEMES:END -->
 
 --- 
 
