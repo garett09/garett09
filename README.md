@@ -182,9 +182,9 @@ Linux                    50 mins             █░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Safety On](https://kotaku.com/safety-on-1847581631)
  - [Starfield: Everything we know about Bethesda's next RPG](https://www.pcgamer.com/starfield-release-date-trailer-2022)
- - [Toy Pokédex Becomes Working Nintendo DS](https://kotaku.com/toy-pokedex-becomes-working-nintendo-ds-1847581506)
- - [Sovereign Syndicate is an RPG with tarot instead of dice where you can play an alcoholic minotaur](https://www.pcgamer.com/sovereign-syndicate-is-an-rpg-with-tarot-instead-of-dice-where-you-can-play-an-alcoholic-minotaur)<!-- GAME:END -->
+ - [Toy Pokédex Becomes Working Nintendo DS](https://kotaku.com/toy-pokedex-becomes-working-nintendo-ds-1847581506)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
