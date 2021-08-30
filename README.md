@@ -182,9 +182,9 @@ Linux                    50 mins             █░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The NoSkyrim mod has been banned from Nexus Mods](https://www.pcgamer.com/the-noskyrim-mod-has-been-banned-from-nexus-mods)
- - [The Week In Games: Kiwi Birds](https://kotaku.com/the-week-in-games-kiwi-birds-1847581135)
- - [Nuclear Throne, Sludge Life, and Broforce devs team up for a slick little card game](https://www.pcgamer.com/nuclear-throne-sludge-life-and-broforce-devs-team-up-for-a-slick-little-card-game)<!-- GAME:END -->
+ - [The cheapest way to pre-order Deathloop in Australia](https://www.pcgamer.com/the-cheapest-way-to-pre-order-deathloop-in-australia)
+ - [Five new Steam games you probably missed (August 30, 2021)](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-august-30-2021)
+ - [The New PS5 Has A Much Smaller Heatsink](https://kotaku.com/the-new-ps5-has-a-much-smaller-heatsink-1847581238)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
