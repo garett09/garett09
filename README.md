@@ -170,11 +170,11 @@ Linux                    50 mins             █░░░░░░░░░░�
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#13](https://github.com/garett09/myhub/pull/13) in [garett09/myhub](https://github.com/garett09/myhub)
-2. ❌ Closed PR [#12](https://github.com/garett09/myhub/pull/12) in [garett09/myhub](https://github.com/garett09/myhub)
-3. 🎉 Merged PR [#11](https://github.com/garett09/myhub/pull/11) in [garett09/myhub](https://github.com/garett09/myhub)
-4. 💪 Opened PR [#11](https://github.com/garett09/myhub/pull/11) in [garett09/myhub](https://github.com/garett09/myhub)
-5. 🎉 Merged PR [#10](https://github.com/garett09/myhub/pull/10) in [garett09/myhub](https://github.com/garett09/myhub)
+1. 🎉 Merged PR [#2](https://github.com/garett09/sandbox-adventure/pull/2) in [garett09/sandbox-adventure](https://github.com/garett09/sandbox-adventure)
+2. 🎉 Merged PR [#1](https://github.com/garett09/sandbox-adventure/pull/1) in [garett09/sandbox-adventure](https://github.com/garett09/sandbox-adventure)
+3. ❌ Closed PR [#13](https://github.com/garett09/myhub/pull/13) in [garett09/myhub](https://github.com/garett09/myhub)
+4. ❌ Closed PR [#12](https://github.com/garett09/myhub/pull/12) in [garett09/myhub](https://github.com/garett09/myhub)
+5. 🎉 Merged PR [#11](https://github.com/garett09/myhub/pull/11) in [garett09/myhub](https://github.com/garett09/myhub)
 <!--END_SECTION:activity-->
 
 ---
