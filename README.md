@@ -196,9 +196,9 @@ Linux                    50 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How to Not Handle an RPG](http://9gag.com/gag/azMpMLb)
- - 🚯 [OMG Asians all look the same](http://9gag.com/gag/aZ0OyvW)
- - 🚯 [Only in Austria](http://9gag.com/gag/aDde4nN)<!-- MEMES:END -->
+ - 🚖 [Good job Iced sales guy.](http://9gag.com/gag/aeA8ADO)
+ - 🚯 [First Responder Rescue tool](http://9gag.com/gag/aV7y7gy)
+ - 🚯 [Maybe i&#039;m getting old but i hate people like that](http://9gag.com/gag/aGp4dyz)<!-- MEMES:END -->
 
 --- 
 
