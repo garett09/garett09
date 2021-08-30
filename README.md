@@ -189,9 +189,9 @@ Linux                    50 mins             █░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Jake Paul vs. Tyron Woodley: Main event live updates, results     - CNET](https://www.cnet.com/news/jake-paul-vs-tyron-woodley-main-event-live-updates-results/#ftag=CAD590a51e)
- - [Apple Watch Series 7 reportedly has flat sides and bigger screens](https://www.theverge.com/2021/8/29/22647766/apple-watch-series-7-rumors-screen-size-new-design-41mm-45mm)
- - [Apple iPhone 13 to reportedly feature satellite connectivity     - CNET](https://www.cnet.com/tech/mobile/apple-iphone-13-reportedly-feature-satellite-connectivity/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google Pixel 6 launch date leaked, could beat iPhone 13 to the party](https://www.androidauthority.com/google-pixel-6-launch-date-2744441/)
+ - [Jake Paul vs. Tyron Woodley results: Paul defeats Woodley in split decision     - CNET](https://www.cnet.com/news/jake-paul-vs-tyron-woodley-results-paul-defeats-woodley-in-split-decision/#ftag=CAD590a51e)
+ - [Apple Watch Series 7 reportedly has flat sides and bigger screens](https://www.theverge.com/2021/8/29/22647766/apple-watch-series-7-rumors-screen-size-new-design-41mm-45mm)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
