@@ -197,8 +197,8 @@ Linux                    50 mins             █░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 🚖 [The destruction of the middle class turned into a graph. We are living through very sad times &hellip;](http://9gag.com/gag/ajmegmQ)
- - 🚯 [Flat earther proves earth is not flat](http://9gag.com/gag/a1r315D)
- - 🚯 [Karma is a b*tch](http://9gag.com/gag/a07y7gX)<!-- MEMES:END -->
+ - 🚯 [Karma is a b*tch](http://9gag.com/gag/a07y7gX)
+ - 🚯 [What a smart little sweetheart...](http://9gag.com/gag/aNpEwOK)<!-- MEMES:END -->
 
 --- 
 
