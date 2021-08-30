@@ -197,7 +197,7 @@ Linux                    50 mins             █░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 🚖 [The oldest door still in use in Rome. Cast in bronze for emperor Hadrian&#039; rebuilding, they date from about 115 AD. Human for scale.](http://9gag.com/gag/aB2BxXP)
- - 🚯 [Walking through a swamp](http://9gag.com/gag/a8Ex8xV)
+ - 🚯 [Madlad spitting truth](http://9gag.com/gag/aqjoK2P)
  - 🚯 [Milano today](http://9gag.com/gag/amP47xv)<!-- MEMES:END -->
 
 --- 
