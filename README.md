@@ -182,9 +182,9 @@ Linux                    50 mins             █░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Neon Genesis Evangelion gets two more Blu-ray releases, digital download version](https://www.polygon.com/22647750/neon-genesis-evangelion-blu-ray-digital-download-release-date-price)
- - [Bandai Launched A Gundam Model Recycling Project In Japan](https://kotaku.com/bandai-launched-a-gundam-model-recycling-project-in-jap-1847582227)
- - [WarioWare's fast-paced microgames meet horror film tropes in Spookware](https://www.pcgamer.com/wariowares-fast-paced-microgames-meet-horror-film-tropes-in-spookware)<!-- GAME:END -->
+ - [Should you play Psychonauts before Psychonauts 2?](https://www.pcgamer.com/should-you-play-psychonauts-before-psychonauts-2)
+ - [Fractal Design recalls the fan hub in its Torrent case, get your free replacement](https://www.pcgamer.com/fractal-design-recalls-the-fan-hub-in-its-torrent-case-get-your-free-replacement)
+ - [Getting A Covid Jab For Tokyo Youth Is Like Trying To Buy A PS5](https://kotaku.com/getting-a-covid-jab-for-tokyo-youth-is-like-trying-to-b-1847582334)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
