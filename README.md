@@ -182,9 +182,9 @@ Linux                    50 mins             █░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Announced as Official Gaming Partner of the England Football Teams](https://news.xbox.com/en-us/2021/08/30/fa-xbox-partnership-announcement/)
- - [Bleak fantasy RPG Vagrus: The Riven Realms gets October release date](https://www.pcgamer.com/bleak-fantasy-rpg-vagrus-the-riven-realms-gets-october-release-date)
- - [Samsung's zippy 980 Pro 1TB SSD is on sale for $180 today](https://www.pcgamer.com/samsungs-zippy-980-pro-1tb-ssd-is-on-sale-for-dollar180-today)<!-- GAME:END -->
+ - [Watch Dogs gets a new mission based on Netflix’s Money Heist](https://www.polygon.com/22648223/watch-dogs-legion-money-heist-netflix-crossover-mission)
+ - [A Chill, Ghibli-Like Adventure Game That's Set In New York](https://kotaku.com/a-chill-ghibli-like-adventure-game-thats-set-in-new-yo-1847582809)
+ - [Ranking the best and worst Total War: Warhammer 2 DLC](https://www.pcgamer.com/ranking-the-best-and-worst-total-war-warhammer-2-dlc)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
