@@ -182,9 +182,9 @@ Linux                    50 mins             █░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Superman got a new secret identity and blew it immediately](https://www.polygon.com/comics/2021/8/30/22622465/superman-new-secret-identity-dc-comics)
- - [­­­theHunter: Call of the Wild – 7 tips to master desert hunting in Rancho del Arroyo](http://feedproxy.google.com/~r/PSBlog/~3/iDeE_95FnoU/)
- - [­­­theHunter: Call of the Wild – 7 tips to master desert hunting in Rancho del Arroyo](https://blog.playstation.com/2021/08/30/thehunter-call-of-the-wild-7-tips-to-master-desert-hunting-in-rancho-del-arroyo/)<!-- GAME:END -->
+ - [Lego Star Wars Battles shuttered in July, now returning as an Apple Arcade exclusive](https://www.polygon.com/22648573/lego-star-wars-battles-ios-release-apple-arcade)
+ - [Best gaming keyboards in 2021](https://www.pcgamer.com/best-gaming-keyboard)
+ - [Martin Luther King, Jr.’s Daughter Distances Herself From Fortnite Event](https://kotaku.com/martin-luther-king-jr-s-daughter-distances-herself-fro-1847584012)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
