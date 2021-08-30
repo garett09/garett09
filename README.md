@@ -182,9 +182,9 @@ Linux                    50 mins             █░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [WarioWare's fast-paced microgames meet horror film tropes in Spookware](https://www.pcgamer.com/wariowares-fast-paced-microgames-meet-horror-film-tropes-in-spookware)
  - [The Ascent gets another performance patch to address stuttering and bugs](https://www.pcgamer.com/the-ascent-gets-another-performance-patch-to-address-stuttering-and-bugs)
- - [Report: Yakuza Creator Toshihiro Nagoshi Leaving Sega To Join NetEase](https://kotaku.com/report-yakuza-creator-toshihiro-nagoshi-leaving-sega-t-1847581995)
- - [New Saints Row reboot video has actual gameplay footage](https://www.pcgamer.com/new-saints-row-reboot-video-has-actual-gameplay-footage)<!-- GAME:END -->
+ - [Report: Yakuza Creator Toshihiro Nagoshi Leaving Sega To Join NetEase](https://kotaku.com/report-yakuza-creator-toshihiro-nagoshi-leaving-sega-t-1847581995)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
