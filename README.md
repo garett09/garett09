@@ -182,9 +182,9 @@ Linux                    50 mins             █░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Should you play Psychonauts before Psychonauts 2?](https://www.pcgamer.com/should-you-play-psychonauts-before-psychonauts-2)
- - [Fractal Design recalls the fan hub in its Torrent case, get your free replacement](https://www.pcgamer.com/fractal-design-recalls-the-fan-hub-in-its-torrent-case-get-your-free-replacement)
- - [Getting A Covid Jab For Tokyo Youth Is Like Trying To Buy A PS5](https://kotaku.com/getting-a-covid-jab-for-tokyo-youth-is-like-trying-to-b-1847582334)<!-- GAME:END -->
+ - [Xbox Announced as Official Gaming Partner of the England Football Teams](https://news.xbox.com/en-us/2021/08/30/fa-xbox-partnership-announcement/)
+ - [Bleak fantasy RPG Vagrus: The Riven Realms gets October release date](https://www.pcgamer.com/bleak-fantasy-rpg-vagrus-the-riven-realms-gets-october-release-date)
+ - [Samsung's zippy 980 Pro 1TB SSD is on sale for $180 today](https://www.pcgamer.com/samsungs-zippy-980-pro-1tb-ssd-is-on-sale-for-dollar180-today)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
