@@ -189,9 +189,9 @@ Linux                    50 mins             █░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Level & Rocky Mountain Hardware, VOCOlinc gone & more on HomeKit Insider](https://appleinsider.com/articles/21/08/30/level-rocky-mountain-hardware-vocolinc-gone-more-on-homekit-insider?utm_medium=rss)
- - [Our Favorite Paper Planners for Crossing Tasks off Your List](https://www.wired.com/gallery/our-favorite-paper-planners)
- - [An Experimental Birth Control Attacks Sperm Like a Virus](https://www.wired.com/story/an-experimental-birth-control-attacks-sperm-like-a-virus)<!-- TECH:END -->
+ - [How police laid down a geofence dragnet for Kenosha protestors](https://www.theverge.com/22644965/kenosha-protests-geofence-warrants-atf-android-data-police-jacob-blake)
+ - [Fossil Gen 6 guide: What you need to know about the classy new smartwatches](https://www.androidauthority.com/fossil-gen-6-smartwatch-1159767/)
+ - [Ragnarok ransomware gang shuts down and releases its decryption key](http://feedproxy.google.com/~r/Techcrunch/~3/KIMhy1Y5EIE/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
