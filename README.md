@@ -196,9 +196,9 @@ Linux                    50 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Watch out when coming to Brazil. You may get stollen.](http://9gag.com/gag/arM7GMp)
- - 🚯 [5 year weightloss journey](http://9gag.com/gag/a1r3QE8)
- - 🚯 [I was there 3000 years ago ....](http://9gag.com/gag/aoMQ5ge)<!-- MEMES:END -->
+ - 🚖 [Hurricane Ida ripping off the roof over their main hospital](http://9gag.com/gag/aqjog2Z)
+ - 🚯 [I&#039;ve seen about 5 weight loss posts over the past couple days. Just wanna remind everyone.](http://9gag.com/gag/amP4vqo)
+ - 🚯 [He deadz](http://9gag.com/gag/azMp1Qx)<!-- MEMES:END -->
 
 --- 
 
