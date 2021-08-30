@@ -189,9 +189,9 @@ Linux                    50 mins             █░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Otterbox launches nifty Folding Wireless Power Bank geared towards gamers](https://www.androidauthority.com/otterbox-folding-wireless-power-bank-2744853/)
- - [COVID-19 issues impact capacitor production at two Apple suppliers](https://appleinsider.com/articles/21/08/30/covid-19-issues-impact-capacitor-production-at-two-apple-suppliers?utm_medium=rss)
- - [Luminate aims to make hair loss from chemotherapy a thing of the past](http://feedproxy.google.com/~r/Techcrunch/~3/pFDZvD4tGUY/)<!-- TECH:END -->
+ - [Superhost brings your Airbnb nightmares to life on Shudder](https://www.androidauthority.com/superhost-review-shudder-2742563/)
+ - [Telegram tops 1 billion downloads](http://feedproxy.google.com/~r/Techcrunch/~3/UQq7-HlhPUw/)
+ - [Save 20% on the Google Nest Audio, and more Google Home and Nest deals](https://www.androidauthority.com/best-google-home-nest-deals-1112633/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
