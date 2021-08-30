@@ -182,9 +182,9 @@ Linux                    50 mins             █░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Report: Yakuza Creator Toshihiro Nagoshi Leaving Sega To Join NetEase](https://kotaku.com/report-yakuza-creator-toshihiro-nagoshi-leaving-sega-t-1847581995)
  - [New Saints Row reboot video has actual gameplay footage](https://www.pcgamer.com/new-saints-row-reboot-video-has-actual-gameplay-footage)
- - [Safety On](https://kotaku.com/safety-on-1847581631)
- - [Starfield: Everything we know about Bethesda's next RPG](https://www.pcgamer.com/starfield-release-date-trailer-2022)<!-- GAME:END -->
+ - [Safety On](https://kotaku.com/safety-on-1847581631)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
