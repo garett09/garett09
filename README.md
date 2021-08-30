@@ -189,8 +189,8 @@ Linux                    50 mins             █░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Jake Paul vs. Tyron Woodley: Main event live updates, results     - CNET](https://www.cnet.com/news/jake-paul-vs-tyron-woodley-main-event-live-updates-results/#ftag=CAD590a51e)
  - [Apple Watch Series 7 reportedly has flat sides and bigger screens](https://www.theverge.com/2021/8/29/22647766/apple-watch-series-7-rumors-screen-size-new-design-41mm-45mm)
- - [Jake Paul vs. Tyron Woodley: Live updates, results     - CNET](https://www.cnet.com/news/jake-paul-vs-tyron-woodley-live-updates-results/#ftag=CAD590a51e)
  - [Apple iPhone 13 to reportedly feature satellite connectivity     - CNET](https://www.cnet.com/tech/mobile/apple-iphone-13-reportedly-feature-satellite-connectivity/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
