@@ -196,9 +196,9 @@ Linux                    50 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Check mate!](http://9gag.com/gag/aP3b7gn)
- - 🚯 [Woman logic](http://9gag.com/gag/aNpE0Rb)
- - 🚯 [He deadz](http://9gag.com/gag/azMp1Qx)<!-- MEMES:END -->
+ - 🚖 [Only in Austria](http://9gag.com/gag/aDde4nN)
+ - 🚯 [That&#039;s what heroes do](http://9gag.com/gag/aeA85nB)
+ - 🚯 [Maybe i&#039;m getting old but i hate people like that](http://9gag.com/gag/aGp4dyz)<!-- MEMES:END -->
 
 --- 
 
