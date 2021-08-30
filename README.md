@@ -196,9 +196,9 @@ Linux                    50 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [He deadz](http://9gag.com/gag/azMp1Qx)
- - 🚯 [Woman logic](http://9gag.com/gag/aNpE0Rb)
- - 🚯 [This was the bubble gum we had in Brazil in our schools back in the 90&#039;s. It came with stickers.](http://9gag.com/gag/aK6oxN6)<!-- MEMES:END -->
+ - 🚖 [Watch out when coming to Brazil. You may get stollen.](http://9gag.com/gag/arM7GMp)
+ - 🚯 [5 year weightloss journey](http://9gag.com/gag/a1r3QE8)
+ - 🚯 [I was there 3000 years ago ....](http://9gag.com/gag/aoMQ5ge)<!-- MEMES:END -->
 
 --- 
 
