@@ -196,9 +196,9 @@ Linux                    50 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Seriously why apple products are so popular.](http://9gag.com/gag/anQP4K0)
- - 🚯 [Check mate!](http://9gag.com/gag/aP3b7gn)
- - 🚯 [You think you are safe in parking lot?](http://9gag.com/gag/a4EOEAw)<!-- MEMES:END -->
+ - 🚖 [Flat earther proves earth is not flat](http://9gag.com/gag/a1r315D)
+ - 🚯 [Fact: On average atleast 70% of the facts in a movie based on true stories are made up...](http://9gag.com/gag/av5KARZ)
+ - 🚯 [I&#039;m changing lane, good luck everyone!](http://9gag.com/gag/axMqBdY)<!-- MEMES:END -->
 
 --- 
 
