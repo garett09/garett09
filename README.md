@@ -196,9 +196,9 @@ Linux                    50 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Madlad spitting truth](http://9gag.com/gag/aqjoK2P)
- - 🚯 [Wokeflix](http://9gag.com/gag/aWj31mK)
- - 🚯 [I honestly wonder why is Africa still such a shithole despite all that charity aid. I am hearing about a starving children in Africa my entire life and I am little too old to care now.](http://9gag.com/gag/apNZ24b)<!-- MEMES:END -->
+ - 🚖 [The mechanism of an ancient Egyptian lock](http://9gag.com/gag/aAbzgBp)
+ - 🚯 [I honestly wonder why is Africa still such a shithole despite all that charity aid. I am hearing about a starving children in Africa my entire life and I am little too old to care now.](http://9gag.com/gag/apNZ24b)
+ - 🚯 [Let me try to beat the train, while hauling a f**king windmill blade](http://9gag.com/gag/amP4B8v)<!-- MEMES:END -->
 
 --- 
 
