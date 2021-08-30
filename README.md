@@ -189,9 +189,9 @@ Linux                    50 mins             █░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [#AppleToo publishes first five stories of harrassment, discrimination](https://appleinsider.com/articles/21/08/30/appletoo-publishes-first-five-stories-of-harrassment-discrimination?utm_medium=rss)
- - [Samsung shows off double-folding Galaxy Fold prototype, and it’s a long boi](https://www.androidauthority.com/samsung-multi-foldable-2744938/)
- - [Best laptop under $500 for 2021     - CNET](https://www.cnet.com/tech/computing/best-laptop-under-500/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Future iPhone could feature satellite calls & messages, but probably not in 2021](https://appleinsider.com/articles/21/08/30/future-iphone-could-feature-satellite-support-but-probably-not-in-2021?utm_medium=rss)
+ - [In an email to some Square Invoices users, Square says it's working on Invoices Plus, a paid version with some features from the free version, plus new ones (Sarah Perez/TechCrunch)](http://www.techmeme.com/210830/p18#a210830p18)
+ - [Best vitamin C serum for 2021     - CNET](https://www.cnet.com/health/personal-care/best-vitamin-c-serums/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
