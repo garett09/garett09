@@ -196,9 +196,9 @@ Linux                    30 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Well damn girl](http://9gag.com/gag/abVnAnr)
- - 🚯 [What&#039;s wrong here?](http://9gag.com/gag/aEpmMOp)
- - 🚯 [Classic schmosby](http://9gag.com/gag/abVnerL)<!-- MEMES:END -->
+ - 🚖 [I&#039;m sorry what?](http://9gag.com/gag/aWj3p04)
+ - 🚯 [Some kids pranked a school board meeting, this is some Bart Simpson sh*t!](http://9gag.com/gag/a3EXGvQ)
+ - 🚯 [Slav Cozy, wouldn&#039;t change a thing](http://9gag.com/gag/arM7WDp)<!-- MEMES:END -->
 
 --- 
 
