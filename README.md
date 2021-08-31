@@ -196,9 +196,9 @@ Linux                    30 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I&#039;m sorry what?](http://9gag.com/gag/aWj3p04)
- - 🚯 [Some kids pranked a school board meeting, this is some Bart Simpson sh*t!](http://9gag.com/gag/a3EXGvQ)
- - 🚯 [Slav Cozy, wouldn&#039;t change a thing](http://9gag.com/gag/arM7WDp)<!-- MEMES:END -->
+ - 🚖 [Don&#039;t war with me onii-chan baaaaka](http://9gag.com/gag/aeA84yW)
+ - 🚯 [What it&#039;s called?](http://9gag.com/gag/aDde7xw)
+ - 🚯 [Never talk to an Ex. The &quot;Ex&quot; itself is the begining of many dangerous words..](http://9gag.com/gag/aV7yo3M)<!-- MEMES:END -->
 
 --- 
 
