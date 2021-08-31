@@ -182,9 +182,9 @@ Linux                    30 mins             █░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Apex Legends Removes Tech That Grew Beef Between PC and Console Fans](https://kotaku.com/apex-legends-removes-tech-that-grew-beef-between-pc-and-1847594155)
  - [5 Jaw-Some New Features in Maneater: Truth Quest](https://news.xbox.com/en-us/2021/08/31/5-jaw-some-new-features-in-maneater-truth-quest/)
- - [Seven New Guns You Should Really Have In Destiny 2 Season Of The Lost](https://kotaku.com/seven-new-guns-you-should-really-have-in-destiny-2-seas-1847593705)
- - [Experience Desert Hunting in Rancho del Arroyo, the New Reserve for theHunter: Call of the Wild](https://news.xbox.com/en-us/2021/08/31/experience-desert-hunting-rancho-del-arroyo-thehunter-call-of-the-wild/)<!-- GAME:END -->
+ - [Seven New Guns You Should Really Have In Destiny 2 Season Of The Lost](https://kotaku.com/seven-new-guns-you-should-really-have-in-destiny-2-seas-1847593705)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
