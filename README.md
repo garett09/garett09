@@ -189,9 +189,9 @@ Linux                    30 mins             █░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [After weeks of hate raids, Twitch streamers are taking a day off in protest](https://www.theverge.com/2021/8/31/22650578/twitch-streamers-walkout-protest-hate-raids)
- - [A popular smart home security system can be remotely disarmed, researchers say](http://feedproxy.google.com/~r/Techcrunch/~3/5SyhtuUoeIc/)
- - [[Thread] Apple bars staff from making a Slack channel about pay equity; Apple says it's because it's not work related, despite other channels on pets and jokes (Zo&euml; Schiffer/@zoeschiffer)](http://www.techmeme.com/210831/p34#a210831p34)<!-- TECH:END -->
+ - [CryptoPunks creator inks representation deal with major Hollywood talent agency](http://feedproxy.google.com/~r/Techcrunch/~3/niZvazUQbg8/)
+ - [Apple bars staff from making a Slack channel about pay equity; Apple says it's because it's not work related, despite other channels on pets and jokes (Zoe Schiffer/The Verge)](http://www.techmeme.com/210831/p36#a210831p36)
+ - [LinkedIn is scrapping its Stories feature to work on short-form video](http://feedproxy.google.com/~r/Techcrunch/~3/0sYsJCJ2XCE/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
