@@ -196,9 +196,9 @@ Linux                    30 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [That could&#039;ve ended horribly](http://9gag.com/gag/a7ERqme)
- - 🚯 [Instant karma](http://9gag.com/gag/aeA8QNO)
- - 🚯 [Be like Bill.](http://9gag.com/gag/aNpEDO0)<!-- MEMES:END -->
+ - 🚖 [20 years ago they looked like adults, today they look like your hommies.](http://9gag.com/gag/aAbzyX2)
+ - 🚯 [Same thing](http://9gag.com/gag/aO3L8b2)
+ - 🚯 [Whhaat Batman Based !!!](http://9gag.com/gag/aLp7n56)<!-- MEMES:END -->
 
 --- 
 
