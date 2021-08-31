@@ -182,9 +182,9 @@ Linux                    30 mins             █░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Roccat Magma membrane gaming keyboard review](https://www.pcgamer.com/roccat-magma-gaming-keyboard-review)
- - [Tiny Library Is Like WarioWare For RPGs](https://kotaku.com/tiny-library-is-like-warioware-for-rpgs-1847587345)
- - [Assetto Corsa Competizione Races onto Xbox Series X|S in Early 2022](https://news.xbox.com/en-us/2021/08/30/assetto-corsa-competizione-races-onto-xbox-series-xs-in-early-2022/)<!-- GAME:END -->
+ - [Man invades live TV show demanding GTA6](https://www.pcgamer.com/man-invades-live-tv-show-demanding-gta6)
+ - [Gaze upon PC gaming's greatest faces](https://www.pcgamer.com/gaze-upon-pc-gamings-greatest-faces)
+ - [Celebrating PC gaming's long love affair with D&D's Forgotten Realms](https://www.pcgamer.com/celebrating-pc-gamings-long-love-affair-with-dandds-forgotten-realms)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
