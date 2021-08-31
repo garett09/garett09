@@ -189,9 +189,9 @@ Linux                    30 mins             █░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kanye West's 'Donda' sets Apple Music record with 60M streams in first day](https://appleinsider.com/articles/21/08/31/kanye-wests-donda-sets-apple-music-record-with-60m-streams-in-first-day?utm_medium=rss)
- - [Coral Capital closes third fund with $128M for startups in Japan](http://feedproxy.google.com/~r/Techcrunch/~3/X4t7zltE1MM/)
- - [Hurricane Ida was powerful enough to reverse flow of Mississippi River     - CNET](https://www.cnet.com/news/hurricane-ida-was-powerful-enough-to-reverse-flow-of-mississippi-river/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Woman credits Apple Watch with saving life after AFib alert](https://appleinsider.com/articles/21/08/31/apple-watch-credited-with-saving-life-of-woman-after-afib-alert?utm_medium=rss)
+ - [Singapore-based telemedicine startup Doctor Anywhere raises ~$65.3M Series C led by Asia Partners, bringing its total raised to $140M (Kristie Neo/DealStreetAsia)](http://www.techmeme.com/210830/p23#a210830p23)
+ - [WH announces the US Digital Corps, a two-year fellowship aiming to recruit early-career software engineers and other technologists to work at federal agencies (Dave Nyczepir/FedScoop)](http://www.techmeme.com/210830/p22#a210830p22)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
