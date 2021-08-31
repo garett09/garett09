@@ -196,9 +196,9 @@ Linux                    30 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [B*tch is running wild man](http://9gag.com/gag/aMKMEvV)
- - 🚯 [Flat earther proves earth is not flat](http://9gag.com/gag/a1r315D)
- - 🚯 [Same thing](http://9gag.com/gag/aO3L8b2)<!-- MEMES:END -->
+ - 🚖 [That could&#039;ve ended horribly](http://9gag.com/gag/a7ERqme)
+ - 🚯 [B*tch is running wild man](http://9gag.com/gag/aMKMEvV)
+ - 🚯 [This guy saving his co-worker at the last moment after ladder slips](http://9gag.com/gag/a07yZMq)<!-- MEMES:END -->
 
 --- 
 
