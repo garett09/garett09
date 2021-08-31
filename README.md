@@ -189,9 +189,9 @@ Linux                    30 mins             █░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android 101: how to download or share a Google Photos album](https://www.theverge.com/22643429/android-how-to-download-share-google-photos-album)
- - [Bose announces QuietComfort 45 noise-canceling headphones with 24-hour battery life](https://www.theverge.com/2021/8/31/22648407/bose-qc45-noise-canceling-headphones)
- - [NVIDIA’s latest tech makes AI voices more expressive and realistic](http://feedproxy.google.com/~r/Techcrunch/~3/lEnYvK6E2e8/)<!-- TECH:END -->
+ - [Pay up or get out: Apple's options for South Korea's App Store law](https://appleinsider.com/articles/21/08/31/pay-up-or-get-out-apples-options-for-south-koreas-app-store-law?utm_medium=rss)
+ - [A look at indie developers building tools for Shopify's 1.7M merchants, as developers made $230M+ from app sales in 2020 (Carol Zhai/Bloomberg)](http://www.techmeme.com/210831/p24#a210831p24)
+ - [Windows 11 release date revealed, but Android app support won’t be included](https://www.androidauthority.com/windows-11-release-date-revealed-2745225/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
