@@ -182,9 +182,9 @@ Linux                    30 mins             █░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [DrLupo signs exclusive streaming deal with YouTube](https://www.pcgamer.com/drlupo-signs-exclusive-streaming-deal-with-youtube)
- - [Mod Designed To Make Skyrim Unplayable Banned For Same Reason](https://kotaku.com/mod-designed-to-make-skyrim-unplayable-banned-for-same-1847587236)
- - [This Is No Ordinary Golf Game](https://kotaku.com/this-is-no-ordinary-golf-game-1847587049)<!-- GAME:END -->
+ - [Assetto Corsa Competizione Races onto Xbox Series X|S in Early 2022](https://news.xbox.com/en-us/2021/08/30/assetto-corsa-competizione-races-onto-xbox-series-xs-in-early-2022/)
+ - [Chinese Kids Have Their Online Gaming Time Slashed By New Government Rules](https://kotaku.com/chinese-kids-have-their-online-gaming-time-slashed-by-n-1847587631)
+ - [Yakuza series creator reportedly in talks to join China's NetEase](https://www.pcgamer.com/yakuza-series-creator-reportedly-in-talks-to-join-chinas-netease)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
