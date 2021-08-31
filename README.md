@@ -189,9 +189,9 @@ Linux                    30 mins             █░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple releases sixth macOS Monterey public beta ahead of fall release](https://appleinsider.com/articles/21/08/31/apple-releases-sixth-macos-monterey-public-beta-ahead-of-fall-release?utm_medium=rss)
- - [Study: in 2020, 77 ransomware attacks affected over 1,740 US schools and colleges, potentially impacting 1.36M students and costing ~$6.6B in downtime alone (Paul Bischoff/Comparitech)](http://www.techmeme.com/210831/p37#a210831p37)
- - [Yandex buys out Uber’s stake in Yandex Self-Driving Group, Eats, Lavka and Delivery for $1B](http://feedproxy.google.com/~r/Techcrunch/~3/_3sni_yeEqM/)<!-- TECH:END -->
+ - [Daily Crunch: Databricks reaches $38B billion valuation with $1.6B Series H](http://feedproxy.google.com/~r/Techcrunch/~3/q-vTNTPAUpI/)
+ - [Someone paid more than $300K for a fake Banksy NFT — and the scammer gave it all back](https://www.theverge.com/2021/8/31/22650594/banksy-nft-scam-pranksy-ethereum-returned-duplicates-art)
+ - [Alpaca, which offers APIs for fintech apps to connect and trade in US stocks, raises $50M Series B led by Tribe Capital and says it is expanding into crypto (Alex Wilhelm/TechCrunch)](http://www.techmeme.com/210831/p38#a210831p38)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
