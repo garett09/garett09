@@ -189,9 +189,9 @@ Linux                    30 mins             █░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The next Apple Watch may be delayed due to manufacturing issues](https://www.theverge.com/2021/8/31/22650516/apple-watch-series-7-delayed-manufacturing-production-issues)
- - [Save 50% on the Pixel 4, and more of the latest Google Pixel deals](https://www.androidauthority.com/best-google-pixel-deals-1106212/)
- - [Apple issues eighth developer betas for iOS 15, iPadOS 15, tvOS 15, watchOS 8](https://appleinsider.com/articles/21/08/31/apple-issues-eighth-developer-betas-for-ios-15-ipados-15-tvos-15-watchos-8?utm_medium=rss)<!-- TECH:END -->
+ - [Apple will have a hand in every detail of the 'Apple Car,' analysts say](https://appleinsider.com/articles/21/08/31/apple-will-have-a-hand-in-every-detail-of-the-apple-car-analysts-say?utm_medium=rss)
+ - [6 tips for establishing your startup’s global supply chain](http://feedproxy.google.com/~r/Techcrunch/~3/br7u5OE5FdA/)
+ - [Best Deals August 31 - $100 off Razer eGPU, $8 off Final Fantasy pre-order, and more!](https://appleinsider.com/articles/21/08/31/best-deals-august-31---100-off-razer-egpu-8-off-final-fantasy-pre-order-and-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
