@@ -196,8 +196,8 @@ Linux                    30 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Everyone debating about The best spiderman actor and here I am thinking about the best MJ.](http://9gag.com/gag/aqjo8rY)
- - 🚯 [After years and years of saving i am finally a proud member of the pc masterrace!](http://9gag.com/gag/aEpmVBK)
+ - 🚖 [Sea snake shows no fear while approaching human.](http://9gag.com/gag/awMW1Dy)
+ - 🚯 [Oh, you&rsquo;re recording. Let me make it fancy...](http://9gag.com/gag/amP4Gw4)
  - 🚯 [It&#039;s game time! Win an Xbox Series X from Club9 x GameTaster!](http://9gag.com/gag/aMKMmwP)<!-- MEMES:END -->
 
 --- 
