@@ -196,9 +196,9 @@ Linux                    30 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This guy saving his co-worker at the last moment after ladder slips](http://9gag.com/gag/a07yZMq)
- - 🚯 [That could&#039;ve ended horribly](http://9gag.com/gag/a7ERqme)
- - 🚯 [Finally!](http://9gag.com/gag/aP3bg6R)<!-- MEMES:END -->
+ - 🚖 [20 years ago they looked like adults, today they look like your hommies.](http://9gag.com/gag/aAbzyX2)
+ - 🚯 [Finally!](http://9gag.com/gag/aP3bg6R)
+ - 🚯 [Use in case of emergency!](http://9gag.com/gag/aB2BnpO)<!-- MEMES:END -->
 
 --- 
 
