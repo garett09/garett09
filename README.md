@@ -189,9 +189,9 @@ Linux                    30 mins             █░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Manchester-based Peak AI, which helps non-tech companies build AI apps, raises $75M Series C led by SoftBank Vision Fund 2, bringing total funding to $118M (Ingrid Lunden/TechCrunch)](http://www.techmeme.com/210831/p19#a210831p19)
- - [Peak raises $75M for a platform that helps non-tech companies build AI applications](http://feedproxy.google.com/~r/Techcrunch/~3/4FhF8Ck03Xo/)
- - [Kevala raises $21M to improve tools for managing energy grid infrastructure](http://feedproxy.google.com/~r/Techcrunch/~3/sCT_1klVkN0/)<!-- TECH:END -->
+ - [Android 101: how to download or share a Google Photos album](https://www.theverge.com/22643429/android-how-to-download-share-google-photos-album)
+ - [Bose announces QuietComfort 45 noise-canceling headphones with 24-hour battery life](https://www.theverge.com/2021/8/31/22648407/bose-qc45-noise-canceling-headphones)
+ - [NVIDIA’s latest tech makes AI voices more expressive and realistic](http://feedproxy.google.com/~r/Techcrunch/~3/lEnYvK6E2e8/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
