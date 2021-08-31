@@ -189,9 +189,9 @@ Linux                    30 mins             █░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily Authority: Only for emergencies 📡](https://www.androidauthority.com/newsletters/da-august-31-2021/)
- - [Apple’s rumored iPhone satellite support may be for emergency calls and messages](http://feedproxy.google.com/~r/Techcrunch/~3/iMW6W9oOuMM/)
- - [Gatik expands autonomous box truck operations to Texas with $85 million in new funds](http://feedproxy.google.com/~r/Techcrunch/~3/47HcXLY9SJ0/)<!-- TECH:END -->
+ - [Manchester-based Peak AI, which helps non-tech companies build AI apps, raises $75M Series C led by SoftBank Vision Fund 2, bringing total funding to $118M (Ingrid Lunden/TechCrunch)](http://www.techmeme.com/210831/p19#a210831p19)
+ - [Peak raises $75M for a platform that helps non-tech companies build AI applications](http://feedproxy.google.com/~r/Techcrunch/~3/4FhF8Ck03Xo/)
+ - [Kevala raises $21M to improve tools for managing energy grid infrastructure](http://feedproxy.google.com/~r/Techcrunch/~3/sCT_1klVkN0/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
