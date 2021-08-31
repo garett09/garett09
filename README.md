@@ -196,9 +196,9 @@ Linux                    30 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [20 years ago they looked like adults, today they look like your hommies.](http://9gag.com/gag/aAbzyX2)
- - 🚯 [Finally!](http://9gag.com/gag/aP3bg6R)
- - 🚯 [Use in case of emergency!](http://9gag.com/gag/aB2BnpO)<!-- MEMES:END -->
+ - 🚖 [That could&#039;ve ended horribly](http://9gag.com/gag/a7ERqme)
+ - 🚯 [Instant karma](http://9gag.com/gag/aeA8QNO)
+ - 🚯 [Be like Bill.](http://9gag.com/gag/aNpEDO0)<!-- MEMES:END -->
 
 --- 
 
