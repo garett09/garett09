@@ -189,9 +189,9 @@ Linux                    30 mins             █░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This official Samsung app turns the Galaxy Watch 4 into a walkie talkie](https://www.androidauthority.com/galaxy-watch-4-walkie-talkie-app-2744999/)
- - [Experts have traced most of the cyberattacks that have reverberated across the Australian economy in recent months to China-linked hacking groups (Jamie Tarabay/Bloomberg)](http://www.techmeme.com/210831/p3#a210831p3)
- - [Dance launches its e-bike subscription service in Berlin](http://feedproxy.google.com/~r/Techcrunch/~3/14dYcNEBlfU/)<!-- TECH:END -->
+ - [Technologists say Google's Privacy Budget proposal to reduce fingerprinting is vague, and could create privacy harms and break some of the web's functionality (Kate Kaye/Digiday)](http://www.techmeme.com/210831/p7#a210831p7)
+ - [Facebook, Google, and Xiaomi are eyeing India's digital loan market, which Boston Consulting Group estimates to triple to $350B by 2023 and reach $1T by 2025 (Suvashree Ghosh/Bloomberg)](http://www.techmeme.com/210831/p6#a210831p6)
+ - [Xiaomi CC11 specs tipped: Will it come to global markets though?](https://www.androidauthority.com/xiaomi-cc11-specs-2745023/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
