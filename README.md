@@ -196,9 +196,9 @@ Linux                    30 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What&#039;s wrong here?](http://9gag.com/gag/aEpmMOp)
+ - 🚖 [The Free Democratic People&#039;s Republic](http://9gag.com/gag/amP4184)
  - 🚯 [Congratulations on adding years to a healthier life!](http://9gag.com/gag/axMq36M)
- - 🚯 [How&#039;s this possible?](http://9gag.com/gag/aB2BZWA)<!-- MEMES:END -->
+ - 🚯 [It&#039;s game time! Win an Xbox Series X from Club9 x GameTaster!](http://9gag.com/gag/aMKMmwP)<!-- MEMES:END -->
 
 --- 
 
