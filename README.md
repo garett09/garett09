@@ -196,9 +196,9 @@ Linux                    30 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Whhaat Batman Based !!!](http://9gag.com/gag/aLp7n56)
- - 🚯 [Iam Italian now](http://9gag.com/gag/aB2BZQQ)
- - 🚯 [Absolut Madlad.](http://9gag.com/gag/aeA84mB)<!-- MEMES:END -->
+ - 🚖 [Well damn girl](http://9gag.com/gag/abVnAnr)
+ - 🚯 [What&#039;s wrong here?](http://9gag.com/gag/aEpmMOp)
+ - 🚯 [Classic schmosby](http://9gag.com/gag/abVnerL)<!-- MEMES:END -->
 
 --- 
 
