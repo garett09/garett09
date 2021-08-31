@@ -196,8 +196,8 @@ Linux                    30 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The Free Democratic People&#039;s Republic](http://9gag.com/gag/amP4184)
- - 🚯 [What would be his superhero name?](http://9gag.com/gag/a9Eg6vZ)
+ - 🚖 [This fish attached itself to a woman while she was swimming in the ocean! This Remora fish, also called sharksucker or suckerfish, like to &ldquo;host&rdquo; off of something else](http://9gag.com/gag/anQPReo)
+ - 🚯 [Congratulations on adding years to a healthier life!](http://9gag.com/gag/axMq36M)
  - 🚯 [It&#039;s game time! Win an Xbox Series X from Club9 x GameTaster!](http://9gag.com/gag/aMKMmwP)<!-- MEMES:END -->
 
 --- 
