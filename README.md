@@ -182,9 +182,9 @@ Linux                    30 mins             █░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Astro’s Playroom: the story behind those fun PlayStation character cameos](http://feedproxy.google.com/~r/PSBlog/~3/_QduJng81mo/)
- - [Astro’s Playroom: the story behind those fun PlayStation character cameos](https://blog.playstation.com/2021/08/31/astros-playroom-the-story-behind-those-fun-playstation-character-cameos/)
- - [Sizing up the 10 most popular things on Netflix right now](https://www.polygon.com/2020/3/10/21167710/10-netflix-movies-shows-most-popular)<!-- GAME:END -->
+ - [Windows 11 release date confirmed in October: here's what we know about the new OS](https://www.pcgamer.com/windows-11-release-date-features-specs-pricing)
+ - [Become the fearsome Cleopatra with this month’s new additions to Predator: Hunting Grounds](http://feedproxy.google.com/~r/PSBlog/~3/x4AR4NbD9VE/)
+ - [Become the fearsome Cleopatra with this month’s new additions to Predator: Hunting Grounds](https://blog.playstation.com/2021/08/31/become-the-fearsome-cleopatra-with-this-months-new-additions-to-predator-hunting-grounds/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
