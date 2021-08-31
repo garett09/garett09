@@ -196,8 +196,8 @@ Linux                    30 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [True](http://9gag.com/gag/aqjoXeQ)
- - 🚯 [Never talk to an Ex. The &quot;Ex&quot; itself is the begining of many dangerous words..](http://9gag.com/gag/aV7yo3M)
+ - 🚖 [The biggest question for me is: garbage or recycling bin?](http://9gag.com/gag/a07yXWZ)
+ - 🚯 [Everyone debating about The best spiderman actor and here I am thinking about the best MJ.](http://9gag.com/gag/aqjo8rY)
  - 🚯 [It&#039;s game time! Win an Xbox Series X from Club9 x GameTaster!](http://9gag.com/gag/aMKMmwP)<!-- MEMES:END -->
 
 --- 
