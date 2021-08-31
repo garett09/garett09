@@ -189,9 +189,9 @@ Linux                    30 mins             █░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [We asked, you told us: Here’s how you prefer adjusting your phone’s brightness](https://www.androidauthority.com/automatic-manual-screen-brightness-poll-results-2745004/)
- - [Technologists say Google's Privacy Budget proposal to reduce fingerprinting is vague, and could create privacy harms and break some of the web's functionality (Kate Kaye/Digiday)](http://www.techmeme.com/210831/p7#a210831p7)
- - [Facebook, Google, and Xiaomi are eyeing India's digital loan market, which Boston Consulting Group estimates to triple to $350B by 2023 and reach $1T by 2025 (Suvashree Ghosh/Bloomberg)](http://www.techmeme.com/210831/p6#a210831p6)<!-- TECH:END -->
+ - [LoftyInc Capital launches third fund at $10M for a more diverse portfolio of African startups](http://feedproxy.google.com/~r/Techcrunch/~3/I_B19tpUMKY/)
+ - [Motional reveals its Hyundai Ioniq 5 electric robotaxi](http://feedproxy.google.com/~r/Techcrunch/~3/uUpF4A89VvE/)
+ - [Japan's Nippon Foundation wants its crewless ships to make up 50% of Japan's local fleet by 2040; a container ship will test a 236-mile voyage in February 2022 (Bloomberg)](http://www.techmeme.com/210831/p8#a210831p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
