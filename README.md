@@ -182,9 +182,9 @@ Linux                    30 mins             █░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Fire Emblem Switch Fans, Here's Your Next Tactics RPG Obsession](https://kotaku.com/fire-emblem-switch-fans-heres-your-next-tactics-rpg-ob-1847593204)
- - [Apex Legends’ tap-strafing will be patched out soon](https://www.polygon.com/22650910/apex-legends-tap-strafing-removed-patched-out-10-1-release-date)
- - [Dead Space reboot shows off its 'super precise' alien carving technology](https://www.pcgamer.com/dead-space-reboot-shows-off-its-super-precise-alien-carving-technology)<!-- GAME:END -->
+ - [5 Jaw-Some New Features in Maneater: Truth Quest](https://news.xbox.com/en-us/2021/08/31/5-jaw-some-new-features-in-maneater-truth-quest/)
+ - [Seven New Guns You Should Really Have In Destiny 2 Season Of The Lost](https://kotaku.com/seven-new-guns-you-should-really-have-in-destiny-2-seas-1847593705)
+ - [Experience Desert Hunting in Rancho del Arroyo, the New Reserve for theHunter: Call of the Wild](https://news.xbox.com/en-us/2021/08/31/experience-desert-hunting-rancho-del-arroyo-thehunter-call-of-the-wild/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
