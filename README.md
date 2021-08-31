@@ -182,9 +182,9 @@ Linux                    30 mins             █░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Roccat Magma membrane gaming keyboard review](https://www.pcgamer.com/roccat-magma-gaming-keyboard-review)
  - [Tiny Library Is Like WarioWare For RPGs](https://kotaku.com/tiny-library-is-like-warioware-for-rpgs-1847587345)
- - [Assetto Corsa Competizione Races onto Xbox Series X|S in Early 2022](https://news.xbox.com/en-us/2021/08/30/assetto-corsa-competizione-races-onto-xbox-series-xs-in-early-2022/)
- - [Chinese Kids Have Their Online Gaming Time Slashed By New Government Rules](https://kotaku.com/chinese-kids-have-their-online-gaming-time-slashed-by-n-1847587631)<!-- GAME:END -->
+ - [Assetto Corsa Competizione Races onto Xbox Series X|S in Early 2022](https://news.xbox.com/en-us/2021/08/30/assetto-corsa-competizione-races-onto-xbox-series-xs-in-early-2022/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
