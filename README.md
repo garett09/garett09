@@ -182,9 +182,9 @@ Linux                    30 mins             █░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Man invades live TV show demanding GTA6](https://www.pcgamer.com/man-invades-live-tv-show-demanding-gta6)
- - [Gaze upon PC gaming's greatest faces](https://www.pcgamer.com/gaze-upon-pc-gamings-greatest-faces)
- - [Celebrating PC gaming's long love affair with D&D's Forgotten Realms](https://www.pcgamer.com/celebrating-pc-gamings-long-love-affair-with-dandds-forgotten-realms)<!-- GAME:END -->
+ - [Final No Time to Die trailer swears the new Bond movie’s coming out](https://www.polygon.com/22639143/no-time-to-die-trailer-release-date-bond)
+ - [The Batman, Gotham Knights, Aquaman 2 headline DC FanDome 2021’s stream schedule](https://www.polygon.com/comics/22649790/dc-fandome-2021-schedule-times-watch-batman-dc-comics-movies-panels)
+ - [Logitech's G Pro wireless gaming mouse is $85, its lowest price ever](https://www.pcgamer.com/logitechs-g-pro-wireless-gaming-mouse-is-dollar85-its-lowest-price-ever)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
