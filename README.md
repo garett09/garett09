@@ -189,9 +189,9 @@ Linux                    30 mins             █░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [We asked, you told us: Here’s how you prefer adjusting your phone’s brightness](https://www.androidauthority.com/automatic-manual-screen-brightness-poll-results-2745004/)
  - [Technologists say Google's Privacy Budget proposal to reduce fingerprinting is vague, and could create privacy harms and break some of the web's functionality (Kate Kaye/Digiday)](http://www.techmeme.com/210831/p7#a210831p7)
- - [Facebook, Google, and Xiaomi are eyeing India's digital loan market, which Boston Consulting Group estimates to triple to $350B by 2023 and reach $1T by 2025 (Suvashree Ghosh/Bloomberg)](http://www.techmeme.com/210831/p6#a210831p6)
- - [Xiaomi CC11 specs tipped: Will it come to global markets though?](https://www.androidauthority.com/xiaomi-cc11-specs-2745023/)<!-- TECH:END -->
+ - [Facebook, Google, and Xiaomi are eyeing India's digital loan market, which Boston Consulting Group estimates to triple to $350B by 2023 and reach $1T by 2025 (Suvashree Ghosh/Bloomberg)](http://www.techmeme.com/210831/p6#a210831p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
