@@ -182,9 +182,9 @@ Linux                    30 mins             █░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Apex Legends Removes Tech That Grew Beef Between PC and Console Fans](https://kotaku.com/apex-legends-removes-tech-that-grew-beef-between-pc-and-1847594155)
- - [5 Jaw-Some New Features in Maneater: Truth Quest](https://news.xbox.com/en-us/2021/08/31/5-jaw-some-new-features-in-maneater-truth-quest/)
- - [Seven New Guns You Should Really Have In Destiny 2 Season Of The Lost](https://kotaku.com/seven-new-guns-you-should-really-have-in-destiny-2-seas-1847593705)<!-- GAME:END -->
+ - [AI Gives Street Fighter Characters Human Faces](https://kotaku.com/ai-gives-street-fighter-characters-human-faces-1847594479)
+ - [Call of Duty: Warzone cheater stars in official anti-cheat ad, keeps on cheating anyway](https://www.pcgamer.com/call-of-duty-warzone-cheater-stars-in-official-anti-cheat-ad-keeps-on-cheating-anyway)
+ - [Apex Legends Removes Tech That Grew Beef Between PC And Console Fans](https://kotaku.com/apex-legends-removes-tech-that-grew-beef-between-pc-and-1847594155)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
