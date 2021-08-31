@@ -182,9 +182,9 @@ Linux                    30 mins             █░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Save Up to 80% During the Activision Blizzard Publisher Sale](https://news.xbox.com/en-us/2021/08/31/save-during-activision-blizzard-publisher-sale/)
- - [Jeopardy! Pariah Mike Richards Fully Booted Because Of All The Drama](https://kotaku.com/jeopardy-pariah-mike-richards-fully-booted-because-of-1847591292)
- - [Hearthstone’s new Mercenaries game mode drops the decks entirely](https://www.polygon.com/22648678/hearthstone-mercenaries-game-mode-release-date-turn-based-roguelite-rpg)<!-- GAME:END -->
+ - [Here’s An Extremely Early Look At The Dead Space Remake](https://kotaku.com/here-s-an-extremely-early-look-at-the-dead-space-remake-1847590106)
+ - [New Ghostrunner Modes and Neon Pack DLC Are Now Available](https://news.xbox.com/en-us/2021/08/31/new-ghostrunner-modes-and-neon-pack-dlc-now-live/)
+ - [Rainbow Six Siege's Cutest Crossover Is Also Arknights’ Most Brutal](https://kotaku.com/rainbow-six-sieges-cutest-crossover-is-also-arknights-1847591857)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
