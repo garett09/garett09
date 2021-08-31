@@ -196,8 +196,8 @@ Linux                    30 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Sea snake shows no fear while approaching human.](http://9gag.com/gag/awMW1Dy)
- - 🚯 [Oh, you&rsquo;re recording. Let me make it fancy...](http://9gag.com/gag/amP4Gw4)
+ - 🚖 [Are you type 1 or 2?](http://9gag.com/gag/aZ0O8A9)
+ - 🚯 [This farmer did not want to sell his land to developers, so now he harvests his crops between apartment buildings!](http://9gag.com/gag/aDdenQO)
  - 🚯 [It&#039;s game time! Win an Xbox Series X from Club9 x GameTaster!](http://9gag.com/gag/aMKMmwP)<!-- MEMES:END -->
 
 --- 
