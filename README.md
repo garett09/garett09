@@ -189,9 +189,9 @@ Linux                    30 mins             █░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - ['Apple Watch Series 7' complexity causing production delays](https://appleinsider.com/articles/21/08/31/apple-watch-series-7-complexity-causing-production-delays?utm_medium=rss)
- - [TikTok’s new Creator Marketplace API lets influencer marketing companies tap into first-party data](http://feedproxy.google.com/~r/Techcrunch/~3/dK_Ulo0uvnk/)
- - [Snap Raise, a Seattle-based startup that helps high school teams and clubs with digital fundraising, raises $90M, bringing its total raised to date to $114.8M (Kurt Schlosser/GeekWire)](http://www.techmeme.com/210831/p28#a210831p28)<!-- TECH:END -->
+ - [The next Apple Watch may be delayed due to manufacturing issues](https://www.theverge.com/2021/8/31/22650516/apple-watch-series-7-delayed-manufacturing-production-issues)
+ - [Save 50% on the Pixel 4, and more of the latest Google Pixel deals](https://www.androidauthority.com/best-google-pixel-deals-1106212/)
+ - [Apple issues eighth developer betas for iOS 15, iPadOS 15, tvOS 15, watchOS 8](https://appleinsider.com/articles/21/08/31/apple-issues-eighth-developer-betas-for-ios-15-ipados-15-tvos-15-watchos-8?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
