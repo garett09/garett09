@@ -196,9 +196,9 @@ Linux                    30 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The destruction of the middle class turned into a graph. We are living through very sad times &hellip;](http://9gag.com/gag/ajmegmQ)
- - 🚯 [Karma is a b*tch](http://9gag.com/gag/a07y7gX)
- - 🚯 [What a smart little sweetheart...](http://9gag.com/gag/aNpEwOK)<!-- MEMES:END -->
+ - 🚖 [Karma is a b*tch](http://9gag.com/gag/a07y7gX)
+ - 🚯 [Tell me the story of the first time you had The Sex](http://9gag.com/gag/aYoXorN)
+ - 🚯 [Flat earther proves earth is not flat](http://9gag.com/gag/a1r315D)<!-- MEMES:END -->
 
 --- 
 
