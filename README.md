@@ -182,9 +182,9 @@ Linux                    30 mins             █░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Kickass Cyberpunk 2077 Modders Become CD Projekt Red Devs](https://kotaku.com/kickass-cyberpunk-2077-modders-become-cd-projekt-red-de-1847590961)
- - [A game where you're the ship that blocked the Suez Canal](https://www.pcgamer.com/a-game-where-youre-the-ship-that-blocked-the-suez-canal)
- - [Far Cry 6's 'Supremo' backpacks are so OP they feel like cheat codes](https://www.pcgamer.com/far-cry-6s-supremo-backpacks-are-so-op-they-feel-like-cheat-codes)<!-- GAME:END -->
+ - [Save Up to 80% During the Activision Blizzard Publisher Sale](https://news.xbox.com/en-us/2021/08/31/save-during-activision-blizzard-publisher-sale/)
+ - [Jeopardy! Pariah Mike Richards Fully Booted Because Of All The Drama](https://kotaku.com/jeopardy-pariah-mike-richards-fully-booted-because-of-1847591292)
+ - [Hearthstone’s new Mercenaries game mode drops the decks entirely](https://www.polygon.com/22648678/hearthstone-mercenaries-game-mode-release-date-turn-based-roguelite-rpg)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
