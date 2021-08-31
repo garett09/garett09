@@ -189,9 +189,9 @@ Linux                    30 mins             █░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [CryptoPunks creator inks representation deal with major Hollywood talent agency](http://feedproxy.google.com/~r/Techcrunch/~3/niZvazUQbg8/)
- - [Apple bars staff from making a Slack channel about pay equity; Apple says it's because it's not work related, despite other channels on pets and jokes (Zoe Schiffer/The Verge)](http://www.techmeme.com/210831/p36#a210831p36)
- - [LinkedIn is scrapping its Stories feature to work on short-form video](http://feedproxy.google.com/~r/Techcrunch/~3/0sYsJCJ2XCE/)<!-- TECH:END -->
+ - [Apple releases sixth macOS Monterey public beta ahead of fall release](https://appleinsider.com/articles/21/08/31/apple-releases-sixth-macos-monterey-public-beta-ahead-of-fall-release?utm_medium=rss)
+ - [Study: in 2020, 77 ransomware attacks affected over 1,740 US schools and colleges, potentially impacting 1.36M students and costing ~$6.6B in downtime alone (Paul Bischoff/Comparitech)](http://www.techmeme.com/210831/p37#a210831p37)
+ - [Yandex buys out Uber’s stake in Yandex Self-Driving Group, Eats, Lavka and Delivery for $1B](http://feedproxy.google.com/~r/Techcrunch/~3/_3sni_yeEqM/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
