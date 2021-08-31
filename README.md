@@ -189,9 +189,9 @@ Linux                    30 mins             █░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung Galaxy S21 FE could be the latest victim of the global chip shortage](https://www.androidauthority.com/samsung-galaxy-s21-fe-launch-delayed-2744982/)
  - [Apple TV+ releases 'The Velvet Underground' trailer ahead of Oct. 15 debut](https://appleinsider.com/articles/21/08/31/apple-tv-releases-the-velvet-underground-trailer-ahead-of-oct-15-debut?utm_medium=rss)
- - [iPhone 13 could offer satellite connectivity (Updated: More details)](https://www.androidauthority.com/iphone-13-leo-satellites-2744474/)
- - [Sources: Byju's, an Indian edtech giant with millions of paying subs, has a "toxic" sales culture with tactics pushing low-income parents into taking out loans (Akanksha Singh/Rest of World)](http://www.techmeme.com/210831/p1#a210831p1)<!-- TECH:END -->
+ - [This Sequoia- and Henry Kravis-backed prediction market wants to turn opinions into money](http://feedproxy.google.com/~r/Techcrunch/~3/cGNr8Phk868/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
