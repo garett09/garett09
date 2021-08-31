@@ -182,9 +182,9 @@ Linux                    30 mins             █░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Here’s An Extremely Early Look At The Dead Space Remake](https://kotaku.com/here-s-an-extremely-early-look-at-the-dead-space-remake-1847590106)
- - [New Ghostrunner Modes and Neon Pack DLC Are Now Available](https://news.xbox.com/en-us/2021/08/31/new-ghostrunner-modes-and-neon-pack-dlc-now-live/)
- - [Rainbow Six Siege's Cutest Crossover Is Also Arknights’ Most Brutal](https://kotaku.com/rainbow-six-sieges-cutest-crossover-is-also-arknights-1847591857)<!-- GAME:END -->
+ - [Destiny 2’s weapon crafting won’t be like other MMOs’, according to Bungie](https://www.polygon.com/interviews/22648944/destiny-2-witch-queen-weapon-crafting-glaive-bungie-interview)
+ - [Nordic Adventure Game Song of Iron Available Now](https://news.xbox.com/en-us/2021/08/31/nordic-adventure-game-song-of-iron-available-now/)
+ - [Surviving Mars will soon let you drill underground, accidentally abandon colonists on asteroids](https://www.pcgamer.com/surviving-mars-below-and-beyond)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
