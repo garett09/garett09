@@ -189,9 +189,9 @@ Linux                    30 mins             █░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple will have a hand in every detail of the 'Apple Car,' analysts say](https://appleinsider.com/articles/21/08/31/apple-will-have-a-hand-in-every-detail-of-the-apple-car-analysts-say?utm_medium=rss)
- - [6 tips for establishing your startup’s global supply chain](http://feedproxy.google.com/~r/Techcrunch/~3/br7u5OE5FdA/)
- - [Best Deals August 31 - $100 off Razer eGPU, $8 off Final Fantasy pre-order, and more!](https://appleinsider.com/articles/21/08/31/best-deals-august-31---100-off-razer-egpu-8-off-final-fantasy-pre-order-and-more?utm_medium=rss)<!-- TECH:END -->
+ - [After weeks of hate raids, Twitch streamers are taking a day off in protest](https://www.theverge.com/2021/8/31/22650578/twitch-streamers-walkout-protest-hate-raids)
+ - [A popular smart home security system can be remotely disarmed, researchers say](http://feedproxy.google.com/~r/Techcrunch/~3/5SyhtuUoeIc/)
+ - [[Thread] Apple bars staff from making a Slack channel about pay equity; Apple says it's because it's not work related, despite other channels on pets and jokes (Zo&euml; Schiffer/@zoeschiffer)](http://www.techmeme.com/210831/p34#a210831p34)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
