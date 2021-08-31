@@ -196,9 +196,9 @@ Linux                    30 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Don&#039;t war with me onii-chan baaaaka](http://9gag.com/gag/aeA84yW)
- - 🚯 [What it&#039;s called?](http://9gag.com/gag/aDde7xw)
- - 🚯 [Never talk to an Ex. The &quot;Ex&quot; itself is the begining of many dangerous words..](http://9gag.com/gag/aV7yo3M)<!-- MEMES:END -->
+ - 🚖 [Slav Cozy, wouldn&#039;t change a thing](http://9gag.com/gag/arM7WDp)
+ - 🚯 [Absolut Madlad.](http://9gag.com/gag/aeA84mB)
+ - 🚯 [What&#039;s wrong here?](http://9gag.com/gag/aEpmMOp)<!-- MEMES:END -->
 
 --- 
 
