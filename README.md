@@ -189,9 +189,9 @@ Linux                    30 mins             █░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [South Korea's National Assembly passes a bill that forces Apple and Google to allow alternative payment systems in their app stores (Jiyoung Sohn/Wall Street Journal)](http://www.techmeme.com/210831/p13#a210831p13)
- - [Meet the Little-Known Genius Who Helped Make Pixar Possible](https://www.wired.com/story/pixar-animation-alvy-ray-smith-pixel)
- - [Sources: Indian ride-hailing company Ola is seeking to raise about $1B at an $8B+ valuation in a Mumbai IPO; source says the filing could arrive by October (Bloomberg)](http://www.techmeme.com/210831/p12#a210831p12)<!-- TECH:END -->
+ - [Daily Authority: Only for emergencies 📡](https://www.androidauthority.com/newsletters/da-august-31-2021/)
+ - [Apple’s rumored iPhone satellite support may be for emergency calls and messages](http://feedproxy.google.com/~r/Techcrunch/~3/iMW6W9oOuMM/)
+ - [Gatik expands autonomous box truck operations to Texas with $85 million in new funds](http://feedproxy.google.com/~r/Techcrunch/~3/47HcXLY9SJ0/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
