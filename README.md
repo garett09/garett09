@@ -196,9 +196,9 @@ Linux                    30 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Karma is a b*tch](http://9gag.com/gag/a07y7gX)
- - 🚯 [Tell me the story of the first time you had The Sex](http://9gag.com/gag/aYoXorN)
- - 🚯 [Flat earther proves earth is not flat](http://9gag.com/gag/a1r315D)<!-- MEMES:END -->
+ - 🚖 [B*tch is running wild man](http://9gag.com/gag/aMKMEvV)
+ - 🚯 [Flat earther proves earth is not flat](http://9gag.com/gag/a1r315D)
+ - 🚯 [Same thing](http://9gag.com/gag/aO3L8b2)<!-- MEMES:END -->
 
 --- 
 
