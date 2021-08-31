@@ -182,9 +182,9 @@ Linux                    30 mins             █░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Destiny 2’s weapon crafting won’t be like other MMOs’, according to Bungie](https://www.polygon.com/interviews/22648944/destiny-2-witch-queen-weapon-crafting-glaive-bungie-interview)
- - [Nordic Adventure Game Song of Iron Available Now](https://news.xbox.com/en-us/2021/08/31/nordic-adventure-game-song-of-iron-available-now/)
- - [Surviving Mars will soon let you drill underground, accidentally abandon colonists on asteroids](https://www.pcgamer.com/surviving-mars-below-and-beyond)<!-- GAME:END -->
+ - [Fire Emblem Switch Fans, Here's Your Next Tactics RPG Obsession](https://kotaku.com/fire-emblem-switch-fans-heres-your-next-tactics-rpg-ob-1847593204)
+ - [Apex Legends’ tap-strafing will be patched out soon](https://www.polygon.com/22650910/apex-legends-tap-strafing-removed-patched-out-10-1-release-date)
+ - [Dead Space reboot shows off its 'super precise' alien carving technology](https://www.pcgamer.com/dead-space-reboot-shows-off-its-super-precise-alien-carving-technology)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
