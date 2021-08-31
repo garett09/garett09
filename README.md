@@ -196,8 +196,8 @@ Linux                    30 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The biggest question for me is: garbage or recycling bin?](http://9gag.com/gag/a07yXWZ)
- - 🚯 [Everyone debating about The best spiderman actor and here I am thinking about the best MJ.](http://9gag.com/gag/aqjo8rY)
+ - 🚖 [Everyone debating about The best spiderman actor and here I am thinking about the best MJ.](http://9gag.com/gag/aqjo8rY)
+ - 🚯 [After years and years of saving i am finally a proud member of the pc masterrace!](http://9gag.com/gag/aEpmVBK)
  - 🚯 [It&#039;s game time! Win an Xbox Series X from Club9 x GameTaster!](http://9gag.com/gag/aMKMmwP)<!-- MEMES:END -->
 
 --- 
