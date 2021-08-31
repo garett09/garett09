@@ -189,9 +189,9 @@ Linux                    30 mins             █░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Woman credits Apple Watch with saving life after AFib alert](https://appleinsider.com/articles/21/08/31/apple-watch-credited-with-saving-life-of-woman-after-afib-alert?utm_medium=rss)
- - [Singapore-based telemedicine startup Doctor Anywhere raises ~$65.3M Series C led by Asia Partners, bringing its total raised to $140M (Kristie Neo/DealStreetAsia)](http://www.techmeme.com/210830/p23#a210830p23)
- - [WH announces the US Digital Corps, a two-year fellowship aiming to recruit early-career software engineers and other technologists to work at federal agencies (Dave Nyczepir/FedScoop)](http://www.techmeme.com/210830/p22#a210830p22)<!-- TECH:END -->
+ - [Apple TV+ releases 'The Velvet Underground' trailer ahead of Oct. 15 debut](https://appleinsider.com/articles/21/08/31/apple-tv-releases-the-velvet-underground-trailer-ahead-of-oct-15-debut?utm_medium=rss)
+ - [iPhone 13 could offer satellite connectivity (Updated: More details)](https://www.androidauthority.com/iphone-13-leo-satellites-2744474/)
+ - [Sources: Byju's, an Indian edtech giant with millions of paying subs, has a "toxic" sales culture with tactics pushing low-income parents into taking out loans (Akanksha Singh/Rest of World)](http://www.techmeme.com/210831/p1#a210831p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
