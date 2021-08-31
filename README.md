@@ -189,9 +189,9 @@ Linux                    30 mins             █░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [LoftyInc Capital launches third fund at $10M for a more diverse portfolio of African startups](http://feedproxy.google.com/~r/Techcrunch/~3/I_B19tpUMKY/)
- - [Motional reveals its Hyundai Ioniq 5 electric robotaxi](http://feedproxy.google.com/~r/Techcrunch/~3/uUpF4A89VvE/)
- - [Japan's Nippon Foundation wants its crewless ships to make up 50% of Japan's local fleet by 2040; a container ship will test a 236-mile voyage in February 2022 (Bloomberg)](http://www.techmeme.com/210831/p8#a210831p8)<!-- TECH:END -->
+ - [South Korea's National Assembly passes a bill that forces Apple and Google to allow alternative payment systems in their app stores (Jiyoung Sohn/Wall Street Journal)](http://www.techmeme.com/210831/p13#a210831p13)
+ - [Meet the Little-Known Genius Who Helped Make Pixar Possible](https://www.wired.com/story/pixar-animation-alvy-ray-smith-pixel)
+ - [Sources: Indian ride-hailing company Ola is seeking to raise about $1B at an $8B+ valuation in a Mumbai IPO; source says the filing could arrive by October (Bloomberg)](http://www.techmeme.com/210831/p12#a210831p12)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
