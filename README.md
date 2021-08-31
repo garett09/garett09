@@ -196,9 +196,9 @@ Linux                    30 mins             █░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Slav Cozy, wouldn&#039;t change a thing](http://9gag.com/gag/arM7WDp)
- - 🚯 [Absolut Madlad.](http://9gag.com/gag/aeA84mB)
- - 🚯 [What&#039;s wrong here?](http://9gag.com/gag/aEpmMOp)<!-- MEMES:END -->
+ - 🚖 [What&#039;s wrong here?](http://9gag.com/gag/aEpmMOp)
+ - 🚯 [Congratulations on adding years to a healthier life!](http://9gag.com/gag/axMq36M)
+ - 🚯 [How&#039;s this possible?](http://9gag.com/gag/aB2BZWA)<!-- MEMES:END -->
 
 --- 
 
