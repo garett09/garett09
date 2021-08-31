@@ -189,9 +189,9 @@ Linux                    30 mins             █░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily Crunch: Databricks reaches $38B billion valuation with $1.6B Series H](http://feedproxy.google.com/~r/Techcrunch/~3/q-vTNTPAUpI/)
- - [Someone paid more than $300K for a fake Banksy NFT — and the scammer gave it all back](https://www.theverge.com/2021/8/31/22650594/banksy-nft-scam-pranksy-ethereum-returned-duplicates-art)
- - [Alpaca, which offers APIs for fintech apps to connect and trade in US stocks, raises $50M Series B led by Tribe Capital and says it is expanding into crypto (Alex Wilhelm/TechCrunch)](http://www.techmeme.com/210831/p38#a210831p38)<!-- TECH:END -->
+ - [Syndicate, a decentralized investing platform that wants to make it easier for users to create DAOs, raises $20M Series A led by Andreessen Horowitz (Dan Primack/Axios)](http://www.techmeme.com/210831/p40#a210831p40)
+ - ['Apple Watch Series 7' complexity causing production delays [u]](https://appleinsider.com/articles/21/08/31/apple-watch-series-7-complexity-causing-production-delays?utm_medium=rss)
+ - [Olsam raises $165M to buy up and scale consumer and B2B Amazon Marketplace sellers](http://feedproxy.google.com/~r/Techcrunch/~3/VEAuaQ4QDIA/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
