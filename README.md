@@ -189,9 +189,9 @@ Linux                    30 mins             █░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pay up or get out: Apple's options for South Korea's App Store law](https://appleinsider.com/articles/21/08/31/pay-up-or-get-out-apples-options-for-south-koreas-app-store-law?utm_medium=rss)
- - [A look at indie developers building tools for Shopify's 1.7M merchants, as developers made $230M+ from app sales in 2020 (Carol Zhai/Bloomberg)](http://www.techmeme.com/210831/p24#a210831p24)
- - [Windows 11 release date revealed, but Android app support won’t be included](https://www.androidauthority.com/windows-11-release-date-revealed-2745225/)<!-- TECH:END -->
+ - [Funimation’s Crunchyroll Acquisition Means Big Anime Is Here](https://www.wired.com/story/funimation-crunchyroll-big-anime-era-is-here)
+ - [EA’s return to college football starts with a special event in Madden](https://www.theverge.com/2021/8/31/22649132/ea-madden-nfl-22-college-football-superstar-ko-campus-legends-event-mode)
+ - [Twelve South debuts StayGo mini USB-C hub designed for iPad Pro](https://appleinsider.com/articles/21/08/31/twelve-south-debuts-staygo-mini-usb-c-hub-designed-for-ipad-pro?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
