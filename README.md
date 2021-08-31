@@ -182,9 +182,9 @@ Linux                    30 mins             █░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Final No Time to Die trailer swears the new Bond movie’s coming out](https://www.polygon.com/22639143/no-time-to-die-trailer-release-date-bond)
- - [The Batman, Gotham Knights, Aquaman 2 headline DC FanDome 2021’s stream schedule](https://www.polygon.com/comics/22649790/dc-fandome-2021-schedule-times-watch-batman-dc-comics-movies-panels)
- - [Logitech's G Pro wireless gaming mouse is $85, its lowest price ever](https://www.pcgamer.com/logitechs-g-pro-wireless-gaming-mouse-is-dollar85-its-lowest-price-ever)<!-- GAME:END -->
+ - [Astro’s Playroom: the story behind those fun PlayStation character cameos](http://feedproxy.google.com/~r/PSBlog/~3/_QduJng81mo/)
+ - [Astro’s Playroom: the story behind those fun PlayStation character cameos](https://blog.playstation.com/2021/08/31/astros-playroom-the-story-behind-those-fun-playstation-character-cameos/)
+ - [Sizing up the 10 most popular things on Netflix right now](https://www.polygon.com/2020/3/10/21167710/10-netflix-movies-shows-most-popular)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
