@@ -189,9 +189,9 @@ Linux                    30 mins             █░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Brazil-based marketplace for pet products and services Petlove raises ~$150M led by Riverwood Capital, bringing its total raised to $225.8M (Mary Ann Azevedo/TechCrunch)](http://www.techmeme.com/210830/p20#a210830p20)
- - [The iPhone 13’s rumored satellite link sounds like it’s just for emergencies](https://www.theverge.com/2021/8/30/22649340/apple-iphone-13-satellite-connectivity-emergency)
- - [The Central Bank of Nigeria says it will work with blockchain and payments startup Bitt Inc. to launch Nigeria's eNaira digital currency later this year (Danny Nelson/CoinDesk)](http://www.techmeme.com/210830/p19#a210830p19)<!-- TECH:END -->
+ - [Cloudera reports Q2 revenue of $236.06M, up 10% YoY, subscription revenue of $213.3M, up 11% YoY, and ARR of $832M, up 13% YoY, announces departure of its CPO (Larry Dignan/ZDNet)](http://www.techmeme.com/210830/p21#a210830p21)
+ - [Judge in Nokia and Apple lawsuit owned Apple stock during proceedings](https://appleinsider.com/articles/21/08/31/judge-in-nokia-and-apple-lawsuit-owned-apple-stock-during-proceedings?utm_medium=rss)
+ - [Brazil-based marketplace for pet products and services Petlove raises ~$150M led by Riverwood Capital, bringing its total raised to $225.8M (Mary Ann Azevedo/TechCrunch)](http://www.techmeme.com/210830/p20#a210830p20)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
