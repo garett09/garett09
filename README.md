@@ -182,9 +182,9 @@ Linux                    30 mins             █░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Windows 11 release date confirmed in October: here's what we know about the new OS](https://www.pcgamer.com/windows-11-release-date-features-specs-pricing)
- - [Become the fearsome Cleopatra with this month’s new additions to Predator: Hunting Grounds](http://feedproxy.google.com/~r/PSBlog/~3/x4AR4NbD9VE/)
- - [Become the fearsome Cleopatra with this month’s new additions to Predator: Hunting Grounds](https://blog.playstation.com/2021/08/31/become-the-fearsome-cleopatra-with-this-months-new-additions-to-predator-hunting-grounds/)<!-- GAME:END -->
+ - [Kickass Cyberpunk 2077 Modders Become CD Projekt Red Devs](https://kotaku.com/kickass-cyberpunk-2077-modders-become-cd-projekt-red-de-1847590961)
+ - [A game where you're the ship that blocked the Suez Canal](https://www.pcgamer.com/a-game-where-youre-the-ship-that-blocked-the-suez-canal)
+ - [Far Cry 6's 'Supremo' backpacks are so OP they feel like cheat codes](https://www.pcgamer.com/far-cry-6s-supremo-backpacks-are-so-op-they-feel-like-cheat-codes)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
