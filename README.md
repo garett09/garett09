@@ -189,9 +189,9 @@ Linux                    30 mins             █░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Future iPhone could feature satellite calls & messages, but probably not in 2021](https://appleinsider.com/articles/21/08/30/future-iphone-could-feature-satellite-support-but-probably-not-in-2021?utm_medium=rss)
- - [In an email to some Square Invoices users, Square says it's working on Invoices Plus, a paid version with some features from the free version, plus new ones (Sarah Perez/TechCrunch)](http://www.techmeme.com/210830/p18#a210830p18)
- - [Best vitamin C serum for 2021     - CNET](https://www.cnet.com/health/personal-care/best-vitamin-c-serums/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Brazil-based marketplace for pet products and services Petlove raises ~$150M led by Riverwood Capital, bringing its total raised to $225.8M (Mary Ann Azevedo/TechCrunch)](http://www.techmeme.com/210830/p20#a210830p20)
+ - [The iPhone 13’s rumored satellite link sounds like it’s just for emergencies](https://www.theverge.com/2021/8/30/22649340/apple-iphone-13-satellite-connectivity-emergency)
+ - [The Central Bank of Nigeria says it will work with blockchain and payments startup Bitt Inc. to launch Nigeria's eNaira digital currency later this year (Danny Nelson/CoinDesk)](http://www.techmeme.com/210830/p19#a210830p19)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
