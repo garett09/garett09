@@ -189,9 +189,9 @@ Linux                    30 mins             █░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cloudera reports Q2 revenue of $236.06M, up 10% YoY, subscription revenue of $213.3M, up 11% YoY, and ARR of $832M, up 13% YoY, announces departure of its CPO (Larry Dignan/ZDNet)](http://www.techmeme.com/210830/p21#a210830p21)
- - [Judge in Nokia and Apple lawsuit owned Apple stock during proceedings](https://appleinsider.com/articles/21/08/31/judge-in-nokia-and-apple-lawsuit-owned-apple-stock-during-proceedings?utm_medium=rss)
- - [Brazil-based marketplace for pet products and services Petlove raises ~$150M led by Riverwood Capital, bringing its total raised to $225.8M (Mary Ann Azevedo/TechCrunch)](http://www.techmeme.com/210830/p20#a210830p20)<!-- TECH:END -->
+ - [Kanye West's 'Donda' sets Apple Music record with 60M streams in first day](https://appleinsider.com/articles/21/08/31/kanye-wests-donda-sets-apple-music-record-with-60m-streams-in-first-day?utm_medium=rss)
+ - [Coral Capital closes third fund with $128M for startups in Japan](http://feedproxy.google.com/~r/Techcrunch/~3/X4t7zltE1MM/)
+ - [Hurricane Ida was powerful enough to reverse flow of Mississippi River     - CNET](https://www.cnet.com/news/hurricane-ida-was-powerful-enough-to-reverse-flow-of-mississippi-river/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
