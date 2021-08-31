@@ -189,9 +189,9 @@ Linux                    30 mins             █░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Funimation’s Crunchyroll Acquisition Means Big Anime Is Here](https://www.wired.com/story/funimation-crunchyroll-big-anime-era-is-here)
- - [EA’s return to college football starts with a special event in Madden](https://www.theverge.com/2021/8/31/22649132/ea-madden-nfl-22-college-football-superstar-ko-campus-legends-event-mode)
- - [Twelve South debuts StayGo mini USB-C hub designed for iPad Pro](https://appleinsider.com/articles/21/08/31/twelve-south-debuts-staygo-mini-usb-c-hub-designed-for-ipad-pro?utm_medium=rss)<!-- TECH:END -->
+ - ['Apple Watch Series 7' complexity causing production delays](https://appleinsider.com/articles/21/08/31/apple-watch-series-7-complexity-causing-production-delays?utm_medium=rss)
+ - [TikTok’s new Creator Marketplace API lets influencer marketing companies tap into first-party data](http://feedproxy.google.com/~r/Techcrunch/~3/dK_Ulo0uvnk/)
+ - [Snap Raise, a Seattle-based startup that helps high school teams and clubs with digital fundraising, raises $90M, bringing its total raised to date to $114.8M (Kurt Schlosser/GeekWire)](http://www.techmeme.com/210831/p28#a210831p28)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
