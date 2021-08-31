@@ -189,9 +189,9 @@ Linux                    30 mins             █░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy S21 FE could be the latest victim of the global chip shortage](https://www.androidauthority.com/samsung-galaxy-s21-fe-launch-delayed-2744982/)
- - [Apple TV+ releases 'The Velvet Underground' trailer ahead of Oct. 15 debut](https://appleinsider.com/articles/21/08/31/apple-tv-releases-the-velvet-underground-trailer-ahead-of-oct-15-debut?utm_medium=rss)
- - [This Sequoia- and Henry Kravis-backed prediction market wants to turn opinions into money](http://feedproxy.google.com/~r/Techcrunch/~3/cGNr8Phk868/)<!-- TECH:END -->
+ - [This official Samsung app turns the Galaxy Watch 4 into a walkie talkie](https://www.androidauthority.com/galaxy-watch-4-walkie-talkie-app-2744999/)
+ - [Experts have traced most of the cyberattacks that have reverberated across the Australian economy in recent months to China-linked hacking groups (Jamie Tarabay/Bloomberg)](http://www.techmeme.com/210831/p3#a210831p3)
+ - [Dance launches its e-bike subscription service in Berlin](http://feedproxy.google.com/~r/Techcrunch/~3/14dYcNEBlfU/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
