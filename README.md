@@ -189,9 +189,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [B&H slashes up to $150 off Apple Watch Series 6, offering year's cheapest prices](https://appleinsider.com/articles/21/09/01/bh-slashes-up-to-150-off-apple-watch-series-6-offering-years-cheapest-prices?utm_medium=rss)
- - [Sources: Andy Jassy overruled an internal recommendation to fire a top AWS executive after a probe of claims the executive made discriminatory comments in 2019 (Joe Williams/Protocol)](http://www.techmeme.com/210901/p38#a210901p38)
- - [Reddit bans anti-vaccine subreddit r/NoNewNormal after site-wide protest](https://www.theverge.com/22652705/reddit-covid-misinformation-ban-nonewnormal-health-policies)<!-- TECH:END -->
+ - [Beats signs Shedeur Sanders as first collegiate brand ambassador](https://appleinsider.com/articles/21/09/01/beats-signs-shedeur-sanders-as-first-collegiate-brand-ambassador?utm_medium=rss)
+ - [Facebook’s new fantasy sports-like prediction games let you blast your boldest picks to everyone you know](https://www.theverge.com/2021/9/1/22652826/facebook-fantasy-games-prediction-sports-tv-shows-ios-android)
+ - [How a Vungle-owned mobile marketer sent Fontmaker to the top of the App Store](http://feedproxy.google.com/~r/Techcrunch/~3/fx-8T_21b0M/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
