@@ -182,9 +182,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [YouTuber makes the biggest ‘F’ key you’ve ever seen](https://www.polygon.com/22652771/meme-youtuber-press-f-key-pay-respects-custom-keyboard)
- - [How to Master Medieval Mayhem in Rustler](https://news.xbox.com/en-us/2021/09/01/how-to-master-medieval-mayhem-in-rustler/)
- - [Marvel’s Midnight Suns features a card-driven combat system](https://www.polygon.com/22652730/marvels-midnight-suns-gameplay-preview-firaxis)<!-- GAME:END -->
+ - [Please, Free Me From The Bad Takes About China’s Gaming Restrictions](https://kotaku.com/please-free-me-from-the-bad-takes-about-china-s-gaming-1847601409)
+ - [Dirt 5 Drops the New Ford Bronco into the Off-Road Action in Latest Content Pack](https://news.xbox.com/en-us/2021/09/01/dirt-5-new-ford-bronco-in-latest-content-pack/)
+ - [Every new movie and show coming to Disney Plus in September](https://www.polygon.com/disney-plus/22648347/disney-plus-new-movies-tv-watch-september-2021)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
