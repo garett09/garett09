@@ -189,9 +189,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Virtual events startups have high hopes for after the pandemic](http://feedproxy.google.com/~r/Techcrunch/~3/iDF13jHucmg/)
- - [Reddit bans r/NoNewNormal, its largest anti-vax subreddit, for harassing other communities, following weeks of user moderators asking Reddit admins to ban it (Oscar Gonzalez/CNET)](http://www.techmeme.com/210901/p37#a210901p37)
- - [Twitter launches Super Follows for iOS users, allowing a select group of US test users to charge either $2.99, $4.99, or $9.99 per month for their tweets (Kait Sanchez/The Verge)](http://www.techmeme.com/210901/p36#a210901p36)<!-- TECH:END -->
+ - [B&H slashes up to $150 off Apple Watch Series 6, offering year's cheapest prices](https://appleinsider.com/articles/21/09/01/bh-slashes-up-to-150-off-apple-watch-series-6-offering-years-cheapest-prices?utm_medium=rss)
+ - [Sources: Andy Jassy overruled an internal recommendation to fire a top AWS executive after a probe of claims the executive made discriminatory comments in 2019 (Joe Williams/Protocol)](http://www.techmeme.com/210901/p38#a210901p38)
+ - [Reddit bans anti-vaccine subreddit r/NoNewNormal after site-wide protest](https://www.theverge.com/22652705/reddit-covid-misinformation-ban-nonewnormal-health-policies)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
