@@ -182,9 +182,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Blades in the Dark tabletop RPG being developed for TV](https://www.polygon.com/22652023/blades-in-the-dark-tv-show-announced)
- - [The best high refresh rate monitors](https://www.pcgamer.com/best-high-refresh-rate-monitor-for-gaming)
- - [The live-action Life is Strange adaptation is somehow still in production](https://www.pcgamer.com/the-live-action-life-is-strange-adaptation-is-somehow-still-in-production)<!-- GAME:END -->
+ - [Destiny 2: Where to find the Week 2 Enigmatic and Trivial Mysteries](https://www.pcgamer.com/destiny-2-enigmatic-mystery-trivial-guide)
+ - [Xbox Celebrates Marvel Studios’ “Shang-Chi and The Legend of The Ten Rings”](https://news.xbox.com/en-us/2021/09/01/shang-chi-xbox-custom-console/)
+ - [Two Years After Microsoft’s Promise, FFXIII Finally Comes To Game Pass](https://kotaku.com/two-years-after-microsoft-s-promise-ffxiii-finally-com-1847596935)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
