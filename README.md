@@ -182,9 +182,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Destiny 2: The Witch Queen’s Hive Guardians are like fighting a mirror, Bungie says](https://www.polygon.com/interviews/22652623/destiny-2-witch-queen-bungie-interview-hive-guardian-ghost-supers)
- - [What is ‘A Day Off Twitch’?](https://www.polygon.com/22652063/a-day-off-twitch-streaming-platform-hate-raids-boycott)
- - [Where to deploy pallets with cat food in Fortnite](https://www.pcgamer.com/deploy-pallets-with-cat-food-locations)<!-- GAME:END -->
+ - [YouTuber makes the biggest ‘F’ key you’ve ever seen](https://www.polygon.com/22652771/meme-youtuber-press-f-key-pay-respects-custom-keyboard)
+ - [How to Master Medieval Mayhem in Rustler](https://news.xbox.com/en-us/2021/09/01/how-to-master-medieval-mayhem-in-rustler/)
+ - [Marvel’s Midnight Suns features a card-driven combat system](https://www.polygon.com/22652730/marvels-midnight-suns-gameplay-preview-firaxis)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
