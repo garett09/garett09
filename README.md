@@ -189,9 +189,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Telegram’s latest update makes unlimited video calls/live streams a reality](https://www.androidauthority.com/telegram-update-unlimited-video-calls-live-streams-2745513/)
- - [Kevala, which provides cloud-based data analytics software for managing energy grid infrastructure, raises $21M Series A led by C5 Capital and Thin Line Capital (Rebecca Bellan/TechCrunch)](http://www.techmeme.com/210901/p1#a210901p1)
- - [New Xiaomi 11T series render leaks: Triple rear cameras, colorways on show](https://www.androidauthority.com/xiaomi-11t-series-design-2745505/)<!-- TECH:END -->
+ - [Samsung Galaxy Note 10 carrier models gain August 2021 patch in US](https://www.androidauthority.com/samsung-galaxy-note-10-plus-update-1020236/)
+ - [Australia passes bill that lets police hack user devices to modify, collect or delete data, and take over social media accounts without a judge's warrant (The Tutanota Blog)](http://www.techmeme.com/210901/p3#a210901p3)
+ - [Samsung reveals One UI 4.0 beta launch date, phone support (Updated: US details)](https://www.androidauthority.com/samsung-one-ui-4-0-beta-2745234/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
