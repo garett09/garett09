@@ -182,9 +182,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [AI Gives Street Fighter Characters Human Faces](https://kotaku.com/ai-gives-street-fighter-characters-human-faces-1847594479)
- - [Call of Duty: Warzone cheater stars in official anti-cheat ad, keeps on cheating anyway](https://www.pcgamer.com/call-of-duty-warzone-cheater-stars-in-official-anti-cheat-ad-keeps-on-cheating-anyway)
- - [Apex Legends Removes Tech That Grew Beef Between PC And Console Fans](https://kotaku.com/apex-legends-removes-tech-that-grew-beef-between-pc-and-1847594155)<!-- GAME:END -->
+ - [Will Smith is in Fortnite, soon everything will be in Fortnite](https://www.pcgamer.com/will-smith-is-in-fortnite-soon-everything-will-be-in-fortnite)
+ - [Essential Picks promotion comes to PlayStation Store](http://feedproxy.google.com/~r/PSBlog/~3/rDNyH1YWxKM/)
+ - [Galaxy Squad Now Available on Xbox One](https://news.xbox.com/en-us/2021/08/31/galaxy-squad-now-available-on-xbox-one/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
