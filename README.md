@@ -196,9 +196,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ok boomer](http://9gag.com/gag/a07yOov)
- - 🚯 [I must take up science classes in Russia](http://9gag.com/gag/a8ExK7p)
- - 🚯 [What happen to her?](http://9gag.com/gag/aK6oOwQ)<!-- MEMES:END -->
+ - 🚖 [A True Champion Retired Today! Kimi R&auml;ikk&ouml;nen You Will Be Missed](http://9gag.com/gag/aV7yBz2)
+ - 🚯 [Ok boomer](http://9gag.com/gag/a07yOov)
+ - 🚯 [Could this be the end of Hollywood&#039;s obsession with gingercide? Probably not. Still good to see.](http://9gag.com/gag/aV7yRo2)<!-- MEMES:END -->
 
 --- 
 
