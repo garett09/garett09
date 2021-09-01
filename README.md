@@ -189,9 +189,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Profile of Li Jin, an aggressively pro-worker VC who founded Atelier Ventures, which manages $13M, to invest in influencer-related startups (Taylor Lorenz/New York Times)](http://www.techmeme.com/210901/p33#a210901p33)
- - [Extended: $199 Babbel lifetime subscription is back, save $300](https://appleinsider.com/articles/21/08/15/199-babbel-lifetime-subscription-is-back-save-300-with-access-to-14-languages?utm_medium=rss)
- - [Best Deals September 1 - $490 i7 MacBook Air, eBay Labor Day 15% off, and more!](https://appleinsider.com/articles/21/09/01/best-deals-september-1---490-i7-macbook-air-ebay-labor-day-15-off-and-more?utm_medium=rss)<!-- TECH:END -->
+ - [Streamers are boycotting Twitch today to protest the platform’s lack of action on ‘hate raids’](http://feedproxy.google.com/~r/Techcrunch/~3/maEUmzPeGtA/)
+ - [Google making its own Chromebook CPUs inspired by Apple's M1](https://appleinsider.com/articles/21/09/01/google-making-its-own-chromebook-cpus-inspired-by-apples-m1?utm_medium=rss)
+ - [Game Boy and GB Color games could come to Nintendo Switch Online this month](https://www.androidauthority.com/game-boy-games-on-switch-2745735/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
