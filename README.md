@@ -189,9 +189,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [CrowdStrike beats in Q2 with revenue of $337.7M, up 70% YoY; ARR rose 70% YoY to $1.34B, subscription revenue was $315.8M, up 71% YoY, net new subs grew 81% YoY (Stephanie Condon/ZDNet)](http://www.techmeme.com/210831/p45#a210831p45)
- - [Roundup of 180+ companies that launched at YC's Summer 2021 Demo Day 1, including food delivery, investment, edtech, AI, and payment startups (TechCrunch)](http://www.techmeme.com/210831/p44#a210831p44)
- - [FTX acquires US-regulated crypto derivatives exchange LedgerX for an undisclosed sum, to expand its futures and options products in the US (Vildana Hajric/Bloomberg)](http://www.techmeme.com/210831/p43#a210831p43)<!-- TECH:END -->
+ - [Checkr, whose tech for employment background checks is used by Uber, Airbnb, and others, raises a $250M round led by Durable Capital at a $4.6B valuation (Bloomberg)](http://www.techmeme.com/210831/p46#a210831p46)
+ - [21 movies free to stream right now: Parasite, The Big Short, Train to Busan, more     - CNET](https://www.cnet.com/news/21-movies-free-to-stream-right-now-parasite-the-big-short-train-to-busan-more/#ftag=CAD590a51e)
+ - [Amazon’s new ‘adaptive volume’ will make Alexa speak louder when it’s noisy](https://www.theverge.com/2021/8/31/22651304/amazon-alexa-adaptive-volume-noisy-loud-environments)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
