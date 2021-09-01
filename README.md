@@ -197,7 +197,7 @@ Linux                    0 secs              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 🚖 [F**k tables](http://9gag.com/gag/aB2BXrZ)
- - 🚯 [Share your best sauce gifs under this glorious sauce song](http://9gag.com/gag/av5KvOZ)
+ - 🚯 [Minor arrested 20 times. Today he turns 18 and was arrested selling drugs](http://9gag.com/gag/aGp42Gn)
  - 🚯 [It&#039;s game time! Win an Xbox Series X from Club9 x GameTaster!](http://9gag.com/gag/aMKMmwP)<!-- MEMES:END -->
 
 --- 
