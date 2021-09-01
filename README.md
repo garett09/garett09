@@ -196,8 +196,8 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Sea snake shows no fear while approaching human.](http://9gag.com/gag/awMW1Dy)
- - 🚯 [Dayumn son!](http://9gag.com/gag/aYoXDpO)
+ - 🚖 [Dayumn son!](http://9gag.com/gag/aYoXDpO)
+ - 🚯 [Toxic masculinity saves woman from abduction](http://9gag.com/gag/aGp4BO6)
  - 🚯 [It&#039;s game time! Win an Xbox Series X from Club9 x GameTaster!](http://9gag.com/gag/aMKMmwP)<!-- MEMES:END -->
 
 --- 
