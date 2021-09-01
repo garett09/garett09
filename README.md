@@ -197,7 +197,7 @@ Linux                    0 secs              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 🚖 [A master of card Manipulation](http://9gag.com/gag/aNpE4Pr)
- - 🚯 [Work from home problems](http://9gag.com/gag/aLp7m4z)
+ - 🚯 [It was just a joke back then](http://9gag.com/gag/a1r325G)
  - 🚯 [It&#039;s game time! Win an Xbox Series X from Club9 x GameTaster!](http://9gag.com/gag/aMKMmwP)<!-- MEMES:END -->
 
 --- 
