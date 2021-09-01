@@ -182,9 +182,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - ['Playing Fighting Games On Keyboard Is Fine, Actually' Announces Local Weirdo](https://kotaku.com/playing-fighting-games-on-keyboard-is-fine-actually-1847601901)
- - [How the hell is Microsoft already screwing up Windows 11 this badly?](https://www.pcgamer.com/how-the-hell-is-microsoft-already-screwing-up-windows-11-this-badly)
- - [This cool post-apocalyptic gardening sim is out now](https://www.pcgamer.com/cloud-gardens-full-release)<!-- GAME:END -->
+ - [Twitch’s Biggest Stars Keep Jumping To YouTube](https://kotaku.com/twitch-s-biggest-stars-keep-jumping-to-youtube-1847602222)
+ - [#ADayOffTwitch protest makes a deep cut into Twitch viewership](https://www.pcgamer.com/adayofftwitch-protest-makes-a-deep-cut-into-twitch-viewership)
+ - [QA Testing Games Like Dance Central Is Apparently Grueling And Smelly](https://kotaku.com/qa-testing-games-like-dance-central-is-apparently-gruel-1847601869)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
