@@ -196,9 +196,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The Grandson of the Grandson of my Grandson is long dead then.](http://9gag.com/gag/aEpmXW9)
+ - 🚖 [Brazil](http://9gag.com/gag/aeA87Om)
  - 🚯 [Sometimes, you just need a little motivation](http://9gag.com/gag/aGp42PX)
- - 🚯 [Kaunas. Lithuania.](http://9gag.com/gag/abVnQPr)<!-- MEMES:END -->
+ - 🚯 [I must take up science classes in Russia](http://9gag.com/gag/a8ExK7p)<!-- MEMES:END -->
 
 --- 
 
