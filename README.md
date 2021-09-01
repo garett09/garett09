@@ -189,9 +189,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Beats signs Shedeur Sanders as first collegiate brand ambassador](https://appleinsider.com/articles/21/09/01/beats-signs-shedeur-sanders-as-first-collegiate-brand-ambassador?utm_medium=rss)
- - [Facebook’s new fantasy sports-like prediction games let you blast your boldest picks to everyone you know](https://www.theverge.com/2021/9/1/22652826/facebook-fantasy-games-prediction-sports-tv-shows-ios-android)
- - [How a Vungle-owned mobile marketer sent Fontmaker to the top of the App Store](http://feedproxy.google.com/~r/Techcrunch/~3/fx-8T_21b0M/)<!-- TECH:END -->
+ - [FAA investigating off-course descent of Virgin Galactic’s flight with Richard Branson](https://www.theverge.com/2021/9/1/22652887/faa-investigating-virgin-galactic-richard-branson)
+ - [The time a human-driven car ran over an autonomous robot](https://www.theverge.com/2021/9/1/22652980/starship-delivery-robot-kentucky-car-accident)
+ - [FTC bans "stalkerware" company Support King, whose Android app allegedly secretly harvested users' location and other data, from the surveillance business (Lauren Feiner/CNBC)](http://www.techmeme.com/210901/p43#a210901p43)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
