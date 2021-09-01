@@ -189,9 +189,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitter’s new Safety Mode autoblocks abusive accounts](https://www.theverge.com/2021/9/1/22652572/twitter-safety-mode-autoblocks-abusive-accounts-beta)
- - [Netflix will dish out all 180 episodes of Seinfeld starting on October 1st](https://www.theverge.com/2021/9/1/22652391/seinfeld-netflix-october-streaming-wars-friends-the-office)
- - [Workhorse accused of fraud and is facing an SEC investigation](https://www.theverge.com/2021/9/1/22652319/workhorse-fraud-sec-investigation-short-seller-fuzzy-panda)<!-- TECH:END -->
+ - [Virtual events startups have high hopes for after the pandemic](http://feedproxy.google.com/~r/Techcrunch/~3/iDF13jHucmg/)
+ - [Reddit bans r/NoNewNormal, its largest anti-vax subreddit, for harassing other communities, following weeks of user moderators asking Reddit admins to ban it (Oscar Gonzalez/CNET)](http://www.techmeme.com/210901/p37#a210901p37)
+ - [Twitter launches Super Follows for iOS users, allowing a select group of US test users to charge either $2.99, $4.99, or $9.99 per month for their tweets (Kait Sanchez/The Verge)](http://www.techmeme.com/210901/p36#a210901p36)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
