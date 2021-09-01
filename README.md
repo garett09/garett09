@@ -182,9 +182,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Please, Free Me From The Bad Takes About China’s Gaming Restrictions](https://kotaku.com/please-free-me-from-the-bad-takes-about-china-s-gaming-1847601409)
- - [Dirt 5 Drops the New Ford Bronco into the Off-Road Action in Latest Content Pack](https://news.xbox.com/en-us/2021/09/01/dirt-5-new-ford-bronco-in-latest-content-pack/)
- - [Every new movie and show coming to Disney Plus in September](https://www.polygon.com/disney-plus/22648347/disney-plus-new-movies-tv-watch-september-2021)<!-- GAME:END -->
+ - ['Playing Fighting Games On Keyboard Is Fine, Actually' Announces Local Weirdo](https://kotaku.com/playing-fighting-games-on-keyboard-is-fine-actually-1847601901)
+ - [How the hell is Microsoft already screwing up Windows 11 this badly?](https://www.pcgamer.com/how-the-hell-is-microsoft-already-screwing-up-windows-11-this-badly)
+ - [This cool post-apocalyptic gardening sim is out now](https://www.pcgamer.com/cloud-gardens-full-release)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
