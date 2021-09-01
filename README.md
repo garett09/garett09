@@ -189,9 +189,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - ['Being James Bond' documentary coming to Apple TV on Sept. 7](https://appleinsider.com/articles/21/08/31/being-james-bond-documentary-coming-to-apple-tv-on-september-7?utm_medium=rss)
- - [Facebook says it accidentally removed thousands of posts around the Jan. 6 riots from Crowdtangle, blaming a now fixed error that has existed since at least May (Mark Scott/Politico)](http://www.techmeme.com/210831/p49#a210831p49)
- - [Sources: Intuit is in talks to buy Mailchimp for more than $10B; Mailchimp has also considered offering a minority stake and another buyer could still emerge (Bloomberg)](http://www.techmeme.com/210831/p48#a210831p48)<!-- TECH:END -->
+ - [Developer interest in Mac is waning, study suggests](https://appleinsider.com/articles/21/09/01/developer-interest-in-mac-is-waning-study-suggests?utm_medium=rss)
+ - [Fresh leak gives out Google Pixel 6 series pre-order and release dates](https://www.androidauthority.com/google-pixel-6-pre-order-release-date-2745486/)
+ - [Best air fryer for 2021: Ninja, Dash, Gourmia and more     - CNET](https://www.cnet.com/home/kitchen-and-household/best-air-fryer/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
