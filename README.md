@@ -196,9 +196,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Alarms like this](http://9gag.com/gag/aNpERDv)
- - 🚯 [Ugh....](http://9gag.com/gag/aqjoWPR)
- - 🚯 [It&#039;s game time! Win an Xbox Series X from Club9 x GameTaster!](http://9gag.com/gag/aMKMmwP)<!-- MEMES:END -->
+ - 🚖 [The English gather artifacts for The British Museum, Circa 1880.](http://9gag.com/gag/ayMjQA8)
+ - 🚯 [Alarms like this](http://9gag.com/gag/aNpERDv)
+ - 🚯 [Jordan Peterson ... The says it all](http://9gag.com/gag/aB2BOQ2)<!-- MEMES:END -->
 
 --- 
 
