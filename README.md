@@ -189,9 +189,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Checkr, whose tech for employment background checks is used by Uber, Airbnb, and others, raises a $250M round led by Durable Capital at a $4.6B valuation (Bloomberg)](http://www.techmeme.com/210831/p46#a210831p46)
- - [21 movies free to stream right now: Parasite, The Big Short, Train to Busan, more     - CNET](https://www.cnet.com/news/21-movies-free-to-stream-right-now-parasite-the-big-short-train-to-busan-more/#ftag=CAD590a51e)
- - [Amazon’s new ‘adaptive volume’ will make Alexa speak louder when it’s noisy](https://www.theverge.com/2021/8/31/22651304/amazon-alexa-adaptive-volume-noisy-loud-environments)<!-- TECH:END -->
+ - ['Being James Bond' documentary coming to Apple TV on Sept. 7](https://appleinsider.com/articles/21/08/31/being-james-bond-documentary-coming-to-apple-tv-on-september-7?utm_medium=rss)
+ - [Facebook says it accidentally removed thousands of posts around the Jan. 6 riots from Crowdtangle, blaming a now fixed error that has existed since at least May (Mark Scott/Politico)](http://www.techmeme.com/210831/p49#a210831p49)
+ - [Sources: Intuit is in talks to buy Mailchimp for more than $10B; Mailchimp has also considered offering a minority stake and another buyer could still emerge (Bloomberg)](http://www.techmeme.com/210831/p48#a210831p48)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
