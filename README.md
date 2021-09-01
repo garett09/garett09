@@ -196,8 +196,8 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Reasonable](http://9gag.com/gag/aLp7AGg)
- - 🚯 [As a diver is filming a bunch of orcas communicating with each other, a huge humpback passes by.](http://9gag.com/gag/aB2BEVN)
+ - 🚖 [The Golden Symbol of Luck!](http://9gag.com/gag/aYoXMRw)
+ - 🚯 [Home Office](http://9gag.com/gag/azMpOym)
  - 🚯 [It&#039;s game time! Win an Xbox Series X from Club9 x GameTaster!](http://9gag.com/gag/aMKMmwP)<!-- MEMES:END -->
 
 --- 
