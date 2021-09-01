@@ -196,9 +196,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The English gather artifacts for The British Museum, Circa 1880.](http://9gag.com/gag/ayMjQA8)
- - 🚯 [Alarms like this](http://9gag.com/gag/aNpERDv)
- - 🚯 [Jordan Peterson ... The says it all](http://9gag.com/gag/aB2BOQ2)<!-- MEMES:END -->
+ - 🚖 [When your president teach you a judo movement](http://9gag.com/gag/ad8D27Q)
+ - 🚯 [Fran&ccedil;ois Van Houten.](http://9gag.com/gag/aeA87xB)
+ - 🚯 [Minor arrested 20 times. Today he turns 18 and was arrested selling drugs](http://9gag.com/gag/aGp42Gn)<!-- MEMES:END -->
 
 --- 
 
