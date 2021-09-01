@@ -182,9 +182,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [What the hell is going on with these new Halo 3 armours?](https://www.pcgamer.com/what-the-hell-is-going-on-with-these-new-halo-3-armours)
  - [PUBG's Creator Leaves Company To Form New Studio](https://kotaku.com/pubgs-creator-leaves-company-to-form-new-studio-1847595196)
- - [Brendan 'PlayerUnknown' Greene leaves PUBG owner Krafton to form new studio](https://www.pcgamer.com/brendan-playerunknown-greene-leaves-pubg-owner-krafton-to-form-new-studio)
- - [Will Smith is in Fortnite, soon everything will be in Fortnite](https://www.pcgamer.com/will-smith-is-in-fortnite-soon-everything-will-be-in-fortnite)<!-- GAME:END -->
+ - [Brendan 'PlayerUnknown' Greene leaves PUBG owner Krafton to form new studio](https://www.pcgamer.com/brendan-playerunknown-greene-leaves-pubg-owner-krafton-to-form-new-studio)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
