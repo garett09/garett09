@@ -189,9 +189,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Philips Hue debuts brighter bulbs, multi-color gradient lamps, software features, & more](https://appleinsider.com/articles/21/09/01/philips-hue-debuts-brighter-bulbs-multi-color-gradient-lamps-software-features-more?utm_medium=rss)
- - [Spotify and Philips Hue partner for direct music integration with smart lights](https://appleinsider.com/articles/21/09/01/spotify-and-philips-hue-partner-for-direct-music-integration-with-smart-lights?utm_medium=rss)
- - [Samsung Galaxy A52 5G lands in India for under $500](https://www.androidauthority.com/samsung-galaxy-a52-5g-india-2745571/)<!-- TECH:END -->
+ - ['9/11: Inside the President's War Room' begins streaming on Apple TV+](https://appleinsider.com/articles/21/09/01/911-inside-the-presidents-war-room-begins-streaming-on-apple-tv?utm_medium=rss)
+ - [Vector design tool Vectornator raises $20M round led by EQT Ventures](http://feedproxy.google.com/~r/Techcrunch/~3/d6Z4bfpErD4/)
+ - [Refinitiv: Tencent has invested in 34 international companies in H1 2021, including 16 in Europe, compared to four overseas deals in 2020 and three in 2019 (Financial Times)](http://www.techmeme.com/210901/p9#a210901p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
