@@ -189,9 +189,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple spends more than 3.5M euros lobbying EU, report says](https://appleinsider.com/articles/21/09/01/apple-spends-more-than-35m-euros-lobbying-eu-report-says?utm_medium=rss)
- - [Ivermectin misinformation has poisoned Amazon’s platform, with few fixes planned](https://www.theverge.com/2021/9/1/22651653/amazon-ivermectin-misinformation-autocomplete)
- - [Best filtered water bottles for 2021 to remove bacteria, sediment and more     - CNET](https://www.cnet.com/health/best-filtered-water-bottle/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Telegram’s latest update makes unlimited video calls/live streams a reality](https://www.androidauthority.com/telegram-update-unlimited-video-calls-live-streams-2745513/)
+ - [Kevala, which provides cloud-based data analytics software for managing energy grid infrastructure, raises $21M Series A led by C5 Capital and Thin Line Capital (Rebecca Bellan/TechCrunch)](http://www.techmeme.com/210901/p1#a210901p1)
+ - [New Xiaomi 11T series render leaks: Triple rear cameras, colorways on show](https://www.androidauthority.com/xiaomi-11t-series-design-2745505/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
