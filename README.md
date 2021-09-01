@@ -196,8 +196,8 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [If it&#039;s not written then it&#039;s forgotten](http://9gag.com/gag/a07y1QZ)
- - 🚯 [Tell me you&#039;re rich without telling me you&#039;re rich](http://9gag.com/gag/aeA8xRm)
+ - 🚖 [F**k tables](http://9gag.com/gag/aB2BXrZ)
+ - 🚯 [Share your best sauce gifs under this glorious sauce song](http://9gag.com/gag/av5KvOZ)
  - 🚯 [It&#039;s game time! Win an Xbox Series X from Club9 x GameTaster!](http://9gag.com/gag/aMKMmwP)<!-- MEMES:END -->
 
 --- 
