@@ -197,7 +197,7 @@ Linux                    0 secs              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 🚖 [Sea snake shows no fear while approaching human.](http://9gag.com/gag/awMW1Dy)
- - 🚯 [As someone previously living in their car this is accurate](http://9gag.com/gag/arM7ZBX)
+ - 🚯 [Dayumn son!](http://9gag.com/gag/aYoXDpO)
  - 🚯 [It&#039;s game time! Win an Xbox Series X from Club9 x GameTaster!](http://9gag.com/gag/aMKMmwP)<!-- MEMES:END -->
 
 --- 
