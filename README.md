@@ -189,9 +189,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - ['9/11: Inside the President's War Room' begins streaming on Apple TV+](https://appleinsider.com/articles/21/09/01/911-inside-the-presidents-war-room-begins-streaming-on-apple-tv?utm_medium=rss)
- - [Vector design tool Vectornator raises $20M round led by EQT Ventures](http://feedproxy.google.com/~r/Techcrunch/~3/d6Z4bfpErD4/)
- - [Refinitiv: Tencent has invested in 34 international companies in H1 2021, including 16 in Europe, compared to four overseas deals in 2020 and three in 2019 (Financial Times)](http://www.techmeme.com/210901/p9#a210901p9)<!-- TECH:END -->
+ - [Daily Authority: Is Windows 11 ready? 📆](https://www.androidauthority.com/newsletters/daily-authority-september-1/)
+ - [Telegram uncaps live stream viewers as part of big version 8.0 update](https://www.theverge.com/2021/9/1/22651880/telegram-version-8-live-streams-video-unlimited-participants-flexible-forwarding)
+ - [This Touchscreen Table Lets You Summon Board Games With a Tap](https://www.wired.com/review/infinity-game-table)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
