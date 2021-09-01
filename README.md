@@ -189,9 +189,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [FAA investigating off-course descent of Virgin Galactic’s flight with Richard Branson](https://www.theverge.com/2021/9/1/22652887/faa-investigating-virgin-galactic-richard-branson)
- - [The time a human-driven car ran over an autonomous robot](https://www.theverge.com/2021/9/1/22652980/starship-delivery-robot-kentucky-car-accident)
- - [FTC bans "stalkerware" company Support King, whose Android app allegedly secretly harvested users' location and other data, from the surveillance business (Lauren Feiner/CNBC)](http://www.techmeme.com/210901/p43#a210901p43)<!-- TECH:END -->
+ - [UK now expects compliance with children’s privacy design code](http://feedproxy.google.com/~r/Techcrunch/~3/fCxuS3cVd5k/)
+ - [Here are all the companies from Day Two of Y Combinator’s Summer 2021 Demo Day](http://feedproxy.google.com/~r/Techcrunch/~3/tXjwjoghxo8/)
+ - [Apple offers hardware, funding to Texas Southern University in racial equity initiative](https://appleinsider.com/articles/21/09/01/apple-offers-hardware-funding-to-texas-southern-university-in-racial-equity-initiative?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
