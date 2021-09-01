@@ -196,8 +196,8 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [F**k tables](http://9gag.com/gag/aB2BXrZ)
- - 🚯 [Minor arrested 20 times. Today he turns 18 and was arrested selling drugs](http://9gag.com/gag/aGp42Gn)
+ - 🚖 [Alarms like this](http://9gag.com/gag/aNpERDv)
+ - 🚯 [Ugh....](http://9gag.com/gag/aqjoWPR)
  - 🚯 [It&#039;s game time! Win an Xbox Series X from Club9 x GameTaster!](http://9gag.com/gag/aMKMmwP)<!-- MEMES:END -->
 
 --- 
