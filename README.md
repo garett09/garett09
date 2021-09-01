@@ -189,9 +189,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Andy Jassy says Amazon plans to hire over 55,000 corporate employees globally, including over 40,000 in the US, a 20% increase in tech and corporate staff (Jeffrey Dastin/Reuters)](http://www.techmeme.com/210901/p15#a210901p15)
- - ['Today at Apple Creative Studios' expanding to Chicago & Washington, D.C.](https://appleinsider.com/articles/21/09/01/today-at-apple-creative-studios-expanding-to-chicago-washington-dc?utm_medium=rss)
- - [You told us: Sony should think about launching a new PlayStation portable](https://www.androidauthority.com/new-playstation-portable-poll-results-2745610/)<!-- TECH:END -->
+ - [Sources: Apple is planning to add health features, including a blood pressure monitor and thermometer to track fertility, to Watch as soon as 2022 (Rolfe Winkler/Wall Street Journal)](http://www.techmeme.com/210901/p19#a210901p19)
+ - [Apple says Arizona and Georgia will be first to support adding IDs to Wallet in iOS 15, with six states, including Utah, Maryland, and Iowa, expected to follow (Zack Whittaker/TechCrunch)](http://www.techmeme.com/210901/p18#a210901p18)
+ - ['Today at Apple Creative Studios' expanding to Chicago & Washington, D.C.](https://appleinsider.com/articles/21/09/01/today-at-apple-creative-studios-expanding-to-chicago-washington-dc?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
