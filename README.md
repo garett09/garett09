@@ -182,9 +182,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [No Man's Sky: Frontiers is out now](https://www.pcgamer.com/no-mans-sky-frontiers-is-out-now)
- - [The best gaming chairs in 2021](https://www.pcgamer.com/best-gaming-chairs)
- - [Marvel's Avengers removes Denuvo and nerfs ridiculous Black Panther exploit](https://www.pcgamer.com/marvels-avengers-removes-denuvo-and-nerfs-ridiculous-black-panther-exploit)<!-- GAME:END -->
+ - [Introducing “Frontiers,” No Man’s Sky’s 17th free update](http://feedproxy.google.com/~r/PSBlog/~3/0aRbmfx48fU/)
+ - [Introducing “Frontiers,” No Man’s Sky’s 17th free update](https://blog.playstation.com/2021/09/01/introducing-frontiers-no-mans-skys-17th-free-update/)
+ - [No Man's Sky Frontiers adds 'Mos Eisley type settlements' and makes you the mayor](https://www.pcgamer.com/no-mans-sky-frontiers-adds-mos-eisley-type-settlements-and-makes-you-the-mayor)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
