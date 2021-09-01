@@ -196,9 +196,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What&#039;s in the box](http://9gag.com/gag/a1r3O4b)
- - 🚯 [New studies show this And experts say that](http://9gag.com/gag/aRXqOqQ)
- - 🚯 [Fran&ccedil;ois Van Houten.](http://9gag.com/gag/aeA87xB)<!-- MEMES:END -->
+ - 🚖 [New studies show this And experts say that](http://9gag.com/gag/aRXqOqQ)
+ - 🚯 [This is a nightmare](http://9gag.com/gag/a7ERp3A)
+ - 🚯 [It ain&#039;t much but it&#039;s honest work](http://9gag.com/gag/ad8DbOZ)<!-- MEMES:END -->
 
 --- 
 
