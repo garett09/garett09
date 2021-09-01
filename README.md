@@ -189,9 +189,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft announces an online-only Surface hardware event for September 22, where an updated Surface Duo and Laptop are expected (Tom Warren/The Verge)](http://www.techmeme.com/210901/p28#a210901p28)
- - [What Amplitude’s choice to direct list says about its products, growth and value](http://feedproxy.google.com/~r/Techcrunch/~3/tkD6YnOHYBg/)
- - [Microsoft announces Surface event for September 22nd](https://www.theverge.com/2021/9/1/22651859/microsoft-surface-event-date)<!-- TECH:END -->
+ - [Profile of Li Jin, an aggressively pro-worker VC who founded Atelier Ventures, which manages $13M, to invest in influencer-related startups (Taylor Lorenz/New York Times)](http://www.techmeme.com/210901/p33#a210901p33)
+ - [Extended: $199 Babbel lifetime subscription is back, save $300](https://appleinsider.com/articles/21/08/15/199-babbel-lifetime-subscription-is-back-save-300-with-access-to-14-languages?utm_medium=rss)
+ - [Best Deals September 1 - $490 i7 MacBook Air, eBay Labor Day 15% off, and more!](https://appleinsider.com/articles/21/09/01/best-deals-september-1---490-i7-macbook-air-ebay-labor-day-15-off-and-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
