@@ -182,9 +182,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Will Smith is in Fortnite, soon everything will be in Fortnite](https://www.pcgamer.com/will-smith-is-in-fortnite-soon-everything-will-be-in-fortnite)
- - [Essential Picks promotion comes to PlayStation Store](http://feedproxy.google.com/~r/PSBlog/~3/rDNyH1YWxKM/)
- - [Galaxy Squad Now Available on Xbox One](https://news.xbox.com/en-us/2021/08/31/galaxy-squad-now-available-on-xbox-one/)<!-- GAME:END -->
+ - [PUBG's Creator Leaves Company To Form New Studio](https://kotaku.com/pubgs-creator-leaves-company-to-form-new-studio-1847595196)
+ - [Brendan 'PlayerUnknown' Greene leaves PUBG owner Krafton to form new studio](https://www.pcgamer.com/brendan-playerunknown-greene-leaves-pubg-owner-krafton-to-form-new-studio)
+ - [Will Smith is in Fortnite, soon everything will be in Fortnite](https://www.pcgamer.com/will-smith-is-in-fortnite-soon-everything-will-be-in-fortnite)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
