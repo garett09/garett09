@@ -182,9 +182,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Where to open mission kit then place a jammer outside the IO base in Fortnite](https://www.pcgamer.com/open-mission-kit-fortnite)
- - [Available Now: The ‘Homecoming’ Update for State of Decay 2](https://news.xbox.com/en-us/2021/09/01/available-now-the-homecoming-update-for-state-of-decay-2/)
- - [The best Pokémon games on PC](https://www.pcgamer.com/best-pokemon-games)<!-- GAME:END -->
+ - [PSO2 New Genesis Announces Sonic Colors: Ultimate Collaboration and Autumn Seasonal Event](https://news.xbox.com/en-us/2021/09/01/pso2-new-genesis-sonic-colors-ultimate-collaboration/)
+ - [Twitch departures continue as TimTheTatman leaves for YouTube](https://www.polygon.com/22652550/timthetatman-leaves-twitch-for-youtube-exclusive)
+ - [Que lo que anime fans, Funimation is translating its biggest series into Spanish](https://www.polygon.com/22652514/funimation-anime-spanish-wepa)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
