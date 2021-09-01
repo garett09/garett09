@@ -182,9 +182,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [PSO2 New Genesis Announces Sonic Colors: Ultimate Collaboration and Autumn Seasonal Event](https://news.xbox.com/en-us/2021/09/01/pso2-new-genesis-sonic-colors-ultimate-collaboration/)
- - [Twitch departures continue as TimTheTatman leaves for YouTube](https://www.polygon.com/22652550/timthetatman-leaves-twitch-for-youtube-exclusive)
- - [Que lo que anime fans, Funimation is translating its biggest series into Spanish](https://www.polygon.com/22652514/funimation-anime-spanish-wepa)<!-- GAME:END -->
+ - [Destiny 2: The Witch Queen’s Hive Guardians are like fighting a mirror, Bungie says](https://www.polygon.com/interviews/22652623/destiny-2-witch-queen-bungie-interview-hive-guardian-ghost-supers)
+ - [What is ‘A Day Off Twitch’?](https://www.polygon.com/22652063/a-day-off-twitch-streaming-platform-hate-raids-boycott)
+ - [Where to deploy pallets with cat food in Fortnite](https://www.pcgamer.com/deploy-pallets-with-cat-food-locations)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
