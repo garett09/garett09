@@ -189,9 +189,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Pixel 6: Everything we know so far (Updated: Sept. 1)](https://www.androidauthority.com/google-pixel-6-1207778/)
- - [Chinese Mars rover snaps sweeping sands in red planet panorama     - CNET](https://www.cnet.com/news/chinese-mars-rover-snaps-sweeping-sands-in-red-planet-panorama/#ftag=CAD590a51e)
- - [Philips Hue partners with Spotify to turn all your lights into a music visualizer](https://www.theverge.com/2021/9/1/22650896/hue-spotify-music-sync-integration)<!-- TECH:END -->
+ - [Philips Hue debuts brighter bulbs, multi-color gradient lamps, software features, & more](https://appleinsider.com/articles/21/09/01/philips-hue-debuts-brighter-bulbs-multi-color-gradient-lamps-software-features-more?utm_medium=rss)
+ - [Spotify and Philips Hue partner for direct music integration with smart lights](https://appleinsider.com/articles/21/09/01/spotify-and-philips-hue-partner-for-direct-music-integration-with-smart-lights?utm_medium=rss)
+ - [Samsung Galaxy A52 5G lands in India for under $500](https://www.androidauthority.com/samsung-galaxy-a52-5g-india-2745571/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
