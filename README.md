@@ -189,9 +189,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Syndicate, a decentralized investing platform that wants to make it easier for users to create DAOs, raises $20M Series A led by Andreessen Horowitz (Dan Primack/Axios)](http://www.techmeme.com/210831/p40#a210831p40)
- - ['Apple Watch Series 7' complexity causing production delays [u]](https://appleinsider.com/articles/21/08/31/apple-watch-series-7-complexity-causing-production-delays?utm_medium=rss)
- - [Olsam raises $165M to buy up and scale consumer and B2B Amazon Marketplace sellers](http://feedproxy.google.com/~r/Techcrunch/~3/VEAuaQ4QDIA/)<!-- TECH:END -->
+ - [CrowdStrike beats in Q2 with revenue of $337.7M, up 70% YoY; ARR rose 70% YoY to $1.34B, subscription revenue was $315.8M, up 71% YoY, net new subs grew 81% YoY (Stephanie Condon/ZDNet)](http://www.techmeme.com/210831/p45#a210831p45)
+ - [Roundup of 180+ companies that launched at YC's Summer 2021 Demo Day 1, including food delivery, investment, edtech, AI, and payment startups (TechCrunch)](http://www.techmeme.com/210831/p44#a210831p44)
+ - [FTX acquires US-regulated crypto derivatives exchange LedgerX for an undisclosed sum, to expand its futures and options products in the US (Vildana Hajric/Bloomberg)](http://www.techmeme.com/210831/p43#a210831p43)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
