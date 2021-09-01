@@ -182,9 +182,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [What the hell is going on with these new Halo 3 armours?](https://www.pcgamer.com/what-the-hell-is-going-on-with-these-new-halo-3-armours)
- - [PUBG's Creator Leaves Company To Form New Studio](https://kotaku.com/pubgs-creator-leaves-company-to-form-new-studio-1847595196)
- - [Brendan 'PlayerUnknown' Greene leaves PUBG owner Krafton to form new studio](https://www.pcgamer.com/brendan-playerunknown-greene-leaves-pubg-owner-krafton-to-form-new-studio)<!-- GAME:END -->
+ - [AI Also Makes Manga And Anime Characters Look Human](https://kotaku.com/ai-also-makes-manga-and-anime-characters-look-human-1847596217)
+ - [Revisiting the outrageous lore of World of Warcraft: The Burning Crusade](https://www.pcgamer.com/revisiting-the-outrageous-lore-of-world-of-warcraft-the-burning-crusade)
+ - [What the hell is going on with these new Halo 3 armours?](https://www.pcgamer.com/what-the-hell-is-going-on-with-these-new-halo-3-armours)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
