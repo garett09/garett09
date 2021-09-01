@@ -189,9 +189,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Humane, a stealthy hardware and software startup co-founded by an ex-Apple designer and engineer, raises $100M](http://feedproxy.google.com/~r/Techcrunch/~3/wHzFCfrTl8g/)
- - [Dear Sophie: How can I present a strong O-1A or EB-1A application?](http://feedproxy.google.com/~r/Techcrunch/~3/rXDs7I6lo0I/)
- - [FTC's refiled Facebook suit does not offer market definitions reflective of reality, misunderstands ad markets, and highlights harms of regulatory interference (Ben Thompson/Stratechery)](http://www.techmeme.com/210901/p23#a210901p23)<!-- TECH:END -->
+ - [Microsoft announces an online-only Surface hardware event for September 22, where an updated Surface Duo and Laptop are expected (Tom Warren/The Verge)](http://www.techmeme.com/210901/p28#a210901p28)
+ - [What Amplitude’s choice to direct list says about its products, growth and value](http://feedproxy.google.com/~r/Techcrunch/~3/tkD6YnOHYBg/)
+ - [Microsoft announces Surface event for September 22nd](https://www.theverge.com/2021/9/1/22651859/microsoft-surface-event-date)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
