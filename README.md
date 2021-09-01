@@ -196,9 +196,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Share your best sauce gifs under this glorious sauce song](http://9gag.com/gag/av5KvOZ)
- - 🚯 [Minor arrested 20 times. Today he turns 18 and was arrested selling drugs](http://9gag.com/gag/aGp42Gn)
- - 🚯 [The Grandson of the Grandson of my Grandson is long dead then.](http://9gag.com/gag/aEpmXW9)<!-- MEMES:END -->
+ - 🚖 [The Grandson of the Grandson of my Grandson is long dead then.](http://9gag.com/gag/aEpmXW9)
+ - 🚯 [Sometimes, you just need a little motivation](http://9gag.com/gag/aGp42PX)
+ - 🚯 [Kaunas. Lithuania.](http://9gag.com/gag/abVnQPr)<!-- MEMES:END -->
 
 --- 
 
