@@ -189,9 +189,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Apple is planning to add health features, including a blood pressure monitor and thermometer to track fertility, to Watch as soon as 2022 (Rolfe Winkler/Wall Street Journal)](http://www.techmeme.com/210901/p19#a210901p19)
- - [Apple says Arizona and Georgia will be first to support adding IDs to Wallet in iOS 15, with six states, including Utah, Maryland, and Iowa, expected to follow (Zack Whittaker/TechCrunch)](http://www.techmeme.com/210901/p18#a210901p18)
- - ['Today at Apple Creative Studios' expanding to Chicago & Washington, D.C.](https://appleinsider.com/articles/21/09/01/today-at-apple-creative-studios-expanding-to-chicago-washington-dc?utm_medium=rss)<!-- TECH:END -->
+ - [Humane, a stealthy hardware and software startup co-founded by an ex-Apple designer and engineer, raises $100M](http://feedproxy.google.com/~r/Techcrunch/~3/wHzFCfrTl8g/)
+ - [Dear Sophie: How can I present a strong O-1A or EB-1A application?](http://feedproxy.google.com/~r/Techcrunch/~3/rXDs7I6lo0I/)
+ - [FTC's refiled Facebook suit does not offer market definitions reflective of reality, misunderstands ad markets, and highlights harms of regulatory interference (Ben Thompson/Stratechery)](http://www.techmeme.com/210901/p23#a210901p23)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
