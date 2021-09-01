@@ -196,9 +196,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A True Champion Retired Today! Kimi R&auml;ikk&ouml;nen You Will Be Missed](http://9gag.com/gag/aV7yBz2)
- - 🚯 [Ok boomer](http://9gag.com/gag/a07yOov)
- - 🚯 [Could this be the end of Hollywood&#039;s obsession with gingercide? Probably not. Still good to see.](http://9gag.com/gag/aV7yRo2)<!-- MEMES:END -->
+ - 🚖 [What&#039;s in the box](http://9gag.com/gag/a1r3O4b)
+ - 🚯 [New studies show this And experts say that](http://9gag.com/gag/aRXqOqQ)
+ - 🚯 [Fran&ccedil;ois Van Houten.](http://9gag.com/gag/aeA87xB)<!-- MEMES:END -->
 
 --- 
 
