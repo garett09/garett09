@@ -189,9 +189,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily Authority: Is Windows 11 ready? 📆](https://www.androidauthority.com/newsletters/daily-authority-september-1/)
- - [Telegram uncaps live stream viewers as part of big version 8.0 update](https://www.theverge.com/2021/9/1/22651880/telegram-version-8-live-streams-video-unlimited-participants-flexible-forwarding)
- - [This Touchscreen Table Lets You Summon Board Games With a Tap](https://www.wired.com/review/infinity-game-table)<!-- TECH:END -->
+ - [Andy Jassy says Amazon plans to hire over 55,000 corporate employees globally, including over 40,000 in the US, a 20% increase in tech and corporate staff (Jeffrey Dastin/Reuters)](http://www.techmeme.com/210901/p15#a210901p15)
+ - ['Today at Apple Creative Studios' expanding to Chicago & Washington, D.C.](https://appleinsider.com/articles/21/09/01/today-at-apple-creative-studios-expanding-to-chicago-washington-dc?utm_medium=rss)
+ - [You told us: Sony should think about launching a new PlayStation portable](https://www.androidauthority.com/new-playstation-portable-poll-results-2745610/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
