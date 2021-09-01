@@ -189,9 +189,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Streamers are boycotting Twitch today to protest the platform’s lack of action on ‘hate raids’](http://feedproxy.google.com/~r/Techcrunch/~3/maEUmzPeGtA/)
- - [Google making its own Chromebook CPUs inspired by Apple's M1](https://appleinsider.com/articles/21/09/01/google-making-its-own-chromebook-cpus-inspired-by-apples-m1?utm_medium=rss)
- - [Game Boy and GB Color games could come to Nintendo Switch Online this month](https://www.androidauthority.com/game-boy-games-on-switch-2745735/)<!-- TECH:END -->
+ - [Twitter’s new Safety Mode autoblocks abusive accounts](https://www.theverge.com/2021/9/1/22652572/twitter-safety-mode-autoblocks-abusive-accounts-beta)
+ - [Netflix will dish out all 180 episodes of Seinfeld starting on October 1st](https://www.theverge.com/2021/9/1/22652391/seinfeld-netflix-october-streaming-wars-friends-the-office)
+ - [Workhorse accused of fraud and is facing an SEC investigation](https://www.theverge.com/2021/9/1/22652319/workhorse-fraud-sec-investigation-short-seller-fuzzy-panda)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
