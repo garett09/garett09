@@ -189,9 +189,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy Note 10 carrier models gain August 2021 patch in US](https://www.androidauthority.com/samsung-galaxy-note-10-plus-update-1020236/)
- - [Australia passes bill that lets police hack user devices to modify, collect or delete data, and take over social media accounts without a judge's warrant (The Tutanota Blog)](http://www.techmeme.com/210901/p3#a210901p3)
- - [Samsung reveals One UI 4.0 beta launch date, phone support (Updated: US details)](https://www.androidauthority.com/samsung-one-ui-4-0-beta-2745234/)<!-- TECH:END -->
+ - [Google Pixel 6: Everything we know so far (Updated: Sept. 1)](https://www.androidauthority.com/google-pixel-6-1207778/)
+ - [Chinese Mars rover snaps sweeping sands in red planet panorama     - CNET](https://www.cnet.com/news/chinese-mars-rover-snaps-sweeping-sands-in-red-planet-panorama/#ftag=CAD590a51e)
+ - [Philips Hue partners with Spotify to turn all your lights into a music visualizer](https://www.theverge.com/2021/9/1/22650896/hue-spotify-music-sync-integration)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
