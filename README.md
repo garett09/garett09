@@ -182,9 +182,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Lake Launches Today for Xbox One and Xbox Series X|S](https://news.xbox.com/en-us/2021/09/01/lake-launches-today-for-xbox-one-and-xbox-series-xs/)
- - [You’re getting a cartoon Urkel musical for Christmas](https://www.polygon.com/animation-cartoons/22651928/urkel-cartoon-network-release-christmas-batman-looney-tunes)
- - [Somehow We’re Still Learning New Things About BotW In 2021](https://kotaku.com/somehow-we-re-still-learning-new-things-about-botw-in-2-1847598286)<!-- GAME:END -->
+ - [Where to open mission kit then place a jammer outside the IO base in Fortnite](https://www.pcgamer.com/open-mission-kit-fortnite)
+ - [Available Now: The ‘Homecoming’ Update for State of Decay 2](https://news.xbox.com/en-us/2021/09/01/available-now-the-homecoming-update-for-state-of-decay-2/)
+ - [The best Pokémon games on PC](https://www.pcgamer.com/best-pokemon-games)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
