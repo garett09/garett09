@@ -196,9 +196,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When your president teach you a judo movement](http://9gag.com/gag/ad8D27Q)
- - 🚯 [Fran&ccedil;ois Van Houten.](http://9gag.com/gag/aeA87xB)
- - 🚯 [Minor arrested 20 times. Today he turns 18 and was arrested selling drugs](http://9gag.com/gag/aGp42Gn)<!-- MEMES:END -->
+ - 🚖 [Share your best sauce gifs under this glorious sauce song](http://9gag.com/gag/av5KvOZ)
+ - 🚯 [Minor arrested 20 times. Today he turns 18 and was arrested selling drugs](http://9gag.com/gag/aGp42Gn)
+ - 🚯 [The Grandson of the Grandson of my Grandson is long dead then.](http://9gag.com/gag/aEpmXW9)<!-- MEMES:END -->
 
 --- 
 
