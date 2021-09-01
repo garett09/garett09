@@ -182,9 +182,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Destiny 2: Where to find the Week 2 Enigmatic and Trivial Mysteries](https://www.pcgamer.com/destiny-2-enigmatic-mystery-trivial-guide)
- - [Xbox Celebrates Marvel Studios’ “Shang-Chi and The Legend of The Ten Rings”](https://news.xbox.com/en-us/2021/09/01/shang-chi-xbox-custom-console/)
- - [Two Years After Microsoft’s Promise, FFXIII Finally Comes To Game Pass](https://kotaku.com/two-years-after-microsoft-s-promise-ffxiii-finally-com-1847596935)<!-- GAME:END -->
+ - [Lake Launches Today for Xbox One and Xbox Series X|S](https://news.xbox.com/en-us/2021/09/01/lake-launches-today-for-xbox-one-and-xbox-series-xs/)
+ - [You’re getting a cartoon Urkel musical for Christmas](https://www.polygon.com/animation-cartoons/22651928/urkel-cartoon-network-release-christmas-batman-looney-tunes)
+ - [Somehow We’re Still Learning New Things About BotW In 2021](https://kotaku.com/somehow-we-re-still-learning-new-things-about-botw-in-2-1847598286)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
