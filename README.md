@@ -196,8 +196,8 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Super effective lmao](http://9gag.com/gag/apNZb1E)
- - 🚯 [Its about that time](http://9gag.com/gag/aGp4Go7)
+ - 🚖 [A master of card Manipulation](http://9gag.com/gag/aNpE4Pr)
+ - 🚯 [Work from home problems](http://9gag.com/gag/aLp7m4z)
  - 🚯 [It&#039;s game time! Win an Xbox Series X from Club9 x GameTaster!](http://9gag.com/gag/aMKMmwP)<!-- MEMES:END -->
 
 --- 
