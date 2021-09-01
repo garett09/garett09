@@ -189,9 +189,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Developer interest in Mac is waning, study suggests](https://appleinsider.com/articles/21/09/01/developer-interest-in-mac-is-waning-study-suggests?utm_medium=rss)
- - [Fresh leak gives out Google Pixel 6 series pre-order and release dates](https://www.androidauthority.com/google-pixel-6-pre-order-release-date-2745486/)
- - [Best air fryer for 2021: Ninja, Dash, Gourmia and more     - CNET](https://www.cnet.com/home/kitchen-and-household/best-air-fryer/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple spends more than 3.5M euros lobbying EU, report says](https://appleinsider.com/articles/21/09/01/apple-spends-more-than-35m-euros-lobbying-eu-report-says?utm_medium=rss)
+ - [Ivermectin misinformation has poisoned Amazon’s platform, with few fixes planned](https://www.theverge.com/2021/9/1/22651653/amazon-ivermectin-misinformation-autocomplete)
+ - [Best filtered water bottles for 2021 to remove bacteria, sediment and more     - CNET](https://www.cnet.com/health/best-filtered-water-bottle/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
