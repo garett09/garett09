@@ -182,9 +182,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [AI Also Makes Manga And Anime Characters Look Human](https://kotaku.com/ai-also-makes-manga-and-anime-characters-look-human-1847596217)
- - [Revisiting the outrageous lore of World of Warcraft: The Burning Crusade](https://www.pcgamer.com/revisiting-the-outrageous-lore-of-world-of-warcraft-the-burning-crusade)
- - [What the hell is going on with these new Halo 3 armours?](https://www.pcgamer.com/what-the-hell-is-going-on-with-these-new-halo-3-armours)<!-- GAME:END -->
+ - [No Man's Sky: Frontiers is out now](https://www.pcgamer.com/no-mans-sky-frontiers-is-out-now)
+ - [The best gaming chairs in 2021](https://www.pcgamer.com/best-gaming-chairs)
+ - [Marvel's Avengers removes Denuvo and nerfs ridiculous Black Panther exploit](https://www.pcgamer.com/marvels-avengers-removes-denuvo-and-nerfs-ridiculous-black-panther-exploit)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
