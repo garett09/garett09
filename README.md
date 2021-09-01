@@ -196,9 +196,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Brazil](http://9gag.com/gag/aeA87Om)
- - 🚯 [Sometimes, you just need a little motivation](http://9gag.com/gag/aGp42PX)
- - 🚯 [I must take up science classes in Russia](http://9gag.com/gag/a8ExK7p)<!-- MEMES:END -->
+ - 🚖 [Could this be the end of Hollywood&#039;s obsession with gingercide? Probably not. Still good to see.](http://9gag.com/gag/aV7yRo2)
+ - 🚯 [The country is Bulgaria](http://9gag.com/gag/aeA8RQb)
+ - 🚯 [Jordan Peterson ... The says it all](http://9gag.com/gag/aB2BOQ2)<!-- MEMES:END -->
 
 --- 
 
