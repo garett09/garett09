@@ -182,9 +182,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Introducing “Frontiers,” No Man’s Sky’s 17th free update](http://feedproxy.google.com/~r/PSBlog/~3/0aRbmfx48fU/)
- - [Introducing “Frontiers,” No Man’s Sky’s 17th free update](https://blog.playstation.com/2021/09/01/introducing-frontiers-no-mans-skys-17th-free-update/)
- - [No Man's Sky Frontiers adds 'Mos Eisley type settlements' and makes you the mayor](https://www.pcgamer.com/no-mans-sky-frontiers-adds-mos-eisley-type-settlements-and-makes-you-the-mayor)<!-- GAME:END -->
+ - [Blades in the Dark tabletop RPG being developed for TV](https://www.polygon.com/22652023/blades-in-the-dark-tv-show-announced)
+ - [The best high refresh rate monitors](https://www.pcgamer.com/best-high-refresh-rate-monitor-for-gaming)
+ - [The live-action Life is Strange adaptation is somehow still in production](https://www.pcgamer.com/the-live-action-life-is-strange-adaptation-is-somehow-still-in-production)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
