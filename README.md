@@ -182,9 +182,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Genshin Impact Amakumo Fruit locations guide](https://www.pcgamer.com/genshin-impact-amakumo-fruit-locations-guide)
- - [It Took 400 Hours To Draw This Attack on Titan Flipbook](https://kotaku.com/it-took-400-hours-to-draw-this-attack-on-titan-flipbook-1847604325)
- - [Cookie Clicker is now on Steam](https://www.pcgamer.com/cookie-clicker-is-now-on-steam)<!-- GAME:END -->
+ - [The best gaming mouse in 2021](https://www.pcgamer.com/the-best-gaming-mouse)
+ - [Microsoft kicks incompatible PCs off the Windows 11 Insider Program](https://www.pcgamer.com/microsoft-kicks-incompatible-pcs-off-the-windows-11-insider-program)
+ - [Forget the slim heatsink, Teamgroup's making an SSD with its own AIO cooler](https://www.pcgamer.com/forget-the-slim-heatsink-teamgroups-making-an-ssd-with-its-own-aio-cooler)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
