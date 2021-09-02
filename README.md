@@ -196,9 +196,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Oh boy...](http://9gag.com/gag/aK6oX5Q)
- - 🚯 [It&#039;s not just a video game. It&#039;s a feels-game](http://9gag.com/gag/a5E095y)
- - 🚯 [She got scarry tongue!](http://9gag.com/gag/aeA8qym)<!-- MEMES:END -->
+ - 🚖 [Hyper hyper](http://9gag.com/gag/amP4K4j)
+ - 🚯 [Best drift ever](http://9gag.com/gag/a07yGpQ)
+ - 🚯 [Eastern european vibe during autumn](http://9gag.com/gag/amP4Kyd)<!-- MEMES:END -->
 
 --- 
 
