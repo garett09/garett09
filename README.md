@@ -189,9 +189,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Top Indian payments app PhonePe opens its data firehose to everyone](http://feedproxy.google.com/~r/Techcrunch/~3/vtpKpwW1BvU/)
- - [iPhone inside 30 mins? Germany’s Arive brings consumer brands to your door, raises €6M](http://feedproxy.google.com/~r/Techcrunch/~3/r1PoOBXrp2A/)
- - [Qualcomm’s next smartwatch chipset could be slower than first rumored](https://www.androidauthority.com/qualcomm-snapdragon-wear-5100-specs-2746118/)<!-- TECH:END -->
+ - [Sources: Apple is facing an antitrust investigation in India over forcing developers to use its in-app payment system (Aditya Kalra/Reuters)](http://www.techmeme.com/210902/p9#a210902p9)
+ - [Quick phrases could let you skip ‘Hey, Google’ for common tasks](https://www.theverge.com/2021/9/2/22653614/google-assistant-quick-phrases-guacamole-salsas-wake-word-phrase)
+ - [Top Indian payments app PhonePe opens its data firehose to everyone](http://feedproxy.google.com/~r/Techcrunch/~3/vtpKpwW1BvU/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
