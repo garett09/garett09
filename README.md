@@ -182,9 +182,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best gaming laptops in Australia for 2021](https://www.pcgamer.com/the-best-gaming-laptops-in-australia-for-2021)
- - [The Sable demo is back for a limited time](https://www.pcgamer.com/the-sable-demo-is-back-for-a-limited-time)
- - [Naraka: Bladepoint review](https://www.pcgamer.com/naraka-bladepoint-review)<!-- GAME:END -->
+ - [Genshin Impact Amakumo Fruit locations guide](https://www.pcgamer.com/genshin-impact-amakumo-fruit-locations-guide)
+ - [It Took 400 Hours To Draw This Attack on Titan Flipbook](https://kotaku.com/it-took-400-hours-to-draw-this-attack-on-titan-flipbook-1847604325)
+ - [Cookie Clicker is now on Steam](https://www.pcgamer.com/cookie-clicker-is-now-on-steam)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
