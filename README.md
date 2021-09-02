@@ -197,8 +197,8 @@ Linux                    0 secs              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 🚖 [Insomnia? Don&#039;t forget to f**k yourself](http://9gag.com/gag/ajmeMrG)
- - 🚯 [Instagram thots](http://9gag.com/gag/aRXqyBy)
- - 🚯 [Always been in my bucket list.](http://9gag.com/gag/amP4d6o)<!-- MEMES:END -->
+ - 🚯 [Take note, Karens](http://9gag.com/gag/axMqnyL)
+ - 🚯 [Dog is high as f**k](http://9gag.com/gag/aGp4NeZ)<!-- MEMES:END -->
 
 --- 
 
