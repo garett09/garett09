@@ -182,9 +182,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [PlayStation's Next PS5 Showcase Is September 9](https://kotaku.com/playstations-next-ps5-showcase-is-september-9-1847605012)
- - [Deconstructing the impeccable animation of Ratchet & Clank: Rift Apart](http://feedproxy.google.com/~r/PSBlog/~3/a_BmLYfbFc0/)
- - [Deconstructing the impeccable animation of Ratchet & Clank: Rift Apart](https://blog.playstation.com/2021/09/02/deconstructing-the-impeccable-animation-of-ratchet-clank-rift-apart/)<!-- GAME:END -->
+ - [Y: The Last Man’s showrunner has a plan: five seasons and a monkey](https://www.polygon.com/22653023/y-the-last-man-seasons-comics)
+ - [Original Transformers Cartoon Is Free On YouTube](https://kotaku.com/original-transformers-cartoon-is-free-on-youtube-1847605391)
+ - [Pre-order Horizon Forbidden West now: Collector’s and Digital Deluxe Editions detailed](http://feedproxy.google.com/~r/PSBlog/~3/z-Eay33r1HQ/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
