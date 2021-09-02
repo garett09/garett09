@@ -196,9 +196,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The hero that we need.](http://9gag.com/gag/a3EXpWr)
- - 🚯 [Men living their life](http://9gag.com/gag/aDderRG)
- - 🚯 [Radicalize my children](http://9gag.com/gag/a4EOxXw)<!-- MEMES:END -->
+ - 🚖 [Friends for life](http://9gag.com/gag/aQoWr0w)
+ - 🚯 [Feelia](http://9gag.com/gag/a1r3qAY)
+ - 🚯 [When the artist is the waifu](http://9gag.com/gag/a3EXeL8)<!-- MEMES:END -->
 
 --- 
 
