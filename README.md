@@ -189,9 +189,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitter has plans to let users hide their old tweets](https://www.theverge.com/2021/9/2/22654061/twitter-features-archive-old-tweets-hide-likes-remove-followers-plans)
- - [Callin, a social audio app founded by David Sacks that offers tools for turning live recordings into podcasts, raises $12M Series A led by Sequoia and others (Amanda Silberling/TechCrunch)](http://www.techmeme.com/210902/p29#a210902p29)
- - [Totally real actor who plays Roy Kent responds to conspiracy theory that he is CGI](https://www.theverge.com/tldr/2021/9/1/22652236/ted-lasso-roy-kent-cgi-conspiracy-theory)<!-- TECH:END -->
+ - [Facebook Gaming expands its program that lets streamers play some copyrighted music during live streams from 1,000 to 100,000 streamers (Dean Takahashi/VentureBeat)](http://www.techmeme.com/210902/p33#a210902p33)
+ - [Jeeves, which is building tools to help startups manage expenses, raises $57M Series B at a $500M valuation, after raising $31M equity and $100M debt in June (Mary Ann Azevedo/TechCrunch)](http://www.techmeme.com/210902/p32#a210902p32)
+ - [Apple TV+ comedy 'Dickinson' to end after third season](https://appleinsider.com/articles/21/09/02/apple-tv-comedy-dickinson-to-end-after-third-season?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
