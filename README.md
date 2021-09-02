@@ -189,9 +189,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitch viewership dropped when streamers took a day off in protest](https://www.theverge.com/2021/9/2/22654534/streamers-twitch-walkout-viewership-drop)
- - [Bigger 'Apple Watch Series 7' gives users 16% more pixels to play with](https://appleinsider.com/articles/21/09/02/apple-watch-series-7-to-sport-screen-with-16-more-pixels-than-past-model?utm_medium=rss)
- - [Dom Hofmann's Loot, with NFTs of random lists of items ostensibly from a fantasy video game, had $46M in sales in just 5 days, attaining a market cap of $180M+ (Andrew Thurman/CoinDesk)](http://www.techmeme.com/210902/p40#a210902p40)<!-- TECH:END -->
+ - [Gamesight data shows a dip in Twitch viewership on Wednesday, possibly 5%-15%, as some streamers took #ADayOffTwitch to bring awareness to "hate raids" (Ash Parrish/The Verge)](http://www.techmeme.com/210902/p41#a210902p41)
+ - [Apple must face class action lawsuit over Siri privacy intrusions](https://appleinsider.com/articles/21/09/02/apple-must-face-class-action-lawsuit-over-siri-privacy-intrusions?utm_medium=rss)
+ - [Twitter’s Super Follows could run into an App Store problem](https://www.theverge.com/2021/9/2/22654495/twitter-super-follow-in-app-purchases-ios)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
