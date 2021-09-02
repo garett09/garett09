@@ -189,9 +189,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A brief overview of all the startups that pitched at Day 2 of Y Combinator's Summer 2021 Demo Day (TechCrunch)](http://www.techmeme.com/210901/p49#a210901p49)
- - [No, Mr. Bond, I expect you to drive the Land Rover Defender V8 Bond Edition     - Roadshow](https://www.cnet.com/roadshow/news/land-rover-defender-v8-bond-edition-debut/#ftag=CAD590a51e)
- - [Land Rover Defender V8 Bond Edition celebrates the release of No Time to Die     - Roadshow](https://www.cnet.com/roadshow/pictures/land-rover-defender-v8-bond-edition-celebrates-the-release-of-no-time-to-die/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple will let 'reader' apps link to websites for account setup and management [u]](https://appleinsider.com/articles/21/09/02/apple-to-allow-external-account-management-links-in-reader-apps-to-close-japanese-antitrust-investigation?utm_medium=rss)
+ - [Massachussetts AG greenlights Uber, Lyft-backed gig worker ballot initiative](http://feedproxy.google.com/~r/Techcrunch/~3/23tRNQvUObk/)
+ - [Apple announces new settlement with Japan allowing developers to link to external websites](http://feedproxy.google.com/~r/Techcrunch/~3/PpAkMYFwrGM/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
