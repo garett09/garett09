@@ -182,9 +182,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Marvel’s Midnight Suns gameplay reveal](https://blog.playstation.com/2021/09/02/marvels-midnight-suns-gameplay-reveal/)
- - [The moon is super pissed in disaster movie master Roland Emmerich’s next film](https://www.polygon.com/22654480/moonfall-movie-trailer-roland-emmerich)
- - [505 Games Turns 15](https://news.xbox.com/en-us/2021/09/02/505-games-turns-15/)<!-- GAME:END -->
+ - [Blizzard just delivered a masterclass in how not to announce a game](https://www.pcgamer.com/blizzard-mercenaries-announcement)
+ - [A Deadly Defender Joins Hood’s Outlaws for Season One: Samhain](https://news.xbox.com/en-us/2021/09/02/deadly-defender-joins-hoods-outlaws-for-season-one/)
+ - [Far Cry 6 won't require a high-end PC to play](https://www.pcgamer.com/far-cry-6-wont-require-a-high-end-pc-to-play)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
