@@ -196,9 +196,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The country is Bulgaria](http://9gag.com/gag/aeA8RQb)
- - 🚯 [Why no weirdo defend Kanye West?](http://9gag.com/gag/ayMjz9X)
- - 🚯 [The real talent](http://9gag.com/gag/aYoXmVx)<!-- MEMES:END -->
+ - 🚖 [It ain&#039;t much but it&#039;s honest work](http://9gag.com/gag/ad8DbOZ)
+ - 🚯 [What&#039;s in the box](http://9gag.com/gag/a1r3O4b)
+ - 🚯 [Dirty boi.](http://9gag.com/gag/aDdeP3w)<!-- MEMES:END -->
 
 --- 
 
