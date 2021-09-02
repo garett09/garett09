@@ -189,9 +189,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Realme GT review: Leading design, specs to match](https://www.androidauthority.com/realme-gt-review-2735108/)
- - [French grocery delivery startup Cajoo raises $40M Series A from investors including Carrefour, and plans expansion into Europe early next year (Amy Lewin/Sifted)](http://www.techmeme.com/210902/p3#a210902p3)
- - [Samsung announces 200-megapixel phone camera sensor](https://www.theverge.com/2021/9/2/22653558/samsung-isocell-hp1-gn5-200-megapixel-camera-sensor-announced)<!-- TECH:END -->
+ - [LGBTQ activists say UK's Online Safety Bill could provide the legal basis for censorship of LGBTQ content and say ending online anonymity could harm queer users (Benjamin Butterworth/inews.co.uk)](http://www.techmeme.com/210902/p7#a210902p7)
+ - [300+ organizations are urging the EU to redefine key terms in the draft AI Act, asking to label more AI systems as high risk and ban some forms of AI entirely (Khari Johnson/Wired)](http://www.techmeme.com/210902/p6#a210902p6)
+ - [You told us: Most of you are open to trading battery life for an S Pen slot](https://www.androidauthority.com/battery-life-s-pen-slot-poll-2741655/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
