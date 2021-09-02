@@ -196,8 +196,8 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It ain&#039;t much but it&#039;s honest work](http://9gag.com/gag/ad8DbOZ)
- - 🚯 [What&#039;s in the box](http://9gag.com/gag/a1r3O4b)
+ - 🚖 [Thief doesn&#039;t plan the theft well](http://9gag.com/gag/anQPdxn)
+ - 🚯 [A True Champion Retired Today! Kimi R&auml;ikk&ouml;nen You Will Be Missed](http://9gag.com/gag/aV7yBz2)
  - 🚯 [Dirty boi.](http://9gag.com/gag/aDdeP3w)<!-- MEMES:END -->
 
 --- 
