@@ -189,9 +189,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily Crunch: 8 Indian banks launch Account Aggregator to centralize consumers’ financial data](http://feedproxy.google.com/~r/Techcrunch/~3/SL2XhZHTY1w/)
- - [Apple stock hits $153.65 to close at all-time high](https://appleinsider.com/articles/21/09/02/apple-stock-hits-15365-to-close-at-all-time-high?utm_medium=rss)
- - [Sources: Reddit is seeking to hire investment bankers and lawyers ahead of an IPO that may occur as soon as early 2022, following a $10B valuation in August (Anirban Sen/Reuters)](http://www.techmeme.com/210902/p42#a210902p42)<!-- TECH:END -->
+ - [Texas' abortion law creates legal challenges for tech companies, such as subpoenas requesting user data, giving rides to clinics, hosting pro-choice content (Issie Lapowsky/Protocol)](http://www.techmeme.com/210902/p43#a210902p43)
+ - [Instagram is down, Facebook is working on it [u]](https://appleinsider.com/articles/21/09/02/instagram-is-down-facebook-is-working-on-it?utm_medium=rss)
+ - [Apple stock hits $153.65 to close at all-time high](https://appleinsider.com/articles/21/09/02/apple-stock-hits-15365-to-close-at-all-time-high?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
