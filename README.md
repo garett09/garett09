@@ -189,9 +189,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [FTC bans spyware maker SpyFone, and orders it to notify hacked victims](http://feedproxy.google.com/~r/Techcrunch/~3/30MiFwTog2M/)
- - [Apple’s AirPods Max are $80 off at Woot](https://www.theverge.com/good-deals/2021/9/2/22652060/apple-airpods-max-dji-mavic-mini-ipad-mini-logitech-mouse-deal-sale)
- - [New Pixelmator Pro beta brings Shortcuts & macOS Monterey support](https://appleinsider.com/articles/21/09/02/pixelmator-pro-launches-beta-trial-of-shortcuts-monterey-support?utm_medium=rss)<!-- TECH:END -->
+ - [Nintendo’s new Big Brain Academy is like Mario Party with brainteasers](https://www.theverge.com/2021/9/2/22653863/nintendo-big-brain-academy-vs-switch-multiplayer-release-date-price)
+ - [Locast, which retransmits live TV, halts operations after lawsuit by ABC and others led a judge to revoke its nonprofit status, which offers copyright exemption (Ben Bowman/The Streamable)](http://www.techmeme.com/210902/p23#a210902p23)
+ - [Deals: $599 M1 Mac mini is back, plus AirPods Max discounted to $469](https://appleinsider.com/articles/21/09/02/deals-599-m1-mac-mini-is-back-plus-airpods-max-discounted-to-469?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
