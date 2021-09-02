@@ -196,9 +196,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Shat a brick](http://9gag.com/gag/aQoWBAz)
- - 🚯 [Hyper hyper](http://9gag.com/gag/amP4K4j)
- - 🚯 [Best day](http://9gag.com/gag/aGp46zZ)<!-- MEMES:END -->
+ - 🚖 [Yikesn&#039;t](http://9gag.com/gag/a1r3BLR)
+ - 🚯 [Men living their life](http://9gag.com/gag/aDderRG)
+ - 🚯 [Dave Chappelle on what&#039;s important in life.](http://9gag.com/gag/aGp46jn)<!-- MEMES:END -->
 
 --- 
 
