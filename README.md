@@ -182,9 +182,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Nvidia's next mining GPU appears to be a passively cooled monster](https://www.pcgamer.com/nvidias-next-mining-gpu-appears-to-be-a-passively-cooled-monster)
- - [Netflix’s Q-Force continues the Marvelification of queer culture](https://www.polygon.com/22654092/q-force-review-netflix-queer-culture)
- - [Asphalt 9: Legends Now Available for Free on Xbox One and Xbox Series X|S](https://news.xbox.com/en-us/2021/09/02/asphalt-9-legends-now-available-for-free/)<!-- GAME:END -->
+ - [Welcome to Wariogon — a monthlong Wario celebration](https://www.polygon.com/wario/22634467/wario-monthy-wariogon-warioware-land-party-kart-tennis-mario)
+ - [Everything you need to know about Wario](https://www.polygon.com/wario/22631028/wario-faq-everything-you-need-to-know-nintendo-mario)
+ - [Enter for Your Chance to Win a Custom Far Cry 6 Xbox Series X](https://news.xbox.com/en-us/2021/09/02/enter-for-your-chance-to-win-a-custom-far-cry-6-xbox-series-x/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
