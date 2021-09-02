@@ -182,9 +182,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best gaming mouse in 2021](https://www.pcgamer.com/the-best-gaming-mouse)
- - [Microsoft kicks incompatible PCs off the Windows 11 Insider Program](https://www.pcgamer.com/microsoft-kicks-incompatible-pcs-off-the-windows-11-insider-program)
- - [Forget the slim heatsink, Teamgroup's making an SSD with its own AIO cooler](https://www.pcgamer.com/forget-the-slim-heatsink-teamgroups-making-an-ssd-with-its-own-aio-cooler)<!-- GAME:END -->
+ - [PlayStation's Next PS5 Showcase Is September 9](https://kotaku.com/playstations-next-ps5-showcase-is-september-9-1847605012)
+ - [Deconstructing the impeccable animation of Ratchet & Clank: Rift Apart](http://feedproxy.google.com/~r/PSBlog/~3/a_BmLYfbFc0/)
+ - [Deconstructing the impeccable animation of Ratchet & Clank: Rift Apart](https://blog.playstation.com/2021/09/02/deconstructing-the-impeccable-animation-of-ratchet-clank-rift-apart/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
