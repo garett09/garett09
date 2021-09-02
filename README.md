@@ -196,9 +196,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When I hear gypsy truck outside stopping in front of my house (East Europe)](http://9gag.com/gag/aQoWD8r)
- - 🚯 [This cafe is using flawless automated coffee serving system](http://9gag.com/gag/aGp46vn)
- - 🚯 [Chinese Gymnast Zhu Xueying Claims Her Gold Olympic Medal Is Peeling](http://9gag.com/gag/a6EYeNR)<!-- MEMES:END -->
+ - 🚖 [Oh boy...](http://9gag.com/gag/aK6oX5Q)
+ - 🚯 [It&#039;s not just a video game. It&#039;s a feels-game](http://9gag.com/gag/a5E095y)
+ - 🚯 [She got scarry tongue!](http://9gag.com/gag/aeA8qym)<!-- MEMES:END -->
 
 --- 
 
