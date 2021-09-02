@@ -197,8 +197,8 @@ Linux                    0 secs              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 🚖 [The country is Bulgaria](http://9gag.com/gag/aeA8RQb)
- - 🚯 [The real talent](http://9gag.com/gag/aYoXmVx)
- - 🚯 [Dirty boi.](http://9gag.com/gag/aDdeP3w)<!-- MEMES:END -->
+ - 🚯 [Why no weirdo defend Kanye West?](http://9gag.com/gag/ayMjz9X)
+ - 🚯 [The real talent](http://9gag.com/gag/aYoXmVx)<!-- MEMES:END -->
 
 --- 
 
