@@ -189,9 +189,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This chainless drive system could revolutionize e-bike designs](https://www.theverge.com/2021/9/2/22653697/schaeffler-free-drive-e-bike-system-chainless)
- - [WhatsApp faces $267M fine for breaching Europe’s GDPR](http://feedproxy.google.com/~r/Techcrunch/~3/GWHhIY1wj-Y/)
- - [Corelight secures $75M Series D to bolster its network defense offering](http://feedproxy.google.com/~r/Techcrunch/~3/lT-gS1IzW-s/)<!-- TECH:END -->
+ - [FTC bans spyware maker SpyFone, and orders it to notify hacked victims](http://feedproxy.google.com/~r/Techcrunch/~3/30MiFwTog2M/)
+ - [Apple’s AirPods Max are $80 off at Woot](https://www.theverge.com/good-deals/2021/9/2/22652060/apple-airpods-max-dji-mavic-mini-ipad-mini-logitech-mouse-deal-sale)
+ - [New Pixelmator Pro beta brings Shortcuts & macOS Monterey support](https://appleinsider.com/articles/21/09/02/pixelmator-pro-launches-beta-trial-of-shortcuts-monterey-support?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
