@@ -189,9 +189,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dallas-based Match Group creates a fund to help cover costs for staff and dependents who need care outside of Texas after the state's near-total ban on abortion (Jackie Davalos/Bloomberg)](http://www.techmeme.com/210902/p35#a210902p35)
- - [Save $30 on the new Echo Shows, plus more of the latest Amazon Echo deals](https://www.androidauthority.com/best-amazon-echo-deals-1109829/)
- - [Apple will ask before it targets you with its ads in iOS 15](https://www.theverge.com/2021/9/2/22654121/apple-personalized-ads-ios-15-prompt-app-tracking)<!-- TECH:END -->
+ - [Definitely not-CGI 'Ted Lasso' actor says he is a 'normal human man'](https://appleinsider.com/articles/21/09/02/definitely-not-cgi-ted-lasso-actor-says-he-is-a-normal-human-man?utm_medium=rss)
+ - [FAA grounds Virgin Galactic amidst investigation into July mission](http://feedproxy.google.com/~r/Techcrunch/~3/siUDZi25QEE/)
+ - [Should you buy a new iPhone this close to the 'iPhone 13' launch event?](https://appleinsider.com/articles/21/09/02/should-you-buy-a-new-iphone-this-close-to-the-iphone-13-launch-event?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
