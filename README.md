@@ -196,9 +196,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [New studies show this And experts say that](http://9gag.com/gag/aRXqOqQ)
- - 🚯 [This is a nightmare](http://9gag.com/gag/a7ERp3A)
- - 🚯 [It ain&#039;t much but it&#039;s honest work](http://9gag.com/gag/ad8DbOZ)<!-- MEMES:END -->
+ - 🚖 [Go to water realm](http://9gag.com/gag/a6EY8N2)
+ - 🚯 [The real talent](http://9gag.com/gag/aYoXmVx)
+ - 🚯 [Kaunas. Lithuania.](http://9gag.com/gag/abVnQPr)<!-- MEMES:END -->
 
 --- 
 
