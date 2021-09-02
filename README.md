@@ -182,9 +182,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Classic Final Fantasy games are coming to PlayStation Now](https://www.polygon.com/22654720/final-fantasy-franchise-playstation-now-7-8-remastered-9-10-12-the-zodiac-age)
- - [The Artful Escape, a Narrative Adventure Rock Opera Extraordinaire, is Available for Pre-Order Today](https://news.xbox.com/en-us/2021/09/02/the-artful-escape-available-for-pre-order/)
- - [Mario Kart 8 Speedrunner Has Nearly Perfected Blowing Himself Up](https://kotaku.com/mario-kart-8-speedrunner-has-nearly-perfected-blowing-h-1847609275)<!-- GAME:END -->
+ - [Craftopia (Game Preview) Available Now with Xbox Game Pass](https://news.xbox.com/en-us/2021/09/02/craftopia-game-preview-available-now-with-xbox-game-pass/)
+ - [Star Dynasties is now out of Early Access on Steam](https://www.pcgamer.com/star-dynasties-is-now-out-of-early-access-on-steam)
+ - [Seven Recent Gems Shown Off By Gaming’s Coolest Japanese Collective](https://kotaku.com/seven-recent-gems-shown-off-by-gaming-s-coolest-japanes-1847609362)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
