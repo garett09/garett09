@@ -189,9 +189,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple looking to Korea and Japan for 'Apple Car,' plans 2024 launch](https://appleinsider.com/articles/21/09/02/apple-looking-to-korea-and-japan-for-apple-car-plans-2024-launch?utm_medium=rss)
- - [FAA opens probe into anomaly on Richard Branson’s Virgin Galactic spaceflight](http://feedproxy.google.com/~r/Techcrunch/~3/R-6MNBUIDsQ/)
- - [SoftBank deepens commitment to LatAm with two new partners focused on early-stage investing](http://feedproxy.google.com/~r/Techcrunch/~3/2lPpZOeBDRI/)<!-- TECH:END -->
+ - [This chainless drive system could revolutionize e-bike designs](https://www.theverge.com/2021/9/2/22653697/schaeffler-free-drive-e-bike-system-chainless)
+ - [WhatsApp faces $267M fine for breaching Europe’s GDPR](http://feedproxy.google.com/~r/Techcrunch/~3/GWHhIY1wj-Y/)
+ - [Corelight secures $75M Series D to bolster its network defense offering](http://feedproxy.google.com/~r/Techcrunch/~3/lT-gS1IzW-s/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
