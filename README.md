@@ -196,9 +196,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This is so powerful!](http://9gag.com/gag/av5K4bq)
- - 🚯 [Here we go again](http://9gag.com/gag/aK6oZ3b)
- - 🚯 [Typical Skate Physics&hellip;](http://9gag.com/gag/a1r3nXD)<!-- MEMES:END -->
+ - 🚖 [Wink wink](http://9gag.com/gag/aRXq8rj)
+ - 🚯 [She got scarry tongue!](http://9gag.com/gag/aeA8qym)
+ - 🚯 [Oh boy...](http://9gag.com/gag/aK6oX5Q)<!-- MEMES:END -->
 
 --- 
 
