@@ -196,9 +196,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ellie is not that bright.](http://9gag.com/gag/arM7zpK)
- - 🚯 [Thief doesn&#039;t plan the theft well](http://9gag.com/gag/anQPdxn)
- - 🚯 [Dog is high as f**k](http://9gag.com/gag/aGp4NeZ)<!-- MEMES:END -->
+ - 🚖 [Insomnia? Don&#039;t forget to f**k yourself](http://9gag.com/gag/ajmeMrG)
+ - 🚯 [Instagram thots](http://9gag.com/gag/aRXqyBy)
+ - 🚯 [Always been in my bucket list.](http://9gag.com/gag/amP4d6o)<!-- MEMES:END -->
 
 --- 
 
