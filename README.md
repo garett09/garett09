@@ -182,9 +182,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Twitch’s Biggest Stars Keep Jumping To YouTube](https://kotaku.com/twitch-s-biggest-stars-keep-jumping-to-youtube-1847602222)
- - [#ADayOffTwitch protest makes a deep cut into Twitch viewership](https://www.pcgamer.com/adayofftwitch-protest-makes-a-deep-cut-into-twitch-viewership)
- - [QA Testing Games Like Dance Central Is Apparently Grueling And Smelly](https://kotaku.com/qa-testing-games-like-dance-central-is-apparently-gruel-1847601869)<!-- GAME:END -->
+ - [Call of Duty: Vanguard Turns Kiwi War Hero Into An Australian](https://kotaku.com/call-of-duty-vanguard-turns-kiwi-war-hero-into-an-aust-1847602819)
+ - [Dude Crashes Live TV Show, Demands Grand Theft Auto 6](https://kotaku.com/dude-crashes-live-tv-show-demands-grand-theft-auto-6-1847602452)
+ - [Korean MMO action-RPG Lost Ark has been delayed](https://www.pcgamer.com/korean-mmo-action-rpg-lost-ark-has-been-delayed)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
