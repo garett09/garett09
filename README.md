@@ -189,9 +189,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple will let 'reader' apps link to websites for account setup and management [u]](https://appleinsider.com/articles/21/09/02/apple-to-allow-external-account-management-links-in-reader-apps-to-close-japanese-antitrust-investigation?utm_medium=rss)
- - [Massachussetts AG greenlights Uber, Lyft-backed gig worker ballot initiative](http://feedproxy.google.com/~r/Techcrunch/~3/23tRNQvUObk/)
- - [Apple announces new settlement with Japan allowing developers to link to external websites](http://feedproxy.google.com/~r/Techcrunch/~3/PpAkMYFwrGM/)<!-- TECH:END -->
+ - [Samsung Galaxy S21 FE launch conundrum: New leak suggests October release](https://www.androidauthority.com/samsung-galaxy-s21-fe-pre-order-release-date-2746047/)
+ - [Check Point to buy Avanan, which provides tools for protecting cloud-based email and collaboration suites, source says the deal is valued between $250M-$300M (Michael Novinson/CRN)](http://www.techmeme.com/210901/p50#a210901p50)
+ - [Apple Wallet limits users to one Touch ID finger profile when authenticating state IDs](https://appleinsider.com/articles/21/09/02/apple-wallet-limits-users-to-one-touch-id-finger-profile-when-authenticating-state-ids?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
