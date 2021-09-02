@@ -189,9 +189,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Apple is facing an antitrust investigation in India over forcing developers to use its in-app payment system (Aditya Kalra/Reuters)](http://www.techmeme.com/210902/p9#a210902p9)
- - [Quick phrases could let you skip ‘Hey, Google’ for common tasks](https://www.theverge.com/2021/9/2/22653614/google-assistant-quick-phrases-guacamole-salsas-wake-word-phrase)
- - [Top Indian payments app PhonePe opens its data firehose to everyone](http://feedproxy.google.com/~r/Techcrunch/~3/vtpKpwW1BvU/)<!-- TECH:END -->
+ - [India set to investigate Apple over antitrust accusation](https://appleinsider.com/articles/21/09/02/india-set-to-investigate-apple-over-antitrust-accusation?utm_medium=rss)
+ - [Ireland's Data Protection Commission, on behalf of the EU, fines WhatsApp &euro;225M for privacy violations, the second-largest under GDPR; WhatsApp will appeal (Sam Schechner/Wall Street Journal)](http://www.techmeme.com/210902/p13#a210902p13)
+ - [Apple will let 'reader' apps link to websites for account setup & management](https://appleinsider.com/articles/21/09/02/apple-to-allow-external-account-management-links-in-reader-apps-to-close-japanese-antitrust-investigation?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
