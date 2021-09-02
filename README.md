@@ -189,9 +189,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Facebook Gaming expands its program that lets streamers play some copyrighted music during live streams from 1,000 to 100,000 streamers (Dean Takahashi/VentureBeat)](http://www.techmeme.com/210902/p33#a210902p33)
- - [Jeeves, which is building tools to help startups manage expenses, raises $57M Series B at a $500M valuation, after raising $31M equity and $100M debt in June (Mary Ann Azevedo/TechCrunch)](http://www.techmeme.com/210902/p32#a210902p32)
- - [Apple TV+ comedy 'Dickinson' to end after third season](https://appleinsider.com/articles/21/09/02/apple-tv-comedy-dickinson-to-end-after-third-season?utm_medium=rss)<!-- TECH:END -->
+ - [Dallas-based Match Group creates a fund to help cover costs for staff and dependents who need care outside of Texas after the state's near-total ban on abortion (Jackie Davalos/Bloomberg)](http://www.techmeme.com/210902/p35#a210902p35)
+ - [Save $30 on the new Echo Shows, plus more of the latest Amazon Echo deals](https://www.androidauthority.com/best-amazon-echo-deals-1109829/)
+ - [Apple will ask before it targets you with its ads in iOS 15](https://www.theverge.com/2021/9/2/22654121/apple-personalized-ads-ios-15-prompt-app-tracking)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
