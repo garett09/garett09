@@ -196,9 +196,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hyper hyper](http://9gag.com/gag/amP4K4j)
- - 🚯 [Best drift ever](http://9gag.com/gag/a07yGpQ)
- - 🚯 [Eastern european vibe during autumn](http://9gag.com/gag/amP4Kyd)<!-- MEMES:END -->
+ - 🚖 [I just watched Van Helsing (2004) and I got to say that movie has the best werewolf design ever](http://9gag.com/gag/awMWD3r)
+ - 🚯 [It&#039;s not just a video game. It&#039;s a feels-game](http://9gag.com/gag/a5E095y)
+ - 🚯 [Typical Skate Physics&hellip;](http://9gag.com/gag/a1r3nXD)<!-- MEMES:END -->
 
 --- 
 
