@@ -189,9 +189,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Definitely not-CGI 'Ted Lasso' actor says he is a 'normal human man'](https://appleinsider.com/articles/21/09/02/definitely-not-cgi-ted-lasso-actor-says-he-is-a-normal-human-man?utm_medium=rss)
- - [FAA grounds Virgin Galactic amidst investigation into July mission](http://feedproxy.google.com/~r/Techcrunch/~3/siUDZi25QEE/)
- - [Should you buy a new iPhone this close to the 'iPhone 13' launch event?](https://appleinsider.com/articles/21/09/02/should-you-buy-a-new-iphone-this-close-to-the-iphone-13-launch-event?utm_medium=rss)<!-- TECH:END -->
+ - [Twitch viewership dropped when streamers took a day off in protest](https://www.theverge.com/2021/9/2/22654534/streamers-twitch-walkout-viewership-drop)
+ - [Bigger 'Apple Watch Series 7' gives users 16% more pixels to play with](https://appleinsider.com/articles/21/09/02/apple-watch-series-7-to-sport-screen-with-16-more-pixels-than-past-model?utm_medium=rss)
+ - [Dom Hofmann's Loot, with NFTs of random lists of items ostensibly from a fantasy video game, had $46M in sales in just 5 days, attaining a market cap of $180M+ (Andrew Thurman/CoinDesk)](http://www.techmeme.com/210902/p40#a210902p40)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
