@@ -189,9 +189,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [UK now expects compliance with children’s privacy design code](http://feedproxy.google.com/~r/Techcrunch/~3/fCxuS3cVd5k/)
- - [Here are all the companies from Day Two of Y Combinator’s Summer 2021 Demo Day](http://feedproxy.google.com/~r/Techcrunch/~3/tXjwjoghxo8/)
- - [Apple offers hardware, funding to Texas Southern University in racial equity initiative](https://appleinsider.com/articles/21/09/01/apple-offers-hardware-funding-to-texas-southern-university-in-racial-equity-initiative?utm_medium=rss)<!-- TECH:END -->
+ - [Apple will let 'reader' apps link to websites for account setup and management](https://appleinsider.com/articles/21/09/02/apple-to-allow-external-account-management-links-in-reader-apps-to-close-japanese-antitrust-investigation?utm_medium=rss)
+ - [Best mattress for stomach sleepers 2021     - CNET](https://www.cnet.com/health/sleep/best-mattress-for-stomach-sleepers/#ftag=CAD590a51e)
+ - [Apple to let developers of "reader" apps worldwide link to a website to set up or manage accounts early next year, closing Japan's antitrust investigation (Apple)](http://www.techmeme.com/210901/p47#a210901p47)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
