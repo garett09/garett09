@@ -182,9 +182,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Y: The Last Man’s showrunner has a plan: five seasons and a monkey](https://www.polygon.com/22653023/y-the-last-man-seasons-comics)
- - [Original Transformers Cartoon Is Free On YouTube](https://kotaku.com/original-transformers-cartoon-is-free-on-youtube-1847605391)
- - [Pre-order Horizon Forbidden West now: Collector’s and Digital Deluxe Editions detailed](http://feedproxy.google.com/~r/PSBlog/~3/z-Eay33r1HQ/)<!-- GAME:END -->
+ - [Where to find Golden Koi and get The Catch polearm in Genshin Impact](https://www.pcgamer.com/genshin-impact-golden-koi-location-the-catch-polearm)
+ - [New Pokémon anime looks really serious, except for Ball Guy](https://www.polygon.com/22653864/pokemon-anime-evolutions-25th-anniversary-streaming-youtube)
+ - [5 Final Fantasy games coming to PlayStation Now starting this month](http://feedproxy.google.com/~r/PSBlog/~3/rws8wvhK2cY/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
