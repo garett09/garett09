@@ -182,9 +182,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Boyfriend Dungeon's Great Story Wouldn't Work Without Its Most Controversial Character](https://kotaku.com/boyfriend-dungeons-great-story-wouldnt-work-without-its-1847607513)
- - [Pokémon Go in-person Safari Zone events will return](https://www.polygon.com/22654351/pokemon-go-safari-zone-dates-philadelphia-liverpool-st-louis-2021)
- - [Crysis Remastered Trilogy gets an October release date](https://www.pcgamer.com/crysis-remastered-trilogy-gets-an-october-release-date)<!-- GAME:END -->
+ - [Marvel’s Midnight Suns gameplay reveal](https://blog.playstation.com/2021/09/02/marvels-midnight-suns-gameplay-reveal/)
+ - [The moon is super pissed in disaster movie master Roland Emmerich’s next film](https://www.polygon.com/22654480/moonfall-movie-trailer-roland-emmerich)
+ - [505 Games Turns 15](https://news.xbox.com/en-us/2021/09/02/505-games-turns-15/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
