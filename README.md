@@ -196,9 +196,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Feelia](http://9gag.com/gag/a1r3qAY)
- - 🚯 [This Happens A Lot In Aaa Game Development](http://9gag.com/gag/aK6oNA6)
- - 🚯 [I wish im rich..](http://9gag.com/gag/aGp4N7n)<!-- MEMES:END -->
+ - 🚖 [Shat a brick](http://9gag.com/gag/aQoWBAz)
+ - 🚯 [Hyper hyper](http://9gag.com/gag/amP4K4j)
+ - 🚯 [Best day](http://9gag.com/gag/aGp46zZ)<!-- MEMES:END -->
 
 --- 
 
