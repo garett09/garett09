@@ -189,9 +189,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: YouTube Music reached 50M paying subscribers in August, up from 30M paid music and premium subscribers that YouTube had reported in October 2020 (Anna Nicolaou/Financial Times)](http://www.techmeme.com/210902/p1#a210902p1)
- - [Latest Galaxy Watch 4 update bring Samsung Health to settings and more](https://www.androidauthority.com/samsung-galaxy-watch-4-updates-2746069/)
- - [Twitter's 'Safety Mode' aims to reduce exposure to harmful language, spam](https://appleinsider.com/articles/21/09/02/twitters-safety-mode-aims-to-reduce-harmful-language-spam?utm_medium=rss)<!-- TECH:END -->
+ - [Realme GT review: Leading design, specs to match](https://www.androidauthority.com/realme-gt-review-2735108/)
+ - [French grocery delivery startup Cajoo raises $40M Series A from investors including Carrefour, and plans expansion into Europe early next year (Amy Lewin/Sifted)](http://www.techmeme.com/210902/p3#a210902p3)
+ - [Samsung announces 200-megapixel phone camera sensor](https://www.theverge.com/2021/9/2/22653558/samsung-isocell-hp1-gn5-200-megapixel-camera-sensor-announced)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
