@@ -182,9 +182,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Craftopia (Game Preview) Available Now with Xbox Game Pass](https://news.xbox.com/en-us/2021/09/02/craftopia-game-preview-available-now-with-xbox-game-pass/)
- - [Star Dynasties is now out of Early Access on Steam](https://www.pcgamer.com/star-dynasties-is-now-out-of-early-access-on-steam)
- - [Seven Recent Gems Shown Off By Gaming’s Coolest Japanese Collective](https://kotaku.com/seven-recent-gems-shown-off-by-gaming-s-coolest-japanes-1847609362)<!-- GAME:END -->
+ - [No Man's Sky Frontiers: How to find a settlement on your home planet](https://www.pcgamer.com/no-mans-sky-frontiers-how-to-find-a-settlement-on-your-home-planet)
+ - [Best cheap gaming PC right now](https://www.pcgamer.com/best-cheap-gaming-pc)
+ - [Cheap gaming laptop deals this week](https://www.pcgamer.com/gaming-laptop-deals)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
