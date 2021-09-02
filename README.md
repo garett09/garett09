@@ -189,9 +189,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: YouTube Music reached 50M paying subscribers in August, up from 30M paid music and premium subscribers that YouTube had reported in October 2020 (Anna Nicolaou/Financial Times)](http://www.techmeme.com/210902/p1#a210902p1)
  - [Latest Galaxy Watch 4 update bring Samsung Health to settings and more](https://www.androidauthority.com/samsung-galaxy-watch-4-updates-2746069/)
- - [Twitter's 'Safety Mode' aims to reduce exposure to harmful language, spam](https://appleinsider.com/articles/21/09/02/twitters-safety-mode-aims-to-reduce-harmful-language-spam?utm_medium=rss)
- - [Apple previews Changsha store in China ahead of grand opening on Sept. 4](https://appleinsider.com/articles/21/09/02/apple-previews-changsha-store-in-china-ahead-of-grand-opening-on-sept-4?utm_medium=rss)<!-- TECH:END -->
+ - [Twitter's 'Safety Mode' aims to reduce exposure to harmful language, spam](https://appleinsider.com/articles/21/09/02/twitters-safety-mode-aims-to-reduce-harmful-language-spam?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
