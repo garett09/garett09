@@ -196,9 +196,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Thief doesn&#039;t plan the theft well](http://9gag.com/gag/anQPdxn)
- - 🚯 [A True Champion Retired Today! Kimi R&auml;ikk&ouml;nen You Will Be Missed](http://9gag.com/gag/aV7yBz2)
- - 🚯 [Dirty boi.](http://9gag.com/gag/aDdeP3w)<!-- MEMES:END -->
+ - 🚖 [Ellie is not that bright.](http://9gag.com/gag/arM7zpK)
+ - 🚯 [Thief doesn&#039;t plan the theft well](http://9gag.com/gag/anQPdxn)
+ - 🚯 [Dog is high as f**k](http://9gag.com/gag/aGp4NeZ)<!-- MEMES:END -->
 
 --- 
 
