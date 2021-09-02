@@ -189,9 +189,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gamesight data shows a dip in Twitch viewership on Wednesday, possibly 5%-15%, as some streamers took #ADayOffTwitch to bring awareness to "hate raids" (Ash Parrish/The Verge)](http://www.techmeme.com/210902/p41#a210902p41)
- - [Apple must face class action lawsuit over Siri privacy intrusions](https://appleinsider.com/articles/21/09/02/apple-must-face-class-action-lawsuit-over-siri-privacy-intrusions?utm_medium=rss)
- - [Twitter’s Super Follows could run into an App Store problem](https://www.theverge.com/2021/9/2/22654495/twitter-super-follow-in-app-purchases-ios)<!-- TECH:END -->
+ - [Daily Crunch: 8 Indian banks launch Account Aggregator to centralize consumers’ financial data](http://feedproxy.google.com/~r/Techcrunch/~3/SL2XhZHTY1w/)
+ - [Apple stock hits $153.65 to close at all-time high](https://appleinsider.com/articles/21/09/02/apple-stock-hits-15365-to-close-at-all-time-high?utm_medium=rss)
+ - [Sources: Reddit is seeking to hire investment bankers and lawyers ahead of an IPO that may occur as soon as early 2022, following a $10B valuation in August (Anirban Sen/Reuters)](http://www.techmeme.com/210902/p42#a210902p42)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
