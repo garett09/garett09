@@ -196,9 +196,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Go to water realm](http://9gag.com/gag/a6EY8N2)
+ - 🚖 [The country is Bulgaria](http://9gag.com/gag/aeA8RQb)
  - 🚯 [The real talent](http://9gag.com/gag/aYoXmVx)
- - 🚯 [Kaunas. Lithuania.](http://9gag.com/gag/abVnQPr)<!-- MEMES:END -->
+ - 🚯 [Dirty boi.](http://9gag.com/gag/aDdeP3w)<!-- MEMES:END -->
 
 --- 
 
