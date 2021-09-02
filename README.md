@@ -182,9 +182,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Where to find Golden Koi and get The Catch polearm in Genshin Impact](https://www.pcgamer.com/genshin-impact-golden-koi-location-the-catch-polearm)
- - [New Pokémon anime looks really serious, except for Ball Guy](https://www.polygon.com/22653864/pokemon-anime-evolutions-25th-anniversary-streaming-youtube)
- - [5 Final Fantasy games coming to PlayStation Now starting this month](http://feedproxy.google.com/~r/PSBlog/~3/rws8wvhK2cY/)<!-- GAME:END -->
+ - [Nvidia's next mining GPU appears to be a passively cooled monster](https://www.pcgamer.com/nvidias-next-mining-gpu-appears-to-be-a-passively-cooled-monster)
+ - [Netflix’s Q-Force continues the Marvelification of queer culture](https://www.polygon.com/22654092/q-force-review-netflix-queer-culture)
+ - [Asphalt 9: Legends Now Available for Free on Xbox One and Xbox Series X|S](https://news.xbox.com/en-us/2021/09/02/asphalt-9-legends-now-available-for-free/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
