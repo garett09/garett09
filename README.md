@@ -182,9 +182,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Welcome to Wariogon — a monthlong Wario celebration](https://www.polygon.com/wario/22634467/wario-monthy-wariogon-warioware-land-party-kart-tennis-mario)
- - [Everything you need to know about Wario](https://www.polygon.com/wario/22631028/wario-faq-everything-you-need-to-know-nintendo-mario)
- - [Enter for Your Chance to Win a Custom Far Cry 6 Xbox Series X](https://news.xbox.com/en-us/2021/09/02/enter-for-your-chance-to-win-a-custom-far-cry-6-xbox-series-x/)<!-- GAME:END -->
+ - [Boyfriend Dungeon's Great Story Wouldn't Work Without Its Most Controversial Character](https://kotaku.com/boyfriend-dungeons-great-story-wouldnt-work-without-its-1847607513)
+ - [Pokémon Go in-person Safari Zone events will return](https://www.polygon.com/22654351/pokemon-go-safari-zone-dates-philadelphia-liverpool-st-louis-2021)
+ - [Crysis Remastered Trilogy gets an October release date](https://www.pcgamer.com/crysis-remastered-trilogy-gets-an-october-release-date)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
