@@ -196,9 +196,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Insomnia? Don&#039;t forget to f**k yourself](http://9gag.com/gag/ajmeMrG)
+ - 🚖 [This Happens A Lot In Aaa Game Development](http://9gag.com/gag/aK6oNA6)
  - 🚯 [Take note, Karens](http://9gag.com/gag/axMqnyL)
- - 🚯 [Dog is high as f**k](http://9gag.com/gag/aGp4NeZ)<!-- MEMES:END -->
+ - 🚯 [Subway waterfall](http://9gag.com/gag/aGp4NZG)<!-- MEMES:END -->
 
 --- 
 
