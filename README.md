@@ -197,7 +197,7 @@ Linux                    0 secs              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 🚖 [This is so powerful!](http://9gag.com/gag/av5K4bq)
- - 🚯 [Nature&#039;s beauty...](http://9gag.com/gag/a6EYzEN)
+ - 🚯 [Here we go again](http://9gag.com/gag/aK6oZ3b)
  - 🚯 [Typical Skate Physics&hellip;](http://9gag.com/gag/a1r3nXD)<!-- MEMES:END -->
 
 --- 
