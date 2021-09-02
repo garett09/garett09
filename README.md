@@ -189,9 +189,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Moonfall is a disaster movie about the Moon falling](https://www.theverge.com/2021/9/2/22654021/moonfall-trailer-date-halle-berry-roland-emmerich)
- - [Elon Musk warns the Tesla Roadster might not ship until at least 2023](http://feedproxy.google.com/~r/Techcrunch/~3/rQpCUe20-wI/)
- - [Panorama raises $60M in General Atlantic-led Series C to help schools better understand students](http://feedproxy.google.com/~r/Techcrunch/~3/IIK3e8Ciqs4/)<!-- TECH:END -->
+ - [Twitter has plans to let users hide their old tweets](https://www.theverge.com/2021/9/2/22654061/twitter-features-archive-old-tweets-hide-likes-remove-followers-plans)
+ - [Callin, a social audio app founded by David Sacks that offers tools for turning live recordings into podcasts, raises $12M Series A led by Sequoia and others (Amanda Silberling/TechCrunch)](http://www.techmeme.com/210902/p29#a210902p29)
+ - [Totally real actor who plays Roy Kent responds to conspiracy theory that he is CGI](https://www.theverge.com/tldr/2021/9/1/22652236/ted-lasso-roy-kent-cgi-conspiracy-theory)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
