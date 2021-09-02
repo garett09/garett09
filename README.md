@@ -182,9 +182,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The Sable demo is back for a limited time](https://www.pcgamer.com/the-sable-demo-is-back-for-a-limited-time)
  - [Naraka: Bladepoint review](https://www.pcgamer.com/naraka-bladepoint-review)
- - [Call of Duty: Vanguard Turns Kiwi War Hero Into An Australian](https://kotaku.com/call-of-duty-vanguard-turns-kiwi-war-hero-into-an-aust-1847602819)
- - [Dude Crashes Live TV Show, Demands Grand Theft Auto 6](https://kotaku.com/dude-crashes-live-tv-show-demands-grand-theft-auto-6-1847602452)<!-- GAME:END -->
+ - [Call of Duty: Vanguard Turns Kiwi War Hero Into An Australian](https://kotaku.com/call-of-duty-vanguard-turns-kiwi-war-hero-into-an-aust-1847602819)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
