@@ -189,9 +189,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [India set to investigate Apple over antitrust accusation](https://appleinsider.com/articles/21/09/02/india-set-to-investigate-apple-over-antitrust-accusation?utm_medium=rss)
- - [Ireland's Data Protection Commission, on behalf of the EU, fines WhatsApp &euro;225M for privacy violations, the second-largest under GDPR; WhatsApp will appeal (Sam Schechner/Wall Street Journal)](http://www.techmeme.com/210902/p13#a210902p13)
- - [Apple will let 'reader' apps link to websites for account setup & management](https://appleinsider.com/articles/21/09/02/apple-to-allow-external-account-management-links-in-reader-apps-to-close-japanese-antitrust-investigation?utm_medium=rss)<!-- TECH:END -->
+ - [Apple looking to Korea and Japan for 'Apple Car,' plans 2024 launch](https://appleinsider.com/articles/21/09/02/apple-looking-to-korea-and-japan-for-apple-car-plans-2024-launch?utm_medium=rss)
+ - [FAA opens probe into anomaly on Richard Branson’s Virgin Galactic spaceflight](http://feedproxy.google.com/~r/Techcrunch/~3/R-6MNBUIDsQ/)
+ - [SoftBank deepens commitment to LatAm with two new partners focused on early-stage investing](http://feedproxy.google.com/~r/Techcrunch/~3/2lPpZOeBDRI/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
