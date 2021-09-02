@@ -189,9 +189,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy S21 FE launch conundrum: New leak suggests October release](https://www.androidauthority.com/samsung-galaxy-s21-fe-pre-order-release-date-2746047/)
- - [Check Point to buy Avanan, which provides tools for protecting cloud-based email and collaboration suites, source says the deal is valued between $250M-$300M (Michael Novinson/CRN)](http://www.techmeme.com/210901/p50#a210901p50)
- - [Apple Wallet limits users to one Touch ID finger profile when authenticating state IDs](https://appleinsider.com/articles/21/09/02/apple-wallet-limits-users-to-one-touch-id-finger-profile-when-authenticating-state-ids?utm_medium=rss)<!-- TECH:END -->
+ - [Latest Galaxy Watch 4 update bring Samsung Health to settings and more](https://www.androidauthority.com/samsung-galaxy-watch-4-updates-2746069/)
+ - [Twitter's 'Safety Mode' aims to reduce exposure to harmful language, spam](https://appleinsider.com/articles/21/09/02/twitters-safety-mode-aims-to-reduce-harmful-language-spam?utm_medium=rss)
+ - [Apple previews Changsha store in China ahead of grand opening on Sept. 4](https://appleinsider.com/articles/21/09/02/apple-previews-changsha-store-in-china-ahead-of-grand-opening-on-sept-4?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
