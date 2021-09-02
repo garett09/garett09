@@ -196,9 +196,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Yikesn&#039;t](http://9gag.com/gag/a1r3BLR)
- - 🚯 [Men living their life](http://9gag.com/gag/aDderRG)
- - 🚯 [Dave Chappelle on what&#039;s important in life.](http://9gag.com/gag/aGp46jn)<!-- MEMES:END -->
+ - 🚖 [This cafe is using flawless automated coffee serving system](http://9gag.com/gag/aGp46vn)
+ - 🚯 [Best day](http://9gag.com/gag/aGp46zZ)
+ - 🚯 [Wink wink](http://9gag.com/gag/aRXq8rj)<!-- MEMES:END -->
 
 --- 
 
