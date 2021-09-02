@@ -196,9 +196,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Friends for life](http://9gag.com/gag/aQoWr0w)
- - 🚯 [Feelia](http://9gag.com/gag/a1r3qAY)
- - 🚯 [When the artist is the waifu](http://9gag.com/gag/a3EXeL8)<!-- MEMES:END -->
+ - 🚖 [Feelia](http://9gag.com/gag/a1r3qAY)
+ - 🚯 [This Happens A Lot In Aaa Game Development](http://9gag.com/gag/aK6oNA6)
+ - 🚯 [I wish im rich..](http://9gag.com/gag/aGp4N7n)<!-- MEMES:END -->
 
 --- 
 
