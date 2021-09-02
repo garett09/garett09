@@ -189,9 +189,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [LGBTQ activists say UK's Online Safety Bill could provide the legal basis for censorship of LGBTQ content and say ending online anonymity could harm queer users (Benjamin Butterworth/inews.co.uk)](http://www.techmeme.com/210902/p7#a210902p7)
- - [300+ organizations are urging the EU to redefine key terms in the draft AI Act, asking to label more AI systems as high risk and ban some forms of AI entirely (Khari Johnson/Wired)](http://www.techmeme.com/210902/p6#a210902p6)
- - [You told us: Most of you are open to trading battery life for an S Pen slot](https://www.androidauthority.com/battery-life-s-pen-slot-poll-2741655/)<!-- TECH:END -->
+ - [Top Indian payments app PhonePe opens its data firehose to everyone](http://feedproxy.google.com/~r/Techcrunch/~3/vtpKpwW1BvU/)
+ - [iPhone inside 30 mins? Germany’s Arive brings consumer brands to your door, raises €6M](http://feedproxy.google.com/~r/Techcrunch/~3/r1PoOBXrp2A/)
+ - [Qualcomm’s next smartwatch chipset could be slower than first rumored](https://www.androidauthority.com/qualcomm-snapdragon-wear-5100-specs-2746118/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
