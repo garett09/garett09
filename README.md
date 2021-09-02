@@ -196,9 +196,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This Happens A Lot In Aaa Game Development](http://9gag.com/gag/aK6oNA6)
- - 🚯 [Take note, Karens](http://9gag.com/gag/axMqnyL)
- - 🚯 [Subway waterfall](http://9gag.com/gag/aGp4NZG)<!-- MEMES:END -->
+ - 🚖 [The hero that we need.](http://9gag.com/gag/a3EXpWr)
+ - 🚯 [Men living their life](http://9gag.com/gag/aDderRG)
+ - 🚯 [Radicalize my children](http://9gag.com/gag/a4EOxXw)<!-- MEMES:END -->
 
 --- 
 
