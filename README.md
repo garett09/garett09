@@ -182,9 +182,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Blizzard just delivered a masterclass in how not to announce a game](https://www.pcgamer.com/blizzard-mercenaries-announcement)
- - [A Deadly Defender Joins Hood’s Outlaws for Season One: Samhain](https://news.xbox.com/en-us/2021/09/02/deadly-defender-joins-hoods-outlaws-for-season-one/)
- - [Far Cry 6 won't require a high-end PC to play](https://www.pcgamer.com/far-cry-6-wont-require-a-high-end-pc-to-play)<!-- GAME:END -->
+ - [Classic Final Fantasy games are coming to PlayStation Now](https://www.polygon.com/22654720/final-fantasy-franchise-playstation-now-7-8-remastered-9-10-12-the-zodiac-age)
+ - [The Artful Escape, a Narrative Adventure Rock Opera Extraordinaire, is Available for Pre-Order Today](https://news.xbox.com/en-us/2021/09/02/the-artful-escape-available-for-pre-order/)
+ - [Mario Kart 8 Speedrunner Has Nearly Perfected Blowing Himself Up](https://kotaku.com/mario-kart-8-speedrunner-has-nearly-perfected-blowing-h-1847609275)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
