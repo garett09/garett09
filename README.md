@@ -196,8 +196,8 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [She got scarry tongue!](http://9gag.com/gag/aeA8qym)
- - 🚯 [Oh boy...](http://9gag.com/gag/aK6oX5Q)
+ - 🚖 [Oh boy...](http://9gag.com/gag/aK6oX5Q)
+ - 🚯 [It&#039;s not OCD but just being careful](http://9gag.com/gag/aDde9yK)
  - 🚯 [Best drift ever](http://9gag.com/gag/a07yGpQ)<!-- MEMES:END -->
 
 --- 
