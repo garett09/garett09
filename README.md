@@ -196,8 +196,8 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Golden Era of Morality](http://9gag.com/gag/aB2B7vP)
- - 🚯 [QUICK! Americans are asleep, upvote real bread.](http://9gag.com/gag/aoMQbm2)
+ - 🚖 [QUICK! Americans are asleep, upvote real bread.](http://9gag.com/gag/aoMQbm2)
+ - 🚯 [Patient thought she seen a ghost](http://9gag.com/gag/aQoWLYr)
  - 🚯 [Rev up the engine](http://9gag.com/gag/aoMQbNx)<!-- MEMES:END -->
 
 --- 
