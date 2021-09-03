@@ -189,9 +189,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Texas' abortion law creates legal challenges for tech companies, such as subpoenas requesting user data, giving rides to clinics, hosting pro-choice content (Issie Lapowsky/Protocol)](http://www.techmeme.com/210902/p43#a210902p43)
- - [Instagram is down, Facebook is working on it [u]](https://appleinsider.com/articles/21/09/02/instagram-is-down-facebook-is-working-on-it?utm_medium=rss)
- - [Apple stock hits $153.65 to close at all-time high](https://appleinsider.com/articles/21/09/02/apple-stock-hits-15365-to-close-at-all-time-high?utm_medium=rss)<!-- TECH:END -->
+ - [US National Labor Relations Board investigating two Apple employee complaints](https://appleinsider.com/articles/21/09/03/us-national-labor-relations-board-investigating-two-apple-employee-complaints?utm_medium=rss)
+ - [Amazon is reportedly planning to release an Amazon-branded TV as soon as October](https://www.theverge.com/2021/9/2/22655016/amazon-branded-tv-television-tcl)
+ - [Sources: Amazon will launch its own TV featuring Alexa software and without third-party manufacturer branding in the US, possibly as soon as October (Insider)](http://www.techmeme.com/210902/p45#a210902p45)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
