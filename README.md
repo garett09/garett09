@@ -189,9 +189,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lyft will cover legal fees for drivers sued under Texas' new abortion law for transporting women to abortion clinics, and donates $1M to Planned Parenthood (Jessica Bursztynsky/CNBC)](http://www.techmeme.com/210903/p16#a210903p16)
- - [Apple Wallet ID, 'iPhone 13' satellite support, AirPods Max long-term on the AppleInsider podcast](https://appleinsider.com/articles/21/09/03/apple-wallet-for-id-iphone-13-satellite-support-and-airpods-max-long-term-review-on-the-appleinsider-podcast?utm_medium=rss)
- - [GoDaddy says it gave Texas Right to Life, an abortion "whistleblower" website, 24 hours to find a new hosting provider before cutting off service (Nicole Perlroth/New York Times)](http://www.techmeme.com/210903/p15#a210903p15)<!-- TECH:END -->
+ - [Nintendo is reportedly set to bring Game Boy and Game Boy Color games to Switch Online](https://www.theverge.com/2021/9/3/22656353/nintendo-game-boy-game-boy-color-games-switch-online-subscription)
+ - [Make accessibility part of your startup’s products and culture from day one](http://feedproxy.google.com/~r/Techcrunch/~3/vfMnrSrbOEs/)
+ - [Apple employees demand change in open letter to Tim Cook     - CNET](https://www.cnet.com/news/apple-employees-demand-change-in-open-letter-to-tim-cook/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
