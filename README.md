@@ -189,9 +189,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Labor Day deals happening now](https://www.theverge.com/good-deals/22652876/best-labor-day-sales-2021-tech-deals-tvs-laptops-headphones)
- - [Christopher Lloyd plays Rick Sanchez in new Rick and Morty promo](https://www.theverge.com/2021/9/3/22655890/rick-morty-christopher-lloyd-season-five-finale)
- - [‘Final Girls’ Make the Best Horror Movie Heroes](https://www.wired.com/2021/09/geeks-guide-final-girls)<!-- TECH:END -->
+ - [US Commerce Dept. says it will close a unit that monitored Americans' social media for Census disinformation, after finding it had overstepped its authority (Kim Lyons/The Verge)](http://www.techmeme.com/210903/p12#a210903p12)
+ - [The best webcam to buy right now](https://www.theverge.com/22652783/best-webcam-camera)
+ - [Apple Backs Down on Its Controversial Photo-Scanning Plans](https://www.wired.com/story/apple-icloud-photo-scan-csam-pause-backlash)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
