@@ -196,8 +196,8 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [That kitchen...](http://9gag.com/gag/aEpm9dO)
- - 🚯 [When Bully gets Bullied](http://9gag.com/gag/apNZONM)
+ - 🚖 [80085](http://9gag.com/gag/aQoWGd2)
+ - 🚯 [The true size of blackhole](http://9gag.com/gag/aRXqbBA)
  - 🚯 [Well, fair enough](http://9gag.com/gag/aQoWLOK)<!-- MEMES:END -->
 
 --- 
