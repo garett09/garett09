@@ -182,9 +182,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Stop whatever you're doing and look at this incredible Minecraft world built inside a block](https://www.pcgamer.com/stop-whatever-youre-doing-and-look-at-this-incredible-minecraft-world-built-inside-a-block)
- - [The Outlast Trials “is like a TV series,” offering new challenges for players and developer alike](http://feedproxy.google.com/~r/PSBlog/~3/7DEP5XeNPtY/)
- - [The Outlast Trials “is like a TV series,” offering new challenges for players and developer alike](https://blog.playstation.com/2021/09/03/the-outlast-trials-is-like-a-tv-series-offering-new-challenges-for-players-and-developer-alike/)<!-- GAME:END -->
+ - [Despite AMD CPU patch, researchers highlight more exploits could be incoming](https://www.pcgamer.com/despite-amd-cpu-patch-researchers-highlight-more-exploits-could-be-incoming)
+ - [Share of the Week: Ghost of Tsushima Director’s Cut – Iki Island](http://feedproxy.google.com/~r/PSBlog/~3/JnHfOseRvNo/)
+ - [Share of the Week: Ghost of Tsushima Director’s Cut – Iki Island](https://blog.playstation.com/2021/09/03/share-of-the-week-ghost-of-tsushima-directors-cut-iki-island/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
