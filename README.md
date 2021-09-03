@@ -196,9 +196,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The true size of blackhole](http://9gag.com/gag/aRXqbBA)
+ - 🚖 [QUICK! Americans are asleep, upvote real bread.](http://9gag.com/gag/aoMQbm2)
  - 🚯 [Well, fair enough](http://9gag.com/gag/aQoWLOK)
- - 🚯 [Lamborghini Murci&eacute;lago driver loses control on a mountain road](http://9gag.com/gag/aDdeyPx)<!-- MEMES:END -->
+ - 🚯 [In Italy 9 guys recreated the fellowship and they are walking across the country to throw a ring into the Vesuvius](http://9gag.com/gag/av5KMQd)<!-- MEMES:END -->
 
 --- 
 
