@@ -182,9 +182,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best Australian PC gaming deals this week](https://www.pcgamer.com/best-australian-pc-gaming-deals)
- - [Lost Judgment's New DLC Is Very, Very Interesting For The Future Of The Series](https://kotaku.com/lost-judgments-new-dlc-is-very-very-interesting-for-th-1847611454)
- - [You can play Watch Dogs Legion for free this weekend](https://www.pcgamer.com/you-can-play-watch-dogs-legion-for-free-this-weekend)<!-- GAME:END -->
+ - [Apex Legends developer explains why a fan-favourite movement trick has to die](https://www.pcgamer.com/apex-legends-developer-explains-why-a-fan-favourite-movement-trick-has-to-die)
+ - [Stardew Valley meets Pokémon in creature farming sim Monster Harvest](https://www.pcgamer.com/stardew-valley-meets-pokemon-in-creature-farming-sim-monster-harvest)
+ - [Global Chip Shortage Will Continue For Another Year](https://kotaku.com/global-chip-shortage-will-continue-for-another-year-1847611936)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
