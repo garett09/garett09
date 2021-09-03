@@ -182,9 +182,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Battlefield 2042's new specialists gameplay reminds me a lot of Team Fortress 2](https://www.pcgamer.com/battlefield-2042s-new-specialists-gameplay-reminds-me-a-lot-of-team-fortress-2)
- - [Worth, Jungle Cruise, Afterlife of the Party and every new movie you can watch at home this weekend](https://www.polygon.com/2021/9/3/22648153/jungle-cruise-watch-netflix-afterlife-of-the-party-new-movies)
- - [Genshin Impact Gives Aloy The World She Deserves](https://kotaku.com/genshin-impact-gives-aloy-the-world-she-deserves-1847616643)<!-- GAME:END -->
+ - [More Tips Than You Probably Need For The Quake Remaster](https://kotaku.com/more-tips-than-you-probably-need-for-the-quake-remaster-1847616427)
+ - [Every version of Windows, ranked from worst to best](https://www.pcgamer.com/best-windows-versions)
+ - [Battlefield 2042's new specialists gameplay reminds me a lot of Team Fortress 2](https://www.pcgamer.com/battlefield-2042s-new-specialists-gameplay-reminds-me-a-lot-of-team-fortress-2)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
