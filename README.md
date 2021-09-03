@@ -182,9 +182,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Apex Legends developer explains why a fan-favourite movement trick has to die](https://www.pcgamer.com/apex-legends-developer-explains-why-a-fan-favourite-movement-trick-has-to-die)
- - [Stardew Valley meets Pokémon in creature farming sim Monster Harvest](https://www.pcgamer.com/stardew-valley-meets-pokemon-in-creature-farming-sim-monster-harvest)
- - [Global Chip Shortage Will Continue For Another Year](https://kotaku.com/global-chip-shortage-will-continue-for-another-year-1847611936)<!-- GAME:END -->
+ - [Beat This Dentist At Smash Bros., Get A Free Teeth Cleaning](https://kotaku.com/beat-this-dentist-at-smash-bros-get-a-free-teeth-clea-1847612016)
+ - [Best cheap gaming chair: Snapshot guide](https://www.pcgamer.com/cheap-gaming-chair-should-i-buy)
+ - [Apex Legends developer explains why a fan-favourite movement trick has to die](https://www.pcgamer.com/apex-legends-developer-explains-why-a-fan-favourite-movement-trick-has-to-die)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
