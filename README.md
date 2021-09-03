@@ -189,9 +189,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft may have just revealed Android app support for Xbox](https://www.androidauthority.com/android-app-support-xbox-2746085/)
- - [WhatsApp asked to pay a whopping $267 million fine for breaking privacy laws](https://www.androidauthority.com/whatsapp-privacy-fine-2746633/)
- - [Dead star collision causes stellar explosion like nothing seen before     - CNET](https://www.cnet.com/news/dead-star-collision-causes-stellar-explosion-like-nothing-seen-before/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Xiaomi packs 50MP camera, 90Hz screen, and a big battery in latest budget phone](https://www.androidauthority.com/xiaomi-redmi-10-prime-2746681/)
+ - [Amazon could launch its own Alexa-powered TV in the US very soon](https://www.androidauthority.com/amazon-tv-us-2746680/)
+ - [For VCs, the game right now is musical chairs](http://feedproxy.google.com/~r/Techcrunch/~3/8DwCyurX77w/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
