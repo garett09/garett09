@@ -196,9 +196,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A bit funny, if unexpected](http://9gag.com/gag/aQoW59K)
- - 🚯 [In case you ever wondered. Now go and spend some blood!](http://9gag.com/gag/aRXqd6A)
- - 🚯 [Techno Viking rare footage](http://9gag.com/gag/aYoX5jw)<!-- MEMES:END -->
+ - 🚖 [Techno Viking rare footage](http://9gag.com/gag/aYoX5jw)
+ - 🚯 [Flooded basement quickly becomes an ocean](http://9gag.com/gag/aZ0O5ez)
+ - 🚯 [It&#039;s not OCD but just being careful](http://9gag.com/gag/aDde9yK)<!-- MEMES:END -->
 
 --- 
 
