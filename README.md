@@ -196,9 +196,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Scammers be scammed.](http://9gag.com/gag/a5E03QV)
- - 🚯 [Monarchy Vs Democracy](http://9gag.com/gag/axMqrPY)
- - 🚯 [Dude gets caught on tv with his side chick.](http://9gag.com/gag/axMqwo2)<!-- MEMES:END -->
+ - 🚖 [Genetics are cruel for men](http://9gag.com/gag/a07y3gO)
+ - 🚯 [Post titties....](http://9gag.com/gag/aDdevLB)
+ - 🚯 [Flooded basement quickly becomes an ocean](http://9gag.com/gag/aZ0O5ez)<!-- MEMES:END -->
 
 --- 
 
