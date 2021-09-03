@@ -196,9 +196,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How to find water at barren lands ?](http://9gag.com/gag/aMKMMnG)
- - 🚯 [Yes.](http://9gag.com/gag/a4EOOKQ)
- - 🚯 [Blocklaying technique](http://9gag.com/gag/a4EO0O6)<!-- MEMES:END -->
+ - 🚖 [Blocklaying technique](http://9gag.com/gag/a4EO0O6)
+ - 🚯 [Most men will receive their first bunch of flowers at their funeral](http://9gag.com/gag/a4EO0ep)
+ - 🚯 [Why don&#039;t americans build houses to withstand the weather they have every year instead out of chipboard.](http://9gag.com/gag/av5KKbn)<!-- MEMES:END -->
 
 --- 
 
