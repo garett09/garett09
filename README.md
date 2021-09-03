@@ -182,9 +182,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [No Man's Sky Frontiers: How to find a settlement on your home planet](https://www.pcgamer.com/no-mans-sky-frontiers-how-to-find-a-settlement-on-your-home-planet)
- - [Best cheap gaming PC right now](https://www.pcgamer.com/best-cheap-gaming-pc)
- - [Cheap gaming laptop deals this week](https://www.pcgamer.com/gaming-laptop-deals)<!-- GAME:END -->
+ - [VTuber Explains Twitch Protest To Fox News, Does Great](https://kotaku.com/vtuber-explains-twitch-protest-to-fox-news-does-great-1847610501)
+ - [The Halo 2 Condom](https://kotaku.com/the-halo-2-condom-1847610348)
+ - [Streamlabs releases 'Safe Mode' feature to combat Twitch hate raids](https://www.pcgamer.com/streamlabs-safe-mode)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
