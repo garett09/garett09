@@ -196,9 +196,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Let&rsquo;s see what experts say](http://9gag.com/gag/azMpWOm)
- - 🚯 [It&#039;s friday my dudes](http://9gag.com/gag/amP44A9)
- - 🚯 [5 minutes crafts need to stop](http://9gag.com/gag/aP3bbmV)<!-- MEMES:END -->
+ - 🚖 [Well, fair enough](http://9gag.com/gag/aQoWLOK)
+ - 🚯 [When there is a will there is a way](http://9gag.com/gag/a4EOOjd)
+ - 🚯 [Why don&#039;t americans build houses to withstand the weather they have every year instead out of chipboard.](http://9gag.com/gag/av5KKbn)<!-- MEMES:END -->
 
 --- 
 
