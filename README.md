@@ -189,9 +189,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [You told us: One-handed mode is no longer an essential Android feature](https://www.androidauthority.com/one-handed-mode-smartphone-poll-results-2746767/)
- - [Zip acquisition of Payflex means Africa is ripe for BNPL disruption](http://feedproxy.google.com/~r/Techcrunch/~3/CGUYSXCws6Q/)
- - [Apple event 2021: When will we see the iPhone 13 and Apple Watch 7?     - CNET](https://www.cnet.com/tech/mobile/apple-event-2021-when-will-we-see-the-iphone-13-apple-watch-7/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Samsung may slip a flagship camera feature in future Galaxy A series phones](https://www.androidauthority.com/samsung-galaxy-a-series-ois-2746806/)
+ - [Loot is a viral social network that looks like nothing you’ve ever seen](https://www.theverge.com/22655077/loot-social-network-open-source-nft)
+ - [China says it will set up a new stock exchange in Beijing that will primarily serve "innovation-oriented SMEs" (Reuters)](http://www.techmeme.com/210903/p2#a210903p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
