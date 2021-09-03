@@ -189,9 +189,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bigger 'Apple Watch Series 7' gives users 16% more pixels to play with](https://appleinsider.com/articles/21/09/02/apple-watch-series-7-to-sport-screen-with-16-more-pixels-than-past-model?utm_medium=rss)
- - [Why Ransomware Hackers Love a Holiday Weekend](https://www.wired.com/story/ransomware-hacks-holidays-weekends)
- - [The 20 Best Hiking and Camping Deals for Labor Day](https://www.wired.com/story/labor-day-camping-deals)<!-- TECH:END -->
+ - [State of 5G in the US: New York had the fastest download speed at 114 Mbps, while Vermont had the slowest at 42.2 Mbps but the best 5G video experience (Francesco Rizzato/Opensignal)](http://www.techmeme.com/210903/p6#a210903p6)
+ - [New malicious Lightning cable can steal user data from a mile away](https://appleinsider.com/articles/21/09/02/new-malicious-lightning-cable-can-steal-user-data-from-a-mile-away?utm_medium=rss)
+ - [Hurricanes, Solar Storms, and the Fight to Keep the Power On](https://www.wired.com/story/gadget-lab-podcast-519)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
