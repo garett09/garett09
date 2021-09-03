@@ -196,9 +196,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Someone uploaded the first one, time for the sequel.](http://9gag.com/gag/aO3LWO3)
- - 🚯 [Yes.](http://9gag.com/gag/a4EOOKQ)
- - 🚯 [Togepi used leg breaker](http://9gag.com/gag/awMWpgW)<!-- MEMES:END -->
+ - 🚖 [Be kind to each other, you never know what goes on in other peoples minds. Have a great weekend.](http://9gag.com/gag/a8ExxwY)
+ - 🚯 [5 minutes crafts need to stop](http://9gag.com/gag/aP3bbmV)
+ - 🚯 [Dad joke](http://9gag.com/gag/aGp4QP6)<!-- MEMES:END -->
 
 --- 
 
