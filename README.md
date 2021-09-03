@@ -196,9 +196,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Oh boy...](http://9gag.com/gag/aK6oX5Q)
- - 🚯 [It&#039;s not OCD but just being careful](http://9gag.com/gag/aDde9yK)
- - 🚯 [Best drift ever](http://9gag.com/gag/a07yGpQ)<!-- MEMES:END -->
+ - 🚖 [Nature&#039;s beauty...](http://9gag.com/gag/a6EYzEN)
+ - 🚯 [In case you ever wondered. Now go and spend some blood!](http://9gag.com/gag/aRXqd6A)
+ - 🚯 [Techno Viking rare footage](http://9gag.com/gag/aYoX5jw)<!-- MEMES:END -->
 
 --- 
 
