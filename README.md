@@ -189,9 +189,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [AI computers can’t patent their own inventions — yet — a US judge rules](https://www.theverge.com/2021/9/3/22656039/ai-inventor-patent-copyright-uspto-federal-court-ruling)
- - [New study will show misinformation on Facebook gets way more engagement than news](https://www.theverge.com/2021/9/3/22656036/nyu-researchers-study-facebook-misinformation-engagement-election)
- - [Rumor: 'Apple Watch Series 7' bands incompatible with current Apple Watches](https://appleinsider.com/articles/21/09/03/rumor-current-apple-watch-bands-incompatible-with-larger-apple-watch-series-7?utm_medium=rss)<!-- TECH:END -->
+ - [Save 30% on the Polk Audio MagniFi 2 system, and more sound bar deals](https://www.androidauthority.com/best-sound-bar-deals-1114174/)
+ - [Pixel 3 phones bricking left and right, no clear answer as to why](https://www.androidauthority.com/google-pixel-3-bricked-2747138/)
+ - [Refinance rates for Sept. 3, 2021: Rates inch higher     - CNET](https://www.cnet.com/personal-finance/mortgages/refinance-rates-for-sep-3-2021-rates-inch-higher/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
