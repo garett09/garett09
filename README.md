@@ -189,9 +189,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple backs down on CSAM features, postpones launch](https://appleinsider.com/articles/21/09/03/apple-backs-down-on-csam-features-postpones-launch?utm_medium=rss)
- - [Corelight, which offers a network traffic analysis and security service to enterprises, raises $75M Series D, bringing its total raised to $160M (Carly Page/TechCrunch)](http://www.techmeme.com/210903/p9#a210903p9)
- - [Apple delays rollout of controversial photo-scanning security feature](https://www.androidauthority.com/apple-csam-delay-2746960/)<!-- TECH:END -->
+ - [You can now migrate your WhatsApp chats from an iPhone to a new Samsung phone](https://www.theverge.com/2021/9/3/22655753/migrate-iphone-whatsapp-data-chat-history-samsung-phone)
+ - [NYC-based insurance underwriting platform Kalepa raises $14M Series A led by Inspired Capital](http://feedproxy.google.com/~r/Techcrunch/~3/GMfKfVx02Sk/)
+ - [Floods, fires, and extreme heat: disaster pile-ups are the new norm](https://www.theverge.com/2021/9/3/22654003/floods-wildfires-hurricane-ida-climate-change-disasters-compound-risks)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
