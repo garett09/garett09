@@ -182,9 +182,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Beat This Dentist At Smash Bros., Get A Free Teeth Cleaning](https://kotaku.com/beat-this-dentist-at-smash-bros-get-a-free-teeth-clea-1847612016)
- - [Best cheap gaming chair: Snapshot guide](https://www.pcgamer.com/cheap-gaming-chair-should-i-buy)
- - [Apex Legends developer explains why a fan-favourite movement trick has to die](https://www.pcgamer.com/apex-legends-developer-explains-why-a-fan-favourite-movement-trick-has-to-die)<!-- GAME:END -->
+ - [VESA adds a brighter HDR level for OLED and future microLED displays](https://www.pcgamer.com/vesa-adds-a-brighter-hdr-level-for-oled-and-future-microled-displays)
+ - [Nintendo Confirms The Obvious: It Won't Be At The Tokyo Game Show](https://kotaku.com/nintendo-confirms-the-obvious-it-wont-be-at-the-tokyo-1847612170)
+ - [The best gaming PC in 2021](https://www.pcgamer.com/best-gaming-pc)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
