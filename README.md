@@ -196,9 +196,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Breathtaking cabin view](http://9gag.com/gag/a07yyZO)
- - 🚯 [What did happend to Rap Music ?](http://9gag.com/gag/amP4ZVX)
- - 🚯 [Yes.](http://9gag.com/gag/a4EOOKQ)<!-- MEMES:END -->
+ - 🚖 [How to find water at barren lands ?](http://9gag.com/gag/aMKMMnG)
+ - 🚯 [Yes.](http://9gag.com/gag/a4EOOKQ)
+ - 🚯 [Blocklaying technique](http://9gag.com/gag/a4EO0O6)<!-- MEMES:END -->
 
 --- 
 
