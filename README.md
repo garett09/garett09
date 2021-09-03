@@ -189,9 +189,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Rumor: Current Apple Watch bands incompatible with larger 'Apple Watch Series 7'](https://appleinsider.com/articles/21/09/03/rumor-current-apple-watch-bands-incompatible-with-larger-apple-watch-series-7?utm_medium=rss)
  - [App maker seeks $200B from Apple in App Store class action lawsuit](https://appleinsider.com/articles/21/09/03/app-maker-seeks-200b-from-apple-in-app-store-class-action-lawsuit?utm_medium=rss)
- - [Firefly launches its first rocket, but loses the launch craft in mid-flight explosion](http://feedproxy.google.com/~r/Techcrunch/~3/8Mfk5Ak5TLI/)
- - [DoorDash workers protest outside CEO Tony Xu’s home demanding better pay, tip transparency and PPE](http://feedproxy.google.com/~r/Techcrunch/~3/vN05bxqtIlE/)<!-- TECH:END -->
+ - [Firefly launches its first rocket, but loses the launch craft in mid-flight explosion](http://feedproxy.google.com/~r/Techcrunch/~3/8Mfk5Ak5TLI/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
