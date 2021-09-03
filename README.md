@@ -196,9 +196,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Monarchy Vs Democracy](http://9gag.com/gag/axMqrPY)
- - 🚯 [Dad joke](http://9gag.com/gag/aGp4QP6)
- - 🚯 [Most men will receive their first bunch of flowers at their funeral](http://9gag.com/gag/a4EO0ep)<!-- MEMES:END -->
+ - 🚖 [Someone uploaded the first one, time for the sequel.](http://9gag.com/gag/aO3LWO3)
+ - 🚯 [Yes.](http://9gag.com/gag/a4EOOKQ)
+ - 🚯 [Togepi used leg breaker](http://9gag.com/gag/awMWpgW)<!-- MEMES:END -->
 
 --- 
 
