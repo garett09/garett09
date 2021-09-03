@@ -196,9 +196,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Blocklaying technique](http://9gag.com/gag/a4EO0O6)
- - 🚯 [Most men will receive their first bunch of flowers at their funeral](http://9gag.com/gag/a4EO0ep)
- - 🚯 [Why don&#039;t americans build houses to withstand the weather they have every year instead out of chipboard.](http://9gag.com/gag/av5KKbn)<!-- MEMES:END -->
+ - 🚖 [Let&rsquo;s see what experts say](http://9gag.com/gag/azMpWOm)
+ - 🚯 [It&#039;s friday my dudes](http://9gag.com/gag/amP44A9)
+ - 🚯 [5 minutes crafts need to stop](http://9gag.com/gag/aP3bbmV)<!-- MEMES:END -->
 
 --- 
 
