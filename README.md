@@ -189,9 +189,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Save 30% on the Polk Audio MagniFi 2 system, and more sound bar deals](https://www.androidauthority.com/best-sound-bar-deals-1114174/)
- - [Pixel 3 phones bricking left and right, no clear answer as to why](https://www.androidauthority.com/google-pixel-3-bricked-2747138/)
- - [Refinance rates for Sept. 3, 2021: Rates inch higher     - CNET](https://www.cnet.com/personal-finance/mortgages/refinance-rates-for-sep-3-2021-rates-inch-higher/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Lyft will cover legal fees for drivers sued under Texas' new abortion law for transporting women to abortion clinics, and donates $1M to Planned Parenthood (Jessica Bursztynsky/CNBC)](http://www.techmeme.com/210903/p16#a210903p16)
+ - [Apple Wallet ID, 'iPhone 13' satellite support, AirPods Max long-term on the AppleInsider podcast](https://appleinsider.com/articles/21/09/03/apple-wallet-for-id-iphone-13-satellite-support-and-airpods-max-long-term-review-on-the-appleinsider-podcast?utm_medium=rss)
+ - [GoDaddy says it gave Texas Right to Life, an abortion "whistleblower" website, 24 hours to find a new hosting provider before cutting off service (Nicole Perlroth/New York Times)](http://www.techmeme.com/210903/p15#a210903p15)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
