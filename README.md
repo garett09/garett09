@@ -189,9 +189,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube Music & Premium claims 50 million total users](https://appleinsider.com/articles/21/09/03/youtube-music-premium-claims-50-million-total-users?utm_medium=rss)
- - [Extra Crunch roundup: cohort analysis, YC Demo Day recaps, building your supply chain](http://feedproxy.google.com/~r/Techcrunch/~3/kQw0Q8zMP10/)
- - [Apple delays plans to roll out CSAM detection in iOS 15](http://feedproxy.google.com/~r/Techcrunch/~3/6eAbxQD6WYM/)<!-- TECH:END -->
+ - [Apple backs down on CSAM features, postpones launch](https://appleinsider.com/articles/21/09/03/apple-backs-down-on-csam-features-postpones-launch?utm_medium=rss)
+ - [Corelight, which offers a network traffic analysis and security service to enterprises, raises $75M Series D, bringing its total raised to $160M (Carly Page/TechCrunch)](http://www.techmeme.com/210903/p9#a210903p9)
+ - [Apple delays rollout of controversial photo-scanning security feature](https://www.androidauthority.com/apple-csam-delay-2746960/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
