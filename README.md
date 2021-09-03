@@ -189,9 +189,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung may slip a flagship camera feature in future Galaxy A series phones](https://www.androidauthority.com/samsung-galaxy-a-series-ois-2746806/)
- - [Loot is a viral social network that looks like nothing you’ve ever seen](https://www.theverge.com/22655077/loot-social-network-open-source-nft)
- - [China says it will set up a new stock exchange in Beijing that will primarily serve "innovation-oriented SMEs" (Reuters)](http://www.techmeme.com/210903/p2#a210903p2)<!-- TECH:END -->
+ - [Philips Hue smart LED bulbs now have more competition from Philips Smart LED bulbs](https://www.theverge.com/2021/9/3/22654576/philips-smart-led-bulbs-price-sizes-signify)
+ - [WhatsApp rolls out iOS to Android migration but not for everyone (Updated)](https://www.androidauthority.com/whatsapp-ios-to-android-transfer-2733377/)
+ - [Crews clear encampment, relocate homeless living on Apple land](https://appleinsider.com/articles/21/09/03/crews-clear-encampment-relocate-homeless-living-on-apple-land?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
