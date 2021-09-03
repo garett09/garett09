@@ -189,9 +189,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nintendo is reportedly set to bring Game Boy and Game Boy Color games to Switch Online](https://www.theverge.com/2021/9/3/22656353/nintendo-game-boy-game-boy-color-games-switch-online-subscription)
- - [Make accessibility part of your startup’s products and culture from day one](http://feedproxy.google.com/~r/Techcrunch/~3/vfMnrSrbOEs/)
- - [Apple employees demand change in open letter to Tim Cook     - CNET](https://www.cnet.com/news/apple-employees-demand-change-in-open-letter-to-tim-cook/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: SEC has launched a probe into the developer behind Uniswap; Uniswap delisted dozens of stock offering tokens in July, citing regulatory pressure (Wall Street Journal)](http://www.techmeme.com/210903/p18#a210903p18)
+ - [Lyft and Uber to cover legal fees of drivers sued under Texas anti-abortion law](https://www.theverge.com/22656392/lyft-uber-legal-fees-drivers-lawsuit-texas-sb8-abortion-law)
+ - [Apple employees ask Tim Cook to take action on workplace issues](https://appleinsider.com/articles/21/09/03/apple-employees-ask-tim-cook-to-take-action-on-workplace-issues?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
