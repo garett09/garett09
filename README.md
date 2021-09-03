@@ -189,9 +189,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [You can now migrate your WhatsApp chats from an iPhone to a new Samsung phone](https://www.theverge.com/2021/9/3/22655753/migrate-iphone-whatsapp-data-chat-history-samsung-phone)
- - [NYC-based insurance underwriting platform Kalepa raises $14M Series A led by Inspired Capital](http://feedproxy.google.com/~r/Techcrunch/~3/GMfKfVx02Sk/)
- - [Floods, fires, and extreme heat: disaster pile-ups are the new norm](https://www.theverge.com/2021/9/3/22654003/floods-wildfires-hurricane-ida-climate-change-disasters-compound-risks)<!-- TECH:END -->
+ - [The best Labor Day deals happening now](https://www.theverge.com/good-deals/22652876/best-labor-day-sales-2021-tech-deals-tvs-laptops-headphones)
+ - [Christopher Lloyd plays Rick Sanchez in new Rick and Morty promo](https://www.theverge.com/2021/9/3/22655890/rick-morty-christopher-lloyd-season-five-finale)
+ - [‘Final Girls’ Make the Best Horror Movie Heroes](https://www.wired.com/2021/09/geeks-guide-final-girls)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
