@@ -196,9 +196,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [80085](http://9gag.com/gag/aQoWGd2)
- - 🚯 [The true size of blackhole](http://9gag.com/gag/aRXqbBA)
- - 🚯 [Well, fair enough](http://9gag.com/gag/aQoWLOK)<!-- MEMES:END -->
+ - 🚖 [The true size of blackhole](http://9gag.com/gag/aRXqbBA)
+ - 🚯 [Well, fair enough](http://9gag.com/gag/aQoWLOK)
+ - 🚯 [Lamborghini Murci&eacute;lago driver loses control on a mountain road](http://9gag.com/gag/aDdeyPx)<!-- MEMES:END -->
 
 --- 
 
