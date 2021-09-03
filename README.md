@@ -198,7 +198,7 @@ Linux                    0 secs              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 🚖 [In case you ever wondered. Now go and spend some blood!](http://9gag.com/gag/aRXqd6A)
  - 🚯 [Dude gets caught on tv with his side chick.](http://9gag.com/gag/axMqwo2)
- - 🚯 [I just watched Van Helsing (2004) and I got to say that movie has the best werewolf design ever](http://9gag.com/gag/awMWD3r)<!-- MEMES:END -->
+ - 🚯 [Scammers be scammed.](http://9gag.com/gag/a5E03QV)<!-- MEMES:END -->
 
 --- 
 
