@@ -189,9 +189,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Philips Hue smart LED bulbs now have more competition from Philips Smart LED bulbs](https://www.theverge.com/2021/9/3/22654576/philips-smart-led-bulbs-price-sizes-signify)
- - [WhatsApp rolls out iOS to Android migration but not for everyone (Updated)](https://www.androidauthority.com/whatsapp-ios-to-android-transfer-2733377/)
- - [Crews clear encampment, relocate homeless living on Apple land](https://appleinsider.com/articles/21/09/03/crews-clear-encampment-relocate-homeless-living-on-apple-land?utm_medium=rss)<!-- TECH:END -->
+ - [Bigger 'Apple Watch Series 7' gives users 16% more pixels to play with](https://appleinsider.com/articles/21/09/02/apple-watch-series-7-to-sport-screen-with-16-more-pixels-than-past-model?utm_medium=rss)
+ - [Why Ransomware Hackers Love a Holiday Weekend](https://www.wired.com/story/ransomware-hacks-holidays-weekends)
+ - [The 20 Best Hiking and Camping Deals for Labor Day](https://www.wired.com/story/labor-day-camping-deals)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
