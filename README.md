@@ -196,8 +196,8 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [QUICK! Americans are asleep, upvote real bread.](http://9gag.com/gag/aoMQbm2)
- - 🚯 [Patient thought she seen a ghost](http://9gag.com/gag/aQoWLYr)
+ - 🚖 [So smooth](http://9gag.com/gag/a6EYAW8)
+ - 🚯 [Hair](http://9gag.com/gag/aP3bNRK)
  - 🚯 [Rev up the engine](http://9gag.com/gag/aoMQbNx)<!-- MEMES:END -->
 
 --- 
