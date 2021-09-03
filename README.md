@@ -196,9 +196,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Embrace Toyota Wars](http://9gag.com/gag/aoMQ73g)
- - 🚯 [Imagination](http://9gag.com/gag/a7ERB4w)
- - 🚯 [It&#039;s not OCD but just being careful](http://9gag.com/gag/aDde9yK)<!-- MEMES:END -->
+ - 🚖 [Scammers be scammed.](http://9gag.com/gag/a5E03QV)
+ - 🚯 [Monarchy Vs Democracy](http://9gag.com/gag/axMqrPY)
+ - 🚯 [Dude gets caught on tv with his side chick.](http://9gag.com/gag/axMqwo2)<!-- MEMES:END -->
 
 --- 
 
