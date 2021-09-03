@@ -196,8 +196,8 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Techno Viking rare footage](http://9gag.com/gag/aYoX5jw)
- - 🚯 [Flooded basement quickly becomes an ocean](http://9gag.com/gag/aZ0O5ez)
+ - 🚖 [Embrace Toyota Wars](http://9gag.com/gag/aoMQ73g)
+ - 🚯 [Imagination](http://9gag.com/gag/a7ERB4w)
  - 🚯 [It&#039;s not OCD but just being careful](http://9gag.com/gag/aDde9yK)<!-- MEMES:END -->
 
 --- 
