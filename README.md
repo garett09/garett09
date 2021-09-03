@@ -182,9 +182,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The brutal sci-fi film Zone 414 takes all its cues from Blade Runner](https://www.polygon.com/reviews/22654865/zone-414-review-sci-fi)
- - [Guts ‘N Goals Brings Couch Co-op Soccer with Baseball Bats to Xbox Today](https://news.xbox.com/en-us/2021/09/03/guts-n-goals-available-today/)
- - [Bungie Has Big Plans For Destiny 2](https://kotaku.com/bungie-has-big-plans-for-destiny-2-1847615177)<!-- GAME:END -->
+ - [Overwatch League Season 5 Will Use An ‘Early Build’ Of Overwatch 2](https://kotaku.com/overwatch-league-season-5-will-use-an-early-build-of-1847615738)
+ - [Become a Boxing Legend Today in Big Rumble Boxing: Creed Champions](https://news.xbox.com/en-us/2021/09/03/become-a-boxing-legend-today-in-big-rumble-boxing-creed-champions/)
+ - [Remember How All The Big Games Used To Come Out Right When School Started?](https://kotaku.com/remember-how-all-the-big-games-used-to-come-out-right-w-1847615459)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
