@@ -189,9 +189,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [US National Labor Relations Board investigating two Apple employee complaints](https://appleinsider.com/articles/21/09/03/us-national-labor-relations-board-investigating-two-apple-employee-complaints?utm_medium=rss)
- - [Amazon is reportedly planning to release an Amazon-branded TV as soon as October](https://www.theverge.com/2021/9/2/22655016/amazon-branded-tv-television-tcl)
- - [Sources: Amazon will launch its own TV featuring Alexa software and without third-party manufacturer branding in the US, possibly as soon as October (Insider)](http://www.techmeme.com/210902/p45#a210902p45)<!-- TECH:END -->
+ - [Apple’s rumored AR/VR headset might rely on a nearby iPhone or Mac for processing](https://www.theverge.com/2021/9/2/22654606/apple-ar-vr-headset-iphone-wireless-connection-stream-data)
+ - [Sources: Apple's planned VR/AR headset will need a wireless connection to an Apple device for full functionality; Apple completed work on VR/AR chips last year (Wayne Ma/The Information)](http://www.techmeme.com/210902/p46#a210902p46)
+ - [US National Labor Relations Board investigating two Apple employee complaints [u]](https://appleinsider.com/articles/21/09/03/us-national-labor-relations-board-investigating-two-apple-employee-complaints?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
