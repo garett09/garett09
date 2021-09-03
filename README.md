@@ -182,9 +182,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Genshin Impact Gives Aloy The World She Deserves](https://kotaku.com/genshin-impact-gives-aloy-the-world-she-deserves-1847616643)
- - [EA confirms The Sims 4 Spa Day is getting a big, free update](https://www.pcgamer.com/ea-confirms-the-sims-4-spa-day-is-getting-a-big-free-update)
- - [Mech Mechanic Simulator Launches Today for Xbox One and Xbox Series X|S](https://news.xbox.com/en-us/2021/09/03/mech-mechanic-simulator-launches-today/)<!-- GAME:END -->
+ - [Battlefield 2042's new specialists gameplay reminds me a lot of Team Fortress 2](https://www.pcgamer.com/battlefield-2042s-new-specialists-gameplay-reminds-me-a-lot-of-team-fortress-2)
+ - [Worth, Jungle Cruise, Afterlife of the Party and every new movie you can watch at home this weekend](https://www.polygon.com/2021/9/3/22648153/jungle-cruise-watch-netflix-afterlife-of-the-party-new-movies)
+ - [Genshin Impact Gives Aloy The World She Deserves](https://kotaku.com/genshin-impact-gives-aloy-the-world-she-deserves-1847616643)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
