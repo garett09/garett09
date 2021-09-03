@@ -196,9 +196,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Be kind to each other, you never know what goes on in other peoples minds. Have a great weekend.](http://9gag.com/gag/a8ExxwY)
- - 🚯 [Why don&#039;t americans build houses to withstand the weather they have every year instead out of chipboard.](http://9gag.com/gag/av5KKbn)
- - 🚯 [That kitchen...](http://9gag.com/gag/aEpm9dO)<!-- MEMES:END -->
+ - 🚖 [That kitchen...](http://9gag.com/gag/aEpm9dO)
+ - 🚯 [When Bully gets Bullied](http://9gag.com/gag/apNZONM)
+ - 🚯 [Well, fair enough](http://9gag.com/gag/aQoWLOK)<!-- MEMES:END -->
 
 --- 
 
