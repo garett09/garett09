@@ -182,9 +182,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [You can play Watch Dogs Legion for free this weekend](https://www.pcgamer.com/you-can-play-watch-dogs-legion-for-free-this-weekend)
  - [How to get Marvel's Shang-Chi in Fortnite](https://www.pcgamer.com/fortnite-shang-chi)
- - [Shang-Chi’s after-credits scenes point to the MCU’s big unknowns](https://www.polygon.com/22653997/shang-chi-marvel-credits-scenes-ten-rings-origin)
- - [Cookie Clicker has 'Overwhelmingly Positive' reviews on Steam because it deserves it](https://www.pcgamer.com/cookie-clicker-has-overwhelmingly-positive-reviews-on-steam-because-it-deserves-it)<!-- GAME:END -->
+ - [Shang-Chi’s after-credits scenes point to the MCU’s big unknowns](https://www.polygon.com/22653997/shang-chi-marvel-credits-scenes-ten-rings-origin)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
