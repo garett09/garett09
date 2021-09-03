@@ -182,9 +182,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The best Australian PC gaming deals this week](https://www.pcgamer.com/best-australian-pc-gaming-deals)
  - [Lost Judgment's New DLC Is Very, Very Interesting For The Future Of The Series](https://kotaku.com/lost-judgments-new-dlc-is-very-very-interesting-for-th-1847611454)
- - [You can play Watch Dogs Legion for free this weekend](https://www.pcgamer.com/you-can-play-watch-dogs-legion-for-free-this-weekend)
- - [How to get Marvel's Shang-Chi in Fortnite](https://www.pcgamer.com/fortnite-shang-chi)<!-- GAME:END -->
+ - [You can play Watch Dogs Legion for free this weekend](https://www.pcgamer.com/you-can-play-watch-dogs-legion-for-free-this-weekend)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
