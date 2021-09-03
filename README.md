@@ -182,9 +182,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [VTuber Explains Twitch Protest To Fox News, Does Great](https://kotaku.com/vtuber-explains-twitch-protest-to-fox-news-does-great-1847610501)
- - [The Halo 2 Condom](https://kotaku.com/the-halo-2-condom-1847610348)
- - [Streamlabs releases 'Safe Mode' feature to combat Twitch hate raids](https://www.pcgamer.com/streamlabs-safe-mode)<!-- GAME:END -->
+ - [Shang-Chi’s after-credits scenes point to the MCU’s big unknowns](https://www.polygon.com/22653997/shang-chi-marvel-credits-scenes-ten-rings-origin)
+ - [Cookie Clicker has 'Overwhelmingly Positive' reviews on Steam because it deserves it](https://www.pcgamer.com/cookie-clicker-has-overwhelmingly-positive-reviews-on-steam-because-it-deserves-it)
+ - [VTuber Explains Twitch Protest To Fox News, Does Great](https://kotaku.com/vtuber-explains-twitch-protest-to-fox-news-does-great-1847610501)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
