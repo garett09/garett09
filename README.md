@@ -189,9 +189,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple’s rumored AR/VR headset might rely on a nearby iPhone or Mac for processing](https://www.theverge.com/2021/9/2/22654606/apple-ar-vr-headset-iphone-wireless-connection-stream-data)
- - [Sources: Apple's planned VR/AR headset will need a wireless connection to an Apple device for full functionality; Apple completed work on VR/AR chips last year (Wayne Ma/The Information)](http://www.techmeme.com/210902/p46#a210902p46)
- - [US National Labor Relations Board investigating two Apple employee complaints [u]](https://appleinsider.com/articles/21/09/03/us-national-labor-relations-board-investigating-two-apple-employee-complaints?utm_medium=rss)<!-- TECH:END -->
+ - [App maker seeks $200B from Apple in App Store class action lawsuit](https://appleinsider.com/articles/21/09/03/app-maker-seeks-200b-from-apple-in-app-store-class-action-lawsuit?utm_medium=rss)
+ - [Firefly launches its first rocket, but loses the launch craft in mid-flight explosion](http://feedproxy.google.com/~r/Techcrunch/~3/8Mfk5Ak5TLI/)
+ - [DoorDash workers protest outside CEO Tony Xu’s home demanding better pay, tip transparency and PPE](http://feedproxy.google.com/~r/Techcrunch/~3/vN05bxqtIlE/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
