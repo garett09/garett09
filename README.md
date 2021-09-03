@@ -182,9 +182,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Ghost of Tsushima: The music of Iki Island](https://blog.playstation.com/2021/09/03/ghost-of-tsushima-the-music-of-iki-island/)
- - [Next Week on Xbox: September 6 to 10](https://news.xbox.com/en-us/2021/09/03/next-week-on-xbox-september-6-to-10/)
- - [The best solo board games](https://www.polygon.com/tabletop-games/22644611/solo-board-games-best-top)<!-- GAME:END -->
+ - [Stop whatever you're doing and look at this incredible Minecraft world built inside a block](https://www.pcgamer.com/stop-whatever-youre-doing-and-look-at-this-incredible-minecraft-world-built-inside-a-block)
+ - [The Outlast Trials “is like a TV series,” offering new challenges for players and developer alike](http://feedproxy.google.com/~r/PSBlog/~3/7DEP5XeNPtY/)
+ - [The Outlast Trials “is like a TV series,” offering new challenges for players and developer alike](https://blog.playstation.com/2021/09/03/the-outlast-trials-is-like-a-tv-series-offering-new-challenges-for-players-and-developer-alike/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
