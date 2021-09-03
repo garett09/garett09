@@ -182,9 +182,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Overwatch League Season 5 Will Use An ‘Early Build’ Of Overwatch 2](https://kotaku.com/overwatch-league-season-5-will-use-an-early-build-of-1847615738)
- - [Become a Boxing Legend Today in Big Rumble Boxing: Creed Champions](https://news.xbox.com/en-us/2021/09/03/become-a-boxing-legend-today-in-big-rumble-boxing-creed-champions/)
- - [Remember How All The Big Games Used To Come Out Right When School Started?](https://kotaku.com/remember-how-all-the-big-games-used-to-come-out-right-w-1847615459)<!-- GAME:END -->
+ - [EA confirms The Sims 4 Spa Day is getting a big, free update](https://www.pcgamer.com/ea-confirms-the-sims-4-spa-day-is-getting-a-big-free-update)
+ - [Mech Mechanic Simulator Launches Today for Xbox One and Xbox Series X|S](https://news.xbox.com/en-us/2021/09/03/mech-mechanic-simulator-launches-today/)
+ - [An early build of Overwatch 2 will be used for Overwatch League's 2022 season](https://www.pcgamer.com/overwatch-2-owl)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
