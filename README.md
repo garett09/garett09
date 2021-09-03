@@ -189,9 +189,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [US Commerce Dept. says it will close a unit that monitored Americans' social media for Census disinformation, after finding it had overstepped its authority (Kim Lyons/The Verge)](http://www.techmeme.com/210903/p12#a210903p12)
- - [The best webcam to buy right now](https://www.theverge.com/22652783/best-webcam-camera)
- - [Apple Backs Down on Its Controversial Photo-Scanning Plans](https://www.wired.com/story/apple-icloud-photo-scan-csam-pause-backlash)<!-- TECH:END -->
+ - [AI computers can’t patent their own inventions — yet — a US judge rules](https://www.theverge.com/2021/9/3/22656039/ai-inventor-patent-copyright-uspto-federal-court-ruling)
+ - [New study will show misinformation on Facebook gets way more engagement than news](https://www.theverge.com/2021/9/3/22656036/nyu-researchers-study-facebook-misinformation-engagement-election)
+ - [Rumor: 'Apple Watch Series 7' bands incompatible with current Apple Watches](https://appleinsider.com/articles/21/09/03/rumor-current-apple-watch-bands-incompatible-with-larger-apple-watch-series-7?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
