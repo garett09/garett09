@@ -189,9 +189,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [State of 5G in the US: New York had the fastest download speed at 114 Mbps, while Vermont had the slowest at 42.2 Mbps but the best 5G video experience (Francesco Rizzato/Opensignal)](http://www.techmeme.com/210903/p6#a210903p6)
- - [New malicious Lightning cable can steal user data from a mile away](https://appleinsider.com/articles/21/09/02/new-malicious-lightning-cable-can-steal-user-data-from-a-mile-away?utm_medium=rss)
- - [Hurricanes, Solar Storms, and the Fight to Keep the Power On](https://www.wired.com/story/gadget-lab-podcast-519)<!-- TECH:END -->
+ - [YouTube Music & Premium claims 50 million total users](https://appleinsider.com/articles/21/09/03/youtube-music-premium-claims-50-million-total-users?utm_medium=rss)
+ - [Extra Crunch roundup: cohort analysis, YC Demo Day recaps, building your supply chain](http://feedproxy.google.com/~r/Techcrunch/~3/kQw0Q8zMP10/)
+ - [Apple delays plans to roll out CSAM detection in iOS 15](http://feedproxy.google.com/~r/Techcrunch/~3/6eAbxQD6WYM/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
