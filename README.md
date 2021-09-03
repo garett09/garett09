@@ -182,9 +182,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Lost Judgment pre-order and post-launch details revealed](http://feedproxy.google.com/~r/PSBlog/~3/GMKir7vK6jk/)
- - [Lost Judgment pre-order and post-launch details revealed](https://blog.playstation.com/2021/09/03/lost-judgment-pre-order-and-post-launch-details-revealed/)
- - [The Polymega is an all-in-one retro console worth your attention](https://www.polygon.com/2021/9/3/22653297/polymega-review-retro-game-console-emulation)<!-- GAME:END -->
+ - [Ghost of Tsushima: The music of Iki Island](https://blog.playstation.com/2021/09/03/ghost-of-tsushima-the-music-of-iki-island/)
+ - [Next Week on Xbox: September 6 to 10](https://news.xbox.com/en-us/2021/09/03/next-week-on-xbox-september-6-to-10/)
+ - [The best solo board games](https://www.polygon.com/tabletop-games/22644611/solo-board-games-best-top)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
