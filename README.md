@@ -182,9 +182,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [VESA adds a brighter HDR level for OLED and future microLED displays](https://www.pcgamer.com/vesa-adds-a-brighter-hdr-level-for-oled-and-future-microled-displays)
- - [Nintendo Confirms The Obvious: It Won't Be At The Tokyo Game Show](https://kotaku.com/nintendo-confirms-the-obvious-it-wont-be-at-the-tokyo-1847612170)
- - [The best gaming PC in 2021](https://www.pcgamer.com/best-gaming-pc)<!-- GAME:END -->
+ - [Lost Judgment pre-order and post-launch details revealed](http://feedproxy.google.com/~r/PSBlog/~3/GMKir7vK6jk/)
+ - [Lost Judgment pre-order and post-launch details revealed](https://blog.playstation.com/2021/09/03/lost-judgment-pre-order-and-post-launch-details-revealed/)
+ - [The Polymega is an all-in-one retro console worth your attention](https://www.polygon.com/2021/9/3/22653297/polymega-review-retro-game-console-emulation)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
