@@ -182,9 +182,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Genshin Impact Gives Aloy The World She Deserves](https://kotaku.com/genshin-impact-gives-aloy-the-world-she-deserves-1847616643)
  - [EA confirms The Sims 4 Spa Day is getting a big, free update](https://www.pcgamer.com/ea-confirms-the-sims-4-spa-day-is-getting-a-big-free-update)
- - [Mech Mechanic Simulator Launches Today for Xbox One and Xbox Series X|S](https://news.xbox.com/en-us/2021/09/03/mech-mechanic-simulator-launches-today/)
- - [An early build of Overwatch 2 will be used for Overwatch League's 2022 season](https://www.pcgamer.com/overwatch-2-owl)<!-- GAME:END -->
+ - [Mech Mechanic Simulator Launches Today for Xbox One and Xbox Series X|S](https://news.xbox.com/en-us/2021/09/03/mech-mechanic-simulator-launches-today/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
