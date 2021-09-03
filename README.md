@@ -182,9 +182,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Lost Judgment's New DLC Is Very, Very Interesting For The Future Of The Series](https://kotaku.com/lost-judgments-new-dlc-is-very-very-interesting-for-th-1847611454)
  - [You can play Watch Dogs Legion for free this weekend](https://www.pcgamer.com/you-can-play-watch-dogs-legion-for-free-this-weekend)
- - [How to get Marvel's Shang-Chi in Fortnite](https://www.pcgamer.com/fortnite-shang-chi)
- - [Shang-Chi’s after-credits scenes point to the MCU’s big unknowns](https://www.polygon.com/22653997/shang-chi-marvel-credits-scenes-ten-rings-origin)<!-- GAME:END -->
+ - [How to get Marvel's Shang-Chi in Fortnite](https://www.pcgamer.com/fortnite-shang-chi)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
