@@ -189,9 +189,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft may have just revealed Android app support for Xbox](https://www.androidauthority.com/android-app-support-xbox-2746085/)
  - [WhatsApp asked to pay a whopping $267 million fine for breaking privacy laws](https://www.androidauthority.com/whatsapp-privacy-fine-2746633/)
- - [Apple investigating RISC-V instruction set architecture, job listing shows](https://appleinsider.com/articles/21/09/03/apple-investigating-risc-v-processor-architecture-job-listing-shows?utm_medium=rss)
- - [Rumor: Current Apple Watch bands incompatible with larger 'Apple Watch Series 7'](https://appleinsider.com/articles/21/09/03/rumor-current-apple-watch-bands-incompatible-with-larger-apple-watch-series-7?utm_medium=rss)<!-- TECH:END -->
+ - [Dead star collision causes stellar explosion like nothing seen before     - CNET](https://www.cnet.com/news/dead-star-collision-causes-stellar-explosion-like-nothing-seen-before/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
