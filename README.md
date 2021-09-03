@@ -196,9 +196,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [In case you ever wondered. Now go and spend some blood!](http://9gag.com/gag/aRXqd6A)
- - 🚯 [Dude gets caught on tv with his side chick.](http://9gag.com/gag/axMqwo2)
- - 🚯 [Scammers be scammed.](http://9gag.com/gag/a5E03QV)<!-- MEMES:END -->
+ - 🚖 [A bit funny, if unexpected](http://9gag.com/gag/aQoW59K)
+ - 🚯 [In case you ever wondered. Now go and spend some blood!](http://9gag.com/gag/aRXqd6A)
+ - 🚯 [Techno Viking rare footage](http://9gag.com/gag/aYoX5jw)<!-- MEMES:END -->
 
 --- 
 
