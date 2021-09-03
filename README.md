@@ -196,9 +196,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [QUICK! Americans are asleep, upvote real bread.](http://9gag.com/gag/aoMQbm2)
- - 🚯 [Well, fair enough](http://9gag.com/gag/aQoWLOK)
- - 🚯 [In Italy 9 guys recreated the fellowship and they are walking across the country to throw a ring into the Vesuvius](http://9gag.com/gag/av5KMQd)<!-- MEMES:END -->
+ - 🚖 [Golden Era of Morality](http://9gag.com/gag/aB2B7vP)
+ - 🚯 [QUICK! Americans are asleep, upvote real bread.](http://9gag.com/gag/aoMQbm2)
+ - 🚯 [Rev up the engine](http://9gag.com/gag/aoMQbNx)<!-- MEMES:END -->
 
 --- 
 
