@@ -182,9 +182,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Despite AMD CPU patch, researchers highlight more exploits could be incoming](https://www.pcgamer.com/despite-amd-cpu-patch-researchers-highlight-more-exploits-could-be-incoming)
- - [Share of the Week: Ghost of Tsushima Director’s Cut – Iki Island](http://feedproxy.google.com/~r/PSBlog/~3/JnHfOseRvNo/)
- - [Share of the Week: Ghost of Tsushima Director’s Cut – Iki Island](https://blog.playstation.com/2021/09/03/share-of-the-week-ghost-of-tsushima-directors-cut-iki-island/)<!-- GAME:END -->
+ - [Golf Club: Wasteland is a Post-Apocalyptic Golfing Game with Cozy Chill Vibes](https://news.xbox.com/en-us/2021/09/03/golf-club-wasteland-post-apocalyptic-golfing-game/)
+ - [Destiny 2’s Exotic-only weapon types could evolve into Legendaries, says Bungie](https://www.polygon.com/interviews/22654011/destiny-2-witch-queen-interview-bugie-joe-blackburn-justin-truman)
+ - [Being evil sucks in Pathfinder: Wrath of the Righteous](https://www.pcgamer.com/being-evil-sucks-in-pathfinder-wrath-of-the-righteous)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
