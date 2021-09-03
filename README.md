@@ -189,9 +189,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: SEC has launched a probe into the developer behind Uniswap; Uniswap delisted dozens of stock offering tokens in July, citing regulatory pressure (Wall Street Journal)](http://www.techmeme.com/210903/p18#a210903p18)
- - [Lyft and Uber to cover legal fees of drivers sued under Texas anti-abortion law](https://www.theverge.com/22656392/lyft-uber-legal-fees-drivers-lawsuit-texas-sb8-abortion-law)
- - [Apple employees ask Tim Cook to take action on workplace issues](https://appleinsider.com/articles/21/09/03/apple-employees-ask-tim-cook-to-take-action-on-workplace-issues?utm_medium=rss)<!-- TECH:END -->
+ - [Sources: Automation Anywhere, backed by SoftBank's Vision Fund, is planning for an IPO later this year or in 2022; the company was valued at $6.8B in 2019 (Bloomberg)](http://www.techmeme.com/210903/p20#a210903p20)
+ - [Watch PlayerUnknown describe Prologue, a post-PUBG project all his own](https://www.theverge.com/2021/9/3/22656508/player-unknown-brendan-green-pubg-prologue-open-world)
+ - [Rumored Apple-linked firm buys Arizona vehicle testing site](https://appleinsider.com/articles/21/09/03/arizona-vehicle-testing-site-purchased-by-firm-thought-to-be-linked-to-apple?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
