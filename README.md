@@ -189,9 +189,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple’s dangerous path](http://feedproxy.google.com/~r/Techcrunch/~3/XmGafC9xomY/)
- - [Germany wants Apple to offer iPhone updates and parts for 7 years](https://appleinsider.com/articles/21/09/04/germany-wants-apple-to-offer-iphone-updates-and-parts-for-7-years?utm_medium=rss)
- - [What 377 Y Combinator pitches will teach you about startups](http://feedproxy.google.com/~r/Techcrunch/~3/LwhhHjNixps/)<!-- TECH:END -->
+ - [The Y: The Last Man is heading to Hulu and here’s everything you need to know](https://www.androidauthority.com/y-the-last-man-series-fx-hulu-2745453/)
+ - [Tim Cook's decade, App Store under threat, Donda launches -- August 2021 in review](https://appleinsider.com/articles/21/09/04/tim-cooks-decade-app-store-under-threat-donda-launches----august-2021-in-review?utm_medium=rss)
+ - [Apple made an unforced error by trying to tackle CSAM and child safety issues inside the Apple Park vacuum while adhering to its annual iOS release schedule (Lucas Matney/TechCrunch)](http://www.techmeme.com/210904/p5#a210904p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
