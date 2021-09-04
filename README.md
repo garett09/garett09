@@ -189,9 +189,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Texas Right to Life tip site went offline briefly before returning with new provider Digital Ocean, which also has rules against violating people's privacy (Jon Brodkin/Ars Technica)](http://www.techmeme.com/210903/p23#a210903p23)
- - [Apple presents AirTag designers with commemorative gift, sends 'Close Your Rings' challenge rewards](https://appleinsider.com/articles/21/09/04/apple-presents-airtag-designers-with-custom-display-case-sends-close-your-rings-challenge-rewards?utm_medium=rss)
- - [Talking shop with Twitter’s recent head of corp dev — and now VC — Seksom Suriyapa](http://feedproxy.google.com/~r/Techcrunch/~3/kEPf407yj7w/)<!-- TECH:END -->
+ - [Shang-Chi and the Legend of the Ten Rings post-credits scenes explained     - CNET](https://www.cnet.com/news/marvel-movie-shang-chi-and-the-legend-of-the-ten-rings-post-credits-scenes-explained/#ftag=CAD590a51e)
+ - [Marvel's Shang-Chi isn't streaming on Disney Plus, sorry     - CNET](https://www.cnet.com/tech/services-and-software/marvels-shang-chi-isnt-streaming-on-disney-plus-sorry/#ftag=CAD590a51e)
+ - [Texas Right to Life tip site went offline briefly before returning with new provider Digital Ocean, which also has rules against violating people's privacy (Jon Brodkin/Ars Technica)](http://www.techmeme.com/210903/p23#a210903p23)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
