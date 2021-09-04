@@ -189,9 +189,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I’m a Lyft Driver. My Passengers Act Like I’m Part of the App](https://www.wired.com/story/im-a-lyft-driver-my-passengers-act-like-im-part-of-the-app)
- - [The 6 Best Camping Stoves for Your Next Outdoor Adventure](https://www.wired.com/gallery/best-camping-stoves)
- - [Profile of Alvy Ray Smith, a Pixar co-founder who created the algorithms fundamental to animated movies and left after severe disagreements with Steve Jobs (Steven Levy/Wired)](http://www.techmeme.com/210904/p3#a210904p3)<!-- TECH:END -->
+ - [BrakTooth Flaws Affect Billions of Bluetooth Devices](https://www.wired.com/story/braktooth-bluetooth-whatsapp-fine-omg-cable)
+ - [Samsung Galaxy Note 20 Ultra one year later: Is it still worth buying?](https://www.androidauthority.com/samsung-galaxy-note-20-ultra-long-term-review-2736847/)
+ - [Crowds flock to opening of Changsha Apple Store](https://appleinsider.com/articles/21/09/04/crowds-flock-to-opening-of-changsha-apple-store?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
