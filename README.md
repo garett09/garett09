@@ -189,9 +189,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Horizon Forbidden West was supposed to have a free upgrade from PS4 to PS5](https://www.theverge.com/2021/9/4/22657200/sony-upgrade-playstation-horizon-forbidden-west-ps5)
  - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-396-2746549/)
- - [Best Deals Sept. 4 - $279 32-inch LG UHD Monitor, RGB Mechanical keyboard, more!](https://appleinsider.com/articles/21/09/04/best-deals-sept-4---279-32-inch-lg-uhd-monitor-rgb-mechanical-keyboard-more?utm_medium=rss)
- - [Home Depot says its smart home app is for people who find the smart home space ‘intimidating’](https://www.theverge.com/2021/9/4/22654623/home-depot-smart-home-amazon-alexa-google-home)<!-- TECH:END -->
+ - [Shang-Chi and the Legend of the Ten Rings post-credits scenes explained     - CNET](https://www.cnet.com/news/marvel-movie-shang-chi-and-the-legend-of-the-ten-rings-post-credits-scenes-explained/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
