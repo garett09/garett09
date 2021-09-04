@@ -196,9 +196,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A time-lapse of bracers doing their best job](http://9gag.com/gag/amPeXzv)
- - 🚯 [Hungary Based.](http://9gag.com/gag/abVN5e9)
- - 🚯 [Understandable&hellip;](http://9gag.com/gag/aLpZKBg)<!-- MEMES:END -->
+ - 🚖 [When you are getting tired of illegal parking](http://9gag.com/gag/aqjP9wp)
+ - 🚯 [Understandable&hellip;](http://9gag.com/gag/aLpZKBg)
+ - 🚯 [He likes bananas](http://9gag.com/gag/aGpmYA5)<!-- MEMES:END -->
 
 --- 
 
