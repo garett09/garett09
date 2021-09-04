@@ -182,9 +182,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The Medium: The Kotaku Review](https://kotaku.com/the-medium-the-kotaku-review-1846129608)
  - [17 major sci-fi and fantasy books arriving in fall 2021](https://www.polygon.com/2021/9/4/22656050/best-books-science-fiction-fantasy-new-fall-2021)
- - [The best two-player board games](https://www.polygon.com/tabletop-games/22650201/best-two-player-board-games)
- - [Before Netflix, you could watch Shrek on the Game Boy Advance](https://www.polygon.com/22652536/game-boy-advance-video-retro-shrek-movies)<!-- GAME:END -->
+ - [The best two-player board games](https://www.polygon.com/tabletop-games/22650201/best-two-player-board-games)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
