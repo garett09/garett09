@@ -196,9 +196,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Amazing...](http://9gag.com/gag/azMp0wb)
+ - 🚖 [God damnit Bobby!](http://9gag.com/gag/aK6o0LW)
  - 🚯 [Doesn&#039;t even make a dent](http://9gag.com/gag/aXo68pP)
- - 🚯 [God damnit Bobby!](http://9gag.com/gag/aK6o0LW)<!-- MEMES:END -->
+ - 🚯 [The atmosphere in this 20 year old game](http://9gag.com/gag/a9EgQAm)<!-- MEMES:END -->
 
 --- 
 
