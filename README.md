@@ -189,9 +189,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Automation Anywhere, backed by SoftBank's Vision Fund, is planning for an IPO later this year or in 2022; the company was valued at $6.8B in 2019 (Bloomberg)](http://www.techmeme.com/210903/p20#a210903p20)
- - [Watch PlayerUnknown describe Prologue, a post-PUBG project all his own](https://www.theverge.com/2021/9/3/22656508/player-unknown-brendan-green-pubg-prologue-open-world)
- - [Rumored Apple-linked firm buys Arizona vehicle testing site](https://appleinsider.com/articles/21/09/03/arizona-vehicle-testing-site-purchased-by-firm-thought-to-be-linked-to-apple?utm_medium=rss)<!-- TECH:END -->
+ - [Apple TV+ to stream '9/11: Inside the President's War Room' free on Sept. 11](https://appleinsider.com/articles/21/09/04/apple-tv-to-stream-911-inside-the-presidents-war-room-free-on-sept-11?utm_medium=rss)
+ - [Netflix: 50 best TV shows to binge tonight     - CNET](https://www.cnet.com/news/netflix-50-best-tv-shows-to-binge-tonight/#ftag=CAD590a51e)
+ - [Amazon Prime Video: 25 of the best movies to watch tonight     - CNET](https://www.cnet.com/news/amazon-prime-video-25-of-the-best-movies-to-watch-tonight/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
