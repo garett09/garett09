@@ -196,9 +196,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [So smooth](http://9gag.com/gag/a6EYAW8)
- - 🚯 [Hair](http://9gag.com/gag/aP3bNRK)
- - 🚯 [Rev up the engine](http://9gag.com/gag/aoMQbNx)<!-- MEMES:END -->
+ - 🚖 [Most brutal game in the world](http://9gag.com/gag/axMqXeW)
+ - 🚯 [So smooth](http://9gag.com/gag/a6EYAW8)
+ - 🚯 [I love that he cooks, but not the food he makes](http://9gag.com/gag/axMq5M2)<!-- MEMES:END -->
 
 --- 
 
