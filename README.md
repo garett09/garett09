@@ -196,7 +196,7 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When Bully gets Bullied](http://9gag.com/gag/apNZONM)
+ - 🚖 [So smooth](http://9gag.com/gag/a6EYAW8)
  - 🚯 [Most brutal game in the world](http://9gag.com/gag/axMqXeW)
  - 🚯 [Lamborghini Murci&eacute;lago driver loses control on a mountain road](http://9gag.com/gag/aDdeyPx)<!-- MEMES:END -->
 
