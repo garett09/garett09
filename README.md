@@ -182,9 +182,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [More Tips Than You Probably Need For The Quake Remaster](https://kotaku.com/more-tips-than-you-probably-need-for-the-quake-remaster-1847616427)
- - [Every version of Windows, ranked from worst to best](https://www.pcgamer.com/best-windows-versions)
- - [Battlefield 2042's new specialists gameplay reminds me a lot of Team Fortress 2](https://www.pcgamer.com/battlefield-2042s-new-specialists-gameplay-reminds-me-a-lot-of-team-fortress-2)<!-- GAME:END -->
+ - [No Man's Sky's settlers are the most miserable bunch of creeps I've ever met](https://www.pcgamer.com/no-mans-skys-settlers-are-the-most-miserable-bunch-of-creeps-ive-ever-met)
+ - [The best Minecraft seeds for Minecraft 1.17](https://www.pcgamer.com/best-minecraft-seeds)
+ - [Halo Infinite's getting the old radar back, and fixing most of our concerns from the preview](https://www.pcgamer.com/halo-infinites-getting-the-old-radar-back-and-fixing-most-of-our-other-concerns-from-the-preview)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
