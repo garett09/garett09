@@ -198,7 +198,7 @@ Linux                    0 secs              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 🚖 [So smooth](http://9gag.com/gag/a6EYAW8)
  - 🚯 [Most brutal game in the world](http://9gag.com/gag/axMqXeW)
- - 🚯 [Lamborghini Murci&eacute;lago driver loses control on a mountain road](http://9gag.com/gag/aDdeyPx)<!-- MEMES:END -->
+ - 🚯 [His reaction is priceless. Poor doggo is like, Oh my goodness! What&#039;s going on human?!!](http://9gag.com/gag/aWj3Kw4)<!-- MEMES:END -->
 
 --- 
 
