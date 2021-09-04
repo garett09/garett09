@@ -189,9 +189,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Headspace guide: Everything you need to know about the mindfulness app](https://www.androidauthority.com/headspace-app-2746501/)
- - [Best Samsung phones to buy in 2021     - CNET](https://www.cnet.com/tech/mobile/best-samsung-phones/#ftag=CAD590a51e)
- - [GoDaddy cut off Texas Right to Life’s abortion ‘whistleblowing’ website, but it’s staying online](https://www.theverge.com/2021/9/3/22656196/godaddy-texas-right-for-life-abortion-whistleblowing-site)<!-- TECH:END -->
+ - [The 25 Best Labor Day Sales on Our Favorite Gear](https://www.wired.com/story/best-labor-day-sales-2021)
+ - [Biomutant and Ratchet & Clank Epitomize the Gaming Budget Gap](https://www.wired.com/story/ratchet-clank-rift-apart-biomutant-game-differences)
+ - [Headspace guide: Everything you need to know about the mindfulness app](https://www.androidauthority.com/headspace-app-2746501/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
