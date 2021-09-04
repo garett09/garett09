@@ -196,9 +196,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It&#039;s almost like we are moving backwards as a society...](http://9gag.com/gag/ad8G6PV)
- - 🚯 [Congratulations to Dario Costa who became the first person ever to fly a plane through TWO tunnels!](http://9gag.com/gag/agBDywq)
- - 🚯 [Flying in tunnel](http://9gag.com/gag/apN4EZE)<!-- MEMES:END -->
+ - 🚖 [Jumping into the panda exhibit to get a closer look](http://9gag.com/gag/aP3EwQG)
+ - 🚯 [Russian &quot;fortress on wheels&quot;, armored bus-tank-train with machine guns and gas-grenade launchers. This is NOT FOR THE ARMY, but for the police in case of protests and rallies.](http://9gag.com/gag/agBD0Ex)
+ - 🚯 [The ultra rich people of Buenos Aires built a gated community on the Capybara&#039;s natural habitat pushing them away. Now they are coming back.](http://9gag.com/gag/a3E6PoN)<!-- MEMES:END -->
 
 --- 
 
