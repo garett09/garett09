@@ -182,9 +182,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [More people playing Cookie Clicker than Rainbow Six Siege, Civ 6, Phasmophobia](https://www.pcgamer.com/more-people-playing-cookie-clicker-than-rainbow-six-siege-civ-6-phasmophobia)
  - [Labor Day Sales 2021: the best PC gaming deals available today](https://www.pcgamer.com/labor-day-sales-2021-the-best-pc-gaming-deals-available-today)
- - [Terror of Hemasaurus looks like the Rampage successor the world needs](https://www.pcgamer.com/terror-of-hemasaurus-game)
- - [Ambitious GTA Underground Mod Shutdown After Six Years Due To 'Increasing Hostility' From Take-Two](https://kotaku.com/ambitious-gta-underground-mod-shutdowns-after-six-years-1847619249)<!-- GAME:END -->
+ - [Terror of Hemasaurus looks like the Rampage successor the world needs](https://www.pcgamer.com/terror-of-hemasaurus-game)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
