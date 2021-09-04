@@ -189,9 +189,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 25 Best Labor Day Sales on Our Favorite Gear](https://www.wired.com/story/best-labor-day-sales-2021)
- - [Biomutant and Ratchet & Clank Epitomize the Gaming Budget Gap](https://www.wired.com/story/ratchet-clank-rift-apart-biomutant-game-differences)
- - [Headspace guide: Everything you need to know about the mindfulness app](https://www.androidauthority.com/headspace-app-2746501/)<!-- TECH:END -->
+ - [Apple backpedals on CSAM, Apple Watch delayed & more on This Week in Apple](https://appleinsider.com/articles/21/09/04/apple-backpedals-on-csam-apple-watch-delayed-more-on-this-week-in-apple?utm_medium=rss)
+ - [Lossless music streaming: Do you really need it?](https://www.androidauthority.com/lossless-music-streaming-2745087/)
+ - [Biologists Unlock the Secrets of ‘Invisible’ Animals](https://www.wired.com/story/biologists-unlock-the-secrets-of-invisible-animals)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
