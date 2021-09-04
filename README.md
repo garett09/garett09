@@ -189,9 +189,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple backpedals on CSAM, Apple Watch delayed & more on This Week in Apple](https://appleinsider.com/articles/21/09/04/apple-backpedals-on-csam-apple-watch-delayed-more-on-this-week-in-apple?utm_medium=rss)
- - [Lossless music streaming: Do you really need it?](https://www.androidauthority.com/lossless-music-streaming-2745087/)
- - [Biologists Unlock the Secrets of ‘Invisible’ Animals](https://www.wired.com/story/biologists-unlock-the-secrets-of-invisible-animals)<!-- TECH:END -->
+ - [I’m a Lyft Driver. My Passengers Act Like I’m Part of the App](https://www.wired.com/story/im-a-lyft-driver-my-passengers-act-like-im-part-of-the-app)
+ - [The 6 Best Camping Stoves for Your Next Outdoor Adventure](https://www.wired.com/gallery/best-camping-stoves)
+ - [Profile of Alvy Ray Smith, a Pixar co-founder who created the algorithms fundamental to animated movies and left after severe disagreements with Steve Jobs (Steven Levy/Wired)](http://www.techmeme.com/210904/p3#a210904p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
