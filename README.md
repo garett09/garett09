@@ -196,9 +196,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Too much politics involved. Why they had to force their agenda to everything?](http://9gag.com/gag/aB2A9yD)
- - 🚯 [Deutsche qualit&auml;t](http://9gag.com/gag/aLpZRQ5)
- - 🚯 [His body will be stored in a special refrigerated room and handed over to local authorities on the next shore day](http://9gag.com/gag/aYo3jV7)<!-- MEMES:END -->
+ - 🚖 [His body will be stored in a special refrigerated room and handed over to local authorities on the next shore day](http://9gag.com/gag/aYo3jV7)
+ - 🚯 [I have been learning how to weld from skratch this year. Have been 2 months with electrode and now it&#039;s been a month and a half with TIG. This is what i did today, my best weld so far!! I was so proud that I wanted to share!](http://9gag.com/gag/ajmzYPx)
+ - 🚯 [Hmmmmmm&hellip;.](http://9gag.com/gag/aAbznod)<!-- MEMES:END -->
 
 --- 
 
