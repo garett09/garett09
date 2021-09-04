@@ -196,9 +196,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I&#039;ve got nothing](http://9gag.com/gag/a6E0mr9)
- - 🚯 [So the earth is not flat then?](http://9gag.com/gag/aqjP4ZR)
- - 🚯 [Oopsie](http://9gag.com/gag/aRXb6bQ)<!-- MEMES:END -->
+ - 🚖 [Understandable&hellip;](http://9gag.com/gag/aLpZKBg)
+ - 🚯 [Deutsche qualit&auml;t](http://9gag.com/gag/aLpZRQ5)
+ - 🚯 [When you are getting tired of illegal parking](http://9gag.com/gag/aqjP9wp)<!-- MEMES:END -->
 
 --- 
 
