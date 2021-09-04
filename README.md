@@ -197,8 +197,8 @@ Linux                    0 secs              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 🚖 [I&#039;ve got nothing](http://9gag.com/gag/a6E0mr9)
- - 🚯 [Early morning view of Kedarnath temple, India estimated to be built in 726 AD. On ground it&#039;s still Dark and street lights are on; high up above, sunlight bathing the glaciers.](http://9gag.com/gag/abVN3gX)
- - 🚯 [We work in sprints](http://9gag.com/gag/a9ExjZD)<!-- MEMES:END -->
+ - 🚯 [So the earth is not flat then?](http://9gag.com/gag/aqjP4ZR)
+ - 🚯 [Oopsie](http://9gag.com/gag/aRXb6bQ)<!-- MEMES:END -->
 
 --- 
 
