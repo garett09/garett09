@@ -189,9 +189,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Horizon Forbidden West was supposed to have a free upgrade from PS4 to PS5](https://www.theverge.com/2021/9/4/22657200/sony-upgrade-playstation-horizon-forbidden-west-ps5)
- - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-396-2746549/)
- - [Shang-Chi and the Legend of the Ten Rings post-credits scenes explained     - CNET](https://www.cnet.com/news/marvel-movie-shang-chi-and-the-legend-of-the-ten-rings-post-credits-scenes-explained/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple’s dangerous path](http://feedproxy.google.com/~r/Techcrunch/~3/XmGafC9xomY/)
+ - [Germany wants Apple to offer iPhone updates and parts for 7 years](https://appleinsider.com/articles/21/09/04/germany-wants-apple-to-offer-iphone-updates-and-parts-for-7-years?utm_medium=rss)
+ - [What 377 Y Combinator pitches will teach you about startups](http://feedproxy.google.com/~r/Techcrunch/~3/LwhhHjNixps/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
