@@ -189,9 +189,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Catching up with Twitter’s most recent head of corp dev — and new VC — Seksom Suriyapa](http://feedproxy.google.com/~r/Techcrunch/~3/kEPf407yj7w/)
- - [Best Deals Sept. 3 - $25 off HomePod mini, early Labor Day sales, more!](https://appleinsider.com/articles/21/09/03/best-deals-september-3---early-labor-day-sales-25-off-homepod-mini-and-more?utm_medium=rss)
- - [Apple TV+ to stream '9/11: Inside the President's War Room' free on Sept. 11](https://appleinsider.com/articles/21/09/04/apple-tv-to-stream-911-inside-the-presidents-war-room-free-on-sept-11?utm_medium=rss)<!-- TECH:END -->
+ - [Texas Right to Life tip site went offline briefly before returning with new provider Digital Ocean, which also has rules against violating people's privacy (Jon Brodkin/Ars Technica)](http://www.techmeme.com/210903/p23#a210903p23)
+ - [Apple presents AirTag designers with commemorative gift, sends 'Close Your Rings' challenge rewards](https://appleinsider.com/articles/21/09/04/apple-presents-airtag-designers-with-custom-display-case-sends-close-your-rings-challenge-rewards?utm_medium=rss)
+ - [Talking shop with Twitter’s recent head of corp dev — and now VC — Seksom Suriyapa](http://feedproxy.google.com/~r/Techcrunch/~3/kEPf407yj7w/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
