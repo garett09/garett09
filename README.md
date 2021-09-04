@@ -182,9 +182,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Medium: The Kotaku Review](https://kotaku.com/the-medium-the-kotaku-review-1846129608)
- - [17 major sci-fi and fantasy books arriving in fall 2021](https://www.polygon.com/2021/9/4/22656050/best-books-science-fiction-fantasy-new-fall-2021)
- - [The best two-player board games](https://www.polygon.com/tabletop-games/22650201/best-two-player-board-games)<!-- GAME:END -->
+ - [The DK Rap Was Unfairly Mean To Lanky Kong](https://kotaku.com/the-dk-rap-was-unfairly-mean-to-lanky-kong-1847618939)
+ - [The 14 best movies new to streaming to watch in September](https://www.polygon.com/2021/9/4/22652033/best-new-movies-netflix-amazon-hbo-september-2021)
+ - [The Medium: The Kotaku Review](https://kotaku.com/the-medium-the-kotaku-review-1846129608)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
