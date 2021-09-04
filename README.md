@@ -182,9 +182,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Ghost Of Tsushima On PS5 Finally Fixes One Last Annoying Problem](https://kotaku.com/ghost-of-tsushima-on-ps5-finally-fixes-one-last-annoyin-1847617155)
- - [This gaming laptop with an RTX 3050 Ti is now $300 off](https://www.pcgamer.com/this-gaming-laptop-with-an-rtx-3050-ti-is-now-dollar300-off)
- - [These are the PC games releasing in September and October](https://www.pcgamer.com/these-are-the-pc-games-releasing-in-september-and-october)<!-- GAME:END -->
+ - [Labor Day Sales 2021: the best PC gaming deals available today](https://www.pcgamer.com/labor-day-sales-2021-the-best-pc-gaming-deals-available-today)
+ - [Terror of Hemasaurus looks like the Rampage successor the world needs](https://www.pcgamer.com/terror-of-hemasaurus-game)
+ - [Ambitious GTA Underground Mod Shutdown After Six Years Due To 'Increasing Hostility' From Take-Two](https://kotaku.com/ambitious-gta-underground-mod-shutdowns-after-six-years-1847619249)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
