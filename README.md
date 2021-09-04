@@ -189,9 +189,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Shang-Chi and the Legend of the Ten Rings post-credits scenes explained     - CNET](https://www.cnet.com/news/marvel-movie-shang-chi-and-the-legend-of-the-ten-rings-post-credits-scenes-explained/#ftag=CAD590a51e)
- - [Marvel's Shang-Chi isn't streaming on Disney Plus, sorry     - CNET](https://www.cnet.com/tech/services-and-software/marvels-shang-chi-isnt-streaming-on-disney-plus-sorry/#ftag=CAD590a51e)
- - [Texas Right to Life tip site went offline briefly before returning with new provider Digital Ocean, which also has rules against violating people's privacy (Jon Brodkin/Ars Technica)](http://www.techmeme.com/210903/p23#a210903p23)<!-- TECH:END -->
+ - [Amazon launches the "Kisan Store" in collaboration with the Government of India to let farmers in the country buy farming tools, seeds, and more on Amazon (India Today)](http://www.techmeme.com/210903/p25#a210903p25)
+ - [Amazon launches an app to provide info on crops to Indian farmers, as it looks to tap into the produce market that accounts for the bulk of India's retail spend (Saritha Rai/Bloomberg)](http://www.techmeme.com/210903/p24#a210903p24)
+ - [Best massage gun for 2021     - CNET](https://www.cnet.com/health/fitness/best-massage-gun/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
