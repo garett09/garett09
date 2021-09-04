@@ -196,9 +196,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Most brutal game in the world](http://9gag.com/gag/axMqXeW)
- - 🚯 [So smooth](http://9gag.com/gag/a6EYAW8)
- - 🚯 [I love that he cooks, but not the food he makes](http://9gag.com/gag/axMq5M2)<!-- MEMES:END -->
+ - 🚖 [When Bully gets Bullied](http://9gag.com/gag/apNZONM)
+ - 🚯 [Most brutal game in the world](http://9gag.com/gag/axMqXeW)
+ - 🚯 [Lamborghini Murci&eacute;lago driver loses control on a mountain road](http://9gag.com/gag/aDdeyPx)<!-- MEMES:END -->
 
 --- 
 
