@@ -196,9 +196,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When you are getting tired of illegal parking](http://9gag.com/gag/aqjP9wp)
+ - 🚖 [Caught](http://9gag.com/gag/azMWbpz)
  - 🚯 [Understandable&hellip;](http://9gag.com/gag/aLpZKBg)
- - 🚯 [He likes bananas](http://9gag.com/gag/aGpmYA5)<!-- MEMES:END -->
+ - 🚯 [Congratulations to Dario Costa who became the first person ever to fly a plane through TWO tunnels!](http://9gag.com/gag/agBDywq)<!-- MEMES:END -->
 
 --- 
 
