@@ -182,9 +182,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Before Netflix, you could watch Shrek on the Game Boy Advance](https://www.polygon.com/22652536/game-boy-advance-video-retro-shrek-movies)
- - [Crapshoot: The campy FMV fun of Noctropolis](https://www.pcgamer.com/saturday-crapshoot-noctropolis)
- - [No Man's Sky's settlers are the most miserable bunch of creeps I've ever met](https://www.pcgamer.com/no-mans-skys-settlers-are-the-most-miserable-bunch-of-creeps-ive-ever-met)<!-- GAME:END -->
+ - [17 major sci-fi and fantasy books arriving in fall 2021](https://www.polygon.com/2021/9/4/22656050/best-books-science-fiction-fantasy-new-fall-2021)
+ - [The best two-player board games](https://www.polygon.com/tabletop-games/22650201/best-two-player-board-games)
+ - [Before Netflix, you could watch Shrek on the Game Boy Advance](https://www.polygon.com/22652536/game-boy-advance-video-retro-shrek-movies)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
