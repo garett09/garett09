@@ -196,9 +196,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Guys literally want only one thing and it&#039;s f**king disgusting](http://9gag.com/gag/aQoL6n7)
- - 🚯 [Haters will say it&rsquo;s fake](http://9gag.com/gag/apNZedb)
- - 🚯 [Man, wife&rsquo;s like these are gold.](http://9gag.com/gag/aEp9dgN)<!-- MEMES:END -->
+ - 🚖 [His body will be stored in a special refrigerated room and handed over to local authorities on the next shore day](http://9gag.com/gag/aYo3jV7)
+ - 🚯 [This guy is just nothing less than awesome](http://9gag.com/gag/aO3L63E)
+ - 🚯 [Tokyo Metro rush hour](http://9gag.com/gag/aoMQB6X)<!-- MEMES:END -->
 
 --- 
 
