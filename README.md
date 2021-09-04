@@ -196,9 +196,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [So smooth](http://9gag.com/gag/a6EYAW8)
- - 🚯 [Most brutal game in the world](http://9gag.com/gag/axMqXeW)
- - 🚯 [His reaction is priceless. Poor doggo is like, Oh my goodness! What&#039;s going on human?!!](http://9gag.com/gag/aWj3Kw4)<!-- MEMES:END -->
+ - 🚖 [Doesn&#039;t even make a dent](http://9gag.com/gag/aXo68pP)
+ - 🚯 [Amazing...](http://9gag.com/gag/azMp0wb)
+ - 🚯 [God damnit Bobby!](http://9gag.com/gag/aK6o0LW)<!-- MEMES:END -->
 
 --- 
 
