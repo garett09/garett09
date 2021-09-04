@@ -189,9 +189,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Home Depot says its smart home app is for people who find the smart home space ‘intimidating’](https://www.theverge.com/2021/9/4/22654623/home-depot-smart-home-amazon-alexa-google-home)
- - [BrakTooth Flaws Affect Billions of Bluetooth Devices](https://www.wired.com/story/braktooth-bluetooth-whatsapp-fine-omg-cable)
- - [Samsung Galaxy Note 20 Ultra one year later: Is it still worth buying?](https://www.androidauthority.com/samsung-galaxy-note-20-ultra-long-term-review-2736847/)<!-- TECH:END -->
+ - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-396-2746549/)
+ - [Best Deals Sept. 4 - $279 32-inch LG UHD Monitor, RGB Mechanical keyboard, more!](https://appleinsider.com/articles/21/09/04/best-deals-sept-4---279-32-inch-lg-uhd-monitor-rgb-mechanical-keyboard-more?utm_medium=rss)
+ - [Home Depot says its smart home app is for people who find the smart home space ‘intimidating’](https://www.theverge.com/2021/9/4/22654623/home-depot-smart-home-amazon-alexa-google-home)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
