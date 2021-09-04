@@ -182,9 +182,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Before Netflix, you could watch Shrek on the Game Boy Advance](https://www.polygon.com/22652536/game-boy-advance-video-retro-shrek-movies)
  - [Crapshoot: The campy FMV fun of Noctropolis](https://www.pcgamer.com/saturday-crapshoot-noctropolis)
- - [No Man's Sky's settlers are the most miserable bunch of creeps I've ever met](https://www.pcgamer.com/no-mans-skys-settlers-are-the-most-miserable-bunch-of-creeps-ive-ever-met)
- - [The best Minecraft seeds for Minecraft 1.17](https://www.pcgamer.com/best-minecraft-seeds)<!-- GAME:END -->
+ - [No Man's Sky's settlers are the most miserable bunch of creeps I've ever met](https://www.pcgamer.com/no-mans-skys-settlers-are-the-most-miserable-bunch-of-creeps-ive-ever-met)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
