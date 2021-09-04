@@ -189,9 +189,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple TV+ to stream '9/11: Inside the President's War Room' free on Sept. 11](https://appleinsider.com/articles/21/09/04/apple-tv-to-stream-911-inside-the-presidents-war-room-free-on-sept-11?utm_medium=rss)
- - [Netflix: 50 best TV shows to binge tonight     - CNET](https://www.cnet.com/news/netflix-50-best-tv-shows-to-binge-tonight/#ftag=CAD590a51e)
- - [Amazon Prime Video: 25 of the best movies to watch tonight     - CNET](https://www.cnet.com/news/amazon-prime-video-25-of-the-best-movies-to-watch-tonight/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Catching up with Twitter’s most recent head of corp dev — and new VC — Seksom Suriyapa](http://feedproxy.google.com/~r/Techcrunch/~3/kEPf407yj7w/)
+ - [Best Deals Sept. 3 - $25 off HomePod mini, early Labor Day sales, more!](https://appleinsider.com/articles/21/09/03/best-deals-september-3---early-labor-day-sales-25-off-homepod-mini-and-more?utm_medium=rss)
+ - [Apple TV+ to stream '9/11: Inside the President's War Room' free on Sept. 11](https://appleinsider.com/articles/21/09/04/apple-tv-to-stream-911-inside-the-presidents-war-room-free-on-sept-11?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
