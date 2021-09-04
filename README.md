@@ -189,9 +189,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon launches the "Kisan Store" in collaboration with the Government of India to let farmers in the country buy farming tools, seeds, and more on Amazon (India Today)](http://www.techmeme.com/210903/p25#a210903p25)
- - [Amazon launches an app to provide info on crops to Indian farmers, as it looks to tap into the produce market that accounts for the bulk of India's retail spend (Saritha Rai/Bloomberg)](http://www.techmeme.com/210903/p24#a210903p24)
- - [Best massage gun for 2021     - CNET](https://www.cnet.com/health/fitness/best-massage-gun/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [US Cyber Command and CISA urge US organizations to immediately patch a critical Atlassian Confluence remote code execution flaw that is under mass exploitation (Sergiu Gatlan/BleepingComputer)](http://www.techmeme.com/210904/p1#a210904p1)
+ - [AEW All Out 2021: How to watch, start times and match card     - CNET](https://www.cnet.com/news/aew-all-out-2021-how-to-watch-start-times-and-match-card/#ftag=CAD590a51e)
+ - [Amazon launches the "Kisan Store" in collaboration with the Government of India to let farmers in the country buy seeds and farming tools on Amazon (India Today)](http://www.techmeme.com/210903/p25#a210903p25)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
