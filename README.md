@@ -196,9 +196,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Caught](http://9gag.com/gag/azMWbpz)
- - 🚯 [Understandable&hellip;](http://9gag.com/gag/aLpZKBg)
- - 🚯 [Congratulations to Dario Costa who became the first person ever to fly a plane through TWO tunnels!](http://9gag.com/gag/agBDywq)<!-- MEMES:END -->
+ - 🚖 [Diversity hire for pilots. What a great idea.](http://9gag.com/gag/a7EYLpe)
+ - 🚯 [Congratulations to Dario Costa who became the first person ever to fly a plane through TWO tunnels!](http://9gag.com/gag/agBDywq)
+ - 🚯 [Mother and Son](http://9gag.com/gag/azMWLRZ)<!-- MEMES:END -->
 
 --- 
 
