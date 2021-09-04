@@ -196,9 +196,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Tokyo Metro rush hour](http://9gag.com/gag/aoMQB6X)
- - 🚯 [Stop nagging me woman](http://9gag.com/gag/agBzRXg)
- - 🚯 [Haters will say it&rsquo;s fake](http://9gag.com/gag/apNZedb)<!-- MEMES:END -->
+ - 🚖 [Man, wife&rsquo;s like these are gold.](http://9gag.com/gag/aEp9dgN)
+ - 🚯 [Terrified homeless cat learns to trust a human again](http://9gag.com/gag/aV7yGbv)
+ - 🚯 [His reaction is priceless. Poor doggo is like, Oh my goodness! What&#039;s going on human?!!](http://9gag.com/gag/aWj3Kw4)<!-- MEMES:END -->
 
 --- 
 
