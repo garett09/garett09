@@ -182,9 +182,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [These are the PC games releasing in September and October](https://www.pcgamer.com/these-are-the-pc-games-releasing-in-september-and-october)
  - [The DK Rap Was Unfairly Mean To Lanky Kong](https://kotaku.com/the-dk-rap-was-unfairly-mean-to-lanky-kong-1847618939)
- - [The 14 best movies new to streaming to watch in September](https://www.polygon.com/2021/9/4/22652033/best-new-movies-netflix-amazon-hbo-september-2021)
- - [The Medium: The Kotaku Review](https://kotaku.com/the-medium-the-kotaku-review-1846129608)<!-- GAME:END -->
+ - [The 14 best movies new to streaming to watch in September](https://www.polygon.com/2021/9/4/22652033/best-new-movies-netflix-amazon-hbo-september-2021)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
