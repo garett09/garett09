@@ -196,9 +196,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Man, wife&rsquo;s like these are gold.](http://9gag.com/gag/aEp9dgN)
- - 🚯 [Terrified homeless cat learns to trust a human again](http://9gag.com/gag/aV7yGbv)
- - 🚯 [His reaction is priceless. Poor doggo is like, Oh my goodness! What&#039;s going on human?!!](http://9gag.com/gag/aWj3Kw4)<!-- MEMES:END -->
+ - 🚖 [Guys literally want only one thing and it&#039;s f**king disgusting](http://9gag.com/gag/aQoL6n7)
+ - 🚯 [Haters will say it&rsquo;s fake](http://9gag.com/gag/apNZedb)
+ - 🚯 [Man, wife&rsquo;s like these are gold.](http://9gag.com/gag/aEp9dgN)<!-- MEMES:END -->
 
 --- 
 
