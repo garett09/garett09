@@ -196,9 +196,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Diversity hire for pilots. What a great idea.](http://9gag.com/gag/a7EYLpe)
+ - 🚖 [It&#039;s almost like we are moving backwards as a society...](http://9gag.com/gag/ad8G6PV)
  - 🚯 [Congratulations to Dario Costa who became the first person ever to fly a plane through TWO tunnels!](http://9gag.com/gag/agBDywq)
- - 🚯 [Mother and Son](http://9gag.com/gag/azMWLRZ)<!-- MEMES:END -->
+ - 🚯 [Flying in tunnel](http://9gag.com/gag/apN4EZE)<!-- MEMES:END -->
 
 --- 
 
