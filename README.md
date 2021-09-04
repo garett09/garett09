@@ -182,9 +182,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Crapshoot: The campy FMV fun of Noctropolis](https://www.pcgamer.com/saturday-crapshoot-noctropolis)
  - [No Man's Sky's settlers are the most miserable bunch of creeps I've ever met](https://www.pcgamer.com/no-mans-skys-settlers-are-the-most-miserable-bunch-of-creeps-ive-ever-met)
- - [The best Minecraft seeds for Minecraft 1.17](https://www.pcgamer.com/best-minecraft-seeds)
- - [Halo Infinite's getting the old radar back, and fixing most of our concerns from the preview](https://www.pcgamer.com/halo-infinites-getting-the-old-radar-back-and-fixing-most-of-our-other-concerns-from-the-preview)<!-- GAME:END -->
+ - [The best Minecraft seeds for Minecraft 1.17](https://www.pcgamer.com/best-minecraft-seeds)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
