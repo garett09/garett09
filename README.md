@@ -196,9 +196,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Understandable&hellip;](http://9gag.com/gag/aLpZKBg)
- - 🚯 [Deutsche qualit&auml;t](http://9gag.com/gag/aLpZRQ5)
- - 🚯 [When you are getting tired of illegal parking](http://9gag.com/gag/aqjP9wp)<!-- MEMES:END -->
+ - 🚖 [Deutsche qualit&auml;t](http://9gag.com/gag/aLpZRQ5)
+ - 🚯 [Understandable&hellip;](http://9gag.com/gag/aLpZKBg)
+ - 🚯 [I have been learning how to weld from skratch this year. Have been 2 months with electrode and now it&#039;s been a month and a half with TIG. This is what i did today, my best weld so far!! I was so proud that I wanted to share!](http://9gag.com/gag/ajmzYPx)<!-- MEMES:END -->
 
 --- 
 
