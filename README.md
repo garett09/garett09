@@ -182,9 +182,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [More people playing Cookie Clicker than Rainbow Six Siege, Civ 6, Phasmophobia](https://www.pcgamer.com/more-people-playing-cookie-clicker-than-rainbow-six-siege-civ-6-phasmophobia)
- - [Labor Day Sales 2021: the best PC gaming deals available today](https://www.pcgamer.com/labor-day-sales-2021-the-best-pc-gaming-deals-available-today)
- - [Terror of Hemasaurus looks like the Rampage successor the world needs](https://www.pcgamer.com/terror-of-hemasaurus-game)<!-- GAME:END -->
+ - [Have you ever played a game so much it changes your dreams?](https://www.pcgamer.com/have-you-ever-played-a-game-so-much-it-changes-your-dreams)
+ - [UPDATE: Pre-order Horizon Forbidden West now: Collector’s and Digital Deluxe Editions detailed](http://feedproxy.google.com/~r/PSBlog/~3/ODk4Y9s2o3E/)
+ - [UPDATE: Pre-order Horizon Forbidden West now: Collector’s and Digital Deluxe Editions detailed](https://blog.playstation.com/2021/09/04/pre-order-horizon-forbidden-west-now-collectors-and-digital-deluxe-editions-detailed/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
