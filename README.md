@@ -182,9 +182,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [These are the PC games releasing in September and October](https://www.pcgamer.com/these-are-the-pc-games-releasing-in-september-and-october)
- - [The DK Rap Was Unfairly Mean To Lanky Kong](https://kotaku.com/the-dk-rap-was-unfairly-mean-to-lanky-kong-1847618939)
- - [The 14 best movies new to streaming to watch in September](https://www.polygon.com/2021/9/4/22652033/best-new-movies-netflix-amazon-hbo-september-2021)<!-- GAME:END -->
+ - [Ghost Of Tsushima On PS5 Finally Fixes One Last Annoying Problem](https://kotaku.com/ghost-of-tsushima-on-ps5-finally-fixes-one-last-annoyin-1847617155)
+ - [This gaming laptop with an RTX 3050 Ti is now $300 off](https://www.pcgamer.com/this-gaming-laptop-with-an-rtx-3050-ti-is-now-dollar300-off)
+ - [These are the PC games releasing in September and October](https://www.pcgamer.com/these-are-the-pc-games-releasing-in-september-and-october)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
