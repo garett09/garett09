@@ -189,9 +189,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [GoDaddy cut off Texas Right to Life’s abortion ‘whistleblowing’ website, but it’s staying online](https://www.theverge.com/2021/9/3/22656196/godaddy-texas-right-for-life-abortion-whistleblowing-site)
- - [Best iPhone for 2021: Which one of Apple's 7 phones is right for you?     - CNET](https://www.cnet.com/tech/mobile/best-iphone-2021/#ftag=CAD590a51e)
- - [Xiaomi Mi Router 4A Gigabit Edition review: An affordable router done right](https://www.androidauthority.com/xiaomi-mi-router-4a-gigabit-edition-review-2741744/)<!-- TECH:END -->
+ - [Headspace guide: Everything you need to know about the mindfulness app](https://www.androidauthority.com/headspace-app-2746501/)
+ - [Best Samsung phones to buy in 2021     - CNET](https://www.cnet.com/tech/mobile/best-samsung-phones/#ftag=CAD590a51e)
+ - [GoDaddy cut off Texas Right to Life’s abortion ‘whistleblowing’ website, but it’s staying online](https://www.theverge.com/2021/9/3/22656196/godaddy-texas-right-for-life-abortion-whistleblowing-site)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
