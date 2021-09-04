@@ -196,9 +196,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [God damnit Bobby!](http://9gag.com/gag/aK6o0LW)
- - 🚯 [Doesn&#039;t even make a dent](http://9gag.com/gag/aXo68pP)
- - 🚯 [The atmosphere in this 20 year old game](http://9gag.com/gag/a9EgQAm)<!-- MEMES:END -->
+ - 🚖 [Tokyo Metro rush hour](http://9gag.com/gag/aoMQB6X)
+ - 🚯 [Stop nagging me woman](http://9gag.com/gag/agBzRXg)
+ - 🚯 [Haters will say it&rsquo;s fake](http://9gag.com/gag/apNZedb)<!-- MEMES:END -->
 
 --- 
 
