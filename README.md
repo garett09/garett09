@@ -189,9 +189,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Xiaomi Mi Router 4A Gigabit Edition review: An affordable router done right](https://www.androidauthority.com/xiaomi-mi-router-4a-gigabit-edition-review-2741744/)
  - [Interview with Harvard professor Willy Shih on the global chip shortage, supply chains, how much money it would take for the US to catch up with TSMC, and more (Nilay Patel/The Verge)](http://www.techmeme.com/210904/p2#a210904p2)
- - [US Cyber Command and CISA urge US organizations to immediately patch a critical Atlassian Confluence remote code execution flaw that is under mass exploitation (Sergiu Gatlan/BleepingComputer)](http://www.techmeme.com/210904/p1#a210904p1)
- - [AEW All Out 2021: How to watch, start times and match card     - CNET](https://www.cnet.com/news/aew-all-out-2021-how-to-watch-start-times-and-match-card/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Galaxy Z Fold 3, Z Flip 3 water test: How deep can they go?     - CNET](https://www.cnet.com/tech/mobile/galaxy-z-fold-3-z-flip-3-water-test-how-deep-can-go/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
