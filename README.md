@@ -196,9 +196,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [His body will be stored in a special refrigerated room and handed over to local authorities on the next shore day](http://9gag.com/gag/aYo3jV7)
- - 🚯 [This guy is just nothing less than awesome](http://9gag.com/gag/aO3L63E)
- - 🚯 [Tokyo Metro rush hour](http://9gag.com/gag/aoMQB6X)<!-- MEMES:END -->
+ - 🚖 [I guess](http://9gag.com/gag/a1rypqY)
+ - 🚯 [Uncle Ben.](http://9gag.com/gag/aAbznzo)
+ - 🚯 [Too much politics involved. Why they had to force their agenda to everything?](http://9gag.com/gag/aB2A9yD)<!-- MEMES:END -->
 
 --- 
 
