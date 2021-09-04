@@ -189,9 +189,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Labor Day sales: Deals on LG OLED TV, Weber grill, Dyson vacuum, laptops and more     - CNET](https://www.cnet.com/home/best-labor-day-sales-2021/#ftag=CAD590a51e)
  - [Drake takes Apple Music record from Kanye for most-streamed album launch](https://appleinsider.com/articles/21/09/04/drake-takes-apple-music-record-from-kanye-for-most-streamed-album-launch?utm_medium=rss)
- - [The Y: The Last Man is heading to Hulu and here’s everything you need to know](https://www.androidauthority.com/y-the-last-man-series-fx-hulu-2745453/)
- - [Tim Cook's decade, App Store under threat, Donda launches -- August 2021 in review](https://appleinsider.com/articles/21/09/04/tim-cooks-decade-app-store-under-threat-donda-launches----august-2021-in-review?utm_medium=rss)<!-- TECH:END -->
+ - [The Y: The Last Man is heading to Hulu and here’s everything you need to know](https://www.androidauthority.com/y-the-last-man-series-fx-hulu-2745453/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
