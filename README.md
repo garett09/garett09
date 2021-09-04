@@ -196,9 +196,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [His body will be stored in a special refrigerated room and handed over to local authorities on the next shore day](http://9gag.com/gag/aYo3jV7)
- - 🚯 [I have been learning how to weld from skratch this year. Have been 2 months with electrode and now it&#039;s been a month and a half with TIG. This is what i did today, my best weld so far!! I was so proud that I wanted to share!](http://9gag.com/gag/ajmzYPx)
- - 🚯 [Hmmmmmm&hellip;.](http://9gag.com/gag/aAbznod)<!-- MEMES:END -->
+ - 🚖 [I&#039;ve got nothing](http://9gag.com/gag/a6E0mr9)
+ - 🚯 [Early morning view of Kedarnath temple, India estimated to be built in 726 AD. On ground it&#039;s still Dark and street lights are on; high up above, sunlight bathing the glaciers.](http://9gag.com/gag/abVN3gX)
+ - 🚯 [We work in sprints](http://9gag.com/gag/a9ExjZD)<!-- MEMES:END -->
 
 --- 
 
