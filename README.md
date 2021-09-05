@@ -196,9 +196,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Soundtrack of the year over here](http://9gag.com/gag/amPeL4X)
- - 🚯 [Gotta go bois](http://9gag.com/gag/ajmz0MQ)
- - 🚯 [There is so much going on...](http://9gag.com/gag/aAb8V5o)<!-- MEMES:END -->
+ - 🚖 [Best picture I found in the internet](http://9gag.com/gag/aoMvjpe)
+ - 🚯 [The circle of life](http://9gag.com/gag/axMLN5n)
+ - 🚯 [Gotta go bois](http://9gag.com/gag/ajmz0MQ)<!-- MEMES:END -->
 
 --- 
 
