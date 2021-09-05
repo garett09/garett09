@@ -196,9 +196,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Pizza party at ISS](http://9gag.com/gag/a9Exrr1)
- - 🚯 [Hmmm, interesting&hellip;.](http://9gag.com/gag/awME5gR)
- - 🚯 [It&#039;s free](http://9gag.com/gag/ajmzqK1)<!-- MEMES:END -->
+ - 🚖 [Mekanik](http://9gag.com/gag/a6E0MQq)
+ - 🚯 [Pizza party at ISS](http://9gag.com/gag/a9Exrr1)
+ - 🚯 [No toes were broken during the making of this video](http://9gag.com/gag/aoMvpMA)<!-- MEMES:END -->
 
 --- 
 
