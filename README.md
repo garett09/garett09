@@ -196,9 +196,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Mekanik](http://9gag.com/gag/a6E0MQq)
- - 🚯 [Pizza party at ISS](http://9gag.com/gag/a9Exrr1)
- - 🚯 [No toes were broken during the making of this video](http://9gag.com/gag/aoMvpMA)<!-- MEMES:END -->
+ - 🚖 [Lighting hitting the same spot 11 time](http://9gag.com/gag/aoMv18A)
+ - 🚯 [Robin was kind of a typical friendzone bi*ch. Always rejecting Ted, keeps him as a friend, do anything to &quot;run&quot; from relationships and when Ted is finally happy with someone else she gets upset.](http://9gag.com/gag/abVNpGp)
+ - 🚯 [Snake venom in human blood!](http://9gag.com/gag/anQmyN0)<!-- MEMES:END -->
 
 --- 
 
