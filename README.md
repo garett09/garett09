@@ -196,9 +196,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [No toes were broken during the making of this video](http://9gag.com/gag/aoMvpMA)
- - 🚯 [My disappointment is immeasurable and my day is ruined.](http://9gag.com/gag/ayMbdDy)
- - 🚯 [Ultimate version of Pretty Woman](http://9gag.com/gag/a2735md)<!-- MEMES:END -->
+ - 🚖 [Guess someone forget the light](http://9gag.com/gag/awMExzr)
+ - 🚯 [Japanese: No, Japan isn&#039;t like the anime. Also Japanese...](http://9gag.com/gag/aB2AYV1)
+ - 🚯 [Good](http://9gag.com/gag/aDdKo2Z)<!-- MEMES:END -->
 
 --- 
 
