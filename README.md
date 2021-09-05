@@ -189,9 +189,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Mexico-based Flat.mx, an online real estate marketplace for remodeled properties, raises $20M Series A led by Anthemis and 500 Startups (Mary Ann Azevedo/TechCrunch)](http://www.techmeme.com/210904/p7#a210904p7)
  - [iPhone 13: The most exciting rumors about release date, price, specs and more     - CNET](https://www.cnet.com/tech/mobile/iphone-13-the-most-exciting-rumors-about-release-date-price-specs-more/#ftag=CAD590a51e)
- - [All the iPhone 13 release date clues: Apple could reveal its new flagship in just a few weeks     - CNET](https://www.cnet.com/tech/mobile/all-iphone-13-release-date-clues-apple-could-reveal-its-new-flagship-in-just-few-weeks/#ftag=CAD590a51e)
- - [Best phones for $300 or less: Galaxy A50, A32, Moto G Stylus and more     - CNET](https://www.cnet.com/tech/mobile/best-phones-under-300-galaxy/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [All the iPhone 13 release date clues: Apple could reveal its new flagship in just a few weeks     - CNET](https://www.cnet.com/tech/mobile/all-iphone-13-release-date-clues-apple-could-reveal-its-new-flagship-in-just-few-weeks/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
