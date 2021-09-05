@@ -189,9 +189,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Firefly releases video and more details about its Alpha rocket that exploded mid-flight](https://www.theverge.com/2021/9/5/22658754/firefly-releases-video-details-alpha-rocket-exploded-space-force)
- - [Amazon Prime Video: 31 of the best TV shows to watch tonight     - CNET](https://www.cnet.com/news/amazon-prime-video-31-of-the-best-tv-shows-to-watch-tonight/#ftag=CAD590a51e)
- - [Amazon Prime Video: 25 of the best movies to watch tonight     - CNET](https://www.cnet.com/news/amazon-prime-video-25-of-the-best-movies-to-watch-tonight/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [EFF urges Apple to drop CSAM tool plans completely](https://appleinsider.com/articles/21/09/05/eff-urges-apple-to-drop-csam-tool-plans-completely?utm_medium=rss)
+ - [New Trailers: Moonfall, The Wheel of Time, Belfast, and more](https://www.theverge.com/2021/9/5/22658609/new-trailers-moonfall-the-wheel-of-time-belfast-no-time-to-die-amazon)
+ - [Harvard study details how automated hiring systems, now used by 99% of Fortune 500 companies, exclude 10M+ qualified workers in the US from hiring discussions (Kathryn Dill/Wall Street Journal)](http://www.techmeme.com/210905/p6#a210905p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
