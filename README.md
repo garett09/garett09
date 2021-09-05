@@ -196,9 +196,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Woman puts in &lsquo;pizza order&#039; with 911 to signal domestic violence](http://9gag.com/gag/a07rjeZ)
- - 🚯 [Camera man of the camera man](http://9gag.com/gag/aMKo9GW)
- - 🚯 [Good Samaritan picks up trash after looser litterer](http://9gag.com/gag/aRXbeG7)<!-- MEMES:END -->
+ - 🚖 [Seemed awfully panicked after it did exactly what it&rsquo;s made to do&hellip;](http://9gag.com/gag/aEp9n3K)
+ - 🚯 [Mekanik](http://9gag.com/gag/a6E0MQq)
+ - 🚯 [Mood changes](http://9gag.com/gag/awMEVxx)<!-- MEMES:END -->
 
 --- 
 
