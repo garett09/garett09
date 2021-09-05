@@ -182,9 +182,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The best cooperative board games](https://www.polygon.com/tabletop-games/22648496/best-cooperative-board-games)
  - [Vampire: The Masquerade - Bloodhunt system requirements](https://www.pcgamer.com/vampire-the-masquerade-bloodhunt-system-requirements)
- - [Leaks suggest October release date for Alan Wake Remastered](https://www.pcgamer.com/leaks-suggest-october-release-date-for-alan-wake-remastered)
- - [This legend made a giant F key that actually works](https://www.pcgamer.com/this-legend-made-a-giant-f-key-that-actually-works)<!-- GAME:END -->
+ - [Leaks suggest October release date for Alan Wake Remastered](https://www.pcgamer.com/leaks-suggest-october-release-date-for-alan-wake-remastered)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
