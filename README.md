@@ -189,9 +189,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Android phones you can buy in 2021     - CNET](https://www.cnet.com/tech/mobile/best-android-phones/#ftag=CAD590a51e)
  - [A look at the mechanics behind Community DAOs, including Flamingo and Fingerprints, which collect blue chip NFTs to raise funds via NFT "drops" (Patrick Rivera/Crypto x Creator Economy)](http://www.techmeme.com/210905/p1#a210905p1)
- - [GoDaddy cut off Texas Right to Life’s abortion ‘whistleblowing’ website, and it might be gone](https://www.theverge.com/2021/9/3/22656196/godaddy-texas-right-for-life-abortion-whistleblowing-site)
- - [Vietnamese startup KiotViet, which provides cloud-based POS software for SMBs, raises $45M Series B led by KKR, after raising a $6M Series A in 2019 (Quynh Nguyen/DealStreetAsia)](http://www.techmeme.com/210904/p8#a210904p8)<!-- TECH:END -->
+ - [GoDaddy cut off Texas Right to Life’s abortion ‘whistleblowing’ website, and it might be gone](https://www.theverge.com/2021/9/3/22656196/godaddy-texas-right-for-life-abortion-whistleblowing-site)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
