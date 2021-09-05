@@ -182,9 +182,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [This legend made a giant F key that actually works](https://www.pcgamer.com/this-legend-made-a-giant-f-key-that-actually-works)
  - [The Stardew Valley Cup is over and here are the winners](https://www.pcgamer.com/the-stardew-valley-cup-is-over-and-here-are-the-winners)
- - [Horizon Forbidden West will get free PS4-to-PS5 upgrade after customer blowback](https://www.polygon.com/22657653/horizon-forbidden-west-free-ps4-to-ps5-upgrade-jim-ryan)
- - [Have you ever played a game so much it changes your dreams?](https://www.pcgamer.com/have-you-ever-played-a-game-so-much-it-changes-your-dreams)<!-- GAME:END -->
+ - [Horizon Forbidden West will get free PS4-to-PS5 upgrade after customer blowback](https://www.polygon.com/22657653/horizon-forbidden-west-free-ps4-to-ps5-upgrade-jim-ryan)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
