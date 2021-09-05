@@ -196,9 +196,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When your dog is a Disney Princess](http://9gag.com/gag/a7EYbWb)
- - 🚯 [Traditional soap production in the old soap factory in central Nablus](http://9gag.com/gag/aO3MbpM)
- - 🚯 [Ronaldinho first goal for Barcelona.](http://9gag.com/gag/aWjrOAd)<!-- MEMES:END -->
+ - 🚖 [They going for a sequel soon?](http://9gag.com/gag/aZ06x66)
+ - 🚯 [Who needs phone alarm when he&#039;s around.](http://9gag.com/gag/a3E6Lgr)
+ - 🚯 [Twenty-two seems about right.](http://9gag.com/gag/aO3MbXr)<!-- MEMES:END -->
 
 --- 
 
