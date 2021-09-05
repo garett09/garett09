@@ -189,9 +189,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [T-Mobile buyer’s guide: Internet plans and more](https://www.androidauthority.com/t-mobile-internet-plans-2744874/)
- - [Segway’s Navimow robot will mow your lawn using GPS](https://www.theverge.com/2021/9/5/22658457/segway-navimow-robot-will-mow-your-lawn-using-gps)
- - [The 30 Best Labor Day Sales on Our Favorite Gear](https://www.wired.com/story/best-labor-day-sales-2021-1)<!-- TECH:END -->
+ - [Satechi Aluminum Stand & Hub review: transform iPad Pro into a mini workstation](https://appleinsider.com/articles/21/09/05/satechi-aluminum-stand-hub-review-transform-ipad-pro-into-a-mini-workstation?utm_medium=rss)
+ - [iPhone 13: We have a guess for the new iPhone's release date. Here are all the clues     - CNET](https://www.cnet.com/tech/mobile/iphone-13-we-have-a-guess-for-the-new-iphones-release-date-here-are-all-the-clues/#ftag=CAD590a51e)
+ - [Shang-Chi packs a punch in opening weekend box office     - CNET](https://www.cnet.com/news/shang-chi-packs-a-punch-in-opening-weekend-box-office/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
