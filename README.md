@@ -189,9 +189,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Firefly releases video and more details about its Alpha rocket that exploded mid-flight](https://www.theverge.com/2021/9/5/22658754/firefly-releases-video-details-alpha-rocket-exploded-space-force)
  - [Amazon Prime Video: 31 of the best TV shows to watch tonight     - CNET](https://www.cnet.com/news/amazon-prime-video-31-of-the-best-tv-shows-to-watch-tonight/#ftag=CAD590a51e)
- - [Amazon Prime Video: 25 of the best movies to watch tonight     - CNET](https://www.cnet.com/news/amazon-prime-video-25-of-the-best-movies-to-watch-tonight/#ftag=CAD590a51e)
- - [Netflix: 50 best TV shows to binge tonight     - CNET](https://www.cnet.com/news/netflix-50-best-tv-shows-to-binge-tonight/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Amazon Prime Video: 25 of the best movies to watch tonight     - CNET](https://www.cnet.com/news/amazon-prime-video-25-of-the-best-movies-to-watch-tonight/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
