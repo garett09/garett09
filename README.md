@@ -189,9 +189,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Shang-Chi packs a punch at box office in opening weekend     - CNET](https://www.cnet.com/news/shang-chi-packs-a-punch-at-box-office-in-opening-weekend/#ftag=CAD590a51e)
  - [Satechi Aluminum Stand & Hub review: transform iPad Pro into a mini workstation](https://appleinsider.com/articles/21/09/05/satechi-aluminum-stand-hub-review-transform-ipad-pro-into-a-mini-workstation?utm_medium=rss)
- - [iPhone 13: We have a guess for the new iPhone's release date. Here are all the clues     - CNET](https://www.cnet.com/tech/mobile/iphone-13-we-have-a-guess-for-the-new-iphones-release-date-here-are-all-the-clues/#ftag=CAD590a51e)
- - [Shang-Chi packs a punch in opening weekend box office     - CNET](https://www.cnet.com/news/shang-chi-packs-a-punch-in-opening-weekend-box-office/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [iPhone 13: We have a guess for the new iPhone's release date. Here are all the clues     - CNET](https://www.cnet.com/tech/mobile/iphone-13-we-have-a-guess-for-the-new-iphones-release-date-here-are-all-the-clues/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
