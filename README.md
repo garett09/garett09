@@ -182,9 +182,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best cooperative board games](https://www.polygon.com/tabletop-games/22648496/best-cooperative-board-games)
- - [Vampire: The Masquerade - Bloodhunt system requirements](https://www.pcgamer.com/vampire-the-masquerade-bloodhunt-system-requirements)
- - [Leaks suggest October release date for Alan Wake Remastered](https://www.pcgamer.com/leaks-suggest-october-release-date-for-alan-wake-remastered)<!-- GAME:END -->
+ - [The Polygon staff tries to draw Ms. Pac-Man from memory](https://www.polygon.com/22654628/ms-pac-man-fan-art-polygon-draws)
+ - [Sunday Comics: All Of Them](https://kotaku.com/sunday-comics-all-of-them-1847621195)
+ - [Our 11 most anticipated graphic novels of the fall](https://www.polygon.com/22654730/best-graphic-novels-2021-fall-new-comics)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
