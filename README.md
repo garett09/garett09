@@ -196,9 +196,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [After a small injury he is released again to the wild...](http://9gag.com/gag/a4EXYPm)
- - 🚯 [Guess someone forget the light](http://9gag.com/gag/awMExzr)
- - 🚯 [Don&#039;t worry about that; just some restructuring.](http://9gag.com/gag/arMQRYV)<!-- MEMES:END -->
+ - 🚖 [Japanese: No, Japan isn&#039;t like the anime. Also Japanese...](http://9gag.com/gag/aB2AYV1)
+ - 🚯 [Gold, silver and bronze for Italy in paraolympics 100mt race.](http://9gag.com/gag/aV7pXVP)
+ - 🚯 [So that&rsquo;s how one can get a woman&hellip;](http://9gag.com/gag/aV7pXyK)<!-- MEMES:END -->
 
 --- 
 
