@@ -196,9 +196,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [An Almora bulb](http://9gag.com/gag/aB2ArgA)
- - 🚯 [Mother and Son](http://9gag.com/gag/azMWLRZ)
- - 🚯 [Best picture I found in the internet](http://9gag.com/gag/aoMvjpe)<!-- MEMES:END -->
+ - 🚖 [When your dog is a Disney Princess](http://9gag.com/gag/a7EYbWb)
+ - 🚯 [Traditional soap production in the old soap factory in central Nablus](http://9gag.com/gag/aO3MbpM)
+ - 🚯 [Ronaldinho first goal for Barcelona.](http://9gag.com/gag/aWjrOAd)<!-- MEMES:END -->
 
 --- 
 
