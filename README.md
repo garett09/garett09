@@ -196,8 +196,8 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Tasty yummi](http://9gag.com/gag/arMQe97)
- - 🚯 [Congratulations to Dario Costa who became the first person ever to fly a plane through TWO tunnels!](http://9gag.com/gag/agBDywq)
+ - 🚖 [Soundtrack of the year over here](http://9gag.com/gag/amPeL4X)
+ - 🚯 [Found in India, 5000 years old, made from a single rock...](http://9gag.com/gag/aLpZP2x)
  - 🚯 [Russian &quot;fortress on wheels&quot;, armored bus-tank-train with machine guns and gas-grenade launchers. This is NOT FOR THE ARMY, but for the police in case of protests and rallies.](http://9gag.com/gag/agBD0Ex)<!-- MEMES:END -->
 
 --- 
