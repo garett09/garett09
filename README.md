@@ -189,9 +189,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Watch the original The Rocketeer on Disney Plus ahead of the reboot](https://www.androidauthority.com/rocketeer-disney-plus-reboot-2745932/)
  - [Apple Watch Series 7 will be hard to find when it launches](https://appleinsider.com/articles/21/09/05/apple-watch-series-7-production-issues-could-delay-shipments?utm_medium=rss)
- - [iPhone 13 will get satellite communications in just a few markets](https://appleinsider.com/articles/21/09/05/iphone-13-satellite-communications-tipped-for-select-markets?utm_medium=rss)
- - ['iPhone 13' MagSafe cases pictured in Twitter video](https://appleinsider.com/articles/21/09/05/iphone-13-magsafe-cases-pictured-in-now-deleted-twitter-video?utm_medium=rss)<!-- TECH:END -->
+ - [iPhone 13 will get satellite communications in just a few markets](https://appleinsider.com/articles/21/09/05/iphone-13-satellite-communications-tipped-for-select-markets?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
