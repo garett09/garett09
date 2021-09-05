@@ -196,9 +196,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Guess someone forget the light](http://9gag.com/gag/awMExzr)
- - 🚯 [Japanese: No, Japan isn&#039;t like the anime. Also Japanese...](http://9gag.com/gag/aB2AYV1)
- - 🚯 [Good](http://9gag.com/gag/aDdKo2Z)<!-- MEMES:END -->
+ - 🚖 [It&#039;s finally over!](http://9gag.com/gag/aV7pPNM)
+ - 🚯 [Camera man of the camera man](http://9gag.com/gag/aMKo9GW)
+ - 🚯 [It took me a lot of time, a huge amount of luck (I don&#039;t have connections) and a Master&#039;s degree to get a descent job. Finally I can provide to my family.](http://9gag.com/gag/aLpZ9XM)<!-- MEMES:END -->
 
 --- 
 
