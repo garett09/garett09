@@ -182,9 +182,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Vampire: The Masquerade - Bloodhunt system requirements](https://www.pcgamer.com/vampire-the-masquerade-bloodhunt-system-requirements)
  - [Leaks suggest October release date for Alan Wake Remastered](https://www.pcgamer.com/leaks-suggest-october-release-date-for-alan-wake-remastered)
- - [This legend made a giant F key that actually works](https://www.pcgamer.com/this-legend-made-a-giant-f-key-that-actually-works)
- - [The Stardew Valley Cup is over and here are the winners](https://www.pcgamer.com/the-stardew-valley-cup-is-over-and-here-are-the-winners)<!-- GAME:END -->
+ - [This legend made a giant F key that actually works](https://www.pcgamer.com/this-legend-made-a-giant-f-key-that-actually-works)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
