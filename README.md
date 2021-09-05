@@ -189,9 +189,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mexico-based Flat.mx, an online real estate marketplace for remodeled properties, raises $20M Series A led by Anthemis and 500 Startups (Mary Ann Azevedo/TechCrunch)](http://www.techmeme.com/210904/p7#a210904p7)
- - [iPhone 13: The most exciting rumors about release date, price, specs and more     - CNET](https://www.cnet.com/tech/mobile/iphone-13-the-most-exciting-rumors-about-release-date-price-specs-more/#ftag=CAD590a51e)
- - [All the iPhone 13 release date clues: Apple could reveal its new flagship in just a few weeks     - CNET](https://www.cnet.com/tech/mobile/all-iphone-13-release-date-clues-apple-could-reveal-its-new-flagship-in-just-few-weeks/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [GoDaddy cut off Texas Right to Life’s abortion ‘whistleblowing’ website, and it might be gone](https://www.theverge.com/2021/9/3/22656196/godaddy-texas-right-for-life-abortion-whistleblowing-site)
+ - [Vietnamese startup KiotViet, which provides cloud-based POS software for SMBs, raises $45M Series B led by KKR, after raising a $6M Series A in 2019 (Quynh Nguyen/DealStreetAsia)](http://www.techmeme.com/210904/p8#a210904p8)
+ - [Mexico-based Flat.mx, an online real estate marketplace for remodeled properties, raises $20M Series A led by Anthemis and 500 Startups (Mary Ann Azevedo/TechCrunch)](http://www.techmeme.com/210904/p7#a210904p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
