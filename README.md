@@ -196,9 +196,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Best picture I found in the internet](http://9gag.com/gag/aoMvjpe)
- - 🚯 [The circle of life](http://9gag.com/gag/axMLN5n)
- - 🚯 [Gotta go bois](http://9gag.com/gag/ajmz0MQ)<!-- MEMES:END -->
+ - 🚖 [Gotta go bois](http://9gag.com/gag/ajmz0MQ)
+ - 🚯 [Found in India, 5000 years old, made from a single rock...](http://9gag.com/gag/aLpZP2x)
+ - 🚯 [Best picture I found in the internet](http://9gag.com/gag/aoMvjpe)<!-- MEMES:END -->
 
 --- 
 
