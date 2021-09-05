@@ -182,9 +182,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Killing Floor Boss Pleased Texas Women Losing Basic Human Rights](https://kotaku.com/killing-floor-boss-pleased-texas-women-losing-basic-hum-1847622143)
- - [Satisfactory update 5 has a rampload of new cosmetics and structure parts](https://www.pcgamer.com/satisfactory-update-5-has-a-rampload-of-new-cosmetic-bits-to-build)
- - [This mod makes Doom into an RTS using Age of Empires 2](https://www.pcgamer.com/this-mod-makes-doom-into-an-rts-using-age-of-empires-2)<!-- GAME:END -->
+ - [The Week In Games: Show Your True Colors](https://kotaku.com/the-week-in-games-show-your-true-colors-1847622297)
+ - [The lo-fi open world of this occult RPG looks thrilling](https://www.pcgamer.com/the-lo-fi-open-world-of-this-occult-rpg-looks-thrilling)
+ - [Killing Floor Boss Pleased Texas Women Losing Basic Human Rights](https://kotaku.com/killing-floor-boss-pleased-texas-women-losing-basic-hum-1847622143)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
