@@ -189,9 +189,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - ['iPhone 13' MagSafe cases pictured in now-deleted Twitter video](https://appleinsider.com/articles/21/09/05/iphone-13-magsafe-cases-pictured-in-now-deleted-twitter-video?utm_medium=rss)
- - [To Learn More Quickly, Brain Cells Break Their DNA](https://www.wired.com/story/to-learn-more-quickly-brain-cells-break-their-dna)
- - [Best midsize SUV for 2021: Shop our top choices     - Roadshow](https://www.cnet.com/roadshow/news/best-midsize-suv-shopping/#ftag=CAD590a51e)<!-- TECH:END -->
+ - ['iPhone 13' MagSafe cases pictured in Twitter video](https://appleinsider.com/articles/21/09/05/iphone-13-magsafe-cases-pictured-in-now-deleted-twitter-video?utm_medium=rss)
+ - [iPhone 13, Apple Watch Series 7 & more: what to expect from Apple](https://appleinsider.com/articles/21/07/12/iphone-13-imac-14-inch-macbook-pro-and-more-whats-coming-from-apple-in-late-2021?utm_medium=rss)
+ - [Why custom imaging chips are the next mobile photography battleground](https://www.androidauthority.com/smartphone-custom-isp-2745638/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
