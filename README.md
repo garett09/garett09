@@ -189,9 +189,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 30 Best Labor Day Sales on Our Favorite Gear](https://www.wired.com/story/best-labor-day-sales-2021-1)
- - [The Mercedes-Benz EQE is a more approachable luxury electric car](https://www.theverge.com/2021/9/5/22657836/the-mercedes-benz-eqe-is-a-more-approachable-luxury-electric-car)
- - [Mercedes-Benz reveals an electric G-Wagen concept for the future](https://www.theverge.com/2021/9/5/22657738/mercedes-benz-eqg-concept-g-class-suv-electric-iaa-mobility)<!-- TECH:END -->
+ - [T-Mobile buyer’s guide: Internet plans and more](https://www.androidauthority.com/t-mobile-internet-plans-2744874/)
+ - [Segway’s Navimow robot will mow your lawn using GPS](https://www.theverge.com/2021/9/5/22658457/segway-navimow-robot-will-mow-your-lawn-using-gps)
+ - [The 30 Best Labor Day Sales on Our Favorite Gear](https://www.wired.com/story/best-labor-day-sales-2021-1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
