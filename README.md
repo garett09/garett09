@@ -196,8 +196,8 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Gotta go bois](http://9gag.com/gag/ajmz0MQ)
- - 🚯 [Found in India, 5000 years old, made from a single rock...](http://9gag.com/gag/aLpZP2x)
+ - 🚖 [An Almora bulb](http://9gag.com/gag/aB2ArgA)
+ - 🚯 [Mother and Son](http://9gag.com/gag/azMWLRZ)
  - 🚯 [Best picture I found in the internet](http://9gag.com/gag/aoMvjpe)<!-- MEMES:END -->
 
 --- 
