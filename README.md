@@ -196,9 +196,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ultimate version of Pretty Woman](http://9gag.com/gag/a2735md)
- - 🚯 [Kid receives permission from the teacher to eat a fruit during class.](http://9gag.com/gag/aK6Q33j)
- - 🚯 [I&#039;m convinced the paparazzi are sociopaths](http://9gag.com/gag/a8ERMnZ)<!-- MEMES:END -->
+ - 🚖 [Pizza party at ISS](http://9gag.com/gag/a9Exrr1)
+ - 🚯 [Hmmm, interesting&hellip;.](http://9gag.com/gag/awME5gR)
+ - 🚯 [It&#039;s free](http://9gag.com/gag/ajmzqK1)<!-- MEMES:END -->
 
 --- 
 
