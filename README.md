@@ -196,9 +196,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Seemed awfully panicked after it did exactly what it&rsquo;s made to do&hellip;](http://9gag.com/gag/aEp9n3K)
- - 🚯 [Mekanik](http://9gag.com/gag/a6E0MQq)
- - 🚯 [Mood changes](http://9gag.com/gag/awMEVxx)<!-- MEMES:END -->
+ - 🚖 [Ultimate version of Pretty Woman](http://9gag.com/gag/a2735md)
+ - 🚯 [Kid receives permission from the teacher to eat a fruit during class.](http://9gag.com/gag/aK6Q33j)
+ - 🚯 [I&#039;m convinced the paparazzi are sociopaths](http://9gag.com/gag/a8ERMnZ)<!-- MEMES:END -->
 
 --- 
 
