@@ -189,9 +189,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Shang-Chi packs a punch at box office in opening weekend     - CNET](https://www.cnet.com/news/shang-chi-packs-a-punch-at-box-office-in-opening-weekend/#ftag=CAD590a51e)
- - [Satechi Aluminum Stand & Hub review: transform iPad Pro into a mini workstation](https://appleinsider.com/articles/21/09/05/satechi-aluminum-stand-hub-review-transform-ipad-pro-into-a-mini-workstation?utm_medium=rss)
- - [iPhone 13: We have a guess for the new iPhone's release date. Here are all the clues     - CNET](https://www.cnet.com/tech/mobile/iphone-13-we-have-a-guess-for-the-new-iphones-release-date-here-are-all-the-clues/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Amazon Prime Video: 31 of the best TV shows to watch tonight     - CNET](https://www.cnet.com/news/amazon-prime-video-31-of-the-best-tv-shows-to-watch-tonight/#ftag=CAD590a51e)
+ - [Amazon Prime Video: 25 of the best movies to watch tonight     - CNET](https://www.cnet.com/news/amazon-prime-video-25-of-the-best-movies-to-watch-tonight/#ftag=CAD590a51e)
+ - [Netflix: 50 best TV shows to binge tonight     - CNET](https://www.cnet.com/news/netflix-50-best-tv-shows-to-binge-tonight/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
