@@ -189,9 +189,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Labor Day sales: Deals on LG OLED TV, Weber grill, Dyson vacuum, laptops and more     - CNET](https://www.cnet.com/home/best-labor-day-sales-2021/#ftag=CAD590a51e)
- - [Drake takes Apple Music record from Kanye for most-streamed album launch](https://appleinsider.com/articles/21/09/04/drake-takes-apple-music-record-from-kanye-for-most-streamed-album-launch?utm_medium=rss)
- - [The Y: The Last Man is heading to Hulu and here’s everything you need to know](https://www.androidauthority.com/y-the-last-man-series-fx-hulu-2745453/)<!-- TECH:END -->
+ - [iPhone 13: The most exciting rumors about release date, price, specs and more     - CNET](https://www.cnet.com/tech/mobile/iphone-13-the-most-exciting-rumors-about-release-date-price-specs-more/#ftag=CAD590a51e)
+ - [All the iPhone 13 release date clues: Apple could reveal its new flagship in just a few weeks     - CNET](https://www.cnet.com/tech/mobile/all-iphone-13-release-date-clues-apple-could-reveal-its-new-flagship-in-just-few-weeks/#ftag=CAD590a51e)
+ - [Best phones for $300 or less: Galaxy A50, A32, Moto G Stylus and more     - CNET](https://www.cnet.com/tech/mobile/best-phones-under-300-galaxy/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
