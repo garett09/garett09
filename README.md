@@ -182,9 +182,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Have you ever played a game so much it changes your dreams?](https://www.pcgamer.com/have-you-ever-played-a-game-so-much-it-changes-your-dreams)
- - [UPDATE: Pre-order Horizon Forbidden West now: Collector’s and Digital Deluxe Editions detailed](http://feedproxy.google.com/~r/PSBlog/~3/ODk4Y9s2o3E/)
- - [UPDATE: Pre-order Horizon Forbidden West now: Collector’s and Digital Deluxe Editions detailed](https://blog.playstation.com/2021/09/04/pre-order-horizon-forbidden-west-now-collectors-and-digital-deluxe-editions-detailed/)<!-- GAME:END -->
+ - [The Stardew Valley Cup is over and here are the winners](https://www.pcgamer.com/the-stardew-valley-cup-is-over-and-here-are-the-winners)
+ - [Horizon Forbidden West will get free PS4-to-PS5 upgrade after customer blowback](https://www.polygon.com/22657653/horizon-forbidden-west-free-ps4-to-ps5-upgrade-jim-ryan)
+ - [Have you ever played a game so much it changes your dreams?](https://www.pcgamer.com/have-you-ever-played-a-game-so-much-it-changes-your-dreams)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
