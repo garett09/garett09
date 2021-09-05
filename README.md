@@ -182,9 +182,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Polygon staff tries to draw Ms. Pac-Man from memory](https://www.polygon.com/22654628/ms-pac-man-fan-art-polygon-draws)
- - [Sunday Comics: All Of Them](https://kotaku.com/sunday-comics-all-of-them-1847621195)
- - [Our 11 most anticipated graphic novels of the fall](https://www.polygon.com/22654730/best-graphic-novels-2021-fall-new-comics)<!-- GAME:END -->
+ - [Sony Will No Longer Offer Free Next-Gen Upgrades For Its First-Party Games](https://kotaku.com/sony-will-no-longer-offer-free-next-gen-upgrades-for-it-1847621301)
+ - [Neill Blomkamp thinks we’ll soon be able to live inside Marvel movies](https://www.polygon.com/interviews/22650859/neill-blomkamp-demonic-interview-volumetric)
+ - [The Polygon staff tries to draw Ms. Pac-Man from memory](https://www.polygon.com/22654628/ms-pac-man-fan-art-polygon-draws)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
