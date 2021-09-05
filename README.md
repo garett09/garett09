@@ -189,9 +189,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Weekly Authority: Edition #158](https://www.androidauthority.com/newsletters/weekly-authority-edition-158/)
- - [Best Android phones you can buy in 2021     - CNET](https://www.cnet.com/tech/mobile/best-android-phones/#ftag=CAD590a51e)
- - [A look at the mechanics behind Community DAOs, including Flamingo and Fingerprints, which collect blue chip NFTs to raise funds via NFT "drops" (Patrick Rivera/Crypto x Creator Economy)](http://www.techmeme.com/210905/p1#a210905p1)<!-- TECH:END -->
+ - [Why Xbox Game Pass should be on the Nintendo Switch](https://www.androidauthority.com/nintendo-switch-xbox-game-pass-2741951/)
+ - [How to Turn Your Favorite Web Apps Into Desktop Apps](https://www.wired.com/story/how-to-turn-web-apps-into-desktop-apps-pwa)
+ - [Best small phones to buy in 2021     - CNET](https://www.cnet.com/tech/mobile/best-small-phones/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
