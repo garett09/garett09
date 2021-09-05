@@ -182,9 +182,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Sony Will No Longer Offer Free Next-Gen Upgrades For Its First-Party Games](https://kotaku.com/sony-will-no-longer-offer-free-next-gen-upgrades-for-it-1847621301)
- - [Neill Blomkamp thinks we’ll soon be able to live inside Marvel movies](https://www.polygon.com/interviews/22650859/neill-blomkamp-demonic-interview-volumetric)
- - [The Polygon staff tries to draw Ms. Pac-Man from memory](https://www.polygon.com/22654628/ms-pac-man-fan-art-polygon-draws)<!-- GAME:END -->
+ - [343 Is Changing Halo Infinite's Motion Tracker To Be More Like The Old Games](https://kotaku.com/343-is-changing-halo-infinites-motion-tracker-to-be-mor-1847619777)
+ - [This Week in PC Gaming: Bloodhunt, Sonic Colors Ultimate, and Life is Strange: True Colors](https://www.pcgamer.com/this-week-in-pc-gaming-bloodhunt-sonic-colors-ultimate-and-life-is-strange-true-colors)
+ - [Sony Will No Longer Offer Free Next-Gen Upgrades For Its First-Party Games](https://kotaku.com/sony-will-no-longer-offer-free-next-gen-upgrades-for-it-1847621301)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
