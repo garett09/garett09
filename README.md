@@ -196,9 +196,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hungary Based.](http://9gag.com/gag/abVN5e9)
- - 🚯 [Russian &quot;fortress on wheels&quot;, armored bus-tank-train with machine guns and gas-grenade launchers. This is NOT FOR THE ARMY, but for the police in case of protests and rallies.](http://9gag.com/gag/agBD0Ex)
- - 🚯 [Soundtrack of the year over here](http://9gag.com/gag/amPeL4X)<!-- MEMES:END -->
+ - 🚖 [Soundtrack of the year over here](http://9gag.com/gag/amPeL4X)
+ - 🚯 [Gotta go bois](http://9gag.com/gag/ajmz0MQ)
+ - 🚯 [There is so much going on...](http://9gag.com/gag/aAb8V5o)<!-- MEMES:END -->
 
 --- 
 
