@@ -182,9 +182,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This mod makes Doom into an RTS using Age of Empires 2](https://www.pcgamer.com/this-mod-makes-doom-into-an-rts-using-age-of-empires-2)
- - [343 Is Changing Halo Infinite's Motion Tracker To Be More Like The Old Games](https://kotaku.com/343-is-changing-halo-infinites-motion-tracker-to-be-mor-1847619777)
- - [This Week in PC Gaming: Bloodhunt, Sonic Colors Ultimate, and Life is Strange: True Colors](https://www.pcgamer.com/this-week-in-pc-gaming-bloodhunt-sonic-colors-ultimate-and-life-is-strange-true-colors)<!-- GAME:END -->
+ - [Killing Floor Boss Pleased Texas Women Losing Basic Human Rights](https://kotaku.com/killing-floor-boss-pleased-texas-women-losing-basic-hum-1847622143)
+ - [Satisfactory update 5 has a rampload of new cosmetics and structure parts](https://www.pcgamer.com/satisfactory-update-5-has-a-rampload-of-new-cosmetic-bits-to-build)
+ - [This mod makes Doom into an RTS using Age of Empires 2](https://www.pcgamer.com/this-mod-makes-doom-into-an-rts-using-age-of-empires-2)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
