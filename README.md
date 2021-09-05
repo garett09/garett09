@@ -196,9 +196,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It&#039;s finally over!](http://9gag.com/gag/aV7pPNM)
- - 🚯 [After a small injury he is released again to the wild...](http://9gag.com/gag/a4EXYPm)
- - 🚯 [Think twice before taking your kids to the Zoo&#039;s these days](http://9gag.com/gag/azMWjEN)<!-- MEMES:END -->
+ - 🚖 [No toes were broken during the making of this video](http://9gag.com/gag/aoMvpMA)
+ - 🚯 [My disappointment is immeasurable and my day is ruined.](http://9gag.com/gag/ayMbdDy)
+ - 🚯 [Ultimate version of Pretty Woman](http://9gag.com/gag/a2735md)<!-- MEMES:END -->
 
 --- 
 
