@@ -189,9 +189,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Why Xbox Game Pass should be on the Nintendo Switch](https://www.androidauthority.com/nintendo-switch-xbox-game-pass-2741951/)
- - [How to Turn Your Favorite Web Apps Into Desktop Apps](https://www.wired.com/story/how-to-turn-web-apps-into-desktop-apps-pwa)
- - [Best small phones to buy in 2021     - CNET](https://www.cnet.com/tech/mobile/best-small-phones/#ftag=CAD590a51e)<!-- TECH:END -->
+ - ['iPhone 13' MagSafe cases pictured in now-deleted Twitter video](https://appleinsider.com/articles/21/09/05/iphone-13-magsafe-cases-pictured-in-now-deleted-twitter-video?utm_medium=rss)
+ - [To Learn More Quickly, Brain Cells Break Their DNA](https://www.wired.com/story/to-learn-more-quickly-brain-cells-break-their-dna)
+ - [Best midsize SUV for 2021: Shop our top choices     - Roadshow](https://www.cnet.com/roadshow/news/best-midsize-suv-shopping/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
