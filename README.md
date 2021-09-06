@@ -196,9 +196,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Mum Sees Book About to Fall on Child in TV Reflection](http://9gag.com/gag/aYo37pV)
- - 🚯 [They don&#039;t do it brick by brick](http://9gag.com/gag/amPeBLo)
- - 🚯 [Type F to Pay Respects.](http://9gag.com/gag/anQm9mo)<!-- MEMES:END -->
+ - 🚖 [In Salzburg, Austria, there&#039;s a special desk in the airport in case you landed in Austria by mistake instead of Australia](http://9gag.com/gag/aNp7YK0)
+ - 🚯 [Took way to long to get mad](http://9gag.com/gag/aV7p038)
+ - 🚯 [Mum Sees Book About to Fall on Child in TV Reflection](http://9gag.com/gag/aYo37pV)<!-- MEMES:END -->
 
 --- 
 
