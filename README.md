@@ -197,8 +197,8 @@ Linux                    0 secs              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 🚖 [King under the mountain](http://9gag.com/gag/a3E6Kmv)
- - 🚯 [BBC crew rescues trapped Penguins](http://9gag.com/gag/aWjr1X2)
- - 🚯 [Injured? Good.](http://9gag.com/gag/ayMbxmy)<!-- MEMES:END -->
+ - 🚯 [SWEET HOME ALABAMA](http://9gag.com/gag/aAb83yd)
+ - 🚯 [Artists are not just artists...sometimes they are healers](http://9gag.com/gag/a8ERo2O)<!-- MEMES:END -->
 
 --- 
 
