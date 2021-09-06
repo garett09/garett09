@@ -189,9 +189,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mobius Labs nabs $6M to help more sectors tap into computer vision](http://feedproxy.google.com/~r/Techcrunch/~3/MoJun7_Xwl4/)
- - [VW is reviving its iconic microbus as an electric robotaxi](https://www.theverge.com/2021/9/6/22659306/vw-autonomous-id-buzz-reveal-argo-iaa)
- - [Quantum Machines, whose hardware and software help users leverage quantum computing, raises $50M Series B led by Red Dot Capital (Ron Miller/TechCrunch)](http://www.techmeme.com/210906/p4#a210906p4)<!-- TECH:END -->
+ - [Samsung Galaxy Tab S7 FE review: Pretty, but underpowered](https://www.androidauthority.com/samsung-galaxy-tab-s7-fe-review-2740931/)
+ - [How to delete Significant Locations from your iPhone and iPad](https://appleinsider.com/articles/21/09/06/how-to-delete-significant-locations-from-your-iphone-and-ipad?utm_medium=rss)
+ - [Mark Hamill tweets his own name, gets half a million likes     - CNET](https://www.cnet.com/news/mark-hamill-tweets-his-own-name-gets-half-a-million-likes/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
