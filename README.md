@@ -196,9 +196,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The shorts of ultimate attraction, ngl](http://9gag.com/gag/anQmMq0)
- - 🚯 [Tax them all](http://9gag.com/gag/aoMvOKw)
- - 🚯 [Steam Engine Mechanic Gets Stuck](http://9gag.com/gag/azMW86x)<!-- MEMES:END -->
+ - 🚖 [Signature move](http://9gag.com/gag/azMWqZB)
+ - 🚯 [Rhino calf wakes up from tranquilizer, and defends mother from the perceived threat of the researchers](http://9gag.com/gag/agBDXm6)
+ - 🚯 [Power Down/ Power Up](http://9gag.com/gag/aQoLeNz)<!-- MEMES:END -->
 
 --- 
 
