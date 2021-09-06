@@ -196,9 +196,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The way](http://9gag.com/gag/aO3M7MM)
- - 🚯 [The south pole has it&#039;s first sunrise in 6 months!](http://9gag.com/gag/a4EXERw)
- - 🚯 [That&#039;s it](http://9gag.com/gag/a9Exn0L)<!-- MEMES:END -->
+ - 🚖 [That&#039;s it](http://9gag.com/gag/a9Exn0L)
+ - 🚯 [Let&#039;s not](http://9gag.com/gag/aB2A2rN)
+ - 🚯 [The way](http://9gag.com/gag/aO3M7MM)<!-- MEMES:END -->
 
 --- 
 
