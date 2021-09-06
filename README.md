@@ -189,9 +189,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Volkswagen and Argo AI reveal first ID Buzz test vehicle for autonomous driving](http://feedproxy.google.com/~r/Techcrunch/~3/GFX3icVttN8/)
- - [Food sharing app OLIO raises $43M Series B led by VNV Global, as the startup tries to tackle food waste, with Tesco adding 2.7K stores to the service in 2020 (Mike Butcher/TechCrunch)](http://www.techmeme.com/210905/p7#a210905p7)
- - [AEW All Out 2021: Results, live updates and match ratings     - CNET](https://www.cnet.com/news/aew-all-out-2021-results-live-updates-and-match-ratings/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Researchers uncover BrakTooth, 16 flaws in Bluetooth firmware in SoC boards used in billions of devices from 11 top vendors that can allow remote code execution (Catalin Cimpanu/The Record)](http://www.techmeme.com/210905/p8#a210905p8)
+ - [Scientists reveal the secrets behind ant teeth super strength     - CNET](https://www.cnet.com/news/scientists-reveal-the-secrets-behind-ant-teeth-super-strength/#ftag=CAD590a51e)
+ - [Dune is definitely coming out on HBO Max: Release date, price, part 2?     - CNET](https://www.cnet.com/news/dune-is-definitely-coming-out-on-hbo-max-release-date-price-part-2/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
