@@ -196,9 +196,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Signature move](http://9gag.com/gag/azMWqZB)
- - 🚯 [Rhino calf wakes up from tranquilizer, and defends mother from the perceived threat of the researchers](http://9gag.com/gag/agBDXm6)
- - 🚯 [Power Down/ Power Up](http://9gag.com/gag/aQoLeNz)<!-- MEMES:END -->
+ - 🚖 [What a crazy woman](http://9gag.com/gag/aeAnMGq)
+ - 🚯 [What it takes not to die in the winter in Alaska...](http://9gag.com/gag/aeAnemq)
+ - 🚯 [Artists are not just artists...sometimes they are healers](http://9gag.com/gag/a8ERo2O)<!-- MEMES:END -->
 
 --- 
 
