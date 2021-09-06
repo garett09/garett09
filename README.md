@@ -182,9 +182,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Resellers Are Charging People For Games That Are Actually Free](https://kotaku.com/you-shouldnt-pay-for-bloodhunt-because-its-free-1847625233)
  - [No Man's Sky Finally Finds Love On Steam](https://kotaku.com/no-mans-sky-finally-finds-love-1847624893)
- - [Sonic Colors: Ultimate Glitches Could Cause Seizures](https://kotaku.com/sonic-colors-ultimate-glitches-could-cause-seizures-1847624754)
- - [The best left-handed mouse for gaming in 2021](https://www.pcgamer.com/the-best-left-handed-mouse-for-gaming-for-2019)<!-- GAME:END -->
+ - [Sonic Colors: Ultimate Glitches Could Cause Seizures](https://kotaku.com/sonic-colors-ultimate-glitches-could-cause-seizures-1847624754)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
