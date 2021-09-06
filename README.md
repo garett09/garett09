@@ -182,9 +182,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Observational thriller Conway: Disappearance at Dahlia View launches November 2 on PS5, PS4](http://feedproxy.google.com/~r/PSBlog/~3/y_5VwWJrxCg/)
- - [Report: Nearly Half Of Paradox Staff Experience "Mistreatment"](https://kotaku.com/report-nearly-half-of-paradox-staff-experience-mistre-1847624162)
- - [Observational thriller Conway: Disappearance at Dahlia View launches November 2 on PS5, PS4](https://blog.playstation.com/2021/09/06/observational-thriller-conway-disappearance-at-dahlia-view-launches-november-2-on-ps5-ps4/)<!-- GAME:END -->
+ - [PlayStation Now games for September: Tekken 7, Killing Floor 2, Final Fantasy VII, Windbound](http://feedproxy.google.com/~r/PSBlog/~3/ePi_3mz99_o/)
+ - [PlayStation Now games for September: Tekken 7, Killing Floor 2, Final Fantasy VII, Windbound](https://blog.playstation.com/2021/09/06/playstation-now-games-for-september-tekken-7-killing-floor-2-final-fantasy-vii-windbound/)
+ - [New Pokémon Card Shop Claims To Be The World's Largest](https://kotaku.com/new-pokemon-card-shop-claims-to-be-the-worlds-largest-1847624327)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
