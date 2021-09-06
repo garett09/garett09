@@ -182,9 +182,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [PlayStation Now games for September: Tekken 7, Killing Floor 2, Final Fantasy VII, Windbound](http://feedproxy.google.com/~r/PSBlog/~3/ePi_3mz99_o/)
- - [PlayStation Now games for September: Tekken 7, Killing Floor 2, Final Fantasy VII, Windbound](https://blog.playstation.com/2021/09/06/playstation-now-games-for-september-tekken-7-killing-floor-2-final-fantasy-vii-windbound/)
- - [New Pokémon Card Shop Claims To Be The World's Largest](https://kotaku.com/new-pokemon-card-shop-claims-to-be-the-worlds-largest-1847624327)<!-- GAME:END -->
+ - [No Man's Sky Finally Finds Love On Steam](https://kotaku.com/no-mans-sky-finally-finds-love-1847624893)
+ - [Sonic Colors: Ultimate Glitches Could Cause Seizures](https://kotaku.com/sonic-colors-ultimate-glitches-could-cause-seizures-1847624754)
+ - [The best left-handed mouse for gaming in 2021](https://www.pcgamer.com/the-best-left-handed-mouse-for-gaming-for-2019)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
