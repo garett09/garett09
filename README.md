@@ -189,9 +189,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [ProtonMail court order leads to the arrest of French climate activist](https://www.theverge.com/2021/9/6/22659861/protonmail-swiss-court-order-french-climate-activist-arrest-identification)
- - [A.ID closes Pre-Seed funding for ID verification platform aimed at high-risk clients](http://feedproxy.google.com/~r/Techcrunch/~3/zyFsQ4RWJDI/)
- - [Financial automation startup Aurelia raises $3M Seed round led by Blossom Capital](http://feedproxy.google.com/~r/Techcrunch/~3/50cOjXBkKxg/)<!-- TECH:END -->
+ - [A look at the growing movement of "self-hosting", a practice where dedicated hobbyists run their own internet services at home on hardware they own (John Kehayias/VICE)](http://www.techmeme.com/210906/p10#a210906p10)
+ - [Apple says achieved pay equity, urges employees to report workplace issues to management](https://appleinsider.com/articles/21/09/06/apple-says-achieved-pay-equity-urges-employees-to-report-workplace-issues-to-management?utm_medium=rss)
+ - [The best water filter pitcher for 2021     - CNET](https://www.cnet.com/home/kitchen-and-household/best-water-filter-pitcher/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
