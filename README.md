@@ -189,9 +189,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Founders Factory and G-Force launch Seed program for climate-focused startups](http://feedproxy.google.com/~r/Techcrunch/~3/qWWwHPyxn5o/)
- - [Nigeria’s Autochek acquires Cheki Kenya and Uganda from ROAM Africa](http://feedproxy.google.com/~r/Techcrunch/~3/0psu6tFFdbM/)
- - [BMW i Vision Circular concept is an electric city car that's totally recyclable     - Roadshow](https://www.cnet.com/roadshow/news/bmw-i-vision-circular-concept-recycle-munich-auto-show/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Did your Google Clock app alarm not go off? You are not alone. (Updated: Fix)](https://www.androidauthority.com/google-clock-app-bug-2746394/)
+ - [Cupra's UrbanRebel Concept is an incredibly racy electric hot hatch     - Roadshow](https://www.cnet.com/roadshow/news/cupras-urbanrebel-concept-electric-hot-hatch-iaa-munich/#ftag=CAD590a51e)
+ - [Founders Factory and G-Force launch Seed program for climate-focused startups](http://feedproxy.google.com/~r/Techcrunch/~3/qWWwHPyxn5o/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
