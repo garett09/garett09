@@ -196,8 +196,8 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Well, one is common in both.](http://9gag.com/gag/ajmz8Lq)
- - 🚯 [SWEET HOME ALABAMA](http://9gag.com/gag/aAb83yd)
+ - 🚖 [Dad: &quot;They separated me from my 12 year old Son&quot; Son: &quot;Hi Dad&quot; Dad: &quot;Oh there he is&quot;](http://9gag.com/gag/aGpmZ66)
+ - 🚯 [Don&#039;t hold the rails!](http://9gag.com/gag/ajmz81p)
  - 🚯 [Parrot eating a croissant](http://9gag.com/gag/aNp70gb)<!-- MEMES:END -->
 
 --- 
