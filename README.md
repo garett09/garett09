@@ -196,8 +196,8 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [BBC crew rescues trapped Penguins](http://9gag.com/gag/aWjr1X2)
- - 🚯 [Well well.](http://9gag.com/gag/aGpmZqK)
+ - 🚖 [I present you Brugge, Belgium](http://9gag.com/gag/arMQgz7)
+ - 🚯 [Dad: &quot;They separated me from my 12 year old Son&quot; Son: &quot;Hi Dad&quot; Dad: &quot;Oh there he is&quot;](http://9gag.com/gag/aGpmZ66)
  - 🚯 [Just saying ..](http://9gag.com/gag/aYo3gzm)<!-- MEMES:END -->
 
 --- 
