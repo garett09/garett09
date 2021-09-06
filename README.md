@@ -189,9 +189,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [California bill takes aim at Amazon’s productivity-tracking algorithms](https://www.theverge.com/2021/9/6/22659681/california-law-productivity-algorithms-warehouse-fulfillment-center-labor)
  - [Save 33% on the Samsung Galaxy Chromebook, and more Chromebook deals](https://www.androidauthority.com/cheap-chromebook-deals-882052/)
- - [ProtonMail is under fire for disclosing a French activist's IP address to Swiss authorities; ProtonMail had claimed to only log IPs in "extreme criminal cases" (TechCrunch)](http://www.techmeme.com/210906/p8#a210906p8)
- - [You told us: Faster displays are fast becoming the norm](https://www.androidauthority.com/maximum-refresh-rate-phone-poll-results-2747483/)<!-- TECH:END -->
+ - [ProtonMail is under fire for disclosing a French activist's IP address to Swiss authorities; ProtonMail had claimed to only log IPs in "extreme criminal cases" (TechCrunch)](http://www.techmeme.com/210906/p8#a210906p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
