@@ -196,9 +196,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Oh, how could you tell I was Polish?](http://9gag.com/gag/a8ERpne)
- - 🚯 [Lighting hitting the same spot 11 time](http://9gag.com/gag/aoMv18A)
- - 🚯 [Power Down/ Power Up](http://9gag.com/gag/aQoLeNz)<!-- MEMES:END -->
+ - 🚖 [What a drop](http://9gag.com/gag/a07r5Ad)
+ - 🚯 [Power Down/ Power Up](http://9gag.com/gag/aQoLeNz)
+ - 🚯 [Tax them all](http://9gag.com/gag/aoMvOKw)<!-- MEMES:END -->
 
 --- 
 
