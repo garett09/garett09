@@ -182,9 +182,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Week In Games: Show Your True Colors](https://kotaku.com/the-week-in-games-show-your-true-colors-1847622297)
- - [The lo-fi open world of this occult RPG looks thrilling](https://www.pcgamer.com/the-lo-fi-open-world-of-this-occult-rpg-looks-thrilling)
- - [Killing Floor Boss Pleased Texas Women Losing Basic Human Rights](https://kotaku.com/killing-floor-boss-pleased-texas-women-losing-basic-hum-1847622143)<!-- GAME:END -->
+ - [Five new Steam games you probably missed (September 6, 2021)](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-september-6-2021)
+ - [The animated Injustice movie will be out in October](https://www.pcgamer.com/the-animated-injustice-movie-will-be-out-in-october)
+ - [It's 2021 And I Can Still Be Impressed Seeing Skyrim Modded To Hell And Back](https://kotaku.com/its-2021-and-i-can-still-be-impressed-seeing-skyrim-mod-1847622483)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
