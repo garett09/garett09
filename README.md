@@ -189,9 +189,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the growing movement of "self-hosting", a practice where dedicated hobbyists run their own internet services at home on hardware they own (John Kehayias/VICE)](http://www.techmeme.com/210906/p10#a210906p10)
- - [Apple says achieved pay equity, urges employees to report workplace issues to management](https://appleinsider.com/articles/21/09/06/apple-says-achieved-pay-equity-urges-employees-to-report-workplace-issues-to-management?utm_medium=rss)
- - [The best water filter pitcher for 2021     - CNET](https://www.cnet.com/home/kitchen-and-household/best-water-filter-pitcher/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Some Apple Watch Solo Loop users complain of tearing, breaks](https://appleinsider.com/articles/21/09/06/some-apple-watch-solo-loop-users-complain-of-tearing-breaks?utm_medium=rss)
+ - [The best AT&T deals: Save $1,000 on the Galaxy Z Fold 3 with a trade-in](https://www.androidauthority.com/best-att-deals-2-836102/)
+ - [Best memory foam mattress of 2021     - CNET](https://www.cnet.com/health/sleep/best-memory-foam-mattress/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
