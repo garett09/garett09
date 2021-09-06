@@ -189,9 +189,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Just in: AirPods prices slashed to as low as $99 for Labor Day](https://appleinsider.com/articles/21/09/06/just-in-airpods-prices-slashed-to-as-low-as-99-for-labor-day?utm_medium=rss)
- - [Best Deals September 6 - 25% off Philips Hue Light Bulbs, $10 off Ring Video Doorbell, Labor Day Deals, and more!](https://appleinsider.com/articles/21/09/06/best-deals-september-6---25-off-philips-hue-light-bulbs-10-off-ring-video-doorbell-labor-day-deals-and-more?utm_medium=rss)
- - [Analysis: mining bitcoin uses 91 TW/h of electricity annually, ~0.5% of all electricity consumed globally or 7x Google's total usage, and grew 10x in five years (New York Times)](http://www.techmeme.com/210906/p5#a210906p5)<!-- TECH:END -->
+ - ['iPhone 13' A15 chip performance continues dominance over Android rivals](https://appleinsider.com/articles/21/09/06/iphone-13-a15-chip-performance-continues-dominance-over-android-rivals?utm_medium=rss)
+ - [Phoebe Waller-Bridge exits Amazon’s Mr. and Mrs. Smith series](https://www.theverge.com/2021/9/6/22659503/phoebe-waller-bridge-leaves-amazon-mr-and-mrs-smith-series-donald-glover)
+ - [A look at the substrates that connect chips to circuit boards, and how years of underinvestment in substrate manufacturing has worsened the global chip shortage (Asa Fitch/Wall Street Journal)](http://www.techmeme.com/210906/p6#a210906p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
