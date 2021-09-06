@@ -189,9 +189,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy S22 series: All the rumors in one place (Updated: Sept. 6)](https://www.androidauthority.com/samsung-galaxy-s22-1643006/)
- - [Phone makers may be forced to provide 7 years of updates in this one market](https://www.androidauthority.com/germany-smartphone-updates-7-years-2747485/)
- - [Barcelona-based Factorial, which develops HR software for SMBs, raises $80M led by Tiger Global, sources say at a $530M valuation (Ingrid Lunden/TechCrunch)](http://www.techmeme.com/210906/p1#a210906p1)<!-- TECH:END -->
+ - [Founders Factory and G-Force launch Seed program for climate-focused startups](http://feedproxy.google.com/~r/Techcrunch/~3/qWWwHPyxn5o/)
+ - [Nigeria’s Autochek acquires Cheki Kenya and Uganda from ROAM Africa](http://feedproxy.google.com/~r/Techcrunch/~3/0psu6tFFdbM/)
+ - [BMW i Vision Circular concept is an electric city car that's totally recyclable     - Roadshow](https://www.cnet.com/roadshow/news/bmw-i-vision-circular-concept-recycle-munich-auto-show/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
