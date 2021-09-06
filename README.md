@@ -189,9 +189,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spain’s Factorial raises $80M at a $530M valuation on the back of strong traction for its ‘Workday for SMBs’](http://feedproxy.google.com/~r/Techcrunch/~3/mNpPIswimqQ/)
- - [Vivo X70 series specs leak: Three chips from three chipmakers](https://www.androidauthority.com/vivo-x70-pro-plus-specs-2747462/)
- - [Microsoft may have just revealed Android app support for Xbox (Updated: Nope)](https://www.androidauthority.com/android-app-support-xbox-2746085/)<!-- TECH:END -->
+ - [Samsung Galaxy S22 series: All the rumors in one place (Updated: Sept. 6)](https://www.androidauthority.com/samsung-galaxy-s22-1643006/)
+ - [Phone makers may be forced to provide 7 years of updates in this one market](https://www.androidauthority.com/germany-smartphone-updates-7-years-2747485/)
+ - [Barcelona-based Factorial, which develops HR software for SMBs, raises $80M led by Tiger Global, sources say at a $530M valuation (Ingrid Lunden/TechCrunch)](http://www.techmeme.com/210906/p1#a210906p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
