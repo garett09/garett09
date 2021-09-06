@@ -189,9 +189,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dukaan raises $11 million to help merchants in India set up online stores](http://feedproxy.google.com/~r/Techcrunch/~3/pedbG47_rOA/)
- - [Samsung Galaxy Note 20 series gets September security patch with latest update](https://www.androidauthority.com/samsung-galaxy-note-20-update-1145703/)
- - [Apple AirPods 3 vs. AirPods Pro: Every major difference we expect to see     - CNET](https://www.cnet.com/tech/mobile/apple-airpods-3-vs-airpods-pro-every-major-difference-expect-to-see/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Spain’s Factorial raises $80M at a $530M valuation on the back of strong traction for its ‘Workday for SMBs’](http://feedproxy.google.com/~r/Techcrunch/~3/mNpPIswimqQ/)
+ - [Vivo X70 series specs leak: Three chips from three chipmakers](https://www.androidauthority.com/vivo-x70-pro-plus-specs-2747462/)
+ - [Microsoft may have just revealed Android app support for Xbox (Updated: Nope)](https://www.androidauthority.com/android-app-support-xbox-2746085/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
