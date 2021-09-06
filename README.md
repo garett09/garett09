@@ -189,9 +189,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Financial automation startup Aurelia raises $3M Seed round led by Blossom Capital](http://feedproxy.google.com/~r/Techcrunch/~3/50cOjXBkKxg/)
- - [Deep dive on AWS, with margin estimates for specific services including S3, EC2, and EBS, as AWS has made up over half of Amazon's operating profit since 2014 (Jordan Novet/CNBC)](http://www.techmeme.com/210906/p9#a210906p9)
- - [How to display a custom message on your Mac's lock screen](https://appleinsider.com/articles/21/09/06/how-to-display-a-custom-message-on-your-macs-lock-screen?utm_medium=rss)<!-- TECH:END -->
+ - [ProtonMail court order leads to the arrest of French climate activist](https://www.theverge.com/2021/9/6/22659861/protonmail-swiss-court-order-french-climate-activist-arrest-identification)
+ - [A.ID closes Pre-Seed funding for ID verification platform aimed at high-risk clients](http://feedproxy.google.com/~r/Techcrunch/~3/zyFsQ4RWJDI/)
+ - [Financial automation startup Aurelia raises $3M Seed round led by Blossom Capital](http://feedproxy.google.com/~r/Techcrunch/~3/50cOjXBkKxg/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
