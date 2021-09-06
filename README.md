@@ -182,9 +182,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [eBay Australia is selling the best 360Hz monitor for 42% off](https://www.pcgamer.com/ebay-australia-is-selling-the-best-360hz-monitor-for-42-off)
  - [Gorgeous Hand-Drawn Game Guides Kickstarter Cancelled By Nintendo](https://kotaku.com/gorgeous-hand-drawn-game-guides-kickstarter-cancelled-b-1847622805)
- - [Zangief Is Now 65 Years Old](https://kotaku.com/zangief-is-now-65-years-old-1847622762)
- - [Five new Steam games you probably missed (September 6, 2021)](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-september-6-2021)<!-- GAME:END -->
+ - [Zangief Is Now 65 Years Old](https://kotaku.com/zangief-is-now-65-years-old-1847622762)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
