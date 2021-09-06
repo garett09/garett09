@@ -196,9 +196,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Draining Glyphosate into a container looks like a glitch in the matrix in video](http://9gag.com/gag/aXoyAzd)
+ - 🚖 [The forbidden fish](http://9gag.com/gag/av5MG8b)
  - 🚯 [Pizza party at ISS](http://9gag.com/gag/a9Exrr1)
- - 🚯 [The forbidden fish](http://9gag.com/gag/av5MG8b)<!-- MEMES:END -->
+ - 🚯 [Good &ouml;&ouml; my gaggers](http://9gag.com/gag/aoMv1Ow)<!-- MEMES:END -->
 
 --- 
 
