@@ -197,8 +197,8 @@ Linux                    0 secs              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 🚖 [The way](http://9gag.com/gag/aO3M7MM)
- - 🚯 [That&#039;s it](http://9gag.com/gag/a9Exn0L)
- - 🚯 [Took way to long to get mad](http://9gag.com/gag/aV7p038)<!-- MEMES:END -->
+ - 🚯 [The south pole has it&#039;s first sunrise in 6 months!](http://9gag.com/gag/a4EXERw)
+ - 🚯 [That&#039;s it](http://9gag.com/gag/a9Exn0L)<!-- MEMES:END -->
 
 --- 
 
