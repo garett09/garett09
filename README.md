@@ -196,9 +196,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The forbidden fish](http://9gag.com/gag/av5MG8b)
- - 🚯 [Pizza party at ISS](http://9gag.com/gag/a9Exrr1)
- - 🚯 [Good &ouml;&ouml; my gaggers](http://9gag.com/gag/aoMv1Ow)<!-- MEMES:END -->
+ - 🚖 [Robin was kind of a typical friendzone bi*ch. Always rejecting Ted, keeps him as a friend, do anything to &quot;run&quot; from relationships and when Ted is finally happy with someone else she gets upset.](http://9gag.com/gag/abVNpGp)
+ - 🚯 [Lighting hitting the same spot 11 time](http://9gag.com/gag/aoMv18A)
+ - 🚯 [Oh, how could you tell I was Polish?](http://9gag.com/gag/a8ERpne)<!-- MEMES:END -->
 
 --- 
 
