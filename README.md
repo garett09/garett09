@@ -189,9 +189,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anda Seat T-Compact Premium Gaming Chair review: cool and comfortable](https://appleinsider.com/articles/21/09/05/anda-seat-t-compact-premium-gaming-chair-review-cool-and-comfortable?utm_medium=rss)
- - [EFF urges Apple to drop CSAM tool plans completely](https://appleinsider.com/articles/21/09/05/eff-urges-apple-to-drop-csam-tool-plans-completely?utm_medium=rss)
- - [New Trailers: Moonfall, The Wheel of Time, Belfast, and more](https://www.theverge.com/2021/9/5/22658609/new-trailers-moonfall-the-wheel-of-time-belfast-no-time-to-die-amazon)<!-- TECH:END -->
+ - [Volkswagen and Argo AI reveal first ID Buzz test vehicle for autonomous driving](http://feedproxy.google.com/~r/Techcrunch/~3/GFX3icVttN8/)
+ - [Food sharing app OLIO raises $43M Series B led by VNV Global, as the startup tries to tackle food waste, with Tesco adding 2.7K stores to the service in 2020 (Mike Butcher/TechCrunch)](http://www.techmeme.com/210905/p7#a210905p7)
+ - [AEW All Out 2021: Results, live updates and match ratings     - CNET](https://www.cnet.com/news/aew-all-out-2021-results-live-updates-and-match-ratings/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
