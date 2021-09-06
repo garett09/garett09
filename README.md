@@ -189,9 +189,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Did your Google Clock app alarm not go off? You are not alone. (Updated: Fix)](https://www.androidauthority.com/google-clock-app-bug-2746394/)
- - [Cupra's UrbanRebel Concept is an incredibly racy electric hot hatch     - Roadshow](https://www.cnet.com/roadshow/news/cupras-urbanrebel-concept-electric-hot-hatch-iaa-munich/#ftag=CAD590a51e)
- - [Founders Factory and G-Force launch Seed program for climate-focused startups](http://feedproxy.google.com/~r/Techcrunch/~3/qWWwHPyxn5o/)<!-- TECH:END -->
+ - [We asked, you told us: The Google Clock app isn’t very good at sounding alarms](https://www.androidauthority.com/google-clock-app-poll-results-2747542/)
+ - [Renault Megane E-Tech Electric is specifically designed to thwart battery fires     - Roadshow](https://www.cnet.com/roadshow/news/renault-megane-e-tech-electric-battery-fire-safety-iaa/#ftag=CAD590a51e)
+ - [Sims 4 Spa Day update adds high maintenance Sims and ways to pamper them](https://www.theverge.com/2021/9/6/22659216/sims-4-spa-day-game-pack-refresh-manicures-pedicures-nail-designs-modder)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
