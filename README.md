@@ -196,9 +196,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [King under the mountain](http://9gag.com/gag/a3E6Kmv)
- - 🚯 [SWEET HOME ALABAMA](http://9gag.com/gag/aAb83yd)
- - 🚯 [Artists are not just artists...sometimes they are healers](http://9gag.com/gag/a8ERo2O)<!-- MEMES:END -->
+ - 🚖 [BBC crew rescues trapped Penguins](http://9gag.com/gag/aWjr1X2)
+ - 🚯 [Well well.](http://9gag.com/gag/aGpmZqK)
+ - 🚯 [Just saying ..](http://9gag.com/gag/aYo3gzm)<!-- MEMES:END -->
 
 --- 
 
