@@ -189,9 +189,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [CoinGecko: Solana's SOL token has more than tripled in value over three weeks and has a $45B+ market cap, making it the seventh most valuable cryptocurrency (Joanna Ossinger/Bloomberg)](http://www.techmeme.com/210906/p7#a210906p7)
- - ['iPhone 13' A15 chip performance continues dominance over Android rivals](https://appleinsider.com/articles/21/09/06/iphone-13-a15-chip-performance-continues-dominance-over-android-rivals?utm_medium=rss)
- - [Fractory raises $9M to rethink the manufacturing supply chain for metalworks](http://feedproxy.google.com/~r/Techcrunch/~3/8Nawmh1jnsI/)<!-- TECH:END -->
+ - [Save 33% on the Samsung Galaxy Chromebook, and more Chromebook deals](https://www.androidauthority.com/cheap-chromebook-deals-882052/)
+ - [ProtonMail is under fire for disclosing a French activist's IP address to Swiss authorities; ProtonMail had claimed to only log IPs in "extreme criminal cases" (TechCrunch)](http://www.techmeme.com/210906/p8#a210906p8)
+ - [You told us: Faster displays are fast becoming the norm](https://www.androidauthority.com/maximum-refresh-rate-phone-poll-results-2747483/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
