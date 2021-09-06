@@ -189,9 +189,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Researchers uncover BrakTooth, 16 flaws in Bluetooth firmware in SoC boards used in billions of devices from 11 top vendors that can allow remote code execution (Catalin Cimpanu/The Record)](http://www.techmeme.com/210905/p8#a210905p8)
- - [Scientists reveal the secrets behind ant teeth super strength     - CNET](https://www.cnet.com/news/scientists-reveal-the-secrets-behind-ant-teeth-super-strength/#ftag=CAD590a51e)
- - [Dune is definitely coming out on HBO Max: Release date, price, part 2?     - CNET](https://www.cnet.com/news/dune-is-definitely-coming-out-on-hbo-max-release-date-price-part-2/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Mercedes-Benz throws down the EV gauntlet at IAA Mobility](http://feedproxy.google.com/~r/Techcrunch/~3/Ilx6naB3MFw/)
+ - [Singapore-based caregiving startup Homage raises $30M Series C](http://feedproxy.google.com/~r/Techcrunch/~3/HAHE6t9JwRw/)
+ - [GoDaddy cut off Texas Right to Life’s abortion ‘whistleblowing’ website, and it might be gone](https://www.theverge.com/2021/9/3/22656196/godaddy-texas-right-for-life-abortion-whistleblowing-site)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
