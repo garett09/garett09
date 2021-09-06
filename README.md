@@ -196,9 +196,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I present you Brugge, Belgium](http://9gag.com/gag/arMQgz7)
- - 🚯 [Dad: &quot;They separated me from my 12 year old Son&quot; Son: &quot;Hi Dad&quot; Dad: &quot;Oh there he is&quot;](http://9gag.com/gag/aGpmZ66)
- - 🚯 [Just saying ..](http://9gag.com/gag/aYo3gzm)<!-- MEMES:END -->
+ - 🚖 [Mum Sees Book About to Fall on Child in TV Reflection](http://9gag.com/gag/aYo37pV)
+ - 🚯 [They don&#039;t do it brick by brick](http://9gag.com/gag/amPeBLo)
+ - 🚯 [Type F to Pay Respects.](http://9gag.com/gag/anQm9mo)<!-- MEMES:END -->
 
 --- 
 
