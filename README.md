@@ -189,9 +189,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [We asked, you told us: The Google Clock app isn’t very good at sounding alarms](https://www.androidauthority.com/google-clock-app-poll-results-2747542/)
- - [Renault Megane E-Tech Electric is specifically designed to thwart battery fires     - Roadshow](https://www.cnet.com/roadshow/news/renault-megane-e-tech-electric-battery-fire-safety-iaa/#ftag=CAD590a51e)
- - [Sims 4 Spa Day update adds high maintenance Sims and ways to pamper them](https://www.theverge.com/2021/9/6/22659216/sims-4-spa-day-game-pack-refresh-manicures-pedicures-nail-designs-modder)<!-- TECH:END -->
+ - [Xiaomi Mi 11T Pro specs leak: 120W charging, 120Hz OLED tipped (Updated)](https://www.androidauthority.com/xiaomi-mi-11t-pro-specs-2737792/)
+ - [What Medical Researchers Can Learn From the 'Yellow Berets'](https://www.wired.com/story/what-medical-researcher-training-can-learn-from-the-yellow-berets)
+ - [Taiwan Railway adopts Apple Pay for mobile ticket purchases](https://appleinsider.com/articles/21/09/06/taiwan-railway-adopts-apple-pay-for-mobile-ticket-purchases?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
