@@ -189,9 +189,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy Tab S7 FE review: Pretty, but underpowered](https://www.androidauthority.com/samsung-galaxy-tab-s7-fe-review-2740931/)
- - [How to delete Significant Locations from your iPhone and iPad](https://appleinsider.com/articles/21/09/06/how-to-delete-significant-locations-from-your-iphone-and-ipad?utm_medium=rss)
- - [Mark Hamill tweets his own name, gets half a million likes     - CNET](https://www.cnet.com/news/mark-hamill-tweets-his-own-name-gets-half-a-million-likes/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Just in: AirPods prices slashed to as low as $99 for Labor Day](https://appleinsider.com/articles/21/09/06/just-in-airpods-prices-slashed-to-as-low-as-99-for-labor-day?utm_medium=rss)
+ - [Best Deals September 6 - 25% off Philips Hue Light Bulbs, $10 off Ring Video Doorbell, Labor Day Deals, and more!](https://appleinsider.com/articles/21/09/06/best-deals-september-6---25-off-philips-hue-light-bulbs-10-off-ring-video-doorbell-labor-day-deals-and-more?utm_medium=rss)
+ - [Analysis: mining bitcoin uses 91 TW/h of electricity annually, ~0.5% of all electricity consumed globally or 7x Google's total usage, and grew 10x in five years (New York Times)](http://www.techmeme.com/210906/p5#a210906p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
