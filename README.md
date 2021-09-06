@@ -182,9 +182,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Resellers Are Charging People For Games That Are Actually Free](https://kotaku.com/you-shouldnt-pay-for-bloodhunt-because-its-free-1847625233)
- - [No Man's Sky Finally Finds Love On Steam](https://kotaku.com/no-mans-sky-finally-finds-love-1847624893)
- - [Sonic Colors: Ultimate Glitches Could Cause Seizures](https://kotaku.com/sonic-colors-ultimate-glitches-could-cause-seizures-1847624754)<!-- GAME:END -->
+ - [Microsoft Flight Simulator Bumps Top Gun DLC To 2022](https://kotaku.com/microsoft-flight-simulator-bumps-top-gun-dlc-to-2022-1847625605)
+ - [The Marvel Cinematic Universe has radically reshaped the Fast & Furious franchise](https://www.polygon.com/22659793/marvel-cinematic-universe-vs-fast-and-furious)
+ - [Valheim's axes are getting choppier, but bows will shoot slower](https://www.pcgamer.com/valheims-axes-are-getting-choppier-but-bows-will-shoot-slower)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
