@@ -182,9 +182,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dark mode in Windows 11 plays different sounds intended to keep you calm](https://www.pcgamer.com/dark-mode-in-windows-11-plays-different-sounds-intended-to-keep-you-calm)
- - [Our 11 most anticipated anime of the fall](https://www.polygon.com/22619927/best-anime-new-fall-2021-how-to-watch)
- - [Beware miners selling thrashed second-hand SSDs as new](https://www.pcgamer.com/beware-miners-selling-thrashed-second-hand-ssds-as-new)<!-- GAME:END -->
+ - [F.I.S.T.: Forged In Shadow Torch: 9 gameplay tips to help you explore (and survive) Torch City](http://feedproxy.google.com/~r/PSBlog/~3/9CGsJTGonek/)
+ - [F.I.S.T.: Forged In Shadow Torch: 9 gameplay tips to help you explore (and survive) Torch City](https://blog.playstation.com/2021/09/06/f-i-s-t-forged-in-shadow-torch-9-gameplay-tips-to-help-you-explore-and-survive-torch-city/)
+ - [Porno Hustlers Of The Atari Age](https://kotaku.com/porno-hustlers-of-the-atari-age-1847622176)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
