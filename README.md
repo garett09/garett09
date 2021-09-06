@@ -196,9 +196,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [In Salzburg, Austria, there&#039;s a special desk in the airport in case you landed in Austria by mistake instead of Australia](http://9gag.com/gag/aNp7YK0)
- - 🚯 [Took way to long to get mad](http://9gag.com/gag/aV7p038)
- - 🚯 [Mum Sees Book About to Fall on Child in TV Reflection](http://9gag.com/gag/aYo37pV)<!-- MEMES:END -->
+ - 🚖 [Well, one is common in both.](http://9gag.com/gag/ajmz8Lq)
+ - 🚯 [SWEET HOME ALABAMA](http://9gag.com/gag/aAb83yd)
+ - 🚯 [Parrot eating a croissant](http://9gag.com/gag/aNp70gb)<!-- MEMES:END -->
 
 --- 
 
