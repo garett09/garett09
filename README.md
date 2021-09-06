@@ -189,9 +189,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [CoinGecko: Solana's SOL token has more than tripled in value over three weeks and has a $45B+ market cap, making it the seventh most valuable cryptocurrency (Joanna Ossinger/Bloomberg)](http://www.techmeme.com/210906/p7#a210906p7)
  - ['iPhone 13' A15 chip performance continues dominance over Android rivals](https://appleinsider.com/articles/21/09/06/iphone-13-a15-chip-performance-continues-dominance-over-android-rivals?utm_medium=rss)
- - [Phoebe Waller-Bridge exits Amazon’s Mr. and Mrs. Smith series](https://www.theverge.com/2021/9/6/22659503/phoebe-waller-bridge-leaves-amazon-mr-and-mrs-smith-series-donald-glover)
- - [A look at the substrates that connect chips to circuit boards, and how years of underinvestment in substrate manufacturing has worsened the global chip shortage (Asa Fitch/Wall Street Journal)](http://www.techmeme.com/210906/p6#a210906p6)<!-- TECH:END -->
+ - [Fractory raises $9M to rethink the manufacturing supply chain for metalworks](http://feedproxy.google.com/~r/Techcrunch/~3/8Nawmh1jnsI/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
