@@ -189,9 +189,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Xiaomi Mi 11T Pro specs leak: 120W charging, 120Hz OLED tipped (Updated)](https://www.androidauthority.com/xiaomi-mi-11t-pro-specs-2737792/)
- - [What Medical Researchers Can Learn From the 'Yellow Berets'](https://www.wired.com/story/what-medical-researcher-training-can-learn-from-the-yellow-berets)
- - [Taiwan Railway adopts Apple Pay for mobile ticket purchases](https://appleinsider.com/articles/21/09/06/taiwan-railway-adopts-apple-pay-for-mobile-ticket-purchases?utm_medium=rss)<!-- TECH:END -->
+ - [Poll: Would you purchase a modular smartphone?](https://www.androidauthority.com/modular-smartphone-poll-2747577/)
+ - [What Makes an Artist in the Age of Algorithms?](https://www.wired.com/story/what-makes-an-artist-in-the-age-of-algorithms)
+ - [Microsoft Flight Simulator’s Top Gun expansion also delayed to 2022](https://www.theverge.com/2021/9/6/22659273/microsoft-flight-simulator-top-gun-expansion-delayed-2022)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
