@@ -196,9 +196,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Robin was kind of a typical friendzone bi*ch. Always rejecting Ted, keeps him as a friend, do anything to &quot;run&quot; from relationships and when Ted is finally happy with someone else she gets upset.](http://9gag.com/gag/abVNpGp)
+ - 🚖 [Oh, how could you tell I was Polish?](http://9gag.com/gag/a8ERpne)
  - 🚯 [Lighting hitting the same spot 11 time](http://9gag.com/gag/aoMv18A)
- - 🚯 [Oh, how could you tell I was Polish?](http://9gag.com/gag/a8ERpne)<!-- MEMES:END -->
+ - 🚯 [Power Down/ Power Up](http://9gag.com/gag/aQoLeNz)<!-- MEMES:END -->
 
 --- 
 
