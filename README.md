@@ -189,9 +189,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Poll: Would you purchase a modular smartphone?](https://www.androidauthority.com/modular-smartphone-poll-2747577/)
- - [What Makes an Artist in the Age of Algorithms?](https://www.wired.com/story/what-makes-an-artist-in-the-age-of-algorithms)
- - [Microsoft Flight Simulator’s Top Gun expansion also delayed to 2022](https://www.theverge.com/2021/9/6/22659273/microsoft-flight-simulator-top-gun-expansion-delayed-2022)<!-- TECH:END -->
+ - [Mobius Labs nabs $6M to help more sectors tap into computer vision](http://feedproxy.google.com/~r/Techcrunch/~3/MoJun7_Xwl4/)
+ - [VW is reviving its iconic microbus as an electric robotaxi](https://www.theverge.com/2021/9/6/22659306/vw-autonomous-id-buzz-reveal-argo-iaa)
+ - [Quantum Machines, whose hardware and software help users leverage quantum computing, raises $50M Series B led by Red Dot Capital (Ron Miller/TechCrunch)](http://www.techmeme.com/210906/p4#a210906p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
