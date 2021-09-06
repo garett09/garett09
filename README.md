@@ -182,9 +182,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [F.I.S.T.: Forged In Shadow Torch: 9 gameplay tips to help you explore (and survive) Torch City](http://feedproxy.google.com/~r/PSBlog/~3/9CGsJTGonek/)
- - [F.I.S.T.: Forged In Shadow Torch: 9 gameplay tips to help you explore (and survive) Torch City](https://blog.playstation.com/2021/09/06/f-i-s-t-forged-in-shadow-torch-9-gameplay-tips-to-help-you-explore-and-survive-torch-city/)
- - [Porno Hustlers Of The Atari Age](https://kotaku.com/porno-hustlers-of-the-atari-age-1847622176)<!-- GAME:END -->
+ - [Observational thriller Conway: Disappearance at Dahlia View launches November 2 on PS5, PS4](http://feedproxy.google.com/~r/PSBlog/~3/y_5VwWJrxCg/)
+ - [Report: Nearly Half Of Paradox Staff Experience "Mistreatment"](https://kotaku.com/report-nearly-half-of-paradox-staff-experience-mistre-1847624162)
+ - [Observational thriller Conway: Disappearance at Dahlia View launches November 2 on PS5, PS4](https://blog.playstation.com/2021/09/06/observational-thriller-conway-disappearance-at-dahlia-view-launches-november-2-on-ps5-ps4/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
