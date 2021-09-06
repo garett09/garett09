@@ -182,9 +182,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Microsoft Flight Simulator Bumps Top Gun DLC To 2022](https://kotaku.com/microsoft-flight-simulator-bumps-top-gun-dlc-to-2022-1847625605)
- - [The Marvel Cinematic Universe has radically reshaped the Fast & Furious franchise](https://www.polygon.com/22659793/marvel-cinematic-universe-vs-fast-and-furious)
- - [Valheim's axes are getting choppier, but bows will shoot slower](https://www.pcgamer.com/valheims-axes-are-getting-choppier-but-bows-will-shoot-slower)<!-- GAME:END -->
+ - [28 Indie Games You'll Be Delighted To Have Discovered](https://kotaku.com/28-indie-games-youll-be-delighted-to-have-discovered-1847625726)
+ - [Majority of women working at Paradox Interactive report mistreatment in staff survey](https://www.pcgamer.com/majority-of-women-working-at-paradox-interactive-report-mistreatment-in-staff-survey)
+ - [Microsoft Flight Simulator Bumps Top Gun DLC To 2022](https://kotaku.com/microsoft-flight-simulator-bumps-top-gun-dlc-to-2022-1847625605)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
