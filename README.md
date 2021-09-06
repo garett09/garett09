@@ -196,9 +196,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What a drop](http://9gag.com/gag/a07r5Ad)
- - 🚯 [Power Down/ Power Up](http://9gag.com/gag/aQoLeNz)
- - 🚯 [Tax them all](http://9gag.com/gag/aoMvOKw)<!-- MEMES:END -->
+ - 🚖 [The shorts of ultimate attraction, ngl](http://9gag.com/gag/anQmMq0)
+ - 🚯 [Tax them all](http://9gag.com/gag/aoMvOKw)
+ - 🚯 [Steam Engine Mechanic Gets Stuck](http://9gag.com/gag/azMW86x)<!-- MEMES:END -->
 
 --- 
 
