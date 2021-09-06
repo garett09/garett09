@@ -196,9 +196,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hall hail Lord Satan](http://9gag.com/gag/aoMvPxX)
- - 🚯 [Indian live in hard setting](http://9gag.com/gag/aRXb7yq)
- - 🚯 [Mum Sees Book About to Fall on Child in TV Reflection](http://9gag.com/gag/aYo37pV)<!-- MEMES:END -->
+ - 🚖 [The way](http://9gag.com/gag/aO3M7MM)
+ - 🚯 [That&#039;s it](http://9gag.com/gag/a9Exn0L)
+ - 🚯 [Took way to long to get mad](http://9gag.com/gag/aV7p038)<!-- MEMES:END -->
 
 --- 
 
