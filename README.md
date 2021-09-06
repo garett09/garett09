@@ -189,9 +189,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mercedes-Benz throws down the EV gauntlet at IAA Mobility](http://feedproxy.google.com/~r/Techcrunch/~3/Ilx6naB3MFw/)
- - [Singapore-based caregiving startup Homage raises $30M Series C](http://feedproxy.google.com/~r/Techcrunch/~3/HAHE6t9JwRw/)
- - [GoDaddy cut off Texas Right to Life’s abortion ‘whistleblowing’ website, and it might be gone](https://www.theverge.com/2021/9/3/22656196/godaddy-texas-right-for-life-abortion-whistleblowing-site)<!-- TECH:END -->
+ - [Dukaan raises $11 million to help merchants in India set up online stores](http://feedproxy.google.com/~r/Techcrunch/~3/pedbG47_rOA/)
+ - [Samsung Galaxy Note 20 series gets September security patch with latest update](https://www.androidauthority.com/samsung-galaxy-note-20-update-1145703/)
+ - [Apple AirPods 3 vs. AirPods Pro: Every major difference we expect to see     - CNET](https://www.cnet.com/tech/mobile/apple-airpods-3-vs-airpods-pro-every-major-difference-expect-to-see/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
