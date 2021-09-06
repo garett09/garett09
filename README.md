@@ -196,9 +196,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Booking a flight](http://9gag.com/gag/aB2AxvZ)
- - 🚯 [Rhino calf wakes up from tranquilizer, and defends mother from the perceived threat of the researchers](http://9gag.com/gag/agBDXm6)
- - 🚯 [Donovan Metoyer takes on this obstacle course in style!](http://9gag.com/gag/a07rKdQ)<!-- MEMES:END -->
+ - 🚖 [King under the mountain](http://9gag.com/gag/a3E6Kmv)
+ - 🚯 [BBC crew rescues trapped Penguins](http://9gag.com/gag/aWjr1X2)
+ - 🚯 [Injured? Good.](http://9gag.com/gag/ayMbxmy)<!-- MEMES:END -->
 
 --- 
 
