@@ -182,9 +182,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How comedy, cartoons, and a connection to nature set Ubisoft Montpellier apart](https://www.pcgamer.com/how-comedy-cartoons-and-a-connection-to-nature-set-ubisoft-montpellier-apart)
- - [eBay Australia is selling the best 360Hz monitor for 42% off](https://www.pcgamer.com/ebay-australia-is-selling-the-best-360hz-monitor-for-42-off)
- - [Gorgeous Hand-Drawn Game Guides Kickstarter Cancelled By Nintendo](https://kotaku.com/gorgeous-hand-drawn-game-guides-kickstarter-cancelled-b-1847622805)<!-- GAME:END -->
+ - [Dark mode in Windows 11 plays different sounds intended to keep you calm](https://www.pcgamer.com/dark-mode-in-windows-11-plays-different-sounds-intended-to-keep-you-calm)
+ - [Our 11 most anticipated anime of the fall](https://www.polygon.com/22619927/best-anime-new-fall-2021-how-to-watch)
+ - [Beware miners selling thrashed second-hand SSDs as new](https://www.pcgamer.com/beware-miners-selling-thrashed-second-hand-ssds-as-new)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
