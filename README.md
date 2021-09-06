@@ -196,9 +196,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What a crazy woman](http://9gag.com/gag/aeAnMGq)
- - 🚯 [What it takes not to die in the winter in Alaska...](http://9gag.com/gag/aeAnemq)
- - 🚯 [Artists are not just artists...sometimes they are healers](http://9gag.com/gag/a8ERo2O)<!-- MEMES:END -->
+ - 🚖 [Booking a flight](http://9gag.com/gag/aB2AxvZ)
+ - 🚯 [Rhino calf wakes up from tranquilizer, and defends mother from the perceived threat of the researchers](http://9gag.com/gag/agBDXm6)
+ - 🚯 [Donovan Metoyer takes on this obstacle course in style!](http://9gag.com/gag/a07rKdQ)<!-- MEMES:END -->
 
 --- 
 
