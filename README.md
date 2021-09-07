@@ -188,9 +188,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The first Hulu price change in over two years is coming](https://www.androidauthority.com/hulu-price-hike-2748203/)
- - [Equity Monday: Women’s employment drops, as Delta’s drama continues](http://feedproxy.google.com/~r/Techcrunch/~3/S70CjFisxyo/)
- - [iPhone 13, Apple Watch Series 7 & more: what to expect from the Apple Event](https://appleinsider.com/articles/21/07/12/iphone-13-imac-14-inch-macbook-pro-and-more-whats-coming-from-apple-in-late-2021?utm_medium=rss)<!-- TECH:END -->
+ - [Crypto exchanges struggle as El Salvador adopts Bitcoin](https://www.theverge.com/2021/9/7/22660932/crypto-exchanges-el-salvador-bitcoin-price-dip)
+ - [Bose Smart Soundbar 900 with AirPlay 2 & Dolby Atmos now available](https://appleinsider.com/articles/21/09/07/bose-smart-soundbar-900-with-airplay-2-dolby-atmos-now-available?utm_medium=rss)
+ - [September 2021 Android security patch rolling out now to Pixel phones](https://www.androidauthority.com/september-2021-android-security-patch-2748224/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
