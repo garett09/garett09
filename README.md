@@ -181,9 +181,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [28 Indie Games You'll Be Delighted To Have Discovered](https://kotaku.com/28-indie-games-youll-be-delighted-to-have-discovered-1847625726)
- - [Majority of women working at Paradox Interactive report mistreatment in staff survey](https://www.pcgamer.com/majority-of-women-working-at-paradox-interactive-report-mistreatment-in-staff-survey)
- - [Microsoft Flight Simulator Bumps Top Gun DLC To 2022](https://kotaku.com/microsoft-flight-simulator-bumps-top-gun-dlc-to-2022-1847625605)<!-- GAME:END -->
+ - [Yakuza Director & Jet Set Radio Artist Is Back At Sega](https://kotaku.com/yakuza-director-jet-set-radio-artist-is-back-at-sega-1847626216)
+ - [The cheapest way to pre-order Elden Ring in Australia](https://www.pcgamer.com/buy-elden-ring-pc)
+ - [28 Indie Games You'll Be Delighted To Have Discovered](https://kotaku.com/28-indie-games-youll-be-delighted-to-have-discovered-1847625726)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
