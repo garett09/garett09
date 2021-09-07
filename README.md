@@ -181,9 +181,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [These Minecraft desert temple redesigns carry a new threatening aura](https://www.pcgamer.com/these-minecraft-desert-temple-redesigns-carry-a-new-threatening-aura)
- - [Volunteer computing is narrowing down the search for neutron stars](https://www.pcgamer.com/volunteer-computing-is-narrowing-down-the-search-for-neutron-stars)
- - [Metal Gear's Japanese Voice Actor Gets New Role As Daisuke Jigen from Lupin III](https://kotaku.com/metal-gears-japanese-voice-actor-gets-new-role-as-daisu-1847627459)<!-- GAME:END -->
+ - [Five years later, No Man's Sky finally has positive Steam reviews](https://www.pcgamer.com/five-years-later-no-mans-sky-finally-has-positive-steam-reviews)
+ - [These Minecraft desert temple redesigns carry a threatening aura](https://www.pcgamer.com/these-minecraft-desert-temple-redesigns-carry-a-new-threatening-aura)
+ - [Volunteer computing is narrowing down the search for neutron stars](https://www.pcgamer.com/volunteer-computing-is-narrowing-down-the-search-for-neutron-stars)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
