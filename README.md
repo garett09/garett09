@@ -181,9 +181,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [CD Projekt is using Kickstarter to raise funds for The Witcher: Ronin](https://www.pcgamer.com/cd-projekt-is-using-kickstarter-to-raise-funds-for-the-witcher-ronin)
  - [Everything You Need to Know About the Multiplayer Beta for Call of Duty: Vanguard](https://news.xbox.com/en-us/2021/09/07/everything-you-need-to-know-multiplayer-beta-call-of-duty-vanguard/)
- - [Runescape developer shuts down HD fan mod just before release, sparking in-game protest](https://www.pcgamer.com/runelite-hd-shut-down)
- - [Maybe Don’t Challenge Justin Wong To A $10,000 Marvel vs. Capcom 2 Match](https://kotaku.com/maybe-don-t-challenge-justin-wong-to-a-10-000-marvel-v-1847631978)<!-- GAME:END -->
+ - [Runescape developer shuts down HD fan mod just before release, sparking in-game protest](https://www.pcgamer.com/runelite-hd-shut-down)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
