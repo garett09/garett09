@@ -188,9 +188,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Didi's ride hailing rival Cao Cao Mobility, which is owned by automaker Geely, raises ~$588M from Chinese state-owned funds; Cao Cao had 10M+ MAUs in July (Eleanor Olcott/Financial Times)](http://www.techmeme.com/210906/p12#a210906p12)
  - [New Apple MagSafe charger for iPhone revealed in FCC filing](https://appleinsider.com/articles/21/09/07/new-apple-magsafe-charger-for-iphone-revealed-in-fcc-filing?utm_medium=rss)
- - [VMware ditches plans to support EXSi on 2019 Mac Pro](https://appleinsider.com/articles/21/09/07/vmware-ditches-plans-to-support-exsi-on-2019-mac-pro?utm_medium=rss)
- - [Apple TV+ original 'On the Rocks' hits Blu-Ray and DVD on Oct. 26](https://appleinsider.com/articles/21/09/07/apple-tv-original-on-the-rocks-hits-blu-ray-and-dvd-on-oct-26?utm_medium=rss)<!-- TECH:END -->
+ - [VMware ditches plans to support EXSi on 2019 Mac Pro](https://appleinsider.com/articles/21/09/07/vmware-ditches-plans-to-support-exsi-on-2019-mac-pro?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
