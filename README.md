@@ -188,9 +188,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best Labor Day deals happening now](https://www.theverge.com/good-deals/22652876/best-labor-day-sales-2021-tech-deals-tvs-laptops-headphones)
  - [Didi's ride hailing rival Cao Cao Mobility, which is owned by automaker Geely, raises ~$588M from Chinese state-owned funds; Cao Cao had 10M+ MAUs in July (Eleanor Olcott/Financial Times)](http://www.techmeme.com/210906/p12#a210906p12)
- - [New Apple MagSafe charger for iPhone revealed in FCC filing](https://appleinsider.com/articles/21/09/07/new-apple-magsafe-charger-for-iphone-revealed-in-fcc-filing?utm_medium=rss)
- - [VMware ditches plans to support EXSi on 2019 Mac Pro](https://appleinsider.com/articles/21/09/07/vmware-ditches-plans-to-support-exsi-on-2019-mac-pro?utm_medium=rss)<!-- TECH:END -->
+ - [15 free books to download on Amazon Kindle and Apple Books     - CNET](https://www.cnet.com/news/15-free-books-to-download-on-kindle-and-apple-books-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
