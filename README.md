@@ -195,9 +195,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Go sports!](http://9gag.com/gag/anQmOQV)
+ - 🚖 [When reality hits you](http://9gag.com/gag/a6E0D12)
  - 🚯 [I was such a badass](http://9gag.com/gag/aNp7DXv)
- - 🚯 [Moscow metro stations](http://9gag.com/gag/aRXbB15)<!-- MEMES:END -->
+ - 🚯 [Go sports!](http://9gag.com/gag/anQmOQV)<!-- MEMES:END -->
 
 --- 
 
