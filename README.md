@@ -181,9 +181,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Here's an AMD Ryzen gaming laptop with a GeForce RTX 3060 for $880](https://www.pcgamer.com/heres-an-amd-ryzen-gaming-laptop-with-a-geforce-rtx-3060-for-dollar880)
  - [Tripwire CEO out after tweeting support for Texas abortion ban](https://www.polygon.com/22660534/tripwire-ceo-steps-down-anti-abortion-statement-maneater-killing-floor)
- - [Designing Deathloop’s Colt & Julianna](http://feedproxy.google.com/~r/PSBlog/~3/1Zcvg_AZGTM/)
- - [Designing Deathloop’s Colt & Julianna](https://blog.playstation.com/2021/09/07/designing-deathloops-colt-julianna/)<!-- GAME:END -->
+ - [If Intel's first Alchemist gaming laptops are like its new NUC X15, I'd be impressed](https://www.pcgamer.com/intel-nuc-x15-gaming-laptop)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
