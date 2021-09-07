@@ -181,9 +181,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [AMD's Ryzen 5000 series CPUs are getting cheaper ahead of new chip launches](https://www.pcgamer.com/amds-ryzen-5000-series-cpus-are-getting-cheaper-ahead-of-new-chip-launches)
- - [Battlefield and The Wire actor Michael K. Williams dies at 54](https://www.pcgamer.com/battlefield-and-the-wire-actor-michael-k-williams-dies-at-54)
- - [Best external hard drives in 2021](https://www.pcgamer.com/best-external-hard-drives)<!-- GAME:END -->
+ - [Tripwire CEO out after tweeting support for Texas abortion ban](https://www.polygon.com/22660534/tripwire-ceo-steps-down-anti-abortion-statement-maneater-killing-floor)
+ - [Designing Deathloop’s Colt & Julianna](http://feedproxy.google.com/~r/PSBlog/~3/1Zcvg_AZGTM/)
+ - [Designing Deathloop’s Colt & Julianna](https://blog.playstation.com/2021/09/07/designing-deathloops-colt-julianna/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
