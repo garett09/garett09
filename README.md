@@ -195,8 +195,8 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Thankgod I guess](http://9gag.com/gag/aWjrxDx)
- - 🚯 [There is no human in HR](http://9gag.com/gag/aO3M7B3)
+ - 🚖 [There is no human in HR](http://9gag.com/gag/aO3M7B3)
+ - 🚯 [Everyone knew it was going to happen](http://9gag.com/gag/a3E61Ze)
  - 🚯 [Demon Time...](http://9gag.com/gag/aB2A2vZ)<!-- MEMES:END -->
 
 --- 
