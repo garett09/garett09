@@ -195,9 +195,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Matrix 4 release date confirmed!](http://9gag.com/gag/aeAn1Q5)
- - 🚯 [The bathroom of death ...](http://9gag.com/gag/ajmz1L1)
- - 🚯 [Why men can&#039;t be honest](http://9gag.com/gag/aGpmnBX)<!-- MEMES:END -->
+ - 🚖 [The bathroom of death ...](http://9gag.com/gag/ajmz1L1)
+ - 🚯 [Why men can&#039;t be honest](http://9gag.com/gag/aGpmnBX)
+ - 🚯 [Imagine being the person who has to reply to these tweets](http://9gag.com/gag/aGpmnw6)<!-- MEMES:END -->
 
 --- 
 
