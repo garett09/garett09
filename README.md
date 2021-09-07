@@ -195,9 +195,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [They need to make a horror movie like this](http://9gag.com/gag/a9ExzQL)
- - 🚯 [What a shame](http://9gag.com/gag/a4EX6mQ)
- - 🚯 [That spin though.](http://9gag.com/gag/a7EYOeL)<!-- MEMES:END -->
+ - 🚖 [Not surprised](http://9gag.com/gag/aV7pvEO)
+ - 🚯 [Why men can&#039;t be honest](http://9gag.com/gag/aGpmnBX)
+ - 🚯 [When reality hits you](http://9gag.com/gag/a6E0D12)<!-- MEMES:END -->
 
 --- 
 
