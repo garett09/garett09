@@ -181,9 +181,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Best cheap microphone for streaming and gaming](https://www.pcgamer.com/best-budget-microphone)
- - [Microsoft Flight Simulator update out now, beautifies Germany, Austria, Switzerland](https://www.polygon.com/22638376/microsoft-flight-simulator-world-update-6-trailer-germany-austria-switzerland)
- - [Tearing down Abriss' beautiful brutalist tower blocks never gets old](https://www.pcgamer.com/tearing-down-abriss-beautiful-brutalist-tower-blocks-never-gets-old)<!-- GAME:END -->
+ - [The puzzle box is open: Pinhead joins Dead by Daylight](http://feedproxy.google.com/~r/PSBlog/~3/HHZFGazGh3I/)
+ - [The puzzle box is open: Pinhead joins Dead by Daylight](https://blog.playstation.com/2021/09/07/the-puzzle-box-is-open-pinhead-joins-dead-by-daylight/)
+ - [Intel claimed to be officially targeting RTX 3070 performance with first Alchemist GPU](https://www.pcgamer.com/intel-claimed-to-be-officially-targeting-rtx-3070-performance-with-first-alchemist-gpu)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
