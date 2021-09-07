@@ -188,9 +188,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The first Hulu price change in over two years is coming](https://www.androidauthority.com/hulu-price-hike-2748203/)
  - [Equity Monday: Women’s employment drops, as Delta’s drama continues](http://feedproxy.google.com/~r/Techcrunch/~3/S70CjFisxyo/)
- - [iPhone 13, Apple Watch Series 7 & more: what to expect from the Apple Event](https://appleinsider.com/articles/21/07/12/iphone-13-imac-14-inch-macbook-pro-and-more-whats-coming-from-apple-in-late-2021?utm_medium=rss)
- - [Apple issues ninth developer beta for tvOS 15, HomePodOS](https://appleinsider.com/articles/21/09/07/apple-issues-ninth-developer-beta-for-tvos-15-homepodos?utm_medium=rss)<!-- TECH:END -->
+ - [iPhone 13, Apple Watch Series 7 & more: what to expect from the Apple Event](https://appleinsider.com/articles/21/07/12/iphone-13-imac-14-inch-macbook-pro-and-more-whats-coming-from-apple-in-late-2021?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
