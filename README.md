@@ -195,9 +195,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [New COD](http://9gag.com/gag/ayMb2nW)
+ - 🚖 [Everyone knew it was going to happen](http://9gag.com/gag/a3E61Ze)
  - 🚯 [Spray painting a turn arrow on pavement](http://9gag.com/gag/aqjPe2R)
- - 🚯 [Everyone knew it was going to happen](http://9gag.com/gag/a3E61Ze)<!-- MEMES:END -->
+ - 🚯 [Uh oh](http://9gag.com/gag/aLpZ1gM)<!-- MEMES:END -->
 
 --- 
 
