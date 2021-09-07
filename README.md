@@ -188,9 +188,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple's iPhone 13, Apple Watch Series 7 event is on September 14](https://appleinsider.com/articles/21/09/07/apples-iphone-13-apple-watch-series-7-event-is-on-september-14?utm_medium=rss)
- - [Apple announces a "California Streaming" virtual event on September 14 at 10am PT, where new iPhones and Apple Watches are expected (Juli Clover/MacRumors)](http://www.techmeme.com/210907/p12#a210907p12)
- - [Apple’s next event is September 14](http://feedproxy.google.com/~r/Techcrunch/~3/xOIkfXjBX0E/)<!-- TECH:END -->
+ - [Apple will hold an event Sept. 14, likely for the iPhone 13 reveal](https://www.androidauthority.com/iphone-13-reveal-2748179/)
+ - [VW’s ID Life concept teases a truly affordable electric car](https://www.theverge.com/2021/9/7/22660827/volkswagen-id-life-concept-electric-car-iaa-mobility-2021)
+ - [Apple Pay usage remains steady despite decline in mobile wallets, survey says](https://appleinsider.com/articles/21/09/07/apple-pay-usage-remains-steady-despite-decline-in-mobile-wallets-survey-says?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
