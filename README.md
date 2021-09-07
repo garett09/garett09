@@ -195,8 +195,8 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How not to rescue a king cobra](http://9gag.com/gag/a9Exq5K)
- - 🚯 [And lets not forget the Austrian guy with the little mustache](http://9gag.com/gag/aqjPyWZ)
+ - 🚖 [Putin-Kwon-Do](http://9gag.com/gag/amPeoLv)
+ - 🚯 [Owner hears a weird noise coming from the garden](http://9gag.com/gag/azMW2RK)
  - 🚯 [It is all about the towek](http://9gag.com/gag/anQmzp5)<!-- MEMES:END -->
 
 --- 
