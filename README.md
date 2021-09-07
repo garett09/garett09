@@ -181,9 +181,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Yakuza Director & Jet Set Radio Artist Is Back At Sega](https://kotaku.com/yakuza-director-jet-set-radio-artist-is-back-at-sega-1847626216)
- - [The cheapest way to pre-order Elden Ring in Australia](https://www.pcgamer.com/buy-elden-ring-pc)
- - [28 Indie Games You'll Be Delighted To Have Discovered](https://kotaku.com/28-indie-games-youll-be-delighted-to-have-discovered-1847625726)<!-- GAME:END -->
+ - [Tripwire CEO steps down following comments on Texas abortion ban](https://www.pcgamer.com/tripwire-ceo-steps-down-following-comments-on-texas-abortion-ban)
+ - [Tripwire CEO 'Steps Down' After Supporting Texas Anti-Abortion Law](https://kotaku.com/tripwire-ceo-steps-down-after-supporting-texas-anti-abo-1847626560)
+ - [Howdy Major](https://kotaku.com/howdy-major-1847626415)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
