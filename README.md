@@ -181,9 +181,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Top StarCraft 2 cheats and easter eggs](https://www.pcgamer.com/top-starcraft-2-cheats-and-easter-eggs)
- - [These rad Fallout: New Vegas animation mods turn you into a wild west gunslinger](https://www.pcgamer.com/these-rad-fallout-new-vegas-animation-mods-turn-you-into-a-wild-west-gunslinger)
- - [Microsoft Flight Sim's new update makes Matterhorn even more daunting](https://www.pcgamer.com/microsoft-flight-simulator-update-germany-austria-switzerland-matterhorn)<!-- GAME:END -->
+ - [Call of Duty: Warzone’s new map will take players to the Pacific](https://www.polygon.com/call-of-duty/22661041/call-of-duty-warzone-pacific-map-new-release-date-anti-cheat-vanguard)
+ - [I Still Can't Listen To Genshin Impact's Inaccurate English Voice Acting](https://kotaku.com/i-still-cant-listen-to-genshin-impacts-inaccurate-engli-1847630830)
+ - [The Broken Token CEO steps down after abuse allegations, still owns company](https://www.polygon.com/22661192/broken-token-ceo-steps-down-layoffs-greg-spence)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
