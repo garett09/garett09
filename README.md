@@ -181,9 +181,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Fans Are Pissed About The Switch eShop’s Asset Flip Scourge](https://kotaku.com/fans-are-pissed-about-the-switch-eshop-s-asset-flip-sco-1847630892)
- - [The best builds for Baal in Genshin Impact](https://www.pcgamer.com/best-genshin-impact-baal-build-banner)
- - [Here's our first look at Call of Duty: Warzone's new Pacific island map](https://www.pcgamer.com/heres-our-first-look-at-call-of-duty-warzones-new-pacific-island-map)<!-- GAME:END -->
+ - [The exact moment kung fu blew up in America](https://www.polygon.com/22660909/kung-fu-movies-1970s)
+ - [Candyman is horror’s ultimate antihero](https://www.polygon.com/22661296/candyman-horrors-ultimate-antihero-galaxy-brains-podcast)
+ - [Blizzard removing World of Warcraft references to 'sacks' and 'ho's'](https://www.pcgamer.com/wow-references-sacks-ho)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
