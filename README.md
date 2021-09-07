@@ -195,9 +195,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Oh so you don&#039;t like your mirrored self now?](http://9gag.com/gag/aDdKYyd)
- - 🚯 [School during the time of Corona](http://9gag.com/gag/azMW2Vb)
- - 🚯 [Sex by proxy](http://9gag.com/gag/aZ06Dd3)<!-- MEMES:END -->
+ - 🚖 [School during the time of Corona](http://9gag.com/gag/azMW2Vb)
+ - 🚯 [They know better](http://9gag.com/gag/aGpmzOn)
+ - 🚯 [Running away from an abusive relationship to another country. The start of a new life at the age of 30. Wish me luck.](http://9gag.com/gag/aqjPy7R)<!-- MEMES:END -->
 
 --- 
 
