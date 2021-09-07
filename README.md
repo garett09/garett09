@@ -195,9 +195,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It&rsquo;s a culture thing&hellip;](http://9gag.com/gag/axMLvvL)
- - 🚯 [The bathroom of death ...](http://9gag.com/gag/ajmz1L1)
- - 🚯 [Imagine being the person who has to reply to these tweets](http://9gag.com/gag/aGpmnw6)<!-- MEMES:END -->
+ - 🚖 [The bathroom of death ...](http://9gag.com/gag/ajmz1L1)
+ - 🚯 [Imagine being the person who has to reply to these tweets](http://9gag.com/gag/aGpmnw6)
+ - 🚯 [It&rsquo;s a culture thing&hellip;](http://9gag.com/gag/axMLvvL)<!-- MEMES:END -->
 
 --- 
 
