@@ -195,8 +195,8 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [10/10 game of the year](http://9gag.com/gag/aV7pg7d)
- - 🚯 [I was such a badass](http://9gag.com/gag/aNp7DXv)
+ - 🚖 [They need to make a horror movie like this](http://9gag.com/gag/a9ExzQL)
+ - 🚯 [There was some african prince cruising through hamburg, germany with his security on e scooters](http://9gag.com/gag/aLpZnnM)
  - 🚯 [Dafuq](http://9gag.com/gag/aMKoV01)<!-- MEMES:END -->
 
 --- 
