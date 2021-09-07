@@ -195,9 +195,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Loopholes b*tches](http://9gag.com/gag/ayMbN5q)
- - 🚯 [Moscow metro stations](http://9gag.com/gag/aRXbB15)
- - 🚯 [Diggy diggy hoooole](http://9gag.com/gag/a273K5Y)<!-- MEMES:END -->
+ - 🚖 [Diggy diggy hoooole](http://9gag.com/gag/a273K5Y)
+ - 🚯 [Putin-Kwon-Do](http://9gag.com/gag/amPeoLv)
+ - 🚯 [We want to do it, but it&#039;s not the correct thing to do](http://9gag.com/gag/aEp90vx)<!-- MEMES:END -->
 
 --- 
 
