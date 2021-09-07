@@ -188,9 +188,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Automakers race to design desire for luxury and tech](http://feedproxy.google.com/~r/Techcrunch/~3/JiN-wLrrs8I/)
- - [Twitter says it is testing edge-to-edge pictures and videos in tweets on iOS to better support visual and text-based conversations (Ian Carlos Campbell/The Verge)](http://www.techmeme.com/210907/p20#a210907p20)
- - [AI as a service to solve your business problems? Guess again](http://feedproxy.google.com/~r/Techcrunch/~3/ZoQ3QkHPY7Q/)<!-- TECH:END -->
+ - [Ghost story Martyrs Lane on Shudder is a beautiful, haunting portrait of grief](https://www.androidauthority.com/martyrs-lane-review-shudder-2747215/)
+ - [Aerospace primes Northrup, Lockheed join in Orbit Fab’s over $10M funding round](http://feedproxy.google.com/~r/Techcrunch/~3/-keOR-cPc5g/)
+ - [Twitter is testing big ol’ full-width photos and videos](http://feedproxy.google.com/~r/Techcrunch/~3/7cNwj7ieOIg/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
