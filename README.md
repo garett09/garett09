@@ -190,7 +190,7 @@ Linux                    0 secs              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Xiaomi is testing a ‘Pure Mode’ in MIUI to restrict sideloading apps](https://www.androidauthority.com/xiaomi-miui-pure-mode-2747934/)
  - [Hyundai Motor Group unveils its hydrogen strategy, plans to offer fuel cell versions of commercial cars by 2028](http://feedproxy.google.com/~r/Techcrunch/~3/QKbPSytFIKg/)
- - [Thinka debuts world's first Z-Wave hub for HomeKit](https://appleinsider.com/articles/21/09/07/thinka-debuts-worlds-first-z-wave-hub-for-homekit?utm_medium=rss)<!-- TECH:END -->
+ - [Smart Concept #1 is a cute little thing     - Roadshow](https://www.cnet.com/roadshow/pictures/smart-concept-1-munich/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
