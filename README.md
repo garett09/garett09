@@ -188,9 +188,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hulu’s monthly prices increase by $1 as Disney pushes its streaming bundle](https://www.theverge.com/2021/9/7/22661241/hulu-plans-ads-dollar-price-increase-monthly-subscription-disney)
- - [5 factors that can make or break a startup’s growth journey](http://feedproxy.google.com/~r/Techcrunch/~3/2INFao-bSJ4/)
- - [App Store monopoly lawsuit expands to 'Bitcoin Lottery,' others](https://appleinsider.com/articles/21/09/07/app-store-monopoly-lawsuit-expands-to-bitcoin-lottery-others?utm_medium=rss)<!-- TECH:END -->
+ - [Automakers race to design desire for luxury and tech](http://feedproxy.google.com/~r/Techcrunch/~3/JiN-wLrrs8I/)
+ - [Twitter says it is testing edge-to-edge pictures and videos in tweets on iOS to better support visual and text-based conversations (Ian Carlos Campbell/The Verge)](http://www.techmeme.com/210907/p20#a210907p20)
+ - [AI as a service to solve your business problems? Guess again](http://feedproxy.google.com/~r/Techcrunch/~3/ZoQ3QkHPY7Q/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
