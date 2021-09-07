@@ -181,9 +181,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Choose your pill and see some clips in the new Matrix Resurrections teaser site](https://www.pcgamer.com/choose-your-pill-and-see-some-clips-in-the-new-matrix-resurrections-teaser-site)
- - [The exact moment kung fu blew up in America](https://www.polygon.com/22660909/kung-fu-movies-1970s)
- - [Candyman is horror’s ultimate antihero](https://www.polygon.com/22661296/candyman-horrors-ultimate-antihero-galaxy-brains-podcast)<!-- GAME:END -->
+ - [Maybe Don’t Challenge Justin Wong To A $10,000 Marvel vs. Capcom 2 Match](https://kotaku.com/maybe-don-t-challenge-justin-wong-to-a-10-000-marvel-v-1847631978)
+ - [God of War Dev Who Helped Design Iconic Axe Passes](https://kotaku.com/god-of-war-dev-who-helped-design-iconic-axe-passes-1847632131)
+ - [Choose your pill and see some clips in the new Matrix Resurrections teaser site](https://www.pcgamer.com/choose-your-pill-and-see-some-clips-in-the-new-matrix-resurrections-teaser-site)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
