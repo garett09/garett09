@@ -188,9 +188,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ghost story Martyrs Lane on Shudder is a beautiful, haunting portrait of grief](https://www.androidauthority.com/martyrs-lane-review-shudder-2747215/)
- - [Aerospace primes Northrup, Lockheed join in Orbit Fab’s over $10M funding round](http://feedproxy.google.com/~r/Techcrunch/~3/-keOR-cPc5g/)
- - [Twitter is testing big ol’ full-width photos and videos](http://feedproxy.google.com/~r/Techcrunch/~3/7cNwj7ieOIg/)<!-- TECH:END -->
+ - [Twitter activates 'hashflag' for Apple's Sept. 14 iPhone event, hints at future announcements](https://appleinsider.com/articles/21/09/07/twitter-activates-hashflag-for-apples-sept-14-iphone-event?utm_medium=rss)
+ - [Tripwire CEO out 53 hours after tweeting his opinions on Texas abortion law](https://www.theverge.com/2021/9/7/22661432/john-gibson-tripwire-step-down-twitter-texas-abortion)
+ - [Final hours: Babbel lifetime subscription on sale for $179 ($320 off)](https://appleinsider.com/articles/21/09/06/its-back-babbel-lifetime-subscription-on-sale-for-179-320-off?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
