@@ -188,9 +188,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitter activates 'hashflag' for Apple's Sept. 14 iPhone event, hints at future announcements](https://appleinsider.com/articles/21/09/07/twitter-activates-hashflag-for-apples-sept-14-iphone-event?utm_medium=rss)
- - [Tripwire CEO out 53 hours after tweeting his opinions on Texas abortion law](https://www.theverge.com/2021/9/7/22661432/john-gibson-tripwire-step-down-twitter-texas-abortion)
- - [Final hours: Babbel lifetime subscription on sale for $179 ($320 off)](https://appleinsider.com/articles/21/09/06/its-back-babbel-lifetime-subscription-on-sale-for-179-320-off?utm_medium=rss)<!-- TECH:END -->
+ - [Microsoft warns of an actively abused zero-day that exploits a vulnerability in IE's browser engine to target Office applications; patch slated for next week (Catalin Cimpanu/The Record)](http://www.techmeme.com/210907/p23#a210907p23)
+ - [Siri channels The Supremes to tease Sept. 14 event](https://appleinsider.com/articles/21/09/07/siri-channels-the-supremes-to-tease-sept-14-event?utm_medium=rss)
+ - [Apple's Twitter 'hashflag' for Sept. 14 iPhone event hints at future announcements](https://appleinsider.com/articles/21/09/07/twitter-activates-hashflag-for-apples-sept-14-iphone-event?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
