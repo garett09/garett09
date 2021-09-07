@@ -181,9 +181,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Volunteer computing is narrowing down the search for neutron stars](https://www.pcgamer.com/volunteer-computing-is-narrowing-down-the-search-for-neutron-stars)
  - [The cheapest way to pre-order Deathloop in Australia](https://www.pcgamer.com/the-cheapest-way-to-pre-order-deathloop-in-australia)
- - [The best gaming laptops in Australia for 2021](https://www.pcgamer.com/the-best-gaming-laptops-in-australia-for-2021)
- - [Tripwire CEO steps down following comments on Texas abortion ban](https://www.pcgamer.com/tripwire-ceo-steps-down-following-comments-on-texas-abortion-ban)<!-- GAME:END -->
+ - [The best gaming laptops in Australia for 2021](https://www.pcgamer.com/the-best-gaming-laptops-in-australia-for-2021)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
