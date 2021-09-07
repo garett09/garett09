@@ -188,9 +188,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Women’s health tech brand, Elvie, tops up Series C to $97M](http://feedproxy.google.com/~r/Techcrunch/~3/mjEyG2rIqp4/)
  - [El Salvador becomes first country to adopt Bitcoin as an official currency](https://www.theverge.com/2021/9/7/22660457/el-salvador-bitcoin-legal-tender-currency-cryptocurrency-chivo-wallet)
- - [LG’s portable Xboom 360 speaker brings its own light show](https://www.theverge.com/2021/9/7/22660455/lg-xboom-360-party-speaker-light)
- - [Get ready to pay for more expensive smartphones next year](https://www.androidauthority.com/more-expensive-smartphones-chipsets-2022-2747980/)<!-- TECH:END -->
+ - [LG now makes party speakers for parents](https://www.theverge.com/2021/9/7/22660455/lg-xboom-360-party-speaker-light)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
