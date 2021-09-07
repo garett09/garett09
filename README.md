@@ -196,8 +196,8 @@ Linux                    0 secs              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 🚖 [New COD](http://9gag.com/gag/ayMb2nW)
- - 🚯 [Rate my space. No pizza delivery in my woods of Alaska, so I had to try to make my own...](http://9gag.com/gag/a8EREn1)
- - 🚯 [Spray painting a turn arrow on pavement](http://9gag.com/gag/aqjPe2R)<!-- MEMES:END -->
+ - 🚯 [Spray painting a turn arrow on pavement](http://9gag.com/gag/aqjPe2R)
+ - 🚯 [Everyone knew it was going to happen](http://9gag.com/gag/a3E61Ze)<!-- MEMES:END -->
 
 --- 
 
