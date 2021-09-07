@@ -181,9 +181,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Here's an AMD Ryzen gaming laptop with a GeForce RTX 3060 for $880](https://www.pcgamer.com/heres-an-amd-ryzen-gaming-laptop-with-a-geforce-rtx-3060-for-dollar880)
- - [Tripwire CEO out after tweeting support for Texas abortion ban](https://www.polygon.com/22660534/tripwire-ceo-steps-down-anti-abortion-statement-maneater-killing-floor)
- - [If Intel's first Alchemist gaming laptops are like its new NUC X15, I'd be impressed](https://www.pcgamer.com/intel-nuc-x15-gaming-laptop)<!-- GAME:END -->
+ - [A new Pokémon movie is coming to Netflix in October](https://www.polygon.com/22660603/new-pokemon-movie-netflix-secrets-of-the-jungle-release-date)
+ - [Best antivirus for PC gaming 2021](https://www.pcgamer.com/best-anti-virus)
+ - [Genshin Impact map: What's changed in Inazuma](https://www.pcgamer.com/all-genshin-impact-map-anemoculus-locations)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
