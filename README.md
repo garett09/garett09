@@ -195,9 +195,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Keep it simple](http://9gag.com/gag/aDdK7Xw)
+ - 🚖 [F**k your happiness](http://9gag.com/gag/aoMvW0X)
  - 🚯 [The bathroom of death ...](http://9gag.com/gag/ajmz1L1)
- - 🚯 [F**k your happiness](http://9gag.com/gag/aoMvW0X)<!-- MEMES:END -->
+ - 🚯 [Why men can&#039;t be honest](http://9gag.com/gag/aGpmnBX)<!-- MEMES:END -->
 
 --- 
 
