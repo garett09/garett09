@@ -188,9 +188,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Get ready to pay for more expensive smartphones next year](https://www.androidauthority.com/more-expensive-smartphones-chipsets-2022-2747980/)
- - [President of El Salvador says the country bought 200 bitcoins on Monday, as the law making bitcoin legal tender in El Salvador goes into effect (Muyao Shen/CoinDesk)](http://www.techmeme.com/210907/p2#a210907p2)
- - [Xiaomi is testing a ‘Pure Mode’ in MIUI to restrict sideloading apps](https://www.androidauthority.com/xiaomi-miui-pure-mode-2747934/)<!-- TECH:END -->
+ - [El Salvador becomes first country to adopt Bitcoin as an official currency](https://www.theverge.com/2021/9/7/22660457/el-salvador-bitcoin-legal-tender-currency-cryptocurrency-chivo-wallet)
+ - [LG’s portable Xboom 360 speaker brings its own light show](https://www.theverge.com/2021/9/7/22660455/lg-xboom-360-party-speaker-light)
+ - [Get ready to pay for more expensive smartphones next year](https://www.androidauthority.com/more-expensive-smartphones-chipsets-2022-2747980/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
