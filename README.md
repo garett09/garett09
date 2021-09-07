@@ -188,9 +188,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sequoia Heritage, Stripe and others invest $200M in African fintech Wave at $1.7B valuation](http://feedproxy.google.com/~r/Techcrunch/~3/9ypnvwMlqGU/)
- - [BP Ventures invests $11.9M in in-car payments provider Ryd to support expansion](http://feedproxy.google.com/~r/Techcrunch/~3/SKh-9SGR7RE/)
- - [WhatsApp is changing-up age-old privacy settings for the better](https://www.androidauthority.com/whatsapp-last-seen-privacy-update-2747914/)<!-- TECH:END -->
+ - [US and Senegal-based Wave, which offers mobile money services, raises $200M Series A at a $1.7B valuation, led by Sequoia Heritage, a subsidiary of Sequoia (Tage Kene-Okafor/TechCrunch)](http://www.techmeme.com/210907/p1#a210907p1)
+ - [Not a fluke: Mediatek extends its lead over Qualcomm in chipset shipments](https://www.androidauthority.com/mediatek-qualcomm-q2-2021-2747917/)
+ - [Sequoia Heritage, Stripe and others invest $200M in African fintech Wave at $1.7B valuation](http://feedproxy.google.com/~r/Techcrunch/~3/9ypnvwMlqGU/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
