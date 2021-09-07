@@ -195,8 +195,8 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Everyone knew it was going to happen](http://9gag.com/gag/a3E61Ze)
- - 🚯 [Spray painting a turn arrow on pavement](http://9gag.com/gag/aqjPe2R)
+ - 🚖 [I&#039;ve seen nothing wrong with this](http://9gag.com/gag/amPeAMV)
+ - 🚯 [Sex by proxy](http://9gag.com/gag/aZ06Dd3)
  - 🚯 [Uh oh](http://9gag.com/gag/aLpZ1gM)<!-- MEMES:END -->
 
 --- 
