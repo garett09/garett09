@@ -181,9 +181,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Call of Duty: Vanguard multiplayer and beta details revealed](http://feedproxy.google.com/~r/PSBlog/~3/mvGV5bqGt-Y/)
- - [Call of Duty: Vanguard multiplayer and beta details revealed](https://blog.playstation.com/2021/09/07/call-of-duty-vanguard-multiplayer-and-beta-details-revealed/)
- - [Crystal Guard Brings New Operator and Reworked Maps to Rainbow Six Siege Today](https://news.xbox.com/en-us/2021/09/07/crystal-guard-new-operator-rainbow-six-siege/)<!-- GAME:END -->
+ - [Top StarCraft 2 cheats and easter eggs](https://www.pcgamer.com/top-starcraft-2-cheats-and-easter-eggs)
+ - [These rad Fallout: New Vegas animation mods turn you into a wild west gunslinger](https://www.pcgamer.com/these-rad-fallout-new-vegas-animation-mods-turn-you-into-a-wild-west-gunslinger)
+ - [Microsoft Flight Sim's new update makes Matterhorn even more daunting](https://www.pcgamer.com/microsoft-flight-simulator-update-germany-austria-switzerland-matterhorn)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
