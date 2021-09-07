@@ -195,9 +195,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [They need to make a horror movie like this](http://9gag.com/gag/a9ExzQL)
- - 🚯 [There was some african prince cruising through hamburg, germany with his security on e scooters](http://9gag.com/gag/aLpZnnM)
- - 🚯 [Dafuq](http://9gag.com/gag/aMKoV01)<!-- MEMES:END -->
+ - 🚖 [Dafuq](http://9gag.com/gag/aMKoV01)
+ - 🚯 [Imagine being the person who has to reply to these tweets](http://9gag.com/gag/aGpmnw6)
+ - 🚯 [They need to make a horror movie like this](http://9gag.com/gag/a9ExzQL)<!-- MEMES:END -->
 
 --- 
 
