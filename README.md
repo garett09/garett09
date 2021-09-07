@@ -181,9 +181,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The best gaming laptops in Australia for 2021](https://www.pcgamer.com/the-best-gaming-laptops-in-australia-for-2021)
  - [Tripwire CEO steps down following comments on Texas abortion ban](https://www.pcgamer.com/tripwire-ceo-steps-down-following-comments-on-texas-abortion-ban)
- - [Tripwire CEO 'Steps Down' After Supporting Texas Anti-Abortion Law](https://kotaku.com/tripwire-ceo-steps-down-after-supporting-texas-anti-abo-1847626560)
- - [Howdy Major](https://kotaku.com/howdy-major-1847626415)<!-- GAME:END -->
+ - [Tripwire CEO 'Steps Down' After Supporting Texas Anti-Abortion Law](https://kotaku.com/tripwire-ceo-steps-down-after-supporting-texas-anti-abo-1847626560)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
