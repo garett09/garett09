@@ -189,8 +189,8 @@ Linux                    0 secs              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [One Woman’s Mission to Rewrite Nazi History on Wikipedia](https://www.wired.com/story/one-womans-mission-to-rewrite-nazi-history-wikipedia)
- - [Women’s health tech brand, Elvie, tops up Series C to $97M](http://feedproxy.google.com/~r/Techcrunch/~3/mjEyG2rIqp4/)
- - [Australian ducks can learn to swear and will call you a 'bloody fool' if you're not careful     - CNET](https://www.cnet.com/news/australian-ducks-can-learn-to-swear-and-will-call-you-a-bloody-fool-if-youre-not-careful/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [LG’s new foldable display tech is as hard as glass, reduces creases](https://www.androidauthority.com/lg-chem-real-folding-window-foldable-phone-2748008/)
+ - [Investigation finds Facebook has over 1,000 contractors moderating WhatsApp, including private messages and media, undermining assurances of WhatsApp's privacy (ProPublica)](http://www.techmeme.com/210907/p3#a210907p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
