@@ -181,9 +181,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [AMD's Ryzen 5000 series CPUs are getting cheaper ahead of new chip launches](https://www.pcgamer.com/amds-ryzen-5000-series-cpus-are-getting-cheaper-ahead-of-new-chip-launches)
  - [Battlefield and The Wire actor Michael K. Williams dies at 54](https://www.pcgamer.com/battlefield-and-the-wire-actor-michael-k-williams-dies-at-54)
- - [Best external hard drives in 2021](https://www.pcgamer.com/best-external-hard-drives)
- - [China's New Gaming Restrictions Have Already Been Circumvented](https://kotaku.com/chinas-new-gaming-restrictions-have-already-been-circum-1847627630)<!-- GAME:END -->
+ - [Best external hard drives in 2021](https://www.pcgamer.com/best-external-hard-drives)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
