@@ -195,8 +195,8 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The bathroom of death ...](http://9gag.com/gag/ajmz1L1)
- - 🚯 [Why men can&#039;t be honest](http://9gag.com/gag/aGpmnBX)
+ - 🚖 [It&rsquo;s a culture thing&hellip;](http://9gag.com/gag/axMLvvL)
+ - 🚯 [The bathroom of death ...](http://9gag.com/gag/ajmz1L1)
  - 🚯 [Imagine being the person who has to reply to these tweets](http://9gag.com/gag/aGpmnw6)<!-- MEMES:END -->
 
 --- 
