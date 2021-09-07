@@ -188,9 +188,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Huawei patents hints at a hands-free rollable phone future](https://www.androidauthority.com/huawei-rollable-phone-air-gestures-2748013/)
- - [Glovo to double down African investment in the next 12 months but will it stay put?](http://feedproxy.google.com/~r/Techcrunch/~3/kTI9b58jSg4/)
- - [TikTok and Snap alums launch mayk.it, a social music creation app, with $4M in seed funding](http://feedproxy.google.com/~r/Techcrunch/~3/qYx-JFQHJ2g/)<!-- TECH:END -->
+ - [Researchers are developing "smart toilets" that can scan urine and feces samples for health data using cameras and machine learning, raising privacy concerns (Brianna Abbott/Wall Street Journal)](http://www.techmeme.com/210907/p6#a210907p6)
+ - [Realme Book review: Compelling, but not complete](https://www.androidauthority.com/realme-book-review-2741173/)
+ - [Mark Zuckerberg may have lied to Congress about who can see WhatsApp messages](https://appleinsider.com/articles/21/09/07/mark-zuckerberg-may-have-lied-to-congress-about-who-can-see-whatsapp-messages?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
