@@ -188,9 +188,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Crypto exchanges struggle as El Salvador adopts Bitcoin](https://www.theverge.com/2021/9/7/22660932/crypto-exchanges-el-salvador-bitcoin-price-dip)
- - [Bose Smart Soundbar 900 with AirPlay 2 & Dolby Atmos now available](https://appleinsider.com/articles/21/09/07/bose-smart-soundbar-900-with-airplay-2-dolby-atmos-now-available?utm_medium=rss)
- - [September 2021 Android security patch rolling out now to Pixel phones](https://www.androidauthority.com/september-2021-android-security-patch-2748224/)<!-- TECH:END -->
+ - [Apple releases another new slight AirTags firmware revision](https://appleinsider.com/articles/21/09/07/apple-releases-another-new-slight-airtags-firmware-revision?utm_medium=rss)
+ - [The best Visible deals: Get an iPhone 12 and $200 gift card for just $600](https://www.androidauthority.com/best-visible-deals-1096134/)
+ - [Hulu is raising the prices of its two on-demand plans by $1/month October 8; Hulu with ads will now cost $6.99/month and Hulu without ads will cost $12.99 (Todd Spangler/Variety)](http://www.techmeme.com/210907/p16#a210907p16)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
