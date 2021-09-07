@@ -188,9 +188,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Financial comparison “super app” Jeff raises $1.5M seed extension](http://feedproxy.google.com/~r/Techcrunch/~3/bah59dr0Yik/)
- - [Ledgy is an equity management tool for European startups](http://feedproxy.google.com/~r/Techcrunch/~3/aR0Trx8Z99I/)
- - [Android 12-based Color OS 12 coming this month. Get official wallpapers now!](https://www.androidauthority.com/oppo-color-os-12-availability-wallpapers-2747883/)<!-- TECH:END -->
+ - [September security patch rolls out to Samsung Galaxy Note 10 series](https://www.androidauthority.com/samsung-galaxy-note-10-plus-update-1020236/)
+ - [Indian crypto exchange CoinSwitch Kuber in talks to raise funds at unicorn valuation](http://feedproxy.google.com/~r/Techcrunch/~3/9qneSi8O9Hk/)
+ - [Financial comparison “super app” Jeff raises $1.5M seed extension](http://feedproxy.google.com/~r/Techcrunch/~3/bah59dr0Yik/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
