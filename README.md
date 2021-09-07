@@ -181,9 +181,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [These Minecraft desert temple redesigns carry a new threatening aura](https://www.pcgamer.com/these-minecraft-desert-temple-redesigns-carry-a-new-threatening-aura)
  - [Volunteer computing is narrowing down the search for neutron stars](https://www.pcgamer.com/volunteer-computing-is-narrowing-down-the-search-for-neutron-stars)
- - [The cheapest way to pre-order Deathloop in Australia](https://www.pcgamer.com/the-cheapest-way-to-pre-order-deathloop-in-australia)
- - [The best gaming laptops in Australia for 2021](https://www.pcgamer.com/the-best-gaming-laptops-in-australia-for-2021)<!-- GAME:END -->
+ - [Metal Gear's Japanese Voice Actor Gets New Role As Daisuke Jigen from Lupin III](https://kotaku.com/metal-gears-japanese-voice-actor-gets-new-role-as-daisu-1847627459)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
