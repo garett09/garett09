@@ -195,9 +195,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [They know better](http://9gag.com/gag/aGpmzOn)
- - 🚯 [Loopholes b*tches](http://9gag.com/gag/ayMbN5q)
- - 🚯 [Sex by proxy](http://9gag.com/gag/aZ06Dd3)<!-- MEMES:END -->
+ - 🚖 [Loopholes b*tches](http://9gag.com/gag/ayMbN5q)
+ - 🚯 [Moscow metro stations](http://9gag.com/gag/aRXbB15)
+ - 🚯 [Diggy diggy hoooole](http://9gag.com/gag/a273K5Y)<!-- MEMES:END -->
 
 --- 
 
