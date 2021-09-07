@@ -188,9 +188,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple releases another new slight AirTags firmware revision](https://appleinsider.com/articles/21/09/07/apple-releases-another-new-slight-airtags-firmware-revision?utm_medium=rss)
- - [The best Visible deals: Get an iPhone 12 and $200 gift card for just $600](https://www.androidauthority.com/best-visible-deals-1096134/)
- - [Hulu is raising the prices of its two on-demand plans by $1/month October 8; Hulu with ads will now cost $6.99/month and Hulu without ads will cost $12.99 (Todd Spangler/Variety)](http://www.techmeme.com/210907/p16#a210907p16)<!-- TECH:END -->
+ - [Ford announces it has hired former Tesla and Apple executive Doug Field as its chief advanced technology and embedded systems officer (Michael Wayland/CNBC)](http://www.techmeme.com/210907/p17#a210907p17)
+ - [LG claims its ‘Real Folding Window’ beats folding glass, will ship in 2023](https://www.theverge.com/2021/9/7/22661149/lg-real-folding-window-glass-plastic-flexible-phones-pet-availability)
+ - [NASA’s Perseverance rover finally snatched its first Mars rock sample](https://www.theverge.com/2021/9/7/22654226/nasa-perseverance-first-rock-sample-drill)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
