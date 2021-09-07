@@ -188,9 +188,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Xiaomi is testing a ‘Pure Mode’ in MIUI to restrict sideloading apps](https://www.androidauthority.com/xiaomi-miui-pure-mode-2747934/)
- - [Hyundai Motor Group unveils its hydrogen strategy, plans to offer fuel cell versions of commercial cars by 2028](http://feedproxy.google.com/~r/Techcrunch/~3/QKbPSytFIKg/)
- - [Smart Concept #1 is a cute little thing     - Roadshow](https://www.cnet.com/roadshow/pictures/smart-concept-1-munich/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Get ready to pay for more expensive smartphones next year](https://www.androidauthority.com/more-expensive-smartphones-chipsets-2022-2747980/)
+ - [President of El Salvador says the country bought 200 bitcoins on Monday, as the law making bitcoin legal tender in El Salvador goes into effect (Muyao Shen/CoinDesk)](http://www.techmeme.com/210907/p2#a210907p2)
+ - [Xiaomi is testing a ‘Pure Mode’ in MIUI to restrict sideloading apps](https://www.androidauthority.com/xiaomi-miui-pure-mode-2747934/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
