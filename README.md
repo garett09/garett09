@@ -188,9 +188,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Researchers are developing "smart toilets" that can scan urine and feces samples for health data using cameras and machine learning, raising privacy concerns (Brianna Abbott/Wall Street Journal)](http://www.techmeme.com/210907/p6#a210907p6)
- - [Realme Book review: Compelling, but not complete](https://www.androidauthority.com/realme-book-review-2741173/)
- - [Mark Zuckerberg may have lied to Congress about who can see WhatsApp messages](https://appleinsider.com/articles/21/09/07/mark-zuckerberg-may-have-lied-to-congress-about-who-can-see-whatsapp-messages?utm_medium=rss)<!-- TECH:END -->
+ - [DigitalOcean enhances serverless capabilities with Nimbella acquisition](http://feedproxy.google.com/~r/Techcrunch/~3/C4nH0ouN71U/)
+ - [The Verge enters agreement to acquire Hot Pod](https://www.theverge.com/2021/9/7/22660584/hot-pod-newsletter-the-verge-ashley-carman)
+ - [Poll: What should be the fourth rear camera on flagship phones?](https://www.androidauthority.com/fourth-camera-flagship-phones-poll-2748032/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
