@@ -181,9 +181,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [So far, Call of Duty: Vanguard is like Modern Warfare with lamer guns](https://www.pcgamer.com/so-far-call-of-duty-vanguard-is-like-modern-warfare-with-lamer-guns)
- - [PlayStation Plus offers Hitman 2, Overcooked! in September](https://www.polygon.com/22644469/playstation-plus-september-2021-free-games-ps5-ps4)
- - [Warhammer 40,000: Fireteam is tactical skirmish combat on a budget](https://www.polygon.com/22660899/warhammer-40000-fireteam-review)<!-- GAME:END -->
+ - [Call of Duty: Vanguard multiplayer and beta details revealed](http://feedproxy.google.com/~r/PSBlog/~3/mvGV5bqGt-Y/)
+ - [Call of Duty: Vanguard multiplayer and beta details revealed](https://blog.playstation.com/2021/09/07/call-of-duty-vanguard-multiplayer-and-beta-details-revealed/)
+ - [Crystal Guard Brings New Operator and Reworked Maps to Rainbow Six Siege Today](https://news.xbox.com/en-us/2021/09/07/crystal-guard-new-operator-rainbow-six-siege/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
