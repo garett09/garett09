@@ -188,9 +188,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple will hold an event Sept. 14, likely for the iPhone 13 reveal](https://www.androidauthority.com/iphone-13-reveal-2748179/)
- - [VW’s ID Life concept teases a truly affordable electric car](https://www.theverge.com/2021/9/7/22660827/volkswagen-id-life-concept-electric-car-iaa-mobility-2021)
- - [Apple Pay usage remains steady despite decline in mobile wallets, survey says](https://appleinsider.com/articles/21/09/07/apple-pay-usage-remains-steady-despite-decline-in-mobile-wallets-survey-says?utm_medium=rss)<!-- TECH:END -->
+ - [Equity Monday: Women’s employment drops, as Delta’s drama continues](http://feedproxy.google.com/~r/Techcrunch/~3/S70CjFisxyo/)
+ - [iPhone 13, Apple Watch Series 7 & more: what to expect from the Apple Event](https://appleinsider.com/articles/21/07/12/iphone-13-imac-14-inch-macbook-pro-and-more-whats-coming-from-apple-in-late-2021?utm_medium=rss)
+ - [Apple issues ninth developer beta for tvOS 15, HomePodOS](https://appleinsider.com/articles/21/09/07/apple-issues-ninth-developer-beta-for-tvos-15-homepodos?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
