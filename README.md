@@ -181,9 +181,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Best gaming desk in 2021](https://www.pcgamer.com/best-gaming-desk)
  - [Five years later, No Man's Sky finally has positive Steam reviews](https://www.pcgamer.com/five-years-later-no-mans-sky-finally-has-positive-steam-reviews)
- - [These Minecraft desert temple redesigns carry a threatening aura](https://www.pcgamer.com/these-minecraft-desert-temple-redesigns-carry-a-new-threatening-aura)
- - [Volunteer computing is narrowing down the search for neutron stars](https://www.pcgamer.com/volunteer-computing-is-narrowing-down-the-search-for-neutron-stars)<!-- GAME:END -->
+ - [These Minecraft desert temple redesigns carry a threatening aura](https://www.pcgamer.com/these-minecraft-desert-temple-redesigns-carry-a-new-threatening-aura)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
