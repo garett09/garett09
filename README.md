@@ -188,9 +188,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [App Store monopoly lawsuit expands to 'Bitcoin Lottery,' others](https://appleinsider.com/articles/21/09/07/app-store-monopoly-lawsuit-expands-to-bitcoin-lottery-others?utm_medium=rss)
- - [Intel's CEO Pat Gelsinger says the company plans to spend up to $95B on two new chip-making facilities in Europe (Wall Street Journal)](http://www.techmeme.com/210907/p18#a210907p18)
- - [Amazon Fire Tablets And Kindles Are on Sale Right Now](https://www.wired.com/story/amazon-kindle-fire-tablet-deals-september-2021)<!-- TECH:END -->
+ - [Hulu’s monthly prices increase by $1 as Disney pushes its streaming bundle](https://www.theverge.com/2021/9/7/22661241/hulu-plans-ads-dollar-price-increase-monthly-subscription-disney)
+ - [5 factors that can make or break a startup’s growth journey](http://feedproxy.google.com/~r/Techcrunch/~3/2INFao-bSJ4/)
+ - [App Store monopoly lawsuit expands to 'Bitcoin Lottery,' others](https://appleinsider.com/articles/21/09/07/app-store-monopoly-lawsuit-expands-to-bitcoin-lottery-others?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
