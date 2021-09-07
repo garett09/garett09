@@ -188,9 +188,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [September security patch rolls out to Samsung Galaxy Note 10 series](https://www.androidauthority.com/samsung-galaxy-note-10-plus-update-1020236/)
- - [Indian crypto exchange CoinSwitch Kuber in talks to raise funds at unicorn valuation](http://feedproxy.google.com/~r/Techcrunch/~3/9qneSi8O9Hk/)
- - [Financial comparison “super app” Jeff raises $1.5M seed extension](http://feedproxy.google.com/~r/Techcrunch/~3/bah59dr0Yik/)<!-- TECH:END -->
+ - [Sequoia Heritage, Stripe and others invest $200M in African fintech Wave at $1.7B valuation](http://feedproxy.google.com/~r/Techcrunch/~3/9ypnvwMlqGU/)
+ - [BP Ventures invests $11.9M in in-car payments provider Ryd to support expansion](http://feedproxy.google.com/~r/Techcrunch/~3/SKh-9SGR7RE/)
+ - [WhatsApp is changing-up age-old privacy settings for the better](https://www.androidauthority.com/whatsapp-last-seen-privacy-update-2747914/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
