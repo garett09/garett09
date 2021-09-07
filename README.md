@@ -181,9 +181,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [So far, Call of Duty: Vanguard is like Modern Warfare with lamer guns](https://www.pcgamer.com/so-far-call-of-duty-vanguard-is-like-modern-warfare-with-lamer-guns)
  - [PlayStation Plus offers Hitman 2, Overcooked! in September](https://www.polygon.com/22644469/playstation-plus-september-2021-free-games-ps5-ps4)
- - [Warhammer 40,000: Fireteam is tactical skirmish combat on a budget](https://www.polygon.com/22660899/warhammer-40000-fireteam-review)
- - [Ubisoft Appoints Another White French Guy As Head Creative](https://kotaku.com/ubisoft-appoints-another-white-french-guy-as-head-creat-1847629572)<!-- GAME:END -->
+ - [Warhammer 40,000: Fireteam is tactical skirmish combat on a budget](https://www.polygon.com/22660899/warhammer-40000-fireteam-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
