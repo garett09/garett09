@@ -188,9 +188,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to get your Mac to read text out loud to you](https://appleinsider.com/articles/21/09/07/how-to-get-your-mac-to-read-text-out-loud-to-you?utm_medium=rss)
- - [Make every snap picture perfect with the Qualcomm Snapdragon 888](https://www.androidauthority.com/picture-perfect-qualcomm-snapdragon-888-2747027/)
- - [A look at Microsoft's M12 venture arm: 107 investments in total, focused on financial returns rather than acquisitions, expansion into seed rounds, and more (Chris Metinko/Crunchbase News)](http://www.techmeme.com/210907/p10#a210907p10)<!-- TECH:END -->
+ - [Tesla is planning for a wider release of its controversial ‘Full Self-Driving’ software](https://www.theverge.com/2021/9/7/22660692/tesla-full-self-driving-software-release-date-leak)
+ - [Mark Zuckerberg may have lied to Congress about who can see WhatsApp messages](https://appleinsider.com/articles/21/09/07/mark-zuckerberg-may-have-lied-to-congress-about-who-can-see-whatsapp-messages?utm_medium=rss)
+ - [App Store monopoly lawsuit expands to 'Bitcoin Lottery,' others](https://appleinsider.com/articles/21/09/07/app-store-monopoly-lawsuit-expands-to-bitcoin-lottery-others?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
