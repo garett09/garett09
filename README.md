@@ -181,9 +181,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Our most anticipated games coming this fall](https://www.polygon.com/22654494/video-game-releases-fall-2021-most-anticipated-ps5-xbox-series-x-pc-switch-ps4-one)
- - [Alan Wake Is Getting Remastered, And It Is About Damn Time](https://kotaku.com/alan-wake-is-getting-remastered-and-its-about-damn-tim-1847628250)
- - [A guide to all the big movies premiering this fall](https://www.polygon.com/22619925/movie-release-dates-fall-2021)<!-- GAME:END -->
+ - [League of Legends’ newest champion can chain together one kill after another](https://www.polygon.com/22654740/league-of-legends-new-champion-vex-ability-kit-ultimate-passive-lol)
+ - [Far Cry 3 goes free on the Ubisoft Store](https://www.pcgamer.com/far-cry-3-goes-free-on-the-ubisoft-store)
+ - [Polygon’s fall preview](https://www.polygon.com/22659283/release-dates-movies-tv-games-fall-2021)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
