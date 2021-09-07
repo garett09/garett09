@@ -195,9 +195,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [That spin though.](http://9gag.com/gag/a7EYOeL)
- - 🚯 [They need to make a horror movie like this](http://9gag.com/gag/a9ExzQL)
- - 🚯 [Imagine being the person who has to reply to these tweets](http://9gag.com/gag/aGpmnw6)<!-- MEMES:END -->
+ - 🚖 [They need to make a horror movie like this](http://9gag.com/gag/a9ExzQL)
+ - 🚯 [What a shame](http://9gag.com/gag/a4EX6mQ)
+ - 🚯 [That spin though.](http://9gag.com/gag/a7EYOeL)<!-- MEMES:END -->
 
 --- 
 
