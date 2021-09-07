@@ -188,9 +188,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ford poaches executive leading the 'Apple Car' project](https://appleinsider.com/articles/21/09/07/ford-poaches-executive-leading-the-apple-car-project?utm_medium=rss)
- - [Ford hires Apple executive who led its secret car project](http://feedproxy.google.com/~r/Techcrunch/~3/Fj2OVRZm8-Y/)
- - [Ford announces it has hired former Tesla and Apple executive Doug Field as its chief advanced technology and embedded systems officer (Michael Wayland/CNBC)](http://www.techmeme.com/210907/p17#a210907p17)<!-- TECH:END -->
+ - [App Store monopoly lawsuit expands to 'Bitcoin Lottery,' others](https://appleinsider.com/articles/21/09/07/app-store-monopoly-lawsuit-expands-to-bitcoin-lottery-others?utm_medium=rss)
+ - [Intel's CEO Pat Gelsinger says the company plans to spend up to $95B on two new chip-making facilities in Europe (Wall Street Journal)](http://www.techmeme.com/210907/p18#a210907p18)
+ - [Amazon Fire Tablets And Kindles Are on Sale Right Now](https://www.wired.com/story/amazon-kindle-fire-tablet-deals-september-2021)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
