@@ -188,9 +188,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [One Woman’s Mission to Rewrite Nazi History on Wikipedia](https://www.wired.com/story/one-womans-mission-to-rewrite-nazi-history-wikipedia)
  - [Women’s health tech brand, Elvie, tops up Series C to $97M](http://feedproxy.google.com/~r/Techcrunch/~3/mjEyG2rIqp4/)
- - [El Salvador becomes first country to adopt Bitcoin as an official currency](https://www.theverge.com/2021/9/7/22660457/el-salvador-bitcoin-legal-tender-currency-cryptocurrency-chivo-wallet)
- - [LG now makes party speakers for parents](https://www.theverge.com/2021/9/7/22660455/lg-xboom-360-party-speaker-light)<!-- TECH:END -->
+ - [Australian ducks can learn to swear and will call you a 'bloody fool' if you're not careful     - CNET](https://www.cnet.com/news/australian-ducks-can-learn-to-swear-and-will-call-you-a-bloody-fool-if-youre-not-careful/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
