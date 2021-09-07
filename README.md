@@ -188,9 +188,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [One Woman’s Mission to Rewrite Nazi History on Wikipedia](https://www.wired.com/story/one-womans-mission-to-rewrite-nazi-history-wikipedia)
- - [LG’s new foldable display tech is as hard as glass, reduces creases](https://www.androidauthority.com/lg-chem-real-folding-window-foldable-phone-2748008/)
- - [Investigation finds Facebook has over 1,000 contractors moderating WhatsApp, including private messages and media, undermining assurances of WhatsApp's privacy (ProPublica)](http://www.techmeme.com/210907/p3#a210907p3)<!-- TECH:END -->
+ - [Future iMac redesign could be made from a single glass sheet](https://appleinsider.com/articles/21/09/07/future-imac-redesign-could-be-made-from-a-single-glass-sheet?utm_medium=rss)
+ - [Future MacBook Pro may get health monitoring sensors](https://appleinsider.com/articles/21/09/07/future-macbook-pro-may-get-health-monitoring-sensors?utm_medium=rss)
+ - [3D Printing Helps Ultracold Quantum Experiments Go Small](https://www.wired.com/story/3d-printing-helps-ultracold-quantum-experiments-go-small)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
