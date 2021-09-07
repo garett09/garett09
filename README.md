@@ -188,9 +188,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Twitter is testing an official ‘soft block’ feature](https://www.theverge.com/2021/9/7/22661452/twitter-follower-remove-soft-block-test)
  - [Microsoft says it has acquired in-browser video editing software startup Clipchamp, which had 17M registered users across 390K+ companies as of July (Jordan Novet/CNBC)](http://www.techmeme.com/210907/p24#a210907p24)
- - [Apple's Twitter 'hashflag' for Sept. 14 iPhone event hints at future announcements](https://appleinsider.com/articles/21/09/07/twitter-activates-hashflag-for-apples-sept-14-iphone-event?utm_medium=rss)
- - [Siri channels The Supremes to tease Sept. 14 event](https://appleinsider.com/articles/21/09/07/siri-channels-the-supremes-to-tease-sept-14-event?utm_medium=rss)<!-- TECH:END -->
+ - [Apple's Twitter 'hashflag' for Sept. 14 iPhone event hints at future announcements](https://appleinsider.com/articles/21/09/07/twitter-activates-hashflag-for-apples-sept-14-iphone-event?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
