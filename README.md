@@ -188,9 +188,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bangladesh's ShopUp, which aims to digitize neighborhood stores in the country, raises $75M Series B led by Valar Ventures, bringing its total raised to $100M+ (Manish Singh/TechCrunch)](http://www.techmeme.com/210906/p11#a210906p11)
- - [VMware ditches plans to support EXSi on 2019 Mac Pro](https://appleinsider.com/articles/21/09/07/vmware-ditches-plans-to-support-exsi-on-2019-mac-pro?utm_medium=rss)
- - [New Apple MagSafe charger for iPhone revealed in FCC filing](https://appleinsider.com/articles/21/09/07/new-apple-magsafe-charger-for-iphone-revealed-in-fcc-filing?utm_medium=rss)<!-- TECH:END -->
+ - [New Apple MagSafe charger for iPhone revealed in FCC filing](https://appleinsider.com/articles/21/09/07/new-apple-magsafe-charger-for-iphone-revealed-in-fcc-filing?utm_medium=rss)
+ - [Portcast gets $3.2M to create more transparent and sustainable supply chains](http://feedproxy.google.com/~r/Techcrunch/~3/ergfYMTcpOc/)
+ - [Bangladesh's ShopUp, which aims to digitize neighborhood stores in the country, raises $75M Series B led by Valar Ventures, bringing its total raised to $100M+ (Manish Singh/TechCrunch)](http://www.techmeme.com/210906/p11#a210906p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
