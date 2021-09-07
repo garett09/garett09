@@ -195,9 +195,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Trippy glasses](http://9gag.com/gag/a7EY1Qr)
- - 🚯 [Spray painting a turn arrow on pavement](http://9gag.com/gag/aqjPe2R)
- - 🚯 [Fat ass](http://9gag.com/gag/aGpmpNG)<!-- MEMES:END -->
+ - 🚖 [Fat ass](http://9gag.com/gag/aGpmpNG)
+ - 🚯 [Trippy glasses](http://9gag.com/gag/a7EY1Qr)
+ - 🚯 [Spray painting a turn arrow on pavement](http://9gag.com/gag/aqjPe2R)<!-- MEMES:END -->
 
 --- 
 
