@@ -188,9 +188,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Social network Peanut expands to include more women with launch of Peanut Menopause](http://feedproxy.google.com/~r/Techcrunch/~3/SQGo3FsNo2E/)
- - [Everything AI and robotics at TechCrunch Disrupt 2021](http://feedproxy.google.com/~r/Techcrunch/~3/WuENqsW4r3g/)
- - [How to get your Mac to read text out loud to you](https://appleinsider.com/articles/21/09/07/how-to-get-your-mac-to-read-text-out-loud-to-you?utm_medium=rss)<!-- TECH:END -->
+ - [How to get your Mac to read text out loud to you](https://appleinsider.com/articles/21/09/07/how-to-get-your-mac-to-read-text-out-loud-to-you?utm_medium=rss)
+ - [Make every snap picture perfect with the Qualcomm Snapdragon 888](https://www.androidauthority.com/picture-perfect-qualcomm-snapdragon-888-2747027/)
+ - [A look at Microsoft's M12 venture arm: 107 investments in total, focused on financial returns rather than acquisitions, expansion into seed rounds, and more (Chris Metinko/Crunchbase News)](http://www.techmeme.com/210907/p10#a210907p10)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
