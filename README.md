@@ -188,9 +188,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tesla is planning for a wider release of its controversial ‘Full Self-Driving’ software](https://www.theverge.com/2021/9/7/22660692/tesla-full-self-driving-software-release-date-leak)
- - [Mark Zuckerberg may have lied to Congress about who can see WhatsApp messages](https://appleinsider.com/articles/21/09/07/mark-zuckerberg-may-have-lied-to-congress-about-who-can-see-whatsapp-messages?utm_medium=rss)
- - [App Store monopoly lawsuit expands to 'Bitcoin Lottery,' others](https://appleinsider.com/articles/21/09/07/app-store-monopoly-lawsuit-expands-to-bitcoin-lottery-others?utm_medium=rss)<!-- TECH:END -->
+ - [Apple's iPhone 13, Apple Watch Series 7 event is on September 14](https://appleinsider.com/articles/21/09/07/apples-iphone-13-apple-watch-series-7-event-is-on-september-14?utm_medium=rss)
+ - [Apple announces a "California Streaming" virtual event on September 14 at 10am PT, where new iPhones and Apple Watches are expected (Juli Clover/MacRumors)](http://www.techmeme.com/210907/p12#a210907p12)
+ - [Apple’s next event is September 14](http://feedproxy.google.com/~r/Techcrunch/~3/xOIkfXjBX0E/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
