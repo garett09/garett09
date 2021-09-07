@@ -188,9 +188,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ford announces it has hired former Tesla and Apple executive Doug Field as its chief advanced technology and embedded systems officer (Michael Wayland/CNBC)](http://www.techmeme.com/210907/p17#a210907p17)
- - [LG claims its ‘Real Folding Window’ beats folding glass, will ship in 2023](https://www.theverge.com/2021/9/7/22661149/lg-real-folding-window-glass-plastic-flexible-phones-pet-availability)
- - [NASA’s Perseverance rover finally snatched its first Mars rock sample](https://www.theverge.com/2021/9/7/22654226/nasa-perseverance-first-rock-sample-drill)<!-- TECH:END -->
+ - [Ford poaches executive leading the 'Apple Car' project](https://appleinsider.com/articles/21/09/07/ford-poaches-executive-leading-the-apple-car-project?utm_medium=rss)
+ - [Ford hires Apple executive who led its secret car project](http://feedproxy.google.com/~r/Techcrunch/~3/Fj2OVRZm8-Y/)
+ - [Ford announces it has hired former Tesla and Apple executive Doug Field as its chief advanced technology and embedded systems officer (Michael Wayland/CNBC)](http://www.techmeme.com/210907/p17#a210907p17)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
