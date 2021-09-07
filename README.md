@@ -188,9 +188,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Future iMac redesign could be made from a single glass sheet](https://appleinsider.com/articles/21/09/07/future-imac-redesign-could-be-made-from-a-single-glass-sheet?utm_medium=rss)
- - [Future MacBook Pro may get health monitoring sensors](https://appleinsider.com/articles/21/09/07/future-macbook-pro-may-get-health-monitoring-sensors?utm_medium=rss)
- - [3D Printing Helps Ultracold Quantum Experiments Go Small](https://www.wired.com/story/3d-printing-helps-ultracold-quantum-experiments-go-small)<!-- TECH:END -->
+ - [Seqera Labs grabs $5.5M to help sequence Covid-19 variants and other complex data problems](http://feedproxy.google.com/~r/Techcrunch/~3/FAPPaB18jCE/)
+ - [UK carrier leaks Sept. 14 iPhone 13 event date](https://appleinsider.com/articles/21/09/07/uk-carrier-leaks-sept-14-iphone-13-event-date?utm_medium=rss)
+ - [iMac could be made from a single glass sheet in the future](https://appleinsider.com/articles/21/09/07/future-imac-redesign-could-be-made-from-a-single-glass-sheet?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
