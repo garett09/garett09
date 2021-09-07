@@ -195,9 +195,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Dudeeeee](http://9gag.com/gag/amPeP2X)
- - 🚯 [Demon Time...](http://9gag.com/gag/aB2A2vZ)
- - 🚯 [What kind of thottery is this ?](http://9gag.com/gag/aGpmpA6)<!-- MEMES:END -->
+ - 🚖 [Toby, Tom and.... the other dude.](http://9gag.com/gag/agBDBM6)
+ - 🚯 [Dudeeeee](http://9gag.com/gag/amPeP2X)
+ - 🚯 [Demon Time...](http://9gag.com/gag/aB2A2vZ)<!-- MEMES:END -->
 
 --- 
 
