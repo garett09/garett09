@@ -196,8 +196,8 @@ Linux                    0 secs              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 🚖 [The bathroom of death ...](http://9gag.com/gag/ajmz1L1)
- - 🚯 [When reality hits you](http://9gag.com/gag/a6E0D12)
- - 🚯 [Keep it simple](http://9gag.com/gag/aDdK7Xw)<!-- MEMES:END -->
+ - 🚯 [Keep it simple](http://9gag.com/gag/aDdK7Xw)
+ - 🚯 [Why men can&#039;t be honest](http://9gag.com/gag/aGpmnBX)<!-- MEMES:END -->
 
 --- 
 
