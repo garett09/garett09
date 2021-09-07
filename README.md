@@ -181,9 +181,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [A new Pokémon movie is coming to Netflix in October](https://www.polygon.com/22660603/new-pokemon-movie-netflix-secrets-of-the-jungle-release-date)
- - [Best antivirus for PC gaming 2021](https://www.pcgamer.com/best-anti-virus)
- - [Genshin Impact map: What's changed in Inazuma](https://www.pcgamer.com/all-genshin-impact-map-anemoculus-locations)<!-- GAME:END -->
+ - [Our most anticipated games coming this fall](https://www.polygon.com/22654494/video-game-releases-fall-2021-most-anticipated-ps5-xbox-series-x-pc-switch-ps4-one)
+ - [Alan Wake Is Getting Remastered, And It Is About Damn Time](https://kotaku.com/alan-wake-is-getting-remastered-and-its-about-damn-tim-1847628250)
+ - [A guide to all the big movies premiering this fall](https://www.polygon.com/22619925/movie-release-dates-fall-2021)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
