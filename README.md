@@ -195,9 +195,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I&#039;ve seen nothing wrong with this](http://9gag.com/gag/amPeAMV)
- - 🚯 [Sex by proxy](http://9gag.com/gag/aZ06Dd3)
- - 🚯 [Uh oh](http://9gag.com/gag/aLpZ1gM)<!-- MEMES:END -->
+ - 🚖 [We want to do it, but it&#039;s not the correct thing to do](http://9gag.com/gag/aEp90vx)
+ - 🚯 [Uh oh](http://9gag.com/gag/aLpZ1gM)
+ - 🚯 [Lovely](http://9gag.com/gag/axMLBAb)<!-- MEMES:END -->
 
 --- 
 
