@@ -181,9 +181,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The puzzle box is open: Pinhead joins Dead by Daylight](http://feedproxy.google.com/~r/PSBlog/~3/HHZFGazGh3I/)
- - [The puzzle box is open: Pinhead joins Dead by Daylight](https://blog.playstation.com/2021/09/07/the-puzzle-box-is-open-pinhead-joins-dead-by-daylight/)
- - [Intel claimed to be officially targeting RTX 3070 performance with first Alchemist GPU](https://www.pcgamer.com/intel-claimed-to-be-officially-targeting-rtx-3070-performance-with-first-alchemist-gpu)<!-- GAME:END -->
+ - [I was institutionalized as a teen, and Wario was my only friend](https://www.polygon.com/wario/22654238/wario-month-mental-health-ward-story-warioware-twisted)
+ - [Matrix 4 teaser website lets you take the red pill or blue pill for a first look at the movie](https://www.polygon.com/22660953/matrix-4-resurrections-trailer-teaser-red-pill-blue-pill-website)
+ - [Cinderella director explains her radical reimagining — and ditching the villain](https://www.polygon.com/interviews/22660884/cinderella-movie-amazon-director-interview-girlboss)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
