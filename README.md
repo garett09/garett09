@@ -195,9 +195,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When reality hits you](http://9gag.com/gag/a6E0D12)
- - 🚯 [I was such a badass](http://9gag.com/gag/aNp7DXv)
- - 🚯 [Go sports!](http://9gag.com/gag/anQmOQV)<!-- MEMES:END -->
+ - 🚖 [Dafuq](http://9gag.com/gag/aMKoV01)
+ - 🚯 [Keep it simple](http://9gag.com/gag/aDdK7Xw)
+ - 🚯 [There was some african prince cruising through hamburg, germany with his security on e scooters](http://9gag.com/gag/aLpZnnM)<!-- MEMES:END -->
 
 --- 
 
