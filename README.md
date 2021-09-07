@@ -181,9 +181,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Call of Duty: Warzone’s new map will take players to the Pacific](https://www.polygon.com/call-of-duty/22661041/call-of-duty-warzone-pacific-map-new-release-date-anti-cheat-vanguard)
- - [I Still Can't Listen To Genshin Impact's Inaccurate English Voice Acting](https://kotaku.com/i-still-cant-listen-to-genshin-impacts-inaccurate-engli-1847630830)
- - [The Broken Token CEO steps down after abuse allegations, still owns company](https://www.polygon.com/22661192/broken-token-ceo-steps-down-layoffs-greg-spence)<!-- GAME:END -->
+ - [Fans Are Pissed About The Switch eShop’s Asset Flip Scourge](https://kotaku.com/fans-are-pissed-about-the-switch-eshop-s-asset-flip-sco-1847630892)
+ - [The best builds for Baal in Genshin Impact](https://www.pcgamer.com/best-genshin-impact-baal-build-banner)
+ - [Here's our first look at Call of Duty: Warzone's new Pacific island map](https://www.pcgamer.com/heres-our-first-look-at-call-of-duty-warzones-new-pacific-island-map)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
