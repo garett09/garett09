@@ -188,9 +188,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [US and Senegal-based Wave, which offers mobile money services, raises $200M Series A at a $1.7B valuation, led by Sequoia Heritage, a subsidiary of Sequoia (Tage Kene-Okafor/TechCrunch)](http://www.techmeme.com/210907/p1#a210907p1)
- - [Not a fluke: Mediatek extends its lead over Qualcomm in chipset shipments](https://www.androidauthority.com/mediatek-qualcomm-q2-2021-2747917/)
- - [Sequoia Heritage, Stripe and others invest $200M in African fintech Wave at $1.7B valuation](http://feedproxy.google.com/~r/Techcrunch/~3/9ypnvwMlqGU/)<!-- TECH:END -->
+ - [Xiaomi is testing a ‘Pure Mode’ in MIUI to restrict sideloading apps](https://www.androidauthority.com/xaiomi-miui-pure-mode-2747934/)
+ - [Hyundai Motor Group unveils its hydrogen strategy, plans to offer fuel cell versions of commercial cars by 2028](http://feedproxy.google.com/~r/Techcrunch/~3/QKbPSytFIKg/)
+ - [Thinka debuts world's first Z-Wave hub for HomeKit](https://appleinsider.com/articles/21/09/07/thinka-debuts-worlds-first-z-wave-hub-for-homekit?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
