@@ -181,9 +181,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [League of Legends’ newest champion can chain together one kill after another](https://www.polygon.com/22654740/league-of-legends-new-champion-vex-ability-kit-ultimate-passive-lol)
- - [Far Cry 3 goes free on the Ubisoft Store](https://www.pcgamer.com/far-cry-3-goes-free-on-the-ubisoft-store)
- - [Polygon’s fall preview](https://www.polygon.com/22659283/release-dates-movies-tv-games-fall-2021)<!-- GAME:END -->
+ - [Best cheap microphone for streaming and gaming](https://www.pcgamer.com/best-budget-microphone)
+ - [Microsoft Flight Simulator update out now, beautifies Germany, Austria, Switzerland](https://www.polygon.com/22638376/microsoft-flight-simulator-world-update-6-trailer-germany-austria-switzerland)
+ - [Tearing down Abriss' beautiful brutalist tower blocks never gets old](https://www.pcgamer.com/tearing-down-abriss-beautiful-brutalist-tower-blocks-never-gets-old)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
