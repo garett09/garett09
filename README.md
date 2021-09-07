@@ -195,9 +195,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Interesting documentary](http://9gag.com/gag/aAb80jp)
+ - 🚖 [Go sports!](http://9gag.com/gag/anQmOQV)
  - 🚯 [I was such a badass](http://9gag.com/gag/aNp7DXv)
- - 🚯 [Dafuq](http://9gag.com/gag/aMKoV01)<!-- MEMES:END -->
+ - 🚯 [Moscow metro stations](http://9gag.com/gag/aRXbB15)<!-- MEMES:END -->
 
 --- 
 
