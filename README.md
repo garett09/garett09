@@ -181,9 +181,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [I was institutionalized as a teen, and Wario was my only friend](https://www.polygon.com/wario/22654238/wario-month-mental-health-ward-story-warioware-twisted)
- - [Matrix 4 teaser website lets you take the red pill or blue pill for a first look at the movie](https://www.polygon.com/22660953/matrix-4-resurrections-trailer-teaser-red-pill-blue-pill-website)
- - [Cinderella director explains her radical reimagining — and ditching the villain](https://www.polygon.com/interviews/22660884/cinderella-movie-amazon-director-interview-girlboss)<!-- GAME:END -->
+ - [PlayStation Plus offers Hitman 2, Overcooked! in September](https://www.polygon.com/22644469/playstation-plus-september-2021-free-games-ps5-ps4)
+ - [Warhammer 40,000: Fireteam is tactical skirmish combat on a budget](https://www.polygon.com/22660899/warhammer-40000-fireteam-review)
+ - [Ubisoft Appoints Another White French Guy As Head Creative](https://kotaku.com/ubisoft-appoints-another-white-french-guy-as-head-creat-1847629572)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
