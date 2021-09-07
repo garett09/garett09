@@ -188,9 +188,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [DigitalOcean enhances serverless capabilities with Nimbella acquisition](http://feedproxy.google.com/~r/Techcrunch/~3/C4nH0ouN71U/)
- - [The Verge enters agreement to acquire Hot Pod](https://www.theverge.com/2021/9/7/22660584/hot-pod-newsletter-the-verge-ashley-carman)
- - [Poll: What should be the fourth rear camera on flagship phones?](https://www.androidauthority.com/fourth-camera-flagship-phones-poll-2748032/)<!-- TECH:END -->
+ - [How to get your Mac to read text out loud to you](https://appleinsider.com/articles/21/09/07/how-to-get-your-mac-to-read-text-out-loud-to-you?utm_medium=rss)
+ - [A look at Freedom Phone, a $500 device aimed at right-wing users and created by a 22-year-old bitcoin millionaire, who admitted it was made by China's Umidigi (Jack Nicas/New York Times)](http://www.techmeme.com/210907/p9#a210907p9)
+ - [Demon’s Souls and Ratchet & Clank: Rift Apart for PS5 are discounted](https://www.theverge.com/good-deals/2021/9/7/22660552/demons-souls-ratchet-clank-rift-apart-ps5-apple-airpods-mac-mini-kindle-deal-sale)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
