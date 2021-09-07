@@ -195,7 +195,7 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Putin-Kwon-Do](http://9gag.com/gag/amPeoLv)
+ - 🚖 [I was such a badass](http://9gag.com/gag/aNp7DXv)
  - 🚯 [Owner hears a weird noise coming from the garden](http://9gag.com/gag/azMW2RK)
  - 🚯 [It is all about the towek](http://9gag.com/gag/anQmzp5)<!-- MEMES:END -->
 
