@@ -196,8 +196,8 @@ Linux                    0 secs              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 🚖 [I was such a badass](http://9gag.com/gag/aNp7DXv)
- - 🚯 [Owner hears a weird noise coming from the garden](http://9gag.com/gag/azMW2RK)
- - 🚯 [It is all about the towek](http://9gag.com/gag/anQmzp5)<!-- MEMES:END -->
+ - 🚯 [Interesting documentary](http://9gag.com/gag/aAb80jp)
+ - 🚯 [F**k your happiness](http://9gag.com/gag/aoMvW0X)<!-- MEMES:END -->
 
 --- 
 
