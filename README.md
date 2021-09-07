@@ -195,9 +195,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What kind of thottery is this ?](http://9gag.com/gag/aGpmpA6)
- - 🚯 [The way](http://9gag.com/gag/aO3M7MM)
- - 🚯 [Indian live in hard setting](http://9gag.com/gag/aRXb7yq)<!-- MEMES:END -->
+ - 🚖 [Indian live in hard setting](http://9gag.com/gag/aRXb7yq)
+ - 🚯 [What kind of thottery is this ?](http://9gag.com/gag/aGpmpA6)
+ - 🚯 [Thankgod I guess](http://9gag.com/gag/aWjrxDx)<!-- MEMES:END -->
 
 --- 
 
