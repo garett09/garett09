@@ -188,9 +188,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to get your Mac to read text out loud to you](https://appleinsider.com/articles/21/09/07/how-to-get-your-mac-to-read-text-out-loud-to-you?utm_medium=rss)
- - [A look at Freedom Phone, a $500 device aimed at right-wing users and created by a 22-year-old bitcoin millionaire, who admitted it was made by China's Umidigi (Jack Nicas/New York Times)](http://www.techmeme.com/210907/p9#a210907p9)
- - [Demon’s Souls and Ratchet & Clank: Rift Apart for PS5 are discounted](https://www.theverge.com/good-deals/2021/9/7/22660552/demons-souls-ratchet-clank-rift-apart-ps5-apple-airpods-mac-mini-kindle-deal-sale)<!-- TECH:END -->
+ - [Social network Peanut expands to include more women with launch of Peanut Menopause](http://feedproxy.google.com/~r/Techcrunch/~3/SQGo3FsNo2E/)
+ - [Everything AI and robotics at TechCrunch Disrupt 2021](http://feedproxy.google.com/~r/Techcrunch/~3/WuENqsW4r3g/)
+ - [How to get your Mac to read text out loud to you](https://appleinsider.com/articles/21/09/07/how-to-get-your-mac-to-read-text-out-loud-to-you?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
