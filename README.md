@@ -195,9 +195,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I was such a badass](http://9gag.com/gag/aNp7DXv)
- - 🚯 [Interesting documentary](http://9gag.com/gag/aAb80jp)
- - 🚯 [F**k your happiness](http://9gag.com/gag/aoMvW0X)<!-- MEMES:END -->
+ - 🚖 [Interesting documentary](http://9gag.com/gag/aAb80jp)
+ - 🚯 [I was such a badass](http://9gag.com/gag/aNp7DXv)
+ - 🚯 [Dafuq](http://9gag.com/gag/aMKoV01)<!-- MEMES:END -->
 
 --- 
 
