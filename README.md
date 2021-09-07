@@ -188,9 +188,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Some Apple Watch Solo Loop users complain of tearing, breaks](https://appleinsider.com/articles/21/09/06/some-apple-watch-solo-loop-users-complain-of-tearing-breaks?utm_medium=rss)
- - [The best AT&T deals: Save $1,000 on the Galaxy Z Fold 3 with a trade-in](https://www.androidauthority.com/best-att-deals-2-836102/)
- - [Best memory foam mattress of 2021     - CNET](https://www.cnet.com/health/sleep/best-memory-foam-mattress/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Bangladesh's ShopUp, which aims to digitize neighborhood stores in the country, raises $75M Series B led by Valar Ventures, bringing its total raised to $100M+ (Manish Singh/TechCrunch)](http://www.techmeme.com/210906/p11#a210906p11)
+ - [VMware ditches plans to support EXSi on 2019 Mac Pro](https://appleinsider.com/articles/21/09/07/vmware-ditches-plans-to-support-exsi-on-2019-mac-pro?utm_medium=rss)
+ - [New Apple MagSafe charger for iPhone revealed in FCC filing](https://appleinsider.com/articles/21/09/07/new-apple-magsafe-charger-for-iphone-revealed-in-fcc-filing?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
