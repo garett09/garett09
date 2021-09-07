@@ -195,9 +195,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Demon Time...](http://9gag.com/gag/aB2A2vZ)
- - 🚯 [The south pole has it&#039;s first sunrise in 6 months!](http://9gag.com/gag/a4EXERw)
- - 🚯 [School during the time of Corona](http://9gag.com/gag/azMW2Vb)<!-- MEMES:END -->
+ - 🚖 [Trippy glasses](http://9gag.com/gag/a7EY1Qr)
+ - 🚯 [Spray painting a turn arrow on pavement](http://9gag.com/gag/aqjPe2R)
+ - 🚯 [Fat ass](http://9gag.com/gag/aGpmpNG)<!-- MEMES:END -->
 
 --- 
 
