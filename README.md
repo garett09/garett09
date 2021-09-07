@@ -195,9 +195,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Dafuq](http://9gag.com/gag/aMKoV01)
- - 🚯 [Keep it simple](http://9gag.com/gag/aDdK7Xw)
- - 🚯 [There was some african prince cruising through hamburg, germany with his security on e scooters](http://9gag.com/gag/aLpZnnM)<!-- MEMES:END -->
+ - 🚖 [10/10 game of the year](http://9gag.com/gag/aV7pg7d)
+ - 🚯 [I was such a badass](http://9gag.com/gag/aNp7DXv)
+ - 🚯 [Dafuq](http://9gag.com/gag/aMKoV01)<!-- MEMES:END -->
 
 --- 
 
