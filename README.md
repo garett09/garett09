@@ -195,7 +195,7 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Dudeeeee](http://9gag.com/gag/amPeP2X)
+ - 🚖 [You think you had it tough?](http://9gag.com/gag/aMKo4zx)
  - 🚯 [What kind of thottery is this ?](http://9gag.com/gag/aGpmpA6)
  - 🚯 [Demon Time...](http://9gag.com/gag/aB2A2vZ)<!-- MEMES:END -->
 
