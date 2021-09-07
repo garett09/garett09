@@ -181,9 +181,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Choose your pill and see some clips in the new Matrix Resurrections teaser site](https://www.pcgamer.com/choose-your-pill-and-see-some-clips-in-the-new-matrix-resurrections-teaser-site)
  - [The exact moment kung fu blew up in America](https://www.polygon.com/22660909/kung-fu-movies-1970s)
- - [Candyman is horror’s ultimate antihero](https://www.polygon.com/22661296/candyman-horrors-ultimate-antihero-galaxy-brains-podcast)
- - [Blizzard removing World of Warcraft references to 'sacks' and 'ho's'](https://www.pcgamer.com/wow-references-sacks-ho)<!-- GAME:END -->
+ - [Candyman is horror’s ultimate antihero](https://www.polygon.com/22661296/candyman-horrors-ultimate-antihero-galaxy-brains-podcast)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
