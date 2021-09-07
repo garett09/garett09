@@ -195,9 +195,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Diggy diggy hoooole](http://9gag.com/gag/a273K5Y)
- - 🚯 [Putin-Kwon-Do](http://9gag.com/gag/amPeoLv)
- - 🚯 [We want to do it, but it&#039;s not the correct thing to do](http://9gag.com/gag/aEp90vx)<!-- MEMES:END -->
+ - 🚖 [How not to rescue a king cobra](http://9gag.com/gag/a9Exq5K)
+ - 🚯 [And lets not forget the Austrian guy with the little mustache](http://9gag.com/gag/aqjPyWZ)
+ - 🚯 [It is all about the towek](http://9gag.com/gag/anQmzp5)<!-- MEMES:END -->
 
 --- 
 
