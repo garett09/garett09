@@ -188,9 +188,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Android 12-based Color OS 12 coming this month. Get official wallpapers now!](https://www.androidauthority.com/oppo-color-os-12-availability-wallpapers-2747883/)
  - [Australian ducks can learn to swear and might just call you a 'bloody fool'     - CNET](https://www.cnet.com/news/australian-ducks-can-learn-to-swear-and-might-just-call-you-a-bloody-fool/#ftag=CAD590a51e)
- - [The best Labor Day deals happening now](https://www.theverge.com/good-deals/22652876/best-labor-day-sales-2021-tech-deals-tvs-laptops-headphones)
- - [Didi's ride hailing rival Cao Cao Mobility, which is owned by automaker Geely, raises ~$588M from Chinese state-owned funds; Cao Cao had 10M+ MAUs in July (Eleanor Olcott/Financial Times)](http://www.techmeme.com/210906/p12#a210906p12)<!-- TECH:END -->
+ - [The best Labor Day deals happening now](https://www.theverge.com/good-deals/22652876/best-labor-day-sales-2021-tech-deals-tvs-laptops-headphones)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
