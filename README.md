@@ -195,9 +195,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [We want to do it, but it&#039;s not the correct thing to do](http://9gag.com/gag/aEp90vx)
- - 🚯 [Uh oh](http://9gag.com/gag/aLpZ1gM)
- - 🚯 [Lovely](http://9gag.com/gag/axMLBAb)<!-- MEMES:END -->
+ - 🚖 [Oh so you don&#039;t like your mirrored self now?](http://9gag.com/gag/aDdKYyd)
+ - 🚯 [School during the time of Corona](http://9gag.com/gag/azMW2Vb)
+ - 🚯 [Sex by proxy](http://9gag.com/gag/aZ06Dd3)<!-- MEMES:END -->
 
 --- 
 
