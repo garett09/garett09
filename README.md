@@ -181,9 +181,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best LMGs for Warzone](https://www.pcgamer.com/best-warzone-lmgs)
- - [Warzone Season 5 Reloaded: What to expect](https://www.pcgamer.com/warzone-season-5-reloaded-guide)
- - [The best Assault Rifles for Warzone](https://www.pcgamer.com/best-assault-rifle-warzone)<!-- GAME:END -->
+ - [Scuf Instinct Pro PC controller review](https://www.pcgamer.com/scuf-instinct-pro-pc-controller-review)
+ - [Singer and Actor Gackt On Indefinite Hiatus For Vocal Disorder](https://kotaku.com/singer-and-actor-gackt-on-indefinite-hiatus-for-vocal-d-1847634208)
+ - [The best LMGs for Warzone](https://www.pcgamer.com/best-warzone-lmgs)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
