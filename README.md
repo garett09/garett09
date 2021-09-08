@@ -188,9 +188,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How three cryptocurrency enthusiasts bought a cruise ship in October 2020 to start a libertarian crypto utopia, only to have their plans collapse months later (Sophie Elmhirst/The Guardian)](http://www.techmeme.com/210908/p12#a210908p12)
- - [Apple Pay again target of patent infringement suit](https://appleinsider.com/articles/21/09/08/apple-pay-again-target-of-patent-infringement-suit?utm_medium=rss)
- - [Continental’s eco-friendly concept tire includes a renewable tread](http://feedproxy.google.com/~r/Techcrunch/~3/CAwb5fvUKuE/)<!-- TECH:END -->
+ - [Netherlands' Volksbank will support Apple Pay - eventually](https://appleinsider.com/articles/21/09/08/netherlands-volksbank-will-support-apple-pay---eventually?utm_medium=rss)
+ - [This Workout Mirror Is a More Affordable Pick for Home Gyms](https://www.wired.com/review/echelon-reflect-smart-fitness-mirror)
+ - [Theranos’ greatest invention was Elizabeth Holmes](https://www.theverge.com/22656190/theranos-elizabeth-holmes-wire-fraud-trial-founder-myth)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
