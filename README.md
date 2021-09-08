@@ -188,9 +188,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Logitech’s new dock is designed for a work from home world](https://www.theverge.com/2021/9/8/22662237/logitech-logi-dock-features-pricing-release-date)
- - [HBO Max is coming to several European countries next month](https://www.androidauthority.com/hbo-max-europe-2912710/)
- - [Microsoft’s Clipchamp acquisition will help improve video editing on Windows](https://www.theverge.com/2021/9/8/22662225/microsoft-clipchamp-acquisition-video-editing-web-app-windows)<!-- TECH:END -->
+ - [Long-time legal foe in China trying to stop iPhone 13 production](https://appleinsider.com/articles/21/09/08/long-time-legal-foe-in-china-trying-to-stop-iphone-13-production?utm_medium=rss)
+ - [Sources: Elliott Management has taken a 10%+ stake in Citrix Systems, worth around $1.3B, and will push to boost Citrix's lagging stock price (Cara Lombardo/Wall Street Journal)](http://www.techmeme.com/210908/p11#a210908p11)
+ - [In the US, the AI Industry Risks Becoming Winner-Take-Most](https://www.wired.com/story/us-ai-industry-risks-becoming-winner-take-most)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
