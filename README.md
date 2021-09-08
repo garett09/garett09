@@ -181,9 +181,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Destiny 2: Where to find all the Week 3 Atlas Skews](https://www.pcgamer.com/destiny-2-week-3-atlas-skews)
- - [Welcoming Firesprite to the PlayStation Studios Family](http://feedproxy.google.com/~r/PSBlog/~3/XJFat7rJoHU/)
- - [Welcoming Firesprite to the PlayStation Studios Family](https://blog.playstation.com/2021/09/08/welcoming-firesprite-to-the-playstation-studios-family/)<!-- GAME:END -->
+ - [The live-action Cowboy Bebop found inspiration beyond Cowboy Bebop](https://www.polygon.com/22659289/cowboy-bebop-season-1-creator-interview-cast-costumes-preview)
+ - [Epic, Bless Its Heart, Is Trying To Sell An Unreal Demo Fortnite Skin](https://kotaku.com/epic-bless-its-heart-is-trying-to-sell-an-unreal-demo-1847635402)
+ - [Seagate FireCuda 530 2TB M.2 NVMe SSD Review](https://www.pcgamer.com/seagate-firecuda-530-2tb-ssd-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
