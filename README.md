@@ -197,7 +197,7 @@ Linux                    0 secs              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 🚖 [What a shame](http://9gag.com/gag/a4EX6mQ)
  - 🚯 [Car go Brrrr](http://9gag.com/gag/anQmn8b)
- - 🚯 [Don&#039;t be like this.](http://9gag.com/gag/abVN4E8)<!-- MEMES:END -->
+ - 🚯 [I know that feeling way to well](http://9gag.com/gag/aMKomjG)<!-- MEMES:END -->
 
 --- 
 
