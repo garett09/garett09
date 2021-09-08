@@ -188,9 +188,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitter is testing an official ‘soft block’ feature](https://www.theverge.com/2021/9/7/22661452/twitter-follower-remove-soft-block-test)
- - [Microsoft says it has acquired in-browser video editing software startup Clipchamp, which had 17M registered users across 390K+ companies as of July (Jordan Novet/CNBC)](http://www.techmeme.com/210907/p24#a210907p24)
- - [Apple's Twitter 'hashflag' for Sept. 14 iPhone event hints at future announcements](https://appleinsider.com/articles/21/09/07/twitter-activates-hashflag-for-apples-sept-14-iphone-event?utm_medium=rss)<!-- TECH:END -->
+ - [Germany's Federal Criminal Police Office confirms it bought NSO's Pegasus spyware in 2019 and used it in operations on terrorism and organized crime since March (DW.COM)](http://www.techmeme.com/210907/p26#a210907p26)
+ - [Apple organized 'aggressive' lobbying campaign to counter prohibitive App Store legislation](https://appleinsider.com/articles/21/09/08/apple-organized-aggressive-lobbying-campaign-to-counter-prohibitive-app-store-legislation?utm_medium=rss)
+ - [UK-based car insurance startup Marshmallow, which uses a wide array of algorithms to measure insurance risk, raises $85M Series B at a $1.25B valuation (Ingrid Lunden/TechCrunch)](http://www.techmeme.com/210907/p25#a210907p25)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
