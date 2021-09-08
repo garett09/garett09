@@ -181,9 +181,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Diablo 2 Resurrected ditched ultrawide support because it breaks the game](https://www.pcgamer.com/diablo-2-resurrected-ditched-ultrawide-support-because-it-breaks-the-game)
  - [Skyrim x Chick-fil-A Is A Mod We Should All Be Playing](https://kotaku.com/skyrim-x-chick-fil-a-is-a-mod-we-should-all-be-playing-1847633291)
- - [Garry's Mod has sold 20 million copies](https://www.pcgamer.com/garrys-mod-has-sold-20-million-copies)
- - [A 'surreal' PAX West lacked triple-A fanfare, but some attendees were happier for it](https://www.pcgamer.com/a-surreal-pax-west-lacked-triple-a-fanfare-but-some-attendees-were-happier-for-it)<!-- GAME:END -->
+ - [Garry's Mod has sold 20 million copies](https://www.pcgamer.com/garrys-mod-has-sold-20-million-copies)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
