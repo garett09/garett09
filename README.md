@@ -188,9 +188,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netherlands' Volksbank will support Apple Pay - eventually](https://appleinsider.com/articles/21/09/08/netherlands-volksbank-will-support-apple-pay---eventually?utm_medium=rss)
- - [This Workout Mirror Is a More Affordable Pick for Home Gyms](https://www.wired.com/review/echelon-reflect-smart-fitness-mirror)
- - [Theranos’ greatest invention was Elizabeth Holmes](https://www.theverge.com/22656190/theranos-elizabeth-holmes-wire-fraud-trial-founder-myth)<!-- TECH:END -->
+ - [Columbia- and Brazil-based Addi, which offers buy now, pay later tools, raises $75M Series B extension, taking the round to $140M (Mary Ann Azevedo/TechCrunch)](http://www.techmeme.com/210908/p14#a210908p14)
+ - [Google announces Workspace updates, including spaces for collaboration, Meet calling within Gmail, and 27" and 65" video calling devices by Logitech and Avocor (Kyle Wiggers/VentureBeat)](http://www.techmeme.com/210908/p13#a210908p13)
+ - [Poll: Do you still purchase music?](https://www.androidauthority.com/do-you-still-buy-music-poll-2921657/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
