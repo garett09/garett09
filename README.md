@@ -188,9 +188,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitter tests a safety feature on web to remove followers without blocking them](http://feedproxy.google.com/~r/Techcrunch/~3/e0MRhrOkYMY/)
- - [Former head of Mint raises $4.5M for Lean to give gig workers access to financial products](http://feedproxy.google.com/~r/Techcrunch/~3/CFViBk1cxlg/)
- - [Today I learned that Amazon’s game engine can be used to aid humanity in a zombie apocalypse](https://www.theverge.com/tldr/2021/9/8/22662337/amazon-lumberyard-aws-game-engine-terms-zombie-apocalypse)<!-- TECH:END -->
+ - [New DJI OM 5 photography stabilizer released with smaller design](https://appleinsider.com/articles/21/09/08/new-dji-om-5-photography-stabilizer-released-with-smaller-design?utm_medium=rss)
+ - [Best Deals September 8 - $109 Apple TV 32GB last day, 44% off Cricut Maker Machine bundle, more!](https://appleinsider.com/articles/21/09/08/best-deals-september-8---109-apple-tv-32gb-last-day-44-off-cricut-maker-machine-bundle-more?utm_medium=rss)
+ - [How to watch Apple's 'iPhone 13' launch event](https://appleinsider.com/articles/21/09/08/how-to-watch-apples-iphone-13-launch-event?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
