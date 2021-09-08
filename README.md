@@ -188,9 +188,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nearly eight months into his term, Biden has yet to pick new leaders at the FCC and NTIA, delaying action on key agenda items, like reinstating net neutrality (Cristiano Lima/Washington Post)](http://www.techmeme.com/210907/p29#a210907p29)
  - [Apple Pay again target of patent infringement suit](https://appleinsider.com/articles/21/09/08/apple-pay-again-target-of-patent-infringement-suit?utm_medium=rss)
- - [Australia's High Court affirms earlier rulings that media companies can be held responsible for Facebook comments posted under stories on their Facebook Pages (Elizabeth Byrne/ABC)](http://www.techmeme.com/210907/p28#a210907p28)
- - [NASA's Hubble telescope exposes anti-aging secrets of white dwarf stars     - CNET](https://www.cnet.com/news/nasas-hubble-telescope-exposes-anti-aging-secrets-of-white-dwarf-stars/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Australia's High Court affirms earlier rulings that media companies can be held responsible for Facebook comments posted under stories on their Facebook Pages (Elizabeth Byrne/ABC)](http://www.techmeme.com/210907/p28#a210907p28)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
