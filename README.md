@@ -195,7 +195,7 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [We got a small situation folks.](http://9gag.com/gag/azMWO6z)
+ - 🚖 [It&#039;s my birthday. cheers to me alone =)](http://9gag.com/gag/aDdKV8G)
  - 🚯 [Please wait for the boat to come to a complete sto...](http://9gag.com/gag/awMEdg8)
  - 🚯 [Are you an Xbox gamer? Win the latest Xbox Series X from us! Tap to know more](http://9gag.com/gag/aP3EeRG)<!-- MEMES:END -->
 
