@@ -181,9 +181,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Oreos Would Be Cooler If Nabisco Workers Weren’t Striking](https://kotaku.com/pokemon-oreos-would-be-cooler-if-nabisco-workers-weren-1847637870)
- - [Explore Fallout Worlds in Fallout 76 Today](https://news.xbox.com/en-us/2021/09/08/explore-fallout-worlds-in-fallout-76-today/)
- - [Deathloop system requirements demands an RTX 2060 for 60 fps](https://www.pcgamer.com/deathloop-pc-system-requirements)<!-- GAME:END -->
+ - [Louisiana game devs are raising money for Hurricane Ida relief](https://www.polygon.com/22663221/louisiana-game-developers-mutual-aid-charity-bundle-hurricane-ida)
+ - [Star Citizen adds disclaimer to spaceship preorders after regulator says they're misleading](https://www.pcgamer.com/star-citizen-adds-disclaimer-to-spaceship-preorders-after-regulator-says-theyre-misleading)
+ - [Runescape developer reverses decision to kill HD mod project after fan backlash](https://www.pcgamer.com/Runelite-HD-Jagex-reverses-decision)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
