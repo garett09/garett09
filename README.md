@@ -195,9 +195,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What a climax.](http://9gag.com/gag/aXoyVQg)
- - 🚯 [That didn&#039;t go as planned](http://9gag.com/gag/a3E60jQ)
- - 🚯 [Meet D3O: a soft goo that transforms into a substance tough enough to protect you from accidents.](http://9gag.com/gag/a8ERDGQ)<!-- MEMES:END -->
+ - 🚖 [When you think life is going well](http://9gag.com/gag/axMLb6b)
+ - 🚯 [This hit me right in the feels...](http://9gag.com/gag/ajmzLrR)
+ - 🚯 [Finish her ...](http://9gag.com/gag/a5EOwxo)<!-- MEMES:END -->
 
 --- 
 
