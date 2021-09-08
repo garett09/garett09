@@ -195,8 +195,8 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Biker decides to be an Idiot](http://9gag.com/gag/aZ06Eg6)
- - 🚯 [Man in Belarus escapes riot police by jumping into a taxi car which drives away instantly](http://9gag.com/gag/aAb8M5o)
+ - 🚖 [It&#039;s my birthday. cheers to me alone =)](http://9gag.com/gag/aDdKV8G)
+ - 🚯 [This actually happened. Makes no sense.](http://9gag.com/gag/aeAn235)
  - 🚯 [Are you an Xbox gamer? Win the latest Xbox Series X from us! Tap to know more](http://9gag.com/gag/aP3EeRG)<!-- MEMES:END -->
 
 --- 
