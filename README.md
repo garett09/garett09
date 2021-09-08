@@ -195,8 +195,8 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I know that feeling way to well](http://9gag.com/gag/aMKomjG)
- - 🚯 [Why we never got young teachers](http://9gag.com/gag/anQmRPo)
+ - 🚖 [Meet D3O: a soft goo that transforms into a substance tough enough to protect you from accidents.](http://9gag.com/gag/a8ERDGQ)
+ - 🚯 [Car go Brrrr](http://9gag.com/gag/anQmn8b)
  - 🚯 [Me when I receive my next paycheck](http://9gag.com/gag/ajmzLDq)<!-- MEMES:END -->
 
 --- 
