@@ -188,9 +188,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [New DJI OM 5 photography stabilizer released with smaller design](https://appleinsider.com/articles/21/09/08/new-dji-om-5-photography-stabilizer-released-with-smaller-design?utm_medium=rss)
- - [Best Deals September 8 - $109 Apple TV 32GB last day, 44% off Cricut Maker Machine bundle, more!](https://appleinsider.com/articles/21/09/08/best-deals-september-8---109-apple-tv-32gb-last-day-44-off-cricut-maker-machine-bundle-more?utm_medium=rss)
- - [How to watch Apple's 'iPhone 13' launch event](https://appleinsider.com/articles/21/09/08/how-to-watch-apples-iphone-13-launch-event?utm_medium=rss)<!-- TECH:END -->
+ - [2022 'iPhone 14' revealed by leakers days before 'iPhone 13' announcement](https://appleinsider.com/articles/21/09/08/2022-iphone-14-revealed-by-leakers-days-before-iphone-13-announcement?utm_medium=rss)
+ - [Speed Test G: Snapdragon 888 vs 888 Plus with ROG Phone 5 and ROG Phone 5S Pro](https://www.androidauthority.com/snapdragon-888-vs-888-plus-3017608/)
+ - [Entire 'iPhone 13' line will get camera & battery updates at the same prices](https://appleinsider.com/articles/21/09/08/entire-iphone-13-line-will-get-camera-battery-updates-at-the-same-prices?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
