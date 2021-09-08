@@ -188,9 +188,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [What Apple Can Do Next to Fight Child Sexual Abuse](https://www.wired.com/story/what-apple-can-do-next-to-fight-child-sexual-abuse)
- - [‘Thin file’ loans startup Koyo closes $50M Series A led by Force Over Mass](http://feedproxy.google.com/~r/Techcrunch/~3/C70IMLBdEoI/)
- - [Mobile game publisher Jam City raises $350M in equity and debt, after a $1.2B SPAC merger fell apart, and buys rival Ludia for $165M (Dean Takahashi/VentureBeat)](http://www.techmeme.com/210908/p21#a210908p21)<!-- TECH:END -->
+ - [FuboTV: Everything you need to know about the live TV streamer](https://www.androidauthority.com/fubotv-2744855/)
+ - [Apple won't make NDA exceptions for workplace harassment cases](https://appleinsider.com/articles/21/09/08/apple-wont-make-nda-exceptions-for-workplace-harassment-cases?utm_medium=rss)
+ - [Everything You Need to Know About the Coronavirus](https://www.wired.com/story/coronavirus-guide-faq-advice)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
