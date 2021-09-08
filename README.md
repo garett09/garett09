@@ -181,8 +181,8 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Explore Fallout Worlds in Fallout 76 Today](https://news.xbox.com/en-us/2021/09/08/explore-fallout-worlds-in-fallout-76-today/)
  - [Pokémon Oreos Would Be Cooler If Nabisco Workers Weren’t Striking](https://kotaku.com/pokemon-oreos-would-be-cooler-if-nabisco-workers-weren-1847637870)
+ - [Explore Fallout Worlds in Fallout 76 Today](https://news.xbox.com/en-us/2021/09/08/explore-fallout-worlds-in-fallout-76-today/)
  - [Deathloop system requirements demands an RTX 2060 for 60 fps](https://www.pcgamer.com/deathloop-pc-system-requirements)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
