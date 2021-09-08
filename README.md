@@ -181,9 +181,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Pinhead Brings the Pain in Dead by Daylight’s New Hellraiser Chapter](https://news.xbox.com/en-us/2021/09/08/pinhead-brings-the-pain-dead-by-daylight/)
  - [Holy Crap, Look At Spongebob Wavedash In The Nick Fighting Game](https://kotaku.com/holy-crap-look-at-spongebob-wavedash-in-the-nick-fight-1847638321)
- - [Smash Bros.’ Most Ridiculous Tournament Is Glorious Chaos](https://kotaku.com/smash-bros-most-ridiculous-tournament-is-glorious-cha-1847638956)
- - [Indian news channel uses Arma 3 gameplay footage to claim Pakistan bombed Afghanistan](https://www.pcgamer.com/arma-3-pakistan-footage)<!-- GAME:END -->
+ - [Smash Bros.’ Most Ridiculous Tournament Is Glorious Chaos](https://kotaku.com/smash-bros-most-ridiculous-tournament-is-glorious-cha-1847638956)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
