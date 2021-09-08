@@ -181,9 +181,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [New Characters and Level Are Coming to Ultimate Chicken Horse](https://news.xbox.com/en-us/2021/09/08/new-characters-and-level-are-coming-to-ultimate-chicken-horse/)
  - [Runway Unveils an Arsenal in the Latest Rogue Company Update](https://news.xbox.com/en-us/2021/09/08/runway-latest-rogue-company-update/)
- - [Pinhead Brings the Pain in Dead by Daylight’s New Hellraiser Chapter](https://news.xbox.com/en-us/2021/09/08/pinhead-brings-the-pain-dead-by-daylight/)
- - [Best light gaming mouse in 2021](https://www.pcgamer.com/best-light-gaming-mouse)<!-- GAME:END -->
+ - [Pinhead Brings the Pain in Dead by Daylight’s New Hellraiser Chapter](https://news.xbox.com/en-us/2021/09/08/pinhead-brings-the-pain-dead-by-daylight/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
