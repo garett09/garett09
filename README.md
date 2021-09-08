@@ -195,9 +195,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When you think life is going well](http://9gag.com/gag/axMLb6b)
- - 🚯 [This hit me right in the feels...](http://9gag.com/gag/ajmzLrR)
- - 🚯 [Finish her ...](http://9gag.com/gag/a5EOwxo)<!-- MEMES:END -->
+ - 🚖 [The Feelings are heavy](http://9gag.com/gag/aoMv43w)
+ - 🚯 [Finish her ...](http://9gag.com/gag/a5EOwxo)
+ - 🚯 [When you think life is going well](http://9gag.com/gag/axMLb6b)<!-- MEMES:END -->
 
 --- 
 
