@@ -188,9 +188,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Rocket Lab’s order backlog tops $141M as the company inks five-launch deal with Kinéis](http://feedproxy.google.com/~r/Techcrunch/~3/YkTd7S4r3js/)
+ - [Only 10% iPhone owners plan upgrade to 'iPhone 13,' poll finds](https://appleinsider.com/articles/21/09/08/only-10-iphone-owners-plan-upgrade-to-iphone-13-poll-finds?utm_medium=rss)
  - [Sub-display Face ID again tipped for 'iPhone 14'](https://appleinsider.com/articles/21/09/08/sub-display-face-id-again-tipped-for-iphone-14?utm_medium=rss)
- - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)<!-- TECH:END -->
+ - [Nerf Hyper review: where the rubber meets the foam](https://www.theverge.com/2021/9/8/22663549/nerf-hyper-rush-40-siege-50-mach-100-review)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
