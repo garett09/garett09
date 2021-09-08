@@ -188,9 +188,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spotify playlist curators complain about ongoing abuse that favors bad actors over innocent parties](http://feedproxy.google.com/~r/Techcrunch/~3/PAPDCvqB3cg/)
- - [Best Deals September 8 - $109 Apple TV 4K last day, 44% off Cricut Maker Machine bundle, more!](https://appleinsider.com/articles/21/09/08/best-deals-september-8---109-apple-tv-32gb-last-day-44-off-cricut-maker-machine-bundle-more?utm_medium=rss)
- - [US lawmakers moving forward with App Store bill despite Apple changes](https://appleinsider.com/articles/21/09/08/us-lawmakers-moving-forward-with-app-store-bill-despite-apple-changes?utm_medium=rss)<!-- TECH:END -->
+ - [What Apple Can Do Next to Fight Child Sexual Abuse](https://www.wired.com/story/what-apple-can-do-next-to-fight-child-sexual-abuse)
+ - [‘Thin file’ loans startup Koyo closes $50M Series A led by Force Over Mass](http://feedproxy.google.com/~r/Techcrunch/~3/C70IMLBdEoI/)
+ - [Mobile game publisher Jam City raises $350M in equity and debt, after a $1.2B SPAC merger fell apart, and buys rival Ludia for $165M (Dean Takahashi/VentureBeat)](http://www.techmeme.com/210908/p21#a210908p21)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
