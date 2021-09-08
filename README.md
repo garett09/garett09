@@ -181,9 +181,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Riftbreaker arrives on PS5 October 14](http://feedproxy.google.com/~r/PSBlog/~3/NLGyoyPyOZI/)
- - [The Riftbreaker arrives on PS5 October 14](https://blog.playstation.com/2021/09/08/the-riftbreaker-arrives-on-ps5-october-14/)
- - [The 20GB Nvidia RTX 3080 Ti we could have had has been found down the Russian GPU mines](https://www.pcgamer.com/nvidia-rtx-3080-ti-20gb-mining-performance)<!-- GAME:END -->
+ - [Welcoming Firesprite to the PlayStation Studios Family](http://feedproxy.google.com/~r/PSBlog/~3/XJFat7rJoHU/)
+ - [Welcoming Firesprite to the PlayStation Studios Family](https://blog.playstation.com/2021/09/08/welcoming-firesprite-to-the-playstation-studios-family/)
+ - [Rick and Morty broke Rick and the show so both could grow](https://www.polygon.com/22661550/rick-and-morty-season-5-finale-rick-wife-past-morty-season-6)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
