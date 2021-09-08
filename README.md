@@ -195,8 +195,8 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Help me Dr. Dick](http://9gag.com/gag/aV7pVGM)
- - 🚯 [Somebodies that we used to know](http://9gag.com/gag/aK6QeOQ)
+ - 🚖 [Somebodies that we used to know](http://9gag.com/gag/aK6QeOQ)
+ - 🚯 [Help me Dr. Dick](http://9gag.com/gag/aV7pVGM)
  - 🚯 [Are you an Xbox gamer? Win the latest Xbox Series X from us! Tap to know more](http://9gag.com/gag/aP3EeRG)<!-- MEMES:END -->
 
 --- 
