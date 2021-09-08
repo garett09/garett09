@@ -195,8 +195,8 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Me: Straight up fella](http://9gag.com/gag/aK6Q8w1)
- - 🚯 [Hand transplant](http://9gag.com/gag/aRXbogy)
+ - 🚖 [Man in Belarus escapes riot police by jumping into a taxi car which drives away instantly](http://9gag.com/gag/aAb8M5o)
+ - 🚯 [The crypto market be like:](http://9gag.com/gag/azMWObZ)
  - 🚯 [Are you an Xbox gamer? Win the latest Xbox Series X from us! Tap to know more](http://9gag.com/gag/aP3EeRG)<!-- MEMES:END -->
 
 --- 
