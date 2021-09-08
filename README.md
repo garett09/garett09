@@ -188,9 +188,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [SingleStore, which offers an SQL-based service to help enterprises use data from disparate silos, raises $80M Series F, sources say at a $940M valuation (Ingrid Lunden/TechCrunch)](http://www.techmeme.com/210908/p15#a210908p15)
- - [Notion acquires India’s Automate.io in push to accelerate product expansion](http://feedproxy.google.com/~r/Techcrunch/~3/Yny2fH5QhXQ/)
- - [Real-time database platform SingleStore raises $80M more, now at a $940M valuation](http://feedproxy.google.com/~r/Techcrunch/~3/Eio4bwr82SQ/)<!-- TECH:END -->
+ - [UnitQ, which helps companies improve product quality by using AI to analyze user reports, raises $30M Series B led by Accel (Mary Ann Azevedo/TechCrunch)](http://www.techmeme.com/210908/p17#a210908p17)
+ - [The Lenovo Chromebook Duet is an excellent value at $250](https://www.theverge.com/good-deals/2021/9/8/22661176/lenovo-chromebook-duet-aukey-omnia-charger-amazon-kindle-deal-sale)
+ - [Excerpt from a book by Microsoft President Brad Smith and his chief of staff, Carol Ann Browne, on Microsoft's response to the SolarWinds attack (Fast Company)](http://www.techmeme.com/210908/p16#a210908p16)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
