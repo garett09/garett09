@@ -181,9 +181,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Sony buys Firesprite, the studio behind The Playroom](https://www.polygon.com/22662845/sony-buys-firesprite-games-playstation-studios)
- - [Fallout 76’s new Worlds put the game in the hands of the fans](https://www.polygon.com/22660888/fallout-76-private-worlds-developer-interview-role-play-pvp-sandbox)
- - [Marvel’s Avengers is getting its first raid and Spider-Man before 2022](https://www.polygon.com/22661308/marvels-avengers-spider-man-raid-klaw-war-wakanda-roadmap-2021)<!-- GAME:END -->
+ - [How game developers pick their fonts](https://www.pcgamer.com/how-game-developers-pick-their-fonts)
+ - [Isaiah Colbert To Kotaku Confirmed!](https://kotaku.com/isaiah-colbert-to-kotaku-confirmed-1847636953)
+ - [Sony buys Firesprite, the studio behind The Playroom](https://www.polygon.com/22662845/sony-buys-firesprite-games-playstation-studios)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
