@@ -188,9 +188,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The LAPD built collecting social media info into its interview process for civilians](https://www.theverge.com/2021/9/8/22663261/lapd-social-media-information-public-records-document)
- - [AI-driven voice assistant PolyAI raises $14M round led by Khosla Ventures](http://feedproxy.google.com/~r/Techcrunch/~3/7MAT8v9VbeY/)
- - [ProtonMail Amends Its Policy After Giving Up Activist’s Data](https://www.wired.com/story/protonmail-amends-policy-after-giving-up-activists-data)<!-- TECH:END -->
+ - [Google settles with worker allegedly fired for his workplace activism](https://www.theverge.com/2021/9/8/22663354/google-laurence-berland-workplace-activism-nlrb)
+ - [Robinhood opens up a slow and steady approach to crypto investing](https://www.theverge.com/2021/9/8/22663251/robinhood-cryptocurrency-recurring-investment-dollar-cost-averaging-bitcoin-ethereum)
+ - [Addison Rae signs Netflix film deal after going from TikTok to He’s All That](https://www.theverge.com/2021/9/8/22663082/addison-rae-tiktok-netflix-film-deal-hes-all-that)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
