@@ -195,8 +195,8 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Please wait for the boat to come to a complete sto...](http://9gag.com/gag/awMEdg8)
- - 🚯 [This actually happened. Makes no sense.](http://9gag.com/gag/aeAn235)
+ - 🚖 [Ok, so basically im very short](http://9gag.com/gag/aeAnmxm)
+ - 🚯 [Hand transplant](http://9gag.com/gag/aRXbogy)
  - 🚯 [Are you an Xbox gamer? Win the latest Xbox Series X from us! Tap to know more](http://9gag.com/gag/aP3EeRG)<!-- MEMES:END -->
 
 --- 
