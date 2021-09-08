@@ -195,8 +195,8 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Women be like...](http://9gag.com/gag/ad8GxQD)
- - 🚯 [Suka Ivan 2.0 | Moscow Dynamics](http://9gag.com/gag/amPex2y)
+ - 🚖 [Me: Straight up fella](http://9gag.com/gag/aK6Q8w1)
+ - 🚯 [Hand transplant](http://9gag.com/gag/aRXbogy)
  - 🚯 [Are you an Xbox gamer? Win the latest Xbox Series X from us! Tap to know more](http://9gag.com/gag/aP3EeRG)<!-- MEMES:END -->
 
 --- 
