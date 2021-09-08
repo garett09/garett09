@@ -181,9 +181,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The live-action Cowboy Bebop found inspiration beyond Cowboy Bebop](https://www.polygon.com/22659289/cowboy-bebop-season-1-creator-interview-cast-costumes-preview)
- - [Epic, Bless Its Heart, Is Trying To Sell An Unreal Demo Fortnite Skin](https://kotaku.com/epic-bless-its-heart-is-trying-to-sell-an-unreal-demo-1847635402)
- - [Seagate FireCuda 530 2TB M.2 NVMe SSD Review](https://www.pcgamer.com/seagate-firecuda-530-2tb-ssd-review)<!-- GAME:END -->
+ - [The best gaming TV in 2021](https://www.pcgamer.com/best-4k-tv-for-gaming)
+ - [Cheap gaming laptop deals this week](https://www.pcgamer.com/gaming-laptop-deals)
+ - [What if we had liked Super Mario Bros.: The Movie?](https://www.polygon.com/videos/2021/9/8/22662491/versus-super-mario-bros-jurassic-park)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
