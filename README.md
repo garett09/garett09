@@ -188,9 +188,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [FuboTV: Everything you need to know about the live TV streamer](https://www.androidauthority.com/fubotv-2744855/)
- - [Apple won't make NDA exceptions for workplace harassment cases](https://appleinsider.com/articles/21/09/08/apple-wont-make-nda-exceptions-for-workplace-harassment-cases?utm_medium=rss)
- - [Everything You Need to Know About the Coronavirus](https://www.wired.com/story/coronavirus-guide-faq-advice)<!-- TECH:END -->
+ - [US lawmakers not impressed with Apple App Store changes, pressing on with bill](https://appleinsider.com/articles/21/09/08/us-lawmakers-moving-forward-with-app-store-bill-despite-apple-changes?utm_medium=rss)
+ - [Twitter says it's testing Communities, invite-only topic-based public feeds curated by moderators, initially limited to a few topics including dogs and skincare (Taylor Hatmaker/TechCrunch)](http://www.techmeme.com/210908/p22#a210908p22)
+ - [FuboTV: Everything you need to know about the live TV streamer](https://www.androidauthority.com/fubotv-2744855/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
