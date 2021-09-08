@@ -195,8 +195,8 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When you think life is going well](http://9gag.com/gag/axMLb6b)
- - 🚯 [Me: Straight up fella](http://9gag.com/gag/aK6Q8w1)
+ - 🚖 [Biker decides to be an Idiot](http://9gag.com/gag/aZ06Eg6)
+ - 🚯 [Love at first sight](http://9gag.com/gag/aXoy42D)
  - 🚯 [Are you an Xbox gamer? Win the latest Xbox Series X from us! Tap to know more](http://9gag.com/gag/aP3EeRG)<!-- MEMES:END -->
 
 --- 
