@@ -195,9 +195,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Car go Brrrr](http://9gag.com/gag/anQmn8b)
- - 🚯 [What a climax.](http://9gag.com/gag/aXoyVQg)
- - 🚯 [I know that feeling way to well](http://9gag.com/gag/aMKomjG)<!-- MEMES:END -->
+ - 🚖 [I know that feeling way to well](http://9gag.com/gag/aMKomjG)
+ - 🚯 [Why we never got young teachers](http://9gag.com/gag/anQmRPo)
+ - 🚯 [What a climax.](http://9gag.com/gag/aXoyVQg)<!-- MEMES:END -->
 
 --- 
 
