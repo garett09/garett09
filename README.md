@@ -181,9 +181,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Stardew Valley has sold over 15 million copies as creator shifts to new project](https://www.pcgamer.com/stardew-valley-has-sold-over-15-million-copies-as-creator-shifts-to-new-project)
- - [Best gaming laptops in 2021](https://www.pcgamer.com/best-gaming-laptop)
- - [Scuf Instinct Pro PC controller review](https://www.pcgamer.com/scuf-instinct-pro-pc-controller-review)<!-- GAME:END -->
+ - [AMD's Ryzen 6000 series rumored to be in mass production, but may not be Zen 4](https://www.pcgamer.com/amds-ryzen-6000-series-rumored-to-be-in-mass-production-but-may-not-be-zen-4)
+ - [Ubisoft appoints new CCO amidst ongoing reckonings with workplace abuse](https://www.pcgamer.com/ubisoft-appoints-new-cco-amidst-ongoing-reckonings-with-workplace-abuse)
+ - [Secretlab Titan Evo 2022 gaming chair review](https://www.pcgamer.com/secretlab-titan-evo-2022-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
