@@ -188,9 +188,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix revenge action flick Kate hits too many familiar notes](https://www.androidauthority.com/kate-review-netflix-2748233/)
- - [Save $140 on the Apple Watch Series 6, and more great fitness tracker deals](https://www.androidauthority.com/best-cheap-fitness-tracker-deals-1113532/)
- - [Android 12 beta 5 finally brings the promised full device search feature](https://www.androidauthority.com/android-12-on-device-search-3017887/)<!-- TECH:END -->
+ - [Google Nest Cam review: Finally, a wireless camera from Nest](https://www.androidauthority.com/google-nest-cam-review-2739612/)
+ - [Razer rolls out ultra-sensitive Basilisk V3 mouse with four-way scrolling](https://www.androidauthority.com/razer-basilisk-v3-mouse-3017876/)
+ - [Coinbase says SEC threatened lawsuit over Lend feature](https://www.theverge.com/2021/9/8/22662826/coinbase-sec-lend-regulation-crypto-lawsuit-exchange)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
