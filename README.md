@@ -195,8 +195,8 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What a shame](http://9gag.com/gag/a4EX6mQ)
- - 🚯 [Car go Brrrr](http://9gag.com/gag/anQmn8b)
+ - 🚖 [Car go Brrrr](http://9gag.com/gag/anQmn8b)
+ - 🚯 [What a climax.](http://9gag.com/gag/aXoyVQg)
  - 🚯 [I know that feeling way to well](http://9gag.com/gag/aMKomjG)<!-- MEMES:END -->
 
 --- 
