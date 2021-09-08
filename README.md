@@ -188,9 +188,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An overview of disparate federal and state data privacy laws in the US, where no singular GDPR-like federal law covers the privacy of all types of data (Thorin Klosowski/New York Times)](http://www.techmeme.com/210908/p4#a210908p4)
  - [Investigation raises fresh concerns over WhatsApp privacy and encryption](https://www.androidauthority.com/whatsapp-encryption-message-review-system-2873731/)
- - [Nigeria’s Prospa gets $3.8M pre-seed to offer small businesses banking and software services](http://feedproxy.google.com/~r/Techcrunch/~3/qkMVZU0Lqvk/)
- - [Newly discovered ancient monster is essentially a massive 'swimming head'     - CNET](https://www.cnet.com/news/newly-discovered-ancient-monster-is-essentially-a-massive-swimming-head/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Nigeria’s Prospa gets $3.8M pre-seed to offer small businesses banking and software services](http://feedproxy.google.com/~r/Techcrunch/~3/qkMVZU0Lqvk/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
