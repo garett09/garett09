@@ -188,9 +188,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chinese investors and VCs, who helped fuel India's tech ecosystem, lose out in India's tech IPO boom after having to cash out early amid geopolitical tensions (Nilesh Christopher/Rest of World)](http://www.techmeme.com/210908/p3#a210908p3)
- - [Watch: Motorola’s over-the-air charging solution can charge 4 devices at once](https://www.androidauthority.com/motorola-space-air-charging-2746676/)
- - [Samsung Galaxy Z Flip 3 buyer’s guide: Everything you need to know](https://www.androidauthority.com/samsung-galaxy-z-flip-3-1218373/)<!-- TECH:END -->
+ - [Investigation raises fresh concerns over WhatsApp privacy and encryption](https://www.androidauthority.com/whatsapp-encryption-message-review-system-2873731/)
+ - [Nigeria’s Prospa gets $3.8M pre-seed to offer small businesses banking and software services](http://feedproxy.google.com/~r/Techcrunch/~3/qkMVZU0Lqvk/)
+ - [Newly discovered ancient monster is essentially a massive 'swimming head'     - CNET](https://www.cnet.com/news/newly-discovered-ancient-monster-is-essentially-a-massive-swimming-head/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
