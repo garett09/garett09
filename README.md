@@ -195,8 +195,8 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Me: Straight up fella](http://9gag.com/gag/aK6Q8w1)
- - 🚯 [The Feelings are heavy](http://9gag.com/gag/aoMv43w)
+ - 🚖 [When you think life is going well](http://9gag.com/gag/axMLb6b)
+ - 🚯 [Me: Straight up fella](http://9gag.com/gag/aK6Q8w1)
  - 🚯 [Are you an Xbox gamer? Win the latest Xbox Series X from us! Tap to know more](http://9gag.com/gag/aP3EeRG)<!-- MEMES:END -->
 
 --- 
