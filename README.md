@@ -181,9 +181,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Hundreds Of People Line Up For Pokémon Cards In Tokyo](https://kotaku.com/hundreds-of-people-line-up-for-pokemon-cards-in-tokyo-1847634372)
  - [AMD's Ryzen 6000 series rumored to be in mass production, but may not be Zen 4](https://www.pcgamer.com/amds-ryzen-6000-series-rumored-to-be-in-mass-production-but-may-not-be-zen-4)
- - [Ubisoft appoints new CCO amidst ongoing reckonings with workplace abuse](https://www.pcgamer.com/ubisoft-appoints-new-cco-amidst-ongoing-reckonings-with-workplace-abuse)
- - [Secretlab Titan Evo 2022 gaming chair review](https://www.pcgamer.com/secretlab-titan-evo-2022-review)<!-- GAME:END -->
+ - [Ubisoft appoints new CCO amidst ongoing reckonings with workplace abuse](https://www.pcgamer.com/ubisoft-appoints-new-cco-amidst-ongoing-reckonings-with-workplace-abuse)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
