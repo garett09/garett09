@@ -188,9 +188,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Germany's Federal Criminal Police Office confirms it bought NSO's Pegasus spyware in 2019 and used it in operations on terrorism and organized crime since March (DW.COM)](http://www.techmeme.com/210907/p26#a210907p26)
- - [Apple organized 'aggressive' lobbying campaign to counter prohibitive App Store legislation](https://appleinsider.com/articles/21/09/08/apple-organized-aggressive-lobbying-campaign-to-counter-prohibitive-app-store-legislation?utm_medium=rss)
- - [UK-based car insurance startup Marshmallow, which uses a wide array of algorithms to measure insurance risk, raises $85M Series B at a $1.25B valuation (Ingrid Lunden/TechCrunch)](http://www.techmeme.com/210907/p25#a210907p25)<!-- TECH:END -->
+ - [Apple's iPad stock is running low amid rumors of refresh](https://appleinsider.com/articles/21/09/08/apples-ipad-stock-is-running-low-amid-rumors-of-refresh?utm_medium=rss)
+ - [Geely’s ride-hailing unit Cao Cao Mobility raises $589M Series B to upgrade tech and expand fleet](http://feedproxy.google.com/~r/Techcrunch/~3/0fQ0oSP7G94/)
+ - [Twitter has begun testing a "remove this follower" tool on the web which will allow users to remove followers without blocking them and without their knowledge (Ian Carlos Campbell/The Verge)](http://www.techmeme.com/210907/p27#a210907p27)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
