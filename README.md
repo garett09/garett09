@@ -181,9 +181,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Batman has gone full Webtoon in maybe the best way](https://www.polygon.com/comics/22662597/batman-webtoon-comic-read-free-dc-comics)
- - [Genshin Impact Fans Are Roasting The Single Character Who Can’t Cook](https://kotaku.com/genshin-impact-fans-are-roasting-the-single-character-w-1847635948)
- - [Y: The Last Man makes America’s problems clearer by killing off men](https://www.polygon.com/reviews/22662297/y-the-last-man-review-fx-hulu)<!-- GAME:END -->
+ - [Sony buys Firesprite, the studio behind The Playroom](https://www.polygon.com/22662845/sony-buys-firesprite-games-playstation-studios)
+ - [Fallout 76’s new Worlds put the game in the hands of the fans](https://www.polygon.com/22660888/fallout-76-private-worlds-developer-interview-role-play-pvp-sandbox)
+ - [Marvel’s Avengers is getting its first raid and Spider-Man before 2022](https://www.polygon.com/22661308/marvels-avengers-spider-man-raid-klaw-war-wakanda-roadmap-2021)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
