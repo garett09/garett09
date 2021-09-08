@@ -181,9 +181,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Suda51 Encourages Fans To Cop Bootleg No More Heroes Shirts](https://kotaku.com/suda51-encourages-fans-to-cop-bootleg-no-more-heroes-sh-1847633022)
- - [The Verge's 'Infamous' PC Build Gets Fixed](https://kotaku.com/the-verges-infamous-pc-build-gets-fixed-1847632851)
- - [Midnight Suns gameplay stream gently responds to complaints about cards](https://www.pcgamer.com/midnight-suns-gameplay-stream)<!-- GAME:END -->
+ - [Skyrim x Chick-fil-A Is A Mod We Should All Be Playing](https://kotaku.com/skyrim-x-chick-fil-a-is-a-mod-we-should-all-be-playing-1847633291)
+ - [Garry's Mod has sold 20 million copies](https://www.pcgamer.com/garrys-mod-has-sold-20-million-copies)
+ - [A 'surreal' PAX West lacked triple-A fanfare, but some attendees were happier for it](https://www.pcgamer.com/a-surreal-pax-west-lacked-triple-a-fanfare-but-some-attendees-were-happier-for-it)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
