@@ -188,9 +188,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [PayPal acquires Japan’s Paidy for $2.7B to crack the buy-now, pay-later market in Asia](http://feedproxy.google.com/~r/Techcrunch/~3/zDLjHfXjLKQ/)
- - [CrowdStrike says REvil's infrastructure and website is accessible on the dark web after it went offline in July (Bloomberg)](http://www.techmeme.com/210908/p5#a210908p5)
- - [HBO Max is coming to parts of Europe on October 26th](https://www.theverge.com/2021/9/8/22662183/hbo-max-european-launch-october-2021-sweden-denmark-norway-finland-spain-andorra)<!-- TECH:END -->
+ - [Microsoft’s Clipchamp acquisition will help improve video editing on Windows](https://www.theverge.com/2021/9/8/22662225/microsoft-clipchamp-acquisition-video-editing-web-app-windows)
+ - [Sources: ByteDance plans to borrow up to $5B in a syndicated loan to refinance debt and pay for overseas expansion, as an IPO appears unlikely this year (Juro Osawa/The Information)](http://www.techmeme.com/210908/p6#a210908p6)
+ - [PayPal acquires Japan’s Paidy for $2.7B to crack the buy-now, pay-later market in Asia](http://feedproxy.google.com/~r/Techcrunch/~3/zDLjHfXjLKQ/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
