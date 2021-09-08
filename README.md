@@ -188,9 +188,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An overview of disparate federal and state data privacy laws in the US, where no singular GDPR-like federal law covers the privacy of all types of data (Thorin Klosowski/New York Times)](http://www.techmeme.com/210908/p4#a210908p4)
- - [Investigation raises fresh concerns over WhatsApp privacy and encryption](https://www.androidauthority.com/whatsapp-encryption-message-review-system-2873731/)
- - [Nigeria’s Prospa gets $3.8M pre-seed to offer small businesses banking and software services](http://feedproxy.google.com/~r/Techcrunch/~3/qkMVZU0Lqvk/)<!-- TECH:END -->
+ - [PayPal acquires Japan’s Paidy for $2.7B to crack the buy-now, pay-later market in Asia](http://feedproxy.google.com/~r/Techcrunch/~3/zDLjHfXjLKQ/)
+ - [CrowdStrike says REvil's infrastructure and website is accessible on the dark web after it went offline in July (Bloomberg)](http://www.techmeme.com/210908/p5#a210908p5)
+ - [HBO Max is coming to parts of Europe on October 26th](https://www.theverge.com/2021/9/8/22662183/hbo-max-european-launch-october-2021-sweden-denmark-norway-finland-spain-andorra)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
