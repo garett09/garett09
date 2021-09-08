@@ -181,9 +181,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [BattleTech makes an epic return to PlayStation with MechWarrior 5: Mercenaries](http://feedproxy.google.com/~r/PSBlog/~3/k48Pd--Tc2Q/)
- - [BattleTech makes an epic return to PlayStation with MechWarrior 5: Mercenaries](https://blog.playstation.com/2021/09/08/battletech-makes-an-epic-return-to-playstation-with-mechwarrior-5-mercenaries/)
- - [WarioWare: Get It Together! changes the series, but not for the better](https://www.polygon.com/reviews/22661377/warioware-get-it-together-review-switch-micro-game-character-select)<!-- GAME:END -->
+ - [The Riftbreaker arrives on PS5 October 14](http://feedproxy.google.com/~r/PSBlog/~3/NLGyoyPyOZI/)
+ - [The Riftbreaker arrives on PS5 October 14](https://blog.playstation.com/2021/09/08/the-riftbreaker-arrives-on-ps5-october-14/)
+ - [The 20GB Nvidia RTX 3080 Ti we could have had has been found down the Russian GPU mines](https://www.pcgamer.com/nvidia-rtx-3080-ti-20gb-mining-performance)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
