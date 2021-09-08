@@ -181,9 +181,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Deathloop system requirements demands an RTX 2060 for 60 fps](https://www.pcgamer.com/deathloop-pc-system-requirements)
- - [How game developers pick their fonts](https://www.pcgamer.com/how-game-developers-pick-their-fonts)
- - [Isaiah Colbert To Kotaku Confirmed!](https://kotaku.com/isaiah-colbert-to-kotaku-confirmed-1847636953)<!-- GAME:END -->
+ - [Explore Fallout Worlds in Fallout 76 Today](https://news.xbox.com/en-us/2021/09/08/explore-fallout-worlds-in-fallout-76-today/)
+ - [Pokémon Oreos Would Be Cooler If Nabisco Workers Weren’t Striking](https://kotaku.com/pokemon-oreos-would-be-cooler-if-nabisco-workers-weren-1847637870)
+ - [Deathloop system requirements demands an RTX 2060 for 60 fps](https://www.pcgamer.com/deathloop-pc-system-requirements)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
