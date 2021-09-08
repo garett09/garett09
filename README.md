@@ -181,9 +181,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Y: The Last Man makes America’s problems clearer by killing off men](https://www.polygon.com/reviews/22662297/y-the-last-man-review-fx-hulu)
- - [Chonky fairies and sassy rabbitfolk are coming to Dungeons & Dragons](https://www.polygon.com/22661035/wild-beyond-the-witchlight-new-races-fairy-harengon)
- - [Life Is Strange: True Colors: The Kotaku Review](https://kotaku.com/life-is-strange-true-colors-the-kotaku-review-1847634961)<!-- GAME:END -->
+ - [Batman has gone full Webtoon in maybe the best way](https://www.polygon.com/comics/22662597/batman-webtoon-comic-read-free-dc-comics)
+ - [Genshin Impact Fans Are Roasting The Single Character Who Can’t Cook](https://kotaku.com/genshin-impact-fans-are-roasting-the-single-character-w-1847635948)
+ - [Y: The Last Man makes America’s problems clearer by killing off men](https://www.polygon.com/reviews/22662297/y-the-last-man-review-fx-hulu)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
