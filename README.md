@@ -188,9 +188,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Nest Cam review: Finally, a wireless camera from Nest](https://www.androidauthority.com/google-nest-cam-review-2739612/)
- - [Razer rolls out ultra-sensitive Basilisk V3 mouse with four-way scrolling](https://www.androidauthority.com/razer-basilisk-v3-mouse-3017876/)
- - [Coinbase says SEC threatened lawsuit over Lend feature](https://www.theverge.com/2021/9/8/22662826/coinbase-sec-lend-regulation-crypto-lawsuit-exchange)<!-- TECH:END -->
+ - [Fintech is transforming the world’s oldest asset class: Farmland](http://feedproxy.google.com/~r/Techcrunch/~3/1YSZ_5UrMgM/)
+ - [Whoop’s new fitness tracker is better thanks to a battery breakthrough](https://www.theverge.com/2021/9/8/22662979/whoop-fitness-tracker-sila-silicon-anode-battery-electric-cars)
+ - [Star Wars: Visions is coming to Disney Plus: Here’s everything we know](https://www.androidauthority.com/star-wars-visions-disney-plus-2746587/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
