@@ -195,9 +195,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The Feelings are heavy](http://9gag.com/gag/aoMv43w)
- - 🚯 [Finish her ...](http://9gag.com/gag/a5EOwxo)
- - 🚯 [When you think life is going well](http://9gag.com/gag/axMLb6b)<!-- MEMES:END -->
+ - 🚖 [Just enjoy the little things that make you happy](http://9gag.com/gag/aWjrvPx)
+ - 🚯 [Don&#039;t be like this.](http://9gag.com/gag/abVN4E8)
+ - 🚯 [The Feelings are heavy](http://9gag.com/gag/aoMv43w)<!-- MEMES:END -->
 
 --- 
 
