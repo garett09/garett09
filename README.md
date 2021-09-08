@@ -196,7 +196,7 @@ Linux                    0 secs              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 🚖 [Regular day in India](http://9gag.com/gag/apN4Ymp)
- - 🚯 [Respect can only go so far](http://9gag.com/gag/a8ERw7Y)
+ - 🚯 [This actually happened. Makes no sense.](http://9gag.com/gag/aeAn235)
  - 🚯 [Are you an Xbox gamer? Win the latest Xbox Series X from us! Tap to know more](http://9gag.com/gag/aP3EeRG)<!-- MEMES:END -->
 
 --- 
