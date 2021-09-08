@@ -195,8 +195,8 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This actually happened. Makes no sense.](http://9gag.com/gag/aeAn235)
- - 🚯 [Regular day in India](http://9gag.com/gag/apN4Ymp)
+ - 🚖 [BMW turn signal conspiracy](http://9gag.com/gag/aO3MRY3)
+ - 🚯 [Somebodies that we used to know](http://9gag.com/gag/aK6QeOQ)
  - 🚯 [Are you an Xbox gamer? Win the latest Xbox Series X from us! Tap to know more](http://9gag.com/gag/aP3EeRG)<!-- MEMES:END -->
 
 --- 
