@@ -188,9 +188,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [2022 'iPhone 14' revealed by leakers days before 'iPhone 13' announcement](https://appleinsider.com/articles/21/09/08/2022-iphone-14-revealed-by-leakers-days-before-iphone-13-announcement?utm_medium=rss)
- - [Speed Test G: Snapdragon 888 vs 888 Plus with ROG Phone 5 and ROG Phone 5S Pro](https://www.androidauthority.com/snapdragon-888-vs-888-plus-3017608/)
- - [Entire 'iPhone 13' line will get camera & battery updates at the same prices](https://appleinsider.com/articles/21/09/08/entire-iphone-13-line-will-get-camera-battery-updates-at-the-same-prices?utm_medium=rss)<!-- TECH:END -->
+ - [Spotify playlist curators complain about ongoing abuse that favors bad actors over innocent parties](http://feedproxy.google.com/~r/Techcrunch/~3/PAPDCvqB3cg/)
+ - [Best Deals September 8 - $109 Apple TV 4K last day, 44% off Cricut Maker Machine bundle, more!](https://appleinsider.com/articles/21/09/08/best-deals-september-8---109-apple-tv-32gb-last-day-44-off-cricut-maker-machine-bundle-more?utm_medium=rss)
+ - [US lawmakers moving forward with App Store bill despite Apple changes](https://appleinsider.com/articles/21/09/08/us-lawmakers-moving-forward-with-app-store-bill-despite-apple-changes?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
