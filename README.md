@@ -196,8 +196,8 @@ Linux                    0 secs              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 🚖 [Meet D3O: a soft goo that transforms into a substance tough enough to protect you from accidents.](http://9gag.com/gag/a8ERDGQ)
- - 🚯 [Car go Brrrr](http://9gag.com/gag/anQmn8b)
- - 🚯 [Me when I receive my next paycheck](http://9gag.com/gag/ajmzLDq)<!-- MEMES:END -->
+ - 🚯 [What a climax.](http://9gag.com/gag/aXoyVQg)
+ - 🚯 [That didn&#039;t go as planned](http://9gag.com/gag/a3E60jQ)<!-- MEMES:END -->
 
 --- 
 
