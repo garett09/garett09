@@ -188,9 +188,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google settles with worker allegedly fired for his workplace activism](https://www.theverge.com/2021/9/8/22663354/google-laurence-berland-workplace-activism-nlrb)
- - [Robinhood opens up a slow and steady approach to crypto investing](https://www.theverge.com/2021/9/8/22663251/robinhood-cryptocurrency-recurring-investment-dollar-cost-averaging-bitcoin-ethereum)
- - [Addison Rae signs Netflix film deal after going from TikTok to He’s All That](https://www.theverge.com/2021/9/8/22663082/addison-rae-tiktok-netflix-film-deal-hes-all-that)<!-- TECH:END -->
+ - [The 4 things needed to reach Biden’s ambitious 2050 solar goal](http://feedproxy.google.com/~r/Techcrunch/~3/fJBZ9rf7e2Y/)
+ - [Daily Crunch: Google rolls out new Workspace features for all users](http://feedproxy.google.com/~r/Techcrunch/~3/euICsOK02Eo/)
+ - [Google settles with worker allegedly fired for his workplace activism](https://www.theverge.com/2021/9/8/22663354/google-laurence-berland-workplace-activism-nlrb)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
