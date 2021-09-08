@@ -188,9 +188,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 4 things needed to reach Biden’s ambitious 2050 solar goal](http://feedproxy.google.com/~r/Techcrunch/~3/fJBZ9rf7e2Y/)
- - [Daily Crunch: Google rolls out new Workspace features for all users](http://feedproxy.google.com/~r/Techcrunch/~3/euICsOK02Eo/)
- - [Google settles with worker allegedly fired for his workplace activism](https://www.theverge.com/2021/9/8/22663354/google-laurence-berland-workplace-activism-nlrb)<!-- TECH:END -->
+ - [Rocket Lab’s order backlog tops $141M as the company inks five-launch deal with Kinéis](http://feedproxy.google.com/~r/Techcrunch/~3/YkTd7S4r3js/)
+ - [Sub-display Face ID again tipped for 'iPhone 14'](https://appleinsider.com/articles/21/09/08/sub-display-face-id-again-tipped-for-iphone-14?utm_medium=rss)
+ - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
