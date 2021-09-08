@@ -196,7 +196,7 @@ Linux                    0 secs              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 🚖 [Suka Ivan 2.0 | Moscow Dynamics](http://9gag.com/gag/amPex2y)
- - 🚯 [Female privilege...](http://9gag.com/gag/aqjPxeP)
+ - 🚯 [Another earthquake in Mexico City](http://9gag.com/gag/aGpmMzX)
  - 🚯 [Are you an Xbox gamer? Win the latest Xbox Series X from us! Tap to know more](http://9gag.com/gag/aP3EeRG)<!-- MEMES:END -->
 
 --- 
