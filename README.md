@@ -188,9 +188,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Reid Hoffman’s latest book gives us 10 ways to rethink entrepreneurship](http://feedproxy.google.com/~r/Techcrunch/~3/YxLk6Tl_sVI/)
- - [Jeff Bezos’ Earth Fund pledges $150 million to climate justice groups](https://www.theverge.com/2021/9/8/22662529/jeff-bezos-earth-fund-150-million-climate-justice-amazon)
- - [US Commerce Dept. says it is forming the National AI Advisory Committee, which will advise POTUS and federal agencies on AI research, competitiveness, and more (Dave Nyczepir/FedScoop)](http://www.techmeme.com/210908/p26#a210908p26)<!-- TECH:END -->
+ - [The LAPD built collecting social media info into its interview process for civilians](https://www.theverge.com/2021/9/8/22663261/lapd-social-media-information-public-records-document)
+ - [AI-driven voice assistant PolyAI raises $14M round led by Khosla Ventures](http://feedproxy.google.com/~r/Techcrunch/~3/7MAT8v9VbeY/)
+ - [ProtonMail Amends Its Policy After Giving Up Activist’s Data](https://www.wired.com/story/protonmail-amends-policy-after-giving-up-activists-data)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
