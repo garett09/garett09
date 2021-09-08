@@ -197,7 +197,7 @@ Linux                    0 secs              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 🚖 [I know that feeling way to well](http://9gag.com/gag/aMKomjG)
  - 🚯 [Why we never got young teachers](http://9gag.com/gag/anQmRPo)
- - 🚯 [What a climax.](http://9gag.com/gag/aXoyVQg)<!-- MEMES:END -->
+ - 🚯 [Me when I receive my next paycheck](http://9gag.com/gag/ajmzLDq)<!-- MEMES:END -->
 
 --- 
 
