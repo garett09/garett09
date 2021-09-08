@@ -188,9 +188,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple's iPad stock is running low amid rumors of refresh](https://appleinsider.com/articles/21/09/08/apples-ipad-stock-is-running-low-amid-rumors-of-refresh?utm_medium=rss)
- - [Geely’s ride-hailing unit Cao Cao Mobility raises $589M Series B to upgrade tech and expand fleet](http://feedproxy.google.com/~r/Techcrunch/~3/0fQ0oSP7G94/)
- - [Twitter has begun testing a "remove this follower" tool on the web which will allow users to remove followers without blocking them and without their knowledge (Ian Carlos Campbell/The Verge)](http://www.techmeme.com/210907/p27#a210907p27)<!-- TECH:END -->
+ - [Apple Pay again target of patent infringement suit](https://appleinsider.com/articles/21/09/08/apple-pay-again-target-of-patent-infringement-suit?utm_medium=rss)
+ - [Australia's High Court affirms earlier rulings that media companies can be held responsible for Facebook comments posted under stories on their Facebook Pages (Elizabeth Byrne/ABC)](http://www.techmeme.com/210907/p28#a210907p28)
+ - [NASA's Hubble telescope exposes anti-aging secrets of white dwarf stars     - CNET](https://www.cnet.com/news/nasas-hubble-telescope-exposes-anti-aging-secrets-of-white-dwarf-stars/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
