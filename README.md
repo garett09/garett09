@@ -181,9 +181,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Runway Unveils an Arsenal in the Latest Rogue Company Update](https://news.xbox.com/en-us/2021/09/08/runway-latest-rogue-company-update/)
  - [Pinhead Brings the Pain in Dead by Daylight’s New Hellraiser Chapter](https://news.xbox.com/en-us/2021/09/08/pinhead-brings-the-pain-dead-by-daylight/)
- - [Holy Crap, Look At Spongebob Wavedash In The Nick Fighting Game](https://kotaku.com/holy-crap-look-at-spongebob-wavedash-in-the-nick-fight-1847638321)
- - [Smash Bros.’ Most Ridiculous Tournament Is Glorious Chaos](https://kotaku.com/smash-bros-most-ridiculous-tournament-is-glorious-cha-1847638956)<!-- GAME:END -->
+ - [Best light gaming mouse in 2021](https://www.pcgamer.com/best-light-gaming-mouse)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
