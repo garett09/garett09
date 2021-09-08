@@ -181,9 +181,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Join Twenty One Pilots’ Virtual Concert Experience on Roblox](https://news.xbox.com/en-us/2021/09/08/twenty-one-pilots-concert-experience-roblox/)
- - [Waluigi's Heart-Breaking Life As A Smash Absentee](https://kotaku.com/waluigis-heartbreaking-life-as-a-smash-absentee-1847640016)
- - [The best full-tower case in 2021](https://www.pcgamer.com/best-full-tower-case)<!-- GAME:END -->
+ - [Runescape Fans Stage Protests, Jagex Reverses Controversial Modding Decision](https://kotaku.com/runescape-fans-stage-protests-jagex-reverses-controver-1847640169)
+ - [Aliens: Fireteam has a new shield-bearing class](https://www.pcgamer.com/aliens-fireteam-has-a-new-shield-bearing-class)
+ - [Surprise, the Fallout Worlds update for Fallout 76 isn't delayed after all, it's out now](https://www.pcgamer.com/fallout-worlds-released)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
