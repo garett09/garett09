@@ -188,9 +188,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [NASA sets new date for James Webb Space Telescope launch](https://www.theverge.com/2021/9/8/22663027/nasa-james-webb-space-telescope-launch-date)
  - [Fintech is transforming the world’s oldest asset class: Farmland](http://feedproxy.google.com/~r/Techcrunch/~3/1YSZ_5UrMgM/)
- - [Whoop’s new fitness tracker is better thanks to a battery breakthrough](https://www.theverge.com/2021/9/8/22662979/whoop-fitness-tracker-sila-silicon-anode-battery-electric-cars)
- - [Star Wars: Visions is coming to Disney Plus: Here’s everything we know](https://www.androidauthority.com/star-wars-visions-disney-plus-2746587/)<!-- TECH:END -->
+ - [Whoop’s new fitness tracker is better thanks to a battery breakthrough](https://www.theverge.com/2021/9/8/22662979/whoop-fitness-tracker-sila-silicon-anode-battery-electric-cars)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
