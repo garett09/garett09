@@ -181,9 +181,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Scuf Instinct Pro PC controller review](https://www.pcgamer.com/scuf-instinct-pro-pc-controller-review)
- - [Singer and Actor Gackt On Indefinite Hiatus For Vocal Disorder](https://kotaku.com/singer-and-actor-gackt-on-indefinite-hiatus-for-vocal-d-1847634208)
- - [The best LMGs for Warzone](https://www.pcgamer.com/best-warzone-lmgs)<!-- GAME:END -->
+ - [Stardew Valley has sold over 15 million copies as creator shifts to new project](https://www.pcgamer.com/stardew-valley-has-sold-over-15-million-copies-as-creator-shifts-to-new-project)
+ - [Best gaming laptops in 2021](https://www.pcgamer.com/best-gaming-laptop)
+ - [Scuf Instinct Pro PC controller review](https://www.pcgamer.com/scuf-instinct-pro-pc-controller-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
