@@ -195,7 +195,7 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [BMW turn signal conspiracy](http://9gag.com/gag/aO3MRY3)
+ - 🚖 [Help me Dr. Dick](http://9gag.com/gag/aV7pVGM)
  - 🚯 [Somebodies that we used to know](http://9gag.com/gag/aK6QeOQ)
  - 🚯 [Are you an Xbox gamer? Win the latest Xbox Series X from us! Tap to know more](http://9gag.com/gag/aP3EeRG)<!-- MEMES:END -->
 
