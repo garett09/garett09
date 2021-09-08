@@ -188,9 +188,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung Galaxy Z Flip 3 buyer’s guide: Everything you need to know](https://www.androidauthority.com/samsung-galaxy-z-flip-3-1218373/)
  - [Samsung could bring 576MP image sensors to market by 2025](https://www.androidauthority.com/samsung-576mp-camera-sensor-2873711/)
- - [Lenovo unveils the 14-inch IdeaPad Slim 7 Carbon and 16-inch Slim 7 Pro laptops, powered by AMD, both expected by October and priced from $1,290 (Phillip Tracy/Laptop Mag)](http://www.techmeme.com/210908/p2#a210908p2)
- - [After chiding Apple on privacy, Germany says it uses Pegasus spyware](https://appleinsider.com/articles/21/09/08/after-chiding-apple-on-privacy-germany-says-it-uses-pegasus-spyware?utm_medium=rss)<!-- TECH:END -->
+ - [Lenovo unveils the 14-inch IdeaPad Slim 7 Carbon and 16-inch Slim 7 Pro laptops, powered by AMD, both expected by October and priced from $1,290 (Phillip Tracy/Laptop Mag)](http://www.techmeme.com/210908/p2#a210908p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
