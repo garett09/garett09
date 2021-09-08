@@ -188,9 +188,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Indian fintech Slice launches $27 credit limit cards to tap 200 million users](http://feedproxy.google.com/~r/Techcrunch/~3/TY6X09lwHHU/)
- - [Blue's Clues host Steve returns and explains his abrupt departure in warm message to fans     - CNET](https://www.cnet.com/news/blues-clues-host-steve-returns-and-explains-his-abrupt-departure-in-warm-message-to-fans/#ftag=CAD590a51e)
- - [Apple's iPad stock is running low amid rumors of refresh](https://appleinsider.com/articles/21/09/08/apples-ipad-stock-is-running-low-amid-rumors-of-refresh?utm_medium=rss)<!-- TECH:END -->
+ - [Leap Finance raises $55 million to help Indian students study abroad, plans international expansion](http://feedproxy.google.com/~r/Techcrunch/~3/17cjR-wVcNc/)
+ - [After chiding Apple on privacy, Germany says it uses Pegasus spyware](https://appleinsider.com/articles/21/09/08/after-chiding-apple-on-privacy-germany-says-it-uses-pegasus-spyware?utm_medium=rss)
+ - [Coinbase says SEC threatened to sue over its yet-to-be-launched Lend program, following discussions with them for almost six months (Frank Chaparro/The Block)](http://www.techmeme.com/210908/p1#a210908p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
