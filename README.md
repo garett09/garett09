@@ -181,9 +181,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Hundreds Of People Line Up For Pokémon Cards In Tokyo](https://kotaku.com/hundreds-of-people-line-up-for-pokemon-cards-in-tokyo-1847634372)
- - [AMD's Ryzen 6000 series rumored to be in mass production, but may not be Zen 4](https://www.pcgamer.com/amds-ryzen-6000-series-rumored-to-be-in-mass-production-but-may-not-be-zen-4)
- - [Ubisoft appoints new CCO amidst ongoing reckonings with workplace abuse](https://www.pcgamer.com/ubisoft-appoints-new-cco-amidst-ongoing-reckonings-with-workplace-abuse)<!-- GAME:END -->
+ - [BattleTech makes an epic return to PlayStation with MechWarrior 5: Mercenaries](http://feedproxy.google.com/~r/PSBlog/~3/k48Pd--Tc2Q/)
+ - [BattleTech makes an epic return to PlayStation with MechWarrior 5: Mercenaries](https://blog.playstation.com/2021/09/08/battletech-makes-an-epic-return-to-playstation-with-mechwarrior-5-mercenaries/)
+ - [WarioWare: Get It Together! changes the series, but not for the better](https://www.polygon.com/reviews/22661377/warioware-get-it-together-review-switch-micro-game-character-select)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
