@@ -188,9 +188,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [UnitQ, which helps companies improve product quality by using AI to analyze user reports, raises $30M Series B led by Accel (Mary Ann Azevedo/TechCrunch)](http://www.techmeme.com/210908/p17#a210908p17)
- - [The Lenovo Chromebook Duet is an excellent value at $250](https://www.theverge.com/good-deals/2021/9/8/22661176/lenovo-chromebook-duet-aukey-omnia-charger-amazon-kindle-deal-sale)
- - [Excerpt from a book by Microsoft President Brad Smith and his chief of staff, Carol Ann Browne, on Microsoft's response to the SolarWinds attack (Fast Company)](http://www.techmeme.com/210908/p16#a210908p16)<!-- TECH:END -->
+ - [DC’s latest superhero crossover: Batman x FaZe Clan](https://www.theverge.com/2021/9/8/22662349/batman-day-faze-clan-podcast-audio-adventures-hbo-max)
+ - [How to watch Apple's 'iPhone 13' launch event](https://appleinsider.com/articles/21/09/08/how-to-watch-apples-iphone-13-launch-event?utm_medium=rss)
+ - [Extended: Babbel lifetime subscription on sale for $179 ($320 off)](https://appleinsider.com/articles/21/09/06/its-back-babbel-lifetime-subscription-on-sale-for-179-320-off?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
