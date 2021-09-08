@@ -188,9 +188,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The first ‘Designed for Google Meet’ device is a $200 phone dock](https://www.theverge.com/2021/9/8/22662690/designed-for-google-meet-ray-z-rally-pro-phone-speaker)
- - [TrueFort, which protects enterprise apps by defining normal app behavior and then tracking usage through partners like CrowdStrike, raises $30M Series B (Ron Miller/TechCrunch)](http://www.techmeme.com/210908/p24#a210908p24)
- - [How to watch Apple's 'iPhone 13' launch event](https://appleinsider.com/articles/21/09/08/how-to-watch-apples-iphone-13-launch-event?utm_medium=rss)<!-- TECH:END -->
+ - [Netflix revenge action flick Kate hits too many familiar notes](https://www.androidauthority.com/kate-review-netflix-2748233/)
+ - [Save $140 on the Apple Watch Series 6, and more great fitness tracker deals](https://www.androidauthority.com/best-cheap-fitness-tracker-deals-1113532/)
+ - [Android 12 beta 5 finally brings the promised full device search feature](https://www.androidauthority.com/android-12-on-device-search-3017887/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
