@@ -181,9 +181,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Some Of The Best Rocks In Video Games Are Actually Real](https://kotaku.com/some-of-the-best-rocks-in-video-games-are-actually-real-1847638647)
- - [Louisiana game devs are raising money for Hurricane Ida relief](https://www.polygon.com/22663221/louisiana-game-developers-mutual-aid-charity-bundle-hurricane-ida)
- - [Star Citizen adds disclaimer to spaceship preorders after regulator says they're misleading](https://www.pcgamer.com/star-citizen-adds-disclaimer-to-spaceship-preorders-after-regulator-says-theyre-misleading)<!-- GAME:END -->
+ - [Holy Crap, Look At Spongebob Wavedash In The Nick Fighting Game](https://kotaku.com/holy-crap-look-at-spongebob-wavedash-in-the-nick-fight-1847638321)
+ - [Smash Bros.’ Most Ridiculous Tournament Is Glorious Chaos](https://kotaku.com/smash-bros-most-ridiculous-tournament-is-glorious-cha-1847638956)
+ - [Indian news channel uses Arma 3 gameplay footage to claim Pakistan bombed Afghanistan](https://www.pcgamer.com/arma-3-pakistan-footage)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
