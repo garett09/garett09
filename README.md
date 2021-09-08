@@ -195,9 +195,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Just enjoy the little things that make you happy](http://9gag.com/gag/aWjrvPx)
- - 🚯 [Don&#039;t be like this.](http://9gag.com/gag/abVN4E8)
- - 🚯 [The Feelings are heavy](http://9gag.com/gag/aoMv43w)<!-- MEMES:END -->
+ - 🚖 [Me: Straight up fella](http://9gag.com/gag/aK6Q8w1)
+ - 🚯 [The Feelings are heavy](http://9gag.com/gag/aoMv43w)
+ - 🚯 [Are you an Xbox gamer? Win the latest Xbox Series X from us! Tap to know more](http://9gag.com/gag/aP3EeRG)<!-- MEMES:END -->
 
 --- 
 
