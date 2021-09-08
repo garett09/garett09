@@ -195,8 +195,8 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Biker decides to be an Idiot](http://9gag.com/gag/aZ06Eg6)
- - 🚯 [Love at first sight](http://9gag.com/gag/aXoy42D)
+ - 🚖 [Meet D3O: a soft goo that transforms into a substance tough enough to protect you from accidents.](http://9gag.com/gag/a8ERDGQ)
+ - 🚯 [Earthquake Lights in Mexico City](http://9gag.com/gag/aAb84dd)
  - 🚯 [Are you an Xbox gamer? Win the latest Xbox Series X from us! Tap to know more](http://9gag.com/gag/aP3EeRG)<!-- MEMES:END -->
 
 --- 
