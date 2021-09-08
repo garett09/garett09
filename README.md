@@ -195,8 +195,8 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Suka Ivan 2.0 | Moscow Dynamics](http://9gag.com/gag/amPex2y)
- - 🚯 [Another earthquake in Mexico City](http://9gag.com/gag/aGpmMzX)
+ - 🚖 [Women be like...](http://9gag.com/gag/ad8GxQD)
+ - 🚯 [Suka Ivan 2.0 | Moscow Dynamics](http://9gag.com/gag/amPex2y)
  - 🚯 [Are you an Xbox gamer? Win the latest Xbox Series X from us! Tap to know more](http://9gag.com/gag/aP3EeRG)<!-- MEMES:END -->
 
 --- 
