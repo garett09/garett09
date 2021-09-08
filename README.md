@@ -190,7 +190,7 @@ Linux                    0 secs              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Microsoft’s Clipchamp acquisition will help improve video editing on Windows](https://www.theverge.com/2021/9/8/22662225/microsoft-clipchamp-acquisition-video-editing-web-app-windows)
  - [Sources: ByteDance plans to borrow up to $5B in a syndicated loan to refinance debt and pay for overseas expansion, as an IPO appears unlikely this year (Juro Osawa/The Information)](http://www.techmeme.com/210908/p6#a210908p6)
- - [PayPal acquires Japan’s Paidy for $2.7B to crack the buy-now, pay-later market in Asia](http://feedproxy.google.com/~r/Techcrunch/~3/zDLjHfXjLKQ/)<!-- TECH:END -->
+ - [What If…? episode 5 recap: Marvel Zombies run rampant in dark reality     - CNET](https://www.cnet.com/news/what-if-episode-5-recap-marvel-zombies-run-rampant-in-dark-reality/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
