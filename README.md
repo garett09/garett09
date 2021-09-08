@@ -196,7 +196,7 @@ Linux                    0 secs              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 🚖 [Hand transplant](http://9gag.com/gag/aRXbogy)
- - 🚯 [New beginnings. B*tch girlfriend was cheating on me for the past 3 months, after being together for 6.5 years. Rented the cheapest flat I could afford. It&#039;s not much but it&#039;s something... Your fellow lurker](http://9gag.com/gag/a8ERwQQ)
+ - 🚯 [Gump](http://9gag.com/gag/aqjPW2p)
  - 🚯 [Are you an Xbox gamer? Win the latest Xbox Series X from us! Tap to know more](http://9gag.com/gag/aP3EeRG)<!-- MEMES:END -->
 
 --- 
