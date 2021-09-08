@@ -196,7 +196,7 @@ Linux                    0 secs              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 🚖 [Colourized footage of the last Tasmanian tiger named Benjamin (1933)](http://9gag.com/gag/aeAnOnb)
- - 🚯 [It&rsquo;s a culture thing&hellip;](http://9gag.com/gag/axMLvvL)
+ - 🚯 [That didn&#039;t go as planned](http://9gag.com/gag/a3E60jQ)
  - 🚯 [Me when I receive my next paycheck](http://9gag.com/gag/ajmzLDq)<!-- MEMES:END -->
 
 --- 
