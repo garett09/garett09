@@ -188,9 +188,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [PayPal to acquire Japan-based Paidy, a buy now, pay later service, for $2.7B in cash; PayPal expects the deal to be completed by December (Nikkei Asia)](http://www.techmeme.com/210907/p30#a210907p30)
  - [Nearly eight months into his term, Biden has yet to pick new leaders at the FCC and NTIA, delaying action on key agenda items, like reinstating net neutrality (Cristiano Lima/Washington Post)](http://www.techmeme.com/210907/p29#a210907p29)
- - [Apple Pay again target of patent infringement suit](https://appleinsider.com/articles/21/09/08/apple-pay-again-target-of-patent-infringement-suit?utm_medium=rss)
- - [Australia's High Court affirms earlier rulings that media companies can be held responsible for Facebook comments posted under stories on their Facebook Pages (Elizabeth Byrne/ABC)](http://www.techmeme.com/210907/p28#a210907p28)<!-- TECH:END -->
+ - [Apple Pay again target of patent infringement suit](https://appleinsider.com/articles/21/09/08/apple-pay-again-target-of-patent-infringement-suit?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
