@@ -188,9 +188,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [NASA sets new date for James Webb Space Telescope launch](https://www.theverge.com/2021/9/8/22663027/nasa-james-webb-space-telescope-launch-date)
- - [Fintech is transforming the world’s oldest asset class: Farmland](http://feedproxy.google.com/~r/Techcrunch/~3/1YSZ_5UrMgM/)
- - [Whoop’s new fitness tracker is better thanks to a battery breakthrough](https://www.theverge.com/2021/9/8/22662979/whoop-fitness-tracker-sila-silicon-anode-battery-electric-cars)<!-- TECH:END -->
+ - [Reid Hoffman’s latest book gives us 10 ways to rethink entrepreneurship](http://feedproxy.google.com/~r/Techcrunch/~3/YxLk6Tl_sVI/)
+ - [Jeff Bezos’ Earth Fund pledges $150 million to climate justice groups](https://www.theverge.com/2021/9/8/22662529/jeff-bezos-earth-fund-150-million-climate-justice-amazon)
+ - [US Commerce Dept. says it is forming the National AI Advisory Committee, which will advise POTUS and federal agencies on AI research, competitiveness, and more (Dave Nyczepir/FedScoop)](http://www.techmeme.com/210908/p26#a210908p26)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
