@@ -188,9 +188,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A Texas Abortion ‘Whistleblower’ Site Still Can't Find a Host](https://www.wired.com/story/texas-abortion-law-whistleblower-site)
- - [Android 12 release date: When can you expect it to launch?](https://www.androidauthority.com/android-12-release-date-1202179/)
- - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)<!-- TECH:END -->
+ - [The first ‘Designed for Google Meet’ device is a $200 phone dock](https://www.theverge.com/2021/9/8/22662690/designed-for-google-meet-ray-z-rally-pro-phone-speaker)
+ - [TrueFort, which protects enterprise apps by defining normal app behavior and then tracking usage through partners like CrowdStrike, raises $30M Series B (Ron Miller/TechCrunch)](http://www.techmeme.com/210908/p24#a210908p24)
+ - [How to watch Apple's 'iPhone 13' launch event](https://appleinsider.com/articles/21/09/08/how-to-watch-apples-iphone-13-launch-event?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
