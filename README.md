@@ -188,9 +188,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [PayPal to acquire Japan-based Paidy, a buy now, pay later service, for $2.7B in cash; PayPal expects the deal to be completed by December (Nikkei Asia)](http://www.techmeme.com/210907/p30#a210907p30)
- - [Nearly eight months into his term, Biden has yet to pick new leaders at the FCC and NTIA, delaying action on key agenda items, like reinstating net neutrality (Cristiano Lima/Washington Post)](http://www.techmeme.com/210907/p29#a210907p29)
- - [Apple Pay again target of patent infringement suit](https://appleinsider.com/articles/21/09/08/apple-pay-again-target-of-patent-infringement-suit?utm_medium=rss)<!-- TECH:END -->
+ - [iPhone 13: What to expect from Apple’s next smartphone and what we want to see](https://www.androidauthority.com/apple-iphone-13-1226617/)
+ - [Apple's iPad stock is running low amid rumors of refresh](https://appleinsider.com/articles/21/09/08/apples-ipad-stock-is-running-low-amid-rumors-of-refresh?utm_medium=rss)
+ - [Lenovo reveals new slim laptops, a new Chromebook, and new tablets](https://www.androidauthority.com/lenovo-slim-laptops-a-new-chromebook-and-new-tablets-2801275/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
