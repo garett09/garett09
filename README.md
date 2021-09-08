@@ -181,9 +181,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [New Characters and Level Are Coming to Ultimate Chicken Horse](https://news.xbox.com/en-us/2021/09/08/new-characters-and-level-are-coming-to-ultimate-chicken-horse/)
- - [Runway Unveils an Arsenal in the Latest Rogue Company Update](https://news.xbox.com/en-us/2021/09/08/runway-latest-rogue-company-update/)
- - [Pinhead Brings the Pain in Dead by Daylight’s New Hellraiser Chapter](https://news.xbox.com/en-us/2021/09/08/pinhead-brings-the-pain-dead-by-daylight/)<!-- GAME:END -->
+ - [Join Twenty One Pilots’ Virtual Concert Experience on Roblox](https://news.xbox.com/en-us/2021/09/08/twenty-one-pilots-concert-experience-roblox/)
+ - [Waluigi's Heart-Breaking Life As A Smash Absentee](https://kotaku.com/waluigis-heartbreaking-life-as-a-smash-absentee-1847640016)
+ - [The best full-tower case in 2021](https://www.pcgamer.com/best-full-tower-case)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
