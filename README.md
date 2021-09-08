@@ -195,9 +195,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Colourized footage of the last Tasmanian tiger named Benjamin (1933)](http://9gag.com/gag/aeAnOnb)
- - 🚯 [That didn&#039;t go as planned](http://9gag.com/gag/a3E60jQ)
- - 🚯 [I&#039;ve been working on my solo project for 2 years now. Here&#039;s where I&#039;m at!](http://9gag.com/gag/anQmRME)<!-- MEMES:END -->
+ - 🚖 [What a shame](http://9gag.com/gag/a4EX6mQ)
+ - 🚯 [Car go Brrrr](http://9gag.com/gag/anQmn8b)
+ - 🚯 [Don&#039;t be like this.](http://9gag.com/gag/abVN4E8)<!-- MEMES:END -->
 
 --- 
 
