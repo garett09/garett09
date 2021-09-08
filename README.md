@@ -181,9 +181,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The best LMGs for Warzone](https://www.pcgamer.com/best-warzone-lmgs)
  - [Warzone Season 5 Reloaded: What to expect](https://www.pcgamer.com/warzone-season-5-reloaded-guide)
- - [The best Assault Rifles for Warzone](https://www.pcgamer.com/best-assault-rifle-warzone)
- - [The best Perks for Warzone](https://www.pcgamer.com/best-perks-in-warzone)<!-- GAME:END -->
+ - [The best Assault Rifles for Warzone](https://www.pcgamer.com/best-assault-rifle-warzone)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
