@@ -181,9 +181,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Some Of The Best Rocks In Video Games Are Actually Real](https://kotaku.com/some-of-the-best-rocks-in-video-games-are-actually-real-1847638647)
  - [Louisiana game devs are raising money for Hurricane Ida relief](https://www.polygon.com/22663221/louisiana-game-developers-mutual-aid-charity-bundle-hurricane-ida)
- - [Star Citizen adds disclaimer to spaceship preorders after regulator says they're misleading](https://www.pcgamer.com/star-citizen-adds-disclaimer-to-spaceship-preorders-after-regulator-says-theyre-misleading)
- - [Runescape developer reverses decision to kill HD mod project after fan backlash](https://www.pcgamer.com/Runelite-HD-Jagex-reverses-decision)<!-- GAME:END -->
+ - [Star Citizen adds disclaimer to spaceship preorders after regulator says they're misleading](https://www.pcgamer.com/star-citizen-adds-disclaimer-to-spaceship-preorders-after-regulator-says-theyre-misleading)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
