@@ -195,7 +195,7 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Meet D3O: a soft goo that transforms into a substance tough enough to protect you from accidents.](http://9gag.com/gag/a8ERDGQ)
+ - 🚖 [Female privilege...](http://9gag.com/gag/aqjPxeP)
  - 🚯 [Earthquake Lights in Mexico City](http://9gag.com/gag/aAb84dd)
  - 🚯 [Are you an Xbox gamer? Win the latest Xbox Series X from us! Tap to know more](http://9gag.com/gag/aP3EeRG)<!-- MEMES:END -->
 
