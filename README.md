@@ -189,8 +189,8 @@ Linux                    0 secs              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Indian fintech Slice launches $27 credit limit cards to tap 200 million users](http://feedproxy.google.com/~r/Techcrunch/~3/TY6X09lwHHU/)
- - [Apple's iPad stock is running low amid rumors of refresh](https://appleinsider.com/articles/21/09/08/apples-ipad-stock-is-running-low-amid-rumors-of-refresh?utm_medium=rss)
- - [iPhone 13: What to expect from Apple’s next smartphone and what we want to see](https://www.androidauthority.com/apple-iphone-13-1226617/)<!-- TECH:END -->
+ - [Blue's Clues host Steve returns and explains his abrupt departure in warm message to fans     - CNET](https://www.cnet.com/news/blues-clues-host-steve-returns-and-explains-his-abrupt-departure-in-warm-message-to-fans/#ftag=CAD590a51e)
+ - [Apple's iPad stock is running low amid rumors of refresh](https://appleinsider.com/articles/21/09/08/apples-ipad-stock-is-running-low-amid-rumors-of-refresh?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
