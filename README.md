@@ -188,9 +188,9 @@ Linux                    0 secs              ░░░░░░░░░░░�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Columbia- and Brazil-based Addi, which offers buy now, pay later tools, raises $75M Series B extension, taking the round to $140M (Mary Ann Azevedo/TechCrunch)](http://www.techmeme.com/210908/p14#a210908p14)
- - [Google announces Workspace updates, including spaces for collaboration, Meet calling within Gmail, and 27" and 65" video calling devices by Logitech and Avocor (Kyle Wiggers/VentureBeat)](http://www.techmeme.com/210908/p13#a210908p13)
- - [Poll: Do you still purchase music?](https://www.androidauthority.com/do-you-still-buy-music-poll-2921657/)<!-- TECH:END -->
+ - [SingleStore, which offers an SQL-based service to help enterprises use data from disparate silos, raises $80M Series F, sources say at a $940M valuation (Ingrid Lunden/TechCrunch)](http://www.techmeme.com/210908/p15#a210908p15)
+ - [Notion acquires India’s Automate.io in push to accelerate product expansion](http://feedproxy.google.com/~r/Techcrunch/~3/Yny2fH5QhXQ/)
+ - [Real-time database platform SingleStore raises $80M more, now at a $940M valuation](http://feedproxy.google.com/~r/Techcrunch/~3/Eio4bwr82SQ/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
