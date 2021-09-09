@@ -194,8 +194,8 @@ Windows                  7 hrs 29 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Tongue cramp](http://9gag.com/gag/axMLmxD)
- - 🚯 [Holli shit](http://9gag.com/gag/aZ06v06)
+ - 🚖 [Chickachickachickaaaaa](http://9gag.com/gag/a273Goe)
+ - 🚯 [Employees :No mask no entry Meanwhile literally all employees inside :](http://9gag.com/gag/a4EXwwp)
  - 🚯 [Are you an Xbox gamer? Win the latest Xbox Series X from us! Tap to know more](http://9gag.com/gag/aP3EeRG)<!-- MEMES:END -->
 
 --- 
