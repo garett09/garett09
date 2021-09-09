@@ -194,8 +194,8 @@ Windows                  7 hrs 29 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Help me Dr. Dick](http://9gag.com/gag/aV7pVGM)
- - 🚯 [Have you ever wondered?](http://9gag.com/gag/aMKoqqG)
+ - 🚖 [Golden sunset](http://9gag.com/gag/aqjPDEj)
+ - 🚯 [Regular day in India](http://9gag.com/gag/apN4Ymp)
  - 🚯 [Are you an Xbox gamer? Win the latest Xbox Series X from us! Tap to know more](http://9gag.com/gag/aP3EeRG)<!-- MEMES:END -->
 
 --- 
