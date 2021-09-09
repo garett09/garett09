@@ -180,9 +180,9 @@ Windows                  7 hrs 29 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Free Play Days – Madden NFL 22, Tom Clancy’s Rainbow Six Siege, and Blasphemous](https://news.xbox.com/en-us/2021/09/09/free-play-days-madden-22-rainbow-six-siege-and-blasphemous/)
- - [World of Warships producer talks six years of high seas brawling](https://www.pcgamer.com/world-of-warships-producer-talks-six-years-of-high-seas-brawling)
- - [Respawn says Titanfall 2 exploit that led to panicked uninstalls probably isn't that serious](https://www.pcgamer.com/respawn-says-titanfall-2-exploit-that-led-to-panicked-uninstalls-probably-isnt-serious)<!-- GAME:END -->
+ - [How to take a screenshot on PC](https://www.pcgamer.com/how-to-take-a-screenshot-on-a-pc)
+ - [The Meaning Of Kawaii](https://kotaku.com/the-meaning-of-kawaii-1847641571)
+ - [Free Play Days – Madden NFL 22, Tom Clancy’s Rainbow Six Siege, and Blasphemous](https://news.xbox.com/en-us/2021/09/09/free-play-days-madden-22-rainbow-six-siege-and-blasphemous/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
