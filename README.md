@@ -194,9 +194,9 @@ Windows                  7 hrs 29 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Chug! Chug! Chug!](http://9gag.com/gag/av5MmGb)
+ - 🚖 [Bad day at work...](http://9gag.com/gag/aP3EpnK)
  - 🚯 [Nice place mate!](http://9gag.com/gag/aAb8me9)
- - 🚯 [I handle finely processed beef using state-of-the-art kitchen ware in a tier one food industry.](http://9gag.com/gag/aXoydj9)<!-- MEMES:END -->
+ - 🚯 [Nobody wants it](http://9gag.com/gag/aGpmo3K)<!-- MEMES:END -->
 
 --- 
 
