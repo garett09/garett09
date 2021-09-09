@@ -187,9 +187,9 @@ Windows                  7 hrs 29 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Squad Mobility eyes shared platforms as target for its compact solar electric quadricycle](http://feedproxy.google.com/~r/Techcrunch/~3/jAAtFTAoEkc/)
- - [UK dials up the spin on data reform, claiming ‘simplified’ rules will drive ‘responsible’ data sharing](http://feedproxy.google.com/~r/Techcrunch/~3/dWb9LtR16i8/)
- - [California defense attorney Jay Leiderman, once dubbed the "Hacktivist's Advocate" and known for defending whistleblowers and hackers, dies at 50 years old (Dell Cameron/Gizmodo)](http://www.techmeme.com/210909/p38#a210909p38)<!-- TECH:END -->
+ - [Refusing to wear a mask on an airplane could now cost you up to $3,000 in fines](https://www.theverge.com/2021/9/9/22665625/tsa-mask-mandate-airplane-fines-covid-train-bus)
+ - [Source: Whatnot, a livestreaming service for buying and selling collectibles, is raising new capital at a valuation of $1.5B, following its $50M Series B in May (Kaya Yurieff/The Information)](http://www.techmeme.com/210909/p40#a210909p40)
+ - [Jio and Google delay the JioPhone Next, which was planned to launch on Friday, blaming chip shortages and says the launch is now scheduled for early November (Manish Singh/TechCrunch)](http://www.techmeme.com/210909/p39#a210909p39)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
