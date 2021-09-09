@@ -180,9 +180,9 @@ Windows                  7 hrs 29 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [31-disc Lord of the Rings 4K Blu-ray box set is the most Lord of the Rings yet](https://www.polygon.com/22664926/lord-of-the-rings-4k-blu-ray-box-set-hobbit-middle-earth-ultimate-collectors-edition)
- - [Narrative Adventure Rock Opera The Artful Escape is Available Now with Xbox Game Pass](https://news.xbox.com/en-us/2021/09/09/the-artful-escape-is-available-now/)
- - [Best power supply for PC gaming](https://www.pcgamer.com/best-power-supply-unit-for-pc-gaming-our-top-psu-for-pc)<!-- GAME:END -->
+ - [Crafting Shang-Chi’s subtitles was a ‘big learning experience,’ says director](https://www.polygon.com/interviews/22664733/shang-chi-subtitles-language-chinese-english-translation)
+ - [Twitch Streamer Under Fire By Genshin Impact Fans Over Anti-Chinese Tirade](https://kotaku.com/twitch-streamer-under-fire-by-genshin-impact-fans-over-1847644771)
+ - [31-disc Lord of the Rings 4K Blu-ray box set is the most Lord of the Rings yet](https://www.polygon.com/22664926/lord-of-the-rings-4k-blu-ray-box-set-hobbit-middle-earth-ultimate-collectors-edition)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
