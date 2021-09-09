@@ -180,9 +180,9 @@ Windows                  7 hrs 29 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Star Trek: Strange New Worlds teaser reveals returning characters from The Original Series](https://www.polygon.com/22663277/star-trek-strange-new-worlds-cast-uhura-original-series-prequel)
  - [Forza Horizon 5 has 426 cars and counting](https://www.pcgamer.com/forza-horizon-5-has-426-cars-and-counting)
- - [How to spoil the mole's sabotage attempt in Fortnite](https://www.pcgamer.com/spoil-the-moles-sabotage-attempt-fortnite)
- - [AI Gives Dark Souls Characters More Realistic Faces](https://kotaku.com/ai-gives-dark-souls-characters-more-realistic-faces-1847640398)<!-- GAME:END -->
+ - [How to spoil the mole's sabotage attempt in Fortnite](https://www.pcgamer.com/spoil-the-moles-sabotage-attempt-fortnite)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
