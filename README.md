@@ -195,7 +195,7 @@ Windows                  7 hrs 29 mins       ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Throwback to the days when Nokia really was innovating](http://9gag.com/gag/av5M96n)
- - 🚯 [I laughed more than I should](http://9gag.com/gag/aRXbDD5)
+ - 🚯 [Chickachickachickaaaaa](http://9gag.com/gag/a273Goe)
  - 🚯 [Are you an Xbox gamer? Win the latest Xbox Series X from us! Tap to know more](http://9gag.com/gag/aP3EeRG)<!-- MEMES:END -->
 
 --- 
