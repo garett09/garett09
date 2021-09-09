@@ -194,7 +194,7 @@ Windows                  7 hrs 29 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Cracking an agg over hot metal slab](http://9gag.com/gag/aV7pBRM)
+ - 🚖 [Throwback to the days when Nokia really was innovating](http://9gag.com/gag/av5M96n)
  - 🚯 [I laughed more than I should](http://9gag.com/gag/aRXbDD5)
  - 🚯 [Are you an Xbox gamer? Win the latest Xbox Series X from us! Tap to know more](http://9gag.com/gag/aP3EeRG)<!-- MEMES:END -->
 
