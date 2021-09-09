@@ -187,9 +187,9 @@ Windows                  7 hrs 29 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple customers increasingly attached to brand during COVID](https://appleinsider.com/articles/21/09/09/apples-customers-grew-increasingly-attached-to-brand-during-covid?utm_medium=rss)
- - [Facebook and Ray-Ban’s smart glasses leak before launch](https://www.theverge.com/2021/9/9/22664181/facebook-ray-ban-stories-smart-glasses-leak-launch-date)
- - [Xiaomi could finally bring its budget 5G phone to India this month](https://www.androidauthority.com/xiaomi-11-lite-5g-ne-india-3018148/)<!-- TECH:END -->
+ - [Ray-Ban’s Wayfarers get the Facebook treatment in these leaked renders](https://www.androidauthority.com/facebook-ray-ban-smart-glasses-3018217/)
+ - [China’s WeRide unveils Robovan, its first electric, autonomous cargo van](http://feedproxy.google.com/~r/Techcrunch/~3/9pSiVPvOZuI/)
+ - [Snyk, which helps fix vulnerabilities in open source dependencies and container images, raises a $300M round at a $8.5B valuation, ~2X its March valuation (Jane Lanhee Lee/Reuters)](http://www.techmeme.com/210909/p3#a210909p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
