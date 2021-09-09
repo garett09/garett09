@@ -187,9 +187,9 @@ Windows                  7 hrs 29 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Frustrated security researchers speak out about Apple's bug bounty program](https://appleinsider.com/articles/21/09/09/frustrated-security-researchers-speak-out-about-apples-bug-bounty-program?utm_medium=rss)
- - [Microsoft indefinitely postpones the return to its offices in the US, saying it has "decided against attempting to forecast a new date for a full reopening" (Tom Warren/The Verge)](http://www.techmeme.com/210909/p25#a210909p25)
- - [B&H slashes up to $150 off Apple Watch Series 6, offering year's cheapest prices](https://appleinsider.com/articles/21/09/01/bh-slashes-up-to-150-off-apple-watch-series-6-offering-years-cheapest-prices?utm_medium=rss)<!-- TECH:END -->
+ - [Lego’s latest Mario collaboration is a big question mark block](https://www.theverge.com/2021/9/9/22664708/lego-mario-64-question-mark-block)
+ - [Facebook & Ray-Ban 'smart glasses' leak hours before announcement](https://appleinsider.com/articles/21/09/09/facebook-ray-ban-smart-glasses-leak-hours-before-announcement?utm_medium=rss)
+ - [Security researchers say Apple's bug bounty program is undermined by Apple's insular culture, confusion about payments, and long delays in fixing bugs (Reed Albergotti/Washington Post)](http://www.techmeme.com/210909/p26#a210909p26)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
