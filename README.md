@@ -194,9 +194,9 @@ Windows                  7 hrs 29 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [They said all set. She jumped without a second of hesitation.](http://9gag.com/gag/a6E032A)
+ - 🚖 [Wait a minute](http://9gag.com/gag/aQoLNNz)
  - 🚯 [How she shows her love](http://9gag.com/gag/a5EOyWg)
- - 🚯 [Incredible india](http://9gag.com/gag/agBDZA6)<!-- MEMES:END -->
+ - 🚯 [EsreveR](http://9gag.com/gag/aXoyGqb)<!-- MEMES:END -->
 
 --- 
 
