@@ -187,9 +187,9 @@ Windows                  7 hrs 29 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [GM extends Chevy Bolt EV production shutdown another two weeks](http://feedproxy.google.com/~r/Techcrunch/~3/eznlkQQVLjg/)
- - [The best Metro by T-Mobile deals](https://www.androidauthority.com/best-metropcs-deals-843748/)
- - [Sources: Facebook is developing a ML chip for tasks such as recommending content to users and a data center chip to improve video transcoding (Wayne Ma/The Information)](http://www.techmeme.com/210909/p33#a210909p33)<!-- TECH:END -->
+ - [Android 12’s Private Compute Services will go open-source to protect privacy](https://www.androidauthority.com/android-private-compute-services-3018782/)
+ - [Mad Max: Fury Road’s iconic fleet of post-apocalyptic War Rigs are up for auction](https://www.theverge.com/2021/9/9/22665111/mad-max-fury-road-auction-war-rig-doof-wagon)
+ - [Compared: Samsung Galaxy Buds 2 versus AirPods and AirPods Pro](https://appleinsider.com/articles/21/09/09/compared-samsung-galaxy-buds-2-versus-airpods-and-airpods-pro?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
