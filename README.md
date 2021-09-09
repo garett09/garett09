@@ -180,9 +180,9 @@ Windows                  7 hrs 29 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [PlayStation Showcase: the complete recap](https://blog.playstation.com/2021/09/09/playstation-showcase-the-complete-recap/)
- - [Halloween Kills will go to streaming and theaters on the same day](https://www.polygon.com/22665591/halloween-kills-release-date-streaming-peacock-vod)
- - [If you die in The Matrix Online, do you die in the movies? Asking for Morpheus](https://www.pcgamer.com/if-you-die-in-the-matrix-online-do-you-die-in-the-movies-asking-for-morpheus)<!-- GAME:END -->
+ - [Ghostwire: Tokyo trailer turns Shibuya into a Slender Man-infested hellhole](https://www.pcgamer.com/ghostwire-tokyo-trailer)
+ - [PlayStation Showcase 2021: The biggest announcements](https://www.polygon.com/22665457/playstation-showcase-2021-biggest-announcements-trailers)
+ - [A SpongeBob SquarePants meme made it into Nickelodeon All-Star Brawl](https://www.polygon.com/22665321/meme-spongebob-squarepants-nickelodeon-all-star-brawl-fighting-game)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
