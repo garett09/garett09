@@ -180,9 +180,9 @@ Windows                  7 hrs 29 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Football Manager 2022 Launching Day One with Xbox Game Pass](https://news.xbox.com/en-us/2021/09/09/football-manager-2022-launching-day-one-with-xbox-game-pass/)
- - [Rollicking beat-’em-up Sifu is a swift answer to all of kung fu’s deepest questions](https://www.polygon.com/22664068/sifu-preview-video-kung-fu-sloclap-release-dates-ps4-ps5)
- - [Hell Let Loose review](https://www.pcgamer.com/hell-let-loose-review)<!-- GAME:END -->
+ - [Magic: The Gathering takes a dark turn with Innistrad: Midnight Hunt](https://www.polygon.com/22663142/magic-the-gathering-innistrad-midnight-hunt-preview-cards-blue-black-red)
+ - [How Sifu's kung fu combat works, with 7 new video clips](https://www.pcgamer.com/sifu-gameplay-preview-video)
+ - [Football Manager 2022 Launching Day One with Xbox Game Pass](https://news.xbox.com/en-us/2021/09/09/football-manager-2022-launching-day-one-with-xbox-game-pass/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
