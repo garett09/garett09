@@ -194,9 +194,9 @@ Windows                  7 hrs 29 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Nice place mate!](http://9gag.com/gag/aAb8me9)
- - 🚯 [Its so hard to get it inside.](http://9gag.com/gag/aeAndpB)
- - 🚯 [I handle finely processed beef using state-of-the-art kitchen ware in a tier one food industry.](http://9gag.com/gag/aXoydj9)<!-- MEMES:END -->
+ - 🚖 [Chug! Chug! Chug!](http://9gag.com/gag/av5MmGb)
+ - 🚯 [Nice place mate!](http://9gag.com/gag/aAb8me9)
+ - 🚯 [This will confuse some people](http://9gag.com/gag/ad8Gdd2)<!-- MEMES:END -->
 
 --- 
 
