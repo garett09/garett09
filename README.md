@@ -188,8 +188,8 @@ Windows                  7 hrs 29 mins       ███████████�
 
 <!-- TECH:START -->
  - [Apple customers increasingly attached to brand during COVID](https://appleinsider.com/articles/21/09/09/apples-customers-grew-increasingly-attached-to-brand-during-covid?utm_medium=rss)
- - [Pixel 6 appears in flesh in Google’s ad, Instagram promo hints at launch date](https://www.androidauthority.com/google-pixel-6-in-hand-3018163/)
- - [Investigation reveals how social media influencers in Kenya are hired to spread disinformation on Twitter against Kenyan journalists, judges, and activists (Odanga Madung/Wired)](http://www.techmeme.com/210909/p2#a210909p2)<!-- TECH:END -->
+ - [Facebook and Ray-Ban’s smart glasses leak before launch](https://www.theverge.com/2021/9/9/22664181/facebook-ray-ban-stories-smart-glasses-leak-launch-date)
+ - [Xiaomi could finally bring its budget 5G phone to India this month](https://www.androidauthority.com/xiaomi-11-lite-5g-ne-india-3018148/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
