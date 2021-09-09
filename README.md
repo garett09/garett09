@@ -194,8 +194,8 @@ Windows                  7 hrs 29 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Yeah it&#039;s cool and all but it looks like a pain to sheathe and unsheathe](http://9gag.com/gag/anQmGqn)
- - 🚯 [Sometimes a little caring can go a long way](http://9gag.com/gag/aO3MpGN)
+ - 🚖 [Tongue cramp](http://9gag.com/gag/axMLmxD)
+ - 🚯 [Holli shit](http://9gag.com/gag/aZ06v06)
  - 🚯 [Are you an Xbox gamer? Win the latest Xbox Series X from us! Tap to know more](http://9gag.com/gag/aP3EeRG)<!-- MEMES:END -->
 
 --- 
