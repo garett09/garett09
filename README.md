@@ -187,9 +187,9 @@ Windows                  7 hrs 29 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ray-Ban’s Wayfarers get the Facebook treatment in these leaked renders](https://www.androidauthority.com/facebook-ray-ban-smart-glasses-3018217/)
- - [China’s WeRide unveils Robovan, its first electric, autonomous cargo van](http://feedproxy.google.com/~r/Techcrunch/~3/9pSiVPvOZuI/)
- - [Snyk, which helps fix vulnerabilities in open source dependencies and container images, raises a $300M round at a $8.5B valuation, ~2X its March valuation (Jane Lanhee Lee/Reuters)](http://www.techmeme.com/210909/p3#a210909p3)<!-- TECH:END -->
+ - [Xiaomi commits to extended Android updates, but there’s a catch](https://www.androidauthority.com/xiaomi-android-update-policy-2912689/)
+ - [NYC police officers and critics describe the NYPD's growing use of post-9/11 digital surveillance tools, initially used for counterterrorism, in minor cases (Ali Watkins/New York Times)](http://www.techmeme.com/210909/p4#a210909p4)
+ - [Ray-Ban’s Wayfarers get the Facebook treatment in these leaked renders](https://www.androidauthority.com/facebook-ray-ban-smart-glasses-3018217/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
