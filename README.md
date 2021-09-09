@@ -194,8 +194,8 @@ Windows                  7 hrs 29 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [They build the mall around the car, obviously](http://9gag.com/gag/a6E08GR)
- - 🚯 [Golden sunset](http://9gag.com/gag/aqjPDEj)
+ - 🚖 [Cracking an agg over hot metal slab](http://9gag.com/gag/aV7pBRM)
+ - 🚯 [I laughed more than I should](http://9gag.com/gag/aRXbDD5)
  - 🚯 [Are you an Xbox gamer? Win the latest Xbox Series X from us! Tap to know more](http://9gag.com/gag/aP3EeRG)<!-- MEMES:END -->
 
 --- 
