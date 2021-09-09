@@ -187,9 +187,9 @@ Windows                  7 hrs 29 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitter is testing a new "Automated Account" label for profiles to self-identify as bots, intended for "good bots", and the label will remain opt-in for now (Sarah Perez/TechCrunch)](http://www.techmeme.com/210909/p37#a210909p37)
- - [Uncharted: Legacy of Thieves Collection remasters two classics for PS5 and PC](https://www.theverge.com/2021/9/9/22661816/sony-playstation-showcase-uncharted-legacy-of-thieves-collection-ps5-pc)
- - [God of War: Ragnarok finally has a trailer](https://www.theverge.com/2021/9/9/22665085/sony-god-of-war-ragnarok-playstation-ps5-showcase)<!-- TECH:END -->
+ - [Squad Mobility eyes shared platforms as target for its compact solar electric quadricycle](http://feedproxy.google.com/~r/Techcrunch/~3/jAAtFTAoEkc/)
+ - [UK dials up the spin on data reform, claiming ‘simplified’ rules will drive ‘responsible’ data sharing](http://feedproxy.google.com/~r/Techcrunch/~3/dWb9LtR16i8/)
+ - [California defense attorney Jay Leiderman, once dubbed the "Hacktivist's Advocate" and known for defending whistleblowers and hackers, dies at 50 years old (Dell Cameron/Gizmodo)](http://www.techmeme.com/210909/p38#a210909p38)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
