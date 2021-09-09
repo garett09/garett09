@@ -187,9 +187,9 @@ Windows                  7 hrs 29 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Supabase, an open source alternative to Google's Firebase that automates parts of developers' backend work, raises $30M Series A (Greg Kumparak/TechCrunch)](http://www.techmeme.com/210909/p32#a210909p32)
  - [ESPN, ABC News apps to end third-generation Apple TV support in October](https://appleinsider.com/articles/21/09/09/espn-abc-news-apps-to-end-third-generation-apple-tv-support-in-october?utm_medium=rss)
- - [Save 43% on the Lenovo P11 Pro, and more great tablet deals](https://www.androidauthority.com/best-tablet-deals-1117141/)
- - [Source: JPMorgan Chase is acquiring The Infatuation, a restaurant discovery service that bought Zagat from Google in 2018 (Wall Street Journal)](http://www.techmeme.com/210909/p31#a210909p31)<!-- TECH:END -->
+ - [Save 43% on the Lenovo P11 Pro, and more great tablet deals](https://www.androidauthority.com/best-tablet-deals-1117141/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
