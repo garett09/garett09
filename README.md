@@ -187,9 +187,9 @@ Windows                  7 hrs 29 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft says it has now fixed a flaw that could have allowed hackers to access data of some Azure customers; Palo Alto Networks reported the flaw in July (Joseph Menn/Reuters)](http://www.techmeme.com/210909/p1#a210909p1)
  - [Only 10% iPhone owners plan upgrade to 'iPhone 13,' poll finds](https://appleinsider.com/articles/21/09/08/only-10-iphone-owners-plan-upgrade-to-iphone-13-poll-finds?utm_medium=rss)
- - [The newest Roomba gets smarter as it vacuums](http://feedproxy.google.com/~r/Techcrunch/~3/V4rvuSTc41s/)
- - [iRobot’s newest Roomba uses AI to avoid dog poop](https://www.theverge.com/2021/9/9/22660467/irobot-roomba-ai-dog-poop-avoidance-j7-specs-price)<!-- TECH:END -->
+ - [The FCC's broadband map won't be ready for a year. This data company has already built one     - CNET](https://www.cnet.com/home/internet/the-fccs-broadband-map-wont-be-ready-for-a-year-this-data-company-has-already-built-one/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
