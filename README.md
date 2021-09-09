@@ -194,9 +194,9 @@ Windows                  7 hrs 29 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Dad joke](http://9gag.com/gag/a6E0xM2)
- - 🚯 [Incredible india](http://9gag.com/gag/agBDZA6)
- - 🚯 [How she shows her love](http://9gag.com/gag/a5EOyWg)<!-- MEMES:END -->
+ - 🚖 [They said all set. She jumped without a second of hesitation.](http://9gag.com/gag/a6E032A)
+ - 🚯 [How she shows her love](http://9gag.com/gag/a5EOyWg)
+ - 🚯 [Incredible india](http://9gag.com/gag/agBDZA6)<!-- MEMES:END -->
 
 --- 
 
