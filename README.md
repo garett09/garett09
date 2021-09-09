@@ -181,8 +181,8 @@ Windows                  7 hrs 29 mins       ███████████�
 
 <!-- GAME:START -->
  - [How to take a screenshot on PC](https://www.pcgamer.com/how-to-take-a-screenshot-on-a-pc)
- - [The Meaning Of Kawaii](https://kotaku.com/the-meaning-of-kawaii-1847641571)
- - [Free Play Days – Madden NFL 22, Tom Clancy’s Rainbow Six Siege, and Blasphemous](https://news.xbox.com/en-us/2021/09/09/free-play-days-madden-22-rainbow-six-siege-and-blasphemous/)<!-- GAME:END -->
+ - [Hardspace: Shipbreaker's Act 2 update finally gives you a home in the stars](https://www.pcgamer.com/hardspace-shipbreakers-act-2-update-finally-gives-you-a-home-in-the-stars)
+ - [The Meaning Of Kawaii](https://kotaku.com/the-meaning-of-kawaii-1847641571)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
