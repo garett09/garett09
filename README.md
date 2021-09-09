@@ -187,9 +187,9 @@ Windows                  7 hrs 29 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android 12’s last beta brings a few makeovers and new widgets](https://www.theverge.com/2021/9/8/22663710/android-12-beta-5-ui-updates-features-clock-widgets-search-bar-calculator)
- - [FOIA records show Google settled with a software engineer allegedly fired for his workplace activism in 2019; settlement was approved in July by the NLRB (Josh Eidelson/Bloomberg)](http://www.techmeme.com/210908/p31#a210908p31)
- - [Evander Holyfield vs. Vitor Belfort: How to watch, start time, Donald Trump commentary     - CNET](https://www.cnet.com/news/evander-holyfield-vs-vitor-belfort-how-to-watch-start-time-donald-trump-commentary/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Aviva Links, which aims to make chips to enable low-latency data-sharing in connected cars, raises $26.5M Series A led by Marvell Technology's founders (Mike Wheatley/SiliconANGLE)](http://www.techmeme.com/210908/p32#a210908p32)
+ - [Xbox controller update delivers improved iPhone connectivity with iOS 15](https://appleinsider.com/articles/21/09/09/xbox-controller-update-delivers-improved-iphone-connectivity-with-ios-15?utm_medium=rss)
+ - [All 20 horror titles Netflix is releasing across Halloween     - CNET](https://www.cnet.com/news/all-20-horror-titles-netflix-is-releasing-across-halloween/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
