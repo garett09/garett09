@@ -194,8 +194,8 @@ Windows                  7 hrs 29 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How to discover what&#039;s been eating your chickens](http://9gag.com/gag/ayMbZjV)
- - 🚯 [This is what you are paying for](http://9gag.com/gag/aB2AjWN)
+ - 🚖 [This is what you are paying for](http://9gag.com/gag/aB2AjWN)
+ - 🚯 [It do be like that](http://9gag.com/gag/a3E6ze1)
  - 🚯 [Natalie Portman looking completely lost at a football game](http://9gag.com/gag/aoMvAng)<!-- MEMES:END -->
 
 --- 
