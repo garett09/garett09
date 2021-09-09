@@ -194,8 +194,8 @@ Windows                  7 hrs 29 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This palace in berlin (demolished in 2006) was so advanced](http://9gag.com/gag/abVNKbL)
- - 🚯 [Wait a minute](http://9gag.com/gag/aQoLNNz)
+ - 🚖 [How?](http://9gag.com/gag/av5M4bM)
+ - 🚯 [Yep, that&#039;s volume measurement in the U.S.](http://9gag.com/gag/aXoyGVd)
  - 🚯 [Natalie Portman looking completely lost at a football game](http://9gag.com/gag/aoMvAng)<!-- MEMES:END -->
 
 --- 
