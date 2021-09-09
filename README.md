@@ -180,9 +180,9 @@ Windows                  7 hrs 29 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Star Trek: Picard season 2 trailer: Q, the Borg Queen, and a totalitarian nightmare](https://www.polygon.com/22664055/star-trek-picard-season-2-trailer-release-date-q-borg-queen)
- - [Ex-Tripwire CEO asks fans to continue supporting their games after exit following comments on abortion ban](https://www.pcgamer.com/tripwire-ceo-steps-down-following-comments-on-texas-abortion-ban)
- - [Here's an RTX 3060 gaming laptop with 165Hz display for just over AU$2,000](https://www.pcgamer.com/heres-an-rtx-3060-gaming-laptop-with-165hz-display-for-just-over-audollar2000)<!-- GAME:END -->
+ - [World of Warships producer talks six years of high seas brawling](https://www.pcgamer.com/world-of-warships-producer-talks-six-years-of-high-seas-brawling)
+ - [Respawn says Titanfall 2 exploit that led to panicked uninstalls probably isn't that serious](https://www.pcgamer.com/respawn-says-titanfall-2-exploit-that-led-to-panicked-uninstalls-probably-isnt-serious)
+ - [Star Trek: Picard season 2 trailer: Q, the Borg Queen, and a totalitarian nightmare](https://www.polygon.com/22664055/star-trek-picard-season-2-trailer-release-date-q-borg-queen)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
