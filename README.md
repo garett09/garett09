@@ -180,9 +180,9 @@ Windows                  7 hrs 29 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best gaming chairs in 2021](https://www.pcgamer.com/best-gaming-chairs)
- - [Asus is issuing BIOS updates to support Windows 11 on unsupported Intel CPUs](https://www.pcgamer.com/asus-is-issuing-bios-updates-to-support-windows-11-on-unsupported-intel-cpus)
- - [The Latest Nintendo Lego Set Is A Super Mario 64 Block](https://kotaku.com/the-latest-nintendo-lego-set-is-super-mario-64-block-1847641712)<!-- GAME:END -->
+ - [Watch Sony’s PlayStation Showcase 2021](https://www.polygon.com/2021/9/9/22661599/playstation-showcase-2021-september-date-time-watch-ps5-games)
+ - [The Matrix 4 trailer finds Keanu Reeves lost in a new simulation](https://www.polygon.com/22640030/matrix-4-trailer-resurrections-release-date)
+ - [The best gaming chairs in 2021](https://www.pcgamer.com/best-gaming-chairs)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
