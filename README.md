@@ -180,9 +180,9 @@ Windows                  7 hrs 29 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Here's an RTX 3060 gaming laptop with 165Hz display for just over AU$2,000](https://www.pcgamer.com/heres-an-rtx-3060-gaming-laptop-with-165hz-display-for-just-over-audollar2000)
  - [Star Trek: Strange New Worlds teaser reveals returning characters from The Original Series](https://www.polygon.com/22663277/star-trek-strange-new-worlds-cast-uhura-original-series-prequel)
- - [Forza Horizon 5 has 426 cars and counting](https://www.pcgamer.com/forza-horizon-5-has-426-cars-and-counting)
- - [How to spoil the mole's sabotage attempt in Fortnite](https://www.pcgamer.com/spoil-the-moles-sabotage-attempt-fortnite)<!-- GAME:END -->
+ - [Forza Horizon 5 has 426 cars and counting](https://www.pcgamer.com/forza-horizon-5-has-426-cars-and-counting)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
