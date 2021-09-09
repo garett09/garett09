@@ -194,7 +194,7 @@ Windows                  7 hrs 29 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Throwback to the days when Nokia really was innovating](http://9gag.com/gag/av5M96n)
+ - 🚖 [Taking photos with a phone from 2009](http://9gag.com/gag/aeAnWXj)
  - 🚯 [Chickachickachickaaaaa](http://9gag.com/gag/a273Goe)
  - 🚯 [Are you an Xbox gamer? Win the latest Xbox Series X from us! Tap to know more](http://9gag.com/gag/aP3EeRG)<!-- MEMES:END -->
 
