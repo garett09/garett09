@@ -187,9 +187,9 @@ Windows                  7 hrs 29 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Epic is shutting down Houseparty](https://www.theverge.com/2021/9/9/22663531/epic-games-shutting-down-houseparty-october)
- - [Epic Games to shut down Houseparty in October, including the video chat ‘Fortnite Mode’ feature](http://feedproxy.google.com/~r/Techcrunch/~3/bnuMFCp5lzA/)
- - [Some of the biggest names in private equity think this go-go market has another year or two (at least)](http://feedproxy.google.com/~r/Techcrunch/~3/hWxt6ymduA4/)<!-- TECH:END -->
+ - [Box wins proxy board battle with activist investor Starboard Value](http://feedproxy.google.com/~r/Techcrunch/~3/zxT8WKe8syw/)
+ - [California Passes Warehouse Worker Bill, Taking Aim at Amazon](https://www.wired.com/story/california-senate-passes-warehouse-workers-bill-taking-aim-at-amazon)
+ - [Sources: Apple has appointed longtime Apple Watch and Health software chief Kevin Lynch as the new head of its Apple Car project after Doug Field's departure (Mark Gurman/Bloomberg)](http://www.techmeme.com/210909/p35#a210909p35)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
