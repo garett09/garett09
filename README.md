@@ -194,8 +194,8 @@ Windows                  7 hrs 29 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Golden sunset](http://9gag.com/gag/aqjPDEj)
- - 🚯 [Regular day in India](http://9gag.com/gag/apN4Ymp)
+ - 🚖 [I hope you can find a girl who genuinely looks at you and listen everything you say](http://9gag.com/gag/aK6QOxO)
+ - 🚯 [Yeah it&#039;s cool and all but it looks like a pain to sheathe and unsheathe](http://9gag.com/gag/anQmGqn)
  - 🚯 [Are you an Xbox gamer? Win the latest Xbox Series X from us! Tap to know more](http://9gag.com/gag/aP3EeRG)<!-- MEMES:END -->
 
 --- 
