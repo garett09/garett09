@@ -180,9 +180,9 @@ Windows                  7 hrs 29 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [AI Gives Dark Souls Characters More Realistic Faces](https://kotaku.com/ai-gives-dark-souls-characters-more-realistic-faces-1847640398)
- - [Where to place warning signs in Fortnite](https://www.pcgamer.com/place-warning-signs-fortnite)
- - [Rainbow Six Siege finally stops punishing players for winning against cheaters](https://www.pcgamer.com/rainbow-six-siege-finally-stops-punishing-players-for-winning-against-cheaters)<!-- GAME:END -->
+ - [Forza Horizon 5 has 426 cars and counting](https://www.pcgamer.com/forza-horizon-5-has-426-cars-and-counting)
+ - [How to spoil the mole's sabotage attempt in Fortnite](https://www.pcgamer.com/spoil-the-moles-sabotage-attempt-fortnite)
+ - [AI Gives Dark Souls Characters More Realistic Faces](https://kotaku.com/ai-gives-dark-souls-characters-more-realistic-faces-1847640398)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
