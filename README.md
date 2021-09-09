@@ -194,7 +194,7 @@ Windows                  7 hrs 29 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The age of men is over](http://9gag.com/gag/aGpm6pz)
+ - 🚖 [This does not sparks joy. Movie will be still good I&#039;m sure.](http://9gag.com/gag/a5EO9eg)
  - 🚯 [Natalie Portman looking completely lost at a football game](http://9gag.com/gag/aoMvAng)
  - 🚯 [How?](http://9gag.com/gag/av5M4bM)<!-- MEMES:END -->
 
