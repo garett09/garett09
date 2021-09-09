@@ -194,9 +194,9 @@ Windows                  7 hrs 29 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I handle finely processed beef using state-of-the-art kitchen ware in a tier one food industry.](http://9gag.com/gag/aXoydj9)
- - 🚯 [They build the mall around the car, obviously](http://9gag.com/gag/a6E08GR)
- - 🚯 [Its so hard to get it inside.](http://9gag.com/gag/aeAndpB)<!-- MEMES:END -->
+ - 🚖 [Nice place mate!](http://9gag.com/gag/aAb8me9)
+ - 🚯 [Its so hard to get it inside.](http://9gag.com/gag/aeAndpB)
+ - 🚯 [I handle finely processed beef using state-of-the-art kitchen ware in a tier one food industry.](http://9gag.com/gag/aXoydj9)<!-- MEMES:END -->
 
 --- 
 
