@@ -187,9 +187,9 @@ Windows                  7 hrs 29 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [We asked, you told us: Modular smartphones are still on your radar](https://www.androidauthority.com/modular-smartphone-poll-results-3018303/)
- - [Google Photos will now ship individual prints directly to your door](https://www.theverge.com/2021/9/9/22664283/google-photos-prints-shipping-photographs-printing)
- - [Microsoft will let you control an Xbox with a TV remote soon](https://www.theverge.com/2021/9/9/22664260/microsoft-xbox-tv-remote-control-testing)<!-- TECH:END -->
+ - [UK network Three joins EE and Vodafone in adding a &pound;2/day charge for EU roaming starting May 2022; O2 will offer free EU roaming as an add-on for some plans (Tim Hardwick/MacRumors)](http://www.techmeme.com/210909/p9#a210909p9)
+ - [Brazil's Jair Bolsonaro temporarily bans social media companies from removing accounts and content that violate their rules, ahead of a presidential election (Jack Nicas/New York Times)](http://www.techmeme.com/210909/p8#a210909p8)
+ - [Xiaomi Mi 360 Home Security Camera 2K Pro review: All-round security and value](https://www.androidauthority.com/xiaomi-mi-360-home-security-camera-2k-pro-review-2739323/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
