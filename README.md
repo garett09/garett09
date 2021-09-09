@@ -180,9 +180,9 @@ Windows                  7 hrs 29 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to take a screenshot on PC](https://www.pcgamer.com/how-to-take-a-screenshot-on-a-pc)
- - [Hardspace: Shipbreaker's Act 2 update finally gives you a home in the stars](https://www.pcgamer.com/hardspace-shipbreakers-act-2-update-finally-gives-you-a-home-in-the-stars)
- - [The Meaning Of Kawaii](https://kotaku.com/the-meaning-of-kawaii-1847641571)<!-- GAME:END -->
+ - [The Latest Nintendo Lego Set Is A Super Mario 64 Block](https://kotaku.com/the-latest-nintendo-lego-set-is-super-mario-64-block-1847641712)
+ - [Players use Microsoft Flight Simulator to fly through Hurricane Ida in real time](https://www.pcgamer.com/players-use-microsoft-flight-simulator-to-fly-through-hurricane-ida-in-real-time)
+ - [How to take a screenshot on PC](https://www.pcgamer.com/how-to-take-a-screenshot-on-a-pc)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
