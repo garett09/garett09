@@ -194,9 +194,9 @@ Windows                  7 hrs 29 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Chickachickachickaaaaa](http://9gag.com/gag/a273Goe)
- - 🚯 [Its so hard to get it inside.](http://9gag.com/gag/aeAndpB)
- - 🚯 [Holli shit](http://9gag.com/gag/aZ06v06)<!-- MEMES:END -->
+ - 🚖 [Dad joke](http://9gag.com/gag/a6E0xM2)
+ - 🚯 [Holli shit](http://9gag.com/gag/aZ06v06)
+ - 🚯 [Elephant has had enough](http://9gag.com/gag/a07rx5B)<!-- MEMES:END -->
 
 --- 
 
