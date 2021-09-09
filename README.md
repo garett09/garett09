@@ -187,9 +187,9 @@ Windows                  7 hrs 29 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lego’s latest Mario collaboration is a big question mark block](https://www.theverge.com/2021/9/9/22664708/lego-mario-64-question-mark-block)
- - [Facebook & Ray-Ban 'smart glasses' leak hours before announcement](https://appleinsider.com/articles/21/09/09/facebook-ray-ban-smart-glasses-leak-hours-before-announcement?utm_medium=rss)
- - [Security researchers say Apple's bug bounty program is undermined by Apple's insular culture, confusion about payments, and long delays in fixing bugs (Reed Albergotti/Washington Post)](http://www.techmeme.com/210909/p26#a210909p26)<!-- TECH:END -->
+ - [How to configure App Tracking Transparency in iOS and iPadOS](https://appleinsider.com/articles/21/07/20/how-to-configure-app-tracking-transparency-in-ios-and-ipados?utm_medium=rss)
+ - [California advances bill targeting Amazon labor algorithms](https://www.theverge.com/2021/9/9/22664846/amazon-labor-algorithms-warehouse-newsom-california-senate)
+ - [Down the rabbit hole: How Apple brought 'Matrix Resurrection' to our pocket](https://appleinsider.com/articles/21/09/09/down-the-rabbit-hole-how-apple-brought-matrix-resurrection-to-our-pocket?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
