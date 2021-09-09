@@ -194,9 +194,9 @@ Windows                  7 hrs 29 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [EsreveR](http://9gag.com/gag/aXoyGqb)
- - 🚯 [Let this be the World Cup 2022 anthem](http://9gag.com/gag/awME83x)
- - 🚯 [Mr. Anderson](http://9gag.com/gag/apN4zRp)<!-- MEMES:END -->
+ - 🚖 [Let this be the World Cup 2022 anthem](http://9gag.com/gag/awME83x)
+ - 🚯 [EsreveR](http://9gag.com/gag/aXoyGqb)
+ - 🚯 [The staff at Unity Grove Elementary school gifted head custodian, Mr. Chris a car so he no longer has to walk to work. Little did they know it was his favorite type of car, and he was stunned to know that it was his!](http://9gag.com/gag/aoMvdox)<!-- MEMES:END -->
 
 --- 
 
