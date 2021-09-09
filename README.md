@@ -187,9 +187,9 @@ Windows                  7 hrs 29 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Supabase, an open source alternative to Google's Firebase that automates parts of developers' backend work, raises $30M Series A (Greg Kumparak/TechCrunch)](http://www.techmeme.com/210909/p32#a210909p32)
- - [ESPN, ABC News apps to end third-generation Apple TV support in October](https://appleinsider.com/articles/21/09/09/espn-abc-news-apps-to-end-third-generation-apple-tv-support-in-october?utm_medium=rss)
- - [Save 43% on the Lenovo P11 Pro, and more great tablet deals](https://www.androidauthority.com/best-tablet-deals-1117141/)<!-- TECH:END -->
+ - [GM extends Chevy Bolt EV production shutdown another two weeks](http://feedproxy.google.com/~r/Techcrunch/~3/eznlkQQVLjg/)
+ - [The best Metro by T-Mobile deals](https://www.androidauthority.com/best-metropcs-deals-843748/)
+ - [Sources: Facebook is developing a ML chip for tasks such as recommending content to users and a data center chip to improve video transcoding (Wayne Ma/The Information)](http://www.techmeme.com/210909/p33#a210909p33)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
