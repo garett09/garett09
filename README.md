@@ -194,9 +194,9 @@ Windows                  7 hrs 29 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Dad joke](http://9gag.com/gag/a6E0xM2)
- - 🚯 [Holli shit](http://9gag.com/gag/aZ06v06)
- - 🚯 [Elephant has had enough](http://9gag.com/gag/a07rx5B)<!-- MEMES:END -->
+ - 🚖 [Let this be the World Cup 2022 anthem](http://9gag.com/gag/awME83x)
+ - 🚯 [Cracking an agg over hot metal slab](http://9gag.com/gag/aV7pBRM)
+ - 🚯 [I laughed more than I should](http://9gag.com/gag/aRXbDD5)<!-- MEMES:END -->
 
 --- 
 
