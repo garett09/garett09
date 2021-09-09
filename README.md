@@ -194,9 +194,9 @@ Windows                  7 hrs 29 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How she shows her love](http://9gag.com/gag/a5EOyWg)
- - 🚯 [This will confuse some people](http://9gag.com/gag/ad8Gdd2)
- - 🚯 [Wait a minute](http://9gag.com/gag/aQoLNNz)<!-- MEMES:END -->
+ - 🚖 [EsreveR](http://9gag.com/gag/aXoyGqb)
+ - 🚯 [Let this be the World Cup 2022 anthem](http://9gag.com/gag/awME83x)
+ - 🚯 [Mr. Anderson](http://9gag.com/gag/apN4zRp)<!-- MEMES:END -->
 
 --- 
 
