@@ -180,9 +180,9 @@ Windows                  7 hrs 29 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Star Wars: Knights Of The Old Republic Gets PS5 Remake](https://kotaku.com/star-wars-knights-of-the-old-republic-gets-ps5-remake-1847646267)
- - [Star Wars: Knights of the Old Republic remake coming to PS5](https://www.polygon.com/22665129/kotor-star-wars-knights-of-the-old-republic-ps5-remake-release-date)
- - [Football Manager 2022 is coming to Xbox Game Pass for PC on day one](https://www.pcgamer.com/football-manager-2022-is-coming-to-xbox-game-pass-for-pc-on-day-one)<!-- GAME:END -->
+ - [Tchia: Creating a game inspired by New Caledonia](http://feedproxy.google.com/~r/PSBlog/~3/mcBgo7LpP1s/)
+ - [Tchia: Creating a game inspired by New Caledonia](https://blog.playstation.com/2021/09/09/tchia-creating-a-game-inspired-by-new-caledonia/)
+ - [Down the rabbit hole in Deathloop’s story trailer](http://feedproxy.google.com/~r/PSBlog/~3/by9DmS9Odd8/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
