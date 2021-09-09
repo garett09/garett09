@@ -194,9 +194,9 @@ Windows                  7 hrs 29 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Wait a minute](http://9gag.com/gag/aQoLNNz)
- - 🚯 [How she shows her love](http://9gag.com/gag/a5EOyWg)
- - 🚯 [EsreveR](http://9gag.com/gag/aXoyGqb)<!-- MEMES:END -->
+ - 🚖 [How she shows her love](http://9gag.com/gag/a5EOyWg)
+ - 🚯 [This will confuse some people](http://9gag.com/gag/ad8Gdd2)
+ - 🚯 [Wait a minute](http://9gag.com/gag/aQoLNNz)<!-- MEMES:END -->
 
 --- 
 
