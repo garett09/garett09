@@ -180,9 +180,9 @@ Windows                  7 hrs 29 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Crafting Shang-Chi’s subtitles was a ‘big learning experience,’ says director](https://www.polygon.com/interviews/22664733/shang-chi-subtitles-language-chinese-english-translation)
- - [Twitch Streamer Under Fire By Genshin Impact Fans Over Anti-Chinese Tirade](https://kotaku.com/twitch-streamer-under-fire-by-genshin-impact-fans-over-1847644771)
- - [31-disc Lord of the Rings 4K Blu-ray box set is the most Lord of the Rings yet](https://www.polygon.com/22664926/lord-of-the-rings-4k-blu-ray-box-set-hobbit-middle-earth-ultimate-collectors-edition)<!-- GAME:END -->
+ - [Chinese Gaming Giants Lose Eight Bethesdas In Value Amid Government Crackdown](https://kotaku.com/chinese-gaming-giants-lose-eight-bethesdas-in-value-ami-1847645323)
+ - [Alan Wake Remastered screenshots leak, make Alan look even more handsome](https://www.pcgamer.com/alan-wake-remastered-screenshots-leaked)
+ - [Despite Hype, Former Skyrim Mod The Forgotten City Is Kind Of A Mess](https://kotaku.com/despite-hype-former-skyrim-mod-the-forgotten-city-is-k-1847644698)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
