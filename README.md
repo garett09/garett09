@@ -180,9 +180,9 @@ Windows                  7 hrs 29 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Latest Nintendo Lego Set Is A Super Mario 64 Block](https://kotaku.com/the-latest-nintendo-lego-set-is-super-mario-64-block-1847641712)
- - [Players use Microsoft Flight Simulator to fly through Hurricane Ida in real time](https://www.pcgamer.com/players-use-microsoft-flight-simulator-to-fly-through-hurricane-ida-in-real-time)
- - [How to take a screenshot on PC](https://www.pcgamer.com/how-to-take-a-screenshot-on-a-pc)<!-- GAME:END -->
+ - [The best gaming chairs in 2021](https://www.pcgamer.com/best-gaming-chairs)
+ - [Asus is issuing BIOS updates to support Windows 11 on unsupported Intel CPUs](https://www.pcgamer.com/asus-is-issuing-bios-updates-to-support-windows-11-on-unsupported-intel-cpus)
+ - [The Latest Nintendo Lego Set Is A Super Mario 64 Block](https://kotaku.com/the-latest-nintendo-lego-set-is-super-mario-64-block-1847641712)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
