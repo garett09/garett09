@@ -187,9 +187,9 @@ Windows                  7 hrs 29 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android 12’s Private Compute Services will go open-source to protect privacy](https://www.androidauthority.com/android-private-compute-services-3018782/)
- - [Mad Max: Fury Road’s iconic fleet of post-apocalyptic War Rigs are up for auction](https://www.theverge.com/2021/9/9/22665111/mad-max-fury-road-auction-war-rig-doof-wagon)
- - [Compared: Samsung Galaxy Buds 2 versus AirPods and AirPods Pro](https://appleinsider.com/articles/21/09/09/compared-samsung-galaxy-buds-2-versus-airpods-and-airpods-pro?utm_medium=rss)<!-- TECH:END -->
+ - [Epic is shutting down Houseparty](https://www.theverge.com/2021/9/9/22663531/epic-games-shutting-down-houseparty-october)
+ - [Epic Games to shut down Houseparty in October, including the video chat ‘Fortnite Mode’ feature](http://feedproxy.google.com/~r/Techcrunch/~3/bnuMFCp5lzA/)
+ - [Some of the biggest names in private equity think this go-go market has another year or two (at least)](http://feedproxy.google.com/~r/Techcrunch/~3/hWxt6ymduA4/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
