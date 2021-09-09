@@ -187,9 +187,9 @@ Windows                  7 hrs 29 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Munich- and Beijing-based robotics startup Agile Robots, which will work with Foxconn, raises $220M led by SoftBank, source says at a ~$1B post-money valuation (Shai Oster/The Information)](http://www.techmeme.com/210909/p15#a210909p15)
- - [Scalapay raises $155M at a $700M valuation as buy-now, pay-later services continue to boom](http://feedproxy.google.com/~r/Techcrunch/~3/7tXP6_Zsm6s/)
- - [China not issuing new game licenses, may impact App Store earnings](https://appleinsider.com/articles/21/09/09/china-not-issuing-new-game-licenses-may-impact-app-store-earnings?utm_medium=rss)<!-- TECH:END -->
+ - ['iPhone 13' colors & storage capacities may have been leaked by retailer](https://appleinsider.com/articles/21/09/09/iphone-13-colors-storage-capacities-may-have-been-leaked-by-retailer?utm_medium=rss)
+ - [Milan-based buy now, pay later service Scalapay raises $155M Series A led by Tiger Global (Dan Taylor/Tech.eu)](http://www.techmeme.com/210909/p16#a210909p16)
+ - [Munich- and Beijing-based robotics startup Agile Robots, which will work with Foxconn, raises $220M led by SoftBank, source says at a ~$1B post-money valuation (Shai Oster/The Information)](http://www.techmeme.com/210909/p15#a210909p15)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
