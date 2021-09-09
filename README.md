@@ -187,9 +187,9 @@ Windows                  7 hrs 29 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [20 Years After 9/11, Surveillance Has Become a Way of Life](https://www.wired.com/story/20-years-after-911-surveillance-has-become-a-way-of-life)
- - [9 PC Games You Can Play Forever](https://www.wired.com/gallery/best-pc-games-to-play-forever)
- - [Teeny-Tiny Talking Mice Have Taken Over Games](https://www.wired.com/story/lilliputian-tiny-people-mice-board-games)<!-- TECH:END -->
+ - [Apple may have solved bending batteries for the folding iPhone](https://appleinsider.com/articles/21/09/09/apple-may-have-solved-bending-batteries-for-the-folding-iphone?utm_medium=rss)
+ - [Canadian startup Nuula, which offers app-based financial services for SMBs, raises $20M equity and a $100M credit facility (Ingrid Lunden/TechCrunch)](http://www.techmeme.com/210909/p11#a210909p11)
+ - [Xiaomi says its upcoming 11T flagship series will get three years of OS updates and four years of security updates, matching Samsung and Google (Damien Wilde/9to5Google)](http://www.techmeme.com/210909/p10#a210909p10)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
