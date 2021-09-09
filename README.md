@@ -180,9 +180,9 @@ Windows                  7 hrs 29 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Matrix Resurrections trailer is cool as hell](https://www.pcgamer.com/choose-your-pill-and-see-some-clips-in-the-new-matrix-resurrections-teaser-site)
- - [Abandoned Star Trek Games Finally Playable Again](https://kotaku.com/abandoned-star-trek-games-finally-playable-again-1847643234)
- - [Marvel's Avengers needs to be put out of its misery](https://www.pcgamer.com/marvels-avengers-needs-to-be-put-out-of-its-misery)<!-- GAME:END -->
+ - [Pokémon Sword and Shield’s most elusive Pokémon caught in just 10,679 tries](https://www.polygon.com/22664591/pokemon-sword-shield-nintendo-switch-shiny-hunting-sinistea)
+ - [WarioWare: Get it Together!'s best microgame is literally Super Mario World](https://www.polygon.com/wario/22664707/warioware-get-it-together-super-mario-world-boss-level-microgame-wario)
+ - [Bethesda Un-Delays Fallout 76 Expansion After Refund Debacle](https://kotaku.com/bethesda-un-delays-fallout-76-expansion-after-refund-de-1847643483)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
