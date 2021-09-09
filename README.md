@@ -194,8 +194,8 @@ Windows                  7 hrs 29 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Chickachickachickaaaaa](http://9gag.com/gag/a273Goe)
- - 🚯 [Employees :No mask no entry Meanwhile literally all employees inside :](http://9gag.com/gag/a4EXwwp)
+ - 🚖 [They build the mall around the car, obviously](http://9gag.com/gag/a6E08GR)
+ - 🚯 [Golden sunset](http://9gag.com/gag/aqjPDEj)
  - 🚯 [Are you an Xbox gamer? Win the latest Xbox Series X from us! Tap to know more](http://9gag.com/gag/aP3EeRG)<!-- MEMES:END -->
 
 --- 
