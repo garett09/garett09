@@ -194,8 +194,8 @@ Windows                  7 hrs 29 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Yep, that&#039;s volume measurement in the U.S.](http://9gag.com/gag/aXoyGVd)
- - 🚯 [How?](http://9gag.com/gag/av5M4bM)
+ - 🚖 [How to discover what&#039;s been eating your chickens](http://9gag.com/gag/ayMbZjV)
+ - 🚯 [This is what you are paying for](http://9gag.com/gag/aB2AjWN)
  - 🚯 [Natalie Portman looking completely lost at a football game](http://9gag.com/gag/aoMvAng)<!-- MEMES:END -->
 
 --- 
