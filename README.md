@@ -180,9 +180,9 @@ Windows                  7 hrs 29 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Free Play Days – Madden NFL 22, Tom Clancy’s Rainbow Six Siege, and Blasphemous](https://news.xbox.com/en-us/2021/09/09/free-play-days-madden-22-rainbow-six-siege-and-blasphemous/)
  - [World of Warships producer talks six years of high seas brawling](https://www.pcgamer.com/world-of-warships-producer-talks-six-years-of-high-seas-brawling)
- - [Respawn says Titanfall 2 exploit that led to panicked uninstalls probably isn't that serious](https://www.pcgamer.com/respawn-says-titanfall-2-exploit-that-led-to-panicked-uninstalls-probably-isnt-serious)
- - [Star Trek: Picard season 2 trailer: Q, the Borg Queen, and a totalitarian nightmare](https://www.polygon.com/22664055/star-trek-picard-season-2-trailer-release-date-q-borg-queen)<!-- GAME:END -->
+ - [Respawn says Titanfall 2 exploit that led to panicked uninstalls probably isn't that serious](https://www.pcgamer.com/respawn-says-titanfall-2-exploit-that-led-to-panicked-uninstalls-probably-isnt-serious)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
