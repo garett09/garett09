@@ -187,9 +187,9 @@ Windows                  7 hrs 29 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Facebook launches $299 Ray-Ban Stories smart glasses](https://appleinsider.com/articles/21/09/09/facebook-launches-299-ray-ban-stories-smart-glasses?utm_medium=rss)
- - [The Marvel Unlimited comics app just got a major overhaul](http://feedproxy.google.com/~r/Techcrunch/~3/L6ZS68MoV0Q/)
- - [Plentywaka founder Onyeka Akumah on African startups and global expansion](http://feedproxy.google.com/~r/Techcrunch/~3/d_XrLl8XcRw/)<!-- TECH:END -->
+ - [ESPN, ABC News apps to end third-generation Apple TV support in October](https://appleinsider.com/articles/21/09/09/espn-abc-news-apps-to-end-third-generation-apple-tv-support-in-october?utm_medium=rss)
+ - [Save 43% on the Lenovo P11 Pro, and more great tablet deals](https://www.androidauthority.com/best-tablet-deals-1117141/)
+ - [Source: JPMorgan Chase is acquiring The Infatuation, a restaurant discovery service that bought Zagat from Google in 2018 (Wall Street Journal)](http://www.techmeme.com/210909/p31#a210909p31)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
