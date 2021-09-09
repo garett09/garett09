@@ -187,9 +187,9 @@ Windows                  7 hrs 29 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Only 10% iPhone owners plan upgrade to 'iPhone 13,' poll finds](https://appleinsider.com/articles/21/09/08/only-10-iphone-owners-plan-upgrade-to-iphone-13-poll-finds?utm_medium=rss)
- - [Sub-display Face ID again tipped for 'iPhone 14'](https://appleinsider.com/articles/21/09/08/sub-display-face-id-again-tipped-for-iphone-14?utm_medium=rss)
- - [Nerf Hyper review: where the rubber meets the foam](https://www.theverge.com/2021/9/8/22663549/nerf-hyper-rush-40-siege-50-mach-100-review)<!-- TECH:END -->
+ - [Documents show Microsoft and AWS secured contracts, worth $50M total, that appear linked to the Pentagon's Project Maven, following Google's exit (Thomas Brewster/Forbes)](http://www.techmeme.com/210908/p30#a210908p30)
+ - [Sequoia’s Pat Grady says it isn’t clear startups “should be accelerating” right now — here’s why](http://feedproxy.google.com/~r/Techcrunch/~3/mheVcNRLdo4/)
+ - [Apple supplier working with medtech firms to advance non-invasive health tech](https://appleinsider.com/articles/21/09/08/apple-supplier-working-with-medtech-firms-to-advance-non-invasive-health-monitoring-tech?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
