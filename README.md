@@ -194,9 +194,9 @@ Windows                  7 hrs 29 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Taking photos with a phone from 2009](http://9gag.com/gag/aeAnWXj)
- - 🚯 [Chickachickachickaaaaa](http://9gag.com/gag/a273Goe)
- - 🚯 [Are you an Xbox gamer? Win the latest Xbox Series X from us! Tap to know more](http://9gag.com/gag/aP3EeRG)<!-- MEMES:END -->
+ - 🚖 [Chickachickachickaaaaa](http://9gag.com/gag/a273Goe)
+ - 🚯 [Its so hard to get it inside.](http://9gag.com/gag/aeAndpB)
+ - 🚯 [Holli shit](http://9gag.com/gag/aZ06v06)<!-- MEMES:END -->
 
 --- 
 
