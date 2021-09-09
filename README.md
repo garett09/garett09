@@ -180,9 +180,9 @@ Windows                  7 hrs 29 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Punch this Lego Mario question mark block to open new worlds](https://www.polygon.com/22664606/lego-mario-question-mark-block-64-worlds-trailer)
- - [New World: 11 tips to get you started](https://www.pcgamer.com/new-world-guide-tips)
- - [Titanfall 2 Hacking Rumor Blown Out Of Proportion, Respawn Says](https://kotaku.com/titanfall-2-hacking-rumor-blown-out-of-proportion-resp-1847643027)<!-- GAME:END -->
+ - [The Matrix Resurrections trailer is cool as hell](https://www.pcgamer.com/choose-your-pill-and-see-some-clips-in-the-new-matrix-resurrections-teaser-site)
+ - [Abandoned Star Trek Games Finally Playable Again](https://kotaku.com/abandoned-star-trek-games-finally-playable-again-1847643234)
+ - [Marvel's Avengers needs to be put out of its misery](https://www.pcgamer.com/marvels-avengers-needs-to-be-put-out-of-its-misery)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
