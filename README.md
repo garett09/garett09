@@ -194,9 +194,9 @@ Windows                  7 hrs 29 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Taking photos with a phone from 2009](http://9gag.com/gag/aeAnWXj)
- - 🚯 [Elephant has had enough](http://9gag.com/gag/a07rx5B)
- - 🚯 [EsreveR](http://9gag.com/gag/aXoyGqb)<!-- MEMES:END -->
+ - 🚖 [Women&#039;s and men&#039;s football](http://9gag.com/gag/aAb8ZvR)
+ - 🚯 [Yep, that&#039;s volume measurement in the U.S.](http://9gag.com/gag/aXoyGVd)
+ - 🚯 [Dad joke](http://9gag.com/gag/a6E0xM2)<!-- MEMES:END -->
 
 --- 
 
