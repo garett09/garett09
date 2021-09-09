@@ -194,9 +194,9 @@ Windows                  7 hrs 29 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Nice place mate!](http://9gag.com/gag/aAb8me9)
+ - 🚖 [Taking photos with a phone from 2009](http://9gag.com/gag/aeAnWXj)
  - 🚯 [Elephant has had enough](http://9gag.com/gag/a07rx5B)
- - 🚯 [Taking photos with a phone from 2009](http://9gag.com/gag/aeAnWXj)<!-- MEMES:END -->
+ - 🚯 [EsreveR](http://9gag.com/gag/aXoyGqb)<!-- MEMES:END -->
 
 --- 
 
