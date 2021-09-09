@@ -180,9 +180,9 @@ Windows                  7 hrs 29 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Ghostwire: Tokyo trailer turns Shibuya into a Slender Man-infested hellhole](https://www.pcgamer.com/ghostwire-tokyo-trailer)
- - [PlayStation Showcase 2021: The biggest announcements](https://www.polygon.com/22665457/playstation-showcase-2021-biggest-announcements-trailers)
- - [A SpongeBob SquarePants meme made it into Nickelodeon All-Star Brawl](https://www.polygon.com/22665321/meme-spongebob-squarepants-nickelodeon-all-star-brawl-fighting-game)<!-- GAME:END -->
+ - [Deathloop shows how you can make enemies look like doofuses in new trailer](https://www.pcgamer.com/deathloop-shows-how-you-can-make-enemies-look-like-doofuses-in-new-trailer)
+ - [That Ukulele At The Sony Event Looked Mighty Familiar](https://kotaku.com/that-ukulele-at-the-sony-event-looked-mighty-familiar-1847647335)
+ - [Ghostwire: Tokyo trailer turns Shibuya into a Slender Man-infested hellhole](https://www.pcgamer.com/ghostwire-tokyo-trailer)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
