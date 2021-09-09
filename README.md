@@ -187,9 +187,9 @@ Windows                  7 hrs 29 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon introduces the Fire TV Stick 4K Max, its new flagship streaming device, with WiFi 6 and faster performance, for $55, shipping October 7 (Chris Welch/The Verge)](http://www.techmeme.com/210909/p19#a210909p19)
- - [Tinder adds a new home for interactive, social features with launch of Tinder Explore](http://feedproxy.google.com/~r/Techcrunch/~3/tw5-Pz0o1A8/)
- - [Twitter begins testing emoji reactions to tweets, starting with five options, in Turkey on iOS and Android for a limited time (Amanda Silberling/TechCrunch)](http://www.techmeme.com/210909/p18#a210909p18)<!-- TECH:END -->
+ - [The lawyers have heard about M1 MacBook Pro cracked screen reports](https://appleinsider.com/articles/21/09/09/the-lawyers-have-heard-about-m1-macbook-pro-cracked-screen-reports?utm_medium=rss)
+ - [iPhone 13 colors & storage capacities may have been leaked by retailer](https://appleinsider.com/articles/21/09/09/iphone-13-colors-storage-capacities-may-have-been-leaked-by-retailer?utm_medium=rss)
+ - [Apple now looking to tackle car manufacture by itself](https://appleinsider.com/articles/21/09/09/apple-now-looking-to-tackle-car-manufacture-by-itself?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
