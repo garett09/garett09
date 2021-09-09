@@ -194,9 +194,9 @@ Windows                  7 hrs 29 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Women&#039;s and men&#039;s football](http://9gag.com/gag/aAb8ZvR)
- - 🚯 [Yep, that&#039;s volume measurement in the U.S.](http://9gag.com/gag/aXoyGVd)
- - 🚯 [Dad joke](http://9gag.com/gag/a6E0xM2)<!-- MEMES:END -->
+ - 🚖 [Dad joke](http://9gag.com/gag/a6E0xM2)
+ - 🚯 [Incredible india](http://9gag.com/gag/agBDZA6)
+ - 🚯 [How she shows her love](http://9gag.com/gag/a5EOyWg)<!-- MEMES:END -->
 
 --- 
 
