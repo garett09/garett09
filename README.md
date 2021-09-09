@@ -194,9 +194,9 @@ Windows                  7 hrs 29 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Natalie Portman looking completely lost at a football game](http://9gag.com/gag/aoMvAng)
- - 🚯 [Incredible india](http://9gag.com/gag/agBDZA6)
- - 🚯 [This palace in berlin (demolished in 2006) was so advanced](http://9gag.com/gag/abVNKbL)<!-- MEMES:END -->
+ - 🚖 [This palace in berlin (demolished in 2006) was so advanced](http://9gag.com/gag/abVNKbL)
+ - 🚯 [Wait a minute](http://9gag.com/gag/aQoLNNz)
+ - 🚯 [Natalie Portman looking completely lost at a football game](http://9gag.com/gag/aoMvAng)<!-- MEMES:END -->
 
 --- 
 
