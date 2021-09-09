@@ -187,9 +187,9 @@ Windows                  7 hrs 29 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft says it has now fixed a flaw that could have allowed hackers to access data of some Azure customers; Palo Alto Networks reported the flaw in July (Joseph Menn/Reuters)](http://www.techmeme.com/210909/p1#a210909p1)
- - [Only 10% iPhone owners plan upgrade to 'iPhone 13,' poll finds](https://appleinsider.com/articles/21/09/08/only-10-iphone-owners-plan-upgrade-to-iphone-13-poll-finds?utm_medium=rss)
- - [The newest Roomba gets smarter as it vacuums](http://feedproxy.google.com/~r/Techcrunch/~3/V4rvuSTc41s/)<!-- TECH:END -->
+ - [Apple customers increasingly attached to brand during COVID](https://appleinsider.com/articles/21/09/09/apples-customers-grew-increasingly-attached-to-brand-during-covid?utm_medium=rss)
+ - [Pixel 6 appears in flesh in Google’s ad, Instagram promo hints at launch date](https://www.androidauthority.com/google-pixel-6-in-hand-3018163/)
+ - [Investigation reveals how social media influencers in Kenya are hired to spread disinformation on Twitter against Kenyan journalists, judges, and activists (Odanga Madung/Wired)](http://www.techmeme.com/210909/p2#a210909p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
