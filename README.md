@@ -194,8 +194,8 @@ Windows                  7 hrs 29 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Natalie Portman looking completely lost at a football game](http://9gag.com/gag/aoMvAng)
- - 🚯 [The age of men is over](http://9gag.com/gag/aGpm6pz)
+ - 🚖 [The age of men is over](http://9gag.com/gag/aGpm6pz)
+ - 🚯 [Natalie Portman looking completely lost at a football game](http://9gag.com/gag/aoMvAng)
  - 🚯 [How?](http://9gag.com/gag/av5M4bM)<!-- MEMES:END -->
 
 --- 
