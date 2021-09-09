@@ -194,8 +194,8 @@ Windows                  7 hrs 29 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Men are so easily amused, I love it .](http://9gag.com/gag/aAb8Opo)
- - 🚯 [Help me Dr. Dick](http://9gag.com/gag/aV7pVGM)
+ - 🚖 [Help me Dr. Dick](http://9gag.com/gag/aV7pVGM)
+ - 🚯 [Have you ever wondered?](http://9gag.com/gag/aMKoqqG)
  - 🚯 [Are you an Xbox gamer? Win the latest Xbox Series X from us! Tap to know more](http://9gag.com/gag/aP3EeRG)<!-- MEMES:END -->
 
 --- 
