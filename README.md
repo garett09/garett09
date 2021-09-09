@@ -194,7 +194,7 @@ Windows                  7 hrs 29 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Somebodies that we used to know](http://9gag.com/gag/aK6QeOQ)
+ - 🚖 [Yeah it&#039;s cool and all but it looks like a pain to sheathe and unsheathe](http://9gag.com/gag/anQmGqn)
  - 🚯 [Help me Dr. Dick](http://9gag.com/gag/aV7pVGM)
  - 🚯 [Are you an Xbox gamer? Win the latest Xbox Series X from us! Tap to know more](http://9gag.com/gag/aP3EeRG)<!-- MEMES:END -->
 
