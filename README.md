@@ -187,9 +187,9 @@ Windows                  7 hrs 29 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Watch exec takes over secretive car project](https://www.theverge.com/2021/9/9/22665353/apple-watch-kevin-lync-project-titan-electric-car)
- - [Google and India’s Jio delay their smartphone launch](http://feedproxy.google.com/~r/Techcrunch/~3/wLZc2M4XdYI/)
- - [Investors are doubling down on Southeast Asia’s digital economy](http://feedproxy.google.com/~r/Techcrunch/~3/H8VonYkVKtQ/)<!-- TECH:END -->
+ - [DoNotPay’s ‘robot lawyer’ can now help report potholes or fallen trees to the city, file damage claims](http://feedproxy.google.com/~r/Techcrunch/~3/HHc8hrn6fG8/)
+ - [A number of playlist curators say Spotify is not addressing playlist abuse, letting bad actors report rivals to gain better visibility for their own playlists (Sarah Perez/TechCrunch)](http://www.techmeme.com/210909/p36#a210909p36)
+ - [Twitter introduces a new label that allows the ‘good bots’ to identify themselves](http://feedproxy.google.com/~r/Techcrunch/~3/5pVMwZLy21w/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
