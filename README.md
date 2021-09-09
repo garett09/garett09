@@ -180,9 +180,9 @@ Windows                  7 hrs 29 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Magic: The Gathering takes a dark turn with Innistrad: Midnight Hunt](https://www.polygon.com/22663142/magic-the-gathering-innistrad-midnight-hunt-preview-cards-blue-black-red)
- - [How Sifu's kung fu combat works, with 7 new video clips](https://www.pcgamer.com/sifu-gameplay-preview-video)
- - [Football Manager 2022 Launching Day One with Xbox Game Pass](https://news.xbox.com/en-us/2021/09/09/football-manager-2022-launching-day-one-with-xbox-game-pass/)<!-- GAME:END -->
+ - [Punch this Lego Mario question mark block to open new worlds](https://www.polygon.com/22664606/lego-mario-question-mark-block-64-worlds-trailer)
+ - [New World: 11 tips to get you started](https://www.pcgamer.com/new-world-guide-tips)
+ - [Titanfall 2 Hacking Rumor Blown Out Of Proportion, Respawn Says](https://kotaku.com/titanfall-2-hacking-rumor-blown-out-of-proportion-resp-1847643027)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
