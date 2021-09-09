@@ -187,9 +187,9 @@ Windows                  7 hrs 29 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Hackers leak a list of ~500K Fortinet VPN login names and passwords; a source in the IT security industry says at least some of the leaked credentials are valid (Lawrence Abrams/BleepingComputer)](http://www.techmeme.com/210909/p5#a210909p5)
  - [Realme’s first Android tablet has a massive battery but is no iPad competitor](https://www.androidauthority.com/realme-pad-3018290/)
- - [Xiaomi commits to extended Android updates, but there’s a catch](https://www.androidauthority.com/xiaomi-android-update-policy-2912689/)
- - [NYC police officers and critics describe the NYPD's growing use of post-9/11 digital surveillance tools, initially used for counterterrorism, in minor cases (Ali Watkins/New York Times)](http://www.techmeme.com/210909/p4#a210909p4)<!-- TECH:END -->
+ - [Apple AirPods 3 vs. AirPods Pro: The biggest differences we expect to see     - CNET](https://www.cnet.com/tech/mobile/apple-airpods-3-vs-airpods-pro-every-major-difference-expect-see/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
