@@ -187,9 +187,9 @@ Windows                  7 hrs 29 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - ['iPhone 13' colors & storage capacities may have been leaked by retailer](https://appleinsider.com/articles/21/09/09/iphone-13-colors-storage-capacities-may-have-been-leaked-by-retailer?utm_medium=rss)
- - [Milan-based buy now, pay later service Scalapay raises $155M Series A led by Tiger Global (Dan Taylor/Tech.eu)](http://www.techmeme.com/210909/p16#a210909p16)
- - [Munich- and Beijing-based robotics startup Agile Robots, which will work with Foxconn, raises $220M led by SoftBank, source says at a ~$1B post-money valuation (Shai Oster/The Information)](http://www.techmeme.com/210909/p15#a210909p15)<!-- TECH:END -->
+ - [League of Legends’ world championships will take place in Iceland](https://www.theverge.com/2021/9/9/22649691/league-of-legends-world-championships-2021-europe)
+ - [Apple’s leather AirTag loop drops to its lowest price yet at Amazon](https://www.theverge.com/good-deals/2021/9/9/22662055/apple-airtag-loop-hisense-4k-tv-asus-gaming-mouse-playstation-xbox-deal-sale)
+ - [Better.com acquires UK-based Property Partner ahead of SPAC close](http://feedproxy.google.com/~r/Techcrunch/~3/AhlvFjIyJ1A/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
