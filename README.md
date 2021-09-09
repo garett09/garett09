@@ -187,9 +187,9 @@ Windows                  7 hrs 29 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The lawyers have heard about M1 MacBook Pro cracked screen reports](https://appleinsider.com/articles/21/09/09/the-lawyers-have-heard-about-m1-macbook-pro-cracked-screen-reports?utm_medium=rss)
- - [iPhone 13 colors & storage capacities may have been leaked by retailer](https://appleinsider.com/articles/21/09/09/iphone-13-colors-storage-capacities-may-have-been-leaked-by-retailer?utm_medium=rss)
- - [Apple now looking to tackle car manufacture by itself](https://appleinsider.com/articles/21/09/09/apple-now-looking-to-tackle-car-manufacture-by-itself?utm_medium=rss)<!-- TECH:END -->
+ - [How to watch the PlayStation Showcase 2021](https://www.theverge.com/2021/9/9/22664376/playstation-ps5-games-showcase-how-to-watch-date-time)
+ - [Amazon announces its first self-made TVs as well as a Fire TV Stick 4K Max](https://www.androidauthority.com/amazon-fire-tv-omni-3018480/)
+ - [Amazon opens preorders for new Fire TV Stick 4K Max](https://appleinsider.com/articles/21/09/09/amazon-opens-preorders-for-new-fire-tv-stick-4k-max?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
