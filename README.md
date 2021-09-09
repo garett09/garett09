@@ -194,8 +194,8 @@ Windows                  7 hrs 29 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I hope you can find a girl who genuinely looks at you and listen everything you say](http://9gag.com/gag/aK6QOxO)
- - 🚯 [Yeah it&#039;s cool and all but it looks like a pain to sheathe and unsheathe](http://9gag.com/gag/anQmGqn)
+ - 🚖 [Sometimes a little caring can go a long way](http://9gag.com/gag/aO3MpGN)
+ - 🚯 [Employees :No mask no entry Meanwhile literally all employees inside :](http://9gag.com/gag/a4EXwwp)
  - 🚯 [Are you an Xbox gamer? Win the latest Xbox Series X from us! Tap to know more](http://9gag.com/gag/aP3EeRG)<!-- MEMES:END -->
 
 --- 
