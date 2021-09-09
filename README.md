@@ -180,9 +180,9 @@ Windows                  7 hrs 29 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Tchia: Creating a game inspired by New Caledonia](http://feedproxy.google.com/~r/PSBlog/~3/mcBgo7LpP1s/)
- - [Tchia: Creating a game inspired by New Caledonia](https://blog.playstation.com/2021/09/09/tchia-creating-a-game-inspired-by-new-caledonia/)
- - [Down the rabbit hole in Deathloop’s story trailer](http://feedproxy.google.com/~r/PSBlog/~3/by9DmS9Odd8/)<!-- GAME:END -->
+ - [All the news from PlayStation Showcase 2021](https://www.polygon.com/22662513/playstation-showcase-2021-live-stream-news-announcements-trailers)
+ - [Insomniac Games announces Wolverine game](https://www.polygon.com/22665398/wolverine-marvel-insomniac-games-playstation)
+ - [Back in the Spotlight: Alan Wake Returns in Alan Wake Remastered on October 5](https://news.xbox.com/en-us/2021/09/09/alan-wake-remastered-returns-october-5/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
