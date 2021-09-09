@@ -187,9 +187,9 @@ Windows                  7 hrs 29 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Documents show Microsoft and AWS secured contracts, worth $50M total, that appear linked to the Pentagon's Project Maven, following Google's exit (Thomas Brewster/Forbes)](http://www.techmeme.com/210908/p30#a210908p30)
- - [Sequoia’s Pat Grady says it isn’t clear startups “should be accelerating” right now — here’s why](http://feedproxy.google.com/~r/Techcrunch/~3/mheVcNRLdo4/)
- - [Apple supplier working with medtech firms to advance non-invasive health tech](https://appleinsider.com/articles/21/09/08/apple-supplier-working-with-medtech-firms-to-advance-non-invasive-health-monitoring-tech?utm_medium=rss)<!-- TECH:END -->
+ - [Android 12’s last beta brings a few makeovers and new widgets](https://www.theverge.com/2021/9/8/22663710/android-12-beta-5-ui-updates-features-clock-widgets-search-bar-calculator)
+ - [FOIA records show Google settled with a software engineer allegedly fired for his workplace activism in 2019; settlement was approved in July by the NLRB (Josh Eidelson/Bloomberg)](http://www.techmeme.com/210908/p31#a210908p31)
+ - [Evander Holyfield vs. Vitor Belfort: How to watch, start time, Donald Trump commentary     - CNET](https://www.cnet.com/news/evander-holyfield-vs-vitor-belfort-how-to-watch-start-time-donald-trump-commentary/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
