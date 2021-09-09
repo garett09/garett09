@@ -187,9 +187,9 @@ Windows                  7 hrs 29 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [HBO Max to launch in six European countries on Oct. 26](https://appleinsider.com/articles/21/09/09/hbo-max-to-launch-in-six-european-countries-on-oct-26?utm_medium=rss)
- - [Tim Berners-Lee joins Proton board in privacy advisory role, amid privacy backlash at ProtonMail, which disclosed an activist's IP address to Swiss authorities (Gareth Halfacree/The Register)](http://www.techmeme.com/210908/p33#a210908p33)
- - [Aviva Links, which aims to make chips to enable low-latency data-sharing in connected cars, raises $26.5M Series A led by Marvell Technology's founders (Mike Wheatley/SiliconANGLE)](http://www.techmeme.com/210908/p32#a210908p32)<!-- TECH:END -->
+ - [Only 10% iPhone owners plan upgrade to 'iPhone 13,' poll finds](https://appleinsider.com/articles/21/09/08/only-10-iphone-owners-plan-upgrade-to-iphone-13-poll-finds?utm_medium=rss)
+ - [The newest Roomba gets smarter as it vacuums](http://feedproxy.google.com/~r/Techcrunch/~3/V4rvuSTc41s/)
+ - [iRobot’s newest Roomba uses AI to avoid dog poop](https://www.theverge.com/2021/9/9/22660467/irobot-roomba-ai-dog-poop-avoidance-j7-specs-price)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
