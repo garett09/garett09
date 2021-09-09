@@ -187,9 +187,9 @@ Windows                  7 hrs 29 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tim Berners-Lee joins Proton board in privacy advisory role, amid privacy backlash at ProtonMail, which disclosed an activist's IP address to Swiss authorities (Gareth Halfacree/The Register)](http://www.techmeme.com/210908/p33#a210908p33)
  - [Aviva Links, which aims to make chips to enable low-latency data-sharing in connected cars, raises $26.5M Series A led by Marvell Technology's founders (Mike Wheatley/SiliconANGLE)](http://www.techmeme.com/210908/p32#a210908p32)
- - [Xbox controller update delivers improved iPhone connectivity with iOS 15](https://appleinsider.com/articles/21/09/09/xbox-controller-update-delivers-improved-iphone-connectivity-with-ios-15?utm_medium=rss)
- - [All 20 horror titles Netflix is releasing across Halloween     - CNET](https://www.cnet.com/news/all-20-horror-titles-netflix-is-releasing-across-halloween/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Xbox controller update delivers improved iPhone connectivity with iOS 15](https://appleinsider.com/articles/21/09/09/xbox-controller-update-delivers-improved-iphone-connectivity-with-ios-15?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
