@@ -187,9 +187,9 @@ Windows                  7 hrs 29 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Save 22% on the new Fire TV 50-inch Omni Series, and more great TV deals](https://www.androidauthority.com/best-tv-deals-2-1111250/)
- - [Daily Crunch: Ray-Ban Stories smart glasses are latest step in Facebook’s AR ambitions](http://feedproxy.google.com/~r/Techcrunch/~3/TPvjNgDajcY/)
- - [The 2022 Chevrolet Silverado gets a tech upgrade, hands-free trailering and a new ZR2 off-road flagship](http://feedproxy.google.com/~r/Techcrunch/~3/Yb1Nnvdq8pQ/)<!-- TECH:END -->
+ - [Affirm beats in Q4 with $261.8M, up 71% YoY, vs. estimates of $225M, with 7.1M active customers, up from 5.4M in the previous quarter; stock up more than 20% (Annie Palmer/CNBC)](http://www.techmeme.com/210909/p42#a210909p42)
+ - [Twitter is beginning to test labels for bot accounts](https://www.theverge.com/2021/9/9/22665748/twitter-automated-account-bot-labels-tweets-test)
+ - [Report: since 2004, Microsoft, Amazon, Google, Facebook and Twitter have earned $43.8B in contracts with the Pentagon, mostly in relation to the War on Terror (Edward Ongweso Jr/VICE)](http://www.techmeme.com/210909/p41#a210909p41)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
