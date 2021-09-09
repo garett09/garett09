@@ -187,9 +187,9 @@ Windows                  7 hrs 29 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Realme’s first Android tablet has a massive battery but is no iPad competitor](https://www.androidauthority.com/realme-pad-3018290/)
  - [Xiaomi commits to extended Android updates, but there’s a catch](https://www.androidauthority.com/xiaomi-android-update-policy-2912689/)
- - [NYC police officers and critics describe the NYPD's growing use of post-9/11 digital surveillance tools, initially used for counterterrorism, in minor cases (Ali Watkins/New York Times)](http://www.techmeme.com/210909/p4#a210909p4)
- - [Ray-Ban’s Wayfarers get the Facebook treatment in these leaked renders](https://www.androidauthority.com/facebook-ray-ban-smart-glasses-3018217/)<!-- TECH:END -->
+ - [NYC police officers and critics describe the NYPD's growing use of post-9/11 digital surveillance tools, initially used for counterterrorism, in minor cases (Ali Watkins/New York Times)](http://www.techmeme.com/210909/p4#a210909p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
