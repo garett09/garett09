@@ -194,8 +194,8 @@ Windows                  7 hrs 29 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Yeah it&#039;s cool and all but it looks like a pain to sheathe and unsheathe](http://9gag.com/gag/anQmGqn)
- - 🚯 [Men are so easily amused, I love it .](http://9gag.com/gag/aAb8Opo)
+ - 🚖 [Men are so easily amused, I love it .](http://9gag.com/gag/aAb8Opo)
+ - 🚯 [Help me Dr. Dick](http://9gag.com/gag/aV7pVGM)
  - 🚯 [Are you an Xbox gamer? Win the latest Xbox Series X from us! Tap to know more](http://9gag.com/gag/aP3EeRG)<!-- MEMES:END -->
 
 --- 
