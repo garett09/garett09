@@ -180,9 +180,9 @@ Windows                  7 hrs 29 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Here's what you can expect from Rainbow Six Siege's new season](https://www.pcgamer.com/heres-what-you-can-expect-from-rainbow-six-sieges-new-season)
- - [Watch Sony’s PlayStation Showcase 2021](https://www.polygon.com/2021/9/9/22661599/playstation-showcase-2021-september-date-time-watch-ps5-games)
- - [The Matrix 4 trailer finds Keanu Reeves lost in a new simulation](https://www.polygon.com/22640030/matrix-4-trailer-resurrections-release-date)<!-- GAME:END -->
+ - [Football Manager 2022 Launching Day One with Xbox Game Pass](https://news.xbox.com/en-us/2021/09/09/football-manager-2022-launching-day-one-with-xbox-game-pass/)
+ - [Rollicking beat-’em-up Sifu is a swift answer to all of kung fu’s deepest questions](https://www.polygon.com/22664068/sifu-preview-video-kung-fu-sloclap-release-dates-ps4-ps5)
+ - [Hell Let Loose review](https://www.pcgamer.com/hell-let-loose-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
