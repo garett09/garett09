@@ -187,9 +187,9 @@ Windows                  7 hrs 29 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Refusing to wear a mask on an airplane could now cost you up to $3,000 in fines](https://www.theverge.com/2021/9/9/22665625/tsa-mask-mandate-airplane-fines-covid-train-bus)
- - [Source: Whatnot, a livestreaming service for buying and selling collectibles, is raising new capital at a valuation of $1.5B, following its $50M Series B in May (Kaya Yurieff/The Information)](http://www.techmeme.com/210909/p40#a210909p40)
- - [Jio and Google delay the JioPhone Next, which was planned to launch on Friday, blaming chip shortages and says the launch is now scheduled for early November (Manish Singh/TechCrunch)](http://www.techmeme.com/210909/p39#a210909p39)<!-- TECH:END -->
+ - [Save 22% on the new Fire TV 50-inch Omni Series, and more great TV deals](https://www.androidauthority.com/best-tv-deals-2-1111250/)
+ - [Daily Crunch: Ray-Ban Stories smart glasses are latest step in Facebook’s AR ambitions](http://feedproxy.google.com/~r/Techcrunch/~3/TPvjNgDajcY/)
+ - [The 2022 Chevrolet Silverado gets a tech upgrade, hands-free trailering and a new ZR2 off-road flagship](http://feedproxy.google.com/~r/Techcrunch/~3/Yb1Nnvdq8pQ/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
