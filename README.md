@@ -187,9 +187,9 @@ Windows                  7 hrs 29 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hackers leak a list of ~500K Fortinet VPN login names and passwords; a source in the IT security industry says at least some of the leaked credentials are valid (Lawrence Abrams/BleepingComputer)](http://www.techmeme.com/210909/p5#a210909p5)
- - [Realme’s first Android tablet has a massive battery but is no iPad competitor](https://www.androidauthority.com/realme-pad-3018290/)
- - [Apple AirPods 3 vs. AirPods Pro: The biggest differences we expect to see     - CNET](https://www.cnet.com/tech/mobile/apple-airpods-3-vs-airpods-pro-every-major-difference-expect-see/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Microsoft will let you control an Xbox with a TV remote soon](https://www.theverge.com/2021/9/9/22664260/microsoft-xbox-tv-remote-control-testing)
+ - [September update hits unlocked Galaxy S20 phones in the US](https://www.androidauthority.com/samsung-galaxy-s20-update-1087091/)
+ - [Microsoft confirms investment in India’s Oyo in a multi-year strategic deal to co-develop travel and hospitality products](http://feedproxy.google.com/~r/Techcrunch/~3/7pHycmLR0d8/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
