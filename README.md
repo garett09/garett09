@@ -180,9 +180,9 @@ Windows                  7 hrs 29 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Deathloop shows how you can make enemies look like doofuses in new trailer](https://www.pcgamer.com/deathloop-shows-how-you-can-make-enemies-look-like-doofuses-in-new-trailer)
- - [That Ukulele At The Sony Event Looked Mighty Familiar](https://kotaku.com/that-ukulele-at-the-sony-event-looked-mighty-familiar-1847647335)
- - [Ghostwire: Tokyo trailer turns Shibuya into a Slender Man-infested hellhole](https://www.pcgamer.com/ghostwire-tokyo-trailer)<!-- GAME:END -->
+ - [Sony Brought Its PlayStation A-Game Today](https://kotaku.com/sony-brought-its-playstation-a-game-today-1847647997)
+ - [Radiohead is an Epic Games Store exclusive](https://www.pcgamer.com/radiohead-is-an-epic-games-store-exclusive)
+ - [Deathloop shows how you can make enemies look like doofuses in new trailer](https://www.pcgamer.com/deathloop-shows-how-you-can-make-enemies-look-like-doofuses-in-new-trailer)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
