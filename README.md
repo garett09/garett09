@@ -180,9 +180,9 @@ Windows                  7 hrs 29 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [All the news from PlayStation Showcase 2021](https://www.polygon.com/22662513/playstation-showcase-2021-live-stream-news-announcements-trailers)
- - [Insomniac Games announces Wolverine game](https://www.polygon.com/22665398/wolverine-marvel-insomniac-games-playstation)
- - [Back in the Spotlight: Alan Wake Returns in Alan Wake Remastered on October 5](https://news.xbox.com/en-us/2021/09/09/alan-wake-remastered-returns-october-5/)<!-- GAME:END -->
+ - [If you die in The Matrix Online, do you die in the movies? Asking for Morpheus](https://www.pcgamer.com/if-you-die-in-the-matrix-online-do-you-die-in-the-movies-asking-for-morpheus)
+ - [Tchia looks like a vibrant open-world island adventure](https://www.polygon.com/22665444/kowloon-nights-awaceb-tchia-playstation-open-world)
+ - [Grand Theft Auto 5 for PS5 and Xbox Series X delayed to March 2022](https://www.polygon.com/22665110/grand-theft-auto-5-online-expanded-enhanced-edition-delayed-march-2022)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
