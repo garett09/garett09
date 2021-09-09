@@ -187,9 +187,9 @@ Windows                  7 hrs 29 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to configure App Tracking Transparency in iOS and iPadOS](https://appleinsider.com/articles/21/07/20/how-to-configure-app-tracking-transparency-in-ios-and-ipados?utm_medium=rss)
- - [California advances bill targeting Amazon labor algorithms](https://www.theverge.com/2021/9/9/22664846/amazon-labor-algorithms-warehouse-newsom-california-senate)
- - [Down the rabbit hole: How Apple brought 'Matrix Resurrection' to our pocket](https://appleinsider.com/articles/21/09/09/down-the-rabbit-hole-how-apple-brought-matrix-resurrection-to-our-pocket?utm_medium=rss)<!-- TECH:END -->
+ - [Facebook launches $299 Ray-Ban Stories smart glasses](https://appleinsider.com/articles/21/09/09/facebook-launches-299-ray-ban-stories-smart-glasses?utm_medium=rss)
+ - [The Marvel Unlimited comics app just got a major overhaul](http://feedproxy.google.com/~r/Techcrunch/~3/L6ZS68MoV0Q/)
+ - [Plentywaka founder Onyeka Akumah on African startups and global expansion](http://feedproxy.google.com/~r/Techcrunch/~3/d_XrLl8XcRw/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
