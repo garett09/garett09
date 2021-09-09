@@ -180,9 +180,9 @@ Windows                  7 hrs 29 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Sword and Shield’s most elusive Pokémon caught in just 10,679 tries](https://www.polygon.com/22664591/pokemon-sword-shield-nintendo-switch-shiny-hunting-sinistea)
- - [WarioWare: Get it Together!'s best microgame is literally Super Mario World](https://www.polygon.com/wario/22664707/warioware-get-it-together-super-mario-world-boss-level-microgame-wario)
- - [Bethesda Un-Delays Fallout 76 Expansion After Refund Debacle](https://kotaku.com/bethesda-un-delays-fallout-76-expansion-after-refund-de-1847643483)<!-- GAME:END -->
+ - [Best power supply for PC gaming](https://www.pcgamer.com/best-power-supply-unit-for-pc-gaming-our-top-psu-for-pc)
+ - [Best wireless gaming mouse](https://www.pcgamer.com/best-wireless-gaming-mouse)
+ - [Nioh: Complete Edition is free on the Epic Games Store](https://www.pcgamer.com/nioh-complete-edition-is-free-on-the-epic-games-store)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
