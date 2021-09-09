@@ -187,9 +187,9 @@ Windows                  7 hrs 29 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Box wins proxy board battle with activist investor Starboard Value](http://feedproxy.google.com/~r/Techcrunch/~3/zxT8WKe8syw/)
- - [California Passes Warehouse Worker Bill, Taking Aim at Amazon](https://www.wired.com/story/california-senate-passes-warehouse-workers-bill-taking-aim-at-amazon)
- - [Sources: Apple has appointed longtime Apple Watch and Health software chief Kevin Lynch as the new head of its Apple Car project after Doug Field's departure (Mark Gurman/Bloomberg)](http://www.techmeme.com/210909/p35#a210909p35)<!-- TECH:END -->
+ - [Apple Watch exec takes over secretive car project](https://www.theverge.com/2021/9/9/22665353/apple-watch-kevin-lync-project-titan-electric-car)
+ - [Google and India’s Jio delay their smartphone launch](http://feedproxy.google.com/~r/Techcrunch/~3/wLZc2M4XdYI/)
+ - [Investors are doubling down on Southeast Asia’s digital economy](http://feedproxy.google.com/~r/Techcrunch/~3/H8VonYkVKtQ/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
