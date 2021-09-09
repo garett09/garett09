@@ -187,9 +187,9 @@ Windows                  7 hrs 29 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to watch the PlayStation Showcase 2021](https://www.theverge.com/2021/9/9/22664376/playstation-ps5-games-showcase-how-to-watch-date-time)
- - [Amazon announces its first self-made TVs as well as a Fire TV Stick 4K Max](https://www.androidauthority.com/amazon-fire-tv-omni-3018480/)
- - [Amazon opens preorders for new Fire TV Stick 4K Max](https://appleinsider.com/articles/21/09/09/amazon-opens-preorders-for-new-fire-tv-stick-4k-max?utm_medium=rss)<!-- TECH:END -->
+ - [Frustrated security researchers speak out about Apple's bug bounty program](https://appleinsider.com/articles/21/09/09/frustrated-security-researchers-speak-out-about-apples-bug-bounty-program?utm_medium=rss)
+ - [Microsoft indefinitely postpones the return to its offices in the US, saying it has "decided against attempting to forecast a new date for a full reopening" (Tom Warren/The Verge)](http://www.techmeme.com/210909/p25#a210909p25)
+ - [B&H slashes up to $150 off Apple Watch Series 6, offering year's cheapest prices](https://appleinsider.com/articles/21/09/01/bh-slashes-up-to-150-off-apple-watch-series-6-offering-years-cheapest-prices?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
