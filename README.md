@@ -187,9 +187,9 @@ Windows                  7 hrs 29 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Digital therapeutics startup Neuroglee raises $10M to help people with neurodegenerative conditions](http://feedproxy.google.com/~r/Techcrunch/~3/1SX8wHWkaSM/)
- - [BMW’s e-bike concepts are motorcycles outside the city, bicycles within](https://www.theverge.com/2021/9/9/22664259/speed-pedelec-geofencing-speed-control-electric-bike)
- - [UK network Three joins EE and Vodafone in adding a &pound;2/day charge for EU roaming starting May 2022; O2 will offer free EU roaming as an add-on for some plans (Tim Hardwick/MacRumors)](http://www.techmeme.com/210909/p9#a210909p9)<!-- TECH:END -->
+ - [20 Years After 9/11, Surveillance Has Become a Way of Life](https://www.wired.com/story/20-years-after-911-surveillance-has-become-a-way-of-life)
+ - [9 PC Games You Can Play Forever](https://www.wired.com/gallery/best-pc-games-to-play-forever)
+ - [Teeny-Tiny Talking Mice Have Taken Over Games](https://www.wired.com/story/lilliputian-tiny-people-mice-board-games)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
