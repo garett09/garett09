@@ -180,9 +180,9 @@ Windows                  7 hrs 29 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Here's what you can expect from Rainbow Six Siege's new season](https://www.pcgamer.com/heres-what-you-can-expect-from-rainbow-six-sieges-new-season)
  - [Watch Sony’s PlayStation Showcase 2021](https://www.polygon.com/2021/9/9/22661599/playstation-showcase-2021-september-date-time-watch-ps5-games)
- - [The Matrix 4 trailer finds Keanu Reeves lost in a new simulation](https://www.polygon.com/22640030/matrix-4-trailer-resurrections-release-date)
- - [The best gaming chairs in 2021](https://www.pcgamer.com/best-gaming-chairs)<!-- GAME:END -->
+ - [The Matrix 4 trailer finds Keanu Reeves lost in a new simulation](https://www.polygon.com/22640030/matrix-4-trailer-resurrections-release-date)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
