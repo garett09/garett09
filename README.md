@@ -187,9 +187,9 @@ Windows                  7 hrs 29 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [League of Legends’ world championships will take place in Iceland](https://www.theverge.com/2021/9/9/22649691/league-of-legends-world-championships-2021-europe)
- - [Apple’s leather AirTag loop drops to its lowest price yet at Amazon](https://www.theverge.com/good-deals/2021/9/9/22662055/apple-airtag-loop-hisense-4k-tv-asus-gaming-mouse-playstation-xbox-deal-sale)
- - [Better.com acquires UK-based Property Partner ahead of SPAC close](http://feedproxy.google.com/~r/Techcrunch/~3/AhlvFjIyJ1A/)<!-- TECH:END -->
+ - [Amazon introduces the Fire TV Stick 4K Max, its new flagship streaming device, with WiFi 6 and faster performance, for $55, shipping October 7 (Chris Welch/The Verge)](http://www.techmeme.com/210909/p19#a210909p19)
+ - [Tinder adds a new home for interactive, social features with launch of Tinder Explore](http://feedproxy.google.com/~r/Techcrunch/~3/tw5-Pz0o1A8/)
+ - [Twitter begins testing emoji reactions to tweets, starting with five options, in Turkey on iOS and Android for a limited time (Amanda Silberling/TechCrunch)](http://www.techmeme.com/210909/p18#a210909p18)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
