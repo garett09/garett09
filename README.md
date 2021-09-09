@@ -180,9 +180,9 @@ Windows                  7 hrs 29 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Runescape Fans Stage Protests, Jagex Reverses Controversial Modding Decision](https://kotaku.com/runescape-fans-stage-protests-jagex-reverses-controver-1847640169)
- - [Aliens: Fireteam has a new shield-bearing class](https://www.pcgamer.com/aliens-fireteam-has-a-new-shield-bearing-class)
- - [Surprise, the Fallout Worlds update for Fallout 76 isn't delayed after all, it's out now](https://www.pcgamer.com/fallout-worlds-released)<!-- GAME:END -->
+ - [AI Gives Dark Souls Characters More Realistic Faces](https://kotaku.com/ai-gives-dark-souls-characters-more-realistic-faces-1847640398)
+ - [Where to place warning signs in Fortnite](https://www.pcgamer.com/place-warning-signs-fortnite)
+ - [Rainbow Six Siege finally stops punishing players for winning against cheaters](https://www.pcgamer.com/rainbow-six-siege-finally-stops-punishing-players-for-winning-against-cheaters)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
