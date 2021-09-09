@@ -187,9 +187,9 @@ Windows                  7 hrs 29 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple may have solved bending batteries for the folding iPhone](https://appleinsider.com/articles/21/09/09/apple-may-have-solved-bending-batteries-for-the-folding-iphone?utm_medium=rss)
- - [Canadian startup Nuula, which offers app-based financial services for SMBs, raises $20M equity and a $100M credit facility (Ingrid Lunden/TechCrunch)](http://www.techmeme.com/210909/p11#a210909p11)
- - [Xiaomi says its upcoming 11T flagship series will get three years of OS updates and four years of security updates, matching Samsung and Google (Damien Wilde/9to5Google)](http://www.techmeme.com/210909/p10#a210909p10)<!-- TECH:END -->
+ - [Munich- and Beijing-based robotics startup Agile Robots, which will work with Foxconn, raises $220M led by SoftBank, source says at a ~$1B post-money valuation (Shai Oster/The Information)](http://www.techmeme.com/210909/p15#a210909p15)
+ - [Scalapay raises $155M at a $700M valuation as buy-now, pay-later services continue to boom](http://feedproxy.google.com/~r/Techcrunch/~3/7tXP6_Zsm6s/)
+ - [China not issuing new game licenses, may impact App Store earnings](https://appleinsider.com/articles/21/09/09/china-not-issuing-new-game-licenses-may-impact-app-store-earnings?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
