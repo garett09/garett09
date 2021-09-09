@@ -180,9 +180,9 @@ Windows                  7 hrs 29 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Halloween Kills is the Avengers: Infinity War of the new Halloween movie trilogy](https://www.polygon.com/22664858/halloween-kills-vs-avengers-infinity-war-preview)
- - [Chinese Gaming Giants Lose Eight Bethesdas In Value Amid Government Crackdown](https://kotaku.com/chinese-gaming-giants-lose-eight-bethesdas-in-value-ami-1847645323)
- - [Alan Wake Remastered screenshots leak, make Alan look even more handsome](https://www.pcgamer.com/alan-wake-remastered-screenshots-leaked)<!-- GAME:END -->
+ - [Star Wars: Knights Of The Old Republic Gets PS5 Remake](https://kotaku.com/star-wars-knights-of-the-old-republic-gets-ps5-remake-1847646267)
+ - [Star Wars: Knights of the Old Republic remake coming to PS5](https://www.polygon.com/22665129/kotor-star-wars-knights-of-the-old-republic-ps5-remake-release-date)
+ - [Football Manager 2022 is coming to Xbox Game Pass for PC on day one](https://www.pcgamer.com/football-manager-2022-is-coming-to-xbox-game-pass-for-pc-on-day-one)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
