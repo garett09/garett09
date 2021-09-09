@@ -187,9 +187,9 @@ Windows                  7 hrs 29 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft will let you control an Xbox with a TV remote soon](https://www.theverge.com/2021/9/9/22664260/microsoft-xbox-tv-remote-control-testing)
- - [September update hits unlocked Galaxy S20 phones in the US](https://www.androidauthority.com/samsung-galaxy-s20-update-1087091/)
- - [Microsoft confirms investment in India’s Oyo in a multi-year strategic deal to co-develop travel and hospitality products](http://feedproxy.google.com/~r/Techcrunch/~3/7pHycmLR0d8/)<!-- TECH:END -->
+ - [We asked, you told us: Modular smartphones are still on your radar](https://www.androidauthority.com/modular-smartphone-poll-results-3018303/)
+ - [Google Photos will now ship individual prints directly to your door](https://www.theverge.com/2021/9/9/22664283/google-photos-prints-shipping-photographs-printing)
+ - [Microsoft will let you control an Xbox with a TV remote soon](https://www.theverge.com/2021/9/9/22664260/microsoft-xbox-tv-remote-control-testing)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
