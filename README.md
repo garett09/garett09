@@ -180,9 +180,9 @@ Windows                  7 hrs 29 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Halloween Kills is the Avengers: Infinity War of the new Halloween movie trilogy](https://www.polygon.com/22664858/halloween-kills-vs-avengers-infinity-war-preview)
  - [Chinese Gaming Giants Lose Eight Bethesdas In Value Amid Government Crackdown](https://kotaku.com/chinese-gaming-giants-lose-eight-bethesdas-in-value-ami-1847645323)
- - [Alan Wake Remastered screenshots leak, make Alan look even more handsome](https://www.pcgamer.com/alan-wake-remastered-screenshots-leaked)
- - [Despite Hype, Former Skyrim Mod The Forgotten City Is Kind Of A Mess](https://kotaku.com/despite-hype-former-skyrim-mod-the-forgotten-city-is-k-1847644698)<!-- GAME:END -->
+ - [Alan Wake Remastered screenshots leak, make Alan look even more handsome](https://www.pcgamer.com/alan-wake-remastered-screenshots-leaked)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
