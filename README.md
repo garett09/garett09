@@ -195,9 +195,9 @@ Windows                  10 hrs 48 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It&rsquo;s a good day today](http://9gag.com/gag/a6E06pq)
- - 🚯 [Thank you for coming to my TED talk](http://9gag.com/gag/av5MwgO)
- - 🚯 [Be happy for this moment.](http://9gag.com/gag/abVNDP9)<!-- MEMES:END -->
+ - 🚖 [Thank you for coming to my TED talk](http://9gag.com/gag/av5MwgO)
+ - 🚯 [This guy dug a hole in the sand so his pregnant partner could lie in her stomach](http://9gag.com/gag/aDdK9YZ)
+ - 🚯 [Glass bottomed boat for the 21st century](http://9gag.com/gag/aZ06XK9)<!-- MEMES:END -->
 
 --- 
 
