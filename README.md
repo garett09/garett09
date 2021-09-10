@@ -195,9 +195,9 @@ Windows                  10 hrs 48 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Failed](http://9gag.com/gag/aqjPoPQ)
- - 🚯 [A Mosque, Catholic Chapel, Protestant Church, Buddhist, Hindu and Confucius Temple located in the same street in Surabaya City, Indonesia](http://9gag.com/gag/anQmwPB)
- - 🚯 [Nobody&#039;s Gonna know.. They gonna know!](http://9gag.com/gag/ajmz4Xx)<!-- MEMES:END -->
+ - 🚖 [A Mosque, Catholic Chapel, Protestant Church, Buddhist, Hindu and Confucius Temple located in the same street in Surabaya City, Indonesia](http://9gag.com/gag/anQmwPB)
+ - 🚯 [Nobody&#039;s Gonna know.. They gonna know!](http://9gag.com/gag/ajmz4Xx)
+ - 🚯 [Failed](http://9gag.com/gag/aqjPoPQ)<!-- MEMES:END -->
 
 --- 
 
