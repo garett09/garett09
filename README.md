@@ -188,9 +188,9 @@ Windows                  10 hrs 48 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Epic will appeal the Epic v. Apple decision](https://www.theverge.com/2021/9/10/22667208/epic-games-appeal-apple-judge-rogers-ruling-court)
- - [Epic vs. Apple App Store trial ruling: What developers, big tech, and analysts think](https://appleinsider.com/articles/21/09/10/epic-vs-apple-app-store-trial-ruling-what-developers-big-tech-and-analysts-think?utm_medium=rss)
- - [Toronto-based Cohere, founded by two ex-Google Brain team members to commercialize natural language AI models, raises $40M Series A led by Index Ventures (Mark Sullivan/Fast Company)](http://www.techmeme.com/210910/p22#a210910p22)<!-- TECH:END -->
+ - [The Apple App Store: a brief history of major policy changes](https://www.theverge.com/22667242/apple-app-store-major-policy-changes-history)
+ - [Import a Xiaomi phone? Look out, the company is disabling some imported devices.](https://www.androidauthority.com/import-xiaomi-phone-problem-3019867/)
+ - [Apple’s California Streaming event: rumors, news, and announcements](https://www.theverge.com/22665413/apple-event-iphone-13-announcements-news-products)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
