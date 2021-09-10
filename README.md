@@ -188,9 +188,9 @@ Windows                  10 hrs 48 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Judge says Apple may be ‘stretching the truth’ on Mac malware concerns](https://www.theverge.com/2021/9/10/22667256/apple-vs-epic-trail-judge-craig-federighi-macos-security-arguments-iphone-ios-response)
- - [What we expect from next week’s Apple event](http://feedproxy.google.com/~r/Techcrunch/~3/a8wyrqMhs-o/)
- - [Your phone alarms should work now, but you’ll need some updates (Updated)](https://www.androidauthority.com/google-clock-app-broken-3018855/)<!-- TECH:END -->
+ - [Sources: Stripe is in early discussions with investment banks about going public as soon as next year, either through a direct listing or an IPO (Bloomberg)](http://www.techmeme.com/210910/p25#a210910p25)
+ - [Is it so bad to take money from Chinese venture funds?](http://feedproxy.google.com/~r/Techcrunch/~3/YRVolUXeePo/)
+ - [Judge says Apple may be ‘stretching the truth’ on Mac malware concerns](https://www.theverge.com/2021/9/10/22667256/apple-vs-epic-trail-judge-craig-federighi-macos-security-arguments-iphone-ios-response)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
