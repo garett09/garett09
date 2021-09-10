@@ -195,8 +195,8 @@ Windows                  10 hrs 48 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [New Matrix trailer was bothering me so I fixed it.](http://9gag.com/gag/abVNoxB)
- - 🚯 [He pepsi](http://9gag.com/gag/aP3E0zB)
+ - 🚖 [He pepsi](http://9gag.com/gag/aP3E0zB)
+ - 🚯 [Did you know that doggos are excellent flying beasts?](http://9gag.com/gag/amPeyZd)
  - 🚯 [Thank you for coming to my TED talk](http://9gag.com/gag/av5MwgO)<!-- MEMES:END -->
 
 --- 
