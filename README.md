@@ -196,8 +196,8 @@ Windows                  10 hrs 48 mins      ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Congratulations](http://9gag.com/gag/aB2Ae81)
- - 🚯 [Draw something that she likely has inside her purse](http://9gag.com/gag/aZ065P0)
- - 🚯 [Really !!!!](http://9gag.com/gag/aNp75LG)<!-- MEMES:END -->
+ - 🚯 [Really !!!!](http://9gag.com/gag/aNp75LG)
+ - 🚯 [Just my opinion](http://9gag.com/gag/aK6QMnN)<!-- MEMES:END -->
 
 --- 
 
