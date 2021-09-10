@@ -181,9 +181,9 @@ Windows                  10 hrs 48 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Poetic Puppeteering Platformer A Juggler’s Tale Arriving September 29](https://news.xbox.com/en-us/2021/09/10/jugglers-tale-arriving-on-xbox-september-29/)
- - [No Man’s Sky’s Frontiers update won’t let me make new friends](https://www.polygon.com/22666938/no-mans-sky-frontiers-update-settlements-citizens-features-friends)
- - [Epic v Apple judge grapples with the big question: What is a videogame?](https://www.pcgamer.com/videogame-definition-legal)<!-- GAME:END -->
+ - [Before You Start: Tips For Playing Tales Of Arise](https://kotaku.com/before-you-start-tips-for-playing-tales-of-arise-1847655219)
+ - [We're not going to see any more Dead Space until sometime next year](https://www.pcgamer.com/were-not-going-to-see-any-more-dead-space-until-sometime-next-year)
+ - [Poetic Puppeteering Platformer A Juggler’s Tale Arriving September 29](https://news.xbox.com/en-us/2021/09/10/jugglers-tale-arriving-on-xbox-september-29/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
