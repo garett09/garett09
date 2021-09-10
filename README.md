@@ -188,9 +188,9 @@ Windows                  10 hrs 48 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [$70 off the Samsung 43-inch M7 4K UHD smart monitor, and more monitor deals](https://www.androidauthority.com/best-monitor-deals-1114996/)
- - [Apple stock closes down 3% on news of Epic ruling](https://appleinsider.com/articles/21/09/10/apple-stock-closes-down-3-on-news-of-epic-ruling?utm_medium=rss)
- - [Earth just had its closest asteroid encounter of 2021     - CNET](https://www.cnet.com/news/earth-just-had-its-closest-asteroid-encounter-of-2021/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Prototype reveals Apple considered cellular Apple Watch Series 2](https://appleinsider.com/articles/21/09/10/prototype-reveals-apple-considered-cellular-apple-watch-series-2?utm_medium=rss)
+ - [California releases front end and middle tier code for its Digital Vaccine Record on GitHub to help other states deploy SMART Health Card systems of their own (Rick Klau/California Department of Technology)](http://www.techmeme.com/210910/p27#a210910p27)
+ - [Go read this report about the horrifying leaks coming from school ransomware attacks](https://www.theverge.com/2021/9/10/22667637/go-read-this-ransomware-attacks-schools-student-identity-theft)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
