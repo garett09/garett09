@@ -188,9 +188,9 @@ Windows                  10 hrs 48 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Doordash, Grubhub, and Uber Eats sue NYC for its law capping the amount of commissions the apps can charge, say the law is harmful government overreach (Wall Street Journal)](http://www.techmeme.com/210909/p47#a210909p47)
- - [Apple fires senior engineering program manager Ashley Gjøvik for allegedly leaking information](https://www.theverge.com/2021/9/9/22666049/apple-fires-senior-engineering-program-manager-ashley-gjovik-for-allegedly-leaking-information)
- - [Texas governor signs bill banning social media companies with 50M+ MAUs from blocking or restricting people or their content based on their viewpoint (Cat Zakrzewski/Washington Post)](http://www.techmeme.com/210909/p46#a210909p46)<!-- TECH:END -->
+ - [Epic asks Apple to reinstate developer account so it can re-release 'Fortnite' in Korea [u]](https://appleinsider.com/articles/21/09/09/epic-games-asks-apple-to-reinstate-developer-account-so-it-can-sell-fortnite-in-korea?utm_medium=rss)
+ - [Vivo X70 Pro Plus goes official: The new smartphone photography king?](https://www.androidauthority.com/vivo-x70-series-3018388/)
+ - [Vivo finally adopts wireless charging with new X70 Pro Plus flagship](https://www.theverge.com/2021/9/9/22664290/vivo-x70-pro-plus-series-announced-zeiss-wireless-charging)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
