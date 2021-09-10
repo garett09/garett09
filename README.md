@@ -181,9 +181,9 @@ Windows                  10 hrs 48 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best Australian PC gaming deals this week](https://www.pcgamer.com/best-australian-pc-gaming-deals)
- - [Shout Out To The Developers Trying More Humane Working Conditions](https://kotaku.com/shout-out-to-the-developers-trying-more-humane-working-1847648484)
- - [What we know about Forspoken, Square Enix's next big action-RPG](https://www.pcgamer.com/what-we-know-about-forspoken-square-enixs-next-big-action-rpg)<!-- GAME:END -->
+ - [In Just Two Years, Nintendo Fan Completes Game Boy Collection](https://kotaku.com/in-just-two-years-nintendo-fan-completes-game-boy-coll-1847649831)
+ - [Halo Infinite is inviting all Insiders to its next test in two weeks](https://www.pcgamer.com/halo-infinite-is-inviting-all-insiders-to-its-next-test-in-two-weeks)
+ - [The best Australian PC gaming deals this week](https://www.pcgamer.com/best-australian-pc-gaming-deals)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
