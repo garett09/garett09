@@ -188,9 +188,9 @@ Windows                  10 hrs 48 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung could bring 120Hz display to its next budget 5G smartphone](https://www.androidauthority.com/samsung-galaxy-m52-5g-specs-3019094/)
- - [Apple says Epic can return to App Store only if it follows the rules](https://appleinsider.com/articles/21/09/10/apple-says-epic-can-return-to-app-store-only-if-it-follows-the-rules?utm_medium=rss)
- - [Kuo: 'Apple Watch Series 8' might integrate temperature measurement feature](https://appleinsider.com/articles/21/09/10/kuo-apple-watch-series-8-might-integrate-temperature-measurement-feature?utm_medium=rss)<!-- TECH:END -->
+ - [Apple Maps brings Look Around to Italy, improves navigation](https://appleinsider.com/articles/21/09/10/apple-maps-brings-look-around-to-italy-improves-navigation?utm_medium=rss)
+ - [Apple fires employee who spoke out on workplace issues, cites alleged leak](https://appleinsider.com/articles/21/09/10/apple-fires-employee-who-spoke-out-on-workplace-issues-cites-alleged-leak?utm_medium=rss)
+ - [Apple Music can now identify and compensate artists in DJ mixes](https://appleinsider.com/articles/21/09/10/apple-music-can-now-identify-and-compensate-artists-in-dj-mixes?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
