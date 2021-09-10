@@ -188,9 +188,9 @@ Windows                  10 hrs 48 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Maps brings Look Around to Italy, improves navigation](https://appleinsider.com/articles/21/09/10/apple-maps-brings-look-around-to-italy-improves-navigation?utm_medium=rss)
- - [Apple fires employee who spoke out on workplace issues, cites alleged leak](https://appleinsider.com/articles/21/09/10/apple-fires-employee-who-spoke-out-on-workplace-issues-cites-alleged-leak?utm_medium=rss)
- - [Apple Music can now identify and compensate artists in DJ mixes](https://appleinsider.com/articles/21/09/10/apple-music-can-now-identify-and-compensate-artists-in-dj-mixes?utm_medium=rss)<!-- TECH:END -->
+ - [Apple declares 2013 iPod touch obsolete](https://appleinsider.com/articles/21/09/10/apple-declares-2013-ipod-touch-obsolete?utm_medium=rss)
+ - [Apple Maps brings Look Around, improved navigation to Italy & Andorra](https://appleinsider.com/articles/21/09/10/apple-maps-brings-look-around-to-italy-improves-navigation?utm_medium=rss)
+ - [Binance.US appoints former Ant Group and Uber executive Brian Shroder as its new president after the resignation of CEO Brian Brooks (Olga Kharif/Bloomberg)](http://www.techmeme.com/210910/p3#a210910p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
