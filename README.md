@@ -195,9 +195,9 @@ Windows                  10 hrs 48 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ironic](http://9gag.com/gag/aQoLBmK)
+ - 🚖 [When a cartoon makes more sense and logic than twitter.](http://9gag.com/gag/aqjPV8P)
  - 🚯 [I love my doll](http://9gag.com/gag/aRXbGBQ)
- - 🚯 [When a cartoon makes more sense and logic than twitter.](http://9gag.com/gag/aqjPV8P)<!-- MEMES:END -->
+ - 🚯 [Mr. Anderson](http://9gag.com/gag/apN4zRp)<!-- MEMES:END -->
 
 --- 
 
