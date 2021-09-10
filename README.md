@@ -195,8 +195,8 @@ Windows                  10 hrs 48 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Made me chuckle](http://9gag.com/gag/aP3Eb9V)
- - 🚯 [Nostalgic](http://9gag.com/gag/a07ry9L)
+ - 🚖 [Nostalgic](http://9gag.com/gag/a07ry9L)
+ - 🚯 [Why though?](http://9gag.com/gag/anQmm25)
  - 🚯 [Just my opinion](http://9gag.com/gag/aK6QMnN)<!-- MEMES:END -->
 
 --- 
