@@ -188,9 +188,9 @@ Windows                  10 hrs 48 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Xiaomi promises its 120W fast charger won’t kill its new phone’s battery](https://www.theverge.com/2021/9/10/22666347/xiaomi-11t-pro-120w-fast-charging-battery-interview)
- - [UK's Department of Health and Social Care is ending its partnership with Palantir, following criticism from privacy groups over a lack of transparency (Giles Turner/Bloomberg)](http://www.techmeme.com/210910/p5#a210910p5)
- - [19 Face Masks We Actually Like to Wear](https://www.wired.com/gallery/best-face-masks)<!-- TECH:END -->
+ - [The Dark Asteroid Ryugu Finally Comes Into the Light](https://www.wired.com/story/the-dark-asteroid-ryugu-finally-comes-into-the-light)
+ - [Bloons TD 6 Might Be the Best $5 I’ve Ever Spent](https://www.wired.com/story/bloons-td-6-rave)
+ - [Vaccine Mandates and Boosters—What Does It All Mean?](https://www.wired.com/story/gadget-lab-podcast-520)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
