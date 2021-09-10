@@ -188,9 +188,9 @@ Windows                  10 hrs 48 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kakao and its subsidiaries have lost $16B+ in market value this month amid S. Korea's tech crackdown and as some lawmakers call the company "a symbol of greed" (Youkyung Lee/Bloomberg)](http://www.techmeme.com/210910/p26#a210910p26)
- - [Daily Crunch: Microsoft acquires tutoring platform TakeLessons for undisclosed sum](http://feedproxy.google.com/~r/Techcrunch/~3/ww9usxgPx0M/)
- - [Google faces whistleblower complaint that it underpaid temp workers by as much as $100 million](https://www.theverge.com/2021/9/10/22667247/google-pay-disparity-temp-workers-underpaid-sec-whistleblower)<!-- TECH:END -->
+ - [$70 off the Samsung 43-inch M7 4K UHD smart monitor, and more monitor deals](https://www.androidauthority.com/best-monitor-deals-1114996/)
+ - [Apple stock closes down 3% on news of Epic ruling](https://appleinsider.com/articles/21/09/10/apple-stock-closes-down-3-on-news-of-epic-ruling?utm_medium=rss)
+ - [Earth just had its closest asteroid encounter of 2021     - CNET](https://www.cnet.com/news/earth-just-had-its-closest-asteroid-encounter-of-2021/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
