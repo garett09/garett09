@@ -181,9 +181,9 @@ Windows                  10 hrs 48 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Twitch sues two users, alleging they led ‘hate raids’](https://www.polygon.com/22667041/twitch-hate-raid-lawsuit-streaming)
- - [Twitch sues hate raiders](https://www.pcgamer.com/twitch-sues-hate-raiders)
- - [27 Matrix Resurrections trailer shots that reduced me to a fan-theorizing fanboy from 2002](https://www.polygon.com/22664467/matrix-resurrections-trailer-breakdown-neo-morpheus)<!-- GAME:END -->
+ - [Call of Duty: Black Ops Cold War and Warzone Season Five Reloaded is Now Live](https://news.xbox.com/en-us/2021/09/10/call-of-duty-black-ops-cold-war-and-warzone-season-five-reloaded-is-now-live/)
+ - [Square Enix assures us that the cute cat from Forspoken isn’t starving](https://www.polygon.com/22666923/forspoken-game-cat-homer-trailer-ps5)
+ - [Twitch sues two users, alleging they led ‘hate raids’](https://www.polygon.com/22667041/twitch-hate-raid-lawsuit-streaming)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
