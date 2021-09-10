@@ -196,8 +196,8 @@ Windows                  10 hrs 48 mins      ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Welcoming customers in Japanese](http://9gag.com/gag/a07rqvX)
- - 🚯 [Draw something that she likely has inside her purse](http://9gag.com/gag/aZ065P0)
- - 🚯 [Really !!!!](http://9gag.com/gag/aNp75LG)<!-- MEMES:END -->
+ - 🚯 [True haha](http://9gag.com/gag/aGpm5Qw)
+ - 🚯 [Draw something that she likely has inside her purse](http://9gag.com/gag/aZ065P0)<!-- MEMES:END -->
 
 --- 
 
