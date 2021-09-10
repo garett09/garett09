@@ -188,9 +188,9 @@ Windows                  10 hrs 48 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Stripe is in early discussions with investment banks about going public as soon as next year, either through a direct listing or an IPO (Bloomberg)](http://www.techmeme.com/210910/p25#a210910p25)
- - [Is it so bad to take money from Chinese venture funds?](http://feedproxy.google.com/~r/Techcrunch/~3/YRVolUXeePo/)
- - [Judge says Apple may be ‘stretching the truth’ on Mac malware concerns](https://www.theverge.com/2021/9/10/22667256/apple-vs-epic-trail-judge-craig-federighi-macos-security-arguments-iphone-ios-response)<!-- TECH:END -->
+ - [Google faces whistleblower complaint that it underpaid temp workers by as much as $100 million](https://www.theverge.com/2021/9/10/22667247/google-pay-disparity-temp-workers-underpaid-sec-whistleblower)
+ - [Epic Leaves a Big Crack in Apple’s Walled Garden](https://www.wired.com/story/epic-leaves-big-crack-in-apple-walled-garden)
+ - [Try to spot the human-made object hiding in this NASA ISS photo     - CNET](https://www.cnet.com/news/try-to-spot-the-human-made-object-hiding-in-this-nasa-iss-photo/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
