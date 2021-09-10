@@ -188,9 +188,9 @@ Windows                  10 hrs 48 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Uber Eats, Grubhub, DoorDash sue NYC for limiting fees the apps can charge restaurants](http://feedproxy.google.com/~r/Techcrunch/~3/3RyXtPfzQBc/)
  - [Epic asks Apple to reinstate developer account so it can re-release 'Fortnite' in Korea [u]](https://appleinsider.com/articles/21/09/09/epic-games-asks-apple-to-reinstate-developer-account-so-it-can-sell-fortnite-in-korea?utm_medium=rss)
- - [Vivo X70 Pro Plus goes official: The new smartphone photography king?](https://www.androidauthority.com/vivo-x70-series-3018388/)
- - [Vivo finally adopts wireless charging with new X70 Pro Plus flagship](https://www.theverge.com/2021/9/9/22664290/vivo-x70-pro-plus-series-announced-zeiss-wireless-charging)<!-- TECH:END -->
+ - [Vivo X70 Pro Plus goes official: The new smartphone photography king?](https://www.androidauthority.com/vivo-x70-series-3018388/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
