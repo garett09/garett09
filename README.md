@@ -188,9 +188,9 @@ Windows                  10 hrs 48 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Texas governor signs bill banning social media companies with 50M+ MAUs from blocking or restricting people or their content based on their viewpoint (Cat Zakrzewski/Washington Post)](http://www.techmeme.com/210909/p46#a210909p46)
- - [Box stockholders voted to re-elect three board directors, including CEO Aaron Levie, giving a blow to activist investor Starboard, which failed to win any seats (Svea Herbst-Bayliss/Reuters)](http://www.techmeme.com/210909/p45#a210909p45)
- - [Texas Gov. Greg Abbott signs social media 'censorship' bill into law     - CNET](https://www.cnet.com/news/texas-gov-greg-abbott-signs-social-media-censorship-bill-into-law/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Doordash, Grubhub, and Uber Eats sue NYC for its law capping the amount of commissions the apps can charge, say the law is harmful government overreach (Wall Street Journal)](http://www.techmeme.com/210909/p47#a210909p47)
+ - [Apple fires senior engineering program manager Ashley Gjøvik for allegedly leaking information](https://www.theverge.com/2021/9/9/22666049/apple-fires-senior-engineering-program-manager-ashley-gjovik-for-allegedly-leaking-information)
+ - [Texas governor signs bill banning social media companies with 50M+ MAUs from blocking or restricting people or their content based on their viewpoint (Cat Zakrzewski/Washington Post)](http://www.techmeme.com/210909/p46#a210909p46)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
