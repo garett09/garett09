@@ -188,9 +188,9 @@ Windows                  10 hrs 48 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Apple App Store: a brief history of major policy changes](https://www.theverge.com/22667242/apple-app-store-major-policy-changes-history)
- - [Import a Xiaomi phone? Look out, the company is disabling some imported devices.](https://www.androidauthority.com/import-xiaomi-phone-problem-3019867/)
- - [Apple’s California Streaming event: rumors, news, and announcements](https://www.theverge.com/22665413/apple-event-iphone-13-announcements-news-products)<!-- TECH:END -->
+ - [Apple fires employee who spoke out on workplace issues, cites alleged leak](https://appleinsider.com/articles/21/09/10/apple-fires-employee-who-spoke-out-on-workplace-issues-cites-alleged-leak?utm_medium=rss)
+ - [This tiny plastic Shockbox makes Magic: The Gathering games even more painful](https://www.theverge.com/2021/9/10/22667319/tiny-box-shocks-players-during-magic-the-gathering-games)
+ - [The Epic v. Apple ruling could put a serious dent in Apple’s $19 billion App Store business](https://www.theverge.com/2021/9/10/22667047/apple-epic-ruling-games-app-store-fortnite-revenue-purchases-business)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
