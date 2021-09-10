@@ -188,9 +188,9 @@ Windows                  10 hrs 48 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple fires employee who spoke out on workplace issues, cites alleged leak](https://appleinsider.com/articles/21/09/10/apple-fires-employee-who-spoke-out-on-workplace-issues-cites-alleged-leak?utm_medium=rss)
- - [This tiny plastic Shockbox makes Magic: The Gathering games even more painful](https://www.theverge.com/2021/9/10/22667319/tiny-box-shocks-players-during-magic-the-gathering-games)
- - [The Epic v. Apple ruling could put a serious dent in Apple’s $19 billion App Store business](https://www.theverge.com/2021/9/10/22667047/apple-epic-ruling-games-app-store-fortnite-revenue-purchases-business)<!-- TECH:END -->
+ - [Facebook has told researchers studying misinformation that the data it gave them three years ago included about half of its US users, not all as it then claimed (Davey Alba/New York Times)](http://www.techmeme.com/210910/p24#a210910p24)
+ - [You can now jump in the queue to buy a PS5](https://www.theverge.com/2021/9/10/22652047/sony-direct-playstation-ps5-restock-order-queue)
+ - [Epic ruling is a win for Apple as it costs the company just a few billion annually and doesn't force Apple to change its fees or let 3rd-party app stores on iOS (Mark Gurman/Bloomberg)](http://www.techmeme.com/210910/p23#a210910p23)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
