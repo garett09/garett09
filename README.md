@@ -188,9 +188,9 @@ Windows                  10 hrs 48 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Texas governor signs bill banning social media companies with 50M+ MAUs from blocking or restricting people or their content based on their viewpoint (Cat Zakrzewski/Washington Post)](http://www.techmeme.com/210909/p46#a210909p46)
  - [Box stockholders voted to re-elect three board directors, including CEO Aaron Levie, giving a blow to activist investor Starboard, which failed to win any seats (Svea Herbst-Bayliss/Reuters)](http://www.techmeme.com/210909/p45#a210909p45)
- - [Vape receipts help DOJ nab man who allegedly botnetted thousands of passwords](https://www.theverge.com/2021/9/9/22665545/doj-cybercrime-indictment-botnet-cracking-passwords-online-safety)
- - [Google Stadia’s director of games has left for Google Cloud](https://www.theverge.com/2021/9/9/22665805/google-stadia-jack-buser-games-cloud)<!-- TECH:END -->
+ - [Texas Gov. Greg Abbott signs social media 'censorship' bill into law     - CNET](https://www.cnet.com/news/texas-gov-greg-abbott-signs-social-media-censorship-bill-into-law/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
