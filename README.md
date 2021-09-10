@@ -195,8 +195,8 @@ Windows                  10 hrs 48 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [He pepsi](http://9gag.com/gag/aP3E0zB)
- - 🚯 [Did you know that doggos are excellent flying beasts?](http://9gag.com/gag/amPeyZd)
+ - 🚖 [Did you know that doggos are excellent flying beasts?](http://9gag.com/gag/amPeyZd)
+ - 🚯 [Mexican independence](http://9gag.com/gag/aV7prG8)
  - 🚯 [Thank you for coming to my TED talk](http://9gag.com/gag/av5MwgO)<!-- MEMES:END -->
 
 --- 
