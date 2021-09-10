@@ -195,9 +195,9 @@ Windows                  10 hrs 48 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Be happy for this moment.](http://9gag.com/gag/abVNDP9)
- - 🚯 [Everyone, meet lasagna](http://9gag.com/gag/av5MwNM)
- - 🚯 [This](http://9gag.com/gag/aQoLjq7)<!-- MEMES:END -->
+ - 🚖 [True haha](http://9gag.com/gag/aGpm5Qw)
+ - 🚯 [Welcoming customers in Japanese](http://9gag.com/gag/a07rqvX)
+ - 🚯 [Everyone, meet lasagna](http://9gag.com/gag/av5MwNM)<!-- MEMES:END -->
 
 --- 
 
