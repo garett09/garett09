@@ -181,9 +181,9 @@ Windows                  10 hrs 48 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Destiny 2 Xur location and items, Sept. 10-14](https://www.polygon.com/destiny-2-guide-walkthrough/2021/9/10/22667034/destiny-2-xur-location-items-sept-10-14)
- - [I Am Fish Splashes Down on September 16](https://news.xbox.com/en-us/2021/09/10/i-am-fish-splashes-down-on-september-16/)
- - [Twitch Sues ‘Hate Raid’ Organizers](https://kotaku.com/twitch-sues-hate-raid-organizers-1847653161)<!-- GAME:END -->
+ - [Twitch sues two users, alleging they led ‘hate raids’](https://www.polygon.com/22667041/twitch-hate-raid-lawsuit-streaming)
+ - [Twitch sues hate raiders](https://www.pcgamer.com/twitch-sues-hate-raiders)
+ - [27 Matrix Resurrections trailer shots that reduced me to a fan-theorizing fanboy from 2002](https://www.polygon.com/22664467/matrix-resurrections-trailer-breakdown-neo-morpheus)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
