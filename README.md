@@ -188,9 +188,9 @@ Windows                  10 hrs 48 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [19 Face Masks We Actually Like to Wear](https://www.wired.com/gallery/best-face-masks)
- - [As Covid Cases Rise, So Do Hospital-Related Infections](https://www.wired.com/story/as-covid-cases-rise-so-do-hospital-related-infections)
- - [Daily Authority: Carbon capture dreaming 🎵](https://www.androidauthority.com/newsletters/da-september-10-2021/)<!-- TECH:END -->
+ - [Xiaomi promises its 120W fast charger won’t kill its new phone’s battery](https://www.theverge.com/2021/9/10/22666347/xiaomi-11t-pro-120w-fast-charging-battery-interview)
+ - [UK's Department of Health and Social Care is ending its partnership with Palantir, following criticism from privacy groups over a lack of transparency (Giles Turner/Bloomberg)](http://www.techmeme.com/210910/p5#a210910p5)
+ - [19 Face Masks We Actually Like to Wear](https://www.wired.com/gallery/best-face-masks)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
