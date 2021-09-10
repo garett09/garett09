@@ -181,9 +181,9 @@ Windows                  10 hrs 48 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Razer's light and nimble Orochi V2 wireless gaming mouse is just $49](https://www.pcgamer.com/razers-light-and-nimble-orochi-v2-wireless-gaming-mouse-is-just-dollar49)
- - [Square Enix PS5 Showcase Forspoken Is Starting To Look Like A Real Game](https://kotaku.com/square-enix-ps5-showcase-forspoken-is-starting-to-look-1847648506)
- - [The best graphics cards in 2021](https://www.pcgamer.com/the-best-graphics-cards)<!-- GAME:END -->
+ - [Tales of Arise lands today, tips to begin your journey](https://blog.playstation.com/2021/09/10/tales-of-arise-lands-today-tips-to-begin-your-journey/)
+ - [Metroid Dread trailer tells you everything you need to know](https://www.polygon.com/22666465/metroid-dread-release-date-nintendo-switch-gameplay-trailer)
+ - [Holy Batman, There Are So Many Marvel Games Now](https://kotaku.com/holy-shit-there-are-so-many-marvel-games-now-1847647780)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
