@@ -195,9 +195,9 @@ Windows                  10 hrs 48 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Facts](http://9gag.com/gag/a6E06D2)
- - 🚯 [Are you a wizard?](http://9gag.com/gag/aNp7b4G)
- - 🚯 [This](http://9gag.com/gag/aQoLjq7)<!-- MEMES:END -->
+ - 🚖 [This](http://9gag.com/gag/aQoLjq7)
+ - 🚯 [Just turn it off.... nothing happened...](http://9gag.com/gag/a9ExgGo)
+ - 🚯 [A Mosque, Catholic Chapel, Protestant Church, Buddhist, Hindu and Confucius Temple located in the same street in Surabaya City, Indonesia](http://9gag.com/gag/anQmwPB)<!-- MEMES:END -->
 
 --- 
 
