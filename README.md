@@ -195,9 +195,9 @@ Windows                  10 hrs 48 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Are you a wizard?](http://9gag.com/gag/aNp7b4G)
- - 🚯 [Facts](http://9gag.com/gag/a6E06D2)
- - 🚯 [Going back to the office](http://9gag.com/gag/aXoy6gd)<!-- MEMES:END -->
+ - 🚖 [Facts](http://9gag.com/gag/a6E06D2)
+ - 🚯 [Are you a wizard?](http://9gag.com/gag/aNp7b4G)
+ - 🚯 [This](http://9gag.com/gag/aQoLjq7)<!-- MEMES:END -->
 
 --- 
 
