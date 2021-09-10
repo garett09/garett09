@@ -181,9 +181,9 @@ Windows                  10 hrs 48 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The best Australian PC gaming deals this week](https://www.pcgamer.com/best-australian-pc-gaming-deals)
  - [Shout Out To The Developers Trying More Humane Working Conditions](https://kotaku.com/shout-out-to-the-developers-trying-more-humane-working-1847648484)
- - [What we know about Forspoken, Square Enix's next big action-RPG](https://www.pcgamer.com/what-we-know-about-forspoken-square-enixs-next-big-action-rpg)
- - [Wargaming Community Manager Quits, Alleging 'Toxic Corporate Culture'](https://kotaku.com/wargaming-community-manager-quits-alleging-toxic-corpo-1847648136)<!-- GAME:END -->
+ - [What we know about Forspoken, Square Enix's next big action-RPG](https://www.pcgamer.com/what-we-know-about-forspoken-square-enixs-next-big-action-rpg)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
