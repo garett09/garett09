@@ -181,9 +181,9 @@ Windows                  10 hrs 48 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [WarioWare: Get It Together! is a better party game when chaos is involved](https://www.polygon.com/wario/22665128/warioware-switch-get-it-together-party-game)
- - [App Store must allow third-party payments, judge tells Apple](https://www.polygon.com/22666910/epic-games-v-apple-fortnite-trial-ruling-app-store-payments)
- - [The Artful Escape Is A Heartwarming, Psychedelic Tween Adventure](https://kotaku.com/the-artful-escape-is-a-heartwarming-psychedelic-tween-1847651055)<!-- GAME:END -->
+ - [The best part of James Wan’s horror movie Malignant: it’s silly as hell](https://www.polygon.com/reviews/22666951/malignant-review-james-wan)
+ - [WarioWare: Get It Together!: The Kotaku Review](https://kotaku.com/warioware-get-it-together-the-kotaku-review-1847652481)
+ - [It’s Time for Tip-off! Jump Into NBA 2K22 Today on Xbox One and Xbox Series X|S](https://news.xbox.com/en-us/2021/09/10/play-nba-2k22-today-xbox-one-and-xbox-series-xs/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
