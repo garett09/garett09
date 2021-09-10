@@ -181,9 +181,9 @@ Windows                  10 hrs 48 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The Eternal Cylinder's nightmare geometry finally rolls out this month](https://www.pcgamer.com/the-eternal-cylinders-nightmare-geometry-finally-rolls-out-this-month)
  - [In Just Two Years, Nintendo Fan Completes Game Boy Collection](https://kotaku.com/in-just-two-years-nintendo-fan-completes-game-boy-coll-1847649831)
- - [Halo Infinite is inviting all Insiders to its next test in two weeks](https://www.pcgamer.com/halo-infinite-is-inviting-all-insiders-to-its-next-test-in-two-weeks)
- - [The best Australian PC gaming deals this week](https://www.pcgamer.com/best-australian-pc-gaming-deals)<!-- GAME:END -->
+ - [Halo Infinite is inviting all Insiders to its next test in two weeks](https://www.pcgamer.com/halo-infinite-is-inviting-all-insiders-to-its-next-test-in-two-weeks)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
