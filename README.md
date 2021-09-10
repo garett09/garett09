@@ -188,9 +188,9 @@ Windows                  10 hrs 48 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple not a monopoly but must allow alternate payment methods for apps, judge rules](https://appleinsider.com/articles/21/09/10/apple-must-allow-developers-to-offering-alternate-payments-for-apps-judge-rules?utm_medium=rss)
- - [New Ikea & Sonos Symfonisk AirPlay lamp leaks with changeable lampshades](https://appleinsider.com/articles/21/09/10/new-ikea-sonos-symfonisk-airplay-lamp-leaks-with-changeable-lampshades?utm_medium=rss)
- - [Twitch sues two anonymous users, accusing them of "hate raids" harassing black and LGBTQIA+ streamers with racist, homophobic, sexist, and other content (Cecilia D'Anastasio/Wired)](http://www.techmeme.com/210910/p19#a210910p19)<!-- TECH:END -->
+ - [Sonos says it is raising prices for a majority of its product range amid the supply chain crunch (Mitchell Clark/The Verge)](http://www.techmeme.com/210910/p21#a210910p21)
+ - [Epic appealing Apple's 'resounding victory' in App Store trial](https://appleinsider.com/articles/21/09/10/epic-appealing-apples-resounding-victory-in-app-store-trial?utm_medium=rss)
+ - [Sonos raises prices for majority of products amid supply chain crunch](https://www.theverge.com/2021/9/10/22667044/sonos-speaker-price-increases-announce-september-12)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
