@@ -195,9 +195,9 @@ Windows                  10 hrs 48 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Wine diesel](http://9gag.com/gag/aEp99mO)
- - 🚯 [Made me chuckle](http://9gag.com/gag/aP3Eb9V)
- - 🚯 [Nostalgic](http://9gag.com/gag/a07ry9L)<!-- MEMES:END -->
+ - 🚖 [Made me chuckle](http://9gag.com/gag/aP3Eb9V)
+ - 🚯 [Nostalgic](http://9gag.com/gag/a07ry9L)
+ - 🚯 [Wine diesel](http://9gag.com/gag/aEp99mO)<!-- MEMES:END -->
 
 --- 
 
