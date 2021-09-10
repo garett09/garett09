@@ -181,9 +181,9 @@ Windows                  10 hrs 48 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Before You Start: Tips For Playing Tales Of Arise](https://kotaku.com/before-you-start-tips-for-playing-tales-of-arise-1847655219)
- - [We're not going to see any more Dead Space until sometime next year](https://www.pcgamer.com/were-not-going-to-see-any-more-dead-space-until-sometime-next-year)
- - [Poetic Puppeteering Platformer A Juggler’s Tale Arriving September 29](https://news.xbox.com/en-us/2021/09/10/jugglers-tale-arriving-on-xbox-september-29/)<!-- GAME:END -->
+ - [The Riftbreaker Launches October 14 with Xbox Game Pass on Day One](https://news.xbox.com/en-us/2021/09/10/the-riftbreaker-launches-october-14-with-xbox-game-pass-on-day-one/)
+ - [Get This: 50 Cent: Blood On The Sand Started Out As A Tom Clancy Game](https://kotaku.com/get-this-50-cent-blood-on-the-sand-started-out-as-a-t-1847655379)
+ - [True Roguelikes Like This Are For Sick People, Drink From My Poison Chalice](https://kotaku.com/true-roguelikes-like-this-are-for-sick-people-drink-fr-1847655177)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
