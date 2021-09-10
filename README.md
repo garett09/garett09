@@ -188,9 +188,9 @@ Windows                  10 hrs 48 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung could bring 120Hz display to its next budget 5G smartphone](https://www.androidauthority.com/samsung-galaxy-m52-5g-specs-3019094/)
  - [Apple says Epic can return to App Store only if it follows the rules](https://appleinsider.com/articles/21/09/10/apple-says-epic-can-return-to-app-store-only-if-it-follows-the-rules?utm_medium=rss)
- - [Kuo: 'Apple Watch Series 8' might integrate temperature measurement feature](https://appleinsider.com/articles/21/09/10/kuo-apple-watch-series-8-might-integrate-temperature-measurement-feature?utm_medium=rss)
- - [Samsung Galaxy S22 series camera specs leak: Where is the 200MP sensor?](https://www.androidauthority.com/samsung-galaxy-s22-series-camera-specs-3019062/)<!-- TECH:END -->
+ - [Kuo: 'Apple Watch Series 8' might integrate temperature measurement feature](https://appleinsider.com/articles/21/09/10/kuo-apple-watch-series-8-might-integrate-temperature-measurement-feature?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
