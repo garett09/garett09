@@ -189,7 +189,7 @@ Windows                  10 hrs 48 mins      ███████████�
 
 <!-- TECH:START -->
  - [Kuo: 'Apple Watch Series 8' might integrate temperature measurement feature](https://appleinsider.com/articles/21/09/10/kuo-apple-watch-series-8-might-integrate-temperature-measurement-feature?utm_medium=rss)
- - [Samsung Galaxy S22 series camera specs leak. Don’t expect big changes.](https://www.androidauthority.com/samsung-galaxy-s22-camera-3019062/)
+ - [Samsung Galaxy S22 series camera specs leak: Where is the 200MP sensor?](https://www.androidauthority.com/samsung-galaxy-s22-series-camera-specs-3019062/)
  - [Nigerian one-click checkout platform OurPass raises $1M pre-seed, wants to build ‘Fast for Africa’](http://feedproxy.google.com/~r/Techcrunch/~3/IT-n_9BqeW4/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
