@@ -195,9 +195,9 @@ Windows                  10 hrs 48 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This does not sparks joy. Movie will be still good I&#039;m sure.](http://9gag.com/gag/a5EO9eg)
- - 🚯 [Natalie Portman looking completely lost at a football game](http://9gag.com/gag/aoMvAng)
- - 🚯 [How?](http://9gag.com/gag/av5M4bM)<!-- MEMES:END -->
+ - 🚖 [How?](http://9gag.com/gag/av5M4bM)
+ - 🚯 [I bet you can&#039;t find this pic on Google](http://9gag.com/gag/azMWvVZ)
+ - 🚯 [When a cartoon makes more sense and logic than twitter.](http://9gag.com/gag/aqjPV8P)<!-- MEMES:END -->
 
 --- 
 
