@@ -181,9 +181,9 @@ Windows                  10 hrs 48 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Meet the Athletes of the Gaming for Inclusion Tournament](https://news.xbox.com/en-us/2021/09/10/meet-the-athletes-of-the-gaming-for-inclusion-tournament/)
- - [PS4 Finally Gets A Working Emulator Eight Years Later](https://kotaku.com/ps4-finally-gets-a-working-emulator-8-years-later-1847651649)
- - [The best mid-tower cases in 2021](https://www.pcgamer.com/best-mid-tower-case)<!-- GAME:END -->
+ - [This Game Could Genuinely Turn An Arachnophobe Into A Spider-Lover](https://kotaku.com/this-game-could-genuinely-turn-an-arachnophobe-into-a-s-1847651661)
+ - [Best new board games and role-playing games of fall 2021](https://www.polygon.com/22544146/best-new-board-games-rpgs)
+ - [The best CPU for gaming in 2021](https://www.pcgamer.com/best-cpu-for-gaming)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
