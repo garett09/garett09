@@ -181,9 +181,9 @@ Windows                  10 hrs 48 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Three Reasons The PS5 Star Wars: KotOR Remake Is Such A Huge Deal](https://kotaku.com/three-reasons-the-ps5-star-wars-kotor-remake-is-such-a-1847647537)
  - [Next Week on Xbox September 13 to 17](https://news.xbox.com/en-us/2021/09/10/next-week-on-xbox-september-13-to-17/)
- - [FYI: Tales Of Arise’s Costume DLC Adds Hidden Skills](https://kotaku.com/fyi-tales-of-arise-s-costume-dlc-adds-hidden-skills-1847647864)
- - [Former Starbreeze exec's insider trading conviction quashed on appeal](https://www.pcgamer.com/former-starbreeze-execs-insider-trading-conviction-quashed-on-appeal)<!-- GAME:END -->
+ - [FYI: Tales Of Arise’s Costume DLC Adds Hidden Skills](https://kotaku.com/fyi-tales-of-arise-s-costume-dlc-adds-hidden-skills-1847647864)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
