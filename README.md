@@ -196,8 +196,8 @@ Windows                  10 hrs 48 mins      ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [It&rsquo;s a good day today](http://9gag.com/gag/a6E06pq)
- - 🚯 [Are you a wizard?](http://9gag.com/gag/aNp7b4G)
- - 🚯 [Everyone, meet lasagna](http://9gag.com/gag/av5MwNM)<!-- MEMES:END -->
+ - 🚯 [Everyone, meet lasagna](http://9gag.com/gag/av5MwNM)
+ - 🚯 [Are you a wizard?](http://9gag.com/gag/aNp7b4G)<!-- MEMES:END -->
 
 --- 
 
