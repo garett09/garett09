@@ -181,9 +181,9 @@ Windows                  10 hrs 48 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Call of Duty: Black Ops Cold War and Warzone Season Five Reloaded is Now Live](https://news.xbox.com/en-us/2021/09/10/call-of-duty-black-ops-cold-war-and-warzone-season-five-reloaded-is-now-live/)
- - [Square Enix assures us that the cute cat from Forspoken isn’t starving](https://www.polygon.com/22666923/forspoken-game-cat-homer-trailer-ps5)
- - [Twitch sues two users, alleging they led ‘hate raids’](https://www.polygon.com/22667041/twitch-hate-raid-lawsuit-streaming)<!-- GAME:END -->
+ - [Analogue Pocket delayed again, to December](https://www.polygon.com/22667276/analogue-pocket-delay-release-date)
+ - [Embark on a Stunning Journey of Love and Hope with Inked: A Tale of Love](https://news.xbox.com/en-us/2021/09/10/inked-a-tale-of-love-available-now/)
+ - [How to play Fortnite’s end-of-season event](https://www.polygon.com/fortnite/22664920/fortnite-event-time-operation-sky-fire-release-date-season-7-end)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
