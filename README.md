@@ -188,9 +188,9 @@ Windows                  10 hrs 48 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Corvette buyers cost the 2022 C8 3 mpg highway, report says     - Roadshow](https://www.cnet.com/roadshow/news/2022-chevrolet-corvette-c8-3-mpg-worse/#ftag=CAD590a51e)
- - [Epic Games asks Apple to reinstate developer account, seeks to re-release 'Fortnite' in South Korea following passage of app store bill](https://appleinsider.com/articles/21/09/09/epic-games-asks-apple-to-reinstate-developer-account-so-it-can-sell-fortnite-in-korea?utm_medium=rss)
- - [Wisetack, which facilitates buy now, pay later services for in-person business transactions, raises $45M Series B, following $19M seed and Series A in February (Mary Ann Azevedo/TechCrunch)](http://www.techmeme.com/210909/p44#a210909p44)<!-- TECH:END -->
+ - [Box stockholders voted to re-elect three board directors, including CEO Aaron Levie, giving a blow to activist investor Starboard, which failed to win any seats (Svea Herbst-Bayliss/Reuters)](http://www.techmeme.com/210909/p45#a210909p45)
+ - [Vape receipts help DOJ nab man who allegedly botnetted thousands of passwords](https://www.theverge.com/2021/9/9/22665545/doj-cybercrime-indictment-botnet-cracking-passwords-online-safety)
+ - [Google Stadia’s director of games has left for Google Cloud](https://www.theverge.com/2021/9/9/22665805/google-stadia-jack-buser-games-cloud)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
