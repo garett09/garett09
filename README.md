@@ -195,9 +195,9 @@ Windows                  10 hrs 48 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I love my doll](http://9gag.com/gag/aRXbGBQ)
- - 🚯 [8 out of 10](http://9gag.com/gag/aeAnzp5)
- - 🚯 [Crazy truck driver, rams cars in Mexico City](http://9gag.com/gag/aMKo69x)<!-- MEMES:END -->
+ - 🚖 [8 out of 10](http://9gag.com/gag/aeAnzp5)
+ - 🚯 [Crazy truck driver, rams cars in Mexico City](http://9gag.com/gag/aMKo69x)
+ - 🚯 [District 9 sequel is confirmed finally but Matrix 4 looks unnecessary, they changed Morpheus](http://9gag.com/gag/av5MBed)<!-- MEMES:END -->
 
 --- 
 
