@@ -195,9 +195,9 @@ Windows                  10 hrs 48 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Mexican independence](http://9gag.com/gag/aV7prG8)
- - 🚯 [Presentation!](http://9gag.com/gag/aZ06KG0)
- - 🚯 [New Matrix trailer was bothering me so I fixed it.](http://9gag.com/gag/abVNoxB)<!-- MEMES:END -->
+ - 🚖 [New Matrix trailer was bothering me so I fixed it.](http://9gag.com/gag/abVNoxB)
+ - 🚯 [He pepsi](http://9gag.com/gag/aP3E0zB)
+ - 🚯 [Thank you for coming to my TED talk](http://9gag.com/gag/av5MwgO)<!-- MEMES:END -->
 
 --- 
 
