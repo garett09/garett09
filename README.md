@@ -188,9 +188,9 @@ Windows                  10 hrs 48 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ikea and Sonos’ second-generation Symfonisk lamp leaks with swappable lampshades](https://www.theverge.com/2021/9/10/22666940/ikea-sonos-symfonisk-lamp-speaker-leak-swappable-lampshades)
- - [Judge rules that Apple is not required to reinstate Epic's App Store account, orders Epic to pay damages for selling IAP on the iOS version of Fortnite directly (Filipe Esp&oacute;sito/9to5Mac)](http://www.techmeme.com/210910/p18#a210910p18)
- - [Apple's 'loss' is the best result for users, developers, Apple, and Epic](https://appleinsider.com/articles/21/09/10/apples-loss-is-the-best-result-for-users-developers-apple-and-epic?utm_medium=rss)<!-- TECH:END -->
+ - [Twitch sues two anonymous users, accusing them of "hate raids" harassing black and LGBTQIA+ streamers with racist, homophobic, sexist, and other content (Cecilia D'Anastasio/Wired)](http://www.techmeme.com/210910/p19#a210910p19)
+ - [Apple's 'loss' is the best result for users, developers, Apple, and Epic](https://appleinsider.com/articles/21/09/10/apples-loss-is-the-best-result-for-users-developers-apple-and-epic?utm_medium=rss)
+ - [Apple not a monopoly but must allow alternate payment methods for apps, judge rules](https://appleinsider.com/articles/21/09/10/apple-must-allow-developers-to-offering-alternate-payments-for-apps-judge-rules?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
