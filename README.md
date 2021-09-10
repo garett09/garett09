@@ -188,9 +188,9 @@ Windows                  10 hrs 48 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - ['Apple Watch Series 7' mass-shipments to begin in late September after Apple fixes production issue, Kuo says](https://appleinsider.com/articles/21/09/10/kuo-apple-solves-apple-watch-series-7-production-issue-mass-shipments-to-begin-in-late-september?utm_medium=rss)
- - [Kuo: Apple has resolved its Apple Watch Series 7 production issues and will start mass production mid to late September, with shipping set for late September (Tim Hardwick/MacRumors)](http://www.techmeme.com/210910/p2#a210910p2)
- - [Samsung confirms One UI 4.0 beta is running late](https://www.androidauthority.com/samsung-one-ui-4-delayed-3019026/)<!-- TECH:END -->
+ - [Kuo: 'Apple Watch Series 8' might integrate temperature measurement feature](https://appleinsider.com/articles/21/09/10/kuo-apple-watch-series-8-might-integrate-temperature-measurement-feature?utm_medium=rss)
+ - [Samsung Galaxy S22 series camera specs leak. Don’t expect big changes.](https://www.androidauthority.com/samsung-galaxy-s22-camera-3019062/)
+ - [Nigerian one-click checkout platform OurPass raises $1M pre-seed, wants to build ‘Fast for Africa’](http://feedproxy.google.com/~r/Techcrunch/~3/IT-n_9BqeW4/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
