@@ -195,9 +195,9 @@ Windows                  10 hrs 48 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Why though?](http://9gag.com/gag/anQmm25)
- - 🚯 [Weird car feature](http://9gag.com/gag/aK6QQ5Q)
- - 🚯 [Let work you b****h...](http://9gag.com/gag/anQmPez)<!-- MEMES:END -->
+ - 🚖 [Let work you b****h...](http://9gag.com/gag/anQmPez)
+ - 🚯 [Based](http://9gag.com/gag/aXoyB9v)
+ - 🚯 [Weird car feature](http://9gag.com/gag/aK6QQ5Q)<!-- MEMES:END -->
 
 --- 
 
