@@ -188,9 +188,9 @@ Windows                  10 hrs 48 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple announces debut of upcoming sports drama series 'Swagger'](https://appleinsider.com/articles/21/09/10/apple-announces-debut-of-upcoming-sports-drama-series-swagger?utm_medium=rss)
- - [Will Fortnite return to iOS? Probably not any time soon](https://www.theverge.com/2021/9/10/22667069/fortnite-ios-return-apple-epic-ruling)
- - [Apple not a monopoly but must allow alternate payment methods for apps, judge rules](https://appleinsider.com/articles/21/09/10/apple-must-allow-developers-to-offering-alternate-payments-for-apps-judge-rules?utm_medium=rss)<!-- TECH:END -->
+ - [Epic will appeal the Epic v. Apple decision](https://www.theverge.com/2021/9/10/22667208/epic-games-appeal-apple-judge-rogers-ruling-court)
+ - [Epic vs. Apple App Store trial ruling: What developers, big tech, and analysts think](https://appleinsider.com/articles/21/09/10/epic-vs-apple-app-store-trial-ruling-what-developers-big-tech-and-analysts-think?utm_medium=rss)
+ - [Toronto-based Cohere, founded by two ex-Google Brain team members to commercialize natural language AI models, raises $40M Series A led by Index Ventures (Mark Sullivan/Fast Company)](http://www.techmeme.com/210910/p22#a210910p22)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
