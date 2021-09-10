@@ -188,9 +188,9 @@ Windows                  10 hrs 48 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple not a monopoly but must allow alternate payment methods for apps, judge rules](https://appleinsider.com/articles/21/09/10/apple-must-allow-developers-to-offering-alternate-payments-for-apps-judge-rules?utm_medium=rss)
- - [WhatsApp will add support for encrypted message backups](https://www.androidauthority.com/whatsapp-encrypted-backups-3019704/)
- - [Vergecast: How smart are Facebook’s glasses?](https://www.theverge.com/2021/9/10/22666599/vergecast-podcast-466-facebook-stories-ray-ban-glasses-apple-event-preview)<!-- TECH:END -->
+ - [Ikea and Sonos’ second-generation Symfonisk lamp leaks with swappable lampshades](https://www.theverge.com/2021/9/10/22666940/ikea-sonos-symfonisk-lamp-speaker-leak-swappable-lampshades)
+ - [Judge rules that Apple is not required to reinstate Epic's App Store account, orders Epic to pay damages for selling IAP on the iOS version of Fortnite directly (Filipe Esp&oacute;sito/9to5Mac)](http://www.techmeme.com/210910/p18#a210910p18)
+ - [Apple's 'loss' is the best result for users, developers, Apple, and Epic](https://appleinsider.com/articles/21/09/10/apples-loss-is-the-best-result-for-users-developers-apple-and-epic?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
