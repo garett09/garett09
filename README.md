@@ -188,9 +188,9 @@ Windows                  10 hrs 48 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple TV+ planning 50 new shows for 2021, doubles production slate](https://appleinsider.com/articles/21/09/10/apple-tv-planning-50-new-shows-for-2021-doubles-production-slate?utm_medium=rss)
- - [Apple TV+ expands children's lineup with 'Yo Gabba Gabba!' & orders new series](https://appleinsider.com/articles/21/09/10/apple-tv-expands-childrens-lineup-with-yo-gabba-gabba-orders-new-series?utm_medium=rss)
- - [Sources: Apple intends to double its output of TV shows and movies next year to at least one a week and plans to spend $500M+ on marketing Apple TV+ this year (Jessica Toonkel/The Information)](http://www.techmeme.com/210910/p11#a210910p11)<!-- TECH:END -->
+ - [China not issuing new game licenses, may impact App Store earnings](https://appleinsider.com/articles/21/09/09/china-not-issuing-new-game-licenses-may-impact-app-store-earnings?utm_medium=rss)
+ - [TCL puts foldable phone plans on hold. Here’s the phone that might have been.](https://www.androidauthority.com/tcl-foldable-phone-plans-on-hold-3019631/)
+ - [Apple thought low-cost TV dongle would ruin its premium reputation](https://appleinsider.com/articles/21/09/10/apple-thought-low-cost-tv-dongle-would-ruin-its-premium-reputation?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
