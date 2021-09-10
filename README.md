@@ -181,9 +181,9 @@ Windows                  10 hrs 48 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Sony Brought Its PlayStation A-Game Today](https://kotaku.com/sony-brought-its-playstation-a-game-today-1847647997)
- - [Radiohead is an Epic Games Store exclusive](https://www.pcgamer.com/radiohead-is-an-epic-games-store-exclusive)
- - [Deathloop shows how you can make enemies look like doofuses in new trailer](https://www.pcgamer.com/deathloop-shows-how-you-can-make-enemies-look-like-doofuses-in-new-trailer)<!-- GAME:END -->
+ - [What we know about Forspoken, Square Enix's next big action-RPG](https://www.pcgamer.com/what-we-know-about-forspoken-square-enixs-next-big-action-rpg)
+ - [Wargaming Community Manager Quits, Alleging 'Toxic Corporate Culture'](https://kotaku.com/wargaming-community-manager-quits-alleging-toxic-corpo-1847648136)
+ - [Please enjoy Discord while it's still good](https://www.pcgamer.com/please-enjoy-discord-while-its-still-good)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
