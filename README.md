@@ -188,9 +188,9 @@ Windows                  10 hrs 48 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Kuo: Apple solves 'Apple Watch Series 7' production issue, mass-shipments to begin in late September](https://appleinsider.com/articles/21/09/10/kuo-apple-solves-apple-watch-series-7-production-issue-mass-shipments-to-begin-in-late-september?utm_medium=rss)
  - [Samsung confirms One UI 4.0 beta is running late](https://www.androidauthority.com/samsung-one-ui-4-delayed-3019026/)
- - [Epic asks Apple to reinstate developer account so it can re-release 'Fortnite' in Korea [u]](https://appleinsider.com/articles/21/09/09/epic-games-asks-apple-to-reinstate-developer-account-so-it-can-sell-fortnite-in-korea?utm_medium=rss)
- - [15 years on, Children of Men feels like a completely different movie     - CNET](https://www.cnet.com/news/15-years-on-children-of-men-feels-like-a-completely-different-movie/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Epic asks Apple to reinstate developer account so it can re-release 'Fortnite' in Korea [u]](https://appleinsider.com/articles/21/09/09/epic-games-asks-apple-to-reinstate-developer-account-so-it-can-sell-fortnite-in-korea?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
