@@ -188,9 +188,9 @@ Windows                  10 hrs 48 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Uber Eats, Grubhub, DoorDash sue NYC for limiting fees the apps can charge restaurants](http://feedproxy.google.com/~r/Techcrunch/~3/3RyXtPfzQBc/)
- - [Epic asks Apple to reinstate developer account so it can re-release 'Fortnite' in Korea [u]](https://appleinsider.com/articles/21/09/09/epic-games-asks-apple-to-reinstate-developer-account-so-it-can-sell-fortnite-in-korea?utm_medium=rss)
- - [Vivo X70 Pro Plus goes official: The new smartphone photography king?](https://www.androidauthority.com/vivo-x70-series-3018388/)<!-- TECH:END -->
+ - [Epic Games asks Apple to reinstate Fortnite in South Korea after new law](http://feedproxy.google.com/~r/Techcrunch/~3/8B3xAIe0xNU/)
+ - [Evander Holyfield vs. Vitor Belfort: Start time, how to watch or stream online, Donald Trump commentary     - CNET](https://www.cnet.com/news/evander-holyfield-vs-vitor-belfort-start-time-how-to-watch-or-stream-online-donald-trump-commentary/#ftag=CAD590a51e)
+ - [Uber Eats, Grubhub, DoorDash sue NYC for limiting fees the apps can charge restaurants](http://feedproxy.google.com/~r/Techcrunch/~3/3RyXtPfzQBc/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
