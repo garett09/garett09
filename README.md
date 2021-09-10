@@ -195,9 +195,9 @@ Windows                  10 hrs 48 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Nobody&#039;s Gonna know.. They gonna know!](http://9gag.com/gag/ajmz4Xx)
- - 🚯 [Flower Bridge...](http://9gag.com/gag/aAb8z7g)
- - 🚯 [Made me chuckle](http://9gag.com/gag/aP3Eb9V)<!-- MEMES:END -->
+ - 🚖 [Wine diesel](http://9gag.com/gag/aEp99mO)
+ - 🚯 [Made me chuckle](http://9gag.com/gag/aP3Eb9V)
+ - 🚯 [Nostalgic](http://9gag.com/gag/a07ry9L)<!-- MEMES:END -->
 
 --- 
 
