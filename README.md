@@ -188,9 +188,9 @@ Windows                  10 hrs 48 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitch sues two anonymous users, accusing them of "hate raids" harassing black and LGBTQIA+ streamers with racist, homophobic, sexist, and other content (Cecilia D'Anastasio/Wired)](http://www.techmeme.com/210910/p19#a210910p19)
- - [Apple's 'loss' is the best result for users, developers, Apple, and Epic](https://appleinsider.com/articles/21/09/10/apples-loss-is-the-best-result-for-users-developers-apple-and-epic?utm_medium=rss)
- - [Apple not a monopoly but must allow alternate payment methods for apps, judge rules](https://appleinsider.com/articles/21/09/10/apple-must-allow-developers-to-offering-alternate-payments-for-apps-judge-rules?utm_medium=rss)<!-- TECH:END -->
+ - [Apple not a monopoly but must allow alternate payment methods for apps, judge rules](https://appleinsider.com/articles/21/09/10/apple-must-allow-developers-to-offering-alternate-payments-for-apps-judge-rules?utm_medium=rss)
+ - [New Ikea & Sonos Symfonisk AirPlay lamp leaks with changeable lampshades](https://appleinsider.com/articles/21/09/10/new-ikea-sonos-symfonisk-airplay-lamp-leaks-with-changeable-lampshades?utm_medium=rss)
+ - [Twitch sues two anonymous users, accusing them of "hate raids" harassing black and LGBTQIA+ streamers with racist, homophobic, sexist, and other content (Cecilia D'Anastasio/Wired)](http://www.techmeme.com/210910/p19#a210910p19)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
