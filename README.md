@@ -181,9 +181,9 @@ Windows                  10 hrs 48 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Here's what you can expect from Rainbow Six Siege's new season](https://www.pcgamer.com/heres-what-you-can-expect-from-rainbow-six-sieges-new-season)
- - [Getting to Grips with F1 2021’s Free Trial](https://news.xbox.com/en-us/2021/09/10/getting-to-grips-f1-2021-free-trial/)
- - [Aquaman gets a wacky makeover in James Wan and ThunderCats team’s new cartoon](https://www.polygon.com/2021/9/10/22666620/aquaman-king-of-atlantis-trailer-release-date-hbo-max)<!-- GAME:END -->
+ - [Meet the Athletes of the Gaming for Inclusion Tournament](https://news.xbox.com/en-us/2021/09/10/meet-the-athletes-of-the-gaming-for-inclusion-tournament/)
+ - [PS4 Finally Gets A Working Emulator Eight Years Later](https://kotaku.com/ps4-finally-gets-a-working-emulator-8-years-later-1847651649)
+ - [The best mid-tower cases in 2021](https://www.pcgamer.com/best-mid-tower-case)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
