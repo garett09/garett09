@@ -195,9 +195,9 @@ Windows                  10 hrs 48 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Thank you for coming to my TED talk](http://9gag.com/gag/av5MwgO)
- - 🚯 [Glass bottomed boat for the 21st century](http://9gag.com/gag/aZ06XK9)
- - 🚯 [Be happy for this moment.](http://9gag.com/gag/abVNDP9)<!-- MEMES:END -->
+ - 🚖 [Be happy for this moment.](http://9gag.com/gag/abVNDP9)
+ - 🚯 [Everyone, meet lasagna](http://9gag.com/gag/av5MwNM)
+ - 🚯 [This](http://9gag.com/gag/aQoLjq7)<!-- MEMES:END -->
 
 --- 
 
