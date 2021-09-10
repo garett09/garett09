@@ -188,9 +188,9 @@ Windows                  10 hrs 48 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Music is adding more DJ mixes with new features powered by Shazam](https://www.theverge.com/2021/9/10/22662684/apple-music-dj-mix-shazam-streaming-ugc)
  - [Apple fires employee who spoke out on workplace issues, cites alleged leak](https://appleinsider.com/articles/21/09/10/apple-fires-employee-who-spoke-out-on-workplace-issues-cites-alleged-leak?utm_medium=rss)
- - [Apple won’t let Epic bring Fortnite back to South Korea’s App Store](https://www.theverge.com/2021/9/10/22666146/apple-epic-korea-fortnite-developer-account-rules-response)<!-- TECH:END -->
+ - [Apple Music says it will use Shazam's tech to properly identify and compensate all of the individual creators involved in making a DJ mix (Amanda Silberling/TechCrunch)](http://www.techmeme.com/210910/p1#a210910p1)
+ - [Apple Music is adding more DJ mixes with new features powered by Shazam](https://www.theverge.com/2021/9/10/22662684/apple-music-dj-mix-shazam-streaming-ugc)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
