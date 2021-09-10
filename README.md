@@ -195,9 +195,9 @@ Windows                  10 hrs 48 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It do be like that](http://9gag.com/gag/aoMvod3)
- - 🚯 [District 9 sequel is confirmed finally but Matrix 4 looks unnecessary, they changed Morpheus](http://9gag.com/gag/av5MBed)
- - 🚯 [Crazy truck driver, rams cars in Mexico City](http://9gag.com/gag/aMKo69x)<!-- MEMES:END -->
+ - 🚖 [Mexican independence](http://9gag.com/gag/aV7prG8)
+ - 🚯 [Presentation!](http://9gag.com/gag/aZ06KG0)
+ - 🚯 [Welcoming customers in Japanese](http://9gag.com/gag/a07rqvX)<!-- MEMES:END -->
 
 --- 
 
