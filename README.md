@@ -181,9 +181,9 @@ Windows                  10 hrs 48 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Three Reasons The PS5 Star Wars: KotOR Remake Is Such A Huge Deal](https://kotaku.com/three-reasons-the-ps5-star-wars-kotor-remake-is-such-a-1847647537)
- - [Next Week on Xbox September 13 to 17](https://news.xbox.com/en-us/2021/09/10/next-week-on-xbox-september-13-to-17/)
- - [FYI: Tales Of Arise’s Costume DLC Adds Hidden Skills](https://kotaku.com/fyi-tales-of-arise-s-costume-dlc-adds-hidden-skills-1847647864)<!-- GAME:END -->
+ - [Here's what you can expect from Rainbow Six Siege's new season](https://www.pcgamer.com/heres-what-you-can-expect-from-rainbow-six-sieges-new-season)
+ - [Getting to Grips with F1 2021’s Free Trial](https://news.xbox.com/en-us/2021/09/10/getting-to-grips-f1-2021-free-trial/)
+ - [Aquaman gets a wacky makeover in James Wan and ThunderCats team’s new cartoon](https://www.polygon.com/2021/9/10/22666620/aquaman-king-of-atlantis-trailer-release-date-hbo-max)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
