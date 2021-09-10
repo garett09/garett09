@@ -181,9 +181,9 @@ Windows                  10 hrs 48 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Eternal Cylinder's nightmare geometry finally rolls out this month](https://www.pcgamer.com/the-eternal-cylinders-nightmare-geometry-finally-rolls-out-this-month)
- - [In Just Two Years, Nintendo Fan Completes Game Boy Collection](https://kotaku.com/in-just-two-years-nintendo-fan-completes-game-boy-coll-1847649831)
- - [Halo Infinite is inviting all Insiders to its next test in two weeks](https://www.pcgamer.com/halo-infinite-is-inviting-all-insiders-to-its-next-test-in-two-weeks)<!-- GAME:END -->
+ - [The best graphics cards in 2021](https://www.pcgamer.com/the-best-graphics-cards)
+ - [Corsair's thick new SSD smokes all first-gen PCIe 4.0 drives](https://www.pcgamer.com/corsairs-thick-new-ssd-smokes-all-first-gen-pcie-40-drives)
+ - [New World crafting guide: What you can make with each trade skill](https://www.pcgamer.com/new-world-crafting-guide)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
