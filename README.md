@@ -188,9 +188,9 @@ Windows                  10 hrs 48 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Norwegian enterprise software maker Visma says it is planning an IPO next year in Oslo after being valued at $19B in a secondary share sale (Reuters)](http://www.techmeme.com/210910/p10#a210910p10)
- - [Apple TV+ expands children's lineup with 'Yo Gabba Gabba!' & orders new series](https://appleinsider.com/articles/21/09/10/apple-tv-expands-childrens-lineup-with-yo-gabba-gabba-orders-new-series?utm_medium=rss)
- - [Amazon’s Fire TV Stick 4K is now available for the lowest price yet in 2021](https://www.theverge.com/good-deals/2021/9/10/22665458/amazon-fire-tv-stick-4k-apple-homepod-mini-m1-macbook-air-fujifilm-camera-deal-sale)<!-- TECH:END -->
+ - [Apple's $1B data center project in Ireland challenged again](https://appleinsider.com/articles/21/09/10/apples-1b-data-center-project-in-ireland-challenged-again?utm_medium=rss)
+ - [Startup insurance provider Vouch raises $90M, now valued at $550M](http://feedproxy.google.com/~r/Techcrunch/~3/KkQa4EAzemw/)
+ - [MaxRewards banks $3M to reveal best payment methods that reap the most rewards](http://feedproxy.google.com/~r/Techcrunch/~3/FQVU0RT0WAg/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
