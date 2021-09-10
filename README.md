@@ -181,9 +181,9 @@ Windows                  10 hrs 48 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Dragonlance creators announce a new setting based on D&D’s 5th edition ruleset](https://www.polygon.com/22667176/dungeons-dragons-skyraiders-of-abarax-dragonlance-announcement)
  - [Analogue Pocket delayed again, to December](https://www.polygon.com/22667276/analogue-pocket-delay-release-date)
- - [Embark on a Stunning Journey of Love and Hope with Inked: A Tale of Love](https://news.xbox.com/en-us/2021/09/10/inked-a-tale-of-love-available-now/)
- - [How to play Fortnite’s end-of-season event](https://www.polygon.com/fortnite/22664920/fortnite-event-time-operation-sky-fire-release-date-season-7-end)<!-- GAME:END -->
+ - [Embark on a Stunning Journey of Love and Hope with Inked: A Tale of Love](https://news.xbox.com/en-us/2021/09/10/inked-a-tale-of-love-available-now/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
