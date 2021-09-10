@@ -188,9 +188,9 @@ Windows                  10 hrs 48 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [China not issuing new game licenses, may impact App Store earnings](https://appleinsider.com/articles/21/09/09/china-not-issuing-new-game-licenses-may-impact-app-store-earnings?utm_medium=rss)
- - [TCL puts foldable phone plans on hold. Here’s the phone that might have been.](https://www.androidauthority.com/tcl-foldable-phone-plans-on-hold-3019631/)
- - [Apple thought low-cost TV dongle would ruin its premium reputation](https://appleinsider.com/articles/21/09/10/apple-thought-low-cost-tv-dongle-would-ruin-its-premium-reputation?utm_medium=rss)<!-- TECH:END -->
+ - [The Matrix: Resurrections, Don’t Look Up, and more streaming trailers to watch](https://www.androidauthority.com/new-movie-trailers-1151533/)
+ - [Vouch Insurance, which offers insurance policies tailored to tech startups, raises $30M Series B1 and $60M Series C, and is now valued at $550M (Mary Ann Azevedo/TechCrunch)](http://www.techmeme.com/210910/p14#a210910p14)
+ - [DoorDash, Grubhub, and Uber Eats sue New York City over restaurant fee caps](https://www.theverge.com/2021/9/10/22666455/doordash-grubhub-uber-eats-sue-new-york-city-restaurant-fee-caps-lawsuit)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
