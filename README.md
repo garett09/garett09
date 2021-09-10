@@ -188,9 +188,9 @@ Windows                  10 hrs 48 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple declares 2013 iPod touch obsolete](https://appleinsider.com/articles/21/09/10/apple-declares-2013-ipod-touch-obsolete?utm_medium=rss)
- - [Apple Maps brings Look Around, improved navigation to Italy & Andorra](https://appleinsider.com/articles/21/09/10/apple-maps-brings-look-around-to-italy-improves-navigation?utm_medium=rss)
- - [Binance.US appoints former Ant Group and Uber executive Brian Shroder as its new president after the resignation of CEO Brian Brooks (Olga Kharif/Bloomberg)](http://www.techmeme.com/210910/p3#a210910p3)<!-- TECH:END -->
+ - [19 Face Masks We Actually Like to Wear](https://www.wired.com/gallery/best-face-masks)
+ - [As Covid Cases Rise, So Do Hospital-Related Infections](https://www.wired.com/story/as-covid-cases-rise-so-do-hospital-related-infections)
+ - [Daily Authority: Carbon capture dreaming 🎵](https://www.androidauthority.com/newsletters/da-september-10-2021/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
