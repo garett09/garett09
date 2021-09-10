@@ -188,9 +188,9 @@ Windows                  10 hrs 48 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Epic Games asks Apple to reinstate Fortnite in South Korea after new law](http://feedproxy.google.com/~r/Techcrunch/~3/8B3xAIe0xNU/)
- - [Evander Holyfield vs. Vitor Belfort: Start time, how to watch or stream online, Donald Trump commentary     - CNET](https://www.cnet.com/news/evander-holyfield-vs-vitor-belfort-start-time-how-to-watch-or-stream-online-donald-trump-commentary/#ftag=CAD590a51e)
- - [Uber Eats, Grubhub, DoorDash sue NYC for limiting fees the apps can charge restaurants](http://feedproxy.google.com/~r/Techcrunch/~3/3RyXtPfzQBc/)<!-- TECH:END -->
+ - [Apple Music is adding more DJ mixes with new features powered by Shazam](https://www.theverge.com/2021/9/10/22662684/apple-music-dj-mix-shazam-streaming-ugc)
+ - [Apple fires employee who spoke out on workplace issues, cites alleged leak](https://appleinsider.com/articles/21/09/10/apple-fires-employee-who-spoke-out-on-workplace-issues-cites-alleged-leak?utm_medium=rss)
+ - [Apple won’t let Epic bring Fortnite back to South Korea’s App Store](https://www.theverge.com/2021/9/10/22666146/apple-epic-korea-fortnite-developer-account-rules-response)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
