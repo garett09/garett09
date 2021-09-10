@@ -188,9 +188,9 @@ Windows                  10 hrs 48 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Zuckerberg says WhatsApp will start rolling out e2e encrypted backups to iOS and Android users in the coming weeks as an optional feature (TechCrunch)](http://www.techmeme.com/210910/p15#a210910p15)
- - [WhatsApp is adding encrypted backups](https://www.theverge.com/2021/9/10/22665968/whatsapp-backups-end-to-end-encryption-ios-android)
- - [WhatsApp Fixes Its Biggest Encryption Loophole](https://www.wired.com/story/whatsapp-end-to-end-encrypted-backups)<!-- TECH:END -->
+ - [Apple must allow alternate payment methods for apps, judge rules](https://appleinsider.com/articles/21/09/10/apple-must-allow-developers-to-offering-alternate-payments-for-apps-judge-rules?utm_medium=rss)
+ - [Court issues permanent injunction in Epic v. Apple case, ruling that Apple must allow apps to link out to external purchases or let them use buttons (Russell Brandom/The Verge)](http://www.techmeme.com/210910/p16#a210910p16)
+ - [Best Deals Sept. 10 - Free Disney+ with Amazon Music, $5 Amazon credit with $50 Apple gift card, more!](https://appleinsider.com/articles/21/09/10/best-deals-sept-10---free-disney-with-amazon-music-5-amazon-credit-with-50-apple-gift-card-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
