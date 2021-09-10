@@ -195,9 +195,9 @@ Windows                  10 hrs 48 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Nostalgic](http://9gag.com/gag/a07ry9L)
- - 🚯 [Why though?](http://9gag.com/gag/anQmm25)
- - 🚯 [Just my opinion](http://9gag.com/gag/aK6QMnN)<!-- MEMES:END -->
+ - 🚖 [Why though?](http://9gag.com/gag/anQmm25)
+ - 🚯 [Going back to the office](http://9gag.com/gag/aXoy6gd)
+ - 🚯 [Let work you b****h...](http://9gag.com/gag/anQmPez)<!-- MEMES:END -->
 
 --- 
 
