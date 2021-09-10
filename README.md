@@ -181,9 +181,9 @@ Windows                  10 hrs 48 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This Game Could Genuinely Turn An Arachnophobe Into A Spider-Lover](https://kotaku.com/this-game-could-genuinely-turn-an-arachnophobe-into-a-s-1847651661)
- - [Best new board games and role-playing games of fall 2021](https://www.polygon.com/22544146/best-new-board-games-rpgs)
- - [The best CPU for gaming in 2021](https://www.pcgamer.com/best-cpu-for-gaming)<!-- GAME:END -->
+ - [WarioWare: Get It Together! is a better party game when chaos is involved](https://www.polygon.com/wario/22665128/warioware-switch-get-it-together-party-game)
+ - [App Store must allow third-party payments, judge tells Apple](https://www.polygon.com/22666910/epic-games-v-apple-fortnite-trial-ruling-app-store-payments)
+ - [The Artful Escape Is A Heartwarming, Psychedelic Tween Adventure](https://kotaku.com/the-artful-escape-is-a-heartwarming-psychedelic-tween-1847651055)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
