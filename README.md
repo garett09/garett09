@@ -188,9 +188,9 @@ Windows                  10 hrs 48 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kuo: Apple solves 'Apple Watch Series 7' production issue, mass-shipments to begin in late September](https://appleinsider.com/articles/21/09/10/kuo-apple-solves-apple-watch-series-7-production-issue-mass-shipments-to-begin-in-late-september?utm_medium=rss)
- - [Samsung confirms One UI 4.0 beta is running late](https://www.androidauthority.com/samsung-one-ui-4-delayed-3019026/)
- - [Epic asks Apple to reinstate developer account so it can re-release 'Fortnite' in Korea [u]](https://appleinsider.com/articles/21/09/09/epic-games-asks-apple-to-reinstate-developer-account-so-it-can-sell-fortnite-in-korea?utm_medium=rss)<!-- TECH:END -->
+ - ['Apple Watch Series 7' mass-shipments to begin in late September after Apple fixes production issue, Kuo says](https://appleinsider.com/articles/21/09/10/kuo-apple-solves-apple-watch-series-7-production-issue-mass-shipments-to-begin-in-late-september?utm_medium=rss)
+ - [Kuo: Apple has resolved its Apple Watch Series 7 production issues and will start mass production mid to late September, with shipping set for late September (Tim Hardwick/MacRumors)](http://www.techmeme.com/210910/p2#a210910p2)
+ - [Samsung confirms One UI 4.0 beta is running late](https://www.androidauthority.com/samsung-one-ui-4-delayed-3019026/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
