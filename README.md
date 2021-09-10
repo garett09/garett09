@@ -195,8 +195,8 @@ Windows                  10 hrs 48 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This guy dug a hole in the sand so his pregnant partner could lie in her stomach](http://9gag.com/gag/aDdK9YZ)
- - 🚯 [Mr. Anderson](http://9gag.com/gag/apN4zRp)
+ - 🚖 [Mr. Anderson](http://9gag.com/gag/apN4zRp)
+ - 🚯 [This guy dug a hole in the sand so his pregnant partner could lie in her stomach](http://9gag.com/gag/aDdK9YZ)
  - 🚯 [Crazy truck driver, rams cars in Mexico City](http://9gag.com/gag/aMKo69x)<!-- MEMES:END -->
 
 --- 
