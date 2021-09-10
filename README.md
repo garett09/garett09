@@ -181,9 +181,9 @@ Windows                  10 hrs 48 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Riftbreaker Launches October 14 with Xbox Game Pass on Day One](https://news.xbox.com/en-us/2021/09/10/the-riftbreaker-launches-october-14-with-xbox-game-pass-on-day-one/)
- - [Get This: 50 Cent: Blood On The Sand Started Out As A Tom Clancy Game](https://kotaku.com/get-this-50-cent-blood-on-the-sand-started-out-as-a-t-1847655379)
- - [True Roguelikes Like This Are For Sick People, Drink From My Poison Chalice](https://kotaku.com/true-roguelikes-like-this-are-for-sick-people-drink-fr-1847655177)<!-- GAME:END -->
+ - [Official PlayStation Podcast Episode 409: Show and Tell](http://feedproxy.google.com/~r/PSBlog/~3/ogYmGPMJ4qc/)
+ - [Official PlayStation Podcast Episode 409: Show and Tell](https://blog.playstation.com/2021/09/10/official-playstation-podcast-episode-409-show-and-tell/)
+ - [Court rules that Tim Sweeney really means all that stuff he says about the 'metaverse'](https://www.pcgamer.com/epic-games-metaverse-court)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
