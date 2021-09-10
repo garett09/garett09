@@ -188,9 +188,9 @@ Windows                  10 hrs 48 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple fires employee who spoke out on workplace issues, cites alleged leak](https://appleinsider.com/articles/21/09/10/apple-fires-employee-who-spoke-out-on-workplace-issues-cites-alleged-leak?utm_medium=rss)
- - [Samsung remedies Galaxy Watch 4 touch bezel issues with latest update](https://www.androidauthority.com/samsung-galaxy-watch-4-updates-2746069/)
- - [Apple Music says it will use Shazam's tech to properly identify and compensate all of the individual creators involved in making a DJ mix (Amanda Silberling/TechCrunch)](http://www.techmeme.com/210910/p1#a210910p1)<!-- TECH:END -->
+ - [Samsung confirms One UI 4.0 beta is running late](https://www.androidauthority.com/samsung-one-ui-4-delayed-3019026/)
+ - [Epic asks Apple to reinstate developer account so it can re-release 'Fortnite' in Korea [u]](https://appleinsider.com/articles/21/09/09/epic-games-asks-apple-to-reinstate-developer-account-so-it-can-sell-fortnite-in-korea?utm_medium=rss)
+ - [15 years on, Children of Men feels like a completely different movie     - CNET](https://www.cnet.com/news/15-years-on-children-of-men-feels-like-a-completely-different-movie/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
