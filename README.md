@@ -188,9 +188,9 @@ Windows                  10 hrs 48 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple's $1B data center project in Ireland challenged again](https://appleinsider.com/articles/21/09/10/apples-1b-data-center-project-in-ireland-challenged-again?utm_medium=rss)
- - [Startup insurance provider Vouch raises $90M, now valued at $550M](http://feedproxy.google.com/~r/Techcrunch/~3/KkQa4EAzemw/)
- - [MaxRewards banks $3M to reveal best payment methods that reap the most rewards](http://feedproxy.google.com/~r/Techcrunch/~3/FQVU0RT0WAg/)<!-- TECH:END -->
+ - [Apple TV+ planning 50 new shows for 2021, doubles production slate](https://appleinsider.com/articles/21/09/10/apple-tv-planning-50-new-shows-for-2021-doubles-production-slate?utm_medium=rss)
+ - [Apple TV+ expands children's lineup with 'Yo Gabba Gabba!' & orders new series](https://appleinsider.com/articles/21/09/10/apple-tv-expands-childrens-lineup-with-yo-gabba-gabba-orders-new-series?utm_medium=rss)
+ - [Sources: Apple intends to double its output of TV shows and movies next year to at least one a week and plans to spend $500M+ on marketing Apple TV+ this year (Jessica Toonkel/The Information)](http://www.techmeme.com/210910/p11#a210910p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
