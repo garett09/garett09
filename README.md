@@ -188,9 +188,9 @@ Windows                  10 hrs 48 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple must allow alternate payment methods for apps, judge rules](https://appleinsider.com/articles/21/09/10/apple-must-allow-developers-to-offering-alternate-payments-for-apps-judge-rules?utm_medium=rss)
- - [Court issues permanent injunction in Epic v. Apple case, ruling that Apple must allow apps to link out to external purchases or let them use buttons (Russell Brandom/The Verge)](http://www.techmeme.com/210910/p16#a210910p16)
- - [Best Deals Sept. 10 - Free Disney+ with Amazon Music, $5 Amazon credit with $50 Apple gift card, more!](https://appleinsider.com/articles/21/09/10/best-deals-sept-10---free-disney-with-amazon-music-5-amazon-credit-with-50-apple-gift-card-more?utm_medium=rss)<!-- TECH:END -->
+ - [Apple not a monopoly but must allow alternate payment methods for apps, judge rules](https://appleinsider.com/articles/21/09/10/apple-must-allow-developers-to-offering-alternate-payments-for-apps-judge-rules?utm_medium=rss)
+ - [WhatsApp will add support for encrypted message backups](https://www.androidauthority.com/whatsapp-encrypted-backups-3019704/)
+ - [Vergecast: How smart are Facebook’s glasses?](https://www.theverge.com/2021/9/10/22666599/vergecast-podcast-466-facebook-stories-ray-ban-glasses-apple-event-preview)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
