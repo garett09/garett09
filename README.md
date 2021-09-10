@@ -181,9 +181,9 @@ Windows                  10 hrs 48 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dragonlance creators announce a new setting based on D&D’s 5th edition ruleset](https://www.polygon.com/22667176/dungeons-dragons-skyraiders-of-abarax-dragonlance-announcement)
- - [Analogue Pocket delayed again, to December](https://www.polygon.com/22667276/analogue-pocket-delay-release-date)
- - [Embark on a Stunning Journey of Love and Hope with Inked: A Tale of Love](https://news.xbox.com/en-us/2021/09/10/inked-a-tale-of-love-available-now/)<!-- GAME:END -->
+ - [Poetic Puppeteering Platformer A Juggler’s Tale Arriving September 29](https://news.xbox.com/en-us/2021/09/10/jugglers-tale-arriving-on-xbox-september-29/)
+ - [No Man’s Sky’s Frontiers update won’t let me make new friends](https://www.polygon.com/22666938/no-mans-sky-frontiers-update-settlements-citizens-features-friends)
+ - [Epic v Apple judge grapples with the big question: What is a videogame?](https://www.pcgamer.com/videogame-definition-legal)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
