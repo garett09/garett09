@@ -181,9 +181,9 @@ Windows                  10 hrs 48 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Tales of Arise lands today, tips to begin your journey](https://blog.playstation.com/2021/09/10/tales-of-arise-lands-today-tips-to-begin-your-journey/)
- - [Metroid Dread trailer tells you everything you need to know](https://www.polygon.com/22666465/metroid-dread-release-date-nintendo-switch-gameplay-trailer)
- - [Holy Batman, There Are So Many Marvel Games Now](https://kotaku.com/holy-shit-there-are-so-many-marvel-games-now-1847647780)<!-- GAME:END -->
+ - [Next Week on Xbox September 13 to 17](https://news.xbox.com/en-us/2021/09/10/next-week-on-xbox-september-13-to-17/)
+ - [FYI: Tales Of Arise’s Costume DLC Adds Hidden Skills](https://kotaku.com/fyi-tales-of-arise-s-costume-dlc-adds-hidden-skills-1847647864)
+ - [Former Starbreeze exec's insider trading conviction quashed on appeal](https://www.pcgamer.com/former-starbreeze-execs-insider-trading-conviction-quashed-on-appeal)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
