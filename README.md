@@ -196,8 +196,8 @@ Windows                  10 hrs 48 mins      ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [I love my doll](http://9gag.com/gag/aRXbGBQ)
- - 🚯 [Presentation!](http://9gag.com/gag/aZ06KG0)
- - 🚯 [Mr. Anderson](http://9gag.com/gag/apN4zRp)<!-- MEMES:END -->
+ - 🚯 [Mr. Anderson](http://9gag.com/gag/apN4zRp)
+ - 🚯 [Presentation!](http://9gag.com/gag/aZ06KG0)<!-- MEMES:END -->
 
 --- 
 
