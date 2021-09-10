@@ -188,9 +188,9 @@ Windows                  10 hrs 48 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Matrix: Resurrections, Don’t Look Up, and more streaming trailers to watch](https://www.androidauthority.com/new-movie-trailers-1151533/)
- - [Vouch Insurance, which offers insurance policies tailored to tech startups, raises $30M Series B1 and $60M Series C, and is now valued at $550M (Mary Ann Azevedo/TechCrunch)](http://www.techmeme.com/210910/p14#a210910p14)
- - [DoorDash, Grubhub, and Uber Eats sue New York City over restaurant fee caps](https://www.theverge.com/2021/9/10/22666455/doordash-grubhub-uber-eats-sue-new-york-city-restaurant-fee-caps-lawsuit)<!-- TECH:END -->
+ - [Zuckerberg says WhatsApp will start rolling out e2e encrypted backups to iOS and Android users in the coming weeks as an optional feature (TechCrunch)](http://www.techmeme.com/210910/p15#a210910p15)
+ - [WhatsApp is adding encrypted backups](https://www.theverge.com/2021/9/10/22665968/whatsapp-backups-end-to-end-encryption-ios-android)
+ - [WhatsApp Fixes Its Biggest Encryption Loophole](https://www.wired.com/story/whatsapp-end-to-end-encrypted-backups)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
