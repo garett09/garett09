@@ -195,7 +195,7 @@ Windows                  10 hrs 48 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Mexican independence](http://9gag.com/gag/aV7prG8)
+ - 🚖 [It&rsquo;s a good day today](http://9gag.com/gag/a6E06pq)
  - 🚯 [Thank you for coming to my TED talk](http://9gag.com/gag/av5MwgO)
  - 🚯 [Be happy for this moment.](http://9gag.com/gag/abVNDP9)<!-- MEMES:END -->
 
