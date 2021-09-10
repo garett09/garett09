@@ -181,9 +181,9 @@ Windows                  10 hrs 48 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Rethinking Shang-Chi’s problematic origins in the Marvel universe with Gene Luen Yang](https://www.polygon.com/22666560/shang-chi-comics-fu-manchu-marvel-history-gene-luen-yang-interview)
  - [The best part of James Wan’s horror movie Malignant: it’s silly as hell](https://www.polygon.com/reviews/22666951/malignant-review-james-wan)
- - [WarioWare: Get It Together!: The Kotaku Review](https://kotaku.com/warioware-get-it-together-the-kotaku-review-1847652481)
- - [It’s Time for Tip-off! Jump Into NBA 2K22 Today on Xbox One and Xbox Series X|S](https://news.xbox.com/en-us/2021/09/10/play-nba-2k22-today-xbox-one-and-xbox-series-xs/)<!-- GAME:END -->
+ - [WarioWare: Get It Together!: The Kotaku Review](https://kotaku.com/warioware-get-it-together-the-kotaku-review-1847652481)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
