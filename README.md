@@ -189,8 +189,8 @@ Windows                  10 hrs 48 mins      ███████████�
 
 <!-- TECH:START -->
  - [Apple fires employee who spoke out on workplace issues, cites alleged leak](https://appleinsider.com/articles/21/09/10/apple-fires-employee-who-spoke-out-on-workplace-issues-cites-alleged-leak?utm_medium=rss)
- - [Apple Music says it will use Shazam's tech to properly identify and compensate all of the individual creators involved in making a DJ mix (Amanda Silberling/TechCrunch)](http://www.techmeme.com/210910/p1#a210910p1)
- - [Apple Music is adding more DJ mixes with new features powered by Shazam](https://www.theverge.com/2021/9/10/22662684/apple-music-dj-mix-shazam-streaming-ugc)<!-- TECH:END -->
+ - [Samsung remedies Galaxy Watch 4 touch bezel issues with latest update](https://www.androidauthority.com/samsung-galaxy-watch-4-updates-2746069/)
+ - [Apple Music says it will use Shazam's tech to properly identify and compensate all of the individual creators involved in making a DJ mix (Amanda Silberling/TechCrunch)](http://www.techmeme.com/210910/p1#a210910p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
