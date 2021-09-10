@@ -188,9 +188,9 @@ Windows                  10 hrs 48 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Dark Asteroid Ryugu Finally Comes Into the Light](https://www.wired.com/story/the-dark-asteroid-ryugu-finally-comes-into-the-light)
- - [Bloons TD 6 Might Be the Best $5 I’ve Ever Spent](https://www.wired.com/story/bloons-td-6-rave)
- - [Vaccine Mandates and Boosters—What Does It All Mean?](https://www.wired.com/story/gadget-lab-podcast-520)<!-- TECH:END -->
+ - [Norwegian enterprise software maker Visma says it is planning an IPO next year in Oslo after being valued at $19B in a secondary share sale (Reuters)](http://www.techmeme.com/210910/p10#a210910p10)
+ - [Apple TV+ expands children's lineup with 'Yo Gabba Gabba!' & orders new series](https://appleinsider.com/articles/21/09/10/apple-tv-expands-childrens-lineup-with-yo-gabba-gabba-orders-new-series?utm_medium=rss)
+ - [Amazon’s Fire TV Stick 4K is now available for the lowest price yet in 2021](https://www.theverge.com/good-deals/2021/9/10/22665458/amazon-fire-tv-stick-4k-apple-homepod-mini-m1-macbook-air-fujifilm-camera-deal-sale)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
