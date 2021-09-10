@@ -188,9 +188,9 @@ Windows                  10 hrs 48 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Facebook has told researchers studying misinformation that the data it gave them three years ago included about half of its US users, not all as it then claimed (Davey Alba/New York Times)](http://www.techmeme.com/210910/p24#a210910p24)
- - [You can now jump in the queue to buy a PS5](https://www.theverge.com/2021/9/10/22652047/sony-direct-playstation-ps5-restock-order-queue)
- - [Epic ruling is a win for Apple as it costs the company just a few billion annually and doesn't force Apple to change its fees or let 3rd-party app stores on iOS (Mark Gurman/Bloomberg)](http://www.techmeme.com/210910/p23#a210910p23)<!-- TECH:END -->
+ - [Judge says Apple may be ‘stretching the truth’ on Mac malware concerns](https://www.theverge.com/2021/9/10/22667256/apple-vs-epic-trail-judge-craig-federighi-macos-security-arguments-iphone-ios-response)
+ - [What we expect from next week’s Apple event](http://feedproxy.google.com/~r/Techcrunch/~3/a8wyrqMhs-o/)
+ - [Your phone alarms should work now, but you’ll need some updates (Updated)](https://www.androidauthority.com/google-clock-app-broken-3018855/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
