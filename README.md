@@ -195,9 +195,9 @@ Windows                  10 hrs 48 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How?](http://9gag.com/gag/av5M4bM)
- - 🚯 [I bet you can&#039;t find this pic on Google](http://9gag.com/gag/azMWvVZ)
- - 🚯 [When a cartoon makes more sense and logic than twitter.](http://9gag.com/gag/aqjPV8P)<!-- MEMES:END -->
+ - 🚖 [When a cartoon makes more sense and logic than twitter.](http://9gag.com/gag/aqjPV8P)
+ - 🚯 [Ironic](http://9gag.com/gag/aQoLBmK)
+ - 🚯 [He pepsi](http://9gag.com/gag/aP3E0zB)<!-- MEMES:END -->
 
 --- 
 
