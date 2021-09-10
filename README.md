@@ -181,9 +181,9 @@ Windows                  10 hrs 48 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Tiny Tina's Wonderlands has a JRPG-style overworld full of loot, quests, and random encounters](https://www.pcgamer.com/tiny-tinas-wonderlands-has-a-jrpg-style-overworld-full-of-loot-quests-and-random-encounters)
  - [Official PlayStation Podcast Episode 409: Show and Tell](http://feedproxy.google.com/~r/PSBlog/~3/ogYmGPMJ4qc/)
- - [Official PlayStation Podcast Episode 409: Show and Tell](https://blog.playstation.com/2021/09/10/official-playstation-podcast-episode-409-show-and-tell/)
- - [Court rules that Tim Sweeney really means all that stuff he says about the 'metaverse'](https://www.pcgamer.com/epic-games-metaverse-court)<!-- GAME:END -->
+ - [Official PlayStation Podcast Episode 409: Show and Tell](https://blog.playstation.com/2021/09/10/official-playstation-podcast-episode-409-show-and-tell/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
