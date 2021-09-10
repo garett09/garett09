@@ -195,9 +195,9 @@ Windows                  10 hrs 48 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Congratulations](http://9gag.com/gag/aB2Ae81)
+ - 🚖 [Are you a wizard?](http://9gag.com/gag/aNp7b4G)
  - 🚯 [Really !!!!](http://9gag.com/gag/aNp75LG)
- - 🚯 [Just my opinion](http://9gag.com/gag/aK6QMnN)<!-- MEMES:END -->
+ - 🚯 [It&rsquo;s a good day today](http://9gag.com/gag/a6E06pq)<!-- MEMES:END -->
 
 --- 
 
