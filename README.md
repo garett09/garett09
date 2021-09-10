@@ -188,9 +188,9 @@ Windows                  10 hrs 48 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sonos says it is raising prices for a majority of its product range amid the supply chain crunch (Mitchell Clark/The Verge)](http://www.techmeme.com/210910/p21#a210910p21)
- - [Epic appealing Apple's 'resounding victory' in App Store trial](https://appleinsider.com/articles/21/09/10/epic-appealing-apples-resounding-victory-in-app-store-trial?utm_medium=rss)
- - [Sonos raises prices for majority of products amid supply chain crunch](https://www.theverge.com/2021/9/10/22667044/sonos-speaker-price-increases-announce-september-12)<!-- TECH:END -->
+ - [Apple announces debut of upcoming sports drama series 'Swagger'](https://appleinsider.com/articles/21/09/10/apple-announces-debut-of-upcoming-sports-drama-series-swagger?utm_medium=rss)
+ - [Will Fortnite return to iOS? Probably not any time soon](https://www.theverge.com/2021/9/10/22667069/fortnite-ios-return-apple-epic-ruling)
+ - [Apple not a monopoly but must allow alternate payment methods for apps, judge rules](https://appleinsider.com/articles/21/09/10/apple-must-allow-developers-to-offering-alternate-payments-for-apps-judge-rules?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
