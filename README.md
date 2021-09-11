@@ -195,9 +195,9 @@ Windows                  11 hrs 12 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Never forget to forget..](http://9gag.com/gag/aAb8WA9)
- - 🚯 [I&#039;m still vibing either way](http://9gag.com/gag/aB2AD3x)
- - 🚯 [I might get divorced too but my daughter will be protected from Covid](http://9gag.com/gag/a3E6o87)<!-- MEMES:END -->
+ - 🚖 [I&#039;m still vibing either way](http://9gag.com/gag/aB2AD3x)
+ - 🚯 [Ground Zero at the World Trade Centre. The beeping noise is from the fallen firefighters who require help](http://9gag.com/gag/aQoLw2w)
+ - 🚯 [I pet goat](http://9gag.com/gag/abVNj3X)<!-- MEMES:END -->
 
 --- 
 
