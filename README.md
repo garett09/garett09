@@ -195,8 +195,8 @@ Windows                  11 hrs 12 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Pssst kids. Wanna learn about a coincidence?](http://9gag.com/gag/av5MYRd)
- - 🚯 [How the Dutch conquered their land on the water through the century&rsquo;s . Satellite pictures were quite good back then.](http://9gag.com/gag/aP3EOeq)
+ - 🚖 [How the Dutch conquered their land on the water through the century&rsquo;s . Satellite pictures were quite good back then.](http://9gag.com/gag/aP3EOeq)
+ - 🚯 [The collapse.](http://9gag.com/gag/anQ6qYn)
  - 🚯 [It seems Dementor scholing has begun](http://9gag.com/gag/aZ0eqj0)<!-- MEMES:END -->
 
 --- 
