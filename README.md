@@ -195,8 +195,8 @@ Windows                  11 hrs 12 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Never](http://9gag.com/gag/aB2A7oO)
- - 🚯 [Where be the lamb sauce, Master Turner?](http://9gag.com/gag/anQmL35)
+ - 🚖 [Where be the lamb sauce, Master Turner?](http://9gag.com/gag/anQmL35)
+ - 🚯 [Never forget to forget..](http://9gag.com/gag/aAb8WA9)
  - 🚯 [My name is Giovanni Giorgio, but everybody calls me Giorgio](http://9gag.com/gag/aB2A7AD)<!-- MEMES:END -->
 
 --- 
