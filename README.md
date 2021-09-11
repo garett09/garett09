@@ -188,9 +188,9 @@ Windows                  11 hrs 12 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google Pixel wallpapers: Download them all here](https://www.androidauthority.com/google-pixel-wallpapers-download-3018358/)
  - [OnePlus 9RT: All the rumors in one place](https://www.androidauthority.com/oneplus-9rt-2737438/)
- - [Motorcycle engine vibrations can 'degrade' iPhone camera performance](https://appleinsider.com/articles/21/09/11/motorcycle-engine-vibrations-can-degrade-iphone-camera-performance?utm_medium=rss)
- - [9/11 at 20: Poignant new movies, TV series and documentaries examining the fateful day     - CNET](https://www.cnet.com/news/911-at-20-poignant-new-movies-tv-series-and-documentaries-examining-the-fateful-day/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Motorcycle engine vibrations can 'degrade' iPhone camera performance](https://appleinsider.com/articles/21/09/11/motorcycle-engine-vibrations-can-degrade-iphone-camera-performance?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
