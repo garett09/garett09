@@ -188,9 +188,9 @@ Windows                  11 hrs 12 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fired Apple employee who aired workplace concerns gets approval to sue company](https://appleinsider.com/articles/21/09/11/fired-apple-employee-who-aired-workplace-concerns-gets-approval-to-sue-company?utm_medium=rss)
- - [Canon to acquire Canadian chipmaker Redlen after buying the remaining 85% stake for $270M; Redlen's tech to help Canon reduce radiation exposure in CT scanners (Nikkei Asia)](http://www.techmeme.com/210911/p2#a210911p2)
- - [Zoom has invested an additional $30M in Norway-based Neat, which makes video conference devices, bringing its total investment in Neat over three rounds to $41M (Joseph F. Kovar/CRN)](http://www.techmeme.com/210911/p1#a210911p1)<!-- TECH:END -->
+ - [Motorcycle engine vibrations can 'degrade' iPhone camera performance](https://appleinsider.com/articles/21/09/11/motorcycle-engine-vibrations-can-degrade-iphone-camera-performance?utm_medium=rss)
+ - [Antitrust action in Europe and the US is inevitable and Apple should rethink its stance towards regulators, often described as arrogant to inflexible (Roger McNamee/TIME)](http://www.techmeme.com/210911/p3#a210911p3)
+ - [Tesla should say something](http://feedproxy.google.com/~r/Techcrunch/~3/X-_MZGVldNM/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
