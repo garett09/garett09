@@ -196,8 +196,8 @@ Windows                  11 hrs 12 mins      ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [The Age of Nazgul has come.](http://9gag.com/gag/ad8E0Yd)
- - 🚯 [WTC 7 never forget](http://9gag.com/gag/aGpXYXw)
- - 🚯 [Girl hijacks her sister&#039;s job interview and beat her senseless for sleeping with her husband](http://9gag.com/gag/aEp3vxe)<!-- MEMES:END -->
+ - 🚯 [80 million votes](http://9gag.com/gag/ayMGEz8)
+ - 🚯 [WTC 7 never forget](http://9gag.com/gag/aGpXYXw)<!-- MEMES:END -->
 
 --- 
 
