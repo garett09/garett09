@@ -181,9 +181,9 @@ Windows                  11 hrs 12 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Uh... Jake From State Farm Is In NBA 2K22](https://kotaku.com/uh-jake-from-state-farm-is-in-nba-2k22-1847658431)
  - [Google Stadia Loses Another High-Profile Exec](https://kotaku.com/google-stadia-loses-another-high-profile-exec-1847658232)
- - [10 movies to stream while you’re mentally preparing for The Matrix 4](https://www.polygon.com/22536786/best-movies-like-matrix-to-watch)
- - [Bonsly Will Die If It Doesn't Cry Enough](https://kotaku.com/bonsly-will-die-if-it-doesnt-cry-enough-1847655998)<!-- GAME:END -->
+ - [10 movies to stream while you’re mentally preparing for The Matrix 4](https://www.polygon.com/22536786/best-movies-like-matrix-to-watch)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
