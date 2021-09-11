@@ -195,9 +195,9 @@ Windows                  11 hrs 12 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I might get divorced too but my daughter will be protected from Covid](http://9gag.com/gag/a3E6o87)
- - 🚯 [&quot;Can&#039;t afford a diamond ring so I got you this kitty&quot;](http://9gag.com/gag/aK6Q00j)
- - 🚯 [Carrot is good](http://9gag.com/gag/a3E6o27)<!-- MEMES:END -->
+ - 🚖 [How the Dutch conquered their land on the water through the century&rsquo;s . Satellite pictures were quite good back then.](http://9gag.com/gag/aP3EOeq)
+ - 🚯 [I might get divorced too but my daughter will be protected from Covid](http://9gag.com/gag/a3E6o87)
+ - 🚯 [Never forget to forget..](http://9gag.com/gag/aAb8WA9)<!-- MEMES:END -->
 
 --- 
 
