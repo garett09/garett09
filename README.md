@@ -188,9 +188,9 @@ Windows                  11 hrs 12 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Investigation finds ransomware hackers are publishing sensitive information of schoolchildren on the dark web; over 1,200 US K-12 schools had data leaks in 2021 (Kevin Collier/NBC News)](http://www.techmeme.com/210911/p5#a210911p5)
- - [Best Deals Sept. 11 - $56 Lego ISS, Dark Souls Board Game, Instant Vortex Pro, More!](https://appleinsider.com/articles/21/09/11/best-deals-sept-11---56-lego-iss-dark-souls-board-game-instant-vortex-pro-more?utm_medium=rss)
- - [Samsung Galaxy Z Flip 3 second opinion: This foldable has heart](https://www.androidauthority.com/samsung-galaxy-z-flip-3-review-second-opinion-2745652/)<!-- TECH:END -->
+ - [CBS’s ‘The Activist’ seems to think doomscrolling equals activism](https://www.theverge.com/2021/9/11/22667567/the-activist-naomi-klein-cbs-doomscrolling-activism-politics-usher-priyanka-chopra)
+ - [Apple warns that long-term exposure to vibrations, like those from high-power motorcycle engines, can degrade iPhone cameras by damaging their gyroscopes (Eric Slivka/MacRumors)](http://www.techmeme.com/210911/p6#a210911p6)
+ - [Peacock TV's Premier League live streams down just as matches start     - CNET](https://www.cnet.com/tech/services-and-software/peacock-tvs-premier-league-live-streams-down-just-as-matches-start/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
