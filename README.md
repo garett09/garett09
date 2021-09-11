@@ -188,9 +188,9 @@ Windows                  11 hrs 12 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [You can now buy a $475 NFT ticket to see Beeple’s $69 million NFT at an IRL party](https://www.theverge.com/2021/9/11/22666642/dreamverse-beeple-nft-inaugural-display-at-metapurse-party)
- - [Facebook reportedly provided inaccurate data to misinformation researchers](https://www.theverge.com/2021/9/11/22668396/facebook-provided-inaccurate-data-misinformation-researchers)
- - [Google says it handed user data in response to three requests from Hong Kong during H2 2020, despite earlier saying that requests have to be made through US DOJ (Selina Cheng/Hong Kong Free Press)](http://www.techmeme.com/210911/p7#a210911p7)<!-- TECH:END -->
+ - [TCL won’t release a foldable smartphone this year](https://www.theverge.com/2021/9/11/22668454/tcl-not-release-foldable-smartphone-chicago-supply-chain)
+ - [Instagram 'Favorites' will allow users to prioritize accounts in their feed](https://appleinsider.com/articles/21/09/11/instagram-favorites-will-allow-users-to-prioritize-accounts-in-their-feed?utm_medium=rss)
+ - [Apple won the Epic battle but is too arrogant to see that it still has to make some major App Store changes to both appease the courts and please developers (M.G. Siegler/500ish)](http://www.techmeme.com/210911/p8#a210911p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
