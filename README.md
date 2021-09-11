@@ -188,9 +188,9 @@ Windows                  11 hrs 12 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OnePlus 9RT: All the rumors in one place](https://www.androidauthority.com/oneplus-9rt-2737438/)
  - [Motorcycle engine vibrations can 'degrade' iPhone camera performance](https://appleinsider.com/articles/21/09/11/motorcycle-engine-vibrations-can-degrade-iphone-camera-performance?utm_medium=rss)
- - [Antitrust action in Europe and the US is inevitable and Apple should rethink its stance towards regulators, often described as arrogant to inflexible (Roger McNamee/TIME)](http://www.techmeme.com/210911/p3#a210911p3)
- - [Tesla should say something](http://feedproxy.google.com/~r/Techcrunch/~3/X-_MZGVldNM/)<!-- TECH:END -->
+ - [9/11 at 20: Poignant new movies, TV series and documentaries examining the fateful day     - CNET](https://www.cnet.com/news/911-at-20-poignant-new-movies-tv-series-and-documentaries-examining-the-fateful-day/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
