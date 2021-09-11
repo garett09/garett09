@@ -197,7 +197,7 @@ Windows                  11 hrs 12 mins      ███████████�
 <!-- MEMES:START -->
  - 🚖 [First Time Playing a Song He Never Heard From First Sight Read of the Score](http://9gag.com/gag/aDdKy47)
  - 🚯 [Its my Bday today and I&#039;m officially 28 years old and rapidly nearing 30 post the best bday memes](http://9gag.com/gag/aXoyBRD)
- - 🚯 [She&#039;s the chosen one.](http://9gag.com/gag/a07r2vB)<!-- MEMES:END -->
+ - 🚯 [Cars vs rail](http://9gag.com/gag/amPeeOV)<!-- MEMES:END -->
 
 --- 
 
