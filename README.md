@@ -195,9 +195,9 @@ Windows                  11 hrs 12 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [She&#039;s the chosen one.](http://9gag.com/gag/a07r2vB)
- - 🚯 [Failed](http://9gag.com/gag/aqjPoPQ)
- - 🚯 [First Time Playing a Song He Never Heard From First Sight Read of the Score](http://9gag.com/gag/aDdKy47)<!-- MEMES:END -->
+ - 🚖 [First Time Playing a Song He Never Heard From First Sight Read of the Score](http://9gag.com/gag/aDdKy47)
+ - 🚯 [Its my Bday today and I&#039;m officially 28 years old and rapidly nearing 30 post the best bday memes](http://9gag.com/gag/aXoyBRD)
+ - 🚯 [She&#039;s the chosen one.](http://9gag.com/gag/a07r2vB)<!-- MEMES:END -->
 
 --- 
 
