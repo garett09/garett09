@@ -195,9 +195,9 @@ Windows                  11 hrs 12 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This has everything....](http://9gag.com/gag/aEp3wBn)
- - 🚯 [The Age of Nazgul has come.](http://9gag.com/gag/ad8E0Yd)
- - 🚯 [No, no. He&#039;s got a point.](http://9gag.com/gag/aEp3dDM)<!-- MEMES:END -->
+ - 🚖 [The Age of Nazgul has come.](http://9gag.com/gag/ad8E0Yd)
+ - 🚯 [No, no. He&#039;s got a point.](http://9gag.com/gag/aEp3dDM)
+ - 🚯 [This has everything....](http://9gag.com/gag/aEp3wBn)<!-- MEMES:END -->
 
 --- 
 
