@@ -195,8 +195,8 @@ Windows                  11 hrs 12 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Yes!](http://9gag.com/gag/arMQPqK)
- - 🚯 [Ground Zero at the World Trade Centre. The beeping noise is from the fallen firefighters who require help](http://9gag.com/gag/aQoLw2w)
+ - 🚖 [I pet goat](http://9gag.com/gag/abVNj3X)
+ - 🚯 [Where all men cried](http://9gag.com/gag/aWjrVrK)
  - 🚯 [Carrot is good](http://9gag.com/gag/a3E6o27)<!-- MEMES:END -->
 
 --- 
