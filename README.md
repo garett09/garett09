@@ -195,9 +195,9 @@ Windows                  11 hrs 12 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Drying clothes with a spark](http://9gag.com/gag/a4EXvzm)
- - 🚯 [Based](http://9gag.com/gag/aXoyB9v)
- - 🚯 [First Time Playing a Song He Never Heard From First Sight Read of the Score](http://9gag.com/gag/aDdKy47)<!-- MEMES:END -->
+ - 🚖 [Based](http://9gag.com/gag/aXoyB9v)
+ - 🚯 [Failed](http://9gag.com/gag/aqjPoPQ)
+ - 🚯 [Drying clothes with a spark](http://9gag.com/gag/a4EXvzm)<!-- MEMES:END -->
 
 --- 
 
