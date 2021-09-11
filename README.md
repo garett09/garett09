@@ -188,9 +188,9 @@ Windows                  11 hrs 12 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Number of UK unicorns grew 10x in the last decade, with invested capital growing from &euro;1B/year to &euro;13B/year, but some worry Brexit will counteract the change (Financial Times)](http://www.techmeme.com/210911/p11#a210911p11)
- - [How FBI and Australian police built and marketed the An0m chat service for criminals, which cost $1,700 for a handset and $1,250 for an annual subscription (Simon Parkin/The Guardian)](http://www.techmeme.com/210911/p10#a210911p10)
- - [Scenes from a Marriage: Jessica Chastain, Oscar Isaac elevate raw, intimate remake     - CNET](https://www.cnet.com/news/scenes-from-a-marriage-jessica-chastain-oscar-isaac-elevate-raw-intimate-remake/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: US officials are considering a Financial Stability Oversight Council review into whether Tether and other stablecoins threaten financial stability (Bloomberg)](http://www.techmeme.com/210911/p12#a210911p12)
+ - [Philo TV: Everything you need to know about the budget live TV service](https://www.androidauthority.com/philo-tv-2739551/)
+ - [Chattanooga newspaper hands iPads to subscribers in digital switch](https://appleinsider.com/articles/21/09/11/chattanooga-newspaper-hands-ipads-to-subscribers-in-digital-switch?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
