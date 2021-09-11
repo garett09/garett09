@@ -195,9 +195,9 @@ Windows                  11 hrs 12 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I&#039;m still vibing either way](http://9gag.com/gag/aB2AD3x)
- - 🚯 [That&#039;s why beauty pageants for minors are illegal in civilised country](http://9gag.com/gag/aXoyDQ6)
- - 🚯 [Whoever thought this was a good idea](http://9gag.com/gag/awMEqor)<!-- MEMES:END -->
+ - 🚖 [Weekend vibes](http://9gag.com/gag/azMW06K)
+ - 🚯 [&quot;Can&#039;t afford a diamond ring so I got you this kitty&quot;](http://9gag.com/gag/aK6Q00j)
+ - 🚯 [Fatality](http://9gag.com/gag/abVN9j8)<!-- MEMES:END -->
 
 --- 
 
