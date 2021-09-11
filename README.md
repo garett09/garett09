@@ -188,9 +188,9 @@ Windows                  11 hrs 12 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google reportedly gave some users’ data to Hong Kong authorities in 2020](https://www.theverge.com/2021/9/11/22668734/google-user-data-hong-kong-authorities-china)
- - [Sources: US officials are considering a Financial Stability Oversight Council review into whether Tether and other stablecoins threaten financial stability (Bloomberg)](http://www.techmeme.com/210911/p12#a210911p12)
- - [Philo TV: Everything you need to know about the budget live TV service](https://www.androidauthority.com/philo-tv-2739551/)<!-- TECH:END -->
+ - [Study of 61,000 Microsoft employees shows the shift to remote work has hurt communication and collaboration, threatening productivity and long-term innovation (Todd Bishop/GeekWire)](http://www.techmeme.com/210911/p13#a210911p13)
+ - [Google One adds a 5TB storage plan for $24.99 per month](https://www.theverge.com/2021/9/11/22668790/google-one-adds-5tb-storage-plan-photos)
+ - [Google reportedly gave some users’ data to Hong Kong authorities in 2020](https://www.theverge.com/2021/9/11/22668734/google-user-data-hong-kong-authorities-china)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
