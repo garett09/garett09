@@ -195,9 +195,9 @@ Windows                  11 hrs 12 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When you&#039;re from the city and go for a hike (00:15)](http://9gag.com/gag/azMW6Qq)
- - 🚯 [True](http://9gag.com/gag/aeALjA5)
- - 🚯 [It seems Dementor scholing has begun](http://9gag.com/gag/aZ0eqj0)<!-- MEMES:END -->
+ - 🚖 [Girl hijacks her sister&#039;s job interview and beat her senseless for sleeping with her husband](http://9gag.com/gag/aEp3vxe)
+ - 🚯 [It seems Dementor scholing has begun](http://9gag.com/gag/aZ0eqj0)
+ - 🚯 [The Age of Nazgul has come.](http://9gag.com/gag/ad8E0Yd)<!-- MEMES:END -->
 
 --- 
 
