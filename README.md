@@ -188,9 +188,9 @@ Windows                  11 hrs 12 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Gillmor Gang: Life Goes On](http://feedproxy.google.com/~r/Techcrunch/~3/vcFm7OpbMrY/)
  - [NASA: Mars rover rocks reveal 'potentially habitable sustained environment'     - CNET](https://www.cnet.com/news/mars-rover-rocks-reveal-potentially-habitable-sustained-environment-nasa-says/#ftag=CAD590a51e)
- - [Scientists discover massive 'swimming head' dating back 500 million years     - CNET](https://www.cnet.com/news/scientists-discover-massive-swimming-head-dating-back-500-million-years/#ftag=CAD590a51e)
- - [Apple manager fired after filing harassment complaints reportedly has US approval to sue company     - CNET](https://www.cnet.com/news/apple-manager-fired-after-filing-harassment-complaints-reportedly-has-us-approval-to-sue-company/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Scientists discover massive 'swimming head' dating back 500 million years     - CNET](https://www.cnet.com/news/scientists-discover-massive-swimming-head-dating-back-500-million-years/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
