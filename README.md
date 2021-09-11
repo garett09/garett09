@@ -195,9 +195,9 @@ Windows                  11 hrs 12 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Carrot is good](http://9gag.com/gag/a3E6o27)
+ - 🚖 [I might get divorced too but my daughter will be protected from Covid](http://9gag.com/gag/a3E6o87)
  - 🚯 [No, no. He&#039;s got a point.](http://9gag.com/gag/aEp3dDM)
- - 🚯 [80 million votes](http://9gag.com/gag/ayMGEz8)<!-- MEMES:END -->
+ - 🚯 [Doing different things in wood, I try different styles and techniques, this time I tried the Celtic style, and of course I carved the Fox. Rate it please.](http://9gag.com/gag/azMW63b)<!-- MEMES:END -->
 
 --- 
 
