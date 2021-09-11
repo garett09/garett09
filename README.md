@@ -188,9 +188,9 @@ Windows                  11 hrs 12 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How FBI and Australian police built and marketed the An0m chat service for criminals, which cost $1,700 for a handset and $1,250 for an annual subscription (Simon Parkin/The Guardian)](http://www.techmeme.com/210911/p10#a210911p10)
  - [Nintendo history: Every major Nintendo console from NES to Switch](https://www.androidauthority.com/nintendo-history-1660873/)
- - [He-Man gets a new partner: Sun-Man, the first Black superhero toy     - CNET](https://www.cnet.com/news/he-man-gets-a-new-partner-sun-man-the-first-black-superhero-toy/#ftag=CAD590a51e)
- - [Small developers say the Epic ruling could lead to a windfall but some researchers say it is unclear if consumers will actually use alternative payment methods (New York Times)](http://www.techmeme.com/210911/p9#a210911p9)<!-- TECH:END -->
+ - [He-Man gets a new partner: Sun-Man, the first Black superhero toy     - CNET](https://www.cnet.com/news/he-man-gets-a-new-partner-sun-man-the-first-black-superhero-toy/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
