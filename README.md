@@ -188,9 +188,9 @@ Windows                  11 hrs 12 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Salesforce, in a Slack message, says it will help relocate employees, who are worried about access to reproductive healthcare in their state, and their families (Jordan Novet/CNBC)](http://www.techmeme.com/210910/p31#a210910p31)
+ - [Prototype reveals Apple considered cellular Apple Watch Series 2](https://appleinsider.com/articles/21/09/10/prototype-reveals-apple-considered-cellular-apple-watch-series-2?utm_medium=rss)
  - [Apple TV+ signs John Lithgow to cast of 'Sharper' ahead of filming next week](https://appleinsider.com/articles/21/09/11/apple-tv-signs-john-lithgow-to-cast-of-sharper-ahead-of-filming-next-week?utm_medium=rss)
- - [A fair reading of the Epic vs. Apple injunction suggests that Apple needs to allow third-party payment methods in the app and not just links to ones on the web (Nilay Patel/The Verge)](http://www.techmeme.com/210910/p30#a210910p30)<!-- TECH:END -->
+ - [Apple stock closes down 3% on news of Epic ruling](https://appleinsider.com/articles/21/09/10/apple-stock-closes-down-3-on-news-of-epic-ruling?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
