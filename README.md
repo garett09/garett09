@@ -195,8 +195,8 @@ Windows                  11 hrs 12 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Why though?](http://9gag.com/gag/anQmm25)
- - 🚯 [Weird car feature](http://9gag.com/gag/aK6QQ5Q)
+ - 🚖 [Weird car feature](http://9gag.com/gag/aK6QQ5Q)
+ - 🚯 [First Time Playing a Song He Never Heard From First Sight Read of the Score](http://9gag.com/gag/aDdKy47)
  - 🚯 [Based](http://9gag.com/gag/aXoyB9v)<!-- MEMES:END -->
 
 --- 
