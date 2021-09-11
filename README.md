@@ -195,9 +195,9 @@ Windows                  11 hrs 12 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This woman being a saviour to Kenya one brick at a time](http://9gag.com/gag/a1ry40b)
- - 🚯 [I&#039;m still vibing either way](http://9gag.com/gag/aB2AD3x)
- - 🚯 [Ground Zero at the World Trade Centre. The beeping noise is from the fallen firefighters who require help](http://9gag.com/gag/aQoLw2w)<!-- MEMES:END -->
+ - 🚖 [Yes!](http://9gag.com/gag/arMQPqK)
+ - 🚯 [Ground Zero at the World Trade Centre. The beeping noise is from the fallen firefighters who require help](http://9gag.com/gag/aQoLw2w)
+ - 🚯 [Carrot is good](http://9gag.com/gag/a3E6o27)<!-- MEMES:END -->
 
 --- 
 
