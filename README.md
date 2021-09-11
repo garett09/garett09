@@ -188,9 +188,9 @@ Windows                  11 hrs 12 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google says it handed user data in response to three requests from Hong Kong during H2 2020, despite earlier saying that requests have to be made through US DOJ (Selina Cheng/Hong Kong Free Press)](http://www.techmeme.com/210911/p7#a210911p7)
  - [CBS’s ‘The Activist’ seems to think doomscrolling equals activism](https://www.theverge.com/2021/9/11/22667567/the-activist-naomi-klein-cbs-doomscrolling-activism-politics-usher-priyanka-chopra)
- - [Apple warns that long-term exposure to vibrations, like those from high-power motorcycle engines, can degrade iPhone cameras by damaging their gyroscopes (Eric Slivka/MacRumors)](http://www.techmeme.com/210911/p6#a210911p6)
- - [Peacock TV's Premier League live streams down just as matches start     - CNET](https://www.cnet.com/tech/services-and-software/peacock-tvs-premier-league-live-streams-down-just-as-matches-start/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple warns that long-term exposure to vibrations, like those from high-power motorcycle engines, can degrade iPhone cameras by damaging their gyroscopes (Eric Slivka/MacRumors)](http://www.techmeme.com/210911/p6#a210911p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
