@@ -181,9 +181,9 @@ Windows                  11 hrs 12 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Two Team Fortress 2 mods are down due to 'an arrangement with Valve'](https://www.pcgamer.com/two-team-fortress-2-mods-are-down-due-to-an-arrangement-with-valve)
  - [Alan Wake Remastered Is Ditching The Energizer Batteries And Verizon Billboards](https://kotaku.com/alan-wake-remastered-is-ditching-the-energizer-batterie-1847658945)
- - [Uh... Jake From State Farm Is In NBA 2K22](https://kotaku.com/uh-jake-from-state-farm-is-in-nba-2k22-1847658431)
- - [Google Stadia Loses Another High-Profile Exec](https://kotaku.com/google-stadia-loses-another-high-profile-exec-1847658232)<!-- GAME:END -->
+ - [Uh... Jake From State Farm Is In NBA 2K22](https://kotaku.com/uh-jake-from-state-farm-is-in-nba-2k22-1847658431)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
