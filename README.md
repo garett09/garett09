@@ -195,8 +195,8 @@ Windows                  11 hrs 12 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [She&#039;s the chosen one.](http://9gag.com/gag/a07r2vB)
- - 🚯 [Fatality](http://9gag.com/gag/abVN9j8)
+ - 🚖 [My name is Giovanni Giorgio, but everybody calls me Giorgio](http://9gag.com/gag/aB2A7AD)
+ - 🚯 [Around 10,000 ducks are sent to eat insects in a rice paddy after harvest in Thailand...](http://9gag.com/gag/a3E6VMm)
  - 🚯 [Idk what to put here](http://9gag.com/gag/axMLXK2)<!-- MEMES:END -->
 
 --- 
