@@ -195,9 +195,9 @@ Windows                  11 hrs 12 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Where be the lamb sauce, Master Turner?](http://9gag.com/gag/anQmL35)
- - 🚯 [Never forget to forget..](http://9gag.com/gag/aAb8WA9)
- - 🚯 [My name is Giovanni Giorgio, but everybody calls me Giorgio](http://9gag.com/gag/aB2A7AD)<!-- MEMES:END -->
+ - 🚖 [My name is Giovanni Giorgio, but everybody calls me Giorgio](http://9gag.com/gag/aB2A7AD)
+ - 🚯 [That&#039;s why beauty pageants for minors are illegal in civilised country](http://9gag.com/gag/aXoyDQ6)
+ - 🚯 [Lady hits cop with her fist then the cop hits her back](http://9gag.com/gag/aO3MX9R)<!-- MEMES:END -->
 
 --- 
 
