@@ -188,9 +188,9 @@ Windows                  11 hrs 12 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Deals Sept. 11 - $56 Lego ISS, Dark Souls Board Game, Instant Vortex Pro, More!](https://appleinsider.com/articles/21/09/11/best-deals-sept-11---56-lego-iss-dark-souls-board-game-instant-vortex-pro-more?utm_medium=rss)
  - [TCL won’t release a foldable smartphone this year](https://www.theverge.com/2021/9/11/22668454/tcl-not-release-foldable-smartphone-chicago-supply-chain)
- - [Instagram 'Favorites' will allow users to prioritize accounts in their feed](https://appleinsider.com/articles/21/09/11/instagram-favorites-will-allow-users-to-prioritize-accounts-in-their-feed?utm_medium=rss)
- - [Apple won the Epic battle but is too arrogant to see that it still has to make some major App Store changes to both appease the courts and please developers (M.G. Siegler/500ish)](http://www.techmeme.com/210911/p8#a210911p8)<!-- TECH:END -->
+ - [Instagram 'Favorites' will allow users to prioritize accounts in their feed](https://appleinsider.com/articles/21/09/11/instagram-favorites-will-allow-users-to-prioritize-accounts-in-their-feed?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
