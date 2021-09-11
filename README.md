@@ -196,8 +196,8 @@ Windows                  11 hrs 12 mins      ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Its my Bday today and I&#039;m officially 28 years old and rapidly nearing 30 post the best bday memes](http://9gag.com/gag/aXoyBRD)
- - 🚯 [This fella better stay away from crowds](http://9gag.com/gag/aO3Mwb6)
- - 🚯 [Wine diesel](http://9gag.com/gag/aEp99mO)<!-- MEMES:END -->
+ - 🚯 [Never](http://9gag.com/gag/aB2A7oO)
+ - 🚯 [This fella better stay away from crowds](http://9gag.com/gag/aO3Mwb6)<!-- MEMES:END -->
 
 --- 
 
