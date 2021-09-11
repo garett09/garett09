@@ -195,9 +195,9 @@ Windows                  11 hrs 12 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Dude laughs at a Tesla driver, proceeds to wreck his own car seconds later](http://9gag.com/gag/aV7pNWK)
- - 🚯 [My name is Giovanni Giorgio, but everybody calls me Giorgio](http://9gag.com/gag/aB2A7AD)
- - 🚯 [Idk what to put here](http://9gag.com/gag/axMLXK2)<!-- MEMES:END -->
+ - 🚖 [Let&#039;s burn our calories together](http://9gag.com/gag/aP3EN4B)
+ - 🚯 [Idk what to put here](http://9gag.com/gag/axMLXK2)
+ - 🚯 [My name is Giovanni Giorgio, but everybody calls me Giorgio](http://9gag.com/gag/aB2A7AD)<!-- MEMES:END -->
 
 --- 
 
