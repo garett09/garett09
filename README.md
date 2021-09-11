@@ -195,9 +195,9 @@ Windows                  11 hrs 12 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Its my Bday today and I&#039;m officially 28 years old and rapidly nearing 30 post the best bday memes](http://9gag.com/gag/aXoyBRD)
- - 🚯 [Never](http://9gag.com/gag/aB2A7oO)
- - 🚯 [This fella better stay away from crowds](http://9gag.com/gag/aO3Mwb6)<!-- MEMES:END -->
+ - 🚖 [Idk what to put here](http://9gag.com/gag/axMLXK2)
+ - 🚯 [Drying clothes with a spark](http://9gag.com/gag/a4EXvzm)
+ - 🚯 [She&#039;s the chosen one.](http://9gag.com/gag/a07r2vB)<!-- MEMES:END -->
 
 --- 
 
