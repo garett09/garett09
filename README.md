@@ -188,9 +188,9 @@ Windows                  11 hrs 12 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Small developers say the Epic ruling could lead to a windfall but some researchers say it is unclear if consumers will actually use alternative payment methods (New York Times)](http://www.techmeme.com/210911/p9#a210911p9)
- - [Best Deals Sept. 11 - $56 Lego ISS, Dark Souls Board Game, Instant Vortex Pro, More!](https://appleinsider.com/articles/21/09/11/best-deals-sept-11---56-lego-iss-dark-souls-board-game-instant-vortex-pro-more?utm_medium=rss)
- - [TCL won’t release a foldable smartphone this year](https://www.theverge.com/2021/9/11/22668454/tcl-not-release-foldable-smartphone-chicago-supply-chain)<!-- TECH:END -->
+ - [Nintendo history: Every major Nintendo console from NES to Switch](https://www.androidauthority.com/nintendo-history-1660873/)
+ - [He-Man gets a new partner: Sun-Man, the first Black superhero toy     - CNET](https://www.cnet.com/news/he-man-gets-a-new-partner-sun-man-the-first-black-superhero-toy/#ftag=CAD590a51e)
+ - [Small developers say the Epic ruling could lead to a windfall but some researchers say it is unclear if consumers will actually use alternative payment methods (New York Times)](http://www.techmeme.com/210911/p9#a210911p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
