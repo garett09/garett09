@@ -188,9 +188,9 @@ Windows                  11 hrs 12 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Prototype reveals Apple considered cellular Apple Watch Series 2](https://appleinsider.com/articles/21/09/10/prototype-reveals-apple-considered-cellular-apple-watch-series-2?utm_medium=rss)
- - [California releases front end and middle tier code for its Digital Vaccine Record on GitHub to help other states deploy SMART Health Card systems of their own (Rick Klau/California Department of Technology)](http://www.techmeme.com/210910/p27#a210910p27)
- - [Go read this report about the horrifying leaks coming from school ransomware attacks](https://www.theverge.com/2021/9/10/22667637/go-read-this-ransomware-attacks-schools-student-identity-theft)<!-- TECH:END -->
+ - [The DoD has retaken all 175M IPv4 addresses it handed over to a Florida company on Trump's last day; DoD says its schedule was "agnostic" of the admin change (Craig Timberg/Washington Post)](http://www.techmeme.com/210910/p29#a210910p29)
+ - [Apple and Epic both lost today](https://www.theverge.com/2021/9/10/22667769/apple-epic-lost-lawsuit-verdict-ruling)
+ - [Sources: US and EU are in talks to allow companies, including Facebook and other US tech firms, to keep storing and accessing Europeans' personal data in the US (Wall Street Journal)](http://www.techmeme.com/210910/p28#a210910p28)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
