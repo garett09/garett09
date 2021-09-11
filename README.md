@@ -195,9 +195,9 @@ Windows                  11 hrs 12 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Weekend vibes](http://9gag.com/gag/azMW06K)
+ - 🚖 [I might get divorced too but my daughter will be protected from Covid](http://9gag.com/gag/a3E6o87)
  - 🚯 [&quot;Can&#039;t afford a diamond ring so I got you this kitty&quot;](http://9gag.com/gag/aK6Q00j)
- - 🚯 [Fatality](http://9gag.com/gag/abVN9j8)<!-- MEMES:END -->
+ - 🚯 [Carrot is good](http://9gag.com/gag/a3E6o27)<!-- MEMES:END -->
 
 --- 
 
