@@ -188,9 +188,9 @@ Windows                  11 hrs 12 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Weekly Authority: Edition #159](https://www.androidauthority.com/newsletters/weekly-authority-edition-159/)
- - [Google Pixel wallpapers: Download them all here](https://www.androidauthority.com/google-pixel-wallpapers-download-3018358/)
- - [OnePlus 9RT: All the rumors in one place](https://www.androidauthority.com/oneplus-9rt-2737438/)<!-- TECH:END -->
+ - [These Apps Saved My Sanity (and Probably My Marriage)](https://www.wired.com/story/family-organization-apps-saved-my-marriage)
+ - [Elizabeth Holmes Is on Trial. Silicon Valley Is Watching](https://www.wired.com/story/theranos-elizabeth-holmes-trial-silicon-valley-is-watching)
+ - [The 18 Best Weekend Deals on Headphones, Games, and Sex Toys](https://www.wired.com/story/weekend-deals-september-11-2021)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
