@@ -188,9 +188,9 @@ Windows                  11 hrs 12 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Zoom has invested an additional $30M in Norway-based Neat, which makes video conference devices, bringing its total investment in Neat over three rounds to $41M (Joseph F. Kovar/CRN)](http://www.techmeme.com/210911/p1#a210911p1)
- - [Gillmor Gang: Life Goes On](http://feedproxy.google.com/~r/Techcrunch/~3/vcFm7OpbMrY/)
- - [NASA: Mars rover rocks reveal 'potentially habitable sustained environment'     - CNET](https://www.cnet.com/news/mars-rover-rocks-reveal-potentially-habitable-sustained-environment-nasa-says/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Fired Apple employee who aired workplace concerns gets approval to sue company](https://appleinsider.com/articles/21/09/11/fired-apple-employee-who-aired-workplace-concerns-gets-approval-to-sue-company?utm_medium=rss)
+ - [Canon to acquire Canadian chipmaker Redlen after buying the remaining 85% stake for $270M; Redlen's tech to help Canon reduce radiation exposure in CT scanners (Nikkei Asia)](http://www.techmeme.com/210911/p2#a210911p2)
+ - [Zoom has invested an additional $30M in Norway-based Neat, which makes video conference devices, bringing its total investment in Neat over three rounds to $41M (Joseph F. Kovar/CRN)](http://www.techmeme.com/210911/p1#a210911p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
