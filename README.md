@@ -195,9 +195,9 @@ Windows                  11 hrs 12 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Let&#039;s burn our calories together](http://9gag.com/gag/aP3EN4B)
- - 🚯 [Idk what to put here](http://9gag.com/gag/axMLXK2)
- - 🚯 [My name is Giovanni Giorgio, but everybody calls me Giorgio](http://9gag.com/gag/aB2A7AD)<!-- MEMES:END -->
+ - 🚖 [Teamwork at its best.](http://9gag.com/gag/ayMbgoY)
+ - 🚯 [Never](http://9gag.com/gag/aB2A7oO)
+ - 🚯 [Hero](http://9gag.com/gag/anQmLEb)<!-- MEMES:END -->
 
 --- 
 
