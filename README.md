@@ -195,9 +195,9 @@ Windows                  11 hrs 12 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Not me](http://9gag.com/gag/ayMbOMq)
- - 🚯 [Cars vs rail](http://9gag.com/gag/amPeeOV)
- - 🚯 [Around 10,000 ducks are sent to eat insects in a rice paddy after harvest in Thailand...](http://9gag.com/gag/a3E6VMm)<!-- MEMES:END -->
+ - 🚖 [Its my Bday today and I&#039;m officially 28 years old and rapidly nearing 30 post the best bday memes](http://9gag.com/gag/aXoyBRD)
+ - 🚯 [This fella better stay away from crowds](http://9gag.com/gag/aO3Mwb6)
+ - 🚯 [Wine diesel](http://9gag.com/gag/aEp99mO)<!-- MEMES:END -->
 
 --- 
 
