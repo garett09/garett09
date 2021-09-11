@@ -181,9 +181,9 @@ Windows                  11 hrs 12 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Kate, Malignant, and every new movie available to stream from home](https://www.polygon.com/2021/9/10/22656610/kate-netflx-watch-malignant-hbo-max-new-movies)
  - [Tchia is a soul-jumping game inspired by New Caledonia culture](https://www.pcgamer.com/tchia-trailer)
- - [Tiny Tina's Wonderlands has a JRPG-style overworld full of loot, quests, and random encounters](https://www.pcgamer.com/tiny-tinas-wonderlands-has-a-jrpg-style-overworld-full-of-loot-quests-and-random-encounters)
- - [Official PlayStation Podcast Episode 409: Show and Tell](http://feedproxy.google.com/~r/PSBlog/~3/ogYmGPMJ4qc/)<!-- GAME:END -->
+ - [Tiny Tina's Wonderlands has a JRPG-style overworld full of loot, quests, and random encounters](https://www.pcgamer.com/tiny-tinas-wonderlands-has-a-jrpg-style-overworld-full-of-loot-quests-and-random-encounters)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
