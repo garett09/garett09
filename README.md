@@ -195,9 +195,9 @@ Windows                  11 hrs 12 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I pet goat](http://9gag.com/gag/abVNj3X)
- - 🚯 [Where all men cried](http://9gag.com/gag/aWjrVrK)
- - 🚯 [Carrot is good](http://9gag.com/gag/a3E6o27)<!-- MEMES:END -->
+ - 🚖 [Carrot is good](http://9gag.com/gag/a3E6o27)
+ - 🚯 [No, no. He&#039;s got a point.](http://9gag.com/gag/aEp3dDM)
+ - 🚯 [80 million votes](http://9gag.com/gag/ayMGEz8)<!-- MEMES:END -->
 
 --- 
 
