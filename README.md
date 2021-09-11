@@ -188,9 +188,9 @@ Windows                  11 hrs 12 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The DoD has retaken all 175M IPv4 addresses it handed over to a Florida company on Trump's last day; DoD says its schedule was "agnostic" of the admin change (Craig Timberg/Washington Post)](http://www.techmeme.com/210910/p29#a210910p29)
- - [Apple and Epic both lost today](https://www.theverge.com/2021/9/10/22667769/apple-epic-lost-lawsuit-verdict-ruling)
- - [Sources: US and EU are in talks to allow companies, including Facebook and other US tech firms, to keep storing and accessing Europeans' personal data in the US (Wall Street Journal)](http://www.techmeme.com/210910/p28#a210910p28)<!-- TECH:END -->
+ - [Salesforce, in a Slack message, says it will help relocate employees, who are worried about access to reproductive healthcare in their state, and their families (Jordan Novet/CNBC)](http://www.techmeme.com/210910/p31#a210910p31)
+ - [Apple TV+ signs John Lithgow to cast of 'Sharper' ahead of filming next week](https://appleinsider.com/articles/21/09/11/apple-tv-signs-john-lithgow-to-cast-of-sharper-ahead-of-filming-next-week?utm_medium=rss)
+ - [A fair reading of the Epic vs. Apple injunction suggests that Apple needs to allow third-party payment methods in the app and not just links to ones on the web (Nilay Patel/The Verge)](http://www.techmeme.com/210910/p30#a210910p30)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
