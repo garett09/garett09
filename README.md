@@ -195,8 +195,8 @@ Windows                  11 hrs 12 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How the Dutch conquered their land on the water through the century&rsquo;s . Satellite pictures were quite good back then.](http://9gag.com/gag/aP3EOeq)
- - 🚯 [The collapse.](http://9gag.com/gag/anQ6qYn)
+ - 🚖 [When you&#039;re from the city and go for a hike (00:15)](http://9gag.com/gag/azMW6Qq)
+ - 🚯 [True](http://9gag.com/gag/aeALjA5)
  - 🚯 [It seems Dementor scholing has begun](http://9gag.com/gag/aZ0eqj0)<!-- MEMES:END -->
 
 --- 
