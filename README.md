@@ -188,9 +188,9 @@ Windows                  11 hrs 12 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ways to Stay Sane and Relaxed During a Pandemic](https://www.wired.com/story/ways-to-stay-calm-and-relax-during-quarantine)
- - [A Flawed, Strange Covid-19 Origin Theory Is Gaining Traction](https://www.wired.com/story/flawed-covid-19-origin-theory-italy)
- - [Biggest DDoS Attack in History Hits Russian Tech Giant Yandex](https://www.wired.com/story/yandex-ddos-fortinet-passwords-security-news)<!-- TECH:END -->
+ - [Best Deals Sept. 11 - $56 Lego ISS, Dark Souls Board Game, Instant Vortex Pro, More!](https://appleinsider.com/articles/21/09/11/best-deals-sept-11---56-lego-iss-dark-souls-board-game-instant-vortex-pro-more?utm_medium=rss)
+ - [Samsung Galaxy Z Flip 3 second opinion: This foldable has heart](https://www.androidauthority.com/samsung-galaxy-z-flip-3-review-second-opinion-2745652/)
+ - [Disney says the rest of its 2021 slate of movies will have exclusive theatrical releases](https://www.theverge.com/2021/9/11/22668326/disney-movies-exclusive-theatrical-streaming-black-widow-eternals-johansson)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
