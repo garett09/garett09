@@ -181,9 +181,9 @@ Windows                  11 hrs 12 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Bonsly Will Die If It Doesn't Cry Enough](https://kotaku.com/bonsly-will-die-if-it-doesnt-cry-enough-1847655998)
  - [FIFA 22: How PS5’s DualSense controller and 3D Audio immerse you in The World’s Game like never before](http://feedproxy.google.com/~r/PSBlog/~3/XLQj1HjPXsY/)
- - [FIFA 22: How PS5’s DualSense controller and 3D Audio immerse you in The World’s Game like never before](https://blog.playstation.com/2021/09/11/fifa-22-how-ps5s-dualsense-controller-and-3d-audio-immerse-you-in-the-worlds-game-like-never-before/)
- - [Kate, Malignant, and every new movie available to stream from home](https://www.polygon.com/2021/9/10/22656610/kate-netflx-watch-malignant-hbo-max-new-movies)<!-- GAME:END -->
+ - [FIFA 22: How PS5’s DualSense controller and 3D Audio immerse you in The World’s Game like never before](https://blog.playstation.com/2021/09/11/fifa-22-how-ps5s-dualsense-controller-and-3d-audio-immerse-you-in-the-worlds-game-like-never-before/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
