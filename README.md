@@ -196,8 +196,8 @@ Windows                  11 hrs 12 mins      ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [I might get divorced too but my daughter will be protected from Covid](http://9gag.com/gag/a3E6o87)
- - 🚯 [No, no. He&#039;s got a point.](http://9gag.com/gag/aEp3dDM)
- - 🚯 [Doing different things in wood, I try different styles and techniques, this time I tried the Celtic style, and of course I carved the Fox. Rate it please.](http://9gag.com/gag/azMW63b)<!-- MEMES:END -->
+ - 🚯 [How the Dutch conquered their land on the water through the century&rsquo;s . Satellite pictures were quite good back then.](http://9gag.com/gag/aP3EOeq)
+ - 🚯 [Pssst kids. Wanna learn about a coincidence?](http://9gag.com/gag/av5MYRd)<!-- MEMES:END -->
 
 --- 
 
