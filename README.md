@@ -188,7 +188,7 @@ Windows                  11 hrs 12 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Skepticism on 'iPhone 14' rumors, Apple Watch Series 8, & more on This Week in Apple](https://appleinsider.com/articles/21/09/11/skepticism-on-iphone-14-rumors-apple-watch-series-8-more-on-this-week-in-apple?utm_medium=rss)
+ - ['iPhone 14' & Apple Watch Series 8 rumor discussion, plus more on This Week in Apple](https://appleinsider.com/articles/21/09/11/skepticism-on-iphone-14-rumors-apple-watch-series-8-more-on-this-week-in-apple?utm_medium=rss)
  - [Profile of Ksenia Coffman, who has made 97K edits and created 3,200 pages on Wikipedia, and her efforts to remove glorified Nazi history from the site (Noam Cohen/Wired)](http://www.techmeme.com/210911/p4#a210911p4)
  - [Buyer beware: Don’t even think about buying a Wear OS 2 smartwatch](https://www.androidauthority.com/wear-os-3-vs-wear-os-2-2747606/)<!-- TECH:END -->
 
