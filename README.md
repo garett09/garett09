@@ -195,9 +195,9 @@ Windows                  11 hrs 12 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [My name is Giovanni Giorgio, but everybody calls me Giorgio](http://9gag.com/gag/aB2A7AD)
+ - 🚖 [I&#039;m still vibing either way](http://9gag.com/gag/aB2AD3x)
  - 🚯 [That&#039;s why beauty pageants for minors are illegal in civilised country](http://9gag.com/gag/aXoyDQ6)
- - 🚯 [Lady hits cop with her fist then the cop hits her back](http://9gag.com/gag/aO3MX9R)<!-- MEMES:END -->
+ - 🚯 [Whoever thought this was a good idea](http://9gag.com/gag/awMEqor)<!-- MEMES:END -->
 
 --- 
 
