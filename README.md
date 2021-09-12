@@ -188,9 +188,9 @@ Windows                  11 hrs 12 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Technology giant Olympus hit by BlackMatter ransomware](http://feedproxy.google.com/~r/Techcrunch/~3/kQIMjv3vcKU/)
  - ['iPhone 13,' 'Apple Watch Series 7' to feature in first of two Apple events](https://appleinsider.com/articles/21/09/12/iphone-13-apple-watch-series-7-to-feature-in-first-of-two-apple-events?utm_medium=rss)
- - [New Trailers: The Matrix: Resurrections, The Guilty, Ron’s Gone Wrong, Star Trek: Picard and more](https://www.theverge.com/2021/9/12/22668359/new-trailers-the-matrix-the-guilty-rons-gone-wrong-star-trek-picard-netflix-hbo)
- - [UK's Post Office signs a deal with decentralized exchange Swarm Markets to let users of its app buy vouchers that can be redeemed for cryptocurrencies (Tim Hakki/Decrypt)](http://www.techmeme.com/210912/p7#a210912p7)<!-- TECH:END -->
+ - [New Trailers: The Matrix: Resurrections, The Guilty, Ron’s Gone Wrong, Star Trek: Picard and more](https://www.theverge.com/2021/9/12/22668359/new-trailers-the-matrix-the-guilty-rons-gone-wrong-star-trek-picard-netflix-hbo)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
