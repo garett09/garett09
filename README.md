@@ -188,9 +188,9 @@ Windows                  11 hrs 12 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy XCover Pro review: Form over function](https://www.androidauthority.com/samsung-galaxy-xcover-pro-review-1645599/)
- - [Apple event: How to watch the expected iPhone 13, Apple Watch 7 launch live on Sept. 14     - CNET](https://www.cnet.com/tech/mobile/apple-event-how-to-watch-expected-iphone-13-apple-watch-7-launch-live-on-sept-14/#ftag=CAD590a51e)
- - [How to watch and stream Cardinals vs. Titans, Browns vs. Chiefs, RedZone and the rest of NFL Week 1 without cable     - CNET](https://www.cnet.com/tech/home-entertainment/how-to-watch-and-stream-cardinals-vs-titans-browns-vs-chiefs-redzone-and-the-rest-of-nfl-week-1-without-cable/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [What to expect from Apple's September 14 event: narrower notch on iPhone 13, LTPO displays for Pro models, redesigned Watch Series 7 with a bigger screen, more (Mark Gurman/Bloomberg)](http://www.techmeme.com/210912/p5#a210912p5)
+ - [Epic has appealed Friday’s ruling in the Epic v. Apple case](https://www.theverge.com/2021/9/12/22670269/epic-files-appeal-fortnite-legal-battle)
+ - [Fortnite: How to watch 'Operation: Sky Fire' season finale event     - CNET](https://www.cnet.com/news/fortnite-how-to-watch-operation-sky-fire-season-finale-event/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
