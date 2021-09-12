@@ -196,8 +196,8 @@ Windows                  11 hrs 12 mins      ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [One can truly relate with this...](http://9gag.com/gag/aXoBX46)
- - 🚯 [In case you haven&#039;t heard of him.](http://9gag.com/gag/aYo9wM2)
- - 🚯 [Pack of Hyenas chose the wrong day to hunt a Lion](http://9gag.com/gag/aV7AW1y)<!-- MEMES:END -->
+ - 🚯 [Pack of Hyenas chose the wrong day to hunt a Lion](http://9gag.com/gag/aV7AW1y)
+ - 🚯 [In case you haven&#039;t heard of him.](http://9gag.com/gag/aYo9wM2)<!-- MEMES:END -->
 
 --- 
 
