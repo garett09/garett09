@@ -188,9 +188,9 @@ Windows                  11 hrs 12 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [What to expect from Apple's September 14 event: narrower notch on iPhone 13, LTPO displays for Pro models, redesigned Watch Series 7 with a bigger screen, more (Mark Gurman/Bloomberg)](http://www.techmeme.com/210912/p5#a210912p5)
- - [Epic has appealed Friday’s ruling in the Epic v. Apple case](https://www.theverge.com/2021/9/12/22670269/epic-files-appeal-fortnite-legal-battle)
- - [Fortnite: How to watch 'Operation: Sky Fire' season finale event     - CNET](https://www.cnet.com/news/fortnite-how-to-watch-operation-sky-fire-season-finale-event/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Epic has filed an appeal to Friday's ruling in its lawsuit against Apple with the US Court of Appeals for the Ninth Circuit (Kim Lyons/The Verge)](http://www.techmeme.com/210912/p6#a210912p6)
+ - [Epic Games vs Apple trial & verdict - all you need to know](https://appleinsider.com/articles/20/08/23/apple-versus-epic-games-fortnite-app-store-saga----the-story-so-far?utm_medium=rss)
+ - [Epic Games files to appeal ruling in Apple lawsuit](https://appleinsider.com/articles/21/09/12/epic-games-files-to-appeal-ruling-in-apple-lawsuit?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
