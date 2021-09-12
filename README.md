@@ -188,9 +188,9 @@ Windows                  11 hrs 12 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [ReST Smart Bed review: An app-connected mattress for a good night's rest](https://appleinsider.com/articles/21/09/12/rest-smart-bed-review-an-app-connected-mattress-for-a-good-nights-rest?utm_medium=rss)
- - [YouTube is also forcing the popular Rythm Discord music bot offline](https://www.theverge.com/2021/9/12/22669502/youtube-discord-rythm-music-bot-closure)
- - [Fortnite’s explosive alien event saw the return of Kevin the cube](https://www.theverge.com/2021/9/12/22670317/fortnite-alien-invasion-season-7-end-event-operation-sky-fire)<!-- TECH:END -->
+ - [New Trailers: The Matrix: Resurrections, The Guilty, Ron’s Gone Wrong, Star Trek: Picard and more](https://www.theverge.com/2021/9/12/22668359/new-trailers-the-matrix-the-guilty-rons-gone-wrong-star-trek-picard-netflix-hbo)
+ - [UK's Post Office signs a deal with decentralized exchange Swarm Markets to let users of its app buy vouchers that can be redeemed for cryptocurrencies (Tim Hakki/Decrypt)](http://www.techmeme.com/210912/p7#a210912p7)
+ - [ReST Smart Bed review: An app-connected mattress for a good night's rest](https://appleinsider.com/articles/21/09/12/rest-smart-bed-review-an-app-connected-mattress-for-a-good-nights-rest?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
