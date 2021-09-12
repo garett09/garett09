@@ -195,9 +195,9 @@ Windows                  11 hrs 12 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Poor barber](http://9gag.com/gag/aV7AWnM)
- - 🚯 [Good ole U S of A](http://9gag.com/gag/aZ0eNm6)
- - 🚯 [Ashleigh, Ashly, Ashlee, Ashleigh, Uhshlee&hellip;](http://9gag.com/gag/a1r9eEb)<!-- MEMES:END -->
+ - 🚖 [One can truly relate with this...](http://9gag.com/gag/aXoBX46)
+ - 🚯 [In case you haven&#039;t heard of him.](http://9gag.com/gag/aYo9wM2)
+ - 🚯 [Pack of Hyenas chose the wrong day to hunt a Lion](http://9gag.com/gag/aV7AW1y)<!-- MEMES:END -->
 
 --- 
 
