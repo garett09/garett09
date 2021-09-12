@@ -188,9 +188,9 @@ Windows                  11 hrs 12 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Bezos' biggest legacy could be "Bezosism", using surveillance, algorithms, and data to supercharge old management systems and squeeze performance out of workers (Christopher Mims/Wall Street Journal)](http://www.techmeme.com/210912/p2#a210912p2)
  - [Denmark-based Corti, a SaaS startup using AI to help health professionals improve patient consultations on phone or video in real time, raises $27M Series A (Vishal Singh/Silicon Canals)](http://www.techmeme.com/210912/p1#a210912p1)
- - [Casper Original mattress review: A firm feel that's ideal for back sleepers     - CNET](https://www.cnet.com/health/sleep/casper-original-mattress-review/#ftag=CAD590a51e)
- - [Apple's iPhone 13 has a lot to live up to after the iPhone 12's success     - CNET](https://www.cnet.com/tech/mobile/apples-iphone-13-has-lot-to-live-up-to-after-the-iphone-12-success/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Casper Original mattress review: A firm feel that's ideal for back sleepers     - CNET](https://www.cnet.com/health/sleep/casper-original-mattress-review/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
