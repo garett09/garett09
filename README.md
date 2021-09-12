@@ -195,8 +195,8 @@ Windows                  11 hrs 12 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [From different perspective](http://9gag.com/gag/aV7AjDy)
- - 🚯 [80 million votes](http://9gag.com/gag/ayMGEz8)
+ - 🚖 [80 million votes](http://9gag.com/gag/ayMGEz8)
+ - 🚯 [Ruling on the field is&hellip;](http://9gag.com/gag/a1r9ZZv)
  - 🚯 [Girl hijacks her sister&#039;s job interview and beat her senseless for sleeping with her husband](http://9gag.com/gag/aEp3vxe)<!-- MEMES:END -->
 
 --- 
