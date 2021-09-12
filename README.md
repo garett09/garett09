@@ -195,9 +195,9 @@ Windows                  11 hrs 12 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Good ole U S of A](http://9gag.com/gag/aZ0eNm6)
- - 🚯 [A lot of false glorification around. Sorry weebs.](http://9gag.com/gag/a7EQywL)
- - 🚯 [This is real](http://9gag.com/gag/aLpxP9g)<!-- MEMES:END -->
+ - 🚖 [Poor barber](http://9gag.com/gag/aV7AWnM)
+ - 🚯 [Good ole U S of A](http://9gag.com/gag/aZ0eNm6)
+ - 🚯 [Ashleigh, Ashly, Ashlee, Ashleigh, Uhshlee&hellip;](http://9gag.com/gag/a1r9eEb)<!-- MEMES:END -->
 
 --- 
 
