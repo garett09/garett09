@@ -196,8 +196,8 @@ Windows                  11 hrs 12 mins      ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Poor barber](http://9gag.com/gag/aV7AWnM)
- - 🚯 [Cookies](http://9gag.com/gag/a7EQyre)
- - 🚯 [Childhood](http://9gag.com/gag/a1r9Z4G)<!-- MEMES:END -->
+ - 🚯 [Open your mouth](http://9gag.com/gag/aoMXjpn)
+ - 🚯 [India .. not for beginners](http://9gag.com/gag/aWjzWQA)<!-- MEMES:END -->
 
 --- 
 
