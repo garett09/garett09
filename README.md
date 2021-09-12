@@ -181,9 +181,9 @@ Windows                  11 hrs 12 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [New Rocky Game Is Basically A Visual Novel With Arcade Boxing Action](https://kotaku.com/new-rocky-game-is-basically-a-visual-novel-with-arcade-1847659433)
- - [Alan Wake Remastered will scrub all that product placement](https://www.pcgamer.com/alan-wake-remastered-will-scrub-all-that-product-placement)
- - [Two Popular Team Fortress 2 Mods Temporarily Removed Due To 'Arrangements' With Valve](https://kotaku.com/two-popular-team-fortress-2-mods-have-been-temporarily-1847661357)<!-- GAME:END -->
+ - [Epic appeals Apple verdict, ponders meaning of the word 'button'](https://www.pcgamer.com/epic-appeals-apple-verdict-ponders-meaning-of-the-word-button)
+ - [An Oxenfree update has Oxenfree 2 bleeding backwards in time](https://www.pcgamer.com/an-oxenfree-update-has-oxenfree-2-bleeding-backwards-in-time)
+ - [Steam Turns 18 Years Old Today](https://kotaku.com/steam-turns-18-years-old-today-1847661716)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
