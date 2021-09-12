@@ -188,9 +188,9 @@ Windows                  11 hrs 12 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [NFL 2021 streaming: How to watch football, RedZone this season without having cable     - CNET](https://www.cnet.com/tech/services-and-software/nfl-2021-streaming-how-to-watch-football-redzone-this-season-without-having-cable-fantasy-football-livestream/#ftag=CAD590a51e)
- - [Watch the director of Godzilla vs Kong’s horror masterpiece on Hulu and Epix](https://www.androidauthority.com/youre-next-hulu-epix-3019007/)
- - [The best electric lawn mowers of 2021     - CNET](https://www.cnet.com/home/yard-and-outdoors/best-electric-lawn-mower/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sell your used Apple device, get a 10% cash bonus ahead of the iPhone 13](https://appleinsider.com/articles/21/09/08/sell-your-used-apple-device-get-a-10-cash-bonus-ahead-of-the-iphone-13?utm_medium=rss)
+ - [The first iPhone with 1TB of storage is reportedly coming Tuesday](https://www.theverge.com/2021/9/12/22670072/apple-iphone-13-pro-models-1tb-storage-kuo)
+ - [A short history of every time Apple CEO Tim Cook praised augmented reality](https://www.theverge.com/21077484/apple-tim-cook-ar-augmented-reality)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
