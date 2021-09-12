@@ -195,9 +195,9 @@ Windows                  11 hrs 12 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Alignment](http://9gag.com/gag/axM5ZzD)
- - 🚯 [... and the ugly !](http://9gag.com/gag/aoMXZr0)
- - 🚯 [Cookies](http://9gag.com/gag/a7EQyre)<!-- MEMES:END -->
+ - 🚖 [... and the ugly !](http://9gag.com/gag/aoMXZr0)
+ - 🚯 [Cookies](http://9gag.com/gag/a7EQyre)
+ - 🚯 [Pack of Hyenas chose the wrong day to hunt a Lion](http://9gag.com/gag/aV7AW1y)<!-- MEMES:END -->
 
 --- 
 
