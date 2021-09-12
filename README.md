@@ -188,9 +188,9 @@ Windows                  11 hrs 12 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - ['iPhone 13,' 'Apple Watch Series 7' features outlined ahead of Tuesday event](https://appleinsider.com/articles/21/09/12/iphone-13-apple-watch-series-7-features-outlined-ahead-of-tuesday-event?utm_medium=rss)
- - [iPhone 13 Pro will get 1TB option & new 'AirPods 3' will not replace AirPods](https://appleinsider.com/articles/21/09/12/iphone-13-pro-will-get-1tb-option-new-airpods-3-will-not-replace-airpods?utm_medium=rss)
- - [Salesforce will help employees concerned about access to reproductive healthcare to exit Texas](https://www.theverge.com/2021/9/12/22669774/salesforce-relocate-employees-abortion-access-benioff-texas-sb8)<!-- TECH:END -->
+ - [RIP Google Hangouts, you deserved better](https://www.androidauthority.com/google-hangouts-2739112/)
+ - [Honda and Toyota criticize Democrats’ proposed tax credit for union-made electric vehicles](https://www.theverge.com/2021/9/12/22669809/honda-toyota-criticize-democrats-proposed-tax-credit-union-made-electric-vehicles)
+ - ['iPhone 13,' 'Apple Watch Series 7' features outlined ahead of Tuesday event](https://appleinsider.com/articles/21/09/12/iphone-13-apple-watch-series-7-features-outlined-ahead-of-tuesday-event?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
