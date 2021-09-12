@@ -195,9 +195,9 @@ Windows                  11 hrs 12 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [She loves mansplaining.](http://9gag.com/gag/ayMGLBX)
- - 🚯 [Living the dream](http://9gag.com/gag/abV76Gv)
- - 🚯 [Looks scary.](http://9gag.com/gag/aLpxBXx)<!-- MEMES:END -->
+ - 🚖 [Car with a motorcycle engine](http://9gag.com/gag/aO3wVgr)
+ - 🚯 [Looks scary.](http://9gag.com/gag/aLpxBXx)
+ - 🚯 [I demand some answers.](http://9gag.com/gag/aZ0ep2n)<!-- MEMES:END -->
 
 --- 
 
