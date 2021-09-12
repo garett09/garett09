@@ -181,9 +181,9 @@ Windows                  11 hrs 12 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Fortnite's Cube Returns For Season 7's Explosive Finale](https://kotaku.com/fortnites-cube-returns-for-season-7s-explosive-finale-1847661760)
- - [Epic appeals Apple verdict, ponders meaning of the word 'button'](https://www.pcgamer.com/epic-appeals-apple-verdict-ponders-meaning-of-the-word-button)
- - [An Oxenfree update has Oxenfree 2 bleeding backwards in time](https://www.pcgamer.com/an-oxenfree-update-has-oxenfree-2-bleeding-backwards-in-time)<!-- GAME:END -->
+ - [Project Eve looks like a cross between Nier and Bayonetta](https://www.pcgamer.com/project-eve-looks-like-a-cross-between-nier-and-bayonetta)
+ - [Rainbow Six Siege multiplayer broken by weird squad 'ghosts'](https://www.pcgamer.com/rainbow-six-siege-squad-bug)
+ - [Fortnite's Cube Returns For Season 7's Explosive Finale](https://kotaku.com/fortnites-cube-returns-for-season-7s-explosive-finale-1847661760)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
