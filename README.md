@@ -188,9 +188,9 @@ Windows                  11 hrs 12 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [ReST Smart Bed review: An app-connected mattress for a good night's rest](https://appleinsider.com/articles/21/09/12/rest-smart-bed-review-an-app-connected-mattress-for-a-good-nights-rest?utm_medium=rss)
  - [YouTube is also forcing the popular Rythm Discord music bot offline](https://www.theverge.com/2021/9/12/22669502/youtube-discord-rythm-music-bot-closure)
- - [Fortnite’s explosive alien event saw the return of Kevin the cube](https://www.theverge.com/2021/9/12/22670317/fortnite-alien-invasion-season-7-end-event-operation-sky-fire)
- - [NFL Week 1: How to watch and stream Browns vs. Chiefs, Bears vs. Rams, RedZone without cable     - CNET](https://www.cnet.com/tech/home-entertainment/nfl-week-1-how-to-watch-and-stream-browns-vs-chiefs-bears-vs-rams-redzone-without-cable/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Fortnite’s explosive alien event saw the return of Kevin the cube](https://www.theverge.com/2021/9/12/22670317/fortnite-alien-invasion-season-7-end-event-operation-sky-fire)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
