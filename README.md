@@ -195,9 +195,9 @@ Windows                  11 hrs 12 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Fascinating footage. The streets of Tokyo, Japan in 1913. Colorized and speed adjusted.](http://9gag.com/gag/aK6RPNZ)
- - 🚯 [Scooter](http://9gag.com/gag/apNOB59)
- - 🚯 [Open your mouth](http://9gag.com/gag/aoMXjpn)<!-- MEMES:END -->
+ - 🚖 [Good ole U S of A](http://9gag.com/gag/aZ0eNm6)
+ - 🚯 [A lot of false glorification around. Sorry weebs.](http://9gag.com/gag/a7EQywL)
+ - 🚯 [This is real](http://9gag.com/gag/aLpxP9g)<!-- MEMES:END -->
 
 --- 
 
