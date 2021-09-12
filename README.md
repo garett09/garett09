@@ -188,9 +188,9 @@ Windows                  11 hrs 12 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Salesforce will help employees concerned about access to reproductive healthcare to exit Texas](https://www.theverge.com/2021/9/12/22669774/salesforce-relocate-employees-abortion-access-benioff-texas-sb8)
- - ['Ted Lasso' adds two Creative Arts Emmys to the trophy cabinet](https://appleinsider.com/articles/21/09/12/ted-lasso-adds-two-creative-arts-emmys-to-the-trophy-cabinet?utm_medium=rss)
- - [Newspaper giving free iPads to subscribers in digital switch](https://appleinsider.com/articles/21/09/11/chattanooga-newspaper-hands-ipads-to-subscribers-in-digital-switch?utm_medium=rss)<!-- TECH:END -->
+ - ['iPhone 13,' 'Apple Watch Series 7' features outlined ahead of Tuesday event](https://appleinsider.com/articles/21/09/12/iphone-13-apple-watch-series-7-features-outlined-ahead-of-tuesday-event?utm_medium=rss)
+ - [iPhone 13 Pro will get 1TB option & new 'AirPods 3' will not replace AirPods](https://appleinsider.com/articles/21/09/12/iphone-13-pro-will-get-1tb-option-new-airpods-3-will-not-replace-airpods?utm_medium=rss)
+ - [Salesforce will help employees concerned about access to reproductive healthcare to exit Texas](https://www.theverge.com/2021/9/12/22669774/salesforce-relocate-employees-abortion-access-benioff-texas-sb8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
