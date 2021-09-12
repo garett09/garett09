@@ -195,9 +195,9 @@ Windows                  11 hrs 12 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It&#039;s chopping onions time again!](http://9gag.com/gag/a7EQ5mx)
- - 🚯 [I know some people want to go back to the past](http://9gag.com/gag/azMnbNB)
- - 🚯 [True](http://9gag.com/gag/aeALjA5)<!-- MEMES:END -->
+ - 🚖 [The audacity](http://9gag.com/gag/av5NZ8W)
+ - 🚯 [She hasn&#039;t seen her dad in a long time, her reaction is heart warming](http://9gag.com/gag/aAbjVb9)
+ - 🚯 [The collapse.](http://9gag.com/gag/anQ6qYn)<!-- MEMES:END -->
 
 --- 
 
