@@ -181,9 +181,9 @@ Windows                  11 hrs 12 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Chinese players start review-bombing Life is Strange: True Colors over Tibetan flag](https://www.pcgamer.com/chinese-players-start-review-bombing-life-is-strange-true-colors-over-tibetan-flag)
  - [Do you buy games for full price?](https://www.pcgamer.com/do-you-buy-games-for-full-price)
- - [Crapshoot: Crime Wave, where the crime is against good taste](https://www.pcgamer.com/saturday-crapshoot-crime-wave)
- - [Server shutdown kills Warhammer 40,000: Eternal Crusade](https://www.pcgamer.com/server-shutdown-kills-warhammer-40000-eternal-crusade)<!-- GAME:END -->
+ - [Crapshoot: Crime Wave, where the crime is against good taste](https://www.pcgamer.com/saturday-crapshoot-crime-wave)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
