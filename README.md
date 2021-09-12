@@ -188,9 +188,9 @@ Windows                  11 hrs 12 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Epic has filed an appeal to Friday's ruling in its lawsuit against Apple with the US Court of Appeals for the Ninth Circuit (Kim Lyons/The Verge)](http://www.techmeme.com/210912/p6#a210912p6)
- - [Epic Games vs Apple trial & verdict - all you need to know](https://appleinsider.com/articles/20/08/23/apple-versus-epic-games-fortnite-app-store-saga----the-story-so-far?utm_medium=rss)
- - [Epic Games files to appeal ruling in Apple lawsuit](https://appleinsider.com/articles/21/09/12/epic-games-files-to-appeal-ruling-in-apple-lawsuit?utm_medium=rss)<!-- TECH:END -->
+ - [5 best robocall blocker apps for Android](https://www.androidauthority.com/best-robocall-blocker-apps-android-2747721/)
+ - [Apple event: How to watch the expected iPhone 13, Apple Watch 7 launch live on Sept. 14     - CNET](https://www.cnet.com/tech/mobile/apple-event-how-to-watch-iphone-13-apple-watch-7-launch-live-sept-14/#ftag=CAD590a51e)
+ - [Epic has filed an appeal to Friday's ruling in its lawsuit against Apple with the US Court of Appeals for the Ninth Circuit (Kim Lyons/The Verge)](http://www.techmeme.com/210912/p6#a210912p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
