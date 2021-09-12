@@ -188,9 +188,9 @@ Windows                  11 hrs 12 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bezos' biggest legacy could be "Bezosism", using surveillance, algorithms, and data to supercharge old management systems and squeeze performance out of workers (Christopher Mims/Wall Street Journal)](http://www.techmeme.com/210912/p2#a210912p2)
- - [Best webcams from 1080p to 4K for 2021     - CNET](https://www.cnet.com/tech/computing/best-webcams/#ftag=CAD590a51e)
- - [Denmark-based Corti, a SaaS startup using AI to help health professionals improve patient consultations on phone or video in real time, raises $27M Series A (Vishal Singh/Silicon Canals)](http://www.techmeme.com/210912/p1#a210912p1)<!-- TECH:END -->
+ - [Should you buy an iPhone 12 even though Apple's new iPhone 13 might arrive soon?     - CNET](https://www.cnet.com/tech/mobile/should-you-buy-iphone-12-even-though-apple-new-iphone-13-might-arrive-soon/#ftag=CAD590a51e)
+ - [iPhone 13: All the last-minute rumors before Apple's Sept. 14 event     - CNET](https://www.cnet.com/tech/mobile/iphone-13-all-last-minute-rumors-before-apples-sept-14-event/#ftag=CAD590a51e)
+ - [Bezos' biggest legacy could be "Bezosism", using surveillance, algorithms, and data to supercharge old management systems and squeeze performance out of workers (Christopher Mims/Wall Street Journal)](http://www.techmeme.com/210912/p2#a210912p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
