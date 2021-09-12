@@ -196,8 +196,8 @@ Windows                  11 hrs 12 mins      ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Bottas being sad after Lewis collides with Max](http://9gag.com/gag/awMwxAW)
- - 🚯 [One can truly relate with this...](http://9gag.com/gag/aXoBX46)
- - 🚯 [It&rsquo;s still to bright](http://9gag.com/gag/amP3zvj)<!-- MEMES:END -->
+ - 🚯 [Country doesnt matter](http://9gag.com/gag/ayMG8ep)
+ - 🚯 [36 years on...](http://9gag.com/gag/aAbj1xp)<!-- MEMES:END -->
 
 --- 
 
