@@ -188,8 +188,8 @@ Windows                  11 hrs 12 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best luxury SUV choices for 2021     - Roadshow](https://www.cnet.com/roadshow/news/best-luxury-suv/#ftag=CAD590a51e)
- - [Best MacBook Pro alternatives for 2021     - CNET](https://www.cnet.com/tech/computing/best-macbook-pro-alternatives/#ftag=CAD590a51e)
+ - [7 more marketing tricks phone brands should stop using right now](https://www.androidauthority.com/more-smartphone-marketing-tricks-2746225/)
+ - [Gunfire, stabbing reported near Apple Stores in the Apple Crime Blotter](https://appleinsider.com/articles/21/09/12/gunfire-stabbing-reported-near-apple-stores-in-the-apple-crime-blotter?utm_medium=rss)
  - [How Do Retroreflectors Give You Super Vision at Night?](https://www.wired.com/story/how-do-retroreflectors-give-you-super-vision-at-night)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
