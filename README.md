@@ -181,9 +181,9 @@ Windows                  11 hrs 12 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Project Eve looks like a cross between Nier and Bayonetta](https://www.pcgamer.com/project-eve-looks-like-a-cross-between-nier-and-bayonetta)
- - [Rainbow Six Siege multiplayer broken by weird squad 'ghosts'](https://www.pcgamer.com/rainbow-six-siege-squad-bug)
- - [Fortnite's Cube Returns For Season 7's Explosive Finale](https://kotaku.com/fortnites-cube-returns-for-season-7s-explosive-finale-1847661760)<!-- GAME:END -->
+ - [The Week In Games: Deathloop De Loop And Pull](https://kotaku.com/the-week-in-games-deathloop-de-loop-and-pull-1847662069)
+ - [Incredible Death Stranding Cosplay Even Gets The Landscape Right](https://kotaku.com/incredible-death-stranding-cosplay-even-gets-the-landsc-1847662059)
+ - [Project Eve looks like a cross between Nier and Bayonetta](https://www.pcgamer.com/project-eve-looks-like-a-cross-between-nier-and-bayonetta)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
