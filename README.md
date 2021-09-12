@@ -188,9 +188,9 @@ Windows                  11 hrs 12 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Should you buy an iPhone 12 even though Apple's new iPhone 13 might arrive soon?     - CNET](https://www.cnet.com/tech/mobile/should-you-buy-iphone-12-even-though-apple-new-iphone-13-might-arrive-soon/#ftag=CAD590a51e)
- - [iPhone 13: All the last-minute rumors before Apple's Sept. 14 event     - CNET](https://www.cnet.com/tech/mobile/iphone-13-all-last-minute-rumors-before-apples-sept-14-event/#ftag=CAD590a51e)
- - [Bezos' biggest legacy could be "Bezosism", using surveillance, algorithms, and data to supercharge old management systems and squeeze performance out of workers (Christopher Mims/Wall Street Journal)](http://www.techmeme.com/210912/p2#a210912p2)<!-- TECH:END -->
+ - [Best luxury SUV choices for 2021     - Roadshow](https://www.cnet.com/roadshow/news/best-luxury-suv/#ftag=CAD590a51e)
+ - [Best MacBook Pro alternatives for 2021     - CNET](https://www.cnet.com/tech/computing/best-macbook-pro-alternatives/#ftag=CAD590a51e)
+ - [How Do Retroreflectors Give You Super Vision at Night?](https://www.wired.com/story/how-do-retroreflectors-give-you-super-vision-at-night)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
