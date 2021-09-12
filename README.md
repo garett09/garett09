@@ -188,9 +188,9 @@ Windows                  11 hrs 12 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [NFL 2021 streaming: How to watch football, RedZone this season without having cable     - CNET](https://www.cnet.com/tech/services-and-software/nfl-2021-streaming-how-to-watch-football-redzone-this-season-without-having-cable-fantasy-football-livestream/#ftag=CAD590a51e)
  - [Watch the director of Godzilla vs Kong’s horror masterpiece on Hulu and Epix](https://www.androidauthority.com/youre-next-hulu-epix-3019007/)
- - [Best Deals Sept. 12 - Sony bookshelf speakers, Honeywell Dreamweaver, More!](https://appleinsider.com/articles/21/09/12/best-deals-sept-12---sony-bookshelf-speakers-honeywell-dreamweaver-more?utm_medium=rss)
- - [With sales momentum, Bookshop.org looks to future in its fight with Amazon](http://feedproxy.google.com/~r/Techcrunch/~3/TMS-RtJcj-4/)<!-- TECH:END -->
+ - [The best electric lawn mowers of 2021     - CNET](https://www.cnet.com/home/yard-and-outdoors/best-electric-lawn-mower/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
