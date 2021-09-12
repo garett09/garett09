@@ -195,8 +195,8 @@ Windows                  11 hrs 12 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [In case you haven&#039;t heard of him.](http://9gag.com/gag/aYo9wM2)
- - 🚯 [36 years on...](http://9gag.com/gag/aAbj1xp)
+ - 🚖 [Bottas being sad after Lewis collides with Max](http://9gag.com/gag/awMwxAW)
+ - 🚯 [Guinea President doesn&rsquo;t recognise own Nation Anthem, thinks it&rsquo;s a party song for celebration and dances to it until he&rsquo;s told.](http://9gag.com/gag/axM5GnK)
  - 🚯 [Scooter](http://9gag.com/gag/apNOB59)<!-- MEMES:END -->
 
 --- 
