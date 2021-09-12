@@ -195,9 +195,9 @@ Windows                  11 hrs 12 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [One can truly relate with this...](http://9gag.com/gag/aXoBX46)
- - 🚯 [Pack of Hyenas chose the wrong day to hunt a Lion](http://9gag.com/gag/aV7AW1y)
- - 🚯 [In case you haven&#039;t heard of him.](http://9gag.com/gag/aYo9wM2)<!-- MEMES:END -->
+ - 🚖 [Good ole U S of A](http://9gag.com/gag/aZ0eNm6)
+ - 🚯 [Each Thai male is required to enlist in the military service at the age of 18...](http://9gag.com/gag/aXoBpn6)
+ - 🚯 [Guinea President doesn&rsquo;t recognise own Nation Anthem, thinks it&rsquo;s a party song for celebration and dances to it until he&rsquo;s told.](http://9gag.com/gag/axM5GnK)<!-- MEMES:END -->
 
 --- 
 
