@@ -195,9 +195,9 @@ Windows                  11 hrs 12 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Leopard vs porcupine](http://9gag.com/gag/anQ61GB)
- - 🚯 [36 years on...](http://9gag.com/gag/aAbj1xp)
- - 🚯 [Living proof that a man only changes his wallet when given another one](http://9gag.com/gag/awMwx5B)<!-- MEMES:END -->
+ - 🚖 [Grandma no!](http://9gag.com/gag/ad8EqqN)
+ - 🚯 [Living proof that a man only changes his wallet when given another one](http://9gag.com/gag/awMwx5B)
+ - 🚯 [I demand some answers.](http://9gag.com/gag/aZ0ep2n)<!-- MEMES:END -->
 
 --- 
 
