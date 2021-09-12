@@ -195,8 +195,8 @@ Windows                  11 hrs 12 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [36 years on...](http://9gag.com/gag/aAbj1xp)
- - 🚯 [Living proof that a man only changes his wallet when given another one](http://9gag.com/gag/awMwx5B)
+ - 🚖 [Living the dream](http://9gag.com/gag/abV76Gv)
+ - 🚯 [Car with a motorcycle engine](http://9gag.com/gag/aO3wVgr)
  - 🚯 [I demand some answers.](http://9gag.com/gag/aZ0ep2n)<!-- MEMES:END -->
 
 --- 
