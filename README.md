@@ -188,9 +188,9 @@ Windows                  11 hrs 12 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [7 more marketing tricks phone brands should stop using right now](https://www.androidauthority.com/more-smartphone-marketing-tricks-2746225/)
- - [Gunfire, stabbing reported near Apple Stores in the Apple Crime Blotter](https://appleinsider.com/articles/21/09/12/gunfire-stabbing-reported-near-apple-stores-in-the-apple-crime-blotter?utm_medium=rss)
- - [How Do Retroreflectors Give You Super Vision at Night?](https://www.wired.com/story/how-do-retroreflectors-give-you-super-vision-at-night)<!-- TECH:END -->
+ - [Salesforce will help employees concerned about access to reproductive healthcare to exit Texas](https://www.theverge.com/2021/9/12/22669774/salesforce-relocate-employees-abortion-access-benioff-texas-sb8)
+ - ['Ted Lasso' adds two Creative Arts Emmys to the trophy cabinet](https://appleinsider.com/articles/21/09/12/ted-lasso-adds-two-creative-arts-emmys-to-the-trophy-cabinet?utm_medium=rss)
+ - [Newspaper giving free iPads to subscribers in digital switch](https://appleinsider.com/articles/21/09/11/chattanooga-newspaper-hands-ipads-to-subscribers-in-digital-switch?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
