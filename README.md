@@ -195,9 +195,9 @@ Windows                  11 hrs 12 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Poor barber](http://9gag.com/gag/aV7AWnM)
- - 🚯 [Open your mouth](http://9gag.com/gag/aoMXjpn)
- - 🚯 [India .. not for beginners](http://9gag.com/gag/aWjzWQA)<!-- MEMES:END -->
+ - 🚖 [India .. not for beginners](http://9gag.com/gag/aWjzWQA)
+ - 🚯 [Poor barber](http://9gag.com/gag/aV7AWnM)
+ - 🚯 [Fascinating footage. The streets of Tokyo, Japan in 1913. Colorized and speed adjusted.](http://9gag.com/gag/aK6RPNZ)<!-- MEMES:END -->
 
 --- 
 
