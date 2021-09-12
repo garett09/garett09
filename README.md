@@ -188,9 +188,9 @@ Windows                  11 hrs 12 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Evander Holyfield vs. Vitor Belfort: Start time, how to watch or stream online, Trump commentary     - CNET](https://www.cnet.com/news/evander-holyfield-vs-vitor-belfort-start-time-how-to-watch-or-stream-online-trump-commentary/#ftag=CAD590a51e)
- - [Apple says Epic can return to App Store only if it follows the rules](https://appleinsider.com/articles/21/09/10/apple-says-epic-can-return-to-app-store-only-if-it-follows-the-rules?utm_medium=rss)
- - [Study of 61,000 Microsoft employees shows the shift to remote work has hurt communication and collaboration, threatening productivity and long-term innovation (Todd Bishop/GeekWire)](http://www.techmeme.com/210911/p13#a210911p13)<!-- TECH:END -->
+ - [Casper Original mattress review: A firm feel that's ideal for back sleepers     - CNET](https://www.cnet.com/health/sleep/casper-original-mattress-review/#ftag=CAD590a51e)
+ - [Apple's iPhone 13 has a lot to live up to after the iPhone 12's success     - CNET](https://www.cnet.com/tech/mobile/apples-iphone-13-has-lot-to-live-up-to-after-the-iphone-12-success/#ftag=CAD590a51e)
+ - [Evander Holyfield vs. Vitor Belfort: Start time, how to watch or stream online, Trump commentary     - CNET](https://www.cnet.com/news/evander-holyfield-vs-vitor-belfort-start-time-how-to-watch-or-stream-online-trump-commentary/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
