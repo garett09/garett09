@@ -197,7 +197,7 @@ Windows                  11 hrs 12 mins      ███████████�
 <!-- MEMES:START -->
  - 🚖 [Leopard vs porcupine](http://9gag.com/gag/anQ61GB)
  - 🚯 [36 years on...](http://9gag.com/gag/aAbj1xp)
- - 🚯 [Country doesnt matter](http://9gag.com/gag/ayMG8ep)<!-- MEMES:END -->
+ - 🚯 [Living proof that a man only changes his wallet when given another one](http://9gag.com/gag/awMwx5B)<!-- MEMES:END -->
 
 --- 
 
