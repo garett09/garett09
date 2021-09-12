@@ -189,8 +189,8 @@ Windows                  11 hrs 12 mins      ███████████�
 
 <!-- TECH:START -->
  - [Samsung Galaxy XCover Pro review: Form over function](https://www.androidauthority.com/samsung-galaxy-xcover-pro-review-1645599/)
- - [Sell your used Apple device, get a 10% cash bonus ahead of the iPhone 13](https://appleinsider.com/articles/21/09/08/sell-your-used-apple-device-get-a-10-cash-bonus-ahead-of-the-iphone-13?utm_medium=rss)
- - [The first iPhone with 1TB of storage is reportedly coming Tuesday](https://www.theverge.com/2021/9/12/22670072/apple-iphone-13-pro-models-1tb-storage-kuo)<!-- TECH:END -->
+ - [Apple event: How to watch the expected iPhone 13, Apple Watch 7 launch live on Sept. 14     - CNET](https://www.cnet.com/tech/mobile/apple-event-how-to-watch-expected-iphone-13-apple-watch-7-launch-live-on-sept-14/#ftag=CAD590a51e)
+ - [How to watch and stream Cardinals vs. Titans, Browns vs. Chiefs, RedZone and the rest of NFL Week 1 without cable     - CNET](https://www.cnet.com/tech/home-entertainment/how-to-watch-and-stream-cardinals-vs-titans-browns-vs-chiefs-redzone-and-the-rest-of-nfl-week-1-without-cable/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
