@@ -195,9 +195,9 @@ Windows                  11 hrs 12 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When you fail basic stuff..](http://9gag.com/gag/axM528n)
- - 🚯 [Men are simple](http://9gag.com/gag/awMwKbx)
- - 🚯 [Hips don&#039;t lie](http://9gag.com/gag/axM52RY)<!-- MEMES:END -->
+ - 🚖 [Men are simple](http://9gag.com/gag/awMwKbx)
+ - 🚯 [Garry&#039;s mod &lt;3](http://9gag.com/gag/a8EZbMQ)
+ - 🚯 [Cookies](http://9gag.com/gag/a7EQyre)<!-- MEMES:END -->
 
 --- 
 
