@@ -195,9 +195,9 @@ Windows                  11 hrs 12 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Bottas being sad after Lewis collides with Max](http://9gag.com/gag/awMwxAW)
- - 🚯 [Country doesnt matter](http://9gag.com/gag/ayMG8ep)
- - 🚯 [36 years on...](http://9gag.com/gag/aAbj1xp)<!-- MEMES:END -->
+ - 🚖 [Leopard vs porcupine](http://9gag.com/gag/anQ61GB)
+ - 🚯 [36 years on...](http://9gag.com/gag/aAbj1xp)
+ - 🚯 [Country doesnt matter](http://9gag.com/gag/ayMG8ep)<!-- MEMES:END -->
 
 --- 
 
