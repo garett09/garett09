@@ -195,9 +195,9 @@ Windows                  11 hrs 12 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The collapse.](http://9gag.com/gag/anQ6qYn)
- - 🚯 [The audacity](http://9gag.com/gag/av5NZ8W)
- - 🚯 [Mass brawling broke out at an anti-Covid passport protest in Toulouse, France.](http://9gag.com/gag/amP3qR6)<!-- MEMES:END -->
+ - 🚖 [Hips don&#039;t lie](http://9gag.com/gag/axM52RY)
+ - 🚯 [Mass brawling broke out at an anti-Covid passport protest in Toulouse, France.](http://9gag.com/gag/amP3qR6)
+ - 🚯 [The audacity](http://9gag.com/gag/av5NZ8W)<!-- MEMES:END -->
 
 --- 
 
