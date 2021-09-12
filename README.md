@@ -181,9 +181,9 @@ Windows                  11 hrs 12 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Do you buy games for full price?](https://www.pcgamer.com/do-you-buy-games-for-full-price)
  - [Crapshoot: Crime Wave, where the crime is against good taste](https://www.pcgamer.com/saturday-crapshoot-crime-wave)
- - [Server shutdown kills Warhammer 40,000: Eternal Crusade](https://www.pcgamer.com/server-shutdown-kills-warhammer-40000-eternal-crusade)
- - [Two Team Fortress 2 mods are down due to 'an arrangement with Valve'](https://www.pcgamer.com/two-team-fortress-2-mods-are-down-due-to-an-arrangement-with-valve)<!-- GAME:END -->
+ - [Server shutdown kills Warhammer 40,000: Eternal Crusade](https://www.pcgamer.com/server-shutdown-kills-warhammer-40000-eternal-crusade)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
