@@ -195,8 +195,8 @@ Windows                  11 hrs 12 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I know some people want to go back to the past](http://9gag.com/gag/azMnbNB)
- - 🚯 [It&#039;s chopping onions time again!](http://9gag.com/gag/a7EQ5mx)
+ - 🚖 [It&#039;s chopping onions time again!](http://9gag.com/gag/a7EQ5mx)
+ - 🚯 [I know some people want to go back to the past](http://9gag.com/gag/azMnbNB)
  - 🚯 [True](http://9gag.com/gag/aeALjA5)<!-- MEMES:END -->
 
 --- 
