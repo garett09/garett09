@@ -188,9 +188,9 @@ Windows                  11 hrs 12 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 13 Pro will get 1TB option & new 'AirPods 3' will not replace AirPods](https://appleinsider.com/articles/21/09/12/iphone-13-pro-will-get-1tb-option-new-airpods-3-will-not-replace-airpods?utm_medium=rss)
- - [Newspaper giving free iPads to subscribers in digital switch](https://appleinsider.com/articles/21/09/11/chattanooga-newspaper-hands-ipads-to-subscribers-in-digital-switch?utm_medium=rss)
- - ['M1X MacBook Pro' set to arrive in 'several weeks'](https://appleinsider.com/articles/21/09/12/m1x-macbook-pro-set-to-arrive-in-several-weeks?utm_medium=rss)<!-- TECH:END -->
+ - [What Is Zero Trust? It Depends What You Want to Hear](https://www.wired.com/story/what-is-zero-trust)
+ - [Kuo: iPhone 13 Pro lineup will gain 1TB storage option; Apple to announce AirPods 3, but will continue to sell current generation AirPods too (Mike Wuerthele/AppleInsider)](http://www.techmeme.com/210912/p4#a210912p4)
+ - ['M1X' MacBook Pro set to arrive in 'several weeks'](https://appleinsider.com/articles/21/09/12/m1x-macbook-pro-set-to-arrive-in-several-weeks?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
