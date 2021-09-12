@@ -181,9 +181,9 @@ Windows                  11 hrs 12 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Destiny 2's Most Bugged Gun Strikes Again](https://kotaku.com/destiny-2s-most-bugged-gun-strikes-again-1847660702)
  - [Chinese players start review-bombing Life is Strange: True Colors over Tibetan flag](https://www.pcgamer.com/chinese-players-start-review-bombing-life-is-strange-true-colors-over-tibetan-flag)
- - [Do you buy games for full price?](https://www.pcgamer.com/do-you-buy-games-for-full-price)
- - [Crapshoot: Crime Wave, where the crime is against good taste](https://www.pcgamer.com/saturday-crapshoot-crime-wave)<!-- GAME:END -->
+ - [Do you buy games for full price?](https://www.pcgamer.com/do-you-buy-games-for-full-price)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
