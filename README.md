@@ -181,9 +181,9 @@ Windows                  11 hrs 12 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Two Popular Team Fortress 2 Mods Temporarily Removed Due To 'Arrangements' With Valve](https://kotaku.com/two-popular-team-fortress-2-mods-have-been-temporarily-1847661357)
  - [This Week in PC Gaming: Deathloop, Aragami 2, and the Top 100](https://www.pcgamer.com/this-week-in-pc-gaming-deathloop-aragami-2-and-the-top-100)
- - [Sunday Comics: What If?](https://kotaku.com/sunday-comics-what-if-1847661035)
- - [Which Cinderella movie is the Cinderellest?](https://www.polygon.com/22662967/best-cinderella-movies-adaptation-disney-musical)<!-- GAME:END -->
+ - [Sunday Comics: What If?](https://kotaku.com/sunday-comics-what-if-1847661035)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
