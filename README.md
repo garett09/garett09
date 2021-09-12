@@ -196,7 +196,7 @@ Windows                  11 hrs 12 mins      ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [When you fail basic stuff..](http://9gag.com/gag/axM528n)
- - 🚯 [Cookies](http://9gag.com/gag/a7EQyre)
+ - 🚯 [Men are simple](http://9gag.com/gag/awMwKbx)
  - 🚯 [Hips don&#039;t lie](http://9gag.com/gag/axM52RY)<!-- MEMES:END -->
 
 --- 
