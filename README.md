@@ -197,7 +197,7 @@ Windows                  11 hrs 12 mins      ███████████�
 <!-- MEMES:START -->
  - 🚖 [Men are simple](http://9gag.com/gag/awMwKbx)
  - 🚯 [Garry&#039;s mod &lt;3](http://9gag.com/gag/a8EZbMQ)
- - 🚯 [Cookies](http://9gag.com/gag/a7EQyre)<!-- MEMES:END -->
+ - 🚯 [Alignment](http://9gag.com/gag/axM5ZzD)<!-- MEMES:END -->
 
 --- 
 
