@@ -188,9 +188,9 @@ Windows                  11 hrs 12 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [5 best robocall blocker apps for Android](https://www.androidauthority.com/best-robocall-blocker-apps-android-2747721/)
- - [Apple event: How to watch the expected iPhone 13, Apple Watch 7 launch live on Sept. 14     - CNET](https://www.cnet.com/tech/mobile/apple-event-how-to-watch-iphone-13-apple-watch-7-launch-live-sept-14/#ftag=CAD590a51e)
- - [Epic has filed an appeal to Friday's ruling in its lawsuit against Apple with the US Court of Appeals for the Ninth Circuit (Kim Lyons/The Verge)](http://www.techmeme.com/210912/p6#a210912p6)<!-- TECH:END -->
+ - [Fortnite’s explosive alien event saw the return of Kevin the cube](https://www.theverge.com/2021/9/12/22670317/fortnite-alien-invasion-season-7-end-event-operation-sky-fire)
+ - [NFL Week 1: How to watch and stream Browns vs. Chiefs, Bears vs. Rams, RedZone without cable     - CNET](https://www.cnet.com/tech/home-entertainment/nfl-week-1-how-to-watch-and-stream-browns-vs-chiefs-bears-vs-rams-redzone-without-cable/#ftag=CAD590a51e)
+ - [Will Apple release an iPhone 13? We'll likely find out on Sept. 14     - CNET](https://www.cnet.com/tech/mobile/will-apple-release-an-iphone-13-well-likely-find-out-on-sept-14/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
