@@ -195,8 +195,8 @@ Windows                  11 hrs 12 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When you fail basic stuff..](http://9gag.com/gag/axM528n)
- - 🚯 [WTC 7 never forget](http://9gag.com/gag/aGpXYXw)
+ - 🚖 [This has everything....](http://9gag.com/gag/aEp3wBn)
+ - 🚯 [The audacity](http://9gag.com/gag/av5NZ8W)
  - 🚯 [Hips don&#039;t lie](http://9gag.com/gag/axM52RY)<!-- MEMES:END -->
 
 --- 
