@@ -188,9 +188,9 @@ Windows                  11 hrs 12 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A comprehensive breakdown of the Epic v. Apple ruling](https://www.theverge.com/2021/9/12/22667694/epic-v-apple-trial-fortnite-judge-yvonne-gonzalez-rogers-final-ruling-injunction-breakdown)
  - [What Is Zero Trust? It Depends What You Want to Hear](https://www.wired.com/story/what-is-zero-trust)
- - [Kuo: iPhone 13 Pro lineup will gain 1TB storage option; Apple to announce AirPods 3, but will continue to sell current generation AirPods too (Mike Wuerthele/AppleInsider)](http://www.techmeme.com/210912/p4#a210912p4)
- - ['M1X' MacBook Pro set to arrive in 'several weeks'](https://appleinsider.com/articles/21/09/12/m1x-macbook-pro-set-to-arrive-in-several-weeks?utm_medium=rss)<!-- TECH:END -->
+ - [Kuo: iPhone 13 Pro lineup will gain 1TB storage option; Apple to announce AirPods 3, but will continue to sell current generation AirPods too (Mike Wuerthele/AppleInsider)](http://www.techmeme.com/210912/p4#a210912p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
