@@ -188,9 +188,9 @@ Windows                  11 hrs 12 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung Galaxy XCover Pro review: Form over function](https://www.androidauthority.com/samsung-galaxy-xcover-pro-review-1645599/)
  - [Sell your used Apple device, get a 10% cash bonus ahead of the iPhone 13](https://appleinsider.com/articles/21/09/08/sell-your-used-apple-device-get-a-10-cash-bonus-ahead-of-the-iphone-13?utm_medium=rss)
- - [The first iPhone with 1TB of storage is reportedly coming Tuesday](https://www.theverge.com/2021/9/12/22670072/apple-iphone-13-pro-models-1tb-storage-kuo)
- - [A short history of every time Apple CEO Tim Cook praised augmented reality](https://www.theverge.com/21077484/apple-tim-cook-ar-augmented-reality)<!-- TECH:END -->
+ - [The first iPhone with 1TB of storage is reportedly coming Tuesday](https://www.theverge.com/2021/9/12/22670072/apple-iphone-13-pro-models-1tb-storage-kuo)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
