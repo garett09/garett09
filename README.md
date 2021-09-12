@@ -195,9 +195,9 @@ Windows                  11 hrs 12 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [... and the ugly !](http://9gag.com/gag/aoMXZr0)
+ - 🚖 [Fascinating footage. The streets of Tokyo, Japan in 1913. Colorized and speed adjusted.](http://9gag.com/gag/aK6RPNZ)
  - 🚯 [Cookies](http://9gag.com/gag/a7EQyre)
- - 🚯 [Pack of Hyenas chose the wrong day to hunt a Lion](http://9gag.com/gag/aV7AW1y)<!-- MEMES:END -->
+ - 🚯 [Childhood](http://9gag.com/gag/a1r9Z4G)<!-- MEMES:END -->
 
 --- 
 
