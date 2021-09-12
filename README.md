@@ -195,9 +195,9 @@ Windows                  11 hrs 12 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [80 million votes](http://9gag.com/gag/ayMGEz8)
- - 🚯 [Ruling on the field is&hellip;](http://9gag.com/gag/a1r9ZZv)
- - 🚯 [Girl hijacks her sister&#039;s job interview and beat her senseless for sleeping with her husband](http://9gag.com/gag/aEp3vxe)<!-- MEMES:END -->
+ - 🚖 [It&#039;s chopping onions time again!](http://9gag.com/gag/a7EQ5mx)
+ - 🚯 [Girl hijacks her sister&#039;s job interview and beat her senseless for sleeping with her husband](http://9gag.com/gag/aEp3vxe)
+ - 🚯 [Ruling on the field is&hellip;](http://9gag.com/gag/a1r9ZZv)<!-- MEMES:END -->
 
 --- 
 
