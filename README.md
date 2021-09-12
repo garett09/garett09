@@ -181,9 +181,9 @@ Windows                  11 hrs 12 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Fortnite's Cube Returns For Season 7's Explosive Finale](https://kotaku.com/fortnites-cube-returns-for-season-7s-explosive-finale-1847661760)
  - [Epic appeals Apple verdict, ponders meaning of the word 'button'](https://www.pcgamer.com/epic-appeals-apple-verdict-ponders-meaning-of-the-word-button)
- - [An Oxenfree update has Oxenfree 2 bleeding backwards in time](https://www.pcgamer.com/an-oxenfree-update-has-oxenfree-2-bleeding-backwards-in-time)
- - [Steam Turns 18 Years Old Today](https://kotaku.com/steam-turns-18-years-old-today-1847661716)<!-- GAME:END -->
+ - [An Oxenfree update has Oxenfree 2 bleeding backwards in time](https://www.pcgamer.com/an-oxenfree-update-has-oxenfree-2-bleeding-backwards-in-time)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
