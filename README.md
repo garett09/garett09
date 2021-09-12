@@ -195,9 +195,9 @@ Windows                  11 hrs 12 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [In case you haven&#039;t heard of him.](http://9gag.com/gag/aYo9wM2)
- - 🚯 [Bottas being sad after Lewis collides with Max](http://9gag.com/gag/awMwxAW)
- - 🚯 [One can truly relate with this...](http://9gag.com/gag/aXoBX46)<!-- MEMES:END -->
+ - 🚖 [Bottas being sad after Lewis collides with Max](http://9gag.com/gag/awMwxAW)
+ - 🚯 [One can truly relate with this...](http://9gag.com/gag/aXoBX46)
+ - 🚯 [It&rsquo;s still to bright](http://9gag.com/gag/amP3zvj)<!-- MEMES:END -->
 
 --- 
 
