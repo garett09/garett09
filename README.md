@@ -195,7 +195,7 @@ Windows                  11 hrs 12 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Fascinating footage. The streets of Tokyo, Japan in 1913. Colorized and speed adjusted.](http://9gag.com/gag/aK6RPNZ)
+ - 🚖 [Poor barber](http://9gag.com/gag/aV7AWnM)
  - 🚯 [Cookies](http://9gag.com/gag/a7EQyre)
  - 🚯 [Childhood](http://9gag.com/gag/a1r9Z4G)<!-- MEMES:END -->
 
