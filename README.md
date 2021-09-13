@@ -196,8 +196,8 @@ Windows                  7 hrs 38 mins       ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [You think pineapple on pizza is disgusting, try this:](http://9gag.com/gag/aGpXe70)
- - 🚯 [It is what it is](http://9gag.com/gag/a1r9o9w)
- - 🚯 [Oh boy](http://9gag.com/gag/a27e4ge)<!-- MEMES:END -->
+ - 🚯 [Oh boy](http://9gag.com/gag/a27e4ge)
+ - 🚯 [It is what it is](http://9gag.com/gag/a1r9o9w)<!-- MEMES:END -->
 
 --- 
 
