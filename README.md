@@ -195,8 +195,8 @@ Windows                  7 hrs 38 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [We live in a society](http://9gag.com/gag/aWjz8A3)
- - 🚯 [Leopard vs porcupine](http://9gag.com/gag/anQ61GB)
+ - 🚖 [Leopard vs porcupine](http://9gag.com/gag/anQ61GB)
+ - 🚯 [We live in a society](http://9gag.com/gag/aWjz8A3)
  - 🚯 [Country doesnt matter](http://9gag.com/gag/ayMG8ep)<!-- MEMES:END -->
 
 --- 
