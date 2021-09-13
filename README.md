@@ -181,9 +181,9 @@ Windows                  7 hrs 38 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best builds for Xiao in Genshin Impact](https://www.pcgamer.com/how-to-get-genshin-impact-xiao-build-best)
- - [Among Us' crewmates pack a punch in this fan-made fighting game](https://www.pcgamer.com/among-us-crewmates-pack-a-punch-in-this-fan-made-fighting-game-spin-off)
- - [You can build a great-looking PC inside this compact Asus case, on sale for $200](https://www.pcgamer.com/you-can-build-a-great-looking-pc-inside-this-compact-asus-case-on-sale-for-dollar200)<!-- GAME:END -->
+ - [Introducing Asterigos, a new high-fantasy action RPG](https://blog.playstation.com/2021/09/13/introducing-asterigos-a-new-high-fantasy-action-rpg/)
+ - [Look Out Hideo Kojima, Someone Else Is Making A Strand Game](https://kotaku.com/look-out-hideo-kojima-someone-else-is-making-a-strand-1847664001)
+ - [The best builds for Xiao in Genshin Impact](https://www.pcgamer.com/how-to-get-genshin-impact-xiao-build-best)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
