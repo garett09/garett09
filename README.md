@@ -188,9 +188,9 @@ Windows                  7 hrs 38 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the harsh reality of working for on-demand delivery apps in NYC, including fluctuating pay and relentless time pressure, and labor organizing efforts (Josh Dzieza/The Verge)](http://www.techmeme.com/210913/p35#a210913p35)
- - [Best Labor Day mattress deals still available at Amerisleep, Casper, Purple, Helix and more     - CNET](https://www.cnet.com/health/sleep/best-mattress-deals/#ftag=CAD590a51e)
- - [Cable, fiber, 5G and more: The different internet connection types and how they work     - CNET](https://www.cnet.com/home/internet/internet-connection-types/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Intuit confirms $12B deal to buy Mailchimp](http://feedproxy.google.com/~r/Techcrunch/~3/qj1VNe3LNZw/)
+ - [iOS 14.8, iPadOS 14.8 tighten security, close off 'Blastdoor' attacks](https://appleinsider.com/articles/21/09/13/ios-148-ipados-148-tighten-security-fixes-blastdoor-attacks?utm_medium=rss)
+ - [Nvidia leak may reveal unannounced games, including God of War for PC](https://www.theverge.com/2021/9/13/22672280/nvidia-leak-geforce-now-playstation-games-god-of-war)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
