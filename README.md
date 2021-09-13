@@ -195,9 +195,9 @@ Windows                  7 hrs 38 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A street artist draws cartoon version of a girl](http://9gag.com/gag/aZ0eBQ0)
- - 🚯 [Sweet Home Alabama no more....?](http://9gag.com/gag/a4EvbxQ)
- - 🚯 [We had elections in Argentina today... &quot;The people have spoken&quot;](http://9gag.com/gag/aWjzmp6)<!-- MEMES:END -->
+ - 🚖 [We had elections in Argentina today... &quot;The people have spoken&quot;](http://9gag.com/gag/aWjzmp6)
+ - 🚯 [Kentucky Fried Chicken](http://9gag.com/gag/aRXnmZy)
+ - 🚯 [This some bullshit!](http://9gag.com/gag/ajmpNQq)<!-- MEMES:END -->
 
 --- 
 
