@@ -181,9 +181,9 @@ Windows                  7 hrs 38 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [With superstars and storylines, NHL 22 makers aim for longer-lasting player careers](https://www.polygon.com/22672534/nhl-22-preview-new-features-superstar-x-factors-be-a-pro)
  - [When does Deathloop unlock in my timezone?](https://www.pcgamer.com/deathloop-unlock-time)
- - [Jet Set Radio style meets badminton in this stylish sports game](https://www.polygon.com/22671374/new-gameboy-advance-game-jet-set-radio-anime-fighting-game)
- - [Weapons Drawn brings a murder mystery to Jackbox](https://www.polygon.com/22666611/weapons-drawn-overboard-jackbox-party-pack-8)<!-- GAME:END -->
+ - [Jet Set Radio style meets badminton in this stylish sports game](https://www.polygon.com/22671374/new-gameboy-advance-game-jet-set-radio-anime-fighting-game)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
