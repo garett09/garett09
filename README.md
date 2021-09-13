@@ -181,9 +181,9 @@ Windows                  7 hrs 38 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [F1 2021 gets Portuguese Grand Prix course free, two others coming soon](https://www.polygon.com/22672222/f1-2021-portimao-circuit-imola-jeddah-release-dates-patch)
- - [Someone Made An Among Us Fighting Game Because Why Not](https://kotaku.com/someone-made-an-among-us-fighting-game-because-why-not-1847667386)
- - [Lucifer’s final season finally pays off the series’ big, long-running question](https://www.polygon.com/22672114/lucifer-season-6-review-netflix)<!-- GAME:END -->
+ - [Valheim devs 'really hope' players start the game over for Hearth and Home](https://www.pcgamer.com/valheim-devs-really-hope-players-start-the-game-over-for-hearth-and-home)
+ - [Magic: The Gathering’s most popular Commander has been banned](https://www.polygon.com/22672176/magic-the-gathering-commander-edh-bans-golos-tireless-pilgrim)
+ - [Paradox CEO apologizes for 'inappropriate behavior' with employee in 2018](https://www.pcgamer.com/paradox-ceo-apologizes-for-inappropriate-behavior-with-employee-in-2018)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
