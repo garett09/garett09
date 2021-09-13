@@ -183,7 +183,7 @@ Windows                  7 hrs 38 mins       ███████████�
 <!-- GAME:START -->
  - [The cheapest way to pre-order Dying Light 2 in Australia](https://www.pcgamer.com/the-cheapest-way-to-pre-order-dying-light-2-in-australia)
  - [US Open Tennis Champion Does Video Game Celebration After Winning](https://kotaku.com/us-open-tennis-champion-does-video-game-celebration-aft-1847662401)
- - [The cheapest way to pre-order Deathloop in Australia](https://www.pcgamer.com/the-cheapest-way-to-pre-order-deathloop-in-australia)<!-- GAME:END -->
+ - [The cheapest way to buy Deathloop in Australia](https://www.pcgamer.com/the-cheapest-way-to-pre-order-deathloop-in-australia)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
