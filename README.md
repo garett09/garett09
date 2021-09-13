@@ -181,9 +181,9 @@ Windows                  7 hrs 38 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Far Cry 6 DLC includes a Stranger Things-inspired wiener dog rescue mission](https://www.polygon.com/22671615/far-cry-6-dlc-free-roadmap-stranger-things-danny-trejo)
- - [You Should Be Hyped About This New God of War Character](https://kotaku.com/you-should-be-hyped-about-this-new-god-of-war-character-1847655848)
- - [Hayley Atwell will voice Lara Croft in Netflix’s animated Tomb Raider series](https://www.polygon.com/22671548/netflix-tomb-raider-cast-hayley-atwell-lara-croft-voice)<!-- GAME:END -->
+ - [A New Threat Takes Shape in Fortnite – Chapter 2 Season 8: Cubed](https://news.xbox.com/en-us/2021/09/13/fortnite-chapter-2-season-8-cubed-announce/)
+ - [Rampant space particles might be behind eight-year-old Mario speedrun glitch](https://www.pcgamer.com/cosmic-rays-cause-tech-bit-flips-blue-screen-of-death)
+ - [Far Cry 6 DLC includes a Stranger Things-inspired wiener dog rescue mission](https://www.polygon.com/22671615/far-cry-6-dlc-free-roadmap-stranger-things-danny-trejo)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
