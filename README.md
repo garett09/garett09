@@ -188,9 +188,9 @@ Windows                  7 hrs 38 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple issues last minute iOS 14.8 and iPadOS 14.8 update](https://appleinsider.com/articles/21/09/13/apple-issues-last-minute-ios-148-and-ipados-148-update?utm_medium=rss)
- - [Xiaomi: Those blocked imported phones from banned markets are now working again](https://www.androidauthority.com/xiaomi-unblocked-phones-3022860/)
- - [Joe Biden to nominate facial recognition critic to FTC](https://www.theverge.com/2021/9/13/22671880/biden-alvaro-bedoya-privacy-ftc-commissioner-facial-recognition)<!-- TECH:END -->
+ - [Android 12 may be released on October 4th](https://www.theverge.com/2021/9/13/22671612/android-12-possible-release-date)
+ - [EFF protesting Apple CSAM identification programs on Monday evening](https://appleinsider.com/articles/21/09/13/eff-protesting-apple-csam-identification-programs-on-monday-evening?utm_medium=rss)
+ - [Save up to $900 on the Galaxy Fold 3, and more Samsung Galaxy deals](https://www.androidauthority.com/best-samsung-galaxy-deals-1108345/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
