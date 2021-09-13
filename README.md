@@ -188,9 +188,9 @@ Windows                  7 hrs 38 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 13, Apple Watch Series 7 to feature in first of two Apple events](https://appleinsider.com/articles/21/09/12/iphone-13-apple-watch-series-7-to-feature-in-first-of-two-apple-events?utm_medium=rss)
- - [Deathloop is an intricate mystery that also happens to be an amazing action game](https://www.theverge.com/2021/9/13/22671207/deathloop-review-ps5-pc)
- - [Mozilla has defeated Microsoft’s default browser protections in Windows](https://www.theverge.com/2021/9/13/22671182/mozilla-default-browser-windows-protections-firefox)<!-- TECH:END -->
+ - [Weeks after forcing Groovy Bot offline, Google is doing the same to Rythm, a bot with 560M+ users that lets Discord users play music from YouTube videos (Tom Warren/The Verge)](http://www.techmeme.com/210913/p13#a210913p13)
+ - [Rezilion raises $30M help security operations teams with tools to automate their busywork](http://feedproxy.google.com/~r/Techcrunch/~3/KY5wXJWL-lU/)
+ - [Filing: Toast, which offers cloud-based restaurant management tools, seeks $717M in US IPO at a valuation of as much as $16.5B, after pricing shares at $30-$33 (Crystal Tse/Bloomberg)](http://www.techmeme.com/210913/p12#a210913p12)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
