@@ -188,9 +188,9 @@ Windows                  7 hrs 38 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Realme 9 series is only coming in 2022 due to the chip shortage](https://www.androidauthority.com/realme-9-3022610/)
- - [Samsung imagines Galaxy Buds with a unique swim-proof design](https://www.androidauthority.com/samsung-galaxy-buds-swimming-detachable-neckband-3020584/)
- - [Apple thinks motorcycle engines might be your iPhone camera’s worst enemy](https://www.androidauthority.com/iphone-camera-motorcycle-vibrations-3020581/)<!-- TECH:END -->
+ - [Nintendo lowers Switch price across Europe ahead of OLED model](https://www.theverge.com/2021/9/13/22671208/nintendo-switch-pricing-lowered-europe-uk)
+ - [Billogram, provider of a payments platform specifically for recurring billing, raises $45M](http://feedproxy.google.com/~r/Techcrunch/~3/xJLCw7qCrww/)
+ - [WhatsApp reportedly developing transcriptions to tame chaotic voice notes](https://www.theverge.com/2021/9/13/22671185/whatsapp-voice-notes-transcription-ios)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
