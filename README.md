@@ -188,9 +188,9 @@ Windows                  7 hrs 38 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Emmys 2021 are this Sunday: Here's how to watch the stacked awards show     - CNET](https://www.cnet.com/news/emmys-2021-are-this-sunday-heres-how-to-watch-the-stacked-awards-show/#ftag=CAD590a51e)
- - [A look at the state of the VC industry: from over-paying in the face of absurd valuations, to big bets on decentralized "Web 3.0" apps, cybersecurity, and more (Mark Suster/Both Sides of the Table)](http://www.techmeme.com/210912/p8#a210912p8)
- - [Met Gala 2021: How to watch, who's hosting and everything to know     - CNET](https://www.cnet.com/news/met-gala-2021-how-to-watch-whos-hosting-and-everything-to-know/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Indonesia-based Rey Assurance launches its holistic approach to insurance with $1M in funding](http://feedproxy.google.com/~r/Techcrunch/~3/XAfWDIAofEc/)
+ - [Fortnite brings back Kevin the cube, then shuts down after Operation: Sky Fire event     - CNET](https://www.cnet.com/news/fortnite-brings-back-kevin-the-cube-then-shuts-down-after-operation-sky-fire-event/#ftag=CAD590a51e)
+ - [Best TV shows 2021: Hacks, The White Lotus, Mare of Easttown, more     - CNET](https://www.cnet.com/news/best-tv-shows-2021-hacks-the-white-lotus-mare-of-easttown-more/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
