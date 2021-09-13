@@ -181,9 +181,9 @@ Windows                  7 hrs 38 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Scarecrow brought Gotham to its knees without a drop of fear gas](https://www.polygon.com/comics/2021/9/13/22671510/batman-fear-state-scarecrow-dc-comics)
  - [Apex Legends’ tap-strafing stays in the game, for now](https://www.polygon.com/22672020/apex-legends-tap-strafing-patch-respawn-changes)
- - [Life is Strange: True Colors streamer mode leads to some extremely awkward silence](https://www.polygon.com/22671617/life-is-strange-true-colors-streamer-mode-dmca-music)
- - [Do I need a Windows 10 key?](https://www.pcgamer.com/windows-10-key-pc)<!-- GAME:END -->
+ - [Life is Strange: True Colors streamer mode leads to some extremely awkward silence](https://www.polygon.com/22671617/life-is-strange-true-colors-streamer-mode-dmca-music)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
