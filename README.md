@@ -188,9 +188,9 @@ Windows                  7 hrs 38 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Emmys 2021 are this Sunday: Here's how to watch the stacked awards show     - CNET](https://www.cnet.com/news/emmys-2021-are-this-sunday-heres-how-to-watch-the-stacked-awards-show/#ftag=CAD590a51e)
  - [A look at the state of the VC industry: from over-paying in the face of absurd valuations, to big bets on decentralized "Web 3.0" apps, cybersecurity, and more (Mark Suster/Both Sides of the Table)](http://www.techmeme.com/210912/p8#a210912p8)
- - [Met Gala 2021: How to watch, who's hosting and everything to know     - CNET](https://www.cnet.com/news/met-gala-2021-how-to-watch-whos-hosting-and-everything-to-know/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Marvel Cinematic Universe Phase 4: The full list of release dates     - CNET](https://www.cnet.com/news/marvel-cinematic-universe-phase-4-the-full-list-of-release-dates/#ftag=CAD590a51e)
+ - [Southeast Asia-focused Jungle Ventures announces $225M first close for its fourth fund](http://feedproxy.google.com/~r/Techcrunch/~3/On9AvC9giQk/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
