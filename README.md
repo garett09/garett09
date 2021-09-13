@@ -181,9 +181,9 @@ Windows                  7 hrs 38 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Valheim devs 'really hope' players start the game over for Hearth and Home](https://www.pcgamer.com/valheim-devs-really-hope-players-start-the-game-over-for-hearth-and-home)
- - [Magic: The Gathering’s most popular Commander has been banned](https://www.polygon.com/22672176/magic-the-gathering-commander-edh-bans-golos-tireless-pilgrim)
- - [Paradox CEO apologizes for 'inappropriate behavior' with employee in 2018](https://www.pcgamer.com/paradox-ceo-apologizes-for-inappropriate-behavior-with-employee-in-2018)<!-- GAME:END -->
+ - [The gorgeous animated fantasy Where Is Anne Frank puts a future spin on grim history](https://www.polygon.com/reviews/22672374/where-is-anne-frank-review)
+ - [Destiny 2's revamped Trials of Osiris is a glorious lootsplosion (but expect a brutal ass kicking if you solo queue)](https://www.pcgamer.com/destiny-2s-revamped-trials-of-osiris-is-a-glorious-lootsplosion-but-expect-a-brutal-ass-kicking-if-you-solo-queue)
+ - [Where to find color bottles and rainbow ink in Fortnite to customize Toona Fish](https://www.pcgamer.com/paint-a-toona-fish-color-bottles-rainbow-ink)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
