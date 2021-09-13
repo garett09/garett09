@@ -181,9 +181,9 @@ Windows                  7 hrs 38 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Another Discord music bot is biting the dust this month](https://www.pcgamer.com/another-discord-music-bot-is-biting-the-dust-this-month)
- - [Suspicious NFT game found nicking art from indies vanishes from Twitter](https://www.pcgamer.com/suspicious-nft-game-found-nicking-art-from-indies-vanishes-from-twitter)
- - [Carnage is part of Fortnite’s season 8 battle pass](https://www.polygon.com/fortnite/22666541/fortnite-season-8-battle-pass-carnage-skin-tonna-fish)<!-- GAME:END -->
+ - [Deathloop’s brilliant time mechanics make me feel like a Bond villain](https://www.polygon.com/22671229/deathloop-release-ps5-pc-impressions-time-loop-gameplay)
+ - [Deathloop’s earliest Easter egg has a 27-year history](https://www.polygon.com/22667576/deathloop-easter-egg-0451-arkane-looking-glass-studios)
+ - [Another Discord music bot is biting the dust this month](https://www.pcgamer.com/another-discord-music-bot-is-biting-the-dust-this-month)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
