@@ -195,9 +195,9 @@ Windows                  7 hrs 38 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What about us?](http://9gag.com/gag/a9EopLm)
- - 🚯 [Rest in peace. Fallen brother](http://9gag.com/gag/amP32oX)
- - 🚯 [School, Japan](http://9gag.com/gag/av5NOmd)<!-- MEMES:END -->
+ - 🚖 [And a bonk right after](http://9gag.com/gag/aGpXjLZ)
+ - 🚯 [That&#039;s impressive!](http://9gag.com/gag/a5E4oME)
+ - 🚯 [You think pineapple on pizza is disgusting, try this:](http://9gag.com/gag/aGpXe70)<!-- MEMES:END -->
 
 --- 
 
