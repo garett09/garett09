@@ -181,9 +181,9 @@ Windows                  7 hrs 38 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The best builds for Xiao in Genshin Impact](https://www.pcgamer.com/how-to-get-genshin-impact-xiao-build-best)
  - [Among Us' crewmates pack a punch in this fan-made fighting game](https://www.pcgamer.com/among-us-crewmates-pack-a-punch-in-this-fan-made-fighting-game-spin-off)
- - [You can build a great-looking PC inside this compact Asus case, on sale for $200](https://www.pcgamer.com/you-can-build-a-great-looking-pc-inside-this-compact-asus-case-on-sale-for-dollar200)
- - [I'm not buying the $2,999 GeForce RTX 4090 price prediction, but should I?](https://www.pcgamer.com/im-not-buying-the-dollar2999-geforce-rtx-4090-price-prediction-but-should-i)<!-- GAME:END -->
+ - [You can build a great-looking PC inside this compact Asus case, on sale for $200](https://www.pcgamer.com/you-can-build-a-great-looking-pc-inside-this-compact-asus-case-on-sale-for-dollar200)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
