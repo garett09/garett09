@@ -181,9 +181,9 @@ Windows                  7 hrs 38 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Creating Immersion and Intensity in Insurgency: Sandstorm](https://news.xbox.com/en-us/2021/09/13/creating-immersion-and-intensity-in-insurgency-sandstorm/)
- - [Five Things To Know About God Of War Ragnarok](https://kotaku.com/five-things-to-know-about-god-of-war-ragnarok-1847664756)
- - [Genshin Impact Kokomi: Everything we know](https://www.pcgamer.com/best-genshin-impact-kokomi-build-banner)<!-- GAME:END -->
+ - [Apex Legends’ tap-strafing stays in the game, for now](https://www.polygon.com/22672020/apex-legends-tap-strafing-patch-respawn-changes)
+ - [Life is Strange: True Colors streamer mode leads to some extremely awkward silence](https://www.polygon.com/22671617/life-is-strange-true-colors-streamer-mode-dmca-music)
+ - [Do I need a Windows 10 key?](https://www.pcgamer.com/windows-10-key-pc)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
