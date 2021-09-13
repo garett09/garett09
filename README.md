@@ -188,9 +188,9 @@ Windows                  7 hrs 38 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [JumpCloud secures $169M funding round to secure enterprise Macs](https://appleinsider.com/articles/21/09/13/jumpcloud-secures-169m-funding-round-to-secure-enterprise-macs?utm_medium=rss)
- - [Dutch court finds Uber drivers are employees](http://feedproxy.google.com/~r/Techcrunch/~3/J_SS_cOvgqU/)
- - [Apple's booming iPhone 12 sales have been driven in part by attractive offers from carriers to boost 5G, raising questions about how long such deals will last (Tim Higgins/Wall Street Journal)](http://www.techmeme.com/210913/p20#a210913p20)<!-- TECH:END -->
+ - [GrubMarket gobbles up $120M at a $1B+ pre-money valuation to take on the grocery supply chain](http://feedproxy.google.com/~r/Techcrunch/~3/p6-H9AEEIAU/)
+ - [Instagram is testing new ‘Favorites’ to bring order to your chaotic feed](https://www.theverge.com/2021/9/10/22666744/instagram-testing-new-favorites-setting-prioritize-content)
+ - [Steve Wozniak co-founding new space startup](https://appleinsider.com/articles/21/09/13/steve-wozniak-co-founding-new-space-startup?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
