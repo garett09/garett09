@@ -188,9 +188,9 @@ Windows                  7 hrs 38 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Litecoin price jumped 20 percent after hoax linked the cryptocurrency to Walmart](https://www.theverge.com/2021/9/13/22671485/walmart-crypto-hoax-litecoin-cryptocurrency)
- - [Oracle misses in Q1 with revenue of $9.73B, up 4% YoY, vs. $9.77B expected, cloud services and license support revenue of $7.37B, up 6% YoY, vs $7.41B expected (Jordan Novet/CNBC)](http://www.techmeme.com/210913/p36#a210913p36)
- - [Intuit confirms $12B deal to buy Mailchimp](http://feedproxy.google.com/~r/Techcrunch/~3/qj1VNe3LNZw/)<!-- TECH:END -->
+ - [Microsoft says Windows on ARM will not support Apple M1 Macs](https://appleinsider.com/articles/21/09/13/microsoft-says-windows-on-arm-will-not-support-apple-m1-macs?utm_medium=rss)
+ - [Use creative automation software to amp up your brand’s lower-funnel assets](http://feedproxy.google.com/~r/Techcrunch/~3/zxRLuwBtsqo/)
+ - [OnePlus 9RT: All the rumors in one place (Sept. 13)](https://www.androidauthority.com/oneplus-9rt-2737438/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
