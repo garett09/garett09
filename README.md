@@ -195,9 +195,9 @@ Windows                  7 hrs 38 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Frog with the worst hunting skill](http://9gag.com/gag/a07BbGQ)
- - 🚯 [This some bullshit!](http://9gag.com/gag/ajmpNQq)
- - 🚯 [Fastest KO in women&rsquo;s boxing history](http://9gag.com/gag/aeALbPO)<!-- MEMES:END -->
+ - 🚖 [This some bullshit!](http://9gag.com/gag/ajmpNQq)
+ - 🚯 [Fastest KO in women&rsquo;s boxing history](http://9gag.com/gag/aeALbPO)
+ - 🚯 [I think the Fries are ready...](http://9gag.com/gag/a9EoApW)<!-- MEMES:END -->
 
 --- 
 
