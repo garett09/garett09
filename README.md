@@ -188,9 +188,9 @@ Windows                  7 hrs 38 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Why It’s So Hard to Predict Where the Pandemic Is Headed Next](https://www.wired.com/story/why-its-so-hard-to-predict-where-the-pandemic-is-headed-next)
- - [‘Neurograins’ Could be the Next Brain-Computer Interfaces](https://www.wired.com/story/neurograins-could-be-the-next-brain-computer-interfaces)
- - [How to Make Podcasts Better for People With Hearing Loss](https://www.wired.com/story/how-to-make-podcasts-better-for-people-with-hearing-loss)<!-- TECH:END -->
+ - ['iPhone 13,' 'Apple Watch Series 7' to feature in first of two Apple events](https://appleinsider.com/articles/21/09/12/iphone-13-apple-watch-series-7-to-feature-in-first-of-two-apple-events?utm_medium=rss)
+ - [Pandemic’s shift to remote wellness helps Numan raise $40M Series B led by White Star](http://feedproxy.google.com/~r/Techcrunch/~3/YCL0uU3IvM4/)
+ - [Sources: Beijing wants to break up Ant Group's Alipay, which has over 1B users, and create a separate app for the company's highly profitable loans business (Financial Times)](http://www.techmeme.com/210913/p4#a210913p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
