@@ -195,9 +195,9 @@ Windows                  7 hrs 38 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Very woke indeed](http://9gag.com/gag/a27eowd)
- - 🚯 [Copium](http://9gag.com/gag/aMKgjxG)
- - 🚯 [Mondays...-sip coffee-](http://9gag.com/gag/aMKgjDx)<!-- MEMES:END -->
+ - 🚖 [I really do be like that tho](http://9gag.com/gag/aqj0Kyv)
+ - 🚯 [Mondays...-sip coffee-](http://9gag.com/gag/aMKgjDx)
+ - 🚯 [Posting one Rumi quote every day #002](http://9gag.com/gag/aZ0eLMn)<!-- MEMES:END -->
 
 --- 
 
