@@ -195,9 +195,9 @@ Windows                  7 hrs 38 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Leopard vs porcupine](http://9gag.com/gag/anQ61GB)
- - 🚯 [Country doesnt matter](http://9gag.com/gag/ayMG8ep)
- - 🚯 [I demand some answers.](http://9gag.com/gag/aZ0ep2n)<!-- MEMES:END -->
+ - 🚖 [I demand some answers.](http://9gag.com/gag/aZ0ep2n)
+ - 🚯 [The perfect cosplay doesn&#039;t ex..](http://9gag.com/gag/ajmpX0x)
+ - 🚯 [We had elections in Argentina today... &quot;The people have spoken&quot;](http://9gag.com/gag/aWjzmp6)<!-- MEMES:END -->
 
 --- 
 
