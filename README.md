@@ -181,9 +181,9 @@ Windows                  7 hrs 38 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The gorgeous animated fantasy Where Is Anne Frank puts a future spin on grim history](https://www.polygon.com/reviews/22672374/where-is-anne-frank-review)
- - [Destiny 2's revamped Trials of Osiris is a glorious lootsplosion (but expect a brutal ass kicking if you solo queue)](https://www.pcgamer.com/destiny-2s-revamped-trials-of-osiris-is-a-glorious-lootsplosion-but-expect-a-brutal-ass-kicking-if-you-solo-queue)
- - [Where to find color bottles and rainbow ink in Fortnite to customize Toona Fish](https://www.pcgamer.com/paint-a-toona-fish-color-bottles-rainbow-ink)<!-- GAME:END -->
+ - [Jet Set Radio style meets badminton in this stylish sports game](https://www.polygon.com/22671374/new-gameboy-advance-game-jet-set-radio-anime-fighting-game)
+ - [Weapons Drawn brings a murder mystery to Jackbox](https://www.polygon.com/22666611/weapons-drawn-overboard-jackbox-party-pack-8)
+ - [The gorgeous animated fantasy Where Is Anne Frank puts a future spin on grim history](https://www.polygon.com/reviews/22672374/where-is-anne-frank-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
