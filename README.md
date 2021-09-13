@@ -195,9 +195,9 @@ Windows                  7 hrs 38 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How to make an engineer crying](http://9gag.com/gag/ajmpqy0)
+ - 🚖 [Frog with the worst hunting skill](http://9gag.com/gag/a07BbGQ)
  - 🚯 [This some bullshit!](http://9gag.com/gag/ajmpNQq)
- - 🚯 [Rest in peace. Fallen brother](http://9gag.com/gag/amP32oX)<!-- MEMES:END -->
+ - 🚯 [Fastest KO in women&rsquo;s boxing history](http://9gag.com/gag/aeALbPO)<!-- MEMES:END -->
 
 --- 
 
