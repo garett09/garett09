@@ -188,9 +188,9 @@ Windows                  11 hrs 12 mins      ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Technology giant Olympus hit by BlackMatter ransomware](http://feedproxy.google.com/~r/Techcrunch/~3/kQIMjv3vcKU/)
- - ['iPhone 13,' 'Apple Watch Series 7' to feature in first of two Apple events](https://appleinsider.com/articles/21/09/12/iphone-13-apple-watch-series-7-to-feature-in-first-of-two-apple-events?utm_medium=rss)
- - [New Trailers: The Matrix: Resurrections, The Guilty, Ron’s Gone Wrong, Star Trek: Picard and more](https://www.theverge.com/2021/9/12/22668359/new-trailers-the-matrix-the-guilty-rons-gone-wrong-star-trek-picard-netflix-hbo)<!-- TECH:END -->
+ - [Scenes from a Marriage: Jessica Chastain, Oscar Isaac elevate raw, intimate remake     - CNET](https://www.cnet.com/news/scenes-from-a-marriage-review-jessica-chastain-oscar-isaac-elevate-raw-intimate-remake/#ftag=CAD590a51e)
+ - [iPhone 13 release date: We expect to see Apple's new iPhone on Sept. 14     - CNET](https://www.cnet.com/tech/mobile/iphone-13-release-date-we-expect-to-see-apples-new-iphone-on-sept-14/#ftag=CAD590a51e)
+ - [Scientists concerned climate change is causing animals to 'shape-shift'     - CNET](https://www.cnet.com/news/scientists-concerned-climate-change-is-causing-animals-to-shape-shift/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
