@@ -188,9 +188,9 @@ Windows                  7 hrs 38 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Zoom is adding live translation services and will bring video meetings and Zoom Whiteboard to Facebook's shared VR meeting space, Horizon Workrooms, in Q1 2022 (Ian Carlos Campbell/The Verge)](http://www.techmeme.com/210913/p27#a210913p27)
- - [What comes next for the App Store?](https://www.theverge.com/2021/9/13/22671574/epic-apple-app-store-new-rules-meaning-ruling-decision)
- - [Secret Facebook program reportedly let celebrities avoid moderation](https://www.theverge.com/2021/9/13/22671565/facebook-xcheck-moderation-system-high-profile-exemptions)<!-- TECH:END -->
+ - [Apple issues last minute iOS 14.8 and iPadOS 14.8 update](https://appleinsider.com/articles/21/09/13/apple-issues-last-minute-ios-148-and-ipados-148-update?utm_medium=rss)
+ - [Xiaomi: Those blocked imported phones from banned markets are now working again](https://www.androidauthority.com/xiaomi-unblocked-phones-3022860/)
+ - [Joe Biden to nominate facial recognition critic to FTC](https://www.theverge.com/2021/9/13/22671880/biden-alvaro-bedoya-privacy-ftc-commissioner-facial-recognition)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
