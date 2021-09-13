@@ -181,9 +181,9 @@ Windows                  7 hrs 38 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [US Open Tennis Champion Does Video Game Celebration After Winning](https://kotaku.com/us-open-tennis-champion-does-video-game-celebration-aft-1847662401)
  - [The cheapest way to pre-order Deathloop in Australia](https://www.pcgamer.com/the-cheapest-way-to-pre-order-deathloop-in-australia)
- - [Five new Steam games you probably missed (September 13, 2021)](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-september-13-2021)
- - [A fix for the weird squad 'ghosts' breaking Rainbow Six Siege has been deployed](https://www.pcgamer.com/rainbow-six-siege-squad-bug)<!-- GAME:END -->
+ - [Five new Steam games you probably missed (September 13, 2021)](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-september-13-2021)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
