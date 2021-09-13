@@ -188,9 +188,9 @@ Windows                  7 hrs 38 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple TV+ drama 'Swan Song' debuts on December 17](https://appleinsider.com/articles/21/09/13/apple-tv-drama-swan-song-debuts-on-december-17?utm_medium=rss)
- - [Apple patches a NSO zero-day flaw affecting all devices](http://feedproxy.google.com/~r/Techcrunch/~3/NthTXLJEFqw/)
- - ['Ted Lasso' cast, writers, producers score big salary bumps](https://appleinsider.com/articles/21/09/13/ted-lasso-cast-writers-and-producers-score-big-salary-bumps?utm_medium=rss)<!-- TECH:END -->
+ - [A look at the harsh reality of working for on-demand delivery apps in NYC, including fluctuating pay and relentless time pressure, and labor organizing efforts (Josh Dzieza/The Verge)](http://www.techmeme.com/210913/p35#a210913p35)
+ - [Best Labor Day mattress deals still available at Amerisleep, Casper, Purple, Helix and more     - CNET](https://www.cnet.com/health/sleep/best-mattress-deals/#ftag=CAD590a51e)
+ - [Cable, fiber, 5G and more: The different internet connection types and how they work     - CNET](https://www.cnet.com/home/internet/internet-connection-types/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
