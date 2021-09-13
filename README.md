@@ -181,9 +181,9 @@ Windows                  11 hrs 12 mins      ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Week In Games: Deathloop De Loop And Pull](https://kotaku.com/the-week-in-games-deathloop-de-loop-and-pull-1847662069)
- - [Incredible Death Stranding Cosplay Even Gets The Landscape Right](https://kotaku.com/incredible-death-stranding-cosplay-even-gets-the-landsc-1847662059)
- - [Project Eve looks like a cross between Nier and Bayonetta](https://www.pcgamer.com/project-eve-looks-like-a-cross-between-nier-and-bayonetta)<!-- GAME:END -->
+ - [NFT Game Steals Artwork, Gets Called Out, Deletes Account](https://kotaku.com/nft-game-steals-artwork-gets-called-out-deletes-accou-1847662161)
+ - [Redfall leak sure makes it look like a looter-shooter](https://www.pcgamer.com/redfall-leak-sure-makes-it-look-like-a-looter-shooter)
+ - [The Week In Games: Deathloop De Loop And Pull](https://kotaku.com/the-week-in-games-deathloop-de-loop-and-pull-1847662069)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
