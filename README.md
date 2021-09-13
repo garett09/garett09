@@ -181,9 +181,9 @@ Windows                  7 hrs 38 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Hideo Kojima Wants To Make Video Games That Change In Real Time](https://kotaku.com/hideo-kojima-wants-to-make-video-games-that-change-in-r-1847663221)
- - [Nvidia may be pulling the RTX 2060 out of retirement to combat PC gaming's price problem](https://www.pcgamer.com/rtx-2060-revival-rumours-2021)
- - [Deathloop’s brilliant time mechanics make me feel like a Bond villain](https://www.polygon.com/22671229/deathloop-release-ps5-pc-impressions-time-loop-gameplay)<!-- GAME:END -->
+ - [Among Us' crewmates pack a punch in this fan-made fighting game](https://www.pcgamer.com/among-us-crewmates-pack-a-punch-in-this-fan-made-fighting-game-spin-off)
+ - [You can build a great-looking PC inside this compact Asus case, on sale for $200](https://www.pcgamer.com/you-can-build-a-great-looking-pc-inside-this-compact-asus-case-on-sale-for-dollar200)
+ - [I'm not buying the $2,999 GeForce RTX 4090 price prediction, but should I?](https://www.pcgamer.com/im-not-buying-the-dollar2999-geforce-rtx-4090-price-prediction-but-should-i)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
