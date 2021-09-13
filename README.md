@@ -195,9 +195,9 @@ Windows                  7 hrs 38 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [We live in a society](http://9gag.com/gag/aWjz8A3)
- - 🚯 [The perfect cosplay doesn&#039;t ex..](http://9gag.com/gag/ajmpX0x)
- - 🚯 [She loves mansplaining.](http://9gag.com/gag/ayMGLBX)<!-- MEMES:END -->
+ - 🚖 [The perfect cosplay doesn&#039;t ex..](http://9gag.com/gag/ajmpX0x)
+ - 🚯 [She loves mansplaining.](http://9gag.com/gag/ayMGLBX)
+ - 🚯 [Living the dream](http://9gag.com/gag/abV76Gv)<!-- MEMES:END -->
 
 --- 
 
