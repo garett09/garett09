@@ -195,9 +195,9 @@ Windows                  7 hrs 38 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The perfect cosplay doesn&#039;t ex..](http://9gag.com/gag/ajmpX0x)
- - 🚯 [She loves mansplaining.](http://9gag.com/gag/ayMGLBX)
- - 🚯 [Living the dream](http://9gag.com/gag/abV76Gv)<!-- MEMES:END -->
+ - 🚖 [A street artist draws cartoon version of a girl](http://9gag.com/gag/aZ0eBQ0)
+ - 🚯 [Sweet Home Alabama no more....?](http://9gag.com/gag/a4EvbxQ)
+ - 🚯 [We had elections in Argentina today... &quot;The people have spoken&quot;](http://9gag.com/gag/aWjzmp6)<!-- MEMES:END -->
 
 --- 
 
