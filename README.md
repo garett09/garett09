@@ -195,9 +195,9 @@ Windows                  7 hrs 38 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A street artist draws cartoon version of a girl](http://9gag.com/gag/aZ0eBQ0)
- - 🚯 [It&rsquo;s still to bright](http://9gag.com/gag/amP3zvj)
- - 🚯 [Leopard vs porcupine](http://9gag.com/gag/anQ61GB)<!-- MEMES:END -->
+ - 🚖 [Perverts, Japan](http://9gag.com/gag/a07BYwX)
+ - 🚯 [Leopard vs porcupine](http://9gag.com/gag/anQ61GB)
+ - 🚯 [I demand some answers.](http://9gag.com/gag/aZ0ep2n)<!-- MEMES:END -->
 
 --- 
 
