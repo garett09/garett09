@@ -188,9 +188,9 @@ Windows                  7 hrs 38 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - ['iPhone 13,' 'Apple Watch Series 7' to feature in first of two Apple events](https://appleinsider.com/articles/21/09/12/iphone-13-apple-watch-series-7-to-feature-in-first-of-two-apple-events?utm_medium=rss)
- - [Pandemic’s shift to remote wellness helps Numan raise $40M Series B led by White Star](http://feedproxy.google.com/~r/Techcrunch/~3/YCL0uU3IvM4/)
- - [Sources: Beijing wants to break up Ant Group's Alipay, which has over 1B users, and create a separate app for the company's highly profitable loans business (Financial Times)](http://www.techmeme.com/210913/p4#a210913p4)<!-- TECH:END -->
+ - [iPhone 13, Apple Watch Series 7 to feature in first of two Apple events](https://appleinsider.com/articles/21/09/12/iphone-13-apple-watch-series-7-to-feature-in-first-of-two-apple-events?utm_medium=rss)
+ - [Deathloop is an intricate mystery that also happens to be an amazing action game](https://www.theverge.com/2021/9/13/22671207/deathloop-review-ps5-pc)
+ - [Mozilla has defeated Microsoft’s default browser protections in Windows](https://www.theverge.com/2021/9/13/22671182/mozilla-default-browser-windows-protections-firefox)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
