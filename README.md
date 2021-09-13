@@ -195,9 +195,9 @@ Windows                  7 hrs 38 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I demand some answers.](http://9gag.com/gag/aZ0ep2n)
+ - 🚖 [Kentucky Fried Chicken](http://9gag.com/gag/aRXnmZy)
  - 🚯 [The perfect cosplay doesn&#039;t ex..](http://9gag.com/gag/ajmpX0x)
- - 🚯 [We had elections in Argentina today... &quot;The people have spoken&quot;](http://9gag.com/gag/aWjzmp6)<!-- MEMES:END -->
+ - 🚯 [We live in a society](http://9gag.com/gag/aWjz8A3)<!-- MEMES:END -->
 
 --- 
 
