@@ -188,9 +188,9 @@ Windows                  7 hrs 38 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Indonesia-based Rey Assurance launches its holistic approach to insurance with $1M in funding](http://feedproxy.google.com/~r/Techcrunch/~3/XAfWDIAofEc/)
- - [Fortnite brings back Kevin the cube, then shuts down after Operation: Sky Fire event     - CNET](https://www.cnet.com/news/fortnite-brings-back-kevin-the-cube-then-shuts-down-after-operation-sky-fire-event/#ftag=CAD590a51e)
- - [Best TV shows 2021: Hacks, The White Lotus, Mare of Easttown, more     - CNET](https://www.cnet.com/news/best-tv-shows-2021-hacks-the-white-lotus-mare-of-easttown-more/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Xiaomi could finally bring its budget 5G phone to India (Update: Launch info)](https://www.androidauthority.com/xiaomi-11-lite-5g-ne-india-3018148/)
+ - [Android 12 stable release could happen on this date](https://www.androidauthority.com/android-12-stable-release-date-3020494/)
+ - [Indonesia-based Rey Assurance launches its holistic approach to insurance with $1M in funding](http://feedproxy.google.com/~r/Techcrunch/~3/XAfWDIAofEc/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
