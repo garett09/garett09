@@ -195,9 +195,9 @@ Windows                  7 hrs 38 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Girl: Can I pay you in kind!?](http://9gag.com/gag/azMn1mq)
- - 🚯 [Is cominig out Lol](http://9gag.com/gag/abV7Y4O)
- - 🚯 [School, Japan](http://9gag.com/gag/av5NOmd)<!-- MEMES:END -->
+ - 🚖 [Guess who&#039;s back :D](http://9gag.com/gag/aAbjg7Z)
+ - 🚯 [Old cat](http://9gag.com/gag/aLpx0Ax)
+ - 🚯 [Girl: Can I pay you in kind!?](http://9gag.com/gag/azMn1mq)<!-- MEMES:END -->
 
 --- 
 
