@@ -181,9 +181,9 @@ Windows                  7 hrs 38 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Japanese Internet Reacts To Netflix's Kate](https://kotaku.com/the-japanese-internet-reacts-to-netflixs-kate-1847662955)
- - [Fortnite’s new season takes players to a new dimension](https://www.polygon.com/fortnite/22665662/fortnite-season-8-patch-changes-release-date-trailer-cube-servers-online)
- - [Face dark powers in Fortnite Chapter 2 Season 8: Cubed](http://feedproxy.google.com/~r/PSBlog/~3/_JBRNVZXVO8/)<!-- GAME:END -->
+ - [Carnage is part of Fortnite’s season 8 battle pass](https://www.polygon.com/fortnite/22666541/fortnite-season-8-battle-pass-carnage-skin-tonna-fish)
+ - [Spreading the love throughout Paradox's medieval soap opera Crusader Kings 3](https://www.pcgamer.com/spreading-the-love-throughout-paradoxs-medieval-soap-opera-crusader-kings-3)
+ - [The Japanese Internet Reacts To Netflix's Kate](https://kotaku.com/the-japanese-internet-reacts-to-netflixs-kate-1847662955)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
