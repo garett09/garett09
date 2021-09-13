@@ -195,9 +195,9 @@ Windows                  7 hrs 38 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [You think pineapple on pizza is disgusting, try this:](http://9gag.com/gag/aGpXe70)
- - 🚯 [Oh boy](http://9gag.com/gag/a27e4ge)
- - 🚯 [It is what it is](http://9gag.com/gag/a1r9o9w)<!-- MEMES:END -->
+ - 🚖 [Is cominig out Lol](http://9gag.com/gag/abV7Y4O)
+ - 🚯 [Is this true ?](http://9gag.com/gag/aeALe45)
+ - 🚯 [Posting one Rumi quote every day #002](http://9gag.com/gag/aZ0eLMn)<!-- MEMES:END -->
 
 --- 
 
