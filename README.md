@@ -188,9 +188,9 @@ Windows                  7 hrs 38 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [GrubMarket gobbles up $120M at a $1B+ pre-money valuation to take on the grocery supply chain](http://feedproxy.google.com/~r/Techcrunch/~3/p6-H9AEEIAU/)
- - [Instagram is testing new ‘Favorites’ to bring order to your chaotic feed](https://www.theverge.com/2021/9/10/22666744/instagram-testing-new-favorites-setting-prioritize-content)
- - [Steve Wozniak co-founding new space startup](https://appleinsider.com/articles/21/09/13/steve-wozniak-co-founding-new-space-startup?utm_medium=rss)<!-- TECH:END -->
+ - [Litecoin saw its price spike by ~20% after several news outlets published reports that Walmart would begin accepting Litecoin based on a fake press release (Kim Lyons/The Verge)](http://www.techmeme.com/210913/p25#a210913p25)
+ - [Amazon slashes AirPods to $114, AirPods Pro $179.99 before Tuesday's Apple Event](https://appleinsider.com/articles/21/09/13/amazon-slashes-airpods-to-114-airpods-pro-17999-before-tuesdays-apple-event?utm_medium=rss)
+ - [New Qualcomm chip reportedly in the works for cheaper gaming phones](https://www.androidauthority.com/qualcomm-chip-cheaper-gaming-phones-3022727/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
