@@ -188,9 +188,9 @@ Windows                  7 hrs 38 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Watch 7: Release date, price and health feature rumors ahead of Apple's next event     - CNET](https://www.cnet.com/tech/mobile/apple-watch-7-release-date-price-and-health-feature-rumor-ahead-of-apples-next-event/#ftag=CAD590a51e)
- - [SpotOn, a payments company focused on SMBs, raises $300M Series E led by a16z at a $3.15B valuation and acquires live events payments startup Appetize for $400M (Mary Ann Azevedo/TechCrunch)](http://www.techmeme.com/210913/p26#a210913p26)
- - [Get Instant's outstanding cooking blender for $60 right now (50% off)     - CNET](https://www.cnet.com/home/kitchen-and-household/get-instants-outstanding-cooking-blender-for-60-right-now-50-off/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Zoom is adding live translation services and will bring video meetings and Zoom Whiteboard to Facebook's shared VR meeting space, Horizon Workrooms, in Q1 2022 (Ian Carlos Campbell/The Verge)](http://www.techmeme.com/210913/p27#a210913p27)
+ - [What comes next for the App Store?](https://www.theverge.com/2021/9/13/22671574/epic-apple-app-store-new-rules-meaning-ruling-decision)
+ - [Secret Facebook program reportedly let celebrities avoid moderation](https://www.theverge.com/2021/9/13/22671565/facebook-xcheck-moderation-system-high-profile-exemptions)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
