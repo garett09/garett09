@@ -188,9 +188,9 @@ Windows                  7 hrs 38 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Instagram is building a ‘Favorites’ feature so you don’t miss important posts](http://feedproxy.google.com/~r/Techcrunch/~3/5lur1zyVrow/)
- - [RIAA: music streaming revenue grew 26% YoY in H1 to $5.9B, comprising 84% of all revenue; paid sub revenue grew 26% to $4.6B, ad-supported grew 54% to $741M (Dan Rys/Billboard)](http://www.techmeme.com/210913/p34#a210913p34)
- - [Apple products & technologies used to drive viewer interest in Apple TV+ shows](https://appleinsider.com/articles/21/09/13/apple-products-technologies-used-to-drive-viewer-interest-in-apple-tv-shows?utm_medium=rss)<!-- TECH:END -->
+ - [Apple TV+ drama 'Swan Song' debuts on December 17](https://appleinsider.com/articles/21/09/13/apple-tv-drama-swan-song-debuts-on-december-17?utm_medium=rss)
+ - [Apple patches a NSO zero-day flaw affecting all devices](http://feedproxy.google.com/~r/Techcrunch/~3/NthTXLJEFqw/)
+ - ['Ted Lasso' cast, writers, producers score big salary bumps](https://appleinsider.com/articles/21/09/13/ted-lasso-cast-writers-and-producers-score-big-salary-bumps?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
