@@ -188,9 +188,9 @@ Windows                  7 hrs 38 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Intuit confirms $12B deal to buy Mailchimp](http://feedproxy.google.com/~r/Techcrunch/~3/qj1VNe3LNZw/)
- - [iOS 14.8, iPadOS 14.8 tighten security, close off 'Blastdoor' attacks](https://appleinsider.com/articles/21/09/13/ios-148-ipados-148-tighten-security-fixes-blastdoor-attacks?utm_medium=rss)
- - [Nvidia leak may reveal unannounced games, including God of War for PC](https://www.theverge.com/2021/9/13/22672280/nvidia-leak-geforce-now-playstation-games-god-of-war)<!-- TECH:END -->
+ - [Litecoin price jumped 20 percent after hoax linked the cryptocurrency to Walmart](https://www.theverge.com/2021/9/13/22671485/walmart-crypto-hoax-litecoin-cryptocurrency)
+ - [Oracle misses in Q1 with revenue of $9.73B, up 4% YoY, vs. $9.77B expected, cloud services and license support revenue of $7.37B, up 6% YoY, vs $7.41B expected (Jordan Novet/CNBC)](http://www.techmeme.com/210913/p36#a210913p36)
+ - [Intuit confirms $12B deal to buy Mailchimp](http://feedproxy.google.com/~r/Techcrunch/~3/qj1VNe3LNZw/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
