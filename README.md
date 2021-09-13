@@ -181,9 +181,9 @@ Windows                  7 hrs 38 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Scarecrow brought Gotham to its knees without a drop of fear gas](https://www.polygon.com/comics/2021/9/13/22671510/batman-fear-state-scarecrow-dc-comics)
- - [Apex Legends’ tap-strafing stays in the game, for now](https://www.polygon.com/22672020/apex-legends-tap-strafing-patch-respawn-changes)
- - [Life is Strange: True Colors streamer mode leads to some extremely awkward silence](https://www.polygon.com/22671617/life-is-strange-true-colors-streamer-mode-dmca-music)<!-- GAME:END -->
+ - [Classic LittleBigPlanet Servers Shut Down Permanently Following Hacks](https://kotaku.com/classic-littlebigplanet-servers-shut-down-permanently-f-1847666558)
+ - [Narcos: Mexico’s final season begins in November](https://www.polygon.com/22671756/narcos-mexico-season-3-release-date-trailer-netflix-bad-bunny)
+ - [Pull Off a Daring Bank Robbery in the New Warface Season](https://news.xbox.com/en-us/2021/09/13/pull-off-a-daring-bank-robbery-in-the-new-warface-season/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
