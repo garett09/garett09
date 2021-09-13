@@ -188,9 +188,9 @@ Windows                  7 hrs 38 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [You told us: Most of you don’t buy music anymore, but is that the full story?](https://www.androidauthority.com/do-you-still-buy-music-poll-results-3020513/)
- - [Chinese crackdown on tech giants threatens its cloud market growth](http://feedproxy.google.com/~r/Techcrunch/~3/5kTSRP1bUIA/)
- - [Every iPhone 13 rumor we hope comes true at Apple's Sept. 14 event     - CNET](https://www.cnet.com/tech/mobile/every-iphone-13-rumor-we-hope-comes-true-at-apples-sept-14-event/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Why It’s So Hard to Predict Where the Pandemic Is Headed Next](https://www.wired.com/story/why-its-so-hard-to-predict-where-the-pandemic-is-headed-next)
+ - [‘Neurograins’ Could be the Next Brain-Computer Interfaces](https://www.wired.com/story/neurograins-could-be-the-next-brain-computer-interfaces)
+ - [How to Make Podcasts Better for People With Hearing Loss](https://www.wired.com/story/how-to-make-podcasts-better-for-people-with-hearing-loss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
