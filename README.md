@@ -195,9 +195,9 @@ Windows                  7 hrs 38 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Kentucky Fried Chicken](http://9gag.com/gag/aRXnmZy)
+ - 🚖 [We live in a society](http://9gag.com/gag/aWjz8A3)
  - 🚯 [The perfect cosplay doesn&#039;t ex..](http://9gag.com/gag/ajmpX0x)
- - 🚯 [We live in a society](http://9gag.com/gag/aWjz8A3)<!-- MEMES:END -->
+ - 🚯 [She loves mansplaining.](http://9gag.com/gag/ayMGLBX)<!-- MEMES:END -->
 
 --- 
 
