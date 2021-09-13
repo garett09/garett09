@@ -188,9 +188,9 @@ Windows                  7 hrs 38 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android 12 may be released on October 4th](https://www.theverge.com/2021/9/13/22671612/android-12-possible-release-date)
- - [EFF protesting Apple CSAM identification programs on Monday evening](https://appleinsider.com/articles/21/09/13/eff-protesting-apple-csam-identification-programs-on-monday-evening?utm_medium=rss)
- - [Save up to $900 on the Galaxy Fold 3, and more Samsung Galaxy deals](https://www.androidauthority.com/best-samsung-galaxy-deals-1108345/)<!-- TECH:END -->
+ - [Researcher testing Apple CloudKit accidentally took Shortcuts completely down](https://appleinsider.com/articles/21/09/13/researcher-testing-apple-cloudkit-accidentally-took-shortcuts-completely-down?utm_medium=rss)
+ - [Google Messages could soon remind you to reply to that text you forgot about](https://www.androidauthority.com/google-messages-nudges-3022950/)
+ - [A doctor’s quest for more organ emoji](https://www.theverge.com/2021/9/13/22665002/doctors-medical-emoji-organs-health)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
