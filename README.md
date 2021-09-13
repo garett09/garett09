@@ -195,9 +195,9 @@ Windows                  7 hrs 38 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I really do be like that tho](http://9gag.com/gag/aqj0Kyv)
- - 🚯 [Mondays...-sip coffee-](http://9gag.com/gag/aMKgjDx)
- - 🚯 [Posting one Rumi quote every day #002](http://9gag.com/gag/aZ0eLMn)<!-- MEMES:END -->
+ - 🚖 [Posting one Rumi quote every day #002](http://9gag.com/gag/aZ0eLMn)
+ - 🚯 [It is what it is](http://9gag.com/gag/a1r9o9w)
+ - 🚯 [Coulnd&#039;t agree more](http://9gag.com/gag/a9EopyW)<!-- MEMES:END -->
 
 --- 
 
