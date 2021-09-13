@@ -195,8 +195,8 @@ Windows                  7 hrs 38 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Posting one Rumi quote every day #002](http://9gag.com/gag/aZ0eLMn)
- - 🚯 [It is what it is](http://9gag.com/gag/a1r9o9w)
+ - 🚖 [It is what it is](http://9gag.com/gag/a1r9o9w)
+ - 🚯 [Posting one Rumi quote every day #002](http://9gag.com/gag/aZ0eLMn)
  - 🚯 [Coulnd&#039;t agree more](http://9gag.com/gag/a9EopyW)<!-- MEMES:END -->
 
 --- 
