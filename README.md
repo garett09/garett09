@@ -181,9 +181,9 @@ Windows                  7 hrs 38 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Classic LittleBigPlanet Servers Shut Down Permanently Following Hacks](https://kotaku.com/classic-littlebigplanet-servers-shut-down-permanently-f-1847666558)
- - [Narcos: Mexico’s final season begins in November](https://www.polygon.com/22671756/narcos-mexico-season-3-release-date-trailer-netflix-bad-bunny)
- - [Pull Off a Daring Bank Robbery in the New Warface Season](https://news.xbox.com/en-us/2021/09/13/pull-off-a-daring-bank-robbery-in-the-new-warface-season/)<!-- GAME:END -->
+ - [F1 2021 gets Portuguese Grand Prix course free, two others coming soon](https://www.polygon.com/22672222/f1-2021-portimao-circuit-imola-jeddah-release-dates-patch)
+ - [Someone Made An Among Us Fighting Game Because Why Not](https://kotaku.com/someone-made-an-among-us-fighting-game-because-why-not-1847667386)
+ - [Lucifer’s final season finally pays off the series’ big, long-running question](https://www.polygon.com/22672114/lucifer-season-6-review-netflix)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
