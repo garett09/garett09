@@ -181,9 +181,9 @@ Windows                  7 hrs 38 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [A New Threat Takes Shape in Fortnite – Chapter 2 Season 8: Cubed](https://news.xbox.com/en-us/2021/09/13/fortnite-chapter-2-season-8-cubed-announce/)
- - [Rampant space particles might be behind eight-year-old Mario speedrun glitch](https://www.pcgamer.com/cosmic-rays-cause-tech-bit-flips-blue-screen-of-death)
- - [Far Cry 6 DLC includes a Stranger Things-inspired wiener dog rescue mission](https://www.polygon.com/22671615/far-cry-6-dlc-free-roadmap-stranger-things-danny-trejo)<!-- GAME:END -->
+ - [Creating Immersion and Intensity in Insurgency: Sandstorm](https://news.xbox.com/en-us/2021/09/13/creating-immersion-and-intensity-in-insurgency-sandstorm/)
+ - [Five Things To Know About God Of War Ragnarok](https://kotaku.com/five-things-to-know-about-god-of-war-ragnarok-1847664756)
+ - [Genshin Impact Kokomi: Everything we know](https://www.pcgamer.com/best-genshin-impact-kokomi-build-banner)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
