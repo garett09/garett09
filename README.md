@@ -181,9 +181,9 @@ Windows                  7 hrs 38 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Introducing Asterigos, a new high-fantasy action RPG](https://blog.playstation.com/2021/09/13/introducing-asterigos-a-new-high-fantasy-action-rpg/)
- - [Look Out Hideo Kojima, Someone Else Is Making A Strand Game](https://kotaku.com/look-out-hideo-kojima-someone-else-is-making-a-strand-1847664001)
- - [The best builds for Xiao in Genshin Impact](https://www.pcgamer.com/how-to-get-genshin-impact-xiao-build-best)<!-- GAME:END -->
+ - [Far Cry 6 DLC includes a Stranger Things-inspired wiener dog rescue mission](https://www.polygon.com/22671615/far-cry-6-dlc-free-roadmap-stranger-things-danny-trejo)
+ - [You Should Be Hyped About This New God of War Character](https://kotaku.com/you-should-be-hyped-about-this-new-god-of-war-character-1847655848)
+ - [Hayley Atwell will voice Lara Croft in Netflix’s animated Tomb Raider series](https://www.polygon.com/22671548/netflix-tomb-raider-cast-hayley-atwell-lara-croft-voice)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
