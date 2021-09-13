@@ -188,9 +188,9 @@ Windows                  7 hrs 38 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look into crypto-backed loans, which holders have used to buy houses, cars, or even ramp up their investments, as federal and state securities oversight grows (Rachel Louise Ensign/Wall Street Journal)](http://www.techmeme.com/210913/p1#a210913p1)
  - [Xiaomi could finally bring its budget 5G phone to India (Update: Launch info)](https://www.androidauthority.com/xiaomi-11-lite-5g-ne-india-3018148/)
- - [Android 12 stable release could happen on this date](https://www.androidauthority.com/android-12-stable-release-date-3020494/)
- - [iPhone 13 release date: We expect to see Apple's new iPhone on Sept. 14     - CNET](https://www.cnet.com/tech/mobile/iphone-13-release-date-we-expect-to-see-apples-new-iphone-sept-14/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Android 12 stable release could happen on this date](https://www.androidauthority.com/android-12-stable-release-date-3020494/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
