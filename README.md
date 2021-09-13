@@ -188,9 +188,9 @@ Windows                  7 hrs 38 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Experts say China's gaming regulations for young players will hurt esports development in the country and hand a big advantage to rivals in other countries (Primrose Riordan/Financial Times)](http://www.techmeme.com/210913/p2#a210913p2)
- - [Nintendo lowers Switch price across Europe ahead of OLED model](https://www.theverge.com/2021/9/13/22671208/nintendo-switch-pricing-lowered-europe-uk)
- - [Billogram, provider of a payments platform specifically for recurring billing, raises $45M](http://feedproxy.google.com/~r/Techcrunch/~3/xJLCw7qCrww/)<!-- TECH:END -->
+ - [You told us: Most of you don’t buy music anymore, but is that the full story?](https://www.androidauthority.com/do-you-still-buy-music-poll-results-3020513/)
+ - [Chinese crackdown on tech giants threatens its cloud market growth](http://feedproxy.google.com/~r/Techcrunch/~3/5kTSRP1bUIA/)
+ - [Every iPhone 13 rumor we hope comes true at Apple's Sept. 14 event     - CNET](https://www.cnet.com/tech/mobile/every-iphone-13-rumor-we-hope-comes-true-at-apples-sept-14-event/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
