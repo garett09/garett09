@@ -181,9 +181,9 @@ Windows                  7 hrs 38 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Another Discord music bot is biting the dust this month](https://www.pcgamer.com/another-discord-music-bot-is-biting-the-dust-this-month)
  - [Suspicious NFT game found nicking art from indies vanishes from Twitter](https://www.pcgamer.com/suspicious-nft-game-found-nicking-art-from-indies-vanishes-from-twitter)
- - [Carnage is part of Fortnite’s season 8 battle pass](https://www.polygon.com/fortnite/22666541/fortnite-season-8-battle-pass-carnage-skin-tonna-fish)
- - [Spreading the love throughout Paradox's medieval soap opera Crusader Kings 3](https://www.pcgamer.com/spreading-the-love-throughout-paradoxs-medieval-soap-opera-crusader-kings-3)<!-- GAME:END -->
+ - [Carnage is part of Fortnite’s season 8 battle pass](https://www.polygon.com/fortnite/22666541/fortnite-season-8-battle-pass-carnage-skin-tonna-fish)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
