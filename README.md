@@ -196,8 +196,8 @@ Windows                  7 hrs 38 mins       ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [What about us?](http://9gag.com/gag/a9EopLm)
- - 🚯 [Coffee Break](http://9gag.com/gag/apNOQQb)
- - 🚯 [Rest in peace. Fallen brother](http://9gag.com/gag/amP32oX)<!-- MEMES:END -->
+ - 🚯 [Rest in peace. Fallen brother](http://9gag.com/gag/amP32oX)
+ - 🚯 [School, Japan](http://9gag.com/gag/av5NOmd)<!-- MEMES:END -->
 
 --- 
 
