@@ -188,9 +188,9 @@ Windows                  7 hrs 38 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Weeks after forcing Groovy Bot offline, Google is doing the same to Rythm, a bot with 560M+ users that lets Discord users play music from YouTube videos (Tom Warren/The Verge)](http://www.techmeme.com/210913/p13#a210913p13)
- - [Rezilion raises $30M help security operations teams with tools to automate their busywork](http://feedproxy.google.com/~r/Techcrunch/~3/KY5wXJWL-lU/)
- - [Filing: Toast, which offers cloud-based restaurant management tools, seeks $717M in US IPO at a valuation of as much as $16.5B, after pricing shares at $30-$33 (Crystal Tse/Bloomberg)](http://www.techmeme.com/210913/p12#a210913p12)<!-- TECH:END -->
+ - [Hawkeye’s first trailer introduces the other Hawkeye and some Christmas hijinks](https://www.theverge.com/22671358/hawkeye-first-trailer-disney-plus-christmas-jeremy-renner-hailee-steinfeld)
+ - [Vector.ai’s productivity platform for freight forwarders raises $15M A round led by Bessemer](http://feedproxy.google.com/~r/Techcrunch/~3/ASqcptOXpGU/)
+ - [What to expect from Microsoft’s Surface event](https://www.theverge.com/2021/9/13/22671271/microsoft-surface-event-pro-8-surface-book-4-rumors)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
