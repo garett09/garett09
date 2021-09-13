@@ -196,8 +196,8 @@ Windows                  7 hrs 38 mins       ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Leopard vs porcupine](http://9gag.com/gag/anQ61GB)
- - 🚯 [We live in a society](http://9gag.com/gag/aWjz8A3)
- - 🚯 [Country doesnt matter](http://9gag.com/gag/ayMG8ep)<!-- MEMES:END -->
+ - 🚯 [Country doesnt matter](http://9gag.com/gag/ayMG8ep)
+ - 🚯 [I demand some answers.](http://9gag.com/gag/aZ0ep2n)<!-- MEMES:END -->
 
 --- 
 
