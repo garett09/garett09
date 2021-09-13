@@ -188,9 +188,9 @@ Windows                  7 hrs 38 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sennheiser’s latest true wireless earbuds offer noise cancellation for less](https://www.theverge.com/2021/9/13/22671228/sennheiser-cx-plus-true-wireless-earbuds-noise-cancellation-release-date-news-features)
- - [Microsoft says Windows on ARM will not support Apple M1 Macs](https://appleinsider.com/articles/21/09/13/microsoft-says-windows-on-arm-will-not-support-apple-m1-macs?utm_medium=rss)
- - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)<!-- TECH:END -->
+ - [Save $300 on the iPhone 12 Pro Max, and more great iPhone deals](https://www.androidauthority.com/best-iphone-deals-1117011/)
+ - [Citizen Lab says it found evidence of ForcedEntry on an activist's iPhone and the exploit worked on iPads, Macs, and Watches as well, prior to today's updates (Zack Whittaker/TechCrunch)](http://www.techmeme.com/210913/p38#a210913p38)
+ - [Daily Crunch: Apple urges users to update all devices after hacktivists reveal zero-day flaw](http://feedproxy.google.com/~r/Techcrunch/~3/jZ9bH11JQF0/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
