@@ -195,9 +195,9 @@ Windows                  11 hrs 12 mins      ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Car with a motorcycle engine](http://9gag.com/gag/aO3wVgr)
- - 🚯 [Looks scary.](http://9gag.com/gag/aLpxBXx)
- - 🚯 [I demand some answers.](http://9gag.com/gag/aZ0ep2n)<!-- MEMES:END -->
+ - 🚖 [A street artist draws cartoon version of a girl](http://9gag.com/gag/aZ0eBQ0)
+ - 🚯 [It&rsquo;s still to bright](http://9gag.com/gag/amP3zvj)
+ - 🚯 [Leopard vs porcupine](http://9gag.com/gag/anQ61GB)<!-- MEMES:END -->
 
 --- 
 
