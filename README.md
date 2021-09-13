@@ -188,9 +188,9 @@ Windows                  7 hrs 38 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple products & technologies used to drive viewer interest in Apple TV+ shows](https://appleinsider.com/articles/21/09/13/apple-products-technologies-used-to-drive-viewer-interest-in-apple-tv-shows?utm_medium=rss)
- - [Watch a resourceful disabled parrot tap tools for beauty routine     - CNET](https://www.cnet.com/news/watch-a-resourceful-disabled-parrot-tap-tools-for-beauty-routine/#ftag=CAD590a51e)
- - [Best price yet on the Roku Express 4K Plus, and more cheap Roku deals](https://www.androidauthority.com/best-cheap-roku-deals-1115065/)<!-- TECH:END -->
+ - [Instagram is building a ‘Favorites’ feature so you don’t miss important posts](http://feedproxy.google.com/~r/Techcrunch/~3/5lur1zyVrow/)
+ - [RIAA: music streaming revenue grew 26% YoY in H1 to $5.9B, comprising 84% of all revenue; paid sub revenue grew 26% to $4.6B, ad-supported grew 54% to $741M (Dan Rys/Billboard)](http://www.techmeme.com/210913/p34#a210913p34)
+ - [Apple products & technologies used to drive viewer interest in Apple TV+ shows](https://appleinsider.com/articles/21/09/13/apple-products-technologies-used-to-drive-viewer-interest-in-apple-tv-shows?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
