@@ -181,9 +181,9 @@ Windows                  7 hrs 38 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Wow, This Quake Clone Is Smaller Than A Word Doc](https://kotaku.com/wow-this-quake-clone-is-smaller-than-a-word-doc-1847668782)
- - [Nickelodeon All-Star Brawl’s True Power Is In Its Fanservice](https://kotaku.com/nickelodeon-all-star-brawl-s-true-power-is-in-its-fanse-1847668755)
- - [Pick up a 2TB Samsung 970 SSD for $80 off today](https://www.pcgamer.com/pick-up-a-2tb-samsung-970-ssd-for-dollar80-off-today)<!-- GAME:END -->
+ - [Apex Legends tap-strafing nerf has been delayed](https://www.pcgamer.com/apex-legends-tap-strafing-nerf-has-been-delayed)
+ - [Remembering the polarizing end of Y: The Last Man as the TV version begins](https://www.polygon.com/22667027/y-the-last-man-why-men-die-spoilers-comic)
+ - [Pathfinder: Wrath of the Righteous review](https://www.pcgamer.com/pathfinder-wrath-of-the-righteous-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
