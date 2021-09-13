@@ -195,9 +195,9 @@ Windows                  7 hrs 38 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Copium](http://9gag.com/gag/aMKgjxG)
- - 🚯 [I think the Fries are ready...](http://9gag.com/gag/a9EoApW)
- - 🚯 [F**k u, Moskito](http://9gag.com/gag/aNpNzD3)<!-- MEMES:END -->
+ - 🚖 [What about us?](http://9gag.com/gag/a9EopLm)
+ - 🚯 [Coffee Break](http://9gag.com/gag/apNOQQb)
+ - 🚯 [Very woke indeed](http://9gag.com/gag/a27eowd)<!-- MEMES:END -->
 
 --- 
 
