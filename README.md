@@ -188,9 +188,9 @@ Windows                  7 hrs 38 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Experts say China's gaming regulations for young players will hurt esports development in the country and hand a big advantage to rivals in other countries (Primrose Riordan/Financial Times)](http://www.techmeme.com/210913/p2#a210913p2)
  - [Nintendo lowers Switch price across Europe ahead of OLED model](https://www.theverge.com/2021/9/13/22671208/nintendo-switch-pricing-lowered-europe-uk)
- - [Billogram, provider of a payments platform specifically for recurring billing, raises $45M](http://feedproxy.google.com/~r/Techcrunch/~3/xJLCw7qCrww/)
- - [WhatsApp reportedly developing transcriptions to tame chaotic voice notes](https://www.theverge.com/2021/9/13/22671185/whatsapp-voice-notes-transcription-ios)<!-- TECH:END -->
+ - [Billogram, provider of a payments platform specifically for recurring billing, raises $45M](http://feedproxy.google.com/~r/Techcrunch/~3/xJLCw7qCrww/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
