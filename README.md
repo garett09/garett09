@@ -188,9 +188,9 @@ Windows                  7 hrs 38 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Researcher testing Apple CloudKit accidentally took Shortcuts completely down](https://appleinsider.com/articles/21/09/13/researcher-testing-apple-cloudkit-accidentally-took-shortcuts-completely-down?utm_medium=rss)
- - [Google Messages could soon remind you to reply to that text you forgot about](https://www.androidauthority.com/google-messages-nudges-3022950/)
- - [A doctor’s quest for more organ emoji](https://www.theverge.com/2021/9/13/22665002/doctors-medical-emoji-organs-health)<!-- TECH:END -->
+ - [Apple products & technologies used to drive viewer interest in Apple TV+ shows](https://appleinsider.com/articles/21/09/13/apple-products-technologies-used-to-drive-viewer-interest-in-apple-tv-shows?utm_medium=rss)
+ - [Watch a resourceful disabled parrot tap tools for beauty routine     - CNET](https://www.cnet.com/news/watch-a-resourceful-disabled-parrot-tap-tools-for-beauty-routine/#ftag=CAD590a51e)
+ - [Best price yet on the Roku Express 4K Plus, and more cheap Roku deals](https://www.androidauthority.com/best-cheap-roku-deals-1115065/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
