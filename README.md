@@ -195,9 +195,9 @@ Windows                  7 hrs 38 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Perverts, Japan](http://9gag.com/gag/a07BYwX)
+ - 🚖 [We live in a society](http://9gag.com/gag/aWjz8A3)
  - 🚯 [Leopard vs porcupine](http://9gag.com/gag/anQ61GB)
- - 🚯 [I demand some answers.](http://9gag.com/gag/aZ0ep2n)<!-- MEMES:END -->
+ - 🚯 [Country doesnt matter](http://9gag.com/gag/ayMG8ep)<!-- MEMES:END -->
 
 --- 
 
