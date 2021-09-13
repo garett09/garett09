@@ -181,9 +181,9 @@ Windows                  7 hrs 38 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [With superstars and storylines, NHL 22 makers aim for longer-lasting player careers](https://www.polygon.com/22672534/nhl-22-preview-new-features-superstar-x-factors-be-a-pro)
- - [When does Deathloop unlock in my timezone?](https://www.pcgamer.com/deathloop-unlock-time)
- - [Jet Set Radio style meets badminton in this stylish sports game](https://www.polygon.com/22671374/new-gameboy-advance-game-jet-set-radio-anime-fighting-game)<!-- GAME:END -->
+ - [Wow, This Quake Clone Is Smaller Than A Word Doc](https://kotaku.com/wow-this-quake-clone-is-smaller-than-a-word-doc-1847668782)
+ - [Nickelodeon All-Star Brawl’s True Power Is In Its Fanservice](https://kotaku.com/nickelodeon-all-star-brawl-s-true-power-is-in-its-fanse-1847668755)
+ - [Pick up a 2TB Samsung 970 SSD for $80 off today](https://www.pcgamer.com/pick-up-a-2tb-samsung-970-ssd-for-dollar80-off-today)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
