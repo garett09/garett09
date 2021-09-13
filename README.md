@@ -188,9 +188,9 @@ Windows                  7 hrs 38 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Equity crew riffs on the Intuit-Mailchimp news](http://feedproxy.google.com/~r/Techcrunch/~3/HbhXDz_yCg4/)
- - [Save $300 on the iPhone 12 Pro Max, and more great iPhone deals](https://www.androidauthority.com/best-iphone-deals-1117011/)
- - [Citizen Lab says it found evidence of ForcedEntry on an activist's iPhone and the exploit worked on iPads, Macs, and Watches as well, prior to today's updates (Zack Whittaker/TechCrunch)](http://www.techmeme.com/210913/p38#a210913p38)<!-- TECH:END -->
+ - [Epic pays Apple $6M for profits made after instituting 'Fortnite' third-party payments](https://appleinsider.com/articles/21/09/13/epic-pays-apple-6m-for-profits-made-after-instituting-fortnite-third-party-payments?utm_medium=rss)
+ - [The most eye-catching looks from the 2021 Met Gala     - CNET](https://www.cnet.com/news/the-most-eye-catching-looks-from-the-2021-met-gala/#ftag=CAD590a51e)
+ - [The Equity crew riffs on the Intuit-Mailchimp news](http://feedproxy.google.com/~r/Techcrunch/~3/HbhXDz_yCg4/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
