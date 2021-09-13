@@ -188,9 +188,9 @@ Windows                  7 hrs 38 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hawkeye’s first trailer introduces the other Hawkeye and some Christmas hijinks](https://www.theverge.com/22671358/hawkeye-first-trailer-disney-plus-christmas-jeremy-renner-hailee-steinfeld)
- - [Vector.ai’s productivity platform for freight forwarders raises $15M A round led by Bessemer](http://feedproxy.google.com/~r/Techcrunch/~3/ASqcptOXpGU/)
- - [What to expect from Microsoft’s Surface event](https://www.theverge.com/2021/9/13/22671271/microsoft-surface-event-pro-8-surface-book-4-rumors)<!-- TECH:END -->
+ - [JumpCloud secures $169M funding round to secure enterprise Macs](https://appleinsider.com/articles/21/09/13/jumpcloud-secures-169m-funding-round-to-secure-enterprise-macs?utm_medium=rss)
+ - [Dutch court finds Uber drivers are employees](http://feedproxy.google.com/~r/Techcrunch/~3/J_SS_cOvgqU/)
+ - [Apple's booming iPhone 12 sales have been driven in part by attractive offers from carriers to boost 5G, raising questions about how long such deals will last (Tim Higgins/Wall Street Journal)](http://www.techmeme.com/210913/p20#a210913p20)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
