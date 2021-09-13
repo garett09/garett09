@@ -197,7 +197,7 @@ Windows                  7 hrs 38 mins       ███████████�
 <!-- MEMES:START -->
  - 🚖 [What about us?](http://9gag.com/gag/a9EopLm)
  - 🚯 [Coffee Break](http://9gag.com/gag/apNOQQb)
- - 🚯 [Very woke indeed](http://9gag.com/gag/a27eowd)<!-- MEMES:END -->
+ - 🚯 [Rest in peace. Fallen brother](http://9gag.com/gag/amP32oX)<!-- MEMES:END -->
 
 --- 
 
