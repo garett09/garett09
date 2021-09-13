@@ -190,7 +190,7 @@ Windows                  7 hrs 38 mins       ███████████�
 <!-- TECH:START -->
  - [Xiaomi could finally bring its budget 5G phone to India (Update: Launch info)](https://www.androidauthority.com/xiaomi-11-lite-5g-ne-india-3018148/)
  - [Android 12 stable release could happen on this date](https://www.androidauthority.com/android-12-stable-release-date-3020494/)
- - [Indonesia-based Rey Assurance launches its holistic approach to insurance with $1M in funding](http://feedproxy.google.com/~r/Techcrunch/~3/XAfWDIAofEc/)<!-- TECH:END -->
+ - [iPhone 13 release date: We expect to see Apple's new iPhone on Sept. 14     - CNET](https://www.cnet.com/tech/mobile/iphone-13-release-date-we-expect-to-see-apples-new-iphone-sept-14/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
