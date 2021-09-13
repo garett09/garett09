@@ -195,8 +195,8 @@ Windows                  7 hrs 38 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [And a bonk right after](http://9gag.com/gag/aGpXjLZ)
- - 🚯 [That&#039;s impressive!](http://9gag.com/gag/a5E4oME)
+ - 🚖 [That&#039;s impressive!](http://9gag.com/gag/a5E4oME)
+ - 🚯 [Mondays...-sip coffee-](http://9gag.com/gag/aMKgjDx)
  - 🚯 [You think pineapple on pizza is disgusting, try this:](http://9gag.com/gag/aGpXe70)<!-- MEMES:END -->
 
 --- 
