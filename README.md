@@ -188,9 +188,9 @@ Windows                  7 hrs 38 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Litecoin saw its price spike by ~20% after several news outlets published reports that Walmart would begin accepting Litecoin based on a fake press release (Kim Lyons/The Verge)](http://www.techmeme.com/210913/p25#a210913p25)
- - [Amazon slashes AirPods to $114, AirPods Pro $179.99 before Tuesday's Apple Event](https://appleinsider.com/articles/21/09/13/amazon-slashes-airpods-to-114-airpods-pro-17999-before-tuesdays-apple-event?utm_medium=rss)
- - [New Qualcomm chip reportedly in the works for cheaper gaming phones](https://www.androidauthority.com/qualcomm-chip-cheaper-gaming-phones-3022727/)<!-- TECH:END -->
+ - [Apple Watch 7: Release date, price and health feature rumors ahead of Apple's next event     - CNET](https://www.cnet.com/tech/mobile/apple-watch-7-release-date-price-and-health-feature-rumor-ahead-of-apples-next-event/#ftag=CAD590a51e)
+ - [SpotOn, a payments company focused on SMBs, raises $300M Series E led by a16z at a $3.15B valuation and acquires live events payments startup Appetize for $400M (Mary Ann Azevedo/TechCrunch)](http://www.techmeme.com/210913/p26#a210913p26)
+ - [Get Instant's outstanding cooking blender for $60 right now (50% off)     - CNET](https://www.cnet.com/home/kitchen-and-household/get-instants-outstanding-cooking-blender-for-60-right-now-50-off/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
