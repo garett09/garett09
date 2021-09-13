@@ -197,7 +197,7 @@ Windows                  7 hrs 38 mins       ███████████�
 <!-- MEMES:START -->
  - 🚖 [&quot;You make daddy a sandwich!!&quot;](http://9gag.com/gag/aK6RDq1)
  - 🚯 [I think the Fries are ready...](http://9gag.com/gag/a9EoApW)
- - 🚯 [Like a boss &gt;&lt;](http://9gag.com/gag/a6EPbgb)<!-- MEMES:END -->
+ - 🚯 [F**k u, Moskito](http://9gag.com/gag/aNpNzD3)<!-- MEMES:END -->
 
 --- 
 
