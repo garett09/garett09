@@ -188,9 +188,9 @@ Windows                  7 hrs 38 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Southeast Asia-focused Jungle Ventures announces $225M first close for its fourth fund](http://feedproxy.google.com/~r/Techcrunch/~3/On9AvC9giQk/)
- - [iPhone 13: The latest last-minute rumors about Apple's new iPhone     - CNET](https://www.cnet.com/tech/mobile/iphone-13-the-latest-last-minute-rumors-about-apples-new-iphone/#ftag=CAD590a51e)
- - [Shang-Chi's second box office weekend is the best since Rise of Skywalker     - CNET](https://www.cnet.com/news/shang-chis-second-box-office-weekend-is-the-best-since-rise-of-skywalker/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Emmys 2021 are this Sunday: Here's how to watch the stacked awards show     - CNET](https://www.cnet.com/news/emmys-2021-are-this-sunday-heres-how-to-watch-the-stacked-awards-show/#ftag=CAD590a51e)
+ - [A look at the state of the VC industry: from over-paying in the face of absurd valuations, to big bets on decentralized "Web 3.0" apps, cybersecurity, and more (Mark Suster/Both Sides of the Table)](http://www.techmeme.com/210912/p8#a210912p8)
+ - [Met Gala 2021: How to watch, who's hosting and everything to know     - CNET](https://www.cnet.com/news/met-gala-2021-how-to-watch-whos-hosting-and-everything-to-know/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
