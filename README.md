@@ -196,8 +196,8 @@ Windows                  7 hrs 38 mins       ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Guess who&#039;s back :D](http://9gag.com/gag/aAbjg7Z)
- - 🚯 [Old cat](http://9gag.com/gag/aLpx0Ax)
- - 🚯 [Girl: Can I pay you in kind!?](http://9gag.com/gag/azMn1mq)<!-- MEMES:END -->
+ - 🚯 [Girl: Can I pay you in kind!?](http://9gag.com/gag/azMn1mq)
+ - 🚯 [Old cat](http://9gag.com/gag/aLpx0Ax)<!-- MEMES:END -->
 
 --- 
 
