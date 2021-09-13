@@ -188,9 +188,9 @@ Windows                  7 hrs 38 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sennheiser’s latest true wireless earbuds offer noise cancellation for less](https://www.theverge.com/2021/9/13/22671228/sennheiser-cx-plus-true-wireless-earbuds-noise-cancellation-release-date-news-features)
  - [Microsoft says Windows on ARM will not support Apple M1 Macs](https://appleinsider.com/articles/21/09/13/microsoft-says-windows-on-arm-will-not-support-apple-m1-macs?utm_medium=rss)
- - [Use creative automation software to amp up your brand’s lower-funnel assets](http://feedproxy.google.com/~r/Techcrunch/~3/zxRLuwBtsqo/)
- - [OnePlus 9RT: All the rumors in one place (Sept. 13)](https://www.androidauthority.com/oneplus-9rt-2737438/)<!-- TECH:END -->
+ - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
