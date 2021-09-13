@@ -188,9 +188,9 @@ Windows                  7 hrs 38 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple thinks motorcycle engines might be your iPhone camera’s worst enemy](https://www.androidauthority.com/iphone-camera-motorcycle-vibrations-3020581/)
  - [Samsung Galaxy S22 series: All the rumors in one place (Updated: Sept. 13)](https://www.androidauthority.com/samsung-galaxy-s22-1643006/)
- - [Here’s how 120W charging will affect battery health on Xiaomi’s next flagship](https://www.androidauthority.com/xiaomi-11t-pro-120w-charging-degradation-3020512/)
- - [Oppo sets a date to unveil Color OS 12 based on Android 12](https://www.androidauthority.com/oppo-color-os-12-announcement-date-3020511/)<!-- TECH:END -->
+ - [Here’s how 120W charging will affect battery health on Xiaomi’s next flagship](https://www.androidauthority.com/xiaomi-11t-pro-120w-charging-degradation-3020512/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
