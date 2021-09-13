@@ -181,9 +181,9 @@ Windows                  7 hrs 38 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Deathloop’s brilliant time mechanics make me feel like a Bond villain](https://www.polygon.com/22671229/deathloop-release-ps5-pc-impressions-time-loop-gameplay)
- - [Deathloop’s earliest Easter egg has a 27-year history](https://www.polygon.com/22667576/deathloop-easter-egg-0451-arkane-looking-glass-studios)
- - [Another Discord music bot is biting the dust this month](https://www.pcgamer.com/another-discord-music-bot-is-biting-the-dust-this-month)<!-- GAME:END -->
+ - [Hideo Kojima Wants To Make Video Games That Change In Real Time](https://kotaku.com/hideo-kojima-wants-to-make-video-games-that-change-in-r-1847663221)
+ - [Nvidia may be pulling the RTX 2060 out of retirement to combat PC gaming's price problem](https://www.pcgamer.com/rtx-2060-revival-rumours-2021)
+ - [Deathloop’s brilliant time mechanics make me feel like a Bond villain](https://www.polygon.com/22671229/deathloop-release-ps5-pc-impressions-time-loop-gameplay)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
