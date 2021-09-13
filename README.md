@@ -195,9 +195,9 @@ Windows                  7 hrs 38 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This some bullshit!](http://9gag.com/gag/ajmpNQq)
- - 🚯 [Fastest KO in women&rsquo;s boxing history](http://9gag.com/gag/aeALbPO)
- - 🚯 [I think the Fries are ready...](http://9gag.com/gag/a9EoApW)<!-- MEMES:END -->
+ - 🚖 [A great life hack](http://9gag.com/gag/aXoBvnV)
+ - 🚯 [I think the Fries are ready...](http://9gag.com/gag/a9EoApW)
+ - 🚯 [&quot;You make daddy a sandwich!!&quot;](http://9gag.com/gag/aK6RDq1)<!-- MEMES:END -->
 
 --- 
 
