@@ -195,7 +195,7 @@ Windows                  7 hrs 38 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [&quot;You make daddy a sandwich!!&quot;](http://9gag.com/gag/aK6RDq1)
+ - 🚖 [Copium](http://9gag.com/gag/aMKgjxG)
  - 🚯 [I think the Fries are ready...](http://9gag.com/gag/a9EoApW)
  - 🚯 [F**k u, Moskito](http://9gag.com/gag/aNpNzD3)<!-- MEMES:END -->
 
