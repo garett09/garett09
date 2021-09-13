@@ -181,9 +181,9 @@ Windows                  7 hrs 38 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [NFT Game Steals Artwork, Gets Called Out, Deletes Account](https://kotaku.com/nft-game-steals-artwork-gets-called-out-deletes-accou-1847662161)
- - [Redfall leak sure makes it look like a looter-shooter](https://www.pcgamer.com/redfall-leak-sure-makes-it-look-like-a-looter-shooter)
- - [The Week In Games: Deathloop De Loop And Pull](https://kotaku.com/the-week-in-games-deathloop-de-loop-and-pull-1847662069)<!-- GAME:END -->
+ - [The cheapest way to pre-order Deathloop in Australia](https://www.pcgamer.com/the-cheapest-way-to-pre-order-deathloop-in-australia)
+ - [Five new Steam games you probably missed (September 13, 2021)](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-september-13-2021)
+ - [A fix for the weird squad 'ghosts' breaking Rainbow Six Siege has been deployed](https://www.pcgamer.com/rainbow-six-siege-squad-bug)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
