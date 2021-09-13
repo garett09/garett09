@@ -195,8 +195,8 @@ Windows                  7 hrs 38 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A great life hack](http://9gag.com/gag/aXoBvnV)
- - 🚯 [F**k u, Moskito](http://9gag.com/gag/aNpNzD3)
+ - 🚖 [Oh boy](http://9gag.com/gag/a27e4ge)
+ - 🚯 [&quot;You make daddy a sandwich!!&quot;](http://9gag.com/gag/aK6RDq1)
  - 🚯 [I think the Fries are ready...](http://9gag.com/gag/a9EoApW)<!-- MEMES:END -->
 
 --- 
