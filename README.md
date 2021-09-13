@@ -188,9 +188,9 @@ Windows                  7 hrs 38 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Scenes from a Marriage: Jessica Chastain, Oscar Isaac elevate raw, intimate remake     - CNET](https://www.cnet.com/news/scenes-from-a-marriage-review-jessica-chastain-oscar-isaac-elevate-raw-intimate-remake/#ftag=CAD590a51e)
- - [iPhone 13 release date: We expect to see Apple's new iPhone on Sept. 14     - CNET](https://www.cnet.com/tech/mobile/iphone-13-release-date-we-expect-to-see-apples-new-iphone-on-sept-14/#ftag=CAD590a51e)
- - [Scientists concerned climate change is causing animals to 'shape-shift'     - CNET](https://www.cnet.com/news/scientists-concerned-climate-change-is-causing-animals-to-shape-shift/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Southeast Asia-focused Jungle Ventures announces $225M first close for its fourth fund](http://feedproxy.google.com/~r/Techcrunch/~3/On9AvC9giQk/)
+ - [iPhone 13: The latest last-minute rumors about Apple's new iPhone     - CNET](https://www.cnet.com/tech/mobile/iphone-13-the-latest-last-minute-rumors-about-apples-new-iphone/#ftag=CAD590a51e)
+ - [Shang-Chi's second box office weekend is the best since Rise of Skywalker     - CNET](https://www.cnet.com/news/shang-chis-second-box-office-weekend-is-the-best-since-rise-of-skywalker/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
