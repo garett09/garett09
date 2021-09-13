@@ -195,9 +195,9 @@ Windows                  7 hrs 38 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It is what it is](http://9gag.com/gag/a1r9o9w)
- - 🚯 [Posting one Rumi quote every day #002](http://9gag.com/gag/aZ0eLMn)
- - 🚯 [Coulnd&#039;t agree more](http://9gag.com/gag/a9EopyW)<!-- MEMES:END -->
+ - 🚖 [Girl: Can I pay you in kind!?](http://9gag.com/gag/azMn1mq)
+ - 🚯 [Is cominig out Lol](http://9gag.com/gag/abV7Y4O)
+ - 🚯 [School, Japan](http://9gag.com/gag/av5NOmd)<!-- MEMES:END -->
 
 --- 
 
