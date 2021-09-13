@@ -188,9 +188,9 @@ Windows                  7 hrs 38 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung Galaxy S22 series: All the rumors in one place (Updated: Sept. 13)](https://www.androidauthority.com/samsung-galaxy-s22-1643006/)
  - [Here’s how 120W charging will affect battery health on Xiaomi’s next flagship](https://www.androidauthority.com/xiaomi-11t-pro-120w-charging-degradation-3020512/)
- - [Oppo sets a date to unveil Color OS 12 based on Android 12](https://www.androidauthority.com/oppo-color-os-12-announcement-date-3020511/)
- - [A look into crypto-backed loans, which holders have used to buy houses, cars, or even ramp up their investments, as federal and state securities oversight grows (Rachel Louise Ensign/Wall Street Journal)](http://www.techmeme.com/210913/p1#a210913p1)<!-- TECH:END -->
+ - [Oppo sets a date to unveil Color OS 12 based on Android 12](https://www.androidauthority.com/oppo-color-os-12-announcement-date-3020511/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
