@@ -195,8 +195,8 @@ Windows                  7 hrs 38 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Guess who&#039;s back :D](http://9gag.com/gag/aAbjg7Z)
- - 🚯 [Girl: Can I pay you in kind!?](http://9gag.com/gag/azMn1mq)
+ - 🚖 [Girl: Can I pay you in kind!?](http://9gag.com/gag/azMn1mq)
+ - 🚯 [A fountain](http://9gag.com/gag/av5NzoE)
  - 🚯 [Old cat](http://9gag.com/gag/aLpx0Ax)<!-- MEMES:END -->
 
 --- 
