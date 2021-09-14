@@ -188,9 +188,9 @@ Windows                  7 hrs 15 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Canon’s $5,999 EOS R3 focuses by tracking your eye](https://www.theverge.com/2021/9/14/22673196/canon-eos-r3-camera-price-specs-release-date-announced)
- - [Kroger says it has partnered with Instacart to deliver food and staples in as little as 30 minutes, after unsuccessfully testing quick deliveries two years ago (Jaewon Kang/Wall Street Journal)](http://www.techmeme.com/210914/p13#a210914p13)
- - [Amazon One’s palm-scanning tech makes first move into entertainment venues](https://www.theverge.com/2021/9/14/22673238/amazon-one-palm-scanning-tech-entertainment-venue-red-rock-amphitheatre)<!-- TECH:END -->
+ - [Database with data on 61M Apple HealthKit & fitbit accounts briefly exposed](https://appleinsider.com/articles/21/09/14/database-with-data-on-61m-apple-healthkit-fitbit-accounts-briefly-exposed?utm_medium=rss)
+ - [Interview with SEC chair Gary Gensler on meme-stock mania, commission-free trading apps, regulating cryptocurrencies, and whether SPACs need more oversight (Jen Wieczner/New York Magazine)](http://www.techmeme.com/210914/p15#a210914p15)
+ - [JumpCloud secures $159M funding round to secure enterprise Macs](https://appleinsider.com/articles/21/09/13/jumpcloud-secures-169m-funding-round-to-secure-enterprise-macs?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
