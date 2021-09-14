@@ -188,9 +188,9 @@ Windows                  7 hrs 15 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Live from Apple’s virtual 2021 iPhone event](http://feedproxy.google.com/~r/Techcrunch/~3/2qmqANQVVrE/)
- - [Livestream of Apple's "California Dreaming" event (Apple)](http://www.techmeme.com/210914/p32#a210914p32)
- - [Watch Apple unveil the new iPhone live right here](http://feedproxy.google.com/~r/Techcrunch/~3/XQnVanOLKEQ/)<!-- TECH:END -->
+ - [New Apple Watch Series 7 with more durability, larger screen area revealed](https://appleinsider.com/articles/21/09/14/new-apple-watch-series-7-with-more-durability-larger-screen-area-revealed?utm_medium=rss)
+ - [iPhone 13 announced with redesigned camera array and smaller notch](https://www.theverge.com/2021/9/14/22666802/iphone-13-specs-price-release-date-apple-camera)
+ - [Apple launches new 2021 iPad and iPad Mini](https://www.androidauthority.com/2021-ipads-3023973/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
