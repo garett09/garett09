@@ -181,9 +181,9 @@ Windows                  7 hrs 15 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [THQ Nordic Celebrates a Major Anniversary with a Major Xbox Store Sale](https://news.xbox.com/en-us/2021/09/14/thq-nordic-celebrates-a-major-anniversary-with-a-major-xbox-store-sale/)
- - [How long is Deathloop?](https://www.pcgamer.com/how-long-is-deathloop-length)
- - [Cyberpunk 2077 Patch Makes Its Roads Wet Again](https://kotaku.com/cyberpunk-2077-patch-makes-its-roads-wet-again-1847673046)<!-- GAME:END -->
+ - [Deathloop is one of the most incredible games I’ve ever played](https://www.polygon.com/reviews/22673773/deathloop-review-ps5-pc-steam-arkane-studios)
+ - [Splitgate’s Getting Bigger And Better, Thanks To A Cool $100M](https://kotaku.com/splitgate-s-getting-bigger-and-better-thanks-to-a-cool-1847673704)
+ - [Christopher Nolan ditches WB, his home of 20 years, to make his next movie at Universal](https://www.polygon.com/22673745/christopher-nolan-next-movie-atomic-bomb)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
