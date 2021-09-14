@@ -196,8 +196,8 @@ Windows                  7 hrs 15 mins       ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [You&#039;ll thank me later.](http://9gag.com/gag/a27e7zE)
- - 🚯 [Eu right now.](http://9gag.com/gag/aK6Rdpb)
- - 🚯 [Trying to be quiet at 2 AM](http://9gag.com/gag/ayMG9dV)<!-- MEMES:END -->
+ - 🚯 [Never underestimate how angry your employee will be](http://9gag.com/gag/anQ64Rz)
+ - 🚯 [What instrument is this ?](http://9gag.com/gag/azMnmDp)<!-- MEMES:END -->
 
 --- 
 
