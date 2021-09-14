@@ -188,9 +188,9 @@ Windows                  7 hrs 15 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple TV+ takes home 7 Creative Arts Emmy Awards](https://appleinsider.com/articles/21/09/13/apple-tv-takes-home-7-creative-arts-emmy-awards?utm_medium=rss)
- - [Biden to nominate Georgetown law professor Alvaro Bedoya, who focuses on privacy issues, to be a commissioner at the FTC (Drew Harwell/Washington Post)](http://www.techmeme.com/210913/p39#a210913p39)
- - [Epic pays Apple $6M for profits made after instituting 'Fortnite' third-party payments](https://appleinsider.com/articles/21/09/13/epic-pays-apple-6m-for-profits-made-after-instituting-fortnite-third-party-payments?utm_medium=rss)<!-- TECH:END -->
+ - [Consumers trade in more iPhones than Android smartphones, study finds](https://appleinsider.com/articles/21/09/14/consumers-trade-in-more-iphones-than-android-smartphones-study-finds?utm_medium=rss)
+ - [Twitter won’t act on Nicki Minaj tweet irresponsibly linking COVID-19 vaccine to impotency](https://www.theverge.com/2021/9/13/22672800/twitter-nicki-minaj-tweet-covid-vaccine-impotency-violate-rules)
+ - [Educational software companies Blackboard and Anthology are merging, sources say at a combined value of about $3B; terms of the deal were not disclosed (Liana Baker/Bloomberg)](http://www.techmeme.com/210913/p41#a210913p41)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
