@@ -196,8 +196,8 @@ Windows                  7 hrs 15 mins       ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Same man, same.](http://9gag.com/gag/axM5B3b)
- - 🚯 [It&#039;s best to say nohomo before watching.](http://9gag.com/gag/aGpXp2z)
- - 🚯 [Terry Crews](http://9gag.com/gag/aXoBrqb)<!-- MEMES:END -->
+ - 🚯 [Keeper](http://9gag.com/gag/a6EP1nA)
+ - 🚯 [Eh I just like poking](http://9gag.com/gag/a07BZvv)<!-- MEMES:END -->
 
 --- 
 
