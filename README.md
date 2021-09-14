@@ -181,9 +181,9 @@ Windows                  7 hrs 15 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Deathloop beginner’s guide, tips, and tricks](https://www.polygon.com/deathloop-guide-walkthrough/22643154/beginners-tips-tricks-stealth-infuse-visionary-arsenal-julianna)
  - [A new Brothers in Arms game is in development, confirms Gearbox CEO](https://www.pcgamer.com/a-new-brothers-in-arms-game-is-in-development-confirms-gearbox-ceo)
- - [Everyone Who Worked On A Game Should Be In The Credits](https://kotaku.com/everyone-who-worked-on-a-game-should-be-in-the-credits-1847669211)
- - [Nike's 'Gundam' Sneakers Look Badass](https://kotaku.com/nikes-gundam-sneakers-look-badass-1847669373)<!-- GAME:END -->
+ - [Everyone Who Worked On A Game Should Be In The Credits](https://kotaku.com/everyone-who-worked-on-a-game-should-be-in-the-credits-1847669211)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
