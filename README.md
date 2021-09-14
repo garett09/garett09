@@ -188,9 +188,9 @@ Windows                  7 hrs 15 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Logitech’s G435 is a lightweight, feature-packed wireless gaming headset](https://www.theverge.com/2021/9/14/22665355/logitech-g435-lightspeed-wireless-gaming-headset-features-price)
- - [Q&A with Brendan Schulman, former VP of policy at DJI and a leading global advocate for sensible drone regulations, as he takes up a new job at Boston Dynamics (Scott Simmie/DroneDJ)](http://www.techmeme.com/210914/p7#a210914p7)
- - [Christine Martinez files a suit against Pinterest claiming breach of implied contract, claiming she cp-created Pinterest but was never compensated (Erin Griffith/New York Times)](http://www.techmeme.com/210914/p6#a210914p6)<!-- TECH:END -->
+ - [LevaData, which develops AI powered analysis and prediction software for supply chain management, raises $47M Series C led by Banneker Partners (PYMNTS.com)](http://www.techmeme.com/210914/p8#a210914p8)
+ - [Watch Apple unveil the new iPhone live right here](http://feedproxy.google.com/~r/Techcrunch/~3/XQnVanOLKEQ/)
+ - [Logitech’s G435 is a lightweight, feature-packed wireless gaming headset](https://www.theverge.com/2021/9/14/22665355/logitech-g435-lightspeed-wireless-gaming-headset-features-price)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
