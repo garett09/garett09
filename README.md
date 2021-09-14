@@ -181,9 +181,9 @@ Windows                  7 hrs 15 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Workers Accuse Activision Blizzard Of Union Busting](https://kotaku.com/workers-accuse-activision-blizzard-of-union-busting-1847675870)
  - [Nobody Wants A Driver TV Show, Ubisoft](https://kotaku.com/nobody-wants-a-driver-tv-show-ubisoft-1847675656)
- - [Dodge undersea prehensile penises with teeth in Swallow the Sea](https://www.pcgamer.com/swallow-the-sea)
- - [I Just Read 1,025 Chapters Of One Piece, And It's A Damn Masterpiece](https://kotaku.com/i-just-read-1-025-chapters-of-one-piece-and-its-a-damn-1847671952)<!-- GAME:END -->
+ - [Dodge undersea prehensile penises with teeth in Swallow the Sea](https://www.pcgamer.com/swallow-the-sea)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
