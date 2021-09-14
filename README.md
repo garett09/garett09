@@ -188,9 +188,9 @@ Windows                  7 hrs 15 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple TV+ takes home 7 Creative Arts Emmy Awards](https://appleinsider.com/articles/21/09/13/apple-tv-takes-home-7-creative-arts-emmy-awards?utm_medium=rss)
- - [Consumers trade in more iPhones than Android smartphones, study finds](https://appleinsider.com/articles/21/09/14/consumers-trade-in-more-iphones-than-android-smartphones-study-finds?utm_medium=rss)
- - [Maryland-based cyber risk management company Tenable has agreed to acquire infrastructure-as-code tech provider Accurics for $160M in cash (Kyle Wiggers/VentureBeat)](http://www.techmeme.com/210913/p42#a210913p42)<!-- TECH:END -->
+ - [T-Mobile to sell iPhone at more than 2,300 Walmart locations, Walmart.com](https://appleinsider.com/articles/21/09/14/t-mobile-to-sell-iphone-at-more-than-2300-walmart-locations-walmartcom?utm_medium=rss)
+ - [The Netflix anime that has me utterly obsessed     - CNET](https://www.cnet.com/news/the-netflix-anime-that-has-me-utterly-obsessed/#ftag=CAD590a51e)
+ - [Apple TV+ takes home 7 Creative Arts Emmy Awards](https://appleinsider.com/articles/21/09/13/apple-tv-takes-home-7-creative-arts-emmy-awards?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
