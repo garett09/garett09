@@ -188,9 +188,9 @@ Windows                  7 hrs 38 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Epic pays Apple $6M for profits made after instituting 'Fortnite' third-party payments](https://appleinsider.com/articles/21/09/13/epic-pays-apple-6m-for-profits-made-after-instituting-fortnite-third-party-payments?utm_medium=rss)
- - [The most eye-catching looks from the 2021 Met Gala     - CNET](https://www.cnet.com/news/the-most-eye-catching-looks-from-the-2021-met-gala/#ftag=CAD590a51e)
- - [The Equity crew riffs on the Intuit-Mailchimp news](http://feedproxy.google.com/~r/Techcrunch/~3/HbhXDz_yCg4/)<!-- TECH:END -->
+ - [Apple TV+ takes home 7 Creative Arts Emmy Awards](https://appleinsider.com/articles/21/09/13/apple-tv-takes-home-7-creative-arts-emmy-awards?utm_medium=rss)
+ - [Biden to nominate Georgetown law professor Alvaro Bedoya, who focuses on privacy issues, to be a commissioner at the FTC (Drew Harwell/Washington Post)](http://www.techmeme.com/210913/p39#a210913p39)
+ - [Epic pays Apple $6M for profits made after instituting 'Fortnite' third-party payments](https://appleinsider.com/articles/21/09/13/epic-pays-apple-6m-for-profits-made-after-instituting-fortnite-third-party-payments?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
