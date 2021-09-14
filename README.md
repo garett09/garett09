@@ -195,7 +195,7 @@ Windows                  7 hrs 15 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ah, swimming lessons](http://9gag.com/gag/azMnMYK)
+ - 🚖 [And then we had remasters](http://9gag.com/gag/aRXnr4M)
  - 🚯 [Same man, same.](http://9gag.com/gag/axM5B3b)
  - 🚯 [Terry Crews](http://9gag.com/gag/aXoBrqb)<!-- MEMES:END -->
 
