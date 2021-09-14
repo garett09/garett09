@@ -188,9 +188,9 @@ Windows                  7 hrs 15 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [SpaceX launches its first batch of Starlink satellites aimed at new coverage areas from California](http://feedproxy.google.com/~r/Techcrunch/~3/zxuK92qDpNY/)
- - [Twitter turns Like icon into Apple logo for #AppleEvent posts](https://appleinsider.com/articles/21/09/14/twitter-turns-like-icon-into-apple-logo-for-appleevent-posts?utm_medium=rss)
- - [Amazon partners with ticketing company AXS to use its Amazon One palm scanner at Colorado's Red Rocks Amphitheatre, the first outside partnership for Amazon One (James Vincent/The Verge)](http://www.techmeme.com/210914/p18#a210914p18)<!-- TECH:END -->
+ - [Poll: Would you take fewer, timely updates or more updates that arrive later?](https://www.androidauthority.com/fewer-more-updates-poll-3023271/)
+ - [Ambi Robotics, which builds autonomous hardware for supply chains, raises $26M Series A led by Tiger Global (Brian Heater/TechCrunch)](http://www.techmeme.com/210914/p19#a210914p19)
+ - [The iPhone 13 may finally get features Android has had for years](https://www.theverge.com/2021/9/14/22672551/iphone-13-display-lock-screen-always-on-variable-refresh-android)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
