@@ -195,9 +195,9 @@ Windows                  7 hrs 15 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Doing parkour in crutches](http://9gag.com/gag/aV7AbOO)
- - 🚯 [Trying to be quiet at 2 AM](http://9gag.com/gag/ayMG9dV)
- - 🚯 [Phrasing](http://9gag.com/gag/awMwzwr)<!-- MEMES:END -->
+ - 🚖 [Trying to be quiet at 2 AM](http://9gag.com/gag/ayMG9dV)
+ - 🚯 [Doing parkour in crutches](http://9gag.com/gag/aV7AbOO)
+ - 🚯 [When Pron has a better choreography lightsaber duel than a multi trillion billion brazilian dollar company](http://9gag.com/gag/aV7AxVy)<!-- MEMES:END -->
 
 --- 
 
