@@ -196,7 +196,7 @@ Windows                  7 hrs 15 mins       ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Water you doing?](http://9gag.com/gag/aMKgVZR)
- - 🚯 [The ultimate betrayal](http://9gag.com/gag/aLpx196)
+ - 🚯 [Oulu Finland today 14th of September](http://9gag.com/gag/av5Nyy5)
  - 🚯 [Those car lights from the past...](http://9gag.com/gag/aEp306K)<!-- MEMES:END -->
 
 --- 
