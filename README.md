@@ -195,9 +195,9 @@ Windows                  7 hrs 15 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Russian police](http://9gag.com/gag/ad8E5yB)
- - 🚯 [The future is now old man](http://9gag.com/gag/axM5zXp)
- - 🚯 [Piece of art](http://9gag.com/gag/a8EZELp)<!-- MEMES:END -->
+ - 🚖 [A fountain](http://9gag.com/gag/av5NzoE)
+ - 🚯 [Me after changing my daughter&#039;s diaper for the first time](http://9gag.com/gag/amP35R2)
+ - 🚯 [The future is now old man](http://9gag.com/gag/axM5zXp)<!-- MEMES:END -->
 
 --- 
 
