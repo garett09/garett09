@@ -195,9 +195,9 @@ Windows                  7 hrs 15 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Me after changing my daughter&#039;s diaper for the first time](http://9gag.com/gag/amP35R2)
- - 🚯 [The future is now old man](http://9gag.com/gag/axM5zXp)
- - 🚯 [Margot Robbie photographed with no makeup.](http://9gag.com/gag/ayMGM2b)<!-- MEMES:END -->
+ - 🚖 [Ah, swimming lessons](http://9gag.com/gag/azMnMYK)
+ - 🚯 [So be it](http://9gag.com/gag/aO3w372)
+ - 🚯 [How the coat of arms in the Mexican flag is printed](http://9gag.com/gag/agBWAbw)<!-- MEMES:END -->
 
 --- 
 
