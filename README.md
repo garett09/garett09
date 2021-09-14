@@ -188,9 +188,9 @@ Windows                  7 hrs 15 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [New iPhone 13 mini announced with A15, better cameras & smaller notch](https://appleinsider.com/articles/21/09/14/new-iphone-13-mini-announced-with-a15-better-cameras-smaller-notch?utm_medium=rss)
- - [Apple Watch Series 7 announced: Apple’s smartwatch just gets better](https://www.androidauthority.com/apple-watch-series-7-launch-3020315/)
- - [Apple launches iPhone 13 with A15, smaller notch & more](https://appleinsider.com/articles/21/09/14/apple-launches-iphone-13-with-a15-smaller-notch-more?utm_medium=rss)<!-- TECH:END -->
+ - [Apple launches iPhone 13 with A15, smaller notch & more](https://appleinsider.com/articles/21/09/14/apple-launches-iphone-13-with-a15-smaller-notch-more?utm_medium=rss)
+ - [Apple releases GM candidates for iOS 15, iPadOS 15, watchOS 8, tvOS 15](https://appleinsider.com/articles/21/09/14/apple-releases-gm-candidates-for-ios-15-ipados-15-watchos-8-tvos-15?utm_medium=rss)
+ - [Apple's A15 is a 5nm SoC with two performance CPU cores and four efficiency cores, a 16-core Neural Engine capable of 15.8 trillion operations/second, and more (Apple)](http://www.techmeme.com/210914/p43#a210914p43)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
