@@ -188,9 +188,9 @@ Windows                  7 hrs 15 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sonos’ second-gen Beam soundbar supports Dolby Atmos](http://feedproxy.google.com/~r/Techcrunch/~3/VsDWcQuF2BI/)
- - [Sendoso, which helps companies send customized physical gifts to clients at scale for a monthly fee, raises $100M Series C led by SoftBank's Vision Fund 2 (Ingrid Lunden/TechCrunch)](http://www.techmeme.com/210914/p25#a210914p25)
- - [StreamNative, which offers real-time data streaming tools for analytics, raises $23.7M Series A, at a $133M post-money valuation, led by Prosperity7 Ventures (Kyle Wiggers/VentureBeat)](http://www.techmeme.com/210914/p24#a210914p24)<!-- TECH:END -->
+ - [Personal tracking tech is headed towards a precise — and dangerous — new era](https://www.androidauthority.com/tracking-devices-2746349/)
+ - [Sonos Beam Gen 2 announced with Dolby Atmos support, AirPlay 2, & more](https://appleinsider.com/articles/21/09/14/sonos-beam-gen-2-announced-with-dolby-atmos-support-airplay-2-more?utm_medium=rss)
+ - [Amazon boosts workers' average starting pay to $18 an hour     - CNET](https://www.cnet.com/tech/services-and-software/amazon-boosts-workers-average-starting-pay-to-18-an-hour/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
