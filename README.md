@@ -195,9 +195,9 @@ Windows                  7 hrs 15 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Fairytale corners of Bremen, Germany.](http://9gag.com/gag/anQ6gXo)
- - 🚯 [Terry Crews](http://9gag.com/gag/aXoBrqb)
- - 🚯 [It&#039;s best to say nohomo before watching.](http://9gag.com/gag/aGpXp2z)<!-- MEMES:END -->
+ - 🚖 [Same man, same.](http://9gag.com/gag/axM5B3b)
+ - 🚯 [It&#039;s best to say nohomo before watching.](http://9gag.com/gag/aGpXp2z)
+ - 🚯 [Terry Crews](http://9gag.com/gag/aXoBrqb)<!-- MEMES:END -->
 
 --- 
 
