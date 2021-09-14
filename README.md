@@ -195,9 +195,9 @@ Windows                  7 hrs 15 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How the coat of arms in the Mexican flag is printed](http://9gag.com/gag/agBWAbw)
- - 🚯 [Russian police](http://9gag.com/gag/ad8E5yB)
- - 🚯 [The future is now old man](http://9gag.com/gag/axM5zXp)<!-- MEMES:END -->
+ - 🚖 [Russian police](http://9gag.com/gag/ad8E5yB)
+ - 🚯 [The future is now old man](http://9gag.com/gag/axM5zXp)
+ - 🚯 [Piece of art](http://9gag.com/gag/a8EZELp)<!-- MEMES:END -->
 
 --- 
 
