@@ -181,9 +181,9 @@ Windows                  7 hrs 15 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [New Updates to Xbox App on Windows 10 PCs Let You Stream Console Games From the Cloud or Your Home Console](https://news.xbox.com/en-us/2021/09/14/new-updates-to-xbox-app-on-windows-10/)
- - [The PS5 Is Getting A Major Update](https://kotaku.com/the-ps5-is-getting-a-major-update-1847671904)
- - [Dying Light 2 Delayed To 2022](https://kotaku.com/dying-light-2-delayed-to-2022-1847671839)<!-- GAME:END -->
+ - [PS5 update adds SSD expansion and much more tomorrow](https://www.polygon.com/22673433/playstation-5-firmware-update-ssd-compatable-storage-drive)
+ - [Opus: Echo Of Starsong: The Kotaku Review](https://kotaku.com/opus-echo-of-starsong-the-kotaku-review-1847672103)
+ - [New Updates to Xbox App on Windows 10 PCs Let You Stream Console Games From the Cloud or Your Home Console](https://news.xbox.com/en-us/2021/09/14/new-updates-to-xbox-app-on-windows-10/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
