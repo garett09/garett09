@@ -195,9 +195,9 @@ Windows                  7 hrs 15 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Legend (1:06)](http://9gag.com/gag/aQoGgD7)
- - 🚯 [New iphone](http://9gag.com/gag/arMY3N6)
- - 🚯 [Say your age without saying your age](http://9gag.com/gag/aGpXLq0)<!-- MEMES:END -->
+ - 🚖 [New iphone](http://9gag.com/gag/arMY3N6)
+ - 🚯 [Say your age without saying your age](http://9gag.com/gag/aGpXLq0)
+ - 🚯 [Agreed](http://9gag.com/gag/agBWQv1)<!-- MEMES:END -->
 
 --- 
 
