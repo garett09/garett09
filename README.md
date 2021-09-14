@@ -181,9 +181,9 @@ Windows                  7 hrs 15 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Tune Up with Trove’s New Bard Class](https://news.xbox.com/en-us/2021/09/14/tune-up-with-trove-newest-class/)
- - [Nvidia deflates God of War PC and Half-Life 2 Remastered rumors, says leaked data was 'speculative'](https://www.pcgamer.com/nvidia-geforce-now-leak-database)
- - [Ren and Stimpy are joining Nickelodeon All-Star Brawl as a duo](https://www.polygon.com/22674018/ren-stimpy-nickelodeon-all-star-brawl-fighting-game-roster)<!-- GAME:END -->
+ - [Nobody Wants A Driver TV Show, Ubisoft](https://kotaku.com/nobody-wants-a-driver-tv-show-ubisoft-1847675656)
+ - [Dodge undersea prehensile penises with teeth in Swallow the Sea](https://www.pcgamer.com/swallow-the-sea)
+ - [I Just Read 1,025 Chapters Of One Piece, And It's A Damn Masterpiece](https://kotaku.com/i-just-read-1-025-chapters-of-one-piece-and-its-a-damn-1847671952)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
