@@ -181,9 +181,9 @@ Windows                  7 hrs 15 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dying Light 2 delayed to 2022](https://www.polygon.com/22673425/dying-light-2-delayed-release-date)
- - [Report: next year's Call of Duty is Modern Warfare 2](https://www.pcgamer.com/report-next-years-call-of-duty-is-modern-warfare-2)
- - [EVGA's Z15 gaming keyboard with swappable mechanical switches is down to $50](https://www.pcgamer.com/evgas-z15-gaming-keyboard-with-swappable-mechanical-switches-is-down-to-dollar50)<!-- GAME:END -->
+ - [Arkane’s favorite Deathloop loadouts: create your perfect Colt with these character builds](http://feedproxy.google.com/~r/PSBlog/~3/fht_d40Rfn0/)
+ - [Arkane’s favorite Deathloop loadouts: create your perfect Colt with these character builds](https://blog.playstation.com/2021/09/14/arkanes-favorite-deathloop-loadouts-create-your-perfect-colt-with-these-character-builds/)
+ - [Coming Soon to Xbox Game Pass: Sable, Lemnis Gate, Aragami 2, and More](https://news.xbox.com/en-us/2021/09/14/coming-soon-xbox-game-pass-september-update-2021/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
