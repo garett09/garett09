@@ -196,8 +196,8 @@ Windows                  7 hrs 15 mins       ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Those car lights from the past...](http://9gag.com/gag/aEp306K)
- - 🚯 [The new iPhone 13 is about to bring technology to the new age](http://9gag.com/gag/aoMXWx3)
- - 🚯 [Son uses the money he earned from developing his first app to surprise his parents by paying off their mortgage](http://9gag.com/gag/aK6RE93)<!-- MEMES:END -->
+ - 🚯 [Son uses the money he earned from developing his first app to surprise his parents by paying off their mortgage](http://9gag.com/gag/aK6RE93)
+ - 🚯 [Delivery bike gets boxed in by car](http://9gag.com/gag/aO3w8PR)<!-- MEMES:END -->
 
 --- 
 
