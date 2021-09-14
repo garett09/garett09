@@ -181,9 +181,9 @@ Windows                  7 hrs 15 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Arkane’s favorite Deathloop loadouts: create your perfect Colt with these character builds](http://feedproxy.google.com/~r/PSBlog/~3/fht_d40Rfn0/)
- - [Arkane’s favorite Deathloop loadouts: create your perfect Colt with these character builds](https://blog.playstation.com/2021/09/14/arkanes-favorite-deathloop-loadouts-create-your-perfect-colt-with-these-character-builds/)
- - [Coming Soon to Xbox Game Pass: Sable, Lemnis Gate, Aragami 2, and More](https://news.xbox.com/en-us/2021/09/14/coming-soon-xbox-game-pass-september-update-2021/)<!-- GAME:END -->
+ - [New Updates to Xbox App on Windows 10 PCs Let You Stream Console Games From the Cloud or Your Home Console](https://news.xbox.com/en-us/2021/09/14/new-updates-to-xbox-app-on-windows-10/)
+ - [The PS5 Is Getting A Major Update](https://kotaku.com/the-ps5-is-getting-a-major-update-1847671904)
+ - [Dying Light 2 Delayed To 2022](https://kotaku.com/dying-light-2-delayed-to-2022-1847671839)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
