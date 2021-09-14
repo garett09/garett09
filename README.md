@@ -188,9 +188,9 @@ Windows                  7 hrs 15 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple releases a whopping three new accessories for iPad and iPad mini](https://appleinsider.com/articles/21/09/14/apple-releases-a-whopping-three-new-accessories-for-ipad-and-ipad-mini?utm_medium=rss)
- - [Compared: iPhone 13 & iPhone 13 mini versus iPhone 12 & iPhone 12 mini](https://appleinsider.com/articles/21/09/14/compared-iphone-13-iphone-13-mini-versus-iphone-12-iphone-12-mini?utm_medium=rss)
- - [iPhone 13, redesigned iPad mini, and Apple Watch Series 7 event recap on the AppleInsider podcast](https://appleinsider.com/articles/21/09/14/iphone-13-redesigned-ipad-mini-and-apple-watch-series-7-event-recap-on-the-appleinsider-podcast?utm_medium=rss)<!-- TECH:END -->
+ - [Samsung takes shot at iPhone 13 Pro, says it has used 120Hz displays 'for a while'](https://appleinsider.com/articles/21/09/14/samsung-takes-shot-at-iphone-13-pro-says-it-has-used-120hz-displays-for-a-while?utm_medium=rss)
+ - [Compared: iPhone 13 Pro and iPhone 13 Pro Max vs iPhone 12 Pro and iPhone 12 Pro Max](https://appleinsider.com/articles/21/09/14/compared-iphone-13-pro-and-iphone-13-pro-max-vs-iphone-12-pro-and-iphone-12-pro-max?utm_medium=rss)
+ - [DOJ court documents: three former US intel operatives who went to work as mercenary hackers for the UAE face charges of conspiring to violate hacking laws (Catalin Cimpanu/The Record)](http://www.techmeme.com/210914/p48#a210914p48)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
