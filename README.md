@@ -181,9 +181,9 @@ Windows                  7 hrs 15 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [PS5 update adds SSD expansion and much more tomorrow](https://www.polygon.com/22673433/playstation-5-firmware-update-ssd-compatable-storage-drive)
- - [Opus: Echo Of Starsong: The Kotaku Review](https://kotaku.com/opus-echo-of-starsong-the-kotaku-review-1847672103)
- - [New Updates to Xbox App on Windows 10 PCs Let You Stream Console Games From the Cloud or Your Home Console](https://news.xbox.com/en-us/2021/09/14/new-updates-to-xbox-app-on-windows-10/)<!-- GAME:END -->
+ - [Deathloop: When and where to find each Visionary](https://www.pcgamer.com/deathloop-visionaries-slabs-guide)
+ - [Xbox Game Pass offers new indies Sable, SkateBird, and more in September](https://www.polygon.com/22673655/xbox-game-pass-september-2021-games-list-pc-cloud-android-ios)
+ - [Hell Let Loose open beta launches on PS5 this week](http://feedproxy.google.com/~r/PSBlog/~3/oQ0mKPz7tt0/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
