@@ -196,8 +196,8 @@ Windows                  7 hrs 15 mins       ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Probably the most dumb person I have ever seen](http://9gag.com/gag/aB2pZgA)
- - 🚯 [Son uses the money he earned from developing his first app to surprise his parents by paying off their mortgage](http://9gag.com/gag/aK6RE93)
- - 🚯 [No way home](http://9gag.com/gag/a5E4Qpg)<!-- MEMES:END -->
+ - 🚯 [No way home](http://9gag.com/gag/a5E4Qpg)
+ - 🚯 [The smartest man alive today refuses to be recognized. Grigori Perelman&rsquo;s intelligence is off the scale. For perspective, he solved the Poincare Conjecture, but it took 10 years for other high level mathematicians to understand and verify that his solution was indeed correct.](http://9gag.com/gag/aLpx1rV)<!-- MEMES:END -->
 
 --- 
 
