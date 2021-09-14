@@ -181,9 +181,9 @@ Windows                  7 hrs 15 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Boulder Dash Deluxe Available Now](https://news.xbox.com/en-us/2021/09/14/boulder-dash-deluxe-available-now/)
  - [Even Beefy Rigs Aren't Saving Deathloop From PC Issues](https://kotaku.com/even-beefy-rigs-arent-saving-deathloop-from-pc-issues-1847676264)
- - [Deathloop trophies and achievements guide](https://www.polygon.com/deathloop-guide-walkthrough/22673580/deathloop-trophies-and-achievements-guide)
- - [The World Seems Ready For A Nintendo Switch Price Cut](https://kotaku.com/the-world-seems-ready-for-a-nintendo-switch-price-cut-1847676245)<!-- GAME:END -->
+ - [Rocksmith Plus delayed as studio revisits core features](https://www.polygon.com/22674463/rocksmith-plus-delayed-pc-ps4-ps5-xbox-one-series-x)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
