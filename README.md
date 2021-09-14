@@ -188,9 +188,9 @@ Windows                  7 hrs 15 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Helsinki’s Maki.vc poised to close fund at €100M, key focus will be sustainability, deeptech](http://feedproxy.google.com/~r/Techcrunch/~3/-Za6uGH_YcY/)
- - [Google found guilty of restricting Android forks in South Korea, fined $177 million](https://www.theverge.com/2021/9/14/22673202/google-south-korea-android-fork-fine-anti-fragmentation-agreement-antitrust)
- - [Workers for Cornershop, an online grocer that employs all of its delivery workers, say they fear deteriorating working conditions following Uber's acquisition (Charis McGowan/Rest of World)](http://www.techmeme.com/210914/p9#a210914p9)<!-- TECH:END -->
+ - [Samsung’s latest monitor has a pop-up webcam with Windows Hello support](https://www.theverge.com/2021/9/14/22673239/samsung-webcam-monitor-s4-pop-up-speakers-microphone)
+ - [India and Singapore are working to link India's Unified Payments Interface and Singapore's PayNow by 2022, seeking to enable "instant, low-cost" transfers (Manish Singh/TechCrunch)](http://www.techmeme.com/210914/p11#a210914p11)
+ - [Chinese police are using a state-backed anti-fraud app, installed on 200M+ devices, to identify and question people who have viewed overseas financial news (Sun Yu/Financial Times)](http://www.techmeme.com/210914/p10#a210914p10)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
