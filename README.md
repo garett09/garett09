@@ -195,9 +195,9 @@ Windows                  7 hrs 15 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Oulu Finland today 14th of September](http://9gag.com/gag/av5Nyy5)
- - 🚯 [Those car lights from the past...](http://9gag.com/gag/aEp306K)
- - 🚯 [Delivery bike gets boxed in by car](http://9gag.com/gag/aO3w8PR)<!-- MEMES:END -->
+ - 🚖 [Those car lights from the past...](http://9gag.com/gag/aEp306K)
+ - 🚯 [The new iPhone 13 is about to bring technology to the new age](http://9gag.com/gag/aoMXWx3)
+ - 🚯 [Son uses the money he earned from developing his first app to surprise his parents by paying off their mortgage](http://9gag.com/gag/aK6RE93)<!-- MEMES:END -->
 
 --- 
 
