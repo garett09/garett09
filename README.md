@@ -195,9 +195,9 @@ Windows                  7 hrs 15 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [You&#039;ll thank me later.](http://9gag.com/gag/a27e7zE)
- - 🚯 [Never underestimate how angry your employee will be](http://9gag.com/gag/anQ64Rz)
- - 🚯 [What instrument is this ?](http://9gag.com/gag/azMnmDp)<!-- MEMES:END -->
+ - 🚖 [Fairytale corners of Bremen, Germany.](http://9gag.com/gag/anQ6gXo)
+ - 🚯 [Terry Crews](http://9gag.com/gag/aXoBrqb)
+ - 🚯 [It&#039;s best to say nohomo before watching.](http://9gag.com/gag/aGpXp2z)<!-- MEMES:END -->
 
 --- 
 
