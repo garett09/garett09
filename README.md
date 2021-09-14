@@ -188,9 +188,9 @@ Windows                  7 hrs 15 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple launches iPhone 13 with A15, smaller notch & more](https://appleinsider.com/articles/21/09/14/apple-launches-iphone-13-with-a15-smaller-notch-more?utm_medium=rss)
- - [Apple releases GM candidates for iOS 15, iPadOS 15, watchOS 8, tvOS 15](https://appleinsider.com/articles/21/09/14/apple-releases-gm-candidates-for-ios-15-ipados-15-watchos-8-tvos-15?utm_medium=rss)
- - [Apple's A15 is a 5nm SoC with two performance CPU cores and four efficiency cores, a 16-core Neural Engine capable of 15.8 trillion operations/second, and more (Apple)](http://www.techmeme.com/210914/p43#a210914p43)<!-- TECH:END -->
+ - [Apple refreshes AirTag accessories with new colors](https://appleinsider.com/articles/21/09/14/apple-refreshes-airtag-accessories-with-new-colors?utm_medium=rss)
+ - [Apple rolls out array of silicone and leather cases in new colors for iPhone 13](https://appleinsider.com/articles/21/09/14/apple-rolls-out-array-of-silicone-and-leather-cases-in-new-colors-for-iphone-13?utm_medium=rss)
+ - [New USB-C Apple Watch charging cable now available](https://appleinsider.com/articles/21/09/14/new-usb-c-apple-watch-charging-cable-now-available?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
