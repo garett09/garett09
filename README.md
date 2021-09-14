@@ -189,8 +189,8 @@ Windows                  7 hrs 15 mins       ███████████�
 
 <!-- TECH:START -->
  - [Apple unveils new iPad mini with updated design, 5G](https://appleinsider.com/articles/21/09/14/apple-debuts-new-ipad-mini-with-new-design-5g?utm_medium=rss)
- - [Logistics startup Stord raises $90M in Kleiner Perkins-led round, becomes a unicorn and acquires a company](http://feedproxy.google.com/~r/Techcrunch/~3/4dHH7Kkq48c/)
- - [Apple’s updated leather MagSafe wallet supports Find My location tracking](https://www.theverge.com/2021/9/14/22674261/apple-iphone-leather-wallet-magsafe-find-my-tracking)<!-- TECH:END -->
+ - [Sources: Comcast partners with TV manufacturer Hisense to sell two smart TVs under the brand XClass, using Comcast's X1 operating system (Janko Roettgers/Protocol)](http://www.techmeme.com/210914/p51#a210914p51)
+ - [How the iPhone 13, Mini, Pro and Max compare to Android rivals — and vs. iPhone 12](https://www.theverge.com/22674143/apple-iphone-13-pro-12-samsung-galaxy-pixel-android-comparison-specs)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
