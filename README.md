@@ -188,9 +188,9 @@ Windows                  7 hrs 15 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [T-Mobile to sell iPhone at more than 2,300 Walmart locations, Walmart.com](https://appleinsider.com/articles/21/09/14/t-mobile-to-sell-iphone-at-more-than-2300-walmart-locations-walmartcom?utm_medium=rss)
- - [The Netflix anime that has me utterly obsessed     - CNET](https://www.cnet.com/news/the-netflix-anime-that-has-me-utterly-obsessed/#ftag=CAD590a51e)
- - [Apple TV+ takes home 7 Creative Arts Emmy Awards](https://appleinsider.com/articles/21/09/13/apple-tv-takes-home-7-creative-arts-emmy-awards?utm_medium=rss)<!-- TECH:END -->
+ - [Apple taps more drivers to test self-driving cars in California](https://appleinsider.com/articles/21/09/14/apple-taps-more-drivers-to-test-self-driving-cars-in-california?utm_medium=rss)
+ - [South Korea fines Google $177M for abusing market dominance, says Google prevented companies like Samsung from developing or using modified versions of Android (Sohee Kim/Bloomberg)](http://www.techmeme.com/210913/p44#a210913p44)
+ - [Interview with Will Cathcart on the criticism of humans reviewing reported WhatsApp content, encrypted backups, and the broader geopolitics of e2e encryption (Casey Newton/Platformer)](http://www.techmeme.com/210913/p43#a210913p43)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
