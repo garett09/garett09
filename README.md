@@ -181,9 +181,9 @@ Windows                  7 hrs 15 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Deathloop: When and where to find each Visionary](https://www.pcgamer.com/deathloop-visionaries-slabs-guide)
- - [Xbox Game Pass offers new indies Sable, SkateBird, and more in September](https://www.polygon.com/22673655/xbox-game-pass-september-2021-games-list-pc-cloud-android-ios)
- - [Hell Let Loose open beta launches on PS5 this week](http://feedproxy.google.com/~r/PSBlog/~3/oQ0mKPz7tt0/)<!-- GAME:END -->
+ - [Inside Bonfire Peaks – the atmospheric puzzle game about burning your belongings](https://blog.playstation.com/2021/09/14/inside-bonfire-peaks-the-atmospheric-puzzle-game-about-burning-your-belongings/)
+ - [Best PC racing wheel in 2021](https://www.pcgamer.com/best-steering-wheels-for-pc)
+ - [Deep Rock Galactic digs up official mod support](https://www.pcgamer.com/deep-rock-galactic-digs-up-official-mod-support)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
