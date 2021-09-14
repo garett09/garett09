@@ -197,7 +197,7 @@ Windows                  7 hrs 15 mins       ███████████�
 <!-- MEMES:START -->
  - 🚖 [Those car lights from the past...](http://9gag.com/gag/aEp306K)
  - 🚯 [Son uses the money he earned from developing his first app to surprise his parents by paying off their mortgage](http://9gag.com/gag/aK6RE93)
- - 🚯 [Delivery bike gets boxed in by car](http://9gag.com/gag/aO3w8PR)<!-- MEMES:END -->
+ - 🚯 [No way home](http://9gag.com/gag/a5E4Qpg)<!-- MEMES:END -->
 
 --- 
 
