@@ -188,9 +188,9 @@ Windows                  7 hrs 15 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Event Special: Save $160 on this 13" MacBook Pro with M1, 512GB SSD](https://appleinsider.com/articles/21/09/14/apple-event-special-save-150-on-this-13-macbook-pro-with-m1-512gb-ssd?utm_medium=rss)
- - [Amazon slashes AirPods to $114, AirPods Pro $179.99 before the Apple Event](https://appleinsider.com/articles/21/09/13/amazon-slashes-airpods-to-114-airpods-pro-17999-before-tuesdays-apple-event?utm_medium=rss)
- - [There's a Queer Eye Lego set, and yasss of course there are Fab Five figures     - CNET](https://www.cnet.com/news/theres-a-queer-eye-lego-set-and-yasss-of-course-there-are-fab-five-figures/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple may still demand 30% app commission, regardless of payment method](https://appleinsider.com/articles/21/09/14/apple-may-still-demand-30-app-commission-regardless-of-payment-method?utm_medium=rss)
+ - [LinkedIn is launching its own $25M fund and incubator for creators](http://feedproxy.google.com/~r/Techcrunch/~3/8x_SsUSySzY/)
+ - [Pixel 6 series might bring back Active Edge (Update: Likely a false alarm)](https://www.androidauthority.com/google-pixel-6-active-edge-3023272/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
