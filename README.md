@@ -195,9 +195,9 @@ Windows                  7 hrs 15 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Keeper](http://9gag.com/gag/a6EP1nA)
- - 🚯 [The ultimate betrayal](http://9gag.com/gag/aLpx196)
- - 🚯 [Phrasing](http://9gag.com/gag/awMwzwr)<!-- MEMES:END -->
+ - 🚖 [The most dramatic snek out there](http://9gag.com/gag/anQ6zjo)
+ - 🚯 [Thats lit](http://9gag.com/gag/aRXnE2M)
+ - 🚯 [Doing parkour in crutches](http://9gag.com/gag/aV7AbOO)<!-- MEMES:END -->
 
 --- 
 
