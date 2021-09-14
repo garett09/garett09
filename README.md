@@ -188,9 +188,9 @@ Windows                  7 hrs 15 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung’s latest monitor has a pop-up webcam with Windows Hello support](https://www.theverge.com/2021/9/14/22673239/samsung-webcam-monitor-s4-pop-up-speakers-microphone)
- - [India and Singapore are working to link India's Unified Payments Interface and Singapore's PayNow by 2022, seeking to enable "instant, low-cost" transfers (Manish Singh/TechCrunch)](http://www.techmeme.com/210914/p11#a210914p11)
- - [Chinese police are using a state-backed anti-fraud app, installed on 200M+ devices, to identify and question people who have viewed overseas financial news (Sun Yu/Financial Times)](http://www.techmeme.com/210914/p10#a210914p10)<!-- TECH:END -->
+ - [Canon’s $5,999 EOS R3 focuses by tracking your eye](https://www.theverge.com/2021/9/14/22673196/canon-eos-r3-camera-price-specs-release-date-announced)
+ - [Kroger says it has partnered with Instacart to deliver food and staples in as little as 30 minutes, after unsuccessfully testing quick deliveries two years ago (Jaewon Kang/Wall Street Journal)](http://www.techmeme.com/210914/p13#a210914p13)
+ - [Amazon One’s palm-scanning tech makes first move into entertainment venues](https://www.theverge.com/2021/9/14/22673238/amazon-one-palm-scanning-tech-entertainment-venue-red-rock-amphitheatre)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
