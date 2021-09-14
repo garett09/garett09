@@ -188,9 +188,9 @@ Windows                  7 hrs 15 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple's new iPhone MagSafe wallet adds Find My support](https://appleinsider.com/articles/21/09/14/apples-new-iphone-magsafe-wallet-adds-find-my-support?utm_medium=rss)
- - [iPhone 13 and iPhone 13 Pro feature dual eSIM support](https://appleinsider.com/articles/21/09/14/iphone-13-and-iphone-13-pro-feature-dual-esim-support?utm_medium=rss)
- - [FlickType developer suing Apple again over Apple Watch keyboard](https://appleinsider.com/articles/21/09/14/flicktype-developer-suing-apple-again-over-apple-watch-keyboard?utm_medium=rss)<!-- TECH:END -->
+ - [Collaborative graphic design app Canva raises $200M led by T. Rowe Price at a $40B valuation; its founders pledge to give away 30% of Canva to charitable causes (Alex Konrad/Forbes)](http://www.techmeme.com/210914/p46#a210914p46)
+ - [Everything Apple launched today at its Sept. 2021 ‘California Streaming’ event](https://www.androidauthority.com/apple-sept-2021-iphone-event-3022931/)
+ - [Apple confirms Universal Control won't arrive at iPadOS 15 launch](https://appleinsider.com/articles/21/09/14/apple-confirms-universal-control-wont-arrive-at-ipados-15-launch?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
