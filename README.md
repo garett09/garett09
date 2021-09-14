@@ -188,9 +188,9 @@ Windows                  7 hrs 15 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [LevaData, which develops AI powered analysis and prediction software for supply chain management, raises $47M Series C led by Banneker Partners (PYMNTS.com)](http://www.techmeme.com/210914/p8#a210914p8)
- - [Watch Apple unveil the new iPhone live right here](http://feedproxy.google.com/~r/Techcrunch/~3/XQnVanOLKEQ/)
- - [Logitech’s G435 is a lightweight, feature-packed wireless gaming headset](https://www.theverge.com/2021/9/14/22665355/logitech-g435-lightspeed-wireless-gaming-headset-features-price)<!-- TECH:END -->
+ - [Google found guilty of restricting Android forks in South Korea, fined $177 million](https://www.theverge.com/2021/9/14/22673202/google-south-korea-android-fork-fine-anti-fragmentation-agreement-antitrust)
+ - [Workers for Cornershop, an online grocer that employs all of its delivery workers, say they fear deteriorating working conditions following Uber's acquisition (Charis McGowan/Rest of World)](http://www.techmeme.com/210914/p9#a210914p9)
+ - [Pixel 6 series might bring back a discontinued feature from the Pixel 4](https://www.androidauthority.com/google-pixel-6-active-edge-3023272/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
