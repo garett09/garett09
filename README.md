@@ -188,9 +188,9 @@ Windows                  7 hrs 15 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung takes shot at iPhone 13 Pro, says it has used 120Hz displays 'for a while'](https://appleinsider.com/articles/21/09/14/samsung-takes-shot-at-iphone-13-pro-says-it-has-used-120hz-displays-for-a-while?utm_medium=rss)
- - [Compared: iPhone 13 Pro and iPhone 13 Pro Max vs iPhone 12 Pro and iPhone 12 Pro Max](https://appleinsider.com/articles/21/09/14/compared-iphone-13-pro-and-iphone-13-pro-max-vs-iphone-12-pro-and-iphone-12-pro-max?utm_medium=rss)
- - [DOJ court documents: three former US intel operatives who went to work as mercenary hackers for the UAE face charges of conspiring to violate hacking laws (Catalin Cimpanu/The Record)](http://www.techmeme.com/210914/p48#a210914p48)<!-- TECH:END -->
+ - [Apple unveils new iPad mini with updated design, 5G](https://appleinsider.com/articles/21/09/14/apple-debuts-new-ipad-mini-with-new-design-5g?utm_medium=rss)
+ - [Logistics startup Stord raises $90M in Kleiner Perkins-led round, becomes a unicorn and acquires a company](http://feedproxy.google.com/~r/Techcrunch/~3/4dHH7Kkq48c/)
+ - [Apple’s updated leather MagSafe wallet supports Find My location tracking](https://www.theverge.com/2021/9/14/22674261/apple-iphone-leather-wallet-magsafe-find-my-tracking)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
