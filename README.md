@@ -181,9 +181,9 @@ Windows                  7 hrs 15 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Apex Legends tap-strafing nerf has been delayed](https://www.pcgamer.com/apex-legends-tap-strafing-nerf-has-been-delayed)
- - [Remembering the polarizing end of Y: The Last Man as the TV version begins](https://www.polygon.com/22667027/y-the-last-man-why-men-die-spoilers-comic)
- - [Pathfinder: Wrath of the Righteous review](https://www.pcgamer.com/pathfinder-wrath-of-the-righteous-review)<!-- GAME:END -->
+ - [A new Brothers in Arms game is in development, confirms Gearbox CEO](https://www.pcgamer.com/a-new-brothers-in-arms-game-is-in-development-confirms-gearbox-ceo)
+ - [Everyone Who Worked On A Game Should Be In The Credits](https://kotaku.com/everyone-who-worked-on-a-game-should-be-in-the-credits-1847669211)
+ - [Nike's 'Gundam' Sneakers Look Badass](https://kotaku.com/nikes-gundam-sneakers-look-badass-1847669373)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
