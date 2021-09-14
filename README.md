@@ -188,9 +188,9 @@ Windows                  7 hrs 15 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple TV+ takes home 7 Creative Arts Emmy Awards](https://appleinsider.com/articles/21/09/13/apple-tv-takes-home-7-creative-arts-emmy-awards?utm_medium=rss)
  - [Consumers trade in more iPhones than Android smartphones, study finds](https://appleinsider.com/articles/21/09/14/consumers-trade-in-more-iphones-than-android-smartphones-study-finds?utm_medium=rss)
- - [Maryland-based cyber risk management company Tenable has agreed to acquire infrastructure-as-code tech provider Accurics for $160M in cash (Kyle Wiggers/VentureBeat)](http://www.techmeme.com/210913/p42#a210913p42)
- - [Met Gala memes: Nicki Minaj's cousin, Kim Petras as a horse and Dan Levy's puffy shirt     - CNET](https://www.cnet.com/news/met-gala-memes-nicki-minajs-cousin-kim-petras-as-a-horse-and-dan-levys-puffy-shirt/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Maryland-based cyber risk management company Tenable has agreed to acquire infrastructure-as-code tech provider Accurics for $160M in cash (Kyle Wiggers/VentureBeat)](http://www.techmeme.com/210913/p42#a210913p42)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
