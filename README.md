@@ -181,9 +181,9 @@ Windows                  7 hrs 15 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Keisuke Honda Played Himself In Pro Evo And Wasn't Happy](https://kotaku.com/keisuke-honda-played-himself-in-pro-evo-and-wasnt-happy-1847670873)
- - [The best Warzone loadouts and class setups](https://www.pcgamer.com/best-warzone-loadout)
- - [The best settings for Deathloop](https://www.pcgamer.com/deathloop-best-settings-guide-performance-benchmarks)<!-- GAME:END -->
+ - [Minecraft modder somehow stuffs Super Mario 64 into it](https://www.pcgamer.com/minecraft-modder-somehow-stuffs-super-mario-64-into-it)
+ - [Best AMD motherboards in 2021](https://www.pcgamer.com/best-AMD-motherboards)
+ - [How Terry Cavanagh bet it all on the simple joy of platforming](https://www.pcgamer.com/how-terry-cavanagh-bet-it-all-on-the-simple-joy-of-platforming)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
