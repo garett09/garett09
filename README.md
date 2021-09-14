@@ -181,9 +181,9 @@ Windows                  7 hrs 15 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Nintendo GameCube Is Now Twenty Years Old](https://kotaku.com/the-nintendo-gamecube-is-now-twenty-years-old-1847670755)
- - [F1 2021 just got the Portuguese 'Portimão' track as a free update](https://www.pcgamer.com/f1-2021-just-got-the-portuguese-portimao-track-as-a-free-update)
- - [Deathloop beginner’s guide, tips, and tricks](https://www.polygon.com/deathloop-guide-walkthrough/22643154/beginners-tips-tricks-stealth-infuse-visionary-arsenal-julianna)<!-- GAME:END -->
+ - [Keisuke Honda Played Himself In Pro Evo And Wasn't Happy](https://kotaku.com/keisuke-honda-played-himself-in-pro-evo-and-wasnt-happy-1847670873)
+ - [The best Warzone loadouts and class setups](https://www.pcgamer.com/best-warzone-loadout)
+ - [The best settings for Deathloop](https://www.pcgamer.com/deathloop-best-settings-guide-performance-benchmarks)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
