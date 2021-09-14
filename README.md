@@ -181,9 +181,9 @@ Windows                  7 hrs 15 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Best AMD motherboards in 2021](https://www.pcgamer.com/best-AMD-motherboards)
- - [How Terry Cavanagh bet it all on the simple joy of platforming](https://www.pcgamer.com/how-terry-cavanagh-bet-it-all-on-the-simple-joy-of-platforming)
- - [Keisuke Honda Played Himself In Pro Evo And Wasn't Happy](https://kotaku.com/keisuke-honda-played-himself-in-pro-evo-and-wasnt-happy-1847670873)<!-- GAME:END -->
+ - [PS5’s September System Software Update launches globally tomorrow](http://feedproxy.google.com/~r/PSBlog/~3/7HCrA7G-nqA/)
+ - [PS5’s September System Software Update launches globally tomorrow](https://blog.playstation.com/2021/09/14/ps5s-september-system-software-update-launches-globally-tomorrow/)
+ - [Eastward is equal parts Zelda, EarthBound, and itself](https://www.polygon.com/reviews/22672042/eastward-review-pixpil-chucklefish)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
