@@ -188,9 +188,9 @@ Windows                  7 hrs 15 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Database with data on 61M Apple HealthKit & fitbit accounts briefly exposed](https://appleinsider.com/articles/21/09/14/database-with-data-on-61m-apple-healthkit-fitbit-accounts-briefly-exposed?utm_medium=rss)
- - [Interview with SEC chair Gary Gensler on meme-stock mania, commission-free trading apps, regulating cryptocurrencies, and whether SPACs need more oversight (Jen Wieczner/New York Magazine)](http://www.techmeme.com/210914/p15#a210914p15)
- - [JumpCloud secures $159M funding round to secure enterprise Macs](https://appleinsider.com/articles/21/09/13/jumpcloud-secures-169m-funding-round-to-secure-enterprise-macs?utm_medium=rss)<!-- TECH:END -->
+ - [A Stanford Proposal Over AI's 'Foundations' Ignites Debate](https://www.wired.com/story/stanford-proposal-ai-foundations-ignites-debate)
+ - [Watch Apple’s iPhone 13 Launch Event Right Here](https://www.wired.com/story/apple-iphone-13-event-how-to-watch-what-to-expect)
+ - [Apple's Home Button patent lawsuit appeal has mixed results](https://appleinsider.com/articles/21/09/14/apples-home-button-patent-lawsuit-appeal-has-mixed-results?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
