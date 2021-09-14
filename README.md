@@ -188,9 +188,9 @@ Windows                  7 hrs 15 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple taps more drivers to test self-driving cars in California](https://appleinsider.com/articles/21/09/14/apple-taps-more-drivers-to-test-self-driving-cars-in-california?utm_medium=rss)
- - [South Korea fines Google $177M for abusing market dominance, says Google prevented companies like Samsung from developing or using modified versions of Android (Sohee Kim/Bloomberg)](http://www.techmeme.com/210913/p44#a210913p44)
- - [Interview with Will Cathcart on the criticism of humans reviewing reported WhatsApp content, encrypted backups, and the broader geopolitics of e2e encryption (Casey Newton/Platformer)](http://www.techmeme.com/210913/p43#a210913p43)<!-- TECH:END -->
+ - [Samsung opens up One UI 4 beta, lists eligible countries and features.](https://www.androidauthority.com/samsungs-one-ui-4-beta-features-availability-3023203/)
+ - [Google fined $177M by South Korea for abusing smartphone dominance](https://appleinsider.com/articles/21/09/14/google-fined-177m-by-south-korea-for-abusing-smartphone-dominance?utm_medium=rss)
+ - [Report: China and Russia are stepping up efforts to control or influence undersea internet cable routes, raising concerns of backdoors and traffic interception (Dina Temple-Raston/The Record)](http://www.techmeme.com/210914/p2#a210914p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
