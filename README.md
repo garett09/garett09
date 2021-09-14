@@ -188,9 +188,9 @@ Windows                  7 hrs 15 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Poll: Would you take fewer, timely updates or more updates that arrive later?](https://www.androidauthority.com/fewer-more-updates-poll-3023271/)
- - [Ambi Robotics, which builds autonomous hardware for supply chains, raises $26M Series A led by Tiger Global (Brian Heater/TechCrunch)](http://www.techmeme.com/210914/p19#a210914p19)
- - [The iPhone 13 may finally get features Android has had for years](https://www.theverge.com/2021/9/14/22672551/iphone-13-display-lock-screen-always-on-variable-refresh-android)<!-- TECH:END -->
+ - [Locus Robotics just raised another $50M](http://feedproxy.google.com/~r/Techcrunch/~3/bm0apxGcy-g/)
+ - [iPhone 13 launch: How to watch Apple’s event live](https://www.androidauthority.com/iphone-13-launch-3023345/)
+ - [Indonesian fintech Xendit is now a unicorn, with $150M in fresh funding led by Tiger Global](http://feedproxy.google.com/~r/Techcrunch/~3/2p1_1ZkiJ0A/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
