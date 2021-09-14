@@ -195,9 +195,9 @@ Windows                  7 hrs 15 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [And then we had remasters](http://9gag.com/gag/aRXnr4M)
- - 🚯 [If the rocket was transparent....](http://9gag.com/gag/apNONOb)
- - 🚯 [Trying to be quiet at 2 AM](http://9gag.com/gag/ayMG9dV)<!-- MEMES:END -->
+ - 🚖 [Doing parkour in crutches](http://9gag.com/gag/aV7AbOO)
+ - 🚯 [Trying to be quiet at 2 AM](http://9gag.com/gag/ayMG9dV)
+ - 🚯 [Phrasing](http://9gag.com/gag/awMwzwr)<!-- MEMES:END -->
 
 --- 
 
