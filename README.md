@@ -195,9 +195,9 @@ Windows                  7 hrs 15 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Exactly](http://9gag.com/gag/aMKgVex)
- - 🚯 [Anti climate protestors blocking busy junc of M25 mototoway in U.K. gets &lsquo;removed&rsquo; by angry driver](http://9gag.com/gag/a9Eo1XZ)
- - 🚯 [Simple creatures](http://9gag.com/gag/aoMXKdn)<!-- MEMES:END -->
+ - 🚖 [Water you doing?](http://9gag.com/gag/aMKgVZR)
+ - 🚯 [The ultimate betrayal](http://9gag.com/gag/aLpx196)
+ - 🚯 [Those car lights from the past...](http://9gag.com/gag/aEp306K)<!-- MEMES:END -->
 
 --- 
 
