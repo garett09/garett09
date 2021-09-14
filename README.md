@@ -181,9 +181,9 @@ Windows                  7 hrs 15 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Boulder Dash Deluxe Available Now](https://news.xbox.com/en-us/2021/09/14/boulder-dash-deluxe-available-now/)
- - [Even Beefy Rigs Aren't Saving Deathloop From PC Issues](https://kotaku.com/even-beefy-rigs-arent-saving-deathloop-from-pc-issues-1847676264)
- - [Rocksmith Plus delayed as studio revisits core features](https://www.polygon.com/22674463/rocksmith-plus-delayed-pc-ps4-ps5-xbox-one-series-x)<!-- GAME:END -->
+ - [6 horror movies that share the unhinged DNA of James Wan’s Malignant](https://www.polygon.com/22674065/horror-movies-like-malignant)
+ - [The cheapest way to pre-order Dying Light 2 in Australia](https://www.pcgamer.com/the-cheapest-way-to-pre-order-dying-light-2-in-australia)
+ - [Activision Blizzard hires former Disney exec as new HR boss, promises 'commitment to an inclusive workplace'](https://www.pcgamer.com/activision-blizzard-hires-former-disney-exec-as-new-hr-boss-promises-commitment-to-an-inclusive-workplace)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
