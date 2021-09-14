@@ -195,9 +195,9 @@ Windows                  7 hrs 15 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [So be it](http://9gag.com/gag/aO3w372)
- - 🚯 [It&#039;s best to say nohomo before watching.](http://9gag.com/gag/aGpXp2z)
- - 🚯 [Piece of art](http://9gag.com/gag/a8EZELp)<!-- MEMES:END -->
+ - 🚖 [Trying to be quiet at 2 AM](http://9gag.com/gag/ayMG9dV)
+ - 🚯 [You&#039;ll thank me later.](http://9gag.com/gag/a27e7zE)
+ - 🚯 [Eu right now.](http://9gag.com/gag/aK6Rdpb)<!-- MEMES:END -->
 
 --- 
 
