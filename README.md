@@ -195,9 +195,9 @@ Windows                  7 hrs 15 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A drunken security guard met the Russian governor at a construction site](http://9gag.com/gag/aqj0ePP)
- - 🚯 [Exactly](http://9gag.com/gag/aMKgVex)
- - 🚯 [Anti climate protestors blocking busy junc of M25 mototoway in U.K. gets &lsquo;removed&rsquo; by angry driver](http://9gag.com/gag/a9Eo1XZ)<!-- MEMES:END -->
+ - 🚖 [Exactly](http://9gag.com/gag/aMKgVex)
+ - 🚯 [Anti climate protestors blocking busy junc of M25 mototoway in U.K. gets &lsquo;removed&rsquo; by angry driver](http://9gag.com/gag/a9Eo1XZ)
+ - 🚯 [Simple creatures](http://9gag.com/gag/aoMXKdn)<!-- MEMES:END -->
 
 --- 
 
