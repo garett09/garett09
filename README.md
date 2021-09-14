@@ -181,9 +181,9 @@ Windows                  7 hrs 15 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [6 horror movies that share the unhinged DNA of James Wan’s Malignant](https://www.polygon.com/22674065/horror-movies-like-malignant)
- - [The cheapest way to pre-order Dying Light 2 in Australia](https://www.pcgamer.com/the-cheapest-way-to-pre-order-dying-light-2-in-australia)
- - [Activision Blizzard hires former Disney exec as new HR boss, promises 'commitment to an inclusive workplace'](https://www.pcgamer.com/activision-blizzard-hires-former-disney-exec-as-new-hr-boss-promises-commitment-to-an-inclusive-workplace)<!-- GAME:END -->
+ - [Warhammer 40,000 YouTuber 3D prints Dawn of War buildings for tabletop games](https://www.pcgamer.com/warhammer-dawn-of-war-terrain-3d-model)
+ - [Xbox Returns to Tokyo Game Show 2021](https://news.xbox.com/en-us/2021/09/14/xbox-returns-to-tokyo-game-show-2021/)
+ - [6 horror movies that share the unhinged DNA of James Wan’s Malignant](https://www.polygon.com/22674065/horror-movies-like-malignant)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
