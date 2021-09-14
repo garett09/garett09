@@ -189,8 +189,8 @@ Windows                  7 hrs 15 mins       ███████████�
 
 <!-- TECH:START -->
  - [Consumers trade in more iPhones than Android smartphones, study finds](https://appleinsider.com/articles/21/09/14/consumers-trade-in-more-iphones-than-android-smartphones-study-finds?utm_medium=rss)
- - [Twitter won’t act on Nicki Minaj tweet irresponsibly linking COVID-19 vaccine to impotency](https://www.theverge.com/2021/9/13/22672800/twitter-nicki-minaj-tweet-covid-vaccine-impotency-violate-rules)
- - [Educational software companies Blackboard and Anthology are merging, sources say at a combined value of about $3B; terms of the deal were not disclosed (Liana Baker/Bloomberg)](http://www.techmeme.com/210913/p41#a210913p41)<!-- TECH:END -->
+ - [Maryland-based cyber risk management company Tenable has agreed to acquire infrastructure-as-code tech provider Accurics for $160M in cash (Kyle Wiggers/VentureBeat)](http://www.techmeme.com/210913/p42#a210913p42)
+ - [Met Gala memes: Nicki Minaj's cousin, Kim Petras as a horse and Dan Levy's puffy shirt     - CNET](https://www.cnet.com/news/met-gala-memes-nicki-minajs-cousin-kim-petras-as-a-horse-and-dan-levys-puffy-shirt/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
