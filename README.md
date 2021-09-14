@@ -181,9 +181,9 @@ Windows                  7 hrs 15 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [F1 2021 just got the Portuguese 'Portimão' track as a free update](https://www.pcgamer.com/f1-2021-just-got-the-portuguese-portimao-track-as-a-free-update)
  - [Deathloop beginner’s guide, tips, and tricks](https://www.polygon.com/deathloop-guide-walkthrough/22643154/beginners-tips-tricks-stealth-infuse-visionary-arsenal-julianna)
- - [A new Brothers in Arms game is in development, confirms Gearbox CEO](https://www.pcgamer.com/a-new-brothers-in-arms-game-is-in-development-confirms-gearbox-ceo)
- - [Everyone Who Worked On A Game Should Be In The Credits](https://kotaku.com/everyone-who-worked-on-a-game-should-be-in-the-credits-1847669211)<!-- GAME:END -->
+ - [A new Brothers in Arms game is in development, confirms Gearbox CEO](https://www.pcgamer.com/a-new-brothers-in-arms-game-is-in-development-confirms-gearbox-ceo)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
