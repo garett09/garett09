@@ -188,9 +188,9 @@ Windows                  7 hrs 15 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Chinese tech giant Baidu begins publicly testing Apollo Go robotaxis in Shanghai](http://feedproxy.google.com/~r/Techcrunch/~3/LX9aq3t_mIs/)
  - [Samsung opens up One UI 4 beta, lists eligible countries and features.](https://www.androidauthority.com/samsungs-one-ui-4-beta-features-availability-3023203/)
- - [Google fined $177M by South Korea for abusing smartphone dominance](https://appleinsider.com/articles/21/09/14/google-fined-177m-by-south-korea-for-abusing-smartphone-dominance?utm_medium=rss)
- - [Report: China and Russia are stepping up efforts to control or influence undersea internet cable routes, raising concerns of backdoors and traffic interception (Dina Temple-Raston/The Record)](http://www.techmeme.com/210914/p2#a210914p2)<!-- TECH:END -->
+ - [Google fined $177M by South Korea for abusing smartphone dominance](https://appleinsider.com/articles/21/09/14/google-fined-177m-by-south-korea-for-abusing-smartphone-dominance?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
