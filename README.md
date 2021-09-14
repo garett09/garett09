@@ -188,9 +188,9 @@ Windows                  7 hrs 15 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple may still demand 30% app commission, regardless of payment method](https://appleinsider.com/articles/21/09/14/apple-may-still-demand-30-app-commission-regardless-of-payment-method?utm_medium=rss)
- - [LinkedIn is launching its own $25M fund and incubator for creators](http://feedproxy.google.com/~r/Techcrunch/~3/8x_SsUSySzY/)
- - [Pixel 6 series might bring back Active Edge (Update: Likely a false alarm)](https://www.androidauthority.com/google-pixel-6-active-edge-3023272/)<!-- TECH:END -->
+ - [iPhone 12 sales did not slow down in ramp-up to iPhone 13 launch](https://appleinsider.com/articles/21/09/14/iphone-12-sales-did-not-slow-down-in-ramp-up-to-iphone-13-launch?utm_medium=rss)
+ - [Last-minute iPhone 13 analyst predictions include ProMotion, 1TB option](https://appleinsider.com/articles/21/09/14/last-minute-iphone-13-analyst-predictions-include-promotion-1tb-option?utm_medium=rss)
+ - [Razer’s Wolverine V2 Chroma is an elegant, customizable wired controller](https://www.theverge.com/2021/9/14/22666452/razer-wolverine-v2-chroma-xbox-pc-wired-controller-price-features)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
