@@ -188,9 +188,9 @@ Windows                  7 hrs 15 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Helsinki’s Maki.vc poised to close fund at €100M, key focus will be sustainability, deeptech](http://feedproxy.google.com/~r/Techcrunch/~3/-Za6uGH_YcY/)
  - [Google found guilty of restricting Android forks in South Korea, fined $177 million](https://www.theverge.com/2021/9/14/22673202/google-south-korea-android-fork-fine-anti-fragmentation-agreement-antitrust)
- - [Workers for Cornershop, an online grocer that employs all of its delivery workers, say they fear deteriorating working conditions following Uber's acquisition (Charis McGowan/Rest of World)](http://www.techmeme.com/210914/p9#a210914p9)
- - [Pixel 6 series might bring back a discontinued feature from the Pixel 4](https://www.androidauthority.com/google-pixel-6-active-edge-3023272/)<!-- TECH:END -->
+ - [Workers for Cornershop, an online grocer that employs all of its delivery workers, say they fear deteriorating working conditions following Uber's acquisition (Charis McGowan/Rest of World)](http://www.techmeme.com/210914/p9#a210914p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
