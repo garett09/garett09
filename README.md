@@ -188,9 +188,9 @@ Windows                  7 hrs 15 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The investigation into Tesla Autopilot’s emergency vehicle problem is getting bigger](https://www.theverge.com/2021/9/14/22673497/tesla-nhtsa-autopilot-investigation-data-ford-gm-vw-toyota)
- - [Best Deals Sept. 14 - $150 off iPad Pro Magic Keyboard, $49 Roku Ultra LT 4K, and more!](https://appleinsider.com/articles/21/09/14/best-deals-sept-14---150-off-ipad-pro-magic-keyboard-49-roku-ultra-lt-4k-and-more?utm_medium=rss)
- - [iPad mini 6 accessory listing hints at October release](https://appleinsider.com/articles/21/09/14/ipad-mini-6-accessory-listing-hints-at-october-release?utm_medium=rss)<!-- TECH:END -->
+ - [Apple Event Special: Save $160 on this 13" MacBook Pro with M1, 512GB SSD](https://appleinsider.com/articles/21/09/14/apple-event-special-save-150-on-this-13-macbook-pro-with-m1-512gb-ssd?utm_medium=rss)
+ - [Amazon slashes AirPods to $114, AirPods Pro $179.99 before the Apple Event](https://appleinsider.com/articles/21/09/13/amazon-slashes-airpods-to-114-airpods-pro-17999-before-tuesdays-apple-event?utm_medium=rss)
+ - [There's a Queer Eye Lego set, and yasss of course there are Fab Five figures     - CNET](https://www.cnet.com/news/theres-a-queer-eye-lego-set-and-yasss-of-course-there-are-fab-five-figures/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
