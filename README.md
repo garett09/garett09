@@ -195,9 +195,9 @@ Windows                  7 hrs 15 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Girl: Can I pay you in kind!?](http://9gag.com/gag/azMn1mq)
- - 🚯 [A fountain](http://9gag.com/gag/av5NzoE)
- - 🚯 [Old cat](http://9gag.com/gag/aLpx0Ax)<!-- MEMES:END -->
+ - 🚖 [Thanks Veritasium!](http://9gag.com/gag/awMwooR)
+ - 🚯 [Me after changing my daughter&#039;s diaper for the first time](http://9gag.com/gag/amP35R2)
+ - 🚯 [Russian police](http://9gag.com/gag/ad8E5yB)<!-- MEMES:END -->
 
 --- 
 
