@@ -195,9 +195,9 @@ Windows                  7 hrs 15 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Water you doing?](http://9gag.com/gag/aMKgVZR)
- - 🚯 [Oulu Finland today 14th of September](http://9gag.com/gag/av5Nyy5)
- - 🚯 [Those car lights from the past...](http://9gag.com/gag/aEp306K)<!-- MEMES:END -->
+ - 🚖 [Oulu Finland today 14th of September](http://9gag.com/gag/av5Nyy5)
+ - 🚯 [Those car lights from the past...](http://9gag.com/gag/aEp306K)
+ - 🚯 [Delivery bike gets boxed in by car](http://9gag.com/gag/aO3w8PR)<!-- MEMES:END -->
 
 --- 
 
