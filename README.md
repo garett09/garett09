@@ -181,9 +181,9 @@ Windows                  7 hrs 15 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The Nintendo GameCube Is Now Twenty Years Old](https://kotaku.com/the-nintendo-gamecube-is-now-twenty-years-old-1847670755)
  - [F1 2021 just got the Portuguese 'Portimão' track as a free update](https://www.pcgamer.com/f1-2021-just-got-the-portuguese-portimao-track-as-a-free-update)
- - [Deathloop beginner’s guide, tips, and tricks](https://www.polygon.com/deathloop-guide-walkthrough/22643154/beginners-tips-tricks-stealth-infuse-visionary-arsenal-julianna)
- - [A new Brothers in Arms game is in development, confirms Gearbox CEO](https://www.pcgamer.com/a-new-brothers-in-arms-game-is-in-development-confirms-gearbox-ceo)<!-- GAME:END -->
+ - [Deathloop beginner’s guide, tips, and tricks](https://www.polygon.com/deathloop-guide-walkthrough/22643154/beginners-tips-tricks-stealth-infuse-visionary-arsenal-julianna)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
