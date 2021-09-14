@@ -181,9 +181,9 @@ Windows                  7 hrs 15 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Workers Accuse Activision Blizzard Of Union Busting](https://kotaku.com/workers-accuse-activision-blizzard-of-union-busting-1847675870)
- - [Nobody Wants A Driver TV Show, Ubisoft](https://kotaku.com/nobody-wants-a-driver-tv-show-ubisoft-1847675656)
- - [Dodge undersea prehensile penises with teeth in Swallow the Sea](https://www.pcgamer.com/swallow-the-sea)<!-- GAME:END -->
+ - [Even Beefy Rigs Aren't Saving Deathloop From PC Issues](https://kotaku.com/even-beefy-rigs-arent-saving-deathloop-from-pc-issues-1847676264)
+ - [Deathloop trophies and achievements guide](https://www.polygon.com/deathloop-guide-walkthrough/22673580/deathloop-trophies-and-achievements-guide)
+ - [The World Seems Ready For A Nintendo Switch Price Cut](https://kotaku.com/the-world-seems-ready-for-a-nintendo-switch-price-cut-1847676245)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
