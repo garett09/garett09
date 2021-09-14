@@ -195,9 +195,9 @@ Windows                  7 hrs 15 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Thanks Veritasium!](http://9gag.com/gag/awMwooR)
- - 🚯 [Me after changing my daughter&#039;s diaper for the first time](http://9gag.com/gag/amP35R2)
- - 🚯 [Russian police](http://9gag.com/gag/ad8E5yB)<!-- MEMES:END -->
+ - 🚖 [How the coat of arms in the Mexican flag is printed](http://9gag.com/gag/agBWAbw)
+ - 🚯 [Russian police](http://9gag.com/gag/ad8E5yB)
+ - 🚯 [The future is now old man](http://9gag.com/gag/axM5zXp)<!-- MEMES:END -->
 
 --- 
 
