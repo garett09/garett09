@@ -188,9 +188,9 @@ Windows                  7 hrs 15 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Collaborative graphic design app Canva raises $200M led by T. Rowe Price at a $40B valuation; its founders pledge to give away 30% of Canva to charitable causes (Alex Konrad/Forbes)](http://www.techmeme.com/210914/p46#a210914p46)
- - [Everything Apple launched today at its Sept. 2021 ‘California Streaming’ event](https://www.androidauthority.com/apple-sept-2021-iphone-event-3022931/)
- - [Apple confirms Universal Control won't arrive at iPadOS 15 launch](https://appleinsider.com/articles/21/09/14/apple-confirms-universal-control-wont-arrive-at-ipados-15-launch?utm_medium=rss)<!-- TECH:END -->
+ - [Apple releases a whopping three new accessories for iPad and iPad mini](https://appleinsider.com/articles/21/09/14/apple-releases-a-whopping-three-new-accessories-for-ipad-and-ipad-mini?utm_medium=rss)
+ - [Compared: iPhone 13 & iPhone 13 mini versus iPhone 12 & iPhone 12 mini](https://appleinsider.com/articles/21/09/14/compared-iphone-13-iphone-13-mini-versus-iphone-12-iphone-12-mini?utm_medium=rss)
+ - [iPhone 13, redesigned iPad mini, and Apple Watch Series 7 event recap on the AppleInsider podcast](https://appleinsider.com/articles/21/09/14/iphone-13-redesigned-ipad-mini-and-apple-watch-series-7-event-recap-on-the-appleinsider-podcast?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
