@@ -195,9 +195,9 @@ Windows                  7 hrs 15 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Same man, same.](http://9gag.com/gag/axM5B3b)
- - 🚯 [Keeper](http://9gag.com/gag/a6EP1nA)
- - 🚯 [Eh I just like poking](http://9gag.com/gag/a07BZvv)<!-- MEMES:END -->
+ - 🚖 [Ah, swimming lessons](http://9gag.com/gag/azMnMYK)
+ - 🚯 [Same man, same.](http://9gag.com/gag/axM5B3b)
+ - 🚯 [Terry Crews](http://9gag.com/gag/aXoBrqb)<!-- MEMES:END -->
 
 --- 
 
