@@ -195,9 +195,9 @@ Windows                  7 hrs 15 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It&#039;s best to say nohomo before watching.](http://9gag.com/gag/aGpXp2z)
+ - 🚖 [How the coat of arms in the Mexican flag is printed](http://9gag.com/gag/agBWAbw)
  - 🚯 [So be it](http://9gag.com/gag/aO3w372)
- - 🚯 [Ah, swimming lessons](http://9gag.com/gag/azMnMYK)<!-- MEMES:END -->
+ - 🚯 [Gustavo Almadovar](http://9gag.com/gag/a6EPKq9)<!-- MEMES:END -->
 
 --- 
 
