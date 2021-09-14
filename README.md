@@ -188,9 +188,9 @@ Windows                  7 hrs 15 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple unveils new iPad mini with updated design, 5G](https://appleinsider.com/articles/21/09/14/apple-debuts-new-ipad-mini-with-new-design-5g?utm_medium=rss)
- - [Sources: Comcast partners with TV manufacturer Hisense to sell two smart TVs under the brand XClass, using Comcast's X1 operating system (Janko Roettgers/Protocol)](http://www.techmeme.com/210914/p51#a210914p51)
- - [How the iPhone 13, Mini, Pro and Max compare to Android rivals — and vs. iPhone 12](https://www.theverge.com/22674143/apple-iphone-13-pro-12-samsung-galaxy-pixel-android-comparison-specs)<!-- TECH:END -->
+ - [Rivian’s first-production R1T electric pickup truck rolls off the line](http://feedproxy.google.com/~r/Techcrunch/~3/Kl9c9Ru4UR8/)
+ - [Compared: iPhone 13 Pro and iPhone 13 Pro Max vs iPhone 12 Pro and iPhone 12 Pro Max](https://appleinsider.com/articles/21/09/14/compared-iphone-13-pro-and-iphone-13-pro-max-vs-iphone-12-pro-and-iphone-12-pro-max?utm_medium=rss)
+ - [Apple unveils new iPad mini with updated design, 5G](https://appleinsider.com/articles/21/09/14/apple-debuts-new-ipad-mini-with-new-design-5g?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
