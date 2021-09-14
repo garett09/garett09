@@ -188,9 +188,9 @@ Windows                  7 hrs 15 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple refreshes AirTag accessories with new colors](https://appleinsider.com/articles/21/09/14/apple-refreshes-airtag-accessories-with-new-colors?utm_medium=rss)
- - [Apple rolls out array of silicone and leather cases in new colors for iPhone 13](https://appleinsider.com/articles/21/09/14/apple-rolls-out-array-of-silicone-and-leather-cases-in-new-colors-for-iphone-13?utm_medium=rss)
- - [New USB-C Apple Watch charging cable now available](https://appleinsider.com/articles/21/09/14/new-usb-c-apple-watch-charging-cable-now-available?utm_medium=rss)<!-- TECH:END -->
+ - [Apple brings ProRes video to iPhone 13 Pro & iPhone 13 Pro Max](https://appleinsider.com/articles/21/09/14/apple-brings-prores-video-to-iphone-13-pro-iphone-13-pro-max?utm_medium=rss)
+ - [Apple brings macro, low light and cinema-focused updates to the iPhone 13 Pro camera](http://feedproxy.google.com/~r/Techcrunch/~3/2KfZOuaw76s/)
+ - [The iPhone 13 Wants to Shoot Your Next Feature Film](https://www.wired.com/story/apple-iphone-13-price-specs-release-date)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
