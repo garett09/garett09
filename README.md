@@ -195,7 +195,7 @@ Windows                  7 hrs 15 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The most dramatic snek out there](http://9gag.com/gag/anQ6zjo)
+ - 🚖 [The girl was a worthless skank who absolutely did not deserve Forest](http://9gag.com/gag/av5NAGd)
  - 🚯 [Thats lit](http://9gag.com/gag/aRXnE2M)
  - 🚯 [Doing parkour in crutches](http://9gag.com/gag/aV7AbOO)<!-- MEMES:END -->
 
