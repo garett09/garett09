@@ -195,8 +195,8 @@ Windows                  7 hrs 15 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The girl was a worthless skank who absolutely did not deserve Forest](http://9gag.com/gag/av5NAGd)
- - 🚯 [Thats lit](http://9gag.com/gag/aRXnE2M)
+ - 🚖 [What cartoon is this?](http://9gag.com/gag/aMKg4XR)
+ - 🚯 [Simple creatures](http://9gag.com/gag/aoMXKdn)
  - 🚯 [Doing parkour in crutches](http://9gag.com/gag/aV7AbOO)<!-- MEMES:END -->
 
 --- 
