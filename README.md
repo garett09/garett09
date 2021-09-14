@@ -188,9 +188,9 @@ Windows                  7 hrs 15 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [New Apple Watch Series 7 with more durability, larger screen area revealed](https://appleinsider.com/articles/21/09/14/new-apple-watch-series-7-with-more-durability-larger-screen-area-revealed?utm_medium=rss)
- - [iPhone 13 announced with redesigned camera array and smaller notch](https://www.theverge.com/2021/9/14/22666802/iphone-13-specs-price-release-date-apple-camera)
- - [Apple launches new 2021 iPad and iPad Mini](https://www.androidauthority.com/2021-ipads-3023973/)<!-- TECH:END -->
+ - [New iPhone 13 mini announced with A15, better cameras & smaller notch](https://appleinsider.com/articles/21/09/14/new-iphone-13-mini-announced-with-a15-better-cameras-smaller-notch?utm_medium=rss)
+ - [Apple Watch Series 7 announced: Apple’s smartwatch just gets better](https://www.androidauthority.com/apple-watch-series-7-launch-3020315/)
+ - [Apple launches iPhone 13 with A15, smaller notch & more](https://appleinsider.com/articles/21/09/14/apple-launches-iphone-13-with-a15-smaller-notch-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
