@@ -188,9 +188,9 @@ Windows                  7 hrs 15 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 12 sales did not slow down in ramp-up to iPhone 13 launch](https://appleinsider.com/articles/21/09/14/iphone-12-sales-did-not-slow-down-in-ramp-up-to-iphone-13-launch?utm_medium=rss)
- - [Last-minute iPhone 13 analyst predictions include ProMotion, 1TB option](https://appleinsider.com/articles/21/09/14/last-minute-iphone-13-analyst-predictions-include-promotion-1tb-option?utm_medium=rss)
- - [Razer’s Wolverine V2 Chroma is an elegant, customizable wired controller](https://www.theverge.com/2021/9/14/22666452/razer-wolverine-v2-chroma-xbox-pc-wired-controller-price-features)<!-- TECH:END -->
+ - [Live from Apple’s virtual 2021 iPhone event](http://feedproxy.google.com/~r/Techcrunch/~3/2qmqANQVVrE/)
+ - [Livestream of Apple's "California Dreaming" event (Apple)](http://www.techmeme.com/210914/p32#a210914p32)
+ - [Watch Apple unveil the new iPhone live right here](http://feedproxy.google.com/~r/Techcrunch/~3/XQnVanOLKEQ/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
