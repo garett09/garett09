@@ -181,9 +181,9 @@ Windows                  7 hrs 15 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Ren and Stimpy are joining Nickelodeon All-Star Brawl as a duo](https://www.polygon.com/22674018/ren-stimpy-nickelodeon-all-star-brawl-fighting-game-roster)
  - [20 years later, Wario Land 4’s sound room still haunts me](https://www.polygon.com/wario/22667367/wario-land-4-sound-room-scary-haunted-game-boy-advance)
- - [Ashley Tisdale to Play Hard-Bitten CIA Officer Rachel King in The Dark Pictures: House of Ashes](https://news.xbox.com/en-us/2021/09/14/ashley-tisdale-in-the-dark-pictures-house-of-ashes/)
- - [.dungeon turns what you love into inspiration for a passionate tabletop RPG](https://www.polygon.com/22673506/dotdungeon-indie-rpg-john-battle-review)<!-- GAME:END -->
+ - [Ashley Tisdale to Play Hard-Bitten CIA Officer Rachel King in The Dark Pictures: House of Ashes](https://news.xbox.com/en-us/2021/09/14/ashley-tisdale-in-the-dark-pictures-house-of-ashes/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
