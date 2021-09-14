@@ -188,9 +188,9 @@ Windows                  7 hrs 15 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Personal tracking tech is headed towards a precise — and dangerous — new era](https://www.androidauthority.com/tracking-devices-2746349/)
- - [Sonos Beam Gen 2 announced with Dolby Atmos support, AirPlay 2, & more](https://appleinsider.com/articles/21/09/14/sonos-beam-gen-2-announced-with-dolby-atmos-support-airplay-2-more?utm_medium=rss)
- - [Amazon boosts workers' average starting pay to $18 an hour     - CNET](https://www.cnet.com/tech/services-and-software/amazon-boosts-workers-average-starting-pay-to-18-an-hour/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The investigation into Tesla Autopilot’s emergency vehicle problem is getting bigger](https://www.theverge.com/2021/9/14/22673497/tesla-nhtsa-autopilot-investigation-data-ford-gm-vw-toyota)
+ - [Best Deals Sept. 14 - $150 off iPad Pro Magic Keyboard, $49 Roku Ultra LT 4K, and more!](https://appleinsider.com/articles/21/09/14/best-deals-sept-14---150-off-ipad-pro-magic-keyboard-49-roku-ultra-lt-4k-and-more?utm_medium=rss)
+ - [iPad mini 6 accessory listing hints at October release](https://appleinsider.com/articles/21/09/14/ipad-mini-6-accessory-listing-hints-at-october-release?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
