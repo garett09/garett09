@@ -195,8 +195,8 @@ Windows                  7 hrs 15 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [New iphone](http://9gag.com/gag/arMY3N6)
- - 🚯 [I&rsquo;m 31, fed up and bought this camper, got a yearly spot for only $2k and off the grid , no more job , no needs and living the best life . Cheers .](http://9gag.com/gag/axM5yDb)
+ - 🚖 [Legend (1:06)](http://9gag.com/gag/aQoGgD7)
+ - 🚯 [New iphone](http://9gag.com/gag/arMY3N6)
  - 🚯 [Say your age without saying your age](http://9gag.com/gag/aGpXLq0)<!-- MEMES:END -->
 
 --- 
