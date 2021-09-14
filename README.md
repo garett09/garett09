@@ -188,9 +188,9 @@ Windows                  7 hrs 15 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A Stanford Proposal Over AI's 'Foundations' Ignites Debate](https://www.wired.com/story/stanford-proposal-ai-foundations-ignites-debate)
- - [Watch Apple’s iPhone 13 Launch Event Right Here](https://www.wired.com/story/apple-iphone-13-event-how-to-watch-what-to-expect)
- - [Apple's Home Button patent lawsuit appeal has mixed results](https://appleinsider.com/articles/21/09/14/apples-home-button-patent-lawsuit-appeal-has-mixed-results?utm_medium=rss)<!-- TECH:END -->
+ - [SpaceX launches its first batch of Starlink satellites aimed at new coverage areas from California](http://feedproxy.google.com/~r/Techcrunch/~3/zxuK92qDpNY/)
+ - [Twitter turns Like icon into Apple logo for #AppleEvent posts](https://appleinsider.com/articles/21/09/14/twitter-turns-like-icon-into-apple-logo-for-appleevent-posts?utm_medium=rss)
+ - [Amazon partners with ticketing company AXS to use its Amazon One palm scanner at Colorado's Red Rocks Amphitheatre, the first outside partnership for Amazon One (James Vincent/The Verge)](http://www.techmeme.com/210914/p18#a210914p18)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
