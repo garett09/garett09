@@ -181,9 +181,9 @@ Windows                  7 hrs 15 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Deathloop is one of the most incredible games I’ve ever played](https://www.polygon.com/reviews/22673773/deathloop-review-ps5-pc-steam-arkane-studios)
- - [Splitgate’s Getting Bigger And Better, Thanks To A Cool $100M](https://kotaku.com/splitgate-s-getting-bigger-and-better-thanks-to-a-cool-1847673704)
- - [Christopher Nolan ditches WB, his home of 20 years, to make his next movie at Universal](https://www.polygon.com/22673745/christopher-nolan-next-movie-atomic-bomb)<!-- GAME:END -->
+ - [Ashley Tisdale to Play Hard-Bitten CIA Officer Rachel King in The Dark Pictures: House of Ashes](https://news.xbox.com/en-us/2021/09/14/ashley-tisdale-in-the-dark-pictures-house-of-ashes/)
+ - [.dungeon turns what you love into inspiration for a passionate tabletop RPG](https://www.polygon.com/22673506/dotdungeon-indie-rpg-john-battle-review)
+ - [Sizing up the 10 most popular things on Netflix right now](https://www.polygon.com/2020/3/10/21167710/10-netflix-movies-shows-most-popular)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
