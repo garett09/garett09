@@ -195,9 +195,9 @@ Windows                  7 hrs 15 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Legend (1:06)](http://9gag.com/gag/aQoGgD7)
- - 🚯 [Probably the most dumb person I have ever seen](http://9gag.com/gag/aB2pZgA)
- - 🚯 [Keep calm](http://9gag.com/gag/a7EQ8Yq)<!-- MEMES:END -->
+ - 🚖 [Keep calm](http://9gag.com/gag/a7EQ8Yq)
+ - 🚯 [Say your age without saying your age](http://9gag.com/gag/aGpXLq0)
+ - 🚯 [Legend (1:06)](http://9gag.com/gag/aQoGgD7)<!-- MEMES:END -->
 
 --- 
 
