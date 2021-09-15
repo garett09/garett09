@@ -188,9 +188,9 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 13 mmWave 5G support limited to US models](https://appleinsider.com/articles/21/09/15/iphone-13-mmwave-5g-support-limited-to-us-models?utm_medium=rss)
- - [Apple Watch Series 7 uses same processor as predecessor](https://appleinsider.com/articles/21/09/15/apple-watch-series-7-uses-same-processor-as-predecessor?utm_medium=rss)
- - [Investigation into the Minneapolis school district's use of Gaggle during the pandemic shows how moderators subject students to relentless digital surveillance (Mark Keierleber/The 74)](http://www.techmeme.com/210915/p1#a210915p1)<!-- TECH:END -->
+ - [Apple was clammy about A15 comparison and reported no CPU gains for the first time ever likely because of engineer exodus to companies like Nuvia and Rivos (Dylan Patel/SemiAnalysis)](http://www.techmeme.com/210915/p3#a210915p3)
+ - [Irish data commissioner launches GDPR probe into TikTok over its handling of children's data and the transfer of user information to China (Hannah Murphy/Financial Times)](http://www.techmeme.com/210915/p2#a210915p2)
+ - [iPhone 13 mmWave 5G support limited to US models](https://appleinsider.com/articles/21/09/15/iphone-13-mmwave-5g-support-limited-to-us-models?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
