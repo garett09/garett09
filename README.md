@@ -181,9 +181,9 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [D&D The Wild Beyond the Witchlight was designed to allow pacifist playthroughs](https://www.polygon.com/22675396/dungeons-dragons-wild-beyond-the-witchlight-pacifist-run-handouts)
- - [Deathloop's PS5 Loading Screens Are Making Some Horrible Sounds](https://kotaku.com/deathloops-ps5-loading-screens-are-making-some-horrible-1847680178)
- - [Best Razer gaming laptop deals](https://www.pcgamer.com/the-best-razer-laptop-for-gaming-2019)<!-- GAME:END -->
+ - [Catlateral Damage: Remeowstered Pounces onto Xbox One and Xbox Series X|S Today](https://news.xbox.com/en-us/2021/09/15/catlateral-damage-remeowstered-pounces-onto-xbox-one-and-xbox-series-xs-today/)
+ - [Best B550 motherboard for gaming](https://www.pcgamer.com/best-b550-motherboard-for-gaming-amd-ryzen)
+ - [Nendoroid toymaker sued by former execs over ‘over-sexualized anime figures’](https://www.polygon.com/22675642/nendoroid-toymaker-goodsmile-lawsuit)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
