@@ -188,9 +188,9 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple's iPhone 13 and 13 Pro are the first to support dual eSIM, expanding on support for eSIM and regular SIM in previous iPhones (Filipe Esp&oacute;sito/9to5Mac)](http://www.techmeme.com/210915/p8#a210915p8)
- - [There’s a new bubbles emoji that’ll go just great with the peach](https://www.theverge.com/2021/9/15/22675134/unicode-emoji-version-14-bubbles-saluting-face-biting-lip-2021)
- - [Poll: Which iPhone 13 series phone are you thinking of buying?](https://www.androidauthority.com/iphone-13-model-buying-poll-3024329/)<!-- TECH:END -->
+ - [Amazon Prime now includes free Deliveroo deliveries in the UK](https://www.theverge.com/2021/9/15/22675165/amazon-prime-deliveroo-plus-bundle-subscription)
+ - [Ireland probes TikTok’s handling of kids’ data and transfers to China](http://feedproxy.google.com/~r/Techcrunch/~3/s86L_yzz79Q/)
+ - [Apple's iPhone 13 and 13 Pro are the first to support dual eSIM, expanding on support for eSIM and regular SIM in previous iPhones (Filipe Esp&oacute;sito/9to5Mac)](http://www.techmeme.com/210915/p8#a210915p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
