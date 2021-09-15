@@ -181,9 +181,9 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [World Flipper Is An Uneven Combination Of Gacha, Pinball, And JRPG](https://kotaku.com/world-flipper-is-an-uneven-combination-of-gacha-pinbal-1847682273)
- - [To Win The Game You Must Kill Me, Margaret Thatcher](https://kotaku.com/to-win-the-game-you-must-kill-me-margaret-thatcher-1847681908)
- - [Slime Isekai’s DBZ Homage Has Everyone Arguing About Kamehamehas](https://kotaku.com/slime-isekai-s-dbz-homage-has-everyone-arguing-about-ka-1847681835)<!-- GAME:END -->
+ - [A board gaming accessory that you actually need](https://www.polygon.com/tabletop-games/22675977/lax-rax-ikea-kallax-board-game-shelf-system-upgrade-kickstarter)
+ - [Fallout 76 role-players are staging in-game plays and productions](https://www.polygon.com/22676053/fallout-76-the-theatre-company-northern-harvester-plays-productions)
+ - [World Flipper Is An Uneven Combination Of Gacha, Pinball, And JRPG](https://kotaku.com/world-flipper-is-an-uneven-combination-of-gacha-pinbal-1847682273)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
