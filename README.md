@@ -188,9 +188,9 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 13 mmWave 5G support limited to US models](https://appleinsider.com/articles/21/09/15/iphone-13-mmwave-5g-support-limited-to-us-models?utm_medium=rss)
- - [Nintendo adds Bluetooth audio support to the Switch, which limits the device to two wireless controllers when in use and does not support microphones (The Verge)](http://www.techmeme.com/210914/p56#a210914p56)
- - [Nintendo finally adds Bluetooth audio to the Switch in new software update](https://www.theverge.com/2021/9/14/22674704/nintendo-switch-bluetooth-audio-software-update)<!-- TECH:END -->
+ - [Satori, which streamlines data access and security for cloud-based data stores and infrastructure, raises $20M Series A led by B Capital and Evolution Equity (Kyle Wiggers/VentureBeat)](http://www.techmeme.com/210914/p58#a210914p58)
+ - [Tia, a provider of virtual and in-person health and wellness services for women, raises $100M Series B led by Lone Pine Capital, bringing total funding to $132M (Katie Jennings/Forbes)](http://www.techmeme.com/210914/p57#a210914p57)
+ - [Rivian vehicles are now ready for sale in all 50 states, following key certifications](http://feedproxy.google.com/~r/Techcrunch/~3/nRw3ghQJCrE/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
