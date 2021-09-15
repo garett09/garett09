@@ -181,9 +181,9 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Early Intel Alder Lake prices could take the fight to the heart of AMD Ryzen](https://www.pcgamer.com/early-intel-alder-lake-prices-could-take-the-fight-to-the-heart-of-amd-ryzen)
  - [PC Gamer plays: Blackwell, Rogue Book, Final Fantasy 14, Chicken Police](https://www.pcgamer.com/pc-gamer-plays-blackwell-rogue-book-final-fantasy-14-chicken-police)
- - [GamesMaster is coming back](https://www.pcgamer.com/gamesmaster-is-coming-back)
- - [Valve is shipping Steam Deck dev kits to developers right now](https://www.pcgamer.com/valve-steam-deck-dev-kits-shipping)<!-- GAME:END -->
+ - [GamesMaster is coming back](https://www.pcgamer.com/gamesmaster-is-coming-back)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
