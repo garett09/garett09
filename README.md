@@ -188,9 +188,9 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple hit with lawsuit claiming M1 MacBook screens are 'defective'](https://appleinsider.com/articles/21/09/15/apple-hit-with-lawsuit-claiming-m1-macbook-screens-are-defective?utm_medium=rss)
- - [Google’s rumored Pixel 6 Tensor processor sounds extremely weird](https://www.theverge.com/2021/9/15/22676099/google-pixel-6-tensor-processor-rumor-arm-cortex-x1-core-mystery-strange)
- - [Hands on with all the new watch faces coming to Apple Watch with watchOS 8](https://appleinsider.com/articles/21/09/15/hands-on-with-all-the-new-watch-faces-coming-to-apple-watch-with-watchos-8?utm_medium=rss)<!-- TECH:END -->
+ - [Apple refutes FlickType developer's account of App Store issues](https://appleinsider.com/articles/21/09/15/apple-refutes-flicktype-developers-account-of-app-store-issues?utm_medium=rss)
+ - [Report suggests Apple's A15 Bionic lacks significant CPU upgrades due to chip team brain drain](https://appleinsider.com/articles/21/09/15/report-suggests-apples-a15-bionic-lacks-significant-cpu-upgrades-due-to-chip-team-brain-drain?utm_medium=rss)
+ - [Taiwanese group says Apple harms consumers by not including charger with iPhone](https://appleinsider.com/articles/21/09/15/taiwanese-group-says-apple-harms-on-consumers-by-not-including-charger-with-iphone?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
