@@ -196,8 +196,8 @@ Windows                  9 hrs 4 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Apple Events in a nutshell](http://9gag.com/gag/anQ6R5b)
- - 🚯 [I went back to drawing after a long time off due to an artistic block. #1 Shark drawing](http://9gag.com/gag/a1r9NMv)
- - 🚯 [He&rsquo;s built like a strongman, not a body builder. This is what practical power looks like.](http://9gag.com/gag/a8EZ7NY)<!-- MEMES:END -->
+ - 🚯 [Didn&#039;t understand a thing but cracked me up](http://9gag.com/gag/aZ0ewy9)
+ - 🚯 [I went back to drawing after a long time off due to an artistic block. #1 Shark drawing](http://9gag.com/gag/a1r9NMv)<!-- MEMES:END -->
 
 --- 
 
