@@ -195,9 +195,9 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This made me laugh](http://9gag.com/gag/apNOPRB)
- - 🚯 [Bad dog](http://9gag.com/gag/ayMGWKM)
- - 🚯 [Really...](http://9gag.com/gag/a6EP509)<!-- MEMES:END -->
+ - 🚖 [The ultimate truth](http://9gag.com/gag/a9Eo8BL)
+ - 🚯 [This made me laugh](http://9gag.com/gag/apNOPRB)
+ - 🚯 [Exactly..](http://9gag.com/gag/aP358RR)<!-- MEMES:END -->
 
 --- 
 
