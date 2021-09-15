@@ -188,9 +188,9 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Folk helps you share contacts with your team](http://feedproxy.google.com/~r/Techcrunch/~3/8LLUxAoCjrQ/)
  - [Swedish caller-identification service Truecaller seeks to raise over $100 million in IPO](http://feedproxy.google.com/~r/Techcrunch/~3/L8Q42aKRhxE/)
- - [A look at a recently-patched flaw in Travis CI, a testing tool used by 900K+ open source projects, as Travis CI comes under fire for its bug disclosure process (Ax Sharma/Ars Technica)](http://www.techmeme.com/210915/p5#a210915p5)
- - [Chaldal, Bangladesh’s largest grocery delivery platform, raises $10M Series C](http://feedproxy.google.com/~r/Techcrunch/~3/chrlNx3R1pY/)<!-- TECH:END -->
+ - [A look at a recently-patched flaw in Travis CI, a testing tool used by 900K+ open source projects, as Travis CI comes under fire for its bug disclosure process (Ax Sharma/Ars Technica)](http://www.techmeme.com/210915/p5#a210915p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
