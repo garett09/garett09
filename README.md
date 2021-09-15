@@ -188,9 +188,9 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Watch SpaceX launch the first all-civilian Inspiration4 mission to space live](http://feedproxy.google.com/~r/Techcrunch/~3/k55bFzs8huw/)
- - [Xiaomi unveils 11-inch Pad 5 tablet, starting at &euro;349, an updated Mi Smart Band 6 with NFC for &euro;55, and Mi Smart Projector 2 with Google Assistant for &euro;599 (Mariella Moon/Engadget)](http://www.techmeme.com/210915/p26#a210915p26)
- - [Xiaomi launches its flagship 11T series, including the 11T Pro with 120W fast charging, claiming 100% charge in 17 minutes, starting at &euro;649 (Sam Byford/The Verge)](http://www.techmeme.com/210915/p25#a210915p25)<!-- TECH:END -->
+ - [Good 4 who? How music copyright has gone too far](https://www.theverge.com/22672704/olivia-rodrigo-switched-on-pop-charlie-harding-music-copyright)
+ - [Compared: iPhone 13 & iPhone 13 mini versus iPhone 12 & iPhone 12 mini](https://appleinsider.com/articles/21/09/14/compared-iphone-13-iphone-13-mini-versus-iphone-12-iphone-12-mini?utm_medium=rss)
+ - [Canadian company Rewind, which offers data backup and recovery tools for SaaS apps, raises $65M Series B, following $15M Series A in January (Paul Sawers/VentureBeat)](http://www.techmeme.com/210915/p28#a210915p28)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
