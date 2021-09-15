@@ -188,9 +188,9 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone 13 models thicker and heavier, TrueDepth notch slightly taller than iPhone 12 lineup](https://appleinsider.com/articles/21/09/15/iphone-13-models-thicker-and-heavier-truedepth-notch-slightly-taller-than-iphone-12-lineup?utm_medium=rss)
  - [Apple invites customers, iPhone Upgrade Program members to prepare for iPhone 13 preorders](https://appleinsider.com/articles/21/09/15/apple-invites-customers-iphone-upgrade-program-members-to-prepare-for-iphone-13-preorders?utm_medium=rss)
- - [Indonesia-based Pluang, an app that allows users to invest in gold, equity indices, mutual funds, and cryptocurrencies, closes $55M round led by Square Peg (Yimie Yong/TechNode Global)](http://www.techmeme.com/210914/p59#a210914p59)
- - [Satori, which streamlines data access and security for cloud-based data stores and infrastructure, raises $20M Series A led by B Capital and Evolution Equity (Kyle Wiggers/VentureBeat)](http://www.techmeme.com/210914/p58#a210914p58)<!-- TECH:END -->
+ - [Indonesia-based Pluang, an app that allows users to invest in gold, equity indices, mutual funds, and cryptocurrencies, closes $55M round led by Square Peg (Yimie Yong/TechNode Global)](http://www.techmeme.com/210914/p59#a210914p59)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
