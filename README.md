@@ -195,9 +195,9 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Guess it&rsquo;s inevitable](http://9gag.com/gag/aV7AKvP)
- - 🚯 [4 minute break. From everything else .](http://9gag.com/gag/aoMXRNX)
- - 🚯 [Exactly..](http://9gag.com/gag/aP358RR)<!-- MEMES:END -->
+ - 🚖 [Best way to throw garbage](http://9gag.com/gag/aoMXRv2)
+ - 🚯 [Don&#039;t listen to the theories of others](http://9gag.com/gag/ayMG6mY)
+ - 🚯 [I am this old](http://9gag.com/gag/aGpXMn5)<!-- MEMES:END -->
 
 --- 
 
