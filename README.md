@@ -188,9 +188,9 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Poll: Which iPhone 13 series phone are you thinking of buying?](https://www.androidauthority.com/iphone-13-model-buying-poll-3024329/)
  - [Unicode Consortium launches version 14.0 with a total of 112 new emoji, including multiracial handshake, melting face, saluting face, and heart hands (Keith Broni/Emojipedia)](http://www.techmeme.com/210915/p7#a210915p7)
- - [Nigerian agritech startup Releaf secures $4.2M to scale its food processing technology](http://feedproxy.google.com/~r/Techcrunch/~3/HHawl5zlg4Q/)
- - [Swedish caller ID and spam blocking service Truecaller seeks to raise $116M in Stockholm IPO at a valuation of about $3B (Manish Singh/TechCrunch)](http://www.techmeme.com/210915/p6#a210915p6)<!-- TECH:END -->
+ - [Nigerian agritech startup Releaf secures $4.2M to scale its food processing technology](http://feedproxy.google.com/~r/Techcrunch/~3/HHawl5zlg4Q/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
