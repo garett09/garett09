@@ -188,9 +188,9 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [FlickType developer suing Apple over Apple Watch keyboard](https://appleinsider.com/articles/21/09/14/flicktype-developer-suing-apple-again-over-apple-watch-keyboard?utm_medium=rss)
- - [Book excerpt examines Peter Thiel's support for Trump and partnership with Steve Bannon, libertarian ideology, battles with the IRS, and founding of Palantir (Max Chafkin/Bloomberg)](http://www.techmeme.com/210915/p19#a210915p19)
- - [How to preorder the iPhone 13 and iPhone 13 Pro](https://appleinsider.com/articles/21/09/15/how-to-preorder-the-iphone-13-and-iphone-13-pro?utm_medium=rss)<!-- TECH:END -->
+ - [ProRes in 4K limited to iPhone 13 models with 256GB of storage or more](https://appleinsider.com/articles/21/09/15/prores-in-4k-limited-to-iphone-13-models-with-256gb-of-storage-or-more?utm_medium=rss)
+ - [Xiaomi 11T Pro review: Lightning-quick charging meets middling cameras](https://www.androidauthority.com/xiaomi-11t-pro-review-3018488/)
+ - [Xiaomi 11T series launched: Affordable flagships without the Mi name](https://www.androidauthority.com/xiaomi-11t-series-3024327/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
