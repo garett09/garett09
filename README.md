@@ -195,9 +195,9 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Bad dog](http://9gag.com/gag/ayMGWKM)
- - 🚯 [Same shit every year , no more Apple mania](http://9gag.com/gag/aV7AZrn)
- - 🚯 [EeeeEEEEeeeehhhh!!!](http://9gag.com/gag/anQ6xQn)<!-- MEMES:END -->
+ - 🚖 [EeeeEEEEeeeehhhh!!!](http://9gag.com/gag/anQ6xQn)
+ - 🚯 [Apple Design Team making the new iPhone 13](http://9gag.com/gag/axM5bDp)
+ - 🚯 [Delusional](http://9gag.com/gag/ajmpxx0)<!-- MEMES:END -->
 
 --- 
 
