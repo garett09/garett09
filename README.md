@@ -188,9 +188,9 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This new Galaxy Watch 4 variant could help you get a hole-in-one](https://www.androidauthority.com/samsung-galaxy-watch-4-golf-edition-3024531/)
- - [Enrollment algorithms used by colleges intentionally reduce scholarships and may lead to crises of student loan debt, college dropout, and racial inequity (Alex Engler/Tech Policy Press)](http://www.techmeme.com/210915/p18#a210915p18)
- - [Apple says it every year, but the iPhone 13 cameras do seem much improved](https://www.theverge.com/2021/9/15/22675127/apple-iphone-13-pro-max-camera-analysis-specs)<!-- TECH:END -->
+ - [FlickType developer suing Apple over Apple Watch keyboard](https://appleinsider.com/articles/21/09/14/flicktype-developer-suing-apple-again-over-apple-watch-keyboard?utm_medium=rss)
+ - [Book excerpt examines Peter Thiel's support for Trump and partnership with Steve Bannon, libertarian ideology, battles with the IRS, and founding of Palantir (Max Chafkin/Bloomberg)](http://www.techmeme.com/210915/p19#a210915p19)
+ - [How to preorder the iPhone 13 and iPhone 13 Pro](https://appleinsider.com/articles/21/09/15/how-to-preorder-the-iphone-13-and-iphone-13-pro?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
