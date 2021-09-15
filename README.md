@@ -197,7 +197,7 @@ Windows                  9 hrs 4 mins        ███████████�
 <!-- MEMES:START -->
  - 🚖 [Sweet time.](http://9gag.com/gag/a9EomBK)
  - 🚯 [Sh*t here we go...](http://9gag.com/gag/azMnO9m)
- - 🚯 [Same shit every year , no more Apple mania](http://9gag.com/gag/aV7AZrn)<!-- MEMES:END -->
+ - 🚯 [German Police Games 2021](http://9gag.com/gag/aYo9MNq)<!-- MEMES:END -->
 
 --- 
 
