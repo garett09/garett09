@@ -195,9 +195,9 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When Eminem finally can c*** on TV](http://9gag.com/gag/aQoG218)
+ - 🚖 [The cutest thing I&#039;ve seen in a while...](http://9gag.com/gag/a8EZwBp)
  - 🚯 [Machine for recycling rebar](http://9gag.com/gag/aQoGZbz)
- - 🚯 [Do the math, its actually true](http://9gag.com/gag/aZ0e22X)<!-- MEMES:END -->
+ - 🚯 [Jupiter just got smacked by a space rock and an amateur Brazilian astronomer caught it on camera. Jos&eacute; Luis Pereira captured this shot of an impactor hitting Jupiter on Sept. 13, 2021.](http://9gag.com/gag/aZ0ejLV)<!-- MEMES:END -->
 
 --- 
 
