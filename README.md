@@ -181,9 +181,9 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Celebrates Hispanic Heritage Month](https://news.xbox.com/en-us/2021/09/15/xbox-celebrates-hispanic-heritage-month/)
- - [Six Settings That Help Deathloop Run More Smoothly On PC](https://kotaku.com/six-settings-that-help-deathloop-run-more-smoothly-on-p-1847679785)
- - [Seven Years With Destiny](https://kotaku.com/seven-years-with-destiny-1847679379)<!-- GAME:END -->
+ - [Deathloop's PS5 Loading Screens Are Making Some Horrible Sounds](https://kotaku.com/deathloops-ps5-loading-screens-are-making-some-horrible-1847680178)
+ - [Best Razer gaming laptop deals](https://www.pcgamer.com/the-best-razer-laptop-for-gaming-2019)
+ - [Explore the real world of Vikings in Assassin's Creed Valhalla's 'Discovery Tour,' coming in October](https://www.pcgamer.com/explore-the-real-world-of-vikings-in-assassins-creed-valhallas-discovery-tour-coming-in-october)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
