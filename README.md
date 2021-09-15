@@ -195,7 +195,7 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Love this song](http://9gag.com/gag/arMYA87)
+ - 🚖 [Guess it&rsquo;s inevitable](http://9gag.com/gag/aV7AKvP)
  - 🚯 [Good bye to the legend&hellip; Norm MaDonald](http://9gag.com/gag/amP31Z9)
  - 🚯 [Please, send help](http://9gag.com/gag/aP35Pew)<!-- MEMES:END -->
 
