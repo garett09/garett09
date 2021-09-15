@@ -181,9 +181,9 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [PlayStation’s official wireless headset now comes in black](https://www.polygon.com/22675333/ps5-headset-pulse-3d-midnight-black-release-date-price)
- - [Defeat the hordes when BPM: Bullets Per Minute arrives October 5](http://feedproxy.google.com/~r/PSBlog/~3/j5zv6yiR4eU/)
- - [Defeat the hordes when BPM: Bullets Per Minute arrives October 5](https://blog.playstation.com/2021/09/15/defeat-the-hordes-when-bpm-bullets-per-minute-arrives-october-5/)<!-- GAME:END -->
+ - [Seven Years With Destiny](https://kotaku.com/seven-years-with-destiny-1847679379)
+ - [New Nintendo Switch update enables Bluetooth audio](https://www.polygon.com/22675377/nintendo-switch-bluetooth-audio-update-headphones-microphone)
+ - [Hunt down a resurrected Maggie Thatcher in this frightfully British Doom campaign](https://www.pcgamer.com/hunt-down-a-resurrected-maggie-thatcher-in-this-frightfully-british-doom-campaign)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
