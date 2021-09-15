@@ -195,7 +195,7 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Best way to throw garbage](http://9gag.com/gag/aoMXRv2)
+ - 🚖 [This made me laugh](http://9gag.com/gag/apNOPRB)
  - 🚯 [Don&#039;t listen to the theories of others](http://9gag.com/gag/ayMG6mY)
  - 🚯 [I am this old](http://9gag.com/gag/aGpXMn5)<!-- MEMES:END -->
 
