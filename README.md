@@ -188,9 +188,9 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Compared: iPhone 13 & iPhone 13 mini versus iPhone 12 & iPhone 12 mini](https://appleinsider.com/articles/21/09/14/compared-iphone-13-iphone-13-mini-versus-iphone-12-iphone-12-mini?utm_medium=rss)
- - [Compared: Apple Watch SE versus Apple Watch Series 6 versus Apple Watch Series 7](https://appleinsider.com/articles/21/09/15/compared-apple-watch-se-versus-apple-watch-series-6-versus-apple-watch-series-7?utm_medium=rss)
- - [Compared: iPhone 13 mini vs. iPhone 12 mini vs. iPhone SE](https://appleinsider.com/articles/21/09/15/compared-iphone-13-mini-iphone-12-mini-vs-iphone-se?utm_medium=rss)<!-- TECH:END -->
+ - [The iPhone 13 event was a case study in Tim Cook-era product refinement](https://www.theverge.com/2021/9/15/22676532/apple-event-iphone-13-incremental-refinement-upgrade-specs)
+ - [Watch SpaceX launch the first all-civilian Inspiration4 mission to space live](http://feedproxy.google.com/~r/Techcrunch/~3/k55bFzs8huw/)
+ - [iPhone 13 Pro GPU benchmarks show 55% improvement over iPhone 12 Pro](https://appleinsider.com/articles/21/09/15/iphone-13-pro-gpu-benchmarks-show-55-improvement-over-iphone-12-pro?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
