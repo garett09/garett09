@@ -188,9 +188,9 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [India’s Groww in talks to raise funds at a $3 billion valuation](http://feedproxy.google.com/~r/Techcrunch/~3/SPA1rPAelKw/)
- - [Apple was clammy about A15 comparison and reported no CPU gains for the first time ever likely because of engineer exodus to companies like Nuvia and Rivos (Dylan Patel/SemiAnalysis)](http://www.techmeme.com/210915/p3#a210915p3)
- - [Irish data commissioner launches GDPR probe into TikTok over its handling of children's data and the transfer of user information to China (Hannah Murphy/Financial Times)](http://www.techmeme.com/210915/p2#a210915p2)<!-- TECH:END -->
+ - [Chaldal, Bangladesh’s largest grocery delivery platform, raises $10M Series C](http://feedproxy.google.com/~r/Techcrunch/~3/chrlNx3R1pY/)
+ - [The Nintendo Switch has finally received Bluetooth audio support](https://www.androidauthority.com/nintendo-switch-bluetooth-audio-3023224/)
+ - [Apple Watch Series 7 uses same processor as predecessor](https://appleinsider.com/articles/21/09/15/apple-watch-series-7-uses-same-processor-as-predecessor?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
