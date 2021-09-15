@@ -188,9 +188,9 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fitbit adds another key sleep feature to the Sense and Versa 3](https://www.androidauthority.com/fitbit-snoring-3024825/)
- - [Moment expands accessory range to iPhone 13, AirPods, Apple Watch](https://appleinsider.com/articles/21/09/15/moment-expands-accessory-range-to-iphone-13-airpods-apple-watch?utm_medium=rss)
- - ['Ted Lasso' wins the three biggest Television Critics Association awards](https://appleinsider.com/articles/21/09/15/ted-lasso-wins-the-three-biggest-television-critics-association-awards?utm_medium=rss)<!-- TECH:END -->
+ - [Taiwanese group says Apple harms on consumers by not including charger with iPhone](https://appleinsider.com/articles/21/09/15/taiwanese-group-says-apple-harms-on-consumers-by-not-including-charger-with-iphone?utm_medium=rss)
+ - [Become a true impostor with an official Among Us costume](https://www.theverge.com/tldr/2021/9/15/22676173/among-us-official-costume-impostor-crewmate)
+ - [Tiger Global-led $100M investment makes Apna India’s fastest unicorn](http://feedproxy.google.com/~r/Techcrunch/~3/WLc_8G44R_U/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
