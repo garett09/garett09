@@ -195,9 +195,9 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This made me laugh](http://9gag.com/gag/apNOPRB)
- - 🚯 [I am this old](http://9gag.com/gag/aGpXMn5)
- - 🚯 [The ultimate truth](http://9gag.com/gag/a9Eo8BL)<!-- MEMES:END -->
+ - 🚖 [EeeeEEEEeeeehhhh!!!](http://9gag.com/gag/anQ6xQn)
+ - 🚯 [How to not take a shortcut with your children](http://9gag.com/gag/azMnKnN)
+ - 🚯 [I am this old](http://9gag.com/gag/aGpXMn5)<!-- MEMES:END -->
 
 --- 
 
