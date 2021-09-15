@@ -188,9 +188,9 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon Prime now includes free Deliveroo deliveries in the UK](https://www.theverge.com/2021/9/15/22675165/amazon-prime-deliveroo-plus-bundle-subscription)
- - [Ireland probes TikTok’s handling of kids’ data and transfers to China](http://feedproxy.google.com/~r/Techcrunch/~3/s86L_yzz79Q/)
- - [Apple's iPhone 13 and 13 Pro are the first to support dual eSIM, expanding on support for eSIM and regular SIM in previous iPhones (Filipe Esp&oacute;sito/9to5Mac)](http://www.techmeme.com/210915/p8#a210915p8)<!-- TECH:END -->
+ - [Patient monitoring startup Doccla secures $3.3M Seed funding for ‘virtual wards’ platform](http://feedproxy.google.com/~r/Techcrunch/~3/pxiiTKezioo/)
+ - [Online classifieds marketplace Carousell raises $100M at a $1.1B valuation led by STIC Investments, becoming Singapore's latest tech unicorn (Yoolim Lee/Bloomberg)](http://www.techmeme.com/210915/p9#a210915p9)
+ - [Instagram internal research: ‘We make body image issues worse for one in three teen girls’](https://www.theverge.com/2021/9/15/22675130/facebook-instagram-teens-mental-health-damage-internal-research)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
