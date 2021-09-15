@@ -196,8 +196,8 @@ Windows                  9 hrs 4 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [This made me laugh](http://9gag.com/gag/apNOPRB)
- - 🚯 [Don&#039;t listen to the theories of others](http://9gag.com/gag/ayMG6mY)
- - 🚯 [I am this old](http://9gag.com/gag/aGpXMn5)<!-- MEMES:END -->
+ - 🚯 [Bad dog](http://9gag.com/gag/ayMGWKM)
+ - 🚯 [Really...](http://9gag.com/gag/a6EP509)<!-- MEMES:END -->
 
 --- 
 
