@@ -181,9 +181,9 @@ Windows                  7 hrs 15 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Warhammer 40,000 YouTuber 3D prints Dawn of War buildings for tabletop games](https://www.pcgamer.com/warhammer-dawn-of-war-terrain-3d-model)
- - [Xbox Returns to Tokyo Game Show 2021](https://news.xbox.com/en-us/2021/09/14/xbox-returns-to-tokyo-game-show-2021/)
- - [6 horror movies that share the unhinged DNA of James Wan’s Malignant](https://www.polygon.com/22674065/horror-movies-like-malignant)<!-- GAME:END -->
+ - [PlayStation Plus Double Discounts promotion comes to PlayStation Store](http://feedproxy.google.com/~r/PSBlog/~3/-YCnE75NC_M/)
+ - [PlayStation Plus Double Discounts promotion comes to PlayStation Store](https://blog.playstation.com/2021/09/14/playstation-plus-double-discounts-promotion-comes-to-playstation-store-2/)
+ - [Warhammer 40,000 YouTuber 3D prints Dawn of War buildings for tabletop games](https://www.pcgamer.com/warhammer-dawn-of-war-terrain-3d-model)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
