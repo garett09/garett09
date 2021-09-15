@@ -188,9 +188,9 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple invites customers, iPhone Upgrade Program members to prepare for iPhone 13 preorders](https://appleinsider.com/articles/21/09/15/apple-invites-customers-iphone-upgrade-program-members-to-prepare-for-iphone-13-preorders?utm_medium=rss)
- - [iPhone 13 is here, and Apple upgraded the battery, storage and cameras     - CNET](https://www.cnet.com/tech/mobile/iphone-13-is-here-and-apple-upgraded-the-battery-storage-and-cameras/#ftag=CAD590a51e)
- - [iPhone 13 models thicker and heavier, TrueDepth notch slightly taller than iPhone 12 lineup](https://appleinsider.com/articles/21/09/15/iphone-13-models-thicker-and-heavier-truedepth-notch-slightly-taller-than-iphone-12-lineup?utm_medium=rss)<!-- TECH:END -->
+ - [iPhone 13 mmWave 5G support limited to US models](https://appleinsider.com/articles/21/09/15/iphone-13-mmwave-5g-support-limited-to-us-models?utm_medium=rss)
+ - [Apple Watch Series 7 uses same processor as predecessor](https://appleinsider.com/articles/21/09/15/apple-watch-series-7-uses-same-processor-as-predecessor?utm_medium=rss)
+ - [Investigation into the Minneapolis school district's use of Gaggle during the pandemic shows how moderators subject students to relentless digital surveillance (Mark Keierleber/The 74)](http://www.techmeme.com/210915/p1#a210915p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
