@@ -195,9 +195,9 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I went back to drawing after a long time off due to an artistic block. #1 Shark drawing](http://9gag.com/gag/a1r9NMv)
- - 🚯 [Apple Events in a nutshell](http://9gag.com/gag/anQ6R5b)
- - 🚯 [Didn&#039;t understand a thing but cracked me up](http://9gag.com/gag/aZ0ewy9)<!-- MEMES:END -->
+ - 🚖 [Love this song](http://9gag.com/gag/arMYA87)
+ - 🚯 [Turn down for WHAT?](http://9gag.com/gag/awMwm1B)
+ - 🚯 [Just a thought,](http://9gag.com/gag/aK6R9wb)<!-- MEMES:END -->
 
 --- 
 
