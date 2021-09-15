@@ -195,9 +195,9 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Love this song](http://9gag.com/gag/arMYA87)
- - 🚯 [Please, send help](http://9gag.com/gag/aP35Pew)
- - 🚯 [The Moth Joke. My favorite](http://9gag.com/gag/aGpX8YK)<!-- MEMES:END -->
+ - 🚖 [Handy tip](http://9gag.com/gag/aRXnMDj)
+ - 🚯 [Building Swedish log torch to heat up a tent using a metal pipe...](http://9gag.com/gag/aYo9O2V)
+ - 🚯 [Don&#039;t listen to the theories of others](http://9gag.com/gag/ayMG6mY)<!-- MEMES:END -->
 
 --- 
 
