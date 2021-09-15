@@ -188,9 +188,9 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Report suggests Apple's A15 Bionic lacks significant CPU upgrades due to chip team brain drain](https://appleinsider.com/articles/21/09/15/report-suggests-apples-a15-bionic-lacks-significant-cpu-upgrades-due-to-chip-team-brain-drain?utm_medium=rss)
- - [Apna, whose networking app lets blue collar workers upskill and find jobs, raises $100M Series C led by Tiger Global, becoming India's youngest unicorn (Manish Singh/TechCrunch)](http://www.techmeme.com/210915/p44#a210915p44)
- - [Apple's iOS 14.8 Pegasus security fix: iPhone owners urged to update immediately     - CNET](https://www.cnet.com/tech/services-and-software/apple-ios-14-8-pegasus-security-fix-iphone-owners-urged-to-update-immediately/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Compared: iPhone 13 & iPhone 13 mini versus iPhone 12 & iPhone 12 mini](https://appleinsider.com/articles/21/09/14/compared-iphone-13-iphone-13-mini-versus-iphone-12-iphone-12-mini?utm_medium=rss)
+ - [Compared: Apple Watch SE versus Apple Watch Series 6 versus Apple Watch Series 7](https://appleinsider.com/articles/21/09/15/compared-apple-watch-se-versus-apple-watch-series-6-versus-apple-watch-series-7?utm_medium=rss)
+ - [Compared: iPhone 13 mini vs. iPhone 12 mini vs. iPhone SE](https://appleinsider.com/articles/21/09/15/compared-iphone-13-mini-iphone-12-mini-vs-iphone-se?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
