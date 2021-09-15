@@ -196,8 +196,8 @@ Windows                  9 hrs 4 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [EeeeEEEEeeeehhhh!!!](http://9gag.com/gag/anQ6xQn)
- - 🚯 [Apple Design Team making the new iPhone 13](http://9gag.com/gag/axM5bDp)
- - 🚯 [Delusional](http://9gag.com/gag/ajmpxx0)<!-- MEMES:END -->
+ - 🚯 [Some restaurants be like](http://9gag.com/gag/apNOAPD)
+ - 🚯 [Apple Design Team making the new iPhone 13](http://9gag.com/gag/axM5bDp)<!-- MEMES:END -->
 
 --- 
 
