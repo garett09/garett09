@@ -181,9 +181,9 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Netflix's Kate Did Do Right By Japanese Tattooing](https://kotaku.com/netflixs-kate-did-do-right-by-japanese-tattooing-1847678326)
  - [Nintendo Finally Adds Bluetooth Audio to the Switch](https://kotaku.com/nintendo-finally-adds-bluetooth-audio-to-the-switch-1847678157)
- - [Tactical roguelike Synthetik 2 will be out in November](https://www.pcgamer.com/tactical-roguelike-synthetik-2-will-be-out-in-november)
- - [The best PC games right now](https://www.pcgamer.com/best-pc-games)<!-- GAME:END -->
+ - [Tactical roguelike Synthetik 2 will be out in November](https://www.pcgamer.com/tactical-roguelike-synthetik-2-will-be-out-in-november)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
