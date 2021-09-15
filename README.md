@@ -188,9 +188,9 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 13 models thicker and heavier, TrueDepth notch slightly taller than iPhone 12 lineup](https://appleinsider.com/articles/21/09/15/iphone-13-models-thicker-and-heavier-truedepth-notch-slightly-taller-than-iphone-12-lineup?utm_medium=rss)
  - [Apple invites customers, iPhone Upgrade Program members to prepare for iPhone 13 preorders](https://appleinsider.com/articles/21/09/15/apple-invites-customers-iphone-upgrade-program-members-to-prepare-for-iphone-13-preorders?utm_medium=rss)
- - [Indonesia-based Pluang, an app that allows users to invest in gold, equity indices, mutual funds, and cryptocurrencies, closes $55M round led by Square Peg (Yimie Yong/TechNode Global)](http://www.techmeme.com/210914/p59#a210914p59)<!-- TECH:END -->
+ - [iPhone 13 models thicker and heavier, TrueDepth notch slightly taller than iPhone 12 lineup](https://appleinsider.com/articles/21/09/15/iphone-13-models-thicker-and-heavier-truedepth-notch-slightly-taller-than-iphone-12-lineup?utm_medium=rss)
+ - [ProRes in 4K limited to iPhone 13 models with 256GB of storage or more](https://appleinsider.com/articles/21/09/15/prores-in-4k-limited-to-iphone-13-models-with-256gb-of-storage-or-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
