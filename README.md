@@ -188,9 +188,9 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft board of directors approves the appointment of Brad Smith to the position of vice chair (Jordan Novet/CNBC)](http://www.techmeme.com/210914/p55#a210914p55)
- - [Sell your used Apple device, get a 10% cash bonus ahead of the iPhone 13](https://appleinsider.com/articles/21/09/08/sell-your-used-apple-device-get-a-10-cash-bonus-ahead-of-the-iphone-13?utm_medium=rss)
- - [The Holmes trial gets into the Excel nitty-gritty](https://www.theverge.com/2021/9/14/22674657/elizabeth-holmes-theranos-trial-wire-fraud-financial-witness)<!-- TECH:END -->
+ - [iPhone 13 mmWave 5G support limited to US models](https://appleinsider.com/articles/21/09/15/iphone-13-mmwave-5g-support-limited-to-us-models?utm_medium=rss)
+ - [Nintendo adds Bluetooth audio support to the Switch, which limits the device to two wireless controllers when in use and does not support microphones (The Verge)](http://www.techmeme.com/210914/p56#a210914p56)
+ - [Nintendo finally adds Bluetooth audio to the Switch in new software update](https://www.theverge.com/2021/9/14/22674704/nintendo-switch-bluetooth-audio-software-update)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
