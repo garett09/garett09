@@ -195,9 +195,9 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Say your age without saying your age](http://9gag.com/gag/aGpXLq0)
- - 🚯 [Just a thought,](http://9gag.com/gag/aK6R9wb)
- - 🚯 [I went back to drawing after a long time off due to an artistic block. #1 Shark drawing](http://9gag.com/gag/a1r9NMv)<!-- MEMES:END -->
+ - 🚖 [Apple Events in a nutshell](http://9gag.com/gag/anQ6R5b)
+ - 🚯 [I went back to drawing after a long time off due to an artistic block. #1 Shark drawing](http://9gag.com/gag/a1r9NMv)
+ - 🚯 [He&rsquo;s built like a strongman, not a body builder. This is what practical power looks like.](http://9gag.com/gag/a8EZ7NY)<!-- MEMES:END -->
 
 --- 
 
