@@ -195,9 +195,9 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The ultimate truth](http://9gag.com/gag/a9Eo8BL)
- - 🚯 [This made me laugh](http://9gag.com/gag/apNOPRB)
- - 🚯 [Exactly..](http://9gag.com/gag/aP358RR)<!-- MEMES:END -->
+ - 🚖 [This made me laugh](http://9gag.com/gag/apNOPRB)
+ - 🚯 [I am this old](http://9gag.com/gag/aGpXMn5)
+ - 🚯 [The ultimate truth](http://9gag.com/gag/a9Eo8BL)<!-- MEMES:END -->
 
 --- 
 
