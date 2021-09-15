@@ -197,7 +197,7 @@ Windows                  9 hrs 4 mins        ███████████�
 <!-- MEMES:START -->
  - 🚖 [Taking the meaning of scumbag to another level](http://9gag.com/gag/aYo9OVm)
  - 🚯 [Trying to randomly break into someone house.](http://9gag.com/gag/anQ6RQb)
- - 🚯 [Love this song](http://9gag.com/gag/arMYA87)<!-- MEMES:END -->
+ - 🚯 [RIP Norm](http://9gag.com/gag/abV71bB)<!-- MEMES:END -->
 
 --- 
 
