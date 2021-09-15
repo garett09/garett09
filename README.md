@@ -181,9 +181,9 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [D&D The Wild Beyond the Witchlight was designed to allow pacifist playthroughs](https://www.polygon.com/22675396/dungeons-dragons-wild-beyond-the-witchlight-pacifist-run-handouts)
  - [Deathloop's PS5 Loading Screens Are Making Some Horrible Sounds](https://kotaku.com/deathloops-ps5-loading-screens-are-making-some-horrible-1847680178)
- - [Best Razer gaming laptop deals](https://www.pcgamer.com/the-best-razer-laptop-for-gaming-2019)
- - [Explore the real world of Vikings in Assassin's Creed Valhalla's 'Discovery Tour,' coming in October](https://www.pcgamer.com/explore-the-real-world-of-vikings-in-assassins-creed-valhallas-discovery-tour-coming-in-october)<!-- GAME:END -->
+ - [Best Razer gaming laptop deals](https://www.pcgamer.com/the-best-razer-laptop-for-gaming-2019)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
