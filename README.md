@@ -181,9 +181,9 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Confessions of a former Legolas fangirl](https://www.polygon.com/lord-of-the-rings/22676014/lotr-orlando-bloom-legolas-fangirls)
- - [343 shoots down Nvidia leak: Halo 5 is not coming to PC](https://www.pcgamer.com/343-shoots-down-nvidia-leak-halo-5-is-not-coming-to-pc)
- - [Dance to the beat of dead air in Life is Strange: True Colors' hilarious (and concerning) streamer mode](https://www.pcgamer.com/life-is-strange-streamer-mode)<!-- GAME:END -->
+ - [Tales Of Arise: The Kotaku Review](https://kotaku.com/tales-of-arise-the-kotaku-review-1847682321)
+ - [Doom mod resurrects Margaret Thatcher as a Cyberdemon](https://www.polygon.com/22676226/margaret-thatcher-doom-mod-thatchers-techbase-soundtrack)
+ - [Battlefield 2042 delayed to November](https://www.polygon.com/22675462/battlefield-2042-release-date-delayed-beta)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
