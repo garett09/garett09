@@ -188,9 +188,9 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [SIM swapper charged in cryptocurrency theft scheme](https://www.theverge.com/2021/9/15/22675709/sim-swapping-crypto-theft-iphone-8)
- - [In growth marketing, signal determines success](http://feedproxy.google.com/~r/Techcrunch/~3/tfv9QHhCNL8/)
- - [With AirPods 3 missing, Marshall releases new true wireless earbuds](https://appleinsider.com/articles/21/09/15/with-airpods-3-missing-marshall-releases-new-true-wireless-earbuds?utm_medium=rss)<!-- TECH:END -->
+ - [Adobe says it will launch a payment service via PayPal for Adobe Commerce by the end of the year, adding native payments to customers' digital storefronts (Larry Dignan/ZDNet)](http://www.techmeme.com/210915/p40#a210915p40)
+ - [Compared: Apple Watch SE versus Apple Watch Series 6 versus Apple Watch Series 7](https://appleinsider.com/articles/21/09/15/compared-apple-watch-se-versus-apple-watch-series-6-versus-apple-watch-series-7?utm_medium=rss)
+ - [OpenSea product chief accused of flipping NFTs using insider information](https://www.theverge.com/2021/9/15/22676075/opensea-insider-information-nft-trading-nate-chastain)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
