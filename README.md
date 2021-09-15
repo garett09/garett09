@@ -181,9 +181,9 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Seven Years With Destiny](https://kotaku.com/seven-years-with-destiny-1847679379)
- - [New Nintendo Switch update enables Bluetooth audio](https://www.polygon.com/22675377/nintendo-switch-bluetooth-audio-update-headphones-microphone)
- - [Hunt down a resurrected Maggie Thatcher in this frightfully British Doom campaign](https://www.pcgamer.com/hunt-down-a-resurrected-maggie-thatcher-in-this-frightfully-british-doom-campaign)<!-- GAME:END -->
+ - [Xbox Celebrates Hispanic Heritage Month](https://news.xbox.com/en-us/2021/09/15/xbox-celebrates-hispanic-heritage-month/)
+ - [Six Settings That Help Deathloop Run More Smoothly On PC](https://kotaku.com/six-settings-that-help-deathloop-run-more-smoothly-on-p-1847679785)
+ - [Seven Years With Destiny](https://kotaku.com/seven-years-with-destiny-1847679379)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
