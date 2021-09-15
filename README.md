@@ -188,9 +188,9 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [ProRes in 4K limited to iPhone 13 models with 256GB of storage or more](https://appleinsider.com/articles/21/09/15/prores-in-4k-limited-to-iphone-13-models-with-256gb-of-storage-or-more?utm_medium=rss)
- - [Xiaomi 11T Pro review: Lightning-quick charging meets middling cameras](https://www.androidauthority.com/xiaomi-11t-pro-review-3018488/)
- - [Xiaomi 11T series launched: Affordable flagships without the Mi name](https://www.androidauthority.com/xiaomi-11t-series-3024327/)<!-- TECH:END -->
+ - [Watch SpaceX launch the first all-civilian Inspiration4 mission to space live](http://feedproxy.google.com/~r/Techcrunch/~3/k55bFzs8huw/)
+ - [Xiaomi unveils 11-inch Pad 5 tablet, starting at &euro;349, an updated Mi Smart Band 6 with NFC for &euro;55, and Mi Smart Projector 2 with Google Assistant for &euro;599 (Mariella Moon/Engadget)](http://www.techmeme.com/210915/p26#a210915p26)
+ - [Xiaomi launches its flagship 11T series, including the 11T Pro with 120W fast charging, claiming 100% charge in 17 minutes, starting at &euro;649 (Sam Byford/The Verge)](http://www.techmeme.com/210915/p25#a210915p25)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
