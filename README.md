@@ -188,9 +188,9 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [With AirPods 3 missing, Marshall releases new true wireless earbuds](https://appleinsider.com/articles/21/09/15/with-airpods-3-missing-marshall-releases-new-true-wireless-earbuds?utm_medium=rss)
- - [Deep Vision, which develops AI accelerator chips and software for edge computing workloads, raises $35M Series B led by Tiger Global (Kyle Wiggers/VentureBeat)](http://www.techmeme.com/210915/p38#a210915p38)
- - [Clubhouse hires a head of news from NPR to build out publisher relationships](http://feedproxy.google.com/~r/Techcrunch/~3/KISNbnPt8IQ/)<!-- TECH:END -->
+ - [SIM swapper charged in cryptocurrency theft scheme](https://www.theverge.com/2021/9/15/22675709/sim-swapping-crypto-theft-iphone-8)
+ - [In growth marketing, signal determines success](http://feedproxy.google.com/~r/Techcrunch/~3/tfv9QHhCNL8/)
+ - [With AirPods 3 missing, Marshall releases new true wireless earbuds](https://appleinsider.com/articles/21/09/15/with-airpods-3-missing-marshall-releases-new-true-wireless-earbuds?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
