@@ -195,9 +195,9 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [EeeeEEEEeeeehhhh!!!](http://9gag.com/gag/anQ6xQn)
- - 🚯 [How to not take a shortcut with your children](http://9gag.com/gag/azMnKnN)
- - 🚯 [I am this old](http://9gag.com/gag/aGpXMn5)<!-- MEMES:END -->
+ - 🚖 [They&#039;ll buy everything](http://9gag.com/gag/aV7AZb8)
+ - 🚯 [Sh*t here we go...](http://9gag.com/gag/azMnO9m)
+ - 🚯 [The ultimate truth](http://9gag.com/gag/a9Eo8BL)<!-- MEMES:END -->
 
 --- 
 
