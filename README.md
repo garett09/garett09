@@ -188,9 +188,9 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Patient monitoring startup Doccla secures $3.3M Seed funding for ‘virtual wards’ platform](http://feedproxy.google.com/~r/Techcrunch/~3/pxiiTKezioo/)
- - [Online classifieds marketplace Carousell raises $100M at a $1.1B valuation led by STIC Investments, becoming Singapore's latest tech unicorn (Yoolim Lee/Bloomberg)](http://www.techmeme.com/210915/p9#a210915p9)
- - [Instagram internal research: ‘We make body image issues worse for one in three teen girls’](https://www.theverge.com/2021/9/15/22675130/facebook-instagram-teens-mental-health-damage-internal-research)<!-- TECH:END -->
+ - [Tim Cook talks AR, iPad mini, and Apple's virtual launch event](https://appleinsider.com/articles/21/09/15/tim-cook-talks-ar-ipad-mini-and-apples-virtual-launch-event?utm_medium=rss)
+ - [In its first post-IPO earnings, Darktrace reports FY 2021 revenue rose 41% YoY to $281M, operating loss rose to $38.5M, and it has 5,605 customers, up 45% YoY (Daniel Thomas/Financial Times)](http://www.techmeme.com/210915/p12#a210915p12)
+ - [Amazon is offering UK Prime members access to Deliveroo Plus, its free delivery service, for one year on orders over &pound;25 (Ivan Levingston/Bloomberg)](http://www.techmeme.com/210915/p11#a210915p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
