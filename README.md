@@ -195,9 +195,9 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [EeeeEEEEeeeehhhh!!!](http://9gag.com/gag/anQ6xQn)
- - 🚯 [Some restaurants be like](http://9gag.com/gag/apNOAPD)
- - 🚯 [Apple Design Team making the new iPhone 13](http://9gag.com/gag/axM5bDp)<!-- MEMES:END -->
+ - 🚖 [Do the math, its actually true](http://9gag.com/gag/aZ0e22X)
+ - 🚯 [Delusional](http://9gag.com/gag/ajmpxx0)
+ - 🚯 [When Eminem finally can c*** on TV](http://9gag.com/gag/aQoG218)<!-- MEMES:END -->
 
 --- 
 
