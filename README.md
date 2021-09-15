@@ -188,9 +188,9 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to back up your iPhone with or without iCloud](https://www.theverge.com/22673693/iphone-apple-backup-ios-icloud)
- - [Compared: iPhone 13 mini iPhone 12 mini vs iPhone SE](https://appleinsider.com/articles/21/09/15/compared-iphone-13-mini-iphone-12-mini-vs-iphone-se?utm_medium=rss)
- - [How to move all your data to your new iPhone](https://www.theverge.com/22671906/iphone-data-transfer-ios-icloud-upgrade)<!-- TECH:END -->
+ - [Check out the amazing speakers joining us on Extra Cru… ahem, TechCrunch Live](http://feedproxy.google.com/~r/Techcrunch/~3/7oGa-PBde3s/)
+ - [Yes, real Google Pixel 6 potato chips in Japan were briefly available. Tasty.](https://www.androidauthority.com/google-pixel-6-chips-3024747/)
+ - [Microsoft now lets you sign-in without a password](http://feedproxy.google.com/~r/Techcrunch/~3/k-bxW9EX0oY/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
