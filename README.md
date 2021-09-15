@@ -188,9 +188,9 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Taiwanese group says Apple harms on consumers by not including charger with iPhone](https://appleinsider.com/articles/21/09/15/taiwanese-group-says-apple-harms-on-consumers-by-not-including-charger-with-iphone?utm_medium=rss)
- - [Become a true impostor with an official Among Us costume](https://www.theverge.com/tldr/2021/9/15/22676173/among-us-official-costume-impostor-crewmate)
- - [Tiger Global-led $100M investment makes Apna India’s fastest unicorn](http://feedproxy.google.com/~r/Techcrunch/~3/WLc_8G44R_U/)<!-- TECH:END -->
+ - [Apple hit with lawsuit claiming M1 MacBook screens are 'defective'](https://appleinsider.com/articles/21/09/15/apple-hit-with-lawsuit-claiming-m1-macbook-screens-are-defective?utm_medium=rss)
+ - [Google’s rumored Pixel 6 Tensor processor sounds extremely weird](https://www.theverge.com/2021/9/15/22676099/google-pixel-6-tensor-processor-rumor-arm-cortex-x1-core-mystery-strange)
+ - [Hands on with all the new watch faces coming to Apple Watch with watchOS 8](https://appleinsider.com/articles/21/09/15/hands-on-with-all-the-new-watch-faces-coming-to-apple-watch-with-watchos-8?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
