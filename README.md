@@ -195,9 +195,9 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Taking the meaning of scumbag to another level](http://9gag.com/gag/aYo9OVm)
- - 🚯 [Trying to randomly break into someone house.](http://9gag.com/gag/anQ6RQb)
- - 🚯 [RIP Norm](http://9gag.com/gag/abV71bB)<!-- MEMES:END -->
+ - 🚖 [4 minute break. From everything else .](http://9gag.com/gag/aoMXRNX)
+ - 🚯 [&quot;Just friends&quot;](http://9gag.com/gag/awMwmjR)
+ - 🚯 [Building Swedish log torch to heat up a tent using a metal pipe...](http://9gag.com/gag/aYo9O2V)<!-- MEMES:END -->
 
 --- 
 
