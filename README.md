@@ -195,9 +195,9 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Handy tip](http://9gag.com/gag/aRXnMDj)
- - 🚯 [Building Swedish log torch to heat up a tent using a metal pipe...](http://9gag.com/gag/aYo9O2V)
- - 🚯 [Don&#039;t listen to the theories of others](http://9gag.com/gag/ayMG6mY)<!-- MEMES:END -->
+ - 🚖 [Best way to throw garbage](http://9gag.com/gag/aoMXRv2)
+ - 🚯 [Sportsmanship](http://9gag.com/gag/aWjzLRA)
+ - 🚯 [&quot;Just friends&quot;](http://9gag.com/gag/awMwmjR)<!-- MEMES:END -->
 
 --- 
 
