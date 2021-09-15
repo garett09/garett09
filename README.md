@@ -181,9 +181,9 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Microsoft doubles down on confusing TPM 2.0 requirement for Windows 11](https://www.pcgamer.com/microsoft-doubles-down-on-confusing-tpm-20-requirement-for-windows-11)
- - [Valheim Hearth and Home update: Everything we know](https://www.pcgamer.com/valheim-hearth-and-home-update-release-date)
- - [Early Intel Alder Lake prices could take the fight to the heart of AMD Ryzen](https://www.pcgamer.com/early-intel-alder-lake-prices-could-take-the-fight-to-the-heart-of-amd-ryzen)<!-- GAME:END -->
+ - [Pulse 3D Wireless Headset in Midnight Black launches next month](https://blog.playstation.com/2021/09/15/pulse-3d-wireless-headset-in-midnight-black-launches-next-month/)
+ - [Eastward has its own fully playable 8-bit RPG](https://www.polygon.com/22674445/eastward-chucklefish-8-bit-rpg-earth-born)
+ - [This 24.5-inch Asus IPS gaming monitor goes all the way to 280Hz for just $244](https://www.pcgamer.com/this-245-inch-asus-ips-gaming-monitor-goes-all-the-way-to-280hz-for-just-dollar244)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
