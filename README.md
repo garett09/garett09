@@ -195,9 +195,9 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Love this song](http://9gag.com/gag/arMYA87)
- - 🚯 [Turn down for WHAT?](http://9gag.com/gag/awMwm1B)
- - 🚯 [Just a thought,](http://9gag.com/gag/aK6R9wb)<!-- MEMES:END -->
+ - 🚖 [Taking the meaning of scumbag to another level](http://9gag.com/gag/aYo9OVm)
+ - 🚯 [Just a thought,](http://9gag.com/gag/aK6R9wb)
+ - 🚯 [Please, send help](http://9gag.com/gag/aP35Pew)<!-- MEMES:END -->
 
 --- 
 
