@@ -188,9 +188,9 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple refutes FlickType developer's account of App Store issues](https://appleinsider.com/articles/21/09/15/apple-refutes-flicktype-developers-account-of-app-store-issues?utm_medium=rss)
- - [OpenSea admits incident as top exec is accused of trading NFTs on insider information](http://feedproxy.google.com/~r/Techcrunch/~3/d3Mn9V99-Co/)
- - [After being sued by the state of California, Activision Blizzard is sued by a group representing employees, alleging it tried to prevent them from organizing (Ash Parrish/The Verge)](http://www.techmeme.com/210915/p36#a210915p36)<!-- TECH:END -->
+ - [The iPhone 13 is a pitch-perfect iPhone 12S](https://www.theverge.com/2021/9/15/22675797/iphone-13-12s-upgrade-cycle-iterative-improvements)
+ - [Canon announces $6000 EOS R3 full-frame mirrorless camera](https://appleinsider.com/articles/21/09/15/canon-announces-6000-eos-r3-full-frame-mirrorless-camera?utm_medium=rss)
+ - [Galaxy S21 Ultra finally gets eSIM support, but there’s a catch](https://www.androidauthority.com/galaxy-s21-ultra-esim-3024814/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
