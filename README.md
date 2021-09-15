@@ -181,9 +181,9 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [A board gaming accessory that you actually need](https://www.polygon.com/tabletop-games/22675977/lax-rax-ikea-kallax-board-game-shelf-system-upgrade-kickstarter)
- - [Fallout 76 role-players are staging in-game plays and productions](https://www.polygon.com/22676053/fallout-76-the-theatre-company-northern-harvester-plays-productions)
- - [World Flipper Is An Uneven Combination Of Gacha, Pinball, And JRPG](https://kotaku.com/world-flipper-is-an-uneven-combination-of-gacha-pinbal-1847682273)<!-- GAME:END -->
+ - [Confessions of a former Legolas fangirl](https://www.polygon.com/lord-of-the-rings/22676014/lotr-orlando-bloom-legolas-fangirls)
+ - [343 shoots down Nvidia leak: Halo 5 is not coming to PC](https://www.pcgamer.com/343-shoots-down-nvidia-leak-halo-5-is-not-coming-to-pc)
+ - [Dance to the beat of dead air in Life is Strange: True Colors' hilarious (and concerning) streamer mode](https://www.pcgamer.com/life-is-strange-streamer-mode)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
