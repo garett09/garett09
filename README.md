@@ -181,9 +181,9 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [PlayStation Plus Double Discounts promotion comes to PlayStation Store](http://feedproxy.google.com/~r/PSBlog/~3/-YCnE75NC_M/)
- - [PlayStation Plus Double Discounts promotion comes to PlayStation Store](https://blog.playstation.com/2021/09/14/playstation-plus-double-discounts-promotion-comes-to-playstation-store-2/)
- - [Warhammer 40,000 YouTuber 3D prints Dawn of War buildings for tabletop games](https://www.pcgamer.com/warhammer-dawn-of-war-terrain-3d-model)<!-- GAME:END -->
+ - [Tactical roguelike Synthetik 2 will be out in November](https://www.pcgamer.com/tactical-roguelike-synthetik-2-will-be-out-in-november)
+ - [The best PC games right now](https://www.pcgamer.com/best-pc-games)
+ - [PlayStation Plus Double Discounts promotion comes to PlayStation Store](http://feedproxy.google.com/~r/PSBlog/~3/-YCnE75NC_M/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
