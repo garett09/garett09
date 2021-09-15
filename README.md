@@ -181,9 +181,9 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Pulse 3D Wireless Headset in Midnight Black launches next month](https://blog.playstation.com/2021/09/15/pulse-3d-wireless-headset-in-midnight-black-launches-next-month/)
- - [Eastward has its own fully playable 8-bit RPG](https://www.polygon.com/22674445/eastward-chucklefish-8-bit-rpg-earth-born)
- - [This 24.5-inch Asus IPS gaming monitor goes all the way to 280Hz for just $244](https://www.pcgamer.com/this-245-inch-asus-ips-gaming-monitor-goes-all-the-way-to-280hz-for-just-dollar244)<!-- GAME:END -->
+ - [PlayStation’s official wireless headset now comes in black](https://www.polygon.com/22675333/ps5-headset-pulse-3d-midnight-black-release-date-price)
+ - [Defeat the hordes when BPM: Bullets Per Minute arrives October 5](http://feedproxy.google.com/~r/PSBlog/~3/j5zv6yiR4eU/)
+ - [Defeat the hordes when BPM: Bullets Per Minute arrives October 5](https://blog.playstation.com/2021/09/15/defeat-the-hordes-when-bpm-bullets-per-minute-arrives-october-5/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
