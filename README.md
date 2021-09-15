@@ -181,9 +181,9 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Pokémon Unite Players Sure Don't Like Surrendering](https://kotaku.com/pokemon-unite-players-sure-dont-like-surrendering-1847683370)
  - [Tales Of Arise: The Kotaku Review](https://kotaku.com/tales-of-arise-the-kotaku-review-1847682321)
- - [Doom mod resurrects Margaret Thatcher as a Cyberdemon](https://www.polygon.com/22676226/margaret-thatcher-doom-mod-thatchers-techbase-soundtrack)
- - [Battlefield 2042 delayed to November](https://www.polygon.com/22675462/battlefield-2042-release-date-delayed-beta)<!-- GAME:END -->
+ - [Doom mod resurrects Margaret Thatcher as a Cyberdemon](https://www.polygon.com/22676226/margaret-thatcher-doom-mod-thatchers-techbase-soundtrack)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
