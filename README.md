@@ -188,9 +188,9 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The iPhone 13 is a pitch-perfect iPhone 12S](https://www.theverge.com/2021/9/15/22675797/iphone-13-12s-upgrade-cycle-iterative-improvements)
- - [Canon announces $6000 EOS R3 full-frame mirrorless camera](https://appleinsider.com/articles/21/09/15/canon-announces-6000-eos-r3-full-frame-mirrorless-camera?utm_medium=rss)
- - [Galaxy S21 Ultra finally gets eSIM support, but there’s a catch](https://www.androidauthority.com/galaxy-s21-ultra-esim-3024814/)<!-- TECH:END -->
+ - [With AirPods 3 missing, Marshall releases new true wireless earbuds](https://appleinsider.com/articles/21/09/15/with-airpods-3-missing-marshall-releases-new-true-wireless-earbuds?utm_medium=rss)
+ - [Deep Vision, which develops AI accelerator chips and software for edge computing workloads, raises $35M Series B led by Tiger Global (Kyle Wiggers/VentureBeat)](http://www.techmeme.com/210915/p38#a210915p38)
+ - [Clubhouse hires a head of news from NPR to build out publisher relationships](http://feedproxy.google.com/~r/Techcrunch/~3/KISNbnPt8IQ/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
