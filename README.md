@@ -188,9 +188,9 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Adobe says it will launch a payment service via PayPal for Adobe Commerce by the end of the year, adding native payments to customers' digital storefronts (Larry Dignan/ZDNet)](http://www.techmeme.com/210915/p40#a210915p40)
- - [Compared: Apple Watch SE versus Apple Watch Series 6 versus Apple Watch Series 7](https://appleinsider.com/articles/21/09/15/compared-apple-watch-se-versus-apple-watch-series-6-versus-apple-watch-series-7?utm_medium=rss)
- - [OpenSea product chief accused of flipping NFTs using insider information](https://www.theverge.com/2021/9/15/22676075/opensea-insider-information-nft-trading-nate-chastain)<!-- TECH:END -->
+ - [Fitbit adds another key sleep feature to the Sense and Versa 3](https://www.androidauthority.com/fitbit-snoring-3024825/)
+ - [Moment expands accessory range to iPhone 13, AirPods, Apple Watch](https://appleinsider.com/articles/21/09/15/moment-expands-accessory-range-to-iphone-13-airpods-apple-watch?utm_medium=rss)
+ - ['Ted Lasso' wins the three biggest Television Critics Association awards](https://appleinsider.com/articles/21/09/15/ted-lasso-wins-the-three-biggest-television-critics-association-awards?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
