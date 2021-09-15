@@ -181,9 +181,9 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The Stellaris 'Lem' update brings a new strategy of free updates to past DLC](https://www.pcgamer.com/the-stellaris-lem-update-brings-a-new-strategy-of-free-updates-to-past-dlc)
  - [Nendoroid And Figma Company Sued Over Mistreatment, Sexualized Toys](https://kotaku.com/nendoroid-and-figma-company-sued-over-mistreatment-sex-1847684279)
- - [New World players are squabbling over whether the MMO needs horses](https://www.pcgamer.com/new-world-players-are-squabbling-over-whether-the-mmo-needs-horses)
- - [Chasing Static is a PS1-style horror game that turns rural Wales into Silent Hill](https://www.pcgamer.com/chasing-static)<!-- GAME:END -->
+ - [New World players are squabbling over whether the MMO needs horses](https://www.pcgamer.com/new-world-players-are-squabbling-over-whether-the-mmo-needs-horses)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
