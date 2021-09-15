@@ -181,9 +181,9 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [New From Razer: Gamer Thumb Condoms](https://kotaku.com/new-from-razer-gamer-thumb-condoms-1847683801)
- - [Pokémon Unite Players Sure Don't Like Surrendering](https://kotaku.com/pokemon-unite-players-sure-dont-like-surrendering-1847683370)
- - [Tales Of Arise: The Kotaku Review](https://kotaku.com/tales-of-arise-the-kotaku-review-1847682321)<!-- GAME:END -->
+ - [Nendoroid And Figma Company Sued Over Mistreatment, Sexualized Toys](https://kotaku.com/nendoroid-and-figma-company-sued-over-mistreatment-sex-1847684279)
+ - [New World players are squabbling over whether the MMO needs horses](https://www.pcgamer.com/new-world-players-are-squabbling-over-whether-the-mmo-needs-horses)
+ - [Chasing Static is a PS1-style horror game that turns rural Wales into Silent Hill](https://www.pcgamer.com/chasing-static)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
