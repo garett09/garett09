@@ -188,9 +188,9 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tim Cook talks AR, iPad mini, and Apple's virtual launch event](https://appleinsider.com/articles/21/09/15/tim-cook-talks-ar-ipad-mini-and-apples-virtual-launch-event?utm_medium=rss)
- - [In its first post-IPO earnings, Darktrace reports FY 2021 revenue rose 41% YoY to $281M, operating loss rose to $38.5M, and it has 5,605 customers, up 45% YoY (Daniel Thomas/Financial Times)](http://www.techmeme.com/210915/p12#a210915p12)
- - [Amazon is offering UK Prime members access to Deliveroo Plus, its free delivery service, for one year on orders over &pound;25 (Ivan Levingston/Bloomberg)](http://www.techmeme.com/210915/p11#a210915p11)<!-- TECH:END -->
+ - [This new Galaxy Watch 4 variant could help you get a hole-in-one](https://www.androidauthority.com/samsung-galaxy-watch-4-golf-edition-3024531/)
+ - [Enrollment algorithms used by colleges intentionally reduce scholarships and may lead to crises of student loan debt, college dropout, and racial inequity (Alex Engler/Tech Policy Press)](http://www.techmeme.com/210915/p18#a210915p18)
+ - [Apple says it every year, but the iPhone 13 cameras do seem much improved](https://www.theverge.com/2021/9/15/22675127/apple-iphone-13-pro-max-camera-analysis-specs)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
