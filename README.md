@@ -181,9 +181,9 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Gamer Dislocates Shoulder While Celebrating Tournament Victory](https://kotaku.com/gamer-dislocates-shoulder-while-celebrating-tournament-1847684447)
  - [The Stellaris 'Lem' update brings a new strategy of free updates to past DLC](https://www.pcgamer.com/the-stellaris-lem-update-brings-a-new-strategy-of-free-updates-to-past-dlc)
- - [Nendoroid And Figma Company Sued Over Mistreatment, Sexualized Toys](https://kotaku.com/nendoroid-and-figma-company-sued-over-mistreatment-sex-1847684279)
- - [New World players are squabbling over whether the MMO needs horses](https://www.pcgamer.com/new-world-players-are-squabbling-over-whether-the-mmo-needs-horses)<!-- GAME:END -->
+ - [Nendoroid And Figma Company Sued Over Mistreatment, Sexualized Toys](https://kotaku.com/nendoroid-and-figma-company-sued-over-mistreatment-sex-1847684279)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
