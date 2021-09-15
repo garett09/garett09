@@ -181,9 +181,9 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Nintendo Finally Adds Bluetooth Audio to the Switch](https://kotaku.com/nintendo-finally-adds-bluetooth-audio-to-the-switch-1847678157)
  - [Tactical roguelike Synthetik 2 will be out in November](https://www.pcgamer.com/tactical-roguelike-synthetik-2-will-be-out-in-november)
- - [The best PC games right now](https://www.pcgamer.com/best-pc-games)
- - [PlayStation Plus Double Discounts promotion comes to PlayStation Store](http://feedproxy.google.com/~r/PSBlog/~3/-YCnE75NC_M/)<!-- GAME:END -->
+ - [The best PC games right now](https://www.pcgamer.com/best-pc-games)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
