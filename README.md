@@ -188,9 +188,9 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Folk helps you share contacts with your team](http://feedproxy.google.com/~r/Techcrunch/~3/8LLUxAoCjrQ/)
- - [Swedish caller-identification service Truecaller seeks to raise over $100 million in IPO](http://feedproxy.google.com/~r/Techcrunch/~3/L8Q42aKRhxE/)
- - [A look at a recently-patched flaw in Travis CI, a testing tool used by 900K+ open source projects, as Travis CI comes under fire for its bug disclosure process (Ax Sharma/Ars Technica)](http://www.techmeme.com/210915/p5#a210915p5)<!-- TECH:END -->
+ - [Unicode Consortium launches version 14.0 with a total of 112 new emoji, including multiracial handshake, melting face, saluting face, and heart hands (Keith Broni/Emojipedia)](http://www.techmeme.com/210915/p7#a210915p7)
+ - [Nigerian agritech startup Releaf secures $4.2M to scale its food processing technology](http://feedproxy.google.com/~r/Techcrunch/~3/HHawl5zlg4Q/)
+ - [Swedish caller ID and spam blocking service Truecaller seeks to raise $116M in Stockholm IPO at a valuation of about $3B (Manish Singh/TechCrunch)](http://www.techmeme.com/210915/p6#a210915p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
