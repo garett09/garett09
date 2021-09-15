@@ -188,9 +188,9 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The iPhone 13 event was a case study in Tim Cook-era product refinement](https://www.theverge.com/2021/9/15/22676532/apple-event-iphone-13-incremental-refinement-upgrade-specs)
- - [Watch SpaceX launch the first all-civilian Inspiration4 mission to space live](http://feedproxy.google.com/~r/Techcrunch/~3/k55bFzs8huw/)
- - [iPhone 13 Pro GPU benchmarks show 55% improvement over iPhone 12 Pro](https://appleinsider.com/articles/21/09/15/iphone-13-pro-gpu-benchmarks-show-55-improvement-over-iphone-12-pro?utm_medium=rss)<!-- TECH:END -->
+ - ['Tiny Wings+' set to debut on Apple Arcade soon](https://appleinsider.com/articles/21/09/15/tiny-wings-set-to-arrive-on-apple-arcade-soon?utm_medium=rss)
+ - [Samsung begins mass-producing 90Hz OLED laptop screens](https://www.theverge.com/2021/9/15/22676223/samsung-display-90hz-oled-laptop-screens-lenovo-asus)
+ - [Pay just $37.99 for an iProVPN lifetime plan, and more great VPN deals](https://www.androidauthority.com/best-vpn-deals-1122185/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
