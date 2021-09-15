@@ -195,9 +195,9 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [German Police Games 2021](http://9gag.com/gag/aYo9MNq)
- - 🚯 [Bad dog](http://9gag.com/gag/ayMGWKM)
- - 🚯 [Same shit every year , no more Apple mania](http://9gag.com/gag/aV7AZrn)<!-- MEMES:END -->
+ - 🚖 [Bad dog](http://9gag.com/gag/ayMGWKM)
+ - 🚯 [Same shit every year , no more Apple mania](http://9gag.com/gag/aV7AZrn)
+ - 🚯 [EeeeEEEEeeeehhhh!!!](http://9gag.com/gag/anQ6xQn)<!-- MEMES:END -->
 
 --- 
 
