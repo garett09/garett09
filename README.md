@@ -188,9 +188,9 @@ Windows                  7 hrs 15 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [AppleCare+ reduces service fee for iPhone back glass damage](https://appleinsider.com/articles/21/09/14/applecare-reduces-service-fee-for-iphone-back-glass-damage?utm_medium=rss)
- - [US carriers debut promotional offers for iPhone 13, iPhone 13 Pro [u]](https://appleinsider.com/articles/21/09/14/us-carriers-debut-promotional-offers-for-iphone-13-iphone-13-pro?utm_medium=rss)
- - [Supply chain and logistics cloud software startup Stord raises $90M Series D at a $1.1B post-money valuation and acquires DTC logistics firm Fulfillment Works (Mary Ann Azevedo/TechCrunch)](http://www.techmeme.com/210914/p54#a210914p54)<!-- TECH:END -->
+ - [Microsoft board of directors approves the appointment of Brad Smith to the position of vice chair (Jordan Novet/CNBC)](http://www.techmeme.com/210914/p55#a210914p55)
+ - [Sell your used Apple device, get a 10% cash bonus ahead of the iPhone 13](https://appleinsider.com/articles/21/09/08/sell-your-used-apple-device-get-a-10-cash-bonus-ahead-of-the-iphone-13?utm_medium=rss)
+ - [The Holmes trial gets into the Excel nitty-gritty](https://www.theverge.com/2021/9/14/22674657/elizabeth-holmes-theranos-trial-wire-fraud-financial-witness)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
