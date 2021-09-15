@@ -196,8 +196,8 @@ Windows                  9 hrs 4 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [When Eminem finally can c*** on TV](http://9gag.com/gag/aQoG218)
- - 🚯 [Do the math, its actually true](http://9gag.com/gag/aZ0e22X)
- - 🚯 [Machine for recycling rebar](http://9gag.com/gag/aQoGZbz)<!-- MEMES:END -->
+ - 🚯 [Machine for recycling rebar](http://9gag.com/gag/aQoGZbz)
+ - 🚯 [Do the math, its actually true](http://9gag.com/gag/aZ0e22X)<!-- MEMES:END -->
 
 --- 
 
