@@ -188,9 +188,9 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Check out the amazing speakers joining us on Extra Cru… ahem, TechCrunch Live](http://feedproxy.google.com/~r/Techcrunch/~3/7oGa-PBde3s/)
- - [Yes, real Google Pixel 6 potato chips in Japan were briefly available. Tasty.](https://www.androidauthority.com/google-pixel-6-chips-3024747/)
- - [Microsoft now lets you sign-in without a password](http://feedproxy.google.com/~r/Techcrunch/~3/k-bxW9EX0oY/)<!-- TECH:END -->
+ - [Lenovo Yoga Tab 13 review: Redesigning the premium Android tablet](https://www.androidauthority.com/lenovo-yoga-tab-13-review-2745885/)
+ - [Ford and Argo AI will deliver your Walmart order in an autonomous car     - Roadshow](https://www.cnet.com/roadshow/news/ford-walmart-delivery-autonomous-car-argo-ai/#ftag=CAD590a51e)
+ - [Tim Cook, Elon Musk among Time's 100 most influential people of 2021     - CNET](https://www.cnet.com/news/tim-cook-elon-musk-among-times-100-most-influential-people-of-2021/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
