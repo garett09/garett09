@@ -181,9 +181,9 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Introducing Superstar X-Factors in NHL 22](https://news.xbox.com/en-us/2021/09/15/introducing-superstar-x-factors-in-nhl-22/)
  - [FIFA 22’s HyperMotion is ‘the beginning of machine learning taking over animation’](https://www.polygon.com/22675796/fifa-22-hypermotion-motion-capture-new-realism)
- - [After 10,000 Years, Rita Repulsa Joins The Power Rangers Fighting Game](https://kotaku.com/after-10-000-years-rita-repulsa-joins-the-power-ranger-1847681475)
- - [Marvel’s new webcomics line needed more time to bake](https://www.polygon.com/reviews/2021/9/15/22673844/marvel-infinity-comics-how-to-read-unlimited-baby-shark-jeff)<!-- GAME:END -->
+ - [Fortnite exotic weapons: All season 8 locations](https://www.pcgamer.com/fortnite-mythic-weapons-season-8)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
