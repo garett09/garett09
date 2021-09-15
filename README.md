@@ -188,9 +188,9 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lenovo Yoga Tab 13 review: Redesigning the premium Android tablet](https://www.androidauthority.com/lenovo-yoga-tab-13-review-2745885/)
- - [Ford and Argo AI will deliver your Walmart order in an autonomous car     - Roadshow](https://www.cnet.com/roadshow/news/ford-walmart-delivery-autonomous-car-argo-ai/#ftag=CAD590a51e)
- - [Tim Cook, Elon Musk among Time's 100 most influential people of 2021     - CNET](https://www.cnet.com/news/tim-cook-elon-musk-among-times-100-most-influential-people-of-2021/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Compared: iPhone 13 Pro and iPhone 13 Pro Max vs iPhone 12 Pro and iPhone 12 Pro Max](https://appleinsider.com/articles/21/09/14/compared-iphone-13-pro-and-iphone-13-pro-max-vs-iphone-12-pro-and-iphone-12-pro-max?utm_medium=rss)
+ - [Workhorse abruptly drops lawsuit against Postal Service over new mail truck](https://www.theverge.com/2021/9/15/22675630/workhorse-usps-mail-truck-bid-protest-dropped-oshkosh)
+ - [Compared: iPad mini 6 versus iPad mini 5](https://appleinsider.com/articles/21/09/15/compared-ipad-mini-6-versus-ipad-mini-5?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
