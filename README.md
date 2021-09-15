@@ -188,9 +188,9 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Relyance AI, which builds tools to help companies comply with privacy laws at the code level, emerges from stealth with $25M Series A and $5M seed (Ron Miller/TechCrunch)](http://www.techmeme.com/210915/p32#a210915p32)
- - [The Xiaomi Pad 5 tablet goes global, will launch in Europe for €349](https://www.androidauthority.com/xiaomi-pad-5-global-3024677/)
- - [Constructor, which helps companies optimize e-commerce listings using AI, raises $55M Series A led by Silversmith Capital (Kyle Wiggers/VentureBeat)](http://www.techmeme.com/210915/p31#a210915p31)<!-- TECH:END -->
+ - [How to back up your iPhone with or without iCloud](https://www.theverge.com/22673693/iphone-apple-backup-ios-icloud)
+ - [Compared: iPhone 13 mini iPhone 12 mini vs iPhone SE](https://appleinsider.com/articles/21/09/15/compared-iphone-13-mini-iphone-12-mini-vs-iphone-se?utm_medium=rss)
+ - [How to move all your data to your new iPhone](https://www.theverge.com/22671906/iphone-data-transfer-ios-icloud-upgrade)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
