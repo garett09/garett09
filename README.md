@@ -188,9 +188,9 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Good 4 who? How music copyright has gone too far](https://www.theverge.com/22672704/olivia-rodrigo-switched-on-pop-charlie-harding-music-copyright)
- - [Compared: iPhone 13 & iPhone 13 mini versus iPhone 12 & iPhone 12 mini](https://appleinsider.com/articles/21/09/14/compared-iphone-13-iphone-13-mini-versus-iphone-12-iphone-12-mini?utm_medium=rss)
- - [Canadian company Rewind, which offers data backup and recovery tools for SaaS apps, raises $65M Series B, following $15M Series A in January (Paul Sawers/VentureBeat)](http://www.techmeme.com/210915/p28#a210915p28)<!-- TECH:END -->
+ - [Relyance AI, which builds tools to help companies comply with privacy laws at the code level, emerges from stealth with $25M Series A and $5M seed (Ron Miller/TechCrunch)](http://www.techmeme.com/210915/p32#a210915p32)
+ - [The Xiaomi Pad 5 tablet goes global, will launch in Europe for €349](https://www.androidauthority.com/xiaomi-pad-5-global-3024677/)
+ - [Constructor, which helps companies optimize e-commerce listings using AI, raises $55M Series A led by Silversmith Capital (Kyle Wiggers/VentureBeat)](http://www.techmeme.com/210915/p31#a210915p31)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
