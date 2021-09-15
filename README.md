@@ -188,9 +188,9 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Compared: iPhone 13 Pro and iPhone 13 Pro Max vs iPhone 12 Pro and iPhone 12 Pro Max](https://appleinsider.com/articles/21/09/14/compared-iphone-13-pro-and-iphone-13-pro-max-vs-iphone-12-pro-and-iphone-12-pro-max?utm_medium=rss)
- - [Workhorse abruptly drops lawsuit against Postal Service over new mail truck](https://www.theverge.com/2021/9/15/22675630/workhorse-usps-mail-truck-bid-protest-dropped-oshkosh)
- - [Compared: iPad mini 6 versus iPad mini 5](https://appleinsider.com/articles/21/09/15/compared-ipad-mini-6-versus-ipad-mini-5?utm_medium=rss)<!-- TECH:END -->
+ - [Apple refutes FlickType developer's account of App Store issues](https://appleinsider.com/articles/21/09/15/apple-refutes-flicktype-developers-account-of-app-store-issues?utm_medium=rss)
+ - [OpenSea admits incident as top exec is accused of trading NFTs on insider information](http://feedproxy.google.com/~r/Techcrunch/~3/d3Mn9V99-Co/)
+ - [After being sued by the state of California, Activision Blizzard is sued by a group representing employees, alleging it tried to prevent them from organizing (Ash Parrish/The Verge)](http://www.techmeme.com/210915/p36#a210915p36)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
