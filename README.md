@@ -195,9 +195,9 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Innovation at its best](http://9gag.com/gag/apNOPqp)
- - 🚯 [Sweet time.](http://9gag.com/gag/a9EomBK)
- - 🚯 [Sh*t here we go...](http://9gag.com/gag/azMnO9m)<!-- MEMES:END -->
+ - 🚖 [Sweet time.](http://9gag.com/gag/a9EomBK)
+ - 🚯 [Sh*t here we go...](http://9gag.com/gag/azMnO9m)
+ - 🚯 [Same shit every year , no more Apple mania](http://9gag.com/gag/aV7AZrn)<!-- MEMES:END -->
 
 --- 
 
