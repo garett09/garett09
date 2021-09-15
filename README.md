@@ -188,9 +188,9 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Poll: Which iPhone 13 series phone are you thinking of buying?](https://www.androidauthority.com/iphone-13-model-buying-poll-3024329/)
- - [Unicode Consortium launches version 14.0 with a total of 112 new emoji, including multiracial handshake, melting face, saluting face, and heart hands (Keith Broni/Emojipedia)](http://www.techmeme.com/210915/p7#a210915p7)
- - [Nigerian agritech startup Releaf secures $4.2M to scale its food processing technology](http://feedproxy.google.com/~r/Techcrunch/~3/HHawl5zlg4Q/)<!-- TECH:END -->
+ - [Apple's iPhone 13 and 13 Pro are the first to support dual eSIM, expanding on support for eSIM and regular SIM in previous iPhones (Filipe Esp&oacute;sito/9to5Mac)](http://www.techmeme.com/210915/p8#a210915p8)
+ - [There’s a new bubbles emoji that’ll go just great with the peach](https://www.theverge.com/2021/9/15/22675134/unicode-emoji-version-14-bubbles-saluting-face-biting-lip-2021)
+ - [Poll: Which iPhone 13 series phone are you thinking of buying?](https://www.androidauthority.com/iphone-13-model-buying-poll-3024329/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
