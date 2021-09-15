@@ -188,9 +188,9 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chaldal, Bangladesh’s largest grocery delivery platform, raises $10M Series C](http://feedproxy.google.com/~r/Techcrunch/~3/chrlNx3R1pY/)
- - [The Nintendo Switch has finally received Bluetooth audio support](https://www.androidauthority.com/nintendo-switch-bluetooth-audio-3023224/)
- - [Apple Watch Series 7 uses same processor as predecessor](https://appleinsider.com/articles/21/09/15/apple-watch-series-7-uses-same-processor-as-predecessor?utm_medium=rss)<!-- TECH:END -->
+ - [Swedish caller-identification service Truecaller seeks to raise over $100 million in IPO](http://feedproxy.google.com/~r/Techcrunch/~3/L8Q42aKRhxE/)
+ - [A look at a recently-patched flaw in Travis CI, a testing tool used by 900K+ open source projects, as Travis CI comes under fire for its bug disclosure process (Ax Sharma/Ars Technica)](http://www.techmeme.com/210915/p5#a210915p5)
+ - [Chaldal, Bangladesh’s largest grocery delivery platform, raises $10M Series C](http://feedproxy.google.com/~r/Techcrunch/~3/chrlNx3R1pY/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
