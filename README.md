@@ -195,8 +195,8 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [4 minute break. From everything else .](http://9gag.com/gag/aoMXRNX)
- - 🚯 [&quot;Just friends&quot;](http://9gag.com/gag/awMwmjR)
+ - 🚖 [&quot;Just friends&quot;](http://9gag.com/gag/awMwmjR)
+ - 🚯 [Love this song](http://9gag.com/gag/arMYA87)
  - 🚯 [Building Swedish log torch to heat up a tent using a metal pipe...](http://9gag.com/gag/aYo9O2V)<!-- MEMES:END -->
 
 --- 
