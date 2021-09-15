@@ -195,9 +195,9 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Sean Astin and his daughter 20 years ago and now](http://9gag.com/gag/aGpXBQG)
- - 🚯 [Best way to throw garbage](http://9gag.com/gag/aoMXRv2)
- - 🚯 [Johnny Depp wearing a gold coin from Pirates of the Caribbean at the Met Gala](http://9gag.com/gag/ayMG6Db)<!-- MEMES:END -->
+ - 🚖 [Exactly..](http://9gag.com/gag/aP358RR)
+ - 🚯 [Guess it&rsquo;s inevitable](http://9gag.com/gag/aV7AKvP)
+ - 🚯 [Best way to throw garbage](http://9gag.com/gag/aoMXRv2)<!-- MEMES:END -->
 
 --- 
 
