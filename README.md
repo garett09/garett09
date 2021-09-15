@@ -188,9 +188,9 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple refutes FlickType developer's account of App Store issues](https://appleinsider.com/articles/21/09/15/apple-refutes-flicktype-developers-account-of-app-store-issues?utm_medium=rss)
  - [Report suggests Apple's A15 Bionic lacks significant CPU upgrades due to chip team brain drain](https://appleinsider.com/articles/21/09/15/report-suggests-apples-a15-bionic-lacks-significant-cpu-upgrades-due-to-chip-team-brain-drain?utm_medium=rss)
- - [Taiwanese group says Apple harms consumers by not including charger with iPhone](https://appleinsider.com/articles/21/09/15/taiwanese-group-says-apple-harms-on-consumers-by-not-including-charger-with-iphone?utm_medium=rss)<!-- TECH:END -->
+ - [Apna, whose networking app lets blue collar workers upskill and find jobs, raises $100M Series C led by Tiger Global, becoming India's youngest unicorn (Manish Singh/TechCrunch)](http://www.techmeme.com/210915/p44#a210915p44)
+ - [Apple's iOS 14.8 Pegasus security fix: iPhone owners urged to update immediately     - CNET](https://www.cnet.com/tech/services-and-software/apple-ios-14-8-pegasus-security-fix-iphone-owners-urged-to-update-immediately/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
