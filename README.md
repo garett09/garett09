@@ -195,9 +195,9 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [They&#039;ll buy everything](http://9gag.com/gag/aV7AZb8)
- - 🚯 [Sh*t here we go...](http://9gag.com/gag/azMnO9m)
- - 🚯 [For people who complain about iPhone 13 this is not the worst design by Apple](http://9gag.com/gag/azMnGXp)<!-- MEMES:END -->
+ - 🚖 [Same shit every year , no more Apple mania](http://9gag.com/gag/aV7AZrn)
+ - 🚯 [They&#039;ll buy everything](http://9gag.com/gag/aV7AZb8)
+ - 🚯 [Innovation at its best](http://9gag.com/gag/apNOPqp)<!-- MEMES:END -->
 
 --- 
 
