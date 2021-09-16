@@ -181,9 +181,9 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The Art Of The Lord Of The Rings Movies](https://kotaku.com/the-art-of-the-lord-of-the-rings-movies-1847685471)
  - [Amazon‌ ‌Games‌ ‌hires‌ ‌former‌ ‌Ubisoft‌ ‌executive‌ ‌to‌ ‌lead‌ ‌work‌ ‌on‌ ‌competitive‌ ‌multiplayer‌ ‌game‌](https://www.pcgamer.com/amazon-ubisoft-exec)
- - [Please Stop Closing Forums And Moving People To Discord](https://kotaku.com/please-stop-closing-forums-and-moving-people-to-discord-1847684851)
- - [UN report calls for regulation of potentially dangerous AI](https://www.pcgamer.com/un-report-calls-for-regulation-of-potentially-dangerous-ai)<!-- GAME:END -->
+ - [Please Stop Closing Forums And Moving People To Discord](https://kotaku.com/please-stop-closing-forums-and-moving-people-to-discord-1847684851)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
