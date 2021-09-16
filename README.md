@@ -188,9 +188,9 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Facebook will treat coordinated rule breakers using real accounts like troll farms](https://www.theverge.com/2021/9/16/22677732/facebook-coordinated-authentic-inauthentic-behavior-moderation-policy)
- - [Compared: 2021 entry-level iPad 9 versus 2020 iPad 8](https://appleinsider.com/articles/21/09/16/compared-2021-entry-level-ipad-9-versus-2020-ipad-8?utm_medium=rss)
- - [Apple's best iPhone 13 features are the trade-in offers, not the spec sheet     - CNET](https://www.cnet.com/tech/mobile/apple-best-iphone-13-features-are-the-trade-in-offers-not-the-spec-sheet/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Nate Chastain, the head of product at OpenSea who was accused this week of a form of NFT insider trading, appears to no longer be working for the company (Mitchell Clark/The Verge)](http://www.techmeme.com/210916/p24#a210916p24)
+ - [Russia threatens fines if Apple & Google don't remove opposition app](https://appleinsider.com/articles/21/09/16/russia-threatens-fines-if-apple-google-dont-remove-opposition-app?utm_medium=rss)
+ - [First price drop on the new 10.2-inch iPad, and more of the best iPad deals](https://www.androidauthority.com/best-ipad-deals-1110806/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
