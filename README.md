@@ -188,9 +188,9 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gillmor Gang: Off the Wall](http://feedproxy.google.com/~r/Techcrunch/~3/g_h1whxnruw/)
- - [Patent licensing firm targets Apple's 3G cellular technology in new lawsuit](https://appleinsider.com/articles/21/09/16/patent-troll-targets-apples-3g-cellular-technology-in-new-lawsuit?utm_medium=rss)
- - [Joe Biden announces a new Indo-Pacific security partnership with Australia and the UK to share tech in areas like AI, cybersecurity, and quantum technologies (Politico)](http://www.techmeme.com/210915/p51#a210915p51)<!-- TECH:END -->
+ - [A15 benchmarks reveal nearly 21% CPU performance gain over A14](https://appleinsider.com/articles/21/09/16/a15-benchmarks-reveal-nearly-21-cpu-performance-gain-over-a14?utm_medium=rss)
+ - [The biggest iPhone 13 feature isn't on a spec sheet. It's in the trade-in offers     - CNET](https://www.cnet.com/tech/mobile/biggest-iphone-13-feature-isnt-on-spec-sheet-its-in-the-trade-in-offers/#ftag=CAD590a51e)
+ - [Best Android smartwatch in 2021     - CNET](https://www.cnet.com/tech/mobile/best-android-smartwatch/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
