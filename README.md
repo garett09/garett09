@@ -181,9 +181,9 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The best gaming laptops in Australia for 2021](https://www.pcgamer.com/the-best-gaming-laptops-in-australia-for-2021)
  - [The Best GameCube Games](https://kotaku.com/the-best-gamecube-games-1739309425)
- - [Eastward beginner’s guide, tips, and tricks](https://www.polygon.com/guides/22673094/eastward-beginners-tips-tricks-treasure-radar-map-refrigerator-cook-bombs-bosses)
- - [Deltarune Chapter 2 lands this week](https://www.pcgamer.com/deltarune-chapter-2-lands-this-week)<!-- GAME:END -->
+ - [Eastward beginner’s guide, tips, and tricks](https://www.polygon.com/guides/22673094/eastward-beginners-tips-tricks-treasure-radar-map-refrigerator-cook-bombs-bosses)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
