@@ -195,7 +195,7 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Managed to find both sides of the story for you](http://9gag.com/gag/av5NDgb)
+ - 🚖 [This perfectly executed technique to move the fridge](http://9gag.com/gag/awMwvqr)
  - 🚯 [You&#039;re a b*tch, Harry.](http://9gag.com/gag/a6EP8be)
  - 🚯 [Apple fans](http://9gag.com/gag/aqj0D37)<!-- MEMES:END -->
 
