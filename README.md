@@ -188,9 +188,9 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Helen Mirren finds a side door into Harry Potter with a new game show](https://www.theverge.com/2021/9/16/22677912/harry-potter-helen-mirren-hogwarts-tournament-of-houses-game-show-hbo-max)
- - [Apple's iPhone 13 Pro should make you care about LTPO displays     - CNET](https://www.cnet.com/tech/mobile/apples-iphone-13-pro-should-make-you-care-about-ltpo-displays/#ftag=CAD590a51e)
- - [Mirantis launches cloud-native data center-as-a-service software](http://feedproxy.google.com/~r/Techcrunch/~3/OuoCrlmKfjs/)<!-- TECH:END -->
+ - [Home Assistant Amber is a ready-to-use smart home platform](https://www.theverge.com/2021/9/16/22678088/home-assistant-amber-smart-home-hub-specs-release-date-price)
+ - [The Morning Show season 2 premiere on Apple TV Plus tonight: When and where to watch it     - CNET](https://www.cnet.com/tech/services-and-software/the-morning-show-season-2-premiere-on-apple-tv-plus-tonight-when-and-where-to-watch-it/#ftag=CAD590a51e)
+ - [4 ways to leverage ROAS to triple lead generation](http://feedproxy.google.com/~r/Techcrunch/~3/A9oBKc-_9Y8/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
