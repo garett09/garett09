@@ -196,8 +196,8 @@ Windows                  9 hrs 4 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Don&rsquo;t forget the glue](http://9gag.com/gag/aqj0BzY)
- - 🚯 [Elon Musk&rsquo;s SpaceX just made HISTORY, Launches first ever all-civilian crew into orbit.](http://9gag.com/gag/a27exPO)
- - 🚯 [Amish power!](http://9gag.com/gag/axM5QBb)<!-- MEMES:END -->
+ - 🚯 [Didn&#039;t expect that one. . .](http://9gag.com/gag/a9EoNj0)
+ - 🚯 [Where kaiju](http://9gag.com/gag/ad8E4e2)<!-- MEMES:END -->
 
 --- 
 
