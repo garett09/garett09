@@ -188,9 +188,9 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Brazil's Senate and Supreme Court nullify rules issued by President Bolsonaro banning social networks from removing content that breaks their policies (Jack Nicas/New York Times)](http://www.techmeme.com/210916/p6#a210916p6)
  - [Apple’s premium smartphone success is leaving Samsung, Huawei well behind](https://www.androidauthority.com/apple-samsung-premium-smartphone-segment-q2-2021-3025035/)
- - [African genomics startup 54gene raises $25M to expand precision medicine capabilities](http://feedproxy.google.com/~r/Techcrunch/~3/qW-cHMih1lI/)
- - [Tanso nabs $1.9M pre-seed to help industrial manufacturers do sustainability reporting](http://feedproxy.google.com/~r/Techcrunch/~3/-i3AfoDCjDo/)<!-- TECH:END -->
+ - [African genomics startup 54gene raises $25M to expand precision medicine capabilities](http://feedproxy.google.com/~r/Techcrunch/~3/qW-cHMih1lI/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
