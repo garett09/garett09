@@ -181,9 +181,9 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Eastward beginner’s guide, tips, and tricks](https://www.polygon.com/guides/22673094/eastward-beginners-tips-tricks-treasure-radar-map-refrigerator-cook-bombs-bosses)
  - [Deltarune Chapter 2 lands this week](https://www.pcgamer.com/deltarune-chapter-2-lands-this-week)
- - [Deltarune Chapter 2 Is Coming Out This Week](https://kotaku.com/deltarune-chapter-2-is-coming-out-this-week-1847685560)
- - [The Art Of The Lord Of The Rings Movies](https://kotaku.com/the-art-of-the-lord-of-the-rings-movies-1847685471)<!-- GAME:END -->
+ - [Deltarune Chapter 2 Is Coming Out This Week](https://kotaku.com/deltarune-chapter-2-is-coming-out-this-week-1847685560)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
