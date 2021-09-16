@@ -181,9 +181,9 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Ikea introduces a new line of furniture and gear for gamers](https://www.polygon.com/22678070/ikea-gamer-gear-collaboration-republic-gamers-desk-chairs-storage)
- - [The best HDMI cable for PC gaming in 2021](https://www.pcgamer.com/the-best-hdmi-for-gaming-on-pc-in-2019)
- - [God Of War Ragnarök Will Wrap Story Because Trilogies Take Too Long](https://kotaku.com/god-of-war-ragnarok-will-wrap-story-because-trilogies-t-1847691005)<!-- GAME:END -->
+ - [Blizzard will show off Overwatch 2 gameplay and Bastion's rework next week](https://www.pcgamer.com/blizzard-will-show-off-overwatch-2-gameplay-and-bastions-rework-next-week)
+ - [Konami Rolls Out Loot Box Pre-Orders](https://kotaku.com/konami-rolls-out-loot-box-pre-orders-1847691729)
+ - [The best microphone for streaming, gaming, and podcasting](https://www.pcgamer.com/best-microphone-gaming-streaming)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
