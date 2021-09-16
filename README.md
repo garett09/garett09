@@ -195,9 +195,9 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [For me everything has always been a spaceship.](http://9gag.com/gag/aV7A2nP)
- - 🚯 [The cutest thing I&#039;ve seen in a while...](http://9gag.com/gag/a8EZwBp)
- - 🚯 [Jupiter just got smacked by a space rock and an amateur Brazilian astronomer caught it on camera. Jos&eacute; Luis Pereira captured this shot of an impactor hitting Jupiter on Sept. 13, 2021.](http://9gag.com/gag/aZ0ejLV)<!-- MEMES:END -->
+ - 🚖 [Oh no](http://9gag.com/gag/aQoG2Yr)
+ - 🚯 [For me everything has always been a spaceship.](http://9gag.com/gag/aV7A2nP)
+ - 🚯 [The cutest thing I&#039;ve seen in a while...](http://9gag.com/gag/a8EZwBp)<!-- MEMES:END -->
 
 --- 
 
