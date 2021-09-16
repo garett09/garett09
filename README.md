@@ -195,7 +195,7 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Oh no](http://9gag.com/gag/aQoG2Yr)
+ - 🚖 [If you know you know.](http://9gag.com/gag/a07BMwO)
  - 🚯 [For me everything has always been a spaceship.](http://9gag.com/gag/aV7A2nP)
  - 🚯 [To be fair, that is to be expected tho..](http://9gag.com/gag/aAbjXBg)<!-- MEMES:END -->
 
