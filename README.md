@@ -181,9 +181,9 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Flynn: Son of Crimson Available Today with Xbox Game Pass](https://news.xbox.com/en-us/2021/09/16/flynn-son-of-crimson-available-today-with-xbox-game-pass/)
  - [Sea of Thieves’ next season sends pirates under the sea](https://www.polygon.com/22677621/sea-of-thieves-season-4-september-23-announcement)
- - [Deathloop walkthrough, guides, and tips](https://www.polygon.com/deathloop-guide-walkthrough/22665192/visionary-leads-aresonal-trinket-code)
- - [Open the ClassPass door in Charlie’s mansion — Deathloop guide](https://www.polygon.com/deathloop-guide-walkthrough/22677668/classpass-door-charlie-mansion-frank-club-disable-code)<!-- GAME:END -->
+ - [Epic's latest free games feature high-speed brawling and sci-fi cannibalism](https://www.pcgamer.com/epics-latest-free-games-feature-high-speed-brawling-and-sci-fi-cannibalism)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
