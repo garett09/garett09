@@ -188,9 +188,9 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [As offices come back, ATMO launches air monitoring device claiming to give COVID-risk score](http://feedproxy.google.com/~r/Techcrunch/~3/KmH9N078zz8/)
  - [Best Deals Sept. 16 - $212 GoPro Hero7 Bundle, 50-inch HDR television for $499, and more!](https://appleinsider.com/articles/21/09/16/best-deals-sept-16---212-gopro-hero7-bundle-50-inch-hdr-television-for-499-and-more?utm_medium=rss)
- - [DoorDash launches alcohol delivery in U.S., Canada and Australia](http://feedproxy.google.com/~r/Techcrunch/~3/5YHbcA81g7Q/)<!-- TECH:END -->
+ - [As offices come back, ATMO launches air monitoring device claiming to give COVID-risk score](http://feedproxy.google.com/~r/Techcrunch/~3/KmH9N078zz8/)
+ - [New LiftMaster smart garage door opener adds camera, brighter LEDs     - CNET](https://www.cnet.com/home/smart-home/new-liftmaster-smart-garage-door-opener-adds-camera-brighter-leds/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
