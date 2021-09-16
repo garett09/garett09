@@ -195,9 +195,9 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The real horror begins with embedded systems from the stone age](http://9gag.com/gag/aP35pqG)
- - 🚯 [Fat kid](http://9gag.com/gag/a9EoB5o)
- - 🚯 [Wtf is he doing?](http://9gag.com/gag/aP35nxV)<!-- MEMES:END -->
+ - 🚖 [He studied the blade](http://9gag.com/gag/a4Evxdp)
+ - 🚯 [Wtf is he doing?](http://9gag.com/gag/aP35nxV)
+ - 🚯 [Old But Gold.](http://9gag.com/gag/aqj0Apj)<!-- MEMES:END -->
 
 --- 
 
