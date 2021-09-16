@@ -195,9 +195,9 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Amish power!](http://9gag.com/gag/axM5QBb)
- - 🚯 [If you ever felt like your life is the worst and there&#039;s nothing you could do to change it.](http://9gag.com/gag/a3Emx6e)
- - 🚯 [Been doing cowboy stuff all day (first time playing RDR2) love it](http://9gag.com/gag/aAbjqDR)<!-- MEMES:END -->
+ - 🚖 [If you ever felt like your life is the worst and there&#039;s nothing you could do to change it.](http://9gag.com/gag/a3Emx6e)
+ - 🚯 [Elon Musk&rsquo;s SpaceX just made HISTORY, Launches first ever all-civilian crew into orbit.](http://9gag.com/gag/a27exPO)
+ - 🚯 [Amish power!](http://9gag.com/gag/axM5QBb)<!-- MEMES:END -->
 
 --- 
 
