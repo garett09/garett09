@@ -188,9 +188,9 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [GoPro Hero 10 action cam unveiled with 5.3K video, 23MP stills](https://appleinsider.com/articles/21/09/16/gopro-hero-10-action-cam-unveiled-with-53k-video-23mp-stills?utm_medium=rss)
- - [GoPro announces Hero 10 Black with 5.3K60 and smartphone-like features](https://www.theverge.com/2021/9/16/22675730/gopro-hero-10-black-announcement-gp2-high-frame-rate-auto-upload)
- - [The GoPro Hero10: small step for the Hero10, big leap for GoPro](https://www.theverge.com/22675560/gopro-hero10-action-camera-review)<!-- TECH:END -->
+ - [FTC says health apps must notify consumers about data breaches — or face fines](http://feedproxy.google.com/~r/Techcrunch/~3/fMrzNGYolAc/)
+ - [SOSV is building a New Jersey HAX facility for industrial, healthcare and climate startups](http://feedproxy.google.com/~r/Techcrunch/~3/tT9uaA4OTo0/)
+ - [Real-life Google Pixel 6 and Pixel 6 Pro are in the window of NYC Google Store](https://www.androidauthority.com/google-pixel-6-display-3025336/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
