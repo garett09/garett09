@@ -197,7 +197,7 @@ Windows                  9 hrs 4 mins        ███████████�
 <!-- MEMES:START -->
  - 🚖 [Oh no](http://9gag.com/gag/aQoG2Yr)
  - 🚯 [For me everything has always been a spaceship.](http://9gag.com/gag/aV7A2nP)
- - 🚯 [The cutest thing I&#039;ve seen in a while...](http://9gag.com/gag/a8EZwBp)<!-- MEMES:END -->
+ - 🚯 [To be fair, that is to be expected tho..](http://9gag.com/gag/aAbjXBg)<!-- MEMES:END -->
 
 --- 
 
