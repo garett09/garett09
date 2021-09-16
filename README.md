@@ -195,7 +195,7 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It will never die](http://9gag.com/gag/anQ6Veq)
+ - 🚖 [The real horror begins with embedded systems from the stone age](http://9gag.com/gag/aP35pqG)
  - 🚯 [Fat kid](http://9gag.com/gag/a9EoB5o)
  - 🚯 [Wtf is he doing?](http://9gag.com/gag/aP35nxV)<!-- MEMES:END -->
 
