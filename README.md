@@ -181,9 +181,9 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Sherlock Holmes Chapter One sleuths to PS5 November 16](https://blog.playstation.com/2021/09/16/sherlock-holmes-chapter-one-sleuths-to-ps5-november-16/)
- - [Memoria’s sensory-overload mystery swirls around Tilda Swinton](https://www.polygon.com/reviews/22675792/memoria-review-tilda-swinton)
- - [‘Two Jawas In A Trenchcoat’ Is My New Favorite Star Wars Character](https://kotaku.com/two-jawas-in-a-trenchcoat-is-my-new-favorite-star-war-1847685216)<!-- GAME:END -->
+ - [New Wipeout game is for mobile phones, not PlayStation](https://www.polygon.com/22677320/new-wipeout-rush-android-ios-playstation)
+ - [Deltarune Chapter 2 gets surprise release in two days](https://www.polygon.com/22677277/deltarune-chapter-2-release-date-undertale-toby-fox)
+ - [One Of 2021's Best Games Is A Match-3](https://kotaku.com/one-of-2021s-best-games-is-a-match-3-1847687105)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
