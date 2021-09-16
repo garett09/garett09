@@ -195,9 +195,9 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Wholesome as f**k](http://9gag.com/gag/a7EQpG2)
- - 🚯 [Friendly fire](http://9gag.com/gag/ayMGYjY)
- - 🚯 [Do the math, its actually true](http://9gag.com/gag/aZ0e22X)<!-- MEMES:END -->
+ - 🚖 [How old am I? Who remembers?](http://9gag.com/gag/a1r9E0v)
+ - 🚯 [Do the math, its actually true](http://9gag.com/gag/aZ0e22X)
+ - 🚯 [Some restaurants be like](http://9gag.com/gag/apNOAPD)<!-- MEMES:END -->
 
 --- 
 
