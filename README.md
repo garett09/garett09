@@ -181,9 +181,9 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best gaming laptops in Australia for 2021](https://www.pcgamer.com/the-best-gaming-laptops-in-australia-for-2021)
- - [The Best GameCube Games](https://kotaku.com/the-best-gamecube-games-1739309425)
- - [Eastward beginner’s guide, tips, and tricks](https://www.polygon.com/guides/22673094/eastward-beginners-tips-tricks-treasure-radar-map-refrigerator-cook-bombs-bosses)<!-- GAME:END -->
+ - [Nvidia CEO Jen-Hsun Huang named one of Time's most influential people](https://www.pcgamer.com/time-influential-list-2021-nvidia-jen-hsun-huang)
+ - [The Latest Life-Sized Gundam Is Disappointing Some Fans](https://kotaku.com/the-latest-life-sized-gundam-is-disappointing-some-fans-1847686225)
+ - [The best gaming laptops in Australia for 2021](https://www.pcgamer.com/the-best-gaming-laptops-in-australia-for-2021)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
