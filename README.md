@@ -181,9 +181,9 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [MechWarrior 5: Mercenaries free update will finally give you more control over friendly AI](https://www.polygon.com/22677418/mechwarrior-5-mercenaries-free-update-mech-switching-paid-expansion)
- - [The Best Tales Of Arise Character Is This Cat](https://kotaku.com/the-best-tales-of-arise-character-is-this-cat-1847687772)
- - [PlayStation Store: August 2021’s top downloads](http://feedproxy.google.com/~r/PSBlog/~3/G0N8PgpeqDo/)<!-- GAME:END -->
+ - [Get Your First Month of EA Play for Just 99 Cents](https://news.xbox.com/en-us/2021/09/16/first-month-ea-play-99-cents/)
+ - [Nier Fan Game Wins Official Contest, Still Becomes Legal Headache](https://kotaku.com/nier-fan-game-wins-official-contest-still-becomes-lega-1847687909)
+ - [How to get crystal shards in Valheim](https://www.pcgamer.com/how-to-get-valheim-crystal-shard-use)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
