@@ -181,9 +181,9 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Blizzard will show off Overwatch 2 gameplay and Bastion's rework next week](https://www.pcgamer.com/blizzard-will-show-off-overwatch-2-gameplay-and-bastions-rework-next-week)
- - [Konami Rolls Out Loot Box Pre-Orders](https://kotaku.com/konami-rolls-out-loot-box-pre-orders-1847691729)
- - [The best microphone for streaming, gaming, and podcasting](https://www.pcgamer.com/best-microphone-gaming-streaming)<!-- GAME:END -->
+ - [Guillermo del Toro’s Nightmare Alley trailer sets up a dark mystery](https://www.polygon.com/22677377/nightmare-alley-trailer-release-date-bradley-cooper-guillermo-del-toro)
+ - [Gorgeous survival MMORPG BitCraft to have pre-alpha test this fall, sign-ups available now](https://www.pcgamer.com/gorgeous-survival-mmorpg-bitcraft-to-have-pre-alpha-test-this-fall-sign-ups-available-now)
+ - [The 15 Best Games on PC](https://kotaku.com/the-12-best-games-on-pc-5878852)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
