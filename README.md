@@ -181,9 +181,9 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [From Resogun to Returnal: the evolving VFX magic that brought Atropos to life](http://feedproxy.google.com/~r/PSBlog/~3/Z-wHkzD-n-k/)
- - [From Resogun to Returnal: the evolving VFX magic that brought Atropos to life](https://blog.playstation.com/2021/09/16/from-resogun-to-returnal-the-evolving-vfx-magic-that-brought-atropos-to-life/)
- - [TP-Link's new Wi-Fi 6 router for gamers has a dedicated 'fast lane' for gaming](https://www.pcgamer.com/tp-links-new-wi-fi-6-router-for-gamers-has-a-dedicated-fast-lane-for-gaming)<!-- GAME:END -->
+ - [‘Two Jawas In A Trenchcoat’ Is My New Favorite Star Wars Character](https://kotaku.com/two-jawas-in-a-trenchcoat-is-my-new-favorite-star-war-1847685216)
+ - [Prefer a loud keyboard? These mechanical models with RGB are as low as $25](https://www.pcgamer.com/prefer-a-loud-keyboard-these-mechanical-models-with-rgb-are-as-low-as-dollar25)
+ - [How to use a DualShock 4 PS4 controller on PC](https://www.pcgamer.com/how-to-use-a-ps4-controller-on-pc)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
