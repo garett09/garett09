@@ -188,9 +188,9 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple shareholders press company to reverse 'anti-competitive repair policies'](https://appleinsider.com/articles/21/09/16/apple-shareholders-press-company-to-reverse-anti-competitive-repair-policies?utm_medium=rss)
- - [Home Assistant Amber is a ready-to-use smart home platform](https://www.theverge.com/2021/9/16/22678088/home-assistant-amber-smart-home-hub-specs-release-date-price)
- - [The Morning Show season 2 premiere on Apple TV Plus tonight: When and where to watch it     - CNET](https://www.cnet.com/tech/services-and-software/the-morning-show-season-2-premiere-on-apple-tv-plus-tonight-when-and-where-to-watch-it/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple's new iPhone 13 Pro case illustrates massively enlarged camera 'bump'](https://appleinsider.com/articles/21/09/16/apples-new-iphone-13-pro-case-illustrates-massively-enlarged-camera-bump?utm_medium=rss)
+ - [Inside r/aznidentity, a subreddit that has become an unofficial hub of "Men's Rights Asians" subculture, which has gained notoriety by harassing Asian women (Aaron Mak/Slate)](http://www.techmeme.com/210916/p28#a210916p28)
+ - [The bitter lawsuit hanging over the Apple Watch’s new swipe keyboard](https://www.theverge.com/2021/9/16/22676706/apple-watch-swipe-keyboard-flicktype-lawsuit-kosta-eleftheriou)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
