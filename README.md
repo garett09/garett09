@@ -188,9 +188,9 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [FTC says Alphabet, Amazon, Apple, Facebook, and Microsoft made 819 unreported acquisition deals of $1M+, including for patents and acquihires, from 2010 to 2019 (David McLaughlin/Bloomberg)](http://www.techmeme.com/210915/p48#a210915p48)
- - [iPhone 13 Pro GPU benchmarks show 55% improvement over iPhone 12 Pro](https://appleinsider.com/articles/21/09/15/iphone-13-pro-gpu-benchmarks-show-55-improvement-over-iphone-12-pro?utm_medium=rss)
- - [Sources: US firm Accuvant, now part of Optiv, sold iPhone hacking tool Karma to the UAE for $1.3M in 2016; the tool has been used against hundreds of targets (Patrick Howell O'Neill/MIT Technology ...)](http://www.techmeme.com/210915/p47#a210915p47)<!-- TECH:END -->
+ - [Samsung's 90Hz OLED panels could be bound for MacBook Pro](https://appleinsider.com/articles/21/09/16/samsungs-90hz-oled-panels-could-be-bound-for-macbook-pro?utm_medium=rss)
+ - [Goldman Sachs is acquiring buy now, pay later fintech GreenSky for about $2.24B, in an all-stock deal (Hugh Son/CNBC)](http://www.techmeme.com/210915/p49#a210915p49)
+ - [US company tied to iPhone hacking tool deployed by UAE in 2016](https://appleinsider.com/articles/21/09/16/us-company-tied-to-iphone-hacking-tool-sold-to-uae-in-2016?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
