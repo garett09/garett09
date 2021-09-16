@@ -188,9 +188,9 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Org nabs $20M led by Tiger Global to expand its platform based on public organizational charts](http://feedproxy.google.com/~r/Techcrunch/~3/qg0IBhQL-ms/)
- - [Deutsche Bank survey: Walmart+, Walmart's Amazon Prime rival, has grown to ~32M US subscribers since its 2020 launch, and ~86% of them have Amazon Prime also (Melissa Repko/CNBC)](http://www.techmeme.com/210916/p8#a210916p8)
- - [Apple TV+ held secret talks with 'Dark Knight' director Christopher Nolan](https://appleinsider.com/articles/21/09/16/apple-tv-held-secret-talks-with-dark-knight-director-christopher-nolan?utm_medium=rss)<!-- TECH:END -->
+ - [Byju’s acquires coding platform Tynker for $200 million in US expansion push](http://feedproxy.google.com/~r/Techcrunch/~3/kba9vKWwtJ8/)
+ - [You might not like this latest rumor about the Galaxy S22’s battery size](https://www.androidauthority.com/samsung-galaxy-s22-battery-3025163/)
+ - [Asian merchant commerce platform Pine Labs raises $100 million](http://feedproxy.google.com/~r/Techcrunch/~3/0S_3ED4X4iI/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
