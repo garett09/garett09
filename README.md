@@ -188,9 +188,9 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Byju’s acquires coding platform Tynker for $200 million in US expansion push](http://feedproxy.google.com/~r/Techcrunch/~3/kba9vKWwtJ8/)
- - [You might not like this latest rumor about the Galaxy S22’s battery size](https://www.androidauthority.com/samsung-galaxy-s22-battery-3025163/)
- - [Asian merchant commerce platform Pine Labs raises $100 million](http://feedproxy.google.com/~r/Techcrunch/~3/0S_3ED4X4iI/)<!-- TECH:END -->
+ - [Apple Store app trying to get you the iPad you want with 'similar options' prompt](https://appleinsider.com/articles/21/09/16/apple-store-app-trying-to-get-you-the-ipad-you-want-with-similar-options-prompt?utm_medium=rss)
+ - [Initial benchmarks show iPhone 13's A15 chip offers a roughly 15% improvement for GPU performance and 10%-18% improvement for CPU performance over A14 (Eric Slivka/MacRumors)](http://www.techmeme.com/210916/p11#a210916p11)
+ - [China's biggest movie star, Zhao Wei, who had 86M Weibo followers, was erased from China's internet on August 26, amid a clampdown on its entertainment industry (Wenxin Fan/Wall Street Journal)](http://www.techmeme.com/210916/p10#a210916p10)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
