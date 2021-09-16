@@ -188,9 +188,9 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Xiaomi finally makes NFC payments available on Mi Band 6 outside of China](https://www.androidauthority.com/xiaomi-mi-smart-band-6-nfc-3025010/)
- - [Online events platform Delegate Connect gets $10M AUD led by AirTree](http://feedproxy.google.com/~r/Techcrunch/~3/ZTreEgcbNT4/)
- - [Google Pixel 6: Everything we know so far (Updated: September 16)](https://www.androidauthority.com/google-pixel-6-1207778/)<!-- TECH:END -->
+ - [OnePlus 9RT: All the rumors in one place (Sept. 16)](https://www.androidauthority.com/oneplus-9rt-2737438/)
+ - [French startup Skello, which develops a SaaS tool that lets companies manage their work schedules, raises &euro;40M led by Partech (Romain Dillet/TechCrunch)](http://www.techmeme.com/210916/p2#a210916p2)
+ - [Oppo is cutting around 20% of its staff in key software and device teams after it merged operations with affiliate OnePlus (Bloomberg)](http://www.techmeme.com/210916/p1#a210916p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
