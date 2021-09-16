@@ -195,8 +195,8 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How old am I? Who remembers?](http://9gag.com/gag/a1r9E0v)
- - 🚯 [Do the math, its actually true](http://9gag.com/gag/aZ0e22X)
+ - 🚖 [Make it$10](http://9gag.com/gag/aGpXOe6)
+ - 🚯 [This era](http://9gag.com/gag/aeAL20v)
  - 🚯 [Some restaurants be like](http://9gag.com/gag/apNOAPD)<!-- MEMES:END -->
 
 --- 
