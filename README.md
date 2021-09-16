@@ -195,9 +195,9 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Is this the romance that whamen so love?](http://9gag.com/gag/azMnQpz)
- - 🚯 [It will never die](http://9gag.com/gag/anQ6Veq)
- - 🚯 [Fat kid](http://9gag.com/gag/a9EoB5o)<!-- MEMES:END -->
+ - 🚖 [It will never die](http://9gag.com/gag/anQ6Veq)
+ - 🚯 [Fat kid](http://9gag.com/gag/a9EoB5o)
+ - 🚯 [Wtf is he doing?](http://9gag.com/gag/aP35nxV)<!-- MEMES:END -->
 
 --- 
 
