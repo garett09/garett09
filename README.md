@@ -195,7 +195,7 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Angry cat vs Vet](http://9gag.com/gag/a4EvwMQ)
+ - 🚖 [Is this the romance that whamen so love?](http://9gag.com/gag/azMnQpz)
  - 🚯 [It will never die](http://9gag.com/gag/anQ6Veq)
  - 🚯 [Fat kid](http://9gag.com/gag/a9EoB5o)<!-- MEMES:END -->
 
