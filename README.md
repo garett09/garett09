@@ -188,9 +188,9 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Alphabet’s Project Taara laser tech beamed 700TB of data across nearly 5km](https://www.theverge.com/2021/9/16/22677015/project-taara-fsoc-wireless-internet-kinshasa-congo-fiber)
  - [FTC asks health apps, such as those tracking fitness or menstrual cycles, to notify consumers of data breaches as per the 2009 Health Breach Notification Rule (Maggie Miller/The Hill)](http://www.techmeme.com/210916/p5#a210916p5)
- - [Apple refutes FlickType developer's account of App Store issues](https://appleinsider.com/articles/21/09/15/apple-refutes-flicktype-developers-account-of-app-store-issues?utm_medium=rss)
- - [Research: Didi's average daily user count for August fell to 10.9M, from 15.6M in June after its NY IPO triggered a fierce backlash by Chinese regulators (Ryan McMorrow/Financial Times)](http://www.techmeme.com/210916/p4#a210916p4)<!-- TECH:END -->
+ - [Apple refutes FlickType developer's account of App Store issues](https://appleinsider.com/articles/21/09/15/apple-refutes-flicktype-developers-account-of-app-store-issues?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
