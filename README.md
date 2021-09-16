@@ -188,9 +188,9 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus 9RT: All the rumors in one place (Sept. 16)](https://www.androidauthority.com/oneplus-9rt-2737438/)
- - [French startup Skello, which develops a SaaS tool that lets companies manage their work schedules, raises &euro;40M led by Partech (Romain Dillet/TechCrunch)](http://www.techmeme.com/210916/p2#a210916p2)
- - [Oppo is cutting around 20% of its staff in key software and device teams after it merged operations with affiliate OnePlus (Bloomberg)](http://www.techmeme.com/210916/p1#a210916p1)<!-- TECH:END -->
+ - [A15 benchmarks reveal nearly 21% CPU performance gain over A14](https://appleinsider.com/articles/21/09/16/a15-benchmarks-reveal-nearly-21-cpu-performance-gain-over-a14?utm_medium=rss)
+ - [Brooklyn-based Genius, a music-annotating startup that provides context for rap lyrics, has sold its assets for $80M, less than the total funding it raised (Sarah McBride/Bloomberg)](http://www.techmeme.com/210916/p3#a210916p3)
+ - [OnePlus 9RT: All the rumors in one place (Sept. 16)](https://www.androidauthority.com/oneplus-9rt-2737438/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
