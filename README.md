@@ -195,9 +195,9 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A villain&#039;s origin story](http://9gag.com/gag/aV7AB8P)
- - 🚯 [Didn&#039;t expect that one. . .](http://9gag.com/gag/a9EoNj0)
- - 🚯 [This perfectly executed technique to move the fridge](http://9gag.com/gag/awMwvqr)<!-- MEMES:END -->
+ - 🚖 [Where kaiju](http://9gag.com/gag/ad8E4e2)
+ - 🚯 [Managed to find both sides of the story for you](http://9gag.com/gag/av5NDgb)
+ - 🚯 [To all the dads showing up when it counts!](http://9gag.com/gag/amP3bAy)<!-- MEMES:END -->
 
 --- 
 
