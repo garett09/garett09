@@ -195,9 +195,9 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This era (pt.2)](http://9gag.com/gag/a27eGYw)
- - 🚯 [Cause I&#039;m in the hood.](http://9gag.com/gag/aAbjvQp)
- - 🚯 [Hello s3x pls](http://9gag.com/gag/aqj0DOR)<!-- MEMES:END -->
+ - 🚖 [USA No.1](http://9gag.com/gag/ajmpyrw)
+ - 🚯 [Hello s3x pls](http://9gag.com/gag/aqj0DOR)
+ - 🚯 [This era (pt.2)](http://9gag.com/gag/a27eGYw)<!-- MEMES:END -->
 
 --- 
 
