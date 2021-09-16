@@ -195,9 +195,9 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Make it$10](http://9gag.com/gag/aGpXOe6)
- - 🚯 [This era](http://9gag.com/gag/aeAL20v)
- - 🚯 [Some restaurants be like](http://9gag.com/gag/apNOAPD)<!-- MEMES:END -->
+ - 🚖 [Wholesome as f**k](http://9gag.com/gag/a7EQpG2)
+ - 🚯 [How old am I? Who remembers?](http://9gag.com/gag/a1r9E0v)
+ - 🚯 [The cutest thing I&#039;ve seen in a while...](http://9gag.com/gag/a8EZwBp)<!-- MEMES:END -->
 
 --- 
 
