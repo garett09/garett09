@@ -181,9 +181,9 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Free Play Days – Hunt: Showdown, Judgment, and Blood Bowl 2: Legendary Edition](https://news.xbox.com/en-us/2021/09/16/free-play-days-hunt-showdown-judgment-and-blood-bowl-2/)
- - [New Wipeout game is for mobile phones, not PlayStation](https://www.polygon.com/22677320/new-wipeout-rush-android-ios-playstation)
- - [Call of Duty: Vanguard has a free open beta this weekend](https://www.pcgamer.com/call-of-duty-vanguard-has-a-free-open-beta-this-weekend)<!-- GAME:END -->
+ - [MechWarrior 5: Mercenaries free update will finally give you more control over friendly AI](https://www.polygon.com/22677418/mechwarrior-5-mercenaries-free-update-mech-switching-paid-expansion)
+ - [The Best Tales Of Arise Character Is This Cat](https://kotaku.com/the-best-tales-of-arise-character-is-this-cat-1847687772)
+ - [PlayStation Store: August 2021’s top downloads](http://feedproxy.google.com/~r/PSBlog/~3/G0N8PgpeqDo/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
