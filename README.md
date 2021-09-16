@@ -188,9 +188,9 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A15 benchmarks reveal nearly 21% CPU performance gain over A14](https://appleinsider.com/articles/21/09/16/a15-benchmarks-reveal-nearly-21-cpu-performance-gain-over-a14?utm_medium=rss)
- - [Brooklyn-based Genius, a music-annotating startup that provides context for rap lyrics, has sold its assets for $80M, less than the total funding it raised (Sarah McBride/Bloomberg)](http://www.techmeme.com/210916/p3#a210916p3)
- - [OnePlus 9RT: All the rumors in one place (Sept. 16)](https://www.androidauthority.com/oneplus-9rt-2737438/)<!-- TECH:END -->
+ - [Apple refutes FlickType developer's account of App Store issues](https://appleinsider.com/articles/21/09/15/apple-refutes-flicktype-developers-account-of-app-store-issues?utm_medium=rss)
+ - [Research: Didi's average daily user count for August fell to 10.9M, from 15.6M in June after its NY IPO triggered a fierce backlash by Chinese regulators (Ryan McMorrow/Financial Times)](http://www.techmeme.com/210916/p4#a210916p4)
+ - [A15 benchmarks reveal nearly 21% CPU performance gain over A14](https://appleinsider.com/articles/21/09/16/a15-benchmarks-reveal-nearly-21-cpu-performance-gain-over-a14?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
