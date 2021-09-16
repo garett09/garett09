@@ -181,9 +181,9 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Genshin Impact Fan Says They're Suing Devs For Changing A Character](https://kotaku.com/genshin-impact-fan-says-theyre-suing-devs-for-changing-1847690358)
- - [Where to find onion seeds in Valheim](https://www.pcgamer.com/valheim-where-to-get-onion-seeds)
- - [Cheap gaming laptop deals this week](https://www.pcgamer.com/gaming-laptop-deals)<!-- GAME:END -->
+ - [Legend of the Kestrel Lancers Expansion Coming to MechWarrior 5: Mercenaries on September 23](https://news.xbox.com/en-us/2021/09/16/legend-of-the-kestrel-lancers-expansion-coming-to-mechwarrior-5-mercenaries-on-september-23/)
+ - [Gran Turismo 7’s campaign is always-online, and fans are not thrilled](https://www.polygon.com/22678189/gran-turismo-7-always-online-campaign-career-internet-requirement-ps5)
+ - [Jurassic Park gets the legacy treatment with a board game that spans the entire franchise](https://www.polygon.com/22678122/jurassic-park-legacy-board-game-announcement)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
