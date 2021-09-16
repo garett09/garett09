@@ -188,9 +188,9 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Brazil's Senate and Supreme Court nullify rules issued by President Bolsonaro banning social networks from removing content that breaks their policies (Jack Nicas/New York Times)](http://www.techmeme.com/210916/p6#a210916p6)
- - [Apple’s premium smartphone success is leaving Samsung, Huawei well behind](https://www.androidauthority.com/apple-samsung-premium-smartphone-segment-q2-2021-3025035/)
- - [African genomics startup 54gene raises $25M to expand precision medicine capabilities](http://feedproxy.google.com/~r/Techcrunch/~3/qW-cHMih1lI/)<!-- TECH:END -->
+ - [WhatsApp begins testing a yellow pages-style business directory](https://www.theverge.com/2021/9/16/22677065/whatsapp-business-directory-brazil-sao-paulo-e-commerce)
+ - [Volta Trucks raises €37 million to bring electric delivery trucks to the streets of London and Paris](http://feedproxy.google.com/~r/Techcrunch/~3/4dN2JJzkDk4/)
+ - [Gogoro will go public on Nasdaq after $2.35B SPAC deal](http://feedproxy.google.com/~r/Techcrunch/~3/Lmk88xOv-Ac/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
