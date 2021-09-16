@@ -188,9 +188,9 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A15 benchmarks reveal nearly 21% CPU performance gain over A14](https://appleinsider.com/articles/21/09/16/a15-benchmarks-reveal-nearly-21-cpu-performance-gain-over-a14?utm_medium=rss)
- - [The biggest iPhone 13 feature isn't on a spec sheet. It's in the trade-in offers     - CNET](https://www.cnet.com/tech/mobile/biggest-iphone-13-feature-isnt-on-spec-sheet-its-in-the-trade-in-offers/#ftag=CAD590a51e)
- - [Best Android smartwatch in 2021     - CNET](https://www.cnet.com/tech/mobile/best-android-smartwatch/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Xiaomi finally makes NFC payments available on Mi Band 6 outside of China](https://www.androidauthority.com/xiaomi-mi-smart-band-6-nfc-3025010/)
+ - [Online events platform Delegate Connect gets $10M AUD led by AirTree](http://feedproxy.google.com/~r/Techcrunch/~3/ZTreEgcbNT4/)
+ - [Google Pixel 6: Everything we know so far (Updated: September 16)](https://www.androidauthority.com/google-pixel-6-1207778/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
