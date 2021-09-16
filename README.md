@@ -195,9 +195,9 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Didn&#039;t expect that one. . .](http://9gag.com/gag/a9EoNj0)
- - 🚯 [He studied the blade](http://9gag.com/gag/a4Evxdp)
- - 🚯 [If you ever felt like your life is the worst and there&#039;s nothing you could do to change it.](http://9gag.com/gag/a3Emx6e)<!-- MEMES:END -->
+ - 🚖 [Crossroads ...](http://9gag.com/gag/aO3wNO2)
+ - 🚯 [A villain&#039;s origin story](http://9gag.com/gag/aV7AB8P)
+ - 🚯 [Didn&#039;t expect that one. . .](http://9gag.com/gag/a9EoNj0)<!-- MEMES:END -->
 
 --- 
 
