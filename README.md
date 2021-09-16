@@ -181,9 +181,9 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Legend of the Kestrel Lancers Expansion Coming to MechWarrior 5: Mercenaries on September 23](https://news.xbox.com/en-us/2021/09/16/legend-of-the-kestrel-lancers-expansion-coming-to-mechwarrior-5-mercenaries-on-september-23/)
- - [Gran Turismo 7’s campaign is always-online, and fans are not thrilled](https://www.polygon.com/22678189/gran-turismo-7-always-online-campaign-career-internet-requirement-ps5)
- - [Jurassic Park gets the legacy treatment with a board game that spans the entire franchise](https://www.polygon.com/22678122/jurassic-park-legacy-board-game-announcement)<!-- GAME:END -->
+ - [Ikea introduces a new line of furniture and gear for gamers](https://www.polygon.com/22678070/ikea-gamer-gear-collaboration-republic-gamers-desk-chairs-storage)
+ - [The best HDMI cable for PC gaming in 2021](https://www.pcgamer.com/the-best-hdmi-for-gaming-on-pc-in-2019)
+ - [God Of War Ragnarök Will Wrap Story Because Trilogies Take Too Long](https://kotaku.com/god-of-war-ragnarok-will-wrap-story-because-trilogies-t-1847691005)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
