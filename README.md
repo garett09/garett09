@@ -181,9 +181,9 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Chinese chipmaker says it's inching closer to producing a GTX 1080 grade GPU](https://www.pcgamer.com/chinese-chipmaker-says-its-inching-closer-to-producing-a-gtx-1080-grade-gpu)
  - [Halo: The Master Chief Collection may cease seasonal updates after Halo Infinite's launch](https://www.pcgamer.com/halo-the-master-chief-collection-may-cease-seasonal-updates-after-halo-infinites-launch)
- - [Nvidia CEO Jen-Hsun Huang named one of Time's most influential people](https://www.pcgamer.com/time-influential-list-2021-nvidia-jen-hsun-huang)
- - [The Latest Life-Sized Gundam Is Disappointing Some Fans](https://kotaku.com/the-latest-life-sized-gundam-is-disappointing-some-fans-1847686225)<!-- GAME:END -->
+ - [Nvidia CEO Jen-Hsun Huang named one of Time's most influential people](https://www.pcgamer.com/time-influential-list-2021-nvidia-jen-hsun-huang)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
