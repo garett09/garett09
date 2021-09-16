@@ -188,9 +188,9 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meet the YouTubers determined to find lost media](https://www.theverge.com/22675716/lost-media-youtube-mean-girls)
- - [Avalanche Foundation, whose AVAX token is up 65% over the past week, raises $230M led by Polychain and Three Arrows Capital (Joanna Ossinger/Bloomberg)](http://www.techmeme.com/210916/p17#a210916p17)
- - [Google’s R&D division experiments with newsletters powered by Google Drive](http://feedproxy.google.com/~r/Techcrunch/~3/8_Fbf4RXry8/)<!-- TECH:END -->
+ - [As offices come back, ATMO launches air monitoring device claiming to give COVID-risk score](http://feedproxy.google.com/~r/Techcrunch/~3/KmH9N078zz8/)
+ - [Best Deals Sept. 16 - $212 GoPro Hero7 Bundle, 50-inch HDR television for $499, and more!](https://appleinsider.com/articles/21/09/16/best-deals-sept-16---212-gopro-hero7-bundle-50-inch-hdr-television-for-499-and-more?utm_medium=rss)
+ - [DoorDash launches alcohol delivery in U.S., Canada and Australia](http://feedproxy.google.com/~r/Techcrunch/~3/5YHbcA81g7Q/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
