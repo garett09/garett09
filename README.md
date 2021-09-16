@@ -181,9 +181,9 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Inside Xbox Series X|S Optimized – Diablo II: Resurrected](https://news.xbox.com/en-us/2021/09/16/inside-xbox-series-xs-optimized-diablo-2-resurrected/)
- - [‘We’re going to hide it’: How Lilo & Stitch succeeded by staying off Disney’s radar](https://www.polygon.com/features/22675483/lilo-and-stitch-disney-animation-chris-sanders-dean-deblois)
- - [How to overclock an AMD Ryzen CPU](https://www.pcgamer.com/amd-ryzen-overclock)<!-- GAME:END -->
+ - [Sea of Thieves’ next season sends pirates under the sea](https://www.polygon.com/22677621/sea-of-thieves-season-4-september-23-announcement)
+ - [Deathloop walkthrough, guides, and tips](https://www.polygon.com/deathloop-guide-walkthrough/22665192/visionary-leads-aresonal-trinket-code)
+ - [Open the ClassPass door in Charlie’s mansion — Deathloop guide](https://www.polygon.com/deathloop-guide-walkthrough/22677668/classpass-door-charlie-mansion-frank-club-disable-code)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
