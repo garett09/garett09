@@ -181,9 +181,9 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [‘Two Jawas In A Trenchcoat’ Is My New Favorite Star Wars Character](https://kotaku.com/two-jawas-in-a-trenchcoat-is-my-new-favorite-star-war-1847685216)
- - [Prefer a loud keyboard? These mechanical models with RGB are as low as $25](https://www.pcgamer.com/prefer-a-loud-keyboard-these-mechanical-models-with-rgb-are-as-low-as-dollar25)
- - [How to use a DualShock 4 PS4 controller on PC](https://www.pcgamer.com/how-to-use-a-ps4-controller-on-pc)<!-- GAME:END -->
+ - [Sherlock Holmes Chapter One sleuths to PS5 November 16](https://blog.playstation.com/2021/09/16/sherlock-holmes-chapter-one-sleuths-to-ps5-november-16/)
+ - [Memoria’s sensory-overload mystery swirls around Tilda Swinton](https://www.polygon.com/reviews/22675792/memoria-review-tilda-swinton)
+ - [‘Two Jawas In A Trenchcoat’ Is My New Favorite Star Wars Character](https://kotaku.com/two-jawas-in-a-trenchcoat-is-my-new-favorite-star-war-1847685216)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
