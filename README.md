@@ -195,9 +195,9 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What the actual f**k](http://9gag.com/gag/aV7ABMv)
+ - 🚖 [Type of gaming chairs](http://9gag.com/gag/aK6RpvN)
  - 🚯 [You&#039;re a b*tch, Harry.](http://9gag.com/gag/a6EP8be)
- - 🚯 [This is so faquing scary](http://9gag.com/gag/a07BODZ)<!-- MEMES:END -->
+ - 🚯 [This era (pt.2)](http://9gag.com/gag/a27eGYw)<!-- MEMES:END -->
 
 --- 
 
