@@ -181,9 +181,9 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Saga Behind The New PS5's Heatsink, Explained](https://kotaku.com/the-saga-behind-the-new-ps5s-heatsink-explained-1847689679)
- - [Wario deserves an exclusive console](https://www.polygon.com/22676357/wario-exclusive-console-nintendo-switch-joy-con-hardware)
- - [Death's Gambit: Afterlife update doubles the size of its Soulslike adventure](https://www.pcgamer.com/deaths-gambit-afterlife)<!-- GAME:END -->
+ - [Get Ready to Dig Deep with Surviving Mars: Below & Beyond](https://news.xbox.com/en-us/2021/09/16/get-ready-to-dig-deep-with-surviving-mars-below-beyond/)
+ - [Warhammer 40K’s first Kill Team expansion includes Sisters of Battle and T’au forces](https://www.polygon.com/22678001/warhammer-40k-kill-team-expansion-chalnath-sisters-tau-release-date-price)
+ - [Valheim’s new update lets Vikings make beautiful new homes](https://www.polygon.com/22677844/valheim-hearth-and-home-launch-features-announcement-iron-gate)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
