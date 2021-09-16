@@ -195,9 +195,9 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Managed to find both sides of the story for you](http://9gag.com/gag/av5NDgb)
- - 🚯 [Where kaiju](http://9gag.com/gag/ad8E4e2)
- - 🚯 [To all the dads showing up when it counts!](http://9gag.com/gag/amP3bAy)<!-- MEMES:END -->
+ - 🚖 [Does this remind of any stereotypes ?](http://9gag.com/gag/aMKgNv1)
+ - 🚯 [When you f*ck up](http://9gag.com/gag/a1r9xVY)
+ - 🚯 [If you ever felt like your life is the worst and there&#039;s nothing you could do to change it.](http://9gag.com/gag/a3Emx6e)<!-- MEMES:END -->
 
 --- 
 
