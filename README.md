@@ -195,9 +195,9 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Type of gaming chairs](http://9gag.com/gag/aK6RpvN)
- - 🚯 [You&#039;re a b*tch, Harry.](http://9gag.com/gag/a6EP8be)
- - 🚯 [This era (pt.2)](http://9gag.com/gag/a27eGYw)<!-- MEMES:END -->
+ - 🚖 [Fat kid](http://9gag.com/gag/a9EoB5o)
+ - 🚯 [Type of gaming chairs](http://9gag.com/gag/aK6RpvN)
+ - 🚯 [1st attempt](http://9gag.com/gag/aP35rLB)<!-- MEMES:END -->
 
 --- 
 
