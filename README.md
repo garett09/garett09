@@ -195,9 +195,9 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How old am I? Who remembers?](http://9gag.com/gag/a1r9E0v)
- - 🚯 [Totally](http://9gag.com/gag/apNOVPB)
- - 🚯 [&quot;It was looking a little flat so we added some dimension.&quot;](http://9gag.com/gag/anQ6rm5)<!-- MEMES:END -->
+ - 🚖 [Make it$10](http://9gag.com/gag/aGpXOe6)
+ - 🚯 [How old am I? Who remembers?](http://9gag.com/gag/a1r9E0v)
+ - 🚯 [Wholesome as f**k](http://9gag.com/gag/a7EQpG2)<!-- MEMES:END -->
 
 --- 
 
