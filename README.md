@@ -188,9 +188,9 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple shareholders press company to reverse 'anti-competitive repair policies'](https://appleinsider.com/articles/21/09/16/apple-shareholders-press-company-to-reverse-anti-competitive-repair-policies?utm_medium=rss)
  - [Home Assistant Amber is a ready-to-use smart home platform](https://www.theverge.com/2021/9/16/22678088/home-assistant-amber-smart-home-hub-specs-release-date-price)
- - [The Morning Show season 2 premiere on Apple TV Plus tonight: When and where to watch it     - CNET](https://www.cnet.com/tech/services-and-software/the-morning-show-season-2-premiere-on-apple-tv-plus-tonight-when-and-where-to-watch-it/#ftag=CAD590a51e)
- - [4 ways to leverage ROAS to triple lead generation](http://feedproxy.google.com/~r/Techcrunch/~3/A9oBKc-_9Y8/)<!-- TECH:END -->
+ - [The Morning Show season 2 premiere on Apple TV Plus tonight: When and where to watch it     - CNET](https://www.cnet.com/tech/services-and-software/the-morning-show-season-2-premiere-on-apple-tv-plus-tonight-when-and-where-to-watch-it/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
