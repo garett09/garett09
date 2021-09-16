@@ -195,8 +195,8 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Where kaiju](http://9gag.com/gag/ad8E4e2)
- - 🚯 [Managed to find both sides of the story for you](http://9gag.com/gag/av5NDgb)
+ - 🚖 [Managed to find both sides of the story for you](http://9gag.com/gag/av5NDgb)
+ - 🚯 [Where kaiju](http://9gag.com/gag/ad8E4e2)
  - 🚯 [To all the dads showing up when it counts!](http://9gag.com/gag/amP3bAy)<!-- MEMES:END -->
 
 --- 
