@@ -195,9 +195,9 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Been doing cowboy stuff all day (first time playing RDR2) love it](http://9gag.com/gag/aAbjqDR)
- - 🚯 [When you f*ck up](http://9gag.com/gag/a1r9xVY)
- - 🚯 [If you ever felt like your life is the worst and there&#039;s nothing you could do to change it.](http://9gag.com/gag/a3Emx6e)<!-- MEMES:END -->
+ - 🚖 [Amish power!](http://9gag.com/gag/axM5QBb)
+ - 🚯 [If you ever felt like your life is the worst and there&#039;s nothing you could do to change it.](http://9gag.com/gag/a3Emx6e)
+ - 🚯 [Been doing cowboy stuff all day (first time playing RDR2) love it](http://9gag.com/gag/aAbjqDR)<!-- MEMES:END -->
 
 --- 
 
