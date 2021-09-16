@@ -195,8 +195,8 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This era (pt.2)](http://9gag.com/gag/a27eGYw)
- - 🚯 [A villain&#039;s origin story](http://9gag.com/gag/aV7AB8P)
+ - 🚖 [Managed to find both sides of the story for you](http://9gag.com/gag/av5NDgb)
+ - 🚯 [You&#039;re a b*tch, Harry.](http://9gag.com/gag/a6EP8be)
  - 🚯 [Apple fans](http://9gag.com/gag/aqj0D37)<!-- MEMES:END -->
 
 --- 
