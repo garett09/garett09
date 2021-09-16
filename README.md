@@ -188,9 +188,9 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mirantis launches cloud-native data center-as-a-service software](http://feedproxy.google.com/~r/Techcrunch/~3/OuoCrlmKfjs/)
- - [Sir Clive Sinclair, the creator of the landmark ZX Spectrum who helped popularize the home computer, dies at age 81 (Haroon Siddique/The Guardian)](http://www.techmeme.com/210916/p26#a210916p26)
- - [Twitter Super Follows has generated only around $6K+ in its first two weeks](http://feedproxy.google.com/~r/Techcrunch/~3/h2gMiiTS2zI/)<!-- TECH:END -->
+ - [Helen Mirren finds a side door into Harry Potter with a new game show](https://www.theverge.com/2021/9/16/22677912/harry-potter-helen-mirren-hogwarts-tournament-of-houses-game-show-hbo-max)
+ - [Apple's iPhone 13 Pro should make you care about LTPO displays     - CNET](https://www.cnet.com/tech/mobile/apples-iphone-13-pro-should-make-you-care-about-ltpo-displays/#ftag=CAD590a51e)
+ - [Mirantis launches cloud-native data center-as-a-service software](http://feedproxy.google.com/~r/Techcrunch/~3/OuoCrlmKfjs/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
