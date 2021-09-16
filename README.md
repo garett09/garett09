@@ -197,7 +197,7 @@ Windows                  9 hrs 4 mins        ███████████�
 <!-- MEMES:START -->
  - 🚖 [Useless bed design award goes to](http://9gag.com/gag/a07Bwvz)
  - 🚯 [Hello s3x pls](http://9gag.com/gag/aqj0DOR)
- - 🚯 [Cause I&#039;m in the hood.](http://9gag.com/gag/aAbjvQp)<!-- MEMES:END -->
+ - 🚯 [Snek](http://9gag.com/gag/arMY28X)<!-- MEMES:END -->
 
 --- 
 
