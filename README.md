@@ -188,9 +188,9 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [For the love of the loot: Blockchain, the metaverse and gaming’s blind spot](http://feedproxy.google.com/~r/Techcrunch/~3/k1lwkjTH91Y/)
- - [Apple's brand-new iPad 9th Gen is discounted to $299 at Walmart right now](https://appleinsider.com/articles/21/09/16/apples-brand-new-ipad-9th-gen-is-discounted-to-299-at-walmart-right-now?utm_medium=rss)
- - [iPhone SE: Release date, price, 5G and all the other rumors we're hearing     - CNET](https://www.cnet.com/tech/mobile/iphone-se-3-rumors-release-date-price-5g-support-retro-design-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Facebook will treat coordinated rule breakers using real accounts like troll farms](https://www.theverge.com/2021/9/16/22677732/facebook-coordinated-authentic-inauthentic-behavior-moderation-policy)
+ - [Compared: 2021 entry-level iPad 9 versus 2020 iPad 8](https://appleinsider.com/articles/21/09/16/compared-2021-entry-level-ipad-9-versus-2020-ipad-8?utm_medium=rss)
+ - [Apple's best iPhone 13 features are the trade-in offers, not the spec sheet     - CNET](https://www.cnet.com/tech/mobile/apple-best-iphone-13-features-are-the-trade-in-offers-not-the-spec-sheet/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
