@@ -195,9 +195,9 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Crossroads ...](http://9gag.com/gag/aO3wNO2)
- - 🚯 [A villain&#039;s origin story](http://9gag.com/gag/aV7AB8P)
- - 🚯 [Didn&#039;t expect that one. . .](http://9gag.com/gag/a9EoNj0)<!-- MEMES:END -->
+ - 🚖 [A villain&#039;s origin story](http://9gag.com/gag/aV7AB8P)
+ - 🚯 [Didn&#039;t expect that one. . .](http://9gag.com/gag/a9EoNj0)
+ - 🚯 [This perfectly executed technique to move the fridge](http://9gag.com/gag/awMwvqr)<!-- MEMES:END -->
 
 --- 
 
