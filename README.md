@@ -188,9 +188,9 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fantasy sports startup Sleeper, which has expanded into esports and has 3M+ users, raises $40M at a $400M valuation led by a16z (Gillian Tan/Bloomberg)](http://www.techmeme.com/210916/p12#a210916p12)
- - [Apple Store app trying to get you the iPad you want with 'similar options' prompt](https://appleinsider.com/articles/21/09/16/apple-store-app-trying-to-get-you-the-ipad-you-want-with-similar-options-prompt?utm_medium=rss)
- - [Initial benchmarks show iPhone 13's A15 chip offers a roughly 15% improvement for GPU performance and 10%-18% improvement for CPU performance over A14 (Eric Slivka/MacRumors)](http://www.techmeme.com/210916/p11#a210916p11)<!-- TECH:END -->
+ - [GoPro Hero 10 action cam unveiled with 5.3K video, 23MP stills](https://appleinsider.com/articles/21/09/16/gopro-hero-10-action-cam-unveiled-with-53k-video-23mp-stills?utm_medium=rss)
+ - [GoPro announces Hero 10 Black with 5.3K60 and smartphone-like features](https://www.theverge.com/2021/9/16/22675730/gopro-hero-10-black-announcement-gp2-high-frame-rate-auto-upload)
+ - [The GoPro Hero10: small step for the Hero10, big leap for GoPro](https://www.theverge.com/22675560/gopro-hero10-action-camera-review)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
