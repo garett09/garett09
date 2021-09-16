@@ -181,9 +181,9 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Get Your First Month of EA Play for Just 99 Cents](https://news.xbox.com/en-us/2021/09/16/first-month-ea-play-99-cents/)
- - [Nier Fan Game Wins Official Contest, Still Becomes Legal Headache](https://kotaku.com/nier-fan-game-wins-official-contest-still-becomes-lega-1847687909)
- - [How to get crystal shards in Valheim](https://www.pcgamer.com/how-to-get-valheim-crystal-shard-use)<!-- GAME:END -->
+ - [Inside Xbox Series X|S Optimized – Diablo II: Resurrected](https://news.xbox.com/en-us/2021/09/16/inside-xbox-series-xs-optimized-diablo-2-resurrected/)
+ - [‘We’re going to hide it’: How Lilo & Stitch succeeded by staying off Disney’s radar](https://www.polygon.com/features/22675483/lilo-and-stitch-disney-animation-chris-sanders-dean-deblois)
+ - [How to overclock an AMD Ryzen CPU](https://www.pcgamer.com/amd-ryzen-overclock)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
