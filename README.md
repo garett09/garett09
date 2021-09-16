@@ -181,9 +181,9 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Free Play Days – Hunt: Showdown, Judgment, and Blood Bowl 2: Legendary Edition](https://news.xbox.com/en-us/2021/09/16/free-play-days-hunt-showdown-judgment-and-blood-bowl-2/)
  - [New Wipeout game is for mobile phones, not PlayStation](https://www.polygon.com/22677320/new-wipeout-rush-android-ios-playstation)
- - [Deltarune Chapter 2 gets surprise release in two days](https://www.polygon.com/22677277/deltarune-chapter-2-release-date-undertale-toby-fox)
- - [One Of 2021's Best Games Is A Match-3](https://kotaku.com/one-of-2021s-best-games-is-a-match-3-1847687105)<!-- GAME:END -->
+ - [Call of Duty: Vanguard has a free open beta this weekend](https://www.pcgamer.com/call-of-duty-vanguard-has-a-free-open-beta-this-weekend)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
