@@ -195,9 +195,9 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This perfectly executed technique to move the fridge](http://9gag.com/gag/awMwvqr)
- - 🚯 [You&#039;re a b*tch, Harry.](http://9gag.com/gag/a6EP8be)
- - 🚯 [Apple fans](http://9gag.com/gag/aqj0D37)<!-- MEMES:END -->
+ - 🚖 [Angry cat vs Vet](http://9gag.com/gag/a4EvwMQ)
+ - 🚯 [It will never die](http://9gag.com/gag/anQ6Veq)
+ - 🚯 [Fat kid](http://9gag.com/gag/a9EoB5o)<!-- MEMES:END -->
 
 --- 
 
