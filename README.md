@@ -181,9 +181,9 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Flynn: Son of Crimson Available Today with Xbox Game Pass](https://news.xbox.com/en-us/2021/09/16/flynn-son-of-crimson-available-today-with-xbox-game-pass/)
- - [Sea of Thieves’ next season sends pirates under the sea](https://www.polygon.com/22677621/sea-of-thieves-season-4-september-23-announcement)
- - [Epic's latest free games feature high-speed brawling and sci-fi cannibalism](https://www.pcgamer.com/epics-latest-free-games-feature-high-speed-brawling-and-sci-fi-cannibalism)<!-- GAME:END -->
+ - [The Saga Behind The New PS5's Heatsink, Explained](https://kotaku.com/the-saga-behind-the-new-ps5s-heatsink-explained-1847689679)
+ - [Wario deserves an exclusive console](https://www.polygon.com/22676357/wario-exclusive-console-nintendo-switch-joy-con-hardware)
+ - [Death's Gambit: Afterlife update doubles the size of its Soulslike adventure](https://www.pcgamer.com/deaths-gambit-afterlife)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
