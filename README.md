@@ -188,9 +188,9 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Alphabet’s Project Taara laser tech beamed 700TB of data across nearly 5km](https://www.theverge.com/2021/9/16/22677015/project-taara-fsoc-wireless-internet-kinshasa-congo-fiber)
- - [FTC asks health apps, such as those tracking fitness or menstrual cycles, to notify consumers of data breaches as per the 2009 Health Breach Notification Rule (Maggie Miller/The Hill)](http://www.techmeme.com/210916/p5#a210916p5)
- - [Apple refutes FlickType developer's account of App Store issues](https://appleinsider.com/articles/21/09/15/apple-refutes-flicktype-developers-account-of-app-store-issues?utm_medium=rss)<!-- TECH:END -->
+ - [Apple’s premium smartphone success is leaving Samsung, Huawei well behind](https://www.androidauthority.com/apple-samsung-premium-smartphone-segment-q2-2021-3025035/)
+ - [African genomics startup 54gene raises $25M to expand precision medicine capabilities](http://feedproxy.google.com/~r/Techcrunch/~3/qW-cHMih1lI/)
+ - [Tanso nabs $1.9M pre-seed to help industrial manufacturers do sustainability reporting](http://feedproxy.google.com/~r/Techcrunch/~3/-i3AfoDCjDo/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
