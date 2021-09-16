@@ -195,8 +195,8 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [For me everything has always been a spaceship.](http://9gag.com/gag/aV7A2nP)
- - 🚯 [To be fair, that is to be expected tho..](http://9gag.com/gag/aAbjXBg)
+ - 🚖 [Wholesome as f**k](http://9gag.com/gag/a7EQpG2)
+ - 🚯 [Friendly fire](http://9gag.com/gag/ayMGYjY)
  - 🚯 [Do the math, its actually true](http://9gag.com/gag/aZ0e22X)<!-- MEMES:END -->
 
 --- 
