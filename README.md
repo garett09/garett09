@@ -181,9 +181,9 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Get Ready to Dig Deep with Surviving Mars: Below & Beyond](https://news.xbox.com/en-us/2021/09/16/get-ready-to-dig-deep-with-surviving-mars-below-beyond/)
- - [Warhammer 40K’s first Kill Team expansion includes Sisters of Battle and T’au forces](https://www.polygon.com/22678001/warhammer-40k-kill-team-expansion-chalnath-sisters-tau-release-date-price)
- - [Valheim’s new update lets Vikings make beautiful new homes](https://www.polygon.com/22677844/valheim-hearth-and-home-launch-features-announcement-iron-gate)<!-- GAME:END -->
+ - [Genshin Impact Fan Says They're Suing Devs For Changing A Character](https://kotaku.com/genshin-impact-fan-says-theyre-suing-devs-for-changing-1847690358)
+ - [Where to find onion seeds in Valheim](https://www.pcgamer.com/valheim-where-to-get-onion-seeds)
+ - [Cheap gaming laptop deals this week](https://www.pcgamer.com/gaming-laptop-deals)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
