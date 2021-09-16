@@ -188,9 +188,9 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Did Oppo just reveal a Kodak Edition Find X3 Pro? (Update: Launched)](https://www.androidauthority.com/oppo-find-x3-pro-kodak-edition-leather-2873718/)
- - [Whatnot raises another $150M for its livestream shopping platform, evolves into a unicorn](http://feedproxy.google.com/~r/Techcrunch/~3/CVBrNxyje94/)
- - [Facebook revamps its business tool lineup following threats to its ad targeting business](http://feedproxy.google.com/~r/Techcrunch/~3/p5MuLeiZvxw/)<!-- TECH:END -->
+ - [For the love of the loot: Blockchain, the metaverse and gaming’s blind spot](http://feedproxy.google.com/~r/Techcrunch/~3/k1lwkjTH91Y/)
+ - [Apple's brand-new iPad 9th Gen is discounted to $299 at Walmart right now](https://appleinsider.com/articles/21/09/16/apples-brand-new-ipad-9th-gen-is-discounted-to-299-at-walmart-right-now?utm_medium=rss)
+ - [iPhone SE: Release date, price, 5G and all the other rumors we're hearing     - CNET](https://www.cnet.com/tech/mobile/iphone-se-3-rumors-release-date-price-5g-support-retro-design-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
