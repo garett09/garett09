@@ -195,7 +195,7 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [If you ever felt like your life is the worst and there&#039;s nothing you could do to change it.](http://9gag.com/gag/a3Emx6e)
+ - 🚖 [Don&rsquo;t forget the glue](http://9gag.com/gag/aqj0BzY)
  - 🚯 [Elon Musk&rsquo;s SpaceX just made HISTORY, Launches first ever all-civilian crew into orbit.](http://9gag.com/gag/a27exPO)
  - 🚯 [Amish power!](http://9gag.com/gag/axM5QBb)<!-- MEMES:END -->
 
