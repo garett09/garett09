@@ -188,9 +188,9 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best credit cards for fair and average credit     - CNET](https://www.cnet.com/personal-finance/credit-cards/best-credit-cards-for-fair-and-average-credit/#ftag=CAD590a51e)
- - [Google Doodle honors pioneering green tea chemist Michiyo Tsujimura     - CNET](https://www.cnet.com/news/google-doodle-honors-pioneering-green-tea-chemist-michiyo-tsujimura/#ftag=CAD590a51e)
- - [Apple's new iPhone 13 Pro case illustrates massively enlarged camera 'bump'](https://appleinsider.com/articles/21/09/16/apples-new-iphone-13-pro-case-illustrates-massively-enlarged-camera-bump?utm_medium=rss)<!-- TECH:END -->
+ - [Save 65% on the Nighthawk RAX35 Wi-Fi 6 router, and more wireless router deals](https://www.androidauthority.com/best-wireless-router-deals-1113654/)
+ - [Best travel credit cards for September 2021     - CNET](https://www.cnet.com/personal-finance/credit-cards/best-travel-credit-card/#ftag=CAD590a51e)
+ - [Compared: 2021 entry-level iPad 9 versus 2020 iPad 8](https://appleinsider.com/articles/21/09/16/compared-2021-entry-level-ipad-9-versus-2020-ipad-8?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
