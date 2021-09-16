@@ -195,9 +195,9 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [We need more women like this](http://9gag.com/gag/apNOVDM)
- - 🚯 [Nut cracker](http://9gag.com/gag/aGpX78Z)
- - 🚯 [All about the delivery --- literally](http://9gag.com/gag/aWjzRYd)<!-- MEMES:END -->
+ - 🚖 [All about the delivery --- literally](http://9gag.com/gag/aWjzRYd)
+ - 🚯 [This is so faquing scary](http://9gag.com/gag/a07BODZ)
+ - 🚯 [&quot;It was looking a little flat so we added some dimension.&quot;](http://9gag.com/gag/anQ6rm5)<!-- MEMES:END -->
 
 --- 
 
