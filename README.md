@@ -188,9 +188,9 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Save 65% on the Nighthawk RAX35 Wi-Fi 6 router, and more wireless router deals](https://www.androidauthority.com/best-wireless-router-deals-1113654/)
- - [Best travel credit cards for September 2021     - CNET](https://www.cnet.com/personal-finance/credit-cards/best-travel-credit-card/#ftag=CAD590a51e)
- - [Compared: 2021 entry-level iPad 9 versus 2020 iPad 8](https://appleinsider.com/articles/21/09/16/compared-2021-entry-level-ipad-9-versus-2020-ipad-8?utm_medium=rss)<!-- TECH:END -->
+ - [Digital identity management firm ForgeRock closed up 46% in its NYSE debut for a market cap of ~$2.9B, after raising roughly $275M in its IPO (Bloomberg)](http://www.techmeme.com/210916/p30#a210916p30)
+ - [Cameo Calls let you have a video meet-and-greet with a celebrity](https://www.theverge.com/2021/9/16/22678456/cameo-calls-live-app-chat-celebrities-meet-and-greet)
+ - [Which iPhone 13 Should You Buy? Here's How to Preorder](https://www.wired.com/story/apple-iphone-13-deals)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
