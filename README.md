@@ -195,9 +195,9 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [All about the delivery --- literally](http://9gag.com/gag/aWjzRYd)
- - 🚯 [This is so faquing scary](http://9gag.com/gag/a07BODZ)
- - 🚯 [&quot;It was looking a little flat so we added some dimension.&quot;](http://9gag.com/gag/anQ6rm5)<!-- MEMES:END -->
+ - 🚖 [Useless bed design award goes to](http://9gag.com/gag/a07Bwvz)
+ - 🚯 [Hello s3x pls](http://9gag.com/gag/aqj0DOR)
+ - 🚯 [Cause I&#039;m in the hood.](http://9gag.com/gag/aAbjvQp)<!-- MEMES:END -->
 
 --- 
 
