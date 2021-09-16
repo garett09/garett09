@@ -188,9 +188,9 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [FTC says health apps must notify consumers about data breaches — or face fines](http://feedproxy.google.com/~r/Techcrunch/~3/fMrzNGYolAc/)
- - [SOSV is building a New Jersey HAX facility for industrial, healthcare and climate startups](http://feedproxy.google.com/~r/Techcrunch/~3/tT9uaA4OTo0/)
- - [Real-life Google Pixel 6 and Pixel 6 Pro are in the window of NYC Google Store](https://www.androidauthority.com/google-pixel-6-display-3025336/)<!-- TECH:END -->
+ - [Meet the YouTubers determined to find lost media](https://www.theverge.com/22675716/lost-media-youtube-mean-girls)
+ - [Avalanche Foundation, whose AVAX token is up 65% over the past week, raises $230M led by Polychain and Three Arrows Capital (Joanna Ossinger/Bloomberg)](http://www.techmeme.com/210916/p17#a210916p17)
+ - [Google’s R&D division experiments with newsletters powered by Google Drive](http://feedproxy.google.com/~r/Techcrunch/~3/8_Fbf4RXry8/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
