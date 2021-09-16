@@ -188,9 +188,9 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - ['Tiny Wings+' set to debut on Apple Arcade soon](https://appleinsider.com/articles/21/09/15/tiny-wings-set-to-arrive-on-apple-arcade-soon?utm_medium=rss)
- - [Samsung begins mass-producing 90Hz OLED laptop screens](https://www.theverge.com/2021/9/15/22676223/samsung-display-90hz-oled-laptop-screens-lenovo-asus)
- - [Pay just $37.99 for an iProVPN lifetime plan, and more great VPN deals](https://www.androidauthority.com/best-vpn-deals-1122185/)<!-- TECH:END -->
+ - [FTC says Alphabet, Amazon, Apple, Facebook, and Microsoft made 819 unreported acquisition deals of $1M+, including for patents and acquihires, from 2010 to 2019 (David McLaughlin/Bloomberg)](http://www.techmeme.com/210915/p48#a210915p48)
+ - [iPhone 13 Pro GPU benchmarks show 55% improvement over iPhone 12 Pro](https://appleinsider.com/articles/21/09/15/iphone-13-pro-gpu-benchmarks-show-55-improvement-over-iphone-12-pro?utm_medium=rss)
+ - [Sources: US firm Accuvant, now part of Optiv, sold iPhone hacking tool Karma to the UAE for $1.3M in 2016; the tool has been used against hundreds of targets (Patrick Howell O'Neill/MIT Technology ...)](http://www.techmeme.com/210915/p47#a210915p47)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
