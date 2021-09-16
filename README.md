@@ -188,9 +188,9 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Deals Sept. 16 - $212 GoPro Hero7 Bundle, 50-inch HDR television for $499, and more!](https://appleinsider.com/articles/21/09/16/best-deals-sept-16---212-gopro-hero7-bundle-50-inch-hdr-television-for-499-and-more?utm_medium=rss)
- - [As offices come back, ATMO launches air monitoring device claiming to give COVID-risk score](http://feedproxy.google.com/~r/Techcrunch/~3/KmH9N078zz8/)
- - [New LiftMaster smart garage door opener adds camera, brighter LEDs     - CNET](https://www.cnet.com/home/smart-home/new-liftmaster-smart-garage-door-opener-adds-camera-brighter-leds/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple's brand-new iPad 9th Gen is discounted to $299 at Walmart right now](https://appleinsider.com/articles/21/09/16/apples-brand-new-ipad-9th-gen-is-discounted-to-299-at-walmart-right-now?utm_medium=rss)
+ - [Ford boosts spending to increase production capacity of its F-150 Lightning electric truck](http://feedproxy.google.com/~r/Techcrunch/~3/NQq7JZTUT9s/)
+ - [Submit your pitch deck now for live feedback at TechCrunch Disrupt 2021 next week](http://feedproxy.google.com/~r/Techcrunch/~3/N6TLKkwHf8w/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
