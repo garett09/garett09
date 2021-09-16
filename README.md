@@ -188,9 +188,9 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [WhatsApp begins testing a yellow pages-style business directory](https://www.theverge.com/2021/9/16/22677065/whatsapp-business-directory-brazil-sao-paulo-e-commerce)
- - [Volta Trucks raises €37 million to bring electric delivery trucks to the streets of London and Paris](http://feedproxy.google.com/~r/Techcrunch/~3/4dN2JJzkDk4/)
- - [Gogoro will go public on Nasdaq after $2.35B SPAC deal](http://feedproxy.google.com/~r/Techcrunch/~3/Lmk88xOv-Ac/)<!-- TECH:END -->
+ - [Apple TV+ held secret talks with 'Dark Knight' director Christopher Nolan](https://appleinsider.com/articles/21/09/16/apple-tv-held-secret-talks-with-dark-knight-director-christopher-nolan?utm_medium=rss)
+ - [London-based Form3, which provides cloud-based payments tools to banks and fintechs, raises $160M Series C led by Goldman Sachs, bringing total funding to $220M (Dan Taylor/Tech.eu)](http://www.techmeme.com/210916/p7#a210916p7)
+ - [WhatsApp begins testing a yellow pages-style business directory](https://www.theverge.com/2021/9/16/22677065/whatsapp-business-directory-brazil-sao-paulo-e-commerce)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
