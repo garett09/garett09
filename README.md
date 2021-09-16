@@ -181,9 +181,9 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Gamer Dislocates Shoulder While Celebrating Tournament Victory](https://kotaku.com/gamer-dislocates-shoulder-while-celebrating-tournament-1847684447)
- - [The Stellaris 'Lem' update brings a new strategy of free updates to past DLC](https://www.pcgamer.com/the-stellaris-lem-update-brings-a-new-strategy-of-free-updates-to-past-dlc)
- - [Nendoroid And Figma Company Sued Over Mistreatment, Sexualized Toys](https://kotaku.com/nendoroid-and-figma-company-sued-over-mistreatment-sex-1847684279)<!-- GAME:END -->
+ - [Amazon‌ ‌Games‌ ‌hires‌ ‌former‌ ‌Ubisoft‌ ‌executive‌ ‌to‌ ‌lead‌ ‌work‌ ‌on‌ ‌competitive‌ ‌multiplayer‌ ‌game‌](https://www.pcgamer.com/amazon-ubisoft-exec)
+ - [Please Stop Closing Forums And Moving People To Discord](https://kotaku.com/please-stop-closing-forums-and-moving-people-to-discord-1847684851)
+ - [UN report calls for regulation of potentially dangerous AI](https://www.pcgamer.com/un-report-calls-for-regulation-of-potentially-dangerous-ai)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
