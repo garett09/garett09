@@ -188,9 +188,9 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How do you cross-examine a whistleblower?](https://www.theverge.com/2021/9/15/22676789/elizabeth-holmes-theranos-wire-fraud-erika-cheung-whistleblower)
- - [Melio, a B2B payments startup for small businesses, raises $250M Series D led by Thrive Capital and General Catalyst at a $4B valuation, up 3x from January (Reuters)](http://www.techmeme.com/210915/p50#a210915p50)
- - [Samsung's 90Hz OLED panels could be bound for MacBook Pro](https://appleinsider.com/articles/21/09/16/samsungs-90hz-oled-panels-could-be-bound-for-macbook-pro?utm_medium=rss)<!-- TECH:END -->
+ - [Patent licensing firm targets Apple's 3G cellular technology in new lawsuit](https://appleinsider.com/articles/21/09/16/patent-troll-targets-apples-3g-cellular-technology-in-new-lawsuit?utm_medium=rss)
+ - [Joe Biden announces a new Indo-Pacific security partnership with Australia and the UK to share tech in areas like AI, cybersecurity, and quantum technologies (Politico)](http://www.techmeme.com/210915/p51#a210915p51)
+ - [How do you cross-examine a whistleblower?](https://www.theverge.com/2021/9/15/22676789/elizabeth-holmes-theranos-wire-fraud-erika-cheung-whistleblower)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
