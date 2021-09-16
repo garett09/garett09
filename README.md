@@ -195,9 +195,9 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Fat kid](http://9gag.com/gag/a9EoB5o)
- - 🚯 [Type of gaming chairs](http://9gag.com/gag/aK6RpvN)
- - 🚯 [1st attempt](http://9gag.com/gag/aP35rLB)<!-- MEMES:END -->
+ - 🚖 [This era (pt.2)](http://9gag.com/gag/a27eGYw)
+ - 🚯 [A villain&#039;s origin story](http://9gag.com/gag/aV7AB8P)
+ - 🚯 [Apple fans](http://9gag.com/gag/aqj0D37)<!-- MEMES:END -->
 
 --- 
 
