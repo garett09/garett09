@@ -188,9 +188,9 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Fantasy sports startup Sleeper, which has expanded into esports and has 3M+ users, raises $40M at a $400M valuation led by a16z (Gillian Tan/Bloomberg)](http://www.techmeme.com/210916/p12#a210916p12)
  - [Apple Store app trying to get you the iPad you want with 'similar options' prompt](https://appleinsider.com/articles/21/09/16/apple-store-app-trying-to-get-you-the-ipad-you-want-with-similar-options-prompt?utm_medium=rss)
- - [Initial benchmarks show iPhone 13's A15 chip offers a roughly 15% improvement for GPU performance and 10%-18% improvement for CPU performance over A14 (Eric Slivka/MacRumors)](http://www.techmeme.com/210916/p11#a210916p11)
- - [China's biggest movie star, Zhao Wei, who had 86M Weibo followers, was erased from China's internet on August 26, amid a clampdown on its entertainment industry (Wenxin Fan/Wall Street Journal)](http://www.techmeme.com/210916/p10#a210916p10)<!-- TECH:END -->
+ - [Initial benchmarks show iPhone 13's A15 chip offers a roughly 15% improvement for GPU performance and 10%-18% improvement for CPU performance over A14 (Eric Slivka/MacRumors)](http://www.techmeme.com/210916/p11#a210916p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
