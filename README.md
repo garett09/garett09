@@ -188,9 +188,9 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Digital identity management firm ForgeRock closed up 46% in its NYSE debut for a market cap of ~$2.9B, after raising roughly $275M in its IPO (Bloomberg)](http://www.techmeme.com/210916/p30#a210916p30)
- - [Cameo Calls let you have a video meet-and-greet with a celebrity](https://www.theverge.com/2021/9/16/22678456/cameo-calls-live-app-chat-celebrities-meet-and-greet)
- - [Which iPhone 13 Should You Buy? Here's How to Preorder](https://www.wired.com/story/apple-iphone-13-deals)<!-- TECH:END -->
+ - [Apple executives talk impact of diversity initiatives at Congressional Black Caucus Foundation conference](https://appleinsider.com/articles/21/09/16/apple-executives-talk-impact-of-diversity-initiatives-at-congressional-black-caucus-foundation-conference?utm_medium=rss)
+ - [DHS: American extremists used TikTok in the lead up to the Jan. 6 riots to recruit new members and share "tactical guidance" for terrorist and criminal activity (Politico)](http://www.techmeme.com/210916/p31#a210916p31)
+ - [Facebook knows Instagram harms teens. Now, its plan to open the app to kids looks worse than ever](http://feedproxy.google.com/~r/Techcrunch/~3/WWngCs5fM8g/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
