@@ -188,9 +188,9 @@ Windows                  6 hrs 54 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Viral AirTag discovery behind license plate likely staged](https://appleinsider.com/articles/21/09/17/viral-airtag-discovery-behind-license-plate-likely-staged?utm_medium=rss)
- - [iPhone 13: Everything we know about Apple's new 2021 phone line     - CNET](https://www.cnet.com/tech/mobile/iphone-13-everything-know-about-apple-new-2021-phone-line/#ftag=CAD590a51e)
- - [2022 Nissan Pathfinder already recalled for loose hood latches     - Roadshow](https://www.cnet.com/roadshow/news/2022-nissan-pathfinder-recall-hood-latch/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [GitLab files for a US IPO; the company was valued at $6B after a secondary share sale in January (Sohini Podder/Reuters)](http://www.techmeme.com/210917/p13#a210917p13)
+ - [Michigan State Police to begin testing Ford Mach-E Interceptors](http://feedproxy.google.com/~r/Techcrunch/~3/Fa0XDwaHSYA/)
+ - [Hands on with Apple's iPhone 13 Pro silicone cases](https://appleinsider.com/articles/21/09/17/hands-on-with-apples-iphone-13-pro-silicone-cases?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
