@@ -181,9 +181,9 @@ Windows                  6 hrs 54 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [(For Southeast Asia) The Newest Version of AUTO CHESS  Lands September 23](http://feedproxy.google.com/~r/PSBlog/~3/h98rOdt5LJY/)
- - [(For Southeast Asia) The Newest Version of AUTO CHESS  Lands September 23](https://blog.playstation.com/2021/09/17/20210917-autochess/)
- - [Sir Clive Sinclair, Father Of Home Computing, Dies Aged 81](https://kotaku.com/sir-clive-sinclair-father-of-home-computing-dies-aged-1847694156)<!-- GAME:END -->
+ - [The best VR headset in 2021](https://www.pcgamer.com/best-vr-headset)
+ - [Hold off tens of thousands of on-screen nightmares in this survival horror RTS](https://www.pcgamer.com/defend-against-tens-of-thousands-of-on-screen-nightmares-in-this-survival-horror-rts)
+ - [Zedd Just Showed How Unfair Japan's Travel Ban Is](https://kotaku.com/zedd-just-showed-how-unfair-japans-travel-ban-is-1847694183)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
