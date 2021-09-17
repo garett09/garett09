@@ -196,8 +196,8 @@ Windows                  6 hrs 54 mins       ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [He must&rsquo;ve had Taco Bell](http://9gag.com/gag/aZ0eKeV)
- - 🚯 [Man instantly becomes a boy.](http://9gag.com/gag/aXoBz46)
- - 🚯 [How to raise a man.](http://9gag.com/gag/a8EZ9D3)<!-- MEMES:END -->
+ - 🚯 [How to raise a man.](http://9gag.com/gag/a8EZ9D3)
+ - 🚯 [Man instantly becomes a boy.](http://9gag.com/gag/aXoBz46)<!-- MEMES:END -->
 
 --- 
 
