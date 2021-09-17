@@ -197,7 +197,7 @@ Windows                  6 hrs 54 mins       ███████████�
 <!-- MEMES:START -->
  - 🚖 [Next levle water skipping](http://9gag.com/gag/aQoGKzw)
  - 🚯 [Pure economical factors...](http://9gag.com/gag/av5NV9b)
- - 🚯 [How to raise a man.](http://9gag.com/gag/a8EZ9D3)<!-- MEMES:END -->
+ - 🚯 [Car Transmission Explained in An Easy Way](http://9gag.com/gag/a4Ev8pm)<!-- MEMES:END -->
 
 --- 
 
