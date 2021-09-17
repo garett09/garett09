@@ -188,9 +188,9 @@ Windows                  6 hrs 54 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple faces labor relations charge, OSHA investigation over fired employee](https://appleinsider.com/articles/21/09/17/apple-faces-labor-relations-charge-osha-investigation-over-fired-employee?utm_medium=rss)
- - [Apple and Google remove jailed Kremlin critic Alexei Navalny's tactical voting app from their stores, bowing to Russian pressure (Reuters)](http://www.techmeme.com/210917/p4#a210917p4)
- - [Have a carrier-locked Galaxy S20? You can now grab September’s update.](https://www.androidauthority.com/samsung-galaxy-s20-update-1087091/)<!-- TECH:END -->
+ - [Microsoft’s new photos app for Windows 11 is a welcome redesign](https://www.theverge.com/2021/9/17/22679132/microsoft-windows-11-new-photos-app-design-features)
+ - [Apple drops iOS Private Relay feature for users in Russia](https://appleinsider.com/articles/21/09/17/apple-drops-ios-private-relay-feature-for-users-in-russia?utm_medium=rss)
+ - [Daily Authority: ⌚ Blood pressure is a tough squeeze](https://www.androidauthority.com/newsletters/da-september-17-2021/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
