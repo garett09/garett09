@@ -181,9 +181,9 @@ Windows                  6 hrs 54 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Sir Clive Sinclair, Father Of Home Computing, Dies Aged 81](https://kotaku.com/sir-clive-sinclair-father-of-home-computing-dies-aged-1847694156)
  - [(For Southeast Asia) “Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles” Versus Mode Character Introduction ①](http://feedproxy.google.com/~r/PSBlog/~3/CT-oHu4_5_w/)
- - [(For Southeast Asia) “Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles” Versus Mode Character Introduction ①](https://blog.playstation.com/2021/09/17/20210917-demonslayer/)
- - [The best Australian PC gaming deals this week](https://www.pcgamer.com/best-australian-pc-gaming-deals)<!-- GAME:END -->
+ - [(For Southeast Asia) “Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles” Versus Mode Character Introduction ①](https://blog.playstation.com/2021/09/17/20210917-demonslayer/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
