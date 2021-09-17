@@ -188,9 +188,9 @@ Windows                  6 hrs 54 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [SpaceX Inspiration4 mission delivers first magical images from orbit     - CNET](https://www.cnet.com/news/spacex-inspiration4-mission-delivers-first-magical-images-from-orbit/#ftag=CAD590a51e)
- - [iPhone 13 vs. 13 Mini vs. 13 Pro vs. 13 Pro Max: All the biggest differences     - CNET](https://www.cnet.com/tech/mobile/iphone-13-vs-13-mini-vs-13-pro-vs-13-pro-max-all-biggest-differences/#ftag=CAD590a51e)
- - [Apple's online store goes down ahead of iPhone 13 preorders](https://appleinsider.com/articles/21/09/17/apples-online-store-goes-down-ahead-of-iphone-13-preorders?utm_medium=rss)<!-- TECH:END -->
+ - [Telegram has exploded as a hub for criminals to buy, sell, and share stolen data and hacking tools as the messaging app becomes an alternative to the dark web (Hannah Murphy/Financial Times)](http://www.techmeme.com/210917/p2#a210917p2)
+ - [Samsung could be bringing its 108MP camera to the Galaxy A series](https://www.androidauthority.com/samsung-108mp-galaxy-a-series-3025760/)
+ - [Rune Labs, whose software aggregates the myriad of brain data into an integrated environment, raises $22.8M Series A led by Eclipse Ventures (Andrea Park/FierceBiotech)](http://www.techmeme.com/210917/p1#a210917p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
