@@ -181,9 +181,9 @@ Windows                  6 hrs 54 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best VR headset in 2021](https://www.pcgamer.com/best-vr-headset)
- - [Hold off tens of thousands of on-screen nightmares in this survival horror RTS](https://www.pcgamer.com/defend-against-tens-of-thousands-of-on-screen-nightmares-in-this-survival-horror-rts)
- - [Zedd Just Showed How Unfair Japan's Travel Ban Is](https://kotaku.com/zedd-just-showed-how-unfair-japans-travel-ban-is-1847694183)<!-- GAME:END -->
+ - [These Arctic CPU coolers qualify for a free LGA 1700 mounting kit for Intel's Alder Lake CPUs](https://www.pcgamer.com/these-arctic-cpu-coolers-qualify-for-a-free-lga-1700-mounting-kit-for-intels-alder-lake-cpus)
+ - [Guild Wars 2 is finally getting DirectX11 support, 9 years after launch](https://www.pcgamer.com/guild-wars-2-is-finally-getting-directx11-support-9-years-after-launch)
+ - [The best VR headset in 2021](https://www.pcgamer.com/best-vr-headset)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
