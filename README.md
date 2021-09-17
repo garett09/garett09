@@ -188,9 +188,9 @@ Windows                  6 hrs 54 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Florida man used Disney employee iPad to magically skip lines](https://www.theverge.com/2021/9/17/22679895/florida-man-hollywood-studios-skips-lines-disney-employee-ipad-app)
- - [Inside GitLab’s IPO filing](http://feedproxy.google.com/~r/Techcrunch/~3/Nc1vHeNo4Pk/)
- - [Apple Watch 7: Release date, new features and when the heck you can buy one     - CNET](https://www.cnet.com/tech/mobile/apple-watch-7-release-date-new-features-and-when-heck-you-can-buy-one/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Longtime VC, and happy Miami resident, David Blumberg has raised a new $225 million fund](http://feedproxy.google.com/~r/Techcrunch/~3/JLIslklCyQQ/)
+ - [Best iPhone 13 case deals: OtterBox, Pad & Quill, Spigen, Incipio & more all on sale](https://appleinsider.com/articles/21/09/17/best-iphone-13-case-deals-otterbox-pad-quill-spigen-incipio-more-all-on-sale?utm_medium=rss)
+ - [Report: Commure, which provides APIs for vendors and startups to build healthcare apps, raised $500M over two rounds of funding, valuing the company at $3.5B (Emily Olsen/MobiHealthNews)](http://www.techmeme.com/210917/p17#a210917p17)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
