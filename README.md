@@ -188,9 +188,9 @@ Windows                  6 hrs 54 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Have a carrier-locked Galaxy S20? You can now grab September’s update.](https://www.androidauthority.com/samsung-galaxy-s20-update-1087091/)
- - [Apple and Google bow to pressure in Russia to remove Kremlin critic’s tactical voting app](http://feedproxy.google.com/~r/Techcrunch/~3/E7LZkll4WuE/)
- - [Ikea’s gaming range launches globally next month](https://www.theverge.com/2021/9/17/22679118/ikeas-gaming-range-october-release-date-chairs-furniture-desks)<!-- TECH:END -->
+ - [Apple faces labor relations charge, OSHA investigation over fired employee](https://appleinsider.com/articles/21/09/17/apple-faces-labor-relations-charge-osha-investigation-over-fired-employee?utm_medium=rss)
+ - [Apple and Google remove jailed Kremlin critic Alexei Navalny's tactical voting app from their stores, bowing to Russian pressure (Reuters)](http://www.techmeme.com/210917/p4#a210917p4)
+ - [Have a carrier-locked Galaxy S20? You can now grab September’s update.](https://www.androidauthority.com/samsung-galaxy-s20-update-1087091/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
