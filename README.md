@@ -181,9 +181,9 @@ Windows                  6 hrs 54 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [LG's 48-inch OLED TV is spectacular for gaming and now $200 cheaper](https://www.pcgamer.com/lgs-48-inch-oled-tv-is-spectacular-for-gaming-and-now-dollar200-cheaper)
  - [Final Fantasy VII: Yoshinori Kitase on the highs and lows of creating the timeless PlayStation classic](http://feedproxy.google.com/~r/PSBlog/~3/OVxQg7EODmU/)
- - [Final Fantasy VII: Yoshinori Kitase on the highs and lows of creating the timeless PlayStation classic](https://blog.playstation.com/2021/09/17/final-fantasy-vii-yoshinori-kitase-on-the-highs-and-lows-of-creating-the-timeless-playstation-classic/)
- - [Take a first look at Buffy the Last Vampire Slayer, set 30 hard years after the show](https://www.polygon.com/comics/22678268/buffy-the-last-vampire-slayer-comic-boom-studios-post-apocalyptic-spike)<!-- GAME:END -->
+ - [Final Fantasy VII: Yoshinori Kitase on the highs and lows of creating the timeless PlayStation classic](https://blog.playstation.com/2021/09/17/final-fantasy-vii-yoshinori-kitase-on-the-highs-and-lows-of-creating-the-timeless-playstation-classic/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
