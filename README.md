@@ -188,9 +188,9 @@ Windows                  6 hrs 54 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to get an iPhone 13 with the iPhone Upgrade Program](https://appleinsider.com/articles/21/09/17/how-to-get-an-iphone-13-early-on-the-iphone-upgrade-program?utm_medium=rss)
- - [Google reportedly plans to add free channels to its smart TV platform](http://feedproxy.google.com/~r/Techcrunch/~3/307CLWLG7QA/)
- - [Apple's brand-new iPad 9th Gen is discounted to $299 at Walmart right now](https://appleinsider.com/articles/21/09/16/apples-brand-new-ipad-9th-gen-is-discounted-to-299-at-walmart-right-now?utm_medium=rss)<!-- TECH:END -->
+ - [HBO Max is offering 50 percent off ad-free plan for six months](https://www.theverge.com/2021/9/17/22679296/hbo-max-discount-6-months-deal)
+ - [OnePlus 9 and 9 Pro get September security patch and more features and fixes](https://www.androidauthority.com/oneplus-9-update-1212009/)
+ - [How to get an iPhone 13 with the iPhone Upgrade Program](https://appleinsider.com/articles/21/09/17/how-to-get-an-iphone-13-early-on-the-iphone-upgrade-program?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
