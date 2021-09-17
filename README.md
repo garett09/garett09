@@ -188,9 +188,9 @@ Windows                  6 hrs 54 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple, Google drop Russian opposition app ahead of election](https://appleinsider.com/articles/21/09/17/apple-google-drop-russian-opposition-app-ahead-of-election?utm_medium=rss)
- - [Oppo shows off new ColorOS 12 following OnePlus merger](https://www.theverge.com/2021/9/17/22679087/oppo-oneplus-coloros-12-update-announced-release-date)
- - [Poll: Do you value efficiency or power in your phone’s chipset?](https://www.androidauthority.com/efficiency-power-chipset-poll-3025829/)<!-- TECH:END -->
+ - [Have a carrier-locked Galaxy S20? You can now grab September’s update.](https://www.androidauthority.com/samsung-galaxy-s20-update-1087091/)
+ - [Apple and Google bow to pressure in Russia to remove Kremlin critic’s tactical voting app](http://feedproxy.google.com/~r/Techcrunch/~3/E7LZkll4WuE/)
+ - [Ikea’s gaming range launches globally next month](https://www.theverge.com/2021/9/17/22679118/ikeas-gaming-range-october-release-date-chairs-furniture-desks)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
