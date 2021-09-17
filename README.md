@@ -188,9 +188,9 @@ Windows                  6 hrs 54 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Best Laptop Backpacks for Work (and Life)](https://www.wired.com/gallery/the-best-backpacks-for-work)
- - [When Nicki Minaj’s Cousin’s Friend’s Balls Dominated Twitter](https://www.wired.com/story/nicki-minaj-vaccine-twitter)
- - [Internal docs: antivax activists flooded Facebook to sow doubt about the vaccine, overwhelming authoritative sources, despite its push to promote vaccinations (Wall Street Journal)](http://www.techmeme.com/210917/p6#a210917p6)<!-- TECH:END -->
+ - [How to get an iPhone 13 with the iPhone Upgrade Program](https://appleinsider.com/articles/21/09/17/how-to-get-an-iphone-13-early-on-the-iphone-upgrade-program?utm_medium=rss)
+ - [Google reportedly plans to add free channels to its smart TV platform](http://feedproxy.google.com/~r/Techcrunch/~3/307CLWLG7QA/)
+ - [Apple's brand-new iPad 9th Gen is discounted to $299 at Walmart right now](https://appleinsider.com/articles/21/09/16/apples-brand-new-ipad-9th-gen-is-discounted-to-299-at-walmart-right-now?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
