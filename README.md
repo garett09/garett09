@@ -195,7 +195,7 @@ Windows                  6 hrs 54 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How kids should play](http://9gag.com/gag/aoMXwAe)
+ - 🚖 [That moment when you think its just another faker, but then he pulls down his sock](http://9gag.com/gag/azMnpzB)
  - 🚯 [Minimum-wage gas station employee defends store from mass shoplifting spree](http://9gag.com/gag/a7EQxBm)
  - 🚯 [Bully punching a blind kid gets blindsided and body slammed](http://9gag.com/gag/aNpNbv4)<!-- MEMES:END -->
 
