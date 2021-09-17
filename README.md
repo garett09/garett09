@@ -195,9 +195,9 @@ Windows                  6 hrs 54 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Transformation](http://9gag.com/gag/awMw9PR)
- - 🚯 [Pure economical factors...](http://9gag.com/gag/av5NV9b)
- - 🚯 [Motivation](http://9gag.com/gag/anQ63en)<!-- MEMES:END -->
+ - 🚖 [Pure economical factors...](http://9gag.com/gag/av5NV9b)
+ - 🚯 [Motivation](http://9gag.com/gag/anQ63en)
+ - 🚯 [Man instantly becomes a boy.](http://9gag.com/gag/aXoBz46)<!-- MEMES:END -->
 
 --- 
 
