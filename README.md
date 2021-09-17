@@ -181,9 +181,9 @@ Windows                  6 hrs 54 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best Australian PC gaming deals this week](https://www.pcgamer.com/best-australian-pc-gaming-deals)
- - [Titan Quest and Jagged Alliance are free to keep right now](https://www.pcgamer.com/titan-quest-and-jagged-alliance-are-free-to-keep-right-now)
- - [Ikea's New Gaming Collection Looks Pretty Good](https://kotaku.com/ikeas-new-gaming-collection-looks-pretty-good-1847692859)<!-- GAME:END -->
+ - [(For Southeast Asia) “Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles” Versus Mode Character Introduction ①](http://feedproxy.google.com/~r/PSBlog/~3/CT-oHu4_5_w/)
+ - [(For Southeast Asia) “Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles” Versus Mode Character Introduction ①](https://blog.playstation.com/2021/09/17/20210917-demonslayer/)
+ - [The best Australian PC gaming deals this week](https://www.pcgamer.com/best-australian-pc-gaming-deals)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
