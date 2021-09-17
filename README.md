@@ -181,9 +181,9 @@ Windows                  6 hrs 54 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [SpongeBob, Crypto, and more headline THQ Nordic’s 10th Anniversary Showcase](http://feedproxy.google.com/~r/PSBlog/~3/---g7EO5TcY/)
+ - [SpongeBob SquarePants, Crypto, and more headline THQ Nordic’s 10th Anniversary Showcase](http://feedproxy.google.com/~r/PSBlog/~3/---g7EO5TcY/)
  - [SpongeBob SquarePants, Crypto, and more headline THQ Nordic’s 10th Anniversary Showcase](https://blog.playstation.com/2021/09/17/spongebob-crypto-and-more-headline-thq-nordics-10th-anniversary-showcase/)
- - [SpongeBob bumbles through the multiverse in new adventure game](https://www.polygon.com/22679702/spongebob-squarepants-nickelodeon-the-cosmic-shake-patrick-star-cartoon)<!-- GAME:END -->
+ - [Outcast is finally getting a proper sequel](https://www.pcgamer.com/outcast-is-finally-getting-a-proper-sequel)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
