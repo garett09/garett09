@@ -182,8 +182,8 @@ Windows                  6 hrs 54 mins       ███████████�
 
 <!-- GAME:START -->
  - [Every TV Moment I Recognized In The Cool New SpongeBob Game Reveal](https://kotaku.com/every-tv-moment-i-recognized-in-the-cool-new-spongebob-1847699681)
- - [Candyman and every new movie available to stream from home](https://www.polygon.com/2021/9/17/22668965/candyman-cry-macho-watch-netflix-nightbooks-hbo-max-amazon-new-movies)
- - [For Pistons’ announcer in NBA 2K22, the job was more than just his catch phrase](https://www.polygon.com/22680110/nba-2k22-home-team-pa-announcers-arena-voices-introductions)<!-- GAME:END -->
+ - [How to make a butcher knife to carve up your delicious Valheim pets](https://www.pcgamer.com/valheim-butcher-knife-)
+ - [Candyman and every new movie available to stream from home](https://www.polygon.com/2021/9/17/22668965/candyman-cry-macho-watch-netflix-nightbooks-hbo-max-amazon-new-movies)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
