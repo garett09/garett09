@@ -188,9 +188,9 @@ Windows                  6 hrs 54 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple posts first look at 'Foundation' one week before premiere](https://appleinsider.com/articles/21/09/17/apple-posts-first-look-at-foundation-one-week-before-premiere?utm_medium=rss)
- - [Apple ordering frequent COVID testing for all corporate, retail employees](https://appleinsider.com/articles/21/09/17/apple-to-mandate-coronavirus-testing-for-all-corporate-retail-employees?utm_medium=rss)
- - [Here’s exactly how much bigger the iPhone 13 batteries are](https://www.theverge.com/2021/9/17/22678607/iphone-13-reported-battery-sizes-increase-laptop-comparison)<!-- TECH:END -->
+ - [The iPhone’s notch: should it stay or should it go?](https://www.theverge.com/2021/9/17/22678603/iphone-13-notch-2021-face-id-touch-id)
+ - [Snapchat is getting an Among Us clone from Zynga](https://www.theverge.com/2021/9/17/22679557/snapchat-games-revamp-zynga-among-us-clone)
+ - [Tim Cook tells Apple employees he’s ‘looking forward to moving forward’ after Epic ruling](https://www.theverge.com/2021/9/17/22679724/tim-cook-epic-apple-antitrust-ruling-employee-meeting)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
