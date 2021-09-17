@@ -195,8 +195,8 @@ Windows                  6 hrs 54 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [You get what you deserve](http://9gag.com/gag/av5NBRE)
- - 🚯 [Car Transmission Explained in An Easy Way](http://9gag.com/gag/a4Ev8pm)
+ - 🚖 [This is my DIY &quot;vocal booth&quot; where I recorded my first song. After 10 years of struggling in underpaid jobs as a construction worker and a waiter, a record label offered me a deal. And I just want to share my happiness with you guys, I feel anything is possible right now!](http://9gag.com/gag/aV7A4nO)
+ - 🚯 [You get what you deserve](http://9gag.com/gag/av5NBRE)
  - 🚯 [Some of you may find this useful](http://9gag.com/gag/aGpXrz0)<!-- MEMES:END -->
 
 --- 
