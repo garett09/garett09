@@ -195,9 +195,9 @@ Windows                  6 hrs 54 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Bite my shiny metal a**](http://9gag.com/gag/aYo90mq)
- - 🚯 [Who&rsquo;s at fault, truck that stopped or motorcyclist going 126?](http://9gag.com/gag/aDdy9n7)
- - 🚯 [Now I&rsquo;m jacked but still horny](http://9gag.com/gag/a8EZOKp)<!-- MEMES:END -->
+ - 🚖 [Now I&rsquo;m jacked but still horny](http://9gag.com/gag/a8EZOKp)
+ - 🚯 [Bite my shiny metal a**](http://9gag.com/gag/aYo90mq)
+ - 🚯 [Feel better...](http://9gag.com/gag/av5Nw5b)<!-- MEMES:END -->
 
 --- 
 
