@@ -188,9 +188,9 @@ Windows                  6 hrs 54 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple has started preorders for the iPhone 13 and iPhone 13 Pro](https://appleinsider.com/articles/21/09/17/apple-has-started-preorders-for-the-iphone-13-and-iphone-13-pro?utm_medium=rss)
- - [OnePlus 9/Pro get Hasselblad XPan feature, recreating iconic camera experience](https://www.androidauthority.com/oneplus-9-pro-xpan-3024681/)
- - [OnePlus 9 software update pays homage to the Hasselblad XPan camera](https://www.theverge.com/2021/9/17/22676350/oneplus-9-camera-update-hasselblad-xpan-film-camera)<!-- TECH:END -->
+ - [The Best Laptop Backpacks for Work (and Life)](https://www.wired.com/gallery/the-best-backpacks-for-work)
+ - [When Nicki Minaj’s Cousin’s Friend’s Balls Dominated Twitter](https://www.wired.com/story/nicki-minaj-vaccine-twitter)
+ - [Internal docs: antivax activists flooded Facebook to sow doubt about the vaccine, overwhelming authoritative sources, despite its push to promote vaccinations (Wall Street Journal)](http://www.techmeme.com/210917/p6#a210917p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
