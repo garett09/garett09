@@ -188,9 +188,9 @@ Windows                  6 hrs 54 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [HBO Max is offering 50 percent off ad-free plan for six months](https://www.theverge.com/2021/9/17/22679296/hbo-max-discount-6-months-deal)
- - [OnePlus 9 and 9 Pro get September security patch and more features and fixes](https://www.androidauthority.com/oneplus-9-update-1212009/)
- - [How to get an iPhone 13 with the iPhone Upgrade Program](https://appleinsider.com/articles/21/09/17/how-to-get-an-iphone-13-early-on-the-iphone-upgrade-program?utm_medium=rss)<!-- TECH:END -->
+ - [Aurora Propulsion Technologies closes €1.7M seed for spacecraft maneuvering and deorbiting tech](http://feedproxy.google.com/~r/Techcrunch/~3/sCESwM4wXC8/)
+ - [The Chestnut Man, Bingo Hell, and more streaming trailers to watch](https://www.androidauthority.com/new-movie-trailers-1151533/)
+ - [Extra Crunch roundup: Adtech investing, Intuit buys Mailchimp, ideal customer profiles](http://feedproxy.google.com/~r/Techcrunch/~3/5H3zSBpqOV4/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
