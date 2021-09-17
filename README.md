@@ -196,8 +196,8 @@ Windows                  6 hrs 54 mins       ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [You get what you deserve](http://9gag.com/gag/av5NBRE)
- - 🚯 [Been doing cowboy stuff all day (first time playing RDR2) love it](http://9gag.com/gag/aAbjqDR)
- - 🚯 [Amish power!](http://9gag.com/gag/axM5QBb)<!-- MEMES:END -->
+ - 🚯 [Car Transmission Explained in An Easy Way](http://9gag.com/gag/a4Ev8pm)
+ - 🚯 [Some of you may find this useful](http://9gag.com/gag/aGpXrz0)<!-- MEMES:END -->
 
 --- 
 
