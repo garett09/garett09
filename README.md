@@ -188,9 +188,9 @@ Windows                  6 hrs 54 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The iPhone’s notch: should it stay or should it go?](https://www.theverge.com/2021/9/17/22678603/iphone-13-notch-2021-face-id-touch-id)
- - [Snapchat is getting an Among Us clone from Zynga](https://www.theverge.com/2021/9/17/22679557/snapchat-games-revamp-zynga-among-us-clone)
- - [Tim Cook tells Apple employees he’s ‘looking forward to moving forward’ after Epic ruling](https://www.theverge.com/2021/9/17/22679724/tim-cook-epic-apple-antitrust-ruling-employee-meeting)<!-- TECH:END -->
+ - [Viral AirTag discovery behind license plate likely staged](https://appleinsider.com/articles/21/09/17/viral-airtag-discovery-behind-license-plate-likely-staged?utm_medium=rss)
+ - [iPhone 13: Everything we know about Apple's new 2021 phone line     - CNET](https://www.cnet.com/tech/mobile/iphone-13-everything-know-about-apple-new-2021-phone-line/#ftag=CAD590a51e)
+ - [2022 Nissan Pathfinder already recalled for loose hood latches     - Roadshow](https://www.cnet.com/roadshow/news/2022-nissan-pathfinder-recall-hood-latch/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
