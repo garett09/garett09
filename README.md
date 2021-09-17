@@ -188,9 +188,9 @@ Windows                  6 hrs 54 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [GitLab files for a US IPO; the company was valued at $6B after a secondary share sale in January (Sohini Podder/Reuters)](http://www.techmeme.com/210917/p13#a210917p13)
- - [Michigan State Police to begin testing Ford Mach-E Interceptors](http://feedproxy.google.com/~r/Techcrunch/~3/Fa0XDwaHSYA/)
- - [Hands on with Apple's iPhone 13 Pro silicone cases](https://appleinsider.com/articles/21/09/17/hands-on-with-apples-iphone-13-pro-silicone-cases?utm_medium=rss)<!-- TECH:END -->
+ - [How and where to replace your old, depleted iPhone battery](https://www.theverge.com/22679492/iphone-apple-battery-replace-ifixit)
+ - [Best iPhone 13 case deals: OtterBox, Pad & Quill, Spigen, Incipio & more all on sale](https://appleinsider.com/articles/21/09/17/best-iphone-13-case-deals-otterbox-pad-quill-spigen-incipio-more-all-on-sale?utm_medium=rss)
+ - [TechCrunch Disrupt kicks off in just a few days](http://feedproxy.google.com/~r/Techcrunch/~3/rhgzFIdhtTM/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
