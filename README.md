@@ -181,9 +181,9 @@ Windows                  6 hrs 54 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Deathloop’s Villain Group Chat Is A Perfect Mess](https://kotaku.com/deathloop-s-villain-group-chat-is-a-perfect-mess-1847695907)
- - [Halo: The Master Chief Collection’s Season 8 will be its last](https://www.polygon.com/22679523/halo-master-chief-collection-final-season-update-content-support)
- - [The best wireless gaming keyboard in 2021](https://www.pcgamer.com/best-wireless-gaming-keyboard)<!-- GAME:END -->
+ - [Making Empathy Accessible in Life is Strange: True Colors, Available Now for Xbox One and Xbox Series X|S](https://news.xbox.com/en-us/2021/09/17/making-empathy-accessible-life-is-strange-true-colors/)
+ - [The answer to Life is Strange: True Colors’ biggest question is hiding in plain sight](https://www.polygon.com/gaming/22679525/life-is-strange-true-colors-spoilers-psa)
+ - [Deathloop’s Villain Group Chat Is A Perfect Mess](https://kotaku.com/deathloop-s-villain-group-chat-is-a-perfect-mess-1847695907)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
