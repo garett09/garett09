@@ -181,9 +181,9 @@ Windows                  6 hrs 54 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Week on Xbox: September 20 to 24](https://news.xbox.com/en-us/2021/09/17/next-week-on-xbox-september-20-to-24/)
- - [The best builds for Klee in Genshin Impact](https://www.pcgamer.com/how-to-get-genshin-impact-klee-build-best)
- - [The best builds for Beidou in Genshin Impact](https://www.pcgamer.com/best-genshin-impact-beidou-build)<!-- GAME:END -->
+ - [Décorum board game is one part Diplomacy, two parts visit to Ikea](https://www.polygon.com/tabletop-games/22679322/decorum-passive-aggressive-board-game-release-date-price)
+ - [Age of Empires 4: everything we know](https://www.pcgamer.com/age-of-empires-4-everything-we-know)
+ - [The best gaming routers in 2021](https://www.pcgamer.com/best-gaming-routers)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
