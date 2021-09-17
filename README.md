@@ -188,9 +188,9 @@ Windows                  6 hrs 54 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Aurora Propulsion Technologies closes €1.7M seed for spacecraft maneuvering and deorbiting tech](http://feedproxy.google.com/~r/Techcrunch/~3/sCESwM4wXC8/)
- - [The Chestnut Man, Bingo Hell, and more streaming trailers to watch](https://www.androidauthority.com/new-movie-trailers-1151533/)
- - [Extra Crunch roundup: Adtech investing, Intuit buys Mailchimp, ideal customer profiles](http://feedproxy.google.com/~r/Techcrunch/~3/5H3zSBpqOV4/)<!-- TECH:END -->
+ - [Castlevania: Grimoire of Souls and Temple Run: Puzzle Adventure now available on Apple Arcade     - CNET](https://www.cnet.com/tech/mobile/castlevania-grimoire-of-souls-and-temple-run-puzzle-adventure-now-available-on-apple-arcade/#ftag=CAD590a51e)
+ - [Apple and Google reportedly remove 'Smart Voting' app as Russian election starts     - CNET](https://www.cnet.com/tech/services-and-software/apple-and-google-reportedly-remove-smart-voting-app-as-russian-election-starts/#ftag=CAD590a51e)
+ - [Potentially massive Tesla Full Self-Driving rollout scheduled for next week with 'beta request' button     - Roadshow](https://www.cnet.com/roadshow/news/tesla-fsd-schedule-beta-request-button/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
