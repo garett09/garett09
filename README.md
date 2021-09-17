@@ -195,9 +195,9 @@ Windows                  6 hrs 54 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Wait for it.](http://9gag.com/gag/aoMXwOx)
- - 🚯 [Unveiling this baby pit viper](http://9gag.com/gag/aQoG5Ed)
- - 🚯 [Supportive Psycho-Killer](http://9gag.com/gag/aV7ArgP)<!-- MEMES:END -->
+ - 🚖 [Surprise Surprise Surprise!!!](http://9gag.com/gag/a8EZOyd)
+ - 🚯 [Now I&rsquo;m jacked but still horny](http://9gag.com/gag/a8EZOKp)
+ - 🚯 [Unveiling this baby pit viper](http://9gag.com/gag/aQoG5Ed)<!-- MEMES:END -->
 
 --- 
 
