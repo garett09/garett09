@@ -181,9 +181,9 @@ Windows                  6 hrs 54 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [A Paranormal Activity reboot drops on Paramount Plus next month](https://www.polygon.com/22679976/paranormal-activity-next-of-kin-release-date-paramount-plus)
  - [Deathloop’s kick is the unsung hero of Colt’s arsenal](https://www.polygon.com/22680007/deathloop-kick-level-design-cliffs-railings-stealth)
- - [The latest take on Dark Souls brings us a bird demon in human skin, various large doors](https://www.pcgamer.com/wuchang-fallen-feathers-trailer)
- - [SpongeBob SquarePants, Crypto, and more headline THQ Nordic’s 10th Anniversary Showcase](http://feedproxy.google.com/~r/PSBlog/~3/---g7EO5TcY/)<!-- GAME:END -->
+ - [The latest take on Dark Souls brings us a bird demon in human skin, various large doors](https://www.pcgamer.com/wuchang-fallen-feathers-trailer)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
