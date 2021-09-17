@@ -188,9 +188,9 @@ Windows                  6 hrs 54 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [SpaceX’s first private crew shows what they’ve been up to in orbit](https://www.theverge.com/2021/9/17/22680152/spacex-inspiration4-first-private-crew-update-in-orbit)
- - [Niantic is shutting down its AR Catan game after a year of early access](https://www.theverge.com/2021/9/17/22680166/niantic-catan-world-explorers-shutdown-early-access)
- - [Daily Crunch: Apple, Google bow to Russian pressure](http://feedproxy.google.com/~r/Techcrunch/~3/ELGcN6dqW5Y/)<!-- TECH:END -->
+ - [Best iPhone 13 Deals: Free phone offers, cash savings, trade-in promos](https://appleinsider.com/articles/21/09/17/best-iphone-13-deals-free-phone-offers-cash-savings-trade-in-promos?utm_medium=rss)
+ - [General Motors says it is building direct relationships with chip manufacturers to address shortages, following production halts at six assembly plants (David Shepardson/Reuters)](http://www.techmeme.com/210917/p19#a210917p19)
+ - [8 new HomeKit features arriving with Apple’s September 20th software updates](https://www.theverge.com/2021/9/17/22679870/new-apple-homekit-features-homepod-mini)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
