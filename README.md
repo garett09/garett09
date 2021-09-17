@@ -181,9 +181,9 @@ Windows                  6 hrs 54 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [For Pistons’ announcer in NBA 2K22, the job was more than just his catch phrase](https://www.polygon.com/22680110/nba-2k22-home-team-pa-announcers-arena-voices-introductions)
- - [How to decide if the Apple’s chaotic drama The Morning Show is for you](https://www.polygon.com/features/22680083/morning-show-season-2-watch-guide)
- - [This 325" display costs as much as a new helicopter](https://www.pcgamer.com/this-325-display-costs-as-much-as-a-new-helicopter)<!-- GAME:END -->
+ - [Every TV Moment I Recognized In The Cool New SpongeBob Game Reveal](https://kotaku.com/every-tv-moment-i-recognized-in-the-cool-new-spongebob-1847699681)
+ - [Candyman and every new movie available to stream from home](https://www.polygon.com/2021/9/17/22668965/candyman-cry-macho-watch-netflix-nightbooks-hbo-max-amazon-new-movies)
+ - [For Pistons’ announcer in NBA 2K22, the job was more than just his catch phrase](https://www.polygon.com/22680110/nba-2k22-home-team-pa-announcers-arena-voices-introductions)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
