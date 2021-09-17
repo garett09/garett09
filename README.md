@@ -188,9 +188,9 @@ Windows                  6 hrs 54 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus 9 vs iPhone 13 series: Which one should you buy?](https://www.androidauthority.com/oneplus-9-vs-iphone-13-3024722/)
- - [Neuroscience Is Inspiring Some Amazing Sci-Fi](https://www.wired.com/2021/09/geeks-guide-neuroscience-sci-fi)
- - [Man who unlocked nearly 2 million AT&T phones gets 12 years in prison](https://www.theverge.com/2021/9/17/22679359/man-unlocked-att-phones-sentenced-prison-fraud)<!-- TECH:END -->
+ - [This Android 11 privacy feature will expand to Marshmallow devices and higher](https://www.androidauthority.com/android-11-permission-3026078/)
+ - [Web host Epik was warned of a critical website bug weeks before it was hacked](http://feedproxy.google.com/~r/Techcrunch/~3/TmlTT7j0B7Y/)
+ - [Save 28% on the Apple AirPods Pro, and more AirPods deals](https://www.androidauthority.com/best-airpods-deals-1108713/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
