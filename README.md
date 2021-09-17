@@ -188,9 +188,9 @@ Windows                  6 hrs 54 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple is monitoring legal challenges to Texas abortion law](https://appleinsider.com/articles/21/09/17/apple-is-monitoring-legal-challenges-to-texas-abortion-law?utm_medium=rss)
  - [Apple's online store goes down ahead of iPhone 13 preorders](https://appleinsider.com/articles/21/09/17/apples-online-store-goes-down-ahead-of-iphone-13-preorders?utm_medium=rss)
- - [Developer disputes Apple's take on 'FlickType' removal](https://appleinsider.com/articles/21/09/17/developer-disputes-apples-take-on-flicktype-removal?utm_medium=rss)<!-- TECH:END -->
+ - [New iPad mini gets 5G, but lacks mmWave support](https://appleinsider.com/articles/21/09/17/new-ipad-mini-gets-5g-but-lacks-mmwave-support?utm_medium=rss)
+ - [Apple is monitoring legal challenges to Texas abortion law](https://appleinsider.com/articles/21/09/17/apple-is-monitoring-legal-challenges-to-texas-abortion-law?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
