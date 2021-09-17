@@ -195,8 +195,8 @@ Windows                  6 hrs 54 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Balls.](http://9gag.com/gag/a7EQgQz)
- - 🚯 [Ops, sorry...](http://9gag.com/gag/aRXnG2j)
+ - 🚖 [Wait for it.](http://9gag.com/gag/aoMXwOx)
+ - 🚯 [Unveiling this baby pit viper](http://9gag.com/gag/aQoG5Ed)
  - 🚯 [Supportive Psycho-Killer](http://9gag.com/gag/aV7ArgP)<!-- MEMES:END -->
 
 --- 
