@@ -195,9 +195,9 @@ Windows                  6 hrs 54 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This is my DIY &quot;vocal booth&quot; where I recorded my first song. After 10 years of struggling in underpaid jobs as a construction worker and a waiter, a record label offered me a deal. And I just want to share my happiness with you guys, I feel anything is possible right now!](http://9gag.com/gag/aV7A4nO)
- - 🚯 [Don&rsquo;t forget the glue](http://9gag.com/gag/aqj0BzY)
- - 🚯 [Amish power!](http://9gag.com/gag/axM5QBb)<!-- MEMES:END -->
+ - 🚖 [Save for later use](http://9gag.com/gag/a8EZvK1)
+ - 🚯 [Amish power!](http://9gag.com/gag/axM5QBb)
+ - 🚯 [Been doing cowboy stuff all day (first time playing RDR2) love it](http://9gag.com/gag/aAbjqDR)<!-- MEMES:END -->
 
 --- 
 
