@@ -195,9 +195,9 @@ Windows                  6 hrs 54 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Who&#039;s Mike?](http://9gag.com/gag/a07BGZL)
+ - 🚖 [Ever come face to face with a mountain goat?](http://9gag.com/gag/a8EZ9xp)
  - 🚯 [Supportive Psycho-Killer](http://9gag.com/gag/aV7ArgP)
- - 🚯 [Ever come face to face with a mountain goat?](http://9gag.com/gag/a8EZ9xp)<!-- MEMES:END -->
+ - 🚯 [Ops, sorry...](http://9gag.com/gag/aRXnG2j)<!-- MEMES:END -->
 
 --- 
 
