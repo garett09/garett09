@@ -181,9 +181,9 @@ Windows                  6 hrs 54 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Running your own gas station in Gas Station Simulator is just the best](https://www.pcgamer.com/running-your-own-gas-station-in-gas-station-simulator-is-just-the-best)
  - [Every TV Moment I Recognized In The Cool New SpongeBob Game Reveal](https://kotaku.com/every-tv-moment-i-recognized-in-the-cool-new-spongebob-1847699681)
- - [How to make a butcher knife to carve up your delicious Valheim pets](https://www.pcgamer.com/valheim-butcher-knife-)
- - [Candyman and every new movie available to stream from home](https://www.polygon.com/2021/9/17/22668965/candyman-cry-macho-watch-netflix-nightbooks-hbo-max-amazon-new-movies)<!-- GAME:END -->
+ - [How to make a butcher knife to carve up your delicious Valheim pets](https://www.pcgamer.com/valheim-butcher-knife-)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
