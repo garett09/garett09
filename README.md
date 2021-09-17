@@ -195,7 +195,7 @@ Windows                  6 hrs 54 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How to raise a man.](http://9gag.com/gag/a8EZ9D3)
+ - 🚖 [Supportive Psycho-Killer](http://9gag.com/gag/aV7ArgP)
  - 🚯 [Man instantly becomes a boy.](http://9gag.com/gag/aXoBz46)
  - 🚯 [Seems right](http://9gag.com/gag/anQ63gz)<!-- MEMES:END -->
 
