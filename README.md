@@ -181,9 +181,9 @@ Windows                  6 hrs 54 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [A Paranormal Activity reboot drops on Paramount Plus next month](https://www.polygon.com/22679976/paranormal-activity-next-of-kin-release-date-paramount-plus)
- - [Deathloop’s kick is the unsung hero of Colt’s arsenal](https://www.polygon.com/22680007/deathloop-kick-level-design-cliffs-railings-stealth)
- - [The latest take on Dark Souls brings us a bird demon in human skin, various large doors](https://www.pcgamer.com/wuchang-fallen-feathers-trailer)<!-- GAME:END -->
+ - [For Pistons’ announcer in NBA 2K22, the job was more than just his catch phrase](https://www.polygon.com/22680110/nba-2k22-home-team-pa-announcers-arena-voices-introductions)
+ - [How to decide if the Apple’s chaotic drama The Morning Show is for you](https://www.polygon.com/features/22680083/morning-show-season-2-watch-guide)
+ - [This 325" display costs as much as a new helicopter](https://www.pcgamer.com/this-325-display-costs-as-much-as-a-new-helicopter)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
