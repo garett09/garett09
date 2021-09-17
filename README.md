@@ -181,9 +181,9 @@ Windows                  6 hrs 54 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Making Empathy Accessible in Life is Strange: True Colors, Available Now for Xbox One and Xbox Series X|S](https://news.xbox.com/en-us/2021/09/17/making-empathy-accessible-life-is-strange-true-colors/)
- - [The answer to Life is Strange: True Colors’ biggest question is hiding in plain sight](https://www.polygon.com/gaming/22679525/life-is-strange-true-colors-spoilers-psa)
- - [Deathloop’s Villain Group Chat Is A Perfect Mess](https://kotaku.com/deathloop-s-villain-group-chat-is-a-perfect-mess-1847695907)<!-- GAME:END -->
+ - [Debating Y: The Last Man’s #girlboss world with The Bechdel Cast’s Jamie Loftus](https://www.polygon.com/2021/9/17/22679556/y-the-last-man-women-cast-feminism-themes-meaning)
+ - [Best gaming motherboards in 2021](https://www.pcgamer.com/best-gaming-motherboards)
+ - [Succession season 3 trailer kicks off the Roy Family civil war](https://www.polygon.com/22679542/succession-season-3-release-date-trailer-poster)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
