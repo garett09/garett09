@@ -181,9 +181,9 @@ Windows                  6 hrs 54 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [These Arctic CPU coolers qualify for a free LGA 1700 mounting kit for Intel's Alder Lake CPUs](https://www.pcgamer.com/these-arctic-cpu-coolers-qualify-for-a-free-lga-1700-mounting-kit-for-intels-alder-lake-cpus)
- - [Guild Wars 2 is finally getting DirectX11 support, 9 years after launch](https://www.pcgamer.com/guild-wars-2-is-finally-getting-directx11-support-9-years-after-launch)
- - [The best VR headset in 2021](https://www.pcgamer.com/best-vr-headset)<!-- GAME:END -->
+ - [Final Fantasy VII: Yoshinori Kitase on the highs and lows of creating the timeless PlayStation classic](http://feedproxy.google.com/~r/PSBlog/~3/OVxQg7EODmU/)
+ - [Final Fantasy VII: Yoshinori Kitase on the highs and lows of creating the timeless PlayStation classic](https://blog.playstation.com/2021/09/17/final-fantasy-vii-yoshinori-kitase-on-the-highs-and-lows-of-creating-the-timeless-playstation-classic/)
+ - [Take a first look at Buffy the Last Vampire Slayer, set 30 hard years after the show](https://www.polygon.com/comics/22678268/buffy-the-last-vampire-slayer-comic-boom-studios-post-apocalyptic-spike)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
