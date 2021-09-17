@@ -195,8 +195,8 @@ Windows                  6 hrs 54 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Minimum-wage gas station employee defends store from mass shoplifting spree](http://9gag.com/gag/a7EQxBm)
- - 🚯 [How kids should play](http://9gag.com/gag/aoMXwAe)
+ - 🚖 [How kids should play](http://9gag.com/gag/aoMXwAe)
+ - 🚯 [Minimum-wage gas station employee defends store from mass shoplifting spree](http://9gag.com/gag/a7EQxBm)
  - 🚯 [Bully punching a blind kid gets blindsided and body slammed](http://9gag.com/gag/aNpNbv4)<!-- MEMES:END -->
 
 --- 
