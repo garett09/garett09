@@ -196,8 +196,8 @@ Windows                  6 hrs 54 mins       ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Bite my shiny metal a**](http://9gag.com/gag/aYo90mq)
- - 🚯 [Guy got some serious reflex&#039;s!](http://9gag.com/gag/av5NjwM)
- - 🚯 [Bad when It happens](http://9gag.com/gag/aXoBOpV)<!-- MEMES:END -->
+ - 🚯 [Bad when It happens](http://9gag.com/gag/aXoBOpV)
+ - 🚯 [How kids should play](http://9gag.com/gag/aoMXwAe)<!-- MEMES:END -->
 
 --- 
 
