@@ -188,9 +188,9 @@ Windows                  6 hrs 54 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google could soon introduce free TV channels to its streaming platform](https://www.androidauthority.com/google-chromecast-free-tv-channels-3025792/)
- - [Emmy nominations 2021: The full list of award categories     - CNET](https://www.cnet.com/news/emmy-nominations-2021-the-full-list-of-award-categories/#ftag=CAD590a51e)
- - [NordVPN vs. Surfshark: VPN speed, security and price compared     - CNET](https://www.cnet.com/tech/services-and-software/nordvpn-vs-surfshark-vpn-speed-security-and-price-compared/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Oppo shows off new ColorOS 12 following OnePlus merger](https://www.theverge.com/2021/9/17/22679087/oppo-oneplus-coloros-12-update-announced-release-date)
+ - [Poll: Do you value efficiency or power in your phone’s chipset?](https://www.androidauthority.com/efficiency-power-chipset-poll-3025829/)
+ - [Google could soon introduce free TV channels to its streaming platform](https://www.androidauthority.com/google-chromecast-free-tv-channels-3025792/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
