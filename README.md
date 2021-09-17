@@ -188,9 +188,9 @@ Windows                  6 hrs 54 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Telegram has exploded as a hub for criminals to buy, sell, and share stolen data and hacking tools as the messaging app becomes an alternative to the dark web (Hannah Murphy/Financial Times)](http://www.techmeme.com/210917/p2#a210917p2)
- - [Samsung could be bringing its 108MP camera to the Galaxy A series](https://www.androidauthority.com/samsung-108mp-galaxy-a-series-3025760/)
- - [Rune Labs, whose software aggregates the myriad of brain data into an integrated environment, raises $22.8M Series A led by Eclipse Ventures (Andrea Park/FierceBiotech)](http://www.techmeme.com/210917/p1#a210917p1)<!-- TECH:END -->
+ - [Google could soon introduce free TV channels to its streaming platform](https://www.androidauthority.com/google-chromecast-free-tv-channels-3025792/)
+ - [Telegram has exploded as a hub for criminals to buy, sell, and share stolen data and hacking tools as it becomes an alternative to the dark web (Hannah Murphy/Financial Times)](http://www.techmeme.com/210917/p2#a210917p2)
+ - [Samsung could be bringing its 108MP camera to the Galaxy A series](https://www.androidauthority.com/samsung-108mp-galaxy-a-series-3025760/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
