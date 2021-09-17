@@ -188,9 +188,9 @@ Windows                  6 hrs 54 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best iPhone 13 Deals: Free phone offers, cash savings, trade-in promos](https://appleinsider.com/articles/21/09/17/best-iphone-13-deals-free-phone-offers-cash-savings-trade-in-promos?utm_medium=rss)
- - [Best Deals September 17 - $100 off AMD Ryzen 9 5950X, $105 Beats Studio Buds, and more!](https://appleinsider.com/articles/21/09/17/best-deals-september-17---100-off-amd-ryzen-9-5950x-105-beats-studio-buds-and-more?utm_medium=rss)
- - [WarnerMedia’s Andy Forssell will discuss HBO Max at Disrupt 2021](http://feedproxy.google.com/~r/Techcrunch/~3/jBjZswuUBRc/)<!-- TECH:END -->
+ - [OnePlus 9 vs iPhone 13 series: Which one should you buy?](https://www.androidauthority.com/oneplus-9-vs-iphone-13-3024722/)
+ - [Neuroscience Is Inspiring Some Amazing Sci-Fi](https://www.wired.com/2021/09/geeks-guide-neuroscience-sci-fi)
+ - [Man who unlocked nearly 2 million AT&T phones gets 12 years in prison](https://www.theverge.com/2021/9/17/22679359/man-unlocked-att-phones-sentenced-prison-fraud)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
