@@ -195,9 +195,9 @@ Windows                  6 hrs 54 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Next levle water skipping](http://9gag.com/gag/aQoGKzw)
- - 🚯 [Pure economical factors...](http://9gag.com/gag/av5NV9b)
- - 🚯 [Car Transmission Explained in An Easy Way](http://9gag.com/gag/a4Ev8pm)<!-- MEMES:END -->
+ - 🚖 [Ever come face to face with a mountain goat?](http://9gag.com/gag/a8EZ9xp)
+ - 🚯 [Car Transmission Explained in An Easy Way](http://9gag.com/gag/a4Ev8pm)
+ - 🚯 [Man instantly becomes a boy.](http://9gag.com/gag/aXoBz46)<!-- MEMES:END -->
 
 --- 
 
