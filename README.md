@@ -189,8 +189,8 @@ Windows                  6 hrs 54 mins       ███████████�
 
 <!-- TECH:START -->
  - [Google could soon introduce free TV channels to its streaming platform](https://www.androidauthority.com/google-chromecast-free-tv-channels-3025792/)
- - [Telegram has exploded as a hub for criminals to buy, sell, and share stolen data and hacking tools as it becomes an alternative to the dark web (Hannah Murphy/Financial Times)](http://www.techmeme.com/210917/p2#a210917p2)
- - [Samsung could be bringing its 108MP camera to the Galaxy A series](https://www.androidauthority.com/samsung-108mp-galaxy-a-series-3025760/)<!-- TECH:END -->
+ - [Emmy nominations 2021: The full list of award categories     - CNET](https://www.cnet.com/news/emmy-nominations-2021-the-full-list-of-award-categories/#ftag=CAD590a51e)
+ - [NordVPN vs. Surfshark: VPN speed, security and price compared     - CNET](https://www.cnet.com/tech/services-and-software/nordvpn-vs-surfshark-vpn-speed-security-and-price-compared/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
