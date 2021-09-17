@@ -195,9 +195,9 @@ Windows                  6 hrs 54 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Walmart](http://9gag.com/gag/a9Eogv1)
- - 🚯 [How kids should play](http://9gag.com/gag/aoMXwAe)
- - 🚯 [I need to get adblock](http://9gag.com/gag/aO3wL2R)<!-- MEMES:END -->
+ - 🚖 [How kids should play](http://9gag.com/gag/aoMXwAe)
+ - 🚯 [Walmart](http://9gag.com/gag/a9Eogv1)
+ - 🚯 [Bully punching a blind kid gets blindsided and body slammed](http://9gag.com/gag/aNpNbv4)<!-- MEMES:END -->
 
 --- 
 
