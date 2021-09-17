@@ -181,9 +181,9 @@ Windows                  6 hrs 54 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Brutal RPG Adventure Tails of Iron Available Now for Xbox One and Xbox Series X|S](https://news.xbox.com/en-us/2021/09/17/tails-of-iron-available-now/)
- - [Blizzard Reduces Titty In World Of Warcraft, But Not Sexism At The Company](https://kotaku.com/blizzard-reduces-titty-in-world-of-warcraft-but-not-se-1847697184)
- - [Destiny 2 Xur location and items, Sept. 17-21](https://www.polygon.com/destiny-2-guide-walkthrough/2021/9/17/22679787/destiny-2-xur-location-items-sept-17-21)<!-- GAME:END -->
+ - [Lovecraft-Inspired Horror Game Explores The Cost Of Creation](https://kotaku.com/lovecraft-inspired-horror-game-explores-the-cost-of-cre-1847696873)
+ - [Khora: Rise of an Empire is (relatively) quick for a European-style board game](https://www.polygon.com/reviews/22678208/khora-rise-of-an-empire-board-game-review)
+ - [MechWarrior 5: Kestrel Lancers expansion launches next week, adds 'Mega Cities'](https://www.pcgamer.com/mechwarrior-5-kestrel-lancers-expansion-launches-next-week-adds-mega-cities)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
