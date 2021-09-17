@@ -181,9 +181,9 @@ Windows                  6 hrs 54 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to craft a lox saddle and ride those big wooly tanks](https://www.pcgamer.com/valheim-lox-saddle-ride)
- - [New WipEout Game Announced, Only It's Not On Console](https://kotaku.com/new-wipeout-game-announced-only-its-not-on-console-1847692615)
- - [February 22, 2022: The next big novelty release date to watch](https://www.pcgamer.com/february-22-2022-twosday)<!-- GAME:END -->
+ - [Titan Quest and Jagged Alliance are free to keep right now](https://www.pcgamer.com/titan-quest-and-jagged-alliance-are-free-to-keep-right-now)
+ - [Ikea's New Gaming Collection Looks Pretty Good](https://kotaku.com/ikeas-new-gaming-collection-looks-pretty-good-1847692859)
+ - [Here's what the Steam Deck UI will look like on your desktop](https://www.pcgamer.com/heres-what-the-steam-deck-ui-will-look-like-on-your-desktop)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
