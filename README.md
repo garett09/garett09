@@ -181,9 +181,9 @@ Windows                  6 hrs 54 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [LG's 48-inch OLED TV is spectacular for gaming and now $200 cheaper](https://www.pcgamer.com/lgs-48-inch-oled-tv-is-spectacular-for-gaming-and-now-dollar200-cheaper)
- - [Final Fantasy VII: Yoshinori Kitase on the highs and lows of creating the timeless PlayStation classic](http://feedproxy.google.com/~r/PSBlog/~3/OVxQg7EODmU/)
- - [Final Fantasy VII: Yoshinori Kitase on the highs and lows of creating the timeless PlayStation classic](https://blog.playstation.com/2021/09/17/final-fantasy-vii-yoshinori-kitase-on-the-highs-and-lows-of-creating-the-timeless-playstation-classic/)<!-- GAME:END -->
+ - [Next Week on Xbox: September 20 to 24](https://news.xbox.com/en-us/2021/09/17/next-week-on-xbox-september-20-to-24/)
+ - [The best builds for Klee in Genshin Impact](https://www.pcgamer.com/how-to-get-genshin-impact-klee-build-best)
+ - [The best builds for Beidou in Genshin Impact](https://www.pcgamer.com/best-genshin-impact-beidou-build)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
