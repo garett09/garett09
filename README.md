@@ -196,8 +196,8 @@ Windows                  6 hrs 54 mins       ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Vibe](http://9gag.com/gag/ayMGA5M)
- - 🚯 [Who&#039;s Mike?](http://9gag.com/gag/a07BGZL)
- - 🚯 [Propaganda](http://9gag.com/gag/a07BDNO)<!-- MEMES:END -->
+ - 🚯 [Next levle water skipping](http://9gag.com/gag/aQoGKzw)
+ - 🚯 [Too useful not to reshare](http://9gag.com/gag/ayMGm7b)<!-- MEMES:END -->
 
 --- 
 
