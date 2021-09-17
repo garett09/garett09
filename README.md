@@ -195,9 +195,9 @@ Windows                  6 hrs 54 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Is that a threat? That seemed like a threat.](http://9gag.com/gag/a5E49dr)
+ - 🚖 [To all the dads showing up when it counts!](http://9gag.com/gag/amP3bAy)
  - 🚯 [Don&rsquo;t forget the glue](http://9gag.com/gag/aqj0BzY)
- - 🚯 [Didn&#039;t expect that one. . .](http://9gag.com/gag/a9EoNj0)<!-- MEMES:END -->
+ - 🚯 [Some of you may find this useful](http://9gag.com/gag/aGpXrz0)<!-- MEMES:END -->
 
 --- 
 
