@@ -195,8 +195,8 @@ Windows                  6 hrs 54 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Bro this is yours.](http://9gag.com/gag/agBW9gg)
- - 🚯 [This is why it is hard to meet a knight these days](http://9gag.com/gag/aYo966v)
+ - 🚖 [Bad when It happens](http://9gag.com/gag/aXoBOpV)
+ - 🚯 [I can&#039;t kick the ball, but I can tackle the keeper.](http://9gag.com/gag/aDdy92K)
  - 🚯 [Unveiling this baby pit viper](http://9gag.com/gag/aQoG5Ed)<!-- MEMES:END -->
 
 --- 
