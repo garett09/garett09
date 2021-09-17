@@ -188,9 +188,9 @@ Windows                  6 hrs 54 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: US probe into Binance expands to include CFTC's review of alleged insider trading and market manipulation, following criminal probes by DOJ and the IRS (Tom Schoenberg/Bloomberg)](http://www.techmeme.com/210917/p18#a210917p18)
- - [How to preorder Apple’s new iPad and iPad Mini](https://www.theverge.com/22665133/apple-ipad-mini-2021-preorder-buy-how-to-price-release-date)
- - [Here’s how the new iPad Mini compares to the last-gen model](https://www.theverge.com/22677944/apple-ipad-mini-2019-vs-2021-comparison-upgrade-worthwhile)<!-- TECH:END -->
+ - [SpaceX’s first private crew shows what they’ve been up to in orbit](https://www.theverge.com/2021/9/17/22680152/spacex-inspiration4-first-private-crew-update-in-orbit)
+ - [Niantic is shutting down its AR Catan game after a year of early access](https://www.theverge.com/2021/9/17/22680166/niantic-catan-world-explorers-shutdown-early-access)
+ - [Daily Crunch: Apple, Google bow to Russian pressure](http://feedproxy.google.com/~r/Techcrunch/~3/ELGcN6dqW5Y/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
