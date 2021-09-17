@@ -196,8 +196,8 @@ Windows                  6 hrs 54 mins       ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Ever come face to face with a mountain goat?](http://9gag.com/gag/a8EZ9xp)
- - 🚯 [Supportive Psycho-Killer](http://9gag.com/gag/aV7ArgP)
- - 🚯 [Ops, sorry...](http://9gag.com/gag/aRXnG2j)<!-- MEMES:END -->
+ - 🚯 [Ops, sorry...](http://9gag.com/gag/aRXnG2j)
+ - 🚯 [Supportive Psycho-Killer](http://9gag.com/gag/aV7ArgP)<!-- MEMES:END -->
 
 --- 
 
