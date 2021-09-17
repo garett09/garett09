@@ -181,9 +181,9 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [How to craft a lox saddle and ride those big wooly tanks](https://www.pcgamer.com/valheim-lox-saddle-ride)
  - [New WipEout Game Announced, Only It's Not On Console](https://kotaku.com/new-wipeout-game-announced-only-its-not-on-console-1847692615)
- - [February 22, 2022: The next big novelty release date to watch](https://www.pcgamer.com/february-22-2022-twosday)
- - [Guillermo del Toro’s Nightmare Alley trailer sets up a dark mystery](https://www.polygon.com/22677377/nightmare-alley-trailer-release-date-bradley-cooper-guillermo-del-toro)<!-- GAME:END -->
+ - [February 22, 2022: The next big novelty release date to watch](https://www.pcgamer.com/february-22-2022-twosday)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
