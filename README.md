@@ -188,9 +188,9 @@ Windows                  6 hrs 54 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Longtime VC, and happy Miami resident, David Blumberg has raised a new $225 million fund](http://feedproxy.google.com/~r/Techcrunch/~3/JLIslklCyQQ/)
- - [Best iPhone 13 case deals: OtterBox, Pad & Quill, Spigen, Incipio & more all on sale](https://appleinsider.com/articles/21/09/17/best-iphone-13-case-deals-otterbox-pad-quill-spigen-incipio-more-all-on-sale?utm_medium=rss)
- - [Report: Commure, which provides APIs for vendors and startups to build healthcare apps, raised $500M over two rounds of funding, valuing the company at $3.5B (Emily Olsen/MobiHealthNews)](http://www.techmeme.com/210917/p17#a210917p17)<!-- TECH:END -->
+ - [Sources: US probe into Binance expands to include CFTC's review of alleged insider trading and market manipulation, following criminal probes by DOJ and the IRS (Tom Schoenberg/Bloomberg)](http://www.techmeme.com/210917/p18#a210917p18)
+ - [How to preorder Apple’s new iPad and iPad Mini](https://www.theverge.com/22665133/apple-ipad-mini-2021-preorder-buy-how-to-price-release-date)
+ - [Here’s how the new iPad Mini compares to the last-gen model](https://www.theverge.com/22677944/apple-ipad-mini-2019-vs-2021-comparison-upgrade-worthwhile)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
