@@ -181,9 +181,9 @@ Windows                  6 hrs 54 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Lovecraft-Inspired Horror Game Explores The Cost Of Creation](https://kotaku.com/lovecraft-inspired-horror-game-explores-the-cost-of-cre-1847696873)
- - [Khora: Rise of an Empire is (relatively) quick for a European-style board game](https://www.polygon.com/reviews/22678208/khora-rise-of-an-empire-board-game-review)
- - [MechWarrior 5: Kestrel Lancers expansion launches next week, adds 'Mega Cities'](https://www.pcgamer.com/mechwarrior-5-kestrel-lancers-expansion-launches-next-week-adds-mega-cities)<!-- GAME:END -->
+ - [SpongeBob, Crypto, and more headline THQ Nordic’s 10th Anniversary Showcase](http://feedproxy.google.com/~r/PSBlog/~3/---g7EO5TcY/)
+ - [SpongeBob SquarePants, Crypto, and more headline THQ Nordic’s 10th Anniversary Showcase](https://blog.playstation.com/2021/09/17/spongebob-crypto-and-more-headline-thq-nordics-10th-anniversary-showcase/)
+ - [SpongeBob bumbles through the multiverse in new adventure game](https://www.polygon.com/22679702/spongebob-squarepants-nickelodeon-the-cosmic-shake-patrick-star-cartoon)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
