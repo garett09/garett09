@@ -188,9 +188,9 @@ Windows                  6 hrs 54 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Bigeye, whose data observability platform helps companies manage and improve data quality, raises $45M Series B led by Coatue, bringing its total raised to $66M (Kyle Wiggers/VentureBeat)](http://www.techmeme.com/210916/p34#a210916p34)
  - [Internal report: Eastern European troll farms reached 140M US Facebook users per month before the 2020 election; 75% of the users didn't follow any of the Pages (Karen Hao/MIT Technology Review)](http://www.techmeme.com/210916/p33#a210916p33)
- - [Ryder to build logistics network with autonomous trucking company Embark](http://feedproxy.google.com/~r/Techcrunch/~3/Me98FgzxkTE/)
- - [In internal memo, Apple says it is monitoring legal challenges to Texas abortion law](http://feedproxy.google.com/~r/Techcrunch/~3/zalhp1tIxyo/)<!-- TECH:END -->
+ - [How Russia has spent a decade crumbling online freedoms     - CNET](https://www.cnet.com/features/how-russia-has-spent-a-decade-crumbling-online-freedoms/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
