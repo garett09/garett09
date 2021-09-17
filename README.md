@@ -195,7 +195,7 @@ Windows                  6 hrs 54 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ever come face to face with a mountain goat?](http://9gag.com/gag/a8EZ9xp)
+ - 🚖 [Balls.](http://9gag.com/gag/a7EQgQz)
  - 🚯 [Ops, sorry...](http://9gag.com/gag/aRXnG2j)
  - 🚯 [Supportive Psycho-Killer](http://9gag.com/gag/aV7ArgP)<!-- MEMES:END -->
 
