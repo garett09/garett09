@@ -195,9 +195,9 @@ Windows                  6 hrs 54 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I can&#039;t kick the ball, but I can tackle the keeper.](http://9gag.com/gag/aDdy92K)
- - 🚯 [Bad when It happens](http://9gag.com/gag/aXoBOpV)
- - 🚯 [Unveiling this baby pit viper](http://9gag.com/gag/aQoG5Ed)<!-- MEMES:END -->
+ - 🚖 [Promises promises](http://9gag.com/gag/arMYEx5)
+ - 🚯 [Unveiling this baby pit viper](http://9gag.com/gag/aQoG5Ed)
+ - 🚯 [Who&rsquo;s at fault, truck that stopped or motorcyclist going 126?](http://9gag.com/gag/aDdy9n7)<!-- MEMES:END -->
 
 --- 
 
