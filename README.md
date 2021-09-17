@@ -188,9 +188,9 @@ Windows                  6 hrs 54 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Glean, an enterprise search engine startup co-founded by Google and Facebook veterans, emerges from stealth with $55M in funding across two rounds (Kenrick Cai/Forbes)](http://www.techmeme.com/210916/p35#a210916p35)
- - [Bigeye, whose data observability platform helps companies manage and improve data quality, raises $45M Series B led by Coatue, bringing its total raised to $66M (Kyle Wiggers/VentureBeat)](http://www.techmeme.com/210916/p34#a210916p34)
- - [Internal report: Eastern European troll farms reached 140M US Facebook users per month before the 2020 election; 75% of the users didn't follow any of the Pages (Karen Hao/MIT Technology Review)](http://www.techmeme.com/210916/p33#a210916p33)<!-- TECH:END -->
+ - [Developer disputes Apple's take on 'FlickType' removal](https://appleinsider.com/articles/21/09/17/developer-disputes-apples-take-on-flicktype-removal?utm_medium=rss)
+ - [Omaze, a charity fundraising platform which offers celebrity meet-and-greets and other experiences, raises $85M Series C led by Moore Strategic Venture (Michaella Huck/dot.LA)](http://www.techmeme.com/210916/p36#a210916p36)
+ - [Glean, an enterprise search engine startup cofounded by Google and Facebook veterans, emerges from stealth with $55M in funding across two rounds (Kenrick Cai/Forbes)](http://www.techmeme.com/210916/p35#a210916p35)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
