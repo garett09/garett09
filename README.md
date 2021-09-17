@@ -195,8 +195,8 @@ Windows                  6 hrs 54 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Bad when It happens](http://9gag.com/gag/aXoBOpV)
- - 🚯 [I can&#039;t kick the ball, but I can tackle the keeper.](http://9gag.com/gag/aDdy92K)
+ - 🚖 [I can&#039;t kick the ball, but I can tackle the keeper.](http://9gag.com/gag/aDdy92K)
+ - 🚯 [Bad when It happens](http://9gag.com/gag/aXoBOpV)
  - 🚯 [Unveiling this baby pit viper](http://9gag.com/gag/aQoG5Ed)<!-- MEMES:END -->
 
 --- 
