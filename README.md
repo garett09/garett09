@@ -188,9 +188,9 @@ Windows                  6 hrs 54 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple threatened to pull Facebook from the App Store over human trafficking](https://appleinsider.com/articles/21/09/17/apple-threatened-to-pull-facebook-from-the-app-store-over-human-trafficking?utm_medium=rss)
- - [How and where to replace your old, depleted iPhone battery](https://www.theverge.com/22679492/iphone-apple-battery-replace-ifixit)
- - [OpenSea released an app — but it’s for browsing, not buying and selling](http://feedproxy.google.com/~r/Techcrunch/~3/SazfIoK1VbM/)<!-- TECH:END -->
+ - [iPhone 13 comparison, in-depth on Apple Watch Series 7, and iPad mini on the Appleinsider podcast](https://appleinsider.com/articles/21/09/17/iphone-13-comparison-in-depth-on-apple-watch-series-7-and-ipad-mini-on-the-appleinsider-podcast?utm_medium=rss)
+ - [8 new HomeKit features arriving with Apple’s September 20th software updates](https://www.theverge.com/2021/9/17/22679870/new-apple-homekit-features-homepod-mini)
+ - [iPhone Upgrade Program & Apple Card causing iPhone 13 pre-order snags [u]](https://appleinsider.com/articles/21/09/17/iphone-upgrade-program-apple-card-causing-iphone-13-pre-order-snags?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
