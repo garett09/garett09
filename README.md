@@ -195,8 +195,8 @@ Windows                  6 hrs 54 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Thai Ad](http://9gag.com/gag/av5NqLW)
- - 🚯 [Now I&rsquo;m jacked but still horny](http://9gag.com/gag/a8EZOKp)
+ - 🚖 [Bro this is yours.](http://9gag.com/gag/agBW9gg)
+ - 🚯 [This is why it is hard to meet a knight these days](http://9gag.com/gag/aYo966v)
  - 🚯 [Unveiling this baby pit viper](http://9gag.com/gag/aQoG5Ed)<!-- MEMES:END -->
 
 --- 
