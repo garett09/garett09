@@ -181,9 +181,9 @@ Windows                  6 hrs 54 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Décorum board game is one part Diplomacy, two parts visit to Ikea](https://www.polygon.com/tabletop-games/22679322/decorum-passive-aggressive-board-game-release-date-price)
- - [Age of Empires 4: everything we know](https://www.pcgamer.com/age-of-empires-4-everything-we-know)
- - [The best gaming routers in 2021](https://www.pcgamer.com/best-gaming-routers)<!-- GAME:END -->
+ - [Deathloop’s Villain Group Chat Is A Perfect Mess](https://kotaku.com/deathloop-s-villain-group-chat-is-a-perfect-mess-1847695907)
+ - [Halo: The Master Chief Collection’s Season 8 will be its last](https://www.polygon.com/22679523/halo-master-chief-collection-final-season-update-content-support)
+ - [The best wireless gaming keyboard in 2021](https://www.pcgamer.com/best-wireless-gaming-keyboard)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
