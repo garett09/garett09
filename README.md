@@ -188,9 +188,9 @@ Windows                  6 hrs 54 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 13 comparison, in-depth on Apple Watch Series 7, and iPad mini on the Appleinsider podcast](https://appleinsider.com/articles/21/09/17/iphone-13-comparison-in-depth-on-apple-watch-series-7-and-ipad-mini-on-the-appleinsider-podcast?utm_medium=rss)
- - [8 new HomeKit features arriving with Apple’s September 20th software updates](https://www.theverge.com/2021/9/17/22679870/new-apple-homekit-features-homepod-mini)
- - [iPhone Upgrade Program & Apple Card causing iPhone 13 pre-order snags [u]](https://appleinsider.com/articles/21/09/17/iphone-upgrade-program-apple-card-causing-iphone-13-pre-order-snags?utm_medium=rss)<!-- TECH:END -->
+ - [Florida man used Disney employee iPad to magically skip lines](https://www.theverge.com/2021/9/17/22679895/florida-man-hollywood-studios-skips-lines-disney-employee-ipad-app)
+ - [Inside GitLab’s IPO filing](http://feedproxy.google.com/~r/Techcrunch/~3/Nc1vHeNo4Pk/)
+ - [Apple Watch 7: Release date, new features and when the heck you can buy one     - CNET](https://www.cnet.com/tech/mobile/apple-watch-7-release-date-new-features-and-when-heck-you-can-buy-one/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
