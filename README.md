@@ -188,9 +188,9 @@ Windows                  6 hrs 54 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple, Google drop Russian opposition app ahead of election](https://appleinsider.com/articles/21/09/17/apple-google-drop-russian-opposition-app-ahead-of-election?utm_medium=rss)
  - [Oppo shows off new ColorOS 12 following OnePlus merger](https://www.theverge.com/2021/9/17/22679087/oppo-oneplus-coloros-12-update-announced-release-date)
- - [Poll: Do you value efficiency or power in your phone’s chipset?](https://www.androidauthority.com/efficiency-power-chipset-poll-3025829/)
- - [Google could soon introduce free TV channels to its streaming platform](https://www.androidauthority.com/google-chromecast-free-tv-channels-3025792/)<!-- TECH:END -->
+ - [Poll: Do you value efficiency or power in your phone’s chipset?](https://www.androidauthority.com/efficiency-power-chipset-poll-3025829/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
