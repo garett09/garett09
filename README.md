@@ -195,9 +195,9 @@ Windows                  6 hrs 54 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Seems right](http://9gag.com/gag/anQ63gz)
- - 🚯 [Vibe](http://9gag.com/gag/ayMGA5M)
- - 🚯 [Save for later use](http://9gag.com/gag/a8EZvK1)<!-- MEMES:END -->
+ - 🚖 [Vibe](http://9gag.com/gag/ayMGA5M)
+ - 🚯 [Who&#039;s Mike?](http://9gag.com/gag/a07BGZL)
+ - 🚯 [Propaganda](http://9gag.com/gag/a07BDNO)<!-- MEMES:END -->
 
 --- 
 
