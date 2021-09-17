@@ -195,9 +195,9 @@ Windows                  6 hrs 54 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Pure economical factors...](http://9gag.com/gag/av5NV9b)
- - 🚯 [Car Transmission Explained in An Easy Way](http://9gag.com/gag/a4Ev8pm)
- - 🚯 [Ever come face to face with a mountain goat?](http://9gag.com/gag/a8EZ9xp)<!-- MEMES:END -->
+ - 🚖 [Transformation](http://9gag.com/gag/awMw9PR)
+ - 🚯 [Pure economical factors...](http://9gag.com/gag/av5NV9b)
+ - 🚯 [Motivation](http://9gag.com/gag/anQ63en)<!-- MEMES:END -->
 
 --- 
 
