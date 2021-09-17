@@ -195,9 +195,9 @@ Windows                  6 hrs 54 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Bite my shiny metal a**](http://9gag.com/gag/aYo90mq)
- - 🚯 [Bad when It happens](http://9gag.com/gag/aXoBOpV)
- - 🚯 [How kids should play](http://9gag.com/gag/aoMXwAe)<!-- MEMES:END -->
+ - 🚖 [Walmart](http://9gag.com/gag/a9Eogv1)
+ - 🚯 [How kids should play](http://9gag.com/gag/aoMXwAe)
+ - 🚯 [I need to get adblock](http://9gag.com/gag/aO3wL2R)<!-- MEMES:END -->
 
 --- 
 
