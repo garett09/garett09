@@ -195,9 +195,9 @@ Windows                  6 hrs 54 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Save for later use](http://9gag.com/gag/a8EZvK1)
- - 🚯 [Amish power!](http://9gag.com/gag/axM5QBb)
- - 🚯 [Been doing cowboy stuff all day (first time playing RDR2) love it](http://9gag.com/gag/aAbjqDR)<!-- MEMES:END -->
+ - 🚖 [You get what you deserve](http://9gag.com/gag/av5NBRE)
+ - 🚯 [Been doing cowboy stuff all day (first time playing RDR2) love it](http://9gag.com/gag/aAbjqDR)
+ - 🚯 [Amish power!](http://9gag.com/gag/axM5QBb)<!-- MEMES:END -->
 
 --- 
 
