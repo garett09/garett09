@@ -181,9 +181,9 @@ Windows                  6 hrs 54 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Prisoners of Ghostland might be peak Nic Cage, which is saying something](https://www.polygon.com/movies/22258027/prisoners-of-ghostland-review)
- - [Destiny 2 Players Are Mad Bungie's Gonna Enforce Fair Multiplayer Matchmaking](https://kotaku.com/destiny-2-players-are-mad-bungies-gonna-enforce-fair-mu-1847696997)
- - [Good news, everyone: You can now control the Four Horsemen of the Apocalypse in Minecraft](https://www.pcgamer.com/good-news-everyone-you-can-now-control-the-four-horsemen-of-the-apocalypse-in-minecraft)<!-- GAME:END -->
+ - [Brutal RPG Adventure Tails of Iron Available Now for Xbox One and Xbox Series X|S](https://news.xbox.com/en-us/2021/09/17/tails-of-iron-available-now/)
+ - [Blizzard Reduces Titty In World Of Warcraft, But Not Sexism At The Company](https://kotaku.com/blizzard-reduces-titty-in-world-of-warcraft-but-not-se-1847697184)
+ - [Destiny 2 Xur location and items, Sept. 17-21](https://www.polygon.com/destiny-2-guide-walkthrough/2021/9/17/22679787/destiny-2-xur-location-items-sept-17-21)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
