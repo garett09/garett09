@@ -181,9 +181,9 @@ Windows                  6 hrs 54 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Debating Y: The Last Man’s #girlboss world with The Bechdel Cast’s Jamie Loftus](https://www.polygon.com/2021/9/17/22679556/y-the-last-man-women-cast-feminism-themes-meaning)
- - [Best gaming motherboards in 2021](https://www.pcgamer.com/best-gaming-motherboards)
- - [Succession season 3 trailer kicks off the Roy Family civil war](https://www.polygon.com/22679542/succession-season-3-release-date-trailer-poster)<!-- GAME:END -->
+ - [Prisoners of Ghostland might be peak Nic Cage, which is saying something](https://www.polygon.com/movies/22258027/prisoners-of-ghostland-review)
+ - [Destiny 2 Players Are Mad Bungie's Gonna Enforce Fair Multiplayer Matchmaking](https://kotaku.com/destiny-2-players-are-mad-bungies-gonna-enforce-fair-mu-1847696997)
+ - [Good news, everyone: You can now control the Four Horsemen of the Apocalypse in Minecraft](https://www.pcgamer.com/good-news-everyone-you-can-now-control-the-four-horsemen-of-the-apocalypse-in-minecraft)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
