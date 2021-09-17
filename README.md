@@ -188,9 +188,9 @@ Windows                  6 hrs 54 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This Android 11 privacy feature will expand to Marshmallow devices and higher](https://www.androidauthority.com/android-11-permission-3026078/)
- - [Web host Epik was warned of a critical website bug weeks before it was hacked](http://feedproxy.google.com/~r/Techcrunch/~3/TmlTT7j0B7Y/)
- - [Save 28% on the Apple AirPods Pro, and more AirPods deals](https://www.androidauthority.com/best-airpods-deals-1108713/)<!-- TECH:END -->
+ - [Apple posts first look at 'Foundation' one week before premiere](https://appleinsider.com/articles/21/09/17/apple-posts-first-look-at-foundation-one-week-before-premiere?utm_medium=rss)
+ - [Apple ordering frequent COVID testing for all corporate, retail employees](https://appleinsider.com/articles/21/09/17/apple-to-mandate-coronavirus-testing-for-all-corporate-retail-employees?utm_medium=rss)
+ - [Here’s exactly how much bigger the iPhone 13 batteries are](https://www.theverge.com/2021/9/17/22678607/iphone-13-reported-battery-sizes-increase-laptop-comparison)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
