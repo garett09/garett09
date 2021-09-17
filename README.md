@@ -195,9 +195,9 @@ Windows                  9 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Don&rsquo;t forget the glue](http://9gag.com/gag/aqj0BzY)
- - 🚯 [Didn&#039;t expect that one. . .](http://9gag.com/gag/a9EoNj0)
- - 🚯 [Where kaiju](http://9gag.com/gag/ad8E4e2)<!-- MEMES:END -->
+ - 🚖 [Is that a threat? That seemed like a threat.](http://9gag.com/gag/a5E49dr)
+ - 🚯 [Don&rsquo;t forget the glue](http://9gag.com/gag/aqj0BzY)
+ - 🚯 [Didn&#039;t expect that one. . .](http://9gag.com/gag/a9EoNj0)<!-- MEMES:END -->
 
 --- 
 
