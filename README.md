@@ -188,9 +188,9 @@ Windows                  6 hrs 54 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple threatened to pull Facebook from the App Store over human trafficking](https://appleinsider.com/articles/21/09/17/apple-threatened-to-pull-facebook-from-the-app-store-over-human-trafficking?utm_medium=rss)
  - [How and where to replace your old, depleted iPhone battery](https://www.theverge.com/22679492/iphone-apple-battery-replace-ifixit)
- - [Best iPhone 13 case deals: OtterBox, Pad & Quill, Spigen, Incipio & more all on sale](https://appleinsider.com/articles/21/09/17/best-iphone-13-case-deals-otterbox-pad-quill-spigen-incipio-more-all-on-sale?utm_medium=rss)
- - [TechCrunch Disrupt kicks off in just a few days](http://feedproxy.google.com/~r/Techcrunch/~3/rhgzFIdhtTM/)<!-- TECH:END -->
+ - [OpenSea released an app — but it’s for browsing, not buying and selling](http://feedproxy.google.com/~r/Techcrunch/~3/SazfIoK1VbM/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
