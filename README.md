@@ -188,9 +188,9 @@ Windows                  6 hrs 54 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Developer disputes Apple's take on 'FlickType' removal](https://appleinsider.com/articles/21/09/17/developer-disputes-apples-take-on-flicktype-removal?utm_medium=rss)
- - [Omaze, a charity fundraising platform which offers celebrity meet-and-greets and other experiences, raises $85M Series C led by Moore Strategic Venture (Michaella Huck/dot.LA)](http://www.techmeme.com/210916/p36#a210916p36)
- - [Glean, an enterprise search engine startup cofounded by Google and Facebook veterans, emerges from stealth with $55M in funding across two rounds (Kenrick Cai/Forbes)](http://www.techmeme.com/210916/p35#a210916p35)<!-- TECH:END -->
+ - [Apple Watch SE ships with new USB-C charging cable](https://appleinsider.com/articles/21/09/17/apple-watch-se-ships-with-new-usb-c-charging-cable?utm_medium=rss)
+ - [Epic images from China's space station deliver knockout views of the Earth     - CNET](https://www.cnet.com/news/epic-images-from-chinas-space-station-deliver-knockout-views-of-the-earth/#ftag=CAD590a51e)
+ - [Developer disputes Apple's take on 'FlickType' removal](https://appleinsider.com/articles/21/09/17/developer-disputes-apples-take-on-flicktype-removal?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
