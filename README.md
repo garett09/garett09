@@ -188,9 +188,9 @@ Windows                  6 hrs 54 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Glean, an enterprise search engine startup co-founded by Google and Facebook veterans, emerges from stealth with $55M in funding across two rounds (Kenrick Cai/Forbes)](http://www.techmeme.com/210916/p35#a210916p35)
  - [Bigeye, whose data observability platform helps companies manage and improve data quality, raises $45M Series B led by Coatue, bringing its total raised to $66M (Kyle Wiggers/VentureBeat)](http://www.techmeme.com/210916/p34#a210916p34)
- - [Internal report: Eastern European troll farms reached 140M US Facebook users per month before the 2020 election; 75% of the users didn't follow any of the Pages (Karen Hao/MIT Technology Review)](http://www.techmeme.com/210916/p33#a210916p33)
- - [How Russia has spent a decade crumbling online freedoms     - CNET](https://www.cnet.com/features/how-russia-has-spent-a-decade-crumbling-online-freedoms/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Internal report: Eastern European troll farms reached 140M US Facebook users per month before the 2020 election; 75% of the users didn't follow any of the Pages (Karen Hao/MIT Technology Review)](http://www.techmeme.com/210916/p33#a210916p33)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
