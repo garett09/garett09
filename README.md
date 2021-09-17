@@ -195,7 +195,7 @@ Windows                  6 hrs 54 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Surprise Surprise Surprise!!!](http://9gag.com/gag/a8EZOyd)
+ - 🚖 [Thai Ad](http://9gag.com/gag/av5NqLW)
  - 🚯 [Now I&rsquo;m jacked but still horny](http://9gag.com/gag/a8EZOKp)
  - 🚯 [Unveiling this baby pit viper](http://9gag.com/gag/aQoG5Ed)<!-- MEMES:END -->
 
