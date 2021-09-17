@@ -181,9 +181,9 @@ Windows                  6 hrs 54 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The best Australian PC gaming deals this week](https://www.pcgamer.com/best-australian-pc-gaming-deals)
  - [Titan Quest and Jagged Alliance are free to keep right now](https://www.pcgamer.com/titan-quest-and-jagged-alliance-are-free-to-keep-right-now)
- - [Ikea's New Gaming Collection Looks Pretty Good](https://kotaku.com/ikeas-new-gaming-collection-looks-pretty-good-1847692859)
- - [Here's what the Steam Deck UI will look like on your desktop](https://www.pcgamer.com/heres-what-the-steam-deck-ui-will-look-like-on-your-desktop)<!-- GAME:END -->
+ - [Ikea's New Gaming Collection Looks Pretty Good](https://kotaku.com/ikeas-new-gaming-collection-looks-pretty-good-1847692859)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
