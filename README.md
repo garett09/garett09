@@ -195,8 +195,8 @@ Windows                  6 hrs 54 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Some of you may find this useful](http://9gag.com/gag/aGpXrz0)
- - 🚯 [Crossroads ...](http://9gag.com/gag/aO3wNO2)
+ - 🚖 [Seems right](http://9gag.com/gag/anQ63gz)
+ - 🚯 [Vibe](http://9gag.com/gag/ayMGA5M)
  - 🚯 [Save for later use](http://9gag.com/gag/a8EZvK1)<!-- MEMES:END -->
 
 --- 
