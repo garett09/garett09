@@ -195,9 +195,9 @@ Windows                  6 hrs 54 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Marine iguana in the Galapagos](http://9gag.com/gag/aGpXqZ5)
- - 🚯 [Next levle water skipping](http://9gag.com/gag/aQoGKzw)
- - 🚯 [Too useful not to reshare](http://9gag.com/gag/ayMGm7b)<!-- MEMES:END -->
+ - 🚖 [Next levle water skipping](http://9gag.com/gag/aQoGKzw)
+ - 🚯 [Pure economical factors...](http://9gag.com/gag/av5NV9b)
+ - 🚯 [How to raise a man.](http://9gag.com/gag/a8EZ9D3)<!-- MEMES:END -->
 
 --- 
 
