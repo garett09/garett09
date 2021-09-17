@@ -188,9 +188,9 @@ Windows                  6 hrs 54 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft’s new photos app for Windows 11 is a welcome redesign](https://www.theverge.com/2021/9/17/22679132/microsoft-windows-11-new-photos-app-design-features)
- - [Apple drops iOS Private Relay feature for users in Russia](https://appleinsider.com/articles/21/09/17/apple-drops-ios-private-relay-feature-for-users-in-russia?utm_medium=rss)
- - [Daily Authority: ⌚ Blood pressure is a tough squeeze](https://www.androidauthority.com/newsletters/da-september-17-2021/)<!-- TECH:END -->
+ - [Apple has started preorders for the iPhone 13 and iPhone 13 Pro](https://appleinsider.com/articles/21/09/17/apple-has-started-preorders-for-the-iphone-13-and-iphone-13-pro?utm_medium=rss)
+ - [OnePlus 9/Pro get Hasselblad XPan feature, recreating iconic camera experience](https://www.androidauthority.com/oneplus-9-pro-xpan-3024681/)
+ - [OnePlus 9 software update pays homage to the Hasselblad XPan camera](https://www.theverge.com/2021/9/17/22676350/oneplus-9-camera-update-hasselblad-xpan-film-camera)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
