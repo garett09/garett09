@@ -195,9 +195,9 @@ Windows                  6 hrs 54 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Now I&rsquo;m jacked but still horny](http://9gag.com/gag/a8EZOKp)
- - 🚯 [Bite my shiny metal a**](http://9gag.com/gag/aYo90mq)
- - 🚯 [Feel better...](http://9gag.com/gag/av5Nw5b)<!-- MEMES:END -->
+ - 🚖 [Bite my shiny metal a**](http://9gag.com/gag/aYo90mq)
+ - 🚯 [Guy got some serious reflex&#039;s!](http://9gag.com/gag/av5NjwM)
+ - 🚯 [Bad when It happens](http://9gag.com/gag/aXoBOpV)<!-- MEMES:END -->
 
 --- 
 
