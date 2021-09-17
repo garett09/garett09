@@ -188,9 +188,9 @@ Windows                  6 hrs 54 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [GM extends Chevy Bolt EV production shutdown through mid-October](http://feedproxy.google.com/~r/Techcrunch/~3/VuF-DWBt6Nk/)
- - [Apple's new iPhone 13 Pro case illustrates massively enlarged camera 'bump'](https://appleinsider.com/articles/21/09/16/apples-new-iphone-13-pro-case-illustrates-massively-enlarged-camera-bump?utm_medium=rss)
- - [Apple executives talk impact of diversity initiatives at Congressional Black Caucus Foundation conference](https://appleinsider.com/articles/21/09/16/apple-executives-talk-impact-of-diversity-initiatives-at-congressional-black-caucus-foundation-conference?utm_medium=rss)<!-- TECH:END -->
+ - [Internal report: Eastern European troll farms reached 140M US Facebook users per month before the 2020 election; 75% of the users didn't follow any of the Pages (Karen Hao/MIT Technology Review)](http://www.techmeme.com/210916/p33#a210916p33)
+ - [Ryder to build logistics network with autonomous trucking company Embark](http://feedproxy.google.com/~r/Techcrunch/~3/Me98FgzxkTE/)
+ - [In internal memo, Apple says it is monitoring legal challenges to Texas abortion law](http://feedproxy.google.com/~r/Techcrunch/~3/zalhp1tIxyo/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
