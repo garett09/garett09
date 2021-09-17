@@ -195,9 +195,9 @@ Windows                  6 hrs 54 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Supportive Psycho-Killer](http://9gag.com/gag/aV7ArgP)
- - 🚯 [Man instantly becomes a boy.](http://9gag.com/gag/aXoBz46)
- - 🚯 [Seems right](http://9gag.com/gag/anQ63gz)<!-- MEMES:END -->
+ - 🚖 [Who&#039;s Mike?](http://9gag.com/gag/a07BGZL)
+ - 🚯 [Supportive Psycho-Killer](http://9gag.com/gag/aV7ArgP)
+ - 🚯 [Ever come face to face with a mountain goat?](http://9gag.com/gag/a8EZ9xp)<!-- MEMES:END -->
 
 --- 
 
