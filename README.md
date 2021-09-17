@@ -188,9 +188,9 @@ Windows                  6 hrs 54 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple's online store goes down ahead of iPhone 13 preorders](https://appleinsider.com/articles/21/09/17/apples-online-store-goes-down-ahead-of-iphone-13-preorders?utm_medium=rss)
- - [New iPad mini gets 5G, but lacks mmWave support](https://appleinsider.com/articles/21/09/17/new-ipad-mini-gets-5g-but-lacks-mmwave-support?utm_medium=rss)
- - [Apple is monitoring legal challenges to Texas abortion law](https://appleinsider.com/articles/21/09/17/apple-is-monitoring-legal-challenges-to-texas-abortion-law?utm_medium=rss)<!-- TECH:END -->
+ - [SpaceX Inspiration4 mission delivers first magical images from orbit     - CNET](https://www.cnet.com/news/spacex-inspiration4-mission-delivers-first-magical-images-from-orbit/#ftag=CAD590a51e)
+ - [iPhone 13 vs. 13 Mini vs. 13 Pro vs. 13 Pro Max: All the biggest differences     - CNET](https://www.cnet.com/tech/mobile/iphone-13-vs-13-mini-vs-13-pro-vs-13-pro-max-all-biggest-differences/#ftag=CAD590a51e)
+ - [Apple's online store goes down ahead of iPhone 13 preorders](https://appleinsider.com/articles/21/09/17/apples-online-store-goes-down-ahead-of-iphone-13-preorders?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
