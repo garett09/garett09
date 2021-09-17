@@ -195,9 +195,9 @@ Windows                  6 hrs 54 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Pure economical factors...](http://9gag.com/gag/av5NV9b)
- - 🚯 [Motivation](http://9gag.com/gag/anQ63en)
- - 🚯 [Man instantly becomes a boy.](http://9gag.com/gag/aXoBz46)<!-- MEMES:END -->
+ - 🚖 [He must&rsquo;ve had Taco Bell](http://9gag.com/gag/aZ0eKeV)
+ - 🚯 [Man instantly becomes a boy.](http://9gag.com/gag/aXoBz46)
+ - 🚯 [How to raise a man.](http://9gag.com/gag/a8EZ9D3)<!-- MEMES:END -->
 
 --- 
 
