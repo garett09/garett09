@@ -188,9 +188,9 @@ Windows                  6 hrs 54 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best iPhone 13 Deals: Free phone offers, cash savings, trade-in promos](https://appleinsider.com/articles/21/09/17/best-iphone-13-deals-free-phone-offers-cash-savings-trade-in-promos?utm_medium=rss)
- - [General Motors says it is building direct relationships with chip manufacturers to address shortages, following production halts at six assembly plants (David Shepardson/Reuters)](http://www.techmeme.com/210917/p19#a210917p19)
- - [8 new HomeKit features arriving with Apple’s September 20th software updates](https://www.theverge.com/2021/9/17/22679870/new-apple-homekit-features-homepod-mini)<!-- TECH:END -->
+ - [Apple CEO Tim Cook addresses workplace issues, pay equity, more in all-hands meeting](https://appleinsider.com/articles/21/09/17/apple-ceo-tim-cook-addresses-workplace-issues-pay-equity-more-in-all-hands-meeting?utm_medium=rss)
+ - [The Galaxy S21 Ultra Is the Cheapest We’ve Ever Seen It](https://www.wired.com/story/galaxy-s21-ultra-deal-2021)
+ - [Photo reveals Apple's plastic wrap-free iPhone 13 packaging](https://appleinsider.com/articles/21/09/17/photo-reveals-apples-plastic-wrap-free-iphone-13-packaging?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
