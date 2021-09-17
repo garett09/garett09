@@ -188,9 +188,9 @@ Windows                  6 hrs 54 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Castlevania: Grimoire of Souls and Temple Run: Puzzle Adventure now available on Apple Arcade     - CNET](https://www.cnet.com/tech/mobile/castlevania-grimoire-of-souls-and-temple-run-puzzle-adventure-now-available-on-apple-arcade/#ftag=CAD590a51e)
- - [Apple and Google reportedly remove 'Smart Voting' app as Russian election starts     - CNET](https://www.cnet.com/tech/services-and-software/apple-and-google-reportedly-remove-smart-voting-app-as-russian-election-starts/#ftag=CAD590a51e)
- - [Potentially massive Tesla Full Self-Driving rollout scheduled for next week with 'beta request' button     - Roadshow](https://www.cnet.com/roadshow/news/tesla-fsd-schedule-beta-request-button/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best iPhone 13 Deals: Free phone offers, cash savings, trade-in promos](https://appleinsider.com/articles/21/09/17/best-iphone-13-deals-free-phone-offers-cash-savings-trade-in-promos?utm_medium=rss)
+ - [Best Deals September 17 - $100 off AMD Ryzen 9 5950X, $105 Beats Studio Buds, and more!](https://appleinsider.com/articles/21/09/17/best-deals-september-17---100-off-amd-ryzen-9-5950x-105-beats-studio-buds-and-more?utm_medium=rss)
+ - [WarnerMedia’s Andy Forssell will discuss HBO Max at Disrupt 2021](http://feedproxy.google.com/~r/Techcrunch/~3/jBjZswuUBRc/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
