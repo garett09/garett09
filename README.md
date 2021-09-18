@@ -180,9 +180,9 @@ Windows                  7 hrs 3 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [15 horror movies just scary enough for everyone to watch](https://www.polygon.com/22676408/best-horror-movies-for-kids-families-people-who-hate-scary-movies)
  - [Movie musicals are finally getting over their fear of singing](https://www.polygon.com/22680131/movie-musicals-2021)
- - [Crapshoot: One of the strangest Bible games ever, The Zoo Race](https://www.pcgamer.com/saturday-crapshoot-the-zoo-race)
- - [Here are all the free games you can grab right now](https://www.pcgamer.com/here-are-all-the-free-games-you-can-grab-right-now)<!-- GAME:END -->
+ - [Crapshoot: One of the strangest Bible games ever, The Zoo Race](https://www.pcgamer.com/saturday-crapshoot-the-zoo-race)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
