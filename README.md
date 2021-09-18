@@ -187,9 +187,9 @@ Windows                  7 hrs 3 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best iPhone 13 alternatives: 7 phones to consider before you buy](https://www.androidauthority.com/apple-iphone-13-alternatives-3022647/)
- - [AirPods 3 release timing, iPhone popularity & more on This Week in Apple](https://appleinsider.com/articles/21/09/18/airpods-3-release-timing-iphone-popularity-more-on-this-week-in-apple?utm_medium=rss)
- - [How My Job Search Forced Me to Catch Up With Technology](https://www.wired.com/story/how-my-job-search-forced-me-catch-up-technology-tips)<!-- TECH:END -->
+ - [Why you need a personal laptop](https://www.theverge.com/22671697/personal-laptop-work-security-privacy)
+ - [Weekly Authority: Edition #160](https://www.androidauthority.com/newsletters/weekly-authority-edition-160/)
+ - [The best iPhone 13 alternatives: 7 phones to consider before you buy](https://www.androidauthority.com/apple-iphone-13-alternatives-3022647/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
