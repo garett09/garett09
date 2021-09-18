@@ -187,9 +187,9 @@ Windows                  7 hrs 3 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Deals Sept. 18 - WD Elements 14TB for $270, 128GB DDR4 for $460, more!](https://appleinsider.com/articles/21/09/18/best-deals-sept-18---wd-elements-14tb-for-270-128gb-ddr4-for-460-more?utm_medium=rss)
  - [The dismantling of digital advertising based on personal data and cookies is reshaping revenue plans for ad and tech industries, publishers, and small companies (Brian X. Chen/New York Times)](http://www.techmeme.com/210918/p6#a210918p6)
- - [GoPro Hero 10 Black review: Pushing boundaries once again     - CNET](https://www.cnet.com/tech/computing/gopro-hero-10-black-review-pushing-boundaries-once-again/#ftag=CAD590a51e)
- - [Save $800 on this 55-inch OLED TV at Best Buy this weekend](https://www.theverge.com/good-deals/2021/9/18/22679498/sony-oled-tv-razer-nommo-pro-speaker-system-samsung-ssd-beats-solo-3-wireless-soundbar-deal-sale)<!-- TECH:END -->
+ - [GoPro Hero 10 Black review: Pushing boundaries once again     - CNET](https://www.cnet.com/tech/computing/gopro-hero-10-black-review-pushing-boundaries-once-again/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
