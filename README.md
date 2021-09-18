@@ -188,9 +188,9 @@ Windows                  6 hrs 54 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple CEO Tim Cook addresses workplace issues, pay equity, more in all-hands meeting](https://appleinsider.com/articles/21/09/17/apple-ceo-tim-cook-addresses-workplace-issues-pay-equity-more-in-all-hands-meeting?utm_medium=rss)
- - [The Galaxy S21 Ultra Is the Cheapest We’ve Ever Seen It](https://www.wired.com/story/galaxy-s21-ultra-deal-2021)
- - [Photo reveals Apple's plastic wrap-free iPhone 13 packaging](https://appleinsider.com/articles/21/09/17/photo-reveals-apples-plastic-wrap-free-iphone-13-packaging?utm_medium=rss)<!-- TECH:END -->
+ - [Fortnite adds another virtual influencer to its battle royale](https://www.theverge.com/2021/9/17/22678149/fortnite-battle-royale-item-shop-janky-update)
+ - [How bad were Elizabeth Holmes’ 1AM emails?](https://www.theverge.com/2021/9/17/22680372/elizabeth-holmes-wire-fraud-emails-gangakhedkar)
+ - [Recording from a global Apple all-hands meeting reveals Tim Cook answered only two questions from staff about workplace and social issues (New York Times)](http://www.techmeme.com/210917/p20#a210917p20)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
