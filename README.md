@@ -196,7 +196,7 @@ Windows                  7 hrs 3 mins        ███████████�
 <!-- MEMES:START -->
  - 🚖 [Dog allowed to say final goodbye to her best friend so she&#039;d know why he never came home.](http://9gag.com/gag/a27nEYD)
  - 🚯 [Giorgio is lit](http://9gag.com/gag/aYo2jbw)
- - 🚯 [Over 50 hours and 125km later, Neil Agius managed to complete the herculean feat of swimming from Linosa to Malta to claim a new world record for the longest distance ocean swim](http://9gag.com/gag/aeALX1m)<!-- MEMES:END -->
+ - 🚯 [Afganistan collapsed: yesterday at the hungarian border.](http://9gag.com/gag/a27eBKD)<!-- MEMES:END -->
 
 --- 
 
