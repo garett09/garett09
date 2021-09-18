@@ -194,8 +194,8 @@ Windows                  7 hrs 3 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [There was a time where toys were not made in china..](http://9gag.com/gag/av5NbEM)
- - 🚯 [Footage from a documentary recorded 8 months before the Twin Towers collapse about the Twin Towers. The prediction at the end is chilling](http://9gag.com/gag/aeALoGO)
+ - 🚖 [Footage from a documentary recorded 8 months before the Twin Towers collapse about the Twin Towers. The prediction at the end is chilling](http://9gag.com/gag/aeALoGO)
+ - 🚯 [Giorgio is lit](http://9gag.com/gag/aYo2jbw)
  - 🚯 [Netflix Adaptation](http://9gag.com/gag/aLpxYbV)<!-- MEMES:END -->
 
 --- 
