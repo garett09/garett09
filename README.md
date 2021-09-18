@@ -194,9 +194,9 @@ Windows                  7 hrs 3 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I didn&#039;t think it would go like that](http://9gag.com/gag/a6EPvyA)
- - 🚯 [Student confessing his love](http://9gag.com/gag/a6EPvmq)
- - 🚯 [Wanna see a magic trick?](http://9gag.com/gag/aMKgRE1)<!-- MEMES:END -->
+ - 🚖 [Netflix Adaptation](http://9gag.com/gag/aLpxYbV)
+ - 🚯 [Wanna see a magic trick?](http://9gag.com/gag/aMKgRE1)
+ - 🚯 [Todd Robins Scorpion Mortal Kombat rope dart trick shots](http://9gag.com/gag/aRXnYLM)<!-- MEMES:END -->
 
 --- 
 
