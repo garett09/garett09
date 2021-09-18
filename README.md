@@ -187,9 +187,9 @@ Windows                  7 hrs 3 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Everything we’ve learned about the new I Know What You Did Last Summer show](https://www.androidauthority.com/i-know-what-you-did-last-summer-show-amazon-prime-3020037/)
- - [Apple's brand-new iPad 9th Gen is discounted to $299 at Walmart right now](https://appleinsider.com/articles/21/09/16/apples-brand-new-ipad-9th-gen-is-discounted-to-299-at-walmart-right-now?utm_medium=rss)
- - [How to use Taptic Time on the Apple Watch](https://appleinsider.com/articles/21/09/18/how-to-use-taptic-time-on-the-apple-watch?utm_medium=rss)<!-- TECH:END -->
+ - [SpaceX CEO Elon Musk says Starlink internet service leaving beta in October](https://www.theverge.com/2021/9/18/22681185/spacex-ceo-elon-musk-starlink-internet-service-leaving-beta-october)
+ - [User’s Guide to TechCrunch Disrupt 2021](http://feedproxy.google.com/~r/Techcrunch/~3/mqm7Bayvoxc/)
+ - [Everything we’ve learned about the new I Know What You Did Last Summer show](https://www.androidauthority.com/i-know-what-you-did-last-summer-show-amazon-prime-3020037/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
