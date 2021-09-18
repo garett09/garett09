@@ -180,9 +180,9 @@ Windows                  7 hrs 3 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Here are all the free games you can grab right now](https://www.pcgamer.com/here-are-all-the-free-games-you-can-grab-right-now)
  - [Running your own gas station in Gas Station Simulator is just the best](https://www.pcgamer.com/running-your-own-gas-station-in-gas-station-simulator-is-just-the-best)
- - [Every TV Moment I Recognized In The Cool New SpongeBob Game Reveal](https://kotaku.com/every-tv-moment-i-recognized-in-the-cool-new-spongebob-1847699681)
- - [How to make a butcher knife to carve up your delicious Valheim pets](https://www.pcgamer.com/valheim-butcher-knife-)<!-- GAME:END -->
+ - [Every TV Moment I Recognized In The Cool New SpongeBob Game Reveal](https://kotaku.com/every-tv-moment-i-recognized-in-the-cool-new-spongebob-1847699681)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
