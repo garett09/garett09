@@ -194,9 +194,9 @@ Windows                  7 hrs 3 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Footage from a documentary recorded 8 months before the Twin Towers collapse about the Twin Towers. The prediction at the end is chilling](http://9gag.com/gag/aeALoGO)
+ - 🚖 [Netflix Adaptation](http://9gag.com/gag/aLpxYbV)
  - 🚯 [Giorgio is lit](http://9gag.com/gag/aYo2jbw)
- - 🚯 [Netflix Adaptation](http://9gag.com/gag/aLpxYbV)<!-- MEMES:END -->
+ - 🚯 [After so many years of saving. I could finally afford to buy a PS4. Previous owner was so generous he even gave me free games. So long sleep.](http://9gag.com/gag/aDdypod)<!-- MEMES:END -->
 
 --- 
 
