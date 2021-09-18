@@ -194,8 +194,8 @@ Windows                  7 hrs 3 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [&quot;For the last time, your dog cannot be mocking you!!&quot; The dog:](http://9gag.com/gag/amP3eOj)
- - 🚯 [That spin though.](http://9gag.com/gag/apNO4pb)
+ - 🚖 [That spin though.](http://9gag.com/gag/apNO4pb)
+ - 🚯 [Don&#039;t be scared, dear.](http://9gag.com/gag/ad8EEjD)
  - 🚯 [This dad is having a great time](http://9gag.com/gag/aeALn6v)<!-- MEMES:END -->
 
 --- 
