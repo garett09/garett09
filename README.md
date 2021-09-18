@@ -195,8 +195,8 @@ Windows                  7 hrs 3 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Protests done right.](http://9gag.com/gag/aqj0EYZ)
- - 🚯 [Diabete alert dog trained to alert human with boops when blood sugar level is low](http://9gag.com/gag/axM5LvD)
- - 🚯 [That moment when you think its just another faker, but then he pulls down his sock](http://9gag.com/gag/azMnpzB)<!-- MEMES:END -->
+ - 🚯 [That moment when you think its just another faker, but then he pulls down his sock](http://9gag.com/gag/azMnpzB)
+ - 🚯 [Diabete alert dog trained to alert human with boops when blood sugar level is low](http://9gag.com/gag/axM5LvD)<!-- MEMES:END -->
 
 --- 
 
