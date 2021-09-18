@@ -180,9 +180,9 @@ Windows                  7 hrs 3 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Talonflame Might Be Running A Whole Arson Crime Ring](https://kotaku.com/talonflame-might-be-running-a-whole-arson-crime-ring-1847700698)
  - [15 horror movies just scary enough for everyone to watch](https://www.polygon.com/22676408/best-horror-movies-for-kids-families-people-who-hate-scary-movies)
- - [Movie musicals are finally getting over their fear of singing](https://www.polygon.com/22680131/movie-musicals-2021)
- - [Crapshoot: One of the strangest Bible games ever, The Zoo Race](https://www.pcgamer.com/saturday-crapshoot-the-zoo-race)<!-- GAME:END -->
+ - [Movie musicals are finally getting over their fear of singing](https://www.polygon.com/22680131/movie-musicals-2021)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
