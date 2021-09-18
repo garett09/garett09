@@ -187,9 +187,9 @@ Windows                  7 hrs 3 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to use Taptic Time on the Apple Watch](https://appleinsider.com/articles/21/09/18/how-to-use-taptic-time-on-the-apple-watch?utm_medium=rss)
- - [Harley-Davidson’s stunning vintage-inspired electric bikes are going on sale later this year](https://www.theverge.com/2021/9/18/22679256/harley-davidson-serial-1-ebike-s1-mosh-tribute-exclusive)
- - [Pokemon Go beginner's guide: How to play, how to get candy and more tips     - CNET](https://www.cnet.com/news/pokemon-go-beginners-guide-how-to-play-how-to-get-candy-and-more-tips/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Everything we’ve learned about the new I Know What You Did Last Summer show](https://www.androidauthority.com/i-know-what-you-did-last-summer-show-amazon-prime-3020037/)
+ - [Apple's brand-new iPad 9th Gen is discounted to $299 at Walmart right now](https://appleinsider.com/articles/21/09/16/apples-brand-new-ipad-9th-gen-is-discounted-to-299-at-walmart-right-now?utm_medium=rss)
+ - [How to use Taptic Time on the Apple Watch](https://appleinsider.com/articles/21/09/18/how-to-use-taptic-time-on-the-apple-watch?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
