@@ -187,9 +187,9 @@ Windows                  7 hrs 3 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here are the best Amazon Echo deals right now](https://www.theverge.com/21546591/best-amazon-echo-deals)
- - [Goldman Sachs honors 3% Daily Cash for Apple Card holders impacted by iPhone 13 preorder issue](https://appleinsider.com/articles/21/09/18/goldman-sachs-honors-3-daily-cash-for-apple-card-holders-impacted-by-iphone-13-preorder-issue?utm_medium=rss)
- - [Emmys 2021 on Sunday: Start time, nominees and how to watch online     - CNET](https://www.cnet.com/news/emmys-2021-on-sunday-start-time-nominees-and-how-to-watch-online/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Shanghai-based XTransfer, which provides currency and payment management services to 150K+ import/export SMBs, mostly in China, raises $138M at a $1B+ valuation (CK Tan/Nikkei Asia)](http://www.techmeme.com/210917/p24#a210917p24)
+ - [iPhone 13 upgraders who couldn't preorder with Apple Card will still get 3% Daily Cash](https://appleinsider.com/articles/21/09/18/goldman-sachs-honors-3-daily-cash-for-apple-card-holders-impacted-by-iphone-13-preorder-issue?utm_medium=rss)
+ - [AI-enabled personal finance app Bright Money emerges from stealth with $31M Series A from Sequoia Capital India, Falcon Edge Capital, and Hummingbird Ventures (Sindhu Kashyaap/YourStory)](http://www.techmeme.com/210917/p23#a210917p23)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
