@@ -180,9 +180,9 @@ Windows                  7 hrs 3 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [V Rising is a survival game where you're a vampire](https://www.pcgamer.com/v-rising-is-a-survival-game-where-youre-a-vampire)
  - [League of Legends looking at long lockouts for AFK laggards](https://www.pcgamer.com/league-of-legends-looking-at-long-lockouts-for-afk-laggards)
- - [Wizard of Legend now has two alternative soundtracks](https://www.pcgamer.com/wizard-of-legend-now-has-two-alternative-soundtracks)
- - [Chess Star Sues Netflix Because Queen’s Gambit Erased Her Accolades](https://kotaku.com/chess-star-sues-netflix-because-queen-s-gambit-erased-h-1847702699)<!-- GAME:END -->
+ - [Wizard of Legend now has two alternative soundtracks](https://www.pcgamer.com/wizard-of-legend-now-has-two-alternative-soundtracks)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
