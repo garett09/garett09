@@ -187,9 +187,9 @@ Windows                  7 hrs 3 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple touts iPhone 13 filmmaking prowess with Twitter 'hashflag'](https://appleinsider.com/articles/21/09/18/apple-touts-iphone-13-filmmaking-prowess-with-twitter-hashflag?utm_medium=rss)
- - [Caresyntax, an AI-powered platform that aims to reduce deaths from surgery-related complications, adds $30M to its Series C, bringing the round total to $130M (Michelle F Davis/Bloomberg)](http://www.techmeme.com/210918/p1#a210918p1)
- - [Shanghai-based XTransfer, which provides currency and payment management services to 150K+ import/export SMBs, mostly in China, raises $138M at a $1B+ valuation (CK Tan/Nikkei Asia)](http://www.techmeme.com/210917/p24#a210917p24)<!-- TECH:END -->
+ - [CEO of Exodus Intelligence, which provides info on 0-day bugs and tools to exploit them, says India used its Windows 0-day research to spy on China and Pakistan (Thomas Brewster/Forbes)](http://www.techmeme.com/210918/p2#a210918p2)
+ - [Apple rolls out AppleCare+ extensions to France, Italy and Spain](https://appleinsider.com/articles/21/09/18/apple-rolls-out-applecare-extensions-to-france-italy-and-spain?utm_medium=rss)
+ - [Apple touts iPhone 13 filmmaking prowess with Twitter 'hashflag'](https://appleinsider.com/articles/21/09/18/apple-touts-iphone-13-filmmaking-prowess-with-twitter-hashflag?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
