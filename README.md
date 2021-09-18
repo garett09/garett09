@@ -187,9 +187,9 @@ Windows                  7 hrs 3 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Why you need a personal laptop](https://www.theverge.com/22671697/personal-laptop-work-security-privacy)
- - [Weekly Authority: Edition #160](https://www.androidauthority.com/newsletters/weekly-authority-edition-160/)
- - [The best iPhone 13 alternatives: 7 phones to consider before you buy](https://www.androidauthority.com/apple-iphone-13-alternatives-3022647/)<!-- TECH:END -->
+ - [Valve’s latest Steam Next Fest for upcoming games will open on October 1st](https://www.theverge.com/2021/9/18/22680782/valve-steam-next-fest-gaming-pc-developers)
+ - [Apple rolls out AppleCare+ extensions to France, Italy and Spain](https://appleinsider.com/articles/21/09/18/apple-rolls-out-applecare-extensions-to-france-italy-and-spain?utm_medium=rss)
+ - [Former US Intelligence Operatives Admit They Hacked for UAE](https://www.wired.com/story/us-hackers-uae-att-bribes-security-news)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
