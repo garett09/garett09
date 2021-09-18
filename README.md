@@ -187,9 +187,9 @@ Windows                  7 hrs 3 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hands on with Apple's iPhone 13 Pro silicone cases](https://appleinsider.com/articles/21/09/17/hands-on-with-apples-iphone-13-pro-silicone-cases?utm_medium=rss)
- - [Telegram blocks Navalny's Smart Voting chatbot on the second day of voting in Russia's parliamentary election (Radio Free Europe/Radio Liberty)](http://www.techmeme.com/210918/p7#a210918p7)
- - [Clive Sinclair, inventor of the ZX Spectrum personal computer, has died](https://www.theverge.com/2021/9/18/22680955/clive-sinclair-home-computers-electric-vehicle-calculator)<!-- TECH:END -->
+ - [Cat S62 Pro review: See more than meets the eye](https://www.androidauthority.com/cat-s62-pro-review-2731841/)
+ - [The GoPro-ification of the iPhone](http://feedproxy.google.com/~r/Techcrunch/~3/cEG8dre1kiQ/)
+ - [Hands on with Apple's iPhone 13 Pro silicone cases](https://appleinsider.com/articles/21/09/17/hands-on-with-apples-iphone-13-pro-silicone-cases?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
