@@ -194,9 +194,9 @@ Windows                  7 hrs 3 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [That spin though.](http://9gag.com/gag/apNO4pb)
- - 🚯 [Don&#039;t be scared, dear.](http://9gag.com/gag/ad8EEjD)
- - 🚯 [This dad is having a great time](http://9gag.com/gag/aeALn6v)<!-- MEMES:END -->
+ - 🚖 [Size of Earth vs Sun vs Biggest star in the Universe](http://9gag.com/gag/aXoByxD)
+ - 🚯 [The best picture I could find](http://9gag.com/gag/a1r99ER)
+ - 🚯 [Br&uuml;no: Fashion saves more lives than doctors](http://9gag.com/gag/a7EQQwb)<!-- MEMES:END -->
 
 --- 
 
