@@ -187,9 +187,9 @@ Windows                  7 hrs 3 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A review of US laws governing the corporate use of biometric screening finds Illinois stands out in banning biometric data collection without consent (Michael Berens/Reuters)](http://www.techmeme.com/210918/p4#a210918p4)
- - [Apple iPhone 13: All the missing features we didn't get     - CNET](https://www.cnet.com/tech/mobile/apple-iphone-13-all-the-missing-features-we-didnt-get/#ftag=CAD590a51e)
- - [Google abused dominant position of Android in India, antitrust probe finds](http://feedproxy.google.com/~r/Techcrunch/~3/BDD_WM4QYOk/)<!-- TECH:END -->
+ - [How My Job Search Forced Me to Catch Up With Technology](https://www.wired.com/story/how-my-job-search-forced-me-catch-up-technology-tips)
+ - [The 14 Best Weekend Deals on Gaming, Tech, and Cycling Gear](https://www.wired.com/story/weekend-deals-september-18-2021)
+ - [Investigation report shows India's antitrust authority found that Google abused the dominant position of Android in the country to illegally hurt competitors (Aditya Kalra/Reuters)](http://www.techmeme.com/210918/p5#a210918p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
