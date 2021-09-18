@@ -187,9 +187,9 @@ Windows                  7 hrs 3 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple rolls out AppleCare+ extensions to France, Italy and Spain](https://appleinsider.com/articles/21/09/18/apple-rolls-out-applecare-extensions-to-france-italy-and-spain?utm_medium=rss)
- - [Sony subsidiary makes a PS5 SSD that’s even further out of your reach](https://www.theverge.com/2021/9/17/22680257/sony-nextorage-ssd-ps5-japan-nem-pa-playstation)
- - [Apple and Google Go Further Than Ever to Appease Russia](https://www.wired.com/story/russia-apple-google-voting-app-navalny)<!-- TECH:END -->
+ - [Here are the best Amazon Echo deals right now](https://www.theverge.com/21546591/best-amazon-echo-deals)
+ - [Goldman Sachs honors 3% Daily Cash for Apple Card holders impacted by iPhone 13 preorder issue](https://appleinsider.com/articles/21/09/18/goldman-sachs-honors-3-daily-cash-for-apple-card-holders-impacted-by-iphone-13-preorder-issue?utm_medium=rss)
+ - [Why the SpaceX Inspiration4 mission matters to everyone     - CNET](https://www.cnet.com/news/why-the-spacex-inspiration4-mission-matters-to-everyone/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
