@@ -194,9 +194,9 @@ Windows                  7 hrs 3 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Netflix Adaptation](http://9gag.com/gag/aLpxYbV)
+ - 🚖 [After so many years of saving. I could finally afford to buy a PS4. Previous owner was so generous he even gave me free games. So long sleep.](http://9gag.com/gag/aDdypod)
  - 🚯 [Giorgio is lit](http://9gag.com/gag/aYo2jbw)
- - 🚯 [After so many years of saving. I could finally afford to buy a PS4. Previous owner was so generous he even gave me free games. So long sleep.](http://9gag.com/gag/aDdypod)<!-- MEMES:END -->
+ - 🚯 [Over 50 hours and 125km later, Neil Agius managed to complete the herculean feat of swimming from Linosa to Malta to claim a new world record for the longest distance ocean swim](http://9gag.com/gag/aeALX1m)<!-- MEMES:END -->
 
 --- 
 
