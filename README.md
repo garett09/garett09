@@ -195,8 +195,8 @@ Windows                  7 hrs 3 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [I didn&#039;t think it would go like that](http://9gag.com/gag/a6EPvyA)
- - 🚯 [Why are you so cute](http://9gag.com/gag/aRXnYBj)
- - 🚯 [Its a terrible day for rain...](http://9gag.com/gag/axM55w1)<!-- MEMES:END -->
+ - 🚯 [Student confessing his love](http://9gag.com/gag/a6EPvmq)
+ - 🚯 [Wanna see a magic trick?](http://9gag.com/gag/aMKgRE1)<!-- MEMES:END -->
 
 --- 
 
