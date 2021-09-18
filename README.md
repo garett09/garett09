@@ -187,9 +187,9 @@ Windows                  7 hrs 3 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How My Job Search Forced Me to Catch Up With Technology](https://www.wired.com/story/how-my-job-search-forced-me-catch-up-technology-tips)
- - [The 14 Best Weekend Deals on Gaming, Tech, and Cycling Gear](https://www.wired.com/story/weekend-deals-september-18-2021)
- - [Investigation report shows India's antitrust authority found that Google abused the dominant position of Android in the country to illegally hurt competitors (Aditya Kalra/Reuters)](http://www.techmeme.com/210918/p5#a210918p5)<!-- TECH:END -->
+ - [The best iPhone 13 alternatives: 7 phones to consider before you buy](https://www.androidauthority.com/apple-iphone-13-alternatives-3022647/)
+ - [AirPods 3 release timing, iPhone popularity & more on This Week in Apple](https://appleinsider.com/articles/21/09/18/airpods-3-release-timing-iphone-popularity-more-on-this-week-in-apple?utm_medium=rss)
+ - [How My Job Search Forced Me to Catch Up With Technology](https://www.wired.com/story/how-my-job-search-forced-me-catch-up-technology-tips)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
