@@ -189,7 +189,7 @@ Windows                  7 hrs 3 mins        ███████████�
 <!-- TECH:START -->
  - [Here are the best Amazon Echo deals right now](https://www.theverge.com/21546591/best-amazon-echo-deals)
  - [Goldman Sachs honors 3% Daily Cash for Apple Card holders impacted by iPhone 13 preorder issue](https://appleinsider.com/articles/21/09/18/goldman-sachs-honors-3-daily-cash-for-apple-card-holders-impacted-by-iphone-13-preorder-issue?utm_medium=rss)
- - [Why the SpaceX Inspiration4 mission matters to everyone     - CNET](https://www.cnet.com/news/why-the-spacex-inspiration4-mission-matters-to-everyone/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Emmys 2021 on Sunday: Start time, nominees and how to watch online     - CNET](https://www.cnet.com/news/emmys-2021-on-sunday-start-time-nominees-and-how-to-watch-online/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
