@@ -194,9 +194,9 @@ Windows                  7 hrs 3 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Dinamo Bucharest&#039;s players carried dogs onto the field this weekend in an effort to help find them new homes.](http://9gag.com/gag/a9Eo9xL)
- - 🚯 [Perfect Love Did Not Exi... Waitt...](http://9gag.com/gag/aWjzzKA)
- - 🚯 [I understood this reference.](http://9gag.com/gag/azMnn5x)<!-- MEMES:END -->
+ - 🚖 [Whaat? No way!](http://9gag.com/gag/aqj0qER)
+ - 🚯 [Dinamo Bucharest&#039;s players carried dogs onto the field this weekend in an effort to help find them new homes.](http://9gag.com/gag/a9Eo9xL)
+ - 🚯 [Dixie Normus](http://9gag.com/gag/a9Eo9Wm)<!-- MEMES:END -->
 
 --- 
 
