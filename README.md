@@ -194,8 +194,8 @@ Windows                  7 hrs 3 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [There goes your 100 euros gift ...](http://9gag.com/gag/aMKg3RM)
- - 🚯 [How did we get here?](http://9gag.com/gag/aXoBDyb)
+ - 🚖 [There was a time where toys were not made in china..](http://9gag.com/gag/av5NbEM)
+ - 🚯 [Footage from a documentary recorded 8 months before the Twin Towers collapse about the Twin Towers. The prediction at the end is chilling](http://9gag.com/gag/aeALoGO)
  - 🚯 [Netflix Adaptation](http://9gag.com/gag/aLpxYbV)<!-- MEMES:END -->
 
 --- 
