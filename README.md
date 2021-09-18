@@ -194,9 +194,9 @@ Windows                  7 hrs 3 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It&#039;s comingg](http://9gag.com/gag/aEp3rbx)
- - 🚯 [Stuck in a wheel chair his whole life, Micheal was able to start walking again. This is him 1 month after trying.](http://9gag.com/gag/a07BAWv)
- - 🚯 [There goes your 100 euros gift ...](http://9gag.com/gag/aMKg3RM)<!-- MEMES:END -->
+ - 🚖 [How did we get here?](http://9gag.com/gag/aXoBDyb)
+ - 🚯 [Over 50 hours and 125km later, Neil Agius managed to complete the herculean feat of swimming from Linosa to Malta to claim a new world record for the longest distance ocean swim](http://9gag.com/gag/aeALX1m)
+ - 🚯 [1 girl 4 dogs](http://9gag.com/gag/aNpNy1K)<!-- MEMES:END -->
 
 --- 
 
