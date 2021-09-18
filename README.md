@@ -194,9 +194,9 @@ Windows                  7 hrs 3 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How did we get here?](http://9gag.com/gag/aXoBDyb)
- - 🚯 [There goes your 100 euros gift ...](http://9gag.com/gag/aMKg3RM)
- - 🚯 [Over 50 hours and 125km later, Neil Agius managed to complete the herculean feat of swimming from Linosa to Malta to claim a new world record for the longest distance ocean swim](http://9gag.com/gag/aeALX1m)<!-- MEMES:END -->
+ - 🚖 [There goes your 100 euros gift ...](http://9gag.com/gag/aMKg3RM)
+ - 🚯 [How did we get here?](http://9gag.com/gag/aXoBDyb)
+ - 🚯 [Netflix Adaptation](http://9gag.com/gag/aLpxYbV)<!-- MEMES:END -->
 
 --- 
 
