@@ -180,9 +180,9 @@ Windows                  7 hrs 3 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Chess Star Sues Netflix Because Queen’s Gambit Erased Her Accolades](https://kotaku.com/chess-star-sues-netflix-because-queen-s-gambit-erased-h-1847702699)
  - [Dota 2 is dropping support for 32-bit systems](https://www.pcgamer.com/dota-2-is-dropping-support-for-32-bit-systems)
- - [Toby Fox: Deltarune Chapter 2 Is Free Because It's Been 'Really Tough For Everybody Recently'](https://kotaku.com/toby-fox-deltarune-chapter-2-is-free-because-the-world-1847702225)
- - [The New Gaming Console That's Become A Giant Car Crash, Explained](https://kotaku.com/the-new-gaming-console-thats-become-a-giant-car-crash-1847699027)<!-- GAME:END -->
+ - [Toby Fox: Deltarune Chapter 2 Is Free Because It's Been 'Really Tough For Everybody Recently'](https://kotaku.com/toby-fox-deltarune-chapter-2-is-free-because-the-world-1847702225)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
