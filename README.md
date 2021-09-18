@@ -187,9 +187,9 @@ Windows                  7 hrs 3 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Valve’s latest Steam Next Fest for upcoming games will open on October 1st](https://www.theverge.com/2021/9/18/22680782/valve-steam-next-fest-gaming-pc-developers)
- - [Apple rolls out AppleCare+ extensions to France, Italy and Spain](https://appleinsider.com/articles/21/09/18/apple-rolls-out-applecare-extensions-to-france-italy-and-spain?utm_medium=rss)
- - [Former US Intelligence Operatives Admit They Hacked for UAE](https://www.wired.com/story/us-hackers-uae-att-bribes-security-news)<!-- TECH:END -->
+ - [Google Tensor vs Snapdragon 888: How the Pixel 6’s chip is shaping up](https://www.androidauthority.com/google-tensor-vs-snapdragon-888-3025332/)
+ - [The Best TV Streaming Devices for Cord Cutters](https://www.wired.com/gallery/best-4k-streaming-devices)
+ - [Castlevania composer on returning to her ‘masterpiece’ with new Apple Arcade game](https://www.theverge.com/2021/9/18/22678226/castlevania-grimoire-of-souls-apple-arcade-michiru-yamane)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
