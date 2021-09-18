@@ -180,9 +180,9 @@ Windows                  7 hrs 3 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Dota 2 is dropping support for 32-bit systems](https://www.pcgamer.com/dota-2-is-dropping-support-for-32-bit-systems)
  - [Toby Fox: Deltarune Chapter 2 Is Free Because It's Been 'Really Tough For Everybody Recently'](https://kotaku.com/toby-fox-deltarune-chapter-2-is-free-because-the-world-1847702225)
- - [The New Gaming Console That's Become A Giant Car Crash, Explained](https://kotaku.com/the-new-gaming-console-thats-become-a-giant-car-crash-1847699027)
- - [Talonflame Might Be Running A Whole Arson Crime Ring](https://kotaku.com/talonflame-might-be-running-a-whole-arson-crime-ring-1847700698)<!-- GAME:END -->
+ - [The New Gaming Console That's Become A Giant Car Crash, Explained](https://kotaku.com/the-new-gaming-console-thats-become-a-giant-car-crash-1847699027)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
