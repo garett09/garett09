@@ -195,7 +195,7 @@ Windows                  7 hrs 3 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [The hero we don&#039;t deserve...](http://9gag.com/gag/aK6RRy3)
- - 🚯 [Perfect Love Did Not Exi... Waitt...](http://9gag.com/gag/aWjzzKA)
+ - 🚯 [The hand of a monkey](http://9gag.com/gag/anQ66bb)
  - 🚯 [The best picture I could find](http://9gag.com/gag/a1r99ER)<!-- MEMES:END -->
 
 --- 
