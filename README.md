@@ -194,9 +194,9 @@ Windows                  7 hrs 3 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Why are you so cute](http://9gag.com/gag/aRXnYBj)
- - 🚯 [Sometimes people don&#039;t realize how big the pacific ocean is, so I added a banana for scale](http://9gag.com/gag/apNOOAW)
- - 🚯 [Perfect Love Did Not Exi... Waitt...](http://9gag.com/gag/aWjzzKA)<!-- MEMES:END -->
+ - 🚖 [Sometimes people don&#039;t realize how big the pacific ocean is, so I added a banana for scale](http://9gag.com/gag/apNOOAW)
+ - 🚯 [Perfect Love Did Not Exi... Waitt...](http://9gag.com/gag/aWjzzKA)
+ - 🚯 [Why are you so cute](http://9gag.com/gag/aRXnYBj)<!-- MEMES:END -->
 
 --- 
 
