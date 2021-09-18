@@ -194,9 +194,9 @@ Windows                  7 hrs 3 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Minimum-wage gas station employee defends store from mass shoplifting spree](http://9gag.com/gag/a7EQxBm)
- - 🚯 [That moment when you think its just another faker, but then he pulls down his sock](http://9gag.com/gag/azMnpzB)
- - 🚯 [Man finds out their 3 year old daughter isn&rsquo;t really his and confronts his wife with the DNA test on her birthday and kicks her out.](http://9gag.com/gag/axM5wq1)<!-- MEMES:END -->
+ - 🚖 [Man finds out their 3 year old daughter isn&rsquo;t really his and confronts his wife with the DNA test on her birthday and kicks her out.](http://9gag.com/gag/axM5wq1)
+ - 🚯 [Bully punching a blind kid gets blindsided and body slammed](http://9gag.com/gag/aNpNbv4)
+ - 🚯 [Lights, Camera, No!](http://9gag.com/gag/a1r96PY)<!-- MEMES:END -->
 
 --- 
 
