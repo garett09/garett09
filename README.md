@@ -187,9 +187,9 @@ Windows                  7 hrs 3 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cat S62 Pro review: See more than meets the eye](https://www.androidauthority.com/cat-s62-pro-review-2731841/)
- - [The GoPro-ification of the iPhone](http://feedproxy.google.com/~r/Techcrunch/~3/cEG8dre1kiQ/)
- - [Hands on with Apple's iPhone 13 Pro silicone cases](https://appleinsider.com/articles/21/09/17/hands-on-with-apples-iphone-13-pro-silicone-cases?utm_medium=rss)<!-- TECH:END -->
+ - [Facebook VP disputes report claiming the platform knows about multiple flaws it doesn’t fix](https://www.theverge.com/2021/9/18/22681056/facebook-vp-disputes-report-wall-street-journal-instagram-teens-clegg)
+ - [Facebook VP says WSJ's series contained deliberate mischaracterizations, and conferred egregiously false motives to Facebook's leadership and employees (Nick Clegg/About Facebook)](http://www.techmeme.com/210918/p8#a210918p8)
+ - [Executive coaching for employees is complicated and emotional](http://feedproxy.google.com/~r/Techcrunch/~3/foeV4DEoFsE/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
