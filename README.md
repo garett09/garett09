@@ -180,9 +180,9 @@ Windows                  7 hrs 3 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The New Gaming Console That's Become A Giant Car Crash, Explained](https://kotaku.com/the-new-gaming-console-thats-become-a-giant-car-crash-1847699027)
  - [Talonflame Might Be Running A Whole Arson Crime Ring](https://kotaku.com/talonflame-might-be-running-a-whole-arson-crime-ring-1847700698)
- - [15 horror movies just scary enough for everyone to watch](https://www.polygon.com/22676408/best-horror-movies-for-kids-families-people-who-hate-scary-movies)
- - [Movie musicals are finally getting over their fear of singing](https://www.polygon.com/22680131/movie-musicals-2021)<!-- GAME:END -->
+ - [15 horror movies just scary enough for everyone to watch](https://www.polygon.com/22676408/best-horror-movies-for-kids-families-people-who-hate-scary-movies)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
