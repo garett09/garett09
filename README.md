@@ -187,9 +187,9 @@ Windows                  7 hrs 3 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Shanghai-based XTransfer, which provides currency and payment management services to 150K+ import/export SMBs, mostly in China, raises $138M at a $1B+ valuation (CK Tan/Nikkei Asia)](http://www.techmeme.com/210917/p24#a210917p24)
- - [Apple's iPhone 13, new iPad Mini and more: Everything we saw at Apple's Sept. event     - CNET](https://www.cnet.com/pictures/apple-iphone-13-new-ipad-mini-more-everything-saw-at-apple-sept-event/#ftag=CAD590a51e)
- - [iPhone 13 upgraders who couldn't preorder with Apple Card will still get 3% Daily Cash](https://appleinsider.com/articles/21/09/18/goldman-sachs-honors-3-daily-cash-for-apple-card-holders-impacted-by-iphone-13-preorder-issue?utm_medium=rss)<!-- TECH:END -->
+ - [Apple touts iPhone 13 filmmaking prowess with Twitter 'hashflag'](https://appleinsider.com/articles/21/09/18/apple-touts-iphone-13-filmmaking-prowess-with-twitter-hashflag?utm_medium=rss)
+ - [Caresyntax, an AI-powered platform that aims to reduce deaths from surgery-related complications, adds $30M to its Series C, bringing the round total to $130M (Michelle F Davis/Bloomberg)](http://www.techmeme.com/210918/p1#a210918p1)
+ - [Shanghai-based XTransfer, which provides currency and payment management services to 150K+ import/export SMBs, mostly in China, raises $138M at a $1B+ valuation (CK Tan/Nikkei Asia)](http://www.techmeme.com/210917/p24#a210917p24)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
