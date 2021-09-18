@@ -196,7 +196,7 @@ Windows                  7 hrs 3 mins        ███████████�
 <!-- MEMES:START -->
  - 🚖 [The hero we don&#039;t deserve...](http://9gag.com/gag/aK6RRy3)
  - 🚯 [Perfect Love Did Not Exi... Waitt...](http://9gag.com/gag/aWjzzKA)
- - 🚯 [Urrrr EEEE urrr NNNGGGG CRRRRcrrrr KEEEEEEE grrr nnnnnng.. remember, dial up](http://9gag.com/gag/aqj00zP)<!-- MEMES:END -->
+ - 🚯 [Outstanding move](http://9gag.com/gag/a9Eo9PK)<!-- MEMES:END -->
 
 --- 
 
