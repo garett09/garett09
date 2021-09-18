@@ -194,7 +194,7 @@ Windows                  7 hrs 3 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Stuck in a wheel chair his whole life, Micheal was able to start walking again. This is him 1 month after trying.](http://9gag.com/gag/a07BAWv)
+ - 🚖 [Wanna see a magic trick?](http://9gag.com/gag/aMKgRE1)
  - 🚯 [Todd Robins Scorpion Mortal Kombat rope dart trick shots](http://9gag.com/gag/aRXnYLM)
  - 🚯 [Today is my 27th year being single since birth](http://9gag.com/gag/axM5XmY)<!-- MEMES:END -->
 
