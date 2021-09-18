@@ -194,8 +194,8 @@ Windows                  7 hrs 3 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Whaat? No way!](http://9gag.com/gag/aqj0qER)
- - 🚯 [Dinamo Bucharest&#039;s players carried dogs onto the field this weekend in an effort to help find them new homes.](http://9gag.com/gag/a9Eo9xL)
+ - 🚖 [There goes your 100 euros gift ...](http://9gag.com/gag/aMKg3RM)
+ - 🚯 [Footage from a documentary recorded 8 months before the Twin Towers collapse about the Twin Towers. The prediction at the end is chilling](http://9gag.com/gag/aeALoGO)
  - 🚯 [Dixie Normus](http://9gag.com/gag/a9Eo9Wm)<!-- MEMES:END -->
 
 --- 
