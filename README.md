@@ -188,8 +188,8 @@ Windows                  7 hrs 3 mins        ███████████�
 
 <!-- TECH:START -->
  - [Shanghai-based XTransfer, which provides currency and payment management services to 150K+ import/export SMBs, mostly in China, raises $138M at a $1B+ valuation (CK Tan/Nikkei Asia)](http://www.techmeme.com/210917/p24#a210917p24)
- - [iPhone 13 upgraders who couldn't preorder with Apple Card will still get 3% Daily Cash](https://appleinsider.com/articles/21/09/18/goldman-sachs-honors-3-daily-cash-for-apple-card-holders-impacted-by-iphone-13-preorder-issue?utm_medium=rss)
- - [AI-enabled personal finance app Bright Money emerges from stealth with $31M Series A from Sequoia Capital India, Falcon Edge Capital, and Hummingbird Ventures (Sindhu Kashyaap/YourStory)](http://www.techmeme.com/210917/p23#a210917p23)<!-- TECH:END -->
+ - [Apple's iPhone 13, new iPad Mini and more: Everything we saw at Apple's Sept. event     - CNET](https://www.cnet.com/pictures/apple-iphone-13-new-ipad-mini-more-everything-saw-at-apple-sept-event/#ftag=CAD590a51e)
+ - [iPhone 13 upgraders who couldn't preorder with Apple Card will still get 3% Daily Cash](https://appleinsider.com/articles/21/09/18/goldman-sachs-honors-3-daily-cash-for-apple-card-holders-impacted-by-iphone-13-preorder-issue?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
