@@ -196,7 +196,7 @@ Windows                  7 hrs 3 mins        ███████████�
 <!-- MEMES:START -->
  - 🚖 [Lights, Camera, No!](http://9gag.com/gag/a1r96PY)
  - 🚯 [That moment when you think its just another faker, but then he pulls down his sock](http://9gag.com/gag/azMnpzB)
- - 🚯 [This dad is having a great time](http://9gag.com/gag/aeALn6v)<!-- MEMES:END -->
+ - 🚯 [Protests done right.](http://9gag.com/gag/aqj0EYZ)<!-- MEMES:END -->
 
 --- 
 
