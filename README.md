@@ -194,9 +194,9 @@ Windows                  7 hrs 3 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Sometimes people don&#039;t realize how big the pacific ocean is, so I added a banana for scale](http://9gag.com/gag/apNOOAW)
+ - 🚖 [Dinamo Bucharest&#039;s players carried dogs onto the field this weekend in an effort to help find them new homes.](http://9gag.com/gag/a9Eo9xL)
  - 🚯 [Perfect Love Did Not Exi... Waitt...](http://9gag.com/gag/aWjzzKA)
- - 🚯 [Why are you so cute](http://9gag.com/gag/aRXnYBj)<!-- MEMES:END -->
+ - 🚯 [I understood this reference.](http://9gag.com/gag/azMnn5x)<!-- MEMES:END -->
 
 --- 
 
