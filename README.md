@@ -195,8 +195,8 @@ Windows                  7 hrs 3 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [How did we get here?](http://9gag.com/gag/aXoBDyb)
- - 🚯 [Over 50 hours and 125km later, Neil Agius managed to complete the herculean feat of swimming from Linosa to Malta to claim a new world record for the longest distance ocean swim](http://9gag.com/gag/aeALX1m)
- - 🚯 [1 girl 4 dogs](http://9gag.com/gag/aNpNy1K)<!-- MEMES:END -->
+ - 🚯 [There goes your 100 euros gift ...](http://9gag.com/gag/aMKg3RM)
+ - 🚯 [Over 50 hours and 125km later, Neil Agius managed to complete the herculean feat of swimming from Linosa to Malta to claim a new world record for the longest distance ocean swim](http://9gag.com/gag/aeALX1m)<!-- MEMES:END -->
 
 --- 
 
