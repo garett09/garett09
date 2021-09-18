@@ -194,8 +194,8 @@ Windows                  7 hrs 3 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The hand of a monkey](http://9gag.com/gag/anQ66bb)
- - 🚯 [The best picture I could find](http://9gag.com/gag/a1r99ER)
+ - 🚖 [The best picture I could find](http://9gag.com/gag/a1r99ER)
+ - 🚯 [Dixie Normus](http://9gag.com/gag/a9Eo9Wm)
  - 🚯 [A love story](http://9gag.com/gag/ayMGGNb)<!-- MEMES:END -->
 
 --- 
