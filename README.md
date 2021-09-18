@@ -188,8 +188,8 @@ Windows                  7 hrs 3 mins        ███████████�
 
 <!-- TECH:START -->
  - [The dismantling of digital advertising based on personal data and cookies is reshaping revenue plans for ad and tech industries, publishers, and small companies (Brian X. Chen/New York Times)](http://www.techmeme.com/210918/p6#a210918p6)
- - [Save $800 on this 55-inch OLED TV at Best Buy this weekend](https://www.theverge.com/good-deals/2021/9/18/22679498/sony-oled-tv-razer-nommo-pro-speaker-system-samsung-ssd-beats-solo-3-wireless-soundbar-deal-sale)
- - [New iPad mini deliveries slip to October 19](https://appleinsider.com/articles/21/09/18/new-ipad-mini-deliveries-slip-to-october-19?utm_medium=rss)<!-- TECH:END -->
+ - [GoPro Hero 10 Black review: Pushing boundaries once again     - CNET](https://www.cnet.com/tech/computing/gopro-hero-10-black-review-pushing-boundaries-once-again/#ftag=CAD590a51e)
+ - [Save $800 on this 55-inch OLED TV at Best Buy this weekend](https://www.theverge.com/good-deals/2021/9/18/22679498/sony-oled-tv-razer-nommo-pro-speaker-system-samsung-ssd-beats-solo-3-wireless-soundbar-deal-sale)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
