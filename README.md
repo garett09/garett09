@@ -187,9 +187,9 @@ Windows                  7 hrs 3 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fortnite adds another virtual influencer to its battle royale](https://www.theverge.com/2021/9/17/22678149/fortnite-battle-royale-item-shop-janky-update)
- - [How bad were Elizabeth Holmes’ 1AM emails?](https://www.theverge.com/2021/9/17/22680372/elizabeth-holmes-wire-fraud-emails-gangakhedkar)
- - [Recording from a global Apple all-hands meeting reveals Tim Cook answered only two questions from staff about workplace and social issues (New York Times)](http://www.techmeme.com/210917/p20#a210917p20)<!-- TECH:END -->
+ - [Apple rolls out AppleCare+ extensions to France, Italy and Spain](https://appleinsider.com/articles/21/09/18/apple-rolls-out-applecare-extensions-to-france-italy-and-spain?utm_medium=rss)
+ - [Sony subsidiary makes a PS5 SSD that’s even further out of your reach](https://www.theverge.com/2021/9/17/22680257/sony-nextorage-ssd-ps5-japan-nem-pa-playstation)
+ - [Apple and Google Go Further Than Ever to Appease Russia](https://www.wired.com/story/russia-apple-google-voting-app-navalny)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
