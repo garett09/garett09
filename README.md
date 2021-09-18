@@ -187,9 +187,9 @@ Windows                  7 hrs 3 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Tensor vs Snapdragon 888: How the Pixel 6’s chip is shaping up](https://www.androidauthority.com/google-tensor-vs-snapdragon-888-3025332/)
- - [The Best TV Streaming Devices for Cord Cutters](https://www.wired.com/gallery/best-4k-streaming-devices)
- - [Castlevania composer on returning to her ‘masterpiece’ with new Apple Arcade game](https://www.theverge.com/2021/9/18/22678226/castlevania-grimoire-of-souls-apple-arcade-michiru-yamane)<!-- TECH:END -->
+ - [The dismantling of digital advertising based on personal data and cookies is reshaping revenue plans for ad and tech industries, publishers, and small companies (Brian X. Chen/New York Times)](http://www.techmeme.com/210918/p6#a210918p6)
+ - [Save $800 on this 55-inch OLED TV at Best Buy this weekend](https://www.theverge.com/good-deals/2021/9/18/22679498/sony-oled-tv-razer-nommo-pro-speaker-system-samsung-ssd-beats-solo-3-wireless-soundbar-deal-sale)
+ - [New iPad mini deliveries slip to October 19](https://appleinsider.com/articles/21/09/18/new-ipad-mini-deliveries-slip-to-october-19?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
