@@ -194,9 +194,9 @@ Windows                  7 hrs 3 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [There goes your 100 euros gift ...](http://9gag.com/gag/aMKg3RM)
- - 🚯 [Footage from a documentary recorded 8 months before the Twin Towers collapse about the Twin Towers. The prediction at the end is chilling](http://9gag.com/gag/aeALoGO)
- - 🚯 [Dixie Normus](http://9gag.com/gag/a9Eo9Wm)<!-- MEMES:END -->
+ - 🚖 [I didn&#039;t think it would go like that](http://9gag.com/gag/a6EPvyA)
+ - 🚯 [Why are you so cute](http://9gag.com/gag/aRXnYBj)
+ - 🚯 [Its a terrible day for rain...](http://9gag.com/gag/axM55w1)<!-- MEMES:END -->
 
 --- 
 
