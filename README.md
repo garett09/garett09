@@ -187,9 +187,9 @@ Windows                  7 hrs 3 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple's leather cases for iPhone 13 Pro: Hands on and first impressions](https://appleinsider.com/articles/21/09/18/apples-leather-cases-for-iphone-13-pro-hands-on-and-first-impressions?utm_medium=rss)
- - [Amazon's $299 iPad 9th Gen, $459 iPad mini 6 deals cement price war with Walmart](https://appleinsider.com/articles/21/09/18/amazons-299-ipad-9th-gen-459-ipad-mini-6-deals-cement-price-war-with-walmart?utm_medium=rss)
- - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-398-3026342/)<!-- TECH:END -->
+ - [Hands on with Apple's iPhone 13 Pro silicone cases](https://appleinsider.com/articles/21/09/17/hands-on-with-apples-iphone-13-pro-silicone-cases?utm_medium=rss)
+ - [Telegram blocks Navalny's Smart Voting chatbot on the second day of voting in Russia's parliamentary election (Radio Free Europe/Radio Liberty)](http://www.techmeme.com/210918/p7#a210918p7)
+ - [Clive Sinclair, inventor of the ZX Spectrum personal computer, has died](https://www.theverge.com/2021/9/18/22680955/clive-sinclair-home-computers-electric-vehicle-calculator)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
