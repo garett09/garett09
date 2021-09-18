@@ -194,9 +194,9 @@ Windows                  7 hrs 3 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The best picture I could find](http://9gag.com/gag/a1r99ER)
- - 🚯 [Dixie Normus](http://9gag.com/gag/a9Eo9Wm)
- - 🚯 [A love story](http://9gag.com/gag/ayMGGNb)<!-- MEMES:END -->
+ - 🚖 [Why are you so cute](http://9gag.com/gag/aRXnYBj)
+ - 🚯 [Sometimes people don&#039;t realize how big the pacific ocean is, so I added a banana for scale](http://9gag.com/gag/apNOOAW)
+ - 🚯 [Perfect Love Did Not Exi... Waitt...](http://9gag.com/gag/aWjzzKA)<!-- MEMES:END -->
 
 --- 
 
