@@ -187,9 +187,9 @@ Windows                  7 hrs 3 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Twitch's "hate raid" lawsuit raises questions about when tech platforms should unmask their own anonymous users and sue them for violating their speech policies (Issie Lapowsky/Protocol)](http://www.techmeme.com/210918/p3#a210918p3)
  - [CEO of Exodus Intelligence, which provides info on 0-day bugs and tools to exploit them, says India used its Windows 0-day research to spy on China and Pakistan (Thomas Brewster/Forbes)](http://www.techmeme.com/210918/p2#a210918p2)
- - [Apple rolls out AppleCare+ extensions to France, Italy and Spain](https://appleinsider.com/articles/21/09/18/apple-rolls-out-applecare-extensions-to-france-italy-and-spain?utm_medium=rss)
- - [Apple touts iPhone 13 filmmaking prowess with Twitter 'hashflag'](https://appleinsider.com/articles/21/09/18/apple-touts-iphone-13-filmmaking-prowess-with-twitter-hashflag?utm_medium=rss)<!-- TECH:END -->
+ - [Apple rolls out AppleCare+ extensions to France, Italy and Spain](https://appleinsider.com/articles/21/09/18/apple-rolls-out-applecare-extensions-to-france-italy-and-spain?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
