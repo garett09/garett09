@@ -187,9 +187,9 @@ Windows                  7 hrs 3 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google abused dominant position of Android in India, antitrust probe finds](http://feedproxy.google.com/~r/Techcrunch/~3/BDD_WM4QYOk/)
- - [Twitch's "hate raid" lawsuit raises questions about when tech platforms should unmask their own anonymous users and sue them for violating their speech policies (Issie Lapowsky/Protocol)](http://www.techmeme.com/210918/p3#a210918p3)
- - [iPhone 13 vs. 13 Mini vs. 13 Pro vs. 13 Pro Max: All the biggest differences     - CNET](https://www.cnet.com/tech/mobile/iphone-13-vs-13-mini-vs-13-pro-vs-13-pro-max-all-biggest-differences-compare/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A review of US laws governing the corporate use of biometric screening finds Illinois stands out in banning biometric data collection without consent (Michael Berens/Reuters)](http://www.techmeme.com/210918/p4#a210918p4)
+ - [Apple iPhone 13: All the missing features we didn't get     - CNET](https://www.cnet.com/tech/mobile/apple-iphone-13-all-the-missing-features-we-didnt-get/#ftag=CAD590a51e)
+ - [Google abused dominant position of Android in India, antitrust probe finds](http://feedproxy.google.com/~r/Techcrunch/~3/BDD_WM4QYOk/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
