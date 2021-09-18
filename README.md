@@ -194,8 +194,8 @@ Windows                  7 hrs 3 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Its a terrible day for rain...](http://9gag.com/gag/axM55w1)
- - 🚯 [Br&uuml;no: Fashion saves more lives than doctors](http://9gag.com/gag/a7EQQwb)
+ - 🚖 [The hero we don&#039;t deserve...](http://9gag.com/gag/aK6RRy3)
+ - 🚯 [Urrrr EEEE urrr NNNGGGG CRRRRcrrrr KEEEEEEE grrr nnnnnng.. remember, dial up](http://9gag.com/gag/aqj00zP)
  - 🚯 [The best picture I could find](http://9gag.com/gag/a1r99ER)<!-- MEMES:END -->
 
 --- 
