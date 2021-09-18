@@ -187,9 +187,9 @@ Windows                  7 hrs 3 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Facebook VP disputes report claiming the platform knows about multiple flaws it doesn’t fix](https://www.theverge.com/2021/9/18/22681056/facebook-vp-disputes-report-wall-street-journal-instagram-teens-clegg)
- - [Facebook VP says WSJ's series contained deliberate mischaracterizations, and conferred egregiously false motives to Facebook's leadership and employees (Nick Clegg/About Facebook)](http://www.techmeme.com/210918/p8#a210918p8)
- - [Executive coaching for employees is complicated and emotional](http://feedproxy.google.com/~r/Techcrunch/~3/foeV4DEoFsE/)<!-- TECH:END -->
+ - [How to use Taptic Time on the Apple Watch](https://appleinsider.com/articles/21/09/18/how-to-use-taptic-time-on-the-apple-watch?utm_medium=rss)
+ - [Harley-Davidson’s stunning vintage-inspired electric bikes are going on sale later this year](https://www.theverge.com/2021/9/18/22679256/harley-davidson-serial-1-ebike-s1-mosh-tribute-exclusive)
+ - [Pokemon Go beginner's guide: How to play, how to get candy and more tips     - CNET](https://www.cnet.com/news/pokemon-go-beginners-guide-how-to-play-how-to-get-candy-and-more-tips/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
