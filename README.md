@@ -187,9 +187,9 @@ Windows                  7 hrs 3 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [SpaceX CEO Elon Musk says Starlink internet service leaving beta in October](https://www.theverge.com/2021/9/18/22681185/spacex-ceo-elon-musk-starlink-internet-service-leaving-beta-october)
- - [User’s Guide to TechCrunch Disrupt 2021](http://feedproxy.google.com/~r/Techcrunch/~3/mqm7Bayvoxc/)
- - [Everything we’ve learned about the new I Know What You Did Last Summer show](https://www.androidauthority.com/i-know-what-you-did-last-summer-show-amazon-prime-3020037/)<!-- TECH:END -->
+ - [Profile of Chris Gilliard, aka @hypervisible, who has helped coin concepts like "digital redlining" to highlight the impact of tech on marginalized groups (Will Oremus/Washington Post)](http://www.techmeme.com/210918/p9#a210918p9)
+ - [Hands on with GoPro Hero 10 Black: A whole new level](https://appleinsider.com/articles/21/09/18/hands-on-with-gopro-hero-10-black-a-whole-new-level?utm_medium=rss)
+ - [SpaceX CEO Elon Musk says Starlink internet service leaving beta in October](https://www.theverge.com/2021/9/18/22681185/spacex-ceo-elon-musk-starlink-internet-service-leaving-beta-october)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
