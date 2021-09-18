@@ -187,9 +187,9 @@ Windows                  7 hrs 3 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft Surface Duo 2 FCC filings reveal 5G, Wi-Fi 6, and NFC support](https://www.androidauthority.com/surface-duo-2-fcc-filings-3026761/)
  - [Samsung Galaxy S21 vs iPhone 13 series comparison: Which should you buy?](https://www.androidauthority.com/samsung-galaxy-s21-vs-iphone-13-3024870/)
- - [Profile of Chris Gilliard, aka @hypervisible, who has helped coin concepts like "digital redlining" to highlight the impact of tech on marginalized groups (Will Oremus/Washington Post)](http://www.techmeme.com/210918/p9#a210918p9)
- - [Hands on with GoPro Hero 10 Black: A whole new level](https://appleinsider.com/articles/21/09/18/hands-on-with-gopro-hero-10-black-a-whole-new-level?utm_medium=rss)<!-- TECH:END -->
+ - [Profile of Chris Gilliard, aka @hypervisible, who has helped coin concepts like "digital redlining" to highlight the impact of tech on marginalized groups (Will Oremus/Washington Post)](http://www.techmeme.com/210918/p9#a210918p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
