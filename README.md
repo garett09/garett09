@@ -187,9 +187,9 @@ Windows                  7 hrs 3 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-398-3026342/)
- - [Emmys 2021 on Sunday: Start time, nominees and how to watch online     - CNET](https://www.cnet.com/news/emmys-2021-on-sunday-start-time-nominees-and-how-to-watch-online/#ftag=CAD590a51e)
- - [Best Deals Sept. 18 - WD Elements 14TB for $270, 128GB DDR4 for $460, more!](https://appleinsider.com/articles/21/09/18/best-deals-sept-18---wd-elements-14tb-for-270-128gb-ddr4-for-460-more?utm_medium=rss)<!-- TECH:END -->
+ - [Apple's leather cases for iPhone 13 Pro: Hands on and first impressions](https://appleinsider.com/articles/21/09/18/apples-leather-cases-for-iphone-13-pro-hands-on-and-first-impressions?utm_medium=rss)
+ - [Amazon's $299 iPad 9th Gen, $459 iPad mini 6 deals cement price war with Walmart](https://appleinsider.com/articles/21/09/18/amazons-299-ipad-9th-gen-459-ipad-mini-6-deals-cement-price-war-with-walmart?utm_medium=rss)
+ - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-398-3026342/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
