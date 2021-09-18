@@ -194,9 +194,9 @@ Windows                  7 hrs 3 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Size of Earth vs Sun vs Biggest star in the Universe](http://9gag.com/gag/aXoByxD)
- - 🚯 [The best picture I could find](http://9gag.com/gag/a1r99ER)
- - 🚯 [Br&uuml;no: Fashion saves more lives than doctors](http://9gag.com/gag/a7EQQwb)<!-- MEMES:END -->
+ - 🚖 [Its a terrible day for rain...](http://9gag.com/gag/axM55w1)
+ - 🚯 [Br&uuml;no: Fashion saves more lives than doctors](http://9gag.com/gag/a7EQQwb)
+ - 🚯 [The best picture I could find](http://9gag.com/gag/a1r99ER)<!-- MEMES:END -->
 
 --- 
 
