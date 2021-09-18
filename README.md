@@ -194,9 +194,9 @@ Windows                  7 hrs 3 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Diabete alert dog trained to alert human with boops when blood sugar level is low](http://9gag.com/gag/axM5LvD)
- - 🚯 [This dad is having a great time](http://9gag.com/gag/aeALn6v)
- - 🚯 [That spin though.](http://9gag.com/gag/apNO4pb)<!-- MEMES:END -->
+ - 🚖 [&quot;For the last time, your dog cannot be mocking you!!&quot; The dog:](http://9gag.com/gag/amP3eOj)
+ - 🚯 [That spin though.](http://9gag.com/gag/apNO4pb)
+ - 🚯 [This dad is having a great time](http://9gag.com/gag/aeALn6v)<!-- MEMES:END -->
 
 --- 
 
