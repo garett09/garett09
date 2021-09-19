@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Health minister 2021 version](http://9gag.com/gag/aXo5bD2)
- - 🚯 [Same timing](http://9gag.com/gag/aoMbzG2)
- - 🚯 [Meanwhile in the Netherlands province of Frysia. A new world record!!!](http://9gag.com/gag/aGpW96G)<!-- MEMES:END -->
+ - 🚖 [Meanwhile in the Netherlands province of Frysia. A new world record!!!](http://9gag.com/gag/aGpW96G)
+ - 🚯 [Donate your dicks so it could have some use](http://9gag.com/gag/a7Ez51L)
+ - 🚯 [Bodyguard purposefully blocking paparazzi](http://9gag.com/gag/aAboVdp)<!-- MEMES:END -->
 
 --- 
 
