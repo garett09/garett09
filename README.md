@@ -194,8 +194,8 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Words to live by](http://9gag.com/gag/anQLYK5)
- - 🚯 [Weld done.](http://9gag.com/gag/av5308d)
+ - 🚖 [Can&#039;t Stop](http://9gag.com/gag/arMjp30)
+ - 🚯 [Just true](http://9gag.com/gag/apNWEzW)
  - 🚯 [Truly unbreakable](http://9gag.com/gag/aMK31eG)<!-- MEMES:END -->
 
 --- 
