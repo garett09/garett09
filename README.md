@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It&#039;s a Jeep thing, you wouldn&#039;t understand](http://9gag.com/gag/awM6K1R)
- - 🚯 [Ahhh the golden age of youtube,where did it all go wrong?](http://9gag.com/gag/aZ0GNbp)
- - 🚯 [Gotta love the salt](http://9gag.com/gag/aMK3b5R)<!-- MEMES:END -->
+ - 🚖 [Literally made her smile](http://9gag.com/gag/arMjeMy)
+ - 🚯 [Gotta love the salt](http://9gag.com/gag/aMK3b5R)
+ - 🚯 [Back in the days when the toys were mostly made of steel and not China.](http://9gag.com/gag/ayMOnMp)<!-- MEMES:END -->
 
 --- 
 
