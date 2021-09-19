@@ -194,8 +194,8 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Close call](http://9gag.com/gag/aRXY65Q)
- - 🚯 [1 girl 4 dogs](http://9gag.com/gag/aNpNy1K)
+ - 🚖 [1 girl 4 dogs](http://9gag.com/gag/aNpNy1K)
+ - 🚯 [Close call](http://9gag.com/gag/aRXY65Q)
  - 🚯 [Lesson learned...](http://9gag.com/gag/aV7NjBn)<!-- MEMES:END -->
 
 --- 
