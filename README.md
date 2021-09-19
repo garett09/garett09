@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Saudi-based customer communications service Unifonic raises $125M Series B led by SoftBank Vision Fund 2 and Sanabil, which is owned by Saudi Arabia's PIF (Matthew Martin/Bloomberg)](http://www.techmeme.com/210919/p1#a210919p1)
- - [A look at the lawsuit over Kosta Elefteriou's FlickType app for Apple Watch that he claims Apple had offered to buy, as Apple unveils its own swipe keyboard (Sean Hollister/The Verge)](http://www.techmeme.com/210918/p11#a210918p11)
- - [Interview with GitHub COO Erica Brescia on GitHub's infrastructure, changes in open-source software philosophies, and why hybrid work will thrive post-pandemic (Tom Krazit/Protocol)](http://www.techmeme.com/210918/p10#a210918p10)<!-- TECH:END -->
+ - [A look at how the withdrawal of Google and others from London's decade-old Silicon Roundabout may be proof the UK's startup scene has expanded and matured (Oscar Williams/New Statesman)](http://www.techmeme.com/210919/p5#a210919p5)
+ - [CreatorIQ, which helps brands with influencer marketing by providing e-commerce and campaign measurement tools, raises $40M from investors including TVC Capital (Todd Spangler/Variety)](http://www.techmeme.com/210919/p4#a210919p4)
+ - [LA-based Tradesy, an online marketplace for secondhand high-end fashion goods, raises $67M Series D led by Foris Ventures, the family office of John Doerr (Kia Kokalitcheva/Axios)](http://www.techmeme.com/210919/p3#a210919p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
