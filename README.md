@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The iPhone 13 is here, but should you wait for the Pixel 6?](https://www.androidauthority.com/google-pixel-6-vs-iphone-13-3023388/)
- - [The Perfect Wireless Earbuds for Every Need](https://www.wired.com/gallery/best-wirefree-earbuds)
- - [The Chevy Bolt recall is burning up what’s left of GM’s EV good will](https://www.theverge.com/2021/9/19/22677539/chevy-bolt-recall-gm-electric-vehicles-fire-tesla-competition)<!-- TECH:END -->
+ - [Emmys 2021: How to watch online, and who’s nominated](https://www.theverge.com/2021/9/19/22680938/emmys-2021-watch-date-time-how-to-nominations-online-streaming-cbs-paramount-plus)
+ - [Amazon's $299 iPad 9th Gen, $459 iPad mini 6 deals cement price war with Walmart](https://appleinsider.com/articles/21/09/18/amazons-299-ipad-9th-gen-459-ipad-mini-6-deals-cement-price-war-with-walmart?utm_medium=rss)
+ - [Apple's new leather iPhone 13 Pro cases - hands on and first impressions](https://appleinsider.com/articles/21/09/18/apples-leather-cases-for-iphone-13-pro-hands-on-and-first-impressions?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
