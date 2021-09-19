@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [A laundromat becomes a blood-soaked nightmare in Bloodwash](https://www.pcgamer.com/a-laundromat-becomes-a-blood-soaked-nightmare-in-bloodwash)
- - [Put an 'undo' button in every strategy game](https://www.pcgamer.com/put-an-undo-button-in-every-strategy-game)
- - [What DLC should get a standalone sequel?](https://www.pcgamer.com/what-dlc-should-get-a-standalone-sequel)<!-- GAME:END -->
+ - [Weapon degradation will return in Dying Light 2](https://www.pcgamer.com/weapon-degradation-will-return-in-dying-light-2)
+ - [Dying Light 2: Everything we know about the next zombie parkour game](https://www.pcgamer.com/dying-light-2-release-date)
+ - [A laundromat becomes a blood-soaked nightmare in Bloodwash](https://www.pcgamer.com/a-laundromat-becomes-a-blood-soaked-nightmare-in-bloodwash)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
