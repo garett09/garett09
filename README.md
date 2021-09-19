@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Same timing](http://9gag.com/gag/aoMbzG2)
- - 🚯 [Cover of Time Magazine](http://9gag.com/gag/aK6rz8N)
- - 🚯 [Iceland volcano](http://9gag.com/gag/aoMbzXm)<!-- MEMES:END -->
+ - 🚖 [Learning self def from youtube](http://9gag.com/gag/aXo5pYP)
+ - 🚯 [The Philippino Traditional Dance Known as &quot;Tinikling&quot;](http://9gag.com/gag/av53ZXb)
+ - 🚯 [Bodyguard purposefully blocking paparazzi](http://9gag.com/gag/aAboVdp)<!-- MEMES:END -->
 
 --- 
 
