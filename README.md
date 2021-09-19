@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [You can watch unsung Wachowski classic Speed Racer on HBO Max](https://www.androidauthority.com/wachowski-speed-racer-hbo-max-3024953/)
- - [Best electric toothbrush for 2021     - CNET](https://www.cnet.com/health/dental-care/best-electric-toothbrush/#ftag=CAD590a51e)
- - [Best Deals Sept. 19 - Target bonuses with $100 Apple Gift Cards, Monitor Stand discounts, more!](https://appleinsider.com/articles/21/09/19/best-deals-sept-19---target-bonuses-with-100-apple-gift-cards-monitor-stand-discounts-more?utm_medium=rss)<!-- TECH:END -->
+ - [iPhone 13 vs. 13 Mini vs. 13 Pro vs. 13 Pro Max: All the biggest differences     - CNET](https://www.cnet.com/tech/mobile/iphone-13-vs-13-mini-vs-13-pro-vs-13-pro-max-biggest-differences-comparison-compare-compared/#ftag=CAD590a51e)
+ - [Emmys 2021 how to watch: Start time, cable-free options     - CNET](https://www.cnet.com/news/emmys-2021-how-to-watch-start-time-cable-free-options/#ftag=CAD590a51e)
+ - [You can watch unsung Wachowski classic Speed Racer on HBO Max](https://www.androidauthority.com/wachowski-speed-racer-hbo-max-3024953/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
