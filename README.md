@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Can&#039;t Stop](http://9gag.com/gag/arMjp30)
- - 🚯 [Just true](http://9gag.com/gag/apNWEzW)
- - 🚯 [Truly unbreakable](http://9gag.com/gag/aMK31eG)<!-- MEMES:END -->
+ - 🚖 [On May 28, 2001, the Cameroonian maestro Francis Bebey left this earth to join the stars. He was one of the first to pay tribute to the genius of -pygmy- music.](http://9gag.com/gag/axMXNeY)
+ - 🚯 [Satan would be proud](http://9gag.com/gag/a8EBLx3)
+ - 🚯 [What foul?](http://9gag.com/gag/aeAvNnB)<!-- MEMES:END -->
 
 --- 
 
