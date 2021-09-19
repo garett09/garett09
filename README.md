@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [LeVar Burton No Longer Wants To Be Jeopardy! Host](https://kotaku.com/levar-burton-no-longer-wants-to-be-jeopardy-host-1847704919)
  - [This Week in PC Gaming: Diablo 2: Resurrected, Sable, and Genshin Impact](https://www.pcgamer.com/this-week-in-pc-gaming-diablo-2-resurrected-sable-and-genshin-impact)
- - [Diablo II Resurrected Dev: Folks Deciding If They'll Buy It Should 'Do What They Feel Is Right'](https://kotaku.com/diablo-ii-resurrected-dev-folks-deciding-if-theyll-buy-1847702995)
- - [Sunday Comics: Just Watch!](https://kotaku.com/sunday-comics-just-watch-1847704421)<!-- GAME:END -->
+ - [Diablo II Resurrected Dev: Folks Deciding If They'll Buy It Should 'Do What They Feel Is Right'](https://kotaku.com/diablo-ii-resurrected-dev-folks-deciding-if-theyll-buy-1847702995)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
