@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 13 vs. 13 Mini vs. 13 Pro vs. 13 Pro Max: All the biggest differences     - CNET](https://www.cnet.com/tech/mobile/iphone-13-vs-13-mini-vs-13-pro-vs-13-pro-max-biggest-differences-comparison-compare-compared/#ftag=CAD590a51e)
- - [Emmys 2021 how to watch: Start time, cable-free options     - CNET](https://www.cnet.com/news/emmys-2021-how-to-watch-start-time-cable-free-options/#ftag=CAD590a51e)
- - [You can watch unsung Wachowski classic Speed Racer on HBO Max](https://www.androidauthority.com/wachowski-speed-racer-hbo-max-3024953/)<!-- TECH:END -->
+ - [Kyocera Duraforce Ultra review: The premium flagship of rugged phones?](https://www.androidauthority.com/kyocera-duraforce-ultra-review-2733718/)
+ - [As Tesla prepares to roll out an upgrade to Full Self-Driving, NTSB head says it shouldn't roll out the city-driving tool before addressing safety deficiencies (Rebecca Elliott/Wall Street Journal)](http://www.techmeme.com/210919/p9#a210919p9)
+ - [Tim Cook talks the need for privacy and exciting AI, AR](https://appleinsider.com/articles/21/09/19/tim-cook-talks-the-need-for-privacy-and-exciting-ai-ar?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
