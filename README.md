@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This Magnetic Desk Is a Neat Freak’s Dream](https://www.wired.com/story/secretlab-magnus-desk-rave)
- - [How to Set Up a NAS to Securely Share Files](https://www.wired.com/story/how-to-set-up-a-nas-securely-share-files)
- - [Emmys 2021: All the nominees and award categories for tonight     - CNET](https://www.cnet.com/news/emmys-2021-all-the-nominees-and-award-categories-for-tonight/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Electric scooters: A buyer’s guide](https://www.androidauthority.com/electric-scooters-3023811/)
+ - [A Mathematician's Guided Tour Through Higher Dimensions](https://www.wired.com/story/a-mathematicians-guided-tour-through-higher-dimensions)
+ - [The Nokia XR20 Is Today’s Sturdy Android Brick Phone](https://www.wired.com/review/nokia-xr20)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
