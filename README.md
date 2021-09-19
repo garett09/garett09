@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Why SpaceX's all-civilian Inspiration4 mission matters to everyone     - CNET](https://www.cnet.com/news/why-the-spacex-inspiration4-mission-should-matter-to-everyone/#ftag=CAD590a51e)
- - [Deathloop's ending explained: Your WTF questions answered     - CNET](https://www.cnet.com/news/deathloops-ending-explained-your-wtf-questions-answered/#ftag=CAD590a51e)
- - [iPhone 13 vs. 13 Mini vs. 13 Pro vs. 13 Pro Max: All the biggest differences     - CNET](https://www.cnet.com/tech/mobile/iphone-13-vs-13-mini-vs-13-pro-vs-13-pro-max-biggest-differences-comp/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Interview with GitHub COO Erica Brescia on GitHub's infrastructure, changes in open-source software philosophies, and why hybrid work will thrive post-pandemic (Tom Krazit/Protocol)](http://www.techmeme.com/210918/p10#a210918p10)
+ - [SpaceX Inspiration4 mission splashes down in first Atlantic Ocean landing     - CNET](https://www.cnet.com/news/spacex-inspiration4-mission-splashes-down-in-first-atlantic-ocean-landing/#ftag=CAD590a51e)
+ - [Why SpaceX's all-civilian Inspiration4 mission matters to everyone     - CNET](https://www.cnet.com/news/why-the-spacex-inspiration4-mission-should-matter-to-everyone/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
