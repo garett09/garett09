@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When days were good](http://9gag.com/gag/aO3w66E)
- - 🚯 [Instagramers...](http://9gag.com/gag/a6EArwm)
- - 🚯 [That went badly very quickly](http://9gag.com/gag/a7Ezv6w)<!-- MEMES:END -->
+ - 🚖 [Truly unbreakable](http://9gag.com/gag/aMK31eG)
+ - 🚯 [That went badly very quickly](http://9gag.com/gag/a7Ezv6w)
+ - 🚯 [Words to live by](http://9gag.com/gag/anQLYK5)<!-- MEMES:END -->
 
 --- 
 
