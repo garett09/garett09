@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [SpaceX's Inspiration4 Returns After 3 Days in Orbit](https://www.wired.com/story/spacexs-inspiration4-returns-after-3-days-in-orbit)
- - [SpaceX’s Inspiration4 crew returns to Earth, capping first fully private mission in orbit](https://www.theverge.com/2021/9/18/22681339/spacex-inspiration4-crew-return-earth-splashdown)
- - [GoPro Hero 10 Black hands on: A whole new level for action photography](https://appleinsider.com/articles/21/09/18/hands-on-with-gopro-hero-10-black-a-whole-new-level?utm_medium=rss)<!-- TECH:END -->
+ - [Why SpaceX's all-civilian Inspiration4 mission matters to everyone     - CNET](https://www.cnet.com/news/why-the-spacex-inspiration4-mission-should-matter-to-everyone/#ftag=CAD590a51e)
+ - [Deathloop's ending explained: Your WTF questions answered     - CNET](https://www.cnet.com/news/deathloops-ending-explained-your-wtf-questions-answered/#ftag=CAD590a51e)
+ - [iPhone 13 vs. 13 Mini vs. 13 Pro vs. 13 Pro Max: All the biggest differences     - CNET](https://www.cnet.com/tech/mobile/iphone-13-vs-13-mini-vs-13-pro-vs-13-pro-max-biggest-differences-comp/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
