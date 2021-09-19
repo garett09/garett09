@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Sunday Comics: Just Watch!](https://kotaku.com/sunday-comics-just-watch-1847704421)
- - [The Elder Scrolls Online will be the first game with Nvidia's new DLAA tech](https://www.pcgamer.com/the-elder-scrolls-online-will-be-the-first-game-with-nvidias-new-dlaa-tech)
- - [Weapon degradation will return in Dying Light 2](https://www.pcgamer.com/weapon-degradation-will-return-in-dying-light-2)<!-- GAME:END -->
+ - [This Week in PC Gaming: Diablo 2: Resurrected, Sable, and Genshin Impact](https://www.pcgamer.com/this-week-in-pc-gaming-diablo-2-resurrected-sable-and-genshin-impact)
+ - [Diablo II Resurrected Dev: Folks Deciding If They'll Buy It Should 'Do What They Feel Is Right'](https://kotaku.com/diablo-ii-resurrected-dev-folks-deciding-if-theyll-buy-1847702995)
+ - [Sunday Comics: Just Watch!](https://kotaku.com/sunday-comics-just-watch-1847704421)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
