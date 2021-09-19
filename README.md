@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [1 girl 4 dogs](http://9gag.com/gag/aNpNy1K)
- - 🚯 [Close call](http://9gag.com/gag/aRXY65Q)
- - 🚯 [Lesson learned...](http://9gag.com/gag/aV7NjBn)<!-- MEMES:END -->
+ - 🚖 [Lesson learned...](http://9gag.com/gag/aV7NjBn)
+ - 🚯 [&quot;Stop crying, it&#039;s just a movie&quot; In your opinion what&#039;s the most heartbreaking moment in film history??](http://9gag.com/gag/aqj03wY)
+ - 🚯 [Instagramers...](http://9gag.com/gag/a6EArwm)<!-- MEMES:END -->
 
 --- 
 
