@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Saudi-based customer communications service Unifonic raises $125M Series B led by SoftBank Vision Fund 2 and Sanabil, which is owned by Saudi Arabia's PIF (Matthew Martin/Bloomberg)](http://www.techmeme.com/210919/p1#a210919p1)
  - [A look at the lawsuit over Kosta Elefteriou's FlickType app for Apple Watch that he claims Apple had offered to buy, as Apple unveils its own swipe keyboard (Sean Hollister/The Verge)](http://www.techmeme.com/210918/p11#a210918p11)
- - [Interview with GitHub COO Erica Brescia on GitHub's infrastructure, changes in open-source software philosophies, and why hybrid work will thrive post-pandemic (Tom Krazit/Protocol)](http://www.techmeme.com/210918/p10#a210918p10)
- - [SpaceX Inspiration4 mission splashes down in first Atlantic Ocean landing     - CNET](https://www.cnet.com/news/spacex-inspiration4-mission-splashes-down-in-first-atlantic-ocean-landing/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Interview with GitHub COO Erica Brescia on GitHub's infrastructure, changes in open-source software philosophies, and why hybrid work will thrive post-pandemic (Tom Krazit/Protocol)](http://www.techmeme.com/210918/p10#a210918p10)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
