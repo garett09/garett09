@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at the lawsuit over Kosta Elefteriou's FlickType app for Apple Watch that he claims Apple had offered to buy, as Apple unveils its own swipe keyboard (Sean Hollister/The Verge)](http://www.techmeme.com/210918/p11#a210918p11)
  - [Interview with GitHub COO Erica Brescia on GitHub's infrastructure, changes in open-source software philosophies, and why hybrid work will thrive post-pandemic (Tom Krazit/Protocol)](http://www.techmeme.com/210918/p10#a210918p10)
- - [SpaceX Inspiration4 mission splashes down in first Atlantic Ocean landing     - CNET](https://www.cnet.com/news/spacex-inspiration4-mission-splashes-down-in-first-atlantic-ocean-landing/#ftag=CAD590a51e)
- - [Why SpaceX's all-civilian Inspiration4 mission matters to everyone     - CNET](https://www.cnet.com/news/why-the-spacex-inspiration4-mission-should-matter-to-everyone/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [SpaceX Inspiration4 mission splashes down in first Atlantic Ocean landing     - CNET](https://www.cnet.com/news/spacex-inspiration4-mission-splashes-down-in-first-atlantic-ocean-landing/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
