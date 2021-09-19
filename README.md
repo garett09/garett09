@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Madrid-based Seedtag, a contextual adtech company, raises $40M Series B led by Oakley Capital to expand into the US market (Dan Taylor/Tech.eu)](http://www.techmeme.com/210919/p6#a210919p6)
- - [A look at how the withdrawal of Google and others from London's decade-old Silicon Roundabout may be proof the UK's startup scene has expanded and matured (Oscar Williams/New Statesman)](http://www.techmeme.com/210919/p5#a210919p5)
- - [CreatorIQ, which helps brands with influencer marketing by providing e-commerce and campaign measurement tools, raises $40M from investors including TVC Capital (Todd Spangler/Variety)](http://www.techmeme.com/210919/p4#a210919p4)<!-- TECH:END -->
+ - [This Magnetic Desk Is a Neat Freak’s Dream](https://www.wired.com/story/secretlab-magnus-desk-rave)
+ - [How to Set Up a NAS to Securely Share Files](https://www.wired.com/story/how-to-set-up-a-nas-securely-share-files)
+ - [Emmys 2021: All the nominees and award categories for tonight     - CNET](https://www.cnet.com/news/emmys-2021-all-the-nominees-and-award-categories-for-tonight/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
