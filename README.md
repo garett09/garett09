@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [A laundromat becomes a blood-soaked nightmare in Bloodwash](https://www.pcgamer.com/a-laundromat-becomes-a-blood-soaked-nightmare-in-bloodwash)
  - [Put an 'undo' button in every strategy game](https://www.pcgamer.com/put-an-undo-button-in-every-strategy-game)
- - [What DLC should get a standalone sequel?](https://www.pcgamer.com/what-dlc-should-get-a-standalone-sequel)
- - [V Rising is a survival game where you're a vampire](https://www.pcgamer.com/v-rising-is-a-survival-game-where-youre-a-vampire)<!-- GAME:END -->
+ - [What DLC should get a standalone sequel?](https://www.pcgamer.com/what-dlc-should-get-a-standalone-sequel)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
