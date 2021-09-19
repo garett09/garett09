@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kyocera Duraforce Ultra review: The premium flagship of rugged phones?](https://www.androidauthority.com/kyocera-duraforce-ultra-review-2733718/)
- - [As Tesla prepares to roll out an upgrade to Full Self-Driving, NTSB head says it shouldn't roll out the city-driving tool before addressing safety deficiencies (Rebecca Elliott/Wall Street Journal)](http://www.techmeme.com/210919/p9#a210919p9)
- - [Tim Cook talks the need for privacy and exciting AI, AR](https://appleinsider.com/articles/21/09/19/tim-cook-talks-the-need-for-privacy-and-exciting-ai-ar?utm_medium=rss)<!-- TECH:END -->
+ - [New trailers: Succession, You, Nightmare Alley, Hawkeye, and more](https://www.theverge.com/2021/9/19/22679766/new-trailers-succession-you-nightmare-alley-hawkeye-marvel-disney-netflix-hbo)
+ - [Pokemon Go September 2021 Community Day: Oshawott, event moves and start time     - CNET](https://www.cnet.com/news/pokemon-go-september-community-day-oshawott-event-moves-and-start-time/#ftag=CAD590a51e)
+ - [Kyocera Duraforce Ultra review: The premium flagship of rugged phones?](https://www.androidauthority.com/kyocera-duraforce-ultra-review-2733718/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
