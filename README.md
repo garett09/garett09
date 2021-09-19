@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [On May 28, 2001, the Cameroonian maestro Francis Bebey left this earth to join the stars. He was one of the first to pay tribute to the genius of -pygmy- music.](http://9gag.com/gag/axMXNeY)
- - 🚯 [Satan would be proud](http://9gag.com/gag/a8EBLx3)
- - 🚯 [What foul?](http://9gag.com/gag/aeAvNnB)<!-- MEMES:END -->
+ - 🚖 [Health minister 2021 version](http://9gag.com/gag/aXo5bD2)
+ - 🚯 [Another day another dollar](http://9gag.com/gag/av53ZPb)
+ - 🚯 [When you pick a fight with the wrong guy](http://9gag.com/gag/a5E8d3L)<!-- MEMES:END -->
 
 --- 
 
