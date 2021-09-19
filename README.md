@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Literally made her smile](http://9gag.com/gag/arMjeMy)
- - 🚯 [Gotta love the salt](http://9gag.com/gag/aMK3b5R)
- - 🚯 [Back in the days when the toys were mostly made of steel and not China.](http://9gag.com/gag/ayMOnMp)<!-- MEMES:END -->
+ - 🚖 [Gotta love the salt](http://9gag.com/gag/aMK3b5R)
+ - 🚯 [I&rsquo;m wheezing lol](http://9gag.com/gag/ad8mp9D)
+ - 🚯 [RoboDi*k_97](http://9gag.com/gag/a27nPQE)<!-- MEMES:END -->
 
 --- 
 
