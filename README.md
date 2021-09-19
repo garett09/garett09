@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Antitrust probe in India finds Google abused the local smartphone market](https://appleinsider.com/articles/21/09/19/antitrust-probe-in-india-finds-google-abused-smartphone-market-dominance?utm_medium=rss)
- - [TikTok parent ByteDance adds time limit for kids under 14 on its video app in China](https://www.theverge.com/2021/9/19/22682219/tiktok-parent-bytedance-limits-kids-douyin-app-china)
- - [The Best Hiking Apps to Keep from Getting Lost](https://www.wired.com/story/apps-for-hiking-trails)<!-- TECH:END -->
+ - [The iPhone 13 is here, but should you wait for the Pixel 6?](https://www.androidauthority.com/google-pixel-6-vs-iphone-13-3023388/)
+ - [The Perfect Wireless Earbuds for Every Need](https://www.wired.com/gallery/best-wirefree-earbuds)
+ - [The Chevy Bolt recall is burning up what’s left of GM’s EV good will](https://www.theverge.com/2021/9/19/22677539/chevy-bolt-recall-gm-electric-vehicles-fire-tesla-competition)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
