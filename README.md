@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Meanwhile in the Netherlands province of Frysia. A new world record!!!](http://9gag.com/gag/aGpW96G)
- - 🚯 [Donate your dicks so it could have some use](http://9gag.com/gag/a7Ez51L)
- - 🚯 [Bodyguard purposefully blocking paparazzi](http://9gag.com/gag/aAboVdp)<!-- MEMES:END -->
+ - 🚖 [Same timing](http://9gag.com/gag/aoMbzG2)
+ - 🚯 [Cover of Time Magazine](http://9gag.com/gag/aK6rz8N)
+ - 🚯 [Iceland volcano](http://9gag.com/gag/aoMbzXm)<!-- MEMES:END -->
 
 --- 
 
