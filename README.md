@@ -194,8 +194,8 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Truly unbreakable](http://9gag.com/gag/aMK31eG)
- - 🚯 [That went badly very quickly](http://9gag.com/gag/a7Ezv6w)
+ - 🚖 [My dad is a mechanic.](http://9gag.com/gag/a9E9b3o)
+ - 🚯 [Weld done.](http://9gag.com/gag/av5308d)
  - 🚯 [Words to live by](http://9gag.com/gag/anQLYK5)<!-- MEMES:END -->
 
 --- 
