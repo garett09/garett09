@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The Elder Scrolls Online will be the first game with Nvidia's new DLAA tech](https://www.pcgamer.com/the-elder-scrolls-online-will-be-the-first-game-with-nvidias-new-dlaa-tech)
  - [Weapon degradation will return in Dying Light 2](https://www.pcgamer.com/weapon-degradation-will-return-in-dying-light-2)
- - [Dying Light 2: Everything we know about the next zombie parkour game](https://www.pcgamer.com/dying-light-2-release-date)
- - [A laundromat becomes a blood-soaked nightmare in Bloodwash](https://www.pcgamer.com/a-laundromat-becomes-a-blood-soaked-nightmare-in-bloodwash)<!-- GAME:END -->
+ - [Dying Light 2: Everything we know about the next zombie parkour game](https://www.pcgamer.com/dying-light-2-release-date)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
