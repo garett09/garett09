@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [New trailers: Succession, You, Nightmare Alley, Hawkeye, and more](https://www.theverge.com/2021/9/19/22679766/new-trailers-succession-you-nightmare-alley-hawkeye-marvel-disney-netflix-hbo)
- - [Pokemon Go September 2021 Community Day: Oshawott, event moves and start time     - CNET](https://www.cnet.com/news/pokemon-go-september-community-day-oshawott-event-moves-and-start-time/#ftag=CAD590a51e)
- - [Kyocera Duraforce Ultra review: The premium flagship of rugged phones?](https://www.androidauthority.com/kyocera-duraforce-ultra-review-2733718/)<!-- TECH:END -->
+ - [iPhone 13 orders start shipping, but you probably won't get it until Friday](https://appleinsider.com/articles/21/09/19/iphone-13-orders-start-shipping-but-you-probably-wont-get-it-until-friday?utm_medium=rss)
+ - [Invasion on Apple TV Plus: Everything we know about the sci-fi series](https://www.androidauthority.com/invasion-series-apple-tv-plus-3023159/)
+ - [Experts say current cuffless methods for measuring blood pressure, like the tech found in Samsung Galaxy Watch, can only reliably track relative changes in BP (Nicole Wetsman/The Verge)](http://www.techmeme.com/210919/p10#a210919p10)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
