@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Gotta love the salt](http://9gag.com/gag/aMK3b5R)
- - 🚯 [I&rsquo;m wheezing lol](http://9gag.com/gag/ad8mp9D)
- - 🚯 [RoboDi*k_97](http://9gag.com/gag/a27nPQE)<!-- MEMES:END -->
+ - 🚖 [RoboDi*k_97](http://9gag.com/gag/a27nPQE)
+ - 🚯 [Learning self def from youtube](http://9gag.com/gag/aXo5pYP)
+ - 🚯 [Exacly](http://9gag.com/gag/anQLK4q)<!-- MEMES:END -->
 
 --- 
 
