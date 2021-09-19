@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Emmys 2021: How to watch online, and who’s nominated](https://www.theverge.com/2021/9/19/22680938/emmys-2021-watch-date-time-how-to-nominations-online-streaming-cbs-paramount-plus)
- - [Amazon's $299 iPad 9th Gen, $459 iPad mini 6 deals cement price war with Walmart](https://appleinsider.com/articles/21/09/18/amazons-299-ipad-9th-gen-459-ipad-mini-6-deals-cement-price-war-with-walmart?utm_medium=rss)
- - [Apple's new leather iPhone 13 Pro cases - hands on and first impressions](https://appleinsider.com/articles/21/09/18/apples-leather-cases-for-iphone-13-pro-hands-on-and-first-impressions?utm_medium=rss)<!-- TECH:END -->
+ - [You can watch unsung Wachowski classic Speed Racer on HBO Max](https://www.androidauthority.com/wachowski-speed-racer-hbo-max-3024953/)
+ - [Best electric toothbrush for 2021     - CNET](https://www.cnet.com/health/dental-care/best-electric-toothbrush/#ftag=CAD590a51e)
+ - [Best Deals Sept. 19 - Target bonuses with $100 Apple Gift Cards, Monitor Stand discounts, more!](https://appleinsider.com/articles/21/09/19/best-deals-sept-19---target-bonuses-with-100-apple-gift-cards-monitor-stand-discounts-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
