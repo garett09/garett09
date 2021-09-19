@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [LeVar Burton No Longer Wants To Be Jeopardy! Host](https://kotaku.com/levar-burton-no-longer-wants-to-be-jeopardy-host-1847704919)
- - [This Week in PC Gaming: Diablo 2: Resurrected, Sable, and Genshin Impact](https://www.pcgamer.com/this-week-in-pc-gaming-diablo-2-resurrected-sable-and-genshin-impact)
- - [Diablo II Resurrected Dev: Folks Deciding If They'll Buy It Should 'Do What They Feel Is Right'](https://kotaku.com/diablo-ii-resurrected-dev-folks-deciding-if-theyll-buy-1847702995)<!-- GAME:END -->
+ - [Phasmophobia's anniversary update takes some sting out of losing](https://www.pcgamer.com/phasmophobias-anniversary-update-takes-some-sting-out-of-losing)
+ - [Splitgate Devs Say Popular Shooter Is Only '25% Complete'](https://kotaku.com/splitgate-devs-say-popular-shooter-is-only-25-complete-1847705167)
+ - [LeVar Burton No Longer Wants To Be Jeopardy! Host](https://kotaku.com/levar-burton-no-longer-wants-to-be-jeopardy-host-1847704919)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
