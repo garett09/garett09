@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The Week In Games: Lost Judgment Is Out Soon](https://kotaku.com/the-week-in-games-lost-judgment-is-out-soon-1847705479)
  - [Luigi Discovered In Sega Dreamcast Prototype](https://kotaku.com/luigi-discovered-in-sega-dreamcast-prototype-1847705311)
- - [Apex Legends server issues fix may take a few more days](https://www.pcgamer.com/apex-legends-server-issues-fix-may-take-a-few-more-days)
- - [Phasmophobia's anniversary update takes some sting out of losing](https://www.pcgamer.com/phasmophobias-anniversary-update-takes-some-sting-out-of-losing)<!-- GAME:END -->
+ - [Apex Legends server issues fix may take a few more days](https://www.pcgamer.com/apex-legends-server-issues-fix-may-take-a-few-more-days)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
