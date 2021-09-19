@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The Philippino Traditional Dance Known as &quot;Tinikling&quot;](http://9gag.com/gag/av53ZXb)
- - 🚯 [Oh how the turns table!](http://9gag.com/gag/a6EAdXm)
- - 🚯 [Another day another dollar](http://9gag.com/gag/av53ZPb)<!-- MEMES:END -->
+ - 🚖 [Oh how the turns table!](http://9gag.com/gag/a6EAdXm)
+ - 🚯 [Another day another dollar](http://9gag.com/gag/av53ZPb)
+ - 🚯 [It&#039;s a Jeep thing, you wouldn&#039;t understand](http://9gag.com/gag/awM6K1R)<!-- MEMES:END -->
 
 --- 
 
