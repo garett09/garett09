@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ikea’s $39.99 pad adds built-in wireless charging to almost any table](https://www.theverge.com/2021/9/19/22677980/ikea-sjomarke-wireless-qi-charging-existing-furniture)
  - [iPhone 13 orders start shipping, but you probably won't get it until Friday](https://appleinsider.com/articles/21/09/19/iphone-13-orders-start-shipping-but-you-probably-wont-get-it-until-friday?utm_medium=rss)
- - [Invasion on Apple TV Plus: Everything we know about the sci-fi series](https://www.androidauthority.com/invasion-series-apple-tv-plus-3023159/)
- - [Experts say current cuffless methods for measuring blood pressure, like the tech found in Samsung Galaxy Watch, can only reliably track relative changes in BP (Nicole Wetsman/The Verge)](http://www.techmeme.com/210919/p10#a210919p10)<!-- TECH:END -->
+ - [Invasion on Apple TV Plus: Everything we know about the sci-fi series](https://www.androidauthority.com/invasion-series-apple-tv-plus-3023159/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
