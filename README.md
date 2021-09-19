@@ -195,8 +195,8 @@ Windows                  7 hrs 16 mins       ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Close call](http://9gag.com/gag/aRXY65Q)
- - 🚯 [Lesson learned...](http://9gag.com/gag/aV7NjBn)
- - 🚯 [1 girl 4 dogs](http://9gag.com/gag/aNpNy1K)<!-- MEMES:END -->
+ - 🚯 [1 girl 4 dogs](http://9gag.com/gag/aNpNy1K)
+ - 🚯 [Lesson learned...](http://9gag.com/gag/aV7NjBn)<!-- MEMES:END -->
 
 --- 
 
