@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Oh how the turns table!](http://9gag.com/gag/a6EAdXm)
- - 🚯 [Another day another dollar](http://9gag.com/gag/av53ZPb)
- - 🚯 [It&#039;s a Jeep thing, you wouldn&#039;t understand](http://9gag.com/gag/awM6K1R)<!-- MEMES:END -->
+ - 🚖 [It&#039;s a Jeep thing, you wouldn&#039;t understand](http://9gag.com/gag/awM6K1R)
+ - 🚯 [Ahhh the golden age of youtube,where did it all go wrong?](http://9gag.com/gag/aZ0GNbp)
+ - 🚯 [Gotta love the salt](http://9gag.com/gag/aMK3b5R)<!-- MEMES:END -->
 
 --- 
 
