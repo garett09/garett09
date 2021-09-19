@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Electric scooters: A buyer’s guide](https://www.androidauthority.com/electric-scooters-3023811/)
- - [A Mathematician's Guided Tour Through Higher Dimensions](https://www.wired.com/story/a-mathematicians-guided-tour-through-higher-dimensions)
- - [The Nokia XR20 Is Today’s Sturdy Android Brick Phone](https://www.wired.com/review/nokia-xr20)<!-- TECH:END -->
+ - [Antitrust probe in India finds Google abused the local smartphone market](https://appleinsider.com/articles/21/09/19/antitrust-probe-in-india-finds-google-abused-smartphone-market-dominance?utm_medium=rss)
+ - [TikTok parent ByteDance adds time limit for kids under 14 on its video app in China](https://www.theverge.com/2021/9/19/22682219/tiktok-parent-bytedance-limits-kids-douyin-app-china)
+ - [The Best Hiking Apps to Keep from Getting Lost](https://www.wired.com/story/apps-for-hiking-trails)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
