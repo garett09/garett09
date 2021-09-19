@@ -195,8 +195,8 @@ Windows                  7 hrs 16 mins       ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Health minister 2021 version](http://9gag.com/gag/aXo5bD2)
- - 🚯 [Another day another dollar](http://9gag.com/gag/av53ZPb)
- - 🚯 [When you pick a fight with the wrong guy](http://9gag.com/gag/a5E8d3L)<!-- MEMES:END -->
+ - 🚯 [Same timing](http://9gag.com/gag/aoMbzG2)
+ - 🚯 [Meanwhile in the Netherlands province of Frysia. A new world record!!!](http://9gag.com/gag/aGpW96G)<!-- MEMES:END -->
 
 --- 
 
