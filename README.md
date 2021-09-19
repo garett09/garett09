@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Madrid-based Seedtag, a contextual adtech company, raises $40M Series B led by Oakley Capital to expand into the US market (Dan Taylor/Tech.eu)](http://www.techmeme.com/210919/p6#a210919p6)
  - [A look at how the withdrawal of Google and others from London's decade-old Silicon Roundabout may be proof the UK's startup scene has expanded and matured (Oscar Williams/New Statesman)](http://www.techmeme.com/210919/p5#a210919p5)
- - [CreatorIQ, which helps brands with influencer marketing by providing e-commerce and campaign measurement tools, raises $40M from investors including TVC Capital (Todd Spangler/Variety)](http://www.techmeme.com/210919/p4#a210919p4)
- - [LA-based Tradesy, an online marketplace for secondhand high-end fashion goods, raises $67M Series D led by Foris Ventures, the family office of John Doerr (Kia Kokalitcheva/Axios)](http://www.techmeme.com/210919/p3#a210919p3)<!-- TECH:END -->
+ - [CreatorIQ, which helps brands with influencer marketing by providing e-commerce and campaign measurement tools, raises $40M from investors including TVC Capital (Todd Spangler/Variety)](http://www.techmeme.com/210919/p4#a210919p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
