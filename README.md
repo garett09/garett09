@@ -194,7 +194,7 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [RoboDi*k_97](http://9gag.com/gag/a27nPQE)
+ - 🚖 [Lil Wayne on BLM](http://9gag.com/gag/aV7NX4d)
  - 🚯 [Learning self def from youtube](http://9gag.com/gag/aXo5pYP)
  - 🚯 [Exacly](http://9gag.com/gag/anQLK4q)<!-- MEMES:END -->
 
