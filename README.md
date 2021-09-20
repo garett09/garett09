@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Rainbow Six Siege: Everything you need to know about the new Operator](https://www.pcgamer.com/rainbow-six-siege-everything-you-need-to-know-about-the-new-operator)
  - [Here's a mod to boost your outdoor framerate in Skyrim Special Edition](https://www.pcgamer.com/heres-a-mod-to-boost-your-outdoor-framerate-in-skyrim-special-edition)
- - [Deltarune Chapter 2 is free, but the next three chapters won't be](https://www.pcgamer.com/deltarune-chapter-2-is-free-but-the-next-three-chapters-wont-be)
- - [(For Southeast Asia) “Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles” Versus Mode Character Introduction ②](http://feedproxy.google.com/~r/PSBlog/~3/HqrEnZCIpag/)<!-- GAME:END -->
+ - [Deltarune Chapter 2 is free, but the next three chapters won't be](https://www.pcgamer.com/deltarune-chapter-2-is-free-but-the-next-three-chapters-wont-be)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
