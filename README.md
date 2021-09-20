@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How could a man run at such a speed with balls that big..](http://9gag.com/gag/aO3XVOE)
+ - 🚖 [Only missed a green vomit](http://9gag.com/gag/aV7NPgM)
  - 🚯 [There can be only one!!](http://9gag.com/gag/aeAvG7O)
- - 🚯 [Meanwhile on La Palma](http://9gag.com/gag/aoMbjwe)<!-- MEMES:END -->
+ - 🚯 [Thiefs maneuver hijacked helicopter in front of police. GTA in Brazil](http://9gag.com/gag/aP3KD0g)<!-- MEMES:END -->
 
 --- 
 
