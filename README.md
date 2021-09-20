@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The BioShock Problem: When Gameplay And Narrative Clash](https://kotaku.com/the-bioshock-problem-when-gameplay-and-narrative-clash-1847698124)
- - [The Wild Beyond the Witchlight campaign is Dungeons & Dragons for theater kids](https://www.polygon.com/22683845/dungeons-dragons-the-wild-beyond-the-witchlight-review)
- - [Our 12 most anticipated anime of the fall](https://www.polygon.com/22619927/best-anime-new-fall-2021-how-to-watch)<!-- GAME:END -->
+ - [The best mini-ITX case in 2021](https://www.pcgamer.com/best-mini-itx-case)
+ - [Candy Crush is now a hardcore esport for pro gamers](https://www.polygon.com/22684503/candy-crush-all-stars-esports-tournament-khloe-kardashian)
+ - [A new Star Wars game is reportedly being made by Detroit: Become Human studio Quantic Dream](https://www.pcgamer.com/a-new-star-wars-game-is-reportedly-being-made-by-detroit-become-human-studio-quantic-dream)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
