@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [You&#039;re my best friend, I&#039;ll save you no matter what](http://9gag.com/gag/abV90zB)
- - 🚯 [Lil Wayne on BLM](http://9gag.com/gag/aV7NX4d)
- - 🚯 [Back in the days when the toys were mostly made of steel and not China.](http://9gag.com/gag/ayMOnMp)<!-- MEMES:END -->
+ - 🚖 [How could a man run at such a speed with balls that big..](http://9gag.com/gag/aO3XVOE)
+ - 🚯 [There can be only one!!](http://9gag.com/gag/aeAvG7O)
+ - 🚯 [Meanwhile on La Palma](http://9gag.com/gag/aoMbjwe)<!-- MEMES:END -->
 
 --- 
 
