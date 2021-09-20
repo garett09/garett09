@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The next healthcare revolution will have AI at its center](http://feedproxy.google.com/~r/Techcrunch/~3/eqWNBnTb7lI/)
- - [GM to replace battery modules in recalled Chevy Bolt EVs starting next month](http://feedproxy.google.com/~r/Techcrunch/~3/DfR5PWUqrh4/)
- - [Sources: the SEC has launched an investigation into Activision Blizzard, including how it handled employees' allegations of sexual misconduct and discrimination (Wall Street Journal)](http://www.techmeme.com/210920/p26#a210920p26)<!-- TECH:END -->
+ - [Lock screen bypass enables access to Notes in iOS 15](https://appleinsider.com/articles/21/09/20/lock-screen-bypass-enables-access-to-notes-in-ios-15?utm_medium=rss)
+ - [Amazon has set a date for its 2021 hardware event](https://www.androidauthority.com/amazon-hardware-event-2021-3027545/)
+ - [Tech stocks drop amid broader market selloff, similar to Sept. 2020's slump; Apple, Amazon, Facebook, Alphabet, and Microsoft lost $500B+ in value since Sept. 7 (Jeran Wittenstein/Bloomberg)](http://www.techmeme.com/210920/p27#a210920p27)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
