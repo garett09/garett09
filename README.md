@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Dad&#039;s still your hero](http://9gag.com/gag/aqjq167)
- - 🚯 [Adopted a cat from spain. She still doesn&rsquo;t speak our language.](http://9gag.com/gag/amPEY0v)
- - 🚯 [Dogs just want to be little spoon](http://9gag.com/gag/aYo24DO)<!-- MEMES:END -->
+ - 🚖 [The Monday motivation that you needed](http://9gag.com/gag/aDdEzPO)
+ - 🚯 [This is way too accurate](http://9gag.com/gag/aLpy8KV)
+ - 🚯 [Exclusive Interview with Riley Reid](http://9gag.com/gag/av53OnO)<!-- MEMES:END -->
 
 --- 
 
