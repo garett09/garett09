@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lock screen bypass enables access to Notes in iOS 15](https://appleinsider.com/articles/21/09/20/lock-screen-bypass-enables-access-to-notes-in-ios-15?utm_medium=rss)
- - [Amazon has set a date for its 2021 hardware event](https://www.androidauthority.com/amazon-hardware-event-2021-3027545/)
- - [Tech stocks drop amid broader market selloff, similar to Sept. 2020's slump; Apple, Amazon, Facebook, Alphabet, and Microsoft lost $500B+ in value since Sept. 7 (Jeran Wittenstein/Bloomberg)](http://www.techmeme.com/210920/p27#a210920p27)<!-- TECH:END -->
+ - [Meet the Voice Actress Behind Kena: Bridge of Spirits](https://www.wired.com/story/kena-bridge-of-spirits-voice-actress-ayu-larassanti)
+ - [How to fix Deathloop ‘stuttering’ on PC](https://www.theverge.com/2021/9/20/22684588/deathloop-stutter-pc-game-nvidia-amd-rtx-vrr-gsync-vsync-fps-framerate)
+ - [How to use the new Safari tab bar in iOS 15 -- if you want to](https://appleinsider.com/articles/21/08/18/how-to-use-the-new-safari-tab-bar-in-ios-15----if-you-want-to?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
