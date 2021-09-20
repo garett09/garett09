@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - ['Ted Lasso' makes Emmy history with Outstanding Comedy Series win](https://appleinsider.com/articles/21/09/20/ted-lasso-makes-emmy-history-with-outstanding-comedy-series-win?utm_medium=rss)
- - [Amazon starts probe over bribe to gov’t officials by its lawyers in India, report says](http://feedproxy.google.com/~r/Techcrunch/~3/ROsK807b7Ws/)
- - [Google reportedly has a second foldable in the works](https://www.theverge.com/2021/9/20/22683566/google-jumbojack-foldable-passport-android-12-1-code-discovery)<!-- TECH:END -->
+ - [Indian used-car marketplace Cars24 raises $450M, made up of $340M Series F and $110M in debt, at a $1.84B valuation (Ingrid Lunden/TechCrunch)](http://www.techmeme.com/210920/p4#a210920p4)
+ - [Floods Have Swamped the US. The Next Health Problem: Mold](https://www.wired.com/story/floods-have-swamped-the-us-the-next-health-problem-mold)
+ - [AI Can Write Code Like Humans—Bugs and All](https://www.wired.com/story/ai-write-code-like-humans-bugs)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
