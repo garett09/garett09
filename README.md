@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [There's A New (And Free) Digital Pokémon Card Game Coming](https://kotaku.com/theres-a-new-and-free-digital-pokemon-card-game-comin-1847707680)
- - [Deltarune’s next 3 chapters will drop together](https://www.polygon.com/22683779/deltarune-undertale-toby-fox-price-chapter-3-release)
- - [The Ascent Devs Dish On The Messy Launch For 2021’s Best Sci-Fi RPG](https://kotaku.com/the-ascent-devs-dish-on-the-messy-launch-for-2021-s-bes-1847707051)<!-- GAME:END -->
+ - [The classic Sega games of Lost Judgment](http://feedproxy.google.com/~r/PSBlog/~3/Sc1_TYnl2oI/)
+ - [The classic Sega games of Lost Judgment](https://blog.playstation.com/2021/09/20/the-classic-sega-games-of-lost-judgment/)
+ - [Power Rangers: Battle for the Grid Season 4 Launching September 21](https://news.xbox.com/en-us/2021/09/20/power-rangers-battle-for-the-grid-season-4-launching-september-21/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
