@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The classic Sega games of Lost Judgment](http://feedproxy.google.com/~r/PSBlog/~3/Sc1_TYnl2oI/)
- - [The classic Sega games of Lost Judgment](https://blog.playstation.com/2021/09/20/the-classic-sega-games-of-lost-judgment/)
- - [Power Rangers: Battle for the Grid Season 4 Launching September 21](https://news.xbox.com/en-us/2021/09/20/power-rangers-battle-for-the-grid-season-4-launching-september-21/)<!-- GAME:END -->
+ - [What We’ve Heard About A Quantic Dream Star Wars Game](https://kotaku.com/what-we-ve-heard-about-a-quantic-dream-star-wars-game-1847708431)
+ - [Batman Beyond kicks off a new era by murdering Bruce Wayne](https://www.polygon.com/comics/2021/9/20/22683889/batman-beyond-dc-comics-bruce-wayne-dies)
+ - [How To Get Rich AF In Tales Of Arise](https://kotaku.com/how-to-get-rich-af-in-tales-of-arise-1847708244)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
