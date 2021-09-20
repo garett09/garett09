@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Cruis’n Blast is the Fast and the Furious game we’ve been waiting for](https://www.polygon.com/reviews/22684569/cruisn-blast-review-nintendo-switch)
  - [SEC subpoenas Bobby Kotick as part of federal investigation into Activision](https://www.pcgamer.com/sec-subpoenas-bobby-kotick-as-part-of-federal-investigation-into-activision)
- - ['Burn the witch!' Hearthstone's most annoying card is getting nerfed to the ground tomorrow](https://www.pcgamer.com/burn-the-witch-hearthstones-most-annoying-card-is-getting-nerfed-to-the-ground-tomorrow)
- - [U.S. Government Now Investigating Activision Blizzard, Bobby Kotick Subpoenaed](https://kotaku.com/u-s-government-now-investigating-activision-blizzard-1847710889)<!-- GAME:END -->
+ - ['Burn the witch!' Hearthstone's most annoying card is getting nerfed to the ground tomorrow](https://www.pcgamer.com/burn-the-witch-hearthstones-most-annoying-card-is-getting-nerfed-to-the-ground-tomorrow)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
