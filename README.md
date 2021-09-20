@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Poll: What do you think of the OnePlus/Oppo merger since it was first announced?](https://www.androidauthority.com/oneplus-oppo-merger-poll-3027034/)
- - [Epic’s high-fashion collaboration with Balenciaga in Fortnite includes a hoodie for a walking dog](https://www.theverge.com/2021/9/20/22679754/fortnite-balenciaga-collaboration-epic-games-unreal-engine)
- - [Announcing the Startup Battlefield companies pitching at TechCrunch Disrupt 2021](http://feedproxy.google.com/~r/Techcrunch/~3/1ZN7aM00_xs/)<!-- TECH:END -->
+ - [In-depth iOS 15 and iPadOS 15 review: many quality-of-life updates, especially to core apps, but few bold new features and no big iPad productivity leaps (Federico Viticci/MacStories)](http://www.techmeme.com/210920/p19#a210920p19)
+ - [Europol, alongside Italian and Spanish police, arrest 106 people accused of working for the Italian Mafia and laundering over &euro;10M made through cybercrimes (Lorenzo Franceschi-Bicchierai/VICE)](http://www.techmeme.com/210920/p18#a210920p18)
+ - [Inspiration4’s successful splashdown is just the beginning of private spaceflight for SpaceX](http://feedproxy.google.com/~r/Techcrunch/~3/-PfbR7Dtp-w/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
