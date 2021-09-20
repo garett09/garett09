@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pixel 6 Pro wallpapers have leaked. Download them here.](https://www.androidauthority.com/google-pixel-6-pro-wallpapers-3026881/)
- - [Xata is a database service for serverless apps](http://feedproxy.google.com/~r/Techcrunch/~3/UmGd1m0MV7g/)
- - [India’s Cars24, a used-vehicle marketplace, raises $450M at a $1.84B valuation](http://feedproxy.google.com/~r/Techcrunch/~3/2wkxxFGNO2s/)<!-- TECH:END -->
+ - [Facebook India appoints former Uber executive Rajiv Aggarwal as head of public policy, a post that has been vacant for nearly a year since Ankhi Das quit (The Economic Times)](http://www.techmeme.com/210920/p2#a210920p2)
+ - [The best Nintendo GameCube games, ranked     - CNET](https://www.cnet.com/news/the-best-nintendo-gamecube-games-ranked/#ftag=CAD590a51e)
+ - [The best games on Nintendo Switch to play in 2021     - CNET](https://www.cnet.com/pictures/the-best-games-on-nintendo-switch-to-play-in-2021/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
