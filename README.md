@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Week In Games: Lost Judgment Is Out Soon](https://kotaku.com/the-week-in-games-lost-judgment-is-out-soon-1847705479)
- - [Luigi Discovered In Sega Dreamcast Prototype](https://kotaku.com/luigi-discovered-in-sega-dreamcast-prototype-1847705311)
- - [Apex Legends server issues fix may take a few more days](https://www.pcgamer.com/apex-legends-server-issues-fix-may-take-a-few-more-days)<!-- GAME:END -->
+ - [Mister DeepFuckingValue's Former Workplace Fined Over His Meme Stock Conduct](https://kotaku.com/mister-deepfuckingvalues-former-workplace-fined-over-me-1847705716)
+ - [Madden 22 Thinks My Name Is Profanity](https://kotaku.com/madden-22-thinks-my-name-is-profanity-1847705621)
+ - [The Week In Games: Lost Judgment Is Out Soon](https://kotaku.com/the-week-in-games-lost-judgment-is-out-soon-1847705479)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
