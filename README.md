@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Say cheese! Announcing Kena: Bridge of Spirits’ Photo Mode](http://feedproxy.google.com/~r/PSBlog/~3/4ZMwI4RGqA8/)
- - [Say cheese! Announcing Kena: Bridge of Spirits’ Photo Mode](https://blog.playstation.com/2021/09/20/say-cheese-announcing-kena-bridge-of-spirits-photo-mode/)
- - [Here's a budget gaming laptop with an Intel Core i5 CPU and GTX 1650 for $549](https://www.pcgamer.com/heres-a-budget-gaming-laptop-with-an-intel-core-i5-cpu-and-gtx-1650-for-dollar549)<!-- GAME:END -->
+ - [Deltarune’s next 3 chapters will drop together](https://www.polygon.com/22683779/deltarune-undertale-toby-fox-price-chapter-3-release)
+ - [The Ascent Devs Dish On The Messy Launch For 2021’s Best Sci-Fi RPG](https://kotaku.com/the-ascent-devs-dish-on-the-messy-launch-for-2021-s-bes-1847707051)
+ - [Say cheese! Announcing Kena: Bridge of Spirits’ Photo Mode](http://feedproxy.google.com/~r/PSBlog/~3/4ZMwI4RGqA8/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
