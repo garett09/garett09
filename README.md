@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Indian used-car marketplace Cars24 raises $450M, made up of $340M Series F and $110M in debt, at a $1.84B valuation (Ingrid Lunden/TechCrunch)](http://www.techmeme.com/210920/p4#a210920p4)
- - [Floods Have Swamped the US. The Next Health Problem: Mold](https://www.wired.com/story/floods-have-swamped-the-us-the-next-health-problem-mold)
- - [AI Can Write Code Like Humans—Bugs and All](https://www.wired.com/story/ai-write-code-like-humans-bugs)<!-- TECH:END -->
+ - [ByteDance says Douyin, the Chinese version of TikTok, will limit users who are under 14-years-old to 40 minutes per day, between 6am and 10pm, in China (Kim Lyons/The Verge)](http://www.techmeme.com/210920/p7#a210920p7)
+ - [What to do before selling, trading or giving away your iPhone or iPad](https://appleinsider.com/articles/20/12/28/what-to-do-before-selling-trading-or-giving-away-your-iphone-or-ipad?utm_medium=rss)
+ - [There won’t be a OnePlus 9T this year, company CEO confirms](https://www.androidauthority.com/oneplus-9t-canceled-3024662/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
