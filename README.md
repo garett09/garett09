@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Socialists](http://9gag.com/gag/aeAvMDj)
- - 🚯 [Tunnel in Sochi, Russia](http://9gag.com/gag/a9E9rN0)
- - 🚯 [Dogs just want to be little spoon](http://9gag.com/gag/aYo24DO)<!-- MEMES:END -->
+ - 🚖 [She&#039;s coming....](http://9gag.com/gag/aV7N3vd)
+ - 🚯 [Dogs just want to be little spoon](http://9gag.com/gag/aYo24DO)
+ - 🚯 [An old Chinese man covered his house with XiJinPing&rsquo;s photos to avoid forced demolition , and it&rsquo;s actually working](http://9gag.com/gag/a0725YQ)<!-- MEMES:END -->
 
 --- 
 
