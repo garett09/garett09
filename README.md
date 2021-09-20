@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [RIP Mick McGinty](https://kotaku.com/rip-mick-mcginty-1847705910)
- - [Peripeteia is an immersive sim where you play 'living military surplus' in near-future Poland](https://www.pcgamer.com/peripeteia-is-an-immersive-sim-where-you-play-living-military-surplus-in-near-future-poland)
- - [Baby Yoda can dream: A rolling list of Emmys 2021 winners](https://www.polygon.com/22682815/emmys-winners-2021-list)<!-- GAME:END -->
+ - [Ted Lasso wins 2021 Emmy Award for Outstanding Comedy Series](https://www.polygon.com/22679392/ted-lasso-emmys-2021-winner-best-comedy-series)
+ - [I May Destroy You ‘s Michaela Coel delivered the best speech of the Emmys](https://www.polygon.com/22683340/michaela-coel-emmys-2021-speech-i-may-destroy-you)
+ - [Victoria 3 devs on handling slavery in a historical strategy game](https://www.pcgamer.com/victoria-3-devs-on-handling-slavery-in-a-historical-strategy-game)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
