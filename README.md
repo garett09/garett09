@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Holup, Beginner&#039;s Luck](http://9gag.com/gag/aK6rV4Z)
- - 🚯 [Too tired for this shit lol](http://9gag.com/gag/abV96x8)
- - 🚯 [Everytime i click](http://9gag.com/gag/aK6rVgg)<!-- MEMES:END -->
+ - 🚖 [Dogs just want to be little spoon](http://9gag.com/gag/aYo24DO)
+ - 🚯 [Everytime i click](http://9gag.com/gag/aK6rVgg)
+ - 🚯 [This is way too accurate](http://9gag.com/gag/aLpy8KV)<!-- MEMES:END -->
 
 --- 
 
