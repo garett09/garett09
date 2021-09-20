@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [DoorDash expands alcohol delivery to 20 states, Canada and Australia](https://www.theverge.com/2021/9/20/22682828/doordash-alcohol-delivery-states-canada-australia)
- - [The latest Apple TV 4K is $30 off through Apple’s refurbished store](https://www.theverge.com/good-deals/2021/9/20/22683678/apple-tv-4k-galaxy-buds-pro-samsung-x5-amazon-echo-show-8-persona-5-royal-ps4-ps5)
- - [Roku announces $50 Streaming Stick 4K and $70 Streaming Stick 4K+, which adds a Voice Remote Pro, and Roku OS 10.5 with improved voice support (Sarah Perez/TechCrunch)](http://www.techmeme.com/210920/p10#a210920p10)<!-- TECH:END -->
+ - [Poll: What do you think of the OnePlus/Oppo merger since it was first announced?](https://www.androidauthority.com/oneplus-oppo-merger-poll-3027034/)
+ - [Epic’s high-fashion collaboration with Balenciaga in Fortnite includes a hoodie for a walking dog](https://www.theverge.com/2021/9/20/22679754/fortnite-balenciaga-collaboration-epic-games-unreal-engine)
+ - [Announcing the Startup Battlefield companies pitching at TechCrunch Disrupt 2021](http://feedproxy.google.com/~r/Techcrunch/~3/1ZN7aM00_xs/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
