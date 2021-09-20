@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple's tvOS 15 is now available for Apple TV](https://appleinsider.com/articles/21/09/20/apples-tvos-15-is-now-available-for-apple-tv?utm_medium=rss)
  - [Apple releases watchOS 8 update for Apple Watch](https://appleinsider.com/articles/21/09/20/apple-releases-watchos-8-update-for-apple-watch?utm_medium=rss)
- - [Apple releases iPadOS 15 with Quick Note, Focus Mode](https://appleinsider.com/articles/21/09/20/apple-releases-ipados-15-with-quick-note-focus-mode?utm_medium=rss)<!-- TECH:END -->
+ - [iOS 15 review - A solid update with excellent new features](https://appleinsider.com/articles/21/09/20/ios-15-review---a-solid-update-with-excellent-new-features?utm_medium=rss)
+ - [iOS 15 now available with Health sharing & improved device intelligence](https://appleinsider.com/articles/21/09/20/ios-15-now-available-with-improved-device-intelligence-and-social-features?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
