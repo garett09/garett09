@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best mini-ITX case in 2021](https://www.pcgamer.com/best-mini-itx-case)
- - [Candy Crush is now a hardcore esport for pro gamers](https://www.polygon.com/22684503/candy-crush-all-stars-esports-tournament-khloe-kardashian)
- - [A new Star Wars game is reportedly being made by Detroit: Become Human studio Quantic Dream](https://www.pcgamer.com/a-new-star-wars-game-is-reportedly-being-made-by-detroit-become-human-studio-quantic-dream)<!-- GAME:END -->
+ - [SEC subpoenas Bobby Kotick as part of federal investigation into Activision](https://www.pcgamer.com/sec-subpoenas-bobby-kotick-as-part-of-federal-investigation-into-activision)
+ - ['Burn the witch!' Hearthstone's most annoying card is getting nerfed to the ground tomorrow](https://www.pcgamer.com/burn-the-witch-hearthstones-most-annoying-card-is-getting-nerfed-to-the-ground-tomorrow)
+ - [U.S. Government Now Investigating Activision Blizzard, Bobby Kotick Subpoenaed](https://kotaku.com/u-s-government-now-investigating-activision-blizzard-1847710889)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
