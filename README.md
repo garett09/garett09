@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [India’s Cars24, a used-vehicle marketplace, raises $450M at a $1.84B valuation](http://feedproxy.google.com/~r/Techcrunch/~3/2wkxxFGNO2s/)
- - [Pakistan edtech startup Maqsad gets $2.1M pre-seed to make education more accessible](http://feedproxy.google.com/~r/Techcrunch/~3/B2PHW1DVm5U/)
- - [Pixel 6 Pro regulatory label confirms Google is finally upping charging speeds](https://www.androidauthority.com/google-pixel-6-pro-charging-3026868/)<!-- TECH:END -->
+ - [Pixel 6 Pro wallpapers have leaked. Download them here.](https://www.androidauthority.com/google-pixel-6-pro-wallpapers-3026881/)
+ - [Xata is a database service for serverless apps](http://feedproxy.google.com/~r/Techcrunch/~3/UmGd1m0MV7g/)
+ - [India’s Cars24, a used-vehicle marketplace, raises $450M at a $1.84B valuation](http://feedproxy.google.com/~r/Techcrunch/~3/2wkxxFGNO2s/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
