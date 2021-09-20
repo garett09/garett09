@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The chip shortage could turn into a chip oversupply by 2023 states analyst firm](https://www.pcgamer.com/the-chip-shortage-could-turn-into-a-chip-oversupply-by-2023-states-analyst-firm)
- - [First woman Chess Grandmaster sues Netflix because The Queen's Gambit said she never faced men](https://www.pcgamer.com/first-woman-chess-grandmaster-sues-netflix-because-the-queens-gambit-said-she-never-faced-men)
- - [Long-dead MMO Warhammer Online just added two scrapped cities](https://www.pcgamer.com/long-dead-mmo-warhammer-online-just-added-two-scrapped-cities)<!-- GAME:END -->
+ - [Say cheese! Announcing Kena: Bridge of Spirits’ Photo Mode](http://feedproxy.google.com/~r/PSBlog/~3/4ZMwI4RGqA8/)
+ - [Say cheese! Announcing Kena: Bridge of Spirits’ Photo Mode](https://blog.playstation.com/2021/09/20/say-cheese-announcing-kena-bridge-of-spirits-photo-mode/)
+ - [Here's a budget gaming laptop with an Intel Core i5 CPU and GTX 1650 for $549](https://www.pcgamer.com/heres-a-budget-gaming-laptop-with-an-intel-core-i5-cpu-and-gtx-1650-for-dollar549)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
