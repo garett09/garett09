@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [There can be only one!!](http://9gag.com/gag/aeAvG7O)
- - 🚯 [Thiefs maneuver hijacked helicopter in front of police. GTA in Brazil](http://9gag.com/gag/aP3KD0g)
- - 🚯 [Oops!](http://9gag.com/gag/aeAv6Yb)<!-- MEMES:END -->
+ - 🚖 [We&#039;ve all done this](http://9gag.com/gag/aMK39DV)
+ - 🚯 [When the Universe wants you to have a new PS5](http://9gag.com/gag/a9E9Y46)
+ - 🚯 [Politics Post](http://9gag.com/gag/aRXYeo5)<!-- MEMES:END -->
 
 --- 
 
