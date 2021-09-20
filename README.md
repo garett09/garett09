@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Oops!](http://9gag.com/gag/aeAv6Yb)
- - 🚯 [When ultra instinct kicks in](http://9gag.com/gag/aZ0GpPX)
- - 🚯 [If You Know You Know](http://9gag.com/gag/apNWLDp)<!-- MEMES:END -->
+ - 🚖 [Rage against your best interests](http://9gag.com/gag/aZ0GpOp)
+ - 🚯 [It&#039;s not a movie set... Just La Palma volcano](http://9gag.com/gag/amPE98y)
+ - 🚯 [Except when I talk to girls I don&#039;t like, then I&#039;m smoother than creeam](http://9gag.com/gag/aqjqrLv)<!-- MEMES:END -->
 
 --- 
 
