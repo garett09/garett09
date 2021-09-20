@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Relaizing that robots are going to replace you soon](http://9gag.com/gag/amPErmv)
- - 🚯 [White Guy Shocks Nigerians by Speaking African Language . Such a very kind guy .](http://9gag.com/gag/aGpW0QK)
- - 🚯 [Better shown live](http://9gag.com/gag/a9E9W8K)<!-- MEMES:END -->
+ - 🚖 [Holup, Beginner&#039;s Luck](http://9gag.com/gag/aK6rV4Z)
+ - 🚯 [The secret ingredient is meth](http://9gag.com/gag/aV7NDb2)
+ - 🚯 [Ze German humor](http://9gag.com/gag/a3EVq25)<!-- MEMES:END -->
 
 --- 
 
