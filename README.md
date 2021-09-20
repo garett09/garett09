@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Rage against your best interests](http://9gag.com/gag/aZ0GpOp)
- - 🚯 [It&#039;s not a movie set... Just La Palma volcano](http://9gag.com/gag/amPE98y)
- - 🚯 [Except when I talk to girls I don&#039;t like, then I&#039;m smoother than creeam](http://9gag.com/gag/aqjqrLv)<!-- MEMES:END -->
+ - 🚖 [Relaizing that robots are going to replace you soon](http://9gag.com/gag/amPErmv)
+ - 🚯 [How to become a single mom](http://9gag.com/gag/aYo2Kjw)
+ - 🚯 [Another video from La Palma volcano](http://9gag.com/gag/arMjKxV)<!-- MEMES:END -->
 
 --- 
 
