@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How to become a single mom](http://9gag.com/gag/aYo2Kjw)
- - 🚯 [Holup, Beginner&#039;s Luck](http://9gag.com/gag/aK6rV4Z)
- - 🚯 [White Guy Shocks Nigerians by Speaking African Language . Such a very kind guy .](http://9gag.com/gag/aGpW0QK)<!-- MEMES:END -->
+ - 🚖 [White Guy Shocks Nigerians by Speaking African Language . Such a very kind guy .](http://9gag.com/gag/aGpW0QK)
+ - 🚯 [Goodbye Career](http://9gag.com/gag/aEpLYYp)
+ - 🚯 [Relaizing that robots are going to replace you soon](http://9gag.com/gag/amPErmv)<!-- MEMES:END -->
 
 --- 
 
