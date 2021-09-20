@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Senate Democrats call on FTC to fix data privacy ‘crisis’](https://www.theverge.com/2021/9/20/22684394/ftc-data-privacy-facial-recognition-blumenthal-warren-khan)
- - [What is stock Android? Everything you need to know about the core OS](https://www.androidauthority.com/what-is-stock-android-845627/)
- - [Analysis: Amazon has doubled sponsored product ads at the top of some search results, from two or three to as many as six (Annie Palmer/CNBC)](http://www.techmeme.com/210920/p25#a210920p25)<!-- TECH:END -->
+ - [The next healthcare revolution will have AI at its center](http://feedproxy.google.com/~r/Techcrunch/~3/eqWNBnTb7lI/)
+ - [GM to replace battery modules in recalled Chevy Bolt EVs starting next month](http://feedproxy.google.com/~r/Techcrunch/~3/DfR5PWUqrh4/)
+ - [Sources: the SEC has launched an investigation into Activision Blizzard, including how it handled employees' allegations of sexual misconduct and discrimination (Wall Street Journal)](http://www.techmeme.com/210920/p26#a210920p26)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
