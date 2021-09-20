@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Lil Wayne on BLM](http://9gag.com/gag/aV7NX4d)
- - 🚯 [A new volcano just erupted in La Palma, Canary Islands (Spain)](http://9gag.com/gag/aRXYP3M)
- - 🚯 [The first time i see that Chef Ramsay got burned by a contestant, not once but twice.](http://9gag.com/gag/aDdEo4N)<!-- MEMES:END -->
+ - 🚖 [You&#039;re my best friend, I&#039;ll save you no matter what](http://9gag.com/gag/abV90zB)
+ - 🚯 [Lil Wayne on BLM](http://9gag.com/gag/aV7NX4d)
+ - 🚯 [Back in the days when the toys were mostly made of steel and not China.](http://9gag.com/gag/ayMOnMp)<!-- MEMES:END -->
 
 --- 
 
