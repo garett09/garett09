@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [You told us: The efficiency vs horsepower debate has one clear winner](https://www.androidauthority.com/efficiency-power-chipset-poll-results-3026945/)
- - [Analysis of the products announced during Apple's California Streaming event, the carrier and upgrade outlook, and possible responses from competitors (Avi Greengart/Techsponential)](http://www.techmeme.com/210920/p3#a210920p3)
- - [FloBiz raises $31 million to scale its neobank for small businesses in India](http://feedproxy.google.com/~r/Techcrunch/~3/fMZfi8eTD4Y/)<!-- TECH:END -->
+ - ['Ted Lasso' makes Emmy history with Outstanding Comedy Series win](https://appleinsider.com/articles/21/09/20/ted-lasso-makes-emmy-history-with-outstanding-comedy-series-win?utm_medium=rss)
+ - [Amazon starts probe over bribe to gov’t officials by its lawyers in India, report says](http://feedproxy.google.com/~r/Techcrunch/~3/ROsK807b7Ws/)
+ - [Google reportedly has a second foldable in the works](https://www.theverge.com/2021/9/20/22683566/google-jumbojack-foldable-passport-android-12-1-code-discovery)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
