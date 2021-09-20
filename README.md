@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [White Guy Shocks Nigerians by Speaking African Language . Such a very kind guy .](http://9gag.com/gag/aGpW0QK)
- - 🚯 [Goodbye Career](http://9gag.com/gag/aEpLYYp)
- - 🚯 [Relaizing that robots are going to replace you soon](http://9gag.com/gag/amPErmv)<!-- MEMES:END -->
+ - 🚖 [Relaizing that robots are going to replace you soon](http://9gag.com/gag/amPErmv)
+ - 🚯 [White Guy Shocks Nigerians by Speaking African Language . Such a very kind guy .](http://9gag.com/gag/aGpW0QK)
+ - 🚯 [Better shown live](http://9gag.com/gag/a9E9W8K)<!-- MEMES:END -->
 
 --- 
 
