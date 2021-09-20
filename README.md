@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [In a live Q&A, Epik's CEO Rob Monster was talked into taking down a site that doxxed journalists and admitted the controversial web host was breached last week (Mikael Thalen/The Daily Dot)](http://www.techmeme.com/210919/p12#a210919p12)
- - [Emmys 2021: Netflix on track to win the most Emmys of any company, a first     - CNET](https://www.cnet.com/news/emmys-2021-netflix-on-track-to-win-the-most-emmys-of-any-company-a-first/#ftag=CAD590a51e)
- - [iPhone 13 is further proof that the phone is quietly turning into an AR machine     - CNET](https://www.cnet.com/tech/mobile/iphone-13-is-further-proof-that-the-phone-is-quietly-turning-into-an-ar-machine/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Emmys 2021 live updates: All the winners     - CNET](https://www.cnet.com/news/emmys-2021-live-updates-all-the-winners/#ftag=CAD590a51e)
+ - [2022 Toyota Tundra versus Chevy Silverado, Ford F-150 and Ram 1500     - Roadshow](https://www.cnet.com/roadshow/news/2022-toyota-tundra-vs-chevy-silverado-ford-f-150-ram-1500-spec-comparison/#ftag=CAD590a51e)
+ - [Emmys 2021 memes: Roy Kent is here, he's there...he's winning some hardware     - CNET](https://www.cnet.com/news/emmys-2021-memes-roy-kent-is-here-hes-there-hes-winning-some-hardware/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
