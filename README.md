@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Action Game Shows BOTW Up, Has A Great Weapon Durability System](https://kotaku.com/action-game-shows-botw-up-has-a-great-weapon-durabilit-1847708898)
- - [Almost 500 ‘New’ Xbox, Dreamcast Prototypes Just Got Released](https://kotaku.com/almost-500-new-xbox-dreamcast-prototypes-just-got-re-1847708974)
- - [Swery's The Good Life finally has a release date](https://www.pcgamer.com/the-good-life-release-date)<!-- GAME:END -->
+ - [The BioShock Problem: When Gameplay And Narrative Clash](https://kotaku.com/the-bioshock-problem-when-gameplay-and-narrative-clash-1847698124)
+ - [The Wild Beyond the Witchlight campaign is Dungeons & Dragons for theater kids](https://www.polygon.com/22683845/dungeons-dragons-the-wild-beyond-the-witchlight-review)
+ - [Our 12 most anticipated anime of the fall](https://www.polygon.com/22619927/best-anime-new-fall-2021-how-to-watch)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
