@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Ted Lasso wins 2021 Emmy Award for Outstanding Comedy Series](https://www.polygon.com/22679392/ted-lasso-emmys-2021-winner-best-comedy-series)
- - [I May Destroy You ‘s Michaela Coel delivered the best speech of the Emmys](https://www.polygon.com/22683340/michaela-coel-emmys-2021-speech-i-may-destroy-you)
- - [Victoria 3 devs on handling slavery in a historical strategy game](https://www.pcgamer.com/victoria-3-devs-on-handling-slavery-in-a-historical-strategy-game)<!-- GAME:END -->
+ - [(For Southeast Asia) “Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles” Versus Mode Character Introduction ②](http://feedproxy.google.com/~r/PSBlog/~3/HqrEnZCIpag/)
+ - [(For Southeast Asia) “Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles” Versus Mode Character Introduction ②](https://blog.playstation.com/2021/09/19/20210920-demonslayer/)
+ - [Here are all the TV shows that won Emmys this year](https://www.polygon.com/22682815/emmys-winners-2021-list)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
