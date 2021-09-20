@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [FloBiz raises $31 million to scale its neobank for small businesses in India](http://feedproxy.google.com/~r/Techcrunch/~3/fMZfi8eTD4Y/)
- - [Netflix's Midnight Mass review: A triumph The Haunting fans won't expect     - CNET](https://www.cnet.com/news/netflixs-midnight-mass-review-a-triumph-the-haunting-fans-wont-expect/#ftag=CAD590a51e)
- - [Great free books to read on Kindle and Apple Books right now     - CNET](https://www.cnet.com/news/great-free-books-to-read-on-kindle-and-apple-books-right-now/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [You told us: The efficiency vs horsepower debate has one clear winner](https://www.androidauthority.com/efficiency-power-chipset-poll-results-3026945/)
+ - [Analysis of the products announced during Apple's California Streaming event, the carrier and upgrade outlook, and possible responses from competitors (Avi Greengart/Techsponential)](http://www.techmeme.com/210920/p3#a210920p3)
+ - [FloBiz raises $31 million to scale its neobank for small businesses in India](http://feedproxy.google.com/~r/Techcrunch/~3/fMZfi8eTD4Y/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
