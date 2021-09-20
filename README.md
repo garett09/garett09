@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Dogs just want to be little spoon](http://9gag.com/gag/aYo24DO)
- - 🚯 [Everytime i click](http://9gag.com/gag/aK6rVgg)
- - 🚯 [This is way too accurate](http://9gag.com/gag/aLpy8KV)<!-- MEMES:END -->
+ - 🚖 [Dad&#039;s still your hero](http://9gag.com/gag/aqjq167)
+ - 🚯 [Adopted a cat from spain. She still doesn&rsquo;t speak our language.](http://9gag.com/gag/amPEY0v)
+ - 🚯 [Dogs just want to be little spoon](http://9gag.com/gag/aYo24DO)<!-- MEMES:END -->
 
 --- 
 
