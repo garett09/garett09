@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [She&#039;s coming....](http://9gag.com/gag/aV7N3vd)
- - 🚯 [Dogs just want to be little spoon](http://9gag.com/gag/aYo24DO)
- - 🚯 [An old Chinese man covered his house with XiJinPing&rsquo;s photos to avoid forced demolition , and it&rsquo;s actually working](http://9gag.com/gag/a0725YQ)<!-- MEMES:END -->
+ - 🚖 [This one sparka joy from Texas](http://9gag.com/gag/ad8mKOD)
+ - 🚯 [The fighter is hotter than the model](http://9gag.com/gag/aAboxNp)
+ - 🚯 [The Monday motivation that you needed](http://9gag.com/gag/aDdEzPO)<!-- MEMES:END -->
 
 --- 
 
