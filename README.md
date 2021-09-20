@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Rainbow Six Siege: Everything you need to know about the new Operator](https://www.pcgamer.com/rainbow-six-siege-everything-you-need-to-know-about-the-new-operator)
- - [Here's a mod to boost your outdoor framerate in Skyrim Special Edition](https://www.pcgamer.com/heres-a-mod-to-boost-your-outdoor-framerate-in-skyrim-special-edition)
- - [Deltarune Chapter 2 is free, but the next three chapters won't be](https://www.pcgamer.com/deltarune-chapter-2-is-free-but-the-next-three-chapters-wont-be)<!-- GAME:END -->
+ - [Splitgate dev wants to become 'the next Riot Games' following $100 million funding round](https://www.pcgamer.com/splitgate-dev-wants-to-become-the-next-riot-games-following-dollar100-million-funding-round)
+ - [Minecraft's screaming goat mobs are voiced by legit screaming goats](https://www.pcgamer.com/minecraft-screaming-goat-mobs-are-voiced-b-legit-screaming-goats)
+ - [Rainbow Six Siege: Everything you need to know about the new Operator](https://www.pcgamer.com/rainbow-six-siege-everything-you-need-to-know-about-the-new-operator)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
