@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meet the Voice Actress Behind Kena: Bridge of Spirits](https://www.wired.com/story/kena-bridge-of-spirits-voice-actress-ayu-larassanti)
- - [How to fix Deathloop ‘stuttering’ on PC](https://www.theverge.com/2021/9/20/22684588/deathloop-stutter-pc-game-nvidia-amd-rtx-vrr-gsync-vsync-fps-framerate)
- - [How to use the new Safari tab bar in iOS 15 -- if you want to](https://appleinsider.com/articles/21/08/18/how-to-use-the-new-safari-tab-bar-in-ios-15----if-you-want-to?utm_medium=rss)<!-- TECH:END -->
+ - [Save big in the Samsung Discover event, and more Samsung Galaxy deals](https://www.androidauthority.com/best-samsung-galaxy-deals-1108345/)
+ - [iOS 15 is here, but we’re still waiting on a few new features](https://www.theverge.com/2021/9/20/22684483/ios-15-announced-features-shareplay-airpods-universal-control)
+ - [Apple's iOS 15 patches Face ID vulnerability, includes other security upgrades](https://appleinsider.com/articles/21/09/20/apples-ios-15-patches-face-id-vulnerability-includes-other-security-upgrades?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
