@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [What We’ve Heard About A Quantic Dream Star Wars Game](https://kotaku.com/what-we-ve-heard-about-a-quantic-dream-star-wars-game-1847708431)
- - [Batman Beyond kicks off a new era by murdering Bruce Wayne](https://www.polygon.com/comics/2021/9/20/22683889/batman-beyond-dc-comics-bruce-wayne-dies)
- - [How To Get Rich AF In Tales Of Arise](https://kotaku.com/how-to-get-rich-af-in-tales-of-arise-1847708244)<!-- GAME:END -->
+ - [Action Game Shows BOTW Up, Has A Great Weapon Durability System](https://kotaku.com/action-game-shows-botw-up-has-a-great-weapon-durabilit-1847708898)
+ - [Almost 500 ‘New’ Xbox, Dreamcast Prototypes Just Got Released](https://kotaku.com/almost-500-new-xbox-dreamcast-prototypes-just-got-re-1847708974)
+ - [Swery's The Good Life finally has a release date](https://www.pcgamer.com/the-good-life-release-date)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
