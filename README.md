@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Mister DeepFuckingValue's Former Workplace Fined Over His Meme Stock Conduct](https://kotaku.com/mister-deepfuckingvalues-former-workplace-fined-over-me-1847705716)
- - [Madden 22 Thinks My Name Is Profanity](https://kotaku.com/madden-22-thinks-my-name-is-profanity-1847705621)
- - [The Week In Games: Lost Judgment Is Out Soon](https://kotaku.com/the-week-in-games-lost-judgment-is-out-soon-1847705479)<!-- GAME:END -->
+ - [RIP Mick McGinty](https://kotaku.com/rip-mick-mcginty-1847705910)
+ - [Peripeteia is an immersive sim where you play 'living military surplus' in near-future Poland](https://www.pcgamer.com/peripeteia-is-an-immersive-sim-where-you-play-living-military-surplus-in-near-future-poland)
+ - [Baby Yoda can dream: A rolling list of Emmys 2021 winners](https://www.polygon.com/22682815/emmys-winners-2021-list)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
