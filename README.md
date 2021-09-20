@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Splitgate dev wants to become 'the next Riot Games' following $100 million funding round](https://www.pcgamer.com/splitgate-dev-wants-to-become-the-next-riot-games-following-dollar100-million-funding-round)
- - [Minecraft's screaming goat mobs are voiced by legit screaming goats](https://www.pcgamer.com/minecraft-screaming-goat-mobs-are-voiced-b-legit-screaming-goats)
- - [Rainbow Six Siege: Everything you need to know about the new Operator](https://www.pcgamer.com/rainbow-six-siege-everything-you-need-to-know-about-the-new-operator)<!-- GAME:END -->
+ - [The chip shortage could turn into a chip oversupply by 2023 states analyst firm](https://www.pcgamer.com/the-chip-shortage-could-turn-into-a-chip-oversupply-by-2023-states-analyst-firm)
+ - [First woman Chess Grandmaster sues Netflix because The Queen's Gambit said she never faced men](https://www.pcgamer.com/first-woman-chess-grandmaster-sues-netflix-because-the-queens-gambit-said-she-never-faced-men)
+ - [Long-dead MMO Warhammer Online just added two scrapped cities](https://www.pcgamer.com/long-dead-mmo-warhammer-online-just-added-two-scrapped-cities)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
