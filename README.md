@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple releases watchOS 8 update for Apple Watch](https://appleinsider.com/articles/21/09/20/apple-releases-watchos-8-update-for-apple-watch?utm_medium=rss)
- - [iOS 15 review - A solid update with excellent new features](https://appleinsider.com/articles/21/09/20/ios-15-review---a-solid-update-with-excellent-new-features?utm_medium=rss)
- - [iOS 15 now available with Health sharing & improved device intelligence](https://appleinsider.com/articles/21/09/20/ios-15-now-available-with-improved-device-intelligence-and-social-features?utm_medium=rss)<!-- TECH:END -->
+ - [Senate Democrats call on FTC to fix data privacy ‘crisis’](https://www.theverge.com/2021/9/20/22684394/ftc-data-privacy-facial-recognition-blumenthal-warren-khan)
+ - [What is stock Android? Everything you need to know about the core OS](https://www.androidauthority.com/what-is-stock-android-845627/)
+ - [Analysis: Amazon has doubled sponsored product ads at the top of some search results, from two or three to as many as six (Annie Palmer/CNBC)](http://www.techmeme.com/210920/p25#a210920p25)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
