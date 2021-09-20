@@ -195,8 +195,8 @@ Windows                  7 hrs 16 mins       ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Lil Wayne on BLM](http://9gag.com/gag/aV7NX4d)
- - 🚯 [Learning self def from youtube](http://9gag.com/gag/aXo5pYP)
- - 🚯 [Exacly](http://9gag.com/gag/anQLK4q)<!-- MEMES:END -->
+ - 🚯 [A new volcano just erupted in La Palma, Canary Islands (Spain)](http://9gag.com/gag/aRXYP3M)
+ - 🚯 [The first time i see that Chef Ramsay got burned by a contestant, not once but twice.](http://9gag.com/gag/aDdEo4N)<!-- MEMES:END -->
 
 --- 
 
