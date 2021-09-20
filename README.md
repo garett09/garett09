@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android 12.1 may have revealed the existence of another Pixel foldable](https://www.androidauthority.com/jumbojack-google-pixel-foldable-3026947/)
- - [Facebook India appoints former Uber executive Rajiv Aggarwal as head of public policy, a post that has been vacant for nearly a year since Ankhi Das quit (The Economic Times)](http://www.techmeme.com/210920/p2#a210920p2)
- - [The best Nintendo GameCube games, ranked     - CNET](https://www.cnet.com/news/the-best-nintendo-gamecube-games-ranked/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [FloBiz raises $31 million to scale its neobank for small businesses in India](http://feedproxy.google.com/~r/Techcrunch/~3/fMZfi8eTD4Y/)
+ - [Netflix's Midnight Mass review: A triumph The Haunting fans won't expect     - CNET](https://www.cnet.com/news/netflixs-midnight-mass-review-a-triumph-the-haunting-fans-wont-expect/#ftag=CAD590a51e)
+ - [Great free books to read on Kindle and Apple Books right now     - CNET](https://www.cnet.com/news/great-free-books-to-read-on-kindle-and-apple-books-right-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
