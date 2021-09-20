@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Another video from La Palma volcano](http://9gag.com/gag/arMjKxV)
- - 🚯 [How to become a single mom](http://9gag.com/gag/aYo2Kjw)
- - 🚯 [When the Universe wants you to have a new PS5](http://9gag.com/gag/a9E9Y46)<!-- MEMES:END -->
+ - 🚖 [How to become a single mom](http://9gag.com/gag/aYo2Kjw)
+ - 🚯 [Holup, Beginner&#039;s Luck](http://9gag.com/gag/aK6rV4Z)
+ - 🚯 [White Guy Shocks Nigerians by Speaking African Language . Such a very kind guy .](http://9gag.com/gag/aGpW0QK)<!-- MEMES:END -->
 
 --- 
 
