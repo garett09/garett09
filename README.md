@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [In-depth iOS 15 and iPadOS 15 review: many quality-of-life updates, especially to core apps, but few bold new features and no big iPad productivity leaps (Federico Viticci/MacStories)](http://www.techmeme.com/210920/p19#a210920p19)
- - [Europol, alongside Italian and Spanish police, arrest 106 people accused of working for the Italian Mafia and laundering over &euro;10M made through cybercrimes (Lorenzo Franceschi-Bicchierai/VICE)](http://www.techmeme.com/210920/p18#a210920p18)
- - [Inspiration4’s successful splashdown is just the beginning of private spaceflight for SpaceX](http://feedproxy.google.com/~r/Techcrunch/~3/-PfbR7Dtp-w/)<!-- TECH:END -->
+ - [Google Meet will automatically adjust webcam brightness in your browser](http://feedproxy.google.com/~r/Techcrunch/~3/1OJWkw33yYo/)
+ - [Get the early-bird price on group discount passes to TC Sessions: SaaS 2021](http://feedproxy.google.com/~r/Techcrunch/~3/BPFDwyVcUZw/)
+ - [Y: The Last Man Isn’t About Politics—It’s About Survival](https://www.wired.com/story/y-the-last-man-essay)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
