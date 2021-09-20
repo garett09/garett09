@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Meet will automatically adjust webcam brightness in your browser](http://feedproxy.google.com/~r/Techcrunch/~3/1OJWkw33yYo/)
- - [Get the early-bird price on group discount passes to TC Sessions: SaaS 2021](http://feedproxy.google.com/~r/Techcrunch/~3/BPFDwyVcUZw/)
- - [Y: The Last Man Isn’t About Politics—It’s About Survival](https://www.wired.com/story/y-the-last-man-essay)<!-- TECH:END -->
+ - [Apple's tvOS 15 is now available for Apple TV](https://appleinsider.com/articles/21/09/20/apples-tvos-15-is-now-available-for-apple-tv?utm_medium=rss)
+ - [Apple releases watchOS 8 update for Apple Watch](https://appleinsider.com/articles/21/09/20/apple-releases-watchos-8-update-for-apple-watch?utm_medium=rss)
+ - [Apple releases iPadOS 15 with Quick Note, Focus Mode](https://appleinsider.com/articles/21/09/20/apple-releases-ipados-15-with-quick-note-focus-mode?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
