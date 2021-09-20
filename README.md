@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [ByteDance says Douyin, the Chinese version of TikTok, will limit users who are under 14-years-old to 40 minutes per day, between 6am and 10pm, in China (Kim Lyons/The Verge)](http://www.techmeme.com/210920/p7#a210920p7)
- - [What to do before selling, trading or giving away your iPhone or iPad](https://appleinsider.com/articles/20/12/28/what-to-do-before-selling-trading-or-giving-away-your-iphone-or-ipad?utm_medium=rss)
- - [There won’t be a OnePlus 9T this year, company CEO confirms](https://www.androidauthority.com/oneplus-9t-canceled-3024662/)<!-- TECH:END -->
+ - [DoorDash expands alcohol delivery to 20 states, Canada and Australia](https://www.theverge.com/2021/9/20/22682828/doordash-alcohol-delivery-states-canada-australia)
+ - [The latest Apple TV 4K is $30 off through Apple’s refurbished store](https://www.theverge.com/good-deals/2021/9/20/22683678/apple-tv-4k-galaxy-buds-pro-samsung-x5-amazon-echo-show-8-persona-5-royal-ps4-ps5)
+ - [Roku announces $50 Streaming Stick 4K and $70 Streaming Stick 4K+, which adds a Voice Remote Pro, and Roku OS 10.5 with improved voice support (Sarah Perez/TechCrunch)](http://www.techmeme.com/210920/p10#a210920p10)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
