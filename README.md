@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Get a refurbished Apple TV 4K for just $87.99](https://appleinsider.com/articles/21/09/20/get-a-refurbished-apple-tv-4k-for-just-8799?utm_medium=rss)
- - [Emmys 2021 live updates: All the winners     - CNET](https://www.cnet.com/news/emmys-2021-live-updates-all-the-winners/#ftag=CAD590a51e)
- - [2022 Toyota Tundra versus Chevy Silverado, Ford F-150 and Ram 1500     - Roadshow](https://www.cnet.com/roadshow/news/2022-toyota-tundra-vs-chevy-silverado-ford-f-150-ram-1500-spec-comparison/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [India’s Cars24, a used-vehicle marketplace, raises $450M at a $1.84B valuation](http://feedproxy.google.com/~r/Techcrunch/~3/2wkxxFGNO2s/)
+ - [Pakistan edtech startup Maqsad gets $2.1M pre-seed to make education more accessible](http://feedproxy.google.com/~r/Techcrunch/~3/B2PHW1DVm5U/)
+ - [Pixel 6 Pro regulatory label confirms Google is finally upping charging speeds](https://www.androidauthority.com/google-pixel-6-pro-charging-3026868/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
