@@ -195,7 +195,7 @@ Windows                  7 hrs 16 mins       ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [We&#039;ve all done this](http://9gag.com/gag/aMK39DV)
- - 🚯 [When the Universe wants you to have a new PS5](http://9gag.com/gag/a9E9Y46)
+ - 🚯 [If You Know You Know](http://9gag.com/gag/apNWLDp)
  - 🚯 [Politics Post](http://9gag.com/gag/aRXYeo5)<!-- MEMES:END -->
 
 --- 
