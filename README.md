@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [We&#039;ve all done this](http://9gag.com/gag/aMK39DV)
- - 🚯 [If You Know You Know](http://9gag.com/gag/apNWLDp)
- - 🚯 [Politics Post](http://9gag.com/gag/aRXYeo5)<!-- MEMES:END -->
+ - 🚖 [Oops!](http://9gag.com/gag/aeAv6Yb)
+ - 🚯 [When ultra instinct kicks in](http://9gag.com/gag/aZ0GpPX)
+ - 🚯 [If You Know You Know](http://9gag.com/gag/apNWLDp)<!-- MEMES:END -->
 
 --- 
 
