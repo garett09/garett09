@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Too tired for this shit lol](http://9gag.com/gag/abV96x8)
- - 🚯 [An old Chinese man covered his house with XiJinPing&rsquo;s photos to avoid forced demolition , and it&rsquo;s actually working](http://9gag.com/gag/a0725YQ)
- - 🚯 [Ze German humor](http://9gag.com/gag/a3EVq25)<!-- MEMES:END -->
+ - 🚖 [Holup, Beginner&#039;s Luck](http://9gag.com/gag/aK6rV4Z)
+ - 🚯 [Too tired for this shit lol](http://9gag.com/gag/abV96x8)
+ - 🚯 [Everytime i click](http://9gag.com/gag/aK6rVgg)<!-- MEMES:END -->
 
 --- 
 
