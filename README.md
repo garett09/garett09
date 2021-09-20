@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at US "finfluencers", creators partnering with fintechs to promote investment products, as App Annie says hours spent on finance apps are up 90% YoY (Misyrlena Egkolfopoulou/Bloomberg)](http://www.techmeme.com/210919/p11#a210919p11)
- - [Ikea’s $39.99 pad adds built-in wireless charging to almost any table](https://www.theverge.com/2021/9/19/22677980/ikea-sjomarke-wireless-qi-charging-existing-furniture)
- - [iPhone 13 orders start shipping, but you probably won't get it until Friday](https://appleinsider.com/articles/21/09/19/iphone-13-orders-start-shipping-but-you-probably-wont-get-it-until-friday?utm_medium=rss)<!-- TECH:END -->
+ - [In a live Q&A, Epik's CEO Rob Monster was talked into taking down a site that doxxed journalists and admitted the controversial web host was breached last week (Mikael Thalen/The Daily Dot)](http://www.techmeme.com/210919/p12#a210919p12)
+ - [Emmys 2021: Netflix on track to win the most Emmys of any company, a first     - CNET](https://www.cnet.com/news/emmys-2021-netflix-on-track-to-win-the-most-emmys-of-any-company-a-first/#ftag=CAD590a51e)
+ - [iPhone 13 is further proof that the phone is quietly turning into an AR machine     - CNET](https://www.cnet.com/tech/mobile/iphone-13-is-further-proof-that-the-phone-is-quietly-turning-into-an-ar-machine/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
