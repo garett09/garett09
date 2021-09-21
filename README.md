@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The fighter is hotter than the model](http://9gag.com/gag/aAboxNp)
- - 🚯 [Socialists](http://9gag.com/gag/aeAvMDj)
- - 🚯 [Real take off speed](http://9gag.com/gag/a7EzM4m)<!-- MEMES:END -->
+ - 🚖 [Socialists](http://9gag.com/gag/aeAvMDj)
+ - 🚯 [Exclusive Interview with Riley Reid](http://9gag.com/gag/av53OnO)
+ - 🚯 [Why men live shorter?](http://9gag.com/gag/anQL9P5)<!-- MEMES:END -->
 
 --- 
 
