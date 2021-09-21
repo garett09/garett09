@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Genshin Impact Embraces Fan Creators, Rather Than Suing Them](https://kotaku.com/genshin-impact-embraces-fan-creators-rather-than-suing-1847714438)
- - [Billy Mitchell’s Old Website Now Debunks His Controversial Pac-Man High Scores](https://kotaku.com/billy-mitchell-s-old-website-now-debunks-his-controvers-1847712280)
- - [Gran Turismo 7: Pre-order items and 25th Anniversary Edition detailed](http://feedproxy.google.com/~r/PSBlog/~3/VtSD2f9YRSQ/)<!-- GAME:END -->
+ - [Lemnis Gate: fusing tactical time travel with strategic shooting](http://feedproxy.google.com/~r/PSBlog/~3/tARpUu0Yfjw/)
+ - [Lemnis Gate: fusing tactical time travel with strategic shooting](https://blog.playstation.com/2021/09/21/lemnis-gate-fusing-tactical-time-travel-with-strategic-shooting/)
+ - [Blizzard's Chief Legal Officer Quits Amid Lawsuit](https://kotaku.com/blizzards-chief-legal-officer-quits-amid-lawsuit-1847714940)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
