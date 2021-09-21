@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Today, somewhere in Argentina.](http://9gag.com/gag/aZ0G7m3)
- - 🚯 [How I am to new players when I play online games.](http://9gag.com/gag/a8EBG86)
- - 🚯 [Sigma male](http://9gag.com/gag/aGpWd1w)<!-- MEMES:END -->
+ - 🚖 [How I am to new players when I play online games.](http://9gag.com/gag/a8EBG86)
+ - 🚯 [Sigma male](http://9gag.com/gag/aGpWd1w)
+ - 🚯 [Chest Off to the next level](http://9gag.com/gag/a8EB5V6)<!-- MEMES:END -->
 
 --- 
 
