@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [One of our favorite gaming laptops is $330 off at Dell today](https://www.theverge.com/good-deals/2021/9/21/22683992/dell-g5-15-se-gaming-laptop-razer-iskur-chair-xbox-elite-series-controller-deal-sale)
- - [iPhone 13 review: excellent cameras and battery life and more base storage but front camera is unchanged, has a standard refresh rate, and 12 cases don't fit (Dieter Bohn/The Verge)](http://www.techmeme.com/210921/p18#a210921p18)
- - [Apple iPhone 13 Pro review: incredible cameras, improved battery life, and high refresh display but front camera is average and no USB-C (Dieter Bohn/The Verge)](http://www.techmeme.com/210921/p17#a210921p17)<!-- TECH:END -->
+ - [The Verge Guide to the iPhone](https://www.theverge.com/2018/9/21/17828022/iphone-user-guide-how-to-ios-tips)
+ - [How Fuck You Pay Me is empowering creators](https://www.theverge.com/22684237/fuck-you-pay-me-lindsey-lee-lugrin-decoder-interview)
+ - [Tumblr’s subscription feature is now open to everyone in the US](https://www.theverge.com/2021/9/21/22684089/tumblr-post-plus-subscription-monetization-beta)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
