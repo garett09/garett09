@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Audi launches its newest EV, the 2022 Q4 e-tron SUV](http://feedproxy.google.com/~r/Techcrunch/~3/Hnl7wiv5hgw/)
- - [Facebook says it’s spent $13 billion on ‘safety and security’ since 2016](https://www.theverge.com/2021/9/21/22685863/facebook-safety-security-staff-spending-misinformation-abuse-wall-street-journal-reports)
- - [Rippling launches computer inventory management as more workers remain remote](http://feedproxy.google.com/~r/Techcrunch/~3/OFvKzFShgH4/)<!-- TECH:END -->
+ - [Apple issues first developer betas for iOS 15.1, iPadOS 15.1, tvOS 15.1, watchOS 8.1](https://appleinsider.com/articles/21/09/21/apple-issues-first-developer-betas-for-ios-151-ipados-151-tvos-151?utm_medium=rss)
+ - [Facebook announces the Portal Go, a $199 10" portable device, and a new $349 Portal+ device with a 14" tilting display and stereo speakers, shipping October 19 (Nicole Lee/Engadget)](http://www.techmeme.com/210921/p27#a210921p27)
+ - [Facebook adds a battery-powered smart screen to the Portal line](http://feedproxy.google.com/~r/Techcrunch/~3/WBU-MSGHY74/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
