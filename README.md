@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Claris ECF Records Manager helps to simplify school & library funding](https://appleinsider.com/articles/21/09/21/claris-ecf-records-manager-helps-to-simplify-school-library-funding?utm_medium=rss)
- - [6 announcements missing from Apple’s iPhone 13 event](https://www.androidauthority.com/announcements-missing-apple-iphone-13-event-3024937/)
- - [Uber adjusts third-quarter forecast in light of increased gross bookings](http://feedproxy.google.com/~r/Techcrunch/~3/rFGPBkzzUaw/)<!-- TECH:END -->
+ - [Audi launches its newest EV, the 2022 Q4 e-tron SUV](http://feedproxy.google.com/~r/Techcrunch/~3/Hnl7wiv5hgw/)
+ - [Facebook says it’s spent $13 billion on ‘safety and security’ since 2016](https://www.theverge.com/2021/9/21/22685863/facebook-safety-security-staff-spending-misinformation-abuse-wall-street-journal-reports)
+ - [Rippling launches computer inventory management as more workers remain remote](http://feedproxy.google.com/~r/Techcrunch/~3/OFvKzFShgH4/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
