@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple ceases iOS 14.7.1 code signing following release of iOS 14.8 and iOS 15](https://appleinsider.com/articles/21/09/21/apple-ceases-ios-1471-code-signing-following-release-of-ios-148-and-ios-15?utm_medium=rss)
- - [Netflix launches free plan in Kenya to boost growth](http://feedproxy.google.com/~r/Techcrunch/~3/2whkBJsyKc8/)
- - [How to watch or stream UFC 266: Start times, the return of Nick Diaz and full fight card     - CNET](https://www.cnet.com/news/how-to-watch-or-stream-ufc-266-start-times-the-return-of-nick-diaz-and-full-fight-card/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Gaana, India's leading music streaming service, has seen low paid sub growth; India's audio streaming market is 38% ad-supported, below only China and Venezuela (Amit Gurbaxani/Billboard)](http://www.techmeme.com/210921/p1#a210921p1)
+ - [Marvel drops first trailer for Hit-Monkey series with Jason Sudeikis     - CNET](https://www.cnet.com/news/marvel-drops-first-trailer-for-hit-monkey-series-with-jason-sudeikis/#ftag=CAD590a51e)
+ - [NASA Perseverance rover snaps selfies at historic Mars sample site     - CNET](https://www.cnet.com/news/nasa-perseverance-rover-snaps-selfies-at-historic-mars-sample-site/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
