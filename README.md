@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Halo Infinite has back-to-back test weekends starting this Thursday](https://www.pcgamer.com/halo-infinite-has-back-to-back-test-weekends-starting-this-thursday)
- - [The best graphics cards in 2021](https://www.pcgamer.com/the-best-graphics-cards)
- - [Fans Gather To Say Goodbye To A Legendary Sega Arcade](https://kotaku.com/fans-gather-to-say-goodbye-to-a-legendary-sega-arcade-1847713588)<!-- GAME:END -->
+ - [How to make a spice rack in Valheim](https://www.pcgamer.com/valheim-spice-rack-placement-cauldron)
+ - [The Windows 11 PC Health Check app is back and now slightly more useful](https://www.pcgamer.com/windows-11-pc-health-check-app-returns)
+ - [You might be sitting on a mountain of e-waste that Dell wants to recycle for you](https://www.pcgamer.com/dell-recycling-program-page-motes-interview)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
