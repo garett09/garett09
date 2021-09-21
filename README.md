@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Socialists](http://9gag.com/gag/aeAvMDj)
- - 🚯 [Exclusive Interview with Riley Reid](http://9gag.com/gag/av53OnO)
- - 🚯 [Why men live shorter?](http://9gag.com/gag/anQL9P5)<!-- MEMES:END -->
+ - 🚖 [Japanese Garden](http://9gag.com/gag/anQL9Wb)
+ - 🚯 [I&rsquo;m not here](http://9gag.com/gag/arMjgm6)
+ - 🚯 [Real take off speed](http://9gag.com/gag/a7EzM4m)<!-- MEMES:END -->
 
 --- 
 
