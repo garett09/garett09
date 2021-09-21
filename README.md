@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Japanese Garden](http://9gag.com/gag/anQL9Wb)
- - 🚯 [I&rsquo;m not here](http://9gag.com/gag/arMjgm6)
- - 🚯 [Real take off speed](http://9gag.com/gag/a7EzM4m)<!-- MEMES:END -->
+ - 🚖 [Real take off speed](http://9gag.com/gag/a7EzM4m)
+ - 🚯 [Japanese Garden](http://9gag.com/gag/anQL9Wb)
+ - 🚯 [Here they come!](http://9gag.com/gag/aEpLxMG)<!-- MEMES:END -->
 
 --- 
 
