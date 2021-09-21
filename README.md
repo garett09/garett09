@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Kena: Bridge of Spirits review](https://www.pcgamer.com/kena-bridge-of-spirits-review)
- - [Kena: Bridge of Spirits promises magic, but can’t deliver much of it](https://www.polygon.com/reviews/22685235/kena-bridge-of-spirits-review-ps5-ps4-pc)
- - [Best capture cards for PC gaming](https://www.pcgamer.com/best-capture-card-for-pc-gaming)<!-- GAME:END -->
+ - [Halo Infinite has back-to-back test weekends starting this Thursday](https://www.pcgamer.com/halo-infinite-has-back-to-back-test-weekends-starting-this-thursday)
+ - [The best graphics cards in 2021](https://www.pcgamer.com/the-best-graphics-cards)
+ - [Fans Gather To Say Goodbye To A Legendary Sega Arcade](https://kotaku.com/fans-gather-to-say-goodbye-to-a-legendary-sega-arcade-1847713588)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
