@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Sea of Thieves goes deep beneath the waves in its next season](https://www.pcgamer.com/sea-of-thieves-goes-deep-beneath-the-waves-in-its-next-season)
- - [Cruis’n Blast is the Fast and the Furious game we’ve been waiting for](https://www.polygon.com/reviews/22684569/cruisn-blast-review-nintendo-switch)
- - [SEC subpoenas Bobby Kotick as part of federal investigation into Activision](https://www.pcgamer.com/sec-subpoenas-bobby-kotick-as-part-of-federal-investigation-into-activision)<!-- GAME:END -->
+ - [The Quest To Create A Never-Ending Play In Madden](https://kotaku.com/the-quest-to-create-a-never-ending-play-in-madden-1847712194)
+ - [ToeJam & Earl III's Original Final Boss Was A Klansman](https://kotaku.com/toejam-earl-3s-original-final-boss-was-a-klansman-1847711923)
+ - [The Fortnite x Balenciaga Collab Is Everything The Game Deserves](https://kotaku.com/the-fortnite-x-balenciaga-collab-is-everything-the-game-1847711963)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
