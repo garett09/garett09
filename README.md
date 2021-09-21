@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [1Password update delivers tight Safari integration for iOS 15 and iPadOS 15](https://appleinsider.com/articles/21/09/21/1password-update-delivers-tight-safari-integration-for-ios-15-and-ipados-15?utm_medium=rss)
- - [ClickHouse, which provides an online analytical processing database management system, raises $50M Series A led by Index Ventures and Benchmark (FinSMEs)](http://www.techmeme.com/210920/p33#a210920p33)
- - [Best TV shows 2021: Hacks, Mare of Easttown, The White Lotus and more     - CNET](https://www.cnet.com/news/best-tv-shows-2021-hacks-mare-of-easttown-the-white-lotus-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: Thiel told a confidant that Zuckerberg made a deal with Kushner in 2019 to not fact-check political speech in exchange for laying off harsh regulations (Max Chafkin/New York Magazine)](http://www.techmeme.com/210920/p34#a210920p34)
+ - [Emmys 2021 winners: Ted Lasso, The Crown, The Queen's Gambit and more     - CNET](https://www.cnet.com/news/emmys-2021-winners-ted-lasso-the-crown-the-queens-gambit-and-more/#ftag=CAD590a51e)
+ - [Apple prompts upgraders to 'get ready' for iPhone 13](https://appleinsider.com/articles/21/09/21/apple-prompts-upgraders-to-get-ready-for-iphone-13?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
