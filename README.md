@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [One River Digital Asset Management, a crypto-fund management startup, raises $41M Series A at a $186M valuation, with Coinbase and Goldman Sachs participating (Erik Schatzker/Bloomberg)](http://www.techmeme.com/210921/p29#a210921p29)
- - [If you've updated to iOS 15, make sure your AirTag is still in Find My](https://appleinsider.com/articles/21/09/21/if-youve-updated-to-ios-15-make-sure-your-airtag-is-still-in-find-my?utm_medium=rss)
- - [EU pressing on with USB-C charger legislation on Thursday](https://appleinsider.com/articles/21/09/21/eu-pressing-on-with-usb-c-charger-legislation-on-thursday?utm_medium=rss)<!-- TECH:END -->
+ - [Bitcoin scammers steal $69k using iPhone 13 event as a lure](https://appleinsider.com/articles/21/09/21/bitcoin-scammers-steal-69k-using-iphone-13-event-as-a-lure?utm_medium=rss)
+ - [Apple updates macOS Safari with a new look, but you can turn off the big changes](https://www.theverge.com/2021/9/21/22686070/apple-macos-safari-tab-groups-redesign-change-back)
+ - [iOS 15.1 will support verifiable COVID vaccination cards in Apple Wallet](https://appleinsider.com/articles/21/09/21/ios-151-will-support-verifiable-covid-vaccination-cards-in-apple-wallet?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
