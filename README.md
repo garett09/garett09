@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Pixel 6: Everything we know so far (Updated: September 21)](https://www.androidauthority.com/google-pixel-6-1207778/)
- - [Gaana, India's leading music streaming service, has seen low paid sub growth; India's audio streaming market is 38% ad-supported, below only China and Venezuela (Amit Gurbaxani/Billboard)](http://www.techmeme.com/210921/p1#a210921p1)
- - [Marvel drops first trailer for Hit-Monkey series with Jason Sudeikis     - CNET](https://www.cnet.com/news/marvel-drops-first-trailer-for-hit-monkey-series-with-jason-sudeikis/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [We asked, you told us: Here’s what you think of the iPhone 13 series](https://www.androidauthority.com/apple-iphone-13-hot-not-poll-results-3027718/)
+ - [Paris-based Sorare, a soccer-focused NFT trading platform, raises $680M Series B led by SoftBank Vision Fund 2 at a $4.3B valuation (Ryan Weeks/The Block)](http://www.techmeme.com/210921/p3#a210921p3)
+ - [As the SEC mulls a ban on payment for order flow, a look at some alternative revenue streams for commission-free trading apps like Robinhood (Telis Demos/Wall Street Journal)](http://www.techmeme.com/210921/p2#a210921p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
