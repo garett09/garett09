@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [War.... war never changes](http://9gag.com/gag/a072NBO)
- - 🚯 [They have another word for that](http://9gag.com/gag/ayMOMvM)
- - 🚯 [His brain goes bbbrrrr...](http://9gag.com/gag/aB27m8P)<!-- MEMES:END -->
+ - 🚖 [I often get asked to remove exes from family photos but this is my first bride](http://9gag.com/gag/aNp6POG)
+ - 🚯 [Superheroes](http://9gag.com/gag/anQL4wz)
+ - 🚯 [Astagfirullah](http://9gag.com/gag/aYo2ovN)<!-- MEMES:END -->
 
 --- 
 
