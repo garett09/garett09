@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to get iOS 15 right now](https://www.theverge.com/22686505/ios-15-apple-iphone-how-to-install-download)
- - [Hands on with everything new in iOS 15.1](https://appleinsider.com/articles/21/09/21/hands-on-with-everything-new-in-ios-151?utm_medium=rss)
- - [Twitch is finally making some friends in the music industry](https://www.theverge.com/2021/9/21/22686404/twitch-national-music-publishers-association-nmpa-agreement-music)<!-- TECH:END -->
+ - [The Google Pixel 6 Pro may have been leaked in a brief hands-on video](https://www.theverge.com/2021/9/21/22686534/google-pixel-6-pro-leak-display-screen-video)
+ - [iOS 15.1 beta lets users store their verifiable health records, including COVID-19 vaccination cards and test results, in the Health app (Juli Clover/MacRumors)](http://www.techmeme.com/210921/p36#a210921p36)
+ - [Sources: FBI refrained from sharing a ransomware decryptor with businesses for almost three weeks, as it carried out an operation to disrupt the REvil gang (Washington Post)](http://www.techmeme.com/210921/p35#a210921p35)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
