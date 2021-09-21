@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Verge Guide to the iPhone](https://www.theverge.com/2018/9/21/17828022/iphone-user-guide-how-to-ios-tips)
- - [How Fuck You Pay Me is empowering creators](https://www.theverge.com/22684237/fuck-you-pay-me-lindsey-lee-lugrin-decoder-interview)
- - [Tumblr’s subscription feature is now open to everyone in the US](https://www.theverge.com/2021/9/21/22684089/tumblr-post-plus-subscription-monetization-beta)<!-- TECH:END -->
+ - [Claris ECF Records Manager helps to simplify school & library funding](https://appleinsider.com/articles/21/09/21/claris-ecf-records-manager-helps-to-simplify-school-library-funding?utm_medium=rss)
+ - [6 announcements missing from Apple’s iPhone 13 event](https://www.androidauthority.com/announcements-missing-apple-iphone-13-event-3024937/)
+ - [Uber adjusts third-quarter forecast in light of increased gross bookings](http://feedproxy.google.com/~r/Techcrunch/~3/rFGPBkzzUaw/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
