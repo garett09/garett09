@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Real take off speed](http://9gag.com/gag/a7EzM4m)
- - 🚯 [The fighter is hotter than the model](http://9gag.com/gag/aAboxNp)
- - 🚯 [The way this cheesemaker cubes cheese](http://9gag.com/gag/a1rGo38)<!-- MEMES:END -->
+ - 🚖 [The way this cheesemaker cubes cheese](http://9gag.com/gag/a1rGo38)
+ - 🚯 [Team work!](http://9gag.com/gag/azM09KK)
+ - 🚯 [Real take off speed](http://9gag.com/gag/a7EzM4m)<!-- MEMES:END -->
 
 --- 
 
