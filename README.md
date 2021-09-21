@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [‘I wish there was a plan’: The oral history of DC Comics’ infamous New 52 reboot](https://www.polygon.com/comics/22679756/dc-comics-reboot-new-52-writers-oral-history)
- - [How to overclock your PC](https://www.pcgamer.com/a-beginners-guide-to-overclocking)
- - [Puzzle Bobble 3D: Vacation Odyssey arrives October 5 for PS5, PS4, and PS VR](http://feedproxy.google.com/~r/PSBlog/~3/CK0CdN1xW00/)<!-- GAME:END -->
+ - [The Latest Stuff Coming To Halo Infinite You Should Know About](https://kotaku.com/the-latest-stuff-coming-to-halo-infinite-you-should-kno-1847716208)
+ - [Crucial P5 Plus 1TB SSD review](https://www.pcgamer.com/crucial-p5-plus-1tb-ssd-review)
+ - [Detroit Dev Quantic Dreams Wins Lawsuit Without Actually Disproving Misconduct Allegations](https://kotaku.com/detroit-dev-quantic-dreams-wins-lawsuit-without-actuall-1847716375)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
