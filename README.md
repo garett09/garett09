@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bitcoin scammers steal $69k using iPhone 13 event as a lure](https://appleinsider.com/articles/21/09/21/bitcoin-scammers-steal-69k-using-iphone-13-event-as-a-lure?utm_medium=rss)
- - [Apple updates macOS Safari with a new look, but you can turn off the big changes](https://www.theverge.com/2021/9/21/22686070/apple-macos-safari-tab-groups-redesign-change-back)
- - [iOS 15.1 will support verifiable COVID vaccination cards in Apple Wallet](https://appleinsider.com/articles/21/09/21/ios-151-will-support-verifiable-covid-vaccination-cards-in-apple-wallet?utm_medium=rss)<!-- TECH:END -->
+ - [How to get iOS 15 right now](https://www.theverge.com/22686505/ios-15-apple-iphone-how-to-install-download)
+ - [Hands on with everything new in iOS 15.1](https://appleinsider.com/articles/21/09/21/hands-on-with-everything-new-in-ios-151?utm_medium=rss)
+ - [Twitch is finally making some friends in the music industry](https://www.theverge.com/2021/9/21/22686404/twitch-national-music-publishers-association-nmpa-agreement-music)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
