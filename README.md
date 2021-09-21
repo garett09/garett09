@@ -195,8 +195,8 @@ Windows                  7 hrs 16 mins       ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [War.... war never changes](http://9gag.com/gag/a072NBO)
- - 🚯 [Guys only want one thing and it&#039;s](http://9gag.com/gag/aO3X7VD)
- - 🚯 [At least I&#039;m still alive](http://9gag.com/gag/aNp6p06)<!-- MEMES:END -->
+ - 🚯 [They have another word for that](http://9gag.com/gag/ayMOMvM)
+ - 🚯 [His brain goes bbbrrrr...](http://9gag.com/gag/aB27m8P)<!-- MEMES:END -->
 
 --- 
 
