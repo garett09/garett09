@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Quest To Create A Never-Ending Play In Madden](https://kotaku.com/the-quest-to-create-a-never-ending-play-in-madden-1847712194)
- - [ToeJam & Earl III's Original Final Boss Was A Klansman](https://kotaku.com/toejam-earl-3s-original-final-boss-was-a-klansman-1847711923)
- - [The Fortnite x Balenciaga Collab Is Everything The Game Deserves](https://kotaku.com/the-fortnite-x-balenciaga-collab-is-everything-the-game-1847711963)<!-- GAME:END -->
+ - [Behold, My New Favorite Crusader Kings Bug](https://kotaku.com/behold-my-new-favorite-crusader-kings-bug-1847712534)
+ - [Blizzard Entertainment chief legal officer resigns](https://www.pcgamer.com/blizzard-entertainment-chief-legal-officer-resigns)
+ - [The Quest To Create A Never-Ending Play In Madden](https://kotaku.com/the-quest-to-create-a-never-ending-play-in-madden-1847712194)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
