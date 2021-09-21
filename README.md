@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [That government?](http://9gag.com/gag/amPE5Zo)
- - 🚯 [Sweet home Alabama](http://9gag.com/gag/aeAv5OO)
- - 🚯 [Double Pendulum Ring and Bar](http://9gag.com/gag/aB27ggO)<!-- MEMES:END -->
+ - 🚖 [Today, somewhere in Argentina.](http://9gag.com/gag/aZ0G7m3)
+ - 🚯 [How I am to new players when I play online games.](http://9gag.com/gag/a8EBG86)
+ - 🚯 [Sigma male](http://9gag.com/gag/aGpWd1w)<!-- MEMES:END -->
 
 --- 
 
