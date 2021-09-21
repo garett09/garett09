@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google Pixel 6: Everything we know so far (Updated: September 21)](https://www.androidauthority.com/google-pixel-6-1207778/)
  - [Gaana, India's leading music streaming service, has seen low paid sub growth; India's audio streaming market is 38% ad-supported, below only China and Venezuela (Amit Gurbaxani/Billboard)](http://www.techmeme.com/210921/p1#a210921p1)
- - [Marvel drops first trailer for Hit-Monkey series with Jason Sudeikis     - CNET](https://www.cnet.com/news/marvel-drops-first-trailer-for-hit-monkey-series-with-jason-sudeikis/#ftag=CAD590a51e)
- - [NASA Perseverance rover snaps selfies at historic Mars sample site     - CNET](https://www.cnet.com/news/nasa-perseverance-rover-snaps-selfies-at-historic-mars-sample-site/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Marvel drops first trailer for Hit-Monkey series with Jason Sudeikis     - CNET](https://www.cnet.com/news/marvel-drops-first-trailer-for-hit-monkey-series-with-jason-sudeikis/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
