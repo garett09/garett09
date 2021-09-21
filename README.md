@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Thiel told a confidant that Zuckerberg made a deal with Kushner in 2019 to not fact-check political speech in exchange for laying off harsh regulations (Max Chafkin/New York Magazine)](http://www.techmeme.com/210920/p34#a210920p34)
- - [Emmys 2021 winners: Ted Lasso, The Crown, The Queen's Gambit and more     - CNET](https://www.cnet.com/news/emmys-2021-winners-ted-lasso-the-crown-the-queens-gambit-and-more/#ftag=CAD590a51e)
- - [Apple prompts upgraders to 'get ready' for iPhone 13](https://appleinsider.com/articles/21/09/21/apple-prompts-upgraders-to-get-ready-for-iphone-13?utm_medium=rss)<!-- TECH:END -->
+ - [Apple ceases iOS 14.7.1 code signing following release of iOS 14.8 and iOS 15](https://appleinsider.com/articles/21/09/21/apple-ceases-ios-1471-code-signing-following-release-of-ios-148-and-ios-15?utm_medium=rss)
+ - [Netflix launches free plan in Kenya to boost growth](http://feedproxy.google.com/~r/Techcrunch/~3/2whkBJsyKc8/)
+ - [How to watch or stream UFC 266: Start times, the return of Nick Diaz and full fight card     - CNET](https://www.cnet.com/news/how-to-watch-or-stream-ufc-266-start-times-the-return-of-nick-diaz-and-full-fight-card/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
