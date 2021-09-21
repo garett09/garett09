@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How I am to new players when I play online games.](http://9gag.com/gag/a8EBG86)
- - 🚯 [Sigma male](http://9gag.com/gag/aGpWd1w)
- - 🚯 [Chest Off to the next level](http://9gag.com/gag/a8EB5V6)<!-- MEMES:END -->
+ - 🚖 [Chest Off to the next level](http://9gag.com/gag/a8EB5V6)
+ - 🚯 [Sit on the egg you idiot!](http://9gag.com/gag/aLpyw1W)
+ - 🚯 [How I am to new players when I play online games.](http://9gag.com/gag/a8EBG86)<!-- MEMES:END -->
 
 --- 
 
