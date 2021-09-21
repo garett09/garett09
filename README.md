@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [An art!](http://9gag.com/gag/agBP5Dn)
- - 🚯 [How I am to new players when I play online games.](http://9gag.com/gag/a8EBG86)
- - 🚯 [Sigma male](http://9gag.com/gag/aGpWd1w)<!-- MEMES:END -->
+ - 🚖 [Sit on the egg you idiot!](http://9gag.com/gag/aLpyw1W)
+ - 🚯 [Guys are so close if they would just post some contact info](http://9gag.com/gag/apNW58W)
+ - 🚯 [Trinity download program..](http://9gag.com/gag/aZ0G0WW)<!-- MEMES:END -->
 
 --- 
 
