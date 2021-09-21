@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [&Eacute;ste enciende alegr&iacute;a](http://9gag.com/gag/aK6rxEW)
- - 🚯 [Sweet home Alabama](http://9gag.com/gag/aeAv5OO)
- - 🚯 [Chest Off to the next level](http://9gag.com/gag/a8EB5V6)<!-- MEMES:END -->
+ - 🚖 [An art!](http://9gag.com/gag/agBP5Dn)
+ - 🚯 [Why men live shorter?](http://9gag.com/gag/anQL9P5)
+ - 🚯 [Sweet home Alabama](http://9gag.com/gag/aeAv5OO)<!-- MEMES:END -->
 
 --- 
 
