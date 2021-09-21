@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Snap has new Lenses that show users how to fingerspell in American Sign Language](https://www.theverge.com/2021/9/21/22684485/snap-lenses-fingerspell-american-sign-language-deaf)
- - [Netflix releases Eden Unearthed, a free VR game for Oculus Quest that appears to be related to a Netflix anime series (Harry Baker/UploadVR)](http://www.techmeme.com/210921/p5#a210921p5)
- - [UK’s MarketFinance secures $383M to fuel its online loans platform for SMBs](http://feedproxy.google.com/~r/Techcrunch/~3/KQKxNqrIAR8/)<!-- TECH:END -->
+ - [Blue Bear Capital raises $150M to fund climate, energy and infrastructure tech](http://feedproxy.google.com/~r/Techcrunch/~3/GGfAPa3gCcY/)
+ - [As TSMC pledges to reach net zero emissions by 2050, a look at how the semiconductor industry is tackling its huge carbon footprint and resource consumption (P&aacute;draig Belton/The Guardian)](http://www.techmeme.com/210921/p9#a210921p9)
+ - [Microsoft gets ready to launch the Surface Pro 8 I’ve been waiting years for](https://www.theverge.com/2021/9/21/22685535/microsoft-surface-pro-8-design-specs-features-rumors)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
