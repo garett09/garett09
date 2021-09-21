@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Survey: 47% of US Facebook users regularly get news on the platform, down from 54% in 2020; 29% of US TikTok users regularly get news from the app, up from 22% (Pew Research Center)](http://www.techmeme.com/210921/p4#a210921p4)
- - [Comcast and UK subsidiary Sky reportedly launching smart TVs](https://www.theverge.com/2021/9/21/22685538/comcast-xclass-tv-sky-q-smart-tv-hisense-x1-operating-system)
- - [Cartona gets $4.5M pre-Series A to connect retailers with suppliers in Egypt](http://feedproxy.google.com/~r/Techcrunch/~3/ydR4ulw8nmc/)<!-- TECH:END -->
+ - [Snap has new Lenses that show users how to fingerspell in American Sign Language](https://www.theverge.com/2021/9/21/22684485/snap-lenses-fingerspell-american-sign-language-deaf)
+ - [Netflix releases Eden Unearthed, a free VR game for Oculus Quest that appears to be related to a Netflix anime series (Harry Baker/UploadVR)](http://www.techmeme.com/210921/p5#a210921p5)
+ - [UK’s MarketFinance secures $383M to fuel its online loans platform for SMBs](http://feedproxy.google.com/~r/Techcrunch/~3/KQKxNqrIAR8/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
