@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: last month Zuckerberg signed off on an effort to use the News Feed to show people positive stories about Facebook, as part of wider Facebook PR shift (New York Times)](http://www.techmeme.com/210921/p40#a210921p40)
- - [The Oversight Board wants answers about Facebook’s celebrity moderation program](https://www.theverge.com/2021/9/21/22686364/facebook-oversight-board-xcheck-moderation-exemption)
- - [Wyze’s new pan & tilt cam can see everywhere](https://www.theverge.com/2021/9/21/22686582/new-wyze-pan-cam-v2-specs-release-date-price-shipping)<!-- TECH:END -->
+ - [Code suggests Apple preparing CarKey support for Genesis vehicles](https://appleinsider.com/articles/21/09/21/code-suggests-apple-preparing-carkey-support-for-genesis-vehicles?utm_medium=rss)
+ - [Google Doodles welcome first day of autumn (and spring)     - CNET](https://www.cnet.com/news/google-doodles-welcome-first-day-of-autumn-and-spring/#ftag=CAD590a51e)
+ - [Protect your iPhone 13 with an Otterbox case for 25% off from Verizon](https://www.androidauthority.com/iphone-13-otterbox-case-deal-3028288/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
