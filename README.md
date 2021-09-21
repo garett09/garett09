@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Slack announces Clips, short video voicemail messages for channels, rolling out today for paid accounts, changes to Connect, GovSlack, and more (Tom Warren/The Verge)](http://www.techmeme.com/210921/p12#a210921p12)
- - [Launch startups Astra and Firefly ink secret rocket engine IP deal](https://www.theverge.com/2021/9/21/22670063/astra-firefly-reaver-rocket-engine-ip-agreement)
- - [PayPal’s updated app is its first step to becoming your bank](https://www.theverge.com/2021/9/21/22684659/paypal-new-app-savings-account-coupons)<!-- TECH:END -->
+ - [One of our favorite gaming laptops is $330 off at Dell today](https://www.theverge.com/good-deals/2021/9/21/22683992/dell-g5-15-se-gaming-laptop-razer-iskur-chair-xbox-elite-series-controller-deal-sale)
+ - [iPhone 13 review: excellent cameras and battery life and more base storage but front camera is unchanged, has a standard refresh rate, and 12 cases don't fit (Dieter Bohn/The Verge)](http://www.techmeme.com/210921/p18#a210921p18)
+ - [Apple iPhone 13 Pro review: incredible cameras, improved battery life, and high refresh display but front camera is average and no USB-C (Dieter Bohn/The Verge)](http://www.techmeme.com/210921/p17#a210921p17)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
