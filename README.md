@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Save big in the Samsung Discover event, and more Samsung Galaxy deals](https://www.androidauthority.com/best-samsung-galaxy-deals-1108345/)
- - [iOS 15 is here, but we’re still waiting on a few new features](https://www.theverge.com/2021/9/20/22684483/ios-15-announced-features-shareplay-airpods-universal-control)
- - [Apple's iOS 15 patches Face ID vulnerability, includes other security upgrades](https://appleinsider.com/articles/21/09/20/apples-ios-15-patches-face-id-vulnerability-includes-other-security-upgrades?utm_medium=rss)<!-- TECH:END -->
+ - [VC Mark Suster: “The bet we’re making now is on founder skills,” not customers or products](http://feedproxy.google.com/~r/Techcrunch/~3/ZqXgsUdv1Ng/)
+ - [London-based TrueLayer, which lets fintech apps connect with customers' bank accounts, raises a $130M round led by Tiger Global at a $1B+ post-money valuation (Ingrid Lunden/TechCrunch)](http://www.techmeme.com/210920/p31#a210920p31)
+ - [Netflix unveils free-to-stream tier for Android users in Kenya](https://appleinsider.com/articles/21/09/21/netflix-unveils-free-to-stream-tier-for-android-to-debut-in-kenya?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
