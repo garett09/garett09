@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Real take off speed](http://9gag.com/gag/a7EzM4m)
- - 🚯 [Japanese Garden](http://9gag.com/gag/anQL9Wb)
- - 🚯 [Here they come!](http://9gag.com/gag/aEpLxMG)<!-- MEMES:END -->
+ - 🚖 [&Eacute;ste enciende alegr&iacute;a](http://9gag.com/gag/aK6rxEW)
+ - 🚯 [Sweet home Alabama](http://9gag.com/gag/aeAv5OO)
+ - 🚯 [Chest Off to the next level](http://9gag.com/gag/a8EB5V6)<!-- MEMES:END -->
 
 --- 
 
