@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [We asked, you told us: Here’s what you think of the iPhone 13 series](https://www.androidauthority.com/apple-iphone-13-hot-not-poll-results-3027718/)
- - [Paris-based Sorare, a soccer-focused NFT trading platform, raises $680M Series B led by SoftBank Vision Fund 2 at a $4.3B valuation (Ryan Weeks/The Block)](http://www.techmeme.com/210921/p3#a210921p3)
- - [As the SEC mulls a ban on payment for order flow, a look at some alternative revenue streams for commission-free trading apps like Robinhood (Telis Demos/Wall Street Journal)](http://www.techmeme.com/210921/p2#a210921p2)<!-- TECH:END -->
+ - [Cartona gets $4.5M pre-Series A to connect retailers with suppliers in Egypt](http://feedproxy.google.com/~r/Techcrunch/~3/ydR4ulw8nmc/)
+ - [Netflix launches free, first-of-its-kind Android mobile plan in Kenya](https://www.theverge.com/2021/9/21/22685091/netflix-free-android-plan-kenya)
+ - [Camera maker Olympus reportedly denies partnership with Samsung](https://www.androidauthority.com/olympus-samsung-partnership-denial-3027742/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
