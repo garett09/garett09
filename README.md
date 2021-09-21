@@ -195,8 +195,8 @@ Windows                  7 hrs 16 mins       ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [War.... war never changes](http://9gag.com/gag/a072NBO)
- - 🚯 [Breakfast goals.](http://9gag.com/gag/a3EVwje)
- - 🚯 [Dementor be like](http://9gag.com/gag/awM6Bey)<!-- MEMES:END -->
+ - 🚯 [Guys only want one thing and it&#039;s](http://9gag.com/gag/aO3X7VD)
+ - 🚯 [At least I&#039;m still alive](http://9gag.com/gag/aNp6p06)<!-- MEMES:END -->
 
 --- 
 
