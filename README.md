@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Lemnis Gate: fusing tactical time travel with strategic shooting](http://feedproxy.google.com/~r/PSBlog/~3/tARpUu0Yfjw/)
- - [Lemnis Gate: fusing tactical time travel with strategic shooting](https://blog.playstation.com/2021/09/21/lemnis-gate-fusing-tactical-time-travel-with-strategic-shooting/)
- - [Blizzard's Chief Legal Officer Quits Amid Lawsuit](https://kotaku.com/blizzards-chief-legal-officer-quits-amid-lawsuit-1847714940)<!-- GAME:END -->
+ - [‘I wish there was a plan’: The oral history of DC Comics’ infamous New 52 reboot](https://www.polygon.com/comics/22679756/dc-comics-reboot-new-52-writers-oral-history)
+ - [How to overclock your PC](https://www.pcgamer.com/a-beginners-guide-to-overclocking)
+ - [Puzzle Bobble 3D: Vacation Odyssey arrives October 5 for PS5, PS4, and PS VR](http://feedproxy.google.com/~r/PSBlog/~3/CK0CdN1xW00/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
