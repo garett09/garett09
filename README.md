@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Behold, My New Favorite Crusader Kings Bug](https://kotaku.com/behold-my-new-favorite-crusader-kings-bug-1847712534)
- - [Blizzard Entertainment chief legal officer resigns](https://www.pcgamer.com/blizzard-entertainment-chief-legal-officer-resigns)
- - [The Quest To Create A Never-Ending Play In Madden](https://kotaku.com/the-quest-to-create-a-never-ending-play-in-madden-1847712194)<!-- GAME:END -->
+ - [Kena: Bridge of Spirits review](https://www.pcgamer.com/kena-bridge-of-spirits-review)
+ - [Kena: Bridge of Spirits promises magic, but can’t deliver much of it](https://www.polygon.com/reviews/22685235/kena-bridge-of-spirits-review-ps5-ps4-pc)
+ - [Best capture cards for PC gaming](https://www.pcgamer.com/best-capture-card-for-pc-gaming)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
