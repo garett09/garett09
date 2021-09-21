@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Blue Bear Capital raises $150M to fund climate, energy and infrastructure tech](http://feedproxy.google.com/~r/Techcrunch/~3/GGfAPa3gCcY/)
- - [As TSMC pledges to reach net zero emissions by 2050, a look at how the semiconductor industry is tackling its huge carbon footprint and resource consumption (P&aacute;draig Belton/The Guardian)](http://www.techmeme.com/210921/p9#a210921p9)
- - [Microsoft gets ready to launch the Surface Pro 8 I’ve been waiting years for](https://www.theverge.com/2021/9/21/22685535/microsoft-surface-pro-8-design-specs-features-rumors)<!-- TECH:END -->
+ - [Slack announces Clips, short video voicemail messages for channels, rolling out today for paid accounts, changes to Connect, GovSlack, and more (Tom Warren/The Verge)](http://www.techmeme.com/210921/p12#a210921p12)
+ - [Launch startups Astra and Firefly ink secret rocket engine IP deal](https://www.theverge.com/2021/9/21/22670063/astra-firefly-reaver-rocket-engine-ip-agreement)
+ - [PayPal’s updated app is its first step to becoming your bank](https://www.theverge.com/2021/9/21/22684659/paypal-new-app-savings-account-coupons)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
