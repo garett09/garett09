@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [An art!](http://9gag.com/gag/agBP5Dn)
- - 🚯 [Why men live shorter?](http://9gag.com/gag/anQL9P5)
- - 🚯 [Sweet home Alabama](http://9gag.com/gag/aeAv5OO)<!-- MEMES:END -->
+ - 🚖 [That government?](http://9gag.com/gag/amPE5Zo)
+ - 🚯 [Sweet home Alabama](http://9gag.com/gag/aeAv5OO)
+ - 🚯 [Double Pendulum Ring and Bar](http://9gag.com/gag/aB27ggO)<!-- MEMES:END -->
 
 --- 
 
