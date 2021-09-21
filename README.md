@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [VC Mark Suster: “The bet we’re making now is on founder skills,” not customers or products](http://feedproxy.google.com/~r/Techcrunch/~3/ZqXgsUdv1Ng/)
- - [London-based TrueLayer, which lets fintech apps connect with customers' bank accounts, raises a $130M round led by Tiger Global at a $1B+ post-money valuation (Ingrid Lunden/TechCrunch)](http://www.techmeme.com/210920/p31#a210920p31)
- - [Netflix unveils free-to-stream tier for Android users in Kenya](https://appleinsider.com/articles/21/09/21/netflix-unveils-free-to-stream-tier-for-android-to-debut-in-kenya?utm_medium=rss)<!-- TECH:END -->
+ - [ClickHouse, which provides an online analytical processing database management system, raises $50M Series A led by Index Ventures and Benchmark (FinSMEs)](http://www.techmeme.com/210920/p33#a210920p33)
+ - [Best TV shows 2021: Hacks, Mare of Easttown, The White Lotus and more     - CNET](https://www.cnet.com/news/best-tv-shows-2021-hacks-mare-of-easttown-the-white-lotus-and-more/#ftag=CAD590a51e)
+ - [Bezos Earth Fund pledges $1B to nature conservation efforts     - CNET](https://www.cnet.com/tech/services-and-software/bezos-earth-fund-pledges-1b-to-nature-conservation-efforts/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
