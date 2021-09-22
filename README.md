@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ant Group's Huabei consumer lending service says user data will be made available to China's central bank credit reporting system (Jing Yang/Wall Street Journal)](http://www.techmeme.com/210922/p14#a210922p14)
- - ['The Problem with Jon Stewart' will be serious and childish, says Stewart](https://appleinsider.com/articles/21/09/22/the-problem-with-jon-stewart-will-be-serious-and-childish-says-stewart?utm_medium=rss)
- - [Environmental Law Is Getting in the Way of Climate Action](https://www.wired.com/story/environmental-law-climate-action-regulation-policy)<!-- TECH:END -->
+ - [Apple TV+ signs deal with Sharon Horgan for dark comedy](https://appleinsider.com/articles/21/09/22/apple-tv-signs-deal-with-sharon-horgan-for-dark-comedy?utm_medium=rss)
+ - [Facebook says Apple's ATT changes will continue to cause headwinds in Q3 and reveals it under-reported web conversions by 15% on average (Sara Fischer/Axios)](http://www.techmeme.com/210922/p18#a210922p18)
+ - ['Pokemon Unite' now available on iPhone and iPad](https://appleinsider.com/articles/21/09/22/pokemon-unite-now-available-on-iphone-and-ipad?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
