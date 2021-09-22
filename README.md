@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [10.2-inch iPad review roundup: Solid, but not a significant upgrade](https://appleinsider.com/articles/21/09/22/102-inch-ipad-review-roundup-solid-but-not-a-significant-upgrade?utm_medium=rss)
- - [Tiny electronic fliers could float like seeds on the breeze to monitor the environment](https://www.theverge.com/2021/9/22/22685569/electronic-microfliers-seed-dispersal-environmental-monitoring)
- - [Why does Amazon make games?](https://www.theverge.com/2021/9/22/22686351/amazon-games-christoph-hartmann-twitch-luna-new-world)<!-- TECH:END -->
+ - [Microsoft unveils Surface Laptop Studio, Surface Pro 8, Surface Duo 2](https://appleinsider.com/articles/21/09/22/microsoft-unveils-surface-laptop-studio-surface-pro-8-surface-duo-2?utm_medium=rss)
+ - [Hands-on with Surface Laptop Studio, which starts at $1,600: new hinge offers three modes, under-device pedestal is strange, and screen is very nice (Dieter Bohn/The Verge)](http://www.techmeme.com/210922/p37#a210922p37)
+ - [Hands-on with Surface Pro 8: Thunderbolt is welcome, familiar design, new keyboard is great, but base model is underpowered; starts at $1,099 without keyboard (Dieter Bohn/The Verge)](http://www.techmeme.com/210922/p36#a210922p36)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
