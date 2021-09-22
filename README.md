@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [New Redmi Smart TVs pack low-latency mode, Android 11 TV for under Rs 16,000](https://www.androidauthority.com/redmi-smart-tv-32-43-series-3028468/)
- - [Profile of Johannes Caspar, who was Hamburg's data protection commissioner for over a decade and investigated Facebook, WhatsApp, Clearview, PimEyes, and Amazon (Cathrin Schaer/Wired UK)](http://www.techmeme.com/210922/p6#a210922p6)
- - [Kavak, a Mexico-based marketplace for used cars, raises $700M Series E led by General Catalyst, doubling its valuation from April to $8.7B (Mary Ann Azevedo/TechCrunch)](http://www.techmeme.com/210922/p5#a210922p5)<!-- TECH:END -->
+ - [Xiaomi could remotely activate censorship on your phone, new report claims](https://www.androidauthority.com/lithuania-xiaomi-phones-censorship-3028449/)
+ - [Netflix makes its biggest acquisition ever — the Roald Dahl catalog](https://www.theverge.com/2021/9/21/22686472/netflix-rumor-roald-dahl-willy-wonka-bfg-matilda)
+ - [New Redmi Smart TVs pack low-latency mode, Android 11 TV for under Rs 16,000](https://www.androidauthority.com/redmi-smart-tv-32-43-series-3028468/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
