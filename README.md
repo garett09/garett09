@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Wallpaper Wednesday: Some great phone wallpapers for all to share (Sep. 22)](https://www.androidauthority.com/wallpaper-wednesday-sep-22-2021-3027396/)
- - [Which iPhone Should You Buy (or Avoid) Right Now?](https://www.wired.com/gallery/iphone-buying-guide)
- - [How to use tags in Reminders iOS 15](https://appleinsider.com/articles/21/08/02/how-to-use-tags-in-reminders-ios-15?utm_medium=rss)<!-- TECH:END -->
+ - [10.2-inch iPad review roundup: Solid, but not a significant upgrade](https://appleinsider.com/articles/21/09/22/102-inch-ipad-review-roundup-solid-but-not-a-significant-upgrade?utm_medium=rss)
+ - [Tiny electronic fliers could float like seeds on the breeze to monitor the environment](https://www.theverge.com/2021/9/22/22685569/electronic-microfliers-seed-dispersal-environmental-monitoring)
+ - [Why does Amazon make games?](https://www.theverge.com/2021/9/22/22686351/amazon-games-christoph-hartmann-twitch-luna-new-world)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
