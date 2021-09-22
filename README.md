@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Just say it as it is](http://9gag.com/gag/azM0KLN)
- - 🚯 [Get this to Hot. Someone in Hollywood will have to see it!&nbsp; (Posted in Funny because original was in Funny - Monkey see Monkey do)](http://9gag.com/gag/aRXYZ9y)
- - 🚯 [Choose wisely](http://9gag.com/gag/aLpy40v)<!-- MEMES:END -->
+ - 🚖 [Oh boy](http://9gag.com/gag/aYo2PL7)
+ - 🚯 [Choose wisely](http://9gag.com/gag/aLpy40v)
+ - 🚯 [WT......F](http://9gag.com/gag/aMK3PbA)<!-- MEMES:END -->
 
 --- 
 
