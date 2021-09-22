@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple TV+ signs deal with Sharon Horgan for dark comedy](https://appleinsider.com/articles/21/09/22/apple-tv-signs-deal-with-sharon-horgan-for-dark-comedy?utm_medium=rss)
- - [Facebook says Apple's ATT changes will continue to cause headwinds in Q3 and reveals it under-reported web conversions by 15% on average (Sara Fischer/Axios)](http://www.techmeme.com/210922/p18#a210922p18)
- - ['Pokemon Unite' now available on iPhone and iPad](https://appleinsider.com/articles/21/09/22/pokemon-unite-now-available-on-iphone-and-ipad?utm_medium=rss)<!-- TECH:END -->
+ - [Wallpaper Wednesday: Some great phone wallpapers for all to share (Sep. 22)](https://www.androidauthority.com/wallpaper-wednesday-sep-22-2021-3027396/)
+ - [Which iPhone Should You Buy (or Avoid) Right Now?](https://www.wired.com/gallery/iphone-buying-guide)
+ - [How to use tags in Reminders iOS 15](https://appleinsider.com/articles/21/08/02/how-to-use-tags-in-reminders-ios-15?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
