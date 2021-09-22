@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to stream lossless audio to HomePod](https://appleinsider.com/articles/21/09/22/how-to-stream-lossless-audio-to-homepod?utm_medium=rss)
- - [Giant Comet Bernardinelli-Bernstein is bigger than a Martian moon     - CNET](https://www.cnet.com/news/giant-comet-bernardinelli-bernstein-is-bigger-than-a-martian-moon/#ftag=CAD590a51e)
- - [Astronomers discover empty cavity carved into space by a violent explosion     - CNET](https://www.cnet.com/news/astronomers-discover-empty-cavity-carved-into-space-by-a-violent-explosion/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Rashida Jones, David Oyelowo join cast of Apple TV+ original 'Wool'](https://appleinsider.com/articles/21/09/22/rashida-jones-david-oyelowo-join-cast-of-apple-tv-original-wool?utm_medium=rss)
+ - [Ford partners with Redwood Materials on EV battery recycling, local manufacturing     - Roadshow](https://www.cnet.com/roadshow/news/ford-partners-with-redwood-materials-on-ev-battery-recycling-local-manufacturing/#ftag=CAD590a51e)
+ - [Researchers say an Exchange Autodiscover bug can be used to obtain Windows users' domain and app credentials; Microsoft is investigating (Catalin Cimpanu/The Record)](http://www.techmeme.com/210922/p50#a210922p50)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
