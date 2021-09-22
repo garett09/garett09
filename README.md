@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [These modders are on a mission to remake Half-Life's most obscure spin-off](https://www.pcgamer.com/these-modders-are-on-a-mission-to-remake-half-lifes-most-obscure-spin-off)
- - [Apple blacklists Epic, won't allow Fortnite back on the App Store](https://www.pcgamer.com/apple-blacklists-epic-wont-allow-fortnite-back-on-the-app-store)
- - [Deathloop: The Kotaku Review](https://kotaku.com/deathloop-the-kotaku-review-1847725473)<!-- GAME:END -->
+ - [Xbox fix will let you resurrect your ancient Gamerpic](https://www.polygon.com/22688663/xbox-original-gamerpics-fix-change-series-360)
+ - [Pokémon Unite Sleep Nerf Could Devastate Snorlax, Wigglytuff Players](https://kotaku.com/pokemon-unite-sleep-nerf-could-devastate-snorlax-wiggl-1847726453)
+ - [Discord is testing official YouTube integration](https://www.pcgamer.com/discord-is-testing-official-youtube-integration)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
