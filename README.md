@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple releases seventh developer beta for macOS Monterey [u]](https://appleinsider.com/articles/21/09/21/apple-issues-seventh-developer-beta-for-macos-monterey?utm_medium=rss)
- - [Lithuanian government recommends ditching Chinese phones after finding Xiaomi devices with censorship capabilities that can be activated remotely (Andrius Sytas/Reuters)](http://www.techmeme.com/210921/p46#a210921p46)
- - [Apple's Research app can transfer study progress to a new device](https://appleinsider.com/articles/21/09/22/apples-research-app-can-transfer-study-progress-to-a-new-device?utm_medium=rss)<!-- TECH:END -->
+ - [Indonesia-based Evermos, a halal-focused social commerce startup catering to small businesses, raises $30M Series B led by UOB Venture Management (Catherine Shu/TechCrunch)](http://www.techmeme.com/210921/p47#a210921p47)
+ - [Do Not Disturb in iOS 15 removes option that allowed notifications when iPhone is in use](https://appleinsider.com/articles/21/09/22/do-not-disturb-in-ios-15-removes-option-that-allowed-notifications-when-iphone-is-in-use?utm_medium=rss)
+ - [Apple releases seventh developer beta for macOS Monterey [u]](https://appleinsider.com/articles/21/09/21/apple-issues-seventh-developer-beta-for-macos-monterey?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
