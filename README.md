@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [These modders are on a mission to remake Half-Life's most obscure spin-off](https://www.pcgamer.com/these-modders-are-on-a-mission-to-remake-half-lifes-most-obscure-spin-off)
  - [Apple blacklists Epic, won't allow Fortnite back on the App Store](https://www.pcgamer.com/apple-blacklists-epic-wont-allow-fortnite-back-on-the-app-store)
- - [Deathloop: The Kotaku Review](https://kotaku.com/deathloop-the-kotaku-review-1847725473)
- - [Century: Age of Ashes is delayed so it doesn't get murdered by Battlefield 2042](https://www.pcgamer.com/century-age-of-ashes-is-delayed-so-it-doesnt-get-murdered-by-battlefield-2042)<!-- GAME:END -->
+ - [Deathloop: The Kotaku Review](https://kotaku.com/deathloop-the-kotaku-review-1847725473)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
