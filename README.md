@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I often get asked to remove exes from family photos but this is my first bride](http://9gag.com/gag/aNp6POG)
- - 🚯 [Superheroes](http://9gag.com/gag/anQL4wz)
- - 🚯 [Astagfirullah](http://9gag.com/gag/aYo2ovN)<!-- MEMES:END -->
+ - 🚖 [Just say it as it is](http://9gag.com/gag/azM0KLN)
+ - 🚯 [Get this to Hot. Someone in Hollywood will have to see it!&nbsp; (Posted in Funny because original was in Funny - Monkey see Monkey do)](http://9gag.com/gag/aRXYZ9y)
+ - 🚯 [Choose wisely](http://9gag.com/gag/aLpy40v)<!-- MEMES:END -->
 
 --- 
 
