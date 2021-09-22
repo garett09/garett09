@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft unveils Surface Laptop Studio, Surface Pro 8, Surface Duo 2](https://appleinsider.com/articles/21/09/22/microsoft-unveils-surface-laptop-studio-surface-pro-8-surface-duo-2?utm_medium=rss)
- - [Hands-on with Surface Laptop Studio, which starts at $1,600: new hinge offers three modes, under-device pedestal is strange, and screen is very nice (Dieter Bohn/The Verge)](http://www.techmeme.com/210922/p37#a210922p37)
- - [Hands-on with Surface Pro 8: Thunderbolt is welcome, familiar design, new keyboard is great, but base model is underpowered; starts at $1,099 without keyboard (Dieter Bohn/The Verge)](http://www.techmeme.com/210922/p36#a210922p36)<!-- TECH:END -->
+ - [Apple leather MagSafe wallet with Find My review: A step up, but just barely](https://appleinsider.com/articles/21/09/22/apple-leather-magsafe-wallet-with-find-my-review-a-step-up-but-just-barely?utm_medium=rss)
+ - [How to preorder the Surface Duo 2](https://www.theverge.com/22684018/microsoft-surface-duo-2-preorder-how-to-buy-price-release-date)
+ - [What Social Media Needs to Learn From Traditional Media](https://www.wired.com/story/what-social-media-needs-to-learn-from-traditional-media)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
