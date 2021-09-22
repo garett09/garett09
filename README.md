@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy A52s review: Jack of all trades](https://www.androidauthority.com/samsung-galaxy-a52s-review-3020575/)
- - [Netflix agrees to acquire the Roald Dahl Story Company, expanding on a three-year deal to make animated shows, with plans to create TV, movies, games, and more (Naman Ramachandran/Variety)](http://www.techmeme.com/210922/p7#a210922p7)
- - [What If…? episode 7 recap: Party Thor makes a Marvel-style mess     - CNET](https://www.cnet.com/news/what-if-episode-7-recap-party-thor-makes-a-marvel-style-mess/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [iPhone, Mac, subscription service trial announced, then pulled](https://appleinsider.com/articles/21/09/22/iphone-mac-subscription-service-trial-announced-then-pulled?utm_medium=rss)
+ - [Need to trap a Roomba? You don’t need anything more sophisticated than a rug](https://www.theverge.com/tldr/2021/9/22/22687449/roomba-rug-dark-pattern-cliff-edge-why-problem)
+ - [See Ted Lasso's Brett Goldstein singing a whole Muppets movie in 6 minutes     - CNET](https://www.cnet.com/news/ted-lassos-brett-goldstein-singing-a-whole-muppets-movie-in-6-minutes/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
