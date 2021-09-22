@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: ahead of its NYSE debut, Toast prices its IPO at $40 per share, above its original $30-$33 range, which would give it a market cap of ~$20B (Ari Levy/CNBC)](http://www.techmeme.com/210921/p45#a210921p45)
- - [The first patient testimony about a Theranos test result: a miscarriage that wasn’t](https://www.theverge.com/2021/9/21/22687026/theranos-patient-bad-test-miscarriage-pregnancy)
- - [The best deals on true wireless earbuds right now](https://www.theverge.com/22307388/wireless-earbuds-deals-airpods-galaxy-buds-powerbeats)<!-- TECH:END -->
+ - [Apple releases seventh developer beta for macOS Monterey [u]](https://appleinsider.com/articles/21/09/21/apple-issues-seventh-developer-beta-for-macos-monterey?utm_medium=rss)
+ - [Lithuanian government recommends ditching Chinese phones after finding Xiaomi devices with censorship capabilities that can be activated remotely (Andrius Sytas/Reuters)](http://www.techmeme.com/210921/p46#a210921p46)
+ - [Apple's Research app can transfer study progress to a new device](https://appleinsider.com/articles/21/09/22/apples-research-app-can-transfer-study-progress-to-a-new-device?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
