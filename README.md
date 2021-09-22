@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone, Mac, subscription service trial announced, then pulled](https://appleinsider.com/articles/21/09/22/iphone-mac-subscription-service-trial-announced-then-pulled?utm_medium=rss)
- - [Need to trap a Roomba? You don’t need anything more sophisticated than a rug](https://www.theverge.com/tldr/2021/9/22/22687449/roomba-rug-dark-pattern-cliff-edge-why-problem)
- - [See Ted Lasso's Brett Goldstein singing a whole Muppets movie in 6 minutes     - CNET](https://www.cnet.com/news/ted-lassos-brett-goldstein-singing-a-whole-muppets-movie-in-6-minutes/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Rawalpindi-based TAG Innovation, which builds financial tools for Pakistan's 100M unbanked adults, raises $12M at a $100M valuation led by Liberty City (Faseeh Mangi/Bloomberg)](http://www.techmeme.com/210922/p11#a210922p11)
+ - ['You'll See Other Quests in the Game That Are a Bit Silly'](https://www.wired.com/story/sable-game-interview-shedworks-creative-director)
+ - [Gitamini is a cute, compact, cargo-carrying robot that will follow you around like a dog](https://www.theverge.com/2021/9/22/22685649/gita-gitamini-cargo-carrying-robot-piaggio)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
