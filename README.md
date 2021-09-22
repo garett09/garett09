@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Xiaomi is launching a new smartphone series on September 27](https://www.androidauthority.com/xiaomi-civi-launch-3028446/)
- - [Overview of the market for NFTs where most assets sold on OpenSea in the past 90 days have not seen another deal (Bloomberg)](http://www.techmeme.com/210922/p3#a210922p3)
- - [Best jumper cables for 2021     - Roadshow](https://www.cnet.com/roadshow/news/best-jumper-cables/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [New Redmi Smart TVs pack low-latency mode, Android 11 TV for under Rs 16,000](https://www.androidauthority.com/redmi-smart-tv-32-43-series-3028468/)
+ - [Profile of Johannes Caspar, who was Hamburg's data protection commissioner for over a decade and investigated Facebook, WhatsApp, Clearview, PimEyes, and Amazon (Cathrin Schaer/Wired UK)](http://www.techmeme.com/210922/p6#a210922p6)
+ - [Kavak, a Mexico-based marketplace for used cars, raises $700M Series E led by General Catalyst, doubling its valuation from April to $8.7B (Mary Ann Azevedo/TechCrunch)](http://www.techmeme.com/210922/p5#a210922p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
