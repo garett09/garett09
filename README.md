@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Latest Stuff Coming To Halo Infinite You Should Know About](https://kotaku.com/the-latest-stuff-coming-to-halo-infinite-you-should-kno-1847716208)
- - [Crucial P5 Plus 1TB SSD review](https://www.pcgamer.com/crucial-p5-plus-1tb-ssd-review)
- - [Detroit Dev Quantic Dreams Wins Lawsuit Without Actually Disproving Misconduct Allegations](https://kotaku.com/detroit-dev-quantic-dreams-wins-lawsuit-without-actuall-1847716375)<!-- GAME:END -->
+ - [Apple blacklists Epic, won't allow Fortnite back on the App Store](https://www.pcgamer.com/apple-blacklists-epic-wont-allow-fortnite-back-on-the-app-store)
+ - [Deathloop: The Kotaku Review](https://kotaku.com/deathloop-the-kotaku-review-1847725473)
+ - [Century: Age of Ashes is delayed so it doesn't get murdered by Battlefield 2042](https://www.pcgamer.com/century-age-of-ashes-is-delayed-so-it-doesnt-get-murdered-by-battlefield-2042)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
