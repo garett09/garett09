@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iOS 15.1’s first beta suggests we could see SharePlay soon](https://www.theverge.com/2021/9/21/22686897/ios-15-1-beta-shareplay-feature-announced-removed-coming-soon-vaccine-card)
- - [Turkey-based Intenseye, which uses computer vision and AI to monitor workplaces and staff for safety violations, raises $25M Series A led by Insight Partners (Dan Taylor/Tech.eu)](http://www.techmeme.com/210921/p51#a210921p51)
- - [More people should watch the best TV show on Netflix     - CNET](https://www.cnet.com/news/more-people-should-watch-the-best-tv-show-on-netflix/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [VMware urges customers to immediately patch a critical arbitrary file upload vulnerability in its flagship vCenter and vSphere products (Simon Sharwood/The Register)](http://www.techmeme.com/210922/p2#a210922p2)
+ - [Freshworks boosts its IPO offering to $36 per share, after originally pricing it at $28-$32, to raise $1.03B at a $10B+ valuation; trading to begin September 22 (Vikas Sn/Moneycontrol)](http://www.techmeme.com/210922/p1#a210922p1)
+ - [James Corden upset the BTS Army and is trending on Twitter for all the wrong reasons     - CNET](https://www.cnet.com/news/james-corden-upset-the-bts-army-and-is-trending-on-twitter-for-all-the-wrong-reasons/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
