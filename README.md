@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Brydge unveils Stone Pro TB4 Thunderbolt 4 docking station](https://appleinsider.com/articles/21/09/22/brydge-unveils-stone-pro-tb4-thunderbolt-4-docking-station?utm_medium=rss)
- - [YouTube is testing letting Premium subscribers download videos from its desktop site through October 19 (Michael Crider/Android Police)](http://www.techmeme.com/210922/p42#a210922p42)
- - [Apple won't let Fortnite back in the App Store, says Epic Games CEO     - CNET](https://www.cnet.com/tech/services-and-software/apple-wont-let-fortnite-back-in-the-app-store-says-epic-games-ceo/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to use the new widgets in iOS 15](https://appleinsider.com/articles/21/08/03/how-to-use-the-new-widgets-in-ios-15?utm_medium=rss)
+ - [A look at the strengths and weaknesses of US and Chinese tech industries, including China's supremacy in network equipment, commercial drones, and batteries (Washington Post)](http://www.techmeme.com/210922/p43#a210922p43)
+ - [YouTube tests video downloads for your desktop browser](https://www.theverge.com/2021/9/22/22688152/youtube-downloads-desktop-offline-premium-test)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
