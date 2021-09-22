@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Rawalpindi-based TAG Innovation, which builds financial tools for Pakistan's 100M unbanked adults, raises $12M at a $100M valuation led by Liberty City (Faseeh Mangi/Bloomberg)](http://www.techmeme.com/210922/p11#a210922p11)
- - ['You'll See Other Quests in the Game That Are a Bit Silly'](https://www.wired.com/story/sable-game-interview-shedworks-creative-director)
- - [Gitamini is a cute, compact, cargo-carrying robot that will follow you around like a dog](https://www.theverge.com/2021/9/22/22685649/gita-gitamini-cargo-carrying-robot-piaggio)<!-- TECH:END -->
+ - [Ant Group's Huabei consumer lending service says user data will be made available to China's central bank credit reporting system (Jing Yang/Wall Street Journal)](http://www.techmeme.com/210922/p14#a210922p14)
+ - ['The Problem with Jon Stewart' will be serious and childish, says Stewart](https://appleinsider.com/articles/21/09/22/the-problem-with-jon-stewart-will-be-serious-and-childish-says-stewart?utm_medium=rss)
+ - [Environmental Law Is Getting in the Way of Climate Action](https://www.wired.com/story/environmental-law-climate-action-regulation-policy)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
