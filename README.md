@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox fix will let you resurrect your ancient Gamerpic](https://www.polygon.com/22688663/xbox-original-gamerpics-fix-change-series-360)
- - [Pokémon Unite Sleep Nerf Could Devastate Snorlax, Wigglytuff Players](https://kotaku.com/pokemon-unite-sleep-nerf-could-devastate-snorlax-wiggl-1847726453)
- - [Discord is testing official YouTube integration](https://www.pcgamer.com/discord-is-testing-official-youtube-integration)<!-- GAME:END -->
+ - [Genshin Impact's anniversary event is really stingy, and players are pissed](https://www.pcgamer.com/genshin-impacts-anniversary-event-is-really-stingy-and-players-are-pissed)
+ - [PUBG player launches car like a medieval catapult, scores double kill](https://www.pcgamer.com/pubg-player-launches-car-like-a-medieval-catapult-scores-double-kill)
+ - [Sable review](https://www.pcgamer.com/sable-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
