@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple leather MagSafe wallet with Find My review: A step up, but just barely](https://appleinsider.com/articles/21/09/22/apple-leather-magsafe-wallet-with-find-my-review-a-step-up-but-just-barely?utm_medium=rss)
- - [How to preorder the Surface Duo 2](https://www.theverge.com/22684018/microsoft-surface-duo-2-preorder-how-to-buy-price-release-date)
- - [What Social Media Needs to Learn From Traditional Media](https://www.wired.com/story/what-social-media-needs-to-learn-from-traditional-media)<!-- TECH:END -->
+ - [Brydge unveils Stone Pro TB4 Thunderbolt 4 docking station](https://appleinsider.com/articles/21/09/22/brydge-unveils-stone-pro-tb4-thunderbolt-4-docking-station?utm_medium=rss)
+ - [YouTube is testing letting Premium subscribers download videos from its desktop site through October 19 (Michael Crider/Android Police)](http://www.techmeme.com/210922/p42#a210922p42)
+ - [Apple won't let Fortnite back in the App Store, says Epic Games CEO     - CNET](https://www.cnet.com/tech/services-and-software/apple-wont-let-fortnite-back-in-the-app-store-says-epic-games-ceo/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
