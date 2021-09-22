@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Leaked email: Tim Cook says recent leakers of info about Apple products and internal meetings "do not belong here" and the company is tracking them down (Zoe Schiffer/The Verge)](http://www.techmeme.com/210922/p45#a210922p45)
- - [Texas sued over terrible social media law](https://www.theverge.com/2021/9/22/22688331/texas-hb-20-first-amendment-lawsuit-social-media-censorship)
- - [Read-later apps, pioneered by Instapaper and Pocket, are having a resurgence led by Matter, Upnext, and others, which improve discoverability and other features (David Pierce/Protocol)](http://www.techmeme.com/210922/p44#a210922p44)<!-- TECH:END -->
+ - [Facebook admits that iOS 14 privacy changes are working as intended](https://appleinsider.com/articles/21/09/22/facebook-admits-that-ios-14-privacy-changes-are-working-as-intended?utm_medium=rss)
+ - [Nokia’s new G50 is a $300 5G phone with a big battery and two years of OS upgrades](https://www.theverge.com/2021/9/22/22687760/nokia-g50-phone-battery-android-upgrades)
+ - [Toast shares closed up 56% at $62.51 per share in its NYSE debut, giving it a market cap of $31B+ after raising ~$870M in its IPO (Ari Levy/CNBC)](http://www.techmeme.com/210922/p47#a210922p47)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
