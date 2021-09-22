@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to use the new widgets in iOS 15](https://appleinsider.com/articles/21/08/03/how-to-use-the-new-widgets-in-ios-15?utm_medium=rss)
- - [A look at the strengths and weaknesses of US and Chinese tech industries, including China's supremacy in network equipment, commercial drones, and batteries (Washington Post)](http://www.techmeme.com/210922/p43#a210922p43)
- - [YouTube tests video downloads for your desktop browser](https://www.theverge.com/2021/9/22/22688152/youtube-downloads-desktop-offline-premium-test)<!-- TECH:END -->
+ - [Leaked email: Tim Cook says recent leakers of info about Apple products and internal meetings "do not belong here" and the company is tracking them down (Zoe Schiffer/The Verge)](http://www.techmeme.com/210922/p45#a210922p45)
+ - [Texas sued over terrible social media law](https://www.theverge.com/2021/9/22/22688331/texas-hb-20-first-amendment-lawsuit-social-media-censorship)
+ - [Read-later apps, pioneered by Instapaper and Pocket, are having a resurgence led by Matter, Upnext, and others, which improve discoverability and other features (David Pierce/Protocol)](http://www.techmeme.com/210922/p44#a210922p44)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
