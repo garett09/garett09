@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Wasn&#039;t expecting that huh?](http://9gag.com/gag/a9E982o)
- - 🚯 [Who is yelling at me](http://9gag.com/gag/a8EB0Qp)
- - 🚯 [Been a long road to recovery, in more ways than one. But! 4 years clean from meth.](http://9gag.com/gag/aeAvO2m)<!-- MEMES:END -->
+ - 🚖 [Facts](http://9gag.com/gag/aGpWMNG)
+ - 🚯 [Been a long road to recovery, in more ways than one. But! 4 years clean from meth.](http://9gag.com/gag/aeAvO2m)
+ - 🚯 [Wasn&#039;t expecting that huh?](http://9gag.com/gag/a9E982o)<!-- MEMES:END -->
 
 --- 
 
