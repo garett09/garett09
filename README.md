@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Code suggests Apple preparing CarKey support for Genesis vehicles](https://appleinsider.com/articles/21/09/21/code-suggests-apple-preparing-carkey-support-for-genesis-vehicles?utm_medium=rss)
- - [Google Doodles welcome first day of autumn (and spring)     - CNET](https://www.cnet.com/news/google-doodles-welcome-first-day-of-autumn-and-spring/#ftag=CAD590a51e)
- - [Protect your iPhone 13 with an Otterbox case for 25% off from Verizon](https://www.androidauthority.com/iphone-13-otterbox-case-deal-3028288/)<!-- TECH:END -->
+ - [Source: ahead of its NYSE debut, Toast prices its IPO at $40 per share, above its original $30-$33 range, which would give it a market cap of ~$20B (Ari Levy/CNBC)](http://www.techmeme.com/210921/p45#a210921p45)
+ - [The first patient testimony about a Theranos test result: a miscarriage that wasn’t](https://www.theverge.com/2021/9/21/22687026/theranos-patient-bad-test-miscarriage-pregnancy)
+ - [The best deals on true wireless earbuds right now](https://www.theverge.com/22307388/wireless-earbuds-deals-airpods-galaxy-buds-powerbeats)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
