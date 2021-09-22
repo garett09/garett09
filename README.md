@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Xiaomi could remotely activate censorship on your phone, new report claims](https://www.androidauthority.com/lithuania-xiaomi-phones-censorship-3028449/)
- - [Netflix makes its biggest acquisition ever — the Roald Dahl catalog](https://www.theverge.com/2021/9/21/22686472/netflix-rumor-roald-dahl-willy-wonka-bfg-matilda)
- - [New Redmi Smart TVs pack low-latency mode, Android 11 TV for under Rs 16,000](https://www.androidauthority.com/redmi-smart-tv-32-43-series-3028468/)<!-- TECH:END -->
+ - [Samsung Galaxy A52s review: Jack of all trades](https://www.androidauthority.com/samsung-galaxy-a52s-review-3020575/)
+ - [Netflix agrees to acquire the Roald Dahl Story Company, expanding on a three-year deal to make animated shows, with plans to create TV, movies, games, and more (Naman Ramachandran/Variety)](http://www.techmeme.com/210922/p7#a210922p7)
+ - [What If…? episode 7 recap: Party Thor makes a Marvel-style mess     - CNET](https://www.cnet.com/news/what-if-episode-7-recap-party-thor-makes-a-marvel-style-mess/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
