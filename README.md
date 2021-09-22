@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [eVisit, a SaaS startup helping hospitals and health care systems provide telehealth services, raises $45M Series B led by Goldman Sachs Asset Management (Garrison Wells/FierceHealthcare)](http://www.techmeme.com/210921/p50#a210921p50)
- - [Pager, a virtual healthcare platform for helping patients from initial triage to follow-up care, raises $70M Series C, as a mix of equity and debt (AlleyWatch)](http://www.techmeme.com/210921/p49#a210921p49)
- - [Provi, an online marketplace that lets bars and restaurants order beverages from distributors in one central location, raises $75M Series C at a $750M valuation (Jim Dallke/Chicago Business Journal)](http://www.techmeme.com/210921/p48#a210921p48)<!-- TECH:END -->
+ - [iOS 15.1’s first beta suggests we could see SharePlay soon](https://www.theverge.com/2021/9/21/22686897/ios-15-1-beta-shareplay-feature-announced-removed-coming-soon-vaccine-card)
+ - [Turkey-based Intenseye, which uses computer vision and AI to monitor workplaces and staff for safety violations, raises $25M Series A led by Insight Partners (Dan Taylor/Tech.eu)](http://www.techmeme.com/210921/p51#a210921p51)
+ - [More people should watch the best TV show on Netflix     - CNET](https://www.cnet.com/news/more-people-should-watch-the-best-tv-show-on-netflix/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
