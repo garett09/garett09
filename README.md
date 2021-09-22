@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Facebook admits that iOS 14 privacy changes are working as intended](https://appleinsider.com/articles/21/09/22/facebook-admits-that-ios-14-privacy-changes-are-working-as-intended?utm_medium=rss)
- - [Nokia’s new G50 is a $300 5G phone with a big battery and two years of OS upgrades](https://www.theverge.com/2021/9/22/22687760/nokia-g50-phone-battery-android-upgrades)
- - [Toast shares closed up 56% at $62.51 per share in its NYSE debut, giving it a market cap of $31B+ after raising ~$870M in its IPO (Ari Levy/CNBC)](http://www.techmeme.com/210922/p47#a210922p47)<!-- TECH:END -->
+ - [How to stream lossless audio to HomePod](https://appleinsider.com/articles/21/09/22/how-to-stream-lossless-audio-to-homepod?utm_medium=rss)
+ - [Giant Comet Bernardinelli-Bernstein is bigger than a Martian moon     - CNET](https://www.cnet.com/news/giant-comet-bernardinelli-bernstein-is-bigger-than-a-martian-moon/#ftag=CAD590a51e)
+ - [Astronomers discover empty cavity carved into space by a violent explosion     - CNET](https://www.cnet.com/news/astronomers-discover-empty-cavity-carved-into-space-by-a-violent-explosion/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
