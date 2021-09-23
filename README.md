@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What can i say..](http://9gag.com/gag/a6EAn6e)
- - 🚯 [Facts](http://9gag.com/gag/aGpWMNG)
- - 🚯 [I was watching this video and thinking that &quot;the US is a freak show&quot;. Then I turned the sound on and realized this is from Germany - ((sad European noises)). Please Germany, don&#039;t become like the US.](http://9gag.com/gag/aRXYMmA)<!-- MEMES:END -->
+ - 🚖 [Facts](http://9gag.com/gag/aGpWMNG)
+ - 🚯 [Relatable much!?](http://9gag.com/gag/aAboK9R)
+ - 🚯 [My life so far....](http://9gag.com/gag/awM6OWy)<!-- MEMES:END -->
 
 --- 
 
