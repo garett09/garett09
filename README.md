@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [They asked for a drink on the other building and she delivered](http://9gag.com/gag/aXo5266)
- - 🚯 [Fyi](http://9gag.com/gag/aP3KXdn)
- - 🚯 [Trucker had to do something to the bully](http://9gag.com/gag/aYo21QO)<!-- MEMES:END -->
+ - 🚖 [LGTV](http://9gag.com/gag/aXo5WDD)
+ - 🚯 [Didn&#039;t see that coming](http://9gag.com/gag/azM0ZnZ)
+ - 🚯 [Women Gang up and assault man who tried to use his freedom of speech in the most peaceful way...](http://9gag.com/gag/ajmoZDG)<!-- MEMES:END -->
 
 --- 
 
