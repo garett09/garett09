@@ -195,8 +195,8 @@ Windows                  7 hrs 16 mins       ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [You already know it](http://9gag.com/gag/a8EBV76)
- - 🚯 [Guy can&#039;t catch a brake from the wife, not even when he&#039;s getting arrested](http://9gag.com/gag/aLpydLW)
- - 🚯 [German bodybuilder Eugene Sandow captured on video in 1896.](http://9gag.com/gag/axMXY0L)<!-- MEMES:END -->
+ - 🚯 [Advice from a super interesting](http://9gag.com/gag/aP3KnvK)
+ - 🚯 [The mental gymnastics of some women...](http://9gag.com/gag/a1rGOEY)<!-- MEMES:END -->
 
 --- 
 
