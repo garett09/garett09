@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Didn&#039;t see that coming](http://9gag.com/gag/azM0ZnZ)
- - 🚯 [This era (pt:3)](http://9gag.com/gag/anQLr5z)
- - 🚯 [Standard practice](http://9gag.com/gag/aLpydzW)<!-- MEMES:END -->
+ - 🚖 [Two boys&mdash;ages 10 and 3&ndash;jumped 30 feet from a burning building in Grenoble, France. Two of the six adults who caught them broke their arms. Amazing heroism all around.](http://9gag.com/gag/aRXYO97)
+ - 🚯 [Standard practice](http://9gag.com/gag/aLpydzW)
+ - 🚯 [This era (pt:3)](http://9gag.com/gag/anQLr5z)<!-- MEMES:END -->
 
 --- 
 
