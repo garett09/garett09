@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Facebook details the types of posts that get demoted in News Feed, such as clickbait and spam, but stops short of saying exactly how a demotion works (Alex Heath/The Verge)](http://www.techmeme.com/210923/p12#a210923p12)
- - [Ransomware Isn't Back. It Never Left](https://www.wired.com/story/ransomware-revil-blackmatter-surge)
- - [The Lost Tale of an 18th-Century Tsunami, as Told by Trees](https://www.wired.com/story/the-long-lost-tale-of-an-18th-century-tsunami-as-told-by-trees)<!-- TECH:END -->
+ - [Remembering Android 1.0: When a fledgling mobile OS took its first steps](https://www.androidauthority.com/android-1-0-3028250/)
+ - [EU proposing USB-C smartphone charger standard](https://appleinsider.com/articles/21/09/23/eu-proposing-usb-c-smartphone-charger-standard?utm_medium=rss)
+ - [In This Monopoly-Style Game, Race and Privilege Are Currency](https://www.wired.com/story/blacks-and-whites-board-game-race-privilege)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
