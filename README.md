@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Standard practice](http://9gag.com/gag/aLpydzW)
- - 🚯 [Gone..](http://9gag.com/gag/a7Ezp3m)
- - 🚯 [This era (pt:3)](http://9gag.com/gag/anQLr5z)<!-- MEMES:END -->
+ - 🚖 [You already know it](http://9gag.com/gag/a8EBV76)
+ - 🚯 [Guy can&#039;t catch a brake from the wife, not even when he&#039;s getting arrested](http://9gag.com/gag/aLpydLW)
+ - 🚯 [German bodybuilder Eugene Sandow captured on video in 1896.](http://9gag.com/gag/axMXY0L)<!-- MEMES:END -->
 
 --- 
 
