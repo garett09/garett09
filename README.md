@@ -194,8 +194,8 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Two boys&mdash;ages 10 and 3&ndash;jumped 30 feet from a burning building in Grenoble, France. Two of the six adults who caught them broke their arms. Amazing heroism all around.](http://9gag.com/gag/aRXYO97)
- - 🚯 [Standard practice](http://9gag.com/gag/aLpydzW)
+ - 🚖 [Standard practice](http://9gag.com/gag/aLpydzW)
+ - 🚯 [Gone..](http://9gag.com/gag/a7Ezp3m)
  - 🚯 [This era (pt:3)](http://9gag.com/gag/anQLr5z)<!-- MEMES:END -->
 
 --- 
