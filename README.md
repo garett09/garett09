@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The Japanese Slang Everyone Is Talking About Is "Oya-Gacha"](https://kotaku.com/the-japanese-slang-everyone-is-talking-about-is-oya-ga-1847728962)
  - [Minecraft Dungeons Launches on Steam](https://news.xbox.com/en-us/2021/09/23/minecraft-dungeons-launches-on-steam/)
- - [The best gaming laptops in Australia for 2021](https://www.pcgamer.com/the-best-gaming-laptops-in-australia-for-2021)
- - ['Who knows what the future holds' for Titanfall, say people who know what the future holds for Titanfall](https://www.pcgamer.com/titanfall-3-still-doesnt-exist)<!-- GAME:END -->
+ - [The best gaming laptops in Australia for 2021](https://www.pcgamer.com/the-best-gaming-laptops-in-australia-for-2021)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
