@@ -194,8 +194,8 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Trucker had to do something to the bully](http://9gag.com/gag/aYo21QO)
- - 🚯 [Guy can&#039;t catch a brake from the wife, not even when he&#039;s getting arrested](http://9gag.com/gag/aLpydLW)
+ - 🚖 [Didn&#039;t see that coming](http://9gag.com/gag/azM0ZnZ)
+ - 🚯 [This era (pt:3)](http://9gag.com/gag/anQLr5z)
  - 🚯 [Standard practice](http://9gag.com/gag/aLpydzW)<!-- MEMES:END -->
 
 --- 
