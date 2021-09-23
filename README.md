@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [German bodybuilder Eugene Sandow captured on video in 1896.](http://9gag.com/gag/axMXY0L)
- - 🚯 [Gone..](http://9gag.com/gag/a7Ezp3m)
- - 🚯 [Dodging responsibility be like....](http://9gag.com/gag/aRXY21y)<!-- MEMES:END -->
+ - 🚖 [Trucker had to do something to the bully](http://9gag.com/gag/aYo21QO)
+ - 🚯 [Guy can&#039;t catch a brake from the wife, not even when he&#039;s getting arrested](http://9gag.com/gag/aLpydLW)
+ - 🚯 [Standard practice](http://9gag.com/gag/aLpydzW)<!-- MEMES:END -->
 
 --- 
 
