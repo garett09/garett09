@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Avril Lavinge is like a fine wine](http://9gag.com/gag/aQo0m6e)
- - 🚯 [I wish there was one and they&rsquo;d go](http://9gag.com/gag/ajmoZNQ)
- - 🚯 [Here . With the audio!!](http://9gag.com/gag/awM6LLB)<!-- MEMES:END -->
+ - 🚖 [Yes, trash](http://9gag.com/gag/a07214v)
+ - 🚯 [Faith in humanity](http://9gag.com/gag/a27n2bZ)
+ - 🚯 [True...](http://9gag.com/gag/a5E8z6o)<!-- MEMES:END -->
 
 --- 
 
