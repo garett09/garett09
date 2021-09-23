@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to stream lossless audio to HomePod](https://appleinsider.com/articles/21/09/22/how-to-stream-lossless-audio-to-homepod?utm_medium=rss)
- - [Sources: Biden plans to nominate Cornell law professor and cryptocurrency critic Saule Omarova to run the Office of the Comptroller of the Currency (Bloomberg)](http://www.techmeme.com/210922/p53#a210922p53)
- - [FDA clears Pfizer COVID-19 vaccine boosters for vulnerable groups](https://www.theverge.com/2021/9/22/22679950/fda-covid-vaccine-booster-pfizer-older-adults)<!-- TECH:END -->
+ - [Spenmo, a Singapore-based provider of automated bill payments software and corporate cards for SMBs, raises $34M Series A led by Insight Partners (Catherine Shu/TechCrunch)](http://www.techmeme.com/210922/p55#a210922p55)
+ - [iPhone 13's Cinematic mode shown off in music video](https://appleinsider.com/articles/21/09/23/iphone-13s-cinematic-mode-shown-off-in-music-video?utm_medium=rss)
+ - [Rashida Jones, David Oyelowo join cast of Apple TV+ original 'Wool'](https://appleinsider.com/articles/21/09/22/rashida-jones-david-oyelowo-join-cast-of-apple-tv-original-wool?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
