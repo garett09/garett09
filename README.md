@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [LGTV](http://9gag.com/gag/aXo5WDD)
- - 🚯 [Didn&#039;t see that coming](http://9gag.com/gag/azM0ZnZ)
- - 🚯 [Women Gang up and assault man who tried to use his freedom of speech in the most peaceful way...](http://9gag.com/gag/ajmoZDG)<!-- MEMES:END -->
+ - 🚖 [German bodybuilder Eugene Sandow captured on video in 1896.](http://9gag.com/gag/axMXY0L)
+ - 🚯 [Gone..](http://9gag.com/gag/a7Ezp3m)
+ - 🚯 [Dodging responsibility be like....](http://9gag.com/gag/aRXY21y)<!-- MEMES:END -->
 
 --- 
 
