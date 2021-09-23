@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Facts](http://9gag.com/gag/aGpWMNG)
- - 🚯 [Relatable much!?](http://9gag.com/gag/aAboK9R)
- - 🚯 [My life so far....](http://9gag.com/gag/awM6OWy)<!-- MEMES:END -->
+ - 🚖 [Relatable much!?](http://9gag.com/gag/aAboK9R)
+ - 🚯 [Get that corn outta my face...](http://9gag.com/gag/anQLvK5)
+ - 🚯 [Wasn&#039;t expecting that huh?](http://9gag.com/gag/a9E982o)<!-- MEMES:END -->
 
 --- 
 
