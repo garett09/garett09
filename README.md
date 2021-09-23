@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy S22 series: All the rumors in one place (Updated: Sept. 23)](https://www.androidauthority.com/samsung-galaxy-s22-1643006/)
- - [Analysis: Apple Silicon's GPU performance gains have averaged 19% YoY over the past five years, but the A15 Bionic jumped 52% (Ben Bajarin/Creative Strategies)](http://www.techmeme.com/210923/p1#a210923p1)
- - [iPad mini, iPhone 13 Pro delivery dates slip to late October in US](https://appleinsider.com/articles/21/09/23/ipad-mini-iphone-13-pro-delivery-dates-slip-to-late-october-in-us?utm_medium=rss)<!-- TECH:END -->
+ - [Singapore-based Cobo, which provides crypto custody and financial services, raises $40M Series B co-led by DST Global, A&T Capital, and IMO Ventures (Kate Park/TechCrunch)](http://www.techmeme.com/210923/p3#a210923p3)
+ - [Seattle-based Remitly, which lets users send and receive money across borders, raises $300M+ in its IPO at a valuation of nearly $7B (Taylor Soper/GeekWire)](http://www.techmeme.com/210923/p2#a210923p2)
+ - [Google Pixel 6: Everything we know so far (Updated: September 23)](https://www.androidauthority.com/google-pixel-6-1207778/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
