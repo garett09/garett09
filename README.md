@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [LGTV](http://9gag.com/gag/aXo5WDD)
- - 🚯 [Average BMW driver on highways](http://9gag.com/gag/aDdEbLw)
- - 🚯 [Ooof!](http://9gag.com/gag/agBP4wn)<!-- MEMES:END -->
+ - 🚖 [Don&#039;t mess with security](http://9gag.com/gag/aXo5Wv9)
+ - 🚯 [An unexpected tune.](http://9gag.com/gag/aWjwbrn)
+ - 🚯 [LGTV](http://9gag.com/gag/aXo5WDD)<!-- MEMES:END -->
 
 --- 
 
