@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - ['Who knows what the future holds' for Titanfall, say people who know what the future holds for Titanfall](https://www.pcgamer.com/titanfall-3-still-doesnt-exist)
  - [Check out some of Diablo 2: Resurrected's remastered enemies up close](https://www.pcgamer.com/check-out-some-of-diablo-2-resurrecteds-remastered-enemies-up-close)
- - [Minecraft Dungeons is now available on Steam](https://www.pcgamer.com/minecraft-dungeons-is-now-available-on-steam)
- - [NBA 2K22: The Kotaku Review](https://kotaku.com/nba-2k22-the-kotaku-review-1847662757)<!-- GAME:END -->
+ - [Minecraft Dungeons is now available on Steam](https://www.pcgamer.com/minecraft-dungeons-is-now-available-on-steam)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
