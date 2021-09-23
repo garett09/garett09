@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - ['Who knows what the future holds' for Titanfall, say people who know what the future holds for Titanfall](https://www.pcgamer.com/titanfall-3-still-doesnt-exist)
- - [Check out some of Diablo 2: Resurrected's remastered enemies up close](https://www.pcgamer.com/check-out-some-of-diablo-2-resurrecteds-remastered-enemies-up-close)
- - [Minecraft Dungeons is now available on Steam](https://www.pcgamer.com/minecraft-dungeons-is-now-available-on-steam)<!-- GAME:END -->
+ - [Minecraft Dungeons Launches on Steam](https://news.xbox.com/en-us/2021/09/23/minecraft-dungeons-launches-on-steam/)
+ - [The best gaming laptops in Australia for 2021](https://www.pcgamer.com/the-best-gaming-laptops-in-australia-for-2021)
+ - ['Who knows what the future holds' for Titanfall, say people who know what the future holds for Titanfall](https://www.pcgamer.com/titanfall-3-still-doesnt-exist)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
