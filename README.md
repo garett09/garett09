@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Xiaomi is launching a new smartphone series on Sept. 27 (Update: New renders)](https://www.androidauthority.com/xiaomi-civi-launch-3028446/)
  - [LG is acquiring Israeli startup Cybellum, which detects and assesses vulnerabilities in connected vehicles, for around $240M (Ingrid Lunden/TechCrunch)](http://www.techmeme.com/210923/p5#a210923p5)
- - [No shady workarounds needed: YouTube now lets you download videos on desktop](https://www.androidauthority.com/youtube-download-videos-3029041/)
- - [US federal judge orders Facebook to hand over records on posts removed for promoting violence against Rohingya Muslims in Myanmar (Aruna Viswanatha/Wall Street Journal)](http://www.techmeme.com/210923/p4#a210923p4)<!-- TECH:END -->
+ - [No shady workarounds needed: YouTube now lets you download videos on desktop](https://www.androidauthority.com/youtube-download-videos-3029041/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
