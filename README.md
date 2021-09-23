@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Iron Ox, an autonomous farming startup, raises $53M Series C led by Breakthrough Energy Ventures, bringing its total raised to $98M (Kyt Dotson/SiliconANGLE)](http://www.techmeme.com/210922/p56#a210922p56)
- - [Elizabeth Holmes ‘was in charge’ of Theranos, says Gen. Mattis](https://www.theverge.com/2021/9/22/22689083/elizabeth-holmes-trial-james-mattis-testimony-theranos-fraud)
- - [StoreKit 2 in iOS 15 delivers better customer service experience](https://appleinsider.com/articles/21/09/23/storekit-2-in-ios-15-delivers-better-customer-service-experience?utm_medium=rss)<!-- TECH:END -->
+ - [iPad mini, iPhone 13 Pro delivery dates slip to late October in US](https://appleinsider.com/articles/21/09/23/ipad-mini-iphone-13-pro-delivery-dates-slip-to-late-october-in-us?utm_medium=rss)
+ - [StoreKit 2 in iOS 15 delivers better customer service experience](https://appleinsider.com/articles/21/09/23/storekit-2-in-ios-15-delivers-better-customer-service-experience?utm_medium=rss)
+ - [Iron Ox, an autonomous farming startup, raises $53M Series C led by Breakthrough Energy Ventures, bringing its total raised to $98M (Kyt Dotson/SiliconANGLE)](http://www.techmeme.com/210922/p56#a210922p56)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
