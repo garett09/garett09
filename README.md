@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple didn't start with a goal for Cinematic Mode, but worked hard to get it right](https://appleinsider.com/articles/21/09/23/apple-didnt-start-with-a-goal-for-cinematic-mode-but-worked-hard-to-get-it-right?utm_medium=rss)
- - [How the Microsoft Surface Pro 8 stacks up to the Surface Laptop Studio, Go 3, and more](https://www.theverge.com/2021/9/23/22688116/surface-pro-8-go-3-laptop-studio-4-spec-gpu-power-features)
- - [Best Deals September 23 - Up to $70 off Beats products, $200 off Surface Pro 7, and more!](https://appleinsider.com/articles/21/09/23/best-deals-september-23---up-to-70-off-beats-products-200-off-surface-pro-7-and-more?utm_medium=rss)<!-- TECH:END -->
+ - [Samsung’s new Galaxy Watch 4 is $20 off and comes with a free wireless charger today](https://www.theverge.com/good-deals/2021/9/23/22689418/samsung-galaxy-watch-4-kindle-paperwhite-galaxy-buds-2-apple-magsafe-duo-oculus-quest-2-deal-sale)
+ - [Cyberpunk 2077 team hiring developer for upcoming project](https://techncruncher.blogspot.com/2021/09/cyberpunk-2077-team-hiring-developer.html)
+ - [China driving stronger year-over-year iPhone 13 demand, analyst says](https://appleinsider.com/articles/21/09/23/china-driving-stronger-year-over-year-iphone-13-demand-analyst-says?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
