@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Top 5 Tips to Becoming a Zombie-Slaying Master in World War Z: Aftermath](https://news.xbox.com/en-us/2021/09/23/top-5-tips-world-war-z-aftermath/)
- - [After Wario and Waluigi, where does Nintendo’s Wa Universe go next?](https://www.polygon.com/wario/22689793/wario-waluigi-watoad-wapeach-wadaisy-nintendo)
- - [The Yawning Portal D&D terrain is an over-the-top modular toy playset, and also I love it](https://www.polygon.com/22689939/dungeons-dragons-yawning-portal-inn-wizkids-terrain-review-photos-playset-release-date-price)<!-- GAME:END -->
+ - [Star Wars needs more non-human heroes](https://www.polygon.com/star-wars/22690344/star-wars-visions-humans-vs-aliens)
+ - [Gloomhaven, the digital version of the acclaimed board game, leaves Early Access on October 20](https://www.pcgamer.com/gloomhaven-the-digital-version-of-the-acclaimed-board-game-leaves-early-access-on-october-20)
+ - [Easy Anti-Cheat now supports the Steam Deck](https://www.pcgamer.com/easy-anti-cheat-now-supports-the-steam-deck)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
