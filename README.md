@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 13 Pro not a perfect fit with MagSafe Duo, but charging is unaffected](https://appleinsider.com/articles/21/09/23/iphone-13-pro-not-a-perfect-fit-with-magsafe-duo-but-charging-is-unaffected?utm_medium=rss)
- - [Microsoft says the original Surface Duo will get Android 11 before the end of the year](https://www.theverge.com/2021/9/23/22690003/microsoft-surface-duo-android-11-update-release-date)
- - [China driving stronger year-over-year iPhone 13 demand, analyst says](https://appleinsider.com/articles/21/09/23/china-driving-stronger-year-over-year-iphone-13-demand-analyst-says?utm_medium=rss)<!-- TECH:END -->
+ - [Everything we know about Picard season 2: Air date, cast, rumors, and more](https://www.androidauthority.com/star-trek-picard-season-2-paramount-plus-3024253/)
+ - [Sources: German grocery delivery startup Gorillas raised $950M Series C led by delivery company Delivery Hero, at a valuation of $3B (The Information)](http://www.techmeme.com/210923/p34#a210923p34)
+ - [How to get ready to upgrade to your new iPhone 13](https://appleinsider.com/articles/21/09/23/how-to-get-ready-to-upgrade-to-your-new-iphone-13?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
