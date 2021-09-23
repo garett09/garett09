@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Trucker had to do something to the bully](http://9gag.com/gag/aYo21QO)
- - 🚯 [Easy mode](http://9gag.com/gag/aDdEVDd)
- - 🚯 [An unexpected tune.](http://9gag.com/gag/aWjwbrn)<!-- MEMES:END -->
+ - 🚖 [They asked for a drink on the other building and she delivered](http://9gag.com/gag/aXo5266)
+ - 🚯 [Fyi](http://9gag.com/gag/aP3KXdn)
+ - 🚯 [Trucker had to do something to the bully](http://9gag.com/gag/aYo21QO)<!-- MEMES:END -->
 
 --- 
 
