@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Many Google Pixel 6 and 6 Pro camera features leak, here’s what you can expect](https://www.androidauthority.com/google-pixel-6-pro-camera-features-3029577/)
- - [Apple's Tim Cook to headline fundraising dinner for LGBTQ+ nonprofit](https://appleinsider.com/articles/21/09/23/apples-tim-cook-to-headline-fundraising-dinner-for-lgbtq-nonprofit?utm_medium=rss)
- - [Apple releases iOS 12.5.5 and a macOS Catalina security update to fix zero-day vulnerabilities in CoreGraphics, WebKit, and XNU (Sergiu Gatlan/BleepingComputer)](http://www.techmeme.com/210923/p35#a210923p35)<!-- TECH:END -->
+ - [How to pair Bluetooth headphones with your Nintendo Switch](https://www.theverge.com/22690100/how-to-pair-bluetooth-wireless-headphones-earbuds-nintendo-switch)
+ - [Babies’ poop has way higher levels of microplastic than adults’](https://www.theverge.com/2021/9/23/22689941/babies-infants-poop-microplastics)
+ - [New York City passes bills establishing minimum pay and worker protections for app-based couriers, including those working for Grubhub, Uber, and DoorDash (Bloomberg)](http://www.techmeme.com/210923/p37#a210923p37)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
