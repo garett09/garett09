@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Rashida Jones, David Oyelowo join cast of Apple TV+ original 'Wool'](https://appleinsider.com/articles/21/09/22/rashida-jones-david-oyelowo-join-cast-of-apple-tv-original-wool?utm_medium=rss)
- - [Ford partners with Redwood Materials on EV battery recycling, local manufacturing     - Roadshow](https://www.cnet.com/roadshow/news/ford-partners-with-redwood-materials-on-ev-battery-recycling-local-manufacturing/#ftag=CAD590a51e)
- - [Researchers say an Exchange Autodiscover bug can be used to obtain Windows users' domain and app credentials; Microsoft is investigating (Catalin Cimpanu/The Record)](http://www.techmeme.com/210922/p50#a210922p50)<!-- TECH:END -->
+ - [How to stream lossless audio to HomePod](https://appleinsider.com/articles/21/09/22/how-to-stream-lossless-audio-to-homepod?utm_medium=rss)
+ - [Sources: Biden plans to nominate Cornell law professor and cryptocurrency critic Saule Omarova to run the Office of the Comptroller of the Currency (Bloomberg)](http://www.techmeme.com/210922/p53#a210922p53)
+ - [FDA clears Pfizer COVID-19 vaccine boosters for vulnerable groups](https://www.theverge.com/2021/9/22/22679950/fda-covid-vaccine-booster-pfizer-older-adults)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
