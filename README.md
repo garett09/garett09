@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spenmo, a Singapore-based provider of automated bill payments software and corporate cards for SMBs, raises $34M Series A led by Insight Partners (Catherine Shu/TechCrunch)](http://www.techmeme.com/210922/p55#a210922p55)
- - [iPhone 13's Cinematic mode shown off in music video](https://appleinsider.com/articles/21/09/23/iphone-13s-cinematic-mode-shown-off-in-music-video?utm_medium=rss)
- - [Rashida Jones, David Oyelowo join cast of Apple TV+ original 'Wool'](https://appleinsider.com/articles/21/09/22/rashida-jones-david-oyelowo-join-cast-of-apple-tv-original-wool?utm_medium=rss)<!-- TECH:END -->
+ - [StoreKit 2 in iOS 15 delivers better customer service experience](https://appleinsider.com/articles/21/09/23/storekit-2-in-ios-15-delivers-better-customer-service-experience?utm_medium=rss)
+ - [Samsung Galaxy Watch 4 Classic Thom Browne Edition is out on its own, but pricey](https://www.androidauthority.com/samsung-galaxy-watch-4-classic-thom-browne-edition-3028721/)
+ - [Spenmo, a Singapore-based provider of automated bill payments software and corporate cards for SMBs, raises $34M Series A led by Insight Partners (Catherine Shu/TechCrunch)](http://www.techmeme.com/210922/p55#a210922p55)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
