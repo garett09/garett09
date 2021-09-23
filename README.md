@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [David Goyer on adapting Foundation for Apple TV+](http://feedproxy.google.com/~r/PSBlog/~3/9LHpMZUVIoI/)
- - [David Goyer on adapting Foundation for Apple TV+](https://blog.playstation.com/2021/09/23/david-goyer-on-adapting-foundation-for-apple-tv/)
- - [Free Play Days: Monster Energy Supercross – The Official Video Game 4, Outward, and Golf with Your Friends](https://news.xbox.com/en-us/2021/09/23/free-play-days-monster-energy-supercross-4-outward-and-golf-with-your-friends/)<!-- GAME:END -->
+ - [Being a disembodied hand won't stop this cop from dealing out justice](https://www.pcgamer.com/being-a-disembodied-hand-wont-stop-this-cop-from-dealing-out-justice)
+ - [The Last of Us Day is upon us: Celebrate with new wearables and more at the PlayStation Gear Store](http://feedproxy.google.com/~r/PSBlog/~3/G1SkXhOFGec/)
+ - [The Last of Us Day is upon us: Celebrate with new wearables and more at the PlayStation Gear Store](https://blog.playstation.com/2021/09/23/the-last-of-us-day-is-upon-us-celebrate-with-new-wearables-and-more-at-the-playstation-gear-store/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
