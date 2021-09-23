@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Nintendo Direct September 2021: All the news and announcements](https://www.polygon.com/22689457/nintendo-direct-september-2021-news-announcements)
- - [Diablo 2 Dev Explains Why The Loot System Wasn’t Updated At Launch](https://kotaku.com/diablo-2-dev-explains-why-the-loot-system-wasn-t-update-1847734454)
- - [Star Wars needs more non-human heroes](https://www.polygon.com/star-wars/22690344/star-wars-visions-humans-vs-aliens)<!-- GAME:END -->
+ - [Announcing Voice of Cards: The Isle Dragon Roars](http://feedproxy.google.com/~r/PSBlog/~3/_cmhPl7WvNg/)
+ - [Dual-genre remaster Actraiser Renaissance out today](http://feedproxy.google.com/~r/PSBlog/~3/U79aBR0grok/)
+ - [Announcing Voice of Cards: The Isle Dragon Roars](https://blog.playstation.com/2021/09/23/announcing-voice-of-cards-the-isle-dragon-roars/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
