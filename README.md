@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [We're Just Never Getting Another Titanfall, Are We](https://kotaku.com/were-just-never-getting-another-titanfall-are-we-1847727356)
- - [Blood Bowl 3's Early Access launch has been delayed](https://www.pcgamer.com/blood-bowl-3s-early-access-launch-has-been-delayed)
- - [Genshin Impact's anniversary event is really stingy, and players are pissed](https://www.pcgamer.com/genshin-impacts-anniversary-event-is-really-stingy-and-players-are-pissed)<!-- GAME:END -->
+ - [Minecraft Dungeons is now available on Steam](https://www.pcgamer.com/minecraft-dungeons-is-now-available-on-steam)
+ - [NBA 2K22: The Kotaku Review](https://kotaku.com/nba-2k22-the-kotaku-review-1847662757)
+ - [Here's a fan-made Resident Evil 1 remake in first-person](https://www.pcgamer.com/heres-a-fan-made-resident-evil-1-remake-in-first-person)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
