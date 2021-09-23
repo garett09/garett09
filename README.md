@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [There's a gaming PC hidden inside this incredible gaming den diorama](https://www.pcgamer.com/theres-a-gaming-pc-hidden-inside-this-incredible-gaming-den-diorama)
- - [The best gaming monitors in 2021](https://www.pcgamer.com/best-gaming-monitor)
- - [The Long Dark's next chapter is a frozen prison drama](https://www.pcgamer.com/the-long-darks-next-chapter-is-a-frozen-prison-drama)<!-- GAME:END -->
+ - [Destiny 2 is down for maintenance this morning](https://www.polygon.com/22688407/destiny-2-down-unavailable-error-code-maintenance)
+ - [Death Stranding: Director’s Cut has finally made me a believer](https://www.polygon.com/reviews/22688402/death-stranding-directors-cut-review-ps5-changes)
+ - [Japanese Esports Team Is Filled With Senior Citizens](https://kotaku.com/japanese-esports-team-is-filled-with-senior-citizens-1847729104)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
