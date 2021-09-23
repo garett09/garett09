@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Save 30% on the Garmin Vivoactive 4, and more great fitness tracker deals](https://www.androidauthority.com/best-cheap-fitness-tracker-deals-1113532/)
- - [You’re not allowed to use the Apple Watch Series 7’s secret wireless dock](https://www.theverge.com/2021/9/23/22690061/apple-watch-series-7-wireless-dock-data-transfer-port-free)
- - [Apple patches iOS zero-day vulnerability exploited by Pegasus spyware](https://appleinsider.com/articles/21/09/23/apple-patches-ios-zero-day-vulnerability-exploited-by-pegasus-spyware?utm_medium=rss)<!-- TECH:END -->
+ - [A look at the opposition by South African indigenous groups to Amazon's planned $350M Cape Town HQ, which some say is being built on sacred land (Wall Street Journal)](http://www.techmeme.com/210923/p39#a210923p39)
+ - [Nintendo Direct: the biggest announcements and trailers](https://www.theverge.com/2021/9/23/22689462/nintendo-direct-september-2021-trailers-announcements)
+ - [Initial iPhone 13 preorders begin to arrive as customers line up at Apple Stores](https://appleinsider.com/articles/21/09/23/initial-iphone-13-preorders-begin-to-arrive-as-customers-line-up-at-apple-stores?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
