@@ -187,8 +187,8 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung’s new Galaxy Watch 4 is $20 off and comes with a free wireless charger today](https://www.theverge.com/good-deals/2021/9/23/22689418/samsung-galaxy-watch-4-kindle-paperwhite-galaxy-buds-2-apple-magsafe-duo-oculus-quest-2-deal-sale)
- - [Cyberpunk 2077 team hiring developer for upcoming project](https://techncruncher.blogspot.com/2021/09/cyberpunk-2077-team-hiring-developer.html)
+ - [Twitter integrates Strike's wallet to let users receive tips in bitcoin, rolls out Tips globally on iOS, and will explore support for NFT authentication (Sarah Perez/TechCrunch)](http://www.techmeme.com/210923/p32#a210923p32)
+ - [Catch the series premiere of 'Foundation,' next episode of 'Ted Lasso' early](https://appleinsider.com/articles/21/09/23/catch-the-series-premiere-of-foundation-next-episode-of-ted-lasso-early?utm_medium=rss)
  - [China driving stronger year-over-year iPhone 13 demand, analyst says](https://appleinsider.com/articles/21/09/23/china-driving-stronger-year-over-year-iphone-13-demand-analyst-says?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
