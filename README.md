@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Yes](http://9gag.com/gag/aK6rey3)
- - 🚯 [An unexpected tune.](http://9gag.com/gag/aWjwbrn)
- - 🚯 [Dodging responsibility be like....](http://9gag.com/gag/aRXY21y)<!-- MEMES:END -->
+ - 🚖 [Trucker had to do something to the bully](http://9gag.com/gag/aYo21QO)
+ - 🚯 [Easy mode](http://9gag.com/gag/aDdEVDd)
+ - 🚯 [An unexpected tune.](http://9gag.com/gag/aWjwbrn)<!-- MEMES:END -->
 
 --- 
 
