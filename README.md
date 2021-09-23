@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Facebook is starting to share more about what it demotes in News Feed](https://www.theverge.com/2021/9/23/22688840/facebook-releases-content-distribution-guidelines-for-news-feed)
- - [This WhatsApp feature lets users quickly access important messages](https://techncruncher.blogspot.com/2021/09/this-whatsapp-feature-lets-users.html)
- - [Xiaomi is launching a new smartphone series on Sept. 27 (Update: New renders)](https://www.androidauthority.com/xiaomi-civi-launch-3028446/)<!-- TECH:END -->
+ - [Despite passing a tough hate speech law, researchers say social networks in Germany are flooded with hate speech and harassment ahead of an election on Sept. 26 (Adam Satariano/New York Times)](http://www.techmeme.com/210923/p10#a210923p10)
+ - [Why these Facebook research scandals are different](https://www.theverge.com/2021/9/23/22688976/facebook-research-scandals)
+ - [Australia bank CEO mocks Apple's claim of being pro-competition](https://appleinsider.com/articles/21/09/23/australia-bank-ceo-mocks-apples-claim-of-being-pro-competition?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
