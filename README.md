@@ -187,8 +187,8 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitter integrates Strike's wallet to let users receive tips in bitcoin, rolls out Tips globally on iOS, and will explore support for NFT authentication (Sarah Perez/TechCrunch)](http://www.techmeme.com/210923/p32#a210923p32)
- - [Catch the series premiere of 'Foundation,' next episode of 'Ted Lasso' early](https://appleinsider.com/articles/21/09/23/catch-the-series-premiere-of-foundation-next-episode-of-ted-lasso-early?utm_medium=rss)
+ - [iPhone 13 Pro not a perfect fit with MagSafe Duo, but charging is unaffected](https://appleinsider.com/articles/21/09/23/iphone-13-pro-not-a-perfect-fit-with-magsafe-duo-but-charging-is-unaffected?utm_medium=rss)
+ - [Microsoft says the original Surface Duo will get Android 11 before the end of the year](https://www.theverge.com/2021/9/23/22690003/microsoft-surface-duo-android-11-update-release-date)
  - [China driving stronger year-over-year iPhone 13 demand, analyst says](https://appleinsider.com/articles/21/09/23/china-driving-stronger-year-over-year-iphone-13-demand-analyst-says?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
