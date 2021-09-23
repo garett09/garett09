@@ -194,8 +194,8 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What can i say..](http://9gag.com/gag/a6EAn6e)
- - 🚯 [Blblblblbl](http://9gag.com/gag/aNp6Q26)
+ - 🚖 [Blblblblbl](http://9gag.com/gag/aNp6Q26)
+ - 🚯 [Avril Lavinge is like a fine wine](http://9gag.com/gag/aQo0m6e)
  - 🚯 [Facts](http://9gag.com/gag/aGpWMNG)<!-- MEMES:END -->
 
 --- 
