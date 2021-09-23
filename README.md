@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Frantic Multiplayer Firefighting Game Embr is Available Now](https://news.xbox.com/en-us/2021/09/23/frantic-multiplayer-firefighting-game-embr-available-now/)
- - [Nickelodeon All-Star Brawl might be a High Tier crossover](https://www.polygon.com/videos/22686128/nickelodeon-all-star-brawl-tier-list-crossovers)
- - [The Dark Knight’s David S. Goyer had 4 principles for bringing Foundation to Apple TV](https://www.polygon.com/22689735/foundation-apple-tv-episodes-8-seasons-david-goyer-interview)<!-- GAME:END -->
+ - [Top 5 Tips to Becoming a Zombie-Slaying Master in World War Z: Aftermath](https://news.xbox.com/en-us/2021/09/23/top-5-tips-world-war-z-aftermath/)
+ - [After Wario and Waluigi, where does Nintendo’s Wa Universe go next?](https://www.polygon.com/wario/22689793/wario-waluigi-watoad-wapeach-wadaisy-nintendo)
+ - [The Yawning Portal D&D terrain is an over-the-top modular toy playset, and also I love it](https://www.polygon.com/22689939/dungeons-dragons-yawning-portal-inn-wizkids-terrain-review-photos-playset-release-date-price)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
