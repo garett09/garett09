@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Death Stranding Director's Cut's Save Transfer System Is Kojima At His Best](https://kotaku.com/death-stranding-directors-cuts-save-transfer-system-is-1847731730)
- - [Is Wario a fashion icon? We asked an expert](https://www.polygon.com/wario/22688227/wario-hat-costume-fashion-essential-man)
- - [Gaming for Inclusion Event Brings Special Olympics Athletes Together for Esports Fun and Competition](https://news.xbox.com/en-us/2021/09/23/gaming-for-inclusion-event-brings-special-olympics-athletes-together-for-esports-fun-and-competition/)<!-- GAME:END -->
+ - [Frantic Multiplayer Firefighting Game Embr is Available Now](https://news.xbox.com/en-us/2021/09/23/frantic-multiplayer-firefighting-game-embr-available-now/)
+ - [Nickelodeon All-Star Brawl might be a High Tier crossover](https://www.polygon.com/videos/22686128/nickelodeon-all-star-brawl-tier-list-crossovers)
+ - [The Dark Knight’s David S. Goyer had 4 principles for bringing Foundation to Apple TV](https://www.polygon.com/22689735/foundation-apple-tv-episodes-8-seasons-david-goyer-interview)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
