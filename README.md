@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Sable: The Inspiration Behind the Game and How to Get Started](https://news.xbox.com/en-us/2021/09/23/sable-the-inspiration-behind-the-game-and-how-to-get-started/)
- - [How to watch the September 2021 Nintendo Direct](https://www.polygon.com/22688038/nintendo-direct-september-2021-how-to-watch-streaming-twitch-youtube)
- - [Nintendo Accidentally Leaks Next Kirby Game, Coming Spring 2022](https://kotaku.com/nintendo-accidentally-leaks-next-kirby-game-coming-spr-1847731501)<!-- GAME:END -->
+ - [Death Stranding Director's Cut's Save Transfer System Is Kojima At His Best](https://kotaku.com/death-stranding-directors-cuts-save-transfer-system-is-1847731730)
+ - [Is Wario a fashion icon? We asked an expert](https://www.polygon.com/wario/22688227/wario-hat-costume-fashion-essential-man)
+ - [Gaming for Inclusion Event Brings Special Olympics Athletes Together for Esports Fun and Competition](https://news.xbox.com/en-us/2021/09/23/gaming-for-inclusion-event-brings-special-olympics-athletes-together-for-esports-fun-and-competition/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
