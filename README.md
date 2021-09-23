@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Don&#039;t mess with security](http://9gag.com/gag/aXo5Wv9)
+ - 🚖 [Yes](http://9gag.com/gag/aK6rey3)
  - 🚯 [An unexpected tune.](http://9gag.com/gag/aWjwbrn)
- - 🚯 [LGTV](http://9gag.com/gag/aXo5WDD)<!-- MEMES:END -->
+ - 🚯 [Dodging responsibility be like....](http://9gag.com/gag/aRXY21y)<!-- MEMES:END -->
 
 --- 
 
