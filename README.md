@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Blblblblbl](http://9gag.com/gag/aNp6Q26)
+ - 🚖 [Facts](http://9gag.com/gag/aGpWMNG)
  - 🚯 [Avril Lavinge is like a fine wine](http://9gag.com/gag/aQo0m6e)
- - 🚯 [Facts](http://9gag.com/gag/aGpWMNG)<!-- MEMES:END -->
+ - 🚯 [I was watching this video and thinking that &quot;the US is a freak show&quot;. Then I turned the sound on and realized this is from Germany - ((sad European noises)). Please Germany, don&#039;t become like the US.](http://9gag.com/gag/aRXYMmA)<!-- MEMES:END -->
 
 --- 
 
