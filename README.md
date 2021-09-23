@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Everything we know about Picard season 2: Air date, cast, rumors, and more](https://www.androidauthority.com/star-trek-picard-season-2-paramount-plus-3024253/)
- - [Sources: German grocery delivery startup Gorillas raised $950M Series C led by delivery company Delivery Hero, at a valuation of $3B (The Information)](http://www.techmeme.com/210923/p34#a210923p34)
- - [How to get ready to upgrade to your new iPhone 13](https://appleinsider.com/articles/21/09/23/how-to-get-ready-to-upgrade-to-your-new-iphone-13?utm_medium=rss)<!-- TECH:END -->
+ - [Many Google Pixel 6 and 6 Pro camera features leak, here’s what you can expect](https://www.androidauthority.com/google-pixel-6-pro-camera-features-3029577/)
+ - [Apple's Tim Cook to headline fundraising dinner for LGBTQ+ nonprofit](https://appleinsider.com/articles/21/09/23/apples-tim-cook-to-headline-fundraising-dinner-for-lgbtq-nonprofit?utm_medium=rss)
+ - [Apple releases iOS 12.5.5 and a macOS Catalina security update to fix zero-day vulnerabilities in CoreGraphics, WebKit, and XNU (Sergiu Gatlan/BleepingComputer)](http://www.techmeme.com/210923/p35#a210923p35)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
