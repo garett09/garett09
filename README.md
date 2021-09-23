@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to pair Bluetooth headphones with your Nintendo Switch](https://www.theverge.com/22690100/how-to-pair-bluetooth-wireless-headphones-earbuds-nintendo-switch)
- - [Babies’ poop has way higher levels of microplastic than adults’](https://www.theverge.com/2021/9/23/22689941/babies-infants-poop-microplastics)
- - [New York City passes bills establishing minimum pay and worker protections for app-based couriers, including those working for Grubhub, Uber, and DoorDash (Bloomberg)](http://www.techmeme.com/210923/p37#a210923p37)<!-- TECH:END -->
+ - [Save 30% on the Garmin Vivoactive 4, and more great fitness tracker deals](https://www.androidauthority.com/best-cheap-fitness-tracker-deals-1113532/)
+ - [You’re not allowed to use the Apple Watch Series 7’s secret wireless dock](https://www.theverge.com/2021/9/23/22690061/apple-watch-series-7-wireless-dock-data-transfer-port-free)
+ - [Apple patches iOS zero-day vulnerability exploited by Pegasus spyware](https://appleinsider.com/articles/21/09/23/apple-patches-ios-zero-day-vulnerability-exploited-by-pegasus-spyware?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
