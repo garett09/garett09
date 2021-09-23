@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Destiny 2 is down for maintenance this morning](https://www.polygon.com/22688407/destiny-2-down-unavailable-error-code-maintenance)
- - [Death Stranding: Director’s Cut has finally made me a believer](https://www.polygon.com/reviews/22688402/death-stranding-directors-cut-review-ps5-changes)
- - [Japanese Esports Team Is Filled With Senior Citizens](https://kotaku.com/japanese-esports-team-is-filled-with-senior-citizens-1847729104)<!-- GAME:END -->
+ - [Dive into the Depths in Sea of Thieves Season Four](https://news.xbox.com/en-us/2021/09/23/dive-into-the-depths-in-sea-of-thieves-season-four/)
+ - [The race to save Kirk and Spock’s fanfiction legacy](https://www.polygon.com/features/22684381/kirk-spock-fanfic-archive-of-our-own-star-trek)
+ - [Running out of room for your games? Add more storage with this 2TB SSD for $165](https://www.pcgamer.com/running-out-of-room-for-your-games-add-more-storage-with-this-2tb-ssd-for-dollar165)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
