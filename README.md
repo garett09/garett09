@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Relatable much!?](http://9gag.com/gag/aAboK9R)
- - 🚯 [Get that corn outta my face...](http://9gag.com/gag/anQLvK5)
- - 🚯 [Wasn&#039;t expecting that huh?](http://9gag.com/gag/a9E982o)<!-- MEMES:END -->
+ - 🚖 [Avril Lavinge is like a fine wine](http://9gag.com/gag/aQo0m6e)
+ - 🚯 [I wish there was one and they&rsquo;d go](http://9gag.com/gag/ajmoZNQ)
+ - 🚯 [Here . With the audio!!](http://9gag.com/gag/awM6LLB)<!-- MEMES:END -->
 
 --- 
 
