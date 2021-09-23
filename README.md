@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Being a disembodied hand won't stop this cop from dealing out justice](https://www.pcgamer.com/being-a-disembodied-hand-wont-stop-this-cop-from-dealing-out-justice)
- - [The Last of Us Day is upon us: Celebrate with new wearables and more at the PlayStation Gear Store](http://feedproxy.google.com/~r/PSBlog/~3/G1SkXhOFGec/)
- - [The Last of Us Day is upon us: Celebrate with new wearables and more at the PlayStation Gear Store](https://blog.playstation.com/2021/09/23/the-last-of-us-day-is-upon-us-celebrate-with-new-wearables-and-more-at-the-playstation-gear-store/)<!-- GAME:END -->
+ - [Sable: The Inspiration Behind the Game and How to Get Started](https://news.xbox.com/en-us/2021/09/23/sable-the-inspiration-behind-the-game-and-how-to-get-started/)
+ - [How to watch the September 2021 Nintendo Direct](https://www.polygon.com/22688038/nintendo-direct-september-2021-how-to-watch-streaming-twitch-youtube)
+ - [Nintendo Accidentally Leaks Next Kirby Game, Coming Spring 2022](https://kotaku.com/nintendo-accidentally-leaks-next-kirby-game-coming-spr-1847731501)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
