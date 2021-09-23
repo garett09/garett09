@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [In setback for Apple, EU plans one mobile charging port for all](https://techncruncher.blogspot.com/2021/09/in-setback-for-apple-eu-plans-one.html)
- - [London-based Vyne, which works with merchants to build open banking payment services, raises $15.5M seed from Hearst and others (Ingrid Lunden/TechCrunch)](http://www.techmeme.com/210923/p20#a210923p20)
- - [Plugable's Thunderbolt 4 Hub offers a 'pure USB-C' design](https://appleinsider.com/articles/21/09/23/plugables-thunderbolt-4-hub-offers-a-pure-usb-c-design?utm_medium=rss)<!-- TECH:END -->
+ - [Deal alert: 1-year Sam's Club membership discounted to $19.99 + free food](https://appleinsider.com/articles/21/09/22/deal-alert-1-year-sams-club-membership-discounted-to-1999-free-food?utm_medium=rss)
+ - [Jake Gyllenhaal on the challenges of acting over Zoom in Netflix’s thriller The Guilty](https://www.theverge.com/2021/9/23/22688411/netflix-the-guilty-interview-jake-gyllenhaal-antoine-fuqua-zoom-facetime)
+ - [I wish Microsoft made an Xbox or Surface gaming laptop](https://www.theverge.com/22689352/microsoft-surface-xbox-laptop-pc-gaming)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
