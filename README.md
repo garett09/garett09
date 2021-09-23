@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [You already know it](http://9gag.com/gag/a8EBV76)
- - 🚯 [Advice from a super interesting](http://9gag.com/gag/aP3KnvK)
- - 🚯 [The mental gymnastics of some women...](http://9gag.com/gag/a1rGOEY)<!-- MEMES:END -->
+ - 🚖 [Facts](http://9gag.com/gag/aQo0yOK)
+ - 🚯 [The mental gymnastics of some women...](http://9gag.com/gag/a1rGOEY)
+ - 🚯 [After the election](http://9gag.com/gag/a4EDwPw)<!-- MEMES:END -->
 
 --- 
 
