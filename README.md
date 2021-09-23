@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Remembering Android 1.0: When a fledgling mobile OS took its first steps](https://www.androidauthority.com/android-1-0-3028250/)
- - [EU proposing USB-C smartphone charger standard](https://appleinsider.com/articles/21/09/23/eu-proposing-usb-c-smartphone-charger-standard?utm_medium=rss)
- - [In This Monopoly-Style Game, Race and Privilege Are Currency](https://www.wired.com/story/blacks-and-whites-board-game-race-privilege)<!-- TECH:END -->
+ - [In setback for Apple, EU plans one mobile charging port for all](https://techncruncher.blogspot.com/2021/09/in-setback-for-apple-eu-plans-one.html)
+ - [London-based Vyne, which works with merchants to build open banking payment services, raises $15.5M seed from Hearst and others (Ingrid Lunden/TechCrunch)](http://www.techmeme.com/210923/p20#a210923p20)
+ - [Plugable's Thunderbolt 4 Hub offers a 'pure USB-C' design](https://appleinsider.com/articles/21/09/23/plugables-thunderbolt-4-hub-offers-a-pure-usb-c-design?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
