@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Singapore-based Cobo, which provides crypto custody and financial services, raises $40M Series B co-led by DST Global, A&T Capital, and IMO Ventures (Kate Park/TechCrunch)](http://www.techmeme.com/210923/p3#a210923p3)
- - [Seattle-based Remitly, which lets users send and receive money across borders, raises $300M+ in its IPO at a valuation of nearly $7B (Taylor Soper/GeekWire)](http://www.techmeme.com/210923/p2#a210923p2)
- - [Google Pixel 6: Everything we know so far (Updated: September 23)](https://www.androidauthority.com/google-pixel-6-1207778/)<!-- TECH:END -->
+ - [LG is acquiring Israeli startup Cybellum, which detects and assesses vulnerabilities in connected vehicles, for around $240M (Ingrid Lunden/TechCrunch)](http://www.techmeme.com/210923/p5#a210923p5)
+ - [No shady workarounds needed: YouTube now lets you download videos on desktop](https://www.androidauthority.com/youtube-download-videos-3029041/)
+ - [US federal judge orders Facebook to hand over records on posts removed for promoting violence against Rohingya Muslims in Myanmar (Aruna Viswanatha/Wall Street Journal)](http://www.techmeme.com/210923/p4#a210923p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
