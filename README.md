@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Genshin Impact's anniversary event is really stingy, and players are pissed](https://www.pcgamer.com/genshin-impacts-anniversary-event-is-really-stingy-and-players-are-pissed)
- - [PUBG player launches car like a medieval catapult, scores double kill](https://www.pcgamer.com/pubg-player-launches-car-like-a-medieval-catapult-scores-double-kill)
- - [Sable review](https://www.pcgamer.com/sable-review)<!-- GAME:END -->
+ - [We're Just Never Getting Another Titanfall, Are We](https://kotaku.com/were-just-never-getting-another-titanfall-are-we-1847727356)
+ - [Blood Bowl 3's Early Access launch has been delayed](https://www.pcgamer.com/blood-bowl-3s-early-access-launch-has-been-delayed)
+ - [Genshin Impact's anniversary event is really stingy, and players are pissed](https://www.pcgamer.com/genshin-impacts-anniversary-event-is-really-stingy-and-players-are-pissed)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
