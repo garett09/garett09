@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deal alert: 1-year Sam's Club membership discounted to $19.99 + free food](https://appleinsider.com/articles/21/09/22/deal-alert-1-year-sams-club-membership-discounted-to-1999-free-food?utm_medium=rss)
- - [Jake Gyllenhaal on the challenges of acting over Zoom in Netflix’s thriller The Guilty](https://www.theverge.com/2021/9/23/22688411/netflix-the-guilty-interview-jake-gyllenhaal-antoine-fuqua-zoom-facetime)
- - [I wish Microsoft made an Xbox or Surface gaming laptop](https://www.theverge.com/22689352/microsoft-surface-xbox-laptop-pc-gaming)<!-- TECH:END -->
+ - [Apple didn't start with a goal for Cinematic Mode, but worked hard to get it right](https://appleinsider.com/articles/21/09/23/apple-didnt-start-with-a-goal-for-cinematic-mode-but-worked-hard-to-get-it-right?utm_medium=rss)
+ - [How the Microsoft Surface Pro 8 stacks up to the Surface Laptop Studio, Go 3, and more](https://www.theverge.com/2021/9/23/22688116/surface-pro-8-go-3-laptop-studio-4-spec-gpu-power-features)
+ - [Best Deals September 23 - Up to $70 off Beats products, $200 off Surface Pro 7, and more!](https://appleinsider.com/articles/21/09/23/best-deals-september-23---up-to-70-off-beats-products-200-off-surface-pro-7-and-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
