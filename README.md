@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Yes, trash](http://9gag.com/gag/a07214v)
- - 🚯 [Faith in humanity](http://9gag.com/gag/a27n2bZ)
- - 🚯 [True...](http://9gag.com/gag/a5E8z6o)<!-- MEMES:END -->
+ - 🚖 [LGTV](http://9gag.com/gag/aXo5WDD)
+ - 🚯 [Average BMW driver on highways](http://9gag.com/gag/aDdEbLw)
+ - 🚯 [Ooof!](http://9gag.com/gag/agBP4wn)<!-- MEMES:END -->
 
 --- 
 
