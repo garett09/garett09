@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Facts](http://9gag.com/gag/aGpWMNG)
- - 🚯 [Been a long road to recovery, in more ways than one. But! 4 years clean from meth.](http://9gag.com/gag/aeAvO2m)
- - 🚯 [Wasn&#039;t expecting that huh?](http://9gag.com/gag/a9E982o)<!-- MEMES:END -->
+ - 🚖 [What can i say..](http://9gag.com/gag/a6EAn6e)
+ - 🚯 [Blblblblbl](http://9gag.com/gag/aNp6Q26)
+ - 🚯 [Facts](http://9gag.com/gag/aGpWMNG)<!-- MEMES:END -->
 
 --- 
 
