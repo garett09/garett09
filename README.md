@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dive into the Depths in Sea of Thieves Season Four](https://news.xbox.com/en-us/2021/09/23/dive-into-the-depths-in-sea-of-thieves-season-four/)
- - [The race to save Kirk and Spock’s fanfiction legacy](https://www.polygon.com/features/22684381/kirk-spock-fanfic-archive-of-our-own-star-trek)
- - [Running out of room for your games? Add more storage with this 2TB SSD for $165](https://www.pcgamer.com/running-out-of-room-for-your-games-add-more-storage-with-this-2tb-ssd-for-dollar165)<!-- GAME:END -->
+ - [How Breath of the Wild inspired Eastward’s cooking](https://www.polygon.com/interviews/22689519/eastward-breath-of-the-wild-zelda-cooking-mechanic-inspiration-interview)
+ - [Prepare to Venture Beyond the Void as Chorus Pre-orders Go Live](https://news.xbox.com/en-us/2021/09/23/prepare-to-venture-beyond-the-void-as-chorus-pre-orders-go-live/)
+ - [Chorus is a high-concept, AAA-quality space shooter that encourages exploration](https://www.polygon.com/22688609/chorus-space-shooter-preview-release-date-price)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
