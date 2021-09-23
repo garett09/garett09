@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Star Wars needs more non-human heroes](https://www.polygon.com/star-wars/22690344/star-wars-visions-humans-vs-aliens)
- - [Gloomhaven, the digital version of the acclaimed board game, leaves Early Access on October 20](https://www.pcgamer.com/gloomhaven-the-digital-version-of-the-acclaimed-board-game-leaves-early-access-on-october-20)
- - [Easy Anti-Cheat now supports the Steam Deck](https://www.pcgamer.com/easy-anti-cheat-now-supports-the-steam-deck)<!-- GAME:END -->
+ - [Nintendo Direct September 2021: All the news and announcements](https://www.polygon.com/22689457/nintendo-direct-september-2021-news-announcements)
+ - [Diablo 2 Dev Explains Why The Loot System Wasn’t Updated At Launch](https://kotaku.com/diablo-2-dev-explains-why-the-loot-system-wasn-t-update-1847734454)
+ - [Star Wars needs more non-human heroes](https://www.polygon.com/star-wars/22690344/star-wars-visions-humans-vs-aliens)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
