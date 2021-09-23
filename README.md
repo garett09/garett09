@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How Breath of the Wild inspired Eastward’s cooking](https://www.polygon.com/interviews/22689519/eastward-breath-of-the-wild-zelda-cooking-mechanic-inspiration-interview)
- - [Prepare to Venture Beyond the Void as Chorus Pre-orders Go Live](https://news.xbox.com/en-us/2021/09/23/prepare-to-venture-beyond-the-void-as-chorus-pre-orders-go-live/)
- - [Chorus is a high-concept, AAA-quality space shooter that encourages exploration](https://www.polygon.com/22688609/chorus-space-shooter-preview-release-date-price)<!-- GAME:END -->
+ - [David Goyer on adapting Foundation for Apple TV+](http://feedproxy.google.com/~r/PSBlog/~3/9LHpMZUVIoI/)
+ - [David Goyer on adapting Foundation for Apple TV+](https://blog.playstation.com/2021/09/23/david-goyer-on-adapting-foundation-for-apple-tv/)
+ - [Free Play Days: Monster Energy Supercross – The Official Video Game 4, Outward, and Golf with Your Friends](https://news.xbox.com/en-us/2021/09/23/free-play-days-monster-energy-supercross-4-outward-and-golf-with-your-friends/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
