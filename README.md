@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I was there 3000 years ago](http://9gag.com/gag/aRXYDbG)
- - 🚯 [This Jackie Chan stunt is insane](http://9gag.com/gag/anQLdn5)
- - 🚯 [It&#039;s tough out there when you come up short.](http://9gag.com/gag/aWjwdpn)<!-- MEMES:END -->
+ - 🚖 [That first time, when you truly realize what&rsquo;s happening](http://9gag.com/gag/amPEnb9)
+ - 🚯 [Chad poland](http://9gag.com/gag/abV9mY8)
+ - 🚯 [We need more of this in our life](http://9gag.com/gag/apNWde5)<!-- MEMES:END -->
 
 --- 
 
