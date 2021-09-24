@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft says the Surface Duo 2 will receive three years of updates](https://www.androidauthority.com/microsoft-surface-duo-2-updates-3029698/)
- - [EU's proposal forces companies to make fast-charging standards interoperable and "unbundles" charger sales; if adopted, companies will have 24 months to comply (Jon Porter/The Verge)](http://www.techmeme.com/210924/p2#a210924p2)
- - [UnitedHealthcare offers members free year of Apple Fitness+](https://appleinsider.com/articles/21/09/24/unitedhealthcare-offers-members-free-year-of-apple-fitness?utm_medium=rss)<!-- TECH:END -->
+ - [Apple’s rumored MacBook Pros could get higher resolution screens, according to beta leak](https://www.theverge.com/2021/9/24/22691187/2021-m1x-macbook-pro-screen-resolution-3456-x-2234-retina-3024-x-1964)
+ - [You told us: An Oppo flagship running Oxygen OS may not be such a bad thing](https://www.androidauthority.com/oneplus-oppo-software-poll-results-3029772/)
+ - [Is putting an emoji as WhatsApp group icon possible now?](https://techncruncher.blogspot.com/2021/09/is-putting-emoji-as-whatsapp-group-icon.html)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
