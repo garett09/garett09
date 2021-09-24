@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best Australian PC gaming deals this week](https://www.pcgamer.com/best-australian-pc-gaming-deals)
- - [(For Southeast Asia) “Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles” Adventure Mode Introduction](http://feedproxy.google.com/~r/PSBlog/~3/FV7OvN-qfFg/)
- - [(For Southeast Asia) “Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles” Adventure Mode Introduction](https://blog.playstation.com/2021/09/23/20210923-demonslayer/)<!-- GAME:END -->
+ - [If you're serious about gaming then come join the compact keyboard club](https://www.pcgamer.com/compact-60-gaming-keyboard)
+ - [Prototype PCIe 5.0 SSD is already twice as fast as today's best drives](https://www.pcgamer.com/pcie-5-ssd-kioxia-14gbs)
+ - [The best Australian PC gaming deals this week](https://www.pcgamer.com/best-australian-pc-gaming-deals)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
