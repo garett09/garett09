@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: US DOJ will allow Huawei CFO Meng Wanzhou to return to China in a deal that requires her to admit some wrongdoing (Wall Street Journal)](http://www.techmeme.com/210924/p12#a210924p12)
- - [Making Elizabeth Holmes’ cringey texts public is the ultimate crime deterrent](https://www.theverge.com/22691464/elizabeth-holmes-trial-text-messages-crime)
- - [It’s Friday, here are fat baby bears](https://www.theverge.com/2021/9/24/22691365/fat-bear-week-cubs-junior-competition-katmai-national-park)<!-- TECH:END -->
+ - [How do you help someone with their leg bitten off by a shark?](https://techncruncher.blogspot.com/2021/09/how-do-you-help-someone-with-their-leg.html)
+ - [The iPhone 13 Mini still gets slower MagSafe charging speeds](https://www.theverge.com/2021/9/24/22691602/iphone-13-mini-slower-magsafe-charging-speeds-12w)
+ - [US Commerce Sec says US is considering using a Cold War-era national security law to force semiconductor companies to provide information on inventory and sales (Jenny Leonard/Bloomberg)](http://www.techmeme.com/210924/p14#a210924p14)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
