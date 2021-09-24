@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Interview with Maryana Iskander, Wikimedia Foundation's next CEO, on the org's transparency, handling misinformation on Wikipedia pages, and more (Davey Alba/New York Times)](http://www.techmeme.com/210923/p40#a210923p40)
- - [Nintendo Direct reveals new Kirby, Mario Party game, and more](https://www.androidauthority.com/nintendo-direct-kirby-3029490/)
- - [One of the Steam Deck’s biggest hurdles just disappeared: EAC has come to Linux](https://www.theverge.com/2021/9/23/22690670/epic-eac-anti-cheat-linux-valve-steam-deck-support-games)<!-- TECH:END -->
+ - [Some AirPods Pro users can't control ANC with Siri after updating to iOS 15](https://appleinsider.com/articles/21/09/24/some-airpods-pro-users-cant-control-anc-with-siri-after-updating-to-ios-15?utm_medium=rss)
+ - [Unreleased MacBook Pro screen resolutions discovered in macOS Monterey beta](https://appleinsider.com/articles/21/09/24/unreleased-macbook-pro-screen-resolutions-discovered-in-macos-monterey-beta?utm_medium=rss)
+ - [The Halo-themed Xbox Series X and PS5 are now available through Walmart (update: 9PM ET)](https://www.theverge.com/2021/9/23/22648984/ps5-xbox-series-x-halo-walmart-restock-time)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
