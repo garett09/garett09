@@ -194,8 +194,8 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Change the word evil to 13%](http://9gag.com/gag/a4EDxXm)
- - 🚯 [Natasha Lyonne and magic.](http://9gag.com/gag/aP3KdKB)
+ - 🚖 [This is multicultural space. But, it doesn&#039;t include whites because you guys have no culture.](http://9gag.com/gag/a3EVpMe)
+ - 🚯 [Where will woke-ism end???](http://9gag.com/gag/aO3XApv)
  - 🚯 [Yes its a truth](http://9gag.com/gag/aDdEr4K)<!-- MEMES:END -->
 
 --- 
