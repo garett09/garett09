@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This was ahead of its time](http://9gag.com/gag/arMj0WB)
- - 🚯 [Its illegal](http://9gag.com/gag/a5E89eG)
- - 🚯 [Sanna Marin, the Prime Minister of Finland](http://9gag.com/gag/aEpLbMM)<!-- MEMES:END -->
+ - 🚖 [Fat potato Me](http://9gag.com/gag/aeAvzem)
+ - 🚯 [A keeper](http://9gag.com/gag/aQo0bgK)
+ - 🚯 [Have you some friends like he does.](http://9gag.com/gag/aLpyO4A)<!-- MEMES:END -->
 
 --- 
 
