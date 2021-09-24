@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [What new and returning players can expect in Death Stranding Director’s Cut, out today on PS5](http://feedproxy.google.com/~r/PSBlog/~3/4hCpRQsPBuo/)
- - [What new and returning players can expect in Death Stranding Director’s Cut, out today on PS5](https://blog.playstation.com/2021/09/24/what-new-and-returning-players-can-expect-in-death-stranding-directors-cut-out-today-on-ps5/)
- - [Next Week on Xbox: September 27 to October 1](https://news.xbox.com/en-us/2021/09/24/next-week-on-xbox-september-27-to-october-1/)<!-- GAME:END -->
+ - [What 'gem activated' means in Diablo 2: Resurrected](https://www.pcgamer.com/diablo-2-gem-activated-chat)
+ - [The best RAM for gaming in 2021](https://www.pcgamer.com/best-ddr4-ram)
+ - [PSA: Halo Infinite is secretly Titanfall 3](https://www.pcgamer.com/psa-halo-infinite-is-secretly-titanfall-3)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
