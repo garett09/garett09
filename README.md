@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Oath: Chronicles of Empire and Exile is much more than just a gussied-up version of Risk](https://www.polygon.com/reviews/22691483/oath-chronicles-of-empire-and-exile-review-cole-wehrle-leder-games)
- - [Inside Xbox Series X|S Optimized: Kerbal Space Program Enhanced Edition](https://news.xbox.com/en-us/2021/09/24/inside-xbox-series-xs-optimized-kerbal-space-program-enhanced-edition/)
- - [Foundation’s first two episodes jump around the timeline with wild abandon](https://www.polygon.com/22691622/foundation-timeline-apple-tv-takes-place-emperors-time-jump)<!-- GAME:END -->
+ - [The Biggest Fan Theories Sparked By That Bayonetta 3 Trailer](https://kotaku.com/the-biggest-fan-theories-sparked-by-that-bayonetta-3-tr-1847742254)
+ - [I Can't Believe We're Still Debating Halo's Aim Assist](https://kotaku.com/i-cant-believe-were-still-debating-halos-aim-assist-1847742334)
+ - [Netflix’s Squid Game is mesmerizing, but not for the obvious reasons](https://www.polygon.com/22692220/squid-game-review-netflix)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
