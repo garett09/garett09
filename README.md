@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Opentrons, whose robots help life scientists automate experiments and processes, raises $200M Series C led by SoftBank Vision Fund 2 at a $1.8B valuation (Clara Molot/Bloomberg)](http://www.techmeme.com/210923/p42#a210923p42)
- - [DJI Mavic 3 Pro leaks out with two cameras, 46-minute flights and a Four Thirds sensor](https://www.theverge.com/2021/9/23/22690821/dji-mavic-pro-drone-leak-twin-cameras-four-thirds)
- - ['Foundation' podcast launches to coincide with Apple TV+ debut](https://appleinsider.com/articles/21/09/24/foundation-podcast-launches-to-coincide-with-apple-tv-debut?utm_medium=rss)<!-- TECH:END -->
+ - [Jawbone reaches out from grave to sue Apple over audio tech](https://appleinsider.com/articles/21/09/24/jawbone-reaches-out-from-grave-to-sue-apple-over-audio-tech?utm_medium=rss)
+ - [Sony PS5 vs. Microsoft Xbox Series X: Best high-end game console for 2021     - CNET](https://www.cnet.com/tech/computing/sony-ps5-vs-microsoft-xbox-series-x-best-high-end-game-console-for-2021/#ftag=CAD590a51e)
+ - [See more of Kristen Stewart as Princess Diana in official Spencer trailer     - CNET](https://www.cnet.com/news/see-more-of-kristen-stewart-as-princess-diana-in-official-spencer-trailer/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
