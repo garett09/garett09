@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The WiFi](http://9gag.com/gag/azM0QRK)
- - 🚯 [GOD Bless EU](http://9gag.com/gag/aWjw96d)
- - 🚯 [The &quot;whatever you&#039;re cooking smells so good&quot; Starter Pack](http://9gag.com/gag/aXo5dQb)<!-- MEMES:END -->
+ - 🚖 [We need more of this in our life](http://9gag.com/gag/apNWde5)
+ - 🚯 [Dating in my late 20s....](http://9gag.com/gag/aGpWNy0)
+ - 🚯 [Chad poland](http://9gag.com/gag/abV9mY8)<!-- MEMES:END -->
 
 --- 
 
