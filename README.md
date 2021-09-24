@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This is multicultural space. But, it doesn&#039;t include whites because you guys have no culture.](http://9gag.com/gag/a3EVpMe)
- - 🚯 [Where will woke-ism end???](http://9gag.com/gag/aO3XApv)
- - 🚯 [Yes its a truth](http://9gag.com/gag/aDdEr4K)<!-- MEMES:END -->
+ - 🚖 [Aight, Imma head out](http://9gag.com/gag/a7EzPze)
+ - 🚯 [Yes its a truth](http://9gag.com/gag/aDdEr4K)
+ - 🚯 [Where will woke-ism end???](http://9gag.com/gag/aO3XApv)<!-- MEMES:END -->
 
 --- 
 
