@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Biggest Fan Theories Sparked By That Bayonetta 3 Trailer](https://kotaku.com/the-biggest-fan-theories-sparked-by-that-bayonetta-3-tr-1847742254)
- - [I Can't Believe We're Still Debating Halo's Aim Assist](https://kotaku.com/i-cant-believe-were-still-debating-halos-aim-assist-1847742334)
- - [Netflix’s Squid Game is mesmerizing, but not for the obvious reasons](https://www.polygon.com/22692220/squid-game-review-netflix)<!-- GAME:END -->
+ - [Cruella and all the new movies you can now watch from home](https://www.polygon.com/2021/9/24/22681727/cruella-netflix-starling-candyman-hbo-amazon-new-movies)
+ - [BattlEye anti-cheat confirms Steam Deck support](https://www.pcgamer.com/battleye-anti-cheat-confirms-steam-deck-support)
+ - [This new Dwarf Fortress video has me more excited than ever for the graphical update](https://www.pcgamer.com/this-new-dwarf-fortress-video-has-me-more-excited-than-ever-for-the-graphical-update)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
