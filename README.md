@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [30% off the WD 1TB My Passport Portable SSD, and more external hard drive deals](https://www.androidauthority.com/best-cheap-external-hard-drive-deals-1118021/)
+ - [NFL wants Sunday Ticket to land at Apple, report says](https://appleinsider.com/articles/21/09/24/nfl-wants-sunday-ticket-to-land-at-apple-report-says?utm_medium=rss)
  - [Apple restricts third-party access to iPhone 13 Pro's 120Hz ProMotion display](https://appleinsider.com/articles/21/09/24/apple-restricts-third-party-access-to-iphone-13-pros-120hz-promotion-display?utm_medium=rss)
- - [iPhone 13 Pro runs 3rd-party apps at 120Hz for scrolling and screen transitions but limits them to 60Hz for animations; Apple's apps are exempt from this limit (Benjamin Mayo/9to5Mac)](http://www.techmeme.com/210924/p20#a210924p20)<!-- TECH:END -->
+ - [Pokemon Go October 2021 events: Raids, Zarude, Halloween and more     - CNET](https://www.cnet.com/news/pokemon-go-october-2021-events-zarude-raids-halloween-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
