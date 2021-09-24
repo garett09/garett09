@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [If you're serious about gaming then come join the compact keyboard club](https://www.pcgamer.com/compact-60-gaming-keyboard)
- - [Prototype PCIe 5.0 SSD is already twice as fast as today's best drives](https://www.pcgamer.com/pcie-5-ssd-kioxia-14gbs)
- - [The best Australian PC gaming deals this week](https://www.pcgamer.com/best-australian-pc-gaming-deals)<!-- GAME:END -->
+ - [The UK's Advertising Standards Authority introduces new guidance on annoying premium currencies](https://www.pcgamer.com/the-uks-advertising-standards-authority-introduces-new-guidance-on-annoying-premium-currencies)
+ - [Best curved monitors for gaming](https://www.pcgamer.com/best-curved-monitors-for-gaming)
+ - [213 Chinese game companies say they'll 'strictly abide' to government's overarching rules on gaming](https://www.pcgamer.com/213-chinese-game-companies-say-theyll-strictly-abide-to-governments-overarching-rules-on-gaming)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
