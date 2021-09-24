@@ -195,8 +195,8 @@ Windows                  7 hrs 16 mins       ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [I was there 3000 years ago](http://9gag.com/gag/aRXYDbG)
- - 🚯 [Expensive mistake](http://9gag.com/gag/awM6eWy)
- - 🚯 [So no ports on the next iphone? Got it&hellip;](http://9gag.com/gag/aeAv7vB)<!-- MEMES:END -->
+ - 🚯 [The &quot;whatever you&#039;re cooking smells so good&quot; Starter Pack](http://9gag.com/gag/aXo5dQb)
+ - 🚯 [It&#039;s tough out there when you come up short.](http://9gag.com/gag/aWjwdpn)<!-- MEMES:END -->
 
 --- 
 
