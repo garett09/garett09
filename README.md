@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Fat potato Me](http://9gag.com/gag/aeAvzem)
- - 🚯 [A keeper](http://9gag.com/gag/aQo0bgK)
- - 🚯 [Have you some friends like he does.](http://9gag.com/gag/aLpyO4A)<!-- MEMES:END -->
+ - 🚖 [9gag veterans looking at what 9gag has become.](http://9gag.com/gag/a1rG8O6)
+ - 🚯 [Sanna Marin, the Prime Minister of Finland](http://9gag.com/gag/aEpLbMM)
+ - 🚯 [You can call me geh, but I don&#039;t care anymore!](http://9gag.com/gag/a8EBNme)<!-- MEMES:END -->
 
 --- 
 
