@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Unlock with Apple Watch isn't working for some iPhone 13 owners](https://appleinsider.com/articles/21/09/24/unlock-with-apple-watch-isnt-working-for-some-iphone-13-owners?utm_medium=rss)
- - [iPhone 13 mini review: The most powerful small smartphone on the market](https://appleinsider.com/articles/21/09/24/iphone-13-mini-review-the-most-powerful-small-smartphone-on-the-market?utm_medium=rss)
- - [Apple offers iPhone 13 owners fixes for Music & Widget bugs](https://appleinsider.com/articles/21/09/24/iphone-13-apple-music-bug-is-fixed-with-apples-new-ios-patch?utm_medium=rss)<!-- TECH:END -->
+ - [How to customize your Windows 11 taskbar](https://www.theverge.com/22688307/windows-11-microsoft-taskbar-how-to)
+ - [HBO Max isn't streaming Dear Evan Hansen, sorry     - CNET](https://www.cnet.com/tech/services-and-software/hbo-max-isnt-streaming-dear-evan-hansen-sorry-or-maybe-not-sorry/#ftag=CAD590a51e)
+ - [Apple offers iPhone 13, new iPad owners fixes for Music & widget bugs](https://appleinsider.com/articles/21/09/24/restoring-iphone-13-new-ipad-models-from-backup-might-result-in-apple-music-and-widgets-bugs?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
