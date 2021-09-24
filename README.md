@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Sanna Marin, the Prime Minister of Finland](http://9gag.com/gag/aEpLbMM)
- - 🚯 [Got mine last week from my mom](http://9gag.com/gag/aNp68yA)
- - 🚯 [Light up a smoke stack with a torch](http://9gag.com/gag/aDdELP7)<!-- MEMES:END -->
+ - 🚖 [This was ahead of its time](http://9gag.com/gag/arMj0WB)
+ - 🚯 [Its illegal](http://9gag.com/gag/a5E89eG)
+ - 🚯 [Sanna Marin, the Prime Minister of Finland](http://9gag.com/gag/aEpLbMM)<!-- MEMES:END -->
 
 --- 
 
