@@ -195,7 +195,7 @@ Windows                  7 hrs 16 mins       ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [I was there 3000 years ago](http://9gag.com/gag/aRXYDbG)
- - 🚯 [The &quot;whatever you&#039;re cooking smells so good&quot; Starter Pack](http://9gag.com/gag/aXo5dQb)
+ - 🚯 [This Jackie Chan stunt is insane](http://9gag.com/gag/anQLdn5)
  - 🚯 [It&#039;s tough out there when you come up short.](http://9gag.com/gag/aWjwdpn)<!-- MEMES:END -->
 
 --- 
