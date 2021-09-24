@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Razer Huntsman V2 review: no need for speed](https://www.theverge.com/22691381/razer-huntsman-v2-review-optical-mechanical-keyboard-8000hz-polling-rate-linear-clicky-switches)
+ - [Unlock with Apple Watch isn't working for some iPhone 13 owners](https://appleinsider.com/articles/21/09/24/unlock-with-apple-watch-isnt-working-for-some-iphone-13-owners?utm_medium=rss)
  - [iPhone 13 mini review: The most powerful small smartphone on the market](https://appleinsider.com/articles/21/09/24/iphone-13-mini-review-the-most-powerful-small-smartphone-on-the-market?utm_medium=rss)
- - [Best airline credit card for October 2021     - CNET](https://www.cnet.com/personal-finance/credit-cards/best-airline-credit-card/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple offers iPhone 13 owners fixes for Music & Widget bugs](https://appleinsider.com/articles/21/09/24/iphone-13-apple-music-bug-is-fixed-with-apples-new-ios-patch?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
