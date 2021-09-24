@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Facts](http://9gag.com/gag/aQo0yOK)
- - 🚯 [The mental gymnastics of some women...](http://9gag.com/gag/a1rGOEY)
- - 🚯 [After the election](http://9gag.com/gag/a4EDwPw)<!-- MEMES:END -->
+ - 🚖 [The Karen destroyer](http://9gag.com/gag/amPEn6v)
+ - 🚯 [Holding a gun against a veteran and ending up getting their ass whooped.](http://9gag.com/gag/aQo0yjW)
+ - 🚯 [The WiFi](http://9gag.com/gag/azM0QRK)<!-- MEMES:END -->
 
 --- 
 
