@@ -188,7 +188,7 @@ Windows                  7 hrs 16 mins       ███████████�
 
 <!-- TECH:START -->
  - [Microsoft says the Surface Duo 2 will receive three years of updates](https://www.androidauthority.com/microsoft-surface-duo-2-updates-3029698/)
- - [EU's USB-C proposal forces companies to make fast-charging standards interoperable and "unbundles" sale of chargers; companies will have 24 months to comply (Jon Porter/The Verge)](http://www.techmeme.com/210924/p2#a210924p2)
+ - [EU's proposal forces companies to make fast-charging standards interoperable and "unbundles" charger sales; if adopted, companies will have 24 months to comply (Jon Porter/The Verge)](http://www.techmeme.com/210924/p2#a210924p2)
  - [UnitedHealthcare offers members free year of Apple Fitness+](https://appleinsider.com/articles/21/09/24/unitedhealthcare-offers-members-free-year-of-apple-fitness?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
