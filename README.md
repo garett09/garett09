@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Multiplayer Party Game A Gummy’s Life is Available Now for Xbox One and Xbox Series X|S](https://news.xbox.com/en-us/2021/09/24/a-gummys-life-available-now/)
- - [Fortnite Birthday quests: How to complete them all](https://www.pcgamer.com/fortnite-birthday-quests)
- - [Destiny 2 Xur location and items, Sept. 24-28](https://www.polygon.com/destiny-2-guide-walkthrough/2021/9/24/22691820/destiny-2-xur-location-items-sept-24-28)<!-- GAME:END -->
+ - [Official PlayStation Podcast Episode 411: B.R.I.D.G.E. of Spirits](http://feedproxy.google.com/~r/PSBlog/~3/0ULWA-c0OyI/)
+ - [Official PlayStation Podcast Episode 411: B.R.I.D.G.E. of Spirits](https://blog.playstation.com/2021/09/24/official-playstation-podcast-episode-411-b-r-i-d-g-e-of-spirits/)
+ - [Classic EverQuest players raid together to raise funds for hurricane relief](https://www.polygon.com/22685125/everquest-classic-hurricane-relief-charity-project-1999)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
