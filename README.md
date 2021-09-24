@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple ignored reports of three big security problems in iOS 15, researcher says](https://appleinsider.com/articles/21/09/24/apple-ignored-reports-of-three-big-security-problems-in-ios-15-researcher-says?utm_medium=rss)
- - [One of the Steam Deck’s biggest hurdles just disappeared: EAC has come to Linux](https://www.theverge.com/2021/9/23/22690670/epic-eac-anti-cheat-linux-valve-steam-deck-support-games)
- - [Cambodia's prime minister Zoombombs opposition meetings; the country plans to create a "national internet gateway" with a state-appointed operator in February (Bopha Phorn/Rest of World)](http://www.techmeme.com/210924/p10#a210924p10)<!-- TECH:END -->
+ - [Sources: US DOJ will allow Huawei CFO Meng Wanzhou to return to China in a deal that requires her to admit some wrongdoing (Wall Street Journal)](http://www.techmeme.com/210924/p12#a210924p12)
+ - [Making Elizabeth Holmes’ cringey texts public is the ultimate crime deterrent](https://www.theverge.com/22691464/elizabeth-holmes-trial-text-messages-crime)
+ - [It’s Friday, here are fat baby bears](https://www.theverge.com/2021/9/24/22691365/fat-bear-week-cubs-junior-competition-katmai-national-park)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
