@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Nintendo Direct’s biggest announcements were other announcements](https://www.polygon.com/22690703/nintendo-direct-september-2021-announcements-animal-crossing-super-smash-bros)
- - [Unique SNES platformer and city-builder hybrid Actraiser just got a remake](https://www.pcgamer.com/unique-snes-platformer-and-city-builder-hybrid-actraiser-just-got-a-remake)
- - [Somebody Tried To Warn Us About Chris Pratt As Mario In 2020](https://kotaku.com/somebody-tried-to-warn-us-about-chris-pratt-as-mario-in-1847735359)<!-- GAME:END -->
+ - [You Can't Make Me Use The N64 Controller Again, Nintendo](https://kotaku.com/you-cant-make-me-use-the-n64-controller-again-nintendo-1847735522)
+ - [September Xbox Update: Play Later Discovery, Updated Microsoft Edge, and More](https://news.xbox.com/en-us/2021/09/23/september-2021-xbox-update/)
+ - [Why The Splatoon 3 Devs Are The Best, In One GIF](https://kotaku.com/why-the-splatoon-3-devs-are-the-best-in-one-gif-1847735687)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
