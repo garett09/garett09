@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Stores start selling new iPhones, iPads worldwide](https://appleinsider.com/articles/21/09/24/apple-stores-start-selling-new-iphones-ipads-worldwide?utm_medium=rss)
- - [The Redmi 9 Activ is now official, but it’s probably not what you think](https://www.androidauthority.com/redmi-9-activ-3029824/)
- - [Remembering the first Android phone, the T-Mobile G1 (HTC Dream)](https://www.androidauthority.com/first-android-phone-t-mobile-g1-htc-dream-906362/)<!-- TECH:END -->
+ - [Daily Authority: EU says USB-C you later 👋](https://www.androidauthority.com/newsletters/da-september-24-2021/)
+ - [Advocates Struggle to Control Police Use of Surveillance Tech](https://www.wired.com/story/hard-control-police-tech-law)
+ - [The Best iPhone 13 Deals—and Which Model to Pick](https://www.wired.com/story/apple-iphone-13-deals)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
