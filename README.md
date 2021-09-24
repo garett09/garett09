@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Akash](http://9gag.com/gag/anQL0mq)
- - 🚯 [It&#039;s sumthing ..](http://9gag.com/gag/aYo2v2N)
- - 🚯 [What monster did this?!](http://9gag.com/gag/aB27jqx)<!-- MEMES:END -->
+ - 🚖 [Sanna Marin, the Prime Minister of Finland](http://9gag.com/gag/aEpLbMM)
+ - 🚯 [Got mine last week from my mom](http://9gag.com/gag/aNp68yA)
+ - 🚯 [Light up a smoke stack with a torch](http://9gag.com/gag/aDdELP7)<!-- MEMES:END -->
 
 --- 
 
