@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Lightning port isn’t about convenience; it’s about control](https://www.theverge.com/2021/9/24/22690338/apple-iphone-lightning-ports-convenience-control-usb-c-eu-wireless-charging-mfi-magsafe)
- - [iPhone 13 Apple Music bug is fixed with Apple's new iOS patch](https://appleinsider.com/articles/21/09/24/iphone-13-apple-music-bug-is-fixed-with-apples-new-ios-patch?utm_medium=rss)
- - [Here’s how much that free iPhone really costs](https://www.theverge.com/2021/9/24/22684911/iphone-13-true-cost-of-free-phone-iphone-13-pro)<!-- TECH:END -->
+ - [Razer Huntsman V2 review: no need for speed](https://www.theverge.com/22691381/razer-huntsman-v2-review-optical-mechanical-keyboard-8000hz-polling-rate-linear-clicky-switches)
+ - [iPhone 13 mini review: The most powerful small smartphone on the market](https://appleinsider.com/articles/21/09/24/iphone-13-mini-review-the-most-powerful-small-smartphone-on-the-market?utm_medium=rss)
+ - [Best airline credit card for October 2021     - CNET](https://www.cnet.com/personal-finance/credit-cards/best-airline-credit-card/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
