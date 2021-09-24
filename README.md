@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [You Can't Make Me Use The N64 Controller Again, Nintendo](https://kotaku.com/you-cant-make-me-use-the-n64-controller-again-nintendo-1847735522)
- - [September Xbox Update: Play Later Discovery, Updated Microsoft Edge, and More](https://news.xbox.com/en-us/2021/09/23/september-2021-xbox-update/)
- - [Why The Splatoon 3 Devs Are The Best, In One GIF](https://kotaku.com/why-the-splatoon-3-devs-are-the-best-in-one-gif-1847735687)<!-- GAME:END -->
+ - [(For Southeast Asia) “Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles” Adventure Mode Introduction](http://feedproxy.google.com/~r/PSBlog/~3/FV7OvN-qfFg/)
+ - [(For Southeast Asia) “Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles” Adventure Mode Introduction](https://blog.playstation.com/2021/09/23/20210923-demonslayer/)
+ - [You Can't Make Me Use The N64 Controller Again, Nintendo](https://kotaku.com/you-cant-make-me-use-the-n64-controller-again-nintendo-1847735522)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
