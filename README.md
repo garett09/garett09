@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the opposition by South African indigenous groups to Amazon's planned $350M Cape Town HQ, which some say is being built on sacred land (Wall Street Journal)](http://www.techmeme.com/210923/p39#a210923p39)
- - [Nintendo Direct: the biggest announcements and trailers](https://www.theverge.com/2021/9/23/22689462/nintendo-direct-september-2021-trailers-announcements)
- - [Initial iPhone 13 preorders begin to arrive as customers line up at Apple Stores](https://appleinsider.com/articles/21/09/23/initial-iphone-13-preorders-begin-to-arrive-as-customers-line-up-at-apple-stores?utm_medium=rss)<!-- TECH:END -->
+ - [Interview with Maryana Iskander, Wikimedia Foundation's next CEO, on the org's transparency, handling misinformation on Wikipedia pages, and more (Davey Alba/New York Times)](http://www.techmeme.com/210923/p40#a210923p40)
+ - [Nintendo Direct reveals new Kirby, Mario Party game, and more](https://www.androidauthority.com/nintendo-direct-kirby-3029490/)
+ - [One of the Steam Deck’s biggest hurdles just disappeared: EAC has come to Linux](https://www.theverge.com/2021/9/23/22690670/epic-eac-anti-cheat-linux-valve-steam-deck-support-games)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
