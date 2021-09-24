@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Judging a Book by Its Cover: The Making of Alan Wake Remastered](https://news.xbox.com/en-us/2021/09/24/the-making-of-alan-wake-remastered/)
- - [How did Dear Evan Hansen go so, so wrong?](https://www.polygon.com/22691667/dear-evan-hansen-review)
- - [The Internet's Hateboner For Chris Pratt As Mario In Nintendo's Movie, Explained](https://kotaku.com/the-internets-hateboner-for-chris-pratt-as-mario-in-nin-1847739685)<!-- GAME:END -->
+ - [Multiplayer Party Game A Gummy’s Life is Available Now for Xbox One and Xbox Series X|S](https://news.xbox.com/en-us/2021/09/24/a-gummys-life-available-now/)
+ - [Fortnite Birthday quests: How to complete them all](https://www.pcgamer.com/fortnite-birthday-quests)
+ - [Destiny 2 Xur location and items, Sept. 24-28](https://www.polygon.com/destiny-2-guide-walkthrough/2021/9/24/22691820/destiny-2-xur-location-items-sept-24-28)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
