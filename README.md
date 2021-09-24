@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [GM Ivanchuk - When the chess tournament is just a side quest](http://9gag.com/gag/a27nAvw)
- - 🚯 [An elementary school student in indonesia goes to school by sailing on a styrofoam box](http://9gag.com/gag/a072zXZ)
- - 🚯 [Okay lah](http://9gag.com/gag/aqjqBjY)<!-- MEMES:END -->
+ - 🚖 [An elementary school student in indonesia goes to school by sailing on a styrofoam box](http://9gag.com/gag/a072zXZ)
+ - 🚯 [Okay lah](http://9gag.com/gag/aqjqBjY)
+ - 🚯 [What monster did this?!](http://9gag.com/gag/aB27jqx)<!-- MEMES:END -->
 
 --- 
 
