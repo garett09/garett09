@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [We need more of this in our life](http://9gag.com/gag/apNWde5)
- - 🚯 [Dating in my late 20s....](http://9gag.com/gag/aGpWNy0)
- - 🚯 [Chad poland](http://9gag.com/gag/abV9mY8)<!-- MEMES:END -->
+ - 🚖 [When your car is glitching (Dayyum Edition)](http://9gag.com/gag/anQLW8o)
+ - 🚯 [Chad poland](http://9gag.com/gag/abV9mY8)
+ - 🚯 [This Dog waves goodbye to everyone who leaves the store](http://9gag.com/gag/a9E9NWj)<!-- MEMES:END -->
 
 --- 
 
