@@ -194,8 +194,8 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [An elementary school student in indonesia goes to school by sailing on a styrofoam box](http://9gag.com/gag/a072zXZ)
- - 🚯 [Okay lah](http://9gag.com/gag/aqjqBjY)
+ - 🚖 [Akash](http://9gag.com/gag/anQL0mq)
+ - 🚯 [It&#039;s sumthing ..](http://9gag.com/gag/aYo2v2N)
  - 🚯 [What monster did this?!](http://9gag.com/gag/aB27jqx)<!-- MEMES:END -->
 
 --- 
