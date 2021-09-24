@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How do you help someone with their leg bitten off by a shark?](https://techncruncher.blogspot.com/2021/09/how-do-you-help-someone-with-their-leg.html)
- - [The iPhone 13 Mini still gets slower MagSafe charging speeds](https://www.theverge.com/2021/9/24/22691602/iphone-13-mini-slower-magsafe-charging-speeds-12w)
- - [US Commerce Sec says US is considering using a Cold War-era national security law to force semiconductor companies to provide information on inventory and sales (Jenny Leonard/Bloomberg)](http://www.techmeme.com/210924/p14#a210924p14)<!-- TECH:END -->
+ - [How Facebook is using its metaverse push to rehabilitate its reputation with policymakers and reposition itself to shape regulation of future technologies (Washington Post)](http://www.techmeme.com/210924/p15#a210924p15)
+ - [iPhone 13 Pro Max is Apple's undisputed battery life champion](https://appleinsider.com/articles/21/09/24/iphone-13-pro-max-is-apples-undisputed-battery-life-champion?utm_medium=rss)
+ - [Animal Crossing: New Horizons is finally adding Brewster in a November update     - CNET](https://www.cnet.com/news/animal-crossing-new-horizons-is-finally-adding-brewster-in-a-november-update/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
