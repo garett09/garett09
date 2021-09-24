@@ -195,8 +195,8 @@ Windows                  7 hrs 16 mins       ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [I was there 3000 years ago](http://9gag.com/gag/aRXYDbG)
- - 🚯 [Holding a gun against a veteran and ending up getting their ass whooped.](http://9gag.com/gag/aQo0yjW)
- - 🚯 [The Karen destroyer](http://9gag.com/gag/amPEn6v)<!-- MEMES:END -->
+ - 🚯 [Expensive mistake](http://9gag.com/gag/awM6eWy)
+ - 🚯 [So no ports on the next iphone? Got it&hellip;](http://9gag.com/gag/aeAv7vB)<!-- MEMES:END -->
 
 --- 
 
