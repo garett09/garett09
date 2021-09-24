@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Its cheaper to die then to live](http://9gag.com/gag/aO3XNEE)
- - 🚯 [Homeowner turned his sprinklers on before leaving to escape a Kansas wildfire. He came home to this](http://9gag.com/gag/apNWjRn)
- - 🚯 [Natasha Lyonne and magic.](http://9gag.com/gag/aP3KdKB)<!-- MEMES:END -->
+ - 🚖 [Change the word evil to 13%](http://9gag.com/gag/a4EDxXm)
+ - 🚯 [Natasha Lyonne and magic.](http://9gag.com/gag/aP3KdKB)
+ - 🚯 [Yes its a truth](http://9gag.com/gag/aDdEr4K)<!-- MEMES:END -->
 
 --- 
 
