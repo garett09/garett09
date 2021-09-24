@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The UK's Advertising Standards Authority introduces new guidance on annoying premium currencies](https://www.pcgamer.com/the-uks-advertising-standards-authority-introduces-new-guidance-on-annoying-premium-currencies)
- - [Best curved monitors for gaming](https://www.pcgamer.com/best-curved-monitors-for-gaming)
- - [213 Chinese game companies say they'll 'strictly abide' to government's overarching rules on gaming](https://www.pcgamer.com/213-chinese-game-companies-say-theyll-strictly-abide-to-governments-overarching-rules-on-gaming)<!-- GAME:END -->
+ - [Hideaki Nishino Q&A: Developing PlayStation System Software Updates](http://feedproxy.google.com/~r/PSBlog/~3/abZ2KeqD5sI/)
+ - [Hideaki Nishino Q&A: Developing PlayStation System Software Updates](https://blog.playstation.com/2021/09/24/hideaki-nishino-qa-developing-playstation-system-software-updates/)
+ - [The best LW3 - Tundra loadout for Warzone](https://www.pcgamer.com/best-lw3-tundra-warzone-loadout-class-setup)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
