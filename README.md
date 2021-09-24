@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to customize your Windows 11 taskbar](https://www.theverge.com/22688307/windows-11-microsoft-taskbar-how-to)
- - [HBO Max isn't streaming Dear Evan Hansen, sorry     - CNET](https://www.cnet.com/tech/services-and-software/hbo-max-isnt-streaming-dear-evan-hansen-sorry-or-maybe-not-sorry/#ftag=CAD590a51e)
- - [Apple offers iPhone 13, new iPad owners fixes for Music & widget bugs](https://appleinsider.com/articles/21/09/24/restoring-iphone-13-new-ipad-models-from-backup-might-result-in-apple-music-and-widgets-bugs?utm_medium=rss)<!-- TECH:END -->
+ - [30% off the WD 1TB My Passport Portable SSD, and more external hard drive deals](https://www.androidauthority.com/best-cheap-external-hard-drive-deals-1118021/)
+ - [Apple restricts third-party access to iPhone 13 Pro's 120Hz ProMotion display](https://appleinsider.com/articles/21/09/24/apple-restricts-third-party-access-to-iphone-13-pros-120hz-promotion-display?utm_medium=rss)
+ - [iPhone 13 Pro runs 3rd-party apps at 120Hz for scrolling and screen transitions but limits them to 60Hz for animations; Apple's apps are exempt from this limit (Benjamin Mayo/9to5Mac)](http://www.techmeme.com/210924/p20#a210924p20)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
