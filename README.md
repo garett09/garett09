@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [What 'gem activated' means in Diablo 2: Resurrected](https://www.pcgamer.com/diablo-2-gem-activated-chat)
- - [The best RAM for gaming in 2021](https://www.pcgamer.com/best-ddr4-ram)
- - [PSA: Halo Infinite is secretly Titanfall 3](https://www.pcgamer.com/psa-halo-infinite-is-secretly-titanfall-3)<!-- GAME:END -->
+ - [Deltarune Chapter 2 offers a brief reprieve in a world that’s still healing](https://www.polygon.com/reviews/22691556/deltarune-chapter-2-review-toby-fox-undertale)
+ - [The best gaming PC in 2021](https://www.pcgamer.com/best-gaming-pc-uk)
+ - [Share of the Week: Travel](http://feedproxy.google.com/~r/PSBlog/~3/_qj9Wz3dwsg/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
