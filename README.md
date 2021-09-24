@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Hideaki Nishino Q&A: Developing PlayStation System Software Updates](http://feedproxy.google.com/~r/PSBlog/~3/abZ2KeqD5sI/)
- - [Hideaki Nishino Q&A: Developing PlayStation System Software Updates](https://blog.playstation.com/2021/09/24/hideaki-nishino-qa-developing-playstation-system-software-updates/)
- - [The best LW3 - Tundra loadout for Warzone](https://www.pcgamer.com/best-lw3-tundra-warzone-loadout-class-setup)<!-- GAME:END -->
+ - [What new and returning players can expect in Death Stranding Director’s Cut, out today on PS5](http://feedproxy.google.com/~r/PSBlog/~3/4hCpRQsPBuo/)
+ - [What new and returning players can expect in Death Stranding Director’s Cut, out today on PS5](https://blog.playstation.com/2021/09/24/what-new-and-returning-players-can-expect-in-death-stranding-directors-cut-out-today-on-ps5/)
+ - [Next Week on Xbox: September 27 to October 1](https://news.xbox.com/en-us/2021/09/24/next-week-on-xbox-september-27-to-october-1/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
