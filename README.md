@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Facebook is using its metaverse push to rehabilitate its reputation with policymakers and reposition itself to shape regulation of future technologies (Washington Post)](http://www.techmeme.com/210924/p15#a210924p15)
- - [iPhone 13 Pro Max is Apple's undisputed battery life champion](https://appleinsider.com/articles/21/09/24/iphone-13-pro-max-is-apples-undisputed-battery-life-champion?utm_medium=rss)
- - [Animal Crossing: New Horizons is finally adding Brewster in a November update     - CNET](https://www.cnet.com/news/animal-crossing-new-horizons-is-finally-adding-brewster-in-a-november-update/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Lightning port isn’t about convenience; it’s about control](https://www.theverge.com/2021/9/24/22690338/apple-iphone-lightning-ports-convenience-control-usb-c-eu-wireless-charging-mfi-magsafe)
+ - [iPhone 13 Apple Music bug is fixed with Apple's new iOS patch](https://appleinsider.com/articles/21/09/24/iphone-13-apple-music-bug-is-fixed-with-apples-new-ios-patch?utm_medium=rss)
+ - [Here’s how much that free iPhone really costs](https://www.theverge.com/2021/9/24/22684911/iphone-13-true-cost-of-free-phone-iphone-13-pro)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
