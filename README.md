@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to move your data and apps to a new iPad](https://appleinsider.com/articles/20/09/14/how-to-move-your-data-and-apps-to-a-new-ipad?utm_medium=rss)
- - [Realme Band 2 announced: A bigger fitness tracker (Update: India launch)](https://www.androidauthority.com/realme-band-2-3024509/)
- - [Xbox gets a new Edge browser that can play Stadia games, access Discord, and more](https://www.theverge.com/2021/9/24/22691196/xbox-new-edge-browser-chromium-release)<!-- TECH:END -->
+ - [Apple Stores start selling new iPhones, iPads worldwide](https://appleinsider.com/articles/21/09/24/apple-stores-start-selling-new-iphones-ipads-worldwide?utm_medium=rss)
+ - [The Redmi 9 Activ is now official, but it’s probably not what you think](https://www.androidauthority.com/redmi-9-activ-3029824/)
+ - [Remembering the first Android phone, the T-Mobile G1 (HTC Dream)](https://www.androidauthority.com/first-android-phone-t-mobile-g1-htc-dream-906362/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
