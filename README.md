@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily Authority: EU says USB-C you later 👋](https://www.androidauthority.com/newsletters/da-september-24-2021/)
- - [Advocates Struggle to Control Police Use of Surveillance Tech](https://www.wired.com/story/hard-control-police-tech-law)
- - [The Best iPhone 13 Deals—and Which Model to Pick](https://www.wired.com/story/apple-iphone-13-deals)<!-- TECH:END -->
+ - [Researcher discloses three iOS zero-days, says they were reported to Apple before May 4 and are still exploitable in iOS 15 after Apple failed to fix them (Illusionofchaos/Habr)](http://www.techmeme.com/210924/p8#a210924p8)
+ - [Twitter will allow people to tip their favorite content creators with bitcoin](https://techncruncher.blogspot.com/2021/09/twitter-will-allow-people-to-tip-their.html)
+ - [How to buy the iPhone 13 and iPhone 13 Pro](https://www.theverge.com/22665165/apple-iphone-13-preorder-how-to-buy-price-release-date)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
