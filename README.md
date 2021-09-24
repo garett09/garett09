@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Jawbone reaches out from grave to sue Apple over audio tech](https://appleinsider.com/articles/21/09/24/jawbone-reaches-out-from-grave-to-sue-apple-over-audio-tech?utm_medium=rss)
- - [Sony PS5 vs. Microsoft Xbox Series X: Best high-end game console for 2021     - CNET](https://www.cnet.com/tech/computing/sony-ps5-vs-microsoft-xbox-series-x-best-high-end-game-console-for-2021/#ftag=CAD590a51e)
- - [See more of Kristen Stewart as Princess Diana in official Spencer trailer     - CNET](https://www.cnet.com/news/see-more-of-kristen-stewart-as-princess-diana-in-official-spencer-trailer/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Initial iPhone 13, iPad mini preorders begin to arrive as customers line up at Apple Stores](https://appleinsider.com/articles/21/09/23/initial-iphone-13-preorders-begin-to-arrive-as-customers-line-up-at-apple-stores?utm_medium=rss)
+ - [Restoring iPhone 13, new iPad models from backup might result in Apple Music and widgets bugs](https://appleinsider.com/articles/21/09/24/restoring-iphone-13-new-ipad-models-from-backup-might-result-in-apple-music-and-widgets-bugs?utm_medium=rss)
+ - [Jawbone reaches out from grave to sue Apple over audio tech](https://appleinsider.com/articles/21/09/24/jawbone-reaches-out-from-grave-to-sue-apple-over-audio-tech?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
