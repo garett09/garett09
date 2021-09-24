@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The best Australian PC gaming deals this week](https://www.pcgamer.com/best-australian-pc-gaming-deals)
  - [(For Southeast Asia) “Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles” Adventure Mode Introduction](http://feedproxy.google.com/~r/PSBlog/~3/FV7OvN-qfFg/)
- - [(For Southeast Asia) “Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles” Adventure Mode Introduction](https://blog.playstation.com/2021/09/23/20210923-demonslayer/)
- - [You Can't Make Me Use The N64 Controller Again, Nintendo](https://kotaku.com/you-cant-make-me-use-the-n64-controller-again-nintendo-1847735522)<!-- GAME:END -->
+ - [(For Southeast Asia) “Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles” Adventure Mode Introduction](https://blog.playstation.com/2021/09/23/20210923-demonslayer/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
