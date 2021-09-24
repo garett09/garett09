@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Deltarune Chapter 2 offers a brief reprieve in a world that’s still healing](https://www.polygon.com/reviews/22691556/deltarune-chapter-2-review-toby-fox-undertale)
- - [The best gaming PC in 2021](https://www.pcgamer.com/best-gaming-pc-uk)
- - [Share of the Week: Travel](http://feedproxy.google.com/~r/PSBlog/~3/_qj9Wz3dwsg/)<!-- GAME:END -->
+ - [Judging a Book by Its Cover: The Making of Alan Wake Remastered](https://news.xbox.com/en-us/2021/09/24/the-making-of-alan-wake-remastered/)
+ - [How did Dear Evan Hansen go so, so wrong?](https://www.polygon.com/22691667/dear-evan-hansen-review)
+ - [The Internet's Hateboner For Chris Pratt As Mario In Nintendo's Movie, Explained](https://kotaku.com/the-internets-hateboner-for-chris-pratt-as-mario-in-nin-1847739685)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
