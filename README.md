@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Official PlayStation Podcast Episode 411: B.R.I.D.G.E. of Spirits](http://feedproxy.google.com/~r/PSBlog/~3/0ULWA-c0OyI/)
- - [Official PlayStation Podcast Episode 411: B.R.I.D.G.E. of Spirits](https://blog.playstation.com/2021/09/24/official-playstation-podcast-episode-411-b-r-i-d-g-e-of-spirits/)
- - [Classic EverQuest players raid together to raise funds for hurricane relief](https://www.polygon.com/22685125/everquest-classic-hurricane-relief-charity-project-1999)<!-- GAME:END -->
+ - [Oath: Chronicles of Empire and Exile is much more than just a gussied-up version of Risk](https://www.polygon.com/reviews/22691483/oath-chronicles-of-empire-and-exile-review-cole-wehrle-leder-games)
+ - [Inside Xbox Series X|S Optimized: Kerbal Space Program Enhanced Edition](https://news.xbox.com/en-us/2021/09/24/inside-xbox-series-xs-optimized-kerbal-space-program-enhanced-edition/)
+ - [Foundation’s first two episodes jump around the timeline with wild abandon](https://www.polygon.com/22691622/foundation-timeline-apple-tv-takes-place-emperors-time-jump)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
