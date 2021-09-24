@@ -195,8 +195,8 @@ Windows                  7 hrs 16 mins       ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Its cheaper to die then to live](http://9gag.com/gag/aO3XNEE)
- - 🚯 [Natasha Lyonne and magic.](http://9gag.com/gag/aP3KdKB)
- - 🚯 [When you insult italians their food](http://9gag.com/gag/a5E8vKq)<!-- MEMES:END -->
+ - 🚯 [Homeowner turned his sprinklers on before leaving to escape a Kansas wildfire. He came home to this](http://9gag.com/gag/apNWjRn)
+ - 🚯 [Natasha Lyonne and magic.](http://9gag.com/gag/aP3KdKB)<!-- MEMES:END -->
 
 --- 
 
