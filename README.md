@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The Karen destroyer](http://9gag.com/gag/amPEn6v)
+ - 🚖 [I was there 3000 years ago](http://9gag.com/gag/aRXYDbG)
  - 🚯 [Holding a gun against a veteran and ending up getting their ass whooped.](http://9gag.com/gag/aQo0yjW)
- - 🚯 [The WiFi](http://9gag.com/gag/azM0QRK)<!-- MEMES:END -->
+ - 🚯 [The Karen destroyer](http://9gag.com/gag/amPEn6v)<!-- MEMES:END -->
 
 --- 
 
