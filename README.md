@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - ['Foundation' podcast launches to coincide with Apple TV+ debut](https://appleinsider.com/articles/21/09/24/foundation-podcast-launches-to-coincide-with-apple-tv-debut?utm_medium=rss)
  - [Some AirPods Pro users can't control ANC with Siri after updating to iOS 15](https://appleinsider.com/articles/21/09/24/some-airpods-pro-users-cant-control-anc-with-siri-after-updating-to-ios-15?utm_medium=rss)
- - [Unreleased MacBook Pro screen resolutions discovered in macOS Monterey beta](https://appleinsider.com/articles/21/09/24/unreleased-macbook-pro-screen-resolutions-discovered-in-macos-monterey-beta?utm_medium=rss)
- - [The Halo-themed Xbox Series X and PS5 are now available through Walmart (update: 9PM ET)](https://www.theverge.com/2021/9/23/22648984/ps5-xbox-series-x-halo-walmart-restock-time)<!-- TECH:END -->
+ - [Unreleased MacBook Pro screen resolutions discovered in macOS Monterey beta](https://appleinsider.com/articles/21/09/24/unreleased-macbook-pro-screen-resolutions-discovered-in-macos-monterey-beta?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
