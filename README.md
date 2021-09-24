@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple’s rumored MacBook Pros could get higher resolution screens, according to beta leak](https://www.theverge.com/2021/9/24/22691187/2021-m1x-macbook-pro-screen-resolution-3456-x-2234-retina-3024-x-1964)
- - [You told us: An Oppo flagship running Oxygen OS may not be such a bad thing](https://www.androidauthority.com/oneplus-oppo-software-poll-results-3029772/)
- - [Is putting an emoji as WhatsApp group icon possible now?](https://techncruncher.blogspot.com/2021/09/is-putting-emoji-as-whatsapp-group-icon.html)<!-- TECH:END -->
+ - [How to move your data and apps to a new iPad](https://appleinsider.com/articles/20/09/14/how-to-move-your-data-and-apps-to-a-new-ipad?utm_medium=rss)
+ - [Realme Band 2 announced: A bigger fitness tracker (Update: India launch)](https://www.androidauthority.com/realme-band-2-3024509/)
+ - [Xbox gets a new Edge browser that can play Stadia games, access Discord, and more](https://www.theverge.com/2021/9/24/22691196/xbox-new-edge-browser-chromium-release)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
