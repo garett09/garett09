@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When your car is glitching (Dayyum Edition)](http://9gag.com/gag/anQLW8o)
- - 🚯 [Chad poland](http://9gag.com/gag/abV9mY8)
- - 🚯 [This Dog waves goodbye to everyone who leaves the store](http://9gag.com/gag/a9E9NWj)<!-- MEMES:END -->
+ - 🚖 [Its cheaper to die then to live](http://9gag.com/gag/aO3XNEE)
+ - 🚯 [Natasha Lyonne and magic.](http://9gag.com/gag/aP3KdKB)
+ - 🚯 [When you insult italians their food](http://9gag.com/gag/a5E8vKq)<!-- MEMES:END -->
 
 --- 
 
