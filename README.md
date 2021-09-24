@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Cruella and all the new movies you can now watch from home](https://www.polygon.com/2021/9/24/22681727/cruella-netflix-starling-candyman-hbo-amazon-new-movies)
- - [BattlEye anti-cheat confirms Steam Deck support](https://www.pcgamer.com/battleye-anti-cheat-confirms-steam-deck-support)
- - [This new Dwarf Fortress video has me more excited than ever for the graphical update](https://www.pcgamer.com/this-new-dwarf-fortress-video-has-me-more-excited-than-ever-for-the-graphical-update)<!-- GAME:END -->
+ - [The Witcher season 2 release date, cast, and everything else we know](https://www.pcgamer.com/the-witcher-season-2-release-date-episode-recaps-and-more)
+ - [What if, instead of being enslaved by AIs, we could date them?](https://www.polygon.com/reviews/22692400/im-your-man-review-sci-fi)
+ - [Four Beloved Castlevania Games Available Now on Xbox](https://news.xbox.com/en-us/2021/09/24/four-beloved-castlevania-games-available-now-on-xbox/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
