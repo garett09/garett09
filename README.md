@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Sand Spider](http://9gag.com/gag/aDdErqd)
- - 🚯 [Aight, Imma head out](http://9gag.com/gag/a7EzPze)
- - 🚯 [Where will woke-ism end???](http://9gag.com/gag/aO3XApv)<!-- MEMES:END -->
+ - 🚖 [So funny tho xD](http://9gag.com/gag/amPEKgv)
+ - 🚯 [Where will woke-ism end???](http://9gag.com/gag/aO3XApv)
+ - 🚯 [What monster did this?!](http://9gag.com/gag/aB27jqx)<!-- MEMES:END -->
 
 --- 
 
