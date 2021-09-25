@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Witcher Renewed For Season 3 On Netflix Alongside A Spin-Off For Kids](https://kotaku.com/the-witcher-renewed-for-season-3-on-netflix-alongside-a-1847746369)
- - [Netflix announces a new family friendly Witcher series, along with season 3](https://www.polygon.com/22693000/witcher-season-3-netflix-animated-anime-kids-show)
- - [The Witcher season 2 trailer has Geralt and Ciri in training mode](https://www.polygon.com/22692706/the-witcher-season-2-trailer)<!-- GAME:END -->
+ - [This Asus laptop with a GTX 1650 is only $700 right now](https://www.pcgamer.com/this-asus-laptop-with-a-gtx-1650-is-only-dollar700-right-now)
+ - [Here's the trailer for Arcane, the League of Legends Netflix show](https://www.pcgamer.com/heres-the-trailer-for-arcane-the-league-of-legends-netflix-show)
+ - [The Witcher Renewed For Season 3 On Netflix Alongside A Spin-Off For Kids](https://kotaku.com/the-witcher-renewed-for-season-3-on-netflix-alongside-a-1847746369)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
