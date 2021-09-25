@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Son of Satan](http://9gag.com/gag/av53MvE)
- - 🚯 [Wait what the f**k](http://9gag.com/gag/av53NGq)
- - 🚯 [Idiot watching bull on iPad forgets it&#039;s right in front of him](http://9gag.com/gag/a6EA0XL)<!-- MEMES:END -->
+ - 🚖 [Finally Gordon Ramsay....](http://9gag.com/gag/abV9NVv)
+ - 🚯 [Idiot watching bull on iPad forgets it&#039;s right in front of him](http://9gag.com/gag/a6EA0XL)
+ - 🚯 [Hmmmm &quot;Friends&quot;](http://9gag.com/gag/ayMOb7b)<!-- MEMES:END -->
 
 --- 
 
