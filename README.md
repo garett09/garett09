@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Seoul-based 3i, an immersive experience startup focusing on metaverse tech, AI, and AR/VR, raises ~$24M Series A led by SV Investment (FinSMEs)](http://www.techmeme.com/210924/p26#a210924p26)
- - [Apple says iPhone 13 Pro ProMotion available to all apps, fix for Core Animation issue coming soon](https://appleinsider.com/articles/21/09/25/apple-says-iphone-13-pro-promotion-available-to-all-apps-fix-for-core-animation-issue-coming-soon?utm_medium=rss)
- - [Apple TV+ reportedly had less than 20M subscribers in US and Canada as of July](https://appleinsider.com/articles/21/09/25/apple-tv-reportedly-had-less-than-20m-subscribers-in-us-and-canada-as-of-july?utm_medium=rss)<!-- TECH:END -->
+ - [Analysis: with 26 exits so far, 2021 could be Kleiner Perkins' best year for number of exits in at least a decade (Sophia Kunthara/Crunchbase News)](http://www.techmeme.com/210924/p27#a210924p27)
+ - [iCloud Private Relay flaw leaks users' IP addresses](https://appleinsider.com/articles/21/09/25/icloud-private-relay-flaw-leaks-users-ip-addresses?utm_medium=rss)
+ - [Seoul-based 3i, an immersive experience startup focusing on metaverse tech, AI, and AR/VR, raises ~$24M Series A led by SV Investment (FinSMEs)](http://www.techmeme.com/210924/p26#a210924p26)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
