@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Foundation is also a stealthy adaptation of Asimov’s Robot books](https://www.polygon.com/22691724/foundation-apple-tv-robot-lady-asimov-demerzel-three-laws)
  - [Crapshoot: The edutainment game that expects you to 'learn English Or DIE!'](https://www.pcgamer.com/saturday-crapshoot-mean-city-learn-english-or-die)
- - [What's the last game that made you cry?](https://www.pcgamer.com/whats-the-last-game-that-made-you-cry)
- - [The true Nvidia RTX legacy isn't ray tracing, it's DLSS](https://www.pcgamer.com/dlss-is-nvidas-rtx-legacy-not-ray-tracing)<!-- GAME:END -->
+ - [What's the last game that made you cry?](https://www.pcgamer.com/whats-the-last-game-that-made-you-cry)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
