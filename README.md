@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hmmmm &quot;Friends&quot;](http://9gag.com/gag/ayMOb7b)
- - 🚯 [Die With Honor](http://9gag.com/gag/a6EAReL)
- - 🚯 [Every generation has its style](http://9gag.com/gag/aYo20oN)<!-- MEMES:END -->
+ - 🚖 [Confusion of da highest orda](http://9gag.com/gag/amPE484)
+ - 🚯 [Fascinating Creature!!](http://9gag.com/gag/a3EV67e)
+ - 🚯 [This guy](http://9gag.com/gag/aGpW4d6)<!-- MEMES:END -->
 
 --- 
 
