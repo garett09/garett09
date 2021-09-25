@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple tells developers how to use 120Hz ProMotion for iPhone 13 Pro](https://appleinsider.com/articles/21/09/25/apple-tells-developers-how-to-use-120hz-promotion-for-iphone-13-pro?utm_medium=rss)
- - [Disney Plus Day will bring new titles from Marvel, Star Wars, Pixar, and more](https://www.androidauthority.com/disney-plus-day-3028844/)
- - [Watch The Witcher season 2 trailer, first looks and Blood Origin prequel preview     - CNET](https://www.cnet.com/news/watch-the-witcher-season-2-trailer-first-looks-and-blood-origin-prequel-preview/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best home theater systems of 2021     - CNET](https://www.cnet.com/tech/home-entertainment/best-home-theater-systems/#ftag=CAD590a51e)
+ - [Netflix: The 41 best movies to stream tonight     - CNET](https://www.cnet.com/news/netflix-the-41-best-movies-to-stream-tonight/#ftag=CAD590a51e)
+ - [Netflix: The 52 best TV shows to watch tonight     - CNET](https://www.cnet.com/news/netflix-the-52-best-tv-shows-to-watch-tonight/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
