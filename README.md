@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nokia XR20 review: A sharply dressed rugged phone with few flaws](https://www.androidauthority.com/nokia-xr20-review-3025508/)
- - [iPhone 13 Pro teardown reveals massive battery, beefier camera array](https://appleinsider.com/articles/21/09/25/iphone-13-pro-teardown-reveals-massive-battery-beefier-camera-array?utm_medium=rss)
- - [Samsung Galaxy S22 Plus renders leak: Evolution rather than revolution?](https://www.androidauthority.com/samsung-galaxy-s22-plus-3029036/)<!-- TECH:END -->
+ - [How TikTok's auto-generation tools helped popularize subtitles in the app, as creators compete for the estimated 75% of users who leave their phones on mute (Brian Contreras/Los Angeles Times)](http://www.techmeme.com/210925/p3#a210925p3)
+ - [iPhone 13 Pro and 13 Pro Max review: Damn, these cameras     - CNET](https://www.cnet.com/tech/mobile/iphone-13-pro-13-pro-max-review-cameras/#ftag=CAD590a51e)
+ - [iOS 15 review: New features like focus mode and live text are game-changers     - CNET](https://www.cnet.com/tech/mobile/ios-15-review-new-features-like-focus-mode-and-live-text-game-changers/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
