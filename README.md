@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The true Nvidia RTX legacy isn't ray tracing, it's DLSS](https://www.pcgamer.com/dlss-is-nvidas-rtx-legacy-not-ray-tracing)
- - [The Witcher season 2 release date, cast, and everything else we know](https://www.pcgamer.com/the-witcher-season-2-release-date-episode-recaps-and-more)
- - [What if, instead of being enslaved by AIs, we could date them?](https://www.polygon.com/reviews/22692400/im-your-man-review-sci-fi)<!-- GAME:END -->
+ - [Crapshoot: The edutainment game that expects you to 'learn English Or DIE!'](https://www.pcgamer.com/saturday-crapshoot-mean-city-learn-english-or-die)
+ - [What's the last game that made you cry?](https://www.pcgamer.com/whats-the-last-game-that-made-you-cry)
+ - [The true Nvidia RTX legacy isn't ray tracing, it's DLSS](https://www.pcgamer.com/dlss-is-nvidas-rtx-legacy-not-ray-tracing)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
