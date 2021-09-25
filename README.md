@@ -194,8 +194,8 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Idiot watching bull on iPad forgets it&#039;s right in front of him](http://9gag.com/gag/a6EA0XL)
- - 🚯 [Spitting in someone&#039;s face](http://9gag.com/gag/a8EBR3Q)
+ - 🚖 [Spitting in someone&#039;s face](http://9gag.com/gag/a8EBR3Q)
+ - 🚯 [Hydraulic press action](http://9gag.com/gag/aoMbXAn)
  - 🚯 [What just happened?](http://9gag.com/gag/axMX5GK)<!-- MEMES:END -->
 
 --- 
