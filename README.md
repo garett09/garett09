@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Life safern&#039;t](http://9gag.com/gag/aGpWQpG)
- - 🚯 [Every masterpiece has it&#039;s own cheap copy ....](http://9gag.com/gag/a7EzX7q)
- - 🚯 [Uhhh...](http://9gag.com/gag/axMXrVb)<!-- MEMES:END -->
+ - 🚖 [This massive 3.5m high 26 headed sunflower in my tiny garden, banana for scale.](http://9gag.com/gag/abV98EE)
+ - 🚯 [Life safern&#039;t](http://9gag.com/gag/aGpWQpG)
+ - 🚯 [Street kitty](http://9gag.com/gag/aDdEv0B)<!-- MEMES:END -->
 
 --- 
 
