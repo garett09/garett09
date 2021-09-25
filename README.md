@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 13 Pro teardown reveals massive battery, beefier camera array](https://appleinsider.com/articles/21/09/25/iphone-13-pro-teardown-reveals-massive-battery-beefier-camera-array?utm_medium=rss)
- - [Analysis: with 26 exits so far, 2021 could be Kleiner Perkins' best year for number of exits in at least a decade (Sophia Kunthara/Crunchbase News)](http://www.techmeme.com/210924/p27#a210924p27)
- - [iCloud Private Relay flaw leaks users' IP addresses](https://appleinsider.com/articles/21/09/25/icloud-private-relay-flaw-leaks-users-ip-addresses?utm_medium=rss)<!-- TECH:END -->
+ - [A viral TikTok video from July caused many young women to use Prolific, a survey website for scientists, skewing the demographic data for thousands of studies (Rafi Letzter/The Verge)](http://www.techmeme.com/210925/p2#a210925p2)
+ - [Stairwell, which scans companies' data to detect if they are compromised or were in the past, raises $20M Series A led by Sequoia and Accel (Carly Page/TechCrunch)](http://www.techmeme.com/210925/p1#a210925p1)
+ - [iPhone 13 Pro teardown reveals massive battery, beefier camera array](https://appleinsider.com/articles/21/09/25/iphone-13-pro-teardown-reveals-massive-battery-beefier-camera-array?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
