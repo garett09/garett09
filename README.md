@@ -195,8 +195,8 @@ Windows                  7 hrs 16 mins       ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Nothing but joy](http://9gag.com/gag/aDdEKDx)
- - 🚯 [Fascinating Creature!!](http://9gag.com/gag/a3EV67e)
- - 🚯 [Finally Gordon Ramsay....](http://9gag.com/gag/abV9NVv)<!-- MEMES:END -->
+ - 🚯 [Idiot watching bull on iPad forgets it&#039;s right in front of him](http://9gag.com/gag/a6EA0XL)
+ - 🚯 [I want one..! now what do I do?!](http://9gag.com/gag/a1rG3Ov)<!-- MEMES:END -->
 
 --- 
 
