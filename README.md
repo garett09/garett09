@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This incense ceremony is so satisfying](http://9gag.com/gag/a3EVOLr)
- - 🚯 [Try It Out](http://9gag.com/gag/a3EVOb8)
- - 🚯 [Confusion of da highest orda](http://9gag.com/gag/amPE484)<!-- MEMES:END -->
+ - 🚖 [How the wardrobe turns](http://9gag.com/gag/amPE4NX)
+ - 🚯 [Doing groceries](http://9gag.com/gag/a7EzxG2)
+ - 🚯 [A modder&rsquo;s life](http://9gag.com/gag/aqjqE3Z)<!-- MEMES:END -->
 
 --- 
 
