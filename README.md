@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Oppo Find X3 Pro six months later: Is it still worth buying?](https://www.androidauthority.com/oppo-find-x3-pro-long-term-review-3024510/)
- - [A look at serialized story services like Amazon's Kindle Vella, as combined IAP revenue of top 7 services grew an estimated 50% YoY to $12M/mo. in May and July (Todd Bishop/GeekWire)](http://www.techmeme.com/210925/p4#a210925p4)
- - [Apple reportedly told a TV and movie workers’ union its TV Plus had fewer than 20 million subs](https://www.theverge.com/2021/9/25/22692966/apple-plus-tv-movie-streaming-workers-union-fewer-than-20-million-subscribers)<!-- TECH:END -->
+ - [Best Deals Sept. 25 - $35 Arc mouse, $200 off 49-inch curved monitor, and more!](https://appleinsider.com/articles/21/09/25/best-deals-sept-25---35-arc-mouse-200-off-49-inch-curved-monitor-and-more?utm_medium=rss)
+ - [Samsung taking hints from Apple? Galaxy S22 renders very similar to Galaxy S21.](https://www.androidauthority.com/samsung-galaxy-s22-design-3030528/)
+ - [Oppo Find X3 Pro six months later: Is it still worth buying?](https://www.androidauthority.com/oppo-find-x3-pro-long-term-review-3024510/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
