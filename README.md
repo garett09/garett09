@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tiger King season 2 premieres November 17th](https://www.theverge.com/2021/9/25/22691984/tiger-king-season-2-release-date-netflix)
- - [The best Chucky movies ranked: Watch them all before the series airs](https://www.androidauthority.com/best-chucky-movies-ranked-3020057/)
- - [Netflix’s new trailer for Arcane, its upcoming League of Legends series, reveals November 6th premiere date](https://www.theverge.com/22688837/netflix-arcane-league-of-legends-trailer-show-riot-games-release-date)<!-- TECH:END -->
+ - [Watch an all-new clip of Netflix’s Don’t Look Up](https://www.theverge.com/22691520/dont-look-up-trailer-netflix-leo-dicaprio-jennifer-lawrence)
+ - [How Toast, founded in Boston with a $500K investment from Endeca's Steve Papa after VCs shunned it, became a $30B business, in part by avoiding the Bay Area (Ari Levy/CNBC)](http://www.techmeme.com/210925/p7#a210925p7)
+ - [Netflix Tudum: See sneak peeks of Stranger Things 4, Bridgerton, Money Heist, more     - CNET](https://www.cnet.com/news/netflixs-sneak-peeks-at-bridgerton-red-notice-money-heist-army-of-thieves-extraction-2-and-more-from-tudum/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
