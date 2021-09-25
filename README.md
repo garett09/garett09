@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Watch Netflix’s trailer for Inside Job, an adult comedy from a Gravity Falls alum](https://www.polygon.com/22688651/inside-job-trailer-release-date-netflix)
- - [Netflix's Live-Action Cowboy Bebop Intro Is Good](https://kotaku.com/netflixs-live-action-cowboy-bebop-intro-is-good-1847746068)
- - [Watch Netflix’s Cowboy Bebop’s brilliant opening sequence, complete with Tank!](https://www.polygon.com/22690978/cowboy-bebop-netflix-credit-sequence-theme-song)<!-- GAME:END -->
+ - [The Witcher Renewed For Season 3 On Netflix Alongside A Spin-Off For Kids](https://kotaku.com/the-witcher-renewed-for-season-3-on-netflix-alongside-a-1847746369)
+ - [Netflix announces a new family friendly Witcher series, along with season 3](https://www.polygon.com/22693000/witcher-season-3-netflix-animated-anime-kids-show)
+ - [The Witcher season 2 trailer has Geralt and Ciri in training mode](https://www.polygon.com/22692706/the-witcher-season-2-trailer)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
