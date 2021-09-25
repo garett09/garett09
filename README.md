@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Elizabeth Holmes sidelined the real scientists at Theranos](https://www.theverge.com/2021/9/24/22692600/elizabeth-holmes-theranos-bad-tests-complaints)
- - [Production crew union says Apple claimed less than 20M TV+ subscribers in the US and Canada as of July 1, allowing Apple to pay workers lower rates (Kif Leswing/CNBC)](http://www.techmeme.com/210924/p25#a210924p25)
- - [iPhone 13 mini review: The most powerful small smartphone on the market](https://appleinsider.com/articles/21/09/24/iphone-13-mini-review-the-most-powerful-small-smartphone-on-the-market?utm_medium=rss)<!-- TECH:END -->
+ - [Apple says iPhone 13 Pro ProMotion available to all apps, fix for Core Animation issue coming soon](https://appleinsider.com/articles/21/09/25/apple-says-iphone-13-pro-promotion-available-to-all-apps-fix-for-core-animation-issue-coming-soon?utm_medium=rss)
+ - [Apple TV+ reportedly had less than 20M subscribers in US and Canada as of July](https://appleinsider.com/articles/21/09/25/apple-tv-reportedly-had-less-than-20m-subscribers-in-us-and-canada-as-of-july?utm_medium=rss)
+ - [How Elizabeth Holmes sidelined the real scientists at Theranos](https://www.theverge.com/2021/9/24/22692600/elizabeth-holmes-theranos-bad-tests-complaints)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
