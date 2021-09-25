@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Foundation is also a stealthy adaptation of Asimov’s Robot books](https://www.polygon.com/22691724/foundation-apple-tv-robot-lady-asimov-demerzel-three-laws)
- - [Crapshoot: The edutainment game that expects you to 'learn English Or DIE!'](https://www.pcgamer.com/saturday-crapshoot-mean-city-learn-english-or-die)
- - [What's the last game that made you cry?](https://www.pcgamer.com/whats-the-last-game-that-made-you-cry)<!-- GAME:END -->
+ - [12 great movies leaving Netflix, Hulu, and Amazon at the end of September 2021](https://www.polygon.com/2021/9/25/22690264/best-movies-netflix-amazon-hulu-september-2021-leaving)
+ - [Camerupt Literally Explodes When It Gets Angry](https://kotaku.com/camerupt-literally-explodes-when-it-gets-angry-1847744279)
+ - [Foundation is also a stealthy adaptation of Asimov’s Robot books](https://www.polygon.com/22691724/foundation-apple-tv-robot-lady-asimov-demerzel-three-laws)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
