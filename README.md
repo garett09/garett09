@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon plots wall-mounted Echo in far-reaching development plans](https://appleinsider.com/articles/21/09/25/amazon-plots-wall-mounted-echo-in-far-reaching-development-plans?utm_medium=rss)
- - [iPhone 13 mini review: The most powerful small smartphone on the market](https://appleinsider.com/articles/21/09/24/iphone-13-mini-review-the-most-powerful-small-smartphone-on-the-market?utm_medium=rss)
- - [Samsung One UI 4: Hands-on with all the new features for Android 12](https://www.androidauthority.com/samsung-one-ui-4-3029406/)<!-- TECH:END -->
+ - [Even the CIA and NSA Use Ad Blockers to Stay Safe Online](https://www.wired.com/story/security-roundup-even-cia-nsa-use-ad-blockers)
+ - [iPhone 13 case roundup: Protect your new device from the start](https://appleinsider.com/articles/21/09/22/iphone-13-case-roundup-protect-your-device-on-release-day?utm_medium=rss)
+ - [Hands on with the new features of iPhone 13 Pro Max](https://appleinsider.com/articles/21/09/24/hands-on-with-the-new-features-of-iphone-13-pro-max?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
