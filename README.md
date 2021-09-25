@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Realme Pad review: Low price, limited ambitions](https://www.androidauthority.com/realme-pad-review-3027040/)
- - [A viral TikTok video from July caused many young women to use Prolific, a survey website for scientists, skewing the demographic data for thousands of studies (Rafi Letzter/The Verge)](http://www.techmeme.com/210925/p2#a210925p2)
- - [Stairwell, which scans companies' data to detect if they are compromised or were in the past, raises $20M Series A led by Sequoia and Accel (Carly Page/TechCrunch)](http://www.techmeme.com/210925/p1#a210925p1)<!-- TECH:END -->
+ - [Samsung Galaxy S22 Plus renders leak: Evolution rather than revolution?](https://www.androidauthority.com/samsung-galaxy-s22-plus-3029036/)
+ - [Here’s how you can upgrade to Windows 11 early](https://techncruncher.blogspot.com/2021/09/heres-how-you-can-upgrade-to-windows-11.html)
+ - [Realme Pad review: Low price, limited ambitions](https://www.androidauthority.com/realme-pad-review-3027040/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
