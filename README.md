@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The true Nvidia RTX legacy isn't ray tracing, it's DLSS](https://www.pcgamer.com/dlss-is-nvidas-rtx-legacy-not-ray-tracing)
  - [The Witcher season 2 release date, cast, and everything else we know](https://www.pcgamer.com/the-witcher-season-2-release-date-episode-recaps-and-more)
- - [What if, instead of being enslaved by AIs, we could date them?](https://www.polygon.com/reviews/22692400/im-your-man-review-sci-fi)
- - [Four Beloved Castlevania Games Available Now on Xbox](https://news.xbox.com/en-us/2021/09/24/four-beloved-castlevania-games-available-now-on-xbox/)<!-- GAME:END -->
+ - [What if, instead of being enslaved by AIs, we could date them?](https://www.polygon.com/reviews/22692400/im-your-man-review-sci-fi)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
