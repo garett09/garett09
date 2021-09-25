@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Tiger King season 2 hits Netflix in November](https://www.polygon.com/22689863/tiger-king-season-2-netflix-release-date-carole-baskin)
- - [The Vikings: Valhalla trailer offers a thrilling look at the Netflix spinoff](https://www.polygon.com/22688084/vikings-valhalla-premiere-date-trailer-netflix)
- - [League of Legends’ Arcane series gets stunning new trailer, Netflix release date](https://www.polygon.com/22684693/league-of-legends-arcane-release-date-netflix-trailer)<!-- GAME:END -->
+ - [Watch Netflix’s trailer for Inside Job, an adult comedy from a Gravity Falls alum](https://www.polygon.com/22688651/inside-job-trailer-release-date-netflix)
+ - [Netflix's Live-Action Cowboy Bebop Intro Is Good](https://kotaku.com/netflixs-live-action-cowboy-bebop-intro-is-good-1847746068)
+ - [Watch Netflix’s Cowboy Bebop’s brilliant opening sequence, complete with Tank!](https://www.polygon.com/22690978/cowboy-bebop-netflix-credit-sequence-theme-song)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
