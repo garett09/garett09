@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Finally Gordon Ramsay....](http://9gag.com/gag/abV9NVv)
- - 🚯 [Idiot watching bull on iPad forgets it&#039;s right in front of him](http://9gag.com/gag/a6EA0XL)
- - 🚯 [Hmmmm &quot;Friends&quot;](http://9gag.com/gag/ayMOb7b)<!-- MEMES:END -->
+ - 🚖 [Idiot watching bull on iPad forgets it&#039;s right in front of him](http://9gag.com/gag/a6EA0XL)
+ - 🚯 [Spitting in someone&#039;s face](http://9gag.com/gag/a8EBR3Q)
+ - 🚯 [What just happened?](http://9gag.com/gag/axMX5GK)<!-- MEMES:END -->
 
 --- 
 
