@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Yeah i hate that](http://9gag.com/gag/awM62ZQ)
+ - 🚖 [This incense ceremony is so satisfying](http://9gag.com/gag/a3EVOLr)
  - 🚯 [Cato having a mental breakdown](http://9gag.com/gag/aZ0G5RW)
- - 🚯 [A keeper](http://9gag.com/gag/aQo0bgK)<!-- MEMES:END -->
+ - 🚯 [My time has come](http://9gag.com/gag/aV7N5vd)<!-- MEMES:END -->
 
 --- 
 
