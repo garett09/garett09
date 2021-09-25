@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Deals Sept. 25 - $35 Arc mouse, $200 off 49-inch curved monitor, and more!](https://appleinsider.com/articles/21/09/25/best-deals-sept-25---35-arc-mouse-200-off-49-inch-curved-monitor-and-more?utm_medium=rss)
- - [Samsung taking hints from Apple? Galaxy S22 renders very similar to Galaxy S21.](https://www.androidauthority.com/samsung-galaxy-s22-design-3030528/)
- - [Oppo Find X3 Pro six months later: Is it still worth buying?](https://www.androidauthority.com/oppo-find-x3-pro-long-term-review-3024510/)<!-- TECH:END -->
+ - [Apple Watch Series 6 oxygen sensor just as good as hospital equipment](https://appleinsider.com/articles/21/09/25/apple-watch-series-6-reliable-enough-to-help-treat-lung-disease-patients?utm_medium=rss)
+ - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-399-3029563/)
+ - [Amazon wants you to hang Echo on your wall in the future](https://appleinsider.com/articles/21/09/25/amazon-plots-wall-mounted-echo-in-far-reaching-development-plans?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
