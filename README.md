@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Netflix Tudum 2021: All the trailers, news, and release date announcements](https://www.polygon.com/22691799/netflix-tudum-2021-trailers-news-witcher-stranger-things-cowboy-bebop)
- - [UK Cracks Down On In-Game Ads And Microtransactions](https://kotaku.com/uk-cracks-down-on-in-game-ads-and-microtransactions-1847745578)
- - [12 great movies leaving Netflix, Hulu, and Amazon at the end of September 2021](https://www.polygon.com/2021/9/25/22690264/best-movies-netflix-amazon-hulu-september-2021-leaving)<!-- GAME:END -->
+ - [Ozark’s fourth and final season comes to Netflix in 2022](https://www.polygon.com/22693004/ozark-season-4-release-date-clip-netflix)
+ - [Stranger Things season 4 teaser promises an even more retro ghost story](https://www.polygon.com/22423586/stranger-things-season-4-clip-netflix-release-date)
+ - [Netflix Tudum 2021: All the trailers, news, and release date announcements](https://www.polygon.com/22691799/netflix-tudum-2021-trailers-news-witcher-stranger-things-cowboy-bebop)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
