@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Nothing but joy](http://9gag.com/gag/aDdEKDx)
- - 🚯 [Idiot watching bull on iPad forgets it&#039;s right in front of him](http://9gag.com/gag/a6EA0XL)
- - 🚯 [I want one..! now what do I do?!](http://9gag.com/gag/a1rG3Ov)<!-- MEMES:END -->
+ - 🚖 [Son of Satan](http://9gag.com/gag/av53MvE)
+ - 🚯 [Wait what the f**k](http://9gag.com/gag/av53NGq)
+ - 🚯 [Idiot watching bull on iPad forgets it&#039;s right in front of him](http://9gag.com/gag/a6EA0XL)<!-- MEMES:END -->
 
 --- 
 
