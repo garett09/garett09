@@ -194,8 +194,8 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Microwaving a glow stick](http://9gag.com/gag/a7Ezg2q)
- - 🚯 [Light up a smoke stack with a torch](http://9gag.com/gag/aDdELP7)
+ - 🚖 [They refused to turn the music down](http://9gag.com/gag/aB27MrP)
+ - 🚯 [&quot;F&quot; to pay respect](http://9gag.com/gag/a8EBOWe)
  - 🚯 [Watch that was on fire gets restored to brand new](http://9gag.com/gag/av53qQn)<!-- MEMES:END -->
 
 --- 
