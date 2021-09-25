@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Watch an all-new clip of Netflix’s Don’t Look Up](https://www.theverge.com/22691520/dont-look-up-trailer-netflix-leo-dicaprio-jennifer-lawrence)
- - [How Toast, founded in Boston with a $500K investment from Endeca's Steve Papa after VCs shunned it, became a $30B business, in part by avoiding the Bay Area (Ari Levy/CNBC)](http://www.techmeme.com/210925/p7#a210925p7)
- - [Netflix Tudum: See sneak peeks of Stranger Things 4, Bridgerton, Money Heist, more     - CNET](https://www.cnet.com/news/netflixs-sneak-peeks-at-bridgerton-red-notice-money-heist-army-of-thieves-extraction-2-and-more-from-tudum/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple tells developers how to use 120Hz ProMotion for iPhone 13 Pro](https://appleinsider.com/articles/21/09/25/apple-tells-developers-how-to-use-120hz-promotion-for-iphone-13-pro?utm_medium=rss)
+ - [Disney Plus Day will bring new titles from Marvel, Star Wars, Pixar, and more](https://www.androidauthority.com/disney-plus-day-3028844/)
+ - [Watch The Witcher season 2 trailer, first looks and Blood Origin prequel preview     - CNET](https://www.cnet.com/news/watch-the-witcher-season-2-trailer-first-looks-and-blood-origin-prequel-preview/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
