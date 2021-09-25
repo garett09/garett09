@@ -195,7 +195,7 @@ Windows                  7 hrs 16 mins       ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [This massive 3.5m high 26 headed sunflower in my tiny garden, banana for scale.](http://9gag.com/gag/abV98EE)
- - 🚯 [Life safern&#039;t](http://9gag.com/gag/aGpWQpG)
+ - 🚯 [This guy&#039;s workout routine.](http://9gag.com/gag/aZ0G5w3)
  - 🚯 [Street kitty](http://9gag.com/gag/aDdEv0B)<!-- MEMES:END -->
 
 --- 
