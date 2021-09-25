@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Confusion of da highest orda](http://9gag.com/gag/amPE484)
+ - 🚖 [Nothing but joy](http://9gag.com/gag/aDdEKDx)
  - 🚯 [Fascinating Creature!!](http://9gag.com/gag/a3EV67e)
- - 🚯 [This guy](http://9gag.com/gag/aGpW4d6)<!-- MEMES:END -->
+ - 🚯 [Finally Gordon Ramsay....](http://9gag.com/gag/abV9NVv)<!-- MEMES:END -->
 
 --- 
 
