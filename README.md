@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Documents show Clearview AI subpoenaed internal docs and correspondence from advocacy groups and civil society coalitions that first exposed its activities (Alexandra S. Levine/Politico)](http://www.techmeme.com/210924/p23#a210924p23)
- - [How to move Google Authenticator to your new iPhone](https://appleinsider.com/articles/19/09/20/how-to-move-google-authenticator-to-your-new-iphone?utm_medium=rss)
- - [NFL wants Sunday Ticket to land at Apple, report says](https://appleinsider.com/articles/21/09/24/nfl-wants-sunday-ticket-to-land-at-apple-report-says?utm_medium=rss)<!-- TECH:END -->
+ - [How Elizabeth Holmes sidelined the real scientists at Theranos](https://www.theverge.com/2021/9/24/22692600/elizabeth-holmes-theranos-bad-tests-complaints)
+ - [Production crew union says Apple claimed less than 20M TV+ subscribers in the US and Canada as of July 1, allowing Apple to pay workers lower rates (Kif Leswing/CNBC)](http://www.techmeme.com/210924/p25#a210924p25)
+ - [iPhone 13 mini review: The most powerful small smartphone on the market](https://appleinsider.com/articles/21/09/24/iphone-13-mini-review-the-most-powerful-small-smartphone-on-the-market?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
