@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Shenzen-based Pudu Robotics, which makes commercial service robots for use in airports, restaurants, supermarkets, and hospitals, raises $155M Series C (FinSMEs)](http://www.techmeme.com/210925/p6#a210925p6)
- - [Netflix's sneak peeks at Stranger Things, Ozark, Kanye doc and more     - CNET](https://www.cnet.com/news/netflixs-sneak-peeks-at-stranger-things-ozark-kanye-doc-and-more/#ftag=CAD590a51e)
- - [Netflix's Ozark shares blood-soaked first look at season 4     - CNET](https://www.cnet.com/news/netflixs-ozark-shares-blood-soaked-first-look-at-season-4/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Tiger King season 2 premieres November 17th](https://www.theverge.com/2021/9/25/22691984/tiger-king-season-2-release-date-netflix)
+ - [The best Chucky movies ranked: Watch them all before the series airs](https://www.androidauthority.com/best-chucky-movies-ranked-3020057/)
+ - [Netflix’s new trailer for Arcane, its upcoming League of Legends series, reveals November 6th premiere date](https://www.theverge.com/22688837/netflix-arcane-league-of-legends-trailer-show-riot-games-release-date)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
