@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Life safern&#039;t](http://9gag.com/gag/aGpWQpG)
- - 🚯 [Die With Honor](http://9gag.com/gag/a6EAReL)
- - 🚯 [Try It Out](http://9gag.com/gag/a3EVOb8)<!-- MEMES:END -->
+ - 🚖 [This incense ceremony is so satisfying](http://9gag.com/gag/a3EVOLr)
+ - 🚯 [Try It Out](http://9gag.com/gag/a3EVOb8)
+ - 🚯 [Confusion of da highest orda](http://9gag.com/gag/amPE484)<!-- MEMES:END -->
 
 --- 
 
