@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone 13 Pro teardown reveals massive battery, beefier camera array](https://appleinsider.com/articles/21/09/25/iphone-13-pro-teardown-reveals-massive-battery-beefier-camera-array?utm_medium=rss)
  - [Analysis: with 26 exits so far, 2021 could be Kleiner Perkins' best year for number of exits in at least a decade (Sophia Kunthara/Crunchbase News)](http://www.techmeme.com/210924/p27#a210924p27)
- - [iCloud Private Relay flaw leaks users' IP addresses](https://appleinsider.com/articles/21/09/25/icloud-private-relay-flaw-leaks-users-ip-addresses?utm_medium=rss)
- - [Seoul-based 3i, an immersive experience startup focusing on metaverse tech, AI, and AR/VR, raises ~$24M Series A led by SV Investment (FinSMEs)](http://www.techmeme.com/210924/p26#a210924p26)<!-- TECH:END -->
+ - [iCloud Private Relay flaw leaks users' IP addresses](https://appleinsider.com/articles/21/09/25/icloud-private-relay-flaw-leaks-users-ip-addresses?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
