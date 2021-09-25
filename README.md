@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [NFL wants Sunday Ticket to land at Apple, report says](https://appleinsider.com/articles/21/09/24/nfl-wants-sunday-ticket-to-land-at-apple-report-says?utm_medium=rss)
- - [Apple restricts third-party access to iPhone 13 Pro's 120Hz ProMotion display](https://appleinsider.com/articles/21/09/24/apple-restricts-third-party-access-to-iphone-13-pros-120hz-promotion-display?utm_medium=rss)
- - [Pokemon Go October 2021 events: Raids, Zarude, Halloween and more     - CNET](https://www.cnet.com/news/pokemon-go-october-2021-events-zarude-raids-halloween-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Documents show Clearview AI subpoenaed internal docs and correspondence from advocacy groups and civil society coalitions that first exposed its activities (Alexandra S. Levine/Politico)](http://www.techmeme.com/210924/p23#a210924p23)
+ - [How to move Google Authenticator to your new iPhone](https://appleinsider.com/articles/19/09/20/how-to-move-google-authenticator-to-your-new-iphone?utm_medium=rss)
+ - [NFL wants Sunday Ticket to land at Apple, report says](https://appleinsider.com/articles/21/09/24/nfl-wants-sunday-ticket-to-land-at-apple-report-says?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
