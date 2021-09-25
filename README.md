@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How TikTok's auto-generation tools helped popularize subtitles in the app, as creators compete for the estimated 75% of users who leave their phones on mute (Brian Contreras/Los Angeles Times)](http://www.techmeme.com/210925/p3#a210925p3)
- - [iPhone 13 Pro and 13 Pro Max review: Damn, these cameras     - CNET](https://www.cnet.com/tech/mobile/iphone-13-pro-13-pro-max-review-cameras/#ftag=CAD590a51e)
- - [iOS 15 review: New features like focus mode and live text are game-changers     - CNET](https://www.cnet.com/tech/mobile/ios-15-review-new-features-like-focus-mode-and-live-text-game-changers/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Amazon plots wall-mounted Echo in far-reaching development plans](https://appleinsider.com/articles/21/09/25/amazon-plots-wall-mounted-echo-in-far-reaching-development-plans?utm_medium=rss)
+ - [iPhone 13 mini review: The most powerful small smartphone on the market](https://appleinsider.com/articles/21/09/24/iphone-13-mini-review-the-most-powerful-small-smartphone-on-the-market?utm_medium=rss)
+ - [Samsung One UI 4: Hands-on with all the new features for Android 12](https://www.androidauthority.com/samsung-one-ui-4-3029406/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
