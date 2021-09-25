@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Every masterpiece has it&#039;s own cheap copy ....](http://9gag.com/gag/a7EzX7q)
- - 🚯 [Watch that was on fire gets restored to brand new](http://9gag.com/gag/av53qQn)
- - 🚯 [Microwaving a glow stick](http://9gag.com/gag/a7Ezg2q)<!-- MEMES:END -->
+ - 🚖 [Microwaving a glow stick](http://9gag.com/gag/a7Ezg2q)
+ - 🚯 [My time has come](http://9gag.com/gag/aV7N5vd)
+ - 🚯 [Oh look, apple is taking good care of thier customers.](http://9gag.com/gag/aZ0GXbz)<!-- MEMES:END -->
 
 --- 
 
