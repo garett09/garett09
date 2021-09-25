@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How the wardrobe turns](http://9gag.com/gag/amPE4NX)
- - 🚯 [Doing groceries](http://9gag.com/gag/a7EzxG2)
- - 🚯 [A modder&rsquo;s life](http://9gag.com/gag/aqjqE3Z)<!-- MEMES:END -->
+ - 🚖 [The choice is yours](http://9gag.com/gag/awM6pZy)
+ - 🚯 [A modder&rsquo;s life](http://9gag.com/gag/aqjqE3Z)
+ - 🚯 [Die With Honor](http://9gag.com/gag/a6EAReL)<!-- MEMES:END -->
 
 --- 
 
