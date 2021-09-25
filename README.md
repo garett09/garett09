@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Watch Series 6 oxygen sensor just as good as hospital equipment](https://appleinsider.com/articles/21/09/25/apple-watch-series-6-reliable-enough-to-help-treat-lung-disease-patients?utm_medium=rss)
- - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-399-3029563/)
- - [Amazon wants you to hang Echo on your wall in the future](https://appleinsider.com/articles/21/09/25/amazon-plots-wall-mounted-echo-in-far-reaching-development-plans?utm_medium=rss)<!-- TECH:END -->
+ - [Shenzen-based Pudu Robotics, which makes commercial service robots for use in airports, restaurants, supermarkets, and hospitals, raises $155M Series C (FinSMEs)](http://www.techmeme.com/210925/p6#a210925p6)
+ - [Netflix's sneak peeks at Stranger Things, Ozark, Kanye doc and more     - CNET](https://www.cnet.com/news/netflixs-sneak-peeks-at-stranger-things-ozark-kanye-doc-and-more/#ftag=CAD590a51e)
+ - [Netflix's Ozark shares blood-soaked first look at season 4     - CNET](https://www.cnet.com/news/netflixs-ozark-shares-blood-soaked-first-look-at-season-4/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
