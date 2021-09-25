@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone 13 Pro teardown reveals massive battery, beefier camera array](https://appleinsider.com/articles/21/09/25/iphone-13-pro-teardown-reveals-massive-battery-beefier-camera-array?utm_medium=rss)
  - [Samsung Galaxy S22 Plus renders leak: Evolution rather than revolution?](https://www.androidauthority.com/samsung-galaxy-s22-plus-3029036/)
- - [Here’s how you can upgrade to Windows 11 early](https://techncruncher.blogspot.com/2021/09/heres-how-you-can-upgrade-to-windows-11.html)
- - [Realme Pad review: Low price, limited ambitions](https://www.androidauthority.com/realme-pad-review-3027040/)<!-- TECH:END -->
+ - [Here’s how you can upgrade to Windows 11 early](https://techncruncher.blogspot.com/2021/09/heres-how-you-can-upgrade-to-windows-11.html)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
