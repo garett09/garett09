@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best home theater systems of 2021     - CNET](https://www.cnet.com/tech/home-entertainment/best-home-theater-systems/#ftag=CAD590a51e)
- - [Netflix: The 41 best movies to stream tonight     - CNET](https://www.cnet.com/news/netflix-the-41-best-movies-to-stream-tonight/#ftag=CAD590a51e)
- - [Netflix: The 52 best TV shows to watch tonight     - CNET](https://www.cnet.com/news/netflix-the-52-best-tv-shows-to-watch-tonight/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best AirPods Pro accessories for 2021: Cases, eartips, wireless in-flight transmitters and chargers     - CNET](https://www.cnet.com/tech/mobile/best-airpods-pro-accessories/#ftag=CAD590a51e)
+ - [UFC 266 with Nick Diaz: Start time, how to watch or stream online, full fight card     - CNET](https://www.cnet.com/news/ufc-266-with-nick-diaz-start-time-how-to-watch-or-stream-online-full-fight-card/#ftag=CAD590a51e)
+ - [Best home theater systems of 2021     - CNET](https://www.cnet.com/tech/home-entertainment/best-home-theater-systems/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
