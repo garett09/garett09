@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Ozark’s fourth and final season comes to Netflix in 2022](https://www.polygon.com/22693004/ozark-season-4-release-date-clip-netflix)
- - [Stranger Things season 4 teaser promises an even more retro ghost story](https://www.polygon.com/22423586/stranger-things-season-4-clip-netflix-release-date)
- - [Netflix Tudum 2021: All the trailers, news, and release date announcements](https://www.polygon.com/22691799/netflix-tudum-2021-trailers-news-witcher-stranger-things-cowboy-bebop)<!-- GAME:END -->
+ - [Tiger King season 2 hits Netflix in November](https://www.polygon.com/22689863/tiger-king-season-2-netflix-release-date-carole-baskin)
+ - [The Vikings: Valhalla trailer offers a thrilling look at the Netflix spinoff](https://www.polygon.com/22688084/vikings-valhalla-premiere-date-trailer-netflix)
+ - [League of Legends’ Arcane series gets stunning new trailer, Netflix release date](https://www.polygon.com/22684693/league-of-legends-arcane-release-date-netflix-trailer)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
