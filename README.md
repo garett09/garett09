@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This incense ceremony is so satisfying](http://9gag.com/gag/a3EVOLr)
- - 🚯 [Cato having a mental breakdown](http://9gag.com/gag/aZ0G5RW)
- - 🚯 [My time has come](http://9gag.com/gag/aV7N5vd)<!-- MEMES:END -->
+ - 🚖 [Life safern&#039;t](http://9gag.com/gag/aGpWQpG)
+ - 🚯 [Every masterpiece has it&#039;s own cheap copy ....](http://9gag.com/gag/a7EzX7q)
+ - 🚯 [Uhhh...](http://9gag.com/gag/axMXrVb)<!-- MEMES:END -->
 
 --- 
 
