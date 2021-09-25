@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [9gag veterans looking at what 9gag has become.](http://9gag.com/gag/a1rG8O6)
- - 🚯 [Sanna Marin, the Prime Minister of Finland](http://9gag.com/gag/aEpLbMM)
- - 🚯 [You can call me geh, but I don&#039;t care anymore!](http://9gag.com/gag/a8EBNme)<!-- MEMES:END -->
+ - 🚖 [Microwaving a glow stick](http://9gag.com/gag/a7Ezg2q)
+ - 🚯 [Light up a smoke stack with a torch](http://9gag.com/gag/aDdELP7)
+ - 🚯 [Watch that was on fire gets restored to brand new](http://9gag.com/gag/av53qQn)<!-- MEMES:END -->
 
 --- 
 
