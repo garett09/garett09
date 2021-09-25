@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Microwaving a glow stick](http://9gag.com/gag/a7Ezg2q)
- - 🚯 [My time has come](http://9gag.com/gag/aV7N5vd)
- - 🚯 [Oh look, apple is taking good care of thier customers.](http://9gag.com/gag/aZ0GXbz)<!-- MEMES:END -->
+ - 🚖 [You can call me geh, but I don&#039;t care anymore!](http://9gag.com/gag/a8EBNme)
+ - 🚯 [Yeah i hate that](http://9gag.com/gag/awM62ZQ)
+ - 🚯 [&quot;F&quot; to pay respect](http://9gag.com/gag/a8EBOWe)<!-- MEMES:END -->
 
 --- 
 
