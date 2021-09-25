@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [You can call me geh, but I don&#039;t care anymore!](http://9gag.com/gag/a8EBNme)
- - 🚯 [Yeah i hate that](http://9gag.com/gag/awM62ZQ)
- - 🚯 [&quot;F&quot; to pay respect](http://9gag.com/gag/a8EBOWe)<!-- MEMES:END -->
+ - 🚖 [Yeah i hate that](http://9gag.com/gag/awM62ZQ)
+ - 🚯 [Cato having a mental breakdown](http://9gag.com/gag/aZ0G5RW)
+ - 🚯 [A keeper](http://9gag.com/gag/aQo0bgK)<!-- MEMES:END -->
 
 --- 
 
