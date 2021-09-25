@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Even the CIA and NSA Use Ad Blockers to Stay Safe Online](https://www.wired.com/story/security-roundup-even-cia-nsa-use-ad-blockers)
- - [iPhone 13 case roundup: Protect your new device from the start](https://appleinsider.com/articles/21/09/22/iphone-13-case-roundup-protect-your-device-on-release-day?utm_medium=rss)
- - [Hands on with the new features of iPhone 13 Pro Max](https://appleinsider.com/articles/21/09/24/hands-on-with-the-new-features-of-iphone-13-pro-max?utm_medium=rss)<!-- TECH:END -->
+ - [Oppo Find X3 Pro six months later: Is it still worth buying?](https://www.androidauthority.com/oppo-find-x3-pro-long-term-review-3024510/)
+ - [A look at serialized story services like Amazon's Kindle Vella, as combined IAP revenue of top 7 services grew an estimated 50% YoY to $12M/mo. in May and July (Todd Bishop/GeekWire)](http://www.techmeme.com/210925/p4#a210925p4)
+ - [Apple reportedly told a TV and movie workers’ union its TV Plus had fewer than 20 million subs](https://www.theverge.com/2021/9/25/22692966/apple-plus-tv-movie-streaming-workers-union-fewer-than-20-million-subscribers)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
