@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Spitting in someone&#039;s face](http://9gag.com/gag/a8EBR3Q)
+ - 🚖 [What just happened?](http://9gag.com/gag/axMX5GK)
  - 🚯 [Hydraulic press action](http://9gag.com/gag/aoMbXAn)
- - 🚯 [What just happened?](http://9gag.com/gag/axMX5GK)<!-- MEMES:END -->
+ - 🚯 [Is that a &lsquo;yes&rsquo;?&hellip;](http://9gag.com/gag/aWjwrVK)<!-- MEMES:END -->
 
 --- 
 
