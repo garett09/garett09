@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What just happened?](http://9gag.com/gag/axMX5GK)
+ - 🚖 [Is that a &lsquo;yes&rsquo;?&hellip;](http://9gag.com/gag/aWjwrVK)
  - 🚯 [Hydraulic press action](http://9gag.com/gag/aoMbXAn)
- - 🚯 [Is that a &lsquo;yes&rsquo;?&hellip;](http://9gag.com/gag/aWjwrVK)<!-- MEMES:END -->
+ - 🚯 [Pashta](http://9gag.com/gag/aeAvnwm)<!-- MEMES:END -->
 
 --- 
 
