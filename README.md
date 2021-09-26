@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [New Trailers: The Tragedy of Macbeth, Invasion, Spencer, and more](https://www.theverge.com/2021/9/26/22686786/new-trailers-the-tragedy-of-macbeth-invasion-spencer-netflix-apple)
- - [Netflix's Midnight Mass: That ending explained and all your questions answered     - CNET](https://www.cnet.com/news/netflixs-midnight-mass-that-ending-explained-and-all-your-questions-answered/#ftag=CAD590a51e)
- - [Midnight Mass review: Very different than The Haunting of Hill House     - CNET](https://www.cnet.com/news/midnight-mass-review-very-different-than-the-haunting-of-hill-house/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [iPhone 13 Pro: Hands on with the best new features](https://appleinsider.com/articles/21/09/26/iphone-13-pro-hands-on-with-the-best-new-features?utm_medium=rss)
+ - [Extremism researchers say the Epik hack is the "mother of all data lodes", and will let them map the ecosystem of extremist websites and organizations (Washington Post)](http://www.techmeme.com/210926/p8#a210926p8)
+ - [New Trailers: The Tragedy of Macbeth, Invasion, Spencer, and more](https://www.theverge.com/2021/9/26/22686786/new-trailers-the-tragedy-of-macbeth-invasion-spencer-netflix-apple)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
