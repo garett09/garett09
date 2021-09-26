@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Comparison video shows Nvidia's new DLAA tech alongside TAA and DLSS in Elder Scrolls Online](https://www.pcgamer.com/comparison-video-shows-nvidias-new-dlaa-tech-alongside-taa-and-dlss-in-elder-scrolls-online)
- - [In Overwatch 2 Bastion loses self-repair and tank mode, gains a hat](https://www.pcgamer.com/in-overwatch-2-bastion-loses-self-repair-and-tank-mode-gains-a-hat)
- - [Steam beta suggests you won't be able to revert to old game builds much longer](https://www.pcgamer.com/steam-beta-suggests-you-wont-be-able-to-revert-to-old-game-builds-much-longer)<!-- GAME:END -->
+ - [Star Wars: Visions’ ‘T0-B1’ nods to Astro Boy to rewire Star Wars’ outlook on droids](https://www.polygon.com/2021/9/26/22694553/star-wars-visions-t0b1-astro-boy-references-robot-jedi)
+ - [Sunday Comics: THEY KNOW!](https://kotaku.com/sunday-comics-they-know-1847747019)
+ - [Comparison video shows Nvidia's new DLAA tech alongside TAA and DLSS in Elder Scrolls Online](https://www.pcgamer.com/comparison-video-shows-nvidias-new-dlaa-tech-alongside-taa-and-dlss-in-elder-scrolls-online)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
