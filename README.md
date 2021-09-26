@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best AirPods Pro accessories for 2021: Cases, eartips, wireless in-flight transmitters and chargers     - CNET](https://www.cnet.com/tech/mobile/best-airpods-pro-accessories/#ftag=CAD590a51e)
- - [UFC 266 with Nick Diaz: Start time, how to watch or stream online, full fight card     - CNET](https://www.cnet.com/news/ufc-266-with-nick-diaz-start-time-how-to-watch-or-stream-online-full-fight-card/#ftag=CAD590a51e)
- - [Best home theater systems of 2021     - CNET](https://www.cnet.com/tech/home-entertainment/best-home-theater-systems/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Missed Netflix's Tudum fan event? See the big trailers and video clips here     - CNET](https://www.cnet.com/news/missed-netflixs-tudum-fan-event-see-the-big-trailers-and-video-clips-here/#ftag=CAD590a51e)
+ - [Oldest fossil footprints in North America are teaching us about early humans     - CNET](https://www.cnet.com/news/oldest-fossil-footprints-in-north-america-are-teaching-us-about-early-humans/#ftag=CAD590a51e)
+ - [This James Bond movie is the one you should watch right now     - CNET](https://www.cnet.com/news/this-james-bond-movie-is-the-one-you-should-watch-right-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
