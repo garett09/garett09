@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPad used for bogus Walt Disney World tours in the Apple Crime Blotter](https://appleinsider.com/articles/21/09/26/ipad-used-for-bogus-walt-disney-world-tours-in-the-apple-crime-blotter?utm_medium=rss)
- - [Pixel UI guide: Everything you need to know about Google’s Android skin](https://www.androidauthority.com/google-pixel-ui-3025558/)
- - [The Complex Truth About ‘Junk DNA’](https://www.wired.com/story/the-complex-truth-about-junk-dna)<!-- TECH:END -->
+ - [Compared: Microsoft's Surface Pro 8 vs 12.9-inch iPad Pro](https://appleinsider.com/articles/21/09/26/compared-microsofts-surface-pro-8-vs-129-inch-ipad-pro?utm_medium=rss)
+ - [Vizio’s M-Series TV Is Affordable and Mantle-Worthy](https://www.wired.com/review/vizio-m-series-quantum-2021)
+ - [In Russia, Apple and Google Staff Get Muscled Up By the State](https://www.wired.com/story/opinion-in-russia-apple-and-google-staff-get-muscled-up-by-the-state)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
