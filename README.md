@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hydraulic press action](http://9gag.com/gag/aoMbXAn)
- - 🚯 [I think i just found the best 10&euro; bill in circulation...](http://9gag.com/gag/aQo0Gx2)
- - 🚯 [A gif showing the underwater fiber optic cable network on the earth](http://9gag.com/gag/ayMOOrY)<!-- MEMES:END -->
+ - 🚖 [I think i just found the best 10&euro; bill in circulation...](http://9gag.com/gag/aQo0Gx2)
+ - 🚯 [Hydraulic press action](http://9gag.com/gag/aoMbXAn)
+ - 🚯 [Wait what the f**k](http://9gag.com/gag/av53NGq)<!-- MEMES:END -->
 
 --- 
 
