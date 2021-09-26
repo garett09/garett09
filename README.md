@@ -194,8 +194,8 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Newton&#039;s third law!](http://9gag.com/gag/agBPR8w)
- - 🚯 [Is it really true in Germany regarding hospitals? How the system works? Just asking.](http://9gag.com/gag/ayMOyXX)
+ - 🚖 [Jumping over a fire](http://9gag.com/gag/aK604AQ)
+ - 🚯 [The new UK reality](http://9gag.com/gag/a4EDMxd)
  - 🚯 [Let&#039;s start the show...](http://9gag.com/gag/apNyKrB)<!-- MEMES:END -->
 
 --- 
