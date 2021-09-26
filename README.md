@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Comparison video shows Nvidia's new DLAA tech alongside TAA and DLSS in Elder Scrolls Online](https://www.pcgamer.com/comparison-video-shows-nvidias-new-dlaa-tech-alongside-taa-and-dlss-in-elder-scrolls-online)
  - [In Overwatch 2 Bastion loses self-repair and tank mode, gains a hat](https://www.pcgamer.com/in-overwatch-2-bastion-loses-self-repair-and-tank-mode-gains-a-hat)
- - [Steam beta suggests you won't be able to revert to old game builds much longer](https://www.pcgamer.com/steam-beta-suggests-you-wont-be-able-to-revert-to-old-game-builds-much-longer)
- - [GOG users aren't happy about Hitman's online requirements](https://www.pcgamer.com/gog-users-arent-happy-about-hitmans-online-requirements)<!-- GAME:END -->
+ - [Steam beta suggests you won't be able to revert to old game builds much longer](https://www.pcgamer.com/steam-beta-suggests-you-wont-be-able-to-revert-to-old-game-builds-much-longer)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
