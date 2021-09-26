@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [GOG users aren't happy about Hitman's online requirements](https://www.pcgamer.com/gog-users-arent-happy-about-hitmans-online-requirements)
  - [Two clips from The Witcher season 2 are out now, along with a new trailer](https://www.pcgamer.com/two-clips-from-the-witcher-season-2-are-out-now-along-with-a-new-trailer)
- - [This Asus laptop with a GTX 1650 is only $700 right now](https://www.pcgamer.com/this-asus-laptop-with-a-gtx-1650-is-only-dollar700-right-now)
- - [Here's the trailer for Arcane, the League of Legends Netflix show](https://www.pcgamer.com/heres-the-trailer-for-arcane-the-league-of-legends-netflix-show)<!-- GAME:END -->
+ - [This Asus laptop with a GTX 1650 is only $700 right now](https://www.pcgamer.com/this-asus-laptop-with-a-gtx-1650-is-only-dollar700-right-now)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
