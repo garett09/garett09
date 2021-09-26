@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Weekly Authority: Edition #161](https://www.androidauthority.com/newsletters/weekly-authority-edition-161/)
- - [The social media industry needs its own version of journalism's firewall to shield safety, moderation, and enforcement decisions from execs focused on growth (Gilad Edelman/Wired)](http://www.techmeme.com/210926/p3#a210926p3)
- - [GoodRx debuts GoodRx Health site for providing answers to the most googled health questions, as it looks to become more than a price comparison tool for pills (Ruth Reader/Fast Company)](http://www.techmeme.com/210926/p2#a210926p2)<!-- TECH:END -->
+ - [Survey of ~5,000 gig workers across 15 countries: over 60% say they are financially satisfied but most want out of the job within a year (Rest of World)](http://www.techmeme.com/210926/p4#a210926p4)
+ - [How to Go Passwordless on Your Microsoft Account](https://www.wired.com/story/how-to-no-password-microsoft-account)
+ - [Drones May Help Replant Forests—If Enough Seeds Take Root](https://www.wired.com/story/drones-replant-forests-seeds-take-root)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
