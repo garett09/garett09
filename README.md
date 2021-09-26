@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Kevin James Pizza Roayle](http://9gag.com/gag/a9E9Q0D)
- - 🚯 [Oh manity](http://9gag.com/gag/axMXx4D)
- - 🚯 [Timber Wolf released](http://9gag.com/gag/aB27qgA)<!-- MEMES:END -->
+ - 🚖 [Timber Wolf released](http://9gag.com/gag/aB27qgA)
+ - 🚯 [Can I slap the parents?](http://9gag.com/gag/aQo0w97)
+ - 🚯 [We can do it](http://9gag.com/gag/av53bpE)<!-- MEMES:END -->
 
 --- 
 
