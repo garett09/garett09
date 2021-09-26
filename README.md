@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Step Aside Lady Dimitrescu, There's A New Evil And Tall Video Game Queen](https://kotaku.com/step-aside-lady-dimitrescu-theres-a-new-evil-and-tall-1847748564)
- - [Four years in, Foxhole now has Foxholes](https://www.pcgamer.com/four-years-in-foxhole-now-has-foxholes)
- - [This Week in PC Gaming: FIFA 22, New World, and Halo Infinite](https://www.pcgamer.com/this-week-in-pc-gaming-fifa-22-lemnis-gate-and-halo-infinite)<!-- GAME:END -->
+ - [Grind the herbs yourself in alchemy simulator Potion Craft](https://www.pcgamer.com/grind-the-herbs-yourself-in-alchemy-simulator-potion-craft)
+ - [I Hate Myself, But I Love Taco Bell's New Chicken Sandwich Taco](https://kotaku.com/i-hate-myself-but-i-love-taco-bells-new-chicken-sandwi-1847748830)
+ - [Step Aside Lady Dimitrescu, There's A New Evil And Tall Video Game Queen](https://kotaku.com/step-aside-lady-dimitrescu-theres-a-new-evil-and-tall-1847748564)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
