@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Co-op RTS DwarfHeim tunnels out of Early Access this month](https://www.pcgamer.com/co-op-rts-dwarfheim-tunnels-out-of-early-access-this-month)
- - [Grind the herbs yourself in alchemy simulator Potion Craft](https://www.pcgamer.com/grind-the-herbs-yourself-in-alchemy-simulator-potion-craft)
- - [I Hate Myself, But I Love Taco Bell's New Chicken Sandwich Taco](https://kotaku.com/i-hate-myself-but-i-love-taco-bells-new-chicken-sandwi-1847748830)<!-- GAME:END -->
+ - [Students don't know what files and folders are, professors say](https://www.pcgamer.com/students-dont-know-what-files-and-folders-are-professors-say)
+ - [Plug and program to match waveforms in this puzzler inspired by synthesizers](https://www.pcgamer.com/plug-and-program-to-match-waveforms-in-this-puzzler-inspired-by-synthesizers)
+ - [Dagon is a free, immersive cosmic horror adventure](https://www.pcgamer.com/dagon-is-a-free-immersive-cosmic-horror-adventure)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
