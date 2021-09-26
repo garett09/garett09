@@ -194,8 +194,8 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Kevin James Pizza Roayle](http://9gag.com/gag/a9E9Q0D)
- - 🚯 [We can do it](http://9gag.com/gag/av53bpE)
+ - 🚖 [Let&rsquo;s dance](http://9gag.com/gag/arMjPyp)
+ - 🚯 [Human will be human no matter how powerful they are](http://9gag.com/gag/aQo0wLq)
  - 🚯 [7am sunday as an train driver, sometimes its quite beautiful](http://9gag.com/gag/aoMbB1A)<!-- MEMES:END -->
 
 --- 
