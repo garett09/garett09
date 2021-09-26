@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: Google Cloud Platform to cut its revenue share from 20% to 3% when customers buy third-party software on its cloud marketplace (Jordan Novet/CNBC)](http://www.techmeme.com/210926/p5#a210926p5)
- - [Apple's push to make environmental & social changes is contagious, says exec](https://appleinsider.com/articles/21/09/26/apple-pushes-industry-to-make-environmental-social-changes-says-executive?utm_medium=rss)
- - [2021 iPad review: The best iPad for nearly everyone](https://appleinsider.com/articles/21/09/26/2021-ipad-review-the-best-ipad-for-nearly-everyone?utm_medium=rss)<!-- TECH:END -->
+ - [Apple says it will fix a bug preventing some iPhone 13 users from using the Unlock with Apple Watch feature, in an upcoming software update (Joe Rossignol/MacRumors)](http://www.techmeme.com/210926/p6#a210926p6)
+ - [Watch the original Flight of the Navigator on Disney Plus ahead of the reboot](https://www.androidauthority.com/flight-of-the-navigator-disney-plus-reboot-3029007/)
+ - [Apple says it will fix issue with ‘unlock with Apple Watch’ feature on iPhone 13](https://www.theverge.com/2021/9/26/22694679/apple-fix-issue-unlock-apple-watch-feature-iphone-13)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
