@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [5 Stars](http://9gag.com/gag/aLpYKwM)
+ - 🚖 [*Sweating Intensely](http://9gag.com/gag/azMNgdq)
  - 🚯 [What my white friend hears when my i talk with my friends](http://9gag.com/gag/aoMrEr2)
- - 🚯 [*Sweating Intensely](http://9gag.com/gag/azMNgdq)<!-- MEMES:END -->
+ - 🚯 [5 Stars](http://9gag.com/gag/aLpYKwM)<!-- MEMES:END -->
 
 --- 
 
