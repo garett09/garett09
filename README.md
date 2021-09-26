@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Survey of ~5,000 gig workers across 15 countries: over 60% say they are financially satisfied but most want out of the job within a year (Rest of World)](http://www.techmeme.com/210926/p4#a210926p4)
- - [How to Go Passwordless on Your Microsoft Account](https://www.wired.com/story/how-to-no-password-microsoft-account)
- - [Drones May Help Replant Forests—If Enough Seeds Take Root](https://www.wired.com/story/drones-replant-forests-seeds-take-root)<!-- TECH:END -->
+ - [iPad used for bogus Walt Disney World tours in the Apple Crime Blotter](https://appleinsider.com/articles/21/09/26/ipad-used-for-bogus-walt-disney-world-tours-in-the-apple-crime-blotter?utm_medium=rss)
+ - [Pixel UI guide: Everything you need to know about Google’s Android skin](https://www.androidauthority.com/google-pixel-ui-3025558/)
+ - [The Complex Truth About ‘Junk DNA’](https://www.wired.com/story/the-complex-truth-about-junk-dna)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
