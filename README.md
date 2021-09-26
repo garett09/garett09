@@ -194,8 +194,8 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Jumping over a fire](http://9gag.com/gag/aK604AQ)
- - 🚯 [The new UK reality](http://9gag.com/gag/a4EDMxd)
+ - 🚖 [The new UK reality](http://9gag.com/gag/a4EDMxd)
+ - 🚯 [Jumping over a fire](http://9gag.com/gag/aK604AQ)
  - 🚯 [Let&#039;s start the show...](http://9gag.com/gag/apNyKrB)<!-- MEMES:END -->
 
 --- 
