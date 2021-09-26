@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Step Aside Lady Dimitrescu, There's A New Evil And Tall Video Game Queen](https://kotaku.com/step-aside-lady-dimitrescu-theres-a-new-evil-and-tall-1847748564)
  - [Four years in, Foxhole now has Foxholes](https://www.pcgamer.com/four-years-in-foxhole-now-has-foxholes)
- - [This Week in PC Gaming: FIFA 22, New World, and Halo Infinite](https://www.pcgamer.com/this-week-in-pc-gaming-fifa-22-lemnis-gate-and-halo-infinite)
- - [The Last of Us Day 2021: A Community Celebration](http://feedproxy.google.com/~r/PSBlog/~3/DxoAa_X09ak/)<!-- GAME:END -->
+ - [This Week in PC Gaming: FIFA 22, New World, and Halo Infinite](https://www.pcgamer.com/this-week-in-pc-gaming-fifa-22-lemnis-gate-and-halo-infinite)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
