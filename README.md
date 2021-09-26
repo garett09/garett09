@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Let&rsquo;s dance](http://9gag.com/gag/arMjPyp)
- - 🚯 [Human will be human no matter how powerful they are](http://9gag.com/gag/aQo0wLq)
- - 🚯 [7am sunday as an train driver, sometimes its quite beautiful](http://9gag.com/gag/aoMbB1A)<!-- MEMES:END -->
+ - 🚖 [Optimism at the max](http://9gag.com/gag/a27nQgZ)
+ - 🚯 [I&rsquo;ll buy your car](http://9gag.com/gag/aB27DQN)
+ - 🚯 [And go . . .](http://9gag.com/gag/aeAvoqp)<!-- MEMES:END -->
 
 --- 
 
