@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Compared: Microsoft's Surface Pro 8 vs 12.9-inch iPad Pro](https://appleinsider.com/articles/21/09/26/compared-microsofts-surface-pro-8-vs-129-inch-ipad-pro?utm_medium=rss)
- - [Vizio’s M-Series TV Is Affordable and Mantle-Worthy](https://www.wired.com/review/vizio-m-series-quantum-2021)
- - [In Russia, Apple and Google Staff Get Muscled Up By the State](https://www.wired.com/story/opinion-in-russia-apple-and-google-staff-get-muscled-up-by-the-state)<!-- TECH:END -->
+ - [Hands on with the new features of iPhone 13 Pro Max](https://appleinsider.com/articles/21/09/24/hands-on-with-the-new-features-of-iphone-13-pro-max?utm_medium=rss)
+ - ['iPhone 14' to get 'complete redesign,' lose mini option in 2022](https://appleinsider.com/articles/21/09/26/iphone-14-to-get-complete-redesign-lose-mini-option-in-2022?utm_medium=rss)
+ - [2021 iPad review: The best iPad for nearly everyone](https://appleinsider.com/articles/21/09/26/2021-ipad-review-the-best-ipad-for-nearly-everyone?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
