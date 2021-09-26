@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Timber Wolf released](http://9gag.com/gag/aB27qgA)
- - 🚯 [A gif showing the underwater fiber optic cable network on the earth](http://9gag.com/gag/ayMOOrY)
- - 🚯 [Lost my 8 months old fetus in wife&#039;s womb today. Induced labor of my wife in hospital, saw unbearable pain in her eyes delivering our boy without heartbeat. Burried my son who should have been playing in my arms after 3 weeks. Now praying that my wife recovers](http://9gag.com/gag/aLpyyPW)<!-- MEMES:END -->
+ - 🚖 [Kevin James Pizza Roayle](http://9gag.com/gag/a9E9Q0D)
+ - 🚯 [Oh manity](http://9gag.com/gag/axMXx4D)
+ - 🚯 [Timber Wolf released](http://9gag.com/gag/aB27qgA)<!-- MEMES:END -->
 
 --- 
 
