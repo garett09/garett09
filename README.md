@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The social media industry needs its own version of journalism's firewall to shield safety, moderation, and enforcement decisions from execs focused on growth (Gilad Edelman/Wired)](http://www.techmeme.com/210926/p3#a210926p3)
  - [GoodRx debuts GoodRx Health site for providing answers to the most googled health questions, as it looks to become more than a price comparison tool for pills (Ruth Reader/Fast Company)](http://www.techmeme.com/210926/p2#a210926p2)
- - [Meru Health, a provider of online mental health services, raises $30M Series B in equity and $8M in debt, and claims it saw about 700% revenue growth in 2020 (Mary Ann Azevedo/TechCrunch)](http://www.techmeme.com/210926/p1#a210926p1)
- - [Missed Netflix's Tudum fan event? See the big trailers and video clips here     - CNET](https://www.cnet.com/news/missed-netflixs-tudum-fan-event-see-the-big-trailers-and-video-clips-here/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Meru Health, a provider of online mental health services, raises $30M Series B in equity and $8M in debt, and claims it saw about 700% revenue growth in 2020 (Mary Ann Azevedo/TechCrunch)](http://www.techmeme.com/210926/p1#a210926p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
