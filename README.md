@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Them cats were fast as lightnin&rsquo;](http://9gag.com/gag/a3E9PQm)
- - 🚯 [Most sincere &quot;Dear god&quot; you&#039;ll ever hear](http://9gag.com/gag/aK6rbb1)
- - 🚯 [Oui Oui](http://9gag.com/gag/abVP3Pb)<!-- MEMES:END -->
+ - 🚖 [My struggle meal was tuna sandwich](http://9gag.com/gag/a9EQjKK)
+ - 🚯 [What my white friend hears when my i talk with my friends](http://9gag.com/gag/aoMrEr2)
+ - 🚯 [British Soldier thought on german soldier. WW1 documentary colorized](http://9gag.com/gag/ayMgEpY)<!-- MEMES:END -->
 
 --- 
 
