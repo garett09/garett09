@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [In Overwatch 2 Bastion loses self-repair and tank mode, gains a hat](https://www.pcgamer.com/in-overwatch-2-bastion-loses-self-repair-and-tank-mode-gains-a-hat)
  - [Steam beta suggests you won't be able to revert to old game builds much longer](https://www.pcgamer.com/steam-beta-suggests-you-wont-be-able-to-revert-to-old-game-builds-much-longer)
- - [GOG users aren't happy about Hitman's online requirements](https://www.pcgamer.com/gog-users-arent-happy-about-hitmans-online-requirements)
- - [Two clips from The Witcher season 2 are out now, along with a new trailer](https://www.pcgamer.com/two-clips-from-the-witcher-season-2-are-out-now-along-with-a-new-trailer)<!-- GAME:END -->
+ - [GOG users aren't happy about Hitman's online requirements](https://www.pcgamer.com/gog-users-arent-happy-about-hitmans-online-requirements)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
