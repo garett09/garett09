@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Get a first look at new Kanye West documentary Jeen-yuhs headed to Netflix     - CNET](https://www.cnet.com/news/get-a-first-look-at-new-kanye-west-documentary-jeen-yuhs-headed-to-netflix/#ftag=CAD590a51e)
- - [Watch Bridgerton season 2 first look where Anthony meets Kate Sharma     - CNET](https://www.cnet.com/news/watch-bridgerton-season-2-first-look-where-anthony-meets-kate-sharma/#ftag=CAD590a51e)
- - [iPhone 13 vs. 13 Mini vs. 13 Pro vs. 13 Pro Max: Every major difference     - CNET](https://www.cnet.com/tech/mobile/iphone-13-vs-mini-vs-13-pro-vs-13-pro-max-every-major-difference/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [New Trailers: The Tragedy of Macbeth, Invasion, Spencer, and more](https://www.theverge.com/2021/9/26/22686786/new-trailers-the-tragedy-of-macbeth-invasion-spencer-netflix-apple)
+ - [Netflix's Midnight Mass: That ending explained and all your questions answered     - CNET](https://www.cnet.com/news/netflixs-midnight-mass-that-ending-explained-and-all-your-questions-answered/#ftag=CAD590a51e)
+ - [Midnight Mass review: Very different than The Haunting of Hill House     - CNET](https://www.cnet.com/news/midnight-mass-review-very-different-than-the-haunting-of-hill-house/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
