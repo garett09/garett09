@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Wait what the f**k](http://9gag.com/gag/av53NGq)
- - 🚯 [Rate my setup!](http://9gag.com/gag/a072BZL)
- - 🚯 [Can I slap the parents?](http://9gag.com/gag/aQo0w97)<!-- MEMES:END -->
+ - 🚖 [Rate my setup!](http://9gag.com/gag/a072BZL)
+ - 🚯 [LET ME IN](http://9gag.com/gag/aeAvoNm)
+ - 🚯 [Don&rsquo;t pull a knife on a bouncer.](http://9gag.com/gag/aRXYYB2)<!-- MEMES:END -->
 
 --- 
 
