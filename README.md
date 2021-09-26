@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The new UK reality](http://9gag.com/gag/a4EDMxd)
- - 🚯 [Jumping over a fire](http://9gag.com/gag/aK604AQ)
- - 🚯 [Let&#039;s start the show...](http://9gag.com/gag/apNyKrB)<!-- MEMES:END -->
+ - 🚖 [Them cats were fast as lightnin&rsquo;](http://9gag.com/gag/a3E9PQm)
+ - 🚯 [Most sincere &quot;Dear god&quot; you&#039;ll ever hear](http://9gag.com/gag/aK6rbb1)
+ - 🚯 [Oui Oui](http://9gag.com/gag/abVP3Pb)<!-- MEMES:END -->
 
 --- 
 
