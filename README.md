@@ -195,8 +195,8 @@ Windows                  7 hrs 16 mins       ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Hydraulic press action](http://9gag.com/gag/aoMbXAn)
- - 🚯 [Pashta](http://9gag.com/gag/aeAvnwm)
- - 🚯 [Don&rsquo;t pull a knife on a bouncer.](http://9gag.com/gag/aRXYYB2)<!-- MEMES:END -->
+ - 🚯 [I think i just found the best 10&euro; bill in circulation...](http://9gag.com/gag/aQo0Gx2)
+ - 🚯 [A gif showing the underwater fiber optic cable network on the earth](http://9gag.com/gag/ayMOOrY)<!-- MEMES:END -->
 
 --- 
 
