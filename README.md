@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Co-op RTS DwarfHeim tunnels out of Early Access this month](https://www.pcgamer.com/co-op-rts-dwarfheim-tunnels-out-of-early-access-this-month)
  - [Grind the herbs yourself in alchemy simulator Potion Craft](https://www.pcgamer.com/grind-the-herbs-yourself-in-alchemy-simulator-potion-craft)
- - [I Hate Myself, But I Love Taco Bell's New Chicken Sandwich Taco](https://kotaku.com/i-hate-myself-but-i-love-taco-bells-new-chicken-sandwi-1847748830)
- - [Step Aside Lady Dimitrescu, There's A New Evil And Tall Video Game Queen](https://kotaku.com/step-aside-lady-dimitrescu-theres-a-new-evil-and-tall-1847748564)<!-- GAME:END -->
+ - [I Hate Myself, But I Love Taco Bell's New Chicken Sandwich Taco](https://kotaku.com/i-hate-myself-but-i-love-taco-bells-new-chicken-sandwi-1847748830)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
