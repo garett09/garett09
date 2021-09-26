@@ -187,8 +187,8 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hands on with the new features of iPhone 13 Pro Max](https://appleinsider.com/articles/21/09/24/hands-on-with-the-new-features-of-iphone-13-pro-max?utm_medium=rss)
- - ['iPhone 14' to get 'complete redesign,' lose mini option in 2022](https://appleinsider.com/articles/21/09/26/iphone-14-to-get-complete-redesign-lose-mini-option-in-2022?utm_medium=rss)
+ - [Source: Google Cloud Platform to cut its revenue share from 20% to 3% when customers buy third-party software on its cloud marketplace (Jordan Novet/CNBC)](http://www.techmeme.com/210926/p5#a210926p5)
+ - [Apple's push to make environmental & social changes is contagious, says exec](https://appleinsider.com/articles/21/09/26/apple-pushes-industry-to-make-environmental-social-changes-says-executive?utm_medium=rss)
  - [2021 iPad review: The best iPad for nearly everyone](https://appleinsider.com/articles/21/09/26/2021-ipad-review-the-best-ipad-for-nearly-everyone?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
