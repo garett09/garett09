@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 13 Pro: Hands on with the best new features](https://appleinsider.com/articles/21/09/26/iphone-13-pro-hands-on-with-the-best-new-features?utm_medium=rss)
- - [Extremism researchers say the Epik hack is the "mother of all data lodes", and will let them map the ecosystem of extremist websites and organizations (Washington Post)](http://www.techmeme.com/210926/p8#a210926p8)
- - [New Trailers: The Tragedy of Macbeth, Invasion, Spencer, and more](https://www.theverge.com/2021/9/26/22686786/new-trailers-the-tragedy-of-macbeth-invasion-spencer-netflix-apple)<!-- TECH:END -->
+ - [Apple keeps making third-party screen repairs harder](https://appleinsider.com/articles/21/09/26/apple-keeps-making-third-party-screen-repairs-harder?utm_medium=rss)
+ - [US agrees not to pursue fraud charges against Huawei CFO](https://www.theverge.com/2021/9/24/22691518/huawei-meng-wanzhou-cfo-fraud-plea-china-canada)
+ - [iPhone 13, iPhone 12, or iPhone SE - which iPhone model to buy at every price point](https://appleinsider.com/articles/21/09/26/iphone-13-iphone-12-or-iphone-se---which-iphone-model-to-buy-at-every-price-point?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
