@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Is that a &lsquo;yes&rsquo;?&hellip;](http://9gag.com/gag/aWjwrVK)
- - 🚯 [Hydraulic press action](http://9gag.com/gag/aoMbXAn)
- - 🚯 [Pashta](http://9gag.com/gag/aeAvnwm)<!-- MEMES:END -->
+ - 🚖 [Hydraulic press action](http://9gag.com/gag/aoMbXAn)
+ - 🚯 [Pashta](http://9gag.com/gag/aeAvnwm)
+ - 🚯 [Don&rsquo;t pull a knife on a bouncer.](http://9gag.com/gag/aRXYYB2)<!-- MEMES:END -->
 
 --- 
 
