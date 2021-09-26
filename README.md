@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When you ask grandpa to play a song](http://9gag.com/gag/aZ0G90Q)
- - 🚯 [Optimism at the max](http://9gag.com/gag/a27nQgZ)
- - 🚯 [The great hunter stalks it prey.](http://9gag.com/gag/aoMbBA3)<!-- MEMES:END -->
+ - 🚖 [The great hunter stalks it prey.](http://9gag.com/gag/aoMbBA3)
+ - 🚯 [Newton&#039;s third law!](http://9gag.com/gag/agBPR8w)
+ - 🚯 [Let&#039;s start the show...](http://9gag.com/gag/apNyKrB)<!-- MEMES:END -->
 
 --- 
 
