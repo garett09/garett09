@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple says it will fix a bug preventing some iPhone 13 users from using the Unlock with Apple Watch feature, in an upcoming software update (Joe Rossignol/MacRumors)](http://www.techmeme.com/210926/p6#a210926p6)
- - [Watch the original Flight of the Navigator on Disney Plus ahead of the reboot](https://www.androidauthority.com/flight-of-the-navigator-disney-plus-reboot-3029007/)
- - [Apple says it will fix issue with ‘unlock with Apple Watch’ feature on iPhone 13](https://www.theverge.com/2021/9/26/22694679/apple-fix-issue-unlock-apple-watch-feature-iphone-13)<!-- TECH:END -->
+ - [2021 iPad review: The best iPad for nearly everyone](https://appleinsider.com/articles/21/09/26/2021-ipad-review-the-best-ipad-for-nearly-everyone?utm_medium=rss)
+ - [Best Deals Sept. 26 - $375 Dell 32-inch curved monitor, $78 off 8TB NAS, and more!](https://appleinsider.com/articles/21/09/26/best-deals-sept-26---375-dell-32-inch-curved-monitor-78-off-8tb-nas-and-more?utm_medium=rss)
+ - [Apple says it will fix a bug preventing some iPhone 13 users from using the Unlock with Apple Watch feature, in an upcoming software update (Joe Rossignol/MacRumors)](http://www.techmeme.com/210926/p6#a210926p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
