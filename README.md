@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [My struggle meal was tuna sandwich](http://9gag.com/gag/a9EQjKK)
+ - 🚖 [5 Stars](http://9gag.com/gag/aLpYKwM)
  - 🚯 [What my white friend hears when my i talk with my friends](http://9gag.com/gag/aoMrEr2)
- - 🚯 [British Soldier thought on german soldier. WW1 documentary colorized](http://9gag.com/gag/ayMgEpY)<!-- MEMES:END -->
+ - 🚯 [*Sweating Intensely](http://9gag.com/gag/azMNgdq)<!-- MEMES:END -->
 
 --- 
 
