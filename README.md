@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Four years in, Foxhole now has Foxholes](https://www.pcgamer.com/four-years-in-foxhole-now-has-foxholes)
  - [This Week in PC Gaming: FIFA 22, New World, and Halo Infinite](https://www.pcgamer.com/this-week-in-pc-gaming-fifa-22-lemnis-gate-and-halo-infinite)
- - [The Last of Us Day 2021: A Community Celebration](http://feedproxy.google.com/~r/PSBlog/~3/DxoAa_X09ak/)
- - [The Last of Us Day 2021: A Community Celebration](https://blog.playstation.com/2021/09/26/the-last-of-us-day-2021-a-community-celebration/)<!-- GAME:END -->
+ - [The Last of Us Day 2021: A Community Celebration](http://feedproxy.google.com/~r/PSBlog/~3/DxoAa_X09ak/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
