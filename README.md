@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Most sincere &quot;Dear god&quot; you&#039;ll ever hear](http://9gag.com/gag/aK6rbb1)
+ - 🚖 [When you ask grandpa to play a song](http://9gag.com/gag/aZ0G90Q)
  - 🚯 [Optimism at the max](http://9gag.com/gag/a27nQgZ)
- - 🚯 [When you ask grandpa to play a song](http://9gag.com/gag/aZ0G90Q)<!-- MEMES:END -->
+ - 🚯 [The great hunter stalks it prey.](http://9gag.com/gag/aoMbBA3)<!-- MEMES:END -->
 
 --- 
 
