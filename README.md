@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Optimism at the max](http://9gag.com/gag/a27nQgZ)
- - 🚯 [I&rsquo;ll buy your car](http://9gag.com/gag/aB27DQN)
- - 🚯 [And go . . .](http://9gag.com/gag/aeAvoqp)<!-- MEMES:END -->
+ - 🚖 [Most sincere &quot;Dear god&quot; you&#039;ll ever hear](http://9gag.com/gag/aK6rbb1)
+ - 🚯 [Optimism at the max](http://9gag.com/gag/a27nQgZ)
+ - 🚯 [When you ask grandpa to play a song](http://9gag.com/gag/aZ0G90Q)<!-- MEMES:END -->
 
 --- 
 
