@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I think i just found the best 10&euro; bill in circulation...](http://9gag.com/gag/aQo0Gx2)
- - 🚯 [Hydraulic press action](http://9gag.com/gag/aoMbXAn)
- - 🚯 [Wait what the f**k](http://9gag.com/gag/av53NGq)<!-- MEMES:END -->
+ - 🚖 [Wait what the f**k](http://9gag.com/gag/av53NGq)
+ - 🚯 [Rate my setup!](http://9gag.com/gag/a072BZL)
+ - 🚯 [Can I slap the parents?](http://9gag.com/gag/aQo0w97)<!-- MEMES:END -->
 
 --- 
 
