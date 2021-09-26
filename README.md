@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [2021 iPad review: The best iPad for nearly everyone](https://appleinsider.com/articles/21/09/26/2021-ipad-review-the-best-ipad-for-nearly-everyone?utm_medium=rss)
- - [Best Deals Sept. 26 - $375 Dell 32-inch curved monitor, $78 off 8TB NAS, and more!](https://appleinsider.com/articles/21/09/26/best-deals-sept-26---375-dell-32-inch-curved-monitor-78-off-8tb-nas-and-more?utm_medium=rss)
- - [Apple says it will fix a bug preventing some iPhone 13 users from using the Unlock with Apple Watch feature, in an upcoming software update (Joe Rossignol/MacRumors)](http://www.techmeme.com/210926/p6#a210926p6)<!-- TECH:END -->
+ - [What we know about Star Trek: Prodigy, the first Trek for young viewers](https://www.androidauthority.com/star-trek-prodigy-paramount-plus-nickelodeon-3027548/)
+ - [Cryptocurrency exchanges Huobi and Binance have stopped letting traders use mainland China mobile numbers to register new accounts (Zheping Huang/Bloomberg)](http://www.techmeme.com/210926/p7#a210926p7)
+ - [2021 iPad review: The best iPad for nearly everyone](https://appleinsider.com/articles/21/09/26/2021-ipad-review-the-best-ipad-for-nearly-everyone?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
