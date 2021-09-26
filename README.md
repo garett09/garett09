@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Rate my setup!](http://9gag.com/gag/a072BZL)
- - 🚯 [LET ME IN](http://9gag.com/gag/aeAvoNm)
- - 🚯 [Don&rsquo;t pull a knife on a bouncer.](http://9gag.com/gag/aRXYYB2)<!-- MEMES:END -->
+ - 🚖 [LET ME IN](http://9gag.com/gag/aeAvoNm)
+ - 🚯 [Don&rsquo;t pull a knife on a bouncer.](http://9gag.com/gag/aRXYYB2)
+ - 🚯 [Timber Wolf released](http://9gag.com/gag/aB27qgA)<!-- MEMES:END -->
 
 --- 
 
