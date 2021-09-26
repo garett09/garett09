@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Star Wars: Visions’ ‘T0-B1’ nods to Astro Boy to rewire Star Wars’ outlook on droids](https://www.polygon.com/2021/9/26/22694553/star-wars-visions-t0b1-astro-boy-references-robot-jedi)
- - [Sunday Comics: THEY KNOW!](https://kotaku.com/sunday-comics-they-know-1847747019)
- - [Comparison video shows Nvidia's new DLAA tech alongside TAA and DLSS in Elder Scrolls Online](https://www.pcgamer.com/comparison-video-shows-nvidias-new-dlaa-tech-alongside-taa-and-dlss-in-elder-scrolls-online)<!-- GAME:END -->
+ - [The Last of Us Day 2021: A Community Celebration](http://feedproxy.google.com/~r/PSBlog/~3/DxoAa_X09ak/)
+ - [The Last of Us Day 2021: A Community Celebration](https://blog.playstation.com/2021/09/26/the-last-of-us-day-2021-a-community-celebration/)
+ - [Wild Halo Infinite Bug Creates An Endless Wave Of Wet Floor Signs](https://kotaku.com/wild-halo-infinite-bug-creates-an-endless-wave-of-wet-f-1847746928)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
