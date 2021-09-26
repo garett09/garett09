@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Missed Netflix's Tudum fan event? See the big trailers and video clips here     - CNET](https://www.cnet.com/news/missed-netflixs-tudum-fan-event-see-the-big-trailers-and-video-clips-here/#ftag=CAD590a51e)
- - [Oldest fossil footprints in North America are teaching us about early humans     - CNET](https://www.cnet.com/news/oldest-fossil-footprints-in-north-america-are-teaching-us-about-early-humans/#ftag=CAD590a51e)
- - [This James Bond movie is the one you should watch right now     - CNET](https://www.cnet.com/news/this-james-bond-movie-is-the-one-you-should-watch-right-now/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [iPhone 13 mini review: The most powerful small smartphone on the market](https://appleinsider.com/articles/21/09/24/iphone-13-mini-review-the-most-powerful-small-smartphone-on-the-market?utm_medium=rss)
+ - [Nomad Health, an online health care jobs marketplace, raised $63M in equity and debt led by Adams Street Partners, source says at a $260M valuation (Anushree Dave/Bloomberg)](http://www.techmeme.com/210925/p8#a210925p8)
+ - [Missed Netflix's Tudum fan event? See the big trailers and video clips here     - CNET](https://www.cnet.com/news/missed-netflixs-tudum-fan-event-see-the-big-trailers-and-video-clips-here/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
