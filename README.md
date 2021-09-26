@@ -194,8 +194,8 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The great hunter stalks it prey.](http://9gag.com/gag/aoMbBA3)
- - 🚯 [Newton&#039;s third law!](http://9gag.com/gag/agBPR8w)
+ - 🚖 [Newton&#039;s third law!](http://9gag.com/gag/agBPR8w)
+ - 🚯 [Is it really true in Germany regarding hospitals? How the system works? Just asking.](http://9gag.com/gag/ayMOyXX)
  - 🚯 [Let&#039;s start the show...](http://9gag.com/gag/apNyKrB)<!-- MEMES:END -->
 
 --- 
