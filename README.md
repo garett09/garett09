@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Timber Wolf released](http://9gag.com/gag/aB27qgA)
- - 🚯 [Can I slap the parents?](http://9gag.com/gag/aQo0w97)
- - 🚯 [We can do it](http://9gag.com/gag/av53bpE)<!-- MEMES:END -->
+ - 🚖 [Kevin James Pizza Roayle](http://9gag.com/gag/a9E9Q0D)
+ - 🚯 [We can do it](http://9gag.com/gag/av53bpE)
+ - 🚯 [7am sunday as an train driver, sometimes its quite beautiful](http://9gag.com/gag/aoMbB1A)<!-- MEMES:END -->
 
 --- 
 
