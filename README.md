@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Phone Repair Guru report finds that it will be difficult for third-party repair centers to replace iPhone 13's screen without losing access to Face ID (Jos&eacute; Adorno/9to5Mac)](http://www.techmeme.com/210926/p12#a210926p12)
- - [A look at the frantic dealmaking behind Europe's instant grocery startups like Gorillas and Flink, as investors see a classic land grab for the top position (Financial Times)](http://www.techmeme.com/210926/p11#a210926p11)
- - [Netflix: The 41 best movies to stream tonight     - CNET](https://www.cnet.com/news/netflix-the-41-best-movies-to-stream-tonight/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Facebook says Instagram is not ‘toxic for teens,’ despite damning WSJ report](https://www.theverge.com/2021/9/26/22695629/facebook-says-instagram-is-not-toxic-for-teens-despite-damning-wsj-report)
+ - [Phone Repair Guru report finds that third-party repair centers will struggle to replace iPhone 13's screen without losing access to Face ID (Jos&eacute; Adorno/9to5Mac)](http://www.techmeme.com/210926/p12#a210926p12)
+ - [A look at the frantic dealmaking behind Europe's instant grocery startups like Gorillas and Flink, as investors see a classic land grab for the top position (Financial Times)](http://www.techmeme.com/210926/p11#a210926p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
