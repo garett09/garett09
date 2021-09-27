@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [IBM's Mayflower Autonomous Ship, which collects marine data, will try to sail across the Atlantic in Spring 2022, after failing its first attempt in June (Dalvin Brown/Washington Post)](http://www.techmeme.com/210927/p11#a210927p11)
- - [Apple keeps making third-party screen repairs harder](https://appleinsider.com/articles/21/09/26/apple-keeps-making-third-party-screen-repairs-harder?utm_medium=rss)
- - [China power cuts interrupt Apple production lines](https://appleinsider.com/articles/21/09/27/china-power-cuts-force-apple-suppliers-to-suspend-production?utm_medium=rss)<!-- TECH:END -->
+ - [Tesla begins letting drivers request its "Full Self-Driving" beta, prompting criticism from regulators and safety advocates (Faiz Siddiqui/Washington Post)](http://www.techmeme.com/210927/p15#a210927p15)
+ - [Resident Evil 4 VR is launching October 21st, but only on Oculus Quest 2](https://www.theverge.com/2021/9/27/22692268/resident-evil-4-vr-capcom-oculus-quest-2-release-date)
+ - [Rick Astley blown away by use of his song in 'Ted Lasso' -](https://appleinsider.com/articles/21/09/27/rick-astley-blown-away-by-use-of-his-song-in-ted-lasso--?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
