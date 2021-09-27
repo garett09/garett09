@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Best wireless gaming mouse](https://www.pcgamer.com/best-wireless-gaming-mouse)
- - [The best gaming mouse in 2021](https://www.pcgamer.com/the-best-gaming-mouse)
- - [Pokémon Unite Survey Suggests Huge Changes Could Be Coming](https://kotaku.com/pokemon-unite-survey-suggests-huge-changes-could-be-com-1847754725)<!-- GAME:END -->
+ - [One of Warhammer 40K's rarest minis just sold for a record-breaking $35,000](https://www.pcgamer.com/warhammer-mini-thunderhawk-record-sale)
+ - [Marvel sues co-creators of Iron Man and Spider-Man so it doesn't have to share copyright](https://www.pcgamer.com/marvel-sues-co-creators-of-iron-man-and-spider-man-so-it-doesnt-have-to-share-copyright)
+ - [Best wireless gaming mouse](https://www.pcgamer.com/best-wireless-gaming-mouse)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
