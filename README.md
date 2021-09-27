@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [MagSafe wallet review, listener questions, & more on HomeKit Insider](https://appleinsider.com/articles/21/09/27/magsafe-wallet-review-listener-questions-more-on-homekit-insider?utm_medium=rss)
- - [SoftBank Vision Fund's sole senior managing partner, Deep Nishar, says he will leave by the end of 2021 after six years at the fund (Gillian Tan/Bloomberg)](http://www.techmeme.com/210927/p29#a210927p29)
- - [Make your Google profile picture cooler, and safer, with Google Illustrations](https://www.androidauthority.com/google-illustrations-3031026/)<!-- TECH:END -->
+ - [The Nebula sound bar returns to an all-time low price, and more sound bar deals](https://www.androidauthority.com/best-sound-bar-deals-1114174/)
+ - [Skype is getting another redesign with new themes and features](https://www.theverge.com/2021/9/27/22696716/skype-new-design-themes-calling-features-updates)
+ - [Apple partners with A-Cold-Wall on limited-edition Beats Studio3 Wireless](https://appleinsider.com/articles/21/09/27/apple-partners-with-a-cold-wall-on-limited-edition-beats-studio3-wireless?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
