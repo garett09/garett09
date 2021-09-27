@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Metroid Dread feels right at home on Nintendo’s new OLED Switch](https://www.theverge.com/22690483/metroid-dread-nintendo-switch-oled-console-hands-on-preview)
- - [Cloudflare Is Taking a Shot at Email Security](https://www.wired.com/story/cloudflare-taking-a-shot-at-email-security)
- - [Our Favorite Headphones and Earbuds for $100 or Less](https://www.wired.com/gallery/best-headphones-under-100)<!-- TECH:END -->
+ - [As Israeli unicorns rise from one five years ago to 13 in June, a look at the startup scene's impact on Tel Aviv, including booming housing and living costs (Wall Street Journal)](http://www.techmeme.com/210927/p23#a210927p23)
+ - [Lenovo ThinkPad X1 Carbon Gen 9 review: ninth time’s the charm](https://www.theverge.com/22691965/lenovo-thinkpad-x1-carbon-gen-9-review-design-specs-price-features)
+ - [Facebook halts 'Instagram Kids' plan but insists it's still a good idea](https://appleinsider.com/articles/21/09/27/facebook-halts-instagram-kids-plan-but-insists-its-still-a-good-idea?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
