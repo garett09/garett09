@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Boxer shows restraint when he could have destroyed his opponent](http://9gag.com/gag/apNyoDb)
- - 🚯 [5 Stars](http://9gag.com/gag/aLpYKwM)
- - 🚯 [With all the respect these guys are out of their minds.](http://9gag.com/gag/a8EPWXd)<!-- MEMES:END -->
+ - 🚖 [With all the respect these guys are out of their minds.](http://9gag.com/gag/a8EPWXd)
+ - 🚯 [Catflix](http://9gag.com/gag/aDdpweB)
+ - 🚯 [Jordan B Peterson on Tinder.](http://9gag.com/gag/aAbWRnd)<!-- MEMES:END -->
 
 --- 
 
