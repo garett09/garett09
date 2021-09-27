@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Deep](http://9gag.com/gag/abVPZGE)
- - 🚯 [Who&#039;s A Good Boy](http://9gag.com/gag/aNpxWAv)
- - 🚯 [One simply does not walk into the UK](http://9gag.com/gag/a4Eejx1)<!-- MEMES:END -->
+ - 🚖 [Who&#039;s A Good Boy](http://9gag.com/gag/aNpxWAv)
+ - 🚯 [The inhabitants of Cluj-Napoca, Romania, are allowed to use public transport for free if they do 20 squats.](http://9gag.com/gag/a7E47Ve)
+ - 🚯 [Me and my bro when they announce that the winners of the dance contest get free beers all night.](http://9gag.com/gag/aXoDwbV)<!-- MEMES:END -->
 
 --- 
 
