@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Rage against the machine](http://9gag.com/gag/aP3NwMw)
- - 🚯 [Lorry manoeuvre.](http://9gag.com/gag/aNpxoL4)
- - 🚯 [True size of the world](http://9gag.com/gag/aZ0APOW)<!-- MEMES:END -->
+ - 🚖 [True size of the world](http://9gag.com/gag/aZ0APOW)
+ - 🚯 [*cries in my basement](http://9gag.com/gag/azMNgYb)
+ - 🚯 [Lorry manoeuvre.](http://9gag.com/gag/aNpxoL4)<!-- MEMES:END -->
 
 --- 
 
