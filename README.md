@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The researcher who disclosed three iOS zero-days last week says Apple apologized for the delayed response and said it is still investigating the vulnerabilities (Lorenzo Franceschi-Bicchierai/VICE)](http://www.techmeme.com/210927/p32#a210927p32)
- - [The beloved Babylon 5 is getting rebooted, and series creator JMS is running the show](https://www.theverge.com/2021/9/27/22696836/babylon-5-reboot-j-michael-straczynski-warner-bros-the-cw)
- - [The Overwatch League grand finals were a storybook sendoff ahead of Overwatch 2](https://www.theverge.com/2021/9/27/22696933/the-shanghai-dragons-2021-overwatch-league-grand-finals)<!-- TECH:END -->
+ - [LinkedIn confirms it is testing a new, paid ticketed events service and says 21M people attended an Event on LinkedIn in 2020 (Ingrid Lunden/TechCrunch)](http://www.techmeme.com/210927/p33#a210927p33)
+ - [RIP Android TV remote app, hello Google TV remote app](https://www.theverge.com/2021/9/27/22697167/android-tv-remote-google-tv-remote-app)
+ - [Save 30% on Mario Kart Live: Home Circuit, and more Nintendo Switch deals](https://www.androidauthority.com/best-nintendo-switch-deals-1146985/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
