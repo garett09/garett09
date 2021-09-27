@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Five new Steam games you probably missed (September 27, 2021)](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-september-27-2021)
  - [Get all currently available Lord of the Rings Online quest packs free](https://www.pcgamer.com/get-all-currently-available-lord-of-the-rings-online-quest-packs-free)
- - [Students don't know what files and folders are, professors say](https://www.pcgamer.com/students-dont-know-what-files-and-folders-are-professors-say)
- - [The Week In Games: A Whole New World, A Dazzling Place](https://kotaku.com/the-week-in-games-a-whole-new-world-a-dazzling-place-1847749113)<!-- GAME:END -->
+ - [Students don't know what files and folders are, professors say](https://www.pcgamer.com/students-dont-know-what-files-and-folders-are-professors-say)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
