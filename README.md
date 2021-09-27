@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Demon Slayer season 2 will be released in December after a short prequel arc](https://www.polygon.com/22696171/demon-slayer-season-2-release-date-streaming-mugen-train)
- - [New 240W USB Type-C spec means every laptop charger could soon be universal](https://www.pcgamer.com/usb-type-c-2-1-240w-gaming-laptop-power)
- - [Stranded Deep: co-op online update available tomorrow](http://feedproxy.google.com/~r/PSBlog/~3/3OlqAlDicsA/)<!-- GAME:END -->
+ - [Announcing the MLB The Show 21 Fall Circuit and Dynasty Invitational](http://feedproxy.google.com/~r/PSBlog/~3/3RD7tt-3Ixo/)
+ - [Announcing the MLB The Show 21 Fall Circuit and Dynasty Invitational](https://blog.playstation.com/2021/09/27/announcing-the-mlb-the-show-21-fall-circuit-and-dynasty-invitational/)
+ - [Genshin Impact Moonlight Seeker: How to get 100%](https://www.pcgamer.com/genshin-impact-moonlight-seeker-luxurious-sea-lord)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
