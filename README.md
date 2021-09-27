@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [LinkedIn confirms it is testing a new, paid ticketed events service and says 21M people attended an Event on LinkedIn in 2020 (Ingrid Lunden/TechCrunch)](http://www.techmeme.com/210927/p33#a210927p33)
- - [RIP Android TV remote app, hello Google TV remote app](https://www.theverge.com/2021/9/27/22697167/android-tv-remote-google-tv-remote-app)
- - [Save 30% on Mario Kart Live: Home Circuit, and more Nintendo Switch deals](https://www.androidauthority.com/best-nintendo-switch-deals-1146985/)<!-- TECH:END -->
+ - [Apple tells developers to update apps for iPad mini's new display size](https://appleinsider.com/articles/21/09/27/apple-tells-developers-to-update-apps-for-ipad-minis-new-display-size?utm_medium=rss)
+ - [Epic’s CEO has bad news if you were hoping to see Fortnite NFTs](https://www.theverge.com/2021/9/27/22696978/epic-tim-sweeney-nft-scam-concerns-web-3)
+ - [Best firm mattress in 2021     - CNET](https://www.cnet.com/health/sleep/best-firm-mattress/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
