@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Oculus Quest 2 accessories for 2021     - CNET](https://www.cnet.com/tech/computing/best-oculus-quest-2-accessories/#ftag=CAD590a51e)
- - [Facebook disputes the WSJ's framing of Instagram's harm to teen girls, saying internal research found using Instagram largely made difficult situations easier (Pratiti Raychoudhury/About Facebook)](http://www.techmeme.com/210926/p10#a210926p10)
- - [Demon Slayer: Season 2 release date, how to watch or stream, everything you need to know     - CNET](https://www.cnet.com/news/demon-slayer-season-2-release-date-how-to-watch-everything-you-need-to-know/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Phone Repair Guru report finds that it will be difficult for third-party repair centers to replace iPhone 13's screen without losing access to Face ID (Jos&eacute; Adorno/9to5Mac)](http://www.techmeme.com/210926/p12#a210926p12)
+ - [A look at the frantic dealmaking behind Europe's instant grocery startups like Gorillas and Flink, as investors see a classic land grab for the top position (Financial Times)](http://www.techmeme.com/210926/p11#a210926p11)
+ - [Netflix: The 41 best movies to stream tonight     - CNET](https://www.cnet.com/news/netflix-the-41-best-movies-to-stream-tonight/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
