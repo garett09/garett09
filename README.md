@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Play Google Stadia games on your TV with any controller or even your phone](https://www.androidauthority.com/google-stadia-tv-controller-3030682/)
- - [Death Stranding Director’s Cut makes the most of the PS5](https://www.theverge.com/2021/9/27/22696322/death-stranding-directors-cut-ps5-kojima-3d-audio-dualsense)
- - [Pokemon Unite: How to share save data between Switch and mobile     - CNET](https://www.cnet.com/news/pokemon-unite-how-to-share-saved-data-between-switch-and-mobile/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [MagSafe wallet review, listener questions, & more on HomeKit Insider](https://appleinsider.com/articles/21/09/27/magsafe-wallet-review-listener-questions-more-on-homekit-insider?utm_medium=rss)
+ - [SoftBank Vision Fund's sole senior managing partner, Deep Nishar, says he will leave by the end of 2021 after six years at the fund (Gillian Tan/Bloomberg)](http://www.techmeme.com/210927/p29#a210927p29)
+ - [Make your Google profile picture cooler, and safer, with Google Illustrations](https://www.androidauthority.com/google-illustrations-3031026/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
