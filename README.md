@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Facebook refutes reports claiming Instagram is harmful to teens     - CNET](https://www.cnet.com/news/facebook-refutes-reports-claiming-instagram-is-harmful-to-teens/#ftag=CAD590a51e)
- - [WWE Extreme Rules 2021: Results, bizarre ending, ratings and analysis     - CNET](https://www.cnet.com/news/wwe-extreme-rules-2021-results-bizarre-ending-ratings-and-analysis/#ftag=CAD590a51e)
- - [Facebook says Instagram is not ‘toxic for teens,’ despite damning WSJ report](https://www.theverge.com/2021/9/26/22695629/facebook-says-instagram-is-not-toxic-for-teens-despite-damning-wsj-report)<!-- TECH:END -->
+ - [WhatsApp will stop working on some Android phones](https://techncruncher.blogspot.com/2021/09/whatsapp-will-stop-working-on-some.html)
+ - [Tony Awards: All the winners from theater's biggest night of the year     - CNET](https://www.cnet.com/news/tony-awards-all-the-winners-from-theaters-biggest-night-of-the-year/#ftag=CAD590a51e)
+ - [Coronavirus pandemic continues to stunt womens' careers, study finds     - CNET](https://www.cnet.com/news/coronavirus-pandemic-continues-to-stunt-womens-careers-study-finds/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
