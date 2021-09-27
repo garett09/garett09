@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Netflix film Kate is getting a game next month](https://www.pcgamer.com/netflix-film-kate-is-getting-a-game-next-month)
- - [Wizards of the Coast is making a big-budget G.I. Joe game](https://www.pcgamer.com/wizards-of-the-coast-is-making-a-big-budget-gi-joe-game)
- - [Five new Steam games you probably missed (September 27, 2021)](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-september-27-2021)<!-- GAME:END -->
+ - [Here's when New World unlocks in your timezone](https://www.pcgamer.com/new-world-release-time-date-steam-unlock)
+ - [If You Want Bayonetta 3 On PlayStation Or Xbox, Tell Nintendo Says Hideki Kamiya](https://kotaku.com/if-you-want-bayonetta-3-on-playstation-or-xbox-tell-ni-1847750165)
+ - [Netflix film Kate is getting a game next month](https://www.pcgamer.com/netflix-film-kate-is-getting-a-game-next-month)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
