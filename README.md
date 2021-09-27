@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Signal was down for many people today, but were you affected?](https://www.androidauthority.com/signal-not-working-1193422/)
  - [This foldable display can be folded like origami because reasons](https://www.androidauthority.com/3d-foldable-display-origami-3030484/)
- - [Apple suppliers like Eson Precision Engineering, Unimicron Technology, and Concraft Holding halt production as China tightens its energy consumption policy (Nikkei Asia)](http://www.techmeme.com/210927/p4#a210927p4)
- - [New MacBook Air production starts next summer, Kuo says](https://appleinsider.com/articles/21/09/27/new-macbook-air-production-starts-next-summer-kuo-says?utm_medium=rss)<!-- TECH:END -->
+ - [Apple suppliers like Eson Precision Engineering, Unimicron Technology, and Concraft Holding halt production as China tightens its energy consumption policy (Nikkei Asia)](http://www.techmeme.com/210927/p4#a210927p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
