@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Hot Wheels Unleashed Delivers Pure Racing Fun](https://news.xbox.com/en-us/2021/09/27/hot-wheels-unleashed-delivers-pure-racing-fun/)
- - [The full Alan Wake Remastered system requirements are here](https://www.pcgamer.com/alan-wake-remastered-pc-system-requirements)
- - [Rare Mew Pokémon Oreos Are Selling For Thousands](https://kotaku.com/rare-mew-pokemon-oreos-are-selling-for-thousands-1847752974)<!-- GAME:END -->
+ - [Death Stranding Director’s Cut Makes Its Private Rooms Even Creepier](https://kotaku.com/death-stranding-director-s-cut-makes-its-private-rooms-1847753637)
+ - [Toem is a video game built entirely around a photo mode](https://www.polygon.com/22696875/toem-photography-game-mode-nintendo-switch)
+ - [Best gaming motherboards in 2021](https://www.pcgamer.com/best-gaming-motherboards)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
