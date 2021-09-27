@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Accurate](http://9gag.com/gag/aO3gVAM)
+ - 🚖 [Deep](http://9gag.com/gag/abVPZGE)
  - 🚯 [Who&#039;s A Good Boy](http://9gag.com/gag/aNpxWAv)
- - 🚯 [You know who you are.](http://9gag.com/gag/amPjzAd)<!-- MEMES:END -->
+ - 🚯 [One simply does not walk into the UK](http://9gag.com/gag/a4Eejx1)<!-- MEMES:END -->
 
 --- 
 
