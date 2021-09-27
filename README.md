@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [That&#039;s suspicious](http://9gag.com/gag/a9EQLwj)
- - 🚯 [Cyclists..](http://9gag.com/gag/aRX5Vw5)
- - 🚯 [I don&#039;t think there IS a right way to hold it](http://9gag.com/gag/a8EPj4O)<!-- MEMES:END -->
+ - 🚖 [Cyclists..](http://9gag.com/gag/aRX5Vw5)
+ - 🚯 [Choose your fighter](http://9gag.com/gag/agBMvm6)
+ - 🚯 [Let me eat, hooman](http://9gag.com/gag/av5YL1d)<!-- MEMES:END -->
 
 --- 
 
