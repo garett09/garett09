@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Death Stranding Director’s Cut Makes Its Private Rooms Even Creepier](https://kotaku.com/death-stranding-director-s-cut-makes-its-private-rooms-1847753637)
- - [Toem is a video game built entirely around a photo mode](https://www.polygon.com/22696875/toem-photography-game-mode-nintendo-switch)
- - [Best gaming motherboards in 2021](https://www.pcgamer.com/best-gaming-motherboards)<!-- GAME:END -->
+ - [Rune Factory 5 Will Finally Let The Gays Marry](https://kotaku.com/rune-factory-5-will-finally-let-the-gays-marry-1847754456)
+ - [Best AMD motherboards in 2021](https://www.pcgamer.com/best-AMD-motherboards)
+ - [Eastward: The Kotaku Review](https://kotaku.com/eastward-the-kotaku-review-1847753920)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
