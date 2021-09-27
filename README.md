@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Wizards of the Coast is making a big-budget G.I. Joe game](https://www.pcgamer.com/wizards-of-the-coast-is-making-a-big-budget-gi-joe-game)
  - [Five new Steam games you probably missed (September 27, 2021)](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-september-27-2021)
- - [Get all currently available Lord of the Rings Online quest packs free](https://www.pcgamer.com/get-all-currently-available-lord-of-the-rings-online-quest-packs-free)
- - [Students don't know what files and folders are, professors say](https://www.pcgamer.com/students-dont-know-what-files-and-folders-are-professors-say)<!-- GAME:END -->
+ - [Get all currently available Lord of the Rings Online quest packs free](https://www.pcgamer.com/get-all-currently-available-lord-of-the-rings-online-quest-packs-free)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
