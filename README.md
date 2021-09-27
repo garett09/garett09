@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Here's when New World unlocks in your timezone](https://www.pcgamer.com/new-world-release-time-date-steam-unlock)
- - [If You Want Bayonetta 3 On PlayStation Or Xbox, Tell Nintendo Says Hideki Kamiya](https://kotaku.com/if-you-want-bayonetta-3-on-playstation-or-xbox-tell-ni-1847750165)
- - [Netflix film Kate is getting a game next month](https://www.pcgamer.com/netflix-film-kate-is-getting-a-game-next-month)<!-- GAME:END -->
+ - [Astria Ascending Is The Prettiest Turn-Based Game I’ve Ever Played](https://kotaku.com/astria-ascending-is-the-prettiest-turn-based-game-i-ve-1847741591)
+ - [The release version of Windows 11 is now available to everyone in the Insider program](https://www.pcgamer.com/the-release-version-of-windows-11-is-now-available-to-everyone-in-the-insider-program)
+ - [Sprawling Red Dead Redemption 2 mod pack restores parts of Mexico](https://www.pcgamer.com/sprawling-red-dead-redemption-2-mod-pack-restores-parts-of-mexico)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
