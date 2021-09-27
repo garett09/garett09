@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [With all the respect these guys are out of their minds.](http://9gag.com/gag/a8EPWXd)
- - 🚯 [Catflix](http://9gag.com/gag/aDdpweB)
- - 🚯 [Jordan B Peterson on Tinder.](http://9gag.com/gag/aAbWRnd)<!-- MEMES:END -->
+ - 🚖 [Catflix](http://9gag.com/gag/aDdpweB)
+ - 🚯 [Would pay to watch this](http://9gag.com/gag/aB2qQMP)
+ - 🚯 [Choose your fighter](http://9gag.com/gag/agBMvm6)<!-- MEMES:END -->
 
 --- 
 
