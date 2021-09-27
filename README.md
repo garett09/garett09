@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [One of Warhammer 40K's rarest minis just sold for a record-breaking $35,000](https://www.pcgamer.com/warhammer-mini-thunderhawk-record-sale)
- - [Marvel sues co-creators of Iron Man and Spider-Man so it doesn't have to share copyright](https://www.pcgamer.com/marvel-sues-co-creators-of-iron-man-and-spider-man-so-it-doesnt-have-to-share-copyright)
- - [Best wireless gaming mouse](https://www.pcgamer.com/best-wireless-gaming-mouse)<!-- GAME:END -->
+ - [YouTubers Show Old Switch And New OLED Model Running Side By Side](https://kotaku.com/youtubers-show-old-switch-and-new-oled-model-running-si-1847755781)
+ - [The Witcher: Ronin manga earns nearly $800,000 in crowdfunding](https://www.pcgamer.com/the-witcher-ronin-manga-earns-nearly-dollar800000-in-crowdfunding)
+ - [One of Warhammer 40K's rarest minis just sold for a record-breaking $35,000](https://www.pcgamer.com/warhammer-mini-thunderhawk-record-sale)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
