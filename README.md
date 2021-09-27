@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Matrix 4 filming in downtown San Francisco!](http://9gag.com/gag/aeAo0r5)
- - 🚯 [Non Japanese redhead](http://9gag.com/gag/av5YZvq)
- - 🚯 [That&#039;s suspicious](http://9gag.com/gag/a9EQLwj)<!-- MEMES:END -->
+ - 🚖 [That&#039;s suspicious](http://9gag.com/gag/a9EQLwj)
+ - 🚯 [Speaking the language of cats](http://9gag.com/gag/ajmb0D0)
+ - 🚯 [He got a free bottle of wine](http://9gag.com/gag/ajmb0q0)<!-- MEMES:END -->
 
 --- 
 
