@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Witcher's getting a new 'fun-filled kids and family series' on Netflix](https://www.pcgamer.com/the-witchers-getting-a-new-fun-filled-kids-and-family-series-on-netflix)
- - [Teacup Available Now for Xbox One and Xbox Series X|S](https://news.xbox.com/en-us/2021/09/27/teacup-available-now-for-xbox-one-and-xbox-series-xs/)
- - [Halo Infinite Is Filled With Memes, Dataminers Unfortunately Reveal](https://kotaku.com/halo-infinite-is-filled-with-memes-dataminers-unfortun-1847752115)<!-- GAME:END -->
+ - [Hot Wheels Unleashed Delivers Pure Racing Fun](https://news.xbox.com/en-us/2021/09/27/hot-wheels-unleashed-delivers-pure-racing-fun/)
+ - [The full Alan Wake Remastered system requirements are here](https://www.pcgamer.com/alan-wake-remastered-pc-system-requirements)
+ - [Rare Mew Pokémon Oreos Are Selling For Thousands](https://kotaku.com/rare-mew-pokemon-oreos-are-selling-for-thousands-1847752974)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
