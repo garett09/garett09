@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Most people can do that](http://9gag.com/gag/a6Ev7dN)
- - 🚯 [The small dick energy is strong with this one.](http://9gag.com/gag/aB2qrvA)
- - 🚯 [Let me eat, hooman](http://9gag.com/gag/av5YL1d)<!-- MEMES:END -->
+ - 🚖 [The small dick energy is strong with this one.](http://9gag.com/gag/aB2qrvA)
+ - 🚯 [Let me eat, hooman](http://9gag.com/gag/av5YL1d)
+ - 🚯 [First time watching Interstellar](http://9gag.com/gag/aoMrjme)<!-- MEMES:END -->
 
 --- 
 
