@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Astria Ascending Is The Prettiest Turn-Based Game I’ve Ever Played](https://kotaku.com/astria-ascending-is-the-prettiest-turn-based-game-i-ve-1847741591)
- - [The release version of Windows 11 is now available to everyone in the Insider program](https://www.pcgamer.com/the-release-version-of-windows-11-is-now-available-to-everyone-in-the-insider-program)
- - [Sprawling Red Dead Redemption 2 mod pack restores parts of Mexico](https://www.pcgamer.com/sprawling-red-dead-redemption-2-mod-pack-restores-parts-of-mexico)<!-- GAME:END -->
+ - [Horizon Forbidden West: Evolving Aloy](http://feedproxy.google.com/~r/PSBlog/~3/2MfaI1odx-I/)
+ - [Horizon Forbidden West: Evolving Aloy](https://blog.playstation.com/2021/09/27/horizon-forbidden-west-evolving-aloy/)
+ - [Metroid Dread and the new Switch OLED model are made for each other](https://www.polygon.com/22696080/metroid-dread-nintendo-switch-oled-model-impressions)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
