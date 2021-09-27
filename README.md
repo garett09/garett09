@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Cyclists..](http://9gag.com/gag/aRX5Vw5)
- - 🚯 [I don&#039;t think there IS a right way to hold it](http://9gag.com/gag/a8EPj4O)
- - 🚯 [Frying Ice cubes in the frying machines](http://9gag.com/gag/anQpK6V)<!-- MEMES:END -->
+ - 🚖 [I don&#039;t think there IS a right way to hold it](http://9gag.com/gag/a8EPj4O)
+ - 🚯 [Oh how times have changed](http://9gag.com/gag/aXoDpL2)
+ - 🚯 [The small dick energy is strong with this one.](http://9gag.com/gag/aB2qrvA)<!-- MEMES:END -->
 
 --- 
 
