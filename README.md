@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Who&#039;s A Good Boy](http://9gag.com/gag/aNpxWAv)
- - 🚯 [The inhabitants of Cluj-Napoca, Romania, are allowed to use public transport for free if they do 20 squats.](http://9gag.com/gag/a7E47Ve)
- - 🚯 [Me and my bro when they announce that the winners of the dance contest get free beers all night.](http://9gag.com/gag/aXoDwbV)<!-- MEMES:END -->
+ - 🚖 [This how you change parking spots in space](http://9gag.com/gag/a8EP4vQ)
+ - 🚯 [Me and my bro when they announce that the winners of the dance contest get free beers all night.](http://9gag.com/gag/aXoDwbV)
+ - 🚯 [Elk makes an incredible sound that sounds like a sea creature.](http://9gag.com/gag/a8EPM9e)<!-- MEMES:END -->
 
 --- 
 
