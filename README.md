@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Black Desert Awaits](https://news.xbox.com/en-us/2021/09/27/the-black-desert-awaits/)
- - [Overwatch 2 Debuts At Tourney, Seemingly Missing Jeff Kaplan Nod](https://kotaku.com/overwatch-2-debuts-at-tourney-seemingly-missing-jeff-k-1847751895)
- - [Diablo II: Resurrected Keeps Barring Players From Using Their Own Characters](https://kotaku.com/diablo-ii-resurrected-keeps-barring-players-from-using-1847751590)<!-- GAME:END -->
+ - [The Witcher's getting a new 'fun-filled kids and family series' on Netflix](https://www.pcgamer.com/the-witchers-getting-a-new-fun-filled-kids-and-family-series-on-netflix)
+ - [Teacup Available Now for Xbox One and Xbox Series X|S](https://news.xbox.com/en-us/2021/09/27/teacup-available-now-for-xbox-one-and-xbox-series-xs/)
+ - [Halo Infinite Is Filled With Memes, Dataminers Unfortunately Reveal](https://kotaku.com/halo-infinite-is-filled-with-memes-dataminers-unfortun-1847752115)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
