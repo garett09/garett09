@@ -194,8 +194,8 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [After 9 years of saving and working night shifts, I was finally able to buy my own place](http://9gag.com/gag/aXoD04g)
- - 🚯 [That first command made me lose it](http://9gag.com/gag/a8EPLje)
+ - 🚖 [True size of the world](http://9gag.com/gag/aZ0APOW)
+ - 🚯 [What my white friend hears when my i talk with my friends](http://9gag.com/gag/aoMrEr2)
  - 🚯 [Rage against the machine](http://9gag.com/gag/aP3NwMw)<!-- MEMES:END -->
 
 --- 
