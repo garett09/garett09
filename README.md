@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Catflix](http://9gag.com/gag/aDdpweB)
+ - 🚖 [There&#039;s no effing plot hole in TLOR.](http://9gag.com/gag/aK60gPZ)
  - 🚯 [Would pay to watch this](http://9gag.com/gag/aB2qQMP)
- - 🚯 [Choose your fighter](http://9gag.com/gag/agBMvm6)<!-- MEMES:END -->
+ - 🚯 [Lorry manoeuvre.](http://9gag.com/gag/aNpxoL4)<!-- MEMES:END -->
 
 --- 
 
