@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Horizon Forbidden West: Evolving Aloy](http://feedproxy.google.com/~r/PSBlog/~3/2MfaI1odx-I/)
- - [Horizon Forbidden West: Evolving Aloy](https://blog.playstation.com/2021/09/27/horizon-forbidden-west-evolving-aloy/)
- - [Metroid Dread and the new Switch OLED model are made for each other](https://www.polygon.com/22696080/metroid-dread-nintendo-switch-oled-model-impressions)<!-- GAME:END -->
+ - [Demon Slayer season 2 will be released in December after a short prequel arc](https://www.polygon.com/22696171/demon-slayer-season-2-release-date-streaming-mugen-train)
+ - [New 240W USB Type-C spec means every laptop charger could soon be universal](https://www.pcgamer.com/usb-type-c-2-1-240w-gaming-laptop-power)
+ - [Stranded Deep: co-op online update available tomorrow](http://feedproxy.google.com/~r/PSBlog/~3/3OlqAlDicsA/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
