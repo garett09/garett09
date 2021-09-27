@@ -195,8 +195,8 @@ Windows                  7 hrs 16 mins       ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [That&#039;s suspicious](http://9gag.com/gag/a9EQLwj)
- - 🚯 [Speaking the language of cats](http://9gag.com/gag/ajmb0D0)
- - 🚯 [He got a free bottle of wine](http://9gag.com/gag/ajmb0q0)<!-- MEMES:END -->
+ - 🚯 [Cyclists..](http://9gag.com/gag/aRX5Vw5)
+ - 🚯 [I don&#039;t think there IS a right way to hold it](http://9gag.com/gag/a8EPj4O)<!-- MEMES:END -->
 
 --- 
 
