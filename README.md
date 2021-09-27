@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Facebook says Instagram is not ‘toxic for teens,’ despite damning WSJ report](https://www.theverge.com/2021/9/26/22695629/facebook-says-instagram-is-not-toxic-for-teens-despite-damning-wsj-report)
- - [Phone Repair Guru report finds that third-party repair centers will struggle to replace iPhone 13's screen without losing access to Face ID (Jos&eacute; Adorno/9to5Mac)](http://www.techmeme.com/210926/p12#a210926p12)
- - [A look at the frantic dealmaking behind Europe's instant grocery startups like Gorillas and Flink, as investors see a classic land grab for the top position (Financial Times)](http://www.techmeme.com/210926/p11#a210926p11)<!-- TECH:END -->
+ - [Facebook refutes reports claiming Instagram is harmful to teens     - CNET](https://www.cnet.com/news/facebook-refutes-reports-claiming-instagram-is-harmful-to-teens/#ftag=CAD590a51e)
+ - [WWE Extreme Rules 2021: Results, bizarre ending, ratings and analysis     - CNET](https://www.cnet.com/news/wwe-extreme-rules-2021-results-bizarre-ending-ratings-and-analysis/#ftag=CAD590a51e)
+ - [Facebook says Instagram is not ‘toxic for teens,’ despite damning WSJ report](https://www.theverge.com/2021/9/26/22695629/facebook-says-instagram-is-not-toxic-for-teens-despite-damning-wsj-report)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
