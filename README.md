@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [&quot;It&#039;s not possible&quot;.... &quot;No, it&#039;s necessary&quot;](http://9gag.com/gag/aoMrjRm)
- - 🚯 [Climbing a 2000 feet tall tower for changing the bulb](http://9gag.com/gag/a1rzMY6)
- - 🚯 [Memories](http://9gag.com/gag/ajmbnmg)<!-- MEMES:END -->
+ - 🚖 [Accurate](http://9gag.com/gag/aO3gVAM)
+ - 🚯 [Who&#039;s A Good Boy](http://9gag.com/gag/aNpxWAv)
+ - 🚯 [You know who you are.](http://9gag.com/gag/amPjzAd)<!-- MEMES:END -->
 
 --- 
 
