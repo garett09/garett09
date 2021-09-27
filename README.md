@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [True size of the world](http://9gag.com/gag/aZ0APOW)
- - 🚯 [*cries in my basement](http://9gag.com/gag/azMNgYb)
- - 🚯 [Lorry manoeuvre.](http://9gag.com/gag/aNpxoL4)<!-- MEMES:END -->
+ - 🚖 [Boxer shows restraint when he could have destroyed his opponent](http://9gag.com/gag/apNyoDb)
+ - 🚯 [5 Stars](http://9gag.com/gag/aLpYKwM)
+ - 🚯 [With all the respect these guys are out of their minds.](http://9gag.com/gag/a8EPWXd)<!-- MEMES:END -->
 
 --- 
 
