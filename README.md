@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Signal was down for many people today, but were you affected?](https://www.androidauthority.com/signal-not-working-1193422/)
- - [This foldable display can be folded like origami because reasons](https://www.androidauthority.com/3d-foldable-display-origami-3030484/)
- - [Apple suppliers like Eson Precision Engineering, Unimicron Technology, and Concraft Holding halt production as China tightens its energy consumption policy (Nikkei Asia)](http://www.techmeme.com/210927/p4#a210927p4)<!-- TECH:END -->
+ - [Facebook ignores many issues raised by WSJ's Instagram piece, such as addiction, instead devaluing its own research while not releasing data it repeatedly cites (Alex Cranz/The Verge)](http://www.techmeme.com/210927/p6#a210927p6)
+ - [UK-based live events app Dice raises $122M Series C led by SoftBank Vision Fund 2, source says at a $400M valuation, with Tony Fadell and others participating (Tim Bradshaw/Financial Times)](http://www.techmeme.com/210927/p5#a210927p5)
+ - [Signal was down for many people today, but were you affected?](https://www.androidauthority.com/signal-not-working-1193422/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
