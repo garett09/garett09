@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [CIA developed plans to kidnap Julian Assange, per report](https://www.theverge.com/2021/9/27/22696436/cia-kidnap-julian-assange-assassination-pompeo-trump)
- - [Apple engineers talk about iPhone 13 camera changes](https://appleinsider.com/articles/21/09/27/apple-engineers-talk-about-iphone-13-camera-changes?utm_medium=rss)
- - [The Mandalorian Season 3: Release date, story and everything else we know](https://www.androidauthority.com/the-mandalorian-season-3-3029747/)<!-- TECH:END -->
+ - [The researcher who disclosed three iOS zero-days last week says Apple apologized for the delayed response and said it is still investigating the vulnerabilities (Lorenzo Franceschi-Bicchierai/VICE)](http://www.techmeme.com/210927/p32#a210927p32)
+ - [The beloved Babylon 5 is getting rebooted, and series creator JMS is running the show](https://www.theverge.com/2021/9/27/22696836/babylon-5-reboot-j-michael-straczynski-warner-bros-the-cw)
+ - [The Overwatch League grand finals were a storybook sendoff ahead of Overwatch 2](https://www.theverge.com/2021/9/27/22696933/the-shanghai-dragons-2021-overwatch-league-grand-finals)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
