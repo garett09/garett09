@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Rune Factory 5 Will Finally Let The Gays Marry](https://kotaku.com/rune-factory-5-will-finally-let-the-gays-marry-1847754456)
- - [Best AMD motherboards in 2021](https://www.pcgamer.com/best-AMD-motherboards)
- - [Eastward: The Kotaku Review](https://kotaku.com/eastward-the-kotaku-review-1847753920)<!-- GAME:END -->
+ - [Best wireless gaming mouse](https://www.pcgamer.com/best-wireless-gaming-mouse)
+ - [The best gaming mouse in 2021](https://www.pcgamer.com/the-best-gaming-mouse)
+ - [Pokémon Unite Survey Suggests Huge Changes Could Be Coming](https://kotaku.com/pokemon-unite-survey-suggests-huge-changes-could-be-com-1847754725)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
