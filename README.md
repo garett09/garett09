@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Nebula sound bar returns to an all-time low price, and more sound bar deals](https://www.androidauthority.com/best-sound-bar-deals-1114174/)
- - [Skype is getting another redesign with new themes and features](https://www.theverge.com/2021/9/27/22696716/skype-new-design-themes-calling-features-updates)
- - [Apple partners with A-Cold-Wall on limited-edition Beats Studio3 Wireless](https://appleinsider.com/articles/21/09/27/apple-partners-with-a-cold-wall-on-limited-edition-beats-studio3-wireless?utm_medium=rss)<!-- TECH:END -->
+ - [CIA developed plans to kidnap Julian Assange, per report](https://www.theverge.com/2021/9/27/22696436/cia-kidnap-julian-assange-assassination-pompeo-trump)
+ - [Apple engineers talk about iPhone 13 camera changes](https://appleinsider.com/articles/21/09/27/apple-engineers-talk-about-iphone-13-camera-changes?utm_medium=rss)
+ - [The Mandalorian Season 3: Release date, story and everything else we know](https://www.androidauthority.com/the-mandalorian-season-3-3029747/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
