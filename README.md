@@ -195,7 +195,7 @@ Windows                  7 hrs 16 mins       ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [This how you change parking spots in space](http://9gag.com/gag/a8EP4vQ)
- - 🚯 [Me and my bro when they announce that the winners of the dance contest get free beers all night.](http://9gag.com/gag/aXoDwbV)
+ - 🚯 [Russian seal with gentle eyes approches humans.](http://9gag.com/gag/a7E4Z7z)
  - 🚯 [Elk makes an incredible sound that sounds like a sea creature.](http://9gag.com/gag/a8EPM9e)<!-- MEMES:END -->
 
 --- 
