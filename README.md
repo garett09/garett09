@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Facebook ignores many issues raised by WSJ's Instagram piece, such as addiction, instead devaluing its own research while not releasing data it repeatedly cites (Alex Cranz/The Verge)](http://www.techmeme.com/210927/p6#a210927p6)
- - [UK-based live events app Dice raises $122M Series C led by SoftBank Vision Fund 2, source says at a $400M valuation, with Tony Fadell and others participating (Tim Bradshaw/Financial Times)](http://www.techmeme.com/210927/p5#a210927p5)
- - [Signal was down for many people today, but were you affected?](https://www.androidauthority.com/signal-not-working-1193422/)<!-- TECH:END -->
+ - [IBM's Mayflower Autonomous Ship, which collects marine data, will try to sail across the Atlantic in Spring 2022, after failing its first attempt in June (Dalvin Brown/Washington Post)](http://www.techmeme.com/210927/p11#a210927p11)
+ - [Apple keeps making third-party screen repairs harder](https://appleinsider.com/articles/21/09/26/apple-keeps-making-third-party-screen-repairs-harder?utm_medium=rss)
+ - [China power cuts interrupt Apple production lines](https://appleinsider.com/articles/21/09/27/china-power-cuts-force-apple-suppliers-to-suspend-production?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
