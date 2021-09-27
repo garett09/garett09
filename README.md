@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [As Israeli unicorns rise from one five years ago to 13 in June, a look at the startup scene's impact on Tel Aviv, including booming housing and living costs (Wall Street Journal)](http://www.techmeme.com/210927/p23#a210927p23)
- - [Lenovo ThinkPad X1 Carbon Gen 9 review: ninth time’s the charm](https://www.theverge.com/22691965/lenovo-thinkpad-x1-carbon-gen-9-review-design-specs-price-features)
- - [Facebook halts 'Instagram Kids' plan but insists it's still a good idea](https://appleinsider.com/articles/21/09/27/facebook-halts-instagram-kids-plan-but-insists-its-still-a-good-idea?utm_medium=rss)<!-- TECH:END -->
+ - [YouTube Music finally makes its way to select Wear OS 2 watches](https://www.androidauthority.com/youtube-music-wear-os-2-3030629/)
+ - [YouTube Music’s new Wear OS app is coming to older smartwatches after all](https://www.theverge.com/2021/9/27/22695976/youtube-music-wear-os-2-app-offline-downloads)
+ - [Best Deals Sept. 27: $82 Crucial 1TB SSD, $99 August Smart Lock, and more!](https://appleinsider.com/articles/21/09/27/best-deals-sept-27-82-crucial-1tb-ssd-99-august-smart-lock-and-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
