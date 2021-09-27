@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [WhatsApp will stop working on some Android phones](https://techncruncher.blogspot.com/2021/09/whatsapp-will-stop-working-on-some.html)
- - [Tony Awards: All the winners from theater's biggest night of the year     - CNET](https://www.cnet.com/news/tony-awards-all-the-winners-from-theaters-biggest-night-of-the-year/#ftag=CAD590a51e)
- - [Coronavirus pandemic continues to stunt womens' careers, study finds     - CNET](https://www.cnet.com/news/coronavirus-pandemic-continues-to-stunt-womens-careers-study-finds/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Samsung Galaxy S21 FE launch may have been canceled](https://www.androidauthority.com/samsung-galaxy-s21-fe-canceled-3030690/)
+ - [Australia recognizes electronic payments system eftpos as its first private ID exchange operator, to enable online transactions requiring a digital ID (Aimee Chanthadavong/ZDNet)](http://www.techmeme.com/210927/p3#a210927p3)
+ - [Thailand-based Ascend Money, which operates the TrueMoney e-wallet, raises $150M Series C at a valuation of $1.5B (Kate Park/TechCrunch)](http://www.techmeme.com/210927/p2#a210927p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
