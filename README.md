@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Announcing the MLB The Show 21 Fall Circuit and Dynasty Invitational](http://feedproxy.google.com/~r/PSBlog/~3/3RD7tt-3Ixo/)
- - [Announcing the MLB The Show 21 Fall Circuit and Dynasty Invitational](https://blog.playstation.com/2021/09/27/announcing-the-mlb-the-show-21-fall-circuit-and-dynasty-invitational/)
- - [Genshin Impact Moonlight Seeker: How to get 100%](https://www.pcgamer.com/genshin-impact-moonlight-seeker-luxurious-sea-lord)<!-- GAME:END -->
+ - [The Black Desert Awaits](https://news.xbox.com/en-us/2021/09/27/the-black-desert-awaits/)
+ - [Overwatch 2 Debuts At Tourney, Seemingly Missing Jeff Kaplan Nod](https://kotaku.com/overwatch-2-debuts-at-tourney-seemingly-missing-jeff-k-1847751895)
+ - [Diablo II: Resurrected Keeps Barring Players From Using Their Own Characters](https://kotaku.com/diablo-ii-resurrected-keeps-barring-players-from-using-1847751590)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
