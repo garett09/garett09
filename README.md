@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tesla begins letting drivers request its "Full Self-Driving" beta, prompting criticism from regulators and safety advocates (Faiz Siddiqui/Washington Post)](http://www.techmeme.com/210927/p15#a210927p15)
- - [Resident Evil 4 VR is launching October 21st, but only on Oculus Quest 2](https://www.theverge.com/2021/9/27/22692268/resident-evil-4-vr-capcom-oculus-quest-2-release-date)
- - [Rick Astley blown away by use of his song in 'Ted Lasso' -](https://appleinsider.com/articles/21/09/27/rick-astley-blown-away-by-use-of-his-song-in-ted-lasso--?utm_medium=rss)<!-- TECH:END -->
+ - [A look at China's complex relationship with video games and the impact of new restrictions aimed at minors, with many finding workarounds (New York Times)](http://www.techmeme.com/210927/p18#a210927p18)
+ - [The social life of a vampire bat](https://techncruncher.blogspot.com/2021/09/the-social-life-of-vampire-bat.html)
+ - [Facebook is ‘pausing’ work on Instagram kids app after widespread criticism](https://www.theverge.com/2021/9/27/22696039/facebook-instagram-kids-app-pausing-development)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
