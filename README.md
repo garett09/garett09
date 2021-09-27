@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Get all currently available Lord of the Rings Online quest packs free](https://www.pcgamer.com/get-all-currently-available-lord-of-the-rings-online-quest-packs-free)
  - [Students don't know what files and folders are, professors say](https://www.pcgamer.com/students-dont-know-what-files-and-folders-are-professors-say)
- - [Plug and program to match waveforms in this puzzler inspired by synthesizers](https://www.pcgamer.com/plug-and-program-to-match-waveforms-in-this-puzzler-inspired-by-synthesizers)
- - [Dagon is a free, immersive cosmic horror adventure](https://www.pcgamer.com/dagon-is-a-free-immersive-cosmic-horror-adventure)<!-- GAME:END -->
+ - [The Week In Games: A Whole New World, A Dazzling Place](https://kotaku.com/the-week-in-games-a-whole-new-world-a-dazzling-place-1847749113)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
