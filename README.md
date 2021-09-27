@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Accurate](http://9gag.com/gag/a27BYNe)
- - 🚯 [Bodybuilder-psyduck](http://9gag.com/gag/aoMr0Yg)
- - 🚯 [Matrix 4 filming in downtown San Francisco!](http://9gag.com/gag/aeAo0r5)<!-- MEMES:END -->
+ - 🚖 [Matrix 4 filming in downtown San Francisco!](http://9gag.com/gag/aeAo0r5)
+ - 🚯 [Non Japanese redhead](http://9gag.com/gag/av5YZvq)
+ - 🚯 [That&#039;s suspicious](http://9gag.com/gag/a9EQLwj)<!-- MEMES:END -->
 
 --- 
 
