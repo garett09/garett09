@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple tells developers to update apps for iPad mini's new display size](https://appleinsider.com/articles/21/09/27/apple-tells-developers-to-update-apps-for-ipad-minis-new-display-size?utm_medium=rss)
- - [Epic’s CEO has bad news if you were hoping to see Fortnite NFTs](https://www.theverge.com/2021/9/27/22696978/epic-tim-sweeney-nft-scam-concerns-web-3)
- - [Best firm mattress in 2021     - CNET](https://www.cnet.com/health/sleep/best-firm-mattress/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Ford reveals plans for massive EV and battery factories in the US](https://www.theverge.com/2021/9/27/22696427/ford-ev-battery-factory-tennessee-kentucky-investment)
+ - [Netflix spills top 10 shows and movies by hours watched for the first time     - CNET](https://www.cnet.com/news/netflix-spills-top-10-shows-and-movies-by-hours-watched-for-the-first-time/#ftag=CAD590a51e)
+ - [Drop tests show iPhone 13 is just as durable as iPhone 12](https://appleinsider.com/articles/21/09/27/drop-tests-show-iphone-13-is-just-as-durable-as-iphone-12?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
