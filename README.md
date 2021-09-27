@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [With all the respect these guys are out of their minds.](http://9gag.com/gag/a8EPWXd)
- - 🚯 [*Sweating Intensely](http://9gag.com/gag/azMNgdq)
- - 🚯 [What my white friend hears when my i talk with my friends](http://9gag.com/gag/aoMrEr2)<!-- MEMES:END -->
+ - 🚖 [After 9 years of saving and working night shifts, I was finally able to buy my own place](http://9gag.com/gag/aXoD04g)
+ - 🚯 [That first command made me lose it](http://9gag.com/gag/a8EPLje)
+ - 🚯 [Rage against the machine](http://9gag.com/gag/aP3NwMw)<!-- MEMES:END -->
 
 --- 
 
