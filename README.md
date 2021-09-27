@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [There&#039;s no effing plot hole in TLOR.](http://9gag.com/gag/aK60gPZ)
- - 🚯 [Would pay to watch this](http://9gag.com/gag/aB2qQMP)
- - 🚯 [Lorry manoeuvre.](http://9gag.com/gag/aNpxoL4)<!-- MEMES:END -->
+ - 🚖 [Accurate](http://9gag.com/gag/a27BYNe)
+ - 🚯 [Bodybuilder-psyduck](http://9gag.com/gag/aoMr0Yg)
+ - 🚯 [Matrix 4 filming in downtown San Francisco!](http://9gag.com/gag/aeAo0r5)<!-- MEMES:END -->
 
 --- 
 
