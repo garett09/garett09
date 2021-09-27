@@ -195,8 +195,8 @@ Windows                  7 hrs 16 mins       ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [The small dick energy is strong with this one.](http://9gag.com/gag/aB2qrvA)
- - 🚯 [Let me eat, hooman](http://9gag.com/gag/av5YL1d)
- - 🚯 [First time watching Interstellar](http://9gag.com/gag/aoMrjme)<!-- MEMES:END -->
+ - 🚯 [Climbing a 2000 feet tall tower for changing the bulb](http://9gag.com/gag/a1rzMY6)
+ - 🚯 [&quot;It&#039;s not possible&quot;.... &quot;No, it&#039;s necessary&quot;](http://9gag.com/gag/aoMrjRm)<!-- MEMES:END -->
 
 --- 
 
