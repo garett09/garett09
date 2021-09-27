@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 13 Pro: Hands on with the best new features](https://appleinsider.com/articles/21/09/26/iphone-13-pro-hands-on-with-the-best-new-features?utm_medium=rss)
- - [To limit the power of Big Tech, regulators should look to mandate interoperability, which will empower users and could spark more competition (Cory Doctorow/Communications of the ACM)](http://www.techmeme.com/210926/p9#a210926p9)
- - [Apple keeps making third-party screen repairs harder](https://appleinsider.com/articles/21/09/26/apple-keeps-making-third-party-screen-repairs-harder?utm_medium=rss)<!-- TECH:END -->
+ - [Best Oculus Quest 2 accessories for 2021     - CNET](https://www.cnet.com/tech/computing/best-oculus-quest-2-accessories/#ftag=CAD590a51e)
+ - [Facebook disputes the WSJ's framing of Instagram's harm to teen girls, saying internal research found using Instagram largely made difficult situations easier (Pratiti Raychoudhury/About Facebook)](http://www.techmeme.com/210926/p10#a210926p10)
+ - [Demon Slayer: Season 2 release date, how to watch or stream, everything you need to know     - CNET](https://www.cnet.com/news/demon-slayer-season-2-release-date-how-to-watch-everything-you-need-to-know/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
