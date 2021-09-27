@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at China's complex relationship with video games and the impact of new restrictions aimed at minors, with many finding workarounds (New York Times)](http://www.techmeme.com/210927/p18#a210927p18)
- - [The social life of a vampire bat](https://techncruncher.blogspot.com/2021/09/the-social-life-of-vampire-bat.html)
- - [Facebook is ‘pausing’ work on Instagram kids app after widespread criticism](https://www.theverge.com/2021/9/27/22696039/facebook-instagram-kids-app-pausing-development)<!-- TECH:END -->
+ - [Metroid Dread feels right at home on Nintendo’s new OLED Switch](https://www.theverge.com/22690483/metroid-dread-nintendo-switch-oled-console-hands-on-preview)
+ - [Cloudflare Is Taking a Shot at Email Security](https://www.wired.com/story/cloudflare-taking-a-shot-at-email-security)
+ - [Our Favorite Headphones and Earbuds for $100 or Less](https://www.wired.com/gallery/best-headphones-under-100)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
