@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy S21 FE launch may have been canceled](https://www.androidauthority.com/samsung-galaxy-s21-fe-canceled-3030690/)
- - [Australia recognizes electronic payments system eftpos as its first private ID exchange operator, to enable online transactions requiring a digital ID (Aimee Chanthadavong/ZDNet)](http://www.techmeme.com/210927/p3#a210927p3)
- - [Thailand-based Ascend Money, which operates the TrueMoney e-wallet, raises $150M Series C at a valuation of $1.5B (Kate Park/TechCrunch)](http://www.techmeme.com/210927/p2#a210927p2)<!-- TECH:END -->
+ - [This foldable display can be folded like origami because reasons](https://www.androidauthority.com/3d-foldable-display-origami-3030484/)
+ - [Apple suppliers like Eson Precision Engineering, Unimicron Technology, and Concraft Holding halt production as China tightens its energy consumption policy (Nikkei Asia)](http://www.techmeme.com/210927/p4#a210927p4)
+ - [New MacBook Air production starts next summer, Kuo says](https://appleinsider.com/articles/21/09/27/new-macbook-air-production-starts-next-summer-kuo-says?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
