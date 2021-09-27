@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube Music finally makes its way to select Wear OS 2 watches](https://www.androidauthority.com/youtube-music-wear-os-2-3030629/)
- - [YouTube Music’s new Wear OS app is coming to older smartwatches after all](https://www.theverge.com/2021/9/27/22695976/youtube-music-wear-os-2-app-offline-downloads)
- - [Best Deals Sept. 27: $82 Crucial 1TB SSD, $99 August Smart Lock, and more!](https://appleinsider.com/articles/21/09/27/best-deals-sept-27-82-crucial-1tb-ssd-99-august-smart-lock-and-more?utm_medium=rss)<!-- TECH:END -->
+ - [Play Google Stadia games on your TV with any controller or even your phone](https://www.androidauthority.com/google-stadia-tv-controller-3030682/)
+ - [Death Stranding Director’s Cut makes the most of the PS5](https://www.theverge.com/2021/9/27/22696322/death-stranding-directors-cut-ps5-kojima-3d-audio-dualsense)
+ - [Pokemon Unite: How to share save data between Switch and mobile     - CNET](https://www.cnet.com/news/pokemon-unite-how-to-share-saved-data-between-switch-and-mobile/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
