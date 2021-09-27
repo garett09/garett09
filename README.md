@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [True size of the world](http://9gag.com/gag/aZ0APOW)
- - 🚯 [What my white friend hears when my i talk with my friends](http://9gag.com/gag/aoMrEr2)
- - 🚯 [Rage against the machine](http://9gag.com/gag/aP3NwMw)<!-- MEMES:END -->
+ - 🚖 [Rage against the machine](http://9gag.com/gag/aP3NwMw)
+ - 🚯 [Lorry manoeuvre.](http://9gag.com/gag/aNpxoL4)
+ - 🚯 [True size of the world](http://9gag.com/gag/aZ0APOW)<!-- MEMES:END -->
 
 --- 
 
