@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I don&#039;t think there IS a right way to hold it](http://9gag.com/gag/a8EPj4O)
- - 🚯 [Oh how times have changed](http://9gag.com/gag/aXoDpL2)
- - 🚯 [The small dick energy is strong with this one.](http://9gag.com/gag/aB2qrvA)<!-- MEMES:END -->
+ - 🚖 [Most people can do that](http://9gag.com/gag/a6Ev7dN)
+ - 🚯 [The small dick energy is strong with this one.](http://9gag.com/gag/aB2qrvA)
+ - 🚯 [Let me eat, hooman](http://9gag.com/gag/av5YL1d)<!-- MEMES:END -->
 
 --- 
 
