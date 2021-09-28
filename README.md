@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Little b*stard](http://9gag.com/gag/axMxVGb)
- - 🚯 [Dads with their kids](http://9gag.com/gag/aDdpjQd)
- - 🚯 [Anzio 20mm Vulcan](http://9gag.com/gag/a7E4ZnA)<!-- MEMES:END -->
+ - 🚖 [Dads with their kids](http://9gag.com/gag/aDdpjQd)
+ - 🚯 [Anzio 20mm Vulcan](http://9gag.com/gag/a7E4ZnA)
+ - 🚯 [You know who you are.](http://9gag.com/gag/amPjzAd)<!-- MEMES:END -->
 
 --- 
 
