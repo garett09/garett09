@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Alleged Google Pixel 6 price just leaked, and it’s not bad at all](https://www.androidauthority.com/google-pixel-6-price-3031872/)
- - [Toyota’s autonomous division just bought the company that made a self-driving DeLorean do donuts](https://www.theverge.com/2021/9/28/22698129/toyota-woven-planet-renovo-acquisition-av-operating-system)
- - [New premium noise-cancelling earbuds don’t try to mimic the AirPods Pro](https://www.androidauthority.com/technics-eah-az60-3030250/)<!-- TECH:END -->
+ - [Leena AI, a conversational service positioned as an HR "Siri for employees", raises $30M Series B and counts Nestl&eacute;, Coca-Cola, P&G among its customers (Paul Sawers/VentureBeat)](http://www.techmeme.com/210928/p21#a210928p21)
+ - [Best Deals Sept. 28: iRobot Roomba 960 for $240, $350 off Harman speaker, and more!](https://appleinsider.com/articles/21/09/28/best-deals-sept-28-irobot-roomba-960-for-240-350-off-harman-speaker-and-more?utm_medium=rss)
+ - [Why the OnePlus Nord N200 is a perfect affordable gateway to 5G](https://www.androidauthority.com/oneplus-nord-n200-gateway-to-5g-3028862/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
