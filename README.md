@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [And they keep telling me so](http://9gag.com/gag/amPjBL6)
- - 🚯 [Inspiration by other Johnny :D](http://9gag.com/gag/a8EP8ep)
- - 🚯 [Hit the brakes, hit the brakes!! OK, OK, which one is the brake pedal?? *proceeds running over people while learning how to drive](http://9gag.com/gag/a3E9QPN)<!-- MEMES:END -->
+ - 🚖 [Inspiration by other Johnny :D](http://9gag.com/gag/a8EP8ep)
+ - 🚯 [Dropkick Cop](http://9gag.com/gag/axMx18W)
+ - 🚯 [Which stats did you max out?](http://9gag.com/gag/agBMYzw)<!-- MEMES:END -->
 
 --- 
 
