@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gem, which integrates with LinkedIn to help automate data collection and follow-up correspondence with job candidates, raises $100M Series C at $1.2B valuation (Christine Hall/TechCrunch)](http://www.techmeme.com/210928/p19#a210928p19)
- - [Alibaba apps start offering WeChat Pay option](https://techncruncher.blogspot.com/2021/09/alibaba-apps-start-offering-wechat-pay.html)
- - [Rivian’s R1T electric pickup truck took me to the top of the mountain](https://www.theverge.com/transportation/2021/9/28/22697309/rivian-r1t-electric-truck-test-drive-off-roading-camp-tested)<!-- TECH:END -->
+ - [Alleged Google Pixel 6 price just leaked, and it’s not bad at all](https://www.androidauthority.com/google-pixel-6-price-3031872/)
+ - [Toyota’s autonomous division just bought the company that made a self-driving DeLorean do donuts](https://www.theverge.com/2021/9/28/22698129/toyota-woven-planet-renovo-acquisition-av-operating-system)
+ - [New premium noise-cancelling earbuds don’t try to mimic the AirPods Pro](https://www.androidauthority.com/technics-eah-az60-3030250/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
