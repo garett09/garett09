@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [YouTubers Show Old Switch And New OLED Model Running Side By Side](https://kotaku.com/youtubers-show-old-switch-and-new-oled-model-running-si-1847755781)
- - [The Witcher: Ronin manga earns nearly $800,000 in crowdfunding](https://www.pcgamer.com/the-witcher-ronin-manga-earns-nearly-dollar800000-in-crowdfunding)
- - [One of Warhammer 40K's rarest minis just sold for a record-breaking $35,000](https://www.pcgamer.com/warhammer-mini-thunderhawk-record-sale)<!-- GAME:END -->
+ - [Best cheap gaming PC right now](https://www.pcgamer.com/best-cheap-gaming-pc)
+ - [Cheap SSD deals of the week](https://www.pcgamer.com/best-ssd-deals-today)
+ - [The best gaming TV in 2021](https://www.pcgamer.com/best-4k-tv-for-gaming)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
