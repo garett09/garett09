@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gold rush! First-time metal-detector user uncovers 6th century golden hoard     - CNET](https://www.cnet.com/news/gold-rush-first-time-metal-detector-user-uncovers-6th-century-golden-hoard/#ftag=CAD590a51e)
- - [In an interview, Satya Nadella described Microsoft's failed TikTok deal as the "strangest thing" he has ever worked on and says TikTok came to Microsoft (Dieter Bohn/The Verge)](http://www.techmeme.com/210928/p1#a210928p1)
- - [COVID-19 pandemic causes devastating drop in global life expectancy, study finds     - CNET](https://www.cnet.com/news/covid-19-pandemic-causes-devastating-drop-in-global-life-expectancy-study-finds/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Nintendo confirms Donkey Kong area for Super Nintendo World](https://www.theverge.com/2021/9/28/22697850/super-nintendo-world-donkey-kong-area-confirmed)
+ - [Xiaomi Civi launched: A lightweight phone for selfie fans (Updated: China only)](https://www.androidauthority.com/xiaomi-civi-3030760/)
+ - [WhatsApp to support iPad and at least another iPhone in new update](https://techncruncher.blogspot.com/2021/09/whatsapp-to-support-ipad-and-at-least.html)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
