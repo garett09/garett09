@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Award-winning indie horror RPG Mothership is getting a boxed set](https://www.polygon.com/tabletop-games/22697210/mothership-tabletop-rpg-boxed-set-announcement-price)
- - [Final Fantasy XIV Player Literally Dabs On Boss With Kinect](https://kotaku.com/final-fantasy-xiv-player-literally-dabs-on-boss-with-ki-1847756494)
- - [Twitch might be implementing new chat options to curb abuse for streamers](https://www.pcgamer.com/twitch-might-be-implementing-new-chat-options-to-curb-abuse-for-streamers)<!-- GAME:END -->
+ - [Pokémon Legends: Arceus reveals Noble Pokémon, and all-new Kleavor](https://www.polygon.com/22698170/noble-pokemon-legends-arceus-kleavor-pokedex-entry)
+ - [Hamaki takes center stage in Fortnite’s Soundwave Series](http://feedproxy.google.com/~r/PSBlog/~3/oE4xRPNwy0Q/)
+ - [Hamaki takes center stage in Fortnite’s Soundwave Series](https://blog.playstation.com/2021/09/28/hamaki-takes-center-stage-in-fortnites-soundwave-series/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
