@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Activision Blizzard settles with the EEOC, which sued it earlier in the day over alleged sexual harassment and discrimination, will create $18M fund for victims (Kellen Browning/New York Times)](http://www.techmeme.com/210927/p37#a210927p37)
- - [Bijnis, whose app helps factory owners in India build a digital presence and sell products to retailers, raises $30M Series B led by Westbridge Capital (Manish Singh/TechCrunch)](http://www.techmeme.com/210927/p36#a210927p36)
- - [AMD CEO Lisa Su downplays the company’s role in crypto mining](https://www.theverge.com/2021/9/27/22697339/amd-crypto-mining-ceo-lisa-su-gpu-code-conference)<!-- TECH:END -->
+ - [Singapore-based neobank Aspire, which offers Southeast Asian SMBs working capital and other financial services, raises $158M Series B in equity and debt (Catherine Shu/TechCrunch)](http://www.techmeme.com/210927/p38#a210927p38)
+ - [Apple quietly hikes Beats Flex price to $70](https://appleinsider.com/articles/21/09/28/apple-quietly-hikes-beats-flex-price-to-70?utm_medium=rss)
+ - [Fossil of fearsome eagle from 25 million years ago found in stunning condition     - CNET](https://www.cnet.com/news/fossil-of-fearsome-eagle-from-25-million-years-ago-found-in-stunning-condition/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
