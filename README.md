@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Compared: Microsoft Surface Go 3 vs iPad and iPad Air](https://appleinsider.com/articles/21/09/28/compared-microsoft-surface-go-3-vs-ipad-and-ipad-air?utm_medium=rss)
- - [This Software Aims to Smooth Your Flight—and Help the Planet](https://www.wired.com/story/software-aims-make-flight-smoother-help-planet)
- - [Apple making display repairs harder on iPhone 13 Pro is a step too far](https://appleinsider.com/articles/21/09/28/apple-making-display-repairs-harder-on-iphone-13-pro-is-a-step-too-far?utm_medium=rss)<!-- TECH:END -->
+ - [Sable is an adventure made from the most chill parts of Breath of the Wild](https://www.theverge.com/22699023/sable-review-xbox-steam)
+ - [Most people aren’t accessing their medical records on their phones](https://www.theverge.com/2021/9/28/22698323/patient-portal-health-records-smartphone-app)
+ - [Apple lands kids show based on the best-selling 'Amber Brown' books](https://appleinsider.com/articles/21/09/28/apple-lands-kids-show-based-on-the-best-selling-amber-brown-books?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
