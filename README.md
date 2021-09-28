@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Image sharing service Imgur has been acquired by MediaLab, which owns Kik, Whisper, Genius, WorldStarHipHop, and other brands; Imgur says it has 300M users (James Vincent/The Verge)](http://www.techmeme.com/210928/p11#a210928p11)
- - [Why Facebook should release the Facebook Files](https://www.theverge.com/22697786/why-facebook-should-release-the-facebook-files)
- - [Report: 22% of health care providers saw an increase in patient mortality following a cyberattack, driven by COVID-19 and third-party vendor security gaps (Jessica Davis/SC Media)](http://www.techmeme.com/210928/p10#a210928p10)<!-- TECH:END -->
+ - [Coalition, which offers cybersecurity tools and insurance to 50,000+ customers, raises $205M Series E at a $3.5B+ valuation, bringing total funding to $500M+ (Carly Page/TechCrunch)](http://www.techmeme.com/210928/p13#a210928p13)
+ - [Dune Foresaw—and Influenced—Half a Century of Global Conflict](https://www.wired.com/story/dune-geopolitics-cybersecurity)
+ - [Spice World: WIRED Traces the Dune Legacy](https://www.wired.com/story/the-dune-legacy)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
