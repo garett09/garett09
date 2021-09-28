@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Humans are weird](http://9gag.com/gag/axMx0PD)
- - 🚯 [Bodybuilder....](http://9gag.com/gag/aP3NjoQ)
- - 🚯 [God damnit rockstar](http://9gag.com/gag/aWjKqNd)<!-- MEMES:END -->
+ - 🚖 [God damnit rockstar](http://9gag.com/gag/aWjKqNd)
+ - 🚯 [It really do be like that sometimes](http://9gag.com/gag/amPj2A6)
+ - 🚯 [*lower back pain intensifies*](http://9gag.com/gag/amPj7Pd)<!-- MEMES:END -->
 
 --- 
 
