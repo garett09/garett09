@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Facebook-backed 2Africa consortium says its subsea internet cable will include Middle East and India when it launches in 2023, expanding on Europe and Africa (Katie Collins/CNET)](http://www.techmeme.com/210928/p5#a210928p5)
- - [Android ‘12.1’ could be a big foldable-focused update](https://www.theverge.com/2021/9/28/22697950/android-12-1-foldable-features-report-split-screen-multi-tasking-taskbar)
- - [Redmi Earbuds 3 Pro review: Missing essentials](https://www.androidauthority.com/redmi-earbuds-3-pro-review-3025320/)<!-- TECH:END -->
+ - [Image sharing service Imgur has been acquired by MediaLab, which owns Kik, Whisper, Genius, WorldStarHipHop, and other brands; Imgur says it has 300M users (James Vincent/The Verge)](http://www.techmeme.com/210928/p11#a210928p11)
+ - [Why Facebook should release the Facebook Files](https://www.theverge.com/22697786/why-facebook-should-release-the-facebook-files)
+ - [Report: 22% of health care providers saw an increase in patient mortality following a cyberattack, driven by COVID-19 and third-party vendor security gaps (Jessica Davis/SC Media)](http://www.techmeme.com/210928/p10#a210928p10)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
