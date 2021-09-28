@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Activision sued by another federal agency, settles lawsuit for $18 million](https://www.pcgamer.com/activision-sued-by-another-federal-agency-immediately-settles-lawsuit-for-dollar18-million)
  - [Cheap gaming laptop deals this week](https://www.pcgamer.com/gaming-laptop-deals)
- - [Steam will still let you revert to old game builds, despite beta concerns](https://www.pcgamer.com/steam-beta-suggests-you-wont-be-able-to-revert-to-old-game-builds-much-longer)
- - [Best cheap gaming PC right now](https://www.pcgamer.com/best-cheap-gaming-pc)<!-- GAME:END -->
+ - [Steam will still let you revert to old game builds, despite beta concerns](https://www.pcgamer.com/steam-beta-suggests-you-wont-be-able-to-revert-to-old-game-builds-much-longer)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
