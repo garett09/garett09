@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Trump pushing Microsoft to buy TikTok was ‘strangest thing I’ve ever worked on,’ says Satya Nadella](https://www.theverge.com/2021/9/27/22697565/microsoft-ceo-satya-nadella-tiktok-acquisition-drama-strangest-thing)
  - [Singapore-based neobank Aspire, which offers Southeast Asian SMBs working capital and other financial services, raises $158M Series B in equity and debt (Catherine Shu/TechCrunch)](http://www.techmeme.com/210927/p38#a210927p38)
- - [Apple quietly hikes Beats Flex price to $70](https://appleinsider.com/articles/21/09/28/apple-quietly-hikes-beats-flex-price-to-70?utm_medium=rss)
- - [Fossil of fearsome eagle from 25 million years ago found in stunning condition     - CNET](https://www.cnet.com/news/fossil-of-fearsome-eagle-from-25-million-years-ago-found-in-stunning-condition/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple quietly hikes Beats Flex price to $70](https://appleinsider.com/articles/21/09/28/apple-quietly-hikes-beats-flex-price-to-70?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
