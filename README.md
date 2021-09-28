@@ -194,8 +194,8 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The mighty Juicero! Because if there&#039;s stupid people, of course they&#039;ll buy it!](http://9gag.com/gag/aGp3eKz)
- - 🚯 [My friend does it cheaper](http://9gag.com/gag/aDdpzDd)
+ - 🚖 [Humans are weird](http://9gag.com/gag/axMx0PD)
+ - 🚯 [Bodybuilder....](http://9gag.com/gag/aP3NjoQ)
  - 🚯 [God damnit rockstar](http://9gag.com/gag/aWjKqNd)<!-- MEMES:END -->
 
 --- 
