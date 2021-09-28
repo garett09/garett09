@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This how you change parking spots in space](http://9gag.com/gag/a8EP4vQ)
+ - 🚖 [Dads with their kids](http://9gag.com/gag/aDdpjQd)
  - 🚯 [Russian seal with gentle eyes approches humans.](http://9gag.com/gag/a7E4Z7z)
- - 🚯 [Elk makes an incredible sound that sounds like a sea creature.](http://9gag.com/gag/a8EPM9e)<!-- MEMES:END -->
+ - 🚯 [Anzio 20mm Vulcan](http://9gag.com/gag/a7E4ZnA)<!-- MEMES:END -->
 
 --- 
 
