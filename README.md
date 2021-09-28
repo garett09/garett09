@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [FCC details a $1.9B program to reimburse mostly rural US telecom carriers for removing network equipment made by Chinese companies like Huawei and ZTE (David Shepardson/Reuters)](http://www.techmeme.com/210927/p41#a210927p41)
- - [Amazon's Echo and Ring devices launch event: How to get all the details live     - CNET](https://www.cnet.com/home/amazons-echo-and-ring-devices-launch-event-how-to-get-all-the-details-live/#ftag=CAD590a51e)
- - [Microsoft trying to buy TikTok while negotiating with Trump was very strange     - CNET](https://www.cnet.com/news/microsoft-trying-to-buy-tiktok-while-negotiating-with-trump-was-very-strange/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Gold rush! First-time metal-detector user uncovers 6th century golden hoard     - CNET](https://www.cnet.com/news/gold-rush-first-time-metal-detector-user-uncovers-6th-century-golden-hoard/#ftag=CAD590a51e)
+ - [In an interview, Satya Nadella described Microsoft's failed TikTok deal as the "strangest thing" he has ever worked on and says TikTok came to Microsoft (Dieter Bohn/The Verge)](http://www.techmeme.com/210928/p1#a210928p1)
+ - [COVID-19 pandemic causes devastating drop in global life expectancy, study finds     - CNET](https://www.cnet.com/news/covid-19-pandemic-causes-devastating-drop-in-global-life-expectancy-study-finds/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
