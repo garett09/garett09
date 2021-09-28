@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Every new iPad mini 6 is on sale with exclusive deals and AppleCare savings](https://appleinsider.com/articles/21/09/28/every-new-ipad-mini-6-is-on-sale-with-exclusive-deals-and-applecare-savings?utm_medium=rss)
- - [Apple says the iPad Mini’s jelly scrolling isn’t a problem that needs to be fixed](https://www.theverge.com/2021/9/28/22698590/apple-ipad-mini-jelly-scroll-issue-response-fix-lcd-technology)
- - [Vaccine passport app Portpass, which has 650,000+ registered users across Canada according to the company's CEO, had a security flaw exposing private user info (Sarah Rieger/CBC News)](http://www.techmeme.com/210928/p42#a210928p42)<!-- TECH:END -->
+ - [Native Union Watch Puck review: Ultimate portable Apple Watch companion](https://appleinsider.com/articles/21/09/28/native-union-watch-puck-review-ultimate-portable-apple-watch-companion?utm_medium=rss)
+ - [Amazon’s Astro Is a Robot Without a Cause](https://www.wired.com/story/amazon-astro)
+ - [Netflix acquires its first game studio, Night School Studio, which was founded by Sean Krankel and Adam Hines in 2014 and is best known for the game Oxenfree (Dean Takahashi/VentureBeat)](http://www.techmeme.com/210928/p43#a210928p43)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
