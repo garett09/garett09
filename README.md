@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Best cheap gaming PC right now](https://www.pcgamer.com/best-cheap-gaming-pc)
- - [Cheap SSD deals of the week](https://www.pcgamer.com/best-ssd-deals-today)
- - [The best gaming TV in 2021](https://www.pcgamer.com/best-4k-tv-for-gaming)<!-- GAME:END -->
+ - [Cheap gaming laptop deals this week](https://www.pcgamer.com/gaming-laptop-deals)
+ - [Steam will still let you revert to old game builds, despite beta concerns](https://www.pcgamer.com/steam-beta-suggests-you-wont-be-able-to-revert-to-old-game-builds-much-longer)
+ - [Best cheap gaming PC right now](https://www.pcgamer.com/best-cheap-gaming-pc)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
