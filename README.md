@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ah yes, the perfect family activity](http://9gag.com/gag/azMNqXp)
- - 🚯 [Pretty much how tinder is for men..](http://9gag.com/gag/ajmbN70)
- - 🚯 [The wives are coming!](http://9gag.com/gag/a5Emneo)<!-- MEMES:END -->
+ - 🚖 [The wives are coming!](http://9gag.com/gag/a5Emneo)
+ - 🚯 [Ah yes, the perfect family activity](http://9gag.com/gag/azMNqXp)
+ - 🚯 [Literally covered](http://9gag.com/gag/a07AbOd)<!-- MEMES:END -->
 
 --- 
 
