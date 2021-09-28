@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How is double yolk even possible?](http://9gag.com/gag/aoMr2o3)
- - 🚯 [Dads with their kids](http://9gag.com/gag/aDdpjQd)
- - 🚯 [Anzio 20mm Vulcan](http://9gag.com/gag/a7E4ZnA)<!-- MEMES:END -->
+ - 🚖 [Just hanging out in nyc](http://9gag.com/gag/amPjYvX)
+ - 🚯 [If you have other ones](http://9gag.com/gag/aMKR9oX)
+ - 🚯 [At conference on migrant crisis, Polish politicians show migrant having sex with a donkey.](http://9gag.com/gag/aP3NMRn)<!-- MEMES:END -->
 
 --- 
 
