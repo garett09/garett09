@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Inspiration by other Johnny :D](http://9gag.com/gag/a8EP8ep)
- - 🚯 [Dropkick Cop](http://9gag.com/gag/axMx18W)
- - 🚯 [Which stats did you max out?](http://9gag.com/gag/agBMYzw)<!-- MEMES:END -->
+ - 🚖 [Oh my..](http://9gag.com/gag/aRX53KB)
+ - 🚯 [Donde? Where mama?](http://9gag.com/gag/a3E9Qor)
+ - 🚯 [Awesome Man creates movie trailer to propose to his girlfriend in a cinema](http://9gag.com/gag/aRX512G)<!-- MEMES:END -->
 
 --- 
 
