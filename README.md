@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Facebook should release the documents behind WSJ's Facebook Files to the public, as they are likely to come out anyway, and provide the raw data to researchers (Casey Newton/Platformer)](http://www.techmeme.com/210927/p40#a210927p40)
- - [NASA's Hubble detects Jupiter's Great Red Spot storm is speeding up     - CNET](https://www.cnet.com/news/nasas-hubble-detects-jupiters-great-red-spot-storm-is-speeding-up/#ftag=CAD590a51e)
- - [Nasdaq sets Amplitude's reference price at $35 per share for its direct listing on Tuesday, which would give the data analytics company a valuation of ~$3.6B (Luisa Beltran/Barron's Online)](http://www.techmeme.com/210927/p39#a210927p39)<!-- TECH:END -->
+ - [FCC details a $1.9B program to reimburse mostly rural US telecom carriers for removing network equipment made by Chinese companies like Huawei and ZTE (David Shepardson/Reuters)](http://www.techmeme.com/210927/p41#a210927p41)
+ - [Amazon's Echo and Ring devices launch event: How to get all the details live     - CNET](https://www.cnet.com/home/amazons-echo-and-ring-devices-launch-event-how-to-get-all-the-details-live/#ftag=CAD590a51e)
+ - [Microsoft trying to buy TikTok while negotiating with Trump was very strange     - CNET](https://www.cnet.com/news/microsoft-trying-to-buy-tiktok-while-negotiating-with-trump-was-very-strange/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
