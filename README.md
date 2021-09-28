@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Leena AI, a conversational service positioned as an HR "Siri for employees", raises $30M Series B and counts Nestl&eacute;, Coca-Cola, P&G among its customers (Paul Sawers/VentureBeat)](http://www.techmeme.com/210928/p21#a210928p21)
- - [Best Deals Sept. 28: iRobot Roomba 960 for $240, $350 off Harman speaker, and more!](https://appleinsider.com/articles/21/09/28/best-deals-sept-28-irobot-roomba-960-for-240-350-off-harman-speaker-and-more?utm_medium=rss)
- - [Why the OnePlus Nord N200 is a perfect affordable gateway to 5G](https://www.androidauthority.com/oneplus-nord-n200-gateway-to-5g-3028862/)<!-- TECH:END -->
+ - [Microsoft opens the Windows Store to third-party app stores; Amazon and Epic Games will add the first storefront apps in the coming months (Tom Warren/The Verge)](http://www.techmeme.com/210928/p25#a210928p25)
+ - [Apple Heart Study shows Apple Watch could detect multiple arrhythmia types](https://appleinsider.com/articles/21/09/28/apple-heart-study-shows-apple-watch-could-detect-multiple-arrhythmia-types?utm_medium=rss)
+ - [Vancouver-based Conexiom, which offers workflow automation tools for manufacturers and distributors, raises $130M led by Warburg Pincus (Kyle Wiggers/VentureBeat)](http://www.techmeme.com/210928/p24#a210928p24)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
