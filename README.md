@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Everything we know about New World, Amazon's MMO](https://www.pcgamer.com/everything-we-know-about-new-world-amazons-upcoming-mmo)
- - [New World guide: 10 tips to get you started](https://www.pcgamer.com/new-world-guide-tips)
- - [New World leveling build: Weapon combinations to get you started](https://www.pcgamer.com/best-new-world-leveling-build)<!-- GAME:END -->
+ - [A Mattress Designed For Gamers Goes On Sale In Japan](https://kotaku.com/a-mattress-designed-for-gamers-goes-on-sale-in-japan-1847757874)
+ - [New World: How to play with friends](https://www.pcgamer.com/new-world-co-op)
+ - [Everything we know about New World, Amazon's MMO](https://www.pcgamer.com/everything-we-know-about-new-world-amazons-upcoming-mmo)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
