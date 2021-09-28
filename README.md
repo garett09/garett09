@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Redmi Earbuds 3 Pro review: Missing essentials](https://www.androidauthority.com/redmi-earbuds-3-pro-review-3025320/)
- - [Android 12.1 features leak: A ton of foldable improvements incoming](https://www.androidauthority.com/android-12-1-features-3031602/)
- - [UK-based robotic process automation company Blue Prism to be acquired by private equity firm Vista Equity Partners for about &pound;1.1B (Bloomberg)](http://www.techmeme.com/210928/p4#a210928p4)<!-- TECH:END -->
+ - [Facebook-backed 2Africa consortium says its subsea internet cable will include Middle East and India when it launches in 2023, expanding on Europe and Africa (Katie Collins/CNET)](http://www.techmeme.com/210928/p5#a210928p5)
+ - [Android ‘12.1’ could be a big foldable-focused update](https://www.theverge.com/2021/9/28/22697950/android-12-1-foldable-features-report-split-screen-multi-tasking-taskbar)
+ - [Redmi Earbuds 3 Pro review: Missing essentials](https://www.androidauthority.com/redmi-earbuds-3-pro-review-3025320/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
