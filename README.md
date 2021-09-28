@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Which New World faction should you choose?](https://www.pcgamer.com/new-world-factions-choice)
- - [A Mattress Designed For Gamers Goes On Sale In Japan](https://kotaku.com/a-mattress-designed-for-gamers-goes-on-sale-in-japan-1847757874)
- - [New World: How to play with friends](https://www.pcgamer.com/new-world-co-op)<!-- GAME:END -->
+ - [Pokémon Unite is an intense MOBA with a friendly skin](https://www.polygon.com/reviews/22696924/pokemon-unite-review-nintendo-switch-moba)
+ - [AMD CEO Dr. Lisa Su is optimistic the chip shortage will ease up in late 2022](https://www.pcgamer.com/amd-ceo-dr-lisa-su-is-optimistic-the-chip-shortage-will-ease-up-in-late-2022)
+ - [GPU restock tips: how to buy a graphics card in 2021](https://www.pcgamer.com/where-to-buy-a-graphics-card)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
