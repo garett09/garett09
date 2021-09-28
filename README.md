@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [God damnit rockstar](http://9gag.com/gag/aWjKqNd)
- - 🚯 [It really do be like that sometimes](http://9gag.com/gag/amPj2A6)
- - 🚯 [*lower back pain intensifies*](http://9gag.com/gag/amPj7Pd)<!-- MEMES:END -->
+ - 🚖 [*lower back pain intensifies*](http://9gag.com/gag/amPj7Pd)
+ - 🚯 [I Warned you](http://9gag.com/gag/a6EvV3R)
+ - 🚯 [Inspiration by other Johnny :D](http://9gag.com/gag/a8EP8ep)<!-- MEMES:END -->
 
 --- 
 
