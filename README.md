@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Oh my..](http://9gag.com/gag/aRX53KB)
- - 🚯 [Donde? Where mama?](http://9gag.com/gag/a3E9Qor)
- - 🚯 [Awesome Man creates movie trailer to propose to his girlfriend in a cinema](http://9gag.com/gag/aRX512G)<!-- MEMES:END -->
+ - 🚖 [Disgusting](http://9gag.com/gag/aLpYj1M)
+ - 🚯 [The Dunning-Kruger Effect at play.](http://9gag.com/gag/azMN1rx)
+ - 🚯 [The Penetrator](http://9gag.com/gag/aO3gYXR)<!-- MEMES:END -->
 
 --- 
 
