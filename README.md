@@ -196,7 +196,7 @@ Windows                  7 hrs 16 mins       ███████████�
 <!-- MEMES:START -->
  - 🚖 [Ah yes, the perfect family activity](http://9gag.com/gag/azMNqXp)
  - 🚯 [Pretty much how tinder is for men..](http://9gag.com/gag/ajmbN70)
- - 🚯 [Reverse the role b*tch](http://9gag.com/gag/anQpy2n)<!-- MEMES:END -->
+ - 🚯 [The wives are coming!](http://9gag.com/gag/a5Emneo)<!-- MEMES:END -->
 
 --- 
 
