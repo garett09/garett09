@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft opens the Windows Store to third-party app stores; Amazon and Epic Games will add the first storefront apps in the coming months (Tom Warren/The Verge)](http://www.techmeme.com/210928/p25#a210928p25)
- - [Apple Heart Study shows Apple Watch could detect multiple arrhythmia types](https://appleinsider.com/articles/21/09/28/apple-heart-study-shows-apple-watch-could-detect-multiple-arrhythmia-types?utm_medium=rss)
- - [Vancouver-based Conexiom, which offers workflow automation tools for manufacturers and distributors, raises $130M led by Warburg Pincus (Kyle Wiggers/VentureBeat)](http://www.techmeme.com/210928/p24#a210928p24)<!-- TECH:END -->
+ - [Here’s the deluge of announcements from Amazon’s fall devices event](https://www.theverge.com/2021/9/28/22692147/amazon-devices-event-echo-ring-biggest-announcements)
+ - [The Guilty review: Netflix snags a smart, tense thriller](https://www.androidauthority.com/guilty-review-netflix-jake-gyllenhaal-3030139/)
+ - [How to use iCloud Folder Sharing and replace Dropbox](https://appleinsider.com/articles/21/09/28/how-to-use-icloud-folder-sharing-and-replace-dropbox?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
