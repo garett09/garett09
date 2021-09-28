@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Amazon's New World is finally live](https://www.pcgamer.com/amazons-new-world-is-finally-live)
- - [Here are the New World servers](https://www.pcgamer.com/new-world-server-list)
- - [Universal Studios Japan Is Adding A New Donkey Kong Themed Area](https://kotaku.com/universal-studios-japan-is-adding-a-new-donkey-kong-the-1847757646)<!-- GAME:END -->
+ - [Everything we know about New World, Amazon's MMO](https://www.pcgamer.com/everything-we-know-about-new-world-amazons-upcoming-mmo)
+ - [New World guide: 10 tips to get you started](https://www.pcgamer.com/new-world-guide-tips)
+ - [New World leveling build: Weapon combinations to get you started](https://www.pcgamer.com/best-new-world-leveling-build)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
