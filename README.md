@@ -194,8 +194,8 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ah yes, the perfect family activity](http://9gag.com/gag/azMNqXp)
- - 🚯 [I Warned you](http://9gag.com/gag/a6EvV3R)
+ - 🚖 [The mighty Juicero! Because if there&#039;s stupid people, of course they&#039;ll buy it!](http://9gag.com/gag/aGp3eKz)
+ - 🚯 [My friend does it cheaper](http://9gag.com/gag/aDdpzDd)
  - 🚯 [God damnit rockstar](http://9gag.com/gag/aWjKqNd)<!-- MEMES:END -->
 
 --- 
