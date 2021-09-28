@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Cerebral psychological-thriller In Sound Mind is available now](http://feedproxy.google.com/~r/PSBlog/~3/XGx941K0Cf4/)
- - [Cerebral psychological-thriller In Sound Mind is available now](https://blog.playstation.com/2021/09/28/cerebral-psychological-thriller-in-sound-mind-is-available-now/)
- - [Dandy Ace is Now Available with Xbox Game Pass](https://news.xbox.com/en-us/2021/09/28/dandy-ace-is-now-available-with-xbox-game-pass/)<!-- GAME:END -->
+ - [Wario’s shoes are the window to his soul](https://www.polygon.com/wario/22692288/wario-shoe-costume-feet-fashion)
+ - [How to Survive the Time Loop in Lemnis Gate, Available Today with Xbox Game Pass](https://news.xbox.com/en-us/2021/09/28/lemnis-gate-available-today-with-xbox-game-pass/)
+ - [One Year With Genshin Impact](https://kotaku.com/one-year-with-genshin-impact-1847760685)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
