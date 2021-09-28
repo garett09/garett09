@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump pushing Microsoft to buy TikTok was ‘strangest thing I’ve ever worked on,’ says Satya Nadella](https://www.theverge.com/2021/9/27/22697565/microsoft-ceo-satya-nadella-tiktok-acquisition-drama-strangest-thing)
- - [Singapore-based neobank Aspire, which offers Southeast Asian SMBs working capital and other financial services, raises $158M Series B in equity and debt (Catherine Shu/TechCrunch)](http://www.techmeme.com/210927/p38#a210927p38)
- - [Apple quietly hikes Beats Flex price to $70](https://appleinsider.com/articles/21/09/28/apple-quietly-hikes-beats-flex-price-to-70?utm_medium=rss)<!-- TECH:END -->
+ - [Facebook should release the documents behind WSJ's Facebook Files to the public, as they are likely to come out anyway, and provide the raw data to researchers (Casey Newton/Platformer)](http://www.techmeme.com/210927/p40#a210927p40)
+ - [NASA's Hubble detects Jupiter's Great Red Spot storm is speeding up     - CNET](https://www.cnet.com/news/nasas-hubble-detects-jupiters-great-red-spot-storm-is-speeding-up/#ftag=CAD590a51e)
+ - [Nasdaq sets Amplitude's reference price at $35 per share for its direct listing on Tuesday, which would give the data analytics company a valuation of ~$3.6B (Luisa Beltran/Barron's Online)](http://www.techmeme.com/210927/p39#a210927p39)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
