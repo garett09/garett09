@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Legends: Arceus reveals Noble Pokémon, and all-new Kleavor](https://www.polygon.com/22698170/noble-pokemon-legends-arceus-kleavor-pokedex-entry)
- - [Hamaki takes center stage in Fortnite’s Soundwave Series](http://feedproxy.google.com/~r/PSBlog/~3/oE4xRPNwy0Q/)
- - [Hamaki takes center stage in Fortnite’s Soundwave Series](https://blog.playstation.com/2021/09/28/hamaki-takes-center-stage-in-fortnites-soundwave-series/)<!-- GAME:END -->
+ - [Rare Warhammer 40,000 miniature sells for a record-breaking $35,000](https://www.polygon.com/tabletop-games/22698200/warhammer-40000-thunderhawk-gunship-auction-price-2021)
+ - [Hit the ground running in Insurgency: Sandstorm with 10 hard-earned tips](http://feedproxy.google.com/~r/PSBlog/~3/V0MppVXE2Oc/)
+ - [Hit the ground running in Insurgency: Sandstorm with 10 hard-earned tips](https://blog.playstation.com/2021/09/28/hit-the-ground-running-in-insurgency-sandstorm-with-10-hard-earned-tips/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
