@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Unite is an intense MOBA with a friendly skin](https://www.polygon.com/reviews/22696924/pokemon-unite-review-nintendo-switch-moba)
- - [AMD CEO Dr. Lisa Su is optimistic the chip shortage will ease up in late 2022](https://www.pcgamer.com/amd-ceo-dr-lisa-su-is-optimistic-the-chip-shortage-will-ease-up-in-late-2022)
- - [GPU restock tips: how to buy a graphics card in 2021](https://www.pcgamer.com/where-to-buy-a-graphics-card)<!-- GAME:END -->
+ - [Award-winning indie horror RPG Mothership is getting a boxed set](https://www.polygon.com/tabletop-games/22697210/mothership-tabletop-rpg-boxed-set-announcement-price)
+ - [Final Fantasy XIV Player Literally Dabs On Boss With Kinect](https://kotaku.com/final-fantasy-xiv-player-literally-dabs-on-boss-with-ki-1847756494)
+ - [Twitch might be implementing new chat options to curb abuse for streamers](https://www.pcgamer.com/twitch-might-be-implementing-new-chat-options-to-curb-abuse-for-streamers)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
