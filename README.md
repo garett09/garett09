@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Universal Studios Japan Is Adding A New Donkey Kong Themed Area](https://kotaku.com/universal-studios-japan-is-adding-a-new-donkey-kong-the-1847757646)
  - [The best Australian PC gaming deals this week](https://www.pcgamer.com/best-australian-pc-gaming-deals)
- - [Activision sued by another federal agency, settles lawsuit for $18 million](https://www.pcgamer.com/activision-sued-by-another-federal-agency-immediately-settles-lawsuit-for-dollar18-million)
- - [Cheap gaming laptop deals this week](https://www.pcgamer.com/gaming-laptop-deals)<!-- GAME:END -->
+ - [Activision sued by another federal agency, settles lawsuit for $18 million](https://www.pcgamer.com/activision-sued-by-another-federal-agency-immediately-settles-lawsuit-for-dollar18-million)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
