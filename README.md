@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nintendo confirms Donkey Kong area for Super Nintendo World](https://www.theverge.com/2021/9/28/22697850/super-nintendo-world-donkey-kong-area-confirmed)
- - [Xiaomi Civi launched: A lightweight phone for selfie fans (Updated: China only)](https://www.androidauthority.com/xiaomi-civi-3030760/)
- - [WhatsApp to support iPad and at least another iPhone in new update](https://techncruncher.blogspot.com/2021/09/whatsapp-to-support-ipad-and-at-least.html)<!-- TECH:END -->
+ - [UK-based robotic process automation company Blue Prism to be acquired by private equity firm Vista Equity Partners for about &pound;1.1B (Bloomberg)](http://www.techmeme.com/210928/p4#a210928p4)
+ - [Logitech’s MX Keys Mini ditches the numpad for other useful keys](https://www.theverge.com/2021/9/28/22687565/logitech-mx-keys-mini-wireless-keyboard-features-price-colors)
+ - [Bangalore-based Capital Float, which offers a buy now pay later service on Amazon and other sites in India, raises $50M Series D led by Lightrock India (Manish Singh/TechCrunch)](http://www.techmeme.com/210928/p3#a210928p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
