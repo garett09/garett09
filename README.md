@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to share iCloud photos](https://appleinsider.com/articles/21/09/28/how-to-share-icloud-photos?utm_medium=rss)
- - [Google defends Android phone maker deals](https://techncruncher.blogspot.com/2021/09/google-defends-android-phone-maker-deals.html)
- - [Apple quietly hikes Beats Flex price to $70](https://appleinsider.com/articles/21/09/28/apple-quietly-hikes-beats-flex-price-to-70?utm_medium=rss)<!-- TECH:END -->
+ - [Gem, which integrates with LinkedIn to help automate data collection and follow-up correspondence with job candidates, raises $100M Series C at $1.2B valuation (Christine Hall/TechCrunch)](http://www.techmeme.com/210928/p19#a210928p19)
+ - [Alibaba apps start offering WeChat Pay option](https://techncruncher.blogspot.com/2021/09/alibaba-apps-start-offering-wechat-pay.html)
+ - [Rivian’s R1T electric pickup truck took me to the top of the mountain](https://www.theverge.com/transportation/2021/9/28/22697309/rivian-r1t-electric-truck-test-drive-off-roading-camp-tested)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
