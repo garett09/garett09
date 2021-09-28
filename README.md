@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The wives are coming!](http://9gag.com/gag/a5Emneo)
- - 🚯 [Ah yes, the perfect family activity](http://9gag.com/gag/azMNqXp)
- - 🚯 [Literally covered](http://9gag.com/gag/a07AbOd)<!-- MEMES:END -->
+ - 🚖 [Ah yes, the perfect family activity](http://9gag.com/gag/azMNqXp)
+ - 🚯 [I Warned you](http://9gag.com/gag/a6EvV3R)
+ - 🚯 [God damnit rockstar](http://9gag.com/gag/aWjKqNd)<!-- MEMES:END -->
 
 --- 
 
