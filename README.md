@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s the deluge of announcements from Amazon’s fall devices event](https://www.theverge.com/2021/9/28/22692147/amazon-devices-event-echo-ring-biggest-announcements)
- - [The Guilty review: Netflix snags a smart, tense thriller](https://www.androidauthority.com/guilty-review-netflix-jake-gyllenhaal-3030139/)
- - [How to use iCloud Folder Sharing and replace Dropbox](https://appleinsider.com/articles/21/09/28/how-to-use-icloud-folder-sharing-and-replace-dropbox?utm_medium=rss)<!-- TECH:END -->
+ - [Save over $400 on the Surface Pro X, and more great Microsoft Surface deals](https://www.androidauthority.com/best-cheap-surface-pro-deals-1112075/)
+ - [Microsoft starts testing xCloud integration on Xbox consoles](https://www.theverge.com/2021/9/28/22698101/microsoft-xcloud-xbox-cloud-gaming-console-integration)
+ - [Amazon Glow: This Alexa-free gadget helps kids and family play together     - CNET](https://www.cnet.com/home/amazon-glow-this-alexa-free-gadget-helps-kids-and-family-play-together/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
