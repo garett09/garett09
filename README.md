@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Rare Warhammer 40,000 miniature sells for a record-breaking $35,000](https://www.polygon.com/tabletop-games/22698200/warhammer-40000-thunderhawk-gunship-auction-price-2021)
- - [Hit the ground running in Insurgency: Sandstorm with 10 hard-earned tips](http://feedproxy.google.com/~r/PSBlog/~3/V0MppVXE2Oc/)
- - [Hit the ground running in Insurgency: Sandstorm with 10 hard-earned tips](https://blog.playstation.com/2021/09/28/hit-the-ground-running-in-insurgency-sandstorm-with-10-hard-earned-tips/)<!-- GAME:END -->
+ - [Cerebral psychological-thriller In Sound Mind is available now](http://feedproxy.google.com/~r/PSBlog/~3/XGx941K0Cf4/)
+ - [Cerebral psychological-thriller In Sound Mind is available now](https://blog.playstation.com/2021/09/28/cerebral-psychological-thriller-in-sound-mind-is-available-now/)
+ - [Dandy Ace is Now Available with Xbox Game Pass](https://news.xbox.com/en-us/2021/09/28/dandy-ace-is-now-available-with-xbox-game-pass/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
