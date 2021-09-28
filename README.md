@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Wario’s shoes are the window to his soul](https://www.polygon.com/wario/22692288/wario-shoe-costume-feet-fashion)
- - [How to Survive the Time Loop in Lemnis Gate, Available Today with Xbox Game Pass](https://news.xbox.com/en-us/2021/09/28/lemnis-gate-available-today-with-xbox-game-pass/)
- - [One Year With Genshin Impact](https://kotaku.com/one-year-with-genshin-impact-1847760685)<!-- GAME:END -->
+ - [Microsoft Flight Simulator Releases First Aircraft in the “Local Legends” Series Today with Junkers JU-52](https://news.xbox.com/en-us/2021/09/28/microsoft-flight-simulator-releases-first-aircraft-in-the-local-legends-series-today-with-junkers-ju-52/)
+ - [Splitgate's Big Update: Mantling, Plus Other Quality Of Life Tweaks](https://kotaku.com/splitgates-big-update-mantling-plus-other-quality-of-1847761302)
+ - [FIFA Player Accused Of Rape Suspended And Removed From Roster](https://kotaku.com/fifa-player-accused-of-rape-suspended-and-removed-from-1847761098)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
