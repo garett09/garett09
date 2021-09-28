@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Just hanging out in nyc](http://9gag.com/gag/amPjYvX)
- - 🚯 [If you have other ones](http://9gag.com/gag/aMKR9oX)
- - 🚯 [At conference on migrant crisis, Polish politicians show migrant having sex with a donkey.](http://9gag.com/gag/aP3NMRn)<!-- MEMES:END -->
+ - 🚖 [Explain this](http://9gag.com/gag/azMN8Kz)
+ - 🚯 [The wives are coming!](http://9gag.com/gag/a5Emneo)
+ - 🚯 [Forklift operator when they get out matrix](http://9gag.com/gag/ajmbXM8)<!-- MEMES:END -->
 
 --- 
 
