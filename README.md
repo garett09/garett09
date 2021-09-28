@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Explain this](http://9gag.com/gag/azMN8Kz)
- - 🚯 [The wives are coming!](http://9gag.com/gag/a5Emneo)
- - 🚯 [Forklift operator when they get out matrix](http://9gag.com/gag/ajmbXM8)<!-- MEMES:END -->
+ - 🚖 [Speech 100](http://9gag.com/gag/a5EmZ8G)
+ - 🚯 [Forklift operator when they get out matrix](http://9gag.com/gag/ajmbXM8)
+ - 🚯 [Boomer humor is my favourite](http://9gag.com/gag/a4EeGRQ)<!-- MEMES:END -->
 
 --- 
 
