@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Save over $400 on the Surface Pro X, and more great Microsoft Surface deals](https://www.androidauthority.com/best-cheap-surface-pro-deals-1112075/)
- - [Microsoft starts testing xCloud integration on Xbox consoles](https://www.theverge.com/2021/9/28/22698101/microsoft-xcloud-xbox-cloud-gaming-console-integration)
- - [Amazon Glow: This Alexa-free gadget helps kids and family play together     - CNET](https://www.cnet.com/home/amazon-glow-this-alexa-free-gadget-helps-kids-and-family-play-together/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Compared: Microsoft Surface Go 3 vs iPad and iPad Air](https://appleinsider.com/articles/21/09/28/compared-microsoft-surface-go-3-vs-ipad-and-ipad-air?utm_medium=rss)
+ - [This Software Aims to Smooth Your Flight—and Help the Planet](https://www.wired.com/story/software-aims-make-flight-smoother-help-planet)
+ - [Apple making display repairs harder on iPhone 13 Pro is a step too far](https://appleinsider.com/articles/21/09/28/apple-making-display-repairs-harder-on-iphone-13-pro-is-a-step-too-far?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
