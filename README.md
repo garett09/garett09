@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Microsoft Flight Simulator Releases First Aircraft in the “Local Legends” Series Today with Junkers JU-52](https://news.xbox.com/en-us/2021/09/28/microsoft-flight-simulator-releases-first-aircraft-in-the-local-legends-series-today-with-junkers-ju-52/)
- - [Splitgate's Big Update: Mantling, Plus Other Quality Of Life Tweaks](https://kotaku.com/splitgates-big-update-mantling-plus-other-quality-of-1847761302)
- - [FIFA Player Accused Of Rape Suspended And Removed From Roster](https://kotaku.com/fifa-player-accused-of-rape-suspended-and-removed-from-1847761098)<!-- GAME:END -->
+ - [Xbox Sessions: Saquon Barkley and GoodGameBro Go Head-to-Head in Madden NFL 22](https://news.xbox.com/en-us/2021/09/28/xbox-sessions-saquon-barkley-madden-nfl-22/)
+ - [Nick Fighting Game Gives Nigel Thornberry Jigglypuff’s Rest From Smash](https://kotaku.com/nick-fighting-game-gives-nigel-thornberry-jigglypuff-s-1847761702)
+ - [Dead by Daylight's new survivor is a teenage witch, but not that one](https://www.pcgamer.com/dead-by-daylight-mikaela-reid)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
