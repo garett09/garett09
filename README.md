@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ford reveals plans for massive EV and battery factories in the US](https://www.theverge.com/2021/9/27/22696427/ford-ev-battery-factory-tennessee-kentucky-investment)
- - [Netflix spills top 10 shows and movies by hours watched for the first time     - CNET](https://www.cnet.com/news/netflix-spills-top-10-shows-and-movies-by-hours-watched-for-the-first-time/#ftag=CAD590a51e)
- - [Drop tests show iPhone 13 is just as durable as iPhone 12](https://appleinsider.com/articles/21/09/27/drop-tests-show-iphone-13-is-just-as-durable-as-iphone-12?utm_medium=rss)<!-- TECH:END -->
+ - [Activision Blizzard settles with the EEOC, which sued it earlier in the day over alleged sexual harassment and discrimination, will create $18M fund for victims (Kellen Browning/New York Times)](http://www.techmeme.com/210927/p37#a210927p37)
+ - [Bijnis, whose app helps factory owners in India build a digital presence and sell products to retailers, raises $30M Series B led by Westbridge Capital (Manish Singh/TechCrunch)](http://www.techmeme.com/210927/p36#a210927p36)
+ - [AMD CEO Lisa Su downplays the company’s role in crypto mining](https://www.theverge.com/2021/9/27/22697339/amd-crypto-mining-ceo-lisa-su-gpu-code-conference)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
