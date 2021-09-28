@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [UK-based robotic process automation company Blue Prism to be acquired by private equity firm Vista Equity Partners for about &pound;1.1B (Bloomberg)](http://www.techmeme.com/210928/p4#a210928p4)
- - [Logitech’s MX Keys Mini ditches the numpad for other useful keys](https://www.theverge.com/2021/9/28/22687565/logitech-mx-keys-mini-wireless-keyboard-features-price-colors)
- - [Bangalore-based Capital Float, which offers a buy now pay later service on Amazon and other sites in India, raises $50M Series D led by Lightrock India (Manish Singh/TechCrunch)](http://www.techmeme.com/210928/p3#a210928p3)<!-- TECH:END -->
+ - [Redmi Earbuds 3 Pro review: Missing essentials](https://www.androidauthority.com/redmi-earbuds-3-pro-review-3025320/)
+ - [Android 12.1 features leak: A ton of foldable improvements incoming](https://www.androidauthority.com/android-12-1-features-3031602/)
+ - [UK-based robotic process automation company Blue Prism to be acquired by private equity firm Vista Equity Partners for about &pound;1.1B (Bloomberg)](http://www.techmeme.com/210928/p4#a210928p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
