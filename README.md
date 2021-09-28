@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Native Union Watch Puck review: Ultimate portable Apple Watch companion](https://appleinsider.com/articles/21/09/28/native-union-watch-puck-review-ultimate-portable-apple-watch-companion?utm_medium=rss)
- - [Amazon’s Astro Is a Robot Without a Cause](https://www.wired.com/story/amazon-astro)
- - [Netflix acquires its first game studio, Night School Studio, which was founded by Sean Krankel and Adam Hines in 2014 and is best known for the game Oxenfree (Dean Takahashi/VentureBeat)](http://www.techmeme.com/210928/p43#a210928p43)<!-- TECH:END -->
+ - [CFTC fines Kraken $1.25M for illegally offering margined crypto products from June 2020 to June 2021 and not registering as a futures commission merchant (Turner Wright/Cointelegraph)](http://www.techmeme.com/210928/p46#a210928p46)
+ - [Elon Musk slams Biden as ‘not the friendliest’ after White House EV summit snub](https://www.theverge.com/2021/9/28/22699339/elon-musk-joe-biden-criticize-tesla-insult)
+ - [Grab the M1 MacBook Air for $100 off, and more great MacBook deals](https://www.androidauthority.com/best-cheap-macbook-deals-1112936/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
