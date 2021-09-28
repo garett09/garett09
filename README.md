@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Coalition, which offers cybersecurity tools and insurance to 50,000+ customers, raises $205M Series E at a $3.5B+ valuation, bringing total funding to $500M+ (Carly Page/TechCrunch)](http://www.techmeme.com/210928/p13#a210928p13)
- - [Dune Foresaw—and Influenced—Half a Century of Global Conflict](https://www.wired.com/story/dune-geopolitics-cybersecurity)
- - [Spice World: WIRED Traces the Dune Legacy](https://www.wired.com/story/the-dune-legacy)<!-- TECH:END -->
+ - [How to share iCloud photos](https://appleinsider.com/articles/21/09/28/how-to-share-icloud-photos?utm_medium=rss)
+ - [Google defends Android phone maker deals](https://techncruncher.blogspot.com/2021/09/google-defends-android-phone-maker-deals.html)
+ - [Apple quietly hikes Beats Flex price to $70](https://appleinsider.com/articles/21/09/28/apple-quietly-hikes-beats-flex-price-to-70?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
