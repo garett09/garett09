@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sable is an adventure made from the most chill parts of Breath of the Wild](https://www.theverge.com/22699023/sable-review-xbox-steam)
- - [Most people aren’t accessing their medical records on their phones](https://www.theverge.com/2021/9/28/22698323/patient-portal-health-records-smartphone-app)
- - [Apple lands kids show based on the best-selling 'Amber Brown' books](https://appleinsider.com/articles/21/09/28/apple-lands-kids-show-based-on-the-best-selling-amber-brown-books?utm_medium=rss)<!-- TECH:END -->
+ - [Every new iPad mini 6 is on sale with exclusive deals and AppleCare savings](https://appleinsider.com/articles/21/09/28/every-new-ipad-mini-6-is-on-sale-with-exclusive-deals-and-applecare-savings?utm_medium=rss)
+ - [Apple says the iPad Mini’s jelly scrolling isn’t a problem that needs to be fixed](https://www.theverge.com/2021/9/28/22698590/apple-ipad-mini-jelly-scroll-issue-response-fix-lcd-technology)
+ - [Vaccine passport app Portpass, which has 650,000+ registered users across Canada according to the company's CEO, had a security flaw exposing private user info (Sarah Rieger/CBC News)](http://www.techmeme.com/210928/p42#a210928p42)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
