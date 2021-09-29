@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Seattle-based Read AI, which offers a dashboard for Zoom meetings to measure engagement, sentiment, and more, emerges from stealth with $10M in seed funding (Christine Hall/TechCrunch)](http://www.techmeme.com/210929/p26#a210929p26)
- - [The Dart Zone Pro MK-3 might be the best foam blaster Nerf never made](https://www.theverge.com/22699272/dart-zone-pro-mk-3-preview-blaster-prime-time-toys-nerf-price)
- - [iPhone 13 deliveries delayed as COVID slows Apple's supplies, report says     - CNET](https://www.cnet.com/tech/mobile/iphone-13-deliveries-delayed-as-covid-slows-apples-supplies-report-says/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to use iCloud to create rules that automatically sort, delete, & forward Mail](https://appleinsider.com/articles/21/09/29/how-to-use-icloud-to-create-rules-that-automatically-sort-delete-forward-mail?utm_medium=rss)
+ - [Google Lens is coming to the Chrome browser, getting more powerful on phones](https://www.androidauthority.com/google-lens-chrome-3032175/)
+ - [Apple CEO Tim Cook receives 255,000 shares of Apple stock](https://appleinsider.com/articles/21/09/29/apple-ceo-tim-cook-receives-25-million-shares-of-apple-stock?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
