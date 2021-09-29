@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple dominates tablet processor market thanks to iPad](https://appleinsider.com/articles/21/09/29/apple-dominates-tablet-processor-market-thanks-to-ipad?utm_medium=rss)
- - [Stellar Health, whose cloud-based tools help healthcare providers offer value-based care to patients, raises $60M+ Series B led by General Atlantic (FinSMEs)](http://www.techmeme.com/210928/p50#a210928p50)
- - [Was Elizabeth Holmes like Steve Jobs? Her emails say no](https://www.theverge.com/2021/9/28/22699614/elizabeth-holmes-trial-steve-jobs-emails)<!-- TECH:END -->
+ - [Amazon Astro is ‘terrible’ and will ‘throw itself down’ stairs, developers reportedly claim](https://www.theverge.com/2021/9/28/22699284/amazon-astro-real-world-stairs-fragile-developer-claims-documents-tracking)
+ - [Acceldata, which makes AI-based data observability software for data quality, pipelines, and system infrastructure, raises $35M Series B led by Insight Partners (Kyle Wiggers/VentureBeat)](http://www.techmeme.com/210928/p51#a210928p51)
+ - [5 monitors worth checking out for 2021     - CNET](https://www.cnet.com/tech/computing/best-monitors/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
