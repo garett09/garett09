@@ -194,8 +194,8 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This Citroen commercial from the 80&#039;s, kind of a shame that no one posted it beforehand.](http://9gag.com/gag/aYo8Gxm)
- - 🚯 [Crazy C-Ram in action...](http://9gag.com/gag/aXoDPgD)
+ - 🚖 [Crazy C-Ram in action...](http://9gag.com/gag/aXoDPgD)
+ - 🚯 [Brexit was such a good idea!](http://9gag.com/gag/aMKREd1)
  - 🚯 [I miss the &#039;90s](http://9gag.com/gag/azMNxEm)<!-- MEMES:END -->
 
 --- 
