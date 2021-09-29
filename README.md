@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Maps adds a wildfire info layer, rolling out to Android this week and iOS and desktop in October, expands its Tree Canopy tool to 100 cities worldwide (Ron Amadeo/Ars Technica)](http://www.techmeme.com/210929/p33#a210929p33)
- - [iFixit's initial iPad mini 6 teardown investigates 'jelly scrolling' issue](https://appleinsider.com/articles/21/09/29/ifixits-initial-ipad-mini-6-teardown-investigates-jelly-scrolling-issue?utm_medium=rss)
- - [Apple reminds developers about changes to subscription payment system in India](https://techncruncher.blogspot.com/2021/09/apple-reminds-developers-about-changes.html)<!-- TECH:END -->
+ - [Apple tells developers in India to promote Apple ID payments ahead of new government regulations](https://appleinsider.com/articles/21/09/29/apple-tells-developers-in-india-to-promote-apple-id-payments-ahead-of-new-government-regulations?utm_medium=rss)
+ - [TikTok settles lawsuit with actress over its original text-to-speech voice](https://www.theverge.com/2021/9/29/22701167/bev-standing-tiktok-lawsuit-settles-text-to-speech-voice)
+ - [Samsung Galaxy S22 series: All the rumors in one place (Updated: Sept. 29)](https://www.androidauthority.com/samsung-galaxy-s22-1643006/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
