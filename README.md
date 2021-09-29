@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Blue Origin ‘gambled’ with its Moon lander pricing, NASA says in legal documents](https://www.theverge.com/2021/9/29/22689729/blue-origin-moon-lunar-lander-price-nasa-hls-foia)
- - [Analysis by Swiss AI company Art Recognition of 148 paintings suggests UK National Gallery's Samson and Delilah by Peter Paul Rubens, bought in 1980, is a fake (Dalya Alberge/The Guardian)](http://www.techmeme.com/210929/p20#a210929p20)
- - [Apple to eclipse low investor confidence in iPhone growth, analyst says](https://appleinsider.com/articles/21/09/29/apple-to-eclipse-low-investor-confidence-in-iphone-growth-analyst-says?utm_medium=rss)<!-- TECH:END -->
+ - [iPad mini 2021 review: Delightfully small with few caveats](https://appleinsider.com/articles/21/09/29/ipad-mini-2021-review-delightfully-small-with-few-caveats?utm_medium=rss)
+ - [Apple CEO Tim Cook receives 2.5 million shares of Apple stock](https://appleinsider.com/articles/21/09/29/apple-ceo-tim-cook-receives-25-million-shares-of-apple-stock?utm_medium=rss)
+ - [Instagram Reels are now widely available on Facebook in the US](https://www.theverge.com/2021/9/29/22700289/facebook-reels-instagram-play-bonus-tiktok)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
