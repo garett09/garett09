@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Disgusting](http://9gag.com/gag/aLpYj1M)
- - 🚯 [The Dunning-Kruger Effect at play.](http://9gag.com/gag/azMN1rx)
- - 🚯 [The Penetrator](http://9gag.com/gag/aO3gYXR)<!-- MEMES:END -->
+ - 🚖 [Siberian Tiger is waiting](http://9gag.com/gag/aRX5Bgy)
+ - 🚯 [Let&#039;s help this guy see himself. Spotted in Neckarsulm Germany.](http://9gag.com/gag/aDdpY6B)
+ - 🚯 [Crazy C-Ram in action...](http://9gag.com/gag/aXoDPgD)<!-- MEMES:END -->
 
 --- 
 
