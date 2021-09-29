@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Strong iPhone 13 sales make camera suppliers prioritize Apple](https://appleinsider.com/articles/21/09/29/strong-iphone-13-sales-make-camera-suppliers-prioritize-apple?utm_medium=rss)
- - [The Best Drawing Apps for Every Kind of iPad Artist](https://www.wired.com/gallery/best-ipad-drawing-apps)
- - [The Llama, the Hamster, and a New Path for Covid Treatment](https://www.wired.com/story/the-llama-the-hamster-and-a-new-path-for-covid-treatment)<!-- TECH:END -->
+ - [YouTube says it is banning prominent anti-vaccine activists, including Robert F. Kennedy Jr, and blocking all anti-vax content, not just about COVID-19 vaccines (Gerrit De Vynck/Washington Post)](http://www.techmeme.com/210929/p15#a210929p15)
+ - [Stockholm-based Hedvig, which offers app-based insurance aimed at millennials, raises $45M Series B and says it has 70K users in its three Scandinavian markets (Ingrid Lunden/TechCrunch)](http://www.techmeme.com/210929/p14#a210929p14)
+ - [Hundreds of Scam Apps Hit Over 10 Million Android Devices](https://www.wired.com/story/grifthorse-android-google-play-scam-campaign)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
