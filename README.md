@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple dominates tablet processor market thanks to iPad](https://appleinsider.com/articles/21/09/29/apple-dominates-tablet-processor-market-thanks-to-ipad?utm_medium=rss)
- - [Apple sued over iPhone, iPad and Mac camera designs](https://appleinsider.com/articles/21/09/29/apple-sued-over-iphone-ipad-and-mac-camera-designs?utm_medium=rss)
- - [The best water filter pitcher for 2021     - CNET](https://www.cnet.com/home/kitchen-and-household/best-water-filter-pitcher/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple TV+ fills out cast of 'The Greatest Beer Run Ever'](https://appleinsider.com/articles/21/09/29/apple-tv-fills-out-cast-of-the-greatest-beer-run-ever?utm_medium=rss)
+ - [Apple, Google must file plans to comply with South Korean app store law by mid-October](https://appleinsider.com/articles/21/09/29/apple-google-must-file-plans-to-comply-with-south-korean-app-store-law-by-mid-october?utm_medium=rss)
+ - [Apple might introduce new 'High Power Mode' for Mac](https://appleinsider.com/articles/21/09/29/apple-might-introduce-new-high-power-mode-for-mac?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
