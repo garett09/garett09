@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Sessions: Saquon Barkley and GoodGameBro Go Head-to-Head in Madden NFL 22](https://news.xbox.com/en-us/2021/09/28/xbox-sessions-saquon-barkley-madden-nfl-22/)
- - [Nick Fighting Game Gives Nigel Thornberry Jigglypuff’s Rest From Smash](https://kotaku.com/nick-fighting-game-gives-nigel-thornberry-jigglypuff-s-1847761702)
- - [Dead by Daylight's new survivor is a teenage witch, but not that one](https://www.pcgamer.com/dead-by-daylight-mikaela-reid)<!-- GAME:END -->
+ - [UnMetal is a Love Letter to Retro Gaming with Explosions and Humor](https://news.xbox.com/en-us/2021/09/29/unmetal-love-letter-retro-gaming-with-explosions-and-humor/)
+ - [3 players of Dota 2 team test positive for Covid-19 only a week before The International](https://www.pcgamer.com/3-players-of-dota-2-team-test-positive-for-covid-19-only-a-week-before-the-international)
+ - [Netflix’s haunted-house movie No One Gets Out Alive blows its one big shiny idea](https://www.polygon.com/22701024/no-one-gets-out-alive-review-netflix)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
