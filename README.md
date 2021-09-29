@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to use iCloud to create rules that automatically sort, delete, & forward Mail](https://appleinsider.com/articles/21/09/29/how-to-use-icloud-to-create-rules-that-automatically-sort-delete-forward-mail?utm_medium=rss)
- - [Google Lens is coming to the Chrome browser, getting more powerful on phones](https://www.androidauthority.com/google-lens-chrome-3032175/)
- - [Apple CEO Tim Cook receives 255,000 shares of Apple stock](https://appleinsider.com/articles/21/09/29/apple-ceo-tim-cook-receives-25-million-shares-of-apple-stock?utm_medium=rss)<!-- TECH:END -->
+ - [iPhone 13 Pro Max has world's best smartphone display, according to DisplayMate](https://appleinsider.com/articles/21/09/28/iphone-13-pro-max-has-worlds-best-smartphone-display-according-to-displaymate?utm_medium=rss)
+ - [Users reporting screen, camera, and app bugs in iPhone 13](https://appleinsider.com/articles/21/09/29/users-reporting-screen-camera-and-app-bugs-in-iphone-13?utm_medium=rss)
+ - [iPad mini 2021 review: Delightfully small with few caveats](https://appleinsider.com/articles/21/09/29/ipad-mini-2021-review-delightfully-small-with-few-caveats?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
