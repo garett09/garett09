@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung mobile chief visited the US to ask for more chips, got rejected](https://www.androidauthority.com/samsung-tm-roh-chip-shortage-us-trip-3032387/)
  - [Samsung’s future smartwatches could include handy solar charging tech](https://www.androidauthority.com/samsung-solar-charging-smartwatch-3032295/)
- - [Withings’ latest hybrid smartwatch poses as a luxury dive watch](https://www.theverge.com/2021/9/29/22697955/withings-scanwatch-horizon-sleep-apnea-afib-smartwatch)
- - [UFC owner Endeavor to buy OpenBet, a UK-based sports betting software maker, from Scientific Games for $1.2B in cash and stock (Todd Spangler/Variety)](http://www.techmeme.com/210929/p1#a210929p1)<!-- TECH:END -->
+ - [Withings’ latest hybrid smartwatch poses as a luxury dive watch](https://www.theverge.com/2021/9/29/22697955/withings-scanwatch-horizon-sleep-apnea-afib-smartwatch)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
