@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Xiaomi 11 Lite NE 5G launched in India: What’s new with this edition?](https://www.androidauthority.com/xiaomi-11-lite-5g-ne-india-3018148/)
- - [Ah fuck: YouTube takes down classic ‘I can’t believe you’ve done this’ meme](https://www.theverge.com/2021/9/29/22699955/youtube-takes-down-ah-fuck-cant-believe-youve-done-this-meme)
- - [Apple cancels OLED display for 2022 iPad Air](https://appleinsider.com/articles/21/09/29/apples-cancels-oled-display-for-2022-ipad-air?utm_medium=rss)<!-- TECH:END -->
+ - [Filings: General Catalyst is aiming to raise up to $300M for a fund to buy sales contracts from tech startups, one of the first and largest funds to do so (Miles Kruppa/Financial Times)](http://www.techmeme.com/210929/p9#a210929p9)
+ - [Vietnam COVID outbreak delays iPhone 13 orders](https://appleinsider.com/articles/21/09/29/vietnam-covid-outbreak-delays-iphone-13-orders?utm_medium=rss)
+ - [Apple's New iPad Is More Than Good Enough for Most](https://www.wired.com/review/apple-ipad-2021)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
