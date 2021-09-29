@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 13 Pro Max has world's best smartphone display, according to DisplayMate](https://appleinsider.com/articles/21/09/28/iphone-13-pro-max-has-worlds-best-smartphone-display-according-to-displaymate?utm_medium=rss)
- - [Users reporting screen, camera, and app bugs in iPhone 13](https://appleinsider.com/articles/21/09/29/users-reporting-screen-camera-and-app-bugs-in-iphone-13?utm_medium=rss)
- - [iPad mini 2021 review: Delightfully small with few caveats](https://appleinsider.com/articles/21/09/29/ipad-mini-2021-review-delightfully-small-with-few-caveats?utm_medium=rss)<!-- TECH:END -->
+ - [Remember when beta testing was free?](https://www.theverge.com/22700064/amazon-astro-google-chromebook-beta-test)
+ - [GM’s new software platform will enable over-the-air updates, in-car subscriptions, and maybe facial recognition](https://www.theverge.com/2021/9/29/22700400/gm-ultifi-software-ota-update-subscription-facial-recognition)
+ - [Google announces online shopping tools, including a Lens upgrade coming first to iOS and Chrome desktop that helps users find products seen in images and videos (Antonio G. Di Benedetto/The Verge)](http://www.techmeme.com/210929/p31#a210929p31)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
