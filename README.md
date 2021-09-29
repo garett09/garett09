@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube says it is banning prominent anti-vaccine activists, including Robert F. Kennedy Jr, and blocking all anti-vax content, not just about COVID-19 vaccines (Gerrit De Vynck/Washington Post)](http://www.techmeme.com/210929/p15#a210929p15)
- - [Stockholm-based Hedvig, which offers app-based insurance aimed at millennials, raises $45M Series B and says it has 70K users in its three Scandinavian markets (Ingrid Lunden/TechCrunch)](http://www.techmeme.com/210929/p14#a210929p14)
- - [Hundreds of Scam Apps Hit Over 10 Million Android Devices](https://www.wired.com/story/grifthorse-android-google-play-scam-campaign)<!-- TECH:END -->
+ - [Blue Origin ‘gambled’ with its Moon lander pricing, NASA says in legal documents](https://www.theverge.com/2021/9/29/22689729/blue-origin-moon-lunar-lander-price-nasa-hls-foia)
+ - [Analysis by Swiss AI company Art Recognition of 148 paintings suggests UK National Gallery's Samson and Delilah by Peter Paul Rubens, bought in 1980, is a fake (Dalya Alberge/The Guardian)](http://www.techmeme.com/210929/p20#a210929p20)
+ - [Apple to eclipse low investor confidence in iPhone growth, analyst says](https://appleinsider.com/articles/21/09/29/apple-to-eclipse-low-investor-confidence-in-iphone-growth-analyst-says?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
