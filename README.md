@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPad mini 2021 review: Delightfully small with few caveats](https://appleinsider.com/articles/21/09/29/ipad-mini-2021-review-delightfully-small-with-few-caveats?utm_medium=rss)
- - [Apple CEO Tim Cook receives 2.5 million shares of Apple stock](https://appleinsider.com/articles/21/09/29/apple-ceo-tim-cook-receives-25-million-shares-of-apple-stock?utm_medium=rss)
- - [Instagram Reels are now widely available on Facebook in the US](https://www.theverge.com/2021/9/29/22700289/facebook-reels-instagram-play-bonus-tiktok)<!-- TECH:END -->
+ - [Seattle-based Read AI, which offers a dashboard for Zoom meetings to measure engagement, sentiment, and more, emerges from stealth with $10M in seed funding (Christine Hall/TechCrunch)](http://www.techmeme.com/210929/p26#a210929p26)
+ - [The Dart Zone Pro MK-3 might be the best foam blaster Nerf never made](https://www.theverge.com/22699272/dart-zone-pro-mk-3-preview-blaster-prime-time-toys-nerf-price)
+ - [iPhone 13 deliveries delayed as COVID slows Apple's supplies, report says     - CNET](https://www.cnet.com/tech/mobile/iphone-13-deliveries-delayed-as-covid-slows-apples-supplies-report-says/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
