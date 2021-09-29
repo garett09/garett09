@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filings: General Catalyst is aiming to raise up to $300M for a fund to buy sales contracts from tech startups, one of the first and largest funds to do so (Miles Kruppa/Financial Times)](http://www.techmeme.com/210929/p9#a210929p9)
- - [Vietnam COVID outbreak delays iPhone 13 orders](https://appleinsider.com/articles/21/09/29/vietnam-covid-outbreak-delays-iphone-13-orders?utm_medium=rss)
- - [Apple's New iPad Is More Than Good Enough for Most](https://www.wired.com/review/apple-ipad-2021)<!-- TECH:END -->
+ - [Strong iPhone 13 sales make camera suppliers prioritize Apple](https://appleinsider.com/articles/21/09/29/strong-iphone-13-sales-make-camera-suppliers-prioritize-apple?utm_medium=rss)
+ - [The Best Drawing Apps for Every Kind of iPad Artist](https://www.wired.com/gallery/best-ipad-drawing-apps)
+ - [The Llama, the Hamster, and a New Path for Covid Treatment](https://www.wired.com/story/the-llama-the-hamster-and-a-new-path-for-covid-treatment)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
