@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple tells developers in India to promote Apple ID payments ahead of new government regulations](https://appleinsider.com/articles/21/09/29/apple-tells-developers-in-india-to-promote-apple-id-payments-ahead-of-new-government-regulations?utm_medium=rss)
- - [TikTok settles lawsuit with actress over its original text-to-speech voice](https://www.theverge.com/2021/9/29/22701167/bev-standing-tiktok-lawsuit-settles-text-to-speech-voice)
- - [Samsung Galaxy S22 series: All the rumors in one place (Updated: Sept. 29)](https://www.androidauthority.com/samsung-galaxy-s22-1643006/)<!-- TECH:END -->
+ - [Apple shareholder urges action on CSAM videos](https://appleinsider.com/articles/21/09/29/apple-shareholder-urges-action-on-csam-videos?utm_medium=rss)
+ - [Twitch rolls out the option for streamers to require phone and email-verified accounts in chat, as part of the company's effort to reduce targeted harassment (Ana Diaz/Polygon)](http://www.techmeme.com/210929/p35#a210929p35)
+ - [Save 50% on the Vostro 5402 Laptop, and more of the best Dell laptop deals](https://www.androidauthority.com/dell-laptop-deals-1123801/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
