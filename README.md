@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [CFTC fines Kraken $1.25M for illegally offering margined crypto products from June 2020 to June 2021 and not registering as a futures commission merchant (Turner Wright/Cointelegraph)](http://www.techmeme.com/210928/p46#a210928p46)
- - [Elon Musk slams Biden as ‘not the friendliest’ after White House EV summit snub](https://www.theverge.com/2021/9/28/22699339/elon-musk-joe-biden-criticize-tesla-insult)
- - [Grab the M1 MacBook Air for $100 off, and more great MacBook deals](https://www.androidauthority.com/best-cheap-macbook-deals-1112936/)<!-- TECH:END -->
+ - [Affirm plans to debut a debit card and allow its customers to buy and sell crypto directly from Affirm savings accounts (Jennifer Surane/Bloomberg)](http://www.techmeme.com/210928/p48#a210928p48)
+ - [AirTag vulnerability turns tracker into Trojan horse, fix incoming](https://appleinsider.com/articles/21/09/28/airtag-vulnerability-turns-tracker-into-trojan-horse-fix-incoming?utm_medium=rss)
+ - [Tim Sweeney and Epic execs discuss Epic's metaverse plans, contrasting it with Facebook's "manicured" feed, and emphasizing the role of creators (Gene Park/Washington Post)](http://www.techmeme.com/210928/p47#a210928p47)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
