@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Nintendo Switch developers say they already have 4K dev kits](https://www.polygon.com/22701181/nintendo-switch-4k-model-release-date-report)
- - [New Twisted Metal game reportedly in development for PlayStation](https://www.polygon.com/22665072/twisted-metal-ps5-lucid-games)
- - [UnMetal is a Love Letter to Retro Gaming with Explosions and Humor](https://news.xbox.com/en-us/2021/09/29/unmetal-love-letter-retro-gaming-with-explosions-and-humor/)<!-- GAME:END -->
+ - [Engineer builds an Apex Legends loot robot that actually walks](https://www.pcgamer.com/real-apex-legends-robot)
+ - [New World server status day 2: thousands are still waiting in queues, dreading errors](https://www.pcgamer.com/new-world-server-status-queues)
+ - [Bungie is teasing the death of another major Destiny 2 character](https://www.pcgamer.com/bungies-is-teasing-the-death-of-another-major-destiny-2-character)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
