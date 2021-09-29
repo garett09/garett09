@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Remember when beta testing was free?](https://www.theverge.com/22700064/amazon-astro-google-chromebook-beta-test)
- - [GM’s new software platform will enable over-the-air updates, in-car subscriptions, and maybe facial recognition](https://www.theverge.com/2021/9/29/22700400/gm-ultifi-software-ota-update-subscription-facial-recognition)
- - [Google announces online shopping tools, including a Lens upgrade coming first to iOS and Chrome desktop that helps users find products seen in images and videos (Antonio G. Di Benedetto/The Verge)](http://www.techmeme.com/210929/p31#a210929p31)<!-- TECH:END -->
+ - [Sonos says Google is blocking it from offering more than one voice assistant at once](https://www.theverge.com/2021/9/29/22700724/sonos-smart-speakers-concurrency-google)
+ - [Amazon sent us a 13-page PDF to prove Elon Musk is as litigious as Jeff Bezos](https://www.theverge.com/2021/9/29/22700600/amazon-elon-musk-jeff-bezos-blue-origin-spacex-lawsuits)
+ - [Akamai says it has acquired Tel Aviv-based Guardicore, which protects cloud workloads from cyber threats, for $600M to help combat ransomware attacks (Eva Mathews/Reuters)](http://www.techmeme.com/210929/p32#a210929p32)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
