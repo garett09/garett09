@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple TV+ fills out cast of 'The Greatest Beer Run Ever'](https://appleinsider.com/articles/21/09/29/apple-tv-fills-out-cast-of-the-greatest-beer-run-ever?utm_medium=rss)
- - [Apple, Google must file plans to comply with South Korean app store law by mid-October](https://appleinsider.com/articles/21/09/29/apple-google-must-file-plans-to-comply-with-south-korean-app-store-law-by-mid-october?utm_medium=rss)
- - [Apple might introduce new 'High Power Mode' for Mac](https://appleinsider.com/articles/21/09/29/apple-might-introduce-new-high-power-mode-for-mac?utm_medium=rss)<!-- TECH:END -->
+ - [16-inch MacBook Pro power adapter out of stock ahead of expected revamp](https://appleinsider.com/articles/21/09/29/16-inch-macbook-pro-power-adapter-out-of-stock-ahead-of-expected-revamp?utm_medium=rss)
+ - [Apple might introduce new 'High Power Mode' for Mac](https://appleinsider.com/articles/21/09/29/apple-might-introduce-new-high-power-mode-for-mac?utm_medium=rss)
+ - [Apple, Google must file plans to comply with South Korean app store law by mid-October](https://appleinsider.com/articles/21/09/29/apple-google-must-file-plans-to-comply-with-south-korean-app-store-law-by-mid-october?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
