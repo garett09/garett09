@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Withings’ pricey new watch is for health nuts and diving enthusiasts](https://www.androidauthority.com/withings-scanwatch-horizon-3032399/)
- - [Valve reportedly developing standalone VR headset codenamed ‘Deckard’](https://www.theverge.com/2021/9/29/22699914/valve-deckard-standalone-vr-headset-prototype-development)
- - [Apple says the "jelly scroll" issue on the 6th-gen iPad mini is normal for LCD screens; the issue isn't noticeable on other latest iPad models with LCD screens (Andrew Cunningham/Ars Technica)](http://www.techmeme.com/210929/p2#a210929p2)<!-- TECH:END -->
+ - [Xiaomi 11 Lite NE 5G launched in India: What’s new with this edition?](https://www.androidauthority.com/xiaomi-11-lite-5g-ne-india-3018148/)
+ - [Ah fuck: YouTube takes down classic ‘I can’t believe you’ve done this’ meme](https://www.theverge.com/2021/9/29/22699955/youtube-takes-down-ah-fuck-cant-believe-youve-done-this-meme)
+ - [Apple cancels OLED display for 2022 iPad Air](https://appleinsider.com/articles/21/09/29/apples-cancels-oled-display-for-2022-ipad-air?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
