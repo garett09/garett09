@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Affirm plans to debut a debit card and allow its customers to buy and sell crypto directly from Affirm savings accounts (Jennifer Surane/Bloomberg)](http://www.techmeme.com/210928/p48#a210928p48)
- - [AirTag vulnerability turns tracker into Trojan horse, fix incoming](https://appleinsider.com/articles/21/09/28/airtag-vulnerability-turns-tracker-into-trojan-horse-fix-incoming?utm_medium=rss)
- - [Tim Sweeney and Epic execs discuss Epic's metaverse plans, contrasting it with Facebook's "manicured" feed, and emphasizing the role of creators (Gene Park/Washington Post)](http://www.techmeme.com/210928/p47#a210928p47)<!-- TECH:END -->
+ - [Apple dominates tablet processor market thanks to iPad](https://appleinsider.com/articles/21/09/29/apple-dominates-tablet-processor-market-thanks-to-ipad?utm_medium=rss)
+ - [Stellar Health, whose cloud-based tools help healthcare providers offer value-based care to patients, raises $60M+ Series B led by General Atlantic (FinSMEs)](http://www.techmeme.com/210928/p50#a210928p50)
+ - [Was Elizabeth Holmes like Steve Jobs? Her emails say no](https://www.theverge.com/2021/9/28/22699614/elizabeth-holmes-trial-steve-jobs-emails)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
