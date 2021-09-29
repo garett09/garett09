@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best weighted blanket for 2021     - CNET](https://www.cnet.com/health/sleep/best-weighted-blanket/#ftag=CAD590a51e)
- - [16-inch MacBook Pro power adapter out of stock ahead of expected revamp](https://appleinsider.com/articles/21/09/29/16-inch-macbook-pro-power-adapter-out-of-stock-ahead-of-expected-revamp?utm_medium=rss)
- - [Apple might introduce new 'High Power Mode' for Mac](https://appleinsider.com/articles/21/09/29/apple-might-introduce-new-high-power-mode-for-mac?utm_medium=rss)<!-- TECH:END -->
+ - [Samsung’s future smartwatches could include handy solar charging tech](https://www.androidauthority.com/samsung-solar-charging-smartwatch-3032295/)
+ - [Withings’ latest hybrid smartwatch poses as a luxury dive watch](https://www.theverge.com/2021/9/29/22697955/withings-scanwatch-horizon-sleep-apnea-afib-smartwatch)
+ - [UFC owner Endeavor to buy OpenBet, a UK-based sports betting software maker, from Scientific Games for $1.2B in cash and stock (Todd Spangler/Variety)](http://www.techmeme.com/210929/p1#a210929p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
