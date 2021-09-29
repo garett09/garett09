@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sonos says Google is blocking it from offering more than one voice assistant at once](https://www.theverge.com/2021/9/29/22700724/sonos-smart-speakers-concurrency-google)
- - [Amazon sent us a 13-page PDF to prove Elon Musk is as litigious as Jeff Bezos](https://www.theverge.com/2021/9/29/22700600/amazon-elon-musk-jeff-bezos-blue-origin-spacex-lawsuits)
- - [Akamai says it has acquired Tel Aviv-based Guardicore, which protects cloud workloads from cyber threats, for $600M to help combat ransomware attacks (Eva Mathews/Reuters)](http://www.techmeme.com/210929/p32#a210929p32)<!-- TECH:END -->
+ - [Google Maps adds a wildfire info layer, rolling out to Android this week and iOS and desktop in October, expands its Tree Canopy tool to 100 cities worldwide (Ron Amadeo/Ars Technica)](http://www.techmeme.com/210929/p33#a210929p33)
+ - [iFixit's initial iPad mini 6 teardown investigates 'jelly scrolling' issue](https://appleinsider.com/articles/21/09/29/ifixits-initial-ipad-mini-6-teardown-investigates-jelly-scrolling-issue?utm_medium=rss)
+ - [Apple reminds developers about changes to subscription payment system in India](https://techncruncher.blogspot.com/2021/09/apple-reminds-developers-about-changes.html)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
