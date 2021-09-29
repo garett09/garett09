@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon Astro is ‘terrible’ and will ‘throw itself down’ stairs, developers reportedly claim](https://www.theverge.com/2021/9/28/22699284/amazon-astro-real-world-stairs-fragile-developer-claims-documents-tracking)
- - [Acceldata, which makes AI-based data observability software for data quality, pipelines, and system infrastructure, raises $35M Series B led by Insight Partners (Kyle Wiggers/VentureBeat)](http://www.techmeme.com/210928/p51#a210928p51)
- - [5 monitors worth checking out for 2021     - CNET](https://www.cnet.com/tech/computing/best-monitors/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple dominates tablet processor market thanks to iPad](https://appleinsider.com/articles/21/09/29/apple-dominates-tablet-processor-market-thanks-to-ipad?utm_medium=rss)
+ - [Apple sued over iPhone, iPad and Mac camera designs](https://appleinsider.com/articles/21/09/29/apple-sued-over-iphone-ipad-and-mac-camera-designs?utm_medium=rss)
+ - [The best water filter pitcher for 2021     - CNET](https://www.cnet.com/home/kitchen-and-household/best-water-filter-pitcher/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
