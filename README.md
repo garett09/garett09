@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung mobile chief visited the US to ask for more chips, got rejected](https://www.androidauthority.com/samsung-tm-roh-chip-shortage-us-trip-3032387/)
- - [Samsung’s future smartwatches could include handy solar charging tech](https://www.androidauthority.com/samsung-solar-charging-smartwatch-3032295/)
- - [Withings’ latest hybrid smartwatch poses as a luxury dive watch](https://www.theverge.com/2021/9/29/22697955/withings-scanwatch-horizon-sleep-apnea-afib-smartwatch)<!-- TECH:END -->
+ - [Withings’ pricey new watch is for health nuts and diving enthusiasts](https://www.androidauthority.com/withings-scanwatch-horizon-3032399/)
+ - [Valve reportedly developing standalone VR headset codenamed ‘Deckard’](https://www.theverge.com/2021/9/29/22699914/valve-deckard-standalone-vr-headset-prototype-development)
+ - [Apple says the "jelly scroll" issue on the 6th-gen iPad mini is normal for LCD screens; the issue isn't noticeable on other latest iPad models with LCD screens (Andrew Cunningham/Ars Technica)](http://www.techmeme.com/210929/p2#a210929p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
