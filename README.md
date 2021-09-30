@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Profile of Chinese AI company SenseTime, which has raised $3B+, as it prepares for a Hong Kong IPO and tries to retain support from China, its biggest customer (Financial Times)](http://www.techmeme.com/210930/p3#a210930p3)
- - [Hawaii's Kilauea volcano erupts, cracking open crater's lava lake     - CNET](https://www.cnet.com/news/hawaiis-kilauea-volcano-erupts-cracking-open-craters-lava-lake/#ftag=CAD590a51e)
- - [All the free PS4 and PS5 games PlayStation Plus subscribers can download now     - CNET](https://www.cnet.com/news/all-the-free-ps4-and-ps5-games-playstation-plus-subscribers-can-download-now/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How EA is expanding its footprint on mobile, the fastest growing gaming category, as part of a cross-platform portfolio to reach new consumers (Nick Statt/Protocol)](http://www.techmeme.com/210930/p4#a210930p4)
+ - [Guess what search term is most popular on Bing? It starts with a “G”](https://www.androidauthority.com/google-bing-search-3032917/)
+ - [WhatsApp to stop working on these 53 iPhone, Android phones](https://techncruncher.blogspot.com/2021/09/whatsapp-to-stop-working-on-these-53.html)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
