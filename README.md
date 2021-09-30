@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [After 4.5 Years in Japan, I&#039;ve finally officially set foot in all of Japan&#039;s 47 Prefectures](http://9gag.com/gag/aZ0A8NX)
- - 🚯 [If you know !!](http://9gag.com/gag/aP3Nomg)
- - 🚯 [Brazil is not for beginners](http://9gag.com/gag/aB2qLnP)<!-- MEMES:END -->
+ - 🚖 [This guy is a genius, well done](http://9gag.com/gag/ad8ZQAZ)
+ - 🚯 [A bunch of idiots thought that the hard shoulder was the exit lane and started piling up behind a truck...](http://9gag.com/gag/anQp2qL)
+ - 🚯 [If you know !!](http://9gag.com/gag/aP3Nomg)<!-- MEMES:END -->
 
 --- 
 
