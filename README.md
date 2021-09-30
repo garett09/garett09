@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Kratos actor says God of War: Ragnarok was delayed due to his health](https://www.polygon.com/22702105/god-of-war-ragnarok-christopher-judge-kratos-actor-injury-delay)
- - [Eternal Return Launching October 19 with Exclusive Perks for Xbox Game Pass Ultimate Members](https://news.xbox.com/en-us/2021/09/30/eternal-return-launching-october-19-with-perks/)
- - [It Turns Out The Nintendo Switch’s Fall Lineup Actually Looks Pretty Strong](https://kotaku.com/it-turns-out-the-nintendo-switch-s-fall-lineup-actually-1847773671)<!-- GAME:END -->
+ - [Hot Wheels Unleashed brings toys to life in a delightful arcade racer](https://www.polygon.com/reviews/22702163/hot-wheels-unleashed-review-score-nintendo-switch-ps4-xbox)
+ - [Welcoming Bluepoint Games to the PlayStation Studios family](http://feedproxy.google.com/~r/PSBlog/~3/EDOtqzZWAp0/)
+ - [Welcoming Bluepoint Games to the PlayStation Studios family](https://blog.playstation.com/2021/09/30/welcoming-bluepoint-games-to-the-playstation-studios-family/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
