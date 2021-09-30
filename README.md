@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best OBD2 scanners for 2021     - Roadshow](https://www.cnet.com/roadshow/news/best-obd2-scanners/#ftag=CAD590a51e)
- - [Best adjustable dumbbells of 2021     - CNET](https://www.cnet.com/health/fitness/best-adjustable-dumbbells/#ftag=CAD590a51e)
- - [Doctor uses iPhone 13 Pro’s Macro camera to check patients’ eyes](https://techncruncher.blogspot.com/2021/09/doctor-uses-iphone-13-pros-macro-camera.html)<!-- TECH:END -->
+ - [Apple director of AI, machine learning research to speak at Nvidia conference](https://appleinsider.com/articles/21/09/30/apple-director-of-ai-machine-learning-research-to-speak-at-nvidia-conference?utm_medium=rss)
+ - [Apple Pay bug could allow attackers to bypass lock screen, make payments](https://appleinsider.com/articles/21/09/30/apple-pay-bug-could-allow-attackers-to-bypass-lock-screen-make-payments?utm_medium=rss)
+ - [WSJ publishes six internal Facebook documents it used for its report about Instagram's negative impact on teen girls, after Facebook published two of the docs (Wall Street Journal)](http://www.techmeme.com/210929/p40#a210929p40)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
