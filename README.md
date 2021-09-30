@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Road-rage with a tractor](http://9gag.com/gag/aDdp6z7)
- - 🚯 [Inventions that never really caught on](http://9gag.com/gag/aQowvKr)
- - 🚯 [Wamen](http://9gag.com/gag/anQpR8B)<!-- MEMES:END -->
+ - 🚖 [Well 9gag, I have Covid. If I don&#039;t make it, thanks for the years of laughs](http://9gag.com/gag/aK601d1)
+ - 🚯 [Every damn time](http://9gag.com/gag/aGp38RK)
+ - 🚯 [Look in the mirror](http://9gag.com/gag/azMNP2K)<!-- MEMES:END -->
 
 --- 
 
