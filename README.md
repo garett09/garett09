@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 13 Pro & iPhone 13 Pro Max review: Exceptional phones but the Pro Max underwhelms](https://appleinsider.com/articles/21/09/30/iphone-13-pro-iphone-13-pro-max-review-exceptional-phones-but-the-pro-max-underwhelms?utm_medium=rss)
- - [Asus ROG Zephyrus G14 (2021) review: cut by the Blade](https://www.theverge.com/22702219/asus-rog-zephyrus-g14-2021-gaming-laptop-review)
- - [Why Bitcoin’s pollution could grow after leaving China](https://www.theverge.com/2021/9/30/22702543/bitcoin-carbon-footprint-emissions-china)<!-- TECH:END -->
+ - [How to use Focus assist in Windows 11](https://www.theverge.com/22696232/focus-assist-windows-11-microsoft-how-to)
+ - [Apple’s fortress of secrecy is crumbling from the inside](https://www.theverge.com/22700898/apple-company-culture-change-secrecy-employee-unrest)
+ - [Clubhouse finally lets you record conversations](https://www.theverge.com/2021/9/30/22702034/clubhouse-recording-in-app-clip-tool-update)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
