@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [And I bet some morons still drive slow on the left lane](http://9gag.com/gag/arM63AV)
- - 🚯 [Nobody is the bad 50%](http://9gag.com/gag/aQowEwr)
- - 🚯 [This Man in Pakistan&rsquo;s Women&rsquo;s march](http://9gag.com/gag/a6EvXON)<!-- MEMES:END -->
+ - 🚖 [The Scotsman being the Scotsman](http://9gag.com/gag/ajmb731)
+ - 🚯 [Mr bean](http://9gag.com/gag/aWjKpZ2)
+ - 🚯 [That sound!KO!](http://9gag.com/gag/a6EvXGb)<!-- MEMES:END -->
 
 --- 
 
