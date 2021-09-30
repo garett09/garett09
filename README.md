@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Hot Wheels Unleashed brings toys to life in a delightful arcade racer](https://www.polygon.com/reviews/22702163/hot-wheels-unleashed-review-score-nintendo-switch-ps4-xbox)
- - [Welcoming Bluepoint Games to the PlayStation Studios family](http://feedproxy.google.com/~r/PSBlog/~3/EDOtqzZWAp0/)
- - [Welcoming Bluepoint Games to the PlayStation Studios family](https://blog.playstation.com/2021/09/30/welcoming-bluepoint-games-to-the-playstation-studios-family/)<!-- GAME:END -->
+ - [Corsair launches the Xeneon, its first ever gaming monitor](https://www.pcgamer.com/corsair-launches-the-xeneon-its-first-ever-gaming-monitor)
+ - [The 13 movies that inspired Deathloop, according to Arkane Studios](https://www.polygon.com/22700733/deathloop-movies-inspiration)
+ - [The Vast Open World of Dying Light 2 Stay Human](https://news.xbox.com/en-us/2021/09/30/the-vast-open-world-of-dying-light-2-stay-human/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
