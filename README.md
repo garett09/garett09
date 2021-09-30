@@ -196,7 +196,7 @@ Windows                  7 hrs 16 mins       ███████████�
 <!-- MEMES:START -->
  - 🚖 [A very important conversation](http://9gag.com/gag/aGp3GBK)
  - 🚯 [There are certain delays at the construction area...](http://9gag.com/gag/aP3N80P)
- - 🚯 [Even the weather wants to fvck you up in Brazil.](http://9gag.com/gag/aAbW2Y9)<!-- MEMES:END -->
+ - 🚯 [When I ask my friends, they say this shit is literally in every workplace they worked in. You either live with it, or live on unemployment benefits. Employee protection doesn&#039;t exist, and unions are powerless. Hooray for Lithuania](http://9gag.com/gag/abVPWQ8)<!-- MEMES:END -->
 
 --- 
 
