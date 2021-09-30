@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chainalysis: crypto transaction volume for Central, Northern, and Western Europe reached $1T+ from July 2020-June 2021, comprising 25% of global crypto activity (Sam Bourgi/Cointelegraph)](http://www.techmeme.com/210930/p2#a210930p2)
- - [How to watch the new Jon Stewart show on Apple TV+](https://techncruncher.blogspot.com/2021/09/how-to-watch-new-jon-stewart-show-on.html)
- - [Doctor uses iPhone 13 Pro camera to take macro images of patient's eyes](https://appleinsider.com/articles/21/09/30/doctor-uses-iphone-13-pro-camera-to-take-macro-images-of-patients-eyes?utm_medium=rss)<!-- TECH:END -->
+ - [Profile of Chinese AI company SenseTime, which has raised $3B+, as it prepares for a Hong Kong IPO and tries to retain support from China, its biggest customer (Financial Times)](http://www.techmeme.com/210930/p3#a210930p3)
+ - [Hawaii's Kilauea volcano erupts, cracking open crater's lava lake     - CNET](https://www.cnet.com/news/hawaiis-kilauea-volcano-erupts-cracking-open-craters-lava-lake/#ftag=CAD590a51e)
+ - [All the free PS4 and PS5 games PlayStation Plus subscribers can download now     - CNET](https://www.cnet.com/news/all-the-free-ps4-and-ps5-games-playstation-plus-subscribers-can-download-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
