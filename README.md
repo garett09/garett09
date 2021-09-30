@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Honda is doubling down on rockets, robots, and flying cars](https://www.theverge.com/2021/9/30/22700931/honda-rocket-robot-flying-car-research-development)
- - [Visually impaired users say that iOS 15 appears to have removed call, email, and voicemail Siri features they relied on (Juli Clover/MacRumors)](http://www.techmeme.com/210930/p5#a210930p5)
- - [Daily Authority: Uninstall the latest Trojan, now ⚠](https://www.androidauthority.com/newsletters/da-september-30-2021/)<!-- TECH:END -->
+ - [US and EU will cooperate across various tech areas, including AI, semiconductors, and supply chain security, to ensure sensitive technologies are not misused (Campbell Kwan/ZDNet)](http://www.techmeme.com/210930/p7#a210930p7)
+ - [Amazon settles with two former employee activists, Emily Cunningham and Maren Costa, over accusations it illegally fired them for organizing (Karen Weise/New York Times)](http://www.techmeme.com/210930/p6#a210930p6)
+ - [Day One at The Every: An Excerpt From Dave Eggers' New Novel](https://www.wired.com/story/the-every-excerpt-dave-eggers-novel)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
