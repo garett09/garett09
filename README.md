@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Every single time](http://9gag.com/gag/aK60v4O)
- - 🚯 [&ldquo;Dad joke&rdquo; skill acquired](http://9gag.com/gag/aoMrRen)
- - 🚯 [Laughs in Arial Black](http://9gag.com/gag/ayMg48b)<!-- MEMES:END -->
+ - 🚖 [If you know !!](http://9gag.com/gag/aP3Nomg)
+ - 🚯 [This Kinetic Chess Set](http://9gag.com/gag/azMNK1x)
+ - 🚯 [Ow sorry just got a little... distracted.](http://9gag.com/gag/a5EmBWL)<!-- MEMES:END -->
 
 --- 
 
