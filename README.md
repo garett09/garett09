@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Outer Wilds’ DLC is secretly a sequel that’s as big and great as the original](https://www.polygon.com/reviews/22702806/outer-wilds-dlc-echoes-of-the-eye-review)
- - [Astria Ascending Launches Today with Xbox Game Pass](https://news.xbox.com/en-us/2021/09/30/astria-ascending-launches-today-with-xbox-game-pass/)
- - [Amazon Prime’s Free Games For October Are Shockingly Good](https://kotaku.com/amazon-prime-s-free-games-for-october-are-shockingly-go-1847777358)<!-- GAME:END -->
+ - [World of Warcraft Classic rewinds, tries a new seasonal model](https://www.polygon.com/22703040/world-of-warcraft-classic-season-of-mastery-details)
+ - [The Vast Open World of Dying Light 2 Stay Human](https://news.xbox.com/en-us/2021/09/30/the-vast-open-world-of-dying-light-2-stay-human/)
+ - [Deathloop lets me play my way and get away consequence free](https://www.polygon.com/22702431/deathloop-dishonored-morality-choice-consequence-arkane-endings)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
