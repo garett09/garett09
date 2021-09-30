@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [*Roll 1*](http://9gag.com/gag/aAbW4Q0)
- - 🚯 [Right in meow meow](http://9gag.com/gag/aYo8P3O)
- - 🚯 [Be like Jerry](http://9gag.com/gag/a07A61q)<!-- MEMES:END -->
+ - 🚖 [Be like Jerry](http://9gag.com/gag/a07A61q)
+ - 🚯 [Lithuanian Police, Snu Snu Unit](http://9gag.com/gag/aZ0AQ9z)
+ - 🚯 [Right in meow meow](http://9gag.com/gag/aYo8P3O)<!-- MEMES:END -->
 
 --- 
 
