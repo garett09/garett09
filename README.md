@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Aeon Drive: How to save the world in 30 seconds](http://feedproxy.google.com/~r/PSBlog/~3/S_2p_Hn9sPg/)
- - [Aeon Drive: How to save the world in 30 seconds](https://blog.playstation.com/2021/09/30/aeon-drive-how-to-save-the-world-in-30-seconds/)
- - [Fan-Favorite K’ Lights up the Stage in The King of Fighters XV](https://news.xbox.com/en-us/2021/09/30/fan-favorite-lights-up-the-stage-king-of-fighters-15/)<!-- GAME:END -->
+ - [In Wario World, the pursuit of treasure is worth more than treasure itself](https://www.polygon.com/wario/22702422/wario-world-review-gamecube-black-jewel-greed)
+ - [Race Against Time in Aeon Drive, Available Today for Xbox One and Xbox Series X|S](https://news.xbox.com/en-us/2021/09/30/aeon-drive-available-today-xbox/)
+ - [Here's when FIFA 22 unlocks in your time zone](https://www.pcgamer.com/fifa-22-unlock-time)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
