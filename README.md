@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [In Wario World, the pursuit of treasure is worth more than treasure itself](https://www.polygon.com/wario/22702422/wario-world-review-gamecube-black-jewel-greed)
- - [Race Against Time in Aeon Drive, Available Today for Xbox One and Xbox Series X|S](https://news.xbox.com/en-us/2021/09/30/aeon-drive-available-today-xbox/)
- - [Here's when FIFA 22 unlocks in your time zone](https://www.pcgamer.com/fifa-22-unlock-time)<!-- GAME:END -->
+ - [The Eternal Cylinder: Designing Survival Mechanics for a Planet Being Destroyed](https://news.xbox.com/en-us/2021/09/30/the-eternal-cylinder-designing-survival-mechanics-for-a-planet-being-destroyed/)
+ - [You won't need a high-end PC to run Back 4 Blood](https://www.pcgamer.com/you-wont-need-a-high-end-pc-to-run-back-4-blood)
+ - [Three decades of Wario all started with a name](https://www.polygon.com/wario/22698796/wario-game-list-history-retrospective)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
