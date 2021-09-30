@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How-to: Power off, force restart iPhone 13, enable recovery mode, DFU mode, etc. [Video]](https://techncruncher.blogspot.com/2021/09/how-to-power-off-force-restart-iphone.html)
- - [Apple Treasurer Gary Wipfler reportedly retires after 35 years](https://techncruncher.blogspot.com/2021/09/apple-treasurer-gary-wipfler-reportedly.html)
- - [This is Facebook’s internal research on the mental health effects of Instagram](https://www.theverge.com/2021/9/29/22701445/facebook-instagram-mental-health-research-pdfs-documents)<!-- TECH:END -->
+ - [Best OBD2 scanners for 2021     - Roadshow](https://www.cnet.com/roadshow/news/best-obd2-scanners/#ftag=CAD590a51e)
+ - [Best adjustable dumbbells of 2021     - CNET](https://www.cnet.com/health/fitness/best-adjustable-dumbbells/#ftag=CAD590a51e)
+ - [Doctor uses iPhone 13 Pro’s Macro camera to check patients’ eyes](https://techncruncher.blogspot.com/2021/09/doctor-uses-iphone-13-pros-macro-camera.html)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
