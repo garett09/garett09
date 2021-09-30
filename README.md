@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [FCC is laser-focused on erasing the digital divide and crushing robocalls     - CNET](https://www.cnet.com/home/internet/fcc-is-laser-focused-on-erasing-the-digital-divide-and-crushing-robocalls/#ftag=CAD590a51e)
- - [Save 25% on an LG 55-inch 4K OLED TV, and more of the best OLED TV deals](https://www.androidauthority.com/oled-tv-deals-1126077/)
- - [‘Rife with sexism’: employees of Jeff Bezos’ Blue Origin describe ‘toxic’ workplace culture](https://www.theverge.com/2021/9/30/22702335/jeff-bezos-employees-essay-blue-origin-toxic-workplace)<!-- TECH:END -->
+ - [iPhone 13 Pro & iPhone 13 Pro Max review: Exceptional phones but the Pro Max underwhelms](https://appleinsider.com/articles/21/09/30/iphone-13-pro-iphone-13-pro-max-review-exceptional-phones-but-the-pro-max-underwhelms?utm_medium=rss)
+ - [Asus ROG Zephyrus G14 (2021) review: cut by the Blade](https://www.theverge.com/22702219/asus-rog-zephyrus-g14-2021-gaming-laptop-review)
+ - [Why Bitcoin’s pollution could grow after leaving China](https://www.theverge.com/2021/9/30/22702543/bitcoin-carbon-footprint-emissions-china)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
