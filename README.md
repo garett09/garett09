@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple issues macOS Big Sur 11.6.1 release candidate with security fixes](https://appleinsider.com/articles/21/09/30/apple-issues-macos-big-sur-1161-release-candidate-with-security-fixes?utm_medium=rss)
- - [Forta, a security service aimed at smart contracts being spun out by blockchain cybersecurity startup OpenZeppelin, raises $23M led by a16z (Alex Wilhelm/TechCrunch)](http://www.techmeme.com/210930/p40#a210930p40)
- - [Samsung Galaxy A12 review: Sluggish but stylish starter smartphone](https://www.androidauthority.com/samsung-galaxy-a12-review-3022849/)<!-- TECH:END -->
+ - [PSA: Neiman Marcus still exists and it was hacked](https://www.theverge.com/2021/9/30/22703171/neiman-marcus-hacked-security-credit-cards)
+ - [Apple continues to provide EarPods to iPhone buyers in France](https://appleinsider.com/articles/21/09/30/apple-continues-to-provide-earpods-to-iphone-buyers-in-france?utm_medium=rss)
+ - [The best Boost Mobile deals: Save 49% on a 5GB prepaid plan](https://www.androidauthority.com/best-boost-mobile-deals-839972/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
