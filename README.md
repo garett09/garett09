@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Corsair launches the Xeneon, its first ever gaming monitor](https://www.pcgamer.com/corsair-launches-the-xeneon-its-first-ever-gaming-monitor)
- - [The 13 movies that inspired Deathloop, according to Arkane Studios](https://www.polygon.com/22700733/deathloop-movies-inspiration)
- - [The Vast Open World of Dying Light 2 Stay Human](https://news.xbox.com/en-us/2021/09/30/the-vast-open-world-of-dying-light-2-stay-human/)<!-- GAME:END -->
+ - [Aeon Drive: How to save the world in 30 seconds](http://feedproxy.google.com/~r/PSBlog/~3/S_2p_Hn9sPg/)
+ - [Aeon Drive: How to save the world in 30 seconds](https://blog.playstation.com/2021/09/30/aeon-drive-how-to-save-the-world-in-30-seconds/)
+ - [Fan-Favorite K’ Lights up the Stage in The King of Fighters XV](https://news.xbox.com/en-us/2021/09/30/fan-favorite-lights-up-the-stage-king-of-fighters-15/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
