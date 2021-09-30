@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple shareholder urges action on CSAM videos](https://appleinsider.com/articles/21/09/29/apple-shareholder-urges-action-on-csam-videos?utm_medium=rss)
- - [Twitch rolls out the option for streamers to require phone and email-verified accounts in chat, as part of the company's effort to reduce targeted harassment (Ana Diaz/Polygon)](http://www.techmeme.com/210929/p35#a210929p35)
- - [Save 50% on the Vostro 5402 Laptop, and more of the best Dell laptop deals](https://www.androidauthority.com/dell-laptop-deals-1123801/)<!-- TECH:END -->
+ - [How-to: Power off, force restart iPhone 13, enable recovery mode, DFU mode, etc. [Video]](https://techncruncher.blogspot.com/2021/09/how-to-power-off-force-restart-iphone.html)
+ - [Apple Treasurer Gary Wipfler reportedly retires after 35 years](https://techncruncher.blogspot.com/2021/09/apple-treasurer-gary-wipfler-reportedly.html)
+ - [This is Facebook’s internal research on the mental health effects of Instagram](https://www.theverge.com/2021/9/29/22701445/facebook-instagram-mental-health-research-pdfs-documents)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
