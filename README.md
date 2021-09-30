@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [New World review-in-progress: It's complicated](https://www.pcgamer.com/new-world-review)
- - [Install Windows 11 without worrying about TPM 2.0 or blocked updates with this workaround](https://www.pcgamer.com/install-windows-11-without-worrying-about-tpm-20-or-blocked-updates-with-this-workaround)
- - [League of Legends Champ Arrested On Suspicion Of Drug Trafficking](https://kotaku.com/league-of-legends-champ-arrested-on-suspicion-of-drug-t-1847773091)<!-- GAME:END -->
+ - [Tom Hardy chews up Venom: Let There Be Carnage with chaotic glee](https://www.polygon.com/reviews/22701590/venom-2-review-let-there-be-carnage)
+ - [A closer look into Final Fantasy XIV’s Yorha: Dark Apocalypse content](http://feedproxy.google.com/~r/PSBlog/~3/VWFx8BtMado/)
+ - [A closer look into Final Fantasy XIV’s Yorha: Dark Apocalypse content](https://blog.playstation.com/2021/09/30/a-closer-look-into-final-fantasy-xivs-yorha-dark-apocalypse-content/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
