@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Senate Is Mad as Hell at Facebook—Again](https://www.wired.com/story/senate-mad-at-facebook-again-instagram-hearing-2021)
- - [Samsung Galaxy S21 FE: What we know so far (Updated: Sep. 30)](https://www.androidauthority.com/samsung-galaxy-s21-fe-1211655/)
- - [USB Implementers Forum issues new USB-C certified logos that show if a cable or port supports 60W or 240W, hoping to solve customer confusion (William Gallagher/AppleInsider)](http://www.techmeme.com/210930/p39#a210930p39)<!-- TECH:END -->
+ - [Apple issues macOS Big Sur 11.6.1 release candidate with security fixes](https://appleinsider.com/articles/21/09/30/apple-issues-macos-big-sur-1161-release-candidate-with-security-fixes?utm_medium=rss)
+ - [Forta, a security service aimed at smart contracts being spun out by blockchain cybersecurity startup OpenZeppelin, raises $23M led by a16z (Alex Wilhelm/TechCrunch)](http://www.techmeme.com/210930/p40#a210930p40)
+ - [Samsung Galaxy A12 review: Sluggish but stylish starter smartphone](https://www.androidauthority.com/samsung-galaxy-a12-review-3022849/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
