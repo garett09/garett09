@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The Scotsman being the Scotsman](http://9gag.com/gag/ajmb731)
- - 🚯 [Mr bean](http://9gag.com/gag/aWjKpZ2)
- - 🚯 [That sound!KO!](http://9gag.com/gag/a6EvXGb)<!-- MEMES:END -->
+ - 🚖 [Inventions that never really caught on](http://9gag.com/gag/aQowvKr)
+ - 🚯 [This Man in Pakistan&rsquo;s Women&rsquo;s march](http://9gag.com/gag/a6EvXON)
+ - 🚯 [Road-rage with a tractor](http://9gag.com/gag/aDdp6z7)<!-- MEMES:END -->
 
 --- 
 
