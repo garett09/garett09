@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Be like Jerry](http://9gag.com/gag/a07A61q)
- - 🚯 [Back when The Simpsons was good!](http://9gag.com/gag/aXoDV5v)
- - 🚯 [This guy is a genius, well done](http://9gag.com/gag/ad8ZQAZ)<!-- MEMES:END -->
+ - 🚖 [*Roll 1*](http://9gag.com/gag/aAbW4Q0)
+ - 🚯 [Right in meow meow](http://9gag.com/gag/aYo8P3O)
+ - 🚯 [Be like Jerry](http://9gag.com/gag/a07A61q)<!-- MEMES:END -->
 
 --- 
 
