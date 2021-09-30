@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple director of AI, machine learning research to speak at Nvidia conference](https://appleinsider.com/articles/21/09/30/apple-director-of-ai-machine-learning-research-to-speak-at-nvidia-conference?utm_medium=rss)
- - [Apple Pay bug could allow attackers to bypass lock screen, make payments](https://appleinsider.com/articles/21/09/30/apple-pay-bug-could-allow-attackers-to-bypass-lock-screen-make-payments?utm_medium=rss)
- - [WSJ publishes six internal Facebook documents it used for its report about Instagram's negative impact on teen girls, after Facebook published two of the docs (Wall Street Journal)](http://www.techmeme.com/210929/p40#a210929p40)<!-- TECH:END -->
+ - [Indian social commerce startup Meesho raises $570M Series F co-led by Fidelity and B Capital Group, doubling its valuation in less than six months to $4.9B (Manish Singh/TechCrunch)](http://www.techmeme.com/210929/p42#a210929p42)
+ - [Apple has quietly begun allowing users to rate and review its built-in iPhone and iPad apps in the App Store with iOS 15 (Benjamin Mayo/9to5Mac)](http://www.techmeme.com/210929/p41#a210929p41)
+ - [Apple director of AI, machine learning research to speak at Nvidia conference](https://appleinsider.com/articles/21/09/30/apple-director-of-ai-machine-learning-research-to-speak-at-nvidia-conference?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
