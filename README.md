@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deliveroo partners with UK supermarket Morrisons to launch rapid delivery service Hop, initially in select London areas, with a goal of 10-15 minute deliveries (Tim Bradshaw/Financial Times)](http://www.techmeme.com/210930/p17#a210930p17)
- - [How Healthy Is Farm Soil? Check How Active Its Microbes Are](https://www.wired.com/story/how-healthy-is-a-farms-soil-check-how-active-its-microbes-are)
- - [These Smart Light Bars Will Brighten Up Your Living Room](https://www.wired.com/review/govee-flow-pro)<!-- TECH:END -->
+ - [Apple issues Mac 'Device Support Update' for restoring iOS, iPadOS devices](https://appleinsider.com/articles/21/09/30/apple-issues-mac-device-support-update-for-restoring-ios-ipados-devices?utm_medium=rss)
+ - [AstraZeneca COVID-19 vaccine shows 74% efficacy in large US trial](https://techncruncher.blogspot.com/2021/09/astrazeneca-covid-19-vaccine-shows-74.html)
+ - [Windows 11 rolls out redesigned Paint app ahead of official release](https://techncruncher.blogspot.com/2021/09/windows-11-rolls-out-redesigned-paint.html)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
