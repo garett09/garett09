@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Eternal Cylinder: Designing Survival Mechanics for a Planet Being Destroyed](https://news.xbox.com/en-us/2021/09/30/the-eternal-cylinder-designing-survival-mechanics-for-a-planet-being-destroyed/)
- - [You won't need a high-end PC to run Back 4 Blood](https://www.pcgamer.com/you-wont-need-a-high-end-pc-to-run-back-4-blood)
- - [Three decades of Wario all started with a name](https://www.polygon.com/wario/22698796/wario-game-list-history-retrospective)<!-- GAME:END -->
+ - [Outer Wilds’ DLC is secretly a sequel that’s as big and great as the original](https://www.polygon.com/reviews/22702806/outer-wilds-dlc-echoes-of-the-eye-review)
+ - [Astria Ascending Launches Today with Xbox Game Pass](https://news.xbox.com/en-us/2021/09/30/astria-ascending-launches-today-with-xbox-game-pass/)
+ - [Amazon Prime’s Free Games For October Are Shockingly Good](https://kotaku.com/amazon-prime-s-free-games-for-october-are-shockingly-go-1847777358)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
