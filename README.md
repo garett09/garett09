@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This is way too high](http://9gag.com/gag/aGp3MKw)
- - 🚯 [A license to drive&hellip;](http://9gag.com/gag/aEprA2N)
- - 🚯 [Back when The Simpsons was good!](http://9gag.com/gag/aXoDV5v)<!-- MEMES:END -->
+ - 🚖 [Be like Jerry](http://9gag.com/gag/a07A61q)
+ - 🚯 [Back when The Simpsons was good!](http://9gag.com/gag/aXoDV5v)
+ - 🚯 [This guy is a genius, well done](http://9gag.com/gag/ad8ZQAZ)<!-- MEMES:END -->
 
 --- 
 
