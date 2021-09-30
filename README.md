@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A very important conversation](http://9gag.com/gag/aGp3GBK)
- - 🚯 [Lithuanian Police, Snu Snu Unit](http://9gag.com/gag/aZ0AQ9z)
- - 🚯 [My life progression until now](http://9gag.com/gag/aYo8Pmw)<!-- MEMES:END -->
+ - 🚖 [Lithuanian Police, Snu Snu Unit](http://9gag.com/gag/aZ0AQ9z)
+ - 🚯 [Right in meow meow](http://9gag.com/gag/aYo8P3O)
+ - 🚯 [A very important conversation](http://9gag.com/gag/aGp3GBK)<!-- MEMES:END -->
 
 --- 
 
