@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Crazy C-Ram in action...](http://9gag.com/gag/aXoDPgD)
- - 🚯 [Brexit was such a good idea!](http://9gag.com/gag/aMKREd1)
- - 🚯 [I miss the &#039;90s](http://9gag.com/gag/azMNxEm)<!-- MEMES:END -->
+ - 🚖 [And I bet some morons still drive slow on the left lane](http://9gag.com/gag/arM63AV)
+ - 🚯 [Nobody is the bad 50%](http://9gag.com/gag/aQowEwr)
+ - 🚯 [This Man in Pakistan&rsquo;s Women&rsquo;s march](http://9gag.com/gag/a6EvXON)<!-- MEMES:END -->
 
 --- 
 
