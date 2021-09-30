@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to use Focus assist in Windows 11](https://www.theverge.com/22696232/focus-assist-windows-11-microsoft-how-to)
- - [Apple’s fortress of secrecy is crumbling from the inside](https://www.theverge.com/22700898/apple-company-culture-change-secrecy-employee-unrest)
- - [Clubhouse finally lets you record conversations](https://www.theverge.com/2021/9/30/22702034/clubhouse-recording-in-app-clip-tool-update)<!-- TECH:END -->
+ - [The Senate Is Mad as Hell at Facebook—Again](https://www.wired.com/story/senate-mad-at-facebook-again-instagram-hearing-2021)
+ - [Samsung Galaxy S21 FE: What we know so far (Updated: Sep. 30)](https://www.androidauthority.com/samsung-galaxy-s21-fe-1211655/)
+ - [USB Implementers Forum issues new USB-C certified logos that show if a cable or port supports 60W or 240W, hoping to solve customer confusion (William Gallagher/AppleInsider)](http://www.techmeme.com/210930/p39#a210930p39)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
