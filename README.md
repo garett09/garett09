@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [US and EU will cooperate across various tech areas, including AI, semiconductors, and supply chain security, to ensure sensitive technologies are not misused (Campbell Kwan/ZDNet)](http://www.techmeme.com/210930/p7#a210930p7)
- - [Amazon settles with two former employee activists, Emily Cunningham and Maren Costa, over accusations it illegally fired them for organizing (Karen Weise/New York Times)](http://www.techmeme.com/210930/p6#a210930p6)
- - [Day One at The Every: An Excerpt From Dave Eggers' New Novel](https://www.wired.com/story/the-every-excerpt-dave-eggers-novel)<!-- TECH:END -->
+ - [Researchers: a flaw in Apple Pay lets attackers make a Visa payment with a locked iPhone in Express Transit mode; Apple calls it "a concern with a Visa system" (BBC)](http://www.techmeme.com/210930/p10#a210930p10)
+ - [Apple TV+ Guide: Here are all the Apple TV shows and movies available now](https://techncruncher.blogspot.com/2021/09/apple-tv-guide-here-are-all-apple-tv.html)
+ - [Apparent flaw allows hackers to steal money from a locked iPhone, when a Visa card is set up with Apple Pay Express Transit](https://techncruncher.blogspot.com/2021/09/apparent-flaw-allows-hackers-to-steal.html)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
