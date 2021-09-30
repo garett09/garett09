@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily Authority: Uninstall the latest Trojan, now ⚠](https://www.androidauthority.com/newsletters/da-september-30-2021/)
- - [Vivo X70 Pro Plus review: A true premium flagship experience?](https://www.androidauthority.com/vivo-x70-pro-plus-review-3029151/)
- - [Vivo X70 Pro and X70 Pro Plus debut in India: Big camera credentials, big price](https://www.androidauthority.com/vivo-x70-pro-plus-india-3032934/)<!-- TECH:END -->
+ - [Honda is doubling down on rockets, robots, and flying cars](https://www.theverge.com/2021/9/30/22700931/honda-rocket-robot-flying-car-research-development)
+ - [Visually impaired users say that iOS 15 appears to have removed call, email, and voicemail Siri features they relied on (Juli Clover/MacRumors)](http://www.techmeme.com/210930/p5#a210930p5)
+ - [Daily Authority: Uninstall the latest Trojan, now ⚠](https://www.androidauthority.com/newsletters/da-september-30-2021/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
