@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Tom Hardy chews up Venom: Let There Be Carnage with chaotic glee](https://www.polygon.com/reviews/22701590/venom-2-review-let-there-be-carnage)
- - [A closer look into Final Fantasy XIV’s Yorha: Dark Apocalypse content](http://feedproxy.google.com/~r/PSBlog/~3/VWFx8BtMado/)
- - [A closer look into Final Fantasy XIV’s Yorha: Dark Apocalypse content](https://blog.playstation.com/2021/09/30/a-closer-look-into-final-fantasy-xivs-yorha-dark-apocalypse-content/)<!-- GAME:END -->
+ - [Kratos actor says God of War: Ragnarok was delayed due to his health](https://www.polygon.com/22702105/god-of-war-ragnarok-christopher-judge-kratos-actor-injury-delay)
+ - [Eternal Return Launching October 19 with Exclusive Perks for Xbox Game Pass Ultimate Members](https://news.xbox.com/en-us/2021/09/30/eternal-return-launching-october-19-with-perks/)
+ - [It Turns Out The Nintendo Switch’s Fall Lineup Actually Looks Pretty Strong](https://kotaku.com/it-turns-out-the-nintendo-switch-s-fall-lineup-actually-1847773671)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
