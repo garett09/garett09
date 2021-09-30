@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Indian social commerce startup Meesho raises $570M Series F co-led by Fidelity and B Capital Group, doubling its valuation in less than six months to $4.9B (Manish Singh/TechCrunch)](http://www.techmeme.com/210929/p42#a210929p42)
- - [Apple has quietly begun allowing users to rate and review its built-in iPhone and iPad apps in the App Store with iOS 15 (Benjamin Mayo/9to5Mac)](http://www.techmeme.com/210929/p41#a210929p41)
- - [Apple director of AI, machine learning research to speak at Nvidia conference](https://appleinsider.com/articles/21/09/30/apple-director-of-ai-machine-learning-research-to-speak-at-nvidia-conference?utm_medium=rss)<!-- TECH:END -->
+ - [Chainalysis: crypto transaction volume for Central, Northern, and Western Europe reached $1T+ from July 2020-June 2021, comprising 25% of global crypto activity (Sam Bourgi/Cointelegraph)](http://www.techmeme.com/210930/p2#a210930p2)
+ - [How to watch the new Jon Stewart show on Apple TV+](https://techncruncher.blogspot.com/2021/09/how-to-watch-new-jon-stewart-show-on.html)
+ - [Doctor uses iPhone 13 Pro camera to take macro images of patient's eyes](https://appleinsider.com/articles/21/09/30/doctor-uses-iphone-13-pro-camera-to-take-macro-images-of-patients-eyes?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
