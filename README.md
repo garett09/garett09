@@ -195,8 +195,8 @@ Windows                  7 hrs 16 mins       ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Dat Smile](http://9gag.com/gag/aeAo1Zv)
- - 🚯 [Gotta have two camera angles](http://9gag.com/gag/amPjGA4)
- - 🚯 [Every damn time](http://9gag.com/gag/aGp38RK)<!-- MEMES:END -->
+ - 🚯 [My life in general](http://9gag.com/gag/ajmbOKQ)
+ - 🚯 [Just give me a keg](http://9gag.com/gag/aRX5Z8Q)<!-- MEMES:END -->
 
 --- 
 
