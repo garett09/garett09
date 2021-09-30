@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Still better Dumbledore than Gandalf](http://9gag.com/gag/aWjKLr2)
- - 🚯 [Every damn time](http://9gag.com/gag/aGp38RK)
- - 🚯 [Just give me a keg](http://9gag.com/gag/aRX5Z8Q)<!-- MEMES:END -->
+ - 🚖 [Every single time](http://9gag.com/gag/aK60v4O)
+ - 🚯 [&ldquo;Dad joke&rdquo; skill acquired](http://9gag.com/gag/aoMrRen)
+ - 🚯 [Laughs in Arial Black](http://9gag.com/gag/ayMg48b)<!-- MEMES:END -->
 
 --- 
 
