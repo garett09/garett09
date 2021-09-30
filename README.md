@@ -180,8 +180,8 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Kingston's latest range of DDR4 FURY RAM kits has been unleashed](https://www.pcgamer.com/kingstons-latest-range-of-ddr4-fury-ram-kits-has-been-unleashed)
  - [Rogue Lords, a roguelike where you play the Devil, is out now](https://www.pcgamer.com/rogue-lords-a-roguelike-where-you-play-the-devil-is-out-now)
+ - [Kingston's latest range of DDR4 FURY RAM kits has been unleashed](https://www.pcgamer.com/kingstons-latest-range-of-ddr4-fury-ram-kits-has-been-unleashed)
  - [Diablo 2: Resurrected mods are here already](https://www.pcgamer.com/diablo-2-resurrected-mods-are-here-already)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
