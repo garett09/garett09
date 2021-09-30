@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kratos’ voice actor says God of War: Ragnarok delayed ‘because of me’](https://www.theverge.com/2021/9/30/22702435/kratos-voice-actor-behind-sony-god-of-war-ragnarok-delay-ps5)
- - [Mexico City-based Higo, which offers a B2B payments service for SMBs in Latin America, raises $23M Series A led by Accel (Mary Ann Azevedo/TechCrunch)](http://www.techmeme.com/210930/p32#a210930p32)
- - [The Game Awards will take place in December](https://www.theverge.com/2021/9/30/22701306/the-game-awards-2021-date-show-live-stream)<!-- TECH:END -->
+ - [FCC is laser-focused on erasing the digital divide and crushing robocalls     - CNET](https://www.cnet.com/home/internet/fcc-is-laser-focused-on-erasing-the-digital-divide-and-crushing-robocalls/#ftag=CAD590a51e)
+ - [Save 25% on an LG 55-inch 4K OLED TV, and more of the best OLED TV deals](https://www.androidauthority.com/oled-tv-deals-1126077/)
+ - [‘Rife with sexism’: employees of Jeff Bezos’ Blue Origin describe ‘toxic’ workplace culture](https://www.theverge.com/2021/9/30/22702335/jeff-bezos-employees-essay-blue-origin-toxic-workplace)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
