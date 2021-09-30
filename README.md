@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [If you know !!](http://9gag.com/gag/aP3Nomg)
- - 🚯 [This Kinetic Chess Set](http://9gag.com/gag/azMNK1x)
- - 🚯 [The state of Britain.](http://9gag.com/gag/awMR16y)<!-- MEMES:END -->
+ - 🚖 [This is way too high](http://9gag.com/gag/aGp3MKw)
+ - 🚯 [A license to drive&hellip;](http://9gag.com/gag/aEprA2N)
+ - 🚯 [Back when The Simpsons was good!](http://9gag.com/gag/aXoDV5v)<!-- MEMES:END -->
 
 --- 
 
