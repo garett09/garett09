@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Researchers: a flaw in Apple Pay lets attackers make a Visa payment with a locked iPhone in Express Transit mode; Apple calls it "a concern with a Visa system" (BBC)](http://www.techmeme.com/210930/p10#a210930p10)
- - [Apple TV+ Guide: Here are all the Apple TV shows and movies available now](https://techncruncher.blogspot.com/2021/09/apple-tv-guide-here-are-all-apple-tv.html)
- - [Apparent flaw allows hackers to steal money from a locked iPhone, when a Visa card is set up with Apple Pay Express Transit](https://techncruncher.blogspot.com/2021/09/apparent-flaw-allows-hackers-to-steal.html)<!-- TECH:END -->
+ - [Deliveroo partners with UK supermarket Morrisons to launch rapid delivery service Hop, initially in select London areas, with a goal of 10-15 minute deliveries (Tim Bradshaw/Financial Times)](http://www.techmeme.com/210930/p17#a210930p17)
+ - [How Healthy Is Farm Soil? Check How Active Its Microbes Are](https://www.wired.com/story/how-healthy-is-a-farms-soil-check-how-active-its-microbes-are)
+ - [These Smart Light Bars Will Brighten Up Your Living Room](https://www.wired.com/review/govee-flow-pro)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
