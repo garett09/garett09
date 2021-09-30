@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Inferno stands to become yet another era-defining X-Men book](https://www.polygon.com/comics/22700689/marvel-x-men-inferno-1-review)
  - [Labor Union Suggests $18M Activision Blizzard Settlement Akin To Pennies](https://kotaku.com/labor-union-suggests-18m-activision-blizzard-settlemen-1847771572)
- - [Report: Games In The Works For 4K Nintendo Console That Doesn't Officially Exist [Update]](https://kotaku.com/report-games-in-the-works-for-4k-nintendo-console-that-1847771280)
- - [Engineer builds an Apex Legends loot robot that actually walks](https://www.pcgamer.com/real-apex-legends-robot)<!-- GAME:END -->
+ - [Report: Games In The Works For 4K Nintendo Console That Doesn't Officially Exist [Update]](https://kotaku.com/report-games-in-the-works-for-4k-nintendo-console-that-1847771280)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
