@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Earth Defense Force 6 Delayed To 2022](https://kotaku.com/earth-defense-force-6-delayed-to-2022-1847772946)
  - [How to find briar branches in New World](https://www.pcgamer.com/new-world-briar-branches-locations)
- - [Tokyo Game Show 2021 Recap: Xbox Cloud Gaming launches in Japan](https://news.xbox.com/en-us/2021/09/30/xbox-at-tokyo-game-show-2021-recap/)
- - [Ikea Is Serious Enough To Attend Japan's Biggest Gaming Expo](https://kotaku.com/ikea-is-serious-enough-to-attend-japans-biggest-gaming-1847772902)<!-- GAME:END -->
+ - [Tokyo Game Show 2021 Recap: Xbox Cloud Gaming Launches in Japan](https://news.xbox.com/en-us/2021/09/30/xbox-at-tokyo-game-show-2021-recap/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
