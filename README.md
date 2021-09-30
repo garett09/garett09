@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Diablo 2: Resurrected mods are here already](https://www.pcgamer.com/diablo-2-resurrected-mods-are-here-already)
- - [King Of Fighters XV Director Dishes On The Series' New, Possibly Best Girl](https://kotaku.com/king-of-fighters-xv-director-dishes-on-the-series-new-1847768613)
- - [Inferno stands to become yet another era-defining X-Men book](https://www.polygon.com/comics/22700689/marvel-x-men-inferno-1-review)<!-- GAME:END -->
+ - [Kingston's latest range of DDR4 FURY RAM kits has been unleashed](https://www.pcgamer.com/kingstons-latest-range-of-ddr4-fury-ram-kits-has-been-unleashed)
+ - [Rogue Lords, a roguelike where you play the Devil, is out now](https://www.pcgamer.com/rogue-lords-a-roguelike-where-you-play-the-devil-is-out-now)
+ - [Diablo 2: Resurrected mods are here already](https://www.pcgamer.com/diablo-2-resurrected-mods-are-here-already)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
