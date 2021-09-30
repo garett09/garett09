@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How EA is expanding its footprint on mobile, the fastest growing gaming category, as part of a cross-platform portfolio to reach new consumers (Nick Statt/Protocol)](http://www.techmeme.com/210930/p4#a210930p4)
- - [Guess what search term is most popular on Bing? It starts with a “G”](https://www.androidauthority.com/google-bing-search-3032917/)
- - [WhatsApp to stop working on these 53 iPhone, Android phones](https://techncruncher.blogspot.com/2021/09/whatsapp-to-stop-working-on-these-53.html)<!-- TECH:END -->
+ - [Daily Authority: Uninstall the latest Trojan, now ⚠](https://www.androidauthority.com/newsletters/da-september-30-2021/)
+ - [Vivo X70 Pro Plus review: A true premium flagship experience?](https://www.androidauthority.com/vivo-x70-pro-plus-review-3029151/)
+ - [Vivo X70 Pro and X70 Pro Plus debut in India: Big camera credentials, big price](https://www.androidauthority.com/vivo-x70-pro-plus-india-3032934/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
