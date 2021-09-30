@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Steam's 2021 Digital Tabletop Fest is all about RPGs](https://www.pcgamer.com/steams-2021-digital-tabletop-fest-is-all-about-rpgs)
- - [EA Is Encouraging Gamers To Stop Being Jerks Via Battlefield 2042](https://kotaku.com/ea-is-encouraging-gamers-to-stop-being-assholes-via-bat-1847778128)
- - [World of Warcraft Classic rewinds, tries a new seasonal model](https://www.polygon.com/22703040/world-of-warcraft-classic-season-of-mastery-details)<!-- GAME:END -->
+ - [The long road to the secret ending of Pathfinder: Kingmaker](https://www.pcgamer.com/the-long-road-to-the-secret-ending-of-pathfinder-kingmaker)
+ - [Dying Light 2: Everything we know about the next zombie parkour game](https://www.pcgamer.com/dying-light-2-release-date)
+ - [Steam's 2021 Digital Tabletop Fest is all about RPGs](https://www.pcgamer.com/steams-2021-digital-tabletop-fest-is-all-about-rpgs)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
