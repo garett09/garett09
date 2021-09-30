@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Well 9gag, I have Covid. If I don&#039;t make it, thanks for the years of laughs](http://9gag.com/gag/aK601d1)
- - 🚯 [Every damn time](http://9gag.com/gag/aGp38RK)
- - 🚯 [Look in the mirror](http://9gag.com/gag/azMNP2K)<!-- MEMES:END -->
+ - 🚖 [Dat Smile](http://9gag.com/gag/aeAo1Zv)
+ - 🚯 [Gotta have two camera angles](http://9gag.com/gag/amPjGA4)
+ - 🚯 [Every damn time](http://9gag.com/gag/aGp38RK)<!-- MEMES:END -->
 
 --- 
 
