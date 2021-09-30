@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Earth Defense Force 6 Delayed To 2022](https://kotaku.com/earth-defense-force-6-delayed-to-2022-1847772946)
- - [How to find briar branches in New World](https://www.pcgamer.com/new-world-briar-branches-locations)
- - [Tokyo Game Show 2021 Recap: Xbox Cloud Gaming Launches in Japan](https://news.xbox.com/en-us/2021/09/30/xbox-at-tokyo-game-show-2021-recap/)<!-- GAME:END -->
+ - [New World review-in-progress: It's complicated](https://www.pcgamer.com/new-world-review)
+ - [Install Windows 11 without worrying about TPM 2.0 or blocked updates with this workaround](https://www.pcgamer.com/install-windows-11-without-worrying-about-tpm-20-or-blocked-updates-with-this-workaround)
+ - [League of Legends Champ Arrested On Suspicion Of Drug Trafficking](https://kotaku.com/league-of-legends-champ-arrested-on-suspicion-of-drug-t-1847773091)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
