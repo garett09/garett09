@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony acquires Bluepoint Games, the studio behind its incredible remasters and remakes](https://www.theverge.com/2021/9/30/22665426/sony-buys-bluepoint-games-remake-remaster-demons-souls-shadow-ico-uncharted)
- - [Best Deals Sept. 30: $297 Panasonic 4K Digital Camera, $120 off Dell 27-inch gaming monitor, and more!](https://appleinsider.com/articles/21/09/30/best-deals-september-30-297-panasonic-4k-digital-camera-120-off-dell-27-inch-gaming-monitor-and-more?utm_medium=rss)
- - [Apple for the first time shares top paid podcast subscriptions and free channels globally, using number of devices that played at least 1 second of an episode (Todd Spangler/Variety)](http://www.techmeme.com/210930/p29#a210930p29)<!-- TECH:END -->
+ - [Kratos’ voice actor says God of War: Ragnarok delayed ‘because of me’](https://www.theverge.com/2021/9/30/22702435/kratos-voice-actor-behind-sony-god-of-war-ragnarok-delay-ps5)
+ - [Mexico City-based Higo, which offers a B2B payments service for SMBs in Latin America, raises $23M Series A led by Accel (Mary Ann Azevedo/TechCrunch)](http://www.techmeme.com/210930/p32#a210930p32)
+ - [The Game Awards will take place in December](https://www.theverge.com/2021/9/30/22701306/the-game-awards-2021-date-show-live-stream)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
