@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This guy is a genius, well done](http://9gag.com/gag/ad8ZQAZ)
- - 🚯 [A bunch of idiots thought that the hard shoulder was the exit lane and started piling up behind a truck...](http://9gag.com/gag/anQp2qL)
- - 🚯 [If you know !!](http://9gag.com/gag/aP3Nomg)<!-- MEMES:END -->
+ - 🚖 [If you know !!](http://9gag.com/gag/aP3Nomg)
+ - 🚯 [This Kinetic Chess Set](http://9gag.com/gag/azMNK1x)
+ - 🚯 [The state of Britain.](http://9gag.com/gag/awMR16y)<!-- MEMES:END -->
 
 --- 
 
