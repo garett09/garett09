@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Shares of London-listed Alphawave, which develops chips with fast data flows, dropped up to 50% after FT report highlighted close links to key contract partners (Financial Times)](http://www.techmeme.com/210930/p27#a210930p27)
- - [The Best Barefoot Shoes for Walking or Running](https://www.wired.com/gallery/best-barefoot-shoes)
- - [Nintendo categorically denies that a 4K Switch Pro is in development](https://www.theverge.com/2021/9/29/22701435/nintendo-categorically-denies-4k-switch-pro-development)<!-- TECH:END -->
+ - [Sony acquires Bluepoint Games, the studio behind its incredible remasters and remakes](https://www.theverge.com/2021/9/30/22665426/sony-buys-bluepoint-games-remake-remaster-demons-souls-shadow-ico-uncharted)
+ - [Best Deals Sept. 30: $297 Panasonic 4K Digital Camera, $120 off Dell 27-inch gaming monitor, and more!](https://appleinsider.com/articles/21/09/30/best-deals-september-30-297-panasonic-4k-digital-camera-120-off-dell-27-inch-gaming-monitor-and-more?utm_medium=rss)
+ - [Apple for the first time shares top paid podcast subscriptions and free channels globally, using number of devices that played at least 1 second of an episode (Todd Spangler/Variety)](http://www.techmeme.com/210930/p29#a210930p29)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
