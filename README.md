@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Right in meow meow](http://9gag.com/gag/aYo8P3O)
- - 🚯 [Even the weather wants to fvck you up in Brazil.](http://9gag.com/gag/aAbW2Y9)
- - 🚯 [A very important conversation](http://9gag.com/gag/aGp3GBK)<!-- MEMES:END -->
+ - 🚖 [A very important conversation](http://9gag.com/gag/aGp3GBK)
+ - 🚯 [There are certain delays at the construction area...](http://9gag.com/gag/aP3N80P)
+ - 🚯 [Even the weather wants to fvck you up in Brazil.](http://9gag.com/gag/aAbW2Y9)<!-- MEMES:END -->
 
 --- 
 
