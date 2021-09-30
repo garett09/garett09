@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Diablo 2: Resurrected mods are here already](https://www.pcgamer.com/diablo-2-resurrected-mods-are-here-already)
  - [King Of Fighters XV Director Dishes On The Series' New, Possibly Best Girl](https://kotaku.com/king-of-fighters-xv-director-dishes-on-the-series-new-1847768613)
- - [Inferno stands to become yet another era-defining X-Men book](https://www.polygon.com/comics/22700689/marvel-x-men-inferno-1-review)
- - [Labor Union Suggests $18M Activision Blizzard Settlement Akin To Pennies](https://kotaku.com/labor-union-suggests-18m-activision-blizzard-settlemen-1847771572)<!-- GAME:END -->
+ - [Inferno stands to become yet another era-defining X-Men book](https://www.polygon.com/comics/22700689/marvel-x-men-inferno-1-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
