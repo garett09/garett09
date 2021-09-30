@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Rogue Lords, a roguelike where you play the Devil, is out now](https://www.pcgamer.com/rogue-lords-a-roguelike-where-you-play-the-devil-is-out-now)
- - [Kingston's latest range of DDR4 FURY RAM kits has been unleashed](https://www.pcgamer.com/kingstons-latest-range-of-ddr4-fury-ram-kits-has-been-unleashed)
- - [Diablo 2: Resurrected mods are here already](https://www.pcgamer.com/diablo-2-resurrected-mods-are-here-already)<!-- GAME:END -->
+ - [How to find briar branches in New World](https://www.pcgamer.com/new-world-briar-branches-locations)
+ - [Tokyo Game Show 2021 Recap: Xbox Cloud Gaming launches in Japan](https://news.xbox.com/en-us/2021/09/30/xbox-at-tokyo-game-show-2021-recap/)
+ - [Ikea Is Serious Enough To Attend Japan's Biggest Gaming Expo](https://kotaku.com/ikea-is-serious-enough-to-attend-japans-biggest-gaming-1847772902)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
