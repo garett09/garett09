@@ -194,8 +194,8 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Dat Smile](http://9gag.com/gag/aeAo1Zv)
- - 🚯 [My life in general](http://9gag.com/gag/ajmbOKQ)
+ - 🚖 [Still better Dumbledore than Gandalf](http://9gag.com/gag/aWjKLr2)
+ - 🚯 [Every damn time](http://9gag.com/gag/aGp38RK)
  - 🚯 [Just give me a keg](http://9gag.com/gag/aRX5Z8Q)<!-- MEMES:END -->
 
 --- 
