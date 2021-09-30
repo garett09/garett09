@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple issues Mac 'Device Support Update' for restoring iOS, iPadOS devices](https://appleinsider.com/articles/21/09/30/apple-issues-mac-device-support-update-for-restoring-ios-ipados-devices?utm_medium=rss)
- - [AstraZeneca COVID-19 vaccine shows 74% efficacy in large US trial](https://techncruncher.blogspot.com/2021/09/astrazeneca-covid-19-vaccine-shows-74.html)
- - [Windows 11 rolls out redesigned Paint app ahead of official release](https://techncruncher.blogspot.com/2021/09/windows-11-rolls-out-redesigned-paint.html)<!-- TECH:END -->
+ - [Shares of London-listed Alphawave, which develops chips with fast data flows, dropped up to 50% after FT report highlighted close links to key contract partners (Financial Times)](http://www.techmeme.com/210930/p27#a210930p27)
+ - [The Best Barefoot Shoes for Walking or Running](https://www.wired.com/gallery/best-barefoot-shoes)
+ - [Nintendo categorically denies that a 4K Switch Pro is in development](https://www.theverge.com/2021/9/29/22701435/nintendo-categorically-denies-4k-switch-pro-development)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
