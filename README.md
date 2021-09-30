@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Inventions that never really caught on](http://9gag.com/gag/aQowvKr)
- - 🚯 [This Man in Pakistan&rsquo;s Women&rsquo;s march](http://9gag.com/gag/a6EvXON)
- - 🚯 [Road-rage with a tractor](http://9gag.com/gag/aDdp6z7)<!-- MEMES:END -->
+ - 🚖 [Road-rage with a tractor](http://9gag.com/gag/aDdp6z7)
+ - 🚯 [Inventions that never really caught on](http://9gag.com/gag/aQowvKr)
+ - 🚯 [Wamen](http://9gag.com/gag/anQpR8B)<!-- MEMES:END -->
 
 --- 
 
