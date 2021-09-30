@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [World of Warcraft Classic rewinds, tries a new seasonal model](https://www.polygon.com/22703040/world-of-warcraft-classic-season-of-mastery-details)
- - [The Vast Open World of Dying Light 2 Stay Human](https://news.xbox.com/en-us/2021/09/30/the-vast-open-world-of-dying-light-2-stay-human/)
- - [Deathloop lets me play my way and get away consequence free](https://www.polygon.com/22702431/deathloop-dishonored-morality-choice-consequence-arkane-endings)<!-- GAME:END -->
+ - [Steam's 2021 Digital Tabletop Fest is all about RPGs](https://www.pcgamer.com/steams-2021-digital-tabletop-fest-is-all-about-rpgs)
+ - [EA Is Encouraging Gamers To Stop Being Jerks Via Battlefield 2042](https://kotaku.com/ea-is-encouraging-gamers-to-stop-being-assholes-via-bat-1847778128)
+ - [World of Warcraft Classic rewinds, tries a new seasonal model](https://www.polygon.com/22703040/world-of-warcraft-classic-season-of-mastery-details)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
