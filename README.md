@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Rumor: Apple Watch Series 7 preorders begin next week ahead of mid-October release](https://appleinsider.com/articles/21/09/30/rumor-apple-watch-series-7-preorders-begin-next-week-ahead-of-mid-october-release?utm_medium=rss)
- - [Zoom says it no longer plans to acquire cloud-based call center software maker Five9, following the FCC's review of the $14.7B deal on national security grounds (Jordan Novet/CNBC)](http://www.techmeme.com/210930/p43#a210930p43)
- - [Retailer Neiman Marcus says it notified 4.6M customers that their personal info, including credit card numbers, may have been exposed in a May 2020 data breach (Kim Lyons/The Verge)](http://www.techmeme.com/210930/p42#a210930p42)<!-- TECH:END -->
+ - [Foxconn is buying Lordstown Motors’ Ohio EV factory for $230 million](https://www.theverge.com/2021/9/30/22702322/lordstown-motors-foxconn-ohio-electric-vehicles)
+ - [Zoom won’t buy Five9 after all](https://www.theverge.com/2021/9/30/22703301/zoom-five9-acquisition-merger-agreement-terminated)
+ - [Disney and Scarlett Johansson have settled their lawsuit](https://www.theverge.com/2021/9/30/22703409/disney-scarlett-johansson-lawsuit-settled)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
