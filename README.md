@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [One-time purchase Microsoft Office 2021 coming to Mac on Oct. 5](https://appleinsider.com/articles/21/10/01/one-time-purchase-microsoft-office-2021-coming-to-mac-on-oct-5?utm_medium=rss)
- - [Quantum computing company IonQ to go public via SPAC, in a deal expected to raise $650M at a valuation of $2B (Mark Sullivan/Fast Company)](http://www.techmeme.com/211001/p14#a211001p14)
- - [Austria-based PSPDFkit, which provides APIs and an SDK for document processing, raises &euro;100M, its first outside investment, from Insight Partners (Ingrid Lunden/TechCrunch)](http://www.techmeme.com/211001/p13#a211001p13)<!-- TECH:END -->
+ - [Sensor Tower: Tencent's Honor of Kings made over $10B since its launch in 2015, the first mobile game to do so, with $2B+ in 2021 alone (Danielle Partis/GamesIndustry.biz)](http://www.techmeme.com/211001/p15#a211001p15)
+ - [How to use WhatsApp dark mode on Android, iOS and desktop](https://techncruncher.blogspot.com/2021/10/how-to-use-whatsapp-dark-mode-on.html)
+ - [Why does Blink still exist?](https://www.theverge.com/22704290/amazon-blink-ring-camera-doorbell-brands-smart-home-why)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
