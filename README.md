@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Stranger of Paradise teaches Final Fantasy fans how to enjoy Souls-likes](https://www.polygon.com/22703154/stranger-of-paradise-final-fantasy-team-ninja-koei-tecmo-square-enix)
- - [Phison's new PCIe 5.0 chip ushers in the new age of super fast SSD storage](https://www.pcgamer.com/phison-pcie-5.0-ssd-controller-announcement)
- - [The best settings for New World](https://www.pcgamer.com/the-best-settings-for-new-world)<!-- GAME:END -->
+ - [A new Stranger of Paradise Trial Version is now live](http://feedproxy.google.com/~r/PSBlog/~3/Pde8iUrwXok/)
+ - [A new Stranger of Paradise Trial Version is now live](https://blog.playstation.com/2021/10/01/a-new-stranger-of-paradise-trial-version-is-now-live/)
+ - [Intel's new brain chip uses its first 7nm silicon](https://www.pcgamer.com/intels-new-brain-chip-uses-its-first-7nm-silicon)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
