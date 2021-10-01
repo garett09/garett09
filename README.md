@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Even the weather wants to fvck you up in Brazil.](http://9gag.com/gag/aAbW2Y9)
- - 🚯 [Keeping the same price for 25 years](http://9gag.com/gag/axMxRwY)
- - 🚯 [Chad on CNN](http://9gag.com/gag/aZ0AjPW)<!-- MEMES:END -->
+ - 🚖 [It’s true](https://www.reddit.com/r/memes/comments/pyya0k/its_true/)
+ - 🚯 [Even the weather wants to fvck you up in Brazil.](http://9gag.com/gag/aAbW2Y9)
+ - 🚯 [Keeping the same price for 25 years](http://9gag.com/gag/axMxRwY)<!-- MEMES:END -->
 
 --- 
 
