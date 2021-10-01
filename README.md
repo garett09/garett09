@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Facebook to update pre-campaign audience estimates to be less specific, showing a range instead of a number, after backlash for overestimating audience numbers (Allison Schiff/AdExchanger)](http://www.techmeme.com/211001/p11#a211001p11)
- - [New accessibility features are coming to Halo Infinite](https://www.theverge.com/2021/10/1/22704024/halo-infinite-accessibility-features-colorblind-steering-controls)
- - [Google Pixel 6 Japanese TV ad drops, and it’s full of widgets](https://www.androidauthority.com/google-pixel-6-japanese-tv-ad-3033637/)<!-- TECH:END -->
+ - [One-time purchase Microsoft Office 2021 coming to Mac on Oct. 5](https://appleinsider.com/articles/21/10/01/one-time-purchase-microsoft-office-2021-coming-to-mac-on-oct-5?utm_medium=rss)
+ - [Quantum computing company IonQ to go public via SPAC, in a deal expected to raise $650M at a valuation of $2B (Mark Sullivan/Fast Company)](http://www.techmeme.com/211001/p14#a211001p14)
+ - [Austria-based PSPDFkit, which provides APIs and an SDK for document processing, raises &euro;100M, its first outside investment, from Insight Partners (Ingrid Lunden/TechCrunch)](http://www.techmeme.com/211001/p13#a211001p13)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
