@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [BioShock 2 is one of the boldest sequels ever made](https://www.pcgamer.com/bioshock-2-is-one-of-the-boldest-sequels-ever-made)
- - [Best Buy GPU restock for Nvidia RTX 30-series happening today, October 1](https://www.pcgamer.com/best-buy-gpu-restock-rumoured-for-nvidia-rtx-30-series-founders-edition-this-week)
- - [Five Nights at Freddy's movie loses its director](https://www.pcgamer.com/five-nights-at-freddys-movie-loses-its-director)<!-- GAME:END -->
+ - [Stranger of Paradise teaches Final Fantasy fans how to enjoy Souls-likes](https://www.polygon.com/22703154/stranger-of-paradise-final-fantasy-team-ninja-koei-tecmo-square-enix)
+ - [Phison's new PCIe 5.0 chip ushers in the new age of super fast SSD storage](https://www.pcgamer.com/phison-pcie-5.0-ssd-controller-announcement)
+ - [The best settings for New World](https://www.pcgamer.com/the-best-settings-for-new-world)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
