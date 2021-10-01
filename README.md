@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [TrialSpark, which wants to leverage its clinical trials management software into drug discovery, closed $156M Series C at a $1B+ valuation earlier this year (Emma Court/Bloomberg)](http://www.techmeme.com/210930/p46#a210930p46)
- - [Apple officially releases SF Symbols 3 and updates for San Francisco and New York fonts](https://techncruncher.blogspot.com/2021/10/apple-officially-releases-sf-symbols-3.html)
- - [EA promotes Laura Miele to COO, making her one of the most powerful women in gaming](https://www.theverge.com/2021/9/30/22703469/ea-promotes-laura-miele-chief-studios-operating-officer-coo)<!-- TECH:END -->
+ - [YouTube TV and NBCUniversal agree to ‘short’ extension to avoid channels disappearing](https://www.theverge.com/2021/9/30/22702511/youtube-tv-nbcuniversal-extension-dispute-negotiation)
+ - [CredAvenue, an online marketplace for companies seeking loans, financial institutions, and investors, raises $90M Series A, India's largest ever, led by Sequoia (The Economic Times)](http://www.techmeme.com/210930/p47#a210930p47)
+ - [Earth is losing its shine and scientists suspect climate change is the culprit     - CNET](https://www.cnet.com/news/earth-is-losing-its-shine-and-scientists-suspect-climate-change-is-the-culprit/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
