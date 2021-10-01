@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy Z Fold 2’s October patch starts rolling out in one region](https://www.androidauthority.com/samsung-galaxy-z-fold-2-update-1191470/)
- - [MaestroQA, whose ML-powered software finds customer service interactions that should be reviewed by a manager, raises $25M Series A led by Base10 Partners (Rebecca Szkutak/Forbes)](http://www.techmeme.com/211001/p2#a211001p2)
- - [Activ Surgical, which makes hardware-agnostic software for minimally invasive surgical systems, raises $45M Series B led by Cota Capital (Emma Betuel/TechCrunch)](http://www.techmeme.com/211001/p1#a211001p1)<!-- TECH:END -->
+ - [Investigation finds 45 criminal cases that cite Google geolocation data, obtained via a geofence warrant, to place suspects inside Capitol during Jan. 6 riots (Mark Harris/Wired)](http://www.techmeme.com/211001/p3#a211001p3)
+ - [Samsung might be pinning a lot of its hopes on the base Galaxy S22](https://www.androidauthority.com/samsung-galaxy-s22-production-3030698/)
+ - [Best Roku to buy for 2021     - CNET](https://www.cnet.com/tech/home-entertainment/best-roku/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
