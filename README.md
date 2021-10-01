@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Halloween Countdown: 31 days of horror to watch](https://www.polygon.com/22702474/best-halloween-movies-tv-to-watch-stream)
- - [New game modes fall into Destruction AllStars](http://feedproxy.google.com/~r/PSBlog/~3/5ZnO_asmT3M/)
- - [New game modes fall into Destruction AllStars](https://blog.playstation.com/2021/10/01/new-game-modes-fall-into-destruction-allstars/)<!-- GAME:END -->
+ - [Netflix's Squid Game Is A Is A Furious Prophetic Show That’s Taking The World By Storm](https://kotaku.com/netflixs-squid-game-is-a-is-a-furious-prophetic-show-th-1847781001)
+ - [Gungrave G.O.R.E: Ikumi Nakamura talks “Ikumi-nized” approach to character designs](http://feedproxy.google.com/~r/PSBlog/~3/G4DPXSruB24/)
+ - [Gungrave G.O.R.E: Ikumi Nakamura talks “Ikumi-nized” approach to character designs](https://blog.playstation.com/2021/10/01/gungrave-g-o-r-e-ikumi-nakamura-talks-ikumi-nized-approach-to-character-designs/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
