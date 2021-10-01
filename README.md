@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Starfield: Everything we know about Bethesda's next RPG](https://www.pcgamer.com/starfield-release-date-trailer-2022)
  - [The long road to the secret ending of Pathfinder: Kingmaker](https://www.pcgamer.com/the-long-road-to-the-secret-ending-of-pathfinder-kingmaker)
- - [Dying Light 2: Everything we know about the next zombie parkour game](https://www.pcgamer.com/dying-light-2-release-date)
- - [Steam's 2021 Digital Tabletop Fest is all about RPGs](https://www.pcgamer.com/steams-2021-digital-tabletop-fest-is-all-about-rpgs)<!-- GAME:END -->
+ - [Dying Light 2: Everything we know about the next zombie parkour game](https://www.pcgamer.com/dying-light-2-release-date)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
