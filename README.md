@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I hope they get a refund for those lessons](http://9gag.com/gag/a27BbZd)
+ - 🚖 [Even the weather wants to fvck you up in Brazil.](http://9gag.com/gag/aAbW2Y9)
  - 🚯 [Keeping the same price for 25 years](http://9gag.com/gag/axMxRwY)
- - 🚯 [Monkey](http://9gag.com/gag/aoMrL73)<!-- MEMES:END -->
+ - 🚯 [Chad on CNN](http://9gag.com/gag/aZ0AjPW)<!-- MEMES:END -->
 
 --- 
 
