@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Sherlock Holmes Chapter One Launching November 16 for Xbox Series X|S](https://news.xbox.com/en-us/2021/10/01/sherlock-holmes-chapter-one-launching-november-16-for-xbox-series-xs/)
- - [Tavern Master's like a good night out without the hangover](https://www.pcgamer.com/tavern-master-preview)
- - [Starfield’s Massive Script Equals Massive Amounts Of Work, Say Devs](https://kotaku.com/starfield-s-massive-script-equals-massive-amounts-of-wo-1847783307)<!-- GAME:END -->
+ - [Nickelodeon All-Star Brawl is Passion Project Platform Fighter](https://news.xbox.com/en-us/2021/10/01/nickelodeon-all-star-brawl-is-passion-project-platform-fighter/)
+ - [Squid Game’s dark finale cements the show’s hope for humanity](https://www.polygon.com/22704637/squid-game-finale-recap-analysis)
+ - [All Your Celeb Faves Who Are Now Peddling NFTs](https://kotaku.com/a-list-of-your-fave-celebrities-who-are-now-peddling-nf-1847783209)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
