@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Five Nights at Freddy's movie loses its director](https://www.pcgamer.com/five-nights-at-freddys-movie-loses-its-director)
- - [Venom: Let There Be Carnage’s after-credits scene, explained](https://www.polygon.com/22701094/venom-2-let-there-be-carnage-after-credits-scene)
- - [Get on the Squid Game train if you haven't already](https://www.pcgamer.com/squid-game-review)<!-- GAME:END -->
+ - [BioShock 2 is one of the boldest sequels ever made](https://www.pcgamer.com/bioshock-2-is-one-of-the-boldest-sequels-ever-made)
+ - [Best Buy GPU restock for Nvidia RTX 30-series happening today, October 1](https://www.pcgamer.com/best-buy-gpu-restock-rumoured-for-nvidia-rtx-30-series-founders-edition-this-week)
+ - [Five Nights at Freddy's movie loses its director](https://www.pcgamer.com/five-nights-at-freddys-movie-loses-its-director)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
