@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [President Biden to convene a 30-country meeting this month to try to ramp up global efforts to address the ransomware threat (Sean Lyngaas/CNN)](http://www.techmeme.com/211001/p21#a211001p21)
- - [South Korean ISP SK Broadband sues Netflix for millions in bandwidth usage fees](https://www.theverge.com/2021/10/1/22704313/sk-broadband-netflix-suing-for-payment-squid-game)
- - [Google halts plans for Google Pay-based banking service](https://www.theverge.com/2021/10/1/22704500/google-pay-plex-canceled-checking-savings-accounts)<!-- TECH:END -->
+ - [Discord is ending its Stage Discovery tool but says Stage Channels are doing well](https://www.theverge.com/2021/10/1/22704749/discord-ending-stage-discovery-channels)
+ - [Twitch is testing a feature that lets viewers pay to promote streamers](https://www.theverge.com/2021/10/1/22704731/twitch-testing-new-paid-front-page-promotion-feature)
+ - [Ford's Mustang Mach-E SUV gets tail-happy, fails Swedish moose test     - Roadshow](https://www.cnet.com/roadshow/news/ford-mustang-mach-e-suv-moose-test-fail/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
