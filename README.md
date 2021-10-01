@@ -195,7 +195,7 @@ Windows                  7 hrs 16 mins       ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [A friendly game of &quot;Altinha&quot; in Brazil](http://9gag.com/gag/aP3NpKG)
- - 🚯 [Simpler times](http://9gag.com/gag/aAbWN39)
+ - 🚯 [Eating the worlds Hottest Chilli Pepper without thinking.](http://9gag.com/gag/anQpW0b)
  - 🚯 [Idiots overtaking on the emergency lane get blocked by trucker](http://9gag.com/gag/aXoDd6v)<!-- MEMES:END -->
 
 --- 
