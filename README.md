@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [i like october](https://www.reddit.com/r/memes/comments/pz1k70/i_like_october/)
- - 🚯 [gotcha hehe](https://www.reddit.com/r/memes/comments/pz1cdg/gotcha_hehe/)
- - 🚯 [;)](https://www.reddit.com/r/funny/comments/pz18pf/_/)<!-- MEMES:END -->
+ - 🚖 [Coincidence? I think not! This kid knew exactly what he was doing](https://www.reddit.com/r/funny/comments/pz2ac8/coincidence_i_think_not_this_kid_knew_exactly/)
+ - 🚯 [More spooktober](https://www.reddit.com/r/memes/comments/pz1rk5/more_spooktober/)
+ - 🚯 [Leonardo Da Vinci knew...](https://www.reddit.com/r/memes/comments/pz1e92/leonardo_da_vinci_knew/)<!-- MEMES:END -->
 
 --- 
 
