@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple's Tim Cook to meet with EU competition chief while in New York](https://appleinsider.com/articles/21/10/01/apples-tim-cook-to-meet-with-eu-competition-chief-while-in-new-york?utm_medium=rss)
- - [Sources: Biden administration is considering ways to impose bank-like regulation on stablecoin issuers, including prodding them to register as banks (Wall Street Journal)](http://www.techmeme.com/211001/p19#a211001p19)
- - [How to take macro photos and video on iPhone 13 Pro](https://appleinsider.com/articles/21/10/01/how-to-take-macro-photos-and-video-on-iphone-13-pro?utm_medium=rss)<!-- TECH:END -->
+ - [President Biden to convene a 30-country meeting this month to try to ramp up global efforts to address the ransomware threat (Sean Lyngaas/CNN)](http://www.techmeme.com/211001/p21#a211001p21)
+ - [South Korean ISP SK Broadband sues Netflix for millions in bandwidth usage fees](https://www.theverge.com/2021/10/1/22704313/sk-broadband-netflix-suing-for-payment-squid-game)
+ - [Google halts plans for Google Pay-based banking service](https://www.theverge.com/2021/10/1/22704500/google-pay-plex-canceled-checking-savings-accounts)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
