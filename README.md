@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Starfield: Everything we know about Bethesda's next RPG](https://www.pcgamer.com/starfield-release-date-trailer-2022)
- - [The long road to the secret ending of Pathfinder: Kingmaker](https://www.pcgamer.com/the-long-road-to-the-secret-ending-of-pathfinder-kingmaker)
- - [Dying Light 2: Everything we know about the next zombie parkour game](https://www.pcgamer.com/dying-light-2-release-date)<!-- GAME:END -->
+ - [Five Nights at Freddy's movie loses its director](https://www.pcgamer.com/five-nights-at-freddys-movie-loses-its-director)
+ - [Venom: Let There Be Carnage’s after-credits scene, explained](https://www.polygon.com/22701094/venom-2-let-there-be-carnage-after-credits-scene)
+ - [Get on the Squid Game train if you haven't already](https://www.pcgamer.com/squid-game-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
