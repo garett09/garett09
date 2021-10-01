@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Second Extinction: Research and Destroy Update Available Now](https://news.xbox.com/en-us/2021/10/01/second-extinction-research-and-destroy-update-available-now/)
- - [That New Final Fantasy Origins Trailer Is Actually Pretty Cool](https://kotaku.com/that-new-final-fantasy-origins-trailer-is-actually-pret-1847782744)
- - [Twitch Announces Test Of ‘Pay-To-Win’ Promotion Feature](https://kotaku.com/twitch-announces-test-of-pay-to-win-promotion-feature-1847782564)<!-- GAME:END -->
+ - [Sherlock Holmes Chapter One Launching November 16 for Xbox Series X|S](https://news.xbox.com/en-us/2021/10/01/sherlock-holmes-chapter-one-launching-november-16-for-xbox-series-xs/)
+ - [Tavern Master's like a good night out without the hangover](https://www.pcgamer.com/tavern-master-preview)
+ - [Starfield’s Massive Script Equals Massive Amounts Of Work, Say Devs](https://kotaku.com/starfield-s-massive-script-equals-massive-amounts-of-wo-1847783307)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
