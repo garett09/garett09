@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google says Bing users search for Google more than anything else](https://www.theverge.com/2021/10/1/22703263/google-lawyer-argues-bing-used-find-google-top-search-defaults)
- - [Step by step guide for downgrading instantly to Windows 10](https://techncruncher.blogspot.com/2021/10/step-by-step-guide-for-downgrading.html)
- - [You told us: The Note-inspired Galaxy S22 Ultra design is growing on you](https://www.androidauthority.com/samsung-galaxy-s22-ultra-design-poll-results-3033468/)<!-- TECH:END -->
+ - [A look at the $12B location data industry, including how collectors, aggregators, and marketplaces monetize user data (The Markup)](http://www.techmeme.com/211001/p4#a211001p4)
+ - [Users still not upgrading to iOS 15 as quickly as iOS 14](https://appleinsider.com/articles/21/10/01/users-still-not-upgrading-to-ios-15-as-quickly-as-ios-14?utm_medium=rss)
+ - [Neopets are being turned into NFTs because of course they are](https://www.theverge.com/2021/10/1/22703881/neopets-nfts-crytpo-trend-raydium-solana)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
