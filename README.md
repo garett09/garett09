@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Zoom zoom](https://www.reddit.com/r/funny/comments/pz06xu/zoom_zoom/)
- - 🚯 [Graceful](https://www.reddit.com/r/funny/comments/pz02jl/graceful/)
- - 🚯 [Hey, it could work](https://www.reddit.com/r/funny/comments/pz00ta/hey_it_could_work/)<!-- MEMES:END -->
+ - 🚖 [Americans be like:](https://www.reddit.com/r/memes/comments/pz1erv/americans_be_like/)
+ - 🚯 [Waited all year to post this. RIP Norm Macdonald.](https://www.reddit.com/r/funny/comments/pz0oly/waited_all_year_to_post_this_rip_norm_macdonald/)
+ - 🚯 [Netflix says "Don't give up on your dreams..."](https://www.reddit.com/r/funny/comments/pz0iau/netflix_says_dont_give_up_on_your_dreams/)<!-- MEMES:END -->
 
 --- 
 
