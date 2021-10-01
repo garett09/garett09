@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Unravel the Mystery of Neverwinter’s Newest Battle Pass Campaign, Echoes of Prophecy](https://news.xbox.com/en-us/2021/10/01/unravel-the-mystery-of-neverwinter-echoes-of-prophecy/)
- - [Unlock the The Elder Scrolls Online Deadlands DLC for free](http://feedproxy.google.com/~r/PSBlog/~3/J0fAGKy8lKA/)
- - [Unlock the The Elder Scrolls Online Deadlands DLC for free](https://blog.playstation.com/2021/10/01/unlock-the-the-elder-scrolls-online-deadlands-dlc-for-free/)<!-- GAME:END -->
+ - [Terraria Keeps Getting Better, Journey’s End Update is Now Live](https://news.xbox.com/en-us/2021/10/01/terraria-keeps-getting-better-journeys-end-update-is-now-live/)
+ - [Konami Apologizes For Atrocious eFootball 2022 Launch, Fixes On The Way](https://kotaku.com/konami-apologizes-for-atrocious-efootball-2022-launch-1847785170)
+ - [Capcom wants PC to be its main platform for games in the future](https://www.pcgamer.com/capcom-pc-games-future)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
