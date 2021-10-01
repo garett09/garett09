@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [You told us: The Note-inspired Galaxy S22 Ultra design is growing on you](https://www.androidauthority.com/samsung-galaxy-s22-ultra-design-poll-results-3033468/)
  - [Investigation finds 45 criminal cases that cite Google geolocation data, obtained via a geofence warrant, to place suspects inside Capitol during Jan. 6 riots (Mark Harris/Wired)](http://www.techmeme.com/211001/p3#a211001p3)
- - [Samsung might be pinning a lot of its hopes on the base Galaxy S22](https://www.androidauthority.com/samsung-galaxy-s22-production-3030698/)
- - [Best Roku to buy for 2021     - CNET](https://www.cnet.com/tech/home-entertainment/best-roku/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Samsung might be pinning a lot of its hopes on the base Galaxy S22](https://www.androidauthority.com/samsung-galaxy-s22-production-3030698/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
