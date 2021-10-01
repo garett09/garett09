@@ -195,8 +195,8 @@ Windows                  7 hrs 16 mins       ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Kids really have the purest souls](http://9gag.com/gag/aYo8REO)
- - 🚯 [French girls in summer be like:](http://9gag.com/gag/awMRej1)
- - 🚯 [I know that feeling](http://9gag.com/gag/amPjn02)<!-- MEMES:END -->
+ - 🚯 [Amazing painting robot](http://9gag.com/gag/aK60KdQ)
+ - 🚯 [&quot;He&#039;s nervous, but on the surface he looks calm and ready.&quot;](http://9gag.com/gag/a07AMWO)<!-- MEMES:END -->
 
 --- 
 
