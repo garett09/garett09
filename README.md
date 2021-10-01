@@ -195,8 +195,8 @@ Windows                  7 hrs 16 mins       ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [A friendly game of &quot;Altinha&quot; in Brazil](http://9gag.com/gag/aP3NpKG)
- - 🚯 [The snack is a 6ft gator . Holly Shit](http://9gag.com/gag/abVPdKp)
- - 🚯 [Who&#039;s a good boy?](http://9gag.com/gag/a8EPnXO)<!-- MEMES:END -->
+ - 🚯 [Simpler times](http://9gag.com/gag/aAbWN39)
+ - 🚯 [Idiots overtaking on the emergency lane get blocked by trucker](http://9gag.com/gag/aXoDd6v)<!-- MEMES:END -->
 
 --- 
 
