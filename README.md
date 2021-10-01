@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A friendly game of &quot;Altinha&quot; in Brazil](http://9gag.com/gag/aP3NpKG)
- - 🚯 [Eating the worlds Hottest Chilli Pepper without thinking.](http://9gag.com/gag/anQpW0b)
- - 🚯 [Idiots overtaking on the emergency lane get blocked by trucker](http://9gag.com/gag/aXoDd6v)<!-- MEMES:END -->
+ - 🚖 [Idiots overtaking on the emergency lane get blocked by trucker](http://9gag.com/gag/aXoDd6v)
+ - 🚯 [How you treat animals says a lot about you](http://9gag.com/gag/a8EPXBY)
+ - 🚯 [Save it again](http://9gag.com/gag/aMKRW5W)<!-- MEMES:END -->
 
 --- 
 
