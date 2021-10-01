@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Terraria Keeps Getting Better, Journey’s End Update is Now Live](https://news.xbox.com/en-us/2021/10/01/terraria-keeps-getting-better-journeys-end-update-is-now-live/)
- - [Konami Apologizes For Atrocious eFootball 2022 Launch, Fixes On The Way](https://kotaku.com/konami-apologizes-for-atrocious-efootball-2022-launch-1847785170)
- - [Capcom wants PC to be its main platform for games in the future](https://www.pcgamer.com/capcom-pc-games-future)<!-- GAME:END -->
+ - [Explore The Elder Scrolls Online: Blackwood and Unlock the Upcoming Deadlands DLC](https://news.xbox.com/en-us/2021/10/01/explore-elder-scrolls-online-blackwood-and-unlock-deadlands/)
+ - [With hundreds of demos at Steam Next Fest, here are 12 of our favorites](https://www.pcgamer.com/steam-next-fest-demos-october-2021)
+ - [Free Guy, Many Saints of Newark, and every new movie available to watch from home](https://www.polygon.com/2021/10/1/22694649/free-guy-many-saints-of-newark-watch-netflix-disney-plus-hbo)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
