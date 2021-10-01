@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sensor Tower: Tencent's Honor of Kings made over $10B since its launch in 2015, the first mobile game to do so, with $2B+ in 2021 alone (Danielle Partis/GamesIndustry.biz)](http://www.techmeme.com/211001/p15#a211001p15)
- - [How to use WhatsApp dark mode on Android, iOS and desktop](https://techncruncher.blogspot.com/2021/10/how-to-use-whatsapp-dark-mode-on.html)
- - [Why does Blink still exist?](https://www.theverge.com/22704290/amazon-blink-ring-camera-doorbell-brands-smart-home-why)<!-- TECH:END -->
+ - [Apple's Tim Cook to meet with EU competition chief while in New York](https://appleinsider.com/articles/21/10/01/apples-tim-cook-to-meet-with-eu-competition-chief-while-in-new-york?utm_medium=rss)
+ - [Sources: Biden administration is considering ways to impose bank-like regulation on stablecoin issuers, including prodding them to register as banks (Wall Street Journal)](http://www.techmeme.com/211001/p19#a211001p19)
+ - [How to take macro photos and video on iPhone 13 Pro](https://appleinsider.com/articles/21/10/01/how-to-take-macro-photos-and-video-on-iphone-13-pro?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
