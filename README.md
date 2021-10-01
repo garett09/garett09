@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Discord is ending its Stage Discovery tool but says Stage Channels are doing well](https://www.theverge.com/2021/10/1/22704749/discord-ending-stage-discovery-channels)
- - [Twitch is testing a feature that lets viewers pay to promote streamers](https://www.theverge.com/2021/10/1/22704731/twitch-testing-new-paid-front-page-promotion-feature)
- - [Ford's Mustang Mach-E SUV gets tail-happy, fails Swedish moose test     - Roadshow](https://www.cnet.com/roadshow/news/ford-mustang-mach-e-suv-moose-test-fail/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple Card issue results in bill pay, other problems for some users](https://appleinsider.com/articles/21/10/01/apple-card-issue-results-in-bill-pay-other-problems-for-some-users?utm_medium=rss)
+ - [How to switch languages using the Android Gboard keyboard](https://www.theverge.com/22704840/gboard-keyboard-google-languages-android-how-to)
+ - [PE firm Symphony Technology Group says it plans to merge McAfee Enterprise and FireEye Products into a single entity with nearly $2B in annual revenue (Kelly Sheridan/Dark Reading)](http://www.techmeme.com/211001/p24#a211001p24)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
