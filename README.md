@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Man of culture](http://9gag.com/gag/aqj3DzZ)
- - 🚯 [Only OG &quot;Gamers&quot; can relate](http://9gag.com/gag/aGp3bNG)
- - 🚯 [Let&#039;s confuse machine learning :)](http://9gag.com/gag/av5Ymo5)<!-- MEMES:END -->
+ - 🚖 [True!](http://9gag.com/gag/aMKRWMR)
+ - 🚯 [Dont forget protection](http://9gag.com/gag/ad8ZRmj)
+ - 🚯 [Serious - lee](http://9gag.com/gag/aB2qonz)<!-- MEMES:END -->
 
 --- 
 
