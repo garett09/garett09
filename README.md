@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Kids really have the purest souls](http://9gag.com/gag/aYo8REO)
+ - 🚖 [Mmm](http://9gag.com/gag/a5EmD7r)
  - 🚯 [Amazing painting robot](http://9gag.com/gag/aK60KdQ)
- - 🚯 [&quot;He&#039;s nervous, but on the surface he looks calm and ready.&quot;](http://9gag.com/gag/a07AMWO)<!-- MEMES:END -->
+ - 🚯 [Gift from my manager to lift my spirits while working from home (contactless delivery)](http://9gag.com/gag/aZ0AzXX)<!-- MEMES:END -->
 
 --- 
 
