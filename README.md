@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [True!](http://9gag.com/gag/aMKRWMR)
- - 🚯 [Dont forget protection](http://9gag.com/gag/ad8ZRmj)
- - 🚯 [Serious - lee](http://9gag.com/gag/aB2qonz)<!-- MEMES:END -->
+ - 🚖 [Who&#039;s a good boy?](http://9gag.com/gag/a8EPnXO)
+ - 🚯 [Thats what happened when u walk on cycle path.](http://9gag.com/gag/aQowV7K)
+ - 🚯 [Influencers in the wild be like](http://9gag.com/gag/aGp3oo6)<!-- MEMES:END -->
 
 --- 
 
