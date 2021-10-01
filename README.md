@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When I ask my friends, they say this shit is literally in every workplace they worked in. You either live with it, or live on unemployment benefits. Employee protection doesn&#039;t exist, and unions are powerless. Hooray for Lithuania](http://9gag.com/gag/abVPWQ8)
+ - 🚖 [I hope they get a refund for those lessons](http://9gag.com/gag/a27BbZd)
  - 🚯 [Keeping the same price for 25 years](http://9gag.com/gag/axMxRwY)
- - 🚯 [One more ? Yes, one more](http://9gag.com/gag/aV7nZqv)<!-- MEMES:END -->
+ - 🚯 [Monkey](http://9gag.com/gag/aoMrL73)<!-- MEMES:END -->
 
 --- 
 
