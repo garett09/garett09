@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Happy to help with no additional compensation](http://9gag.com/gag/aEprO9n)
- - 🚯 [Kids really have the purest souls](http://9gag.com/gag/aYo8REO)
- - 🚯 [Spiderman 1994](http://9gag.com/gag/awMRe0y)<!-- MEMES:END -->
+ - 🚖 [Kids really have the purest souls](http://9gag.com/gag/aYo8REO)
+ - 🚯 [French girls in summer be like:](http://9gag.com/gag/awMRej1)
+ - 🚯 [I know that feeling](http://9gag.com/gag/amPjn02)<!-- MEMES:END -->
 
 --- 
 
