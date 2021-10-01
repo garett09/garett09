@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Card issue results in bill pay, other problems for some users](https://appleinsider.com/articles/21/10/01/apple-card-issue-results-in-bill-pay-other-problems-for-some-users?utm_medium=rss)
- - [How to switch languages using the Android Gboard keyboard](https://www.theverge.com/22704840/gboard-keyboard-google-languages-android-how-to)
- - [PE firm Symphony Technology Group says it plans to merge McAfee Enterprise and FireEye Products into a single entity with nearly $2B in annual revenue (Kelly Sheridan/Dark Reading)](http://www.techmeme.com/211001/p24#a211001p24)<!-- TECH:END -->
+ - [Amazon's new PC game New World is a hit, with hundreds of thousands on Steam playing it at any given time, representing a leap for Amazon's gaming ambitions (Steve Kovach/CNBC)](http://www.techmeme.com/211001/p25#a211001p25)
+ - [Ozy Media shuts down just one week after most of us found out it exists](https://www.theverge.com/2021/10/1/22704636/ozy-media-disappears-carlos-watson-ben-smith)
+ - [Apple fails to patch publicly disclosed zero-day flaws with iOS 15.0.1](https://appleinsider.com/articles/21/10/01/apple-fails-to-patch-publicly-disclosed-zero-day-flaws-with-ios-1501?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
