@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube TV and NBCUniversal agree to ‘short’ extension to avoid channels disappearing](https://www.theverge.com/2021/9/30/22702511/youtube-tv-nbcuniversal-extension-dispute-negotiation)
- - [CredAvenue, an online marketplace for companies seeking loans, financial institutions, and investors, raises $90M Series A, India's largest ever, led by Sequoia (The Economic Times)](http://www.techmeme.com/210930/p47#a210930p47)
- - [Earth is losing its shine and scientists suspect climate change is the culprit     - CNET](https://www.cnet.com/news/earth-is-losing-its-shine-and-scientists-suspect-climate-change-is-the-culprit/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Activ Surgical, which makes hardware-agnostic software for minimally invasive surgical systems, raises $45M Series B led by Cota Capital (Emma Betuel/TechCrunch)](http://www.techmeme.com/211001/p1#a211001p1)
+ - [Google Doodle honors Chicano boxer, activist Rodolfo 'Corky' Gonzales     - CNET](https://www.cnet.com/news/google-doodle-honors-chicano-boxer-activist-rodolfo-corky-gonzales/#ftag=CAD590a51e)
+ - [The Many Saints of Newark is part Sopranos prequel, part Goodfellas tribute     - CNET](https://www.cnet.com/news/the-many-saints-of-newark-is-part-sopranos-prequel-part-goodfellas-tribute/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
