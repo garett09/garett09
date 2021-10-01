@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Interviews with women pioneers of AI ethics teams on whether ethical AI work is possible at Big Tech, and how to set these teams to be successful (Sage Lazzaro/VentureBeat)](http://www.techmeme.com/211001/p7#a211001p7)
- - [The YouTube TV, NBCUniversal Debacle Feels Like a Harbinger](https://www.wired.com/story/youtube-tv-nbc-universal-streaming-wars)
- - [Amazon’s Astro Is a Dog That Will Have Its Day](https://www.wired.com/story/plaintext-amazon-astro-dog-that-will-have-its-day)<!-- TECH:END -->
+ - [The Harder they Fall, Just Beyond, and more streaming trailers to watch](https://www.androidauthority.com/new-movie-trailers-1151533/)
+ - [Share Your Memories With Our Favorite Digital Picture Frames](https://www.wired.com/gallery/best-digital-picture-frames)
+ - [Hisense’s 55-inch 4K QLED TV is cheaper than ever](https://www.theverge.com/good-deals/2021/10/1/22703978/hisense-4k-qled-tv-magsafe-apple-amazon-best-buy-deals)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
