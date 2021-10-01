@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Learn to Master Brutal Counterattacks in Unsouled, Coming Soon to Xbox](https://news.xbox.com/en-us/2021/10/01/learn-to-master-brutal-counterattacks-in-unsouled/)
- - [Smash Bros. Ultimate Fans Split On Kingdom Hearts' Sora As Final DLC Fighter](https://kotaku.com/smash-bros-ultimate-fans-split-on-kingdom-hearts-sora-1847784325)
- - [Netflix’s Jake Gyllenhaal cop drama The Guilty is more about performance than story](https://www.polygon.com/22704775/the-guilty-review-netflix-jake-gyllenhaal)<!-- GAME:END -->
+ - [Unravel the Mystery of Neverwinter’s Newest Battle Pass Campaign, Echoes of Prophecy](https://news.xbox.com/en-us/2021/10/01/unravel-the-mystery-of-neverwinter-echoes-of-prophecy/)
+ - [Unlock the The Elder Scrolls Online Deadlands DLC for free](http://feedproxy.google.com/~r/PSBlog/~3/J0fAGKy8lKA/)
+ - [Unlock the The Elder Scrolls Online Deadlands DLC for free](https://blog.playstation.com/2021/10/01/unlock-the-the-elder-scrolls-online-deadlands-dlc-for-free/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
