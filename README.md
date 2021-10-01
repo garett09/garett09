@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Mmm](http://9gag.com/gag/a5EmD7r)
- - 🚯 [Amazing painting robot](http://9gag.com/gag/aK60KdQ)
- - 🚯 [Gift from my manager to lift my spirits while working from home (contactless delivery)](http://9gag.com/gag/aZ0AzXX)<!-- MEMES:END -->
+ - 🚖 [Let&#039;s confuse machine learning :)](http://9gag.com/gag/av5Ymo5)
+ - 🚯 [Roleplayers and Speedrunners](http://9gag.com/gag/apNy84W)
+ - 🚯 [French girls in summer be like:](http://9gag.com/gag/awMRej1)<!-- MEMES:END -->
 
 --- 
 
