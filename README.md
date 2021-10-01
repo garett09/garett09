@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Americans be like:](https://www.reddit.com/r/memes/comments/pz1erv/americans_be_like/)
- - 🚯 [Waited all year to post this. RIP Norm Macdonald.](https://www.reddit.com/r/funny/comments/pz0oly/waited_all_year_to_post_this_rip_norm_macdonald/)
- - 🚯 [Netflix says "Don't give up on your dreams..."](https://www.reddit.com/r/funny/comments/pz0iau/netflix_says_dont_give_up_on_your_dreams/)<!-- MEMES:END -->
+ - 🚖 [i like october](https://www.reddit.com/r/memes/comments/pz1k70/i_like_october/)
+ - 🚯 [gotcha hehe](https://www.reddit.com/r/memes/comments/pz1cdg/gotcha_hehe/)
+ - 🚯 [;)](https://www.reddit.com/r/funny/comments/pz18pf/_/)<!-- MEMES:END -->
 
 --- 
 
