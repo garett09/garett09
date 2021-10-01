@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Coincidence? I think not! This kid knew exactly what he was doing](https://www.reddit.com/r/funny/comments/pz2ac8/coincidence_i_think_not_this_kid_knew_exactly/)
- - 🚯 [More spooktober](https://www.reddit.com/r/memes/comments/pz1rk5/more_spooktober/)
- - 🚯 [Leonardo Da Vinci knew...](https://www.reddit.com/r/memes/comments/pz1e92/leonardo_da_vinci_knew/)<!-- MEMES:END -->
+ - 🚖 [Brazilian television](http://9gag.com/gag/aZ0AzbV)
+ - 🚯 [Spiderman 1994](http://9gag.com/gag/awMRe0y)
+ - 🚯 [Good day, sir!](http://9gag.com/gag/aqj3YxY)<!-- MEMES:END -->
 
 --- 
 
