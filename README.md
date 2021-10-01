@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Let&#039;s confuse machine learning :)](http://9gag.com/gag/av5Ymo5)
- - 🚯 [Roleplayers and Speedrunners](http://9gag.com/gag/apNy84W)
- - 🚯 [French girls in summer be like:](http://9gag.com/gag/awMRej1)<!-- MEMES:END -->
+ - 🚖 [Can cats see optical illusions?](http://9gag.com/gag/arM68E5)
+ - 🚯 [Let&#039;s confuse machine learning :)](http://9gag.com/gag/av5Ymo5)
+ - 🚯 [Man of culture](http://9gag.com/gag/aqj3DzZ)<!-- MEMES:END -->
 
 --- 
 
