@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the $12B location data industry, including how collectors, aggregators, and marketplaces monetize user data (The Markup)](http://www.techmeme.com/211001/p4#a211001p4)
- - [Users still not upgrading to iOS 15 as quickly as iOS 14](https://appleinsider.com/articles/21/10/01/users-still-not-upgrading-to-ios-15-as-quickly-as-ios-14?utm_medium=rss)
- - [Neopets are being turned into NFTs because of course they are](https://www.theverge.com/2021/10/1/22703881/neopets-nfts-crytpo-trend-raydium-solana)<!-- TECH:END -->
+ - [Apple releases updated San Francisco, New York fonts, plus SF Symbols](https://appleinsider.com/articles/21/10/01/apple-releases-updated-san-francisco-new-york-fonts-plus-sf-symbols?utm_medium=rss)
+ - [Humble Bundle has raised $200 million for charity thanks to generous gamers](https://www.theverge.com/2021/10/1/22703917/humble-bundle-200-million-charity-milestone)
+ - [Nigerian President Buhari says a four month ban on Twitter will be lifted on condition it is used for "business and positive engagements" (Helen Nyambura/Bloomberg)](http://www.techmeme.com/211001/p5#a211001p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
