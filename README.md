@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Foxconn is buying Lordstown Motors’ Ohio EV factory for $230 million](https://www.theverge.com/2021/9/30/22702322/lordstown-motors-foxconn-ohio-electric-vehicles)
- - [Zoom won’t buy Five9 after all](https://www.theverge.com/2021/9/30/22703301/zoom-five9-acquisition-merger-agreement-terminated)
- - [Disney and Scarlett Johansson have settled their lawsuit](https://www.theverge.com/2021/9/30/22703409/disney-scarlett-johansson-lawsuit-settled)<!-- TECH:END -->
+ - [Apple officially releases SF Symbols 3 and updates for San Francisco and New York fonts](https://techncruncher.blogspot.com/2021/10/apple-officially-releases-sf-symbols-3.html)
+ - [EA promotes Laura Miele to COO, making her one of the most powerful women in gaming](https://www.theverge.com/2021/9/30/22703469/ea-promotes-laura-miele-chief-studios-operating-officer-coo)
+ - [Apple issues macOS Big Sur 11.6.1 release candidate with security fixes](https://appleinsider.com/articles/21/09/30/apple-issues-macos-big-sur-1161-release-candidate-with-security-fixes?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
