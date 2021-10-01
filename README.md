@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple releases updated San Francisco, New York fonts, plus SF Symbols](https://appleinsider.com/articles/21/10/01/apple-releases-updated-san-francisco-new-york-fonts-plus-sf-symbols?utm_medium=rss)
- - [Humble Bundle has raised $200 million for charity thanks to generous gamers](https://www.theverge.com/2021/10/1/22703917/humble-bundle-200-million-charity-milestone)
- - [Nigerian President Buhari says a four month ban on Twitter will be lifted on condition it is used for "business and positive engagements" (Helen Nyambura/Bloomberg)](http://www.techmeme.com/211001/p5#a211001p5)<!-- TECH:END -->
+ - [Merck’s COVID-19 pill cuts risk of death, hospitalization by 50%: study](https://techncruncher.blogspot.com/2021/10/mercks-covid-19-pill-cuts-risk-of-death.html)
+ - [Poll: What would make you buy a foldable phone?](https://www.androidauthority.com/buy-foldable-phone-poll-3033593/)
+ - [Let's Talk About Amazon's Home-Patrolling Robots](https://www.wired.com/story/gadget-lab-podcast-523)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
