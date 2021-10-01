@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [TrialSpark, which wants to leverage its clinical trials management software into drug discovery, closed $156M Series C at a $1B+ valuation earlier this year (Emma Court/Bloomberg)](http://www.techmeme.com/210930/p46#a210930p46)
  - [Apple officially releases SF Symbols 3 and updates for San Francisco and New York fonts](https://techncruncher.blogspot.com/2021/10/apple-officially-releases-sf-symbols-3.html)
- - [EA promotes Laura Miele to COO, making her one of the most powerful women in gaming](https://www.theverge.com/2021/9/30/22703469/ea-promotes-laura-miele-chief-studios-operating-officer-coo)
- - [Apple issues macOS Big Sur 11.6.1 release candidate with security fixes](https://appleinsider.com/articles/21/09/30/apple-issues-macos-big-sur-1161-release-candidate-with-security-fixes?utm_medium=rss)<!-- TECH:END -->
+ - [EA promotes Laura Miele to COO, making her one of the most powerful women in gaming](https://www.theverge.com/2021/9/30/22703469/ea-promotes-laura-miele-chief-studios-operating-officer-coo)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
