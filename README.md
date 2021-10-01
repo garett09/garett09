@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Nickelodeon All-Star Brawl is Passion Project Platform Fighter](https://news.xbox.com/en-us/2021/10/01/nickelodeon-all-star-brawl-is-passion-project-platform-fighter/)
- - [Squid Game’s dark finale cements the show’s hope for humanity](https://www.polygon.com/22704637/squid-game-finale-recap-analysis)
- - [All Your Celeb Faves Who Are Now Peddling NFTs](https://kotaku.com/a-list-of-your-fave-celebrities-who-are-now-peddling-nf-1847783209)<!-- GAME:END -->
+ - [Learn to Master Brutal Counterattacks in Unsouled, Coming Soon to Xbox](https://news.xbox.com/en-us/2021/10/01/learn-to-master-brutal-counterattacks-in-unsouled/)
+ - [Smash Bros. Ultimate Fans Split On Kingdom Hearts' Sora As Final DLC Fighter](https://kotaku.com/smash-bros-ultimate-fans-split-on-kingdom-hearts-sora-1847784325)
+ - [Netflix’s Jake Gyllenhaal cop drama The Guilty is more about performance than story](https://www.polygon.com/22704775/the-guilty-review-netflix-jake-gyllenhaal)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
