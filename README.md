@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Can cats see optical illusions?](http://9gag.com/gag/arM68E5)
- - 🚯 [Let&#039;s confuse machine learning :)](http://9gag.com/gag/av5Ymo5)
- - 🚯 [Man of culture](http://9gag.com/gag/aqj3DzZ)<!-- MEMES:END -->
+ - 🚖 [Man of culture](http://9gag.com/gag/aqj3DzZ)
+ - 🚯 [Only OG &quot;Gamers&quot; can relate](http://9gag.com/gag/aGp3bNG)
+ - 🚯 [Let&#039;s confuse machine learning :)](http://9gag.com/gag/av5Ymo5)<!-- MEMES:END -->
 
 --- 
 
