@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Activ Surgical, which makes hardware-agnostic software for minimally invasive surgical systems, raises $45M Series B led by Cota Capital (Emma Betuel/TechCrunch)](http://www.techmeme.com/211001/p1#a211001p1)
- - [Google Doodle honors Chicano boxer, activist Rodolfo 'Corky' Gonzales     - CNET](https://www.cnet.com/news/google-doodle-honors-chicano-boxer-activist-rodolfo-corky-gonzales/#ftag=CAD590a51e)
- - [The Many Saints of Newark is part Sopranos prequel, part Goodfellas tribute     - CNET](https://www.cnet.com/news/the-many-saints-of-newark-is-part-sopranos-prequel-part-goodfellas-tribute/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Samsung Galaxy Z Fold 2’s October patch starts rolling out in one region](https://www.androidauthority.com/samsung-galaxy-z-fold-2-update-1191470/)
+ - [MaestroQA, whose ML-powered software finds customer service interactions that should be reviewed by a manager, raises $25M Series A led by Base10 Partners (Rebecca Szkutak/Forbes)](http://www.techmeme.com/211001/p2#a211001p2)
+ - [Activ Surgical, which makes hardware-agnostic software for minimally invasive surgical systems, raises $45M Series B led by Cota Capital (Emma Betuel/TechCrunch)](http://www.techmeme.com/211001/p1#a211001p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
