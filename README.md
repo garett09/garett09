@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Harder they Fall, Just Beyond, and more streaming trailers to watch](https://www.androidauthority.com/new-movie-trailers-1151533/)
- - [Share Your Memories With Our Favorite Digital Picture Frames](https://www.wired.com/gallery/best-digital-picture-frames)
- - [Hisense’s 55-inch 4K QLED TV is cheaper than ever](https://www.theverge.com/good-deals/2021/10/1/22703978/hisense-4k-qled-tv-magsafe-apple-amazon-best-buy-deals)<!-- TECH:END -->
+ - [Facebook to update pre-campaign audience estimates to be less specific, showing a range instead of a number, after backlash for overestimating audience numbers (Allison Schiff/AdExchanger)](http://www.techmeme.com/211001/p11#a211001p11)
+ - [New accessibility features are coming to Halo Infinite](https://www.theverge.com/2021/10/1/22704024/halo-infinite-accessibility-features-colorblind-steering-controls)
+ - [Google Pixel 6 Japanese TV ad drops, and it’s full of widgets](https://www.androidauthority.com/google-pixel-6-japanese-tv-ad-3033637/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
