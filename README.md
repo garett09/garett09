@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Who&#039;s a good boy?](http://9gag.com/gag/a8EPnXO)
- - 🚯 [Thats what happened when u walk on cycle path.](http://9gag.com/gag/aQowV7K)
- - 🚯 [Influencers in the wild be like](http://9gag.com/gag/aGp3oo6)<!-- MEMES:END -->
+ - 🚖 [A friendly game of &quot;Altinha&quot; in Brazil](http://9gag.com/gag/aP3NpKG)
+ - 🚯 [The snack is a 6ft gator . Holly Shit](http://9gag.com/gag/abVPdKp)
+ - 🚯 [Who&#039;s a good boy?](http://9gag.com/gag/a8EPnXO)<!-- MEMES:END -->
 
 --- 
 
