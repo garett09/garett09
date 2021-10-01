@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Netflix's Squid Game Is A Is A Furious Prophetic Show That’s Taking The World By Storm](https://kotaku.com/netflixs-squid-game-is-a-is-a-furious-prophetic-show-th-1847781001)
- - [Gungrave G.O.R.E: Ikumi Nakamura talks “Ikumi-nized” approach to character designs](http://feedproxy.google.com/~r/PSBlog/~3/G4DPXSruB24/)
- - [Gungrave G.O.R.E: Ikumi Nakamura talks “Ikumi-nized” approach to character designs](https://blog.playstation.com/2021/10/01/gungrave-g-o-r-e-ikumi-nakamura-talks-ikumi-nized-approach-to-character-designs/)<!-- GAME:END -->
+ - [Xbox Celebrates the Disability Community with New Accessibility Updates](https://news.xbox.com/en-us/2021/10/01/xbox-announces-accessibility-updates/)
+ - [All aboard for coMmunity collaboration All Hallows’ Dreams: Ghost Train](http://feedproxy.google.com/~r/PSBlog/~3/jB9tWtTyI5w/)
+ - [All aboard for coMmunity collaboration All Hallows’ Dreams: Ghost Train](https://blog.playstation.com/2021/10/01/all-aboard-for-community-collaboration-all-hallows-dreams-ghost-train/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
