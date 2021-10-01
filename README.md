@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [A new Stranger of Paradise Trial Version is now live](http://feedproxy.google.com/~r/PSBlog/~3/Pde8iUrwXok/)
- - [A new Stranger of Paradise Trial Version is now live](https://blog.playstation.com/2021/10/01/a-new-stranger-of-paradise-trial-version-is-now-live/)
- - [Intel's new brain chip uses its first 7nm silicon](https://www.pcgamer.com/intels-new-brain-chip-uses-its-first-7nm-silicon)<!-- GAME:END -->
+ - [The Halloween Countdown: 31 days of horror to watch](https://www.polygon.com/22702474/best-halloween-movies-tv-to-watch-stream)
+ - [New game modes fall into Destruction AllStars](http://feedproxy.google.com/~r/PSBlog/~3/5ZnO_asmT3M/)
+ - [New game modes fall into Destruction AllStars](https://blog.playstation.com/2021/10/01/new-game-modes-fall-into-destruction-allstars/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
