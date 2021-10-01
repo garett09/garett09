@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Merck’s COVID-19 pill cuts risk of death, hospitalization by 50%: study](https://techncruncher.blogspot.com/2021/10/mercks-covid-19-pill-cuts-risk-of-death.html)
- - [Poll: What would make you buy a foldable phone?](https://www.androidauthority.com/buy-foldable-phone-poll-3033593/)
- - [Let's Talk About Amazon's Home-Patrolling Robots](https://www.wired.com/story/gadget-lab-podcast-523)<!-- TECH:END -->
+ - [Interviews with women pioneers of AI ethics teams on whether ethical AI work is possible at Big Tech, and how to set these teams to be successful (Sage Lazzaro/VentureBeat)](http://www.techmeme.com/211001/p7#a211001p7)
+ - [The YouTube TV, NBCUniversal Debacle Feels Like a Harbinger](https://www.wired.com/story/youtube-tv-nbc-universal-streaming-wars)
+ - [Amazon’s Astro Is a Dog That Will Have Its Day](https://www.wired.com/story/plaintext-amazon-astro-dog-that-will-have-its-day)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
