@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The surface of Comet 67P, taken by the Rosetta spacecraft. Rosetta was the first spacecraft to attempt landing on a comet and was launched in 2003 by the ESA, reaching the comet in 2014.](http://9gag.com/gag/aEprODo)
- - 🚯 [Spiderman 1994](http://9gag.com/gag/awMRe0y)
- - 🚯 [Happy to help with no additional compensation](http://9gag.com/gag/aEprO9n)<!-- MEMES:END -->
+ - 🚖 [Happy to help with no additional compensation](http://9gag.com/gag/aEprO9n)
+ - 🚯 [Kids really have the purest souls](http://9gag.com/gag/aYo8REO)
+ - 🚯 [Spiderman 1994](http://9gag.com/gag/awMRe0y)<!-- MEMES:END -->
 
 --- 
 
