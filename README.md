@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [New World Still Bricking Expensive Graphics Cards, Say Players](https://kotaku.com/new-world-still-bricking-expensive-graphics-cards-say-1847782307)
- - [Fresh reports suggest New World is again helping brick expensive Nvidia GPUs](https://www.pcgamer.com/new-world-making-gpus-unwell-again)
- - [Share of the Week – Kena: Bridge of Spirits](http://feedproxy.google.com/~r/PSBlog/~3/mXcxvgY25BY/)<!-- GAME:END -->
+ - [Second Extinction: Research and Destroy Update Available Now](https://news.xbox.com/en-us/2021/10/01/second-extinction-research-and-destroy-update-available-now/)
+ - [That New Final Fantasy Origins Trailer Is Actually Pretty Cool](https://kotaku.com/that-new-final-fantasy-origins-trailer-is-actually-pret-1847782744)
+ - [Twitch Announces Test Of ‘Pay-To-Win’ Promotion Feature](https://kotaku.com/twitch-announces-test-of-pay-to-win-promotion-feature-1847782564)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
