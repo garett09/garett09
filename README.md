@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The new tab design in Safari 15 for macOS makes usability worse and shows a complete disregard for the familiarity users had with Safari's previous tab design (John Gruber/Daring Fireball)](http://www.techmeme.com/211002/p4#a211002p4)
- - [You can message yourself on WhatsApp to take notes](https://techncruncher.blogspot.com/2021/10/you-can-message-yourself-on-whatsapp-to.html)
- - [Amazon Astro review: impressive autonomous navigation skills, reasonable price for the tech, attractive design, but its daily utility is questionable (Carolina Milanesi/Fast Company)](http://www.techmeme.com/211002/p3#a211002p3)<!-- TECH:END -->
+ - [Xiaomi Mi TV 5X 55-inch review: Another quality budget 4K TV](https://www.androidauthority.com/xiaomi-mi-tv-5x-review-3028620/)
+ - [Windows 11 is coming, so does that mean I should wait to buy a new laptop?     - CNET](https://www.cnet.com/tech/computing/windows-11-is-coming-so-does-that-mean-i-should-wait-to-buy-a-new-laptop/#ftag=CAD590a51e)
+ - [The new tab design in Safari 15 for macOS makes usability worse and shows a complete disregard for the familiarity users had with Safari's previous tab design (John Gruber/Daring Fireball)](http://www.techmeme.com/211002/p4#a211002p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
