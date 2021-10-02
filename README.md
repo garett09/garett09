@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Drifblim Carries People Away, Never To Be Seen Again](https://kotaku.com/drifblim-carries-people-away-never-to-be-seen-again-1847785048)
- - [The 11 best movies new to streaming to watch in October](https://www.polygon.com/2021/10/2/22699003/best-new-movies-netflix-amazon-hbo-october-2021)
- - [The Halloween Countdown: 31 days of horror to watch](https://www.polygon.com/22702474/best-halloween-movies-tv-to-watch-stream)<!-- GAME:END -->
+ - [Xbox Head Explains Console Shortages Will Continue Into 2022](https://kotaku.com/xbox-head-explains-console-shortages-will-continue-into-1847787478)
+ - [Venom: Let There Be Carnage’s most faithful comic choice is the symbiote’s love of chocolate](https://www.polygon.com/comics/22691831/venom-chocolate)
+ - [Drifblim Carries People Away, Never To Be Seen Again](https://kotaku.com/drifblim-carries-people-away-never-to-be-seen-again-1847785048)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
