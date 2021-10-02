@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tesla sold 241,300 cars in the third quarter while other automakers saw big drops](https://www.theverge.com/2021/10/2/22704830/tesla-sold-241300-cars-third-quarter)
- - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-400-3033847/)
- - [9 great reads from CNET this week: Amazon Astro, James Bond, robocalls and more     - CNET](https://www.cnet.com/home/smart-home/9-great-reads-from-cnet-this-week-100221-amazon-astro-james-bond-robocalls-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Kuo: Apple has canceled plans to release an iPad Air with an OLED display in 2022 due to quality and cost concerns, will still release mini-LED 11" iPad Pro (Sami Fathi/MacRumors)](http://www.techmeme.com/211002/p8#a211002p8)
+ - [Best video doorbell cameras for 2021: Ring, Nest, Arlo and more     - CNET](https://www.cnet.com/home/security/best-video-doorbell-cameras/#ftag=CAD590a51e)
+ - [Kuo: 2022 iPad Air will use mini LED to avoid harming 11-inch iPad Pro sales](https://appleinsider.com/articles/21/10/02/kuo-2022-ipad-air-will-use-mini-led-to-avoid-harming-11-inch-ipad-pro-sales?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
