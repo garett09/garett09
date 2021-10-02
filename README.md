@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [As Istanbul becomes the world's capital of casual mobile gaming, with an estimated size of $880M in 2020, a look at the industry's exploitative labor practices (Kaya Gen&ccedil;/Rest of World)](http://www.techmeme.com/211002/p5#a211002p5)
  - [Xiaomi Mi TV 5X 55-inch review: Another quality budget 4K TV](https://www.androidauthority.com/xiaomi-mi-tv-5x-review-3028620/)
- - [Windows 11 is coming, so does that mean I should wait to buy a new laptop?     - CNET](https://www.cnet.com/tech/computing/windows-11-is-coming-so-does-that-mean-i-should-wait-to-buy-a-new-laptop/#ftag=CAD590a51e)
- - [The new tab design in Safari 15 for macOS makes usability worse and shows a complete disregard for the familiarity users had with Safari's previous tab design (John Gruber/Daring Fireball)](http://www.techmeme.com/211002/p4#a211002p4)<!-- TECH:END -->
+ - [Windows 11 is coming, so does that mean I should wait to buy a new laptop?     - CNET](https://www.cnet.com/tech/computing/windows-11-is-coming-so-does-that-mean-i-should-wait-to-buy-a-new-laptop/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
