@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Place your bet](http://9gag.com/gag/a3E9zj7)
- - 🚯 [VR Pokemon Battles](http://9gag.com/gag/axMxQqp)
- - 🚯 [Wow.so much food.. like three humongous sets of meal](http://9gag.com/gag/anQp0nb)<!-- MEMES:END -->
+ - 🚖 [Do you feel whelmed?](http://9gag.com/gag/agBMppK)
+ - 🚯 [Legend](http://9gag.com/gag/agBM691)
+ - 🚯 [Another from Brazil](http://9gag.com/gag/aQowDv7)<!-- MEMES:END -->
 
 --- 
 
