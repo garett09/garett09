@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Apple's TV+ progress and strategy as it navigates a crowded streaming video market (Brandon Katz/Observer)](http://www.techmeme.com/211002/p9#a211002p9)
- - [Trump tries to force Twitter to let him tweet again     - CNET](https://www.cnet.com/news/trump-tries-to-force-twitter-to-let-him-tweet-again/#ftag=CAD590a51e)
- - [What are the best Wachowski movies? We ranked them all](https://www.androidauthority.com/best-wachowski-movies-ranked-3026437/)<!-- TECH:END -->
+ - [Find My downtime stops some users from locating lost devices](https://appleinsider.com/articles/21/10/02/find-my-downtime-stops-some-users-from-locating-lost-devices?utm_medium=rss)
+ - [A very big eagle escaped from the National Aviary in Pittsburgh and is still at large](https://www.theverge.com/2021/10/2/22706177/stellers-sea-eagle-escaped-national-aviary-pittsburgh)
+ - [A look at Apple's TV+ progress and strategy as it navigates a crowded streaming video market (Brandon Katz/Observer)](http://www.techmeme.com/211002/p9#a211002p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
