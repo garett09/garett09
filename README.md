@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Being a racist on social media and ends up losing her job](http://9gag.com/gag/abVPLvv)
- - 🚯 [This is one of the greatest speeches in TV history. But the last part felt like a prophecy.](http://9gag.com/gag/azMNvWz)
- - 🚯 [Give me your best &ldquo;yo mama jokes&rdquo;](http://9gag.com/gag/ayMgA4X)<!-- MEMES:END -->
+ - 🚖 [This is one of the greatest speeches in TV history. But the last part felt like a prophecy.](http://9gag.com/gag/azMNvWz)
+ - 🚯 [Late realization](http://9gag.com/gag/aLpYOE5)
+ - 🚯 [Childhood](http://9gag.com/gag/aWjKA6q)<!-- MEMES:END -->
 
 --- 
 
