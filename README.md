@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [VR Pokemon Battles](http://9gag.com/gag/axMxQqp)
- - 🚯 [Dead men are heavier than broken hearts](http://9gag.com/gag/a07AWzB)
- - 🚯 [Dusha](http://9gag.com/gag/aDdprQK)<!-- MEMES:END -->
+ - 🚖 [True!](http://9gag.com/gag/aMKRWMR)
+ - 🚯 [Patch Tattoos by Duda Lozano](http://9gag.com/gag/a5EmvbG)
+ - 🚯 [VR Pokemon Battles](http://9gag.com/gag/axMxQqp)<!-- MEMES:END -->
 
 --- 
 
