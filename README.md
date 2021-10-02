@@ -194,7 +194,7 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Well thats ah good start for a relationship](http://9gag.com/gag/ajmbjLq)
+ - 🚖 [Baby turtle, meet the ocean.](http://9gag.com/gag/aAbWAPg)
  - 🚯 [Let the spook begin](http://9gag.com/gag/aGp3qR6)
  - 🚯 [Give me your best &ldquo;yo mama jokes&rdquo;](http://9gag.com/gag/ayMgA4X)<!-- MEMES:END -->
 
