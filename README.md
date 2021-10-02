@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: emergency meetings continue inside Facebook amid WSJ expose, as some research staff decry Facebook's public response in group chats (New York Times)](http://www.techmeme.com/211001/p27#a211001p27)
- - [Apple patched an iOS lock screen bypass without crediting its discovery](https://appleinsider.com/articles/21/10/01/apple-patched-an-ios-lock-screen-bypass-without-crediting-its-discovery?utm_medium=rss)
- - [Google kills plans to offer bank accounts through Google Pay](https://appleinsider.com/articles/21/10/01/google-kills-plans-to-offer-bank-accounts-through-google-pay?utm_medium=rss)<!-- TECH:END -->
+ - [Nashville-based Built Technologies, which provides cloud-based construction lending software, raises $125M Series D led by TCV at a $1.5B valuation (Joel Stinnett/Nashville Business Journal)](http://www.techmeme.com/211001/p28#a211001p28)
+ - [Researchers receive $3.5 million to gain insight into brain and cranium development in children](https://techncruncher.blogspot.com/2021/10/researchers-receive-35-million-to-gain.html)
+ - [Apple delivers Safari 15.1 beta for macOS Big Sur and Catalina](https://appleinsider.com/articles/21/10/02/apple-delivers-safari-151-beta-for-macos-big-sur-and-catalina?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
