@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Do you feel whelmed?](http://9gag.com/gag/agBMppK)
- - 🚯 [Legend](http://9gag.com/gag/agBM691)
- - 🚯 [Another from Brazil](http://9gag.com/gag/aQowDv7)<!-- MEMES:END -->
+ - 🚖 [A fair gamble](http://9gag.com/gag/aQowBQd)
+ - 🚯 [Late realization](http://9gag.com/gag/aLpYOE5)
+ - 🚯 [We salute the rank, not the man.](http://9gag.com/gag/aNpxGgA)<!-- MEMES:END -->
 
 --- 
 
