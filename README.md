@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Good old craftsmanship...](http://9gag.com/gag/aMKR76M)
- - 🚯 [I&#039;m allowed to wear jeans, sneakers and collared t-shirt to work on the last working day of the week.](http://9gag.com/gag/aYo865O)
- - 🚯 [My name is Dufromage, Omelette Dufromage... like they say in France](http://9gag.com/gag/aEprKPM)<!-- MEMES:END -->
+ - 🚖 [Equality....](http://9gag.com/gag/aP3N2qP)
+ - 🚯 [Surprise motherf * cker](http://9gag.com/gag/ajmbvWq)
+ - 🚯 [Morgan Freeman solves racism](http://9gag.com/gag/a4Ee0Ly)<!-- MEMES:END -->
 
 --- 
 
