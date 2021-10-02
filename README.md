@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Venom 2’s blue eyes character reveal teases a third symbiote from Marvel history](https://www.polygon.com/comics/22691862/venom-2-blue-eyes-detective-toxin-marvel-symbiote)
- - [Here are all the free games you can grab right now](https://www.pcgamer.com/here-are-all-the-free-games-you-can-grab-right-now)
- - [Discord is getting rid of Stage Discovery, and it's easy to see why](https://www.pcgamer.com/discord-stage-discovery-removed)<!-- GAME:END -->
+ - [The Halloween Countdown: 31 days of horror to watch](https://www.polygon.com/22702474/best-halloween-movies-tv-to-watch-stream)
+ - [Last Call Is An Intimate Game About Healing From An Abusive Relationship](https://kotaku.com/last-call-is-an-intimate-game-about-healing-from-an-abu-1847785411)
+ - [Venom 2’s blue eyes character reveal teases a third symbiote from Marvel history](https://www.polygon.com/comics/22691862/venom-2-blue-eyes-detective-toxin-marvel-symbiote)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
