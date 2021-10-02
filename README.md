@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [My disappointment is immeasurable and my day is ruined](http://9gag.com/gag/aoMr6Ag)
- - 🚯 [Parking at home like WTF?! Why am I singing?!?](http://9gag.com/gag/aRX5GyM)
- - 🚯 [Well thats ah good start for a relationship](http://9gag.com/gag/ajmbjLq)<!-- MEMES:END -->
+ - 🚖 [Well thats ah good start for a relationship](http://9gag.com/gag/ajmbjLq)
+ - 🚯 [Let the spook begin](http://9gag.com/gag/aGp3qR6)
+ - 🚯 [Give me your best &ldquo;yo mama jokes&rdquo;](http://9gag.com/gag/ayMgA4X)<!-- MEMES:END -->
 
 --- 
 
