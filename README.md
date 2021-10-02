@@ -194,8 +194,8 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [NPC &quot;Child&quot; throwing tantrum over guy recording. (He actually just recording the street until she rolled down her window)](http://9gag.com/gag/av5Ywg5)
- - 🚯 [After almost two years searching I finally bought a family house in Hamburg... this the proof that nothing IS impossible: dream big, believe in yourself, work hard, have rich parents, never give up... you can make it!](http://9gag.com/gag/apNyMQ8)
+ - 🚖 [Who&rsquo;s getting the new RDR2 dlc? It looks good](http://9gag.com/gag/a9EQwQZ)
+ - 🚯 [Choo choo mf](http://9gag.com/gag/aV7n60v)
  - 🚯 [Equality....](http://9gag.com/gag/aP3N2qP)<!-- MEMES:END -->
 
 --- 
