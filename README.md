@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nashville-based Built Technologies, which provides cloud-based construction lending software, raises $125M Series D led by TCV at a $1.5B valuation (Joel Stinnett/Nashville Business Journal)](http://www.techmeme.com/211001/p28#a211001p28)
- - [Researchers receive $3.5 million to gain insight into brain and cranium development in children](https://techncruncher.blogspot.com/2021/10/researchers-receive-35-million-to-gain.html)
- - [Apple delivers Safari 15.1 beta for macOS Big Sur and Catalina](https://appleinsider.com/articles/21/10/02/apple-delivers-safari-151-beta-for-macos-big-sur-and-catalina?utm_medium=rss)<!-- TECH:END -->
+ - [LeadIQ, which offers cloud-based sales software, raises $30M Series B led by Cathay Innovation, bringing its total raised to $42M (Alex Wilhelm/TechCrunch)](http://www.techmeme.com/211001/p29#a211001p29)
+ - [Windows 11 release date: Only a few days left until Microsoft's new OS comes out     - CNET](https://www.cnet.com/tech/services-and-software/windows-11-release-date-heres-when-microsofts-new-os-comes-out/#ftag=CAD590a51e)
+ - [Nashville-based Built Technologies, which provides cloud-based construction lending software, raises $125M Series D led by TCV at a $1.5B valuation (Joel Stinnett/Nashville Business Journal)](http://www.techmeme.com/211001/p28#a211001p28)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
