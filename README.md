@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Windows 11 seems okay](https://www.theverge.com/22705148/windows-11-upgrade-beta-release-preview-impressions)
- - [Apple ends 2018 iPhone 8 Logic Board Repair Program](https://appleinsider.com/articles/21/10/02/apple-ends-2018-iphone-8-logic-board-repair-program?utm_medium=rss)
- - [Apple iPhone 13 Pro Max review: Minimal effort, maximum reward](https://www.androidauthority.com/apple-iphone-13-pro-max-review-3030784/)<!-- TECH:END -->
+ - [Tesla sold 241,300 cars in the third quarter while other automakers saw big drops](https://www.theverge.com/2021/10/2/22704830/tesla-sold-241300-cars-third-quarter)
+ - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-400-3033847/)
+ - [9 great reads from CNET this week: Amazon Astro, James Bond, robocalls and more     - CNET](https://www.cnet.com/home/smart-home/9-great-reads-from-cnet-this-week-100221-amazon-astro-james-bond-robocalls-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
