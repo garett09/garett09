@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Penguin released from rehab care.. It turns around one last time, &ldquo;Thanks for the good care!](http://9gag.com/gag/a9EQeZW)
- - 🚯 [My disappointment is immeasurable and my day is ruined](http://9gag.com/gag/aoMr6Ag)
- - 🚯 [I&#039;m allowed to wear jeans, sneakers and collared t-shirt to work on the last working day of the week.](http://9gag.com/gag/aYo865O)<!-- MEMES:END -->
+ - 🚖 [NPC &quot;Child&quot; throwing tantrum over guy recording. (He actually just recording the street until she rolled down her window)](http://9gag.com/gag/av5Ywg5)
+ - 🚯 [I think](http://9gag.com/gag/ayMgAGq)
+ - 🚯 [Good old craftsmanship...](http://9gag.com/gag/aMKR76M)<!-- MEMES:END -->
 
 --- 
 
