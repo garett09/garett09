@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [What are the best Wachowski movies? We ranked them all](https://www.androidauthority.com/best-wachowski-movies-ranked-3026437/)
- - [DC will give away free superhero NFTs to people who register for its FanDome event](https://www.theverge.com/2021/10/2/22705818/dc-free-superhero-nfts-register-fandome-event)
- - [NBCUniversal and YouTubeTV reach agreement to avoid dropped channels](https://www.theverge.com/2021/10/2/22701682/youtube-tv-reaches-deal-nbcuniversal-carriage-channels)<!-- TECH:END -->
+ - [A look at Apple's TV+ progress and strategy as it navigates a crowded streaming video market (Brandon Katz/Observer)](http://www.techmeme.com/211002/p9#a211002p9)
+ - [Trump tries to force Twitter to let him tweet again     - CNET](https://www.cnet.com/news/trump-tries-to-force-twitter-to-let-him-tweet-again/#ftag=CAD590a51e)
+ - [What are the best Wachowski movies? We ranked them all](https://www.androidauthority.com/best-wachowski-movies-ranked-3026437/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
