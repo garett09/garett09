@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Crapshoot: Shoot the 'Marketing Missile' in Forbes Corporate Warrior](https://www.pcgamer.com/saturday-crapshoot-forbes-corporate-warrior)
- - [New Open-World Horror Game Features An Evil Spider Train Named Charles](https://kotaku.com/new-open-world-horror-game-features-an-evil-spider-trai-1847788363)
- - [Elder Scrolls Online's infernal Deadlands expansion hits in November](https://www.pcgamer.com/elder-scrolls-onlines-infernal-deadlands-expansion-hits-in-november)<!-- GAME:END -->
+ - [What game are you tempted to replay whenever it's mentioned?](https://www.pcgamer.com/what-game-are-you-tempted-to-replay-whenever-its-mentioned)
+ - [Full New World servers will no longer allow character creation](https://www.pcgamer.com/full-new-world-servers-will-no-longer-allow-character-creation)
+ - [Crapshoot: Shoot the 'Marketing Missile' in Forbes Corporate Warrior](https://www.pcgamer.com/saturday-crapshoot-forbes-corporate-warrior)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
