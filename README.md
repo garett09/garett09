@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Explore The Elder Scrolls Online: Blackwood and Unlock the Upcoming Deadlands DLC](https://news.xbox.com/en-us/2021/10/01/explore-elder-scrolls-online-blackwood-and-unlock-deadlands/)
- - [With hundreds of demos at Steam Next Fest, here are 12 of our favorites](https://www.pcgamer.com/steam-next-fest-demos-october-2021)
- - [Free Guy, Many Saints of Newark, and every new movie available to watch from home](https://www.polygon.com/2021/10/1/22694649/free-guy-many-saints-of-newark-watch-netflix-disney-plus-hbo)<!-- GAME:END -->
+ - [Venom 2’s blue eyes character reveal teases a third symbiote from Marvel history](https://www.polygon.com/comics/22691862/venom-2-blue-eyes-detective-toxin-marvel-symbiote)
+ - [Here are all the free games you can grab right now](https://www.pcgamer.com/here-are-all-the-free-games-you-can-grab-right-now)
+ - [Discord is getting rid of Stage Discovery, and it's easy to see why](https://www.pcgamer.com/discord-stage-discovery-removed)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
