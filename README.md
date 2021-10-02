@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Electric vehicle maker Rivian has filed to go public](https://www.theverge.com/2021/10/1/22705048/electric-vehicle-maker-rivian-ipo-ford-amazon)
- - [Best power bank for iPhone in 2021     - CNET](https://www.cnet.com/tech/mobile/best-power-bank-for-iphone/#ftag=CAD590a51e)
- - [The best US Cellular deals: Any phone and unlimited data from $30 per month](https://www.androidauthority.com/best-us-cellular-deals-835558/)<!-- TECH:END -->
+ - [Sources: emergency meetings continue inside Facebook amid WSJ expose, as some research staff decry Facebook's public response in group chats (New York Times)](http://www.techmeme.com/211001/p27#a211001p27)
+ - [Apple patched an iOS lock screen bypass without crediting its discovery](https://appleinsider.com/articles/21/10/01/apple-patched-an-ios-lock-screen-bypass-without-crediting-its-discovery?utm_medium=rss)
+ - [Google kills plans to offer bank accounts through Google Pay](https://appleinsider.com/articles/21/10/01/google-kills-plans-to-offer-bank-accounts-through-google-pay?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
