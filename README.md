@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kuo: Apple has canceled plans to release an iPad Air with an OLED display in 2022 due to quality and cost concerns, will still release mini-LED 11" iPad Pro (Sami Fathi/MacRumors)](http://www.techmeme.com/211002/p8#a211002p8)
- - [Best video doorbell cameras for 2021: Ring, Nest, Arlo and more     - CNET](https://www.cnet.com/home/security/best-video-doorbell-cameras/#ftag=CAD590a51e)
- - [Kuo: 2022 iPad Air will use mini LED to avoid harming 11-inch iPad Pro sales](https://appleinsider.com/articles/21/10/02/kuo-2022-ipad-air-will-use-mini-led-to-avoid-harming-11-inch-ipad-pro-sales?utm_medium=rss)<!-- TECH:END -->
+ - [NBCUniversal and YouTubeTV reach agreement to avoid dropped channels](https://www.theverge.com/2021/10/2/22701682/youtube-tv-reaches-deal-nbcuniversal-carriage-channels)
+ - [New iPhones, new iPads, and new legal woes -- September 2021 in review](https://appleinsider.com/articles/21/10/02/new-iphones-new-ipads-and-new-legal-woes----september-2021-in-review?utm_medium=rss)
+ - [Russia sees no hurdles for WHO approval of Sputnik V vaccine](https://techncruncher.blogspot.com/2021/10/russia-sees-no-hurdles-for-who-approval.html)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
