@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This is one of the greatest speeches in TV history. But the last part felt like a prophecy.](http://9gag.com/gag/azMNvWz)
- - 🚯 [Late realization](http://9gag.com/gag/aLpYOE5)
- - 🚯 [Childhood](http://9gag.com/gag/aWjKA6q)<!-- MEMES:END -->
+ - 🚖 [Do you feel whelmed?](http://9gag.com/gag/agBMppK)
+ - 🚯 [Parking at home like WTF?! Why am I singing?!?](http://9gag.com/gag/aRX5GyM)
+ - 🚯 [I think](http://9gag.com/gag/ayMgAGq)<!-- MEMES:END -->
 
 --- 
 
