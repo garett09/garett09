@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This is one of the greatest speeches in TV history. But the last part felt like a prophecy.](http://9gag.com/gag/azMNvWz)
- - 🚯 [A Legendary Win For King Ragnar Lothbrok.](http://9gag.com/gag/av5YB5M)
- - 🚯 [Let the spook begin](http://9gag.com/gag/aGp3qR6)<!-- MEMES:END -->
+ - 🚖 [Another from Brazil](http://9gag.com/gag/aQowDv7)
+ - 🚯 [Europeans will understand](http://9gag.com/gag/aXoDQ8P)
+ - 🚯 [This is one of the greatest speeches in TV history. But the last part felt like a prophecy.](http://9gag.com/gag/azMNvWz)<!-- MEMES:END -->
 
 --- 
 
