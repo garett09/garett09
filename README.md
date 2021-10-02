@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon Astro review: impressive autonomous navigation skills, reasonable price for the tech, attractive design, but its daily utility is questionable (Carolina Milanesi/Fast Company)](http://www.techmeme.com/211002/p3#a211002p3)
- - [Apple delivers Safari 15.1 beta for macOS Big Sur and Catalina](https://appleinsider.com/articles/21/10/02/apple-delivers-safari-151-beta-for-macos-big-sur-and-catalina?utm_medium=rss)
- - [MFine, a Bangalore-based on-demand healthcare platform, raises $48M Series C co-led by Moore Strategic Ventures and BEENEXT, sources say at a $450M+ valuation (Tarush Bhalla/Livemint)](http://www.techmeme.com/211002/p2#a211002p2)<!-- TECH:END -->
+ - [The new tab design in Safari 15 for macOS makes usability worse and shows a complete disregard for the familiarity users had with Safari's previous tab design (John Gruber/Daring Fireball)](http://www.techmeme.com/211002/p4#a211002p4)
+ - [You can message yourself on WhatsApp to take notes](https://techncruncher.blogspot.com/2021/10/you-can-message-yourself-on-whatsapp-to.html)
+ - [Amazon Astro review: impressive autonomous navigation skills, reasonable price for the tech, attractive design, but its daily utility is questionable (Carolina Milanesi/Fast Company)](http://www.techmeme.com/211002/p3#a211002p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
