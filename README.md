@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [NPC &quot;Child&quot; throwing tantrum over guy recording. (He actually just recording the street until she rolled down her window)](http://9gag.com/gag/av5Ywg5)
- - 🚯 [I think](http://9gag.com/gag/ayMgAGq)
- - 🚯 [Good old craftsmanship...](http://9gag.com/gag/aMKR76M)<!-- MEMES:END -->
+ - 🚖 [Dennis Quaid meltdown.](http://9gag.com/gag/aMKR5BV)
+ - 🚯 [Tall](http://9gag.com/gag/a1rznxw)
+ - 🚯 [NPC &quot;Child&quot; throwing tantrum over guy recording. (He actually just recording the street until she rolled down her window)](http://9gag.com/gag/av5Ywg5)<!-- MEMES:END -->
 
 --- 
 
