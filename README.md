@@ -194,8 +194,8 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Every fuucking time](http://9gag.com/gag/a07AzeX)
- - 🚯 [MemeM A T H Gang](http://9gag.com/gag/aDdpNjx)
+ - 🚖 [MemeM A T H Gang](http://9gag.com/gag/aDdpNjx)
+ - 🚯 [Dusha](http://9gag.com/gag/aDdprQK)
  - 🚯 [Patch Tattoos by Duda Lozano](http://9gag.com/gag/a5EmvbG)<!-- MEMES:END -->
 
 --- 
