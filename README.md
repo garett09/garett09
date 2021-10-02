@@ -181,8 +181,8 @@ Windows                  7 hrs 16 mins       ███████████�
 
 <!-- GAME:START -->
  - [This Is Awkward, But The Most Searched Word On Bing Is 'Google'](https://kotaku.com/this-is-awkward-but-the-most-searched-word-on-bing-is-1847787828)
- - [Xbox Head Explains Console Shortages Will Continue Into 2022](https://kotaku.com/xbox-head-explains-console-shortages-will-continue-into-1847787478)
- - [Venom: Let There Be Carnage’s most faithful comic choice is the symbiote’s love of chocolate](https://www.polygon.com/comics/22691831/venom-chocolate)<!-- GAME:END -->
+ - [Here's a game about a gruesome spider-legged train named Charles](https://www.pcgamer.com/heres-a-survival-horror-game-about-a-gruesome-spider-legged-train-named-charles)
+ - [Xbox Head Explains Console Shortages Will Continue Into 2022](https://kotaku.com/xbox-head-explains-console-shortages-will-continue-into-1847787478)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
