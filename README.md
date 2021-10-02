@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [True!](http://9gag.com/gag/aMKRWMR)
- - 🚯 [Patch Tattoos by Duda Lozano](http://9gag.com/gag/a5EmvbG)
- - 🚯 [VR Pokemon Battles](http://9gag.com/gag/axMxQqp)<!-- MEMES:END -->
+ - 🚖 [Place your bet](http://9gag.com/gag/a3E9zj7)
+ - 🚯 [VR Pokemon Battles](http://9gag.com/gag/axMxQqp)
+ - 🚯 [Wow.so much food.. like three humongous sets of meal](http://9gag.com/gag/anQp0nb)<!-- MEMES:END -->
 
 --- 
 
