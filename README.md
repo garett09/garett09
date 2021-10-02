@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Online used-car dealers like Shift, Vroom, and Carvana have seen record sales over the past year, as the pandemic and chip shortages upended the US auto market (Kyle Stock/Bloomberg)](http://www.techmeme.com/211002/p6#a211002p6)
- - [Apple Watch release date, new emoji, and 'iPhone 14' details on This Week in Apple](https://appleinsider.com/articles/21/10/02/apple-watch-release-date-new-emoji-and-iphone-14-details-on-this-week-in-apple?utm_medium=rss)
- - [Alias 20th anniversary: 5 reasons you should go back and watch on Amazon Prime](https://www.androidauthority.com/alias-amazon-prime-video-3031546/)<!-- TECH:END -->
+ - [Slow Down With These Serene City-Building Games](https://www.wired.com/story/serene-city-building-games-islanders-townscaper-cloud-gardens)
+ - [Apple’s excellent AirPods Max are $80 off at Woot right now](https://www.theverge.com/good-deals/2021/10/2/22704734/apple-airpods-max-xbox-elite-series-2-controller-logitech-g915-tkl-keyboard-sony-a80j-oled-deal-sale)
+ - [I’m split by Super Monkey Ball Banana Mania](https://www.theverge.com/2021/10/2/22702918/super-monkey-ball-banana-mania-review)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
