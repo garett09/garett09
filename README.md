@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [NBCUniversal and YouTubeTV reach agreement to avoid dropped channels](https://www.theverge.com/2021/10/2/22701682/youtube-tv-reaches-deal-nbcuniversal-carriage-channels)
- - [New iPhones, new iPads, and new legal woes -- September 2021 in review](https://appleinsider.com/articles/21/10/02/new-iphones-new-ipads-and-new-legal-woes----september-2021-in-review?utm_medium=rss)
- - [Russia sees no hurdles for WHO approval of Sputnik V vaccine](https://techncruncher.blogspot.com/2021/10/russia-sees-no-hurdles-for-who-approval.html)<!-- TECH:END -->
+ - [What are the best Wachowski movies? We ranked them all](https://www.androidauthority.com/best-wachowski-movies-ranked-3026437/)
+ - [DC will give away free superhero NFTs to people who register for its FanDome event](https://www.theverge.com/2021/10/2/22705818/dc-free-superhero-nfts-register-fandome-event)
+ - [NBCUniversal and YouTubeTV reach agreement to avoid dropped channels](https://www.theverge.com/2021/10/2/22701682/youtube-tv-reaches-deal-nbcuniversal-carriage-channels)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
