@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Halloween Countdown: 31 days of horror to watch](https://www.polygon.com/22702474/best-halloween-movies-tv-to-watch-stream)
- - [Last Call Is An Intimate Game About Healing From An Abusive Relationship](https://kotaku.com/last-call-is-an-intimate-game-about-healing-from-an-abu-1847785411)
- - [Venom 2’s blue eyes character reveal teases a third symbiote from Marvel history](https://www.polygon.com/comics/22691862/venom-2-blue-eyes-detective-toxin-marvel-symbiote)<!-- GAME:END -->
+ - [Drifblim Carries People Away, Never To Be Seen Again](https://kotaku.com/drifblim-carries-people-away-never-to-be-seen-again-1847785048)
+ - [The 11 best movies new to streaming to watch in October](https://www.polygon.com/2021/10/2/22699003/best-new-movies-netflix-amazon-hbo-october-2021)
+ - [The Halloween Countdown: 31 days of horror to watch](https://www.polygon.com/22702474/best-halloween-movies-tv-to-watch-stream)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
