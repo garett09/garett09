@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Do you feel whelmed?](http://9gag.com/gag/agBMppK)
+ - 🚖 [My disappointment is immeasurable and my day is ruined](http://9gag.com/gag/aoMr6Ag)
  - 🚯 [Parking at home like WTF?! Why am I singing?!?](http://9gag.com/gag/aRX5GyM)
- - 🚯 [I think](http://9gag.com/gag/ayMgAGq)<!-- MEMES:END -->
+ - 🚯 [Well thats ah good start for a relationship](http://9gag.com/gag/ajmbjLq)<!-- MEMES:END -->
 
 --- 
 
