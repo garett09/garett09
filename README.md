@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Elder Scrolls Online's infernal Deadlands expansion hits in November](https://www.pcgamer.com/elder-scrolls-onlines-infernal-deadlands-expansion-hits-in-november)
- - [Everything That Has Happened Since The Activision Blizzard Lawsuit Was Filed](https://kotaku.com/everything-that-has-happened-since-the-activision-blizz-1847401161)
- - [This Is Awkward, But The Most Searched Word On Bing Is 'Google'](https://kotaku.com/this-is-awkward-but-the-most-searched-word-on-bing-is-1847787828)<!-- GAME:END -->
+ - [Crapshoot: Shoot the 'Marketing Missile' in Forbes Corporate Warrior](https://www.pcgamer.com/saturday-crapshoot-forbes-corporate-warrior)
+ - [New Open-World Horror Game Features An Evil Spider Train Named Charles](https://kotaku.com/new-open-world-horror-game-features-an-evil-spider-trai-1847788363)
+ - [Elder Scrolls Online's infernal Deadlands expansion hits in November](https://www.pcgamer.com/elder-scrolls-onlines-infernal-deadlands-expansion-hits-in-november)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
