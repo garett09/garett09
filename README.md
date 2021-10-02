@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Idiots overtaking on the emergency lane get blocked by trucker](http://9gag.com/gag/aXoDd6v)
- - 🚯 [How you treat animals says a lot about you](http://9gag.com/gag/a8EPXBY)
- - 🚯 [Save it again](http://9gag.com/gag/aMKRW5W)<!-- MEMES:END -->
+ - 🚖 [Motherfuvker slams a horse. Majestic](http://9gag.com/gag/agBMdoW)
+ - 🚯 [Patch Tattoos by Duda Lozano](http://9gag.com/gag/a5EmvbG)
+ - 🚯 [Simpler times](http://9gag.com/gag/aAbWN39)<!-- MEMES:END -->
 
 --- 
 
