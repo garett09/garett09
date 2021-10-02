@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [13 Great Deals on AirPods Max, Earbuds, Speakers, and More](https://www.wired.com/story/headphone-airpod-earbud-speaker-weekend-deals-oct-2021)
- - [The Time to Buy Your Holiday Presents Is Now](https://www.wired.com/story/buy-your-holiday-presents-now)
- - [As Istanbul becomes the world's capital of casual mobile gaming, with an estimated size of $880M in 2020, a look at the industry's exploitative labor practices (Kaya Gen&ccedil;/Rest of World)](http://www.techmeme.com/211002/p5#a211002p5)<!-- TECH:END -->
+ - [Online used-car dealers like Shift, Vroom, and Carvana have seen record sales over the past year, as the pandemic and chip shortages upended the US auto market (Kyle Stock/Bloomberg)](http://www.techmeme.com/211002/p6#a211002p6)
+ - [Apple Watch release date, new emoji, and 'iPhone 14' details on This Week in Apple](https://appleinsider.com/articles/21/10/02/apple-watch-release-date-new-emoji-and-iphone-14-details-on-this-week-in-apple?utm_medium=rss)
+ - [Alias 20th anniversary: 5 reasons you should go back and watch on Amazon Prime](https://www.androidauthority.com/alias-amazon-prime-video-3031546/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
