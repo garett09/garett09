@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple iPhone 13 Pro Max review: Minimal effort, maximum reward](https://www.androidauthority.com/apple-iphone-13-pro-max-review-3030784/)
- - [Trump sues to reinstate his Twitter account](https://www.theverge.com/2021/10/2/22705584/trump-sues-reinstate-twitter-account-jan-6-riot-protest)
- - [Amazon is hijacking our emotions to put robots in our homes](https://www.theverge.com/2021/10/2/22675512/amazon-astro-robot-emotion-pets-anki-vector)<!-- TECH:END -->
+ - [Windows 11 seems okay](https://www.theverge.com/22705148/windows-11-upgrade-beta-release-preview-impressions)
+ - [Apple ends 2018 iPhone 8 Logic Board Repair Program](https://appleinsider.com/articles/21/10/02/apple-ends-2018-iphone-8-logic-board-repair-program?utm_medium=rss)
+ - [Apple iPhone 13 Pro Max review: Minimal effort, maximum reward](https://www.androidauthority.com/apple-iphone-13-pro-max-review-3030784/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
