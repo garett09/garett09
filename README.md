@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple cancels Joseph Gordon-Levitt's 'Mr. Corman' after one season](https://appleinsider.com/articles/21/10/02/apple-cancels-joseph-gordon-levitts-mr-corman-after-one-season?utm_medium=rss)
- - [LeadIQ, which offers cloud-based sales software, raises $30M Series B led by Cathay Innovation, bringing its total raised to $42M (Alex Wilhelm/TechCrunch)](http://www.techmeme.com/211001/p29#a211001p29)
- - [Windows 11 release date: Only a few days left until Microsoft's new OS comes out     - CNET](https://www.cnet.com/tech/services-and-software/windows-11-release-date-heres-when-microsofts-new-os-comes-out/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [South Korean show Squid Game, topping Netflix charts in 90 countries, vindicates Netflix's strategy of creating franchises using content from around the world (Josef Adalian/Vulture)](http://www.techmeme.com/211002/p1#a211002p1)
+ - [Apple Card issue results in bill pay, other problems for some users [u]](https://appleinsider.com/articles/21/10/01/apple-card-issue-results-in-bill-pay-other-problems-for-some-users?utm_medium=rss)
+ - [Apple cancels Joseph Gordon-Levitt's 'Mr. Corman' after one season](https://appleinsider.com/articles/21/10/02/apple-cancels-joseph-gordon-levitts-mr-corman-after-one-season?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
