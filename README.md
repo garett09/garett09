@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Another from Brazil](http://9gag.com/gag/aQowDv7)
- - 🚯 [Europeans will understand](http://9gag.com/gag/aXoDQ8P)
- - 🚯 [This is one of the greatest speeches in TV history. But the last part felt like a prophecy.](http://9gag.com/gag/azMNvWz)<!-- MEMES:END -->
+ - 🚖 [Being a racist on social media and ends up losing her job](http://9gag.com/gag/abVPLvv)
+ - 🚯 [This is one of the greatest speeches in TV history. But the last part felt like a prophecy.](http://9gag.com/gag/azMNvWz)
+ - 🚯 [Give me your best &ldquo;yo mama jokes&rdquo;](http://9gag.com/gag/ayMgA4X)<!-- MEMES:END -->
 
 --- 
 
