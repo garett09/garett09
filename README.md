@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Slow Down With These Serene City-Building Games](https://www.wired.com/story/serene-city-building-games-islanders-townscaper-cloud-gardens)
- - [Apple’s excellent AirPods Max are $80 off at Woot right now](https://www.theverge.com/good-deals/2021/10/2/22704734/apple-airpods-max-xbox-elite-series-2-controller-logitech-g915-tkl-keyboard-sony-a80j-oled-deal-sale)
- - [I’m split by Super Monkey Ball Banana Mania](https://www.theverge.com/2021/10/2/22702918/super-monkey-ball-banana-mania-review)<!-- TECH:END -->
+ - [Apple iPhone 13 Pro Max review: Minimal effort, maximum reward](https://www.androidauthority.com/apple-iphone-13-pro-max-review-3030784/)
+ - [Trump sues to reinstate his Twitter account](https://www.theverge.com/2021/10/2/22705584/trump-sues-reinstate-twitter-account-jan-6-riot-protest)
+ - [Amazon is hijacking our emotions to put robots in our homes](https://www.theverge.com/2021/10/2/22675512/amazon-astro-robot-emotion-pets-anki-vector)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
