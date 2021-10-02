@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nomad magnetic Base Station Mini review: Magnets align for the fastest charge](https://appleinsider.com/articles/21/10/02/nomad-magnetic-base-station-mini-review-magnets-align-for-the-fastest-charge?utm_medium=rss)
  - [Find My downtime stops some users from locating lost devices](https://appleinsider.com/articles/21/10/02/find-my-downtime-stops-some-users-from-locating-lost-devices?utm_medium=rss)
- - [A very big eagle escaped from the National Aviary in Pittsburgh and is still at large](https://www.theverge.com/2021/10/2/22706177/stellers-sea-eagle-escaped-national-aviary-pittsburgh)
- - [A look at Apple's TV+ progress and strategy as it navigates a crowded streaming video market (Brandon Katz/Observer)](http://www.techmeme.com/211002/p9#a211002p9)<!-- TECH:END -->
+ - [Best phones for $300 or less: Galaxy A50, A32, Moto G Stylus and more     - CNET](https://www.cnet.com/tech/mobile/best-phones-under-300-galaxy/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
