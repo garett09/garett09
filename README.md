@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Lets face it&hellip;](http://9gag.com/gag/a7E4xxm)
- - 🚯 [Family Guy explains the covid vaccine.](http://9gag.com/gag/ajmbw3q)
- - 🚯 [Meanwhile in India...](http://9gag.com/gag/aRX5pRQ)<!-- MEMES:END -->
+ - 🚖 [Relive this rare footage of the late, great Robin Williams in action as The Genie He made this movie a classic!](http://9gag.com/gag/a7E4RQe)
+ - 🚯 [Won&#039;t need to worry about Vampires either](http://9gag.com/gag/aGp34d5)
+ - 🚯 [You don&rsquo;t even go here](http://9gag.com/gag/a9EQgoj)<!-- MEMES:END -->
 
 --- 
 
