@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ford and GM working toward settlement over the term ‘Cruise’ for hands-free driving](https://www.theverge.com/2021/10/3/22707077/ford-gm-working-toward-settlement-cruise-hands-free-driving-autonomous)
- - [OnePlus 9 Pro revisited: The good and the bad six months later](https://www.androidauthority.com/oneplus-9-pro-review-revisited-3028656/)
- - [A Simple Bug Is Leaving AirTag Users Vulnerable to an Attack](https://www.wired.com/story/simple-bug-leaving-airtag-users-vulnerable-attack)<!-- TECH:END -->
+ - [The Best Camera Gear for Your Smartphone](https://www.wired.com/gallery/best-photo-video-accessories-for-iphone-android)
+ - [M1X MacBook Pro still expected to launch in October](https://appleinsider.com/articles/21/10/03/m1x-macbook-pro-still-expected-to-launch-in-october?utm_medium=rss)
+ - [Can your PC run Windows 11? Learn how to here](https://techncruncher.blogspot.com/2021/10/can-your-pc-run-windows-11-learn-how-to.html)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
