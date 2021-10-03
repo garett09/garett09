@@ -194,8 +194,8 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Building site manager annoyed about how bad the fence has been installed](http://9gag.com/gag/ayMgKwy)
- - 🚯 [Equality....](http://9gag.com/gag/aP3N2qP)
+ - 🚖 [Equality....](http://9gag.com/gag/aP3N2qP)
+ - 🚯 [The correct way to handle Karens](http://9gag.com/gag/aRX5qjQ)
  - 🚯 [Bau bau](http://9gag.com/gag/aNpxbYA)<!-- MEMES:END -->
 
 --- 
