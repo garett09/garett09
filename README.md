@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Dexter&rsquo;s Lab, Samurai Jack, Swat Kats](http://9gag.com/gag/a7E4RGb)
- - 🚯 [Dubai&#039;s exponential growth](http://9gag.com/gag/a4EeOrQ)
- - 🚯 [We need to see some real shit](http://9gag.com/gag/aRX5b2B)<!-- MEMES:END -->
+ - 🚖 [Getting saved from mugging unexpectedly](http://9gag.com/gag/a8EPRzd)
+ - 🚯 [What a catch](http://9gag.com/gag/aK60QPQ)
+ - 🚯 [I miss this kind of meme. :(](http://9gag.com/gag/aMKRomP)<!-- MEMES:END -->
 
 --- 
 
