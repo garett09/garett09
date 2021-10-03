@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Bau bau](http://9gag.com/gag/aNpxbYA)
- - 🚯 [Won&#039;t need to worry about Vampires either](http://9gag.com/gag/aGp34d5)
- - 🚯 [Choo choo mf](http://9gag.com/gag/aV7n60v)<!-- MEMES:END -->
+ - 🚖 [Brisket](http://9gag.com/gag/aP3N24g)
+ - 🚯 [After almost two years searching I finally bought a family house in Hamburg... this the proof that nothing IS impossible: dream big, believe in yourself, work hard, have rich parents, never give up... you can make it!](http://9gag.com/gag/apNyMQ8)
+ - 🚯 [These are the real infinity stones.](http://9gag.com/gag/a8EPxA6)<!-- MEMES:END -->
 
 --- 
 
