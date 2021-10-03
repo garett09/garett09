@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [You don&rsquo;t even go here](http://9gag.com/gag/a9EQgoj)
- - 🚯 [What a catch](http://9gag.com/gag/aK60QPQ)
- - 🚯 [Ah yes.. the invisible tripping hazard. Classic](http://9gag.com/gag/arM6766)<!-- MEMES:END -->
+ - 🚖 [Dexter&rsquo;s Lab, Samurai Jack, Swat Kats](http://9gag.com/gag/a7E4RGb)
+ - 🚯 [Dubai&#039;s exponential growth](http://9gag.com/gag/a4EeOrQ)
+ - 🚯 [We need to see some real shit](http://9gag.com/gag/aRX5b2B)<!-- MEMES:END -->
 
 --- 
 
