@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Brisket](http://9gag.com/gag/aP3N24g)
- - 🚯 [After almost two years searching I finally bought a family house in Hamburg... this the proof that nothing IS impossible: dream big, believe in yourself, work hard, have rich parents, never give up... you can make it!](http://9gag.com/gag/apNyMQ8)
- - 🚯 [These are the real infinity stones.](http://9gag.com/gag/a8EPxA6)<!-- MEMES:END -->
+ - 🚖 [Morgan Freeman solves racism](http://9gag.com/gag/a4Ee0Ly)
+ - 🚯 [Lets face it&hellip;](http://9gag.com/gag/a7E4xxm)
+ - 🚯 [Meanwhile in India...](http://9gag.com/gag/aRX5pRQ)<!-- MEMES:END -->
 
 --- 
 
