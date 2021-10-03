@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Windows 11 release date: Microsoft's new OS comes out in 2 days     - CNET](https://www.cnet.com/tech/services-and-software/windows-11-release-date-microsofts-new-os-comes-out-in-2-days/#ftag=CAD590a51e)
- - [M1X MacBook Pro still expected to launch in October](https://appleinsider.com/articles/21/10/03/m1x-macbook-pro-still-expected-to-launch-in-october?utm_medium=rss)
- - [SNL says what we were all thinking in its billionaire Star Trek sketch](https://www.theverge.com/2021/10/3/22707112/snl-says-what-we-were-all-thinking-billionaire-star-trek-bezos-musk-branson-spacex-blue-origin)<!-- TECH:END -->
+ - [Watch one of the best cop movies of the 1990s on HBO Max](https://www.androidauthority.com/deep-cover-on-hbo-max-3032869/)
+ - [Best Deals Oct. 3: Apple AirPods Max, Lego sets, $120 off Eero Mesh Wi-Fi, and more!](https://appleinsider.com/articles/21/10/03/best-deals-oct-3-apple-airpods-max-lego-sets-120-off-eero-mesh-wi-fi-and-more?utm_medium=rss)
+ - [Google Doodle celebrates marine biologist María de los Ángeles Alvariño González     - CNET](https://www.cnet.com/news/google-doodle-celebrates-marine-biologist-maria-de-los-angeles-alvarino-gonzalez/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
