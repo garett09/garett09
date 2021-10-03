@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [NFL 2021: How to watch, stream Cardinals vs. Rams, Buccaneers vs. Patriots and the rest of Week 4 without cable     - CNET](https://www.cnet.com/tech/home-entertainment/nfl-2021-how-to-watch-stream-cardinals-vs-rams-buccaneers-vs-patriots-and-the-rest-of-week-4-without-cable/#ftag=CAD590a51e)
- - [The 2021 Beats Studio Buds are $25 off at Amazon     - CNET](https://www.cnet.com/tech/mobile/the-all-new-beats-studio-buds-are-already-on-sale-at-amazon/#ftag=CAD590a51e)
- - [Wearing the same pair of pants for a year straight connected me to my past     - CNET](https://www.cnet.com/news/wearing-the-same-pair-of-pants-for-a-year-straight-connected-me-to-my-past/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Europe-Japan mission to Mercury sends back photos of the planet’s cratered surface](https://www.theverge.com/2021/10/3/22707368/european-japan-mission-mercury-bepi-colombo-photos-space)
+ - [Best Deals Oct. 3: $470 Apple AirPods Max, $120 off Eero Pro 6 mesh router, more!](https://appleinsider.com/articles/21/10/03/best-deals-oct-3-apple-airpods-max-lego-sets-120-off-eero-mesh-wi-fi-and-more?utm_medium=rss)
+ - [Apple and Google could help with child safety online by determining a user's age at device setup and sharing it with apps implementing child safety features (Issie Lapowsky/Protocol)](http://www.techmeme.com/211003/p5#a211003p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
