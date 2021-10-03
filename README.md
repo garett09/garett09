@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [China releases its first set of guidelines on AI ethics, emphasizing user rights and data control, that align with Beijing's efforts to crack down on Big Tech (Xinmei Shen/South China Morning Post)](http://www.techmeme.com/211003/p1#a211003p1)
  - [1NCE, which offers cloud-based IoT connectivity services, raises $50M from SoftBank, Deutsche Telekom, and others, claims it manages 10M connections worldwide (Mary Lennighan/Telecoms.com)](http://www.techmeme.com/211002/p13#a211002p13)
- - [Germany-based Sch&uuml;ttflix, whose app connects suppliers and buyers in the construction industry, raises $50M Series A led by Draper Esprit to expand in Europe (Dan Taylor/Tech.eu)](http://www.techmeme.com/211002/p12#a211002p12)
- - [Ethereum is becoming the platform of choice for DeFi projects, but remains behind schedule with complex technical upgrades, as nimbler rivals emerge (Richard Waters/Financial Times)](http://www.techmeme.com/211002/p11#a211002p11)<!-- TECH:END -->
+ - [Germany-based Sch&uuml;ttflix, whose app connects suppliers and buyers in the construction industry, raises $50M Series A led by Draper Esprit to expand in Europe (Dan Taylor/Tech.eu)](http://www.techmeme.com/211002/p12#a211002p12)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
