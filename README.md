@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Research on wandering thoughts may offer clues about mental health](https://techncruncher.blogspot.com/2021/10/research-on-wandering-thoughts-may.html)
- - [Cancer patients on chemotherapy have lower immune response to COVID-19 vaccine, study finds](https://techncruncher.blogspot.com/2021/10/cancer-patients-on-chemotherapy-have.html)
- - [Providing better mental health treatment for adolescents with disabilities](https://techncruncher.blogspot.com/2021/10/providing-better-mental-health.html)<!-- TECH:END -->
+ - [MSU researchers make surprising discovery about the human gut's enteric nervous system](https://techncruncher.blogspot.com/2021/10/msu-researchers-make-surprising.html)
+ - [Limited options for managing UTIs make women fearful and frustrated](https://techncruncher.blogspot.com/2021/10/limited-options-for-managing-utis-make.html)
+ - [New study explores the best ways to increase physical activity in cancer survivors](https://techncruncher.blogspot.com/2021/10/new-study-explores-best-ways-to.html)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
