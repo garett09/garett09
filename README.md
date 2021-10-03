@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Relive this rare footage of the late, great Robin Williams in action as The Genie He made this movie a classic!](http://9gag.com/gag/a7E4RQe)
- - 🚯 [Won&#039;t need to worry about Vampires either](http://9gag.com/gag/aGp34d5)
- - 🚯 [You don&rsquo;t even go here](http://9gag.com/gag/a9EQgoj)<!-- MEMES:END -->
+ - 🚖 [You don&rsquo;t even go here](http://9gag.com/gag/a9EQgoj)
+ - 🚯 [What a catch](http://9gag.com/gag/aK60QPQ)
+ - 🚯 [Ah yes.. the invisible tripping hazard. Classic](http://9gag.com/gag/arM6766)<!-- MEMES:END -->
 
 --- 
 
