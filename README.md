@@ -194,8 +194,8 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What is this?](http://9gag.com/gag/aYo89P7)
- - 🚯 [Feels bad man](http://9gag.com/gag/aqj3qNZ)
+ - 🚖 [Here&#039;s how you drive a $100,000+ car](http://9gag.com/gag/a6EvPLm)
+ - 🚯 [Those ninjas cutting onions again](http://9gag.com/gag/aV7nNqP)
  - 🚯 [The force](http://9gag.com/gag/aGp3XLK)<!-- MEMES:END -->
 
 --- 
