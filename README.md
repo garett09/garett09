@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nomad magnetic Base Station Mini review: Magnets align for the fastest charge](https://appleinsider.com/articles/21/10/02/nomad-magnetic-base-station-mini-review-magnets-align-for-the-fastest-charge?utm_medium=rss)
- - [Find My downtime stops some users from locating lost devices](https://appleinsider.com/articles/21/10/02/find-my-downtime-stops-some-users-from-locating-lost-devices?utm_medium=rss)
- - [Best phones for $300 or less: Galaxy A50, A32, Moto G Stylus and more     - CNET](https://www.cnet.com/tech/mobile/best-phones-under-300-galaxy/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Research on wandering thoughts may offer clues about mental health](https://techncruncher.blogspot.com/2021/10/research-on-wandering-thoughts-may.html)
+ - [Cancer patients on chemotherapy have lower immune response to COVID-19 vaccine, study finds](https://techncruncher.blogspot.com/2021/10/cancer-patients-on-chemotherapy-have.html)
+ - [Providing better mental health treatment for adolescents with disabilities](https://techncruncher.blogspot.com/2021/10/providing-better-mental-health.html)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
