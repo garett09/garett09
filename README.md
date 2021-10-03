@@ -194,8 +194,8 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Getting saved from mugging unexpectedly](http://9gag.com/gag/a8EPRzd)
- - 🚯 [What a catch](http://9gag.com/gag/aK60QPQ)
+ - 🚖 [When you&#039;re hired on race, rather than skill.](http://9gag.com/gag/aQowW2K)
+ - 🚯 [Getting saved from mugging unexpectedly](http://9gag.com/gag/a8EPRzd)
  - 🚯 [I miss this kind of meme. :(](http://9gag.com/gag/aMKRomP)<!-- MEMES:END -->
 
 --- 
