@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Valve refunds tickets for Dota 2 International just days before event](https://www.pcgamer.com/valve-cancels-refunds-tickets-for-dota-2-international-just-days-before-event)
- - [Toph from Avatar: The Last Airbender Is Coming To Nickelodeon All-Star Brawl](https://kotaku.com/toph-from-avatar-the-last-airbender-is-coming-to-nicke-1847790125)
- - [This Week in PC Gaming: Far Cry 6, Super Monkey Ball Banana Mana, and Jett: The Far Shore](https://www.pcgamer.com/this-week-in-pc-gaming-far-cry-6-super-monkey-ball-banana-mana-and-jett-the-far-shore)<!-- GAME:END -->
+ - [Build castles to survive the Mongols in a free wave defense RTS](https://www.pcgamer.com/build-castles-to-survive-the-mongols-in-a-free-wave-defense-rts)
+ - [Over Populated New World Servers No Longer Allowing New Characters](https://kotaku.com/over-populated-new-world-servers-no-longer-allowing-new-1847790460)
+ - [Valve refunds tickets for Dota 2 International just days before event](https://www.pcgamer.com/valve-cancels-refunds-tickets-for-dota-2-international-just-days-before-event)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
