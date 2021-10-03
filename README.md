@@ -194,8 +194,8 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Morgan Freeman solves racism](http://9gag.com/gag/a4Ee0Ly)
- - 🚯 [Lets face it&hellip;](http://9gag.com/gag/a7E4xxm)
+ - 🚖 [Lets face it&hellip;](http://9gag.com/gag/a7E4xxm)
+ - 🚯 [Family Guy explains the covid vaccine.](http://9gag.com/gag/ajmbw3q)
  - 🚯 [Meanwhile in India...](http://9gag.com/gag/aRX5pRQ)<!-- MEMES:END -->
 
 --- 
