@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Does No One Gets Out Alive Set Up A Sequel? (What Does Ambar Choose?)](https://techncruncher.blogspot.com/2021/10/does-no-one-gets-out-alive-set-up.html)
- - [Many Saints Of Newark: Is Harold In The Sopranos? | Screen Rant](https://techncruncher.blogspot.com/2021/10/many-saints-of-newark-is-harold-in.html)
- - [How to Fix the Character Already on Server Error in Diablo 2: Resurrected](https://techncruncher.blogspot.com/2021/10/how-to-fix-character-already-on-server.html)<!-- TECH:END -->
+ - [Australia-based Cover Genius, a B2B insurance service which counts eBay and Intuit as partners, raises A$100M Series C led by Sompo Holdings at a A$1B valuation (Nabila Ahmed/Bloomberg)](http://www.techmeme.com/211003/p6#a211003p6)
+ - [Best Anime Anthologies To Watch | ScreenRant](https://techncruncher.blogspot.com/2021/10/best-anime-anthologies-to-watch.html)
+ - [Marvel's Spider-Man 2 Venom Fight Receives Clever Twist Idea From Fan](https://techncruncher.blogspot.com/2021/10/marvels-spider-man-2-venom-fight.html)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
