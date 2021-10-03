@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Drunk stepfather picks a fight while stepson is streaming](http://9gag.com/gag/aoMrbPm)
- - 🚯 [Seems about right](http://9gag.com/gag/aO3gME2)
- - 🚯 [The force](http://9gag.com/gag/aGp3XLK)<!-- MEMES:END -->
+ - 🚖 [The force](http://9gag.com/gag/aGp3XLK)
+ - 🚯 [Your daily dose of vengeance](http://9gag.com/gag/aGp3Xz6)
+ - 🚯 [This fools are a laughing stock.](http://9gag.com/gag/av5YMbq)<!-- MEMES:END -->
 
 --- 
 
