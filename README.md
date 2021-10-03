@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Valve Refunds All DOTA 2 Tourney Tickets Only 12 Days After Selling Them, Event No Longer To Have Live Audience](https://kotaku.com/valve-refunds-all-dota-2-tourney-tickets-only-12-days-a-1847789874)
  - [The animated Addams Family movies miss what’s funny about the creepy, kooky family](https://www.polygon.com/reviews/22706497/addams-family-2-review-animated)
- - [Sunday Comics: No, No, No, No](https://kotaku.com/sunday-comics-no-no-no-no-1847788704)
- - [The Halloween Countdown: 31 days of horror](https://www.polygon.com/22702474/best-halloween-movies-tv-to-watch-stream)<!-- GAME:END -->
+ - [Sunday Comics: No, No, No, No](https://kotaku.com/sunday-comics-no-no-no-no-1847788704)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
