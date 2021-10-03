@@ -188,8 +188,8 @@ Windows                  7 hrs 16 mins       ███████████�
 
 <!-- TECH:START -->
  - [Weekly Authority: Edition #162](https://www.androidauthority.com/newsletters/weekly-authority-edition-162/)
- - [Analysis: Apple's operating profits from games in FY 2019 totaled $8.5B, $2B more than the combined profits of Sony, Activision, Nintendo, and Microsoft (Tim Higgins/Wall Street Journal)](http://www.techmeme.com/211003/p2#a211003p2)
- - [China releases its first set of guidelines on AI ethics, emphasizing user rights and data control, that align with Beijing's efforts to crack down on Big Tech (Xinmei Shen/South China Morning Post)](http://www.techmeme.com/211003/p1#a211003p1)<!-- TECH:END -->
+ - [Rolls-Royce Boat Tail struts its uber-opulence at Villa d'Este     - Roadshow](https://www.cnet.com/roadshow/features/rolls-royce-boat-tail-coachbuild-bespoke-one-off-convertible/#ftag=CAD590a51e)
+ - [Analysis: Apple's operating profits from games in FY 2019 totaled $8.5B, $2B more than the combined profits of Sony, Activision, Nintendo, and Microsoft (Tim Higgins/Wall Street Journal)](http://www.techmeme.com/211003/p2#a211003p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
