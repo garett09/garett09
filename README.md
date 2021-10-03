@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [This Week in PC Gaming: Far Cry 6, Super Monkey Ball Banana Mana, and Jett: The Far Shore](https://www.pcgamer.com/this-week-in-pc-gaming-far-cry-6-super-monkey-ball-banana-mana-and-jett-the-far-shore)
  - [Valve Refunds All DOTA 2 Tourney Tickets Only 12 Days After Selling Them, Event No Longer To Have Live Audience](https://kotaku.com/valve-refunds-all-dota-2-tourney-tickets-only-12-days-a-1847789874)
- - [The animated Addams Family movies miss what’s funny about the creepy, kooky family](https://www.polygon.com/reviews/22706497/addams-family-2-review-animated)
- - [Sunday Comics: No, No, No, No](https://kotaku.com/sunday-comics-no-no-no-no-1847788704)<!-- GAME:END -->
+ - [The animated Addams Family movies miss what’s funny about the creepy, kooky family](https://www.polygon.com/reviews/22706497/addams-family-2-review-animated)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
