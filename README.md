@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ethereum is becoming the platform of choice for DeFi projects, but remains behind schedule with complex technical upgrades, as nimbler rivals emerge (Richard Waters/Financial Times)](http://www.techmeme.com/211002/p11#a211002p11)
- - [MSU researchers make surprising discovery about the human gut's enteric nervous system](https://techncruncher.blogspot.com/2021/10/msu-researchers-make-surprising.html)
- - [Limited options for managing UTIs make women fearful and frustrated](https://techncruncher.blogspot.com/2021/10/limited-options-for-managing-utis-make.html)<!-- TECH:END -->
+ - [1NCE, which offers cloud-based IoT connectivity services, raises $50M from SoftBank, Deutsche Telekom, and others, claims it manages 10M connections worldwide (Mary Lennighan/Telecoms.com)](http://www.techmeme.com/211002/p13#a211002p13)
+ - [Germany-based Sch&uuml;ttflix, whose app connects suppliers and buyers in the construction industry, raises $50M Series A led by Draper Esprit to expand in Europe (Dan Taylor/Tech.eu)](http://www.techmeme.com/211002/p12#a211002p12)
+ - [Ethereum is becoming the platform of choice for DeFi projects, but remains behind schedule with complex technical upgrades, as nimbler rivals emerge (Richard Waters/Financial Times)](http://www.techmeme.com/211002/p11#a211002p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
