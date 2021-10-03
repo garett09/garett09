@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hold my beer](http://9gag.com/gag/axMxxvn)
- - 🚯 [What if all sports used bowling balls](http://9gag.com/gag/a9EQ931)
- - 🚯 [Those ninjas cutting onions again](http://9gag.com/gag/aV7nNqP)<!-- MEMES:END -->
+ - 🚖 [Cat needs to eat.](http://9gag.com/gag/aDdpp2N)
+ - 🚯 [Feels bad man](http://9gag.com/gag/aqj3qNZ)
+ - 🚯 [What if all sports used bowling balls](http://9gag.com/gag/a9EQ931)<!-- MEMES:END -->
 
 --- 
 
