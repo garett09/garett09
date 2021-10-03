@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Watch one of the best cop movies of the 1990s on HBO Max](https://www.androidauthority.com/deep-cover-on-hbo-max-3032869/)
- - [Best Deals Oct. 3: Apple AirPods Max, Lego sets, $120 off Eero Mesh Wi-Fi, and more!](https://appleinsider.com/articles/21/10/03/best-deals-oct-3-apple-airpods-max-lego-sets-120-off-eero-mesh-wi-fi-and-more?utm_medium=rss)
- - [Google Doodle celebrates marine biologist María de los Ángeles Alvariño González     - CNET](https://www.cnet.com/news/google-doodle-celebrates-marine-biologist-maria-de-los-angeles-alvarino-gonzalez/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [NFL 2021: How to watch, stream Cardinals vs. Rams, Buccaneers vs. Patriots and the rest of Week 4 without cable     - CNET](https://www.cnet.com/tech/home-entertainment/nfl-2021-how-to-watch-stream-cardinals-vs-rams-buccaneers-vs-patriots-and-the-rest-of-week-4-without-cable/#ftag=CAD590a51e)
+ - [The 2021 Beats Studio Buds are $25 off at Amazon     - CNET](https://www.cnet.com/tech/mobile/the-all-new-beats-studio-buds-are-already-on-sale-at-amazon/#ftag=CAD590a51e)
+ - [Wearing the same pair of pants for a year straight connected me to my past     - CNET](https://www.cnet.com/news/wearing-the-same-pair-of-pants-for-a-year-straight-connected-me-to-my-past/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
