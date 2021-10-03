@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The Halloween Countdown: 31 days of horror](https://www.polygon.com/22702474/best-halloween-movies-tv-to-watch-stream)
  - [The creator of Ethereum got into crypto because Blizzard nerfed his character](https://www.pcgamer.com/the-creator-of-ethereum-got-into-crypto-because-blizzard-nerfed-his-character)
- - [What game are you tempted to replay whenever it's mentioned?](https://www.pcgamer.com/what-game-are-you-tempted-to-replay-whenever-its-mentioned)
- - [Full New World servers will no longer allow character creation](https://www.pcgamer.com/full-new-world-servers-will-no-longer-allow-character-creation)<!-- GAME:END -->
+ - [What game are you tempted to replay whenever it's mentioned?](https://www.pcgamer.com/what-game-are-you-tempted-to-replay-whenever-its-mentioned)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
