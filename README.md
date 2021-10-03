@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Equality....](http://9gag.com/gag/aP3N2qP)
- - 🚯 [The correct way to handle Karens](http://9gag.com/gag/aRX5qjQ)
- - 🚯 [Bau bau](http://9gag.com/gag/aNpxbYA)<!-- MEMES:END -->
+ - 🚖 [Bau bau](http://9gag.com/gag/aNpxbYA)
+ - 🚯 [Won&#039;t need to worry about Vampires either](http://9gag.com/gag/aGp34d5)
+ - 🚯 [Choo choo mf](http://9gag.com/gag/aV7n60v)<!-- MEMES:END -->
 
 --- 
 
