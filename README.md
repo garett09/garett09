@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Analysis: Apple's operating profits from games in FY 2019 totaled $8.5B, $2B more than the combined profits of Sony, Activision, Nintendo, and Microsoft (Tim Higgins/Wall Street Journal)](http://www.techmeme.com/211003/p2#a211003p2)
  - [China releases its first set of guidelines on AI ethics, emphasizing user rights and data control, that align with Beijing's efforts to crack down on Big Tech (Xinmei Shen/South China Morning Post)](http://www.techmeme.com/211003/p1#a211003p1)
- - [1NCE, which offers cloud-based IoT connectivity services, raises $50M from SoftBank, Deutsche Telekom, and others, claims it manages 10M connections worldwide (Mary Lennighan/Telecoms.com)](http://www.techmeme.com/211002/p13#a211002p13)
- - [Germany-based Sch&uuml;ttflix, whose app connects suppliers and buyers in the construction industry, raises $50M Series A led by Draper Esprit to expand in Europe (Dan Taylor/Tech.eu)](http://www.techmeme.com/211002/p12#a211002p12)<!-- TECH:END -->
+ - [1NCE, which offers cloud-based IoT connectivity services, raises $50M from SoftBank, Deutsche Telekom, and others, claims it manages 10M connections worldwide (Mary Lennighan/Telecoms.com)](http://www.techmeme.com/211002/p13#a211002p13)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
