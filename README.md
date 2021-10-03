@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Halloween is coming](http://9gag.com/gag/azMNWGq)
- - 🚯 [Whoever is running earth simulation please stop](http://9gag.com/gag/aGp3X07)
- - 🚯 [The force](http://9gag.com/gag/aGp3XLK)<!-- MEMES:END -->
+ - 🚖 [Whoever is running earth simulation please stop](http://9gag.com/gag/aGp3X07)
+ - 🚯 [Just a kid having fun](http://9gag.com/gag/azMNWOK)
+ - 🚯 [Drone flight through bowling alley in one take.](http://9gag.com/gag/azMNnjK)<!-- MEMES:END -->
 
 --- 
 
