@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Halloween Countdown: 31 days of horror](https://www.polygon.com/22702474/best-halloween-movies-tv-to-watch-stream)
- - [The creator of Ethereum got into crypto because Blizzard nerfed his character](https://www.pcgamer.com/the-creator-of-ethereum-got-into-crypto-because-blizzard-nerfed-his-character)
- - [What game are you tempted to replay whenever it's mentioned?](https://www.pcgamer.com/what-game-are-you-tempted-to-replay-whenever-its-mentioned)<!-- GAME:END -->
+ - [The animated Addams Family movies miss what’s funny about the creepy, kooky family](https://www.polygon.com/reviews/22706497/addams-family-2-review-animated)
+ - [Sunday Comics: No, No, No, No](https://kotaku.com/sunday-comics-no-no-no-no-1847788704)
+ - [The Halloween Countdown: 31 days of horror](https://www.polygon.com/22702474/best-halloween-movies-tv-to-watch-stream)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
