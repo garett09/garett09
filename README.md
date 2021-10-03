@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The force](http://9gag.com/gag/aGp3XLK)
- - 🚯 [Your daily dose of vengeance](http://9gag.com/gag/aGp3Xz6)
- - 🚯 [This fools are a laughing stock.](http://9gag.com/gag/av5YMbq)<!-- MEMES:END -->
+ - 🚖 [Hold my beer](http://9gag.com/gag/axMxxvn)
+ - 🚯 [What if all sports used bowling balls](http://9gag.com/gag/a9EQ931)
+ - 🚯 [Those ninjas cutting onions again](http://9gag.com/gag/aV7nNqP)<!-- MEMES:END -->
 
 --- 
 
