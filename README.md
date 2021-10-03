@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Europe-Japan mission to Mercury sends back photos of the planet’s cratered surface](https://www.theverge.com/2021/10/3/22707368/european-japan-mission-mercury-bepi-colombo-photos-space)
- - [Best Deals Oct. 3: $470 Apple AirPods Max, $120 off Eero Pro 6 mesh router, more!](https://appleinsider.com/articles/21/10/03/best-deals-oct-3-apple-airpods-max-lego-sets-120-off-eero-mesh-wi-fi-and-more?utm_medium=rss)
- - [Apple and Google could help with child safety online by determining a user's age at device setup and sharing it with apps implementing child safety features (Issie Lapowsky/Protocol)](http://www.techmeme.com/211003/p5#a211003p5)<!-- TECH:END -->
+ - [Who Is Aquaman 2's New Shark Villain: Karshon Powers & Origin Explained](https://techncruncher.blogspot.com/2021/10/who-is-aquaman-2s-new-shark-villain.html)
+ - [Undisputed 5 Should Bring Back Michael Jai White's Boxer Iceman](https://techncruncher.blogspot.com/2021/10/undisputed-5-should-bring-back-michael.html)
+ - [Apple ends 2018 iPhone 8 Logic Board Repair Program](https://appleinsider.com/articles/21/10/02/apple-ends-2018-iphone-8-logic-board-repair-program?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
