@@ -194,8 +194,8 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Poor doggo](http://9gag.com/gag/aeAoo4B)
- - 🚯 [What if all sports used bowling balls](http://9gag.com/gag/a9EQ931)
+ - 🚖 [What if all sports used bowling balls](http://9gag.com/gag/a9EQ931)
+ - 🚯 [Wow! Such kind words!](http://9gag.com/gag/av5YYmb)
  - 🚯 [Ramsay is not amused](http://9gag.com/gag/aP3NK5B)<!-- MEMES:END -->
 
 --- 
