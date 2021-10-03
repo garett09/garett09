@@ -194,8 +194,8 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Here&#039;s how you drive a $100,000+ car](http://9gag.com/gag/a6EvPLm)
- - 🚯 [Those ninjas cutting onions again](http://9gag.com/gag/aV7nNqP)
+ - 🚖 [Drunk stepfather picks a fight while stepson is streaming](http://9gag.com/gag/aoMrbPm)
+ - 🚯 [Seems about right](http://9gag.com/gag/aO3gME2)
  - 🚯 [The force](http://9gag.com/gag/aGp3XLK)<!-- MEMES:END -->
 
 --- 
