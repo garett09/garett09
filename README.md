@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [TP-Link's New Wi-Fi 6 Router Puts Gamers in the Fast Lane](https://www.wired.com/review/tp-link-archer-gx90-ax6600)
- - [A Mathematician Answers a 150-Year-Old Chess Problem](https://www.wired.com/story/a-mathematician-answers-a-150-year-old-chess-problem)
- - [A shortage of silicon metal, sparked by China cutting output, has sent prices up 300% in less than two months, impacting production of chips, glass, and more (Bloomberg)](http://www.techmeme.com/211003/p3#a211003p3)<!-- TECH:END -->
+ - [Ford and GM working toward settlement over the term ‘Cruise’ for hands-free driving](https://www.theverge.com/2021/10/3/22707077/ford-gm-working-toward-settlement-cruise-hands-free-driving-autonomous)
+ - [OnePlus 9 Pro revisited: The good and the bad six months later](https://www.androidauthority.com/oneplus-9-pro-review-revisited-3028656/)
+ - [A Simple Bug Is Leaving AirTag Users Vulnerable to an Attack](https://www.wired.com/story/simple-bug-leaving-airtag-users-vulnerable-attack)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
