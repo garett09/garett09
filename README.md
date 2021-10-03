@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Best Camera Gear for Your Smartphone](https://www.wired.com/gallery/best-photo-video-accessories-for-iphone-android)
+ - [Windows 11 release date: Microsoft's new OS comes out in 2 days     - CNET](https://www.cnet.com/tech/services-and-software/windows-11-release-date-microsofts-new-os-comes-out-in-2-days/#ftag=CAD590a51e)
  - [M1X MacBook Pro still expected to launch in October](https://appleinsider.com/articles/21/10/03/m1x-macbook-pro-still-expected-to-launch-in-october?utm_medium=rss)
- - [Can your PC run Windows 11? Learn how to here](https://techncruncher.blogspot.com/2021/10/can-your-pc-run-windows-11-learn-how-to.html)<!-- TECH:END -->
+ - [SNL says what we were all thinking in its billionaire Star Trek sketch](https://www.theverge.com/2021/10/3/22707112/snl-says-what-we-were-all-thinking-billionaire-star-trek-bezos-musk-branson-spacex-blue-origin)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
