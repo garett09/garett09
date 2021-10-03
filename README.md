@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Cat needs to eat.](http://9gag.com/gag/aDdpp2N)
- - 🚯 [Feels bad man](http://9gag.com/gag/aqj3qNZ)
- - 🚯 [What if all sports used bowling balls](http://9gag.com/gag/a9EQ931)<!-- MEMES:END -->
+ - 🚖 [Poor doggo](http://9gag.com/gag/aeAoo4B)
+ - 🚯 [What if all sports used bowling balls](http://9gag.com/gag/a9EQ931)
+ - 🚯 [Ramsay is not amused](http://9gag.com/gag/aP3NK5B)<!-- MEMES:END -->
 
 --- 
 
