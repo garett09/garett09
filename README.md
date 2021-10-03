@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Who&rsquo;s getting the new RDR2 dlc? It looks good](http://9gag.com/gag/a9EQwQZ)
- - 🚯 [Choo choo mf](http://9gag.com/gag/aV7n60v)
- - 🚯 [Equality....](http://9gag.com/gag/aP3N2qP)<!-- MEMES:END -->
+ - 🚖 [That has to be at least $5 of damage.](http://9gag.com/gag/ad8Zw1Z)
+ - 🚯 [Equality....](http://9gag.com/gag/aP3N2qP)
+ - 🚯 [Bau bau](http://9gag.com/gag/aNpxbYA)<!-- MEMES:END -->
 
 --- 
 
