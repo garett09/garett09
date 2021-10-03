@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When you&#039;re hired on race, rather than skill.](http://9gag.com/gag/aQowW2K)
- - 🚯 [Getting saved from mugging unexpectedly](http://9gag.com/gag/a8EPRzd)
- - 🚯 [I miss this kind of meme. :(](http://9gag.com/gag/aMKRomP)<!-- MEMES:END -->
+ - 🚖 [Getting saved from mugging unexpectedly](http://9gag.com/gag/a8EPRzd)
+ - 🚯 [I miss this kind of meme. :(](http://9gag.com/gag/aMKRomP)
+ - 🚯 [People from florida are either dumb af, or brave af.](http://9gag.com/gag/aB2qAWO)<!-- MEMES:END -->
 
 --- 
 
