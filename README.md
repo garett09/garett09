@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Weekly Authority: Edition #162](https://www.androidauthority.com/newsletters/weekly-authority-edition-162/)
- - [Rolls-Royce Boat Tail struts its uber-opulence at Villa d'Este     - Roadshow](https://www.cnet.com/roadshow/features/rolls-royce-boat-tail-coachbuild-bespoke-one-off-convertible/#ftag=CAD590a51e)
- - [Analysis: Apple's operating profits from games in FY 2019 totaled $8.5B, $2B more than the combined profits of Sony, Activision, Nintendo, and Microsoft (Tim Higgins/Wall Street Journal)](http://www.techmeme.com/211003/p2#a211003p2)<!-- TECH:END -->
+ - [A shortage of silicon metal, sparked by China cutting output, has sent prices up 300% in less than two months, impacting production of chips, glass, and more (Bloomberg)](http://www.techmeme.com/211003/p3#a211003p3)
+ - [How to Get Google Search Results That Are Actually Useful](https://www.wired.com/story/how-to-useful-google-search-results)
+ - [Weekly Authority: Edition #162](https://www.androidauthority.com/newsletters/weekly-authority-edition-162/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
