@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Who Is Aquaman 2's New Shark Villain: Karshon Powers & Origin Explained](https://techncruncher.blogspot.com/2021/10/who-is-aquaman-2s-new-shark-villain.html)
- - [Undisputed 5 Should Bring Back Michael Jai White's Boxer Iceman](https://techncruncher.blogspot.com/2021/10/undisputed-5-should-bring-back-michael.html)
- - [Apple ends 2018 iPhone 8 Logic Board Repair Program](https://appleinsider.com/articles/21/10/02/apple-ends-2018-iphone-8-logic-board-repair-program?utm_medium=rss)<!-- TECH:END -->
+ - [Does No One Gets Out Alive Set Up A Sequel? (What Does Ambar Choose?)](https://techncruncher.blogspot.com/2021/10/does-no-one-gets-out-alive-set-up.html)
+ - [Many Saints Of Newark: Is Harold In The Sopranos? | Screen Rant](https://techncruncher.blogspot.com/2021/10/many-saints-of-newark-is-harold-in.html)
+ - [How to Fix the Character Already on Server Error in Diablo 2: Resurrected](https://techncruncher.blogspot.com/2021/10/how-to-fix-character-already-on-server.html)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
