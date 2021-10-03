@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Getting saved from mugging unexpectedly](http://9gag.com/gag/a8EPRzd)
- - 🚯 [I miss this kind of meme. :(](http://9gag.com/gag/aMKRomP)
- - 🚯 [People from florida are either dumb af, or brave af.](http://9gag.com/gag/aB2qAWO)<!-- MEMES:END -->
+ - 🚖 [When you retire and you don&rsquo;t have any hobbies&hellip;](http://9gag.com/gag/a8EPRrZ)
+ - 🚯 [Drone flight through bowling alley in one take.](http://9gag.com/gag/azMNnjK)
+ - 🚯 [We need to see some real shit](http://9gag.com/gag/aRX5b2B)<!-- MEMES:END -->
 
 --- 
 
