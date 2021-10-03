@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This Week in PC Gaming: Far Cry 6, Super Monkey Ball Banana Mana, and Jett: The Far Shore](https://www.pcgamer.com/this-week-in-pc-gaming-far-cry-6-super-monkey-ball-banana-mana-and-jett-the-far-shore)
- - [Valve Refunds All DOTA 2 Tourney Tickets Only 12 Days After Selling Them, Event No Longer To Have Live Audience](https://kotaku.com/valve-refunds-all-dota-2-tourney-tickets-only-12-days-a-1847789874)
- - [The animated Addams Family movies miss what’s funny about the creepy, kooky family](https://www.polygon.com/reviews/22706497/addams-family-2-review-animated)<!-- GAME:END -->
+ - [Valve refunds tickets for Dota 2 International just days before event](https://www.pcgamer.com/valve-cancels-refunds-tickets-for-dota-2-international-just-days-before-event)
+ - [Toph from Avatar: The Last Airbender Is Coming To Nickelodeon All-Star Brawl](https://kotaku.com/toph-from-avatar-the-last-airbender-is-coming-to-nicke-1847790125)
+ - [This Week in PC Gaming: Far Cry 6, Super Monkey Ball Banana Mana, and Jett: The Far Shore](https://www.pcgamer.com/this-week-in-pc-gaming-far-cry-6-super-monkey-ball-banana-mana-and-jett-the-far-shore)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
