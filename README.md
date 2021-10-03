@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When you retire and you don&rsquo;t have any hobbies&hellip;](http://9gag.com/gag/a8EPRrZ)
- - 🚯 [Drone flight through bowling alley in one take.](http://9gag.com/gag/azMNnjK)
- - 🚯 [We need to see some real shit](http://9gag.com/gag/aRX5b2B)<!-- MEMES:END -->
+ - 🚖 [Halloween is coming](http://9gag.com/gag/azMNWGq)
+ - 🚯 [Whoever is running earth simulation please stop](http://9gag.com/gag/aGp3X07)
+ - 🚯 [The force](http://9gag.com/gag/aGp3XLK)<!-- MEMES:END -->
 
 --- 
 
