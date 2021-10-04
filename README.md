@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [You told us: You mind your manners around Alexa, Google Assistant, and Siri](https://www.androidauthority.com/voice-assistant-please-thank-poll-results-3034212/)
- - [WhatsApp could make listening to voice messages a lot less annoying](https://www.androidauthority.com/whatsapp-voice-message-player-3034251/)
- - [Forget the iPhone 13 -- here's why the iPhone 11 is still a great buy in 2021     - CNET](https://www.cnet.com/tech/mobile/forget-the-iphone-13-heres-why-the-iphone-11-is-still-great-buy-in-2021/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Dyson’s next robot vacuum cleaner revealed in FCC filings with new design](https://www.theverge.com/circuitbreaker/2021/10/4/22708470/dyson-robot-vacuum-cleaner-us-fcc-filing)
+ - [Clearview AI Has New Tools to Identify You in Photos](https://www.wired.com/story/clearview-ai-new-tools-identify-you-photos)
+ - [20 Years After the Anthrax Attacks, We’re Still Unprepared](https://www.wired.com/story/20-years-after-the-anthrax-attacks-were-still-unprepared)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
