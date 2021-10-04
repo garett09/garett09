@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Not sure how bad I should feel](http://9gag.com/gag/aoMrrQ2)
- - 🚯 [Yesyesyesno](http://9gag.com/gag/a6EWrxm)
- - 🚯 [I&#039;m not sure if she&#039;s his mother or girlfriend](http://9gag.com/gag/aXo8ZXb)<!-- MEMES:END -->
+ - 🚖 [It&#039;s been long overdue](http://9gag.com/gag/aYo8z87)
+ - 🚯 [I&#039;m not sure if she&#039;s his mother or girlfriend](http://9gag.com/gag/aXo8ZXb)
+ - 🚯 [Yesyesyesno](http://9gag.com/gag/a6EWrxm)<!-- MEMES:END -->
 
 --- 
 
