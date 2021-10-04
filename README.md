@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How to defend yourself 101](http://9gag.com/gag/a27QNvD)
- - 🚯 [Garbage being dumped directly into the Amazon river in Tingo Maria, Peru...Person that took video (Martin Hutchinson) threatened by the Government and forced to flee the country.](http://9gag.com/gag/aRXxQxB)
- - 🚯 [Mesmerizing](http://9gag.com/gag/a8Erbm6)<!-- MEMES:END -->
+ - 🚖 [This kind of activism should be criminalised.](http://9gag.com/gag/amPDX5X)
+ - 🚯 [Insulate Britain activist&#039;s attempt to block of bust road in London. Londoners weren&#039;t having any of it.](http://9gag.com/gag/ayMyppr)
+ - 🚯 [Russian chad](http://9gag.com/gag/a07mPpd)<!-- MEMES:END -->
 
 --- 
 
