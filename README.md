@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [October patch rolls out to Galaxy S20 FE starting in Europe](https://www.androidauthority.com/samsung-galaxy-s20-fe-update-1186657/)
  - [Ula, a food-focused B2B e-commerce marketplace in Indonesia, raises $87M Series B with investors including Jeff Bezos, following its $20M Series A in January (Manish Singh/TechCrunch)](http://www.techmeme.com/211003/p10#a211003p10)
- - [Facebook encourages hate speech for profit, says whistleblower](https://www.theverge.com/2021/10/3/22707860/facebook-whistleblower-leaked-documents-files-regulation)
- - [Facebook whistleblower reveals herself, says company prioritizes its own interests     - CNET](https://www.cnet.com/tech/services-and-software/facebook-whistleblower-reveals-herself-says-company-prioritizes-its-own-interests/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Facebook encourages hate speech for profit, says whistleblower](https://www.theverge.com/2021/10/3/22707860/facebook-whistleblower-leaked-documents-files-regulation)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
