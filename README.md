@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It&#039;s been long overdue](http://9gag.com/gag/aYo8z87)
- - 🚯 [I&#039;m not sure if she&#039;s his mother or girlfriend](http://9gag.com/gag/aXo8ZXb)
- - 🚯 [Yesyesyesno](http://9gag.com/gag/a6EWrxm)<!-- MEMES:END -->
+ - 🚖 [Yesyesyesno](http://9gag.com/gag/a6EWrxm)
+ - 🚯 [Ingonyama nengw&#039; enamabala](http://9gag.com/gag/ajm2QEG)
+ - 🚯 [Taiwanese Fire Fighters taking a picture with their Australian counterparts](http://9gag.com/gag/aRXxwwQ)<!-- MEMES:END -->
 
 --- 
 
