@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Good morning!](http://9gag.com/gag/a27QzGw)
- - 🚯 [Half of em don&#039;t even know what they are doing](http://9gag.com/gag/a4EMKxd)
- - 🚯 [Your precious package will be handled with care and love](http://9gag.com/gag/aoMBEMe)<!-- MEMES:END -->
+ - 🚖 [Some achievements to start off the week](http://9gag.com/gag/aoMBE8n)
+ - 🚯 [Why aren&#039;t we doing this more](http://9gag.com/gag/aO36qzr)
+ - 🚯 [How to deal with a dangerous driver](http://9gag.com/gag/aMKp1rV)<!-- MEMES:END -->
 
 --- 
 
