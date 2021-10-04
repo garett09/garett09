@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Me who hasn&#039;t used Facebook in the past 4 years rn](http://9gag.com/gag/abVjyY9)
- - 🚯 [Influencers right now](http://9gag.com/gag/aNpyZvw)
- - 🚯 [No problem.](http://9gag.com/gag/a1r4ZBP)<!-- MEMES:END -->
+ - 🚖 [When you see &#039;facebook is down&#039; on every post here...](http://9gag.com/gag/av5bLpE)
+ - 🚯 [Mesmerizing](http://9gag.com/gag/a8Erbm6)
+ - 🚯 [Me who hasn&#039;t used Facebook in the past 4 years rn](http://9gag.com/gag/abVjyY9)<!-- MEMES:END -->
 
 --- 
 
