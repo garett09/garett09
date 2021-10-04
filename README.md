@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Epic Games Store finally gets achievements next week](https://www.pcgamer.com/the-epic-games-store-finally-gets-achievements-next-week)
- - [PlayStation Now games October 2021: The Last of Us Part II, Fallout 76, Desperados III](http://feedproxy.google.com/~r/PSBlog/~3/53zUX5_ojhY/)
- - [PlayStation Now games October 2021: The Last of Us Part II, Fallout 76, Desperados III](https://blog.playstation.com/2021/10/04/playstation-now-games-october-2021-the-last-of-us-part-ii-fallout-76-desperados-iii/)<!-- GAME:END -->
+ - [A memory leak in Windows 11's File Explorer is holding users' RAM hostage](https://www.pcgamer.com/windows-11-file-explorer-memory-leak-bug)
+ - [Epic Games Store is getting an upgraded achievement system](https://www.polygon.com/22708759/epic-games-store-achievements-rocket-league-hades)
+ - [Genshin Impact codes: free Primogems and Mora](https://www.pcgamer.com/redeem-genshin-impact-codes)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
