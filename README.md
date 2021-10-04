@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Felt cute&hellip;](http://9gag.com/gag/anQAKKz)
- - 🚯 [Garbage being dumped directly into the Amazon river in Tingo Maria, Peru...Person that took video (Martin Hutchinson) threatened by the Government and forced to flee the country.](http://9gag.com/gag/aRXxQxB)
- - 🚯 [Somebody won&#039;t have a job anymore tomorrow](http://9gag.com/gag/av5bgGW)<!-- MEMES:END -->
+ - 🚖 [Me who hasn&#039;t used Facebook in the past 4 years rn](http://9gag.com/gag/abVjyY9)
+ - 🚯 [Influencers right now](http://9gag.com/gag/aNpyZvw)
+ - 🚯 [No problem.](http://9gag.com/gag/a1r4ZBP)<!-- MEMES:END -->
 
 --- 
 
