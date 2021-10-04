@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [New trailers: Eternals, Welcome to Earth, The Girl in the Woods, and more](https://www.theverge.com/2021/10/3/22707700/new-trailers-eternals-welcome-to-earth-girl-in-the-woods-and-more-netflix-disney-peacock)
- - [Australia-based Cover Genius, a B2B insurance service which counts eBay and Intuit as partners, raises A$100M Series C led by Sompo Holdings at a A$1B valuation (Nabila Ahmed/Bloomberg)](http://www.techmeme.com/211003/p6#a211003p6)
- - [Best Anime Anthologies To Watch | ScreenRant](https://techncruncher.blogspot.com/2021/10/best-anime-anthologies-to-watch.html)<!-- TECH:END -->
+ - [Facebook encourages hate speech for profit, says whistleblower](https://www.theverge.com/2021/10/3/22707860/facebook-whistleblower-leaked-documents-files-regulation)
+ - [In a 60 Minutes interview, the Facebook Files whistleblower says the company is misleading the public on progress against hate speech, misinformation, more (CBS News)](http://www.techmeme.com/211003/p9#a211003p9)
+ - [Ex-Facebook PM Frances Haugen comes forward as a key source behind Facebook Files, says she became increasingly alarmed by how profits came before public safety (Jeff Horwitz/Wall Street Journal)](http://www.techmeme.com/211003/p8#a211003p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
