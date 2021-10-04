@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [NFT mastermind says he created Ethereum because Warcraft nerfed his character](https://www.polygon.com/22709126/ethereum-creator-world-of-warcraft-nerf-nft-vitalik-buterin)
- - [World of Warships: Legends Halloween Update Now Live](https://news.xbox.com/en-us/2021/10/04/world-of-warships-legends-halloween-update-now-live/)
- - [Forza Horizon 5 Achievements Revealed](https://news.xbox.com/en-us/2021/10/04/forza-horizon-5-achievements-revealed/)<!-- GAME:END -->
+ - [Venom 3 is inevitable after Let There Be Carnage’s major debut](https://www.polygon.com/22708717/venom-let-there-be-carnage-box-office-venom-3)
+ - [South Korean ISP sues Netflix because Squid Game is just too damn popular](https://www.pcgamer.com/south-korean-isp-sues-netflix-because-squid-game-is-just-too-damn-popular)
+ - [The Original God Of War Could Have Been In First-Person](https://kotaku.com/the-original-god-of-war-could-have-been-in-first-person-1847795753)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
