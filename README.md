@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [You know you&#039;re in russia, when a man boops an apex predator and tells it to go away.. and it obediently does](http://9gag.com/gag/aMKpeYM)
- - 🚯 [No hoeing around me, I&#039;m a tree.](http://9gag.com/gag/aP3O6Xg)
- - 🚯 [Cop bullying Frank Woods](http://9gag.com/gag/aK6bwdO)<!-- MEMES:END -->
+ - 🚖 [This belongs here](http://9gag.com/gag/arMP1PB)
+ - 🚯 [Double bag it](http://9gag.com/gag/azM6g9z)
+ - 🚯 [How these accidents work ?](http://9gag.com/gag/anQAeMb)<!-- MEMES:END -->
 
 --- 
 
