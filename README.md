@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Facebook, Instagram, and other services seeing widespread outage](https://appleinsider.com/articles/21/10/04/facebook-instagram-and-other-services-seeing-widespread-outage?utm_medium=rss)
- - [iPhone 13 review: Still the iPhone for the rest of us](https://appleinsider.com/articles/21/10/04/iphone-13-review-still-the-iphone-for-everyone?utm_medium=rss)
- - [Syniverse, which routes billions of texts annually for AT&T, T-Mobile, Verizon, China Mobile, and others, says in May it found it was hacked starting in 2016 (Lorenzo Franceschi-Bicchierai/VICE)](http://www.techmeme.com/211004/p20#a211004p20)<!-- TECH:END -->
+ - [Oppo starts Color OS 12 global launch, reveals ho-hum update policy](https://www.androidauthority.com/oppo-color-os-12-launch-3034250/)
+ - [Ring’s Halloween doorbell Chimes return and new spooky quick replies arrive](https://www.theverge.com/2021/10/4/22708996/rings-halloween-doorbell-ringtones-spooky-quick-replies-arrive)
+ - [October 2021 Android security patch rolling out now to Pixel phones](https://www.androidauthority.com/october-2021-android-security-patch-3034623/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
