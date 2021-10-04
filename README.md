@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Oppo starts Color OS 12 global launch, reveals ho-hum update policy](https://www.androidauthority.com/oppo-color-os-12-launch-3034250/)
- - [Ring’s Halloween doorbell Chimes return and new spooky quick replies arrive](https://www.theverge.com/2021/10/4/22708996/rings-halloween-doorbell-ringtones-spooky-quick-replies-arrive)
- - [October 2021 Android security patch rolling out now to Pixel phones](https://www.androidauthority.com/october-2021-android-security-patch-3034623/)<!-- TECH:END -->
+ - [OnePlus confirms which phones will see Oxygen OS 12 beta, full list here](https://www.androidauthority.com/oxygen-os-12-phones-3034482/)
+ - [Oxygen OS 12 is now in open beta for select OnePlus phones](https://www.androidauthority.com/oxygen-os-12-beta-3034431/)
+ - [Best SAD light therapy lamp for 2021     - CNET](https://www.cnet.com/health/best-sad-light-therapy-lamp/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
