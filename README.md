@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Harley Quinn's beach uniform in The Suicide Squad was inspired by her Injustice 2 outfit](https://www.pcgamer.com/harley-quinns-beach-uniform-in-the-suicide-squad-was-inspired-by-her-injustice-2-outfit)
  - [Action game Wanted: Dead is being made by ex-Ninja Gaiden and Dead or Alive devs](https://www.pcgamer.com/action-game-wanted-dead-is-being-made-by-ex-ninja-gaiden-and-dead-or-alive-devs)
- - [Marvel's Guardians of the Galaxy shows off ray-tracing, DLSS, and other PC specifics](https://www.pcgamer.com/marvels-guardians-of-the-galaxy-shows-off-ray-tracing-dlss-and-other-pc-specifics)
- - [Friday the 13th developer IllFonic is working on a Ghostbusters game](https://www.pcgamer.com/friday-the-13th-developer-illfonic-is-working-on-a-ghostbusters-game)<!-- GAME:END -->
+ - [Marvel's Guardians of the Galaxy shows off ray-tracing, DLSS, and other PC specifics](https://www.pcgamer.com/marvels-guardians-of-the-galaxy-shows-off-ray-tracing-dlss-and-other-pc-specifics)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
