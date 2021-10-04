@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [6 multiplayer games we’d love to play (but literally can’t)](https://www.pcgamer.com/6-multiplayer-games-wed-love-to-play-but-literally-cant)
- - [Genshin Impact’s next update leans into Spooky Season](https://www.polygon.com/22709410/genshin-impact-mihoyo-inazuma-update)
- - [The Asus and Noctua Edition RTX 3070 seems like it's going to be as quiet as it is brown](https://www.pcgamer.com/the-asus-and-noctua-edition-rtx-3070-seems-like-its-going-to-be-as-quiet-as-it-is-brown)<!-- GAME:END -->
+ - [Announcing the MLB The Show 21 Fall Circuit and Dynasty Invitational](https://news.xbox.com/en-us/2021/10/04/announcing-the-mlb-the-show-21-fall-circuit-and-dynasty-invitational/)
+ - [This coffee bean will wake you up and then kick your ass](https://www.polygon.com/22708823/third-person-action-shooter-halloween-indie-development)
+ - [Demon Slayer movie and first season English dub are now streaming on Crunchyroll](https://www.polygon.com/22709660/demon-slayer-season-2-release-date-crunchyroll-movie-dub)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
