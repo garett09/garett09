@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I&rsquo;m going to need those TPS reports ASAP. So, if you could do that, that&rsquo;d be great&hellip;](http://9gag.com/gag/a9E3jxo)
- - 🚯 [Some achievements to start off the week](http://9gag.com/gag/aoMBE8n)
- - 🚯 [Double bag it](http://9gag.com/gag/azM6g9z)<!-- MEMES:END -->
+ - 🚖 [Half of em don&#039;t even know what they are doing](http://9gag.com/gag/a4EMKxd)
+ - 🚯 [Taiwanese Fire Fighters taking a picture with their Australian counterparts](http://9gag.com/gag/aRXxwwQ)
+ - 🚯 [Good morning!](http://9gag.com/gag/a27QzGw)<!-- MEMES:END -->
 
 --- 
 
