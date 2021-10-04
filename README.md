@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Drunk stepfather picks a fight while stepson is streaming](http://9gag.com/gag/aoMrbPm)
- - 🚯 [Delusional at its finest](http://9gag.com/gag/apNyeEp)
- - 🚯 [Glaswegian Accent](http://9gag.com/gag/aMKRpP6)<!-- MEMES:END -->
+ - 🚖 [Delusional at its finest](http://9gag.com/gag/apNyeEp)
+ - 🚯 [Hong Kong protesters defending their university from police](http://9gag.com/gag/aK60byN)
+ - 🚯 [Time traveller: *moves a chair*, The timeline:](http://9gag.com/gag/a6EvWG2)<!-- MEMES:END -->
 
 --- 
 
