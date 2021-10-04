@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [October patch rolls out to Galaxy S20 FE starting in Europe](https://www.androidauthority.com/samsung-galaxy-s20-fe-update-1186657/)
- - [Ula, a food-focused B2B e-commerce marketplace in Indonesia, raises $87M Series B with investors including Jeff Bezos, following its $20M Series A in January (Manish Singh/TechCrunch)](http://www.techmeme.com/211003/p10#a211003p10)
- - [Facebook encourages hate speech for profit, says whistleblower](https://www.theverge.com/2021/10/3/22707860/facebook-whistleblower-leaked-documents-files-regulation)<!-- TECH:END -->
+ - [Amazon Prime members can now send gifts with just a phone number or email address](https://www.theverge.com/2021/10/4/22704909/amazon-prime-members-send-gifts-phone-number-email-address)
+ - [Indonesian stock trading app Ajaib raises $153M Series B led by DST Global at a $1B valuation; Robinhood backers Ribbit, ICONIQ, and IVP joined the round (Yoolim Lee/Bloomberg)](http://www.techmeme.com/211004/p1#a211004p1)
+ - [Lenovo Legion Play leaked: An Android-based rival to Steam Deck, Switch](https://www.androidauthority.com/lenovo-legion-play-3033467/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
