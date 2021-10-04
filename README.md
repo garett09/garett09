@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [10 Tips to master Puzzle Bobble 3D: Vacation Odyssey, out tomorrow](http://feedproxy.google.com/~r/PSBlog/~3/vkBvaHOxWVQ/)
- - [10 Tips to master Puzzle Bobble 3D: Vacation Odyssey, out tomorrow](https://blog.playstation.com/2021/10/04/10-tips-to-master-puzzle-bobble-3d-vacation-odyssey-out-tomorrow/)
- - [Jett: The Far Shore puts the majesty back in space travel](https://www.polygon.com/reviews/22704379/jett-the-far-shore-review-epic-games-store-playstation-5)<!-- GAME:END -->
+ - [The Epic Games Store finally gets achievements next week](https://www.pcgamer.com/the-epic-games-store-finally-gets-achievements-next-week)
+ - [PlayStation Now games October 2021: The Last of Us Part II, Fallout 76, Desperados III](http://feedproxy.google.com/~r/PSBlog/~3/53zUX5_ojhY/)
+ - [PlayStation Now games October 2021: The Last of Us Part II, Fallout 76, Desperados III](https://blog.playstation.com/2021/10/04/playstation-now-games-october-2021-the-last-of-us-part-ii-fallout-76-desperados-iii/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
