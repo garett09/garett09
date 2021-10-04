@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [New Mobile Game Trailer Seems Similar To Final Fantasy 14: Shadowbringers](https://kotaku.com/new-mobile-game-trailer-seems-similar-to-final-fantasy-1847791679)
- - [Half-Life: Alyx No VR mod is coming along, now you can draw with pens](https://www.pcgamer.com/half-life-alyx-no-vr-mod-is-coming-along-now-you-can-draw-with-pens)
- - [Harley Quinn's beach uniform in The Suicide Squad was inspired by her Injustice 2 outfit](https://www.pcgamer.com/harley-quinns-beach-uniform-in-the-suicide-squad-was-inspired-by-her-injustice-2-outfit)<!-- GAME:END -->
+ - [This super-realistic Minecraft grass will probably set your PC on fire](https://www.pcgamer.com/this-super-realistic-minecraft-grass-will-probably-set-your-pc-on-fire)
+ - [Storage study finds SSDs might not be much more reliable than HDDs after all](https://www.pcgamer.com/storage-study-finds-ssds-might-not-be-much-more-reliable-than-hdds-after-all)
+ - [The best gaming chairs in 2021](https://www.pcgamer.com/best-gaming-chairs)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
