@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Volvo announces plans to go public in bid to accelerate shift to electric cars](https://www.theverge.com/2021/10/4/22708804/volvo-ipo-value-geely-polestar-electric-cars)
- - [Filmic Pro adds ProRes Video to iPhone 13 Pro before Apple](https://appleinsider.com/articles/21/10/04/filmic-pro-adds-prores-video-to-iphone-13-pro-before-apple?utm_medium=rss)
- - [A surgically implanted brain stimulation device could help treat severe depression](https://www.theverge.com/22708802/brain-stimulation-device-depression-treatment)<!-- TECH:END -->
+ - [Facebook, Instagram, Messenger, and WhatsApp are suffering an outage (Chance Miller/9to5Mac)](http://www.techmeme.com/211004/p19#a211004p19)
+ - [Facebook is down, along with Instagram, WhatsApp, Messenger, and Oculus VR](https://www.theverge.com/2021/10/4/22708989/instagram-facebook-outage-messenger-whatsapp-error)
+ - [How Siri, launched a decade ago today, fell behind Google Assistant, Alexa, and others, likely due to management dysfunction, Apple's walled garden, and more (James Vincent/The Verge)](http://www.techmeme.com/211004/p18#a211004p18)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
