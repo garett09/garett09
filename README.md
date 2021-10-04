@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Some must-have Nintendo Switch games are $20 off at several retailers](https://www.theverge.com/good-deals/2021/10/4/22708561/nintendo-switch-games-sale-pokemon-zelda-smash-bros-airpods-beats-deal)
- - [Google Pixel 6 Pro camera deep dive leaks, including image and video examples](https://www.androidauthority.com/google-pixel-6-pro-camera-3034429/)
- - [iPhone 13 setup issues, sleep tracking apps & more on HomeKit Insider](https://appleinsider.com/articles/21/10/04/iphone-13-setup-issues-sleep-tracking-apps-more-on-homekit-insider?utm_medium=rss)<!-- TECH:END -->
+ - [Volvo announces plans to go public in bid to accelerate shift to electric cars](https://www.theverge.com/2021/10/4/22708804/volvo-ipo-value-geely-polestar-electric-cars)
+ - [Filmic Pro adds ProRes Video to iPhone 13 Pro before Apple](https://appleinsider.com/articles/21/10/04/filmic-pro-adds-prores-video-to-iphone-13-pro-before-apple?utm_medium=rss)
+ - [A surgically implanted brain stimulation device could help treat severe depression](https://www.theverge.com/22708802/brain-stimulation-device-depression-treatment)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
