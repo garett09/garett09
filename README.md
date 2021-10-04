@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How not to rob a jewelry store](http://9gag.com/gag/aLpqKLP)
- - 🚯 [Looking forward to the world forgetting this.](http://9gag.com/gag/aQoYP88)
- - 🚯 [Cop bullying Frank Woods](http://9gag.com/gag/aK6bwdO)<!-- MEMES:END -->
+ - 🚖 [Garbage being dumped directly into the Amazon river in Tingo Maria, Peru...Person that took video (Martin Hutchinson) threatened by the Government and forced to flee the country.](http://9gag.com/gag/aRXxQxB)
+ - 🚯 [How not to rob a jewelry store](http://9gag.com/gag/aLpqKLP)
+ - 🚯 [Why aren&#039;t we doing this more](http://9gag.com/gag/aO36qzr)<!-- MEMES:END -->
 
 --- 
 
