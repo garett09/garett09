@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple finally lets you report App Store scams](https://www.theverge.com/2021/10/4/22705405/apple-report-a-problem-button-app-store-scams)
  - [Amazon Prime members can now send gifts with just a phone number or email address](https://www.theverge.com/2021/10/4/22704909/amazon-prime-members-send-gifts-phone-number-email-address)
- - [Indonesian stock trading app Ajaib raises $153M Series B led by DST Global at a $1B valuation; Robinhood backers Ribbit, ICONIQ, and IVP joined the round (Yoolim Lee/Bloomberg)](http://www.techmeme.com/211004/p1#a211004p1)
- - [Lenovo Legion Play leaked: An Android-based rival to Steam Deck, Switch](https://www.androidauthority.com/lenovo-legion-play-3033467/)<!-- TECH:END -->
+ - [Indonesian stock trading app Ajaib raises $153M Series B led by DST Global at a $1B valuation; Robinhood backers Ribbit, ICONIQ, and IVP joined the round (Yoolim Lee/Bloomberg)](http://www.techmeme.com/211004/p1#a211004p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
