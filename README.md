@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Half of em don&#039;t even know what they are doing](http://9gag.com/gag/a4EMKxd)
- - 🚯 [Taiwanese Fire Fighters taking a picture with their Australian counterparts](http://9gag.com/gag/aRXxwwQ)
- - 🚯 [Good morning!](http://9gag.com/gag/a27QzGw)<!-- MEMES:END -->
+ - 🚖 [Good morning!](http://9gag.com/gag/a27QzGw)
+ - 🚯 [Half of em don&#039;t even know what they are doing](http://9gag.com/gag/a4EMKxd)
+ - 🚯 [Your precious package will be handled with care and love](http://9gag.com/gag/aoMBEMe)<!-- MEMES:END -->
 
 --- 
 
