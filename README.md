@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Half-Life: Alyx No VR mod is coming along, now you can draw with pens](https://www.pcgamer.com/half-life-alyx-no-vr-mod-is-coming-along-now-you-can-draw-with-pens)
  - [Harley Quinn's beach uniform in The Suicide Squad was inspired by her Injustice 2 outfit](https://www.pcgamer.com/harley-quinns-beach-uniform-in-the-suicide-squad-was-inspired-by-her-injustice-2-outfit)
- - [Action game Wanted: Dead is being made by ex-Ninja Gaiden and Dead or Alive devs](https://www.pcgamer.com/action-game-wanted-dead-is-being-made-by-ex-ninja-gaiden-and-dead-or-alive-devs)
- - [Marvel's Guardians of the Galaxy shows off ray-tracing, DLSS, and other PC specifics](https://www.pcgamer.com/marvels-guardians-of-the-galaxy-shows-off-ray-tracing-dlss-and-other-pc-specifics)<!-- GAME:END -->
+ - [Action game Wanted: Dead is being made by ex-Ninja Gaiden and Dead or Alive devs](https://www.pcgamer.com/action-game-wanted-dead-is-being-made-by-ex-ninja-gaiden-and-dead-or-alive-devs)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
