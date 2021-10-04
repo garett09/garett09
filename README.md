@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple says Watch Series 7 preorders start on October 8, shipping October 15, after announcing the device at the iPhone 13 event (Sami Fathi/MacRumors)](http://www.techmeme.com/211004/p10#a211004p10)
- - [Apple Watch Series 7 launches October 15th, preorders begin on Friday](https://www.theverge.com/2021/10/4/22708611/apple-watch-7-release-date-price-preorder)
- - [Apple Watch Series 7 preorders start on October 8](https://appleinsider.com/articles/21/10/04/apple-watch-series-7-preorders-start-on-october-8?utm_medium=rss)<!-- TECH:END -->
+ - [Some must-have Nintendo Switch games are $20 off at several retailers](https://www.theverge.com/good-deals/2021/10/4/22708561/nintendo-switch-games-sale-pokemon-zelda-smash-bros-airpods-beats-deal)
+ - [Google Pixel 6 Pro camera deep dive leaks, including image and video examples](https://www.androidauthority.com/google-pixel-6-pro-camera-3034429/)
+ - [iPhone 13 setup issues, sleep tracking apps & more on HomeKit Insider](https://appleinsider.com/articles/21/10/04/iphone-13-setup-issues-sleep-tracking-apps-more-on-homekit-insider?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
