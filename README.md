@@ -194,8 +194,8 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Two guys implemented a whole room just for echos](http://9gag.com/gag/a7Ejv5e)
- - 🚯 [No hoeing around me, I&#039;m a tree.](http://9gag.com/gag/aP3O6Xg)
+ - 🚖 [Not sure how bad I should feel](http://9gag.com/gag/aoMrrQ2)
+ - 🚯 [Yesyesyesno](http://9gag.com/gag/a6EWrxm)
  - 🚯 [I&#039;m not sure if she&#039;s his mother or girlfriend](http://9gag.com/gag/aXo8ZXb)<!-- MEMES:END -->
 
 --- 
