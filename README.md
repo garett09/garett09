@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Genshin Impact Version 2.2: Dispel the mystic fog shrouding Tsurumi Island](http://feedproxy.google.com/~r/PSBlog/~3/HJLxoTOYAj4/)
- - [Genshin Impact Version 2.2: Dispel the mystic fog shrouding Tsurumi Island](https://blog.playstation.com/2021/10/04/genshin-impact-version-2-2-dispel-the-mystic-fog-shrouding-tsurumi-island/)
- - [Xbox and Rockstar Energy Drink Unveil Artist-Series Cans Inspired by Halo Infinite](https://news.xbox.com/en-us/2021/10/04/rockstar-artist-series-cans-inspired-by-halo/)<!-- GAME:END -->
+ - [10 Tips to master Puzzle Bobble 3D: Vacation Odyssey, out tomorrow](http://feedproxy.google.com/~r/PSBlog/~3/vkBvaHOxWVQ/)
+ - [10 Tips to master Puzzle Bobble 3D: Vacation Odyssey, out tomorrow](https://blog.playstation.com/2021/10/04/10-tips-to-master-puzzle-bobble-3d-vacation-odyssey-out-tomorrow/)
+ - [Jett: The Far Shore puts the majesty back in space travel](https://www.polygon.com/reviews/22704379/jett-the-far-shore-review-epic-games-store-playstation-5)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
