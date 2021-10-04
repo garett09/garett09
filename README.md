@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Announcing the MLB The Show 21 Fall Circuit and Dynasty Invitational](https://news.xbox.com/en-us/2021/10/04/announcing-the-mlb-the-show-21-fall-circuit-and-dynasty-invitational/)
- - [This coffee bean will wake you up and then kick your ass](https://www.polygon.com/22708823/third-person-action-shooter-halloween-indie-development)
- - [Demon Slayer movie and first season English dub are now streaming on Crunchyroll](https://www.polygon.com/22709660/demon-slayer-season-2-release-date-crunchyroll-movie-dub)<!-- GAME:END -->
+ - [Rhythm Action Roguelike BPM: Bullets Per Minute Available Now](https://news.xbox.com/en-us/2021/10/04/rhythm-action-roguelike-bpm-bullets-per-minute-available-now/)
+ - [Three Years Later, The Epic Games Store Gets Achievements](https://kotaku.com/three-years-later-the-epic-games-store-gets-achievemen-1847797438)
+ - [Popular Warcraft 3 mod Legion TD returns after 12 years with a standalone sequel](https://www.pcgamer.com/popular-warcraft-3-mod-legion-td-returns-after-12-years-with-a-standalone-sequel)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
