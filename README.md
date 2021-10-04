@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Garbage being dumped directly into the Amazon river in Tingo Maria, Peru...Person that took video (Martin Hutchinson) threatened by the Government and forced to flee the country.](http://9gag.com/gag/aRXxQxB)
- - 🚯 [How not to rob a jewelry store](http://9gag.com/gag/aLpqKLP)
- - 🚯 [Why aren&#039;t we doing this more](http://9gag.com/gag/aO36qzr)<!-- MEMES:END -->
+ - 🚖 [How to defend yourself 101](http://9gag.com/gag/a27QNvD)
+ - 🚯 [Garbage being dumped directly into the Amazon river in Tingo Maria, Peru...Person that took video (Martin Hutchinson) threatened by the Government and forced to flee the country.](http://9gag.com/gag/aRXxQxB)
+ - 🚯 [Mesmerizing](http://9gag.com/gag/a8Erbm6)<!-- MEMES:END -->
 
 --- 
 
