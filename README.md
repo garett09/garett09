@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Massive Mod Gives Super Mario Sunshine Another Chance To Shine](https://kotaku.com/massive-mod-gives-super-mario-sunshine-another-chance-t-1847793659)
- - [Free PS5 Game Trials Make You Race Against The Clock](https://kotaku.com/free-ps5-game-trials-make-you-race-against-the-clock-1847793887)
- - [The best parts of Lucifer were the unapologetically goofy bits](https://www.polygon.com/22709049/lucifer-series-netflix-cartoon-gimmick-episodes)<!-- GAME:END -->
+ - [World of Warships: Legends Halloween Update Now Live](https://news.xbox.com/en-us/2021/10/04/world-of-warships-legends-halloween-update-now-live/)
+ - [Forza Horizon 5 Achievements Revealed](https://news.xbox.com/en-us/2021/10/04/forza-horizon-5-achievements-revealed/)
+ - [Genshin Impact gets its own Paimon-covered Razer gear](https://www.pcgamer.com/genshin-impact-razer)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
