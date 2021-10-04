@@ -194,8 +194,8 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Delusional at its finest](http://9gag.com/gag/apNyeEp)
- - 🚯 [Hong Kong protesters defending their university from police](http://9gag.com/gag/aK60byN)
+ - 🚖 [Wombats are just fluffy racoons](http://9gag.com/gag/abVj35B)
+ - 🚯 [Two guys implemented a whole room just for echos](http://9gag.com/gag/a7Ejv5e)
  - 🚯 [Time traveller: *moves a chair*, The timeline:](http://9gag.com/gag/a6EvWG2)<!-- MEMES:END -->
 
 --- 
