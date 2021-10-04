@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What if all sports used bowling balls](http://9gag.com/gag/a9EQ931)
- - 🚯 [Wow! Such kind words!](http://9gag.com/gag/av5YYmb)
- - 🚯 [Ramsay is not amused](http://9gag.com/gag/aP3NK5B)<!-- MEMES:END -->
+ - 🚖 [Delusional at its finest](http://9gag.com/gag/apNyeEp)
+ - 🚯 [How I expect people&#039;s reaction for next James Bond movie.](http://9gag.com/gag/aoMrBgX)
+ - 🚯 [October 3rd](http://9gag.com/gag/agBMR31)<!-- MEMES:END -->
 
 --- 
 
