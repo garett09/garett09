@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best cordless vacuum of 2021: Tineco, Dyson, Moosoo, Shark, Samsung, LG and more     - CNET](https://www.cnet.com/home/kitchen-and-household/best-cordless-vacuum/#ftag=CAD590a51e)
- - [Pokemon Go Secrets of the Jungle event: Zarude Research, Team Rocket and more     - CNET](https://www.cnet.com/news/pokemon-go-zarude-secrets-of-the-jungle-event-research-team-rocket-and-more/#ftag=CAD590a51e)
- - [The best mattress in a box for 2021     - CNET](https://www.cnet.com/health/sleep/best-mattress-in-a-box/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Early Black Friday deals: $449 AirPods Max, $159 Apple TV 4K, $200 off M1 MacBook Pro 13", more](https://appleinsider.com/articles/21/10/04/early-black-friday-deals-449-airpods-max-159-apple-tv-4k-200-off-m1-macbook-pro-13-more?utm_medium=rss)
+ - [Gloomhaven and other popular tabletop games are on Amazon’s Deal of the Day](https://www.theverge.com/good-deals/2021/10/4/22709451/amazon-epic-day-tabletop-gaming-board-games-gloomhaven-settlers-of-catan-risk-legacy-deal-sale)
+ - [What is BGP, and how might it have helped kick Facebook off the internet?](https://www.theverge.com/2021/10/4/22709260/what-is-bgp-border-gateway-protocol-explainer-internet-facebook-outage)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
