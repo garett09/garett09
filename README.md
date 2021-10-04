@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [A memory leak in Windows 11's File Explorer is holding users' RAM hostage](https://www.pcgamer.com/windows-11-file-explorer-memory-leak-bug)
- - [Epic Games Store is getting an upgraded achievement system](https://www.polygon.com/22708759/epic-games-store-achievements-rocket-league-hades)
- - [Genshin Impact codes: free Primogems and Mora](https://www.pcgamer.com/redeem-genshin-impact-codes)<!-- GAME:END -->
+ - [Massive Mod Gives Super Mario Sunshine Another Chance To Shine](https://kotaku.com/massive-mod-gives-super-mario-sunshine-another-chance-t-1847793659)
+ - [Free PS5 Game Trials Make You Race Against The Clock](https://kotaku.com/free-ps5-game-trials-make-you-race-against-the-clock-1847793887)
+ - [The best parts of Lucifer were the unapologetically goofy bits](https://www.polygon.com/22709049/lucifer-series-netflix-cartoon-gimmick-episodes)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
