@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This belongs here](http://9gag.com/gag/arMP1PB)
- - 🚯 [Double bag it](http://9gag.com/gag/azM6g9z)
- - 🚯 [How these accidents work ?](http://9gag.com/gag/anQAeMb)<!-- MEMES:END -->
+ - 🚖 [I&rsquo;m going to need those TPS reports ASAP. So, if you could do that, that&rsquo;d be great&hellip;](http://9gag.com/gag/a9E3jxo)
+ - 🚯 [Some achievements to start off the week](http://9gag.com/gag/aoMBE8n)
+ - 🚯 [Double bag it](http://9gag.com/gag/azM6g9z)<!-- MEMES:END -->
 
 --- 
 
