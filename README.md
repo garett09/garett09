@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Byju's raises ~$300M at a ~$18B valuation led by Oxshott Venture Fund (Moneycontrol)](http://www.techmeme.com/211004/p5#a211004p5)
- - [Get Apple's AirPods & AirPods Pro for the lowest prices of 2021](https://appleinsider.com/articles/21/10/04/get-apples-airpods-airpods-pro-for-the-lowest-prices-of-2021?utm_medium=rss)
- - [The 17 Best Mac Apps to Make Everyday Life Easier](https://www.wired.com/story/best-mac-apps)<!-- TECH:END -->
+ - [Apple says Watch Series 7 preorders start on October 8, shipping October 15, after announcing the device at the iPhone 13 event (Sami Fathi/MacRumors)](http://www.techmeme.com/211004/p10#a211004p10)
+ - [Apple Watch Series 7 launches October 15th, preorders begin on Friday](https://www.theverge.com/2021/10/4/22708611/apple-watch-7-release-date-price-preorder)
+ - [Apple Watch Series 7 preorders start on October 8](https://appleinsider.com/articles/21/10/04/apple-watch-series-7-preorders-start-on-october-8?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
