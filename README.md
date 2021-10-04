@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Facebook, Instagram, Messenger, and WhatsApp are suffering an outage (Chance Miller/9to5Mac)](http://www.techmeme.com/211004/p19#a211004p19)
- - [Facebook is down, along with Instagram, WhatsApp, Messenger, and Oculus VR](https://www.theverge.com/2021/10/4/22708989/instagram-facebook-outage-messenger-whatsapp-error)
- - [How Siri, launched a decade ago today, fell behind Google Assistant, Alexa, and others, likely due to management dysfunction, Apple's walled garden, and more (James Vincent/The Verge)](http://www.techmeme.com/211004/p18#a211004p18)<!-- TECH:END -->
+ - [Facebook, Instagram, and other services seeing widespread outage](https://appleinsider.com/articles/21/10/04/facebook-instagram-and-other-services-seeing-widespread-outage?utm_medium=rss)
+ - [iPhone 13 review: Still the iPhone for the rest of us](https://appleinsider.com/articles/21/10/04/iphone-13-review-still-the-iphone-for-everyone?utm_medium=rss)
+ - [Syniverse, which routes billions of texts annually for AT&T, T-Mobile, Verizon, China Mobile, and others, says in May it found it was hacked starting in 2016 (Lorenzo Franceschi-Bicchierai/VICE)](http://www.techmeme.com/211004/p20#a211004p20)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
