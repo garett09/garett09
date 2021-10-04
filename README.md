@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Facebook is still down, along with Instagram, WhatsApp, Messenger, and Oculus VR](https://www.theverge.com/2021/10/4/22708989/instagram-facebook-outage-messenger-whatsapp-error)
- - [Save 28% on the Apple AirPods Pro, and more AirPods deals](https://www.androidauthority.com/best-airpods-deals-1108713/)
- - [Facebook employees and an internal memo say that, several hours into the incident, Facebook's security experts were still trying to identify the root issue (New York Times)](http://www.techmeme.com/211004/p26#a211004p26)<!-- TECH:END -->
+ - [Best cordless vacuum of 2021: Tineco, Dyson, Moosoo, Shark, Samsung, LG and more     - CNET](https://www.cnet.com/home/kitchen-and-household/best-cordless-vacuum/#ftag=CAD590a51e)
+ - [Pokemon Go Secrets of the Jungle event: Zarude Research, Team Rocket and more     - CNET](https://www.cnet.com/news/pokemon-go-zarude-secrets-of-the-jungle-event-research-team-rocket-and-more/#ftag=CAD590a51e)
+ - [The best mattress in a box for 2021     - CNET](https://www.cnet.com/health/sleep/best-mattress-in-a-box/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
