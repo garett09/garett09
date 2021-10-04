@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Acer’s new 17.3-inch Nitro 5 seems like a lot of bang for your buck](https://www.theverge.com/2021/10/4/22709358/acer-17-3-inch-nitro-5-gaming-laptop-nvidia-rtx-3050-ti-price-specs-design)
- - [Save $170 on the OnePlus 9 Pro, and more of the latest OnePlus deals](https://www.androidauthority.com/best-oneplus-deals-1212221/)
- - [Planning to upgrade to Windows 11? A checklist before you do](https://www.theverge.com/22705406/windows-11-upgrade-checklist-cpu-tpm-secure-boot-dual-iso-clean-install)<!-- TECH:END -->
+ - [Facebook is still down, along with Instagram, WhatsApp, Messenger, and Oculus VR](https://www.theverge.com/2021/10/4/22708989/instagram-facebook-outage-messenger-whatsapp-error)
+ - [Save 28% on the Apple AirPods Pro, and more AirPods deals](https://www.androidauthority.com/best-airpods-deals-1108713/)
+ - [Facebook employees and an internal memo say that, several hours into the incident, Facebook's security experts were still trying to identify the root issue (New York Times)](http://www.techmeme.com/211004/p26#a211004p26)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
