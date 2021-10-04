@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Wombats are just fluffy racoons](http://9gag.com/gag/abVj35B)
- - 🚯 [Two guys implemented a whole room just for echos](http://9gag.com/gag/a7Ejv5e)
- - 🚯 [Time traveller: *moves a chair*, The timeline:](http://9gag.com/gag/a6EvWG2)<!-- MEMES:END -->
+ - 🚖 [Glaswegian Accent](http://9gag.com/gag/aMKRpP6)
+ - 🚯 [I&#039;m not sure if she&#039;s his mother or girlfriend](http://9gag.com/gag/aXo8ZXb)
+ - 🚯 [How I expect people&#039;s reaction for next James Bond movie.](http://9gag.com/gag/aoMrBgX)<!-- MEMES:END -->
 
 --- 
 
