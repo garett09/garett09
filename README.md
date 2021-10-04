@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus confirms which phones will see Oxygen OS 12 beta, full list here](https://www.androidauthority.com/oxygen-os-12-phones-3034482/)
- - [Oxygen OS 12 is now in open beta for select OnePlus phones](https://www.androidauthority.com/oxygen-os-12-beta-3034431/)
- - [Best SAD light therapy lamp for 2021     - CNET](https://www.cnet.com/health/best-sad-light-therapy-lamp/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Acer’s new 17.3-inch Nitro 5 seems like a lot of bang for your buck](https://www.theverge.com/2021/10/4/22709358/acer-17-3-inch-nitro-5-gaming-laptop-nvidia-rtx-3050-ti-price-specs-design)
+ - [Save $170 on the OnePlus 9 Pro, and more of the latest OnePlus deals](https://www.androidauthority.com/best-oneplus-deals-1212221/)
+ - [Planning to upgrade to Windows 11? A checklist before you do](https://www.theverge.com/22705406/windows-11-upgrade-checklist-cpu-tpm-secure-boot-dual-iso-clean-install)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
