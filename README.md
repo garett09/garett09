@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [NFT mastermind says he created Ethereum because Warcraft nerfed his character](https://www.polygon.com/22709126/ethereum-creator-world-of-warcraft-nerf-nft-vitalik-buterin)
  - [World of Warships: Legends Halloween Update Now Live](https://news.xbox.com/en-us/2021/10/04/world-of-warships-legends-halloween-update-now-live/)
- - [Forza Horizon 5 Achievements Revealed](https://news.xbox.com/en-us/2021/10/04/forza-horizon-5-achievements-revealed/)
- - [Genshin Impact gets its own Paimon-covered Razer gear](https://www.pcgamer.com/genshin-impact-razer)<!-- GAME:END -->
+ - [Forza Horizon 5 Achievements Revealed](https://news.xbox.com/en-us/2021/10/04/forza-horizon-5-achievements-revealed/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
