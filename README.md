@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dyson’s next robot vacuum cleaner revealed in FCC filings with new design](https://www.theverge.com/circuitbreaker/2021/10/4/22708470/dyson-robot-vacuum-cleaner-us-fcc-filing)
- - [Clearview AI Has New Tools to Identify You in Photos](https://www.wired.com/story/clearview-ai-new-tools-identify-you-photos)
- - [20 Years After the Anthrax Attacks, We’re Still Unprepared](https://www.wired.com/story/20-years-after-the-anthrax-attacks-were-still-unprepared)<!-- TECH:END -->
+ - [Byju's raises ~$300M at a ~$18B valuation led by Oxshott Venture Fund (Moneycontrol)](http://www.techmeme.com/211004/p5#a211004p5)
+ - [Get Apple's AirPods & AirPods Pro for the lowest prices of 2021](https://appleinsider.com/articles/21/10/04/get-apples-airpods-airpods-pro-for-the-lowest-prices-of-2021?utm_medium=rss)
+ - [The 17 Best Mac Apps to Make Everyday Life Easier](https://www.wired.com/story/best-mac-apps)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
