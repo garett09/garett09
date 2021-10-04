@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple finally lets you report App Store scams](https://www.theverge.com/2021/10/4/22705405/apple-report-a-problem-button-app-store-scams)
- - [Amazon Prime members can now send gifts with just a phone number or email address](https://www.theverge.com/2021/10/4/22704909/amazon-prime-members-send-gifts-phone-number-email-address)
- - [Indonesian stock trading app Ajaib raises $153M Series B led by DST Global at a $1B valuation; Robinhood backers Ribbit, ICONIQ, and IVP joined the round (Yoolim Lee/Bloomberg)](http://www.techmeme.com/211004/p1#a211004p1)<!-- TECH:END -->
+ - [WhatsApp could make listening to voice messages a lot less annoying](https://www.androidauthority.com/whatsapp-voice-message-player-3034251/)
+ - [Forget the iPhone 13 -- here's why the iPhone 11 is still a great buy in 2021     - CNET](https://www.cnet.com/tech/mobile/forget-the-iphone-13-heres-why-the-iphone-11-is-still-great-buy-in-2021/#ftag=CAD590a51e)
+ - [Apple finally lets you report App Store scams](https://www.theverge.com/2021/10/4/22705405/apple-report-a-problem-button-app-store-scams)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
