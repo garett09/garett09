@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Delusional at its finest](http://9gag.com/gag/apNyeEp)
- - 🚯 [How I expect people&#039;s reaction for next James Bond movie.](http://9gag.com/gag/aoMrBgX)
- - 🚯 [October 3rd](http://9gag.com/gag/agBMR31)<!-- MEMES:END -->
+ - 🚖 [Drunk stepfather picks a fight while stepson is streaming](http://9gag.com/gag/aoMrbPm)
+ - 🚯 [Delusional at its finest](http://9gag.com/gag/apNyeEp)
+ - 🚯 [Glaswegian Accent](http://9gag.com/gag/aMKRpP6)<!-- MEMES:END -->
 
 --- 
 
