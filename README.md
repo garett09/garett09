@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Some achievements to start off the week](http://9gag.com/gag/aoMBE8n)
- - 🚯 [Why aren&#039;t we doing this more](http://9gag.com/gag/aO36qzr)
- - 🚯 [How to deal with a dangerous driver](http://9gag.com/gag/aMKp1rV)<!-- MEMES:END -->
+ - 🚖 [How not to rob a jewelry store](http://9gag.com/gag/aLpqKLP)
+ - 🚯 [Looking forward to the world forgetting this.](http://9gag.com/gag/aQoYP88)
+ - 🚯 [Cop bullying Frank Woods](http://9gag.com/gag/aK6bwdO)<!-- MEMES:END -->
 
 --- 
 
