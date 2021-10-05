@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Game of Thrones spinoff House of the Dragon gets a brooding first teaser trailer](https://www.polygon.com/22687910/house-of-the-dragon-trailer-release-game-of-thrones)
  - [New World bots flood fishing spots, so players bring boars to kill them](https://www.pcgamer.com/new-world-bots-flood-fishing-spots-so-players-bring-boars-to-kill-them)
- - [Retro horror spookfest EEK3 returns this Friday](https://www.pcgamer.com/retro-horror-spookfest-eek3-returns-this-friday)
- - [The best graphics cards in 2021](https://www.pcgamer.com/the-best-graphics-cards)<!-- GAME:END -->
+ - [Retro horror spookfest EEK3 returns this Friday](https://www.pcgamer.com/retro-horror-spookfest-eek3-returns-this-friday)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
