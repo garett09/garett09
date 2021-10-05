@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Early Black Friday deals: $449 AirPods Max, $159 Apple TV 4K, $200 off M1 MacBook Pro 13", more](https://appleinsider.com/articles/21/10/04/early-black-friday-deals-449-airpods-max-159-apple-tv-4k-200-off-m1-macbook-pro-13-more?utm_medium=rss)
- - [Gloomhaven and other popular tabletop games are on Amazon’s Deal of the Day](https://www.theverge.com/good-deals/2021/10/4/22709451/amazon-epic-day-tabletop-gaming-board-games-gloomhaven-settlers-of-catan-risk-legacy-deal-sale)
- - [What is BGP, and how might it have helped kick Facebook off the internet?](https://www.theverge.com/2021/10/4/22709260/what-is-bgp-border-gateway-protocol-explainer-internet-facebook-outage)<!-- TECH:END -->
+ - [Twitter, Is It Down, and tons of other sites were struggling due to the Facebook outage](https://www.theverge.com/2021/10/4/22709123/facebook-outage-down-detector-cloudflare)
+ - [Ancient people may have raised flightless birds that can 'slice open any predator'     - CNET](https://www.cnet.com/news/ancient-people-may-have-raised-flightless-birds-that-can-slice-open-any-predator/#ftag=CAD590a51e)
+ - [Netflix: 41 best movies to stream this week     - CNET](https://www.cnet.com/news/netflix-41-best-movies-to-stream-this-week/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
