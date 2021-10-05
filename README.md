@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Europol announces the arrest of two alleged ransomware gang members in Ukraine, with help from US and French authorities, as some think they may belong to REvil (Catalin Cimpanu/The Record)](http://www.techmeme.com/211005/p4#a211005p4)
- - [Experts say automakers use chips with older process nodes because they need long lead times for testing, which is at odds with how chipmakers prefer to operate (Adam Ismail/Jalopnik)](http://www.techmeme.com/211005/p3#a211005p3)
- - [Here’s why Facebook, WhatsApp, Instagram went offline yesterday](https://www.androidauthority.com/cause-facebook-whatsapp-instagram-offline-3034209/)<!-- TECH:END -->
+ - [WhatsApp's global popularity, especially in developing countries, made its outage even more acute, impacting services in Lebanon, India, Brazil, and Mexico (Amy Cheng/Washington Post)](http://www.techmeme.com/211005/p6#a211005p6)
+ - [Review of Apple's A15 shows big efficiency gains and adequate speed improvements, which range from 2.5% to 37% over A14 depending on the type of workload (Andrei Frumusanu/AnandTech)](http://www.techmeme.com/211005/p5#a211005p5)
+ - [Pixel 6 Pro photo and video samples leak via a very unlikely source](https://www.androidauthority.com/pixel-6-pro-camera-samples-leak-3034858/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
