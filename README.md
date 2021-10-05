@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Nevermind Epstein, these are the real f**kers, tax supported with an office in every village, selling a product never has really seen or used](http://9gag.com/gag/aV7GDYK)
- - 🚯 [What is Scientology?](http://9gag.com/gag/aV7GD3K)
- - 🚯 [Police draw guns on a stormtrooper with a fake blaster.](http://9gag.com/gag/ajm2Azp)<!-- MEMES:END -->
+ - 🚖 [Time management](http://9gag.com/gag/ajm2DWG)
+ - 🚯 [Don&#039;t let their words bring you down](http://9gag.com/gag/aWjV8P4)
+ - 🚯 [What is Scientology?](http://9gag.com/gag/aV7GD3K)<!-- MEMES:END -->
 
 --- 
 
