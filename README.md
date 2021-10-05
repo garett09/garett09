@@ -193,9 +193,9 @@ Windows                  6 hrs 1 min         ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This is why women live longer than men ..](http://9gag.com/gag/aP3O9Rn)
- - 🚯 [It&#039;s science b*tch!](http://9gag.com/gag/aZ09mxp)
- - 🚯 [Who&#039;s next](http://9gag.com/gag/aQoYMOr)<!-- MEMES:END -->
+ - 🚖 [Who&#039;s next](http://9gag.com/gag/aQoYMOr)
+ - 🚯 [Saving A Dehydrated Cactus Mouse](http://9gag.com/gag/a8EryYZ)
+ - 🚯 [George with the greatest pickup line of all time](http://9gag.com/gag/agBRY8n)<!-- MEMES:END -->
 
 --- 
 
