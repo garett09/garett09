@@ -194,8 +194,8 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Facebook users right now.](http://9gag.com/gag/aO36m42)
- - 🚯 [Police draw guns on a stormtrooper with a fake blaster.](http://9gag.com/gag/ajm2Azp)
+ - 🚖 [Movie scenes that replicated these anime scenes](http://9gag.com/gag/a1r4XeY)
+ - 🚯 [Quickest unmatch but had to do it](http://9gag.com/gag/a1r4M9R)
  - 🚯 [One of the biggest leaks happened yesterday. Don&#039;t let the coincidental outage of social media distract you.](http://9gag.com/gag/aV7GXR2)<!-- MEMES:END -->
 
 --- 
