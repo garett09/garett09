@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filing: GitLab is looking to raise as much as $624M in its US IPO, targeting a valuation of ~$9B; Gitlab was valued at $6B after a secondary share sale in Jan. (Sohini Podder/Reuters)](http://www.techmeme.com/211004/p31#a211004p31)
- - [What is BGP, and how might it have helped kick Facebook off the internet?](https://www.theverge.com/2021/10/4/22709260/what-is-bgp-border-gateway-protocol-explainer-internet-facebook-outage)
- - [Facebook says configuration changes on its backbone routers disrupted network traffic between its data centers, causing an outage across its platforms (Santosh Janardhan/Facebook Engineering)](http://www.techmeme.com/211004/p30#a211004p30)<!-- TECH:END -->
+ - [Ericsson files suit against Apple to prove FRAND compliance amid 5G licensing talks](https://appleinsider.com/articles/21/10/05/ericsson-files-suit-against-apple-to-prove-frand-compliance-amid-5g-licensing-talks?utm_medium=rss)
+ - [London-based freight forwarding and supply chain finance startup Beacon raises $50M Series B led by Northstar.vc, claims revenue has grown 12x in the last year (VentureBeat)](http://www.techmeme.com/211004/p32#a211004p32)
+ - [Facebook says 'faulty configuration change' to blame for 6-hour outage](https://appleinsider.com/articles/21/10/05/facebook-says-faulty-configuration-change-to-blame-for-6-hour-outage?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
