@@ -179,9 +179,9 @@ Windows                  6 hrs 1 min         ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Sora’s Smash Reveal Forgot To Bring The Disney](https://kotaku.com/sora-s-smash-reveal-forgot-to-bring-the-disney-1847803373)
- - [Far Cry 6 secret trailer teases something involving armored tigers](https://www.pcgamer.com/far-cry-6-qr-code-teaser)
- - [PC Gamer readers choose to wait on installing Windows 11 and we don't blame them](https://www.pcgamer.com/pc-gamer-readers-choose-to-wait-on-installing-windows-11-and-we-dont-blame-them)<!-- GAME:END -->
+ - [New World players are working on hardcore fishing for big battles](https://www.polygon.com/22711303/new-world-players-fishing-buffs-pvp-battles-stats)
+ - [Rockstar Launcher update points another finger at a remastered Grand Theft Auto trilogy](https://www.pcgamer.com/rockstar-launcher-update-points-another-finger-at-a-remastered-grand-theft-auto-trilogy)
+ - [Halo Infinite clips are everywhere, here are some of the highlights](https://www.polygon.com/22710795/halo-infinite-clips-videos-multiplayer-big-team-battle)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
