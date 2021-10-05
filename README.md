@@ -179,9 +179,9 @@ Windows                  6 hrs 1 min         ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Kingdom Hearts Trilogy Comes To Switch Via Cloud Streaming](https://kotaku.com/kingdom-hearts-trilogy-comes-to-switch-via-cloud-stream-1847800725)
- - [Doom Slayer Comes To Smash Bros. Ultimate As Mii Costume](https://kotaku.com/doom-slayer-comes-to-smash-bros-ultimate-as-mii-costum-1847800572)
- - [Super Smash Bros. Ultimate gets Doom Slayer from Doom as a Mii Fighter](https://www.polygon.com/22710541/super-smash-bros-ultimate-final-mii-fighters-dlc)<!-- GAME:END -->
+ - [Sora’s Smash Bros. appearance answers a 6-year-old question](https://www.polygon.com/22710681/sora-super-smash-bros-most-popular-fan-poll-satoru-iwata)
+ - [The Kingdom Hearts series is coming to Nintendo Switch](https://www.polygon.com/22710664/kingdom-hearts-nintendo-switch-sora-smash-anniversary)
+ - [Hot Wheels Unleashed Is Arcade Racing That Takes Its Tiny Toy Cars Seriously](https://kotaku.com/hot-wheels-unleashed-is-arcade-racing-that-takes-its-ti-1847797700)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
