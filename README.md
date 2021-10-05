@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Rhythm Action Roguelike BPM: Bullets Per Minute Available Now](https://news.xbox.com/en-us/2021/10/04/rhythm-action-roguelike-bpm-bullets-per-minute-available-now/)
- - [Three Years Later, The Epic Games Store Gets Achievements](https://kotaku.com/three-years-later-the-epic-games-store-gets-achievemen-1847797438)
- - [Popular Warcraft 3 mod Legion TD returns after 12 years with a standalone sequel](https://www.pcgamer.com/popular-warcraft-3-mod-legion-td-returns-after-12-years-with-a-standalone-sequel)<!-- GAME:END -->
+ - [Our Favorite Cosplay From Dragon Con 2021](https://kotaku.com/our-favorite-cosplay-from-dragon-con-2021-1847797736)
+ - [Lemnis Gate review](https://www.pcgamer.com/lemnis-gate-review)
+ - [PAX Australia's online schedule is live ahead of launch later this week](https://www.pcgamer.com/pax-australias-online-schedule-is-live-ahead-of-launch-later-this-week)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
