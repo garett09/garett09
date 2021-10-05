@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Damn, top 1% intelligence](http://9gag.com/gag/av5bPWn)
- - 🚯 [When you see &#039;facebook is down&#039; on every post here...](http://9gag.com/gag/av5bLpE)
- - 🚯 [Facebook system admin right now :](http://9gag.com/gag/azM6E9Z)<!-- MEMES:END -->
+ - 🚖 [Facebook users right now.](http://9gag.com/gag/aO36m42)
+ - 🚯 [Police draw guns on a stormtrooper with a fake blaster.](http://9gag.com/gag/ajm2Azp)
+ - 🚯 [One of the biggest leaks happened yesterday. Don&#039;t let the coincidental outage of social media distract you.](http://9gag.com/gag/aV7GXR2)<!-- MEMES:END -->
 
 --- 
 
