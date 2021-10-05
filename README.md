@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Movie scenes that replicated these anime scenes](http://9gag.com/gag/a1r4XeY)
- - 🚯 [Owner asks dog to hide because customer is scared of dogs](http://9gag.com/gag/aLpq9jV)
- - 🚯 [Working in power transmission](http://9gag.com/gag/awMqxzQ)<!-- MEMES:END -->
+ - 🚖 [Veldora living every otaku dream.](http://9gag.com/gag/aeAX645)
+ - 🚯 [Those boyz are hard to impress with all that tech and science nowadays. those boyz:](http://9gag.com/gag/ayMy8Bb)
+ - 🚯 [Owner asks dog to hide because customer is scared of dogs](http://9gag.com/gag/aLpq9jV)<!-- MEMES:END -->
 
 --- 
 
