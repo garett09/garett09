@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Facebook went down for hours today, affecting Oculus headsets](https://www.pcgamer.com/facebook-oculus-down)
  - [After Hours](https://kotaku.com/after-hours-1847798368)
- - [Our Favorite Cosplay From Dragon Con 2021](https://kotaku.com/our-favorite-cosplay-from-dragon-con-2021-1847797736)
- - [Lemnis Gate review](https://www.pcgamer.com/lemnis-gate-review)<!-- GAME:END -->
+ - [Our Favorite Cosplay From Dragon Con 2021](https://kotaku.com/our-favorite-cosplay-from-dragon-con-2021-1847797736)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
