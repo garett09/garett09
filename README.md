@@ -186,9 +186,9 @@ Windows                  6 hrs 1 min         ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [AirPods Pro and AirPods Max get Find My integration with latest firmware update](https://appleinsider.com/articles/21/10/05/airpods-pro-and-airpods-max-get-find-my-integration-with-latest-firmware-update?utm_medium=rss)
- - [Best iPad 2021     - CNET](https://www.cnet.com/tech/computing/best-ipad/#ftag=CAD590a51e)
- - [Super Smash Bros. Ultimate DLC reveal recap: Sora, Kingdom Hearts on Switch, and more     - CNET](https://www.cnet.com/news/final-super-smash-bros-ultimate-dlc-reveal-start-time-how-to-watch-and-what-to-expect/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best over-ear headphones for 2021     - CNET](https://www.cnet.com/tech/mobile/best-over-ear-headphones/#ftag=CAD590a51e)
+ - [Squid Game season 2 could focus on Netflix hit's most sinister character     - CNET](https://www.cnet.com/news/squid-game-season-2-could-focus-on-netflix-hits-most-sinister-character/#ftag=CAD590a51e)
+ - [It just got much easier to find your lost AirPods Pro or AirPods Max](https://www.theverge.com/2021/10/5/22711557/apple-lost-airpods-pro-max-find-my-network-now-available)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
