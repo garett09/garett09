@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Rent the Runway, whose online marketplace offers subscription fashion rentals, files for IPO and reports loss of $84.7M on revenue of $80.2M in H1 2021 (Lauren Thomas/CNBC)](http://www.techmeme.com/211005/p1#a211005p1)
  - [Ericsson files suit against Apple to prove FRAND compliance amid 5G licensing talks](https://appleinsider.com/articles/21/10/05/ericsson-files-suit-against-apple-to-prove-frand-compliance-amid-5g-licensing-talks?utm_medium=rss)
- - [London-based freight forwarding and supply chain finance startup Beacon raises $50M Series B led by Northstar.vc, claims revenue has grown 12x in the last year (VentureBeat)](http://www.techmeme.com/211004/p32#a211004p32)
- - [Facebook says 'faulty configuration change' to blame for 6-hour outage](https://appleinsider.com/articles/21/10/05/facebook-says-faulty-configuration-change-to-blame-for-6-hour-outage?utm_medium=rss)<!-- TECH:END -->
+ - [London-based freight forwarding and supply chain finance startup Beacon raises $50M Series B led by Northstar.vc, claims revenue has grown 12x in the last year (VentureBeat)](http://www.techmeme.com/211004/p32#a211004p32)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
