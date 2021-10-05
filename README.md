@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Never bring your &quot;equality&quot; in competition. If you suck, you suck. Now suck it and leave.](http://9gag.com/gag/aMKp9VP)
- - 🚯 [Not a Spoiler](http://9gag.com/gag/abVjZ8L)
- - 🚯 [Squid Game: Find your friends](http://9gag.com/gag/aV7Ge3O)<!-- MEMES:END -->
+ - 🚖 [Squid Game: Find your friends](http://9gag.com/gag/aV7Ge3O)
+ - 🚯 [An old Ad for a White PSP](http://9gag.com/gag/a8Er4BZ)
+ - 🚯 [Deutschland!](http://9gag.com/gag/a4EMjn1)<!-- MEMES:END -->
 
 --- 
 
