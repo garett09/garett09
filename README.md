@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Veldora living every otaku dream.](http://9gag.com/gag/aeAX645)
- - 🚯 [Those boyz are hard to impress with all that tech and science nowadays. those boyz:](http://9gag.com/gag/ayMy8Bb)
- - 🚯 [Owner asks dog to hide because customer is scared of dogs](http://9gag.com/gag/aLpq9jV)<!-- MEMES:END -->
+ - 🚖 [Time management](http://9gag.com/gag/ajm2DWG)
+ - 🚯 [Some antibodies](http://9gag.com/gag/a4EMYgd)
+ - 🚯 [Finally got a job after a year of unemployment. Saved up for 4 months, bought my mom a dinner and bought myself something for the first time with my own money. It&#039;s not much but it&#039;s honest work](http://9gag.com/gag/aB2DYP2)<!-- MEMES:END -->
 
 --- 
 
