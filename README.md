@@ -193,9 +193,9 @@ Windows                  6 hrs 1 min         ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Yep](http://9gag.com/gag/aDdBjVG)
- - 🚯 [Don&#039;t let their words bring you down](http://9gag.com/gag/aWjV8P4)
- - 🚯 [So polite and patient!](http://9gag.com/gag/a5ELZxG)<!-- MEMES:END -->
+ - 🚖 [So polite and patient!](http://9gag.com/gag/a5ELZxG)
+ - 🚯 [Amateur theif](http://9gag.com/gag/aZ09m6Q)
+ - 🚯 [Mojo jojo](http://9gag.com/gag/aoMB2R2)<!-- MEMES:END -->
 
 --- 
 
