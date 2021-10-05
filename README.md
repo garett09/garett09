@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Europol announces the arrest of two alleged ransomware gang members in Ukraine, with help from US and French authorities, as some think they may belong to REvil (Catalin Cimpanu/The Record)](http://www.techmeme.com/211005/p4#a211005p4)
  - [Experts say automakers use chips with older process nodes because they need long lead times for testing, which is at odds with how chipmakers prefer to operate (Adam Ismail/Jalopnik)](http://www.techmeme.com/211005/p3#a211005p3)
- - [Here’s why Facebook, WhatsApp, Instagram went offline yesterday](https://www.androidauthority.com/cause-facebook-whatsapp-instagram-offline-3034209/)
- - [Tesla ordered to pay $137 million in discrimination lawsuit     - Roadshow](https://www.cnet.com/roadshow/news/tesla-ordered-to-pay-137-million-in-discrimination-lawsuit/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Here’s why Facebook, WhatsApp, Instagram went offline yesterday](https://www.androidauthority.com/cause-facebook-whatsapp-instagram-offline-3034209/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
