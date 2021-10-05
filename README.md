@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [WhatsApp's global popularity, especially in developing countries, made its outage even more acute, impacting services in Lebanon, India, Brazil, and Mexico (Amy Cheng/Washington Post)](http://www.techmeme.com/211005/p6#a211005p6)
- - [Review of Apple's A15 shows big efficiency gains and adequate speed improvements, which range from 2.5% to 37% over A14 depending on the type of workload (Andrei Frumusanu/AnandTech)](http://www.techmeme.com/211005/p5#a211005p5)
- - [Pixel 6 Pro photo and video samples leak via a very unlikely source](https://www.androidauthority.com/pixel-6-pro-camera-samples-leak-3034858/)<!-- TECH:END -->
+ - [Apple commemorates Steve Jobs on the 10th anniversary of his death](https://appleinsider.com/articles/21/10/05/apple-celebrates-steve-jobs-on-the-10th-anniversary-of-his-death?utm_medium=rss)
+ - [Watch HBO’s teaser trailer for Game of Thrones spin-off House of the Dragon](https://www.theverge.com/2021/10/5/22710332/house-of-the-dragon-hbo-trailer-game-of-thrones)
+ - [Weighing Big Tech’s Promise to Black America](https://www.wired.com/story/big-techs-promise-to-black-america)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
