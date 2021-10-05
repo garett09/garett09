@@ -194,8 +194,8 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Facebook and Instagram down](http://9gag.com/gag/aK6bPj3)
- - 🚯 [Somebody won&#039;t have a job anymore tomorrow](http://9gag.com/gag/av5bgGW)
+ - 🚖 [Somebody won&#039;t have a job anymore tomorrow](http://9gag.com/gag/av5bgGW)
+ - 🚯 [Working in power transmission](http://9gag.com/gag/awMqxzQ)
  - 🚯 [When you see &#039;facebook is down&#039; on every post here...](http://9gag.com/gag/av5bLpE)<!-- MEMES:END -->
 
 --- 
