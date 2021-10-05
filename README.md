@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Orca Security, which provides tools for protecting cloud-based assets, extends Series C to $550M led by Temasek at a $1.8B valuation, up from $1.2B in March (Rachel Phua/DealStreetAsia)](http://www.techmeme.com/211005/p16#a211005p16)
- - [Singapore's parliament passes a law that will compel ISPs and social media platforms to share user data, block content, and more, drawing criticism from experts (Rachel Pannett/Washington Post)](http://www.techmeme.com/211005/p15#a211005p15)
- - [Unsurprisingly, Apple Watch Series 7 will be in short supply at launch](https://appleinsider.com/articles/21/10/05/unsurprisingly-apple-watch-series-7-will-be-in-short-supply-at-launch?utm_medium=rss)<!-- TECH:END -->
+ - [Microsoft Surface Go 3 review: elegant hardware, bright and responsive display, and extremely portable, but no performance gains and average battery life (Nathan Ingraham/Engadget)](http://www.techmeme.com/211005/p19#a211005p19)
+ - [Waymo co-CEO Tekedra Mawakana on how to get self-driving taxis to the mall](https://www.theverge.com/22708676/waymo-tekedra-mawakana-self-driving-interview)
+ - [Russia launches movie actress and producer to space for cosmic film shoot](https://www.theverge.com/2021/10/5/22709501/russia-soyuz-launch-actress-producer-filming-movie-space-station)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
