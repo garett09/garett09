@@ -186,9 +186,9 @@ Windows                  6 hrs 1 min         ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [15 best Android emulators for PC and Mac of 2021](https://www.androidauthority.com/best-android-emulators-for-pc-655308/)
- - [Instagram is getting rid of IGTV, sort of](https://www.theverge.com/2021/10/5/22710638/instagram-tv-igtv-rebrand-video-formats-tiktok-reels)
- - [Best Deals Oct. 5: $20 off new Apple TV 4K, $400 off Samsung 65-inch QLED TV, more!](https://appleinsider.com/articles/21/10/05/best-deals-oct-5-20-off-new-apple-tv-4k-400-off-samsung-65-inch-qled-tv-more?utm_medium=rss)<!-- TECH:END -->
+ - [Snapchat rolls out a new "Run for Office" in-app tool to encourage young adults to run for local office, including a portal with 75K+ curated upcoming elections (Aisha Malik/TechCrunch)](http://www.techmeme.com/211005/p30#a211005p30)
+ - [Apple Pay lands in Bahrain with three major banks supported at launch](https://appleinsider.com/articles/21/10/05/apple-pay-lands-in-bahrain-with-three-major-banks-supported-at-launch?utm_medium=rss)
+ - [Taylor Swift fans are getting caught up in the Virginia gubernatorial race](https://www.theverge.com/2021/10/5/22710848/taylor-swift-scooter-braun-masters-glenn-youngkin-virginia-mcauliffe)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
