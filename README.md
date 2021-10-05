@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple commemorates Steve Jobs on the 10th anniversary of his death](https://appleinsider.com/articles/21/10/05/apple-celebrates-steve-jobs-on-the-10th-anniversary-of-his-death?utm_medium=rss)
- - [Watch HBO’s teaser trailer for Game of Thrones spin-off House of the Dragon](https://www.theverge.com/2021/10/5/22710332/house-of-the-dragon-hbo-trailer-game-of-thrones)
- - [Weighing Big Tech’s Promise to Black America](https://www.wired.com/story/big-techs-promise-to-black-america)<!-- TECH:END -->
+ - [Huawei’s Ryzen 5000-equipped MateBook 16 is getting a global release](https://www.theverge.com/2021/10/5/22702083/huawei-matebook-16-ryzen-5000-laptop-price)
+ - [Remembering Steve Jobs, 10 Years After His Death](https://www.wired.com/story/remembering-steve-jobs-10-years-after-his-death)
+ - [This Facebook Whistleblower Hearing Will Be Different](https://www.wired.com/story/facebook-whistleblower-hearing-will-be-different)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
