@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Squid Game: Find your friends](http://9gag.com/gag/aV7Ge3O)
- - 🚯 [An old Ad for a White PSP](http://9gag.com/gag/a8Er4BZ)
- - 🚯 [Deutschland!](http://9gag.com/gag/a4EMjn1)<!-- MEMES:END -->
+ - 🚖 [Nevermind Epstein, these are the real f**kers, tax supported with an office in every village, selling a product never has really seen or used](http://9gag.com/gag/aV7GDYK)
+ - 🚯 [What is Scientology?](http://9gag.com/gag/aV7GD3K)
+ - 🚯 [Police draw guns on a stormtrooper with a fake blaster.](http://9gag.com/gag/ajm2Azp)<!-- MEMES:END -->
 
 --- 
 
