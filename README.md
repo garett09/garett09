@@ -179,9 +179,9 @@ Windows                  6 hrs 1 min         ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Rockstar denies knowledge of its Agent’s whereabouts, activities](https://www.polygon.com/22711396/rockstar-games-agent-canceled-abandoned-delisted)
- - [Tales Of Arise, As Told By Steam Reviews](https://kotaku.com/tales-of-arise-as-told-by-steam-reviews-1847804247)
- - [Resident Evil Village demake turns Castle Dimitrescu into Castlevania](https://www.pcgamer.com/resident-evil-village-demake-castlevania)<!-- GAME:END -->
+ - [Car Thieves Arrested Using $27,000 'Game Boy'](https://kotaku.com/car-thieves-arrested-using-27-000-game-boy-1847806007)
+ - [The original Ghost Recon and DLC for its sequels are free to keep](https://www.pcgamer.com/the-original-ghost-recon-and-dlc-for-its-sequels-are-free-to-keep)
+ - [My wild weekend sieging New World forts made me love its PVP](https://www.pcgamer.com/my-wild-weekend-sieging-new-world-forts-made-me-love-its-pvp)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
