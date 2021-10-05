@@ -195,8 +195,8 @@ Windows                  7 hrs 16 mins       ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Movie scenes that replicated these anime scenes](http://9gag.com/gag/a1r4XeY)
- - 🚯 [Quickest unmatch but had to do it](http://9gag.com/gag/a1r4M9R)
- - 🚯 [One of the biggest leaks happened yesterday. Don&#039;t let the coincidental outage of social media distract you.](http://9gag.com/gag/aV7GXR2)<!-- MEMES:END -->
+ - 🚯 [Owner asks dog to hide because customer is scared of dogs](http://9gag.com/gag/aLpq9jV)
+ - 🚯 [Working in power transmission](http://9gag.com/gag/awMqxzQ)<!-- MEMES:END -->
 
 --- 
 
