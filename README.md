@@ -179,9 +179,9 @@ Windows                  6 hrs 1 min         ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Netflix’s weird interactive specials, ranked by how much your choices matter](https://www.polygon.com/22286070/netflix-interactive-shows-movies-ranked)
- - [Dread Hunger leaves early access soon, adds more murder](https://www.polygon.com/22711106/dread-hunger-steam-release-bad-medicine-update)
- - [Call of Duty: Black Ops Cold War and Warzone season 6 battle pass brings 2 new weapons](https://www.polygon.com/call-of-duty/22711047/call-of-duty-season-6-release-date-cold-war-warzone-battle-pass)<!-- GAME:END -->
+ - [Sora’s Smash Reveal Forgot To Bring The Disney](https://kotaku.com/sora-s-smash-reveal-forgot-to-bring-the-disney-1847803373)
+ - [Far Cry 6 secret trailer teases something involving armored tigers](https://www.pcgamer.com/far-cry-6-qr-code-teaser)
+ - [PC Gamer readers choose to wait on installing Windows 11 and we don't blame them](https://www.pcgamer.com/pc-gamer-readers-choose-to-wait-on-installing-windows-11-and-we-dont-blame-them)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
