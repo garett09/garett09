@@ -179,9 +179,9 @@ Windows                  6 hrs 1 min         ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Mickey Mouse and Goofy won’t be joining Sora in Super Smash Bros. DLC](https://www.polygon.com/22710732/sora-super-smash-bros-ultimate-dlc-fighter-disney-goofy-mickey-mouse)
- - [Sony Planning To Make PS3, Vita Stores Nearly Unusable](https://kotaku.com/sony-planning-to-make-ps3-vita-stores-nearly-unusable-1847801952)
- - [Smack up adorable claymation critters in an alien burger factory with Bonky](https://www.pcgamer.com/smack-up-adorable-claymation-critters-in-an-alien-burger-factory-with-bonky)<!-- GAME:END -->
+ - [Netflix’s weird interactive specials, ranked by how much your choices matter](https://www.polygon.com/22286070/netflix-interactive-shows-movies-ranked)
+ - [Dread Hunger leaves early access soon, adds more murder](https://www.polygon.com/22711106/dread-hunger-steam-release-bad-medicine-update)
+ - [Call of Duty: Black Ops Cold War and Warzone season 6 battle pass brings 2 new weapons](https://www.polygon.com/call-of-duty/22711047/call-of-duty-season-6-release-date-cold-war-warzone-battle-pass)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
