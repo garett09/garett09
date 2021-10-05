@@ -186,9 +186,9 @@ Windows                  6 hrs 1 min         ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Insurance infrastructure startup Sure raises $100M Series C at a $550M valuation to help companies launch insurance products with its APIs (Mary Ann Azevedo/TechCrunch)](http://www.techmeme.com/211005/p27#a211005p27)
- - [Apple App Store fees under fire again in China](https://appleinsider.com/articles/21/10/05/apple-app-store-fees-under-fire-again-in-china?utm_medium=rss)
- - [Flying with iPad mini: A pilot's review](https://appleinsider.com/articles/21/10/05/flying-with-ipad-mini-a-pilots-review?utm_medium=rss)<!-- TECH:END -->
+ - [15 best Android emulators for PC and Mac of 2021](https://www.androidauthority.com/best-android-emulators-for-pc-655308/)
+ - [Instagram is getting rid of IGTV, sort of](https://www.theverge.com/2021/10/5/22710638/instagram-tv-igtv-rebrand-video-formats-tiktok-reels)
+ - [Best Deals Oct. 5: $20 off new Apple TV 4K, $400 off Samsung 65-inch QLED TV, more!](https://appleinsider.com/articles/21/10/05/best-deals-oct-5-20-off-new-apple-tv-4k-400-off-samsung-65-inch-qled-tv-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
