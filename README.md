@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Last of Us 2 free to play for PlayStation Now subscribers     - CNET](https://www.cnet.com/news/last-of-us-2-free-to-play-for-playstation-now-subscribers/#ftag=CAD590a51e)
  - [Intel attempts to convert Apple fans in 'social experiment'](https://appleinsider.com/articles/21/10/05/intel-attempts-to-convert-apple-fans-in-social-experiment?utm_medium=rss)
- - [iPhone 13 Pro costs Apple $21 more to build than iPhone 12 Pro, study finds](https://appleinsider.com/articles/21/10/04/iphone-13-pro-costs-apple-21-more-to-build-than-iphone-12-pro-study-finds?utm_medium=rss)
- - [Facebook, Instagram, and other services seeing widespread outage [u]](https://appleinsider.com/articles/21/10/04/facebook-instagram-and-other-services-seeing-widespread-outage?utm_medium=rss)<!-- TECH:END -->
+ - [iPhone 13 Pro costs Apple $21 more to build than iPhone 12 Pro, study finds](https://appleinsider.com/articles/21/10/04/iphone-13-pro-costs-apple-21-more-to-build-than-iphone-12-pro-study-finds?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
