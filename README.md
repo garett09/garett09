@@ -179,9 +179,9 @@ Windows                  6 hrs 1 min         ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [New World players are working on hardcore fishing for big battles](https://www.polygon.com/22711303/new-world-players-fishing-buffs-pvp-battles-stats)
- - [Rockstar Launcher update points another finger at a remastered Grand Theft Auto trilogy](https://www.pcgamer.com/rockstar-launcher-update-points-another-finger-at-a-remastered-grand-theft-auto-trilogy)
- - [Halo Infinite clips are everywhere, here are some of the highlights](https://www.polygon.com/22710795/halo-infinite-clips-videos-multiplayer-big-team-battle)<!-- GAME:END -->
+ - [Rockstar denies knowledge of its Agent’s whereabouts, activities](https://www.polygon.com/22711396/rockstar-games-agent-canceled-abandoned-delisted)
+ - [Tales Of Arise, As Told By Steam Reviews](https://kotaku.com/tales-of-arise-as-told-by-steam-reviews-1847804247)
+ - [Resident Evil Village demake turns Castle Dimitrescu into Castlevania](https://www.pcgamer.com/resident-evil-village-demake-castlevania)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
