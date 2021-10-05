@@ -186,9 +186,9 @@ Windows                  6 hrs 1 min         ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Snapchat rolls out a new "Run for Office" in-app tool to encourage young adults to run for local office, including a portal with 75K+ curated upcoming elections (Aisha Malik/TechCrunch)](http://www.techmeme.com/211005/p30#a211005p30)
- - [Apple Pay lands in Bahrain with three major banks supported at launch](https://appleinsider.com/articles/21/10/05/apple-pay-lands-in-bahrain-with-three-major-banks-supported-at-launch?utm_medium=rss)
- - [Taylor Swift fans are getting caught up in the Virginia gubernatorial race](https://www.theverge.com/2021/10/5/22710848/taylor-swift-scooter-braun-masters-glenn-youngkin-virginia-mcauliffe)<!-- TECH:END -->
+ - [Google launching new Pixel 6, Pixel 6 Pro smartphones on Oct. 19](https://appleinsider.com/articles/21/10/05/google-launching-new-pixel-6-pixel-6-pro-smartphones-on-oct-19?utm_medium=rss)
+ - [Haugen's testimony: Facebook puts growth above public safety and must be more transparent, Section 230 reform is not enough, the buck stops at Zuckerberg, more (Lauren Feiner/CNBC)](http://www.techmeme.com/211005/p33#a211005p33)
+ - [Snapchat wants to help you run for office     - CNET](https://www.cnet.com/tech/services-and-software/snapchat-wants-to-help-you-run-for-office/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
