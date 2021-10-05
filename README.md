@@ -186,9 +186,9 @@ Windows                  6 hrs 1 min         ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Verizon deals: Trade-in for a free iPhone 13 Pro, and more](https://www.androidauthority.com/best-verizon-deals-835801/)
- - [Destiny 2 arrives on Xbox Game Pass for PC on October 12th](https://www.theverge.com/2021/10/5/22710642/destiny-2-xbox-game-pass-for-pc-release-date)
- - [Leaked court doc shows US investigators secretly used a "keyword warrant" to order Google to provide data on anyone searching a victim's name and personal info (Thomas Brewster/Forbes)](http://www.techmeme.com/211005/p25#a211005p25)<!-- TECH:END -->
+ - [Insurance infrastructure startup Sure raises $100M Series C at a $550M valuation to help companies launch insurance products with its APIs (Mary Ann Azevedo/TechCrunch)](http://www.techmeme.com/211005/p27#a211005p27)
+ - [Apple App Store fees under fire again in China](https://appleinsider.com/articles/21/10/05/apple-app-store-fees-under-fire-again-in-china?utm_medium=rss)
+ - [Flying with iPad mini: A pilot's review](https://appleinsider.com/articles/21/10/05/flying-with-ipad-mini-a-pilots-review?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
