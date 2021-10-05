@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Super Monkey Ball Banana Mania: A love letter to banana maniacs](http://feedproxy.google.com/~r/PSBlog/~3/zIt_8p9gi7I/)
- - [Super Monkey Ball Banana Mania: A love letter to banana maniacs](https://blog.playstation.com/2021/10/05/super-monkey-ball-banana-mania-a-love-letter-to-banana-maniacs/)
- - [Coming Soon to Xbox Game Pass: Back 4 Blood, Destiny 2: Beyond Light for PC, and More](https://news.xbox.com/en-us/2021/10/05/xbox-game-pass-update-october-2021/)<!-- GAME:END -->
+ - [Kingdom Hearts Trilogy Comes To Switch Via Cloud Streaming](https://kotaku.com/kingdom-hearts-trilogy-comes-to-switch-via-cloud-stream-1847800725)
+ - [Doom Slayer Comes To Smash Bros. Ultimate As Mii Costume](https://kotaku.com/doom-slayer-comes-to-smash-bros-ultimate-as-mii-costum-1847800572)
+ - [Super Smash Bros. Ultimate gets Doom Slayer from Doom as a Mii Fighter](https://www.polygon.com/22710541/super-smash-bros-ultimate-final-mii-fighters-dlc)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
