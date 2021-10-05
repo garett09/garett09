@@ -186,9 +186,9 @@ Windows                  6 hrs 1 min         ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Announcement | Tech Crunch](https://techncruncher.blogspot.com/2021/10/announcement-tech-crunch.html)
- - [Super Smash Bros. Ultimate DLC reveal recap: Sora, Kingdom Hearts on Switch, and more     - CNET](https://www.cnet.com/news/final-super-smash-bros-ultimate-dlc-reveal-start-time-how-to-watch-and-what-to-expect/#ftag=CAD590a51e)
- - [9 best Apple Watch Apps (that you probably already have installed)     - CNET](https://www.cnet.com/tech/mobile/best-apple-watch-apps/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [AirPods Pro and AirPods Max get Find My integration with latest firmware update](https://appleinsider.com/articles/21/10/05/airpods-pro-and-airpods-max-get-find-my-integration-with-latest-firmware-update?utm_medium=rss)
+ - [Best iPad 2021     - CNET](https://www.cnet.com/tech/computing/best-ipad/#ftag=CAD590a51e)
+ - [Super Smash Bros. Ultimate DLC reveal recap: Sora, Kingdom Hearts on Switch, and more     - CNET](https://www.cnet.com/news/final-super-smash-bros-ultimate-dlc-reveal-start-time-how-to-watch-and-what-to-expect/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
