@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Huawei’s Ryzen 5000-equipped MateBook 16 is getting a global release](https://www.theverge.com/2021/10/5/22702083/huawei-matebook-16-ryzen-5000-laptop-price)
- - [Remembering Steve Jobs, 10 Years After His Death](https://www.wired.com/story/remembering-steve-jobs-10-years-after-his-death)
- - [This Facebook Whistleblower Hearing Will Be Different](https://www.wired.com/story/facebook-whistleblower-hearing-will-be-different)<!-- TECH:END -->
+ - [Orca Security, which provides tools for protecting cloud-based assets, extends Series C to $550M led by Temasek at a $1.8B valuation, up from $1.2B in March (Rachel Phua/DealStreetAsia)](http://www.techmeme.com/211005/p16#a211005p16)
+ - [Singapore's parliament passes a law that will compel ISPs and social media platforms to share user data, block content, and more, drawing criticism from experts (Rachel Pannett/Washington Post)](http://www.techmeme.com/211005/p15#a211005p15)
+ - [Unsurprisingly, Apple Watch Series 7 will be in short supply at launch](https://appleinsider.com/articles/21/10/05/unsurprisingly-apple-watch-series-7-will-be-in-short-supply-at-launch?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
