@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Time management](http://9gag.com/gag/ajm2DWG)
- - 🚯 [Some antibodies](http://9gag.com/gag/a4EMYgd)
- - 🚯 [Finally got a job after a year of unemployment. Saved up for 4 months, bought my mom a dinner and bought myself something for the first time with my own money. It&#039;s not much but it&#039;s honest work](http://9gag.com/gag/aB2DYP2)<!-- MEMES:END -->
+ - 🚖 [Never bring your &quot;equality&quot; in competition. If you suck, you suck. Now suck it and leave.](http://9gag.com/gag/aMKp9VP)
+ - 🚯 [Not a Spoiler](http://9gag.com/gag/abVjZ8L)
+ - 🚯 [Squid Game: Find your friends](http://9gag.com/gag/aV7Ge3O)<!-- MEMES:END -->
 
 --- 
 
