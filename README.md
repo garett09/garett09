@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Quick, Instagram is asleep! Post pictures of people with actual talents](http://9gag.com/gag/abVjyNp)
- - 🚯 [Influencers right now](http://9gag.com/gag/aNpyZvw)
- - 🚯 [About Facebook being down](http://9gag.com/gag/aNpyK1v)<!-- MEMES:END -->
+ - 🚖 [Influencers right now](http://9gag.com/gag/aNpyZvw)
+ - 🚯 [Me who hasn&#039;t used Facebook in the past 4 years rn](http://9gag.com/gag/abVjyY9)
+ - 🚯 [Facebook and Instagram down](http://9gag.com/gag/aK6bPj3)<!-- MEMES:END -->
 
 --- 
 
