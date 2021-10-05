@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Game of Thrones spinoff House of the Dragon gets a brooding first teaser trailer](https://www.polygon.com/22687910/house-of-the-dragon-trailer-release-game-of-thrones)
- - [New World bots flood fishing spots, so players bring boars to kill them](https://www.pcgamer.com/new-world-bots-flood-fishing-spots-so-players-bring-boars-to-kill-them)
- - [Retro horror spookfest EEK3 returns this Friday](https://www.pcgamer.com/retro-horror-spookfest-eek3-returns-this-friday)<!-- GAME:END -->
+ - [Super Monkey Ball Banana Mania: A love letter to banana maniacs](http://feedproxy.google.com/~r/PSBlog/~3/zIt_8p9gi7I/)
+ - [Super Monkey Ball Banana Mania: A love letter to banana maniacs](https://blog.playstation.com/2021/10/05/super-monkey-ball-banana-mania-a-love-letter-to-banana-maniacs/)
+ - [Coming Soon to Xbox Game Pass: Back 4 Blood, Destiny 2: Beyond Light for PC, and More](https://news.xbox.com/en-us/2021/10/05/xbox-game-pass-update-october-2021/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
