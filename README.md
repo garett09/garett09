@@ -186,9 +186,9 @@ Windows                  6 hrs 1 min         ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Visa plans to trim the fee banks pay Apple for recurring automated payments next year amid discontent in the banking industry; Apple opposes the change (AnnaMaria Andriotis/Wall Street Journal)](http://www.techmeme.com/211005/p35#a211005p35)
- - [Apple's Tim Cook talks mental health and 'mindless scrolling'](https://appleinsider.com/articles/21/10/05/apples-tim-cook-talks-mental-health-and-mindless-scrolling?utm_medium=rss)
- - [Microsoft is giving away free Windows 11 ice cream in NYC today](https://www.theverge.com/tldr/2021/10/5/22711189/microsoft-windows-11-ice-cream-free-mikey-likes-it-nyc)<!-- TECH:END -->
+ - [Announcement | Tech Crunch](https://techncruncher.blogspot.com/2021/10/announcement-tech-crunch.html)
+ - [Super Smash Bros. Ultimate DLC reveal recap: Sora, Kingdom Hearts on Switch, and more     - CNET](https://www.cnet.com/news/final-super-smash-bros-ultimate-dlc-reveal-start-time-how-to-watch-and-what-to-expect/#ftag=CAD590a51e)
+ - [9 best Apple Watch Apps (that you probably already have installed)     - CNET](https://www.cnet.com/tech/mobile/best-apple-watch-apps/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
