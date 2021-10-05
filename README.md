@@ -180,9 +180,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Windows 11 is out now and ready for you to download](https://www.pcgamer.com/windows-11-out-now)
- - [When can I download Windows 11?](https://www.pcgamer.com/when-can-i-download-windows-11)
- - [Facebook went down for hours today, affecting Oculus headsets](https://www.pcgamer.com/facebook-oculus-down)<!-- GAME:END -->
+ - [New World bots flood fishing spots, so players bring boars to kill them](https://www.pcgamer.com/new-world-bots-flood-fishing-spots-so-players-bring-boars-to-kill-them)
+ - [Retro horror spookfest EEK3 returns this Friday](https://www.pcgamer.com/retro-horror-spookfest-eek3-returns-this-friday)
+ - [The best graphics cards in 2021](https://www.pcgamer.com/the-best-graphics-cards)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
