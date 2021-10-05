@@ -193,9 +193,9 @@ Windows                  6 hrs 1 min         ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [So polite and patient!](http://9gag.com/gag/a5ELZxG)
- - 🚯 [It&#039;s science b*tch!](http://9gag.com/gag/aZ09mxp)
- - 🚯 [Don&#039;t let their words bring you down](http://9gag.com/gag/aWjV8P4)<!-- MEMES:END -->
+ - 🚖 [Yep](http://9gag.com/gag/aDdBjVG)
+ - 🚯 [Don&#039;t let their words bring you down](http://9gag.com/gag/aWjV8P4)
+ - 🚯 [So polite and patient!](http://9gag.com/gag/a5ELZxG)<!-- MEMES:END -->
 
 --- 
 
