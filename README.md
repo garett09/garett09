@@ -195,8 +195,8 @@ Windows                  7 hrs 16 mins       ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Facebook and Instagram down](http://9gag.com/gag/aK6bPj3)
- - 🚯 [One of the biggest leaks happened yesterday. Don&#039;t let the coincidental outage of social media distract you.](http://9gag.com/gag/aV7GXR2)
- - 🚯 [Facebook users right now.](http://9gag.com/gag/aO36m42)<!-- MEMES:END -->
+ - 🚯 [Somebody won&#039;t have a job anymore tomorrow](http://9gag.com/gag/av5bgGW)
+ - 🚯 [When you see &#039;facebook is down&#039; on every post here...](http://9gag.com/gag/av5bLpE)<!-- MEMES:END -->
 
 --- 
 
