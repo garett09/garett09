@@ -187,9 +187,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft Surface Go 3 review: elegant hardware, bright and responsive display, and extremely portable, but no performance gains and average battery life (Nathan Ingraham/Engadget)](http://www.techmeme.com/211005/p19#a211005p19)
- - [Waymo co-CEO Tekedra Mawakana on how to get self-driving taxis to the mall](https://www.theverge.com/22708676/waymo-tekedra-mawakana-self-driving-interview)
- - [Russia launches movie actress and producer to space for cosmic film shoot](https://www.theverge.com/2021/10/5/22709501/russia-soyuz-launch-actress-producer-filming-movie-space-station)<!-- TECH:END -->
+ - [The best Verizon deals: Trade-in for a free iPhone 13 Pro, and more](https://www.androidauthority.com/best-verizon-deals-835801/)
+ - [Destiny 2 arrives on Xbox Game Pass for PC on October 12th](https://www.theverge.com/2021/10/5/22710642/destiny-2-xbox-game-pass-for-pc-release-date)
+ - [Leaked court doc shows US investigators secretly used a "keyword warrant" to order Google to provide data on anyone searching a victim's name and personal info (Thomas Brewster/Forbes)](http://www.techmeme.com/211005/p25#a211005p25)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
