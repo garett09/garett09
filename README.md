@@ -179,9 +179,9 @@ Windows                  6 hrs 1 min         ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Sora’s Smash Bros. appearance answers a 6-year-old question](https://www.polygon.com/22710681/sora-super-smash-bros-most-popular-fan-poll-satoru-iwata)
- - [The Kingdom Hearts series is coming to Nintendo Switch](https://www.polygon.com/22710664/kingdom-hearts-nintendo-switch-sora-smash-anniversary)
- - [Hot Wheels Unleashed Is Arcade Racing That Takes Its Tiny Toy Cars Seriously](https://kotaku.com/hot-wheels-unleashed-is-arcade-racing-that-takes-its-ti-1847797700)<!-- GAME:END -->
+ - [Gas Station Simulator is stressful and janky and I can’t stop playing it](https://www.polygon.com/22710735/gas-station-simulator-retro-stressful-janky-steam)
+ - [Here’s Kirby as Sora from Kingdom Hearts](https://www.polygon.com/22710739/super-smash-bros-ultimate-sora-kirby)
+ - [Nickelodeon All-Star Brawl Datamining Hints At Future Characters](https://kotaku.com/nickelodeon-all-star-brawl-datamining-hints-at-future-c-1847801466)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
