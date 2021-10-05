@@ -194,9 +194,9 @@ Windows                  7 hrs 16 mins       ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Somebody won&#039;t have a job anymore tomorrow](http://9gag.com/gag/av5bgGW)
- - 🚯 [Working in power transmission](http://9gag.com/gag/awMqxzQ)
- - 🚯 [When you see &#039;facebook is down&#039; on every post here...](http://9gag.com/gag/av5bLpE)<!-- MEMES:END -->
+ - 🚖 [Damn, top 1% intelligence](http://9gag.com/gag/av5bPWn)
+ - 🚯 [When you see &#039;facebook is down&#039; on every post here...](http://9gag.com/gag/av5bLpE)
+ - 🚯 [Facebook system admin right now :](http://9gag.com/gag/azM6E9Z)<!-- MEMES:END -->
 
 --- 
 
