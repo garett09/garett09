@@ -193,8 +193,8 @@ Windows                  6 hrs 1 min         ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Time management](http://9gag.com/gag/ajm2DWG)
- - 🚯 [Don&#039;t let their words bring you down](http://9gag.com/gag/aWjV8P4)
+ - 🚖 [So polite and patient!](http://9gag.com/gag/a5ELZxG)
+ - 🚯 [Saving A Dehydrated Cactus Mouse](http://9gag.com/gag/a8EryYZ)
  - 🚯 [What is Scientology?](http://9gag.com/gag/aV7GD3K)<!-- MEMES:END -->
 
 --- 
