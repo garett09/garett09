@@ -186,9 +186,9 @@ Windows                  6 hrs 1 min         ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best over-ear headphones for 2021     - CNET](https://www.cnet.com/tech/mobile/best-over-ear-headphones/#ftag=CAD590a51e)
- - [Squid Game season 2 could focus on Netflix hit's most sinister character     - CNET](https://www.cnet.com/news/squid-game-season-2-could-focus-on-netflix-hits-most-sinister-character/#ftag=CAD590a51e)
- - [It just got much easier to find your lost AirPods Pro or AirPods Max](https://www.theverge.com/2021/10/5/22711557/apple-lost-airpods-pro-max-find-my-network-now-available)<!-- TECH:END -->
+ - [Intel’s back at it again with a terrible ‘social experiment’ ad](https://www.theverge.com/2021/10/5/22711517/intel-anti-apple-ad-m1-innovation-social-experiment)
+ - [Twitter is making live video quality better by removing one feature](https://www.theverge.com/2021/10/5/22711672/twitter-live-video-quality-improvements-dropped-feature)
+ - [Tardigrade fossil in 16-million-year-old amber a 'once in a generation' find     - CNET](https://www.cnet.com/news/tardigrade-fossil-in-16-million-year-old-amber-a-once-in-a-generation-find/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
