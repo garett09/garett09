@@ -181,9 +181,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Help Everyone’s True Colors Shine in Rainbow Billy: The Curse of the Leviathan](https://news.xbox.com/en-us/2021/10/06/true-colors-shine-in-rainbow-billy-the-curse-of-the-leviathan/)
- - [There’s Someone Inside Your House has one great horror idea and a lot of familiar ones](https://www.polygon.com/22713458/theres-someone-inside-your-house-review-netflix)
- - [This Fortnite skin combines Cuddle Team Leader and Tomato Head into an unholy abomination](https://www.pcgamer.com/curdle-scream-leader)<!-- GAME:END -->
+ - [World Of Warcraft Update Removes Suggestive Flirts & Jokes](https://kotaku.com/world-of-warcraft-update-removes-suggestive-flirts-jo-1847813633)
+ - [Battlefield 2042 Beta Feels Wild, Yet Somehow Plays It Safe](https://kotaku.com/battlefield-2042-beta-feels-wild-yet-somehow-plays-it-1847813625)
+ - [Watch The Witcher 3 running on a Steam Deck](https://www.pcgamer.com/witcher-3-steam-deck-video)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
