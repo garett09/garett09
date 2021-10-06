@@ -181,9 +181,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Fiasco proves how fun it is to role play without a DM](https://www.polygon.com/22700879/fiasco-role-play-dm-patrick-rothfuss)
- - [It’s All in the Cards: Welcome to Fortnitemares 2021](https://news.xbox.com/en-us/2021/10/06/its-all-in-the-cards-welcome-to-fortnitemares-2021/)
- - [Obsidian’s backyard survival game Grounded is getting its biggest update yet](https://www.polygon.com/22712416/grounded-game-update-hot-hazy-release-date-obsidian-entertainment)<!-- GAME:END -->
+ - [How Netflix makes its choose-your-own adventure stories](https://www.polygon.com/22712738/netflix-interactive-interview-ben-simms)
+ - [Marvel’s brand new Spider-Man comic promised a fresh start but delivered a clone](https://www.polygon.com/reviews/22712817/spider-man-75-review-marvel-ben-reilly)
+ - [The best gaming PC in 2021](https://www.pcgamer.com/best-gaming-pc)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
