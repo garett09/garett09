@@ -181,9 +181,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The Battlefield 2042 beta reminded me why I love Battlefield](https://www.pcgamer.com/the-battlefield-2042-beta-reminded-me-why-i-love-battlefield)
  - [The best gaming laptops in Australia for 2021](https://www.pcgamer.com/the-best-gaming-laptops-in-australia-for-2021)
- - [New World's first post-launch update doesn't include character transfer, but plenty of bug fixes](https://www.pcgamer.com/new-worlds-first-post-launch-update-doesnt-include-character-transfer-but-plenty-of-bug-fixes)
- - [Back 4 Blood is among October's Xbox Game Pass for PC additions](https://www.pcgamer.com/back-4-blood-is-among-octobers-xbox-game-pass-for-pc-additions)<!-- GAME:END -->
+ - [New World's first post-launch update doesn't include character transfer, but plenty of bug fixes](https://www.pcgamer.com/new-worlds-first-post-launch-update-doesnt-include-character-transfer-but-plenty-of-bug-fixes)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
