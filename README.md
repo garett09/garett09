@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Wizard, a B2B startup offering "conversational commerce" tools that let brands interact with customers over text, raises $50M Series A led by NEA (Sarah Perez/TechCrunch)](http://www.techmeme.com/211006/p20#a211006p20)
- - [Adidas is making Xbox sneakers](https://www.theverge.com/2021/10/6/22712418/adidas-xbox-sneakers-trainers-microsoft)
- - [Snap adds Snapchat creator monetization programs, including Spotlight Challenges, which pays $25K+ to creators using specific AR lenses, sounds, or topics (Todd Spangler/Variety)](http://www.techmeme.com/211006/p19#a211006p19)<!-- TECH:END -->
+ - [App Store sees strongest growth in months in September](https://appleinsider.com/articles/21/10/06/app-store-sees-strongest-growth-in-months-in-september?utm_medium=rss)
+ - [Wallpaper Wednesday: More great phone wallpapers for all to share (Oct. 06)](https://www.androidauthority.com/wallpaper-wednesday-oct-06-2021-3034659/)
+ - [How to scan your Windows PC for malware](https://www.theverge.com/22705042/how-to-scan-microsoft-windows-pc-malware-security-antivirus-defender)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
