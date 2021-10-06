@@ -195,9 +195,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Happy spooktober](http://9gag.com/gag/a7Ej13b)
- - 🚯 [Social-capitalism vs Corporate-capitalism vs Community](http://9gag.com/gag/aDdB4Ow)
- - 🚯 [Conscription?](http://9gag.com/gag/a9E3n7Z)<!-- MEMES:END -->
+ - 🚖 [Reverse the roles and the guy would be beaten by crowd and be in jail. The amount of time she just stands there and laughs shows how infrequently women get called out for such behaviour. Her 2 brain cells couldn&rsquo;t even comprehend it for a long while.](http://9gag.com/gag/aeAXAnj)
+ - 🚯 [Wish they hadn&#039;t removed this!](http://9gag.com/gag/arMPMjd)
+ - 🚯 [Happy spooktober](http://9gag.com/gag/a7Ej13b)<!-- MEMES:END -->
 
 --- 
 
