@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily Authority: Pixel launch date confirmed 🎯](https://www.androidauthority.com/newsletters/da-october-6-2021/)
- - [Apple signs overall deal with 'Preacher' showrunner Sam Catlin](https://appleinsider.com/articles/21/10/05/apple-signs-overall-deal-with-preacher-showrunner-sam-catlin?utm_medium=rss)
- - [Compact noise-cancelling earbuds boast an advanced driver setup and fair price](https://www.androidauthority.com/anker-soundcore-liberty-3-pro-3035603/)<!-- TECH:END -->
+ - [The Grid Isn’t Ready for the Renewable Revolution](https://www.wired.com/story/the-grid-isnt-ready-for-the-renewable-revolution)
+ - [A True Story About Bogus Photos of People Making Fake News](https://www.wired.com/story/true-story-bogus-photos-people-fake-news)
+ - [How to Change Your Web Browser in Windows 11 (It’s Not Easy)](https://www.wired.com/story/how-to-change-your-browser-in-windows-11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
