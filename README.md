@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Nokia T20 tablet is official with a 2K display and a low price](https://www.androidauthority.com/nokia-t20-3035408/)
- - [The Porsche 911 Turbo S Cabriolet is a droptop rocketship     - Roadshow](https://www.cnet.com/roadshow/pictures/2021-porsche-911-turbo-s-cabriolet-quick-drive/#ftag=CAD590a51e)
- - [Money Heist Season 5: What Happened To The Professor?](https://techncruncher.blogspot.com/2021/10/money-heist-season-5-what-happened-to.html)<!-- TECH:END -->
+ - [Daily Authority: Pixel launch date confirmed 🎯](https://www.androidauthority.com/newsletters/da-october-6-2021/)
+ - [Apple signs overall deal with 'Preacher' showrunner Sam Catlin](https://appleinsider.com/articles/21/10/05/apple-signs-overall-deal-with-preacher-showrunner-sam-catlin?utm_medium=rss)
+ - [Compact noise-cancelling earbuds boast an advanced driver setup and fair price](https://www.androidauthority.com/anker-soundcore-liberty-3-pro-3035603/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
