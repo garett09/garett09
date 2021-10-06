@@ -195,9 +195,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I&rsquo;m cheap not broke](http://9gag.com/gag/a7Ejw0A)
- - 🚯 [Two assailants attack an older off-duty police officer in Chicago and slam him against the glass; bystanders look on unconcerned. Officer drags gun in self defense; bystanders freak out.](http://9gag.com/gag/aXo8gAV)
- - 🚯 [I had 2 restaurants with 30 employees, 1 place is gone due to covid, start from scratch with Ph\u1edf delivery, I cook myself no more employees. Wish me luck guys.](http://9gag.com/gag/aeAX5ov)<!-- MEMES:END -->
+ - 🚖 [Social-capitalism vs Corporate-capitalism vs Community](http://9gag.com/gag/aDdB4Ow)
+ - 🚯 [Calculation is not perfect](http://9gag.com/gag/aZ097rX)
+ - 🚯 [The Pontiac Bandit rides again!](http://9gag.com/gag/a3EoRgQ)<!-- MEMES:END -->
 
 --- 
 
