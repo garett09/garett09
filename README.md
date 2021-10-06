@@ -195,9 +195,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Original content.](http://9gag.com/gag/aDdB1RG)
- - 🚯 [Bang Bang](http://9gag.com/gag/aO36rbv)
- - 🚯 [Go Fun the World](http://9gag.com/gag/aXo8YLv)<!-- MEMES:END -->
+ - 🚖 [Go Fun the World](http://9gag.com/gag/aXo8YLv)
+ - 🚯 [A customer sent Amazon this video of me making a delivery with the Skeleton assist!](http://9gag.com/gag/aB2D012)
+ - 🚯 [Smart](http://9gag.com/gag/a4EMQOp)<!-- MEMES:END -->
 
 --- 
 
