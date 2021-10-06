@@ -181,9 +181,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Find dozens of Easter eggs in this Katamari artwork](https://www.polygon.com/features/22692071/katamari-damacy-art-easter-eggs)
- - [Best SSD for gaming in 2021](https://www.pcgamer.com/best-ssd-for-gaming)
- - [The best hobby purchase I made this year is a paint mixer made for scientists](https://www.polygon.com/tabletop-games/22713199/vortex-mixer-for-painting-miniatures-gift)<!-- GAME:END -->
+ - [Help Everyone’s True Colors Shine in Rainbow Billy: The Curse of the Leviathan](https://news.xbox.com/en-us/2021/10/06/true-colors-shine-in-rainbow-billy-the-curse-of-the-leviathan/)
+ - [There’s Someone Inside Your House has one great horror idea and a lot of familiar ones](https://www.polygon.com/22713458/theres-someone-inside-your-house-review-netflix)
+ - [This Fortnite skin combines Cuddle Team Leader and Tomato Head into an unholy abomination](https://www.pcgamer.com/curdle-scream-leader)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
