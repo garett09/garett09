@@ -195,9 +195,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Two assailants attack an older off-duty police officer in Chicago and slam him against the glass; bystanders look on unconcerned. Officer drags gun in self defense; bystanders freak out.](http://9gag.com/gag/aXo8gAV)
- - 🚯 [Killer blow!](http://9gag.com/gag/aRXxXDj)
- - 🚯 [Inches](http://9gag.com/gag/aYozoPm)<!-- MEMES:END -->
+ - 🚖 [Wish they hadn&#039;t removed this!](http://9gag.com/gag/arMPMjd)
+ - 🚯 [When you play against you &quot;democratically&quot; elected president !](http://9gag.com/gag/aEpePrp)
+ - 🚯 [Social-capitalism vs Corporate-capitalism vs Community](http://9gag.com/gag/aDdB4Ow)<!-- MEMES:END -->
 
 --- 
 
