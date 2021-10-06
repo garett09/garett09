@@ -181,9 +181,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [For hundreds of days, Brian Hicks battled to finish DayZ and didn’t quite get there](https://www.pcgamer.com/for-hundreds-of-days-brian-hicks-battled-to-finish-dayz-and-didnt-quite-get-there)
- - [Pokémon Is Joining Forces With Universal Studios Japan](https://kotaku.com/pokemon-is-joining-forces-with-universal-studios-japan-1847807700)
- - [The Battlefield 2042 beta reminded me why I love Battlefield](https://www.pcgamer.com/the-battlefield-2042-beta-reminded-me-why-i-love-battlefield)<!-- GAME:END -->
+ - [Far Cry 6 is a waste of potential](https://www.polygon.com/reviews/22711610/far-cry-6-review-ps5-xbox-series-x-pc-ps4-xbox-one)
+ - [New World's success has Amazon CEO convinced games could be the company's largest entertainment sector](https://www.pcgamer.com/new-worlds-success-has-amazon-ceo-convinced-games-could-be-the-companys-largest-entertainment-sector)
+ - [How long is New World's AFK timer?](https://www.pcgamer.com/how-long-is-new-worlds-afk-timer)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
