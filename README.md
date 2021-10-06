@@ -195,9 +195,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Go Fun the World](http://9gag.com/gag/aXo8YLv)
- - 🚯 [Original content.](http://9gag.com/gag/aDdB1RG)
- - 🚯 [Leggit](http://9gag.com/gag/a9E3p4W)<!-- MEMES:END -->
+ - 🚖 [Original content.](http://9gag.com/gag/aDdB1RG)
+ - 🚯 [Bang Bang](http://9gag.com/gag/aO36rbv)
+ - 🚯 [Go Fun the World](http://9gag.com/gag/aXo8YLv)<!-- MEMES:END -->
 
 --- 
 
