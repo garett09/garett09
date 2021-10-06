@@ -195,9 +195,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Wish they hadn&#039;t removed this!](http://9gag.com/gag/arMPMjd)
- - 🚯 [When you play against you &quot;democratically&quot; elected president !](http://9gag.com/gag/aEpePrp)
- - 🚯 [Social-capitalism vs Corporate-capitalism vs Community](http://9gag.com/gag/aDdB4Ow)<!-- MEMES:END -->
+ - 🚖 [Happy spooktober](http://9gag.com/gag/a7Ej13b)
+ - 🚯 [Social-capitalism vs Corporate-capitalism vs Community](http://9gag.com/gag/aDdB4Ow)
+ - 🚯 [Conscription?](http://9gag.com/gag/a9E3n7Z)<!-- MEMES:END -->
 
 --- 
 
