@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [DOJ plans to crack down on crypto exchanges that allow money laundering and pursue companies with poor cybersecurity practices that receive federal funds (Chris Bing/Reuters)](http://www.techmeme.com/211006/p28#a211006p28)
- - [IMF Head Says Central Bank Digital Currencies Are Reliable, Hard to Think of Bitcoin as Money](https://techncruncher.blogspot.com/2021/10/imf-head-says-central-bank-digital.html)
- - [Facebook’s whistleblower report confirms what researchers have known for years](https://www.theverge.com/2021/10/6/22712927/facebook-instagram-teen-mental-health-research)<!-- TECH:END -->
+ - [The beloved Galaxy Note 8 has reached end-of-life status](https://www.androidauthority.com/samsung-galaxy-note-8-updates-3036317/)
+ - [Anker PowerPort III Nano review: Micro power](https://www.androidauthority.com/anker-powerport-iii-nano-review-3035791/)
+ - [The founder of Facebook’s CrowdTangle tool is leaving](https://www.theverge.com/2021/10/6/22713109/facebook-crowdtangle-founder-brandon-silverman-leaves)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
