@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Wear OS watches (October 2021): Samsung, Mobvoi, and more](https://www.androidauthority.com/best-android-watches-572773/)
- - [How to use Conversation Boost with AirPods Pro](https://appleinsider.com/articles/21/10/06/how-to-use-conversation-boost-with-airpods-pro?utm_medium=rss)
- - [How to install Windows 11: Your complete guide to Windows Update, ISOs, and more](https://www.androidauthority.com/how-to-install-windows-11-3035248/)<!-- TECH:END -->
+ - [DOJ plans to crack down on crypto exchanges that allow money laundering and pursue companies with poor cybersecurity practices that receive federal funds (Chris Bing/Reuters)](http://www.techmeme.com/211006/p28#a211006p28)
+ - [IMF Head Says Central Bank Digital Currencies Are Reliable, Hard to Think of Bitcoin as Money](https://techncruncher.blogspot.com/2021/10/imf-head-says-central-bank-digital.html)
+ - [Facebook’s whistleblower report confirms what researchers have known for years](https://www.theverge.com/2021/10/6/22712927/facebook-instagram-teen-mental-health-research)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
