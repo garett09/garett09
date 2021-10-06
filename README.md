@@ -181,9 +181,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Surviving the night in Song in the Smoke, out tomorrow](http://feedproxy.google.com/~r/PSBlog/~3/dew584LyEYQ/)
- - [Surviving the night in Song in the Smoke, out tomorrow](https://blog.playstation.com/2021/10/06/surviving-the-night-in-song-in-the-smoke-out-tomorrow/)
- - [Xbox Game Pass Ultimate Members with EA Play Can Join the Battlefield 2042 Open Beta Starting Today](https://news.xbox.com/en-us/2021/10/06/battlefield-2042-open-beta-starts-today/)<!-- GAME:END -->
+ - [Animal Crossing: New Horizons’ new content showcase is next week](https://www.polygon.com/22712559/animal-crossing-new-horizons-nintendo-direct-october-2021-how-to-watch-time)
+ - [Teardown's free 'Part 2' update goes full Garry's Mod](https://www.pcgamer.com/teardowns-free-part-2-update-goes-full-garrys-mod)
+ - [Surviving the night in Song in the Smoke, out tomorrow](http://feedproxy.google.com/~r/PSBlog/~3/dew584LyEYQ/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
