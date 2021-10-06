@@ -195,9 +195,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Never forgetti.](http://9gag.com/gag/a6EWoXm)
+ - 🚖 [Leggit](http://9gag.com/gag/a9E3p4W)
  - 🚯 [Cats being badass](http://9gag.com/gag/a27Qo79)
- - 🚯 [Amateur theif](http://9gag.com/gag/aZ09m6Q)<!-- MEMES:END -->
+ - 🚯 [Never forgetti.](http://9gag.com/gag/a6EWoXm)<!-- MEMES:END -->
 
 --- 
 
