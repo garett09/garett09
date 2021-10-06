@@ -195,9 +195,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [He thought it couldn&#039;t get worse](http://9gag.com/gag/amPD5nX)
- - 🚯 [One of the most heartbreaking moments in the LOTR trilogy: Eomer finds his sister Eowyn apparently dead in the battle when he thought she was safe back in Rohan](http://9gag.com/gag/aeAX5wp)
- - 🚯 [Nowhere to go but up from here](http://9gag.com/gag/aDdBgRO)<!-- MEMES:END -->
+ - 🚖 [I&rsquo;m cheap not broke](http://9gag.com/gag/a7Ejw0A)
+ - 🚯 [Two assailants attack an older off-duty police officer in Chicago and slam him against the glass; bystanders look on unconcerned. Officer drags gun in self defense; bystanders freak out.](http://9gag.com/gag/aXo8gAV)
+ - 🚯 [I had 2 restaurants with 30 employees, 1 place is gone due to covid, start from scratch with Ph\u1edf delivery, I cook myself no more employees. Wish me luck guys.](http://9gag.com/gag/aeAX5ov)<!-- MEMES:END -->
 
 --- 
 
