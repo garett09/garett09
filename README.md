@@ -181,9 +181,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Halloween Countdown: 31 days of horror](https://www.polygon.com/22702474/best-halloween-movies-tv-to-watch-stream)
- - [Xbox and Adidas Team Up to Celebrate 20 Years of Play](https://news.xbox.com/en-us/2021/10/06/xbox-adidas-anniversary-partnership/)
- - [The Nintendo Switch OLED Model is both a big upgrade and a half-measure](https://www.polygon.com/reviews/22711349/nintendo-switch-oled-model-review-impressions-comparison)<!-- GAME:END -->
+ - [Surviving the night in Song in the Smoke, out tomorrow](http://feedproxy.google.com/~r/PSBlog/~3/dew584LyEYQ/)
+ - [Surviving the night in Song in the Smoke, out tomorrow](https://blog.playstation.com/2021/10/06/surviving-the-night-in-song-in-the-smoke-out-tomorrow/)
+ - [Xbox Game Pass Ultimate Members with EA Play Can Join the Battlefield 2042 Open Beta Starting Today](https://news.xbox.com/en-us/2021/10/06/battlefield-2042-open-beta-starts-today/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
