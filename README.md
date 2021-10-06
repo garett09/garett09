@@ -181,9 +181,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Venture into the Dark Wastes Today with Alder’s Blood: Definitive Edition](https://news.xbox.com/en-us/2021/10/06/venture-into-the-dark-wastes-today-with-alders-blood-definitive-edition/)
- - [What happened to What If’s missing Gamora episode](https://www.polygon.com/22712630/what-if-gamora-iron-man-episode-finale-season-2)
- - [Wasteland 3: Cult of the Holy Detonation Now Available](https://news.xbox.com/en-us/2021/10/06/wasteland-3-cult-of-the-holy-detonation-now-available/)<!-- GAME:END -->
+ - [Find dozens of Easter eggs in this Katamari artwork](https://www.polygon.com/features/22692071/katamari-damacy-art-easter-eggs)
+ - [Best SSD for gaming in 2021](https://www.pcgamer.com/best-ssd-for-gaming)
+ - [The best hobby purchase I made this year is a paint mixer made for scientists](https://www.polygon.com/tabletop-games/22713199/vortex-mixer-for-painting-miniatures-gift)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
