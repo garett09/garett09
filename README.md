@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Users complain of iPad mini 6 screen distortions](https://appleinsider.com/articles/21/10/06/users-complain-of-ipad-mini-6-screen-distortions?utm_medium=rss)
- - [Report claims Apple's health team has faced several internal issues and high-level departures; Apple says the report is based on "inaccurate" information (Joe Rossignol/MacRumors)](http://www.techmeme.com/211005/p43#a211005p43)
- - [Mark Cuban-backed Fireside, which lets creators broadcast live audio or video, exits beta; the app takes a 3% cut until creators make $30K in revenue, 15% after (Sarah Perez/TechCrunch)](http://www.techmeme.com/211005/p42#a211005p42)<!-- TECH:END -->
+ - [Majority of iPhone users unimpressed with iPhone 13 lineup, study finds](https://appleinsider.com/articles/21/10/06/majority-of-iphone-users-unimpressed-with-iphone-13-lineup-study-finds?utm_medium=rss)
+ - [New noise cancelling true wireless earbuds make good sound accessible](https://www.androidauthority.com/grell-tws-1-3034515/)
+ - [Commonstock, a social network for retail traders that requires them to link their brokerage account before posting about their investments, raises $25M Series A (Kate Rooney/CNBC)](http://www.techmeme.com/211005/p44#a211005p44)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
