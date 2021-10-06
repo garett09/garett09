@@ -181,9 +181,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Far Cry 6 is a waste of potential](https://www.polygon.com/reviews/22711610/far-cry-6-review-ps5-xbox-series-x-pc-ps4-xbox-one)
- - [New World's success has Amazon CEO convinced games could be the company's largest entertainment sector](https://www.pcgamer.com/new-worlds-success-has-amazon-ceo-convinced-games-could-be-the-companys-largest-entertainment-sector)
- - [How long is New World's AFK timer?](https://www.pcgamer.com/how-long-is-new-worlds-afk-timer)<!-- GAME:END -->
+ - [Geekbench now blocks benchmark scores from unreleased hardware](https://www.pcgamer.com/Geekbench-to-no-longer-benchmark-unreleased-hardware)
+ - [Which weapons to choose in New World](https://www.pcgamer.com/best-new-world-weapons-tier-list-combos)
+ - [Microsoft reveals how to bypass its own system requirements for Windows 11](https://www.pcgamer.com/microsoft-reveals-how-to-bypass-its-own-system-requirements-for-windows-11)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
