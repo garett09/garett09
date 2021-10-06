@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitter is selling mobile ad subsidiary MoPub to AppLovin for $1.05B, after acquiring it for nearly $350M in 2013 (Manas Mishra/Reuters)](http://www.techmeme.com/211006/p34#a211006p34)
- - [Valve tears down a Steam Deck, but says you probably shouldn't     - CNET](https://www.cnet.com/tech/valve-tears-down-a-steam-deck-but-says-you-probably-shouldnt/#ftag=CAD590a51e)
- - [Google bug prevents AMP pages from appearing in Safari on iOS 15](https://appleinsider.com/articles/21/10/06/google-bug-prevents-amp-pages-from-appearing-in-safari-on-ios-15?utm_medium=rss)<!-- TECH:END -->
+ - [Sony didn’t close the PS3 and Vita stores, but it’s making it hard to shop at them](https://www.theverge.com/2021/10/6/22713526/sony-ps3-vita-buy-games-credit-debit-card-paypal)
+ - [Save 33% on the Nokia 8.3 5G, and more of the best phone deals](https://www.androidauthority.com/best-phone-deals-2-1111885/)
+ - [Pinterest rolls out new promotion tools for brands, including slideshow ads for catalogues, and adds seven more countries to its Verified Merchant Program (Aisha Malik/TechCrunch)](http://www.techmeme.com/211006/p35#a211006p35)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
