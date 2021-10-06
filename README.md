@@ -195,9 +195,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This thing is related](http://9gag.com/gag/av5b8vd)
- - 🚯 [Just a normal day at work](http://9gag.com/gag/aV7G0Qy)
- - 🚯 [Back when there are no spring floors](http://9gag.com/gag/a8Er5LZ)<!-- MEMES:END -->
+ - 🚖 [He thought it couldn&#039;t get worse](http://9gag.com/gag/amPD5nX)
+ - 🚯 [Some men just want to watch the world burn, i guess?](http://9gag.com/gag/aO360ny)
+ - 🚯 [The Pontiac Bandit rides again!](http://9gag.com/gag/a3EoRgQ)<!-- MEMES:END -->
 
 --- 
 
