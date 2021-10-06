@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [TSA to mandate that critical US railroad and aviation companies name a chief cyber official, disclose hacks to the government, and draft hack recovery plans (Christopher Bing/Reuters)](http://www.techmeme.com/211006/p31#a211006p31)
- - [Is WoW Worth Playing In 2021](https://techncruncher.blogspot.com/2021/10/is-wow-worth-playing-in-2021-screen-rant.html)
- - [Dead Cells Creator's New Game Nuclear Blaze Lets You Save Cats](https://techncruncher.blogspot.com/2021/10/dead-cells-creators-new-game-nuclear.html)<!-- TECH:END -->
+ - [Google Nest Cam with battery review: Is it better than Arlo and Wyze?     - CNET](https://www.cnet.com/home/security/nest-cam-with-battery-review-google-is-back-with-a-smarter-security-camera/#ftag=CAD590a51e)
+ - [Pokemon Go October Community Day: Shiny Duskull, event move and start time     - CNET](https://www.cnet.com/news/pokemon-go-october-community-day-duskull-event-move-and-start-time/#ftag=CAD590a51e)
+ - [Twitter is testing a feature that gives users advice for maintaining civility before they join a potentially controversial conversation (Jos&eacute; Adorno/9to5Mac)](http://www.techmeme.com/211006/p32#a211006p32)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
