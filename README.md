@@ -196,8 +196,8 @@ Windows                  8 hrs 4 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [He thought it couldn&#039;t get worse](http://9gag.com/gag/amPD5nX)
- - 🚯 [Some men just want to watch the world burn, i guess?](http://9gag.com/gag/aO360ny)
- - 🚯 [The Pontiac Bandit rides again!](http://9gag.com/gag/a3EoRgQ)<!-- MEMES:END -->
+ - 🚯 [One of the most heartbreaking moments in the LOTR trilogy: Eomer finds his sister Eowyn apparently dead in the battle when he thought she was safe back in Rohan](http://9gag.com/gag/aeAX5wp)
+ - 🚯 [Nowhere to go but up from here](http://9gag.com/gag/aDdBgRO)<!-- MEMES:END -->
 
 --- 
 
