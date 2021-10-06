@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy Note 10 series gains October 2021 update in these markets](https://www.androidauthority.com/samsung-galaxy-note-10-plus-update-1020236/)
- - [Telegram gained over 70 million users in 1 day after Facebook outage](https://www.androidauthority.com/telegram-70-million-users-facebook-outage-3035647/)
- - [Google's Maps, Search and Shopping updates could help us make more-sustainable choices     - CNET](https://www.cnet.com/news/googles-maps-search-and-shopping-updates-could-help-us-make-more-sustainable-choices/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Nokia T20 tablet is official with a 2K display and a low price](https://www.androidauthority.com/nokia-t20-3035408/)
+ - [The Porsche 911 Turbo S Cabriolet is a droptop rocketship     - Roadshow](https://www.cnet.com/roadshow/pictures/2021-porsche-911-turbo-s-cabriolet-quick-drive/#ftag=CAD590a51e)
+ - [Money Heist Season 5: What Happened To The Professor?](https://techncruncher.blogspot.com/2021/10/money-heist-season-5-what-happened-to.html)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
