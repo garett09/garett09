@@ -195,7 +195,7 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [And pc games :)](http://9gag.com/gag/aQoYRRq)
+ - 🚖 [This thing is related](http://9gag.com/gag/av5b8vd)
  - 🚯 [Just a normal day at work](http://9gag.com/gag/aV7G0Qy)
  - 🚯 [Back when there are no spring floors](http://9gag.com/gag/a8Er5LZ)<!-- MEMES:END -->
 
