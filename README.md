@@ -195,9 +195,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Smart](http://9gag.com/gag/a4EMQOp)
- - 🚯 [Back when there are no spring floors](http://9gag.com/gag/a8Er5LZ)
- - 🚯 [Wrestler spits gum on a kid](http://9gag.com/gag/aDdBgzN)<!-- MEMES:END -->
+ - 🚖 [And pc games :)](http://9gag.com/gag/aQoYRRq)
+ - 🚯 [Just a normal day at work](http://9gag.com/gag/aV7G0Qy)
+ - 🚯 [Back when there are no spring floors](http://9gag.com/gag/a8Er5LZ)<!-- MEMES:END -->
 
 --- 
 
