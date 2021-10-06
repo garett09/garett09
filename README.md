@@ -195,9 +195,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Go Fun the World](http://9gag.com/gag/aXo8YLv)
- - 🚯 [A customer sent Amazon this video of me making a delivery with the Skeleton assist!](http://9gag.com/gag/aB2D012)
- - 🚯 [Smart](http://9gag.com/gag/a4EMQOp)<!-- MEMES:END -->
+ - 🚖 [Smart](http://9gag.com/gag/a4EMQOp)
+ - 🚯 [Back when there are no spring floors](http://9gag.com/gag/a8Er5LZ)
+ - 🚯 [Wrestler spits gum on a kid](http://9gag.com/gag/aDdBgzN)<!-- MEMES:END -->
 
 --- 
 
