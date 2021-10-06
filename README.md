@@ -181,9 +181,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Cannon Cooks Up Some Action in the New Rogue Company Update](https://news.xbox.com/en-us/2021/10/06/cannon-cooks-up-some-action-in-the-new-rogue-company-update/)
- - [New World's huge PvP wars risk alienating anyone not in a big company](https://www.pcgamer.com/new-worlds-huge-pvp-wars-risk-alienating-anyone-not-in-a-big-company)
- - [New Database Helps Players Find Games With Accessibility Features](https://kotaku.com/new-database-helps-players-find-games-with-accessibilit-1847811106)<!-- GAME:END -->
+ - [Wasteland 3: Cult of the Holy Detonation Now Available](https://news.xbox.com/en-us/2021/10/06/wasteland-3-cult-of-the-holy-detonation-now-available/)
+ - [After 8 years, Rust is getting a mission system](https://www.pcgamer.com/after-8-years-rust-is-getting-a-mission-system)
+ - [Universal Studios will bring Pokémon to its Japan theme park](https://www.polygon.com/22712966/universal-studios-pokemon-theme-park)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
