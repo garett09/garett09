@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Watching Squid Game on Netflix? Change this subtitle setting immediately     - CNET](https://www.cnet.com/news/watching-squid-game-on-netflix-change-this-subtitle-setting-immediately/#ftag=CAD590a51e)
- - [T-Mobile is making its 5G home internet $10 cheaper](https://www.theverge.com/2021/10/5/22711794/t-mobile-home-internet-no-fees-price-cut)
- - [Mark Zuckerberg rejects criticism, decrying 'false picture' of Facebook     - CNET](https://www.cnet.com/tech/services-and-software/mark-zuckerberg-rejects-criticism-decrying-false-picture-of-facebook/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Users complain of iPad mini 6 screen distortions](https://appleinsider.com/articles/21/10/06/users-complain-of-ipad-mini-6-screen-distortions?utm_medium=rss)
+ - [Report claims Apple's health team has faced several internal issues and high-level departures; Apple says the report is based on "inaccurate" information (Joe Rossignol/MacRumors)](http://www.techmeme.com/211005/p43#a211005p43)
+ - [Mark Cuban-backed Fireside, which lets creators broadcast live audio or video, exits beta; the app takes a 3% cut until creators make $30K in revenue, 15% after (Sarah Perez/TechCrunch)](http://www.techmeme.com/211005/p42#a211005p42)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
