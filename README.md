@@ -181,9 +181,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Geekbench now blocks benchmark scores from unreleased hardware](https://www.pcgamer.com/Geekbench-to-no-longer-benchmark-unreleased-hardware)
- - [Which weapons to choose in New World](https://www.pcgamer.com/best-new-world-weapons-tier-list-combos)
- - [Microsoft reveals how to bypass its own system requirements for Windows 11](https://www.pcgamer.com/microsoft-reveals-how-to-bypass-its-own-system-requirements-for-windows-11)<!-- GAME:END -->
+ - [The Halloween Countdown: 31 days of horror](https://www.polygon.com/22702474/best-halloween-movies-tv-to-watch-stream)
+ - [Xbox and Adidas Team Up to Celebrate 20 Years of Play](https://news.xbox.com/en-us/2021/10/06/xbox-adidas-anniversary-partnership/)
+ - [The Nintendo Switch OLED Model is both a big upgrade and a half-measure](https://www.polygon.com/reviews/22711349/nintendo-switch-oled-model-review-impressions-comparison)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
