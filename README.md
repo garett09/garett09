@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Steve Jobs wanted Dell to license Mac OS](https://appleinsider.com/articles/21/10/06/steve-jobs-wanted-dell-to-license-mac-os?utm_medium=rss)
- - [Telegram says it added 70 million users during Facebook outage     - CNET](https://www.cnet.com/tech/services-and-software/telegram-says-it-added-70-million-users-during-facebook-outage/#ftag=CAD590a51e)
- - [Google files document production demand against one of its biggest public critics](https://www.theverge.com/2021/10/5/22711723/google-document-demand-luther-lowe-yelp-us-antitrust)<!-- TECH:END -->
+ - [T-Mobile is making its 5G home internet $10 cheaper](https://www.theverge.com/2021/10/5/22711794/t-mobile-home-internet-no-fees-price-cut)
+ - [Mark Zuckerberg says that Facebook does not prioritize profit over safety and well-being, argues that many of the whistleblower's claims don't make sense (Mark Zuckerberg/Facebook)](http://www.techmeme.com/211005/p41#a211005p41)
+ - [Astronomers discover curious signal on scorching planet where it rains iron     - CNET](https://www.cnet.com/news/astronomers-discover-curious-signal-on-scorching-planet-where-it-rains-iron/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
