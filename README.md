@@ -181,9 +181,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [New World's first post-launch update doesn't include character transfer, but plenty of bug fixes](https://www.pcgamer.com/new-worlds-first-post-launch-update-doesnt-include-character-transfer-but-plenty-of-bug-fixes)
  - [Back 4 Blood is among October's Xbox Game Pass for PC additions](https://www.pcgamer.com/back-4-blood-is-among-octobers-xbox-game-pass-for-pc-additions)
- - [NFT Buyers Scammed As 'Creator' Bails, Who Could Possibly Have Seen This Coming?](https://kotaku.com/nft-buyers-scammed-as-creator-bails-who-could-possibly-1847806528)
- - [Play This Fantastic Resident Evil x Castlevania Game](https://kotaku.com/play-this-fantastic-resident-evil-x-castlevania-game-1847806377)<!-- GAME:END -->
+ - [NFT Buyers Scammed As 'Creator' Bails, Who Could Possibly Have Seen This Coming?](https://kotaku.com/nft-buyers-scammed-as-creator-bails-who-could-possibly-1847806528)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
