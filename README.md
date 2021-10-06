@@ -181,9 +181,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Battlefield 2042 beta reminded me why I love Battlefield](https://www.pcgamer.com/the-battlefield-2042-beta-reminded-me-why-i-love-battlefield)
- - [The best gaming laptops in Australia for 2021](https://www.pcgamer.com/the-best-gaming-laptops-in-australia-for-2021)
- - [New World's first post-launch update doesn't include character transfer, but plenty of bug fixes](https://www.pcgamer.com/new-worlds-first-post-launch-update-doesnt-include-character-transfer-but-plenty-of-bug-fixes)<!-- GAME:END -->
+ - [For hundreds of days, Brian Hicks battled to finish DayZ and didn’t quite get there](https://www.pcgamer.com/for-hundreds-of-days-brian-hicks-battled-to-finish-dayz-and-didnt-quite-get-there)
+ - [Pokémon Is Joining Forces With Universal Studios Japan](https://kotaku.com/pokemon-is-joining-forces-with-universal-studios-japan-1847807700)
+ - [The Battlefield 2042 beta reminded me why I love Battlefield](https://www.pcgamer.com/the-battlefield-2042-beta-reminded-me-why-i-love-battlefield)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
