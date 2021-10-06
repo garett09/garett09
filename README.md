@@ -195,8 +195,8 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Social-capitalism vs Corporate-capitalism vs Community](http://9gag.com/gag/aDdB4Ow)
- - 🚯 [Calculation is not perfect](http://9gag.com/gag/aZ097rX)
+ - 🚖 [Calculation is not perfect](http://9gag.com/gag/aZ097rX)
+ - 🚯 [Wrestler spits gum on a kid](http://9gag.com/gag/aDdBgzN)
  - 🚯 [The Pontiac Bandit rides again!](http://9gag.com/gag/a3EoRgQ)<!-- MEMES:END -->
 
 --- 
