@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Watching Squid Game on Netflix? Change this subtitle setting immediately     - CNET](https://www.cnet.com/news/watching-squid-game-on-netflix-change-this-subtitle-setting-immediately/#ftag=CAD590a51e)
  - [T-Mobile is making its 5G home internet $10 cheaper](https://www.theverge.com/2021/10/5/22711794/t-mobile-home-internet-no-fees-price-cut)
- - [Mark Zuckerberg says that Facebook does not prioritize profit over safety and well-being, argues that many of the whistleblower's claims don't make sense (Mark Zuckerberg/Facebook)](http://www.techmeme.com/211005/p41#a211005p41)
- - [Astronomers discover curious signal on scorching planet where it rains iron     - CNET](https://www.cnet.com/news/astronomers-discover-curious-signal-on-scorching-planet-where-it-rains-iron/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Mark Zuckerberg rejects criticism, decrying 'false picture' of Facebook     - CNET](https://www.cnet.com/tech/services-and-software/mark-zuckerberg-rejects-criticism-decrying-false-picture-of-facebook/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
