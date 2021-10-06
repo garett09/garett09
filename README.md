@@ -195,9 +195,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [PC Master Race](http://9gag.com/gag/apNe298)
- - 🚯 [Hello everyone My dad started chemo this morning because of bladder cancer. A few good thoughts for him will surely be beneficial. Thank you all](http://9gag.com/gag/anQAbAn)
- - 🚯 [George with the greatest pickup line of all time](http://9gag.com/gag/agBRY8n)<!-- MEMES:END -->
+ - 🚖 [Never forgetti.](http://9gag.com/gag/a6EWoXm)
+ - 🚯 [Cats being badass](http://9gag.com/gag/a27Qo79)
+ - 🚯 [Amateur theif](http://9gag.com/gag/aZ09m6Q)<!-- MEMES:END -->
 
 --- 
 
