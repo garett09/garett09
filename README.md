@@ -181,9 +181,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How Netflix makes its choose-your-own adventure stories](https://www.polygon.com/22712738/netflix-interactive-interview-ben-simms)
- - [Marvel’s brand new Spider-Man comic promised a fresh start but delivered a clone](https://www.polygon.com/reviews/22712817/spider-man-75-review-marvel-ben-reilly)
- - [The best gaming PC in 2021](https://www.pcgamer.com/best-gaming-pc)<!-- GAME:END -->
+ - [Cannon Cooks Up Some Action in the New Rogue Company Update](https://news.xbox.com/en-us/2021/10/06/cannon-cooks-up-some-action-in-the-new-rogue-company-update/)
+ - [New World's huge PvP wars risk alienating anyone not in a big company](https://www.pcgamer.com/new-worlds-huge-pvp-wars-risk-alienating-anyone-not-in-a-big-company)
+ - [New Database Helps Players Find Games With Accessibility Features](https://kotaku.com/new-database-helps-players-find-games-with-accessibilit-1847811106)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
