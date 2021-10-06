@@ -195,9 +195,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Original content.](http://9gag.com/gag/aDdB1RG)
- - 🚯 [Leggit](http://9gag.com/gag/a9E3p4W)
- - 🚯 [Cats being badass](http://9gag.com/gag/a27Qo79)<!-- MEMES:END -->
+ - 🚖 [Go Fun the World](http://9gag.com/gag/aXo8YLv)
+ - 🚯 [Original content.](http://9gag.com/gag/aDdB1RG)
+ - 🚯 [Leggit](http://9gag.com/gag/a9E3p4W)<!-- MEMES:END -->
 
 --- 
 
