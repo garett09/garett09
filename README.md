@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Intel’s back at it again with a terrible ‘social experiment’ ad](https://www.theverge.com/2021/10/5/22711517/intel-anti-apple-ad-m1-innovation-social-experiment)
- - [Twitter is making live video quality better by removing one feature](https://www.theverge.com/2021/10/5/22711672/twitter-live-video-quality-improvements-dropped-feature)
- - [Tardigrade fossil in 16-million-year-old amber a 'once in a generation' find     - CNET](https://www.cnet.com/news/tardigrade-fossil-in-16-million-year-old-amber-a-once-in-a-generation-find/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Steve Jobs wanted Dell to license Mac OS](https://appleinsider.com/articles/21/10/06/steve-jobs-wanted-dell-to-license-mac-os?utm_medium=rss)
+ - [Telegram says it added 70 million users during Facebook outage     - CNET](https://www.cnet.com/tech/services-and-software/telegram-says-it-added-70-million-users-during-facebook-outage/#ftag=CAD590a51e)
+ - [Google files document production demand against one of its biggest public critics](https://www.theverge.com/2021/10/5/22711723/google-document-demand-luther-lowe-yelp-us-antitrust)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
