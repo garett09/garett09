@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Xiaomi’s first foldable could get upgraded to take on Galaxy Z Fold 3](https://www.androidauthority.com/xiaomi-mix-fold-upgrade-3035618/)
- - [OnePlus 9RT: All the rumors in one place (Oct. 6)](https://www.androidauthority.com/oneplus-9rt-2737438/)
- - [Canon’s new dual-fisheye EOS R lens is for creating 3D VR content](https://www.theverge.com/2021/10/6/22712126/canon-dual-fisheye-lens-eos-vr-system-price-release-date)<!-- TECH:END -->
+ - [Telegram gained over 70 million users in 1 day after Facebook outage](https://www.androidauthority.com/telegram-70-million-users-facebook-outage-3035647/)
+ - [Google launches new features to help users shrink their carbon footprints](https://www.theverge.com/2021/10/6/22711623/google-climate-change-greenhouse-gas-emissions-carbon-footprint-maps-search-travel)
+ - [Nest Renew could make your smart home smarter](https://www.theverge.com/2021/10/6/22711307/google-nest-renew-nest-thermostat-service)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
