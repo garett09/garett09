@@ -181,9 +181,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Animal Crossing: New Horizons’ new content showcase is next week](https://www.polygon.com/22712559/animal-crossing-new-horizons-nintendo-direct-october-2021-how-to-watch-time)
- - [Teardown's free 'Part 2' update goes full Garry's Mod](https://www.pcgamer.com/teardowns-free-part-2-update-goes-full-garrys-mod)
- - [Surviving the night in Song in the Smoke, out tomorrow](http://feedproxy.google.com/~r/PSBlog/~3/dew584LyEYQ/)<!-- GAME:END -->
+ - [Fiasco proves how fun it is to role play without a DM](https://www.polygon.com/22700879/fiasco-role-play-dm-patrick-rothfuss)
+ - [It’s All in the Cards: Welcome to Fortnitemares 2021](https://news.xbox.com/en-us/2021/10/06/its-all-in-the-cards-welcome-to-fortnitemares-2021/)
+ - [Obsidian’s backyard survival game Grounded is getting its biggest update yet](https://www.polygon.com/22712416/grounded-game-update-hot-hazy-release-date-obsidian-entertainment)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
