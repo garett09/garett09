@@ -181,9 +181,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Car Thieves Arrested Using $27,000 'Game Boy'](https://kotaku.com/car-thieves-arrested-using-27-000-game-boy-1847806007)
- - [The original Ghost Recon and DLC for its sequels are free to keep](https://www.pcgamer.com/the-original-ghost-recon-and-dlc-for-its-sequels-are-free-to-keep)
- - [My wild weekend sieging New World forts made me love its PVP](https://www.pcgamer.com/my-wild-weekend-sieging-new-world-forts-made-me-love-its-pvp)<!-- GAME:END -->
+ - [Play This Fantastic Resident Evil x Castlevania Game](https://kotaku.com/play-this-fantastic-resident-evil-x-castlevania-game-1847806377)
+ - [Eastward review](https://www.pcgamer.com/eastward-review)
+ - [Sizing up the 10 most popular things on Netflix right now](https://www.polygon.com/2020/3/10/21167710/10-netflix-movies-shows-most-popular)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
