@@ -195,8 +195,8 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Moon landing denier goes upto former astronaut Buzz Aldrin and starts harassing him, ends up getting punched in the face.](http://9gag.com/gag/a7EjrML)
- - 🚯 [This is why women live longer than men ..](http://9gag.com/gag/aP3O9Rn)
+ - 🚖 [PC Master Race](http://9gag.com/gag/apNe298)
+ - 🚯 [Hello everyone My dad started chemo this morning because of bladder cancer. A few good thoughts for him will surely be beneficial. Thank you all](http://9gag.com/gag/anQAbAn)
  - 🚯 [George with the greatest pickup line of all time](http://9gag.com/gag/agBRY8n)<!-- MEMES:END -->
 
 --- 
