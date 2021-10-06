@@ -195,9 +195,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Calculation is not perfect](http://9gag.com/gag/aZ097rX)
- - 🚯 [Wrestler spits gum on a kid](http://9gag.com/gag/aDdBgzN)
- - 🚯 [The Pontiac Bandit rides again!](http://9gag.com/gag/a3EoRgQ)<!-- MEMES:END -->
+ - 🚖 [To bad the kids will grow up thinking essential oils made em healthy](http://9gag.com/gag/a8ErGQZ)
+ - 🚯 [I had 2 restaurants with 30 employees, 1 place is gone due to covid, start from scratch with Ph\u1edf delivery, I cook myself no more employees. Wish me luck guys.](http://9gag.com/gag/aeAX5ov)
+ - 🚯 [Some men just want to watch the world burn, i guess?](http://9gag.com/gag/aO360ny)<!-- MEMES:END -->
 
 --- 
 
