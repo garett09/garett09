@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple iPhone 13 review: Powerful pocket pal](https://www.androidauthority.com/apple-iphone-13-review-3031081/)
- - [What 700-year-old Antarctic soot reveals about humans' environmental impact     - CNET](https://www.cnet.com/news/what-700-year-old-antarctic-soot-reveals-about-humans-environmental-impact/#ftag=CAD590a51e)
- - [What’s good, bad, and missing in the Facebook whistleblower’s testimony](https://www.theverge.com/2021/10/6/22712512/facebook-whistleblower-testimony-analysis-congress-instagram-whatsapp)<!-- TECH:END -->
+ - [Sweden to give 12-15 year olds Pfizer vaccine, rejects Moderna](https://techncruncher.blogspot.com/2021/10/sweden-to-give-12-15-year-olds-pfizer.html)
+ - [Halide’s latest update brings the iPhone 13 Pro’s Macro Mode to older iPhones](https://www.theverge.com/2021/10/6/22711503/halide-iphone-13-pro-macro-mode-camera-app-update-older-devices)
+ - [Android 12 launches in open source, check all new features](https://techncruncher.blogspot.com/2021/10/on-october-4-12-open-source-under.html)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
