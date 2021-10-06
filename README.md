@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Nest Cam with battery review: Is it better than Arlo and Wyze?     - CNET](https://www.cnet.com/home/security/nest-cam-with-battery-review-google-is-back-with-a-smarter-security-camera/#ftag=CAD590a51e)
- - [Pokemon Go October Community Day: Shiny Duskull, event move and start time     - CNET](https://www.cnet.com/news/pokemon-go-october-community-day-duskull-event-move-and-start-time/#ftag=CAD590a51e)
- - [Twitter is testing a feature that gives users advice for maintaining civility before they join a potentially controversial conversation (Jos&eacute; Adorno/9to5Mac)](http://www.techmeme.com/211006/p32#a211006p32)<!-- TECH:END -->
+ - [Twitter is selling mobile ad subsidiary MoPub to AppLovin for $1.05B, after acquiring it for nearly $350M in 2013 (Manas Mishra/Reuters)](http://www.techmeme.com/211006/p34#a211006p34)
+ - [Valve tears down a Steam Deck, but says you probably shouldn't     - CNET](https://www.cnet.com/tech/valve-tears-down-a-steam-deck-but-says-you-probably-shouldnt/#ftag=CAD590a51e)
+ - [Google bug prevents AMP pages from appearing in Safari on iOS 15](https://appleinsider.com/articles/21/10/06/google-bug-prevents-amp-pages-from-appearing-in-safari-on-ios-15?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
