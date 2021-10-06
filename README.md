@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Grid Isn’t Ready for the Renewable Revolution](https://www.wired.com/story/the-grid-isnt-ready-for-the-renewable-revolution)
- - [A True Story About Bogus Photos of People Making Fake News](https://www.wired.com/story/true-story-bogus-photos-people-fake-news)
- - [How to Change Your Web Browser in Windows 11 (It’s Not Easy)](https://www.wired.com/story/how-to-change-your-browser-in-windows-11)<!-- TECH:END -->
+ - [Utah-based Pattern, which helps e-commerce brands optimize sales, raises $225M led by Knox Lane at a $2B pre-money valuation, following $52M Series A last year (Christine Hall/TechCrunch)](http://www.techmeme.com/211006/p15#a211006p15)
+ - [EU Parliament overwhelmingly votes for a non-binding resolution banning police use of facial recognition and the controversial AI-powered predictive policing (Melissa Heikkil&auml;/Politico)](http://www.techmeme.com/211006/p14#a211006p14)
+ - [The Best Security Cameras for Inside Your Home](https://www.wired.com/gallery/best-security-cameras)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
