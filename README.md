@@ -181,9 +181,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The best gaming laptops in Australia for 2021](https://www.pcgamer.com/the-best-gaming-laptops-in-australia-for-2021)
  - [New World's first post-launch update doesn't include character transfer, but plenty of bug fixes](https://www.pcgamer.com/new-worlds-first-post-launch-update-doesnt-include-character-transfer-but-plenty-of-bug-fixes)
- - [Back 4 Blood is among October's Xbox Game Pass for PC additions](https://www.pcgamer.com/back-4-blood-is-among-octobers-xbox-game-pass-for-pc-additions)
- - [NFT Buyers Scammed As 'Creator' Bails, Who Could Possibly Have Seen This Coming?](https://kotaku.com/nft-buyers-scammed-as-creator-bails-who-could-possibly-1847806528)<!-- GAME:END -->
+ - [Back 4 Blood is among October's Xbox Game Pass for PC additions](https://www.pcgamer.com/back-4-blood-is-among-octobers-xbox-game-pass-for-pc-additions)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
