@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung Galaxy Note 10 series gains October 2021 update in these markets](https://www.androidauthority.com/samsung-galaxy-note-10-plus-update-1020236/)
  - [Telegram gained over 70 million users in 1 day after Facebook outage](https://www.androidauthority.com/telegram-70-million-users-facebook-outage-3035647/)
- - [Google launches new features to help users shrink their carbon footprints](https://www.theverge.com/2021/10/6/22711623/google-climate-change-greenhouse-gas-emissions-carbon-footprint-maps-search-travel)
- - [Nest Renew could make your smart home smarter](https://www.theverge.com/2021/10/6/22711307/google-nest-renew-nest-thermostat-service)<!-- TECH:END -->
+ - [Google's Maps, Search and Shopping updates could help us make more-sustainable choices     - CNET](https://www.cnet.com/news/googles-maps-search-and-shopping-updates-could-help-us-make-more-sustainable-choices/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
