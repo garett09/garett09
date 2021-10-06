@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sweden to give 12-15 year olds Pfizer vaccine, rejects Moderna](https://techncruncher.blogspot.com/2021/10/sweden-to-give-12-15-year-olds-pfizer.html)
- - [Halide’s latest update brings the iPhone 13 Pro’s Macro Mode to older iPhones](https://www.theverge.com/2021/10/6/22711503/halide-iphone-13-pro-macro-mode-camera-app-update-older-devices)
- - [Android 12 launches in open source, check all new features](https://techncruncher.blogspot.com/2021/10/on-october-4-12-open-source-under.html)<!-- TECH:END -->
+ - [The best Wear OS watches (October 2021): Samsung, Mobvoi, and more](https://www.androidauthority.com/best-android-watches-572773/)
+ - [How to use Conversation Boost with AirPods Pro](https://appleinsider.com/articles/21/10/06/how-to-use-conversation-boost-with-airpods-pro?utm_medium=rss)
+ - [How to install Windows 11: Your complete guide to Windows Update, ISOs, and more](https://www.androidauthority.com/how-to-install-windows-11-3035248/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
