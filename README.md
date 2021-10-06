@@ -195,9 +195,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [He&#039;s a strong new born baby](http://9gag.com/gag/aqjvjKZ)
- - 🚯 [Extremely important. I hope this helps someone :)](http://9gag.com/gag/axMpMBL)
- - 🚯 [To bad the kids will grow up thinking essential oils made em healthy](http://9gag.com/gag/a8ErGQZ)<!-- MEMES:END -->
+ - 🚖 [Two assailants attack an older off-duty police officer in Chicago and slam him against the glass; bystanders look on unconcerned. Officer drags gun in self defense; bystanders freak out.](http://9gag.com/gag/aXo8gAV)
+ - 🚯 [Killer blow!](http://9gag.com/gag/aRXxXDj)
+ - 🚯 [Inches](http://9gag.com/gag/aYozoPm)<!-- MEMES:END -->
 
 --- 
 
