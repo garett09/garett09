@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The beloved Galaxy Note 8 has reached end-of-life status](https://www.androidauthority.com/samsung-galaxy-note-8-updates-3036317/)
- - [Anker PowerPort III Nano review: Micro power](https://www.androidauthority.com/anker-powerport-iii-nano-review-3035791/)
- - [The founder of Facebook’s CrowdTangle tool is leaving](https://www.theverge.com/2021/10/6/22713109/facebook-crowdtangle-founder-brandon-silverman-leaves)<!-- TECH:END -->
+ - [TSA to mandate that critical US railroad and aviation companies name a chief cyber official, disclose hacks to the government, and draft hack recovery plans (Christopher Bing/Reuters)](http://www.techmeme.com/211006/p31#a211006p31)
+ - [Is WoW Worth Playing In 2021](https://techncruncher.blogspot.com/2021/10/is-wow-worth-playing-in-2021-screen-rant.html)
+ - [Dead Cells Creator's New Game Nuclear Blaze Lets You Save Cats](https://techncruncher.blogspot.com/2021/10/dead-cells-creators-new-game-nuclear.html)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
