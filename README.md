@@ -190,7 +190,7 @@ Windows                  8 hrs 4 mins        ███████████�
 <!-- TECH:START -->
  - [Majority of iPhone users unimpressed with iPhone 13 lineup, study finds](https://appleinsider.com/articles/21/10/06/majority-of-iphone-users-unimpressed-with-iphone-13-lineup-study-finds?utm_medium=rss)
  - [New noise cancelling true wireless earbuds make good sound accessible](https://www.androidauthority.com/grell-tws-1-3034515/)
- - [Commonstock, a social network for retail traders that requires them to link their brokerage account before posting about their investments, raises $25M Series A (Kate Rooney/CNBC)](http://www.techmeme.com/211005/p44#a211005p44)<!-- TECH:END -->
+ - [NASA lunar probe captures ghostly image of Jupiter and its moons     - CNET](https://www.cnet.com/news/nasa-lunar-probe-captures-ghostly-image-of-jupiter-and-its-moons/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
