@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [App Store sees strongest growth in months in September](https://appleinsider.com/articles/21/10/06/app-store-sees-strongest-growth-in-months-in-september?utm_medium=rss)
- - [Wallpaper Wednesday: More great phone wallpapers for all to share (Oct. 06)](https://www.androidauthority.com/wallpaper-wednesday-oct-06-2021-3034659/)
- - [How to scan your Windows PC for malware](https://www.theverge.com/22705042/how-to-scan-microsoft-windows-pc-malware-security-antivirus-defender)<!-- TECH:END -->
+ - [Apple iPhone 13 review: Powerful pocket pal](https://www.androidauthority.com/apple-iphone-13-review-3031081/)
+ - [What 700-year-old Antarctic soot reveals about humans' environmental impact     - CNET](https://www.cnet.com/news/what-700-year-old-antarctic-soot-reveals-about-humans-environmental-impact/#ftag=CAD590a51e)
+ - [What’s good, bad, and missing in the Facebook whistleblower’s testimony](https://www.theverge.com/2021/10/6/22712512/facebook-whistleblower-testimony-analysis-congress-instagram-whatsapp)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
