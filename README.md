@@ -181,9 +181,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Wasteland 3: Cult of the Holy Detonation Now Available](https://news.xbox.com/en-us/2021/10/06/wasteland-3-cult-of-the-holy-detonation-now-available/)
- - [After 8 years, Rust is getting a mission system](https://www.pcgamer.com/after-8-years-rust-is-getting-a-mission-system)
- - [Universal Studios will bring Pokémon to its Japan theme park](https://www.polygon.com/22712966/universal-studios-pokemon-theme-park)<!-- GAME:END -->
+ - [Venture into the Dark Wastes Today with Alder’s Blood: Definitive Edition](https://news.xbox.com/en-us/2021/10/06/venture-into-the-dark-wastes-today-with-alders-blood-definitive-edition/)
+ - [What happened to What If’s missing Gamora episode](https://www.polygon.com/22712630/what-if-gamora-iron-man-episode-finale-season-2)
+ - [Wasteland 3: Cult of the Holy Detonation Now Available](https://news.xbox.com/en-us/2021/10/06/wasteland-3-cult-of-the-holy-detonation-now-available/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
