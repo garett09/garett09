@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Majority of iPhone users unimpressed with iPhone 13 lineup, study finds](https://appleinsider.com/articles/21/10/06/majority-of-iphone-users-unimpressed-with-iphone-13-lineup-study-finds?utm_medium=rss)
- - [New noise cancelling true wireless earbuds make good sound accessible](https://www.androidauthority.com/grell-tws-1-3034515/)
- - [NASA lunar probe captures ghostly image of Jupiter and its moons     - CNET](https://www.cnet.com/news/nasa-lunar-probe-captures-ghostly-image-of-jupiter-and-its-moons/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Xiaomi’s first foldable could get upgraded to take on Galaxy Z Fold 3](https://www.androidauthority.com/xiaomi-mix-fold-upgrade-3035618/)
+ - [OnePlus 9RT: All the rumors in one place (Oct. 6)](https://www.androidauthority.com/oneplus-9rt-2737438/)
+ - [Canon’s new dual-fisheye EOS R lens is for creating 3D VR content](https://www.theverge.com/2021/10/6/22712126/canon-dual-fisheye-lens-eos-vr-system-price-release-date)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
