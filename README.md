@@ -195,8 +195,8 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I had 2 restaurants with 30 employees, 1 place is gone due to covid, start from scratch with Ph\u1edf delivery, I cook myself no more employees. Wish me luck guys.](http://9gag.com/gag/aeAX5ov)
- - 🚯 [Some men just want to watch the world burn, i guess?](http://9gag.com/gag/aO360ny)
+ - 🚖 [He&#039;s a strong new born baby](http://9gag.com/gag/aqjvjKZ)
+ - 🚯 [Extremely important. I hope this helps someone :)](http://9gag.com/gag/axMpMBL)
  - 🚯 [To bad the kids will grow up thinking essential oils made em healthy](http://9gag.com/gag/a8ErGQZ)<!-- MEMES:END -->
 
 --- 
