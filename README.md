@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Utah-based Pattern, which helps e-commerce brands optimize sales, raises $225M led by Knox Lane at a $2B pre-money valuation, following $52M Series A last year (Christine Hall/TechCrunch)](http://www.techmeme.com/211006/p15#a211006p15)
- - [EU Parliament overwhelmingly votes for a non-binding resolution banning police use of facial recognition and the controversial AI-powered predictive policing (Melissa Heikkil&auml;/Politico)](http://www.techmeme.com/211006/p14#a211006p14)
- - [The Best Security Cameras for Inside Your Home](https://www.wired.com/gallery/best-security-cameras)<!-- TECH:END -->
+ - [Wizard, a B2B startup offering "conversational commerce" tools that let brands interact with customers over text, raises $50M Series A led by NEA (Sarah Perez/TechCrunch)](http://www.techmeme.com/211006/p20#a211006p20)
+ - [Adidas is making Xbox sneakers](https://www.theverge.com/2021/10/6/22712418/adidas-xbox-sneakers-trainers-microsoft)
+ - [Snap adds Snapchat creator monetization programs, including Spotlight Challenges, which pays $25K+ to creators using specific AR lenses, sounds, or topics (Todd Spangler/Variety)](http://www.techmeme.com/211006/p19#a211006p19)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
