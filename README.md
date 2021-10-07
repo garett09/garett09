@@ -181,9 +181,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [No Longer Home is Available Now for Xbox One and Xbox Series X|S](https://news.xbox.com/en-us/2021/10/07/no-longer-home-is-available-now-for-xbox-one-and-xbox-series-xs/)
- - [The Ubisoft Formula Seems To Be Wearing Thin](https://kotaku.com/the-ubisoft-formula-seems-to-be-wearing-thin-1847819487)
- - [Resident Evil: Welcome to Raccoon City trailer is so bad, it might be good](https://www.pcgamer.com/resident-evil-welcome-to-raccoon-city-trailer-is-so-bad-it-might-be-good)<!-- GAME:END -->
+ - [Destiny 2 Is Deleting Its Best Expansion](https://kotaku.com/destiny-2-is-deleting-its-best-expansion-1847820431)
+ - [Game of Thrones’ Emilia Clarke hopes her new comic sparks a conversation about menstruation](https://www.polygon.com/comics/22714944/emilia-clarke-mom-comic-mother-of-madness)
+ - [Celebrating Six Years of Rock Band 4](https://news.xbox.com/en-us/2021/10/07/celebrating-six-years-of-rock-band-4/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
