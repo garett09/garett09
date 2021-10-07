@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google bug prevents AMP pages from appearing in Safari on iOS 15](https://appleinsider.com/articles/21/10/06/google-bug-prevents-amp-pages-from-appearing-in-safari-on-ios-15?utm_medium=rss)
- - [Apple at Work update highlights enterprise 'success stories'](https://appleinsider.com/articles/21/10/07/apple-at-work-update-highlights-enterprise-success-stories?utm_medium=rss)
- - [Apple promotes Apple Music, Apple Arcade in iOS Settings app](https://appleinsider.com/articles/21/10/07/apple-advertises-apple-music-apple-arcade-in-ios-settings-app?utm_medium=rss)<!-- TECH:END -->
+ - [Apple posts 'Celebrating Steve' special to YouTube](https://appleinsider.com/articles/21/10/07/apple-posts-celebrating-steve-special-to-youtube?utm_medium=rss)
+ - [Apple CEO Tim Cook pens letter in remembrance of Steve Jobs](https://appleinsider.com/articles/21/10/05/apple-ceo-tim-cook-pens-letter-in-remembrance-of-steve-jobs?utm_medium=rss)
+ - [Spotify says it will let Anchor podcast creators in the US apply to join its programmatic ad marketplace Spotify Audience Network (Sarah Perez/TechCrunch)](http://www.techmeme.com/211006/p39#a211006p39)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
