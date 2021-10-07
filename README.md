@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [ArangoDB, the company behind open source NoSQL graph database system ArangoDB, raises $27.8M Series B led by Iris Capital (Paul Sawers/VentureBeat)](http://www.techmeme.com/211007/p1#a211007p1)
- - [Early Apple Watch Series 7 listings reveal select launch configurations](https://appleinsider.com/articles/21/10/07/early-apple-watch-series-7-listings-reveal-select-launch-configurations?utm_medium=rss)
- - [MagSafe accessories for iPhone 12 that you can buy now: Chargers, cases, wallets     - CNET](https://www.cnet.com/tech/mobile/best-magsafe-accessories-for-iphone-12/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best California king mattresses of 2021     - CNET](https://www.cnet.com/health/sleep/best-california-king-mattress/#ftag=CAD590a51e)
+ - [Best cheap true-wireless earbuds in 2021: Top AirPods alternatives for $100 or less     - CNET](https://www.cnet.com/tech/mobile/best-cheap-wireless-headphones/#ftag=CAD590a51e)
+ - [Best rowing machines of 2021     - CNET](https://www.cnet.com/health/fitness/best-rowing-machine/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
