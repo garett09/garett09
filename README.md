@@ -181,9 +181,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [FIFA might not be FIFA next year, says EA](https://www.pcgamer.com/fifa-might-not-be-fifa-next-year-says-ea)
- - [Here's what we know about New World's endgame](https://www.pcgamer.com/new-world-endgame-content)
- - [Kingston's 16GB and 32GB DDR5 memory kits receive Intel's stamp of approval](https://www.pcgamer.com/kingstons-16gb-and-32gb-ddr5-memory-kits-receive-intels-stamp-of-approval)<!-- GAME:END -->
+ - [Windows 11 has a memory leak bug and here's how to fix it](https://www.pcgamer.com/how-to-fix-windows-11-memory-leaks)
+ - [The Halloween Countdown: 31 days of horror](https://www.polygon.com/22702474/best-halloween-movies-tv-to-watch-stream)
+ - [Scandinavian-inspired adventure, Röki, comes to PS5 October 28](http://feedproxy.google.com/~r/PSBlog/~3/gWvNj7yxRD4/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
