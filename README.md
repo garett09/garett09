@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [What’s the best student laptop? We asked students](https://www.theverge.com/21369381/best-student-laptops-school-high-college)
- - [Peacock’s One of Us Is Lying updates The Breakfast Club with a murderous twist](https://www.androidauthority.com/one-of-us-is-lying-review-peacock-3033378/)
- - [Kathryn Hahn’s WandaVision villain could be getting her own Disney Plus show](https://www.theverge.com/2021/10/7/22714600/kathryn-hahn-wandavision-villain-agatha-harkness-disney-plus-show-spinoff)<!-- TECH:END -->
+ - [Resident Evil: Welcome to Raccoon City trailer goes back to the beginning](https://www.theverge.com/2021/10/7/22714705/resident-evil-welcome-to-raccoon-city-film-movie-reboot)
+ - [The best AT&T deals: Get a free iPhone 13 Pro with a trade-in, and more.](https://www.androidauthority.com/best-att-deals-2-836102/)
+ - [Chronosphere, which offers cloud-based tools to monitor infrastructure, raises $200M Series C at a $1B+ valuation led by General Atlantic (Ingrid Lunden/TechCrunch)](http://www.techmeme.com/211007/p29#a211007p29)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
