@@ -181,9 +181,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dragon Quest Composer Koichi Sugiyama Has Died](https://kotaku.com/dragon-quest-composer-koichi-sugiyama-has-died-1847815597)
- - [Twitch Says 'Malicious Third Party' Was Behind Hack](https://kotaku.com/twitch-says-malicious-third-party-was-behind-hack-1847815516)
- - [World of Warships gets spooky in time for Halloween](https://www.pcgamer.com/world-of-warships-gets-spooky-in-time-for-halloween)<!-- GAME:END -->
+ - [Sega Knows Lacking Content For PSO2 New Genesis Is A Big Problem](https://kotaku.com/sega-knows-lacking-content-for-pso2-new-genesis-is-a-bi-1847815987)
+ - [Randy Pitchford is leaving Gearbox games to focus on Gearbox movies, is still head of Gearbox overall](https://www.pcgamer.com/randy-pitchford-is-leaving-gearbox-games-to-focus-on-gearbox-movies-is-still-head-of-gearbox-overall)
+ - [Intel's new anti-Apple ad is just cringe](https://www.pcgamer.com/intels-new-anti-apple-ad-is-just-cringe)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
