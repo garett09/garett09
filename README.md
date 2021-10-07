@@ -196,8 +196,8 @@ Windows                  8 hrs 4 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Not broken, not painted](http://9gag.com/gag/aNpyL34)
- - 🚯 [Amazing stages of sculpturing](http://9gag.com/gag/ayMyqX8)
- - 🚯 [You shouldn&#039;t mess with roof koreans.](http://9gag.com/gag/aB2DZ11)<!-- MEMES:END -->
+ - 🚯 [A day on Balkans](http://9gag.com/gag/azM65Mq)
+ - 🚯 [Hey YOU!](http://9gag.com/gag/ayMyqZY)<!-- MEMES:END -->
 
 --- 
 
