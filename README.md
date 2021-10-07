@@ -181,9 +181,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Eidos Montreal Announces Workers Switching To Four-Day Weeks](https://kotaku.com/eidos-montreal-announces-workers-switching-to-four-day-1847818869)
- - [Where to find the new Warzone Season 6 bunkers](https://www.pcgamer.com/cod-warzone-bunker-locations-red-access-card)
- - [Apex Legends unleashes the Monsters Within for this year's Halloween event](https://www.pcgamer.com/apex-legends-unleashes-the-monsters-within-for-this-years-halloween-event)<!-- GAME:END -->
+ - [No Longer Home is Available Now for Xbox One and Xbox Series X|S](https://news.xbox.com/en-us/2021/10/07/no-longer-home-is-available-now-for-xbox-one-and-xbox-series-xs/)
+ - [The Ubisoft Formula Seems To Be Wearing Thin](https://kotaku.com/the-ubisoft-formula-seems-to-be-wearing-thin-1847819487)
+ - [Resident Evil: Welcome to Raccoon City trailer is so bad, it might be good](https://www.pcgamer.com/resident-evil-welcome-to-raccoon-city-trailer-is-so-bad-it-might-be-good)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
