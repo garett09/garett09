@@ -181,9 +181,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Call of Duty: Warzone’s season 6 patch updates Verdansk one last time](https://www.polygon.com/call-of-duty/22714443/call-of-duty-warzone-season-6-patch-notes-gulag)
- - [Ignite the Fires of Revolution Today in Far Cry 6](https://news.xbox.com/en-us/2021/10/07/ignite-the-fires-of-revolution-today-in-far-cry-6/)
- - [Sony's Latest PS5 Firmware Update Sure Improves System Performance](https://kotaku.com/sonys-latest-ps5-firmware-update-sure-improves-system-p-1847817597)<!-- GAME:END -->
+ - [Eidos Montreal Announces Workers Switching To Four-Day Weeks](https://kotaku.com/eidos-montreal-announces-workers-switching-to-four-day-1847818869)
+ - [Where to find the new Warzone Season 6 bunkers](https://www.pcgamer.com/cod-warzone-bunker-locations-red-access-card)
+ - [Apex Legends unleashes the Monsters Within for this year's Halloween event](https://www.pcgamer.com/apex-legends-unleashes-the-monsters-within-for-this-years-halloween-event)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
