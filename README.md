@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Facebook’s new $10 million fund for VR creators is hopefully just the beginning](https://www.theverge.com/2021/10/7/22714876/facebook-horizon-worlds-creators-fund-social-vr-platform-metaverse)
- - [Pfizer’s COVID’s vaccine over ‘90% effective’](https://techncruncher.blogspot.com/2021/10/pfizers-covids-vaccine-over-90-effective.html)
- - [Facebook removes its brand from its in-development social VR platform Facebook Horizon, renaming it as Horizon Worlds, and announces a $10M Creator Fund (Ian Hamilton/UploadVR)](http://www.techmeme.com/211007/p32#a211007p32)<!-- TECH:END -->
+ - [Color OS guide: Everything you need to know about Oppo’s Android skin](https://www.androidauthority.com/oppo-color-os-guide-3033776/)
+ - [Google and YouTube will cut off ad money for climate change deniers](https://www.theverge.com/2021/10/7/22715102/google-youtube-climate-change-deniers-ads-monetization)
+ - [Metroid Dread Spirits are coming to Super Smash Bros. Ultimate     - CNET](https://www.cnet.com/news/smash-bros-ultimate-celebrates-metroid-dreads-release-with-new-spirits/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
