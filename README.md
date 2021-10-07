@@ -195,9 +195,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Nearly there](http://9gag.com/gag/aO3639R)
- - 🚯 [A man speaks his mind](http://9gag.com/gag/aGpPz27)
- - 🚯 [Horse protects cowboy while he tags calves.](http://9gag.com/gag/aK6bmQb)<!-- MEMES:END -->
+ - 🚖 [You just don&#039;t say no to a hungry man](http://9gag.com/gag/a9E3qn1)
+ - 🚯 [Horse protects cowboy while he tags calves.](http://9gag.com/gag/aK6bmQb)
+ - 🚯 [Cameraman nailed the punchline](http://9gag.com/gag/arMPnN0)<!-- MEMES:END -->
 
 --- 
 
