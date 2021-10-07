@@ -181,9 +181,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Windows 11 has a memory leak bug and here's how to fix it](https://www.pcgamer.com/how-to-fix-windows-11-memory-leaks)
- - [The Halloween Countdown: 31 days of horror](https://www.polygon.com/22702474/best-halloween-movies-tv-to-watch-stream)
- - [Scandinavian-inspired adventure, Röki, comes to PS5 October 28](http://feedproxy.google.com/~r/PSBlog/~3/gWvNj7yxRD4/)<!-- GAME:END -->
+ - [Polygon at NYCC 2021](https://www.polygon.com/nycc/22713060/new-york-comic-con-2021-movies-tv-ghostbusters-outlander)
+ - [The panels to watch at this year’s New York Comic Con](https://www.polygon.com/22711403/nycc-2021-panels-schedule-new-york-comic-con)
+ - [For the first time in 20 years, WWE has a legit competitor](https://www.polygon.com/2021/10/7/22709241/all-elite-wrestling-wwe-competitor)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
