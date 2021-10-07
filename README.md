@@ -195,9 +195,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Respect post for Frances Haugen, who exposed Facebook&rsquo;s predatory algorithm](http://9gag.com/gag/anQA4mV)
- - 🚯 [Inches](http://9gag.com/gag/aYozoPm)
- - 🚯 [Nearly there](http://9gag.com/gag/aO3639R)<!-- MEMES:END -->
+ - 🚖 [Nearly there](http://9gag.com/gag/aO3639R)
+ - 🚯 [A man speaks his mind](http://9gag.com/gag/aGpPz27)
+ - 🚯 [Horse protects cowboy while he tags calves.](http://9gag.com/gag/aK6bmQb)<!-- MEMES:END -->
 
 --- 
 
