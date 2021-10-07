@@ -181,9 +181,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox’s Cloud Streaming Upgrade Means You Might Not Need A Series X](https://kotaku.com/xbox-s-cloud-streaming-upgrade-means-you-might-not-need-1847817541)
- - [Free Play Days – Port Royale 4, Naruto to Boruto: Shinobi Striker, and Dandara: Trials of Fear Edition](https://news.xbox.com/en-us/2021/10/07/free-play-days-port-royale-4-shinobi-striker-and-dandara/)
- - [The rise, fall, and redemption of Mafia developer Illusion Softworks](https://www.pcgamer.com/the-rise-fall-and-redemption-of-mafia-developer-illusion-softworks)<!-- GAME:END -->
+ - [Call of Duty: Warzone’s season 6 patch updates Verdansk one last time](https://www.polygon.com/call-of-duty/22714443/call-of-duty-warzone-season-6-patch-notes-gulag)
+ - [Ignite the Fires of Revolution Today in Far Cry 6](https://news.xbox.com/en-us/2021/10/07/ignite-the-fires-of-revolution-today-in-far-cry-6/)
+ - [Sony's Latest PS5 Firmware Update Sure Improves System Performance](https://kotaku.com/sonys-latest-ps5-firmware-update-sure-improves-system-p-1847817597)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
