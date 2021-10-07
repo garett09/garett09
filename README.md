@@ -181,9 +181,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Dragon Quest Composer Koichi Sugiyama Has Died](https://kotaku.com/dragon-quest-composer-koichi-sugiyama-has-died-1847815597)
  - [Twitch Says 'Malicious Third Party' Was Behind Hack](https://kotaku.com/twitch-says-malicious-third-party-was-behind-hack-1847815516)
- - [World of Warships gets spooky in time for Halloween](https://www.pcgamer.com/world-of-warships-gets-spooky-in-time-for-halloween)
- - [(For Southeast Asia) “Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles” Adventure Mode Introduction③](http://feedproxy.google.com/~r/PSBlog/~3/NuSxQeylLtY/)<!-- GAME:END -->
+ - [World of Warships gets spooky in time for Halloween](https://www.pcgamer.com/world-of-warships-gets-spooky-in-time-for-halloween)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
