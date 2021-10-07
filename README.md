@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Firefox’s address bar has ads now, but you can disable them](https://www.theverge.com/2021/10/7/22715179/firefox-suggest-search-ads-browser)
- - [Samsung’s browser is now available for its Wear OS smartwatches](https://www.theverge.com/2021/10/7/22715337/samsung-internet-browser-wear-os-smartwatches-galaxy-watch-4-classic)
- - [Google confirms bug that causes AMP URLs in Google Search results on devices running iOS 15 to redirect to the original site's page, says it is working on a fix (Barry Schwartz/Search Engine Land)](http://www.techmeme.com/211007/p37#a211007p37)<!-- TECH:END -->
+ - [US federal judge rules Cloudflare is not liable for copyright infringement between websites that use its services (Jon Brodkin/Ars Technica)](http://www.techmeme.com/211007/p38#a211007p38)
+ - [Nintendo engineers suggest Switch Joy-Con drift will never be fixed](https://www.theverge.com/2021/10/7/22715467/nintendo-joy-con-drift-never-fixed-switch-oled)
+ - [Get the Roku Premiere for just $26.25, and more cheap Roku deals](https://www.androidauthority.com/best-cheap-roku-deals-1115065/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
