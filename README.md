@@ -195,8 +195,8 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Looks awesome.](http://9gag.com/gag/aoMB3Xn)
- - 🚯 [Well yes but actually no](http://9gag.com/gag/aqjv8LL)
+ - 🚖 [I was there,16 years ago. Stress-free life ...](http://9gag.com/gag/aNpyQ1A)
+ - 🚯 [Think less, happy more](http://9gag.com/gag/aDdB8wO)
  - 🚯 [With a nice metal finish..](http://9gag.com/gag/a27Q8AD)<!-- MEMES:END -->
 
 --- 
