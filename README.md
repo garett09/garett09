@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Watch Series 7 prices leak ahead of start to preorders](https://appleinsider.com/articles/21/10/07/apple-watch-series-7-prices-leak-ahead-of-start-to-preorders?utm_medium=rss)
- - [Google and YouTube stop ads and monetization on climate change denial content     - CNET](https://www.cnet.com/tech/google-and-youtube-stop-ads-and-monetization-on-climate-change-denial-content/#ftag=CAD590a51e)
- - [Refi rates on Oct. 7, 2021: Rates drop     - CNET](https://www.cnet.com/news/refi-rates-on-oct-7-2021-rates-drop/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Firefox’s address bar has ads now, but you can disable them](https://www.theverge.com/2021/10/7/22715179/firefox-suggest-search-ads-browser)
+ - [Samsung’s browser is now available for its Wear OS smartwatches](https://www.theverge.com/2021/10/7/22715337/samsung-internet-browser-wear-os-smartwatches-galaxy-watch-4-classic)
+ - [Google confirms bug that causes AMP URLs in Google Search results on devices running iOS 15 to redirect to the original site's page, says it is working on a fix (Barry Schwartz/Search Engine Land)](http://www.techmeme.com/211007/p37#a211007p37)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
