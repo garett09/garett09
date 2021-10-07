@@ -181,9 +181,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Puck Drops in NHL 22 Today with EA Play](https://news.xbox.com/en-us/2021/10/07/the-puck-drops-in-nhl-22-today-with-ea-play/)
- - [LEGO's 'Largest' Ever Set Is The 9090-Piece Titanic](https://kotaku.com/legos-largest-ever-set-is-the-9090-piece-titanic-1847822204)
- - [An upcoming Star Wars book will include additional backstory for Rise of Skywalker](https://www.polygon.com/star-wars/22715115/star-wars-upcoming-novels-jedi-sith-brotherhood-shadow-of-the-sith-padawan)<!-- GAME:END -->
+ - [Ghost Recon Frontline Drops 100 Players into Massive Tactical-Action Battles](https://news.xbox.com/en-us/2021/10/07/ghost-recon-frontline-massive-tactical-action-battles/)
+ - [Our First Look At The Shenmue Anime Series](https://kotaku.com/our-first-look-at-the-shenmue-anime-series-1847822541)
+ - [A lot of Battlefield 2042 beta players want the old generic soldiers back](https://www.pcgamer.com/battlefield-2042-specialists-reaction)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
