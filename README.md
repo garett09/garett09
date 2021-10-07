@@ -181,9 +181,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Welcome to the Skin Store for Rust Console Edition](https://news.xbox.com/en-us/2021/10/07/welcome-to-the-skin-store-for-rust-console-edition/)
- - [California Steps In To Prevent Activision Blizzard Destroying Sexual Harassment Evidence](https://kotaku.com/california-steps-in-to-prevent-activision-blizzard-dest-1847821066)
- - [Genshin Impact developer reveals new game, beta sign-ups start this week](https://www.pcgamer.com/honkai-star-rail-announced)<!-- GAME:END -->
+ - [Before You Start: Six Settings To Change In Far Cry 6](https://kotaku.com/before-you-start-six-settings-to-change-in-far-cry-6-1847821551)
+ - [The Muppets’ Haunted Mansion horror comedy was a dream 30 years in the making](https://www.polygon.com/22715209/muppets-haunted-mansion-disney-plus-halloween-special-interview)
+ - [Get off the bench and play Super Mega Baseball 3 for free this weekend](https://www.pcgamer.com/get-off-the-bench-and-play-super-mega-baseball-3-for-free-this-weekend)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
