@@ -181,9 +181,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Destiny 2 Is Deleting Its Best Expansion](https://kotaku.com/destiny-2-is-deleting-its-best-expansion-1847820431)
- - [Game of Thrones’ Emilia Clarke hopes her new comic sparks a conversation about menstruation](https://www.polygon.com/comics/22714944/emilia-clarke-mom-comic-mother-of-madness)
- - [Celebrating Six Years of Rock Band 4](https://news.xbox.com/en-us/2021/10/07/celebrating-six-years-of-rock-band-4/)<!-- GAME:END -->
+ - [Welcome to the Skin Store for Rust Console Edition](https://news.xbox.com/en-us/2021/10/07/welcome-to-the-skin-store-for-rust-console-edition/)
+ - [California Steps In To Prevent Activision Blizzard Destroying Sexual Harassment Evidence](https://kotaku.com/california-steps-in-to-prevent-activision-blizzard-dest-1847821066)
+ - [Genshin Impact developer reveals new game, beta sign-ups start this week](https://www.pcgamer.com/honkai-star-rail-announced)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
