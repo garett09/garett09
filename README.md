@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony didn’t close the PS3 and Vita stores, but it’s making it hard to shop at them](https://www.theverge.com/2021/10/6/22713526/sony-ps3-vita-buy-games-credit-debit-card-paypal)
- - [Save 33% on the Nokia 8.3 5G, and more of the best phone deals](https://www.androidauthority.com/best-phone-deals-2-1111885/)
- - [Pinterest rolls out new promotion tools for brands, including slideshow ads for catalogues, and adds seven more countries to its Verified Merchant Program (Aisha Malik/TechCrunch)](http://www.techmeme.com/211006/p35#a211006p35)<!-- TECH:END -->
+ - [A text message routing company suffered a five-year-long breach](https://www.theverge.com/2021/10/6/22713543/syniverse-hack-five-years-text-messages)
+ - [Netflix will edit phone numbers out of Squid Game following prank calls](https://www.theverge.com/2021/10/6/22713623/netflix-edit-squid-game-phone-number-prank-calls)
+ - [AMD warns that its CPUs running Windows 11 may suffer 3%-5% reduced performance for some apps, 10%-15% for esports games; AMD and Microsoft are working on a fix (Paul Alcorn/Tom's Hardware)](http://www.techmeme.com/211006/p37#a211006p37)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
