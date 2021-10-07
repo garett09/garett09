@@ -195,9 +195,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [You just don&#039;t say no to a hungry man](http://9gag.com/gag/a9E3qn1)
- - 🚯 [A friendly reminder for Black Friday.](http://9gag.com/gag/arMPnGV)
- - 🚯 [Giant with the Deepest Voice in the world (starts at 1:00)](http://9gag.com/gag/aAbnGYL)<!-- MEMES:END -->
+ - 🚖 [Don&rsquo;t stand in front of traffic](http://9gag.com/gag/aO368BE)
+ - 🚯 [Motio-activated sprinkler is a very good a fun way to keep people away from your shit....](http://9gag.com/gag/aqjvyXv)
+ - 🚯 [Nostalgic](http://9gag.com/gag/a1r4m0P)<!-- MEMES:END -->
 
 --- 
 
