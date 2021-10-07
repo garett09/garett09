@@ -181,9 +181,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Far Cry 6 beginner’s guide, tips, and tricks](https://www.polygon.com/guides/22711036/far-cry-6-beginners-tips-tricks-supremo-resolver-amigos-smoke-supply-drops-camp-construction)
  - [Next Baldur's Gate 3 patch is its biggest yet, adds 'equippable salami'](https://www.pcgamer.com/next-baldurs-gate-3-patch-is-its-biggest-yet-adds-equippable-salami)
- - [Baldur's Gate 3: Everything we know](https://www.pcgamer.com/baldurs-gate-3-everything-we-know)
- - [What you need to know about the Fortnite DreamHack tournament](https://www.pcgamer.com/fortnite-dreamhack-2021)<!-- GAME:END -->
+ - [Baldur's Gate 3: Everything we know](https://www.pcgamer.com/baldurs-gate-3-everything-we-know)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
