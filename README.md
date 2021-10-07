@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A text message routing company suffered a five-year-long breach](https://www.theverge.com/2021/10/6/22713543/syniverse-hack-five-years-text-messages)
- - [Netflix will edit phone numbers out of Squid Game following prank calls](https://www.theverge.com/2021/10/6/22713623/netflix-edit-squid-game-phone-number-prank-calls)
- - [AMD warns that its CPUs running Windows 11 may suffer 3%-5% reduced performance for some apps, 10%-15% for esports games; AMD and Microsoft are working on a fix (Paul Alcorn/Tom's Hardware)](http://www.techmeme.com/211006/p37#a211006p37)<!-- TECH:END -->
+ - [Apple promotes Apple Music, Apple Arcade in iOS Settings app](https://appleinsider.com/articles/21/10/07/apple-advertises-apple-music-apple-arcade-in-ios-settings-app?utm_medium=rss)
+ - [Quantum computing startup Rigetti Computing to go public via SPAC, in a deal expected to raise $458M at a $1.5B valuation (Taylor Soper/GeekWire)](http://www.techmeme.com/211006/p38#a211006p38)
+ - [A text message routing company suffered a five-year-long breach](https://www.theverge.com/2021/10/6/22713543/syniverse-hack-five-years-text-messages)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
