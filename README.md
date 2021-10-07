@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple promotes Apple Music, Apple Arcade in iOS Settings app](https://appleinsider.com/articles/21/10/07/apple-advertises-apple-music-apple-arcade-in-ios-settings-app?utm_medium=rss)
- - [Quantum computing startup Rigetti Computing to go public via SPAC, in a deal expected to raise $458M at a $1.5B valuation (Taylor Soper/GeekWire)](http://www.techmeme.com/211006/p38#a211006p38)
- - [A text message routing company suffered a five-year-long breach](https://www.theverge.com/2021/10/6/22713543/syniverse-hack-five-years-text-messages)<!-- TECH:END -->
+ - [Google bug prevents AMP pages from appearing in Safari on iOS 15](https://appleinsider.com/articles/21/10/06/google-bug-prevents-amp-pages-from-appearing-in-safari-on-ios-15?utm_medium=rss)
+ - [Apple at Work update highlights enterprise 'success stories'](https://appleinsider.com/articles/21/10/07/apple-at-work-update-highlights-enterprise-success-stories?utm_medium=rss)
+ - [Apple promotes Apple Music, Apple Arcade in iOS Settings app](https://appleinsider.com/articles/21/10/07/apple-advertises-apple-music-apple-arcade-in-ios-settings-app?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
