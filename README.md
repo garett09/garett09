@@ -195,9 +195,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It&#039;s true](http://9gag.com/gag/ajm21pw)
- - 🚯 [What is he even saying?](http://9gag.com/gag/a27QwoO)
- - 🚯 [Wait.. What? This was in 1988?](http://9gag.com/gag/a5ELV6G)<!-- MEMES:END -->
+ - 🚖 [Wait.. What? This was in 1988?](http://9gag.com/gag/a5ELV6G)
+ - 🚯 [It&#039;s true](http://9gag.com/gag/ajm21pw)
+ - 🚯 [What is he even saying?](http://9gag.com/gag/a27QwoO)<!-- MEMES:END -->
 
 --- 
 
