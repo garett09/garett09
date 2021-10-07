@@ -195,8 +195,8 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [You just don&#039;t say no to a hungry man](http://9gag.com/gag/a9E3qn1)
- - 🚯 [Horse protects cowboy while he tags calves.](http://9gag.com/gag/aK6bmQb)
+ - 🚖 [Horse protects cowboy while he tags calves.](http://9gag.com/gag/aK6bmQb)
+ - 🚯 [You just don&#039;t say no to a hungry man](http://9gag.com/gag/a9E3qn1)
  - 🚯 [Cameraman nailed the punchline](http://9gag.com/gag/arMPnN0)<!-- MEMES:END -->
 
 --- 
