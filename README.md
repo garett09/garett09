@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [US Department of Justice creates cryptocurrency enforcement unit](https://www.theverge.com/2021/10/7/22714241/us-justice-department-cryptocurrency-enforcement-unit)
- - [Apple CarPlay could control more parts of your vehicle in the future](https://www.theverge.com/2021/10/7/22714265/apple-carplay-ironheart-vision-car-settings-climate-seat-radio)
- - [Annual EU report on social media content moderation shows companies removed 62.5% of flagged material in March and April 2021, down from 71% in late 2019 (Mark Scott/Politico)](http://www.techmeme.com/211007/p21#a211007p21)<!-- TECH:END -->
+ - [Hyper announces new 6-in-1 USB-C Media Hub for iPad Pro, iPad Air, and iPad mini](https://appleinsider.com/articles/21/10/07/hyper-announces-new-6-in-1-usb-c-media-hub-for-ipad-pro-ipad-air-and-ipad-mini?utm_medium=rss)
+ - [Adobe introduces Auto Tone for Premiere Pro Beta](https://appleinsider.com/articles/21/10/07/embargo-107-1100am-adobe-introduces-auto-tone-for-premiere-pro-beta?utm_medium=rss)
+ - [Best Deals Oct. 7: $20 off Apple Pencil, big Philips Hue sale, more!](https://appleinsider.com/articles/21/10/07/best-deals-oct-7-20-off-apple-pencil-big-philips-hue-sale-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
