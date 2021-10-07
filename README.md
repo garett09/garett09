@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Color OS guide: Everything you need to know about Oppo’s Android skin](https://www.androidauthority.com/oppo-color-os-guide-3033776/)
- - [Google and YouTube will cut off ad money for climate change deniers](https://www.theverge.com/2021/10/7/22715102/google-youtube-climate-change-deniers-ads-monetization)
- - [Metroid Dread Spirits are coming to Super Smash Bros. Ultimate     - CNET](https://www.cnet.com/news/smash-bros-ultimate-celebrates-metroid-dreads-release-with-new-spirits/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple Watch Series 7 prices leak ahead of start to preorders](https://appleinsider.com/articles/21/10/07/apple-watch-series-7-prices-leak-ahead-of-start-to-preorders?utm_medium=rss)
+ - [Google and YouTube stop ads and monetization on climate change denial content     - CNET](https://www.cnet.com/tech/google-and-youtube-stop-ads-and-monetization-on-climate-change-denial-content/#ftag=CAD590a51e)
+ - [Refi rates on Oct. 7, 2021: Rates drop     - CNET](https://www.cnet.com/news/refi-rates-on-oct-7-2021-rates-drop/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
