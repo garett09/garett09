@@ -181,9 +181,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Twitch Says 'Malicious Third Party' Was Behind Hack](https://kotaku.com/twitch-says-malicious-third-party-was-behind-hack-1847815516)
  - [World of Warships gets spooky in time for Halloween](https://www.pcgamer.com/world-of-warships-gets-spooky-in-time-for-halloween)
- - [(For Southeast Asia) “Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles” Adventure Mode Introduction③](http://feedproxy.google.com/~r/PSBlog/~3/NuSxQeylLtY/)
- - [(For Southeast Asia) “Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles” Adventure Mode Introduction③](https://blog.playstation.com/2021/10/06/20211006-demonslayer-3/)<!-- GAME:END -->
+ - [(For Southeast Asia) “Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles” Adventure Mode Introduction③](http://feedproxy.google.com/~r/PSBlog/~3/NuSxQeylLtY/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
