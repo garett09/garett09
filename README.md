@@ -181,9 +181,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Before You Start: Six Settings To Change In Far Cry 6](https://kotaku.com/before-you-start-six-settings-to-change-in-far-cry-6-1847821551)
- - [The Muppets’ Haunted Mansion horror comedy was a dream 30 years in the making](https://www.polygon.com/22715209/muppets-haunted-mansion-disney-plus-halloween-special-interview)
- - [Get off the bench and play Super Mega Baseball 3 for free this weekend](https://www.pcgamer.com/get-off-the-bench-and-play-super-mega-baseball-3-for-free-this-weekend)<!-- GAME:END -->
+ - [The Puck Drops in NHL 22 Today with EA Play](https://news.xbox.com/en-us/2021/10/07/the-puck-drops-in-nhl-22-today-with-ea-play/)
+ - [LEGO's 'Largest' Ever Set Is The 9090-Piece Titanic](https://kotaku.com/legos-largest-ever-set-is-the-9090-piece-titanic-1847822204)
+ - [An upcoming Star Wars book will include additional backstory for Rise of Skywalker](https://www.polygon.com/star-wars/22715115/star-wars-upcoming-novels-jedi-sith-brotherhood-shadow-of-the-sith-padawan)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
