@@ -181,9 +181,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Sega Knows Lacking Content For PSO2 New Genesis Is A Big Problem](https://kotaku.com/sega-knows-lacking-content-for-pso2-new-genesis-is-a-bi-1847815987)
- - [Randy Pitchford is leaving Gearbox games to focus on Gearbox movies, is still head of Gearbox overall](https://www.pcgamer.com/randy-pitchford-is-leaving-gearbox-games-to-focus-on-gearbox-movies-is-still-head-of-gearbox-overall)
- - [Intel's new anti-Apple ad is just cringe](https://www.pcgamer.com/intels-new-anti-apple-ad-is-just-cringe)<!-- GAME:END -->
+ - [FIFA might not be FIFA next year, says EA](https://www.pcgamer.com/fifa-might-not-be-fifa-next-year-says-ea)
+ - [Here's what we know about New World's endgame](https://www.pcgamer.com/new-world-endgame-content)
+ - [Kingston's 16GB and 32GB DDR5 memory kits receive Intel's stamp of approval](https://www.pcgamer.com/kingstons-16gb-and-32gb-ddr5-memory-kits-receive-intels-stamp-of-approval)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
