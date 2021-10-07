@@ -195,9 +195,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Printing a house with 3D concrete](http://9gag.com/gag/awMq3zx)
- - 🚯 [Trying to rob someone who&#039;s filling his car with gasoline.](http://9gag.com/gag/av5b1WZ)
- - 🚯 [Hey YOU!](http://9gag.com/gag/ayMyqZY)<!-- MEMES:END -->
+ - 🚖 [It&#039;s true](http://9gag.com/gag/ajm21pw)
+ - 🚯 [What is he even saying?](http://9gag.com/gag/a27QwoO)
+ - 🚯 [Wait.. What? This was in 1988?](http://9gag.com/gag/a5ELV6G)<!-- MEMES:END -->
 
 --- 
 
