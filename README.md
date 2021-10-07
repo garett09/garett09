@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fiverr is acquiring online learning company CreativeLive](https://techncruncher.blogspot.com/2021/10/fiverr-is-acquiring-online-learning.html)
- - [Developer says Facebook banned him for life and threatened to sue after he made Unfollow Everything, a browser extension to help people use Facebook less (Louis Barclay/Slate)](http://www.techmeme.com/211007/p31#a211007p31)
- - [Apple Website Experiencing Errors, Briefly Reinstates Phil Schiller As Senior VP of Marketing [Update: Fixed]](https://techncruncher.blogspot.com/2021/10/apple-website-experiencing-errors.html)<!-- TECH:END -->
+ - [Facebook’s new $10 million fund for VR creators is hopefully just the beginning](https://www.theverge.com/2021/10/7/22714876/facebook-horizon-worlds-creators-fund-social-vr-platform-metaverse)
+ - [Pfizer’s COVID’s vaccine over ‘90% effective’](https://techncruncher.blogspot.com/2021/10/pfizers-covids-vaccine-over-90-effective.html)
+ - [Facebook removes its brand from its in-development social VR platform Facebook Horizon, renaming it as Horizon Worlds, and announces a $10M Creator Fund (Ian Hamilton/UploadVR)](http://www.techmeme.com/211007/p32#a211007p32)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
