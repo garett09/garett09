@@ -195,8 +195,8 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [F**k the poor, but not helping the poor?](http://9gag.com/gag/aNpyDjK)
- - 🚯 [Motio-activated sprinkler is a very good a fun way to keep people away from your shit....](http://9gag.com/gag/aqjvyXv)
+ - 🚖 [The happiest tippy taps.](http://9gag.com/gag/aV7Gv3P)
+ - 🚯 [Playing the UNO reverse card](http://9gag.com/gag/aGpPLZ5)
  - 🚯 [What a nice guy](http://9gag.com/gag/a07meGq)<!-- MEMES:END -->
 
 --- 
