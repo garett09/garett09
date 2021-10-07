@@ -195,9 +195,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Cameraman nailed the punchline](http://9gag.com/gag/arMPnN0)
- - 🚯 [Late 20s will be fun they said](http://9gag.com/gag/ajm2gvQ)
- - 🚯 [You just don&#039;t say no to a hungry man](http://9gag.com/gag/a9E3qn1)<!-- MEMES:END -->
+ - 🚖 [The happiest tippy taps.](http://9gag.com/gag/aV7Gv3P)
+ - 🚯 [You just don&#039;t say no to a hungry man](http://9gag.com/gag/a9E3qn1)
+ - 🚯 [A friendly reminder for Black Friday.](http://9gag.com/gag/arMPnGV)<!-- MEMES:END -->
 
 --- 
 
