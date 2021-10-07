@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Paddle wants to undercut App Store fees, thinks Apple will allow it](https://appleinsider.com/articles/21/10/07/paddle-wants-to-undercut-app-store-fees-thinks-apple-will-allow-it?utm_medium=rss)
- - [Google Pixel 6: Everything we know so far (Updated: Oct. 7)](https://www.androidauthority.com/google-pixel-6-1207778/)
- - [Anker’s new Soundcore Liberty 3 Pro earbuds support high-quality LDAC audio](https://www.theverge.com/2021/10/7/22713461/anker-liberty-3-pro-earbuds-announced-price-specs-ldac)<!-- TECH:END -->
+ - [You told us: You aren’t super-keen on the Lenovo Legion Play handheld](https://www.androidauthority.com/lenovo-legion-play-poll-results-3036481/)
+ - [Feeling Climate Dread? You’re Not Alone](https://www.wired.com/story/feeling-climate-dread-youre-not-alone)
+ - [Borrowed a School Laptop? Mind Your Open Tabs](https://www.wired.com/story/borrowed-school-laptop-mind-open-tabs)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
