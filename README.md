@@ -195,9 +195,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Not broken, not painted](http://9gag.com/gag/aNpyL34)
- - 🚯 [Amazing stages of sculpturing](http://9gag.com/gag/ayMyqX8)
- - 🚯 [Talk like that, talk like this](http://9gag.com/gag/aZ09nPX)<!-- MEMES:END -->
+ - 🚖 [Printing a house with 3D concrete](http://9gag.com/gag/awMq3zx)
+ - 🚯 [Trying to rob someone who&#039;s filling his car with gasoline.](http://9gag.com/gag/av5b1WZ)
+ - 🚯 [Hey YOU!](http://9gag.com/gag/ayMyqZY)<!-- MEMES:END -->
 
 --- 
 
