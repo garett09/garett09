@@ -181,9 +181,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [What you need to know about the Fortnite DreamHack tournament](https://www.pcgamer.com/fortnite-dreamhack-2021)
- - [Konami's New Soccer Game Is A Complete Disaster](https://kotaku.com/konamis-new-soccer-game-is-a-complete-disaster-1847798848)
- - [What item did you grind or farm for the longest?](https://www.pcgamer.com/what-item-did-you-grind-or-farm-for-the-longest)<!-- GAME:END -->
+ - [Next Baldur's Gate 3 patch is its biggest yet, adds 'equippable salami'](https://www.pcgamer.com/next-baldurs-gate-3-patch-is-its-biggest-yet-adds-equippable-salami)
+ - [Baldur's Gate 3: Everything we know](https://www.pcgamer.com/baldurs-gate-3-everything-we-know)
+ - [What you need to know about the Fortnite DreamHack tournament](https://www.pcgamer.com/fortnite-dreamhack-2021)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
