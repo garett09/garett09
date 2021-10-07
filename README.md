@@ -195,9 +195,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Amazing stages of sculpturing](http://9gag.com/gag/ayMyqX8)
- - 🚯 [NYPD Searching For Woman Seen Pushing Subway Rider Toward Oncoming Train In Times Square](http://9gag.com/gag/aZ09ZD3)
- - 🚯 [Store owner protects his business](http://9gag.com/gag/aDdB7jd)<!-- MEMES:END -->
+ - 🚖 [Wait.. What? This was in 1988?](http://9gag.com/gag/a5ELV6G)
+ - 🚯 [Store owner protects his business](http://9gag.com/gag/aDdB7jd)
+ - 🚯 [Amazing stages of sculpturing](http://9gag.com/gag/ayMyqX8)<!-- MEMES:END -->
 
 --- 
 
