@@ -195,9 +195,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [And remember to check your blinker fluid](http://9gag.com/gag/a07m0jn)
- - 🚯 [Friends (Poland edition)](http://9gag.com/gag/amPDG16)
- - 🚯 [And I bet it&#039;s super long](http://9gag.com/gag/av5b12d)<!-- MEMES:END -->
+ - 🚖 [Looks awesome.](http://9gag.com/gag/aoMB3Xn)
+ - 🚯 [Well yes but actually no](http://9gag.com/gag/aqjv8LL)
+ - 🚯 [With a nice metal finish..](http://9gag.com/gag/a27Q8AD)<!-- MEMES:END -->
 
 --- 
 
