@@ -195,9 +195,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Wait.. What? This was in 1988?](http://9gag.com/gag/a5ELV6G)
- - 🚯 [Store owner protects his business](http://9gag.com/gag/aDdB7jd)
- - 🚯 [Amazing stages of sculpturing](http://9gag.com/gag/ayMyqX8)<!-- MEMES:END -->
+ - 🚖 [Not broken, not painted](http://9gag.com/gag/aNpyL34)
+ - 🚯 [Amazing stages of sculpturing](http://9gag.com/gag/ayMyqX8)
+ - 🚯 [You shouldn&#039;t mess with roof koreans.](http://9gag.com/gag/aB2DZ11)<!-- MEMES:END -->
 
 --- 
 
