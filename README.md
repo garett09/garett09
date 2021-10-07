@@ -181,9 +181,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [World Of Warcraft Update Removes Suggestive Flirts & Jokes](https://kotaku.com/world-of-warcraft-update-removes-suggestive-flirts-jo-1847813633)
- - [Battlefield 2042 Beta Feels Wild, Yet Somehow Plays It Safe](https://kotaku.com/battlefield-2042-beta-feels-wild-yet-somehow-plays-it-1847813625)
- - [Watch The Witcher 3 running on a Steam Deck](https://www.pcgamer.com/witcher-3-steam-deck-video)<!-- GAME:END -->
+ - [What you need to know about the Fortnite DreamHack tournament](https://www.pcgamer.com/fortnite-dreamhack-2021)
+ - [Konami's New Soccer Game Is A Complete Disaster](https://kotaku.com/konamis-new-soccer-game-is-a-complete-disaster-1847798848)
+ - [What item did you grind or farm for the longest?](https://www.pcgamer.com/what-item-did-you-grind-or-farm-for-the-longest)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
