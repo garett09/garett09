@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [More early details about Apple's folding iPhone revealed](https://appleinsider.com/articles/21/10/07/more-early-details-about-apples-folding-iphone-revealed?utm_medium=rss)
- - [Investigation into Tether, which issued 48B coins this year, as regulators struggle to understand its cash reserves, organizational structure, and other details (Zeke Faux/Bloomberg)](http://www.techmeme.com/211007/p13#a211007p13)
- - [Cybersecurity Awareness Month: Time for a cybersafety check     - CNET](https://www.cnet.com/tech/cybersecurity-awareness-month-time-for-a-cybersafety-check/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Facebook's research on teens and mental health is not as conclusive as it appears, relying on teens' self-reported views and a small sample size (Anya Kamenetz/NPR)](http://www.techmeme.com/211007/p18#a211007p18)
+ - [Intel CEO Pat Gelsinger says it is not considering the UK for its upcoming chip factories due to Brexit; the company is investing $95B to open European plants (BBC)](http://www.techmeme.com/211007/p17#a211007p17)
+ - [The new Motorola Moto G Pure packs in quite a lot for its low $160 price tag](https://www.androidauthority.com/motorola-moto-g-pure-3035231/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
