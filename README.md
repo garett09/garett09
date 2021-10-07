@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Resident Evil: Welcome to Raccoon City trailer goes back to the beginning](https://www.theverge.com/2021/10/7/22714705/resident-evil-welcome-to-raccoon-city-film-movie-reboot)
- - [The best AT&T deals: Get a free iPhone 13 Pro with a trade-in, and more.](https://www.androidauthority.com/best-att-deals-2-836102/)
- - [Chronosphere, which offers cloud-based tools to monitor infrastructure, raises $200M Series C at a $1B+ valuation led by General Atlantic (Ingrid Lunden/TechCrunch)](http://www.techmeme.com/211007/p29#a211007p29)<!-- TECH:END -->
+ - [Fiverr is acquiring online learning company CreativeLive](https://techncruncher.blogspot.com/2021/10/fiverr-is-acquiring-online-learning.html)
+ - [Developer says Facebook banned him for life and threatened to sue after he made Unfollow Everything, a browser extension to help people use Facebook less (Louis Barclay/Slate)](http://www.techmeme.com/211007/p31#a211007p31)
+ - [Apple Website Experiencing Errors, Briefly Reinstates Phil Schiller As Senior VP of Marketing [Update: Fixed]](https://techncruncher.blogspot.com/2021/10/apple-website-experiencing-errors.html)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
