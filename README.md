@@ -181,9 +181,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Polygon at NYCC 2021](https://www.polygon.com/nycc/22713060/new-york-comic-con-2021-movies-tv-ghostbusters-outlander)
- - [The panels to watch at this year’s New York Comic Con](https://www.polygon.com/22711403/nycc-2021-panels-schedule-new-york-comic-con)
- - [For the first time in 20 years, WWE has a legit competitor](https://www.polygon.com/2021/10/7/22709241/all-elite-wrestling-wwe-competitor)<!-- GAME:END -->
+ - [Xbox’s Cloud Streaming Upgrade Means You Might Not Need A Series X](https://kotaku.com/xbox-s-cloud-streaming-upgrade-means-you-might-not-need-1847817541)
+ - [Free Play Days – Port Royale 4, Naruto to Boruto: Shinobi Striker, and Dandara: Trials of Fear Edition](https://news.xbox.com/en-us/2021/10/07/free-play-days-port-royale-4-shinobi-striker-and-dandara/)
+ - [The rise, fall, and redemption of Mafia developer Illusion Softworks](https://www.pcgamer.com/the-rise-fall-and-redemption-of-mafia-developer-illusion-softworks)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
