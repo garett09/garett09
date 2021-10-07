@@ -195,9 +195,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Not broken, not painted](http://9gag.com/gag/aNpyL34)
- - 🚯 [A day on Balkans](http://9gag.com/gag/azM65Mq)
- - 🚯 [Hey YOU!](http://9gag.com/gag/ayMyqZY)<!-- MEMES:END -->
+ - 🚖 [A day on Balkans](http://9gag.com/gag/azM65Mq)
+ - 🚯 [Not broken, not painted](http://9gag.com/gag/aNpyL34)
+ - 🚯 [Amazing stages of sculpturing](http://9gag.com/gag/ayMyqX8)<!-- MEMES:END -->
 
 --- 
 
