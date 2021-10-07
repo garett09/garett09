@@ -195,8 +195,8 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Don&rsquo;t stand in front of traffic](http://9gag.com/gag/aO368BE)
- - 🚯 [Motio-activated sprinkler is a very good a fun way to keep people away from your shit....](http://9gag.com/gag/aqjvyXv)
+ - 🚖 [F**k the poor, but not helping the poor?](http://9gag.com/gag/aNpyDjK)
+ - 🚯 [Twitch data leak gonna be fun...](http://9gag.com/gag/ad83g2V)
  - 🚯 [Nostalgic](http://9gag.com/gag/a1r4m0P)<!-- MEMES:END -->
 
 --- 
