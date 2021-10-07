@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Zum, which provides software and vehicles to help schools cut student transportation time and costs, raises $130M led by Vision Fund 2 at a $930M valuation (Cromwell Schubarth/Silicon Valley ...)](http://www.techmeme.com/211007/p5#a211007p5)
- - [Beyerdynamic releases new suite of creator headphones and microphones](https://www.androidauthority.com/beyerdynamic-dt-700-pro-x-studio-3036241/)
- - [Sky’s new Glass TVs ditch satellite dishes for Wi-Fi](https://www.theverge.com/2021/10/7/22714076/sky-glass-tv-streaming-service-uk-pricing-release-date)<!-- TECH:END -->
+ - [Paddle wants to undercut App Store fees, thinks Apple will allow it](https://appleinsider.com/articles/21/10/07/paddle-wants-to-undercut-app-store-fees-thinks-apple-will-allow-it?utm_medium=rss)
+ - [Google Pixel 6: Everything we know so far (Updated: Oct. 7)](https://www.androidauthority.com/google-pixel-6-1207778/)
+ - [Anker’s new Soundcore Liberty 3 Pro earbuds support high-quality LDAC audio](https://www.theverge.com/2021/10/7/22713461/anker-liberty-3-pro-earbuds-announced-price-specs-ldac)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
