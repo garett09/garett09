@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Flying with iPad mini: A pilot's review](https://appleinsider.com/articles/21/10/05/flying-with-ipad-mini-a-pilots-review?utm_medium=rss)
- - [Facebook's political problems stem from its goal to connect people and its focus on growth, and are societal issues, not antitrust ones (Ben Thompson/Stratechery)](http://www.techmeme.com/211007/p2#a211007p2)
- - [You won’t need to say ‘Hey Google’ anymore for these Assistant commands](https://www.androidauthority.com/google-assistant-quick-phrases-3036486/)<!-- TECH:END -->
+ - [Zum, which provides software and vehicles to help schools cut student transportation time and costs, raises $130M led by Vision Fund 2 at a $930M valuation (Cromwell Schubarth/Silicon Valley ...)](http://www.techmeme.com/211007/p5#a211007p5)
+ - [Beyerdynamic releases new suite of creator headphones and microphones](https://www.androidauthority.com/beyerdynamic-dt-700-pro-x-studio-3036241/)
+ - [Sky’s new Glass TVs ditch satellite dishes for Wi-Fi](https://www.theverge.com/2021/10/7/22714076/sky-glass-tv-streaming-service-uk-pricing-release-date)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
