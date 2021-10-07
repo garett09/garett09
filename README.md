@@ -195,9 +195,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The happiest tippy taps.](http://9gag.com/gag/aV7Gv3P)
- - 🚯 [Playing the UNO reverse card](http://9gag.com/gag/aGpPLZ5)
- - 🚯 [What a nice guy](http://9gag.com/gag/a07meGq)<!-- MEMES:END -->
+ - 🚖 [Amazing stages of sculpturing](http://9gag.com/gag/ayMyqX8)
+ - 🚯 [NYPD Searching For Woman Seen Pushing Subway Rider Toward Oncoming Train In Times Square](http://9gag.com/gag/aZ09ZD3)
+ - 🚯 [Store owner protects his business](http://9gag.com/gag/aDdB7jd)<!-- MEMES:END -->
 
 --- 
 
