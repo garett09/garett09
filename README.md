@@ -196,8 +196,8 @@ Windows                  8 hrs 4 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [F**k the poor, but not helping the poor?](http://9gag.com/gag/aNpyDjK)
- - 🚯 [Twitch data leak gonna be fun...](http://9gag.com/gag/ad83g2V)
- - 🚯 [Nostalgic](http://9gag.com/gag/a1r4m0P)<!-- MEMES:END -->
+ - 🚯 [Motio-activated sprinkler is a very good a fun way to keep people away from your shit....](http://9gag.com/gag/aqjvyXv)
+ - 🚯 [What a nice guy](http://9gag.com/gag/a07meGq)<!-- MEMES:END -->
 
 --- 
 
