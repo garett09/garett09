@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Facebook's research on teens and mental health is not as conclusive as it appears, relying on teens' self-reported views and a small sample size (Anya Kamenetz/NPR)](http://www.techmeme.com/211007/p18#a211007p18)
- - [Intel CEO Pat Gelsinger says it is not considering the UK for its upcoming chip factories due to Brexit; the company is investing $95B to open European plants (BBC)](http://www.techmeme.com/211007/p17#a211007p17)
- - [The new Motorola Moto G Pure packs in quite a lot for its low $160 price tag](https://www.androidauthority.com/motorola-moto-g-pure-3035231/)<!-- TECH:END -->
+ - [US Department of Justice creates cryptocurrency enforcement unit](https://www.theverge.com/2021/10/7/22714241/us-justice-department-cryptocurrency-enforcement-unit)
+ - [Apple CarPlay could control more parts of your vehicle in the future](https://www.theverge.com/2021/10/7/22714265/apple-carplay-ironheart-vision-car-settings-climate-seat-radio)
+ - [Annual EU report on social media content moderation shows companies removed 62.5% of flagged material in March and April 2021, down from 71% in late 2019 (Mark Scott/Politico)](http://www.techmeme.com/211007/p21#a211007p21)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
