@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [You told us: You aren’t super-keen on the Lenovo Legion Play handheld](https://www.androidauthority.com/lenovo-legion-play-poll-results-3036481/)
- - [Feeling Climate Dread? You’re Not Alone](https://www.wired.com/story/feeling-climate-dread-youre-not-alone)
- - [Borrowed a School Laptop? Mind Your Open Tabs](https://www.wired.com/story/borrowed-school-laptop-mind-open-tabs)<!-- TECH:END -->
+ - [More early details about Apple's folding iPhone revealed](https://appleinsider.com/articles/21/10/07/more-early-details-about-apples-folding-iphone-revealed?utm_medium=rss)
+ - [Investigation into Tether, which issued 48B coins this year, as regulators struggle to understand its cash reserves, organizational structure, and other details (Zeke Faux/Bloomberg)](http://www.techmeme.com/211007/p13#a211007p13)
+ - [Cybersecurity Awareness Month: Time for a cybersafety check     - CNET](https://www.cnet.com/tech/cybersecurity-awareness-month-time-for-a-cybersafety-check/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
