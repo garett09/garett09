@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Flying with iPad mini: A pilot's review](https://appleinsider.com/articles/21/10/05/flying-with-ipad-mini-a-pilots-review?utm_medium=rss)
  - [Facebook's political problems stem from its goal to connect people and its focus on growth, and are societal issues, not antitrust ones (Ben Thompson/Stratechery)](http://www.techmeme.com/211007/p2#a211007p2)
- - [You won’t need to say ‘Hey Google’ anymore for these Assistant commands](https://www.androidauthority.com/google-assistant-quick-phrases-3036486/)
- - [Early Apple Watch Series 7 listings reveal select launch configurations](https://appleinsider.com/articles/21/10/07/early-apple-watch-series-7-listings-reveal-select-launch-configurations?utm_medium=rss)<!-- TECH:END -->
+ - [You won’t need to say ‘Hey Google’ anymore for these Assistant commands](https://www.androidauthority.com/google-assistant-quick-phrases-3036486/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
