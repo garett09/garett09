@@ -181,9 +181,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Far Cry 6 beginner’s guide, tips, and tricks](https://www.polygon.com/guides/22711036/far-cry-6-beginners-tips-tricks-supremo-resolver-amigos-smoke-supply-drops-camp-construction)
- - [Next Baldur's Gate 3 patch is its biggest yet, adds 'equippable salami'](https://www.pcgamer.com/next-baldurs-gate-3-patch-is-its-biggest-yet-adds-equippable-salami)
- - [Baldur's Gate 3: Everything we know](https://www.pcgamer.com/baldurs-gate-3-everything-we-know)<!-- GAME:END -->
+ - [World of Warships gets spooky in time for Halloween](https://www.pcgamer.com/world-of-warships-gets-spooky-in-time-for-halloween)
+ - [(For Southeast Asia) “Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles” Adventure Mode Introduction③](http://feedproxy.google.com/~r/PSBlog/~3/NuSxQeylLtY/)
+ - [(For Southeast Asia) “Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles” Adventure Mode Introduction③](https://blog.playstation.com/2021/10/06/20211006-demonslayer-3/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
