@@ -181,9 +181,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Ghost Recon Frontline Drops 100 Players into Massive Tactical-Action Battles](https://news.xbox.com/en-us/2021/10/07/ghost-recon-frontline-massive-tactical-action-battles/)
- - [Our First Look At The Shenmue Anime Series](https://kotaku.com/our-first-look-at-the-shenmue-anime-series-1847822541)
- - [A lot of Battlefield 2042 beta players want the old generic soldiers back](https://www.pcgamer.com/battlefield-2042-specialists-reaction)<!-- GAME:END -->
+ - [The Art Of Deathloop](https://kotaku.com/the-art-of-deathloop-1847814935)
+ - [Shenmue anime finally gets a trailer](https://www.pcgamer.com/shenmue-anime-finally-gets-a-trailer)
+ - [Obscure 2012 Yakuza Game Is Getting A Fan Translation](https://kotaku.com/obscure-2012-yakuza-game-is-getting-a-fan-translation-1847822484)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
