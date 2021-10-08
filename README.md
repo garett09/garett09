@@ -181,9 +181,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [PAX Australia online is live](https://www.pcgamer.com/pax-australias-online-schedule-is-live-ahead-of-launch-later-this-week)
- - [Yakuza Creator Confirms He's Leaving Sega, Former Series Producer Joins Him](https://kotaku.com/yakuza-creator-confirms-hes-leaving-sega-former-series-1847824165)
- - [A Closer Look At The New Dragon Ball Anime Movie's CG](https://kotaku.com/a-closer-look-at-the-new-dragon-ball-anime-movies-3g-1847824053)<!-- GAME:END -->
+ - [NASA to relive most Kerbal Mun landings by throwing spaceship at rock](https://www.pcgamer.com/nasa-to-relive-most-kerbal-mun-landings-by-throwing-spaceship-at-rock)
+ - [Best cheap microphone for streaming and gaming](https://www.pcgamer.com/best-budget-microphone)
+ - [Dota 2 fans aren't cheering The International's awkward fake applause](https://www.pcgamer.com/dota-2-fans-arent-cheering-the-internationals-awkward-fake-applause)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
