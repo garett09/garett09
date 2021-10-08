@@ -181,9 +181,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Art Of Deathloop](https://kotaku.com/the-art-of-deathloop-1847814935)
- - [Shenmue anime finally gets a trailer](https://www.pcgamer.com/shenmue-anime-finally-gets-a-trailer)
- - [Obscure 2012 Yakuza Game Is Getting A Fan Translation](https://kotaku.com/obscure-2012-yakuza-game-is-getting-a-fan-translation-1847822484)<!-- GAME:END -->
+ - [Dice Legacy review](https://www.pcgamer.com/dice-legacy-review)
+ - [Cheap gaming laptop deals this week](https://www.pcgamer.com/gaming-laptop-deals)
+ - [The 10 TV shows and movies to watch after Squid Game](https://www.polygon.com/22707451/squid-game-shows-and-movies-watch)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
