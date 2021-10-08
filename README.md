@@ -197,7 +197,7 @@ Windows                  8 hrs 4 mins        ███████████�
 <!-- MEMES:START -->
  - 🚖 [I was there,16 years ago. Stress-free life ...](http://9gag.com/gag/aNpyQ1A)
  - 🚯 [Future king of England maintaining eye contact through sheer force of will](http://9gag.com/gag/a7EjedL)
- - 🚯 [Challenge](http://9gag.com/gag/arMPZn6)<!-- MEMES:END -->
+ - 🚯 [Think less, happy more](http://9gag.com/gag/aDdB8wO)<!-- MEMES:END -->
 
 --- 
 
