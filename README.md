@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [More Pixel 6 wallpapers have just leaked. Download them here.](https://www.androidauthority.com/new-google-pixel-6-wallpapers-3037061/)
- - [Apple Store down ahead of Apple Watch Series 7 preorders](https://appleinsider.com/articles/21/10/08/apple-store-down-ahead-of-apple-watch-series-7-preorders?utm_medium=rss)
- - [Chicago-based The Mom Project, a job site aimed at women returning to work, raises $80M Series C led by Leeds Illuminate, bringing its total raised to $106M (Gordon Gottsegen/Built In Chicago)](http://www.techmeme.com/211008/p2#a211008p2)<!-- TECH:END -->
+ - [TikTok is coming to LG’s recent smart TVs](https://www.theverge.com/2021/10/8/22716017/tiktok-lg-webos-smart-tv-app-2020-2021-2019)
+ - [Google Search adds guitar tuner to its smorgasbord of built-in features](https://www.theverge.com/2021/10/8/22716012/google-search-built-in-guitar-tuner)
+ - [The OLED Nintendo Switch doesn’t have a Pentile screen](https://www.theverge.com/2021/10/8/22715977/oled-nintendo-switch-no-pentile-screen-macro-photo)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
