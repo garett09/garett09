@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung reports Q3 operating profit of $13.26B, up 28% YoY, its best in three years, but warns chips could be entering a downcycle as laptop demand subsides (Song Jung-a/Financial Times)](http://www.techmeme.com/211008/p1#a211008p1)
- - [Five key features missing from Apple's new iPad mini](https://appleinsider.com/articles/21/10/06/five-things-missing-from-the-ipad-mini-that-apple-couldve-added?utm_medium=rss)
- - [Android executive offers to help Apple deploy RCS messaging](https://appleinsider.com/articles/21/10/08/android-executive-offers-to-help-apple-deploy-rcs-messaging?utm_medium=rss)<!-- TECH:END -->
+ - [OnePlus 9RT: All the rumors in one place (Oct. 8)](https://www.androidauthority.com/oneplus-9rt-2737438/)
+ - [OnePlus will launch the OnePlus 9RT, Buds Z2 next week](https://www.androidauthority.com/oneplus-oneplus-9rt-launch-3034804/)
+ - [Samsung reports Q3 operating profit of $13.26B, up 28% YoY, its best in three years, but warns chips could be entering a downcycle as laptop demand subsides (Song Jung-a/Financial Times)](http://www.techmeme.com/211008/p1#a211008p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
