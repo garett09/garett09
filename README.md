@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [TikTok is coming to LG’s recent smart TVs](https://www.theverge.com/2021/10/8/22716017/tiktok-lg-webos-smart-tv-app-2020-2021-2019)
- - [Google Search adds guitar tuner to its smorgasbord of built-in features](https://www.theverge.com/2021/10/8/22716012/google-search-built-in-guitar-tuner)
- - [The OLED Nintendo Switch doesn’t have a Pentile screen](https://www.theverge.com/2021/10/8/22715977/oled-nintendo-switch-no-pentile-screen-macro-photo)<!-- TECH:END -->
+ - [China increases power cuts, 'scared' suppliers look to leave country](https://appleinsider.com/articles/21/10/08/china-increases-power-cuts-scared-suppliers-look-to-leave-country?utm_medium=rss)
+ - [You told us: You only use a downward swipe on the home screen for one thing](https://www.androidauthority.com/swipe-down-home-screen-poll-results-3037045/)
+ - [No Time to Die: Decoding the James Bond hit movie (big spoilers)     - CNET](https://www.cnet.com/news/no-time-to-die-decoding-james-bond-hit-movie-spoilers/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
