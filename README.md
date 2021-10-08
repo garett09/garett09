@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hyper announces new 6-in-1 USB-C Media Hub for iPad Pro, iPad Air, and iPad mini](https://appleinsider.com/articles/21/10/07/hyper-announces-new-6-in-1-usb-c-media-hub-for-ipad-pro-ipad-air-and-ipad-mini?utm_medium=rss)
- - [Lenovo Smart Clock 2 review: a good dock with an okay clock](https://www.theverge.com/22714538/lenovo-smart-clock-2-review)
- - [2022 Mercedes-Benz EQS second drive review: The S-Class of EVs     - Roadshow](https://www.cnet.com/roadshow/news/2022-mercedes-benz-eqs-second-drive-review/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [HyperDrive iMac Hub review: More ports on the front of the 24-inch iMac](https://appleinsider.com/articles/21/10/08/hyperdrive-imac-hub-review-more-ports-on-the-front-of-the-24-inch-imac?utm_medium=rss)
+ - [BetterUp, which provides mental health counseling and employee coaching through its app, raises $300M Series E at a $5B valuation (Lucinda Shen/Fortune)](http://www.techmeme.com/211008/p12#a211008p12)
+ - [Best Buy is giving out free Gigantamax Pikachu and Eevee codes for Pokemon Sword and Shield     - CNET](https://www.cnet.com/news/best-buy-is-giving-out-free-gigantamax-pikachu-and-eevee-codes-for-pokemon-sword-and-shield/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
