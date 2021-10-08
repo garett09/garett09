@@ -181,9 +181,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best PC cases in 2021](https://www.pcgamer.com/best-pc-case)
- - [Best external SSD for gaming on PC and next-gen consoles](https://www.pcgamer.com/best-external-ssd-for-game-storage)
- - [Bonfire Peaks review](https://www.pcgamer.com/bonfire-peaks-review)<!-- GAME:END -->
+ - [Metroid Dread: The Kotaku Review](https://kotaku.com/metroid-dread-the-kotaku-review-1847823602)
+ - [Far Cry 6's reception makes it clear the series needs its own revolution](https://www.pcgamer.com/far-cry-6s-reception-makes-it-clear-the-series-needs-its-own-revolution)
+ - [Halo Infinite leak shows a Forge with full scripting features](https://www.pcgamer.com/halo-infinite-leak-shows-a-forge-with-full-scripting-features)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
