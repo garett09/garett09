@@ -195,9 +195,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [You dare oppose me hooman?](http://9gag.com/gag/aQoYZzd)
- - 🚯 [MAR EYE OH](http://9gag.com/gag/abVjxBb)
- - 🚯 [Ah yes, the sex](http://9gag.com/gag/axMpREY)<!-- MEMES:END -->
+ - 🚖 [Watched at lunch. Of course it&#039;s good.](http://9gag.com/gag/amPDx1X)
+ - 🚯 [You dare oppose me hooman?](http://9gag.com/gag/aQoYZzd)
+ - 🚯 [He&#039;s right though](http://9gag.com/gag/azM6RWZ)<!-- MEMES:END -->
 
 --- 
 
