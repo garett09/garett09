@@ -181,9 +181,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Far Cry 6 beginner’s guide, tips, and tricks](https://www.polygon.com/guides/22711036/far-cry-6-beginners-tips-tricks-supremo-resolver-amigos-smoke-supply-drops-camp-construction)
- - [The Expanse is hitting the gas for its final six episodes](https://www.polygon.com/22717128/the-expanse-final-season-comic-con)
- - [Black Widow, Old, and every new movie you can now watch at home](https://www.polygon.com/2021/10/8/22707454/black-widow-old-and-every-new-movie-you-can-now-watch-at-home)<!-- GAME:END -->
+ - [Quake remaster gets big update expanding bot and mod support](https://www.pcgamer.com/quake-remaster-update)
+ - [Jeff Bezos Gets Plastered All Over Twitch Post Leak](https://kotaku.com/jeff-bezos-gets-plastered-all-over-twitch-post-leak-1847830301)
+ - [How the 20-year-old developer behind Choo-Choo Charles is handling the attention](https://www.pcgamer.com/choo-choo-charles-interview)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
