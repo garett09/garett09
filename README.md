@@ -195,9 +195,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Think less, happy more](http://9gag.com/gag/aDdB8wO)
- - 🚯 [Are mobile games even legitimate games?](http://9gag.com/gag/a3EoyEe)
- - 🚯 [Heavy textured piece I painted in acrylic and palette knife.](http://9gag.com/gag/azM6GEp)<!-- MEMES:END -->
+ - 🚖 [Are mobile games even legitimate games?](http://9gag.com/gag/a3EoyEe)
+ - 🚯 [682 to 385](http://9gag.com/gag/aLpqGZA)
+ - 🚯 [Good thing we stopped using plastic straws in Europe](http://9gag.com/gag/aEpeA7x)<!-- MEMES:END -->
 
 --- 
 
