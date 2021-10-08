@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [China increases power cuts, 'scared' suppliers look to leave country](https://appleinsider.com/articles/21/10/08/china-increases-power-cuts-scared-suppliers-look-to-leave-country?utm_medium=rss)
- - [You told us: You only use a downward swipe on the home screen for one thing](https://www.androidauthority.com/swipe-down-home-screen-poll-results-3037045/)
- - [No Time to Die: Decoding the James Bond hit movie (big spoilers)     - CNET](https://www.cnet.com/news/no-time-to-die-decoding-james-bond-hit-movie-spoilers/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to Actually Remember People's Names](https://www.wired.com/story/how-to-remember-names)
+ - [Americans Need a Bill of Rights for an AI-Powered World](https://www.wired.com/story/opinion-bill-of-rights-artificial-intelligence)
+ - [These Virtual Obstacle Courses Help Real Robots Learn to Walk](https://www.wired.com/story/virtual-obstacle-courses-help-real-robots-walk)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
