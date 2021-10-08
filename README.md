@@ -195,9 +195,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Name change for school](http://9gag.com/gag/awMqOrD)
+ - 🚖 [30 days](http://9gag.com/gag/abVjxvX)
  - 🚯 [682 to 385](http://9gag.com/gag/aLpqGZA)
- - 🚯 [Bad doggo](http://9gag.com/gag/apNexGM)<!-- MEMES:END -->
+ - 🚯 [I want to post my opinion, but I don&#039;t want to spend hours defending it.](http://9gag.com/gag/a27QyOO)<!-- MEMES:END -->
 
 --- 
 
