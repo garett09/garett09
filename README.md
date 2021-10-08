@@ -195,9 +195,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Are mobile games even legitimate games?](http://9gag.com/gag/a3EoyEe)
+ - 🚖 [Name change for school](http://9gag.com/gag/awMqOrD)
  - 🚯 [682 to 385](http://9gag.com/gag/aLpqGZA)
- - 🚯 [Good thing we stopped using plastic straws in Europe](http://9gag.com/gag/aEpeA7x)<!-- MEMES:END -->
+ - 🚯 [Bad doggo](http://9gag.com/gag/apNexGM)<!-- MEMES:END -->
 
 --- 
 
