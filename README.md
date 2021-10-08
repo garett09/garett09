@@ -181,9 +181,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [NASA to relive most Kerbal Mun landings by throwing spaceship at rock](https://www.pcgamer.com/nasa-to-relive-most-kerbal-mun-landings-by-throwing-spaceship-at-rock)
- - [Best cheap microphone for streaming and gaming](https://www.pcgamer.com/best-budget-microphone)
- - [Dota 2 fans aren't cheering The International's awkward fake applause](https://www.pcgamer.com/dota-2-fans-arent-cheering-the-internationals-awkward-fake-applause)<!-- GAME:END -->
+ - [The best PC cases in 2021](https://www.pcgamer.com/best-pc-case)
+ - [Best external SSD for gaming on PC and next-gen consoles](https://www.pcgamer.com/best-external-ssd-for-game-storage)
+ - [Bonfire Peaks review](https://www.pcgamer.com/bonfire-peaks-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
