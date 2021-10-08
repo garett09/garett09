@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [US federal judge rules Cloudflare is not liable for copyright infringement between websites that use its services (Jon Brodkin/Ars Technica)](http://www.techmeme.com/211007/p38#a211007p38)
- - [Nintendo engineers suggest Switch Joy-Con drift will never be fixed](https://www.theverge.com/2021/10/7/22715467/nintendo-joy-con-drift-never-fixed-switch-oled)
- - [Get the Roku Premiere for just $26.25, and more cheap Roku deals](https://www.androidauthority.com/best-cheap-roku-deals-1115065/)<!-- TECH:END -->
+ - [How WhatsApp became a popular messaging app in the Global South, driven by high device compatibility and telecom partnerships (Shoshana Wodinsky/Gizmodo)](http://www.techmeme.com/211007/p39#a211007p39)
+ - [A friendly reminder that Hulu’s price is going up October 8th](https://www.theverge.com/2021/10/7/22715403/hulu-price-increase-2021)
+ - [Apple Watch Series 7 prices leak ahead of start to preorders](https://appleinsider.com/articles/21/10/07/apple-watch-series-7-prices-leak-ahead-of-start-to-preorders?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
