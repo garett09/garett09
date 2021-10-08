@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How WhatsApp became a popular messaging app in the Global South, driven by high device compatibility and telecom partnerships (Shoshana Wodinsky/Gizmodo)](http://www.techmeme.com/211007/p39#a211007p39)
- - [A friendly reminder that Hulu’s price is going up October 8th](https://www.theverge.com/2021/10/7/22715403/hulu-price-increase-2021)
- - [Apple Watch Series 7 prices leak ahead of start to preorders](https://appleinsider.com/articles/21/10/07/apple-watch-series-7-prices-leak-ahead-of-start-to-preorders?utm_medium=rss)<!-- TECH:END -->
+ - [New App Store analytics provide developers deeper insight into app engagement](https://appleinsider.com/articles/21/10/08/new-app-store-analytics-provide-developers-deeper-insight-into-app-engagement?utm_medium=rss)
+ - [Gov. Newsom signs Silenced No More Act, which ex-Pinterest employee Ifeoma Ozoma helped draft, to protect CA workers who call out discrimination despite NDAs (The Verge)](http://www.techmeme.com/211007/p40#a211007p40)
+ - [YouTube says its auto livestream captions are now available for all creators](https://www.theverge.com/2021/10/7/22715511/youtube-live-stream-captions-transcripts-descriptive-audio)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
