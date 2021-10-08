@@ -189,8 +189,8 @@ Windows                  8 hrs 4 mins        ███████████�
 
 <!-- TECH:START -->
  - [New App Store analytics provide developers deeper insight into app engagement](https://appleinsider.com/articles/21/10/08/new-app-store-analytics-provide-developers-deeper-insight-into-app-engagement?utm_medium=rss)
- - [Gov. Newsom signs Silenced No More Act, which ex-Pinterest employee Ifeoma Ozoma helped draft, to protect CA workers who call out discrimination despite NDAs (The Verge)](http://www.techmeme.com/211007/p40#a211007p40)
- - [YouTube says its auto livestream captions are now available for all creators](https://www.theverge.com/2021/10/7/22715511/youtube-live-stream-captions-transcripts-descriptive-audio)<!-- TECH:END -->
+ - [Early Apple Watch Series 7 listings reveal select launch configurations](https://appleinsider.com/articles/21/10/07/early-apple-watch-series-7-listings-reveal-select-launch-configurations?utm_medium=rss)
+ - [Apple Watch Series 7 prices leak ahead of start to preorders](https://appleinsider.com/articles/21/10/07/apple-watch-series-7-prices-leak-ahead-of-start-to-preorders?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
