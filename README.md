@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kids are playing Squid Game and beating up the losers, school warns     - CNET](https://www.cnet.com/news/kids-are-playing-squid-game-and-beating-up-the-losers-school-warns/#ftag=CAD590a51e)
- - [Trump granted hip-hop manager clemency but left him in prison, lawyers claim](https://techncruncher.blogspot.com/2021/10/trump-granted-hip-hop-manager-clemency.html)
- - [Get up to 75% off on this accessible makeup line     - CNET](https://www.cnet.com/news/get-up-to-75-off-on-this-accessible-makeup-line/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Crash testing popular MagSafe car vent mounts for iPhone 12 and iPhone 13](https://appleinsider.com/articles/21/10/08/crash-testing-popular-magsafe-car-vent-mounts-for-iphone-12-and-iphone-13?utm_medium=rss)
+ - [Windows 11: How to download the upgrade right now](https://techncruncher.blogspot.com/2021/10/windows-11-how-to-download-upgrade.html)
+ - [The six-figure Mercedes-Benz EQS gets a 350-mile range rating](https://www.theverge.com/2021/10/8/22716720/mercedes-eqs-electric-car-epa-range-rating)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
