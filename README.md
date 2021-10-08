@@ -181,9 +181,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [PAX Australia online is live](https://www.pcgamer.com/pax-australias-online-schedule-is-live-ahead-of-launch-later-this-week)
  - [Yakuza Creator Confirms He's Leaving Sega, Former Series Producer Joins Him](https://kotaku.com/yakuza-creator-confirms-hes-leaving-sega-former-series-1847824165)
- - [A Closer Look At The New Dragon Ball Anime Movie's 3G](https://kotaku.com/a-closer-look-at-the-new-dragon-ball-anime-movies-3g-1847824053)
- - [Two of the Yakuza series' masterminds have left Sega](https://www.pcgamer.com/two-of-the-yakuza-series-masterminds-have-left-sega)<!-- GAME:END -->
+ - [A Closer Look At The New Dragon Ball Anime Movie's CG](https://kotaku.com/a-closer-look-at-the-new-dragon-ball-anime-movies-3g-1847824053)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
