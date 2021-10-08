@@ -195,8 +195,8 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Today it&#039;s my 32nd birthday. Thank you for making me laugh every day for so many years!](http://9gag.com/gag/aV7G2Ow)
- - 🚯 [This is fiiiine.....!](http://9gag.com/gag/ayMyYBq)
+ - 🚖 [Which one was your favorite? Mine was Kids Next Door and Ed Edd n Eddy](http://9gag.com/gag/aqjvzzM)
+ - 🚯 [He&#039;s right though](http://9gag.com/gag/azM6RWZ)
  - 🚯 [Attention! We are giving away a PS5! Tap post to know more!](http://9gag.com/gag/aEpeOGn)<!-- MEMES:END -->
 
 --- 
