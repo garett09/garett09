@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Fitbit Versa 3 and Fitbit Sense bands](https://www.androidauthority.com/best-fitbit-versa-3-sense-bands-3025702/)
- - [DWTS: What Fans Can Expect From The Two-Part Disney Night](https://techncruncher.blogspot.com/2021/10/dwts-what-fans-can-expect-from-two-part.html)
- - [Watch the Pixel 6 Pro get put together and taken apart in leaked videos](https://www.theverge.com/2021/10/8/22716681/google-pixel-6-pro-leaked-video-assemble-disassemble)<!-- TECH:END -->
+ - [Skyrim’s Stones Of Barenziah: Is The Reward Worth It](https://techncruncher.blogspot.com/2021/10/skyrims-stones-of-barenziah-is-reward.html)
+ - [Venom: Let There Be Carnage - Which Character Are You, Based On Your Zodiac Sign?](https://techncruncher.blogspot.com/2021/10/venom-let-there-be-carnage-which.html)
+ - [Netflix's Maid: The 10 Best Characters | ScreenRant](https://techncruncher.blogspot.com/2021/10/netflixs-maid-10-best-characters.html)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
