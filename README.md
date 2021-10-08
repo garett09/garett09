@@ -195,8 +195,8 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Which one was your favorite? Mine was Kids Next Door and Ed Edd n Eddy](http://9gag.com/gag/aqjvzzM)
- - 🚯 [He&#039;s right though](http://9gag.com/gag/azM6RWZ)
+ - 🚖 [While everyone is excited about the GTA remaster, I&#039;m still waiting for a remaster of this legend](http://9gag.com/gag/a6EWjzb)
+ - 🚯 [Well ok then.](http://9gag.com/gag/aRXxOYA)
  - 🚯 [Attention! We are giving away a PS5! Tap post to know more!](http://9gag.com/gag/aEpeOGn)<!-- MEMES:END -->
 
 --- 
