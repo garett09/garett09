@@ -181,9 +181,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Point and Click Adventure Game Creepy Tale is Available Now](https://news.xbox.com/en-us/2021/10/08/creepy-tale-available-now/)
- - [League of Legends’ preseason additions look wild, include new dragons](https://www.polygon.com/22716694/league-of-legends-preseason-2022-hextech-chemtech-dragons)
- - [Developers finally get Linux running on an Apple M1-powered Mac](https://www.pcgamer.com/developers-finally-get-linux-running-on-an-apple-m1-powered-mac)<!-- GAME:END -->
+ - [Back 4 Blood is more than just Left 4 Dead](https://www.polygon.com/reviews/22716625/back-4-blood-review-impressions-left-dead-turtle-rock-studios)
+ - [How the 2D Arena Shooter AlphaLink Went From Local to Online During a Pandemic](https://news.xbox.com/en-us/2021/10/08/arena-shooter-alphalink-from-local-to-online-during-a-pandemic/)
+ - [Friendship Ended With Cyberpunk, Now ANNO: Mutationem Is New Best Friend](https://kotaku.com/friendship-ended-with-cyberpunk-now-anno-mutationem-i-1847828371)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
