@@ -181,9 +181,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [PlayStation Boss Wants Change He's Not Willing To Make](https://kotaku.com/playstation-boss-wants-change-hes-not-willing-to-make-1847822083)
- - [Nvidia GPU mining limiter 100% dodged by mining two cryptocurrencies at once](https://www.pcgamer.com/t-rex-mining-gpu-cryptocurrency-hash-rate-unlock)
- - [Sable isn’t an action-packed adventure, it’s even better](https://www.polygon.com/reviews/22715435/sable-review-raw-fury-shedworks-open-world-adventure)<!-- GAME:END -->
+ - [Comic creators celebrate Will Eisner’s enduring legacy at New York Comic Con](https://www.polygon.com/comics/22716477/will-eisner-comic-con-gene-luen-yang-the-spirit)
+ - [Who gets thanked in superhero movie credits is a mystery — even to superhero creators](https://www.polygon.com/22714365/marvel-dc-credits-special-thanks-superhero-movies)
+ - [Watch the Critical Role animated series’ title sequence](https://www.polygon.com/22716572/dungeons-dragons-critical-role-animated-title-sequence-amazon-nycc)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
