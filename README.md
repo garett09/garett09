@@ -195,9 +195,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Watched at lunch. Of course it&#039;s good.](http://9gag.com/gag/amPDx1X)
- - 🚯 [You dare oppose me hooman?](http://9gag.com/gag/aQoYZzd)
- - 🚯 [He&#039;s right though](http://9gag.com/gag/azM6RWZ)<!-- MEMES:END -->
+ - 🚖 [We have a real mystery on our hands](http://9gag.com/gag/aP3OQeG)
+ - 🚯 [Imagine living beside this Amazing View!](http://9gag.com/gag/agBR4V1)
+ - 🚯 [You dare oppose me hooman?](http://9gag.com/gag/aQoYZzd)<!-- MEMES:END -->
 
 --- 
 
