@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Early Black Friday deals: $449 AirPods Max, $159 Apple TV 4K, $200 off M1 MacBook Pro 13", more](https://appleinsider.com/articles/21/10/04/early-black-friday-deals-449-airpods-max-159-apple-tv-4k-200-off-m1-macbook-pro-13-more?utm_medium=rss)
- - [Early Apple Watch Series 7 listings reveal select launch configurations](https://appleinsider.com/articles/21/10/07/early-apple-watch-series-7-listings-reveal-select-launch-configurations?utm_medium=rss)
- - [Apple Watch Series 7 prices leak ahead of start to preorders](https://appleinsider.com/articles/21/10/07/apple-watch-series-7-prices-leak-ahead-of-start-to-preorders?utm_medium=rss)<!-- TECH:END -->
+ - [Samsung reports Q3 operating profit of $13.26B, up 28% YoY, its best in three years, but warns chips could be entering a downcycle as laptop demand subsides (Song Jung-a/Financial Times)](http://www.techmeme.com/211008/p1#a211008p1)
+ - [Five key features missing from Apple's new iPad mini](https://appleinsider.com/articles/21/10/06/five-things-missing-from-the-ipad-mini-that-apple-couldve-added?utm_medium=rss)
+ - [Android executive offers to help Apple deploy RCS messaging](https://appleinsider.com/articles/21/10/08/android-executive-offers-to-help-apple-deploy-rcs-messaging?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
