@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [More Pixel 6 wallpapers have just leaked. Download them here.](https://www.androidauthority.com/new-google-pixel-6-wallpapers-3037061/)
  - [Apple Store down ahead of Apple Watch Series 7 preorders](https://appleinsider.com/articles/21/10/08/apple-store-down-ahead-of-apple-watch-series-7-preorders?utm_medium=rss)
- - [Chicago-based The Mom Project, a job site aimed at women returning to work, raises $80M Series C led by Leeds Illuminate, bringing its total raised to $106M (Gordon Gottsegen/Built In Chicago)](http://www.techmeme.com/211008/p2#a211008p2)
- - [YouTube Rewind is now gone for good, 2018 video definitely not to blame](https://www.androidauthority.com/youtube-rewind-finished-3037027/)<!-- TECH:END -->
+ - [Chicago-based The Mom Project, a job site aimed at women returning to work, raises $80M Series C led by Leeds Illuminate, bringing its total raised to $106M (Gordon Gottsegen/Built In Chicago)](http://www.techmeme.com/211008/p2#a211008p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
