@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Crash testing popular MagSafe car vent mounts for iPhone 12 and iPhone 13](https://appleinsider.com/articles/21/10/08/crash-testing-popular-magsafe-car-vent-mounts-for-iphone-12-and-iphone-13?utm_medium=rss)
- - [Windows 11: How to download the upgrade right now](https://techncruncher.blogspot.com/2021/10/windows-11-how-to-download-upgrade.html)
- - [The six-figure Mercedes-Benz EQS gets a 350-mile range rating](https://www.theverge.com/2021/10/8/22716720/mercedes-eqs-electric-car-epa-range-rating)<!-- TECH:END -->
+ - [The best Fitbit Versa 3 and Fitbit Sense bands](https://www.androidauthority.com/best-fitbit-versa-3-sense-bands-3025702/)
+ - [DWTS: What Fans Can Expect From The Two-Part Disney Night](https://techncruncher.blogspot.com/2021/10/dwts-what-fans-can-expect-from-two-part.html)
+ - [Watch the Pixel 6 Pro get put together and taken apart in leaked videos](https://www.theverge.com/2021/10/8/22716681/google-pixel-6-pro-leaked-video-assemble-disassemble)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
