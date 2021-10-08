@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [All Apple Watch Series 7 models have limited availability, slipping delivery dates](https://appleinsider.com/articles/21/10/08/all-apple-watch-series-7-models-have-limited-availability-slipping-delivery-dates?utm_medium=rss)
- - [The Nokia T20 tablet is official with a 2K display and a low price (Updated)](https://www.androidauthority.com/nokia-t20-3035408/)
- - [Twitch defaced with pictures of Jeff Bezos](https://www.theverge.com/2021/10/8/22716184/twitch-hack-jeff-bezos-pictures-defaced)<!-- TECH:END -->
+ - [Tar balls, oiled birds, and months of cleanup on California’s beaches](https://www.theverge.com/2021/10/8/22715449/california-oil-spill-impact-environment-cleanup)
+ - [Microsoft Surface Laptop Studio review: back to the drawing board](https://www.theverge.com/22716121/microsoft-surface-laptop-studio-review)
+ - [Apple Watch Series 7 pre-orders, iPhone 13 ProRes, and more on the AppleInsider podcast](https://appleinsider.com/articles/21/10/08/apple-watch-series-7-pre-orders-iphone-13-prores-and-more-on-the-appleinsider-podcast?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
