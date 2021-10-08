@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Profile of privacy activist Ashkan Soltani, who was named head of the California Privacy Protection Agency on Monday (Bloomberg Law)](http://www.techmeme.com/211008/p8#a211008p8)
- - [Best budget cheap smartwatches under $100     - CNET](https://www.cnet.com/tech/mobile/best-budget-cheap-smartwatches-under-100/#ftag=CAD590a51e)
- - [The Grand Theft Auto trilogy is getting remastered for PC and consoles, including Nintendo Switch](https://www.theverge.com/2021/10/8/22711013/grand-theft-auto-trilogy-definitive-vice-city-iii-san-andreas-pc-console)<!-- TECH:END -->
+ - [Hyper announces new 6-in-1 USB-C Media Hub for iPad Pro, iPad Air, and iPad mini](https://appleinsider.com/articles/21/10/07/hyper-announces-new-6-in-1-usb-c-media-hub-for-ipad-pro-ipad-air-and-ipad-mini?utm_medium=rss)
+ - [Lenovo Smart Clock 2 review: a good dock with an okay clock](https://www.theverge.com/22714538/lenovo-smart-clock-2-review)
+ - [2022 Mercedes-Benz EQS second drive review: The S-Class of EVs     - Roadshow](https://www.cnet.com/roadshow/news/2022-mercedes-benz-eqs-second-drive-review/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
