@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Teachers union demands social media companies to curb misinformation, violent trends     - CNET](https://www.cnet.com/tech/teachers-union-demands-social-media-companies-to-curb-misinformation-violent-trends/#ftag=CAD590a51e)
- - [My new favorite Twitter account just posts classic clips of SNL hosts introducing the musical guest](https://www.theverge.com/tldr/2021/10/8/22717038/twitter-snl-account-classic-clips-hosts-introducing-musical-guest)
- - [16-million-year-old tardigrade trapped in amber a 'once in a generation' find     - CNET](https://www.cnet.com/news/16-million-year-old-tardigrade-in-amber-a-once-in-a-generation-find/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [LG K51 review: More polish than punch](https://www.androidauthority.com/lg-k51-review-3017880/)
+ - [Former Apple employee accused of leaking trade secrets under criminal investigation](https://appleinsider.com/articles/21/10/08/former-apple-employee-accused-of-leaking-trade-secrets-under-criminal-investigation?utm_medium=rss)
+ - [Sources: private equity owners of cloud-based call center provider Genesys, including Permira, are mulling an IPO in H1 2022, seeking a valuation of $20B (Bloomberg)](http://www.techmeme.com/211008/p21#a211008p21)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
