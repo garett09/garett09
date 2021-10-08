@@ -181,9 +181,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Marvel’s Spider-Man: Miles Morales: An homage to Hispanic Heritage and representation](http://feedproxy.google.com/~r/PSBlog/~3/rqa7jssGIos/)
- - [Marvel’s Spider-Man: Miles Morales: An homage to Hispanic Heritage and representation](https://blog.playstation.com/2021/10/08/marvels-spider-man-miles-morales-an-homage-to-hispanic-heritage-and-representation/)
- - [Rockstar announces Grand Theft Auto trilogy re-release, with new improvements](https://www.polygon.com/22713238/grand-theft-auto-trilogy-remaster-definitive-edition-release-date-platforms)<!-- GAME:END -->
+ - [PlayStation Boss Wants Change He's Not Willing To Make](https://kotaku.com/playstation-boss-wants-change-hes-not-willing-to-make-1847822083)
+ - [Nvidia GPU mining limiter 100% dodged by mining two cryptocurrencies at once](https://www.pcgamer.com/t-rex-mining-gpu-cryptocurrency-hash-rate-unlock)
+ - [Sable isn’t an action-packed adventure, it’s even better](https://www.polygon.com/reviews/22715435/sable-review-raw-fury-shedworks-open-world-adventure)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
