@@ -195,9 +195,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [You&rsquo;re coming home and get greeted by this owl. What do you do?](http://9gag.com/gag/aNpyBeG)
- - 🚯 [Ah yes, the sex](http://9gag.com/gag/axMpREY)
- - 🚯 [Welcome to Russia](http://9gag.com/gag/agBRxLx)<!-- MEMES:END -->
+ - 🚖 [You dare oppose me hooman?](http://9gag.com/gag/aQoYZzd)
+ - 🚯 [MAR EYE OH](http://9gag.com/gag/abVjxBb)
+ - 🚯 [Ah yes, the sex](http://9gag.com/gag/axMpREY)<!-- MEMES:END -->
 
 --- 
 
