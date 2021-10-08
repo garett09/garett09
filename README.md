@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tar balls, oiled birds, and months of cleanup on California’s beaches](https://www.theverge.com/2021/10/8/22715449/california-oil-spill-impact-environment-cleanup)
- - [Microsoft Surface Laptop Studio review: back to the drawing board](https://www.theverge.com/22716121/microsoft-surface-laptop-studio-review)
- - [Apple Watch Series 7 pre-orders, iPhone 13 ProRes, and more on the AppleInsider podcast](https://appleinsider.com/articles/21/10/08/apple-watch-series-7-pre-orders-iphone-13-prores-and-more-on-the-appleinsider-podcast?utm_medium=rss)<!-- TECH:END -->
+ - [Profile of privacy activist Ashkan Soltani, who was named head of the California Privacy Protection Agency on Monday (Bloomberg Law)](http://www.techmeme.com/211008/p8#a211008p8)
+ - [Best budget cheap smartwatches under $100     - CNET](https://www.cnet.com/tech/mobile/best-budget-cheap-smartwatches-under-100/#ftag=CAD590a51e)
+ - [The Grand Theft Auto trilogy is getting remastered for PC and consoles, including Nintendo Switch](https://www.theverge.com/2021/10/8/22711013/grand-theft-auto-trilogy-definitive-vice-city-iii-san-andreas-pc-console)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
