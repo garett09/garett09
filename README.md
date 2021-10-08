@@ -181,9 +181,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Metroid Dread beginner’s guide, tips, and tricks](https://www.polygon.com/metroid-dread-guide-walkthrough/22713105/beginners-tips-tricks-emmi-stun-upgrades-metroidvania-map-secret-breakable-boss)
- - [To get big Twitch payouts, you have to be among the top .01% of streamers](https://www.pcgamer.com/twitch-streamer-income-leak)
- - [In the demo for Succubus you eat a fetus for hit points](https://www.pcgamer.com/in-the-demo-for-succubus-you-eat-a-fetus-for-hit-points)<!-- GAME:END -->
+ - [A Closer Look At The New Dragon Ball Anime Movie's 3G](https://kotaku.com/a-closer-look-at-the-new-dragon-ball-anime-movies-3g-1847824053)
+ - [Two of the Yakuza series' masterminds have left Sega](https://www.pcgamer.com/two-of-the-yakuza-series-masterminds-have-left-sega)
+ - [Metroid Dread beginner’s guide, tips, and tricks](https://www.polygon.com/metroid-dread-guide-walkthrough/22713105/beginners-tips-tricks-emmi-stun-upgrades-metroidvania-map-secret-breakable-boss)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
