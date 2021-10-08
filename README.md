@@ -195,8 +195,8 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [C&#039;mon](http://9gag.com/gag/apNeAbM)
- - 🚯 [Look at where you came from! Look at you now!](http://9gag.com/gag/azM6RRN)
+ - 🚖 [Damn...](http://9gag.com/gag/av5bRbO)
+ - 🚯 [Today it&#039;s my 32nd birthday. Thank you for making me laugh every day for so many years!](http://9gag.com/gag/aV7G2Ow)
  - 🚯 [Attention! We are giving away a PS5! Tap post to know more!](http://9gag.com/gag/aEpeOGn)<!-- MEMES:END -->
 
 --- 
