@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus 9RT: All the rumors in one place (Oct. 8)](https://www.androidauthority.com/oneplus-9rt-2737438/)
- - [OnePlus will launch the OnePlus 9RT, Buds Z2 next week](https://www.androidauthority.com/oneplus-oneplus-9rt-launch-3034804/)
- - [Samsung reports Q3 operating profit of $13.26B, up 28% YoY, its best in three years, but warns chips could be entering a downcycle as laptop demand subsides (Song Jung-a/Financial Times)](http://www.techmeme.com/211008/p1#a211008p1)<!-- TECH:END -->
+ - [Apple Store down ahead of Apple Watch Series 7 preorders](https://appleinsider.com/articles/21/10/08/apple-store-down-ahead-of-apple-watch-series-7-preorders?utm_medium=rss)
+ - [Chicago-based The Mom Project, a job site aimed at women returning to work, raises $80M Series C led by Leeds Illuminate, bringing its total raised to $106M (Gordon Gottsegen/Built In Chicago)](http://www.techmeme.com/211008/p2#a211008p2)
+ - [YouTube Rewind is now gone for good, 2018 video definitely not to blame](https://www.androidauthority.com/youtube-rewind-finished-3037027/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
