@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to Actually Remember People's Names](https://www.wired.com/story/how-to-remember-names)
- - [Americans Need a Bill of Rights for an AI-Powered World](https://www.wired.com/story/opinion-bill-of-rights-artificial-intelligence)
- - [These Virtual Obstacle Courses Help Real Robots Learn to Walk](https://www.wired.com/story/virtual-obstacle-courses-help-real-robots-walk)<!-- TECH:END -->
+ - [Apple Watch Series 7 preorders have begun, starting at $399](https://appleinsider.com/articles/21/10/08/apple-watch-series-7-preorders-have-begun-starting-at-399?utm_medium=rss)
+ - [Save $200 when you buy 2 Apple Watches, Series 7 included](https://appleinsider.com/articles/21/10/08/save-200-when-you-buy-2-apple-watches-series-7-included?utm_medium=rss)
+ - [Apple Store down ahead of Apple Watch Series 7 preorders](https://appleinsider.com/articles/21/10/08/apple-store-down-ahead-of-apple-watch-series-7-preorders?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
