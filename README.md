@@ -181,9 +181,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Metroid Dread: The Kotaku Review](https://kotaku.com/metroid-dread-the-kotaku-review-1847823602)
- - [Far Cry 6's reception makes it clear the series needs its own revolution](https://www.pcgamer.com/far-cry-6s-reception-makes-it-clear-the-series-needs-its-own-revolution)
- - [Halo Infinite leak shows a Forge with full scripting features](https://www.pcgamer.com/halo-infinite-leak-shows-a-forge-with-full-scripting-features)<!-- GAME:END -->
+ - [Next Week on Xbox: October 11 to 15](https://news.xbox.com/en-us/2021/10/08/next-week-on-xbox-october-11-to-15/)
+ - [Everything you need to know before you play Metroid Dread](https://www.polygon.com/22715304/metroid-dread-fusion-recap-story-lore-samus-aran-chozo)
+ - [Nintendo says new OLED Switch has ‘improved’ Joy-Cons — but drift still persists](https://www.polygon.com/22688586/nintendo-switch-oled-joy-con-drift-controllers)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
