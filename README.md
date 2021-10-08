@@ -195,9 +195,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It&#039;s called comedy. It&#039;s supposed to offend people...](http://9gag.com/gag/a4EMNDZ)
- - 🚯 [30 days](http://9gag.com/gag/abVjxvX)
- - 🚯 [Bad doggo](http://9gag.com/gag/apNexGM)<!-- MEMES:END -->
+ - 🚖 [30 days](http://9gag.com/gag/abVjxvX)
+ - 🚯 [Bad doggo](http://9gag.com/gag/apNexGM)
+ - 🚯 [Run](http://9gag.com/gag/a9E32bK)<!-- MEMES:END -->
 
 --- 
 
