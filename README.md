@@ -196,7 +196,7 @@ Windows                  8 hrs 4 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [C&#039;mon](http://9gag.com/gag/apNeAbM)
- - 🚯 [While everyone is excited about the GTA remaster, I&#039;m still waiting for a remaster of this legend](http://9gag.com/gag/a6EWjzb)
+ - 🚯 [Some guy uploads a picture of &quot;supernatural Lucifer&quot; Calling him the best Lucifer? Here you go the best Lucifer. Constantine.](http://9gag.com/gag/a8ErKD3)
  - 🚯 [Attention! We are giving away a PS5! Tap post to know more!](http://9gag.com/gag/aEpeOGn)<!-- MEMES:END -->
 
 --- 
