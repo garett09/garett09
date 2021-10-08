@@ -195,9 +195,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [We have a real mystery on our hands](http://9gag.com/gag/aP3OQeG)
- - 🚯 [Imagine living beside this Amazing View!](http://9gag.com/gag/agBR4V1)
- - 🚯 [You dare oppose me hooman?](http://9gag.com/gag/aQoYZzd)<!-- MEMES:END -->
+ - 🚖 [Run](http://9gag.com/gag/a9E32bK)
+ - 🚯 [Damn...](http://9gag.com/gag/av5bRbO)
+ - 🚯 [Today it&#039;s my 32nd birthday. Thank you for making me laugh every day for so many years!](http://9gag.com/gag/aV7G2Ow)<!-- MEMES:END -->
 
 --- 
 
