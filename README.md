@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [HyperDrive iMac Hub review: More ports on the front of the 24-inch iMac](https://appleinsider.com/articles/21/10/08/hyperdrive-imac-hub-review-more-ports-on-the-front-of-the-24-inch-imac?utm_medium=rss)
- - [BetterUp, which provides mental health counseling and employee coaching through its app, raises $300M Series E at a $5B valuation (Lucinda Shen/Fortune)](http://www.techmeme.com/211008/p12#a211008p12)
- - [Best Buy is giving out free Gigantamax Pikachu and Eevee codes for Pokemon Sword and Shield     - CNET](https://www.cnet.com/news/best-buy-is-giving-out-free-gigantamax-pikachu-and-eevee-codes-for-pokemon-sword-and-shield/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Kids are playing Squid Game and beating up the losers, school warns     - CNET](https://www.cnet.com/news/kids-are-playing-squid-game-and-beating-up-the-losers-school-warns/#ftag=CAD590a51e)
+ - [Trump granted hip-hop manager clemency but left him in prison, lawyers claim](https://techncruncher.blogspot.com/2021/10/trump-granted-hip-hop-manager-clemency.html)
+ - [Get up to 75% off on this accessible makeup line     - CNET](https://www.cnet.com/news/get-up-to-75-off-on-this-accessible-makeup-line/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
