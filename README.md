@@ -195,9 +195,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Coffee](http://9gag.com/gag/aO3699y)
- - 🚯 [It turned out awkward](http://9gag.com/gag/aYozMRm)
- - 🚯 [30 days](http://9gag.com/gag/abVjxvX)<!-- MEMES:END -->
+ - 🚖 [It&#039;s called comedy. It&#039;s supposed to offend people...](http://9gag.com/gag/a4EMNDZ)
+ - 🚯 [30 days](http://9gag.com/gag/abVjxvX)
+ - 🚯 [Bad doggo](http://9gag.com/gag/apNexGM)<!-- MEMES:END -->
 
 --- 
 
