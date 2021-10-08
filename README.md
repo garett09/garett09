@@ -181,9 +181,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Nickelodeon All-Star Brawl Is So Good Smash May Need To Watch Its Back](https://kotaku.com/nickelodeon-all-star-brawl-is-so-good-smash-may-need-to-1847828918)
- - [The Long Dark – Episode Four: Fury, Then Silence is Available Now](https://news.xbox.com/en-us/2021/10/08/the-long-darks-episode-four-lands-on-xbox/)
- - [Critical Role’s animated series will open with two previously unrecorded adventures](https://www.polygon.com/22716914/dungeons-dragons-critical-role-animated-series-preview-first-episode)<!-- GAME:END -->
+ - [Amazon’s Wheel of Time reveals season 2 details at New York Comic Con](https://www.polygon.com/entertainment/22717023/wheel-of-time-tv-show-series-amazon-comic-con-season-2)
+ - [Marvel's Avengers gets paid XP boosters and not everyone is happy about it](https://www.pcgamer.com/marvels-avengers-gets-paid-xp-boosters-and-not-everyone-is-happy-about-it)
+ - [Nickelodeon All-Star Brawl Is So Good Smash May Need To Watch Its Back](https://kotaku.com/nickelodeon-all-star-brawl-is-so-good-smash-may-need-to-1847828918)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
