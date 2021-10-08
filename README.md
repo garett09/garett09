@@ -181,9 +181,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Back 4 Blood is more than just Left 4 Dead](https://www.polygon.com/reviews/22716625/back-4-blood-review-impressions-left-dead-turtle-rock-studios)
- - [How the 2D Arena Shooter AlphaLink Went From Local to Online During a Pandemic](https://news.xbox.com/en-us/2021/10/08/arena-shooter-alphalink-from-local-to-online-during-a-pandemic/)
- - [Friendship Ended With Cyberpunk, Now ANNO: Mutationem Is New Best Friend](https://kotaku.com/friendship-ended-with-cyberpunk-now-anno-mutationem-i-1847828371)<!-- GAME:END -->
+ - [Nickelodeon All-Star Brawl Is So Good Smash May Need To Watch Its Back](https://kotaku.com/nickelodeon-all-star-brawl-is-so-good-smash-may-need-to-1847828918)
+ - [The Long Dark – Episode Four: Fury, Then Silence is Available Now](https://news.xbox.com/en-us/2021/10/08/the-long-darks-episode-four-lands-on-xbox/)
+ - [Critical Role’s animated series will open with two previously unrecorded adventures](https://www.polygon.com/22716914/dungeons-dragons-critical-role-animated-series-preview-first-episode)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
