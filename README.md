@@ -181,9 +181,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Amazon’s Wheel of Time reveals season 2 details at New York Comic Con](https://www.polygon.com/entertainment/22717023/wheel-of-time-tv-show-series-amazon-comic-con-season-2)
- - [Marvel's Avengers gets paid XP boosters and not everyone is happy about it](https://www.pcgamer.com/marvels-avengers-gets-paid-xp-boosters-and-not-everyone-is-happy-about-it)
- - [Nickelodeon All-Star Brawl Is So Good Smash May Need To Watch Its Back](https://kotaku.com/nickelodeon-all-star-brawl-is-so-good-smash-may-need-to-1847828918)<!-- GAME:END -->
+ - [Far Cry 6 beginner’s guide, tips, and tricks](https://www.polygon.com/guides/22711036/far-cry-6-beginners-tips-tricks-supremo-resolver-amigos-smoke-supply-drops-camp-construction)
+ - [The Expanse is hitting the gas for its final six episodes](https://www.polygon.com/22717128/the-expanse-final-season-comic-con)
+ - [Black Widow, Old, and every new movie you can now watch at home](https://www.polygon.com/2021/10/8/22707454/black-widow-old-and-every-new-movie-you-can-now-watch-at-home)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
