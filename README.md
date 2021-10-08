@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [New App Store analytics provide developers deeper insight into app engagement](https://appleinsider.com/articles/21/10/08/new-app-store-analytics-provide-developers-deeper-insight-into-app-engagement?utm_medium=rss)
- - [Early Apple Watch Series 7 listings reveal select launch configurations](https://appleinsider.com/articles/21/10/07/early-apple-watch-series-7-listings-reveal-select-launch-configurations?utm_medium=rss)
- - [Apple Watch Series 7 prices leak ahead of start to preorders](https://appleinsider.com/articles/21/10/07/apple-watch-series-7-prices-leak-ahead-of-start-to-preorders?utm_medium=rss)<!-- TECH:END -->
+ - [Android executive offers to help Apple deploy RCS messaging](https://appleinsider.com/articles/21/10/08/android-executive-offers-to-help-apple-deploy-rcs-messaging?utm_medium=rss)
+ - [Palantir says it signed a four-year contract with the Department of Veterans Affairs worth $90M to help integrate data across its health systems (Jackson Barnett/FedScoop)](http://www.techmeme.com/211007/p42#a211007p42)
+ - [New App Store analytics provide developers deeper insight into app engagement](https://appleinsider.com/articles/21/10/08/new-app-store-analytics-provide-developers-deeper-insight-into-app-engagement?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
