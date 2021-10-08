@@ -181,9 +181,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Week on Xbox: October 11 to 15](https://news.xbox.com/en-us/2021/10/08/next-week-on-xbox-october-11-to-15/)
- - [Everything you need to know before you play Metroid Dread](https://www.polygon.com/22715304/metroid-dread-fusion-recap-story-lore-samus-aran-chozo)
- - [Nintendo says new OLED Switch has ‘improved’ Joy-Cons — but drift still persists](https://www.polygon.com/22688586/nintendo-switch-oled-joy-con-drift-controllers)<!-- GAME:END -->
+ - [Marvel’s Spider-Man: Miles Morales: An homage to Hispanic Heritage and representation](http://feedproxy.google.com/~r/PSBlog/~3/rqa7jssGIos/)
+ - [Marvel’s Spider-Man: Miles Morales: An homage to Hispanic Heritage and representation](https://blog.playstation.com/2021/10/08/marvels-spider-man-miles-morales-an-homage-to-hispanic-heritage-and-representation/)
+ - [Rockstar announces Grand Theft Auto trilogy re-release, with new improvements](https://www.polygon.com/22713238/grand-theft-auto-trilogy-remaster-definitive-edition-release-date-platforms)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
