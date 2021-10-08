@@ -195,9 +195,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I was there,16 years ago. Stress-free life ...](http://9gag.com/gag/aNpyQ1A)
- - 🚯 [Heavy textured piece I painted in acrylic and palette knife.](http://9gag.com/gag/azM6GEp)
- - 🚯 [Think less, happy more](http://9gag.com/gag/aDdB8wO)<!-- MEMES:END -->
+ - 🚖 [Think less, happy more](http://9gag.com/gag/aDdB8wO)
+ - 🚯 [Are mobile games even legitimate games?](http://9gag.com/gag/a3EoyEe)
+ - 🚯 [Heavy textured piece I painted in acrylic and palette knife.](http://9gag.com/gag/azM6GEp)<!-- MEMES:END -->
 
 --- 
 
