@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Skyrim’s Stones Of Barenziah: Is The Reward Worth It](https://techncruncher.blogspot.com/2021/10/skyrims-stones-of-barenziah-is-reward.html)
- - [Venom: Let There Be Carnage - Which Character Are You, Based On Your Zodiac Sign?](https://techncruncher.blogspot.com/2021/10/venom-let-there-be-carnage-which.html)
- - [Netflix's Maid: The 10 Best Characters | ScreenRant](https://techncruncher.blogspot.com/2021/10/netflixs-maid-10-best-characters.html)<!-- TECH:END -->
+ - [Teachers union demands social media companies to curb misinformation, violent trends     - CNET](https://www.cnet.com/tech/teachers-union-demands-social-media-companies-to-curb-misinformation-violent-trends/#ftag=CAD590a51e)
+ - [My new favorite Twitter account just posts classic clips of SNL hosts introducing the musical guest](https://www.theverge.com/tldr/2021/10/8/22717038/twitter-snl-account-classic-clips-hosts-introducing-musical-guest)
+ - [16-million-year-old tardigrade trapped in amber a 'once in a generation' find     - CNET](https://www.cnet.com/news/16-million-year-old-tardigrade-in-amber-a-once-in-a-generation-find/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
