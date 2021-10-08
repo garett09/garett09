@@ -195,9 +195,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [30 days](http://9gag.com/gag/abVjxvX)
- - 🚯 [682 to 385](http://9gag.com/gag/aLpqGZA)
- - 🚯 [I want to post my opinion, but I don&#039;t want to spend hours defending it.](http://9gag.com/gag/a27QyOO)<!-- MEMES:END -->
+ - 🚖 [Coffee](http://9gag.com/gag/aO3699y)
+ - 🚯 [It turned out awkward](http://9gag.com/gag/aYozMRm)
+ - 🚯 [30 days](http://9gag.com/gag/abVjxvX)<!-- MEMES:END -->
 
 --- 
 
