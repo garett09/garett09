@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Watch Series 7 preorders have begun, starting at $399](https://appleinsider.com/articles/21/10/08/apple-watch-series-7-preorders-have-begun-starting-at-399?utm_medium=rss)
- - [Save $200 when you buy 2 Apple Watches, Series 7 included](https://appleinsider.com/articles/21/10/08/save-200-when-you-buy-2-apple-watches-series-7-included?utm_medium=rss)
- - [Apple Store down ahead of Apple Watch Series 7 preorders](https://appleinsider.com/articles/21/10/08/apple-store-down-ahead-of-apple-watch-series-7-preorders?utm_medium=rss)<!-- TECH:END -->
+ - [All Apple Watch Series 7 models have limited availability, slipping delivery dates](https://appleinsider.com/articles/21/10/08/all-apple-watch-series-7-models-have-limited-availability-slipping-delivery-dates?utm_medium=rss)
+ - [The Nokia T20 tablet is official with a 2K display and a low price (Updated)](https://www.androidauthority.com/nokia-t20-3035408/)
+ - [Twitch defaced with pictures of Jeff Bezos](https://www.theverge.com/2021/10/8/22716184/twitch-hack-jeff-bezos-pictures-defaced)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
