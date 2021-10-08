@@ -181,9 +181,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Comic creators celebrate Will Eisner’s enduring legacy at New York Comic Con](https://www.polygon.com/comics/22716477/will-eisner-comic-con-gene-luen-yang-the-spirit)
- - [Who gets thanked in superhero movie credits is a mystery — even to superhero creators](https://www.polygon.com/22714365/marvel-dc-credits-special-thanks-superhero-movies)
- - [Watch the Critical Role animated series’ title sequence](https://www.polygon.com/22716572/dungeons-dragons-critical-role-animated-title-sequence-amazon-nycc)<!-- GAME:END -->
+ - [Point and Click Adventure Game Creepy Tale is Available Now](https://news.xbox.com/en-us/2021/10/08/creepy-tale-available-now/)
+ - [League of Legends’ preseason additions look wild, include new dragons](https://www.polygon.com/22716694/league-of-legends-preseason-2022-hextech-chemtech-dragons)
+ - [Developers finally get Linux running on an Apple M1-powered Mac](https://www.pcgamer.com/developers-finally-get-linux-running-on-an-apple-m1-powered-mac)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
