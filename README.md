@@ -195,9 +195,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [30 days](http://9gag.com/gag/abVjxvX)
- - 🚯 [Bad doggo](http://9gag.com/gag/apNexGM)
- - 🚯 [Run](http://9gag.com/gag/a9E32bK)<!-- MEMES:END -->
+ - 🚖 [You&rsquo;re coming home and get greeted by this owl. What do you do?](http://9gag.com/gag/aNpyBeG)
+ - 🚯 [Ah yes, the sex](http://9gag.com/gag/axMpREY)
+ - 🚯 [Welcome to Russia](http://9gag.com/gag/agBRxLx)<!-- MEMES:END -->
 
 --- 
 
