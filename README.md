@@ -195,8 +195,8 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Really made me smile.](http://9gag.com/gag/aAbnmGg)
- - 🚯 [Meeting your girlfriend&rsquo;s parents is stressful](http://9gag.com/gag/ad83d9V)
+ - 🚖 [Dear god, finally](http://9gag.com/gag/a07mW9X)
+ - 🚯 [Was fired from work. But it&#039;s okay because I&#039;m still a student and has a lot on hand](http://9gag.com/gag/arMPrpV)
  - 🚯 [Attention! We are giving away a PS5! Tap post to know more!](http://9gag.com/gag/aEpeOGn)<!-- MEMES:END -->
 
 --- 
