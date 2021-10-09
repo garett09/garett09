@@ -195,8 +195,8 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Say hello to a new aerospace engineer](http://9gag.com/gag/ajm23A1)
- - 🚯 [Red light Squid light](http://9gag.com/gag/aeAXyZm)
+ - 🚖 [Red light Squid light](http://9gag.com/gag/aeAXyZm)
+ - 🚯 [What&rsquo;s your worst breakup story?](http://9gag.com/gag/av5bXen)
  - 🚯 [Switching weapons is faster than reloading!](http://9gag.com/gag/aDdBryO)<!-- MEMES:END -->
 
 --- 
