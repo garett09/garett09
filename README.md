@@ -181,9 +181,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [What games have you bought more than once, and why?](https://www.pcgamer.com/what-games-have-you-bought-more-than-once-and-why)
  - [Apple has also appealed the Epic v Apple verdict](https://www.pcgamer.com/apple-has-also-appealed-the-epic-v-apple-verdict)
- - [Star Trek: Discovery’s season 4 trailer features the anomaly and the return of David Cronenberg](https://www.polygon.com/22718261/star-trek-discovery-comic-con)
- - [Crapshoot: Virtual Springfield is a reminder of when The Simpsons was good](https://www.pcgamer.com/crapshoot-virtualspringfield)<!-- GAME:END -->
+ - [Star Trek: Discovery’s season 4 trailer features the anomaly and the return of David Cronenberg](https://www.polygon.com/22718261/star-trek-discovery-comic-con)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
