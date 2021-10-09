@@ -195,8 +195,8 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Don&#039;t mess with Grandpa](http://9gag.com/gag/a9E3Dn6)
- - 🚯 [Tell me how old are you without telling me how old you are.](http://9gag.com/gag/aV7G2Lw)
+ - 🚖 [This is fiiiine.....!](http://9gag.com/gag/ayMyYBq)
+ - 🚯 [Don&#039;t mess with Grandpa](http://9gag.com/gag/a9E3Dn6)
  - 🚯 [Attention! We are giving away a PS5! Tap post to know more!](http://9gag.com/gag/aEpeOGn)<!-- MEMES:END -->
 
 --- 
