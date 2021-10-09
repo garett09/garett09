@@ -195,9 +195,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The Karen named Robin](http://9gag.com/gag/aeAXdeB)
- - 🚯 [Was fired from work. But it&#039;s okay because I&#039;m still a student and has a lot on hand](http://9gag.com/gag/arMPrpV)
- - 🚯 [Attention! We are giving away a PS5! Tap post to know more!](http://9gag.com/gag/aEpeOGn)<!-- MEMES:END -->
+ - 🚖 [Was fired from work. But it&#039;s okay because I&#039;m still a student and has a lot on hand](http://9gag.com/gag/arMPrpV)
+ - 🚯 [Taking a photo with Pikachu](http://9gag.com/gag/aNpy2M3)
+ - 🚯 [A whole generation.](http://9gag.com/gag/aDdBPVd)<!-- MEMES:END -->
 
 --- 
 
