@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Camera shootout: Samsung Galaxy S21 Ultra vs Apple iPhone 13 Pro Max](https://www.androidauthority.com/samsung-galaxy-s21-ultra-vs-iphone-13-pro-max-camera-test-3034358/)
- - [Pluto's Atmosphere Is Dying, Showing Us How Earth May Eventually Die](https://techncruncher.blogspot.com/2021/10/plutos-atmosphere-is-dying-showing-us.html)
- - [Camera in iPhone 13 beats iPhone 12 Pro in DxOMark testing](https://appleinsider.com/articles/21/10/09/camera-in-iphone-13-beats-iphone-12-pro-in-dxomark-testing?utm_medium=rss)<!-- TECH:END -->
+ - [Pixel 6 Pro revealed in full in UK retailer’s presentation pages](https://www.androidauthority.com/pixel-6-pro-carphone-leak-3037680/)
+ - [MLB playoffs 2021: How to watch Braves vs. Brewers, Dodgers vs. Giants today on TBS     - CNET](https://www.cnet.com/tech/home-entertainment/mlb-playoffs-2021-how-to-watch-braves-vs-brewers-dodgers-vs-giants-today-on-tbs/#ftag=CAD590a51e)
+ - [Study finds screen time linked to risk of myopia in young people](https://techncruncher.blogspot.com/2021/10/study-finds-screen-time-linked-to-risk.html)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
