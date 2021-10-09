@@ -195,9 +195,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Was fired from work. But it&#039;s okay because I&#039;m still a student and has a lot on hand](http://9gag.com/gag/arMPrpV)
- - 🚯 [Taking a photo with Pikachu](http://9gag.com/gag/aNpy2M3)
- - 🚯 [A whole generation.](http://9gag.com/gag/aDdBPVd)<!-- MEMES:END -->
+ - 🚖 [Legendary](http://9gag.com/gag/av5bDqd)
+ - 🚯 [Facts or nah?](http://9gag.com/gag/a9E3VG0)
+ - 🚯 [My roommates quality closet](http://9gag.com/gag/aQoYN0w)<!-- MEMES:END -->
 
 --- 
 
