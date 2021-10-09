@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Metroid Dread's creator on life among the Metroidvanias     - CNET](https://www.cnet.com/tech/gaming/metroid-dreads-creator-on-life-among-metroidvanias/#ftag=CAD590a51e)
- - [Best wireless home security cameras on the market in 2021     - CNET](https://www.cnet.com/home/security/the-best-wireless-home-security-cameras-of-2021/#ftag=CAD590a51e)
- - [Ford Maverick, GMC Hummer EV pickup, Civic Type R and more: Roadshow's week in review     - Roadshow](https://www.cnet.com/roadshow/news/ford-maverick-gmc-hummer-ev-pickup-civic-type-r-week-in-review/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Cloudflare Isn't Liable for Sites That Hawk Counterfeits](https://www.wired.com/story/cloudflare-copyright-infringement-ruling)
+ - [How to Enable TPM and Secure Boot to Install Windows 11](https://www.wired.com/story/how-to-enable-tpm-secure-boot-for-windows-11)
+ - [Someone Hacked a US Warship Facebook Account to Stream Games](https://www.wired.com/story/navy-facebook-page-hack-russia-phishing-syniverse-hack-security-news)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
