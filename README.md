@@ -195,8 +195,8 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [My boyfriend surprised me with an amazing handmade present! Where my fellow dark souls fans at?](http://9gag.com/gag/aeAXRVB)
- - 🚯 [Cool](http://9gag.com/gag/arMPz50)
+ - 🚖 [Don&#039;t mess with Grandpa](http://9gag.com/gag/a9E3Dn6)
+ - 🚯 [An attempt at throwing a rock](http://9gag.com/gag/arMPzOX)
  - 🚯 [Attention! We are giving away a PS5! Tap post to know more!](http://9gag.com/gag/aEpeOGn)<!-- MEMES:END -->
 
 --- 
