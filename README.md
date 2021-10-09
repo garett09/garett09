@@ -181,9 +181,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Halloween Countdown: 31 days of horror](https://www.polygon.com/22702474/best-halloween-movies-tv-to-watch-stream)
- - [A few of the best horror movies currently haunting Netflix](https://www.polygon.com/22325729/best-horror-movies-netflix)
- - [9 hours in, Back 4 Blood is bloody brilliant](https://www.pcgamer.com/9-hours-in-back-4-blood-is-bloody-brilliant)<!-- GAME:END -->
+ - [The Sims 4 guide: Best Expansion, Game, and Stuff Packs](https://www.polygon.com/the-sims-4-guides/22711192/expansion-packs-best-ranked-list-game-stuff-price)
+ - [Keanu Reeves’ immortal warrior comic BRZRKR might be a ‘metaphor for his whole life’](https://www.polygon.com/comics/22717755/keanu-reeves-interview-brzrkr-comic)
+ - [The Halloween Countdown: 31 days of horror](https://www.polygon.com/22702474/best-halloween-movies-tv-to-watch-stream)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
