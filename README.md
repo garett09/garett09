@@ -181,9 +181,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Quake remaster gets big update expanding bot and mod support](https://www.pcgamer.com/quake-remaster-update)
- - [Jeff Bezos Gets Plastered All Over Twitch Post Leak](https://kotaku.com/jeff-bezos-gets-plastered-all-over-twitch-post-leak-1847830301)
- - [How the 20-year-old developer behind Choo-Choo Charles is handling the attention](https://www.pcgamer.com/choo-choo-charles-interview)<!-- GAME:END -->
+ - [9 hours in, Back 4 Blood is bloody brilliant](https://www.pcgamer.com/9-hours-in-back-4-blood-is-bloody-brilliant)
+ - [Hot Wheels Unleashed is too fast in the right kind of way](https://www.pcgamer.com/hot-wheels-unleashed-pc-steam)
+ - [Someone Fixed Guilty Gear Strive’s Godawful Loading Times](https://kotaku.com/someone-fixed-guilty-gear-strive-s-godawful-loading-tim-1847830679)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
