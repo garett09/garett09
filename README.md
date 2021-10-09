@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cloudflare Isn't Liable for Sites That Hawk Counterfeits](https://www.wired.com/story/cloudflare-copyright-infringement-ruling)
- - [How to Enable TPM and Secure Boot to Install Windows 11](https://www.wired.com/story/how-to-enable-tpm-secure-boot-for-windows-11)
- - [Someone Hacked a US Warship Facebook Account to Stream Games](https://www.wired.com/story/navy-facebook-page-hack-russia-phishing-syniverse-hack-security-news)<!-- TECH:END -->
+ - [Camera shootout: Samsung Galaxy S21 Ultra vs Apple iPhone 13 Pro Max](https://www.androidauthority.com/samsung-galaxy-s21-ultra-vs-iphone-13-pro-max-camera-test-3034358/)
+ - [Pluto's Atmosphere Is Dying, Showing Us How Earth May Eventually Die](https://techncruncher.blogspot.com/2021/10/plutos-atmosphere-is-dying-showing-us.html)
+ - [Camera in iPhone 13 beats iPhone 12 Pro in DxOMark testing](https://appleinsider.com/articles/21/10/09/camera-in-iphone-13-beats-iphone-12-pro-in-dxomark-testing?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
