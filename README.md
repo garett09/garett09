@@ -195,7 +195,7 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Dear god, finally](http://9gag.com/gag/a07mW9X)
+ - 🚖 [The Karen named Robin](http://9gag.com/gag/aeAXdeB)
  - 🚯 [Was fired from work. But it&#039;s okay because I&#039;m still a student and has a lot on hand](http://9gag.com/gag/arMPrpV)
  - 🚯 [Attention! We are giving away a PS5! Tap post to know more!](http://9gag.com/gag/aEpeOGn)<!-- MEMES:END -->
 
