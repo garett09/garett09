@@ -181,9 +181,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Damn, The Guardians Of The Galaxy Game's Soundtrack Is Great](https://kotaku.com/damn-the-guardians-of-the-galaxy-games-soundtrack-is-g-1847832726)
  - [Original Ghostbusters director Ivan Reitman haunted son Jason’s Afterlife set](https://www.polygon.com/22717921/ghostbusters-afterlife-comic-con-ivan-reitman-dad-director)
- - [Back 4 Blood Solo Mode Blocks Achievements, Stat Tracking And Progression](https://kotaku.com/back-4-blood-solo-mode-blocks-achievements-stat-tracki-1847832523)
- - [The voice of the clone soldiers did the Jawa voice for movie tickets](https://www.polygon.com/entertainment/22717822/star-wars-comic-con-dee-bradley-baker-matthew-wood)<!-- GAME:END -->
+ - [Back 4 Blood Solo Mode Blocks Achievements, Stat Tracking And Progression](https://kotaku.com/back-4-blood-solo-mode-blocks-achievements-stat-tracki-1847832523)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
