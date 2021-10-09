@@ -195,9 +195,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Anti-Vaxxers in a Zombie Apocalypse](http://9gag.com/gag/a7EjmVr)
- - 🚯 [2 Russian youtubers did a &quot;social experiment&quot; by walking through the streets of Moscow holding hands](http://9gag.com/gag/a3EopNN)
- - 🚯 [It hits hard.](http://9gag.com/gag/a8ErQ1Z)<!-- MEMES:END -->
+ - 🚖 [Is this real life?](http://9gag.com/gag/a5EL9Gy)
+ - 🚯 [F**k ea](http://9gag.com/gag/aeAXqqp)
+ - 🚯 [Switching weapons is faster than reloading!](http://9gag.com/gag/aDdBryO)<!-- MEMES:END -->
 
 --- 
 
