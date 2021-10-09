@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Profile of and interview with CEO Cristiano Amon on Qualcomm's auto industry push and the acquisition of Veoneer, as he navigates the global chip shortage (Asa Fitch/Wall Street Journal)](http://www.techmeme.com/211009/p1#a211009p1)
  - [5 best search apps for Android to find what you want](https://www.androidauthority.com/best-search-apps-android-3032785/)
- - [Filmmakers are using AI from companies like Deepdub to create foreign-language versions of their movies using samples of the original actors' voices (Ellen Gamerman/Wall Street Journal)](http://www.techmeme.com/211008/p23#a211008p23)
- - [Hulu: The 39 best TV shows to watch tonight     - CNET](https://www.cnet.com/news/hulu-the-39-best-tv-shows-to-watch-tonight/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Filmmakers are using AI from companies like Deepdub to create foreign-language versions of their movies using samples of the original actors' voices (Ellen Gamerman/Wall Street Journal)](http://www.techmeme.com/211008/p23#a211008p23)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
