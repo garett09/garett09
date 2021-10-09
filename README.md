@@ -181,9 +181,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [A few of the best horror movies currently haunting Netflix](https://www.polygon.com/22325729/best-horror-movies-netflix)
  - [9 hours in, Back 4 Blood is bloody brilliant](https://www.pcgamer.com/9-hours-in-back-4-blood-is-bloody-brilliant)
- - [Hot Wheels Unleashed is too fast in the right kind of way](https://www.pcgamer.com/hot-wheels-unleashed-pc-steam)
- - [Someone Fixed Guilty Gear Strive’s Godawful Loading Times](https://kotaku.com/someone-fixed-guilty-gear-strive-s-godawful-loading-tim-1847830679)<!-- GAME:END -->
+ - [Hot Wheels Unleashed is too fast in the right kind of way](https://www.pcgamer.com/hot-wheels-unleashed-pc-steam)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
