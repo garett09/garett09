@@ -181,9 +181,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The Halloween Countdown: 31 days of horror](https://www.polygon.com/22702474/best-halloween-movies-tv-to-watch-stream)
  - [A few of the best horror movies currently haunting Netflix](https://www.polygon.com/22325729/best-horror-movies-netflix)
- - [9 hours in, Back 4 Blood is bloody brilliant](https://www.pcgamer.com/9-hours-in-back-4-blood-is-bloody-brilliant)
- - [Hot Wheels Unleashed is too fast in the right kind of way](https://www.pcgamer.com/hot-wheels-unleashed-pc-steam)<!-- GAME:END -->
+ - [9 hours in, Back 4 Blood is bloody brilliant](https://www.pcgamer.com/9-hours-in-back-4-blood-is-bloody-brilliant)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
