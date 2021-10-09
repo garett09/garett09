@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best and worst TV revivals: We rank some of the biggest titles](https://www.androidauthority.com/best-tv-revivals-worst-tv-revivals-3034771/)
- - [A deep dive into iPhone 13 Pro's macro mode, including how it works and the shortcuts Apple took to make it work seamlessly (Ben Sandofsky/Lux)](http://www.techmeme.com/211009/p2#a211009p2)
- - [Weekly Authority Edition #163](https://www.androidauthority.com/newsletters/weekly-authority-edition-163/)<!-- TECH:END -->
+ - [Metroid Dread's creator on life among the Metroidvanias     - CNET](https://www.cnet.com/tech/gaming/metroid-dreads-creator-on-life-among-metroidvanias/#ftag=CAD590a51e)
+ - [Best wireless home security cameras on the market in 2021     - CNET](https://www.cnet.com/home/security/the-best-wireless-home-security-cameras-of-2021/#ftag=CAD590a51e)
+ - [Ford Maverick, GMC Hummer EV pickup, Civic Type R and more: Roadshow's week in review     - Roadshow](https://www.cnet.com/roadshow/news/ford-maverick-gmc-hummer-ev-pickup-civic-type-r-week-in-review/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
