@@ -195,8 +195,8 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Some guy uploads a picture of &quot;supernatural Lucifer&quot; Calling him the best Lucifer? Here you go the best Lucifer. Constantine.](http://9gag.com/gag/a8ErKD3)
- - 🚯 [How can dogs love us](http://9gag.com/gag/aAbnO0E)
+ - 🚖 [My boyfriend surprised me with an amazing handmade present! Where my fellow dark souls fans at?](http://9gag.com/gag/aeAXRVB)
+ - 🚯 [Cool](http://9gag.com/gag/arMPz50)
  - 🚯 [Attention! We are giving away a PS5! Tap post to know more!](http://9gag.com/gag/aEpeOGn)<!-- MEMES:END -->
 
 --- 
