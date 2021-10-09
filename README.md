@@ -195,8 +195,8 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Legendary](http://9gag.com/gag/av5bDqd)
- - 🚯 [Facts or nah?](http://9gag.com/gag/a9E3VG0)
+ - 🚖 [Taking a photo with Pikachu](http://9gag.com/gag/aNpy2M3)
+ - 🚯 [Red light Squid light](http://9gag.com/gag/aeAXyZm)
  - 🚯 [My roommates quality closet](http://9gag.com/gag/aQoYN0w)<!-- MEMES:END -->
 
 --- 
