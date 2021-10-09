@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pixel 6 Pro revealed in full in UK retailer’s presentation pages](https://www.androidauthority.com/pixel-6-pro-carphone-leak-3037680/)
- - [MLB playoffs 2021: How to watch Braves vs. Brewers, Dodgers vs. Giants today on TBS     - CNET](https://www.cnet.com/tech/home-entertainment/mlb-playoffs-2021-how-to-watch-braves-vs-brewers-dodgers-vs-giants-today-on-tbs/#ftag=CAD590a51e)
- - [Study finds screen time linked to risk of myopia in young people](https://techncruncher.blogspot.com/2021/10/study-finds-screen-time-linked-to-risk.html)<!-- TECH:END -->
+ - [Elon Musk cites ‘last minute concerns’ in delay of Tesla software rollout](https://techncruncher.blogspot.com/2021/10/elon-musk-cites-last-minute-concerns-in.html)
+ - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-401-3036785/)
+ - [[Thread] Google's staff engineering lead for Apple's platforms says Google stopped using Material Design for iOS apps after almost a decade, in favor of UIKit (Jeff Verkoeyen/@featherless)](http://www.techmeme.com/211009/p5#a211009p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
