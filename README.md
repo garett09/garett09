@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk cites ‘last minute concerns’ in delay of Tesla software rollout](https://techncruncher.blogspot.com/2021/10/elon-musk-cites-last-minute-concerns-in.html)
- - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-401-3036785/)
- - [[Thread] Google's staff engineering lead for Apple's platforms says Google stopped using Material Design for iOS apps after almost a decade, in favor of UIKit (Jeff Verkoeyen/@featherless)](http://www.techmeme.com/211009/p5#a211009p5)<!-- TECH:END -->
+ - [Pokemon Go October 2021 Community Day: Shiny Duskull, event move and Timed Research     - CNET](https://www.cnet.com/news/pokemon-go-october-community-day-duskull-event-move-and-start-time/#ftag=CAD590a51e)
+ - [This is the Apple Watch you should buy in 2021](https://appleinsider.com/articles/21/10/09/this-is-the-apple-watch-you-should-buy-in-2021?utm_medium=rss)
+ - [The best HP laptop deals of October 2021](https://www.androidauthority.com/hp-laptop-deals-1123504/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
