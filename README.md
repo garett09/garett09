@@ -196,7 +196,7 @@ Windows                  8 hrs 4 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [An attempt at throwing a rock](http://9gag.com/gag/arMPzOX)
- - 🚯 [Well ok then.](http://9gag.com/gag/aRXxOYA)
+ - 🚯 [Is this a weapon sir?](http://9gag.com/gag/a8ErznQ)
  - 🚯 [Attention! We are giving away a PS5! Tap post to know more!](http://9gag.com/gag/aEpeOGn)<!-- MEMES:END -->
 
 --- 
