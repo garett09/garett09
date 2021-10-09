@@ -195,8 +195,8 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [An attempt at throwing a rock](http://9gag.com/gag/arMPzOX)
- - 🚯 [Is this a weapon sir?](http://9gag.com/gag/a8ErznQ)
+ - 🚖 [How to Dad: If that boy touches my daughter...](http://9gag.com/gag/aP3OnYV)
+ - 🚯 [Japan](http://9gag.com/gag/aB2DopA)
  - 🚯 [Attention! We are giving away a PS5! Tap post to know more!](http://9gag.com/gag/aEpeOGn)<!-- MEMES:END -->
 
 --- 
