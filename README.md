@@ -181,9 +181,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The voice of the clone soldiers did the Jawa voice for movie tickets](https://www.polygon.com/entertainment/22717822/star-wars-comic-con-dee-bradley-baker-matthew-wood)
- - [Far Cry 6: The Kotaku Review](https://kotaku.com/far-cry-6-the-kotaku-review-1847830444)
- - [The Sims 4 guide: Best Expansion, Game, and Stuff Packs](https://www.polygon.com/the-sims-4-guides/22711192/expansion-packs-best-ranked-list-game-stuff-price)<!-- GAME:END -->
+ - [Original Ghostbusters director Ivan Reitman haunted son Jason’s Afterlife set](https://www.polygon.com/22717921/ghostbusters-afterlife-comic-con-ivan-reitman-dad-director)
+ - [Back 4 Blood Solo Mode Blocks Achievements, Stat Tracking And Progression](https://kotaku.com/back-4-blood-solo-mode-blocks-achievements-stat-tracki-1847832523)
+ - [The voice of the clone soldiers did the Jawa voice for movie tickets](https://www.polygon.com/entertainment/22717822/star-wars-comic-con-dee-bradley-baker-matthew-wood)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
