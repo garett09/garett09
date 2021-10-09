@@ -181,9 +181,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Hitman GOTY Edition Removed From GOG Over Online DRM](https://kotaku.com/hitman-goty-edition-removed-from-gog-over-online-drm-1847833140)
- - [Outlander season 6 to introduce the Christie family, causing some conflict](https://www.polygon.com/22718122/outlander-comic-con-christie-family)
- - [My Hero Academia’s third movie was a challenge to translate into English](https://www.polygon.com/22718048/my-hero-academia-world-heroes-mission-comic-con)<!-- GAME:END -->
+ - [GOG says they 'shouldn't have released' Hitman on their store, removes it](https://www.pcgamer.com/gog-says-they-shouldnt-have-released-hitman-on-their-store-removes-it)
+ - [New World server transfers delayed due to 'edge cases'](https://www.pcgamer.com/new-world-server-transfers-delayed-due-to-edge-cases)
+ - [Hitman GOTY Edition Removed From GOG Over Online DRM](https://kotaku.com/hitman-goty-edition-removed-from-gog-over-online-drm-1847833140)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
