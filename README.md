@@ -181,9 +181,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [GOG says they 'shouldn't have released' Hitman on their store, removes it](https://www.pcgamer.com/gog-says-they-shouldnt-have-released-hitman-on-their-store-removes-it)
- - [New World server transfers delayed due to 'edge cases'](https://www.pcgamer.com/new-world-server-transfers-delayed-due-to-edge-cases)
- - [Hitman GOTY Edition Removed From GOG Over Online DRM](https://kotaku.com/hitman-goty-edition-removed-from-gog-over-online-drm-1847833140)<!-- GAME:END -->
+ - [Apple has also appealed the Epic v Apple verdict](https://www.pcgamer.com/apple-has-also-appealed-the-epic-v-apple-verdict)
+ - [Star Trek: Discovery’s season 4 trailer features the anomaly and the return of David Cronenberg](https://www.polygon.com/22718261/star-trek-discovery-comic-con)
+ - [Crapshoot: Virtual Springfield is a reminder of when The Simpsons was good](https://www.pcgamer.com/crapshoot-virtualspringfield)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
