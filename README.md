@@ -195,8 +195,8 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How to Dad: If that boy touches my daughter...](http://9gag.com/gag/aP3OnYV)
- - 🚯 [Japan](http://9gag.com/gag/aB2DopA)
+ - 🚖 [It&rsquo;s that time of year again](http://9gag.com/gag/a3Eon9N)
+ - 🚯 [Dave Chappelle ladies and gentlemen](http://9gag.com/gag/aoMBDL3)
  - 🚯 [Attention! We are giving away a PS5! Tap post to know more!](http://9gag.com/gag/aEpeOGn)<!-- MEMES:END -->
 
 --- 
