@@ -195,8 +195,8 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Facts or nah?](http://9gag.com/gag/a9E3VG0)
- - 🚯 [Really made me smile.](http://9gag.com/gag/aAbnmGg)
+ - 🚖 [Really made me smile.](http://9gag.com/gag/aAbnmGg)
+ - 🚯 [Meeting your girlfriend&rsquo;s parents is stressful](http://9gag.com/gag/ad83d9V)
  - 🚯 [Attention! We are giving away a PS5! Tap post to know more!](http://9gag.com/gag/aEpeOGn)<!-- MEMES:END -->
 
 --- 
