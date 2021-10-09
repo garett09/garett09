@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Leaked marketing site: Pixel 6 phones will include a 50MP primary camera, with 12MP ultrawide and 48MP 4x telephoto lenses on Pro, and a Magic Eraser feature (Ben Schoon/9to5Google)](http://www.techmeme.com/211009/p7#a211009p7)
  - [ZTE Blade X1 review: A hidden but flawed gem for Visible users](https://www.androidauthority.com/zte-blade-x1-review-2748087/)
- - [Boeing Starliner test flight delayed until 2022](https://www.theverge.com/2021/10/9/22718002/boeing-starliner-test-flight-delayed-nasa-2022)
- - [Pixel 6 Pro revealed in full via UK retailer, camera features and more detailed](https://techncruncher.blogspot.com/2021/10/pixel-6-pro-revealed-in-full-via-uk.html)<!-- TECH:END -->
+ - [Boeing Starliner test flight delayed until 2022](https://www.theverge.com/2021/10/9/22718002/boeing-starliner-test-flight-delayed-nasa-2022)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
