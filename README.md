@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pokemon Go October 2021 Community Day: Shiny Duskull, event move and Timed Research     - CNET](https://www.cnet.com/news/pokemon-go-october-community-day-duskull-event-move-and-start-time/#ftag=CAD590a51e)
- - [This is the Apple Watch you should buy in 2021](https://appleinsider.com/articles/21/10/09/this-is-the-apple-watch-you-should-buy-in-2021?utm_medium=rss)
- - [The best HP laptop deals of October 2021](https://www.androidauthority.com/hp-laptop-deals-1123504/)<!-- TECH:END -->
+ - [ZTE Blade X1 review: A hidden but flawed gem for Visible users](https://www.androidauthority.com/zte-blade-x1-review-2748087/)
+ - [Boeing Starliner test flight delayed until 2022](https://www.theverge.com/2021/10/9/22718002/boeing-starliner-test-flight-delayed-nasa-2022)
+ - [Pixel 6 Pro revealed in full via UK retailer, camera features and more detailed](https://techncruncher.blogspot.com/2021/10/pixel-6-pro-revealed-in-full-via-uk.html)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
