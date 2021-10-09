@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Roundup: best monitors for Apple's M1 MacBook Pro, Mac mini, MacBook Air](https://appleinsider.com/articles/21/01/22/roundup-best-monitors-for-apples-m1-macbook-pro-mac-mini-macbook-air?utm_medium=rss)
- - [Apple Watch Series 7 orders prepare to ship for Oct 15 release](https://appleinsider.com/articles/21/10/09/apple-watch-series-7-orders-prepare-to-ship-for-oct-15-release?utm_medium=rss)
- - [NASA Rover Captures Breathtaking Mars Landscape Photo You Can't Miss](https://techncruncher.blogspot.com/2021/10/nasa-rover-captures-breathtaking-mars.html)<!-- TECH:END -->
+ - [Nomad iPhone 13 case review: Protection that hides a nifty secret](https://appleinsider.com/articles/21/10/09/nomad-iphone-13-case-review-protection-that-hides-a-nifty-secret?utm_medium=rss)
+ - [The best period tracker apps, from Flo to Clue and more](https://www.androidauthority.com/best-period-tracker-apps-2746635/)
+ - [TSMC plans new chip factory with Sony in western Japan](https://appleinsider.com/articles/21/10/09/tsmc-plans-new-chip-factory-with-sony-in-western-japan?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
