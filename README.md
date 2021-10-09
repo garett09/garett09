@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple's Australian customers get 7 days of AppleCare+ for free](https://appleinsider.com/articles/21/10/08/apples-australian-customers-get-7-days-of-applecare-for-free?utm_medium=rss)
- - [Apple stops signing iOS 15 following release of iOS 15.0.1](https://appleinsider.com/articles/21/10/08/apple-stops-signing-ios-15-following-release-of-ios-1501?utm_medium=rss)
- - [Former Apple employee accused of leaking trade secrets under criminal investigation](https://appleinsider.com/articles/21/10/08/former-apple-employee-accused-of-leaking-trade-secrets-under-criminal-investigation?utm_medium=rss)<!-- TECH:END -->
+ - [Filmmakers are using AI from companies like Deepdub to create foreign-language versions of their movies using samples of the original actors' voices (Ellen Gamerman/Wall Street Journal)](http://www.techmeme.com/211008/p23#a211008p23)
+ - [Hulu: The 39 best TV shows to watch tonight     - CNET](https://www.cnet.com/news/hulu-the-39-best-tv-shows-to-watch-tonight/#ftag=CAD590a51e)
+ - [Apple's Australian customers get 7 days of AppleCare+ for free](https://appleinsider.com/articles/21/10/08/apples-australian-customers-get-7-days-of-applecare-for-free?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
