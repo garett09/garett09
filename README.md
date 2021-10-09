@@ -181,9 +181,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Damn, The Guardians Of The Galaxy Game's Soundtrack Is Great](https://kotaku.com/damn-the-guardians-of-the-galaxy-games-soundtrack-is-g-1847832726)
- - [Original Ghostbusters director Ivan Reitman haunted son Jason’s Afterlife set](https://www.polygon.com/22717921/ghostbusters-afterlife-comic-con-ivan-reitman-dad-director)
- - [Back 4 Blood Solo Mode Blocks Achievements, Stat Tracking And Progression](https://kotaku.com/back-4-blood-solo-mode-blocks-achievements-stat-tracki-1847832523)<!-- GAME:END -->
+ - [My Hero Academia’s third movie was a challenge to translate into English](https://www.polygon.com/22718048/my-hero-academia-world-heroes-mission-comic-con)
+ - [Acclaimed comic series Saga finally returns this January](https://www.polygon.com/comics/2021/10/9/22717122/saga-comic-55-return-date-brian-k-vaughan-fiona-staples)
+ - [Damn, The Guardians Of The Galaxy Game's Soundtrack Is Great](https://kotaku.com/damn-the-guardians-of-the-galaxy-games-soundtrack-is-g-1847832726)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
