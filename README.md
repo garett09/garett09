@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tyson Fury vs. Deontay Wilder: Start time, how to watch, full fight card     - CNET](https://www.cnet.com/news/tyson-fury-vs-deontay-wilder-start-time-how-to-watch-full-fight-card/#ftag=CAD590a51e)
- - [Motorola MH7020 review: Mesh-ready Wi-Fi router favoring function over form](https://www.androidauthority.com/motorola-mh7020-router-review-3030699/)
- - [Profile of and interview with CEO Cristiano Amon on Qualcomm's auto industry push and the acquisition of Veoneer, as he navigates the global chip shortage (Asa Fitch/Wall Street Journal)](http://www.techmeme.com/211009/p1#a211009p1)<!-- TECH:END -->
+ - [The best and worst TV revivals: We rank some of the biggest titles](https://www.androidauthority.com/best-tv-revivals-worst-tv-revivals-3034771/)
+ - [A deep dive into iPhone 13 Pro's macro mode, including how it works and the shortcuts Apple took to make it work seamlessly (Ben Sandofsky/Lux)](http://www.techmeme.com/211009/p2#a211009p2)
+ - [Weekly Authority Edition #163](https://www.androidauthority.com/newsletters/weekly-authority-edition-163/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
