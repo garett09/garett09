@@ -181,9 +181,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [My Hero Academia’s third movie was a challenge to translate into English](https://www.polygon.com/22718048/my-hero-academia-world-heroes-mission-comic-con)
- - [Acclaimed comic series Saga finally returns this January](https://www.polygon.com/comics/2021/10/9/22717122/saga-comic-55-return-date-brian-k-vaughan-fiona-staples)
- - [Damn, The Guardians Of The Galaxy Game's Soundtrack Is Great](https://kotaku.com/damn-the-guardians-of-the-galaxy-games-soundtrack-is-g-1847832726)<!-- GAME:END -->
+ - [Hitman GOTY Edition Removed From GOG Over Online DRM](https://kotaku.com/hitman-goty-edition-removed-from-gog-over-online-drm-1847833140)
+ - [Outlander season 6 to introduce the Christie family, causing some conflict](https://www.polygon.com/22718122/outlander-comic-con-christie-family)
+ - [My Hero Academia’s third movie was a challenge to translate into English](https://www.polygon.com/22718048/my-hero-academia-world-heroes-mission-comic-con)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
