@@ -195,9 +195,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Taking a photo with Pikachu](http://9gag.com/gag/aNpy2M3)
- - 🚯 [Red light Squid light](http://9gag.com/gag/aeAXyZm)
- - 🚯 [My roommates quality closet](http://9gag.com/gag/aQoYN0w)<!-- MEMES:END -->
+ - 🚖 [What are the odds...](http://9gag.com/gag/a4EMm7A)
+ - 🚯 [My roommates quality closet](http://9gag.com/gag/aQoYN0w)
+ - 🚯 [I&#039;m on his side you guys](http://9gag.com/gag/aeAXP85)<!-- MEMES:END -->
 
 --- 
 
