@@ -181,7 +181,7 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The original voice of the Jawas in Star Wars was paid in movie tickets](https://www.polygon.com/entertainment/22717822/star-wars-comic-con-dee-bradley-baker-matthew-wood)
+ - [The voice of the clone soldiers did the Jawa voice for movie tickets](https://www.polygon.com/entertainment/22717822/star-wars-comic-con-dee-bradley-baker-matthew-wood)
  - [Far Cry 6: The Kotaku Review](https://kotaku.com/far-cry-6-the-kotaku-review-1847830444)
  - [The Sims 4 guide: Best Expansion, Game, and Stuff Packs](https://www.polygon.com/the-sims-4-guides/22711192/expansion-packs-best-ranked-list-game-stuff-price)<!-- GAME:END -->
 
