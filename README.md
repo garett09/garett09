@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [DCEU: Every Hero Darkseid Has Defeated (Including Snyder's Knightmare)](https://techncruncher.blogspot.com/2021/10/dceu-every-hero-darkseid-has-defeated.html)
- - [Why is Marvel Pretending Its Heroes Don't Know Each Other?](https://techncruncher.blogspot.com/2021/10/why-is-marvel-pretending-its-heroes.html)
- - [90 Day Fiancé: Tom Brooks Shares Instagram Tribute To New Girlfriend](https://techncruncher.blogspot.com/2021/10/90-day-fiance-tom-brooks-shares.html)<!-- TECH:END -->
+ - [Roundup: best monitors for Apple's M1 MacBook Pro, Mac mini, MacBook Air](https://appleinsider.com/articles/21/01/22/roundup-best-monitors-for-apples-m1-macbook-pro-mac-mini-macbook-air?utm_medium=rss)
+ - [Apple Watch Series 7 orders prepare to ship for Oct 15 release](https://appleinsider.com/articles/21/10/09/apple-watch-series-7-orders-prepare-to-ship-for-oct-15-release?utm_medium=rss)
+ - [NASA Rover Captures Breathtaking Mars Landscape Photo You Can't Miss](https://techncruncher.blogspot.com/2021/10/nasa-rover-captures-breathtaking-mars.html)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
