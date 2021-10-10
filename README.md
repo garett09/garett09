@@ -195,9 +195,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Bicyclists...](http://9gag.com/gag/ajm24n1)
- - 🚯 [Japanese Rolled Omelette](http://9gag.com/gag/aAbn58o)
- - 🚯 [And I don&#039;t even have kids](http://9gag.com/gag/aYoz0yv)<!-- MEMES:END -->
+ - 🚖 [So not every veteran is good?](http://9gag.com/gag/ayMyKmr)
+ - 🚯 [And I don&#039;t even have kids](http://9gag.com/gag/aYoz0yv)
+ - 🚯 [Who reads tittles?](http://9gag.com/gag/aYozXj7)<!-- MEMES:END -->
 
 --- 
 
