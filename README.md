@@ -195,9 +195,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [See you in hell!](http://9gag.com/gag/aO36Edr)
- - 🚯 [Shit, I&#039;m old now](http://9gag.com/gag/aQoYK0K)
- - 🚯 [Context: the race is not official and These morons occupy half of the road.](http://9gag.com/gag/abVjLWr)<!-- MEMES:END -->
+ - 🚖 [Shit, I&#039;m old now](http://9gag.com/gag/aQoYK0K)
+ - 🚯 [Saturday night fever](http://9gag.com/gag/aWjVAZZ)
+ - 🚯 [See you in hell!](http://9gag.com/gag/aO36Edr)<!-- MEMES:END -->
 
 --- 
 
