@@ -195,9 +195,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Sound on](http://9gag.com/gag/a8ErxwV)
- - 🚯 [Family Guy at its finest](http://9gag.com/gag/av5bKrd)
- - 🚯 [It&#039;s just too much to bear](http://9gag.com/gag/aV7G6jv)<!-- MEMES:END -->
+ - 🚖 [It&#039;s just too much to bear](http://9gag.com/gag/aV7G6jv)
+ - 🚯 [-How fast were you going? -Like 30 -Like 30 what? -Speed](http://9gag.com/gag/aB2DAYN)
+ - 🚯 [Metal Gear Solid was my favourite game on the PS1 and for you?](http://9gag.com/gag/aRXxqq5)<!-- MEMES:END -->
 
 --- 
 
