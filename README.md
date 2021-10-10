@@ -195,9 +195,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [You dare to disappoint me my child?](http://9gag.com/gag/a8Er9Be)
- - 🚯 [OH No!! He&#039;s Touching me!!!](http://9gag.com/gag/axMp8E2)
- - 🚯 [Something to fill the void in your heart](http://9gag.com/gag/aB2DMoD)<!-- MEMES:END -->
+ - 🚖 [Shit, I&#039;m old now](http://9gag.com/gag/aQoYK0K)
+ - 🚯 [Incredible bike infrastructure in Delft Netherlands.](http://9gag.com/gag/apNenrn)
+ - 🚯 [Anti-Vaxxers in a Zombie Apocalypse](http://9gag.com/gag/a7EjmVr)<!-- MEMES:END -->
 
 --- 
 
