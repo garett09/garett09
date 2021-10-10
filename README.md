@@ -195,9 +195,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Guy in Rome takes the corner a little too fast.](http://9gag.com/gag/aZ09Y7W)
- - 🚯 [And I don&#039;t even have kids](http://9gag.com/gag/aYoz0yv)
- - 🚯 [Me every morning knowing that I have to do a 4 hours commute back and forth to work. Just f**king kill me.](http://9gag.com/gag/aMKp5ex)<!-- MEMES:END -->
+ - 🚖 [Harrison Ford posed with a group of cosplayers in Italy while filming scenes for Indiana Jones 5. Also respect for the guy who cosplayed Indy&#039;s dad. RIP Sean Connery](http://9gag.com/gag/ad83w1V)
+ - 🚯 [It&#039;s this season again](http://9gag.com/gag/aNpyb3v)
+ - 🚯 [Bicyclists...](http://9gag.com/gag/ajm24n1)<!-- MEMES:END -->
 
 --- 
 
