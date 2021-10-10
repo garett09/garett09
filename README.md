@@ -196,8 +196,8 @@ Windows                  8 hrs 4 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Establishing battlefield control...standby](http://9gag.com/gag/a27Qg0Y)
- - 🚯 [Harrison Ford posed with a group of cosplayers in Italy while filming scenes for Indiana Jones 5. Also respect for the guy who cosplayed Indy&#039;s dad. RIP Sean Connery](http://9gag.com/gag/ad83w1V)
- - 🚯 [I have a whole load of little demons...](http://9gag.com/gag/awMq2br)<!-- MEMES:END -->
+ - 🚯 [I have a whole load of little demons...](http://9gag.com/gag/awMq2br)
+ - 🚯 [Too cool to be robbed](http://9gag.com/gag/aGpPvbZ)<!-- MEMES:END -->
 
 --- 
 
