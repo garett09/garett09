@@ -195,9 +195,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Bicyclists...](http://9gag.com/gag/ajm24n1)
- - 🚯 [The monkey that brought the electrocuted monkey back to life by applying first aid.](http://9gag.com/gag/awMqprQ)
- - 🚯 [Me, directing my train through the mist.](http://9gag.com/gag/aeAXwpW)<!-- MEMES:END -->
+ - 🚖 [Guy in Rome takes the corner a little too fast.](http://9gag.com/gag/aZ09Y7W)
+ - 🚯 [And I don&#039;t even have kids](http://9gag.com/gag/aYoz0yv)
+ - 🚯 [Me every morning knowing that I have to do a 4 hours commute back and forth to work. Just f**king kill me.](http://9gag.com/gag/aMKp5ex)<!-- MEMES:END -->
 
 --- 
 
