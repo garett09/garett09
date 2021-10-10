@@ -181,9 +181,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Looks like New World players are getting each other banned to win wars](https://www.pcgamer.com/looks-like-new-world-players-are-getting-each-other-banned-to-win-wars)
  - [What's With All Those Helicopters On GTA Covers?](https://kotaku.com/whats-with-all-those-helicopters-on-gta-covers-1847835507)
- - [One Of Us Is Lying is Gossip Girl meets The Breakfast Club](https://www.polygon.com/22719351/one-of-us-is-lying-peacock-comic-con)
- - [4400 uses time travel and super powers to explore modern societal issues](https://www.polygon.com/22719273/4400-comic-con-cw)<!-- GAME:END -->
+ - [One Of Us Is Lying is Gossip Girl meets The Breakfast Club](https://www.polygon.com/22719351/one-of-us-is-lying-peacock-comic-con)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
