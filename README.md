@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Instagram to introduce “take a break” feature and “nudge” teens away from harmful content](https://www.theverge.com/2021/10/10/22719545/instagram-introduce-take-a-break-nudge-teens-harmful-content-facebook)
- - [PDQ expands into iOS and macOS device management with SimpleMDM acquisition](https://appleinsider.com/articles/21/10/10/pdq-expands-into-ios-and-macos-device-management-with-simplemdm-acquisition?utm_medium=rss)
- - [This is the Apple Watch you should buy in 2021](https://appleinsider.com/articles/21/10/09/this-is-the-apple-watch-you-should-buy-in-2021?utm_medium=rss)<!-- TECH:END -->
+ - [Shang-Chi Passes $400M at Global Box Office Even Without China](https://techncruncher.blogspot.com/2021/10/shang-chi-passes-400m-at-global-box.html)
+ - [xXx 4 Should Borrow From Fast & Furious And Introduce Xander Cage's Family](https://techncruncher.blogspot.com/2021/10/xxx-4-should-borrow-from-fast-furious.html)
+ - [Astronomers 'Stumped' Over Images Of Bizarre Double Galaxy](https://techncruncher.blogspot.com/2021/10/astronomers-stumped-over-images-of.html)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
