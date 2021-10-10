@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [MindMaze, which makes VR software to help patients regain motion after strokes or traumatic brain injuries, raises $125M, source says at a $1.5B valuation (Bloomberg)](http://www.techmeme.com/211010/p3#a211010p3)
- - [PDQ expands into iOS and macOS device management with SimpleMDM acquisition](https://appleinsider.com/articles/21/10/10/pdq-expands-into-ios-and-macos-device-management-with-simplemdm-acquisition?utm_medium=rss)
- - [What are Google Mobile Services (GMS)?](https://www.androidauthority.com/google-mobile-services-gms-3025963/)<!-- TECH:END -->
+ - [Netflix: 41 of the best movies to stream tonight     - CNET](https://www.cnet.com/news/netflix-41-of-the-best-movies-to-stream-tonight/#ftag=CAD590a51e)
+ - [Netflix: 53 of the best TV shows to watch tonight     - CNET](https://www.cnet.com/news/netflix-53-of-the-best-tv-shows-to-watch-tonight/#ftag=CAD590a51e)
+ - [Amazon Prime Video: 26 best movies to watch tonight     - CNET](https://www.cnet.com/news/amazon-prime-video-26-best-movies-to-watch-tonight/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
