@@ -195,9 +195,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [We literally hit perfection. What happened?](http://9gag.com/gag/aoMBoWe)
- - 🚯 [You dare to disappoint me my child?](http://9gag.com/gag/a8Er9Be)
- - 🚯 [Vr Hands](http://9gag.com/gag/aGpPqWn)<!-- MEMES:END -->
+ - 🚖 [Me, directing my train through the mist.](http://9gag.com/gag/aeAXwpW)
+ - 🚯 [I have a whole load of little demons...](http://9gag.com/gag/awMq2br)
+ - 🚯 [Me every morning knowing that I have to do a 4 hours commute back and forth to work. Just f**king kill me.](http://9gag.com/gag/aMKp5ex)<!-- MEMES:END -->
 
 --- 
 
