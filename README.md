@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Esper, a DevOps service that enables companies to deploy and manage fleets of Android-based IoT devices, raises $60M Series C, following $30M Series B in May (Taylor Soper/GeekWire)](http://www.techmeme.com/211009/p9#a211009p9)
  - [This is the Apple Watch you should buy in 2021](https://appleinsider.com/articles/21/10/09/this-is-the-apple-watch-you-should-buy-in-2021?utm_medium=rss)
- - [Apple Watch Series 7 orders prepare to ship for Oct 15 release](https://appleinsider.com/articles/21/10/09/apple-watch-series-7-orders-prepare-to-ship-for-oct-15-release?utm_medium=rss)
- - [Boeing Starliner test flight to ISS pushed back to 2022     - CNET](https://www.cnet.com/news/boeing-starliner-test-flight-to-iss-pushed-back-to-2022/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple Watch Series 7 orders prepare to ship for Oct 15 release](https://appleinsider.com/articles/21/10/09/apple-watch-series-7-orders-prepare-to-ship-for-oct-15-release?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
