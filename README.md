@@ -181,9 +181,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The women of The Walking Dead universe love Princess as much as you](https://www.polygon.com/22719738/the-walking-dead-cast-princess-new-york-comic-con)
  - [Intellivision Is Selling NFT Games For A Console That Ain't Even Out Yet](https://kotaku.com/intellivision-is-selling-nft-games-for-a-console-that-a-1847836174)
- - [Star Trek: Prodigy will explain the franchise to total newcomers](https://www.polygon.com/22719651/star-trek-discovery-comic-con-janeway)
- - [Looks like New World players are getting each other banned to win wars](https://www.pcgamer.com/looks-like-new-world-players-are-getting-each-other-banned-to-win-wars)<!-- GAME:END -->
+ - [Star Trek: Prodigy will explain the franchise to total newcomers](https://www.polygon.com/22719651/star-trek-discovery-comic-con-janeway)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
