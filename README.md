@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [It took decades to bring meaningful government regulation for Big Tobacco and experts say it could take an equally long time to regulate Big Tech (Cecilia Kang/New York Times)](http://www.techmeme.com/211010/p2#a211010p2)
  - [Brazil-based Favo, a social commerce startup focused on groceries, raises $26.5M Series A led by Tiger Global, bringing its total raised to $37M (Christine Hall/TechCrunch)](http://www.techmeme.com/211010/p1#a211010p1)
- - [Tyson Fury vs. Deontay Wilder 3: Start time, how to watch or stream online     - CNET](https://www.cnet.com/news/tyson-fury-vs-deontay-wilder-3-start-time-how-to-watch-or-stream-online/#ftag=CAD590a51e)
- - [Esper, a DevOps service that enables companies to deploy and manage fleets of Android-based IoT devices, raises $60M Series C, following $30M Series B in May (Taylor Soper/GeekWire)](http://www.techmeme.com/211009/p9#a211009p9)<!-- TECH:END -->
+ - [Tyson Fury vs. Deontay Wilder 3: Start time, how to watch or stream online     - CNET](https://www.cnet.com/news/tyson-fury-vs-deontay-wilder-3-start-time-how-to-watch-or-stream-online/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
