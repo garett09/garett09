@@ -181,9 +181,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [EEK3 2021 was another treasure trove of indie horror games](https://www.pcgamer.com/eek3-2021-was-another-treasure-trove-of-indie-horror-games)
  - [Watch Metroid Dread running on PC thanks to emulators](https://www.pcgamer.com/watch-metroid-dread-running-on-pc-thanks-to-emulators)
- - [What games have you bought more than once, and why?](https://www.pcgamer.com/what-games-have-you-bought-more-than-once-and-why)
- - [Apple has also appealed the Epic v Apple verdict](https://www.pcgamer.com/apple-has-also-appealed-the-epic-v-apple-verdict)<!-- GAME:END -->
+ - [What games have you bought more than once, and why?](https://www.pcgamer.com/what-games-have-you-bought-more-than-once-and-why)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
