@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [UK takes on Elon Musk in the broadband space race](https://techncruncher.blogspot.com/2021/10/uk-takes-on-elon-musk-in-broadband.html)
- - [Neuroscientists Claim to Have Pinpointed The Brain States Unique to 'Team Flow'](https://techncruncher.blogspot.com/2021/10/neuroscientists-claim-to-have.html)
- - [GTA 3, Vice City and San Andreas fans are using Steam reviews to encourage people to buy the originals before Rockstar delists them next week](https://techncruncher.blogspot.com/2021/10/gta-3-vice-city-and-san-andreas-fans.html)<!-- TECH:END -->
+ - [What are Google Mobile Services (GMS)?](https://www.androidauthority.com/google-mobile-services-gms-3025963/)
+ - [How to change your default browser in Windows 11](https://www.theverge.com/22714629/windows-11-microsoft-browser-edge-chrome-firefox)
+ - [Best Deals Oct. 10: $80 Powerbeats, Playmobil Mystery Machine, and more!](https://appleinsider.com/articles/21/10/10/best-deals-oct-10-80-powerbeats-playmobil-mystery-machine-and-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
