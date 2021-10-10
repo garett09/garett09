@@ -195,9 +195,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Shit, I&#039;m old now](http://9gag.com/gag/aQoYK0K)
- - 🚯 [Saturday night fever](http://9gag.com/gag/aWjVAZZ)
- - 🚯 [See you in hell!](http://9gag.com/gag/aO36Edr)<!-- MEMES:END -->
+ - 🚖 [We literally hit perfection. What happened?](http://9gag.com/gag/aoMBoWe)
+ - 🚯 [Something to fill the void in your heart](http://9gag.com/gag/aB2DMoD)
+ - 🚯 [You dare to disappoint me my child?](http://9gag.com/gag/a8Er9Be)<!-- MEMES:END -->
 
 --- 
 
