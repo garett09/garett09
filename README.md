@@ -195,9 +195,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Is this real life?](http://9gag.com/gag/a5EL9Gy)
- - 🚯 [F**k ea](http://9gag.com/gag/aeAXqqp)
- - 🚯 [Switching weapons is faster than reloading!](http://9gag.com/gag/aDdBryO)<!-- MEMES:END -->
+ - 🚖 [OH No!! He&#039;s Touching me!!!](http://9gag.com/gag/axMp8E2)
+ - 🚯 [Saturday night fever](http://9gag.com/gag/aWjVAZZ)
+ - 🚯 [Say hello to a new aerospace engineer](http://9gag.com/gag/ajm23A1)<!-- MEMES:END -->
 
 --- 
 
