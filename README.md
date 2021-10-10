@@ -195,9 +195,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It&#039;s this season again](http://9gag.com/gag/aNpyb3v)
- - 🚯 [Who reads tittles?](http://9gag.com/gag/aYozXj7)
- - 🚯 [Feeding a tiny little piglet](http://9gag.com/gag/a9E3g5W)<!-- MEMES:END -->
+ - 🚖 [Sound on](http://9gag.com/gag/a8ErxwV)
+ - 🚯 [Family Guy at its finest](http://9gag.com/gag/av5bKrd)
+ - 🚯 [It&#039;s just too much to bear](http://9gag.com/gag/aV7G6jv)<!-- MEMES:END -->
 
 --- 
 
