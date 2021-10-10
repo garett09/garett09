@@ -181,9 +181,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The Halloween Countdown: 31 days of horror](https://www.polygon.com/22702474/best-halloween-movies-tv-to-watch-stream)
  - [EEK3 2021 was another treasure trove of indie horror games](https://www.pcgamer.com/eek3-2021-was-another-treasure-trove-of-indie-horror-games)
- - [Watch Metroid Dread running on PC thanks to emulators](https://www.pcgamer.com/watch-metroid-dread-running-on-pc-thanks-to-emulators)
- - [What games have you bought more than once, and why?](https://www.pcgamer.com/what-games-have-you-bought-more-than-once-and-why)<!-- GAME:END -->
+ - [Watch Metroid Dread running on PC thanks to emulators](https://www.pcgamer.com/watch-metroid-dread-running-on-pc-thanks-to-emulators)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
