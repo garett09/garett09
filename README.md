@@ -195,9 +195,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Establishing battlefield control...standby](http://9gag.com/gag/a27Qg0Y)
- - 🚯 [I have a whole load of little demons...](http://9gag.com/gag/awMq2br)
- - 🚯 [Too cool to be robbed](http://9gag.com/gag/aGpPvbZ)<!-- MEMES:END -->
+ - 🚖 [I have a whole load of little demons...](http://9gag.com/gag/awMq2br)
+ - 🚯 [Too cool to be robbed](http://9gag.com/gag/aGpPvbZ)
+ - 🚯 [Hitting a cop while he&#039;s making an arrest](http://9gag.com/gag/aqjvMwY)<!-- MEMES:END -->
 
 --- 
 
