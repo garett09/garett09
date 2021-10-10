@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Samsung Galaxy Watch accessories](https://www.androidauthority.com/best-samsung-galaxy-watch-accessories-3024951/)
- - [iPhone 13 vs. iPhone 13 Mini: Apple's smaller smartphone doesn't have me convinced     - CNET](https://www.cnet.com/tech/mobile/iphone-13-vs-iphone-13-mini-apples-smaller-smartphone-doesnt-have-me-convinced/#ftag=CAD590a51e)
- - [Instagram will tell teens to 'take a break' for their mental health](https://appleinsider.com/articles/21/10/10/instagram-will-tell-teens-to-take-a-break-for-their-mental-health?utm_medium=rss)<!-- TECH:END -->
+ - [Tardigrade trapped in 16-million-year-old amber a 'once in a generation' find     - CNET](https://www.cnet.com/news/tardigrade-trapped-in-16-million-year-old-amber-a-once-in-a-generation-find/#ftag=CAD590a51e)
+ - [Gender inequality online is 'expensive for all of us,' says web inventor's foundation     - CNET](https://www.cnet.com/news/gender-inequality-online-is-expensive-for-all-of-us/#ftag=CAD590a51e)
+ - [Climate change: 'World's best last chance' for action at COP26. What you need to know     - CNET](https://www.cnet.com/news/climate-change-worlds-best-last-chance-for-action-at-cop26-what-you-need-to-know/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
