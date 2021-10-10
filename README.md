@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Pixel phones: 6 tempting reasons why you should buy one now     - CNET](https://www.cnet.com/tech/mobile/google-pixel-phones-6-tempting-reasons-why-you-should-buy-one-now/#ftag=CAD590a51e)
- - [It took decades to bring meaningful government regulation for Big Tobacco and experts say it could take an equally long time to regulate Big Tech (Cecilia Kang/New York Times)](http://www.techmeme.com/211010/p2#a211010p2)
- - [Brazil-based Favo, a social commerce startup focused on groceries, raises $26.5M Series A led by Tiger Global, bringing its total raised to $37M (Christine Hall/TechCrunch)](http://www.techmeme.com/211010/p1#a211010p1)<!-- TECH:END -->
+ - [New-car destination charges are absurd: Here's why     - Roadshow](https://www.cnet.com/roadshow/news/new-car-destination-delivery-fee/#ftag=CAD590a51e)
+ - [How to Join FaceTime Calls on Any Device](https://www.wired.com/story/how-to-join-facetime-calls-on-any-device)
+ - [The Government Wants to Boost Its Tech—Starting With Workers](https://www.wired.com/story/government-wants-bolster-tech-starting-workers)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
