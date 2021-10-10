@@ -195,9 +195,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Harrison Ford posed with a group of cosplayers in Italy while filming scenes for Indiana Jones 5. Also respect for the guy who cosplayed Indy&#039;s dad. RIP Sean Connery](http://9gag.com/gag/ad83w1V)
- - 🚯 [It&#039;s this season again](http://9gag.com/gag/aNpyb3v)
- - 🚯 [Bicyclists...](http://9gag.com/gag/ajm24n1)<!-- MEMES:END -->
+ - 🚖 [Bicyclists...](http://9gag.com/gag/ajm24n1)
+ - 🚯 [Japanese Rolled Omelette](http://9gag.com/gag/aAbn58o)
+ - 🚯 [And I don&#039;t even have kids](http://9gag.com/gag/aYoz0yv)<!-- MEMES:END -->
 
 --- 
 
