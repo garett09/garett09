@@ -195,9 +195,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I will find you and i will kill you](http://9gag.com/gag/a1r4gWR)
- - 🚯 [Tyson Fury Puts Deontay Wilder To Sleep In One Of The Craziest Heavyweight Trilogies Of This Era](http://9gag.com/gag/anQAZE0)
- - 🚯 [Me, directing my train through the mist.](http://9gag.com/gag/aeAXwpW)<!-- MEMES:END -->
+ - 🚖 [Establishing battlefield control...standby](http://9gag.com/gag/a27Qg0Y)
+ - 🚯 [Harrison Ford posed with a group of cosplayers in Italy while filming scenes for Indiana Jones 5. Also respect for the guy who cosplayed Indy&#039;s dad. RIP Sean Connery](http://9gag.com/gag/ad83w1V)
+ - 🚯 [I have a whole load of little demons...](http://9gag.com/gag/awMq2br)<!-- MEMES:END -->
 
 --- 
 
