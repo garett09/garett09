@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Musk says Tesla will begin production at its German Gigafactory by the end of the year](https://www.theverge.com/2021/10/10/22719106/musk-tesla-germany-berlin-gigafactory-model-y)
- - [WhatsApp to introduce ‘pause voice recordings’ feature](https://techncruncher.blogspot.com/2021/10/whatsapp-to-introduce-pause-voice.html)
- - [Bodies Are Canceled. Thanks, Instagram](https://www.wired.com/story/instagram-mental-health-psychology-body-image-science)<!-- TECH:END -->
+ - [UK takes on Elon Musk in the broadband space race](https://techncruncher.blogspot.com/2021/10/uk-takes-on-elon-musk-in-broadband.html)
+ - [Neuroscientists Claim to Have Pinpointed The Brain States Unique to 'Team Flow'](https://techncruncher.blogspot.com/2021/10/neuroscientists-claim-to-have.html)
+ - [GTA 3, Vice City and San Andreas fans are using Steam reviews to encourage people to buy the originals before Rockstar delists them next week](https://techncruncher.blogspot.com/2021/10/gta-3-vice-city-and-san-andreas-fans.html)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
