@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [When trying to address problems that social media may cause young people, lawmakers focus on Facebook and largely ignore TikTok, which most teens use (Evelyn Douek/The Atlantic)](http://www.techmeme.com/211010/p4#a211010p4)
- - [Apple iPad (2021) review: Bare minimum update still beats the competition](https://www.androidauthority.com/apple-ipad-2021-review-3034503/)
- - [Apple Watch 7 vs. Apple Watch 6: All the major changes coming to Apple's latest smartwatch     - CNET](https://www.cnet.com/tech/mobile/apple-watch-7-vs-apple-watch-6-all-the-major-changes-coming-to-apples-latest-smartwatch/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Instagram to introduce “take a break” feature and “nudge” teens away from harmful content](https://www.theverge.com/2021/10/10/22719545/instagram-introduce-take-a-break-nudge-teens-harmful-content-facebook)
+ - [PDQ expands into iOS and macOS device management with SimpleMDM acquisition](https://appleinsider.com/articles/21/10/10/pdq-expands-into-ios-and-macos-device-management-with-simplemdm-acquisition?utm_medium=rss)
+ - [This is the Apple Watch you should buy in 2021](https://appleinsider.com/articles/21/10/09/this-is-the-apple-watch-you-should-buy-in-2021?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
