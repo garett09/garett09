@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Shang-Chi Passes $400M at Global Box Office Even Without China](https://techncruncher.blogspot.com/2021/10/shang-chi-passes-400m-at-global-box.html)
- - [xXx 4 Should Borrow From Fast & Furious And Introduce Xander Cage's Family](https://techncruncher.blogspot.com/2021/10/xxx-4-should-borrow-from-fast-furious.html)
- - [Astronomers 'Stumped' Over Images Of Bizarre Double Galaxy](https://techncruncher.blogspot.com/2021/10/astronomers-stumped-over-images-of.html)<!-- TECH:END -->
+ - [The best Samsung Galaxy Watch accessories](https://www.androidauthority.com/best-samsung-galaxy-watch-accessories-3024951/)
+ - [iPhone 13 vs. iPhone 13 Mini: Apple's smaller smartphone doesn't have me convinced     - CNET](https://www.cnet.com/tech/mobile/iphone-13-vs-iphone-13-mini-apples-smaller-smartphone-doesnt-have-me-convinced/#ftag=CAD590a51e)
+ - [Instagram will tell teens to 'take a break' for their mental health](https://appleinsider.com/articles/21/10/10/instagram-will-tell-teens-to-take-a-break-for-their-mental-health?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
