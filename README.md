@@ -195,9 +195,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Me, directing my train through the mist.](http://9gag.com/gag/aeAXwpW)
- - 🚯 [I have a whole load of little demons...](http://9gag.com/gag/awMq2br)
- - 🚯 [Me every morning knowing that I have to do a 4 hours commute back and forth to work. Just f**king kill me.](http://9gag.com/gag/aMKp5ex)<!-- MEMES:END -->
+ - 🚖 [I will find you and i will kill you](http://9gag.com/gag/a1r4gWR)
+ - 🚯 [Tyson Fury Puts Deontay Wilder To Sleep In One Of The Craziest Heavyweight Trilogies Of This Era](http://9gag.com/gag/anQAZE0)
+ - 🚯 [Me, directing my train through the mist.](http://9gag.com/gag/aeAXwpW)<!-- MEMES:END -->
 
 --- 
 
