@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dubai ruler and poaching rings in the Apple Crime Blotter](https://appleinsider.com/articles/21/10/10/dubai-ruler-and-poaching-rings-in-the-apple-crime-blotter?utm_medium=rss)
- - [Display specs and terms explained: Resolution, contrast, color gamut, and more](https://www.androidauthority.com/display-specs-terms-3028547/)
- - [The best indoor home security cameras of 2021     - CNET](https://www.cnet.com/home/security/the-best-indoor-home-security-cameras/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Musk says Tesla will begin production at its German Gigafactory by the end of the year](https://www.theverge.com/2021/10/10/22719106/musk-tesla-germany-berlin-gigafactory-model-y)
+ - [WhatsApp to introduce ‘pause voice recordings’ feature](https://techncruncher.blogspot.com/2021/10/whatsapp-to-introduce-pause-voice.html)
+ - [Bodies Are Canceled. Thanks, Instagram](https://www.wired.com/story/instagram-mental-health-psychology-body-image-science)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
