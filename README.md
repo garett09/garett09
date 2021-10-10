@@ -195,9 +195,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [So not every veteran is good?](http://9gag.com/gag/ayMyKmr)
- - 🚯 [And I don&#039;t even have kids](http://9gag.com/gag/aYoz0yv)
- - 🚯 [Who reads tittles?](http://9gag.com/gag/aYozXj7)<!-- MEMES:END -->
+ - 🚖 [When you ask her about dessert](http://9gag.com/gag/amPD4w9)
+ - 🚯 [Some will see this for the first time in their life](http://9gag.com/gag/axMpr9K)
+ - 🚯 [The monkey that brought the electrocuted monkey back to life by applying first aid.](http://9gag.com/gag/awMqprQ)<!-- MEMES:END -->
 
 --- 
 
