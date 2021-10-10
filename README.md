@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [This is the Apple Watch you should buy in 2021](https://appleinsider.com/articles/21/10/09/this-is-the-apple-watch-you-should-buy-in-2021?utm_medium=rss)
  - [Apple Watch Series 7 orders prepare to ship for Oct 15 release](https://appleinsider.com/articles/21/10/09/apple-watch-series-7-orders-prepare-to-ship-for-oct-15-release?utm_medium=rss)
- - [Boeing Starliner test flight to ISS pushed back to 2022     - CNET](https://www.cnet.com/news/boeing-starliner-test-flight-to-iss-pushed-back-to-2022/#ftag=CAD590a51e)
- - [Nomad iPhone 13 case review: Protection that hides a nifty secret](https://appleinsider.com/articles/21/10/09/nomad-iphone-13-case-review-protection-that-hides-a-nifty-secret?utm_medium=rss)<!-- TECH:END -->
+ - [Boeing Starliner test flight to ISS pushed back to 2022     - CNET](https://www.cnet.com/news/boeing-starliner-test-flight-to-iss-pushed-back-to-2022/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
