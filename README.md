@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [New-car destination charges are absurd: Here's why     - Roadshow](https://www.cnet.com/roadshow/news/new-car-destination-delivery-fee/#ftag=CAD590a51e)
- - [How to Join FaceTime Calls on Any Device](https://www.wired.com/story/how-to-join-facetime-calls-on-any-device)
- - [The Government Wants to Boost Its Tech—Starting With Workers](https://www.wired.com/story/government-wants-bolster-tech-starting-workers)<!-- TECH:END -->
+ - [Dubai ruler and poaching rings in the Apple Crime Blotter](https://appleinsider.com/articles/21/10/10/dubai-ruler-and-poaching-rings-in-the-apple-crime-blotter?utm_medium=rss)
+ - [Display specs and terms explained: Resolution, contrast, color gamut, and more](https://www.androidauthority.com/display-specs-terms-3028547/)
+ - [The best indoor home security cameras of 2021     - CNET](https://www.cnet.com/home/security/the-best-indoor-home-security-cameras/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
