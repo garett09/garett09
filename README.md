@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [When trying to address problems that social media may cause young people, lawmakers focus on Facebook and largely ignore TikTok, which most teens use (Evelyn Douek/The Atlantic)](http://www.techmeme.com/211010/p4#a211010p4)
  - [Apple iPad (2021) review: Bare minimum update still beats the competition](https://www.androidauthority.com/apple-ipad-2021-review-3034503/)
- - [Apple Watch 7 vs. Apple Watch 6: All the major changes coming to Apple's latest smartwatch     - CNET](https://www.cnet.com/tech/mobile/apple-watch-7-vs-apple-watch-6-all-the-major-changes-coming-to-apples-latest-smartwatch/#ftag=CAD590a51e)
- - [Blue Origin postpones William Shatner’s space flight by a day](https://www.theverge.com/2021/10/10/22719454/blue-origin-postpones-william-shatner-space-flight-new-shepard)<!-- TECH:END -->
+ - [Apple Watch 7 vs. Apple Watch 6: All the major changes coming to Apple's latest smartwatch     - CNET](https://www.cnet.com/tech/mobile/apple-watch-7-vs-apple-watch-6-all-the-major-changes-coming-to-apples-latest-smartwatch/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
