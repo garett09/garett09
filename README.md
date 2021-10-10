@@ -181,9 +181,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [One Of Us Is Lying is Gossip Girl meets The Breakfast Club](https://www.polygon.com/22719351/one-of-us-is-lying-peacock-comic-con)
  - [4400 uses time travel and super powers to explore modern societal issues](https://www.polygon.com/22719273/4400-comic-con-cw)
- - [The many masks of New York Comic Con 2021](https://www.polygon.com/nycc/22719128/new-york-comic-con-cosplay-photos-images-batman-joker)
- - [Demon Slayer: Mugen Train’s actors share their favorite moments from production](https://www.polygon.com/22719245/demon-slayer-mugen-train-anime-comic-con)<!-- GAME:END -->
+ - [The many masks of New York Comic Con 2021 cosplay](https://www.polygon.com/nycc/22719128/new-york-comic-con-cosplay-photos-images-batman-joker)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
