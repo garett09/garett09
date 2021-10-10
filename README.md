@@ -195,9 +195,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [OH No!! He&#039;s Touching me!!!](http://9gag.com/gag/axMp8E2)
- - 🚯 [Saturday night fever](http://9gag.com/gag/aWjVAZZ)
- - 🚯 [Say hello to a new aerospace engineer](http://9gag.com/gag/ajm23A1)<!-- MEMES:END -->
+ - 🚖 [Woman pretends to wash dishes to hide from the police](http://9gag.com/gag/av5b4QZ)
+ - 🚯 [Say hello to a new aerospace engineer](http://9gag.com/gag/ajm23A1)
+ - 🚯 [OH No!! He&#039;s Touching me!!!](http://9gag.com/gag/axMp8E2)<!-- MEMES:END -->
 
 --- 
 
