@@ -195,9 +195,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [F**k ea](http://9gag.com/gag/aeAXqqp)
- - 🚯 [Say hello to a new aerospace engineer](http://9gag.com/gag/ajm23A1)
- - 🚯 [For me this is a perfect day!](http://9gag.com/gag/aK6bXPO)<!-- MEMES:END -->
+ - 🚖 [You dare to disappoint me my child?](http://9gag.com/gag/a8Er9Be)
+ - 🚯 [OH No!! He&#039;s Touching me!!!](http://9gag.com/gag/axMp8E2)
+ - 🚯 [Something to fill the void in your heart](http://9gag.com/gag/aB2DMoD)<!-- MEMES:END -->
 
 --- 
 
