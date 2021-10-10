@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [What are Google Mobile Services (GMS)?](https://www.androidauthority.com/google-mobile-services-gms-3025963/)
- - [How to change your default browser in Windows 11](https://www.theverge.com/22714629/windows-11-microsoft-browser-edge-chrome-firefox)
- - [Best Deals Oct. 10: $80 Powerbeats, Playmobil Mystery Machine, and more!](https://appleinsider.com/articles/21/10/10/best-deals-oct-10-80-powerbeats-playmobil-mystery-machine-and-more?utm_medium=rss)<!-- TECH:END -->
+ - [MindMaze, which makes VR software to help patients regain motion after strokes or traumatic brain injuries, raises $125M, source says at a $1.5B valuation (Bloomberg)](http://www.techmeme.com/211010/p3#a211010p3)
+ - [PDQ expands into iOS and macOS device management with SimpleMDM acquisition](https://appleinsider.com/articles/21/10/10/pdq-expands-into-ios-and-macos-device-management-with-simplemdm-acquisition?utm_medium=rss)
+ - [What are Google Mobile Services (GMS)?](https://www.androidauthority.com/google-mobile-services-gms-3025963/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
