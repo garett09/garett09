@@ -195,9 +195,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When you ask her about dessert](http://9gag.com/gag/amPD4w9)
- - 🚯 [Some will see this for the first time in their life](http://9gag.com/gag/axMpr9K)
- - 🚯 [The monkey that brought the electrocuted monkey back to life by applying first aid.](http://9gag.com/gag/awMqprQ)<!-- MEMES:END -->
+ - 🚖 [It&#039;s this season again](http://9gag.com/gag/aNpyb3v)
+ - 🚯 [Who reads tittles?](http://9gag.com/gag/aYozXj7)
+ - 🚯 [Feeding a tiny little piglet](http://9gag.com/gag/a9E3g5W)<!-- MEMES:END -->
 
 --- 
 
