@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tyson Fury vs. Deontay Wilder 3: Start time, how to watch or stream online     - CNET](https://www.cnet.com/news/tyson-fury-vs-deontay-wilder-3-start-time-how-to-watch-or-stream-online/#ftag=CAD590a51e)
  - [Esper, a DevOps service that enables companies to deploy and manage fleets of Android-based IoT devices, raises $60M Series C, following $30M Series B in May (Taylor Soper/GeekWire)](http://www.techmeme.com/211009/p9#a211009p9)
- - [This is the Apple Watch you should buy in 2021](https://appleinsider.com/articles/21/10/09/this-is-the-apple-watch-you-should-buy-in-2021?utm_medium=rss)
- - [Apple Watch Series 7 orders prepare to ship for Oct 15 release](https://appleinsider.com/articles/21/10/09/apple-watch-series-7-orders-prepare-to-ship-for-oct-15-release?utm_medium=rss)<!-- TECH:END -->
+ - [This is the Apple Watch you should buy in 2021](https://appleinsider.com/articles/21/10/09/this-is-the-apple-watch-you-should-buy-in-2021?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
