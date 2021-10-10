@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix: 41 of the best movies to stream tonight     - CNET](https://www.cnet.com/news/netflix-41-of-the-best-movies-to-stream-tonight/#ftag=CAD590a51e)
- - [Netflix: 53 of the best TV shows to watch tonight     - CNET](https://www.cnet.com/news/netflix-53-of-the-best-tv-shows-to-watch-tonight/#ftag=CAD590a51e)
- - [Amazon Prime Video: 26 best movies to watch tonight     - CNET](https://www.cnet.com/news/amazon-prime-video-26-best-movies-to-watch-tonight/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple iPad (2021) review: Bare minimum update still beats the competition](https://www.androidauthority.com/apple-ipad-2021-review-3034503/)
+ - [Apple Watch 7 vs. Apple Watch 6: All the major changes coming to Apple's latest smartwatch     - CNET](https://www.cnet.com/tech/mobile/apple-watch-7-vs-apple-watch-6-all-the-major-changes-coming-to-apples-latest-smartwatch/#ftag=CAD590a51e)
+ - [Blue Origin postpones William Shatner’s space flight by a day](https://www.theverge.com/2021/10/10/22719454/blue-origin-postpones-william-shatner-space-flight-new-shepard)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
