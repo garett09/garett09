@@ -195,9 +195,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I have a whole load of little demons...](http://9gag.com/gag/awMq2br)
- - 🚯 [Too cool to be robbed](http://9gag.com/gag/aGpPvbZ)
- - 🚯 [Hitting a cop while he&#039;s making an arrest](http://9gag.com/gag/aqjvMwY)<!-- MEMES:END -->
+ - 🚖 [Bicyclists...](http://9gag.com/gag/ajm24n1)
+ - 🚯 [The monkey that brought the electrocuted monkey back to life by applying first aid.](http://9gag.com/gag/awMqprQ)
+ - 🚯 [Me, directing my train through the mist.](http://9gag.com/gag/aeAXwpW)<!-- MEMES:END -->
 
 --- 
 
