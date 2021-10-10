@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google Pixel phones: 6 tempting reasons why you should buy one now     - CNET](https://www.cnet.com/tech/mobile/google-pixel-phones-6-tempting-reasons-why-you-should-buy-one-now/#ftag=CAD590a51e)
  - [It took decades to bring meaningful government regulation for Big Tobacco and experts say it could take an equally long time to regulate Big Tech (Cecilia Kang/New York Times)](http://www.techmeme.com/211010/p2#a211010p2)
- - [Brazil-based Favo, a social commerce startup focused on groceries, raises $26.5M Series A led by Tiger Global, bringing its total raised to $37M (Christine Hall/TechCrunch)](http://www.techmeme.com/211010/p1#a211010p1)
- - [Tyson Fury vs. Deontay Wilder 3: Start time, how to watch or stream online     - CNET](https://www.cnet.com/news/tyson-fury-vs-deontay-wilder-3-start-time-how-to-watch-or-stream-online/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Brazil-based Favo, a social commerce startup focused on groceries, raises $26.5M Series A led by Tiger Global, bringing its total raised to $37M (Christine Hall/TechCrunch)](http://www.techmeme.com/211010/p1#a211010p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
