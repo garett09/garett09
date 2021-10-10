@@ -195,9 +195,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Shit, I&#039;m old now](http://9gag.com/gag/aQoYK0K)
- - 🚯 [Incredible bike infrastructure in Delft Netherlands.](http://9gag.com/gag/apNenrn)
- - 🚯 [Anti-Vaxxers in a Zombie Apocalypse](http://9gag.com/gag/a7EjmVr)<!-- MEMES:END -->
+ - 🚖 [See you in hell!](http://9gag.com/gag/aO36Edr)
+ - 🚯 [Shit, I&#039;m old now](http://9gag.com/gag/aQoYK0K)
+ - 🚯 [Context: the race is not official and These morons occupy half of the road.](http://9gag.com/gag/abVjLWr)<!-- MEMES:END -->
 
 --- 
 
