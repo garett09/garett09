@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best mattress for side sleepers in 2021     - CNET](https://www.cnet.com/health/sleep/best-mattress-for-side-sleepers/#ftag=CAD590a51e)
- - [The Best Espresso Machines for the Home Barista](https://www.wired.com/gallery/best-espresso-machines)
- - [Google TV is adding personalized profiles and watchlists soon](https://www.theverge.com/2021/10/11/22716932/google-tv-profiles-watchlist-ambient-mode-philo)<!-- TECH:END -->
+ - [iPhone 13 delivery estimates shorten slightly amid supply constraints](https://appleinsider.com/articles/21/10/11/iphone-13-delivery-estimates-shorten-slightly-amid-supply-constraints?utm_medium=rss)
+ - [Israeli startup Wiz, which helps companies identify cybersecurity threats across cloud networks, raises $250M at a $6B valuation, up from $1.7B in March (Steven Scheer/Reuters)](http://www.techmeme.com/211011/p9#a211011p9)
+ - [You told us: You were using WhatsApp’s rivals even before Facebook crashed](https://www.androidauthority.com/facebook-whatsapp-crash-telegram-signal-poll-results-3038040/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
