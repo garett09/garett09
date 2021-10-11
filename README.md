@@ -195,9 +195,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [All these houses are connected by a pool](http://9gag.com/gag/aeAXXgp)
- - 🚯 [When Mr.James Bond really fall in love and then 30 years later.](http://9gag.com/gag/ad83ZxQ)
- - 🚯 [Wha.. what is going on??](http://9gag.com/gag/aGpPPN5)<!-- MEMES:END -->
+ - 🚖 [When Mr.James Bond really fall in love and then 30 years later.](http://9gag.com/gag/ad83ZxQ)
+ - 🚯 [When you think of tropical island surfing music...](http://9gag.com/gag/a3EooQv)
+ - 🚯 [All these houses are connected by a pool](http://9gag.com/gag/aeAXXgp)<!-- MEMES:END -->
 
 --- 
 
