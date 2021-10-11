@@ -181,9 +181,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [I Have Seen Hell, And It Is Epic Thinking About A Fortnite Movie](https://kotaku.com/i-have-seen-hell-and-it-is-epic-thinking-about-a-fortn-1847841896)
- - [Bittersweet Birthday is a bullet hell adventure about a boy and his bird brother](https://www.pcgamer.com/bittersweet-birthday-is-a-bullet-hell-adventure-about-a-boy-and-his-bird-brother)
- - [Your Hard-Earned Monster Hunter Rise Progress Won’t Transfer From Switch To PC](https://kotaku.com/your-hard-earned-monster-hunter-rise-progress-won-t-tra-1847841327)<!-- GAME:END -->
+ - [It's 2021, And Breath Of The Wild Is Finally Playable In Arabic](https://kotaku.com/its-2021-and-breath-of-the-wild-is-finally-playable-in-1847842352)
+ - [Monster Hunter Rise won't support cross-save or crossplay with Nintendo Switch](https://www.pcgamer.com/monster-hunter-rise-wont-support-cross-save-or-crossplay-with-nintendo-switch)
+ - [I Have Seen Hell, And It Is Epic Thinking About A Fortnite Movie](https://kotaku.com/i-have-seen-hell-and-it-is-epic-thinking-about-a-fortn-1847841896)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
