@@ -181,9 +181,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Age of Empires IV Achievements Revealed](https://news.xbox.com/en-us/2021/10/11/age-of-empires-iv-achievements-revealed/)
- - [Every Marvel Cinematic Universe TV show, ranked](https://www.polygon.com/tv/22561233/marvel-tv-shows-ranked-mcu)
- - [Squid Game Knock-Offs Are Taking Over GTA 5 Servers](https://kotaku.com/squid-game-knock-offs-are-taking-over-gta-5-severs-1847838890)<!-- GAME:END -->
+ - [RIP FIFA: EA trademarks EA Sports FC](https://www.pcgamer.com/rip-fifa-ea-trademarks-ea-sports-fc)
+ - [The best wireless gaming keyboard in 2021](https://www.pcgamer.com/best-wireless-gaming-keyboard)
+ - [Calm down, HP has not leaked AMD's Ryzen 7000-series](https://www.pcgamer.com/calm-down-hp-has-not-leaked-amds-ryzen-7000-series)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
