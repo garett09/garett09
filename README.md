@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ex-Pentagon software chief Nicolas Chaillan, who recently resigned, says China is headed for global dominance due to advances in AI, ML, and cyber capabilities (Katrina Manson/Financial Times)](http://www.techmeme.com/211011/p17#a211011p17)
- - [Carphone Warehouse leaks Pixel 6 and 6 Pro in full detail](https://techncruncher.blogspot.com/2021/10/carphone-warehouse-leaks-pixel-6-and-6.html)
- - [Facebook Oversight board also very interested in what Frances Haugen has to say](https://www.theverge.com/2021/10/11/22721229/facebook-whistleblower-frances-haugen-instagram-oversight-board)<!-- TECH:END -->
+ - [Magic Leap somehow raised $500 million to make another AR headset](https://www.theverge.com/2021/10/11/22721345/magic-leap-500-million-funding-ar-headset)
+ - [Whistleblower Frances Haugen accepts an invitation to brief Facebook's Oversight Board, which she claims Facebook has lied to "repeatedly" (Ivana Saric/Axios)](http://www.techmeme.com/211011/p18#a211011p18)
+ - [Amazon Games provides more details on New World server transfers     - CNET](https://www.cnet.com/tech/gaming/amazon-games-provides-more-details-on-new-world-server-transfers/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
