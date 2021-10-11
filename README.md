@@ -195,9 +195,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [MESS WITH THE BULL...](http://9gag.com/gag/aV7GnG8)
- - 🚯 [How many of you did this](http://9gag.com/gag/a3Eo9Qr)
- - 🚯 [You know the rules and so do i](http://9gag.com/gag/a7Ej4Nr)<!-- MEMES:END -->
+ - 🚖 [All these houses are connected by a pool](http://9gag.com/gag/aeAXXgp)
+ - 🚯 [When Mr.James Bond really fall in love and then 30 years later.](http://9gag.com/gag/ad83ZxQ)
+ - 🚯 [Wha.. what is going on??](http://9gag.com/gag/aGpPPN5)<!-- MEMES:END -->
 
 --- 
 
