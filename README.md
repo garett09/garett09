@@ -195,8 +195,8 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Qu&#039;est ce que la vie](http://9gag.com/gag/a6EWYw9)
- - 🚯 [-How fast were you going? -Like 30 -Like 30 what? -Speed](http://9gag.com/gag/aB2DAYN)
+ - 🚖 [-How fast were you going? -Like 30 -Like 30 what? -Speed](http://9gag.com/gag/aB2DAYN)
+ - 🚯 [The incredible 360 degree view from the top of Mount Everest on a clear day. Credit: Ben M Jones](http://9gag.com/gag/ayMyjOp)
  - 🚯 [My comrade!](http://9gag.com/gag/aXo8yxz)<!-- MEMES:END -->
 
 --- 
