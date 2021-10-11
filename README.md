@@ -195,8 +195,8 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [-How fast were you going? -Like 30 -Like 30 what? -Speed](http://9gag.com/gag/aB2DAYN)
- - 🚯 [The incredible 360 degree view from the top of Mount Everest on a clear day. Credit: Ben M Jones](http://9gag.com/gag/ayMyjOp)
+ - 🚖 [The pink ranger had her 51st birthday Oct. 6. Time flies.](http://9gag.com/gag/aGpPXVn)
+ - 🚯 [Epilepsy service dog catches his human before she hits the floor](http://9gag.com/gag/aeAXLMq)
  - 🚯 [My comrade!](http://9gag.com/gag/aXo8yxz)<!-- MEMES:END -->
 
 --- 
