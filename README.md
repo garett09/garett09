@@ -195,9 +195,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Lol](http://9gag.com/gag/a7EjznL)
- - 🚯 [Can they actually die?](http://9gag.com/gag/aYoz8ew)
- - 🚯 [Skateboarder helps his daughter build up confidence to conquer drop](http://9gag.com/gag/aAbno4d)<!-- MEMES:END -->
+ - 🚖 [Why are they the way they are](http://9gag.com/gag/a07mAwq)
+ - 🚯 [Much IQ](http://9gag.com/gag/arMPjwV)
+ - 🚯 [Wait for it](http://9gag.com/gag/awMq6LR)<!-- MEMES:END -->
 
 --- 
 
