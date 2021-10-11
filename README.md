@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Astronomers may have spotted first planet orbiting three stars     - CNET](https://www.cnet.com/news/astronomers-may-have-spotted-first-planet-orbiting-three-stars/#ftag=CAD590a51e)
- - [Do we live in a computer simulation? We could be doomed if not     - CNET](https://www.cnet.com/news/do-we-live-in-a-computer-simulation-we-could-be-doomed-if-not/#ftag=CAD590a51e)
- - [A look at Pix, a mobile payments system launched 11 months ago by Brazil's Central Bank and used at least once by half of Brazil's population (Bloomberg)](http://www.techmeme.com/211010/p7#a211010p7)<!-- TECH:END -->
+ - [Astronomers 'Stumped' Over Images Of Bizarre Double Galaxy](https://techncruncher.blogspot.com/2021/10/astronomers-stumped-over-images-of.html)
+ - [Netflix: The 54 best TV shows to watch this week     - CNET](https://www.cnet.com/news/netflix-the-54-best-tv-shows-to-watch-this-week/#ftag=CAD590a51e)
+ - [Astronomers may have spotted first planet orbiting three stars     - CNET](https://www.cnet.com/news/astronomers-may-have-spotted-first-planet-orbiting-three-stars/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
