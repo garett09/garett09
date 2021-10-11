@@ -181,9 +181,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Vast Deus Ex mod restores the original game's vision for a female protagonist](https://www.pcgamer.com/vast-deus-ex-mod-restores-the-original-games-vision-for-a-female-protagonist)
  - [Metroid Dread Players Discover Gnarly, Secret Way To Quick-Kill Kraid](https://kotaku.com/metroid-dread-players-discover-gnarly-secret-way-to-qu-1847839972)
- - [New World Server Transfers Delayed, Previously Promised Cross-Realm Moves ‘Not Possible’](https://kotaku.com/new-world-server-transfers-delayed-previously-promised-1847839625)
- - [This Crusader Kings 3 mod adds a crucial feature: fishing minigames](https://www.pcgamer.com/this-crusader-kings-3-mod-adds-a-crucial-feature-fishing-minigames)<!-- GAME:END -->
+ - [New World Server Transfers Delayed, Previously Promised Cross-Realm Moves ‘Not Possible’](https://kotaku.com/new-world-server-transfers-delayed-previously-promised-1847839625)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
