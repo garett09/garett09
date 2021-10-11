@@ -195,9 +195,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Skateboarder helps his daughter build up confidence to conquer drop](http://9gag.com/gag/aAbno4d)
- - 🚯 [Another reason Superman beats Captain Marvel](http://9gag.com/gag/aXo8ByV)
- - 🚯 [You are fake news. Also, nice crop shitlord.](http://9gag.com/gag/aoMBb0e)<!-- MEMES:END -->
+ - 🚖 [Wishing everyone a prosperous Taiwan&#039;s National Day Love from India. #TaiwanNationalDay #TaiwanIsNotChina](http://9gag.com/gag/a8ErZQY)
+ - 🚯 [Drone putting out a blazing high-rise building fire.](http://9gag.com/gag/a9E39mK)
+ - 🚯 [Much IQ](http://9gag.com/gag/arMPjwV)<!-- MEMES:END -->
 
 --- 
 
