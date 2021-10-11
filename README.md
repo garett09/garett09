@@ -181,9 +181,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Vast Deus Ex mod restores the original game's vision for a female protagonist](https://www.pcgamer.com/vast-deus-ex-mod-restores-the-original-games-vision-for-a-female-protagonist)
- - [Metroid Dread Players Discover Gnarly, Secret Way To Quick-Kill Kraid](https://kotaku.com/metroid-dread-players-discover-gnarly-secret-way-to-qu-1847839972)
- - [New World Server Transfers Delayed, Previously Promised Cross-Realm Moves ‘Not Possible’](https://kotaku.com/new-world-server-transfers-delayed-previously-promised-1847839625)<!-- GAME:END -->
+ - [Halo Infinite Vs. Battlefield 2042: Battle Of The Betas](https://kotaku.com/halo-infinite-vs-battlefield-2042-battle-of-the-betas-1847840785)
+ - [Jenga and WarioWare collide in this free game](https://www.pcgamer.com/jenga-and-warioware-collide-in-this-free-game)
+ - [Everybody Deserves A SpongeBob SquarePants Xbox](https://kotaku.com/everybody-deserves-a-spongebob-squarepants-xbox-1847840762)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
