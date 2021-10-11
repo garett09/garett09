@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple drops new Safari bookmark end-to-end encryption](https://appleinsider.com/articles/21/10/11/apple-drops-new-safari-bookmark-end-to-end-encryption?utm_medium=rss)
- - [WhatsApp is working on a ‘community’ feature, but what could it be?](https://www.androidauthority.com/whatsapp-community-feature-3037894/)
- - [Pixel 6 is coming soon, but should you buy Google's Pixel 3, 4, 5 or 5A instead?     - CNET](https://www.cnet.com/tech/mobile/pixel-6-is-coming-soon-but-should-you-buy-googles-pixel-3-4-5-or-5a-instead/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google Pixel 6: Everything we know so far (Updated: Oct. 11)](https://www.androidauthority.com/google-pixel-6-1207778/)
+ - [Michael Dell says the key to winning is being unafraid to take risks     - CNET](https://www.cnet.com/tech/computing/michael-dell-says-the-key-to-winning-is-being-unafraid-to-take-risks/#ftag=CAD590a51e)
+ - [Google’s plans for Fuchsia OS teased in job listings](https://www.theverge.com/2021/10/11/22720403/google-fuchsia-operating-system-os-smart-displays-form-factors-partners)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
