@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bold new mission to asteroid belt will study Venus and seven unknown worlds     - CNET](https://www.cnet.com/news/bold-new-mission-to-asteroid-belt-will-study-venus-and-seven-unknown-worlds/#ftag=CAD590a51e)
- - [It could take decades to regulate big tech](https://appleinsider.com/articles/21/10/10/it-could-take-decades-to-regulate-big-tech?utm_medium=rss)
- - [Nick Clegg says that Facebook will put "more friends, less politics" in News Feed and will "nudge" teens away from toxic Instagram content (Bruce Haring/Deadline)](http://www.techmeme.com/211010/p6#a211010p6)<!-- TECH:END -->
+ - [This is the Apple Watch you should buy in 2021](https://appleinsider.com/articles/21/10/09/this-is-the-apple-watch-you-should-buy-in-2021?utm_medium=rss)
+ - [Facebook and Instagram are making changes to 'nudge' teens away from harmful content     - CNET](https://www.cnet.com/news/facebook-and-instagram-are-making-changes-to-nudge-teens-away-from-harmful-content/#ftag=CAD590a51e)
+ - [Yes, Squid Game is eligible for the Emmys. But does it stand a chance?     - CNET](https://www.cnet.com/news/yep-squid-game-is-eligible-for-the-emmys-but-does-it-stand-a-chance/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
