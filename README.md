@@ -195,9 +195,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Wishing everyone a prosperous Taiwan&#039;s National Day Love from India. #TaiwanNationalDay #TaiwanIsNotChina](http://9gag.com/gag/a8ErZQY)
- - 🚯 [Drone putting out a blazing high-rise building fire.](http://9gag.com/gag/a9E39mK)
- - 🚯 [Much IQ](http://9gag.com/gag/arMPjwV)<!-- MEMES:END -->
+ - 🚖 [Drone putting out a blazing high-rise building fire.](http://9gag.com/gag/a9E39mK)
+ - 🚯 [Google reverse image search still needs some work](http://9gag.com/gag/awMq65r)
+ - 🚯 [Japanese never cease to amaze me](http://9gag.com/gag/a5EL4Oy)<!-- MEMES:END -->
 
 --- 
 
