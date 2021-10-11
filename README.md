@@ -181,9 +181,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Five new Steam games you probably missed (October 11, 2021)](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-october-11-2021)
- - [The Week In Games: Back 4 Blood 4 You](https://kotaku.com/the-week-in-games-back-4-blood-4-you-1847836517)
- - [Make silly robots in programming puzzler Manufactoria 2022](https://www.pcgamer.com/make-silly-robots-in-programming-puzzler-manufactoria-2022)<!-- GAME:END -->
+ - [Happy 20th Birthday, ScummVM!](https://kotaku.com/happy-20th-birthday-scummvm-1847836450)
+ - [The Animaniacs go Full Thundercat to tease season 2](https://www.polygon.com/22719895/animaniacs-season-2-release-trailer-thundercats)
+ - [Deux Ex Gender Swap Lets You Play The Whole Game As A Woman](https://kotaku.com/deux-ex-gender-swap-lets-you-play-the-whole-game-as-a-w-1847836320)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
