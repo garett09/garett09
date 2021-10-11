@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Pixel 6 showed off in leaked listing ahead of launch, report says     - CNET](https://www.cnet.com/tech/mobile/google-pixel-6-showed-off-in-leaked-listing-ahead-of-launch-report-says/#ftag=CAD590a51e)
- - [Google TV adds user profiles to Chromecast streamer and smart TVs     - CNET](https://www.cnet.com/tech/home-entertainment/google-tv-adds-user-profiles-to-chromecast-streamer-and-smart-tvs/#ftag=CAD590a51e)
- - [Best soft mattresses of 2021     - CNET](https://www.cnet.com/health/sleep/best-soft-mattresses/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple releases iPadOS & iOS 15.0.2 with bug fixes for Find My, Photos, more](https://appleinsider.com/articles/21/10/11/apple-releases-ios-1502-with-bug-fixes-for-find-my-photos-and-more?utm_medium=rss)
+ - [The best deals on 4K TVs](https://www.theverge.com/22371561/best-4k-tv-deals-sale-lg-samsung-sony-tcl)
+ - [iPhone gets USB-C thanks to creative robotics engineer](https://appleinsider.com/articles/21/10/11/iphone-gets-usb-c-thanks-to-creative-robotics-engineer?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
