@@ -195,9 +195,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It&#039;s just too much to bear](http://9gag.com/gag/aV7G6jv)
+ - 🚖 [Qu&#039;est ce que la vie](http://9gag.com/gag/a6EWYw9)
  - 🚯 [-How fast were you going? -Like 30 -Like 30 what? -Speed](http://9gag.com/gag/aB2DAYN)
- - 🚯 [Metal Gear Solid was my favourite game on the PS1 and for you?](http://9gag.com/gag/aRXxqq5)<!-- MEMES:END -->
+ - 🚯 [My comrade!](http://9gag.com/gag/aXo8yxz)<!-- MEMES:END -->
 
 --- 
 
