@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple releases iPadOS & iOS 15.0.2 with bug fixes for Find My, Photos, more](https://appleinsider.com/articles/21/10/11/apple-releases-ios-1502-with-bug-fixes-for-find-my-photos-and-more?utm_medium=rss)
- - [The best deals on 4K TVs](https://www.theverge.com/22371561/best-4k-tv-deals-sale-lg-samsung-sony-tcl)
- - [iPhone gets USB-C thanks to creative robotics engineer](https://appleinsider.com/articles/21/10/11/iphone-gets-usb-c-thanks-to-creative-robotics-engineer?utm_medium=rss)<!-- TECH:END -->
+ - [How to Read Whatsapp Deleted Messages | Genius Trick](https://techncruncher.blogspot.com/2021/10/how-to-read-whatsapp-deleted-messages.html)
+ - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
+ - [In an email to employees, Andy Jassy says Amazon will leave remote work decisions to team leaders, instead of having everyone return by January (Todd Bishop/GeekWire)](http://www.techmeme.com/211011/p14#a211011p14)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
