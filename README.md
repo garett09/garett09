@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This is the Apple Watch you should buy in 2021](https://appleinsider.com/articles/21/10/09/this-is-the-apple-watch-you-should-buy-in-2021?utm_medium=rss)
- - [Facebook and Instagram are making changes to 'nudge' teens away from harmful content     - CNET](https://www.cnet.com/news/facebook-and-instagram-are-making-changes-to-nudge-teens-away-from-harmful-content/#ftag=CAD590a51e)
- - [Yes, Squid Game is eligible for the Emmys. But does it stand a chance?     - CNET](https://www.cnet.com/news/yep-squid-game-is-eligible-for-the-emmys-but-does-it-stand-a-chance/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A look at Pix, a mobile payments system launched 11 months ago by Brazil's Central Bank and used at least once by half of Brazil's population (Bloomberg)](http://www.techmeme.com/211010/p7#a211010p7)
+ - [First moon rocks returned to Earth since 1976 years may alter lunar history     - CNET](https://www.cnet.com/news/first-moon-rocks-returned-to-earth-since-1976-years-may-alter-lunar-history/#ftag=CAD590a51e)
+ - [This is the Apple Watch you should buy in 2021](https://appleinsider.com/articles/21/10/09/this-is-the-apple-watch-you-should-buy-in-2021?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
