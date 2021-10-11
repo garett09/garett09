@@ -181,9 +181,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Classified Military Documents Leaked Again In The Same Game](https://kotaku.com/classified-military-documents-leaked-again-in-the-same-1847836807)
- - [Star Wars: The Old Republic is testing a 'combat style' revamp](https://www.pcgamer.com/star-wars-the-old-republic-is-testing-a-combat-style-revamp)
- - [Happy 20th Birthday, ScummVM!](https://kotaku.com/happy-20th-birthday-scummvm-1847836450)<!-- GAME:END -->
+ - [(For Southeast Asia) “Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles” Game Trailer #3 Released!](http://feedproxy.google.com/~r/PSBlog/~3/fwAAGkKJpfQ/)
+ - [(For Southeast Asia) “Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles” Game Trailer #3 Released!](https://blog.playstation.com/2021/10/11/20211011-demonslayer/)
+ - [Classified Military Documents Leaked Again In The Same Game](https://kotaku.com/classified-military-documents-leaked-again-in-the-same-1847836807)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
