@@ -195,8 +195,8 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Epilepsy service dog catches his human before she hits the floor](http://9gag.com/gag/aeAXLMq)
- - 🚯 [Google reverse image search still needs some work](http://9gag.com/gag/awMq65r)
+ - 🚖 [After 10 years of an emotionally abusive relationship.. (towards the end she even made up a bunch of stuff to the police and had me arrested) I finally had the courage to say &quot;no more&quot; and break free.. here is my little sanctuary.. it&#039;s not much but at least I finally have peace](http://9gag.com/gag/aLpqZ1v)
+ - 🚯 [If only it were always like this.](http://9gag.com/gag/arMPjM7)
  - 🚯 [Another reason Superman beats Captain Marvel](http://9gag.com/gag/aXo8ByV)<!-- MEMES:END -->
 
 --- 
