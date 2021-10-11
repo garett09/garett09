@@ -195,9 +195,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hope that doesn&rsquo;t happen](http://9gag.com/gag/aV7GNyO)
- - 🚯 [Perfect for children.. oh wait!](http://9gag.com/gag/aRXx5gq)
- - 🚯 [Charile is up in the trees...hey wait a minute!](http://9gag.com/gag/aAbnWwL)<!-- MEMES:END -->
+ - 🚖 [Lol](http://9gag.com/gag/a7EjznL)
+ - 🚯 [Can they actually die?](http://9gag.com/gag/aYoz8ew)
+ - 🚯 [Skateboarder helps his daughter build up confidence to conquer drop](http://9gag.com/gag/aAbno4d)<!-- MEMES:END -->
 
 --- 
 
