@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google to give Iphone users a better experience of it's app, here's how](https://techncruncher.blogspot.com/2021/10/google-to-give-iphone-users-better.html)
- - [OnePlus 9RT: All the rumors in one place (Oct. 11)](https://www.androidauthority.com/oneplus-9rt-2737438/)
- - [Key OnePlus 9RT specs officially confirmed ahead of launch](https://www.androidauthority.com/oneplus-9rt-specs-3037852/)<!-- TECH:END -->
+ - [Samsung has a cool idea for in-display fingerprint sensors on foldables](https://www.androidauthority.com/samsung-dual-sided-in-display-fingerprint-sensor-foldable-3037877/)
+ - [‘Pixel Pass’ is Google’s rumored response to Apple One](https://www.theverge.com/2021/10/11/22720374/google-pixel-pass-subscription-premium-services-bundle-extended-warranty)
+ - [Android 12 or Windows 11: Which one do you think is the bigger and better upgrade?](https://techncruncher.blogspot.com/2021/10/android-12-or-windows-11-which-one-do.html)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
