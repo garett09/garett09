@@ -181,9 +181,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Doom Fighters lets you bareknuckle brawl your way out of hell](https://www.pcgamer.com/doom-fighters-lets-you-bareknuckle-brawl-your-way-out-of-hell)
- - [In Dying Light 2 the choices you make can change an entire city](https://www.pcgamer.com/in-dying-light-2-the-choices-you-make-can-change-an-entire-city)
- - [(For Southeast Asia) “Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles” Game Trailer #3 Released!](http://feedproxy.google.com/~r/PSBlog/~3/fwAAGkKJpfQ/)<!-- GAME:END -->
+ - [Teardown mod turns the physics sandbox into terrifying survival horror gauntlet](https://www.pcgamer.com/teardown-mod-turns-the-physics-sandbox-into-terrifying-survival-horror-gauntlet)
+ - [The best gaming routers in 2021](https://www.pcgamer.com/best-gaming-routers)
+ - [FIFA 22 review](https://www.pcgamer.com/fifa-22-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
