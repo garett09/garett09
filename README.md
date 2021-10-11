@@ -181,9 +181,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Forza Horizon 5 Is More Forza Horizon And That’s Fantastic](https://kotaku.com/forza-horizon-5-is-more-forza-horizon-and-that-s-fantas-1847838491)
- - [Rider's Republic is free to try for 24 hours starting tomorrow](https://www.pcgamer.com/riders-republic-is-free-to-try-for-24-hours-starting-tomorrow)
- - [Intel's next-gen i5 may lack Alder Lake's boldest feature but is still more than a match for AMD](https://www.pcgamer.com/intels-next-gen-i5-may-lack-alder-lakes-boldest-feature-but-is-still-more-than-a-match-for-amd)<!-- GAME:END -->
+ - [Age of Empires IV Achievements Revealed](https://news.xbox.com/en-us/2021/10/11/age-of-empires-iv-achievements-revealed/)
+ - [Every Marvel Cinematic Universe TV show, ranked](https://www.polygon.com/tv/22561233/marvel-tv-shows-ranked-mcu)
+ - [Squid Game Knock-Offs Are Taking Over GTA 5 Servers](https://kotaku.com/squid-game-knock-offs-are-taking-over-gta-5-severs-1847838890)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
