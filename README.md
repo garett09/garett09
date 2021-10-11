@@ -181,9 +181,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Teardown mod turns the physics sandbox into terrifying survival horror gauntlet](https://www.pcgamer.com/teardown-mod-turns-the-physics-sandbox-into-terrifying-survival-horror-gauntlet)
- - [The best gaming routers in 2021](https://www.pcgamer.com/best-gaming-routers)
- - [FIFA 22 review](https://www.pcgamer.com/fifa-22-review)<!-- GAME:END -->
+ - [Forza Horizon 5 leans into realism, and is more drivable as a result](https://www.polygon.com/22716831/forza-horizon-5-preview-cars-map-mercedes-amg-one)
+ - [New PCIe 5.0 GPU power connector could deliver an absurd 600W from a single cable](https://www.pcgamer.com/new-pcie-50-gpu-power-connector-could-deliver-an-absurd-600w-from-a-single-cable)
+ - [The best Warzone loadouts and class setups](https://www.pcgamer.com/best-warzone-loadout)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
