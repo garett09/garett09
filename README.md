@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Pixel 6: Everything we know so far (Updated: Oct. 11)](https://www.androidauthority.com/google-pixel-6-1207778/)
- - [Michael Dell says the key to winning is being unafraid to take risks     - CNET](https://www.cnet.com/tech/computing/michael-dell-says-the-key-to-winning-is-being-unafraid-to-take-risks/#ftag=CAD590a51e)
- - [Google’s plans for Fuchsia OS teased in job listings](https://www.theverge.com/2021/10/11/22720403/google-fuchsia-operating-system-os-smart-displays-form-factors-partners)<!-- TECH:END -->
+ - [Reddit hires Pali Bhat, former Google Cloud VP of product and design, as its first chief product officer (Aisha Malik/TechCrunch)](http://www.techmeme.com/211011/p5#a211011p5)
+ - [OnePlus Nord 2 updates: September Android patch lands in October](https://www.androidauthority.com/oneplus-nord-2-updates-1648431/)
+ - [Lenovo's Thinkpad X1 Carbon is Portable, Powerful—and Pricey](https://www.wired.com/review/lenovo-thinkpad-x1-carbon-2021)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
