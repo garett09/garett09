@@ -195,9 +195,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When Mr.James Bond really fall in love and then 30 years later.](http://9gag.com/gag/ad83ZxQ)
- - 🚯 [When you think of tropical island surfing music...](http://9gag.com/gag/a3EooQv)
- - 🚯 [All these houses are connected by a pool](http://9gag.com/gag/aeAXXgp)<!-- MEMES:END -->
+ - 🚖 [When you think of tropical island surfing music...](http://9gag.com/gag/a3EooQv)
+ - 🚯 [According to an index developed in 2015, the Earth is not the most habitable planet discovered in the Universe. Kepler-442b, a rocky exoplanet 1,206 light years from Earth, has a rating of 0.836. Earth is at 0.829.](http://9gag.com/gag/a9E3QMj)
+ - 🚯 [So nostalgic..](http://9gag.com/gag/aNPmmYw)<!-- MEMES:END -->
 
 --- 
 
