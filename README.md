@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Burn-in isn’t a huge risk for Nintendo’s Switch OLED, but you can still take precautions](https://www.theverge.com/2021/10/11/22716811/nintendo-switch-oled-model-burn-in-image-retention)
- - [Nintendo won’t make Europeans play worse versions of N64 games on Switch](https://www.theverge.com/2021/10/11/22720625/nintendo-64-switch-pal-region-60hz-50hz-confirmed-ntsc)
- - [Amazon launches 7 must-have Apple bargains ahead of Black Friday](https://appleinsider.com/articles/21/10/11/amazon-launches-7-must-have-apple-bargains-ahead-of-black-friday?utm_medium=rss)<!-- TECH:END -->
+ - [Google Pixel 6 showed off in leaked listing ahead of launch, report says     - CNET](https://www.cnet.com/tech/mobile/google-pixel-6-showed-off-in-leaked-listing-ahead-of-launch-report-says/#ftag=CAD590a51e)
+ - [Google TV adds user profiles to Chromecast streamer and smart TVs     - CNET](https://www.cnet.com/tech/home-entertainment/google-tv-adds-user-profiles-to-chromecast-streamer-and-smart-tvs/#ftag=CAD590a51e)
+ - [Best soft mattresses of 2021     - CNET](https://www.cnet.com/health/sleep/best-soft-mattresses/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
