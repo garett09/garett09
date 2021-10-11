@@ -195,9 +195,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How many of you did this](http://9gag.com/gag/a3Eo9Qr)
- - 🚯 [Japanese never cease to amaze me](http://9gag.com/gag/a5EL4Oy)
- - 🚯 [Hope that doesn&rsquo;t happen](http://9gag.com/gag/aV7GNyO)<!-- MEMES:END -->
+ - 🚖 [Hope that doesn&rsquo;t happen](http://9gag.com/gag/aV7GNyO)
+ - 🚯 [Perfect for children.. oh wait!](http://9gag.com/gag/aRXx5gq)
+ - 🚯 [Charile is up in the trees...hey wait a minute!](http://9gag.com/gag/aAbnWwL)<!-- MEMES:END -->
 
 --- 
 
