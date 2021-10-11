@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Reddit hires Pali Bhat, former Google Cloud VP of product and design, as its first chief product officer (Aisha Malik/TechCrunch)](http://www.techmeme.com/211011/p5#a211011p5)
- - [OnePlus Nord 2 updates: September Android patch lands in October](https://www.androidauthority.com/oneplus-nord-2-updates-1648431/)
- - [Lenovo's Thinkpad X1 Carbon is Portable, Powerful—and Pricey](https://www.wired.com/review/lenovo-thinkpad-x1-carbon-2021)<!-- TECH:END -->
+ - [Best mattress for side sleepers in 2021     - CNET](https://www.cnet.com/health/sleep/best-mattress-for-side-sleepers/#ftag=CAD590a51e)
+ - [The Best Espresso Machines for the Home Barista](https://www.wired.com/gallery/best-espresso-machines)
+ - [Google TV is adding personalized profiles and watchlists soon](https://www.theverge.com/2021/10/11/22716932/google-tv-profiles-watchlist-ambient-mode-philo)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
