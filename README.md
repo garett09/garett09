@@ -181,9 +181,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Your Hard-Earned Monster Hunter Rise Progress Won’t Transfer From Switch To PC](https://kotaku.com/your-hard-earned-monster-hunter-rise-progress-won-t-tra-1847841327)
- - [Genshin Impact’s Latest Character Announcement Is Bringing Out The Thirst](https://kotaku.com/genshin-impact-s-latest-character-announcement-is-bring-1847841160)
- - [Halo Infinite Vs. Battlefield 2042: Battle Of The Betas](https://kotaku.com/halo-infinite-vs-battlefield-2042-battle-of-the-betas-1847840785)<!-- GAME:END -->
+ - [I Have Seen Hell, And It Is Epic Thinking About A Fortnite Movie](https://kotaku.com/i-have-seen-hell-and-it-is-epic-thinking-about-a-fortn-1847841896)
+ - [Bittersweet Birthday is a bullet hell adventure about a boy and his bird brother](https://www.pcgamer.com/bittersweet-birthday-is-a-bullet-hell-adventure-about-a-boy-and-his-bird-brother)
+ - [Your Hard-Earned Monster Hunter Rise Progress Won’t Transfer From Switch To PC](https://kotaku.com/your-hard-earned-monster-hunter-rise-progress-won-t-tra-1847841327)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
