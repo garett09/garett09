@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tardigrade trapped in 16-million-year-old amber a 'once in a generation' find     - CNET](https://www.cnet.com/news/tardigrade-trapped-in-16-million-year-old-amber-a-once-in-a-generation-find/#ftag=CAD590a51e)
- - [Gender inequality online is 'expensive for all of us,' says web inventor's foundation     - CNET](https://www.cnet.com/news/gender-inequality-online-is-expensive-for-all-of-us/#ftag=CAD590a51e)
- - [Climate change: 'World's best last chance' for action at COP26. What you need to know     - CNET](https://www.cnet.com/news/climate-change-worlds-best-last-chance-for-action-at-cop26-what-you-need-to-know/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Bold new mission to asteroid belt will study Venus and seven unknown worlds     - CNET](https://www.cnet.com/news/bold-new-mission-to-asteroid-belt-will-study-venus-and-seven-unknown-worlds/#ftag=CAD590a51e)
+ - [It could take decades to regulate big tech](https://appleinsider.com/articles/21/10/10/it-could-take-decades-to-regulate-big-tech?utm_medium=rss)
+ - [Nick Clegg says that Facebook will put "more friends, less politics" in News Feed and will "nudge" teens away from toxic Instagram content (Bruce Haring/Deadline)](http://www.techmeme.com/211010/p6#a211010p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
