@@ -195,9 +195,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When you think of tropical island surfing music...](http://9gag.com/gag/a3EooQv)
- - 🚯 [According to an index developed in 2015, the Earth is not the most habitable planet discovered in the Universe. Kepler-442b, a rocky exoplanet 1,206 light years from Earth, has a rating of 0.836. Earth is at 0.829.](http://9gag.com/gag/a9E3QMj)
- - 🚯 [So nostalgic..](http://9gag.com/gag/aNPmmYw)<!-- MEMES:END -->
+ - 🚖 [Today&#039;s gonna be goood](http://9gag.com/gag/aDDRRm9)
+ - 🚯 [That will be 1000$ sir](http://9gag.com/gag/azM66Op)
+ - 🚯 [That or a gobbo shortstack](http://9gag.com/gag/a5ELL7V)<!-- MEMES:END -->
 
 --- 
 
