@@ -181,9 +181,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Forza Horizon 5 leans into realism, and is more drivable as a result](https://www.polygon.com/22716831/forza-horizon-5-preview-cars-map-mercedes-amg-one)
- - [New PCIe 5.0 GPU power connector could deliver an absurd 600W from a single cable](https://www.pcgamer.com/new-pcie-50-gpu-power-connector-could-deliver-an-absurd-600w-from-a-single-cable)
- - [The best Warzone loadouts and class setups](https://www.pcgamer.com/best-warzone-loadout)<!-- GAME:END -->
+ - [Designing for the DualSense controller – the UI of Disciples: Liberation](https://blog.playstation.com/2021/10/11/designing-for-the-dualsense-controller-the-ui-of-disciples-liberation/)
+ - [Xbox Reveals Xbox Series X Consoles Celebrating Nickelodeon All-Star Brawl](https://news.xbox.com/en-us/2021/10/11/xbox-unveils-xbox-series-x-consoles-celebrating-nickelodeon-all-star-brawl/)
+ - [Activision-Blizzard lawsuits in chaos as federal agency accuses California's DFEH of ethics violations](https://www.pcgamer.com/activision-blizzard-lawsuits-in-chaos-as-federal-agency-accuses-californias-dfeh-of-ethics-violations)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
