@@ -195,9 +195,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [You are fake news. Also, nice crop shitlord.](http://9gag.com/gag/aoMBb0e)
- - 🚯 [Another reason Superman beats Captain Marvel](http://9gag.com/gag/aXo8ByV)
- - 🚯 [CEOs of 7 major tobacco corporations testifying under oath that nicotine does NOT cause addiction. 1994.](http://9gag.com/gag/a07mBVZ)<!-- MEMES:END -->
+ - 🚖 [Epilepsy service dog catches his human before she hits the floor](http://9gag.com/gag/aeAXLMq)
+ - 🚯 [Google reverse image search still needs some work](http://9gag.com/gag/awMq65r)
+ - 🚯 [Another reason Superman beats Captain Marvel](http://9gag.com/gag/aXo8ByV)<!-- MEMES:END -->
 
 --- 
 
