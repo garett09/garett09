@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Key OnePlus 9RT specs officially confirmed ahead of launch](https://www.androidauthority.com/oneplus-9rt-specs-3037852/)
- - [Fairphone 4 review: the price of sustainability](https://www.theverge.com/22716194/fairphone-4-review)
- - [Pixel Pass leaked: A Pixel phone and Google services for one monthly fee](https://www.androidauthority.com/google-pixel-pass-3037006/)<!-- TECH:END -->
+ - [Google to give Iphone users a better experience of it's app, here's how](https://techncruncher.blogspot.com/2021/10/google-to-give-iphone-users-better.html)
+ - [OnePlus 9RT: All the rumors in one place (Oct. 11)](https://www.androidauthority.com/oneplus-9rt-2737438/)
+ - [Key OnePlus 9RT specs officially confirmed ahead of launch](https://www.androidauthority.com/oneplus-9rt-specs-3037852/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
