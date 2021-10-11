@@ -196,8 +196,8 @@ Windows                  8 hrs 4 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [The pink ranger had her 51st birthday Oct. 6. Time flies.](http://9gag.com/gag/aGpPXVn)
- - 🚯 [Epilepsy service dog catches his human before she hits the floor](http://9gag.com/gag/aeAXLMq)
- - 🚯 [My comrade!](http://9gag.com/gag/aXo8yxz)<!-- MEMES:END -->
+ - 🚯 [Paint stripper in action.](http://9gag.com/gag/aK6bQPj)
+ - 🚯 [Inflation over time](http://9gag.com/gag/a8ErZy1)<!-- MEMES:END -->
 
 --- 
 
