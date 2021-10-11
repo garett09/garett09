@@ -181,9 +181,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [(For Southeast Asia) “Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles” Game Trailer #3 Released!](http://feedproxy.google.com/~r/PSBlog/~3/fwAAGkKJpfQ/)
- - [(For Southeast Asia) “Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles” Game Trailer #3 Released!](https://blog.playstation.com/2021/10/11/20211011-demonslayer/)
- - [Classified Military Documents Leaked Again In The Same Game](https://kotaku.com/classified-military-documents-leaked-again-in-the-same-1847836807)<!-- GAME:END -->
+ - [Doom Fighters lets you bareknuckle brawl your way out of hell](https://www.pcgamer.com/doom-fighters-lets-you-bareknuckle-brawl-your-way-out-of-hell)
+ - [In Dying Light 2 the choices you make can change an entire city](https://www.pcgamer.com/in-dying-light-2-the-choices-you-make-can-change-an-entire-city)
+ - [(For Southeast Asia) “Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles” Game Trailer #3 Released!](http://feedproxy.google.com/~r/PSBlog/~3/fwAAGkKJpfQ/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
