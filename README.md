@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to Read Whatsapp Deleted Messages | Genius Trick](https://techncruncher.blogspot.com/2021/10/how-to-read-whatsapp-deleted-messages.html)
- - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
- - [In an email to employees, Andy Jassy says Amazon will leave remote work decisions to team leaders, instead of having everyone return by January (Todd Bishop/GeekWire)](http://www.techmeme.com/211011/p14#a211011p14)<!-- TECH:END -->
+ - [Here are the Google Pixel 6 color names and what we think they match to](https://www.androidauthority.com/google-pixel-6-colors-3038312/)
+ - [Sources: Tiger Global and Coatue are co-leading a $400M financing round for cryptocurrency payments startup MoonPay at a $3.4B valuation (Kate Clark/The Information)](http://www.techmeme.com/211011/p15#a211011p15)
+ - [Amazon’s new work-from-home policy: let teams decide](https://www.theverge.com/2021/10/11/22721096/amazon-work-from-home-policy-teams-decide-covid-19-pandemic)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
