@@ -195,9 +195,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [After 10 years of an emotionally abusive relationship.. (towards the end she even made up a bunch of stuff to the police and had me arrested) I finally had the courage to say &quot;no more&quot; and break free.. here is my little sanctuary.. it&#039;s not much but at least I finally have peace](http://9gag.com/gag/aLpqZ1v)
- - 🚯 [If only it were always like this.](http://9gag.com/gag/arMPjM7)
- - 🚯 [Another reason Superman beats Captain Marvel](http://9gag.com/gag/aXo8ByV)<!-- MEMES:END -->
+ - 🚖 [Skateboarder helps his daughter build up confidence to conquer drop](http://9gag.com/gag/aAbno4d)
+ - 🚯 [Another reason Superman beats Captain Marvel](http://9gag.com/gag/aXo8ByV)
+ - 🚯 [You are fake news. Also, nice crop shitlord.](http://9gag.com/gag/aoMBb0e)<!-- MEMES:END -->
 
 --- 
 
