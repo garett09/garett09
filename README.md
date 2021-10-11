@@ -181,9 +181,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Designing for the DualSense controller – the UI of Disciples: Liberation](https://blog.playstation.com/2021/10/11/designing-for-the-dualsense-controller-the-ui-of-disciples-liberation/)
- - [Xbox Reveals Xbox Series X Consoles Celebrating Nickelodeon All-Star Brawl](https://news.xbox.com/en-us/2021/10/11/xbox-unveils-xbox-series-x-consoles-celebrating-nickelodeon-all-star-brawl/)
- - [Activision-Blizzard lawsuits in chaos as federal agency accuses California's DFEH of ethics violations](https://www.pcgamer.com/activision-blizzard-lawsuits-in-chaos-as-federal-agency-accuses-californias-dfeh-of-ethics-violations)<!-- GAME:END -->
+ - [Forza Horizon 5 Is More Forza Horizon And That’s Fantastic](https://kotaku.com/forza-horizon-5-is-more-forza-horizon-and-that-s-fantas-1847838491)
+ - [Rider's Republic is free to try for 24 hours starting tomorrow](https://www.pcgamer.com/riders-republic-is-free-to-try-for-24-hours-starting-tomorrow)
+ - [Intel's next-gen i5 may lack Alder Lake's boldest feature but is still more than a match for AMD](https://www.pcgamer.com/intels-next-gen-i5-may-lack-alder-lakes-boldest-feature-but-is-still-more-than-a-match-for-amd)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
