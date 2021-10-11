@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon Prime Video: The 26 best movies to watch this week     - CNET](https://www.cnet.com/news/amazon-prime-video-the-26-best-movies-to-watch-this-week/#ftag=CAD590a51e)
- - [Samsung Galaxy S22 series’ charging speed could be its biggest weakness](https://www.androidauthority.com/samsung-galaxy-s22-charging-speed-3037831/)
- - [Netflix: The 41 best movies to see this week     - CNET](https://www.cnet.com/news/netflix-the-41-best-movies-to-see-this-week/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Key OnePlus 9RT specs officially confirmed ahead of launch](https://www.androidauthority.com/oneplus-9rt-specs-3037852/)
+ - [Fairphone 4 review: the price of sustainability](https://www.theverge.com/22716194/fairphone-4-review)
+ - [Pixel Pass leaked: A Pixel phone and Google services for one monthly fee](https://www.androidauthority.com/google-pixel-pass-3037006/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
