@@ -195,9 +195,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Why are they the way they are](http://9gag.com/gag/a07mAwq)
- - 🚯 [Much IQ](http://9gag.com/gag/arMPjwV)
- - 🚯 [Wait for it](http://9gag.com/gag/awMq6LR)<!-- MEMES:END -->
+ - 🚖 [MESS WITH THE BULL...](http://9gag.com/gag/aV7GnG8)
+ - 🚯 [How many of you did this](http://9gag.com/gag/a3Eo9Qr)
+ - 🚯 [You know the rules and so do i](http://9gag.com/gag/a7Ej4Nr)<!-- MEMES:END -->
 
 --- 
 
