@@ -195,8 +195,8 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [And it works&hellip;](http://9gag.com/gag/a3EomeN)
- - 🚯 [Posters outside chinese embassy in India.](http://9gag.com/gag/aoMBQqA)
+ - 🚖 [You are fake news. Also, nice crop shitlord.](http://9gag.com/gag/aoMBb0e)
+ - 🚯 [Another reason Superman beats Captain Marvel](http://9gag.com/gag/aXo8ByV)
  - 🚯 [CEOs of 7 major tobacco corporations testifying under oath that nicotine does NOT cause addiction. 1994.](http://9gag.com/gag/a07mBVZ)<!-- MEMES:END -->
 
 --- 
