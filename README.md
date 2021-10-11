@@ -195,9 +195,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The pink ranger had her 51st birthday Oct. 6. Time flies.](http://9gag.com/gag/aGpPXVn)
- - 🚯 [When you ask her about dessert](http://9gag.com/gag/amPD4w9)
- - 🚯 [Wishing everyone a prosperous Taiwan&#039;s National Day Love from India. #TaiwanNationalDay #TaiwanIsNotChina](http://9gag.com/gag/a8ErZQY)<!-- MEMES:END -->
+ - 🚖 [And it works&hellip;](http://9gag.com/gag/a3EomeN)
+ - 🚯 [Posters outside chinese embassy in India.](http://9gag.com/gag/aoMBQqA)
+ - 🚯 [CEOs of 7 major tobacco corporations testifying under oath that nicotine does NOT cause addiction. 1994.](http://9gag.com/gag/a07mBVZ)<!-- MEMES:END -->
 
 --- 
 
