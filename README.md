@@ -181,9 +181,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Happy 20th Birthday, ScummVM!](https://kotaku.com/happy-20th-birthday-scummvm-1847836450)
- - [The Animaniacs go Full Thundercat to tease season 2](https://www.polygon.com/22719895/animaniacs-season-2-release-trailer-thundercats)
- - [Deux Ex Gender Swap Lets You Play The Whole Game As A Woman](https://kotaku.com/deux-ex-gender-swap-lets-you-play-the-whole-game-as-a-w-1847836320)<!-- GAME:END -->
+ - [Classified Military Documents Leaked Again In The Same Game](https://kotaku.com/classified-military-documents-leaked-again-in-the-same-1847836807)
+ - [Star Wars: The Old Republic is testing a 'combat style' revamp](https://www.pcgamer.com/star-wars-the-old-republic-is-testing-a-combat-style-revamp)
+ - [Happy 20th Birthday, ScummVM!](https://kotaku.com/happy-20th-birthday-scummvm-1847836450)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
