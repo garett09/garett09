@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung has a cool idea for in-display fingerprint sensors on foldables](https://www.androidauthority.com/samsung-dual-sided-in-display-fingerprint-sensor-foldable-3037877/)
- - [‘Pixel Pass’ is Google’s rumored response to Apple One](https://www.theverge.com/2021/10/11/22720374/google-pixel-pass-subscription-premium-services-bundle-extended-warranty)
- - [Android 12 or Windows 11: Which one do you think is the bigger and better upgrade?](https://techncruncher.blogspot.com/2021/10/android-12-or-windows-11-which-one-do.html)<!-- TECH:END -->
+ - [Apple drops new Safari bookmark end-to-end encryption](https://appleinsider.com/articles/21/10/11/apple-drops-new-safari-bookmark-end-to-end-encryption?utm_medium=rss)
+ - [WhatsApp is working on a ‘community’ feature, but what could it be?](https://www.androidauthority.com/whatsapp-community-feature-3037894/)
+ - [Pixel 6 is coming soon, but should you buy Google's Pixel 3, 4, 5 or 5A instead?     - CNET](https://www.cnet.com/tech/mobile/pixel-6-is-coming-soon-but-should-you-buy-googles-pixel-3-4-5-or-5a-instead/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
