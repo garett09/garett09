@@ -195,8 +195,8 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Today&#039;s gonna be goood](http://9gag.com/gag/aDDRRm9)
- - 🚯 [That will be 1000$ sir](http://9gag.com/gag/azM66Op)
+ - 🚖 [I used to watch this before discovering Cartoon Network when I was a child. Who remembers this?](http://9gag.com/gag/a51ppqE)
+ - 🚯 [All these houses are connected by a pool](http://9gag.com/gag/aeAXXgp)
  - 🚯 [That or a gobbo shortstack](http://9gag.com/gag/a5ELL7V)<!-- MEMES:END -->
 
 --- 
