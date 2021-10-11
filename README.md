@@ -195,9 +195,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Drone putting out a blazing high-rise building fire.](http://9gag.com/gag/a9E39mK)
- - 🚯 [Google reverse image search still needs some work](http://9gag.com/gag/awMq65r)
- - 🚯 [Japanese never cease to amaze me](http://9gag.com/gag/a5EL4Oy)<!-- MEMES:END -->
+ - 🚖 [How many of you did this](http://9gag.com/gag/a3Eo9Qr)
+ - 🚯 [Japanese never cease to amaze me](http://9gag.com/gag/a5EL4Oy)
+ - 🚯 [Hope that doesn&rsquo;t happen](http://9gag.com/gag/aV7GNyO)<!-- MEMES:END -->
 
 --- 
 
