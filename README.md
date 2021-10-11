@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Magic Leap somehow raised $500 million to make another AR headset](https://www.theverge.com/2021/10/11/22721345/magic-leap-500-million-funding-ar-headset)
- - [Whistleblower Frances Haugen accepts an invitation to brief Facebook's Oversight Board, which she claims Facebook has lied to "repeatedly" (Ivana Saric/Axios)](http://www.techmeme.com/211011/p18#a211011p18)
- - [Amazon Games provides more details on New World server transfers     - CNET](https://www.cnet.com/tech/gaming/amazon-games-provides-more-details-on-new-world-server-transfers/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Source: HTC's Vive Flow VR headset, to be released on Thursday, features six degrees of freedom tracking and is mostly for content consumption and casual gaming (Janko Roettgers/Protocol)](http://www.techmeme.com/211011/p19#a211011p19)
+ - [Save 30% on the 4th Gen Echo Dot, plus more of the latest Amazon Echo deals](https://www.androidauthority.com/best-amazon-echo-deals-1109829/)
+ - [Amazfit launches three new, long-lasting smartwatches](https://www.androidauthority.com/amazfit-gtr-3-pro-3038353/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
