@@ -181,9 +181,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Halo Infinite Vs. Battlefield 2042: Battle Of The Betas](https://kotaku.com/halo-infinite-vs-battlefield-2042-battle-of-the-betas-1847840785)
- - [Jenga and WarioWare collide in this free game](https://www.pcgamer.com/jenga-and-warioware-collide-in-this-free-game)
- - [Everybody Deserves A SpongeBob SquarePants Xbox](https://kotaku.com/everybody-deserves-a-spongebob-squarepants-xbox-1847840762)<!-- GAME:END -->
+ - [Your Hard-Earned Monster Hunter Rise Progress Won’t Transfer From Switch To PC](https://kotaku.com/your-hard-earned-monster-hunter-rise-progress-won-t-tra-1847841327)
+ - [Genshin Impact’s Latest Character Announcement Is Bringing Out The Thirst](https://kotaku.com/genshin-impact-s-latest-character-announcement-is-bring-1847841160)
+ - [Halo Infinite Vs. Battlefield 2042: Battle Of The Betas](https://kotaku.com/halo-infinite-vs-battlefield-2042-battle-of-the-betas-1847840785)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
