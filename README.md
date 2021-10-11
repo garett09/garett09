@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: HTC's Vive Flow VR headset, to be released on Thursday, features six degrees of freedom tracking and is mostly for content consumption and casual gaming (Janko Roettgers/Protocol)](http://www.techmeme.com/211011/p19#a211011p19)
- - [Save 30% on the 4th Gen Echo Dot, plus more of the latest Amazon Echo deals](https://www.androidauthority.com/best-amazon-echo-deals-1109829/)
- - [Amazfit launches three new, long-lasting smartwatches](https://www.androidauthority.com/amazfit-gtr-3-pro-3038353/)<!-- TECH:END -->
+ - [Alexa can make remote learning easier with these 5 tricks     - CNET](https://www.cnet.com/home/smart-home/alexa-can-make-remote-learning-easier-heres-how/#ftag=CAD590a51e)
+ - [Update your iPhone: Apple releases security patch for an active exploit     - CNET](https://www.cnet.com/tech/services-and-software/update-your-iphone-apple-releases-security-patch-for-an-active-exploit/#ftag=CAD590a51e)
+ - [Elk with tire stuck around its neck for years finally freed     - CNET](https://www.cnet.com/news/elk-with-tire-stuck-around-its-neck-for-years-finally-freed/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
