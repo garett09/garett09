@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Astronomers 'Stumped' Over Images Of Bizarre Double Galaxy](https://techncruncher.blogspot.com/2021/10/astronomers-stumped-over-images-of.html)
- - [Netflix: The 54 best TV shows to watch this week     - CNET](https://www.cnet.com/news/netflix-the-54-best-tv-shows-to-watch-this-week/#ftag=CAD590a51e)
- - [Astronomers may have spotted first planet orbiting three stars     - CNET](https://www.cnet.com/news/astronomers-may-have-spotted-first-planet-orbiting-three-stars/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Amazon Prime Video: The 26 best movies to watch this week     - CNET](https://www.cnet.com/news/amazon-prime-video-the-26-best-movies-to-watch-this-week/#ftag=CAD590a51e)
+ - [Samsung Galaxy S22 series’ charging speed could be its biggest weakness](https://www.androidauthority.com/samsung-galaxy-s22-charging-speed-3037831/)
+ - [Netflix: The 41 best movies to see this week     - CNET](https://www.cnet.com/news/netflix-the-41-best-movies-to-see-this-week/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
