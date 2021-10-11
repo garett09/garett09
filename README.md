@@ -196,8 +196,8 @@ Windows                  8 hrs 4 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [The pink ranger had her 51st birthday Oct. 6. Time flies.](http://9gag.com/gag/aGpPXVn)
- - 🚯 [Paint stripper in action.](http://9gag.com/gag/aK6bQPj)
- - 🚯 [Inflation over time](http://9gag.com/gag/a8ErZy1)<!-- MEMES:END -->
+ - 🚯 [When you ask her about dessert](http://9gag.com/gag/amPD4w9)
+ - 🚯 [Wishing everyone a prosperous Taiwan&#039;s National Day Love from India. #TaiwanNationalDay #TaiwanIsNotChina](http://9gag.com/gag/a8ErZQY)<!-- MEMES:END -->
 
 --- 
 
