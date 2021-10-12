@@ -195,8 +195,8 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [42 Years Ago, A Very Important Book Was Released](http://9gag.com/gag/aKm4BB3)
- - 🚯 [Wtf is happening here?](http://9gag.com/gag/aDDRoWB)
+ - 🚖 [You can&rsquo;t unsee this!](http://9gag.com/gag/adgypzZ)
+ - 🚯 [&quot;Monsieur est gone&quot; - Montreal, Quebec](http://9gag.com/gag/a71vydA)
  - 🚯 [It&rsquo;s Us Against The World](http://9gag.com/gag/a11pe38)<!-- MEMES:END -->
 
 --- 
