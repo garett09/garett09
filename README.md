@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best deals on true wireless earbuds right now](https://www.theverge.com/22307388/wireless-earbuds-deals-airpods-galaxy-buds-powerbeats)
- - [Munich-based Personio, maker of cloud-based HR and recruiting software for SMBs, raises $270M Series E led by Greenoaks Capital Partners at a $6.3B valuation (Ingrid Lunden/TechCrunch)](http://www.techmeme.com/211011/p22#a211011p22)
- - [Samsung Z Flip 3, Z Fold 3 sales dwarf previous foldable demand     - CNET](https://www.cnet.com/tech/mobile/samsung-z-flip-3-z-fold-3-sales-dwarf-previous-foldable-demand/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best printer for 2021     - CNET](https://www.cnet.com/tech/computing/best-printer/#ftag=CAD590a51e)
+ - [Best gaming chair for 2021     - CNET](https://www.cnet.com/tech/gaming/best-gaming-chair/#ftag=CAD590a51e)
+ - [The best Nintendo Switch games to play in 2021     - CNET](https://www.cnet.com/pictures/the-best-nintendo-switch-games-to-play-in-2021/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
