@@ -195,8 +195,8 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Dave chappelle:THE CLOSER....100% recommend](http://9gag.com/gag/aAGBY4Z)
- - 🚯 [Gotta do watcha gotta do](http://9gag.com/gag/a91jMKm)
+ - 🚖 [Stupid people](http://9gag.com/gag/awzNbDR)
+ - 🚯 [You reap what you sow](http://9gag.com/gag/a41pdKm)
  - 🚯 [Finally some good news.](http://9gag.com/gag/aBn9QxP)<!-- MEMES:END -->
 
 --- 
