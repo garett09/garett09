@@ -195,9 +195,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Is she accurate?](http://9gag.com/gag/abg35G9)
- - 🚯 [Don&rsquo;t worry, we are here to rescue you](http://9gag.com/gag/a41p4gZ)
- - 🚯 [Super smash bros](http://9gag.com/gag/aRr6QVA)<!-- MEMES:END -->
+ - 🚖 [Stupid game](http://9gag.com/gag/aDDR0bO)
+ - 🚯 [Imagine having the dedication and perseverance that something like this requires](http://9gag.com/gag/aWgBQrA)
+ - 🚯 [Chad Robot](http://9gag.com/gag/aQX6Pye)<!-- MEMES:END -->
 
 --- 
 
