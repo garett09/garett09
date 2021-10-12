@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 10 best PS5 games you can play right now     - CNET](https://www.cnet.com/news/the-10-best-ps5-games-you-can-play-right-now/#ftag=CAD590a51e)
- - [NASA airborne laboratory flies through clouds to uncover surprising ocean link     - CNET](https://www.cnet.com/news/nasa-airborne-laboratory-flies-through-clouds-to-uncover-surprising-ocean-link/#ftag=CAD590a51e)
- - [All 24 Pixar movies ranked     - CNET](https://www.cnet.com/news/all-24-pixar-movies-ranked/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Samsung Galaxy Watch 4 updates: More stability improvements incoming](https://www.androidauthority.com/samsung-galaxy-watch-4-updates-2746069/)
+ - [Facebook says it will stop linking a user's Facebook and Instagram accounts behind the scenes for advertising purposes due to privacy and regulatory changes (Kurt Wagner/Bloomberg)](http://www.techmeme.com/211012/p1#a211012p1)
+ - [The 10 best PS5 games you can play right now     - CNET](https://www.cnet.com/news/the-10-best-ps5-games-you-can-play-right-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
