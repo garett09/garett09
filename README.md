@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Watch Tom Hanks in one of cinema’s best portraits of suburbia on Peacock](https://www.androidauthority.com/the-burbs-peacock-tom-hanks-3036808/)
- - [New 1Password feature lets you share passwords with a simple link     - CNET](https://www.cnet.com/tech/new-1password-feature-lets-you-share-passwords-with-a-simple-link/#ftag=CAD590a51e)
- - [New 'M1X' MacBook Pros to feature 1080p cameras, similar pricing, leaker claims](https://appleinsider.com/articles/21/10/12/new-m1x-macbook-pros-to-feature-1080p-cameras-similar-pricing-leaker-claims?utm_medium=rss)<!-- TECH:END -->
+ - [FDA authorizes first e-cigarette but only allows tobacco flavors](https://www.theverge.com/2021/10/12/22723175/fda-first-vaping-authorization-vuse-tobacco-flavors)
+ - [Get $600 off the Olympus Mark III, and more great camera deals](https://www.androidauthority.com/best-cheap-camera-deals-1117547/)
+ - [Apple reportedly can’t get enough chips for the iPhone 13](https://www.theverge.com/2021/10/12/22723209/apple-iphone-13-chip-shortage-manufacturing-report)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
