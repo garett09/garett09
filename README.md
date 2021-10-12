@@ -195,8 +195,8 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [You can&rsquo;t unsee this!](http://9gag.com/gag/adgypzZ)
- - 🚯 [&quot;Monsieur est gone&quot; - Montreal, Quebec](http://9gag.com/gag/a71vydA)
+ - 🚖 [Have some goddamn faith](http://9gag.com/gag/a81dYP6)
+ - 🚯 [How I see myself in retirement.](http://9gag.com/gag/a41pLx6)
  - 🚯 [It&rsquo;s Us Against The World](http://9gag.com/gag/a11pe38)<!-- MEMES:END -->
 
 --- 
