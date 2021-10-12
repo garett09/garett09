@@ -181,9 +181,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Destiny 2: Festival of the Lost unlock times](https://www.pcgamer.com/destiny-2-festival-of-the-lost-unlock-time)
- - [Console Hackers Commandeer Switch Game’s Very Fast Sega Saturn Emulator](https://kotaku.com/console-hackers-commandeer-switch-game-s-very-fast-sega-1847843623)
- - [The Scream trailer is for a movie called Scream that is also a sequel to Scream](https://www.polygon.com/22710794/scream-2022-trailer-release-date)<!-- GAME:END -->
+ - [Fortnite’s Impostors mode inspired by Among Us, Epic Games acknowledges](https://www.polygon.com/22722415/fortnite-among-us-impostors-inspiration-epic-games-admits)
+ - [Undying is a zombie survival game where you've already been bitten](https://www.pcgamer.com/undying-is-a-zombie-survival-game-where-youve-already-been-bitten)
+ - [Fourth largest RAM manufacturer warns of impending price correction](https://www.pcgamer.com/fourth-largest-ram-manufacturer-warns-of-impending-price-correction)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
