@@ -195,8 +195,8 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Today&#039;s gonna be goood](http://9gag.com/gag/aDDRRm9)
- - 🚯 [This cat with laryngeal paralysis that has a super deep meow](http://9gag.com/gag/aNPmmyA)
+ - 🚖 [This cat with laryngeal paralysis that has a super deep meow](http://9gag.com/gag/aNPmmyA)
+ - 🚯 [I used to watch this before discovering Cartoon Network when I was a child. Who remembers this?](http://9gag.com/gag/a51ppqE)
  - 🚯 [What&#039;s your Body Count?](http://9gag.com/gag/aGzKYD0)<!-- MEMES:END -->
 
 --- 
