@@ -195,9 +195,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What&#039;s your Body Count?](http://9gag.com/gag/aGzKYD0)
- - 🚯 [Chinesium strikes again](http://9gag.com/gag/aWgBZW3)
- - 🚯 [Straight to the point](http://9gag.com/gag/axBEdNW)<!-- MEMES:END -->
+ - 🚖 [Chinesium strikes again](http://9gag.com/gag/aWgBZW3)
+ - 🚯 [Is she accurate?](http://9gag.com/gag/abg35G9)
+ - 🚯 [Super smash bros](http://9gag.com/gag/aRr6QVA)<!-- MEMES:END -->
 
 --- 
 
