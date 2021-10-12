@@ -195,9 +195,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Stupid people](http://9gag.com/gag/awzNbDR)
- - 🚯 [Genes, why art thou cruel?](http://9gag.com/gag/a81dbA3)
- - 🚯 [Nom nom nom nom...](http://9gag.com/gag/aBn9QX1)<!-- MEMES:END -->
+ - 🚖 [This Emergency life boat is truly awesome](http://9gag.com/gag/a51pPpN)
+ - 🚯 [This is how people&#039;s perceptions changed over the years.](http://9gag.com/gag/ajgQ6Ep)
+ - 🚯 [Mooning a cop](http://9gag.com/gag/angeY6n)<!-- MEMES:END -->
 
 --- 
 
