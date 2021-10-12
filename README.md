@@ -181,9 +181,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Best Razer gaming laptop deals](https://www.pcgamer.com/the-best-razer-laptop-for-gaming-2019)
- - [An official Critical Role campaign is on the way from the publishers of D&D](https://www.polygon.com/22722429/dungeons-dragons-critical-role-call-of-the-netherdeep-campaign-release-date-price)
- - [Epic Finally Admits Among Us Inspired Fortnite's Impostors Mode](https://kotaku.com/epic-finally-admits-among-us-inspired-fortnites-imposto-1847846662)<!-- GAME:END -->
+ - [Doctor Strange just discovered the most powerful kind of comic book magic](https://www.polygon.com/comics/2021/10/12/22722387/doctor-strange-magic-origin-marvel-comics)
+ - [Genshin Impact Villain Childe Deserves All The Events And Reruns](https://kotaku.com/genshin-impact-villain-childe-deserves-all-the-events-a-1847847438)
+ - [Destiny 2: Xbox Game Pass Updates and Festival of the Lost 2021](https://news.xbox.com/en-us/2021/10/12/destiny-2-xbox-game-pass-updates-and-festival-of-the-lost-2021/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
