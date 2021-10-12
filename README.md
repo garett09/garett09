@@ -195,9 +195,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Stupid game](http://9gag.com/gag/aDDR0bO)
- - 🚯 [Imagine having the dedication and perseverance that something like this requires](http://9gag.com/gag/aWgBQrA)
- - 🚯 [Chad Robot](http://9gag.com/gag/aQX6Pye)<!-- MEMES:END -->
+ - 🚖 [Water swirl wormhole!?](http://9gag.com/gag/avA20MX)
+ - 🚯 [Spider Game](http://9gag.com/gag/aZrqPbp)
+ - 🚯 [Never trust the Dutch](http://9gag.com/gag/aXrZEZd)<!-- MEMES:END -->
 
 --- 
 
