@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Group rebuts claims big tech antitrust efforts would weaken national security](https://appleinsider.com/articles/21/10/12/group-rebuts-claims-big-tech-antitrust-efforts-would-weaken-national-security?utm_medium=rss)
- - ['The Shrink Next Door' trailer teases Will Ferrell & Paul Rudd Apple TV+ comedy](https://appleinsider.com/articles/21/10/12/the-shrink-next-door-trailer-teases-will-ferrell-paul-rudd-apple-tv-comedy?utm_medium=rss)
- - [Netgear has a new $1,500 Wi-Fi 6e mesh router](https://appleinsider.com/articles/21/10/12/netgear-has-a-new-1500-wi-fi-6e-mesh-router?utm_medium=rss)<!-- TECH:END -->
+ - [The next big thing in podcasts is talking back](https://www.theverge.com/2021/10/12/22722468/spotify-amazon-facebook-audio-podcast-polls-interact)
+ - [Best Deals Oct. 12: $519 M1 Mac mini, 55% off iClever Mac keyboard, and more!](https://appleinsider.com/articles/21/10/12/best-deals-oct-12-519-m1-mac-mini-55-off-iclever-mac-keyboard-and-more?utm_medium=rss)
+ - [Apple Silicon Macs can have two HDMI displays with new Hyper docks](https://appleinsider.com/articles/21/10/12/apple-silicon-macs-can-have-two-hdmi-displays-with-new-hyper-docks?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
