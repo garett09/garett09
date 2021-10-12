@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple's 16-inch MacBook Pro supply is running low](https://appleinsider.com/articles/21/10/12/apples-16-inch-macbook-pro-supply-is-running-low?utm_medium=rss)
- - [Volvo’s Classy All-Electric SUV Is Surprisingly Zippy](https://www.wired.com/review/volvo-xc40-recharge-2022)
- - [These apps let you customize Windows 11 to bring the taskbar back to life](https://www.theverge.com/2021/10/12/22722202/microsoft-windows-11-taskbar-customize-apps-start11-elevenclock)<!-- TECH:END -->
+ - [DoorDash introduces an ad platform, letting restaurants buy ads atop search results through a bidding system (Megan Graham/Wall Street Journal)](http://www.techmeme.com/211012/p19#a211012p19)
+ - [Meet Nokia G300, the $199 5G phone for Tracfone and Straight Talk customers](https://www.theverge.com/2021/10/12/22722036/nokia-g300-prepaid-5g-straight-talk-tracfone-price-specs-features)
+ - [Ecobee’s smart thermostat is the first to have Siri voice control built-in](https://www.theverge.com/2021/10/12/22720890/siri-voice-control-ecobee-smart-thermostats)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
