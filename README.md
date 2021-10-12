@@ -195,8 +195,8 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How I see myself in retirement.](http://9gag.com/gag/a41pLx6)
- - 🚯 [Rekt](http://9gag.com/gag/a11pZnv)
+ - 🚖 [You can&rsquo;t unsee this!](http://9gag.com/gag/adgypzZ)
+ - 🚯 [You reap what you sow](http://9gag.com/gag/a41pdKm)
  - 🚯 [It&rsquo;s Us Against The World](http://9gag.com/gag/a11pe38)<!-- MEMES:END -->
 
 --- 
