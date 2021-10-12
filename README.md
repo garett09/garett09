@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Squid Game comes to life in Abu Dhabi](https://techncruncher.blogspot.com/2021/10/squid-game-comes-to-life-in-abu-dhabi.html)
- - [Only Murders In The Building: Every Suspect, Ranked By Likelihood](https://techncruncher.blogspot.com/2021/10/only-murders-in-building-every-suspect.html)
- - [Halo Infinite Xbox Series X Pre-Orders Open For GameStop Pro Members](https://techncruncher.blogspot.com/2021/10/halo-infinite-xbox-series-x-pre-orders.html)<!-- TECH:END -->
+ - [Watch Tom Hanks in one of cinema’s best portraits of suburbia on Peacock](https://www.androidauthority.com/the-burbs-peacock-tom-hanks-3036808/)
+ - [New 1Password feature lets you share passwords with a simple link     - CNET](https://www.cnet.com/tech/new-1password-feature-lets-you-share-passwords-with-a-simple-link/#ftag=CAD590a51e)
+ - [New 'M1X' MacBook Pros to feature 1080p cameras, similar pricing, leaker claims](https://appleinsider.com/articles/21/10/12/new-m1x-macbook-pros-to-feature-1080p-cameras-similar-pricing-leaker-claims?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
