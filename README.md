@@ -181,9 +181,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [It's 2021, And Breath Of The Wild Is Finally Playable In Arabic](https://kotaku.com/its-2021-and-breath-of-the-wild-is-finally-playable-in-1847842352)
- - [Monster Hunter Rise won't support cross-save or crossplay with Nintendo Switch](https://www.pcgamer.com/monster-hunter-rise-wont-support-cross-save-or-crossplay-with-nintendo-switch)
- - [I Have Seen Hell, And It Is Epic Thinking About A Fortnite Movie](https://kotaku.com/i-have-seen-hell-and-it-is-epic-thinking-about-a-fortn-1847841896)<!-- GAME:END -->
+ - [Super Mario 64, Only Every Corner Is Wrong](https://kotaku.com/super-mario-64-only-every-corner-is-wrong-1847842962)
+ - [Here's a substantial peek at Saints Row's open world](https://www.pcgamer.com/heres-a-substantial-peek-at-saints-rows-open-world)
+ - [D&D Fans Want Wizards Of The Coast To Use The Metric System](https://kotaku.com/d-d-fans-want-wizards-of-the-coast-to-use-the-metric-sy-1847842856)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
