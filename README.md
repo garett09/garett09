@@ -181,9 +181,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Fortnite’s Impostors mode inspired by Among Us, Epic Games acknowledges](https://www.polygon.com/22722415/fortnite-among-us-impostors-inspiration-epic-games-admits)
- - [Undying is a zombie survival game where you've already been bitten](https://www.pcgamer.com/undying-is-a-zombie-survival-game-where-youve-already-been-bitten)
- - [Fourth largest RAM manufacturer warns of impending price correction](https://www.pcgamer.com/fourth-largest-ram-manufacturer-warns-of-impending-price-correction)<!-- GAME:END -->
+ - [Best Razer gaming laptop deals](https://www.pcgamer.com/the-best-razer-laptop-for-gaming-2019)
+ - [An official Critical Role campaign is on the way from the publishers of D&D](https://www.polygon.com/22722429/dungeons-dragons-critical-role-call-of-the-netherdeep-campaign-release-date-price)
+ - [Epic Finally Admits Among Us Inspired Fortnite's Impostors Mode](https://kotaku.com/epic-finally-admits-among-us-inspired-fortnites-imposto-1847846662)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
