@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Another Global Pandemic Is Spreading—Among Pigs](https://www.wired.com/story/another-global-pandemic-is-spreading-among-pigs)
- - [With Subscriptions, Automakers Mimic Netflix’s Playbook](https://www.wired.com/story/subscriptions-automakers-mimic-netflix)
- - [The Missing Teen Who Fueled ‘Cult Panic’ Over D&D](https://www.wired.com/story/the-missing-teen-who-fueled-cult-panic-over-dungeons-and-dragons)<!-- TECH:END -->
+ - [Apple's 16-inch MacBook Pro supply is running low](https://appleinsider.com/articles/21/10/12/apples-16-inch-macbook-pro-supply-is-running-low?utm_medium=rss)
+ - [Volvo’s Classy All-Electric SUV Is Surprisingly Zippy](https://www.wired.com/review/volvo-xc40-recharge-2022)
+ - [These apps let you customize Windows 11 to bring the taskbar back to life](https://www.theverge.com/2021/10/12/22722202/microsoft-windows-11-taskbar-customize-apps-start11-elevenclock)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
