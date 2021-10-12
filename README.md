@@ -195,9 +195,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [So nostalgic..](http://9gag.com/gag/aNPmmYw)
- - 🚯 [Who needs phone alarm when he&#039;s around.](http://9gag.com/gag/angeYqo)
- - 🚯 [I think it&#039;s his first day in the city](http://9gag.com/gag/a51pevN)<!-- MEMES:END -->
+ - 🚖 [What&#039;s your Body Count?](http://9gag.com/gag/aGzKYD0)
+ - 🚯 [Chinesium strikes again](http://9gag.com/gag/aWgBZW3)
+ - 🚯 [Straight to the point](http://9gag.com/gag/axBEdNW)<!-- MEMES:END -->
 
 --- 
 
