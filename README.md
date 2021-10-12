@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Alexa can make remote learning easier with these 5 tricks     - CNET](https://www.cnet.com/home/smart-home/alexa-can-make-remote-learning-easier-heres-how/#ftag=CAD590a51e)
- - [Update your iPhone: Apple releases security patch for an active exploit     - CNET](https://www.cnet.com/tech/services-and-software/update-your-iphone-apple-releases-security-patch-for-an-active-exploit/#ftag=CAD590a51e)
- - [Elk with tire stuck around its neck for years finally freed     - CNET](https://www.cnet.com/news/elk-with-tire-stuck-around-its-neck-for-years-finally-freed/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The best deals on true wireless earbuds right now](https://www.theverge.com/22307388/wireless-earbuds-deals-airpods-galaxy-buds-powerbeats)
+ - [Munich-based Personio, maker of cloud-based HR and recruiting software for SMBs, raises $270M Series E led by Greenoaks Capital Partners at a $6.3B valuation (Ingrid Lunden/TechCrunch)](http://www.techmeme.com/211011/p22#a211011p22)
+ - [Samsung Z Flip 3, Z Fold 3 sales dwarf previous foldable demand     - CNET](https://www.cnet.com/tech/mobile/samsung-z-flip-3-z-fold-3-sales-dwarf-previous-foldable-demand/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
