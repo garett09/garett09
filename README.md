@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [You told us: Consistently good photos trump occasionally great ones](https://www.androidauthority.com/smartphone-camera-consistency-poll-results-3038517/)
- - [Best places to buy replacement prescription lenses online 2021     - CNET](https://www.cnet.com/health/best-places-to-buy-replacement-prescription-lenses/#ftag=CAD590a51e)
- - [How autonomous trains, likely easier to deploy than autonomous vehicles, could help unclog America's congested supply chains and offer a greener alternative (Christopher Mims/Wall Street Journal)](http://www.techmeme.com/211012/p2#a211012p2)<!-- TECH:END -->
+ - [Instagram says it is testing Activity Feed notifications in the US that will alert users of service outages and technical issues (Karissa Bell/Engadget)](http://www.techmeme.com/211012/p4#a211012p4)
+ - [Hubilo, which helps businesses host virtual and hybrid events with real-time analytics, raises $125M Series B, following a $23.5M Series A in February (Ingrid Lunden/TechCrunch)](http://www.techmeme.com/211012/p3#a211012p3)
+ - [Instagram’s outages were so bad the app will now alert users when the service goes down](https://www.theverge.com/2021/10/12/22722118/instagram-outages-service-down-notification-explanation)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
