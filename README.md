@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple says a virtual event, titled "Unleashed", will be held on October 18 at 10am PT, where new MacBook Pros with M1X are rumored (Juli Clover/MacRumors)](http://www.techmeme.com/211012/p26#a211012p26)
- - [Apple announces October 18th event after months of Mac rumors](https://www.theverge.com/2021/10/12/22722112/apple-october-2021-event-rumors-macbook-mac-mini-airpods-m1x)
- - [Best Deals Oct. 12: $519 M1 Mac mini, 55% off iClever Mac keyboard, and more!](https://appleinsider.com/articles/21/10/12/best-deals-oct-12-519-m1-mac-mini-55-off-iclever-mac-keyboard-and-more?utm_medium=rss)<!-- TECH:END -->
+ - [See how climate change could drown landmarks around the world](https://www.theverge.com/2021/10/12/22722437/landmarks-cities-flood-sea-level-rise-climate-change)
+ - [Coinbase announces it will let users buy, sell, and showcase Ethereum-based NFTs by the end of the year (Eli Tan/CoinDesk)](http://www.techmeme.com/211012/p27#a211012p27)
+ - [V-Moda’s first true wireless earbuds marry durability and customization](https://www.androidauthority.com/v-moda-hexamove-series-3038315/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
