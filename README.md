@@ -181,9 +181,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Intel confirms it won't limit cryptocurrency mining on its new Alchemist graphics cards](https://www.pcgamer.com/intel-confirms-it-wont-limit-cryptocurrency-mining-on-its-new-alchemist-graphics-cards)
- - [Fall Guys dev once thought about Red Light, Green Light—after Squid Game, may 'have another crack'](https://www.pcgamer.com/fall-guys-might-add-squid-games-red-light-green-light)
- - [Alienware's ultra-black egg chair is like your own personal wormhole](https://www.pcgamer.com/alienware-bodega-egg-gaming-chair)<!-- GAME:END -->
+ - [The Scream trailer is for a movie called Scream that is also a sequel to Scream](https://www.polygon.com/22710794/scream-2022-trailer-release-date)
+ - [Squid Game’s Success Is Giving Fall Guys Some Ideas](https://kotaku.com/squid-game-s-success-is-giving-fall-guys-some-ideas-1847842937)
+ - [Intel confirms it won't limit cryptocurrency mining on its new Alchemist graphics cards](https://www.pcgamer.com/intel-confirms-it-wont-limit-cryptocurrency-mining-on-its-new-alchemist-graphics-cards)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
