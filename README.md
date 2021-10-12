@@ -181,9 +181,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [D&D playtest could hint at a Spelljammer reboot](https://www.polygon.com/22722987/dungeons-dragons-spelljammer-reboot-5e-fifth-edition)
- - ['It's hard to be a woman in this company': More details of sexual harassment at Paradox Interactive emerge](https://www.pcgamer.com/its-hard-to-be-a-woman-in-this-company-more-details-of-sexual-harassment-at-paradox-interactive-emerge)
- - [Best gaming desk in 2021](https://www.pcgamer.com/best-gaming-desk)<!-- GAME:END -->
+ - [Scorpion’s iconic Mortal Kombat move was a goofy last-minute addition](https://www.polygon.com/22723171/mortal-kombat-scorpion-get-over-here-30-years)
+ - [Start Your Engines! Circuit Superstars Is A Love Letter To Motorsport](https://news.xbox.com/en-us/2021/10/12/start-your-engines-circuit-superstars-is-a-love-letter-to-motorsport/)
+ - [Metroid Dread fans are celebrating when they finally get the morph ball](https://www.polygon.com/22723176/metroid-dread-where-is-morph-ball-mode-how-long-to-get-upgrade)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
