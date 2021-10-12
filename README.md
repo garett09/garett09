@@ -196,8 +196,8 @@ Windows                  8 hrs 4 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Stupid people](http://9gag.com/gag/awzNbDR)
- - 🚯 [You reap what you sow](http://9gag.com/gag/a41pdKm)
- - 🚯 [Finally some good news.](http://9gag.com/gag/aBn9QxP)<!-- MEMES:END -->
+ - 🚯 [Genes, why art thou cruel?](http://9gag.com/gag/a81dbA3)
+ - 🚯 [Nom nom nom nom...](http://9gag.com/gag/aBn9QX1)<!-- MEMES:END -->
 
 --- 
 
