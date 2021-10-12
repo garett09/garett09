@@ -195,8 +195,8 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This shot from the Soviet war film &ldquo;The Cranes are Flying&rdquo; is incredible camerawork for 1957.](http://9gag.com/gag/ajgQ05g)
- - 🚯 [*Sucks dick*](http://9gag.com/gag/angeXWo)
+ - 🚖 [Japanese pranks are next level](http://9gag.com/gag/arn1R15)
+ - 🚯 [42 Years Ago, A Very Important Book Was Released](http://9gag.com/gag/aKm4BB3)
  - 🚯 [It&rsquo;s Us Against The World](http://9gag.com/gag/a11pe38)<!-- MEMES:END -->
 
 --- 
