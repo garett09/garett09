@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mini LED in new MacBook Pro is '100% confirmed,' claims analyst](https://appleinsider.com/articles/21/10/12/mini-led-in-macbook-pro-is-100-confirmed-claims-analyst?utm_medium=rss)
- - [M1X MacBook Pro and more: What to expect from Apple on October 18](https://appleinsider.com/articles/21/09/22/m1x-macbook-pro-airpods-and-more-what-to-expect-from-apple-in-2021-and-early-2022?utm_medium=rss)
- - [The Intercept publishes Facebook's secret blacklist of ~4,000 "Dangerous Individuals and Organizations" that users are barred from speaking favorably about (Sam Biddle/The Intercept)](http://www.techmeme.com/211012/p28#a211012p28)<!-- TECH:END -->
+ - [Squid Game comes to life in Abu Dhabi](https://techncruncher.blogspot.com/2021/10/squid-game-comes-to-life-in-abu-dhabi.html)
+ - [Only Murders In The Building: Every Suspect, Ranked By Likelihood](https://techncruncher.blogspot.com/2021/10/only-murders-in-building-every-suspect.html)
+ - [Halo Infinite Xbox Series X Pre-Orders Open For GameStop Pro Members](https://techncruncher.blogspot.com/2021/10/halo-infinite-xbox-series-x-pre-orders.html)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
