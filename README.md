@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Instagram says it is testing Activity Feed notifications in the US that will alert users of service outages and technical issues (Karissa Bell/Engadget)](http://www.techmeme.com/211012/p4#a211012p4)
- - [Hubilo, which helps businesses host virtual and hybrid events with real-time analytics, raises $125M Series B, following a $23.5M Series A in February (Ingrid Lunden/TechCrunch)](http://www.techmeme.com/211012/p3#a211012p3)
- - [Instagram’s outages were so bad the app will now alert users when the service goes down](https://www.theverge.com/2021/10/12/22722118/instagram-outages-service-down-notification-explanation)<!-- TECH:END -->
+ - [Sources: China is expanding its anti-monopoly bureau, increasing its headcount from over 40 to 100, as its yearlong crackdown on monopolies continues (Bloomberg)](http://www.techmeme.com/211012/p9#a211012p9)
+ - [Microsoft says it mitigated the largest DDoS attack ever recorded](https://www.theverge.com/2021/10/12/22722155/microsoft-azure-biggest-ddos-attack-ever-2-4-tbps)
+ - [Tile refreshes lineup with new design, extended range, & anti-stalking feature. AR mode launching in 2022](https://appleinsider.com/articles/21/10/12/tile-refreshes-lineup-with-new-design-extended-range-anti-stalking-feature-ar-mode-launching-in-2022?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
