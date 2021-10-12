@@ -181,9 +181,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Scream trailer is for a movie called Scream that is also a sequel to Scream](https://www.polygon.com/22710794/scream-2022-trailer-release-date)
- - [Squid Game’s Success Is Giving Fall Guys Some Ideas](https://kotaku.com/squid-game-s-success-is-giving-fall-guys-some-ideas-1847842937)
- - [Intel confirms it won't limit cryptocurrency mining on its new Alchemist graphics cards](https://www.pcgamer.com/intel-confirms-it-wont-limit-cryptocurrency-mining-on-its-new-alchemist-graphics-cards)<!-- GAME:END -->
+ - [Destiny 2: Festival of the Lost unlock times](https://www.pcgamer.com/destiny-2-festival-of-the-lost-unlock-time)
+ - [Console Hackers Commandeer Switch Game’s Very Fast Sega Saturn Emulator](https://kotaku.com/console-hackers-commandeer-switch-game-s-very-fast-sega-1847843623)
+ - [The Scream trailer is for a movie called Scream that is also a sequel to Scream](https://www.polygon.com/22710794/scream-2022-trailer-release-date)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
