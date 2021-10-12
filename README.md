@@ -181,9 +181,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Scorpion’s iconic Mortal Kombat move was a goofy last-minute addition](https://www.polygon.com/22723171/mortal-kombat-scorpion-get-over-here-30-years)
- - [Start Your Engines! Circuit Superstars Is A Love Letter To Motorsport](https://news.xbox.com/en-us/2021/10/12/start-your-engines-circuit-superstars-is-a-love-letter-to-motorsport/)
- - [Metroid Dread fans are celebrating when they finally get the morph ball](https://www.polygon.com/22723176/metroid-dread-where-is-morph-ball-mode-how-long-to-get-upgrade)<!-- GAME:END -->
+ - [New Harley Quinn Clobbers Comic Industry Ableism](https://kotaku.com/new-harley-quinn-clobbers-comic-industry-ableism-1847850470)
+ - [Monster Hunter Rise won’t have cross-play or cross-save between PC and Switch](https://www.polygon.com/22722628/monster-hunter-rise-sunbreak-pc-switch-cross-play-save)
+ - [Destiny 2’s most patient Guardians got a special Halloween surprise](https://www.polygon.com/22723199/destiny-2-festival-lost-2021-ascendant-lens-easter-egg-reward)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
