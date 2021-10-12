@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best printer for 2021     - CNET](https://www.cnet.com/tech/computing/best-printer/#ftag=CAD590a51e)
- - [Best gaming chair for 2021     - CNET](https://www.cnet.com/tech/gaming/best-gaming-chair/#ftag=CAD590a51e)
- - [The best Nintendo Switch games to play in 2021     - CNET](https://www.cnet.com/pictures/the-best-nintendo-switch-games-to-play-in-2021/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Microsoft makes a preview version of Windows Subsystem for Linux for Windows 11 available in the Microsoft Store, decoupling the app from the Windows image (Mary Jo Foley/ZDNet)](http://www.techmeme.com/211011/p23#a211011p23)
+ - [Best baby thermometer for 2021     - CNET](https://www.cnet.com/health/parenting/best-baby-thermometer/#ftag=CAD590a51e)
+ - [All 10 Spider-Man movies ranked, from worst to best     - CNET](https://www.cnet.com/news/all-10-spider-man-movies-ranked-from-worst-to-best/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
