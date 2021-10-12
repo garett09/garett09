@@ -195,9 +195,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Help me](http://9gag.com/gag/arMPPxV)
- - 🚯 [So nostalgic..](http://9gag.com/gag/aNPmmYw)
- - 🚯 [Girl celebrating with the team](http://9gag.com/gag/aegKNN5)<!-- MEMES:END -->
+ - 🚖 [So nostalgic..](http://9gag.com/gag/aNPmmYw)
+ - 🚯 [Who needs phone alarm when he&#039;s around.](http://9gag.com/gag/angeYqo)
+ - 🚯 [I think it&#039;s his first day in the city](http://9gag.com/gag/a51pevN)<!-- MEMES:END -->
 
 --- 
 
