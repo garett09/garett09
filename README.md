@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy Watch 4 updates: More stability improvements incoming](https://www.androidauthority.com/samsung-galaxy-watch-4-updates-2746069/)
- - [Facebook says it will stop linking a user's Facebook and Instagram accounts behind the scenes for advertising purposes due to privacy and regulatory changes (Kurt Wagner/Bloomberg)](http://www.techmeme.com/211012/p1#a211012p1)
- - [The 10 best PS5 games you can play right now     - CNET](https://www.cnet.com/news/the-10-best-ps5-games-you-can-play-right-now/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How autonomous trains, likely easier to deploy than autonomous vehicles, could help unclog America's congested supply chains and offer a greener alternative (Christopher Mims/Wall Street Journal)](http://www.techmeme.com/211012/p2#a211012p2)
+ - [Poll: Would you rather have an alert slider or a customizable side button?](https://www.androidauthority.com/alert-slider-side-button-poll-3037838/)
+ - [Samsung Galaxy Watch 4 updates: More stability improvements incoming](https://www.androidauthority.com/samsung-galaxy-watch-4-updates-2746069/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
