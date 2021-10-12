@@ -195,9 +195,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This Emergency life boat is truly awesome](http://9gag.com/gag/a51pPpN)
- - 🚯 [This is how people&#039;s perceptions changed over the years.](http://9gag.com/gag/ajgQ6Ep)
- - 🚯 [Mooning a cop](http://9gag.com/gag/angeY6n)<!-- MEMES:END -->
+ - 🚖 [Giving a hand to help out is beautiful.](http://9gag.com/gag/a31v3W3)
+ - 🚯 [This shot from the Soviet war film &ldquo;The Cranes are Flying&rdquo; is incredible camerawork for 1957.](http://9gag.com/gag/ajgQ05g)
+ - 🚯 [It&rsquo;s Us Against The World](http://9gag.com/gag/a11pe38)<!-- MEMES:END -->
 
 --- 
 
