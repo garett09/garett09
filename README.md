@@ -181,9 +181,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Destiny’s Halloween event returns to make your Guardian go ‘boo!’](https://www.polygon.com/22722858/destiny-2-festival-of-the-lost-2021)
- - [Hearthstone Mercenaries is a quick and clever take on a card game RPG](https://www.polygon.com/22722428/hearthstone-mercenaries-impressions-rpg-gacha-bosses-loot)
- - [Allons-y! Doctor Who: The Edge of Reality Gameplay Revealed](https://news.xbox.com/en-us/2021/10/12/doctor-who-the-edge-of-reality-gameplay-revealed/)<!-- GAME:END -->
+ - [D&D playtest could hint at a Spelljammer reboot](https://www.polygon.com/22722987/dungeons-dragons-spelljammer-reboot-5e-fifth-edition)
+ - ['It's hard to be a woman in this company': More details of sexual harassment at Paradox Interactive emerge](https://www.pcgamer.com/its-hard-to-be-a-woman-in-this-company-more-details-of-sexual-harassment-at-paradox-interactive-emerge)
+ - [Best gaming desk in 2021](https://www.pcgamer.com/best-gaming-desk)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
