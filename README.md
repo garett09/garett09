@@ -181,9 +181,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Allons-y! Doctor Who: The Edge of Reality Gameplay Revealed](https://news.xbox.com/en-us/2021/10/12/doctor-who-the-edge-of-reality-gameplay-revealed/)
- - [Overwatch’s Halloween Terror event returns for 2021 with spooky new skins](https://www.polygon.com/22722631/overwatch-halloween-2021-skins-dates)
- - [Google countersues Epic using Apple's core arguments](https://www.pcgamer.com/google-countersues-epic-using-apples-core-arguments)<!-- GAME:END -->
+ - [Destiny’s Halloween event returns to make your Guardian go ‘boo!’](https://www.polygon.com/22722858/destiny-2-festival-of-the-lost-2021)
+ - [Hearthstone Mercenaries is a quick and clever take on a card game RPG](https://www.polygon.com/22722428/hearthstone-mercenaries-impressions-rpg-gacha-bosses-loot)
+ - [Allons-y! Doctor Who: The Edge of Reality Gameplay Revealed](https://news.xbox.com/en-us/2021/10/12/doctor-who-the-edge-of-reality-gameplay-revealed/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
