@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Charter asks ex-customers to resubscribe or risk their credit scores](https://www.theverge.com/2021/10/12/22722758/charter-spectrum-debt-forgiveness-letter-reporting-credit-agencies)
- - [iPhone 13 vs. 13 mini vs. 13 Pro vs. 13 Pro Max: What's the difference?     - CNET](https://www.cnet.com/tech/mobile/iphone-13-vs-13-mini-vs-13-pro-vs-13-pro-max-whats-the-difference/#ftag=CAD590a51e)
- - [Physicists' brains decoded: How they imagine the unimaginable     - CNET](https://www.cnet.com/news/physicists-brains-decoded-how-they-imagine-the-unimaginable/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Waze announces a "Drive with Headspace" feature, letting users choose from five "moods" and an accompanying custom Spotify playlist with content from Headspace (Ben Schoon/9to5Google)](http://www.techmeme.com/211012/p35#a211012p35)
+ - [Squid Game is now Netflix's biggest TV show launch ever     - CNET](https://www.cnet.com/news/squid-game-is-now-netflixs-biggest-tv-show-launch-ever/#ftag=CAD590a51e)
+ - [Apple's October event: When is it and what can we expect to see?     - CNET](https://www.cnet.com/tech/mobile/apples-october-event-when-is-it-and-what-can-we-expect-to-see/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
