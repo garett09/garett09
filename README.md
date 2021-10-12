@@ -181,9 +181,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Doctor Strange just discovered the most powerful kind of comic book magic](https://www.polygon.com/comics/2021/10/12/22722387/doctor-strange-magic-origin-marvel-comics)
- - [Genshin Impact Villain Childe Deserves All The Events And Reruns](https://kotaku.com/genshin-impact-villain-childe-deserves-all-the-events-a-1847847438)
- - [Destiny 2: Xbox Game Pass Updates and Festival of the Lost 2021](https://news.xbox.com/en-us/2021/10/12/destiny-2-xbox-game-pass-updates-and-festival-of-the-lost-2021/)<!-- GAME:END -->
+ - [Allons-y! Doctor Who: The Edge of Reality Gameplay Revealed](https://news.xbox.com/en-us/2021/10/12/doctor-who-the-edge-of-reality-gameplay-revealed/)
+ - [Overwatch’s Halloween Terror event returns for 2021 with spooky new skins](https://www.polygon.com/22722631/overwatch-halloween-2021-skins-dates)
+ - [Google countersues Epic using Apple's core arguments](https://www.pcgamer.com/google-countersues-epic-using-apples-core-arguments)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
