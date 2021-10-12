@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [See how climate change could drown landmarks around the world](https://www.theverge.com/2021/10/12/22722437/landmarks-cities-flood-sea-level-rise-climate-change)
- - [Coinbase announces it will let users buy, sell, and showcase Ethereum-based NFTs by the end of the year (Eli Tan/CoinDesk)](http://www.techmeme.com/211012/p27#a211012p27)
- - [V-Moda’s first true wireless earbuds marry durability and customization](https://www.androidauthority.com/v-moda-hexamove-series-3038315/)<!-- TECH:END -->
+ - [Mini LED in new MacBook Pro is '100% confirmed,' claims analyst](https://appleinsider.com/articles/21/10/12/mini-led-in-macbook-pro-is-100-confirmed-claims-analyst?utm_medium=rss)
+ - [M1X MacBook Pro and more: What to expect from Apple on October 18](https://appleinsider.com/articles/21/09/22/m1x-macbook-pro-airpods-and-more-what-to-expect-from-apple-in-2021-and-early-2022?utm_medium=rss)
+ - [The Intercept publishes Facebook's secret blacklist of ~4,000 "Dangerous Individuals and Organizations" that users are barred from speaking favorably about (Sam Biddle/The Intercept)](http://www.techmeme.com/211012/p28#a211012p28)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
