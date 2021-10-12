@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: China is expanding its anti-monopoly bureau, increasing its headcount from over 40 to 100, as its yearlong crackdown on monopolies continues (Bloomberg)](http://www.techmeme.com/211012/p9#a211012p9)
- - [Microsoft says it mitigated the largest DDoS attack ever recorded](https://www.theverge.com/2021/10/12/22722155/microsoft-azure-biggest-ddos-attack-ever-2-4-tbps)
- - [Tile refreshes lineup with new design, extended range, & anti-stalking feature. AR mode launching in 2022](https://appleinsider.com/articles/21/10/12/tile-refreshes-lineup-with-new-design-extended-range-anti-stalking-feature-ar-mode-launching-in-2022?utm_medium=rss)<!-- TECH:END -->
+ - [Another Global Pandemic Is Spreading—Among Pigs](https://www.wired.com/story/another-global-pandemic-is-spreading-among-pigs)
+ - [With Subscriptions, Automakers Mimic Netflix’s Playbook](https://www.wired.com/story/subscriptions-automakers-mimic-netflix)
+ - [The Missing Teen Who Fueled ‘Cult Panic’ Over D&D](https://www.wired.com/story/the-missing-teen-who-fueled-cult-panic-over-dungeons-and-dragons)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
