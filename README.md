@@ -181,9 +181,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Hideo Kojima On Japan's Most Magical And Wonderful Train](https://kotaku.com/hideo-kojima-on-japans-most-magical-and-wonderful-train-1847844603)
- - [The cheapest way to pre-order Dying Light 2 in Australia](https://www.pcgamer.com/the-cheapest-way-to-pre-order-dying-light-2-in-australia)
- - [Super Mario 64, Only Every Corner Is Wrong](https://kotaku.com/super-mario-64-only-every-corner-is-wrong-1847842962)<!-- GAME:END -->
+ - [Intel confirms it won't limit cryptocurrency mining on its new Alchemist graphics cards](https://www.pcgamer.com/intel-confirms-it-wont-limit-cryptocurrency-mining-on-its-new-alchemist-graphics-cards)
+ - [Fall Guys dev once thought about Red Light, Green Light—after Squid Game, may 'have another crack'](https://www.pcgamer.com/fall-guys-might-add-squid-games-red-light-green-light)
+ - [Alienware's ultra-black egg chair is like your own personal wormhole](https://www.pcgamer.com/alienware-bodega-egg-gaming-chair)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
