@@ -181,9 +181,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [New Harley Quinn Clobbers Comic Industry Ableism](https://kotaku.com/new-harley-quinn-clobbers-comic-industry-ableism-1847850470)
- - [Monster Hunter Rise won’t have cross-play or cross-save between PC and Switch](https://www.polygon.com/22722628/monster-hunter-rise-sunbreak-pc-switch-cross-play-save)
- - [Destiny 2’s most patient Guardians got a special Halloween surprise](https://www.polygon.com/22723199/destiny-2-festival-lost-2021-ascendant-lens-easter-egg-reward)<!-- GAME:END -->
+ - [Disco Elysium – The Final Cut Lets You Solve a Murder Mystery However You Want](https://news.xbox.com/en-us/2021/10/12/disco-elysium-the-final-cut-available-now/)
+ - [Report: Xbox's Last-Second Intel Switcheroo Left AMD Engineers Heartbroken](https://kotaku.com/report-xboxs-last-second-intel-switcheroo-left-amd-eng-1847851074)
+ - [13 Years Too Late, Fallout 3 Removes Game For Windows Live](https://kotaku.com/13-years-too-late-fallout-3-removes-game-for-windows-l-1847850809)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
