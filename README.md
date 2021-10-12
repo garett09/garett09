@@ -195,9 +195,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This cat with laryngeal paralysis that has a super deep meow](http://9gag.com/gag/aNPmmyA)
- - 🚯 [I used to watch this before discovering Cartoon Network when I was a child. Who remembers this?](http://9gag.com/gag/a51ppqE)
- - 🚯 [Help me](http://9gag.com/gag/arMPPxV)<!-- MEMES:END -->
+ - 🚖 [Help me](http://9gag.com/gag/arMPPxV)
+ - 🚯 [So nostalgic..](http://9gag.com/gag/aNPmmYw)
+ - 🚯 [Girl celebrating with the team](http://9gag.com/gag/aegKNN5)<!-- MEMES:END -->
 
 --- 
 
