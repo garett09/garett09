@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [DoorDash introduces an ad platform, letting restaurants buy ads atop search results through a bidding system (Megan Graham/Wall Street Journal)](http://www.techmeme.com/211012/p19#a211012p19)
- - [Meet Nokia G300, the $199 5G phone for Tracfone and Straight Talk customers](https://www.theverge.com/2021/10/12/22722036/nokia-g300-prepaid-5g-straight-talk-tracfone-price-specs-features)
- - [Ecobee’s smart thermostat is the first to have Siri voice control built-in](https://www.theverge.com/2021/10/12/22720890/siri-voice-control-ecobee-smart-thermostats)<!-- TECH:END -->
+ - [Group rebuts claims big tech antitrust efforts would weaken national security](https://appleinsider.com/articles/21/10/12/group-rebuts-claims-big-tech-antitrust-efforts-would-weaken-national-security?utm_medium=rss)
+ - ['The Shrink Next Door' trailer teases Will Ferrell & Paul Rudd Apple TV+ comedy](https://appleinsider.com/articles/21/10/12/the-shrink-next-door-trailer-teases-will-ferrell-paul-rudd-apple-tv-comedy?utm_medium=rss)
+ - [Netgear has a new $1,500 Wi-Fi 6e mesh router](https://appleinsider.com/articles/21/10/12/netgear-has-a-new-1500-wi-fi-6e-mesh-router?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
