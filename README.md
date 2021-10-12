@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft makes a preview version of Windows Subsystem for Linux for Windows 11 available in the Microsoft Store, decoupling the app from the Windows image (Mary Jo Foley/ZDNet)](http://www.techmeme.com/211011/p23#a211011p23)
- - [Best baby thermometer for 2021     - CNET](https://www.cnet.com/health/parenting/best-baby-thermometer/#ftag=CAD590a51e)
- - [All 10 Spider-Man movies ranked, from worst to best     - CNET](https://www.cnet.com/news/all-10-spider-man-movies-ranked-from-worst-to-best/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The 10 best PS5 games you can play right now     - CNET](https://www.cnet.com/news/the-10-best-ps5-games-you-can-play-right-now/#ftag=CAD590a51e)
+ - [NASA airborne laboratory flies through clouds to uncover surprising ocean link     - CNET](https://www.cnet.com/news/nasa-airborne-laboratory-flies-through-clouds-to-uncover-surprising-ocean-link/#ftag=CAD590a51e)
+ - [All 24 Pixar movies ranked     - CNET](https://www.cnet.com/news/all-24-pixar-movies-ranked/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
