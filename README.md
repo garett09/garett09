@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [FDA authorizes first e-cigarette but only allows tobacco flavors](https://www.theverge.com/2021/10/12/22723175/fda-first-vaping-authorization-vuse-tobacco-flavors)
- - [Get $600 off the Olympus Mark III, and more great camera deals](https://www.androidauthority.com/best-cheap-camera-deals-1117547/)
- - [Apple reportedly can’t get enough chips for the iPhone 13](https://www.theverge.com/2021/10/12/22723209/apple-iphone-13-chip-shortage-manufacturing-report)<!-- TECH:END -->
+ - [Charter asks ex-customers to resubscribe or risk their credit scores](https://www.theverge.com/2021/10/12/22722758/charter-spectrum-debt-forgiveness-letter-reporting-credit-agencies)
+ - [iPhone 13 vs. 13 mini vs. 13 Pro vs. 13 Pro Max: What's the difference?     - CNET](https://www.cnet.com/tech/mobile/iphone-13-vs-13-mini-vs-13-pro-vs-13-pro-max-whats-the-difference/#ftag=CAD590a51e)
+ - [Physicists' brains decoded: How they imagine the unimaginable     - CNET](https://www.cnet.com/news/physicists-brains-decoded-how-they-imagine-the-unimaginable/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
