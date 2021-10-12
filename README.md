@@ -181,9 +181,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Hideo Kojima On Japan's Most Magical And Wonderful Train](https://kotaku.com/hideo-kojima-on-japans-most-magical-and-wonderful-train-1847844603)
  - [The cheapest way to pre-order Dying Light 2 in Australia](https://www.pcgamer.com/the-cheapest-way-to-pre-order-dying-light-2-in-australia)
- - [Super Mario 64, Only Every Corner Is Wrong](https://kotaku.com/super-mario-64-only-every-corner-is-wrong-1847842962)
- - [Here's a substantial peek at Saints Row's open world](https://www.pcgamer.com/heres-a-substantial-peek-at-saints-rows-open-world)<!-- GAME:END -->
+ - [Super Mario 64, Only Every Corner Is Wrong](https://kotaku.com/super-mario-64-only-every-corner-is-wrong-1847842962)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
