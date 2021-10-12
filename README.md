@@ -181,9 +181,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The cheapest way to pre-order Dying Light 2 in Australia](https://www.pcgamer.com/the-cheapest-way-to-pre-order-dying-light-2-in-australia)
  - [Super Mario 64, Only Every Corner Is Wrong](https://kotaku.com/super-mario-64-only-every-corner-is-wrong-1847842962)
- - [Here's a substantial peek at Saints Row's open world](https://www.pcgamer.com/heres-a-substantial-peek-at-saints-rows-open-world)
- - [D&D Fans Want Wizards Of The Coast To Use The Metric System](https://kotaku.com/d-d-fans-want-wizards-of-the-coast-to-use-the-metric-sy-1847842856)<!-- GAME:END -->
+ - [Here's a substantial peek at Saints Row's open world](https://www.pcgamer.com/heres-a-substantial-peek-at-saints-rows-open-world)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
