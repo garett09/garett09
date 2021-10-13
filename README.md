@@ -195,8 +195,8 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Have some goddamn faith](http://9gag.com/gag/a81dYP6)
- - 🚯 [How I see myself in retirement.](http://9gag.com/gag/a41pLx6)
+ - 🚖 [How I see myself in retirement.](http://9gag.com/gag/a41pLx6)
+ - 🚯 [Who are you? Only wrong answers](http://9gag.com/gag/aqG45Wj)
  - 🚯 [It&rsquo;s Us Against The World](http://9gag.com/gag/a11pe38)<!-- MEMES:END -->
 
 --- 
