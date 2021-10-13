@@ -195,8 +195,8 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Chad shark lmao](http://9gag.com/gag/arn1NG5)
- - 🚯 [PSA: The truth about &quot;Hehe&quot;...](http://9gag.com/gag/ay9E8Rb)
+ - 🚖 [PSA: The truth about &quot;Hehe&quot;...](http://9gag.com/gag/ay9E8Rb)
+ - 🚯 [Downtown philly looks like a war zone.](http://9gag.com/gag/aAGBPpo)
  - 🚯 [It&rsquo;s Us Against The World](http://9gag.com/gag/a11pe38)<!-- MEMES:END -->
 
 --- 
