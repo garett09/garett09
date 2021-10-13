@@ -181,9 +181,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Call of Duty is getting kernel level anti-cheat](https://www.pcgamer.com/call-of-duty-is-getting-kernel-level-anti-cheat)
- - [Ubisoft delays new Ghost Recon battle royale game after community backlash](https://www.polygon.com/22724563/ghost-recon-frontlines-test-delayed-battle-royale-ubisoft)
- - [New Chinese Action-RPG Is Like The Witcher, But More Focused](https://kotaku.com/new-chinese-action-rpg-is-like-the-witcher-but-more-fo-1847855800)<!-- GAME:END -->
+ - [The OLED Switch Is Pretty Different On The Inside](https://kotaku.com/the-oled-switch-is-pretty-different-on-the-inside-1847856709)
+ - [FFXIV Director Wants You To Be Normal About The Game’s Success](https://kotaku.com/ffxiv-director-wants-you-to-be-normal-about-the-game-s-1847856613)
+ - [Call of Duty is getting kernel level anti-cheat](https://www.pcgamer.com/call-of-duty-is-getting-kernel-level-anti-cheat)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
