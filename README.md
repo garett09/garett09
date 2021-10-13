@@ -195,8 +195,8 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [PSA: The truth about &quot;Hehe&quot;...](http://9gag.com/gag/ay9E8Rb)
- - 🚯 [Downtown philly looks like a war zone.](http://9gag.com/gag/aAGBPpo)
+ - 🚖 [Never forget what pcbosman did](http://9gag.com/gag/ajgQqj0)
+ - 🚯 [TV Shows](http://9gag.com/gag/adgyq32)
  - 🚯 [It&rsquo;s Us Against The World](http://9gag.com/gag/a11pe38)<!-- MEMES:END -->
 
 --- 
