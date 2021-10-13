@@ -181,9 +181,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Mass Effect Legendary Edition made me appreciate Mass Effect's most ridiculous NPC](https://www.pcgamer.com/mass-effect-legendary-edition-made-me-appreciate-mass-effects-most-ridiculous-npc)
- - [System Shock is being made into a live-action series](https://www.pcgamer.com/system-shock-is-being-made-into-a-live-action-series)
- - [Solar Ash, the follow-up to Hyper Light Drifter, delayed to December](https://www.pcgamer.com/solar-ash-release-date-delayed)<!-- GAME:END -->
+ - [Live-action System Shock series is in development](https://www.polygon.com/22725139/system-shock-live-action-tv-show-binge-nightdive-bioshock)
+ - [Hot Wheels Unleashed’s studio dreams big with a tiny toy idea](https://www.polygon.com/22725178/hot-wheels-unleashed-development-milestone-michele-caletti-interview)
+ - [Electronic Arts may be dropping the FIFA license for one simple reason: it costs too much](https://www.pcgamer.com/electronic-arts-may-be-dropping-the-fifa-license-for-one-simple-reason-it-costs-too-much)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
