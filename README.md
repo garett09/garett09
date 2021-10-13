@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [In 2020, the Seattle region was the top US market for large office space leased by tech firms, due in part to a deep talent pool and plenty of undeveloped land (Julie Weed/New York Times)](http://www.techmeme.com/211013/p1#a211013p1)
- - [Google search spotlights endangered species in AR     - CNET](https://www.cnet.com/tech/services-and-software/google-search-spotlights-endangered-species-in-ar/#ftag=CAD590a51e)
- - [US to lift travel restrictions on Canada and Mexico borders next month     - CNET](https://www.cnet.com/health/medical/us-to-lift-travel-restrictions-on-canada-and-mexico-borders-next-month/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Stockholm-based Funnel, which makes a no-code tool to organize and create reports from marketing data, raises $66M, says it is planning for an IPO in Sweden (Ingrid Lunden/TechCrunch)](http://www.techmeme.com/211013/p2#a211013p2)
+ - [Bowers & Wilkins Zeppelin speaker adds Amazon Alexa for $799     - CNET](https://www.cnet.com/tech/home-entertainment/bowers-and-wilkins-zeppelin-comes-out-streaming-in-2021/#ftag=CAD590a51e)
+ - [Bowers & Wilkins updates iconic Zeppelin speaker with Alexa and AirPlay 2](https://www.theverge.com/2021/10/13/22722494/bowers-and-wilkins-zeppelin-alexa-airplay-2-speaker-update)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
