@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [DoorDash launches $1 million disaster relief fund for restaurants](https://www.theverge.com/2021/10/13/22720663/doordash-disaster-relief-fund-restaurants)
- - [Apple’s AirPods Max are $100 off at Amazon and Walmart](https://www.theverge.com/good-deals/2021/10/13/22722541/apple-airpods-max-corsair-gaming-keyboard-gigabyte-monitor-deal-sale)
- - [Snapchat is down, as many users can’t post or send messages](https://www.theverge.com/2021/10/13/22724142/snapchat-down-outage-error-down-story-messages)<!-- TECH:END -->
+ - [Analysts shrug off reports of Apple iPhone 13 production cuts, issues](https://appleinsider.com/articles/21/10/13/analysts-shrug-off-reports-of-apple-iphone-13-production-cuts-issues?utm_medium=rss)
+ - [Bose’s new SoundLink Flex speaker has a rugged design and ‘astonishing’ sound](https://www.theverge.com/2021/10/13/22724163/bose-soundlink-flex-bluetooth-speaker-specs-price)
+ - [Get up to $1,500 for your used Apple device ahead of new MacBook Pros](https://appleinsider.com/articles/21/10/13/get-up-to-1500-for-your-used-apple-device-ahead-of-new-macbook-pros?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
