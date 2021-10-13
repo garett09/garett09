@@ -181,9 +181,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Skyrim's Anniversary Edition update may be more disruptive to mods than expected](https://www.pcgamer.com/skyrims-anniversary-edition-update-might-be-more-disruptive-to-modding-than-expected)
- - [Ugh, Nazi-Themed Host Bar Opens In Osaka](https://kotaku.com/ungh-nazi-themed-host-bar-opens-in-osaka-1847844952)
- - [Old Video Shows The Birth Of Mortal Kombat's 'Get Over Here' Move](https://kotaku.com/old-video-shows-the-birth-of-mortal-kombats-get-over-he-1847851690)<!-- GAME:END -->
+ - [Cowboy Bebop's Original Japanese Voice Cast Returns To Dub Netflix Series](https://kotaku.com/cowboy-bebops-original-japanese-voice-cast-returns-to-d-1847852810)
+ - [How to get started in Destiny 2's Festival of the Lost](https://www.pcgamer.com/destiny-2-haunted-sectors)
+ - [Brooding survival RTS Age of Darkness swarms into Early Access](https://www.pcgamer.com/brooding-survival-rts-age-of-darkness-swarms-into-early-access)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
