@@ -195,8 +195,8 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Deep... (medium volume)](http://9gag.com/gag/aDDRz7d)
- - 🚯 [When the new superman comes out as bi](http://9gag.com/gag/a51poxy)
+ - 🚖 [Recently divorced, starting my new life...](http://9gag.com/gag/axBEVmp)
+ - 🚯 [Dude hacked into the network and rick rolled the entire school district (6 schools)](http://9gag.com/gag/aqG41rR)
  - 🚯 [It&rsquo;s Us Against The World! Fight, Survive, Defend!](http://9gag.com/gag/avA27DM)<!-- MEMES:END -->
 
 --- 
