@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung announces its Galaxy Unpacked Part 2 event will be held virtually on October 20 at 7am PT (Dieter Bohn/The Verge)](http://www.techmeme.com/211012/p37#a211012p37)
- - [One more Samsung Unpacked event booked in 2021, date and theories here!](https://www.androidauthority.com/samsung-unpacked-2021-october-3039027/)
- - [Samsung to hold Galaxy Unpacked Part 2 event on Oct. 20     - CNET](https://www.cnet.com/tech/mobile/samsung-to-hold-galaxy-unpacked-part-2-event-on-oct-20/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Some of Verizon’s Visible cell network customers say they’ve been hacked](https://www.theverge.com/2021/10/12/22723587/verizon-visible-cell-network-potential-hack-data-breach-phone-sales)
+ - [Trans employees at Netflix plan walkout even as one activist is reinstated following suspension](https://www.theverge.com/2021/10/12/22723592/netflix-trans-employees-walkout-statements-ceo)
+ - [Best mattress for back pain in 2021     - CNET](https://www.cnet.com/health/sleep/best-mattress-for-back-pain/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
