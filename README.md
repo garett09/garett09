@@ -195,8 +195,8 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Karma Truly Is a B*tch, Became The Body He So Badly Wanted On His Record](http://9gag.com/gag/avA287Z)
- - 🚯 [Curb Your Fat Acceptance.](http://9gag.com/gag/adgy9rD)
+ - 🚖 [What&#039;s the oof size on that one?](http://9gag.com/gag/aAGB342)
+ - 🚯 [Two blondes broke each other...](http://9gag.com/gag/aWgBqGn)
  - 🚯 [It&rsquo;s Us Against The World! Fight, Survive, Defend!](http://9gag.com/gag/avA27DM)<!-- MEMES:END -->
 
 --- 
