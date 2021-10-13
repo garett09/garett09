@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Some of Verizon’s Visible cell network customers say they’ve been hacked](https://www.theverge.com/2021/10/12/22723587/verizon-visible-cell-network-potential-hack-data-breach-phone-sales)
- - [Trans employees at Netflix plan walkout even as one activist is reinstated following suspension](https://www.theverge.com/2021/10/12/22723592/netflix-trans-employees-walkout-statements-ceo)
- - [Best mattress for back pain in 2021     - CNET](https://www.cnet.com/health/sleep/best-mattress-for-back-pain/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [ReshaMandi, an online B2B marketplace focused on silk products in India, raises a $30M Series A, a mix of equity and debt, led by Creation Investments (The Economic Times)](http://www.techmeme.com/211012/p38#a211012p38)
+ - [Three Apple Watch sizes may arrive in 2022](https://appleinsider.com/articles/21/10/13/three-apple-watch-sizes-may-arrive-in-2022?utm_medium=rss)
+ - [Some of Verizon’s Visible cell network customers say they’ve been hacked](https://www.theverge.com/2021/10/12/22723587/verizon-visible-cell-network-potential-hack-data-breach-phone-sales)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
