@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [US to host a two-day virtual event from Wed. on ransomware with 30 countries, except Russia and China; source says Russia isn't invited "for a host of reasons" (Martin Matishak/The Record)](http://www.techmeme.com/211013/p9#a211013p9)
- - [Garmin devices can now track diabetic glucose levels without a hacky workaround](https://www.androidauthority.com/garmin-dexcom-3036817/)
- - [Carbon-Capturing Sunglasses Offer a View of Fashion's Future](https://www.wired.com/story/newlight-aircarbon-fashion-products)<!-- TECH:END -->
+ - [Dexterity, which is developing a full-stack service for collaborative warehouse robots, raises a $140M Series B at a $1.4B valuation (Brian Heater/TechCrunch)](http://www.techmeme.com/211013/p13#a211013p13)
+ - [Seattle-based Karat, which helps companies conduct technical interviews, raises a $110M Series C at a $1.1B valuation led by Tiger Global (Taylor Soper/GeekWire)](http://www.techmeme.com/211013/p12#a211013p12)
+ - [Ohio-based Aware, which analyzes internal company chat tools for legal compliance, sentiment, and more, raises a $60M Series C led by Goldman Sachs (Ingrid Lunden/TechCrunch)](http://www.techmeme.com/211013/p11#a211013p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
