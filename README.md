@@ -181,9 +181,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Final Fantasy 14’s Naoki Yoshida says action buttons are at their limit in Endwalker](https://www.polygon.com/interviews/22723132/final-fantasy-14-endwalker-naoki-yoshida-interview-cast-times)
- - [Reflecting on FFXIV’s big comeback, from launch to November’s Endwalker expansion](http://feedproxy.google.com/~r/PSBlog/~3/Ni4rAN2Gy6Y/)
- - [Reflecting on FFXIV’s big comeback, from launch to November’s Endwalker expansion](https://blog.playstation.com/2021/10/13/reflecting-on-ffxivs-big-comeback-from-launch-to-novembers-endwalker-expansion/)<!-- GAME:END -->
+ - [You can polish your gym badges in Pokémon Brilliant Diamond and Shining Pearl](https://www.polygon.com/22723101/pokemon-brilliant-diamond-shining-pearl-remakes-gym-badges)
+ - [Celebrating five years of PlayStation VR](http://feedproxy.google.com/~r/PSBlog/~3/-M7-loCLEKI/)
+ - [Celebrating five years of PlayStation VR](https://blog.playstation.com/2021/10/13/celebrating-five-years-of-playstation-vr/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
