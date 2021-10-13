@@ -189,8 +189,8 @@ Windows                  8 hrs 4 mins        ███████████�
 
 <!-- TECH:START -->
  - [ReshaMandi, an online B2B marketplace focused on silk products in India, raises a $30M Series A, a mix of equity and debt, led by Creation Investments (The Economic Times)](http://www.techmeme.com/211012/p38#a211012p38)
- - [Three Apple Watch sizes may arrive in 2022](https://appleinsider.com/articles/21/10/13/three-apple-watch-sizes-may-arrive-in-2022?utm_medium=rss)
- - [Some of Verizon’s Visible cell network customers say they’ve been hacked](https://www.theverge.com/2021/10/12/22723587/verizon-visible-cell-network-potential-hack-data-breach-phone-sales)<!-- TECH:END -->
+ - [MacBook Pro 2021: Release date, price, M1X and all the other rumors we've heard     - CNET](https://www.cnet.com/tech/computing/macbook-pro-2021-release-date-price-m1x-and-all-the-other-rumors-weve-heard/#ftag=CAD590a51e)
+ - [Three Apple Watch sizes may arrive in 2022](https://appleinsider.com/articles/21/10/13/three-apple-watch-sizes-may-arrive-in-2022?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
