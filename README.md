@@ -181,9 +181,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Live-action System Shock series is in development](https://www.polygon.com/22725139/system-shock-live-action-tv-show-binge-nightdive-bioshock)
- - [Hot Wheels Unleashed’s studio dreams big with a tiny toy idea](https://www.polygon.com/22725178/hot-wheels-unleashed-development-milestone-michele-caletti-interview)
- - [Electronic Arts may be dropping the FIFA license for one simple reason: it costs too much](https://www.pcgamer.com/electronic-arts-may-be-dropping-the-fifa-license-for-one-simple-reason-it-costs-too-much)<!-- GAME:END -->
+ - [Former Pac-Man Champ Billy Mitchell Can Now Sue World Record Leaderboard Group](https://kotaku.com/former-pac-man-champ-billy-mitchell-can-now-sue-world-r-1847858884)
+ - [William Shatner boldly goes where not too many other people have gone before](https://www.pcgamer.com/william-shatner-space)
+ - [Jon Gruden, Bigot, Is Being Removed From Madden 22](https://kotaku.com/jon-grudens-bigoted-ass-is-being-removed-from-madden-22-1847859016)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
