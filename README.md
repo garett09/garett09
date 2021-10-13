@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [FourFront, a startup creating fictional storylines with actors on TikTok, says it aims to build an interconnected TikTok "universe" and has raised a $1.5M seed (Lucas Matney/TechCrunch)](http://www.techmeme.com/211012/p39#a211012p39)
- - [ReshaMandi, an online B2B marketplace focused on silk products in India, raises a $30M Series A, a mix of equity and debt, led by Creation Investments (The Economic Times)](http://www.techmeme.com/211012/p38#a211012p38)
- - [MacBook Pro 2021: Release date, price, M1X and all the other rumors we've heard     - CNET](https://www.cnet.com/tech/computing/macbook-pro-2021-release-date-price-m1x-and-all-the-other-rumors-weve-heard/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google search spotlights endangered species in AR     - CNET](https://www.cnet.com/tech/services-and-software/google-search-spotlights-endangered-species-in-ar/#ftag=CAD590a51e)
+ - [US to lift travel restrictions on Canada and Mexico borders next month     - CNET](https://www.cnet.com/health/medical/us-to-lift-travel-restrictions-on-canada-and-mexico-borders-next-month/#ftag=CAD590a51e)
+ - [FourFront, a startup creating fictional storylines with actors on TikTok, says it aims to build an interconnected TikTok "universe" and has raised a $1.5M seed (Lucas Matney/TechCrunch)](http://www.techmeme.com/211012/p39#a211012p39)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
