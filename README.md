@@ -181,9 +181,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Total War: Warhammer's unloved sieges are being reworked in the third game](https://www.pcgamer.com/total-war-warhammers-unloved-sieges-are-being-reworked-in-the-third-game)
- - [Disco Elysium – The Final Cut Lets You Solve a Murder Mystery However You Want](https://news.xbox.com/en-us/2021/10/12/disco-elysium-the-final-cut-available-now/)
- - [Report: Xbox's Last-Second Intel Switcheroo Left AMD Engineers Heartbroken](https://kotaku.com/report-xboxs-last-second-intel-switcheroo-left-amd-eng-1847851074)<!-- GAME:END -->
+ - [Old Video Shows The Birth Of Mortal Kombat's 'Get Over Here' Move](https://kotaku.com/old-video-shows-the-birth-of-mortal-kombats-get-over-he-1847851690)
+ - [Fallout 3 finally freed from Games For Windows Live scourge](https://www.pcgamer.com/fallout-3-finally-freed-from-games-for-windows-live-scourge)
+ - [Total War: Warhammer's unloved sieges are being reworked in the third game](https://www.pcgamer.com/total-war-warhammers-unloved-sieges-are-being-reworked-in-the-third-game)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
