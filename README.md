@@ -181,9 +181,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Lord of the Rings made people think Sauron is an eye — but he’s so much more](https://www.polygon.com/lord-of-the-rings/22724426/lord-of-the-rings-sauron-eye-explained)
- - [Call of Duty: Warzone deploys new anti-cheat tool next month](https://www.polygon.com/22724523/call-of-duty-warzone-cheating-anti-cheat-ricochet-kernel-level-always-on-privacy)
- - [Report: EA In A Messy Fight Over FIFA License, Money](https://kotaku.com/report-ea-in-a-messy-fight-over-fifa-license-money-1847855637)<!-- GAME:END -->
+ - [Call of Duty is getting kernel level anti-cheat](https://www.pcgamer.com/call-of-duty-is-getting-kernel-level-anti-cheat)
+ - [Ubisoft delays new Ghost Recon battle royale game after community backlash](https://www.polygon.com/22724563/ghost-recon-frontlines-test-delayed-battle-royale-ubisoft)
+ - [New Chinese Action-RPG Is Like The Witcher, But More Focused](https://kotaku.com/new-chinese-action-rpg-is-like-the-witcher-but-more-fo-1847855800)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
