@@ -181,9 +181,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Moss creators reflect on five years of PS VR](http://feedproxy.google.com/~r/PSBlog/~3/lnW6S99uzJ8/)
- - [Moss creators reflect on five years of PS VR](https://blog.playstation.com/2021/10/13/moss-creators-reflect-on-five-years-of-ps-vr/)
- - [Xbox and MAC Cosmetics Bring Game Pass Characters to Life This Halloween](https://news.xbox.com/en-us/2021/10/13/xbox-mac-cosmetics-content-series/)<!-- GAME:END -->
+ - [Warhammer 40K goes gunning for X-Wing, and its aim is true](https://www.polygon.com/reviews/22723334/warhammer-40k-aeronautica-imperialis-wrath-of-angels-review-x-wing)
+ - [Horizon Chase Turbo: Senna Forever expansion launches October 20](http://feedproxy.google.com/~r/PSBlog/~3/dvbYlcWAA1E/)
+ - [Horizon Chase Turbo: Senna Forever expansion launches October 20](https://blog.playstation.com/2021/10/13/horizon-chase-turbo-senna-forever-expansion-launches-october-20/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
