@@ -181,9 +181,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Ugh, Nazi-Themed Host Bar Opens In Osaka](https://kotaku.com/ungh-nazi-themed-host-bar-opens-in-osaka-1847844952)
  - [Old Video Shows The Birth Of Mortal Kombat's 'Get Over Here' Move](https://kotaku.com/old-video-shows-the-birth-of-mortal-kombats-get-over-he-1847851690)
- - [Fallout 3 finally freed from Games For Windows Live scourge](https://www.pcgamer.com/fallout-3-finally-freed-from-games-for-windows-live-scourge)
- - [Total War: Warhammer's unloved sieges are being reworked in the third game](https://www.pcgamer.com/total-war-warhammers-unloved-sieges-are-being-reworked-in-the-third-game)<!-- GAME:END -->
+ - [Fallout 3 finally freed from Games For Windows Live scourge](https://www.pcgamer.com/fallout-3-finally-freed-from-games-for-windows-live-scourge)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
