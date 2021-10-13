@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [FourFront, a startup creating fictional storylines with actors on TikTok, says it aims to build an interconnected TikTok "universe" and has raised a $1.5M seed (Lucas Matney/TechCrunch)](http://www.techmeme.com/211012/p39#a211012p39)
  - [ReshaMandi, an online B2B marketplace focused on silk products in India, raises a $30M Series A, a mix of equity and debt, led by Creation Investments (The Economic Times)](http://www.techmeme.com/211012/p38#a211012p38)
- - [MacBook Pro 2021: Release date, price, M1X and all the other rumors we've heard     - CNET](https://www.cnet.com/tech/computing/macbook-pro-2021-release-date-price-m1x-and-all-the-other-rumors-weve-heard/#ftag=CAD590a51e)
- - [Three Apple Watch sizes may arrive in 2022](https://appleinsider.com/articles/21/10/13/three-apple-watch-sizes-may-arrive-in-2022?utm_medium=rss)<!-- TECH:END -->
+ - [MacBook Pro 2021: Release date, price, M1X and all the other rumors we've heard     - CNET](https://www.cnet.com/tech/computing/macbook-pro-2021-release-date-price-m1x-and-all-the-other-rumors-weve-heard/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
