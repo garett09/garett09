@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Waze announces a "Drive with Headspace" feature, letting users choose from five "moods" and an accompanying custom Spotify playlist with content from Headspace (Ben Schoon/9to5Google)](http://www.techmeme.com/211012/p35#a211012p35)
- - [Squid Game is now Netflix's biggest TV show launch ever     - CNET](https://www.cnet.com/news/squid-game-is-now-netflixs-biggest-tv-show-launch-ever/#ftag=CAD590a51e)
- - [Apple's October event: When is it and what can we expect to see?     - CNET](https://www.cnet.com/tech/mobile/apples-october-event-when-is-it-and-what-can-we-expect-to-see/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Samsung announces its Galaxy Unpacked Part 2 event will be held virtually on October 20 at 7am PT (Dieter Bohn/The Verge)](http://www.techmeme.com/211012/p37#a211012p37)
+ - [One more Samsung Unpacked event booked in 2021, date and theories here!](https://www.androidauthority.com/samsung-unpacked-2021-october-3039027/)
+ - [Samsung to hold Galaxy Unpacked Part 2 event on Oct. 20     - CNET](https://www.cnet.com/tech/mobile/samsung-to-hold-galaxy-unpacked-part-2-event-on-oct-20/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
