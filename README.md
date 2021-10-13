@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple's Lisa Jackson talks sustainability, environmental justice in new interview](https://appleinsider.com/articles/21/10/13/apples-lisa-jackson-talks-sustainability-environmental-justice-in-new-interview?utm_medium=rss)
- - [How to use the iOS app tracking blocker](https://www.theverge.com/22403523/ios-14-5-tracking-consent-app-transparency-how-to)
- - [Apple TV+ lands Jason Segel comedy series 'Shrinking'](https://appleinsider.com/articles/21/10/13/apple-tv-lands-jason-segel-comedy-series-shrinking?utm_medium=rss)<!-- TECH:END -->
+ - [Another Facebook whistleblower says she's given documents to US law enforcement     - CNET](https://www.cnet.com/news/another-facebook-whistleblower-say-shes-given-documents-to-us-law-enforcement/#ftag=CAD590a51e)
+ - [The best e-reader for 2021     - CNET](https://www.cnet.com/tech/mobile/the-best-e-reader-for-2021/#ftag=CAD590a51e)
+ - [Best Chromebook in 2021: 7 best Chromebooks starting under $300     - CNET](https://www.cnet.com/tech/computing/best-chromebook/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
