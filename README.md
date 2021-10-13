@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Stockholm-based Funnel, which makes a no-code tool to organize and create reports from marketing data, raises $66M, says it is planning for an IPO in Sweden (Ingrid Lunden/TechCrunch)](http://www.techmeme.com/211013/p2#a211013p2)
- - [Bowers & Wilkins Zeppelin speaker adds Amazon Alexa for $799     - CNET](https://www.cnet.com/tech/home-entertainment/bowers-and-wilkins-zeppelin-comes-out-streaming-in-2021/#ftag=CAD590a51e)
- - [Bowers & Wilkins updates iconic Zeppelin speaker with Alexa and AirPlay 2](https://www.theverge.com/2021/10/13/22722494/bowers-and-wilkins-zeppelin-alexa-airplay-2-speaker-update)<!-- TECH:END -->
+ - [Google Pixel 6 Pro camera module may not be user-replaceable](https://techncruncher.blogspot.com/2021/10/google-pixel-6-pro-camera-module-may.html)
+ - [Even Apple is struggling with chip shortages, could cut iPhone 13 production](https://www.androidauthority.com/apple-iphone-13-chip-shortage-3039287/)
+ - [Adobe shows off upcoming Camera Raw support for Photoshop on iPad](https://techncruncher.blogspot.com/2021/10/adobe-shows-off-upcoming-camera-raw.html)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
