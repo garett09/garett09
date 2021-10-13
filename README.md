@@ -195,8 +195,8 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How I see myself in retirement.](http://9gag.com/gag/a41pLx6)
- - 🚯 [Who are you? Only wrong answers](http://9gag.com/gag/aqG45Wj)
+ - 🚖 [Wtf is happening here?](http://9gag.com/gag/aDDRoWB)
+ - 🚯 [Divorced recently, starting my new life...](http://9gag.com/gag/a11pM4G)
  - 🚯 [It&rsquo;s Us Against The World](http://9gag.com/gag/a11pe38)<!-- MEMES:END -->
 
 --- 
