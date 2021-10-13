@@ -195,8 +195,8 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Never forget what pcbosman did](http://9gag.com/gag/ajgQqj0)
- - 🚯 [She made a choice to look like this](http://9gag.com/gag/a91jW30)
+ - 🚖 [Old but gold. Lung exercise](http://9gag.com/gag/aZrqB13)
+ - 🚯 [This kid is going places](http://9gag.com/gag/ajgQX8w)
  - 🚯 [It&rsquo;s Us Against The World](http://9gag.com/gag/a11pe38)<!-- MEMES:END -->
 
 --- 
