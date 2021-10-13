@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple issues tenth developer beta for macOS Monterey](https://appleinsider.com/articles/21/10/13/apple-issues-tenth-developer-beta-for-macos-monterey?utm_medium=rss)
- - [Apple seeds fourth developer betas for iOS 15.1, iPadOS 15.1, tvOS 15.1, & watchOS 8.1](https://appleinsider.com/articles/21/10/13/apple-seeds-fourth-developer-betas-for-ios-151-ipados-151-tvos-151-watchos-81?utm_medium=rss)
- - [Apple Watch Series 7 already on sale, shop exclusive early Black Friday pricing](https://appleinsider.com/articles/21/10/13/apple-watch-series-7-already-on-sale-shop-exclusive-early-black-friday-pricing?utm_medium=rss)<!-- TECH:END -->
+ - [Microsoft agrees to commission an independent human rights review of its law enforcement and government contracts, in response to a shareholder proposal (Dina Bass/Bloomberg)](http://www.techmeme.com/211013/p28#a211013p28)
+ - [Twitter is launching a Spaces accelerator program to pay live audio creators](https://www.theverge.com/2021/10/13/22724450/twitter-spaces-accelerator-spark-clubhouse-creators)
+ - [I Know What You Did Last Summer review: The teen horror update hits the mark](https://www.androidauthority.com/i-know-what-you-did-last-summer-review-amazon-prime-3037435/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
