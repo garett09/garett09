@@ -195,8 +195,8 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Dad has style](http://9gag.com/gag/a41pYPQ)
- - 🚯 [Divorced recently, starting my new life...](http://9gag.com/gag/a11pM4G)
+ - 🚖 [Piece of s***](http://9gag.com/gag/a31vjn7)
+ - 🚯 [The power of not being able to be cancelled](http://9gag.com/gag/a81dMeZ)
  - 🚯 [It&rsquo;s Us Against The World](http://9gag.com/gag/a11pe38)<!-- MEMES:END -->
 
 --- 
