@@ -195,8 +195,8 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How to remove brain tumors](http://9gag.com/gag/aNPmzPb)
- - 🚯 [Who Can Relate?](http://9gag.com/gag/a21Er8E)
+ - 🚖 [Who Can Relate?](http://9gag.com/gag/a21Er8E)
+ - 🚯 [Recently divorced, starting a new life](http://9gag.com/gag/aGzK1W5)
  - 🚯 [It&rsquo;s Us Against The World! Fight, Survive, Defend!](http://9gag.com/gag/avA27DM)<!-- MEMES:END -->
 
 --- 
