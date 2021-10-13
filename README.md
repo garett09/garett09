@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An overview of possible Section 230 reforms and why each proposed change might as well be an outright repeal, given each one's practical effect (Cathy Gellis/Techdirt)](http://www.techmeme.com/211013/p23#a211013p23)
- - [Luna Display 5 improves Mac setup performance, adds Windows support](https://appleinsider.com/articles/21/10/13/luna-display-5-improves-mac-setup-performance-adds-windows-support?utm_medium=rss)
- - [Safety regulator wants info on Tesla’s FSD beta, ‘safety score’ evaluation](https://www.theverge.com/2021/10/13/22724171/nhtsa-tesla-letters-fsd-beta-autopilot-recall-emergency-vehicles)<!-- TECH:END -->
+ - [Apple issues tenth developer beta for macOS Monterey](https://appleinsider.com/articles/21/10/13/apple-issues-tenth-developer-beta-for-macos-monterey?utm_medium=rss)
+ - [Apple seeds fourth developer betas for iOS 15.1, iPadOS 15.1, tvOS 15.1, & watchOS 8.1](https://appleinsider.com/articles/21/10/13/apple-seeds-fourth-developer-betas-for-ios-151-ipados-151-tvos-151-watchos-81?utm_medium=rss)
+ - [Apple Watch Series 7 already on sale, shop exclusive early Black Friday pricing](https://appleinsider.com/articles/21/10/13/apple-watch-series-7-already-on-sale-shop-exclusive-early-black-friday-pricing?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
