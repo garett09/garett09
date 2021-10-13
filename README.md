@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Analysts shrug off reports of Apple iPhone 13 production cuts, issues](https://appleinsider.com/articles/21/10/13/analysts-shrug-off-reports-of-apple-iphone-13-production-cuts-issues?utm_medium=rss)
- - [Bose’s new SoundLink Flex speaker has a rugged design and ‘astonishing’ sound](https://www.theverge.com/2021/10/13/22724163/bose-soundlink-flex-bluetooth-speaker-specs-price)
- - [Get up to $1,500 for your used Apple device ahead of new MacBook Pros](https://appleinsider.com/articles/21/10/13/get-up-to-1500-for-your-used-apple-device-ahead-of-new-macbook-pros?utm_medium=rss)<!-- TECH:END -->
+ - [Best bargain true wireless earbuds for under $50     - CNET](https://www.cnet.com/tech/mobile/best-bargain-true-wireless-earbuds-under-50/#ftag=CAD590a51e)
+ - [Blue Origin successfully sends William Shatner and crew to edge of space and back](https://www.theverge.com/2021/10/13/22724058/blue-origin-william-shatner-new-shepard-flight-success)
+ - [Poll: Have you disabled your phone’s high refresh rate?](https://www.androidauthority.com/disable-high-refreh-rate-poll-3039383/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
