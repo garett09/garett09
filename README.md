@@ -181,9 +181,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [All The Possible Video Game TV Series Announced In The Last 48 Hours](https://kotaku.com/all-the-possible-video-game-tv-series-announced-in-the-1847855183)
- - [Gloomhaven’s digital adaptation is a marvelous turn-based dungeon crawler](https://www.polygon.com/reviews/22723403/gloomhaven-digital-review-pc-steam-mac-gog-adaptation)
- - [Live sheep births were a top priority for Lamb director](https://www.polygon.com/22724430/lamb-movie-sheep-birth-scenes)<!-- GAME:END -->
+ - [Lord of the Rings made people think Sauron is an eye — but he’s so much more](https://www.polygon.com/lord-of-the-rings/22724426/lord-of-the-rings-sauron-eye-explained)
+ - [Call of Duty: Warzone deploys new anti-cheat tool next month](https://www.polygon.com/22724523/call-of-duty-warzone-cheating-anti-cheat-ricochet-kernel-level-always-on-privacy)
+ - [Report: EA In A Messy Fight Over FIFA License, Money](https://kotaku.com/report-ea-in-a-messy-fight-over-fifa-license-money-1847855637)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
