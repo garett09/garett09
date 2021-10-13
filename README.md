@@ -195,8 +195,8 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [TV Shows](http://9gag.com/gag/adgyq32)
- - 🚯 [What a brilliant idea!](http://9gag.com/gag/aVxjqNy)
+ - 🚖 [What a brilliant idea!](http://9gag.com/gag/aVxjqNy)
+ - 🚯 [Dude hacked into the network and rick rolled the entire school district (6 schools)](http://9gag.com/gag/aqG41rR)
  - 🚯 [It&rsquo;s Us Against The World](http://9gag.com/gag/a11pe38)<!-- MEMES:END -->
 
 --- 
