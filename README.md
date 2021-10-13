@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Luna Display can now turn your iPad into a second screen for Windows devices](https://www.theverge.com/2021/10/13/22724866/luna-display-windows-support-ipad-second-screen)
- - [Facebook sets some internal message boards to private, including discussions on platform safety and election integrity, limiting which employees have access (Ryan Mac/New York Times)](http://www.techmeme.com/211013/p30#a211013p30)
- - [Apple seeds fourth developer betas for iOS 15.1, iPadOS 15.1, tvOS 15.1, & watchOS 8.1](https://appleinsider.com/articles/21/10/13/apple-seeds-fourth-developer-betas-for-ios-151-ipados-151-tvos-151-watchos-81?utm_medium=rss)<!-- TECH:END -->
+ - [Apple's Lisa Jackson talks sustainability, environmental justice in new interview](https://appleinsider.com/articles/21/10/13/apples-lisa-jackson-talks-sustainability-environmental-justice-in-new-interview?utm_medium=rss)
+ - [How to use the iOS app tracking blocker](https://www.theverge.com/22403523/ios-14-5-tracking-consent-app-transparency-how-to)
+ - [Apple TV+ lands Jason Segel comedy series 'Shrinking'](https://appleinsider.com/articles/21/10/13/apple-tv-lands-jason-segel-comedy-series-shrinking?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
