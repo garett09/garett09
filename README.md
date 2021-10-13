@@ -195,8 +195,8 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Divorced recently, starting my new life...](http://9gag.com/gag/a11pM4G)
- - 🚯 [PSA: The truth about &quot;Hehe&quot;...](http://9gag.com/gag/ay9E8Rb)
+ - 🚖 [Dad has style](http://9gag.com/gag/a41pYPQ)
+ - 🚯 [Divorced recently, starting my new life...](http://9gag.com/gag/a11pM4G)
  - 🚯 [It&rsquo;s Us Against The World](http://9gag.com/gag/a11pe38)<!-- MEMES:END -->
 
 --- 
