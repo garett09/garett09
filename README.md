@@ -181,9 +181,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Solar Ash, the follow-up to Hyper Light Drifter, delayed to December](https://www.pcgamer.com/solar-ash-release-date-delayed)
- - [Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles Cuts Through Xbox Starting Today](https://news.xbox.com/en-us/2021/10/13/demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-cuts-through-xbox-starting-today/)
- - [Activision Says Call Of Duty: Warzone, Vanguard Are Getting New, Souped-Up Anti-Cheat](https://kotaku.com/activision-says-call-of-duty-warzone-vanguard-are-get-1847857437)<!-- GAME:END -->
+ - [Mass Effect Legendary Edition made me appreciate Mass Effect's most ridiculous NPC](https://www.pcgamer.com/mass-effect-legendary-edition-made-me-appreciate-mass-effects-most-ridiculous-npc)
+ - [System Shock is being made into a live-action series](https://www.pcgamer.com/system-shock-is-being-made-into-a-live-action-series)
+ - [Solar Ash, the follow-up to Hyper Light Drifter, delayed to December](https://www.pcgamer.com/solar-ash-release-date-delayed)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
