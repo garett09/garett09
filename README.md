@@ -195,8 +195,8 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Recently divorced, starting a new life](http://9gag.com/gag/aGzK1W5)
- - 🚯 [Deep... (medium volume)](http://9gag.com/gag/aDDRz7d)
+ - 🚖 [Deep... (medium volume)](http://9gag.com/gag/aDDRz7d)
+ - 🚯 [When the new superman comes out as bi](http://9gag.com/gag/a51poxy)
  - 🚯 [It&rsquo;s Us Against The World! Fight, Survive, Defend!](http://9gag.com/gag/avA27DM)<!-- MEMES:END -->
 
 --- 
