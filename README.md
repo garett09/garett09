@@ -195,8 +195,8 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Old but gold. Lung exercise](http://9gag.com/gag/aZrqB13)
- - 🚯 [This kid is going places](http://9gag.com/gag/ajgQX8w)
+ - 🚖 [@3coder](http://9gag.com/gag/aYrjxMV)
+ - 🚯 [Who Can Relate?](http://9gag.com/gag/a21Er8E)
  - 🚯 [It&rsquo;s Us Against The World](http://9gag.com/gag/a11pe38)<!-- MEMES:END -->
 
 --- 
