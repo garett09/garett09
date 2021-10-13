@@ -181,9 +181,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Meet Trent Oster, the bloke who launched Neverwinter Nights twice](https://www.pcgamer.com/meet-trent-oster-the-bloke-who-launched-neverwinter-nights-twice)
- - [Optimize Windows 11 for gaming](https://www.pcgamer.com/windows-11-gaming-optimization)
- - [Real-Life Squid Game Taking Place In South Korea, Minus The Killing](https://kotaku.com/real-life-squid-game-taking-place-in-south-korea-minus-1847852988)<!-- GAME:END -->
+ - [Final Fantasy 14’s Naoki Yoshida says action buttons are at their limit in Endwalker](https://www.polygon.com/interviews/22723132/final-fantasy-14-endwalker-naoki-yoshida-interview-cast-times)
+ - [Reflecting on FFXIV’s big comeback, from launch to November’s Endwalker expansion](http://feedproxy.google.com/~r/PSBlog/~3/Ni4rAN2Gy6Y/)
+ - [Reflecting on FFXIV’s big comeback, from launch to November’s Endwalker expansion](https://blog.playstation.com/2021/10/13/reflecting-on-ffxivs-big-comeback-from-launch-to-novembers-endwalker-expansion/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
