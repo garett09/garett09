@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Realme’s extremely green GT Neo 2 flagship has a Snapdragon 870 for $425](https://www.theverge.com/2021/10/13/22723967/realme-gt-neo2-india-announced-specs-price)
- - [Super73 ZX first ride review: Rad midrange e-bike     - Roadshow](https://www.cnet.com/roadshow/news/super73-zx-first-ride-review-ebike/#ftag=CAD590a51e)
- - [Nothing's future mystery products will be powered by Qualcomm     - CNET](https://www.cnet.com/tech/mobile/nothings-future-mystery-products-will-be-powered-by-qualcomm/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to choose a cell phone plan in 2021: What to know before you switch carriers     - CNET](https://www.cnet.com/tech/mobile/how-to-choose-a-cell-phone-plan-in-2021-what-to-know-before-you-switch-carriers/#ftag=CAD590a51e)
+ - [Best home theater systems of 2021     - CNET](https://www.cnet.com/tech/home-entertainment/best-home-theater-systems/#ftag=CAD590a51e)
+ - [Best Alexa devices to buy in 2021     - CNET](https://www.cnet.com/home/smart-home/best-alexa-devices/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
