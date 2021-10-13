@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple quietly fixes zero-day flaw in iOS 15.0.2, but didn't credit its finder](https://appleinsider.com/articles/21/10/13/apple-quietly-fixes-zero-day-flaw-in-ios-1502-but-didnt-credit-its-finder?utm_medium=rss)
- - [Letitia Wright Denies Black Panther 2 Set Conduct Reports](https://techncruncher.blogspot.com/2021/10/letitia-wright-denies-black-panther-2.html)
- - [Adult Swim Festival 2021 Has Rick & Morty Panel, Live Streams & More](https://techncruncher.blogspot.com/2021/10/adult-swim-festival-2021-has-rick-morty.html)<!-- TECH:END -->
+ - [Luna Display can now turn your iPad into a second screen for Windows devices](https://www.theverge.com/2021/10/13/22724866/luna-display-windows-support-ipad-second-screen)
+ - [Facebook sets some internal message boards to private, including discussions on platform safety and election integrity, limiting which employees have access (Ryan Mac/New York Times)](http://www.techmeme.com/211013/p30#a211013p30)
+ - [Apple seeds fourth developer betas for iOS 15.1, iPadOS 15.1, tvOS 15.1, & watchOS 8.1](https://appleinsider.com/articles/21/10/13/apple-seeds-fourth-developer-betas-for-ios-151-ipados-151-tvos-151-watchos-81?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
