@@ -195,8 +195,8 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Piece of s***](http://9gag.com/gag/a31vjn7)
- - 🚯 [The power of not being able to be cancelled](http://9gag.com/gag/a81dMeZ)
+ - 🚖 [Chad shark lmao](http://9gag.com/gag/arn1NG5)
+ - 🚯 [PSA: The truth about &quot;Hehe&quot;...](http://9gag.com/gag/ay9E8Rb)
  - 🚯 [It&rsquo;s Us Against The World](http://9gag.com/gag/a11pe38)<!-- MEMES:END -->
 
 --- 
