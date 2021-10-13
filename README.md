@@ -181,9 +181,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Total War: Warhammer's unloved sieges are being reworked in the third game](https://www.pcgamer.com/total-war-warhammers-unloved-sieges-are-being-reworked-in-the-third-game)
  - [Disco Elysium – The Final Cut Lets You Solve a Murder Mystery However You Want](https://news.xbox.com/en-us/2021/10/12/disco-elysium-the-final-cut-available-now/)
- - [Report: Xbox's Last-Second Intel Switcheroo Left AMD Engineers Heartbroken](https://kotaku.com/report-xboxs-last-second-intel-switcheroo-left-amd-eng-1847851074)
- - [13 Years Too Late, Fallout 3 Removes Game For Windows Live](https://kotaku.com/13-years-too-late-fallout-3-removes-game-for-windows-l-1847850809)<!-- GAME:END -->
+ - [Report: Xbox's Last-Second Intel Switcheroo Left AMD Engineers Heartbroken](https://kotaku.com/report-xboxs-last-second-intel-switcheroo-left-amd-eng-1847851074)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
