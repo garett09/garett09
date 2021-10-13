@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple's Lisa Jackson talks sustainability, environmental justice in new interview](https://appleinsider.com/articles/21/10/13/apples-lisa-jackson-talks-sustainability-environmental-justice-in-new-interview?utm_medium=rss)
- - [How to use left-behind alerts, community finding, & pairing lock with AirPods Pro & AirPods Max](https://appleinsider.com/articles/21/10/13/how-to-use-left-behind-alerts-community-finding-pairing-lock-with-airpods-pro-airpods-max?utm_medium=rss)
- - [Bose bets you’ll want this rugged speaker as your next adventure buddy](https://www.androidauthority.com/bose-soundlink-flex-3039737/)<!-- TECH:END -->
+ - [Apple quietly fixes zero-day flaw in iOS 15.0.2, but didn't credit its finder](https://appleinsider.com/articles/21/10/13/apple-quietly-fixes-zero-day-flaw-in-ios-1502-but-didnt-credit-its-finder?utm_medium=rss)
+ - [Letitia Wright Denies Black Panther 2 Set Conduct Reports](https://techncruncher.blogspot.com/2021/10/letitia-wright-denies-black-panther-2.html)
+ - [Adult Swim Festival 2021 Has Rick & Morty Panel, Live Streams & More](https://techncruncher.blogspot.com/2021/10/adult-swim-festival-2021-has-rick-morty.html)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
