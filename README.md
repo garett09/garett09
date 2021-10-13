@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Pixel 6 Pro camera module may not be user-replaceable](https://techncruncher.blogspot.com/2021/10/google-pixel-6-pro-camera-module-may.html)
- - [Even Apple is struggling with chip shortages, could cut iPhone 13 production](https://www.androidauthority.com/apple-iphone-13-chip-shortage-3039287/)
- - [Adobe shows off upcoming Camera Raw support for Photoshop on iPad](https://techncruncher.blogspot.com/2021/10/adobe-shows-off-upcoming-camera-raw.html)<!-- TECH:END -->
+ - [Realme’s extremely green GT Neo 2 flagship has a Snapdragon 870 for $425](https://www.theverge.com/2021/10/13/22723967/realme-gt-neo2-india-announced-specs-price)
+ - [Super73 ZX first ride review: Rad midrange e-bike     - Roadshow](https://www.cnet.com/roadshow/news/super73-zx-first-ride-review-ebike/#ftag=CAD590a51e)
+ - [Nothing's future mystery products will be powered by Qualcomm     - CNET](https://www.cnet.com/tech/mobile/nothings-future-mystery-products-will-be-powered-by-qualcomm/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
