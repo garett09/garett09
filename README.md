@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [In 2020, the Seattle region was the top US market for large office space leased by tech firms, due in part to a deep talent pool and plenty of undeveloped land (Julie Weed/New York Times)](http://www.techmeme.com/211013/p1#a211013p1)
  - [Google search spotlights endangered species in AR     - CNET](https://www.cnet.com/tech/services-and-software/google-search-spotlights-endangered-species-in-ar/#ftag=CAD590a51e)
- - [US to lift travel restrictions on Canada and Mexico borders next month     - CNET](https://www.cnet.com/health/medical/us-to-lift-travel-restrictions-on-canada-and-mexico-borders-next-month/#ftag=CAD590a51e)
- - [FourFront, a startup creating fictional storylines with actors on TikTok, says it aims to build an interconnected TikTok "universe" and has raised a $1.5M seed (Lucas Matney/TechCrunch)](http://www.techmeme.com/211012/p39#a211012p39)<!-- TECH:END -->
+ - [US to lift travel restrictions on Canada and Mexico borders next month     - CNET](https://www.cnet.com/health/medical/us-to-lift-travel-restrictions-on-canada-and-mexico-borders-next-month/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
