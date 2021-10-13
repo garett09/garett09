@@ -181,9 +181,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Skyrim's Anniversary Edition update might be more disruptive to modding than expected](https://www.pcgamer.com/skyrims-anniversary-edition-update-might-be-more-disruptive-to-modding-than-expected)
  - [Ugh, Nazi-Themed Host Bar Opens In Osaka](https://kotaku.com/ungh-nazi-themed-host-bar-opens-in-osaka-1847844952)
- - [Old Video Shows The Birth Of Mortal Kombat's 'Get Over Here' Move](https://kotaku.com/old-video-shows-the-birth-of-mortal-kombats-get-over-he-1847851690)
- - [Fallout 3 finally freed from Games For Windows Live scourge](https://www.pcgamer.com/fallout-3-finally-freed-from-games-for-windows-live-scourge)<!-- GAME:END -->
+ - [Old Video Shows The Birth Of Mortal Kombat's 'Get Over Here' Move](https://kotaku.com/old-video-shows-the-birth-of-mortal-kombats-get-over-he-1847851690)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
