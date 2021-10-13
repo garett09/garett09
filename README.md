@@ -181,9 +181,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Cowboy Bebop's Original Japanese Voice Cast Returns To Dub Netflix Series](https://kotaku.com/cowboy-bebops-original-japanese-voice-cast-returns-to-d-1847852810)
- - [How to get started in Destiny 2's Festival of the Lost](https://www.pcgamer.com/destiny-2-haunted-sectors)
- - [Brooding survival RTS Age of Darkness swarms into Early Access](https://www.pcgamer.com/brooding-survival-rts-age-of-darkness-swarms-into-early-access)<!-- GAME:END -->
+ - [Meet Trent Oster, the bloke who launched Neverwinter Nights twice](https://www.pcgamer.com/meet-trent-oster-the-bloke-who-launched-neverwinter-nights-twice)
+ - [Optimize Windows 11 for gaming](https://www.pcgamer.com/windows-11-gaming-optimization)
+ - [Real-Life Squid Game Taking Place In South Korea, Minus The Killing](https://kotaku.com/real-life-squid-game-taking-place-in-south-korea-minus-1847852988)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
