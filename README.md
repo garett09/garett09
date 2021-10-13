@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best bargain true wireless earbuds for under $50     - CNET](https://www.cnet.com/tech/mobile/best-bargain-true-wireless-earbuds-under-50/#ftag=CAD590a51e)
- - [Blue Origin successfully sends William Shatner and crew to edge of space and back](https://www.theverge.com/2021/10/13/22724058/blue-origin-william-shatner-new-shepard-flight-success)
- - [Poll: Have you disabled your phone’s high refresh rate?](https://www.androidauthority.com/disable-high-refreh-rate-poll-3039383/)<!-- TECH:END -->
+ - [An overview of possible Section 230 reforms and why each proposed change might as well be an outright repeal, given each one's practical effect (Cathy Gellis/Techdirt)](http://www.techmeme.com/211013/p23#a211013p23)
+ - [Luna Display 5 improves Mac setup performance, adds Windows support](https://appleinsider.com/articles/21/10/13/luna-display-5-improves-mac-setup-performance-adds-windows-support?utm_medium=rss)
+ - [Safety regulator wants info on Tesla’s FSD beta, ‘safety score’ evaluation](https://www.theverge.com/2021/10/13/22724171/nhtsa-tesla-letters-fsd-beta-autopilot-recall-emergency-vehicles)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
