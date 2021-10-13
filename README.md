@@ -195,8 +195,8 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [@3coder](http://9gag.com/gag/aYrjxMV)
- - 🚯 [Who Can Relate?](http://9gag.com/gag/a21Er8E)
+ - 🚖 [TV Shows](http://9gag.com/gag/adgyq32)
+ - 🚯 [What a brilliant idea!](http://9gag.com/gag/aVxjqNy)
  - 🚯 [It&rsquo;s Us Against The World](http://9gag.com/gag/a11pe38)<!-- MEMES:END -->
 
 --- 
