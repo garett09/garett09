@@ -195,7 +195,7 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What&#039;s the oof size on that one?](http://9gag.com/gag/aAGB342)
+ - 🚖 [Just replayed the first part](http://9gag.com/gag/a41pQGd)
  - 🚯 [Two blondes broke each other...](http://9gag.com/gag/aWgBqGn)
  - 🚯 [It&rsquo;s Us Against The World! Fight, Survive, Defend!](http://9gag.com/gag/avA27DM)<!-- MEMES:END -->
 
