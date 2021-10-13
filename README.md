@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dexterity, which is developing a full-stack service for collaborative warehouse robots, raises a $140M Series B at a $1.4B valuation (Brian Heater/TechCrunch)](http://www.techmeme.com/211013/p13#a211013p13)
- - [Seattle-based Karat, which helps companies conduct technical interviews, raises a $110M Series C at a $1.1B valuation led by Tiger Global (Taylor Soper/GeekWire)](http://www.techmeme.com/211013/p12#a211013p12)
- - [Ohio-based Aware, which analyzes internal company chat tools for legal compliance, sentiment, and more, raises a $60M Series C led by Goldman Sachs (Ingrid Lunden/TechCrunch)](http://www.techmeme.com/211013/p11#a211013p11)<!-- TECH:END -->
+ - [DoorDash launches $1 million disaster relief fund for restaurants](https://www.theverge.com/2021/10/13/22720663/doordash-disaster-relief-fund-restaurants)
+ - [Apple’s AirPods Max are $100 off at Amazon and Walmart](https://www.theverge.com/good-deals/2021/10/13/22722541/apple-airpods-max-corsair-gaming-keyboard-gigabyte-monitor-deal-sale)
+ - [Snapchat is down, as many users can’t post or send messages](https://www.theverge.com/2021/10/13/22724142/snapchat-down-outage-error-down-story-messages)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
