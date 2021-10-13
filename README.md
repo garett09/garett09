@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to choose a cell phone plan in 2021: What to know before you switch carriers     - CNET](https://www.cnet.com/tech/mobile/how-to-choose-a-cell-phone-plan-in-2021-what-to-know-before-you-switch-carriers/#ftag=CAD590a51e)
- - [Best home theater systems of 2021     - CNET](https://www.cnet.com/tech/home-entertainment/best-home-theater-systems/#ftag=CAD590a51e)
- - [Best Alexa devices to buy in 2021     - CNET](https://www.cnet.com/home/smart-home/best-alexa-devices/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [US to host a two-day virtual event from Wed. on ransomware with 30 countries, except Russia and China; source says Russia isn't invited "for a host of reasons" (Martin Matishak/The Record)](http://www.techmeme.com/211013/p9#a211013p9)
+ - [Garmin devices can now track diabetic glucose levels without a hacky workaround](https://www.androidauthority.com/garmin-dexcom-3036817/)
+ - [Carbon-Capturing Sunglasses Offer a View of Fashion's Future](https://www.wired.com/story/newlight-aircarbon-fashion-products)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
