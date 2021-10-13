@@ -181,9 +181,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [You can polish your gym badges in Pokémon Brilliant Diamond and Shining Pearl](https://www.polygon.com/22723101/pokemon-brilliant-diamond-shining-pearl-remakes-gym-badges)
- - [Celebrating five years of PlayStation VR](http://feedproxy.google.com/~r/PSBlog/~3/-M7-loCLEKI/)
- - [Celebrating five years of PlayStation VR](https://blog.playstation.com/2021/10/13/celebrating-five-years-of-playstation-vr/)<!-- GAME:END -->
+ - [Moss creators reflect on five years of PS VR](http://feedproxy.google.com/~r/PSBlog/~3/lnW6S99uzJ8/)
+ - [Moss creators reflect on five years of PS VR](https://blog.playstation.com/2021/10/13/moss-creators-reflect-on-five-years-of-ps-vr/)
+ - [Xbox and MAC Cosmetics Bring Game Pass Characters to Life This Halloween](https://news.xbox.com/en-us/2021/10/13/xbox-mac-cosmetics-content-series/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
