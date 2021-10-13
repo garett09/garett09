@@ -181,9 +181,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Warhammer 40K goes gunning for X-Wing, and its aim is true](https://www.polygon.com/reviews/22723334/warhammer-40k-aeronautica-imperialis-wrath-of-angels-review-x-wing)
- - [Horizon Chase Turbo: Senna Forever expansion launches October 20](http://feedproxy.google.com/~r/PSBlog/~3/dvbYlcWAA1E/)
- - [Horizon Chase Turbo: Senna Forever expansion launches October 20](https://blog.playstation.com/2021/10/13/horizon-chase-turbo-senna-forever-expansion-launches-october-20/)<!-- GAME:END -->
+ - [All The Possible Video Game TV Series Announced In The Last 48 Hours](https://kotaku.com/all-the-possible-video-game-tv-series-announced-in-the-1847855183)
+ - [Gloomhaven’s digital adaptation is a marvelous turn-based dungeon crawler](https://www.polygon.com/reviews/22723403/gloomhaven-digital-review-pc-steam-mac-gog-adaptation)
+ - [Live sheep births were a top priority for Lamb director](https://www.polygon.com/22724430/lamb-movie-sheep-birth-scenes)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
