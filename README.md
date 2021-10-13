@@ -181,9 +181,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The OLED Switch Is Pretty Different On The Inside](https://kotaku.com/the-oled-switch-is-pretty-different-on-the-inside-1847856709)
- - [FFXIV Director Wants You To Be Normal About The Game’s Success](https://kotaku.com/ffxiv-director-wants-you-to-be-normal-about-the-game-s-1847856613)
- - [Call of Duty is getting kernel level anti-cheat](https://www.pcgamer.com/call-of-duty-is-getting-kernel-level-anti-cheat)<!-- GAME:END -->
+ - [Solar Ash, the follow-up to Hyper Light Drifter, delayed to December](https://www.pcgamer.com/solar-ash-release-date-delayed)
+ - [Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles Cuts Through Xbox Starting Today](https://news.xbox.com/en-us/2021/10/13/demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-cuts-through-xbox-starting-today/)
+ - [Activision Says Call Of Duty: Warzone, Vanguard Are Getting New, Souped-Up Anti-Cheat](https://kotaku.com/activision-says-call-of-duty-warzone-vanguard-are-get-1847857437)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
