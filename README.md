@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy S22 release date, price, camera specs and every other rumor we've heard     - CNET](https://www.cnet.com/tech/mobile/samsung-galaxy-s22-release-date-price-camera-specs-and-every-other-rumor-weve-heard/#ftag=CAD590a51e)
- - [You told us: Here’s how much you’d pay for Google’s Pixel Pass](https://www.androidauthority.com/google-pixel-pass-poll-results-3039931/)
- - [Apple extends AirPods Pro repair program for crackling or ANC issues](https://www.theverge.com/2021/10/14/22725886/apple-airpods-pro-repair-program-extended-three-years-crackling-noise-cancellation-problems)<!-- TECH:END -->
+ - [Pinterest co-founder Evan Sharp, who works as its chief design and creative officer, steps down to join Jony Ive's LoveFrom (Bloomberg)](http://www.techmeme.com/211014/p8#a211014p8)
+ - [Beacon, which helps users build custom trading and risk management apps, raises a $56M Series C led by Warburg Pincus (FinSMEs)](http://www.techmeme.com/211014/p7#a211014p7)
+ - [Facebook says it is expanding its "less political" News Feed test to 75 new countries, for a total of more than 80 (Karissa Bell/Engadget)](http://www.techmeme.com/211014/p6#a211014p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
