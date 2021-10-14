@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Squid Game proves capitalism doesn't work, says North Korea     - CNET](https://www.cnet.com/news/squid-game-proves-capitalism-doesnt-work-says-north-korea/#ftag=CAD590a51e)
- - [iOS 15.1 coming week of October 25, will fix alleged iPhone remote wipe exploit [u]](https://appleinsider.com/articles/21/10/13/ios-151-coming-week-of-october-25-will-fix-iphone-remote-wipe-exploit?utm_medium=rss)
- - [GitLab seeks to raise $801M after pricing its IPO at $77 per share, above its marketed range of $66 to $69, at a market valuation of $11B (Bloomberg)](http://www.techmeme.com/211013/p35#a211013p35)<!-- TECH:END -->
+ - [WWE Crown Jewel 2021: Start times, how to watch, match card     - CNET](https://www.cnet.com/news/wwe-crown-jewel-2021-start-times-how-to-watch-match-card/#ftag=CAD590a51e)
+ - ['Extraordinary' unknown radio signal from heart of Milky Way puzzles astronomers     - CNET](https://www.cnet.com/news/extraordinary-unknown-radio-signal-from-heart-of-milky-way-puzzles-astronomers/#ftag=CAD590a51e)
+ - [London-based point of sale provider SumUp acquires Fivestars, which provides loyalty, marketing, payments, and other services to small merchants, for $317M (Ingrid Lunden/TechCrunch)](http://www.techmeme.com/211014/p1#a211014p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
