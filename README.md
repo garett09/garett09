@@ -195,8 +195,8 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Cleansing](http://9gag.com/gag/abg3VRr)
- - 🚯 [Seriously, how can someone work 12 hours a day for almost a week.](http://9gag.com/gag/aKm46R3)
+ - 🚖 [It would not surprise me at all...](http://9gag.com/gag/aegKAym)
+ - 🚯 [Ubisoft at it again](http://9gag.com/gag/avA2AXE)
  - 🚯 [It&rsquo;s Us Against The World! Fight, Survive, Defend!](http://9gag.com/gag/avA27DM)<!-- MEMES:END -->
 
 --- 
