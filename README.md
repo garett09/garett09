@@ -181,9 +181,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Here's Why Twitch's Giant Internal Leak Is Inundated With The Word 'Pizza'](https://kotaku.com/heres-why-twitchs-giant-internal-leak-is-inundated-with-1847867243)
- - [Monster Hunter Rise is coming to PC](https://www.pcgamer.com/monster-hunter-rise-is-coming-to-pc)
- - ['Legacy code' in Diablo 2: Resurrected is causing widespread connection headaches](https://www.pcgamer.com/legacy-code-in-diablo-2-resurrected-is-causing-widespread-connection-headaches)<!-- GAME:END -->
+ - [Embrace a Love for the Classics with the ID@Xbox Retro Sale](https://news.xbox.com/en-us/2021/10/14/idxbox-retro-sale/)
+ - [Finish the fight in style with these Halo-themed diamond necklaces](https://www.pcgamer.com/finish-the-fight-in-style-with-these-halo-themed-diamond-necklaces)
+ - [Forget the potatoes and pregnancy test: Doom runs on Twitter now](https://www.pcgamer.com/forget-the-potatoes-and-pregnancy-test-doom-runs-on-twitter-now)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
