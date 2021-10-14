@@ -195,8 +195,8 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Gotta show it appreciation for making my indoor days a fun experience. take care of your platforms, fellas!](http://9gag.com/gag/aogmerm)
- - 🚯 [Tank deploying a smoke screen](http://9gag.com/gag/a81d3PQ)
+ - 🚖 [Guys just want one thing and it is disgusting](http://9gag.com/gag/a21EZzO)
+ - 🚯 [When the new superman comes out as bi](http://9gag.com/gag/a51poxy)
  - 🚯 [It&rsquo;s Us Against The World! Fight, Survive, Defend!](http://9gag.com/gag/avA27DM)<!-- MEMES:END -->
 
 --- 
