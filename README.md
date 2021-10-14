@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [PitchBook: tech investors and employees have netted $582.5B from US IPOs and sales in the year to September, with 93 listings between July and September (Miles Kruppa/Financial Times)](http://www.techmeme.com/211014/p37#a211014p37)
- - [Pressure mounts on Amazon and App Store discrimination in new bill](https://www.theverge.com/2021/10/14/22726897/amazon-apple-google-app-stores-marketplace-antitrust-competition-klobuchar-grassley)
- - [90 Day Fiancé: Tania Confirms She's Also On The Single Life With Syngin](https://techncruncher.blogspot.com/2021/10/90-day-fiance-tania-confirms-shes-also.html)<!-- TECH:END -->
+ - [How a US hacker built a secret network of "news" sites and Facebook Groups to push bogus stories after an undisclosed company hired him to sway 2016's election (Ax Sharma/Ars Technica)](http://www.techmeme.com/211014/p38#a211014p38)
+ - [IndiEV reveals electric car with a built-in gaming PC but not much else](https://www.theverge.com/2021/10/14/22726631/indiev-indi-one-electric-car-founder-shi-hai-lawsuits)
+ - [Deathloop’s huge new update brings DLSS, DualSense audio for PC, crash fixes, and more](https://www.theverge.com/2021/10/14/22726925/deathloop-update-dlss-dualsense-npc-hdr-colt-julianna)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
