@@ -195,8 +195,8 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When will they understand????](http://9gag.com/gag/ay9EoxY)
- - 🚯 [The black people meme hall of fame, ladies and gentlemen&hellip;](http://9gag.com/gag/aggrn5W)
+ - 🚖 [How to deal with that pesky mouse in your home](http://9gag.com/gag/aBn9mPD)
+ - 🚯 [Sneaky boi](http://9gag.com/gag/ay9EeZW)
  - 🚯 [It&rsquo;s Us Against The World! Fight, Survive, Defend!](http://9gag.com/gag/avA27DM)<!-- MEMES:END -->
 
 --- 
