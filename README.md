@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Ncase M1, a crowdfunded marvel of a PC case, has been discontinued](https://www.theverge.com/2021/10/13/22725010/ncase-m1-pc-case-sff-small-form-factor-discontinued)
- - [Tim Cook visits LGBTQ+ resource center and developers in Utah](https://appleinsider.com/articles/21/10/14/tim-cook-visits-utah-visits-lgbtq-resource-center-and-developers?utm_medium=rss)
- - [Adam Neumann is back, and he just got HBO Max to cave to his demands](https://www.theverge.com/2021/10/13/22725397/hbo-max-edits-cult-of-wework-adam-neumann-generation-hustle)<!-- TECH:END -->
+ - [Apple anticipated to secure 80% of ARM-based laptop market in 2021](https://appleinsider.com/articles/21/10/14/apple-anticipated-to-secure-80-of-arm-based-laptop-market-in-2021?utm_medium=rss)
+ - [Biden administration plans 7 huge wind farms alongside US coasts     - CNET](https://www.cnet.com/news/biden-administration-plans-7-huge-wind-farms-alongside-us-coasts/#ftag=CAD590a51e)
+ - [The best USB-C PD chargers of 2021     - CNET](https://www.cnet.com/tech/mobile/best-usb-c-pd-chargers/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
