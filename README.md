@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fitbit Charge 5 review: Looks better, does less](https://www.androidauthority.com/fitbit-charge-5-review-3035045/)
- - [17 Steaming-Hot Gift Ideas for Coffee Lovers](https://www.wired.com/gallery/gift-ideas-for-coffee-lovers-2021)
- - [Analysis of 80M ransomware samples: Israel and South Korea are the most affected countries; GandCrab was the most active ransomware gang since the start of 2020 (Campbell Kwan/ZDNet)](http://www.techmeme.com/211014/p22#a211014p22)<!-- TECH:END -->
+ - [Best Deals Oct. 14: Refurbished iMac, up to 70% off Monoprice and JBL products, and more!](https://appleinsider.com/articles/21/10/14/best-deals-oct-14-refurbished-imac-up-to-70-off-monoprice-and-jbl-products-and-more?utm_medium=rss)
+ - [How to watch Apple's 'Unleashed' new MacBook Pro event](https://appleinsider.com/articles/21/10/14/how-to-watch-apples-unleashed-new-macbook-pro-event?utm_medium=rss)
+ - [New MacBook Pros are coming Oct. 18 and the design remains a mystery](https://appleinsider.com/articles/21/10/14/new-macbook-pros-are-coming-oct-18-and-the-design-remains-a-mystery?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
