@@ -196,7 +196,7 @@ Windows                  8 hrs 4 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Guys just want one thing and it is disgusting](http://9gag.com/gag/a21EZzO)
- - 🚯 [When the new superman comes out as bi](http://9gag.com/gag/a51poxy)
+ - 🚯 [Tank deploying a smoke screen](http://9gag.com/gag/a81d3PQ)
  - 🚯 [It&rsquo;s Us Against The World! Fight, Survive, Defend!](http://9gag.com/gag/avA27DM)<!-- MEMES:END -->
 
 --- 
