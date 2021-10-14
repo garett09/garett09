@@ -195,8 +195,8 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Chonzilla](http://9gag.com/gag/adgyVAj)
- - 🚯 [He&#039;s not wrong though](http://9gag.com/gag/a61rK42)
+ - 🚖 [Poor kid](http://9gag.com/gag/aM4eKbA)
+ - 🚯 [Sneaky boi](http://9gag.com/gag/ay9EeZW)
  - 🚯 [It&rsquo;s Us Against The World! Fight, Survive, Defend!](http://9gag.com/gag/avA27DM)<!-- MEMES:END -->
 
 --- 
