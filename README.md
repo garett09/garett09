@@ -181,9 +181,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [GeForce Now officially launches in Australia next week](https://www.pcgamer.com/geforce-now-officially-launches-in-australia-next-week)
- - [Netflix Boss Doubles Down On Dave Chappelle's Transphobia In Embarrassing Email](https://kotaku.com/netflix-boss-doubles-down-on-dave-chappelles-transphobi-1847860302)
- - [Elden Ring rated in Australia, proving that it still exists](https://www.pcgamer.com/elden-ring-rated-in-australia-proving-that-it-still-exists)<!-- GAME:END -->
+ - [The PS2, GameCube, And Game Boy Advance Are All Officially Retro Now, It Seems [Updated]](https://kotaku.com/the-ps2-gamecube-and-game-boy-advance-are-all-officia-1846893913)
+ - [Build an adorable micro solar system for a hungry sun in Heliopedia](https://www.pcgamer.com/build-an-adorable-micro-solar-system-for-a-hungry-sun-in-heliopedia)
+ - [GeForce Now officially launches in Australia next week](https://www.pcgamer.com/geforce-now-officially-launches-in-australia-next-week)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
