@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [AI’s Smarts Now Come With a Big Price Tag](https://www.wired.com/story/ai-smarts-big-price-tag)
- - [Growing Crops Under Solar Panels? Now There’s a Bright Idea](https://www.wired.com/story/growing-crops-under-solar-panels-now-theres-a-bright-idea)
- - [The Best Nintendo Switch Bundle Deals—and Which Model to Pick](https://www.wired.com/story/best-nintendo-switch-deals-bundles-and-essentials)<!-- TECH:END -->
+ - [US court filing details how fraudsters used AI to clone a company director's voice to steal $35M in early 2020 in the UAE (Thomas Brewster/Forbes)](http://www.techmeme.com/211014/p16#a211014p16)
+ - [Facebook details Ego4D, an AI research project done in partnership with 13 universities to improve egocentric perception with potential to improve AI assistants (James Vincent/The Verge)](http://www.techmeme.com/211014/p15#a211014p15)
+ - [Facebook is researching AI systems that see, hear, and remember everything you do](https://www.theverge.com/2021/10/14/22725894/facebook-augmented-reality-ar-glasses-ai-systems-ego4d-research)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
