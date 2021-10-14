@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Signal’s founder is trolling with an NFT that’ll turn to shit if you buy it](https://www.theverge.com/2021/10/14/22726556/signal-founder-moxie-marlinspike-nft-whim-change-platform-shit-emoji-fragility)
- - [The 8 best Peacock original series you can stream now](https://www.androidauthority.com/best-peacock-original-series-3039101/)
- - [DC FanDome: When and how to watch this four hour DC Comics fan event](https://www.androidauthority.com/dc-fandome-when-and-how-to-watch-3040195/)<!-- TECH:END -->
+ - [PitchBook: tech investors and employees have netted $582.5B from US IPOs and sales in the year to September, with 93 listings between July and September (Miles Kruppa/Financial Times)](http://www.techmeme.com/211014/p37#a211014p37)
+ - [Pressure mounts on Amazon and App Store discrimination in new bill](https://www.theverge.com/2021/10/14/22726897/amazon-apple-google-app-stores-marketplace-antitrust-competition-klobuchar-grassley)
+ - [90 Day Fiancé: Tania Confirms She's Also On The Single Life With Syngin](https://techncruncher.blogspot.com/2021/10/90-day-fiance-tania-confirms-shes-also.html)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
