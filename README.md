@@ -181,9 +181,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Ubisoft Postpones Closed Beta For Ghost Recon Frontline, The Game Nobody Asked For](https://kotaku.com/ubisoft-postpones-closed-beta-for-ghost-recon-frontline-1847859725)
  - [How AMD Advantage™ laptops provide a better gaming experience](https://www.pcgamer.com/how-amd-advantagetm-laptops-provide-a-better-gaming-experience)
- - [In space, no one can hear you honk with this horrifying Destiny 2 goose mask](https://www.pcgamer.com/honk-moon-mask-destiny-2)
- - [Call of Duty: Warzone players are too fed up with cheaters to protest kernel level anti-cheat](https://www.pcgamer.com/warzone-ricochet-kernel-anti-cheat)<!-- GAME:END -->
+ - [In space, no one can hear you honk with this horrifying Destiny 2 goose mask](https://www.pcgamer.com/honk-moon-mask-destiny-2)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
