@@ -181,9 +181,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Former Pac-Man Champ Billy Mitchell Can Now Sue World Record Leaderboard Group](https://kotaku.com/former-pac-man-champ-billy-mitchell-can-now-sue-world-r-1847858884)
- - [William Shatner boldly goes where not too many other people have gone before](https://www.pcgamer.com/william-shatner-space)
- - [Jon Gruden, Bigot, Is Being Removed From Madden 22](https://kotaku.com/jon-grudens-bigoted-ass-is-being-removed-from-madden-22-1847859016)<!-- GAME:END -->
+ - [How AMD Advantage™ laptops provide a better gaming experience](https://www.pcgamer.com/how-amd-advantagetm-laptops-provide-a-better-gaming-experience)
+ - [In space, no one can hear you honk with this horrifying Destiny 2 goose mask](https://www.pcgamer.com/honk-moon-mask-destiny-2)
+ - [Call of Duty: Warzone players are too fed up with cheaters to protest kernel level anti-cheat](https://www.pcgamer.com/warzone-ricochet-kernel-anti-cheat)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
