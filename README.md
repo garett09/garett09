@@ -181,9 +181,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [All the characters that could be announced for Animal Crossing: New Horizons](https://www.polygon.com/22724327/animal-crossing-new-horizons-nintendo-switch-unannounced-characters)
- - [Call of Duty: Vanguard’s Zombies mode gets a creepy reveal trailer](https://www.polygon.com/22726159/call-duty-vanguard-zombies-trailer-details-treyarch)
- - [The Halloween Countdown: 31 days of horror](https://www.polygon.com/22702474/best-halloween-movies-tv-to-watch-stream)<!-- GAME:END -->
+ - [Sony Now Lets You Line Up To Buy PS5s Directly From Them](https://kotaku.com/sony-will-now-let-you-sign-up-to-buy-a-ps5-1847863426)
+ - [Disgraced Raiders head coach getting kicked out of Madden, too](https://www.polygon.com/22726371/jon-gruden-racist-emails-madden-nfl-22-removed)
+ - [New Content Bounces into Phantasy Star Online 2 New Genesis](https://news.xbox.com/en-us/2021/10/14/new-content-bounces-into-phantasy-star-online-2-new-genesis/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
