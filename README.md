@@ -181,9 +181,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Ubisoft Postpones Closed Beta For Ghost Recon Frontline, The Game Nobody Asked For](https://kotaku.com/ubisoft-postpones-closed-beta-for-ghost-recon-frontline-1847859725)
- - [How AMD Advantage™ laptops provide a better gaming experience](https://www.pcgamer.com/how-amd-advantagetm-laptops-provide-a-better-gaming-experience)
- - [In space, no one can hear you honk with this horrifying Destiny 2 goose mask](https://www.pcgamer.com/honk-moon-mask-destiny-2)<!-- GAME:END -->
+ - [Netflix Boss Doubles Down On Dave Chappelle's Transphobia In Embarrassing Email](https://kotaku.com/netflix-boss-doubles-down-on-dave-chappelles-transphobi-1847860302)
+ - [Elden Ring rated in Australia, proving that it still exists](https://www.pcgamer.com/elden-ring-rated-in-australia-proving-that-it-still-exists)
+ - [Ubisoft Postpones Closed Beta For Ghost Recon Frontline, The Game Nobody Asked For](https://kotaku.com/ubisoft-postpones-closed-beta-for-ghost-recon-frontline-1847859725)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
