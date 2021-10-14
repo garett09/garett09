@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best robot vacuum for 2021     - CNET](https://www.cnet.com/home/kitchen-and-household/best-robot-vacuum/#ftag=CAD590a51e)
  - [Apple anticipated to secure 80% of ARM-based laptop market in 2021](https://appleinsider.com/articles/21/10/14/apple-anticipated-to-secure-80-of-arm-based-laptop-market-in-2021?utm_medium=rss)
- - [Biden administration plans 7 huge wind farms alongside US coasts     - CNET](https://www.cnet.com/news/biden-administration-plans-7-huge-wind-farms-alongside-us-coasts/#ftag=CAD590a51e)
- - [The best USB-C PD chargers of 2021     - CNET](https://www.cnet.com/tech/mobile/best-usb-c-pd-chargers/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Biden administration plans 7 huge wind farms alongside US coasts     - CNET](https://www.cnet.com/news/biden-administration-plans-7-huge-wind-farms-alongside-us-coasts/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
