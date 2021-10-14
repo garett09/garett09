@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pinterest co-founder Evan Sharp, who works as its chief design and creative officer, steps down to join Jony Ive's LoveFrom (Bloomberg)](http://www.techmeme.com/211014/p8#a211014p8)
- - [Beacon, which helps users build custom trading and risk management apps, raises a $56M Series C led by Warburg Pincus (FinSMEs)](http://www.techmeme.com/211014/p7#a211014p7)
- - [Facebook says it is expanding its "less political" News Feed test to 75 new countries, for a total of more than 80 (Karissa Bell/Engadget)](http://www.techmeme.com/211014/p6#a211014p6)<!-- TECH:END -->
+ - [AI’s Smarts Now Come With a Big Price Tag](https://www.wired.com/story/ai-smarts-big-price-tag)
+ - [Growing Crops Under Solar Panels? Now There’s a Bright Idea](https://www.wired.com/story/growing-crops-under-solar-panels-now-theres-a-bright-idea)
+ - [The Best Nintendo Switch Bundle Deals—and Which Model to Pick](https://www.wired.com/story/best-nintendo-switch-deals-bundles-and-essentials)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
