@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best robot vacuum for 2021     - CNET](https://www.cnet.com/home/kitchen-and-household/best-robot-vacuum/#ftag=CAD590a51e)
- - [Apple anticipated to secure 80% of ARM-based laptop market in 2021](https://appleinsider.com/articles/21/10/14/apple-anticipated-to-secure-80-of-arm-based-laptop-market-in-2021?utm_medium=rss)
- - [Biden administration plans 7 huge wind farms alongside US coasts     - CNET](https://www.cnet.com/news/biden-administration-plans-7-huge-wind-farms-alongside-us-coasts/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [iOS 15.1 coming week of October 25, will fix alleged iPhone remote wipe exploit [u]](https://appleinsider.com/articles/21/10/13/ios-151-coming-week-of-october-25-will-fix-iphone-remote-wipe-exploit?utm_medium=rss)
+ - [GitLab raises $801M after pricing its IPO at $77 per share, above its marketed range of $66 to $69, giving it a market valuation of $11B (Bloomberg)](http://www.techmeme.com/211013/p35#a211013p35)
+ - [Mopar teases 2021 SEMA reveals     - Roadshow](https://www.cnet.com/roadshow/pictures/mopar-teases-2021-sema-reveals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
