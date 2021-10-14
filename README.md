@@ -181,9 +181,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to get the Peculiar Pinion in Genshin Impact](https://www.pcgamer.com/genshin-impact-peculiar-pinion-octave-of-the-maushiro)
- - [Free Play Days – Halo: The Master Chief Collection, Borderlands 3, and Dirt 5](https://news.xbox.com/en-us/2021/10/14/free-play-days-halo-the-master-chief-collection-borderlands-3-and-dirt-5/)
- - [Jackbox Party Pack 8 is a solid take on the fantastic formula](https://www.polygon.com/reviews/22724403/jackbox-party-pack-8-games-job-job-drawful-animate-weapons-drawn)<!-- GAME:END -->
+ - [All the characters that could be announced for Animal Crossing: New Horizons](https://www.polygon.com/22724327/animal-crossing-new-horizons-nintendo-switch-unannounced-characters)
+ - [Call of Duty: Vanguard’s Zombies mode gets a creepy reveal trailer](https://www.polygon.com/22726159/call-duty-vanguard-zombies-trailer-details-treyarch)
+ - [The Halloween Countdown: 31 days of horror](https://www.polygon.com/22702474/best-halloween-movies-tv-to-watch-stream)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
