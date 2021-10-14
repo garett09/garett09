@@ -181,9 +181,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [GeForce Now officially launches in Australia next week](https://www.pcgamer.com/geforce-now-officially-launches-in-australia-next-week)
  - [Netflix Boss Doubles Down On Dave Chappelle's Transphobia In Embarrassing Email](https://kotaku.com/netflix-boss-doubles-down-on-dave-chappelles-transphobi-1847860302)
- - [Elden Ring rated in Australia, proving that it still exists](https://www.pcgamer.com/elden-ring-rated-in-australia-proving-that-it-still-exists)
- - [Ubisoft Postpones Closed Beta For Ghost Recon Frontline, The Game Nobody Asked For](https://kotaku.com/ubisoft-postpones-closed-beta-for-ghost-recon-frontline-1847859725)<!-- GAME:END -->
+ - [Elden Ring rated in Australia, proving that it still exists](https://www.pcgamer.com/elden-ring-rated-in-australia-proving-that-it-still-exists)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
