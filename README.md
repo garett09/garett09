@@ -195,8 +195,8 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Mating call](http://9gag.com/gag/aogm520)
- - 🚯 [Super Geh](http://9gag.com/gag/a61rN0b)
+ - 🚖 [Super Geh](http://9gag.com/gag/a61rN0b)
+ - 🚯 [What&#039;s the oof size on that one?](http://9gag.com/gag/aAGB342)
  - 🚯 [It&rsquo;s Us Against The World! Fight, Survive, Defend!](http://9gag.com/gag/avA27DM)<!-- MEMES:END -->
 
 --- 
