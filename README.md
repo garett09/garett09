@@ -195,8 +195,8 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Are you pregnarenent?](http://9gag.com/gag/aggrAOg)
- - 🚯 [Gold old times. Tom was your first friend.](http://9gag.com/gag/ajgQ9Wp)
+ - 🚖 [Cleansing](http://9gag.com/gag/abg3VRr)
+ - 🚯 [Dog practicing angry face](http://9gag.com/gag/aze7mob)
  - 🚯 [It&rsquo;s Us Against The World! Fight, Survive, Defend!](http://9gag.com/gag/avA27DM)<!-- MEMES:END -->
 
 --- 
