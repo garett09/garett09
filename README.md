@@ -181,9 +181,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Diablo 2: Resurrected’s server outages are caused by the original game’s code](https://www.polygon.com/22726682/diablo-2-resurrected-server-outages-issues-crashes-blizzard-fix)
- - [Batman Super-Villains Take Over Haunted Hallows in Rocket League](https://news.xbox.com/en-us/2021/10/14/batman-super-villains-take-over-haunted-hallows-in-rocket-league/)
- - [Back 4 Blood is the best-case scenario for Xbox Game Pass](https://www.polygon.com/22726636/back-4-blood-game-pass-ultimate-xbox)<!-- GAME:END -->
+ - ['Legacy code' in Diablo 2: Resurrected is causing widespread connection headaches](https://www.pcgamer.com/legacy-code-in-diablo-2-resurrected-is-causing-widespread-connection-headaches)
+ - [Play The Jackbox Party Pack 8 Games in This Order (To Save Your Family Holidays)](https://news.xbox.com/en-us/2021/10/14/play-the-jackbox-party-pack-8-to-save-your-holidays/)
+ - [The People Who Make Pathfinder Are Forming Tabletop RPG's First Big Union](https://kotaku.com/the-people-who-make-pathfinder-are-forming-tabletop-rpg-1847866142)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
