@@ -181,9 +181,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Halo: The Master Chief Collection’s latest update fixes Halo 2’s graphics](https://www.polygon.com/22724856/halo-2-master-chief-collection-visual-update-upgrade-graphics)
- - [An inside look at Zombies and Campaign mode in Call of Duty: Vanguard](http://feedproxy.google.com/~r/PSBlog/~3/6nKttlguFVg/)
- - [An inside look at Zombies and Campaign mode in Call of Duty: Vanguard](https://blog.playstation.com/2021/10/14/an-inside-look-at-zombies-and-campaign-mode-in-call-of-duty-vanguard/)<!-- GAME:END -->
+ - [Tom Holland says No Way Home is the end of Marvel’s Spider-Man trilogy](https://www.polygon.com/22726649/spider-man-no-way-home-last-movie-trilogy-mcu)
+ - [Apparently Walmart Is Now The Most Annoying Place To Buy A PS5](https://kotaku.com/apparently-walmart-is-now-the-most-annoying-place-to-bu-1847864847)
+ - [Octave of the Maushiro puzzle solutions – Genshin Impact guide](https://www.polygon.com/genshin-impact-guides/22726471/octave-of-the-maushiro-puzzle-solutions-peculiar-pinion-use-gadget)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
