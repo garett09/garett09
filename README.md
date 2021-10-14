@@ -195,8 +195,8 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [That&rsquo;s a classy sportsman right there.](http://9gag.com/gag/aAGBxmo)
- - 🚯 [Mating call](http://9gag.com/gag/aogm520)
+ - 🚖 [Mating call](http://9gag.com/gag/aogm520)
+ - 🚯 [Super Geh](http://9gag.com/gag/a61rN0b)
  - 🚯 [It&rsquo;s Us Against The World! Fight, Survive, Defend!](http://9gag.com/gag/avA27DM)<!-- MEMES:END -->
 
 --- 
