@@ -195,8 +195,8 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Poor kid](http://9gag.com/gag/aM4eKbA)
- - 🚯 [Sneaky boi](http://9gag.com/gag/ay9EeZW)
+ - 🚖 [Are you pregnarenent?](http://9gag.com/gag/aggrAOg)
+ - 🚯 [Gold old times. Tom was your first friend.](http://9gag.com/gag/ajgQ9Wp)
  - 🚯 [It&rsquo;s Us Against The World! Fight, Survive, Defend!](http://9gag.com/gag/avA27DM)<!-- MEMES:END -->
 
 --- 
