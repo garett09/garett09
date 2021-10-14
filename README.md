@@ -195,8 +195,8 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Art of croissanting in France. What is your national art??](http://9gag.com/gag/aM4eAO6)
- - 🚯 [Just replayed the first part](http://9gag.com/gag/a41pQGd)
+ - 🚖 [Gotta show it appreciation for making my indoor days a fun experience. take care of your platforms, fellas!](http://9gag.com/gag/aogmerm)
+ - 🚯 [Tank deploying a smoke screen](http://9gag.com/gag/a81d3PQ)
  - 🚯 [It&rsquo;s Us Against The World! Fight, Survive, Defend!](http://9gag.com/gag/avA27DM)<!-- MEMES:END -->
 
 --- 
