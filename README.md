@@ -196,7 +196,7 @@ Windows                  8 hrs 4 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [How to deal with that pesky mouse in your home](http://9gag.com/gag/aBn9mPD)
- - 🚯 [Sneaky boi](http://9gag.com/gag/ay9EeZW)
+ - 🚯 [He&#039;s not wrong though](http://9gag.com/gag/a61rK42)
  - 🚯 [It&rsquo;s Us Against The World! Fight, Survive, Defend!](http://9gag.com/gag/avA27DM)<!-- MEMES:END -->
 
 --- 
