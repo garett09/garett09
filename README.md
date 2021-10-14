@@ -195,7 +195,7 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I&#039;m still the only one among the boys to not be married. I&rsquo;m also the only one who dated more than 10 people](http://9gag.com/gag/a11pWB6)
+ - 🚖 [Cleansing](http://9gag.com/gag/abg3VRr)
  - 🚯 [Seriously, how can someone work 12 hours a day for almost a week.](http://9gag.com/gag/aKm46R3)
  - 🚯 [It&rsquo;s Us Against The World! Fight, Survive, Defend!](http://9gag.com/gag/avA27DM)<!-- MEMES:END -->
 
