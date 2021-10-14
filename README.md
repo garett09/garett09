@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple extends AirPods Pro repair program for crackling or ANC issues](https://www.theverge.com/2021/10/14/22725886/apple-airpods-pro-repair-program-extended-three-years-crackling-noise-cancellation-problems)
- - [Samsung W22 announced: An expensive Galaxy Z Fold 3 for China](https://www.androidauthority.com/samsung-w22-3039940/)
- - [Qualcomm takes a swipe at Google over Pixel 6’s Tensor chipset](https://www.androidauthority.com/qualcomm-google-pixel-tensor-chipset-tweet-3038521/)<!-- TECH:END -->
+ - [Samsung Galaxy S22 release date, price, camera specs and every other rumor we've heard     - CNET](https://www.cnet.com/tech/mobile/samsung-galaxy-s22-release-date-price-camera-specs-and-every-other-rumor-weve-heard/#ftag=CAD590a51e)
+ - [You told us: Here’s how much you’d pay for Google’s Pixel Pass](https://www.androidauthority.com/google-pixel-pass-poll-results-3039931/)
+ - [Apple extends AirPods Pro repair program for crackling or ANC issues](https://www.theverge.com/2021/10/14/22725886/apple-airpods-pro-repair-program-extended-three-years-crackling-noise-cancellation-problems)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
