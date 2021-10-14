@@ -195,8 +195,8 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The real sh*t](http://9gag.com/gag/arn1nQ6)
- - 🚯 [Nightmare](http://9gag.com/gag/aQX6X7K)
+ - 🚖 [Uh yea, sure thing. Sounds like something a house centipede would say. Propaganda.](http://9gag.com/gag/aqG4G97)
+ - 🚯 [The real sh*t](http://9gag.com/gag/arn1nQ6)
  - 🚯 [It&rsquo;s Us Against The World! Fight, Survive, Defend!](http://9gag.com/gag/avA27DM)<!-- MEMES:END -->
 
 --- 
