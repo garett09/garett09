@@ -181,9 +181,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Embrace a Love for the Classics with the ID@Xbox Retro Sale](https://news.xbox.com/en-us/2021/10/14/idxbox-retro-sale/)
- - [Finish the fight in style with these Halo-themed diamond necklaces](https://www.pcgamer.com/finish-the-fight-in-style-with-these-halo-themed-diamond-necklaces)
- - [Forget the potatoes and pregnancy test: Doom runs on Twitter now](https://www.pcgamer.com/forget-the-potatoes-and-pregnancy-test-doom-runs-on-twitter-now)<!-- GAME:END -->
+ - [Battlefield 2042's Last Mode Seems Like Exactly What The Beta Was Missing](https://kotaku.com/battlefield-2042s-last-mode-seems-like-exactly-what-the-1847867910)
+ - [Dell's got RTX 30-series gaming laptops cheaper than productivity notebooks right now](https://www.pcgamer.com/dells-got-rtx-30-series-gaming-laptops-cheaper-than-productivity-notebooks-right-now)
+ - [GTA Trilogy Remaster's Achievements Seem To Have Leaked, And They're Great](https://kotaku.com/gta-trilogy-remasters-achievements-seem-to-have-leaked-1847867911)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
