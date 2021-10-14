@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Qualcomm takes a swipe at Google over Pixel 6’s Tensor chipset](https://www.androidauthority.com/qualcomm-google-pixel-tensor-chipset-tweet-3038521/)
- - [Ohi, which offers e-commerce product delivery in under 20 minutes in NYC, Chicago, San Francisco, and LA, raises a $19M Series A led by Palm Drive Capital (Sharon Edelson/Forbes)](http://www.techmeme.com/211014/p2#a211014p2)
- - [WWE Crown Jewel 2021: Start times, how to watch, match card     - CNET](https://www.cnet.com/news/wwe-crown-jewel-2021-start-times-how-to-watch-match-card/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple extends AirPods Pro repair program for crackling or ANC issues](https://www.theverge.com/2021/10/14/22725886/apple-airpods-pro-repair-program-extended-three-years-crackling-noise-cancellation-problems)
+ - [Samsung W22 announced: An expensive Galaxy Z Fold 3 for China](https://www.androidauthority.com/samsung-w22-3039940/)
+ - [Qualcomm takes a swipe at Google over Pixel 6’s Tensor chipset](https://www.androidauthority.com/qualcomm-google-pixel-tensor-chipset-tweet-3038521/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
