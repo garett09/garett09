@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kevin Durant's 'Swagger' gets full trailer ahead of Oct. 29 debut on Apple TV+](https://appleinsider.com/articles/21/10/14/kevin-durants-swagger-gets-full-trailer-ahead-of-oct-29-debut-on-apple-tv?utm_medium=rss)
- - [Google will let you keep scrolling (and scrolling) search results on mobile     - CNET](https://www.cnet.com/tech/services-and-software/google-will-let-you-keep-scrolling-and-scrolling-search-results-on-mobile/#ftag=CAD590a51e)
- - [Nanoleaf Lines review: Beautiful indirect HomeKit lighting of your own design](https://appleinsider.com/articles/21/10/14/nanoleaf-lines-review-beautiful-indirect-homekit-lighting-of-your-own-design?utm_medium=rss)<!-- TECH:END -->
+ - [Google Search on mobile just got its biggest change in years](https://www.androidauthority.com/google-search-mobile-scrolling-3040363/)
+ - [WhatsApp starts rolling out e2e encryption for chat history backups in iCloud and Google Drive (Manish Singh/TechCrunch)](http://www.techmeme.com/211014/p35#a211014p35)
+ - [Is iPhone still cool? Maybe Apple should flip the script](https://appleinsider.com/articles/21/10/14/is-iphone-still-cool-maybe-apple-should-flip-the-script?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
