@@ -181,9 +181,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - ['Legacy code' in Diablo 2: Resurrected is causing widespread connection headaches](https://www.pcgamer.com/legacy-code-in-diablo-2-resurrected-is-causing-widespread-connection-headaches)
- - [Play The Jackbox Party Pack 8 Games in This Order (To Save Your Family Holidays)](https://news.xbox.com/en-us/2021/10/14/play-the-jackbox-party-pack-8-to-save-your-holidays/)
- - [The People Who Make Pathfinder Are Forming Tabletop RPG's First Big Union](https://kotaku.com/the-people-who-make-pathfinder-are-forming-tabletop-rpg-1847866142)<!-- GAME:END -->
+ - [Here's Why Twitch's Giant Internal Leak Is Inundated With The Word 'Pizza'](https://kotaku.com/heres-why-twitchs-giant-internal-leak-is-inundated-with-1847867243)
+ - [Monster Hunter Rise is coming to PC](https://www.pcgamer.com/monster-hunter-rise-is-coming-to-pc)
+ - ['Legacy code' in Diablo 2: Resurrected is causing widespread connection headaches](https://www.pcgamer.com/legacy-code-in-diablo-2-resurrected-is-causing-widespread-connection-headaches)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
