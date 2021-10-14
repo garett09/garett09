@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [UK judge rules in favor of a woman who claimed her neighbor's Ring doorbell breached her privacy, potentially paving the way for similar lawsuits (Daily Mail)](http://www.techmeme.com/211014/p19#a211014p19)
- - [Facebook's Fall From Grace Looks a Lot Like Ford's](https://www.wired.com/story/facebook-ford-fall-from-grace)
- - [The Back Bay Tempo 30 Are the Best Cheap Workout Buds](https://www.wired.com/review/back-bay-tempo-30)<!-- TECH:END -->
+ - [Fitbit Charge 5 review: Looks better, does less](https://www.androidauthority.com/fitbit-charge-5-review-3035045/)
+ - [17 Steaming-Hot Gift Ideas for Coffee Lovers](https://www.wired.com/gallery/gift-ideas-for-coffee-lovers-2021)
+ - [Analysis of 80M ransomware samples: Israel and South Korea are the most affected countries; GandCrab was the most active ransomware gang since the start of 2020 (Campbell Kwan/ZDNet)](http://www.techmeme.com/211014/p22#a211014p22)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
