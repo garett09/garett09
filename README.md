@@ -195,8 +195,8 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Super Geh](http://9gag.com/gag/a61rN0b)
- - 🚯 [What&#039;s the oof size on that one?](http://9gag.com/gag/aAGB342)
+ - 🚖 [When will they understand????](http://9gag.com/gag/ay9EoxY)
+ - 🚯 [The black people meme hall of fame, ladies and gentlemen&hellip;](http://9gag.com/gag/aggrn5W)
  - 🚯 [It&rsquo;s Us Against The World! Fight, Survive, Defend!](http://9gag.com/gag/avA27DM)<!-- MEMES:END -->
 
 --- 
