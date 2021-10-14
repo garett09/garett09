@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Missouri governor threatens reporter who discovered state site spilling private info](https://www.theverge.com/2021/10/14/22726866/missouri-governor-department-elementary-secondary-education-ssn-vulnerability-disclosure)
- - ['The Problem with Jon Stewart' takes top spot as Apple's most viewed unscripted series](https://appleinsider.com/articles/21/10/14/the-problem-with-jon-stewart-takes-top-spot-as-apples-most-viewed-unscripted-series?utm_medium=rss)
- - [LinkedIn's Exit From China Cuts Another East-West Bridge](https://www.wired.com/story/linkedin-exit-china-cuts-east-west-bridge)<!-- TECH:END -->
+ - [Apple rehires former HomePod engineer to get its software back on track](https://www.theverge.com/2021/10/14/22727249/apple-homepod-software-chief-afrooz-family)
+ - [Save over 50% on a Sam's Club membership, now $19.99 plus free food](https://appleinsider.com/articles/21/10/14/save-over-50-on-a-sams-club-membership-now-1999-plus-free-food?utm_medium=rss)
+ - [Block Party is out of beta and ready to block anyone who likes bad tweets](https://www.theverge.com/2021/10/14/22726988/block-party-availble-now-block-lists-subscription)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
