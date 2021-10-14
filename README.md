@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Search on mobile just got its biggest change in years](https://www.androidauthority.com/google-search-mobile-scrolling-3040363/)
- - [WhatsApp starts rolling out e2e encryption for chat history backups in iCloud and Google Drive (Manish Singh/TechCrunch)](http://www.techmeme.com/211014/p35#a211014p35)
- - [Is iPhone still cool? Maybe Apple should flip the script](https://appleinsider.com/articles/21/10/14/is-iphone-still-cool-maybe-apple-should-flip-the-script?utm_medium=rss)<!-- TECH:END -->
+ - [Signal’s founder is trolling with an NFT that’ll turn to shit if you buy it](https://www.theverge.com/2021/10/14/22726556/signal-founder-moxie-marlinspike-nft-whim-change-platform-shit-emoji-fragility)
+ - [The 8 best Peacock original series you can stream now](https://www.androidauthority.com/best-peacock-original-series-3039101/)
+ - [DC FanDome: When and how to watch this four hour DC Comics fan event](https://www.androidauthority.com/dc-fandome-when-and-how-to-watch-3040195/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
