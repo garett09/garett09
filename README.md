@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Another Facebook whistleblower says she's given documents to US law enforcement     - CNET](https://www.cnet.com/news/another-facebook-whistleblower-say-shes-given-documents-to-us-law-enforcement/#ftag=CAD590a51e)
- - [The best e-reader for 2021     - CNET](https://www.cnet.com/tech/mobile/the-best-e-reader-for-2021/#ftag=CAD590a51e)
- - [Best Chromebook in 2021: 7 best Chromebooks starting under $300     - CNET](https://www.cnet.com/tech/computing/best-chromebook/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Ncase M1, a crowdfunded marvel of a PC case, has been discontinued](https://www.theverge.com/2021/10/13/22725010/ncase-m1-pc-case-sff-small-form-factor-discontinued)
+ - [Tim Cook visits LGBTQ+ resource center and developers in Utah](https://appleinsider.com/articles/21/10/14/tim-cook-visits-utah-visits-lgbtq-resource-center-and-developers?utm_medium=rss)
+ - [Adam Neumann is back, and he just got HBO Max to cave to his demands](https://www.theverge.com/2021/10/13/22725397/hbo-max-edits-cult-of-wework-adam-neumann-generation-hustle)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
