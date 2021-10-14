@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [US court filing details how fraudsters used AI to clone a company director's voice to steal $35M in early 2020 in the UAE (Thomas Brewster/Forbes)](http://www.techmeme.com/211014/p16#a211014p16)
- - [Facebook details Ego4D, an AI research project done in partnership with 13 universities to improve egocentric perception with potential to improve AI assistants (James Vincent/The Verge)](http://www.techmeme.com/211014/p15#a211014p15)
- - [Facebook is researching AI systems that see, hear, and remember everything you do](https://www.theverge.com/2021/10/14/22725894/facebook-augmented-reality-ar-glasses-ai-systems-ego4d-research)<!-- TECH:END -->
+ - [UK judge rules in favor of a woman who claimed her neighbor's Ring doorbell breached her privacy, potentially paving the way for similar lawsuits (Daily Mail)](http://www.techmeme.com/211014/p19#a211014p19)
+ - [Facebook's Fall From Grace Looks a Lot Like Ford's](https://www.wired.com/story/facebook-ford-fall-from-grace)
+ - [The Back Bay Tempo 30 Are the Best Cheap Workout Buds](https://www.wired.com/review/back-bay-tempo-30)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
