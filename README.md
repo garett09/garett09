@@ -195,8 +195,8 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Cleansing](http://9gag.com/gag/abg3VRr)
- - 🚯 [Dog practicing angry face](http://9gag.com/gag/aze7mob)
+ - 🚖 [Chonzilla](http://9gag.com/gag/adgyVAj)
+ - 🚯 [Poor kid](http://9gag.com/gag/aM4eKbA)
  - 🚯 [It&rsquo;s Us Against The World! Fight, Survive, Defend!](http://9gag.com/gag/avA27DM)<!-- MEMES:END -->
 
 --- 
