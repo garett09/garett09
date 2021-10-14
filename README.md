@@ -181,9 +181,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Minecraft once more asks fans to decide the game's next mob](https://www.pcgamer.com/minecraft-once-more-asks-fans-to-decide-the-games-next-mob)
  - [The best settings for Back 4 Blood](https://www.pcgamer.com/back-4-blood-best-settings)
- - [The PS2, GameCube, And Game Boy Advance Are All Officially Retro Now, It Seems [Updated]](https://kotaku.com/the-ps2-gamecube-and-game-boy-advance-are-all-officia-1846893913)
- - [Build an adorable micro solar system for a hungry sun in Heliopedia](https://www.pcgamer.com/build-an-adorable-micro-solar-system-for-a-hungry-sun-in-heliopedia)<!-- GAME:END -->
+ - [The PS2, GameCube And Game Boy Advance Are All Officially Retro Now, It Seems [Updated]](https://kotaku.com/the-ps2-gamecube-and-game-boy-advance-are-all-officia-1846893913)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
