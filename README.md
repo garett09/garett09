@@ -181,9 +181,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Sony Now Lets You Line Up To Buy PS5s Directly From Them](https://kotaku.com/sony-will-now-let-you-sign-up-to-buy-a-ps5-1847863426)
- - [Disgraced Raiders head coach getting kicked out of Madden, too](https://www.polygon.com/22726371/jon-gruden-racist-emails-madden-nfl-22-removed)
- - [New Content Bounces into Phantasy Star Online 2 New Genesis](https://news.xbox.com/en-us/2021/10/14/new-content-bounces-into-phantasy-star-online-2-new-genesis/)<!-- GAME:END -->
+ - [Halo: The Master Chief Collection’s latest update fixes Halo 2’s graphics](https://www.polygon.com/22724856/halo-2-master-chief-collection-visual-update-upgrade-graphics)
+ - [An inside look at Zombies and Campaign mode in Call of Duty: Vanguard](http://feedproxy.google.com/~r/PSBlog/~3/6nKttlguFVg/)
+ - [An inside look at Zombies and Campaign mode in Call of Duty: Vanguard](https://blog.playstation.com/2021/10/14/an-inside-look-at-zombies-and-campaign-mode-in-call-of-duty-vanguard/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
