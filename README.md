@@ -181,9 +181,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Minecraft once more asks fans to decide the game's next mob](https://www.pcgamer.com/minecraft-once-more-asks-fans-to-decide-the-games-next-mob)
- - [The best settings for Back 4 Blood](https://www.pcgamer.com/back-4-blood-best-settings)
- - [The PS2, GameCube And Game Boy Advance Are All Officially Retro Now, It Seems [Updated]](https://kotaku.com/the-ps2-gamecube-and-game-boy-advance-are-all-officia-1846893913)<!-- GAME:END -->
+ - [Rocket League goes all-in on Batman for Halloween](https://www.pcgamer.com/rocket-league-goes-all-in-on-batman-for-halloween)
+ - [The inspiration behind new games in The Jackbox Party Pack 8](http://feedproxy.google.com/~r/PSBlog/~3/sL_lHC9wh2k/)
+ - [The inspiration behind new games in The Jackbox Party Pack 8](https://blog.playstation.com/2021/10/14/the-inspiration-behind-new-games-in-the-jackbox-party-pack-8/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
