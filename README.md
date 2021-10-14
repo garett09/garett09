@@ -195,8 +195,8 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It would not surprise me at all...](http://9gag.com/gag/aegKAym)
- - 🚯 [Ubisoft at it again](http://9gag.com/gag/avA2AXE)
+ - 🚖 [The real sh*t](http://9gag.com/gag/arn1nQ6)
+ - 🚯 [Nightmare](http://9gag.com/gag/aQX6X7K)
  - 🚯 [It&rsquo;s Us Against The World! Fight, Survive, Defend!](http://9gag.com/gag/avA27DM)<!-- MEMES:END -->
 
 --- 
