@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple joins Blender Development Fund, macOS back as supported platform](https://appleinsider.com/articles/21/10/14/apple-joins-blender-development-fund-macos-back-as-supported-platform?utm_medium=rss)
- - [Google rolls out continuous scrolling for English-language mobile search results in the US (Sarah Perez/TechCrunch)](http://www.techmeme.com/211014/p29#a211014p29)
- - [Kevin Durant's Swagger trailer dunks on youth basketball for Apple TV Plus     - CNET](https://www.cnet.com/news/kevin-durants-swagger-trailer-dunks-on-youth-basketball-for-apple-tv-plus/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Kevin Durant's 'Swagger' gets full trailer ahead of Oct. 29 debut on Apple TV+](https://appleinsider.com/articles/21/10/14/kevin-durants-swagger-gets-full-trailer-ahead-of-oct-29-debut-on-apple-tv?utm_medium=rss)
+ - [Google will let you keep scrolling (and scrolling) search results on mobile     - CNET](https://www.cnet.com/tech/services-and-software/google-will-let-you-keep-scrolling-and-scrolling-search-results-on-mobile/#ftag=CAD590a51e)
+ - [Nanoleaf Lines review: Beautiful indirect HomeKit lighting of your own design](https://appleinsider.com/articles/21/10/14/nanoleaf-lines-review-beautiful-indirect-homekit-lighting-of-your-own-design?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
