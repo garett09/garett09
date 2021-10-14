@@ -195,8 +195,8 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Guys just want one thing and it is disgusting](http://9gag.com/gag/a21EZzO)
- - 🚯 [Tank deploying a smoke screen](http://9gag.com/gag/a81d3PQ)
+ - 🚖 [That&rsquo;s a classy sportsman right there.](http://9gag.com/gag/aAGBxmo)
+ - 🚯 [Mating call](http://9gag.com/gag/aogm520)
  - 🚯 [It&rsquo;s Us Against The World! Fight, Survive, Defend!](http://9gag.com/gag/avA27DM)<!-- MEMES:END -->
 
 --- 
