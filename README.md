@@ -195,8 +195,8 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The real sh*t](http://9gag.com/gag/arn1nQ6)
- - 🚯 [Genius driver](http://9gag.com/gag/avA2AWn)
+ - 🚖 [Genius driver](http://9gag.com/gag/avA2AWn)
+ - 🚯 [In Lebanon right now&hellip;](http://9gag.com/gag/a41pEX6)
  - 🚯 [It&rsquo;s Us Against The World! Fight, Survive, Defend!](http://9gag.com/gag/avA27DM)<!-- MEMES:END -->
 
 --- 
