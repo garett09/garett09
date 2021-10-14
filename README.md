@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How a US hacker built a secret network of "news" sites and Facebook Groups to push bogus stories after an undisclosed company hired him to sway 2016's election (Ax Sharma/Ars Technica)](http://www.techmeme.com/211014/p38#a211014p38)
- - [IndiEV reveals electric car with a built-in gaming PC but not much else](https://www.theverge.com/2021/10/14/22726631/indiev-indi-one-electric-car-founder-shi-hai-lawsuits)
- - [Deathloop’s huge new update brings DLSS, DualSense audio for PC, crash fixes, and more](https://www.theverge.com/2021/10/14/22726925/deathloop-update-dlss-dualsense-npc-hdr-colt-julianna)<!-- TECH:END -->
+ - [Missouri governor threatens reporter who discovered state site spilling private info](https://www.theverge.com/2021/10/14/22726866/missouri-governor-department-elementary-secondary-education-ssn-vulnerability-disclosure)
+ - ['The Problem with Jon Stewart' takes top spot as Apple's most viewed unscripted series](https://appleinsider.com/articles/21/10/14/the-problem-with-jon-stewart-takes-top-spot-as-apples-most-viewed-unscripted-series?utm_medium=rss)
+ - [LinkedIn's Exit From China Cuts Another East-West Bridge](https://www.wired.com/story/linkedin-exit-china-cuts-east-west-bridge)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
