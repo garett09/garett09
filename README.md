@@ -181,9 +181,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Tom Holland says No Way Home is the end of Marvel’s Spider-Man trilogy](https://www.polygon.com/22726649/spider-man-no-way-home-last-movie-trilogy-mcu)
- - [Apparently Walmart Is Now The Most Annoying Place To Buy A PS5](https://kotaku.com/apparently-walmart-is-now-the-most-annoying-place-to-bu-1847864847)
- - [Octave of the Maushiro puzzle solutions – Genshin Impact guide](https://www.polygon.com/genshin-impact-guides/22726471/octave-of-the-maushiro-puzzle-solutions-peculiar-pinion-use-gadget)<!-- GAME:END -->
+ - [Diablo 2: Resurrected’s server outages are caused by the original game’s code](https://www.polygon.com/22726682/diablo-2-resurrected-server-outages-issues-crashes-blizzard-fix)
+ - [Batman Super-Villains Take Over Haunted Hallows in Rocket League](https://news.xbox.com/en-us/2021/10/14/batman-super-villains-take-over-haunted-hallows-in-rocket-league/)
+ - [Back 4 Blood is the best-case scenario for Xbox Game Pass](https://www.polygon.com/22726636/back-4-blood-game-pass-ultimate-xbox)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
