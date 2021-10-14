@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [WWE Crown Jewel 2021: Start times, how to watch, match card     - CNET](https://www.cnet.com/news/wwe-crown-jewel-2021-start-times-how-to-watch-match-card/#ftag=CAD590a51e)
- - ['Extraordinary' unknown radio signal from heart of Milky Way puzzles astronomers     - CNET](https://www.cnet.com/news/extraordinary-unknown-radio-signal-from-heart-of-milky-way-puzzles-astronomers/#ftag=CAD590a51e)
- - [London-based point of sale provider SumUp acquires Fivestars, which provides loyalty, marketing, payments, and other services to small merchants, for $317M (Ingrid Lunden/TechCrunch)](http://www.techmeme.com/211014/p1#a211014p1)<!-- TECH:END -->
+ - [Qualcomm takes a swipe at Google over Pixel 6’s Tensor chipset](https://www.androidauthority.com/qualcomm-google-pixel-tensor-chipset-tweet-3038521/)
+ - [Ohi, which offers e-commerce product delivery in under 20 minutes in NYC, Chicago, San Francisco, and LA, raises a $19M Series A led by Palm Drive Capital (Sharon Edelson/Forbes)](http://www.techmeme.com/211014/p2#a211014p2)
+ - [WWE Crown Jewel 2021: Start times, how to watch, match card     - CNET](https://www.cnet.com/news/wwe-crown-jewel-2021-start-times-how-to-watch-match-card/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
