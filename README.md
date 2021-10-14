@@ -188,9 +188,9 @@ Windows                  8 hrs 4 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Deals Oct. 14: Refurbished iMac, up to 70% off Monoprice and JBL products, and more!](https://appleinsider.com/articles/21/10/14/best-deals-oct-14-refurbished-imac-up-to-70-off-monoprice-and-jbl-products-and-more?utm_medium=rss)
- - [How to watch Apple's 'Unleashed' new MacBook Pro event](https://appleinsider.com/articles/21/10/14/how-to-watch-apples-unleashed-new-macbook-pro-event?utm_medium=rss)
- - [New MacBook Pros are coming Oct. 18 and the design remains a mystery](https://appleinsider.com/articles/21/10/14/new-macbook-pros-are-coming-oct-18-and-the-design-remains-a-mystery?utm_medium=rss)<!-- TECH:END -->
+ - [Apple joins Blender Development Fund, macOS back as supported platform](https://appleinsider.com/articles/21/10/14/apple-joins-blender-development-fund-macos-back-as-supported-platform?utm_medium=rss)
+ - [Google rolls out continuous scrolling for English-language mobile search results in the US (Sarah Perez/TechCrunch)](http://www.techmeme.com/211014/p29#a211014p29)
+ - [Kevin Durant's Swagger trailer dunks on youth basketball for Apple TV Plus     - CNET](https://www.cnet.com/news/kevin-durants-swagger-trailer-dunks-on-youth-basketball-for-apple-tv-plus/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
