@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Valve says no blockchain games or NFTs on Steam](https://www.theverge.com/2021/10/15/22728425/valve-steam-blockchain-nft-crypto-ban-games-age-of-rust)
- - [Save 31% on Mario Kart Live Home Circuit, and more Nintendo Switch deals](https://www.androidauthority.com/best-nintendo-switch-deals-1146985/)
- - [Netflix UK reports revenue of &pound;172M in 2020, up 43% YoY, and pre-tax profits of &pound;19.4M, up 50% YoY, and ~2M new subscribers, for an estimated total of 13M (Mark Sweney/The Guardian)](http://www.techmeme.com/211015/p16#a211015p16)<!-- TECH:END -->
+ - [How to watch Apple’s October 2021 event and what to expect](https://www.androidauthority.com/apple-event-october-2021-3040670/)
+ - [Netflix fires a leader of the trans employee resource group who was organizing a walkout, for allegedly leaking metrics related to the Dave Chappelle special (Zoe Schiffer/The Verge)](http://www.techmeme.com/211015/p19#a211015p19)
+ - [FDA Backs Boosters, Travel Restrictions Lift, and More News](https://www.wired.com/story/fda-boosters-travel-restrictions-lift-coronavirus-news)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
