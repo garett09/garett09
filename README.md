@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Russian army bread vs brick](http://9gag.com/gag/a51pBzg)
- - 🚯 [Them girls... always trying to trick guys into doing stuff](http://9gag.com/gag/aDDR8rx)
+ - 🚖 [This one sparks joy](http://9gag.com/gag/aegKZgO)
+ - 🚯 [Even as a German i get it wrong, so don&rsquo;t worry.](http://9gag.com/gag/ange2DV)
  - 🚯 [It&rsquo;s Us Against The World](http://9gag.com/gag/a11pe38)<!-- MEMES:END -->
 
 --- 
