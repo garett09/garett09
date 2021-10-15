@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Annoyed with New World's lack of minimap, two players built their own](https://www.pcgamer.com/annoyed-with-new-worlds-lack-of-minimap-two-players-built-their-own)
- - [Nintendo Apologizes For Metroid Dread Bug And Promises An Update](https://kotaku.com/nintendo-apologizes-for-metroid-dread-bug-and-promises-1847869900)
- - [This is the chillest golf game you'll play all year](https://www.pcgamer.com/a-little-golf-journey)<!-- GAME:END -->
+ - [The story behind Jett: The Far Shore’s interstellar soundtrack](http://feedproxy.google.com/~r/PSBlog/~3/4iO6LQVUf-w/)
+ - [The story behind Jett: The Far Shore’s interstellar soundtrack](https://blog.playstation.com/2021/10/15/the-story-behind-jett-the-far-shores-interstellar-soundtrack/)
+ - [Next Week on Xbox: October 18 to 22](https://news.xbox.com/en-us/2021/10/15/next-week-on-xbox-october-18-to-22/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
