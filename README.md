@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Far Cry 6's Treasure Hunts Are The Best Part Of The Game](https://kotaku.com/far-cry-6s-treasure-hunts-are-the-best-part-of-the-game-1847874435)
- - [Nickelodeon All-Star Brawl’s First Big-Money Tournament Bans Ninja Turtle Michelangelo](https://kotaku.com/nickelodeon-all-star-brawl-s-first-big-money-tournament-1847874519)
- - [Good Riddance: Steam Bans Games That Feature Crypto And NFTs](https://kotaku.com/good-riddance-steam-bans-games-that-feature-crypto-and-1847874385)<!-- GAME:END -->
+ - [Steam bans all games with NFTs or cryptocurrency](https://www.pcgamer.com/steam-bans-nfts-cryptocurrencies-blockchain)
+ - [The New iPad Mini Reclaims The Title Of Best Gaming Tablet](https://kotaku.com/the-new-ipad-mini-reclaims-the-title-of-best-gaming-tab-1847874854)
+ - [Republican Political Consultant Under Fire For Trolling About Burning Kid's Pokémon Cards](https://kotaku.com/republican-political-consultant-under-fire-for-trolling-1847874410)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
