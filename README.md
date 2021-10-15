@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Free RPG Day is this weekend, here are 5 games you should check out](https://www.polygon.com/22726996/free-rpg-day-best-games)
- - [Share of the Week: Moonlight](http://feedproxy.google.com/~r/PSBlog/~3/eY4YXfc5iDc/)
- - [Game Pass Has PC Games – PC Builder Series: Back 4 Blood](https://news.xbox.com/en-us/2021/10/15/game-pass-pc-builder-series-back-4-blood/)<!-- GAME:END -->
+ - [Back 4 Blood review](https://www.pcgamer.com/back-4-blood-review)
+ - [Deathloop's first major update fixes framerate stuttering, adds DLSS](https://www.pcgamer.com/deathloop-update-patch-notes)
+ - [Twitch says passwords were not exposed in last week's massive security breach](https://www.pcgamer.com/twitch-says-passwords-were-not-exposed-in-last-weeks-massive-security-breach)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
