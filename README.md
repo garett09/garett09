@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [ZmBIZI’s $550 Z2 phone pays you for your data usage](https://www.theverge.com/2021/10/15/22725407/zmbizis-z2-phone-data-pay-back-fintech-privacy)
- - [Samsung teaser video suggests fully customizable foldables on the way](https://www.androidauthority.com/samsung-custom-foldables-3040967/)
- - [Mobile app helps people manage their blood pressure](https://www.theverge.com/2021/10/15/22727938/digital-blood-pressure-management-program-study)<!-- TECH:END -->
+ - [Apple fires leader of #AppleToo movement](https://appleinsider.com/articles/21/10/15/apple-fires-leader-of-appletoo-movement?utm_medium=rss)
+ - [Sources: Apple fires Janneke Parrish, one of the leaders of the #AppleToo movement, for deleting files off her work devices during an internal investigation (Zoe Schiffer/The Verge)](http://www.techmeme.com/211015/p13#a211015p13)
+ - [You told us: The alert slider vs customizable key debate has a surprise winner](https://www.androidauthority.com/alert-slider-side-button-poll-results-3040722/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
