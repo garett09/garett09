@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Threat Analysis Group says it tracks 270+ state-backed threat actors, and sent 50K+ alerts for email phishing attacks to Gmail users in 2021, up ~33% YoY (Catalin Cimpanu/The Record)](http://www.techmeme.com/211014/p41#a211014p41)
- - [Facebook execs tease VR prototype hardware with new photos](https://www.theverge.com/2021/10/13/22724876/facebook-zuckerberg-vr-prototype-photos-research-redmond-metaverse)
- - [Apple rehires former HomePod engineer to get its software back on track](https://www.theverge.com/2021/10/14/22727249/apple-homepod-software-chief-afrooz-family)<!-- TECH:END -->
+ - [Toronto-based Rose Rocket, which is building a cloud-based transportation management software, raises a $25M Series A led by Addition Capital and Shine Capital (Grace Sharkey/FreightWaves)](http://www.techmeme.com/211014/p42#a211014p42)
+ - [Clubhouse has a new Music Mode that could make it the place to play](https://www.theverge.com/2021/10/14/22727164/clubhouse-music-mode-compete-amazon-twitter)
+ - [Google Threat Analysis Group says it tracks 270+ state-backed threat actors, and sent 50K+ alerts for email phishing attacks to Gmail users in 2021, up ~33% YoY (Catalin Cimpanu/The Record)](http://www.techmeme.com/211014/p41#a211014p41)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
