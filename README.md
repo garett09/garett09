@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Even as a German i get it wrong, so don&rsquo;t worry.](http://9gag.com/gag/ange2DV)
- - 🚯 [Seing the bills in other countries, I wanted to share my experience](http://9gag.com/gag/angenOz)
+ - 🚖 [Thanks Robert Pritzker](http://9gag.com/gag/a0Zv6dZ)
+ - 🚯 [How many ramen packs is that?](http://9gag.com/gag/aZrq860)
  - 🚯 [It&rsquo;s Us Against The World](http://9gag.com/gag/a11pe38)<!-- MEMES:END -->
 
 --- 
