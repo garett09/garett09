@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple fires leader of #AppleToo movement](https://appleinsider.com/articles/21/10/15/apple-fires-leader-of-appletoo-movement?utm_medium=rss)
- - [Sources: Apple fires Janneke Parrish, one of the leaders of the #AppleToo movement, for deleting files off her work devices during an internal investigation (Zoe Schiffer/The Verge)](http://www.techmeme.com/211015/p13#a211015p13)
- - [You told us: The alert slider vs customizable key debate has a surprise winner](https://www.androidauthority.com/alert-slider-side-button-poll-results-3040722/)<!-- TECH:END -->
+ - [Google Nest Cam (indoor, wired) review: Right features, wrong price](https://www.androidauthority.com/google-nest-cam-indoor-wired-review-3037359/)
+ - [China launches latest crew of three en route to nation’s Tianhe space station](https://www.theverge.com/2021/10/15/22722565/china-shenzhou-13-crewed-launch-tianhe-space-station)
+ - [Woolnut Leather Tech Organizer review: A premium pouch for your go-to gear](https://appleinsider.com/articles/21/10/15/woolnut-leather-tech-organizer-review-a-premium-pouch-for-your-go-to-gear?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
