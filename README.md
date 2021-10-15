@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [We live in a society](http://9gag.com/gag/ay9Eq78)
- - 🚯 [Are you sure?](http://9gag.com/gag/a21EvXO)
+ - 🚖 [Final countdown](http://9gag.com/gag/aAGB6Rp)
+ - 🚯 [Eventually we all learn to be at peace with our fate.](http://9gag.com/gag/a91j6qL)
  - 🚯 [It&rsquo;s Us Against The World! Fight, Survive, Defend!](http://9gag.com/gag/avA27DM)<!-- MEMES:END -->
 
 --- 
