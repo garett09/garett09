@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Steam bans all games with NFTs or cryptocurrency](https://www.pcgamer.com/steam-bans-nfts-cryptocurrencies-blockchain)
- - [The New iPad Mini Reclaims The Title Of Best Gaming Tablet](https://kotaku.com/the-new-ipad-mini-reclaims-the-title-of-best-gaming-tab-1847874854)
- - [Republican Political Consultant Under Fire For Trolling About Burning Kid's Pokémon Cards](https://kotaku.com/republican-political-consultant-under-fire-for-trolling-1847874410)<!-- GAME:END -->
+ - [Bless Unleashed: New Bless Pass “Changing World” is Now Live](https://news.xbox.com/en-us/2021/10/15/bless-unleashed-new-bless-pass-season-is-now-available/)
+ - [Windows 11 Insider patch fixes major AMD Ryzen bug](https://www.pcgamer.com/windows-11-insider-patch-fixes-major-amd-ryzen-bug)
+ - [Cheat makers already have Call of Duty's new anti-cheat driver, but Activision isn't bothered](https://www.pcgamer.com/cheat-makers-already-have-call-of-dutys-new-anti-cheat-driver-but-activision-isnt-bothered)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
