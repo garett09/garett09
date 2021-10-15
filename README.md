@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Unexpected wholesome](http://9gag.com/gag/ange7wn)
- - 🚯 [Caught on 480p&hellip;](http://9gag.com/gag/angeObV)
+ - 🚖 [When you hear kurwa, run away](http://9gag.com/gag/aegK99O)
+ - 🚯 [Unexpected wholesome](http://9gag.com/gag/ange7wn)
  - 🚯 [It&rsquo;s Us Against The World! Fight, Survive, Defend!](http://9gag.com/gag/avA27DM)<!-- MEMES:END -->
 
 --- 
