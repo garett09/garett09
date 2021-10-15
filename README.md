@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When I lived in the UK everything was like that](http://9gag.com/gag/a21EMzw)
- - 🚯 [Calm down Darwin](http://9gag.com/gag/a91jz4m)
+ - 🚖 [We live in a society](http://9gag.com/gag/ay9Eq78)
+ - 🚯 [Are you sure?](http://9gag.com/gag/a21EvXO)
  - 🚯 [It&rsquo;s Us Against The World! Fight, Survive, Defend!](http://9gag.com/gag/avA27DM)<!-- MEMES:END -->
 
 --- 
