@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Toronto-based Rose Rocket, which is building a cloud-based transportation management software, raises a $25M Series A led by Addition Capital and Shine Capital (Grace Sharkey/FreightWaves)](http://www.techmeme.com/211014/p42#a211014p42)
- - [Clubhouse has a new Music Mode that could make it the place to play](https://www.theverge.com/2021/10/14/22727164/clubhouse-music-mode-compete-amazon-twitter)
- - [Google Threat Analysis Group says it tracks 270+ state-backed threat actors, and sent 50K+ alerts for email phishing attacks to Gmail users in 2021, up ~33% YoY (Catalin Cimpanu/The Record)](http://www.techmeme.com/211014/p41#a211014p41)<!-- TECH:END -->
+ - [Reliable Robotics, which aims to replace pilots with robots on commercial cargo planes, raises a $100M Series C led by Coatue Management (Haje Jan Kamps/TechCrunch)](http://www.techmeme.com/211014/p43#a211014p43)
+ - [Toronto-based Rose Rocket, which makes cloud-based transportation management software, raises a $25M Series A led by Addition Capital and Shine Capital (Grace Sharkey/FreightWaves)](http://www.techmeme.com/211014/p42#a211014p42)
+ - [Clubhouse has a new Music Mode that could make it the place to play](https://www.theverge.com/2021/10/14/22727164/clubhouse-music-mode-compete-amazon-twitter)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
