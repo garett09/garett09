@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lenovo's nifty Google-powered Smart Clock is now just $35     - CNET](https://www.cnet.com/home/smart-home/lenovos-nifty-google-powered-smart-clock-is-now-just-35/#ftag=CAD590a51e)
- - [It's time for Apple to show us what its next M1 Macs can do     - CNET](https://www.cnet.com/tech/computing/its-time-for-apple-to-show-us-what-its-next-m1-macs-can-do/#ftag=CAD590a51e)
- - [Sources: Apple has hired Afrooz Family, its former employee and a co-founder of speaker startup Syng, to lead HomePod software efforts (Mark Gurman/Bloomberg)](http://www.techmeme.com/211015/p7#a211015p7)<!-- TECH:END -->
+ - [Vergecast: HTC’s new VR headset, and what to expect at next week’s tech events](https://www.theverge.com/2021/10/15/22727889/vergecast-podcast-471-htc-vive-flow-apple-google-samsung-event-preview)
+ - [Roku Streaming Stick 4K review: The little streaming stick that could](https://www.androidauthority.com/roku-streaming-stick-4k-review-3038826/)
+ - [Mortgage refinance rates for Oct. 15, 2021: Rates rise     - CNET](https://www.cnet.com/news/mortgage-refinance-rates-for-oct-15-2021-rates-rise/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
