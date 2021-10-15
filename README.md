@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Annoyed with New World's lack of minimap, two players built their own](https://www.pcgamer.com/annoyed-with-new-worlds-lack-of-minimap-two-players-built-their-own)
  - [Nintendo Apologizes For Metroid Dread Bug And Promises An Update](https://kotaku.com/nintendo-apologizes-for-metroid-dread-bug-and-promises-1847869900)
- - [This is the chillest golf game you'll play all year](https://www.pcgamer.com/a-little-golf-journey)
- - [The best Australian PC gaming deals this week](https://www.pcgamer.com/best-australian-pc-gaming-deals)<!-- GAME:END -->
+ - [This is the chillest golf game you'll play all year](https://www.pcgamer.com/a-little-golf-journey)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
