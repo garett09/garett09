@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Kapp’n and friends are heading to Animal Crossing: New Horizons](https://www.polygon.com/22726919/animal-crossing-new-horizons-nintendo-direct-new-characters)
- - [Brewster’s officially back in Animal Crossing: New Horizons on Nov. 5](https://www.polygon.com/22724800/nintendo-switch-brewster-return-animal-crossing-new-horizons-the-roost-november)
- - [Animal Crossing Direct Serves Up A Steaming Cup Of Brewster](https://kotaku.com/animal-crossing-direct-serves-up-a-steaming-cup-of-brew-1847822593)<!-- GAME:END -->
+ - [Fixing The Diablo II: Resurrected Servers Sounds Like An Absolute Nightmare](https://kotaku.com/fixing-the-diablo-ii-resurrected-servers-sounds-like-a-1847871074)
+ - [Animal Crossing: New Horizons is now Wii Fit](https://www.polygon.com/22728149/animal-crossing-new-horizons-stretching-wii-fit)
+ - [18 months later, Animal Crossing: New Horizons finally gets its Froggy Chair](https://www.polygon.com/22728101/animal-crossing-new-horizons-froggy-chair-update-dlc)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
