@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Halloween Countdown: 31 days of horror](https://www.polygon.com/22702474/best-halloween-movies-tv-to-watch-stream)
- - [The Moment That Sold Me On Back 4 Blood, The New Shooter By L4D Devs](https://kotaku.com/the-moment-that-sold-me-on-back-4-blood-the-new-shoote-1847874001)
- - [Official PlayStation Podcast Episode 413: Blink And You’ll Miss It](http://feedproxy.google.com/~r/PSBlog/~3/uZXYN8mxIUE/)<!-- GAME:END -->
+ - [Far Cry 6's Treasure Hunts Are The Best Part Of The Game](https://kotaku.com/far-cry-6s-treasure-hunts-are-the-best-part-of-the-game-1847874435)
+ - [Nickelodeon All-Star Brawl’s First Big-Money Tournament Bans Ninja Turtle Michelangelo](https://kotaku.com/nickelodeon-all-star-brawl-s-first-big-money-tournament-1847874519)
+ - [Good Riddance: Steam Bans Games That Feature Crypto And NFTs](https://kotaku.com/good-riddance-steam-bans-games-that-feature-crypto-and-1847874385)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
