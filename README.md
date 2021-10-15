@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Eventually we all learn to be at peace with our fate.](http://9gag.com/gag/a91j6qL)
- - 🚯 [Seing the bills in other countries, I wanted to share my experience](http://9gag.com/gag/angenOz)
+ - 🚖 [Back to Slav](http://9gag.com/gag/aVxjEyy)
+ - 🚯 [Cool Halloween costume](http://9gag.com/gag/aBn9LgN)
  - 🚯 [It&rsquo;s Us Against The World! Fight, Survive, Defend!](http://9gag.com/gag/avA27DM)<!-- MEMES:END -->
 
 --- 
