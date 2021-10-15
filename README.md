@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Nest Cam (indoor, wired) review: Right features, wrong price](https://www.androidauthority.com/google-nest-cam-indoor-wired-review-3037359/)
- - [China launches latest crew of three en route to nation’s Tianhe space station](https://www.theverge.com/2021/10/15/22722565/china-shenzhou-13-crewed-launch-tianhe-space-station)
- - [Woolnut Leather Tech Organizer review: A premium pouch for your go-to gear](https://appleinsider.com/articles/21/10/15/woolnut-leather-tech-organizer-review-a-premium-pouch-for-your-go-to-gear?utm_medium=rss)<!-- TECH:END -->
+ - [Valve says no blockchain games or NFTs on Steam](https://www.theverge.com/2021/10/15/22728425/valve-steam-blockchain-nft-crypto-ban-games-age-of-rust)
+ - [Save 31% on Mario Kart Live Home Circuit, and more Nintendo Switch deals](https://www.androidauthority.com/best-nintendo-switch-deals-1146985/)
+ - [Netflix UK reports revenue of &pound;172M in 2020, up 43% YoY, and pre-tax profits of &pound;19.4M, up 50% YoY, and ~2M new subscribers, for an estimated total of 13M (Mark Sweney/The Guardian)](http://www.techmeme.com/211015/p16#a211015p16)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
