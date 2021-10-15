@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - ['AirPods 3' still a wild card at Apple's MacBook Pro October 18 event](https://appleinsider.com/articles/21/10/15/airpods-3-still-a-wild-card-at-apples-macbook-pro-focused-october-18-event?utm_medium=rss)
- - [Apple fires leader of #AppleToo movement](https://appleinsider.com/articles/21/10/15/apple-fires-leader-of-appletoo-movement?utm_medium=rss)
- - [MagSafe Duo Charger doesn't support Apple Watch Series 7 fast charging](https://appleinsider.com/articles/21/10/15/magsafe-duo-charger-doesnt-support-apple-watch-series-7-fast-charging?utm_medium=rss)<!-- TECH:END -->
+ - [A year later, Apple’s MagSafe continues to underwhelm](https://www.theverge.com/2021/10/15/22728967/apple-magsafe-duo-wallet-cases-charging)
+ - [US Treasury says ransomware payouts in 2021 could top entire past decade](https://www.theverge.com/2021/10/15/22728765/us-treasury-ransomware-payout-numbers-reports-2021-first-half-cybercrime)
+ - [Moscow introduces Face Pay in its metro system, which Russia says is the world's first mass-scale facial recognition payment system, across 240 stations (Pjotr Sauer/The Guardian)](http://www.techmeme.com/211015/p24#a211015p24)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
