@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Samsung Galaxy S21 FE has yet another rumored launch date](https://www.androidauthority.com/galaxy-s21-fe-january-2022-3040669/)
- - [Nintendo’s Metroid Dread has a bug: here’s how to avoid it](https://www.theverge.com/2021/10/15/22727796/metroid-dread-bug-nintendo-patch-progression-door-marker-door-destroy)
- - [WhatsApp rolls out support for encrypted message backups (Updated)](https://www.androidauthority.com/whatsapp-encrypted-backups-3019704/)<!-- TECH:END -->
+ - [How to watch Apple Unleashed live: The October Mac event happens Monday     - CNET](https://www.cnet.com/tech/computing/how-to-watch-apple-unleashed-live-the-october-mac-event-happens-monday/#ftag=CAD590a51e)
+ - [Best fire pit to buy in 2021     - CNET](https://www.cnet.com/home/yard-and-outdoors/best-fire-pit/#ftag=CAD590a51e)
+ - [Best smart thermostat to buy in 2021     - CNET](https://www.cnet.com/home/energy-and-utilities/best-smart-thermostat/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
