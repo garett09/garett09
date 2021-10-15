@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Back to Slav](http://9gag.com/gag/aVxjEyy)
- - 🚯 [Cool Halloween costume](http://9gag.com/gag/aBn9LgN)
+ - 🚖 [I asked my friend what it&rsquo;s like living in China He said, &quot;I can&#039;t complain&quot;](http://9gag.com/gag/avA2e2W)
+ - 🚯 [War. War never changes.](http://9gag.com/gag/aBn9LpD)
  - 🚯 [It&rsquo;s Us Against The World! Fight, Survive, Defend!](http://9gag.com/gag/avA27DM)<!-- MEMES:END -->
 
 --- 
