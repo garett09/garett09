@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I asked my friend what it&rsquo;s like living in China He said, &quot;I can&#039;t complain&quot;](http://9gag.com/gag/avA2e2W)
- - 🚯 [War. War never changes.](http://9gag.com/gag/aBn9LpD)
- - 🚯 [It&rsquo;s Us Against The World! Fight, Survive, Defend!](http://9gag.com/gag/avA27DM)<!-- MEMES:END -->
+ - 🚖 [Even as a German i get it wrong, so don&rsquo;t worry.](http://9gag.com/gag/ange2DV)
+ - 🚯 [Seing the bills in other countries, I wanted to share my experience](http://9gag.com/gag/angenOz)
+ - 🚯 [It&rsquo;s Us Against The World](http://9gag.com/gag/a11pe38)<!-- MEMES:END -->
 
 --- 
 
