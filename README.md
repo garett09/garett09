@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon launches 7 must-have Apple bargains ahead of Black Friday](https://appleinsider.com/articles/21/10/11/amazon-launches-7-must-have-apple-bargains-ahead-of-black-friday?utm_medium=rss)
- - [Guilty Party review: Paramount Plus goes true crime-ish](https://www.androidauthority.com/guilty-party-review-paramount-plus-3037574/)
- - [OnePlus Co-Founder Might Release A New Android Phone In 2022](https://techncruncher.blogspot.com/2021/10/oneplus-co-founder-might-release-new.html)<!-- TECH:END -->
+ - ['AirPods 3' still a wild card at Apple's MacBook Pro October 18 event](https://appleinsider.com/articles/21/10/15/airpods-3-still-a-wild-card-at-apples-macbook-pro-focused-october-18-event?utm_medium=rss)
+ - [Apple fires leader of #AppleToo movement](https://appleinsider.com/articles/21/10/15/apple-fires-leader-of-appletoo-movement?utm_medium=rss)
+ - [MagSafe Duo Charger doesn't support Apple Watch Series 7 fast charging](https://appleinsider.com/articles/21/10/15/magsafe-duo-charger-doesnt-support-apple-watch-series-7-fast-charging?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
