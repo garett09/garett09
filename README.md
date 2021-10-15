@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Malaria Vaccine Is a Big Deal, but Not a Silver Bullet](https://www.wired.com/story/the-malaria-vaccine-is-a-big-deal-but-not-a-silver-bullet)
- - [The New Polaroid Now+ Has Groovy Clip-On Filters](https://www.wired.com/review/polaroid-now-plus)
- - [How Facebook Hides How Terrible It Is With Hate Speech](https://www.wired.com/story/facebooks-deceptive-math-when-it-comes-to-hate-speech)<!-- TECH:END -->
+ - [Lenovo's nifty Google-powered Smart Clock is now just $35     - CNET](https://www.cnet.com/home/smart-home/lenovos-nifty-google-powered-smart-clock-is-now-just-35/#ftag=CAD590a51e)
+ - [It's time for Apple to show us what its next M1 Macs can do     - CNET](https://www.cnet.com/tech/computing/its-time-for-apple-to-show-us-what-its-next-m1-macs-can-do/#ftag=CAD590a51e)
+ - [Sources: Apple has hired Afrooz Family, its former employee and a co-founder of speaker startup Syng, to lead HomePod software efforts (Mark Gurman/Bloomberg)](http://www.techmeme.com/211015/p7#a211015p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
