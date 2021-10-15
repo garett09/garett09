@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Thanks Robert Pritzker](http://9gag.com/gag/a0Zv6dZ)
- - 🚯 [How many ramen packs is that?](http://9gag.com/gag/aZrq860)
+ - 🚖 [War. War never changes.](http://9gag.com/gag/aBn9LpD)
+ - 🚯 [Them girls... always trying to trick guys into doing stuff](http://9gag.com/gag/aDDR8rx)
  - 🚯 [It&rsquo;s Us Against The World](http://9gag.com/gag/a11pe38)<!-- MEMES:END -->
 
 --- 
