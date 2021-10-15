@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [An Inside Look at Campaign and Zombies in Call of Duty: Vanguard](https://news.xbox.com/en-us/2021/10/15/an-inside-look-at-campaign-and-zombies-in-call-of-duty-vanguard/)
- - [Black Friday gaming monitor deals 2021: the best and brightest screens at great prices](https://www.pcgamer.com/black-friday-gaming-monitor-deals-2021)
- - [Genshin Impact’s New Inazuma Update Brings The Difficulty Spike](https://kotaku.com/genshin-impact-s-new-inazuma-update-brings-the-difficul-1847873282)<!-- GAME:END -->
+ - [The Halloween Countdown: 31 days of horror](https://www.polygon.com/22702474/best-halloween-movies-tv-to-watch-stream)
+ - [The Moment That Sold Me On Back 4 Blood, The New Shooter By L4D Devs](https://kotaku.com/the-moment-that-sold-me-on-back-4-blood-the-new-shoote-1847874001)
+ - [Official PlayStation Podcast Episode 413: Blink And You’ll Miss It](http://feedproxy.google.com/~r/PSBlog/~3/uZXYN8mxIUE/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
