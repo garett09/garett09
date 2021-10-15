@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Fixing The Diablo II: Resurrected Servers Sounds Like An Absolute Nightmare](https://kotaku.com/fixing-the-diablo-ii-resurrected-servers-sounds-like-a-1847871074)
- - [Animal Crossing: New Horizons is now Wii Fit](https://www.polygon.com/22728149/animal-crossing-new-horizons-stretching-wii-fit)
- - [18 months later, Animal Crossing: New Horizons finally gets its Froggy Chair](https://www.polygon.com/22728101/animal-crossing-new-horizons-froggy-chair-update-dlc)<!-- GAME:END -->
+ - [Free RPG Day is this weekend, here are 5 games you should check out](https://www.polygon.com/22726996/free-rpg-day-best-games)
+ - [Share of the Week: Moonlight](http://feedproxy.google.com/~r/PSBlog/~3/eY4YXfc5iDc/)
+ - [Game Pass Has PC Games – PC Builder Series: Back 4 Blood](https://news.xbox.com/en-us/2021/10/15/game-pass-pc-builder-series-back-4-blood/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
