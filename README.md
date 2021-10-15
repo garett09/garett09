@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [WhatsApp rolls out support for encrypted message backups (Updated)](https://www.androidauthority.com/whatsapp-encrypted-backups-3019704/)
- - [Banking industry body UK Finance says Britain has become a global epicenter for scams, with &pound;754M stolen in H1 2021, up 30% YoY (Reuters)](http://www.techmeme.com/211015/p4#a211015p4)
- - [Sony will offer a rival smartphone brand’s services on the Xperia 1 III](https://www.androidauthority.com/sony-xperia-meizu-china-3040648/)<!-- TECH:END -->
+ - [The Samsung Galaxy S21 FE has yet another rumored launch date](https://www.androidauthority.com/galaxy-s21-fe-january-2022-3040669/)
+ - [Nintendo’s Metroid Dread has a bug: here’s how to avoid it](https://www.theverge.com/2021/10/15/22727796/metroid-dread-bug-nintendo-patch-progression-door-marker-door-destroy)
+ - [WhatsApp rolls out support for encrypted message backups (Updated)](https://www.androidauthority.com/whatsapp-encrypted-backups-3019704/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
