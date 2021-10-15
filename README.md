@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ashley Gj&oslash;vik, who raised concerns about vaporous toxic chemicals under Apple's Sunnyvale office, says the company used leaking as an absurd excuse to fire her (Dell Cameron/Gizmodo)](http://www.techmeme.com/211015/p3#a211015p3)
- - [Security researchers say plans by Apple and EU to monitor phones for illicit material are ineffective and could embolden government surveillance (Kellen Browning/New York Times)](http://www.techmeme.com/211015/p2#a211015p2)
- - [Sources: the SEC is poised to let the first Bitcoin futures ETFs, from Proshares and Invesco, trade in the US as early as next week (Bloomberg)](http://www.techmeme.com/211015/p1#a211015p1)<!-- TECH:END -->
+ - [WhatsApp rolls out support for encrypted message backups (Updated)](https://www.androidauthority.com/whatsapp-encrypted-backups-3019704/)
+ - [Banking industry body UK Finance says Britain has become a global epicenter for scams, with &pound;754M stolen in H1 2021, up 30% YoY (Reuters)](http://www.techmeme.com/211015/p4#a211015p4)
+ - [Sony will offer a rival smartphone brand’s services on the Xperia 1 III](https://www.androidauthority.com/sony-xperia-meizu-china-3040648/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
