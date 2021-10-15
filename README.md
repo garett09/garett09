@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Always!](http://9gag.com/gag/aegKQOm)
- - 🚯 [Overhead storage](http://9gag.com/gag/aE8d0dK)
+ - 🚖 [We live in a society](http://9gag.com/gag/ay9Eq78)
+ - 🚯 [\u2c6f\u028en\u029e\u0250S \u0250n\u2144 s\u1d09 \u01dd\u0254n\u0250s \u01dd\u0265\ua4d5](http://9gag.com/gag/aBn9dGQ)
  - 🚯 [It&rsquo;s Us Against The World! Fight, Survive, Defend!](http://9gag.com/gag/avA27DM)<!-- MEMES:END -->
 
 --- 
