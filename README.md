@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Reliable Robotics, which aims to replace pilots with robots on commercial cargo planes, raises a $100M Series C led by Coatue Management (Haje Jan Kamps/TechCrunch)](http://www.techmeme.com/211014/p43#a211014p43)
- - [Toronto-based Rose Rocket, which makes cloud-based transportation management software, raises a $25M Series A led by Addition Capital and Shine Capital (Grace Sharkey/FreightWaves)](http://www.techmeme.com/211014/p42#a211014p42)
- - [Clubhouse has a new Music Mode that could make it the place to play](https://www.theverge.com/2021/10/14/22727164/clubhouse-music-mode-compete-amazon-twitter)<!-- TECH:END -->
+ - [Alienware's redesigned Aurora gaming PC celebrates 25 years of play     - CNET](https://www.cnet.com/tech/gaming/alienwares-redesigned-aurora-gaming-pc-celebrates-25-years-of-play/#ftag=CAD590a51e)
+ - [Fast charging the Apple Watch Series 7 requires 5W USB-C PD adapter or better](https://appleinsider.com/articles/21/10/15/fast-charging-the-apple-watch-series-7-requires-5w-usb-c-pd-adapter-or-better?utm_medium=rss)
+ - [Reliable Robotics, which aims to replace pilots with robots on commercial cargo planes, raises a $100M Series C led by Coatue Management (Haje Jan Kamps/TechCrunch)](http://www.techmeme.com/211014/p43#a211014p43)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
