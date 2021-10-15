@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This one sparks joy](http://9gag.com/gag/aegKZgO)
- - 🚯 [Even as a German i get it wrong, so don&rsquo;t worry.](http://9gag.com/gag/ange2DV)
+ - 🚖 [Will there be cheap cola, too? And sour apple rings?](http://9gag.com/gag/avA26Ln)
+ - 🚯 [Love is Love.](http://9gag.com/gag/axBEO9W)
  - 🚯 [It&rsquo;s Us Against The World](http://9gag.com/gag/a11pe38)<!-- MEMES:END -->
 
 --- 
