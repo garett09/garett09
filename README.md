@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple rehires former HomePod engineer to get its software back on track](https://www.theverge.com/2021/10/14/22727249/apple-homepod-software-chief-afrooz-family)
- - [Save over 50% on a Sam's Club membership, now $19.99 plus free food](https://appleinsider.com/articles/21/10/14/save-over-50-on-a-sams-club-membership-now-1999-plus-free-food?utm_medium=rss)
- - [Block Party is out of beta and ready to block anyone who likes bad tweets](https://www.theverge.com/2021/10/14/22726988/block-party-availble-now-block-lists-subscription)<!-- TECH:END -->
+ - [Google Threat Analysis Group says it tracks 270+ state-backed threat actors, and sent 50K+ alerts for email phishing attacks to Gmail users in 2021, up ~33% YoY (Catalin Cimpanu/The Record)](http://www.techmeme.com/211014/p41#a211014p41)
+ - [Facebook execs tease VR prototype hardware with new photos](https://www.theverge.com/2021/10/13/22724876/facebook-zuckerberg-vr-prototype-photos-research-redmond-metaverse)
+ - [Apple rehires former HomePod engineer to get its software back on track](https://www.theverge.com/2021/10/14/22727249/apple-homepod-software-chief-afrooz-family)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
