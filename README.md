@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The best Australian PC gaming deals this week](https://www.pcgamer.com/best-australian-pc-gaming-deals)
  - [Battlefield 2042's Last Mode Seems Like Exactly What The Beta Was Missing](https://kotaku.com/battlefield-2042s-last-mode-seems-like-exactly-what-the-1847867910)
- - [Dell's got RTX 30-series gaming laptops cheaper than productivity notebooks right now](https://www.pcgamer.com/dells-got-rtx-30-series-gaming-laptops-cheaper-than-productivity-notebooks-right-now)
- - [GTA Trilogy Remaster's Achievements Seem To Have Leaked, And They're Great](https://kotaku.com/gta-trilogy-remasters-achievements-seem-to-have-leaked-1847867911)<!-- GAME:END -->
+ - [Dell's got RTX 30-series gaming laptops cheaper than productivity notebooks right now](https://www.pcgamer.com/dells-got-rtx-30-series-gaming-laptops-cheaper-than-productivity-notebooks-right-now)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
