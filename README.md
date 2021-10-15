@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s a sneak peek at ‘Bloom’ wallpapers on the Google Pixel 6 series](https://www.androidauthority.com/google-pixel-6-wallpapers-bloom-3041180/)
- - [FTC Warns Hundreds Of Brands To Avoid Misleading Ads & Fake Reviews](https://techncruncher.blogspot.com/2021/10/ftc-warns-hundreds-of-brands-to-avoid.html)
- - [Eternals Early Box Office Predictions Highest Of MCU Phase 4 So Far](https://techncruncher.blogspot.com/2021/10/eternals-early-box-office-predictions.html)<!-- TECH:END -->
+ - [Amazon launches 7 must-have Apple bargains ahead of Black Friday](https://appleinsider.com/articles/21/10/11/amazon-launches-7-must-have-apple-bargains-ahead-of-black-friday?utm_medium=rss)
+ - [Guilty Party review: Paramount Plus goes true crime-ish](https://www.androidauthority.com/guilty-party-review-paramount-plus-3037574/)
+ - [OnePlus Co-Founder Might Release A New Android Phone In 2022](https://techncruncher.blogspot.com/2021/10/oneplus-co-founder-might-release-new.html)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
