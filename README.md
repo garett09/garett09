@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tesla starts offering insurance in Texas using drivers' "real-time driving behavior" and a "safety score" (Fred Lambert/Electrek)](http://www.techmeme.com/211015/p10#a211015p10)
- - [Xbox Series X mini fridge preorders begin on October 19th for $99.99](https://www.theverge.com/2021/10/15/22727969/xbox-series-x-mini-fridge-price-release-date)
- - [Apple removes popular Quran app, reportedly at China's request](https://appleinsider.com/articles/21/10/15/apple-removes-popular-quran-app-reportedly-at-chinas-request?utm_medium=rss)<!-- TECH:END -->
+ - [ZmBIZI’s $550 Z2 phone pays you for your data usage](https://www.theverge.com/2021/10/15/22725407/zmbizis-z2-phone-data-pay-back-fintech-privacy)
+ - [Samsung teaser video suggests fully customizable foldables on the way](https://www.androidauthority.com/samsung-custom-foldables-3040967/)
+ - [Mobile app helps people manage their blood pressure](https://www.theverge.com/2021/10/15/22727938/digital-blood-pressure-management-program-study)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
