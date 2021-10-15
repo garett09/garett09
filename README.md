@@ -193,7 +193,7 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [War. War never changes.](http://9gag.com/gag/aBn9LpD)
+ - 🚖 [Russian army bread vs brick](http://9gag.com/gag/a51pBzg)
  - 🚯 [Them girls... always trying to trick guys into doing stuff](http://9gag.com/gag/aDDR8rx)
  - 🚯 [It&rsquo;s Us Against The World](http://9gag.com/gag/a11pe38)<!-- MEMES:END -->
 
