@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Go read this investigation into Amazon’s sprawling empire of in-house brands](https://www.theverge.com/2021/10/15/22727842/amazon-in-house-brands-search-rankings)
- - [Govee’s inexpensive TV backlight goes big](https://www.theverge.com/22725979/govee-tv-backlight-bars-review-specs-price)
- - [WhatsApp introducing end-to-end encrypted chat backups in iCloud](https://appleinsider.com/articles/21/10/15/whatsapp-introducing-end-to-end-encrypted-chat-backups-in-icloud?utm_medium=rss)<!-- TECH:END -->
+ - [The Malaria Vaccine Is a Big Deal, but Not a Silver Bullet](https://www.wired.com/story/the-malaria-vaccine-is-a-big-deal-but-not-a-silver-bullet)
+ - [The New Polaroid Now+ Has Groovy Clip-On Filters](https://www.wired.com/review/polaroid-now-plus)
+ - [How Facebook Hides How Terrible It Is With Hate Speech](https://www.wired.com/story/facebooks-deceptive-math-when-it-comes-to-hate-speech)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
