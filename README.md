@@ -193,7 +193,7 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Oh f**k, put me back under!](http://9gag.com/gag/a61rXXR)
+ - 🚖 [I asked my friend what it&rsquo;s like living in China He said, &quot;I can&#039;t complain&quot;](http://9gag.com/gag/avA2e2W)
  - 🚯 [Yellow jackets captured by venus fly trap](http://9gag.com/gag/apgK3x5)
  - 🚯 [It&rsquo;s Us Against The World! Fight, Survive, Defend!](http://9gag.com/gag/avA27DM)<!-- MEMES:END -->
 
