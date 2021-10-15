@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to watch Apple’s October 2021 event and what to expect](https://www.androidauthority.com/apple-event-october-2021-3040670/)
- - [Netflix fires a leader of the trans employee resource group who was organizing a walkout, for allegedly leaking metrics related to the Dave Chappelle special (Zoe Schiffer/The Verge)](http://www.techmeme.com/211015/p19#a211015p19)
- - [FDA Backs Boosters, Travel Restrictions Lift, and More News](https://www.wired.com/story/fda-boosters-travel-restrictions-lift-coronavirus-news)<!-- TECH:END -->
+ - [Here’s a sneak peek at ‘Bloom’ wallpapers on the Google Pixel 6 series](https://www.androidauthority.com/google-pixel-6-wallpapers-bloom-3041180/)
+ - [FTC Warns Hundreds Of Brands To Avoid Misleading Ads & Fake Reviews](https://techncruncher.blogspot.com/2021/10/ftc-warns-hundreds-of-brands-to-avoid.html)
+ - [Eternals Early Box Office Predictions Highest Of MCU Phase 4 So Far](https://techncruncher.blogspot.com/2021/10/eternals-early-box-office-predictions.html)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
