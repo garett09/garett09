@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [She was 11 when WWI started, 36 when WWII started, 74 when Star Wars released and 116 when Covid-19 started. And her name is Kane Tanaka as the world&rsquo;s oldest living person at age 118 years. She was born on January 2, 1903.](http://9gag.com/gag/axBEyPD)
- - 🚯 [Leslie Nielsen &lt;3](http://9gag.com/gag/aggrQ1w)
+ - 🚖 [When I lived in the UK everything was like that](http://9gag.com/gag/a21EMzw)
+ - 🚯 [Calm down Darwin](http://9gag.com/gag/a91jz4m)
  - 🚯 [It&rsquo;s Us Against The World! Fight, Survive, Defend!](http://9gag.com/gag/avA27DM)<!-- MEMES:END -->
 
 --- 
