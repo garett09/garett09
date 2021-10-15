@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Final countdown](http://9gag.com/gag/aAGB6Rp)
- - 🚯 [Eventually we all learn to be at peace with our fate.](http://9gag.com/gag/a91j6qL)
+ - 🚖 [Oh f**k, put me back under!](http://9gag.com/gag/a61rXXR)
+ - 🚯 [That last line hits me hard&hellip;](http://9gag.com/gag/aLv6L3P)
  - 🚯 [It&rsquo;s Us Against The World! Fight, Survive, Defend!](http://9gag.com/gag/avA27DM)<!-- MEMES:END -->
 
 --- 
