@@ -194,7 +194,7 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Oh f**k, put me back under!](http://9gag.com/gag/a61rXXR)
- - 🚯 [That last line hits me hard&hellip;](http://9gag.com/gag/aLv6L3P)
+ - 🚯 [Yellow jackets captured by venus fly trap](http://9gag.com/gag/apgK3x5)
  - 🚯 [It&rsquo;s Us Against The World! Fight, Survive, Defend!](http://9gag.com/gag/avA27DM)<!-- MEMES:END -->
 
 --- 
