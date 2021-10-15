@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Vergecast: HTC’s new VR headset, and what to expect at next week’s tech events](https://www.theverge.com/2021/10/15/22727889/vergecast-podcast-471-htc-vive-flow-apple-google-samsung-event-preview)
- - [Roku Streaming Stick 4K review: The little streaming stick that could](https://www.androidauthority.com/roku-streaming-stick-4k-review-3038826/)
- - [Mortgage refinance rates for Oct. 15, 2021: Rates rise     - CNET](https://www.cnet.com/news/mortgage-refinance-rates-for-oct-15-2021-rates-rise/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Tesla starts offering insurance in Texas using drivers' "real-time driving behavior" and a "safety score" (Fred Lambert/Electrek)](http://www.techmeme.com/211015/p10#a211015p10)
+ - [Xbox Series X mini fridge preorders begin on October 19th for $99.99](https://www.theverge.com/2021/10/15/22727969/xbox-series-x-mini-fridge-price-release-date)
+ - [Apple removes popular Quran app, reportedly at China's request](https://appleinsider.com/articles/21/10/15/apple-removes-popular-quran-app-reportedly-at-chinas-request?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
