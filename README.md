@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Ghostbusters: Afterlife takes a Force Awakens approach to Ghostbusters](https://www.polygon.com/reviews/22728147/ghostbusters-afterlife-review)
- - [How to watch DC’s FanDome 2021 livestream](https://www.polygon.com/22726487/how-to-watch-dc-fandome-2021-livestream)
- - [Crapshoot: Rockstar, the game that turned sex, drugs, and rock & roll into a management sim](https://www.pcgamer.com/saturday-crapshoot-rockstar)<!-- GAME:END -->
+ - [AnalogueOS bring save states, screenshots and more to Pocket](https://www.polygon.com/22728859/analogue-pocket-save-states-playlists-library-fpga)
+ - [Shuppet Loves Drama And Hanging Around Bad People](https://kotaku.com/shuppet-loves-drama-and-hanging-around-bad-people-1847875421)
+ - [Ghostbusters: Afterlife takes a Force Awakens approach to Ghostbusters](https://www.polygon.com/reviews/22728147/ghostbusters-afterlife-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
