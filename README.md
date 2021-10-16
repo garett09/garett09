@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [A first look at The CW’s Naomi debuts at DC FanDome](https://www.polygon.com/22726515/naomi-cw-tv-dc-comics-ava-duvernay)
- - [Here’s your first look at HBO Max’s Batgirl movie](https://www.polygon.com/22725097/batgirl-cast-costume-hbo-max)
- - [Minecraft's new mob is a dancing, gift-giving spirit](https://www.pcgamer.com/minecrafts-new-mob-is-a-gift-collecting-dancing-spirit)<!-- GAME:END -->
+ - [Caped Crusader is the show Batman: Animated Series creator always wanted to make](https://www.polygon.com/2021/10/16/22728126/batman-caped-crusader-new-animated-series-hbo-max)
+ - [Dota 2's newest hero is Marci, the silent sidekick from the anime](https://www.pcgamer.com/dota-2s-newest-hero-is-marci-the-silent-sidekick-from-the-anime)
+ - [The Batman trailer brings the fear, riddles, and explosions](https://www.polygon.com/22729878/the-batman-trailer-release-2022-dc-fandome)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
