@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Attackers Behind Trickbot Expanding Malware Distribution Channels](https://techncruncher.blogspot.com/2021/10/attackers-behind-trickbot-expanding.html)
- - [Huawei MateBook 16 review: Big display, big potential](https://www.androidauthority.com/huawei-matebook-16-review-3028122/)
- - [Best bug and tar remover for cars     - Roadshow](https://www.cnet.com/roadshow/news/best-bug-tar-remover/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How a teenage Edwin Robbe pulled off an audacious hack into the Netherlands' largest telecom company, costing it &euro;3m, before being found dead in South Korea (Huib Modderkolk/The Guardian)](http://www.techmeme.com/211016/p4#a211016p4)
+ - [Weekly Authority Edition #164](https://www.androidauthority.com/newsletters/weekly-authority-edition-164/)
+ - [11 Fun Subscription Boxes for Kids of All Ages](https://www.wired.com/gallery/best-subscription-boxes-for-kids)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
