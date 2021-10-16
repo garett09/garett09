@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Journalist covering the news for raising gas prices](http://9gag.com/gag/ajgQWKg)
- - 🚯 [She&#039;s gonna f**k him up](http://9gag.com/gag/aGzK7XX)
- - 🚯 [But that&rsquo;s NOT WHAT HE SAID!](http://9gag.com/gag/aRr6RqB)<!-- MEMES:END -->
+ - 🚖 [Somewhere in Brazil, Police helicopter found it while on some unrelated mission. Could Hihlah have made it here?](http://9gag.com/gag/arn1zoy)
+ - 🚯 [I should not have said that....](http://9gag.com/gag/arn1zO7)
+ - 🚯 [Amtrak train slams into semi-truck hauling several cars in Oklahoma](http://9gag.com/gag/aze7Qmq)<!-- MEMES:END -->
 
 --- 
 
