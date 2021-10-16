@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A joint advisory by the FBI, NSA, CISA, and the EPA reveals three more ransomware attacks on water treatment plants this year in Nevada, Maine, and California (Catalin Cimpanu/The Record)](http://www.techmeme.com/211016/p3#a211016p3)
  - [AiDash, which lets power utilities and energy companies monitor infrastructure using satellite imagery and AI, raises a $27M Series B led by G2 Venture Partners (Kyle Wiggers/VentureBeat)](http://www.techmeme.com/211016/p2#a211016p2)
- - [Amazon launches 7 must-have Apple bargains ahead of Black Friday](https://appleinsider.com/articles/21/10/11/amazon-launches-7-must-have-apple-bargains-ahead-of-black-friday?utm_medium=rss)
- - [ResQ, a SaaS startup that lets restaurants manage and pay for repairs and maintenance through its service provider marketplace, raises a $39M Series A (Charlize Alcaraz/BetaKit)](http://www.techmeme.com/211016/p1#a211016p1)<!-- TECH:END -->
+ - [Amazon launches 7 must-have Apple bargains ahead of Black Friday](https://appleinsider.com/articles/21/10/11/amazon-launches-7-must-have-apple-bargains-ahead-of-black-friday?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
