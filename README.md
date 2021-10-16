@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Logic at the highest form](http://9gag.com/gag/aRr62y5)
+ - 🚖 [Flexibility](http://9gag.com/gag/aOQoPLD)
  - 🚯 [Best argument](http://9gag.com/gag/axBEPnp)
- - 🚯 [That&#039;s some big dick move.](http://9gag.com/gag/avA2R35)<!-- MEMES:END -->
+ - 🚯 [+100fps](http://9gag.com/gag/aGzK2Mw)<!-- MEMES:END -->
 
 --- 
 
