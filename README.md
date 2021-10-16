@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [AnalogueOS bring save states, screenshots and more to Pocket](https://www.polygon.com/22728859/analogue-pocket-save-states-playlists-library-fpga)
- - [Shuppet Loves Drama And Hanging Around Bad People](https://kotaku.com/shuppet-loves-drama-and-hanging-around-bad-people-1847875421)
- - [Ghostbusters: Afterlife takes a Force Awakens approach to Ghostbusters](https://www.polygon.com/reviews/22728147/ghostbusters-afterlife-review)<!-- GAME:END -->
+ - [Coming November 2 to Xbox Game Pass for PC: Minecraft Java and Bedrock Editions](https://news.xbox.com/en-us/2021/10/16/coming-november-2-to-xbox-game-pass-for-pc-minecraft-java-and-bedrock-editions/)
+ - [Remastered GTA Trilogy Will Seemingly Feature GTA V-Style Controls And High-Res Textures](https://kotaku.com/remastered-gta-trilogy-will-seemingly-feature-gta-v-sty-1847877768)
+ - [AnalogueOS bring save states, screenshots and more to Pocket](https://www.polygon.com/22728859/analogue-pocket-save-states-playlists-library-fpga)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
