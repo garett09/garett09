@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Crapshoot: Rockstar, the game that turned sex, drugs, and rock & roll into a management sim](https://www.pcgamer.com/saturday-crapshoot-rockstar)
- - [How Battlefield 2042 beta players felt about 'the next generation of warfare'](https://www.pcgamer.com/battlefield-2042-beta-reaction)
- - [Bond music has been reinvented more times than Bond himself](https://www.polygon.com/22725498/bond-music-connery-john-berry-no-time-to-die-hans-zimmer)<!-- GAME:END -->
+ - [Ghostbusters: Afterlife takes a Force Awakens approach to Ghostbusters](https://www.polygon.com/reviews/22728147/ghostbusters-afterlife-review)
+ - [How to watch DC’s FanDome 2021 livestream](https://www.polygon.com/22726487/how-to-watch-dc-fandome-2021-livestream)
+ - [Crapshoot: Rockstar, the game that turned sex, drugs, and rock & roll into a management sim](https://www.pcgamer.com/saturday-crapshoot-rockstar)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
