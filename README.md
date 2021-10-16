@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Minecraft Announces Mud And Frogs, Fans Go Wild](https://kotaku.com/minecraft-announces-mud-and-frogs-fans-go-wild-1847879147)
  - [The best horror movies you can stream right now](https://www.polygon.com/22725152/best-horror-movies-netflix-amazon-prime-hulu-hbo)
- - [When's the last time you looked up a walkthrough?](https://www.pcgamer.com/whens-the-last-time-you-looked-up-a-walkthrough)
- - [The future of DC movies in 2022 and beyond](https://www.polygon.com/movies/22352001/new-dc-movies-release-schedule)<!-- GAME:END -->
+ - [Gotham Knights trailer introduces the villainous Court of Owls](https://www.pcgamer.com/gotham-knights-trailer-introduces-the-villainous-court-of-owls)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
