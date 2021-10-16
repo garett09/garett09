@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Daughter surprises her 85 year old dad by tracking down his best friend from the war whom he thought died and flew him in to reunite them](http://9gag.com/gag/aLv6G5v)
+ - 🚖 [John Wick](http://9gag.com/gag/aLv6mAW)
  - 🚯 [The guy is surprised by a meal from a stranger](http://9gag.com/gag/a51pzXg)
- - 🚯 [It&rsquo;s Us Against The World](http://9gag.com/gag/a11pe38)<!-- MEMES:END -->
+ - 🚯 [Love is Love.](http://9gag.com/gag/axBEO9W)<!-- MEMES:END -->
 
 --- 
 
