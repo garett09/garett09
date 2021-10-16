@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [These are neurons trying to connect. Your memories, your dreams, everything you know about the universe is thanks to these little guys and how they interact](http://9gag.com/gag/aze7O8q)
- - 🚯 [How many ramen packs is that?](http://9gag.com/gag/aZrq860)
+ - 🚖 [Ah shit, here we go again...](http://9gag.com/gag/avA2ErM)
+ - 🚯 [Thanks Robert Pritzker](http://9gag.com/gag/a0Zv6dZ)
  - 🚯 [It&rsquo;s Us Against The World](http://9gag.com/gag/a11pe38)<!-- MEMES:END -->
 
 --- 
