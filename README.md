@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Blue Beetle’s HBO Max movie got a first look at DC FanDome](https://www.polygon.com/22727020/blue-beetle-movie-costume-hbo-max-dc-fandome)
- - [A Year Later, Here's A Bit More Of That Suicide Squad Game By Rocksteady](https://kotaku.com/a-year-later-heres-a-bit-more-of-that-suicide-squad-ga-1847878338)
- - [The Flash trailer blows up the DC movie multiverse at FanDome](https://www.polygon.com/22727552/the-flash-trailer-dc-fandome-2021)<!-- GAME:END -->
+ - [A first look at The CW’s Naomi debuts at DC FanDome](https://www.polygon.com/22726515/naomi-cw-tv-dc-comics-ava-duvernay)
+ - [Here’s your first look at HBO Max’s Batgirl movie](https://www.polygon.com/22725097/batgirl-cast-costume-hbo-max)
+ - [Minecraft's new mob is a dancing, gift-giving spirit](https://www.pcgamer.com/minecrafts-new-mob-is-a-gift-collecting-dancing-spirit)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
