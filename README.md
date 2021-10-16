@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dbrand pulls its PS5 Darkplates from sale after Sony threatens legal action](https://www.theverge.com/2021/10/16/22728936/dbrand-pulls-ps5-darkplates-from-sale-sony-threatens-legal-action)
- - [How to use your leaf blower every season of the year     - CNET](https://www.cnet.com/home/yard-and-outdoors/how-to-get-the-most-out-of-your-leaf-blower-all-year-long/#ftag=CAD590a51e)
- - [Best 2021 advent calendars for kids     - CNET](https://www.cnet.com/health/parenting/best-2021-advent-calendars-for-kids/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [AiDash, which lets power utilities and energy companies monitor infrastructure using satellite imagery and AI, raises a $27M Series B led by G2 Venture Partners (Kyle Wiggers/VentureBeat)](http://www.techmeme.com/211016/p2#a211016p2)
+ - [Amazon launches 7 must-have Apple bargains ahead of Black Friday](https://appleinsider.com/articles/21/10/11/amazon-launches-7-must-have-apple-bargains-ahead-of-black-friday?utm_medium=rss)
+ - [ResQ, a SaaS startup that lets restaurants manage and pay for repairs and maintenance through its service provider marketplace, raises a $39M Series A (Charlize Alcaraz/BetaKit)](http://www.techmeme.com/211016/p1#a211016p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
