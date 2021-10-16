@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The biggest announcements from DC FanDome](https://www.theverge.com/2021/10/16/22729057/biggest-announcements-dc-fandome-batman-black-adam-hbo-warner)
  - [The best Michael Kors smartwatches for men in 2021](https://www.androidauthority.com/best-michael-kors-smartwatches-men-3022684/)
- - [Apple extends 20% bonus in India for adding money to Apple ID](https://appleinsider.com/articles/21/10/16/apple-extends-20-bonus-in-india-for-adding-money-to-apple-id?utm_medium=rss)
- - [Some doctors in the US and other countries say TikTok videos about Tourette syndrome may be contributing to a rise in cases of teen girls with physical tics (Julie Jargon/Wall Street Journal)](http://www.techmeme.com/211016/p9#a211016p9)<!-- TECH:END -->
+ - [Xfinity vs. Vivint: Which professional home security system is better?     - CNET](https://www.cnet.com/home/security/xfinity-vs-vivint-which-professional-home-security-system-is-better/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
