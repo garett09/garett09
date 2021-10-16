@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Some indie game developers say connecting with fans on Discord is helping humanize developer teams, shielding them from backlash and abuse (Ian Birnbaum/VICE)](http://www.techmeme.com/211015/p25#a211015p25)
- - [After seeing new leaked photos of the Pixel 6, I think I finally get the phone’s unusual design](https://www.theverge.com/2021/10/15/22729135/google-pixel-6-pro-leaked-photos-images-renders-evan-blass)
- - [The best Michael Kors smartwatches for women](https://www.androidauthority.com/best-michael-kors-smartwatches-women-3027613/)<!-- TECH:END -->
+ - [Expensify files for an IPO, and reports net income of $15M on revenue of $65M in H1 2021, up from $3.5M on revenue of $41M in H1 2020 (Crystal Tse/Bloomberg)](http://www.techmeme.com/211015/p26#a211015p26)
+ - [Amid Chappelle controversy, Netflix reportedly fires employee who helped plan walkout     - CNET](https://www.cnet.com/tech/services-and-software/amid-chappelle-controversy-netflix-reportedly-fires-employee-who-helped-plan-walkout/#ftag=CAD590a51e)
+ - [Some indie game developers say connecting with fans on Discord is helping humanize developer teams, shielding them from backlash and abuse (Ian Birnbaum/VICE)](http://www.techmeme.com/211015/p25#a211015p25)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
