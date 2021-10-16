@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 13 Pro remote jailbreak earns researchers $300,000 in hacking contest](https://appleinsider.com/articles/21/10/16/iphone-13-pro-remote-jailbreak-earns-researchers-300000-in-hacking-contest?utm_medium=rss)
- - [See a trailer for Peacemaker, the Suicide Squad spinoff coming to HBO Max     - CNET](https://www.cnet.com/news/see-a-trailer-for-peacemaker-the-suicide-squad-spinoff-coming-to-hbo-max/#ftag=CAD590a51e)
- - [The best Fitbit for kids](https://www.androidauthority.com/best-fitbit-for-kids-3036913/)<!-- TECH:END -->
+ - [10 best minimal apps for Android](https://www.androidauthority.com/best-minimal-apps-android-3032836/)
+ - [Grovemade desk tray review: Premium desktop organization](https://appleinsider.com/articles/21/10/16/grovemade-desk-tray-review-premium-desktop-organization?utm_medium=rss)
+ - [A look at Raya, a secretive subscription-based social network with a rigorous user selection process and a rigid code of silence for accepted members (Kyle Chayka/New Yorker)](http://www.techmeme.com/211016/p8#a211016p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
