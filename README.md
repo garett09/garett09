@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A joint advisory by the FBI, NSA, CISA, and the EPA reveals three more ransomware attacks on water treatment plants this year in Nevada, Maine, and California (Catalin Cimpanu/The Record)](http://www.techmeme.com/211016/p3#a211016p3)
- - [AiDash, which lets power utilities and energy companies monitor infrastructure using satellite imagery and AI, raises a $27M Series B led by G2 Venture Partners (Kyle Wiggers/VentureBeat)](http://www.techmeme.com/211016/p2#a211016p2)
- - [Amazon launches 7 must-have Apple bargains ahead of Black Friday](https://appleinsider.com/articles/21/10/11/amazon-launches-7-must-have-apple-bargains-ahead-of-black-friday?utm_medium=rss)<!-- TECH:END -->
+ - [Amazfit GTR 3 Pro review: On the right track, but not quite there yet](https://www.androidauthority.com/amazfit-gtr-3-pro-review-3038980/)
+ - [Google Pixel 6 rumors, leaks and guesses before Tuesday's big event     - CNET](https://www.cnet.com/tech/mobile/google-pixel-6-rumors-leaks-and-guesses-before-tuesday-big-event/#ftag=CAD590a51e)
+ - [Hulu: 10 of the best films to watch tonight     - CNET](https://www.cnet.com/news/hulu-10-of-the-best-films-to-watch-tonight/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
