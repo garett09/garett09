@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A year later, Apple’s MagSafe continues to underwhelm](https://www.theverge.com/2021/10/15/22728967/apple-magsafe-duo-wallet-cases-charging)
- - [US Treasury says ransomware payouts in 2021 could top entire past decade](https://www.theverge.com/2021/10/15/22728765/us-treasury-ransomware-payout-numbers-reports-2021-first-half-cybercrime)
- - [Moscow introduces Face Pay in its metro system, which Russia says is the world's first mass-scale facial recognition payment system, across 240 stations (Pjotr Sauer/The Guardian)](http://www.techmeme.com/211015/p24#a211015p24)<!-- TECH:END -->
+ - [Some indie game developers say connecting with fans on Discord is helping humanize developer teams, shielding them from backlash and abuse (Ian Birnbaum/VICE)](http://www.techmeme.com/211015/p25#a211015p25)
+ - [After seeing new leaked photos of the Pixel 6, I think I finally get the phone’s unusual design](https://www.theverge.com/2021/10/15/22729135/google-pixel-6-pro-leaked-photos-images-renders-evan-blass)
+ - [The best Michael Kors smartwatches for women](https://www.androidauthority.com/best-michael-kors-smartwatches-women-3027613/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
