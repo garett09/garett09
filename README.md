@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Bond music has been reinvented more times than Bond himself](https://www.polygon.com/22725498/bond-music-connery-john-berry-no-time-to-die-hans-zimmer)
  - [A Squid Game videogame could happen, Netflix says](https://www.pcgamer.com/squid-game-video-game-netflix)
- - [Bless Unleashed: New Bless Pass “Changing World” is Now Live](https://news.xbox.com/en-us/2021/10/15/bless-unleashed-new-bless-pass-season-is-now-available/)
- - [Windows 11 Insider patch fixes major AMD Ryzen bug](https://www.pcgamer.com/windows-11-insider-patch-fixes-major-amd-ryzen-bug)<!-- GAME:END -->
+ - [Bless Unleashed: New Bless Pass “Changing World” is Now Live](https://news.xbox.com/en-us/2021/10/15/bless-unleashed-new-bless-pass-season-is-now-available/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
