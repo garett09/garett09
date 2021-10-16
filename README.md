@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The latest trailer for The Batman sees Robert Pattinson’s Dark Knight face off against the Riddler](https://www.theverge.com/2021/10/16/22728953/the-batman-trailer-robert-pattinson-dc-fandome-comics)
- - [10 best minimal apps for Android](https://www.androidauthority.com/best-minimal-apps-android-3032836/)
- - [Best mattress toppers for 2021     - CNET](https://www.cnet.com/health/sleep/best-mattress-toppers/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The best Michael Kors smartwatches for men in 2021](https://www.androidauthority.com/best-michael-kors-smartwatches-men-3022684/)
+ - [Apple extends 20% bonus in India for adding money to Apple ID](https://appleinsider.com/articles/21/10/16/apple-extends-20-bonus-in-india-for-adding-money-to-apple-id?utm_medium=rss)
+ - [Some doctors in the US and other countries say TikTok videos about Tourette syndrome may be contributing to a rise in cases of teen girls with physical tics (Julie Jargon/Wall Street Journal)](http://www.techmeme.com/211016/p9#a211016p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
