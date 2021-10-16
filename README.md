@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Flexibility](http://9gag.com/gag/aOQoPLD)
- - 🚯 [Best argument](http://9gag.com/gag/axBEPnp)
- - 🚯 [+100fps](http://9gag.com/gag/aGzK2Mw)<!-- MEMES:END -->
+ - 🚖 [I lost it when mini cops arrive](http://9gag.com/gag/a51pqRN)
+ - 🚯 [Surprise](http://9gag.com/gag/a31vbjQ)
+ - 🚯 [We are here for you](http://9gag.com/gag/aogm8Gw)<!-- MEMES:END -->
 
 --- 
 
