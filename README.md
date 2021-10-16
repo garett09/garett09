@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [NASA launches its Lucy spacecraft to study the Jupiter Trojan asteroids](https://www.theverge.com/2021/10/16/22729626/nasa-launches-lucy-probe-study-jupiter-trojan-asteroids)
- - [Hackers Keep Targeting the US Water Supply](https://www.wired.com/story/water-supply-hackers-ios-zero-day-navy-spy-security-news)
- - [Snag a Samsung soundbar for a low price from Newegg](https://www.theverge.com/good-deals/2021/10/16/22728510/samsung-soundbar-acer-monitor-echo-buds-galaxy-book-deal-sale)<!-- TECH:END -->
+ - [Best Deals Oct. 16: up to 24% off Proscenic vacuums, SK Hynix Gold storage, TV show DVDs, and more!](https://appleinsider.com/articles/21/10/16/best-deals-oct-16-up-to-24-off-proscenic-vacuums-sk-hynix-gold-storage-tv-show-dvds-and-more?utm_medium=rss)
+ - [Apple's MagSafe wireless charging standard continues to underwhelm a year after its release, due to lack of foresight and a limited ecosystem (Sean Hollister/The Verge)](http://www.techmeme.com/211016/p5#a211016p5)
+ - [Samsung Galaxy Z Fold 3 second opinion: Big steps forward, small steps behind](https://www.androidauthority.com/samsung-galaxy-z-fold-3-review-second-opinion-3037098/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
