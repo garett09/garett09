@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What men really want](http://9gag.com/gag/axBEY0n)
- - 🚯 [Listen and repeat](http://9gag.com/gag/ay9EYny)
- - 🚯 [Avatar Wang, the last water bender.](http://9gag.com/gag/amgqpQ9)<!-- MEMES:END -->
+ - 🚖 [What a time to be alive&hellip;](http://9gag.com/gag/a41pwpQ)
+ - 🚯 [Eating on banana leaves. Ages old sustainable tradition of serving food on banana leaves in the southern states of India is still very common.](http://9gag.com/gag/a91jDvD)
+ - 🚯 [Journalist covering the news for raising gas prices](http://9gag.com/gag/ajgQWKg)<!-- MEMES:END -->
 
 --- 
 
