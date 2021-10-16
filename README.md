@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Deals Oct. 16: up to 24% off Proscenic vacuums, SK Hynix Gold storage, TV show DVDs, and more!](https://appleinsider.com/articles/21/10/16/best-deals-oct-16-up-to-24-off-proscenic-vacuums-sk-hynix-gold-storage-tv-show-dvds-and-more?utm_medium=rss)
- - [Apple's MagSafe wireless charging standard continues to underwhelm a year after its release, due to lack of foresight and a limited ecosystem (Sean Hollister/The Verge)](http://www.techmeme.com/211016/p5#a211016p5)
- - [Samsung Galaxy Z Fold 3 second opinion: Big steps forward, small steps behind](https://www.androidauthority.com/samsung-galaxy-z-fold-3-review-second-opinion-3037098/)<!-- TECH:END -->
+ - [Analogue’s Pocket will have an extremely fancy OS to save games to and from cartridges](https://www.theverge.com/2021/10/16/22722412/analogue-pocket-analogueos-operating-system-game-boy-retro)
+ - [International Space Station tilted after thrusters on a Russian craft fired unexpectedly](https://www.theverge.com/2021/10/16/22729701/international-space-station-tilted-thrusters-russian-craft-fired-unexpectedly)
+ - [Best Deals Oct. 16: up to 24% off Proscenic vacuums, SK Hynix Gold storage, TV show DVDs, and more!](https://appleinsider.com/articles/21/10/16/best-deals-oct-16-up-to-24-off-proscenic-vacuums-sk-hynix-gold-storage-tv-show-dvds-and-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
