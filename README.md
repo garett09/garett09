@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ah shit, here we go again...](http://9gag.com/gag/avA2ErM)
- - 🚯 [Thanks Robert Pritzker](http://9gag.com/gag/a0Zv6dZ)
+ - 🚖 [The guy is surprised by a meal from a stranger](http://9gag.com/gag/a51pzXg)
+ - 🚯 [I&#039;m sorry by inconveniencing you by letting you pass](http://9gag.com/gag/aDDRb3d)
  - 🚯 [It&rsquo;s Us Against The World](http://9gag.com/gag/a11pe38)<!-- MEMES:END -->
 
 --- 
