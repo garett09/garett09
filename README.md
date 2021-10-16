@@ -193,7 +193,7 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Boop!](http://9gag.com/gag/aM4evXM)
+ - 🚖 [Savage on the man](http://9gag.com/gag/aze7Zjm)
  - 🚯 [Still doing it](http://9gag.com/gag/amgqV8o)
  - 🚯 [You underestimate my power](http://9gag.com/gag/aM4ev3P)<!-- MEMES:END -->
 
