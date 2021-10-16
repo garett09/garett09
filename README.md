@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [A Squid Game videogame could happen, Netflix says](https://www.pcgamer.com/squid-game-video-game-netflix)
  - [Bless Unleashed: New Bless Pass “Changing World” is Now Live](https://news.xbox.com/en-us/2021/10/15/bless-unleashed-new-bless-pass-season-is-now-available/)
- - [Windows 11 Insider patch fixes major AMD Ryzen bug](https://www.pcgamer.com/windows-11-insider-patch-fixes-major-amd-ryzen-bug)
- - [Cheat makers already have Call of Duty's new anti-cheat driver, but Activision isn't bothered](https://www.pcgamer.com/cheat-makers-already-have-call-of-dutys-new-anti-cheat-driver-but-activision-isnt-bothered)<!-- GAME:END -->
+ - [Windows 11 Insider patch fixes major AMD Ryzen bug](https://www.pcgamer.com/windows-11-insider-patch-fixes-major-amd-ryzen-bug)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
