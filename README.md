@@ -194,7 +194,7 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Matthew Lillard cheering up a fan with his Shaggy voice](http://9gag.com/gag/a31v25Q)
- - 🚯 [The farmer who found a way to get rid of agricultural pests without using pesticides. This is brilliant and they are still alive.](http://9gag.com/gag/aXrZ76b)
+ - 🚯 [You underestimate my power](http://9gag.com/gag/aM4ev3P)
  - 🚯 [Boop!](http://9gag.com/gag/aM4evXM)<!-- MEMES:END -->
 
 --- 
