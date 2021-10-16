@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [NASA's Lucy mission: 20 minutes of terror will define the next 12 years     - CNET](https://www.cnet.com/news/nasas-lucy-mission-20-minutes-of-terror-will-define-the-next-12-years/#ftag=CAD590a51e)
  - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-402-3040351/)
- - [Get your first robovac for under $150, and more robot vacuum deals](https://www.androidauthority.com/best-robot-vacuum-deals-1121656/)
- - [MacBook Pro refresh could reuse the iPhone's notch in the display](https://appleinsider.com/articles/21/10/16/macbook-pro-refresh-could-reuse-the-iphones-notch-in-the-display?utm_medium=rss)<!-- TECH:END -->
+ - [Land Rover Discovery Metropolitan Edition goes all in on features     - Roadshow](https://www.cnet.com/roadshow/pictures/land-rover-discovery-metropolitan-edition/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
