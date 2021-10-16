@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Expensify files for an IPO, and reports net income of $15M on revenue of $65M in H1 2021, up from $3.5M on revenue of $41M in H1 2020 (Crystal Tse/Bloomberg)](http://www.techmeme.com/211015/p26#a211015p26)
- - [Amid Chappelle controversy, Netflix reportedly fires employee who helped plan walkout     - CNET](https://www.cnet.com/tech/services-and-software/amid-chappelle-controversy-netflix-reportedly-fires-employee-who-helped-plan-walkout/#ftag=CAD590a51e)
- - [Some indie game developers say connecting with fans on Discord is helping humanize developer teams, shielding them from backlash and abuse (Ian Birnbaum/VICE)](http://www.techmeme.com/211015/p25#a211015p25)<!-- TECH:END -->
+ - [Dbrand pulls its PS5 Darkplates from sale after Sony threatens legal action](https://www.theverge.com/2021/10/16/22728936/dbrand-pulls-ps5-darkplates-from-sale-sony-threatens-legal-action)
+ - [How to use your leaf blower every season of the year     - CNET](https://www.cnet.com/home/yard-and-outdoors/how-to-get-the-most-out-of-your-leaf-blower-all-year-long/#ftag=CAD590a51e)
+ - [Best 2021 advent calendars for kids     - CNET](https://www.cnet.com/health/parenting/best-2021-advent-calendars-for-kids/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
