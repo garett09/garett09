@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [How Battlefield 2042 beta players felt about 'the next generation of warfare'](https://www.pcgamer.com/battlefield-2042-beta-reaction)
  - [Bond music has been reinvented more times than Bond himself](https://www.polygon.com/22725498/bond-music-connery-john-berry-no-time-to-die-hans-zimmer)
- - [A Squid Game videogame could happen, Netflix says](https://www.pcgamer.com/squid-game-video-game-netflix)
- - [Bless Unleashed: New Bless Pass “Changing World” is Now Live](https://news.xbox.com/en-us/2021/10/15/bless-unleashed-new-bless-pass-season-is-now-available/)<!-- GAME:END -->
+ - [A Squid Game videogame could happen, Netflix says](https://www.pcgamer.com/squid-game-video-game-netflix)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
