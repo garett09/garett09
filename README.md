@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazfit GTR 3 Pro review: On the right track, but not quite there yet](https://www.androidauthority.com/amazfit-gtr-3-pro-review-3038980/)
- - [Google Pixel 6 rumors, leaks and guesses before Tuesday's big event     - CNET](https://www.cnet.com/tech/mobile/google-pixel-6-rumors-leaks-and-guesses-before-tuesday-big-event/#ftag=CAD590a51e)
- - [Hulu: 10 of the best films to watch tonight     - CNET](https://www.cnet.com/news/hulu-10-of-the-best-films-to-watch-tonight/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Attackers Behind Trickbot Expanding Malware Distribution Channels](https://techncruncher.blogspot.com/2021/10/attackers-behind-trickbot-expanding.html)
+ - [Huawei MateBook 16 review: Big display, big potential](https://www.androidauthority.com/huawei-matebook-16-review-3028122/)
+ - [Best bug and tar remover for cars     - Roadshow](https://www.cnet.com/roadshow/news/best-bug-tar-remover/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
