@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [HBO Max’s Peacemaker trailer promises more profane Suicide Squad comedy in 2022](https://www.polygon.com/22724660/peacemaker-trailer-tv-release-date-hbo-max)
- - [Recapping Minecraft Live 2021](https://news.xbox.com/en-us/2021/10/16/recapping-minecraft-live-2021/)
- - [Minecraft is coming to Xbox Game Pass for PC](https://www.pcgamer.com/minecraft-is-coming-to-xbox-game-pass-for-pc)<!-- GAME:END -->
+ - [Blue Beetle’s HBO Max movie got a first look at DC FanDome](https://www.polygon.com/22727020/blue-beetle-movie-costume-hbo-max-dc-fandome)
+ - [A Year Later, Here's A Bit More Of That Suicide Squad Game By Rocksteady](https://kotaku.com/a-year-later-heres-a-bit-more-of-that-suicide-squad-ga-1847878338)
+ - [The Flash trailer blows up the DC movie multiverse at FanDome](https://www.polygon.com/22727552/the-flash-trailer-dc-fandome-2021)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
