@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Analogue’s Pocket will have an extremely fancy OS to save games to and from cartridges](https://www.theverge.com/2021/10/16/22722412/analogue-pocket-analogueos-operating-system-game-boy-retro)
- - [International Space Station tilted after thrusters on a Russian craft fired unexpectedly](https://www.theverge.com/2021/10/16/22729701/international-space-station-tilted-thrusters-russian-craft-fired-unexpectedly)
- - [Best Deals Oct. 16: up to 24% off Proscenic vacuums, SK Hynix Gold storage, TV show DVDs, and more!](https://appleinsider.com/articles/21/10/16/best-deals-oct-16-up-to-24-off-proscenic-vacuums-sk-hynix-gold-storage-tv-show-dvds-and-more?utm_medium=rss)<!-- TECH:END -->
+ - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-402-3040351/)
+ - [Get your first robovac for under $150, and more robot vacuum deals](https://www.androidauthority.com/best-robot-vacuum-deals-1121656/)
+ - [MacBook Pro refresh could reuse the iPhone's notch in the display](https://appleinsider.com/articles/21/10/16/macbook-pro-refresh-could-reuse-the-iphones-notch-in-the-display?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
