@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ewok cosplay](http://9gag.com/gag/ajgQKR1)
+ - 🚖 [A reminder that this performance exist](http://9gag.com/gag/aqG4zxP)
  - 🚯 [I lost it when mini cops arrive](http://9gag.com/gag/a51pqRN)
- - 🚯 [Journalist covering the news for raising gas prices](http://9gag.com/gag/ajgQWKg)<!-- MEMES:END -->
+ - 🚯 [Surprise](http://9gag.com/gag/a31vbjQ)<!-- MEMES:END -->
 
 --- 
 
