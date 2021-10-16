@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A reminder that this performance exist](http://9gag.com/gag/aqG4zxP)
- - 🚯 [I lost it when mini cops arrive](http://9gag.com/gag/a51pqRN)
- - 🚯 [Surprise](http://9gag.com/gag/a31vbjQ)<!-- MEMES:END -->
+ - 🚖 [What a great memories](http://9gag.com/gag/aLv6dr5)
+ - 🚯 [Avatar Wang, the last water bender.](http://9gag.com/gag/amgqpQ9)
+ - 🚯 [I lost it when mini cops arrive](http://9gag.com/gag/a51pqRN)<!-- MEMES:END -->
 
 --- 
 
