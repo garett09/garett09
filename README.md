@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Matthew Lillard cheering up a fan with his Shaggy voice](http://9gag.com/gag/a31v25Q)
- - 🚯 [You underestimate my power](http://9gag.com/gag/aM4ev3P)
- - 🚯 [Boop!](http://9gag.com/gag/aM4evXM)<!-- MEMES:END -->
+ - 🚖 [Boop!](http://9gag.com/gag/aM4evXM)
+ - 🚯 [Still doing it](http://9gag.com/gag/amgqV8o)
+ - 🚯 [You underestimate my power](http://9gag.com/gag/aM4ev3P)<!-- MEMES:END -->
 
 --- 
 
