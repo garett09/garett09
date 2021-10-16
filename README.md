@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [NASA's Lucy mission: 20 minutes of terror will define the next 12 years     - CNET](https://www.cnet.com/news/nasas-lucy-mission-20-minutes-of-terror-will-define-the-next-12-years/#ftag=CAD590a51e)
- - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-402-3040351/)
- - [Land Rover Discovery Metropolitan Edition goes all in on features     - Roadshow](https://www.cnet.com/roadshow/pictures/land-rover-discovery-metropolitan-edition/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [iPhone 13 Pro remote jailbreak earns researchers $300,000 in hacking contest](https://appleinsider.com/articles/21/10/16/iphone-13-pro-remote-jailbreak-earns-researchers-300000-in-hacking-contest?utm_medium=rss)
+ - [See a trailer for Peacemaker, the Suicide Squad spinoff coming to HBO Max     - CNET](https://www.cnet.com/news/see-a-trailer-for-peacemaker-the-suicide-squad-spinoff-coming-to-hbo-max/#ftag=CAD590a51e)
+ - [The best Fitbit for kids](https://www.androidauthority.com/best-fitbit-for-kids-3036913/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
