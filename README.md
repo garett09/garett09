@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The latest trailer for The Batman sees Robert Pattinson’s Dark Knight face off against the Riddler](https://www.theverge.com/2021/10/16/22728953/the-batman-trailer-robert-pattinson-dc-fandome-comics)
  - [10 best minimal apps for Android](https://www.androidauthority.com/best-minimal-apps-android-3032836/)
- - [Grovemade desk tray review: Premium desktop organization](https://appleinsider.com/articles/21/10/16/grovemade-desk-tray-review-premium-desktop-organization?utm_medium=rss)
- - [A look at Raya, a secretive subscription-based social network with a rigorous user selection process and a rigid code of silence for accepted members (Kyle Chayka/New Yorker)](http://www.techmeme.com/211016/p8#a211016p8)<!-- TECH:END -->
+ - [Best mattress toppers for 2021     - CNET](https://www.cnet.com/health/sleep/best-mattress-toppers/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
