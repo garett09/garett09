@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How a teenage Edwin Robbe pulled off an audacious hack into the Netherlands' largest telecom company, costing it &euro;3m, before being found dead in South Korea (Huib Modderkolk/The Guardian)](http://www.techmeme.com/211016/p4#a211016p4)
- - [Weekly Authority Edition #164](https://www.androidauthority.com/newsletters/weekly-authority-edition-164/)
- - [11 Fun Subscription Boxes for Kids of All Ages](https://www.wired.com/gallery/best-subscription-boxes-for-kids)<!-- TECH:END -->
+ - [Oxygen OS 12 beta hands-on: Color OS by any other name](https://www.androidauthority.com/oxygen-os-12-3040283/)
+ - [2022 Toyota Tundra, Subaru BRZ, Lexus LX 600 and more: Roadshow's week in review     - Roadshow](https://www.cnet.com/roadshow/news/2022-toyota-tundra-subaru-brz-lexus-lx-600-week-in-review/#ftag=CAD590a51e)
+ - [With Pixel 6 coming soon, is it still worth buying a Pixel 3, 4 or 5?     - CNET](https://www.cnet.com/tech/mobile/with-pixel-6-coming-soon-is-it-still-worth-buying-a-pixel-3-4-5/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
