@@ -194,7 +194,7 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [The guy is surprised by a meal from a stranger](http://9gag.com/gag/a51pzXg)
- - 🚯 [I&#039;m sorry by inconveniencing you by letting you pass](http://9gag.com/gag/aDDRb3d)
+ - 🚯 [The farmer who found a way to get rid of agricultural pests without using pesticides. This is brilliant and they are still alive.](http://9gag.com/gag/aXrZ76b)
  - 🚯 [It&rsquo;s Us Against The World](http://9gag.com/gag/a11pe38)<!-- MEMES:END -->
 
 --- 
