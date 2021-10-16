@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Somewhere in Brazil, Police helicopter found it while on some unrelated mission. Could Hihlah have made it here?](http://9gag.com/gag/arn1zoy)
- - 🚯 [I should not have said that....](http://9gag.com/gag/arn1zO7)
+ - 🚖 [As yiss](http://9gag.com/gag/aegK7vv)
+ - 🚯 [When train driver doesn&#039;t give a flying f](http://9gag.com/gag/aM4eynX)
  - 🚯 [Amtrak train slams into semi-truck hauling several cars in Oklahoma](http://9gag.com/gag/aze7Qmq)<!-- MEMES:END -->
 
 --- 
