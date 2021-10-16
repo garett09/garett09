@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Oxygen OS 12 beta hands-on: Color OS by any other name](https://www.androidauthority.com/oxygen-os-12-3040283/)
- - [2022 Toyota Tundra, Subaru BRZ, Lexus LX 600 and more: Roadshow's week in review     - Roadshow](https://www.cnet.com/roadshow/news/2022-toyota-tundra-subaru-brz-lexus-lx-600-week-in-review/#ftag=CAD590a51e)
- - [With Pixel 6 coming soon, is it still worth buying a Pixel 3, 4 or 5?     - CNET](https://www.cnet.com/tech/mobile/with-pixel-6-coming-soon-is-it-still-worth-buying-a-pixel-3-4-5/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [NASA launches its Lucy spacecraft to study the Jupiter Trojan asteroids](https://www.theverge.com/2021/10/16/22729626/nasa-launches-lucy-probe-study-jupiter-trojan-asteroids)
+ - [Hackers Keep Targeting the US Water Supply](https://www.wired.com/story/water-supply-hackers-ios-zero-day-navy-spy-security-news)
+ - [Snag a Samsung soundbar for a low price from Newegg](https://www.theverge.com/good-deals/2021/10/16/22728510/samsung-soundbar-acer-monitor-echo-buds-galaxy-book-deal-sale)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
