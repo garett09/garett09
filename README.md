@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [John Wick](http://9gag.com/gag/aLv6mAW)
- - 🚯 [The guy is surprised by a meal from a stranger](http://9gag.com/gag/a51pzXg)
- - 🚯 [Love is Love.](http://9gag.com/gag/axBEO9W)<!-- MEMES:END -->
+ - 🚖 [Boop!](http://9gag.com/gag/aM4evXM)
+ - 🚯 [Matthew Lillard cheering up a fan with his Shaggy voice](http://9gag.com/gag/a31v25Q)
+ - 🚯 [Always](http://9gag.com/gag/aVxjZB2)<!-- MEMES:END -->
 
 --- 
 
