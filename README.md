@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The guy is surprised by a meal from a stranger](http://9gag.com/gag/a51pzXg)
- - 🚯 [The farmer who found a way to get rid of agricultural pests without using pesticides. This is brilliant and they are still alive.](http://9gag.com/gag/aXrZ76b)
+ - 🚖 [Daughter surprises her 85 year old dad by tracking down his best friend from the war whom he thought died and flew him in to reunite them](http://9gag.com/gag/aLv6G5v)
+ - 🚯 [The guy is surprised by a meal from a stranger](http://9gag.com/gag/a51pzXg)
  - 🚯 [It&rsquo;s Us Against The World](http://9gag.com/gag/a11pe38)<!-- MEMES:END -->
 
 --- 
