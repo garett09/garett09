@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Coming November 2 to Xbox Game Pass for PC: Minecraft Java and Bedrock Editions](https://news.xbox.com/en-us/2021/10/16/coming-november-2-to-xbox-game-pass-for-pc-minecraft-java-and-bedrock-editions/)
- - [Remastered GTA Trilogy Will Seemingly Feature GTA V-Style Controls And High-Res Textures](https://kotaku.com/remastered-gta-trilogy-will-seemingly-feature-gta-v-sty-1847877768)
- - [AnalogueOS bring save states, screenshots and more to Pocket](https://www.polygon.com/22728859/analogue-pocket-save-states-playlists-library-fpga)<!-- GAME:END -->
+ - [HBO Max’s Peacemaker trailer promises more profane Suicide Squad comedy in 2022](https://www.polygon.com/22724660/peacemaker-trailer-tv-release-date-hbo-max)
+ - [Recapping Minecraft Live 2021](https://news.xbox.com/en-us/2021/10/16/recapping-minecraft-live-2021/)
+ - [Minecraft is coming to Xbox Game Pass for PC](https://www.pcgamer.com/minecraft-is-coming-to-xbox-game-pass-for-pc)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
