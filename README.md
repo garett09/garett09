@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Need a Cheap Laptop? These Are Our Favorites](https://www.wired.com/gallery/best-cheap-laptops)
- - [How the Demise of Dinosaurs Led to the Rise of Snakes](https://www.wired.com/story/dinosaur-extinction-snake-biodiversity)
- - [How to Stop Action Movies From Blasting Your Ears Off](https://www.wired.com/story/how-to-make-movie-dialogue-clear)<!-- TECH:END -->
+ - [It’s high time smartwatch buyers demand a week of battery life](https://www.androidauthority.com/smartwatch-battery-life-3037514/)
+ - [The 10 Best TVs We've Tested (and Helpful Buying Tips)](https://www.wired.com/gallery/best-tvs)
+ - [Apple’s October ‘Unleashed’ event: what to expect](https://www.theverge.com/2021/10/17/22725365/apple-october-macbook-event-unleashed-rumors-pro-airpods)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
