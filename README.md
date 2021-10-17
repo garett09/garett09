@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Convex, which provides software for the commercial services industry, raises a $39M Series B, bringing its total raised to $60M (FinSMEs)](http://www.techmeme.com/211016/p10#a211016p10)
- - [The Flash trailer teases Michael Keaton's Batman (and Batmobile) at DC Fandome     - CNET](https://www.cnet.com/news/the-flash-trailer-teases-michael-keaton-batman-batmobile/#ftag=CAD590a51e)
- - [Instagram internal documents reveal fear of losing teens, report says     - CNET](https://www.cnet.com/news/instagram-internal-documents-reveal-fear-of-losing-teens-report-says/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Superman's new motto swaps 'American way' for 'a better tomorrow'     - CNET](https://www.cnet.com/news/supermans-new-motto-swaps-american-way-for-a-better-tomorrow/#ftag=CAD590a51e)
+ - [Analysis: median CEO pay of US tech startups that went public in 2020 was $21.9M; seven of the 10 best-paid CEOs of US public companies were from such startups (Eliot Brown/Wall Street Journal)](http://www.techmeme.com/211016/p11#a211016p11)
+ - [Convex, which provides software for the commercial services industry, raises a $39M Series B, bringing its total raised to $60M (FinSMEs)](http://www.techmeme.com/211016/p10#a211016p10)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
