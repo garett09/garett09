@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [LBGTQXZHIJKLMNOP](http://9gag.com/gag/aKm4nD6)
- - 🚯 [I can relate](http://9gag.com/gag/aWgBN03)
- - 🚯 [The science of cows](http://9gag.com/gag/a71vPvA)<!-- MEMES:END -->
+ - 🚖 [How &ldquo;common&rdquo; exactly?](http://9gag.com/gag/ay9EZdq)
+ - 🚯 [What are you grateful for today?](http://9gag.com/gag/aAGBqDE)
+ - 🚯 [LBGTQXZHIJKLMNOP](http://9gag.com/gag/aKm4nD6)<!-- MEMES:END -->
 
 --- 
 
