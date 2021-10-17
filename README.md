@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [New trailer for The Batman reveals super-intense Robert Pattinson action     - CNET](https://www.cnet.com/news/new-trailer-for-the-batman-reveals-super-intense-robert-pattinson-action/#ftag=CAD590a51e)
- - [The biggest announcements from DC FanDome](https://www.theverge.com/2021/10/16/22729057/biggest-announcements-dc-fandome-batman-black-adam-hbo-warner)
- - [The best Michael Kors smartwatches for men in 2021](https://www.androidauthority.com/best-michael-kors-smartwatches-men-3022684/)<!-- TECH:END -->
+ - [Convex, which provides software for the commercial services industry, raises a $39M Series B, bringing its total raised to $60M (FinSMEs)](http://www.techmeme.com/211016/p10#a211016p10)
+ - [The Flash trailer teases Michael Keaton's Batman (and Batmobile) at DC Fandome     - CNET](https://www.cnet.com/news/the-flash-trailer-teases-michael-keaton-batman-batmobile/#ftag=CAD590a51e)
+ - [Instagram internal documents reveal fear of losing teens, report says     - CNET](https://www.cnet.com/news/instagram-internal-documents-reveal-fear-of-losing-teens-report-says/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
