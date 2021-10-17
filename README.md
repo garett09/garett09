@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Maybe not just drunk?](http://9gag.com/gag/aDDRPAN)
- - 🚯 [Trashy olympics](http://9gag.com/gag/aNPm3p6)
- - 🚯 [This is what Mars looks like at night](http://9gag.com/gag/aGzKoL5)<!-- MEMES:END -->
+ - 🚖 [Back when the MCU acknowledged its adult audience](http://9gag.com/gag/aqG4dAp)
+ - 🚯 [Ayo mr president](http://9gag.com/gag/aGzKo4K)
+ - 🚯 [When train driver doesn&#039;t give a flying f](http://9gag.com/gag/aM4eynX)<!-- MEMES:END -->
 
 --- 
 
