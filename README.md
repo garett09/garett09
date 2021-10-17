@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Facebook disputes WSJ report, saying the prevalence of hate speech on the platform dropped by 50% over the past three years to about 0.05% of content viewed (Kim Lyons/The Verge)](http://www.techmeme.com/211017/p8#a211017p8)
- - [Watch John Carpenter’s satirical masterpiece They Live on Peacock](https://www.androidauthority.com/they-live-john-carpenter-peacock-3040411/)
- - [Apple Search Ads grows during App Tracking Transparency push](https://appleinsider.com/articles/21/10/17/apple-search-ads-grows-during-app-tracking-transparency-push?utm_medium=rss)<!-- TECH:END -->
+ - [Masked Singer: Artist Who Was Cupcake Dishes on Unmasking](https://techncruncher.blogspot.com/2021/10/masked-singer-artist-who-was-cupcake.html)
+ - [Breakfast Club Star Anthony Michael Hall Says The Brat Pack Never Existed](https://techncruncher.blogspot.com/2021/10/breakfast-club-star-anthony-michael.html)
+ - [D&D: Why Spelljammer Is Likely To Return | Screen Rant](https://techncruncher.blogspot.com/2021/10/d-why-spelljammer-is-likely-to-return.html)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
