@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Back when the MCU acknowledged its adult audience](http://9gag.com/gag/aqG4dAp)
- - 🚯 [She single handedly made me stop watching the show.](http://9gag.com/gag/adgybDM)
- - 🚯 [Awesome peripheral vision](http://9gag.com/gag/aVxj13M)<!-- MEMES:END -->
+ - 🚖 [She single handedly made me stop watching the show.](http://9gag.com/gag/adgybDM)
+ - 🚯 [This is what Mars looks like at night](http://9gag.com/gag/aGzKoL5)
+ - 🚯 [That&#039;s what happens when you fire 700 continuous rounds](http://9gag.com/gag/aVxjdzd)<!-- MEMES:END -->
 
 --- 
 
