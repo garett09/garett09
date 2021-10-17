@@ -193,7 +193,7 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What are you grateful for today?](http://9gag.com/gag/aAGBqDE)
+ - 🚖 [So Many Things Have Changed in 30 Years](http://9gag.com/gag/aqG4Bdj)
  - 🚯 [Angel Voice](http://9gag.com/gag/axBEQ7W)
  - 🚯 [LBGTQXZHIJKLMNOP](http://9gag.com/gag/aKm4nD6)<!-- MEMES:END -->
 
