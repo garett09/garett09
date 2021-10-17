@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Masked Singer: Artist Who Was Cupcake Dishes on Unmasking](https://techncruncher.blogspot.com/2021/10/masked-singer-artist-who-was-cupcake.html)
- - [Breakfast Club Star Anthony Michael Hall Says The Brat Pack Never Existed](https://techncruncher.blogspot.com/2021/10/breakfast-club-star-anthony-michael.html)
- - [D&D: Why Spelljammer Is Likely To Return | Screen Rant](https://techncruncher.blogspot.com/2021/10/d-why-spelljammer-is-likely-to-return.html)<!-- TECH:END -->
+ - [The best Garmin Venu 2 bands: Leather, silicone, stainless steel, and more](https://www.androidauthority.com/best-garmin-venu-2-bands-3028935/)
+ - [What to expect from Apple's Unleashed event on Monday: 14-inch and 16-inch MacBook Pros with mini-LED, AirPods 3, redesigned Mac mini, and macOS Monterey launch (Juli Clover/MacRumors)](http://www.techmeme.com/211017/p10#a211017p10)
+ - [A Sinister Six Movie Should Copy Spider-Man: No Way Home & Bring In Miles](https://techncruncher.blogspot.com/2021/10/a-sinister-six-movie-should-copy-spider.html)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
