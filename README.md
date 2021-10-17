@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Team Spirit wins $18M Dota 2 championship in close finals](https://www.pcgamer.com/team-spirit-wins-dollar18m-dota-2-championship-at-last-second)
  - [Seven Weeks After Launch, Fewer Than 800 People Are Playing Aliens: Fireteam Elite](https://kotaku.com/seven-weeks-after-launch-less-than-800-people-are-play-1847881309)
- - [You Can Now Play Doom Via Twitter](https://kotaku.com/you-can-now-play-doom-via-twitter-1847881209)
- - [The Best (Not Scary) Games To Play This Halloween Season](https://kotaku.com/the-best-not-scary-games-to-play-on-halloween-1844512015)<!-- GAME:END -->
+ - [You Can Now Play Doom Via Twitter](https://kotaku.com/you-can-now-play-doom-via-twitter-1847881209)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
