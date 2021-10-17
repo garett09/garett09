@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [New trailer for The Batman reveals super-intense Robert Pattinson action     - CNET](https://www.cnet.com/news/new-trailer-for-the-batman-reveals-super-intense-robert-pattinson-action/#ftag=CAD590a51e)
  - [The biggest announcements from DC FanDome](https://www.theverge.com/2021/10/16/22729057/biggest-announcements-dc-fandome-batman-black-adam-hbo-warner)
- - [The best Michael Kors smartwatches for men in 2021](https://www.androidauthority.com/best-michael-kors-smartwatches-men-3022684/)
- - [Xfinity vs. Vivint: Which professional home security system is better?     - CNET](https://www.cnet.com/home/security/xfinity-vs-vivint-which-professional-home-security-system-is-better/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The best Michael Kors smartwatches for men in 2021](https://www.androidauthority.com/best-michael-kors-smartwatches-men-3022684/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
