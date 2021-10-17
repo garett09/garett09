@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [It’s high time smartwatch buyers demand a week of battery life](https://www.androidauthority.com/smartwatch-battery-life-3037514/)
- - [The 10 Best TVs We've Tested (and Helpful Buying Tips)](https://www.wired.com/gallery/best-tvs)
- - [Apple’s October ‘Unleashed’ event: what to expect](https://www.theverge.com/2021/10/17/22725365/apple-october-macbook-event-unleashed-rumors-pro-airpods)<!-- TECH:END -->
+ - [Hollywood union reaches contract agreement over streaming pay to avoid strike](https://www.theverge.com/2021/10/17/22731087/hollywood-union-reaches-contract-agreement-iatse-avoids-strike)
+ - [Monolith TrueWireless Earphones Review: price isn't everything](https://appleinsider.com/articles/21/10/17/monolith-truewireless-earphones-review-price-isnt-everything?utm_medium=rss)
+ - [Apple considered making a cloud gaming service alongside Apple Arcade](https://appleinsider.com/articles/21/10/17/apple-considered-making-a-cloud-gaming-service-alongside-apple-arcade?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
