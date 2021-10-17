@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Bicyclists protest by blocking roads with bikes](http://9gag.com/gag/aqG4BWM)
- - 🚯 [Great show.](http://9gag.com/gag/awzNPYx)
+ - 🚖 [WTF](http://9gag.com/gag/aegKqoB)
+ - 🚯 [His face](http://9gag.com/gag/aWgBe6A)
  - 🚯 [What&#039;d you do in a Walker outbreak?](http://9gag.com/gag/aGzKNQ0)<!-- MEMES:END -->
 
 --- 
