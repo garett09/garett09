@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Facebook disputes report that its AI can’t detect hate speech or violence consistently](https://www.theverge.com/2021/10/17/22731214/facebook-disputes-report-artificial-intelligence-hate-speech-violence)
- - [Internal documents: Facebook's AI has minimal success enforcing its rules against problematic content, including removing just an estimated 3%-5% of hate speech (Wall Street Journal)](http://www.techmeme.com/211017/p6#a211017p6)
- - [Change my mind: Reddit is a social network and it’s the best one out there](https://www.androidauthority.com/reddit-vs-facebook-vs-twitter-3037642/)<!-- TECH:END -->
+ - [Facebook disputes WSJ report, saying the prevalence of hate speech on the platform dropped by 50% over the past three years to about 0.05% of content viewed (Kim Lyons/The Verge)](http://www.techmeme.com/211017/p8#a211017p8)
+ - [Watch John Carpenter’s satirical masterpiece They Live on Peacock](https://www.androidauthority.com/they-live-john-carpenter-peacock-3040411/)
+ - [Apple Search Ads grows during App Tracking Transparency push](https://appleinsider.com/articles/21/10/17/apple-search-ads-grows-during-app-tracking-transparency-push?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
