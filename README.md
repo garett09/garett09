@@ -188,7 +188,7 @@ Windows                  3 hrs 9 mins        ███████████�
 <!-- TECH:START -->
  - [The best Garmin Venu 2 bands: Leather, silicone, stainless steel, and more](https://www.androidauthority.com/best-garmin-venu-2-bands-3028935/)
  - [What to expect from Apple's Unleashed event on Monday: 14-inch and 16-inch MacBook Pros with mini-LED, AirPods 3, redesigned Mac mini, and macOS Monterey launch (Juli Clover/MacRumors)](http://www.techmeme.com/211017/p10#a211017p10)
- - [A Sinister Six Movie Should Copy Spider-Man: No Way Home & Bring In Miles](https://techncruncher.blogspot.com/2021/10/a-sinister-six-movie-should-copy-spider.html)<!-- TECH:END -->
+ - [Squid Game skit on SNL: Pete Davidson and Rami Malek deliver a deadly parody     - CNET](https://www.cnet.com/news/squid-game-skit-on-snl-pete-davidson-and-rami-malek-deliver-a-deadly-parody/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
