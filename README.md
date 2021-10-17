@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Suicide Squad: Kill the Justice League trailer has a bunch of callbacks to the Arkham games](https://www.pcgamer.com/suicide-squad-kill-the-justice-league-trailer-has-a-bunch-of-callbacks-to-the-arkham-games)
- - [In survival RTS Age of Darkness, thousands of enemies aren't the only threat](https://www.pcgamer.com/in-survival-rts-age-of-darkness-thousands-of-enemies-arent-the-only-threat)
- - [Minecraft Announces Mud And Frogs, Fans Go Wild](https://kotaku.com/minecraft-announces-mud-and-frogs-fans-go-wild-1847879147)<!-- GAME:END -->
+ - [Even Family Guy’s Arif Zahir was stunned when he was cast as the new Cleveland](https://www.polygon.com/22728435/family-guy-cleveland-new-voice-actor-arif-zahir-mike)
+ - [The Halloween Countdown: 31 days of horror](https://www.polygon.com/22702474/best-halloween-movies-tv-to-watch-stream)
+ - [Suicide Squad: Kill the Justice League trailer has a bunch of callbacks to the Arkham games](https://www.pcgamer.com/suicide-squad-kill-the-justice-league-trailer-has-a-bunch-of-callbacks-to-the-arkham-games)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
