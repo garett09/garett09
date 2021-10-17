@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Are you?](http://9gag.com/gag/aE8dKqM)
- - 🚯 [Especially The Quickening](http://9gag.com/gag/aze7zrp)
+ - 🚖 [WTF](http://9gag.com/gag/aegKqoB)
+ - 🚯 [F**K YEAHHH](http://9gag.com/gag/apgKnep)
  - 🚯 [What&#039;d you do in a Walker outbreak?](http://9gag.com/gag/aGzKNQ0)<!-- MEMES:END -->
 
 --- 
