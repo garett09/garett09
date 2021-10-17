@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The number one threat.](http://9gag.com/gag/aKm4KG3)
- - 🚯 [This is what Mars looks like at night](http://9gag.com/gag/aGzKoL5)
- - 🚯 [Trashy olympics](http://9gag.com/gag/aNPm3p6)<!-- MEMES:END -->
+ - 🚖 [Maybe not just drunk?](http://9gag.com/gag/aDDRPAN)
+ - 🚯 [Trashy olympics](http://9gag.com/gag/aNPm3p6)
+ - 🚯 [This is what Mars looks like at night](http://9gag.com/gag/aGzKoL5)<!-- MEMES:END -->
 
 --- 
 
