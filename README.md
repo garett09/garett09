@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Sunday Comics: Incredible, Sam!](https://kotaku.com/sunday-comics-incredible-sam-1847880801)
  - [Even Family Guy’s Arif Zahir was stunned when he was cast as the new Cleveland](https://www.polygon.com/22728435/family-guy-cleveland-new-voice-actor-arif-zahir-mike)
- - [The Halloween Countdown: 31 days of horror](https://www.polygon.com/22702474/best-halloween-movies-tv-to-watch-stream)
- - [Suicide Squad: Kill the Justice League trailer has a bunch of callbacks to the Arkham games](https://www.pcgamer.com/suicide-squad-kill-the-justice-league-trailer-has-a-bunch-of-callbacks-to-the-arkham-games)<!-- GAME:END -->
+ - [The Halloween Countdown: 31 days of horror](https://www.polygon.com/22702474/best-halloween-movies-tv-to-watch-stream)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
