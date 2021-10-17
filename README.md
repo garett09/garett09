@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [His face](http://9gag.com/gag/aWgBe6A)
- - 🚯 [Idiot in Bentley head on collision ends up on crimewat he UK.](http://9gag.com/gag/aze7owz)
+ - 🚖 [Idiot in Bentley head on collision ends up on crimewat he UK.](http://9gag.com/gag/aze7owz)
+ - 🚯 [I Knew It](http://9gag.com/gag/a0ZvzVX)
  - 🚯 [What&#039;d you do in a Walker outbreak?](http://9gag.com/gag/aGzKNQ0)<!-- MEMES:END -->
 
 --- 
