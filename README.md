@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [You Can Now Play Doom Via Twitter](https://kotaku.com/you-can-now-play-doom-via-twitter-1847881209)
  - [The Best (Not Scary) Games To Play This Halloween Season](https://kotaku.com/the-best-not-scary-games-to-play-on-halloween-1844512015)
- - [Sunday Comics: Incredible, Sam!](https://kotaku.com/sunday-comics-incredible-sam-1847880801)
- - [Even Family Guy’s Arif Zahir was stunned when he was cast as the new Cleveland](https://www.polygon.com/22728435/family-guy-cleveland-new-voice-actor-arif-zahir-mike)<!-- GAME:END -->
+ - [Sunday Comics: Incredible, Sam!](https://kotaku.com/sunday-comics-incredible-sam-1847880801)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
