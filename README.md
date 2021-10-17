@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This is what Mars looks like at night](http://9gag.com/gag/aGzKoL5)
- - 🚯 [Oh no..](http://9gag.com/gag/ajgQMyp)
- - 🚯 [This Germans engineers](http://9gag.com/gag/awzN8PB)<!-- MEMES:END -->
+ - 🚖 [Ayo mr president](http://9gag.com/gag/aGzKo4K)
+ - 🚯 [This Germans engineers](http://9gag.com/gag/awzN8PB)
+ - 🚯 [Oh no..](http://9gag.com/gag/ajgQMyp)<!-- MEMES:END -->
 
 --- 
 
