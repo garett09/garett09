@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at YouTube's in-house creator partnerships team, which has over 1,000 employees across 45 countries offering advice and guidance to about 12,000 creators (Tripp Mickle/Wall Street Journal)](http://www.techmeme.com/211017/p3#a211017p3)
- - [5 things I wish I’d known before building an advanced smart home](https://www.androidauthority.com/building-a-smart-home-3039627/)
- - [How to Watch Apple’s October 18 Event—and What to Expect](https://www.wired.com/story/apple-october-2021-event-how-to-watch-what-to-expect)<!-- TECH:END -->
+ - [NFL 2021: How to watch Dolphins vs. Jaguars, Seahawks vs. Steelers, RedZone and Week 6 without cable     - CNET](https://www.cnet.com/tech/home-entertainment/nfl-2021-how-to-watch-dolphins-vs-jaguars-seahawks-vs-steelers-redzone-and-week-6-without-cable/#ftag=CAD590a51e)
+ - [The best meat delivery in 2021: Snake River Farms, Omaha Steaks, Rastelli's and more     - CNET](https://www.cnet.com/home/kitchen-and-household/best-meat-delivery-options/#ftag=CAD590a51e)
+ - [Super73 RX: Top-tier e-bike can tackle any roads     - Roadshow](https://www.cnet.com/roadshow/news/super73-rx-top-tier-e-bike-can-tackle-any-roads/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
