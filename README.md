@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple activist reportedly fired after deleting files on work device](https://techncruncher.blogspot.com/2021/10/apple-activist-reportedly-fired-after.html)
- - [Internal document: Netflix estimates Squid Game will create almost $900M in value for the company; 87M viewers have finished the series in the first 23 days (Lucas Shaw/Bloomberg)](http://www.techmeme.com/211017/p2#a211017p2)
- - [Best Chromebook in 2021: 7 best Chromebooks starting under $300     - CNET](https://www.cnet.com/tech/computing/best-chromebook/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A look at YouTube's in-house creator partnerships team, which has over 1,000 employees across 45 countries offering advice and guidance to about 12,000 creators (Tripp Mickle/Wall Street Journal)](http://www.techmeme.com/211017/p3#a211017p3)
+ - [5 things I wish I’d known before building an advanced smart home](https://www.androidauthority.com/building-a-smart-home-3039627/)
+ - [How to Watch Apple’s October 18 Event—and What to Expect](https://www.wired.com/story/apple-october-2021-event-how-to-watch-what-to-expect)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
