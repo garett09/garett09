@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This Germans engineers](http://9gag.com/gag/awzN8PB)
- - 🚯 [Back when the MCU acknowledged its adult audience](http://9gag.com/gag/aqG4dAp)
- - 🚯 [OR...F**KING...WHATTTT!!!!!!](http://9gag.com/gag/aOQoGp2)<!-- MEMES:END -->
+ - 🚖 [Back when the MCU acknowledged its adult audience](http://9gag.com/gag/aqG4dAp)
+ - 🚯 [She single handedly made me stop watching the show.](http://9gag.com/gag/adgybDM)
+ - 🚯 [Awesome peripheral vision](http://9gag.com/gag/aVxj13M)<!-- MEMES:END -->
 
 --- 
 
