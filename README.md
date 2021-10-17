@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [She single handedly made me stop watching the show.](http://9gag.com/gag/adgybDM)
- - 🚯 [This is what Mars looks like at night](http://9gag.com/gag/aGzKoL5)
- - 🚯 [That&#039;s what happens when you fire 700 continuous rounds](http://9gag.com/gag/aVxjdzd)<!-- MEMES:END -->
+ - 🚖 [This is what Mars looks like at night](http://9gag.com/gag/aGzKoL5)
+ - 🚯 [Oh no..](http://9gag.com/gag/ajgQMyp)
+ - 🚯 [This Germans engineers](http://9gag.com/gag/awzN8PB)<!-- MEMES:END -->
 
 --- 
 
