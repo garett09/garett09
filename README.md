@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Superman's new motto swaps 'American way' for 'a better tomorrow'     - CNET](https://www.cnet.com/news/supermans-new-motto-swaps-american-way-for-a-better-tomorrow/#ftag=CAD590a51e)
- - [Analysis: median CEO pay of US tech startups that went public in 2020 was $21.9M; seven of the 10 best-paid CEOs of US public companies were from such startups (Eliot Brown/Wall Street Journal)](http://www.techmeme.com/211016/p11#a211016p11)
- - [Convex, which provides software for the commercial services industry, raises a $39M Series B, bringing its total raised to $60M (FinSMEs)](http://www.techmeme.com/211016/p10#a211016p10)<!-- TECH:END -->
+ - [Internal document: Netflix estimates Squid Game will create almost $900M in value for the company; 87M viewers have finished the series in the first 23 days (Lucas Shaw/Bloomberg)](http://www.techmeme.com/211017/p2#a211017p2)
+ - [Best Chromebook in 2021: 7 best Chromebooks starting under $300     - CNET](https://www.cnet.com/tech/computing/best-chromebook/#ftag=CAD590a51e)
+ - [Analysis: Apple's Search Ads now account for 58% of iPhone app downloads resulting from an ad click; Apple to earn $5B from its ads business this fiscal year (Patrick McGee/Financial Times)](http://www.techmeme.com/211017/p1#a211017p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
