@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Team Spirit wins $18M Dota 2 championship in close finals](https://www.pcgamer.com/team-spirit-wins-dollar18m-dota-2-championship-at-last-second)
- - [Seven Weeks After Launch, Fewer Than 800 People Are Playing Aliens: Fireteam Elite](https://kotaku.com/seven-weeks-after-launch-less-than-800-people-are-play-1847881309)
- - [You Can Now Play Doom Via Twitter](https://kotaku.com/you-can-now-play-doom-via-twitter-1847881209)<!-- GAME:END -->
+ - [Sony Threatens Dbrand With Legal Action Over PS5 Plates](https://kotaku.com/sony-threatens-dbrand-with-legal-action-over-ps5-plates-1847881873)
+ - [The Week In Games: Time To Buy Resident Evil 4 (Again)](https://kotaku.com/the-week-in-games-time-to-buy-resident-evil-4-again-1847881693)
+ - [Team Spirit wins $18M Dota 2 championship in close finals](https://www.pcgamer.com/team-spirit-wins-dollar18m-dota-2-championship-at-last-second)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
