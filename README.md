@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [She single handedly made me stop watching the show.](http://9gag.com/gag/adgybDM)
- - 🚯 [Somewhere in Brazil, Police helicopter found it while on some unrelated mission. Could Hihlah have made it here?](http://9gag.com/gag/arn1zoy)
+ - 🚖 [Maybe not just drunk?](http://9gag.com/gag/aDDRPAN)
+ - 🚯 [She single handedly made me stop watching the show.](http://9gag.com/gag/adgybDM)
  - 🚯 [Trashy olympics](http://9gag.com/gag/aNPm3p6)<!-- MEMES:END -->
 
 --- 
