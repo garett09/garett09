@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Suicide Squad: Kill the Justice League trailer has a bunch of callbacks to the Arkham games](https://www.pcgamer.com/suicide-squad-kill-the-justice-league-trailer-has-a-bunch-of-callbacks-to-the-arkham-games)
  - [In survival RTS Age of Darkness, thousands of enemies aren't the only threat](https://www.pcgamer.com/in-survival-rts-age-of-darkness-thousands-of-enemies-arent-the-only-threat)
- - [Minecraft Announces Mud And Frogs, Fans Go Wild](https://kotaku.com/minecraft-announces-mud-and-frogs-fans-go-wild-1847879147)
- - [The best horror movies you can stream right now](https://www.polygon.com/22725152/best-horror-movies-netflix-amazon-prime-hulu-hbo)<!-- GAME:END -->
+ - [Minecraft Announces Mud And Frogs, Fans Go Wild](https://kotaku.com/minecraft-announces-mud-and-frogs-fans-go-wild-1847879147)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
