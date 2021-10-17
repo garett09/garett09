@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [NFL 2021: How to watch Dolphins vs. Jaguars, Seahawks vs. Steelers, RedZone and Week 6 without cable     - CNET](https://www.cnet.com/tech/home-entertainment/nfl-2021-how-to-watch-dolphins-vs-jaguars-seahawks-vs-steelers-redzone-and-week-6-without-cable/#ftag=CAD590a51e)
- - [The best meat delivery in 2021: Snake River Farms, Omaha Steaks, Rastelli's and more     - CNET](https://www.cnet.com/home/kitchen-and-household/best-meat-delivery-options/#ftag=CAD590a51e)
- - [Super73 RX: Top-tier e-bike can tackle any roads     - Roadshow](https://www.cnet.com/roadshow/news/super73-rx-top-tier-e-bike-can-tackle-any-roads/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Need a Cheap Laptop? These Are Our Favorites](https://www.wired.com/gallery/best-cheap-laptops)
+ - [How the Demise of Dinosaurs Led to the Rise of Snakes](https://www.wired.com/story/dinosaur-extinction-snake-biodiversity)
+ - [How to Stop Action Movies From Blasting Your Ears Off](https://www.wired.com/story/how-to-make-movie-dialogue-clear)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
