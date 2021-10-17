@@ -193,7 +193,7 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Guy walks behind an RPG as its firing and lost conscious. he&#039;s alive afterwards. most likely lost his hearing.](http://9gag.com/gag/aDDRL9w)
+ - 🚖 [Are you?](http://9gag.com/gag/aE8dKqM)
  - 🚯 [Especially The Quickening](http://9gag.com/gag/aze7zrp)
  - 🚯 [What&#039;d you do in a Walker outbreak?](http://9gag.com/gag/aGzKNQ0)<!-- MEMES:END -->
 
