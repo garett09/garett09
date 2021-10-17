@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Back when the MCU acknowledged its adult audience](http://9gag.com/gag/aqG4dAp)
- - 🚯 [Ayo mr president](http://9gag.com/gag/aGzKo4K)
- - 🚯 [When train driver doesn&#039;t give a flying f](http://9gag.com/gag/aM4eynX)<!-- MEMES:END -->
+ - 🚖 [This Germans engineers](http://9gag.com/gag/awzN8PB)
+ - 🚯 [Back when the MCU acknowledged its adult audience](http://9gag.com/gag/aqG4dAp)
+ - 🚯 [OR...F**KING...WHATTTT!!!!!!](http://9gag.com/gag/aOQoGp2)<!-- MEMES:END -->
 
 --- 
 
