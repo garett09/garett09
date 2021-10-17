@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ayo mr president](http://9gag.com/gag/aGzKo4K)
- - 🚯 [This Germans engineers](http://9gag.com/gag/awzN8PB)
- - 🚯 [Oh no..](http://9gag.com/gag/ajgQMyp)<!-- MEMES:END -->
+ - 🚖 [LBGTQXZHIJKLMNOP](http://9gag.com/gag/aKm4nD6)
+ - 🚯 [I can relate](http://9gag.com/gag/aWgBN03)
+ - 🚯 [The science of cows](http://9gag.com/gag/a71vPvA)<!-- MEMES:END -->
 
 --- 
 
