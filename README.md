@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Happy](http://9gag.com/gag/abg3LV8)
- - 🚯 [Young woman being threatened by drunk man on central line in London &amp; bunch of guys come to the rescue](http://9gag.com/gag/aPZ6zKP)
+ - 🚖 [Guy walks behind an RPG as its firing and lost conscious. he&#039;s alive afterwards. most likely lost his hearing.](http://9gag.com/gag/aDDRL9w)
+ - 🚯 [Especially The Quickening](http://9gag.com/gag/aze7zrp)
  - 🚯 [What&#039;d you do in a Walker outbreak?](http://9gag.com/gag/aGzKNQ0)<!-- MEMES:END -->
 
 --- 
