@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hollywood union reaches contract agreement over streaming pay to avoid strike](https://www.theverge.com/2021/10/17/22731087/hollywood-union-reaches-contract-agreement-iatse-avoids-strike)
- - [Monolith TrueWireless Earphones Review: price isn't everything](https://appleinsider.com/articles/21/10/17/monolith-truewireless-earphones-review-price-isnt-everything?utm_medium=rss)
- - [Apple considered making a cloud gaming service alongside Apple Arcade](https://appleinsider.com/articles/21/10/17/apple-considered-making-a-cloud-gaming-service-alongside-apple-arcade?utm_medium=rss)<!-- TECH:END -->
+ - [Change my mind: Reddit is a social network and it’s the best one out there](https://www.androidauthority.com/reddit-vs-facebook-vs-twitter-3037642/)
+ - [You Season 3 review: There's something compelling about toxic people doing toxic things     - CNET](https://www.cnet.com/news/you-season-3-review-theres-something-compelling-about-toxic-people-doing-toxic-things/#ftag=CAD590a51e)
+ - [Apple's October event: How to watch the expected Mac upgrades debut live     - CNET](https://www.cnet.com/tech/computing/apples-october-event-how-to-watch-the-expected-mac-upgrades-debut-live/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
