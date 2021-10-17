@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [WTF](http://9gag.com/gag/aegKqoB)
- - 🚯 [His face](http://9gag.com/gag/aWgBe6A)
+ - 🚖 [Happy](http://9gag.com/gag/abg3LV8)
+ - 🚯 [Young woman being threatened by drunk man on central line in London &amp; bunch of guys come to the rescue](http://9gag.com/gag/aPZ6zKP)
  - 🚯 [What&#039;d you do in a Walker outbreak?](http://9gag.com/gag/aGzKNQ0)<!-- MEMES:END -->
 
 --- 
