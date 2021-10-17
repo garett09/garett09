@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [In survival RTS Age of Darkness, thousands of enemies aren't the only threat](https://www.pcgamer.com/in-survival-rts-age-of-darkness-thousands-of-enemies-arent-the-only-threat)
  - [Minecraft Announces Mud And Frogs, Fans Go Wild](https://kotaku.com/minecraft-announces-mud-and-frogs-fans-go-wild-1847879147)
- - [The best horror movies you can stream right now](https://www.polygon.com/22725152/best-horror-movies-netflix-amazon-prime-hulu-hbo)
- - [Gotham Knights trailer introduces the villainous Court of Owls](https://www.pcgamer.com/gotham-knights-trailer-introduces-the-villainous-court-of-owls)<!-- GAME:END -->
+ - [The best horror movies you can stream right now](https://www.polygon.com/22725152/best-horror-movies-netflix-amazon-prime-hulu-hbo)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
