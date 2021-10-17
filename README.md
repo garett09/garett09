@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I Knew It](http://9gag.com/gag/a0ZvzVX)
- - 🚯 [Making chocolate from scratch.](http://9gag.com/gag/axBEQN2)
- - 🚯 [Angel Voice](http://9gag.com/gag/axBEQ7W)<!-- MEMES:END -->
+ - 🚖 [What are you grateful for today?](http://9gag.com/gag/aAGBqDE)
+ - 🚯 [Angel Voice](http://9gag.com/gag/axBEQ7W)
+ - 🚯 [LBGTQXZHIJKLMNOP](http://9gag.com/gag/aKm4nD6)<!-- MEMES:END -->
 
 --- 
 
