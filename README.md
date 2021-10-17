@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [New trailers: The Beatles: Get Back, Narcos: Mexico, The Batman, Hawkeye, and more](https://www.theverge.com/2021/10/17/22731180/new-trailers-the-beatles-narcos-batman-hawkeye-macbeth-netflix-disney-marvel)
  - [The best Garmin Venu 2 bands: Leather, silicone, stainless steel, and more](https://www.androidauthority.com/best-garmin-venu-2-bands-3028935/)
- - [What to expect from Apple's Unleashed event on Monday: 14-inch and 16-inch MacBook Pros with mini-LED, AirPods 3, redesigned Mac mini, and macOS Monterey launch (Juli Clover/MacRumors)](http://www.techmeme.com/211017/p10#a211017p10)
- - [Squid Game skit on SNL: Pete Davidson and Rami Malek deliver a deadly parody     - CNET](https://www.cnet.com/news/squid-game-skit-on-snl-pete-davidson-and-rami-malek-deliver-a-deadly-parody/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [What to expect from Apple's Unleashed event on Monday: 14-inch and 16-inch MacBook Pros with mini-LED, AirPods 3, redesigned Mac mini, and macOS Monterey launch (Juli Clover/MacRumors)](http://www.techmeme.com/211017/p10#a211017p10)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
