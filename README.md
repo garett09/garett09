@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [AirPods Pro now include MagSafe charging, still cost $249](https://appleinsider.com/articles/21/10/18/airpods-pro-now-include-magsafe-charging-still-cost-249?utm_medium=rss)
- - [Apple polishing cloth for nano-texture glass added to online store](https://appleinsider.com/articles/21/10/18/apple-polishing-cloth-for-nano-texture-glass-added-to-online-store?utm_medium=rss)
- - [New MacBook Pro preorders immediately see shipping date slips](https://appleinsider.com/articles/21/10/18/new-macbook-pro-preorders-immediately-see-shipping-date-slips?utm_medium=rss)<!-- TECH:END -->
+ - [Apple's 2021 MacBook Pro (14" and 16") is already on sale, save up to $305](https://appleinsider.com/articles/21/10/18/apples-2021-macbook-pro-14-and-16-is-already-on-sale-save-up-to-305?utm_medium=rss)
+ - [Apple updates Final Cut Pro, Logic Pro for M1 Pro, M1 Max chips](https://appleinsider.com/articles/21/10/18/apple-updates-final-cut-pro-logic-pro-for-m1-pro-m1-max-chips?utm_medium=rss)
+ - [macOS Monterey release candidate reintroduces Safari's old tab design as the default and Monterey's original Safari design as a "Compact" option (Juli Clover/MacRumors)](http://www.techmeme.com/211018/p28#a211018p28)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
