@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Look like your favorite Metal Gear Solid character, Cool Glassesman, with these Hideo Kojima shades](https://www.theverge.com/tldr/2021/10/18/22732413/hideo-kojima-glasses-sunglasses-collaboration-jean-francois-rey)
- - [NYSE says ProShares will launch an exchange-traded fund (ETF) linked to Bitcoin futures, giving investors exposure without having to hold bitcoin directly (New York Times)](http://www.techmeme.com/211018/p6#a211018p6)
- - [The M1 chip saved the MacBook — but now Apple has to win back the Pros](https://www.theverge.com/2021/10/18/22725287/apple-macbook-pro-power-user-m1-chips-processors-hardware-refresh-event)<!-- TECH:END -->
+ - [eMarketer: Alibaba's share of China's ecommerce market fell to ~51% from ~78% in 2015, as users move from product searches to interactive experiences on rivals (Stephanie Yang/Wall Street Journal)](http://www.techmeme.com/211018/p12#a211018p12)
+ - [4 iOS 15 privacy features you should know: Siri, Mail and more     - CNET](https://www.cnet.com/tech/mobile/4-ios15-privacy-features-your-should-know-siri-mail-and-more/#ftag=CAD590a51e)
+ - [Berlin-based mobile banking startup N26 raises a $900M Series E at a $9B valuation and says it has 7M clients in 25 countries (Romain Dillet/TechCrunch)](http://www.techmeme.com/211018/p11#a211018p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
