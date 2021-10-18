@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What next](http://9gag.com/gag/avA2jMd)
- - 🚯 [Is it true????](http://9gag.com/gag/a91jGOo)
+ - 🚖 [Nani?!](http://9gag.com/gag/a61rREm)
+ - 🚯 [National Geographic](http://9gag.com/gag/aDDRvYN)
  - 🚯 [Make your life more cinematic.](http://9gag.com/gag/a21E6m1)<!-- MEMES:END -->
 
 --- 
