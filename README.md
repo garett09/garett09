@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [After Iconic Sega Arcade Closes, A New One Will Open Soon Nearby](https://kotaku.com/after-iconic-sega-arcade-closes-a-new-one-will-open-so-1847882984)
  - [In Japan, The Xbox Series X/S Is Doing Better Than The Xbox One](https://kotaku.com/in-japan-the-xbox-series-x-s-is-doing-better-than-the-1847882953)
- - [Black Friday 2021: the PC gaming deals you can expect in Australia](https://www.pcgamer.com/black-friday-2021-the-pc-gaming-deals-you-can-expect-in-australia)
- - [Guardians of the Galaxy system requirements demand 150GB of disk space](https://www.pcgamer.com/guardians-of-the-galaxy-system-requirements)<!-- GAME:END -->
+ - [Black Friday 2021: the PC gaming deals you can expect in Australia](https://www.pcgamer.com/black-friday-2021-the-pc-gaming-deals-you-can-expect-in-australia)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
