@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [eMarketer: Alibaba's share of China's ecommerce market fell to ~51% from ~78% in 2015, as users move from product searches to interactive experiences on rivals (Stephanie Yang/Wall Street Journal)](http://www.techmeme.com/211018/p12#a211018p12)
- - [4 iOS 15 privacy features you should know: Siri, Mail and more     - CNET](https://www.cnet.com/tech/mobile/4-ios15-privacy-features-your-should-know-siri-mail-and-more/#ftag=CAD590a51e)
- - [Berlin-based mobile banking startup N26 raises a $900M Series E at a $9B valuation and says it has 7M clients in 25 countries (Romain Dillet/TechCrunch)](http://www.techmeme.com/211018/p11#a211018p11)<!-- TECH:END -->
+ - [Here are all the rumored Pixel 6 prices in various currencies](https://www.androidauthority.com/google-pixel-6-price-globally-3041901/)
+ - [The PS5 is the first console to outsell the Nintendo Switch in nearly three years](https://www.theverge.com/2021/10/18/22732577/ps5-nintendo-switch-npd-us-sales)
+ - [The Worst Thing on Earth](https://www.theverge.com/22713440/the-worst-thing-on-earth-laserwriter-ii-fiction-excerpt)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
