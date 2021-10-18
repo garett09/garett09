@@ -194,7 +194,7 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Winter is coming](http://9gag.com/gag/aegKBOp)
- - 🚯 [Adopted!](http://9gag.com/gag/a41pyMm)
+ - 🚯 [It&rsquo;s show time](http://9gag.com/gag/apgKM1D)
  - 🚯 [What&#039;d you do in a Walker outbreak?](http://9gag.com/gag/aGzKNQ0)<!-- MEMES:END -->
 
 --- 
