@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A new Austrian sport known as &quot;Alpine Soccer&quot;](http://9gag.com/gag/aLv671g)
- - 🚯 [My first time.did be like that](http://9gag.com/gag/aXrZBEV)
+ - 🚖 [Dafuq](http://9gag.com/gag/aegK8pW)
+ - 🚯 [Male tears](http://9gag.com/gag/axBELbY)
  - 🚯 [Make your life more cinematic.](http://9gag.com/gag/a21E6m1)<!-- MEMES:END -->
 
 --- 
