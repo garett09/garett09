@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy S22 series: All the rumors in one place (Updated: Oct. 18)](https://www.androidauthority.com/samsung-galaxy-s22-1643006/)
- - [China Could Be Exploiting Internet Security Process to Steal Data, Cyber Experts Warn](https://techncruncher.blogspot.com/2021/10/china-could-be-exploiting-internet.html)
- - [Intel CEO hopes to win back Apple with a 'better chip'](https://appleinsider.com/articles/21/10/18/intel-ceo-hopes-to-win-back-apple-with-a-better-chip?utm_medium=rss)<!-- TECH:END -->
+ - [How to Switch From Google Authenticator to Another 2FA App](https://www.wired.com/story/how-to-switch-from-google-authenticator-authy)
+ - [Virtual Museums Challenge the Art World’s Status Quo](https://www.wired.com/story/pandemic-changes-art-experience)
+ - [Just Switched to iPhone? Here Are 8 Tips to Get You Started](https://www.wired.com/story/8-iphone-tips-android-switch)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
