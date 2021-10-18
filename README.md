@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Player 67](https://kotaku.com/player-67-1847836581)
  - [Five new Steam games you probably missed (October 18, 2021)](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-october-18-2021)
- - [27 seconds of Elden Ring gameplay footage has leaked](https://www.pcgamer.com/27-seconds-of-elden-ring-gameplay-footage-has-leaked)
- - [Sony Threatens Dbrand With Legal Action Over PS5 Plates](https://kotaku.com/sony-threatens-dbrand-with-legal-action-over-ps5-plates-1847881873)<!-- GAME:END -->
+ - [27 seconds of Elden Ring gameplay footage has leaked](https://www.pcgamer.com/27-seconds-of-elden-ring-gameplay-footage-has-leaked)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
