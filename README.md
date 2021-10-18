@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Succession season 3, episode 1 recap: The full Baskin-Robbins     - CNET](https://www.cnet.com/news/succession-season-3-episode-1-recap-the-full-baskin-robbins/#ftag=CAD590a51e)
- - [Bitcoin price nears $63k all-time high: Here's why     - CNET](https://www.cnet.com/news/bitcoin-price-nears-63k-all-time-high-heres-why/#ftag=CAD590a51e)
- - [Netflix's Midnight Mass: The ending explained and all your questions answered     - CNET](https://www.cnet.com/news/netflixs-midnight-mass-the-ending-explained-and-all-your-questions-answered/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple's MagSafe Battery Pack for iPhone 13 gets first discount on Amazon](https://appleinsider.com/articles/21/10/18/apples-magsafe-battery-pack-for-iphone-13-gets-first-discount-on-amazon?utm_medium=rss)
+ - [You should explore this immense sci-fi video game over and over again     - CNET](https://www.cnet.com/tech/gaming/you-should-explore-this-immense-sci-fi-video-game-over-and-over-again/#ftag=CAD590a51e)
+ - [Succession season 3, episode 1 recap: The full Baskin-Robbins     - CNET](https://www.cnet.com/news/succession-season-3-episode-1-recap-the-full-baskin-robbins/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
