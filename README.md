@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus launches limited edition Watch for Wizarding World fans](https://www.androidauthority.com/oneplus-watch-harry-potter-edition-3041680/)
- - [Last minute Pixel 6 Pro leak teases a surprisingly attractive US price](https://www.androidauthority.com/google-pixel-6-us-price-leak-3041653/)
- - [Q&A with Dave Limp, Amazon SVP of devices and services, on Astro robot, making money from Alexa, working with other parts of the Amazon empire, and more (Nilay Patel/The Verge)](http://www.techmeme.com/211018/p1#a211018p1)<!-- TECH:END -->
+ - [UK schools are using facial recognition to take pupils’ lunch money](https://www.theverge.com/2021/10/18/22732330/uk-schools-facial-recognition-lunch-payments-north-ayrshire)
+ - [The Pixel 6 might start at a relatively affordable $599](https://www.theverge.com/2021/10/18/22732322/pixel-6-pro-price-leak-us-eu)
+ - [Google's Pixel 6 may be more exciting than the iPhone 13     - CNET](https://www.cnet.com/tech/mobile/googles-pixel-6-may-be-more-exciting-than-the-iphone-13/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
