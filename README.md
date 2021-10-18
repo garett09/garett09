@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Listen to the sick Mac sound effect song that Apple opened its keynote with](https://www.theverge.com/tldr/2021/10/18/22733238/start-up-ag-cook-apple-event-song-sound-effects-mac-ipod-hardware)
- - [How to preorder Apple’s third-gen AirPods](https://www.theverge.com/22665643/apple-airpods-3-preorder-how-to-buy-price-availability-release-date)
- - [Apple quietly added a MagSafe charging case to its AirPods Pro, too](https://www.theverge.com/2021/10/18/22733183/apple-magsafe-charging-case-airpods-pro-qi)<!-- TECH:END -->
+ - [macOS Monterey will have the old Safari tab design](https://www.theverge.com/2021/10/18/22733357/apple-old-safari-tab-design-macos-monterey)
+ - [Invesco drops its pursuit of a bitcoin futures ETF filing hours before the first such product begins trading on the US stock market (Katherine Greifeld/Bloomberg)](http://www.techmeme.com/211018/p35#a211018p35)
+ - [A piece of cloth to clean your Apple devices will cost you $19](https://www.theverge.com/2021/10/18/22733198/apple-polishing-cloth-clean-devices)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
