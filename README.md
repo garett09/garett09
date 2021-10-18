@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [After Iconic Sega Arcade Closes, A New One Will Open Soon Nearby](https://kotaku.com/after-iconic-sega-arcade-closes-a-new-one-will-open-so-1847882984)
- - [In Japan, The Xbox Series X/S Is Doing Better Than The Xbox One](https://kotaku.com/in-japan-the-xbox-series-x-s-is-doing-better-than-the-1847882953)
- - [Black Friday 2021: the PC gaming deals you can expect in Australia](https://www.pcgamer.com/black-friday-2021-the-pc-gaming-deals-you-can-expect-in-australia)<!-- GAME:END -->
+ - [Dear Metroid Dread: Samus Doesn’t Need To Be An Emotionless Robot To Be Badass](https://kotaku.com/dear-metroid-dread-samus-doesn-t-need-to-be-an-emotion-1847875658)
+ - [Legendary Namco Graphic Designer Hiroshi Ono Dies At 64](https://kotaku.com/legendary-namco-graphic-designer-hiroshi-ono-dies-at-64-1847883296)
+ - [I should hate Assassin's Creed Valhalla, so why I have I played it for 120 hours?](https://www.pcgamer.com/i-should-hate-assassins-creed-valhalla-so-why-i-have-i-played-it-for-120-hours)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
