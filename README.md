@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How to end a season on a childs series](http://9gag.com/gag/aE8d3No)
- - 🚯 [What is this camel doing in my room?](http://9gag.com/gag/aVxjAvK)
+ - 🚖 [Praise the internet](http://9gag.com/gag/a91jo6o)
+ - 🚯 [Our universe is amazing](http://9gag.com/gag/a71vYYb)
  - 🚯 [Make your life more cinematic.](http://9gag.com/gag/a21E6m1)<!-- MEMES:END -->
 
 --- 
