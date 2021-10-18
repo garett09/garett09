@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Netflix will let Twitch users co-stream the League of Legends anime](https://www.polygon.com/22733123/league-of-legends-arcane-release-date-netflix-twitch-schedule-premiere)
- - [Applications open for Jackie Robinson Foundation / PlayStation-MLB The Show Scholarships](http://feedproxy.google.com/~r/PSBlog/~3/5KOzmaHfLI8/)
- - [Applications open for Jackie Robinson Foundation / PlayStation-MLB The Show Scholarships](https://blog.playstation.com/2021/10/18/applications-open-for-jackie-robinson-foundation-playstation-mlb-the-show-scholarships/)<!-- GAME:END -->
+ - [Valorant cheating 'at an all-time low'](https://www.pcgamer.com/valorant-cheating-at-an-all-time-low)
+ - [Cyber Monday Gaming PC deals 2021: offers on the best pre-built gaming rigs](https://www.pcgamer.com/cyber-monday-gaming-pc-deals)
+ - [Netflix will let Twitch users co-stream the League of Legends anime](https://www.polygon.com/22733123/league-of-legends-arcane-release-date-netflix-twitch-schedule-premiere)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
