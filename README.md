@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here are all the rumored Pixel 6 prices in various currencies](https://www.androidauthority.com/google-pixel-6-price-globally-3041901/)
- - [The PS5 is the first console to outsell the Nintendo Switch in nearly three years](https://www.theverge.com/2021/10/18/22732577/ps5-nintendo-switch-npd-us-sales)
- - [The Worst Thing on Earth](https://www.theverge.com/22713440/the-worst-thing-on-earth-laserwriter-ii-fiction-excerpt)<!-- TECH:END -->
+ - [Toyota has gone from lobbying against EVs to spending billions on battery development](https://www.theverge.com/2021/10/18/22732641/toyota-ev-battery-factory-us-investment-spend-amount)
+ - [Apple Event deals drive down prices on M1 iMac models, plus $30 off AppleCare](https://appleinsider.com/articles/21/10/18/apple-event-deals-drive-down-prices-on-m1-imac-models-plus-30-off-applecare?utm_medium=rss)
+ - [The Pixel 6: what to expect from Google’s thoroughly pre-announced phone](https://www.theverge.com/2021/10/18/22722823/google-pixel-6-pro-event-android-12-magic-eraser-rumors)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
