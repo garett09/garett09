@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Three men write a book under a female pseudonym and win first prize, jury thought the writer was female](http://9gag.com/gag/aE8dmRn)
- - 🚯 [Le dot intensifies](http://9gag.com/gag/aqG4o3j)
+ - 🚖 [If you have back problems, try this.](http://9gag.com/gag/a41pX7m)
+ - 🚯 [Ramen and Mountain Dew is a good combination](http://9gag.com/gag/aBn9BLP)
  - 🚯 [Make your life more cinematic.](http://9gag.com/gag/a21E6m1)<!-- MEMES:END -->
 
 --- 
