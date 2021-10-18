@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Nani?!](http://9gag.com/gag/a61rREm)
- - 🚯 [National Geographic](http://9gag.com/gag/aDDRvYN)
+ - 🚖 [Crazy, train wins again!](http://9gag.com/gag/a11p3bG)
+ - 🚯 [Ramen and Mountain Dew is a good combination](http://9gag.com/gag/aBn9BLP)
  - 🚯 [Make your life more cinematic.](http://9gag.com/gag/a21E6m1)<!-- MEMES:END -->
 
 --- 
