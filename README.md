@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [TikTok horror series Spooky Lakes will scare you out of the water](https://www.polygon.com/22732852/tiktok-horror-spooky-lakes-jacobs-well-blood-lake-niagara-falls)
- - [Disney delays its 2022 movie slate, starting with Doctor Strange 2](https://www.polygon.com/22732817/disney-delays-2022-movies)
- - [Where to spot the UFO in GTA Online](https://www.pcgamer.com/gta-online-ufo-locations)<!-- GAME:END -->
+ - [Apex Legends’ newest character is Ash, a familiar face from Titanfall 2](https://www.polygon.com/22732830/apex-legends-ash-titanfall-trailer-release-date-character)
+ - [Overwatch Takes Advantage of the Added Power and Performance of Xbox Series X|S](https://news.xbox.com/en-us/2021/10/18/overwatch-added-power-and-performance-of-xbox-series-xs/)
+ - [PlayStation 5 Ends Switch's Three-Year Run As Best-Selling Console](https://kotaku.com/playstation-5-ends-switchs-three-year-run-as-best-selli-1847885112)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
