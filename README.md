@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [If you have back problems, try this.](http://9gag.com/gag/a41pX7m)
- - 🚯 [Ramen and Mountain Dew is a good combination](http://9gag.com/gag/aBn9BLP)
+ - 🚖 [A new Austrian sport known as &quot;Alpine Soccer&quot;](http://9gag.com/gag/aLv671g)
+ - 🚯 [My first time.did be like that](http://9gag.com/gag/aXrZBEV)
  - 🚯 [Make your life more cinematic.](http://9gag.com/gag/a21E6m1)<!-- MEMES:END -->
 
 --- 
