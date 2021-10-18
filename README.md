@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Dafuq](http://9gag.com/gag/aegK8pW)
- - 🚯 [Male tears](http://9gag.com/gag/axBELbY)
+ - 🚖 [How to end a season on a childs series](http://9gag.com/gag/aE8d3No)
+ - 🚯 [What is this camel doing in my room?](http://9gag.com/gag/aVxjAvK)
  - 🚯 [Make your life more cinematic.](http://9gag.com/gag/a21E6m1)<!-- MEMES:END -->
 
 --- 
