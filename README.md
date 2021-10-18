@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Friend](http://9gag.com/gag/a81dN1Y)
- - 🚯 [F**K YEAHHH](http://9gag.com/gag/apgKnep)
+ - 🚖 [He was complaining about a splinter](http://9gag.com/gag/aAGBAPR)
+ - 🚯 [Friend](http://9gag.com/gag/a81dN1Y)
  - 🚯 [What&#039;d you do in a Walker outbreak?](http://9gag.com/gag/aGzKNQ0)<!-- MEMES:END -->
 
 --- 
