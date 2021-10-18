@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Succession season 3, episode 1 recap: The full Baskin-Robbins     - CNET](https://www.cnet.com/news/succession-season-3-episode-1-recap-the-full-baskin-robbins/#ftag=CAD590a51e)
  - [Bitcoin price nears $63k all-time high: Here's why     - CNET](https://www.cnet.com/news/bitcoin-price-nears-63k-all-time-high-heres-why/#ftag=CAD590a51e)
- - [Netflix's Midnight Mass: The ending explained and all your questions answered     - CNET](https://www.cnet.com/news/netflixs-midnight-mass-the-ending-explained-and-all-your-questions-answered/#ftag=CAD590a51e)
- - [New trailer for The Batman reveals super-intense Robert Pattinson action     - CNET](https://www.cnet.com/news/new-trailer-for-the-batman-reveals-super-intense-robert-pattinson-action-at-dc-fandome/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Netflix's Midnight Mass: The ending explained and all your questions answered     - CNET](https://www.cnet.com/news/netflixs-midnight-mass-the-ending-explained-and-all-your-questions-answered/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
