@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dune Is The Latest Beloved Property To Be Swallowed By The Fortnite Worm](https://kotaku.com/dune-is-the-latest-beloved-property-to-be-swallowed-by-1847887636)
- - [New Dungeon and Halloween Events Now Live in Black Desert](https://news.xbox.com/en-us/2021/10/18/new-dungeon-and-halloween-events-now-live-in-black-desert/)
- - [13 Things I Wish I Knew Before Starting Back 4 Blood](https://kotaku.com/13-things-i-wish-i-knew-before-starting-back-4-blood-1847887557)<!-- GAME:END -->
+ - [Forget Game of Thrones, let me play this dragon simulator](https://www.polygon.com/22733015/dragon-simulator-game-of-thrones-spider-man)
+ - [Scream and Donnie Darko come to Call of Duty for Halloween](https://www.polygon.com/22732666/call-of-duty-warzone-black-ops-cold-war-halloween-scream-donnie-darko-haunting)
+ - [Outriders confirmed for Xbox Game Pass for PC](https://www.pcgamer.com/outriders-confirmed-for-xbox-game-pass-for-pc)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
