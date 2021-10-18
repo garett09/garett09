@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [HomePod mini now comes in five colors](https://appleinsider.com/articles/21/10/18/homepod-mini-now-comes-in-five-colors?utm_medium=rss)
- - [Apple's all-new AirPods support Spatial Audio for $179](https://appleinsider.com/articles/21/10/18/apples-all-new-airpods-support-spatial-audio-for-179?utm_medium=rss)
- - [Amazon threatened with criminal probe over reported search and product discrimination](https://www.theverge.com/2021/10/18/22733031/amazon-prime-data-sellers-congress-judiciary-antitrust-klobuchar-cicilline)<!-- TECH:END -->
+ - [Netflix trans employees and allies release a list of demands ahead of the walkout](https://www.theverge.com/2021/10/18/22733098/netflix-trans-employees-demands-dave-chappelle-walkout)
+ - [Apple unveils 16-inch MacBook Pro with M1 Pro, M1 Max starting at $2499](https://appleinsider.com/articles/21/10/18/apple-unveils-16-inch-macbook-pro-with-m1-pro-m1-max?utm_medium=rss)
+ - [Apple's macOS Monterey release candidate beta is now available](https://appleinsider.com/articles/21/10/18/apples-macos-monterey-release-candidate-beta-is-now-available?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
