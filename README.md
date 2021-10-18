@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Are you?](http://9gag.com/gag/aE8dKqM)
- - 🚯 [NZ police receiving emergency call](http://9gag.com/gag/aRr6d2Q)
+ - 🚖 [Vengance](http://9gag.com/gag/aBn954D)
+ - 🚯 [Perhaps both?](http://9gag.com/gag/aZrqXG0)
  - 🚯 [What&#039;d you do in a Walker outbreak?](http://9gag.com/gag/aGzKNQ0)<!-- MEMES:END -->
 
 --- 
