@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple's MagSafe Battery Pack for iPhone 13 gets first discount on Amazon](https://appleinsider.com/articles/21/10/18/apples-magsafe-battery-pack-for-iphone-13-gets-first-discount-on-amazon?utm_medium=rss)
- - [You should explore this immense sci-fi video game over and over again     - CNET](https://www.cnet.com/tech/gaming/you-should-explore-this-immense-sci-fi-video-game-over-and-over-again/#ftag=CAD590a51e)
- - [Succession season 3, episode 1 recap: The full Baskin-Robbins     - CNET](https://www.cnet.com/news/succession-season-3-episode-1-recap-the-full-baskin-robbins/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Last minute Pixel 6 Pro leak teases a surprisingly attractive US price](https://www.androidauthority.com/google-pixel-6-us-price-leak-3041653/)
+ - [Q&A with Dave Limp, Amazon SVP of devices and services, on Astro robot, making money from Alexa, working with other parts of the Amazon empire, and more (Nilay Patel/The Verge)](http://www.techmeme.com/211018/p1#a211018p1)
+ - [Don't scroll past one of the best sci-fi gems on Amazon Prime Video     - CNET](https://www.cnet.com/news/dont-scroll-past-one-of-the-best-sci-fi-gems-on-amazon-prime-video/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
