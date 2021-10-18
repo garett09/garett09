@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple's M1 Max is 1.5x faster than M1 in supposed benchmark](https://appleinsider.com/articles/21/10/18/apples-m1-max-is-15x-faster-than-m1-in-supposed-benchmark?utm_medium=rss)
- - [New 14-inch and 16-inch MacBook Pro models & AirPods 3 on the AppleInsider podcast](https://appleinsider.com/articles/21/10/18/new-14-inch-and-16-inch-macbook-pro-models-airpods-3-on-the-appleinsider-podcast?utm_medium=rss)
- - [Apple unveils 16-inch MacBook Pro with M1 Pro, M1 Max starting at $2499](https://appleinsider.com/articles/21/10/18/apple-unveils-16-inch-macbook-pro-with-m1-pro-m1-max?utm_medium=rss)<!-- TECH:END -->
+ - [Listen to the sick Mac sound effect song that Apple opened its keynote with](https://www.theverge.com/tldr/2021/10/18/22733238/start-up-ag-cook-apple-event-song-sound-effects-mac-ipod-hardware)
+ - [How to preorder Apple’s third-gen AirPods](https://www.theverge.com/22665643/apple-airpods-3-preorder-how-to-buy-price-availability-release-date)
+ - [Apple quietly added a MagSafe charging case to its AirPods Pro, too](https://www.theverge.com/2021/10/18/22733183/apple-magsafe-charging-case-airpods-pro-qi)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
