@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [New trailer for The Batman reveals super-intense Robert Pattinson action     - CNET](https://www.cnet.com/news/new-trailer-for-the-batman-reveals-super-intense-robert-pattinson-action-at-dc-fandome/#ftag=CAD590a51e)
- - [Amazon launches 7 must-have Apple bargains ahead of Black Friday](https://appleinsider.com/articles/21/10/11/amazon-launches-7-must-have-apple-bargains-ahead-of-black-friday?utm_medium=rss)
- - [How the tech used to make giant, ultrahigh-precision mirrors and lenses for the James Webb Space Telescope was repurposed to develop displays for mobile devices (Christopher Mims/Wall Street Journal)](http://www.techmeme.com/211017/p11#a211017p11)<!-- TECH:END -->
+ - [Bitcoin price nears $63k all-time high: Here's why     - CNET](https://www.cnet.com/news/bitcoin-price-nears-63k-all-time-high-heres-why/#ftag=CAD590a51e)
+ - [Netflix's Midnight Mass: The ending explained and all your questions answered     - CNET](https://www.cnet.com/news/netflixs-midnight-mass-the-ending-explained-and-all-your-questions-answered/#ftag=CAD590a51e)
+ - [New trailer for The Batman reveals super-intense Robert Pattinson action     - CNET](https://www.cnet.com/news/new-trailer-for-the-batman-reveals-super-intense-robert-pattinson-action-at-dc-fandome/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
