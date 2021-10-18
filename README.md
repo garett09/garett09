@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple's 2021 MacBook Pro (14" and 16") is already on sale, save up to $305](https://appleinsider.com/articles/21/10/18/apples-2021-macbook-pro-14-and-16-is-already-on-sale-save-up-to-305?utm_medium=rss)
- - [Apple updates Final Cut Pro, Logic Pro for M1 Pro, M1 Max chips](https://appleinsider.com/articles/21/10/18/apple-updates-final-cut-pro-logic-pro-for-m1-pro-m1-max-chips?utm_medium=rss)
- - [macOS Monterey release candidate reintroduces Safari's old tab design as the default and Monterey's original Safari design as a "Compact" option (Juli Clover/MacRumors)](http://www.techmeme.com/211018/p28#a211018p28)<!-- TECH:END -->
+ - [Apple's M1 Max is 1.5x faster than M1 in supposed benchmark](https://appleinsider.com/articles/21/10/18/apples-m1-max-is-15x-faster-than-m1-in-supposed-benchmark?utm_medium=rss)
+ - [New 14-inch and 16-inch MacBook Pro models & AirPods 3 on the AppleInsider podcast](https://appleinsider.com/articles/21/10/18/new-14-inch-and-16-inch-macbook-pro-models-airpods-3-on-the-appleinsider-podcast?utm_medium=rss)
+ - [Apple unveils 16-inch MacBook Pro with M1 Pro, M1 Max starting at $2499](https://appleinsider.com/articles/21/10/18/apple-unveils-16-inch-macbook-pro-with-m1-pro-m1-max?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
