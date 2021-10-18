@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Crazy, train wins again!](http://9gag.com/gag/a11p3bG)
- - 🚯 [What next](http://9gag.com/gag/avA2jMd)
+ - 🚖 [Lifeguard Gets Emotional During Rescue of Young Girl](http://9gag.com/gag/aNPmEd4)
+ - 🚯 [Cutting live wires without any protection](http://9gag.com/gag/avA2K15)
  - 🚯 [Make your life more cinematic.](http://9gag.com/gag/a21E6m1)<!-- MEMES:END -->
 
 --- 
