@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix trans employees and allies release a list of demands ahead of the walkout](https://www.theverge.com/2021/10/18/22733098/netflix-trans-employees-demands-dave-chappelle-walkout)
- - [Apple unveils 16-inch MacBook Pro with M1 Pro, M1 Max starting at $2499](https://appleinsider.com/articles/21/10/18/apple-unveils-16-inch-macbook-pro-with-m1-pro-m1-max?utm_medium=rss)
- - [Apple's macOS Monterey release candidate beta is now available](https://appleinsider.com/articles/21/10/18/apples-macos-monterey-release-candidate-beta-is-now-available?utm_medium=rss)<!-- TECH:END -->
+ - [AirPods Pro now include MagSafe charging, still cost $249](https://appleinsider.com/articles/21/10/18/airpods-pro-now-include-magsafe-charging-still-cost-249?utm_medium=rss)
+ - [Apple polishing cloth for nano-texture glass added to online store](https://appleinsider.com/articles/21/10/18/apple-polishing-cloth-for-nano-texture-glass-added-to-online-store?utm_medium=rss)
+ - [New MacBook Pro preorders immediately see shipping date slips](https://appleinsider.com/articles/21/10/18/new-macbook-pro-preorders-immediately-see-shipping-date-slips?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
