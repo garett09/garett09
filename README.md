@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Apex Legends’ newest character is Ash, a familiar face from Titanfall 2](https://www.polygon.com/22732830/apex-legends-ash-titanfall-trailer-release-date-character)
- - [Overwatch Takes Advantage of the Added Power and Performance of Xbox Series X|S](https://news.xbox.com/en-us/2021/10/18/overwatch-added-power-and-performance-of-xbox-series-xs/)
- - [PlayStation 5 Ends Switch's Three-Year Run As Best-Selling Console](https://kotaku.com/playstation-5-ends-switchs-three-year-run-as-best-selli-1847885112)<!-- GAME:END -->
+ - [Netflix will let Twitch users co-stream the League of Legends anime](https://www.polygon.com/22733123/league-of-legends-arcane-release-date-netflix-twitch-schedule-premiere)
+ - [Applications open for Jackie Robinson Foundation / PlayStation-MLB The Show Scholarships](http://feedproxy.google.com/~r/PSBlog/~3/5KOzmaHfLI8/)
+ - [Applications open for Jackie Robinson Foundation / PlayStation-MLB The Show Scholarships](https://blog.playstation.com/2021/10/18/applications-open-for-jackie-robinson-foundation-playstation-mlb-the-show-scholarships/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
