@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Winter is coming](http://9gag.com/gag/aegKBOp)
- - 🚯 [It&rsquo;s show time](http://9gag.com/gag/apgKM1D)
- - 🚯 [What&#039;d you do in a Walker outbreak?](http://9gag.com/gag/aGzKNQ0)<!-- MEMES:END -->
+ - 🚖 [What next](http://9gag.com/gag/avA2jMd)
+ - 🚯 [Is it true????](http://9gag.com/gag/a91jGOo)
+ - 🚯 [Make your life more cinematic.](http://9gag.com/gag/a21E6m1)<!-- MEMES:END -->
 
 --- 
 
