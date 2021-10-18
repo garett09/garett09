@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Lifeguard Gets Emotional During Rescue of Young Girl](http://9gag.com/gag/aNPmEd4)
- - 🚯 [Cutting live wires without any protection](http://9gag.com/gag/avA2K15)
+ - 🚖 [Three men write a book under a female pseudonym and win first prize, jury thought the writer was female](http://9gag.com/gag/aE8dmRn)
+ - 🚯 [Le dot intensifies](http://9gag.com/gag/aqG4o3j)
  - 🚯 [Make your life more cinematic.](http://9gag.com/gag/a21E6m1)<!-- MEMES:END -->
 
 --- 
