@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Halloween Countdown: 31 days of horror](https://www.polygon.com/22702474/best-halloween-movies-tv-to-watch-stream)
- - [Outriders Coming to Microsoft Store on Windows with Game Pass for PC and Ultimate on October 19](https://news.xbox.com/en-us/2021/10/18/outriders-on-windows-with-game-pass-for-pc-and-ultimate/)
- - [Rob Zombie teases new cast for The Munsters](https://www.polygon.com/22732650/the-munsters-rob-zombie-cast-image-herman-lily-grandpa)<!-- GAME:END -->
+ - [TikTok horror series Spooky Lakes will scare you out of the water](https://www.polygon.com/22732852/tiktok-horror-spooky-lakes-jacobs-well-blood-lake-niagara-falls)
+ - [Disney delays its 2022 movie slate, starting with Doctor Strange 2](https://www.polygon.com/22732817/disney-delays-2022-movies)
+ - [Where to spot the UFO in GTA Online](https://www.pcgamer.com/gta-online-ufo-locations)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
