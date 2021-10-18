@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [He was complaining about a splinter](http://9gag.com/gag/aAGBAPR)
- - 🚯 [Friend](http://9gag.com/gag/a81dN1Y)
+ - 🚖 [Prince Harry and his mother Diana&#039;s riding instructor](http://9gag.com/gag/amgqyV9)
+ - 🚯 [Perhaps both?](http://9gag.com/gag/aZrqXG0)
  - 🚯 [What&#039;d you do in a Walker outbreak?](http://9gag.com/gag/aGzKNQ0)<!-- MEMES:END -->
 
 --- 
