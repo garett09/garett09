@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Guardian's of the Galaxy system requirements demand 150GB of disk space](https://www.pcgamer.com/guardians-of-the-galaxy-system-requirements)
- - [Player 67](https://kotaku.com/player-67-1847836581)
- - [Five new Steam games you probably missed (October 18, 2021)](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-october-18-2021)<!-- GAME:END -->
+ - [Black Friday 2021: the PC gaming deals you can expect in Australia](https://www.pcgamer.com/black-friday-2021-the-pc-gaming-deals-you-can-expect-in-australia)
+ - [Guardians of the Galaxy system requirements demand 150GB of disk space](https://www.pcgamer.com/guardians-of-the-galaxy-system-requirements)
+ - [Player 67](https://kotaku.com/player-67-1847836581)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
