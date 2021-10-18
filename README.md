@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Vengance](http://9gag.com/gag/aBn954D)
- - 🚯 [Perhaps both?](http://9gag.com/gag/aZrqXG0)
+ - 🚖 [Adopted!](http://9gag.com/gag/a41pyMm)
+ - 🚯 [Vengance](http://9gag.com/gag/aBn954D)
  - 🚯 [What&#039;d you do in a Walker outbreak?](http://9gag.com/gag/aGzKNQ0)<!-- MEMES:END -->
 
 --- 
