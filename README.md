@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Pack your cheeks alongside Greedent in Pokémon Unite’s new Halloween event](https://www.polygon.com/22732557/pokemon-unite-greedent-halloween-festival-skins-event-date-trailer)
- - [What we know about Animal Crossing: New Horizons’ free and paid updates](https://www.polygon.com/22728211/animal-crossing-new-horizons-free-update-paid-dlc-happy-home-paradise)
- - [Dear Metroid Dread: Samus Doesn’t Need To Be An Emotionless Robot To Be Badass](https://kotaku.com/dear-metroid-dread-samus-doesn-t-need-to-be-an-emotion-1847875658)<!-- GAME:END -->
+ - [The Halloween Countdown: 31 days of horror](https://www.polygon.com/22702474/best-halloween-movies-tv-to-watch-stream)
+ - [Outriders Coming to Microsoft Store on Windows with Game Pass for PC and Ultimate on October 19](https://news.xbox.com/en-us/2021/10/18/outriders-on-windows-with-game-pass-for-pc-and-ultimate/)
+ - [Rob Zombie teases new cast for The Munsters](https://www.polygon.com/22732650/the-munsters-rob-zombie-cast-image-herman-lily-grandpa)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
