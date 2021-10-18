@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Forget Game of Thrones, let me play this dragon simulator](https://www.polygon.com/22733015/dragon-simulator-game-of-thrones-spider-man)
- - [Scream and Donnie Darko come to Call of Duty for Halloween](https://www.polygon.com/22732666/call-of-duty-warzone-black-ops-cold-war-halloween-scream-donnie-darko-haunting)
- - [Outriders confirmed for Xbox Game Pass for PC](https://www.pcgamer.com/outriders-confirmed-for-xbox-game-pass-for-pc)<!-- GAME:END -->
+ - [Suit up with Crysis Remastered Trilogy Today for Xbox One and Xbox Series X|S](https://news.xbox.com/en-us/2021/10/18/suit-up-with-crysis-remastered-trilogy/)
+ - [Valve is reviewing Steam's whole library for Steam Deck compatibility](https://www.pcgamer.com/valve-is-reviewing-steams-whole-library-for-steam-deck-compatibility)
+ - [New World invulnerability trick is hilariously easy to pull off](https://www.pcgamer.com/new-world-invincibility-exploit)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
