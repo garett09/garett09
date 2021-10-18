@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [NY AG sends cease and desist letters to two cryptocurrency lending firms; improperly redacted documents suggest the recipients were Nexo and Celsius Network (Kollen Post/The Block)](http://www.techmeme.com/211018/p18#a211018p18)
- - [Microsoft execs reportedly warned Bill Gates years ago to stop emailing a female employee](https://www.theverge.com/2021/10/18/22732541/microsoft-execs-warned-bill-gates-2007-stop-email-female-employee)
- - [Best Deals Oct. 18: $83 MagSafe Battery Pack, $79 Apple TV 4K, more!](https://appleinsider.com/articles/21/10/18/best-deals-oct-18-83-magsafe-battery-pack-external-ssd-sale-more?utm_medium=rss)<!-- TECH:END -->
+ - [HomePod mini now comes in five colors](https://appleinsider.com/articles/21/10/18/homepod-mini-now-comes-in-five-colors?utm_medium=rss)
+ - [Apple's all-new AirPods support Spatial Audio for $179](https://appleinsider.com/articles/21/10/18/apples-all-new-airpods-support-spatial-audio-for-179?utm_medium=rss)
+ - [Amazon threatened with criminal probe over reported search and product discrimination](https://www.theverge.com/2021/10/18/22733031/amazon-prime-data-sellers-congress-judiciary-antitrust-klobuchar-cicilline)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
