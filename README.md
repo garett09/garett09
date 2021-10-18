@@ -194,7 +194,7 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Crazy, train wins again!](http://9gag.com/gag/a11p3bG)
- - 🚯 [Ramen and Mountain Dew is a good combination](http://9gag.com/gag/aBn9BLP)
+ - 🚯 [What next](http://9gag.com/gag/avA2jMd)
  - 🚯 [Make your life more cinematic.](http://9gag.com/gag/a21E6m1)<!-- MEMES:END -->
 
 --- 
