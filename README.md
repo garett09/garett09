@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Adopted!](http://9gag.com/gag/a41pyMm)
- - 🚯 [Vengance](http://9gag.com/gag/aBn954D)
+ - 🚖 [Vengance](http://9gag.com/gag/aBn954D)
+ - 🚯 [Stray a game where you play as a stray cat doing cat things](http://9gag.com/gag/a61r602)
  - 🚯 [What&#039;d you do in a Walker outbreak?](http://9gag.com/gag/aGzKNQ0)<!-- MEMES:END -->
 
 --- 
