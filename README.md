@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Toyota has gone from lobbying against EVs to spending billions on battery development](https://www.theverge.com/2021/10/18/22732641/toyota-ev-battery-factory-us-investment-spend-amount)
- - [Apple Event deals drive down prices on M1 iMac models, plus $30 off AppleCare](https://appleinsider.com/articles/21/10/18/apple-event-deals-drive-down-prices-on-m1-imac-models-plus-30-off-applecare?utm_medium=rss)
- - [The Pixel 6: what to expect from Google’s thoroughly pre-announced phone](https://www.theverge.com/2021/10/18/22722823/google-pixel-6-pro-event-android-12-magic-eraser-rumors)<!-- TECH:END -->
+ - [NY AG sends cease and desist letters to two cryptocurrency lending firms; improperly redacted documents suggest the recipients were Nexo and Celsius Network (Kollen Post/The Block)](http://www.techmeme.com/211018/p18#a211018p18)
+ - [Microsoft execs reportedly warned Bill Gates years ago to stop emailing a female employee](https://www.theverge.com/2021/10/18/22732541/microsoft-execs-warned-bill-gates-2007-stop-email-female-employee)
+ - [Best Deals Oct. 18: $83 MagSafe Battery Pack, $79 Apple TV 4K, more!](https://appleinsider.com/articles/21/10/18/best-deals-oct-18-83-magsafe-battery-pack-external-ssd-sale-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
