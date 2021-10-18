@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to Switch From Google Authenticator to Another 2FA App](https://www.wired.com/story/how-to-switch-from-google-authenticator-authy)
- - [Virtual Museums Challenge the Art World’s Status Quo](https://www.wired.com/story/pandemic-changes-art-experience)
- - [Just Switched to iPhone? Here Are 8 Tips to Get You Started](https://www.wired.com/story/8-iphone-tips-android-switch)<!-- TECH:END -->
+ - [Look like your favorite Metal Gear Solid character, Cool Glassesman, with these Hideo Kojima shades](https://www.theverge.com/tldr/2021/10/18/22732413/hideo-kojima-glasses-sunglasses-collaboration-jean-francois-rey)
+ - [NYSE says ProShares will launch an exchange-traded fund (ETF) linked to Bitcoin futures, giving investors exposure without having to hold bitcoin directly (New York Times)](http://www.techmeme.com/211018/p6#a211018p6)
+ - [The M1 chip saved the MacBook — but now Apple has to win back the Pros](https://www.theverge.com/2021/10/18/22725287/apple-macbook-pro-power-user-m1-chips-processors-hardware-refresh-event)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
