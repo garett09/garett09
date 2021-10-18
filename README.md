@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Vengance](http://9gag.com/gag/aBn954D)
- - 🚯 [Stray a game where you play as a stray cat doing cat things](http://9gag.com/gag/a61r602)
+ - 🚖 [National Geographic](http://9gag.com/gag/aDDRvYN)
+ - 🚯 [Catching an Australian Easter Brown at the last second. 2nd most venomous snake in the world.](http://9gag.com/gag/avA2w5W)
  - 🚯 [What&#039;d you do in a Walker outbreak?](http://9gag.com/gag/aGzKNQ0)<!-- MEMES:END -->
 
 --- 
