@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dear Metroid Dread: Samus Doesn’t Need To Be An Emotionless Robot To Be Badass](https://kotaku.com/dear-metroid-dread-samus-doesn-t-need-to-be-an-emotion-1847875658)
- - [Legendary Namco Graphic Designer Hiroshi Ono Dies At 64](https://kotaku.com/legendary-namco-graphic-designer-hiroshi-ono-dies-at-64-1847883296)
- - [I should hate Assassin's Creed Valhalla, so why I have I played it for 120 hours?](https://www.pcgamer.com/i-should-hate-assassins-creed-valhalla-so-why-i-have-i-played-it-for-120-hours)<!-- GAME:END -->
+ - [Pack your cheeks alongside Greedent in Pokémon Unite’s new Halloween event](https://www.polygon.com/22732557/pokemon-unite-greedent-halloween-festival-skins-event-date-trailer)
+ - [What we know about Animal Crossing: New Horizons’ free and paid updates](https://www.polygon.com/22728211/animal-crossing-new-horizons-free-update-paid-dlc-happy-home-paradise)
+ - [Dear Metroid Dread: Samus Doesn’t Need To Be An Emotionless Robot To Be Badass](https://kotaku.com/dear-metroid-dread-samus-doesn-t-need-to-be-an-emotion-1847875658)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
