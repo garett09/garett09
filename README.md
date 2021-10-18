@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [UK schools are using facial recognition to take pupils’ lunch money](https://www.theverge.com/2021/10/18/22732330/uk-schools-facial-recognition-lunch-payments-north-ayrshire)
- - [The Pixel 6 might start at a relatively affordable $599](https://www.theverge.com/2021/10/18/22732322/pixel-6-pro-price-leak-us-eu)
- - [Google's Pixel 6 may be more exciting than the iPhone 13     - CNET](https://www.cnet.com/tech/mobile/googles-pixel-6-may-be-more-exciting-than-the-iphone-13/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Samsung Galaxy S22 series: All the rumors in one place (Updated: Oct. 18)](https://www.androidauthority.com/samsung-galaxy-s22-1643006/)
+ - [China Could Be Exploiting Internet Security Process to Steal Data, Cyber Experts Warn](https://techncruncher.blogspot.com/2021/10/china-could-be-exploiting-internet.html)
+ - [Intel CEO hopes to win back Apple with a 'better chip'](https://appleinsider.com/articles/21/10/18/intel-ceo-hopes-to-win-back-apple-with-a-better-chip?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
