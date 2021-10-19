@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google launches $599 Pixel 6, with 90Hz 6.4" display, and $899 Pixel 6 Pro, with 120Hz 6.7" display, both featuring an upgraded 50MP rear camera, coming Oct. 28 (Dan Seifert/The Verge)](http://www.techmeme.com/211019/p39#a211019p39)
- - [Google releases Android 12 to current Pixel devices, featuring Material You, revamped Quick Settings, and more (Kris Holt/Engadget)](http://www.techmeme.com/211019/p38#a211019p38)
- - [Google Pixel 6 hands-on: Bigger, bolder, and more divisive than expected](https://www.androidauthority.com/google-pixel-6-review-3042252/)<!-- TECH:END -->
+ - [Nikola allowed to proceed with $2 billion patent lawsuit against Tesla](https://www.theverge.com/2021/10/19/22734970/nikola-tesla-2-billion-patent-lawsuit-desgn-infringement)
+ - [Q&A with Sundar Pichai and Rick Osterloh on their ambitions with Pixel 6, Tensor SoC, Google hardware, and the Android ecosystem at large (Dieter Bohn/The Verge)](http://www.techmeme.com/211019/p44#a211019p44)
+ - [Google Pixel 6 phone app adds new business and call screening features](https://www.androidauthority.com/google-pixel-6-phone-app-update-3042979/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
