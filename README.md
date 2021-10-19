@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What loneliness does to a man](http://9gag.com/gag/azeg7Xb)
- - 🚯 [Career ended before it even started...](http://9gag.com/gag/aQXP6Dw)
- - 🚯 [Is this even true?](http://9gag.com/gag/aQX6YGd)<!-- MEMES:END -->
+ - 🚖 [Good boi](http://9gag.com/gag/aRrw667)
+ - 🚯 [People here are denying the concentration camps.. wtf China bots ?](http://9gag.com/gag/axBdd9D)
+ - 🚯 [Career ended before it even started...](http://9gag.com/gag/aQXP6Dw)<!-- MEMES:END -->
 
 --- 
 
