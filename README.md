@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [New Splinter Cell reportedly in development](https://www.polygon.com/22734592/new-splinter-cell-sequel-development-ubisoft-release-date)
- - [Denis Villeneuve’s Dune is all world-building and no world-living](https://www.polygon.com/reviews/22733349/dune-review-denis-villeneuve-timothee-chalamet)
- - [Talking MMORPGs, From Ultima Online To Amazon's New World](https://kotaku.com/talking-mmorpgs-from-ultima-online-to-amazons-new-worl-1847891631)<!-- GAME:END -->
+ - [Wow, Gamers Really Want This Xbox Mini Fridge](https://kotaku.com/wow-gamers-really-want-this-xbox-mini-fridge-1847892702)
+ - [New World review-in-progress: Don't rush to the endgame](https://www.pcgamer.com/new-world-review)
+ - [The best graphics cards in 2021](https://www.pcgamer.com/the-best-graphics-cards)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
