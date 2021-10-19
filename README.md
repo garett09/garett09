@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When you personally disappoint your king.](http://9gag.com/gag/aGzKPen)
- - 🚯 [Is this even true?](http://9gag.com/gag/aQX6YGd)
- - 🚯 [Good boi](http://9gag.com/gag/aRrw667)<!-- MEMES:END -->
+ - 🚖 [Soo Neat](http://9gag.com/gag/a71vjzA)
+ - 🚯 [What they doing in there... I just went for tooth cleaning](http://9gag.com/gag/aXrZ8OP)
+ - 🚯 [Is this even true?](http://9gag.com/gag/aQX6YGd)<!-- MEMES:END -->
 
 --- 
 
