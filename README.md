@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Unite’s Drednaw And Rotom Tweak Just One Of Many Wild Patch Changes](https://kotaku.com/pokemon-unites-huge-patch-drednaw-nerf-rotom-buff-mo-1847896247)
- - [German Game Ban Just Screwed Over Switch Players On Several Other Continents](https://kotaku.com/german-game-ban-just-screwed-over-switch-players-on-sev-1847895244)
- - [Netflix’s new ‘most-watched’ metric is a win for Martin Scorsese and The Kissing Booth](https://www.polygon.com/22735310/netflix-most-watched-movie-irishman-squid-game-numbers)<!-- GAME:END -->
+ - [Activision Blizzard Has Fired 'More Than 20' Employees Over Harassment Lawsuit](https://kotaku.com/activision-blizzard-has-fired-more-than-20-employees-ov-1847896656)
+ - [Sea of Thieves celebrates 25 million players by tossing money around](https://www.pcgamer.com/sea-of-thieves-celebrates-25-million-players-by-tossing-money-around)
+ - [Where to reveal the command symbol in Fortnite](https://www.pcgamer.com/reveal-command-symbol-fortnite)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
