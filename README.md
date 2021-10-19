@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The new gta san andreas remake looking lit](http://9gag.com/gag/a71L5om)
- - 🚯 [Kurwa !](http://9gag.com/gag/a51eeXg)
- - 🚯 [Hold up !!!](http://9gag.com/gag/ay9757r)<!-- MEMES:END -->
+ - 🚖 [Kurwa !](http://9gag.com/gag/a51eeXg)
+ - 🚯 [Free energy y&rsquo;all](http://9gag.com/gag/axBdddK)
+ - 🚯 [Just a reminder](http://9gag.com/gag/a71LvXw)<!-- MEMES:END -->
 
 --- 
 
