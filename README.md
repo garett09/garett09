@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [macOS Monterey will have the old Safari tab design](https://www.theverge.com/2021/10/18/22733357/apple-old-safari-tab-design-macos-monterey)
- - [Invesco drops its pursuit of a bitcoin futures ETF filing hours before the first such product begins trading on the US stock market (Katherine Greifeld/Bloomberg)](http://www.techmeme.com/211018/p35#a211018p35)
- - [A piece of cloth to clean your Apple devices will cost you $19](https://www.theverge.com/2021/10/18/22733198/apple-polishing-cloth-clean-devices)<!-- TECH:END -->
+ - [AMC expands open captioning on movies in its US theaters](https://www.theverge.com/2021/10/18/22733577/amc-open-caption-screenings-showtimes)
+ - [PC games that run great on the Steam Deck will get a special ‘Verified’ check mark](https://www.theverge.com/2021/10/18/22733408/steam-deck-compatibility-verified-pc-gaming-valve)
+ - [Facebook posts an odd thread attacking 30+ unnamed journalists "finishing up a coordinated series of articles based on thousands of pages of leaked documents" (Edward Ongweso Jr/VICE)](http://www.techmeme.com/211018/p38#a211018p38)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
