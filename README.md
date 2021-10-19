@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Soo Neat](http://9gag.com/gag/a71vjzA)
- - 🚯 [What they doing in there... I just went for tooth cleaning](http://9gag.com/gag/aXrZ8OP)
- - 🚯 [Is this even true?](http://9gag.com/gag/aQX6YGd)<!-- MEMES:END -->
+ - 🚖 [What loneliness does to a man](http://9gag.com/gag/azeg7Xb)
+ - 🚯 [*sigh*](http://9gag.com/gag/a91j3go)
+ - 🚯 [Where am i? Who am i? What to do with life?](http://9gag.com/gag/ajgYQK0)<!-- MEMES:END -->
 
 --- 
 
