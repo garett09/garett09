@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Instagram says this week it will add a "Collabs" feature to let users co-author Reels and posts, the ability to post from desktop browsers, and more (Jon Porter/The Verge)](http://www.techmeme.com/211019/p35#a211019p35)
- - [Pixel 6 launch: How to watch the ‘Pixel Fall Launch’ event live](https://www.androidauthority.com/watch-google-pixel-6-launch-event-3039935/)
- - [Intel under fire: What Wall Street thinks about Apple's new MacBook Pro](https://appleinsider.com/articles/21/10/19/intel-under-fire-what-wall-street-thinks-about-apples-new-macbook-pro?utm_medium=rss)<!-- TECH:END -->
+ - [Google launches $599 Pixel 6, with 90Hz 6.4" display, and $899 Pixel 6 Pro, with 120Hz 6.7" display, both featuring an upgraded 50MP rear camera, coming Oct. 28 (Dan Seifert/The Verge)](http://www.techmeme.com/211019/p39#a211019p39)
+ - [Google releases Android 12 to current Pixel devices, featuring Material You, revamped Quick Settings, and more (Kris Holt/Engadget)](http://www.techmeme.com/211019/p38#a211019p38)
+ - [Google Pixel 6 hands-on: Bigger, bolder, and more divisive than expected](https://www.androidauthority.com/google-pixel-6-review-3042252/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
