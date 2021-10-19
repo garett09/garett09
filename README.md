@@ -193,7 +193,7 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Praise the internet](http://9gag.com/gag/a91jo6o)
+ - 🚖 [Trends through history](http://9gag.com/gag/a91j9P6)
  - 🚯 [What is this camel doing in my room?](http://9gag.com/gag/aVxjAvK)
  - 🚯 [Make your life more cinematic.](http://9gag.com/gag/a21E6m1)<!-- MEMES:END -->
 
