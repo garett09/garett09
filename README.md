@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Activision Blizzard May Have Found A Way To Wriggle Out Of California Lawsuit](https://kotaku.com/activision-blizzard-may-have-found-a-way-to-wriggle-out-1847895811)
- - [The first look at the Riverdale-Sabrina crossover event is absolutely bananas](https://www.polygon.com/22735326/riverdale-season-6-trailer-sabrina-crossover)
- - [Assassin’s Creed Discovery Tour: Viking Age available now](https://www.polygon.com/22735289/assassins-creed-discovery-tour-viking-age-release-dates-pc-standalone)<!-- GAME:END -->
+ - [Pokémon Unite’s Drednaw And Rotom Tweak Just One Of Many Wild Patch Changes](https://kotaku.com/pokemon-unites-huge-patch-drednaw-nerf-rotom-buff-mo-1847896247)
+ - [German Game Ban Just Screwed Over Switch Players On Several Other Continents](https://kotaku.com/german-game-ban-just-screwed-over-switch-players-on-sev-1847895244)
+ - [Netflix’s new ‘most-watched’ metric is a win for Martin Scorsese and The Kissing Booth](https://www.polygon.com/22735310/netflix-most-watched-movie-irishman-squid-game-numbers)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
