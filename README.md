@@ -193,7 +193,7 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [You can&#039;t always predict how people will use your product.](http://9gag.com/gag/aM4e3o6)
+ - 🚖 [How to be Indian 101](http://9gag.com/gag/aGzKXWn)
  - 🚯 [Petting an adult bear..](http://9gag.com/gag/awzNRnW)
  - 🚯 [Make your life more cinematic.](http://9gag.com/gag/a21E6m1)<!-- MEMES:END -->
 
