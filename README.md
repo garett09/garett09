@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Suit up with Crysis Remastered Trilogy Today for Xbox One and Xbox Series X|S](https://news.xbox.com/en-us/2021/10/18/suit-up-with-crysis-remastered-trilogy/)
- - [Valve is reviewing Steam's whole library for Steam Deck compatibility](https://www.pcgamer.com/valve-is-reviewing-steams-whole-library-for-steam-deck-compatibility)
- - [New World invulnerability trick is hilariously easy to pull off](https://www.pcgamer.com/new-world-invincibility-exploit)<!-- GAME:END -->
+ - [Dead by Daylight models are being sold as NFTs, no one is pleased](https://www.pcgamer.com/dead-by-daylight-models-are-being-sold-as-nfts-no-one-is-pleased)
+ - [$440 Super Mario Bros. x One Piece Crossover Has Wonderful Hair](https://kotaku.com/440-super-mario-bros-x-one-piece-crossover-has-wonder-1847888860)
+ - [This horror game set in an abandoned toy factory isn't playing around](https://www.pcgamer.com/this-horror-game-set-in-an-abandoned-toy-factory-isnt-playing-around)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
