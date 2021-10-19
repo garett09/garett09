@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This Atomic Clock Will Transform Deep Space Exploration](https://www.wired.com/story/this-atomic-clock-will-transform-deep-space-exploration)
- - [The New MacBook Pro Chips Flex the Power of Custom Silicon](https://www.wired.com/story/apples-new-macbook-pro-chips-flex-power-custom-silicon)
- - [How to Back Up Your Android Phone](https://www.wired.com/story/how-to-backup-your-android)<!-- TECH:END -->
+ - [Fortnite’s Halloween event turns Ariana Grande into ‘the galaxy’s greatest monster hunter’](https://www.theverge.com/2021/10/19/22733240/fortnite-fortnitemares-2021-halloween-event-ariana-grande)
+ - [Netflix’s latest live-action Cowboy Bebop teaser makes bounty hunting look easy](https://www.theverge.com/2021/10/19/22733237/netflix-cowboy-bebop-teaser-live-action-john-cho-spike)
+ - [Tabletop RPG Workers Say Their Jobs Are No Fantasy](https://www.wired.com/story/tabletop-rpg-workers-say-their-jobs-are-no-fantasy)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
