@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Berlin-based grocery delivery startup Gorillas raises nearly $1B, including $235M from Delivery Hero, at a ~$3B post-money valuation (Alexander Michael Pearson/Bloomberg)](http://www.techmeme.com/211019/p5#a211019p5)
- - [Pixel 6 launch: How to watch the ‘Pixel Fall Launch’ event live](https://www.androidauthority.com/watch-google-pixel-6-launch-event-3039935/)
- - [A new Sony Xperia is coming later this month, but what could it be? (Updated)](https://www.androidauthority.com/sony-xperia-launch-october-2021-3038635/)<!-- TECH:END -->
+ - [London-based Primer, which offers drag-and-drop e-commerce payment tools, raises a $50M Series B at a $425M valuation led by Iconiq Growth (Ingrid Lunden/TechCrunch)](http://www.techmeme.com/211019/p12#a211019p12)
+ - [UK supermarket Tesco launches its first GetGo "just walk out" store, using weight sensors and AI to track purchases, in partnership with Trigo (Sarah Butler/The Guardian)](http://www.techmeme.com/211019/p11#a211019p11)
+ - [A consortium of France's largest financial market participants utilized Banque de France's digital currency as part of a 10-month blockchain experiment (Philip Stafford/Financial Times)](http://www.techmeme.com/211019/p10#a211019p10)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
