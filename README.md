@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Wow, Gamers Really Want This Xbox Mini Fridge](https://kotaku.com/wow-gamers-really-want-this-xbox-mini-fridge-1847892702)
- - [New World review-in-progress: Don't rush to the endgame](https://www.pcgamer.com/new-world-review)
- - [The best graphics cards in 2021](https://www.pcgamer.com/the-best-graphics-cards)<!-- GAME:END -->
+ - [Go Super Saiyan in Dragon Ball FighterZ with Xbox Game Pass](https://news.xbox.com/en-us/2021/10/19/go-super-saiyan-in-dragon-ball-fighterz-with-xbox-game-pass/)
+ - [Wow, Xbox Mini Fridge Preorders Sell Out Within 15 Minutes](https://kotaku.com/wow-gamers-really-want-this-xbox-mini-fridge-1847892702)
+ - [New World review-in-progress: Don't rush to the endgame](https://www.pcgamer.com/new-world-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
