@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What is this camel doing in my room?](http://9gag.com/gag/aVxjAvK)
- - 🚯 [Trends through history](http://9gag.com/gag/a91j9P6)
+ - 🚖 [Hol&rsquo; up](http://9gag.com/gag/axBE5Wb)
+ - 🚯 [How many submarine does your country have?](http://9gag.com/gag/ay9EGpq)
  - 🚯 [Make your life more cinematic.](http://9gag.com/gag/a21E6m1)<!-- MEMES:END -->
 
 --- 
