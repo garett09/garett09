@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Good boi](http://9gag.com/gag/aRrw667)
- - 🚯 [People here are denying the concentration camps.. wtf China bots ?](http://9gag.com/gag/axBdd9D)
- - 🚯 [Career ended before it even started...](http://9gag.com/gag/aQXP6Dw)<!-- MEMES:END -->
+ - 🚖 [Career ended before it even started...](http://9gag.com/gag/aQXP6Dw)
+ - 🚯 [Wololo](http://9gag.com/gag/aZrq9V3)
+ - 🚯 [Kurwa !](http://9gag.com/gag/a51eeXg)<!-- MEMES:END -->
 
 --- 
 
