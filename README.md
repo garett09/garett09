@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Tensor vs Snapdragon 888 series: How the Pixel 6’s chip shapes up](https://www.androidauthority.com/google-tensor-vs-snapdragon-888-3025332/)
- - [The best Pixel 6 Pro cases you can buy](https://www.androidauthority.com/best-pixel-6-pro-cases-3042544/)
- - [Sinclair TV stations experienced a massive outage during ransomware attack](https://www.theverge.com/2021/10/19/22734746/ransomware-sinclair-broadcast-group-tv-stations-outage)<!-- TECH:END -->
+ - [Republic, which lets non-accredited investors buy startup stakes as tiny as $10, raises $150M Series B led by Valor Equity Partners, after March's $36M Series A (Connie Loizos/TechCrunch)](http://www.techmeme.com/211019/p51#a211019p51)
+ - [Internal doc: Amazon held talks with Starbucks to put its cashierless tech in a co-branded coffee shop, at one point aiming for a Q4 2020 launch (Eugene Kim/Insider)](http://www.techmeme.com/211019/p50#a211019p50)
+ - [Best mice for carpal tunnel in 2021](https://www.androidauthority.com/best-mice-for-carpal-tunnel-3040400/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
