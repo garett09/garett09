@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Kurwa !](http://9gag.com/gag/a51eeXg)
- - 🚯 [Free energy y&rsquo;all](http://9gag.com/gag/axBdddK)
- - 🚯 [Just a reminder](http://9gag.com/gag/a71LvXw)<!-- MEMES:END -->
+ - 🚖 [A lot of people don&#039;t understand the difference between being friendly and being friends!](http://9gag.com/gag/axBdNw2)
+ - 🚯 [Just a reminder](http://9gag.com/gag/a71LvXw)
+ - 🚯 [Dayum](http://9gag.com/gag/avAp2YX)<!-- MEMES:END -->
 
 --- 
 
