@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Genshin Impact's Latest Update Shows MiHoYo's Deep Respect For Japanese Culture](https://kotaku.com/genshin-impacts-latest-update-shows-mihoyos-respect-for-1847890519)
- - [The best UPS battery backup for PC gaming in 2021](https://www.pcgamer.com/the-best-uninterruptible-power-supplies-ups-for-pc)
- - [The best left-handed mouse for gaming in 2021](https://www.pcgamer.com/the-best-left-handed-mouse-for-gaming-for-2019)<!-- GAME:END -->
+ - [Apple claims its new M1 Max chip is a match for Nvidia's RTX 3080, but should we believe it?](https://www.pcgamer.com/apple-m1-max-nvidia-rtx-3080-performance)
+ - [The best RAM for gaming in 2021](https://www.pcgamer.com/best-ddr4-ram)
+ - [Best MSI gaming laptop deals](https://www.pcgamer.com/the-best-msi-laptop-for-gaming-2020)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
