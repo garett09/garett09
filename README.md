@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Choose wisely](http://9gag.com/gag/a11p4gP)
- - 🚯 [Where am i? Who am i? What to do with life?](http://9gag.com/gag/ajgYQK0)
- - 🚯 [Such a pain](http://9gag.com/gag/adg00E2)<!-- MEMES:END -->
+ - 🚖 [The new gta san andreas remake looking lit](http://9gag.com/gag/a71L5om)
+ - 🚯 [Kurwa !](http://9gag.com/gag/a51eeXg)
+ - 🚯 [Hold up !!!](http://9gag.com/gag/ay9757r)<!-- MEMES:END -->
 
 --- 
 
