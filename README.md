@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Apple claims its new M1 Max chip is a match for Nvidia's RTX 3080, but should we believe it?](https://www.pcgamer.com/apple-m1-max-nvidia-rtx-3080-performance)
- - [The best RAM for gaming in 2021](https://www.pcgamer.com/best-ddr4-ram)
- - [Best MSI gaming laptop deals](https://www.pcgamer.com/the-best-msi-laptop-for-gaming-2020)<!-- GAME:END -->
+ - [Coming Soon to Xbox Game Pass: Age of Empires IV, Dragon Ball FighterZ, and More](https://news.xbox.com/en-us/2021/10/19/coming-soon-xbox-game-pass-mid-october-update-2021/)
+ - [I Desperately Want These Rare Evangelion Figures](https://kotaku.com/i-desperately-want-these-rare-evangelion-figures-1847889145)
+ - [Voting is open for the Golden Joystick awards 2021](https://www.pcgamer.com/voting-is-open-for-the-golden-joystick-awards-2021)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
