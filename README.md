@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [India's CRED, which rewards customers for paying their credit card bills on time, raises a $251M Series E at a $4.01B valuation (Manish Singh/TechCrunch)](http://www.techmeme.com/211019/p2#a211019p2)
- - [Samsung Galaxy S10 series updates: October patch rolling out now](https://www.androidauthority.com/samsung-galaxy-s10-plus-update-969909/)
- - [Report: Indian startups raised $10B+ in a quarter for the first time in Q3 2021, with fintech, edtech, and SaaS startups accounting for ~50% of total funding (Tushar Deep Singh/The Economic Times)](http://www.techmeme.com/211019/p1#a211019p1)<!-- TECH:END -->
+ - [Production of Apple's AR headset pushed back to end of 2022, Kuo says](https://appleinsider.com/articles/21/10/19/production-of-apples-ar-headset-pushed-back-to-end-of-2022-kuo-says?utm_medium=rss)
+ - [You told us: Here’s what OS your next smartwatch will run](https://www.androidauthority.com/smartwatch-os-poll-results-3042417/)
+ - [This Raspberry Pi add-on lets you control Lego robots](https://www.theverge.com/2021/10/19/22729239/raspberry-pi-build-hat-lego-technic-spike-education-python)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
