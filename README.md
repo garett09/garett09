@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Compared: 2021 New 16-inch MacBook Pro versus 2019 16-inch MacBook Pro](https://appleinsider.com/articles/21/10/18/compared-2021-new-16-inch-macbook-pro-versus-2019-16-inch-macbook-pro?utm_medium=rss)
- - [M1 Pro and M1 Max GPU performance versus Nvidia and AMD](https://appleinsider.com/articles/21/10/19/m1-pro-and-m1-max-gpu-performance-versus-nvidia-and-amd?utm_medium=rss)
- - [Compared: Apple Music Voice Plan versus Individual Plan versus Family Plan](https://appleinsider.com/articles/21/10/18/compared-apple-music-voice-plan-versus-individual-plan-versus-family-plan?utm_medium=rss)<!-- TECH:END -->
+ - [Instagram says this week it will add a "Collabs" feature to let users co-author Reels and posts, the ability to post from desktop browsers, and more (Jon Porter/The Verge)](http://www.techmeme.com/211019/p35#a211019p35)
+ - [Pixel 6 launch: How to watch the ‘Pixel Fall Launch’ event live](https://www.androidauthority.com/watch-google-pixel-6-launch-event-3039935/)
+ - [Intel under fire: What Wall Street thinks about Apple's new MacBook Pro](https://appleinsider.com/articles/21/10/19/intel-under-fire-what-wall-street-thinks-about-apples-new-macbook-pro?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
