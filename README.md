@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Was allowed to take one handwritten Page to my exam. Here is the result:](http://9gag.com/gag/ay977d8)
- - 🚯 [Choose wisely](http://9gag.com/gag/a11p4gP)
- - 🚯 [Fusion in past :D](http://9gag.com/gag/adg00d9)<!-- MEMES:END -->
+ - 🚖 [Choose wisely](http://9gag.com/gag/a11p4gP)
+ - 🚯 [Where am i? Who am i? What to do with life?](http://9gag.com/gag/ajgYQK0)
+ - 🚯 [Such a pain](http://9gag.com/gag/adg00E2)<!-- MEMES:END -->
 
 --- 
 
