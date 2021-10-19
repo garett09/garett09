@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Productive life](http://9gag.com/gag/angeAjn)
- - 🚯 [And for her next trick](http://9gag.com/gag/aGzK3o6)
- - 🚯 [Make your life more cinematic.](http://9gag.com/gag/a21E6m1)<!-- MEMES:END -->
+ - 🚖 [How bad it is](http://9gag.com/gag/aE8drro)
+ - 🚯 [Tyre sizing](http://9gag.com/gag/a31voR1)
+ - 🚯 [Productive life](http://9gag.com/gag/angeAjn)<!-- MEMES:END -->
 
 --- 
 
