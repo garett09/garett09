@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Google Store is open again, and Pixel 6 delivery dates are all over the place](https://www.theverge.com/2021/10/19/22735046/google-pixel6-store-r013-r008-error-preorder-buy)
- - [Spec showdown: Google’s new Pixel 6 vs. Samsung, Apple, and more](https://www.theverge.com/2021/10/19/22735208/google-pixel-6-pro-spec-comparison-iphone-samsung-oneplus-camera-battery-screen-size)
- - [Snap launches a global creative studio called Arcadia to help brands develop AR advertising and experiences, partnering with companies like Verizon and WWE (Aisha Malik/TechCrunch)](http://www.techmeme.com/211019/p55#a211019p55)<!-- TECH:END -->
+ - [Snap, TikTok, and YouTube will attend a Senate hearing about social media's impact on children on October 26, spearheaded by Senators Blumenthal and Blackburn (Abram Brown/Forbes)](http://www.techmeme.com/211019/p57#a211019p57)
+ - [Google’s Pixel 6 doesn’t come with five years of Android updates — only three](https://www.theverge.com/2021/10/19/22735485/google-pixel-6-three-years-android-updates-security-feature)
+ - [ProShares ETF gained nearly 5% in its NYSE debut, with ~$981M in trading volume, making it the second most traded ETF debut ever, according to FactSet (Michael Wursthorn/Wall Street Journal)](http://www.techmeme.com/211019/p56#a211019p56)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
