@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Smash Bros. Ultimate’s final update finally brings Isabelle and Doomguy together](https://www.polygon.com/22734896/super-smash-bros-ultimate-final-dlc-animal-crossing-isabell-doom-slayer)
- - [Microsoft is 'definitely not done' acquiring studios](https://www.pcgamer.com/microsoft-is-definitely-not-done-acquiring-studios)
- - [Freak Brothers will be Tubi’s first free-to-watch cartoon original](https://www.polygon.com/animation-cartoons/22734953/fabulous-furry-freak-brothers-release-cast-tubi-streaming-free)<!-- GAME:END -->
+ - [If last week's surprise Fallout 3 update broke your mods, here's a fix](https://www.pcgamer.com/if-last-weeks-surprise-fallout-3-update-broke-your-mods-heres-a-fix)
+ - [Last Call, a game about domestic abuse, is both devastating and healing](https://www.polygon.com/22734907/last-call-nina-freeman-indie-game-free)
+ - [Seven Hours With Turnip Boy Commits Tax Evasion's Free DLC](https://kotaku.com/seven-hours-with-turnip-boy-commits-tax-fraud-s-free-dl-1847894342)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
