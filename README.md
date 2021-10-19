@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nikola allowed to proceed with $2 billion patent lawsuit against Tesla](https://www.theverge.com/2021/10/19/22734970/nikola-tesla-2-billion-patent-lawsuit-desgn-infringement)
- - [Q&A with Sundar Pichai and Rick Osterloh on their ambitions with Pixel 6, Tensor SoC, Google hardware, and the Android ecosystem at large (Dieter Bohn/The Verge)](http://www.techmeme.com/211019/p44#a211019p44)
- - [Google Pixel 6 phone app adds new business and call screening features](https://www.androidauthority.com/google-pixel-6-phone-app-update-3042979/)<!-- TECH:END -->
+ - [Google Tensor vs Snapdragon 888 series: How the Pixel 6’s chip shapes up](https://www.androidauthority.com/google-tensor-vs-snapdragon-888-3025332/)
+ - [The best Pixel 6 Pro cases you can buy](https://www.androidauthority.com/best-pixel-6-pro-cases-3042544/)
+ - [Sinclair TV stations experienced a massive outage during ransomware attack](https://www.theverge.com/2021/10/19/22734746/ransomware-sinclair-broadcast-group-tv-stations-outage)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
