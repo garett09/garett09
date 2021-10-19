@@ -187,8 +187,8 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- TECH:START -->
  - [New MacBook Pro models limited to HDMI 2.0](https://appleinsider.com/articles/21/10/19/new-macbook-pro-models-limited-to-hdmi-20?utm_medium=rss)
- - [NSA, CISA, and FBI say that ransomware group BlackMatter is attacking critical US infrastructure, including the food sector, demanding $80K-$15M in crypto (Tim Starks/CyberScoop)](http://www.techmeme.com/211018/p40#a211018p40)
- - [Amazon Prime Video: 26 best movies to stream this week     - CNET](https://www.cnet.com/news/amazon-prime-video-26-best-movies-to-stream-this-week/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Safari's color tab bar restricted to 'Compact' view in macOS Monterey, iPadOS 15.1](https://appleinsider.com/articles/21/10/19/safaris-color-tab-bar-restricted-to-compact-view-in-macos-monterey-ipados-151?utm_medium=rss)
+ - [Apple updates iMovie for Mac with Cinematic mode support, more](https://appleinsider.com/articles/21/10/19/apple-updates-imovie-for-mac-with-cinematic-mode-support-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
