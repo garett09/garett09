@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon Echo Show 8 (2nd gen) review: The Alexa smart display for everyone](https://www.androidauthority.com/amazon-echo-show-8-review-3038118/)
- - [Apple ceases iOS 15.0.1 code signing ahead of iOS 15.1 release](https://appleinsider.com/articles/21/10/19/apple-ceases-ios-1501-code-signing-ahead-of-ios-151-release?utm_medium=rss)
- - [Google could be aiming to double its 2020 shipments with Pixel 6 series alone](https://www.androidauthority.com/report-google-pixel-6-shipments-3042425/)<!-- TECH:END -->
+ - [Berlin-based grocery delivery startup Gorillas raises nearly $1B, including $235M from Delivery Hero, at a ~$3B post-money valuation (Alexander Michael Pearson/Bloomberg)](http://www.techmeme.com/211019/p5#a211019p5)
+ - [Pixel 6 launch: How to watch the ‘Pixel Fall Launch’ event live](https://www.androidauthority.com/watch-google-pixel-6-launch-event-3039935/)
+ - [A new Sony Xperia is coming later this month, but what could it be? (Updated)](https://www.androidauthority.com/sony-xperia-launch-october-2021-3038635/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
