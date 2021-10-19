@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fortnite’s Halloween event turns Ariana Grande into ‘the galaxy’s greatest monster hunter’](https://www.theverge.com/2021/10/19/22733240/fortnite-fortnitemares-2021-halloween-event-ariana-grande)
- - [Netflix’s latest live-action Cowboy Bebop teaser makes bounty hunting look easy](https://www.theverge.com/2021/10/19/22733237/netflix-cowboy-bebop-teaser-live-action-john-cho-spike)
- - [Tabletop RPG Workers Say Their Jobs Are No Fantasy](https://www.wired.com/story/tabletop-rpg-workers-say-their-jobs-are-no-fantasy)<!-- TECH:END -->
+ - [Skyflow, which offers a zero-trust repository for customer data, raises a $45M Series B led by Insight Partners, bringing its total funding to $70M (Alex Wilhelm/TechCrunch)](http://www.techmeme.com/211019/p27#a211019p27)
+ - [Israeli company Cato Networks, which offers cloud-based tools to protect remote workforces, raises $200M at a $2.5B valuation led by Lightspeed Venture Partners (NoCamels)](http://www.techmeme.com/211019/p26#a211019p26)
+ - [The Best Theragun (and Other Great Massage Guns)](https://www.wired.com/gallery/best-theragun-percussive-therapy-devices)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
