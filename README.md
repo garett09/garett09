@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Oh No Oh No](https://kotaku.com/oh-no-oh-no-1847889302)
  - [Dead by Daylight models are being sold as NFTs, no one is pleased](https://www.pcgamer.com/dead-by-daylight-models-are-being-sold-as-nfts-no-one-is-pleased)
- - [$440 Super Mario Bros. x One Piece Crossover Has Wonderful Hair](https://kotaku.com/440-super-mario-bros-x-one-piece-crossover-has-wonder-1847888860)
- - [This horror game set in an abandoned toy factory isn't playing around](https://www.pcgamer.com/this-horror-game-set-in-an-abandoned-toy-factory-isnt-playing-around)<!-- GAME:END -->
+ - [$440 Super Mario Bros. x One Piece Crossover Has Wonderful Hair](https://kotaku.com/440-super-mario-bros-x-one-piece-crossover-has-wonder-1847888860)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
