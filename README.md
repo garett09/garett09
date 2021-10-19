@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fortnite adds some melange with new Dune crossover](https://www.theverge.com/2021/10/19/22735293/fortnite-dune-crossover-skins-paul-atreides-timothee-chalamet-zendaya)
- - [Compared: Google Pixel 6 Pro versus Apple iPhone 13 Pro Max](https://appleinsider.com/articles/21/10/19/compared-google-pixel-6-pro-versus-apple-iphone-13-pro-max?utm_medium=rss)
- - [Android 12 features: Everything you need to know about Google’s latest OS](https://www.androidauthority.com/android-12-features-1195735/)<!-- TECH:END -->
+ - [The Google Store is open again, and Pixel 6 delivery dates are all over the place](https://www.theverge.com/2021/10/19/22735046/google-pixel6-store-r013-r008-error-preorder-buy)
+ - [Spec showdown: Google’s new Pixel 6 vs. Samsung, Apple, and more](https://www.theverge.com/2021/10/19/22735208/google-pixel-6-pro-spec-comparison-iphone-samsung-oneplus-camera-battery-screen-size)
+ - [Snap launches a global creative studio called Arcadia to help brands develop AR advertising and experiences, partnering with companies like Verizon and WWE (Aisha Malik/TechCrunch)](http://www.techmeme.com/211019/p55#a211019p55)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
