@@ -193,7 +193,7 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How to be Indian 101](http://9gag.com/gag/aGzKXWn)
+ - 🚖 [Female Cop Doesn&#039;t Play Around](http://9gag.com/gag/amgqjWv)
  - 🚯 [Petting an adult bear..](http://9gag.com/gag/awzNRnW)
  - 🚯 [Make your life more cinematic.](http://9gag.com/gag/a21E6m1)<!-- MEMES:END -->
 
