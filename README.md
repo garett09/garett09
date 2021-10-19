@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Female Cop Doesn&#039;t Play Around](http://9gag.com/gag/amgqjWv)
- - 🚯 [Petting an adult bear..](http://9gag.com/gag/awzNRnW)
+ - 🚖 [Moar Moves - the coordination of a ballerina and the power of a sumo](http://9gag.com/gag/aPZ6OGB)
+ - 🚯 [How bad it is](http://9gag.com/gag/aE8drro)
  - 🚯 [Make your life more cinematic.](http://9gag.com/gag/a21E6m1)<!-- MEMES:END -->
 
 --- 
