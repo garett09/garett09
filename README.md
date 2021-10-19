@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How bad it is](http://9gag.com/gag/aE8drro)
- - 🚯 [Tyre sizing](http://9gag.com/gag/a31voR1)
+ - 🚖 [Tyre sizing](http://9gag.com/gag/a31voR1)
+ - 🚯 [PETA trying to remove this feature from Far Cry 6](http://9gag.com/gag/aYrj85N)
  - 🚯 [Productive life](http://9gag.com/gag/angeAjn)<!-- MEMES:END -->
 
 --- 
