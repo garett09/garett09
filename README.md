@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [I should hate Assassin's Creed Valhalla, so why have I played it for 120 hours?](https://www.pcgamer.com/i-should-hate-assassins-creed-valhalla-so-why-i-have-i-played-it-for-120-hours)
  - [Oh No Oh No](https://kotaku.com/oh-no-oh-no-1847889302)
- - [Dead by Daylight models are being sold as NFTs, no one is pleased](https://www.pcgamer.com/dead-by-daylight-models-are-being-sold-as-nfts-no-one-is-pleased)
- - [$440 Super Mario Bros. x One Piece Crossover Has Wonderful Hair](https://kotaku.com/440-super-mario-bros-x-one-piece-crossover-has-wonder-1847888860)<!-- GAME:END -->
+ - [Dead by Daylight models are being sold as NFTs, no one is pleased](https://www.pcgamer.com/dead-by-daylight-models-are-being-sold-as-nfts-no-one-is-pleased)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
