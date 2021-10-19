@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Target to double stores with Apple 'shop in shop' by Christmas](https://appleinsider.com/articles/21/10/19/target-to-double-stores-with-apple-shop-in-shop-by-christmas?utm_medium=rss)
- - [Apple confirms its 140W charging brick, bundled with the 16-inch MacBook Pro, uses the USB-C PD 3.1 standard and is its first gallium nitride (GaN) charger (Jon Porter/The Verge)](http://www.techmeme.com/211019/p29#a211019p29)
- - [Microsoft Flight Simulator: Game of the Year Edition will include DirectX 12 support](https://www.theverge.com/2021/10/19/22734169/microsoft-flight-simulator-game-of-the-year-edition-directx-12-support-date)<!-- TECH:END -->
+ - [Compared: 2021 New 16-inch MacBook Pro versus 2019 16-inch MacBook Pro](https://appleinsider.com/articles/21/10/18/compared-2021-new-16-inch-macbook-pro-versus-2019-16-inch-macbook-pro?utm_medium=rss)
+ - [M1 Pro and M1 Max GPU performance versus Nvidia and AMD](https://appleinsider.com/articles/21/10/19/m1-pro-and-m1-max-gpu-performance-versus-nvidia-and-amd?utm_medium=rss)
+ - [Compared: Apple Music Voice Plan versus Individual Plan versus Family Plan](https://appleinsider.com/articles/21/10/18/compared-apple-music-voice-plan-versus-individual-plan-versus-family-plan?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
