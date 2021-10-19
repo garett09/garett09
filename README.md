@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Fallout 76’s Bombs Drop Event Brings Spooky Scorched, Sales, and Free Play Week](https://news.xbox.com/en-us/2021/10/19/fallout-76-bombs-drop-event-2021/)
- - [DC dogs Krypto and Ace are getting their own game, apparently](https://www.polygon.com/22735100/dc-fandome-league-super-pets-dogs-krypto-ace-game-outright)
- - [A new Star Wars tabletop role-playing game is on the way from an experienced team](https://www.polygon.com/22735032/star-wars-tabletop-rpg-announcement-release-date-price)<!-- GAME:END -->
+ - [Activision Blizzard May Have Found A Way To Wriggle Out Of California Lawsuit](https://kotaku.com/activision-blizzard-may-have-found-a-way-to-wriggle-out-1847895811)
+ - [The first look at the Riverdale-Sabrina crossover event is absolutely bananas](https://www.polygon.com/22735326/riverdale-season-6-trailer-sabrina-crossover)
+ - [Assassin’s Creed Discovery Tour: Viking Age available now](https://www.polygon.com/22735289/assassins-creed-discovery-tour-viking-age-release-dates-pc-standalone)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
