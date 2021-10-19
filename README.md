@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Production of Apple's AR headset pushed back to end of 2022, Kuo says](https://appleinsider.com/articles/21/10/19/production-of-apples-ar-headset-pushed-back-to-end-of-2022-kuo-says?utm_medium=rss)
- - [You told us: Here’s what OS your next smartwatch will run](https://www.androidauthority.com/smartwatch-os-poll-results-3042417/)
- - [This Raspberry Pi add-on lets you control Lego robots](https://www.theverge.com/2021/10/19/22729239/raspberry-pi-build-hat-lego-technic-spike-education-python)<!-- TECH:END -->
+ - [Amazon Echo Show 8 (2nd gen) review: The Alexa smart display for everyone](https://www.androidauthority.com/amazon-echo-show-8-review-3038118/)
+ - [Apple ceases iOS 15.0.1 code signing ahead of iOS 15.1 release](https://appleinsider.com/articles/21/10/19/apple-ceases-ios-1501-code-signing-ahead-of-ios-151-release?utm_medium=rss)
+ - [Google could be aiming to double its 2020 shipments with Pixel 6 series alone](https://www.androidauthority.com/report-google-pixel-6-shipments-3042425/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
