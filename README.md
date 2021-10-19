@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [London-based Primer, which offers drag-and-drop e-commerce payment tools, raises a $50M Series B at a $425M valuation led by Iconiq Growth (Ingrid Lunden/TechCrunch)](http://www.techmeme.com/211019/p12#a211019p12)
- - [UK supermarket Tesco launches its first GetGo "just walk out" store, using weight sensors and AI to track purchases, in partnership with Trigo (Sarah Butler/The Guardian)](http://www.techmeme.com/211019/p11#a211019p11)
- - [A consortium of France's largest financial market participants utilized Banque de France's digital currency as part of a 10-month blockchain experiment (Philip Stafford/Financial Times)](http://www.techmeme.com/211019/p10#a211019p10)<!-- TECH:END -->
+ - [This Atomic Clock Will Transform Deep Space Exploration](https://www.wired.com/story/this-atomic-clock-will-transform-deep-space-exploration)
+ - [The New MacBook Pro Chips Flex the Power of Custom Silicon](https://www.wired.com/story/apples-new-macbook-pro-chips-flex-power-custom-silicon)
+ - [How to Back Up Your Android Phone](https://www.wired.com/story/how-to-backup-your-android)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
