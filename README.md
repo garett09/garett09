@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Harry Styles has reportedly joined the Marvel Cinematic Universe in a potentially spoilery way](https://www.polygon.com/22734386/harry-styles-eros-starfox-marvel)
- - [Sensing your surroundings in Heavenly Bodies, coming in 2021](http://feedproxy.google.com/~r/PSBlog/~3/RyuOwwdBAV8/)
- - [Sensing your surroundings in Heavenly Bodies, coming in 2021](https://blog.playstation.com/2021/10/19/sensing-your-surroundings-in-heavenly-bodies-coming-in-2021/)<!-- GAME:END -->
+ - [New Splinter Cell reportedly in development](https://www.polygon.com/22734592/new-splinter-cell-sequel-development-ubisoft-release-date)
+ - [Denis Villeneuve’s Dune is all world-building and no world-living](https://www.polygon.com/reviews/22733349/dune-review-denis-villeneuve-timothee-chalamet)
+ - [Talking MMORPGs, From Ultima Online To Amazon's New World](https://kotaku.com/talking-mmorpgs-from-ultima-online-to-amazons-new-worl-1847891631)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
