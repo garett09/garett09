@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hol&rsquo; up](http://9gag.com/gag/axBE5Wb)
- - 🚯 [How many submarine does your country have?](http://9gag.com/gag/ay9EGpq)
+ - 🚖 [You can&#039;t always predict how people will use your product.](http://9gag.com/gag/aM4e3o6)
+ - 🚯 [Petting an adult bear..](http://9gag.com/gag/awzNRnW)
  - 🚯 [Make your life more cinematic.](http://9gag.com/gag/a21E6m1)<!-- MEMES:END -->
 
 --- 
