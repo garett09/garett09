@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Republic, which lets non-accredited investors buy startup stakes as tiny as $10, raises $150M Series B led by Valor Equity Partners, after March's $36M Series A (Connie Loizos/TechCrunch)](http://www.techmeme.com/211019/p51#a211019p51)
- - [Internal doc: Amazon held talks with Starbucks to put its cashierless tech in a co-branded coffee shop, at one point aiming for a Q4 2020 launch (Eugene Kim/Insider)](http://www.techmeme.com/211019/p50#a211019p50)
- - [Best mice for carpal tunnel in 2021](https://www.androidauthority.com/best-mice-for-carpal-tunnel-3040400/)<!-- TECH:END -->
+ - [Fortnite adds some melange with new Dune crossover](https://www.theverge.com/2021/10/19/22735293/fortnite-dune-crossover-skins-paul-atreides-timothee-chalamet-zendaya)
+ - [Compared: Google Pixel 6 Pro versus Apple iPhone 13 Pro Max](https://appleinsider.com/articles/21/10/19/compared-google-pixel-6-pro-versus-apple-iphone-13-pro-max?utm_medium=rss)
+ - [Android 12 features: Everything you need to know about Google’s latest OS](https://www.androidauthority.com/android-12-features-1195735/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
