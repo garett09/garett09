@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [AMC expands open captioning on movies in its US theaters](https://www.theverge.com/2021/10/18/22733577/amc-open-caption-screenings-showtimes)
- - [PC games that run great on the Steam Deck will get a special ‘Verified’ check mark](https://www.theverge.com/2021/10/18/22733408/steam-deck-compatibility-verified-pc-gaming-valve)
- - [Facebook posts an odd thread attacking 30+ unnamed journalists "finishing up a coordinated series of articles based on thousands of pages of leaked documents" (Edward Ongweso Jr/VICE)](http://www.techmeme.com/211018/p38#a211018p38)<!-- TECH:END -->
+ - [Apple's M1 Max is 1.5x faster than M1 in supposed benchmark](https://appleinsider.com/articles/21/10/18/apples-m1-max-is-15x-faster-than-m1-in-supposed-benchmark?utm_medium=rss)
+ - [Apple brings back standard Safari tab design in macOS release candidate](https://appleinsider.com/articles/21/10/18/apple-brings-back-standard-safari-tab-design-in-macos-release-candidate?utm_medium=rss)
+ - [Apps can use full screen area around new MacBook Pro's camera notch](https://appleinsider.com/articles/21/10/19/apps-can-use-full-screen-area-around-new-macbook-pros-camera-notch?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
