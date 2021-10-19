@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Career ended before it even started...](http://9gag.com/gag/aQXP6Dw)
- - 🚯 [Wololo](http://9gag.com/gag/aZrq9V3)
- - 🚯 [Kurwa !](http://9gag.com/gag/a51eeXg)<!-- MEMES:END -->
+ - 🚖 [Was allowed to take one handwritten Page to my exam. Here is the result:](http://9gag.com/gag/ay977d8)
+ - 🚯 [Choose wisely](http://9gag.com/gag/a11p4gP)
+ - 🚯 [Fusion in past :D](http://9gag.com/gag/adg00d9)<!-- MEMES:END -->
 
 --- 
 
