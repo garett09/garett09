@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [New MacBook Pro models limited to HDMI 2.0](https://appleinsider.com/articles/21/10/19/new-macbook-pro-models-limited-to-hdmi-20?utm_medium=rss)
- - [Safari's color tab bar restricted to 'Compact' view in macOS Monterey, iPadOS 15.1](https://appleinsider.com/articles/21/10/19/safaris-color-tab-bar-restricted-to-compact-view-in-macos-monterey-ipados-151?utm_medium=rss)
- - [Apple updates iMovie for Mac with Cinematic mode support, more](https://appleinsider.com/articles/21/10/19/apple-updates-imovie-for-mac-with-cinematic-mode-support-more?utm_medium=rss)<!-- TECH:END -->
+ - [Apple's 2021 MacBook Pro is already on sale, save up to $345](https://appleinsider.com/articles/21/10/18/apples-2021-macbook-pro-14-and-16-is-already-on-sale-save-up-to-305?utm_medium=rss)
+ - [Movies coming in 2021 and 2022 from Netflix, Marvel, HBO and more     - CNET](https://www.cnet.com/pictures/new-movies-coming-out-in-2021-and-2022-netflix-marvel-and-more/#ftag=CAD590a51e)
+ - [The Fisher-Price phone is now a real phone for adults because we're all broken inside     - CNET](https://www.cnet.com/news/the-fisher-price-phone-is-now-a-real-phone-for-adults-because-were-all-broken-inside/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
