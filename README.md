@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Skyflow, which offers a zero-trust repository for customer data, raises a $45M Series B led by Insight Partners, bringing its total funding to $70M (Alex Wilhelm/TechCrunch)](http://www.techmeme.com/211019/p27#a211019p27)
- - [Israeli company Cato Networks, which offers cloud-based tools to protect remote workforces, raises $200M at a $2.5B valuation led by Lightspeed Venture Partners (NoCamels)](http://www.techmeme.com/211019/p26#a211019p26)
- - [The Best Theragun (and Other Great Massage Guns)](https://www.wired.com/gallery/best-theragun-percussive-therapy-devices)<!-- TECH:END -->
+ - [Target to double stores with Apple 'shop in shop' by Christmas](https://appleinsider.com/articles/21/10/19/target-to-double-stores-with-apple-shop-in-shop-by-christmas?utm_medium=rss)
+ - [Apple confirms its 140W charging brick, bundled with the 16-inch MacBook Pro, uses the USB-C PD 3.1 standard and is its first gallium nitride (GaN) charger (Jon Porter/The Verge)](http://www.techmeme.com/211019/p29#a211019p29)
+ - [Microsoft Flight Simulator: Game of the Year Edition will include DirectX 12 support](https://www.theverge.com/2021/10/19/22734169/microsoft-flight-simulator-game-of-the-year-edition-directx-12-support-date)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
