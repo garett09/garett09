@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How bad it is](http://9gag.com/gag/aE8drro)
- - 🚯 [When you personally disappoint your king.](http://9gag.com/gag/aGzKPen)
+ - 🚖 [Productive life](http://9gag.com/gag/angeAjn)
+ - 🚯 [And for her next trick](http://9gag.com/gag/aGzK3o6)
  - 🚯 [Make your life more cinematic.](http://9gag.com/gag/a21E6m1)<!-- MEMES:END -->
 
 --- 
