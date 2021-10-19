@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple's M1 Max is 1.5x faster than M1 in supposed benchmark](https://appleinsider.com/articles/21/10/18/apples-m1-max-is-15x-faster-than-m1-in-supposed-benchmark?utm_medium=rss)
- - [Apple brings back standard Safari tab design in macOS release candidate](https://appleinsider.com/articles/21/10/18/apple-brings-back-standard-safari-tab-design-in-macos-release-candidate?utm_medium=rss)
- - [Apps can use full screen area around new MacBook Pro's camera notch](https://appleinsider.com/articles/21/10/19/apps-can-use-full-screen-area-around-new-macbook-pros-camera-notch?utm_medium=rss)<!-- TECH:END -->
+ - [New MacBook Pro models limited to HDMI 2.0](https://appleinsider.com/articles/21/10/19/new-macbook-pro-models-limited-to-hdmi-20?utm_medium=rss)
+ - [NSA, CISA, and FBI say that ransomware group BlackMatter is attacking critical US infrastructure, including the food sector, demanding $80K-$15M in crypto (Tim Starks/CyberScoop)](http://www.techmeme.com/211018/p40#a211018p40)
+ - [Amazon Prime Video: 26 best movies to stream this week     - CNET](https://www.cnet.com/news/amazon-prime-video-26-best-movies-to-stream-this-week/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
