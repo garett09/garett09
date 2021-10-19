@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Tyre sizing](http://9gag.com/gag/a31voR1)
- - 🚯 [PETA trying to remove this feature from Far Cry 6](http://9gag.com/gag/aYrj85N)
- - 🚯 [Productive life](http://9gag.com/gag/angeAjn)<!-- MEMES:END -->
+ - 🚖 [When you personally disappoint your king.](http://9gag.com/gag/aGzKPen)
+ - 🚯 [Is this even true?](http://9gag.com/gag/aQX6YGd)
+ - 🚯 [Good boi](http://9gag.com/gag/aRrw667)<!-- MEMES:END -->
 
 --- 
 
