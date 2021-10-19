@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple's 2021 MacBook Pro is already on sale, save up to $345](https://appleinsider.com/articles/21/10/18/apples-2021-macbook-pro-14-and-16-is-already-on-sale-save-up-to-305?utm_medium=rss)
- - [Movies coming in 2021 and 2022 from Netflix, Marvel, HBO and more     - CNET](https://www.cnet.com/pictures/new-movies-coming-out-in-2021-and-2022-netflix-marvel-and-more/#ftag=CAD590a51e)
- - [The Fisher-Price phone is now a real phone for adults because we're all broken inside     - CNET](https://www.cnet.com/news/the-fisher-price-phone-is-now-a-real-phone-for-adults-because-were-all-broken-inside/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [India's CRED, which rewards customers for paying their credit card bills on time, raises a $251M Series E at a $4.01B valuation (Manish Singh/TechCrunch)](http://www.techmeme.com/211019/p2#a211019p2)
+ - [Samsung Galaxy S10 series updates: October patch rolling out now](https://www.androidauthority.com/samsung-galaxy-s10-plus-update-969909/)
+ - [Report: Indian startups raised $10B+ in a quarter for the first time in Q3 2021, with fintech, edtech, and SaaS startups accounting for ~50% of total funding (Tushar Deep Singh/The Economic Times)](http://www.techmeme.com/211019/p1#a211019p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
