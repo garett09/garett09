@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Internal email: Apple will test unvaccinated corporate staff each time they enter offices starting Nov. 1, and asks US staff to report vaccine status by Oct. 24 (Mark Gurman/Bloomberg)](http://www.techmeme.com/211020/p44#a211020p44)
- - [Apple to require stringent COVID-19 testing for unvaccinated employees](https://appleinsider.com/articles/21/10/20/apple-to-require-stringent-covid-19-testing-for-unvaccinated-employees?utm_medium=rss)
- - [Segway’s ‘Mecha Kit’ turns your transporter into a rolling turret](https://www.theverge.com/22737058/segway-mecha-kit-rolling-water-gun-turret)<!-- TECH:END -->
+ - [LG Reflect review: The K51’s evil twin](https://www.androidauthority.com/lg-reflect-review-3019831/)
+ - [Two SIM swappers phished a phone company so they could steal $16K in crypto](https://www.theverge.com/2021/10/20/22736474/sim-swapping-crypto-currency-wireless-thief-guilty)
+ - [Apple to require stringent COVID-19 testing for unvaccinated employees](https://appleinsider.com/articles/21/10/20/apple-to-require-stringent-covid-19-testing-for-unvaccinated-employees?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
