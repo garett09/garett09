@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily Authority: It’s Pixel day! ✨](https://www.androidauthority.com/newsletters/da-october-20-2021/)
- - [Pinterest redesigns its home feed, adding a Watch tab for short videos and photo albums (Queenie Wong/CNET)](http://www.techmeme.com/211020/p18#a211020p18)
- - [Resident Evil 4 in VR shouldn’t work — but somehow it does](https://www.theverge.com/22726158/resident-evil-4-vr-capcom-oculus-quest-2-review)<!-- TECH:END -->
+ - [Apple's M1 Pro and M1 Max chips mean new trouble for Intel     - CNET](https://www.cnet.com/tech/computing/apples-m1-pro-and-m1-max-chips-mean-new-trouble-for-intel/#ftag=CAD590a51e)
+ - [Could small nuclear reactors be the future of energy?     - CNET](https://www.cnet.com/home/energy-and-utilities/could-small-nuclear-reactors-be-the-future-of-energy/#ftag=CAD590a51e)
+ - [GM's 1,000 hp 632 cubic-inch crate engine is its largest and most powerful ever     - Roadshow](https://www.cnet.com/roadshow/news/gm-crate-engine-zz632-1000-horsepower/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
