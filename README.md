@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Activision Blizzard Has Fired 'More Than 20' Employees Over Harassment Lawsuit](https://kotaku.com/activision-blizzard-has-fired-more-than-20-employees-ov-1847896656)
- - [Sea of Thieves celebrates 25 million players by tossing money around](https://www.pcgamer.com/sea-of-thieves-celebrates-25-million-players-by-tossing-money-around)
- - [Where to reveal the command symbol in Fortnite](https://www.pcgamer.com/reveal-command-symbol-fortnite)<!-- GAME:END -->
+ - [Activision Blizzard wants California lawsuit paused due to alleged ethics violation](https://www.pcgamer.com/activision-blizzard-wants-california-lawsuit-paused-due-to-alleged-ethics-violation)
+ - [Lego Says No To Amazing Hyrule Castle Playset](https://kotaku.com/lego-says-no-to-amazing-hyrule-castle-playset-1847896535)
+ - [Where to collect a record and place in a turntable in Fortnite](https://www.pcgamer.com/collect-a-record-and-place-in-a-turntable-in-fortnite)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
