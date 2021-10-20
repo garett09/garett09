@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It definetly works](http://9gag.com/gag/aLvRBXz)
- - 🚯 [No backpack dayat school](http://9gag.com/gag/aXr0Xog)
- - 🚯 [We felt that...](http://9gag.com/gag/avApLNM)<!-- MEMES:END -->
+ - 🚖 [Redheads](http://9gag.com/gag/amgN0y4)
+ - 🚯 [He&#039;s got a point...](http://9gag.com/gag/a21zq4E)
+ - 🚯 [No backpack dayat school](http://9gag.com/gag/aXr0Xog)<!-- MEMES:END -->
 
 --- 
 
