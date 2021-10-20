@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Activision Blizzard says 20+ employees, including developers and supervisors, "exited" the company and 20+ faced disciplinary action after misconduct complaints (Adi Robertson/The Verge)](http://www.techmeme.com/211019/p58#a211019p58)
- - [Dune movie: First 10 minutes left me with a dropped jaw, high expectations     - CNET](https://www.cnet.com/news/dune-movie-first-10-minutes-left-me-with-a-dropped-jaw-high-expectations/#ftag=CAD590a51e)
- - [You need a $20 adapter upgrade to fast-charge Apple's base model 14-inch MacBook Pro](https://appleinsider.com/articles/21/10/19/you-need-a-20-adapter-upgrade-to-fast-charge-apples-base-model-14-inch-macbook-pro?utm_medium=rss)<!-- TECH:END -->
+ - [Apple Developer app updated delivers picture-in-picture, more](https://appleinsider.com/articles/21/10/20/apple-developer-app-updated-delivers-picture-in-picture-more?utm_medium=rss)
+ - [MacBook Pro's mouse cursor moves behind camera 'notch'](https://appleinsider.com/articles/21/10/20/macbook-pros-mouse-cursor-moves-behind-camera-notch?utm_medium=rss)
+ - [Get 6 bottles of wine for just $25 with FirstLeaf     - CNET](https://www.cnet.com/home/get-6-bottles-of-wine-for-just-25-with-firstleaf/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
