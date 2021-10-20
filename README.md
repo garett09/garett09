@@ -194,8 +194,8 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [It definetly works](http://9gag.com/gag/aLvRBXz)
- - 🚯 [I laughed more at this than I should](http://9gag.com/gag/a21zq1p)
- - 🚯 [Do you have a place in your city where even police dont go during the night ?](http://9gag.com/gag/a71LbDe)<!-- MEMES:END -->
+ - 🚯 [No backpack dayat school](http://9gag.com/gag/aXr0Xog)
+ - 🚯 [We felt that...](http://9gag.com/gag/avApLNM)<!-- MEMES:END -->
 
 --- 
 
