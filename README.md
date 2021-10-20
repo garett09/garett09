@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon offers up more data to tell third-party sellers which items will be popular](https://www.theverge.com/2021/10/20/22736658/amazon-product-opportunity-explorer-tool-sellers-amazon-basics-data)
- - [AT&T's best iPhone deals offer steep savings for new and existing customers](https://appleinsider.com/articles/21/10/20/atts-best-iphone-deals-offer-steep-savings-for-new-and-existing-customers?utm_medium=rss)
- - [Since May, Google says it has blocked 1.6M messages and restored ~4,000 YouTube influencer accounts affected by a phishing campaign offering fake collaborations (Aisha Counts/Protocol)](http://www.techmeme.com/211020/p37#a211020p37)<!-- TECH:END -->
+ - [Save $200 on Apple's 12.9-inch iPad Pro at Amazon](https://appleinsider.com/articles/21/10/20/save-200-on-apples-129-inch-ipad-pro-at-amazon?utm_medium=rss)
+ - [VR treatment for lazy eye in children gets FDA approval](https://www.theverge.com/2021/10/20/22736894/fda-vr-tv-movies-treatment-lazy-eye-amblyopia)
+ - [Hyper’s new 245W USB-C battery pack and charger are here to help charge all your gear at once](https://www.theverge.com/2021/10/20/22736571/hyper-hyperjuice-245w-usb-c-battery-pack-charger-indiegogo)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
