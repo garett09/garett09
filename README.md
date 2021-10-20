@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [6 best Android parental control apps and other methods](https://www.androidauthority.com/best-parental-control-apps-android-1133716/)
- - [Analysis: Andreessen Horowitz's investment team has grown to 70 in the past four years, up by 170%, outpacing Sequoia, Accel, Lightspeed, and others (The Information)](http://www.techmeme.com/211020/p29#a211020p29)
- - [The mission to break barriers to space travel for people with disabilities](https://www.theverge.com/2021/10/20/22734331/mission-astro-access-disability-zero-g-flight-space-travel)<!-- TECH:END -->
+ - [New low price on the Galaxy Tab S7 FE, and more Samsung Galaxy Tab deals](https://www.androidauthority.com/best-cheap-samsung-galaxy-tab-deals-1119065/)
+ - [Mark Zuckerberg has been added to a DC lawsuit over the Cambridge Analytica scandal](https://www.theverge.com/2021/10/20/22736476/mark-zuckerberg-dc-attorney-general-facebook-cambridge-analytica-lawsuit)
+ - [Google Pixel 6 vs Pixel 5a: What’s the difference and which should you buy?](https://www.androidauthority.com/google-pixel-6-vs-pixel-5a-3041974/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
