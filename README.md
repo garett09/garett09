@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Save $200 on Apple's 12.9-inch iPad Pro at Amazon](https://appleinsider.com/articles/21/10/20/save-200-on-apples-129-inch-ipad-pro-at-amazon?utm_medium=rss)
- - [VR treatment for lazy eye in children gets FDA approval](https://www.theverge.com/2021/10/20/22736894/fda-vr-tv-movies-treatment-lazy-eye-amblyopia)
- - [Hyper’s new 245W USB-C battery pack and charger are here to help charge all your gear at once](https://www.theverge.com/2021/10/20/22736571/hyper-hyperjuice-245w-usb-c-battery-pack-charger-indiegogo)<!-- TECH:END -->
+ - [Amazon offers up more data to tell third-party sellers which items will be popular](https://www.theverge.com/2021/10/20/22736658/amazon-product-opportunity-explorer-tool-sellers-amazon-basics-data)
+ - [SAP's Qualtrics reports Q3 revenue of $271.6M, up 41% YoY, subscription revenue of $220.3M, up 49% YoY, Q4 projected sales of $297M, vs $264M est.; stock up 5%+ (Stephen Nellis/Reuters)](http://www.techmeme.com/211020/p41#a211020p41)
+ - [Activision Blizzard discrimination case shouldn’t halt over agency feud, California argues in new court filing](https://www.theverge.com/2021/10/20/22737003/activision-blizzard-discrimination-lawsuit-dfeh-response)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
