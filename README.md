@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to install Fortnite on Android](https://www.theverge.com/22736420/fortnite-android-google-install-how-to)
- - [[Thread] Analysis of FTC's report on Big Tech's startup M&A between 2010 and 2019: half of the deals were <$10M, most had <10 people and were US-based, and more (Benedict Evans/@benedictevans)](http://www.techmeme.com/211020/p35#a211020p35)
- - [Apple launches 'Tech Talks,' new sessions and workshops for developers](https://appleinsider.com/articles/21/10/20/apple-launches-tech-talks-new-sessions-and-workshops-for-developers?utm_medium=rss)<!-- TECH:END -->
+ - [Night Teeth review: Bite into this vampire horror original on Netflix](https://www.androidauthority.com/night-teeth-review-netflix-3042249/)
+ - [Apple launches 'Tech Talks,' new sessions and workshops for developers](https://appleinsider.com/articles/21/10/20/apple-launches-tech-talks-new-sessions-and-workshops-for-developers?utm_medium=rss)
+ - [MagSafe on the new MacBook Pro: Everything you need to know](https://appleinsider.com/articles/21/10/20/magsafe-on-the-latest-macbook-pros-everything-you-need-to-know?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
