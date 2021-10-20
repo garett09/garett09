@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Don&#039;t worry babe](http://9gag.com/gag/angqXno)
- - 🚯 [People here are denying the concentration camps.. wtf China bots ?](http://9gag.com/gag/axBdd9D)
- - 🚯 [A lot of people don&#039;t understand the difference between being friendly and being friends!](http://9gag.com/gag/axBdNw2)<!-- MEMES:END -->
+ - 🚖 [Such a pain](http://9gag.com/gag/adg00E2)
+ - 🚯 [A lot of people don&#039;t understand the difference between being friendly and being friends!](http://9gag.com/gag/axBdNw2)
+ - 🚯 [Fusion in past :D](http://9gag.com/gag/adg00d9)<!-- MEMES:END -->
 
 --- 
 
