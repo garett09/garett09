@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It&#039;s time my dudes](http://9gag.com/gag/aM42b3W)
- - 🚯 [Optimus prime aint got the minerals to get to the high ground CUZCO,Per&uacute;](http://9gag.com/gag/aAGRYm9)
- - 🚯 [A lot of people don&#039;t understand the difference between being friendly and being friends!](http://9gag.com/gag/axBdNw2)<!-- MEMES:END -->
+ - 🚖 [It was a genuine question](http://9gag.com/gag/aE8v17K)
+ - 🚯 [We made a lifelong dream come true last week and bought a cabin in the woods.](http://9gag.com/gag/aWgQWBZ)
+ - 🚯 [For the first time since they were wiped out in 1870. Bison have been released back into the wild of Badlands National Park!](http://9gag.com/gag/angqXOo)<!-- MEMES:END -->
 
 --- 
 
