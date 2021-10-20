@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s why you can’t buy the Google Pixel 6 in India](https://www.androidauthority.com/google-pixel-6-india-3042428/)
- - [Prague-based Rossum, which uses AI to automate document processing, raises a $100M Series A led by General Catalyst, sources say at a $500M-$1B valuation (Paul Sawers/VentureBeat)](http://www.techmeme.com/211020/p5#a211020p5)
- - [Comcast unveils XClass smart TVs starting at $298, available at Walmart, and offering 12 months of ad-supported Peacock Premium for free in the US (Todd Spangler/Variety)](http://www.techmeme.com/211020/p4#a211020p4)<!-- TECH:END -->
+ - [A look at the use of drones and online "in-play" betting at UK horse racing venues to gain a gambling advantage, which has angered many in the racing industry (Chris Stokel-Walker/Wired UK)](http://www.techmeme.com/211020/p8#a211020p8)
+ - [Facebook to reportedly rebrand with focus on the metaverse](https://appleinsider.com/articles/21/10/20/facebook-to-reportedly-rebrand-with-focus-on-the-metaverse?utm_medium=rss)
+ - [Apple rumored to release 27-inch iMac with mini-LED display in early 2022](https://appleinsider.com/articles/21/10/20/apple-rumored-to-release-smaller-cheaper-pro-display-xdr-in-early-2022?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
