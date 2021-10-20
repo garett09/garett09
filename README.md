@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Night Teeth review: Bite into this vampire horror original on Netflix](https://www.androidauthority.com/night-teeth-review-netflix-3042249/)
- - [Apple launches 'Tech Talks,' new sessions and workshops for developers](https://appleinsider.com/articles/21/10/20/apple-launches-tech-talks-new-sessions-and-workshops-for-developers?utm_medium=rss)
- - [MagSafe on the new MacBook Pro: Everything you need to know](https://appleinsider.com/articles/21/10/20/magsafe-on-the-latest-macbook-pros-everything-you-need-to-know?utm_medium=rss)<!-- TECH:END -->
+ - [Amazon offers up more data to tell third-party sellers which items will be popular](https://www.theverge.com/2021/10/20/22736658/amazon-product-opportunity-explorer-tool-sellers-amazon-basics-data)
+ - [AT&T's best iPhone deals offer steep savings for new and existing customers](https://appleinsider.com/articles/21/10/20/atts-best-iphone-deals-offer-steep-savings-for-new-and-existing-customers?utm_medium=rss)
+ - [Since May, Google says it has blocked 1.6M messages and restored ~4,000 YouTube influencer accounts affected by a phishing campaign offering fake collaborations (Aisha Counts/Protocol)](http://www.techmeme.com/211020/p37#a211020p37)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
