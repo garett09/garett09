@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Snap, TikTok, and YouTube will attend a Senate hearing about social media's impact on children on October 26, spearheaded by Senators Blumenthal and Blackburn (Abram Brown/Forbes)](http://www.techmeme.com/211019/p57#a211019p57)
- - [Google’s Pixel 6 doesn’t come with five years of Android updates — only three](https://www.theverge.com/2021/10/19/22735485/google-pixel-6-three-years-android-updates-security-feature)
- - [ProShares ETF gained nearly 5% in its NYSE debut, with ~$981M in trading volume, making it the second most traded ETF debut ever, according to FactSet (Michael Wursthorn/Wall Street Journal)](http://www.techmeme.com/211019/p56#a211019p56)<!-- TECH:END -->
+ - [Activision Blizzard says 20+ employees, including developers and supervisors, "exited" the company and 20+ faced disciplinary action after misconduct complaints (Adi Robertson/The Verge)](http://www.techmeme.com/211019/p58#a211019p58)
+ - [Dune movie: First 10 minutes left me with a dropped jaw, high expectations     - CNET](https://www.cnet.com/news/dune-movie-first-10-minutes-left-me-with-a-dropped-jaw-high-expectations/#ftag=CAD590a51e)
+ - [You need a $20 adapter upgrade to fast-charge Apple's base model 14-inch MacBook Pro](https://appleinsider.com/articles/21/10/19/you-need-a-20-adapter-upgrade-to-fast-charge-apples-base-model-14-inch-macbook-pro?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
