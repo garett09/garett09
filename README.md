@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It was a genuine question](http://9gag.com/gag/aE8v17K)
- - 🚯 [We made a lifelong dream come true last week and bought a cabin in the woods.](http://9gag.com/gag/aWgQWBZ)
- - 🚯 [For the first time since they were wiped out in 1870. Bison have been released back into the wild of Badlands National Park!](http://9gag.com/gag/angqXOo)<!-- MEMES:END -->
+ - 🚖 [We made a lifelong dream come true last week and bought a cabin in the woods.](http://9gag.com/gag/aWgQWBZ)
+ - 🚯 [Don&#039;t worry babe](http://9gag.com/gag/angqXno)
+ - 🚯 [It was a genuine question](http://9gag.com/gag/aE8v17K)<!-- MEMES:END -->
 
 --- 
 
