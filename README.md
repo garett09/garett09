@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [God of War PC means the platform wars are over, boy](https://www.pcgamer.com/god-of-war-pc-means-the-platform-wars-are-over-boy)
- - [Vtuber plays WarioWare holding an entire GameCube console as controller](https://www.polygon.com/22736858/vtuber-korone-hololive-warioware-twisted-gamecube)
- - [The best gaming PC in 2021](https://www.pcgamer.com/best-gaming-pc-uk)<!-- GAME:END -->
+ - [Destiny 2 players will have to pay extra for Witch Queen’s new dungeons](https://www.polygon.com/22736995/destiny-2-witch-queen-expansion-dungeons-standard-edition-season-pass)
+ - [Netflix’s Trans Folk And Supporters Walked Out Today, So Stream Something Else Instead](https://kotaku.com/netflix-s-trans-folk-and-supporters-walked-out-today-s-1847903035)
+ - [Ubisoft fixes Might and Magic 10 DRM mess, it's back on sale with bonus DLC](https://www.pcgamer.com/ubisoft-fixes-might-and-magic-10-drm-mess-its-back-on-sale-with-bonus-dlc)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
