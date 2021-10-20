@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Confirmed: The Redmi Note 11 is launching at the end of October](https://www.androidauthority.com/redmi-note-11-3043496/)
- - [Oppo might follow Google’s lead, launch its own chipsets as soon as 2023](https://www.androidauthority.com/oppo-custom-chipset-2023-3042823/)
- - [Porsche 718 Cayman GT4 RS sets impressive 'Ring time ahead of November debut     - Roadshow](https://www.cnet.com/roadshow/news/porsche-718-cayman-gt4-rs-nurburgring-lap-time-debut/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Report: US memory chip maker Micron Technology to build a $7B plant in Hiroshima to make DRAM chips, with production set to begin in 2024 (Reuters)](http://www.techmeme.com/211020/p10#a211020p10)
+ - [Sources: China's Oppo is developing high-end mobile chips, using TSMC's 3nm tech, for its premium handsets due out in 2023 or 2024 (Nikkei Asia)](http://www.techmeme.com/211020/p9#a211020p9)
+ - [Confirmed: The Redmi Note 11 is launching at the end of October](https://www.androidauthority.com/redmi-note-11-3043496/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
