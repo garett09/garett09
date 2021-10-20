@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A lot of people don&#039;t understand the difference between being friendly and being friends!](http://9gag.com/gag/axBdNw2)
- - 🚯 [Just a reminder](http://9gag.com/gag/a71LvXw)
- - 🚯 [Dayum](http://9gag.com/gag/avAp2YX)<!-- MEMES:END -->
+ - 🚖 [Dayum](http://9gag.com/gag/avAp2YX)
+ - 🚯 [A lot of people don&#039;t understand the difference between being friendly and being friends!](http://9gag.com/gag/axBdNw2)
+ - 🚯 [People here are denying the concentration camps.. wtf China bots ?](http://9gag.com/gag/axBdd9D)<!-- MEMES:END -->
 
 --- 
 
