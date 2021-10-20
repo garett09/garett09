@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [You need a $20 adapter upgrade to fast-charge Apple's base model 14-inch MacBook Pro](https://appleinsider.com/articles/21/10/19/you-need-a-20-adapter-upgrade-to-fast-charge-apples-base-model-14-inch-macbook-pro?utm_medium=rss)
- - [MacBook Pro's mouse cursor moves behind camera 'notch'](https://appleinsider.com/articles/21/10/20/macbook-pros-mouse-cursor-moves-behind-camera-notch?utm_medium=rss)
- - [Apple airs trailer for 'Snoopy in Space' season two](https://appleinsider.com/articles/21/10/20/apple-airs-trailer-for-snoopy-in-space-season-two?utm_medium=rss)<!-- TECH:END -->
+ - [Netflix boss says he “screwed up” over Chappelle special fallout](https://www.theverge.com/2021/10/20/22735949/netflix-boss-screwed-chappelle-special-the-closer-walkout)
+ - [Facebook to reportedly rebrand with focus on the metaverse](https://appleinsider.com/articles/21/10/20/facebook-to-reportedly-rebrand-with-focus-on-the-metaverse?utm_medium=rss)
+ - [Oppo reportedly developing own chips for flagship phones](https://www.theverge.com/2021/10/20/22735935/oppo-own-chip-development-google-tensor-qualcomm)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
