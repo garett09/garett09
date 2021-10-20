@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [I Was Wrong, Sora In Smash Bros. Is Kinda Cool To Play](https://kotaku.com/i-was-wrong-sora-in-smash-bros-is-kinda-cool-to-play-1847903620)
- - [Sony Patent Lets Viewers Vote and Pay to Boot Players From Games](https://kotaku.com/sony-patent-lets-viewers-vote-and-pay-to-boot-players-f-1847902976)
- - [Dune’s Rebecca Ferguson tried ‘Donald Duck sounds’ for her character’s mind-control voice](https://www.polygon.com/22736706/rebecca-ferguson-dune-voice-cast-interview)<!-- GAME:END -->
+ - [New World's Economy Is So Busted, Players Are Bartering For Items](https://kotaku.com/new-worlds-economy-is-so-busted-players-are-bartering-1847904272)
+ - [God of War is coming to PC: Here's what we know](https://www.pcgamer.com/god-of-war-pc)
+ - [NBA 2K22 makes being a selfish jerk a worthwhile career choice](https://www.polygon.com/22737216/nba-2k22-mycareer-impressions-mp-traded-kendrick-perkins)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
