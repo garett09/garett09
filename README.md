@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [New low price on the Galaxy Tab S7 FE, and more Samsung Galaxy Tab deals](https://www.androidauthority.com/best-cheap-samsung-galaxy-tab-deals-1119065/)
- - [Mark Zuckerberg has been added to a DC lawsuit over the Cambridge Analytica scandal](https://www.theverge.com/2021/10/20/22736476/mark-zuckerberg-dc-attorney-general-facebook-cambridge-analytica-lawsuit)
- - [Google Pixel 6 vs Pixel 5a: What’s the difference and which should you buy?](https://www.androidauthority.com/google-pixel-6-vs-pixel-5a-3041974/)<!-- TECH:END -->
+ - [How to install Fortnite on Android](https://www.theverge.com/22736420/fortnite-android-google-install-how-to)
+ - [[Thread] Analysis of FTC's report on Big Tech's startup M&A between 2010 and 2019: half of the deals were <$10M, most had <10 people and were US-based, and more (Benedict Evans/@benedictevans)](http://www.techmeme.com/211020/p35#a211020p35)
+ - [Apple launches 'Tech Talks,' new sessions and workshops for developers](https://appleinsider.com/articles/21/10/20/apple-launches-tech-talks-new-sessions-and-workshops-for-developers?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
