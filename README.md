@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [No Man’s Sky’s new expedition has players hunting Sandworms](https://www.polygon.com/22734803/no-mans-sky-expedition-october-2021-emergence-halloween-sandworms)
- - [Dragon Ball Voice Actor Chris Ayres Dies Age 56](https://kotaku.com/dragon-ball-voice-actor-chris-ayres-dies-age-56-1847898969)
- - [Cyber Monday gaming keyboard and mouse deals 2021: grab a more responsive setup and save big](https://www.pcgamer.com/cyber-monday-keyboard-mouse-deals-2021)<!-- GAME:END -->
+ - [The birth of Deathloop’s powerful kick](http://feedproxy.google.com/~r/PSBlog/~3/99NzuTCUXy4/)
+ - [The birth of Deathloop’s powerful kick](https://blog.playstation.com/2021/10/20/the-birth-of-deathloops-powerful-kick/)
+ - [The Halloween Countdown: 31 days of horror](https://www.polygon.com/22702474/best-halloween-movies-tv-to-watch-stream)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
