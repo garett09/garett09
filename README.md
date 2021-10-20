@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Cyber Monday Gaming Headset deals 2021: it's never too soon to find the right pair of cans](https://www.pcgamer.com/cyber-monday-gaming-headset-deals-2021)
  - [Facebook is reportedly getting a rebrand](https://www.pcgamer.com/facebook-is-reportedly-getting-a-rebrand)
- - [Dell's got RTX 30-series gaming laptops cheaper than productivity notebooks right now](https://www.pcgamer.com/dells-got-rtx-30-series-gaming-laptops-cheaper-than-productivity-notebooks-right-now)
- - [The Art Of Far Cry 6](https://kotaku.com/the-art-of-far-cry-6-1847897412)<!-- GAME:END -->
+ - [Dell's got RTX 30-series gaming laptops cheaper than productivity notebooks right now](https://www.pcgamer.com/dells-got-rtx-30-series-gaming-laptops-cheaper-than-productivity-notebooks-right-now)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
