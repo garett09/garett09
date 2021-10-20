@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple's M1 Pro and M1 Max chips mean new trouble for Intel     - CNET](https://www.cnet.com/tech/computing/apples-m1-pro-and-m1-max-chips-mean-new-trouble-for-intel/#ftag=CAD590a51e)
- - [Could small nuclear reactors be the future of energy?     - CNET](https://www.cnet.com/home/energy-and-utilities/could-small-nuclear-reactors-be-the-future-of-energy/#ftag=CAD590a51e)
- - [GM's 1,000 hp 632 cubic-inch crate engine is its largest and most powerful ever     - Roadshow](https://www.cnet.com/roadshow/news/gm-crate-engine-zz632-1000-horsepower/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The 2021 iPad Pro has dropped to its lowest price yet](https://www.theverge.com/good-deals/2021/10/20/22734880/2021-ipad-pro-samsung-galaxy-buds-2-dell-gaming-razer-bailisk-deal-sale)
+ - [Spotify partners with Shopify to let artists list merch on profiles for $29/month to $299/month, starting in the US, UK, Canada, Australia, and New Zealand (Todd Spangler/Variety)](http://www.techmeme.com/211020/p24#a211020p24)
+ - [No Man’s Sky’s newest expedition adventure features lots of worms](https://www.theverge.com/2021/10/20/22736219/no-mans-sky-new-expedition-emergence-hello-games)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
