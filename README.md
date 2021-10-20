@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Destiny 2 players will have to pay extra for Witch Queen’s new dungeons](https://www.polygon.com/22736995/destiny-2-witch-queen-expansion-dungeons-standard-edition-season-pass)
- - [Netflix’s Trans Folk And Supporters Walked Out Today, So Stream Something Else Instead](https://kotaku.com/netflix-s-trans-folk-and-supporters-walked-out-today-s-1847903035)
- - [Ubisoft fixes Might and Magic 10 DRM mess, it's back on sale with bonus DLC](https://www.pcgamer.com/ubisoft-fixes-might-and-magic-10-drm-mess-its-back-on-sale-with-bonus-dlc)<!-- GAME:END -->
+ - [I Was Wrong, Sora In Smash Bros. Is Kinda Cool To Play](https://kotaku.com/i-was-wrong-sora-in-smash-bros-is-kinda-cool-to-play-1847903620)
+ - [Sony Patent Lets Viewers Vote and Pay to Boot Players From Games](https://kotaku.com/sony-patent-lets-viewers-vote-and-pay-to-boot-players-f-1847902976)
+ - [Dune’s Rebecca Ferguson tried ‘Donald Duck sounds’ for her character’s mind-control voice](https://www.polygon.com/22736706/rebecca-ferguson-dune-voice-cast-interview)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
