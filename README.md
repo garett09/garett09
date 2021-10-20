@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 2021 iPad Pro has dropped to its lowest price yet](https://www.theverge.com/good-deals/2021/10/20/22734880/2021-ipad-pro-samsung-galaxy-buds-2-dell-gaming-razer-bailisk-deal-sale)
- - [Spotify partners with Shopify to let artists list merch on profiles for $29/month to $299/month, starting in the US, UK, Canada, Australia, and New Zealand (Todd Spangler/Variety)](http://www.techmeme.com/211020/p24#a211020p24)
- - [No Man’s Sky’s newest expedition adventure features lots of worms](https://www.theverge.com/2021/10/20/22736219/no-mans-sky-new-expedition-emergence-hello-games)<!-- TECH:END -->
+ - [Bitcoin crosses $65,607, an all-time high, after the ProShares Bitcoin Strategy ETF rose by nearly 5% in trading (CoinDesk)](http://www.techmeme.com/211020/p25#a211020p25)
+ - [New Twelve South PowerPic Mod lets you customize your wireless charger](https://appleinsider.com/articles/21/10/20/new-twelve-south-powerpic-mod-lets-you-customize-your-wireless-charger?utm_medium=rss)
+ - [Galaxy Z Flip 3 Bespoke Edition launched: A more customizable foldable](https://www.androidauthority.com/samsung-galaxy-z-flip-3-bespoke-edition-3043650/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
