@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [He&#039;s getting dotty!!](http://9gag.com/gag/a81LbZY)
+ - 🚖 [I laughed more at this than I should](http://9gag.com/gag/a21zq1p)
  - 🚯 [American healthcare in a nutshell](http://9gag.com/gag/a91bLx1)
- - 🚯 [It hurts right here in my meow meow](http://9gag.com/gag/aBnR3rP)<!-- MEMES:END -->
+ - 🚯 [No backpack dayat school](http://9gag.com/gag/aXr0Xog)<!-- MEMES:END -->
 
 --- 
 
