@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Netflix’s new horror series from the Train to Busan director arrives next month](https://www.polygon.com/22736427/netflix-korean-horror-series-hellbound-trailer-release-date)
- - [Smash Bros. fans are making horrifying knockoffs of Disney characters](https://www.polygon.com/22736493/smash-bros-ultimate-disney-micky-mouse-sora-woody)
- - [Intel's Alder Lake chips can hit 330W when overclocked, just like their Comet Lake daddies](https://www.pcgamer.com/intel-alder-lake-cpu-benchmark-scores-leaked)<!-- GAME:END -->
+ - [The best gaming PC in 2021](https://www.pcgamer.com/best-gaming-pc)
+ - [Starfield's new trailer reveals the 'Settled Systems' and its factions](https://www.pcgamer.com/starfield-settled-systems-trailer)
+ - [Animal Crossing: New Horizons Fans Are Already Saving Up For Kapp'n's Pricey Fares](https://kotaku.com/animal-crossing-new-horizons-fans-are-already-saving-u-1847901589)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
