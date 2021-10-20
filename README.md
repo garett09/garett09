@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Draft EU document: finalization of the Digital Markets Act and Digital Services Act has been pushed back further into next year from an initial spring 2022 goal (Bloomberg)](http://www.techmeme.com/211020/p15#a211020p15)
- - [How NFTs are creating a generational divide between platforms](https://www.theverge.com/2021/10/20/22735719/nft-generational-divide-steam-epic-gaming)
- - [UK's CMA fines Facebook &pound;50.5M for breaching an order imposed during its ongoing Giphy acquisition investigation, saying Facebook refused to report information (Naman Ramachandran/Variety)](http://www.techmeme.com/211020/p14#a211020p14)<!-- TECH:END -->
+ - [Daily Authority: It’s Pixel day! ✨](https://www.androidauthority.com/newsletters/da-october-20-2021/)
+ - [Pinterest redesigns its home feed, adding a Watch tab for short videos and photo albums (Queenie Wong/CNET)](http://www.techmeme.com/211020/p18#a211020p18)
+ - [Resident Evil 4 in VR shouldn’t work — but somehow it does](https://www.theverge.com/22726158/resident-evil-4-vr-capcom-oculus-quest-2-review)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
