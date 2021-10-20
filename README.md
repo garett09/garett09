@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It hurts right here in my meow meow](http://9gag.com/gag/aBnR3rP)
- - 🚯 [It was a genuine question](http://9gag.com/gag/aE8v17K)
- - 🚯 [Curious sable](http://9gag.com/gag/aQXP4oK)<!-- MEMES:END -->
+ - 🚖 [He&#039;s getting dotty!!](http://9gag.com/gag/a81LbZY)
+ - 🚯 [American healthcare in a nutshell](http://9gag.com/gag/a91bLx1)
+ - 🚯 [It hurts right here in my meow meow](http://9gag.com/gag/aBnR3rP)<!-- MEMES:END -->
 
 --- 
 
