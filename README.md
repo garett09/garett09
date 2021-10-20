@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Facebook is planning to rebrand the company with a new name](https://www.theverge.com/2021/10/19/22735612/facebook-change-company-name-metaverse)
- - [Apple Developer app updated delivers picture-in-picture, more](https://appleinsider.com/articles/21/10/20/apple-developer-app-updated-delivers-picture-in-picture-more?utm_medium=rss)
- - [MacBook Pro's mouse cursor moves behind camera 'notch'](https://appleinsider.com/articles/21/10/20/macbook-pros-mouse-cursor-moves-behind-camera-notch?utm_medium=rss)<!-- TECH:END -->
+ - [You need a $20 adapter upgrade to fast-charge Apple's base model 14-inch MacBook Pro](https://appleinsider.com/articles/21/10/19/you-need-a-20-adapter-upgrade-to-fast-charge-apples-base-model-14-inch-macbook-pro?utm_medium=rss)
+ - [MacBook Pro's mouse cursor moves behind camera 'notch'](https://appleinsider.com/articles/21/10/20/macbook-pros-mouse-cursor-moves-behind-camera-notch?utm_medium=rss)
+ - [Apple airs trailer for 'Snoopy in Space' season two](https://appleinsider.com/articles/21/10/20/apple-airs-trailer-for-snoopy-in-space-season-two?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
