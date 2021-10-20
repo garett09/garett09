@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the use of drones and online "in-play" betting at UK horse racing venues to gain a gambling advantage, which has angered many in the racing industry (Chris Stokel-Walker/Wired UK)](http://www.techmeme.com/211020/p8#a211020p8)
- - [Facebook to reportedly rebrand with focus on the metaverse](https://appleinsider.com/articles/21/10/20/facebook-to-reportedly-rebrand-with-focus-on-the-metaverse?utm_medium=rss)
- - [Apple rumored to release 27-inch iMac with mini-LED display in early 2022](https://appleinsider.com/articles/21/10/20/apple-rumored-to-release-smaller-cheaper-pro-display-xdr-in-early-2022?utm_medium=rss)<!-- TECH:END -->
+ - [Confirmed: The Redmi Note 11 is launching at the end of October](https://www.androidauthority.com/redmi-note-11-3043496/)
+ - [Oppo might follow Google’s lead, launch its own chipsets as soon as 2023](https://www.androidauthority.com/oppo-custom-chipset-2023-3042823/)
+ - [Porsche 718 Cayman GT4 RS sets impressive 'Ring time ahead of November debut     - Roadshow](https://www.cnet.com/roadshow/news/porsche-718-cayman-gt4-rs-nurburgring-lap-time-debut/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
