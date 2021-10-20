@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Tipping In Japan? One Company Aims To Spread It Throughout The Country](https://kotaku.com/tipping-in-japan-one-company-aims-to-spread-it-through-1847898756)
- - [Cyber Monday Gaming Headset deals 2021: it's never too soon to find the right pair of cans](https://www.pcgamer.com/cyber-monday-gaming-headset-deals-2021)
- - [Facebook is reportedly getting a rebrand](https://www.pcgamer.com/facebook-is-reportedly-getting-a-rebrand)<!-- GAME:END -->
+ - [Riders Republic is getting one final free week before launch](https://www.pcgamer.com/riders-republic-is-getting-one-final-free-week-before-launch)
+ - [Guardians of the Galaxy is somehow now 80GB instead of 150GB](https://www.pcgamer.com/guardians-of-the-galaxy-is-somehow-now-80gb-instead-of-150gb)
+ - [Gigabyte's 5G gaming PC looks like an extremely online Roomba](https://www.pcgamer.com/gigabyte-project-cielo-5g-gaming-pc)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
