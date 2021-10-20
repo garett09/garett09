@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon offers up more data to tell third-party sellers which items will be popular](https://www.theverge.com/2021/10/20/22736658/amazon-product-opportunity-explorer-tool-sellers-amazon-basics-data)
- - [SAP's Qualtrics reports Q3 revenue of $271.6M, up 41% YoY, subscription revenue of $220.3M, up 49% YoY, Q4 projected sales of $297M, vs $264M est.; stock up 5%+ (Stephen Nellis/Reuters)](http://www.techmeme.com/211020/p41#a211020p41)
- - [Activision Blizzard discrimination case shouldn’t halt over agency feud, California argues in new court filing](https://www.theverge.com/2021/10/20/22737003/activision-blizzard-discrimination-lawsuit-dfeh-response)<!-- TECH:END -->
+ - [Internal email: Apple will test unvaccinated corporate staff each time they enter offices starting Nov. 1, and asks US staff to report vaccine status by Oct. 24 (Mark Gurman/Bloomberg)](http://www.techmeme.com/211020/p44#a211020p44)
+ - [Apple to require stringent COVID-19 testing for unvaccinated employees](https://appleinsider.com/articles/21/10/20/apple-to-require-stringent-covid-19-testing-for-unvaccinated-employees?utm_medium=rss)
+ - [Segway’s ‘Mecha Kit’ turns your transporter into a rolling turret](https://www.theverge.com/22737058/segway-mecha-kit-rolling-water-gun-turret)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
