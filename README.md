@@ -195,7 +195,7 @@ Windows                  3 hrs 9 mins        ███████████�
 <!-- MEMES:START -->
  - 🚖 [It hurts right here in my meow meow](http://9gag.com/gag/aBnR3rP)
  - 🚯 [It was a genuine question](http://9gag.com/gag/aE8v17K)
- - 🚯 [Redheads](http://9gag.com/gag/amgN0y4)<!-- MEMES:END -->
+ - 🚯 [Curious sable](http://9gag.com/gag/aQXP4oK)<!-- MEMES:END -->
 
 --- 
 
