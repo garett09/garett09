@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Tipping In Japan? One Company Aims To Spread It Throughout The Country](https://kotaku.com/tipping-in-japan-one-company-aims-to-spread-it-through-1847898756)
  - [Cyber Monday Gaming Headset deals 2021: it's never too soon to find the right pair of cans](https://www.pcgamer.com/cyber-monday-gaming-headset-deals-2021)
- - [Facebook is reportedly getting a rebrand](https://www.pcgamer.com/facebook-is-reportedly-getting-a-rebrand)
- - [Dell's got RTX 30-series gaming laptops cheaper than productivity notebooks right now](https://www.pcgamer.com/dells-got-rtx-30-series-gaming-laptops-cheaper-than-productivity-notebooks-right-now)<!-- GAME:END -->
+ - [Facebook is reportedly getting a rebrand](https://www.pcgamer.com/facebook-is-reportedly-getting-a-rebrand)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
