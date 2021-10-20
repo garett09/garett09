@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The birth of Deathloop’s powerful kick](http://feedproxy.google.com/~r/PSBlog/~3/99NzuTCUXy4/)
- - [The birth of Deathloop’s powerful kick](https://blog.playstation.com/2021/10/20/the-birth-of-deathloops-powerful-kick/)
- - [The Halloween Countdown: 31 days of horror](https://www.polygon.com/22702474/best-halloween-movies-tv-to-watch-stream)<!-- GAME:END -->
+ - [The Hayao Miyazaki museum exhibit transported me into Studio Ghibli’s worlds](https://www.polygon.com/22734991/hayao-miyazaki-studio-ghibli-exhibit-academy-museum-spirited-away-totoro-princess-mononoke-howl)
+ - [God of War (2018) is coming to PC](http://feedproxy.google.com/~r/PSBlog/~3/9PlZFD-mIMs/)
+ - [God of War (2018) is coming to PC](https://blog.playstation.com/2021/10/20/god-of-war-2018-is-coming-to-pc/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
