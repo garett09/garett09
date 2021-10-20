@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The struggle was real](http://9gag.com/gag/aZrbMmz)
- - 🚯 [Mmmmh](http://9gag.com/gag/a91bP3L)
+ - 🚖 [A real man wouldn&rsquo;t care how you think of him](http://9gag.com/gag/awz07jR)
+ - 🚯 [Happens sometimes](http://9gag.com/gag/aGzYRG6)
  - 🚯 [What will be your weapon of choice? Gear up and fight!](http://9gag.com/gag/aXr0pWv)<!-- MEMES:END -->
 
 --- 
