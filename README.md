@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix boss says he “screwed up” over Chappelle special fallout](https://www.theverge.com/2021/10/20/22735949/netflix-boss-screwed-chappelle-special-the-closer-walkout)
- - [Facebook to reportedly rebrand with focus on the metaverse](https://appleinsider.com/articles/21/10/20/facebook-to-reportedly-rebrand-with-focus-on-the-metaverse?utm_medium=rss)
- - [Oppo reportedly developing own chips for flagship phones](https://www.theverge.com/2021/10/20/22735935/oppo-own-chip-development-google-tensor-qualcomm)<!-- TECH:END -->
+ - [Latest OnePlus 8T update with October security patch is finally here](https://www.androidauthority.com/oneplus-8t-update-1173244/)
+ - [Apple rumored to release smaller, cheaper Pro Display XDR in early 2022](https://appleinsider.com/articles/21/10/20/apple-rumored-to-release-smaller-cheaper-pro-display-xdr-in-early-2022?utm_medium=rss)
+ - [Facebook to reportedly rebrand with focus on the metaverse](https://appleinsider.com/articles/21/10/20/facebook-to-reportedly-rebrand-with-focus-on-the-metaverse?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
