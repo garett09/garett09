@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A real man wouldn&rsquo;t care how you think of him](http://9gag.com/gag/awz07jR)
- - 🚯 [Happens sometimes](http://9gag.com/gag/aGzYRG6)
+ - 🚖 [Why do I do this](http://9gag.com/gag/aWgQM1q)
+ - 🚯 [I mean the paintings weren&#039;t all that bad](http://9gag.com/gag/aM429PP)
  - 🚯 [What will be your weapon of choice? Gear up and fight!](http://9gag.com/gag/aXr0pWv)<!-- MEMES:END -->
 
 --- 
