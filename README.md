@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Hayao Miyazaki museum exhibit transported me into Studio Ghibli’s worlds](https://www.polygon.com/22734991/hayao-miyazaki-studio-ghibli-exhibit-academy-museum-spirited-away-totoro-princess-mononoke-howl)
- - [God of War (2018) is coming to PC](http://feedproxy.google.com/~r/PSBlog/~3/9PlZFD-mIMs/)
- - [God of War (2018) is coming to PC](https://blog.playstation.com/2021/10/20/god-of-war-2018-is-coming-to-pc/)<!-- GAME:END -->
+ - [The Witcher 3 and Cyberpunk 2077 current-gen upgrades delayed until 2022](https://www.polygon.com/22736576/cyberpunk-2077-next-gen-update-witcher-3-ps5-xbox-series-x)
+ - [Please Don’t Ever Change This Nightmare-Inducing Switch Icon](https://kotaku.com/please-don-t-ever-change-this-nightmare-inducing-switch-1847900687)
+ - [Ruby Rose details Batwoman set’s abusive conditions, severe injuries](https://www.polygon.com/22736432/ruby-rose-batwoman-abuse-injuries-instagram-story)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
