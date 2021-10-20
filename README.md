@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bitcoin crosses $65,607, an all-time high, after the ProShares Bitcoin Strategy ETF rose by nearly 5% in trading (CoinDesk)](http://www.techmeme.com/211020/p25#a211020p25)
- - [New Twelve South PowerPic Mod lets you customize your wireless charger](https://appleinsider.com/articles/21/10/20/new-twelve-south-powerpic-mod-lets-you-customize-your-wireless-charger?utm_medium=rss)
- - [Galaxy Z Flip 3 Bespoke Edition launched: A more customizable foldable](https://www.androidauthority.com/samsung-galaxy-z-flip-3-bespoke-edition-3043650/)<!-- TECH:END -->
+ - [6 best Android parental control apps and other methods](https://www.androidauthority.com/best-parental-control-apps-android-1133716/)
+ - [Analysis: Andreessen Horowitz's investment team has grown to 70 in the past four years, up by 170%, outpacing Sequoia, Accel, Lightspeed, and others (The Information)](http://www.techmeme.com/211020/p29#a211020p29)
+ - [The mission to break barriers to space travel for people with disabilities](https://www.theverge.com/2021/10/20/22734331/mission-astro-access-disability-zero-g-flight-space-travel)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
