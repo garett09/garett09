@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Witcher 3 and Cyberpunk 2077 current-gen upgrades delayed until 2022](https://www.polygon.com/22736576/cyberpunk-2077-next-gen-update-witcher-3-ps5-xbox-series-x)
- - [Please Don’t Ever Change This Nightmare-Inducing Switch Icon](https://kotaku.com/please-don-t-ever-change-this-nightmare-inducing-switch-1847900687)
- - [Ruby Rose details Batwoman set’s abusive conditions, severe injuries](https://www.polygon.com/22736432/ruby-rose-batwoman-abuse-injuries-instagram-story)<!-- GAME:END -->
+ - [Netflix’s new horror series from the Train to Busan director arrives next month](https://www.polygon.com/22736427/netflix-korean-horror-series-hellbound-trailer-release-date)
+ - [Smash Bros. fans are making horrifying knockoffs of Disney characters](https://www.polygon.com/22736493/smash-bros-ultimate-disney-micky-mouse-sora-woody)
+ - [Intel's Alder Lake chips can hit 330W when overclocked, just like their Comet Lake daddies](https://www.pcgamer.com/intel-alder-lake-cpu-benchmark-scores-leaked)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
