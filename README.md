@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Mmmmh](http://9gag.com/gag/a91bP3L)
- - 🚯 [Hope China get liberated from Communist dictatorship and hope independence of Tibet, Uigur, Mongolia, Manchuria, Hong Kong and Taiwan, and Chinese be happy as you can see smile of this bald man](http://9gag.com/gag/agg3NbW)
+ - 🚖 [If He Dies&hellip; He Dies !](http://9gag.com/gag/aegjGZp)
+ - 🚯 [The struggle was real](http://9gag.com/gag/aZrbMmz)
  - 🚯 [What will be your weapon of choice? Gear up and fight!](http://9gag.com/gag/aXr0pWv)<!-- MEMES:END -->
 
 --- 
