@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Such a pain](http://9gag.com/gag/adg00E2)
- - 🚯 [Fusion in past :D](http://9gag.com/gag/adg00d9)
- - 🚯 [The new gta san andreas remake looking lit](http://9gag.com/gag/a71L5om)<!-- MEMES:END -->
+ - 🚖 [It&#039;s time my dudes](http://9gag.com/gag/aM42b3W)
+ - 🚯 [Optimus prime aint got the minerals to get to the high ground CUZCO,Per&uacute;](http://9gag.com/gag/aAGRYm9)
+ - 🚯 [A lot of people don&#039;t understand the difference between being friendly and being friends!](http://9gag.com/gag/axBdNw2)<!-- MEMES:END -->
 
 --- 
 
