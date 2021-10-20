@@ -194,8 +194,8 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Such a pain](http://9gag.com/gag/adg00E2)
- - 🚯 [A lot of people don&#039;t understand the difference between being friendly and being friends!](http://9gag.com/gag/axBdNw2)
- - 🚯 [Fusion in past :D](http://9gag.com/gag/adg00d9)<!-- MEMES:END -->
+ - 🚯 [Fusion in past :D](http://9gag.com/gag/adg00d9)
+ - 🚯 [The new gta san andreas remake looking lit](http://9gag.com/gag/a71L5om)<!-- MEMES:END -->
 
 --- 
 
