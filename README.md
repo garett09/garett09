@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [New World's Economy Is So Busted, Players Are Bartering For Items](https://kotaku.com/new-worlds-economy-is-so-busted-players-are-bartering-1847904272)
- - [God of War is coming to PC: Here's what we know](https://www.pcgamer.com/god-of-war-pc)
- - [NBA 2K22 makes being a selfish jerk a worthwhile career choice](https://www.polygon.com/22737216/nba-2k22-mycareer-impressions-mp-traded-kendrick-perkins)<!-- GAME:END -->
+ - [Grand Theft Auto's greatest controversies](https://www.pcgamer.com/grand-theft-auto-controversies)
+ - [Bloodsucker Anti-Terror Squad is a sidescroller that asks 'What if G.I. Joe were vampires?'](https://www.pcgamer.com/bloodsucker-anti-terror-squad-is-a-sidescroller-that-asks-what-if-gi-joe-were-vampires)
+ - [WoW Character Renamed After 2007 'C**ks*cker' Video Resurfaces](https://kotaku.com/wow-character-renamed-after-2007-cocksucker-video-resur-1847904404)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
