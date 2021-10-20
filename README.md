@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best gaming PC in 2021](https://www.pcgamer.com/best-gaming-pc)
- - [Starfield's new trailer reveals the 'Settled Systems' and its factions](https://www.pcgamer.com/starfield-settled-systems-trailer)
- - [Animal Crossing: New Horizons Fans Are Already Saving Up For Kapp'n's Pricey Fares](https://kotaku.com/animal-crossing-new-horizons-fans-are-already-saving-u-1847901589)<!-- GAME:END -->
+ - [God of War PC means the platform wars are over, boy](https://www.pcgamer.com/god-of-war-pc-means-the-platform-wars-are-over-boy)
+ - [Vtuber plays WarioWare holding an entire GameCube console as controller](https://www.polygon.com/22736858/vtuber-korone-hololive-warioware-twisted-gamecube)
+ - [The best gaming PC in 2021](https://www.pcgamer.com/best-gaming-pc-uk)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
