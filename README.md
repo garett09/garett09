@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Latest OnePlus 8T update with October security patch is finally here](https://www.androidauthority.com/oneplus-8t-update-1173244/)
- - [Apple rumored to release smaller, cheaper Pro Display XDR in early 2022](https://appleinsider.com/articles/21/10/20/apple-rumored-to-release-smaller-cheaper-pro-display-xdr-in-early-2022?utm_medium=rss)
- - [Facebook to reportedly rebrand with focus on the metaverse](https://appleinsider.com/articles/21/10/20/facebook-to-reportedly-rebrand-with-focus-on-the-metaverse?utm_medium=rss)<!-- TECH:END -->
+ - [Here’s why you can’t buy the Google Pixel 6 in India](https://www.androidauthority.com/google-pixel-6-india-3042428/)
+ - [Prague-based Rossum, which uses AI to automate document processing, raises a $100M Series A led by General Catalyst, sources say at a $500M-$1B valuation (Paul Sawers/VentureBeat)](http://www.techmeme.com/211020/p5#a211020p5)
+ - [Comcast unveils XClass smart TVs starting at $298, available at Walmart, and offering 12 months of ad-supported Peacock Premium for free in the US (Todd Spangler/Variety)](http://www.techmeme.com/211020/p4#a211020p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
