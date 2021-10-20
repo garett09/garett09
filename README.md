@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Riders Republic is getting one final free week before launch](https://www.pcgamer.com/riders-republic-is-getting-one-final-free-week-before-launch)
- - [Guardians of the Galaxy is somehow now 80GB instead of 150GB](https://www.pcgamer.com/guardians-of-the-galaxy-is-somehow-now-80gb-instead-of-150gb)
- - [Gigabyte's 5G gaming PC looks like an extremely online Roomba](https://www.pcgamer.com/gigabyte-project-cielo-5g-gaming-pc)<!-- GAME:END -->
+ - [No Man’s Sky’s new expedition has players hunting Sandworms](https://www.polygon.com/22734803/no-mans-sky-expedition-october-2021-emergence-halloween-sandworms)
+ - [Dragon Ball Voice Actor Chris Ayres Dies Age 56](https://kotaku.com/dragon-ball-voice-actor-chris-ayres-dies-age-56-1847898969)
+ - [Cyber Monday gaming keyboard and mouse deals 2021: grab a more responsive setup and save big](https://www.pcgamer.com/cyber-monday-keyboard-mouse-deals-2021)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
