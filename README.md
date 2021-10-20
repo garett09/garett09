@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [If He Dies&hellip; He Dies !](http://9gag.com/gag/aegjGZp)
- - 🚯 [The struggle was real](http://9gag.com/gag/aZrbMmz)
+ - 🚖 [Do you have a place in your city where even police dont go during the night ?](http://9gag.com/gag/a71LbDe)
+ - 🚯 [F**k you, Tony](http://9gag.com/gag/a21zmXw)
  - 🚯 [What will be your weapon of choice? Gear up and fight!](http://9gag.com/gag/aXr0pWv)<!-- MEMES:END -->
 
 --- 
