@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Activision Blizzard wants California lawsuit paused due to alleged ethics violation](https://www.pcgamer.com/activision-blizzard-wants-california-lawsuit-paused-due-to-alleged-ethics-violation)
- - [Lego Says No To Amazing Hyrule Castle Playset](https://kotaku.com/lego-says-no-to-amazing-hyrule-castle-playset-1847896535)
- - [Where to collect a record and place in a turntable in Fortnite](https://www.pcgamer.com/collect-a-record-and-place-in-a-turntable-in-fortnite)<!-- GAME:END -->
+ - [The Art Of Far Cry 6](https://kotaku.com/the-art-of-far-cry-6-1847897412)
+ - [Activision Blizzard has shed at least 20 staff as a result of harassment investigations](https://www.pcgamer.com/activision-blizzard-has-shed-at-least-20-staff-as-a-result-of-harassment-investigations)
+ - [Activision Blizzard wants California lawsuit paused due to alleged ethics violation](https://www.pcgamer.com/activision-blizzard-wants-california-lawsuit-paused-due-to-alleged-ethics-violation)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
