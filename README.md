@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Facebook is reportedly getting a rebrand](https://www.pcgamer.com/facebook-is-reportedly-getting-a-rebrand)
  - [Dell's got RTX 30-series gaming laptops cheaper than productivity notebooks right now](https://www.pcgamer.com/dells-got-rtx-30-series-gaming-laptops-cheaper-than-productivity-notebooks-right-now)
- - [The Art Of Far Cry 6](https://kotaku.com/the-art-of-far-cry-6-1847897412)
- - [Activision Blizzard has shed at least 20 staff as a result of harassment investigations](https://www.pcgamer.com/activision-blizzard-has-shed-at-least-20-staff-as-a-result-of-harassment-investigations)<!-- GAME:END -->
+ - [The Art Of Far Cry 6](https://kotaku.com/the-art-of-far-cry-6-1847897412)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
