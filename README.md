@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Redheads](http://9gag.com/gag/amgN0y4)
- - 🚯 [He&#039;s got a point...](http://9gag.com/gag/a21zq4E)
- - 🚯 [No backpack dayat school](http://9gag.com/gag/aXr0Xog)<!-- MEMES:END -->
+ - 🚖 [Mmmmh](http://9gag.com/gag/a91bP3L)
+ - 🚯 [Hope China get liberated from Communist dictatorship and hope independence of Tibet, Uigur, Mongolia, Manchuria, Hong Kong and Taiwan, and Chinese be happy as you can see smile of this bald man](http://9gag.com/gag/agg3NbW)
+ - 🚯 [What will be your weapon of choice? Gear up and fight!](http://9gag.com/gag/aXr0pWv)<!-- MEMES:END -->
 
 --- 
 
