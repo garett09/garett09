@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How I run in my nightmares](http://9gag.com/gag/a21zmYO)
- - 🚯 [We felt that...](http://9gag.com/gag/avApLNM)
+ - 🚖 [I mean the paintings weren&#039;t all that bad](http://9gag.com/gag/aM429PP)
+ - 🚯 [Those dam ninjas](http://9gag.com/gag/aDDAGEd)
  - 🚯 [What will be your weapon of choice? Gear up and fight!](http://9gag.com/gag/aXr0pWv)<!-- MEMES:END -->
 
 --- 
