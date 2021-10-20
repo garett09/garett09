@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It&#039;s time my dudes](http://9gag.com/gag/aM42b3W)
- - 🚯 [Curious sable](http://9gag.com/gag/aQXP4oK)
- - 🚯 [It hurts right here in my meow meow](http://9gag.com/gag/aBnR3rP)<!-- MEMES:END -->
+ - 🚖 [It hurts right here in my meow meow](http://9gag.com/gag/aBnR3rP)
+ - 🚯 [It was a genuine question](http://9gag.com/gag/aE8v17K)
+ - 🚯 [Redheads](http://9gag.com/gag/amgN0y4)<!-- MEMES:END -->
 
 --- 
 
