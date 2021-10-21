@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Poll: Do you think AI chips on phones have lived up to the hype?](https://www.androidauthority.com/ai-chips-phones-hype-poll-3043488/)
  - [Apple's product design has improved since Jony Ive left, as it seems to be putting the emphasis back on function over form and is less obsessed with thinness (Alex Webb/Bloomberg)](http://www.techmeme.com/211021/p4#a211021p4)
- - [Batch, a company founded by the team behind AppGratis to let companies manage push notifications at scale, raises $23M led by Expedition Capital (Romain Dillet/TechCrunch)](http://www.techmeme.com/211021/p3#a211021p3)
- - [Report: Yahoo Finance's mobile app disappeared from the App Store in China, days after republishing a Bloomberg story critical of China's tech crackdown (Mikey Campbell/AppleInsider)](http://www.techmeme.com/211021/p2#a211021p2)<!-- TECH:END -->
+ - [Batch, a company founded by the team behind AppGratis to let companies manage push notifications at scale, raises $23M led by Expedition Capital (Romain Dillet/TechCrunch)](http://www.techmeme.com/211021/p3#a211021p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
