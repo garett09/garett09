@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I know you were 30s](http://9gag.com/gag/arnvGYV)
- - 🚯 [Nice dress](http://9gag.com/gag/azegXpx)
+ - 🚖 [Having a bad day](http://9gag.com/gag/aqG9KKv)
+ - 🚯 [This Prank With Two Pairs of Twins...](http://9gag.com/gag/adg05YQ)
  - 🚯 [Become the blade that destroys demons!](http://9gag.com/gag/ajgQ1A0)<!-- MEMES:END -->
 
 --- 
