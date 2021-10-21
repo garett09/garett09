@@ -194,7 +194,7 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Hey king!! You drop you crown](http://9gag.com/gag/aLvR8Bz)
- - 🚯 [Netflix protestors yelling at guy who likes Dave](http://9gag.com/gag/aLvRMeV)
+ - 🚯 [UWUN&#039;T](http://9gag.com/gag/aKmwVoO)
  - 🚯 [What will be your weapon of choice? Gear up and fight!](http://9gag.com/gag/aXr0pWv)<!-- MEMES:END -->
 
 --- 
