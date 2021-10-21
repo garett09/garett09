@@ -194,7 +194,7 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Cancel coke next, take pepsi with you.](http://9gag.com/gag/adg09oB)
- - 🚯 [UWUN&#039;T](http://9gag.com/gag/aKmwVoO)
+ - 🚯 [One of the most insane curve shot to earn a goal](http://9gag.com/gag/ajgYNYQ)
  - 🚯 [What will be your weapon of choice? Gear up and fight!](http://9gag.com/gag/aXr0pWv)<!-- MEMES:END -->
 
 --- 
