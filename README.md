@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [New Safari 15.1 beta for macOS Big Sur and Catalina reverts to standard tab design](https://appleinsider.com/articles/21/10/21/new-safari-151-beta-for-macos-big-sur-and-catalina-reverts-to-standard-tab-design?utm_medium=rss)
- - [Trump announces the Trump Media & Technology Group and TRUTH Social, a social network coming in Nov. to "stand up" to Big Tech, in the App Store for preorder (ABC News)](http://www.techmeme.com/211020/p48#a211020p48)
- - [Sources: Mark Zuckerberg has not settled on a new name for Facebook, which could be announced as early as Monday (Casey Newton/Platformer)](http://www.techmeme.com/211020/p47#a211020p47)<!-- TECH:END -->
+ - [Internal memo: Facebook has quietly killed the "Hey Facebook" wake word for Portal, as customers were confused by the phrase and it was affecting usage (Sylvia Varnham O'Regan/The Information)](http://www.techmeme.com/211020/p51#a211020p51)
+ - [Honeycomb, which develops a software observability tool used by companies including Stripe and Slack, raises a $50M Series C led by Insight Partners (Paul Sawers/VentureBeat)](http://www.techmeme.com/211020/p50#a211020p50)
+ - [A first look at Android app support on Windows 11: the apps are nicely integrated, run well, and installing them is simple, only requiring Amazon's Appstore app (Tom Warren/The Verge)](http://www.techmeme.com/211020/p49#a211020p49)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
