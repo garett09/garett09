@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Cancel coke next, take pepsi with you.](http://9gag.com/gag/adg09oB)
- - 🚯 [One of the most insane curve shot to earn a goal](http://9gag.com/gag/ajgYNYQ)
- - 🚯 [What will be your weapon of choice? Gear up and fight!](http://9gag.com/gag/aXr0pWv)<!-- MEMES:END -->
+ - 🚖 [Sweet sweet moment of justice](http://9gag.com/gag/aXr0xgD)
+ - 🚯 [Who remembers this? Used to love watching this growing up](http://9gag.com/gag/a71LDmA)
+ - 🚯 [Please Don&#039;t](http://9gag.com/gag/a21z4GO)<!-- MEMES:END -->
 
 --- 
 
