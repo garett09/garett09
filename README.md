@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Celebrate the US Grand Prix on F1 2021](https://news.xbox.com/en-us/2021/10/21/celebrate-the-us-grand-prix-on-f1-2021/)
- - [Attn Bane: Razer’s High-Tech RGB Covid Mask Is Finally Out](https://kotaku.com/attn-bane-razer-s-high-tech-rgb-covid-mask-is-finally-1847910180)
- - [Why you may never see Runaway Brain, Disney’s monstrous Mickey short](https://www.polygon.com/features/22738384/runaway-brain-evil-mickey-short-streaming)<!-- GAME:END -->
+ - [Polybius, gaming’s oldest urban legend, is mostly Atari’s fault](https://www.polygon.com/videos/2021/10/21/22736379/polybius-urban-legend-atari)
+ - [October Xbox Update: 4K Dashboard, Xbox Night Mode, and More](https://news.xbox.com/en-us/2021/10/21/october-2021-xbox-update/)
+ - [After Backlash, Mass Effect 3 Devs Say Team Crunched To Deliver New Ending](https://kotaku.com/after-backlash-mass-effect-3-devs-say-team-crunched-to-1847910780)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
