@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple's record-breaking holiday quarter financial streak is in danger](https://appleinsider.com/articles/21/10/21/apples-record-breaking-holiday-quarter-financial-streak-is-in-danger?utm_medium=rss)
- - [TCL’s Verizon tablet is the only one you’ll find with 5G for $399](https://www.theverge.com/2021/10/21/22736065/tcl-tab-pro-5g-verizon-mmwave-tablet-device)
- - [Microsoft Surface Duo 2 review: futuristic design, excellent multitasking, and useful pen support, but buggy, lousy camera, expensive, and awkward form factor (Dan Seifert/The Verge)](http://www.techmeme.com/211021/p19#a211021p19)<!-- TECH:END -->
+ - [Best Deals Oct. 21: AirTag for $26, $81 off Beats Solo3, and more!](https://appleinsider.com/articles/21/10/21/best-deals-oct-21-airtag-for-26-81-off-beats-solo3-and-more?utm_medium=rss)
+ - [Apple iPad Mini (2021) review: This one’s just right](https://www.androidauthority.com/apple-ipad-mini-2021-review-3031312/)
+ - [Sports NFT service Candy Digital, owned by sports e-commerce company Fanatics, raises a $100M Series A at a $1.5B valuation from Vision Fund 2 and others (Jabari Young/CNBC)](http://www.techmeme.com/211021/p22#a211021p22)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
