@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [HBO Max and HBO’s US subscriptions dip following Amazon exit](https://www.theverge.com/2021/10/21/22738967/hbo-max-subscriptions-q3-2021-amazon-exit)
- - [According to text within macOS Monterey beta, the new 16" MacBook Pro with the M1 Max chip will feature a High Power Mode for intensive, sustained workloads (Sami Fathi/MacRumors)](http://www.techmeme.com/211021/p37#a211021p37)
- - [Apple could be the next target of China's push to get more data stored locally](https://appleinsider.com/articles/21/10/21/apple-could-be-the-next-target-of-chinas-push-to-get-more-data-stored-locally?utm_medium=rss)<!-- TECH:END -->
+ - [Anker Nano II review: The perfect pocket-sized Galaxy and Pixel charger](https://www.androidauthority.com/anker-nano-ii-review-3044413/)
+ - [Snap stock plunges as Apple privacy changes impact revenue](https://appleinsider.com/articles/21/10/21/snap-stock-plunges-as-apple-privacy-changes-impact-revenue?utm_medium=rss)
+ - [Microsoft fixes Windows 11 AMD CPU performance issues with new update](https://www.theverge.com/2021/10/21/22732336/microsoft-windows-11-amd-cpu-performance-issues-fix-release)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
