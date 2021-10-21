@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Do it voluntarily is one of the best productive feelings](http://9gag.com/gag/aNPrYKA)
- - 🚯 [I know you were 30s](http://9gag.com/gag/arnvGYV)
+ - 🚖 [I know you were 30s](http://9gag.com/gag/arnvGYV)
+ - 🚯 [Nice dress](http://9gag.com/gag/azegXpx)
  - 🚯 [Become the blade that destroys demons!](http://9gag.com/gag/ajgQ1A0)<!-- MEMES:END -->
 
 --- 
