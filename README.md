@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It&rsquo;s my 29th birthday and I&rsquo;m lucky to be a part of you f**kers. Thanks for everything you bunch of wonderful people](http://9gag.com/gag/aZrbBAW)
- - 🚯 [They let them make this joke.](http://9gag.com/gag/angqbZB)
+ - 🚖 [Hey king!! You drop you crown](http://9gag.com/gag/aLvR8Bz)
+ - 🚯 [Netflix protestors yelling at guy who likes Dave](http://9gag.com/gag/aLvRMeV)
  - 🚯 [What will be your weapon of choice? Gear up and fight!](http://9gag.com/gag/aXr0pWv)<!-- MEMES:END -->
 
 --- 
