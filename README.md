@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hit it](http://9gag.com/gag/aDDAGDO)
- - 🚯 [My kids are younger than Bing](http://9gag.com/gag/aogEpw0)
+ - 🚖 [When is 2021, but the Germans are marching in black uniform with torches in front of the Reichstag.](http://9gag.com/gag/aDDAGZ7)
+ - 🚯 [Hold it!](http://9gag.com/gag/a61mbP2)
  - 🚯 [What will be your weapon of choice? Gear up and fight!](http://9gag.com/gag/aXr0pWv)<!-- MEMES:END -->
 
 --- 
