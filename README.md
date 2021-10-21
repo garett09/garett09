@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [LG Reflect review: The K51’s evil twin](https://www.androidauthority.com/lg-reflect-review-3019831/)
- - [Two SIM swappers phished a phone company so they could steal $16K in crypto](https://www.theverge.com/2021/10/20/22736474/sim-swapping-crypto-currency-wireless-thief-guilty)
- - [Apple to require stringent COVID-19 testing for unvaccinated employees](https://appleinsider.com/articles/21/10/20/apple-to-require-stringent-covid-19-testing-for-unvaccinated-employees?utm_medium=rss)<!-- TECH:END -->
+ - [Apple Pay nets WAON, nanaco prepaid card support in Japan](https://appleinsider.com/articles/21/10/21/apple-pay-nets-waon-nanaco-prepaid-card-support-in-japan?utm_medium=rss)
+ - [Home life span: How long your roof, HVAC, fridge and more will last     - CNET](https://www.cnet.com/home/services/your-roof-might-last-longer-than-you-think-average-lifespan-of-hvac-windows-fridge-and-more/#ftag=CAD590a51e)
+ - [Scientists create a wooden knife three times sharper than a steel blade     - CNET](https://www.cnet.com/news/scientists-create-a-wooden-knife-three-times-sharper-than-a-steel-blade/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
