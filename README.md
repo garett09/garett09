@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When is 2021, but the Germans are marching in black uniform with torches in front of the Reichstag.](http://9gag.com/gag/aDDAGZ7)
- - 🚯 [Hold it!](http://9gag.com/gag/a61mbP2)
+ - 🚖 [Realistic humanoid robotic arm that uses artificial muscles has full range of motion and can lift a dumbbell](http://9gag.com/gag/apgErmn)
+ - 🚯 [The cancellers have become the cancelled!!!](http://9gag.com/gag/a81Lyyp)
  - 🚯 [What will be your weapon of choice? Gear up and fight!](http://9gag.com/gag/aXr0pWv)<!-- MEMES:END -->
 
 --- 
