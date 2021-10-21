@@ -193,7 +193,7 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hey king!! You drop you crown](http://9gag.com/gag/aLvR8Bz)
+ - 🚖 [Cancel coke next, take pepsi with you.](http://9gag.com/gag/adg09oB)
  - 🚯 [UWUN&#039;T](http://9gag.com/gag/aKmwVoO)
  - 🚯 [What will be your weapon of choice? Gear up and fight!](http://9gag.com/gag/aXr0pWv)<!-- MEMES:END -->
 
