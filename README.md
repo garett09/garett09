@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Yes,](http://9gag.com/gag/axBdgOM)
- - 🚯 [Dreamcast](http://9gag.com/gag/aAGRP8p)
+ - 🚖 [The cancellers have become the cancelled!!!](http://9gag.com/gag/a81Lyyp)
+ - 🚯 [Hit it](http://9gag.com/gag/aDDAGDO)
  - 🚯 [What will be your weapon of choice? Gear up and fight!](http://9gag.com/gag/aXr0pWv)<!-- MEMES:END -->
 
 --- 
