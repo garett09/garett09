@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon warehouse workers in Staten Island are filing for a federal union election](https://www.theverge.com/2021/10/21/22738310/amazon-warehouse-workers-staten-island-union-election-nlrb)
- - [Google Play drops all subscription commissions to 15% from day one](https://appleinsider.com/articles/21/10/21/google-play-drops-all-subscription-commissions-to-15-from-day-one?utm_medium=rss)
- - [Donald Trump’s new social media SPAC, explained](https://www.theverge.com/2021/10/21/22738240/donald-trump-truth-social-spac-dwac-stock-merger)<!-- TECH:END -->
+ - [Tesla’s driving data storage system hacked by Dutch investigators](https://www.theverge.com/2021/10/21/22738747/tesla-driving-data-hack-dutch-investigators-autopilot)
+ - [Apple TV+ 'Mythic Quest' picked up through season 4](https://appleinsider.com/articles/21/10/21/apple-tv-mythic-quest-picked-up-through-season-4?utm_medium=rss)
+ - [Razer’s futuristic Zephyr mask is available today, starting at $99.99](https://www.theverge.com/2021/10/21/22726468/razer-zephyr-face-mask-available-features-design-safety)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
