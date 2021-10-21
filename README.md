@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple's PowerBook reinvented the laptop thirty years ago](https://appleinsider.com/articles/21/10/21/apples-powerbook-reinvented-the-laptop-thirty-years-ago?utm_medium=rss)
- - [When is the next Apple event? Next year could bring the iPhone SE 3 and more     - CNET](https://www.cnet.com/tech/mobile/when-is-the-next-apple-event-next-year-could-bring-the-iphone-se-3-and-more/#ftag=CAD590a51e)
- - [Poll: Do you think AI chips on phones have lived up to the hype?](https://www.androidauthority.com/ai-chips-phones-hype-poll-3043488/)<!-- TECH:END -->
+ - [Paris-based collaborative learning service 360learning raises $200M from Sumeru Equity, Vision Fund 2, and others to fund a US expansion (Benoit Berthelot/Bloomberg)](http://www.techmeme.com/211021/p8#a211021p8)
+ - [Raspberry Pi temporarily increases Pi 4 price in response to chip shortages](https://www.theverge.com/2021/10/21/22738033/raspberry-pi-temporarily-increases-pi-4-price-in-response-to-chip-shortages)
+ - [Unreleased 'Beats Fit Pro' earbuds spotted being worn by Kim Kardashian](https://appleinsider.com/articles/21/10/21/unreleased-beats-fit-pro-earbuds-spotted-being-worn-by-kim-kardashian?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
