@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Relive History for Up to 75% Off During the Assassin’s Creed Franchise Sale](https://news.xbox.com/en-us/2021/10/21/relive-history-for-up-to-75-off-during-the-assassins-creed-franchise-sale/)
- - [An indie game finally gave me something Halo never did](https://www.polygon.com/22739080/halo-infinite-outer-wilds-ringworld)
- - [Hurdle through the hellmouth in this occult retro FPS](https://www.pcgamer.com/hurdle-through-the-hellmouth-in-this-occult-retro-fps)<!-- GAME:END -->
+ - [Jump into Riders Republic Early During Time-Limited Trial Week Starting on October 21](https://news.xbox.com/en-us/2021/10/21/riders-republic-trial-week-starting-october-21/)
+ - [Big NFT Project Cancelled After Just Five Hours](https://kotaku.com/big-nft-project-cancelled-after-just-five-hours-1847906380)
+ - [Relive History for Up to 75% Off During the Assassin’s Creed Franchise Sale](https://news.xbox.com/en-us/2021/10/21/relive-history-for-up-to-75-off-during-the-assassins-creed-franchise-sale/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
