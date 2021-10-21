@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A farmer in Nebraska asking a pro-fracking committee member to honor his word of drinking water from a fracking location.](http://9gag.com/gag/adg09ej)
- - 🚯 [Squid Game 10 second summary](http://9gag.com/gag/aDDAxGZ)
- - 🚯 [Nice dress](http://9gag.com/gag/azegXpx)<!-- MEMES:END -->
+ - 🚖 [Do it voluntarily is one of the best productive feelings](http://9gag.com/gag/aNPrYKA)
+ - 🚯 [The future is now!](http://9gag.com/gag/aGzYjpZ)
+ - 🚯 [Become the blade that destroys demons!](http://9gag.com/gag/ajgQ1A0)<!-- MEMES:END -->
 
 --- 
 
