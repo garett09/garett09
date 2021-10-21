@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Masahiro Sakurai Explains How Sora Came To Super Smash Bros. Ultimate](https://kotaku.com/masahiro-sakurai-explains-how-sora-came-to-super-smash-1847906871)
  - [ARPG Souls-like Sands of Aura sails into Steam Early Access](https://www.pcgamer.com/arpg-souls-like-sands-of-aura-sails-into-steam-early-access)
- - [PS3 Emulator Will Now Boot Every Game Ever Released On The Console](https://kotaku.com/ps3-emulator-will-now-boot-every-game-ever-released-on-1847905559)
- - [Cowboy Bebop can’t ruin Vicious because Vicious sucks, actually](https://www.polygon.com/22737189/vicious-cowboy-bebop-netflix)<!-- GAME:END -->
+ - [PS3 Emulator Will Now Boot Every Game Ever Released On The Console](https://kotaku.com/ps3-emulator-will-now-boot-every-game-ever-released-on-1847905559)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
