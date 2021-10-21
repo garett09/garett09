@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Pay nets WAON, nanaco prepaid card support in Japan](https://appleinsider.com/articles/21/10/21/apple-pay-nets-waon-nanaco-prepaid-card-support-in-japan?utm_medium=rss)
- - [Home life span: How long your roof, HVAC, fridge and more will last     - CNET](https://www.cnet.com/home/services/your-roof-might-last-longer-than-you-think-average-lifespan-of-hvac-windows-fridge-and-more/#ftag=CAD590a51e)
- - [Scientists create a wooden knife three times sharper than a steel blade     - CNET](https://www.cnet.com/news/scientists-create-a-wooden-knife-three-times-sharper-than-a-steel-blade/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [New Safari 15.1 beta for macOS Big Sur and Catalina reverts to standard tab design](https://appleinsider.com/articles/21/10/21/new-safari-151-beta-for-macos-big-sur-and-catalina-reverts-to-standard-tab-design?utm_medium=rss)
+ - [Trump announces the Trump Media & Technology Group and TRUTH Social, a social network coming in Nov. to "stand up" to Big Tech, in the App Store for preorder (ABC News)](http://www.techmeme.com/211020/p48#a211020p48)
+ - [Sources: Mark Zuckerberg has not settled on a new name for Facebook, which could be announced as early as Monday (Casey Newton/Platformer)](http://www.techmeme.com/211020/p47#a211020p47)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
