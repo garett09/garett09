@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [I can't stomach time loop games after a year of lockdowns](https://www.pcgamer.com/i-cant-stomach-time-loop-games-after-a-year-of-lockdowns)
- - [Nvidia releases firmware update to let you get into your BIOS again](https://www.pcgamer.com/nvidia-releases-firmware-update-to-let-you-get-into-your-bios-again)
- - [Roccat Torch microphone review](https://www.pcgamer.com/roccat-torch-microphone-review)<!-- GAME:END -->
+ - [World premiere of Uncharted movie trailer](http://feedproxy.google.com/~r/PSBlog/~3/OaDFjaJzn5c/)
+ - [World premiere of Uncharted movie trailer](https://blog.playstation.com/2021/10/21/world-premiere-of-uncharted-movie-trailer/)
+ - [Nvidia claims its virtual RTX 3080 service will outperform a local Xbox Series X on all counts](https://www.pcgamer.com/nvidia-geforce-now-rtx-3080-superpod)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
