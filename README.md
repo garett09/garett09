@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [PS3 Emulator Will Now Boot Every Game Ever Released On The Console](https://kotaku.com/ps3-emulator-will-now-boot-every-game-ever-released-on-1847905559)
  - [Cowboy Bebop can’t ruin Vicious because Vicious sucks, actually](https://www.polygon.com/22737189/vicious-cowboy-bebop-netflix)
- - [Resident Evil 4 VR Cuts Upskirts, Suggestive Dialogue](https://kotaku.com/resident-evil-4-vr-cuts-upskirts-suggestive-dialogue-1847905022)
- - [Grand Theft Auto's greatest controversies](https://www.pcgamer.com/grand-theft-auto-controversies)<!-- GAME:END -->
+ - [Resident Evil 4 VR Cuts Upskirts, Suggestive Dialogue](https://kotaku.com/resident-evil-4-vr-cuts-upskirts-suggestive-dialogue-1847905022)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
