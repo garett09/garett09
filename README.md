@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Polybius, gaming’s oldest urban legend, is mostly Atari’s fault](https://www.polygon.com/videos/2021/10/21/22736379/polybius-urban-legend-atari)
- - [October Xbox Update: 4K Dashboard, Xbox Night Mode, and More](https://news.xbox.com/en-us/2021/10/21/october-2021-xbox-update/)
- - [After Backlash, Mass Effect 3 Devs Say Team Crunched To Deliver New Ending](https://kotaku.com/after-backlash-mass-effect-3-devs-say-team-crunched-to-1847910780)<!-- GAME:END -->
+ - [No Man’s Sky – Expedition 4: Emergence Update is Now Live](https://news.xbox.com/en-us/2021/10/21/no-mans-sky-expedition-4-emergence-update/)
+ - [Netflix’s star-packed Black Western The Harder They Fall is defiant but not deep](https://www.polygon.com/22738860/the-harder-they-fall-review-netflix-western)
+ - [The fixes for the Windows 11 bugs that were hurting AMD Ryzen performance are now live](https://www.pcgamer.com/the-fixes-for-the-windows-11-bugs-that-were-hurting-amd-ryzen-performance-are-now-live)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
