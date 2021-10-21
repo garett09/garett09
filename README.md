@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [World premiere of Uncharted movie trailer](http://feedproxy.google.com/~r/PSBlog/~3/OaDFjaJzn5c/)
- - [World premiere of Uncharted movie trailer](https://blog.playstation.com/2021/10/21/world-premiere-of-uncharted-movie-trailer/)
- - [Nvidia claims its virtual RTX 3080 service will outperform a local Xbox Series X on all counts](https://www.pcgamer.com/nvidia-geforce-now-rtx-3080-superpod)<!-- GAME:END -->
+ - [Inside Fatal Frame: Maiden of Black Water’s haunting new Photo Mode](http://feedproxy.google.com/~r/PSBlog/~3/Q1O0l8K8mPI/)
+ - [Inside Fatal Frame: Maiden of Black Water’s haunting new Photo Mode](https://blog.playstation.com/2021/10/21/inside-fatal-frame-maiden-of-black-waters-haunting-new-photo-mode/)
+ - [House of Ashes review](https://www.pcgamer.com/house-of-ashes-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
