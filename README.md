@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tesla’s driving data storage system hacked by Dutch investigators](https://www.theverge.com/2021/10/21/22738747/tesla-driving-data-hack-dutch-investigators-autopilot)
- - [Apple TV+ 'Mythic Quest' picked up through season 4](https://appleinsider.com/articles/21/10/21/apple-tv-mythic-quest-picked-up-through-season-4?utm_medium=rss)
- - [Razer’s futuristic Zephyr mask is available today, starting at $99.99](https://www.theverge.com/2021/10/21/22726468/razer-zephyr-face-mask-available-features-design-safety)<!-- TECH:END -->
+ - [Locke and Key’s second season is darker but loses the magic](https://www.theverge.com/22738406/locke-and-key-season-2-review-netflix)
+ - [Twitter says its research shows its algorithms amplify right-leaning content more than left-leaning content, but doesn't know what causes the amplification (Anna Kramer/Protocol)](http://www.techmeme.com/211021/p34#a211021p34)
+ - [Save 40% on a Nest Hub with Nest Audio, and more Google Home and Nest deals](https://www.androidauthority.com/best-google-home-nest-deals-1112633/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
