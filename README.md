@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Having a bad day](http://9gag.com/gag/aqG9KKv)
- - 🚯 [This Prank With Two Pairs of Twins...](http://9gag.com/gag/adg05YQ)
+ - 🚖 [Everyone deserves a friend like Portugal](http://9gag.com/gag/aAGRgWg)
+ - 🚯 [Play stupid games, win stupid prizes](http://9gag.com/gag/aPZw7gK)
  - 🚯 [Become the blade that destroys demons!](http://9gag.com/gag/ajgQ1A0)<!-- MEMES:END -->
 
 --- 
