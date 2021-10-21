@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [SkyHive, which develops workforce planning software that lets customers benchmark against competitors by analyzing labor market data, raises a $40M Series B (Kyle Wiggers/VentureBeat)](http://www.techmeme.com/211021/p1#a211021p1)
  - [Apple tops Interbrand's best brands list for ninth consecutive year](https://appleinsider.com/articles/21/10/21/apple-tops-interbrands-best-brands-list-for-ninth-consecutive-year?utm_medium=rss)
- - [Apple's M1 Max GPU is at least 3x faster than M1, Metal benchmark shows](https://appleinsider.com/articles/21/10/21/apples-m1-max-gpu-is-at-least-3x-faster-than-m1-metal-benchmark-shows?utm_medium=rss)
- - [Yahoo Finance app pulled from Chinese App Store](https://appleinsider.com/articles/21/10/21/yahoo-finance-app-pulled-from-chinese-app-store?utm_medium=rss)<!-- TECH:END -->
+ - [Apple's M1 Max GPU is at least 3x faster than M1, Metal benchmark shows](https://appleinsider.com/articles/21/10/21/apples-m1-max-gpu-is-at-least-3x-faster-than-m1-metal-benchmark-shows?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
