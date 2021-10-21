@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Haunting Arrives in Season Six Reloaded of Call of Duty: Black Ops Cold War and Warzone](https://news.xbox.com/en-us/2021/10/21/the-haunting-arrives-in-season-six-reloaded-of-call-of-duty-black-ops-cold-war-and-warzone/)
- - [New Larger Xbox Storage Expansion Costs More Than An Xbox Series S](https://kotaku.com/new-larger-xbox-storage-expansion-costs-more-than-an-xb-1847909666)
- - [GTA Online Is Currently Haunted By Killer Clowns And Ghost Cars](https://kotaku.com/gta-online-is-currently-haunted-by-killer-clowns-and-gh-1847909550)<!-- GAME:END -->
+ - [Celebrate the US Grand Prix on F1 2021](https://news.xbox.com/en-us/2021/10/21/celebrate-the-us-grand-prix-on-f1-2021/)
+ - [Attn Bane: Razer’s High-Tech RGB Covid Mask Is Finally Out](https://kotaku.com/attn-bane-razer-s-high-tech-rgb-covid-mask-is-finally-1847910180)
+ - [Why you may never see Runaway Brain, Disney’s monstrous Mickey short](https://www.polygon.com/features/22738384/runaway-brain-evil-mickey-short-streaming)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
