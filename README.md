@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Paris-based collaborative learning service 360learning raises $200M from Sumeru Equity, Vision Fund 2, and others to fund a US expansion (Benoit Berthelot/Bloomberg)](http://www.techmeme.com/211021/p8#a211021p8)
- - [Raspberry Pi temporarily increases Pi 4 price in response to chip shortages](https://www.theverge.com/2021/10/21/22738033/raspberry-pi-temporarily-increases-pi-4-price-in-response-to-chip-shortages)
- - [Unreleased 'Beats Fit Pro' earbuds spotted being worn by Kim Kardashian](https://appleinsider.com/articles/21/10/21/unreleased-beats-fit-pro-earbuds-spotted-being-worn-by-kim-kardashian?utm_medium=rss)<!-- TECH:END -->
+ - [13 Creepy Games to Get Your Fright on for Halloween](https://www.wired.com/gallery/best-horror-games)
+ - [The ‘Broadband Gap’ Is Now a Housing Problem](https://www.wired.com/story/broadband-gap-now-housing-problem)
+ - [Live D&D Shows Are Inviting More Players to the Table](https://www.wired.com/story/live-dungeons-and-dragons-actual-play-shows-inclusive-diversity)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
