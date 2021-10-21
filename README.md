@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [SkyHive, which develops workforce planning software that lets customers benchmark against competitors by analyzing labor market data, raises a $40M Series B (Kyle Wiggers/VentureBeat)](http://www.techmeme.com/211021/p1#a211021p1)
- - [Apple tops Interbrand's best brands list for ninth consecutive year](https://appleinsider.com/articles/21/10/21/apple-tops-interbrands-best-brands-list-for-ninth-consecutive-year?utm_medium=rss)
- - [Apple's M1 Max GPU is at least 3x faster than M1, Metal benchmark shows](https://appleinsider.com/articles/21/10/21/apples-m1-max-gpu-is-at-least-3x-faster-than-m1-metal-benchmark-shows?utm_medium=rss)<!-- TECH:END -->
+ - [Apple's product design has improved since Jony Ive left, as it seems to be putting the emphasis back on function over form and is less obsessed with thinness (Alex Webb/Bloomberg)](http://www.techmeme.com/211021/p4#a211021p4)
+ - [Batch, a company founded by the team behind AppGratis to let companies manage push notifications at scale, raises $23M led by Expedition Capital (Romain Dillet/TechCrunch)](http://www.techmeme.com/211021/p3#a211021p3)
+ - [Report: Yahoo Finance's mobile app disappeared from the App Store in China, days after republishing a Bloomberg story critical of China's tech crackdown (Mikey Campbell/AppleInsider)](http://www.techmeme.com/211021/p2#a211021p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
