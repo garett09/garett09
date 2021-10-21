@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Do it voluntarily is one of the best productive feelings](http://9gag.com/gag/aNPrYKA)
- - 🚯 [The future is now!](http://9gag.com/gag/aGzYjpZ)
+ - 🚖 [You wanted to get noticed, didn&#039;t you.](http://9gag.com/gag/aE8vxgN)
+ - 🚯 [I just try to save the world](http://9gag.com/gag/aBnRxPP)
  - 🚯 [Become the blade that destroys demons!](http://9gag.com/gag/ajgQ1A0)<!-- MEMES:END -->
 
 --- 
