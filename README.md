@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [TikToker modifies woodshop robot to write out entire Shrek script for good of mankind](https://www.polygon.com/22738284/shrek-tiktok-robot-writes-script)
- - [House of Ashes – Bringing the sound of horror to life](http://feedproxy.google.com/~r/PSBlog/~3/FEbA9vI3TQE/)
- - [House of Ashes – Bringing the sound of horror to life](https://blog.playstation.com/2021/10/21/house-of-ashes-bringing-the-sound-of-horror-to-life/)<!-- GAME:END -->
+ - [Apex Legends’ Escape trailer brings back a trusty Titanfall 2 gun](https://www.polygon.com/22738539/apex-legends-escape-season-11-car-smg-titanfall-2)
+ - [Here's What All Those Pumpkins Do In Pokémon Unite's Big Halloween Patch](https://kotaku.com/heres-what-all-those-pumpkins-do-in-pokemon-unites-big-1847909115)
+ - [This Halo Infinite themed RX 6900 XT GPU is so limited edition you can't actually buy one](https://www.pcgamer.com/this-halo-infinite-themed-rx-6900-xt-gpu-is-so-limited-edition-you-cant-actually-buy-one)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
