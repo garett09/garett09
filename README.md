@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Yahoo Finance app pulled from Chinese App Store](https://appleinsider.com/articles/21/10/21/yahoo-finance-app-pulled-from-chinese-app-store?utm_medium=rss)
- - [YouTube Music's free tier will transition to audio-only with background listening next month, with videos reserved for Premium subscribers (Abner Li/9to5Google)](http://www.techmeme.com/211020/p53#a211020p53)
- - [Yahoo Finance's mobile app, which posts news from other outlets along with market data, has disappeared from the App Store in China (Sophia Yan/Telegraph)](http://www.techmeme.com/211020/p52#a211020p52)<!-- TECH:END -->
+ - [Apple tops Interbrand's best brands list for ninth consecutive year](https://appleinsider.com/articles/21/10/21/apple-tops-interbrands-best-brands-list-for-ninth-consecutive-year?utm_medium=rss)
+ - [Apple's M1 Max GPU is at least 3x faster than M1, Metal benchmark shows](https://appleinsider.com/articles/21/10/21/apples-m1-max-gpu-is-at-least-3x-faster-than-m1-metal-benchmark-shows?utm_medium=rss)
+ - [Yahoo Finance app pulled from Chinese App Store](https://appleinsider.com/articles/21/10/21/yahoo-finance-app-pulled-from-chinese-app-store?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
