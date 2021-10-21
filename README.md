@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anker Nano II review: The perfect pocket-sized Galaxy and Pixel charger](https://www.androidauthority.com/anker-nano-ii-review-3044413/)
- - [Snap stock plunges as Apple privacy changes impact revenue](https://appleinsider.com/articles/21/10/21/snap-stock-plunges-as-apple-privacy-changes-impact-revenue?utm_medium=rss)
- - [Microsoft fixes Windows 11 AMD CPU performance issues with new update](https://www.theverge.com/2021/10/21/22732336/microsoft-windows-11-amd-cpu-performance-issues-fix-release)<!-- TECH:END -->
+ - [Rare Apple VideoPad prototype scrapped by Steve Jobs set to be auctioned](https://www.theverge.com/2021/10/21/22738419/apple-videopad-auction-steve-jobs-bonhams-prototype)
+ - [Microsoft fixes Windows 11 AMD CPU performance issues with new update](https://www.theverge.com/2021/10/21/22732336/microsoft-windows-11-amd-cpu-performance-issues-fix-release)
+ - [Analysis of 23K+ websites of nonprofit organizations: ~86% had third-party cookies or trackers, with some, like Planned Parenthood, tracking user keystrokes (The Markup)](http://www.techmeme.com/211021/p40#a211021p40)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
