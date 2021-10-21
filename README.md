@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Poll: Do you think AI chips on phones have lived up to the hype?](https://www.androidauthority.com/ai-chips-phones-hype-poll-3043488/)
- - [Apple's product design has improved since Jony Ive left, as it seems to be putting the emphasis back on function over form and is less obsessed with thinness (Alex Webb/Bloomberg)](http://www.techmeme.com/211021/p4#a211021p4)
- - [Batch, a company founded by the team behind AppGratis to let companies manage push notifications at scale, raises $23M led by Expedition Capital (Romain Dillet/TechCrunch)](http://www.techmeme.com/211021/p3#a211021p3)<!-- TECH:END -->
+ - [Apple's PowerBook reinvented the laptop thirty years ago](https://appleinsider.com/articles/21/10/21/apples-powerbook-reinvented-the-laptop-thirty-years-ago?utm_medium=rss)
+ - [When is the next Apple event? Next year could bring the iPhone SE 3 and more     - CNET](https://www.cnet.com/tech/mobile/when-is-the-next-apple-event-next-year-could-bring-the-iphone-se-3-and-more/#ftag=CAD590a51e)
+ - [Poll: Do you think AI chips on phones have lived up to the hype?](https://www.androidauthority.com/ai-chips-phones-hype-poll-3043488/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
