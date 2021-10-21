@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The cancellers have become the cancelled!!!](http://9gag.com/gag/a81Lyyp)
- - 🚯 [Hit it](http://9gag.com/gag/aDDAGDO)
+ - 🚖 [Hit it](http://9gag.com/gag/aDDAGDO)
+ - 🚯 [My kids are younger than Bing](http://9gag.com/gag/aogEpw0)
  - 🚯 [What will be your weapon of choice? Gear up and fight!](http://9gag.com/gag/aXr0pWv)<!-- MEMES:END -->
 
 --- 
