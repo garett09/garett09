@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Deals Oct. 21: AirTag for $26, $81 off Beats Solo3, and more!](https://appleinsider.com/articles/21/10/21/best-deals-oct-21-airtag-for-26-81-off-beats-solo3-and-more?utm_medium=rss)
- - [Apple iPad Mini (2021) review: This one’s just right](https://www.androidauthority.com/apple-ipad-mini-2021-review-3031312/)
- - [Sports NFT service Candy Digital, owned by sports e-commerce company Fanatics, raises a $100M Series A at a $1.5B valuation from Vision Fund 2 and others (Jabari Young/CNBC)](http://www.techmeme.com/211021/p22#a211021p22)<!-- TECH:END -->
+ - [The Associated Press partners with crypto company Chainlink to add data about elections, sports, and more to the blockchain in order to authenticate it (Jason Nelson/Decrypt)](http://www.techmeme.com/211021/p24#a211021p24)
+ - [NASA’s tiny electrical aircraft is almost ready for lift-off](https://www.theverge.com/2021/10/21/22738351/nasa-x57-maxwell-electric-airplane-bill-nelson-interview)
+ - [Huawei’s new Watch GT 3 takes aim at the Apple Watch Series 7](https://www.androidauthority.com/huawei-watch-gt-3-3043881/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
