@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [13 Creepy Games to Get Your Fright on for Halloween](https://www.wired.com/gallery/best-horror-games)
- - [The ‘Broadband Gap’ Is Now a Housing Problem](https://www.wired.com/story/broadband-gap-now-housing-problem)
- - [Live D&D Shows Are Inviting More Players to the Table](https://www.wired.com/story/live-dungeons-and-dragons-actual-play-shows-inclusive-diversity)<!-- TECH:END -->
+ - [Apple product orders, including iPad mini, MacBook Pro, and $19 cleaning cloth, are delayed into November and December due to chip shortages and other issues (Mark Gurman/Bloomberg)](http://www.techmeme.com/211021/p15#a211021p15)
+ - [Why you shouldn’t expect a Google Pixel Watch any time soon](https://www.androidauthority.com/google-pixel-watch-3042018/)
+ - [Apple's iPod is improbably still around: Here's a look at its past 20 years     - CNET](https://www.cnet.com/tech/mobile/apples-ipod-is-improbably-still-around-heres-a-look-at-the-past-20-years/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
