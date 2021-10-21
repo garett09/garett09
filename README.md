@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I just try to save the world](http://9gag.com/gag/aBnRxPP)
- - 🚯 [This is what lemonade commercials in Germany looked like ...](http://9gag.com/gag/aegjMYv)
+ - 🚖 [I know you were 30s](http://9gag.com/gag/arnvGYV)
+ - 🚯 [Guido knows, Guido does not whisper](http://9gag.com/gag/a91bKv6)
  - 🚯 [Become the blade that destroys demons!](http://9gag.com/gag/ajgQ1A0)<!-- MEMES:END -->
 
 --- 
