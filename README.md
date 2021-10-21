@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Apex Legends’ Escape trailer brings back a trusty Titanfall 2 gun](https://www.polygon.com/22738539/apex-legends-escape-season-11-car-smg-titanfall-2)
- - [Here's What All Those Pumpkins Do In Pokémon Unite's Big Halloween Patch](https://kotaku.com/heres-what-all-those-pumpkins-do-in-pokemon-unites-big-1847909115)
- - [This Halo Infinite themed RX 6900 XT GPU is so limited edition you can't actually buy one](https://www.pcgamer.com/this-halo-infinite-themed-rx-6900-xt-gpu-is-so-limited-edition-you-cant-actually-buy-one)<!-- GAME:END -->
+ - [The Haunting Arrives in Season Six Reloaded of Call of Duty: Black Ops Cold War and Warzone](https://news.xbox.com/en-us/2021/10/21/the-haunting-arrives-in-season-six-reloaded-of-call-of-duty-black-ops-cold-war-and-warzone/)
+ - [New Larger Xbox Storage Expansion Costs More Than An Xbox Series S](https://kotaku.com/new-larger-xbox-storage-expansion-costs-more-than-an-xb-1847909666)
+ - [GTA Online Is Currently Haunted By Killer Clowns And Ghost Cars](https://kotaku.com/gta-online-is-currently-haunted-by-killer-clowns-and-gh-1847909550)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
