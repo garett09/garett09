@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [No Man’s Sky – Expedition 4: Emergence Update is Now Live](https://news.xbox.com/en-us/2021/10/21/no-mans-sky-expedition-4-emergence-update/)
- - [Netflix’s star-packed Black Western The Harder They Fall is defiant but not deep](https://www.polygon.com/22738860/the-harder-they-fall-review-netflix-western)
- - [The fixes for the Windows 11 bugs that were hurting AMD Ryzen performance are now live](https://www.pcgamer.com/the-fixes-for-the-windows-11-bugs-that-were-hurting-amd-ryzen-performance-are-now-live)<!-- GAME:END -->
+ - [Echo Generation, a Monster Mech Mashup, Launches Today with Xbox Game Pass](https://news.xbox.com/en-us/2021/10/21/echo-generation-launches-todaywith-xbox-game-pass/)
+ - [Stardew Valley Dev Returns With A Cozy RPG About Haunted Chocolate](https://kotaku.com/stardew-valley-dev-returns-with-a-cozy-rpg-about-haunte-1847912361)
+ - [Sony patents technology that enables stream viewers to kick players from games](https://www.pcgamer.com/sony-patents-technology-that-enables-stream-viewers-to-kick-players-from-games)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
