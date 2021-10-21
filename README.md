@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A software tester walks into a bar.](http://9gag.com/gag/aegjMQq)
- - 🚯 [Sweet sweet moment of justice](http://9gag.com/gag/aXr0xgD)
- - 🚯 [A farmer in Nebraska asking a pro-fracking committee member to honor his word of drinking water from a fracking location.](http://9gag.com/gag/adg09ej)<!-- MEMES:END -->
+ - 🚖 [A farmer in Nebraska asking a pro-fracking committee member to honor his word of drinking water from a fracking location.](http://9gag.com/gag/adg09ej)
+ - 🚯 [Squid Game 10 second summary](http://9gag.com/gag/aDDAxGZ)
+ - 🚯 [Nice dress](http://9gag.com/gag/azegXpx)<!-- MEMES:END -->
 
 --- 
 
