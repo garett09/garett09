@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Sweet sweet moment of justice](http://9gag.com/gag/aXr0xgD)
- - 🚯 [Who remembers this? Used to love watching this growing up](http://9gag.com/gag/a71LDmA)
- - 🚯 [Please Don&#039;t](http://9gag.com/gag/a21z4GO)<!-- MEMES:END -->
+ - 🚖 [A software tester walks into a bar.](http://9gag.com/gag/aegjMQq)
+ - 🚯 [Sweet sweet moment of justice](http://9gag.com/gag/aXr0xgD)
+ - 🚯 [A farmer in Nebraska asking a pro-fracking committee member to honor his word of drinking water from a fracking location.](http://9gag.com/gag/adg09ej)<!-- MEMES:END -->
 
 --- 
 
