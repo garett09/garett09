@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple product orders, including iPad mini, MacBook Pro, and $19 cleaning cloth, are delayed into November and December due to chip shortages and other issues (Mark Gurman/Bloomberg)](http://www.techmeme.com/211021/p15#a211021p15)
- - [Why you shouldn’t expect a Google Pixel Watch any time soon](https://www.androidauthority.com/google-pixel-watch-3042018/)
- - [Apple's iPod is improbably still around: Here's a look at its past 20 years     - CNET](https://www.cnet.com/tech/mobile/apples-ipod-is-improbably-still-around-heres-a-look-at-the-past-20-years/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple's record-breaking holiday quarter financial streak is in danger](https://appleinsider.com/articles/21/10/21/apples-record-breaking-holiday-quarter-financial-streak-is-in-danger?utm_medium=rss)
+ - [TCL’s Verizon tablet is the only one you’ll find with 5G for $399](https://www.theverge.com/2021/10/21/22736065/tcl-tab-pro-5g-verizon-mmwave-tablet-device)
+ - [Microsoft Surface Duo 2 review: futuristic design, excellent multitasking, and useful pen support, but buggy, lousy camera, expensive, and awkward form factor (Dan Seifert/The Verge)](http://www.techmeme.com/211021/p19#a211021p19)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
