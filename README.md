@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Masahiro Sakurai Explains How Sora Came To Super Smash Bros. Ultimate](https://kotaku.com/masahiro-sakurai-explains-how-sora-came-to-super-smash-1847906871)
- - [ARPG Souls-like Sands of Aura sails into Steam Early Access](https://www.pcgamer.com/arpg-souls-like-sands-of-aura-sails-into-steam-early-access)
- - [PS3 Emulator Will Now Boot Every Game Ever Released On The Console](https://kotaku.com/ps3-emulator-will-now-boot-every-game-ever-released-on-1847905559)<!-- GAME:END -->
+ - [I can't stomach time loop games after a year of lockdowns](https://www.pcgamer.com/i-cant-stomach-time-loop-games-after-a-year-of-lockdowns)
+ - [Nvidia releases firmware update to let you get into your BIOS again](https://www.pcgamer.com/nvidia-releases-firmware-update-to-let-you-get-into-your-bios-again)
+ - [Roccat Torch microphone review](https://www.pcgamer.com/roccat-torch-microphone-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
