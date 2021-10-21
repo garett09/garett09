@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Rare Apple VideoPad prototype scrapped by Steve Jobs set to be auctioned](https://www.theverge.com/2021/10/21/22738419/apple-videopad-auction-steve-jobs-bonhams-prototype)
- - [Microsoft fixes Windows 11 AMD CPU performance issues with new update](https://www.theverge.com/2021/10/21/22732336/microsoft-windows-11-amd-cpu-performance-issues-fix-release)
- - [Analysis of 23K+ websites of nonprofit organizations: ~86% had third-party cookies or trackers, with some, like Planned Parenthood, tracking user keystrokes (The Markup)](http://www.techmeme.com/211021/p40#a211021p40)<!-- TECH:END -->
+ - [Sources: ransomware gang REvil was hacked and forced offline this week by an active multi-country operation that includes US law enforcement (Reuters)](http://www.techmeme.com/211021/p41#a211021p41)
+ - [Facebook, Twitter stock dragged down by dour Snap earnings](https://appleinsider.com/articles/21/10/21/facebook-twitter-stock-dragged-down-by-dour-snap-earnings?utm_medium=rss)
+ - [Demon Slayer season 2 -- Mugen Train Arc episode 2 recap: Dreams, hearts and spirits     - CNET](https://www.cnet.com/news/demon-slayer-season-2-mugen-train-arc-episode-2-recap-dreams-hearts-and-spirits/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
