@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Echo Generation, a Monster Mech Mashup, Launches Today with Xbox Game Pass](https://news.xbox.com/en-us/2021/10/21/echo-generation-launches-todaywith-xbox-game-pass/)
- - [Stardew Valley Dev Returns With A Cozy RPG About Haunted Chocolate](https://kotaku.com/stardew-valley-dev-returns-with-a-cozy-rpg-about-haunte-1847912361)
- - [Sony patents technology that enables stream viewers to kick players from games](https://www.pcgamer.com/sony-patents-technology-that-enables-stream-viewers-to-kick-players-from-games)<!-- GAME:END -->
+ - [Relive History for Up to 75% Off During the Assassin’s Creed Franchise Sale](https://news.xbox.com/en-us/2021/10/21/relive-history-for-up-to-75-off-during-the-assassins-creed-franchise-sale/)
+ - [An indie game finally gave me something Halo never did](https://www.polygon.com/22739080/halo-infinite-outer-wilds-ringworld)
+ - [Hurdle through the hellmouth in this occult retro FPS](https://www.pcgamer.com/hurdle-through-the-hellmouth-in-this-occult-retro-fps)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
