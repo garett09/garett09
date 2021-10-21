@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Realistic humanoid robotic arm that uses artificial muscles has full range of motion and can lift a dumbbell](http://9gag.com/gag/apgErmn)
- - 🚯 [The cancellers have become the cancelled!!!](http://9gag.com/gag/a81Lyyp)
+ - 🚖 [It&rsquo;s my 29th birthday and I&rsquo;m lucky to be a part of you f**kers. Thanks for everything you bunch of wonderful people](http://9gag.com/gag/aZrbBAW)
+ - 🚯 [They let them make this joke.](http://9gag.com/gag/angqbZB)
  - 🚯 [What will be your weapon of choice? Gear up and fight!](http://9gag.com/gag/aXr0pWv)<!-- MEMES:END -->
 
 --- 
