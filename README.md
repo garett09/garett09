@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Associated Press partners with crypto company Chainlink to add data about elections, sports, and more to the blockchain in order to authenticate it (Jason Nelson/Decrypt)](http://www.techmeme.com/211021/p24#a211021p24)
- - [NASA’s tiny electrical aircraft is almost ready for lift-off](https://www.theverge.com/2021/10/21/22738351/nasa-x57-maxwell-electric-airplane-bill-nelson-interview)
- - [Huawei’s new Watch GT 3 takes aim at the Apple Watch Series 7](https://www.androidauthority.com/huawei-watch-gt-3-3043881/)<!-- TECH:END -->
+ - [Sources: Intel's talks with chip designer SiFive ended without a deal and the startup instead plans to pursue outside investment and an IPO (Bloomberg)](http://www.techmeme.com/211021/p29#a211021p29)
+ - [Among Us is coming to Xbox, PlayStation, and Xbox Game Pass on December 14th](https://www.theverge.com/2021/10/21/22738583/among-us-xbox-playstation-game-pass-release-date)
+ - [Regulators demand more info about tech payment systems](https://www.theverge.com/2021/10/21/22738463/cfbp-payment-orders-amazon-apple-google-investigation-antitrust)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
