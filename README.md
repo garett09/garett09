@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Inside Fatal Frame: Maiden of Black Water’s haunting new Photo Mode](http://feedproxy.google.com/~r/PSBlog/~3/Q1O0l8K8mPI/)
- - [Inside Fatal Frame: Maiden of Black Water’s haunting new Photo Mode](https://blog.playstation.com/2021/10/21/inside-fatal-frame-maiden-of-black-waters-haunting-new-photo-mode/)
- - [House of Ashes review](https://www.pcgamer.com/house-of-ashes-review)<!-- GAME:END -->
+ - [TikToker modifies woodshop robot to write out entire Shrek script for good of mankind](https://www.polygon.com/22738284/shrek-tiktok-robot-writes-script)
+ - [House of Ashes – Bringing the sound of horror to life](http://feedproxy.google.com/~r/PSBlog/~3/FEbA9vI3TQE/)
+ - [House of Ashes – Bringing the sound of horror to life](https://blog.playstation.com/2021/10/21/house-of-ashes-bringing-the-sound-of-horror-to-life/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
