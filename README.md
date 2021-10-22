@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Proper use of the husky in the city. Tatiana Karpova, 19, was rollerblading with her friend&#039;s five-year-old pet, a husky named Butur, in Nizhny Novgorod.](http://9gag.com/gag/a61mZxA)
- - 🚯 [I would do the same](http://9gag.com/gag/aegj4Gv)
- - 🚯 [This was a debate about whether musical listening was instinctive for humans or a purely cultural development. Bobby McFerrin said this pentatonic theater trick works everywhere in the world - somehow people discover it instantly.](http://9gag.com/gag/aVxzgyw)<!-- MEMES:END -->
+ - 🚖 [This was a debate about whether musical listening was instinctive for humans or a purely cultural development. Bobby McFerrin said this pentatonic theater trick works everywhere in the world - somehow people discover it instantly.](http://9gag.com/gag/aVxzgyw)
+ - 🚯 [Also Dolphins and Otters and Koalas](http://9gag.com/gag/adg01XD)
+ - 🚯 [This one sparks joy](http://9gag.com/gag/a51eVPN)<!-- MEMES:END -->
 
 --- 
 
