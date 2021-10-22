@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [VideoAmp, which offers audience and ad measurement tools across digital platforms and traditional TV, raises a $275M Series F at a $1.4B valuation (Alexandra Bruell/Wall Street Journal)](http://www.techmeme.com/211021/p46#a211021p46)
+ - [Apple Watch Series 7 teardown reveals big screen changes, minor battery upgrade](https://appleinsider.com/articles/21/10/22/apple-watch-series-7-teardown-reveals-big-screen-changes-minor-battery-upgrade?utm_medium=rss)
  - [REvil ransomware group that targeted Apple supplier gets hacked, taken offline](https://appleinsider.com/articles/21/10/22/revil-ransomware-group-that-targeted-apple-supplier-gets-hacked-in-multinational-operation?utm_medium=rss)
- - [Pomelo, which was founded earlier this year to make fintech-as-a-service infrastructure for LatAm businesses, raises a $35M Series A led by Tiger Global (Mary Ann Azevedo/TechCrunch)](http://www.techmeme.com/211021/p45#a211021p45)<!-- TECH:END -->
+ - [Redesigned MacBook Air rumored to sport 'M2' chip, MagSafe, 1080p camera, off-white bezels and keyboard](https://appleinsider.com/articles/21/10/22/redesigned-macbook-air-rumored-to-boast-m2-chip-magsafe-1080p-camera-off-white-bezels-and-keyboard?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
