@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Halloween Countdown: 31 days of horror](https://www.polygon.com/22702474/best-halloween-movies-tv-to-watch-stream)
- - [State of Play returns next Wednesday](https://blog.playstation.com/2021/10/22/state-of-play-returns-next-wednesday/)
- - [Splitgate: Portals to the Future](https://news.xbox.com/en-us/2021/10/22/splitgate-portals-to-the-future/)<!-- GAME:END -->
+ - [25 of the best movies on Netflix right now](https://www.polygon.com/21266801/best-movies-on-netflix)
+ - [Carrion bursts onto PS4 today](http://feedproxy.google.com/~r/PSBlog/~3/KiPm_nTSx04/)
+ - [Carrion bursts onto PS4 today](https://blog.playstation.com/2021/10/22/carrion-bursts-onto-ps4-today/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
