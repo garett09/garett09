@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Respect+](http://9gag.com/gag/azegMop)
- - 🚯 [&quot;Out of context&quot;](http://9gag.com/gag/aWgQx9n)
+ - 🚖 [Doggo is sorry](http://9gag.com/gag/aOQK3Xr)
+ - 🚯 [Wonder how much it has&hellip;.](http://9gag.com/gag/aDDAD3N)
  - 🚯 [Become the blade that destroys demons!](http://9gag.com/gag/ajgQ1A0)<!-- MEMES:END -->
 
 --- 
