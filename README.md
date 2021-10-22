@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hand brakes do you have it?!](http://9gag.com/gag/aogE5xg)
- - 🚯 [I see](http://9gag.com/gag/aWgQx46)
+ - 🚖 [Everyone deserves a friend like Portugal](http://9gag.com/gag/aAGRgWg)
+ - 🚯 [&quot;Out of context&quot;](http://9gag.com/gag/aWgQx9n)
  - 🚯 [Become the blade that destroys demons!](http://9gag.com/gag/ajgQ1A0)<!-- MEMES:END -->
 
 --- 
