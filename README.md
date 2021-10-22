@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitter’s research shows that its algorithm favors conservative views](https://www.theverge.com/2021/10/22/22740703/twitter-algorithm-right-wing-amplification-study)
- - [US court rules Texas AG can seek internal docs in limited discovery from Twitter, Google, and Facebook, regarding how they moderate content (Erik Larson/Bloomberg)](http://www.techmeme.com/211022/p24#a211022p24)
- - [Docs from 16 AGs' Google suit: Google sought help from Apple, Facebook, and Microsoft to stall federal efforts to strengthen an online privacy law for children (Leah Nylen/Politico)](http://www.techmeme.com/211022/p23#a211022p23)<!-- TECH:END -->
+ - [Russian developer sues to keep Apple out of trademark dispute](https://appleinsider.com/articles/21/10/22/russian-developer-sues-to-keep-apple-out-of-trademark-dispute?utm_medium=rss)
+ - [Sources: over 12 news outlets, including AP and Fox Business, formed a consortium to sift leaked Facebook docs from Frances Haugen, with stories expected Monday (The Information)](http://www.techmeme.com/211022/p25#a211022p25)
+ - [Save $600 on the Razr 5G, and more of the best phone deals](https://www.androidauthority.com/best-phone-deals-2-1111885/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
