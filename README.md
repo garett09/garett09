@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best Australian PC gaming deals this week](https://www.pcgamer.com/best-australian-pc-gaming-deals)
- - [eBay AU is flogging heaps of Dell stuff for cheap, including a AU$600 360Hz monitor](https://www.pcgamer.com/ebay-au-is-flogging-heaps-of-dell-stuff-for-cheap-including-a-audollar600-360hz-monitor)
- - [Inscryption review](https://www.pcgamer.com/inscryption-review)<!-- GAME:END -->
+ - [Best Wi-Fi range extenders in 2021](https://www.pcgamer.com/the-best-wifi-range-extenders)
+ - [NetEase Games Acquires Goichi Suda's Grasshopper Manufacture](https://kotaku.com/netease-games-acquires-goichi-sudas-grasshopper-manufac-1847914966)
+ - [The best Australian PC gaming deals this week](https://www.pcgamer.com/best-australian-pc-gaming-deals)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
