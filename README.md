@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple TV+ now counted in Nielsen's streaming charts](https://appleinsider.com/articles/21/10/22/apple-tv-now-counted-in-nielsens-streaming-charts?utm_medium=rss)
  - [Apple Watch Series 7 teardown reveals big screen changes, minor battery upgrade](https://appleinsider.com/articles/21/10/22/apple-watch-series-7-teardown-reveals-big-screen-changes-minor-battery-upgrade?utm_medium=rss)
- - [REvil ransomware group that targeted Apple supplier gets hacked, taken offline](https://appleinsider.com/articles/21/10/22/revil-ransomware-group-that-targeted-apple-supplier-gets-hacked-in-multinational-operation?utm_medium=rss)
- - [Redesigned MacBook Air rumored to sport 'M2' chip, MagSafe, 1080p camera, off-white bezels and keyboard](https://appleinsider.com/articles/21/10/22/redesigned-macbook-air-rumored-to-boast-m2-chip-magsafe-1080p-camera-off-white-bezels-and-keyboard?utm_medium=rss)<!-- TECH:END -->
+ - [REvil ransomware group that targeted Apple supplier gets hacked, taken offline](https://appleinsider.com/articles/21/10/22/revil-ransomware-group-that-targeted-apple-supplier-gets-hacked-in-multinational-operation?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
