@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Week on Xbox: October 25 to 29](https://news.xbox.com/en-us/2021/10/22/next-week-on-xbox-october-25-to-29/)
- - [Grand Theft Auto’s trilogy remaster coming Nov. 11](https://www.polygon.com/22740107/grand-theft-auto-trilogy-definitive-edition-release-date)
- - [Grand Theft Auto: The Trilogy Priced, Dated And First Footage Revealed](https://kotaku.com/grand-theft-auto-the-trilogy-priced-dated-and-rated-1847915306)<!-- GAME:END -->
+ - [The Halloween Countdown: 31 days of horror](https://www.polygon.com/22702474/best-halloween-movies-tv-to-watch-stream)
+ - [State of Play returns next Wednesday](https://blog.playstation.com/2021/10/22/state-of-play-returns-next-wednesday/)
+ - [Splitgate: Portals to the Future](https://news.xbox.com/en-us/2021/10/22/splitgate-portals-to-the-future/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
