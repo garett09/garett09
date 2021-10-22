@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Braze, a marketing campaign management software startup, files for an IPO, says its FY 2021 revenue was $150.2M, up from $96.4M in 2020, with a net loss $31.43M (Marty Swant/Forbes)](http://www.techmeme.com/211022/p17#a211022p17)
- - [Micro Center leaks specs and pricing for Intel’s new Alder Lake Core i9 CPU](https://www.theverge.com/2021/10/22/22740133/intel-core-i9-12900k-spec-release-date-price-alder-lake)
- - [Questionable 'AirPods Pro 2' pictures surface showing only minor changes](https://appleinsider.com/articles/21/10/22/questionable-airpods-pro-2-pictures-surface-showing-only-minor-changes?utm_medium=rss)<!-- TECH:END -->
+ - [Satechi’s USB-C hub can hold an SSD if you have more money than ports](https://www.theverge.com/2021/10/22/22740468/satechi-usb-c-hub-sata-ssd-ports-speed-flexibility)
+ - [14-inch MacBook Pro models appear in the wild ahead of launch](https://appleinsider.com/articles/21/10/22/14-inch-macbook-pro-models-appear-in-the-wild-ahead-of-launch?utm_medium=rss)
+ - [Ford nabs $884 million incentive package for EV ‘mega campus’](https://www.theverge.com/2021/10/22/22740610/tennessee-ford-blue-oval-city-incentive-package-884-million)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
