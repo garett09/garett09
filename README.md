@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Card 6% cash back rate may have been an error, report claims](https://appleinsider.com/articles/21/10/22/apple-card-6-cash-back-rate-may-have-been-an-error-report-claims?utm_medium=rss)
- - [Apple’s latest sci-fi drama Invasion starts out too dang slow](https://www.theverge.com/22740520/invasion-review-apple-tv-plus)
- - [These Early Black Friday Deals Have a Special Perk](https://www.wired.com/story/best-buy-early-black-friday-deals-october-2021)<!-- TECH:END -->
+ - [Braze, a marketing campaign management software startup, files for an IPO, says its FY 2021 revenue was $150.2M, up from $96.4M in 2020, with a net loss $31.43M (Marty Swant/Forbes)](http://www.techmeme.com/211022/p17#a211022p17)
+ - [Micro Center leaks specs and pricing for Intel’s new Alder Lake Core i9 CPU](https://www.theverge.com/2021/10/22/22740133/intel-core-i9-12900k-spec-release-date-price-alder-lake)
+ - [Questionable 'AirPods Pro 2' pictures surface showing only minor changes](https://appleinsider.com/articles/21/10/22/questionable-airpods-pro-2-pictures-surface-showing-only-minor-changes?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
