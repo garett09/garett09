@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Confusion of the highest orda&hellip;](http://9gag.com/gag/aGzYEKZ)
- - 🚯 [Some Scots can&#039;t say &quot;purple burglar alarm&quot;](http://9gag.com/gag/aRrwEjA)
+ - 🚖 [Prop master at Alec Baldwins movie be like](http://9gag.com/gag/aVxzbDv)
+ - 🚯 [Very cool instruments](http://9gag.com/gag/a31P185)
  - 🚯 [Become the blade that destroys demons!](http://9gag.com/gag/ajgQ1A0)<!-- MEMES:END -->
 
 --- 
