@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [New Playstation State of Play airing next week](https://www.polygon.com/22740350/playstation-state-of-play-october-2021-date-time-games-how-to-watch)
- - [Share of the Week: PlayStation VR](http://feedproxy.google.com/~r/PSBlog/~3/kMdgC3ls_qI/)
- - [Share of the Week: PlayStation VR](https://blog.playstation.com/2021/10/22/share-of-the-week-playstation-vr/)<!-- GAME:END -->
+ - [How to prepare for Animal Crossing: New Horizons 2.0 update](https://www.polygon.com/animal-crossing-new-horizons-switch-acnh-guide/22739289/prepare-2-0-november-2021-update)
+ - [Authentically Celebrating the Culture of Mexico in Forza Horizon 5](https://news.xbox.com/en-us/2021/10/22/authentically-celebrating-culture-of-mexico-forza-horizon-5/)
+ - [What Lost In Random, 2021’s Most Innovative Game, Shares With Star Wars](https://kotaku.com/what-lost-in-random-2021-s-most-innovative-game-share-1847917323)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
