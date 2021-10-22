@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Best NVMe SSD for gaming in 2021](https://www.pcgamer.com/best-nvme-ssd)
- - [Intel CEO says it is 'closing the gap' on rivals 'even more rapidly' than expected](https://www.pcgamer.com/intel-ceo-says-it-is-closing-the-gap-on-rivals-even-more-rapidly-than-expected)
- - [Best Wi-Fi range extenders in 2021](https://www.pcgamer.com/the-best-wifi-range-extenders)<!-- GAME:END -->
+ - [Facebook unlocks Oculus Go VR headset for developers, tinkerers, and modders](https://www.pcgamer.com/oculus-go-root-access)
+ - [How to unlock the Labyrinth Warriors event in Genshin Impact](https://www.pcgamer.com/genshin-impact-wishes-quest-unlock-complete)
+ - [DDR5 RAM could cost 50–60% more than DDR4 at launch](https://www.pcgamer.com/ddr5-pricing-alder-lake)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
