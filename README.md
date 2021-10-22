@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The guilt trip](http://9gag.com/gag/awz0yZ1)
- - 🚯 [Sors salutis et virtutis michi nunc contraria](http://9gag.com/gag/axBdWdn)
- - 🚯 [Tears in Rain](http://9gag.com/gag/aogE3zA)<!-- MEMES:END -->
+ - 🚖 [Proper use of the husky in the city. Tatiana Karpova, 19, was rollerblading with her friend&#039;s five-year-old pet, a husky named Butur, in Nizhny Novgorod.](http://9gag.com/gag/a61mZxA)
+ - 🚯 [I would do the same](http://9gag.com/gag/aegj4Gv)
+ - 🚯 [This was a debate about whether musical listening was instinctive for humans or a purely cultural development. Bobby McFerrin said this pentatonic theater trick works everywhere in the world - somehow people discover it instantly.](http://9gag.com/gag/aVxzgyw)<!-- MEMES:END -->
 
 --- 
 
