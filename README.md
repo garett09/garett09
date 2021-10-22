@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Terraria and Don’t Starve are swapping monsters for Halloween season](https://www.polygon.com/22740665/terraria-dont-starve-crossover-halloween-klei-re-logic-survival-sim)
- - [Epic Games Faces Backlash After Ending Popular Time-Off Policy](https://kotaku.com/epic-games-faces-backlash-after-ending-popular-time-off-1847918205)
- - [Grand Theft Auto: The Trilogy – The Definitive Edition coming November 11](http://feedproxy.google.com/~r/PSBlog/~3/pFEczMLYKps/)<!-- GAME:END -->
+ - [Grand Theft Auto: The Trilogy – The Definitive Edition Coming November 11](https://news.xbox.com/en-us/2021/10/22/grand-theft-auto-trilogy-definitive-edition-coming-november-11/)
+ - [YouTuber Valkyrae Under Fire Over Skin Care Line](https://kotaku.com/youtuber-valkyrae-under-fire-over-skin-care-line-1847918855)
+ - [Netflix’s ‘animated event’ Maya and the Three is like nothing else in animation](https://www.polygon.com/22740728/maya-and-the-three-review-netflix)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
