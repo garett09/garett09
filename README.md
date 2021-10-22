@@ -193,7 +193,7 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I know a tweet is not a meme but he has a point](http://9gag.com/gag/aRrwXvB)
+ - 🚖 [Nothing is safe from the wokesters&hellip;](http://9gag.com/gag/azeg1Oj)
  - 🚯 [Dolphines help HUUMANS](http://9gag.com/gag/aQXPo8K)
  - 🚯 [Become the blade that destroys demons!](http://9gag.com/gag/ajgQ1A0)<!-- MEMES:END -->
 
