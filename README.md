@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Waiting for the Huawei P50 series global launch? It’s going to be a while.](https://www.androidauthority.com/huawei-p50-series-global-launch-3044968/)
  - [China hints its regulatory crackdown on tech may be ending as its financial regulator says he expects significant progress in regulation of fintech by year end (Shiyin Chen/Bloomberg)](http://www.techmeme.com/211022/p5#a211022p5)
- - [Dune director Denis Villeneuve on HBO Max and sequel: 'A crazy way to do things'     - CNET](https://www.cnet.com/news/dune-movie-director-denis-villeneuve-on-hbo-max-and-sequel-a-crazy-way-to-do-things/#ftag=CAD590a51e)
- - [A look at efforts by bitcoin miners to use green energy sources, including the voluntary Crypto Climate Accord framework signed by 180 companies in April (Shane Shifflett/Wall Street Journal)](http://www.techmeme.com/211022/p4#a211022p4)<!-- TECH:END -->
+ - [Dune director Denis Villeneuve on HBO Max and sequel: 'A crazy way to do things'     - CNET](https://www.cnet.com/news/dune-movie-director-denis-villeneuve-on-hbo-max-and-sequel-a-crazy-way-to-do-things/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
