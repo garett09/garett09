@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Jump into Riders Republic Early During Time-Limited Trial Week Starting on October 21](https://news.xbox.com/en-us/2021/10/21/riders-republic-trial-week-starting-october-21/)
- - [Big NFT Project Cancelled After Just Five Hours](https://kotaku.com/big-nft-project-cancelled-after-just-five-hours-1847906380)
- - [Relive History for Up to 75% Off During the Assassin’s Creed Franchise Sale](https://news.xbox.com/en-us/2021/10/21/relive-history-for-up-to-75-off-during-the-assassins-creed-franchise-sale/)<!-- GAME:END -->
+ - [Ubisoft Brings Back Might and Magic Game They Shut Down In July](https://kotaku.com/ubisoft-brings-back-might-and-magic-game-they-shut-down-1847912970)
+ - [Who are the Bene Gesserit of Dune?](https://www.polygon.com/22738416/dune-voice-witch-nun-box-jessica-powers-bene-gesserit)
+ - [Call of Duty: Warzone's Halloween mode is fun except for this fake blue screen](https://www.pcgamer.com/call-of-duty-warzones-halloween-mode-is-fun-except-for-this-fake-blue-screen)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
