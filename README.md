@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Everyone in Dune poops their pants](https://www.polygon.com/2020/5/13/21256428/dune-costumes-stillsuits-timothee-chalamet)
- - [Age of Empires IV Hotkeys Revealed](https://news.xbox.com/en-us/2021/10/22/age-of-empires-iv-hotkeys-revealed/)
- - [Minecraft mangroves: how to find and plant these creepy new trees](https://www.pcgamer.com/minecraft-mangrove-tree-guide)<!-- GAME:END -->
+ - [The French Dispatch is Wes Anderson’s worst movie, but that’s no reason to skip it](https://www.polygon.com/reviews/22740988/the-french-dispatch-review-wes-anderson)
+ - [Tony and Clyde Aim to Rewrite the Book on the Shoot ‘Em Up Genre](https://news.xbox.com/en-us/2021/10/22/tony-and-clyde-rewrite-the-book-shoot-em-up-genre/)
+ - [The 16 Best Cards In Back 4 Blood](https://kotaku.com/the-16-best-cards-in-back-4-blood-1847920257)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
