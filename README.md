@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Waiting for the Huawei P50 series global launch? It’s going to be a while.](https://www.androidauthority.com/huawei-p50-series-global-launch-3044968/)
- - [China hints its regulatory crackdown on tech may be ending as its financial regulator says he expects significant progress in regulation of fintech by year end (Shiyin Chen/Bloomberg)](http://www.techmeme.com/211022/p5#a211022p5)
- - [Dune director Denis Villeneuve on HBO Max and sequel: 'A crazy way to do things'     - CNET](https://www.cnet.com/news/dune-movie-director-denis-villeneuve-on-hbo-max-and-sequel-a-crazy-way-to-do-things/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [PUBG: New State arrives on iOS and Android on November 11th](https://www.theverge.com/2021/10/22/22740022/pubg-new-state-release-date-november-11-ios-android-mobile-game)
+ - [A look at the cultural and investment shifts Intel undertook to build a leading-edge foundry business, which some say could take five years to fully appraise (Tim De Chant/Ars Technica)](http://www.techmeme.com/211022/p6#a211022p6)
+ - [iPhone 13 Pro Max vs. iPhone 12 Pro Max: How Apple's highest-end phones stack up     - CNET](https://www.cnet.com/tech/mobile/iphone-13-pro-max-vs-iphone-12-pro-max-how-apple-highest-end-phones-stack-up/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
