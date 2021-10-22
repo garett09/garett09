@@ -194,7 +194,7 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Wonder how much it has&hellip;.](http://9gag.com/gag/aDDAD3N)
- - 🚯 [I know a tweet is not a meme but he has a point](http://9gag.com/gag/aRrwXvB)
+ - 🚯 [Made me late for work](http://9gag.com/gag/aogEgX0)
  - 🚯 [Become the blade that destroys demons!](http://9gag.com/gag/ajgQ1A0)<!-- MEMES:END -->
 
 --- 
