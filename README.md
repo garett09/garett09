@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [PUBG: New State arrives on iOS and Android on November 11th](https://www.theverge.com/2021/10/22/22740022/pubg-new-state-release-date-november-11-ios-android-mobile-game)
- - [A look at the cultural and investment shifts Intel undertook to build a leading-edge foundry business, which some say could take five years to fully appraise (Tim De Chant/Ars Technica)](http://www.techmeme.com/211022/p6#a211022p6)
- - [iPhone 13 Pro Max vs. iPhone 12 Pro Max: How Apple's highest-end phones stack up     - CNET](https://www.cnet.com/tech/mobile/iphone-13-pro-max-vs-iphone-12-pro-max-how-apple-highest-end-phones-stack-up/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Join Us for This Year’s RE:WIRED Celebration](https://www.wired.com/story/2021-rewired-conference-announcement)
+ - [You told us: A ton of you still use screen protectors on your phones](https://www.androidauthority.com/screen-protector-smartphone-poll-results-3044965/)
+ - [Best facial recognition security cameras to buy in 2021     - CNET](https://www.cnet.com/home/security/best-facial-recognition-security-cameras/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
