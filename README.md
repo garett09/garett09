@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Hong Kong-based XanPool, whose software facilitates faster crypto and fiat settlements, raises a $27M Series A led by Valar Ventures (Catherine Shu/TechCrunch)](http://www.techmeme.com/211022/p1#a211022p1)
  - [Apple TV+ now counted in Nielsen's streaming charts](https://appleinsider.com/articles/21/10/22/apple-tv-now-counted-in-nielsens-streaming-charts?utm_medium=rss)
- - [Apple Watch Series 7 teardown reveals big screen changes, minor battery upgrade](https://appleinsider.com/articles/21/10/22/apple-watch-series-7-teardown-reveals-big-screen-changes-minor-battery-upgrade?utm_medium=rss)
- - [REvil ransomware group that targeted Apple supplier gets hacked, taken offline](https://appleinsider.com/articles/21/10/22/revil-ransomware-group-that-targeted-apple-supplier-gets-hacked-in-multinational-operation?utm_medium=rss)<!-- TECH:END -->
+ - [Prop gun kills cinematographer on set of Alec Baldwin's Rust     - CNET](https://www.cnet.com/news/prop-gun-kills-cinematographer-on-set-of-alec-baldwins-rust/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
