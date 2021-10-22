@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It will be fun being half sitting on 12hours flights](http://9gag.com/gag/angq7gz)
- - 🚯 [As Netflix Employees Walk Out Over Dave Chappelle, Fans Voice Undying Support at Sold-Out London Gig](http://9gag.com/gag/aXr0ndV)
- - 🚯 [Swedish police had enough.](http://9gag.com/gag/a51eXer)<!-- MEMES:END -->
+ - 🚖 [I just want a text back](http://9gag.com/gag/angqOQo)
+ - 🚯 [It will be fun being half sitting on 12hours flights](http://9gag.com/gag/angq7gz)
+ - 🚯 [Hezbollah driver calmly waits for the just the right second to move his pickup truck to avoid guided missile](http://9gag.com/gag/aGzYErw)<!-- MEMES:END -->
 
 --- 
 
