@@ -193,7 +193,7 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The so called &quot;Truth&quot;](http://9gag.com/gag/aLvRwwA)
+ - 🚖 [I know a tweet is not a meme but he has a point](http://9gag.com/gag/aRrwXvB)
  - 🚯 [Dolphines help HUUMANS](http://9gag.com/gag/aQXPo8K)
  - 🚯 [Become the blade that destroys demons!](http://9gag.com/gag/ajgQ1A0)<!-- MEMES:END -->
 
