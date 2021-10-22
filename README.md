@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I just want a text back](http://9gag.com/gag/angqOQo)
- - 🚯 [It will be fun being half sitting on 12hours flights](http://9gag.com/gag/angq7gz)
- - 🚯 [Hezbollah driver calmly waits for the just the right second to move his pickup truck to avoid guided missile](http://9gag.com/gag/aGzYErw)<!-- MEMES:END -->
+ - 🚖 [Sors salutis et virtutis michi nunc contraria](http://9gag.com/gag/axBdWdn)
+ - 🚯 [All jokes aside guys&hellip; imagine how this man feels inside right now](http://9gag.com/gag/aZrbDjz)
+ - 🚯 [The guilt trip](http://9gag.com/gag/awz0yZ1)<!-- MEMES:END -->
 
 --- 
 
