@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Satechi’s USB-C hub can hold an SSD if you have more money than ports](https://www.theverge.com/2021/10/22/22740468/satechi-usb-c-hub-sata-ssd-ports-speed-flexibility)
- - [14-inch MacBook Pro models appear in the wild ahead of launch](https://appleinsider.com/articles/21/10/22/14-inch-macbook-pro-models-appear-in-the-wild-ahead-of-launch?utm_medium=rss)
- - [Ford nabs $884 million incentive package for EV ‘mega campus’](https://www.theverge.com/2021/10/22/22740610/tennessee-ford-blue-oval-city-incentive-package-884-million)<!-- TECH:END -->
+ - [Apple developer guideline update slightly loosens anti-steering provision](https://appleinsider.com/articles/21/10/22/apple-developer-guideline-update-slightly-loosens-anti-steering-provision?utm_medium=rss)
+ - [Overwatch’s cowboy hero is now named Cole Cassidy](https://www.theverge.com/2021/10/22/22740836/blizzard-overwatch-jesse-mccree-name-change-cole-cassidy)
+ - [How to stop annoying robocalls on your iPhone or Android phone](https://www.theverge.com/21327304/spam-calls-how-to-stop-block-robocalls-robots-scam-iphone-android)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
