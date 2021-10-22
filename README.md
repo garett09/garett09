@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Satechi's new Hybrid Multiport Adapter combines USB hub with SSD storage](https://appleinsider.com/articles/21/10/22/satechis-new-hybrid-multiport-adapter-combines-usb-hub-with-ssd-storage?utm_medium=rss)
- - [2022 MacBook Air will have 'M2' chip, MagSafe, 1080p camera, says leaker](https://appleinsider.com/articles/21/10/22/redesigned-macbook-air-rumored-to-boast-m2-chip-magsafe-1080p-camera-off-white-bezels-and-keyboard?utm_medium=rss)
- - [Mortgage refinance rates on Oct. 22, 2021: Rate retreats     - CNET](https://www.cnet.com/news/mortgage-refinance-rates-on-oct-22-2021-rate-retreats/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple to beat Q4 2021 consensus, supply issues 'overblown,' analyst says](https://appleinsider.com/articles/21/10/22/apple-to-beat-q4-2021-consensus-supply-issues-overblown-analyst-says?utm_medium=rss)
+ - [The best Apple Watch Series 7 third-party bands for 2021](https://appleinsider.com/articles/21/10/22/the-best-apple-watch-series-7-third-party-bands-for-2021?utm_medium=rss)
+ - [Nintendo delays its Advance Wars remaster to spring 2022](https://www.theverge.com/2021/10/22/22740195/nintendo-advance-wars-1-2-re-boot-camp-switch-switch-remaster-delay)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
