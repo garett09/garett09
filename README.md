@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Sors salutis et virtutis michi nunc contraria](http://9gag.com/gag/axBdWdn)
- - 🚯 [All jokes aside guys&hellip; imagine how this man feels inside right now](http://9gag.com/gag/aZrbDjz)
- - 🚯 [The guilt trip](http://9gag.com/gag/awz0yZ1)<!-- MEMES:END -->
+ - 🚖 [The guilt trip](http://9gag.com/gag/awz0yZ1)
+ - 🚯 [Sors salutis et virtutis michi nunc contraria](http://9gag.com/gag/axBdWdn)
+ - 🚯 [Tears in Rain](http://9gag.com/gag/aogE3zA)<!-- MEMES:END -->
 
 --- 
 
