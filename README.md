@@ -194,7 +194,7 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [The so called &quot;Truth&quot;](http://9gag.com/gag/aLvRwwA)
- - 🚯 [I&#039;m busy being lazy ...](http://9gag.com/gag/aBnRgON)
+ - 🚯 [Dolphines help HUUMANS](http://9gag.com/gag/aQXPo8K)
  - 🚯 [Become the blade that destroys demons!](http://9gag.com/gag/ajgQ1A0)<!-- MEMES:END -->
 
 --- 
