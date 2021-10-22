@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Nothing is safe from the wokesters&hellip;](http://9gag.com/gag/azeg1Oj)
- - 🚯 [Dolphines help HUUMANS](http://9gag.com/gag/aQXPo8K)
+ - 🚖 [Respect+](http://9gag.com/gag/azegMop)
+ - 🚯 [&quot;Out of context&quot;](http://9gag.com/gag/aWgQx9n)
  - 🚯 [Become the blade that destroys demons!](http://9gag.com/gag/ajgQ1A0)<!-- MEMES:END -->
 
 --- 
