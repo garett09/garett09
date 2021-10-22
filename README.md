@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [WTF?!](http://9gag.com/gag/azegeEK)
- - 🚯 [WTF!](http://9gag.com/gag/agg3BWg)
+ - 🚖 [Confusion of the highest orda&hellip;](http://9gag.com/gag/aGzYEKZ)
+ - 🚯 [Some Scots can&#039;t say &quot;purple burglar alarm&quot;](http://9gag.com/gag/aRrwEjA)
  - 🚯 [Become the blade that destroys demons!](http://9gag.com/gag/ajgQ1A0)<!-- MEMES:END -->
 
 --- 
