@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Ubisoft Brings Back Might and Magic Game They Shut Down In July](https://kotaku.com/ubisoft-brings-back-might-and-magic-game-they-shut-down-1847912970)
- - [Who are the Bene Gesserit of Dune?](https://www.polygon.com/22738416/dune-voice-witch-nun-box-jessica-powers-bene-gesserit)
- - [Call of Duty: Warzone's Halloween mode is fun except for this fake blue screen](https://www.pcgamer.com/call-of-duty-warzones-halloween-mode-is-fun-except-for-this-fake-blue-screen)<!-- GAME:END -->
+ - [Inscryption review](https://www.pcgamer.com/inscryption-review)
+ - [Ubisoft Brings Back Might and Magic Game They Shut Down In June](https://kotaku.com/ubisoft-brings-back-might-and-magic-game-they-shut-down-1847912970)
+ - [Who are the Bene Gesserit of Dune?](https://www.polygon.com/22738416/dune-voice-witch-nun-box-jessica-powers-bene-gesserit)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
