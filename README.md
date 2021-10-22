@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple developer guideline update slightly loosens anti-steering provision](https://appleinsider.com/articles/21/10/22/apple-developer-guideline-update-slightly-loosens-anti-steering-provision?utm_medium=rss)
- - [Overwatch’s cowboy hero is now named Cole Cassidy](https://www.theverge.com/2021/10/22/22740836/blizzard-overwatch-jesse-mccree-name-change-cole-cassidy)
- - [How to stop annoying robocalls on your iPhone or Android phone](https://www.theverge.com/21327304/spam-calls-how-to-stop-block-robocalls-robots-scam-iphone-android)<!-- TECH:END -->
+ - [New Facebook whistleblower claims company allows hate, illegal activity](https://appleinsider.com/articles/21/10/22/new-facebook-whistleblower-claims-company-allows-hate-illegal-activity?utm_medium=rss)
+ - [Get up to $150 off the MacBook Pro M1, and more of the best MacBook deals](https://www.androidauthority.com/best-cheap-macbook-deals-1112936/)
+ - [Sources: during the final days of the Trump presidency, OCC quietly determined that banks can legally trade cryptocurrencies on behalf of clients (Victoria Guida/Politico)](http://www.techmeme.com/211022/p21#a211022p21)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
