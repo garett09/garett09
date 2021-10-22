@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Prop master at Alec Baldwins movie be like](http://9gag.com/gag/aVxzbDv)
- - 🚯 [Very cool instruments](http://9gag.com/gag/a31P185)
+ - 🚖 [Made me late for work](http://9gag.com/gag/aogEgX0)
+ - 🚯 [Hezbollah driver calmly waits for the just the right second to move his pickup truck to avoid guided missile](http://9gag.com/gag/aGzYErw)
  - 🚯 [Become the blade that destroys demons!](http://9gag.com/gag/ajgQ1A0)<!-- MEMES:END -->
 
 --- 
