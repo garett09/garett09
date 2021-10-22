@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Grand Theft Auto: The Trilogy – The Definitive Edition Coming November 11](https://news.xbox.com/en-us/2021/10/22/grand-theft-auto-trilogy-definitive-edition-coming-november-11/)
- - [YouTuber Valkyrae Under Fire Over Skin Care Line](https://kotaku.com/youtuber-valkyrae-under-fire-over-skin-care-line-1847918855)
- - [Netflix’s ‘animated event’ Maya and the Three is like nothing else in animation](https://www.polygon.com/22740728/maya-and-the-three-review-netflix)<!-- GAME:END -->
+ - [Everyone in Dune poops their pants](https://www.polygon.com/2020/5/13/21256428/dune-costumes-stillsuits-timothee-chalamet)
+ - [Age of Empires IV Hotkeys Revealed](https://news.xbox.com/en-us/2021/10/22/age-of-empires-iv-hotkeys-revealed/)
+ - [Minecraft mangroves: how to find and plant these creepy new trees](https://www.pcgamer.com/minecraft-mangrove-tree-guide)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
