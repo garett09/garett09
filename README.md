@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [25 of the best movies on Netflix right now](https://www.polygon.com/21266801/best-movies-on-netflix)
- - [Carrion bursts onto PS4 today](http://feedproxy.google.com/~r/PSBlog/~3/KiPm_nTSx04/)
- - [Carrion bursts onto PS4 today](https://blog.playstation.com/2021/10/22/carrion-bursts-onto-ps4-today/)<!-- GAME:END -->
+ - [New Playstation State of Play airing next week](https://www.polygon.com/22740350/playstation-state-of-play-october-2021-date-time-games-how-to-watch)
+ - [Share of the Week: PlayStation VR](http://feedproxy.google.com/~r/PSBlog/~3/kMdgC3ls_qI/)
+ - [Share of the Week: PlayStation VR](https://blog.playstation.com/2021/10/22/share-of-the-week-playstation-vr/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
