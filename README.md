@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hong Kong-based XanPool, whose software facilitates faster crypto and fiat settlements, raises a $27M Series A led by Valar Ventures (Catherine Shu/TechCrunch)](http://www.techmeme.com/211022/p1#a211022p1)
- - [Apple TV+ now counted in Nielsen's streaming charts](https://appleinsider.com/articles/21/10/22/apple-tv-now-counted-in-nielsens-streaming-charts?utm_medium=rss)
- - [Prop gun kills cinematographer on set of Alec Baldwin's Rust     - CNET](https://www.cnet.com/news/prop-gun-kills-cinematographer-on-set-of-alec-baldwins-rust/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Official launch date revealed for PUBG: New State on Android, and it’s soon](https://www.androidauthority.com/pubg-new-state-release-date-3044784/)
+ - [FTC study on the six largest ISPs finds that some fail to fully inform consumers on how their data is monetized, such as using browsing history to serve up ads (Tonya Riley/CyberScoop)](http://www.techmeme.com/211022/p3#a211022p3)
+ - [Lyft releases its first safety report, says it received 4,000+ reports of sexual assault, including 360 reports of rape, on its app from 2017 through 2019 (Faiz Siddiqui/Washington Post)](http://www.techmeme.com/211022/p2#a211022p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
