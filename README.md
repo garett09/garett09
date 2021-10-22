@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Proper use of the husky in the city. Tatiana Karpova, 19, was rollerblading with her friend&#039;s five-year-old pet, a husky named Butur, in Nizhny Novgorod.](http://9gag.com/gag/a61mZxA)
- - 🚯 [It will be fun being half sitting on 12hours flights](http://9gag.com/gag/angq7gz)
- - 🚯 [As Netflix Employees Walk Out Over Dave Chappelle, Fans Voice Undying Support at Sold-Out London Gig](http://9gag.com/gag/aXr0ndV)<!-- MEMES:END -->
+ - 🚖 [It will be fun being half sitting on 12hours flights](http://9gag.com/gag/angq7gz)
+ - 🚯 [As Netflix Employees Walk Out Over Dave Chappelle, Fans Voice Undying Support at Sold-Out London Gig](http://9gag.com/gag/aXr0ndV)
+ - 🚯 [Swedish police had enough.](http://9gag.com/gag/a51eXer)<!-- MEMES:END -->
 
 --- 
 
