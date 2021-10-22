@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Official launch date revealed for PUBG: New State on Android, and it’s soon](https://www.androidauthority.com/pubg-new-state-release-date-3044784/)
- - [FTC study on the six largest ISPs finds that some fail to fully inform consumers on how their data is monetized, such as using browsing history to serve up ads (Tonya Riley/CyberScoop)](http://www.techmeme.com/211022/p3#a211022p3)
- - [Lyft releases its first safety report, says it received 4,000+ reports of sexual assault, including 360 reports of rape, on its app from 2017 through 2019 (Faiz Siddiqui/Washington Post)](http://www.techmeme.com/211022/p2#a211022p2)<!-- TECH:END -->
+ - [China hints its regulatory crackdown on tech may be ending as its financial regulator says he expects significant progress in regulation of fintech by year end (Shiyin Chen/Bloomberg)](http://www.techmeme.com/211022/p5#a211022p5)
+ - [Dune director Denis Villeneuve on HBO Max and sequel: 'A crazy way to do things'     - CNET](https://www.cnet.com/news/dune-movie-director-denis-villeneuve-on-hbo-max-and-sequel-a-crazy-way-to-do-things/#ftag=CAD590a51e)
+ - [A look at efforts by bitcoin miners to use green energy sources, including the voluntary Crypto Climate Accord framework signed by 180 companies in April (Shane Shifflett/Wall Street Journal)](http://www.techmeme.com/211022/p4#a211022p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
