@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Best Wi-Fi range extenders in 2021](https://www.pcgamer.com/the-best-wifi-range-extenders)
- - [NetEase Games Acquires Goichi Suda's Grasshopper Manufacture](https://kotaku.com/netease-games-acquires-goichi-sudas-grasshopper-manufac-1847914966)
- - [The best Australian PC gaming deals this week](https://www.pcgamer.com/best-australian-pc-gaming-deals)<!-- GAME:END -->
+ - [Best NVMe SSD for gaming in 2021](https://www.pcgamer.com/best-nvme-ssd)
+ - [Intel CEO says it is 'closing the gap' on rivals 'even more rapidly' than expected](https://www.pcgamer.com/intel-ceo-says-it-is-closing-the-gap-on-rivals-even-more-rapidly-than-expected)
+ - [Best Wi-Fi range extenders in 2021](https://www.pcgamer.com/the-best-wifi-range-extenders)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
