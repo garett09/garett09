@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple to beat Q4 2021 consensus, supply issues 'overblown,' analyst says](https://appleinsider.com/articles/21/10/22/apple-to-beat-q4-2021-consensus-supply-issues-overblown-analyst-says?utm_medium=rss)
- - [The best Apple Watch Series 7 third-party bands for 2021](https://appleinsider.com/articles/21/10/22/the-best-apple-watch-series-7-third-party-bands-for-2021?utm_medium=rss)
- - [Nintendo delays its Advance Wars remaster to spring 2022](https://www.theverge.com/2021/10/22/22740195/nintendo-advance-wars-1-2-re-boot-camp-switch-switch-remaster-delay)<!-- TECH:END -->
+ - [AT&T is rolling out major smartphone offers for new and existing customers](https://www.androidauthority.com/galaxy-z-fold-3-att-deal-3036714/)
+ - [DaVinci Resolve now works up to five times faster on new MacBook Pro](https://appleinsider.com/articles/21/10/22/davinci-resolve-now-works-up-to-five-times-faster-on-new-macbook-pro?utm_medium=rss)
+ - [Here’s our first look at the Samsung Galaxy Tab S8, likely coming in 2022](https://www.androidauthority.com/samsung-galaxy-tab-s8-3045262/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
