@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The French Dispatch is Wes Anderson’s worst movie, but that’s no reason to skip it](https://www.polygon.com/reviews/22740988/the-french-dispatch-review-wes-anderson)
- - [Tony and Clyde Aim to Rewrite the Book on the Shoot ‘Em Up Genre](https://news.xbox.com/en-us/2021/10/22/tony-and-clyde-rewrite-the-book-shoot-em-up-genre/)
- - [The 16 Best Cards In Back 4 Blood](https://kotaku.com/the-16-best-cards-in-back-4-blood-1847920257)<!-- GAME:END -->
+ - [Relive Senna’s Challenges and Victories in Horizon Chase Turbo: Senna Forever](https://news.xbox.com/en-us/2021/10/22/horizon-chase-turbo-senna-forever-available-now/)
+ - [Meet holo-ghouls, galactic Yeti, and a psychic octopus in surreal adventure Growbot](https://www.pcgamer.com/meet-holo-ghouls-galactic-yeti-and-a-psychic-octopus-in-surreal-adventure-growbot)
+ - [Dune, Old, and every other new movie you can stream at home this weekend](https://www.polygon.com/2021/10/22/22739301/dune-hbo-old-2021-amazon-netflix-new-movies-watch)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
