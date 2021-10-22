@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: ransomware gang REvil was hacked and forced offline this week by an active multi-country operation that includes US law enforcement (Reuters)](http://www.techmeme.com/211021/p41#a211021p41)
- - [Facebook, Twitter stock dragged down by dour Snap earnings](https://appleinsider.com/articles/21/10/21/facebook-twitter-stock-dragged-down-by-dour-snap-earnings?utm_medium=rss)
- - [Demon Slayer season 2 -- Mugen Train Arc episode 2 recap: Dreams, hearts and spirits     - CNET](https://www.cnet.com/news/demon-slayer-season-2-mugen-train-arc-episode-2-recap-dreams-hearts-and-spirits/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple Watch Series 7 teardown reveals big screen changes, minor battery upgrade](https://appleinsider.com/articles/21/10/22/apple-watch-series-7-teardown-reveals-big-screen-changes-minor-battery-upgrade?utm_medium=rss)
+ - [Sources: Brex, which offers credit cards tailored to startups, raises $300M at a $12.3B valuation, following a $425M Series D at a $7.4B valuation in April (Mary Ann Azevedo/TechCrunch)](http://www.techmeme.com/211021/p43#a211021p43)
+ - [iFixit took a peek underneath the Apple Watch Series 7’s larger display](https://www.theverge.com/2021/10/21/22738876/apple-watch-series-7-teardown-ifixit-diagnostic)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
