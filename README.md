@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [AT&T is rolling out major smartphone offers for new and existing customers](https://www.androidauthority.com/galaxy-z-fold-3-att-deal-3036714/)
- - [DaVinci Resolve now works up to five times faster on new MacBook Pro](https://appleinsider.com/articles/21/10/22/davinci-resolve-now-works-up-to-five-times-faster-on-new-macbook-pro?utm_medium=rss)
- - [Here’s our first look at the Samsung Galaxy Tab S8, likely coming in 2022](https://www.androidauthority.com/samsung-galaxy-tab-s8-3045262/)<!-- TECH:END -->
+ - [Google Pixel 6 vs Samsung Galaxy S21: Which phone should you buy?](https://www.androidauthority.com/google-pixel-6-vs-samsung-galaxy-s21-3044445/)
+ - [The Battle Over Dungeons & Dragons Was the Ultimate Geek War](https://www.wired.com/2021/10/geeks-guide-game-wizards)
+ - [PlayStation State of Play: Start time, how to watch the October livestream     - CNET](https://www.cnet.com/tech/gaming/playstation-state-of-play-start-time-how-to-watch-the-october-livestream/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
