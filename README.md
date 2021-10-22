@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Join Us for This Year’s RE:WIRED Celebration](https://www.wired.com/story/2021-rewired-conference-announcement)
- - [You told us: A ton of you still use screen protectors on your phones](https://www.androidauthority.com/screen-protector-smartphone-poll-results-3044965/)
- - [Best facial recognition security cameras to buy in 2021     - CNET](https://www.cnet.com/home/security/best-facial-recognition-security-cameras/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Daily Authority: The Duo 2 is bad but better](https://www.androidauthority.com/newsletters/da-october-22-2021/)
+ - [2022 MacBook Air will have 'M2' chip, MagSafe, 1080p camera, says leaker](https://appleinsider.com/articles/21/10/22/redesigned-macbook-air-rumored-to-boast-m2-chip-magsafe-1080p-camera-off-white-bezels-and-keyboard?utm_medium=rss)
+ - [I Used Facebook Without the Algorithm, and You Can Too](https://www.wired.com/story/how-to-use-facebook-no-algorithm)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
