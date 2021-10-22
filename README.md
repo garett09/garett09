@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Made me late for work](http://9gag.com/gag/aogEgX0)
- - 🚯 [Dressing up for an event](http://9gag.com/gag/aBnRdP1)
- - 🚯 [Some Scots can&#039;t say &quot;purple burglar alarm&quot;](http://9gag.com/gag/aRrwEjA)<!-- MEMES:END -->
+ - 🚖 [Dressing up for an event](http://9gag.com/gag/aBnRdP1)
+ - 🚯 [Try not to look](http://9gag.com/gag/aAGRG89)
+ - 🚯 [Accidents happen.](http://9gag.com/gag/a51e10E)<!-- MEMES:END -->
 
 --- 
 
