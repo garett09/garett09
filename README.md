@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Facebook unlocks Oculus Go VR headset for developers, tinkerers, and modders](https://www.pcgamer.com/oculus-go-root-access)
- - [How to unlock the Labyrinth Warriors event in Genshin Impact](https://www.pcgamer.com/genshin-impact-wishes-quest-unlock-complete)
- - [DDR5 RAM could cost 50–60% more than DDR4 at launch](https://www.pcgamer.com/ddr5-pricing-alder-lake)<!-- GAME:END -->
+ - [Next Week on Xbox: October 25 to 29](https://news.xbox.com/en-us/2021/10/22/next-week-on-xbox-october-25-to-29/)
+ - [Grand Theft Auto’s trilogy remaster coming Nov. 11](https://www.polygon.com/22740107/grand-theft-auto-trilogy-definitive-edition-release-date)
+ - [Grand Theft Auto: The Trilogy Priced, Dated And First Footage Revealed](https://kotaku.com/grand-theft-auto-the-trilogy-priced-dated-and-rated-1847915306)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
