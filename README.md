@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Pixel 6 vs Samsung Galaxy S21: Which phone should you buy?](https://www.androidauthority.com/google-pixel-6-vs-samsung-galaxy-s21-3044445/)
- - [The Battle Over Dungeons & Dragons Was the Ultimate Geek War](https://www.wired.com/2021/10/geeks-guide-game-wizards)
- - [PlayStation State of Play: Start time, how to watch the October livestream     - CNET](https://www.cnet.com/tech/gaming/playstation-state-of-play-start-time-how-to-watch-the-october-livestream/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple Card 6% cash back rate may have been an error, report claims](https://appleinsider.com/articles/21/10/22/apple-card-6-cash-back-rate-may-have-been-an-error-report-claims?utm_medium=rss)
+ - [Apple’s latest sci-fi drama Invasion starts out too dang slow](https://www.theverge.com/22740520/invasion-review-apple-tv-plus)
+ - [These Early Black Friday Deals Have a Special Perk](https://www.wired.com/story/best-buy-early-black-friday-deals-october-2021)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
