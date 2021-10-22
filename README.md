@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Wonder how much it has&hellip;.](http://9gag.com/gag/aDDAD3N)
- - 🚯 [Made me late for work](http://9gag.com/gag/aogEgX0)
+ - 🚖 [WTF?!](http://9gag.com/gag/azegeEK)
+ - 🚯 [WTF!](http://9gag.com/gag/agg3BWg)
  - 🚯 [Become the blade that destroys demons!](http://9gag.com/gag/ajgQ1A0)<!-- MEMES:END -->
 
 --- 
