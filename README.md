@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Everyone deserves a friend like Portugal](http://9gag.com/gag/aAGRgWg)
- - 🚯 [&quot;Out of context&quot;](http://9gag.com/gag/aWgQx9n)
+ - 🚖 [The so called &quot;Truth&quot;](http://9gag.com/gag/aLvRwwA)
+ - 🚯 [I&#039;m busy being lazy ...](http://9gag.com/gag/aBnRgON)
  - 🚯 [Become the blade that destroys demons!](http://9gag.com/gag/ajgQ1A0)<!-- MEMES:END -->
 
 --- 
