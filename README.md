@@ -194,8 +194,8 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Made me late for work](http://9gag.com/gag/aogEgX0)
- - 🚯 [Hezbollah driver calmly waits for the just the right second to move his pickup truck to avoid guided missile](http://9gag.com/gag/aGzYErw)
- - 🚯 [Become the blade that destroys demons!](http://9gag.com/gag/ajgQ1A0)<!-- MEMES:END -->
+ - 🚯 [Dressing up for an event](http://9gag.com/gag/aBnRdP1)
+ - 🚯 [Some Scots can&#039;t say &quot;purple burglar alarm&quot;](http://9gag.com/gag/aRrwEjA)<!-- MEMES:END -->
 
 --- 
 
