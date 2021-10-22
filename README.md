@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Relive Senna’s Challenges and Victories in Horizon Chase Turbo: Senna Forever](https://news.xbox.com/en-us/2021/10/22/horizon-chase-turbo-senna-forever-available-now/)
- - [Meet holo-ghouls, galactic Yeti, and a psychic octopus in surreal adventure Growbot](https://www.pcgamer.com/meet-holo-ghouls-galactic-yeti-and-a-psychic-octopus-in-surreal-adventure-growbot)
- - [Dune, Old, and every other new movie you can stream at home this weekend](https://www.polygon.com/2021/10/22/22739301/dune-hbo-old-2021-amazon-netflix-new-movies-watch)<!-- GAME:END -->
+ - [Final Fantasy XIV Has Many Mounts, But Only One Sneezes](https://kotaku.com/final-fantasy-xiv-has-many-mounts-but-only-one-sneezes-1847920301)
+ - [Valkyrae faces backlash over new line of gamer-focused skincare products](https://www.pcgamer.com/valkyrae-faces-backlash-over-new-line-of-gamer-focused-skincare-products)
+ - [The GTA Trilogy Remasters Look Great, But Shouldn’t Replace The Originals](https://kotaku.com/the-gta-trilogy-remasters-look-great-but-shouldn-t-rep-1847920893)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
