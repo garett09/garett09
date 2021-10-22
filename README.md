@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily Authority: The Duo 2 is bad but better](https://www.androidauthority.com/newsletters/da-october-22-2021/)
- - [2022 MacBook Air will have 'M2' chip, MagSafe, 1080p camera, says leaker](https://appleinsider.com/articles/21/10/22/redesigned-macbook-air-rumored-to-boast-m2-chip-magsafe-1080p-camera-off-white-bezels-and-keyboard?utm_medium=rss)
- - [I Used Facebook Without the Algorithm, and You Can Too](https://www.wired.com/story/how-to-use-facebook-no-algorithm)<!-- TECH:END -->
+ - [Google to cut subscription service fees for all Play Store creators](https://www.androidauthority.com/google-play-store-subscription-fee-cut-3045095/)
+ - [The remastered Grand Theft Auto trilogy is launching on November 11th](https://www.theverge.com/2021/10/22/22739195/remastered-grand-theft-auto-trilogy-release-date-november-11th-gta3-vice-city-san-andreas)
+ - [Ranting and Raving About the New Apple and Google Hardware](https://www.wired.com/story/gadget-lab-podcast-526)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
