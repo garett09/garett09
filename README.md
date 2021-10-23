@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Animal Crossing players prepping impressive farms ahead of 2.0 update](https://www.polygon.com/22740330/animal-crossing-new-horizons-farm-veggies-update-prep)
- - [The Halloween Countdown: 31 days of horror](https://www.polygon.com/22702474/best-halloween-movies-tv-to-watch-stream)
- - [The best and worst in-game Halloween events we're playing this year](https://www.pcgamer.com/the-best-and-worst-in-game-halloween-events-were-playing-this-year)<!-- GAME:END -->
+ - [Maya and the Three’s weirdest-looking witch almost looked a lot weirder](https://www.polygon.com/22740441/maya-and-the-three-gran-bruja-nose-character-design-netflix)
+ - [10 great shows from this year to finally catch up with](https://www.polygon.com/2021/10/23/22740307/best-tv-shows-binge-watch-fall-2021)
+ - [Animal Crossing players prepping impressive farms ahead of 2.0 update](https://www.polygon.com/22740330/animal-crossing-new-horizons-farm-veggies-update-prep)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
