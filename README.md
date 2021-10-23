@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Destroy All Humans! 2 Remake Skipping Old Consoles So Devs Can Create Bigger, More Detailed Maps](https://kotaku.com/destroy-all-humans-2-remake-skipping-old-consoles-so-d-1847923778)
  - [Someone Put OLED Switch’s Durability To The Test](https://kotaku.com/someone-put-oled-switch-s-durability-to-the-test-1847923622)
- - [Apple’s Invasion is basically This Is Us, but with aliens](https://www.polygon.com/reviews/22741156/invasion-review-apple-tv-plus)
- - [Risk Legacy changed board games forever, now Hasbro is making its spiritual successor](https://www.polygon.com/tabletop-games/22740263/risk-legacy-sequel-shadow-forces-announcement-release-date-price)<!-- GAME:END -->
+ - [Apple’s Invasion is basically This Is Us, but with aliens](https://www.polygon.com/reviews/22741156/invasion-review-apple-tv-plus)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
