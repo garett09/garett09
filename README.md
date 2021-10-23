@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Car: Here’s what we know so far](https://www.androidauthority.com/apple-car-3022825/)
- - [Your new iPhone 13 doesn't really need a case, if you ask me     - CNET](https://www.cnet.com/tech/mobile/your-new-iphone-13-doesnt-really-need-a-case-if-you-ask-me/#ftag=CAD590a51e)
- - [Tailgate in the cold weather like a pro with these 10 easy tips     - CNET](https://www.cnet.com/home/yard-and-outdoors/10-tips-for-tailgating-in-cold-weather/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [PitchBook: the number of European VC deals with US investor participation rose from 359 deals totaling &euro;2.7B in 2011 to 1,434 deals worth &euro;50.8B so far in 2021 (Sam Shead/CNBC)](http://www.techmeme.com/211023/p4#a211023p4)
+ - [The best Google Pixel 6 alternatives: 5 phones to consider before you buy](https://www.androidauthority.com/google-pixel-6-alternatives-3042541/)
+ - [This Prairie Grassland Project Collects Native Seeds](https://www.wired.com/story/this-prairie-grassland-project-collects-native-seeds)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
