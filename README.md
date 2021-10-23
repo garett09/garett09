@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Best Reusable Water Bottles To Ditch Single-Use Plastics](https://www.wired.com/gallery/best-reusable-water-bottles)
- - [International Operation Knocks Notorious REvil Group Offline](https://www.wired.com/story/revil-ransomware-hack-sinclair-group-argentina-data-breach-security-news)
- - [Urbanista Los Angeles review: solar-powered headphones deliver on a lofty promise](https://www.theverge.com/22738229/urbanista-los-angeles-solar-powered-noise-cancelling-wireless-headphones-powerfoyle)<!-- TECH:END -->
+ - [T-Mobile delays shutdown of Sprint 3G network](https://www.theverge.com/2021/10/23/22741762/tmobile-delays-shutdown-sprint-3g-network-dish-boost)
+ - [Will Apple’s Mini LED MacBook Pros avoid the the iPad Pro’s downsides?](https://www.theverge.com/2021/10/23/22740783/apple-macbook-pro-14-16-inch-mini-led-screen-blooming-shadow-display-xdrd)
+ - [Google’s Pixel 6 update promise is not good enough](https://www.androidauthority.com/google-pixel-6-update-promise-3043709/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
