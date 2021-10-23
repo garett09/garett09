@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Also Dolphins and Otters and Koalas](http://9gag.com/gag/adg01XD)
- - 🚯 [The deepest piece of advice you will ever been given](http://9gag.com/gag/aM42BDx)
- - 🚯 [Trash](http://9gag.com/gag/aVxzE3n)<!-- MEMES:END -->
+ - 🚖 [The deepest piece of advice you will ever been given](http://9gag.com/gag/aM42BDx)
+ - 🚯 [It&#039;s Friday my dudes!!!!!](http://9gag.com/gag/angqnYE)
+ - 🚯 [It is what it is](http://9gag.com/gag/amgNWbd)<!-- MEMES:END -->
 
 --- 
 
