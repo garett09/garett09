@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Triple header of weekend deals: Acer laptop sale, Sunbasket savings and an amazing $35 speaker     - CNET](https://www.cnet.com/tech/triple-header-of-weekend-deals-acer-laptop-sale-sunbasket-savings-and-an-amazing-35-speaker/#ftag=CAD590a51e)
  - [T-Mobile delays shutdown of Sprint 3G network](https://www.theverge.com/2021/10/23/22741762/tmobile-delays-shutdown-sprint-3g-network-dish-boost)
- - [Will Apple’s Mini LED MacBook Pros avoid the the iPad Pro’s downsides?](https://www.theverge.com/2021/10/23/22740783/apple-macbook-pro-14-16-inch-mini-led-screen-blooming-shadow-display-xdrd)
- - [Google’s Pixel 6 update promise is not good enough](https://www.androidauthority.com/google-pixel-6-update-promise-3043709/)<!-- TECH:END -->
+ - [Will Apple’s Mini LED MacBook Pros avoid the iPad Pro’s downsides?](https://www.theverge.com/2021/10/23/22740783/apple-macbook-pro-14-16-inch-mini-led-screen-blooming-shadow-display-xdrd)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
