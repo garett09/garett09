@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best and worst in-game Halloween events we're playing this year](https://www.pcgamer.com/the-best-and-worst-in-game-halloween-events-were-playing-this-year)
- - [Warning’s relentlessly grim sci-fi plots all fumble toward a message about God](https://www.polygon.com/22741280/warning-review-sci-fi-thomas-jane)
- - [Flipnote Studio Creations Find New Life On Crank-y Playdate Handheld](https://kotaku.com/flipnote-studio-creations-find-new-life-on-crank-y-play-1847921468)<!-- GAME:END -->
+ - [Animal Crossing players prepping impressive farms ahead of 2.0 update](https://www.polygon.com/22740330/animal-crossing-new-horizons-farm-veggies-update-prep)
+ - [The Halloween Countdown: 31 days of horror](https://www.polygon.com/22702474/best-halloween-movies-tv-to-watch-stream)
+ - [The best and worst in-game Halloween events we're playing this year](https://www.pcgamer.com/the-best-and-worst-in-game-halloween-events-were-playing-this-year)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
