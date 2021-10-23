@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Docs: Facebook user reports of "false news" hit ~40K per hour on Jan. 6; the account reported most often for inciting violence on Instagram was @realdonaldtrump (Washington Post)](http://www.techmeme.com/211022/p29#a211022p29)
- - [Internal docs show Facebook staff faulted the company for failing to thwart the proliferation of Groups, like Stop The Steal, that fomented January 6 violence (Michael Riley/Bloomberg)](http://www.techmeme.com/211022/p28#a211022p28)
- - [Internal docs show the extent of Facebook's knowledge of extremist groups on its site but don't offer a complete picture of its decision making in response (New York Times)](http://www.techmeme.com/211022/p27#a211022p27)<!-- TECH:END -->
+ - [Dune ending explained, and how the movie sets up a spicy sequel     - CNET](https://www.cnet.com/news/that-dune-movie-ending-explained-and-how-the-film-sets-up-a-spicy-sequel/#ftag=CAD590a51e)
+ - [A new Facebook whistleblower has come forward with more allegations](https://www.theverge.com/2021/10/22/22741024/facebook-new-whistleblower-allegations-sec)
+ - [Docs: Facebook user reports of "false news" hit ~40K per hour on Jan. 6; the account reported most often for inciting violence on Instagram was @realdonaldtrump (Washington Post)](http://www.techmeme.com/211022/p29#a211022p29)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
