@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Pixel 6 vs OnePlus 9: Which should you buy?](https://www.androidauthority.com/google-pixel-6-vs-oneplus-9-3044970/)
- - [Clubhouse will soon let you pin links to the top of rooms](https://www.theverge.com/2021/10/23/22740627/clubhouse-pin-links-rooms-launch)
- - [New AirPods 3, AirPods Pro are discounted at Amazon right now](https://appleinsider.com/articles/21/10/23/new-airpods-3-airpods-pro-are-discounted-at-amazon-right-now?utm_medium=rss)<!-- TECH:END -->
+ - [New AirPods 3, AirPods Pro, 2021 MacBook Pro are discounted at Amazon right now](https://appleinsider.com/articles/21/10/23/new-airpods-3-airpods-pro-are-discounted-at-amazon-right-now?utm_medium=rss)
+ - [The best Garmin accessories](https://www.androidauthority.com/best-garmin-accessories-3034653/)
+ - [Internal docs detail Facebook's struggles with violence-inciting content in India, including failure to designate some politically connected Groups as dangerous (New York Times)](http://www.techmeme.com/211023/p6#a211023p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
