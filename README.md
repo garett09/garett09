@@ -194,7 +194,7 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [F**king legend](http://9gag.com/gag/apgE6zB)
- - 🚯 [Hiker meets mountain goat on summit](http://9gag.com/gag/ajgYO41)
+ - 🚯 [Taste of freedom](http://9gag.com/gag/adg0Qd9)
  - 🚯 [Take the purr-fect big screen with you everywhere! Turn your own space into a theatre with LG CineBeam the smart portable projector.](http://9gag.com/gag/aLvR1K6)<!-- MEMES:END -->
 
 --- 
