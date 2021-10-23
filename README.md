@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Every Far Cry Game, Ranked From Worst To Best](https://kotaku.com/every-far-cry-game-ranked-from-worst-to-best-1847920434)
  - [Maya and the Three’s weirdest-looking witch almost looked a lot weirder](https://www.polygon.com/22740441/maya-and-the-three-gran-bruja-nose-character-design-netflix)
- - [10 great shows from this year to finally catch up with](https://www.polygon.com/2021/10/23/22740307/best-tv-shows-binge-watch-fall-2021)
- - [Animal Crossing players prepping impressive farms ahead of 2.0 update](https://www.polygon.com/22740330/animal-crossing-new-horizons-farm-veggies-update-prep)<!-- GAME:END -->
+ - [Litwick Is Cute, But Can't Be Trusted](https://kotaku.com/litwick-is-cute-but-cant-be-trusted-1847923275)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
