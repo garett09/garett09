@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I just want a text back](http://9gag.com/gag/angqOQo)
+ - 🚖 [Also Dolphins and Otters and Koalas](http://9gag.com/gag/adg01XD)
  - 🚯 [The deepest piece of advice you will ever been given](http://9gag.com/gag/aM42BDx)
- - 🚯 [Also Dolphins and Otters and Koalas](http://9gag.com/gag/adg01XD)<!-- MEMES:END -->
+ - 🚯 [Trash](http://9gag.com/gag/aVxzE3n)<!-- MEMES:END -->
 
 --- 
 
