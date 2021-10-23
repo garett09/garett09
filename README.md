@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This was a debate about whether musical listening was instinctive for humans or a purely cultural development. Bobby McFerrin said this pentatonic theater trick works everywhere in the world - somehow people discover it instantly.](http://9gag.com/gag/aVxzgyw)
- - 🚯 [This one sparks joy](http://9gag.com/gag/a51eVPN)
- - 🚯 [I&#039;m alright...](http://9gag.com/gag/apgERE5)<!-- MEMES:END -->
+ - 🚖 [This one sparks joy](http://9gag.com/gag/a51eVPN)
+ - 🚯 [The deepest piece of advice you will ever been given](http://9gag.com/gag/aM42BDx)
+ - 🚯 [I just want a text back](http://9gag.com/gag/angqOQo)<!-- MEMES:END -->
 
 --- 
 
