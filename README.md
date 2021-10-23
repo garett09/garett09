@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Final Fantasy XIV Has Many Mounts, But Only One Sneezes](https://kotaku.com/final-fantasy-xiv-has-many-mounts-but-only-one-sneezes-1847920301)
- - [Valkyrae faces backlash over new line of gamer-focused skincare products](https://www.pcgamer.com/valkyrae-faces-backlash-over-new-line-of-gamer-focused-skincare-products)
- - [The GTA Trilogy Remasters Look Great, But Shouldn’t Replace The Originals](https://kotaku.com/the-gta-trilogy-remasters-look-great-but-shouldn-t-rep-1847920893)<!-- GAME:END -->
+ - [Warning’s relentlessly grim sci-fi plots all fumble toward a message about God](https://www.polygon.com/22741280/warning-review-sci-fi-thomas-jane)
+ - [Flipnote Studio Creations Find New Life On Crank-y Playdate Handheld](https://kotaku.com/flipnote-studio-creations-find-new-life-on-crank-y-play-1847921468)
+ - [Official PlayStation Podcast 414: Far Shores](http://feedproxy.google.com/~r/PSBlog/~3/K24-cTmhw5A/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
