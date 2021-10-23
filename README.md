@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Navy Seal commander to small pp&#039;s](http://9gag.com/gag/aVxzZwO)
- - 🚯 [The power of braces..](http://9gag.com/gag/axBdR9p)
+ - 🚖 [Now you know.](http://9gag.com/gag/aWgQ2WA)
+ - 🚯 [Reasonable change](http://9gag.com/gag/arnvqo0)
  - 🚯 [Take the purr-fect big screen with you everywhere! Turn your own space into a theatre with LG CineBeam the smart portable projector.](http://9gag.com/gag/aLvR1K6)<!-- MEMES:END -->
 
 --- 
