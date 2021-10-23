@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy M52 review: Bare essentials](https://www.androidauthority.com/samsung-galaxy-m52-review-3034841/)
- - [Q&A with Sundar Pichai on the future of work after lockdowns, unionization push by Google employees, changing perceptions of privacy, and more (Matt Murray/Wall Street Journal)](http://www.techmeme.com/211023/p3#a211023p3)
- - [Mobile game maker Scopely to buy GSN Games, which makes free-to-play games like Bingo Bash, from Sony Pictures Entertainment for ~$1B in cash and stock (Todd Spangler/Variety)](http://www.techmeme.com/211023/p2#a211023p2)<!-- TECH:END -->
+ - [Apple Car: Here’s what we know so far](https://www.androidauthority.com/apple-car-3022825/)
+ - [Your new iPhone 13 doesn't really need a case, if you ask me     - CNET](https://www.cnet.com/tech/mobile/your-new-iphone-13-doesnt-really-need-a-case-if-you-ask-me/#ftag=CAD590a51e)
+ - [Tailgate in the cold weather like a pro with these 10 easy tips     - CNET](https://www.cnet.com/home/yard-and-outdoors/10-tips-for-tailgating-in-cold-weather/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
