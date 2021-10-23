@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [To be fair, she is cute.](http://9gag.com/gag/aRrw4DB)
+ - 🚖 [I just want a text back](http://9gag.com/gag/angqOQo)
  - 🚯 [The deepest piece of advice you will ever been given](http://9gag.com/gag/aM42BDx)
- - 🚯 [I just want a text back](http://9gag.com/gag/angqOQo)<!-- MEMES:END -->
+ - 🚯 [Also Dolphins and Otters and Koalas](http://9gag.com/gag/adg01XD)<!-- MEMES:END -->
 
 --- 
 
