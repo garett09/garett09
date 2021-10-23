@@ -193,7 +193,7 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A &pound;1 Million ($1.4 Million) Lamborghini Based Bat-mobile got into an accident with a Renault Scenic](http://9gag.com/gag/a61mBXb)
+ - 🚖 [Navy Seal commander to small pp&#039;s](http://9gag.com/gag/aVxzZwO)
  - 🚯 [The power of braces..](http://9gag.com/gag/axBdR9p)
  - 🚯 [Take the purr-fect big screen with you everywhere! Turn your own space into a theatre with LG CineBeam the smart portable projector.](http://9gag.com/gag/aLvR1K6)<!-- MEMES:END -->
 
