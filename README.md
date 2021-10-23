@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [New AirPods 3, AirPods Pro, 2021 MacBook Pro are discounted at Amazon right now](https://appleinsider.com/articles/21/10/23/new-airpods-3-airpods-pro-are-discounted-at-amazon-right-now?utm_medium=rss)
- - [The best Garmin accessories](https://www.androidauthority.com/best-garmin-accessories-3034653/)
- - [Internal docs detail Facebook's struggles with violence-inciting content in India, including failure to designate some politically connected Groups as dangerous (New York Times)](http://www.techmeme.com/211023/p6#a211023p6)<!-- TECH:END -->
+ - [10 top holiday gifts for moms     - CNET](https://www.cnet.com/home/10-top-holiday-gifts-for-moms/#ftag=CAD590a51e)
+ - [Compared: 14-inch MacBook Pro vs MSI GP66 Leopard gaming notebook](https://appleinsider.com/articles/21/10/23/compared-14-inch-macbook-pro-vs-msi-gp66-leopard-gaming-notebook?utm_medium=rss)
+ - [Microsoft reverses controversial .NET change after open source community outcry](https://www.theverge.com/2021/10/23/22742282/microsoft-dotnet-hot-reload-u-turn-response)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
