@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Get a year of PlayStation Plus for just $39 this weekend](https://www.theverge.com/good-deals/2021/10/23/22740302/playstation-plus-corsair-keyboard-logitech-mouse-sony-amazon-echo-deal-sale)
- - [Best Deals Oct. 23: $60 off Corsair keyboard, $70 programmable coffee maker, and more!](https://appleinsider.com/articles/21/10/23/best-deals-oct-23-60-off-corsair-keyboard-70-programmable-coffee-maker-and-more?utm_medium=rss)
- - [With official Matter support, Eero mesh routers could soon run your smart home](https://www.theverge.com/22741839/eero-ceo-confirms-matter-support-thread)<!-- TECH:END -->
+ - [We asked, you told us: You feel very strong feels about the Pixel 6 series](https://www.androidauthority.com/google-pixel-6-poll-results-hot-not-3045294/)
+ - [Pre-launch iPod prototype revealed with oversized plastic enclosure](https://appleinsider.com/articles/21/10/23/pre-launch-ipod-prototype-revealed-with-oversized-plastic-enclosure?utm_medium=rss)
+ - [Best full mattress in 2021     - CNET](https://www.cnet.com/health/sleep/best-full-mattress/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
