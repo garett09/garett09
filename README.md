@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [No need for violence](http://9gag.com/gag/aE8vAbx)
- - 🚯 [No, ofc not, you can&#039;t hide your digital tracks, you doofus. She/ He/ Ma&#039;am/ Apache thought it could say anything just because it has mental illness.](http://9gag.com/gag/arnvxVB)
+ - 🚖 [Mmm](http://9gag.com/gag/aM42nMR)
+ - 🚯 [A &pound;1 Million ($1.4 Million) Lamborghini Based Bat-mobile got into an accident with a Renault Scenic](http://9gag.com/gag/a61mBXb)
  - 🚯 [Take the purr-fect big screen with you everywhere! Turn your own space into a theatre with LG CineBeam the smart portable projector.](http://9gag.com/gag/aLvR1K6)<!-- MEMES:END -->
 
 --- 
