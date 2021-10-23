@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Someone Put OLED Switch’s Durability To The Test](https://kotaku.com/someone-put-oled-switch-s-durability-to-the-test-1847923622)
  - [Apple’s Invasion is basically This Is Us, but with aliens](https://www.polygon.com/reviews/22741156/invasion-review-apple-tv-plus)
- - [Risk Legacy changed board games forever, now Hasbro is making its spiritual successor](https://www.polygon.com/tabletop-games/22740263/risk-legacy-sequel-shadow-forces-announcement-release-date-price)
- - [Every Far Cry Game, Ranked From Worst To Best](https://kotaku.com/every-far-cry-game-ranked-from-worst-to-best-1847920434)<!-- GAME:END -->
+ - [Risk Legacy changed board games forever, now Hasbro is making its spiritual successor](https://www.polygon.com/tabletop-games/22740263/risk-legacy-sequel-shadow-forces-announcement-release-date-price)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
