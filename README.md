@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mobile game maker Scopely to buy GSN Games division, which makes free-to-play games like Bingo Bash, from Sony Pictures Entertainment for ~$1B in cash and stock (Todd Spangler/Variety)](http://www.techmeme.com/211023/p2#a211023p2)
- - [Facebook files a lawsuit against a Ukrainian national for allegedly scraping its website and selling the personal data of 178M+ users on a cybercrime forum (Catalin Cimpanu/The Record)](http://www.techmeme.com/211023/p1#a211023p1)
- - [Apple sued over iPhone camera, NFC technologies](https://appleinsider.com/articles/21/10/23/apple-sued-over-iphone-camera-nfc-technologies?utm_medium=rss)<!-- TECH:END -->
+ - [Q&A with Sundar Pichai on the future of work after lockdowns, unionization push by Google employees, changing perceptions of privacy, and more (Matt Murray/Wall Street Journal)](http://www.techmeme.com/211023/p3#a211023p3)
+ - [Mobile game maker Scopely to buy GSN Games, which makes free-to-play games like Bingo Bash, from Sony Pictures Entertainment for ~$1B in cash and stock (Todd Spangler/Variety)](http://www.techmeme.com/211023/p2#a211023p2)
+ - [Facebook files a lawsuit against a Ukrainian national for allegedly scraping its website and selling the personal data of 178M+ users on a cybercrime forum (Catalin Cimpanu/The Record)](http://www.techmeme.com/211023/p1#a211023p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
