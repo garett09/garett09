@@ -186,8 +186,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - ['Unleashed' was likely Apple's last major event of 2021](https://appleinsider.com/articles/21/10/23/unleashed-was-likely-apples-last-major-event-of-2021?utm_medium=rss)
  - [Apple sued over iPhone camera, NFC technologies](https://appleinsider.com/articles/21/10/23/apple-sued-over-iphone-camera-nfc-technologies?utm_medium=rss)
+ - ['Unleashed' was likely Apple's last major event of 2021](https://appleinsider.com/articles/21/10/23/unleashed-was-likely-apples-last-major-event-of-2021?utm_medium=rss)
  - [Dune ending explained, and how the movie sets up a spicy sequel     - CNET](https://www.cnet.com/news/that-dune-movie-ending-explained-and-how-the-film-sets-up-a-spicy-sequel/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
