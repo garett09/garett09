@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The deepest piece of advice you will ever been given](http://9gag.com/gag/aM42BDx)
- - 🚯 [It&#039;s Friday my dudes!!!!!](http://9gag.com/gag/angqnYE)
- - 🚯 [It is what it is](http://9gag.com/gag/amgNWbd)<!-- MEMES:END -->
+ - 🚖 [Kid Fanstasy, Lord of all Chairs. He holds the high ground.](http://9gag.com/gag/a0Z8VEQ)
+ - 🚯 [Mongolian horses](http://9gag.com/gag/aWgQnQq)
+ - 🚯 [*Magic*](http://9gag.com/gag/aogEVD2)<!-- MEMES:END -->
 
 --- 
 
