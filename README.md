@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Russian developer sues to keep Apple out of trademark dispute](https://appleinsider.com/articles/21/10/22/russian-developer-sues-to-keep-apple-out-of-trademark-dispute?utm_medium=rss)
- - [Sources: over 12 news outlets, including AP and Fox Business, formed a consortium to sift leaked Facebook docs from Frances Haugen, with stories expected Monday (The Information)](http://www.techmeme.com/211022/p25#a211022p25)
- - [Save $600 on the Razr 5G, and more of the best phone deals](https://www.androidauthority.com/best-phone-deals-2-1111885/)<!-- TECH:END -->
+ - [Docs: Facebook user reports of "false news" hit ~40K per hour on Jan. 6; the account reported most often for inciting violence on Instagram was @realdonaldtrump (Washington Post)](http://www.techmeme.com/211022/p29#a211022p29)
+ - [Internal docs show Facebook staff faulted the company for failing to thwart the proliferation of Groups, like Stop The Steal, that fomented January 6 violence (Michael Riley/Bloomberg)](http://www.techmeme.com/211022/p28#a211022p28)
+ - [Internal docs show the extent of Facebook's knowledge of extremist groups on its site but don't offer a complete picture of its decision making in response (New York Times)](http://www.techmeme.com/211022/p27#a211022p27)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
