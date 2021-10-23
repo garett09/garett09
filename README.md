@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Me and the boys trying to look cool](http://9gag.com/gag/a11v5V6)
- - 🚯 [Wrong remote granny](http://9gag.com/gag/angq2rq)
+ - 🚖 [Drive through employee: Why do I hear boss music?](http://9gag.com/gag/angqvnV)
+ - 🚯 [Facepunch](http://9gag.com/gag/a81L0De)
  - 🚯 [Take the purr-fect big screen with you everywhere! Turn your own space into a theatre with LG CineBeam the smart portable projector.](http://9gag.com/gag/aLvR1K6)<!-- MEMES:END -->
 
 --- 
