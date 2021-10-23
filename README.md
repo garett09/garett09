@@ -193,7 +193,7 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This one sparks joy](http://9gag.com/gag/a51eVPN)
+ - 🚖 [To be fair, she is cute.](http://9gag.com/gag/aRrw4DB)
  - 🚯 [The deepest piece of advice you will ever been given](http://9gag.com/gag/aM42BDx)
  - 🚯 [I just want a text back](http://9gag.com/gag/angqOQo)<!-- MEMES:END -->
 
