@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Contrary to popular belief, knight armour was fairly flexible](http://9gag.com/gag/a81L61Y)
- - 🚯 [*Magic*](http://9gag.com/gag/aogEVD2)
- - 🚯 [Trash](http://9gag.com/gag/aVxzE3n)<!-- MEMES:END -->
+ - 🚖 [Friendly advice](http://9gag.com/gag/aGzYBwK)
+ - 🚯 [That thing was too big to be called a sword. Too big, too thick, too heavy, and too rough, it was more like a large hunk of iron.](http://9gag.com/gag/amgNGNy)
+ - 🚯 [Facepunch](http://9gag.com/gag/a81L0De)<!-- MEMES:END -->
 
 --- 
 
