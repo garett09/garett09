@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Kid Fanstasy, Lord of all Chairs. He holds the high ground.](http://9gag.com/gag/a0Z8VEQ)
- - 🚯 [Mongolian horses](http://9gag.com/gag/aWgQnQq)
- - 🚯 [*Magic*](http://9gag.com/gag/aogEVD2)<!-- MEMES:END -->
+ - 🚖 [Contrary to popular belief, knight armour was fairly flexible](http://9gag.com/gag/a81L61Y)
+ - 🚯 [*Magic*](http://9gag.com/gag/aogEVD2)
+ - 🚯 [Trash](http://9gag.com/gag/aVxzE3n)<!-- MEMES:END -->
 
 --- 
 
