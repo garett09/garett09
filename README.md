@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple sued over iPhone camera, NFC technologies](https://appleinsider.com/articles/21/10/23/apple-sued-over-iphone-camera-nfc-technologies?utm_medium=rss)
- - ['Unleashed' was likely Apple's last major event of 2021](https://appleinsider.com/articles/21/10/23/unleashed-was-likely-apples-last-major-event-of-2021?utm_medium=rss)
- - [Dune ending explained, and how the movie sets up a spicy sequel     - CNET](https://www.cnet.com/news/that-dune-movie-ending-explained-and-how-the-film-sets-up-a-spicy-sequel/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Mobile game maker Scopely to buy GSN Games division, which makes free-to-play games like Bingo Bash, from Sony Pictures Entertainment for ~$1B in cash and stock (Todd Spangler/Variety)](http://www.techmeme.com/211023/p2#a211023p2)
+ - [Facebook files a lawsuit against a Ukrainian national for allegedly scraping its website and selling the personal data of 178M+ users on a cybercrime forum (Catalin Cimpanu/The Record)](http://www.techmeme.com/211023/p1#a211023p1)
+ - [Apple sued over iPhone camera, NFC technologies](https://appleinsider.com/articles/21/10/23/apple-sued-over-iphone-camera-nfc-technologies?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
