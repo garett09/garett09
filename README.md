@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple sued over iPhone camera, NFC technologies](https://appleinsider.com/articles/21/10/23/apple-sued-over-iphone-camera-nfc-technologies?utm_medium=rss)
  - [Dune ending explained, and how the movie sets up a spicy sequel     - CNET](https://www.cnet.com/news/that-dune-movie-ending-explained-and-how-the-film-sets-up-a-spicy-sequel/#ftag=CAD590a51e)
- - [A new Facebook whistleblower has come forward with more allegations](https://www.theverge.com/2021/10/22/22741024/facebook-new-whistleblower-allegations-sec)
- - [Docs: Facebook user reports of "false news" hit ~40K per hour on Jan. 6; the account reported most often for inciting violence on Instagram was @realdonaldtrump (Washington Post)](http://www.techmeme.com/211022/p29#a211022p29)<!-- TECH:END -->
+ - [A new Facebook whistleblower has come forward with more allegations](https://www.theverge.com/2021/10/22/22741024/facebook-new-whistleblower-allegations-sec)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
