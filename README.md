@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Every Far Cry Game, Ranked From Worst To Best](https://kotaku.com/every-far-cry-game-ranked-from-worst-to-best-1847920434)
- - [Maya and the Three’s weirdest-looking witch almost looked a lot weirder](https://www.polygon.com/22740441/maya-and-the-three-gran-bruja-nose-character-design-netflix)
- - [Litwick Is Cute, But Can't Be Trusted](https://kotaku.com/litwick-is-cute-but-cant-be-trusted-1847923275)<!-- GAME:END -->
+ - [Apple’s Invasion is basically This Is Us, but with aliens](https://www.polygon.com/reviews/22741156/invasion-review-apple-tv-plus)
+ - [Risk Legacy changed board games forever, now Hasbro is making its spiritual successor](https://www.polygon.com/tabletop-games/22740263/risk-legacy-sequel-shadow-forces-announcement-release-date-price)
+ - [Every Far Cry Game, Ranked From Worst To Best](https://kotaku.com/every-far-cry-game-ranked-from-worst-to-best-1847920434)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
