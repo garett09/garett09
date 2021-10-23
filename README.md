@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Friendly advice](http://9gag.com/gag/aGzYBwK)
- - 🚯 [That thing was too big to be called a sword. Too big, too thick, too heavy, and too rough, it was more like a large hunk of iron.](http://9gag.com/gag/amgNGNy)
- - 🚯 [Facepunch](http://9gag.com/gag/a81L0De)<!-- MEMES:END -->
+ - 🚖 [If it looks stupid but it works, it ain&#039;t stupid](http://9gag.com/gag/arnvA3V)
+ - 🚯 [Good afternoon sirrrrr ma&#039;aaaaam!](http://9gag.com/gag/agg37Or)
+ - 🚯 [Take the purr-fect big screen with you everywhere! Turn your own space into a theatre with LG CineBeam the smart portable projector.](http://9gag.com/gag/aLvR1K6)<!-- MEMES:END -->
 
 --- 
 
