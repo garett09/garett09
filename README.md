@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-403-3044633/)
- - [New MacBook Air renders show possible thin enclosure, notch in display](https://appleinsider.com/articles/21/10/23/new-macbook-air-renders-show-possible-thin-enclosure-notch-in-display?utm_medium=rss)
- - [Google and Facebook worked to beat Safari's privacy tools](https://appleinsider.com/articles/21/10/23/google-and-facebook-worked-to-beat-safaris-privacy-tools?utm_medium=rss)<!-- TECH:END -->
+ - [Get a year of PlayStation Plus for just $39 this weekend](https://www.theverge.com/good-deals/2021/10/23/22740302/playstation-plus-corsair-keyboard-logitech-mouse-sony-amazon-echo-deal-sale)
+ - [Best Deals Oct. 23: $60 off Corsair keyboard, $70 programmable coffee maker, and more!](https://appleinsider.com/articles/21/10/23/best-deals-oct-23-60-off-corsair-keyboard-70-programmable-coffee-maker-and-more?utm_medium=rss)
+ - [With official Matter support, Eero mesh routers could soon run your smart home](https://www.theverge.com/22741839/eero-ceo-confirms-matter-support-thread)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
