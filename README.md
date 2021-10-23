@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Drive through employee: Why do I hear boss music?](http://9gag.com/gag/angqvnV)
- - 🚯 [Facepunch](http://9gag.com/gag/a81L0De)
+ - 🚖 [No need for violence](http://9gag.com/gag/aE8vAbx)
+ - 🚯 [No, ofc not, you can&#039;t hide your digital tracks, you doofus. She/ He/ Ma&#039;am/ Apache thought it could say anything just because it has mental illness.](http://9gag.com/gag/arnvxVB)
  - 🚯 [Take the purr-fect big screen with you everywhere! Turn your own space into a theatre with LG CineBeam the smart portable projector.](http://9gag.com/gag/aLvR1K6)<!-- MEMES:END -->
 
 --- 
