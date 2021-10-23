@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [We asked, you told us: You feel very strong feels about the Pixel 6 series](https://www.androidauthority.com/google-pixel-6-poll-results-hot-not-3045294/)
- - [Pre-launch iPod prototype revealed with oversized plastic enclosure](https://appleinsider.com/articles/21/10/23/pre-launch-ipod-prototype-revealed-with-oversized-plastic-enclosure?utm_medium=rss)
- - [Best full mattress in 2021     - CNET](https://www.cnet.com/health/sleep/best-full-mattress/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [New AirPods 3, AirPods Pro are discounted at Amazon right now](https://appleinsider.com/articles/21/10/23/new-airpods-3-airpods-pro-are-discounted-at-amazon-right-now?utm_medium=rss)
+ - [Google and Facebook teamed up to beat Apple's consumer privacy agenda](https://appleinsider.com/articles/21/10/23/google-and-facebook-worked-to-beat-safaris-privacy-tools?utm_medium=rss)
+ - [We asked, you told us: You feel very strong feels about the Pixel 6 series](https://www.androidauthority.com/google-pixel-6-poll-results-hot-not-3045294/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
