@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [We&#039;ve all done it so don&#039;t lie to me](http://9gag.com/gag/ajgYBQ1)
- - 🚯 [F**king Karen&rsquo;s](http://9gag.com/gag/aPZwoAB)
+ - 🚖 [F**king Karen&rsquo;s](http://9gag.com/gag/aPZwoAB)
+ - 🚯 [Woke people logic](http://9gag.com/gag/aYrNDE2)
  - 🚯 [Take the purr-fect big screen with you everywhere! Turn your own space into a theatre with LG CineBeam the smart portable projector.](http://9gag.com/gag/aLvR1K6)<!-- MEMES:END -->
 
 --- 
