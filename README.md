@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Jeremy Clarkson and his wisdom which is almost frightening](http://9gag.com/gag/ajgYWoR)
- - 🚯 [Sup boomers!](http://9gag.com/gag/adg0o8M)
- - 🚯 [We have a winner!](http://9gag.com/gag/a0Z8Mjz)<!-- MEMES:END -->
+ - 🚖 [We have a winner!](http://9gag.com/gag/a0Z8Mjz)
+ - 🚯 [As simple as THAT .](http://9gag.com/gag/a41Kw4v)
+ - 🚯 [No kill rule](http://9gag.com/gag/arnv2dV)<!-- MEMES:END -->
 
 --- 
 
