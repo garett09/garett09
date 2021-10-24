@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hello my beer](http://9gag.com/gag/a91bD8K)
- - 🚯 [Power your dreams...You literally only get one shot](http://9gag.com/gag/arnv890)
- - 🚯 [World&#039;s Most Evil Invention](http://9gag.com/gag/a11vOXY)<!-- MEMES:END -->
+ - 🚖 [The rivers of Africa](http://9gag.com/gag/aNPrjb4)
+ - 🚯 [World&#039;s Most Evil Invention](http://9gag.com/gag/a11vOXY)
+ - 🚯 [Freedom will always be under the realm of morality](http://9gag.com/gag/aDDAQR7)<!-- MEMES:END -->
 
 --- 
 
