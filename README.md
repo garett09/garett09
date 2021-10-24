@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [What to watch after Jujutsu Kaisen](https://www.polygon.com/22300920/best-anime-like-jujutsu-kaisen)
- - [Intel Says CPU And GPU Shortages May Last Until 2023](https://kotaku.com/intel-says-cpu-and-gpu-shortages-may-last-until-2023-1847926285)
- - [Indie dev finds that Linux users generate more, better bug reports](https://www.pcgamer.com/indie-dev-finds-that-linux-users-generate-more-better-bug-reports)<!-- GAME:END -->
+ - [Jagex to publish Runescape-inspired idle game Melvor Idle](https://www.pcgamer.com/jagex-to-publish-runescape-inspired-idle-game-melvor-idle)
+ - [One early idea for Mass Effect 3's ending involved a reaper god instead of the Star Child](https://www.pcgamer.com/one-early-idea-for-mass-effect-3s-ending-involved-a-reaper-god-instead-of-the-star-child)
+ - [What to watch after Jujutsu Kaisen](https://www.polygon.com/22300920/best-anime-like-jujutsu-kaisen)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
