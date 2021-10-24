@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I ditched Android for iPhone, and my friends' reactions surprised me most     - CNET](https://www.cnet.com/tech/mobile/i-ditched-android-for-iphone-and-it-was-my-friends-reactions-that-surprised-me-most/#ftag=CAD590a51e)
- - [A look at productivity influencers who center their content around apps like Notion, Excel, and Asana, offering advice on how to stay organized (Lizzy Lawrence/Protocol)](http://www.techmeme.com/211024/p1#a211024p1)
- - [Microsoft reverses its decision to remove code editing feature Hot Reload in its upcoming .NET 6 SDK, after backlash from the open source community (Tom Warren/The Verge)](http://www.techmeme.com/211023/p10#a211023p10)<!-- TECH:END -->
+ - [Let’s talk about the Apple MacBook Pro notch: Was it really necessary?](https://www.androidauthority.com/apple-macbook-pro-notch-3042751/)
+ - [My Kids Can Take Family Anywhere With Facebook's Portal Go](https://www.wired.com/review/facebook-portal-go)
+ - [11 Security Settings You Should Know About in Windows 11](https://www.wired.com/story/11-security-settings-windows-11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
