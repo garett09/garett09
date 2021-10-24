@@ -188,7 +188,7 @@ Windows                  3 hrs 9 mins        ███████████�
 <!-- TECH:START -->
  - [Microsoft reverses its decision to remove code editing feature Hot Reload in its upcoming .NET 6 SDK, after backlash from the open source community (Tom Warren/The Verge)](http://www.techmeme.com/211023/p10#a211023p10)
  - [CISA warns of malware discovered in npm package UAParser.js, which has 6M-7M downloads weekly, that installs a password stealer and a crypto miner (Catalin Cimpanu/The Record)](http://www.techmeme.com/211023/p9#a211023p9)
- - [Tel Aviv and Palo Alto-based Metrolink.ai, which is developing a data management service, raises a $22 million seed led by Grove Ventures (Kyle Wiggers/VentureBeat)](http://www.techmeme.com/211023/p8#a211023p8)<!-- TECH:END -->
+ - [Tel Aviv and Palo Alto-based Metrolink.ai, which is developing a data management service, raises a $22M seed led by Grove Ventures (Kyle Wiggers/VentureBeat)](http://www.techmeme.com/211023/p8#a211023p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
