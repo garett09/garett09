@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tel Aviv and Palo Alto-based Metrolink.ai, which is developing a data management service, raises a $22 million seed led by Grove Ventures (Kyle Wiggers/VentureBeat)](http://www.techmeme.com/211023/p8#a211023p8)
- - [Inventing the iPod: How 'really big risks' paid off for Apple     - CNET](https://www.cnet.com/features/inventing-the-ipod-how-really-big-risks-paid-off-for-apple/#ftag=CAD590a51e)
- - [Sounds like the Halo Needler is finally getting the Nerf blaster it deserves](https://www.theverge.com/2021/10/23/22742194/halo-needler-nerf-lmtd-announce-price-release-date)<!-- TECH:END -->
+ - [Microsoft reverses its decision to remove code editing feature Hot Reload in its upcoming .NET 6 SDK, after backlash from the open source community (Tom Warren/The Verge)](http://www.techmeme.com/211023/p10#a211023p10)
+ - [CISA warns of malware discovered in npm package UAParser.js, which has 6M-7M downloads weekly, that installs a password stealer and a crypto miner (Catalin Cimpanu/The Record)](http://www.techmeme.com/211023/p9#a211023p9)
+ - [Tel Aviv and Palo Alto-based Metrolink.ai, which is developing a data management service, raises a $22 million seed led by Grove Ventures (Kyle Wiggers/VentureBeat)](http://www.techmeme.com/211023/p8#a211023p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
