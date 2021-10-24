@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Jagex to publish Runescape-inspired idle game Melvor Idle](https://www.pcgamer.com/jagex-to-publish-runescape-inspired-idle-game-melvor-idle)
- - [One early idea for Mass Effect 3's ending involved a reaper god instead of the Star Child](https://www.pcgamer.com/one-early-idea-for-mass-effect-3s-ending-involved-a-reaper-god-instead-of-the-star-child)
- - [What to watch after Jujutsu Kaisen](https://www.polygon.com/22300920/best-anime-like-jujutsu-kaisen)<!-- GAME:END -->
+ - [Feds Say Man Spent Covid Loan On $57,000 Pokémon Card](https://kotaku.com/feds-say-man-spent-covid-loan-on-57-000-pokemon-card-1847926408)
+ - [The Week In Games: Groot And His Pals Are Ready To Save The Galaxy](https://kotaku.com/the-week-in-games-groot-and-his-pals-are-ready-to-save-1847926486)
+ - [Jagex to publish Runescape-inspired idle game Melvor Idle](https://www.pcgamer.com/jagex-to-publish-runescape-inspired-idle-game-melvor-idle)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
