@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Watch The Fugitive, a top-tier manhunt movie, on HBO Max](https://www.androidauthority.com/the-fugitive-1993-hbo-max-3044220/)
- - [2021 MacBook Pro Deals: Save up to $200 on 14-inch and 16-inch models](https://appleinsider.com/articles/21/10/22/2021-macbook-pro-deals-save-up-to-200-on-14-inch-and-16-inch-models?utm_medium=rss)
- - [iPad & Apple Pencil artist's review: A decent Wacom alternative for digital production](https://appleinsider.com/articles/21/10/24/ipad-apple-pencil-artists-review-a-decent-wacom-alternative-for-digital-production?utm_medium=rss)<!-- TECH:END -->
+ - [Apple execs excited about M1 Max MacBook Pro video editing capabilities](https://appleinsider.com/articles/21/10/24/apple-execs-excited-about-m1-max-macbook-pro-video-editing-capabilities?utm_medium=rss)
+ - [Profile of France-based BlaBlaCar, a long distance carpooling marketplace with 80% of its riders outside of France and 60% outside of Europe (Chris O'Brien/The French Tech Journal)](http://www.techmeme.com/211024/p5#a211024p5)
+ - [iPhone 14 rumors: Will Apple's next iPhone finally ditch the notch?     - CNET](https://www.cnet.com/tech/mobile/iphone-14-rumors-will-apples-next-iphone-finally-ditch-the-notch/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
