@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [There's an official D&D supplement about the heroes and villains of Baldur's Gate 1 and 2](https://www.pcgamer.com/theres-an-official-dandd-supplement-about-the-heroes-and-villains-of-baldurs-gate-1-and-2)
  - [Crapshoot: The Hobbit, the text adventure that let try to you kill Gandalf](https://www.pcgamer.com/saturday-crapshoot-the-hobbit)
- - [Call of Duty marketing finds a new level of tastelessness](https://www.pcgamer.com/call-of-duty-marketing-finds-a-new-level-of-tastelessness)
- - [PSA: You can grab a free Overwatch battletag change until November 5th](https://www.pcgamer.com/psa-you-can-grab-a-free-overwatch-battletag-change-until-november-5th)<!-- GAME:END -->
+ - [Call of Duty marketing finds a new level of tastelessness](https://www.pcgamer.com/call-of-duty-marketing-finds-a-new-level-of-tastelessness)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
