@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [LG Stylo 6 review: The stylus phone your wallet will love](https://www.androidauthority.com/lg-stylo-6-review-3023860/)
  - [Apple execs excited about M1 Max MacBook Pro video editing capabilities](https://appleinsider.com/articles/21/10/24/apple-execs-excited-about-m1-max-macbook-pro-video-editing-capabilities?utm_medium=rss)
- - [Profile of France-based BlaBlaCar, a long distance carpooling marketplace with 80% of its riders outside of France and 60% outside of Europe (Chris O'Brien/The French Tech Journal)](http://www.techmeme.com/211024/p5#a211024p5)
- - [iPhone 14 rumors: Will Apple's next iPhone finally ditch the notch?     - CNET](https://www.cnet.com/tech/mobile/iphone-14-rumors-will-apples-next-iphone-finally-ditch-the-notch/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Profile of France-based BlaBlaCar, a long distance carpooling marketplace with 80% of its riders outside of France and 60% outside of Europe (Chris O'Brien/The French Tech Journal)](http://www.techmeme.com/211024/p5#a211024p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
