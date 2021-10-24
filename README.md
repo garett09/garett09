@@ -195,7 +195,7 @@ Windows                  3 hrs 9 mins        ███████████�
 <!-- MEMES:START -->
  - 🚖 [Prime delivery hits different](http://9gag.com/gag/azegQrz)
  - 🚯 [An Anzio 20mm rifle which can be owned legally in the U.S](http://9gag.com/gag/aQXPV4z)
- - 🚯 [Driving on highway without numberplate...](http://9gag.com/gag/ajgYy8G)<!-- MEMES:END -->
+ - 🚯 [Run Foresta, run](http://9gag.com/gag/abgXReX)<!-- MEMES:END -->
 
 --- 
 
