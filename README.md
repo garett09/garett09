@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Old but gold](http://9gag.com/gag/aBnRoe2)
- - 🚯 [Driving on highway without numberplate...](http://9gag.com/gag/ajgYy8G)
- - 🚯 [Name this movie.](http://9gag.com/gag/arnvdjX)<!-- MEMES:END -->
+ - 🚖 [Man just did a vocal warmup with 70k people in his hands....](http://9gag.com/gag/aegjPAj)
+ - 🚯 [2,400 CG artists were each given the same base animation and challenged to make something unique out of it. These are just some of the clips from the top 100 artists.](http://9gag.com/gag/aBnRNKO)
+ - 🚯 [So how is your day guys?](http://9gag.com/gag/a31PxWN)<!-- MEMES:END -->
 
 --- 
 
