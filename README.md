@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [I ditched Android for iPhone, and my friends' reactions surprised me most     - CNET](https://www.cnet.com/tech/mobile/i-ditched-android-for-iphone-and-it-was-my-friends-reactions-that-surprised-me-most/#ftag=CAD590a51e)
  - [A look at productivity influencers who center their content around apps like Notion, Excel, and Asana, offering advice on how to stay organized (Lizzy Lawrence/Protocol)](http://www.techmeme.com/211024/p1#a211024p1)
- - [Microsoft reverses its decision to remove code editing feature Hot Reload in its upcoming .NET 6 SDK, after backlash from the open source community (Tom Warren/The Verge)](http://www.techmeme.com/211023/p10#a211023p10)
- - [CISA warns of malware discovered in npm package UAParser.js, which has 6M-7M downloads weekly, that installs a password stealer and a crypto miner (Catalin Cimpanu/The Record)](http://www.techmeme.com/211023/p9#a211023p9)<!-- TECH:END -->
+ - [Microsoft reverses its decision to remove code editing feature Hot Reload in its upcoming .NET 6 SDK, after backlash from the open source community (Tom Warren/The Verge)](http://www.techmeme.com/211023/p10#a211023p10)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
