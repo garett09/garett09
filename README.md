@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Let’s talk about the Apple MacBook Pro notch: Was it really necessary?](https://www.androidauthority.com/apple-macbook-pro-notch-3042751/)
- - [My Kids Can Take Family Anywhere With Facebook's Portal Go](https://www.wired.com/review/facebook-portal-go)
- - [11 Security Settings You Should Know About in Windows 11](https://www.wired.com/story/11-security-settings-windows-11)<!-- TECH:END -->
+ - [Researchers detail how hackers are using FiveSys, a rootkit with a Microsoft-issued digital signature, to steal the login credentials of gamers in China (Danny Palmer/ZDNet)](http://www.techmeme.com/211024/p2#a211024p2)
+ - [Power Up Anywhere With Our Favorite Portable Chargers](https://www.wired.com/gallery/best-portable-chargers-power-banks)
+ - [How Wavelets Let Researchers Transform and Understand Data](https://www.wired.com/story/how-wavelets-let-researchers-transform-and-understand-data)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
