@@ -194,8 +194,8 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [The rivers of Africa](http://9gag.com/gag/aNPrjb4)
- - 🚯 [Prime delivery hits different](http://9gag.com/gag/azegQrz)
- - 🚯 [Credits-Goattoself](http://9gag.com/gag/aNPrj4A)<!-- MEMES:END -->
+ - 🚯 [An Anzio 20mm rifle which can be owned legally in the U.S](http://9gag.com/gag/aQXPV4z)
+ - 🚯 [Power your dreams...You literally only get one shot](http://9gag.com/gag/arnv890)<!-- MEMES:END -->
 
 --- 
 
