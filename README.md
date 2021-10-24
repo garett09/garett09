@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [10 top holiday gifts for moms     - CNET](https://www.cnet.com/home/10-top-holiday-gifts-for-moms/#ftag=CAD590a51e)
- - [Compared: 14-inch MacBook Pro vs MSI GP66 Leopard gaming notebook](https://appleinsider.com/articles/21/10/23/compared-14-inch-macbook-pro-vs-msi-gp66-leopard-gaming-notebook?utm_medium=rss)
- - [Microsoft reverses controversial .NET change after open source community outcry](https://www.theverge.com/2021/10/23/22742282/microsoft-dotnet-hot-reload-u-turn-response)<!-- TECH:END -->
+ - [Motorola Moto G Play (2021) review: Near-stock Android at a nice, low price](https://www.androidauthority.com/motorola-moto-g-play-2021-review-3026053/)
+ - [Embrace, a mobile data intelligence startup, raises a $45M Series B led by NEA (Christine Hall/TechCrunch)](http://www.techmeme.com/211023/p7#a211023p7)
+ - [10 top holiday gifts for moms     - CNET](https://www.cnet.com/home/10-top-holiday-gifts-for-moms/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
