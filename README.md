@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPad & Apple Pencil artist's review: A decent Wacom alternative for digital production](https://appleinsider.com/articles/21/10/24/ipad-apple-pencil-artists-review-a-decent-wacom-alternative-for-digital-production?utm_medium=rss)
- - [Tesla quietly raises prices on four of its EVs](https://www.theverge.com/2021/10/24/22743398/tesla-quietly-raises-prices-electric-vehicles-model-x)
- - [Save $20 off the HyperX Cloud Alpha gaming headset, and more Xbox One deals](https://www.androidauthority.com/best-xbox-deals-1118171/)<!-- TECH:END -->
+ - [Watch The Fugitive, a top-tier manhunt movie, on HBO Max](https://www.androidauthority.com/the-fugitive-1993-hbo-max-3044220/)
+ - [2021 MacBook Pro Deals: Save up to $200 on 14-inch and 16-inch models](https://appleinsider.com/articles/21/10/22/2021-macbook-pro-deals-save-up-to-200-on-14-inch-and-16-inch-models?utm_medium=rss)
+ - [iPad & Apple Pencil artist's review: A decent Wacom alternative for digital production](https://appleinsider.com/articles/21/10/24/ipad-apple-pencil-artists-review-a-decent-wacom-alternative-for-digital-production?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
