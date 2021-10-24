@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The future of smart fitness is subscriptions, but it shouldn’t be](https://www.androidauthority.com/fitness-subscriptions-3039837/)
- - [Indian startup Clear, which helps individuals and businesses file tax returns and more, raises a $75M Series C from Kora Capital, Stripe, and others (Manish Singh/TechCrunch)](http://www.techmeme.com/211024/p4#a211024p4)
- - [Buy an iPhone 13 or iPhone 12? How to decide what's best for you     - CNET](https://www.cnet.com/tech/mobile/buy-an-iphone-13-or-iphone-12-how-to-decide-whats-best-for-you/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [iPad & Apple Pencil artist's review: A decent Wacom alternative for digital production](https://appleinsider.com/articles/21/10/24/ipad-apple-pencil-artists-review-a-decent-wacom-alternative-for-digital-production?utm_medium=rss)
+ - [Tesla quietly raises prices on four of its EVs](https://www.theverge.com/2021/10/24/22743398/tesla-quietly-raises-prices-electric-vehicles-model-x)
+ - [Save $20 off the HyperX Cloud Alpha gaming headset, and more Xbox One deals](https://www.androidauthority.com/best-xbox-deals-1118171/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
