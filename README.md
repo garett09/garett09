@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Driving on highway without numberplate...](http://9gag.com/gag/ajgYy8G)
- - 🚯 [Who will support you when you want to relax on the bench?](http://9gag.com/gag/aM42yMX)
- - 🚯 [Russian supermarkets don&#039;t play around](http://9gag.com/gag/apgEVvn)<!-- MEMES:END -->
+ - 🚖 [Prime delivery hits different](http://9gag.com/gag/azegQrz)
+ - 🚯 [An Anzio 20mm rifle which can be owned legally in the U.S](http://9gag.com/gag/aQXPV4z)
+ - 🚯 [Driving on highway without numberplate...](http://9gag.com/gag/ajgYy8G)<!-- MEMES:END -->
 
 --- 
 
