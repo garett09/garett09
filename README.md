@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This Week in PC Gaming: Age of Empires 4, Marvel's Guardians of the Galaxy, and some scary games](https://www.pcgamer.com/this-week-in-pc-gaming-age-of-empires-4-marvels-guardians-of-the-galaxy-and-some-scary-games)
- - [GTA Has A Weird History On Nintendo Consoles](https://kotaku.com/gta-has-a-weird-history-on-nintendo-consoles-1847923897)
- - [Netflix’s Baby-Sitters Club series takes an unusual approach to the cast](https://www.polygon.com/22741092/the-baby-sitters-club-season-2-parents)<!-- GAME:END -->
+ - [Eternals dreams big and falls hard](https://www.polygon.com/reviews/22741019/eternals-review-marvel)
+ - [Spider-Man Writer Claims Aunt May Almost Wasn't In The Game Because She Was Too Old And 'Wrinkly'](https://kotaku.com/spider-man-writer-claims-aunt-may-almost-wasnt-in-the-g-1847925893)
+ - [This Week in PC Gaming: Age of Empires 4, Marvel's Guardians of the Galaxy, and some scary games](https://www.pcgamer.com/this-week-in-pc-gaming-age-of-empires-4-marvels-guardians-of-the-galaxy-and-some-scary-games)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
