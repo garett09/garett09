@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [PSA: You can grab a free Overwatch battletag change until November 5th](https://www.pcgamer.com/psa-you-can-grab-a-free-overwatch-battletag-change-until-november-5th)
- - [Resident Evil's Chris Redfield and Jill Valentine join Fortnite in latest crossover](https://www.pcgamer.com/chris-redfield-jill-valentine-fortnite-resident-evil)
- - [Payday 3 goes to New York and the plots are going digital](https://www.pcgamer.com/payday-3-goes-to-new-york-and-the-plots-are-going-digital)<!-- GAME:END -->
+ - [Crapshoot: The Hobbit, the text adventure that let try to you kill Gandalf](https://www.pcgamer.com/saturday-crapshoot-the-hobbit)
+ - [Call of Duty marketing finds a new level of tastelessness](https://www.pcgamer.com/call-of-duty-marketing-finds-a-new-level-of-tastelessness)
+ - [PSA: You can grab a free Overwatch battletag change until November 5th](https://www.pcgamer.com/psa-you-can-grab-a-free-overwatch-battletag-change-until-november-5th)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
