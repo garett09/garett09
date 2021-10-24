@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [LG Stylo 6 review: The stylus phone your wallet will love](https://www.androidauthority.com/lg-stylo-6-review-3023860/)
- - [Apple execs excited about M1 Max MacBook Pro video editing capabilities](https://appleinsider.com/articles/21/10/24/apple-execs-excited-about-m1-max-macbook-pro-video-editing-capabilities?utm_medium=rss)
- - [Profile of France-based BlaBlaCar, a long distance carpooling marketplace with 80% of its riders outside of France and 60% outside of Europe (Chris O'Brien/The French Tech Journal)](http://www.techmeme.com/211024/p5#a211024p5)<!-- TECH:END -->
+ - [Tesco, UK's largest supermarket chain, was targeted by hackers on Saturday, halting orders on its app and website through Sunday (Julia Kollewe/The Guardian)](http://www.techmeme.com/211024/p6#a211024p6)
+ - [Tesla pulled its latest ‘Full Self Driving’ beta after testers complained about false crash warnings](https://www.theverge.com/2021/10/24/22743628/elon-musk-tesla-fsd-beta-10-3-rollback-issues-phantom-fcw)
+ - [iPad Pro & Apple Pencil artist's review: A decent Wacom alternative for digital production](https://appleinsider.com/articles/21/10/24/ipad-apple-pencil-artists-review-a-decent-wacom-alternative-for-digital-production?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
