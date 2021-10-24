@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [GTA Has A Weird History On Nintendo Consoles](https://kotaku.com/gta-has-a-weird-history-on-nintendo-consoles-1847923897)
  - [Netflix’s Baby-Sitters Club series takes an unusual approach to the cast](https://www.polygon.com/22741092/the-baby-sitters-club-season-2-parents)
- - [Sunday Comics: Very Thirsty](https://kotaku.com/sunday-comics-very-thirsty-1847925606)
- - [David Lynch’s Dune bombed, but was actually foundational](https://www.polygon.com/22738264/dune-david-lynch-explained-galaxy-brains-podcast)<!-- GAME:END -->
+ - [Sunday Comics: Very Thirsty](https://kotaku.com/sunday-comics-very-thirsty-1847925606)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
