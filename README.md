@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [NFL 2021: How to watch Chiefs vs. Titans, Colts vs. 49ers, RedZone and Week 7 without cable     - CNET](https://www.cnet.com/tech/home-entertainment/nfl-2021-how-to-watch-chiefs-vs-titans-colts-vs-49ers-redzone-and-week-7-without-cable/#ftag=CAD590a51e)
- - [Pixel 6 is the wrong name for Google’s new phones](https://www.androidauthority.com/google-pixel-6-name-3042225/)
- - [iPhone 12 vs. iPhone 11: All the differences     - CNET](https://www.cnet.com/tech/mobile/iphone-12-vs-iphone-11-all-the-differences/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The future of smart fitness is subscriptions, but it shouldn’t be](https://www.androidauthority.com/fitness-subscriptions-3039837/)
+ - [Indian startup Clear, which helps individuals and businesses file tax returns and more, raises a $75M Series C from Kora Capital, Stripe, and others (Manish Singh/TechCrunch)](http://www.techmeme.com/211024/p4#a211024p4)
+ - [Buy an iPhone 13 or iPhone 12? How to decide what's best for you     - CNET](https://www.cnet.com/tech/mobile/buy-an-iphone-13-or-iphone-12-how-to-decide-whats-best-for-you/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
