@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Want a Better PC? Try Building Your Own](https://www.wired.com/story/how-to-build-a-pc)
- - [New trailers: King Richard, Uncharted, Ozark, and more](https://www.theverge.com/2021/10/24/22732982/new-trailers-king-richard-uncharted-ozark-netflix-hbo-hulu)
- - [Estimated ship times for preorders of new MacBook Pro models now into late November, early December](https://www.theverge.com/2021/10/24/22743137/apple-estimated-ship-times-preorders-new-macbook-pro-december-m1)<!-- TECH:END -->
+ - [Pixel 6 is the wrong name for Google’s new phones](https://www.androidauthority.com/google-pixel-6-name-3042225/)
+ - [Profile of Databricks CEO and co-founder Ali Ghodsi, who turned the data analytics startup into a company worth $28B, on track to reach ~$1B in sales in 2022 (Kenrick Cai/Forbes India)](http://www.techmeme.com/211024/p3#a211024p3)
+ - [Best Deals Oct. 24: $90 Corsair keyboard, $360 32-inch 4K Samsung monitor, and more!](https://appleinsider.com/articles/21/10/24/best-deals-oct-24-90-corsair-keyboard-360-32-inch-4k-samsung-monitor-and-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
