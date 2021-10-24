@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [An Anzio 20mm rifle which can be owned legally in the U.S](http://9gag.com/gag/aQXPV4z)
- - 🚯 [So how is your day guys?](http://9gag.com/gag/a31PxWN)
- - 🚯 [Other at funeral: sorry for your loss Me : thanks for your mother&rsquo;s death](http://9gag.com/gag/aegjR8b)<!-- MEMES:END -->
+ - 🚖 [Old but gold](http://9gag.com/gag/aBnRoe2)
+ - 🚯 [Driving on highway without numberplate...](http://9gag.com/gag/ajgYy8G)
+ - 🚯 [Name this movie.](http://9gag.com/gag/arnvdjX)<!-- MEMES:END -->
 
 --- 
 
