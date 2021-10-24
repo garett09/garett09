@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Time is a powerful construct](http://9gag.com/gag/amgNbPX)
- - 🚯 [Who will support you when you want to relax on the bench?](http://9gag.com/gag/aM42yMX)
- - 🚯 [Is Dave Chapelle cancelled??!](http://9gag.com/gag/aE8vNv9)<!-- MEMES:END -->
+ - 🚖 [Is Dave Chapelle cancelled??!](http://9gag.com/gag/aE8vNv9)
+ - 🚯 [Armed Thug (knife) Tries To Intimidate Security Guard](http://9gag.com/gag/avApD75)
+ - 🚯 [Time is a powerful construct](http://9gag.com/gag/amgNbPX)<!-- MEMES:END -->
 
 --- 
 
