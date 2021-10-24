@@ -194,8 +194,8 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Jeremy Clarkson and his wisdom which is almost frightening](http://9gag.com/gag/ajgYWoR)
- - 🚯 [Freedom will always be under the realm of morality](http://9gag.com/gag/aDDAQR7)
- - 🚯 [Take the purr-fect big screen with you everywhere! Turn your own space into a theatre with LG CineBeam the smart portable projector.](http://9gag.com/gag/aLvR1K6)<!-- MEMES:END -->
+ - 🚯 [Sup boomers!](http://9gag.com/gag/adg0o8M)
+ - 🚯 [We have a winner!](http://9gag.com/gag/a0Z8Mjz)<!-- MEMES:END -->
 
 --- 
 
