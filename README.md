@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [We have a winner!](http://9gag.com/gag/a0Z8Mjz)
- - 🚯 [As simple as THAT .](http://9gag.com/gag/a41Kw4v)
+ - 🚖 [As simple as THAT .](http://9gag.com/gag/a41Kw4v)
+ - 🚯 [They use Black magic](http://9gag.com/gag/aOQKpQ6)
  - 🚯 [No kill rule](http://9gag.com/gag/arnv2dV)<!-- MEMES:END -->
 
 --- 
