@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [As simple as THAT .](http://9gag.com/gag/a41Kw4v)
- - 🚯 [They use Black magic](http://9gag.com/gag/aOQKpQ6)
- - 🚯 [No kill rule](http://9gag.com/gag/arnv2dV)<!-- MEMES:END -->
+ - 🚖 [Hello my beer](http://9gag.com/gag/a91bD8K)
+ - 🚯 [Power your dreams...You literally only get one shot](http://9gag.com/gag/arnv890)
+ - 🚯 [World&#039;s Most Evil Invention](http://9gag.com/gag/a11vOXY)<!-- MEMES:END -->
 
 --- 
 
