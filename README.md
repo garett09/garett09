@@ -194,8 +194,8 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [The rivers of Africa](http://9gag.com/gag/aNPrjb4)
- - 🚯 [World&#039;s Most Evil Invention](http://9gag.com/gag/a11vOXY)
- - 🚯 [Freedom will always be under the realm of morality](http://9gag.com/gag/aDDAQR7)<!-- MEMES:END -->
+ - 🚯 [Prime delivery hits different](http://9gag.com/gag/azegQrz)
+ - 🚯 [Credits-Goattoself](http://9gag.com/gag/aNPrj4A)<!-- MEMES:END -->
 
 --- 
 
