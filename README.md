@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [David Lynch’s Dune bombed, but was actually foundational](https://www.polygon.com/22738264/dune-david-lynch-explained-galaxy-brains-podcast)
  - [The Halloween Countdown: 31 days of horror](https://www.polygon.com/22702474/best-halloween-movies-tv-to-watch-stream)
- - [There's an official D&D supplement about the heroes and villains of Baldur's Gate 1 and 2](https://www.pcgamer.com/theres-an-official-dandd-supplement-about-the-heroes-and-villains-of-baldurs-gate-1-and-2)
- - [Crapshoot: The Hobbit, the text adventure that let try to you kill Gandalf](https://www.pcgamer.com/saturday-crapshoot-the-hobbit)<!-- GAME:END -->
+ - [There's an official D&D supplement about the heroes and villains of Baldur's Gate 1 and 2](https://www.pcgamer.com/theres-an-official-dandd-supplement-about-the-heroes-and-villains-of-baldurs-gate-1-and-2)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
