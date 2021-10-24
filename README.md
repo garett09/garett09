@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Man just did a vocal warmup with 70k people in his hands....](http://9gag.com/gag/aegjPAj)
- - 🚯 [2,400 CG artists were each given the same base animation and challenged to make something unique out of it. These are just some of the clips from the top 100 artists.](http://9gag.com/gag/aBnRNKO)
- - 🚯 [So how is your day guys?](http://9gag.com/gag/a31PxWN)<!-- MEMES:END -->
+ - 🚖 [Time is a powerful construct](http://9gag.com/gag/amgNbPX)
+ - 🚯 [Who will support you when you want to relax on the bench?](http://9gag.com/gag/aM42yMX)
+ - 🚯 [Is Dave Chapelle cancelled??!](http://9gag.com/gag/aE8vNv9)<!-- MEMES:END -->
 
 --- 
 
