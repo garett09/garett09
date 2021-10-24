@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tesco, UK's largest supermarket chain, was targeted by hackers on Saturday, halting orders on its app and website through Sunday (Julia Kollewe/The Guardian)](http://www.techmeme.com/211024/p6#a211024p6)
- - [Tesla pulled its latest ‘Full Self Driving’ beta after testers complained about false crash warnings](https://www.theverge.com/2021/10/24/22743628/elon-musk-tesla-fsd-beta-10-3-rollback-issues-phantom-fcw)
- - [iPad Pro & Apple Pencil artist's review: A decent Wacom alternative for digital production](https://appleinsider.com/articles/21/10/24/ipad-apple-pencil-artists-review-a-decent-wacom-alternative-for-digital-production?utm_medium=rss)<!-- TECH:END -->
+ - [Citizen Lab: the iPhone of Ben Hubbard, an American reporter for NYT, was hacked in 2020 and 2021, likely by Saudi Arabia using NSO's Pegasus; NSO denies claim (Ben Hubbard/New York Times)](http://www.techmeme.com/211024/p8#a211024p8)
+ - [Scientists create a wooden knife that's three times sharper than steel     - CNET](https://www.cnet.com/news/scientists-create-a-wooden-knife-thats-three-times-sharper-than-steel/#ftag=CAD590a51e)
+ - [Tesla rolls back its FSD beta from version 10.3, which improved many items like brake light and turn signal detection, to 10.2 after "seeing some issues" (Richard Lawler/The Verge)](http://www.techmeme.com/211024/p7#a211024p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
