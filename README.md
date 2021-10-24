@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Pixel 6 and 6 Pro vs older Google phones: Should you upgrade?](https://www.androidauthority.com/google-pixel-6-vs-pixel-phones-upgrade-3044904/)
- - [‘Bluewashing’ Seafood Won’t Make the World More Green](https://www.wired.com/story/whitewashing-seafood-blue-food)
- - [New York Apple Store stabbing and an iCloud hacker in the Apple Crime Blotter](https://appleinsider.com/articles/21/10/24/new-york-apple-store-stabbing-and-an-icloud-hacker-in-the-apple-crime-blotter?utm_medium=rss)<!-- TECH:END -->
+ - [Want a Better PC? Try Building Your Own](https://www.wired.com/story/how-to-build-a-pc)
+ - [New trailers: King Richard, Uncharted, Ozark, and more](https://www.theverge.com/2021/10/24/22732982/new-trailers-king-richard-uncharted-ozark-netflix-hbo-hulu)
+ - [Estimated ship times for preorders of new MacBook Pro models now into late November, early December](https://www.theverge.com/2021/10/24/22743137/apple-estimated-ship-times-preorders-new-macbook-pro-december-m1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
