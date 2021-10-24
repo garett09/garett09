@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This guy literally bought a parachute on the internet and tried to jump from his own apartment. The crying woman in the end is his wife saying: &quot;What a crazy man&quot;! We are f*cking brazilians, bro.](http://9gag.com/gag/a71L9Yq)
- - 🚯 [Sup boomers!](http://9gag.com/gag/adg0o8M)
+ - 🚖 [Men will find a way..](http://9gag.com/gag/angqr5E)
+ - 🚯 [Now you know.](http://9gag.com/gag/aWgQ2WA)
  - 🚯 [Take the purr-fect big screen with you everywhere! Turn your own space into a theatre with LG CineBeam the smart portable projector.](http://9gag.com/gag/aLvR1K6)<!-- MEMES:END -->
 
 --- 
