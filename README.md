@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Researchers detail how hackers are using FiveSys, a rootkit with a Microsoft-issued digital signature, to steal the login credentials of gamers in China (Danny Palmer/ZDNet)](http://www.techmeme.com/211024/p2#a211024p2)
- - [Power Up Anywhere With Our Favorite Portable Chargers](https://www.wired.com/gallery/best-portable-chargers-power-banks)
- - [How Wavelets Let Researchers Transform and Understand Data](https://www.wired.com/story/how-wavelets-let-researchers-transform-and-understand-data)<!-- TECH:END -->
+ - [Google Pixel 6 and 6 Pro vs older Google phones: Should you upgrade?](https://www.androidauthority.com/google-pixel-6-vs-pixel-phones-upgrade-3044904/)
+ - [‘Bluewashing’ Seafood Won’t Make the World More Green](https://www.wired.com/story/whitewashing-seafood-blue-food)
+ - [New York Apple Store stabbing and an iCloud hacker in the Apple Crime Blotter](https://appleinsider.com/articles/21/10/24/new-york-apple-store-stabbing-and-an-icloud-hacker-in-the-apple-crime-blotter?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
