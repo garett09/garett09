@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Motorola Moto G Play (2021) review: Near-stock Android at a nice, low price](https://www.androidauthority.com/motorola-moto-g-play-2021-review-3026053/)
- - [Embrace, a mobile data intelligence startup, raises a $45M Series B led by NEA (Christine Hall/TechCrunch)](http://www.techmeme.com/211023/p7#a211023p7)
- - [10 top holiday gifts for moms     - CNET](https://www.cnet.com/home/10-top-holiday-gifts-for-moms/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Inventing the iPod: How 'really big risks' paid off for Apple     - CNET](https://www.cnet.com/features/inventing-the-ipod-how-really-big-risks-paid-off-for-apple/#ftag=CAD590a51e)
+ - [Sounds like the Halo Needler is finally getting the Nerf blaster it deserves](https://www.theverge.com/2021/10/23/22742194/halo-needler-nerf-lmtd-announce-price-release-date)
+ - [Motorola Moto G Play (2021) review: Near-stock Android at a nice, low price](https://www.androidauthority.com/motorola-moto-g-play-2021-review-3026053/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
