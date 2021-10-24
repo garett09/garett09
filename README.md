@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Prime delivery hits different](http://9gag.com/gag/azegQrz)
- - 🚯 [An Anzio 20mm rifle which can be owned legally in the U.S](http://9gag.com/gag/aQXPV4z)
- - 🚯 [Run Foresta, run](http://9gag.com/gag/abgXReX)<!-- MEMES:END -->
+ - 🚖 [An Anzio 20mm rifle which can be owned legally in the U.S](http://9gag.com/gag/aQXPV4z)
+ - 🚯 [So how is your day guys?](http://9gag.com/gag/a31PxWN)
+ - 🚯 [Other at funeral: sorry for your loss Me : thanks for your mother&rsquo;s death](http://9gag.com/gag/aegjR8b)<!-- MEMES:END -->
 
 --- 
 
