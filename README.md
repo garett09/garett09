@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It now is an issue within my pay grade](http://9gag.com/gag/azegZrN)
- - 🚯 [Obsidian is a natural volcanic glass formed when lava high in silica cools quickly preventing crystal growth. Credit: Outlaw Rocks.](http://9gag.com/gag/a61mpyA)
+ - 🚖 [Obsidian is a natural volcanic glass formed when lava high in silica cools quickly preventing crystal growth. Credit: Outlaw Rocks.](http://9gag.com/gag/a61mpyA)
+ - 🚯 [Whatever this material is made of.](http://9gag.com/gag/aegj22b)
  - 🚯 [Take the purr-fect big screen with you everywhere! Turn your own space into a theatre with LG CineBeam the smart portable projector.](http://9gag.com/gag/aLvR1K6)<!-- MEMES:END -->
 
 --- 
