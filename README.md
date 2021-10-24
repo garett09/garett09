@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The rivers of Africa](http://9gag.com/gag/aNPrjb4)
- - 🚯 [An Anzio 20mm rifle which can be owned legally in the U.S](http://9gag.com/gag/aQXPV4z)
- - 🚯 [Power your dreams...You literally only get one shot](http://9gag.com/gag/arnv890)<!-- MEMES:END -->
+ - 🚖 [Driving on highway without numberplate...](http://9gag.com/gag/ajgYy8G)
+ - 🚯 [Who will support you when you want to relax on the bench?](http://9gag.com/gag/aM42yMX)
+ - 🚯 [Russian supermarkets don&#039;t play around](http://9gag.com/gag/apgEVvn)<!-- MEMES:END -->
 
 --- 
 
