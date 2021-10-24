@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Obsidian is a natural volcanic glass formed when lava high in silica cools quickly preventing crystal growth. Credit: Outlaw Rocks.](http://9gag.com/gag/a61mpyA)
- - 🚯 [This guy literally bought a parachute on the internet and tried to jump from his own apartment. The crying woman in the end is his wife saying: &quot;What a crazy man&quot;! We are f*cking brazilians, bro.](http://9gag.com/gag/a71L9Yq)
+ - 🚖 [This guy literally bought a parachute on the internet and tried to jump from his own apartment. The crying woman in the end is his wife saying: &quot;What a crazy man&quot;! We are f*cking brazilians, bro.](http://9gag.com/gag/a71L9Yq)
+ - 🚯 [Sup boomers!](http://9gag.com/gag/adg0o8M)
  - 🚯 [Take the purr-fect big screen with you everywhere! Turn your own space into a theatre with LG CineBeam the smart portable projector.](http://9gag.com/gag/aLvR1K6)<!-- MEMES:END -->
 
 --- 
