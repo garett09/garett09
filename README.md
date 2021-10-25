@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Deals Oct. 25: $780 refurb 2020 12.9-inch iPad Pro, $600 off HiFiMan Over-Ear Headphones, and more!](https://appleinsider.com/articles/21/10/25/best-deals-oct-25-780-refurb-2020-129-inch-ipad-pro-600-off-hifiman-over-ear-headphones-and-more?utm_medium=rss)
- - [Zoom now has auto-generated captions available for free accounts](https://www.theverge.com/2021/10/25/22744704/zoom-auto-generated-captions-available-free-accounts-accessibility)
- - [Poll: What should be the next Google Pixel product?](https://www.androidauthority.com/next-google-pixel-product-poll-3045932/)<!-- TECH:END -->
+ - [Blue Origin reveals plans for future commercial space station called Orbital Reef](https://www.theverge.com/2021/10/25/22744526/blue-origin-space-station-orbital-reef-announcement)
+ - [AirPods (third-gen) review: less conspicuous design, IPX4 water resistance, and improved sound quality, but spatial audio is inconsistent and no ANC (Chris Welch/The Verge)](http://www.techmeme.com/211025/p30#a211025p30)
+ - [Hotel booking startup Selfbook raises a $25M Series A led by Tiger Global at a $125M valuation after pivoting from a consumer app to B2B (Mary Ann Azevedo/TechCrunch)](http://www.techmeme.com/211025/p29#a211025p29)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
