@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [On Pornhub, Math Teacher Makes His Mark Teaching Calculus](https://kotaku.com/on-pornhub-math-teacher-makes-his-mark-teaching-calcul-1847927535)
  - [Age of Empires 4 revives the series’ brilliance](https://www.polygon.com/22739294/age-of-empires-4-revives-the-series-brilliance)
- - [Age of Empires 4 review](https://www.pcgamer.com/age-of-empires-4-review)
- - [Age of Empires IV’s Min Spec Mode Gives More Players More Opportunities to Play](https://news.xbox.com/en-us/2021/10/24/age-of-empires-min-spec-mode-more-opportunities-to-play/)<!-- GAME:END -->
+ - [Age of Empires 4 review](https://www.pcgamer.com/age-of-empires-4-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
