@@ -194,8 +194,8 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Uhuuuu](http://9gag.com/gag/aGzYqQ7)
- - 🚯 [Little exercise to keep you fit](http://9gag.com/gag/aM426yR)
- - 🚯 [Yeah, sex is ok, but have you ever..](http://9gag.com/gag/amgNQYy)<!-- MEMES:END -->
+ - 🚯 [I got scared of it](http://9gag.com/gag/aQXPK0e)
+ - 🚯 [This race looks intense!](http://9gag.com/gag/aDDAL6Z)<!-- MEMES:END -->
 
 --- 
 
