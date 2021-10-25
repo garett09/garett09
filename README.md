@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [As a Persona player, Shin Megami Tensei 5 felt dark, challenging, and intriguing](https://www.polygon.com/22741033/shin-megami-tensei-5-atlus-persona-preview)
- - [Halo Infinite’s campaign trailer shows a more open Master Chief adventure](https://www.polygon.com/22744617/halo-infinite-campaign-trailer-skills-open-world)
- - [Halo Infinite's Campaign Finally Re-Revealed, And It's Looking Much Better](https://kotaku.com/halo-infinites-campaign-finally-re-revealed-and-its-lo-1847927849)<!-- GAME:END -->
+ - [Beat Saber multiplayer launches today](http://feedproxy.google.com/~r/PSBlog/~3/MA5XtqxtOrA/)
+ - [Beat Saber multiplayer launches today](https://blog.playstation.com/2021/10/25/beat-saber-multiplayer-launches-today/)
+ - [Shaggy paved the hazy way for every slasher stoner](https://www.polygon.com/22734899/scooby-doo-shaggy-horror-movies-influence)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
