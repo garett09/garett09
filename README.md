@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [$7000 Evangelion Jackets Are Some Expensive Cosplay](https://kotaku.com/7000-evangelion-jackets-are-some-expensive-cosplay-1847926917)
  - [Minigame That Gave Kids 'Cuts, Blisters & Burns' Returns To Mario Party With A Warning](https://kotaku.com/minigame-that-gave-kids-cuts-blisters-burns-returns-1847926555)
- - [Five new Steam games you probably missed (October 25, 2021)](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-october-25-2021)
- - [Feds Say Man Spent Covid Loan On $57,000 Pokémon Card](https://kotaku.com/feds-say-man-spent-covid-loan-on-57-000-pokemon-card-1847926408)<!-- GAME:END -->
+ - [Five new Steam games you probably missed (October 25, 2021)](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-october-25-2021)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
