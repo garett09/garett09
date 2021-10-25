@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Brazil-based Hash, which develops white label payment infrastructure for non-financial B2B companies looking to offer banking services, raises a $40M Series C (Mary Ann Azevedo/TechCrunch)](http://www.techmeme.com/211024/p9#a211024p9)
- - [NASA's mega moon rocket fitted with Orion capsule for the first time     - CNET](https://www.cnet.com/news/nasas-mega-moon-rocket-fitted-with-orion-capsule-for-the-first-time/#ftag=CAD590a51e)
- - [Citizen Lab: the iPhone of Ben Hubbard, an American reporter for NYT, was hacked in 2020 and 2021, likely by Saudi Arabia using NSO's Pegasus; NSO denies claim (Ben Hubbard/New York Times)](http://www.techmeme.com/211024/p8#a211024p8)<!-- TECH:END -->
+ - [ProtonMail's parent company wins a Swiss court appeal confirming email services are not considered telcos and thus not subject to data retention requirements (Michael Shields/Reuters)](http://www.techmeme.com/211024/p10#a211024p10)
+ - [Dune becomes Warner Bros. biggest opening of the pandemic     - CNET](https://www.cnet.com/news/dune-becomes-warner-bros-biggest-opening-of-the-pandemic/#ftag=CAD590a51e)
+ - [James Michael Tyler, 'Gunther' in Friends, dies aged 59     - CNET](https://www.cnet.com/news/james-michael-tyler-gunther-in-friends-dies-aged-59/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
