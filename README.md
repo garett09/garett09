@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [AirPods 3 review roundup: Better sound and fit despite lack of 'Pro' features](https://appleinsider.com/articles/21/10/25/airpods-3-review-roundup-better-sound-and-fit-despite-lack-of-pro-features?utm_medium=rss)
- - [MacBook Pro review roundup: Doubling-down on the features users want](https://appleinsider.com/articles/21/10/25/macbook-pro-review-roundup-doubling-down-on-the-features-users-want?utm_medium=rss)
- - [Tesla’s value briefly passed $1 trillion after Hertz ordered 100,000 of its vehicles](https://www.theverge.com/2021/10/25/22744504/hertz-tesla-order-100000-vehicles-electrify-fleet)<!-- TECH:END -->
+ - [How to use a Fitbit: A complete user’s guide](https://www.androidauthority.com/how-to-use-a-fitbit-3032281/)
+ - [Apple M1 Pro and Max review: CPU and GPU improvements offer an unparalleled combination of raw performance, unique acceleration, and power efficiency (Andrei Frumusanu/AnandTech)](http://www.techmeme.com/211025/p34#a211025p34)
+ - [Save $660 on the Surface Pro X, and more great Microsoft Surface deals](https://www.androidauthority.com/best-cheap-surface-pro-deals-1112075/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
