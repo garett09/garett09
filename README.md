@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The cheapest way to pre-order Elden Ring in Australia](https://www.pcgamer.com/buy-elden-ring-pc)
- - [Rumored Smash-style crossover game to star WB characters like Shaggy, Batman, and Gandalf](https://www.pcgamer.com/rumored-smash-style-crossover-game-to-star-wb-characters-like-shaggy-batman-and-gandalf)
- - [Black Friday 2021: the PC gaming deals you can expect in Australia](https://www.pcgamer.com/black-friday-2021-the-pc-gaming-deals-you-can-expect-in-australia)<!-- GAME:END -->
+ - [Age of Empires 4 revives the series’ brilliance](https://www.polygon.com/22739294/age-of-empires-4-revives-the-series-brilliance)
+ - [Age of Empires IV’s Min Spec Mode Gives More Players More Opportunities to Play](https://news.xbox.com/en-us/2021/10/24/age-of-empires-min-spec-mode-more-opportunities-to-play/)
+ - [The cheapest way to pre-order Elden Ring in Australia](https://www.pcgamer.com/buy-elden-ring-pc)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
