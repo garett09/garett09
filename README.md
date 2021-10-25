@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Blue Origin reveals plans for future commercial space station called Orbital Reef](https://www.theverge.com/2021/10/25/22744526/blue-origin-space-station-orbital-reef-announcement)
- - [AirPods (third-gen) review: less conspicuous design, IPX4 water resistance, and improved sound quality, but spatial audio is inconsistent and no ANC (Chris Welch/The Verge)](http://www.techmeme.com/211025/p30#a211025p30)
- - [Hotel booking startup Selfbook raises a $25M Series A led by Tiger Global at a $125M valuation after pivoting from a consumer app to B2B (Mary Ann Azevedo/TechCrunch)](http://www.techmeme.com/211025/p29#a211025p29)<!-- TECH:END -->
+ - [Apple's tvOS 15.1 is now available for Apple TV](https://appleinsider.com/articles/21/10/25/apples-tvos-151-is-now-available-for-apple-tv?utm_medium=rss)
+ - [Apple issues watchOS 8.1 update for Apple Watch](https://appleinsider.com/articles/21/10/25/apple-issues-watchos-81-update-for-apple-watch?utm_medium=rss)
+ - [Apple releases macOS Monterey with Shortcuts and Live Text](https://appleinsider.com/articles/21/10/25/apple-releases-macos-monterey-with-shortcuts-and-live-text?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
