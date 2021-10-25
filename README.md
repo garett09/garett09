@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Facebook says it’s refocusing company on ‘serving young adults’](https://www.theverge.com/2021/10/25/22745622/facebook-young-adults-refocusing-teams)
- - [Go read this look into how Amazon’s HR falls way behind](https://www.theverge.com/2021/10/25/22745029/amazon-warehouse-hr-new-york-times)
- - [Facebook says Q3 ad revenue grew 33% YoY to $28.28B but warns of "continued headwinds" in Q4 due to Apple's ATT changes in iOS (Stephanie Condon/ZDNet)](http://www.techmeme.com/211025/p39#a211025p39)<!-- TECH:END -->
+ - [Samsung Galaxy A02s review: Rock-bottom price, limited ambitions](https://www.androidauthority.com/samsung-galaxy-a02s-review-3036649/)
+ - [Everything you need to know about color gamuts: sRGB, DCI-P3, Rec. 2020, more](https://www.androidauthority.com/color-gamuts-guide-3035782/)
+ - [Facebook hires Britney Spears’ lawyer to fight an upcoming TV show](https://www.theverge.com/2021/10/25/22745525/facebook-britney-spears-lawyer-doomsday-machine)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
