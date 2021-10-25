@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Feds Say Man Spent Covid Loan On $57,000 Pokémon Card](https://kotaku.com/feds-say-man-spent-covid-loan-on-57-000-pokemon-card-1847926408)
- - [The Week In Games: Groot And His Pals Are Ready To Save The Galaxy](https://kotaku.com/the-week-in-games-groot-and-his-pals-are-ready-to-save-1847926486)
- - [Jagex to publish Runescape-inspired idle game Melvor Idle](https://www.pcgamer.com/jagex-to-publish-runescape-inspired-idle-game-melvor-idle)<!-- GAME:END -->
+ - [Minigame That Gave Kids 'Cuts, Blisters & Burns' Returns To Mario Party With A Warning](https://kotaku.com/minigame-that-gave-kids-cuts-blisters-burns-returns-1847926555)
+ - [Five new Steam games you probably missed (October 25, 2021)](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-october-25-2021)
+ - [Feds Say Man Spent Covid Loan On $57,000 Pokémon Card](https://kotaku.com/feds-say-man-spent-covid-loan-on-57-000-pokemon-card-1847926408)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
