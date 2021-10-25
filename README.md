@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Unite Hides Score To Stop Players From Rage Quitting, Devs Say](https://kotaku.com/pokemon-unite-hides-score-to-stop-players-from-rage-qui-1847931206)
- - [Phasmophobia's Nightmare update delivers four new ghosts and a haunted campground](https://www.pcgamer.com/phasmophobias-nightmare-update-delivers-four-new-ghosts-and-a-haunted-campground)
- - [Halo Infinite’s Craig, Once A Laughingstock, Now Looks Better Than Ever](https://kotaku.com/halo-infinite-s-craig-once-a-laughingstock-now-looks-1847930693)<!-- GAME:END -->
+ - [You Can Change Your Overwatch Battletag For Free Thanks To McCree](https://kotaku.com/you-can-change-your-overwatch-battletag-for-free-thanks-1847931788)
+ - [Everything we know about Dune 2](https://www.polygon.com/22745107/dune-2-release-date-cast)
+ - [Brendan Fraser is joining DC’s Batgirl movie as a villain](https://www.polygon.com/22745357/brendan-fraser-batgirl-cast-firefly-movie-villain)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
