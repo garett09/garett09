@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Beat Saber multiplayer launches today](http://feedproxy.google.com/~r/PSBlog/~3/MA5XtqxtOrA/)
- - [Beat Saber multiplayer launches today](https://blog.playstation.com/2021/10/25/beat-saber-multiplayer-launches-today/)
- - [Shaggy paved the hazy way for every slasher stoner](https://www.polygon.com/22734899/scooby-doo-shaggy-horror-movies-influence)<!-- GAME:END -->
+ - [Georgia man spends COVID loan on $57K rare Pokémon card, says prosecutor](https://www.polygon.com/22744759/georgia-man-covid-loan-pokemon-card-57k)
+ - [Meet four Operators featured in Call of Duty: Vanguard Multiplayer](http://feedproxy.google.com/~r/PSBlog/~3/RixfwrHPWOc/)
+ - [Meet four Operators featured in Call of Duty: Vanguard Multiplayer](https://blog.playstation.com/2021/10/25/meet-four-operators-featured-in-call-of-duty-vanguard-multiplayer/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
