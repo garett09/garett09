@@ -194,8 +194,8 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [That fog is THICK boyyyyy](http://9gag.com/gag/adg0W2M)
- - 🚯 [I love cox](http://9gag.com/gag/avApBdZ)
- - 🚯 [Brutal...](http://9gag.com/gag/a41KB3m)<!-- MEMES:END -->
+ - 🚯 [Brutal...](http://9gag.com/gag/a41KB3m)
+ - 🚯 [Bet fanbois are average k-drama enjoyer](http://9gag.com/gag/a91bZeD)<!-- MEMES:END -->
 
 --- 
 
