@@ -180,8 +180,8 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- GAME:START -->
  - [Age of Empires 4 revives the series’ brilliance](https://www.polygon.com/22739294/age-of-empires-4-revives-the-series-brilliance)
- - [Age of Empires IV’s Min Spec Mode Gives More Players More Opportunities to Play](https://news.xbox.com/en-us/2021/10/24/age-of-empires-min-spec-mode-more-opportunities-to-play/)
- - [The cheapest way to pre-order Elden Ring in Australia](https://www.pcgamer.com/buy-elden-ring-pc)<!-- GAME:END -->
+ - [Age of Empires 4 review](https://www.pcgamer.com/age-of-empires-4-review)
+ - [Age of Empires IV’s Min Spec Mode Gives More Players More Opportunities to Play](https://news.xbox.com/en-us/2021/10/24/age-of-empires-min-spec-mode-more-opportunities-to-play/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
