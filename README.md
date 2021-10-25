@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The tier list: how Facebook decides which countries need protection](https://www.theverge.com/22743753/facebook-tier-list-countries-leaked-documents-content-moderation)
- - [Inside Facebook’s struggle to keep young people](https://www.theverge.com/22743744/facebook-teen-usage-decline-frances-haugen-leaks)
- - [Daily Authority: Notch? 🥊](https://www.androidauthority.com/newsletters/da-october-25-2021/)<!-- TECH:END -->
+ - [Leaked docs offer a blueprint for solving Facebook's problems: improve products by deprioritizing engagement, reduce AI reliance, focus on developing countries (Gilad Edelman/Wired)](http://www.techmeme.com/211025/p13#a211025p13)
+ - [Here’s what Google says about Pixel 6 features coming to older Pixels](https://www.androidauthority.com/google-pixel-6-features-older-pixels-3045948/)
+ - [Internal Facebook docs and interviews detail Mark Zuckerberg's decisions to prioritize growth over safety, including censoring "anti-state" posts in Vietnam (Washington Post)](http://www.techmeme.com/211025/p12#a211025p12)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
