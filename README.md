@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Federal Circuit sides with Apple, affirms ruling on Corephotonics patent](https://appleinsider.com/articles/21/10/25/federal-circuit-sides-with-apple-affirms-ruling-on-corephotonics-patent?utm_medium=rss)
- - [Best Buy and Home Depot drop security cameras linked to Uyghur surveillance](https://www.theverge.com/2021/10/25/22745068/best-buy-home-depot-lorex-ezviz-uyghur-surveillance-sales-dji)
- - [Facebook plans to spend $10B+ on AR and VR this year, including metaverse apps and related hardware, and report FRL segment separately starting in Q4 (Janko Roettgers/Protocol)](http://www.techmeme.com/211025/p38#a211025p38)<!-- TECH:END -->
+ - [Facebook says it’s refocusing company on ‘serving young adults’](https://www.theverge.com/2021/10/25/22745622/facebook-young-adults-refocusing-teams)
+ - [Go read this look into how Amazon’s HR falls way behind](https://www.theverge.com/2021/10/25/22745029/amazon-warehouse-hr-new-york-times)
+ - [Facebook says Q3 ad revenue grew 33% YoY to $28.28B but warns of "continued headwinds" in Q4 due to Apple's ATT changes in iOS (Stephanie Condon/ZDNet)](http://www.techmeme.com/211025/p39#a211025p39)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
