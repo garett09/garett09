@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple launching Apple TV+, Apple TV 4K in Korea](https://appleinsider.com/articles/21/10/25/apple-launching-apple-tv-apple-tv-4k-in-korea?utm_medium=rss)
- - [How Frances Haugen maximized the impact of her leaked Facebook documents, rolling them out to WSJ and then broadening the circle to a large group of outlets (Ben Smith/New York Times)](http://www.techmeme.com/211025/p2#a211025p2)
- - [You told us: The choice between Pixel 6 and Galaxy S21 isn’t even close](https://www.androidauthority.com/galaxy-s21-pixel-6-poll-results-3044252/)<!-- TECH:END -->
+ - [The tier list: how Facebook decides which countries need protection](https://www.theverge.com/22743753/facebook-tier-list-countries-leaked-documents-content-moderation)
+ - [Inside Facebook’s struggle to keep young people](https://www.theverge.com/22743744/facebook-teen-usage-decline-frances-haugen-leaks)
+ - [Daily Authority: Notch? 🥊](https://www.androidauthority.com/newsletters/da-october-25-2021/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
