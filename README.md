@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Blue Apron review: How the original meal kit service holds up in 2021     - CNET](https://www.cnet.com/health/nutrition/blue-apron-review/#ftag=CAD590a51e)
- - [The secret Avengers video game the world never got to play     - CNET](https://www.cnet.com/features/secret-avengers-video-game-the-world-never-got-to-play/#ftag=CAD590a51e)
- - [The Netflix anime everyone should watch     - CNET](https://www.cnet.com/news/the-netflix-anime-everyone-should-watch/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Australia's Online Privacy Bill plans to make social media companies obtain parental consent for users under 16, with fines of up to ~$7.5M for non-compliance (Byron Kaye/Reuters)](http://www.techmeme.com/211025/p1#a211025p1)
+ - [UFC 267 Blachowicz vs. Teixeira: Start time, how to watch or stream online     - CNET](https://www.cnet.com/news/ufc-267-blachowicz-vs-teixeira-start-time-how-to-watch-or-stream-online/#ftag=CAD590a51e)
+ - [Samsung Galaxy S22 series: All the rumors in one place (Updated: Oct. 18)](https://www.androidauthority.com/samsung-galaxy-s22-1643006/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
