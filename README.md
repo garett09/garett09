@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [There&rsquo;s a lesson in this](http://9gag.com/gag/amgNQVd)
- - 🚯 [Look Ma, no hands ;](http://9gag.com/gag/a81LOPZ)
+ - 🚖 [Hard not to be a pirate these days](http://9gag.com/gag/aAGR5D9)
+ - 🚯 [When you control your narrative&hellip;](http://9gag.com/gag/aOQKWV3)
  - 🚯 [Text before calls, bruh.](http://9gag.com/gag/aWgQqRq)<!-- MEMES:END -->
 
 --- 
