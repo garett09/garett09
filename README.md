@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Citizen Lab: the iPhone of Ben Hubbard, an American reporter for NYT, was hacked in 2020 and 2021, likely by Saudi Arabia using NSO's Pegasus; NSO denies claim (Ben Hubbard/New York Times)](http://www.techmeme.com/211024/p8#a211024p8)
- - [Scientists create a wooden knife that's three times sharper than steel     - CNET](https://www.cnet.com/news/scientists-create-a-wooden-knife-thats-three-times-sharper-than-steel/#ftag=CAD590a51e)
- - [Tesla rolls back its FSD beta from version 10.3, which improved many items like brake light and turn signal detection, to 10.2 after "seeing some issues" (Richard Lawler/The Verge)](http://www.techmeme.com/211024/p7#a211024p7)<!-- TECH:END -->
+ - [Brazil-based Hash, which develops white label payment infrastructure for non-financial B2B companies looking to offer banking services, raises a $40M Series C (Mary Ann Azevedo/TechCrunch)](http://www.techmeme.com/211024/p9#a211024p9)
+ - [NASA's mega moon rocket fitted with Orion capsule for the first time     - CNET](https://www.cnet.com/news/nasas-mega-moon-rocket-fitted-with-orion-capsule-for-the-first-time/#ftag=CAD590a51e)
+ - [Citizen Lab: the iPhone of Ben Hubbard, an American reporter for NYT, was hacked in 2020 and 2021, likely by Saudi Arabia using NSO's Pegasus; NSO denies claim (Ben Hubbard/New York Times)](http://www.techmeme.com/211024/p8#a211024p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
