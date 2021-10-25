@@ -194,8 +194,8 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Little exercise to keep you fit](http://9gag.com/gag/aM426yR)
- - 🚯 [The octopus just wants to play...](http://9gag.com/gag/aogE6wA)
- - 🚯 [Within minutes of being put in a jar, Octopus figures out how to remove the lid to get outside.](http://9gag.com/gag/a41K89y)<!-- MEMES:END -->
+ - 🚯 [Just putting on his music before starting his workout when suddenly...](http://9gag.com/gag/aOQKnMv)
+ - 🚯 [To make modern art](http://9gag.com/gag/axBd8Xn)<!-- MEMES:END -->
 
 --- 
 
