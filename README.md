@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to use a Fitbit: A complete user’s guide](https://www.androidauthority.com/how-to-use-a-fitbit-3032281/)
- - [Apple M1 Pro and Max review: CPU and GPU improvements offer an unparalleled combination of raw performance, unique acceleration, and power efficiency (Andrei Frumusanu/AnandTech)](http://www.techmeme.com/211025/p34#a211025p34)
- - [Save $660 on the Surface Pro X, and more great Microsoft Surface deals](https://www.androidauthority.com/best-cheap-surface-pro-deals-1112075/)<!-- TECH:END -->
+ - [Facebook Reports Third Quarter 2021 Results (Facebook)](http://www.techmeme.com/211025/p36#a211025p36)
+ - [MacBook Pro review roundup: Doubling-down on the features users want](https://appleinsider.com/articles/21/10/25/macbook-pro-review-roundup-doubling-down-on-the-features-users-want?utm_medium=rss)
+ - [The Best Wireless Gaming Headsets for Every Kind of Player](https://www.wired.com/gallery/best-wireless-gaming-headsets)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
