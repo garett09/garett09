@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Leaked docs offer a blueprint for solving Facebook's problems: improve products by deprioritizing engagement, reduce AI reliance, focus on developing countries (Gilad Edelman/Wired)](http://www.techmeme.com/211025/p13#a211025p13)
- - [Here’s what Google says about Pixel 6 features coming to older Pixels](https://www.androidauthority.com/google-pixel-6-features-older-pixels-3045948/)
- - [Internal Facebook docs and interviews detail Mark Zuckerberg's decisions to prioritize growth over safety, including censoring "anti-state" posts in Vietnam (Washington Post)](http://www.techmeme.com/211025/p12#a211025p12)<!-- TECH:END -->
+ - [Halo Infinite’s new campaign trailer has Master Chief chasing Cortana](https://www.theverge.com/2021/10/25/22744558/halo-infinite-campaign-overview-preview-trailer-master-chief-xbox-series-x)
+ - [Thrasio, which aggregates third-party sellers on Amazon, raises $1B+ led by Silver Lake, source says at a $5B+ valuation (Crystal Tse/Bloomberg)](http://www.techmeme.com/211025/p20#a211025p20)
+ - [MacBook Pro (2021) hands-on: re-adding ports and removing the Touch Bar is welcome, miniLED display looks great, and 1080p webcam is an improvement (Nilay Patel/The Verge)](http://www.techmeme.com/211025/p19#a211025p19)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
