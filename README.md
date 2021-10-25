@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Time is a powerful construct](http://9gag.com/gag/amgNbPX)
- - 🚯 [Name this movie.](http://9gag.com/gag/arnvdjX)
- - 🚯 [I f*cking agree](http://9gag.com/gag/avApDbn)<!-- MEMES:END -->
+ - 🚖 [I f*cking agree](http://9gag.com/gag/avApDbn)
+ - 🚯 [Man just did a vocal warmup with 70k people in his hands....](http://9gag.com/gag/aegjPAj)
+ - 🚯 [Bet fanbois are average k-drama enjoyer](http://9gag.com/gag/a91bZeD)<!-- MEMES:END -->
 
 --- 
 
