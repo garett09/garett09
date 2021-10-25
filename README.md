@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How Frances Haugen maximized the impact of her leaked Facebook documents, rolling them out to WSJ and then broadening the circle to a large group of outlets (Ben Smith/New York Times)](http://www.techmeme.com/211025/p2#a211025p2)
  - [You told us: The choice between Pixel 6 and Galaxy S21 isn’t even close](https://www.androidauthority.com/galaxy-s21-pixel-6-poll-results-3044252/)
- - [Age of Empires IV Wants to Teach You a Lesson](https://www.wired.com/story/age-of-empires-iv)
- - [Redmi Note 11 series to pack faster charging than most flagships](https://www.androidauthority.com/redmi-note-11-120w-charging-3045872/)<!-- TECH:END -->
+ - [Age of Empires IV Wants to Teach You a Lesson](https://www.wired.com/story/age-of-empires-iv)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
