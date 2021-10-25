@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Facebook Reports Third Quarter 2021 Results (Facebook)](http://www.techmeme.com/211025/p36#a211025p36)
- - [MacBook Pro review roundup: Doubling-down on the features users want](https://appleinsider.com/articles/21/10/25/macbook-pro-review-roundup-doubling-down-on-the-features-users-want?utm_medium=rss)
- - [The Best Wireless Gaming Headsets for Every Kind of Player](https://www.wired.com/gallery/best-wireless-gaming-headsets)<!-- TECH:END -->
+ - [Federal Circuit sides with Apple, affirms ruling on Corephotonics patent](https://appleinsider.com/articles/21/10/25/federal-circuit-sides-with-apple-affirms-ruling-on-corephotonics-patent?utm_medium=rss)
+ - [Best Buy and Home Depot drop security cameras linked to Uyghur surveillance](https://www.theverge.com/2021/10/25/22745068/best-buy-home-depot-lorex-ezviz-uyghur-surveillance-sales-dji)
+ - [Facebook plans to spend $10B+ on AR and VR this year, including metaverse apps and related hardware, and report FRL segment separately starting in Q4 (Janko Roettgers/Protocol)](http://www.techmeme.com/211025/p38#a211025p38)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
