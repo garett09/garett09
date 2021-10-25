@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Nokia were little ahead of their time...](http://9gag.com/gag/aogEwO0)
- - 🚯 [Hello my frend..](http://9gag.com/gag/azegyYp)
+ - 🚖 [Check out this mixtape](http://9gag.com/gag/aWgQ5B6)
+ - 🚯 [Recruitment then&hellip; what about now?](http://9gag.com/gag/a11vg9v)
  - 🚯 [Text before calls, bruh.](http://9gag.com/gag/aWgQqRq)<!-- MEMES:END -->
 
 --- 
