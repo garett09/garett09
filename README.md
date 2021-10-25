@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [For train lovers served on the plate](http://9gag.com/gag/aegjw8b)
- - 🚯 [Check out this mixtape](http://9gag.com/gag/aWgQ5B6)
+ - 🚖 [There&rsquo;s a lesson in this](http://9gag.com/gag/amgNQVd)
+ - 🚯 [Look Ma, no hands ;](http://9gag.com/gag/a81LOPZ)
  - 🚯 [Text before calls, bruh.](http://9gag.com/gag/aWgQqRq)<!-- MEMES:END -->
 
 --- 
