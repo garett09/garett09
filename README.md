@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Black Friday 2021: the PC gaming deals you can expect in Australia](https://www.pcgamer.com/black-friday-2021-the-pc-gaming-deals-you-can-expect-in-australia)
- - [$7000 Evangelion Jackets Are Some Expensive Cosplay](https://kotaku.com/7000-evangelion-jackets-are-some-expensive-cosplay-1847926917)
- - [Minigame That Gave Kids 'Cuts, Blisters & Burns' Returns To Mario Party With A Warning](https://kotaku.com/minigame-that-gave-kids-cuts-blisters-burns-returns-1847926555)<!-- GAME:END -->
+ - [The cheapest way to pre-order Elden Ring in Australia](https://www.pcgamer.com/buy-elden-ring-pc)
+ - [Rumored Smash-style crossover game to star WB characters like Shaggy, Batman, and Gandalf](https://www.pcgamer.com/rumored-smash-style-crossover-game-to-star-wb-characters-like-shaggy-batman-and-gandalf)
+ - [Black Friday 2021: the PC gaming deals you can expect in Australia](https://www.pcgamer.com/black-friday-2021-the-pc-gaming-deals-you-can-expect-in-australia)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
