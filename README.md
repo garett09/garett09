@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [India-based Groww, which lets users invest in mutual funds, gold, stocks, and more, raises a $251M Series E led by Iconiq Growth, tripling its valuation to $3B (Manish Singh/TechCrunch)](http://www.techmeme.com/211024/p11#a211024p11)
  - [ProtonMail's parent company wins a Swiss court appeal confirming email services are not considered telcos and thus not subject to data retention requirements (Michael Shields/Reuters)](http://www.techmeme.com/211024/p10#a211024p10)
- - [Dune becomes Warner Bros. biggest opening of the pandemic     - CNET](https://www.cnet.com/news/dune-becomes-warner-bros-biggest-opening-of-the-pandemic/#ftag=CAD590a51e)
- - [James Michael Tyler, 'Gunther' in Friends, dies aged 59     - CNET](https://www.cnet.com/news/james-michael-tyler-gunther-in-friends-dies-aged-59/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Dune becomes Warner Bros. biggest opening of the pandemic     - CNET](https://www.cnet.com/news/dune-becomes-warner-bros-biggest-opening-of-the-pandemic/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
