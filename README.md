@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best Dungeons & Dragons campaign for beginners](https://www.polygon.com/tabletop-games/22745128/dungeons-dragons-best-campaign-curse-of-strahd-horror-beginners)
- - [The best PC games right now](https://www.pcgamer.com/best-pc-games)
- - [The tactile experience of playing Call of Duty: Vanguard on PS5](http://feedproxy.google.com/~r/PSBlog/~3/5GapoJrdlvw/)<!-- GAME:END -->
+ - [Pokémon Unite Hides Score To Stop Players From Rage Quitting, Devs Say](https://kotaku.com/pokemon-unite-hides-score-to-stop-players-from-rage-qui-1847931206)
+ - [Phasmophobia's Nightmare update delivers four new ghosts and a haunted campground](https://www.pcgamer.com/phasmophobias-nightmare-update-delivers-four-new-ghosts-and-a-haunted-campground)
+ - [Halo Infinite’s Craig, Once A Laughingstock, Now Looks Better Than Ever](https://kotaku.com/halo-infinite-s-craig-once-a-laughingstock-now-looks-1847930693)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
