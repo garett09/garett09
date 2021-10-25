@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Halo Infinite’s new campaign trailer has Master Chief chasing Cortana](https://www.theverge.com/2021/10/25/22744558/halo-infinite-campaign-overview-preview-trailer-master-chief-xbox-series-x)
- - [Thrasio, which aggregates third-party sellers on Amazon, raises $1B+ led by Silver Lake, source says at a $5B+ valuation (Crystal Tse/Bloomberg)](http://www.techmeme.com/211025/p20#a211025p20)
- - [MacBook Pro (2021) hands-on: re-adding ports and removing the Touch Bar is welcome, miniLED display looks great, and 1080p webcam is an improvement (Nilay Patel/The Verge)](http://www.techmeme.com/211025/p19#a211025p19)<!-- TECH:END -->
+ - [Smart home ramifications of Apple's Unleashed event on HomeKit Insider](https://appleinsider.com/articles/21/10/25/smart-home-ramifications-of-apples-unleashed-event-on-homekit-insider?utm_medium=rss)
+ - [Tesla doesn’t want anyone to see its response to the Autopilot investigation](https://www.theverge.com/2021/10/25/22744629/tesla-autopilot-secret-response-nhtsa-investigation)
+ - [NYT reporter details being attacked by Pegasus malware](https://appleinsider.com/articles/21/10/25/nyt-reporter-details-being-attacked-by-pegasus-malware?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
