@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Good start bad end](http://9gag.com/gag/ay97An8)
- - 🚯 [Judas, My time is almost over](http://9gag.com/gag/adg0Wzj)
+ - 🚖 [Little exercise to keep you fit](http://9gag.com/gag/aM426yR)
+ - 🚯 [The octopus just wants to play...](http://9gag.com/gag/aogE6wA)
  - 🚯 [Within minutes of being put in a jar, Octopus figures out how to remove the lid to get outside.](http://9gag.com/gag/a41K89y)<!-- MEMES:END -->
 
 --- 
