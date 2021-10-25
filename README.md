@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Mario Party Superstars resurrects palm-shredding minigame from 1998](https://www.polygon.com/22745502/mario-party-superstars-tug-o-war-warning-minigame-palm-stick)
- - [What It's Like To Voice My Hero Academia From Home, According To The Actors](https://kotaku.com/what-its-like-to-voice-my-hero-academia-from-home-acco-1847931819)
- - [God of War PC port isn't being developed by Sony](https://www.pcgamer.com/god-of-war-pc-port-isnt-being-developed-by-sony)<!-- GAME:END -->
+ - [Horizon Forbidden West developers share details on new tools, weapons, and climbing mechanics](https://www.polygon.com/22745047/horizon-forbidden-west-new-details-playstation-5-guerilla-zelda-pullcaster-shieldwing)
+ - [A Wu-Tang Clan action-RPG is rumored to be in development](https://www.pcgamer.com/a-wu-tang-clan-action-rpg-is-rumored-to-be-in-development)
+ - [GTA Trilogy Trailer Removes Confederate Flag](https://kotaku.com/gta-trilogy-trailer-removes-confederate-flag-1847932484)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
