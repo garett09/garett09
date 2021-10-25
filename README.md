@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I love cox](http://9gag.com/gag/avApBdZ)
- - 🚯 [Any advice?](http://9gag.com/gag/angq3X5)
- - 🚯 [Sometimes it&#039;d be like that](http://9gag.com/gag/aXr0mRz)<!-- MEMES:END -->
+ - 🚖 [Good start bad end](http://9gag.com/gag/ay97An8)
+ - 🚯 [Judas, My time is almost over](http://9gag.com/gag/adg0Wzj)
+ - 🚯 [Within minutes of being put in a jar, Octopus figures out how to remove the lid to get outside.](http://9gag.com/gag/a41K89y)<!-- MEMES:END -->
 
 --- 
 
