@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [MacBook Pro preorders slip to late November, December ahead of release](https://appleinsider.com/articles/21/10/25/macbook-pro-preorders-slip-to-late-november-december-ahead-of-release?utm_medium=rss)
  - [India-based Groww, which lets users invest in mutual funds, gold, stocks, and more, raises a $251M Series E led by Iconiq Growth, tripling its valuation to $3B (Manish Singh/TechCrunch)](http://www.techmeme.com/211024/p11#a211024p11)
- - [ProtonMail's parent company wins a Swiss court appeal confirming email services are not considered telcos and thus not subject to data retention requirements (Michael Shields/Reuters)](http://www.techmeme.com/211024/p10#a211024p10)
- - [Dune becomes Warner Bros. biggest opening of the pandemic     - CNET](https://www.cnet.com/news/dune-becomes-warner-bros-biggest-opening-of-the-pandemic/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Succession season 3, episode 2 recap: Snake linguine     - CNET](https://www.cnet.com/news/succession-season-3-episode-2-recap-snake-linguine/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
