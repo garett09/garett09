@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Let’s break down that Halo Infinite campaign trailer](https://www.polygon.com/22744753/halo-infinite-campaign-trailer-master-chief-cortana-abilities-map-bases-experience)
- - [EA Sports enlists world’s oldest football club to curb bad behavior](https://www.polygon.com/22745012/fifa-22-ragequit-foat-code-sheffield-fc-online-play-toxic)
- - [Dark Souls 3 Streamer Blows Minds By Beating Game With Single Button](https://kotaku.com/dark-souls-3-streamer-blows-minds-by-beating-game-with-1847929456)<!-- GAME:END -->
+ - [The best Dungeons & Dragons campaign for beginners](https://www.polygon.com/tabletop-games/22745128/dungeons-dragons-best-campaign-curse-of-strahd-horror-beginners)
+ - [The best PC games right now](https://www.pcgamer.com/best-pc-games)
+ - [The tactile experience of playing Call of Duty: Vanguard on PS5](http://feedproxy.google.com/~r/PSBlog/~3/5GapoJrdlvw/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
