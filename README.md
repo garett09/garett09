@@ -193,7 +193,7 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Do it. .very slowly](http://9gag.com/gag/amgNK36)
+ - 🚖 [Am I a robot? Can&#039;t tell the difference.](http://9gag.com/gag/aegjq6B)
  - 🚯 [-la bummmmm-](http://9gag.com/gag/aYrNZRm)
  - 🚯 [You know it is true.](http://9gag.com/gag/a91bZZ1)<!-- MEMES:END -->
 
