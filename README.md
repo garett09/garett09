@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Am I a robot? Can&#039;t tell the difference.](http://9gag.com/gag/aegjq6B)
- - 🚯 [-la bummmmm-](http://9gag.com/gag/aYrNZRm)
- - 🚯 [You know it is true.](http://9gag.com/gag/a91bZZ1)<!-- MEMES:END -->
+ - 🚖 [You know it is true.](http://9gag.com/gag/a91bZZ1)
+ - 🚯 [Am I a robot? Can&#039;t tell the difference.](http://9gag.com/gag/aegjq6B)
+ - 🚯 [Having this kind of friend and friendship is no less than heaven. He&#039;s really a lucky guy. Be there for your friends whenever they need :)](http://9gag.com/gag/a91b4p1)<!-- MEMES:END -->
 
 --- 
 
