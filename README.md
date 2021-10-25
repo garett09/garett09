@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Uhuuuu](http://9gag.com/gag/aGzYqQ7)
- - 🚯 [I got scared of it](http://9gag.com/gag/aQXPK0e)
- - 🚯 [This race looks intense!](http://9gag.com/gag/aDDAL6Z)<!-- MEMES:END -->
+ - 🚖 [I got scared of it](http://9gag.com/gag/aQXPK0e)
+ - 🚯 [This race looks intense!](http://9gag.com/gag/aDDAL6Z)
+ - 🚯 [Hello my frend..](http://9gag.com/gag/azegyYp)<!-- MEMES:END -->
 
 --- 
 
