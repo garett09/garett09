@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Little exercise to keep you fit](http://9gag.com/gag/aM426yR)
- - 🚯 [Just putting on his music before starting his workout when suddenly...](http://9gag.com/gag/aOQKnMv)
- - 🚯 [To make modern art](http://9gag.com/gag/axBd8Xn)<!-- MEMES:END -->
+ - 🚖 [Uhuuuu](http://9gag.com/gag/aGzYqQ7)
+ - 🚯 [Little exercise to keep you fit](http://9gag.com/gag/aM426yR)
+ - 🚯 [Yeah, sex is ok, but have you ever..](http://9gag.com/gag/amgNQYy)<!-- MEMES:END -->
 
 --- 
 
