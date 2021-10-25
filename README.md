@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple's tvOS 15.1 is now available for Apple TV](https://appleinsider.com/articles/21/10/25/apples-tvos-151-is-now-available-for-apple-tv?utm_medium=rss)
- - [Apple issues watchOS 8.1 update for Apple Watch](https://appleinsider.com/articles/21/10/25/apple-issues-watchos-81-update-for-apple-watch?utm_medium=rss)
- - [Apple releases macOS Monterey with Shortcuts and Live Text](https://appleinsider.com/articles/21/10/25/apple-releases-macos-monterey-with-shortcuts-and-live-text?utm_medium=rss)<!-- TECH:END -->
+ - [AirPods 3 review roundup: Better sound and fit despite lack of 'Pro' features](https://appleinsider.com/articles/21/10/25/airpods-3-review-roundup-better-sound-and-fit-despite-lack-of-pro-features?utm_medium=rss)
+ - [MacBook Pro review roundup: Doubling-down on the features users want](https://appleinsider.com/articles/21/10/25/macbook-pro-review-roundup-doubling-down-on-the-features-users-want?utm_medium=rss)
+ - [Tesla’s value briefly passed $1 trillion after Hertz ordered 100,000 of its vehicles](https://www.theverge.com/2021/10/25/22744504/hertz-tesla-order-100000-vehicles-electrify-fleet)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
