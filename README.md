@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Horizon Forbidden West: Master Aloy’s new abilities](http://feedproxy.google.com/~r/PSBlog/~3/r_lRekbk-wk/)
- - [Horizon Forbidden West: Master Aloy’s new abilities](https://blog.playstation.com/2021/10/25/horizon-forbidden-west-master-aloys-new-abilities/)
- - [Halo Infinite – Campaign Overview](https://news.xbox.com/en-us/2021/10/25/halo-infinite-campaign-overview/)<!-- GAME:END -->
+ - [As a Persona player, Shin Megami Tensei 5 felt dark, challenging, and intriguing](https://www.polygon.com/22741033/shin-megami-tensei-5-atlus-persona-preview)
+ - [Halo Infinite’s campaign trailer shows a more open Master Chief adventure](https://www.polygon.com/22744617/halo-infinite-campaign-trailer-skills-open-world)
+ - [Halo Infinite's Campaign Finally Re-Revealed, And It's Looking Much Better](https://kotaku.com/halo-infinites-campaign-finally-re-revealed-and-its-lo-1847927849)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
