@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I got scared of it](http://9gag.com/gag/aQXPK0e)
- - 🚯 [This race looks intense!](http://9gag.com/gag/aDDAL6Z)
- - 🚯 [Hello my frend..](http://9gag.com/gag/azegyYp)<!-- MEMES:END -->
+ - 🚖 [Nokia were little ahead of their time...](http://9gag.com/gag/aogEwO0)
+ - 🚯 [Hello my frend..](http://9gag.com/gag/azegyYp)
+ - 🚯 [Text before calls, bruh.](http://9gag.com/gag/aWgQqRq)<!-- MEMES:END -->
 
 --- 
 
