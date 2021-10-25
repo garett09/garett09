@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Horizon Forbidden West developers share details on new tools, weapons, and climbing mechanics](https://www.polygon.com/22745047/horizon-forbidden-west-new-details-playstation-5-guerilla-zelda-pullcaster-shieldwing)
- - [A Wu-Tang Clan action-RPG is rumored to be in development](https://www.pcgamer.com/a-wu-tang-clan-action-rpg-is-rumored-to-be-in-development)
- - [GTA Trilogy Trailer Removes Confederate Flag](https://kotaku.com/gta-trilogy-trailer-removes-confederate-flag-1847932484)<!-- GAME:END -->
+ - [Faze Clan Going Public In Deal That Is Somehow Worth $1 Billion](https://kotaku.com/faze-clan-going-public-in-deal-that-is-somehow-worth-1-1847933169)
+ - [How to refer a friend in Fortnite](https://www.pcgamer.com/refer-friend-fortnite)
+ - [Battlefield 2042 introduces non-binary character, a first for the series](https://www.pcgamer.com/battlefield-2042-introduces-non-binary-character-a-first-for-the-series)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
