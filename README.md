@@ -195,7 +195,7 @@ Windows                  3 hrs 9 mins        ███████████�
 <!-- MEMES:START -->
  - 🚖 [Time is a powerful construct](http://9gag.com/gag/amgNbPX)
  - 🚯 [Name this movie.](http://9gag.com/gag/arnvdjX)
- - 🚯 [Man just did a vocal warmup with 70k people in his hands....](http://9gag.com/gag/aegjPAj)<!-- MEMES:END -->
+ - 🚯 [I f*cking agree](http://9gag.com/gag/avApDbn)<!-- MEMES:END -->
 
 --- 
 
