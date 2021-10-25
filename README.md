@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I f*cking agree](http://9gag.com/gag/avApDbn)
- - 🚯 [Man just did a vocal warmup with 70k people in his hands....](http://9gag.com/gag/aegjPAj)
- - 🚯 [Bet fanbois are average k-drama enjoyer](http://9gag.com/gag/a91bZeD)<!-- MEMES:END -->
+ - 🚖 [Do it. .very slowly](http://9gag.com/gag/amgNK36)
+ - 🚯 [-la bummmmm-](http://9gag.com/gag/aYrNZRm)
+ - 🚯 [You know it is true.](http://9gag.com/gag/a91bZZ1)<!-- MEMES:END -->
 
 --- 
 
