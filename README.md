@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Smart home ramifications of Apple's Unleashed event on HomeKit Insider](https://appleinsider.com/articles/21/10/25/smart-home-ramifications-of-apples-unleashed-event-on-homekit-insider?utm_medium=rss)
- - [Tesla doesn’t want anyone to see its response to the Autopilot investigation](https://www.theverge.com/2021/10/25/22744629/tesla-autopilot-secret-response-nhtsa-investigation)
- - [NYT reporter details being attacked by Pegasus malware](https://appleinsider.com/articles/21/10/25/nyt-reporter-details-being-attacked-by-pegasus-malware?utm_medium=rss)<!-- TECH:END -->
+ - [Best Deals Oct. 25: $780 refurb 2020 12.9-inch iPad Pro, $600 off HiFiMan Over-Ear Headphones, and more!](https://appleinsider.com/articles/21/10/25/best-deals-oct-25-780-refurb-2020-129-inch-ipad-pro-600-off-hifiman-over-ear-headphones-and-more?utm_medium=rss)
+ - [Zoom now has auto-generated captions available for free accounts](https://www.theverge.com/2021/10/25/22744704/zoom-auto-generated-captions-available-free-accounts-accessibility)
+ - [Poll: What should be the next Google Pixel product?](https://www.androidauthority.com/next-google-pixel-product-poll-3045932/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
