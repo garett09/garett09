@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Judas, My time is almost over](http://9gag.com/gag/adg0Wzj)
- - 🚯 [That fog is THICK boyyyyy](http://9gag.com/gag/adg0W2M)
- - 🚯 [I love cox](http://9gag.com/gag/avApBdZ)<!-- MEMES:END -->
+ - 🚖 [I love cox](http://9gag.com/gag/avApBdZ)
+ - 🚯 [Any advice?](http://9gag.com/gag/angq3X5)
+ - 🚯 [Sometimes it&#039;d be like that](http://9gag.com/gag/aXr0mRz)<!-- MEMES:END -->
 
 --- 
 
