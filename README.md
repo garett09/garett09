@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Starbucks.](http://9gag.com/gag/aAGRqw2)
- - 🚯 [Time is a powerful construct](http://9gag.com/gag/amgNbPX)
- - 🚯 [Canadian Family with 6 girls](http://9gag.com/gag/aGzYbGG)<!-- MEMES:END -->
+ - 🚖 [Time is a powerful construct](http://9gag.com/gag/amgNbPX)
+ - 🚯 [Name this movie.](http://9gag.com/gag/arnvdjX)
+ - 🚯 [Man just did a vocal warmup with 70k people in his hands....](http://9gag.com/gag/aegjPAj)<!-- MEMES:END -->
 
 --- 
 
