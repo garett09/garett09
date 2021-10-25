@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [MacBook Pro preorders slip to late November, December ahead of release](https://appleinsider.com/articles/21/10/25/macbook-pro-preorders-slip-to-late-november-december-ahead-of-release?utm_medium=rss)
- - [India-based Groww, which lets users invest in mutual funds, gold, stocks, and more, raises a $251M Series E led by Iconiq Growth, tripling its valuation to $3B (Manish Singh/TechCrunch)](http://www.techmeme.com/211024/p11#a211024p11)
- - [Succession season 3, episode 2 recap: Snake linguine     - CNET](https://www.cnet.com/news/succession-season-3-episode-2-recap-snake-linguine/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Blue Apron review: How the original meal kit service holds up in 2021     - CNET](https://www.cnet.com/health/nutrition/blue-apron-review/#ftag=CAD590a51e)
+ - [The secret Avengers video game the world never got to play     - CNET](https://www.cnet.com/features/secret-avengers-video-game-the-world-never-got-to-play/#ftag=CAD590a51e)
+ - [The Netflix anime everyone should watch     - CNET](https://www.cnet.com/news/the-netflix-anime-everyone-should-watch/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
