@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Is Dave Chapelle cancelled??!](http://9gag.com/gag/aE8vNv9)
- - 🚯 [Armed Thug (knife) Tries To Intimidate Security Guard](http://9gag.com/gag/avApD75)
- - 🚯 [Time is a powerful construct](http://9gag.com/gag/amgNbPX)<!-- MEMES:END -->
+ - 🚖 [Starbucks.](http://9gag.com/gag/aAGRqw2)
+ - 🚯 [Time is a powerful construct](http://9gag.com/gag/amgNbPX)
+ - 🚯 [Canadian Family with 6 girls](http://9gag.com/gag/aGzYbGG)<!-- MEMES:END -->
 
 --- 
 
