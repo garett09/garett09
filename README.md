@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [You Can Change Your Overwatch Battletag For Free Thanks To McCree](https://kotaku.com/you-can-change-your-overwatch-battletag-for-free-thanks-1847931788)
- - [Everything we know about Dune 2](https://www.polygon.com/22745107/dune-2-release-date-cast)
- - [Brendan Fraser is joining DC’s Batgirl movie as a villain](https://www.polygon.com/22745357/brendan-fraser-batgirl-cast-firefly-movie-villain)<!-- GAME:END -->
+ - [Mario Party Superstars resurrects palm-shredding minigame from 1998](https://www.polygon.com/22745502/mario-party-superstars-tug-o-war-warning-minigame-palm-stick)
+ - [What It's Like To Voice My Hero Academia From Home, According To The Actors](https://kotaku.com/what-its-like-to-voice-my-hero-academia-from-home-acco-1847931819)
+ - [God of War PC port isn't being developed by Sony](https://www.pcgamer.com/god-of-war-pc-port-isnt-being-developed-by-sony)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
