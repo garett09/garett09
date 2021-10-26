@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It aint much but its mine. Bougth it last year](http://9gag.com/gag/aPZwK4K)
- - 🚯 [That&#039;s how it is unfortunately](http://9gag.com/gag/aM42gwG)
+ - 🚖 [Oh, you wanna get some sleep? Let me sing you the song of my people](http://9gag.com/gag/angq6gE)
+ - 🚯 [Pillar men theme intensifies](http://9gag.com/gag/a31PVj8)
  - 🚯 [Text before calls, bruh.](http://9gag.com/gag/aWgQqRq)<!-- MEMES:END -->
 
 --- 
