@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Disney made a new Avengers show but you’ll have to take a cruise to see it](https://www.polygon.com/22746704/disney-wish-avengers-quantom-encounter)
- - [Before You Start: Tips For Playing Guardians Of The Galaxy](https://kotaku.com/before-you-start-tips-for-playing-guardians-of-the-gal-1847937689)
- - [If Luigi’s Mansion was on Game Boy Color, it’d be Tres-Bashers](https://www.polygon.com/22746850/tres-bashers-luigis-mansion-game-boy-color)<!-- GAME:END -->
+ - [Returnal’s latest update fixes the game’s biggest problem](https://www.polygon.com/22747000/returnal-save-game-update)
+ - [The biggest sin you can commit in horror movies is being curious](https://www.polygon.com/22726675/be-curious-not-judgmental-horror-movies)
+ - [Duncan Idaho’s name is the most meme-able part of Dune](https://www.polygon.com/22745419/duncan-idaho-dune-film-fan-reception-social-media-memes)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
