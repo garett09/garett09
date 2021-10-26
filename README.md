@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Let me threaten, push and scream stuff to see what happens.](http://9gag.com/gag/adg0Do9)
- - 🚯 [Bees are our friends...wasps on the other hand are complete jerks.](http://9gag.com/gag/aWgQrqZ)
+ - 🚖 [Guy absolutely obliterates &#039;Wipeout&#039; style course](http://9gag.com/gag/ajgYzDw)
+ - 🚯 [Never, never, never give up.](http://9gag.com/gag/aPZwbdG)
  - 🚯 [Text before calls, bruh.](http://9gag.com/gag/aWgQqRq)<!-- MEMES:END -->
 
 --- 
