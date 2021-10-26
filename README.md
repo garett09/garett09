@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pixelmator Pro 2.2 launched with Shortcuts, M1 Max support](https://appleinsider.com/articles/21/10/26/pixelmator-pro-22-launched-with-shortcuts-m1-max-support?utm_medium=rss)
- - [Honor 50 series launched in China (Updated: Now available globally)](https://www.androidauthority.com/honor-50-series-1235755/)
- - [macOS 12 Monterey review: automation on Mac is revitalized with Shortcuts, Low Power Mode is nice, and it's packed with tons of small tweaks like AirPlay to Mac (Andrew Cunningham/Ars Technica)](http://www.techmeme.com/211026/p2#a211026p2)<!-- TECH:END -->
+ - [In 'Termination Shock,' Neal Stephenson Finally Takes on Global Warming](https://www.wired.com/story/sci-fi-icon-neal-stephenson-global-warming)
+ - [Docs: Facebook tested turning off News Feed ranking for 0.05% of users in Feb. 2018 and found engagement dropped, Groups content rose, and ad views increased (Alex Kantrowitz/Big Technology)](http://www.techmeme.com/211026/p3#a211026p3)
+ - [Pixelmator Pro 2.2 launched with Shortcuts, M1 Max support](https://appleinsider.com/articles/21/10/26/pixelmator-pro-22-launched-with-shortcuts-m1-max-support?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
