@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Returnal 2.0 update brings Suspend Cycle and Photo Mode](http://feedproxy.google.com/~r/PSBlog/~3/gZ9WR07UbSc/)
- - [Returnal 2.0 update brings Suspend Cycle and Photo Mode](https://blog.playstation.com/2021/10/26/returnal-2-0-update-brings-suspend-cycle-and-photo-mode/)
- - [Final Fantasy's creator is addicted to Final Fantasy 14](https://www.pcgamer.com/final-fantasys-creator-is-addicted-to-final-fantasy-14)<!-- GAME:END -->
+ - [Discover why even the dead are terrified in Wraith: The Oblivion – Afterlife](https://blog.playstation.com/2021/10/26/discover-why-even-the-dead-are-terrified-in-wraith-the-oblivion-afterlife/)
+ - [How to get the Cube Queen in Fortnite](https://www.pcgamer.com/cube-queen-fortnite)
+ - [Pimax's next-gen VR headset boasts 12K PC VR and the Quest 2's portable power](https://www.pcgamer.com/pimax-reality-12k-qled-vr-headset-announcement-discounts)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
