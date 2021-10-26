@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Returnal’s latest update fixes the game’s biggest problem](https://www.polygon.com/22747000/returnal-save-game-update)
- - [The biggest sin you can commit in horror movies is being curious](https://www.polygon.com/22726675/be-curious-not-judgmental-horror-movies)
- - [Duncan Idaho’s name is the most meme-able part of Dune](https://www.polygon.com/22745419/duncan-idaho-dune-film-fan-reception-social-media-memes)<!-- GAME:END -->
+ - [The Halloween Countdown: 31 days of horror](https://www.polygon.com/22702474/best-halloween-movies-tv-to-watch-stream)
+ - [Everything we know about Dune 2](https://www.polygon.com/22745107/dune-2-release-date-cast)
+ - [Riders Republic is already something special](https://www.polygon.com/reviews/22745542/riders-republic-pre-review-pc-xbox-ps4)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
