@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy A02s review: Rock-bottom price, limited ambitions](https://www.androidauthority.com/samsung-galaxy-a02s-review-3036649/)
- - [Everything you need to know about color gamuts: sRGB, DCI-P3, Rec. 2020, more](https://www.androidauthority.com/color-gamuts-guide-3035782/)
- - [Facebook hires Britney Spears’ lawyer to fight an upcoming TV show](https://www.theverge.com/2021/10/25/22745525/facebook-britney-spears-lawyer-doomsday-machine)<!-- TECH:END -->
+ - [Sources: US Treasury to give considerable concessions to the SEC for regulating stablecoins like Tether in a report expected later this week (Bloomberg)](http://www.techmeme.com/211025/p40#a211025p40)
+ - [Snap, TikTok and YouTube to testify at Congress: How to Watch on Tuesday     - CNET](https://www.cnet.com/news/snap-tiktok-and-youtube-to-visit-congress-how-to-watch-on-tuesday/#ftag=CAD590a51e)
+ - ['Apple Watch Pro' branding revealed in 2015 demo unit](https://appleinsider.com/articles/21/10/26/apple-watch-pro-branding-revealed-in-2015-demo-unit?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
