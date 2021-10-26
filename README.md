@@ -194,7 +194,7 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Anime in Japan vs real life in Japan](http://9gag.com/gag/aegjnqO)
- - 🚯 [Ummm ahhh.. well you see... haha nevermind](http://9gag.com/gag/a81LR8V)
+ - 🚯 [More!](http://9gag.com/gag/abgXN78)
  - 🚯 [Text before calls, bruh.](http://9gag.com/gag/aWgQqRq)<!-- MEMES:END -->
 
 --- 
