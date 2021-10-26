@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Catfish of the year](http://9gag.com/gag/a31P6nN)
- - 🚯 [Guy absolutely obliterates &#039;Wipeout&#039; style course](http://9gag.com/gag/ajgYzDw)
+ - 🚖 [Panderp](http://9gag.com/gag/ajgYzBG)
+ - 🚯 [How it feel&#039;s to be 25...](http://9gag.com/gag/a31P6Q5)
  - 🚯 [Text before calls, bruh.](http://9gag.com/gag/aWgQqRq)<!-- MEMES:END -->
 
 --- 
