@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Arkane on creating Deathloop’s unique PvP](http://feedproxy.google.com/~r/PSBlog/~3/Bm7O1xIftMM/)
- - [Arkane on creating Deathloop’s unique PvP](https://blog.playstation.com/2021/10/26/arkane-on-creating-deathloops-unique-pvp/)
- - [Summer lives on in this game inspired by a Greek water nymph](https://www.polygon.com/22744747/shadow-of-the-colossus-greek-mythology-water-nymph-low-poly-racing-game)<!-- GAME:END -->
+ - [Disney made a new Avengers show but you’ll have to take a cruise to see it](https://www.polygon.com/22746704/disney-wish-avengers-quantom-encounter)
+ - [Before You Start: Tips For Playing Guardians Of The Galaxy](https://kotaku.com/before-you-start-tips-for-playing-guardians-of-the-gal-1847937689)
+ - [If Luigi’s Mansion was on Game Boy Color, it’d be Tres-Bashers](https://www.polygon.com/22746850/tres-bashers-luigis-mansion-game-boy-color)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
