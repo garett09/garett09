@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nintendo 64 games on Nintendo Switch are not too up to snuff](https://www.theverge.com/2021/10/26/22746897/nintendo-switch-online-n64-emulation-quality-bad)
- - [DJI leak shows unreleased Mavic 3 Cine drone from pretty much every angle](https://www.theverge.com/2021/10/26/22747261/dji-mavic-3-drone-cine-edition-leak-fly-more-november-controller)
- - [This AI Predicts How Old Children Are. Can It Keep Them Safe?](https://www.wired.com/story/ai-predicts-how-old-children-are)<!-- TECH:END -->
+ - [Hands on: Should you buy the Nike or standard aluminum Apple Watch Series 7](https://appleinsider.com/articles/21/10/26/hands-on-should-you-buy-the-nike-or-standard-aluminum-apple-watch-series-7?utm_medium=rss)
+ - [All 24 Pixar movies ranked, from worst to best     - CNET](https://www.cnet.com/news/all-24-pixar-movies-ranked-from-worst-to-best/#ftag=CAD590a51e)
+ - [Motorola Moto G Power (2021) review: Budget battery behemoth](https://www.androidauthority.com/motorola-moto-g-power-review-3027235/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
