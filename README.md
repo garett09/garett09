@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Typical black trans lefty lmao](http://9gag.com/gag/a61mR4N)
- - 🚯 [Look Ma, no hands ;](http://9gag.com/gag/a81LOPZ)
+ - 🚖 [Funny and true](http://9gag.com/gag/apgEZoB)
+ - 🚯 [For train lovers served on the plate](http://9gag.com/gag/aegjw8b)
  - 🚯 [Text before calls, bruh.](http://9gag.com/gag/aWgQqRq)<!-- MEMES:END -->
 
 --- 
