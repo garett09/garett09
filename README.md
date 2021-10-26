@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Switzerland-based Yokoy, which offers AI tools to manage travel expenses, raises $26M led by Left Lane Capital, source says at a $100M valuation (Eyk Henning/Bloomberg)](http://www.techmeme.com/211026/p8#a211026p8)
- - [Nigerian startup Autochek, which offers a marketplace for car sales, raises a $13.1M seed, following a $3.4M pre-seed in November 2020 (Tage Kene-Okafor/TechCrunch)](http://www.techmeme.com/211026/p7#a211026p7)
- - [These Are the 9 Android Phones Worth Buying](https://www.wired.com/gallery/best-android-phones)<!-- TECH:END -->
+ - [Satellites Can Spy a Menace in West Africa: Invasive Flowers](https://www.wired.com/story/satellites-can-spy-a-menace-in-west-africa-invasive-flowers)
+ - [Facebook documents show its News Feed algorithm treated emoji reactions as 5x more valuable than Likes starting in 2017, amplifying controversial content (Washington Post)](http://www.techmeme.com/211026/p16#a211026p16)
+ - [A look at the Integrity Institute, a think tank formed by two former Facebook employees that wants to bring together tech integrity workers studying tech misuse (Issie Lapowsky/Protocol)](http://www.techmeme.com/211026/p15#a211026p15)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
