@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Blizzard will ‘pause’ plans for an online BlizzCon event in 2022](https://www.theverge.com/2021/10/26/22746780/blizzard-blizzcon-harassment-cancel-warcraft-overwatch-blizzconline)
- - [Logitech's C920x webcam is $60 on Amazon right now     - CNET](https://www.cnet.com/tech/computing/logitechs-c920x-webcam-is-60-on-amazon-right-now/#ftag=CAD590a51e)
- - [Apple's AirPods 3 vs. AirPods Pro: Every spec and feature compared     - CNET](https://www.cnet.com/tech/mobile/apples-airpods-3-vs-airpods-pro-every-spec-and-feature-compared/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Alphabet Announces Third Quarter 2021 Results (Alphabet)](http://www.techmeme.com/211026/p39#a211026p39)
+ - [Microsoft Cloud Strength Drives First Quarter Results (Microsoft)](http://www.techmeme.com/211026/p38#a211026p38)
+ - [Pilot straps a Pixel 6 Pro to his drone and the results are pretty awesome](https://www.androidauthority.com/google-pixel-6-pro-drone-3047121/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
