@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [An hour later](http://9gag.com/gag/a91bgVj)
- - 🚯 [This food truck has a golden retriever that comes out and delivers the snacks..](http://9gag.com/gag/aM42LjX)
+ - 🚖 [Let me threaten, push and scream stuff to see what happens.](http://9gag.com/gag/adg0Do9)
+ - 🚯 [Bees are our friends...wasps on the other hand are complete jerks.](http://9gag.com/gag/aWgQrqZ)
  - 🚯 [Text before calls, bruh.](http://9gag.com/gag/aWgQqRq)<!-- MEMES:END -->
 
 --- 
