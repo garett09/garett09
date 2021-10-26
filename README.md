@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Study: the top 10K individual bitcoin investors control about one-third of the cryptocurrency in circulation and ~50 miners control 50% of the mining capacity (Emily Graffeo/Bloomberg)](http://www.techmeme.com/211026/p1#a211026p1)
- - [You told us: You prefer one leaked Galaxy S22 Ultra design over the others](https://www.androidauthority.com/galaxy-s22-ultra-design-poll-results-3046554/)
- - [Apple's M1 Max bests AMD Radeon Pro W6900X in Affinity GPU benchmark](https://appleinsider.com/articles/21/10/26/apples-m1-max-bests-amd-radeon-pro-w6900x-in-affinity-gpu-benchmark?utm_medium=rss)<!-- TECH:END -->
+ - ['Apple Watch Pro' branding revealed in 2015 demo unit](https://appleinsider.com/articles/21/10/26/apple-watch-pro-branding-revealed-in-2015-demo-unit?utm_medium=rss)
+ - ['iPhone SE Plus' with 5G rumored to arrive in 2022, larger-screen 'iPhone SE 3' in 2024](https://appleinsider.com/articles/21/10/26/iphone-se-plus-with-5g-rumored-to-arrive-in-2022-larger-screen-iphone-se-3-in-2024?utm_medium=rss)
+ - [Applications open for next Apple Entrepreneur Camp](https://appleinsider.com/articles/21/10/26/applications-open-for-next-apple-entrepreneur-camp?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
