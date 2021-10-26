@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sony Xperia Pro-I debuts with a big main camera and a price tag to match](https://www.androidauthority.com/sony-xperia-pro-i-3046527/)
  - [Early 14- and 16-inch MacBook Pro orders begin to arrive](https://appleinsider.com/articles/21/10/26/early-14--and-16-inch-macbook-pro-orders-begin-to-arrive?utm_medium=rss)
- - [Apple's M1 Max bests AMD Radeon Pro W6900X in Affinity GPU benchmark](https://appleinsider.com/articles/21/10/26/apples-m1-max-bests-amd-radeon-pro-w6900x-in-affinity-gpu-benchmark?utm_medium=rss)
- - [The $1,800 Sony Xperia Pro-I phone has a one-inch camera sensor and a dual-aperture     - CNET](https://www.cnet.com/tech/mobile/the-1800-sony-xperia-pro-i-phone-has-a-one-inch-camera-sensor-and-a-dual-aperture/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple's M1 Max bests AMD Radeon Pro W6900X in Affinity GPU benchmark](https://appleinsider.com/articles/21/10/26/apples-m1-max-bests-amd-radeon-pro-w6900x-in-affinity-gpu-benchmark?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
