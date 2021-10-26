@@ -186,8 +186,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony Xperia Pro-I debuts with a big main camera and a price tag to match](https://www.androidauthority.com/sony-xperia-pro-i-3046527/)
- - [Early 14- and 16-inch MacBook Pro orders begin to arrive](https://appleinsider.com/articles/21/10/26/early-14--and-16-inch-macbook-pro-orders-begin-to-arrive?utm_medium=rss)
+ - [Study: the top 10K individual bitcoin investors control about one-third of the cryptocurrency in circulation and ~50 miners control 50% of the mining capacity (Emily Graffeo/Bloomberg)](http://www.techmeme.com/211026/p1#a211026p1)
+ - [You told us: You prefer one leaked Galaxy S22 Ultra design over the others](https://www.androidauthority.com/galaxy-s22-ultra-design-poll-results-3046554/)
  - [Apple's M1 Max bests AMD Radeon Pro W6900X in Affinity GPU benchmark](https://appleinsider.com/articles/21/10/26/apples-m1-max-bests-amd-radeon-pro-w6900x-in-affinity-gpu-benchmark?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
