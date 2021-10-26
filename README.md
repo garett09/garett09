@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Frances Haugen told UK MPs that Facebook is "unquestionably making hate worse", and warns that Instagram is "more dangerous than other forms of social media" (BBC)](http://www.techmeme.com/211025/p43#a211025p43)
- - [Zuckerberg says he's redirected Facebook teams to serve young adults over older users, and that significant changes to Instagram will lean into video and Reels (Jacob Kastrenakes/The Verge)](http://www.techmeme.com/211025/p42#a211025p42)
- - ['iPhone SE Plus' with 5G rumored to arrive in 2022, larger-screen 'iPhone SE 3' in 2024](https://appleinsider.com/articles/21/10/26/iphone-se-plus-with-5g-rumored-to-arrive-in-2022-larger-screen-iphone-se-3-in-2024?utm_medium=rss)<!-- TECH:END -->
+ - [The $1,800 Sony Xperia Pro-I phone has a one-inch camera sensor and a dual-aperture     - CNET](https://www.cnet.com/tech/mobile/the-1800-sony-xperia-pro-i-phone-has-a-one-inch-camera-sensor-and-a-dual-aperture/#ftag=CAD590a51e)
+ - [Walmart leaked its own early Black Friday sales. Here are the best deals we've found so far     - CNET](https://www.cnet.com/tech/home-entertainment/walmart-leaked-its-own-early-black-friday-sales-here-are-the-best-deals-weve-found-so-far/#ftag=CAD590a51e)
+ - [Early 14- and 16-inch MacBook Pro orders begin to arrive](https://appleinsider.com/articles/21/10/26/early-14--and-16-inch-macbook-pro-orders-begin-to-arrive?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
