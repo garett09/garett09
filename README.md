@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How guys communicate.](http://9gag.com/gag/aQXPGrK)
+ - 🚖 [Defend. Warn. Respond.](http://9gag.com/gag/aBnRqgQ)
  - 🚯 [Happy Thanksgiving](http://9gag.com/gag/aQXPw3w)
- - 🚯 [It aint much but its mine. Bougth it last year](http://9gag.com/gag/aPZwK4K)<!-- MEMES:END -->
+ - 🚯 [To minimize downtime, Japan Rail deployed 3300 workers to renovate a major station. Work was complete within 52 hours, the longest service disruption in the history of that line.](http://9gag.com/gag/adg0E3M)<!-- MEMES:END -->
 
 --- 
 
