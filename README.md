@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Division 2 Update Pushed Back To February 2022 Of All Months](https://kotaku.com/the-division-2-update-pushed-back-to-february-2022-of-a-1847940361)
- - [House of Ashes: The Kotaku Review](https://kotaku.com/house-of-ashes-the-kotaku-review-1847938233)
- - [Help, I've been playing cozy fishing game Moonglow Bay for 7 straight hours](https://www.pcgamer.com/help-ive-been-playing-cozy-fishing-game-moonglow-bay-for-7-straight-hours)<!-- GAME:END -->
+ - [Ubisoft Pestering Far Cry 6 Players For Not Playing Enough](https://kotaku.com/ubisoft-pestering-far-cry-6-players-for-not-playing-eno-1847940889)
+ - [Pokémon Unite developer explains why scores are hidden](https://www.polygon.com/22747442/pokemon-unite-moba-developers-timi-studios-score-hidden)
+ - [Invasion’s Simon Kinberg wants to take over Reddit with theories about his aliens](https://www.polygon.com/entertainment/22747528/invasion-apple-tv-plus-simon-kinberg-interview)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
