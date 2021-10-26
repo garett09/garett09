@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Halloween Countdown: 31 days of horror](https://www.polygon.com/22702474/best-halloween-movies-tv-to-watch-stream)
- - [Everything we know about Dune 2](https://www.polygon.com/22745107/dune-2-release-date-cast)
- - [Riders Republic is already something special](https://www.polygon.com/reviews/22745542/riders-republic-pre-review-pc-xbox-ps4)<!-- GAME:END -->
+ - [Spirit Halloween’s Video Game Costumes Are Pretty Good, Actually](https://kotaku.com/spirit-halloween-s-video-game-costumes-are-pretty-good-1847938856)
+ - [Blizzard Cancels Online BlizzCon 2022](https://kotaku.com/blizzard-cancels-online-blizzcon-2022-1847939685)
+ - [Dude Bro Party Massacre III is the best horror-satire nobody’s watched](https://www.polygon.com/22746950/dude-bro-party-massacre-iii-horror-comedy-tropes)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
