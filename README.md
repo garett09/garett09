@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Spirit Halloween’s Video Game Costumes Are Pretty Good, Actually](https://kotaku.com/spirit-halloween-s-video-game-costumes-are-pretty-good-1847938856)
- - [Blizzard Cancels Online BlizzCon 2022](https://kotaku.com/blizzard-cancels-online-blizzcon-2022-1847939685)
- - [Dude Bro Party Massacre III is the best horror-satire nobody’s watched](https://www.polygon.com/22746950/dude-bro-party-massacre-iii-horror-comedy-tropes)<!-- GAME:END -->
+ - [The Division 2 Update Pushed Back To February 2022 Of All Months](https://kotaku.com/the-division-2-update-pushed-back-to-february-2022-of-a-1847940361)
+ - [House of Ashes: The Kotaku Review](https://kotaku.com/house-of-ashes-the-kotaku-review-1847938233)
+ - [Help, I've been playing cozy fishing game Moonglow Bay for 7 straight hours](https://www.pcgamer.com/help-ive-been-playing-cozy-fishing-game-moonglow-bay-for-7-straight-hours)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
