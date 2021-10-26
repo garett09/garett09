@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Ubisoft Pestering Far Cry 6 Players For Not Playing Enough](https://kotaku.com/ubisoft-pestering-far-cry-6-players-for-not-playing-eno-1847940889)
- - [Pokémon Unite developer explains why scores are hidden](https://www.polygon.com/22747442/pokemon-unite-moba-developers-timi-studios-score-hidden)
- - [Invasion’s Simon Kinberg wants to take over Reddit with theories about his aliens](https://www.polygon.com/entertainment/22747528/invasion-apple-tv-plus-simon-kinberg-interview)<!-- GAME:END -->
+ - [A Quiet Place Is Getting A Video Game Adaptation](https://kotaku.com/a-quiet-place-is-getting-a-video-game-adaptation-1847941561)
+ - [Deep motorbike sim RIMS Racing is free to try for a few days](https://www.pcgamer.com/deep-motorbike-sim-rims-racing-is-free-to-try-for-a-few-days)
+ - [Acclaimed Roguelike Caves Of Qud Adds Slightly Easier Modes](https://kotaku.com/acclaimed-roguelike-caves-of-qud-adds-slightly-easier-m-1847941099)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
