@@ -193,7 +193,7 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Happy Thanksgiving](http://9gag.com/gag/aQXPw3w)
+ - 🚖 [Spanish minister mistakes the hole in his lectern for a glass](http://9gag.com/gag/a81LPP3)
  - 🚯 [Defend. Warn. Respond.](http://9gag.com/gag/aBnRqgQ)
  - 🚯 [That&rsquo;s disgusting. Where?](http://9gag.com/gag/aLvRyd5)<!-- MEMES:END -->
 
