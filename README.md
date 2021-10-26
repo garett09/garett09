@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The Scary Theory That Totoro Is The God of Death](https://kotaku.com/the-scary-theory-that-totoro-is-the-god-of-death-5926248)
  - [Marvel’s Guardians of the Galaxy beginner’s guide](https://www.polygon.com/guides/22734275/guardians-of-the-galaxy-beginners-tips-tricks)
- - [The Art Of Back 4 Blood](https://kotaku.com/the-art-of-back-4-blood-1847933940)
- - [Faze Clan Going Public In Deal That Is Somehow Worth $1 Billion](https://kotaku.com/faze-clan-going-public-in-deal-that-is-somehow-worth-1-1847933169)<!-- GAME:END -->
+ - [The Art Of Back 4 Blood](https://kotaku.com/the-art-of-back-4-blood-1847933940)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
