@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - ['Apple Watch Pro' branding revealed in 2015 demo unit](https://appleinsider.com/articles/21/10/26/apple-watch-pro-branding-revealed-in-2015-demo-unit?utm_medium=rss)
- - ['iPhone SE Plus' with 5G rumored to arrive in 2022, larger-screen 'iPhone SE 3' in 2024](https://appleinsider.com/articles/21/10/26/iphone-se-plus-with-5g-rumored-to-arrive-in-2022-larger-screen-iphone-se-3-in-2024?utm_medium=rss)
- - [Applications open for next Apple Entrepreneur Camp](https://appleinsider.com/articles/21/10/26/applications-open-for-next-apple-entrepreneur-camp?utm_medium=rss)<!-- TECH:END -->
+ - [Pixelmator Pro 2.2 launched with Shortcuts, M1 Max support](https://appleinsider.com/articles/21/10/26/pixelmator-pro-22-launched-with-shortcuts-m1-max-support?utm_medium=rss)
+ - [Honor 50 series launched in China (Updated: Now available globally)](https://www.androidauthority.com/honor-50-series-1235755/)
+ - [macOS 12 Monterey review: automation on Mac is revitalized with Shortcuts, Low Power Mode is nice, and it's packed with tons of small tweaks like AirPlay to Mac (Andrew Cunningham/Ars Technica)](http://www.techmeme.com/211026/p2#a211026p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
