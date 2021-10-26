@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hard not to be a pirate these days](http://9gag.com/gag/aAGR5D9)
- - 🚯 [When you control your narrative&hellip;](http://9gag.com/gag/aOQKWV3)
+ - 🚖 [Typical black trans lefty lmao](http://9gag.com/gag/a61mR4N)
+ - 🚯 [Look Ma, no hands ;](http://9gag.com/gag/a81LOPZ)
  - 🚯 [Text before calls, bruh.](http://9gag.com/gag/aWgQqRq)<!-- MEMES:END -->
 
 --- 
