@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Alphabet Announces Third Quarter 2021 Results (Alphabet)](http://www.techmeme.com/211026/p39#a211026p39)
- - [Microsoft Cloud Strength Drives First Quarter Results (Microsoft)](http://www.techmeme.com/211026/p38#a211026p38)
- - [Pilot straps a Pixel 6 Pro to his drone and the results are pretty awesome](https://www.androidauthority.com/google-pixel-6-pro-drone-3047121/)<!-- TECH:END -->
+ - [Apple News adds local coverage for three more US cities](https://appleinsider.com/articles/21/10/26/apple-news-adds-local-coverage-for-three-more-us-cities?utm_medium=rss)
+ - [Microsoft's Intelligent Cloud revenue grew to $16.96B in Q1, up 31% YoY, as Azure and other cloud services revenue grew 50% (Dina Bass/Bloomberg)](http://www.techmeme.com/211026/p44#a211026p44)
+ - [Compared: 16-inch MacBook Pro vs Lenovo Legion 5](https://appleinsider.com/articles/21/10/26/compared-16-inch-macbook-pro-vs-lenovo-legion-5?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
