@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Satellites Can Spy a Menace in West Africa: Invasive Flowers](https://www.wired.com/story/satellites-can-spy-a-menace-in-west-africa-invasive-flowers)
- - [Verizon partners with Amazon to use its Kuiper satellite network to expand 4G and 5G coverage to rural and remote locations globally (Loren Grush/The Verge)](http://www.techmeme.com/211026/p26#a211026p26)
- - [10 Video Game Series That Deserve to Be Resurrected](https://www.wired.com/story/game-franchises-that-deserve-to-be-resurrected)<!-- TECH:END -->
+ - [Qualcomm’s Snapdragon 695 is a faster mid-tier 5G chip](https://www.theverge.com/2021/10/26/22740748/qualcomm-snapdragon-695-778-plus-480-680-5g-4g-smartphone-chips)
+ - [Best Deals Oct. 26: $100 off SanDisk 4TB Portable SSD, 30% off UGreen USB-C Hub for MacBook Pro](https://appleinsider.com/articles/21/10/26/best-deals-oct-26-100-off-sandisk-4tb-portable-ssd-30-off-ugreen-usb-c-hub-for-macbook-pro?utm_medium=rss)
+ - [Qualcomm bolsters mid-range with four (kinda) new chipsets](https://www.androidauthority.com/qualcomm-snapdragon-778g-plus-3046073/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
