@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Oh, you wanna get some sleep? Let me sing you the song of my people](http://9gag.com/gag/angq6gE)
- - 🚯 [Pillar men theme intensifies](http://9gag.com/gag/a31PVj8)
- - 🚯 [Text before calls, bruh.](http://9gag.com/gag/aWgQqRq)<!-- MEMES:END -->
+ - 🚖 [A thermite cannon in action](http://9gag.com/gag/agg3P7g)
+ - 🚯 [That&rsquo;s disgusting. Where?](http://9gag.com/gag/aLvRyd5)
+ - 🚯 [Pillar men theme intensifies](http://9gag.com/gag/a31PVj8)<!-- MEMES:END -->
 
 --- 
 
