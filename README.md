@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to start the legendary weapon quest in New World](https://www.pcgamer.com/new-world-legendary-weapon-quests)
- - [Discover why even the dead are terrified in Wraith: The Oblivion – Afterlife](http://feedproxy.google.com/~r/PSBlog/~3/6FablGtVVVU/)
- - [Discover why even the dead are terrified in Wraith: The Oblivion – Afterlife](https://blog.playstation.com/2021/10/26/discover-why-even-the-dead-are-terrified-in-wraith-the-oblivion-afterlife/)<!-- GAME:END -->
+ - [Turbo Overkill is boomer shooter bliss with outlandish twists](https://www.pcgamer.com/turbo-overkill-is-boomer-shooter-bliss-with-modern-twists)
+ - [Chucky isn’t just an evil doll, he’s a true Universal Monster](https://www.polygon.com/22734065/chucky-movies-universal-monsters)
+ - [JoJo Siwa dances to Anything Goes as Pennywise the Clown, and It’s brilliant](https://www.polygon.com/2021/10/26/22746533/jojo-siwa-it-pennywise-dancing-with-the-stars)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
