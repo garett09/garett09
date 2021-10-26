@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Funny and true](http://9gag.com/gag/apgEZoB)
- - 🚯 [For train lovers served on the plate](http://9gag.com/gag/aegjw8b)
+ - 🚖 [For train lovers served on the plate](http://9gag.com/gag/aegjw8b)
+ - 🚯 [Chef](http://9gag.com/gag/aNPr54v)
  - 🚯 [Text before calls, bruh.](http://9gag.com/gag/aWgQqRq)<!-- MEMES:END -->
 
 --- 
