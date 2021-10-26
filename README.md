@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Scary Theory That Totoro Is The God of Death](https://kotaku.com/the-scary-theory-that-totoro-is-the-god-of-death-5926248)
- - [Marvel’s Guardians of the Galaxy beginner’s guide](https://www.polygon.com/guides/22734275/guardians-of-the-galaxy-beginners-tips-tricks)
- - [The Art Of Back 4 Blood](https://kotaku.com/the-art-of-back-4-blood-1847933940)<!-- GAME:END -->
+ - [Returnal 2.0 update brings Suspend Cycle and Photo Mode](http://feedproxy.google.com/~r/PSBlog/~3/gZ9WR07UbSc/)
+ - [Returnal 2.0 update brings Suspend Cycle and Photo Mode](https://blog.playstation.com/2021/10/26/returnal-2-0-update-brings-suspend-cycle-and-photo-mode/)
+ - [Final Fantasy's creator is addicted to Final Fantasy 14](https://www.pcgamer.com/final-fantasys-creator-is-addicted-to-final-fantasy-14)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
