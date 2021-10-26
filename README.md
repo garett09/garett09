@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [For train lovers served on the plate](http://9gag.com/gag/aegjw8b)
- - 🚯 [Chef](http://9gag.com/gag/aNPr54v)
+ - 🚖 [Nokia were little ahead of their time...](http://9gag.com/gag/aogEwO0)
+ - 🚯 [Save the rhinos!](http://9gag.com/gag/a81LxjZ)
  - 🚯 [Text before calls, bruh.](http://9gag.com/gag/aWgQqRq)<!-- MEMES:END -->
 
 --- 
