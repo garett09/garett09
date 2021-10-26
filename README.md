@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [No plans for third-party Apple Watch face store, Apple executives say](https://appleinsider.com/articles/21/10/26/no-plans-for-third-party-apple-watch-face-store-apple-executives-say?utm_medium=rss)
- - [Seagate violated sanctions by selling hard drives to Huawei, says Senate committee](https://www.theverge.com/2021/10/26/22746603/seagate-huawei-hard-drive-sales-sanctions-violations-report-congress)
- - [Apple's cleaning cloth is sold out through January -- get this instead](https://appleinsider.com/articles/21/10/26/apples-cleaning-cloth-is-sold-out-through-january----get-this-instead?utm_medium=rss)<!-- TECH:END -->
+ - [Apple spent $64.8 million on paid search ads in 2020, ranking 12th overall](https://appleinsider.com/articles/21/10/26/apple-spent-648-million-on-paid-search-ads-in-2020-ranking-12th-overall?utm_medium=rss)
+ - [US lays out new guidelines for vaccinated international travelers](https://www.theverge.com/2021/10/26/22746477/us-new-travel-guidelines-covid-19-vaccinated-international)
+ - [Samsung promises Matter support for SmartThings hubs, Galaxy devices, TVs, and fridges](https://www.theverge.com/2021/10/26/22745664/samsung-smartthings-matter-support-products-galaxy)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
