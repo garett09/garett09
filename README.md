@@ -187,8 +187,8 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- TECH:START -->
  - [Satellites Can Spy a Menace in West Africa: Invasive Flowers](https://www.wired.com/story/satellites-can-spy-a-menace-in-west-africa-invasive-flowers)
- - [How to get up-close photos with the iPhone 13 Pro’s hidden macro mode](https://www.theverge.com/22745578/phone-13-pro-macro-mode-how-to)
- - [Fabric, which offers AI-powered "microfulfillment" robots for warehouses, raises $200M Series C led by Temasek at $1B+ valuation, taking total funding to $336M (Ingrid Lunden/TechCrunch)](http://www.techmeme.com/211026/p20#a211026p20)<!-- TECH:END -->
+ - [Verizon partners with Amazon to use its Kuiper satellite network to expand 4G and 5G coverage to rural and remote locations globally (Loren Grush/The Verge)](http://www.techmeme.com/211026/p26#a211026p26)
+ - [10 Video Game Series That Deserve to Be Resurrected](https://www.wired.com/story/game-franchises-that-deserve-to-be-resurrected)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
