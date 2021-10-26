@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Discover why even the dead are terrified in Wraith: The Oblivion – Afterlife](https://blog.playstation.com/2021/10/26/discover-why-even-the-dead-are-terrified-in-wraith-the-oblivion-afterlife/)
- - [How to get the Cube Queen in Fortnite](https://www.pcgamer.com/cube-queen-fortnite)
- - [Pimax's next-gen VR headset boasts 12K PC VR and the Quest 2's portable power](https://www.pcgamer.com/pimax-reality-12k-qled-vr-headset-announcement-discounts)<!-- GAME:END -->
+ - [How to start the legendary weapon quest in New World](https://www.pcgamer.com/new-world-legendary-weapon-quests)
+ - [Discover why even the dead are terrified in Wraith: The Oblivion – Afterlife](http://feedproxy.google.com/~r/PSBlog/~3/6FablGtVVVU/)
+ - [Discover why even the dead are terrified in Wraith: The Oblivion – Afterlife](https://blog.playstation.com/2021/10/26/discover-why-even-the-dead-are-terrified-in-wraith-the-oblivion-afterlife/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
