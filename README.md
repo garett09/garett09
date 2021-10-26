@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [In 'Termination Shock,' Neal Stephenson Finally Takes on Global Warming](https://www.wired.com/story/sci-fi-icon-neal-stephenson-global-warming)
- - [Docs: Facebook tested turning off News Feed ranking for 0.05% of users in Feb. 2018 and found engagement dropped, Groups content rose, and ad views increased (Alex Kantrowitz/Big Technology)](http://www.techmeme.com/211026/p3#a211026p3)
- - [Pixelmator Pro 2.2 launched with Shortcuts, M1 Max support](https://appleinsider.com/articles/21/10/26/pixelmator-pro-22-launched-with-shortcuts-m1-max-support?utm_medium=rss)<!-- TECH:END -->
+ - [Switzerland-based Yokoy, which offers AI tools to manage travel expenses, raises $26M led by Left Lane Capital, source says at a $100M valuation (Eyk Henning/Bloomberg)](http://www.techmeme.com/211026/p8#a211026p8)
+ - [Nigerian startup Autochek, which offers a marketplace for car sales, raises a $13.1M seed, following a $3.4M pre-seed in November 2020 (Tage Kene-Okafor/TechCrunch)](http://www.techmeme.com/211026/p7#a211026p7)
+ - [These Are the 9 Android Phones Worth Buying](https://www.wired.com/gallery/best-android-phones)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
