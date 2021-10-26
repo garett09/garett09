@@ -187,8 +187,8 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- TECH:START -->
  - [Satellites Can Spy a Menace in West Africa: Invasive Flowers](https://www.wired.com/story/satellites-can-spy-a-menace-in-west-africa-invasive-flowers)
- - [Facebook documents show its News Feed algorithm treated emoji reactions as 5x more valuable than Likes starting in 2017, amplifying controversial content (Washington Post)](http://www.techmeme.com/211026/p16#a211026p16)
- - [A look at the Integrity Institute, a think tank formed by two former Facebook employees that wants to bring together tech integrity workers studying tech misuse (Issie Lapowsky/Protocol)](http://www.techmeme.com/211026/p15#a211026p15)<!-- TECH:END -->
+ - [How to get up-close photos with the iPhone 13 Pro’s hidden macro mode](https://www.theverge.com/22745578/phone-13-pro-macro-mode-how-to)
+ - [Fabric, which offers AI-powered "microfulfillment" robots for warehouses, raises $200M Series C led by Temasek at $1B+ valuation, taking total funding to $336M (Ingrid Lunden/TechCrunch)](http://www.techmeme.com/211026/p20#a211026p20)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
