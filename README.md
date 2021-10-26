@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A thermite cannon in action](http://9gag.com/gag/agg3P7g)
- - 🚯 [That&rsquo;s disgusting. Where?](http://9gag.com/gag/aLvRyd5)
- - 🚯 [Pillar men theme intensifies](http://9gag.com/gag/a31PVj8)<!-- MEMES:END -->
+ - 🚖 [Pillar men theme intensifies](http://9gag.com/gag/a31PVj8)
+ - 🚯 [How guys communicate.](http://9gag.com/gag/aQXPGrK)
+ - 🚯 [Lie down for a minute mate, you earned it.](http://9gag.com/gag/a81LBO3)<!-- MEMES:END -->
 
 --- 
 
