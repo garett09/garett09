@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Who reads them &hellip;.](http://9gag.com/gag/arnvYmy)
- - 🚯 [Catfish of the year](http://9gag.com/gag/a31P6nN)
+ - 🚖 [There are somethings you just can&#039;t let go.](http://9gag.com/gag/aZrb6m6)
+ - 🚯 [Who reads them &hellip;.](http://9gag.com/gag/arnvYmy)
  - 🚯 [Text before calls, bruh.](http://9gag.com/gag/aWgQqRq)<!-- MEMES:END -->
 
 --- 
