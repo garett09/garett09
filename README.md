@@ -194,7 +194,7 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [An hour later](http://9gag.com/gag/a91bgVj)
- - 🚯 [Save the rhinos!](http://9gag.com/gag/a81LxjZ)
+ - 🚯 [This food truck has a golden retriever that comes out and delivers the snacks..](http://9gag.com/gag/aM42LjX)
  - 🚯 [Text before calls, bruh.](http://9gag.com/gag/aWgQqRq)<!-- MEMES:END -->
 
 --- 
