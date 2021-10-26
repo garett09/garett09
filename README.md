@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - ['iPhone SE Plus' with 5G rumored to arrive in 2022, larger-screen 'iPhone SE 3' in 2024](https://appleinsider.com/articles/21/10/26/iphone-se-plus-with-5g-rumored-to-arrive-in-2022-larger-screen-iphone-se-3-in-2024?utm_medium=rss)
- - ['Apple Watch Pro' branding revealed in 2015 demo unit](https://appleinsider.com/articles/21/10/26/apple-watch-pro-branding-revealed-in-2015-demo-unit?utm_medium=rss)
- - [Facebook posts $9.2B quarterly profit, continues to warn of iOS privacy headwinds](https://appleinsider.com/articles/21/10/25/facebook-posts-92b-quarterly-profit-continues-to-warn-of-ios-privacy-headwinds?utm_medium=rss)<!-- TECH:END -->
+ - [Frances Haugen told UK MPs that Facebook is "unquestionably making hate worse", and warns that Instagram is "more dangerous than other forms of social media" (BBC)](http://www.techmeme.com/211025/p43#a211025p43)
+ - [Zuckerberg says he's redirected Facebook teams to serve young adults over older users, and that significant changes to Instagram will lean into video and Reels (Jacob Kastrenakes/The Verge)](http://www.techmeme.com/211025/p42#a211025p42)
+ - ['iPhone SE Plus' with 5G rumored to arrive in 2022, larger-screen 'iPhone SE 3' in 2024](https://appleinsider.com/articles/21/10/26/iphone-se-plus-with-5g-rumored-to-arrive-in-2022-larger-screen-iphone-se-3-in-2024?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
