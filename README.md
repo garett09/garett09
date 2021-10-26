@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Oh, you wanna get some sleep? Let me sing you the song of my people](http://9gag.com/gag/angq6gE)
- - 🚯 [To minimize downtime, Japan Rail deployed 3300 workers to renovate a major station. Work was complete within 52 hours, the longest service disruption in the history of that line.](http://9gag.com/gag/adg0E3M)
+ - 🚖 [It aint much but its mine. Bougth it last year](http://9gag.com/gag/aPZwK4K)
+ - 🚯 [That&#039;s how it is unfortunately](http://9gag.com/gag/aM42gwG)
  - 🚯 [Text before calls, bruh.](http://9gag.com/gag/aWgQqRq)<!-- MEMES:END -->
 
 --- 
