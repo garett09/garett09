@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Pillar men theme intensifies](http://9gag.com/gag/a31PVj8)
- - 🚯 [How guys communicate.](http://9gag.com/gag/aQXPGrK)
- - 🚯 [Lie down for a minute mate, you earned it.](http://9gag.com/gag/a81LBO3)<!-- MEMES:END -->
+ - 🚖 [How guys communicate.](http://9gag.com/gag/aQXPGrK)
+ - 🚯 [Happy Thanksgiving](http://9gag.com/gag/aQXPw3w)
+ - 🚯 [It aint much but its mine. Bougth it last year](http://9gag.com/gag/aPZwK4K)<!-- MEMES:END -->
 
 --- 
 
