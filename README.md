@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple spent $64.8 million on paid search ads in 2020, ranking 12th overall](https://appleinsider.com/articles/21/10/26/apple-spent-648-million-on-paid-search-ads-in-2020-ranking-12th-overall?utm_medium=rss)
- - [US lays out new guidelines for vaccinated international travelers](https://www.theverge.com/2021/10/26/22746477/us-new-travel-guidelines-covid-19-vaccinated-international)
- - [Samsung promises Matter support for SmartThings hubs, Galaxy devices, TVs, and fridges](https://www.theverge.com/2021/10/26/22745664/samsung-smartthings-matter-support-products-galaxy)<!-- TECH:END -->
+ - [After 2019's breakup over customer data, Mailchimp and Shopify strike a new deal, and Mailchimp acquires ShopSync to integrate with Shopify (Saqib Shah/Modern Retail)](http://www.techmeme.com/211026/p35#a211026p35)
+ - [Samsung adopts Matter support to make all our smart homes better](https://www.androidauthority.com/samsung-matter-3047019/)
+ - [Amazon slashes $250 off 512GB 13-inch MacBook Pro with M1](https://appleinsider.com/articles/21/10/26/amazon-slashes-250-off-512gb-13-inch-macbook-pro-with-m1?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
