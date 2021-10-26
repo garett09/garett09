@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Anime in Japan vs real life in Japan](http://9gag.com/gag/aegjnqO)
- - 🚯 [More!](http://9gag.com/gag/abgXN78)
+ - 🚖 [Who reads them &hellip;.](http://9gag.com/gag/arnvYmy)
+ - 🚯 [Catfish of the year](http://9gag.com/gag/a31P6nN)
  - 🚯 [Text before calls, bruh.](http://9gag.com/gag/aWgQqRq)<!-- MEMES:END -->
 
 --- 
