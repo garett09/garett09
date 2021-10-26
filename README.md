@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Qualcomm’s Snapdragon 695 is a faster mid-tier 5G chip](https://www.theverge.com/2021/10/26/22740748/qualcomm-snapdragon-695-778-plus-480-680-5g-4g-smartphone-chips)
- - [Best Deals Oct. 26: $100 off SanDisk 4TB Portable SSD, 30% off UGreen USB-C Hub for MacBook Pro](https://appleinsider.com/articles/21/10/26/best-deals-oct-26-100-off-sandisk-4tb-portable-ssd-30-off-ugreen-usb-c-hub-for-macbook-pro?utm_medium=rss)
- - [Qualcomm bolsters mid-range with four (kinda) new chipsets](https://www.androidauthority.com/qualcomm-snapdragon-778g-plus-3046073/)<!-- TECH:END -->
+ - [No plans for third-party Apple Watch face store, Apple executives say](https://appleinsider.com/articles/21/10/26/no-plans-for-third-party-apple-watch-face-store-apple-executives-say?utm_medium=rss)
+ - [Seagate violated sanctions by selling hard drives to Huawei, says Senate committee](https://www.theverge.com/2021/10/26/22746603/seagate-huawei-hard-drive-sales-sanctions-violations-report-congress)
+ - [Apple's cleaning cloth is sold out through January -- get this instead](https://appleinsider.com/articles/21/10/26/apples-cleaning-cloth-is-sold-out-through-january----get-this-instead?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
