@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Nokia were little ahead of their time...](http://9gag.com/gag/aogEwO0)
- - 🚯 [Save the rhinos!](http://9gag.com/gag/a81LxjZ)
+ - 🚖 [Never, never, never give up.](http://9gag.com/gag/aPZwbdG)
+ - 🚯 [When you control your narrative&hellip;](http://9gag.com/gag/aOQKWV3)
  - 🚯 [Text before calls, bruh.](http://9gag.com/gag/aWgQqRq)<!-- MEMES:END -->
 
 --- 
