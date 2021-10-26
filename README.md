@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Turbo Overkill is boomer shooter bliss with outlandish twists](https://www.pcgamer.com/turbo-overkill-is-boomer-shooter-bliss-with-modern-twists)
- - [Chucky isn’t just an evil doll, he’s a true Universal Monster](https://www.polygon.com/22734065/chucky-movies-universal-monsters)
- - [JoJo Siwa dances to Anything Goes as Pennywise the Clown, and It’s brilliant](https://www.polygon.com/2021/10/26/22746533/jojo-siwa-it-pennywise-dancing-with-the-stars)<!-- GAME:END -->
+ - [Arkane on creating Deathloop’s unique PvP](http://feedproxy.google.com/~r/PSBlog/~3/Bm7O1xIftMM/)
+ - [Arkane on creating Deathloop’s unique PvP](https://blog.playstation.com/2021/10/26/arkane-on-creating-deathloops-unique-pvp/)
+ - [Summer lives on in this game inspired by a Greek water nymph](https://www.polygon.com/22744747/shadow-of-the-colossus-greek-mythology-water-nymph-low-poly-racing-game)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
