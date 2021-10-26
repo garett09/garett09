@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple News adds local coverage for three more US cities](https://appleinsider.com/articles/21/10/26/apple-news-adds-local-coverage-for-three-more-us-cities?utm_medium=rss)
- - [Microsoft's Intelligent Cloud revenue grew to $16.96B in Q1, up 31% YoY, as Azure and other cloud services revenue grew 50% (Dina Bass/Bloomberg)](http://www.techmeme.com/211026/p44#a211026p44)
- - [Compared: 16-inch MacBook Pro vs Lenovo Legion 5](https://appleinsider.com/articles/21/10/26/compared-16-inch-macbook-pro-vs-lenovo-legion-5?utm_medium=rss)<!-- TECH:END -->
+ - [Nintendo 64 games on Nintendo Switch are not too up to snuff](https://www.theverge.com/2021/10/26/22746897/nintendo-switch-online-n64-emulation-quality-bad)
+ - [DJI leak shows unreleased Mavic 3 Cine drone from pretty much every angle](https://www.theverge.com/2021/10/26/22747261/dji-mavic-3-drone-cine-edition-leak-fly-more-november-controller)
+ - [This AI Predicts How Old Children Are. Can It Keep Them Safe?](https://www.wired.com/story/ai-predicts-how-old-children-are)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
