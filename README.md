@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Facebook posts $9.2B quarterly profit, continues to warn of iOS privacy headwinds](https://appleinsider.com/articles/21/10/25/facebook-posts-92b-quarterly-profit-continues-to-warn-of-ios-privacy-headwinds?utm_medium=rss)
  - ['iPhone SE Plus' with 5G rumored to arrive in 2022, larger-screen 'iPhone SE 3' in 2024](https://appleinsider.com/articles/21/10/26/iphone-se-plus-with-5g-rumored-to-arrive-in-2022-larger-screen-iphone-se-3-in-2024?utm_medium=rss)
- - [Redbox, the DVD rental and streaming company, goes public on the Nasdaq after a $590.3M SPAC merger, surging ~24% on its debut; shares are up ~34% after hours (Dade Hayes/Deadline)](http://www.techmeme.com/211025/p41#a211025p41)<!-- TECH:END -->
+ - ['Apple Watch Pro' branding revealed in 2015 demo unit](https://appleinsider.com/articles/21/10/26/apple-watch-pro-branding-revealed-in-2015-demo-unit?utm_medium=rss)
+ - [Facebook posts $9.2B quarterly profit, continues to warn of iOS privacy headwinds](https://appleinsider.com/articles/21/10/25/facebook-posts-92b-quarterly-profit-continues-to-warn-of-ios-privacy-headwinds?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
