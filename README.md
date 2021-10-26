@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Guy absolutely obliterates &#039;Wipeout&#039; style course](http://9gag.com/gag/ajgYzDw)
- - 🚯 [Never, never, never give up.](http://9gag.com/gag/aPZwbdG)
+ - 🚖 [Catfish of the year](http://9gag.com/gag/a31P6nN)
+ - 🚯 [Guy absolutely obliterates &#039;Wipeout&#039; style course](http://9gag.com/gag/ajgYzDw)
  - 🚯 [Text before calls, bruh.](http://9gag.com/gag/aWgQqRq)<!-- MEMES:END -->
 
 --- 
