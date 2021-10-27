@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Best gaming motherboards in 2021](https://www.pcgamer.com/best-gaming-motherboards)
- - [Longtime Persona Composer Shoji Meguro Is Leaving Atlus](https://kotaku.com/longtime-persona-composer-shoji-meguro-is-leaving-atlus-1847943643)
- - [Keep your GTA Trilogy remaster, I just want Chinatown Wars on PC](https://www.pcgamer.com/keep-your-gta-trilogy-remaster-i-just-want-chinatown-wars-on-pc)<!-- GAME:END -->
+ - [Guilty Verdict For Death Threats Against Japanese Game Developer Arika](https://kotaku.com/guilty-verdict-for-death-threats-against-japanese-game-1847943796)
+ - [Best antivirus for PC gaming 2021](https://www.pcgamer.com/best-anti-virus)
+ - [Best gaming motherboards in 2021](https://www.pcgamer.com/best-gaming-motherboards)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
