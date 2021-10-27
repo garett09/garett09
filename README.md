@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Why did they remove it](http://9gag.com/gag/a61wmZA)
+ - 🚖 [Our species.](http://9gag.com/gag/aDD0AA7)
  - 🚯 [That&#039;s disgusting. Where ?](http://9gag.com/gag/a31YPZm)
- - 🚯 [What a nob.](http://9gag.com/gag/aOQqKG3)<!-- MEMES:END -->
+ - 🚯 [Name&#039;s Bond. James &quot;Cuckold&quot; Bond.](http://9gag.com/gag/aPZvvGg)<!-- MEMES:END -->
 
 --- 
 
