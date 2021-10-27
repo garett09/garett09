@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Sometimes there&rsquo;s an s at the end of sake when I say it lol](http://9gag.com/gag/a0Z9v4n)
- - 🚯 [*Soviet anthem intensifies*](http://9gag.com/gag/abg5X58)
- - 🚯 [She must have older brothers](http://9gag.com/gag/aGz9KO0)<!-- MEMES:END -->
+ - 🚖 [What kind of animal would eat a dry one hooman?](http://9gag.com/gag/apgqKOB)
+ - 🚯 [That&#039;s disgusting. Where ?](http://9gag.com/gag/a31YPZm)
+ - 🚯 [Imagine if this movie was filmed today](http://9gag.com/gag/arnpv1d)<!-- MEMES:END -->
 
 --- 
 
