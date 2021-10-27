@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Tiger King season 2’s first trailer looks even more off-the-rails than the original](https://www.polygon.com/22748654/tiger-king-season-2-trailer-release-date-joe-exotic)
- - [Apple Music launches on PS5 today](http://feedproxy.google.com/~r/PSBlog/~3/1rOxi2V41XM/)
- - [Apple Music launches on PS5 today](https://blog.playstation.com/2021/10/27/apple-music-launches-on-ps5-today/)<!-- GAME:END -->
+ - [Nvidia has jammed GeForce Now into a British red telephone box because we're insatiable](https://www.pcgamer.com/nvidia-geforce-now-british-red-phone-box)
+ - [Far Cry 6 Has A Cool Far Cry Primal Shout-Out](https://kotaku.com/far-cry-6-has-a-cool-far-cry-primal-shout-out-1847945226)
+ - [Call of Duty: Vanguard won't be as storage-hungry as previous entries](https://www.pcgamer.com/call-of-duty-vanguard-wont-be-as-storage-hungry-as-previous-entries)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
