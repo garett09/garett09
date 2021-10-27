@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Oi ave you got a licence for that mate](http://9gag.com/gag/angYYYo)
- - 🚯 [Care about your health](http://9gag.com/gag/aDD00Dx)
- - 🚯 [Yes stay in the Truck Yes](http://9gag.com/gag/a91dbWL)<!-- MEMES:END -->
+ - 🚖 [Right?? Right?!](http://9gag.com/gag/aLvKQPV)
+ - 🚯 [Bicycle stunt with the bicycle digitally removed](http://9gag.com/gag/aegNNbB)
+ - 🚯 [Instant karma](http://9gag.com/gag/a11Av6P)<!-- MEMES:END -->
 
 --- 
 
