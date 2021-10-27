@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Internal docs show Netflix tried to minimize public backlash to the film Cuties by stopping it from appearing in some search results and recommendations (Zoe Schiffer/The Verge)](http://www.techmeme.com/211027/p31#a211027p31)
- - [Google now lets anyone under 18 get images of themselves removed from search results     - CNET](https://www.cnet.com/news/google-now-lets-anyone-under-18-get-images-of-themselves-removed-from-search-results/#ftag=CAD590a51e)
- - [Google makes it easier for Android developers to build apps with its Material You design](https://www.theverge.com/2021/10/27/22748821/android-12-developers-material-you-summit-jetpack)<!-- TECH:END -->
+ - [GameStop memes even harder with ‘Web3 Gaming’ and NFT job listings](https://www.theverge.com/2021/10/27/22747748/gamestop-web3-gaming-nft-job-listing-nfts-ethereum)
+ - [The new Onewheel GT can travel 32 miles on a single charge](https://www.theverge.com/2021/10/27/22749004/onewheel-gt-pint-x-price-specs-future-motion)
+ - [Google unveils Android 12L update focused on tablets, foldables, and Chromebooks, which tweaks big screen UI layouts, adds a taskbar, more, coming early 2022 (Ron Amadeo/Ars Technica)](http://www.techmeme.com/211027/p33#a211027p33)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
