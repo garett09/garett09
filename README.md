@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best stereo speakers for 2021     - CNET](https://www.cnet.com/tech/home-entertainment/best-stereo-speakers/#ftag=CAD590a51e)
- - [4K and 8K TV refresh rates from 60hz to 120Hz: Everything you should know     - CNET](https://www.cnet.com/tech/home-entertainment/4k-and-8k-tv-refresh-rates-from-60hz-to-120hz-everything-you-should-know/#ftag=CAD590a51e)
- - [China's cyberspace regulator says it will strengthen efforts to build a "civilized" internet, using the platform to disseminate party theories (Brenda Goh/Reuters)](http://www.techmeme.com/211027/p7#a211027p7)<!-- TECH:END -->
+ - [London-based Attest, which offers no-code tools for research surveys across 110M participants, raises $60M, bringing total funding to $85M (Ingrid Lunden/TechCrunch)](http://www.techmeme.com/211027/p12#a211027p12)
+ - [Are Green Jet Fuels Finally Ready for Takeoff?](https://www.wired.com/story/are-green-jet-fuels-finally-ready-for-takeoff)
+ - [The Grand Theft Auto III  Radio Commercials Are Still Awesome](https://www.wired.com/story/grand-theft-auto-3-radio-stations-commercials)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
