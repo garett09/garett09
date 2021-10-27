@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Animal Crossing New Horizons: How to back up your island](https://www.polygon.com/animal-crossing-new-horizons-switch-acnh-guide/22749561/how-to-backup-your-island-cloud-save-file)
- - [Dream Addresses and Dream Suite — Animal Crossing: New Horizons guide](https://www.polygon.com/animal-crossing-new-horizons-switch-acnh-guide/22749556/how-to-use-dream-address-suite-luna-dreaming-sleeping)
- - [Chivalry 2 DLSS update promises 4K 60fps dismemberment action on any Geforce RTX GPU](https://www.pcgamer.com/chivalry-2-dlss-update-promises-4k-60fps-dismemberment-action-on-any-geforce-rtx-gpu)<!-- GAME:END -->
+ - [Death’s Door coming to PlayStation and Nintendo Switch in November](https://www.polygon.com/22749619/deaths-door-playstation-ps5-nintendo-switch-release-date)
+ - [Isle of Bigsnax adds a whole new world to Bugsnax](https://www.pcgamer.com/isle-of-bigsnax-adds-a-whole-new-world-to-bugsnax)
+ - [The King of Fighters 15 introduces all-new character Dolores](https://www.polygon.com/22749632/the-king-of-fighters-xv-15-open-beta-dolores-trailer)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
