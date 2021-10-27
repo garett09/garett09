@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A man in India set a world record in 1986 by spending 72 hours in a glass cabin with 72 of the most venomous snake species in India. He did this to spread awareness that snakes don&#039;t bite unless provoked. After 72 hours he came out without a single scratch on him.](http://9gag.com/gag/apgqop9)
- - 🚯 [New Buzz Lightyear movie coming](http://9gag.com/gag/aGz9VBn)
- - 🚯 [Brutal](http://9gag.com/gag/a7155qx)<!-- MEMES:END -->
+ - 🚖 [Name&#039;s Bond. James &quot;Cuckold&quot; Bond.](http://9gag.com/gag/aPZvvGg)
+ - 🚯 [A man in India set a world record in 1986 by spending 72 hours in a glass cabin with 72 of the most venomous snake species in India. He did this to spread awareness that snakes don&#039;t bite unless provoked. After 72 hours he came out without a single scratch on him.](http://9gag.com/gag/apgqop9)
+ - 🚯 [A tale as old as time](http://9gag.com/gag/arnpvP7)<!-- MEMES:END -->
 
 --- 
 
