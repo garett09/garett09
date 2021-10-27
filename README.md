@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple's Craig Federighi to present keynote at Web Summit 2021 next week](https://appleinsider.com/articles/21/10/27/apples-craig-federighi-to-present-keynote-at-web-summit-2021-in-november?utm_medium=rss)
- - [The Pixel 6 and Pixel 6 Pro will arrive with a day-one update](https://www.theverge.com/2021/10/26/22747834/google-pixel-6-pro-android-12-launch-update)
- - [Theranos FOMO kept the DeVos family from doing its investment homework](https://www.theverge.com/2021/10/26/22747918/theranos-devos-due-diligence-fraud-trial)<!-- TECH:END -->
+ - [Medable, a developer of clinical trial management software, raises a $304M Series D led by Blackstone Growth and Tiger Global at a $2.1B valuation (Christine Hall/TechCrunch)](http://www.techmeme.com/211026/p51#a211026p51)
+ - [FCC orders China Telecom Americas to stop providing services in the US within 60 days, says the US unit is subject to Chinese government control and influence (Jon Brodkin/Ars Technica)](http://www.techmeme.com/211026/p50#a211026p50)
+ - [Apple's Craig Federighi to present keynote at Web Summit 2021 next week](https://appleinsider.com/articles/21/10/27/apples-craig-federighi-to-present-keynote-at-web-summit-2021-in-november?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
