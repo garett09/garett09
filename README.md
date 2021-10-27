@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Crusader Kings 3's first big expansion won't be out until 2022](https://www.pcgamer.com/crusader-kings-3s-first-big-expansion-wont-be-out-until-2022)
  - [Pokémon Go Creators' New Mobile Game Is Pikmin Bloom](https://kotaku.com/pokemon-go-creators-new-mobile-game-is-pikmin-bloom-1847942115)
- - [Far Cry 6's Anton Castillo is so disappointed I haven't killed him yet he's emailing me about it](https://www.pcgamer.com/far-cry-6s-anton-castillo-is-so-disappointed-i-havent-killed-him-yet-hes-emailing-me-about-it)
- - [November Savings promotion comes to PlayStation Store](http://feedproxy.google.com/~r/PSBlog/~3/iJNnA5hluEA/)<!-- GAME:END -->
+ - [Far Cry 6's Anton Castillo is so disappointed I haven't killed him yet he's emailing me about it](https://www.pcgamer.com/far-cry-6s-anton-castillo-is-so-disappointed-i-havent-killed-him-yet-hes-emailing-me-about-it)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
