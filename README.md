@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US Copyright Office just struck a blow for the right to repair](https://www.theverge.com/2021/10/27/22747310/us-copyright-office-dmca-section-1201-exemption-rulemaking-report)
- - [Amazon Fire TV Stick 4K Max review: Bells, whistles, and more](https://www.androidauthority.com/amazon-fire-tv-stick-4k-max-review-3046108/)
- - [Amazon’s new TVs will soon support Apple AirPlay 2 and HomeKit](https://www.theverge.com/2021/10/27/22747811/amazon-fire-tv-omni-4-series-apple-airplay-2-homekit)<!-- TECH:END -->
+ - [Did astronomers find the first planet outside of the Milky Way? It's complicated     - CNET](https://www.cnet.com/news/did-astronomers-find-the-first-planet-outside-of-the-milky-way-its-complicated/#ftag=CAD590a51e)
+ - [Instagram’s link stickers are rolling out to everyone](https://www.theverge.com/2021/10/27/22748303/instagram-link-stickers-stories-everyone-rolling-out-test)
+ - [Save $40 on a smokeless fire pit and take the party outside this fall     - CNET](https://www.cnet.com/home/save-40-on-a-smokeless-fire-pit-and-take-the-party-outside-this-fall/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
