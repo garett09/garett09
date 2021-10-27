@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [GameStop memes even harder with ‘Web3 Gaming’ and NFT job listings](https://www.theverge.com/2021/10/27/22747748/gamestop-web3-gaming-nft-job-listing-nfts-ethereum)
- - [The new Onewheel GT can travel 32 miles on a single charge](https://www.theverge.com/2021/10/27/22749004/onewheel-gt-pint-x-price-specs-future-motion)
- - [Google unveils Android 12L update focused on tablets, foldables, and Chromebooks, which tweaks big screen UI layouts, adds a taskbar, more, coming early 2022 (Ron Amadeo/Ars Technica)](http://www.techmeme.com/211027/p33#a211027p33)<!-- TECH:END -->
+ - [Facebook asks employees to preserve internal docs and communications related to its business since 2016, as legal entities begin inquiries into its operations (New York Times)](http://www.techmeme.com/211027/p35#a211027p35)
+ - [3 ways to be a financial activist -- without spending money     - CNET](https://www.cnet.com/personal-finance/your-money/3-ways-to-be-a-financial-activist-without-spending-money/#ftag=CAD590a51e)
+ - [Best Apple Watch deals: Save $55 on a Series 6     - CNET](https://www.cnet.com/tech/mobile/best-apple-watch-deals-save-55-on-a-series-6/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
