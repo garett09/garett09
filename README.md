@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [A Quiet Place Is Getting A Video Game Adaptation](https://kotaku.com/a-quiet-place-is-getting-a-video-game-adaptation-1847941561)
- - [Deep motorbike sim RIMS Racing is free to try for a few days](https://www.pcgamer.com/deep-motorbike-sim-rims-racing-is-free-to-try-for-a-few-days)
- - [Acclaimed Roguelike Caves Of Qud Adds Slightly Easier Modes](https://kotaku.com/acclaimed-roguelike-caves-of-qud-adds-slightly-easier-m-1847941099)<!-- GAME:END -->
+ - [November Savings promotion comes to PlayStation Store](http://feedproxy.google.com/~r/PSBlog/~3/iJNnA5hluEA/)
+ - [New Pikmin AR game coming from Pokémon Go developer Niantic](https://www.polygon.com/22747069/pokemon-go-niantic-releases-pikmin-bloom-nintendo)
+ - [November Savings promotion comes to PlayStation Store](https://blog.playstation.com/2021/10/26/november-savings-promotion-comes-to-playstation-store/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
