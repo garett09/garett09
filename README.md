@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When I say I love Tom Cruise, I mean THIS exact scene, not an MI or Jack Reacher Cruise.](http://9gag.com/gag/aqGm47M)
- - 🚯 [Noot noot](http://9gag.com/gag/axBdprL)
- - 🚯 [&quot;I&#039;m going to do what&#039;s called a pro gamer move.&quot;](http://9gag.com/gag/a81Wdz3)<!-- MEMES:END -->
+ - 🚖 [What kind of animal would eat a dry one hooman?](http://9gag.com/gag/apgqKOB)
+ - 🚯 [&quot;I&#039;m going to do what&#039;s called a pro gamer move.&quot;](http://9gag.com/gag/a81Wdz3)
+ - 🚯 [She must have older brothers](http://9gag.com/gag/aGz9KO0)<!-- MEMES:END -->
 
 --- 
 
