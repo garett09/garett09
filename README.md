@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Guilty Verdict For Death Threats Against Japanese Game Developer Arika](https://kotaku.com/guilty-verdict-for-death-threats-against-japanese-game-1847943796)
- - [Best antivirus for PC gaming 2021](https://www.pcgamer.com/best-anti-virus)
- - [Best gaming motherboards in 2021](https://www.pcgamer.com/best-gaming-motherboards)<!-- GAME:END -->
+ - [Should I buy Nintendo Switch Online + Expansion Pack?](https://www.polygon.com/22747408/nintendo-switch-online-expansion-pack-faq-price-cancel-guide)
+ - [Creating the anthropomorphic world of Backbone, coming to PS4 and PS5](http://feedproxy.google.com/~r/PSBlog/~3/J8jIHrh47c8/)
+ - [Creating the anthropomorphic world of Backbone, coming to PS4 and PS5](https://blog.playstation.com/2021/10/27/creating-the-anthropomorphic-world-of-backbone-coming-to-ps4-and-ps5/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
