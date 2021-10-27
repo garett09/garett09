@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [2021 MacBook Pro Giveaway: Enter to win Apple's new 16-inch laptop plus Polishing Cloth](https://appleinsider.com/articles/21/10/27/2021-macbook-pro-giveaway-enter-to-win-apples-new-16-inch-laptop-plus-polishing-cloth?utm_medium=rss)
- - [A major Hollywood union could vote soon on a deal for better streaming pay](https://www.theverge.com/2021/10/27/22749253/hollywood-union-itsea-amptp-vote-streaming-pay)
- - [Sources: DOJ is investigating whether Visa used financial incentives to keep Square, Stripe, and PayPal from using other card networks or payment systems (Wall Street Journal)](http://www.techmeme.com/211027/p36#a211027p36)<!-- TECH:END -->
+ - [Alienware’s new Aurora R13 comes with Intel’s 12th Gen Alder Lake CPU](https://www.theverge.com/2021/10/27/22749026/alienware-aurora-r13-alder-lake-dell-gaming-desktop-nvidia)
+ - [Apple issues first tvOS 15.2 beta to developers for testing](https://appleinsider.com/articles/21/10/27/apple-issues-first-tvos-152-beta-to-developers-for-testing?utm_medium=rss)
+ - [Squid Game Season 2 on Netflix: Will it happen and when will it be released?](https://www.androidauthority.com/squid-game-season-2-on-netflix-3047249/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
