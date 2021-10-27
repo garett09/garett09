@@ -193,7 +193,7 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Defend. Warn. Respond.](http://9gag.com/gag/aBnRqgQ)
+ - 🚖 [Noot noot](http://9gag.com/gag/axBdprL)
  - 🚯 [Evolution of the Hercules Beetle](http://9gag.com/gag/a51eLQG)
  - 🚯 [Spanish minister mistakes the hole in his lectern for a glass](http://9gag.com/gag/a81LPP3)<!-- MEMES:END -->
 
