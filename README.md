@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Nvidia has jammed GeForce Now into a British red telephone box because we're insatiable](https://www.pcgamer.com/nvidia-geforce-now-british-red-phone-box)
- - [Far Cry 6 Has A Cool Far Cry Primal Shout-Out](https://kotaku.com/far-cry-6-has-a-cool-far-cry-primal-shout-out-1847945226)
- - [Call of Duty: Vanguard won't be as storage-hungry as previous entries](https://www.pcgamer.com/call-of-duty-vanguard-wont-be-as-storage-hungry-as-previous-entries)<!-- GAME:END -->
+ - [Dimension 20’s next season is a 4-part series called Shriek Week](https://www.polygon.com/22748697/dimension-20-new-season-shriek-week-actual-play-gabe-hicks)
+ - [Hot Wheels Unleashed Devs On Making 2021's Most Surprising Racing Game](https://kotaku.com/hot-wheels-unleashed-devs-on-making-2021s-most-surprisi-1847946535)
+ - [Forza Horizon 5 car list: all the cars confirmed so far](https://www.pcgamer.com/forza-horizon-5-car-list)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
