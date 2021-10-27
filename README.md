@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Speed Test G: Google Pixel 6 vs Pixel 4 (not a flawless victory)](https://www.androidauthority.com/speed-test-g-google-pixel-6-vs-pixel-4-3047246/)
  - [Early Black Friday deals hit Apple's 2021 14-inch and 16-inch MacBook Pro](https://appleinsider.com/articles/21/10/27/early-black-friday-deals-hit-apples-2021-14-inch-and-16-inch-macbook-pro?utm_medium=rss)
- - [Google’s handy Call Screen feature is coming to more markets](https://www.androidauthority.com/google-call-screen-markets-3045874/)
- - [AWS launches new EC2 instances powered by AI accelerators from Intel's Habana, claims 40% better price-performance to train ML models over latest GPU instances (Kyle Wiggers/VentureBeat)](http://www.techmeme.com/211027/p3#a211027p3)<!-- TECH:END -->
+ - [Compared: 14-inch MacBook Pro vs. 13-inch M1 MacBook Pro vs. Intel 13-inch MacBook Pro](https://appleinsider.com/articles/21/10/18/compared-new-14-inch-macbook-pro-versus-13-inch-m1-macbook-pro-versus-intel-13-inch-macbook-pro?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
