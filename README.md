@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Alienware’s new Aurora R13 comes with Intel’s 12th Gen Alder Lake CPU](https://www.theverge.com/2021/10/27/22749026/alienware-aurora-r13-alder-lake-dell-gaming-desktop-nvidia)
- - [Apple issues first tvOS 15.2 beta to developers for testing](https://appleinsider.com/articles/21/10/27/apple-issues-first-tvos-152-beta-to-developers-for-testing?utm_medium=rss)
- - [Squid Game Season 2 on Netflix: Will it happen and when will it be released?](https://www.androidauthority.com/squid-game-season-2-on-netflix-3047249/)<!-- TECH:END -->
+ - [App Privacy Report, Communication Safety features debut in iOS 15.2 beta](https://appleinsider.com/articles/21/10/27/app-privacy-report-communication-safety-features-debut-in-ios-152-beta?utm_medium=rss)
+ - [Twilio Q3: rev. of $740.2M vs. $681M est., up 65% YoY, loss of $224.1M, up from $116.9M YoY, 250K+ active customer accounts, up from 208K YoY; stock down 11%+ (Tiernan Ray/ZDNet)](http://www.techmeme.com/211027/p40#a211027p40)
+ - [eBay Q3: revenue of $2.5B, vs. $2.46B estimates, up 11% YoY, gross merchandise value of $19.5B, down 10% YoY, 154M active buyers, up 5% YoY, stock down 6%+ (Emily Bary/MarketWatch)](http://www.techmeme.com/211027/p39#a211027p39)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
