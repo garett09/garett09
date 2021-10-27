@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [November Savings promotion comes to PlayStation Store](http://feedproxy.google.com/~r/PSBlog/~3/iJNnA5hluEA/)
- - [New Pikmin AR game coming from Pokémon Go developer Niantic](https://www.polygon.com/22747069/pokemon-go-niantic-releases-pikmin-bloom-nintendo)
- - [November Savings promotion comes to PlayStation Store](https://blog.playstation.com/2021/10/26/november-savings-promotion-comes-to-playstation-store/)<!-- GAME:END -->
+ - [Pokémon Go Creators' New Mobile Game Is Pikmin Bloom](https://kotaku.com/pokemon-go-creators-new-mobile-game-is-pikmin-bloom-1847942115)
+ - [Far Cry 6's Anton Castillo is so disappointed I haven't killed him yet he's emailing me about it](https://www.pcgamer.com/far-cry-6s-anton-castillo-is-so-disappointed-i-havent-killed-him-yet-hes-emailing-me-about-it)
+ - [November Savings promotion comes to PlayStation Store](http://feedproxy.google.com/~r/PSBlog/~3/iJNnA5hluEA/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
