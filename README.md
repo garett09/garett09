@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Rent the Runway raises $357M in its Nasdaq IPO, valuing the company at about $1.5B (Bloomberg)](http://www.techmeme.com/211027/p2#a211027p2)
- - [What are Nvidia G-Sync and AMD FreeSync and which do I need?     - CNET](https://www.cnet.com/tech/gaming/what-are-nvidia-g-sync-and-amd-freesync-and-which-do-i-need/#ftag=CAD590a51e)
- - [Have scientists found the first planet outside our galaxy? It's complicated     - CNET](https://www.cnet.com/news/have-scientists-found-the-first-planet-outside-our-galaxy-its-complicated/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Early Black Friday deals hit Apple's 2021 14-inch and 16-inch MacBook Pro](https://appleinsider.com/articles/21/10/27/early-black-friday-deals-hit-apples-2021-14-inch-and-16-inch-macbook-pro?utm_medium=rss)
+ - [Google’s handy Call Screen feature is coming to more markets](https://www.androidauthority.com/google-call-screen-markets-3045874/)
+ - [AWS launches new EC2 instances powered by AI accelerators from Intel's Habana, claims 40% better price-performance to train ML models over latest GPU instances (Kyle Wiggers/VentureBeat)](http://www.techmeme.com/211027/p3#a211027p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
