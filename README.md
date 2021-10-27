@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [And there is no sequel](http://9gag.com/gag/aegNKKp)
- - 🚯 [One of the only recorded real fights of Bruce Lee (white straps)](http://9gag.com/gag/aVxzGvn)
- - 🚯 [My first meme](http://9gag.com/gag/aWgQVZq)<!-- MEMES:END -->
+ - 🚖 [One of the only recorded real fights of Bruce Lee (white straps)](http://9gag.com/gag/aVxzGvn)
+ - 🚯 [When I say I love Tom Cruise, I mean THIS exact scene, not an MI or Jack Reacher Cruise.](http://9gag.com/gag/aqGm47M)
+ - 🚯 [Angry french people incoming](http://9gag.com/gag/a91djp6)<!-- MEMES:END -->
 
 --- 
 
