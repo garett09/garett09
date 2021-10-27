@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Our species.](http://9gag.com/gag/aDD0AA7)
- - 🚯 [That&#039;s disgusting. Where ?](http://9gag.com/gag/a31YPZm)
- - 🚯 [Name&#039;s Bond. James &quot;Cuckold&quot; Bond.](http://9gag.com/gag/aPZvvGg)<!-- MEMES:END -->
+ - 🚖 [Care about your health](http://9gag.com/gag/aDD00Dx)
+ - 🚯 [Ho Ho Holyshit](http://9gag.com/gag/aWgZQ7Z)
+ - 🚯 [Bicycle stunt with the bicycle digitally removed](http://9gag.com/gag/aegNNbB)<!-- MEMES:END -->
 
 --- 
 
