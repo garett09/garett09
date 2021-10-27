@@ -194,8 +194,8 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Defend. Warn. Respond.](http://9gag.com/gag/aBnRqgQ)
- - 🚯 [Lie down for a minute mate, you earned it.](http://9gag.com/gag/a81LBO3)
- - 🚯 [Wholesome folks helping restock stores!](http://9gag.com/gag/axBdXBK)<!-- MEMES:END -->
+ - 🚯 [Evolution of the Hercules Beetle](http://9gag.com/gag/a51eLQG)
+ - 🚯 [Spanish minister mistakes the hole in his lectern for a glass](http://9gag.com/gag/a81LPP3)<!-- MEMES:END -->
 
 --- 
 
