@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Spanish minister mistakes the hole in his lectern for a glass](http://9gag.com/gag/a81LPP3)
- - 🚯 [Defend. Warn. Respond.](http://9gag.com/gag/aBnRqgQ)
- - 🚯 [That&rsquo;s disgusting. Where?](http://9gag.com/gag/aLvRyd5)<!-- MEMES:END -->
+ - 🚖 [Defend. Warn. Respond.](http://9gag.com/gag/aBnRqgQ)
+ - 🚯 [Lie down for a minute mate, you earned it.](http://9gag.com/gag/a81LBO3)
+ - 🚯 [Wholesome folks helping restock stores!](http://9gag.com/gag/axBdXBK)<!-- MEMES:END -->
 
 --- 
 
