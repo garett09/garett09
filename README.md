@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Theranos FOMO kept the DeVos family from doing its investment homework](https://www.theverge.com/2021/10/26/22747918/theranos-devos-due-diligence-fraud-trial)
- - [Apple News adds local coverage for three more US cities](https://appleinsider.com/articles/21/10/26/apple-news-adds-local-coverage-for-three-more-us-cities?utm_medium=rss)
- - [16-inch MacBook Pro teardown reveals M1 Max, tweaked internals](https://appleinsider.com/articles/21/10/26/16-inch-macbook-pro-teardown-reveals-m1-max-tweaked-internals?utm_medium=rss)<!-- TECH:END -->
+ - [Apple's Craig Federighi to present keynote at Web Summit 2021 next week](https://appleinsider.com/articles/21/10/27/apples-craig-federighi-to-present-keynote-at-web-summit-2021-in-november?utm_medium=rss)
+ - [The Pixel 6 and Pixel 6 Pro will arrive with a day-one update](https://www.theverge.com/2021/10/26/22747834/google-pixel-6-pro-android-12-launch-update)
+ - [Theranos FOMO kept the DeVos family from doing its investment homework](https://www.theverge.com/2021/10/26/22747918/theranos-devos-due-diligence-fraud-trial)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
