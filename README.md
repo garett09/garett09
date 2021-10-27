@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Evolution of the Hercules Beetle](http://9gag.com/gag/a51eLQG)
- - 🚯 [One of the best video game song](http://9gag.com/gag/axBdxP2)
- - 🚯 [Noot noot](http://9gag.com/gag/axBdprL)<!-- MEMES:END -->
+ - 🚖 [And there is no sequel](http://9gag.com/gag/aegNKKp)
+ - 🚯 [One of the only recorded real fights of Bruce Lee (white straps)](http://9gag.com/gag/aVxzGvn)
+ - 🚯 [My first meme](http://9gag.com/gag/aWgQVZq)<!-- MEMES:END -->
 
 --- 
 
