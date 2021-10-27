@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Halloween Countdown: 31 days of horror](https://www.polygon.com/22702474/best-halloween-movies-tv-to-watch-stream)
- - [Twitch streamer Pokimane sorta co-owns the biggest fighting game tournament in the world now](https://www.pcgamer.com/twitch-streamer-pokimane-sorta-co-owns-the-biggest-fighting-game-tournament-in-the-world-now)
- - [Genshin Impact’s New Event Is A Surprisingly Great Roguelike](https://kotaku.com/genshin-impact-s-new-event-is-a-surprisingly-great-rogu-1847948578)<!-- GAME:END -->
+ - [Animal Crossing New Horizons: How to back up your island](https://www.polygon.com/animal-crossing-new-horizons-switch-acnh-guide/22749561/how-to-backup-your-island-cloud-save-file)
+ - [Dream Addresses and Dream Suite — Animal Crossing: New Horizons guide](https://www.polygon.com/animal-crossing-new-horizons-switch-acnh-guide/22749556/how-to-use-dream-address-suite-luna-dreaming-sleeping)
+ - [Chivalry 2 DLSS update promises 4K 60fps dismemberment action on any Geforce RTX GPU](https://www.pcgamer.com/chivalry-2-dlss-update-promises-4k-60fps-dismemberment-action-on-any-geforce-rtx-gpu)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
