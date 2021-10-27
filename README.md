@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [UserGems, whose AI-based data mapping tech helps companies identify prospective customers for B2B sales, raises a $20M Series A led by Craft Ventures (Ingrid Lunden/TechCrunch)](http://www.techmeme.com/211027/p1#a211027p1)
- - [Google, IBM underreporting greenhouse gas emissions, study says     - CNET](https://www.cnet.com/news/google-ibm-underreporting-greenhouse-gas-emissions-study-says/#ftag=CAD590a51e)
- - [Apple's Craig Federighi to present keynote at Web Summit 2021 next week](https://appleinsider.com/articles/21/10/27/apples-craig-federighi-to-present-keynote-at-web-summit-2021-in-november?utm_medium=rss)<!-- TECH:END -->
+ - [Rent the Runway raises $357M in its Nasdaq IPO, valuing the company at about $1.5B (Bloomberg)](http://www.techmeme.com/211027/p2#a211027p2)
+ - [What are Nvidia G-Sync and AMD FreeSync and which do I need?     - CNET](https://www.cnet.com/tech/gaming/what-are-nvidia-g-sync-and-amd-freesync-and-which-do-i-need/#ftag=CAD590a51e)
+ - [Have scientists found the first planet outside our galaxy? It's complicated     - CNET](https://www.cnet.com/news/have-scientists-found-the-first-planet-outside-our-galaxy-its-complicated/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
