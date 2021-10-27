@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Backthen and now](http://9gag.com/gag/a21NzbE)
- - 🚯 [Imagine if this movie was filmed today](http://9gag.com/gag/arnpv1d)
- - 🚯 [Why did they remove it](http://9gag.com/gag/a61wmZA)<!-- MEMES:END -->
+ - 🚖 [Why did they remove it](http://9gag.com/gag/a61wmZA)
+ - 🚯 [That&#039;s disgusting. Where ?](http://9gag.com/gag/a31YPZm)
+ - 🚯 [What a nob.](http://9gag.com/gag/aOQqKG3)<!-- MEMES:END -->
 
 --- 
 
