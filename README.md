@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Speed Test G: Google Pixel 6 vs Pixel 4 (not a flawless victory)](https://www.androidauthority.com/speed-test-g-google-pixel-6-vs-pixel-4-3047246/)
- - [Early Black Friday deals hit Apple's 2021 14-inch and 16-inch MacBook Pro](https://appleinsider.com/articles/21/10/27/early-black-friday-deals-hit-apples-2021-14-inch-and-16-inch-macbook-pro?utm_medium=rss)
- - [Compared: 14-inch MacBook Pro vs. 13-inch M1 MacBook Pro vs. Intel 13-inch MacBook Pro](https://appleinsider.com/articles/21/10/18/compared-new-14-inch-macbook-pro-versus-13-inch-m1-macbook-pro-versus-intel-13-inch-macbook-pro?utm_medium=rss)<!-- TECH:END -->
+ - [Can’t use Google Pay on your OnePlus 8? You’re not alone.](https://www.androidauthority.com/oneplus-8-google-pay-safetynet-3047308/)
+ - [Senate GOP report: Seagate violated US export rules by continuing to sell hard drives to Huawei after export restrictions were tightened in September 2020 (Dan Strumpf/Wall Street Journal)](http://www.techmeme.com/211027/p6#a211027p6)
+ - [Google Pixel 6 vs Apple iPhone 13: Which should you buy?](https://www.androidauthority.com/google-pixel-6-vs-iphone-13-3023388/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
