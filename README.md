@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Right?? Right?!](http://9gag.com/gag/aLvKQPV)
- - 🚯 [Bicycle stunt with the bicycle digitally removed](http://9gag.com/gag/aegNNbB)
- - 🚯 [Instant karma](http://9gag.com/gag/a11Av6P)<!-- MEMES:END -->
+ - 🚖 [What a nob.](http://9gag.com/gag/aOQqKG3)
+ - 🚯 [Shame on you.](http://9gag.com/gag/azebgPB)
+ - 🚯 [Damn this looks like kdrama in real life, cute couple tho](http://9gag.com/gag/a91dbvZ)<!-- MEMES:END -->
 
 --- 
 
