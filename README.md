@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Medable, a developer of clinical trial management software, raises a $304M Series D led by Blackstone Growth and Tiger Global at a $2.1B valuation (Christine Hall/TechCrunch)](http://www.techmeme.com/211026/p51#a211026p51)
- - [FCC orders China Telecom Americas to stop providing services in the US within 60 days, says the US unit is subject to Chinese government control and influence (Jon Brodkin/Ars Technica)](http://www.techmeme.com/211026/p50#a211026p50)
- - [Apple's Craig Federighi to present keynote at Web Summit 2021 next week](https://appleinsider.com/articles/21/10/27/apples-craig-federighi-to-present-keynote-at-web-summit-2021-in-november?utm_medium=rss)<!-- TECH:END -->
+ - [Google, IBM underreporting greenhouse gas emissions, study says     - CNET](https://www.cnet.com/news/google-ibm-underreporting-greenhouse-gas-emissions-study-says/#ftag=CAD590a51e)
+ - [Apple's Craig Federighi to present keynote at Web Summit 2021 next week](https://appleinsider.com/articles/21/10/27/apples-craig-federighi-to-present-keynote-at-web-summit-2021-in-november?utm_medium=rss)
+ - [WhatsApp users can transfer chat histories from iPhone to Google Pixel, Android 12 devices](https://appleinsider.com/articles/21/10/27/whatsapp-users-can-transfer-chat-histories-from-iphone-to-google-pixel-android-12-devices?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
