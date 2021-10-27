@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The uncomfortable truth of Call of Duty’s latest marketing campaign](https://www.polygon.com/22748724/call-of-duty-vanguard-trailer-marketing-campaign-ww2)
- - [Buzz Lightyear Trailer Makes No Sense, Breaks Internet's Brain](https://kotaku.com/buzz-lightyear-trailer-makes-no-sense-breaks-internets-1847947531)
- - [The Wheel of Time’s new trailer sets up its world-ending stakes and magical heroes](https://www.polygon.com/22749009/wheel-of-time-new-trailer-season-1-release-date-amazon)<!-- GAME:END -->
+ - [The Halloween Countdown: 31 days of horror](https://www.polygon.com/22702474/best-halloween-movies-tv-to-watch-stream)
+ - [Twitch streamer Pokimane sorta co-owns the biggest fighting game tournament in the world now](https://www.pcgamer.com/twitch-streamer-pokimane-sorta-co-owns-the-biggest-fighting-game-tournament-in-the-world-now)
+ - [Genshin Impact’s New Event Is A Surprisingly Great Roguelike](https://kotaku.com/genshin-impact-s-new-event-is-a-surprisingly-great-rogu-1847948578)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
