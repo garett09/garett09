@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Some people just want to watch the world burn](http://9gag.com/gag/abg5yvB)
- - 🚯 [How the tables turned during this COVID Shortage crisis](http://9gag.com/gag/a715K1L)
- - 🚯 [I will repeat the instructions](http://9gag.com/gag/a11AZ46)<!-- MEMES:END -->
+ - 🚖 [Back to stone age](http://9gag.com/gag/a31Y3DN)
+ - 🚯 [I will repeat the instructions](http://9gag.com/gag/a11AZ46)
+ - 🚯 [Right?? Right?!](http://9gag.com/gag/aLvKQPV)<!-- MEMES:END -->
 
 --- 
 
