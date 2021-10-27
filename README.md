@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Can’t use Google Pay on your OnePlus 8? You’re not alone.](https://www.androidauthority.com/oneplus-8-google-pay-safetynet-3047308/)
- - [Senate GOP report: Seagate violated US export rules by continuing to sell hard drives to Huawei after export restrictions were tightened in September 2020 (Dan Strumpf/Wall Street Journal)](http://www.techmeme.com/211027/p6#a211027p6)
- - [Google Pixel 6 vs Apple iPhone 13: Which should you buy?](https://www.androidauthority.com/google-pixel-6-vs-iphone-13-3023388/)<!-- TECH:END -->
+ - [Best stereo speakers for 2021     - CNET](https://www.cnet.com/tech/home-entertainment/best-stereo-speakers/#ftag=CAD590a51e)
+ - [4K and 8K TV refresh rates from 60hz to 120Hz: Everything you should know     - CNET](https://www.cnet.com/tech/home-entertainment/4k-and-8k-tv-refresh-rates-from-60hz-to-120hz-everything-you-should-know/#ftag=CAD590a51e)
+ - [China's cyberspace regulator says it will strengthen efforts to build a "civilized" internet, using the platform to disseminate party theories (Brenda Goh/Reuters)](http://www.techmeme.com/211027/p7#a211027p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
