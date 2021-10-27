@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Should I buy Nintendo Switch Online + Expansion Pack?](https://www.polygon.com/22747408/nintendo-switch-online-expansion-pack-faq-price-cancel-guide)
- - [Creating the anthropomorphic world of Backbone, coming to PS4 and PS5](http://feedproxy.google.com/~r/PSBlog/~3/J8jIHrh47c8/)
- - [Creating the anthropomorphic world of Backbone, coming to PS4 and PS5](https://blog.playstation.com/2021/10/27/creating-the-anthropomorphic-world-of-backbone-coming-to-ps4-and-ps5/)<!-- GAME:END -->
+ - [Moonglow Bay is a small fishing game with big feelings](https://www.polygon.com/reviews/22746944/moonglow-bay-fishing-game-impressions-review)
+ - [The best part of Dune is the enveloping boom of the thopters](https://www.polygon.com/22747546/dune-ornithopters-theater-4dx)
+ - [Best wireless gaming mouse](https://www.pcgamer.com/best-wireless-gaming-mouse)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
