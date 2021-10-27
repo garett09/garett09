@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [App Privacy Report, Communication Safety features debut in iOS 15.2 beta](https://appleinsider.com/articles/21/10/27/app-privacy-report-communication-safety-features-debut-in-ios-152-beta?utm_medium=rss)
- - [Twilio Q3: rev. of $740.2M vs. $681M est., up 65% YoY, loss of $224.1M, up from $116.9M YoY, 250K+ active customer accounts, up from 208K YoY; stock down 11%+ (Tiernan Ray/ZDNet)](http://www.techmeme.com/211027/p40#a211027p40)
- - [eBay Q3: revenue of $2.5B, vs. $2.46B estimates, up 11% YoY, gross merchandise value of $19.5B, down 10% YoY, 154M active buyers, up 5% YoY, stock down 6%+ (Emily Bary/MarketWatch)](http://www.techmeme.com/211027/p39#a211027p39)<!-- TECH:END -->
+ - [App Privacy Report to debut in iOS 15.2 beta, code for Communication Safety appears [u]](https://appleinsider.com/articles/21/10/27/app-privacy-report-communication-safety-features-debut-in-ios-152-beta?utm_medium=rss)
+ - [Apple releases Safari 15.1 for macOS Big Sur and Catalina with traditional tab design](https://appleinsider.com/articles/21/10/27/apple-releases-safari-151-for-macos-big-sur-and-catalina-with-traditional-tab-design?utm_medium=rss)
+ - [QuickNode, which helps developers build blockchain apps, raises a $35M Series A led by Tiger Global, following a $5.3M seed round in May (Eli Tan/CoinDesk)](http://www.techmeme.com/211027/p41#a211027p41)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
