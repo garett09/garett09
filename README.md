@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [God s(h)ave the queen](http://9gag.com/gag/aBnKQex)
- - 🚯 [A man in India set a world record in 1986 by spending 72 hours in a glass cabin with 72 of the most venomous snake species in India. He did this to spread awareness that snakes don&#039;t bite unless provoked. After 72 hours he came out without a single scratch on him.](http://9gag.com/gag/apgqop9)
+ - 🚖 [Some people just want to watch the world burn](http://9gag.com/gag/abg5yvB)
+ - 🚯 [Big bad wolf](http://9gag.com/gag/aqGmZrZ)
  - 🚯 [I will repeat the instructions](http://9gag.com/gag/a11AZ46)<!-- MEMES:END -->
 
 --- 
