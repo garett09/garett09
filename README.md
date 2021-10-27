@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Did astronomers find the first planet outside of the Milky Way? It's complicated     - CNET](https://www.cnet.com/news/did-astronomers-find-the-first-planet-outside-of-the-milky-way-its-complicated/#ftag=CAD590a51e)
- - [Instagram’s link stickers are rolling out to everyone](https://www.theverge.com/2021/10/27/22748303/instagram-link-stickers-stories-everyone-rolling-out-test)
- - [Save $40 on a smokeless fire pit and take the party outside this fall     - CNET](https://www.cnet.com/home/save-40-on-a-smokeless-fire-pit-and-take-the-party-outside-this-fall/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [What to expect from Apple's September quarter earnings call on Thursday](https://appleinsider.com/articles/21/10/22/what-to-expect-from-apples-september-quarter-earnings-call-on-oct-28?utm_medium=rss)
+ - [Check out these One UI 4 videos from Samsung that show off what to expect](https://www.androidauthority.com/one-ui-4-videos-3047626/)
+ - [Intel launches its 12th-gen Alder Lake chips, led by the flagship Core i9-12900K CPU with 16 cores for $589, shipping November 4 (Chaim Gartenberg/The Verge)](http://www.techmeme.com/211027/p29#a211027p29)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
