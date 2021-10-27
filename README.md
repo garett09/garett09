@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ontra, formerly InCloudCounsel, which offers automated contract management tools, raises a $200M Series B led by Blackstone Growth (Ingrid Lunden/TechCrunch)](http://www.techmeme.com/211027/p19#a211027p19)
- - [A look at efforts by countries, including the UK, EU, Japan, and China, and companies, such as Facebook and YouTube, to implement age verification checks (David McCabe/New York Times)](http://www.techmeme.com/211027/p18#a211027p18)
- - [Lightyear’s new trailer turns a cute toy into a sci-fi hero](https://www.theverge.com/2021/10/27/22748435/lightyear-trailer-disney-pixar-chris-evans)<!-- TECH:END -->
+ - [The US Copyright Office just struck a blow for the right to repair](https://www.theverge.com/2021/10/27/22747310/us-copyright-office-dmca-section-1201-exemption-rulemaking-report)
+ - [Amazon Fire TV Stick 4K Max review: Bells, whistles, and more](https://www.androidauthority.com/amazon-fire-tv-stick-4k-max-review-3046108/)
+ - [Amazon’s new TVs will soon support Apple AirPlay 2 and HomeKit](https://www.theverge.com/2021/10/27/22747811/amazon-fire-tv-omni-4-series-apple-airplay-2-homekit)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
