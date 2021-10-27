@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Death’s Door coming to PlayStation and Nintendo Switch in November](https://www.polygon.com/22749619/deaths-door-playstation-ps5-nintendo-switch-release-date)
- - [Isle of Bigsnax adds a whole new world to Bugsnax](https://www.pcgamer.com/isle-of-bigsnax-adds-a-whole-new-world-to-bugsnax)
- - [The King of Fighters 15 introduces all-new character Dolores](https://www.polygon.com/22749632/the-king-of-fighters-xv-15-open-beta-dolores-trailer)<!-- GAME:END -->
+ - [Report: Vicarious Visions Changing Its Name After Blizzard Merger](https://kotaku.com/report-vicarious-visions-changing-its-name-after-blizz-1847951518)
+ - [Star Ocean: The Divine Forge is coming to PlayStation next year](https://www.polygon.com/22749587/star-ocean-divine-forge-playstation-2022-release-announcement-trailer)
+ - [Aliens: Fireteam Elite Year 1 promises changes that will 'add more enjoyment' to the struggling shooter](https://www.pcgamer.com/aliens-fireteam-elite-year-1-promises-changes-that-will-add-more-enjoyment-to-the-struggling-shooter)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
