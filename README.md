@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dimension 20’s next season is a 4-part series called Shriek Week](https://www.polygon.com/22748697/dimension-20-new-season-shriek-week-actual-play-gabe-hicks)
- - [Hot Wheels Unleashed Devs On Making 2021's Most Surprising Racing Game](https://kotaku.com/hot-wheels-unleashed-devs-on-making-2021s-most-surprisi-1847946535)
- - [Forza Horizon 5 car list: all the cars confirmed so far](https://www.pcgamer.com/forza-horizon-5-car-list)<!-- GAME:END -->
+ - [The uncomfortable truth of Call of Duty’s latest marketing campaign](https://www.polygon.com/22748724/call-of-duty-vanguard-trailer-marketing-campaign-ww2)
+ - [Buzz Lightyear Trailer Makes No Sense, Breaks Internet's Brain](https://kotaku.com/buzz-lightyear-trailer-makes-no-sense-breaks-internets-1847947531)
+ - [The Wheel of Time’s new trailer sets up its world-ending stakes and magical heroes](https://www.polygon.com/22749009/wheel-of-time-new-trailer-season-1-release-date-amazon)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
