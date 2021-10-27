@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Moonglow Bay is a small fishing game with big feelings](https://www.polygon.com/reviews/22746944/moonglow-bay-fishing-game-impressions-review)
- - [The best part of Dune is the enveloping boom of the thopters](https://www.polygon.com/22747546/dune-ornithopters-theater-4dx)
- - [Best wireless gaming mouse](https://www.pcgamer.com/best-wireless-gaming-mouse)<!-- GAME:END -->
+ - [Tiger King season 2’s first trailer looks even more off-the-rails than the original](https://www.polygon.com/22748654/tiger-king-season-2-trailer-release-date-joe-exotic)
+ - [Apple Music launches on PS5 today](http://feedproxy.google.com/~r/PSBlog/~3/1rOxi2V41XM/)
+ - [Apple Music launches on PS5 today](https://blog.playstation.com/2021/10/27/apple-music-launches-on-ps5-today/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
