@@ -194,7 +194,7 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Some people just want to watch the world burn](http://9gag.com/gag/abg5yvB)
- - 🚯 [Big bad wolf](http://9gag.com/gag/aqGmZrZ)
+ - 🚯 [How the tables turned during this COVID Shortage crisis](http://9gag.com/gag/a715K1L)
  - 🚯 [I will repeat the instructions](http://9gag.com/gag/a11AZ46)<!-- MEMES:END -->
 
 --- 
