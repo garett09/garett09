@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Care about your health](http://9gag.com/gag/aDD00Dx)
- - 🚯 [Ho Ho Holyshit](http://9gag.com/gag/aWgZQ7Z)
- - 🚯 [Bicycle stunt with the bicycle digitally removed](http://9gag.com/gag/aegNNbB)<!-- MEMES:END -->
+ - 🚖 [Oi ave you got a licence for that mate](http://9gag.com/gag/angYYYo)
+ - 🚯 [Care about your health](http://9gag.com/gag/aDD00Dx)
+ - 🚯 [Yes stay in the Truck Yes](http://9gag.com/gag/a91dbWL)<!-- MEMES:END -->
 
 --- 
 
