@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Pokémon x Sumo Collab We've Been Waiting For](https://kotaku.com/the-pokemon-x-sumo-collab-weve-been-waiting-for-1847943551)
- - [Crusader Kings 3's first big expansion won't be out until 2022](https://www.pcgamer.com/crusader-kings-3s-first-big-expansion-wont-be-out-until-2022)
- - [Pokémon Go Creators' New Mobile Game Is Pikmin Bloom](https://kotaku.com/pokemon-go-creators-new-mobile-game-is-pikmin-bloom-1847942115)<!-- GAME:END -->
+ - [Best gaming motherboards in 2021](https://www.pcgamer.com/best-gaming-motherboards)
+ - [Longtime Persona Composer Shoji Meguro Is Leaving Atlus](https://kotaku.com/longtime-persona-composer-shoji-meguro-is-leaving-atlus-1847943643)
+ - [Keep your GTA Trilogy remaster, I just want Chinatown Wars on PC](https://www.pcgamer.com/keep-your-gta-trilogy-remaster-i-just-want-chinatown-wars-on-pc)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
