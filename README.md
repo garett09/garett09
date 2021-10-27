@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What kind of animal would eat a dry one hooman?](http://9gag.com/gag/apgqKOB)
- - 🚯 [That&#039;s disgusting. Where ?](http://9gag.com/gag/a31YPZm)
- - 🚯 [Imagine if this movie was filmed today](http://9gag.com/gag/arnpv1d)<!-- MEMES:END -->
+ - 🚖 [Backthen and now](http://9gag.com/gag/a21NzbE)
+ - 🚯 [Imagine if this movie was filmed today](http://9gag.com/gag/arnpv1d)
+ - 🚯 [Why did they remove it](http://9gag.com/gag/a61wmZA)<!-- MEMES:END -->
 
 --- 
 
