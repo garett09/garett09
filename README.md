@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [London-based Attest, which offers no-code tools for research surveys across 110M participants, raises $60M, bringing total funding to $85M (Ingrid Lunden/TechCrunch)](http://www.techmeme.com/211027/p12#a211027p12)
- - [Are Green Jet Fuels Finally Ready for Takeoff?](https://www.wired.com/story/are-green-jet-fuels-finally-ready-for-takeoff)
- - [The Grand Theft Auto III  Radio Commercials Are Still Awesome](https://www.wired.com/story/grand-theft-auto-3-radio-stations-commercials)<!-- TECH:END -->
+ - [Interview with Mike Clark, AMD's Chief Architect of Zen, on the history Zen and Ryzen branding, x86 limitations, future design considerations, and more (Dr. Ian Cutress/AnandTech)](http://www.techmeme.com/211027/p16#a211027p16)
+ - [Workplace productivity and project management service ClickUp raises a $400M Series C at a $4B post-money valuation led by a16z and Tiger Global (Ingrid Lunden/TechCrunch)](http://www.techmeme.com/211027/p15#a211027p15)
+ - [Apple says 175 manufacturing partners commit to renewable energy     - CNET](https://www.cnet.com/tech/mobile/apple-says-175-manufacturing-partners-commit-to-renewable-energy/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
