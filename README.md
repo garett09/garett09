@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Interview with Mike Clark, AMD's Chief Architect of Zen, on the history Zen and Ryzen branding, x86 limitations, future design considerations, and more (Dr. Ian Cutress/AnandTech)](http://www.techmeme.com/211027/p16#a211027p16)
- - [Workplace productivity and project management service ClickUp raises a $400M Series C at a $4B post-money valuation led by a16z and Tiger Global (Ingrid Lunden/TechCrunch)](http://www.techmeme.com/211027/p15#a211027p15)
- - [Apple says 175 manufacturing partners commit to renewable energy     - CNET](https://www.cnet.com/tech/mobile/apple-says-175-manufacturing-partners-commit-to-renewable-energy/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Ontra, formerly InCloudCounsel, which offers automated contract management tools, raises a $200M Series B led by Blackstone Growth (Ingrid Lunden/TechCrunch)](http://www.techmeme.com/211027/p19#a211027p19)
+ - [A look at efforts by countries, including the UK, EU, Japan, and China, and companies, such as Facebook and YouTube, to implement age verification checks (David McCabe/New York Times)](http://www.techmeme.com/211027/p18#a211027p18)
+ - [Lightyear’s new trailer turns a cute toy into a sci-fi hero](https://www.theverge.com/2021/10/27/22748435/lightyear-trailer-disney-pixar-chris-evans)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
