@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [What to expect from Apple's September quarter earnings call on Thursday](https://appleinsider.com/articles/21/10/22/what-to-expect-from-apples-september-quarter-earnings-call-on-oct-28?utm_medium=rss)
- - [Check out these One UI 4 videos from Samsung that show off what to expect](https://www.androidauthority.com/one-ui-4-videos-3047626/)
- - [Intel launches its 12th-gen Alder Lake chips, led by the flagship Core i9-12900K CPU with 16 cores for $589, shipping November 4 (Chaim Gartenberg/The Verge)](http://www.techmeme.com/211027/p29#a211027p29)<!-- TECH:END -->
+ - [Internal docs show Netflix tried to minimize public backlash to the film Cuties by stopping it from appearing in some search results and recommendations (Zoe Schiffer/The Verge)](http://www.techmeme.com/211027/p31#a211027p31)
+ - [Google now lets anyone under 18 get images of themselves removed from search results     - CNET](https://www.cnet.com/news/google-now-lets-anyone-under-18-get-images-of-themselves-removed-from-search-results/#ftag=CAD590a51e)
+ - [Google makes it easier for Android developers to build apps with its Material You design](https://www.theverge.com/2021/10/27/22748821/android-12-developers-material-you-summit-jetpack)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
