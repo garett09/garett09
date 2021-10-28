@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This 360Hz Alienware gaming monitor is under half price at Dell right now](https://www.pcgamer.com/this-360hz-alienware-gaming-monitor-is-under-half-price-at-dell-right-now)
- - [Vicarious Visions will reportedly merge fully with Blizzard, dropping its old name](https://www.pcgamer.com/vicarious-visions-will-reportedly-merge-fully-with-blizzard-dropping-its-old-name)
- - [For $24,000, You Can Buy Tecmo Koei Gold Coins](https://kotaku.com/for-24-000-you-can-buy-tecmo-koei-gold-coins-1847953750)<!-- GAME:END -->
+ - [Bobby Kotick Takes Another Pay Cut, Waives Arbitration In Letter To Staff](https://kotaku.com/bobby-kotick-takes-another-pay-cut-waives-arbitration-1847953970)
+ - [Seize the Throne: Join our latest PlayStation community event for an opportunity to win a PS5 and more](https://blog.playstation.com/2021/10/28/seize-the-throne-join-our-latest-playstation-community-event-for-an-opportunity-to-win-a-ps5-and-more/)
+ - [How Halloween Became a Thing in Japan](https://kotaku.com/how-halloween-became-a-thing-in-japan-5954768)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
