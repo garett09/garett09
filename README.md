@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [App Privacy Report to debut in iOS 15.2 beta, code for Communication Safety appears [u]](https://appleinsider.com/articles/21/10/27/app-privacy-report-communication-safety-features-debut-in-ios-152-beta?utm_medium=rss)
- - [Apple releases Safari 15.1 for macOS Big Sur and Catalina with traditional tab design](https://appleinsider.com/articles/21/10/27/apple-releases-safari-151-for-macos-big-sur-and-catalina-with-traditional-tab-design?utm_medium=rss)
- - [QuickNode, which helps developers build blockchain apps, raises a $35M Series A led by Tiger Global, following a $5.3M seed round in May (Eli Tan/CoinDesk)](http://www.techmeme.com/211027/p41#a211027p41)<!-- TECH:END -->
+ - [In-app events land on the iOS App Store](https://appleinsider.com/articles/21/10/28/in-app-events-land-on-the-ios-app-store?utm_medium=rss)
+ - [GitHub says as much as 30% of new code on its network is written with its AI tool Copilot, and 50% of developers who tried it since July have kept using it (Bryan Walsh/Axios)](http://www.techmeme.com/211027/p43#a211027p43)
+ - [A look at Stripe's carbon-removal investments, including $9M in 10 projects; nearly 9K businesses use Stripe Climate to divert some revenue to carbon-removal (Ed Ballard/Wall Street Journal)](http://www.techmeme.com/211027/p42#a211027p42)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
