@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [ClickHouse, which provides an online analytical processing database management system, raises $250M at a $2B valuation led by Coatue and Altimeter (Katie Roof/Bloomberg)](http://www.techmeme.com/211028/p21#a211028p21)
- - [Making this album with AI ‘felt like wandering in an enormous labyrinth’](https://www.theverge.com/2021/10/28/22750337/shadow-planet-ai-robin-sloan-jesse-solomon-clark)
- - [The OLED Switch’s new kickstand was made for Mario Party](https://www.theverge.com/2021/10/28/22749548/mario-party-superstars-nintendo-switch-oled-kickstand)<!-- TECH:END -->
+ - [Global money laundering watchdog FATF releases guidelines that could force crypto companies to check customers' identities and report suspicious transactions (Alexander Osipovich/Wall Street Journal)](http://www.techmeme.com/211028/p23#a211028p23)
+ - [OWC debuts replacement SSD for non-Touch Bar 13-inch MacBook Pro](https://appleinsider.com/articles/21/10/28/owc-debuts-replacement-ssd-for-non-touch-bar-13-inch-macbook-pro?utm_medium=rss)
+ - [Nikon unveils new mirrorless flagship Z9 camera & additional Nikkor lenses](https://appleinsider.com/articles/21/10/28/nikon-unveils-new-mirrorless-flagship-z9-camera-additional-nikkor-lenses?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
