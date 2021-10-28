@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [In-app events land on the iOS App Store](https://appleinsider.com/articles/21/10/28/in-app-events-land-on-the-ios-app-store?utm_medium=rss)
- - [GitHub says as much as 30% of new code on its network is written with its AI tool Copilot, and 50% of developers who tried it since July have kept using it (Bryan Walsh/Axios)](http://www.techmeme.com/211027/p43#a211027p43)
- - [A look at Stripe's carbon-removal investments, including $9M in 10 projects; nearly 9K businesses use Stripe Climate to divert some revenue to carbon-removal (Ed Ballard/Wall Street Journal)](http://www.techmeme.com/211027/p42#a211027p42)<!-- TECH:END -->
+ - [Spotify says it 'recently passed' Apple as top US podcast platform](https://appleinsider.com/articles/21/10/28/spotify-says-it-recently-passed-apple-as-top-us-podcast-platform?utm_medium=rss)
+ - [Samsung reports Q3 net profit of ~$10.5B, up 31% YoY, on record revenue of ~$63B, up 10% YoY, beating estimates; operating profit rose 26% YoY to ~$13B (Richard Lawler/The Verge)](http://www.techmeme.com/211027/p45#a211027p45)
+ - [Internal docs show how Facebook calculates the number of engineers needed and how it has struggled to recruit talent, missing recruitment goals in 2019 and 2021 (Anna Kramer/Protocol)](http://www.techmeme.com/211027/p44#a211027p44)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
