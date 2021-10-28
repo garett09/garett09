@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Notes of interest from Apple's Q4 2021 and annual earnings report](https://appleinsider.com/articles/21/10/28/notes-of-interest-from-apples-q4-2021-and-annual-earnings-report?utm_medium=rss)
- - [Chan Zuckerberg Initiative to sunset its Meta project     - CNET](https://www.cnet.com/tech/chan-zuckerberg-initiative-to-sunset-its-meta-project/#ftag=CAD590a51e)
- - [Facebook, Google, Twitter and TikTok grilled by lawmakers over child safety failures     - CNET](https://www.cnet.com/news/facebook-google-twitter-and-tiktok-grilled-by-lawmakers-over-child-safety-failures/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Expanse season 6: What to expect from the Amazon series’ final season](https://www.androidauthority.com/expanse-season-6-amazon-prime-video-3046353/)
+ - [Will the Oculus Quest still require a Facebook account? It’s complicated](https://www.theverge.com/2021/10/28/22751297/meta-oculus-quest-need-facebook-account-login-password)
+ - [Google makes waitlists for Pixel 6 Pro because it can’t keep the phone in stock](https://www.theverge.com/2021/10/28/22751527/google-store-pixel-6-pro-waitlist-in-stock)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
