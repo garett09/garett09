@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Monster Girl gives classic horror movie villains a liberating twist](https://www.polygon.com/22739140/monster-girl-horror-trope-carrie-titane)
- - [I learned to love Unsighted's constantly ticking death clock](https://www.pcgamer.com/i-learned-to-love-unsighteds-constantly-ticking-death-clock)
- - [The best free PC games in 2021](https://www.pcgamer.com/best-free-pc-games)<!-- GAME:END -->
+ - [Nintendo Releases Surprise Metroid Dread Demo](https://kotaku.com/nintendo-releases-surprise-metroid-dread-demo-1847952398)
+ - [On The Mic](https://kotaku.com/on-the-mic-1847952027)
+ - [The Monster Girl gives classic horror movie villains a liberating twist](https://www.polygon.com/22739140/monster-girl-horror-trope-carrie-titane)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
