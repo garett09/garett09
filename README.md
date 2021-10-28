@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Prince of Persia: The Sands of Time Remake is still happening, but might not be out until 2023](https://www.pcgamer.com/prince-of-persia-the-sands-of-time-remake-is-still-happening-but-might-not-be-out-until-2023)
- - [Grand Theft Auto: San Andreas is coming to VR](https://www.polygon.com/22751026/grand-theft-auto-san-andreas-vr-oculus-quest-2-facebook)
- - [Heavy Metal’s drag-filled Halloween issue is a nexus of horror, glamour, and filth](https://www.polygon.com/comics/22749043/boulet-brothers-heavy-metal-alaska-5000-steve-orlando-issue)<!-- GAME:END -->
+ - [Getting old might be the scariest new thing in horror movies](https://www.polygon.com/22745260/old-horror-movie-trope-rosemarys-baby-relic)
+ - [GTA San Andreas Enters The Metaverse, Via Oculus Quest 2](https://kotaku.com/gta-san-andreas-enters-the-metaverse-via-oculus-quest-1847957846)
+ - [Knockout City gets PS5, Xbox Series X enhanced versions next week](https://www.polygon.com/22751081/knockout-city-ps5-xbox-series-x-version-release-dates-120-fps-4k)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
