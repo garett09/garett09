@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Apple Watch sports bands: Nike, Nomad, and more](https://www.androidauthority.com/best-apple-watch-sports-bands-3045156/)
- - [You told us: This should be the next Google Pixel product](https://www.androidauthority.com/next-google-pixel-product-poll-results-3047781/)
- - [Best coffee maker for 2021     - CNET](https://www.cnet.com/home/kitchen-and-household/best-coffee-maker/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The best Google Pixel 6 and Pixel 6 Pro accessories you can get](https://www.androidauthority.com/best-google-pixel-6-pro-accessories-3047180/)
+ - [Sony reports Q2 revenue rose 13% YoY to $21B and operating income rose 1% YoY to $2.8B; PS5 sales were 3.3M as its Games unit operating income dropped 22% YoY (Nancy Tartaglione/Deadline)](http://www.techmeme.com/211028/p4#a211028p4)
+ - [Apple’s notch ‘fix’ brings fat bezels back to the MacBook Pro](https://www.theverge.com/2021/10/28/22750236/apple-macbook-pro-hide-notch-fix-scale-to-fit)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
