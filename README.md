@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Right?? Right?!](http://9gag.com/gag/aLvKQPV)
- - 🚯 [Back to stone age](http://9gag.com/gag/a31Y3DN)
- - 🚯 [Really tho](http://9gag.com/gag/a31YLEN)<!-- MEMES:END -->
+ - 🚖 [Back to stone age](http://9gag.com/gag/a31Y3DN)
+ - 🚯 [New Buzz Lightyear movie coming](http://9gag.com/gag/aGz9VBn)
+ - 🚯 [IT resolution for every problem](http://9gag.com/gag/a715yPb)<!-- MEMES:END -->
 
 --- 
 
