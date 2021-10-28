@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Getting old might be the scariest new thing in horror movies](https://www.polygon.com/22745260/old-horror-movie-trope-rosemarys-baby-relic)
- - [GTA San Andreas Enters The Metaverse, Via Oculus Quest 2](https://kotaku.com/gta-san-andreas-enters-the-metaverse-via-oculus-quest-1847957846)
- - [Knockout City gets PS5, Xbox Series X enhanced versions next week](https://www.polygon.com/22751081/knockout-city-ps5-xbox-series-x-version-release-dates-120-fps-4k)<!-- GAME:END -->
+ - [Critical Role Campaign 3: meet the characters picking up after Exandria Unlimited](https://www.polygon.com/22750802/critical-role-campaign-3-character-bios)
+ - [Vermintide 2 gets a scary seasonal event and some meaner monsters](https://www.polygon.com/22751154/vermintide-2-geheimnisnacht-event-grudge-marks-rewards)
+ - [Lady Gaga plots ‘unconventional punishment’ in new House of Gucci trailer](https://www.polygon.com/entertainment/22750985/house-of-gucci-trailer-lady-gaga)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
