@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The 6 types of masks that define slasher movies](https://www.polygon.com/22735035/horror-movie-masks-jason-michael-myers)
- - [Streamers can lose the music in Marvel’s Guardians of the Galaxy — but it does kill the vibe](https://www.polygon.com/22749337/marvels-guardians-of-the-galaxy-streamer-mode-licensed-music-dmca-takedown)
- - [Key and Peele’s long-awaited team-up with Coraline director finally surfaces](https://www.polygon.com/22750546/wendell-and-wild-key-peele-selick-trailer-netflix)<!-- GAME:END -->
+ - [Dr. Dre Is Making Music For An Upcoming GTA Game, Says Snoop Dogg](https://kotaku.com/dr-dre-is-making-music-for-an-upcoming-gta-game-says-1847955870)
+ - [Save $300 on one of the best OLED 4K gaming TVs out there](https://www.pcgamer.com/save-dollar300-on-one-of-the-best-oled-4k-gaming-tvs-out-there)
+ - [Owl House’s Molly Knox Ostertag is launching a new graphic novel online](https://www.polygon.com/22749947/molly-knox-ostertag-web-comics-darkest-night)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
