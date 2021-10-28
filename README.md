@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Halloween Countdown: 31 days of horror](https://www.polygon.com/22702474/best-halloween-movies-tv-to-watch-stream)
- - [Bungie, I am once again begging you for more Destiny 2 Vault space](https://www.pcgamer.com/bungie-i-am-once-again-begging-you-for-more-destiny-2-vault-space)
- - [Oculus Quest VR headsets to eliminate mandatory Facebook account log-in requirement](https://www.pcgamer.com/oculus-quest-vr-headsets-to-eliminate-mandatory-facebook-account-log-in-requirement)<!-- GAME:END -->
+ - [Our favorite New Horizons 2.0 villagers coming early to Pocket Camp](https://www.polygon.com/22751106/animal-crossing-new-horizons-update-new-villagers-shino-sasha-petri-pocket-camp-announcement)
+ - [Ubisoft Is Getting Into The Blockchain Grift](https://kotaku.com/ubisoft-is-getting-into-the-blockchain-grift-1847959381)
+ - [EA reveals three of Battlefield 2042's big new maps](https://www.pcgamer.com/ea-reveals-three-of-battlefield-2042s-big-new-maps)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
