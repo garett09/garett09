@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dr. Dre Is Making Music For An Upcoming GTA Game, Says Snoop Dogg](https://kotaku.com/dr-dre-is-making-music-for-an-upcoming-gta-game-says-1847955870)
- - [Save $300 on one of the best OLED 4K gaming TVs out there](https://www.pcgamer.com/save-dollar300-on-one-of-the-best-oled-4k-gaming-tvs-out-there)
- - [Owl House’s Molly Knox Ostertag is launching a new graphic novel online](https://www.polygon.com/22749947/molly-knox-ostertag-web-comics-darkest-night)<!-- GAME:END -->
+ - [Call of Duty: Vanguard will require far less storage](https://www.polygon.com/22750795/call-of-duty-vanguard-install-download-size-playstation-xbox-preload-date)
+ - [Apex Legends’ newest map and hero were made for each other — literally](https://www.polygon.com/22750845/apex-legends-escape-preview-season-11-storm-point-ash)
+ - [Magic’s Innistrad: Crimson Vow card previews include a way to force your foes to marry you](https://www.polygon.com/22749578/magic-the-gathering-innistrad-crimson-vow-preview-cards)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
