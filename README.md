@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to buy the Pixel 6 and 6 Pro](https://www.theverge.com/22734748/google-pixel-6-pro-preorder-buy-how-to-price-availability-release-date)
- - [Which phone shot it? Pixel 6 Pro, S21 Ultra, iPhone 13 Pro Max, or Pixel 5?](https://www.androidauthority.com/google-pixel-6-pro-camera-guess-3048183/)
- - [Pokemon Go November 2021 events: Raids, Día de Muertos event and more     - CNET](https://www.cnet.com/tech/gaming/pokemon-go-november-2021-events-raids-diamond-and-pearl-event-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google says it will roll out e2e encrypted phone calls on Google Fi over the coming weeks (Jon Porter/The Verge)](http://www.techmeme.com/211028/p29#a211028p29)
+ - [iFixit takes a closer look at Apple's $19 polishing cloth](https://appleinsider.com/articles/21/10/28/ifixit-takes-a-closer-look-at-apples-19-polishing-cloth?utm_medium=rss)
+ - [Apex Legends: Escape takes the battle royale shooter on vacation at the perfect time](https://www.theverge.com/2021/10/28/22750879/apex-legends-escape-ash-storm-point-respawn-ea)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
