@@ -186,7 +186,7 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spotify says it 'recently passed' Apple as top US podcast platform](https://appleinsider.com/articles/21/10/28/spotify-says-it-recently-passed-apple-as-top-us-podcast-platform?utm_medium=rss)
+ - [Spotify overtakes Apple as top US podcast platform, says Spotify](https://appleinsider.com/articles/21/10/28/spotify-says-it-recently-passed-apple-as-top-us-podcast-platform?utm_medium=rss)
  - [Samsung reports Q3 net profit of ~$10.5B, up 31% YoY, on record revenue of ~$63B, up 10% YoY, beating estimates; operating profit rose 26% YoY to ~$13B (Richard Lawler/The Verge)](http://www.techmeme.com/211027/p45#a211027p45)
  - [Internal docs show how Facebook calculates the number of engineers needed and how it has struggled to recruit talent, missing recruitment goals in 2019 and 2021 (Anna Kramer/Protocol)](http://www.techmeme.com/211027/p44#a211027p44)<!-- TECH:END -->
 
