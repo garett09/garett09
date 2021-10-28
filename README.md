@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Which phone shot it? Pixel 6 Pro, S21 Ultra, iPhone, or Pixel 5? (Answers up!)](https://www.androidauthority.com/google-pixel-6-pro-camera-guess-3048183/)
- - [Facebook’s famous thumbs-up HQ sign has been replaced with Meta](https://www.theverge.com/2021/10/28/22751143/facebook-thumbs-up-like-meta-sign-global-headquarters-replaced)
- - [Facebook’s Name Change Goes Meta](https://www.wired.com/story/facebook-name-change-meta)<!-- TECH:END -->
+ - [With Facebook’s change to Meta, what’s the new Big Tech acronym?](https://www.theverge.com/tldr/2021/10/28/22751274/facebook-meta-name-change-new-big-tech-acronym-faang)
+ - [Amazon.com Announces Third Quarter Results (About Amazon)](http://www.techmeme.com/211028/p40#a211028p40)
+ - [Meta's Zuckerberg takes shots at Apple App Store fees, maintains its own](https://appleinsider.com/articles/21/10/28/metas-zuckerberg-takes-shots-at-apple-app-store-fees-maintains-its-own?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
