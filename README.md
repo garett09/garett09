@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitter launches the Spaces Recording feature that was announced last month, to a limited number of Spaces hosts on iOS and all listeners on iOS and Android (Sarah Perez/TechCrunch)](http://www.techmeme.com/211028/p34#a211028p34)
- - [Microsoft starts rolling out Windows 11 to more PCs](https://www.theverge.com/2021/10/28/22751036/microsoft-windows-11-download-available-more-pcs-install)
- - [Wyze’s cameras can now be a monitored home security system](https://www.theverge.com/2021/10/28/22750594/wyze-cams-monitored-security-smart-switches-price-release-date-specs)<!-- TECH:END -->
+ - [Which phone shot it? Pixel 6 Pro, S21 Ultra, iPhone, or Pixel 5? (Answers up!)](https://www.androidauthority.com/google-pixel-6-pro-camera-guess-3048183/)
+ - [Facebook’s famous thumbs-up HQ sign has been replaced with Meta](https://www.theverge.com/2021/10/28/22751143/facebook-thumbs-up-like-meta-sign-global-headquarters-replaced)
+ - [Facebook’s Name Change Goes Meta](https://www.wired.com/story/facebook-name-change-meta)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
