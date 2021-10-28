@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Back to stone age](http://9gag.com/gag/a31Y3DN)
- - 🚯 [I will repeat the instructions](http://9gag.com/gag/a11AZ46)
- - 🚯 [Right?? Right?!](http://9gag.com/gag/aLvKQPV)<!-- MEMES:END -->
+ - 🚖 [Right?? Right?!](http://9gag.com/gag/aLvKQPV)
+ - 🚯 [Back to stone age](http://9gag.com/gag/a31Y3DN)
+ - 🚯 [Really tho](http://9gag.com/gag/a31YLEN)<!-- MEMES:END -->
 
 --- 
 
