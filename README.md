@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I wish I was this good- in skirt of course.](http://9gag.com/gag/aAGY1M0)
- - 🚯 [Halp me pls](http://9gag.com/gag/abg5bWB)
- - 🚯 [Buzz Lightyear to the rescue](http://9gag.com/gag/arnp4VK)<!-- MEMES:END -->
+ - 🚖 [The most gorgeous creature! What would you call this breed of cat?](http://9gag.com/gag/aWgZOzn)
+ - 🚯 [It&rsquo;s not that hard is it](http://9gag.com/gag/aGz9xP6)
+ - 🚯 [I wish I was this good- in skirt of course.](http://9gag.com/gag/aAGY1M0)<!-- MEMES:END -->
 
 --- 
 
