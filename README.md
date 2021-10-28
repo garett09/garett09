@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Our favorite New Horizons 2.0 villagers coming early to Pocket Camp](https://www.polygon.com/22751106/animal-crossing-new-horizons-update-new-villagers-shino-sasha-petri-pocket-camp-announcement)
- - [Ubisoft Is Getting Into The Blockchain Grift](https://kotaku.com/ubisoft-is-getting-into-the-blockchain-grift-1847959381)
- - [EA reveals three of Battlefield 2042's big new maps](https://www.pcgamer.com/ea-reveals-three-of-battlefield-2042s-big-new-maps)<!-- GAME:END -->
+ - [Call of Duty: Warzone's overpowered Kali Sticks must be stopped](https://www.pcgamer.com/call-of-duty-warzones-overpowered-kali-sticks-must-be-stopped)
+ - [Obscure SNES RPG Lets You Take Photos Of Lovecraftian Horrors For Mad Cash](https://kotaku.com/obscure-snes-rpg-lets-you-take-photos-of-lovecraftian-h-1847959840)
+ - [Our favorite New Horizons 2.0 villagers coming early to Pocket Camp](https://www.polygon.com/22751106/animal-crossing-new-horizons-update-new-villagers-shino-sasha-petri-pocket-camp-announcement)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
