@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Few words do trick](http://9gag.com/gag/a715ZeL)
- - 🚯 [Also: *lies in bed like a starfish*](http://9gag.com/gag/aNPedn4)
- - 🚯 [They aren&#039;t wrong..](http://9gag.com/gag/a715rbw)<!-- MEMES:END -->
+ - 🚖 [Customer Internet Problems](http://9gag.com/gag/a414Gd1)
+ - 🚯 [Youre maderfaker](http://9gag.com/gag/aLvKMOz)
+ - 🚯 [It taught me a lot](http://9gag.com/gag/aOQqv6R)<!-- MEMES:END -->
 
 --- 
 
