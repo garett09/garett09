@@ -187,8 +187,8 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- TECH:START -->
  - [Apple expands first-party app ratings to Camera, Messages, Photos, more](https://appleinsider.com/articles/21/10/28/apple-expands-first-party-app-ratings-to-camera-messages-photos-more?utm_medium=rss)
- - [In-app events land on the iOS App Store](https://appleinsider.com/articles/21/10/28/in-app-events-land-on-the-ios-app-store?utm_medium=rss)
- - [New MacBook Pro uses battery pull tabs for easy replacement](https://appleinsider.com/articles/21/10/28/new-macbook-pro-uses-battery-pull-tabs-for-easy-replacement?utm_medium=rss)<!-- TECH:END -->
+ - [Stellantis launches its own reward miles program     - Roadshow](https://www.cnet.com/roadshow/news/stellantis-mileage-program-jeep-dodge-ram-fiat-alfa-romeo-chrysler/#ftag=CAD590a51e)
+ - [Best TV shows 2021: Midnight Mass, Squid Game, Hacks, The White Lotus and more     - CNET](https://www.cnet.com/news/best-tv-shows-2021-midnight-mass-squid-game-hacks-the-white-lotus-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
