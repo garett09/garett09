@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Happy haunting and hunting in Predator: Hunting Grounds](https://blog.playstation.com/2021/10/28/happy-haunting-and-hunting-in-predator-hunting-grounds/)
- - [For a legally blind player, Far Cry 6’s accessibility options are empowering](https://www.polygon.com/22748526/far-cry-6-accessibility-pc-xbox-one-series-x-ps5-ps4)
- - [Activision Blizzard CEO pledges to cut his salary, waive arbitration in letter to employees](https://www.polygon.com/22750451/activision-blizzard-ceo-bobby-kotick-pay-cut-arbitration-waived)<!-- GAME:END -->
+ - [The 6 types of masks that define slasher movies](https://www.polygon.com/22735035/horror-movie-masks-jason-michael-myers)
+ - [Streamers can lose the music in Marvel’s Guardians of the Galaxy — but it does kill the vibe](https://www.polygon.com/22749337/marvels-guardians-of-the-galaxy-streamer-mode-licensed-music-dmca-takedown)
+ - [Key and Peele’s long-awaited team-up with Coraline director finally surfaces](https://www.polygon.com/22750546/wendell-and-wild-key-peele-selick-trailer-netflix)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
