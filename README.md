@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Epos H6PRO gaming headset review](https://www.pcgamer.com/epos-h6pro-gaming-headset-review)
- - [Burger King Japan Is Selling Beef Patties, No Buns](https://kotaku.com/burger-king-japan-is-selling-beef-patties-no-buns-1847953590)
- - [Pathfinder: Wrath of the Righteous gets first big patch](https://www.pcgamer.com/pathfinder-wrath-of-the-righteous-gets-first-big-patch)<!-- GAME:END -->
+ - [This 360Hz Alienware gaming monitor is under half price at Dell right now](https://www.pcgamer.com/this-360hz-alienware-gaming-monitor-is-under-half-price-at-dell-right-now)
+ - [Vicarious Visions will reportedly merge fully with Blizzard, dropping its old name](https://www.pcgamer.com/vicarious-visions-will-reportedly-merge-fully-with-blizzard-dropping-its-old-name)
+ - [For $24,000, You Can Buy Tecmo Koei Gold Coins](https://kotaku.com/for-24-000-you-can-buy-tecmo-koei-gold-coins-1847953750)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
