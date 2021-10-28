@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Skyrim IRL TikTok Star Arrested, Charged With Murdering His Wife & Her Friend](https://kotaku.com/skyrim-irl-tiktok-star-arrested-charged-with-murdering-1847952568)
- - [Nintendo Releases Surprise Metroid Dread Demo](https://kotaku.com/nintendo-releases-surprise-metroid-dread-demo-1847952398)
- - [On The Mic](https://kotaku.com/on-the-mic-1847952027)<!-- GAME:END -->
+ - [Pathfinder: Wrath of the Righteous gets first big patch](https://www.pcgamer.com/pathfinder-wrath-of-the-righteous-gets-first-big-patch)
+ - [Dr. Dre is making new music for Grand Theft Auto](https://www.pcgamer.com/dr-dre-is-making-new-music-for-grand-theft-auto)
+ - [Skyrim IRL TikTok Star Arrested, Charged With Murdering His Wife & Her Friend](https://kotaku.com/skyrim-irl-tiktok-star-arrested-charged-with-murdering-1847952568)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
