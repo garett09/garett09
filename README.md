@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google says it will roll out e2e encrypted phone calls on Google Fi over the coming weeks (Jon Porter/The Verge)](http://www.techmeme.com/211028/p29#a211028p29)
- - [iFixit takes a closer look at Apple's $19 polishing cloth](https://appleinsider.com/articles/21/10/28/ifixit-takes-a-closer-look-at-apples-19-polishing-cloth?utm_medium=rss)
- - [Apex Legends: Escape takes the battle royale shooter on vacation at the perfect time](https://www.theverge.com/2021/10/28/22750879/apex-legends-escape-ash-storm-point-respawn-ea)<!-- TECH:END -->
+ - [Twitter launches the Spaces Recording feature that was announced last month, to a limited number of Spaces hosts on iOS and all listeners on iOS and Android (Sarah Perez/TechCrunch)](http://www.techmeme.com/211028/p34#a211028p34)
+ - [Microsoft starts rolling out Windows 11 to more PCs](https://www.theverge.com/2021/10/28/22751036/microsoft-windows-11-download-available-more-pcs-install)
+ - [Wyze’s cameras can now be a monitored home security system](https://www.theverge.com/2021/10/28/22750594/wyze-cams-monitored-security-smart-switches-price-release-date-specs)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
