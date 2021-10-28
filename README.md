@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple support documents says 14- and 16-inch MacBook Pro users can turn on "scale to fit below built-in camera" to avoid notch app compatibility issues (Joe Rossignol/MacRumors)](http://www.techmeme.com/211028/p6#a211028p6)
- - [Android 12L’s new features could ‘soon’ come to the Galaxy Z Fold 3](https://www.androidauthority.com/android-12l-galaxy-z-fold-3-3047911/)
- - [GlobalFoundries raises $2.6B in an IPO, selling shares for $47, valuing the company at over $25B, the third biggest US listing in 2021 behind Coupang and Didi (Bloomberg)](http://www.techmeme.com/211028/p5#a211028p5)<!-- TECH:END -->
+ - [Daily Authority: 🔮 Android 12L = Pixel Foldable?](https://www.androidauthority.com/newsletters/da-october-28-2021/)
+ - [Microsoft earnings reveal new Surface is no match for iPad](https://appleinsider.com/articles/21/10/28/microsoft-earnings-reveal-new-surface-is-no-match-for-ipad?utm_medium=rss)
+ - [Black Friday broadband bargains: Don't wait until Cyber Monday for these sales!     - CNET](https://www.cnet.com/home/internet/black-friday-broadband-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
