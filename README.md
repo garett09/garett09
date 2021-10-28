@@ -193,7 +193,7 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The most gorgeous creature! What would you call this breed of cat?](http://9gag.com/gag/aWgZOzn)
+ - 🚖 [All the dads out there, is this true?](http://9gag.com/gag/aVxOeEM)
  - 🚯 [It&rsquo;s not that hard is it](http://9gag.com/gag/aGz9xP6)
  - 🚯 [I wish I was this good- in skirt of course.](http://9gag.com/gag/aAGY1M0)<!-- MEMES:END -->
 
