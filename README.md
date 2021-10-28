@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Open-source SQL database developer Yugabyte raises a $188M Series C at a $1.3B valuation led by Sapphire Ventures (Ingrid Lunden/TechCrunch)](http://www.techmeme.com/211028/p17#a211028p17)
- - [Crypto infrastructure company Alchemy, which wants to be the "AWS for blockchains", raises a $250M Series C at a $3.5B valuation led by a16z (Danny Nelson/CoinDesk)](http://www.techmeme.com/211028/p16#a211028p16)
- - [Refinance rates for Oct. 28, 2021: Rates retreat     - CNET](https://www.cnet.com/news/refinance-rates-for-oct-28-2021-rates-retreat/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [ClickHouse, which provides an online analytical processing database management system, raises $250M at a $2B valuation led by Coatue and Altimeter (Katie Roof/Bloomberg)](http://www.techmeme.com/211028/p21#a211028p21)
+ - [Making this album with AI ‘felt like wandering in an enormous labyrinth’](https://www.theverge.com/2021/10/28/22750337/shadow-planet-ai-robin-sloan-jesse-solomon-clark)
+ - [The OLED Switch’s new kickstand was made for Mario Party](https://www.theverge.com/2021/10/28/22749548/mario-party-superstars-nintendo-switch-oled-kickstand)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
