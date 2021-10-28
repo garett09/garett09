@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [They aren&#039;t wrong..](http://9gag.com/gag/a715rbw)
- - 🚯 [Youre maderfaker](http://9gag.com/gag/aLvKMOz)
- - 🚯 [1 man is enough to beat the whole team. imagine what happen if...](http://9gag.com/gag/apgqrO9)<!-- MEMES:END -->
+ - 🚖 [Few words do trick](http://9gag.com/gag/a715ZeL)
+ - 🚯 [Don&#039;t be that guy](http://9gag.com/gag/abg5pp9)
+ - 🚯 [Youre maderfaker](http://9gag.com/gag/aLvKMOz)<!-- MEMES:END -->
 
 --- 
 
