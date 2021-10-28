@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I think that might be a stunt double](http://9gag.com/gag/a31YLVm)
- - 🚯 [For those curious, here&#039;s a picture of Patrick Stewart with hair.](http://9gag.com/gag/ajgrA9G)
- - 🚯 [Yippee-ki-yay. And a happy new year.](http://9gag.com/gag/aNPeZvA)<!-- MEMES:END -->
+ - 🚖 [For those curious, here&#039;s a picture of Patrick Stewart with hair.](http://9gag.com/gag/ajgrA9G)
+ - 🚯 [At least he&#039;s honest](http://9gag.com/gag/aXrbp5V)
+ - 🚯 [Halp me pls](http://9gag.com/gag/abg5bWB)<!-- MEMES:END -->
 
 --- 
 
