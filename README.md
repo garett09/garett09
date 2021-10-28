@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It taught me a lot](http://9gag.com/gag/aOQqv6R)
- - 🚯 [Youre maderfaker](http://9gag.com/gag/aLvKMOz)
- - 🚯 [They aren&#039;t wrong..](http://9gag.com/gag/a715rbw)<!-- MEMES:END -->
+ - 🚖 [We&rsquo;ll climb the Cotopaxi volcano this weekend and I&rsquo;ll ask her to be my wife when we get to the summit. Wish me good luck guys!](http://9gag.com/gag/avA07Dd)
+ - 🚯 [Pos lady trying to kill boy thank god the bus driver interviewed](http://9gag.com/gag/a31YMK8)
+ - 🚯 [Hmm, what do humans have on their shelves? barbecue sauce sounds about right](http://9gag.com/gag/aXrbvRz)<!-- MEMES:END -->
 
 --- 
 
