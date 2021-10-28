@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Report: Vicarious Visions Changing Its Name After Blizzard Merger](https://kotaku.com/report-vicarious-visions-changing-its-name-after-blizz-1847951518)
- - [Star Ocean: The Divine Forge is coming to PlayStation next year](https://www.polygon.com/22749587/star-ocean-divine-forge-playstation-2022-release-announcement-trailer)
- - [Aliens: Fireteam Elite Year 1 promises changes that will 'add more enjoyment' to the struggling shooter](https://www.pcgamer.com/aliens-fireteam-elite-year-1-promises-changes-that-will-add-more-enjoyment-to-the-struggling-shooter)<!-- GAME:END -->
+ - [The Monster Girl gives classic horror movie villains a liberating twist](https://www.polygon.com/22739140/monster-girl-horror-trope-carrie-titane)
+ - [I learned to love Unsighted's constantly ticking death clock](https://www.pcgamer.com/i-learned-to-love-unsighteds-constantly-ticking-death-clock)
+ - [The best free PC games in 2021](https://www.pcgamer.com/best-free-pc-games)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
