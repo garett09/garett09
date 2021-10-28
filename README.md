@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Listen sound of bread!](http://9gag.com/gag/apgqBLn)
- - 🚯 [IT resolution for every problem](http://9gag.com/gag/a715yPb)
- - 🚯 [Never a dull moment in Austria](http://9gag.com/gag/axBNZz2)<!-- MEMES:END -->
+ - 🚖 [IT resolution for every problem](http://9gag.com/gag/a715yPb)
+ - 🚯 [Never a dull moment in Austria](http://9gag.com/gag/axBNZz2)
+ - 🚯 [Yippee-ki-yay. And a happy new year.](http://9gag.com/gag/aNPeZvA)<!-- MEMES:END -->
 
 --- 
 
