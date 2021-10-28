@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple issues first tvOS 15.2 beta to developers for testing](https://appleinsider.com/articles/21/10/27/apple-issues-first-tvos-152-beta-to-developers-for-testing?utm_medium=rss)
- - [New MacBook Pro uses battery pull tabs for easy replacement](https://appleinsider.com/articles/21/10/28/new-macbook-pro-uses-battery-pull-tabs-for-easy-replacement?utm_medium=rss)
- - [Gizmodo’s photos from the massive iPhone 4 leak have disappeared](https://www.theverge.com/2021/10/27/22749706/gawker-media-iphone-4-leak-link-rot-buzzfeed)<!-- TECH:END -->
+ - [Apple expands first-party app ratings to Camera, Messages, Photos, more](https://appleinsider.com/articles/21/10/28/apple-expands-first-party-app-ratings-to-camera-messages-photos-more?utm_medium=rss)
+ - [In-app events land on the iOS App Store](https://appleinsider.com/articles/21/10/28/in-app-events-land-on-the-ios-app-store?utm_medium=rss)
+ - [New MacBook Pro uses battery pull tabs for easy replacement](https://appleinsider.com/articles/21/10/28/new-macbook-pro-uses-battery-pull-tabs-for-easy-replacement?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
