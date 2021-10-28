@@ -194,8 +194,8 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Few words do trick](http://9gag.com/gag/a715ZeL)
- - 🚯 [Don&#039;t be that guy](http://9gag.com/gag/abg5pp9)
- - 🚯 [Youre maderfaker](http://9gag.com/gag/aLvKMOz)<!-- MEMES:END -->
+ - 🚯 [Also: *lies in bed like a starfish*](http://9gag.com/gag/aNPedn4)
+ - 🚯 [They aren&#039;t wrong..](http://9gag.com/gag/a715rbw)<!-- MEMES:END -->
 
 --- 
 
