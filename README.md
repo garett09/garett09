@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [For those curious, here&#039;s a picture of Patrick Stewart with hair.](http://9gag.com/gag/ajgrA9G)
- - 🚯 [At least he&#039;s honest](http://9gag.com/gag/aXrbp5V)
- - 🚯 [Halp me pls](http://9gag.com/gag/abg5bWB)<!-- MEMES:END -->
+ - 🚖 [I wish I was this good- in skirt of course.](http://9gag.com/gag/aAGY1M0)
+ - 🚯 [Halp me pls](http://9gag.com/gag/abg5bWB)
+ - 🚯 [Buzz Lightyear to the rescue](http://9gag.com/gag/arnp4VK)<!-- MEMES:END -->
 
 --- 
 
