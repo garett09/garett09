@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Customer Internet Problems](http://9gag.com/gag/a414Gd1)
+ - 🚖 [It taught me a lot](http://9gag.com/gag/aOQqv6R)
  - 🚯 [Youre maderfaker](http://9gag.com/gag/aLvKMOz)
- - 🚯 [It taught me a lot](http://9gag.com/gag/aOQqv6R)<!-- MEMES:END -->
+ - 🚯 [They aren&#039;t wrong..](http://9gag.com/gag/a715rbw)<!-- MEMES:END -->
 
 --- 
 
