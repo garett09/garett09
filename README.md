@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best coffee maker for 2021     - CNET](https://www.cnet.com/home/kitchen-and-household/best-coffee-maker/#ftag=CAD590a51e)
- - [Best blenders to buy in 2021     - CNET](https://www.cnet.com/home/kitchen-and-household/best-blenders/#ftag=CAD590a51e)
- - [Docs: EU politicians said Facebook algorithm changes in 2019 negatively impacted politics, particularly in Poland, where many blamed Facebook for polarization (Loveday Morris/Washington Post)](http://www.techmeme.com/211028/p2#a211028p2)<!-- TECH:END -->
+ - [The best Apple Watch sports bands: Nike, Nomad, and more](https://www.androidauthority.com/best-apple-watch-sports-bands-3045156/)
+ - [You told us: This should be the next Google Pixel product](https://www.androidauthority.com/next-google-pixel-product-poll-results-3047781/)
+ - [Best coffee maker for 2021     - CNET](https://www.cnet.com/home/kitchen-and-household/best-coffee-maker/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
