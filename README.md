@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [&quot;I told you, you were not going to arrest me!&rdquo;](http://9gag.com/gag/aGz9xGG)
- - 🚯 [Trr trr trr trr](http://9gag.com/gag/aNPeWRb)
- - 🚯 [How many of you are actually like this?](http://9gag.com/gag/azebAZj)<!-- MEMES:END -->
+ - 🚖 [A city and its people, from a different time.](http://9gag.com/gag/a21Nmyd)
+ - 🚯 [1 Week after release...](http://9gag.com/gag/aegN6pq)
+ - 🚯 [2 jokes are more than 1 joke](http://9gag.com/gag/a81W4QZ)<!-- MEMES:END -->
 
 --- 
 
