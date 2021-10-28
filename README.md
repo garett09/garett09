@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Bobby Kotick Takes Another Pay Cut, Waives Arbitration In Letter To Staff](https://kotaku.com/bobby-kotick-takes-another-pay-cut-waives-arbitration-1847953970)
- - [Seize the Throne: Join our latest PlayStation community event for an opportunity to win a PS5 and more](https://blog.playstation.com/2021/10/28/seize-the-throne-join-our-latest-playstation-community-event-for-an-opportunity-to-win-a-ps5-and-more/)
- - [How Halloween Became a Thing in Japan](https://kotaku.com/how-halloween-became-a-thing-in-japan-5954768)<!-- GAME:END -->
+ - [Mario Party Superstars is the series’ best entry](https://www.polygon.com/reviews/22749509/mario-party-superstars-review-switch-nintendo-64-boards-mini-games)
+ - [Murder House Is Everything Terrifying About Low-Poly Horror](https://kotaku.com/murder-house-is-everything-terrifying-about-low-poly-ho-1847950021)
+ - [You can't get an RTX 3080 but at least you can sign up for a virtual one today](https://www.pcgamer.com/you-cant-get-an-rtx-3080-but-at-least-you-can-sign-up-for-a-virtual-one-today)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
