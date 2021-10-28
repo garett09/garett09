@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [3, 2 ,1 Lan&ccedil;ar, porra](http://9gag.com/gag/aVxOepv)
- - 🚯 [Trr trr trr trr](http://9gag.com/gag/aNPeWRb)
- - 🚯 [Only thing lost - pixels](http://9gag.com/gag/a0Z9jEz)<!-- MEMES:END -->
+ - 🚖 [2 jokes are more than 1 joke](http://9gag.com/gag/a81W4QZ)
+ - 🚯 [Shake it baby](http://9gag.com/gag/aVxODVK)
+ - 🚯 [All the dads out there, is this true?](http://9gag.com/gag/aVxOeEM)<!-- MEMES:END -->
 
 --- 
 
