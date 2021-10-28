@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Call of Duty: Vanguard will require far less storage](https://www.polygon.com/22750795/call-of-duty-vanguard-install-download-size-playstation-xbox-preload-date)
- - [Apex Legends’ newest map and hero were made for each other — literally](https://www.polygon.com/22750845/apex-legends-escape-preview-season-11-storm-point-ash)
- - [Magic’s Innistrad: Crimson Vow card previews include a way to force your foes to marry you](https://www.polygon.com/22749578/magic-the-gathering-innistrad-crimson-vow-preview-cards)<!-- GAME:END -->
+ - [Prince of Persia: The Sands of Time Remake is still happening, but might not be out until 2023](https://www.pcgamer.com/prince-of-persia-the-sands-of-time-remake-is-still-happening-but-might-not-be-out-until-2023)
+ - [Grand Theft Auto: San Andreas is coming to VR](https://www.polygon.com/22751026/grand-theft-auto-san-andreas-vr-oculus-quest-2-facebook)
+ - [Heavy Metal’s drag-filled Halloween issue is a nexus of horror, glamour, and filth](https://www.polygon.com/comics/22749043/boulet-brothers-heavy-metal-alaska-5000-steve-orlando-issue)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
