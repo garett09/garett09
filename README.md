@@ -194,8 +194,8 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [3, 2 ,1 Lan&ccedil;ar, porra](http://9gag.com/gag/aVxOepv)
- - 🚯 [Japan&rsquo;s Princess Mako saying goodbye to her family as she loses her royal status by marrying a commoner](http://9gag.com/gag/aYrbevw)
- - 🚯 [Trr trr trr trr](http://9gag.com/gag/aNPeWRb)<!-- MEMES:END -->
+ - 🚯 [Trr trr trr trr](http://9gag.com/gag/aNPeWRb)
+ - 🚯 [Only thing lost - pixels](http://9gag.com/gag/a0Z9jEz)<!-- MEMES:END -->
 
 --- 
 
