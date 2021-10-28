@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [2 jokes are more than 1 joke](http://9gag.com/gag/a81W4QZ)
- - 🚯 [Shake it baby](http://9gag.com/gag/aVxODVK)
- - 🚯 [All the dads out there, is this true?](http://9gag.com/gag/aVxOeEM)<!-- MEMES:END -->
+ - 🚖 [Black humour](http://9gag.com/gag/aNPeWpv)
+ - 🚯 [This blue lobster was caught off the coast of Portland yesterday and returned to the water to continue to grow. I was told that blue lobsters are one in two million.](http://9gag.com/gag/a81WpEZ)
+ - 🚯 [How many of you are actually like this?](http://9gag.com/gag/azebAZj)<!-- MEMES:END -->
 
 --- 
 
