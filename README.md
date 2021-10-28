@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [All the dads out there, is this true?](http://9gag.com/gag/aVxOeEM)
- - 🚯 [It&rsquo;s not that hard is it](http://9gag.com/gag/aGz9xP6)
- - 🚯 [I wish I was this good- in skirt of course.](http://9gag.com/gag/aAGY1M0)<!-- MEMES:END -->
+ - 🚖 [&quot;I told you, you were not going to arrest me!&rdquo;](http://9gag.com/gag/aGz9xGG)
+ - 🚯 [Trr trr trr trr](http://9gag.com/gag/aNPeWRb)
+ - 🚯 [How many of you are actually like this?](http://9gag.com/gag/azebAZj)<!-- MEMES:END -->
 
 --- 
 
