@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Mario Party Superstars is the series’ best entry](https://www.polygon.com/reviews/22749509/mario-party-superstars-review-switch-nintendo-64-boards-mini-games)
- - [Murder House Is Everything Terrifying About Low-Poly Horror](https://kotaku.com/murder-house-is-everything-terrifying-about-low-poly-ho-1847950021)
- - [You can't get an RTX 3080 but at least you can sign up for a virtual one today](https://www.pcgamer.com/you-cant-get-an-rtx-3080-but-at-least-you-can-sign-up-for-a-virtual-one-today)<!-- GAME:END -->
+ - [Happy haunting and hunting in Predator: Hunting Grounds](https://blog.playstation.com/2021/10/28/happy-haunting-and-hunting-in-predator-hunting-grounds/)
+ - [For a legally blind player, Far Cry 6’s accessibility options are empowering](https://www.polygon.com/22748526/far-cry-6-accessibility-pc-xbox-one-series-x-ps5-ps4)
+ - [Activision Blizzard CEO pledges to cut his salary, waive arbitration in letter to employees](https://www.polygon.com/22750451/activision-blizzard-ceo-bobby-kotick-pay-cut-arbitration-waived)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
