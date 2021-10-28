@@ -187,8 +187,8 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- TECH:START -->
  - [Notes of interest from Apple's Q4 2021 and annual earnings report](https://appleinsider.com/articles/21/10/28/notes-of-interest-from-apples-q4-2021-and-annual-earnings-report?utm_medium=rss)
- - [Apple lost $6 billion to chip shortage and manufacturing delays in Q4, Tim Cook says](https://www.theverge.com/2021/10/28/22751418/apple-q4-2021-earnings-supply-constraints-chip-shortage)
- - [Amazon reports Q3 revenue of $8.09B for its "other" segment, which mostly covers its ads business, up 50% YoY, and $8.15B for subscription services, up 24% YoY (Todd Spangler/Variety)](http://www.techmeme.com/211028/p43#a211028p43)<!-- TECH:END -->
+ - [Chan Zuckerberg Initiative to sunset its Meta project     - CNET](https://www.cnet.com/tech/chan-zuckerberg-initiative-to-sunset-its-meta-project/#ftag=CAD590a51e)
+ - [Facebook, Google, Twitter and TikTok grilled by lawmakers over child safety failures     - CNET](https://www.cnet.com/news/facebook-google-twitter-and-tiktok-grilled-by-lawmakers-over-child-safety-failures/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
