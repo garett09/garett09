@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Black humour](http://9gag.com/gag/aNPeWpv)
- - 🚯 [This blue lobster was caught off the coast of Portland yesterday and returned to the water to continue to grow. I was told that blue lobsters are one in two million.](http://9gag.com/gag/a81WpEZ)
- - 🚯 [How many of you are actually like this?](http://9gag.com/gag/azebAZj)<!-- MEMES:END -->
+ - 🚖 [They aren&#039;t wrong..](http://9gag.com/gag/a715rbw)
+ - 🚯 [Youre maderfaker](http://9gag.com/gag/aLvKMOz)
+ - 🚯 [1 man is enough to beat the whole team. imagine what happen if...](http://9gag.com/gag/apgqrO9)<!-- MEMES:END -->
 
 --- 
 
