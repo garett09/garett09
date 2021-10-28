@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily Authority: 🔮 Android 12L = Pixel Foldable?](https://www.androidauthority.com/newsletters/da-october-28-2021/)
- - [Microsoft earnings reveal new Surface is no match for iPad](https://appleinsider.com/articles/21/10/28/microsoft-earnings-reveal-new-surface-is-no-match-for-ipad?utm_medium=rss)
- - [Black Friday broadband bargains: Don't wait until Cyber Monday for these sales!     - CNET](https://www.cnet.com/home/internet/black-friday-broadband-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple details headphone jack improvements on new MacBook Pro](https://appleinsider.com/articles/21/10/28/apple-details-headphone-jack-improvements-on-new-macbook-pro?utm_medium=rss)
+ - [A look at the impact of Apple's ATT on Alphabet and Facebook: limits on Facebook's ad targeting raises ad spends for brands, sending some advertisers to Google (Patience Haggin/Wall Street Journal)](http://www.techmeme.com/211028/p13#a211028p13)
+ - [9 Free Streaming Services to Save You From Subscription Hell](https://www.wired.com/story/free-streaming-services)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
