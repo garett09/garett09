@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Global money laundering watchdog FATF releases guidelines that could force crypto companies to check customers' identities and report suspicious transactions (Alexander Osipovich/Wall Street Journal)](http://www.techmeme.com/211028/p23#a211028p23)
- - [OWC debuts replacement SSD for non-Touch Bar 13-inch MacBook Pro](https://appleinsider.com/articles/21/10/28/owc-debuts-replacement-ssd-for-non-touch-bar-13-inch-macbook-pro?utm_medium=rss)
- - [Nikon unveils new mirrorless flagship Z9 camera & additional Nikkor lenses](https://appleinsider.com/articles/21/10/28/nikon-unveils-new-mirrorless-flagship-z9-camera-additional-nikkor-lenses?utm_medium=rss)<!-- TECH:END -->
+ - [How to buy the Pixel 6 and 6 Pro](https://www.theverge.com/22734748/google-pixel-6-pro-preorder-buy-how-to-price-availability-release-date)
+ - [Which phone shot it? Pixel 6 Pro, S21 Ultra, iPhone 13 Pro Max, or Pixel 5?](https://www.androidauthority.com/google-pixel-6-pro-camera-guess-3048183/)
+ - [Pokemon Go November 2021 events: Raids, Día de Muertos event and more     - CNET](https://www.cnet.com/tech/gaming/pokemon-go-november-2021-events-raids-diamond-and-pearl-event-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
