@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hackers steal an estimated $130M from DeFi platform Cream Finance in a flash loan attack; the company lost $37M in Feb. and $29M in Aug. in similar attacks (Catalin Cimpanu/The Record)](http://www.techmeme.com/211028/p1#a211028p1)
- - [Timothée Chalamet reveals his secret Xbox 360 YouTube channel (which you can still watch)     - CNET](https://www.cnet.com/news/timothee-chalamet-reveals-his-secret-xbox-360-youtube-channel-which-you-can-still-watch/#ftag=CAD590a51e)
- - [Best shower filter for 2021     - CNET](https://www.cnet.com/health/personal-care/best-shower-filter/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best coffee maker for 2021     - CNET](https://www.cnet.com/home/kitchen-and-household/best-coffee-maker/#ftag=CAD590a51e)
+ - [Best blenders to buy in 2021     - CNET](https://www.cnet.com/home/kitchen-and-household/best-blenders/#ftag=CAD590a51e)
+ - [Docs: EU politicians said Facebook algorithm changes in 2019 negatively impacted politics, particularly in Poland, where many blamed Facebook for polarization (Loveday Morris/Washington Post)](http://www.techmeme.com/211028/p2#a211028p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
