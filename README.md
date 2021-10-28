@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Critical Role Campaign 3: meet the characters picking up after Exandria Unlimited](https://www.polygon.com/22750802/critical-role-campaign-3-character-bios)
- - [Vermintide 2 gets a scary seasonal event and some meaner monsters](https://www.polygon.com/22751154/vermintide-2-geheimnisnacht-event-grudge-marks-rewards)
- - [Lady Gaga plots ‘unconventional punishment’ in new House of Gucci trailer](https://www.polygon.com/entertainment/22750985/house-of-gucci-trailer-lady-gaga)<!-- GAME:END -->
+ - [The Halloween Countdown: 31 days of horror](https://www.polygon.com/22702474/best-halloween-movies-tv-to-watch-stream)
+ - [Bungie, I am once again begging you for more Destiny 2 Vault space](https://www.pcgamer.com/bungie-i-am-once-again-begging-you-for-more-destiny-2-vault-space)
+ - [Oculus Quest VR headsets to eliminate mandatory Facebook account log-in requirement](https://www.pcgamer.com/oculus-quest-vr-headsets-to-eliminate-mandatory-facebook-account-log-in-requirement)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
