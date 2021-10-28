@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple expands first-party app ratings to Camera, Messages, Photos, more](https://appleinsider.com/articles/21/10/28/apple-expands-first-party-app-ratings-to-camera-messages-photos-more?utm_medium=rss)
- - [Stellantis launches its own reward miles program     - Roadshow](https://www.cnet.com/roadshow/news/stellantis-mileage-program-jeep-dodge-ram-fiat-alfa-romeo-chrysler/#ftag=CAD590a51e)
- - [Best TV shows 2021: Midnight Mass, Squid Game, Hacks, The White Lotus and more     - CNET](https://www.cnet.com/news/best-tv-shows-2021-midnight-mass-squid-game-hacks-the-white-lotus-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Hackers steal an estimated $130M from DeFi platform Cream Finance in a flash loan attack; the company lost $37M in Feb. and $29M in Aug. in similar attacks (Catalin Cimpanu/The Record)](http://www.techmeme.com/211028/p1#a211028p1)
+ - [Timothée Chalamet reveals his secret Xbox 360 YouTube channel (which you can still watch)     - CNET](https://www.cnet.com/news/timothee-chalamet-reveals-his-secret-xbox-360-youtube-channel-which-you-can-still-watch/#ftag=CAD590a51e)
+ - [Best shower filter for 2021     - CNET](https://www.cnet.com/health/personal-care/best-shower-filter/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
