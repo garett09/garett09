@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple details headphone jack improvements on new MacBook Pro](https://appleinsider.com/articles/21/10/28/apple-details-headphone-jack-improvements-on-new-macbook-pro?utm_medium=rss)
- - [A look at the impact of Apple's ATT on Alphabet and Facebook: limits on Facebook's ad targeting raises ad spends for brands, sending some advertisers to Google (Patience Haggin/Wall Street Journal)](http://www.techmeme.com/211028/p13#a211028p13)
- - [9 Free Streaming Services to Save You From Subscription Hell](https://www.wired.com/story/free-streaming-services)<!-- TECH:END -->
+ - [Open-source SQL database developer Yugabyte raises a $188M Series C at a $1.3B valuation led by Sapphire Ventures (Ingrid Lunden/TechCrunch)](http://www.techmeme.com/211028/p17#a211028p17)
+ - [Crypto infrastructure company Alchemy, which wants to be the "AWS for blockchains", raises a $250M Series C at a $3.5B valuation led by a16z (Danny Nelson/CoinDesk)](http://www.techmeme.com/211028/p16#a211028p16)
+ - [Refinance rates for Oct. 28, 2021: Rates retreat     - CNET](https://www.cnet.com/news/refinance-rates-for-oct-28-2021-rates-retreat/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
