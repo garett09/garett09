@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Refi rates on Oct. 29, 2021: Rates slide     - CNET](https://www.cnet.com/news/refi-rates-on-oct-29-2021-rates-slide/#ftag=CAD590a51e)
- - [Current mortgage interest rates on Oct. 29, 2021: Rates ease     - CNET](https://www.cnet.com/news/current-mortgage-interest-rates-on-oct-29-2021-rates-ease/#ftag=CAD590a51e)
- - [The Best Accessories for Your New PlayStation 5](https://www.wired.com/gallery/best-ps5-accessories)<!-- TECH:END -->
+ - [Best deals Oct. 29: $80 3D printer, $75 1TB SSD, $90 for 4 AirTags, more!](https://appleinsider.com/articles/21/10/29/best-deals-oct-29-80-3d-printer-75-1tb-ssd-90-for-4-airtags-more?utm_medium=rss)
+ - [Grab up to 70% off clothing at Asos     - CNET](https://www.cnet.com/news/grab-up-to-70-off-clothing-at-asos/#ftag=CAD590a51e)
+ - [Best treadmill for 2021     - CNET](https://www.cnet.com/health/fitness/best-treadmill/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
