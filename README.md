@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [An Action Platformer Perf For Those Too Chicken For Halloween](https://kotaku.com/an-action-platformer-perf-for-those-too-chicken-for-hal-1847966338)
- - [New World players are crashing the game with malicious chat exploit](https://www.pcgamer.com/new-world-players-are-crashing-the-game-with-malicious-chat-exploit)
- - [PUBG's parent company now owns Subnautica studio Unknown Worlds](https://www.pcgamer.com/pubgs-parent-company-now-owns-subnautica-studio-unknown-worlds)<!-- GAME:END -->
+ - [Dive Into Horde Mode, New Master Levels, and More Today in Doom Eternal](https://news.xbox.com/en-us/2021/10/29/dive-into-horde-mode-doom-eternal/)
+ - [Ubisoft workers demand swifter action from leadership after Activision concedes to employee demands](https://www.pcgamer.com/ubisoft-workers-demand-swifter-action-from-leadership-after-activision-concedes-to-employee-demands)
+ - [Sources: Nintendo Shutters California Office](https://kotaku.com/sources-nintendo-shutters-california-office-1847966405)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
