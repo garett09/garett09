@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Expanse season 6: What to expect from the Amazon series’ final season](https://www.androidauthority.com/expanse-season-6-amazon-prime-video-3046353/)
- - [Will the Oculus Quest still require a Facebook account? It’s complicated](https://www.theverge.com/2021/10/28/22751297/meta-oculus-quest-need-facebook-account-login-password)
- - [Google makes waitlists for Pixel 6 Pro because it can’t keep the phone in stock](https://www.theverge.com/2021/10/28/22751527/google-store-pixel-6-pro-waitlist-in-stock)<!-- TECH:END -->
+ - [Leaked photo of Meta's upcoming smartwatch reveals Apple Watch-esque design](https://appleinsider.com/articles/21/10/29/leaked-photo-of-metas-upcoming-smartwatch-reveals-apple-watch-esque-design?utm_medium=rss)
+ - [TikTok is testing a new tipping feature for some creators](https://www.theverge.com/2021/10/28/22751715/tiktok-new-tips-feature-creators)
+ - [Facebook’s Meta watch has a camera notch, according to first leaked image](https://www.theverge.com/2021/10/28/22751702/facebook-meta-smartwatch-camera-notch-image-leak-glasses-wearables)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
