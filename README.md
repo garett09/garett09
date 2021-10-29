@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily Authority: 🥽 Meta meaning?](https://www.androidauthority.com/newsletters/da-october-29-2021/)
- - [The Apple Watch Series 7 Isn’t a Huge Upgrade, but That’s OK](https://www.wired.com/review/apple-watch-series-7)
- - [New England’s Moose Are Losing the Fight Against Winter Ticks](https://www.wired.com/story/new-englands-moose-are-losing-the-fight-against-winter-ticks)<!-- TECH:END -->
+ - [MacBook Pro's Liquid Retina XDR display supports reference modes and fine tuning](https://appleinsider.com/articles/21/10/29/macbook-pros-liquid-retina-xdr-display-supports-reference-modes-and-fine-tuning?utm_medium=rss)
+ - [Google and Jio debut JioPhone Next, their $87 budget smartphone, going on sale on November 4, with 5.45-inch HD+ display and Qualcomm's quad-core QM-215 chipset (Manish Singh/TechCrunch)](http://www.techmeme.com/211029/p6#a211029p6)
+ - [Digital divide fix at risk as $1.2 trillion infrastructure bill remains stalled     - CNET](https://www.cnet.com/home/internet/digital-divide-fix-at-risk-as-1-2-trillion-infrastructure-bill-remains-stalled/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
