@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Physics is fun....](http://9gag.com/gag/a81Wyv3)
- - 🚯 [Unlimited Budget Works](http://9gag.com/gag/amgXYOd)
+ - 🚖 [Unlimited Budget Works](http://9gag.com/gag/amgXYOd)
+ - 🚯 [5 guys try to sneak away from the dog by dancing, after realizing they&#039;re not a threat to eachother dog joins the dance](http://9gag.com/gag/ajgrXow)
  - 🚯 [Vulture Being Let Back Into The Wild](http://9gag.com/gag/a91dp1L)<!-- MEMES:END -->
 
 --- 
