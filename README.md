@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Online course provider Udemy closes down 5.2% on its first day of trading, after raising $421M in its US IPO at a $4.3B+ valuation (Bloomberg)](http://www.techmeme.com/211029/p20#a211029p20)
- - [Netflix employees at the heart of the Dave Chappelle controversy file charges against the company](https://www.theverge.com/2021/10/29/22751847/netflix-employees-dave-chappelle-file-charges-nlrb)
- - [iFixit teardown of the 2021 MacBook Pro reveals easier battery swaps](https://www.theverge.com/2021/10/29/22753063/macbook-pro-ifixit-teardown-battery-swaps-pull-tabs)<!-- TECH:END -->
+ - [Vergecast: Facebook goes meta and reviews of the Pixel 6 and MacBook Pro](https://www.theverge.com/2021/10/29/22753317/vergecast-facebook-meta-pixel-6-macbook-pro-review)
+ - [Two Netflix employees who openly criticized Netflix's support of Dave Chappelle's comedy special have filed charges with the NLRB, claiming retaliation (Zoe Schiffer/The Verge)](http://www.techmeme.com/211029/p21#a211029p21)
+ - [An Apparent Ransomware Hack Puts the NRA in a Bind](https://www.wired.com/story/nra-ransomware-hack-sanctions-payment)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
