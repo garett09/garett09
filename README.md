@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This is the way](http://9gag.com/gag/a61wNpN)
- - 🚯 [If a video could contain every stereotype, this would be it.](http://9gag.com/gag/abg5r4B)
- - 🚯 [Look babe, Optimum Prime *throws up*](http://9gag.com/gag/aZrPLGn)<!-- MEMES:END -->
+ - 🚖 [I wonder how offen we miss does random things](http://9gag.com/gag/ay95ozr)
+ - 🚯 [This is the way](http://9gag.com/gag/a61wNpN)
+ - 🚯 [If a video could contain every stereotype, this would be it.](http://9gag.com/gag/abg5r4B)<!-- MEMES:END -->
 
 --- 
 
