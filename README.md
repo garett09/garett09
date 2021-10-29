@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple has most loyal smartphone customers in US, study finds](https://appleinsider.com/articles/21/10/29/apple-has-most-loyal-smartphone-customers-in-us-study-finds?utm_medium=rss)
- - [Google releases a Chrome update that fixes seven vulnerabilities, including two zero-days known to have been exploited in the wild (Lawrence Abrams/BleepingComputer)](http://www.techmeme.com/211028/p51#a211028p51)
- - [Supply issues cost Apple $6 billion in Q4 2021, CEO Tim Cook says](https://appleinsider.com/articles/21/10/28/supply-issues-cost-apple-6-billion-in-q4-2021-ceo-tim-cook-says?utm_medium=rss)<!-- TECH:END -->
+ - [This CryptoPunk NFT just sold for $530 million. Kind of     - CNET](https://www.cnet.com/news/this-cryptopunk-nft-just-sold-for-530-million-kind-of/#ftag=CAD590a51e)
+ - [TikTok is testing a tipping feature to let select creators accept money outside of Live streams; creators with 100K+ followers can apply to try it (Aisha Malik/TechCrunch)](http://www.techmeme.com/211028/p53#a211028p53)
+ - [Amazon estimates Q4 revenue will be $130B-$140B, below analysts' estimate of $141.6B, and expects to spend more on delivery operations, which could hurt profits (Matt Day/Bloomberg)](http://www.techmeme.com/211028/p52#a211028p52)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
