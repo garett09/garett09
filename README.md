@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Fatal Frame: Maiden of Black Water – 12 Tips and Tricks to Help Exorcise those Pesky Ghosts](https://news.xbox.com/en-us/2021/10/29/fatal-frame-maiden-of-black-water-12-tips/)
- - [Remember When Everyone Was Convinced GTA: San Andreas Was Full of Creepy Secrets?](https://kotaku.com/remember-when-everyone-was-convinced-gta-san-andreas-w-1847965080)
- - [Far Cry 6's Secret Cat Boat Has A Long History At Ubisoft](https://kotaku.com/far-cry-6s-secret-cat-boat-has-a-long-history-at-ubisof-1847965243)<!-- GAME:END -->
+ - [Michael Myers is a stand in for toxic something](https://www.polygon.com/2021/10/29/22752874/michael-myers-identity-halloween-movies-meaning-galaxy-brains)
+ - [Star Trek’s new animated show takes the franchise in a different direction](https://www.polygon.com/22753008/star-trek-prodigy-review-kate-mulgrew-janeway)
+ - [The Witcher showrunner promises deeper relationships and more bard hits in season 2](https://www.pcgamer.com/the-witcher-showrunner-promises-deeper-relationships-and-more-bard-hits-in-season-2)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
