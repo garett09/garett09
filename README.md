@@ -194,8 +194,8 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [OH lord its comming... And I&#039;ll be too.](http://9gag.com/gag/a61wKr9)
- - 🚯 [Yarr !](http://9gag.com/gag/arnpGjd)
- - 🚯 [Neck exercises](http://9gag.com/gag/aQXq1d2)<!-- MEMES:END -->
+ - 🚯 [Neck exercises](http://9gag.com/gag/aQXq1d2)
+ - 🚯 [Learn people learn](http://9gag.com/gag/aGz9dpn)<!-- MEMES:END -->
 
 --- 
 
