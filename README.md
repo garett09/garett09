@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Legit question](http://9gag.com/gag/a61wEwA)
- - 🚯 [Is it just me or what?](http://9gag.com/gag/azebmjz)
+ - 🚖 [My birthday](http://9gag.com/gag/amgXvEj)
+ - 🚯 [When you see the women&#039;s line. Adapt, improvise &amp; get trashy.](http://9gag.com/gag/aRrQXny)
  - 🚯 [The block is hot!](http://9gag.com/gag/abgXzdO)<!-- MEMES:END -->
 
 --- 
