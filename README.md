@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Free Play Days: Biomutant, PGA Tour 2K21, and Hunting Simulator 2](https://news.xbox.com/en-us/2021/10/29/free-play-days-biomutant-pga-tour-2k21-and-hunting-simulator-2/)
  - [Alone In The Dark Scared The Crap Out Of Me](https://kotaku.com/alone-in-the-dark-scared-the-shit-out-of-me-1819788909)
- - [26 NFT Developers Send Very Sad Letter To Valve After Steam Ban](https://kotaku.com/26-nft-developers-send-very-sad-letter-to-valve-after-s-1847959748)
- - [Call of Duty: Warzone's overpowered Kali Sticks must be stopped](https://www.pcgamer.com/call-of-duty-warzones-overpowered-kali-sticks-must-be-stopped)<!-- GAME:END -->
+ - [26 NFT Developers Send Very Sad Letter To Valve After Steam Ban](https://kotaku.com/26-nft-developers-send-very-sad-letter-to-valve-after-s-1847959748)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
