@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Are they??? &gt;:)](http://9gag.com/gag/a21Nojw)
- - 🚯 [Child me: Let me eat the best part immediately. Adult me: I am gonna leave the best part until the end.](http://9gag.com/gag/ay95xGp)
+ - 🚖 [Congrats on your hard work!](http://9gag.com/gag/ajgr83w)
+ - 🚯 [Some post gets deleted, so let me post](http://9gag.com/gag/ajgr89g)
  - 🚯 [Finally....Friday](http://9gag.com/gag/aegNMPq)<!-- MEMES:END -->
 
 --- 
