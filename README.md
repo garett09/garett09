@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [MacBook Pro's Liquid Retina XDR display supports reference modes and fine tuning](https://appleinsider.com/articles/21/10/29/macbook-pros-liquid-retina-xdr-display-supports-reference-modes-and-fine-tuning?utm_medium=rss)
- - [Fridge-size asteroid snuck up on Earth by hiding behind the sun     - CNET](https://www.cnet.com/news/a-fridge-size-asteroid-skimmed-earth-this-week-in-the-third-closest-fly-by-ever/#ftag=CAD590a51e)
- - [Best lap timer for 2021     - Roadshow](https://www.cnet.com/roadshow/news/best-lap-timer-for-2021/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Huawei will bring EMUI 12 to plenty of older phones](https://www.androidauthority.com/huawei-emui-12-release-3048371/)
+ - [NASA's Hubble Space Telescope snaps spooky image of a dying star     - CNET](https://www.cnet.com/news/nasa-hubble-celebrates-halloween-with-spooky-snap-of-a-dying-star/#ftag=CAD590a51e)
+ - [MacBook Pro's Liquid Retina XDR display supports reference modes and fine tuning](https://appleinsider.com/articles/21/10/29/macbook-pros-liquid-retina-xdr-display-supports-reference-modes-and-fine-tuning?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
