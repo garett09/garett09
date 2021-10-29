@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Michael Myers is a stand in for toxic something](https://www.polygon.com/2021/10/29/22752874/michael-myers-identity-halloween-movies-meaning-galaxy-brains)
- - [Star Trek’s new animated show takes the franchise in a different direction](https://www.polygon.com/22753008/star-trek-prodigy-review-kate-mulgrew-janeway)
- - [The Witcher showrunner promises deeper relationships and more bard hits in season 2](https://www.pcgamer.com/the-witcher-showrunner-promises-deeper-relationships-and-more-bard-hits-in-season-2)<!-- GAME:END -->
+ - [An Action Platformer Perf For Those Too Chicken For Halloween](https://kotaku.com/an-action-platformer-perf-for-those-too-chicken-for-hal-1847966338)
+ - [New World players are crashing the game with malicious chat exploit](https://www.pcgamer.com/new-world-players-are-crashing-the-game-with-malicious-chat-exploit)
+ - [PUBG's parent company now owns Subnautica studio Unknown Worlds](https://www.pcgamer.com/pubgs-parent-company-now-owns-subnautica-studio-unknown-worlds)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
