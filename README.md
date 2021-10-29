@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best deals Oct. 29: $80 3D printer, $75 1TB SSD, $90 for 4 AirTags, more!](https://appleinsider.com/articles/21/10/29/best-deals-oct-29-80-3d-printer-75-1tb-ssd-90-for-4-airtags-more?utm_medium=rss)
- - [Grab up to 70% off clothing at Asos     - CNET](https://www.cnet.com/news/grab-up-to-70-off-clothing-at-asos/#ftag=CAD590a51e)
- - [Best treadmill for 2021     - CNET](https://www.cnet.com/health/fitness/best-treadmill/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [HBO Max: 12 best movies to watch tonight     - CNET](https://www.cnet.com/news/hbo-max-12-best-movies-to-watch-tonight/#ftag=CAD590a51e)
+ - [Google Pixel 6 review: Worth every penny](https://www.androidauthority.com/google-pixel-6-review-3042252/)
+ - [Google Pixel 6 vs. Pixel 6 Pro: Which has the better camera?     - CNET](https://www.cnet.com/tech/mobile/google-pixel-6-vs-pixel-6-pro-which-has-the-better-camera/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
