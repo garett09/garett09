@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Newly independent Honor is now bigger than Xiaomi in its home market](https://www.androidauthority.com/honor-smartphone-market-china-3048373/)
- - [Nebraska-based CompanyCam, which offers a photo documentation and communication app for contractors, raises a $30M Series B led by Insight Partners (FinSMEs)](http://www.techmeme.com/211029/p1#a211029p1)
- - [Huawei will bring EMUI 12 to plenty of older phones](https://www.androidauthority.com/huawei-emui-12-release-3048371/)<!-- TECH:END -->
+ - [Best French press to buy in 2021     - CNET](https://www.cnet.com/home/kitchen-and-household/best-french-press/#ftag=CAD590a51e)
+ - [Best 4K TV for 2021     - CNET](https://www.cnet.com/tech/home-entertainment/best-4k-tv/#ftag=CAD590a51e)
+ - [Apple's iPhone 13 lineup: All the differences between the iPhone 13, Mini, Pro and Pro Max     - CNET](https://www.cnet.com/tech/mobile/apples-iphone-13-lineup-all-the-differences-between-the-iphone-13-mini-pro-and-pro-max/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
