@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [We tune car engines too , just sayin](http://9gag.com/gag/aWgZgEx)
- - 🚯 [Epstein didn&#039;t kill himself](http://9gag.com/gag/ajgrg5g)
+ - 🚖 [Surgeons in New York have successfully attached kidney from a genetically altered pig to a human. The kidney was attached to a brain-dead recipient&#039;s blood vessels in the upper-leg. The organ started functioning normally and making urine and waste product almost immediately.](http://9gag.com/gag/aggygbv)
+ - 🚯 [We tune car engines too , just sayin](http://9gag.com/gag/aWgZgEx)
  - 🚯 [The block is hot!](http://9gag.com/gag/abgXzdO)<!-- MEMES:END -->
 
 --- 
