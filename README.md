@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Finally....Friday](http://9gag.com/gag/aegNMPq)
- - 🚯 [Vulture Being Let Back Into The Wild](http://9gag.com/gag/a91dp1L)
- - 🚯 [Best clips from WRC Rally Finland 2021](http://9gag.com/gag/abg5MWp)<!-- MEMES:END -->
+ - 🚖 [Are they??? &gt;:)](http://9gag.com/gag/a21Nojw)
+ - 🚯 [Child me: Let me eat the best part immediately. Adult me: I am gonna leave the best part until the end.](http://9gag.com/gag/ay95xGp)
+ - 🚯 [Finally....Friday](http://9gag.com/gag/aegNMPq)<!-- MEMES:END -->
 
 --- 
 
