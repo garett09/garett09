@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Congrats on your hard work!](http://9gag.com/gag/ajgr83w)
- - 🚯 [Some post gets deleted, so let me post](http://9gag.com/gag/ajgr89g)
- - 🚯 [Finally....Friday](http://9gag.com/gag/aegNMPq)<!-- MEMES:END -->
+ - 🚖 [Useful map](http://9gag.com/gag/aPZvY1V)
+ - 🚯 [Congrats on your hard work!](http://9gag.com/gag/ajgr83w)
+ - 🚯 [Look babe, Optimum Prime *throws up*](http://9gag.com/gag/aZrPLGn)<!-- MEMES:END -->
 
 --- 
 
