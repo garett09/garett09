@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best French press to buy in 2021     - CNET](https://www.cnet.com/home/kitchen-and-household/best-french-press/#ftag=CAD590a51e)
- - [Best 4K TV for 2021     - CNET](https://www.cnet.com/tech/home-entertainment/best-4k-tv/#ftag=CAD590a51e)
- - [Apple's iPhone 13 lineup: All the differences between the iPhone 13, Mini, Pro and Pro Max     - CNET](https://www.cnet.com/tech/mobile/apples-iphone-13-lineup-all-the-differences-between-the-iphone-13-mini-pro-and-pro-max/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Nude-friendly Google Photos folders coming to iOS next year](https://www.theverge.com/2021/10/29/22752239/google-photos-locked-folder-one-vpn-security-hub)
+ - [The chip shortage hit hard in Q3 2021, but smartphone brands still coined it](https://www.androidauthority.com/q3-2021-global-smartphones-3048426/)
+ - [Best French press to buy in 2021     - CNET](https://www.cnet.com/home/kitchen-and-household/best-french-press/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
