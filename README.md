@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [OH lord its comming... And I&#039;ll be too.](http://9gag.com/gag/a61wKr9)
- - 🚯 [Neck exercises](http://9gag.com/gag/aQXq1d2)
- - 🚯 [Learn people learn](http://9gag.com/gag/aGz9dpn)<!-- MEMES:END -->
+ - 🚖 [Learn people learn](http://9gag.com/gag/aGz9dpn)
+ - 🚯 [Adopted kitty with only 2 legs!](http://9gag.com/gag/a61wK0L)
+ - 🚯 [The block is hot!](http://9gag.com/gag/abgXzdO)<!-- MEMES:END -->
 
 --- 
 
