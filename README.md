@@ -193,7 +193,7 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Surgeons in New York have successfully attached kidney from a genetically altered pig to a human. The kidney was attached to a brain-dead recipient&#039;s blood vessels in the upper-leg. The organ started functioning normally and making urine and waste product almost immediately.](http://9gag.com/gag/aggygbv)
+ - 🚖 [Teach your kids financial math!!!!](http://9gag.com/gag/aBnKnjZ)
  - 🚯 [We tune car engines too , just sayin](http://9gag.com/gag/aWgZgEx)
  - 🚯 [The block is hot!](http://9gag.com/gag/abgXzdO)<!-- MEMES:END -->
 
