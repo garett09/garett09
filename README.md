@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Final Fantasy VIII: Yoshinori Kitase on taking the series in a bold new direction](http://feedproxy.google.com/~r/PSBlog/~3/MQdNb8mXeps/)
- - [Final Fantasy VIII: Yoshinori Kitase on taking the series in a bold new direction](https://blog.playstation.com/2021/10/29/final-fantasy-viii-yoshinori-kitase-on-taking-the-series-in-a-bold-new-direction/)
- - [Next Week on Xbox: November 1 to 5](https://news.xbox.com/en-us/2021/10/29/next-week-on-xbox-november-1-to-5/)<!-- GAME:END -->
+ - [The newest Dark Pictures game will take place in a serial killer mansion](https://www.polygon.com/22752451/dark-pictures-anthology-devil-in-me-trailer-release-date)
+ - [This Alienware PC has an Intel 11th Gen CPU and GeForce RTX 3070 for $1,899 right now](https://www.pcgamer.com/this-alienware-pc-has-an-intel-11th-gen-cpu-and-geforce-rtx-3070-for-dollar1899-right-now)
+ - [Xbox and Xolo Maridueña Celebrate Día de Muertos with Forza Horizon 5](https://news.xbox.com/en-us/2021/10/29/xbox-xolo-mariduena-day-of-the-dead/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
