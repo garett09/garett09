@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Learn people learn](http://9gag.com/gag/aGz9dpn)
- - 🚯 [Too much testosterone](http://9gag.com/gag/a81WGdZ)
+ - 🚖 [Legit question](http://9gag.com/gag/a61wEwA)
+ - 🚯 [Is it just me or what?](http://9gag.com/gag/azebmjz)
  - 🚯 [The block is hot!](http://9gag.com/gag/abgXzdO)<!-- MEMES:END -->
 
 --- 
