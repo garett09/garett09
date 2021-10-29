@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Sable's Stranger Update unleashes a ghastly new bike and plenty of bug fixes](https://www.pcgamer.com/sables-stranger-update-unleashes-a-ghastly-new-bike-and-plenty-of-bug-fixes)
- - [Netflix's Tomb Raider anime wants to 'unify the timelines' between the original series and the reboots](https://www.pcgamer.com/netflixs-tomb-raider-anime-wants-to-unify-the-timelines-between-the-original-series-and-the-reboots)
- - [Free Play Days: Biomutant, PGA Tour 2K21, and Hunting Simulator 2](https://news.xbox.com/en-us/2021/10/29/free-play-days-biomutant-pga-tour-2k21-and-hunting-simulator-2/)<!-- GAME:END -->
+ - [Final Fantasy VIII: Yoshinori Kitase on taking the series in a bold new direction](http://feedproxy.google.com/~r/PSBlog/~3/MQdNb8mXeps/)
+ - [Final Fantasy VIII: Yoshinori Kitase on taking the series in a bold new direction](https://blog.playstation.com/2021/10/29/final-fantasy-viii-yoshinori-kitase-on-taking-the-series-in-a-bold-new-direction/)
+ - [Next Week on Xbox: November 1 to 5](https://news.xbox.com/en-us/2021/10/29/next-week-on-xbox-november-1-to-5/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
