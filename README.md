@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [MacBook Pro's Liquid Retina XDR display supports reference modes and fine tuning](https://appleinsider.com/articles/21/10/29/macbook-pros-liquid-retina-xdr-display-supports-reference-modes-and-fine-tuning?utm_medium=rss)
- - [Google and Jio debut JioPhone Next, their $87 budget smartphone, going on sale on November 4, with 5.45-inch HD+ display and Qualcomm's quad-core QM-215 chipset (Manish Singh/TechCrunch)](http://www.techmeme.com/211029/p6#a211029p6)
- - [Digital divide fix at risk as $1.2 trillion infrastructure bill remains stalled     - CNET](https://www.cnet.com/home/internet/digital-divide-fix-at-risk-as-1-2-trillion-infrastructure-bill-remains-stalled/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Refi rates on Oct. 29, 2021: Rates slide     - CNET](https://www.cnet.com/news/refi-rates-on-oct-29-2021-rates-slide/#ftag=CAD590a51e)
+ - [Current mortgage interest rates on Oct. 29, 2021: Rates ease     - CNET](https://www.cnet.com/news/current-mortgage-interest-rates-on-oct-29-2021-rates-ease/#ftag=CAD590a51e)
+ - [The Best Accessories for Your New PlayStation 5](https://www.wired.com/gallery/best-ps5-accessories)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
