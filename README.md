@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Best memories were paid with money](http://9gag.com/gag/aggy5Gr)
- - 🚯 [Keanu Reeves helping the crew of John Wick 4 move equipment around.](http://9gag.com/gag/aWgZ1y2)
- - 🚯 [Noice..](http://9gag.com/gag/aqGmKbM)<!-- MEMES:END -->
+ - 🚖 [I am once again asking](http://9gag.com/gag/aAGYg0Z)
+ - 🚯 [Congrats on your hard work!](http://9gag.com/gag/ajgr83w)
+ - 🚯 [Best memories were paid with money](http://9gag.com/gag/aggy5Gr)<!-- MEMES:END -->
 
 --- 
 
