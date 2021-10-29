@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [My birthday](http://9gag.com/gag/amgXvEj)
- - 🚯 [Post Brexit](http://9gag.com/gag/aOQq77v)
+ - 🚖 [We tune car engines too , just sayin](http://9gag.com/gag/aWgZgEx)
+ - 🚯 [Epstein didn&#039;t kill himself](http://9gag.com/gag/ajgrg5g)
  - 🚯 [The block is hot!](http://9gag.com/gag/abgXzdO)<!-- MEMES:END -->
 
 --- 
