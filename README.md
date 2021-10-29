@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple has most loyal smartphone customers in US, study finds](https://appleinsider.com/articles/21/10/29/apple-has-most-loyal-smartphone-customers-in-us-study-finds?utm_medium=rss)
  - [MacBook Pro's Liquid Retina XDR display supports reference modes and fine tuning](https://appleinsider.com/articles/21/10/29/macbook-pros-liquid-retina-xdr-display-supports-reference-modes-and-fine-tuning?utm_medium=rss)
- - [This CryptoPunk NFT just sold for $530 million. Kind of     - CNET](https://www.cnet.com/news/this-cryptopunk-nft-just-sold-for-530-million-kind-of/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Fridge-size asteroid snuck up on Earth by hiding behind the sun     - CNET](https://www.cnet.com/news/a-fridge-size-asteroid-skimmed-earth-this-week-in-the-third-closest-fly-by-ever/#ftag=CAD590a51e)
+ - [Best lap timer for 2021     - Roadshow](https://www.cnet.com/roadshow/news/best-lap-timer-for-2021/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
