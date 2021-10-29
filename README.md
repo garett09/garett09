@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Georgia pleads guilty after spending COVID loan on $57K rare Pokémon card](https://www.polygon.com/22744759/georgia-man-covid-loan-pokemon-card-57k)
- - [New Games with Gold for November 2021](https://news.xbox.com/en-us/2021/10/29/new-games-with-gold-for-november-2021/)
- - [The best LAPA loadouts for Warzone](https://www.pcgamer.com/best-warzone-lapa-loadout-class-setup)<!-- GAME:END -->
+ - [Majora’s Mask Is A Masterpiece Of Existential Horror](https://kotaku.com/majora-s-mask-is-a-masterpiece-of-existential-horror-1847963798)
+ - [Share of the Week: Scary](http://feedproxy.google.com/~r/PSBlog/~3/_BsNYpLaMLg/)
+ - [Share of the Week: Scary](https://blog.playstation.com/2021/10/29/share-of-the-week-scary/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
