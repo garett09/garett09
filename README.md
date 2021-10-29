@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The newest Dark Pictures game will take place in a serial killer mansion](https://www.polygon.com/22752451/dark-pictures-anthology-devil-in-me-trailer-release-date)
- - [This Alienware PC has an Intel 11th Gen CPU and GeForce RTX 3070 for $1,899 right now](https://www.pcgamer.com/this-alienware-pc-has-an-intel-11th-gen-cpu-and-geforce-rtx-3070-for-dollar1899-right-now)
- - [Xbox and Xolo Maridueña Celebrate Día de Muertos with Forza Horizon 5](https://news.xbox.com/en-us/2021/10/29/xbox-xolo-mariduena-day-of-the-dead/)<!-- GAME:END -->
+ - [Georgia pleads guilty after spending COVID loan on $57K rare Pokémon card](https://www.polygon.com/22744759/georgia-man-covid-loan-pokemon-card-57k)
+ - [New Games with Gold for November 2021](https://news.xbox.com/en-us/2021/10/29/new-games-with-gold-for-november-2021/)
+ - [The best LAPA loadouts for Warzone](https://www.pcgamer.com/best-warzone-lapa-loadout-class-setup)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
