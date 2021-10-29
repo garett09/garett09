@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Tensor 2 is (unsurprisingly) in the works, presumably for Pixel 7](https://www.androidauthority.com/google-tensor-2-pixel-7-3048448/)
- - [Apple's macOS Monterey causes problems with some USB devices, hubs](https://appleinsider.com/articles/21/10/29/apples-macos-monterey-causes-problems-with-some-usb-devices-hubs?utm_medium=rss)
- - [Best vacuum cleaners for 2021: Dyson, Roomba, Tineco and more     - CNET](https://www.cnet.com/home/kitchen-and-household/best-vacuum-cleaner/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Daily Authority: 🥽 Meta meaning?](https://www.androidauthority.com/newsletters/da-october-29-2021/)
+ - [The Apple Watch Series 7 Isn’t a Huge Upgrade, but That’s OK](https://www.wired.com/review/apple-watch-series-7)
+ - [New England’s Moose Are Losing the Fight Against Winter Ticks](https://www.wired.com/story/new-englands-moose-are-losing-the-fight-against-winter-ticks)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
