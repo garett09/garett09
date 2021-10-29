@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Huawei will bring EMUI 12 to plenty of older phones](https://www.androidauthority.com/huawei-emui-12-release-3048371/)
- - [NASA's Hubble Space Telescope snaps spooky image of a dying star     - CNET](https://www.cnet.com/news/nasa-hubble-celebrates-halloween-with-spooky-snap-of-a-dying-star/#ftag=CAD590a51e)
- - [MacBook Pro's Liquid Retina XDR display supports reference modes and fine tuning](https://appleinsider.com/articles/21/10/29/macbook-pros-liquid-retina-xdr-display-supports-reference-modes-and-fine-tuning?utm_medium=rss)<!-- TECH:END -->
+ - [Newly independent Honor is now bigger than Xiaomi in its home market](https://www.androidauthority.com/honor-smartphone-market-china-3048373/)
+ - [Nebraska-based CompanyCam, which offers a photo documentation and communication app for contractors, raises a $30M Series B led by Insight Partners (FinSMEs)](http://www.techmeme.com/211029/p1#a211029p1)
+ - [Huawei will bring EMUI 12 to plenty of older phones](https://www.androidauthority.com/huawei-emui-12-release-3048371/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
