@@ -194,7 +194,7 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [My birthday](http://9gag.com/gag/amgXvEj)
- - 🚯 [When you see the women&#039;s line. Adapt, improvise &amp; get trashy.](http://9gag.com/gag/aRrQXny)
+ - 🚯 [Post Brexit](http://9gag.com/gag/aOQq77v)
  - 🚯 [The block is hot!](http://9gag.com/gag/abgXzdO)<!-- MEMES:END -->
 
 --- 
