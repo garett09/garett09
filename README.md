@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Leaked photo of Meta's upcoming smartwatch reveals Apple Watch-esque design](https://appleinsider.com/articles/21/10/29/leaked-photo-of-metas-upcoming-smartwatch-reveals-apple-watch-esque-design?utm_medium=rss)
- - [TikTok is testing a new tipping feature for some creators](https://www.theverge.com/2021/10/28/22751715/tiktok-new-tips-feature-creators)
- - [Facebook’s Meta watch has a camera notch, according to first leaked image](https://www.theverge.com/2021/10/28/22751702/facebook-meta-smartwatch-camera-notch-image-leak-glasses-wearables)<!-- TECH:END -->
+ - [Google releases a Chrome update that fixes seven vulnerabilities, including two zero-days known to have been exploited in the wild (Lawrence Abrams/BleepingComputer)](http://www.techmeme.com/211028/p51#a211028p51)
+ - [Supply issues cost Apple $6 billion in Q4 2021, CEO Tim Cook says](https://appleinsider.com/articles/21/10/28/supply-issues-cost-apple-6-billion-in-q4-2021-ceo-tim-cook-says?utm_medium=rss)
+ - [Leaked photo of Meta's upcoming smartwatch reveals Apple Watch-esque design](https://appleinsider.com/articles/21/10/29/leaked-photo-of-metas-upcoming-smartwatch-reveals-apple-watch-esque-design?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
