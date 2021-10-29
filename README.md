@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Developers can now try on Google’s Jacquard smart fabric tech](https://www.theverge.com/2021/10/29/22752461/google-atap-fabric-tech-jacquard-sdk-released)
- - [VESA’s new eDP 1.5 might give your next laptop slightly better battery life](https://www.theverge.com/2021/10/29/22752899/vesa-displayport-edp-1-5-panel-self-refresh-oled-adaptive-sync)
- - [5 games coming soon to Apple Arcade     - CNET](https://www.cnet.com/tech/gaming/apple-arcade-games-coming-soon/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [AOC calls Facebook a ‘cancer to democracy’ after Meta rebrand](https://www.theverge.com/2021/10/29/22753046/facebook-meta-aoc-instagram-rebrand-france-haugen-blumenthal)
+ - [A look at a16z's crypto lobbying and draft legislation it is circulating in DC, which some worry may create regulatory loopholes for its portfolio companies (New York Times)](http://www.techmeme.com/211029/p17#a211029p17)
+ - [Flaw in macOS briefly allowed attackers to install what they wanted](https://appleinsider.com/articles/21/10/29/flaw-in-macos-briefly-allowed-attackers-to-install-what-they-wanted?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
