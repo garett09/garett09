@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Call of Duty: Vanguard Season One details, including new Warzone Pacific Caldera map](http://feedproxy.google.com/~r/PSBlog/~3/Uz5GXDut8EA/)
- - [Call of Duty: Vanguard Season One details, including new Warzone Pacific Caldera map](https://blog.playstation.com/2021/10/29/call-of-duty-vanguard-season-one-details-including-new-warzone-pacific-caldera-map/)
- - [Amazing Breaker Now Available](https://news.xbox.com/en-us/2021/10/29/amazing-breaker-now-available/)<!-- GAME:END -->
+ - [The Halloween Countdown: 31 days of horror](https://www.polygon.com/22702474/best-halloween-movies-tv-to-watch-stream)
+ - [Path of Exile: Scourge Expansion is Available Now for Free](https://news.xbox.com/en-us/2021/10/29/path-of-exile-scourge-free-expansion-is-available-now/)
+ - [Dinotopia is the best dinosaur game, and it’s got puppets](https://www.polygon.com/videos/22751018/dinotopia-dinosaur-game-puppets)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
