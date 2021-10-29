@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [AOC calls Facebook a ‘cancer to democracy’ after Meta rebrand](https://www.theverge.com/2021/10/29/22753046/facebook-meta-aoc-instagram-rebrand-france-haugen-blumenthal)
- - [A look at a16z's crypto lobbying and draft legislation it is circulating in DC, which some worry may create regulatory loopholes for its portfolio companies (New York Times)](http://www.techmeme.com/211029/p17#a211029p17)
- - [Flaw in macOS briefly allowed attackers to install what they wanted](https://appleinsider.com/articles/21/10/29/flaw-in-macos-briefly-allowed-attackers-to-install-what-they-wanted?utm_medium=rss)<!-- TECH:END -->
+ - [Peacock TV: Halloween Kills, Yellowstone, Premier League, NFL and everything else     - CNET](https://www.cnet.com/tech/services-and-software/peacock-tv-halloween-kills-yellowstone-premier-league-nfl-and-everything-else/#ftag=CAD590a51e)
+ - [Microsoft dethrones Apple, becomes world's most valuable company](https://appleinsider.com/articles/21/10/29/microsoft-dethrones-apple-becomes-worlds-most-valuable-company?utm_medium=rss)
+ - [Nilay Patel on Facebook’s reckoning with reality—and the metaverse-size problems yet to come](https://www.vanityfair.com/news/2021/10/nilay-patel-facebook-reckoning)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
