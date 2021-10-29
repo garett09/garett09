@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Vergecast: Facebook goes meta and reviews of the Pixel 6 and MacBook Pro](https://www.theverge.com/2021/10/29/22753317/vergecast-facebook-meta-pixel-6-macbook-pro-review)
- - [Two Netflix employees who openly criticized Netflix's support of Dave Chappelle's comedy special have filed charges with the NLRB, claiming retaliation (Zoe Schiffer/The Verge)](http://www.techmeme.com/211029/p21#a211029p21)
- - [An Apparent Ransomware Hack Puts the NRA in a Bind](https://www.wired.com/story/nra-ransomware-hack-sanctions-payment)<!-- TECH:END -->
+ - [Interview with Intel CEO Pat Gelsinger and CTO Greg Lavender on the IBM partnership, how new transistor architectures could help outpace Moore's law, and more (Paul Alcorn/Tom's Hardware)](http://www.techmeme.com/211029/p23#a211029p23)
+ - [Fitness app Supernatural is becoming part of Meta after Facebook touts VR fitness](https://www.theverge.com/2021/10/29/22753403/supernatural-within-studio-facebook-meta-oculus-vr-fitness-experiences-metaverse)
+ - [Pokemon Sword and Shield Halloween event lets you catch Shiny Zoroark     - CNET](https://www.cnet.com/tech/gaming/pokemon-sword-and-shield-halloween-event-lets-you-catch-shiny-zoroark/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
