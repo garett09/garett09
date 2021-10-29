@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nude-friendly Google Photos folders coming to iOS next year](https://www.theverge.com/2021/10/29/22752239/google-photos-locked-folder-one-vpn-security-hub)
- - [The chip shortage hit hard in Q3 2021, but smartphone brands still coined it](https://www.androidauthority.com/q3-2021-global-smartphones-3048426/)
- - [Best French press to buy in 2021     - CNET](https://www.cnet.com/home/kitchen-and-household/best-french-press/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google Tensor 2 is (unsurprisingly) in the works, presumably for Pixel 7](https://www.androidauthority.com/google-tensor-2-pixel-7-3048448/)
+ - [Apple's macOS Monterey causes problems with some USB devices, hubs](https://appleinsider.com/articles/21/10/29/apples-macos-monterey-causes-problems-with-some-usb-devices-hubs?utm_medium=rss)
+ - [Best vacuum cleaners for 2021: Dyson, Roomba, Tineco and more     - CNET](https://www.cnet.com/home/kitchen-and-household/best-vacuum-cleaner/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
