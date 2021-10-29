@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [HBO Max: 12 best movies to watch tonight     - CNET](https://www.cnet.com/news/hbo-max-12-best-movies-to-watch-tonight/#ftag=CAD590a51e)
- - [Google Pixel 6 review: Worth every penny](https://www.androidauthority.com/google-pixel-6-review-3042252/)
- - [Google Pixel 6 vs. Pixel 6 Pro: Which has the better camera?     - CNET](https://www.cnet.com/tech/mobile/google-pixel-6-vs-pixel-6-pro-which-has-the-better-camera/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Guardians of the Galaxy's final boss, explained     - CNET](https://www.cnet.com/tech/gaming/guardians-of-the-galaxys-final-boss-explained/#ftag=CAD590a51e)
+ - [Werewolves, vampires and moon people: Revisiting lost movie monsters     - CNET](https://www.cnet.com/features/werewolves-vampires-and-moon-people-revisiting-lost-movie-monsters/#ftag=CAD590a51e)
+ - [Pokemon Go November 2021 events: Raids, Spotlight Hours and more     - CNET](https://www.cnet.com/tech/gaming/pokemon-go-november-2021-events-raids-diamond-and-pearl-event-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
