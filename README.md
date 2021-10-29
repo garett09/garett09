@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Call of Duty: Warzone's overpowered Kali Sticks must be stopped](https://www.pcgamer.com/call-of-duty-warzones-overpowered-kali-sticks-must-be-stopped)
- - [Obscure SNES RPG Lets You Take Photos Of Lovecraftian Horrors For Mad Cash](https://kotaku.com/obscure-snes-rpg-lets-you-take-photos-of-lovecraftian-h-1847959840)
- - [Our favorite New Horizons 2.0 villagers coming early to Pocket Camp](https://www.polygon.com/22751106/animal-crossing-new-horizons-update-new-villagers-shino-sasha-petri-pocket-camp-announcement)<!-- GAME:END -->
+ - [Alone In The Dark Scared The Crap Out Of Me](https://kotaku.com/alone-in-the-dark-scared-the-shit-out-of-me-1819788909)
+ - [26 NFT Developers Send Very Sad Letter To Valve After Steam Ban](https://kotaku.com/26-nft-developers-send-very-sad-letter-to-valve-after-s-1847959748)
+ - [Call of Duty: Warzone's overpowered Kali Sticks must be stopped](https://www.pcgamer.com/call-of-duty-warzones-overpowered-kali-sticks-must-be-stopped)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
