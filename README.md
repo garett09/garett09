@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Watch central to 'landmark' University of Michigan health study](https://appleinsider.com/articles/21/10/29/apple-watch-central-to-landmark-university-of-michigan-health-study?utm_medium=rss)
- - [Twitter rolls out Super Follow for select creators globally on iOS, after previously limiting the feature to US and Canada users (Aisha Malik/TechCrunch)](http://www.techmeme.com/211029/p14#a211029p14)
- - [Apple's 140W 16-inch MacBook Pro charger gets the teardown treatment](https://appleinsider.com/articles/21/10/29/chargerlab-tears-down-apples-140w-macbook-pro-charger?utm_medium=rss)<!-- TECH:END -->
+ - [Developers can now try on Google’s Jacquard smart fabric tech](https://www.theverge.com/2021/10/29/22752461/google-atap-fabric-tech-jacquard-sdk-released)
+ - [VESA’s new eDP 1.5 might give your next laptop slightly better battery life](https://www.theverge.com/2021/10/29/22752899/vesa-displayport-edp-1-5-panel-self-refresh-oled-adaptive-sync)
+ - [5 games coming soon to Apple Arcade     - CNET](https://www.cnet.com/tech/gaming/apple-arcade-games-coming-soon/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
