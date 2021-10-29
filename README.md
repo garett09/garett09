@@ -194,7 +194,7 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Learn people learn](http://9gag.com/gag/aGz9dpn)
- - 🚯 [Adopted kitty with only 2 legs!](http://9gag.com/gag/a61wK0L)
+ - 🚯 [Too much testosterone](http://9gag.com/gag/a81WGdZ)
  - 🚯 [The block is hot!](http://9gag.com/gag/abgXzdO)<!-- MEMES:END -->
 
 --- 
