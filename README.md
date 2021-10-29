@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Majora’s Mask Is A Masterpiece Of Existential Horror](https://kotaku.com/majora-s-mask-is-a-masterpiece-of-existential-horror-1847963798)
- - [Share of the Week: Scary](http://feedproxy.google.com/~r/PSBlog/~3/_BsNYpLaMLg/)
- - [Share of the Week: Scary](https://blog.playstation.com/2021/10/29/share-of-the-week-scary/)<!-- GAME:END -->
+ - [Call of Duty: Vanguard Season One details, including new Warzone Pacific Caldera map](http://feedproxy.google.com/~r/PSBlog/~3/Uz5GXDut8EA/)
+ - [Call of Duty: Vanguard Season One details, including new Warzone Pacific Caldera map](https://blog.playstation.com/2021/10/29/call-of-duty-vanguard-season-one-details-including-new-warzone-pacific-caldera-map/)
+ - [Amazing Breaker Now Available](https://news.xbox.com/en-us/2021/10/29/amazing-breaker-now-available/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
