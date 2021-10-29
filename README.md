@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Last Night in Soho’s Edgar Wright doesn’t want to give you homework… but he will](https://www.polygon.com/interviews/22753386/edgar-wright-interview-last-night-in-soho-director)
  - [Dive Into Horde Mode, New Master Levels, and More Today in Doom Eternal](https://news.xbox.com/en-us/2021/10/29/dive-into-horde-mode-doom-eternal/)
- - [Ubisoft workers demand swifter action from leadership after Activision concedes to employee demands](https://www.pcgamer.com/ubisoft-workers-demand-swifter-action-from-leadership-after-activision-concedes-to-employee-demands)
- - [Sources: Nintendo Shutters California Office](https://kotaku.com/sources-nintendo-shutters-california-office-1847966405)<!-- GAME:END -->
+ - [Ubisoft workers demand swifter action from leadership after Activision concedes to employee demands](https://www.pcgamer.com/ubisoft-workers-demand-swifter-action-from-leadership-after-activision-concedes-to-employee-demands)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
