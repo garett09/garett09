@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Unlimited Budget Works](http://9gag.com/gag/amgXYOd)
- - 🚯 [5 guys try to sneak away from the dog by dancing, after realizing they&#039;re not a threat to eachother dog joins the dance](http://9gag.com/gag/ajgrXow)
- - 🚯 [Vulture Being Let Back Into The Wild](http://9gag.com/gag/a91dp1L)<!-- MEMES:END -->
+ - 🚖 [Customer Internet Problems](http://9gag.com/gag/a414Gd1)
+ - 🚯 [The US Government in a nutshell with their massive mistakes like Waco and others](http://9gag.com/gag/a91dKLo)
+ - 🚯 [Best clips from WRC Rally Finland 2021](http://9gag.com/gag/abg5MWp)<!-- MEMES:END -->
 
 --- 
 
