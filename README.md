@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Peacock TV: Halloween Kills, Yellowstone, Premier League, NFL and everything else     - CNET](https://www.cnet.com/tech/services-and-software/peacock-tv-halloween-kills-yellowstone-premier-league-nfl-and-everything-else/#ftag=CAD590a51e)
- - [Microsoft dethrones Apple, becomes world's most valuable company](https://appleinsider.com/articles/21/10/29/microsoft-dethrones-apple-becomes-worlds-most-valuable-company?utm_medium=rss)
- - [Nilay Patel on Facebook’s reckoning with reality—and the metaverse-size problems yet to come](https://www.vanityfair.com/news/2021/10/nilay-patel-facebook-reckoning)<!-- TECH:END -->
+ - [Online course provider Udemy closes down 5.2% on its first day of trading, after raising $421M in its US IPO at a $4.3B+ valuation (Bloomberg)](http://www.techmeme.com/211029/p20#a211029p20)
+ - [Netflix employees at the heart of the Dave Chappelle controversy file charges against the company](https://www.theverge.com/2021/10/29/22751847/netflix-employees-dave-chappelle-file-charges-nlrb)
+ - [iFixit teardown of the 2021 MacBook Pro reveals easier battery swaps](https://www.theverge.com/2021/10/29/22753063/macbook-pro-ifixit-teardown-battery-swaps-pull-tabs)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
