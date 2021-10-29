@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I am once again asking](http://9gag.com/gag/aAGYg0Z)
- - 🚯 [Congrats on your hard work!](http://9gag.com/gag/ajgr83w)
- - 🚯 [Best memories were paid with money](http://9gag.com/gag/aggy5Gr)<!-- MEMES:END -->
+ - 🚖 [This is the way](http://9gag.com/gag/a61wNpN)
+ - 🚯 [If a video could contain every stereotype, this would be it.](http://9gag.com/gag/abg5r4B)
+ - 🚯 [Look babe, Optimum Prime *throws up*](http://9gag.com/gag/aZrPLGn)<!-- MEMES:END -->
 
 --- 
 
