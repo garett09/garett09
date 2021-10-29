@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [After suffering in pain for 8 years on animation and gaming industry, i lost my job due pandemic in January. Then suddenly i decided to learn traditional sculpting. Hopefully, i will open my online shop around next Jan. This one is my very first sculpture i did back in April.](http://9gag.com/gag/ajgrXpw)
+ - 🚖 [Physics is fun....](http://9gag.com/gag/a81Wyv3)
  - 🚯 [Unlimited Budget Works](http://9gag.com/gag/amgXYOd)
- - 🚯 [Physics is fun....](http://9gag.com/gag/a81Wyv3)<!-- MEMES:END -->
+ - 🚯 [Vulture Being Let Back Into The Wild](http://9gag.com/gag/a91dp1L)<!-- MEMES:END -->
 
 --- 
 
