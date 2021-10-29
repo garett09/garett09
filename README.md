@@ -194,8 +194,8 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [OH lord its comming... And I&#039;ll be too.](http://9gag.com/gag/a61wKr9)
- - 🚯 [This is the way](http://9gag.com/gag/a61wNpN)
- - 🚯 [If a video could contain every stereotype, this would be it.](http://9gag.com/gag/abg5r4B)<!-- MEMES:END -->
+ - 🚯 [Yarr !](http://9gag.com/gag/arnpGjd)
+ - 🚯 [Neck exercises](http://9gag.com/gag/aQXq1d2)<!-- MEMES:END -->
 
 --- 
 
