@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Guardians of the Galaxy's final boss, explained     - CNET](https://www.cnet.com/tech/gaming/guardians-of-the-galaxys-final-boss-explained/#ftag=CAD590a51e)
- - [Werewolves, vampires and moon people: Revisiting lost movie monsters     - CNET](https://www.cnet.com/features/werewolves-vampires-and-moon-people-revisiting-lost-movie-monsters/#ftag=CAD590a51e)
- - [Pokemon Go November 2021 events: Raids, Spotlight Hours and more     - CNET](https://www.cnet.com/tech/gaming/pokemon-go-november-2021-events-raids-diamond-and-pearl-event-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple Watch central to 'landmark' University of Michigan health study](https://appleinsider.com/articles/21/10/29/apple-watch-central-to-landmark-university-of-michigan-health-study?utm_medium=rss)
+ - [Twitter rolls out Super Follow for select creators globally on iOS, after previously limiting the feature to US and Canada users (Aisha Malik/TechCrunch)](http://www.techmeme.com/211029/p14#a211029p14)
+ - [Apple's 140W 16-inch MacBook Pro charger gets the teardown treatment](https://appleinsider.com/articles/21/10/29/chargerlab-tears-down-apples-140w-macbook-pro-charger?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
