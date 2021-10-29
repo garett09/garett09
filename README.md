@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Halloween Countdown: 31 days of horror](https://www.polygon.com/22702474/best-halloween-movies-tv-to-watch-stream)
- - [Path of Exile: Scourge Expansion is Available Now for Free](https://news.xbox.com/en-us/2021/10/29/path-of-exile-scourge-free-expansion-is-available-now/)
- - [Dinotopia is the best dinosaur game, and it’s got puppets](https://www.polygon.com/videos/22751018/dinotopia-dinosaur-game-puppets)<!-- GAME:END -->
+ - [Fatal Frame: Maiden of Black Water – 12 Tips and Tricks to Help Exorcise those Pesky Ghosts](https://news.xbox.com/en-us/2021/10/29/fatal-frame-maiden-of-black-water-12-tips/)
+ - [Remember When Everyone Was Convinced GTA: San Andreas Was Full of Creepy Secrets?](https://kotaku.com/remember-when-everyone-was-convinced-gta-san-andreas-w-1847965080)
+ - [Far Cry 6's Secret Cat Boat Has A Long History At Ubisoft](https://kotaku.com/far-cry-6s-secret-cat-boat-has-a-long-history-at-ubisof-1847965243)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
