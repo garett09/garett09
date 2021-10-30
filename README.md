@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best credit cards for fair and average credit for November 2021     - CNET](https://www.cnet.com/personal-finance/credit-cards/best-credit-cards-for-fair-and-average-credit/#ftag=CAD590a51e)
- - [Poco smartwatches and earbuds? Global head teases future beyond smartphones](https://www.androidauthority.com/poco-ecosystem-2022-3047856/)
- - [The SolarWinds Hackers Are Looking for Their Next Big Score](https://www.wired.com/story/solarwinds-hackers-iran-gas-station-hack-ransomware-security-news)<!-- TECH:END -->
+ - [Facebook puts tighter restrictions on vaccine misinformation targeted at children](https://www.theverge.com/2021/10/30/22754046/facebook-tighter-restrictions-vaccine-misinformation-children)
+ - [Google Pixel 5 one year later: Is it still worth buying?](https://www.androidauthority.com/google-pixel-5-long-term-review-3045945/)
+ - [Global climate talks in Glasgow aren’t very global](https://www.theverge.com/2021/10/30/22753391/glasgow-climate-change-summit-cop-26-covid-restrictions)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
