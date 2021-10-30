@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Retro Horror Steam Shooter Nails That Unsettling Halloween Vibe](https://kotaku.com/retro-horror-steam-shooter-nails-that-unsettling-hallow-1847966530)
- - [Possession is a gross yet masterful take on doppelgängers](https://www.polygon.com/22740902/possession-review-horror-movie-doppelgangers)
- - [4 Animal Crossing island designers on how they’re prepping for the New Horizons 2.0 update](https://www.polygon.com/22747087/animal-crossing-new-horizons-update-island-designers-tips)<!-- GAME:END -->
+ - [PAX South Canceled Indefinitely Due To Lack Of Growth And Covid-19](https://kotaku.com/pax-south-canceled-indefinitely-due-to-lack-of-growth-a-1847969197)
+ - [Roblox Has Been Down For Over 35 Hours And It's Probably Not Chipotle's Fault](https://kotaku.com/roblox-has-been-down-for-over-35-hours-and-its-probably-1847969025)
+ - [Retro Horror Steam Shooter Nails That Unsettling Halloween Vibe](https://kotaku.com/retro-horror-steam-shooter-nails-that-unsettling-hallow-1847966530)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
