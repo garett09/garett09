@@ -187,8 +187,8 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- TECH:START -->
  - [Xiaomi Mi 11 Ultra revisited: Is it still worth buying?](https://www.androidauthority.com/xiaomi-mi-11-ultra-review-revisited-3040345/)
- - [Honor 50 review: lose a Huawei, gain a Google](https://www.theverge.com/22752483/honor-50-review-108-megapixel-quad-camera-120hz-oled-display)
- - [Meta's promised metaverse is going to be boring and is meant to distract us from the world that Facebook helped break (Ethan Zuckerman/The Atlantic)](http://www.techmeme.com/211030/p4#a211030p4)<!-- TECH:END -->
+ - [Should you still buy Google's Pixel 3, 4 or 5? What to do now that the Pixel 6 is here     - CNET](https://www.cnet.com/tech/mobile/should-you-still-buy-googles-pixel-3-4-or-5-what-to-do-now-that-the-pixel-6-is-here/#ftag=CAD590a51e)
+ - [Honor 50 review: lose a Huawei, gain a Google](https://www.theverge.com/22752483/honor-50-review-108-megapixel-quad-camera-120hz-oled-display)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
