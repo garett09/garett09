@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Scary movies for the tech geek in all of us     - CNET](https://www.cnet.com/news/scary-movies-for-the-tech-geek-in-all-of-us/#ftag=CAD590a51e)
- - [5G has no link to COVID-19 but false conspiracy theories persist     - CNET](https://www.cnet.com/tech/mobile/5g-has-no-link-to-covid-19-as-false-conspiracy-theories-persist/#ftag=CAD590a51e)
- - [COP 26: Poor countries are stuck between poverty and climate disaster     - CNET](https://www.cnet.com/news/cop-26-poor-countries-are-stuck-between-poverty-and-climate-disaster/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best credit cards for fair and average credit for November 2021     - CNET](https://www.cnet.com/personal-finance/credit-cards/best-credit-cards-for-fair-and-average-credit/#ftag=CAD590a51e)
+ - [Poco smartwatches and earbuds? Global head teases future beyond smartphones](https://www.androidauthority.com/poco-ecosystem-2022-3047856/)
+ - [The SolarWinds Hackers Are Looking for Their Next Big Score](https://www.wired.com/story/solarwinds-hackers-iran-gas-station-hack-ransomware-security-news)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
