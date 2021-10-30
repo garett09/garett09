@@ -194,7 +194,7 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [The largest amigurumi (crochet plush) I&#039;ve ever made. Me for scale!](http://9gag.com/gag/aggyor1)
- - 🚯 [Epstein didn&#039;t kill himself](http://9gag.com/gag/ajgrg5g)
+ - 🚯 [Celebrating week 7 of a very successful brain surgery! Focussing on HAPPY!](http://9gag.com/gag/aYrbom7)
  - 🚯 [The block is hot!](http://9gag.com/gag/abgXzdO)<!-- MEMES:END -->
 
 --- 
