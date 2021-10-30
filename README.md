@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Priceless gourmet ingredient is a daily snack for these forest birds     - CNET](https://www.cnet.com/news/these-fancy-birds-dont-need-yelp-to-find-high-end-cuisine/#ftag=CAD590a51e)
- - [People with some mental health conditions are now eligible for COVID boosters     - CNET](https://www.cnet.com/health/medical/people-with-some-mental-health-conditions-are-now-eligible-for-covid-boosters/#ftag=CAD590a51e)
- - [Meta acquires Within, the company behind VR fitness game Supernatural; Within will continue working on the game and help Meta improve future VR hardware (Mitchell Clark/The Verge)](http://www.techmeme.com/211029/p24#a211029p24)<!-- TECH:END -->
+ - [Chinese ride-sharing startup T3 raises a $1.2B Series A led by state-backed conglomerate CITIC Group, as rival Didi faces a regulatory crackdown (Nikkei Asia)](http://www.techmeme.com/211029/p25#a211029p25)
+ - [GMC will showcase dozens of Hummer EV accessories at SEMA     - Roadshow](https://www.cnet.com/roadshow/news/gmc-hummer-ev-accessories-at-sema-2021/#ftag=CAD590a51e)
+ - [GMC Hummer EV accessories at SEMA 2021     - Roadshow](https://www.cnet.com/roadshow/pictures/gmc-hummer-ev-accessories-at-sema-2021/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
