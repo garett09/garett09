@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I&#039;m Rich... I mean Richard](http://9gag.com/gag/aqGmyVR)
- - 🚯 [My editor wanted to see more panels with &quot;depth&quot; so I drew them a panel with &quot;depth&quot;](http://9gag.com/gag/aE8w0KO)
+ - 🚖 [Lol](http://9gag.com/gag/aqGmROP)
+ - 🚯 [Thank god.](http://9gag.com/gag/a21NvjD)
  - 🚯 [The block is hot!](http://9gag.com/gag/abgXzdO)<!-- MEMES:END -->
 
 --- 
