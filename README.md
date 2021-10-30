@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [4 Animal Crossing island designers on how they’re prepping for the New Horizons 2.0 update](https://www.polygon.com/22747087/animal-crossing-new-horizons-update-island-designers-tips)
- - [56 Marvel comic book references in Marvel’s Guardians of the Galaxy](https://www.polygon.com/comics/22752312/marvel-guardians-of-the-galaxy-game-easter-eggs-comic-books-movies)
- - [Last Night in Soho’s Edgar Wright doesn’t want to give you homework… but he will](https://www.polygon.com/interviews/22753386/edgar-wright-interview-last-night-in-soho-director)<!-- GAME:END -->
+ - [Retro Horror Steam Shooter Nails That Unsettling Halloween Vibe](https://kotaku.com/retro-horror-steam-shooter-nails-that-unsettling-hallow-1847966530)
+ - [Possession is a gross yet masterful take on doppelgängers](https://www.polygon.com/22740902/possession-review-horror-movie-doppelgangers)
+ - [4 Animal Crossing island designers on how they’re prepping for the New Horizons 2.0 update](https://www.polygon.com/22747087/animal-crossing-new-horizons-update-island-designers-tips)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
