@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Weekly Authority: Edition #166](https://www.androidauthority.com/newsletters/the-weekly-authority-edition-166/)
- - [Apple’s fight with Europe over USB-C is a losing battle — as it should be](https://www.androidauthority.com/apple-lightning-vs-usb-c-3043836/)
- - [Meta's chief of Metaverse tells us what the future holds for the former Facebook     - CNET](https://www.cnet.com/tech/computing/metas-chief-of-metaverse-tells-us-what-the-future-holds-for-the-former-facebook/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Scary movies for the tech geek in all of us     - CNET](https://www.cnet.com/news/scary-movies-for-the-tech-geek-in-all-of-us/#ftag=CAD590a51e)
+ - [5G has no link to COVID-19 but false conspiracy theories persist     - CNET](https://www.cnet.com/tech/mobile/5g-has-no-link-to-covid-19-as-false-conspiracy-theories-persist/#ftag=CAD590a51e)
+ - [COP 26: Poor countries are stuck between poverty and climate disaster     - CNET](https://www.cnet.com/news/cop-26-poor-countries-are-stuck-between-poverty-and-climate-disaster/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
