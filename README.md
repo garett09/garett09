@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Facebook puts tighter restrictions on vaccine misinformation targeted at children](https://www.theverge.com/2021/10/30/22754046/facebook-tighter-restrictions-vaccine-misinformation-children)
- - [Google Pixel 5 one year later: Is it still worth buying?](https://www.androidauthority.com/google-pixel-5-long-term-review-3045945/)
- - [Global climate talks in Glasgow aren’t very global](https://www.theverge.com/2021/10/30/22753391/glasgow-climate-change-summit-cop-26-covid-restrictions)<!-- TECH:END -->
+ - [The Nikon Z9’s new sensor could be the start of a big shift in photography](https://www.theverge.com/photography/2021/10/30/22751514/nikon-z9-sensor-tech-full-frame-mirrorless-computational-photography-announcement-future-specs-price)
+ - [Roblox has been down for more than a day and it’s not because of Chipotle](https://www.theverge.com/2021/10/30/22754107/roblox-down-outage-chipotle-server-issues-status)
+ - [Apple asks court to stay part of the Epic Games lawsuit injunction](https://appleinsider.com/articles/21/10/30/apple-asks-court-to-stay-part-of-the-epic-games-lawsuit-injunction?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
