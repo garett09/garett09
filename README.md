@@ -194,8 +194,8 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Same things make us laugh, make us cry.](http://9gag.com/gag/aRrQLE5)
- - 🚯 [That&#039;s an interesting turn of events](http://9gag.com/gag/angYRKq)
- - 🚯 [The block is hot!](http://9gag.com/gag/abgXzdO)<!-- MEMES:END -->
+ - 🚯 [Arab Music be Like @Razioff](http://9gag.com/gag/a21NwGe)
+ - 🚯 [Soccer Beast!!!!](http://9gag.com/gag/aE8w6pK)<!-- MEMES:END -->
 
 --- 
 
