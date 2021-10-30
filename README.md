@@ -193,7 +193,7 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A little boy accidentally orders pizza to his house and here is his dad&#039;s reaction.](http://9gag.com/gag/aegN15j)
+ - 🚖 [Every time the word &quot;experiences&quot; is pronounced on the Meta video presentation.](http://9gag.com/gag/a81Wmz3)
  - 🚯 [Well&hellip;hmm..OK...](http://9gag.com/gag/arnpAEB)
  - 🚯 [We all have that friend who takes the most Ls.](http://9gag.com/gag/agg3YKx)<!-- MEMES:END -->
 
