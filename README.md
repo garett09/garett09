@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This game about gardening bunnies is raising a lot of questions for me](https://www.pcgamer.com/bunhouse-game-steam)
- - [PAX South Canceled Indefinitely Due To Lack Of Growth And Covid-19](https://kotaku.com/pax-south-canceled-indefinitely-due-to-lack-of-growth-a-1847969197)
- - [Roblox Has Been Down For Over 35 Hours And It's Probably Not Chipotle's Fault](https://kotaku.com/roblox-has-been-down-for-over-35-hours-and-its-probably-1847969025)<!-- GAME:END -->
+ - [14 Horror Games Available Now On Xbox Game Pass](https://kotaku.com/14-scary-games-available-now-on-xbox-game-pass-1847969414)
+ - [A Dune multiplayer survival game is on the way, and here's how we think it should work](https://www.pcgamer.com/a-dune-multiplayer-survival-game-is-on-the-way-and-heres-how-we-think-it-should-work)
+ - [This game about gardening bunnies is raising a lot of questions for me](https://www.pcgamer.com/bunhouse-game-steam)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
