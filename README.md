@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chinese smart home devices maker Aqara raises a $155M Series C from investors including state-backed Shenzhen Capital and China Telecom (Liya Su/DealStreetAsia)](http://www.techmeme.com/211029/p26#a211029p26)
- - [Chinese ride-sharing startup T3 raises a $1.2B Series A led by state-backed conglomerate CITIC Group, as rival Didi faces a regulatory crackdown (Nikkei Asia)](http://www.techmeme.com/211029/p25#a211029p25)
- - [Ford's 2021 SEMA Tucci Maverick concept is spectacularly good     - Roadshow](https://www.cnet.com/roadshow/news/ford-2021-sema-concept-tucci-maverick/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Advocates for the blind say DMCA exemptions to break ebook DRM for accessibility should be permanent, rather than having to be renewed every three years (Damon Beres/Wired)](http://www.techmeme.com/211030/p1#a211030p1)
+ - [Indian online beauty products retailer Purplle raises a $75M Series E led by Kedaara Capital at a $630M valuation (Saritha Rai/Bloomberg)](http://www.techmeme.com/211029/p27#a211029p27)
+ - [Chinese smart home devices maker Aqara raises a $155M Series C from investors including state-backed Shenzhen Capital and China Telecom (Liya Su/DealStreetAsia)](http://www.techmeme.com/211029/p26#a211029p26)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
