@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta's promised metaverse is going to be boring and is meant to distract us from the world that Facebook helped break (Ethan Zuckerman/The Atlantic)](http://www.techmeme.com/211030/p4#a211030p4)
- - [M1 Pro vs. M1 Max vs. M1: Apple's MacBook Pro chips compared     - CNET](https://www.cnet.com/tech/computing/m1-pro-vs-m1-max-vs-m1-apples-macbook-pro-chips-compared/#ftag=CAD590a51e)
- - [Meta is just playing catch-up as Roblox, Steam VR, VRChat, and other platforms have already developed metaverse-like experiences (Gene Park/Washington Post)](http://www.techmeme.com/211030/p3#a211030p3)<!-- TECH:END -->
+ - [Xiaomi Mi 11 Ultra revisited: Is it still worth buying?](https://www.androidauthority.com/xiaomi-mi-11-ultra-review-revisited-3040345/)
+ - [Honor 50 review: lose a Huawei, gain a Google](https://www.theverge.com/22752483/honor-50-review-108-megapixel-quad-camera-120hz-oled-display)
+ - [Meta's promised metaverse is going to be boring and is meant to distract us from the world that Facebook helped break (Ethan Zuckerman/The Atlantic)](http://www.techmeme.com/211030/p4#a211030p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
