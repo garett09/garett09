@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [So tired](http://9gag.com/gag/a51dVoo)
- - 🚯 [That&#039;s an interesting turn of events](http://9gag.com/gag/angYRKq)
+ - 🚖 [That&#039;s an interesting turn of events](http://9gag.com/gag/angYRKq)
+ - 🚯 [Enjoy the nightmares](http://9gag.com/gag/apgq3ep)
  - 🚯 [We all have that friend who takes the most Ls.](http://9gag.com/gag/agg3YKx)<!-- MEMES:END -->
 
 --- 
