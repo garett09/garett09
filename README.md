@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Interview with Intel CEO Pat Gelsinger and CTO Greg Lavender on the IBM partnership, how new transistor architectures could help outpace Moore's law, and more (Paul Alcorn/Tom's Hardware)](http://www.techmeme.com/211029/p23#a211029p23)
- - [Fitness app Supernatural is becoming part of Meta after Facebook touts VR fitness](https://www.theverge.com/2021/10/29/22753403/supernatural-within-studio-facebook-meta-oculus-vr-fitness-experiences-metaverse)
- - [Pokemon Sword and Shield Halloween event lets you catch Shiny Zoroark     - CNET](https://www.cnet.com/tech/gaming/pokemon-sword-and-shield-halloween-event-lets-you-catch-shiny-zoroark/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Priceless gourmet ingredient is a daily snack for these forest birds     - CNET](https://www.cnet.com/news/these-fancy-birds-dont-need-yelp-to-find-high-end-cuisine/#ftag=CAD590a51e)
+ - [People with some mental health conditions are now eligible for COVID boosters     - CNET](https://www.cnet.com/health/medical/people-with-some-mental-health-conditions-are-now-eligible-for-covid-boosters/#ftag=CAD590a51e)
+ - [Meta acquires Within, the company behind VR fitness game Supernatural; Within will continue working on the game and help Meta improve future VR hardware (Mitchell Clark/The Verge)](http://www.techmeme.com/211029/p24#a211029p24)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
