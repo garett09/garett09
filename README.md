@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How the rhetoric surrounding techno-globalism has shifted, from countries advocating for a free, open internet to imposing limits to protect national interests (Foreign Affairs)](http://www.techmeme.com/211030/p5#a211030p5)
  - [Zen UI guide: Everything you need to know about Asus’ Android skin](https://www.androidauthority.com/asus-zen-ui-3047613/)
- - [TV prices haven't been this high since 2012, but what does that mean for Black Friday?     - CNET](https://www.cnet.com/tech/home-entertainment/tv-prices-havent-been-this-high-since-2012-but-what-does-that-mean-for-black-friday/#ftag=CAD590a51e)
- - [Xiaomi Mi 11 Ultra revisited: Is it still worth buying?](https://www.androidauthority.com/xiaomi-mi-11-ultra-review-revisited-3040345/)<!-- TECH:END -->
+ - [TV prices haven't been this high since 2012, but what does that mean for Black Friday?     - CNET](https://www.cnet.com/tech/home-entertainment/tv-prices-havent-been-this-high-since-2012-but-what-does-that-mean-for-black-friday/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
