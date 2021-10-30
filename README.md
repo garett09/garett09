@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Idiot fighting a snowman](http://9gag.com/gag/aVxOgLw)
- - 🚯 [And that is why you wear a seatbelt!](http://9gag.com/gag/aZrPnnX)
+ - 🚖 [And that is why you wear a seatbelt!](http://9gag.com/gag/aZrPnnX)
+ - 🚯 [Biden tours Rome with 85-car motorcade ahead of &#039;climate&#039; summit.](http://9gag.com/gag/axBN3ZK)
  - 🚯 [The block is hot!](http://9gag.com/gag/abgXzdO)<!-- MEMES:END -->
 
 --- 
