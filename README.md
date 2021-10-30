@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Can a whale fish?](http://9gag.com/gag/amgXAe6)
- - 🚯 [Thank god.](http://9gag.com/gag/a21NvjD)
+ - 🚖 [Almost survived](http://9gag.com/gag/a91dyMm)
+ - 🚯 [Ali vs Tyson](http://9gag.com/gag/a81W7j6)
  - 🚯 [The block is hot!](http://9gag.com/gag/abgXzdO)<!-- MEMES:END -->
 
 --- 
