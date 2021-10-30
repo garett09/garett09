@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [That&#039;s an interesting turn of events](http://9gag.com/gag/angYRKq)
- - 🚯 [Enjoy the nightmares](http://9gag.com/gag/apgq3ep)
+ - 🚖 [Big Brain Time](http://9gag.com/gag/axBNvBM)
+ - 🚯 [The video of these babies communicating without a single word is everything.](http://9gag.com/gag/apgqDKp)
  - 🚯 [We all have that friend who takes the most Ls.](http://9gag.com/gag/agg3YKx)<!-- MEMES:END -->
 
 --- 
