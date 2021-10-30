@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Roblox has been down for nearly two days](https://www.pcgamer.com/roblox-has-been-down-for-nearly-two-days)
- - [That controversial gamer skincare line is no more](https://www.pcgamer.com/that-controversial-gamer-skincare-line-is-no-more)
- - [What to watch this Halloween weekend](https://www.polygon.com/22702474/best-halloween-movies-tv-to-watch-stream)<!-- GAME:END -->
+ - [This visual novel is also a puzzle about getting the characters out alive](https://www.pcgamer.com/this-visual-novel-is-also-a-puzzle-about-getting-the-characters-out-alive)
+ - [24 Years After Release, GoldenEye N64 Is No Longer Banned In Germany](https://kotaku.com/24-years-after-release-goldeneye-n64-is-no-longer-bann-1847969984)
+ - [Roblox has been down for nearly two days](https://www.pcgamer.com/roblox-has-been-down-for-nearly-two-days)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
