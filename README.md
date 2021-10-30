@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Lol](http://9gag.com/gag/aqGmROP)
- - 🚯 [Thank god.](http://9gag.com/gag/a21NvjD)
+ - 🚖 [Idiot fighting a snowman](http://9gag.com/gag/aVxOgLw)
+ - 🚯 [And that is why you wear a seatbelt!](http://9gag.com/gag/aZrPnnX)
  - 🚯 [The block is hot!](http://9gag.com/gag/abgXzdO)<!-- MEMES:END -->
 
 --- 
