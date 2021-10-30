@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Almost survived](http://9gag.com/gag/a91dyMm)
- - 🚯 [Ali vs Tyson](http://9gag.com/gag/a81W7j6)
+ - 🚖 [Rockstar Games is a master at blending gameplay with cutscenes](http://9gag.com/gag/adgNBPZ)
+ - 🚯 [Because of covid, theres no money coming in for cruise ships and since cruise ships are incredibly expensive to upkeep, they&#039;ve been taken to a graveyard to be sold for parts.](http://9gag.com/gag/azebxrb)
  - 🚯 [The block is hot!](http://9gag.com/gag/abgXzdO)<!-- MEMES:END -->
 
 --- 
