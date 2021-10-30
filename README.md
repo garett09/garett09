@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Why tipping is banned in several places](http://9gag.com/gag/aWgZGNK)
- - 🚯 [Oups](http://9gag.com/gag/a91dqB1)
+ - 🚖 [Can a whale fish?](http://9gag.com/gag/amgXAe6)
+ - 🚯 [Thank god.](http://9gag.com/gag/a21NvjD)
  - 🚯 [The block is hot!](http://9gag.com/gag/abgXzdO)<!-- MEMES:END -->
 
 --- 
