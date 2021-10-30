@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [14 Horror Games Available Now On Xbox Game Pass](https://kotaku.com/14-scary-games-available-now-on-xbox-game-pass-1847969414)
- - [A Dune multiplayer survival game is on the way, and here's how we think it should work](https://www.pcgamer.com/a-dune-multiplayer-survival-game-is-on-the-way-and-heres-how-we-think-it-should-work)
- - [This game about gardening bunnies is raising a lot of questions for me](https://www.pcgamer.com/bunhouse-game-steam)<!-- GAME:END -->
+ - [That controversial gamer skincare line is no more](https://www.pcgamer.com/that-controversial-gamer-skincare-line-is-no-more)
+ - [What to watch this Halloween weekend](https://www.polygon.com/22702474/best-halloween-movies-tv-to-watch-stream)
+ - [14 Horror Games Available Now On Xbox Game Pass](https://kotaku.com/14-scary-games-available-now-on-xbox-game-pass-1847969414)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
