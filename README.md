@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Roblox has been down since about 7PM ET Oct. 28, with some speculating that the outage may be related to a Chipotle promotion, but the company denies a link (Tom Warren/The Verge)](http://www.techmeme.com/211030/p7#a211030p7)
- - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-404-3048996/)
- - [The Nikon Z9’s new sensor could be the start of a big shift in photography](https://www.theverge.com/photography/2021/10/30/22751514/nikon-z9-sensor-tech-full-frame-mirrorless-computational-photography-announcement-future-specs-price)<!-- TECH:END -->
+ - [It’s Apple’s best laptop, but you probably don’t need the new MacBook Pro](https://www.androidauthority.com/should-you-buy-apple-macbook-pro-3047595/)
+ - [Apple Silicon iMac Pro coming early 2022, says leaker](https://appleinsider.com/articles/21/10/30/apple-silicon-imac-pro-tipped-for-early-2022?utm_medium=rss)
+ - [The best mattress in a box for 2021     - CNET](https://www.cnet.com/health/sleep/best-mattress-in-a-box/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
