@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How the rhetoric surrounding techno-globalism has shifted, from countries advocating for a free, open internet to imposing limits to protect national interests (Foreign Affairs)](http://www.techmeme.com/211030/p5#a211030p5)
- - [Zen UI guide: Everything you need to know about Asus’ Android skin](https://www.androidauthority.com/asus-zen-ui-3047613/)
- - [TV prices haven't been this high since 2012, but what does that mean for Black Friday?     - CNET](https://www.cnet.com/tech/home-entertainment/tv-prices-havent-been-this-high-since-2012-but-what-does-that-mean-for-black-friday/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Weekly Authority: Edition #166](https://www.androidauthority.com/newsletters/the-weekly-authority-edition-166/)
+ - [Apple’s fight with Europe over USB-C is a losing battle — as it should be](https://www.androidauthority.com/apple-lightning-vs-usb-c-3043836/)
+ - [Meta's chief of Metaverse tells us what the future holds for the former Facebook     - CNET](https://www.cnet.com/tech/computing/metas-chief-of-metaverse-tells-us-what-the-future-holds-for-the-former-facebook/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
