@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Same things make us laugh, make us cry.](http://9gag.com/gag/aRrQLE5)
- - 🚯 [Arab Music be Like @Razioff](http://9gag.com/gag/a21NwGe)
- - 🚯 [Soccer Beast!!!!](http://9gag.com/gag/aE8w6pK)<!-- MEMES:END -->
+ - 🚖 [So tired](http://9gag.com/gag/a51dVoo)
+ - 🚯 [That&#039;s an interesting turn of events](http://9gag.com/gag/angYRKq)
+ - 🚯 [We all have that friend who takes the most Ls.](http://9gag.com/gag/agg3YKx)<!-- MEMES:END -->
 
 --- 
 
