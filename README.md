@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best board games to give in 2021: Gloomhaven, Arkham Horror, Dune and more     - CNET](https://www.cnet.com/news/best-board-games-to-give-in-2021/#ftag=CAD590a51e)
- - [A look at student activity monitoring software GoGuardian, whose usage in US schools exploded during lockdowns as some say it adds to kids' psychological strain (Bloomberg)](http://www.techmeme.com/211030/p8#a211030p8)
- - [Apple removes 21.5-inch Intel iMac from online store](https://appleinsider.com/articles/21/10/30/apple-removes-215-inch-intel-imac-from-online-store?utm_medium=rss)<!-- TECH:END -->
+ - [Apple removes 21.5-inch Intel iMac from online store](https://appleinsider.com/articles/21/10/30/apple-removes-215-inch-intel-imac-from-online-store?utm_medium=rss)
+ - [Liked Squid Game? Check out these other movies from its creator](https://www.androidauthority.com/squid-game-creator-hwang-dong-hyuk-movies-3047188/)
+ - [Catch one of the trippiest sci-fi movies on Netflix this weekend     - CNET](https://www.cnet.com/news/catch-one-of-the-trippiest-sci-fi-movies-on-netflix-this-weekend/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
