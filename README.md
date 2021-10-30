@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [And that is why you wear a seatbelt!](http://9gag.com/gag/aZrPnnX)
- - 🚯 [Biden tours Rome with 85-car motorcade ahead of &#039;climate&#039; summit.](http://9gag.com/gag/axBN3ZK)
+ - 🚖 [Same things make us laugh, make us cry.](http://9gag.com/gag/aRrQLE5)
+ - 🚯 [That&#039;s an interesting turn of events](http://9gag.com/gag/angYRKq)
  - 🚯 [The block is hot!](http://9gag.com/gag/abgXzdO)<!-- MEMES:END -->
 
 --- 
