@@ -194,7 +194,7 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Big Brain Time](http://9gag.com/gag/axBNvBM)
- - 🚯 [The video of these babies communicating without a single word is everything.](http://9gag.com/gag/apgqDKp)
+ - 🚯 [Noice](http://9gag.com/gag/a51dBqg)
  - 🚯 [We all have that friend who takes the most Ls.](http://9gag.com/gag/agg3YKx)<!-- MEMES:END -->
 
 --- 
