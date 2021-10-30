@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Big Brain Time](http://9gag.com/gag/axBNvBM)
- - 🚯 [Noice](http://9gag.com/gag/a51dBqg)
+ - 🚖 [Maybe I need to rewatch it or something](http://9gag.com/gag/aZrPwb3)
+ - 🚯 [Well&hellip;hmm..OK...](http://9gag.com/gag/arnpAEB)
  - 🚯 [We all have that friend who takes the most Ls.](http://9gag.com/gag/agg3YKx)<!-- MEMES:END -->
 
 --- 
