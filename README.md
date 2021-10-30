@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Teach your kids financial math!!!!](http://9gag.com/gag/aBnKnjZ)
- - 🚯 [We tune car engines too , just sayin](http://9gag.com/gag/aWgZgEx)
+ - 🚖 [The largest amigurumi (crochet plush) I&#039;ve ever made. Me for scale!](http://9gag.com/gag/aggyor1)
+ - 🚯 [Epstein didn&#039;t kill himself](http://9gag.com/gag/ajgrg5g)
  - 🚯 [The block is hot!](http://9gag.com/gag/abgXzdO)<!-- MEMES:END -->
 
 --- 
