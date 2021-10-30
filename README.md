@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This visual novel is also a puzzle about getting the characters out alive](https://www.pcgamer.com/this-visual-novel-is-also-a-puzzle-about-getting-the-characters-out-alive)
- - [24 Years After Release, GoldenEye N64 Is No Longer Banned In Germany](https://kotaku.com/24-years-after-release-goldeneye-n64-is-no-longer-bann-1847969984)
- - [Roblox has been down for nearly two days](https://www.pcgamer.com/roblox-has-been-down-for-nearly-two-days)<!-- GAME:END -->
+ - [Which PlayStation-exclusive do you want on PC next?](https://www.pcgamer.com/which-playstation-exclusive-do-you-want-on-pc-next)
+ - ['New World is not client authoritative', Amazon says](https://www.pcgamer.com/new-world-is-not-client-authoritative-amazon-says)
+ - [This visual novel is also a puzzle about getting the characters out alive](https://www.pcgamer.com/this-visual-novel-is-also-a-puzzle-about-getting-the-characters-out-alive)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
