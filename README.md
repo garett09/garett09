@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Chinese smart home devices maker Aqara raises a $155M Series C from investors including state-backed Shenzhen Capital and China Telecom (Liya Su/DealStreetAsia)](http://www.techmeme.com/211029/p26#a211029p26)
  - [Chinese ride-sharing startup T3 raises a $1.2B Series A led by state-backed conglomerate CITIC Group, as rival Didi faces a regulatory crackdown (Nikkei Asia)](http://www.techmeme.com/211029/p25#a211029p25)
- - [GMC will showcase dozens of Hummer EV accessories at SEMA     - Roadshow](https://www.cnet.com/roadshow/news/gmc-hummer-ev-accessories-at-sema-2021/#ftag=CAD590a51e)
- - [GMC Hummer EV accessories at SEMA 2021     - Roadshow](https://www.cnet.com/roadshow/pictures/gmc-hummer-ev-accessories-at-sema-2021/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [GMC will showcase dozens of Hummer EV accessories at SEMA     - Roadshow](https://www.cnet.com/roadshow/news/gmc-hummer-ev-accessories-at-sema-2021/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
