@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How about you?](http://9gag.com/gag/a31YE6Q)
- - 🚯 [Teach your kids financial math!!!!](http://9gag.com/gag/aBnKnjZ)
+ - 🚖 [Why tipping is banned in several places](http://9gag.com/gag/aWgZGNK)
+ - 🚯 [Surgeons in New York have successfully attached kidney from a genetically altered pig to a human. The kidney was attached to a brain-dead recipient&#039;s blood vessels in the upper-leg. The organ started functioning normally and making urine and waste product almost immediately.](http://9gag.com/gag/aggygbv)
  - 🚯 [The block is hot!](http://9gag.com/gag/abgXzdO)<!-- MEMES:END -->
 
 --- 
