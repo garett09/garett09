@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Every time the word &quot;experiences&quot; is pronounced on the Meta video presentation.](http://9gag.com/gag/a81Wmz3)
- - 🚯 [Well&hellip;hmm..OK...](http://9gag.com/gag/arnpAEB)
+ - 🚖 [When you want to show your brother how beautiful your friend is](http://9gag.com/gag/a61w518)
+ - 🚯 [Noice](http://9gag.com/gag/a51dBqg)
  - 🚯 [We all have that friend who takes the most Ls.](http://9gag.com/gag/agg3YKx)<!-- MEMES:END -->
 
 --- 
