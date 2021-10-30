@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [It’s Apple’s best laptop, but you probably don’t need the new MacBook Pro](https://www.androidauthority.com/should-you-buy-apple-macbook-pro-3047595/)
- - [Apple Silicon iMac Pro coming early 2022, says leaker](https://appleinsider.com/articles/21/10/30/apple-silicon-imac-pro-tipped-for-early-2022?utm_medium=rss)
- - [The best mattress in a box for 2021     - CNET](https://www.cnet.com/health/sleep/best-mattress-in-a-box/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The best board games to give in 2021: Gloomhaven, Arkham Horror, Dune and more     - CNET](https://www.cnet.com/news/best-board-games-to-give-in-2021/#ftag=CAD590a51e)
+ - [A look at student activity monitoring software GoGuardian, whose usage in US schools exploded during lockdowns as some say it adds to kids' psychological strain (Bloomberg)](http://www.techmeme.com/211030/p8#a211030p8)
+ - [Apple removes 21.5-inch Intel iMac from online store](https://appleinsider.com/articles/21/10/30/apple-removes-215-inch-intel-imac-from-online-store?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
