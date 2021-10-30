@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Listen to Device Orchestra cover the Ghostbusters theme using electric toothbrushes and a steam iron](https://www.theverge.com/2021/10/30/22754538/device-orchestra-ghostbusters-theme-halloween)
- - [Apple removes 21.5-inch Intel iMac from online store](https://appleinsider.com/articles/21/10/30/apple-removes-215-inch-intel-imac-from-online-store?utm_medium=rss)
- - [Liked Squid Game? Check out these other movies from its creator](https://www.androidauthority.com/squid-game-creator-hwang-dong-hyuk-movies-3047188/)<!-- TECH:END -->
+ - [Belkin Power Bank 10K review: Sturdy construction, weak charging](https://www.androidauthority.com/belkin-power-bank-10k-review-3036766/)
+ - [World Series 2021: How to watch Astros vs. Braves Game 4 on Fox     - CNET](https://www.cnet.com/tech/home-entertainment/world-series-2021-how-to-watch-astros-vs-braves-game-4-on-fox/#ftag=CAD590a51e)
+ - [New HomePod mini colors may go on sale in first week of November](https://appleinsider.com/articles/21/10/30/new-homepod-mini-colors-may-go-on-sale-in-first-week-of-november?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
