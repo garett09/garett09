@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The largest amigurumi (crochet plush) I&#039;ve ever made. Me for scale!](http://9gag.com/gag/aggyor1)
- - 🚯 [Can a whale fish?](http://9gag.com/gag/amgXAe6)
+ - 🚖 [How about you?](http://9gag.com/gag/a31YE6Q)
+ - 🚯 [Teach your kids financial math!!!!](http://9gag.com/gag/aBnKnjZ)
  - 🚯 [The block is hot!](http://9gag.com/gag/abgXzdO)<!-- MEMES:END -->
 
 --- 
