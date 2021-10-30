@@ -193,7 +193,7 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Because of covid, theres no money coming in for cruise ships and since cruise ships are incredibly expensive to upkeep, they&#039;ve been taken to a graveyard to be sold for parts.](http://9gag.com/gag/azebxrb)
+ - 🚖 [I&#039;m Rich... I mean Richard](http://9gag.com/gag/aqGmyVR)
  - 🚯 [My editor wanted to see more panels with &quot;depth&quot; so I drew them a panel with &quot;depth&quot;](http://9gag.com/gag/aE8w0KO)
  - 🚯 [The block is hot!](http://9gag.com/gag/abgXzdO)<!-- MEMES:END -->
 
