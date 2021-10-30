@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Nikon Z9’s new sensor could be the start of a big shift in photography](https://www.theverge.com/photography/2021/10/30/22751514/nikon-z9-sensor-tech-full-frame-mirrorless-computational-photography-announcement-future-specs-price)
- - [Roblox has been down for more than a day and it’s not because of Chipotle](https://www.theverge.com/2021/10/30/22754107/roblox-down-outage-chipotle-server-issues-status)
- - [Apple asks court to stay part of the Epic Games lawsuit injunction](https://appleinsider.com/articles/21/10/30/apple-asks-court-to-stay-part-of-the-epic-games-lawsuit-injunction?utm_medium=rss)<!-- TECH:END -->
+ - [Roblox has been down since about 7PM ET Oct. 28, with some speculating that the outage may be related to a Chipotle promotion, but the company denies a link (Tom Warren/The Verge)](http://www.techmeme.com/211030/p7#a211030p7)
+ - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-404-3048996/)
+ - [The Nikon Z9’s new sensor could be the start of a big shift in photography](https://www.theverge.com/photography/2021/10/30/22751514/nikon-z9-sensor-tech-full-frame-mirrorless-computational-photography-announcement-future-specs-price)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
