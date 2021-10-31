@@ -193,7 +193,7 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Good script vs bad script](http://9gag.com/gag/a21NLG9)
+ - 🚖 [Kids should play outside](http://9gag.com/gag/aBnKXvz)
  - 🚯 [Work smarter not harder](http://9gag.com/gag/avA095M)
  - 🚯 [It&#039;s HALLOWEEN time! Join Poppy the Booty Shakin&#039; Pug and shake it off together.](http://9gag.com/gag/aXrb2m6)<!-- MEMES:END -->
 
