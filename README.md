@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Several years ago in Singapore, otters started showing up at this river. Now there are otter gang wars fighting over its territory.](http://9gag.com/gag/aXrbVyP)
- - 🚯 [To my EU friends: Don&#039;t forget to turn the clock back....](http://9gag.com/gag/a0Z90Az)
+ - 🚖 [&ldquo;A car without a lid&rdquo;](http://9gag.com/gag/aPZv8NV)
+ - 🚯 [Little kid dressed as a porcupine for halloween!](http://9gag.com/gag/awzrLBD)
  - 🚯 [We all have that friend who takes the most Ls.](http://9gag.com/gag/agg3YKx)<!-- MEMES:END -->
 
 --- 
