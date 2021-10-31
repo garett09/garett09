@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Romance an eldritch horror in this kiss-a-Cthulhu dating sim from DreadXP](https://www.pcgamer.com/romance-an-eldritch-horror-in-this-kiss-a-cthulhu-dating-sim-from-dreadxp)
  - [Yep, Skyrim has spider grenades](https://www.pcgamer.com/yep-skyrim-has-spider-grenades)
- - [Id Software is hiring, maybe for a new Quake?](https://www.pcgamer.com/id-software-is-hiring-maybe-for-a-new-quake)
- - [Kick ass for the Lord in retro shooter Forgive Me Father](https://www.pcgamer.com/kick-ass-for-the-lord-in-retro-shooter-forgive-me-father)<!-- GAME:END -->
+ - [Id Software is hiring, maybe for a new Quake?](https://www.pcgamer.com/id-software-is-hiring-maybe-for-a-new-quake)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
