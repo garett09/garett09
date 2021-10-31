@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple iPhone 13 Pro review second opinion: Striving for perfection](https://www.androidauthority.com/apple-iphone-13-pro-review-3040723/)
- - [Apple's AR and VR headset may launch in 2022 as a premium device](https://appleinsider.com/articles/21/10/31/apples-ar-and-vr-headset-may-launch-in-2022-as-a-premium-device?utm_medium=rss)
- - [Best Deals Oct. 31: $150 off Roombas, $80 3D Printer, $70 Lavazza Espresso Machine, more!](https://appleinsider.com/articles/21/10/31/best-deals-oct-31-150-off-roombas-80-3d-printer-70-lavazza-espresso-machine-more?utm_medium=rss)<!-- TECH:END -->
+ - [Apple quietly discontinues the 21.5-inch Intel-powered iMac](https://www.theverge.com/2021/10/31/22755641/apple-pulls-21-inch-intel-powered-imac)
+ - [Best Deals Oct. 31: $150 off Roombas, $80 3D Printer, $70 Lavazza Espresso Machine, more!](https://appleinsider.com/articles/21/10/31/best-deals-oct-31-150-off-roombas-80-3d-printer-70-lavazza-espresso-machine-more?utm_medium=rss)
+ - [Compared: M1 vs M1 Pro and M1 Max](https://appleinsider.com/articles/21/10/30/compared-m1-vs-m1-pro-and-m1-max?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
