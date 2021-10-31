@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When you want to show your brother how beautiful your friend is](http://9gag.com/gag/a61w518)
- - 🚯 [Noice](http://9gag.com/gag/a51dBqg)
+ - 🚖 [Bread](http://9gag.com/gag/apgq6b8)
+ - 🚯 [When you want to show your brother how beautiful your friend is](http://9gag.com/gag/a61w518)
  - 🚯 [We all have that friend who takes the most Ls.](http://9gag.com/gag/agg3YKx)<!-- MEMES:END -->
 
 --- 
