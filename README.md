@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AirPods 3: Apple's new $179 earbuds should get these missing features     - CNET](https://www.cnet.com/tech/mobile/airpods-3-apples-new-179-earbuds-should-get-these-missing-features/#ftag=CAD590a51e)
  - [MIUI guide: Everything you need to know about Xiaomi’s Android skin](https://www.androidauthority.com/xiaomi-miui-guide-3044178/)
- - [Apple's $19 Polishing Cloth has become its most back-ordered new product with shipments delayed until January; source: the company isn't surprised by the demand (Daisuke Wakabayashi/New York Times)](http://www.techmeme.com/211031/p2#a211031p2)
- - [Beijing-based Huice, a SaaS provider that helps e-commerce businesses manage orders and more, raises a $312M Series D led by SoftBank Vision Fund 2 (Eudora Wang/DealStreetAsia)](http://www.techmeme.com/211031/p1#a211031p1)<!-- TECH:END -->
+ - [Apple's $19 Polishing Cloth has become its most back-ordered new product with shipments delayed until January; source: the company isn't surprised by the demand (Daisuke Wakabayashi/New York Times)](http://www.techmeme.com/211031/p2#a211031p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
