@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Lifehack](http://9gag.com/gag/a31Y0Dr)
- - 🚯 [Bread](http://9gag.com/gag/apgq6b8)
+ - 🚖 [Several years ago in Singapore, otters started showing up at this river. Now there are otter gang wars fighting over its territory.](http://9gag.com/gag/aXrbVyP)
+ - 🚯 [To my EU friends: Don&#039;t forget to turn the clock back....](http://9gag.com/gag/a0Z90Az)
  - 🚯 [We all have that friend who takes the most Ls.](http://9gag.com/gag/agg3YKx)<!-- MEMES:END -->
 
 --- 
