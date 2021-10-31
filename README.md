@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Which PlayStation-exclusive do you want on PC next?](https://www.pcgamer.com/which-playstation-exclusive-do-you-want-on-pc-next)
- - ['New World is not client authoritative', Amazon says](https://www.pcgamer.com/new-world-is-not-client-authoritative-amazon-says)
- - [This visual novel is also a puzzle about getting the characters out alive](https://www.pcgamer.com/this-visual-novel-is-also-a-puzzle-about-getting-the-characters-out-alive)<!-- GAME:END -->
+ - [Unearthing a shareware disc from 1995](https://www.pcgamer.com/saturday-crapshoot-ultimate-shareware-games-collection-vol-1)
+ - [Payday 2 adds Halloween cosmetics, joins skeleton army](https://www.pcgamer.com/payday-2-adds-halloween-cosmetics-joins-skeleton-army)
+ - [Which PlayStation-exclusive do you want on PC next?](https://www.pcgamer.com/which-playstation-exclusive-do-you-want-on-pc-next)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
