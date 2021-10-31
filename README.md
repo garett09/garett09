@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best cheap gaming mice of 2021](https://www.androidauthority.com/best-cheap-gaming-mice-3035176/)
  - [Belkin Power Bank 10K review: Sturdy construction, weak charging](https://www.androidauthority.com/belkin-power-bank-10k-review-3036766/)
- - [World Series 2021: How to watch Astros vs. Braves Game 4 on Fox     - CNET](https://www.cnet.com/tech/home-entertainment/world-series-2021-how-to-watch-astros-vs-braves-game-4-on-fox/#ftag=CAD590a51e)
- - [New HomePod mini colors may go on sale in first week of November](https://appleinsider.com/articles/21/10/30/new-homepod-mini-colors-may-go-on-sale-in-first-week-of-november?utm_medium=rss)<!-- TECH:END -->
+ - [World Series 2021: How to watch Astros vs. Braves Game 4 on Fox     - CNET](https://www.cnet.com/tech/home-entertainment/world-series-2021-how-to-watch-astros-vs-braves-game-4-on-fox/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
