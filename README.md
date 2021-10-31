@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [&quot;SHI-BU-KI&quot; The splash of sea waves](http://9gag.com/gag/ay951xq)
- - 🚯 [I found dis in my gallery nice costume](http://9gag.com/gag/a91d800)
+ - 🚖 [The talent on display here](http://9gag.com/gag/amgXxwX)
+ - 🚯 [Mood](http://9gag.com/gag/amgXxQX)
  - 🚯 [We all have that friend who takes the most Ls.](http://9gag.com/gag/agg3YKx)<!-- MEMES:END -->
 
 --- 
