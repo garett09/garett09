@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Want more movies and shows like Squid Game? Add these to your queue](https://www.androidauthority.com/shows-like-squid-game-3047760/)
- - [Compared: M1 vs M1 Pro and M1 Max](https://appleinsider.com/articles/21/10/30/compared-m1-vs-m1-pro-and-m1-max?utm_medium=rss)
- - [Apple's M1 Mac mini with 16GB RAM just dropped to $799, plus $20 off AppleCare](https://appleinsider.com/articles/21/10/18/apples-m1-mac-mini-with-16gb-ram-just-dropped-to-799-plus-20-off-applecare?utm_medium=rss)<!-- TECH:END -->
+ - [Compared: 16-inch MacBook Pro vs Razer Blade 15 Advanced](https://appleinsider.com/articles/21/10/31/compared-16-inch-macbook-pro-vs-razer-blade-15-advanced?utm_medium=rss)
+ - [Guillermo del Toro fans will love his debut vampire feature Cronos](https://www.androidauthority.com/cronos-on-hbo-max-guillermo-del-toro-3047759/)
+ - [Estimate: Apple's iOS App Tracking Transparency policy has cost Snap, Facebook, Twitter, and YouTube almost $10B in combined ad revenues so far (Patrick McGee/Financial Times)](http://www.techmeme.com/211031/p5#a211031p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
