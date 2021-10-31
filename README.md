@@ -187,8 +187,8 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- TECH:START -->
  - [BackBox, which provides companies with network automation, security, and management software, raises $32M Series A led by Elsewhere Partners (Kyle Wiggers/VentureBeat)](http://www.techmeme.com/211030/p11#a211030p11)
- - [In 2018, Oculus' Jason Rubin sent a paper to Facebook execs laying the foundation for Meta's ambitions and detailing the need to own the VR market (Salvador Rodriguez/CNBC)](http://www.techmeme.com/211030/p10#a211030p10)
- - [World Series 2021: How to watch Astros vs. Braves Game 4 on Fox     - CNET](https://www.cnet.com/tech/home-entertainment/world-series-2021-how-to-watch-astros-vs-braves-game-4-on-fox/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [In 2018, Oculus' Jason Rubin sent a paper to Facebook executives laying the foundation for Meta's ambitions and detailing the need to own the VR market (Salvador Rodriguez/CNBC)](http://www.techmeme.com/211030/p10#a211030p10)
+ - [The best cheap gaming mice of 2021](https://www.androidauthority.com/best-cheap-gaming-mice-3035176/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
