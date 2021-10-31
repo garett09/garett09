@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Nintendo's Online Expansion Pack Trailer Is Now Its Most Disliked Video On YouTube](https://kotaku.com/nintendos-online-expansion-pack-trailer-is-now-its-most-1847971337)
  - [Why every generation re-discovers Stephen King](https://www.polygon.com/features/22753149/stephen-king-why)
- - [Sunday Comics: Trick Or Treat!](https://kotaku.com/sunday-comics-trick-or-treat-1847971137)
- - [Romance an eldritch horror in this kiss-a-Cthulhu dating sim from DreadXP](https://www.pcgamer.com/romance-an-eldritch-horror-in-this-kiss-a-cthulhu-dating-sim-from-dreadxp)<!-- GAME:END -->
+ - [Sunday Comics: Trick Or Treat!](https://kotaku.com/sunday-comics-trick-or-treat-1847971137)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
