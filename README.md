@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Leaked Lenovo Thinkbook Plus image shows a second screen next to the keyboard](https://www.theverge.com/2021/10/31/22756221/leaked-lenovo-thinkbook-image-second-screen)
- - [Compared: 16-inch MacBook Pro vs Razer Blade 15 Advanced](https://appleinsider.com/articles/21/10/31/compared-16-inch-macbook-pro-vs-razer-blade-15-advanced?utm_medium=rss)
- - [Guillermo del Toro fans will love his debut vampire feature Cronos](https://www.androidauthority.com/cronos-on-hbo-max-guillermo-del-toro-3047759/)<!-- TECH:END -->
+ - [The best vertical mice for wrist comfort in 2021](https://www.androidauthority.com/best-vertical-mice-3043335/)
+ - [Chip delivery delays stretch longer as global shortage worsens](https://appleinsider.com/articles/21/10/31/chip-delivery-delays-stretch-longer-as-global-shortage-worsens?utm_medium=rss)
+ - [Leaked images show ASUS may be releasing a Surface Pro competitor that docks to an external GPU](https://www.theverge.com/2021/10/31/22756198/asus-surface-pro-competitor-dock-external-gpu)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
