@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Infant&#039;s heart surgeon](http://9gag.com/gag/aggy4x1)
- - 🚯 [&quot;Do you know how to shoot?&quot;](http://9gag.com/gag/aBnKENZ)
+ - 🚖 [Italian police delivering a donor kidney travels 490 kilometers in two hours from Rome to Padua in a Lamborghini Huracan. His average speed during the trip was 233km/h (145mph). The trip normally takes 6 hours.](http://9gag.com/gag/a4142Dd)
+ - 🚯 [It ain&#039;t eye drop, it&#039;s eye pour.](http://9gag.com/gag/awzrdgR)
  - 🚯 [We all have that friend who takes the most Ls.](http://9gag.com/gag/agg3YKx)<!-- MEMES:END -->
 
 --- 
