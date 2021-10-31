@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Yep, Skyrim has spider grenades](https://www.pcgamer.com/yep-skyrim-has-spider-grenades)
  - [Id Software is hiring, maybe for a new Quake?](https://www.pcgamer.com/id-software-is-hiring-maybe-for-a-new-quake)
- - [Kick ass for the Lord in retro shooter Forgive Me Father](https://www.pcgamer.com/kick-ass-for-the-lord-in-retro-shooter-forgive-me-father)
- - [Unearthing a shareware disc from 1995](https://www.pcgamer.com/saturday-crapshoot-ultimate-shareware-games-collection-vol-1)<!-- GAME:END -->
+ - [Kick ass for the Lord in retro shooter Forgive Me Father](https://www.pcgamer.com/kick-ass-for-the-lord-in-retro-shooter-forgive-me-father)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
