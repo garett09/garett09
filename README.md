@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [BackBox, which provides companies with network automation, security, and management software, raises $32M Series A led by Elsewhere Partners (Kyle Wiggers/VentureBeat)](http://www.techmeme.com/211030/p11#a211030p11)
- - [In 2018, Oculus' Jason Rubin sent a paper to Facebook executives laying the foundation for Meta's ambitions and detailing the need to own the VR market (Salvador Rodriguez/CNBC)](http://www.techmeme.com/211030/p10#a211030p10)
- - [The best cheap gaming mice of 2021](https://www.androidauthority.com/best-cheap-gaming-mice-3035176/)<!-- TECH:END -->
+ - [Apple's $19 Polishing Cloth has become its most back-ordered new product with shipments delayed until January; source: the company isn't surprised by the demand (Daisuke Wakabayashi/New York Times)](http://www.techmeme.com/211031/p2#a211031p2)
+ - [Beijing-based Huice, a SaaS provider that helps e-commerce businesses manage orders and more, raises a $312M Series D led by SoftBank Vision Fund 2 (Eudora Wang/DealStreetAsia)](http://www.techmeme.com/211031/p1#a211031p1)
+ - [Best small phones to buy in 2021     - CNET](https://www.cnet.com/tech/mobile/best-small-phones-iphone-android/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
