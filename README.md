@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Nintendo's Online Expansion Pack Trailer Is Now Its Most Disliked Video On YouTube](https://kotaku.com/nintendos-online-expansion-pack-trailer-is-now-its-most-1847971337)
- - [Why every generation re-discovers Stephen King](https://www.polygon.com/features/22753149/stephen-king-why)
- - [Sunday Comics: Trick Or Treat!](https://kotaku.com/sunday-comics-trick-or-treat-1847971137)<!-- GAME:END -->
+ - [Scooby-Doo! Night Of 100 Frights Is A PS2 Classic Thanks To Its Great Music And Tim Curry](https://kotaku.com/scooby-doo-night-of-100-frights-is-a-ps2-classic-thank-1846792410)
+ - [What to watch this Halloween weekend](https://www.polygon.com/22702474/best-halloween-movies-tv-to-watch-stream)
+ - [Seance director Simon Barrett explains why tropes matter so much in horror](https://www.polygon.com/22755893/simon-barrett-seance-director-interview)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
