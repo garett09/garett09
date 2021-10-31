@@ -193,7 +193,7 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Why is it happening in the first place?](http://9gag.com/gag/a61w2eq)
+ - 🚖 [Zipper](http://9gag.com/gag/aqGmYZj)
  - 🚯 [Apple is losing this one](http://9gag.com/gag/aGz92B5)
  - 🚯 [It&#039;s HALLOWEEN time! Join Poppy the Booty Shakin&#039; Pug and shake it off together.](http://9gag.com/gag/aXrb2m6)<!-- MEMES:END -->
 
