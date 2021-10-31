@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Looks like Fortnite China is shutting down](https://www.pcgamer.com/looks-like-fortnite-china-is-shutting-down)
- - [Spy x Family anime from WIT, CloverWorks revealed in first trailer](https://www.polygon.com/22755955/spy-x-family-anime-trailer-wit-studio-cloverworks)
- - [Scooby-Doo! Night Of 100 Frights Is A PS2 Classic Thanks To Its Great Music And Tim Curry](https://kotaku.com/scooby-doo-night-of-100-frights-is-a-ps2-classic-thank-1846792410)<!-- GAME:END -->
+ - [Here's a bit about Haunted Chocolatier's combat](https://www.pcgamer.com/heres-a-bit-about-haunted-chocolatiers-combat)
+ - [Fantastic Looking Bloodborne PS1 Demake Is Out January 31](https://kotaku.com/fantastic-looking-bloodborne-ps1-demake-is-out-january-1847971763)
+ - [Looks like Fortnite China is shutting down](https://www.pcgamer.com/looks-like-fortnite-china-is-shutting-down)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
