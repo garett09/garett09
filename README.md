@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Unearthing a shareware disc from 1995](https://www.pcgamer.com/saturday-crapshoot-ultimate-shareware-games-collection-vol-1)
- - [Payday 2 adds Halloween cosmetics, joins skeleton army](https://www.pcgamer.com/payday-2-adds-halloween-cosmetics-joins-skeleton-army)
- - [Which PlayStation-exclusive do you want on PC next?](https://www.pcgamer.com/which-playstation-exclusive-do-you-want-on-pc-next)<!-- GAME:END -->
+ - [Id Software is hiring, maybe for a new Quake?](https://www.pcgamer.com/id-software-is-hiring-maybe-for-a-new-quake)
+ - [Kick ass for the Lord in retro shooter Forgive Me Father](https://www.pcgamer.com/kick-ass-for-the-lord-in-retro-shooter-forgive-me-father)
+ - [Unearthing a shareware disc from 1995](https://www.pcgamer.com/saturday-crapshoot-ultimate-shareware-games-collection-vol-1)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
