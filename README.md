@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Zipper](http://9gag.com/gag/aqGmYZj)
- - 🚯 [Apple is losing this one](http://9gag.com/gag/aGz92B5)
+ - 🚖 [Some idiots in Romania](http://9gag.com/gag/arnpBR5)
+ - 🚯 [Zipper](http://9gag.com/gag/aqGmYZj)
  - 🚯 [It&#039;s HALLOWEEN time! Join Poppy the Booty Shakin&#039; Pug and shake it off together.](http://9gag.com/gag/aXrb2m6)<!-- MEMES:END -->
 
 --- 
