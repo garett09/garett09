@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Cyberpunk action-RPG The Ascent gets a photo mode](https://www.pcgamer.com/cyberpunk-action-rpg-the-ascent-gets-a-photo-mode)
  - [Here's a bit about Haunted Chocolatier's combat](https://www.pcgamer.com/heres-a-bit-about-haunted-chocolatiers-combat)
- - [Fantastic Looking Bloodborne PS1 Demake Is Out January 31](https://kotaku.com/fantastic-looking-bloodborne-ps1-demake-is-out-january-1847971763)
- - [Looks like Fortnite China is shutting down](https://www.pcgamer.com/looks-like-fortnite-china-is-shutting-down)<!-- GAME:END -->
+ - [Fantastic Looking Bloodborne PS1 Demake Is Out January 31](https://kotaku.com/fantastic-looking-bloodborne-ps1-demake-is-out-january-1847971763)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
