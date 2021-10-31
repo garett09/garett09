@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Bread](http://9gag.com/gag/apgq6b8)
- - 🚯 [Lifehack](http://9gag.com/gag/a31Y0Dr)
+ - 🚖 [Master of camouflage.](http://9gag.com/gag/aQXq73K)
+ - 🚯 [Bread](http://9gag.com/gag/apgq6b8)
  - 🚯 [We all have that friend who takes the most Ls.](http://9gag.com/gag/agg3YKx)<!-- MEMES:END -->
 
 --- 
