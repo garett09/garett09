@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to Put a Vaccine Card on Your Phone](https://www.wired.com/story/how-to-put-vaccine-card-on-phone)
- - [Give Me My Hot Pink iPhone Already](https://www.wired.com/story/give-me-my-bubblegum-pink-iphone)
- - [How to Talk to Children About Climate Change](https://www.wired.com/story/how-to-talk-to-children-about-climate-change)<!-- TECH:END -->
+ - [Our $1,000 phones deserve better cases](https://www.androidauthority.com/phone-cases-3047908/)
+ - [How to Recover Earlier Versions of Files](https://www.wired.com/story/how-to-recover-file-versions)
+ - [Neuron Bursts Can Mimic a Famous AI Learning Strategy](https://www.wired.com/story/neuron-bursts-can-mimic-a-famous-ai-learning-strategy)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
