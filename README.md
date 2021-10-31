@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Some idiots in Romania](http://9gag.com/gag/arnpBR5)
- - 🚯 [Zipper](http://9gag.com/gag/aqGmYZj)
+ - 🚖 [Good script vs bad script](http://9gag.com/gag/a21NLG9)
+ - 🚯 [Work smarter not harder](http://9gag.com/gag/avA095M)
  - 🚯 [It&#039;s HALLOWEEN time! Join Poppy the Booty Shakin&#039; Pug and shake it off together.](http://9gag.com/gag/aXrb2m6)<!-- MEMES:END -->
 
 --- 
