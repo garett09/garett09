@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nothing Ear 1 review: Was the hype all for nothing?](https://www.androidauthority.com/nothing-ear-1-review-3039915/)
- - [New Trailers: The Wheel of Time, The Witcher, Lightyear, House of Gucci, and more](https://www.theverge.com/2021/10/31/22752499/new-trailers-wheel-of-time-witcher-lightyear-house-of-gucci-netflix-amazon-apple)
- - [Roblox has been down for days and it’s not because of Chipotle](https://www.theverge.com/2021/10/30/22754107/roblox-down-outage-chipotle-server-issues-status)<!-- TECH:END -->
+ - [Want more movies and shows like Squid Game? Add these to your queue](https://www.androidauthority.com/shows-like-squid-game-3047760/)
+ - [Compared: M1 vs M1 Pro and M1 Max](https://appleinsider.com/articles/21/10/30/compared-m1-vs-m1-pro-and-m1-max?utm_medium=rss)
+ - [Apple's M1 Mac mini with 16GB RAM just dropped to $799, plus $20 off AppleCare](https://appleinsider.com/articles/21/10/18/apples-m1-mac-mini-with-16gb-ram-just-dropped-to-799-plus-20-off-applecare?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
