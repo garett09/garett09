@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [AirPods 3: Apple's new $179 earbuds should get these missing features     - CNET](https://www.cnet.com/tech/mobile/airpods-3-apples-new-179-earbuds-should-get-these-missing-features/#ftag=CAD590a51e)
- - [MIUI guide: Everything you need to know about Xiaomi’s Android skin](https://www.androidauthority.com/xiaomi-miui-guide-3044178/)
- - [Apple's $19 Polishing Cloth has become its most back-ordered new product with shipments delayed until January; source: the company isn't surprised by the demand (Daisuke Wakabayashi/New York Times)](http://www.techmeme.com/211031/p2#a211031p2)<!-- TECH:END -->
+ - [How to Put a Vaccine Card on Your Phone](https://www.wired.com/story/how-to-put-vaccine-card-on-phone)
+ - [Give Me My Hot Pink iPhone Already](https://www.wired.com/story/give-me-my-bubblegum-pink-iphone)
+ - [How to Talk to Children About Climate Change](https://www.wired.com/story/how-to-talk-to-children-about-climate-change)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
