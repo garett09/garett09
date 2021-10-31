@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The talent on display here](http://9gag.com/gag/amgXxwX)
- - 🚯 [Mood](http://9gag.com/gag/amgXxQX)
+ - 🚖 [Taking the trike out to the skate park dude!](http://9gag.com/gag/aogzxjn)
+ - 🚯 [The talent on display here](http://9gag.com/gag/amgXxwX)
  - 🚯 [We all have that friend who takes the most Ls.](http://9gag.com/gag/agg3YKx)<!-- MEMES:END -->
 
 --- 
