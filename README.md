@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Is cable TV dying? Here’s what streaming’s takeover might actually look like](https://www.androidauthority.com/is-cable-tv-dying-cord-cutting-death-of-cable-3044893/)
- - [NFL 2021: How to watch Buccaneers vs. Saints, Cowboys vs. Vikings, RedZone and Week 8 without cable     - CNET](https://www.cnet.com/tech/home-entertainment/nfl-2021-how-to-watch-buccaneers-vs-saints-cowboys-vs-vikings-redzone-and-week-8-without-cable/#ftag=CAD590a51e)
- - [Industry and government officials say Gaia-X, a project to reduce EU's cloud dependency on US tech giants, is hamstrung by infighting and bloated bureaucracy (Politico)](http://www.techmeme.com/211031/p4#a211031p4)<!-- TECH:END -->
+ - [iPhone 13 lineup compared: Every difference between Apple's iPhone 13, Mini, Pro and Pro Max     - CNET](https://www.cnet.com/tech/mobile/iphone-13-lineup-compared-every-difference-between-apples-iphone-13-mini-pro-and-pro-max/#ftag=CAD590a51e)
+ - [No Time To Die ending explained: How Daniel Craig's last James Bond movie concludes     - CNET](https://www.cnet.com/news/no-time-to-die-ending-explained-how-daniel-craig-last-james-bond-movie-concludes/#ftag=CAD590a51e)
+ - [Google Home app gets new Photo Frame settings and possible Weather Frog display option](https://www.theverge.com/2021/10/31/22755754/google-home-redesigned-photo-frame-settings-menu-weather-frog-display)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
