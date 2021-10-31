@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 13 lineup compared: Every difference between Apple's iPhone 13, Mini, Pro and Pro Max     - CNET](https://www.cnet.com/tech/mobile/iphone-13-lineup-compared-every-difference-between-apples-iphone-13-mini-pro-and-pro-max/#ftag=CAD590a51e)
- - [No Time To Die ending explained: How Daniel Craig's last James Bond movie concludes     - CNET](https://www.cnet.com/news/no-time-to-die-ending-explained-how-daniel-craig-last-james-bond-movie-concludes/#ftag=CAD590a51e)
- - [Google Home app gets new Photo Frame settings and possible Weather Frog display option](https://www.theverge.com/2021/10/31/22755754/google-home-redesigned-photo-frame-settings-menu-weather-frog-display)<!-- TECH:END -->
+ - [Nothing Ear 1 review: Was the hype all for nothing?](https://www.androidauthority.com/nothing-ear-1-review-3039915/)
+ - [New Trailers: The Wheel of Time, The Witcher, Lightyear, House of Gucci, and more](https://www.theverge.com/2021/10/31/22752499/new-trailers-wheel-of-time-witcher-lightyear-house-of-gucci-netflix-amazon-apple)
+ - [Roblox has been down for days and it’s not because of Chipotle](https://www.theverge.com/2021/10/30/22754107/roblox-down-outage-chipotle-server-issues-status)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
