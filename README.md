@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Our $1,000 phones deserve better cases](https://www.androidauthority.com/phone-cases-3047908/)
- - [How to Recover Earlier Versions of Files](https://www.wired.com/story/how-to-recover-file-versions)
- - [Neuron Bursts Can Mimic a Famous AI Learning Strategy](https://www.wired.com/story/neuron-bursts-can-mimic-a-famous-ai-learning-strategy)<!-- TECH:END -->
+ - [The Best Instant Cameras for Every Situation (and Budget)](https://www.wired.com/gallery/best-instant-cameras)
+ - [Sharpen Your Kitchen Skills With These 7 Cookbooks](https://www.wired.com/gallery/cookbooks-for-kitchen-technique)
+ - [Mac-shaped pillow makers are back so you can cover your couch in computers](https://www.theverge.com/2021/10/31/22753620/mac-apple-plush-pillow-computer-kickstarter-ibook-power-mac-lisa)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
