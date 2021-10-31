@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [In WWII Germany built a massive Railway Gun called the &quot;Gustav&quot;, firing 7 ton shells across 47 km.](http://9gag.com/gag/a91dm90)
- - 🚯 [Sometimes I just hate my job](http://9gag.com/gag/a21NDD1)
+ - 🚖 [Infant&#039;s heart surgeon](http://9gag.com/gag/aggy4x1)
+ - 🚯 [&quot;Do you know how to shoot?&quot;](http://9gag.com/gag/aBnKENZ)
  - 🚯 [We all have that friend who takes the most Ls.](http://9gag.com/gag/agg3YKx)<!-- MEMES:END -->
 
 --- 
