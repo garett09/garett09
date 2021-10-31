@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best vertical mice for wrist comfort in 2021](https://www.androidauthority.com/best-vertical-mice-3043335/)
- - [Chip delivery delays stretch longer as global shortage worsens](https://appleinsider.com/articles/21/10/31/chip-delivery-delays-stretch-longer-as-global-shortage-worsens?utm_medium=rss)
- - [Leaked images show ASUS may be releasing a Surface Pro competitor that docks to an external GPU](https://www.theverge.com/2021/10/31/22756198/asus-surface-pro-competitor-dock-external-gpu)<!-- TECH:END -->
+ - [After a three-day outage, Roblox says it has begun incrementally restoring service to some players (Zack Zwiezen/Kotaku)](http://www.techmeme.com/211031/p6#a211031p6)
+ - [Roblox was down all weekend, and not because of Chipotle](https://www.theverge.com/2021/10/30/22754107/roblox-down-outage-chipotle-server-issues-status)
+ - [Roblox is back online after an outage that lasted three days](https://www.theverge.com/2021/10/31/22756186/roblox-back-online-outage-weekend-chipotle)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
