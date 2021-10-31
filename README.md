@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Master of camouflage.](http://9gag.com/gag/aQXq73K)
- - 🚯 [Bread](http://9gag.com/gag/apgq6b8)
+ - 🚖 [I&#039;m turning 36 this December. Single and just starting a job. (Medical college faculty, for those who want to know)](http://9gag.com/gag/abg54zE)
+ - 🚯 [How to traumatize a kid](http://9gag.com/gag/a91d5A1)
  - 🚯 [We all have that friend who takes the most Ls.](http://9gag.com/gag/agg3YKx)<!-- MEMES:END -->
 
 --- 
