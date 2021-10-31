@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The talent on display here](http://9gag.com/gag/amgXxwX)
- - 🚯 [Polish Horror Story](http://9gag.com/gag/aBnKG2N)
+ - 🚖 [In WWII Germany built a massive Railway Gun called the &quot;Gustav&quot;, firing 7 ton shells across 47 km.](http://9gag.com/gag/a91dm90)
+ - 🚯 [Sometimes I just hate my job](http://9gag.com/gag/a21NDD1)
  - 🚯 [We all have that friend who takes the most Ls.](http://9gag.com/gag/agg3YKx)<!-- MEMES:END -->
 
 --- 
