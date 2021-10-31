@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Cyberpunk action-RPG The Ascent gets a photo mode](https://www.pcgamer.com/cyberpunk-action-rpg-the-ascent-gets-a-photo-mode)
- - [Here's a bit about Haunted Chocolatier's combat](https://www.pcgamer.com/heres-a-bit-about-haunted-chocolatiers-combat)
- - [Fantastic Looking Bloodborne PS1 Demake Is Out January 31](https://kotaku.com/fantastic-looking-bloodborne-ps1-demake-is-out-january-1847971763)<!-- GAME:END -->
+ - [Five new Steam games you probably missed (November 1, 2021)](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-november-1-2021)
+ - [The Week In Games: Dance Like Nobody's Watching](https://kotaku.com/the-week-in-games-dance-like-nobodys-watching-1847971914)
+ - [Age of Empires 4 had almost 74,000 concurrent players on Steam for its opening weekend](https://www.pcgamer.com/age-of-empires-4-had-almost-74000-concurrent-players-on-steam-for-its-opening-weekend)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
