@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Kids should play outside](http://9gag.com/gag/aBnKXvz)
- - 🚯 [Italian police delivering a donor kidney travels 490 kilometers in two hours from Rome to Padua in a Lamborghini Huracan. His average speed during the trip was 233km/h (145mph). The trip normally takes 6 hours.](http://9gag.com/gag/a4142Dd)
+ - 🚖 [Apple is losing this one](http://9gag.com/gag/aGz92B5)
+ - 🚯 [True!](http://9gag.com/gag/a81W2RV)
  - 🚯 [It&#039;s HALLOWEEN time! Join Poppy the Booty Shakin&#039; Pug and shake it off together.](http://9gag.com/gag/aXrb2m6)<!-- MEMES:END -->
 
 --- 
