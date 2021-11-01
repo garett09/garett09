@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [She&#039;s got a point.](http://9gag.com/gag/a31Ye03)
- - 🚯 [Careful, he&#039;s a hero.](http://9gag.com/gag/aOQqAvr)
- - 🚯 [Ah yes! The Chinese Halloween](http://9gag.com/gag/aegNPWj)<!-- MEMES:END -->
+ - 🚖 [Someone went as Sunscreened Zuckerberg for Halloween](http://9gag.com/gag/awzr9vB)
+ - 🚯 [In Russia vaccine chooses you](http://9gag.com/gag/a11AqGP)
+ - 🚯 [And i love it!](http://9gag.com/gag/aWgZep3)<!-- MEMES:END -->
 
 --- 
 
