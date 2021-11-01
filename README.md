@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It&#039;s going to be a long month...](http://9gag.com/gag/aBnKN61)
- - 🚯 [Worst moment](http://9gag.com/gag/aE8wQmn)
+ - 🚖 [Worst moment](http://9gag.com/gag/aE8wQmn)
+ - 🚯 [I&#039;ll forgo no nut november.](http://9gag.com/gag/aqGmdWP)
  - 🚯 [It&#039;s HALLOWEEN time! Join Poppy the Booty Shakin&#039; Pug and shake it off together.](http://9gag.com/gag/aXrb2m6)<!-- MEMES:END -->
 
 --- 
