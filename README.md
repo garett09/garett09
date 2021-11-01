@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [PAX South is no longer due to Covid-19 and lack of growth](https://www.pcgamer.com/pax-south-is-no-longer-due-to-covid-19-and-lack-of-growth)
  - [The best Australian PC gaming deals this week](https://www.pcgamer.com/best-australian-pc-gaming-deals)
- - [See the art from Valve's canceled space pirate game that's going round the internet](https://www.pcgamer.com/see-the-art-from-valves-canceled-space-pirate-game-thats-going-round-the-internet)
- - [Relics From A Future Past](https://kotaku.com/relics-from-a-future-past-1847972315)<!-- GAME:END -->
+ - [See the art from Valve's canceled space pirate game that's going round the internet](https://www.pcgamer.com/see-the-art-from-valves-canceled-space-pirate-game-thats-going-round-the-internet)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
