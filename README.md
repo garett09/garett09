@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Doodle highlights nonbinary Zuni We:wa for Native American Heritage Month     - CNET](https://www.cnet.com/news/google-doodle-highlights-nonbinary-zuni-wewa-for-native-american-heritage-month/#ftag=CAD590a51e)
- - [Succession season 3, episode 3 recap: Kendall goes too far     - CNET](https://www.cnet.com/news/succession-season-3-episode-3-recap-kendall-goes-too-far/#ftag=CAD590a51e)
- - [India-based grocery delivery startup Zepto emerges from stealth with $60M from Glade Brook Capital, Nexus, Y Combinator, and others (Manish Singh/TechCrunch)](http://www.techmeme.com/211031/p9#a211031p9)<!-- TECH:END -->
+ - [You told us: Facebook’s notched smartwatch design is a no-go](https://www.androidauthority.com/facebook-smartwatch-notch-poll-results-3049361/)
+ - [These are the best rugged phones you can buy right now](https://www.androidauthority.com/best-rugged-phones-789011/)
+ - [SlashNext, which offers AI-driven anti-phishing services for enterprise communications, raises a $26M Series B (Kyle Wiggers/VentureBeat)](http://www.techmeme.com/211101/p1#a211101p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
