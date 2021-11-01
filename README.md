@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The PS5 and Xbox Series X are now available at Walmart](https://www.theverge.com/2021/11/1/22639399/sony-playstation-ps5-xbox-series-x-console-disc-digital-edition-restock-walmart)
- - [Google says Pixel 6 Pro ghostly display flickers will be fixed in December](https://www.theverge.com/2021/11/1/22757639/google-pixel-6-pro-phone-off-screen-flickers-fix-december-update)
- - [Engineer details how he created the world's first USB-C iPhone](https://appleinsider.com/articles/21/11/01/engineer-details-how-he-created-the-worlds-first-usb-c-iphone?utm_medium=rss)<!-- TECH:END -->
+ - [Facebook verified a fan page posing as Elon Musk](https://www.theverge.com/2021/11/1/22757771/meta-facebook-elon-musk-verified-fan-page-posing)
+ - [Two of Samsung’s hottest phones in the US now eligible for One UI 4 beta](https://www.androidauthority.com/samsung-one-ui-4-beta-galaxy-z-flip-3-z-fold-3-3048665/)
+ - [Meta takes down a troll farm run by the Nicaraguan government since 2018 that involved 937 Facebook accounts, 140 Pages, 24 Groups, and 363 Instagram accounts (Financial Times)](http://www.techmeme.com/211101/p20#a211101p20)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
