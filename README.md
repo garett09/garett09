@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Sadly this is relevant almost all over the world.](http://9gag.com/gag/aM41NMX)
- - 🚯 [My reaction to no nut November, if I commit I&rsquo;m sure I can pull it off.](http://9gag.com/gag/abg5ddv)
- - 🚯 [It&#039;s HALLOWEEN time! Join Poppy the Booty Shakin&#039; Pug and shake it off together.](http://9gag.com/gag/aXrb2m6)<!-- MEMES:END -->
+ - 🚖 [Ferrari Slip &amp; Slide](http://9gag.com/gag/aQXqBPd)
+ - 🚯 [Careful, he&#039;s a hero.](http://9gag.com/gag/aOQqAvr)
+ - 🚯 [He&#039;s right](http://9gag.com/gag/amgXbWj)<!-- MEMES:END -->
 
 --- 
 
