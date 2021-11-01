@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Facebook verified a fan page posing as Elon Musk](https://www.theverge.com/2021/11/1/22757771/meta-facebook-elon-musk-verified-fan-page-posing)
- - [Two of Samsung’s hottest phones in the US now eligible for One UI 4 beta](https://www.androidauthority.com/samsung-one-ui-4-beta-galaxy-z-flip-3-z-fold-3-3048665/)
- - [Meta takes down a troll farm run by the Nicaraguan government since 2018 that involved 937 Facebook accounts, 140 Pages, 24 Groups, and 363 Instagram accounts (Financial Times)](http://www.techmeme.com/211101/p20#a211101p20)<!-- TECH:END -->
+ - [US Treasury says stablecoins should be regulated like banks](https://www.theverge.com/2021/11/1/22757899/us-treasury-stablecoins-regulated-banks-cryptocurrency-yellen-congress)
+ - [Apple AR headset will wirelessly connect to iPhone, production in late 2022](https://appleinsider.com/articles/21/11/01/apple-headset-will-have-wi-fi-6-production-to-begin-q4-2022?utm_medium=rss)
+ - [The 29 Best Early Black Friday Deals at Best Buy](https://www.wired.com/story/best-buy-early-black-friday-deals-2021)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
