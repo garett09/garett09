@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dell spins off its 81% stake in VMware, creating a $64B independent software company; Dell's remaining hardware operations have an implied value of $33B (Richard Waters/Financial Times)](http://www.techmeme.com/211101/p2#a211101p2)
- - [Royole could add a pop-up selfie camera to its next foldable phone](https://www.androidauthority.com/royole-flexpai-3-3049403/)
- - [Missing iPhone 13 features that we wanted to see on Apple's latest iPhone     - CNET](https://www.cnet.com/tech/mobile/missing-iphone-13-features-that-we-wanted-to-see-on-apples-latest-iphone/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple headset will have Wi-Fi 6, production to begin Q4 2022](https://appleinsider.com/articles/21/11/01/apple-headset-will-have-wi-fi-6-production-to-begin-q4-2022?utm_medium=rss)
+ - [How payment processors hold the power to decide which products and services can be purchased online, as Stripe bans businesses like tarot card reading (Meg Jones Wall/Wired)](http://www.techmeme.com/211101/p3#a211101p3)
+ - [Dell spins off its 81% stake in VMware, creating a $64B independent software company; Dell's remaining hardware operations have an implied value of $33B (Richard Waters/Financial Times)](http://www.techmeme.com/211101/p2#a211101p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
