@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple headset will have Wi-Fi 6, production to begin Q4 2022](https://appleinsider.com/articles/21/11/01/apple-headset-will-have-wi-fi-6-production-to-begin-q4-2022?utm_medium=rss)
- - [How payment processors hold the power to decide which products and services can be purchased online, as Stripe bans businesses like tarot card reading (Meg Jones Wall/Wired)](http://www.techmeme.com/211101/p3#a211101p3)
- - [Dell spins off its 81% stake in VMware, creating a $64B independent software company; Dell's remaining hardware operations have an implied value of $33B (Richard Waters/Financial Times)](http://www.techmeme.com/211101/p2#a211101p2)<!-- TECH:END -->
+ - [Compared: M1 vs M1 Pro and M1 Max](https://appleinsider.com/articles/21/10/30/compared-m1-vs-m1-pro-and-m1-max?utm_medium=rss)
+ - [A note from our editor-in-chief](https://www.theverge.com/22750900/verge-10-anniversary-nilay-patel-restrospective-future)
+ - [Apple AR & VR headset will have Wi-Fi 6, production to begin Q4 2022](https://appleinsider.com/articles/21/11/01/apple-headset-will-have-wi-fi-6-production-to-begin-q4-2022?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
