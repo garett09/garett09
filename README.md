@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Coming Soon to Xbox Game Pass: Forza Horizon 5, Minecraft: Bedrock and Java Editions, and More](https://news.xbox.com/en-us/2021/11/01/xbox-game-pass-update-november-2021/)
- - [The Blade Runner anime isn’t what fans wanted, but is more than worthy of the name](https://www.polygon.com/reviews/22752896/blade-runner-black-lotus-review-anime)
- - [Intel's Alchemist gaming GPUs definitely look like they mean business](https://www.pcgamer.com/intels-alchemist-gaming-gpus-definitely-look-like-they-mean-business)<!-- GAME:END -->
+ - [For some Animal Crossing players, New Horizons’ 2.0 update means starting over](https://www.polygon.com/22750681/animal-crossing-new-horizons-acnh-update-restart-island)
+ - [How does Samus Aran turn into a ball? An investigation](https://www.polygon.com/22753392/metroid-dread-samus-aran-height-morph-ball-mode-nintendo-other-m-super-smash-bros)
+ - [GTA: San Andreas remaster, Forza Horizon 5 coming to Xbox Game Pass in November](https://www.polygon.com/22757075/xbox-game-pass-november-2021-gta-san-andreas-remaster-forza-horizon-5)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
