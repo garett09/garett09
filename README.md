@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [We always used to respect the best player](http://9gag.com/gag/aGz976G)
- - 🚯 [Handmade rubber doll factory (1957)](http://9gag.com/gag/aE8wEpx)
+ - 🚖 [This is why you hire a pro.](http://9gag.com/gag/aOQqjb3)
+ - 🚯 [Time to prove now, everyone is waiting how it would solve the world hunger](http://9gag.com/gag/aQXqyZq)
  - 🚯 [It&#039;s HALLOWEEN time! Join Poppy the Booty Shakin&#039; Pug and shake it off together.](http://9gag.com/gag/aXrb2m6)<!-- MEMES:END -->
 
 --- 
