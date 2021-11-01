@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Man Dressed As The Joker From Batman Arrested After Knife Attack](https://kotaku.com/man-dressed-as-the-joker-from-batman-arrested-after-kni-1847972882)
- - [Fortnite Is Shutting Down Its Service In China](https://kotaku.com/fortnite-is-shutting-down-its-service-in-china-1847972821)
- - [Microsoft And Sega Are Teaming Up For Next-Gen Cloud Gaming](https://kotaku.com/microsoft-and-sega-are-teaming-up-for-next-gen-cloud-ga-1847972816)<!-- GAME:END -->
+ - [Coming Soon to Xbox Game Pass: Forza Horizon 5, Minecraft: Bedrock and Java Editions, and More](https://news.xbox.com/en-us/2021/11/01/xbox-game-pass-update-november-2021/)
+ - [The Blade Runner anime isn’t what fans wanted, but is more than worthy of the name](https://www.polygon.com/reviews/22752896/blade-runner-black-lotus-review-anime)
+ - [Intel's Alchemist gaming GPUs definitely look like they mean business](https://www.pcgamer.com/intels-alchemist-gaming-gpus-definitely-look-like-they-mean-business)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
