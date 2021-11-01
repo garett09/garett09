@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Watch one of the most entertaining fantasy series on Netflix right now     - CNET](https://www.cnet.com/news/watch-one-of-the-most-entertaining-fantasy-series-on-netflix-right-now/#ftag=CAD590a51e)
- - [Netflix released a horror movie written by a bot and it's spectacular     - CNET](https://www.cnet.com/news/netflix-released-a-horror-movie-written-by-a-bot-and-its-spectacular/#ftag=CAD590a51e)
- - [A look at "creepypasta", ghost stories such as Slender Man that spread online, and how decentralized myth-making can explain the rise of meme stocks and QAnon (Siddharth Venkataramakrishnan/Financial ...)](http://www.techmeme.com/211031/p7#a211031p7)<!-- TECH:END -->
+ - [Netflix: 44 of the absolute best TV shows to watch     - CNET](https://www.cnet.com/news/netflix-44-of-the-absolute-best-tv-shows-to-stream/#ftag=CAD590a51e)
+ - [Roblox says games back online after 3-day outage     - CNET](https://www.cnet.com/tech/gaming/roblox-games-back-online-after-3-day-outage/#ftag=CAD590a51e)
+ - [Netflix: 34 of the absolute best movies to watch     - CNET](https://www.cnet.com/news/netflix-34-of-the-absolute-best-movies-to-watch-tonight/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
