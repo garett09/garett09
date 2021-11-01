@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cricket Wireless brings 5G access to all plans     - CNET](https://www.cnet.com/tech/mobile/cricket-wireless-brings-5g-access-to-all-plans/#ftag=CAD590a51e)
- - [The Book of Boba Fett trailer reveals bounty hunter's Disney Plus show     - CNET](https://www.cnet.com/news/the-book-of-boba-fett-trailer-reveals-bounty-hunters-disney-plus-show/#ftag=CAD590a51e)
- - [iPhone 13 delivery estimates hint at improving supply chain conditions](https://appleinsider.com/articles/21/11/01/iphone-13-delivery-estimates-hint-at-improving-supply-chain-conditions?utm_medium=rss)<!-- TECH:END -->
+ - [Mosaic, which makes software to automate construction planning, raises a $44M Series B led by Peak State Ventures, bringing its total raised to $68.8M (Mary Ann Azevedo/TechCrunch)](http://www.techmeme.com/211101/p14#a211101p14)
+ - [New Beats Fit Pro feature active noise cancellation, H1 chip for $199.99](https://appleinsider.com/articles/21/11/01/new-beats-fit-pro-feature-active-noise-cancellation-h1-chip-for-19999?utm_medium=rss)
+ - [Canadian carrier set iPhone clocks back one hour, a week early](https://appleinsider.com/articles/21/11/01/canadas-rogers-set-iphone-clocks-back-one-hour-a-week-early?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
