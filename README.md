@@ -186,7 +186,7 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Doodle highlights nonbinary Zuni We'wha for Native American Heritage Month     - CNET](https://www.cnet.com/news/google-doodle-highlights-nonbinary-zuni-wewha-for-native-american-heritage-month/#ftag=CAD590a51e)
+ - [Google Doodle highlights nonbinary Zuni We:wa for Native American Heritage Month     - CNET](https://www.cnet.com/news/google-doodle-highlights-nonbinary-zuni-wewa-for-native-american-heritage-month/#ftag=CAD590a51e)
  - [Succession season 3, episode 3 recap: Kendall goes too far     - CNET](https://www.cnet.com/news/succession-season-3-episode-3-recap-kendall-goes-too-far/#ftag=CAD590a51e)
  - [India-based grocery delivery startup Zepto emerges from stealth with $60M from Glade Brook Capital, Nexus, Y Combinator, and others (Manish Singh/TechCrunch)](http://www.techmeme.com/211031/p9#a211031p9)<!-- TECH:END -->
 
