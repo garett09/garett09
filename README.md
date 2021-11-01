@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mosaic, which makes software to automate construction planning, raises a $44M Series B led by Peak State Ventures, bringing its total raised to $68.8M (Mary Ann Azevedo/TechCrunch)](http://www.techmeme.com/211101/p14#a211101p14)
- - [New Beats Fit Pro feature active noise cancellation, H1 chip for $199.99](https://appleinsider.com/articles/21/11/01/new-beats-fit-pro-feature-active-noise-cancellation-h1-chip-for-19999?utm_medium=rss)
- - [Canadian carrier set iPhone clocks back one hour, a week early](https://appleinsider.com/articles/21/11/01/canadas-rogers-set-iphone-clocks-back-one-hour-a-week-early?utm_medium=rss)<!-- TECH:END -->
+ - [Apple says to 'shop early' for the holidays, extends returns deadlines](https://appleinsider.com/articles/21/11/01/apple-says-to-shop-early-for-the-holidays-extends-returns-deadlines?utm_medium=rss)
+ - [Canadian carrier set iPhone clocks back one hour, a week early](https://appleinsider.com/articles/21/11/01/canadas-rogers-set-iphone-clocks-back-one-hour-a-week-early?utm_medium=rss)
+ - [Black Friday 2021: Early deals on phones, wearables, and more](https://www.androidauthority.com/black-friday-deals-3049753/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
