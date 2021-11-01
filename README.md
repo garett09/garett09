@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix: 44 of the absolute best TV shows to watch     - CNET](https://www.cnet.com/news/netflix-44-of-the-absolute-best-tv-shows-to-stream/#ftag=CAD590a51e)
- - [Roblox says games back online after 3-day outage     - CNET](https://www.cnet.com/tech/gaming/roblox-games-back-online-after-3-day-outage/#ftag=CAD590a51e)
- - [Netflix: 34 of the absolute best movies to watch     - CNET](https://www.cnet.com/news/netflix-34-of-the-absolute-best-movies-to-watch-tonight/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [YouTube's mistaken deletion of a channel belonging to UK news outlet Novara Media draws criticism over the company's power as a content regulator (Adam Satariano/New York Times)](http://www.techmeme.com/211031/p8#a211031p8)
+ - [Roblox is back online after an outage that lasted three days](https://www.theverge.com/2021/10/31/22756186/roblox-back-online-outage-weekend-chipotle)
+ - [Succession season 3, episode 3 recap: Salty moves     - CNET](https://www.cnet.com/news/succession-season-3-episode-3-recap-salty-moves/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
