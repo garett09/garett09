@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple says to 'shop early' for the holidays, extends returns deadlines](https://appleinsider.com/articles/21/11/01/apple-says-to-shop-early-for-the-holidays-extends-returns-deadlines?utm_medium=rss)
- - [Canadian carrier set iPhone clocks back one hour, a week early](https://appleinsider.com/articles/21/11/01/canadas-rogers-set-iphone-clocks-back-one-hour-a-week-early?utm_medium=rss)
- - [Black Friday 2021: Early deals on phones, wearables, and more](https://www.androidauthority.com/black-friday-deals-3049753/)<!-- TECH:END -->
+ - [Amazon’s Project Kuiper hopes to launch first two prototype satellites in late 2022](https://www.theverge.com/2021/11/1/22752469/amazon-project-kuiper-prototype-satellite-fcc-2022-abl-space-systems)
+ - [Some Mac owners report that upgrading to macOS Monterey bricked their computer (Sami Fathi/MacRumors)](http://www.techmeme.com/211101/p17#a211101p17)
+ - [On its second anniversary, Apple TV+ is in a good place](https://appleinsider.com/articles/21/11/01/on-its-second-anniversary-apple-tv-is-in-a-good-place?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
