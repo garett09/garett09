@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Kids should play outside](http://9gag.com/gag/aBnKXvz)
- - 🚯 [Work smarter not harder](http://9gag.com/gag/avA095M)
+ - 🚖 [We always used to respect the best player](http://9gag.com/gag/aGz976G)
+ - 🚯 [Wholesome Halloween](http://9gag.com/gag/a31YWe8)
  - 🚯 [It&#039;s HALLOWEEN time! Join Poppy the Booty Shakin&#039; Pug and shake it off together.](http://9gag.com/gag/aXrb2m6)<!-- MEMES:END -->
 
 --- 
