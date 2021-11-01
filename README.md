@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Mario Kart NFT Idea Is The Worst Thing I Have Ever Read](https://kotaku.com/mario-kart-nft-idea-is-the-worst-thing-i-have-ever-read-1847977673)
- - [Halloween might be over, but these games keep Spooky Season going](https://www.polygon.com/22757307/low-res-horror-playstation-1-cottagecore-cozy-games)
- - [World's Most Popular Game Is Getting 'Triple-A,' Open-World Spin-Off](https://kotaku.com/worlds-most-popular-game-is-getting-triple-a-open-worl-1847977539)<!-- GAME:END -->
+ - [Upcoming Steam Deck Q&A might teach us a few more things before launch](https://www.pcgamer.com/upcoming-steam-deck-qanda-might-teach-us-a-few-more-things-before-launch)
+ - [Xbox Game Pass for PC has an impressive November line-up](https://www.pcgamer.com/xbox-game-pass-for-pc-has-an-impressive-november-line-up)
+ - [Stardew Valley: The Board Game goes back on sale on this week](https://www.pcgamer.com/stardew-valley-the-board-game-goes-back-on-sale-on-this-week)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
