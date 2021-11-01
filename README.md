@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I&#039;d climb up in that too](http://9gag.com/gag/arnpz6d)
- - 🚯 [This is why you hire a pro.](http://9gag.com/gag/aOQqjb3)
+ - 🚖 [Welcome to Berlin](http://9gag.com/gag/a11AO8D)
+ - 🚯 [Im almost that age](http://9gag.com/gag/angYdOE)
  - 🚯 [It&#039;s HALLOWEEN time! Join Poppy the Booty Shakin&#039; Pug and shake it off together.](http://9gag.com/gag/aXrb2m6)<!-- MEMES:END -->
 
 --- 
