@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Early Black Friday deals hit Apple's 2021 14-inch and 16-inch MacBook Pro, AppleCare savings](https://appleinsider.com/articles/21/10/27/early-black-friday-deals-hit-apples-2021-14-inch-and-16-inch-macbook-pro?utm_medium=rss)
- - [Social media vs. the world](https://www.theverge.com/22733079/online-speech-moderation-facebook-platform-politics)
- - [Canada's Rogers set iPhone clocks back one hour, a week early](https://appleinsider.com/articles/21/11/01/canadas-rogers-set-iphone-clocks-back-one-hour-a-week-early?utm_medium=rss)<!-- TECH:END -->
+ - [Cricket Wireless brings 5G access to all plans     - CNET](https://www.cnet.com/tech/mobile/cricket-wireless-brings-5g-access-to-all-plans/#ftag=CAD590a51e)
+ - [The Book of Boba Fett trailer reveals bounty hunter's Disney Plus show     - CNET](https://www.cnet.com/news/the-book-of-boba-fett-trailer-reveals-bounty-hunters-disney-plus-show/#ftag=CAD590a51e)
+ - [iPhone 13 delivery estimates hint at improving supply chain conditions](https://appleinsider.com/articles/21/11/01/iphone-13-delivery-estimates-hint-at-improving-supply-chain-conditions?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
