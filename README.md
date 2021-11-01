@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Chris Pratt will voice Garfield in new animated film](https://www.polygon.com/22758096/chris-pratt-garfield-sony-pictures)
- - [The fantastic-looking Bloodborne demake is launching on PC in January](https://www.pcgamer.com/the-fantastic-looking-bloodborne-demake-is-launching-on-pc-in-january)
- - [Edwin returns as one of four legendary cards in Hearthstone's The Deadmines](https://www.pcgamer.com/edwin-returns-as-one-of-four-legendary-cards-in-hearthstones-the-deadmines)<!-- GAME:END -->
+ - [Mario Kart NFT Idea Is The Worst Thing I Have Ever Read](https://kotaku.com/mario-kart-nft-idea-is-the-worst-thing-i-have-ever-read-1847977673)
+ - [Halloween might be over, but these games keep Spooky Season going](https://www.polygon.com/22757307/low-res-horror-playstation-1-cottagecore-cozy-games)
+ - [World's Most Popular Game Is Getting 'Triple-A,' Open-World Spin-Off](https://kotaku.com/worlds-most-popular-game-is-getting-triple-a-open-worl-1847977539)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
