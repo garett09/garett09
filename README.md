@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dusk update brings console features to the PC version](https://www.pcgamer.com/dusk-update-brings-console-features-to-the-pc-version)
- - [New World Bug Let You Kick Other Players Just By Chatting With Them](https://kotaku.com/new-world-bug-let-you-kick-other-players-just-by-chatti-1847972062)
- - [Five new Steam games you probably missed (November 1, 2021)](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-november-1-2021)<!-- GAME:END -->
+ - [Relics From A Future Past](https://kotaku.com/relics-from-a-future-past-1847972315)
+ - [Cosplayer Simply Becomes Angelina Jolie](https://kotaku.com/cosplayer-simply-becomes-angelina-jolie-1847972273)
+ - [After a three-day outage, Roblox is back online](https://www.pcgamer.com/after-a-three-day-outage-roblox-is-back-online)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
