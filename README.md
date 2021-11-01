@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Time is of the Essence in Operation: Tango’s Free Content Update](https://news.xbox.com/en-us/2021/11/01/operation-tango-free-content-update/)
- - [This new Halo Infinite map reminds me of one of Halo 5's best](https://www.pcgamer.com/this-new-halo-infinite-map-reminds-me-of-one-of-halo-5s-best)
- - [One of Marvel’s oldest queer couples got back together](https://www.polygon.com/comics/2021/11/1/22757234/marvel-mystique-gay-inferno-wife-destiny)<!-- GAME:END -->
+ - [Call of Duty: Vanguard is less than half the size of Warzone](https://www.pcgamer.com/call-of-duty-vanguard-is-less-than-half-the-size-of-warzone)
+ - [Call of Duty: Vanguard’s Zombies won’t have a main quest at launch](https://www.polygon.com/22757946/call-of-duty-vanguard-zombies-main-quest-release-date-season-one)
+ - [Easy Far Cry 6 Exploit Totally Eliminates Weapon Recoil](https://kotaku.com/easy-far-cry-6-exploit-totally-eliminates-weapon-recoil-1847976598)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
