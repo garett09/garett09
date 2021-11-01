@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [And i love it!](http://9gag.com/gag/aWgZep3)
- - 🚯 [&laquo;how do you do, fellow kids?&rdquo; Look at this legend, walking around NYC and reprising his own role as a Halloween costume](http://9gag.com/gag/aAGYq7o)
- - 🚯 [Another Guy Who Missed Fire Safety Training...](http://9gag.com/gag/aqGmVqY)<!-- MEMES:END -->
+ - 🚖 [Nut Every Day November (for those who already failed) Day 1](http://9gag.com/gag/aPZvzYn)
+ - 🚯 [Today I passed my flight test. I&lsquo;m now a private pilot](http://9gag.com/gag/a31YzL1)
+ - 🚯 [Wrong firmware can get your car bricked](http://9gag.com/gag/amgXOoV)<!-- MEMES:END -->
 
 --- 
 
