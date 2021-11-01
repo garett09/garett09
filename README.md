@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Someone went as Sunscreened Zuckerberg for Halloween](http://9gag.com/gag/awzr9vB)
- - 🚯 [In Russia vaccine chooses you](http://9gag.com/gag/a11AqGP)
- - 🚯 [And i love it!](http://9gag.com/gag/aWgZep3)<!-- MEMES:END -->
+ - 🚖 [Best mullet I&rsquo;ve seen in a while](http://9gag.com/gag/a21NA8D)
+ - 🚯 [Answer me Dammit](http://9gag.com/gag/aYrbZMO)
+ - 🚯 [I want my coffee hot](http://9gag.com/gag/aKmzX5j)<!-- MEMES:END -->
 
 --- 
 
