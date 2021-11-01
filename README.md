@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Missing iPhone 13 features that we wanted to see on Apple's latest iPhone     - CNET](https://www.cnet.com/tech/mobile/missing-iphone-13-features-that-we-wanted-to-see-on-apples-latest-iphone/#ftag=CAD590a51e)
  - [You told us: Facebook’s notched smartwatch design is a no-go](https://www.androidauthority.com/facebook-smartwatch-notch-poll-results-3049361/)
- - [These are the best rugged phones you can buy right now](https://www.androidauthority.com/best-rugged-phones-789011/)
- - [SlashNext, which offers AI-driven anti-phishing services for enterprise communications, raises a $26M Series B (Kyle Wiggers/VentureBeat)](http://www.techmeme.com/211101/p1#a211101p1)<!-- TECH:END -->
+ - [These are the best rugged phones you can buy right now](https://www.androidauthority.com/best-rugged-phones-789011/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
