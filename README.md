@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [After a three-day outage, Roblox says it has begun incrementally restoring service to some players (Zack Zwiezen/Kotaku)](http://www.techmeme.com/211031/p6#a211031p6)
- - [Roblox was down all weekend, and not because of Chipotle](https://www.theverge.com/2021/10/30/22754107/roblox-down-outage-chipotle-server-issues-status)
- - [Roblox is back online after an outage that lasted three days](https://www.theverge.com/2021/10/31/22756186/roblox-back-online-outage-weekend-chipotle)<!-- TECH:END -->
+ - [Watch one of the most entertaining fantasy series on Netflix right now     - CNET](https://www.cnet.com/news/watch-one-of-the-most-entertaining-fantasy-series-on-netflix-right-now/#ftag=CAD590a51e)
+ - [Netflix released a horror movie written by a bot and it's spectacular     - CNET](https://www.cnet.com/news/netflix-released-a-horror-movie-written-by-a-bot-and-its-spectacular/#ftag=CAD590a51e)
+ - [A look at "creepypasta", ghost stories such as Slender Man that spread online, and how decentralized myth-making can explain the rise of meme stocks and QAnon (Siddharth Venkataramakrishnan/Financial ...)](http://www.techmeme.com/211031/p7#a211031p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
