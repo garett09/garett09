@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [For some Animal Crossing players, New Horizons’ 2.0 update means starting over](https://www.polygon.com/22750681/animal-crossing-new-horizons-acnh-update-restart-island)
- - [How does Samus Aran turn into a ball? An investigation](https://www.polygon.com/22753392/metroid-dread-samus-aran-height-morph-ball-mode-nintendo-other-m-super-smash-bros)
- - [GTA: San Andreas remaster, Forza Horizon 5 coming to Xbox Game Pass in November](https://www.polygon.com/22757075/xbox-game-pass-november-2021-gta-san-andreas-remaster-forza-horizon-5)<!-- GAME:END -->
+ - [Players’ Choice: Vote for October 2021’s best new game](http://feedproxy.google.com/~r/PSBlog/~3/5SaZAJ4wDEQ/)
+ - [Players’ Choice: Vote for October 2021’s best new game](https://blog.playstation.com/2021/11/01/players-choice-vote-for-october-2021s-best-new-game/)
+ - [October Was a Great Month for PC: Back 4 Blood, Age of Empires IV, Windows 11, and More](https://news.xbox.com/en-us/2021/11/01/game-pass-for-pc-october-2021-recap/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
