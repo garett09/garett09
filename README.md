@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [November 2021 Android security patch now available for Pixel 3a and later](https://www.androidauthority.com/november-2021-android-security-patch-3049926/)
- - [Compared: M1 Max 16-inch MacBook Pro versus Mac Pro](https://appleinsider.com/articles/21/11/01/compared-m1-max-16-inch-macbook-pro-versus-mac-pro?utm_medium=rss)
- - [Amazon says TikTok's app is now available on Fire TV in the US and Canada and will come soon to Echo Show devices (Amanda Silberling/TechCrunch)](http://www.techmeme.com/211101/p18#a211101p18)<!-- TECH:END -->
+ - [The PS5 and Xbox Series X are now available at Walmart](https://www.theverge.com/2021/11/1/22639399/sony-playstation-ps5-xbox-series-x-console-disc-digital-edition-restock-walmart)
+ - [Google says Pixel 6 Pro ghostly display flickers will be fixed in December](https://www.theverge.com/2021/11/1/22757639/google-pixel-6-pro-phone-off-screen-flickers-fix-december-update)
+ - [Engineer details how he created the world's first USB-C iPhone](https://appleinsider.com/articles/21/11/01/engineer-details-how-he-created-the-worlds-first-usb-c-iphone?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
