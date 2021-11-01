@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [See the art from Valve's canceled space pirate game that's going round the internet](https://www.pcgamer.com/see-the-art-from-valves-canceled-space-pirate-game-thats-going-round-the-internet)
  - [Relics From A Future Past](https://kotaku.com/relics-from-a-future-past-1847972315)
- - [Cosplayer Simply Becomes Angelina Jolie](https://kotaku.com/cosplayer-simply-becomes-angelina-jolie-1847972273)
- - [After a three-day outage, Roblox is back online](https://www.pcgamer.com/after-a-three-day-outage-roblox-is-back-online)<!-- GAME:END -->
+ - [Cosplayer Simply Becomes Angelina Jolie](https://kotaku.com/cosplayer-simply-becomes-angelina-jolie-1847972273)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
