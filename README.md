@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [New Horizons 2.0 update is Animal Crossing’s final ‘major, free’ update](https://www.polygon.com/22757427/animal-crossing-new-horizons-last-free-major-update)
- - [Call of Duty: Vanguard Launch and the Road to Season One](https://news.xbox.com/en-us/2021/11/01/call-of-duty-vanguard-launch-and-the-road-to-season-one/)
- - [Genshin Impact's Cooking Minigame Offers A Cozy Break From Its Roguelike Event](https://kotaku.com/genshin-impacts-cooking-minigame-offers-a-cozy-break-fr-1847974611)<!-- GAME:END -->
+ - [Time is of the Essence in Operation: Tango’s Free Content Update](https://news.xbox.com/en-us/2021/11/01/operation-tango-free-content-update/)
+ - [This new Halo Infinite map reminds me of one of Halo 5's best](https://www.pcgamer.com/this-new-halo-infinite-map-reminds-me-of-one-of-halo-5s-best)
+ - [One of Marvel’s oldest queer couples got back together](https://www.polygon.com/comics/2021/11/1/22757234/marvel-mystique-gay-inferno-wife-destiny)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
