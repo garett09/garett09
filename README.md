@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Call of Duty: Vanguard is less than half the size of Warzone](https://www.pcgamer.com/call-of-duty-vanguard-is-less-than-half-the-size-of-warzone)
- - [Call of Duty: Vanguard’s Zombies won’t have a main quest at launch](https://www.polygon.com/22757946/call-of-duty-vanguard-zombies-main-quest-release-date-season-one)
- - [Easy Far Cry 6 Exploit Totally Eliminates Weapon Recoil](https://kotaku.com/easy-far-cry-6-exploit-totally-eliminates-weapon-recoil-1847976598)<!-- GAME:END -->
+ - [Chris Pratt will voice Garfield in new animated film](https://www.polygon.com/22758096/chris-pratt-garfield-sony-pictures)
+ - [The fantastic-looking Bloodborne demake is launching on PC in January](https://www.pcgamer.com/the-fantastic-looking-bloodborne-demake-is-launching-on-pc-in-january)
+ - [Edwin returns as one of four legendary cards in Hearthstone's The Deadmines](https://www.pcgamer.com/edwin-returns-as-one-of-four-legendary-cards-in-hearthstones-the-deadmines)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
