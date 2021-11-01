@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple TV+ orders travel series hosted by Eugene Levy](https://appleinsider.com/articles/21/11/01/apple-tv-orders-travel-series-hosted-by-eugene-levy?utm_medium=rss)
- - [Chris Pratt, the voice of Mario, will also be voicing Garfield](https://www.theverge.com/2021/11/1/22758214/chris-pratt-garfield-movie-mario)
- - [Apple's Tim Cook to attend NYT's DealBook Summit on Nov. 9](https://appleinsider.com/articles/21/11/01/apples-tim-cook-to-attend-nyts-dealbook-summit-on-nov-9?utm_medium=rss)<!-- TECH:END -->
+ - [Zillow reportedly needs to sell 7,000 houses after it bought too many](https://www.theverge.com/2021/11/1/22758176/zillow-offers-ibuyer-housing-market-inventory-investors-real-estate)
+ - [Beats axes Beats Solo Pro, Powerbeats and Beats EP](https://appleinsider.com/articles/21/11/01/beats-axes-beats-solo-pro-powerbeats-and-beats-ep?utm_medium=rss)
+ - [Beats discontinues several products including Powerbeats, Solo Pro, and Beats EP](https://www.theverge.com/2021/11/1/22758312/apple-discontinues-solo-pro-powerbeats-beats-ep)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
