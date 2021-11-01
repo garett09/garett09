@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube's mistaken deletion of a channel belonging to UK news outlet Novara Media draws criticism over the company's power as a content regulator (Adam Satariano/New York Times)](http://www.techmeme.com/211031/p8#a211031p8)
- - [Roblox is back online after an outage that lasted three days](https://www.theverge.com/2021/10/31/22756186/roblox-back-online-outage-weekend-chipotle)
- - [Succession season 3, episode 3 recap: Salty moves     - CNET](https://www.cnet.com/news/succession-season-3-episode-3-recap-salty-moves/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google Doodle highlights nonbinary Zuni We'wha for Native American Heritage Month     - CNET](https://www.cnet.com/news/google-doodle-highlights-nonbinary-zuni-wewha-for-native-american-heritage-month/#ftag=CAD590a51e)
+ - [Succession season 3, episode 3 recap: Kendall goes too far     - CNET](https://www.cnet.com/news/succession-season-3-episode-3-recap-kendall-goes-too-far/#ftag=CAD590a51e)
+ - [India-based grocery delivery startup Zepto emerges from stealth with $60M from Glade Brook Capital, Nexus, Y Combinator, and others (Manish Singh/TechCrunch)](http://www.techmeme.com/211031/p9#a211031p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
