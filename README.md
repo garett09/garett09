@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Another Guy Who Missed Fire Safety Training...](http://9gag.com/gag/aqGmVqY)
- - 🚯 [After 18 month of tests and exams, I now officially am a train driver!](http://9gag.com/gag/aLvK3Bv)
- - 🚯 [And i love it!](http://9gag.com/gag/aWgZep3)<!-- MEMES:END -->
+ - 🚖 [And i love it!](http://9gag.com/gag/aWgZep3)
+ - 🚯 [&laquo;how do you do, fellow kids?&rdquo; Look at this legend, walking around NYC and reprising his own role as a Halloween costume](http://9gag.com/gag/aAGYq7o)
+ - 🚯 [Another Guy Who Missed Fire Safety Training...](http://9gag.com/gag/aqGmVqY)<!-- MEMES:END -->
 
 --- 
 
