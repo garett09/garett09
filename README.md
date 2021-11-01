@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Compared: M1 vs M1 Pro and M1 Max](https://appleinsider.com/articles/21/10/30/compared-m1-vs-m1-pro-and-m1-max?utm_medium=rss)
- - [A note from our editor-in-chief](https://www.theverge.com/22750900/verge-10-anniversary-nilay-patel-restrospective-future)
- - [Apple AR & VR headset will have Wi-Fi 6, production to begin Q4 2022](https://appleinsider.com/articles/21/11/01/apple-headset-will-have-wi-fi-6-production-to-begin-q4-2022?utm_medium=rss)<!-- TECH:END -->
+ - [Sources: Apple plans a "crash detection" feature next year for iPhones and Watches, which detects car accidents as they occur and auto-dials 911 (Rolfe Winkler/Wall Street Journal)](http://www.techmeme.com/211101/p5#a211101p5)
+ - [Our favorite gadgets of the last 10 years](https://www.theverge.com/22743937/favorite-gadgets-verge-staff-picks-10-years)
+ - [Dear Vergecast fans, thank you](https://www.theverge.com/22734613/vergecast-live-10-year-anniversary)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
