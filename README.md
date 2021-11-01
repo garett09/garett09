@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Man Dressed As The Joker From Batman Arrested After Knife Attack](https://kotaku.com/man-dressed-as-the-joker-from-batman-arrested-after-kni-1847972882)
  - [Fortnite Is Shutting Down Its Service In China](https://kotaku.com/fortnite-is-shutting-down-its-service-in-china-1847972821)
- - [Microsoft And Sega Are Teaming Up For Next-Gen Cloud Gaming](https://kotaku.com/microsoft-and-sega-are-teaming-up-for-next-gen-cloud-ga-1847972816)
- - [PAX South is no longer due to Covid-19 and lack of growth](https://www.pcgamer.com/pax-south-is-no-longer-due-to-covid-19-and-lack-of-growth)<!-- GAME:END -->
+ - [Microsoft And Sega Are Teaming Up For Next-Gen Cloud Gaming](https://kotaku.com/microsoft-and-sega-are-teaming-up-for-next-gen-cloud-ga-1847972816)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
