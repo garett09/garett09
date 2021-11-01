@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ferrari Slip &amp; Slide](http://9gag.com/gag/aQXqBPd)
- - 🚯 [Careful, he&#039;s a hero.](http://9gag.com/gag/aOQqAvr)
- - 🚯 [He&#039;s right](http://9gag.com/gag/amgXbWj)<!-- MEMES:END -->
+ - 🚖 [Commence consumption](http://9gag.com/gag/aLvKNjv)
+ - 🚯 [Ferrari Slip &amp; Slide](http://9gag.com/gag/aQXqBPd)
+ - 🚯 [Careful, he&#039;s a hero.](http://9gag.com/gag/aOQqAvr)<!-- MEMES:END -->
 
 --- 
 
