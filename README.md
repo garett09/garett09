@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Missing iPhone 13 features that we wanted to see on Apple's latest iPhone     - CNET](https://www.cnet.com/tech/mobile/missing-iphone-13-features-that-we-wanted-to-see-on-apples-latest-iphone/#ftag=CAD590a51e)
- - [You told us: Facebook’s notched smartwatch design is a no-go](https://www.androidauthority.com/facebook-smartwatch-notch-poll-results-3049361/)
- - [These are the best rugged phones you can buy right now](https://www.androidauthority.com/best-rugged-phones-789011/)<!-- TECH:END -->
+ - [Dell spins off its 81% stake in VMware, creating a $64B independent software company; Dell's remaining hardware operations have an implied value of $33B (Richard Waters/Financial Times)](http://www.techmeme.com/211101/p2#a211101p2)
+ - [Royole could add a pop-up selfie camera to its next foldable phone](https://www.androidauthority.com/royole-flexpai-3-3049403/)
+ - [Missing iPhone 13 features that we wanted to see on Apple's latest iPhone     - CNET](https://www.cnet.com/tech/mobile/missing-iphone-13-features-that-we-wanted-to-see-on-apples-latest-iphone/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
