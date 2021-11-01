@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Best mullet I&rsquo;ve seen in a while](http://9gag.com/gag/a21NA8D)
- - 🚯 [Answer me Dammit](http://9gag.com/gag/aYrbZMO)
- - 🚯 [I want my coffee hot](http://9gag.com/gag/aKmzX5j)<!-- MEMES:END -->
+ - 🚖 [Another Guy Who Missed Fire Safety Training...](http://9gag.com/gag/aqGmVqY)
+ - 🚯 [After 18 month of tests and exams, I now officially am a train driver!](http://9gag.com/gag/aLvK3Bv)
+ - 🚯 [And i love it!](http://9gag.com/gag/aWgZep3)<!-- MEMES:END -->
 
 --- 
 
