@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This is why you hire a pro.](http://9gag.com/gag/aOQqjb3)
- - 🚯 [Time to prove now, everyone is waiting how it would solve the world hunger](http://9gag.com/gag/aQXqyZq)
+ - 🚖 [I&#039;d climb up in that too](http://9gag.com/gag/arnpz6d)
+ - 🚯 [This is why you hire a pro.](http://9gag.com/gag/aOQqjb3)
  - 🚯 [It&#039;s HALLOWEEN time! Join Poppy the Booty Shakin&#039; Pug and shake it off together.](http://9gag.com/gag/aXrb2m6)<!-- MEMES:END -->
 
 --- 
