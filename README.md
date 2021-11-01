@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Far Cry 6: All Paint the Town statue locations](https://www.pcgamer.com/far-cry-6-paint-the-town-statue-locations)
- - [Far Cry 6: Should you spare or kill McKay?](https://www.pcgamer.com/far-cry-6-kill-spare-mckay)
- - [PlayStation Now games for November: Mafia: Definitive Edition, Celeste, Final Fantasy IX, Totally Reliable Delivery Service](http://feedproxy.google.com/~r/PSBlog/~3/xt9lbdpRTQo/)<!-- GAME:END -->
+ - [New Horizons 2.0 update is Animal Crossing’s final ‘major, free’ update](https://www.polygon.com/22757427/animal-crossing-new-horizons-last-free-major-update)
+ - [Call of Duty: Vanguard Launch and the Road to Season One](https://news.xbox.com/en-us/2021/11/01/call-of-duty-vanguard-launch-and-the-road-to-season-one/)
+ - [Genshin Impact's Cooking Minigame Offers A Cozy Break From Its Roguelike Event](https://kotaku.com/genshin-impacts-cooking-minigame-offers-a-cozy-break-fr-1847974611)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
