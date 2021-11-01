@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Five new Steam games you probably missed (November 1, 2021)](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-november-1-2021)
- - [The Week In Games: Dance Like Nobody's Watching](https://kotaku.com/the-week-in-games-dance-like-nobodys-watching-1847971914)
- - [Age of Empires 4 had almost 74,000 concurrent players on Steam for its opening weekend](https://www.pcgamer.com/age-of-empires-4-had-almost-74000-concurrent-players-on-steam-for-its-opening-weekend)<!-- GAME:END -->
+ - [Dusk update brings console features to the PC version](https://www.pcgamer.com/dusk-update-brings-console-features-to-the-pc-version)
+ - [New World Bug Let You Kick Other Players Just By Chatting With Them](https://kotaku.com/new-world-bug-let-you-kick-other-players-just-by-chatti-1847972062)
+ - [Five new Steam games you probably missed (November 1, 2021)](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-november-1-2021)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
