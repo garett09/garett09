@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [&#039;The Turning Point&#039; is a thought-provoking animated film by Steve Cutts, exploring the destruction of the environment, climate change, and species extinction.](http://9gag.com/gag/a51dxjo)
- - 🚯 [Commence consumption](http://9gag.com/gag/aLvKNjv)
+ - 🚖 [It&#039;s going to be a long month...](http://9gag.com/gag/aBnKN61)
+ - 🚯 [Worst moment](http://9gag.com/gag/aE8wQmn)
  - 🚯 [It&#039;s HALLOWEEN time! Join Poppy the Booty Shakin&#039; Pug and shake it off together.](http://9gag.com/gag/aXrb2m6)<!-- MEMES:END -->
 
 --- 
