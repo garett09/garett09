@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [US Treasury says stablecoins should be regulated like banks](https://www.theverge.com/2021/11/1/22757899/us-treasury-stablecoins-regulated-banks-cryptocurrency-yellen-congress)
- - [Apple AR headset will wirelessly connect to iPhone, production in late 2022](https://appleinsider.com/articles/21/11/01/apple-headset-will-have-wi-fi-6-production-to-begin-q4-2022?utm_medium=rss)
- - [The 29 Best Early Black Friday Deals at Best Buy](https://www.wired.com/story/best-buy-early-black-friday-deals-2021)<!-- TECH:END -->
+ - [Apple TV+ orders travel series hosted by Eugene Levy](https://appleinsider.com/articles/21/11/01/apple-tv-orders-travel-series-hosted-by-eugene-levy?utm_medium=rss)
+ - [Chris Pratt, the voice of Mario, will also be voicing Garfield](https://www.theverge.com/2021/11/1/22758214/chris-pratt-garfield-movie-mario)
+ - [Apple's Tim Cook to attend NYT's DealBook Summit on Nov. 9](https://appleinsider.com/articles/21/11/01/apples-tim-cook-to-attend-nyts-dealbook-summit-on-nov-9?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
