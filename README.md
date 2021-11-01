@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Apple plans a "crash detection" feature next year for iPhones and Watches, which detects car accidents as they occur and auto-dials 911 (Rolfe Winkler/Wall Street Journal)](http://www.techmeme.com/211101/p5#a211101p5)
- - [Our favorite gadgets of the last 10 years](https://www.theverge.com/22743937/favorite-gadgets-verge-staff-picks-10-years)
- - [Dear Vergecast fans, thank you](https://www.theverge.com/22734613/vergecast-live-10-year-anniversary)<!-- TECH:END -->
+ - [Early Black Friday deals hit Apple's 2021 14-inch and 16-inch MacBook Pro, AppleCare savings](https://appleinsider.com/articles/21/10/27/early-black-friday-deals-hit-apples-2021-14-inch-and-16-inch-macbook-pro?utm_medium=rss)
+ - [Social media vs. the world](https://www.theverge.com/22733079/online-speech-moderation-facebook-platform-politics)
+ - [Canada's Rogers set iPhone clocks back one hour, a week early](https://appleinsider.com/articles/21/11/01/canadas-rogers-set-iphone-clocks-back-one-hour-a-week-early?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
