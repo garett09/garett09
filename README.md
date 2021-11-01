@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Players’ Choice: Vote for October 2021’s best new game](http://feedproxy.google.com/~r/PSBlog/~3/5SaZAJ4wDEQ/)
- - [Players’ Choice: Vote for October 2021’s best new game](https://blog.playstation.com/2021/11/01/players-choice-vote-for-october-2021s-best-new-game/)
- - [October Was a Great Month for PC: Back 4 Blood, Age of Empires IV, Windows 11, and More](https://news.xbox.com/en-us/2021/11/01/game-pass-for-pc-october-2021-recap/)<!-- GAME:END -->
+ - [Far Cry 6: All Paint the Town statue locations](https://www.pcgamer.com/far-cry-6-paint-the-town-statue-locations)
+ - [Far Cry 6: Should you spare or kill McKay?](https://www.pcgamer.com/far-cry-6-kill-spare-mckay)
+ - [PlayStation Now games for November: Mafia: Definitive Edition, Celeste, Final Fantasy IX, Totally Reliable Delivery Service](http://feedproxy.google.com/~r/PSBlog/~3/xt9lbdpRTQo/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
