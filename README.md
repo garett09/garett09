@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [GTA III turns 20: Memories from PlayStation Studios and other top developers](http://feedproxy.google.com/~r/PSBlog/~3/mynkeOWgZTs/)
- - [GTA III turns 20: Memories from PlayStation Studios and other top developers](https://blog.playstation.com/2021/11/02/gta-iii-turns-20-memories-from-playstation-studios-and-other-top-developers/)
- - [League of Legends characters come to PUBG Mobile, thanks to Netflix’s Arcane](https://www.polygon.com/22757692/league-of-legends-arcane-netflix-pubg-mobile)<!-- GAME:END -->
+ - [Twitch Creates Category Dedicated To Streams Of Cute Animals](https://kotaku.com/twitch-dedicates-category-just-for-streaming-cute-anima-1847981959)
+ - [Players are accidentally triggering New World's latest gold duplication exploit](https://www.pcgamer.com/players-are-accidentally-triggering-new-worlds-latest-gold-duplication-exploit)
+ - [Say goodbye to your mortal shell with this gorgeous, ghostly puzzle game](https://www.pcgamer.com/say-goodbye-to-your-mortal-shell-with-this-gorgeous-ghostly-puzzle-game)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
