@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Belgium= *shuts down nuclear plants and replaces them with gas plants](http://9gag.com/gag/a81WgA6)
+ - 🚖 [It&#039;s mostly true](http://9gag.com/gag/ay95wGX)
  - 🚯 [After you](http://9gag.com/gag/a414OKv)
- - 🚯 [Why?](http://9gag.com/gag/aWgZ3W4)<!-- MEMES:END -->
+ - 🚯 [This scene from JoJo Rabbit](http://9gag.com/gag/adgNzKQ)<!-- MEMES:END -->
 
 --- 
 
