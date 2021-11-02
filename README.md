@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Reward: the other hole](http://9gag.com/gag/apgqw1n)
- - 🚯 [This scene from JoJo Rabbit](http://9gag.com/gag/adgNzKQ)
- - 🚯 [Beautiful Blue Snake!](http://9gag.com/gag/aVxO5P2)<!-- MEMES:END -->
+ - 🚖 [Awful reality! Awful negativity!](http://9gag.com/gag/aggyw9W)
+ - 🚯 [This ad from Austria for COP26 (not an ad)](http://9gag.com/gag/arnpwKK)
+ - 🚯 [Part-time job goal](http://9gag.com/gag/angYo5o)<!-- MEMES:END -->
 
 --- 
 
