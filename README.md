@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Beats Fit Pro launched: Apple AirPods Pro in a sportier skin?](https://www.androidauthority.com/beats-fit-pro-3050174/)
- - [Researchers discover a Unicode security vulnerability that affects most code compilers, including for Go, C++, C#, JavaScript, Java, Rust, and Python (Brian Krebs/Krebs on Security)](http://www.techmeme.com/211102/p12#a211102p12)
- - [Best air fryer to buy in 2021: Ninja, Dash, Gourmia and more     - CNET](https://www.cnet.com/home/kitchen-and-household/best-air-fryer/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best coffee maker for 2021     - CNET](https://www.cnet.com/home/kitchen-and-household/best-coffee-maker/#ftag=CAD590a51e)
+ - [Best gas grills of 2021     - CNET](https://www.cnet.com/home/yard-and-outdoors/best-gas-grill/#ftag=CAD590a51e)
+ - [Beats Fit Pro launched: Apple AirPods Pro in a sportier skin?](https://www.androidauthority.com/beats-fit-pro-3050174/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
