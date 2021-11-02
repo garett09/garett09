@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Coconut the Gator](http://9gag.com/gag/ajgrjMG)
- - 🚯 [Can&#039;t argue with that](http://9gag.com/gag/ay95rR8)
- - 🚯 [BLM strikes again](http://9gag.com/gag/aBnKzvx)<!-- MEMES:END -->
+ - 🚖 [Drones over Mexico for Dia de los muertos](http://9gag.com/gag/apgq7y5)
+ - 🚯 [Aliens arrival to Mexico](http://9gag.com/gag/aVxOr9d)
+ - 🚯 [Can&#039;t argue with that](http://9gag.com/gag/ay95rR8)<!-- MEMES:END -->
 
 --- 
 
