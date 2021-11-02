@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best Secretlab gaming chair deals: treat yourself to a gaming throne ahead of Black Friday](https://www.pcgamer.com/secretlab-black-friday-deals-2021)
- - [The Morbius trailer gives Jared Leto vampire teeth and Venom jokes](https://www.polygon.com/22758099/morbius-trailer-release-jared-leto)
- - [Guardians of the Galaxy: Should you hide the llama or the tech?](https://www.pcgamer.com/guardians-of-the-galaxy-hide-llama-tech)<!-- GAME:END -->
+ - [GTA III turns 20: Memories from PlayStation Studios and other top developers](http://feedproxy.google.com/~r/PSBlog/~3/mynkeOWgZTs/)
+ - [GTA III turns 20: Memories from PlayStation Studios and other top developers](https://blog.playstation.com/2021/11/02/gta-iii-turns-20-memories-from-playstation-studios-and-other-top-developers/)
+ - [League of Legends characters come to PUBG Mobile, thanks to Netflix’s Arcane](https://www.polygon.com/22757692/league-of-legends-arcane-netflix-pubg-mobile)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
