@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [NHTSA says Tesla is recalling nearly 12K cars after finding an update to its "Full Self-Driving" system led to "inadvertent activation" of emergency braking (CNBC)](http://www.techmeme.com/211102/p18#a211102p18)
- - [The Bowers & Wilkins Zeppelin Is the Comeback King](https://www.wired.com/review/bowers-and-wilkins-zeppelin)
- - [Climate-Driven Extinction Made Mammals' Teeth Less Weird](https://www.wired.com/story/climate-driven-extinction-made-mammals-teeth-less-weird)<!-- TECH:END -->
+ - [Zoom says it is testing showing ads to free users; the ads appear on the browser page shown to users at the end of a call (Jon Porter/The Verge)](http://www.techmeme.com/211102/p20#a211102p20)
+ - [How to increase text size in macOS Monterey](https://appleinsider.com/articles/21/11/02/how-to-increase-text-size-in-macos-monterey?utm_medium=rss)
+ - [Grab the Asus ROG Zephyrus G15 for its lowest price ever at Best Buy](https://www.theverge.com/good-deals/2021/11/2/22757246/asus-zephyrus-g15-msi-gaming-laptop-xbox-game-pass-microsoft-deal-sale)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
