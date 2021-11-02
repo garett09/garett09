@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Nintendo will only be able to produce ~24M units of Switch game console in FY 2021 due to chip shortages, 20% below its original plan of 30M (Nikkei Asia)](http://www.techmeme.com/211102/p14#a211102p14)
- - [Permutive, whose ad platform allows publishers to deliver personalized ads in a privacy-safe manner, raises a $75M Series C led by SoftBank Vision Fund 2 (Dan Taylor/Tech.eu)](http://www.techmeme.com/211102/p13#a211102p13)
- - [Apple could siphon iPad chips to service sizeable iPhone 13 demand](https://www.androidauthority.com/apple-iphone-13-ipad-production-3050237/)<!-- TECH:END -->
+ - [With Spotify on pace to cross $1B in ad sales this year, a look at its growing ambitions in advertising and its plans to become the YouTube of podcasting (Lucas Shaw/Bloomberg)](http://www.techmeme.com/211102/p16#a211102p16)
+ - [To Make an Eco-Friendly EV Battery, Think From the Inside Out](https://www.wired.com/story/make-eco-friendly-ev-battery-think-inside-out)
+ - [Cars Are Going Electric. What Happens to the Used Batteries?](https://www.wired.com/story/cars-going-electric-what-happens-used-batteries)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
