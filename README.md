@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The aftermath of a normal horse nosebleed in a vet&#039;s office.](http://9gag.com/gag/aYrb3ox)
- - 🚯 [Can&#039;t they just teleport or something ffs](http://9gag.com/gag/aE8w4yM)
- - 🚯 [Light Is dear](http://9gag.com/gag/a81WR7Y)<!-- MEMES:END -->
+ - 🚖 [Dream for gamer girls](http://9gag.com/gag/ay95jXM)
+ - 🚯 [A rough beginning we&#039;ve all been through...](http://9gag.com/gag/azebWZN)
+ - 🚯 [Didya do your chores?](http://9gag.com/gag/aAGY8rd)<!-- MEMES:END -->
 
 --- 
 
