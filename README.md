@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple TV+ signs first-look deal with former ESPN president and network contributor](https://appleinsider.com/articles/21/11/02/apple-tv-signs-first-look-deal-with-former-espn-president-and-network-contributor?utm_medium=rss)
- - [Apple upgrades repair loaners from iPhone 8 to iPhone XR](https://appleinsider.com/articles/21/11/01/apple-upgrades-repair-loaners-from-iphone-8-to-iphone-xr?utm_medium=rss)
- - [Apple's Tim Cook to attend NYT's DealBook Summit on Nov. 9](https://appleinsider.com/articles/21/11/01/apples-tim-cook-to-attend-nyts-dealbook-summit-on-nov-9?utm_medium=rss)<!-- TECH:END -->
+ - [Tim Cook speaks at Silicon Slopes Summit in Utah, receives fry sauce souvenir](https://appleinsider.com/articles/21/11/02/tim-cook-speaks-at-silicon-slopes-summit-in-utah-receives-fry-sauce-souvenir?utm_medium=rss)
+ - [Kuaishou's CEO Su Hua is stepping down, will remain chairman of the short-form video company; fellow co-founder Cheng Yixiao will be the new CEO (Zheping Huang/Bloomberg)](http://www.techmeme.com/211101/p24#a211101p24)
+ - [The best early Black Friday smartwatch deals](https://www.androidauthority.com/best-smartwatch-deals-1107833/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
