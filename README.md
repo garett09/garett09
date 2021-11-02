@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Why?](http://9gag.com/gag/aWgZ3W4)
- - 🚯 [Didya do your chores?](http://9gag.com/gag/aAGY8rd)
- - 🚯 [End of Jedi?](http://9gag.com/gag/aOQqLoy)<!-- MEMES:END -->
+ - 🚖 [The aftermath of a normal horse nosebleed in a vet&#039;s office.](http://9gag.com/gag/aYrb3ox)
+ - 🚯 [Can&#039;t they just teleport or something ffs](http://9gag.com/gag/aE8w4yM)
+ - 🚯 [Light Is dear](http://9gag.com/gag/a81WR7Y)<!-- MEMES:END -->
 
 --- 
 
