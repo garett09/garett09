@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Drones over Mexico for Dia de los muertos](http://9gag.com/gag/apgq7y5)
- - 🚯 [Aliens arrival to Mexico](http://9gag.com/gag/aVxOr9d)
- - 🚯 [Can&#039;t argue with that](http://9gag.com/gag/ay95rR8)<!-- MEMES:END -->
+ - 🚖 [The incredibly hypnotizing sound of the zanfona](http://9gag.com/gag/adgNw82)
+ - 🚯 [Helping zebrashark eggs to hatch! @sanantonio_aquarium](http://9gag.com/gag/axBNKOM)
+ - 🚯 [Reward: the other hole](http://9gag.com/gag/apgqw1n)<!-- MEMES:END -->
 
 --- 
 
