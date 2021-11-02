@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It&#039;s mostly true](http://9gag.com/gag/ay95wGX)
- - 🚯 [After you](http://9gag.com/gag/a414OKv)
- - 🚯 [This scene from JoJo Rabbit](http://9gag.com/gag/adgNzKQ)<!-- MEMES:END -->
+ - 🚖 [Priorities...](http://9gag.com/gag/a414O5w)
+ - 🚯 [This scene from JoJo Rabbit](http://9gag.com/gag/adgNzKQ)
+ - 🚯 [After you](http://9gag.com/gag/a414OKv)<!-- MEMES:END -->
 
 --- 
 
