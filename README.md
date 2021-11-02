@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The incredibly hypnotizing sound of the zanfona](http://9gag.com/gag/adgNw82)
- - 🚯 [Awful reality! Awful negativity!](http://9gag.com/gag/aggyw9W)
- - 🚯 [Reward: the other hole](http://9gag.com/gag/apgqw1n)<!-- MEMES:END -->
+ - 🚖 [Reward: the other hole](http://9gag.com/gag/apgqw1n)
+ - 🚯 [This scene from JoJo Rabbit](http://9gag.com/gag/adgNzKQ)
+ - 🚯 [Beautiful Blue Snake!](http://9gag.com/gag/aVxO5P2)<!-- MEMES:END -->
 
 --- 
 
