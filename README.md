@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chilean fintech startup Fintual raises a $39M Series B led by Sequoia, says it manages $665M in assets for 70,000+ clients through passive investments like ETFs (Eduardo Thomson/Bloomberg)](http://www.techmeme.com/211102/p34#a211102p34)
- - [Nintendo is reportedly making 20 percent fewer Switches due to the chip shortage](https://www.theverge.com/2021/11/2/22759377/nintendo-making-20-percent-fewer-switches-chip-shortage)
- - [Harry Potter: Wizards Unite is shutting down next year](https://www.theverge.com/2021/11/2/22759677/harry-potter-wizards-unite-shutting-down-january-2022-niantic-ar)<!-- TECH:END -->
+ - [Apple joins First Movers Coalition to cut carbon emissions](https://appleinsider.com/articles/21/11/02/apple-joins-first-movers-coalition-to-cut-carbon-emissions?utm_medium=rss)
+ - [The latest Oculus Quest update will help to prevent accidental dog punching](https://www.theverge.com/2021/11/2/22759688/oculus-quest-2-vr-headset-meta-space-sense-passthrough-guardine-software-update)
+ - [How a Squid Game Crypto Scam Got Away With Millions](https://www.wired.com/story/squid-game-coin-crypto-scam)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
