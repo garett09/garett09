@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A Moray Eel and Diver Who Have Been Friends for Years](http://9gag.com/gag/amgXQ0v)
- - 🚯 [Amen !!](http://9gag.com/gag/avA0q3b)
- - 🚯 [After 18 month of tests and exams, I now officially am a train driver!](http://9gag.com/gag/aLvK3Bv)<!-- MEMES:END -->
+ - 🚖 [Coconut the Gator](http://9gag.com/gag/ajgrjMG)
+ - 🚯 [Can&#039;t argue with that](http://9gag.com/gag/ay95rR8)
+ - 🚯 [BLM strikes again](http://9gag.com/gag/aBnKzvx)<!-- MEMES:END -->
 
 --- 
 
