@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Memories...](http://9gag.com/gag/aYrb6p0)
- - 🚯 [Getting Past Russian Immigration](http://9gag.com/gag/angY3GL)
- - 🚯 [I want my coffee hot](http://9gag.com/gag/aKmzX5j)<!-- MEMES:END -->
+ - 🚖 [Helping zebrashark eggs to hatch! @sanantonio_aquarium](http://9gag.com/gag/axBNKOM)
+ - 🚯 [A Moray Eel and Diver Who Have Been Friends for Years](http://9gag.com/gag/amgXQ0v)
+ - 🚯 [Another Guy Who Missed Fire Safety Training...](http://9gag.com/gag/aqGmVqY)<!-- MEMES:END -->
 
 --- 
 
