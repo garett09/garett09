@@ -194,8 +194,8 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Priorities...](http://9gag.com/gag/a414O5w)
- - 🚯 [This scene from JoJo Rabbit](http://9gag.com/gag/adgNzKQ)
- - 🚯 [After you](http://9gag.com/gag/a414OKv)<!-- MEMES:END -->
+ - 🚯 [It&#039;s something....-laugh-](http://9gag.com/gag/aGz9456)
+ - 🚯 [Why?](http://9gag.com/gag/aWgZ3W4)<!-- MEMES:END -->
 
 --- 
 
