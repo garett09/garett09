@@ -193,7 +193,7 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Wrong firmware can get your car bricked](http://9gag.com/gag/amgXOoV)
+ - 🚖 [Damn](http://9gag.com/gag/aBnKMqN)
  - 🚯 [The power of plastic surgery](http://9gag.com/gag/ajgrjZp)
  - 🚯 [Getting Past Russian Immigration](http://9gag.com/gag/angY3GL)<!-- MEMES:END -->
 
