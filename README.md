@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Dream for gamer girls](http://9gag.com/gag/ay95jXM)
+ - 🚖 [Hard Potato](http://9gag.com/gag/aegNnzp)
  - 🚯 [A rough beginning we&#039;ve all been through...](http://9gag.com/gag/azebWZN)
- - 🚯 [Didya do your chores?](http://9gag.com/gag/aAGY8rd)<!-- MEMES:END -->
+ - 🚯 [Indeed](http://9gag.com/gag/azebpzp)<!-- MEMES:END -->
 
 --- 
 
