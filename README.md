@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta plans to shut down Facebook's decade-old facial recognition system this month, deleting the face scan data of 1B+ users following legal and regulatory woes (New York Times)](http://www.techmeme.com/211102/p32#a211102p32)
- - [Dropbox is adding folders that will automatically organize for you](https://www.theverge.com/2021/11/2/22758519/dropbox-automated-folder-organization-file-rename)
- - [With Android 12L, Google must lead by example](https://www.androidauthority.com/google-android-12l-3048842/)<!-- TECH:END -->
+ - [Chilean fintech startup Fintual raises a $39M Series B led by Sequoia, says it manages $665M in assets for 70,000+ clients through passive investments like ETFs (Eduardo Thomson/Bloomberg)](http://www.techmeme.com/211102/p34#a211102p34)
+ - [Nintendo is reportedly making 20 percent fewer Switches due to the chip shortage](https://www.theverge.com/2021/11/2/22759377/nintendo-making-20-percent-fewer-switches-chip-shortage)
+ - [Harry Potter: Wizards Unite is shutting down next year](https://www.theverge.com/2021/11/2/22759677/harry-potter-wizards-unite-shutting-down-january-2022-niantic-ar)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
