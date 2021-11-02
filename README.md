@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [And Now Some Ramen Collab Sneakers](https://kotaku.com/and-now-some-ramen-collab-sneakers-1847980199)
  - [Japan's Gundam Cafés Will All Close Down](https://kotaku.com/japans-gundam-cafes-will-all-close-down-1847980155)
- - [New World Disables 'All Forms Of Wealth Transfers' After Gold Exploit Found](https://kotaku.com/new-world-disables-all-forms-of-wealth-transfers-after-1847978883)
- - [Why Super Robot Wars 30 is a big deal for strategy RPG fans worldwide](https://www.pcgamer.com/why-super-robot-wars-30-is-a-big-deal-for-strategy-rpg-fans-worldwide)<!-- GAME:END -->
+ - [New World Disables 'All Forms Of Wealth Transfers' After Gold Exploit Found](https://kotaku.com/new-world-disables-all-forms-of-wealth-transfers-after-1847978883)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
