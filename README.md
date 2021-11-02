@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft Edge for Linux is now available for all users, supporting multiple distributions including Ubuntu, Debian, Fedora, and openSUSE (Mary Jo Foley/ZDNet)](http://www.techmeme.com/211102/p29#a211102p29)
- - [Microsoft will invite select businesses to use GPT-3 as an Azure tool; Open AI will continue selling its own API for GPT-3 that offers the latest upgrades (James Vincent/The Verge)](http://www.techmeme.com/211102/p28#a211102p28)
- - [Microsoft will integrate its recently acquired video editing web app Clipchamp into Office apps and adds an audio "recording studio" to PowerPoint (Jon Fingas/Engadget)](http://www.techmeme.com/211102/p27#a211102p27)<!-- TECH:END -->
+ - [Meta plans to shut down Facebook's decade-old facial recognition system this month, deleting the face scan data of 1B+ users following legal and regulatory woes (New York Times)](http://www.techmeme.com/211102/p32#a211102p32)
+ - [Dropbox is adding folders that will automatically organize for you](https://www.theverge.com/2021/11/2/22758519/dropbox-automated-folder-organization-file-rename)
+ - [With Android 12L, Google must lead by example](https://www.androidauthority.com/google-android-12l-3048842/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
