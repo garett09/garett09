@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [LG extends three-month Apple TV+ trial to Smart TV owners](https://appleinsider.com/articles/21/11/02/lg-extends-three-month-apple-tv-trial-to-smart-tv-owners?utm_medium=rss)
- - [Globe Telecom's Mynt, which operates mobile wallet app GCash, becomes the first tech unicorn in the Philippines after raising over $300M at a $2B+ valuation (Mars W. Mosqueda Jr/DealStreetAsia)](http://www.techmeme.com/211101/p25#a211101p25)
- - [Best wireless Bluetooth boom box for 2021     - CNET](https://www.cnet.com/tech/home-entertainment/best-wireless-bluetooth-boombox/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [India-based neobank Fi, which focuses on young working professionals, raises a $50M Series B led by B Capital at a $315M valuation, up 7x from last year (The Economic Times)](http://www.techmeme.com/211102/p3#a211102p3)
+ - [Tim Cook speaks at Silicon Slopes Summit in Utah, receives fry sauce souvenir](https://appleinsider.com/articles/21/11/02/tim-cook-speaks-at-silicon-slopes-summit-in-utah-receives-fry-sauce-souvenir?utm_medium=rss)
+ - [LG extends three-month Apple TV+ trial to Smart TV owners](https://appleinsider.com/articles/21/11/02/lg-extends-three-month-apple-tv-trial-to-smart-tv-owners?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
