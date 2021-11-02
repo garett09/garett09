@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Netflix’s You has the best narrator on television](https://www.polygon.com/features/22760188/netflixs-you-season-3-narrator)
- - [Squid Game cryptocurrency scammers vanish with $3.3M](https://www.pcgamer.com/squid-game-cryptocurrency-scammers-vanish-with-dollar33m)
- - [So what is Skyrim Anniversary Edition and what's actually in it?](https://www.pcgamer.com/so-what-is-skyrim-anniversary-edition-and-what-does-it-actually-include)<!-- GAME:END -->
+ - [Incredible Mod Lets You Fight Crusader Kings III's Battles Yourself](https://kotaku.com/incredible-mod-lets-you-fight-crusader-kings-iiis-battl-1847985997)
+ - [When does Animal Crossing: New Horizons’ 2.0 update go live?](https://www.polygon.com/22752668/animal-crossing-new-horizons-2-0-update-release-date-time-dlc)
+ - [Bowser faces 10 years in jail, $4.5 million in damages in Nintendo piracy case](https://www.pcgamer.com/bowser-faces-10-years-in-jail-and-dollar45-million-in-damages-in-nintendo-piracy-case)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
