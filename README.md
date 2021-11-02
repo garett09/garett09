@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Awful reality! Awful negativity!](http://9gag.com/gag/aggyw9W)
- - 🚯 [This ad from Austria for COP26 (not an ad)](http://9gag.com/gag/arnpwKK)
- - 🚯 [Part-time job goal](http://9gag.com/gag/angYo5o)<!-- MEMES:END -->
+ - 🚖 [Belgium= *shuts down nuclear plants and replaces them with gas plants](http://9gag.com/gag/a81WgA6)
+ - 🚯 [Part-time job goal](http://9gag.com/gag/angYo5o)
+ - 🚯 [The last 30+ years](http://9gag.com/gag/aXrb1yg)<!-- MEMES:END -->
 
 --- 
 
