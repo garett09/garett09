@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Today I passed my flight test. I&lsquo;m now a private pilot](http://9gag.com/gag/a31YzL1)
- - 🚯 [Wrong firmware can get your car bricked](http://9gag.com/gag/amgXOoV)
- - 🚯 [&laquo;how do you do, fellow kids?&rdquo; Look at this legend, walking around NYC and reprising his own role as a Halloween costume](http://9gag.com/gag/aAGYq7o)<!-- MEMES:END -->
+ - 🚖 [Wrong firmware can get your car bricked](http://9gag.com/gag/amgXOoV)
+ - 🚯 [The power of plastic surgery](http://9gag.com/gag/ajgrjZp)
+ - 🚯 [Getting Past Russian Immigration](http://9gag.com/gag/angY3GL)<!-- MEMES:END -->
 
 --- 
 
