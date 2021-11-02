@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Priorities...](http://9gag.com/gag/a414O5w)
- - 🚯 [It&#039;s something....-laugh-](http://9gag.com/gag/aGz9456)
- - 🚯 [Why?](http://9gag.com/gag/aWgZ3W4)<!-- MEMES:END -->
+ - 🚖 [Why?](http://9gag.com/gag/aWgZ3W4)
+ - 🚯 [Didya do your chores?](http://9gag.com/gag/aAGY8rd)
+ - 🚯 [End of Jedi?](http://9gag.com/gag/aOQqLoy)<!-- MEMES:END -->
 
 --- 
 
