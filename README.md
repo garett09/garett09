@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Upcoming Steam Deck Q&A might teach us a few more things before launch](https://www.pcgamer.com/upcoming-steam-deck-qanda-might-teach-us-a-few-more-things-before-launch)
- - [Xbox Game Pass for PC has an impressive November line-up](https://www.pcgamer.com/xbox-game-pass-for-pc-has-an-impressive-november-line-up)
- - [Stardew Valley: The Board Game goes back on sale on this week](https://www.pcgamer.com/stardew-valley-the-board-game-goes-back-on-sale-on-this-week)<!-- GAME:END -->
+ - [Why Super Robot Wars 30 is a big deal for strategy RPG fans worldwide](https://www.pcgamer.com/why-super-robot-wars-30-is-a-big-deal-for-strategy-rpg-fans-worldwide)
+ - [Xbox Game Pass for PC offer lets you play Halo Infinite and Forza Horizon 5 for AU$1](https://www.pcgamer.com/xbox-game-pass-for-pc-offer-lets-you-play-halo-infinite-and-forza-horizon-5-for-audollar1)
+ - [Age Of Empires IV's Fancy Cutscenes Are A Wonder](https://kotaku.com/age-of-empires-ivs-fancy-cutscenes-are-a-wonder-1847978611)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
