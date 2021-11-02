@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [And Now Some Ramen Collab Sneakers](https://kotaku.com/and-now-some-ramen-collab-sneakers-1847980199)
- - [Japan's Gundam Cafés Will All Close Down](https://kotaku.com/japans-gundam-cafes-will-all-close-down-1847980155)
- - [New World Disables 'All Forms Of Wealth Transfers' After Gold Exploit Found](https://kotaku.com/new-world-disables-all-forms-of-wealth-transfers-after-1847978883)<!-- GAME:END -->
+ - [With 180 million players, League of Legends games have more active users than Steam](https://www.pcgamer.com/with-180-million-players-league-of-legends-games-have-more-active-users-than-steam)
+ - [Everything we know about the GTA Trilogy](https://www.pcgamer.com/gta-trilogy-remastered-release-date)
+ - [Skyrim board game will include a prequel to the classic video game](https://www.polygon.com/tabletop-games/22757411/skyrim-board-game-campaign-price-release-date)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
