@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk says Tesla hasn't signed contract with Hertz for 100,000 EVs     - Roadshow](https://www.cnet.com/roadshow/news/elon-musk-says-tesla-hasnt-signed-contract-with-hertz-for-100000-evs/#ftag=CAD590a51e)
- - [Paramount Plus: What to know to stream UEFA here (but not Yellowstone)     - CNET](https://www.cnet.com/tech/services-and-software/paramount-plus-what-to-know-to-stream-uefa-here-but-not-yellowstone/#ftag=CAD590a51e)
- - [InfinityLab InstantGo power bank review: Reduce, reuse, recharge](https://www.androidauthority.com/infinitylab-instantgo-power-bank-review-3040382/)<!-- TECH:END -->
+ - [Microsoft Edge for Linux is now available for all users, supporting multiple distributions including Ubuntu, Debian, Fedora, and openSUSE (Mary Jo Foley/ZDNet)](http://www.techmeme.com/211102/p29#a211102p29)
+ - [Microsoft will invite select businesses to use GPT-3 as an Azure tool; Open AI will continue selling its own API for GPT-3 that offers the latest upgrades (James Vincent/The Verge)](http://www.techmeme.com/211102/p28#a211102p28)
+ - [Microsoft will integrate its recently acquired video editing web app Clipchamp into Office apps and adds an audio "recording studio" to PowerPoint (Jon Fingas/Engadget)](http://www.techmeme.com/211102/p27#a211102p27)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
