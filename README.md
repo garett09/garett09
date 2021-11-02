@@ -187,8 +187,8 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- TECH:START -->
  - [Tim Cook speaks at Silicon Slopes Summit in Utah, receives fry sauce souvenir](https://appleinsider.com/articles/21/11/02/tim-cook-speaks-at-silicon-slopes-summit-in-utah-receives-fry-sauce-souvenir?utm_medium=rss)
- - [Kuaishou's CEO Su Hua is stepping down, will remain chairman of the short-form video company; fellow co-founder Cheng Yixiao will be the new CEO (Zheping Huang/Bloomberg)](http://www.techmeme.com/211101/p24#a211101p24)
- - [The best early Black Friday smartwatch deals](https://www.androidauthority.com/best-smartwatch-deals-1107833/)<!-- TECH:END -->
+ - [NordVPN review: An encryption powerhouse with the biggest VPN bang for your buck     - CNET](https://www.cnet.com/tech/services-and-software/nordvpn-review/#ftag=CAD590a51e)
+ - [Best air compressors for 2021     - Roadshow](https://www.cnet.com/roadshow/news/best-air-compressor/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
