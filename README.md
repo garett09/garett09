@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Morbius has ‘some form of bat radar’ in the first trailer in two years](https://www.theverge.com/2021/11/2/22759140/morbius-jared-leto-sony-spider-man-spinoff-trailer-vampire)
- - [Best Deals Nov. 2: $259 Samsung monitor, Amazon tablet sale, more!](https://appleinsider.com/articles/21/11/02/best-deals-nov-2-259-samsung-monitor-amazon-tablet-sale-more?utm_medium=rss)
- - [How to find the best deals during Black Friday and Cyber Monday 2021](https://www.theverge.com/21587765/black-friday-cyber-monday-best-deals-how-to-find)<!-- TECH:END -->
+ - [Elon Musk says Tesla hasn't signed contract with Hertz for 100,000 EVs     - Roadshow](https://www.cnet.com/roadshow/news/elon-musk-says-tesla-hasnt-signed-contract-with-hertz-for-100000-evs/#ftag=CAD590a51e)
+ - [Paramount Plus: What to know to stream UEFA here (but not Yellowstone)     - CNET](https://www.cnet.com/tech/services-and-software/paramount-plus-what-to-know-to-stream-uefa-here-but-not-yellowstone/#ftag=CAD590a51e)
+ - [InfinityLab InstantGo power bank review: Reduce, reuse, recharge](https://www.androidauthority.com/infinitylab-instantgo-power-bank-review-3040382/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
