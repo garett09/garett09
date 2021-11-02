@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [India-based neobank Fi, which focuses on young working professionals, raises a $50M Series B led by B Capital at a $315M valuation, up 7x from last year (The Economic Times)](http://www.techmeme.com/211102/p3#a211102p3)
- - [Tim Cook speaks at Silicon Slopes Summit in Utah, receives fry sauce souvenir](https://appleinsider.com/articles/21/11/02/tim-cook-speaks-at-silicon-slopes-summit-in-utah-receives-fry-sauce-souvenir?utm_medium=rss)
- - [LG extends three-month Apple TV+ trial to Smart TV owners](https://appleinsider.com/articles/21/11/02/lg-extends-three-month-apple-tv-trial-to-smart-tv-owners?utm_medium=rss)<!-- TECH:END -->
+ - [China-based Moka, which aims to automate the talent acquisition process for Chinese companies, raises a $100M Series C led by Tiger Global (Rita Liao/TechCrunch)](http://www.techmeme.com/211102/p9#a211102p9)
+ - [Apple slashes iPad production to meet iPhone 13 demand](https://appleinsider.com/articles/21/11/02/apple-slashes-ipad-production-to-meet-iphone-13-demand?utm_medium=rss)
+ - [Hong Kong-based Sandbox, which lets users build a virtual world using NFTs, raises $93M led by SoftBank's Vision Fund 2 (Krystal Hu/Reuters)](http://www.techmeme.com/211102/p8#a211102p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
