@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Zoom says it is testing showing ads to free users; the ads appear on the browser page shown to users at the end of a call (Jon Porter/The Verge)](http://www.techmeme.com/211102/p20#a211102p20)
- - [How to increase text size in macOS Monterey](https://appleinsider.com/articles/21/11/02/how-to-increase-text-size-in-macos-monterey?utm_medium=rss)
- - [Grab the Asus ROG Zephyrus G15 for its lowest price ever at Best Buy](https://www.theverge.com/good-deals/2021/11/2/22757246/asus-zephyrus-g15-msi-gaming-laptop-xbox-game-pass-microsoft-deal-sale)<!-- TECH:END -->
+ - [Morbius has ‘some form of bat radar’ in the first trailer in two years](https://www.theverge.com/2021/11/2/22759140/morbius-jared-leto-sony-spider-man-spinoff-trailer-vampire)
+ - [Best Deals Nov. 2: $259 Samsung monitor, Amazon tablet sale, more!](https://appleinsider.com/articles/21/11/02/best-deals-nov-2-259-samsung-monitor-amazon-tablet-sale-more?utm_medium=rss)
+ - [How to find the best deals during Black Friday and Cyber Monday 2021](https://www.theverge.com/21587765/black-friday-cyber-monday-best-deals-how-to-find)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
