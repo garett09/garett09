@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tim Cook speaks at Silicon Slopes Summit in Utah, receives fry sauce souvenir](https://appleinsider.com/articles/21/11/02/tim-cook-speaks-at-silicon-slopes-summit-in-utah-receives-fry-sauce-souvenir?utm_medium=rss)
- - [NordVPN review: An encryption powerhouse with the biggest VPN bang for your buck     - CNET](https://www.cnet.com/tech/services-and-software/nordvpn-review/#ftag=CAD590a51e)
- - [Best air compressors for 2021     - Roadshow](https://www.cnet.com/roadshow/news/best-air-compressor/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [LG extends three-month Apple TV+ trial to Smart TV owners](https://appleinsider.com/articles/21/11/02/lg-extends-three-month-apple-tv-trial-to-smart-tv-owners?utm_medium=rss)
+ - [Globe Telecom's Mynt, which operates mobile wallet app GCash, becomes the first tech unicorn in the Philippines after raising over $300M at a $2B+ valuation (Mars W. Mosqueda Jr/DealStreetAsia)](http://www.techmeme.com/211101/p25#a211101p25)
+ - [Best wireless Bluetooth boom box for 2021     - CNET](https://www.cnet.com/tech/home-entertainment/best-wireless-bluetooth-boombox/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
