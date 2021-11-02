@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [With Spotify on pace to cross $1B in ad sales this year, a look at its growing ambitions in advertising and its plans to become the YouTube of podcasting (Lucas Shaw/Bloomberg)](http://www.techmeme.com/211102/p16#a211102p16)
- - [To Make an Eco-Friendly EV Battery, Think From the Inside Out](https://www.wired.com/story/make-eco-friendly-ev-battery-think-inside-out)
- - [Cars Are Going Electric. What Happens to the Used Batteries?](https://www.wired.com/story/cars-going-electric-what-happens-used-batteries)<!-- TECH:END -->
+ - [NHTSA says Tesla is recalling nearly 12K cars after finding an update to its "Full Self-Driving" system led to "inadvertent activation" of emergency braking (CNBC)](http://www.techmeme.com/211102/p18#a211102p18)
+ - [The Bowers & Wilkins Zeppelin Is the Comeback King](https://www.wired.com/review/bowers-and-wilkins-zeppelin)
+ - [Climate-Driven Extinction Made Mammals' Teeth Less Weird](https://www.wired.com/story/climate-driven-extinction-made-mammals-teeth-less-weird)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
