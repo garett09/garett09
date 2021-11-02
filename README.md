@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Twitch Creates Category Dedicated To Streams Of Cute Animals](https://kotaku.com/twitch-dedicates-category-just-for-streaming-cute-anima-1847981959)
- - [Players are accidentally triggering New World's latest gold duplication exploit](https://www.pcgamer.com/players-are-accidentally-triggering-new-worlds-latest-gold-duplication-exploit)
- - [Say goodbye to your mortal shell with this gorgeous, ghostly puzzle game](https://www.pcgamer.com/say-goodbye-to-your-mortal-shell-with-this-gorgeous-ghostly-puzzle-game)<!-- GAME:END -->
+ - [Squid Game knockoff Crab Game blows up on Steam, Twitch](https://www.polygon.com/22759418/netflix-squid-game-steam-free-crab-game-download)
+ - [Niantic is shutting down Harry Potter: Wizards Unite](https://www.polygon.com/22759539/harry-potter-wizards-unite-shutting-down-date-niantic)
+ - [Bowser pleads guilty, ordered to pay $4.5M to Nintendo](https://www.polygon.com/22759520/bowser-pleads-guilty-nintendo-switch-hacker)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
