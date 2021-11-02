@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Niantic Shutting Down Pokémon Go-Inspired Harry Potter Game](https://kotaku.com/niantic-shutting-down-pokemon-go-inspired-harry-potter-1847984292)
- - [When is Darkest Dungeon 2 coming to Steam?](https://www.pcgamer.com/darkest-dungeon-2-steam-release)
- - [Sakurai Says Smash Bros. Ultimate Might Not End The Series](https://kotaku.com/sakurai-says-smash-bros-ultimate-might-not-end-the-ser-1847984039)<!-- GAME:END -->
+ - [Blizzard Is Already Losing Its First Female Studio Co-Head](https://kotaku.com/blizzard-is-already-losing-its-first-female-studio-co-h-1847985147)
+ - [Diablo 4 and Overwatch 2 delayed, may be 2023 games](https://www.polygon.com/22760143/diablo-4-overwatch-2-delayed-release-date)
+ - [Overwatch 2 And Diablo 4 Delayed Into 2023](https://kotaku.com/overwatch-2-and-diablo-4-delayed-into-2023-1847985130)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
