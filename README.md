@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Marvel’s Avengers stops selling XP boosters following player pushback](https://www.polygon.com/22759611/marvels-avengers-stops-selling-xp-boosters)
  - [Squid Game knockoff Crab Game blows up on Steam, Twitch](https://www.polygon.com/22759418/netflix-squid-game-steam-free-crab-game-download)
- - [Niantic is shutting down Harry Potter: Wizards Unite](https://www.polygon.com/22759539/harry-potter-wizards-unite-shutting-down-date-niantic)
- - [Bowser pleads guilty, ordered to pay $4.5M to Nintendo](https://www.polygon.com/22759520/bowser-pleads-guilty-nintendo-switch-hacker)<!-- GAME:END -->
+ - [Black Friday Gaming chair deals 2021: when and where to find the right chair for you](https://www.pcgamer.com/black-friday-gaming-chair-deals-2021)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
