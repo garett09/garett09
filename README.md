@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Carrying a bride palanquin in China](http://9gag.com/gag/a61wg8e)
- - 🚯 [Dedicated effort to get fit and she succeeded](http://9gag.com/gag/a51d3eO)
+ - 🚖 [Awful reality! Awful negativity!](http://9gag.com/gag/aggyw9W)
+ - 🚯 [BLM strikes again](http://9gag.com/gag/aBnKzvx)
  - 🚯 [The incredibly hypnotizing sound of the zanfona](http://9gag.com/gag/adgNw82)<!-- MEMES:END -->
 
 --- 
