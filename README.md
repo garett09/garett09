@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Activision Blizzard reports Q3 revenue of $2.07B, up 6% YoY, net bookings of $1.88B, up 6% YoY, as user growth remains flat at 390M (Dean Takahashi/VentureBeat)](http://www.techmeme.com/211102/p37#a211102p37)
- - [Apple ceases iOS 15.0.2 code signing following iOS 15.1 launch](https://appleinsider.com/articles/21/11/02/apple-ceases-ios-1502-code-signing-following-ios-151-launch?utm_medium=rss)
- - [If you haven’t gotten a Switch N64 controller yet, you’ll have to wait until next year](https://www.theverge.com/2021/11/2/22760049/nintendo-switch-64-n64-controller-in-stock-2022-next-year)<!-- TECH:END -->
+ - [You can now, technically, build your own USB-C iPhone](https://www.theverge.com/2021/11/2/22759704/usb-c-iphone-hack-mod-open-source-github-repo-ken-pillonel-design-video)
+ - [Oculus rolls out v34, adding a Space Sense safety feature notifying users when objects, people, or animals intrude on a safe VR space, alongside other features (Cameron Faulkner/The Verge)](http://www.techmeme.com/211102/p42#a211102p42)
+ - [Lyft reports Q3 revenue of $864.4M, up 73% YoY and 13% QoQ, but misses with 18.9M active riders vs 19.7M estimated (Jessica Bursztynsky/CNBC)](http://www.techmeme.com/211102/p41#a211102p41)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
