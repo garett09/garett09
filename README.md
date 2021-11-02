@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Belgium= *shuts down nuclear plants and replaces them with gas plants](http://9gag.com/gag/a81WgA6)
- - 🚯 [Part-time job goal](http://9gag.com/gag/angYo5o)
- - 🚯 [The last 30+ years](http://9gag.com/gag/aXrb1yg)<!-- MEMES:END -->
+ - 🚖 [Part-time job goal](http://9gag.com/gag/angYo5o)
+ - 🚯 [The last 30+ years](http://9gag.com/gag/aXrb1yg)
+ - 🚯 [Belgium= *shuts down nuclear plants and replaces them with gas plants](http://9gag.com/gag/a81WgA6)<!-- MEMES:END -->
 
 --- 
 
