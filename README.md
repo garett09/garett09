@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Damn](http://9gag.com/gag/aBnKMqN)
- - 🚯 [The power of plastic surgery](http://9gag.com/gag/ajgrjZp)
- - 🚯 [Getting Past Russian Immigration](http://9gag.com/gag/angY3GL)<!-- MEMES:END -->
+ - 🚖 [Memories...](http://9gag.com/gag/aYrb6p0)
+ - 🚯 [Getting Past Russian Immigration](http://9gag.com/gag/angY3GL)
+ - 🚯 [I want my coffee hot](http://9gag.com/gag/aKmzX5j)<!-- MEMES:END -->
 
 --- 
 
