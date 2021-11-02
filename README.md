@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [With 180 million players, League of Legends games have more active users than Steam](https://www.pcgamer.com/with-180-million-players-league-of-legends-games-have-more-active-users-than-steam)
- - [Everything we know about the GTA Trilogy](https://www.pcgamer.com/gta-trilogy-remastered-release-date)
- - [Skyrim board game will include a prequel to the classic video game](https://www.polygon.com/tabletop-games/22757411/skyrim-board-game-campaign-price-release-date)<!-- GAME:END -->
+ - [The best Secretlab gaming chair deals: treat yourself to a gaming throne ahead of Black Friday](https://www.pcgamer.com/secretlab-black-friday-deals-2021)
+ - [The Morbius trailer gives Jared Leto vampire teeth and Venom jokes](https://www.polygon.com/22758099/morbius-trailer-release-jared-leto)
+ - [Guardians of the Galaxy: Should you hide the llama or the tech?](https://www.pcgamer.com/guardians-of-the-galaxy-hide-llama-tech)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
