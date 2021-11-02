@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [China-based Moka, which aims to automate the talent acquisition process for Chinese companies, raises a $100M Series C led by Tiger Global (Rita Liao/TechCrunch)](http://www.techmeme.com/211102/p9#a211102p9)
- - [Apple slashes iPad production to meet iPhone 13 demand](https://appleinsider.com/articles/21/11/02/apple-slashes-ipad-production-to-meet-iphone-13-demand?utm_medium=rss)
- - [Hong Kong-based Sandbox, which lets users build a virtual world using NFTs, raises $93M led by SoftBank's Vision Fund 2 (Krystal Hu/Reuters)](http://www.techmeme.com/211102/p8#a211102p8)<!-- TECH:END -->
+ - [Researchers discover a Unicode security vulnerability that affects most code compilers, including for Go, C++, C#, JavaScript, Java, Rust, and Python (Brian Krebs/Krebs on Security)](http://www.techmeme.com/211102/p12#a211102p12)
+ - [Tim Cook speaks at Silicon Slopes Summit in Utah, receives fry sauce souvenir](https://appleinsider.com/articles/21/11/02/tim-cook-speaks-at-silicon-slopes-summit-in-utah-receives-fry-sauce-souvenir?utm_medium=rss)
+ - [Alibaba and JD.com are promoting "sustainability" rather than hyping Singles' Day sales this year, amid China's regulatory scrutiny and "common prosperity" push (Arjun Kharpal/CNBC)](http://www.techmeme.com/211102/p11#a211102p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
