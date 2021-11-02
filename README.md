@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Awful reality! Awful negativity!](http://9gag.com/gag/aggyw9W)
- - 🚯 [BLM strikes again](http://9gag.com/gag/aBnKzvx)
- - 🚯 [The incredibly hypnotizing sound of the zanfona](http://9gag.com/gag/adgNw82)<!-- MEMES:END -->
+ - 🚖 [The incredibly hypnotizing sound of the zanfona](http://9gag.com/gag/adgNw82)
+ - 🚯 [Awful reality! Awful negativity!](http://9gag.com/gag/aggyw9W)
+ - 🚯 [Reward: the other hole](http://9gag.com/gag/apgqw1n)<!-- MEMES:END -->
 
 --- 
 
