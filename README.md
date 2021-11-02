@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The incredibly hypnotizing sound of the zanfona](http://9gag.com/gag/adgNw82)
- - 🚯 [Helping zebrashark eggs to hatch! @sanantonio_aquarium](http://9gag.com/gag/axBNKOM)
- - 🚯 [Reward: the other hole](http://9gag.com/gag/apgqw1n)<!-- MEMES:END -->
+ - 🚖 [Carrying a bride palanquin in China](http://9gag.com/gag/a61wg8e)
+ - 🚯 [Dedicated effort to get fit and she succeeded](http://9gag.com/gag/a51d3eO)
+ - 🚯 [The incredibly hypnotizing sound of the zanfona](http://9gag.com/gag/adgNw82)<!-- MEMES:END -->
 
 --- 
 
