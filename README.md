@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best coffee maker for 2021     - CNET](https://www.cnet.com/home/kitchen-and-household/best-coffee-maker/#ftag=CAD590a51e)
- - [Best gas grills of 2021     - CNET](https://www.cnet.com/home/yard-and-outdoors/best-gas-grill/#ftag=CAD590a51e)
- - [Beats Fit Pro launched: Apple AirPods Pro in a sportier skin?](https://www.androidauthority.com/beats-fit-pro-3050174/)<!-- TECH:END -->
+ - [Sources: Nintendo will only be able to produce ~24M units of Switch game console in FY 2021 due to chip shortages, 20% below its original plan of 30M (Nikkei Asia)](http://www.techmeme.com/211102/p14#a211102p14)
+ - [Permutive, whose ad platform allows publishers to deliver personalized ads in a privacy-safe manner, raises a $75M Series C led by SoftBank Vision Fund 2 (Dan Taylor/Tech.eu)](http://www.techmeme.com/211102/p13#a211102p13)
+ - [Apple could siphon iPad chips to service sizeable iPhone 13 demand](https://www.androidauthority.com/apple-iphone-13-ipad-production-3050237/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
