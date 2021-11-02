@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple joins First Movers Coalition to cut carbon emissions](https://appleinsider.com/articles/21/11/02/apple-joins-first-movers-coalition-to-cut-carbon-emissions?utm_medium=rss)
- - [The latest Oculus Quest update will help to prevent accidental dog punching](https://www.theverge.com/2021/11/2/22759688/oculus-quest-2-vr-headset-meta-space-sense-passthrough-guardine-software-update)
- - [How a Squid Game Crypto Scam Got Away With Millions](https://www.wired.com/story/squid-game-coin-crypto-scam)<!-- TECH:END -->
+ - [Tim Cook speaks at Silicon Slopes Summit in Utah, receives fry sauce souvenir](https://appleinsider.com/articles/21/11/02/tim-cook-speaks-at-silicon-slopes-summit-in-utah-receives-fry-sauce-souvenir?utm_medium=rss)
+ - [The PS5 and Xbox Series X are now available at Walmart](https://www.theverge.com/2021/11/1/22639399/sony-playstation-ps5-xbox-series-x-console-disc-digital-edition-restock-walmart)
+ - [Coinbase is acquiring Agara, which operates an AI-powered customer support platform in India and the US; sources say the price is between $40M and $50M (Manish Singh/TechCrunch)](http://www.techmeme.com/211102/p35#a211102p35)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
