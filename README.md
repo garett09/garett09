@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [You can now, technically, build your own USB-C iPhone](https://www.theverge.com/2021/11/2/22759704/usb-c-iphone-hack-mod-open-source-github-repo-ken-pillonel-design-video)
- - [Oculus rolls out v34, adding a Space Sense safety feature notifying users when objects, people, or animals intrude on a safe VR space, alongside other features (Cameron Faulkner/The Verge)](http://www.techmeme.com/211102/p42#a211102p42)
- - [Lyft reports Q3 revenue of $864.4M, up 73% YoY and 13% QoQ, but misses with 18.9M active riders vs 19.7M estimated (Jessica Bursztynsky/CNBC)](http://www.techmeme.com/211102/p41#a211102p41)<!-- TECH:END -->
+ - [Apple shipped estimated 6.5M MacBooks in Q3](https://appleinsider.com/articles/21/11/02/apple-shipped-estimated-65m-macbooks-in-q3?utm_medium=rss)
+ - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
+ - [Pokemon Sword and Shield: Free Shiny Zacian and Zamazenta available from GameStop     - CNET](https://www.cnet.com/tech/gaming/pokemon-sword-and-shield-get-a-free-shiny-zacian-and-zamazenta-from-gamestop/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
