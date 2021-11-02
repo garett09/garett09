@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Beats Fit Pro launched: Apple AirPods Pro in a sportier skin?](https://www.androidauthority.com/beats-fit-pro-3050174/)
  - [Researchers discover a Unicode security vulnerability that affects most code compilers, including for Go, C++, C#, JavaScript, Java, Rust, and Python (Brian Krebs/Krebs on Security)](http://www.techmeme.com/211102/p12#a211102p12)
- - [Tim Cook speaks at Silicon Slopes Summit in Utah, receives fry sauce souvenir](https://appleinsider.com/articles/21/11/02/tim-cook-speaks-at-silicon-slopes-summit-in-utah-receives-fry-sauce-souvenir?utm_medium=rss)
- - [Alibaba and JD.com are promoting "sustainability" rather than hyping Singles' Day sales this year, amid China's regulatory scrutiny and "common prosperity" push (Arjun Kharpal/CNBC)](http://www.techmeme.com/211102/p11#a211102p11)<!-- TECH:END -->
+ - [Best air fryer to buy in 2021: Ninja, Dash, Gourmia and more     - CNET](https://www.cnet.com/home/kitchen-and-household/best-air-fryer/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
