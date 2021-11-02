@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Helping zebrashark eggs to hatch! @sanantonio_aquarium](http://9gag.com/gag/axBNKOM)
- - 🚯 [A Moray Eel and Diver Who Have Been Friends for Years](http://9gag.com/gag/amgXQ0v)
- - 🚯 [Another Guy Who Missed Fire Safety Training...](http://9gag.com/gag/aqGmVqY)<!-- MEMES:END -->
+ - 🚖 [A Moray Eel and Diver Who Have Been Friends for Years](http://9gag.com/gag/amgXQ0v)
+ - 🚯 [Amen !!](http://9gag.com/gag/avA0q3b)
+ - 🚯 [After 18 month of tests and exams, I now officially am a train driver!](http://9gag.com/gag/aLvK3Bv)<!-- MEMES:END -->
 
 --- 
 
