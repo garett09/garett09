@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tim Cook speaks at Silicon Slopes Summit in Utah, receives fry sauce souvenir](https://appleinsider.com/articles/21/11/02/tim-cook-speaks-at-silicon-slopes-summit-in-utah-receives-fry-sauce-souvenir?utm_medium=rss)
- - [The PS5 and Xbox Series X are now available at Walmart](https://www.theverge.com/2021/11/1/22639399/sony-playstation-ps5-xbox-series-x-console-disc-digital-edition-restock-walmart)
- - [Coinbase is acquiring Agara, which operates an AI-powered customer support platform in India and the US; sources say the price is between $40M and $50M (Manish Singh/TechCrunch)](http://www.techmeme.com/211102/p35#a211102p35)<!-- TECH:END -->
+ - [Activision Blizzard reports Q3 revenue of $2.07B, up 6% YoY, net bookings of $1.88B, up 6% YoY, as user growth remains flat at 390M (Dean Takahashi/VentureBeat)](http://www.techmeme.com/211102/p37#a211102p37)
+ - [Apple ceases iOS 15.0.2 code signing following iOS 15.1 launch](https://appleinsider.com/articles/21/11/02/apple-ceases-ios-1502-code-signing-following-ios-151-launch?utm_medium=rss)
+ - [If you haven’t gotten a Switch N64 controller yet, you’ll have to wait until next year](https://www.theverge.com/2021/11/2/22760049/nintendo-switch-64-n64-controller-in-stock-2022-next-year)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
