@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Marvel’s Avengers stops selling XP boosters following player pushback](https://www.polygon.com/22759611/marvels-avengers-stops-selling-xp-boosters)
- - [Squid Game knockoff Crab Game blows up on Steam, Twitch](https://www.polygon.com/22759418/netflix-squid-game-steam-free-crab-game-download)
- - [Black Friday Gaming chair deals 2021: when and where to find the right chair for you](https://www.pcgamer.com/black-friday-gaming-chair-deals-2021)<!-- GAME:END -->
+ - [The Brides of Maracoor continues the story of Wicked, after a 10-year cliffhanger](https://www.polygon.com/22759657/gregory-maguire-interview-wicked-the-brides-of-maracoor)
+ - [Netflix officially has games now](https://www.polygon.com/22759722/netflix-games-on-android)
+ - [Netflix Launches Mobile Games Lineup With Stranger Things And Not Much Else](https://kotaku.com/netflix-launches-mobile-games-lineup-with-stranger-thin-1847983538)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
