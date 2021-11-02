@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Blizzard Is Already Losing Its First Female Studio Co-Head](https://kotaku.com/blizzard-is-already-losing-its-first-female-studio-co-h-1847985147)
- - [Diablo 4 and Overwatch 2 delayed, may be 2023 games](https://www.polygon.com/22760143/diablo-4-overwatch-2-delayed-release-date)
- - [Overwatch 2 And Diablo 4 Delayed Into 2023](https://kotaku.com/overwatch-2-and-diablo-4-delayed-into-2023-1847985130)<!-- GAME:END -->
+ - [Netflix’s You has the best narrator on television](https://www.polygon.com/features/22760188/netflixs-you-season-3-narrator)
+ - [Squid Game cryptocurrency scammers vanish with $3.3M](https://www.pcgamer.com/squid-game-cryptocurrency-scammers-vanish-with-dollar33m)
+ - [So what is Skyrim Anniversary Edition and what's actually in it?](https://www.pcgamer.com/so-what-is-skyrim-anniversary-edition-and-what-does-it-actually-include)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
