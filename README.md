@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple TV+ holds press event for 'Dr. Brain' on day of US premiere](https://appleinsider.com/articles/21/11/03/apple-tv-holds-press-event-for-dr-brain-on-day-of-us-premiere?utm_medium=rss)
- - [Take-Two Interactive Q2: revenue of $858.2M, up 2% YoY, net bookings of $984.9M, up 3%; GTA V has sold 155M+ copies and generated $6B+ in revenue since 2013 (Dean Takahashi/VentureBeat)](http://www.techmeme.com/211103/p27#a211103p27)
- - [Qualcomm Q4: revenue of $9.3B, up 43% YoY, net income of $2.9B, up 75%, chip revenue of $7.7B, up 56%, and FY 2021 revenue of $33.5B, up 55%; stock up 5%+ (Stephanie Condon/ZDNet)](http://www.techmeme.com/211103/p26#a211103p26)<!-- TECH:END -->
+ - [Cricket Wireless Black Friday deals: Get a free iPhone SE and HBO Max](https://www.androidauthority.com/best-cricket-wireless-deals-2-835972/)
+ - [Roku misses with Q3 revenue of $680M vs. $683.4 est., up 51% YoY, 56.4M active accounts, up 23% YoY and 1.3M QoQ, 18B streaming hours, up 21%; stock down 8%+ (Samantha Subin/CNBC)](http://www.techmeme.com/211103/p29#a211103p29)
+ - [Roku is booting Pornhub and cutting off other private channels](https://www.theverge.com/2021/11/3/22762236/pornhub-roku-private-channels-march-2022)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
