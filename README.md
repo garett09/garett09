@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Tool Of A Fook](http://9gag.com/gag/aAGVRmp)
- - 🚯 [Not everything is meant to be shared on social media.](http://9gag.com/gag/ajg6QXp)
- - 🚯 [That&#039;s how it started. And then they realized they can make money selling it.](http://9gag.com/gag/aYrbzmw)<!-- MEMES:END -->
+ - 🚖 [Dads and their fish](http://9gag.com/gag/aqGZ96p)
+ - 🚯 [Customer stated that she stopped at a gas station walked in and when she came out her car wouldn&#039;t start.](http://9gag.com/gag/aZrWqXV)
+ - 🚯 [This move is so hard to pull off that it was made illegal a few years ago and this athlete was penalized for performing it anyway.](http://9gag.com/gag/aYrpNGV)<!-- MEMES:END -->
 
 --- 
 
