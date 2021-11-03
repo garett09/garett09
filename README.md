@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chinese central bank official says around 140M people opened wallets for digital yuan as of October and used it for transactions totaling around $9.7B (Reuters)](http://www.techmeme.com/211103/p7#a211103p7)
- - [Our Favorite Digital Gift Ideas for Friends and Family](https://www.wired.com/story/gift-cards-and-digital-gift-ideas)
- - [The United Nations Could Finally Create New Rules for Space](https://www.wired.com/story/the-united-nations-could-finally-create-new-rules-for-space)<!-- TECH:END -->
+ - [Sources: Facebook has done little to act on the Islamophobic "Love Jihad" conspiracy theory on its platform in India due to "political sensitivities" (Billy Perrigo/TIME)](http://www.techmeme.com/211103/p10#a211103p10)
+ - [Daily Authority: Netflix rolls out its games 📺](https://www.androidauthority.com/newsletters/da-november-3-2021/)
+ - [How to run Android apps on Windows 11](https://www.androidauthority.com/how-to-run-android-apps-on-windows-11-3048569/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
