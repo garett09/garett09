@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Hideki Kamiya Hosts 'Very Sorry Stream' With Uncomfortable Letter From Alleged Fan](https://kotaku.com/hideki-kamiya-hosts-very-sorry-stream-with-uncomfortabl-1847990351)
- - [Tunche: Behold the Secrets of the Amazon Jungle](https://news.xbox.com/en-us/2021/11/03/tunche-behold-the-secrets-of-the-amazon-jungle/)
- - [Netflix adds three movies from Squid Game creator](https://www.polygon.com/22761659/netflix-squid-game-creator-movies-streaming)<!-- GAME:END -->
+ - [Drop into the Vans World Experience on Roblox](https://news.xbox.com/en-us/2021/11/03/vans-world-experience-roblox/)
+ - [Ubisoft gears up for its 35th birthday with discounts and freebies](https://www.pcgamer.com/ubisoft-gears-up-for-its-35th-birthday-with-discounts-and-freebies)
+ - [Battlefield Portal is still the most exciting thing about Battlefield 2042](https://www.pcgamer.com/battlefield-portal-is-still-the-most-exciting-thing-about-battlefield-2042)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
