@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Australia's largest bank Commonwealth Bank to become the country's first bank to offer customers crypto services, including cryptocurrency trading via its app (Paulina Duran/Reuters)](http://www.techmeme.com/211103/p1#a211103p1)
  - [Samsung apes Safari's most derided iOS 15 feature](https://appleinsider.com/articles/21/11/03/samsung-apes-mobile-safaris-most-derided-new-feature?utm_medium=rss)
- - [Laika, which helps companies implement compliance guidelines by automating infosec workflows, raises a $35M Series B led by JP Morgan Growth Equity Partners (PYMNTS.com)](http://www.techmeme.com/211102/p49#a211102p49)
- - [Niantic to shut down 'Harry Potter: Wizards Unite' AR game](https://appleinsider.com/articles/21/11/03/niantic-to-shut-down-harry-potter-wizards-unite-ar-game?utm_medium=rss)<!-- TECH:END -->
+ - [Jack Black, as a dinosaur, calls for urgent climate action in UN video     - CNET](https://www.cnet.com/news/jack-black-as-a-dinosaur-calls-for-urgent-climate-action-in-un-video/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
