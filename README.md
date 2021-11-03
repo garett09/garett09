@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cricket Wireless Black Friday deals: Get a free iPhone SE and HBO Max](https://www.androidauthority.com/best-cricket-wireless-deals-2-835972/)
- - [Roku misses with Q3 revenue of $680M vs. $683.4 est., up 51% YoY, 56.4M active accounts, up 23% YoY and 1.3M QoQ, 18B streaming hours, up 21%; stock down 8%+ (Samantha Subin/CNBC)](http://www.techmeme.com/211103/p29#a211103p29)
- - [Roku is booting Pornhub and cutting off other private channels](https://www.theverge.com/2021/11/3/22762236/pornhub-roku-private-channels-march-2022)<!-- TECH:END -->
+ - [9-year-old unlocks father's iPhone with his face, calls 911 as carbon monoxide fills home](https://appleinsider.com/articles/21/11/03/9-year-old-unlocks-fathers-iphone-with-his-face-calls-911-as-carbon-monoxide-fills-home?utm_medium=rss)
+ - [Take-Two spent $53 million on a cancelled game that was never even announced](https://www.theverge.com/2021/11/3/22762349/take-two-cancelled-unannounced-title-from-hangar-13)
+ - [Notability blinks on charging users more, grandfathers in existing users](https://www.theverge.com/2021/11/3/22761662/notability-notes-ginger-labs-subscription-rollback-apology)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
