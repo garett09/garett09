@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Coinbase confirms it is testing Coinbase One, a subscription service that internal docs show could feature zero trading fees and prioritized phone support (Frank Chaparro/The Block)](http://www.techmeme.com/211103/p18#a211103p18)
- - [Apple reportedly pushes OLED MacBook Pro plans past 2025](https://appleinsider.com/articles/21/11/03/apple-reportedly-pushes-oled-macbook-pro-plans-past-2025?utm_medium=rss)
- - [Those Roku porn channels you definitely don’t have will be banned soon](https://www.androidauthority.com/roku-porn-3051141/)<!-- TECH:END -->
+ - [Eero’s Pro 6 highlights the latest early Black Friday sales](https://www.theverge.com/good-deals/2021/11/3/22761102/eero-pro-6-philips-hue-black-friday-brydge-apple-ipad-keyboard-amazon-gaming-deal-sale)
+ - [Apple's $100M settlement with developers likely headed for approval](https://appleinsider.com/articles/21/11/03/apples-100m-settlement-with-developers-likely-headed-for-approval?utm_medium=rss)
+ - [Netatmo debuts new HomeKit-compatible smart CO detector](https://appleinsider.com/articles/21/11/03/netatmo-debuts-new-homekit-compatible-smart-co-detector?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
