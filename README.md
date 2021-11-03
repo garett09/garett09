@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [A Beautiful World Will Be Yours to Call Home in Slime Rancher 2 in 2022](https://news.xbox.com/en-us/2021/11/03/beautiful-world-to-call-home-slime-rancher-2/)
- - [Animal Crossing’s villagers will not let me escape my guilt for abandoning them](https://www.polygon.com/22759303/animal-crossing-new-horizons-villagers-acnh-returning-dialog)
- - [Microsoft Flight Simulator Xbox controller goes up for pre-order on Wednesday](https://www.polygon.com/deals/22761213/microsoft-flight-simulator-xbox-controller-turtle-beach-pre-order-link-price)<!-- GAME:END -->
+ - [Age of Empires IV: Tips to Help Get Your Army Up to Speed](https://news.xbox.com/en-us/2021/11/03/age-of-empires-4-tips/)
+ - [A Squid Game Clone Is Taking Over Twitch](https://kotaku.com/a-squid-game-clone-is-taking-over-twitch-1847989335)
+ - [New World recaptures some of the magic of old-school WoW, but something's missing](https://www.pcgamer.com/new-world-recaptures-some-of-the-magic-of-old-school-wow-but-somethings-missing)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
