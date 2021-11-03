@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Company salaries of data protection officers are soaring across China after laws were introduced that hold the officers personally responsible for any failures (Eleanor Olcott/Financial Times)](http://www.techmeme.com/211103/p2#a211103p2)
- - [Australia's largest bank Commonwealth Bank to become the country's first bank to offer customers crypto services, including cryptocurrency trading via its app (Paulina Duran/Reuters)](http://www.techmeme.com/211103/p1#a211103p1)
- - [Samsung apes Safari's most derided iOS 15 feature](https://appleinsider.com/articles/21/11/03/samsung-apes-mobile-safaris-most-derided-new-feature?utm_medium=rss)<!-- TECH:END -->
+ - [Sources: Myanmar's junta has tasked thousands of soldiers to create fake accounts to allege election fraud and denounce anti-coup protestors on social media (Reuters)](http://www.techmeme.com/211103/p3#a211103p3)
+ - [Did Samsung Internet Browser swipe this handy feature from Apple?](https://www.androidauthority.com/samsung-internet-browser-url-bar-3050821/)
+ - [Company salaries of data protection officers are soaring across China after laws were introduced that hold the officers personally responsible for any failures (Eleanor Olcott/Financial Times)](http://www.techmeme.com/211103/p2#a211103p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
