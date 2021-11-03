@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Wemax Nova 4K UHD Laser Projector review: high quality home entertainment system](https://appleinsider.com/articles/21/11/02/wemax-nova-4k-uhd-laser-projector-review-high-quality-home-entertainment-system?utm_medium=rss)
- - [Anker PowerCore III Wireless review: Everything in moderation](https://www.androidauthority.com/anker-powercore-iii-wireless-power-bank-review-3046366/)
- - [You told us: The Redmi Note 11 series has plenty of fans](https://www.androidauthority.com/redmi-note-11-series-poll-results-3050870/)<!-- TECH:END -->
+ - [Join Us for This Year’s RE:WIRED Celebration](https://www.wired.com/story/2021-rewired-conference-announcement)
+ - [Clearview AI ordered to delete all facial recognition data belonging to Australians](https://www.theverge.com/2021/11/3/22761001/clearview-ai-facial-recognition-australia-breach-data-delete)
+ - [You can now grab Samsung’s Galaxy Note 20 series November patch](https://www.androidauthority.com/samsung-galaxy-note-20-update-1145703/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
