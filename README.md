@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Actually yes](http://9gag.com/gag/a81WrDV)
- - 🚯 [Nature is amazing](http://9gag.com/gag/aBnQ9OZ)
- - 🚯 [Hot coffee](http://9gag.com/gag/aPZvOqV)<!-- MEMES:END -->
+ - 🚖 [Life is good](http://9gag.com/gag/aBnKD02)
+ - 🚯 [Yes this is true](http://9gag.com/gag/aNPomgG)
+ - 🚯 [One of the best superhero movies with depth in his characters](http://9gag.com/gag/a91Mj4K)<!-- MEMES:END -->
 
 --- 
 
