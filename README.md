@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Game Pass Has PC Games – PC Builder Series: Age of Empires IV](https://news.xbox.com/en-us/2021/11/03/game-pass-has-pc-games-pc-builder-series-age-of-empires-4/)
- - [Japanese Indie Game Gets Themed Rooms At Kyoto Hotel](https://kotaku.com/japanese-indie-game-gets-themed-rooms-at-kyoto-hotel-1847987793)
- - [GPUs are selling for their highest prices since April in Germany and Austria](https://www.pcgamer.com/gpus-are-selling-for-their-highest-prices-since-april-in-germany-and-austria)<!-- GAME:END -->
+ - [Xbox and Adidas Unveil New Sneaker in 20th Anniversary Collaboration](https://news.xbox.com/en-us/2021/11/03/xbox-360-adidas-sneaker/)
+ - [It’s Dilapidated Animal Crossing Island Forgiveness Day](https://www.polygon.com/22747070/animal-crossing-island-forgiveness-day-return-to-island)
+ - [Game Pass Has PC Games – PC Builder Series: Age of Empires IV](https://news.xbox.com/en-us/2021/11/03/game-pass-has-pc-games-pc-builder-series-age-of-empires-4/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
