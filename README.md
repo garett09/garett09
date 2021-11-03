@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Incredible Mod Lets You Fight Crusader Kings III's Battles Yourself](https://kotaku.com/incredible-mod-lets-you-fight-crusader-kings-iiis-battl-1847985997)
- - [When does Animal Crossing: New Horizons’ 2.0 update go live?](https://www.polygon.com/22752668/animal-crossing-new-horizons-2-0-update-release-date-time-dlc)
- - [Bowser faces 10 years in jail, $4.5 million in damages in Nintendo piracy case](https://www.pcgamer.com/bowser-faces-10-years-in-jail-and-dollar45-million-in-damages-in-nintendo-piracy-case)<!-- GAME:END -->
+ - [The Art Of Foundation](https://kotaku.com/the-art-of-foundation-1847986378)
+ - [This mod lets you seamlessly fight Crusader Kings 3 battles in Mount & Blade 2](https://www.pcgamer.com/this-mod-lets-you-seamlessly-fight-crusader-kings-3-battles-in-mount-and-blade-2)
+ - [You're a rampaging giant smashing puny humans in this action RPG](https://www.pcgamer.com/youre-a-rampaging-giant-smashing-puny-humans-in-this-action-rpg)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
