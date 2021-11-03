@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Instagram and Twitter finally make link previews work again](https://www.theverge.com/2021/11/3/22761713/instagram-twitter-link-card-previews)
- - [Facebook skirts Apple’s App Store fees with custom subscription links for creators](https://www.theverge.com/2021/11/3/22761620/facebook-apple-app-store-fees-subscription-links-creators)
- - [Apple releases HomePod software version 15.1.1 with fix for Podcasts playback](https://appleinsider.com/articles/21/11/03/apple-releases-homepod-software-version-1511-with-fix-for-podcasts-playback?utm_medium=rss)<!-- TECH:END -->
+ - [Apple's Jay Blahnik hints that Fitness+ could be produced in other languages](https://appleinsider.com/articles/21/11/03/apples-jay-blahnik-hints-that-fitness-could-be-produced-in-other-languages?utm_medium=rss)
+ - [Googler who helped lead 2018 walkout is joining the FTC](https://www.theverge.com/2021/11/2/22759776/google-meredith-whittaker-ftc-nomination-ai-ethics-regulation)
+ - [Apple releases macOS version of TestFlight after months of testing](https://appleinsider.com/articles/21/11/03/apple-releases-macos-version-of-testflight-after-months-of-testing?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
