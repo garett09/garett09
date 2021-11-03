@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple TV+ adds Matt Dillon, Bernadette Peters, others to 'High Desert' cast](https://appleinsider.com/articles/21/11/02/apple-tv-adds-matt-dillon-bernadette-peters-others-to-high-desert-cast?utm_medium=rss)
  - [Apple shipped estimated 6.5M MacBooks in Q3](https://appleinsider.com/articles/21/11/02/apple-shipped-estimated-65m-macbooks-in-q3?utm_medium=rss)
- - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
- - [Pokemon Sword and Shield: Free Shiny Zacian and Zamazenta available from GameStop     - CNET](https://www.cnet.com/tech/gaming/pokemon-sword-and-shield-get-a-free-shiny-zacian-and-zamazenta-from-gamestop/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Facebook Drops Facial Recognition to Tag People in Photos](https://www.wired.com/story/facebook-drops-facial-recognition-tag-people-photos)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
