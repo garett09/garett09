@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Women&#039;s football summed up in a few seconds.](http://9gag.com/gag/aVxOnww)
- - 🚯 [It got interesting real fast](http://9gag.com/gag/awzr61D)
- - 🚯 [Any Mindhunter fans? The director says that the he will make the next season if the enough audience is interested. We should make them know](http://9gag.com/gag/a91d921)<!-- MEMES:END -->
+ - 🚖 [That&#039;s how villains are made](http://9gag.com/gag/ajgrb4x)
+ - 🚯 [Diversity my ass](http://9gag.com/gag/apgqynE)
+ - 🚯 [Now the logo of the climate change makes sense](http://9gag.com/gag/arnp6jK)<!-- MEMES:END -->
 
 --- 
 
