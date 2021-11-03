@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Age of Empires IV: Tips to Help Get Your Army Up to Speed](https://news.xbox.com/en-us/2021/11/03/age-of-empires-4-tips/)
- - [A Squid Game Clone Is Taking Over Twitch](https://kotaku.com/a-squid-game-clone-is-taking-over-twitch-1847989335)
- - [New World recaptures some of the magic of old-school WoW, but something's missing](https://www.pcgamer.com/new-world-recaptures-some-of-the-magic-of-old-school-wow-but-somethings-missing)<!-- GAME:END -->
+ - [The Lord of the Rings’ 20-year-old DVD set is absolutely thriving on TikTok](https://www.polygon.com/lord-of-the-rings/22761453/tiktok-lord-of-the-rings-memes-extended-edition-dvds)
+ - [Halo campaigns are best played in co-op](https://www.polygon.com/22761298/halo-campaigns-co-op-best-combat-evolved-reach-warthog-bungie-microsoft)
+ - [Black Friday SSD deals 2021: the fastest PC storage for the best price](https://www.pcgamer.com/black-friday-ssd-deals-2021)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
