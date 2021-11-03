@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Siam Commercial, Thailand's largest bank in which its king is the largest shareholder, acquires 51% of crypto exchange Bitkub for $535M, at a $1B+ valuation (Anuchit Nguyen/Bloomberg)](http://www.techmeme.com/211103/p4#a211103p4)
- - [TV prices hit a 9-year high, but what does this mean for your Black Friday shopping?     - CNET](https://www.cnet.com/tech/home-entertainment/tv-prices-hit-a-9-year-high-but-what-does-this-mean-for-your-black-friday-shopping/#ftag=CAD590a51e)
- - [Sources: Myanmar's junta has tasked thousands of soldiers to create fake accounts to allege election fraud and denounce anti-coup protestors on social media (Reuters)](http://www.techmeme.com/211103/p3#a211103p3)<!-- TECH:END -->
+ - [Wemax Nova 4K UHD Laser Projector review: high quality home entertainment system](https://appleinsider.com/articles/21/11/02/wemax-nova-4k-uhd-laser-projector-review-high-quality-home-entertainment-system?utm_medium=rss)
+ - [Anker PowerCore III Wireless review: Everything in moderation](https://www.androidauthority.com/anker-powercore-iii-wireless-power-bank-review-3046366/)
+ - [You told us: The Redmi Note 11 series has plenty of fans](https://www.androidauthority.com/redmi-note-11-series-poll-results-3050870/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
