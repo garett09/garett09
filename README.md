@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Myanmar's junta has tasked thousands of soldiers to create fake accounts to allege election fraud and denounce anti-coup protestors on social media (Reuters)](http://www.techmeme.com/211103/p3#a211103p3)
- - [Did Samsung Internet Browser swipe this handy feature from Apple?](https://www.androidauthority.com/samsung-internet-browser-url-bar-3050821/)
- - [Company salaries of data protection officers are soaring across China after laws were introduced that hold the officers personally responsible for any failures (Eleanor Olcott/Financial Times)](http://www.techmeme.com/211103/p2#a211103p2)<!-- TECH:END -->
+ - [Siam Commercial, Thailand's largest bank in which its king is the largest shareholder, acquires 51% of crypto exchange Bitkub for $535M, at a $1B+ valuation (Anuchit Nguyen/Bloomberg)](http://www.techmeme.com/211103/p4#a211103p4)
+ - [TV prices hit a 9-year high, but what does this mean for your Black Friday shopping?     - CNET](https://www.cnet.com/tech/home-entertainment/tv-prices-hit-a-9-year-high-but-what-does-this-mean-for-your-black-friday-shopping/#ftag=CAD590a51e)
+ - [Sources: Myanmar's junta has tasked thousands of soldiers to create fake accounts to allege election fraud and denounce anti-coup protestors on social media (Reuters)](http://www.techmeme.com/211103/p3#a211103p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
