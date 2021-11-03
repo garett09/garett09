@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Lord of the Rings’ 20-year-old DVD set is absolutely thriving on TikTok](https://www.polygon.com/lord-of-the-rings/22761453/tiktok-lord-of-the-rings-memes-extended-edition-dvds)
- - [Halo campaigns are best played in co-op](https://www.polygon.com/22761298/halo-campaigns-co-op-best-combat-evolved-reach-warthog-bungie-microsoft)
- - [Black Friday SSD deals 2021: the fastest PC storage for the best price](https://www.pcgamer.com/black-friday-ssd-deals-2021)<!-- GAME:END -->
+ - [Hideki Kamiya Hosts 'Very Sorry Stream' With Uncomfortable Letter From Alleged Fan](https://kotaku.com/hideki-kamiya-hosts-very-sorry-stream-with-uncomfortabl-1847990351)
+ - [Tunche: Behold the Secrets of the Amazon Jungle](https://news.xbox.com/en-us/2021/11/03/tunche-behold-the-secrets-of-the-amazon-jungle/)
+ - [Netflix adds three movies from Squid Game creator](https://www.polygon.com/22761659/netflix-squid-game-creator-movies-streaming)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
