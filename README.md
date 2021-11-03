@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Introducing Tandem: A Tale of Shadows, Out Now on Xbox One](https://news.xbox.com/en-us/2021/11/03/tandem-a-tale-of-shadows-on-xbox-one/)
- - [Revisit Tecmo’s long-forgotten Rygar in a 154-page fan book](https://www.polygon.com/22761861/tecmo-rygar-fan-book)
- - [13 Games To Try If You Like Destiny 2](https://kotaku.com/13-games-to-try-if-you-like-destiny-2-1847992175)<!-- GAME:END -->
+ - [Still in a Dune mood? This new desert survival game has giant sandworms, too](https://www.pcgamer.com/still-in-a-dune-mood-this-new-desert-survival-game-has-giant-sandworms-too)
+ - [EA calls NFT and blockchain games 'the future of our industry'](https://www.pcgamer.com/ea-calls-nft-and-blockchain-games-the-future-of-our-industry)
+ - [Mafia 3 studio's cancelled project was a multiplayer game with superheroes](https://www.pcgamer.com/mafia-3-studios-cancelled-project-was-a-multiplayer-game-with-superheroes)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
