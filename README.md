@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Life is good](http://9gag.com/gag/aBnKD02)
- - 🚯 [Yes this is true](http://9gag.com/gag/aNPomgG)
- - 🚯 [One of the best superhero movies with depth in his characters](http://9gag.com/gag/a91Mj4K)<!-- MEMES:END -->
+ - 🚖 [Customer stated that she stopped at a gas station walked in and when she came out her car wouldn&#039;t start.](http://9gag.com/gag/aZrWqXV)
+ - 🚯 [The good ol&lsquo; days](http://9gag.com/gag/aWg0B2A)
+ - 🚯 [Not everything is meant to be shared on social media.](http://9gag.com/gag/ajg6QXp)<!-- MEMES:END -->
 
 --- 
 
