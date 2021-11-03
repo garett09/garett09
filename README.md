@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Eero’s Pro 6 highlights the latest early Black Friday sales](https://www.theverge.com/good-deals/2021/11/3/22761102/eero-pro-6-philips-hue-black-friday-brydge-apple-ipad-keyboard-amazon-gaming-deal-sale)
- - [Apple's $100M settlement with developers likely headed for approval](https://appleinsider.com/articles/21/11/03/apples-100m-settlement-with-developers-likely-headed-for-approval?utm_medium=rss)
- - [Netatmo debuts new HomeKit-compatible smart CO detector](https://appleinsider.com/articles/21/11/03/netatmo-debuts-new-homekit-compatible-smart-co-detector?utm_medium=rss)<!-- TECH:END -->
+ - [The 2022 Volkswagen ID 5 is a sporty electric SUV with over 300 miles of range](https://www.theverge.com/2021/11/3/22761441/vw-id5-electric-suv-coupe-specs-price)
+ - [GitHub CEO Nat Friedman will step down on November 15; Thomas Dohmke, who recently became its chief product officer, will take over as CEO (Frederic Lardinois/TechCrunch)](http://www.techmeme.com/211103/p21#a211103p21)
+ - [Save $75 on Gotrax Gmax Ultra electric scooter     - Roadshow](https://www.cnet.com/roadshow/news/save-75-on-gotrax-gmax-ultra-electric-scooter/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
