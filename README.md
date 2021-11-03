@@ -187,8 +187,8 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- TECH:START -->
  - [Samsung apes Safari's most derided iOS 15 feature](https://appleinsider.com/articles/21/11/03/samsung-apes-mobile-safaris-most-derided-new-feature?utm_medium=rss)
- - [What my 8-year-old son taught me about Star Wars     - CNET](https://www.cnet.com/news/what-my-8-year-old-son-taught-me-about-star-wars/#ftag=CAD590a51e)
- - [The best home COVID-19 tests     - CNET](https://www.cnet.com/health/medical/the-best-home-covid-19-tests/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Laika, which helps companies implement compliance guidelines by automating infosec workflows, raises a $35M Series B led by JP Morgan Growth Equity Partners (PYMNTS.com)](http://www.techmeme.com/211102/p49#a211102p49)
+ - [Niantic to shut down 'Harry Potter: Wizards Unite' AR game](https://appleinsider.com/articles/21/11/03/niantic-to-shut-down-harry-potter-wizards-unite-ar-game?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
