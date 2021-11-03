@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [HoneyBook, which offers business management tools to SMBs and freelancers, raises a $250M Series E led by Tiger Global at a $2.4B valuation, up from $1B+ in May (Kyle Wiggers/VentureBeat)](http://www.techmeme.com/211103/p15#a211103p15)
- - [Nothing has 5 new products in the works, but what could they be?](https://www.androidauthority.com/nothing-5-products-3051056/)
- - [Indian ride-hailing company Ola reports its first operating profit since beginning operations a decade ago, with $12M for FY ending March 2021 (Aditi Shah/Reuters)](http://www.techmeme.com/211103/p14#a211103p14)<!-- TECH:END -->
+ - [Coinbase confirms it is testing Coinbase One, a subscription service that internal docs show could feature zero trading fees and prioritized phone support (Frank Chaparro/The Block)](http://www.techmeme.com/211103/p18#a211103p18)
+ - [Apple reportedly pushes OLED MacBook Pro plans past 2025](https://appleinsider.com/articles/21/11/03/apple-reportedly-pushes-oled-macbook-pro-plans-past-2025?utm_medium=rss)
+ - [Those Roku porn channels you definitely don’t have will be banned soon](https://www.androidauthority.com/roku-porn-3051141/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
