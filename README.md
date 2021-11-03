@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Game Pass Has PC Games – PC Builder Series: Age of Empires IV](https://news.xbox.com/en-us/2021/11/03/game-pass-has-pc-games-pc-builder-series-age-of-empires-4/)
  - [Japanese Indie Game Gets Themed Rooms At Kyoto Hotel](https://kotaku.com/japanese-indie-game-gets-themed-rooms-at-kyoto-hotel-1847987793)
- - [GPUs are selling for their highest prices since April in Germany and Austria](https://www.pcgamer.com/gpus-are-selling-for-their-highest-prices-since-april-in-germany-and-austria)
- - [Psychonauts 2's quality-of-life update makes hunting that last pesky collectable a little easier](https://www.pcgamer.com/psychonauts-2s-quality-of-life-update-makes-hunting-that-last-pesky-collectable-a-little-easier)<!-- GAME:END -->
+ - [GPUs are selling for their highest prices since April in Germany and Austria](https://www.pcgamer.com/gpus-are-selling-for-their-highest-prices-since-april-in-germany-and-austria)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
