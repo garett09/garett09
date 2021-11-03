@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Noice](http://9gag.com/gag/abg5PDp)
- - 🚯 [Nuance is the new N word](http://9gag.com/gag/azebNOz)
- - 🚯 [Now the logo of the climate change makes sense](http://9gag.com/gag/arnp6jK)<!-- MEMES:END -->
+ - 🚖 [Actually yes](http://9gag.com/gag/a81WrDV)
+ - 🚯 [Now you throwing shit at me?](http://9gag.com/gag/aogzBY3)
+ - 🚯 [This sparks joy](http://9gag.com/gag/aXrbDYd)<!-- MEMES:END -->
 
 --- 
 
