@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [They be whistling ll the way](http://9gag.com/gag/aXrbBdv)
- - 🚯 [Sounds like an epic fighting game](http://9gag.com/gag/a61wAZm)
- - 🚯 [Le Science](http://9gag.com/gag/a715zbq)<!-- MEMES:END -->
+ - 🚖 [Le Science](http://9gag.com/gag/a715zbq)
+ - 🚯 [Why the law always defended the Criminals? If you are to defend your family, why you have to be arrested?](http://9gag.com/gag/aqGmq6R)
+ - 🚯 [Why DO you get offended by people enjoying cultures, that you are not even part of? Asking for a non-offended friend.](http://9gag.com/gag/a61wADN)<!-- MEMES:END -->
 
 --- 
 
