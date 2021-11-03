@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Best feeling ever](http://9gag.com/gag/amgXeG6)
- - 🚯 [Le Science](http://9gag.com/gag/a715zbq)
- - 🚯 [As he should](http://9gag.com/gag/aLvKxKV)<!-- MEMES:END -->
+ - 🚖 [NBA player flirting with official](http://9gag.com/gag/aNPe7AG)
+ - 🚯 [Father stops midway down the aisle to ask his daughter&#039;s Step-Father to join them](http://9gag.com/gag/a51d4qr)
+ - 🚯 [Fast...](http://9gag.com/gag/a51dOBr)<!-- MEMES:END -->
 
 --- 
 
