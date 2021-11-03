@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Actually yes](http://9gag.com/gag/a81WrDV)
- - 🚯 [Now you throwing shit at me?](http://9gag.com/gag/aogzBY3)
- - 🚯 [This sparks joy](http://9gag.com/gag/aXrbDYd)<!-- MEMES:END -->
+ - 🚖 [How 100 bags are stored in a plane](http://9gag.com/gag/ajgr2KR)
+ - 🚯 [Hot coffee](http://9gag.com/gag/aPZvOqV)
+ - 🚯 [Actually yes](http://9gag.com/gag/a81WrDV)<!-- MEMES:END -->
 
 --- 
 
