@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple TV+ adds Matt Dillon, Bernadette Peters, others to 'High Desert' cast](https://appleinsider.com/articles/21/11/02/apple-tv-adds-matt-dillon-bernadette-peters-others-to-high-desert-cast?utm_medium=rss)
- - [Apple shipped estimated 6.5M MacBooks in Q3](https://appleinsider.com/articles/21/11/02/apple-shipped-estimated-65m-macbooks-in-q3?utm_medium=rss)
- - [Facebook Drops Facial Recognition to Tag People in Photos](https://www.wired.com/story/facebook-drops-facial-recognition-tag-people-photos)<!-- TECH:END -->
+ - [Happy Halloween! Theranos showed up in a Pfizer costume](https://www.theverge.com/2021/11/2/22760601/theranos-pfizer-schering-plough-logo-memo)
+ - [Niantic to shut down 'Harry Potter: Wizards Unite' AR game](https://appleinsider.com/articles/21/11/03/niantic-to-shut-down-harry-potter-wizards-unite-ar-game?utm_medium=rss)
+ - [Decline in bird songs may threaten human connections with nature     - CNET](https://www.cnet.com/news/decline-in-bird-songs-may-threaten-human-connections-with-nature/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
