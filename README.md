@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The good ol&lsquo; days](http://9gag.com/gag/aWg0B2A)
- - 🚯 [Customer stated that she stopped at a gas station walked in and when she came out her car wouldn&#039;t start.](http://9gag.com/gag/aZrWqXV)
- - 🚯 [Not everything is meant to be shared on social media.](http://9gag.com/gag/ajg6QXp)<!-- MEMES:END -->
+ - 🚖 [Tool Of A Fook](http://9gag.com/gag/aAGVRmp)
+ - 🚯 [Not everything is meant to be shared on social media.](http://9gag.com/gag/ajg6QXp)
+ - 🚯 [That&#039;s how it started. And then they realized they can make money selling it.](http://9gag.com/gag/aYrbzmw)<!-- MEMES:END -->
 
 --- 
 
