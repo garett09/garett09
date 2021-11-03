@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox and Adidas Unveil New Sneaker in 20th Anniversary Collaboration](https://news.xbox.com/en-us/2021/11/03/xbox-360-adidas-sneaker/)
- - [It’s Dilapidated Animal Crossing Island Forgiveness Day](https://www.polygon.com/22747070/animal-crossing-island-forgiveness-day-return-to-island)
- - [Game Pass Has PC Games – PC Builder Series: Age of Empires IV](https://news.xbox.com/en-us/2021/11/03/game-pass-has-pc-games-pc-builder-series-age-of-empires-4/)<!-- GAME:END -->
+ - [A Beautiful World Will Be Yours to Call Home in Slime Rancher 2 in 2022](https://news.xbox.com/en-us/2021/11/03/beautiful-world-to-call-home-slime-rancher-2/)
+ - [Animal Crossing’s villagers will not let me escape my guilt for abandoning them](https://www.polygon.com/22759303/animal-crossing-new-horizons-villagers-acnh-returning-dialog)
+ - [Microsoft Flight Simulator Xbox controller goes up for pre-order on Wednesday](https://www.polygon.com/deals/22761213/microsoft-flight-simulator-xbox-controller-turtle-beach-pre-order-link-price)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
