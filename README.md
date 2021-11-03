@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Why DO you get offended by people enjoying cultures, that you are not even part of? Asking for a non-offended friend.](http://9gag.com/gag/a61wADN)
- - 🚯 [Ezekiel Chapter 10](http://9gag.com/gag/a51d8My)
- - 🚯 [When everybody chooses the fastest individual means of transport at the same time, it ends up being the slowest](http://9gag.com/gag/aVxONW8)<!-- MEMES:END -->
+ - 🚖 [When everybody chooses the fastest individual means of transport at the same time, it ends up being the slowest](http://9gag.com/gag/aVxONW8)
+ - 🚯 [Great view at work](http://9gag.com/gag/a91dQR6)
+ - 🚯 [Women&#039;s football summed up in a few seconds.](http://9gag.com/gag/aVxOnww)<!-- MEMES:END -->
 
 --- 
 
