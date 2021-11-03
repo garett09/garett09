@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Gantz Creator Is Apparently In The Dark About Hollywood's Live-Action Adaptation](https://kotaku.com/gantz-creator-is-apparently-in-the-dark-about-hollywood-1847987504)
  - [Blizzard morale takes a hit following co-leader's surprise resignation](https://www.pcgamer.com/activision-blizzard-q3-2021-earnings)
- - [Secretlab Magnus, the gaming desk with RGB stylings, is now available in Australia](https://www.pcgamer.com/secretlab-magnus-the-gaming-desk-with-rgb-stylings-is-now-available-in-australia)
- - [Old school roguelike Rift Wizard is no looker, but it's a tactical slaughterfest so deep you could drown](https://www.pcgamer.com/old-school-roguelike-rift-wizard-is-no-looker-but-its-a-tactical-slaughterfest-so-deep-you-could-drown)<!-- GAME:END -->
+ - [Secretlab Magnus, the gaming desk with RGB stylings, is now available in Australia](https://www.pcgamer.com/secretlab-magnus-the-gaming-desk-with-rgb-stylings-is-now-available-in-australia)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
