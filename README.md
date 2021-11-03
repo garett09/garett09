@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Secretlab Magnus, the gaming desk with RGB stylings, is now available in Australia](https://www.pcgamer.com/secretlab-magnus-the-gaming-desk-with-rgb-stylings-is-now-available-in-australia)
  - [Old school roguelike Rift Wizard is no looker, but it's a tactical slaughterfest so deep you could drown](https://www.pcgamer.com/old-school-roguelike-rift-wizard-is-no-looker-but-its-a-tactical-slaughterfest-so-deep-you-could-drown)
- - [The Art Of Foundation](https://kotaku.com/the-art-of-foundation-1847986378)
- - [This mod lets you seamlessly fight Crusader Kings 3 battles in Mount & Blade 2](https://www.pcgamer.com/this-mod-lets-you-seamlessly-fight-crusader-kings-3-battles-in-mount-and-blade-2)<!-- GAME:END -->
+ - [The Art Of Foundation](https://kotaku.com/the-art-of-foundation-1847986378)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
