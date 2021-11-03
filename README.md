@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hard Potato](http://9gag.com/gag/aegNnzp)
- - 🚯 [A rough beginning we&#039;ve all been through...](http://9gag.com/gag/azebWZN)
- - 🚯 [Indeed](http://9gag.com/gag/azebpzp)<!-- MEMES:END -->
+ - 🚖 [A rough beginning we&#039;ve all been through...](http://9gag.com/gag/azebWZN)
+ - 🚯 [As he should](http://9gag.com/gag/aLvKxKV)
+ - 🚯 [They be whistling ll the way](http://9gag.com/gag/aXrbBdv)<!-- MEMES:END -->
 
 --- 
 
