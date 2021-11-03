@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [These new WD 20TB hard drives could hold your entire Steam collection](https://www.pcgamer.com/these-new-wd-20tb-hard-drives-could-hold-your-entire-steam-collection)
- - [Razer's new silent office range could be great for streamers and gamers](https://www.pcgamer.com/razers-new-silent-office-range-could-be-great-for-streamers-and-gamers)
- - [Gantz Creator Is Apparently In The Dark About Hollywood's Live-Action Adaptation](https://kotaku.com/gantz-creator-is-apparently-in-the-dark-about-hollywood-1847987504)<!-- GAME:END -->
+ - [Japanese Indie Game Gets Themed Rooms At Kyoto Hotel](https://kotaku.com/japanese-indie-game-gets-themed-rooms-at-kyoto-hotel-1847987793)
+ - [GPUs are selling for their highest prices since April in Germany and Austria](https://www.pcgamer.com/gpus-are-selling-for-their-highest-prices-since-april-in-germany-and-austria)
+ - [Psychonauts 2's quality-of-life update makes hunting that last pesky collectable a little easier](https://www.pcgamer.com/psychonauts-2s-quality-of-life-update-makes-hunting-that-last-pesky-collectable-a-little-easier)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
