@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Side-loading is a gold rush for cybercriminals, says Craig Federighi](https://appleinsider.com/articles/21/11/03/ios-side-loading-would-be-a-gold-rush-for-cybercriminals-says-craig-federighi?utm_medium=rss)
- - [Adidas reveals a new, Xbox 360-inspired sneaker that you can actually buy](https://www.theverge.com/2021/11/3/22761354/adidas-sneaker-xbox-360-design-anniversary-microsoft)
- - [A one-ton tungsten cube was just bought by a crypto cabal for $250,000](https://www.theverge.com/2021/11/3/22761305/tungsten-cube-meme-nft-crypto-midwest)<!-- TECH:END -->
+ - [Instagram and Twitter finally make link previews work again](https://www.theverge.com/2021/11/3/22761713/instagram-twitter-link-card-previews)
+ - [Facebook skirts Apple’s App Store fees with custom subscription links for creators](https://www.theverge.com/2021/11/3/22761620/facebook-apple-app-store-fees-subscription-links-creators)
+ - [Apple releases HomePod software version 15.1.1 with fix for Podcasts playback](https://appleinsider.com/articles/21/11/03/apple-releases-homepod-software-version-1511-with-fix-for-podcasts-playback?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
