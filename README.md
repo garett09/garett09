@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Facebook has done little to act on the Islamophobic "Love Jihad" conspiracy theory on its platform in India due to "political sensitivities" (Billy Perrigo/TIME)](http://www.techmeme.com/211103/p10#a211103p10)
- - [Daily Authority: Netflix rolls out its games 📺](https://www.androidauthority.com/newsletters/da-november-3-2021/)
- - [How to run Android apps on Windows 11](https://www.androidauthority.com/how-to-run-android-apps-on-windows-11-3048569/)<!-- TECH:END -->
+ - [HoneyBook, which offers business management tools to SMBs and freelancers, raises a $250M Series E led by Tiger Global at a $2.4B valuation, up from $1B+ in May (Kyle Wiggers/VentureBeat)](http://www.techmeme.com/211103/p15#a211103p15)
+ - [Nothing has 5 new products in the works, but what could they be?](https://www.androidauthority.com/nothing-5-products-3051056/)
+ - [Indian ride-hailing company Ola reports its first operating profit since beginning operations a decade ago, with $12M for FY ending March 2021 (Aditi Shah/Reuters)](http://www.techmeme.com/211103/p14#a211103p14)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
