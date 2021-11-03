@@ -194,8 +194,8 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [A rough beginning we&#039;ve all been through...](http://9gag.com/gag/azebWZN)
- - 🚯 [As he should](http://9gag.com/gag/aLvKxKV)
- - 🚯 [They be whistling ll the way](http://9gag.com/gag/aXrbBdv)<!-- MEMES:END -->
+ - 🚯 [Light Is dear](http://9gag.com/gag/a81WR7Y)
+ - 🚯 [As he should](http://9gag.com/gag/aLvKxKV)<!-- MEMES:END -->
 
 --- 
 
