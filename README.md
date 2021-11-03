@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Shares of Kakao Pay, South Korea's largest mobile payments app, surged 150%+ in early trading after it raised $1.3B in its Seoul IPO at a ~$9.94B valuation (Bloomberg)](http://www.techmeme.com/211102/p44#a211102p44)
  - [Happy Halloween! Theranos showed up in a Pfizer costume](https://www.theverge.com/2021/11/2/22760601/theranos-pfizer-schering-plough-logo-memo)
- - [Niantic to shut down 'Harry Potter: Wizards Unite' AR game](https://appleinsider.com/articles/21/11/03/niantic-to-shut-down-harry-potter-wizards-unite-ar-game?utm_medium=rss)
- - [Decline in bird songs may threaten human connections with nature     - CNET](https://www.cnet.com/news/decline-in-bird-songs-may-threaten-human-connections-with-nature/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Niantic to shut down 'Harry Potter: Wizards Unite' AR game](https://appleinsider.com/articles/21/11/03/niantic-to-shut-down-harry-potter-wizards-unite-ar-game?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
