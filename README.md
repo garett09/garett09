@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When everybody chooses the fastest individual means of transport at the same time, it ends up being the slowest](http://9gag.com/gag/aVxONW8)
- - 🚯 [Great view at work](http://9gag.com/gag/a91dQR6)
- - 🚯 [Women&#039;s football summed up in a few seconds.](http://9gag.com/gag/aVxOnww)<!-- MEMES:END -->
+ - 🚖 [Women&#039;s football summed up in a few seconds.](http://9gag.com/gag/aVxOnww)
+ - 🚯 [It got interesting real fast](http://9gag.com/gag/awzr61D)
+ - 🚯 [Any Mindhunter fans? The director says that the he will make the next season if the enough audience is interested. We should make them know](http://9gag.com/gag/a91d921)<!-- MEMES:END -->
 
 --- 
 
