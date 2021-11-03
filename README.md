@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A rough beginning we&#039;ve all been through...](http://9gag.com/gag/azebWZN)
- - 🚯 [Light Is dear](http://9gag.com/gag/a81WR7Y)
- - 🚯 [Best feeling ever](http://9gag.com/gag/amgXeG6)<!-- MEMES:END -->
+ - 🚖 [Best feeling ever](http://9gag.com/gag/amgXeG6)
+ - 🚯 [Le Science](http://9gag.com/gag/a715zbq)
+ - 🚯 [As he should](http://9gag.com/gag/aLvKxKV)<!-- MEMES:END -->
 
 --- 
 
