@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 2022 Volkswagen ID 5 is a sporty electric SUV with over 300 miles of range](https://www.theverge.com/2021/11/3/22761441/vw-id5-electric-suv-coupe-specs-price)
- - [GitHub CEO Nat Friedman will step down on November 15; Thomas Dohmke, who recently became its chief product officer, will take over as CEO (Frederic Lardinois/TechCrunch)](http://www.techmeme.com/211103/p21#a211103p21)
- - [Save $75 on Gotrax Gmax Ultra electric scooter     - Roadshow](https://www.cnet.com/roadshow/news/save-75-on-gotrax-gmax-ultra-electric-scooter/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Side-loading is a gold rush for cybercriminals, says Craig Federighi](https://appleinsider.com/articles/21/11/03/ios-side-loading-would-be-a-gold-rush-for-cybercriminals-says-craig-federighi?utm_medium=rss)
+ - [Adidas reveals a new, Xbox 360-inspired sneaker that you can actually buy](https://www.theverge.com/2021/11/3/22761354/adidas-sneaker-xbox-360-design-anniversary-microsoft)
+ - [A one-ton tungsten cube was just bought by a crypto cabal for $250,000](https://www.theverge.com/2021/11/3/22761305/tungsten-cube-meme-nft-crypto-midwest)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
