@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Customer stated that she stopped at a gas station walked in and when she came out her car wouldn&#039;t start.](http://9gag.com/gag/aZrWqXV)
- - 🚯 [The good ol&lsquo; days](http://9gag.com/gag/aWg0B2A)
+ - 🚖 [The good ol&lsquo; days](http://9gag.com/gag/aWg0B2A)
+ - 🚯 [Customer stated that she stopped at a gas station walked in and when she came out her car wouldn&#039;t start.](http://9gag.com/gag/aZrWqXV)
  - 🚯 [Not everything is meant to be shared on social media.](http://9gag.com/gag/ajg6QXp)<!-- MEMES:END -->
 
 --- 
