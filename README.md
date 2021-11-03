@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Atlas – Sea of Wonders Now Available on Xbox One](https://news.xbox.com/en-us/2021/11/03/atlas-sea-of-wonders-now-available-on-xbox-one/)
- - [Twitch money-laundering scheme triggers call for investigation from Turkish politician](https://www.pcgamer.com/twitch-money-laundering-scheme-triggers-call-for-investigation-from-turkish-politician)
- - [Elden Ring: Everything we know about FromSoftware's next game](https://www.pcgamer.com/elden-ring-everything-we-know)<!-- GAME:END -->
+ - [Battlefield 2042 offers 10-hour trial to EA Play and Game Pass subscribers](https://www.polygon.com/22762002/battlefield-2042-trial-demo-ea-play-xbox-game-pass-dice)
+ - [Marvel’s Midnight Suns delayed until late 2022](https://www.polygon.com/22762076/marvels-midnight-suns-delayed-late-2022-firaxis-xcom)
+ - [A 15 minute Elden Ring gameplay reveal is coming tomorrow](https://www.pcgamer.com/a-15-minute-elden-ring-gameplay-reveal-is-coming-tomorrow)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
