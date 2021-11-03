@@ -194,8 +194,8 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [That&#039;s how villains are made](http://9gag.com/gag/ajgrb4x)
- - 🚯 [Diversity my ass](http://9gag.com/gag/apgqynE)
- - 🚯 [Now the logo of the climate change makes sense](http://9gag.com/gag/arnp6jK)<!-- MEMES:END -->
+ - 🚯 [Nuance is the new N word](http://9gag.com/gag/azebNOz)
+ - 🚯 [Clowns in Glasgow right now](http://9gag.com/gag/apgqy0n)<!-- MEMES:END -->
 
 --- 
 
