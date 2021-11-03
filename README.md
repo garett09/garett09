@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Diversity my ass](http://9gag.com/gag/apgqynE)
- - 🚯 [Hot coffee](http://9gag.com/gag/aPZvOqV)
- - 🚯 [Actually yes](http://9gag.com/gag/a81WrDV)<!-- MEMES:END -->
+ - 🚖 [Actually yes](http://9gag.com/gag/a81WrDV)
+ - 🚯 [Nature is amazing](http://9gag.com/gag/aBnQ9OZ)
+ - 🚯 [Hot coffee](http://9gag.com/gag/aPZvOqV)<!-- MEMES:END -->
 
 --- 
 
