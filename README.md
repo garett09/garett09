@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Join Us for This Year’s RE:WIRED Celebration](https://www.wired.com/story/2021-rewired-conference-announcement)
- - [Clearview AI ordered to delete all facial recognition data belonging to Australians](https://www.theverge.com/2021/11/3/22761001/clearview-ai-facial-recognition-australia-breach-data-delete)
- - [You can now grab Samsung’s Galaxy Note 20 series November patch](https://www.androidauthority.com/samsung-galaxy-note-20-update-1145703/)<!-- TECH:END -->
+ - [Chinese central bank official says around 140M people opened wallets for digital yuan as of October and used it for transactions totaling around $9.7B (Reuters)](http://www.techmeme.com/211103/p7#a211103p7)
+ - [Our Favorite Digital Gift Ideas for Friends and Family](https://www.wired.com/story/gift-cards-and-digital-gift-ideas)
+ - [The United Nations Could Finally Create New Rules for Space](https://www.wired.com/story/the-united-nations-could-finally-create-new-rules-for-space)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
