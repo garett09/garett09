@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Company salaries of data protection officers are soaring across China after laws were introduced that hold the officers personally responsible for any failures (Eleanor Olcott/Financial Times)](http://www.techmeme.com/211103/p2#a211103p2)
  - [Australia's largest bank Commonwealth Bank to become the country's first bank to offer customers crypto services, including cryptocurrency trading via its app (Paulina Duran/Reuters)](http://www.techmeme.com/211103/p1#a211103p1)
- - [Samsung apes Safari's most derided iOS 15 feature](https://appleinsider.com/articles/21/11/03/samsung-apes-mobile-safaris-most-derided-new-feature?utm_medium=rss)
- - [Jack Black, as a dinosaur, calls for urgent climate action in UN video     - CNET](https://www.cnet.com/news/jack-black-as-a-dinosaur-calls-for-urgent-climate-action-in-un-video/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Samsung apes Safari's most derided iOS 15 feature](https://appleinsider.com/articles/21/11/03/samsung-apes-mobile-safaris-most-derided-new-feature?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
