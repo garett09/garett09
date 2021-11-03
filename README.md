@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple's Jay Blahnik hints that Fitness+ could be produced in other languages](https://appleinsider.com/articles/21/11/03/apples-jay-blahnik-hints-that-fitness-could-be-produced-in-other-languages?utm_medium=rss)
- - [Googler who helped lead 2018 walkout is joining the FTC](https://www.theverge.com/2021/11/2/22759776/google-meredith-whittaker-ftc-nomination-ai-ethics-regulation)
- - [Apple releases macOS version of TestFlight after months of testing](https://appleinsider.com/articles/21/11/03/apple-releases-macos-version-of-testflight-after-months-of-testing?utm_medium=rss)<!-- TECH:END -->
+ - [EA Sports Might Lose ‘FIFA,’ and That’s Not So Bad](https://www.wired.com/story/ea-sports-might-lose-fifa-and-thats-not-so-bad)
+ - [‘Sideloading is a cyber criminal’s best friend,’ according to Apple’s software chief](https://www.theverge.com/2021/11/3/22761724/apple-craig-federighi-ios-sideloading-web-summit-2021-european-commission-digital-markets-act)
+ - [Netflix adds a trio of movies from Squid Game director](https://www.theverge.com/2021/11/3/22761602/netflix-squid-game-director-movies)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
