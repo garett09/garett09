@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Drop into the Vans World Experience on Roblox](https://news.xbox.com/en-us/2021/11/03/vans-world-experience-roblox/)
- - [Ubisoft gears up for its 35th birthday with discounts and freebies](https://www.pcgamer.com/ubisoft-gears-up-for-its-35th-birthday-with-discounts-and-freebies)
- - [Battlefield Portal is still the most exciting thing about Battlefield 2042](https://www.pcgamer.com/battlefield-portal-is-still-the-most-exciting-thing-about-battlefield-2042)<!-- GAME:END -->
+ - [Atlas – Sea of Wonders Now Available on Xbox One](https://news.xbox.com/en-us/2021/11/03/atlas-sea-of-wonders-now-available-on-xbox-one/)
+ - [Twitch money-laundering scheme triggers call for investigation from Turkish politician](https://www.pcgamer.com/twitch-money-laundering-scheme-triggers-call-for-investigation-from-turkish-politician)
+ - [Elden Ring: Everything we know about FromSoftware's next game](https://www.pcgamer.com/elden-ring-everything-we-know)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
