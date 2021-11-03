@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Battlefield 2042 offers 10-hour trial to EA Play and Game Pass subscribers](https://www.polygon.com/22762002/battlefield-2042-trial-demo-ea-play-xbox-game-pass-dice)
- - [Marvel’s Midnight Suns delayed until late 2022](https://www.polygon.com/22762076/marvels-midnight-suns-delayed-late-2022-firaxis-xcom)
- - [A 15 minute Elden Ring gameplay reveal is coming tomorrow](https://www.pcgamer.com/a-15-minute-elden-ring-gameplay-reveal-is-coming-tomorrow)<!-- GAME:END -->
+ - [Introducing Tandem: A Tale of Shadows, Out Now on Xbox One](https://news.xbox.com/en-us/2021/11/03/tandem-a-tale-of-shadows-on-xbox-one/)
+ - [Revisit Tecmo’s long-forgotten Rygar in a 154-page fan book](https://www.polygon.com/22761861/tecmo-rygar-fan-book)
+ - [13 Games To Try If You Like Destiny 2](https://kotaku.com/13-games-to-try-if-you-like-destiny-2-1847992175)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
