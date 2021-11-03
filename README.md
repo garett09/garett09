@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [NBA player flirting with official](http://9gag.com/gag/aNPe7AG)
- - 🚯 [Father stops midway down the aisle to ask his daughter&#039;s Step-Father to join them](http://9gag.com/gag/a51d4qr)
- - 🚯 [Fast...](http://9gag.com/gag/a51dOBr)<!-- MEMES:END -->
+ - 🚖 [Father stops midway down the aisle to ask his daughter&#039;s Step-Father to join them](http://9gag.com/gag/a51d4qr)
+ - 🚯 [They just look how to make more laws to tax us.](http://9gag.com/gag/aE8w9Ln)
+ - 🚯 [Why the law always defended the Criminals? If you are to defend your family, why you have to be arrested?](http://9gag.com/gag/aqGmq6R)<!-- MEMES:END -->
 
 --- 
 
