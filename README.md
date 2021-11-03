@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [EA Sports Might Lose ‘FIFA,’ and That’s Not So Bad](https://www.wired.com/story/ea-sports-might-lose-fifa-and-thats-not-so-bad)
- - [‘Sideloading is a cyber criminal’s best friend,’ according to Apple’s software chief](https://www.theverge.com/2021/11/3/22761724/apple-craig-federighi-ios-sideloading-web-summit-2021-european-commission-digital-markets-act)
- - [Netflix adds a trio of movies from Squid Game director](https://www.theverge.com/2021/11/3/22761602/netflix-squid-game-director-movies)<!-- TECH:END -->
+ - [Apple TV+ holds press event for 'Dr. Brain' on day of US premiere](https://appleinsider.com/articles/21/11/03/apple-tv-holds-press-event-for-dr-brain-on-day-of-us-premiere?utm_medium=rss)
+ - [Take-Two Interactive Q2: revenue of $858.2M, up 2% YoY, net bookings of $984.9M, up 3%; GTA V has sold 155M+ copies and generated $6B+ in revenue since 2013 (Dean Takahashi/VentureBeat)](http://www.techmeme.com/211103/p27#a211103p27)
+ - [Qualcomm Q4: revenue of $9.3B, up 43% YoY, net income of $2.9B, up 75%, chip revenue of $7.7B, up 56%, and FY 2021 revenue of $33.5B, up 55%; stock up 5%+ (Stephanie Condon/ZDNet)](http://www.techmeme.com/211103/p26#a211103p26)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
