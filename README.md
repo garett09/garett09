@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nintendo releases Animal Crossing’s big 2.0 update early](https://www.theverge.com/2021/11/3/22762709/animal-crossing-2-0-update-released-early-nintendo)
- - [9-year-old unlocks unconscious father's iPhone with his face to call 911](https://appleinsider.com/articles/21/11/03/9-year-old-unlocks-fathers-iphone-with-his-face-calls-911-as-carbon-monoxide-fills-home?utm_medium=rss)
- - [Meta to continue use of facial recognition technology](https://appleinsider.com/articles/21/11/04/meta-to-continue-use-of-facial-recognition-technology?utm_medium=rss)<!-- TECH:END -->
+ - [Klarna to acquire PriceRunner, a UK-based product and price comparison service, for ~$124M as it looks to strengthen its buy now, pay later service (PYMNTS.com)](http://www.techmeme.com/211103/p34#a211103p34)
+ - [Israel-based Autobrains, formerly Cartica AI, which develops AI-powered assisted and autonomous driving tech, raises a $101M Series C led by Temasek (Dubi Ben-Gedalyahu/Globes Online)](http://www.techmeme.com/211103/p33#a211103p33)
+ - [Nintendo releases Animal Crossing’s big 2.0 update early](https://www.theverge.com/2021/11/3/22762709/animal-crossing-2-0-update-released-early-nintendo)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
