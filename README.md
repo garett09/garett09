@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung’s flagship foldable gains November 2021 update](https://www.androidauthority.com/samsung-galaxy-z-fold-3-updates-3032543/)
- - [How to install Google Play Store on Windows 11](https://www.androidauthority.com/how-to-install-google-play-store-on-windows-11-3049609/)
- - [Chinese self-driving startup Momenta raises $200M from investors including SAIC and Jack Ma's Yunfeng Capital, bringing its total raised this year to ~$1.2B (Chunying Zhang/Bloomberg)](http://www.techmeme.com/211104/p4#a211104p4)<!-- TECH:END -->
+ - [PitchBook: female-founded startups raised a record $40.4B across 2,661 VC deals in the first three quarters of 2021, with the value of exits reaching $59B (Biz Carson/Protocol)](http://www.techmeme.com/211104/p5#a211104p5)
+ - [Microsoft Surface Duo 2: A Bad Case for 2 Screens](https://www.wired.com/review/microsoft-surface-duo-2)
+ - [The Metaverse Is Simply Big Tech, but Bigger](https://www.wired.com/story/big-tech-metaverse-internet-consolidation-business)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
