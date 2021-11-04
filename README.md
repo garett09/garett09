@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How Jurassic World Evolution 2 lets players revisit the films in Chaos Theory mode](http://feedproxy.google.com/~r/PSBlog/~3/laXtz-wsHp0/)
- - [Total War: Warhammer 3 marches out next February, Ogres and all](https://www.pcgamer.com/total-war-warhammer-3-marches-out-next-february-ogres-and-all)
- - [How Jurassic World Evolution 2 lets players revisit the films in Chaos Theory mode](https://blog.playstation.com/2021/11/04/how-jurassic-world-evolution-2-lets-players-revisit-the-films-in-chaos-theory-mode/)<!-- GAME:END -->
+ - [Should you pay the fine in Guardians of the Galaxy?](https://www.pcgamer.com/guardians-of-the-galaxy-pay-fine-or-not)
+ - [The best gaming PC in 2021](https://www.pcgamer.com/best-gaming-pc)
+ - [Wield time-traveling tricks in Wanderer, coming to PS VR January 27](http://feedproxy.google.com/~r/PSBlog/~3/5-tx_BPyma8/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
