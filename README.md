@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Dads and their fish](http://9gag.com/gag/aqGZ96p)
- - 🚯 [Customer stated that she stopped at a gas station walked in and when she came out her car wouldn&#039;t start.](http://9gag.com/gag/aZrWqXV)
+ - 🚖 [When someone sees you](http://9gag.com/gag/awzb0A8)
+ - 🚯 [What tv scene gets you everytime?](http://9gag.com/gag/aE8GvOn)
  - 🚯 [This move is so hard to pull off that it was made illegal a few years ago and this athlete was penalized for performing it anyway.](http://9gag.com/gag/aYrpNGV)<!-- MEMES:END -->
 
 --- 
