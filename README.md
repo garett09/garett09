@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Forza Horizon 5 is the perfect portable Xbox game](https://www.theverge.com/2021/11/4/22762183/forza-horizon-5-perfect-portable-xbox-game-series-x-s-pc-steam)
- - [Amazon’s Fire TV products now have a pretty impressive update policy](https://www.androidauthority.com/amazon-fire-tv-updates-3047784/)
- - [How US agencies are preparing for "post-quantum cryptography" against attackers who harvest sensitive data now for decryption in the future (Patrick Howell O'Neill/MIT Technology ...)](http://www.techmeme.com/211104/p3#a211104p3)<!-- TECH:END -->
+ - [Chinese self-driving startup Momenta raises $200M from investors including SAIC and Jack Ma's Yunfeng Capital, bringing its total raised this year to ~$1.2B (Chunying Zhang/Bloomberg)](http://www.techmeme.com/211104/p4#a211104p4)
+ - [You told us: You’re far from content with current phone case options](https://www.androidauthority.com/phone-cases-poll-results-3051481/)
+ - [Nintendo cuts Switch sales forecast due to global chip shortage](https://www.theverge.com/2021/11/4/22762933/nintendo-earnings-q2-2021-switch-sales-forecast)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
