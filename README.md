@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [9-year-old unlocks father's iPhone with his face, calls 911 as carbon monoxide fills home](https://appleinsider.com/articles/21/11/03/9-year-old-unlocks-fathers-iphone-with-his-face-calls-911-as-carbon-monoxide-fills-home?utm_medium=rss)
- - [Take-Two spent $53 million on a cancelled game that was never even announced](https://www.theverge.com/2021/11/3/22762349/take-two-cancelled-unannounced-title-from-hangar-13)
- - [Notability blinks on charging users more, grandfathers in existing users](https://www.theverge.com/2021/11/3/22761662/notability-notes-ginger-labs-subscription-rollback-apology)<!-- TECH:END -->
+ - [Sonos’ voice assistant might work alongside Alexa but not the Google Assistant](https://www.theverge.com/2021/11/3/22762436/sonos-voice-control-assistant-amazon-alexa-google-assistant)
+ - [#AppleToo leader claims she was axed for organizing employee movement](https://appleinsider.com/articles/21/11/02/appletoo-leader-claims-she-was-axed-for-organizing-employee-movement?utm_medium=rss)
+ - [China's great Big Tech experiment matters everywhere     - CNET](https://www.cnet.com/news/chinas-great-big-tech-experiment-matters-everywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
