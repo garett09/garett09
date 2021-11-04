@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon Flex drivers will start getting checks for $60 million in withheld tips](https://www.theverge.com/2021/11/4/22763749/amazon-flex-drivers-pay-ftc-tips-lawsuit-settlement-prime-now-fresh)
- - [Apple redesigns its Apple ID webpage with cleaner look](https://appleinsider.com/articles/21/11/04/apple-redesigns-its-apple-id-webpage-with-cleaner-look?utm_medium=rss)
- - [Google allowing alternate in-app payments to comply with South Korean law](https://appleinsider.com/articles/21/11/04/google-allowing-alternate-in-app-payments-to-comply-with-south-korean-law?utm_medium=rss)<!-- TECH:END -->
+ - [HashiCorp, which helps companies manage cloud infrastructure, files for a US IPO; source say it could seek to raise $1B+ and is aiming for a $10B+ valuation (Bloomberg)](http://www.techmeme.com/211104/p24#a211104p24)
+ - [Surprise! Facebook’s climate denial problem got worse this year](https://www.theverge.com/2021/11/4/22763795/facebook-climate-denial-worse-study)
+ - [The Verge Wins The New York Emmy Award For Best Short Form Content in Health](https://www.theverge.com/2021/11/4/22763900/the-verge-wins-the-new-york-emmy-award-for-best-short-form-content-in-health)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
