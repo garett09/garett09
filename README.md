@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I&#039;m always at my best in the shower](http://9gag.com/gag/aKmggwg)
- - 🚯 [Is this true? Are we that simple?!](http://9gag.com/gag/a81bWwd)
- - 🚯 [Yes](http://9gag.com/gag/a81bWR1)<!-- MEMES:END -->
+ - 🚖 [Yes](http://9gag.com/gag/a81bWR1)
+ - 🚯 [Thus began her career in IT.](http://9gag.com/gag/angXXrz)
+ - 🚯 [The girl thought he was rapping](http://9gag.com/gag/a0ZPPnn)<!-- MEMES:END -->
 
 --- 
 
