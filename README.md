@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Old but gold](http://9gag.com/gag/awzb0WR)
- - 🚯 [This move is so hard to pull off that it was made illegal a few years ago and this athlete was penalized for performing it anyway.](http://9gag.com/gag/aYrpNGV)
- - 🚯 [What tv scene gets you everytime?](http://9gag.com/gag/aE8GvOn)<!-- MEMES:END -->
+ - 🚖 [Thank god she&rsquo;s pretty](http://9gag.com/gag/a91MjZK)
+ - 🚯 [It is what it is](http://9gag.com/gag/agg0yDv)
+ - 🚯 [Yes](http://9gag.com/gag/a81bWR1)<!-- MEMES:END -->
 
 --- 
 
