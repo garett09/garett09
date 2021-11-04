@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Thank god she&rsquo;s pretty](http://9gag.com/gag/a91MjZK)
+ - 🚖 [WOOOOOO](http://9gag.com/gag/a81bWBV)
  - 🚯 [It is what it is](http://9gag.com/gag/agg0yDv)
- - 🚯 [Yes](http://9gag.com/gag/a81bWR1)<!-- MEMES:END -->
+ - 🚯 [For $10,000 college tuition, make: a layup, a free throw, a three-pointer, a half-court shot. All in 30 seconds.](http://9gag.com/gag/aWg0ZAq)<!-- MEMES:END -->
 
 --- 
 
