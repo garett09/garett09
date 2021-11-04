@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Every Covenant race in Halo, explained](https://www.polygon.com/22749506/halo-covenant-races-explained-elite-grunt-brute-hunter-jackal-drone-engineer-prophet)
- - [Magic: The Gathering’s new Odric is a vampire that will get your blood pumping](https://www.polygon.com/22763935/magic-the-gathering-innistrad-crimson-vow-preview-card-odric-blood-cursed-art)
- - [Push a button to make it rain missiles in the new Rust update](https://www.pcgamer.com/push-a-button-to-make-it-rain-missiles-in-the-new-rust-update)<!-- GAME:END -->
+ - [5 things we loved in the 15 minutes of new Elden Ring gameplay](https://www.pcgamer.com/five-things-we-loved-in-the-15-minutes-of-new-elden-ring-gameplay)
+ - [A Truck Full Of Precious PC Graphics Cards Has Been Stolen](https://kotaku.com/a-truck-full-of-precious-pc-graphics-cards-has-been-sto-1847999927)
+ - [There’s a new FarmVille game with new crops and cute animals](https://www.polygon.com/22764089/farmville-3-announcement-ios-android-devices-details)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
