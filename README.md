@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [PitchBook: female-founded startups raised a record $40.4B across 2,661 VC deals in the first three quarters of 2021, with the value of exits reaching $59B (Biz Carson/Protocol)](http://www.techmeme.com/211104/p5#a211104p5)
- - [Microsoft Surface Duo 2: A Bad Case for 2 Screens](https://www.wired.com/review/microsoft-surface-duo-2)
- - [The Metaverse Is Simply Big Tech, but Bigger](https://www.wired.com/story/big-tech-metaverse-internet-consolidation-business)<!-- TECH:END -->
+ - [Daily Authority: $53M spent on no game](https://www.androidauthority.com/newsletters/da-november-4-2021/)
+ - [Apple could see record-breaking iPhone sales in Europe - if it can keep up](https://appleinsider.com/articles/21/11/04/apple-could-see-record-breaking-iphone-sales-in-europe---if-it-can-keep-up?utm_medium=rss)
+ - [Google outlines plans for first alternative in-app payments in South Korea](https://www.theverge.com/2021/11/4/22763040/google-in-app-purchases-alternative-south-korea-payments)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
