@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Yes](http://9gag.com/gag/a81bWR1)
- - 🚯 [Thus began her career in IT.](http://9gag.com/gag/angXXrz)
- - 🚯 [The girl thought he was rapping](http://9gag.com/gag/a0ZPPnn)<!-- MEMES:END -->
+ - 🚖 [The girl thought he was rapping](http://9gag.com/gag/a0ZPPnn)
+ - 🚯 [Bing as always giving straightforward solutions](http://9gag.com/gag/a81bbyd)
+ - 🚯 [Thus began her career in IT.](http://9gag.com/gag/angXXrz)<!-- MEMES:END -->
 
 --- 
 
