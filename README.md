@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Intel Core i9 12900K review](https://www.pcgamer.com/intel-core-i9-12900k-review-benchmarks-performance)
- - [Notes from the end of the world: Finch comes to Apple TV+ this Friday](http://feedproxy.google.com/~r/PSBlog/~3/3gQPzg48JqM/)
- - [Notes from the end of the world: Finch comes to Apple TV+ this Friday](https://blog.playstation.com/2021/11/04/notes-from-the-end-of-the-world-finch-comes-to-apple-tv-this-friday/)<!-- GAME:END -->
+ - [Team Asobi presents: How to draw Astro](http://feedproxy.google.com/~r/PSBlog/~3/lAv5GD_Qwww/)
+ - [Team Asobi presents: How to draw Astro](https://blog.playstation.com/2021/11/04/team-asobi-presents-how-to-draw-astro/)
+ - [Free Play Days – Tom Clancy’s Ghost Recon Breakpoint, Warhammer: Vermintide 2, and Street Power Soccer](https://news.xbox.com/en-us/2021/11/04/free-play-days-ghost-recon-breakpoint-warhammer-vermintide-2-and-street-power-soccer/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
