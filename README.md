@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When someone sees you](http://9gag.com/gag/awzb0A8)
+ - 🚖 [Old but gold](http://9gag.com/gag/awzb0WR)
  - 🚯 [This move is so hard to pull off that it was made illegal a few years ago and this athlete was penalized for performing it anyway.](http://9gag.com/gag/aYrpNGV)
- - 🚯 [What tv scene gets you everytime?](http://9gag.com/gag/aE8GvOn)<!-- MEMES:END -->
+ - 🚯 [F*** no nut November. Go No nicotine November! After 20+ years of smoking. Join me Brothers! Or not, no pressure.](http://9gag.com/gag/azeL78K)<!-- MEMES:END -->
 
 --- 
 
