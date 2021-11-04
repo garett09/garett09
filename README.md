@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best wireless earbuds to buy right now](https://www.theverge.com/21309820/best-wireless-earbuds)
- - [Elden Ring debuts 15 minutes of new gameplay](https://www.theverge.com/2021/11/4/22763258/elden-ring-new-gameplay-demo)
- - [Treasure Data, which offers an enterprise customer data platform, raises $234M led by SoftBank (Kolawole Samuel Adebayo/VentureBeat)](http://www.techmeme.com/211104/p18#a211104p18)<!-- TECH:END -->
+ - [Microsoft warns Windows 11 features are failing due to its expired certificate](https://www.theverge.com/2021/11/4/22763641/microsoft-windows-11-expired-certificate-snipping-tool-emoji-picker-issues)
+ - [Alphabet launches Isomorphic Laboratories, a company that uses AI for drug discovery; DeepMind CEO Demis Hassabis will also serve as Isomorphic CEO (Nicole Wetsman/The Verge)](http://www.techmeme.com/211104/p21#a211104p21)
+ - [Review of Intel's ~$650 flagship i9-12900K Alder Lake CPU, which performs closer to AMD's 5950X and 5900X depending on workloads, while adding DDR5 support (AnandTech)](http://www.techmeme.com/211104/p20#a211104p20)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
