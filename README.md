@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This is pretty neat](http://9gag.com/gag/a11Zevb)
- - 🚯 [Thus began her career in IT.](http://9gag.com/gag/angXXrz)
- - 🚯 [When I go on long trips at nite it really gets me](http://9gag.com/gag/agg003W)<!-- MEMES:END -->
+ - 🚖 [When I go on long trips at nite it really gets me](http://9gag.com/gag/agg003W)
+ - 🚯 [This is pretty neat](http://9gag.com/gag/a11Zevb)
+ - 🚯 [When the cat doesn&#039;t live rent free in your house](http://9gag.com/gag/aeg33xj)<!-- MEMES:END -->
 
 --- 
 
