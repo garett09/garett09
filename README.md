@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple's iCloud Private Relay is down for some users [u]](https://appleinsider.com/articles/21/11/03/apples-icloud-private-relay-is-down-for-some-users?utm_medium=rss)
- - [Apple again hints at unannounced 'homeOS' in job listing](https://appleinsider.com/articles/21/11/03/apple-again-hints-at-unannounced-homeos-in-job-listing?utm_medium=rss)
- - [9-year-old unlocks unconscious father's iPhone with his face to call 911](https://appleinsider.com/articles/21/11/03/9-year-old-unlocks-fathers-iphone-with-his-face-calls-911-as-carbon-monoxide-fills-home?utm_medium=rss)<!-- TECH:END -->
+ - [The best deals on 4K TVs](https://www.theverge.com/22371561/best-4k-tv-deals-sale-lg-samsung-sony-tcl)
+ - [Google says it will add the option for developers to offer alternative billing systems on its Android app store in South Korea, complying with a recent law (Vlad Savov/Bloomberg)](http://www.techmeme.com/211104/p2#a211104p2)
+ - [Apple's iCloud Private Relay is down for some users [u]](https://appleinsider.com/articles/21/11/03/apples-icloud-private-relay-is-down-for-some-users?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
