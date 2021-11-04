@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Klarna to acquire PriceRunner, a UK-based product and price comparison service, for ~$124M as it looks to strengthen its buy now, pay later service (PYMNTS.com)](http://www.techmeme.com/211103/p34#a211103p34)
- - [Israel-based Autobrains, formerly Cartica AI, which develops AI-powered assisted and autonomous driving tech, raises a $101M Series C led by Temasek (Dubi Ben-Gedalyahu/Globes Online)](http://www.techmeme.com/211103/p33#a211103p33)
- - [Nintendo releases Animal Crossing’s big 2.0 update early](https://www.theverge.com/2021/11/3/22762709/animal-crossing-2-0-update-released-early-nintendo)<!-- TECH:END -->
+ - [Internal documents shed light on Facebook's "holdout" experiments, where it withholds certain protections from a subset of users to see how they will react (Issie Lapowsky/Protocol)](http://www.techmeme.com/211103/p36#a211103p36)
+ - [Whimsical, which makes tools for workplace collaboration, raises a $30M Series A led by Accel after being bootstrapped since its founding in 2017 (Christine Hall/TechCrunch)](http://www.techmeme.com/211103/p35#a211103p35)
+ - [Klarna to acquire PriceRunner, a product and price comparison service, for ~$124M as it looks to strengthen its buy now, pay later service (PYMNTS.com)](http://www.techmeme.com/211103/p34#a211103p34)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
