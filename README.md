@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [New design Arlo Pro 2 launches with LTE, improved video quality](https://appleinsider.com/articles/21/11/04/new-design-arlo-pro-2-launches-with-lte-improved-video-quality?utm_medium=rss)
- - [The secrets of the first real smartphone, with Dieter Bohn](https://www.theverge.com/22762088/handspring-documentary-smartphone-iphone-android-appletv-roku-firetv-decoder-podcast)
- - [Insignia’s 55-inch QLED 4K TV is just $400 for today only](https://www.theverge.com/good-deals/2021/11/4/22763071/insignia-tv-ipad-pro-samsung-galaxy-buds-steam-game-deals-sale-best-buy-amazon)<!-- TECH:END -->
+ - [Best deals Nov. 4: $299 for a 65-inch 4K TV, $500 off Intel 16-inch MacBook Pro, more!](https://appleinsider.com/articles/21/11/04/best-deals-nov-4-299-for-a-65-inch-4k-tv-500-off-intel-16-inch-macbook-pro-more?utm_medium=rss)
+ - [The Best Laptop Stands to Save Your Achin' Neck](https://www.wired.com/gallery/best-laptop-stands)
+ - [Intel’s 12th Gen Core i9 doesn’t need Windows 11 for AMD beating boosts](https://www.theverge.com/22763042/intel-core-i9-12900k-review)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
