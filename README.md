@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sonos’ voice assistant might work alongside Alexa but not the Google Assistant](https://www.theverge.com/2021/11/3/22762436/sonos-voice-control-assistant-amazon-alexa-google-assistant)
- - [#AppleToo leader claims she was axed for organizing employee movement](https://appleinsider.com/articles/21/11/02/appletoo-leader-claims-she-was-axed-for-organizing-employee-movement?utm_medium=rss)
- - [China's great Big Tech experiment matters everywhere     - CNET](https://www.cnet.com/news/chinas-great-big-tech-experiment-matters-everywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Facebook attempts to bypass Apple's App Store fee with new Subscriptions payment link](https://appleinsider.com/articles/21/11/04/facebook-attempts-to-bypass-apples-app-store-fee-with-new-subscriptions-payment-link?utm_medium=rss)
+ - [Best true wireless earbuds for 2021     - CNET](https://www.cnet.com/tech/mobile/best-wireless-earbuds-2021-true-headphones-airpods-samsung-buds/#ftag=CAD590a51e)
+ - [UFC 268 Kamaru Usman vs. Colby Covington: Start time, how to watch or stream online     - CNET](https://www.cnet.com/news/ufc-268-kamaru-usman-vs-colby-covington-start-time-how-to-watch-or-stream-online/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
