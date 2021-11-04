@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Rise of the squidlike? Investigating the proliferation of Squid Game games](https://www.pcgamer.com/squid-game-games)
  - [Report: Hackers Laundered $10 Million On Twitch](https://kotaku.com/report-hackers-laundered-10-million-on-twitch-1847993263)
- - [Oh Man, Look At These Death Stranding Dropkicks](https://kotaku.com/oh-man-look-at-these-death-stranding-dropkicks-1847993301)
- - [Here are the classic Battlefield maps, guns, and vehicles in Battlefield Portal](https://www.pcgamer.com/battlefield-portal-classic-maps-guns-vehicles)<!-- GAME:END -->
+ - [Oh Man, Look At These Death Stranding Dropkicks](https://kotaku.com/oh-man-look-at-these-death-stranding-dropkicks-1847993301)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
