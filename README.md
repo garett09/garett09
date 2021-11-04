@@ -194,8 +194,8 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [When someone sees you](http://9gag.com/gag/awzb0A8)
- - 🚯 [What tv scene gets you everytime?](http://9gag.com/gag/aE8GvOn)
- - 🚯 [This move is so hard to pull off that it was made illegal a few years ago and this athlete was penalized for performing it anyway.](http://9gag.com/gag/aYrpNGV)<!-- MEMES:END -->
+ - 🚯 [This move is so hard to pull off that it was made illegal a few years ago and this athlete was penalized for performing it anyway.](http://9gag.com/gag/aYrpNGV)
+ - 🚯 [What tv scene gets you everytime?](http://9gag.com/gag/aE8GvOn)<!-- MEMES:END -->
 
 --- 
 
