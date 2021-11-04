@@ -194,8 +194,8 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Blyat!!!](http://9gag.com/gag/amgL0bX)
- - 🚯 [Bike proof bridges](http://9gag.com/gag/aRrgP1B)
- - 🚯 [I&#039;m going to take out a food loan...](http://9gag.com/gag/aE8G1pO)<!-- MEMES:END -->
+ - 🚯 [Summer games](http://9gag.com/gag/aAGVpKg)
+ - 🚯 [HE is skilled!](http://9gag.com/gag/a81bjD3)<!-- MEMES:END -->
 
 --- 
 
