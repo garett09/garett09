@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [You have a real good point here](http://9gag.com/gag/aLvQQoW)
- - 🚯 [For the swaaaarm!! Zerg4Life](http://9gag.com/gag/a71Kyrm)
+ - 🚖 [Well, shit](http://9gag.com/gag/aLvQ2Px)
+ - 🚯 [400 dwarfs vs 1 elephant](http://9gag.com/gag/a91MPom)
  - 🚯 [We&#039;re walkin a tight rope boys](http://9gag.com/gag/a71Kb02)<!-- MEMES:END -->
 
 --- 
