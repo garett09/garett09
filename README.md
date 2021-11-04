@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft warns Windows 11 features are failing due to its expired certificate](https://www.theverge.com/2021/11/4/22763641/microsoft-windows-11-expired-certificate-snipping-tool-emoji-picker-issues)
- - [Alphabet launches Isomorphic Laboratories, a company that uses AI for drug discovery; DeepMind CEO Demis Hassabis will also serve as Isomorphic CEO (Nicole Wetsman/The Verge)](http://www.techmeme.com/211104/p21#a211104p21)
- - [Review of Intel's ~$650 flagship i9-12900K Alder Lake CPU, which performs closer to AMD's 5950X and 5900X depending on workloads, while adding DDR5 support (AnandTech)](http://www.techmeme.com/211104/p20#a211104p20)<!-- TECH:END -->
+ - [Amazon Flex drivers will start getting checks for $60 million in withheld tips](https://www.theverge.com/2021/11/4/22763749/amazon-flex-drivers-pay-ftc-tips-lawsuit-settlement-prime-now-fresh)
+ - [Apple redesigns its Apple ID webpage with cleaner look](https://appleinsider.com/articles/21/11/04/apple-redesigns-its-apple-id-webpage-with-cleaner-look?utm_medium=rss)
+ - [Google allowing alternate in-app payments to comply with South Korean law](https://appleinsider.com/articles/21/11/04/google-allowing-alternate-in-app-payments-to-comply-with-south-korean-law?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
