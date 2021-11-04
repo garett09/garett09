@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Should you pay the fine in Guardians of the Galaxy?](https://www.pcgamer.com/guardians-of-the-galaxy-pay-fine-or-not)
- - [The best gaming PC in 2021](https://www.pcgamer.com/best-gaming-pc)
- - [Wield time-traveling tricks in Wanderer, coming to PS VR January 27](http://feedproxy.google.com/~r/PSBlog/~3/5-tx_BPyma8/)<!-- GAME:END -->
+ - [Spider-Man comes to Marvel’s Avengers on Nov. 30](https://www.polygon.com/22532264/spider-man-marvels-avengers-dlc-release-date-ps5-ps4)
+ - [This horror game makes searching the walkthrough part of the mystery](https://www.polygon.com/22763547/mirror-layers-social-horror-game-impressions-pc)
+ - [The First Major DLC for Sword Art Online Alicization Lycoris is Out Now](https://news.xbox.com/en-us/2021/11/04/first-dlc-sword-art-online-alicization-lycoris-out-now/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
