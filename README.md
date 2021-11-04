@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Catdoor](http://9gag.com/gag/aOQyVRM)
- - 🚯 [At this point, i think the US should not be performing for free, they should start selling tickets for people to come enjoy the clown show !!!](http://9gag.com/gag/a31dB28)
- - 🚯 [400 dwarfs vs 1 elephant](http://9gag.com/gag/a91MPom)<!-- MEMES:END -->
+ - 🚖 [HE is skilled!](http://9gag.com/gag/a81bjD3)
+ - 🚯 [Catdoor](http://9gag.com/gag/aOQyVRM)
+ - 🚯 [8 months to go](http://9gag.com/gag/aDDwGzZ)<!-- MEMES:END -->
 
 --- 
 
