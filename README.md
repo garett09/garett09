@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Blyat!!!](http://9gag.com/gag/amgL0bX)
- - 🚯 [Summer games](http://9gag.com/gag/aAGVpKg)
- - 🚯 [HE is skilled!](http://9gag.com/gag/a81bjD3)<!-- MEMES:END -->
+ - 🚖 [You have a real good point here](http://9gag.com/gag/aLvQQoW)
+ - 🚯 [For the swaaaarm!! Zerg4Life](http://9gag.com/gag/a71Kyrm)
+ - 🚯 [We&#039;re walkin a tight rope boys](http://9gag.com/gag/a71Kb02)<!-- MEMES:END -->
 
 --- 
 
