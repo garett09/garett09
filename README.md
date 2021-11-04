@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Brewster Is Finally In Animal Crossing: New Horizons, If You Know Where To Look](https://kotaku.com/brewster-is-finally-in-animal-crossing-new-horizons-i-1847994327)
- - [The best gaming laptops in Australia for 2021](https://www.pcgamer.com/the-best-gaming-laptops-in-australia-for-2021)
- - [Animal Crossing's 2.0 Patch Adds First Person Camera That Makes The Entire Game Look New](https://kotaku.com/animal-crossings-first-person-camera-makes-the-entire-g-1847993932)<!-- GAME:END -->
+ - [Forza Horizon 5: The Kotaku Review](https://kotaku.com/forza-horizon-5-the-kotaku-review-1847989847)
+ - [Forza Horizon 5 review](https://www.pcgamer.com/forza-horizon-5-review)
+ - [Forza Horizon 5’s high-speed feast is bigger than the heartiest appetite](https://www.polygon.com/reviews/22762645/forza-horizon-5-review-xbox-game-pass-series-x-pc)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
