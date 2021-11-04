@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Summer games](http://9gag.com/gag/aAGVpKg)
- - 🚯 [A correctional officer was transporting Frederick Goss to his trial. After his handcuffs were removed and he was placed in a wheelchair, Goss grabbed for the officer&#039;s gun. Eventually, a deputy spotted the struggle on cameras and discharged his weapon.](http://9gag.com/gag/aVxQWnM)
+ - 🚖 [Catdoor](http://9gag.com/gag/aOQyVRM)
+ - 🚯 [At this point, i think the US should not be performing for free, they should start selling tickets for people to come enjoy the clown show !!!](http://9gag.com/gag/a31dB28)
  - 🚯 [400 dwarfs vs 1 elephant](http://9gag.com/gag/a91MPom)<!-- MEMES:END -->
 
 --- 
