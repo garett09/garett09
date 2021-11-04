@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Spider-Man comes to Marvel’s Avengers on Nov. 30](https://www.polygon.com/22532264/spider-man-marvels-avengers-dlc-release-date-ps5-ps4)
- - [This horror game makes searching the walkthrough part of the mystery](https://www.polygon.com/22763547/mirror-layers-social-horror-game-impressions-pc)
- - [The First Major DLC for Sword Art Online Alicization Lycoris is Out Now](https://news.xbox.com/en-us/2021/11/04/first-dlc-sword-art-online-alicization-lycoris-out-now/)<!-- GAME:END -->
+ - [What is the Donation box and how do I get it? — Animal Crossing: New Horizons guide](https://www.polygon.com/animal-crossing-new-horizons-switch-acnh-guide/22763571/donation-box-diy-bells)
+ - [New World is the first MMO I don't hate](https://www.pcgamer.com/new-world-is-the-first-mmo-i-dont-hate)
+ - [Take-Two boss says 'digital collectible goods' don't have value just because they're NFTs](https://www.pcgamer.com/take-two-boss-says-digital-collectible-goods-dont-have-value-just-because-theyre-nfts)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
