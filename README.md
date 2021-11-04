@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Well, shit](http://9gag.com/gag/aLvQ2Px)
- - 🚯 [400 dwarfs vs 1 elephant](http://9gag.com/gag/a91MPom)
- - 🚯 [We&#039;re walkin a tight rope boys](http://9gag.com/gag/a71Kb02)<!-- MEMES:END -->
+ - 🚖 [Summer games](http://9gag.com/gag/aAGVpKg)
+ - 🚯 [A correctional officer was transporting Frederick Goss to his trial. After his handcuffs were removed and he was placed in a wheelchair, Goss grabbed for the officer&#039;s gun. Eventually, a deputy spotted the struggle on cameras and discharged his weapon.](http://9gag.com/gag/aVxQWnM)
+ - 🚯 [400 dwarfs vs 1 elephant](http://9gag.com/gag/a91MPom)<!-- MEMES:END -->
 
 --- 
 
