@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [WOOOOOO](http://9gag.com/gag/a81bWBV)
- - 🚯 [It is what it is](http://9gag.com/gag/agg0yDv)
+ - 🚖 [It is what it is](http://9gag.com/gag/agg0yDv)
+ - 🚯 [I&#039;m always at my best in the shower](http://9gag.com/gag/aKmggwg)
  - 🚯 [For $10,000 college tuition, make: a layup, a free throw, a three-pointer, a half-court shot. All in 30 seconds.](http://9gag.com/gag/aWg0ZAq)<!-- MEMES:END -->
 
 --- 
