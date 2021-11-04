@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [They are snobs to be snobs, not because they have any idea what they are talking about](http://9gag.com/gag/aNPoovw)
- - 🚯 [I&#039;m going to take out a food loan...](http://9gag.com/gag/aE8G1pO)
+ - 🚖 [Probably be more appropriate if the chopsticks were both sporks...](http://9gag.com/gag/a11ZePY)
+ - 🚯 [Focus Doug!!](http://9gag.com/gag/aM4brWA)
  - 🚯 [Bike proof bridges](http://9gag.com/gag/aRrgP1B)<!-- MEMES:END -->
 
 --- 
