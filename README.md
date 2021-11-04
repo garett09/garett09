@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google is working on a more user-friendly way to find files in Drive](https://www.theverge.com/2021/11/4/22763374/google-drive-search-chips-filters-beta-test)
- - [The FDA’s crackdown on unproven stem cell therapies isn’t working](https://www.theverge.com/2021/11/4/22761580/stem-cell-clinics-fda-oversight)
- - [The Best USB Flash Drives for Ultra-Portable Storage](https://www.wired.com/gallery/best-usb-flash-drives)<!-- TECH:END -->
+ - [The best wireless earbuds to buy right now](https://www.theverge.com/21309820/best-wireless-earbuds)
+ - [Elden Ring debuts 15 minutes of new gameplay](https://www.theverge.com/2021/11/4/22763258/elden-ring-new-gameplay-demo)
+ - [Treasure Data, which offers an enterprise customer data platform, raises $234M led by SoftBank (Kolawole Samuel Adebayo/VentureBeat)](http://www.techmeme.com/211104/p18#a211104p18)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
