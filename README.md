@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Facebook attempts to bypass Apple's App Store fee with new Subscriptions payment link](https://appleinsider.com/articles/21/11/04/facebook-attempts-to-bypass-apples-app-store-fee-with-new-subscriptions-payment-link?utm_medium=rss)
- - [Best true wireless earbuds for 2021     - CNET](https://www.cnet.com/tech/mobile/best-wireless-earbuds-2021-true-headphones-airpods-samsung-buds/#ftag=CAD590a51e)
- - [UFC 268 Kamaru Usman vs. Colby Covington: Start time, how to watch or stream online     - CNET](https://www.cnet.com/news/ufc-268-kamaru-usman-vs-colby-covington-start-time-how-to-watch-or-stream-online/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Nintendo releases Animal Crossing’s big 2.0 update early](https://www.theverge.com/2021/11/3/22762709/animal-crossing-2-0-update-released-early-nintendo)
+ - [9-year-old unlocks unconscious father's iPhone with his face to call 911](https://appleinsider.com/articles/21/11/03/9-year-old-unlocks-fathers-iphone-with-his-face-calls-911-as-carbon-monoxide-fills-home?utm_medium=rss)
+ - [Meta to continue use of facial recognition technology](https://appleinsider.com/articles/21/11/04/meta-to-continue-use-of-facial-recognition-technology?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
