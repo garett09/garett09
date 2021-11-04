@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [HashiCorp, which helps companies manage cloud infrastructure, files for a US IPO; source say it could seek to raise $1B+ and is aiming for a $10B+ valuation (Bloomberg)](http://www.techmeme.com/211104/p24#a211104p24)
- - [Surprise! Facebook’s climate denial problem got worse this year](https://www.theverge.com/2021/11/4/22763795/facebook-climate-denial-worse-study)
- - [The Verge Wins The New York Emmy Award For Best Short Form Content in Health](https://www.theverge.com/2021/11/4/22763900/the-verge-wins-the-new-york-emmy-award-for-best-short-form-content-in-health)<!-- TECH:END -->
+ - [DoorDash adds in-app safety features, but couriers need more protection](https://www.theverge.com/2021/11/4/22763690/doordash-safety-button-delivery-worker-rights-accountability-adt-911)
+ - [What macOS Monterey's 'Relocated Items' are, and how to delete them](https://appleinsider.com/articles/21/11/04/what-macos-montereys-relocated-items-are-and-how-to-delete-them?utm_medium=rss)
+ - [This 14-inch MacBook Pro is $150 off, plus $60 off AppleCare](https://appleinsider.com/articles/21/11/04/this-14-inch-macbook-pro-is-150-off-plus-60-off-applecare?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
