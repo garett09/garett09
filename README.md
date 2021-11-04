@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Nintendo Just Updated Super Mario 3D All-Stars For Switch N64 Controller Support](https://kotaku.com/nintendo-just-updated-super-mario-3d-all-stars-for-swit-1847994650)
  - [Forza Horizon 5: The Kotaku Review](https://kotaku.com/forza-horizon-5-the-kotaku-review-1847989847)
- - [Forza Horizon 5 review](https://www.pcgamer.com/forza-horizon-5-review)
- - [Forza Horizon 5’s high-speed feast is bigger than the heartiest appetite](https://www.polygon.com/reviews/22762645/forza-horizon-5-review-xbox-game-pass-series-x-pc)<!-- GAME:END -->
+ - [Forza Horizon 5 review](https://www.pcgamer.com/forza-horizon-5-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
