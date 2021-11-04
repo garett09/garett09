@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily Authority: $53M spent on no game](https://www.androidauthority.com/newsletters/da-november-4-2021/)
- - [Apple could see record-breaking iPhone sales in Europe - if it can keep up](https://appleinsider.com/articles/21/11/04/apple-could-see-record-breaking-iphone-sales-in-europe---if-it-can-keep-up?utm_medium=rss)
- - [Google outlines plans for first alternative in-app payments in South Korea](https://www.theverge.com/2021/11/4/22763040/google-in-app-purchases-alternative-south-korea-payments)<!-- TECH:END -->
+ - [New design Arlo Pro 2 launches with LTE, improved video quality](https://appleinsider.com/articles/21/11/04/new-design-arlo-pro-2-launches-with-lte-improved-video-quality?utm_medium=rss)
+ - [The secrets of the first real smartphone, with Dieter Bohn](https://www.theverge.com/22762088/handspring-documentary-smartphone-iphone-android-appletv-roku-firetv-decoder-podcast)
+ - [Insignia’s 55-inch QLED 4K TV is just $400 for today only](https://www.theverge.com/good-deals/2021/11/4/22763071/insignia-tv-ipad-pro-samsung-galaxy-buds-steam-game-deals-sale-best-buy-amazon)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
