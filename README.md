@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Rise of the squidlike? Investigating the proliferation of Squid Game games](https://www.pcgamer.com/squid-game-games)
- - [Report: Hackers Laundered $10 Million On Twitch](https://kotaku.com/report-hackers-laundered-10-million-on-twitch-1847993263)
- - [Oh Man, Look At These Death Stranding Dropkicks](https://kotaku.com/oh-man-look-at-these-death-stranding-dropkicks-1847993301)<!-- GAME:END -->
+ - [Massive Animal Crossing Update Releases Super Early](https://kotaku.com/massive-animal-crossing-update-releases-super-early-1847993755)
+ - [Animal Crossing: New Horizons’ 2.0 update is now live](https://www.polygon.com/22752668/animal-crossing-new-horizons-2-0-update-release-date-time-dlc)
+ - [Rise of the squidlike? Investigating the proliferation of Squid Game games](https://www.pcgamer.com/squid-game-games)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
