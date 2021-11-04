@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Unpacking: The Kotaku Review](https://kotaku.com/unpacking-the-kotaku-review-1847994273)
  - [The Kristen Stewart movie Spencer is more real-life horror story than Princess Di biopic](https://www.polygon.com/reviews/22675101/spencer-review-kristen-stewart)
- - [Animal Crossing villagers are visiting players’ homes, with delightful results](https://www.polygon.com/22764107/animal-crossing-new-horizons-update-villagers-home-visit-player)
- - [Google Chrome just got a speed upgrade](https://www.pcgamer.com/google-chrome-just-got-a-speed-upgrade)<!-- GAME:END -->
+ - [Animal Crossing villagers are visiting players’ homes, with delightful results](https://www.polygon.com/22764107/animal-crossing-new-horizons-update-villagers-home-visit-player)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
