@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Internal documents shed light on Facebook's "holdout" experiments, where it withholds certain protections from a subset of users to see how they will react (Issie Lapowsky/Protocol)](http://www.techmeme.com/211103/p36#a211103p36)
- - [Whimsical, which makes tools for workplace collaboration, raises a $30M Series A led by Accel after being bootstrapped since its founding in 2017 (Christine Hall/TechCrunch)](http://www.techmeme.com/211103/p35#a211103p35)
- - [Klarna to acquire PriceRunner, a product and price comparison service, for ~$124M as it looks to strengthen its buy now, pay later service (PYMNTS.com)](http://www.techmeme.com/211103/p34#a211103p34)<!-- TECH:END -->
+ - [Apple's iCloud Private Relay is down for some users [u]](https://appleinsider.com/articles/21/11/03/apples-icloud-private-relay-is-down-for-some-users?utm_medium=rss)
+ - [Apple again hints at unannounced 'homeOS' in job listing](https://appleinsider.com/articles/21/11/03/apple-again-hints-at-unannounced-homeos-in-job-listing?utm_medium=rss)
+ - [9-year-old unlocks unconscious father's iPhone with his face to call 911](https://appleinsider.com/articles/21/11/03/9-year-old-unlocks-fathers-iphone-with-his-face-calls-911-as-carbon-monoxide-fills-home?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
