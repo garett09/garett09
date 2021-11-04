@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best deals Nov. 4: $299 for a 65-inch 4K TV, $500 off Intel 16-inch MacBook Pro, more!](https://appleinsider.com/articles/21/11/04/best-deals-nov-4-299-for-a-65-inch-4k-tv-500-off-intel-16-inch-macbook-pro-more?utm_medium=rss)
- - [The Best Laptop Stands to Save Your Achin' Neck](https://www.wired.com/gallery/best-laptop-stands)
- - [Intel’s 12th Gen Core i9 doesn’t need Windows 11 for AMD beating boosts](https://www.theverge.com/22763042/intel-core-i9-12900k-review)<!-- TECH:END -->
+ - [Google is working on a more user-friendly way to find files in Drive](https://www.theverge.com/2021/11/4/22763374/google-drive-search-chips-filters-beta-test)
+ - [The FDA’s crackdown on unproven stem cell therapies isn’t working](https://www.theverge.com/2021/11/4/22761580/stem-cell-clinics-fda-oversight)
+ - [The Best USB Flash Drives for Ultra-Portable Storage](https://www.wired.com/gallery/best-usb-flash-drives)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
