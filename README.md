@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chinese self-driving startup Momenta raises $200M from investors including SAIC and Jack Ma's Yunfeng Capital, bringing its total raised this year to ~$1.2B (Chunying Zhang/Bloomberg)](http://www.techmeme.com/211104/p4#a211104p4)
- - [You told us: You’re far from content with current phone case options](https://www.androidauthority.com/phone-cases-poll-results-3051481/)
- - [Nintendo cuts Switch sales forecast due to global chip shortage](https://www.theverge.com/2021/11/4/22762933/nintendo-earnings-q2-2021-switch-sales-forecast)<!-- TECH:END -->
+ - [Samsung’s flagship foldable gains November 2021 update](https://www.androidauthority.com/samsung-galaxy-z-fold-3-updates-3032543/)
+ - [How to install Google Play Store on Windows 11](https://www.androidauthority.com/how-to-install-google-play-store-on-windows-11-3049609/)
+ - [Chinese self-driving startup Momenta raises $200M from investors including SAIC and Jack Ma's Yunfeng Capital, bringing its total raised this year to ~$1.2B (Chunying Zhang/Bloomberg)](http://www.techmeme.com/211104/p4#a211104p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
