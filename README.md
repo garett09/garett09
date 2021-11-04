@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [DoorDash adds in-app safety features, but couriers need more protection](https://www.theverge.com/2021/11/4/22763690/doordash-safety-button-delivery-worker-rights-accountability-adt-911)
- - [What macOS Monterey's 'Relocated Items' are, and how to delete them](https://appleinsider.com/articles/21/11/04/what-macos-montereys-relocated-items-are-and-how-to-delete-them?utm_medium=rss)
- - [This 14-inch MacBook Pro is $150 off, plus $60 off AppleCare](https://appleinsider.com/articles/21/11/04/this-14-inch-macbook-pro-is-150-off-plus-60-off-applecare?utm_medium=rss)<!-- TECH:END -->
+ - [Pinterest reports Q3 revenue of $633M, up 43% and beating estimates of $630.9M, and 444M global MAUs, up 1% YoY and below estimates of 460M; stock up 6%+ (Salvador Rodriguez/CNBC)](http://www.techmeme.com/211104/p28#a211104p28)
+ - [Apple's top exec in South Korea departs amid dispute over App Store](https://appleinsider.com/articles/21/11/04/apples-top-exec-in-south-korea-departs-amid-dispute-over-app-store?utm_medium=rss)
+ - [Uber reports its first-ever adjusted profit at $8M but net loss grew to $2.42B, from $1.09B YoY, due to a $2B loss from equity investments, particularly in Didi (Preetika Rana/Wall Street Journal)](http://www.techmeme.com/211104/p27#a211104p27)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
