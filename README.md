@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best deals on 4K TVs](https://www.theverge.com/22371561/best-4k-tv-deals-sale-lg-samsung-sony-tcl)
- - [Google says it will add the option for developers to offer alternative billing systems on its Android app store in South Korea, complying with a recent law (Vlad Savov/Bloomberg)](http://www.techmeme.com/211104/p2#a211104p2)
- - [Apple's iCloud Private Relay is down for some users [u]](https://appleinsider.com/articles/21/11/03/apples-icloud-private-relay-is-down-for-some-users?utm_medium=rss)<!-- TECH:END -->
+ - [Forza Horizon 5 is the perfect portable Xbox game](https://www.theverge.com/2021/11/4/22762183/forza-horizon-5-perfect-portable-xbox-game-series-x-s-pc-steam)
+ - [Amazon’s Fire TV products now have a pretty impressive update policy](https://www.androidauthority.com/amazon-fire-tv-updates-3047784/)
+ - [How US agencies are preparing for "post-quantum cryptography" against attackers who harvest sensitive data now for decryption in the future (Patrick Howell O'Neill/MIT Technology ...)](http://www.techmeme.com/211104/p3#a211104p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
