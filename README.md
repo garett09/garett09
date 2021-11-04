@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pinterest reports Q3 revenue of $633M, up 43% and beating estimates of $630.9M, and 444M global MAUs, up 1% YoY and below estimates of 460M; stock up 6%+ (Salvador Rodriguez/CNBC)](http://www.techmeme.com/211104/p28#a211104p28)
- - [Apple's top exec in South Korea departs amid dispute over App Store](https://appleinsider.com/articles/21/11/04/apples-top-exec-in-south-korea-departs-amid-dispute-over-app-store?utm_medium=rss)
- - [Uber reports its first-ever adjusted profit at $8M but net loss grew to $2.42B, from $1.09B YoY, due to a $2B loss from equity investments, particularly in Didi (Preetika Rana/Wall Street Journal)](http://www.techmeme.com/211104/p27#a211104p27)<!-- TECH:END -->
+ - [Rivian accused of ‘toxic bro culture’ in gender discrimination lawsuit](https://www.theverge.com/2021/11/4/22764212/rivian-discrimination-lawsuit-toxic-bro-culture-rj-scaringe-ipo)
+ - [Nintendo reports H1 profit of $1.9B, down 25% YoY, sales of $5.5B, down 19% YoY, with gaming platforms down 20% YoY, but raised guidance for profits to $4.6B (Michelle Toh/CNN)](http://www.techmeme.com/211104/p31#a211104p31)
+ - [AT&T, Verizon postpone expanded 5G spectrum launch amid aviation concerns](https://appleinsider.com/articles/21/11/04/att-verizon-postpone-expanded-5g-spectrum-launch-amid-aviation-concerns?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
