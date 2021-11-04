@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [What is the Donation box and how do I get it? — Animal Crossing: New Horizons guide](https://www.polygon.com/animal-crossing-new-horizons-switch-acnh-guide/22763571/donation-box-diy-bells)
- - [New World is the first MMO I don't hate](https://www.pcgamer.com/new-world-is-the-first-mmo-i-dont-hate)
- - [Take-Two boss says 'digital collectible goods' don't have value just because they're NFTs](https://www.pcgamer.com/take-two-boss-says-digital-collectible-goods-dont-have-value-just-because-theyre-nfts)<!-- GAME:END -->
+ - [Every Covenant race in Halo, explained](https://www.polygon.com/22749506/halo-covenant-races-explained-elite-grunt-brute-hunter-jackal-drone-engineer-prophet)
+ - [Magic: The Gathering’s new Odric is a vampire that will get your blood pumping](https://www.polygon.com/22763935/magic-the-gathering-innistrad-crimson-vow-preview-card-odric-blood-cursed-art)
+ - [Push a button to make it rain missiles in the new Rust update](https://www.pcgamer.com/push-a-button-to-make-it-rain-missiles-in-the-new-rust-update)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
