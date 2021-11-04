@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [HE is skilled!](http://9gag.com/gag/a81bjD3)
+ - 🚖 [Monday doesn&#039;t have to be the worst day of the week](http://9gag.com/gag/arneNb0)
  - 🚯 [Catdoor](http://9gag.com/gag/aOQyVRM)
- - 🚯 [8 months to go](http://9gag.com/gag/aDDwGzZ)<!-- MEMES:END -->
+ - 🚯 [Shut up and take my money](http://9gag.com/gag/aM4bGAV)<!-- MEMES:END -->
 
 --- 
 
