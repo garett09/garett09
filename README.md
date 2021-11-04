@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [5 things we loved in the 15 minutes of new Elden Ring gameplay](https://www.pcgamer.com/five-things-we-loved-in-the-15-minutes-of-new-elden-ring-gameplay)
- - [A Truck Full Of Precious PC Graphics Cards Has Been Stolen](https://kotaku.com/a-truck-full-of-precious-pc-graphics-cards-has-been-sto-1847999927)
- - [There’s a new FarmVille game with new crops and cute animals](https://www.polygon.com/22764089/farmville-3-announcement-ios-android-devices-details)<!-- GAME:END -->
+ - [The Kristen Stewart movie Spencer is more real-life horror story than Princess Di biopic](https://www.polygon.com/reviews/22675101/spencer-review-kristen-stewart)
+ - [Animal Crossing villagers are visiting players’ homes, with delightful results](https://www.polygon.com/22764107/animal-crossing-new-horizons-update-villagers-home-visit-player)
+ - [Google Chrome just got a speed upgrade](https://www.pcgamer.com/google-chrome-just-got-a-speed-upgrade)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
