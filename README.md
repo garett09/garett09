@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When I go on long trips at nite it really gets me](http://9gag.com/gag/agg003W)
- - 🚯 [This is pretty neat](http://9gag.com/gag/a11Zevb)
- - 🚯 [When the cat doesn&#039;t live rent free in your house](http://9gag.com/gag/aeg33xj)<!-- MEMES:END -->
+ - 🚖 [They are snobs to be snobs, not because they have any idea what they are talking about](http://9gag.com/gag/aNPoovw)
+ - 🚯 [I&#039;m going to take out a food loan...](http://9gag.com/gag/aE8G1pO)
+ - 🚯 [Bike proof bridges](http://9gag.com/gag/aRrgP1B)<!-- MEMES:END -->
 
 --- 
 
