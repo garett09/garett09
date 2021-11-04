@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Rivian accused of ‘toxic bro culture’ in gender discrimination lawsuit](https://www.theverge.com/2021/11/4/22764212/rivian-discrimination-lawsuit-toxic-bro-culture-rj-scaringe-ipo)
- - [Nintendo reports H1 profit of $1.9B, down 25% YoY, sales of $5.5B, down 19% YoY, with gaming platforms down 20% YoY, but raised guidance for profits to $4.6B (Michelle Toh/CNN)](http://www.techmeme.com/211104/p31#a211104p31)
- - [AT&T, Verizon postpone expanded 5G spectrum launch amid aviation concerns](https://appleinsider.com/articles/21/11/04/att-verizon-postpone-expanded-5g-spectrum-launch-amid-aviation-concerns?utm_medium=rss)<!-- TECH:END -->
+ - [iPhone 13 DIY screen replacements break Face ID unless you can microsolder](https://www.theverge.com/2021/11/4/22764251/iphone-13-screen-replacements-break-face-id-microsolder)
+ - [Uber prices are still way up, so the company is bringing back carpooling](https://www.theverge.com/2021/11/4/22764246/uber-pool-prices-shared-ride-covid-earnings)
+ - [Babylist, which operates an e-commerce and content hub for new parents, raises a $40M Series C led by Norwest, says revenue will reach $250M this year (Tanya Klich/Forbes)](http://www.techmeme.com/211104/p32#a211104p32)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
