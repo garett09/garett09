@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Wicked movie casts Ariana Grande and Cynthia Erivo as Glinda and Elphaba     - CNET](https://www.cnet.com/news/wicked-movie-casts-ariana-grande-and-cynthia-erivo-as-glinda-and-elphaba/#ftag=CAD590a51e)
- - [Singapore-based crypto trading platform AscendEX raises a $50M Series B co-led by Polychain Capital and Hack VC, at a $455M valuation (Andrew Asmakov/Decrypt)](http://www.techmeme.com/211104/p38#a211104p38)
- - [DJI launches Mavic 3 drone with dual-camera system, redesigned batteries offering up to 46 minutes of flight time, improved tracking and safety, and more (Juli Clover/MacRumors)](http://www.techmeme.com/211104/p37#a211104p37)<!-- TECH:END -->
+ - [Papa, which connects elderly Americans with virtual and physical companions, raises a $150M Series D led by Vision Fund 2 at a $1.4B valuation (Katie Jennings/Forbes)](http://www.techmeme.com/211105/p1#a211105p1)
+ - [Pixel Fold camera details leak: Expect a downgrade from Pixel 6](https://www.androidauthority.com/pixel-fold-camera-3052560/)
+ - [Wicked movie casts Ariana Grande and Cynthia Erivo as Glinda and Elphaba     - CNET](https://www.cnet.com/news/wicked-movie-casts-ariana-grande-and-cynthia-erivo-as-glinda-and-elphaba/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
