@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Relatable.](http://9gag.com/gag/aDDwjG7)
- - 🚯 [&#039;Taken&#039; in real life](http://9gag.com/gag/aQXpMV8)
- - 🚯 [Just need few years.](http://9gag.com/gag/ajg6X0w)<!-- MEMES:END -->
+ - 🚖 [Girl bareback riding black beast on the beach](http://9gag.com/gag/ay9pDNW)
+ - 🚯 [Just need few years.](http://9gag.com/gag/ajg6X0w)
+ - 🚯 [Starting to feel that way.](http://9gag.com/gag/a11ZbVP)<!-- MEMES:END -->
 
 --- 
 
