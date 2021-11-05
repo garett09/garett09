@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [D&D Battle for Beyond is a star-studded new actual play series](https://www.polygon.com/22765806/dungeons-dragons-battle-for-beyond-cast-premiere-date-aabria-iyengar-brennan-lee-mulligan)
- - [Ranking the Covenant aliens from Halo by how much I want to smooch them](https://www.polygon.com/22750590/halo-covenant-ranking-characters-kiss-bungie)
- - [Demon's Souls PC, Kingdom Hearts 4, and many more games from the Nvidia leak are looking more and more real](https://www.pcgamer.com/nvidia-leaked-games-list-pc)<!-- GAME:END -->
+ - [Unfathomable revives an excellent board game lost to licensing hell](https://www.polygon.com/reviews/22765810/unfathomable-board-game-review-battlestar-galactica-reskin)
+ - [Circa Infinity, a Mind-Blowing Circular Platformer, Is Tough but Satisfying](https://news.xbox.com/en-us/2021/11/05/circa-infinity-a-mind-blowing-circular-platformer-is-tough-but-satisfying/)
+ - [Animal Crossing’s New Night Owl Ordinance Isn't Good Enough](https://kotaku.com/animal-crossing-s-new-night-owl-ordinance-isnt-good-eno-1848007093)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
