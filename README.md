@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Neuron activation](http://9gag.com/gag/arneNP7)
- - 🚯 [She&#039;s stunning even without it!](http://9gag.com/gag/aKmg3D3)
- - 🚯 [I feel very safe, being protected by these cops.](http://9gag.com/gag/a21PmwE)<!-- MEMES:END -->
+ - 🚖 [Archives](http://9gag.com/gag/aQXpxLq)
+ - 🚯 [At this point, i think the US should not be performing for free, they should start selling tickets for people to come enjoy the clown show !!!](http://9gag.com/gag/a31dB28)
+ - 🚯 [Monday doesn&#039;t have to be the worst day of the week](http://9gag.com/gag/arneNb0)<!-- MEMES:END -->
 
 --- 
 
