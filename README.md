@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Brother &amp; Sisterly love...](http://9gag.com/gag/aOQyrb3)
- - 🚯 [Oh shit!](http://9gag.com/gag/aVxQ3qM)
- - 🚯 [The art of fishing with your hands](http://9gag.com/gag/aogZOM2)<!-- MEMES:END -->
+ - 🚖 [The art of fishing with your hands](http://9gag.com/gag/aogZOM2)
+ - 🚯 [Better than nothing](http://9gag.com/gag/azeL80z)
+ - 🚯 [Brother &amp; Sisterly love...](http://9gag.com/gag/aOQyrb3)<!-- MEMES:END -->
 
 --- 
 
