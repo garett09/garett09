@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Square's Cash app now allows parents or guardians to authorize accounts for teens between ages of 13 and 17, available across iOS and Android in the US (Sarah Perez/TechCrunch)](http://www.techmeme.com/211104/p35#a211104p35)
  - [How Instagram and Twitter buried the hatchet](https://www.theverge.com/2021/11/4/22764539/instagram-twitter-timeline-image-preview-feud)
- - [UFC 268 Kamaru Usman vs. Colby Covington: Start time, how to watch or stream, full fight card     - CNET](https://www.cnet.com/news/ufc-268-kamaru-usman-vs-colby-covington-start-time-how-to-watch-or-stream-full-fight-card/#ftag=CAD590a51e)
- - [Square reports Q3 revenue of $3.84B, up 27% YoY but missing $4.51B estimates, bitcoin revenue of $1.81B, up 11% YoY, and gross payment volume of $45.4B, up 43% (Kurt Wagner/Bloomberg)](http://www.techmeme.com/211104/p34#a211104p34)<!-- TECH:END -->
+ - [UFC 268 Kamaru Usman vs. Colby Covington: Start time, how to watch or stream, full fight card     - CNET](https://www.cnet.com/news/ufc-268-kamaru-usman-vs-colby-covington-start-time-how-to-watch-or-stream-full-fight-card/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
