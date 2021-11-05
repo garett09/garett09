@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Vergecast: Microsoft’s metaverse, Beats Fit Pro review, and Craig Federighi on sideloading](https://www.theverge.com/2021/11/5/22765246/vergecast-podcast-microsoft-ignite-metaverse-web-summit-2021)
- - [Apple’s Dr. Brain is a bold, genre-bending thriller](https://www.theverge.com/22765207/dr-brain-review-apple-tv-plus)
- - [Facebook sued by defunct photo app Phhhoto on antitrust grounds](https://www.theverge.com/2021/11/5/22765116/facebook-meta-sued-defunct-photo-app-phhhoto-antitrust-out-of-business)<!-- TECH:END -->
+ - [How to close apps on Apple Watch in watchOS 8](https://appleinsider.com/articles/21/11/05/how-to-close-apps-on-apple-watch-in-watchos-8?utm_medium=rss)
+ - [Leaked Apple Silicon roadmap hints at new Mac Pro, MacBook Air](https://appleinsider.com/articles/21/11/05/leaked-apple-silicon-roadmap-hints-at-new-mac-pro-macbook-air?utm_medium=rss)
+ - [Tested: The Pixel 6 charges much slower than Google implied](https://www.androidauthority.com/google-pixel-6-charging-test-3051231/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
