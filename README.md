@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The latest 12.9-inch iPad Pro is selling for its lowest price yet](https://www.theverge.com/good-deals/2021/11/5/22763370/apple-ipad-pro-macbook-gopro-hero-samsung-galaxy-z-fold-3-deal-sale)
- - [The next Walmart PS5 and Xbox Series X restock happens today at 3 p.m. ET, noon PT     - CNET](https://www.cnet.com/tech/gaming/the-next-walmart-ps5-and-xbox-series-x-restock-happens-today-at-3-p-m-et-noon-pt/#ftag=CAD590a51e)
- - [Open Handset Alliance: Where are all the phone makers now?](https://www.androidauthority.com/open-handset-alliance-3051787/)<!-- TECH:END -->
+ - [Report: Apple and TSMC plan to produce 3nm chips for Macs as soon as 2023, with as many as four dies and up to 40 CPU cores in total per chip (Benjamin Mayo/9to5Mac)](http://www.techmeme.com/211105/p5#a211105p5)
+ - [Lime raises over $500 million, confirms plans to take its electric scooter company public](https://www.theverge.com/2021/11/5/22764064/lime-electric-scooter-investment-public)
+ - [Best deals Nov. 5: $100 off iPad Smart Keyboard Folio, $300 off a Panasonic Camera, more!](https://appleinsider.com/articles/21/11/05/best-deals-nov-5-100-off-ipad-smart-keyboard-folio-300-off-a-panasonic-camera-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
