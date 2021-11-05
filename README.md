@@ -194,8 +194,8 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Name the cartoon shows u miss.](http://9gag.com/gag/aOQydOy)
- - 🚯 [Archives](http://9gag.com/gag/aQXpxLq)
- - 🚯 [8 months to go](http://9gag.com/gag/aDDwGzZ)<!-- MEMES:END -->
+ - 🚯 [Neuron activation](http://9gag.com/gag/arneNP7)
+ - 🚯 [Just need few years.](http://9gag.com/gag/ajg6X0w)<!-- MEMES:END -->
 
 --- 
 
