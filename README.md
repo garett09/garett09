@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Ariana Grande and Cynthia Erivo will defy gravity for the Wicked movie](https://www.polygon.com/22765142/wicked-movie-casting-ariana-grande-cynthia-erivo)
- - [Next Week on Xbox: November 8 to 12](https://news.xbox.com/en-us/2021/11/05/next-week-on-xbox-november-8-to-12/)
- - [Reclaim your content monetization with Glimpse.me](https://www.pcgamer.com/reclaim-your-content-monetization-with-glimpseme)<!-- GAME:END -->
+ - [Microsoft Celebrates Indigenous Creators, Culture, and Artistry through Games, Movies, and TV](https://news.xbox.com/en-us/2021/11/05/microsoft-celebrates-indigenous-creators-culture-and-artistry/)
+ - [Jurassic World Evolution 2 lets you fight hubris and win](https://www.polygon.com/reviews/22761767/jurassic-world-evolution-2-review-park-dinosaur-zoo)
+ - [Frustrated Ubisoft Workers Are Asking For Your Help So The Company Doesn't Ignore Them](https://kotaku.com/frustrated-ubisoft-workers-are-asking-for-your-help-so-1848003796)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
