@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Rescue Your Love In The Cozy & Queer Platformer: The Gardener and the Wild Vines](https://news.xbox.com/en-us/2021/11/05/rescue-your-love-in-the-cozy-queer-platformer-the-gardener-and-the-wild-vines/)
- - [See the first trailer for the rebooted GamesMaster series](https://www.pcgamer.com/see-the-first-trailer-for-the-rebooted-gamesmaster)
- - [AMD Ryzen OC tool receives 6000-series support ahead of rumoured announcement in January](https://www.pcgamer.com/amd-ryzen-oc-tool-receives-6000-series-support-ahead-of-potential-announcement-in-january)<!-- GAME:END -->
+ - [Ariana Grande and Cynthia Erivo will defy gravity for the Wicked movie](https://www.polygon.com/22765142/wicked-movie-casting-ariana-grande-cynthia-erivo)
+ - [Next Week on Xbox: November 8 to 12](https://news.xbox.com/en-us/2021/11/05/next-week-on-xbox-november-8-to-12/)
+ - [Reclaim your content monetization with Glimpse.me](https://www.pcgamer.com/reclaim-your-content-monetization-with-glimpseme)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
