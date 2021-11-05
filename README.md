@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Idle-RPG, Mythic Heroes, is out now on iOS and Android](https://www.pcgamer.com/idle-rpg-mythic-heroes-is-out-now-on-ios-and-android)
- - [G.Skill celebrates Intel Alder Lake's launch by setting a new world record for DDR5](https://www.pcgamer.com/gskill-celebrates-intel-alder-lakes-launch-by-setting-a-new-world-record-for-ddr5)
- - [Eternals dreams big and falls hard](https://www.polygon.com/reviews/22741019/eternals-review-marvel)<!-- GAME:END -->
+ - [Rescue Your Love In The Cozy & Queer Platformer: The Gardener and the Wild Vines](https://news.xbox.com/en-us/2021/11/05/rescue-your-love-in-the-cozy-queer-platformer-the-gardener-and-the-wild-vines/)
+ - [See the first trailer for the rebooted GamesMaster series](https://www.pcgamer.com/see-the-first-trailer-for-the-rebooted-gamesmaster)
+ - [AMD Ryzen OC tool receives 6000-series support ahead of rumoured announcement in January](https://www.pcgamer.com/amd-ryzen-oc-tool-receives-6000-series-support-ahead-of-potential-announcement-in-january)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
