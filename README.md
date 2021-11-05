@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dyson's Entry-Level Stick Vacuum Is $130 Off Right Now](https://www.wired.com/story/dyson-v8-deal-november-2021)
- - [The PS5 and Xbox Series X are now available online at Walmart](https://www.theverge.com/2021/11/5/22684674/sony-playstation-5-ps5-xbox-series-x-xsx-restock-availability)
- - [Polish e-commerce company Allegro to buy Czech online retailer Mall Group for about $1.02B (Anna Pruchnicka/Reuters)](http://www.techmeme.com/211105/p11#a211105p11)<!-- TECH:END -->
+ - [Google removes its algorithmic ‘Your News Update’ from Assistant](https://www.theverge.com/2021/11/5/22765782/google-assistant-your-news-update-algorithmic-audio-digest)
+ - [Rare iPhone 4 prototype with 'Death Star' logo surfaces in new video](https://appleinsider.com/articles/21/11/05/rare-iphone-4-prototype-with-death-star-logo-surfaces-in-new-video?utm_medium=rss)
+ - [Apple fixes bug that could cause macOS Monterey to brick Macs with a T2 security chip](https://www.theverge.com/2021/11/5/22765759/apple-macos-monterey-t2-security-brick-bug)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
