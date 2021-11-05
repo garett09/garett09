@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [New Transformers Game Captures That Saturday Morning Cartoon Vibe](https://kotaku.com/new-transformers-game-captures-that-saturday-morning-ca-1848004365)
- - [Black Friday gaming monitor deals 2021: the best and brightest screens at great prices](https://www.pcgamer.com/black-friday-gaming-monitor-deals-2021)
- - [Share of the Week: Returnal – Photo Mode](http://feedproxy.google.com/~r/PSBlog/~3/Fzf7PGmCqcY/)<!-- GAME:END -->
+ - [KartRider: Drift Returns to the Tracks This December with New Closed Beta Event](https://news.xbox.com/en-us/2021/11/05/kartrider-drift-returns-to-the-tracks-this-december/)
+ - [The 18 Things You Should Do In Animal Crossing: New Horizons' Big Update](https://kotaku.com/the-18-things-you-should-do-in-animal-crossing-new-hor-1848003621)
+ - [The deal with Arishem, the Eternals’ big red robot dad](https://www.polygon.com/comics/22632222/eternals-celestial-red-robot-eyes-comics-galactus)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
