@@ -195,7 +195,7 @@ Windows                  3 hrs 9 mins        ███████████�
 <!-- MEMES:START -->
  - 🚖 [Ahem](http://9gag.com/gag/aXrEYPP)
  - 🚯 [The sound tho! :D](http://9gag.com/gag/a91Mp3Z)
- - 🚯 [Did he get the job though?](http://9gag.com/gag/a21PZK1)<!-- MEMES:END -->
+ - 🚯 [Oh shit!](http://9gag.com/gag/aVxQ3qM)<!-- MEMES:END -->
 
 --- 
 
