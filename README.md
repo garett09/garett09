@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Square's Cash app now allows parents or guardians to authorize accounts for teens between ages of 13 and 17, available across iOS and Android in the US (Sarah Perez/TechCrunch)](http://www.techmeme.com/211104/p35#a211104p35)
- - [How Instagram and Twitter buried the hatchet](https://www.theverge.com/2021/11/4/22764539/instagram-twitter-timeline-image-preview-feud)
- - [UFC 268 Kamaru Usman vs. Colby Covington: Start time, how to watch or stream, full fight card     - CNET](https://www.cnet.com/news/ufc-268-kamaru-usman-vs-colby-covington-start-time-how-to-watch-or-stream-full-fight-card/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [DJI launches Mavic 3 drone with dual-camera system, redesigned batteries offering up to 46 minutes of flight time, improved tracking and safety, and more (Juli Clover/MacRumors)](http://www.techmeme.com/211104/p37#a211104p37)
+ - [Investment data management company Confluence Technologies to acquire Investment Metrics, an investment data solutions provider, for $500M (Jordyn Hronec/Pittsburgh Business Journal)](http://www.techmeme.com/211104/p36#a211104p36)
+ - [DJI releases new flagship Mavic drones — Mavic 3 and Mavic 3 Cine](https://www.theverge.com/2021/11/4/22759660/dji-flagship-prores-mavic-3-cine-drone)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
