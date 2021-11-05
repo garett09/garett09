@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 13 DIY screen replacements break Face ID unless you can microsolder](https://www.theverge.com/2021/11/4/22764251/iphone-13-screen-replacements-break-face-id-microsolder)
- - [Uber prices are still way up, so the company is bringing back carpooling](https://www.theverge.com/2021/11/4/22764246/uber-pool-prices-shared-ride-covid-earnings)
- - [Babylist, which operates an e-commerce and content hub for new parents, raises a $40M Series C led by Norwest, says revenue will reach $250M this year (Tanya Klich/Forbes)](http://www.techmeme.com/211104/p32#a211104p32)<!-- TECH:END -->
+ - [Square reports Q3 revenue of $3.84B, up 27% YoY but missing $4.51B estimates, bitcoin revenue of $1.81B, up 11% YoY, and gross payment volume of $45.4B, up 43% (Kurt Wagner/Bloomberg)](http://www.techmeme.com/211104/p34#a211104p34)
+ - [Q&A with digital rights advocate Luis Fernando Garc&iacute;a on a biometric ID system in Mexico and why agencies like World Bank fund such systems in the Global South (Leo Schwartz/Rest of World)](http://www.techmeme.com/211104/p33#a211104p33)
+ - [Tests detect benzene in Old Spice, Secret and other deodorant sprays     - CNET](https://www.cnet.com/health/personal-care/tests-detect-benzene-in-old-spice-secret-and-other-deodorant-sprays/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
