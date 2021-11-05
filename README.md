@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Monday doesn&#039;t have to be the worst day of the week](http://9gag.com/gag/arneNb0)
- - 🚯 [Catdoor](http://9gag.com/gag/aOQyVRM)
- - 🚯 [Shut up and take my money](http://9gag.com/gag/aM4bGAV)<!-- MEMES:END -->
+ - 🚖 [Thank you all for the support in these years!](http://9gag.com/gag/abgq03v)
+ - 🚯 [She&#039;s stunning even without it!](http://9gag.com/gag/aKmg3D3)
+ - 🚯 [Say no more lyrics...](http://9gag.com/gag/agg0GOg)<!-- MEMES:END -->
 
 --- 
 
