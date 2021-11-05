@@ -180,7 +180,7 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- GAME:START -->
  - [The best Australian PC gaming deals this week](https://www.pcgamer.com/best-australian-pc-gaming-deals)
- - [A primer on the Eternals strange place in the Marvel universe](https://www.polygon.com/22764655/eternals-marvel-universe-comics-what-to-know)
+ - [A primer on the Eternals’ strange place in the Marvel universe](https://www.polygon.com/22764655/eternals-marvel-universe-comics-what-to-know)
  - [Early Call of Duty: Vanguard reviews point to good multiplayer but a lacklustre campaign](https://www.pcgamer.com/early-call-of-duty-vanguard-reviews-point-to-good-multiplayer-but-a-lacklustre-campaign)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
