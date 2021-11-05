@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Thank you all for the support in these years!](http://9gag.com/gag/abgq03v)
- - 🚯 [She&#039;s stunning even without it!](http://9gag.com/gag/aKmg3D3)
- - 🚯 [Say no more lyrics...](http://9gag.com/gag/agg0GOg)<!-- MEMES:END -->
+ - 🚖 [Neuron activation](http://9gag.com/gag/arneNP7)
+ - 🚯 [This happened in Banglore India, an idiot removed one of structure&#039;s main pillar while renovating his flat/condo, then this.. ** Sry for camera work](http://9gag.com/gag/aWg06mn)
+ - 🚯 [She&#039;s stunning even without it!](http://9gag.com/gag/aKmg3D3)<!-- MEMES:END -->
 
 --- 
 
