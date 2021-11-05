@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to close apps on Apple Watch in watchOS 8](https://appleinsider.com/articles/21/11/05/how-to-close-apps-on-apple-watch-in-watchos-8?utm_medium=rss)
- - [Leaked Apple Silicon roadmap hints at new Mac Pro, MacBook Air](https://appleinsider.com/articles/21/11/05/leaked-apple-silicon-roadmap-hints-at-new-mac-pro-macbook-air?utm_medium=rss)
- - [Tested: The Pixel 6 charges much slower than Google implied](https://www.androidauthority.com/google-pixel-6-charging-test-3051231/)<!-- TECH:END -->
+ - [Internal docs: a Facebook well-being team's survey found 12.5% of participants reported compulsive use of Facebook that negatively impacted their lives (Wall Street Journal)](http://www.techmeme.com/211105/p9#a211105p9)
+ - [Volta Trucks reveals final design for its electric commercial vehicles     - Roadshow](https://www.cnet.com/roadshow/news/volta-trucks-reveal-design-electric-commercial-vehicle/#ftag=CAD590a51e)
+ - [Eternals review: Unique Marvel entry trips through a convoluted plot     - CNET](https://www.cnet.com/news/eternals-movie-review-unique-marvel-entry-trips-through-a-convoluted-plot/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
