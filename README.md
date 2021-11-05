@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [More income and nice boss here I come!](http://9gag.com/gag/azeLqQZ)
+ - 🚖 [Starting to feel that way.](http://9gag.com/gag/a11ZbVP)
  - 🚯 [The art of fishing with your hands](http://9gag.com/gag/aogZOM2)
- - 🚯 [Cyclist Karen has a meltdown in public.. wait till the end](http://9gag.com/gag/ay9pDL8)<!-- MEMES:END -->
+ - 🚯 [Quitting my job today](http://9gag.com/gag/agg0LeW)<!-- MEMES:END -->
 
 --- 
 
