@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [These Robots Follow You to Learn Where to Go](https://www.wired.com/story/robots-follow-learn-where-go)
- - [Lenovo's Newest ThinkPad X1 Extreme Is a Windows Workhorse](https://www.wired.com/review/lenovo-thinkpad-x1-extreme)
- - [It’s Time to Delete Carbon From the Atmosphere. But How?](https://www.wired.com/story/its-time-to-delete-carbon-from-the-atmosphere-but-how)<!-- TECH:END -->
+ - [Don't Expect That New PS5 or Ebike to Arrive by the Holidays](https://www.wired.com/story/gadget-lab-podcast-528)
+ - [Daily Authority: 🤑 US smartphones: Coke and Pepsi](https://www.androidauthority.com/newsletters/da-november-5-2021/)
+ - [Peloton latest to blame Apple for financial woes](https://appleinsider.com/articles/21/11/05/peloton-latest-to-blame-apple-for-financial-woes?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
