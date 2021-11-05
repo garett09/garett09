@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Konami's New Soccer Game Continues To Be An Utter Fiasco](https://kotaku.com/konamis-new-soccer-game-continues-to-be-an-utter-fiasco-1848002557)
- - [The best Australian PC gaming deals this week](https://www.pcgamer.com/best-australian-pc-gaming-deals)
- - [A primer on the Eternals’ strange place in the Marvel universe](https://www.polygon.com/22764655/eternals-marvel-universe-comics-what-to-know)<!-- GAME:END -->
+ - [Idle-RPG, Mythic Heroes, is out now on iOS and Android](https://www.pcgamer.com/idle-rpg-mythic-heroes-is-out-now-on-ios-and-android)
+ - [G.Skill celebrates Intel Alder Lake's launch by setting a new world record for DDR5](https://www.pcgamer.com/gskill-celebrates-intel-alder-lakes-launch-by-setting-a-new-world-record-for-ddr5)
+ - [Eternals dreams big and falls hard](https://www.polygon.com/reviews/22741019/eternals-review-marvel)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
