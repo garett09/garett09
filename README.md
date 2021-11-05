@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone SE: Does it still make sense to buy Apple's most affordable iPhone?     - CNET](https://www.cnet.com/tech/mobile/iphone-se-does-it-still-make-sense-to-buy-apples-most-affordable-iphone/#ftag=CAD590a51e)
- - [Papa, which connects elderly Americans with virtual and physical companions, raises a $150M Series D led by Vision Fund 2 at a $1.4B valuation (Katie Jennings/Forbes)](http://www.techmeme.com/211105/p1#a211105p1)
- - [Pixel Fold camera details leak: Expect a downgrade from Pixel 6](https://www.androidauthority.com/pixel-fold-camera-3052560/)<!-- TECH:END -->
+ - [It looks like Pixel 6 phones are accidentally calling random contacts](https://www.androidauthority.com/google-pixel-6-calling-bug-3052590/)
+ - [AirPods 3 vs. AirPods Pro: Comparing Apple's wireless earbuds     - CNET](https://www.cnet.com/tech/mobile/airpods-3-vs-airpods-pro-comparing-apples-wireless-earbuds/#ftag=CAD590a51e)
+ - [iPhone SE: Does it still make sense to buy Apple's most affordable iPhone?     - CNET](https://www.cnet.com/tech/mobile/iphone-se-does-it-still-make-sense-to-buy-apples-most-affordable-iphone/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
