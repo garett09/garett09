@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hell yeah haha](http://9gag.com/gag/a51No9N)
- - 🚯 [The sound tho! :D](http://9gag.com/gag/a91Mp3Z)
- - 🚯 [Thanks to SouthPark, I understood what Scientologists actually believe in](http://9gag.com/gag/a31dM0Q)<!-- MEMES:END -->
+ - 🚖 [Did he get the job though?](http://9gag.com/gag/a21PZK1)
+ - 🚯 [Smart bidet (0:33)](http://9gag.com/gag/ajg6ELg)
+ - 🚯 [Practice.Makes.Perfect! I thought you would minimum need a small orchestra to play Vivaldi&#039;s four seasons. Alexandr Hrustevich proved me very, very wrong. Here he&#039;s playing the 3. part of singer...Simply incredible...](http://9gag.com/gag/apgom6M)<!-- MEMES:END -->
 
 --- 
 
