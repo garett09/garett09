@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google quietly removes Assistant's Your News Update feature, which was launched in 2019 to give personalized audio digests based on user data (Abner Li/9to5Google)](http://www.techmeme.com/211105/p15#a211105p15)
- - [Apple hires former Tesla engineer to bolster its self-driving car project](https://appleinsider.com/articles/21/11/05/apple-hires-former-tesla-engineer-to-bolster-its-self-driving-car-project?utm_medium=rss)
- - [Apple hires CJ Moore, Tesla's Autopilot Software Director who in January told the DMV that Musk's "Full-Self Driving" claims didn't "match engineering reality" (Bloomberg)](http://www.techmeme.com/211105/p14#a211105p14)<!-- TECH:END -->
+ - [Senators Klobuchar and Cotton introduce a bill to regulate Big Tech acquisitions, which will force companies to prove proposed mergers aren't anticompetitive (Ashley Gold/Axios)](http://www.techmeme.com/211105/p16#a211105p16)
+ - [Honeywell Home’s T9 smart thermostat gets HomeKit support, finally](https://www.theverge.com/2021/11/5/22766141/honeywell-home-t9-smart-thermostat-gets-homekit-support)
+ - [Animal Crossing’s new turnip price tracker doesn’t tell you the most important thing](https://www.theverge.com/2021/11/5/22766105/animal-crossing-new-horizons-nintendo-switch-turnip-price-tracker-current-price)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
