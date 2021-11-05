@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Name the cartoon shows u miss.](http://9gag.com/gag/aOQydOy)
- - 🚯 [Neuron activation](http://9gag.com/gag/arneNP7)
- - 🚯 [Just need few years.](http://9gag.com/gag/ajg6X0w)<!-- MEMES:END -->
+ - 🚖 [Too bad, I already paid in advance](http://9gag.com/gag/angXyPL)
+ - 🚯 [Holup, Manny Pacquiao...!](http://9gag.com/gag/adg6qoQ)
+ - 🚯 [This f**king guy !! Lol](http://9gag.com/gag/aNPoAgA)<!-- MEMES:END -->
 
 --- 
 
