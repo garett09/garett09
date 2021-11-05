@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google removes its algorithmic ‘Your News Update’ from Assistant](https://www.theverge.com/2021/11/5/22765782/google-assistant-your-news-update-algorithmic-audio-digest)
- - [Rare iPhone 4 prototype with 'Death Star' logo surfaces in new video](https://appleinsider.com/articles/21/11/05/rare-iphone-4-prototype-with-death-star-logo-surfaces-in-new-video?utm_medium=rss)
- - [Apple fixes bug that could cause macOS Monterey to brick Macs with a T2 security chip](https://www.theverge.com/2021/11/5/22765759/apple-macos-monterey-t2-security-brick-bug)<!-- TECH:END -->
+ - [Yes, your Pixel 6 and Pixel 6 Pro can be MagSafe-friendly with this Moment case](https://www.theverge.com/2021/11/5/22753313/pixel-6-magsafe-pro-moment-mforce-case-mobile-accessories-android)
+ - [New DJI Mavic 3 drone boasts better cameras, longer flight time](https://appleinsider.com/articles/21/11/05/new-dji-mavic-3-drone-boats-better-cameras-longer-flight-time?utm_medium=rss)
+ - [Samsung Galaxy S22 series: All the rumors in one place (Updated: Nov. 5)](https://www.androidauthority.com/samsung-galaxy-s22-1643006/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
