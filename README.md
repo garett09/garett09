@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [It looks like Pixel 6 phones are accidentally calling random contacts](https://www.androidauthority.com/google-pixel-6-calling-bug-3052590/)
- - [AirPods 3 vs. AirPods Pro: Comparing Apple's wireless earbuds     - CNET](https://www.cnet.com/tech/mobile/airpods-3-vs-airpods-pro-comparing-apples-wireless-earbuds/#ftag=CAD590a51e)
- - [iPhone SE: Does it still make sense to buy Apple's most affordable iPhone?     - CNET](https://www.cnet.com/tech/mobile/iphone-se-does-it-still-make-sense-to-buy-apples-most-affordable-iphone/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple promotes Apple Card Family with $10 Daily Cash offer](https://appleinsider.com/articles/21/11/05/apple-promotes-apple-card-family-with-10-daily-cash-offer?utm_medium=rss)
+ - [US government offers $10 million bounty for information on Colonial Pipeline hackers](https://www.theverge.com/2021/11/5/22764987/darkside-hackers-bounty-10-million-colonial-pipeline)
+ - [Twitter makes it easier to search tweets from specific accounts](https://www.theverge.com/2021/11/5/22764991/twitter-search-profile-button-ios-app)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
