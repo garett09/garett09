@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Enjoy Scenic West Cornwall Local in Train Sim World 2](https://news.xbox.com/en-us/2021/11/05/enjoy-scenic-west-cornwall-local-in-train-sim-world-2/)
- - [Unpacking Might Have The Worst Video Game Boyfriend Of The Year](https://kotaku.com/unpacking-might-have-the-worst-video-game-boyfriend-of-1848006376)
- - [Forza Horizon 5's Sign Language Interpreters Are A Huge Step For Gaming](https://kotaku.com/forza-horizon-5s-sign-language-interpreters-are-a-huge-1848005282)<!-- GAME:END -->
+ - [D&D Battle for Beyond is a star-studded new actual play series](https://www.polygon.com/22765806/dungeons-dragons-battle-for-beyond-cast-premiere-date-aabria-iyengar-brennan-lee-mulligan)
+ - [Ranking the Covenant aliens from Halo by how much I want to smooch them](https://www.polygon.com/22750590/halo-covenant-ranking-characters-kiss-bungie)
+ - [Demon's Souls PC, Kingdom Hearts 4, and many more games from the Nvidia leak are looking more and more real](https://www.pcgamer.com/nvidia-leaked-games-list-pc)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
