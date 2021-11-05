@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Don't Expect That New PS5 or Ebike to Arrive by the Holidays](https://www.wired.com/story/gadget-lab-podcast-528)
- - [Daily Authority: 🤑 US smartphones: Coke and Pepsi](https://www.androidauthority.com/newsletters/da-november-5-2021/)
- - [Peloton latest to blame Apple for financial woes](https://appleinsider.com/articles/21/11/05/peloton-latest-to-blame-apple-for-financial-woes?utm_medium=rss)<!-- TECH:END -->
+ - [The latest 12.9-inch iPad Pro is selling for its lowest price yet](https://www.theverge.com/good-deals/2021/11/5/22763370/apple-ipad-pro-macbook-gopro-hero-samsung-galaxy-z-fold-3-deal-sale)
+ - [The next Walmart PS5 and Xbox Series X restock happens today at 3 p.m. ET, noon PT     - CNET](https://www.cnet.com/tech/gaming/the-next-walmart-ps5-and-xbox-series-x-restock-happens-today-at-3-p-m-et-noon-pt/#ftag=CAD590a51e)
+ - [Open Handset Alliance: Where are all the phone makers now?](https://www.androidauthority.com/open-handset-alliance-3051787/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
