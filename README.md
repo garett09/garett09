@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Chris Pratt won’t be in the Devil May Cry anime voice cast, producer confirms](https://www.polygon.com/22766106/devil-may-cry-netflix-anime-voice-cast-chris-pratt)
- - [How the Call of Duty: Vanguard prestige system works](https://www.pcgamer.com/cod-vanguard-prestige-level-rank-emblems)
- - [I tried beating this restaurant sim by deep frying every ingredient into a single monster dish](https://www.pcgamer.com/i-tried-winning-this-restaurant-sim-by-deep-frying-every-ingredient-into-a-single-monster-dish)<!-- GAME:END -->
+ - [Halo Infinite's battle pass won't have dance moves for Spartans](https://www.pcgamer.com/halo-infinites-battle-pass-wont-have-dance-moves-for-spartans)
+ - [The Bundle Sale is Here with Amazing Deals on Great Titles and DLC](https://news.xbox.com/en-us/2021/11/05/the-bundle-sale-is-here-with-amazing-deals-on-great-titles-and-dlc/)
+ - [Call Of Duty: Vanguard Pays Tribute To 'Press F To Pay Respects' Meme](https://kotaku.com/call-of-duty-vanguard-pays-tribute-to-press-f-to-pay-r-1848007796)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
