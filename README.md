@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Report: Apple and TSMC plan to produce 3nm chips for Macs as soon as 2023, with as many as four dies and up to 40 CPU cores in total per chip (Benjamin Mayo/9to5Mac)](http://www.techmeme.com/211105/p5#a211105p5)
- - [Lime raises over $500 million, confirms plans to take its electric scooter company public](https://www.theverge.com/2021/11/5/22764064/lime-electric-scooter-investment-public)
- - [Best deals Nov. 5: $100 off iPad Smart Keyboard Folio, $300 off a Panasonic Camera, more!](https://appleinsider.com/articles/21/11/05/best-deals-nov-5-100-off-ipad-smart-keyboard-folio-300-off-a-panasonic-camera-more?utm_medium=rss)<!-- TECH:END -->
+ - [Vergecast: Microsoft’s metaverse, Beats Fit Pro review, and Craig Federighi on sideloading](https://www.theverge.com/2021/11/5/22765246/vergecast-podcast-microsoft-ignite-metaverse-web-summit-2021)
+ - [Apple’s Dr. Brain is a bold, genre-bending thriller](https://www.theverge.com/22765207/dr-brain-review-apple-tv-plus)
+ - [Facebook sued by defunct photo app Phhhoto on antitrust grounds](https://www.theverge.com/2021/11/5/22765116/facebook-meta-sued-defunct-photo-app-phhhoto-antitrust-out-of-business)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
