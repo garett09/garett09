@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Praise the sun](http://9gag.com/gag/avAZrbb)
- - 🚯 [Better than nothing](http://9gag.com/gag/azeL80z)
- - 🚯 [Quitting my job today](http://9gag.com/gag/agg0LeW)<!-- MEMES:END -->
+ - 🚖 [Girl bareback riding black beast on the beach](http://9gag.com/gag/ay9pDNW)
+ - 🚯 [This f**king guy !! Lol](http://9gag.com/gag/aNPoAgA)
+ - 🚯 [It&#039;s Friday my Dudes](http://9gag.com/gag/agg0LAq)<!-- MEMES:END -->
 
 --- 
 
