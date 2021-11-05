@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Girl bareback riding black beast on the beach](http://9gag.com/gag/ay9pDNW)
- - 🚯 [This f**king guy !! Lol](http://9gag.com/gag/aNPoAgA)
- - 🚯 [It&#039;s Friday my Dudes](http://9gag.com/gag/agg0LAq)<!-- MEMES:END -->
+ - 🚖 [More income and nice boss here I come!](http://9gag.com/gag/azeLqQZ)
+ - 🚯 [The art of fishing with your hands](http://9gag.com/gag/aogZOM2)
+ - 🚯 [Cyclist Karen has a meltdown in public.. wait till the end](http://9gag.com/gag/ay9pDL8)<!-- MEMES:END -->
 
 --- 
 
