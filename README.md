@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Unpacking: The Kotaku Review](https://kotaku.com/unpacking-the-kotaku-review-1847994273)
- - [The Kristen Stewart movie Spencer is more real-life horror story than Princess Di biopic](https://www.polygon.com/reviews/22675101/spencer-review-kristen-stewart)
- - [Animal Crossing villagers are visiting players’ homes, with delightful results](https://www.polygon.com/22764107/animal-crossing-new-horizons-update-villagers-home-visit-player)<!-- GAME:END -->
+ - [Amy Hennig's Marvel game has its first confirmed writer](https://www.pcgamer.com/amy-hennigs-marvel-game-has-its-first-confirmed-writer)
+ - [Repent, for The Binding of Isaac is at Hand](https://news.xbox.com/en-us/2021/11/04/repent-for-the-binding-of-isaac-is-at-hand/)
+ - [Unpacking: The Kotaku Review](https://kotaku.com/unpacking-the-kotaku-review-1847994273)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
