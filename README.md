@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Animal Crossing’s big update has sucked me back in](https://www.theverge.com/2021/11/5/22765536/animal-crossing-new-horizons-2-0-update)
- - [Nintendo says its next ‘gaming system’ will release in the year 20XX](https://www.theverge.com/2021/11/5/22765498/nintendo-next-gaming-system-console-release-year-switch-oled)
- - [Apple says it has identified and fixed a firmware issue with its T2 security chip, which bricked some Macs while upgrading to macOS Monterey (Chance Miller/9to5Mac)](http://www.techmeme.com/211105/p10#a211105p10)<!-- TECH:END -->
+ - [Dyson's Entry-Level Stick Vacuum Is $130 Off Right Now](https://www.wired.com/story/dyson-v8-deal-november-2021)
+ - [The PS5 and Xbox Series X are now available online at Walmart](https://www.theverge.com/2021/11/5/22684674/sony-playstation-5-ps5-xbox-series-x-xsx-restock-availability)
+ - [Polish e-commerce company Allegro to buy Czech online retailer Mall Group for about $1.02B (Anna Pruchnicka/Reuters)](http://www.techmeme.com/211105/p11#a211105p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
