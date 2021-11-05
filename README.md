@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple promotes Apple Card Family with $10 Daily Cash offer](https://appleinsider.com/articles/21/11/05/apple-promotes-apple-card-family-with-10-daily-cash-offer?utm_medium=rss)
- - [US government offers $10 million bounty for information on Colonial Pipeline hackers](https://www.theverge.com/2021/11/5/22764987/darkside-hackers-bounty-10-million-colonial-pipeline)
- - [Twitter makes it easier to search tweets from specific accounts](https://www.theverge.com/2021/11/5/22764991/twitter-search-profile-button-ios-app)<!-- TECH:END -->
+ - [These Robots Follow You to Learn Where to Go](https://www.wired.com/story/robots-follow-learn-where-go)
+ - [Lenovo's Newest ThinkPad X1 Extreme Is a Windows Workhorse](https://www.wired.com/review/lenovo-thinkpad-x1-extreme)
+ - [It’s Time to Delete Carbon From the Atmosphere. But How?](https://www.wired.com/story/its-time-to-delete-carbon-from-the-atmosphere-but-how)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
