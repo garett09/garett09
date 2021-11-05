@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Old cartoons had no limits](http://9gag.com/gag/aYrpeR2)
- - 🚯 [She&#039;s stunning even without it!](http://9gag.com/gag/aKmg3D3)
- - 🚯 [Holup, Manny Pacquiao...!](http://9gag.com/gag/adg6qoQ)<!-- MEMES:END -->
+ - 🚖 [Name the cartoon shows u miss.](http://9gag.com/gag/aOQydOy)
+ - 🚯 [Archives](http://9gag.com/gag/aQXpxLq)
+ - 🚯 [8 months to go](http://9gag.com/gag/aDDwGzZ)<!-- MEMES:END -->
 
 --- 
 
