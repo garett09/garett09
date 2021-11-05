@@ -194,8 +194,8 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Neuron activation](http://9gag.com/gag/arneNP7)
- - 🚯 [This happened in Banglore India, an idiot removed one of structure&#039;s main pillar while renovating his flat/condo, then this.. ** Sry for camera work](http://9gag.com/gag/aWg06mn)
- - 🚯 [She&#039;s stunning even without it!](http://9gag.com/gag/aKmg3D3)<!-- MEMES:END -->
+ - 🚯 [She&#039;s stunning even without it!](http://9gag.com/gag/aKmg3D3)
+ - 🚯 [I feel very safe, being protected by these cops.](http://9gag.com/gag/a21PmwE)<!-- MEMES:END -->
 
 --- 
 
