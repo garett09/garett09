@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Amy Hennig's Marvel game has its first confirmed writer](https://www.pcgamer.com/amy-hennigs-marvel-game-has-its-first-confirmed-writer)
- - [Repent, for The Binding of Isaac is at Hand](https://news.xbox.com/en-us/2021/11/04/repent-for-the-binding-of-isaac-is-at-hand/)
- - [Unpacking: The Kotaku Review](https://kotaku.com/unpacking-the-kotaku-review-1847994273)<!-- GAME:END -->
+ - [Early Call of Duty: Vanguard reviews point to good multiplayer but a lacklustre campaign](https://www.pcgamer.com/early-call-of-duty-vanguard-reviews-point-to-good-multiplayer-but-a-lacklustre-campaign)
+ - [Eternals’ post-credit scene brings the Marvel universe back to Thanos](https://www.polygon.com/22744741/harry-styles-eternals-character-post-credits-scene-pip-starfox)
+ - [Eternals’ post-credit scene is essential to making sense of Kit Harington’s role](https://www.polygon.com/22763405/eternals-post-credit-scene-kit-harington-black-knight)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
