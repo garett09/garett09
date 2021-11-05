@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Microsoft Celebrates Indigenous Creators, Culture, and Artistry through Games, Movies, and TV](https://news.xbox.com/en-us/2021/11/05/microsoft-celebrates-indigenous-creators-culture-and-artistry/)
- - [Jurassic World Evolution 2 lets you fight hubris and win](https://www.polygon.com/reviews/22761767/jurassic-world-evolution-2-review-park-dinosaur-zoo)
- - [Frustrated Ubisoft Workers Are Asking For Your Help So The Company Doesn't Ignore Them](https://kotaku.com/frustrated-ubisoft-workers-are-asking-for-your-help-so-1848003796)<!-- GAME:END -->
+ - [New Transformers Game Captures That Saturday Morning Cartoon Vibe](https://kotaku.com/new-transformers-game-captures-that-saturday-morning-ca-1848004365)
+ - [Black Friday gaming monitor deals 2021: the best and brightest screens at great prices](https://www.pcgamer.com/black-friday-gaming-monitor-deals-2021)
+ - [Share of the Week: Returnal – Photo Mode](http://feedproxy.google.com/~r/PSBlog/~3/Fzf7PGmCqcY/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
