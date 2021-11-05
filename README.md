@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Singapore-based crypto trading platform AscendEX raises a $50M Series B co-led by Polychain Capital and Hack VC, at a $455M valuation (Andrew Asmakov/Decrypt)](http://www.techmeme.com/211104/p38#a211104p38)
  - [DJI launches Mavic 3 drone with dual-camera system, redesigned batteries offering up to 46 minutes of flight time, improved tracking and safety, and more (Juli Clover/MacRumors)](http://www.techmeme.com/211104/p37#a211104p37)
- - [Investment data management company Confluence Technologies to acquire Investment Metrics, an investment data solutions provider, for $500M (Jordyn Hronec/Pittsburgh Business Journal)](http://www.techmeme.com/211104/p36#a211104p36)
- - [DJI releases new flagship Mavic drones — Mavic 3 and Mavic 3 Cine](https://www.theverge.com/2021/11/4/22759660/dji-flagship-prores-mavic-3-cine-drone)<!-- TECH:END -->
+ - [Investment data management company Confluence Technologies to acquire Investment Metrics, an investment data solutions provider, for $500M (Jordyn Hronec/Pittsburgh Business Journal)](http://www.techmeme.com/211104/p36#a211104p36)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
