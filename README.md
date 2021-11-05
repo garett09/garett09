@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Call of Duty: Vanguard camo challenges guide](https://www.pcgamer.com/call-of-duty-cod-vanguard-camo-challenges-guide)
- - [Garry Kasparov is diamond 5 in Hearthstone, but reckons 'if I make a push I can go to legend rank'](https://www.pcgamer.com/garry-kasparov-is-diamond-5-in-hearthstone-but-reckons-if-i-make-a-push-i-can-go-to-legend-rank)
- - [Destiny 2 Xur location and items, Nov. 5-9](https://www.polygon.com/destiny-2-guide-walkthrough/2021/11/5/22765662/destiny-2-xur-location-items-nov-5-9)<!-- GAME:END -->
+ - [Enjoy Scenic West Cornwall Local in Train Sim World 2](https://news.xbox.com/en-us/2021/11/05/enjoy-scenic-west-cornwall-local-in-train-sim-world-2/)
+ - [Unpacking Might Have The Worst Video Game Boyfriend Of The Year](https://kotaku.com/unpacking-might-have-the-worst-video-game-boyfriend-of-1848006376)
+ - [Forza Horizon 5's Sign Language Interpreters Are A Huge Step For Gaming](https://kotaku.com/forza-horizon-5s-sign-language-interpreters-are-a-huge-1848005282)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
