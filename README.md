@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Too bad, I already paid in advance](http://9gag.com/gag/angXyPL)
- - 🚯 [Holup, Manny Pacquiao...!](http://9gag.com/gag/adg6qoQ)
- - 🚯 [This f**king guy !! Lol](http://9gag.com/gag/aNPoAgA)<!-- MEMES:END -->
+ - 🚖 [Relatable.](http://9gag.com/gag/aDDwjG7)
+ - 🚯 [&#039;Taken&#039; in real life](http://9gag.com/gag/aQXpMV8)
+ - 🚯 [Just need few years.](http://9gag.com/gag/ajg6X0w)<!-- MEMES:END -->
 
 --- 
 
