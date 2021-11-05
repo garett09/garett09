@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Yes, your Pixel 6 and Pixel 6 Pro can be MagSafe-friendly with this Moment case](https://www.theverge.com/2021/11/5/22753313/pixel-6-magsafe-pro-moment-mforce-case-mobile-accessories-android)
- - [New DJI Mavic 3 drone boasts better cameras, longer flight time](https://appleinsider.com/articles/21/11/05/new-dji-mavic-3-drone-boats-better-cameras-longer-flight-time?utm_medium=rss)
- - [Samsung Galaxy S22 series: All the rumors in one place (Updated: Nov. 5)](https://www.androidauthority.com/samsung-galaxy-s22-1643006/)<!-- TECH:END -->
+ - [Google quietly removes Assistant's Your News Update feature, which was launched in 2019 to give personalized audio digests based on user data (Abner Li/9to5Google)](http://www.techmeme.com/211105/p15#a211105p15)
+ - [Apple hires former Tesla engineer to bolster its self-driving car project](https://appleinsider.com/articles/21/11/05/apple-hires-former-tesla-engineer-to-bolster-its-self-driving-car-project?utm_medium=rss)
+ - [Apple hires CJ Moore, Tesla's Autopilot Software Director who in January told the DMV that Musk's "Full-Self Driving" claims didn't "match engineering reality" (Bloomberg)](http://www.techmeme.com/211105/p14#a211105p14)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
