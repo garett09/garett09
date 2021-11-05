@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [KartRider: Drift Returns to the Tracks This December with New Closed Beta Event](https://news.xbox.com/en-us/2021/11/05/kartrider-drift-returns-to-the-tracks-this-december/)
- - [The 18 Things You Should Do In Animal Crossing: New Horizons' Big Update](https://kotaku.com/the-18-things-you-should-do-in-animal-crossing-new-hor-1848003621)
- - [The deal with Arishem, the Eternals’ big red robot dad](https://www.polygon.com/comics/22632222/eternals-celestial-red-robot-eyes-comics-galactus)<!-- GAME:END -->
+ - [Call of Duty: Vanguard camo challenges guide](https://www.pcgamer.com/call-of-duty-cod-vanguard-camo-challenges-guide)
+ - [Garry Kasparov is diamond 5 in Hearthstone, but reckons 'if I make a push I can go to legend rank'](https://www.pcgamer.com/garry-kasparov-is-diamond-5-in-hearthstone-but-reckons-if-i-make-a-push-i-can-go-to-legend-rank)
+ - [Destiny 2 Xur location and items, Nov. 5-9](https://www.polygon.com/destiny-2-guide-walkthrough/2021/11/5/22765662/destiny-2-xur-location-items-nov-5-9)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
