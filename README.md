@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Starting to feel that way.](http://9gag.com/gag/a11ZbVP)
- - 🚯 [The art of fishing with your hands](http://9gag.com/gag/aogZOM2)
- - 🚯 [Quitting my job today](http://9gag.com/gag/agg0LeW)<!-- MEMES:END -->
+ - 🚖 [Brother &amp; Sisterly love...](http://9gag.com/gag/aOQyrb3)
+ - 🚯 [Oh shit!](http://9gag.com/gag/aVxQ3qM)
+ - 🚯 [The art of fishing with your hands](http://9gag.com/gag/aogZOM2)<!-- MEMES:END -->
 
 --- 
 
