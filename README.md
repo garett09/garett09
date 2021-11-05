@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Internal docs: a Facebook well-being team's survey found 12.5% of participants reported compulsive use of Facebook that negatively impacted their lives (Wall Street Journal)](http://www.techmeme.com/211105/p9#a211105p9)
- - [Volta Trucks reveals final design for its electric commercial vehicles     - Roadshow](https://www.cnet.com/roadshow/news/volta-trucks-reveal-design-electric-commercial-vehicle/#ftag=CAD590a51e)
- - [Eternals review: Unique Marvel entry trips through a convoluted plot     - CNET](https://www.cnet.com/news/eternals-movie-review-unique-marvel-entry-trips-through-a-convoluted-plot/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Animal Crossing’s big update has sucked me back in](https://www.theverge.com/2021/11/5/22765536/animal-crossing-new-horizons-2-0-update)
+ - [Nintendo says its next ‘gaming system’ will release in the year 20XX](https://www.theverge.com/2021/11/5/22765498/nintendo-next-gaming-system-console-release-year-switch-oled)
+ - [Apple says it has identified and fixed a firmware issue with its T2 security chip, which bricked some Macs while upgrading to macOS Monterey (Chance Miller/9to5Mac)](http://www.techmeme.com/211105/p10#a211105p10)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
