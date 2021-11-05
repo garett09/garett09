@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [A primer on the Eternals strange place in the Marvel universe](https://www.polygon.com/22764655/eternals-marvel-universe-comics-what-to-know)
  - [Early Call of Duty: Vanguard reviews point to good multiplayer but a lacklustre campaign](https://www.pcgamer.com/early-call-of-duty-vanguard-reviews-point-to-good-multiplayer-but-a-lacklustre-campaign)
- - [Eternals’ post-credit scene brings the Marvel universe back to Thanos](https://www.polygon.com/22744741/harry-styles-eternals-character-post-credits-scene-pip-starfox)
- - [Eternals’ post-credit scene is essential to making sense of Kit Harington’s role](https://www.polygon.com/22763405/eternals-post-credit-scene-kit-harington-black-knight)<!-- GAME:END -->
+ - [Eternals’ post-credit scene brings the Marvel universe back to Thanos](https://www.polygon.com/22744741/harry-styles-eternals-character-post-credits-scene-pip-starfox)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
