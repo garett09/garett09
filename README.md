@@ -194,8 +194,8 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Hell yeah haha](http://9gag.com/gag/a51No9N)
- - 🚯 [Brother &amp; Sisterly love...](http://9gag.com/gag/aOQyrb3)
- - 🚯 [Smart bidet (0:33)](http://9gag.com/gag/ajg6ELg)<!-- MEMES:END -->
+ - 🚯 [The sound tho! :D](http://9gag.com/gag/a91Mp3Z)
+ - 🚯 [Thanks to SouthPark, I understood what Scientologists actually believe in](http://9gag.com/gag/a31dM0Q)<!-- MEMES:END -->
 
 --- 
 
