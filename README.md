@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Wicked movie casts Ariana Grande and Cynthia Erivo as Glinda and Elphaba     - CNET](https://www.cnet.com/news/wicked-movie-casts-ariana-grande-and-cynthia-erivo-as-glinda-and-elphaba/#ftag=CAD590a51e)
  - [Singapore-based crypto trading platform AscendEX raises a $50M Series B co-led by Polychain Capital and Hack VC, at a $455M valuation (Andrew Asmakov/Decrypt)](http://www.techmeme.com/211104/p38#a211104p38)
- - [DJI launches Mavic 3 drone with dual-camera system, redesigned batteries offering up to 46 minutes of flight time, improved tracking and safety, and more (Juli Clover/MacRumors)](http://www.techmeme.com/211104/p37#a211104p37)
- - [Investment data management company Confluence Technologies to acquire Investment Metrics, an investment data solutions provider, for $500M (Jordyn Hronec/Pittsburgh Business Journal)](http://www.techmeme.com/211104/p36#a211104p36)<!-- TECH:END -->
+ - [DJI launches Mavic 3 drone with dual-camera system, redesigned batteries offering up to 46 minutes of flight time, improved tracking and safety, and more (Juli Clover/MacRumors)](http://www.techmeme.com/211104/p37#a211104p37)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
