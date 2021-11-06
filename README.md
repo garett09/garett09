@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Neuro-ID, whose real-time behavioral analytics tool helps companies reduce fraud and customer friction, raises a $35M Series B led by Canapi Ventures (Christine Hall/TechCrunch)](http://www.techmeme.com/211106/p7#a211106p7)
- - [Google Pixel 6 Pro camera shootout: Can it best Apple and Samsung?](https://www.androidauthority.com/google-pixel-6-pro-camera-test-3049498/)
- - [The Best Base Layers to Keep You Warm](https://www.wired.com/gallery/best-base-layers-winter)<!-- TECH:END -->
+ - [Alienware X17 review: pretty pixels for a pretty penny](https://www.theverge.com/22765258/alienware-x17-review-4k-17-inch-gaming-laptop)
+ - [Apple’s handy AirTag Loop is selling for a low price at Amazon](https://www.theverge.com/good-deals/2021/11/6/22765943/apple-airtag-hitman-3-gopro-hero-10-black-xbox-elite-series-2-controller-amazon-omni-fire-deal-sale)
+ - [Stranger Things 4’s new teaser promises ‘the best spring break ever’](https://www.theverge.com/2021/11/6/22765252/stranger-things-4-teaser-trailer-2022-release-date-netflix)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
