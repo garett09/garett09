@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple TV+ 'Ted Lasso' season finale ninth in Nielsen streaming ratings](https://appleinsider.com/articles/21/11/06/apple-tv-ted-lasso-season-finale-ninth-in-nielsen-streaming-ratings?utm_medium=rss)
  - [Dexter: New Blood — Everything you need to know about the new series](https://www.androidauthority.com/dexter-new-blood-3051944/)
- - [WhatsApp may be working on a Communities feature](https://www.theverge.com/2021/11/6/22767242/whatsapp-working-communities-feature-groups)
- - [A recently unredacted antitrust complaint alleges that Google gives AMP a "nice comparative boost" by throttling load times of non-AMP ads via one-second delays (Sarah Gooding/WP Tavern)](http://www.techmeme.com/211106/p11#a211106p11)<!-- TECH:END -->
+ - [WhatsApp may be working on a Communities feature](https://www.theverge.com/2021/11/6/22767242/whatsapp-working-communities-feature-groups)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
