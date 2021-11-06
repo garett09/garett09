@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Record breaking audiences watch EDward Gaming take LOL World Championship 2021](https://www.pcgamer.com/record-breaking-audiences-watch-edward-gaming-take-lol-world-championship-2021)
- - [Skyrim Anniversary Edition, Explained](https://kotaku.com/skyrim-anniversary-edition-explained-1848010663)
- - [Forza Horizon 5 guide: What to do in your first few hours](https://www.polygon.com/guides/22765718/forza-horizon-5-beginners-tips-tricks-getting-started-settings-difficulty-custom-race-paint-upgrade)<!-- GAME:END -->
+ - [Animal Crossing: New Horizons Is Getting A Black Friday Event](https://kotaku.com/animal-crossing-new-horizons-is-getting-a-black-friday-1848010843)
+ - [Final Fantasy 14: Endwalker delayed to December](https://www.pcgamer.com/final-fantasy-14-endwalker-delayed-to-december)
+ - [Record breaking audiences watch EDward Gaming take LOL World Championship 2021](https://www.pcgamer.com/record-breaking-audiences-watch-edward-gaming-take-lol-world-championship-2021)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
