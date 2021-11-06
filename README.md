@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Infrastructure bill has an amendment to tax code section 6050I that requires some recipients of digital assets worth $10K+ to report sender's details to IRS (Nikhilesh De/CoinDesk)](http://www.techmeme.com/211106/p6#a211106p6)
- - [Apple Watch Series 7 buyer’s guide: Everything you need to know](https://www.androidauthority.com/apple-watch-series-7-2746557/)
- - [How to Prepare for Power Outages](https://www.wired.com/story/how-to-prepare-power-outage)<!-- TECH:END -->
+ - [Kenji Eno Broke New Ground for Video Games](https://www.wired.com/story/kenji-eno-retrospective)
+ - [The 13 Best Electric Bikes for Every Kind of Ride](https://www.wired.com/gallery/best-electric-bikes)
+ - [I spent hours waiting to find out what an NFT looks like IRL](https://www.theverge.com/2021/11/6/22766154/nft-gallery-party-beeple-dreamverse-69-million-first-in-person-display)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
