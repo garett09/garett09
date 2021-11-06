@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Pixel 6 appears to fall short of expected 30W charging speeds](https://www.theverge.com/2021/11/6/22766824/google-pixel-6-falls-short-expected-30w-charging-speeds)
- - [Jack in the Box suing crypto exchange FTX, says it ‘brazenly’ copied its Jack mascot](https://www.theverge.com/2021/11/6/22766949/jack-in-the-box-suing-cryptocurrency-exchange-ftx-mascot-copyright-infringement)
- - [Best deals Nov. 6: Intel MacBook Pro sale, $429 AirPods Max, Get into D&D, more!](https://appleinsider.com/articles/21/11/06/best-deals-nov-6-discounted-macbook-pros-429-airpods-max-get-into-dd-more?utm_medium=rss)<!-- TECH:END -->
+ - [What is Samsung Health? Everything you need to know](https://www.androidauthority.com/samsung-health-3037491/)
+ - [How a scarcity of secondhand chip manufacturing machines, which use older fabrication techniques, has exacerbated the global chip shortage (Christopher Mims/Wall Street Journal)](http://www.techmeme.com/211106/p9#a211106p9)
+ - [Google Pixel 6 appears to fall short of expected 30W charging speeds](https://www.theverge.com/2021/11/6/22766824/google-pixel-6-falls-short-expected-30w-charging-speeds)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
