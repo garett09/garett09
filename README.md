@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Yep, it belongs to &quot;funny&quot;](http://9gag.com/gag/aqGZGZY)
- - 🚯 [&quot;I can&#039;t wait for the weekend&quot;. The weekend:](http://9gag.com/gag/ajg6VM0)
+ - 🚖 [Good boy](http://9gag.com/gag/a0ZP7rz)
+ - 🚯 [Natidreddd](http://9gag.com/gag/avAZQG5)
  - 🚯 [Who remembers anniversary dates? Hurry up and pre-register for Ragnarok Origin to claim your rewards](http://9gag.com/gag/aYrprq7)<!-- MEMES:END -->
 
 --- 
