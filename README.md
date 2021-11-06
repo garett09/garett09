@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Plate IQ, which develops invoice and payments software for the restaurant and hospitality industry, raises a $160M Series B from FTV Capital (PYMNTS.com)](http://www.techmeme.com/211106/p1#a211106p1)
  - [Kareo, a medical records and billing software provider, merges with health care IT company PatientPop, to form Tebra, source says at a $1B valuation (Bloomberg)](http://www.techmeme.com/211105/p22#a211105p22)
- - [Bitcoin Cash briefly spiked 4.6% on Friday after a fake PR Newswire press release, which also appeared on Kroger.com, claimed Kroger will begin accepting it (Jamie Crawley/CoinDesk)](http://www.techmeme.com/211105/p21#a211105p21)
- - [Hands on with DJI's dual-camera Mavic 3 drone     - CNET](https://www.cnet.com/pictures/hands-on-with-djis-dual-camera-mavic-3-drone/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Bitcoin Cash briefly spiked 4.6% on Friday after a fake PR Newswire press release, which also appeared on Kroger.com, claimed Kroger will begin accepting it (Jamie Crawley/CoinDesk)](http://www.techmeme.com/211105/p21#a211105p21)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
