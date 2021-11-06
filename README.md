@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The 12 best movies new to streaming to watch in November](https://www.polygon.com/2021/11/6/22747440/best-new-movies-netflix-amazon-hbo-november-2021)
  - [The moment I yelled ‘Shang-Chi!’ during Eternals, explained](https://www.polygon.com/22765460/eternals-phastos-shang-chi-ten-rings-post-credit)
- - [BloodNet made a cyberpunk even more dystopian by adding vampires](https://www.pcgamer.com/saturday-crapshoot-bloodnet)
- - [Let’s talk about that disorienting Eternals ending](https://www.polygon.com/22764012/marvel-eternals-ending-mcu-celestials)<!-- GAME:END -->
+ - [BloodNet made a cyberpunk even more dystopian by adding vampires](https://www.pcgamer.com/saturday-crapshoot-bloodnet)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
