@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Abound, an online wholesale marketplace connecting independent retailers and brands, raises a $36.7M Series B led by D. E. Shaw, bringing total raised to $59.6M (PYMNTS.com)](http://www.techmeme.com/211106/p4#a211106p4)
- - [The Weekly Authority: Edition #167](https://www.androidauthority.com/newsletters/the-weekly-authority-edition-167/)
- - [Samsung 25W Wireless Portable Battery review: The need for speed](https://www.androidauthority.com/samsung-25w-wireless-portable-battery-review-3047659/)<!-- TECH:END -->
+ - [Infrastructure bill has an amendment to tax code section 6050I that requires some recipients of digital assets worth $10K+ to report sender's details to IRS (Nikhilesh De/CoinDesk)](http://www.techmeme.com/211106/p6#a211106p6)
+ - [Apple Watch Series 7 buyer’s guide: Everything you need to know](https://www.androidauthority.com/apple-watch-series-7-2746557/)
+ - [How to Prepare for Power Outages](https://www.wired.com/story/how-to-prepare-power-outage)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
