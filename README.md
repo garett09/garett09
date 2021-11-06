@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Natidreddd](http://9gag.com/gag/avAZQG5)
- - 🚯 [Have you ever played this game?](http://9gag.com/gag/a0ZPZXz)
+ - 🚖 [I&lsquo;am sorry little one](http://9gag.com/gag/aeg3Qvp)
+ - 🚯 [Dad pranks daughter during her first driving lesson](http://9gag.com/gag/awzbzjD)
  - 🚯 [Who remembers anniversary dates? Hurry up and pre-register for Ragnarok Origin to claim your rewards](http://9gag.com/gag/aYrprq7)<!-- MEMES:END -->
 
 --- 
