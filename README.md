@@ -188,7 +188,7 @@ Windows                  3 hrs 9 mins        ███████████�
 <!-- TECH:START -->
  - [How to install Windows 11 on unsupported hardware](https://www.androidauthority.com/how-to-install-windows-11-on-unsupported-hardware-3051143/)
  - [FOI request reveals US Treasury acquired data feeds enabling government use of sensitive data from smartphone apps not subject to due process restrictions (Sam Biddle/The Intercept)](http://www.techmeme.com/211106/p3#a211106p3)
- - [Gather, which builds metaverse-like environments for offices, virtual events, and conferences, raises a $50M Series B led by Sequoia Capital and Index Ventures (FinSMEs)](http://www.techmeme.com/211106/p2#a211106p2)<!-- TECH:END -->
+ - [Gather, which builds metaverse-like environments for offices, events, and conferences, raises a $50M Series B led by Sequoia Capital and Index Ventures (FinSMEs)](http://www.techmeme.com/211106/p2#a211106p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
