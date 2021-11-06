@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hell~yeah! (Sound on)](http://9gag.com/gag/aGzVprn)
- - 🚯 [Ashton Kutcher and Mila Kunis find out that they broke up](http://9gag.com/gag/angX4Vn)
- - 🚯 [Sherlock Ohms](http://9gag.com/gag/a419EKv)<!-- MEMES:END -->
+ - 🚖 [It do be like that](http://9gag.com/gag/aYrpo6x)
+ - 🚯 [Master shifu in action](http://9gag.com/gag/abgqVNO)
+ - 🚯 [Who remembers anniversary dates?](http://9gag.com/gag/aYrprq7)<!-- MEMES:END -->
 
 --- 
 
