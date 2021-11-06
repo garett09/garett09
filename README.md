@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung 25W Wireless Portable Battery review: The need for speed](https://www.androidauthority.com/samsung-25w-wireless-portable-battery-review-3047659/)
- - [How to install Windows 11 on unsupported hardware](https://www.androidauthority.com/how-to-install-windows-11-on-unsupported-hardware-3051143/)
- - [FOI request reveals US Treasury acquired data feeds enabling government use of sensitive data from smartphone apps not subject to due process restrictions (Sam Biddle/The Intercept)](http://www.techmeme.com/211106/p3#a211106p3)<!-- TECH:END -->
+ - [Abound, an online wholesale marketplace connecting independent retailers and brands, raises a $36.7M Series B led by D. E. Shaw, bringing total raised to $59.6M (PYMNTS.com)](http://www.techmeme.com/211106/p4#a211106p4)
+ - [The Weekly Authority: Edition #167](https://www.androidauthority.com/newsletters/the-weekly-authority-edition-167/)
+ - [Samsung 25W Wireless Portable Battery review: The need for speed](https://www.androidauthority.com/samsung-25w-wireless-portable-battery-review-3047659/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
