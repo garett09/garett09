@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best early Black Friday deals you can get right now](https://www.theverge.com/22759214/black-friday-early-deals-best-headphones-laptops-gaming-tvs-tech-sale)
- - [Internal docs: In 2019, Facebook researchers found US users are four times more likely to see misinformation when they encounter a post via a share of a share (Alex Kantrowitz/Big Technology)](http://www.techmeme.com/211105/p18#a211105p18)
- - [1.8 TB of Police Helicopter Surveillance Footage Leaks Online](https://www.wired.com/story/ddosecrets-police-helicopter-data-leak)<!-- TECH:END -->
+ - [Bird closes its first day on the NYSE flat at $8.40 per share, after going public via a SPAC merger which valued it ~$2.3B (Harrison Weber/dot.LA)](http://www.techmeme.com/211105/p20#a211105p20)
+ - [Black Friday Canada 2021: All the best deals on all the best tech](https://www.androidauthority.com/best-black-friday-deals-canada-1180332/)
+ - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
