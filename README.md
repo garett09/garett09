@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Actually, it was approx. $245K.](http://9gag.com/gag/arnenG0)
- - 🚯 [Yep, it belongs to &quot;funny&quot;](http://9gag.com/gag/aqGZGZY)
+ - 🚖 [Master shifu in action](http://9gag.com/gag/abgqVNO)
+ - 🚯 [Have you ever played this game?](http://9gag.com/gag/a0ZPZXz)
  - 🚯 [Who remembers anniversary dates? Hurry up and pre-register for Ragnarok Origin to claim your rewards](http://9gag.com/gag/aYrprq7)<!-- MEMES:END -->
 
 --- 
