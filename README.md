@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Alienware X17 review: pretty pixels for a pretty penny](https://www.theverge.com/22765258/alienware-x17-review-4k-17-inch-gaming-laptop)
- - [Apple’s handy AirTag Loop is selling for a low price at Amazon](https://www.theverge.com/good-deals/2021/11/6/22765943/apple-airtag-hitman-3-gopro-hero-10-black-xbox-elite-series-2-controller-amazon-omni-fire-deal-sale)
- - [Stranger Things 4’s new teaser promises ‘the best spring break ever’](https://www.theverge.com/2021/11/6/22765252/stranger-things-4-teaser-trailer-2022-release-date-netflix)<!-- TECH:END -->
+ - [Weekend deals: Amazon Echo Buds 2, SodaStream, Fitbit and more early Black Friday deals     - CNET](https://www.cnet.com/home/kitchen-and-household/weekend-deals-amazon-echo-buds-2-sodastream-fitbit-and-more-early-black-friday-deals/#ftag=CAD590a51e)
+ - [Lidar Uncovers Hundreds of Lost Maya and Olmec Ruins](https://www.wired.com/story/lidar-uncovers-lost-maya-olmec-ruins)
+ - [Best VPN service for Amazon Fire TV Stick in 2021     - CNET](https://www.cnet.com/tech/services-and-software/best-vpn-service-for-amazon-fire-tv-stick-in-2021/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
