@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [BloodNet made a cyberpunk even more dystopian by adding vampires](https://www.pcgamer.com/saturday-crapshoot-bloodnet)
  - [Let’s talk about that disorienting Eternals ending](https://www.polygon.com/22764012/marvel-eternals-ending-mcu-celestials)
- - [How to level up fast in Call of Duty: Vanguard](https://www.pcgamer.com/how-to-level-up-fast-in-call-of-duty-vanguard)
- - [Halo Infinite's battle pass won't have dance moves for Spartans](https://www.pcgamer.com/halo-infinites-battle-pass-wont-have-dance-moves-for-spartans)<!-- GAME:END -->
+ - [How to level up fast in Call of Duty: Vanguard](https://www.pcgamer.com/how-to-level-up-fast-in-call-of-duty-vanguard)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
