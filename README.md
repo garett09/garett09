@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [They come from the forest.](http://9gag.com/gag/abgqGoL)
- - 🚯 [I see you.](http://9gag.com/gag/ajg69M8)
- - 🚯 [Water redneck](http://9gag.com/gag/aPZy78B)<!-- MEMES:END -->
+ - 🚖 [Water redneck](http://9gag.com/gag/aPZy78B)
+ - 🚯 [This is so accurate](http://9gag.com/gag/adg680V)
+ - 🚯 [Also missing &lsquo;bout half my fries.](http://9gag.com/gag/avAZzQ5)<!-- MEMES:END -->
 
 --- 
 
