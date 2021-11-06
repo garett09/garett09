@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Realized that I&#039;ve been doing it wrong the whole time.](http://9gag.com/gag/aDDwg6x)
- - 🚯 [This is my very first animated gif. I&#039;m not proud but want to share because i have no gaming friends ;)](http://9gag.com/gag/ajg65BQ)
- - 🚯 [The contrarians won&#039;t have it though](http://9gag.com/gag/aVxQ0EM)<!-- MEMES:END -->
+ - 🚖 [Practice.Makes.Perfect! I thought you would minimum need a small orchestra to play Vivaldi&#039;s four seasons. Alexandr Hrustevich proved me very, very wrong. Here he&#039;s playing the 3. part of singer...Simply incredible...](http://9gag.com/gag/apgom6M)
+ - 🚯 [The contrarians won&#039;t have it though](http://9gag.com/gag/aVxQ0EM)
+ - 🚯 [Also missing &lsquo;bout half my fries.](http://9gag.com/gag/avAZzQ5)<!-- MEMES:END -->
 
 --- 
 
