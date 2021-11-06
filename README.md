@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The 12 best movies new to streaming to watch in November](https://www.polygon.com/2021/11/6/22747440/best-new-movies-netflix-amazon-hbo-november-2021)
- - [The moment I yelled ‘Shang-Chi!’ during Eternals, explained](https://www.polygon.com/22765460/eternals-phastos-shang-chi-ten-rings-post-credit)
- - [BloodNet made a cyberpunk even more dystopian by adding vampires](https://www.pcgamer.com/saturday-crapshoot-bloodnet)<!-- GAME:END -->
+ - [The key difference between Celestials and Galactus](https://www.polygon.com/22765316/galactus-celestial-eternals-tiamut-marvel)
+ - [Final Fantasy XIV: Endwalker Delayed Two Weeks To Ensure 'Stability'](https://kotaku.com/final-fantasy-xiv-endwalker-delayed-two-weeks-to-ensur-1848009952)
+ - [Before blockchain and NFTs, there was the real-cash MMO Entropia Universe](https://www.pcgamer.com/before-blockchain-and-nfts-there-was-the-real-cash-mmo-entropia-universe)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
