@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Weekend deals: Amazon Echo Buds 2, SodaStream, Fitbit and more early Black Friday deals     - CNET](https://www.cnet.com/home/kitchen-and-household/weekend-deals-amazon-echo-buds-2-sodastream-fitbit-and-more-early-black-friday-deals/#ftag=CAD590a51e)
- - [Lidar Uncovers Hundreds of Lost Maya and Olmec Ruins](https://www.wired.com/story/lidar-uncovers-lost-maya-olmec-ruins)
- - [Best VPN service for Amazon Fire TV Stick in 2021     - CNET](https://www.cnet.com/tech/services-and-software/best-vpn-service-for-amazon-fire-tv-stick-in-2021/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google Pixel 6 appears to fall short of expected 30W charging speeds](https://www.theverge.com/2021/11/6/22766824/google-pixel-6-falls-short-expected-30w-charging-speeds)
+ - [Jack in the Box suing crypto exchange FTX, says it ‘brazenly’ copied its Jack mascot](https://www.theverge.com/2021/11/6/22766949/jack-in-the-box-suing-cryptocurrency-exchange-ftx-mascot-copyright-infringement)
+ - [Best deals Nov. 6: Intel MacBook Pro sale, $429 AirPods Max, Get into D&D, more!](https://appleinsider.com/articles/21/11/06/best-deals-nov-6-discounted-macbook-pros-429-airpods-max-get-into-dd-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
