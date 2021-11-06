@@ -194,8 +194,8 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [90% of the crimes could be avoided if people knew how to raise their kids](http://9gag.com/gag/a31dwR7)
- - 🚯 [Yes](http://9gag.com/gag/aYrpyLv)
- - 🚯 [Christmas is coming](http://9gag.com/gag/aZrWyWX)<!-- MEMES:END -->
+ - 🚯 [Any mechanics on here? What does it mean when this light comes on?](http://9gag.com/gag/arneo5d)
+ - 🚯 [Steel yourselves, fellow hollows](http://9gag.com/gag/aBnQggP)<!-- MEMES:END -->
 
 --- 
 
