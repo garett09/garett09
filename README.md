@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [What is Samsung Health? Everything you need to know](https://www.androidauthority.com/samsung-health-3037491/)
- - [How a scarcity of secondhand chip manufacturing machines, which use older fabrication techniques, has exacerbated the global chip shortage (Christopher Mims/Wall Street Journal)](http://www.techmeme.com/211106/p9#a211106p9)
- - [Google Pixel 6 appears to fall short of expected 30W charging speeds](https://www.theverge.com/2021/11/6/22766824/google-pixel-6-falls-short-expected-30w-charging-speeds)<!-- TECH:END -->
+ - [Someone stole an entire shipment of EVGA RTX graphics cards](https://www.theverge.com/2021/11/6/22767046/someone-stole-shipment-evga-rtx-graphics-cards)
+ - [Black Friday price war discounts Sony WH-1000XM4 Headphones to $248 ($100 off)](https://appleinsider.com/articles/21/11/06/black-friday-price-war-discounts-sony-wh-1000xm4-headphones-to-248-100-off?utm_medium=rss)
+ - [Apple TV+ poaches 20th Television drama development exec Erin May](https://appleinsider.com/articles/21/11/06/apple-tv-poaches-20th-television-drama-development-exec-erin-may?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
