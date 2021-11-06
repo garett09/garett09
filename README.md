@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [InfinityLab InstantCharger 65W review: Recycling is cool a-GaN](https://www.androidauthority.com/infinitylab-instantcharger-review-3048112/)
- - [Federal appeals court temporarily halts new Biden vaccine rule for companies](https://www.theverge.com/2021/11/6/22767168/federal-appeals-court-stay-new-biden-vaccine-rule-osha-companies)
- - [A look at digital pets site Neopets, which had 25M users in the mid-2000s, as owner JumpStart Games says 30%-40% of former users returned since March 2020 (Madeleine Morley/New York Times)](http://www.techmeme.com/211106/p10#a211106p10)<!-- TECH:END -->
+ - [Dexter: New Blood — Everything you need to know about the new series](https://www.androidauthority.com/dexter-new-blood-3051944/)
+ - [WhatsApp may be working on a Communities feature](https://www.theverge.com/2021/11/6/22767242/whatsapp-working-communities-feature-groups)
+ - [A recently unredacted antitrust complaint alleges that Google gives AMP a "nice comparative boost" by throttling load times of non-AMP ads via one-second delays (Sarah Gooding/WP Tavern)](http://www.techmeme.com/211106/p11#a211106p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
