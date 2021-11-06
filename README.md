@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [How many games have you finished this year?](https://www.pcgamer.com/how-many-games-have-you-finished-this-year)
  - [Animal Crossing: New Horizons Is Getting A Black Friday Event](https://kotaku.com/animal-crossing-new-horizons-is-getting-a-black-friday-1848010843)
- - [Final Fantasy 14: Endwalker delayed to December](https://www.pcgamer.com/final-fantasy-14-endwalker-delayed-to-december)
- - [Record breaking audiences watch EDward Gaming take LOL World Championship 2021](https://www.pcgamer.com/record-breaking-audiences-watch-edward-gaming-take-lol-world-championship-2021)<!-- GAME:END -->
+ - [Final Fantasy 14: Endwalker delayed to December](https://www.pcgamer.com/final-fantasy-14-endwalker-delayed-to-december)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
