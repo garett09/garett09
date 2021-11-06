@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It do be like that](http://9gag.com/gag/aYrpo6x)
- - 🚯 [Master shifu in action](http://9gag.com/gag/abgqVNO)
- - 🚯 [Who remembers anniversary dates?](http://9gag.com/gag/aYrprq7)<!-- MEMES:END -->
+ - 🚖 [Hell~yeah! (Sound on)](http://9gag.com/gag/aGzVprn)
+ - 🚯 [South Korean Professor Cho Jae-weon invented a Toilet that turns Poop into Energy and pays people Digital Currency.](http://9gag.com/gag/amgLPn9)
+ - 🚯 [Who remembers anniversary dates? Hurry up and pre-register for Ragnarok Origin to claim your rewards](http://9gag.com/gag/aYrprq7)<!-- MEMES:END -->
 
 --- 
 
