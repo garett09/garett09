@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Not all superheros wear capes](http://9gag.com/gag/aNPogGb)
- - 🚯 [It do be like that](http://9gag.com/gag/aYrpo6x)
- - 🚯 [Lets play a game!](http://9gag.com/gag/angXQWb)<!-- MEMES:END -->
+ - 🚖 [Hell~yeah! (Sound on)](http://9gag.com/gag/aGzVprn)
+ - 🚯 [Ashton Kutcher and Mila Kunis find out that they broke up](http://9gag.com/gag/angX4Vn)
+ - 🚯 [Sherlock Ohms](http://9gag.com/gag/a419EKv)<!-- MEMES:END -->
 
 --- 
 
