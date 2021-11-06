@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Good boy](http://9gag.com/gag/a0ZP7rz)
- - 🚯 [Natidreddd](http://9gag.com/gag/avAZQG5)
+ - 🚖 [Natidreddd](http://9gag.com/gag/avAZQG5)
+ - 🚯 [Have you ever played this game?](http://9gag.com/gag/a0ZPZXz)
  - 🚯 [Who remembers anniversary dates? Hurry up and pre-register for Ragnarok Origin to claim your rewards](http://9gag.com/gag/aYrprq7)<!-- MEMES:END -->
 
 --- 
