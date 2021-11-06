@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Actually, it was approx. $245K.](http://9gag.com/gag/arnenG0)
- - 🚯 [Yep, it belongs to &quot;funny&quot;](http://9gag.com/gag/aqGZGZY)
+ - 🚖 [Yep, it belongs to &quot;funny&quot;](http://9gag.com/gag/aqGZGZY)
+ - 🚯 [&quot;I can&#039;t wait for the weekend&quot;. The weekend:](http://9gag.com/gag/ajg6VM0)
  - 🚯 [Who remembers anniversary dates? Hurry up and pre-register for Ragnarok Origin to claim your rewards](http://9gag.com/gag/aYrprq7)<!-- MEMES:END -->
 
 --- 
