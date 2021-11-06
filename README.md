@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Forza Horizon 5 guide: What to do in your first few hours](https://www.polygon.com/guides/22765718/forza-horizon-5-beginners-tips-tricks-getting-started-settings-difficulty-custom-race-paint-upgrade)
- - [Nintendo To Continue To Improving Switch Online Following Backlash](https://kotaku.com/nintendo-to-continue-to-improving-switch-online-followi-1848010196)
- - [Eternals brings together the Marvel and DC universes and I need to lie down](https://www.polygon.com/22765827/eternals-superman-ikaris-batman-alfred-dc-comics-references)<!-- GAME:END -->
+ - [Record breaking audiences watch EDward Gaming take LOL World Championship 2021](https://www.pcgamer.com/record-breaking-audiences-watch-edward-gaming-take-lol-world-championship-2021)
+ - [Skyrim Anniversary Edition, Explained](https://kotaku.com/skyrim-anniversary-edition-explained-1848010663)
+ - [Forza Horizon 5 guide: What to do in your first few hours](https://www.polygon.com/guides/22765718/forza-horizon-5-beginners-tips-tricks-getting-started-settings-difficulty-custom-race-paint-upgrade)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
