@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Plate IQ, which develops invoice and payments software for the restaurant and hospitality industry, raises a $160M Series B from FTV Capital (PYMNTS.com)](http://www.techmeme.com/211106/p1#a211106p1)
- - [Kareo, a medical records and billing software provider, merges with health care IT company PatientPop, to form Tebra, source says at a $1B valuation (Bloomberg)](http://www.techmeme.com/211105/p22#a211105p22)
- - [Bitcoin Cash briefly spiked 4.6% on Friday after a fake PR Newswire press release, which also appeared on Kroger.com, claimed Kroger will begin accepting it (Jamie Crawley/CoinDesk)](http://www.techmeme.com/211105/p21#a211105p21)<!-- TECH:END -->
+ - [FOI request reveals US Treasury acquired data feeds enabling government use of sensitive data from smartphone apps not subject to due process restrictions (Sam Biddle/The Intercept)](http://www.techmeme.com/211106/p3#a211106p3)
+ - [Gather, which builds metaverse-like environments for offices, virtual events, and conferences, raises a $50M Series B led by Sequoia Capital and Index Ventures (FinSMEs)](http://www.techmeme.com/211106/p2#a211106p2)
+ - [Digital divide fix gets a boost as House passes $1.2 trillion infrastructure bill     - CNET](https://www.cnet.com/home/internet/digital-divide-fix-gets-a-boost-as-house-passes-1-2-trillion-infrastructure-bill/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
