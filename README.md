@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bird closes its first day on the NYSE flat at $8.40 per share, after going public via a SPAC merger which valued it ~$2.3B (Harrison Weber/dot.LA)](http://www.techmeme.com/211105/p20#a211105p20)
- - [Black Friday Canada 2021: All the best deals on all the best tech](https://www.androidauthority.com/best-black-friday-deals-canada-1180332/)
- - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)<!-- TECH:END -->
+ - [Kareo, a medical records and billing software provider, merges with health care IT company PatientPop, to form Tebra, source says at a $1B valuation (Bloomberg)](http://www.techmeme.com/211105/p22#a211105p22)
+ - [Bitcoin Cash briefly spiked 4.6% on Friday after a fake PR Newswire press release, which also appeared on Kroger.com, claimed Kroger will begin accepting it (Jamie Crawley/CoinDesk)](http://www.techmeme.com/211105/p21#a211105p21)
+ - [Hands on with DJI's dual-camera Mavic 3 drone     - CNET](https://www.cnet.com/pictures/hands-on-with-djis-dual-camera-mavic-3-drone/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
