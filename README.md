@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Eternals brings together the Marvel and DC universes and I need to lie down](https://www.polygon.com/22765827/eternals-superman-ikaris-batman-alfred-dc-comics-references)
- - [Final Fantasy 14: Endwalker release delayed by two weeks](https://www.polygon.com/22766981/ff14-final-fantasy-14-endwalker-release-date-delay)
- - [The key difference between Celestials and Galactus](https://www.polygon.com/22765316/galactus-celestial-eternals-tiamut-marvel)<!-- GAME:END -->
+ - [Forza Horizon 5 guide: What to do in your first few hours](https://www.polygon.com/guides/22765718/forza-horizon-5-beginners-tips-tricks-getting-started-settings-difficulty-custom-race-paint-upgrade)
+ - [Nintendo To Continue To Improving Switch Online Following Backlash](https://kotaku.com/nintendo-to-continue-to-improving-switch-online-followi-1848010196)
+ - [Eternals brings together the Marvel and DC universes and I need to lie down](https://www.polygon.com/22765827/eternals-superman-ikaris-batman-alfred-dc-comics-references)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
