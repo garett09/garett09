@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Never gonna let this be forgotten](http://9gag.com/gag/aM4bZvR)
- - 🚯 [Realized that I&#039;ve been doing it wrong the whole time.](http://9gag.com/gag/aDDwg6x)
- - 🚯 [This is my very first animated gif. I&#039;m not proud but want to share because i have no gaming friends ;)](http://9gag.com/gag/ajg65BQ)<!-- MEMES:END -->
+ - 🚖 [Realized that I&#039;ve been doing it wrong the whole time.](http://9gag.com/gag/aDDwg6x)
+ - 🚯 [This is my very first animated gif. I&#039;m not proud but want to share because i have no gaming friends ;)](http://9gag.com/gag/ajg65BQ)
+ - 🚯 [The contrarians won&#039;t have it though](http://9gag.com/gag/aVxQ0EM)<!-- MEMES:END -->
 
 --- 
 
