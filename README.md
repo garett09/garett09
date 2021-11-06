@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Senators Klobuchar and Cotton introduce a bill to regulate Big Tech acquisitions, which will force companies to prove proposed mergers aren't anticompetitive (Ashley Gold/Axios)](http://www.techmeme.com/211105/p16#a211105p16)
- - [Honeywell Home’s T9 smart thermostat gets HomeKit support, finally](https://www.theverge.com/2021/11/5/22766141/honeywell-home-t9-smart-thermostat-gets-homekit-support)
- - [Animal Crossing’s new turnip price tracker doesn’t tell you the most important thing](https://www.theverge.com/2021/11/5/22766105/animal-crossing-new-horizons-nintendo-switch-turnip-price-tracker-current-price)<!-- TECH:END -->
+ - [The best early Black Friday deals you can get right now](https://www.theverge.com/22759214/black-friday-early-deals-best-headphones-laptops-gaming-tvs-tech-sale)
+ - [Internal docs: In 2019, Facebook researchers found US users are four times more likely to see misinformation when they encounter a post via a share of a share (Alex Kantrowitz/Big Technology)](http://www.techmeme.com/211105/p18#a211105p18)
+ - [1.8 TB of Police Helicopter Surveillance Footage Leaks Online](https://www.wired.com/story/ddosecrets-police-helicopter-data-leak)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
