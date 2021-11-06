@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Halo Infinite's battle pass won't have dance moves for Spartans](https://www.pcgamer.com/halo-infinites-battle-pass-wont-have-dance-moves-for-spartans)
- - [The Bundle Sale is Here with Amazing Deals on Great Titles and DLC](https://news.xbox.com/en-us/2021/11/05/the-bundle-sale-is-here-with-amazing-deals-on-great-titles-and-dlc/)
- - [Call Of Duty: Vanguard Pays Tribute To 'Press F To Pay Respects' Meme](https://kotaku.com/call-of-duty-vanguard-pays-tribute-to-press-f-to-pay-r-1848007796)<!-- GAME:END -->
+ - [Let’s talk about that disorienting Eternals ending](https://www.polygon.com/22764012/marvel-eternals-ending-mcu-celestials)
+ - [How to level up fast in Call of Duty: Vanguard](https://www.pcgamer.com/how-to-level-up-fast-in-call-of-duty-vanguard)
+ - [Halo Infinite's battle pass won't have dance moves for Spartans](https://www.pcgamer.com/halo-infinites-battle-pass-wont-have-dance-moves-for-spartans)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
