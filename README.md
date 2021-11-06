@@ -195,7 +195,7 @@ Windows                  3 hrs 9 mins        ███████████�
 <!-- MEMES:START -->
  - 🚖 [They come from the forest.](http://9gag.com/gag/abgqGoL)
  - 🚯 [I see you.](http://9gag.com/gag/ajg69M8)
- - 🚯 [Every. Single. Time!!](http://9gag.com/gag/angX4M5)<!-- MEMES:END -->
+ - 🚯 [Water redneck](http://9gag.com/gag/aPZy78B)<!-- MEMES:END -->
 
 --- 
 
