@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [90% of the crimes could be avoided if people knew how to raise their kids](http://9gag.com/gag/a31dwR7)
+ - 🚖 [They come from the forest.](http://9gag.com/gag/abgqGoL)
  - 🚯 [I see you.](http://9gag.com/gag/ajg69M8)
- - 🚯 [You know when the burger will be way too expensive...](http://9gag.com/gag/abgqrmX)<!-- MEMES:END -->
+ - 🚯 [Every. Single. Time!!](http://9gag.com/gag/angX4M5)<!-- MEMES:END -->
 
 --- 
 
