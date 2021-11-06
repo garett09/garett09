@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Also missing &lsquo;bout half my fries.](http://9gag.com/gag/avAZzQ5)
- - 🚯 [This is so accurate](http://9gag.com/gag/adg680V)
- - 🚯 [It only took 200 years](http://9gag.com/gag/avAZzNZ)<!-- MEMES:END -->
+ - 🚖 [Not all superheros wear capes](http://9gag.com/gag/aNPogGb)
+ - 🚯 [It do be like that](http://9gag.com/gag/aYrpo6x)
+ - 🚯 [Lets play a game!](http://9gag.com/gag/angXQWb)<!-- MEMES:END -->
 
 --- 
 
