@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The key difference between Celestials and Galactus](https://www.polygon.com/22765316/galactus-celestial-eternals-tiamut-marvel)
- - [Final Fantasy XIV: Endwalker Delayed Two Weeks To Ensure 'Stability'](https://kotaku.com/final-fantasy-xiv-endwalker-delayed-two-weeks-to-ensur-1848009952)
- - [Before blockchain and NFTs, there was the real-cash MMO Entropia Universe](https://www.pcgamer.com/before-blockchain-and-nfts-there-was-the-real-cash-mmo-entropia-universe)<!-- GAME:END -->
+ - [Eternals brings together the Marvel and DC universes and I need to lie down](https://www.polygon.com/22765827/eternals-superman-ikaris-batman-alfred-dc-comics-references)
+ - [Final Fantasy 14: Endwalker release delayed by two weeks](https://www.polygon.com/22766981/ff14-final-fantasy-14-endwalker-release-date-delay)
+ - [The key difference between Celestials and Galactus](https://www.polygon.com/22765316/galactus-celestial-eternals-tiamut-marvel)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
