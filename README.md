@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ahem](http://9gag.com/gag/aXrEYPP)
- - 🚯 [The sound tho! :D](http://9gag.com/gag/a91Mp3Z)
- - 🚯 [Oh shit!](http://9gag.com/gag/aVxQ3qM)<!-- MEMES:END -->
+ - 🚖 [Have a good weekend.](http://9gag.com/gag/aeg3rXv)
+ - 🚯 [This literally happened with me 3rd time in past month. People, say no in the first place please. Don&#039;t lead on and then ghost.](http://9gag.com/gag/angXM8b)
+ - 🚯 [Prime Minister Harold Holt](http://9gag.com/gag/a81b346)<!-- MEMES:END -->
 
 --- 
 
