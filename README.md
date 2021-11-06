@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kenji Eno Broke New Ground for Video Games](https://www.wired.com/story/kenji-eno-retrospective)
- - [The 13 Best Electric Bikes for Every Kind of Ride](https://www.wired.com/gallery/best-electric-bikes)
- - [I spent hours waiting to find out what an NFT looks like IRL](https://www.theverge.com/2021/11/6/22766154/nft-gallery-party-beeple-dreamverse-69-million-first-in-person-display)<!-- TECH:END -->
+ - [Neuro-ID, whose real-time behavioral analytics tool helps companies reduce fraud and customer friction, raises a $35M Series B led by Canapi Ventures (Christine Hall/TechCrunch)](http://www.techmeme.com/211106/p7#a211106p7)
+ - [Google Pixel 6 Pro camera shootout: Can it best Apple and Samsung?](https://www.androidauthority.com/google-pixel-6-pro-camera-test-3049498/)
+ - [The Best Base Layers to Keep You Warm](https://www.wired.com/gallery/best-base-layers-winter)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
