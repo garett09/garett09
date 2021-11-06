@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Water redneck](http://9gag.com/gag/aPZy78B)
+ - 🚖 [Also missing &lsquo;bout half my fries.](http://9gag.com/gag/avAZzQ5)
  - 🚯 [This is so accurate](http://9gag.com/gag/adg680V)
- - 🚯 [Also missing &lsquo;bout half my fries.](http://9gag.com/gag/avAZzQ5)<!-- MEMES:END -->
+ - 🚯 [It only took 200 years](http://9gag.com/gag/avAZzNZ)<!-- MEMES:END -->
 
 --- 
 
