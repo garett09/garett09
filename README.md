@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Someone stole an entire shipment of EVGA RTX graphics cards](https://www.theverge.com/2021/11/6/22767046/someone-stole-shipment-evga-rtx-graphics-cards)
- - [Black Friday price war discounts Sony WH-1000XM4 Headphones to $248 ($100 off)](https://appleinsider.com/articles/21/11/06/black-friday-price-war-discounts-sony-wh-1000xm4-headphones-to-248-100-off?utm_medium=rss)
- - [Apple TV+ poaches 20th Television drama development exec Erin May](https://appleinsider.com/articles/21/11/06/apple-tv-poaches-20th-television-drama-development-exec-erin-may?utm_medium=rss)<!-- TECH:END -->
+ - [InfinityLab InstantCharger 65W review: Recycling is cool a-GaN](https://www.androidauthority.com/infinitylab-instantcharger-review-3048112/)
+ - [Federal appeals court temporarily halts new Biden vaccine rule for companies](https://www.theverge.com/2021/11/6/22767168/federal-appeals-court-stay-new-biden-vaccine-rule-osha-companies)
+ - [A look at digital pets site Neopets, which had 25M users in the mid-2000s, as owner JumpStart Games says 30%-40% of former users returned since March 2020 (Madeleine Morley/New York Times)](http://www.techmeme.com/211106/p10#a211106p10)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
