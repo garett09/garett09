@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This is Vietnamese night bus. Around 20 bucks for 700km ride.](http://9gag.com/gag/aM4bm8P)
- - 🚯 [Yeah just like that](http://9gag.com/gag/aeg3Orm)
- - 🚯 [Get a load of this](http://9gag.com/gag/angXRGB)<!-- MEMES:END -->
+ - 🚖 [One funny prank](http://9gag.com/gag/angXnv0)
+ - 🚯 [Flock of starlings catching their breath on a Dutch fishing boat during crossing of the North Sea](http://9gag.com/gag/a51NBOG)
+ - 🚯 [Avenged Sevenfold stopping their show to save a fan&#039;s life](http://9gag.com/gag/a61dX0L)<!-- MEMES:END -->
 
 --- 
 
