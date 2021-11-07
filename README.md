@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [2021.](http://9gag.com/gag/aDDwn4N)
- - 🚯 [Helth](http://9gag.com/gag/aDDw6D9)
- - 🚯 [Who remembers anniversary dates? Hurry up and pre-register for Ragnarok Origin to claim your rewards](http://9gag.com/gag/aYrprq7)<!-- MEMES:END -->
+ - 🚖 [This is Vietnamese night bus. Around 20 bucks for 700km ride.](http://9gag.com/gag/aM4bm8P)
+ - 🚯 [Yeah just like that](http://9gag.com/gag/aeg3Orm)
+ - 🚯 [Get a load of this](http://9gag.com/gag/angXRGB)<!-- MEMES:END -->
 
 --- 
 
