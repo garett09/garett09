@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mathematicians Finally Prove That Melting Ice Stays Smooth](https://www.wired.com/story/mathematicians-finally-prove-that-melting-ice-stays-smooth)
- - [How to Troubleshoot Someone Else’s Phone Remotely](https://www.wired.com/story/how-to-troubleshoot-phone-remotely)
- - [A look at the fight between city officials and parents over Stockholm's glitchy app for its schools, as annoyed parents built their own open source version (Matt Burgess/Wired)](http://www.techmeme.com/211107/p2#a211107p2)<!-- TECH:END -->
+ - [Which MacBook Air or MacBook Pro to buy at any price point](https://appleinsider.com/articles/21/11/07/which-macbook-air-or-macbook-pro-to-buy-at-any-price-point?utm_medium=rss)
+ - [Facial recognition on smartphones: Is it secure and should you use it?](https://www.androidauthority.com/face-unlock-smartphones-3043993/)
+ - [Lidar Uncovers Hundreds of Lost Maya and Olmec Ruins](https://www.wired.com/story/lidar-uncovers-lost-maya-olmec-ruins)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
