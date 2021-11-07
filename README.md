@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Xiaomi Mi Band buyer’s guide: Everything you need to know](https://www.androidauthority.com/xiaomi-mi-band-guide-3051547/)
  - [The NFT.NYC conference, now in its third year, was a coming-out party for the NFT community, attracting a record 5,000 attendees from artists to corporate suits (Kevin Roose/New York Times)](http://www.techmeme.com/211107/p1#a211107p1)
- - [UFC 268 Kamaru Usman vs. Colby Covington: Results and reactions     - CNET](https://www.cnet.com/news/ufc-268-kamaru-usman-vs-colby-covington-results-and-reactions/#ftag=CAD590a51e)
- - [Botkeeper, which provides AI-powered bookkeeping automation software, raises a $42M Series C led by Grand Oaks Capital, bringing its total funding to $89.5M (Lucia Maffei/Boston Business Journal)](http://www.techmeme.com/211106/p12#a211106p12)<!-- TECH:END -->
+ - [UFC 268 Kamaru Usman vs. Colby Covington: Results and reactions     - CNET](https://www.cnet.com/news/ufc-268-kamaru-usman-vs-colby-covington-results-and-reactions/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
