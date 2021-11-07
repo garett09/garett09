@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Know your place asshole..](http://9gag.com/gag/aQXpA9q)
- - 🚯 [Survive, survive, survive.](http://9gag.com/gag/aeg3Zg5)
- - 🚯 [This content may causes nostalgia](http://9gag.com/gag/aWg0vgZ)<!-- MEMES:END -->
+ - 🚖 [Genes](http://9gag.com/gag/aeg3V5b)
+ - 🚯 [40 years old me&hellip; *complains in back pain*](http://9gag.com/gag/ay9pWQX)
+ - 🚯 [What an absolute f**king LEGEND!](http://9gag.com/gag/aGzVB76)<!-- MEMES:END -->
 
 --- 
 
