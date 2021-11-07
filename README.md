@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [3D printers, Plasma cutters, CNC routers, Spot welders, Pillar drills, so forth and so on...](http://9gag.com/gag/aogZ3ex)
- - 🚯 [Oh no!, anyway...](http://9gag.com/gag/aKmg1YO)
+ - 🚖 [Good night, love.](http://9gag.com/gag/angXR7q)
+ - 🚯 [3D printers, Plasma cutters, CNC routers, Spot welders, Pillar drills, so forth and so on...](http://9gag.com/gag/aogZ3ex)
  - 🚯 [Who remembers anniversary dates? Hurry up and pre-register for Ragnarok Origin to claim your rewards](http://9gag.com/gag/aYrprq7)<!-- MEMES:END -->
 
 --- 
