@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [One funny prank](http://9gag.com/gag/angXnv0)
- - 🚯 [Flock of starlings catching their breath on a Dutch fishing boat during crossing of the North Sea](http://9gag.com/gag/a51NBOG)
- - 🚯 [Avenged Sevenfold stopping their show to save a fan&#039;s life](http://9gag.com/gag/a61dX0L)<!-- MEMES:END -->
+ - 🚖 [Porch pirate plays the game](http://9gag.com/gag/agg0OW6)
+ - 🚯 [Solar Panels over Canals in India, which prevent Water Evaporation and Increase Panel Efficiency.](http://9gag.com/gag/azeLKXN)
+ - 🚯 [Bike accident](http://9gag.com/gag/a31dArv)<!-- MEMES:END -->
 
 --- 
 
