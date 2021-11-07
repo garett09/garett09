@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [One crossword-solver’s enthusiasm inspired an entire TikTok subculture](https://www.polygon.com/22761463/crossword-puzzle-tiktok-katie-grogg)
- - [Star Wars: The Old Republic's first cinematic trailer rereleased in 4K](https://www.pcgamer.com/star-wars-the-old-republics-first-cinematic-trailer-rereleased-in-4k)
- - [Arcane episode 3 recap: An unrelenting whirlwind of violence](https://www.pcgamer.com/arcane-episode-3-recap-an-unrelenting-whirlwind-of-violence)<!-- GAME:END -->
+ - [Mark Meer and Jennifer Hale reflect on playing Mass Effect’s Shepard](https://www.polygon.com/interviews/22765987/mark-meer-jennifer-hale-mass-effect-legendary-edition-retrospective-interview)
+ - [Meet the modders who restored Mass Effect's lost DLC](https://www.pcgamer.com/meet-the-modders-who-restored-mass-effects-lost-dlc)
+ - [Thanos and the Eternals actually go way back](https://www.polygon.com/22765220/thanos-eternals-deviants-marvel)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
