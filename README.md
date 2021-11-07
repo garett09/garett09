@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Interview with Biz Stone about Future Positive, an investment firm he founded in 2019 with Fred Blackford to focus on investments that can be held for decades (Dave Lee/Financial Times)](http://www.techmeme.com/211107/p4#a211107p4)
- - [SpaceX Crew-3 launch delayed again, this time to November 10th](https://www.theverge.com/2021/11/7/22768771/spacex-crew-3-launch-delayed-november-10th-nasa)
- - [Mophie Powerstation PD XL review: A pocketful of Power Delivery](https://www.androidauthority.com/mophie-powerstation-pd-xl-review-3048720/)<!-- TECH:END -->
+ - [Looking for shows like The Expanse? The 8 best sci-fi shows you can watch now](https://www.androidauthority.com/shows-like-the-expanse-best-sci-fi-amazon-prime-3049950/)
+ - [Google explains why the Pixel 6’s fingerprint scanner may be sluggish](https://www.theverge.com/2021/11/7/22768853/google-explains-pixel-6-fingerprint-scanner-unreliable)
+ - [Netflix: 35 of the absolute best movies to watch     - CNET](https://www.cnet.com/news/netflix-35-of-the-absolute-best-movies-to-watch-this-weekend/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
