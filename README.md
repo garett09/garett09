@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [If you think plugging a USB is difficult you must try plunging this in the back of a CRT only by feeling](http://9gag.com/gag/a81b0zO)
- - 🚯 [Flock of starlings catching their breath on a Dutch fishing boat during crossing of the North Sea](http://9gag.com/gag/a51NBOG)
- - 🚯 [Of course. Many idiots running around nowadays](http://9gag.com/gag/a31dAOv)<!-- MEMES:END -->
+ - 🚖 [Know your place asshole..](http://9gag.com/gag/aQXpA9q)
+ - 🚯 [Survive, survive, survive.](http://9gag.com/gag/aeg3Zg5)
+ - 🚯 [This content may causes nostalgia](http://9gag.com/gag/aWg0vgZ)<!-- MEMES:END -->
 
 --- 
 
