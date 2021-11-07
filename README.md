@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Shoelaces](http://9gag.com/gag/aLvQn4v)
- - 🚯 [Drop your weirdest photo](http://9gag.com/gag/aVxQxpM)
+ - 🚖 [The panties are free](http://9gag.com/gag/a81bqZQ)
+ - 🚯 [Spuder sense fails](http://9gag.com/gag/adg6vg9)
  - 🚯 [Who remembers anniversary dates? Hurry up and pre-register for Ragnarok Origin to claim your rewards](http://9gag.com/gag/aYrprq7)<!-- MEMES:END -->
 
 --- 
