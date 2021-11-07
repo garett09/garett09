@@ -181,7 +181,7 @@ Windows                  3 hrs 9 mins        ███████████�
 <!-- GAME:START -->
  - [Pokémon Brilliant Diamond And Shining Pearl Leak Early](https://kotaku.com/pokemon-brilliant-diamond-and-shining-pearl-leak-early-1848012271)
  - [Ubisoft Announces Pay Raises To Stop Developers From Leaving](https://kotaku.com/ubisoft-announces-pay-raises-to-stop-developers-from-le-1848012438)
- - [Mark Meer and Jennifer Hale reflect on playing Mass Effect’s Shepard](https://www.polygon.com/interviews/22765987/mark-meer-jennifer-hale-mass-effect-legendary-edition-retrospective-interview)<!-- GAME:END -->
+ - [This Week in PC Gaming: Forza Horizon 5, Football Manager 2022 and GTA Trilogy](https://www.pcgamer.com/this-week-in-pc-gaming-forza-horizon-5-football-manager-2022-gta-trilogy)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
