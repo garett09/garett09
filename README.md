@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [60,000 lumens](http://9gag.com/gag/ajg67y1)
- - 🚯 [I would have just laughed it off, but her face became totally horrified and pale the next second, she went into a total panic mode... And his reaction was the same. I&#039;ve been with her 7 years. I&#039;ve known that roomate for 5 years. And she acted like she didn&#039;t know him.](http://9gag.com/gag/angX7vL)
+ - 🚖 [3D printers, Plasma cutters, CNC routers, Spot welders, Pillar drills, so forth and so on...](http://9gag.com/gag/aogZ3ex)
+ - 🚯 [Oh no!, anyway...](http://9gag.com/gag/aKmg1YO)
  - 🚯 [Who remembers anniversary dates? Hurry up and pre-register for Ragnarok Origin to claim your rewards](http://9gag.com/gag/aYrprq7)<!-- MEMES:END -->
 
 --- 
