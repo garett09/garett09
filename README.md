@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [One crossword-solver’s enthusiasm inspired an entire TikTok subculture](https://www.polygon.com/22761463/crossword-puzzle-tiktok-katie-grogg)
  - [Star Wars: The Old Republic's first cinematic trailer rereleased in 4K](https://www.pcgamer.com/star-wars-the-old-republics-first-cinematic-trailer-rereleased-in-4k)
- - [Arcane episode 3 recap: An unrelenting whirlwind of violence](https://www.pcgamer.com/arcane-episode-3-recap-an-unrelenting-whirlwind-of-violence)
- - [Arcane episode 2 recap: Jayce, Viktor, and Caitlyn's origin stories revealed](https://www.pcgamer.com/arcane-episode-2-recap-jayce-viktor-and-caitlyns-origin-stories-revealed)<!-- GAME:END -->
+ - [Arcane episode 3 recap: An unrelenting whirlwind of violence](https://www.pcgamer.com/arcane-episode-3-recap-an-unrelenting-whirlwind-of-violence)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
