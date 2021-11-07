@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [What should you expect from smartphone cameras in 2022?](https://www.androidauthority.com/camera-phones-2022-3032540/)
- - [Netflix will reportedly make games available via the App Store on iOS](https://www.theverge.com/2021/11/7/22768521/netflix-reportedly-make-games-available-app-store)
- - [Best deals Nov. 7: $800 Mac mini, discounted smart TVs, Wacom tablets more!](https://appleinsider.com/articles/21/11/07/best-deals-nov-7-800-mac-mini-discounted-smart-tvs-wacom-tablets-more?utm_medium=rss)<!-- TECH:END -->
+ - [Why you should watch the Ghostbusters: Afterlife director’s debut film](https://www.androidauthority.com/thank-you-for-smoking-ghostbusters-afterlife-3051905/)
+ - [Deals: Apple's 2021 16-inch MacBook Pro is back in stock and on sale right now](https://appleinsider.com/articles/21/11/07/deals-apples-2021-16-inch-macbook-pro-is-back-in-stock-and-on-sale-right-now?utm_medium=rss)
+ - [What should you expect from smartphone cameras in 2022?](https://www.androidauthority.com/camera-phones-2022-3032540/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
