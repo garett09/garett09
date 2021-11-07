@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I miss good cartoon animated movies.](http://9gag.com/gag/awzb1yQ)
- - 🚯 [Porch pirate plays the game](http://9gag.com/gag/agg0OW6)
- - 🚯 [Bike accident](http://9gag.com/gag/a31dArv)<!-- MEMES:END -->
+ - 🚖 [If you think plugging a USB is difficult you must try plunging this in the back of a CRT only by feeling](http://9gag.com/gag/a81b0zO)
+ - 🚯 [Flock of starlings catching their breath on a Dutch fishing boat during crossing of the North Sea](http://9gag.com/gag/a51NBOG)
+ - 🚯 [Of course. Many idiots running around nowadays](http://9gag.com/gag/a31dAOv)<!-- MEMES:END -->
 
 --- 
 
