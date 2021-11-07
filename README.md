@@ -187,8 +187,8 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- TECH:START -->
  - [Xiaomi Mi Band buyer’s guide: Everything you need to know](https://www.androidauthority.com/xiaomi-mi-band-guide-3051547/)
- - [The NFT.NYC conference, now in its third year, was a coming-out party for the NFT community, attracting a record 5,000 attendees from artists to corporate suits (Kevin Roose/New York Times)](http://www.techmeme.com/211107/p1#a211107p1)
- - [UFC 268 Kamaru Usman vs. Colby Covington: Results and reactions     - CNET](https://www.cnet.com/news/ufc-268-kamaru-usman-vs-colby-covington-results-and-reactions/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [iPhone 13 vs. iPhone 12: Every key difference between Apple's phones     - CNET](https://www.cnet.com/tech/mobile/iphone-13-vs-iphone-12-every-key-difference-between-apples-phones/#ftag=CAD590a51e)
+ - [The NFT.NYC conference, now in its third year, was a coming-out party for the NFT community, attracting a record 5,000 attendees from artists to corporate suits (Kevin Roose/New York Times)](http://www.techmeme.com/211107/p1#a211107p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
