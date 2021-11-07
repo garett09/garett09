@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [BioWare Reveals 15 Percent Of Mass Effect Players Are Monsters, Don't Recruit Garrus](https://kotaku.com/bioware-reveals-15-percent-of-mass-effect-players-are-m-1848012972)
- - [Destiny 2 Made Xur Good Again](https://kotaku.com/destiny-2-made-xur-good-again-1848012826)
- - [Pokémon Brilliant Diamond And Shining Pearl Leak Early](https://kotaku.com/pokemon-brilliant-diamond-and-shining-pearl-leak-early-1848012271)<!-- GAME:END -->
+ - [Next Mass Effect Teased Again With New Poster](https://kotaku.com/next-mass-effect-teased-again-with-new-poster-1848013066)
+ - [It's heavy metal vs demons in deckbuilder Power Chord](https://www.pcgamer.com/its-heavy-metal-vs-demons-in-deckbuilder-power-chord)
+ - [BioWare shares teaser image, says 'Mass Effect will continue'](https://www.pcgamer.com/bioware-shares-teaser-image-says-mass-effect-will-continue)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
