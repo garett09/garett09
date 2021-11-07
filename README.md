@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [UFC 268 Kamaru Usman vs. Colby Covington: Live updates and results     - CNET](https://www.cnet.com/news/ufc-268-kamaru-usman-vs-colby-covington-live-updates-and-results/#ftag=CAD590a51e)
  - [Netflix’s Arcane is a slick and exciting intro to League of Legends](https://www.theverge.com/22763818/netflix-league-of-legends-arcane-review)
- - [Botkeeper, which provides AI-powered bookkeeping automation software, raises a $42M Series C led by Grand Oaks Capital, bringing its total funding to $89.5M (Lucia Maffei/Boston Business Journal)](http://www.techmeme.com/211106/p12#a211106p12)
- - [How to transfer WhatsApp chats from iPhone to Android](https://www.androidauthority.com/transfer-whatsapp-chat-iphone-to-android-3048389/)<!-- TECH:END -->
+ - [Botkeeper, which provides AI-powered bookkeeping automation software, raises a $42M Series C led by Grand Oaks Capital, bringing its total funding to $89.5M (Lucia Maffei/Boston Business Journal)](http://www.techmeme.com/211106/p12#a211106p12)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
