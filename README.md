@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [BioWare Reveals 15 Percent Of Mass Effect Players Are Monsters, Don't Recruit Garrus](https://kotaku.com/bioware-reveals-15-percent-of-mass-effect-players-are-m-1848012972)
  - [Destiny 2 Made Xur Good Again](https://kotaku.com/destiny-2-made-xur-good-again-1848012826)
- - [Pokémon Brilliant Diamond And Shining Pearl Leak Early](https://kotaku.com/pokemon-brilliant-diamond-and-shining-pearl-leak-early-1848012271)
- - [Ubisoft Announces Pay Raises To Stop Developers From Leaving](https://kotaku.com/ubisoft-announces-pay-raises-to-stop-developers-from-le-1848012438)<!-- GAME:END -->
+ - [Pokémon Brilliant Diamond And Shining Pearl Leak Early](https://kotaku.com/pokemon-brilliant-diamond-and-shining-pearl-leak-early-1848012271)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
