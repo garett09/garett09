@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Porch pirate plays the game](http://9gag.com/gag/agg0OW6)
- - 🚯 [Solar Panels over Canals in India, which prevent Water Evaporation and Increase Panel Efficiency.](http://9gag.com/gag/azeLKXN)
+ - 🚖 [I miss good cartoon animated movies.](http://9gag.com/gag/awzb1yQ)
+ - 🚯 [Porch pirate plays the game](http://9gag.com/gag/agg0OW6)
  - 🚯 [Bike accident](http://9gag.com/gag/a31dArv)<!-- MEMES:END -->
 
 --- 
