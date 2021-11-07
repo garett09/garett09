@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Oppo Find X4 Pro: 5 things we want to see from the 2022 flagship](https://www.androidauthority.com/oppo-find-x4-pro-3044443/)
  - [Xiaomi Mi Band buyer’s guide: Everything you need to know](https://www.androidauthority.com/xiaomi-mi-band-guide-3051547/)
- - [iPhone 13 vs. iPhone 12: Every key difference between Apple's phones     - CNET](https://www.cnet.com/tech/mobile/iphone-13-vs-iphone-12-every-key-difference-between-apples-phones/#ftag=CAD590a51e)
- - [The NFT.NYC conference, now in its third year, was a coming-out party for the NFT community, attracting a record 5,000 attendees from artists to corporate suits (Kevin Roose/New York Times)](http://www.techmeme.com/211107/p1#a211107p1)<!-- TECH:END -->
+ - [iPhone 13 vs. iPhone 12: Every key difference between Apple's phones     - CNET](https://www.cnet.com/tech/mobile/iphone-13-vs-iphone-12-every-key-difference-between-apples-phones/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
