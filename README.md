@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Which MacBook Air or MacBook Pro to buy at any price point](https://appleinsider.com/articles/21/11/07/which-macbook-air-or-macbook-pro-to-buy-at-any-price-point?utm_medium=rss)
- - [Facial recognition on smartphones: Is it secure and should you use it?](https://www.androidauthority.com/face-unlock-smartphones-3043993/)
- - [Lidar Uncovers Hundreds of Lost Maya and Olmec Ruins](https://www.wired.com/story/lidar-uncovers-lost-maya-olmec-ruins)<!-- TECH:END -->
+ - ['Everyday Experiments' uses iPhone to film miniature Hollywood-style scenes](https://appleinsider.com/articles/21/11/07/everyday-experiments-uses-iphone-to-film-miniature-hollywood-style-scenes?utm_medium=rss)
+ - [Elon Musk polls his Twitter followers to ask if he should sell 10 percent of his Tesla stock](https://www.theverge.com/2021/11/7/22768364/elon-musk-poll-twitter-tesla-10-percent-billionaires-capital-gains-tax)
+ - [The 15 Best (and Worst) Mattresses You Can Buy Online](https://www.wired.com/gallery/best-mattresses)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
