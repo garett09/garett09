@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Destiny 2 Made Xur Good Again](https://kotaku.com/destiny-2-made-xur-good-again-1848012826)
  - [Pokémon Brilliant Diamond And Shining Pearl Leak Early](https://kotaku.com/pokemon-brilliant-diamond-and-shining-pearl-leak-early-1848012271)
- - [Ubisoft Announces Pay Raises To Stop Developers From Leaving](https://kotaku.com/ubisoft-announces-pay-raises-to-stop-developers-from-le-1848012438)
- - [This Week in PC Gaming: Forza Horizon 5, Football Manager 2022 and GTA Trilogy](https://www.pcgamer.com/this-week-in-pc-gaming-forza-horizon-5-football-manager-2022-gta-trilogy)<!-- GAME:END -->
+ - [Ubisoft Announces Pay Raises To Stop Developers From Leaving](https://kotaku.com/ubisoft-announces-pay-raises-to-stop-developers-from-le-1848012438)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
