@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Shoelaces](http://9gag.com/gag/aLvQn4v)
- - 🚯 [&quot;I can&#039;t wait for the weekend&quot;. The weekend:](http://9gag.com/gag/ajg6VM0)
+ - 🚖 [&quot;I can&#039;t wait for the weekend&quot;. The weekend:](http://9gag.com/gag/ajg6VM0)
+ - 🚯 [Shoelaces](http://9gag.com/gag/aLvQn4v)
  - 🚯 [Who remembers anniversary dates? Hurry up and pre-register for Ragnarok Origin to claim your rewards](http://9gag.com/gag/aYrprq7)<!-- MEMES:END -->
 
 --- 
