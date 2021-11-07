@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Five Elden Ring classes revealed](https://www.pcgamer.com/five-elden-ring-classes-revealed)
- - [Just vibe out in this simple math puzzler](https://www.pcgamer.com/just-vibe-out-in-this-simple-math-puzzler)
- - [How many games have you finished this year?](https://www.pcgamer.com/how-many-games-have-you-finished-this-year)<!-- GAME:END -->
+ - [Arcane episode 3 recap: An unrelenting whirlwind of violence](https://www.pcgamer.com/arcane-episode-3-recap-an-unrelenting-whirlwind-of-violence)
+ - [Arcane episode 2 recap: Jayce, Viktor, and Caitlyn's origin stories revealed](https://www.pcgamer.com/arcane-episode-2-recap-jayce-viktor-and-caitlyns-origin-stories-revealed)
+ - [Arcane Episode 1 recap: League of Legends' Netflix series is stunning](https://www.pcgamer.com/arcane-episode-1-recap)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
