@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Know your place](http://9gag.com/gag/awzbmnR)
- - 🚯 [Who the hell changes lane like this?](http://9gag.com/gag/a31dG97)
+ - 🚖 [2021.](http://9gag.com/gag/aDDwn4N)
+ - 🚯 [Helth](http://9gag.com/gag/aDDw6D9)
  - 🚯 [Who remembers anniversary dates? Hurry up and pre-register for Ragnarok Origin to claim your rewards](http://9gag.com/gag/aYrprq7)<!-- MEMES:END -->
 
 --- 
