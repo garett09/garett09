@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [New Trailers: The Power of the Dog, Moonfall, Morbius, The Book of Boba Fett and more](https://www.theverge.com/2021/11/7/22766931/new-trailers-power-of-the-dog-moonfall-morbius-boba-fett-disney-netflix)
  - [Looking for shows like The Expanse? The 8 best sci-fi shows you can watch now](https://www.androidauthority.com/shows-like-the-expanse-best-sci-fi-amazon-prime-3049950/)
- - [Google explains why the Pixel 6’s fingerprint scanner may be sluggish](https://www.theverge.com/2021/11/7/22768853/google-explains-pixel-6-fingerprint-scanner-unreliable)
- - [Netflix: 35 of the absolute best movies to watch     - CNET](https://www.cnet.com/news/netflix-35-of-the-absolute-best-movies-to-watch-this-weekend/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google Doodle celebrates pioneering Indian biologist Kamal Ranadive     - CNET](https://www.cnet.com/news/google-doodle-celebrates-pioneering-indian-biologist-kamal-ranadive/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
