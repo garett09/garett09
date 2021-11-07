@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mophie Powerstation PD XL review: A pocketful of Power Delivery](https://www.androidauthority.com/mophie-powerstation-pd-xl-review-3048720/)
- - [iPhone 13's static delivery estimates hint at robust demand](https://appleinsider.com/articles/21/11/07/iphone-13s-static-delivery-estimates-hint-at-robust-demand?utm_medium=rss)
- - [How to play Dungeons and Dragons online using your Mac](https://appleinsider.com/articles/21/11/07/how-to-play-dungeons-and-dragons-online-using-your-mac?utm_medium=rss)<!-- TECH:END -->
+ - [Interview with Biz Stone about Future Positive, an investment firm he founded in 2019 with Fred Blackford to focus on investments that can be held for decades (Dave Lee/Financial Times)](http://www.techmeme.com/211107/p4#a211107p4)
+ - [SpaceX Crew-3 launch delayed again, this time to November 10th](https://www.theverge.com/2021/11/7/22768771/spacex-crew-3-launch-delayed-november-10th-nasa)
+ - [Mophie Powerstation PD XL review: A pocketful of Power Delivery](https://www.androidauthority.com/mophie-powerstation-pd-xl-review-3048720/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
