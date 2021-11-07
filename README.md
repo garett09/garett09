@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Oppo Find X4 Pro: 5 things we want to see from the 2022 flagship](https://www.androidauthority.com/oppo-find-x4-pro-3044443/)
- - [Xiaomi Mi Band buyer’s guide: Everything you need to know](https://www.androidauthority.com/xiaomi-mi-band-guide-3051547/)
- - [iPhone 13 vs. iPhone 12: Every key difference between Apple's phones     - CNET](https://www.cnet.com/tech/mobile/iphone-13-vs-iphone-12-every-key-difference-between-apples-phones/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Mathematicians Finally Prove That Melting Ice Stays Smooth](https://www.wired.com/story/mathematicians-finally-prove-that-melting-ice-stays-smooth)
+ - [How to Troubleshoot Someone Else’s Phone Remotely](https://www.wired.com/story/how-to-troubleshoot-phone-remotely)
+ - [A look at the fight between city officials and parents over Stockholm's glitchy app for its schools, as annoyed parents built their own open source version (Matt Burgess/Wired)](http://www.techmeme.com/211107/p2#a211107p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
