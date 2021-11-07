@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [3D printers, Plasma cutters, CNC routers, Spot welders, Pillar drills, so forth and so on...](http://9gag.com/gag/aogZ3ex)
- - 🚯 [Let&#039;s make this happen](http://9gag.com/gag/agg01KW)
+ - 🚖 [Know your place](http://9gag.com/gag/awzbmnR)
+ - 🚯 [Who the hell changes lane like this?](http://9gag.com/gag/a31dG97)
  - 🚯 [Who remembers anniversary dates? Hurry up and pre-register for Ragnarok Origin to claim your rewards](http://9gag.com/gag/aYrprq7)<!-- MEMES:END -->
 
 --- 
