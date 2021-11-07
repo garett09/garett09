@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Genes](http://9gag.com/gag/aeg3V5b)
- - 🚯 [40 years old me&hellip; *complains in back pain*](http://9gag.com/gag/ay9pWQX)
- - 🚯 [What an absolute f**king LEGEND!](http://9gag.com/gag/aGzVB76)<!-- MEMES:END -->
+ - 🚖 [40 years old me&hellip; *complains in back pain*](http://9gag.com/gag/ay9pWQX)
+ - 🚯 [Nothin better than drinking a beer in a quiet place.](http://9gag.com/gag/azeLKRZ)
+ - 🚯 [I miss good cartoon animated movies.](http://9gag.com/gag/awzb1yQ)<!-- MEMES:END -->
 
 --- 
 
