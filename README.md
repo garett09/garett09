@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix to release games via App Store instead of through streaming app](https://appleinsider.com/articles/21/11/07/netflix-to-release-games-via-app-store-instead-of-through-streaming-app?utm_medium=rss)
- - [Go read this report about how GM’s deal with Rivian fell apart](https://www.theverge.com/2021/11/7/22768373/go-read-this-gm-deal-ford-rivian-fell-apart)
- - [I was going to buy a Pixel 6, but one thing stopped me](https://www.androidauthority.com/google-pixel-6-size-opinion-3051380/)<!-- TECH:END -->
+ - [H2O.ai, which provides an open source machine learning platform to build smart applications, raises a $100M Series E at a $1.6B pre-money valuation (Ingrid Lunden/TechCrunch)](http://www.techmeme.com/211107/p3#a211107p3)
+ - [AirPods 3 review: An excellent AirPods evolution, but fit can be problematic](https://appleinsider.com/articles/21/11/07/airpods-3-review-an-excellent-airpods-evolution-but-fit-can-be-problematic?utm_medium=rss)
+ - [Forza Horizon 5 will add on-screen sign language interpreters in a post-launch update](https://www.theverge.com/2021/11/7/22768466/forza-horizon-5-on-screen-sign-language-interpreters-cutscenes-xbox)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
