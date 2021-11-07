@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Botkeeper, which provides AI-powered bookkeeping automation software, raises a $42M Series C led by Grand Oaks Capital, bringing its total funding to $89.5M (Lucia Maffei/Boston Business Journal)](http://www.techmeme.com/211106/p12#a211106p12)
  - [How to transfer WhatsApp chats from iPhone to Android](https://www.androidauthority.com/transfer-whatsapp-chat-iphone-to-android-3048389/)
- - [COP26 protests go global as first week of climate summit draws to a close     - CNET](https://www.cnet.com/news/cop26-protests-go-global-as-first-week-of-climate-summit-draws-to-a-close/#ftag=CAD590a51e)
- - [Apple TV+ 'Ted Lasso' season finale ninth in Nielsen streaming ratings](https://appleinsider.com/articles/21/11/06/apple-tv-ted-lasso-season-finale-ninth-in-nielsen-streaming-ratings?utm_medium=rss)<!-- TECH:END -->
+ - [I'm still hopelessly obsessed with this one Netflix special     - CNET](https://www.cnet.com/news/im-still-hopelessly-obsessed-with-this-netflix-special/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
