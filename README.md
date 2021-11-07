@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [See ya bubbles](http://9gag.com/gag/a21PMjY)
- - 🚯 [60,000 lumens](http://9gag.com/gag/ajg67y1)
+ - 🚖 [They totally know](http://9gag.com/gag/a31dGG5)
+ - 🚯 [How can you be this dumb ?!](http://9gag.com/gag/arneyNB)
  - 🚯 [Who remembers anniversary dates? Hurry up and pre-register for Ragnarok Origin to claim your rewards](http://9gag.com/gag/aYrprq7)<!-- MEMES:END -->
 
 --- 
