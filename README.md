@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - ['Everyday Experiments' uses iPhone to film miniature Hollywood-style scenes](https://appleinsider.com/articles/21/11/07/everyday-experiments-uses-iphone-to-film-miniature-hollywood-style-scenes?utm_medium=rss)
- - [Elon Musk polls his Twitter followers to ask if he should sell 10 percent of his Tesla stock](https://www.theverge.com/2021/11/7/22768364/elon-musk-poll-twitter-tesla-10-percent-billionaires-capital-gains-tax)
- - [The 15 Best (and Worst) Mattresses You Can Buy Online](https://www.wired.com/gallery/best-mattresses)<!-- TECH:END -->
+ - [Netflix to release games via App Store instead of through streaming app](https://appleinsider.com/articles/21/11/07/netflix-to-release-games-via-app-store-instead-of-through-streaming-app?utm_medium=rss)
+ - [Go read this report about how GM’s deal with Rivian fell apart](https://www.theverge.com/2021/11/7/22768373/go-read-this-gm-deal-ford-rivian-fell-apart)
+ - [I was going to buy a Pixel 6, but one thing stopped me](https://www.androidauthority.com/google-pixel-6-size-opinion-3051380/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
