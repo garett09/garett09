@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple TV+ 'Ted Lasso' season finale ninth in Nielsen streaming ratings](https://appleinsider.com/articles/21/11/06/apple-tv-ted-lasso-season-finale-ninth-in-nielsen-streaming-ratings?utm_medium=rss)
- - [Dexter: New Blood — Everything you need to know about the new series](https://www.androidauthority.com/dexter-new-blood-3051944/)
- - [WhatsApp may be working on a Communities feature](https://www.theverge.com/2021/11/6/22767242/whatsapp-working-communities-feature-groups)<!-- TECH:END -->
+ - [How to transfer WhatsApp chats from iPhone to Android](https://www.androidauthority.com/transfer-whatsapp-chat-iphone-to-android-3048389/)
+ - [COP26 protests go global as first week of climate summit draws to a close     - CNET](https://www.cnet.com/news/cop26-protests-go-global-as-first-week-of-climate-summit-draws-to-a-close/#ftag=CAD590a51e)
+ - [Apple TV+ 'Ted Lasso' season finale ninth in Nielsen streaming ratings](https://appleinsider.com/articles/21/11/06/apple-tv-ted-lasso-season-finale-ninth-in-nielsen-streaming-ratings?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
