@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Why you should watch the Ghostbusters: Afterlife director’s debut film](https://www.androidauthority.com/thank-you-for-smoking-ghostbusters-afterlife-3051905/)
- - [Deals: Apple's 2021 16-inch MacBook Pro is back in stock and on sale right now](https://appleinsider.com/articles/21/11/07/deals-apples-2021-16-inch-macbook-pro-is-back-in-stock-and-on-sale-right-now?utm_medium=rss)
- - [What should you expect from smartphone cameras in 2022?](https://www.androidauthority.com/camera-phones-2022-3032540/)<!-- TECH:END -->
+ - [Mophie Powerstation PD XL review: A pocketful of Power Delivery](https://www.androidauthority.com/mophie-powerstation-pd-xl-review-3048720/)
+ - [iPhone 13's static delivery estimates hint at robust demand](https://appleinsider.com/articles/21/11/07/iphone-13s-static-delivery-estimates-hint-at-robust-demand?utm_medium=rss)
+ - [How to play Dungeons and Dragons online using your Mac](https://appleinsider.com/articles/21/11/07/how-to-play-dungeons-and-dragons-online-using-your-mac?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
