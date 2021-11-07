@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [UFC 268 Kamaru Usman vs. Colby Covington: Live updates and results     - CNET](https://www.cnet.com/news/ufc-268-kamaru-usman-vs-colby-covington-live-updates-and-results/#ftag=CAD590a51e)
  - [The NFT.NYC conference, now in its third year, was a coming-out party for the NFT community, attracting a record 5,000 attendees from artists to corporate suits (Kevin Roose/New York Times)](http://www.techmeme.com/211107/p1#a211107p1)
- - [Netflix’s Arcane is a slick and exciting intro to League of Legends](https://www.theverge.com/22763818/netflix-league-of-legends-arcane-review)<!-- TECH:END -->
+ - [UFC 268 Kamaru Usman vs. Colby Covington: Results and reactions     - CNET](https://www.cnet.com/news/ufc-268-kamaru-usman-vs-colby-covington-results-and-reactions/#ftag=CAD590a51e)
+ - [Botkeeper, which provides AI-powered bookkeeping automation software, raises a $42M Series C led by Grand Oaks Capital, bringing its total funding to $89.5M (Lucia Maffei/Boston Business Journal)](http://www.techmeme.com/211106/p12#a211106p12)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
