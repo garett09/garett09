@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Mark Meer and Jennifer Hale reflect on playing Mass Effect’s Shepard](https://www.polygon.com/interviews/22765987/mark-meer-jennifer-hale-mass-effect-legendary-edition-retrospective-interview)
- - [Meet the modders who restored Mass Effect's lost DLC](https://www.pcgamer.com/meet-the-modders-who-restored-mass-effects-lost-dlc)
- - [Thanos and the Eternals actually go way back](https://www.polygon.com/22765220/thanos-eternals-deviants-marvel)<!-- GAME:END -->
+ - [Pokémon Brilliant Diamond And Shining Pearl Leak Early](https://kotaku.com/pokemon-brilliant-diamond-and-shining-pearl-leak-early-1848012271)
+ - [Ubisoft Announces Pay Raises To Stop Developers From Leaving](https://kotaku.com/ubisoft-announces-pay-raises-to-stop-developers-from-le-1848012438)
+ - [Mark Meer and Jennifer Hale reflect on playing Mass Effect’s Shepard](https://www.polygon.com/interviews/22765987/mark-meer-jennifer-hale-mass-effect-legendary-edition-retrospective-interview)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
