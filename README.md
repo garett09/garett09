@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Finland-based AR display maker Dispelix raises a $33M Series B led by Atlantic Bridge, bringing its total raised to $50M &lpar;Dan Taylor/Tech.eu&rpar;](http://www.techmeme.com/211108/p10#a211108p10)
- - [Apple&#39;s M1 Mac mini is $150 off right now on Amazon ahead of Black Friday](https://appleinsider.com/articles/21/11/02/apples-m1-mac-mini-just-got-a-150-price-cut-on-amazon-ahead-of-black-friday?utm_medium=rss)
- - [You told us: Most of you haven’t upgraded to Windows 11 yet, but why?](https://www.androidauthority.com/windows-11-upgrade-yet-poll-results-3054433/)<!-- TECH:END -->
+ - [PBS reveals free-to-air broadcast date for &#39;A Charlie Brown Thanksgiving&#39;](https://appleinsider.com/articles/21/11/08/pbs-reveals-free-to-air-broadcast-date-for-a-charlie-brown-thanksgiving?utm_medium=rss)
+ - [AMD says chips with new 3D-stacked L3 cache tech, allowing up to 768MB of total L3 cache per chip, will arrive in Q1 2022 and are in preview now on Azure &lpar;Paul Alcorn/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/211108/p12#a211108p12)
+ - [How to calibrate an Apple Watch for accurate fitness tracking](https://appleinsider.com/articles/21/11/08/how-to-calibrate-an-apple-watch-for-accurate-fitness-tracking?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
