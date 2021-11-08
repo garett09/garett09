@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Lego car climbing obstacles](http://9gag.com/gag/adg628N)
- - 🚯 [Exploring a wreck and suddenly ....](http://9gag.com/gag/a11Z296)
- - 🚯 [The world needs more people like him!](http://9gag.com/gag/axB2RAY)<!-- MEMES:END -->
+ - 🚖 [The world needs more people like him!](http://9gag.com/gag/axB2RAY)
+ - 🚯 [Lego car climbing obstacles](http://9gag.com/gag/adg628N)
+ - 🚯 [Same goes with 144hz and 240hz](http://9gag.com/gag/aPZyX1w)<!-- MEMES:END -->
 
 --- 
 
