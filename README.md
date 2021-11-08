@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Power Move](http://9gag.com/gag/a31d8V1)
- - 🚯 [WAAAZZZAAAPPP](http://9gag.com/gag/aogZLV0)
- - 🚯 [But first, we&amp;#039;ll bang](http://9gag.com/gag/adg6e8D)<!-- MEMES:END -->
+ - 🚖 [Best feeling ever](http://9gag.com/gag/aeg3myj)
+ - 🚯 [Impressive sense of humour](http://9gag.com/gag/a11ZLpP)
+ - 🚯 [Ban alcohol next](http://9gag.com/gag/agg04Rr)<!-- MEMES:END -->
 
 --- 
 
