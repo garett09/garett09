@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [BioWare's Classic Star Wars Trailers Are Being Re-Released In 4K](https://kotaku.com/biowares-classic-star-wars-trailers-are-being-re-releas-1848013028)
  - [Sprawling Red Alert 2 mod Mental Omega is finally finished](https://www.pcgamer.com/sprawling-red-alert-2-mod-mental-omega-is-finally-finished)
- - [Five new Steam games you probably missed (November 8, 2021)](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-november-8-2021)
- - [The Week In Games: I Can't Wait To Buy Another JRPG I Will Barely Play](https://kotaku.com/the-week-in-games-i-cant-wait-to-buy-another-jrpg-i-wi-1848013150)<!-- GAME:END -->
+ - [Five new Steam games you probably missed (November 8, 2021)](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-november-8-2021)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
