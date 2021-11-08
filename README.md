@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Let’s Celebrate Together on the Xbox 20th Anniversary](https://news.xbox.com/en-us/2021/11/08/xbox-20-anniversary-broadcast-tune-in-details/)
- - [New Mass Effect teaser hints at the return of the geth](https://www.polygon.com/22769946/new-mass-effect-5-teaser-poster-geth-story)
- - [You can grab Disney Plus for $2 this week](https://www.polygon.com/deals/22769932/disney-plus-two-dollars-deal-streaming-service)<!-- GAME:END -->
+ - [The Adventure Zone returns to its original setting for a special 3-part series](https://www.polygon.com/22770112/adventure-zone-dungeons-and-dragons-imbalance-aabria-iyengar)
+ - [Vote now for the Golden Joystick Awards&#39; ultimate game and hardware of all time](https://www.pcgamer.com/vote-now-for-the-golden-joystick-awards-ultimate-game-and-hardware-of-all-time)
+ - [Celebrating 50 years of the hardware that makes our PC&#39;s tick](https://www.pcgamer.com/celebrating-50-years-of-the-hardware-that-makes-our-pcs-tick)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
