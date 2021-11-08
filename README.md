@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Czech army camouflage](http://9gag.com/gag/amgLmxV)
- - 🚯 [Nothing but happy vibes when I see these things!](http://9gag.com/gag/aGzVGZn)
- - 🚯 [Ahoy captain, we&#039;re ready to get sail](http://9gag.com/gag/a0ZP68Z)<!-- MEMES:END -->
+ - 🚖 [Ahoy captain, we&#039;re ready to get sail](http://9gag.com/gag/a0ZP68Z)
+ - 🚯 [Which one is yours?](http://9gag.com/gag/aE8GWAe)
+ - 🚯 [This content may causes nostalgia](http://9gag.com/gag/aWg0vgZ)<!-- MEMES:END -->
 
 --- 
 
