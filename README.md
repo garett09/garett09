@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Nobody.](http://9gag.com/gag/aNPojdG)
- - 🚯 [How to remove BMW logo from steering wheel...](http://9gag.com/gag/angXGwn)
- - 🚯 [Showing off what you have learned at college](http://9gag.com/gag/aXrERY9)<!-- MEMES:END -->
+ - 🚖 [Demolition Man &lpar;1993&rpar; Tried To Warn Us](http://9gag.com/gag/aeg3RN5)
+ - 🚯 [This is the way](http://9gag.com/gag/a21PGdE)
+ - 🚯 [I am playing this on repeat](http://9gag.com/gag/abgqR89)<!-- MEMES:END -->
 
 --- 
 
