@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This content may causes nostalgia](http://9gag.com/gag/aWg0vgZ)
- - 🚯 [Nothing but happy vibes when I see these things!](http://9gag.com/gag/aGzVGZn)
+ - 🚖 [Them feels](http://9gag.com/gag/aBnQPBZ)
+ - 🚯 [Except if you like urine and shit smells, tags, loud noises, garbages on the ground, hobos every 100 meters and assholes residents.](http://9gag.com/gag/aM4bnKR)
  - 🚯 [Which one is yours?](http://9gag.com/gag/aE8GWAe)<!-- MEMES:END -->
 
 --- 
