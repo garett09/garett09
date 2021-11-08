@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Disney Plus is giving away a month for $2 for new and returning streamers](https://www.theverge.com/2021/11/8/22766153/disney-plus-day-2-subscription-amc-theaters)
- - [Get your first month of Disney Plus for just $1.99 thanks to this promo](https://www.androidauthority.com/disney-plus-promo-3054292/)
- - [The best 2020 flagship phones that are still worth buying today](https://www.androidauthority.com/older-flagships-guide-885551/)<!-- TECH:END -->
+ - [This could be the first smartphone with a Snapdragon 898 processor](https://www.androidauthority.com/snapdragon-898-phones-3054356/)
+ - [Harvesting energy with space solar panels could power the Earth 24/7     - CNET](https://www.cnet.com/news/harvesting-energy-with-space-solar-panels-could-power-the-earth-247/#ftag=CAD590a51e)
+ - [Disney Plus is giving away a month for $2 for new and returning streamers](https://www.theverge.com/2021/11/8/22766153/disney-plus-day-2-subscription-amc-theaters)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
