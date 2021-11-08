@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [What to stream in November 2021 on Netflix, Disney Plus, Hulu, and more](https://www.androidauthority.com/what-to-stream-1161293/)
- - [15 best Android emulators for PC and Mac of 2021](https://www.androidauthority.com/best-android-emulators-for-pc-655308/)
- - [The Verge Holiday Gift Guide 2021](https://www.theverge.com/22759813/holiday-gift-guide-best-tech-gadget-unique-ideas)<!-- TECH:END -->
+ - [Finland-based AR display maker Dispelix raises a $33M Series B led by Atlantic Bridge, bringing its total raised to $50M &lpar;Dan Taylor/Tech.eu&rpar;](http://www.techmeme.com/211108/p10#a211108p10)
+ - [Apple&#39;s M1 Mac mini is $150 off right now on Amazon ahead of Black Friday](https://appleinsider.com/articles/21/11/02/apples-m1-mac-mini-just-got-a-150-price-cut-on-amazon-ahead-of-black-friday?utm_medium=rss)
+ - [You told us: Most of you haven’t upgraded to Windows 11 yet, but why?](https://www.androidauthority.com/windows-11-upgrade-yet-poll-results-3054433/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
