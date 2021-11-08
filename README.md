@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When it is Leonardo DiCaprio your girlfriend cannot help flirting, even if you are one of the richest men in the world](http://9gag.com/gag/aeg32om)
- - 🚯 [What did she expect ?](http://9gag.com/gag/a71KN9x)
+ - 🚖 [Nobody.](http://9gag.com/gag/aNPojdG)
+ - 🚯 [How to remove BMW logo from steering wheel...](http://9gag.com/gag/angXGwn)
  - 🚯 [Showing off what you have learned at college](http://9gag.com/gag/aXrERY9)<!-- MEMES:END -->
 
 --- 
