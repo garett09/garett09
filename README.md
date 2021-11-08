@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Adventure Zone returns to its original setting for a special 3-part series](https://www.polygon.com/22770112/adventure-zone-dungeons-and-dragons-imbalance-aabria-iyengar)
- - [Vote now for the Golden Joystick Awards&#39; ultimate game and hardware of all time](https://www.pcgamer.com/vote-now-for-the-golden-joystick-awards-ultimate-game-and-hardware-of-all-time)
- - [Celebrating 50 years of the hardware that makes our PC&#39;s tick](https://www.pcgamer.com/celebrating-50-years-of-the-hardware-that-makes-our-pcs-tick)<!-- GAME:END -->
+ - [The top Best Buy Black Friday deals: the bargains worth looking at for PC gamers](https://www.pcgamer.com/the-top-best-buy-black-friday-deals-the-bargains-worth-looking-at-for-pc-gamers)
+ - [Here&#39;s when you can play Forza Horizon 5 on Game Pass](https://www.pcgamer.com/forza-horizon-5-game-pass-pc-date)
+ - [Pokémon Fans Ask Each Other To Chill Re: Brilliant Diamond, Shining Pearl Leaks](https://kotaku.com/pokemon-fans-ask-each-other-to-chill-re-brilliant-diam-1848015965)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
