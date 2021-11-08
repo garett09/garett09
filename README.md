@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Overwatch Player Kim &quot;Alarm&quot; Kyeong-Bo Dies At 20](https://kotaku.com/overwatch-player-kim-alarm-kyeong-bo-dies-at-20-1848014325)
  - [A security flaw leads Intel to disable DirectX 12 on its 4th Gen CPUs](https://www.pcgamer.com/a-security-flaw-leads-intel-to-disable-directx-12-on-its-4th-gen-cpus)
- - [Metal Gear Solid Games Are Being Removed Over Historical Footage](https://kotaku.com/metal-gear-solid-games-being-removed-over-historical-fo-1848013833)
- - [Black Friday 2021: the PC gaming deals you can expect in Australia](https://www.pcgamer.com/black-friday-2021-the-pc-gaming-deals-you-can-expect-in-australia)<!-- GAME:END -->
+ - [Metal Gear Solid Games Are Being Removed Over Historical Footage](https://kotaku.com/metal-gear-solid-games-being-removed-over-historical-fo-1848013833)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
