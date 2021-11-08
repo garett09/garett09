@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [5 facts that debunk climate change misinformation     - CNET](https://www.cnet.com/news/5-facts-that-debunk-climate-change-misinformation/#ftag=CAD590a51e)
- - [Sucking carbon out of the air promises to reverse our emissions. Will it work?     - CNET](https://www.cnet.com/news/sucking-carbon-out-of-the-air-promises-to-reverse-our-emissions-will-it-work/#ftag=CAD590a51e)
- - [Review: Wyze Thermostat is a little too basic for $71     - CNET](https://www.cnet.com/home/energy-and-utilities/review-wyze-thermostat-is-a-little-too-basic-for-71/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Turing Test Is Bad For Business](https://www.wired.com/story/artificial-intelligence-turing-test-economics-business)
+ - [All Our Favorite Accessories for the Nintendo Switch](https://www.wired.com/gallery/best-nintendo-switch-accessories)
+ - [Andrew Ng&#39;s Landing AI, which is developing tools for manufacturers to build and deploy AI systems in factories, raises a $57M Series A led by McRock Capital &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/211108/p6#a211108p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
