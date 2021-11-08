@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Breaking News: Large crowd marching towards the Polish border](http://9gag.com/gag/ay9pQbV)
- - 🚯 [Migrants on the Belarusian-Polish border preparing to storm it](http://9gag.com/gag/aqGZzm7)
+ - 🚖 [Nobody.](http://9gag.com/gag/aNPojdG)
+ - 🚯 [Showing off what you have learned at college](http://9gag.com/gag/aXrERY9)
  - 🚯 [If you know what i mean](http://9gag.com/gag/aZrWzmW)<!-- MEMES:END -->
 
 --- 
