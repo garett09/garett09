@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The top Best Buy Black Friday deals: the bargains worth looking at for PC gamers](https://www.pcgamer.com/the-top-best-buy-black-friday-deals-the-bargains-worth-looking-at-for-pc-gamers)
- - [Here&#39;s when you can play Forza Horizon 5 on Game Pass](https://www.pcgamer.com/forza-horizon-5-game-pass-pc-date)
- - [Pokémon Fans Ask Each Other To Chill Re: Brilliant Diamond, Shining Pearl Leaks](https://kotaku.com/pokemon-fans-ask-each-other-to-chill-re-brilliant-diam-1848015965)<!-- GAME:END -->
+ - [Xbox and Samsung Announce the Samsung Grappleshop in Partnership with Halo Infinite](https://news.xbox.com/en-us/2021/11/08/xbox-samsung-grappleshop/)
+ - [The Top 12 Most Valuable Pokémon Cards In History](https://kotaku.com/the-top-10-most-valuable-pokemon-cards-in-history-1847225621)
+ - [Rainbow Six Siege&#39;s last Year 6 operator throws instakill spike traps](https://www.pcgamer.com/rainbow-six-sieges-last-year-6-operator-throws-instakill-spike-traps)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
