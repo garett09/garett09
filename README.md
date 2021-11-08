@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Them feels](http://9gag.com/gag/aBnQPBZ)
- - 🚯 [Except if you like urine and shit smells, tags, loud noises, garbages on the ground, hobos every 100 meters and assholes residents.](http://9gag.com/gag/aM4bnKR)
+ - 🚖 [The world needs more people like him!](http://9gag.com/gag/axB2RAY)
+ - 🚯 [Show your best song from the 90&amp;#039;s](http://9gag.com/gag/avAZEXX)
  - 🚯 [Which one is yours?](http://9gag.com/gag/aE8GWAe)<!-- MEMES:END -->
 
 --- 
