@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Clue period and ovulation tracker guide: Everything you need to know](https://www.androidauthority.com/clue-app-3046459/)
- - [The FBI and DHS say a drone dangling copper wires tried to disrupt a PA power substation in July 2020, the first drone attack targeting US energy infrastructure (Brian Barrett/Wired)](http://www.techmeme.com/211107/p5#a211107p5)
- - [New Trailers: The Power of the Dog, Moonfall, Morbius, The Book of Boba Fett and more](https://www.theverge.com/2021/11/7/22766931/new-trailers-power-of-the-dog-moonfall-morbius-boba-fett-disney-netflix)<!-- TECH:END -->
+ - [Hawkeye release schedule: When does episode 1 hit Disney Plus?     - CNET](https://www.cnet.com/news/hawkeye-release-schedule-when-does-episode-1-land-on-disney-plus/#ftag=CAD590a51e)
+ - [Vin Diesel appeals to 'little brother' The Rock to return for Fast 10     - CNET](https://www.cnet.com/news/vin-diesel-appeals-to-little-brother-the-rock-to-return-for-fast-10/#ftag=CAD590a51e)
+ - [Amazon Prime Video: The 31 best TV shows to watch     - CNET](https://www.cnet.com/news/amazon-prime-video-the-31-best-tv-shows-to-stream-this-week/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
