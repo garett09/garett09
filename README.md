@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ex-Israeli soldiers say the country built a &quot;Facebook for Palestinians&quot; over the last two years to monitor Palestinians through facial recognition tech &lpar;Elizabeth Dwoskin/Washington Post&rpar;](http://www.techmeme.com/211108/p21#a211108p21)
- - [Controversial Bitcoin tax provision passes Congress with infrastructure bill](https://www.theverge.com/2021/11/8/22770798/biden-infrastructure-cryptocurrency-bitcoin-crypto-tax-irs-treasury)
- - [Bangalore-based car rental marketplace Zoomcar raises $92M led by SternAegis Ventures, bringing its total funding to $207M, and says its service has 10K+ cars &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/211108/p20#a211108p20)<!-- TECH:END -->
+ - [Tripadvisor announces CEO Steve Kaufer will step down in 2022 after 20+ years at the company; stock is down 9%+ after hours &lpar;Dennis Schaal/Skift&rpar;](http://www.techmeme.com/211108/p26#a211108p26)
+ - [Uber, Twitter among companies giving engineers &#39;fully loaded&#39; M1 Max MacBook Pro](https://appleinsider.com/articles/21/11/08/uber-twitter-among-companies-giving-engineers-fully-loaded-m1-max-macbook-pro?utm_medium=rss)
+ - [Final Fantasy XIV Endwalker expansion delayed two weeks](https://www.theverge.com/2021/11/8/22770249/final-fantasy-xiv-endwalker-expansion-delayed-two-weeks)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
