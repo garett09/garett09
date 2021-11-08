@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [If you know what i mean](http://9gag.com/gag/aZrWzmW)
- - 🚯 [When it is Leonardo DiCaprio your girlfriend cannot help flirting, even if you are one of the richest men in the world](http://9gag.com/gag/aeg32om)
- - 🚯 [Same goes with 144hz and 240hz](http://9gag.com/gag/aPZyX1w)<!-- MEMES:END -->
+ - 🚖 [Same goes with 144hz and 240hz](http://9gag.com/gag/aPZyX1w)
+ - 🚯 [But, with a good internet connection...](http://9gag.com/gag/aBnQXLQ)
+ - 🚯 [Migrants on the Belarusian-Polish border preparing to storm it](http://9gag.com/gag/aqGZzm7)<!-- MEMES:END -->
 
 --- 
 
