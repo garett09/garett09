@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [PBS reveals free-to-air broadcast date for &#39;A Charlie Brown Thanksgiving&#39;](https://appleinsider.com/articles/21/11/08/pbs-reveals-free-to-air-broadcast-date-for-a-charlie-brown-thanksgiving?utm_medium=rss)
- - [AMD says chips with new 3D-stacked L3 cache tech, allowing up to 768MB of total L3 cache per chip, will arrive in Q1 2022 and are in preview now on Azure &lpar;Paul Alcorn/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/211108/p12#a211108p12)
- - [How to calibrate an Apple Watch for accurate fitness tracking](https://appleinsider.com/articles/21/11/08/how-to-calibrate-an-apple-watch-for-accurate-fitness-tracking?utm_medium=rss)<!-- TECH:END -->
+ - [Microsoft launches Visual Studio 2022, its first 64-bit version, with Hot Reload for making code changes while an app is running, and .NET 6, with Arm64 support &lpar;Mary Jo Foley/ZDNet&rpar;](http://www.techmeme.com/211108/p15#a211108p15)
+ - [Niantic launches platform to build ‘real-world metaverse’ apps](https://www.theverge.com/2021/11/8/22768925/niantic-lightship-developer-platform-john-hanke-pokemon-go)
+ - [Latest Apple data shows a global drop in law enforcement info requests](https://appleinsider.com/articles/21/11/08/latest-apple-data-shows-a-global-drop-in-law-enforcement-info-requests?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
