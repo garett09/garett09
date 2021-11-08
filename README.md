@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Czech army camouflage](http://9gag.com/gag/amgLmxV)
- - 🚯 [40 years old me&hellip; *complains in back pain*](http://9gag.com/gag/ay9pWQX)
- - 🚯 [I miss good cartoon animated movies.](http://9gag.com/gag/awzb1yQ)<!-- MEMES:END -->
+ - 🚖 [40 years old me&hellip; *complains in back pain*](http://9gag.com/gag/ay9pWQX)
+ - 🚯 [Czech army camouflage](http://9gag.com/gag/amgLmxV)
+ - 🚯 [Nothing but happy vibes when I see these things!](http://9gag.com/gag/aGzVGZn)<!-- MEMES:END -->
 
 --- 
 
