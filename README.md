@@ -194,8 +194,8 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [This content may causes nostalgia](http://9gag.com/gag/aWg0vgZ)
- - 🚯 [Power Move](http://9gag.com/gag/a31d8V1)
- - 🚯 [Nothing but happy vibes when I see these things!](http://9gag.com/gag/aGzVGZn)<!-- MEMES:END -->
+ - 🚯 [Nothing but happy vibes when I see these things!](http://9gag.com/gag/aGzVGZn)
+ - 🚯 [Which one is yours?](http://9gag.com/gag/aE8GWAe)<!-- MEMES:END -->
 
 --- 
 
