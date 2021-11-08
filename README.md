@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Best feeling ever](http://9gag.com/gag/aeg3myj)
- - 🚯 [Impressive sense of humour](http://9gag.com/gag/a11ZLpP)
- - 🚯 [Ban alcohol next](http://9gag.com/gag/agg04Rr)<!-- MEMES:END -->
+ - 🚖 [Lego car climbing obstacles](http://9gag.com/gag/adg628N)
+ - 🚯 [Exploring a wreck and suddenly ....](http://9gag.com/gag/a11Z296)
+ - 🚯 [The world needs more people like him!](http://9gag.com/gag/axB2RAY)<!-- MEMES:END -->
 
 --- 
 
