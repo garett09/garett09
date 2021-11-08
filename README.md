@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft launches Visual Studio 2022, its first 64-bit version, with Hot Reload for making code changes while an app is running, and .NET 6, with Arm64 support &lpar;Mary Jo Foley/ZDNet&rpar;](http://www.techmeme.com/211108/p15#a211108p15)
- - [Niantic launches platform to build ‘real-world metaverse’ apps](https://www.theverge.com/2021/11/8/22768925/niantic-lightship-developer-platform-john-hanke-pokemon-go)
- - [Latest Apple data shows a global drop in law enforcement info requests](https://appleinsider.com/articles/21/11/08/latest-apple-data-shows-a-global-drop-in-law-enforcement-info-requests?utm_medium=rss)<!-- TECH:END -->
+ - [Fortnite halts sale of Travis Scott emote days after concert tragedy](https://www.theverge.com/2021/11/8/22770312/epic-games-fortnite-halts-sale-travis-scott-emote-astroworld-concert-tragedy)
+ - [Ford is already sold out of its electric crate motor but won’t say how many](https://www.theverge.com/2021/11/8/22770302/ford-eluminator-electric-crate-motor-sold-out)
+ - [Niantic launches Lightship, a platform to build &quot;real-world metaverse&quot; AR iOS and Android apps, and commits $20M to fund companies building AR apps &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/211108/p17#a211108p17)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
