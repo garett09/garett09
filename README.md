@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spider-Man: No Way Home poster features Green Goblin, Doc Ock and more     - CNET](https://www.cnet.com/news/spider-man-no-way-home-poster-features-green-goblin-doc-ock-and-more/#ftag=CAD590a51e)
- - [Succession season 3, episode 4 recap: Adrien Brody hikes up the stakes     - CNET](https://www.cnet.com/news/succession-season-3-episode-4-recap-adrien-brody-hikes-up-the-stakes/#ftag=CAD590a51e)
- - [Netflix faces more active libel suits than any major news outlet, partly due to its nonfiction fare, often unsuccessfully arguing that it is just a distributor (Eriq Gardner/The Hollywood Reporter)](http://www.techmeme.com/211107/p6#a211107p6)<!-- TECH:END -->
+ - [Samsung Galaxy S21 FE, S22 launch details leak: Just a month apart?](https://www.androidauthority.com/galaxy-s21-fe-s22-launches-3054286/)
+ - [It looks like Pixel 6 phones are accidentally calling random contacts (Update)](https://www.androidauthority.com/google-pixel-6-calling-bug-3052590/)
+ - [Spider-Man: No Way Home poster features Green Goblin, Doc Ock and more     - CNET](https://www.cnet.com/news/spider-man-no-way-home-poster-features-green-goblin-doc-ock-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
