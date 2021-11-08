@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Bonk](http://9gag.com/gag/agg04wq)
- - 🚯 [Lego car climbing obstacles](http://9gag.com/gag/adg628N)
- - 🚯 [When you are with your homies](http://9gag.com/gag/a61dpwq)<!-- MEMES:END -->
+ - 🚖 [If you know what i mean](http://9gag.com/gag/aZrWzmW)
+ - 🚯 [When it is Leonardo DiCaprio your girlfriend cannot help flirting, even if you are one of the richest men in the world](http://9gag.com/gag/aeg32om)
+ - 🚯 [Same goes with 144hz and 240hz](http://9gag.com/gag/aPZyX1w)<!-- MEMES:END -->
 
 --- 
 
