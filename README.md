@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Same goes with 144hz and 240hz](http://9gag.com/gag/aPZyX1w)
- - 🚯 [But, with a good internet connection...](http://9gag.com/gag/aBnQXLQ)
- - 🚯 [Migrants on the Belarusian-Polish border preparing to storm it](http://9gag.com/gag/aqGZzm7)<!-- MEMES:END -->
+ - 🚖 [Breaking News: Large crowd marching towards the Polish border](http://9gag.com/gag/ay9pQbV)
+ - 🚯 [Migrants on the Belarusian-Polish border preparing to storm it](http://9gag.com/gag/aqGZzm7)
+ - 🚯 [If you know what i mean](http://9gag.com/gag/aZrWzmW)<!-- MEMES:END -->
 
 --- 
 
