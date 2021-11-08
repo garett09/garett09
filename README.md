@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Black Friday 2021: the PC gaming deals you can expect in Australia](https://www.pcgamer.com/black-friday-2021-the-pc-gaming-deals-you-can-expect-in-australia)
  - [Elden Ring will have a maximum framerate of 60fps on PC](https://www.pcgamer.com/elden-ring-will-have-a-maximum-framerate-of-60fps-on-pc)
- - [BioWare's Classic Star Wars Trailers Are Being Re-Released In 4K](https://kotaku.com/biowares-classic-star-wars-trailers-are-being-re-releas-1848013028)
- - [Sprawling Red Alert 2 mod Mental Omega is finally finished](https://www.pcgamer.com/sprawling-red-alert-2-mod-mental-omega-is-finally-finished)<!-- GAME:END -->
+ - [BioWare's Classic Star Wars Trailers Are Being Re-Released In 4K](https://kotaku.com/biowares-classic-star-wars-trailers-are-being-re-releas-1848013028)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
