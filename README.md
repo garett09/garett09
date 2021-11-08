@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [New Trailers: The Power of the Dog, Moonfall, Morbius, The Book of Boba Fett and more](https://www.theverge.com/2021/11/7/22766931/new-trailers-power-of-the-dog-moonfall-morbius-boba-fett-disney-netflix)
- - [Looking for shows like The Expanse? The 8 best sci-fi shows you can watch now](https://www.androidauthority.com/shows-like-the-expanse-best-sci-fi-amazon-prime-3049950/)
- - [Google Doodle celebrates pioneering Indian biologist Kamal Ranadive     - CNET](https://www.cnet.com/news/google-doodle-celebrates-pioneering-indian-biologist-kamal-ranadive/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Clue period and ovulation tracker guide: Everything you need to know](https://www.androidauthority.com/clue-app-3046459/)
+ - [The FBI and DHS say a drone dangling copper wires tried to disrupt a PA power substation in July 2020, the first drone attack targeting US energy infrastructure (Brian Barrett/Wired)](http://www.techmeme.com/211107/p5#a211107p5)
+ - [New Trailers: The Power of the Dog, Moonfall, Morbius, The Book of Boba Fett and more](https://www.theverge.com/2021/11/7/22766931/new-trailers-power-of-the-dog-moonfall-morbius-boba-fett-disney-netflix)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
