@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Demolition Man &lpar;1993&rpar; Tried To Warn Us](http://9gag.com/gag/aeg3RN5)
- - 🚯 [This is the way](http://9gag.com/gag/a21PGdE)
- - 🚯 [I am playing this on repeat](http://9gag.com/gag/abgqR89)<!-- MEMES:END -->
+ - 🚖 [Dennis Villeneuve about Dune. That, my friends, is how you do art.](http://9gag.com/gag/aBnQod2)
+ - 🚯 [Managed to fulfil what i&amp;#039;ve been dreaming of as a kid. Became a member of firefighter family!](http://9gag.com/gag/angXVYE)
+ - 🚯 [Coolest monke in the zoo](http://9gag.com/gag/aWg0916)<!-- MEMES:END -->
 
 --- 
 
