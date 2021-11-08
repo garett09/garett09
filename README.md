@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Nobody.](http://9gag.com/gag/aNPojdG)
- - 🚯 [Showing off what you have learned at college](http://9gag.com/gag/aXrERY9)
- - 🚯 [If you know what i mean](http://9gag.com/gag/aZrWzmW)<!-- MEMES:END -->
+ - 🚖 [When it is Leonardo DiCaprio your girlfriend cannot help flirting, even if you are one of the richest men in the world](http://9gag.com/gag/aeg32om)
+ - 🚯 [What did she expect ?](http://9gag.com/gag/a71KN9x)
+ - 🚯 [Showing off what you have learned at college](http://9gag.com/gag/aXrERY9)<!-- MEMES:END -->
 
 --- 
 
