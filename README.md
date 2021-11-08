@@ -180,8 +180,8 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- GAME:START -->
  - [Square Enix Sounds Keen On NFTs And Blockchain Games](https://kotaku.com/square-enix-sounds-keen-on-nfts-and-blockchain-games-1848014388)
- - [There are already big AMD Ryzen 5000 discounts after Alder Lake&#39;s launch](https://www.pcgamer.com/there-are-already-big-amd-ryzen-5000-discounts-after-alder-lakes-launch)
- - [Overwatch Player Kim &quot;Alarm&quot; Kyeong-Bo Dies At 20](https://kotaku.com/overwatch-player-kim-alarm-kyeong-bo-dies-at-20-1848014325)<!-- GAME:END -->
+ - [Assassin&#39;s Creed Valhalla teases roadmap of content for the next two months](https://www.pcgamer.com/assassins-creed-valhalla-teases-roadmap-of-content-for-the-next-two-months)
+ - [There are already big AMD Ryzen 5000 discounts after Alder Lake&#39;s launch](https://www.pcgamer.com/there-are-already-big-amd-ryzen-5000-discounts-after-alder-lakes-launch)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
