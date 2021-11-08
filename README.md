@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Mass Effect Teased Again With New Poster](https://kotaku.com/next-mass-effect-teased-again-with-new-poster-1848013066)
- - [It's heavy metal vs demons in deckbuilder Power Chord](https://www.pcgamer.com/its-heavy-metal-vs-demons-in-deckbuilder-power-chord)
- - [BioWare shares teaser image, says 'Mass Effect will continue'](https://www.pcgamer.com/bioware-shares-teaser-image-says-mass-effect-will-continue)<!-- GAME:END -->
+ - [Sprawling Red Alert 2 mod Mental Omega is finally finished](https://www.pcgamer.com/sprawling-red-alert-2-mod-mental-omega-is-finally-finished)
+ - [Five new Steam games you probably missed (November 8, 2021)](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-november-8-2021)
+ - [The Week In Games: I Can't Wait To Buy Another JRPG I Will Barely Play](https://kotaku.com/the-week-in-games-i-cant-wait-to-buy-another-jrpg-i-wi-1848013150)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
