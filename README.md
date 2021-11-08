@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Get Ready for The Elder Scrolls Online: Deadlands with the Free Prologue](https://news.xbox.com/en-us/2021/11/08/get-ready-elder-scrolls-online-deadlands-with-free-prologue/)
- - [Animal Crossing: New Horizons guide - Jolly Redd’s art, real or fake?](https://www.polygon.com/animal-crossing-new-horizons-switch-acnh-guide/2020/4/23/21231433/redd-jolly-museum-art-fake-real-forgeries-list-complete-painting-statue)
- - [Glowing moss and vine DIY recipe list — Animal Crossing: New Horizons guide](https://www.polygon.com/animal-crossing-new-horizons-switch-acnh-guide/22770823/glowing-moss-vine-location-diy-recipe-list)<!-- GAME:END -->
+ - [Let the Good Times Roll! Dicey Dungeons Is Coming to Xbox!](https://news.xbox.com/en-us/2021/11/08/let-the-good-times-roll-dicey-dungeons-is-coming-to-xbox/)
+ - [Travis Scott&#39;s &#39;Out West&#39; emote removed from Fortnite store following festival tragedy](https://www.pcgamer.com/travis-scotts-out-west-emote-removed-from-fortnite-store-following-festival-tragedy)
+ - [Digital acting troupe brings Shakespeare&#39;s Macbeth to life in Fallout 76](https://www.pcgamer.com/digital-acting-troupe-brings-shakespeares-macbeth-to-life-in-fallout-76)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
