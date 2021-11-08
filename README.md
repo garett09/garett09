@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Square Enix Sounds Keen On NFTs And Blockchain Games](https://kotaku.com/square-enix-sounds-keen-on-nfts-and-blockchain-games-1848014388)
- - [Assassin&#39;s Creed Valhalla teases roadmap of content for the next two months](https://www.pcgamer.com/assassins-creed-valhalla-teases-roadmap-of-content-for-the-next-two-months)
- - [There are already big AMD Ryzen 5000 discounts after Alder Lake&#39;s launch](https://www.pcgamer.com/there-are-already-big-amd-ryzen-5000-discounts-after-alder-lakes-launch)<!-- GAME:END -->
+ - [&lpar;Re&rpar;building the awe-inspiring machines of Horizon Forbidden West](https://blog.playstation.com/2021/11/08/rebuilding-the-awe-inspiring-machines-of-horizon-forbidden-west/)
+ - [Black Friday Gaming PC deals 2021: the best prebuilt systems on sale today](https://www.pcgamer.com/black-friday-gaming-pc-deals-2021)
+ - [Overwatch esports star Kim &#39;Alarm&#39; Kyeong-Bo dies at 20](https://www.pcgamer.com/overwatch-esports-star-kim-alarm-kyeong-bo-dies-at-20)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
