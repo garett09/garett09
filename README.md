@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Drata, which uses automation to help companies obtain SOC compliance, raises a $100M Series B led by Iconiq Growth at a $1B valuation &lpar;Paul Sawers/VentureBeat&rpar;](http://www.techmeme.com/211108/p3#a211108p3)
- - [Snapdragon Tech Summit 2021 announced: The Snapdragon 898 edges closer](https://www.androidauthority.com/snapdragon-tech-summit-2021-3054557/)
- - [NASA solar probe bombarded by dust, causing dangerous plasma explosions     - CNET](https://www.cnet.com/news/nasa-solar-probe-bombarded-by-dust-causing-dangerous-plasma-explosions/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [5 facts that debunk climate change misinformation     - CNET](https://www.cnet.com/news/5-facts-that-debunk-climate-change-misinformation/#ftag=CAD590a51e)
+ - [Sucking carbon out of the air promises to reverse our emissions. Will it work?     - CNET](https://www.cnet.com/news/sucking-carbon-out-of-the-air-promises-to-reverse-our-emissions-will-it-work/#ftag=CAD590a51e)
+ - [Review: Wyze Thermostat is a little too basic for $71     - CNET](https://www.cnet.com/home/energy-and-utilities/review-wyze-thermostat-is-a-little-too-basic-for-71/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
