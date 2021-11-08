@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google says unreliable Pixel 6 fingerprint unlock is a feature, not a bug](https://www.androidauthority.com/google-pixel-6-fingerprint-scanner-security-3054470/)
- - [BrightChamps, an Indian startup teaching programming and other skills to over 100K students in 10 markets including the US, raises $51M, valuing it at ~$500M &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/211108/p2#a211108p2)
- - [Metal Gear games are temporarily disappearing from digital stores](https://www.theverge.com/2021/11/8/22769724/metal-gear-solid-2-3-sons-of-liberty-snake-eater-licensing-issues-digital-storefronts-removal)<!-- TECH:END -->
+ - [Elon Musk, world’s richest edgelord, responds to billionaire tax with another stupid tweet](https://www.theverge.com/2021/11/8/22769731/elon-musk-billionaire-tax-stock-sell-off-ron-wyden-tweet)
+ - [How to Watch RE:WIRED 2021](https://www.wired.com/story/how-to-watch-rewired-2021)
+ - [Google says unreliable Pixel 6 fingerprint unlock is a feature, not a bug](https://www.androidauthority.com/google-pixel-6-fingerprint-scanner-security-3054470/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
