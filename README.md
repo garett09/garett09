@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk, world’s richest edgelord, responds to billionaire tax with another stupid tweet](https://www.theverge.com/2021/11/8/22769731/elon-musk-billionaire-tax-stock-sell-off-ron-wyden-tweet)
- - [How to Watch RE:WIRED 2021](https://www.wired.com/story/how-to-watch-rewired-2021)
- - [Google says unreliable Pixel 6 fingerprint unlock is a feature, not a bug](https://www.androidauthority.com/google-pixel-6-fingerprint-scanner-security-3054470/)<!-- TECH:END -->
+ - [Drata, which uses automation to help companies obtain SOC compliance, raises a $100M Series B led by Iconiq Growth at a $1B valuation &lpar;Paul Sawers/VentureBeat&rpar;](http://www.techmeme.com/211108/p3#a211108p3)
+ - [Snapdragon Tech Summit 2021 announced: The Snapdragon 898 edges closer](https://www.androidauthority.com/snapdragon-tech-summit-2021-3054557/)
+ - [NASA solar probe bombarded by dust, causing dangerous plasma explosions     - CNET](https://www.cnet.com/news/nasa-solar-probe-bombarded-by-dust-causing-dangerous-plasma-explosions/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
