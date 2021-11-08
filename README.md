@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Scalpers Having Field Day With Animal Crossing&#39;s Rare New Villager Amiibo Cards](https://kotaku.com/scalpers-having-field-day-with-animal-crossings-rare-ne-1848018347)
- - [Back 4 Blood gets solo campaign progression with December free update](https://www.polygon.com/22770789/back-4-blood-solo-progression-free-update-dlc-patch-expansions)
- - [I’ve never played a Halo, but I met Master Chief through memes](https://www.polygon.com/22770728/halo-memes-master-chief-retrospective-youtube-twitter-tiktok)<!-- GAME:END -->
+ - [Get Ready for The Elder Scrolls Online: Deadlands with the Free Prologue](https://news.xbox.com/en-us/2021/11/08/get-ready-elder-scrolls-online-deadlands-with-free-prologue/)
+ - [Animal Crossing: New Horizons guide - Jolly Redd’s art, real or fake?](https://www.polygon.com/animal-crossing-new-horizons-switch-acnh-guide/2020/4/23/21231433/redd-jolly-museum-art-fake-real-forgeries-list-complete-painting-statue)
+ - [Glowing moss and vine DIY recipe list — Animal Crossing: New Horizons guide](https://www.polygon.com/animal-crossing-new-horizons-switch-acnh-guide/22770823/glowing-moss-vine-location-diy-recipe-list)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
