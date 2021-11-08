@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Back 4 Blood Post-Launch Content Roadmap Details](https://news.xbox.com/en-us/2021/11/08/back-4-blood-post-launch-content-roadmap-details/)
- - [Familiar Tales is a new board game from the creator of Mice &amp; Mystics](https://www.polygon.com/tabletop-games/22770337/familiar-tales-jerry-hawthorne-plaid-hat-preorder)
- - [Persona Comparisons In Positive SMT5 Reviews Leave Fans Furious](https://kotaku.com/persona-comparisons-in-positive-smt5-reviews-leave-fans-1848017686)<!-- GAME:END -->
+ - [Scalpers Having Field Day With Animal Crossing&#39;s Rare New Villager Amiibo Cards](https://kotaku.com/scalpers-having-field-day-with-animal-crossings-rare-ne-1848018347)
+ - [Back 4 Blood gets solo campaign progression with December free update](https://www.polygon.com/22770789/back-4-blood-solo-progression-free-update-dlc-patch-expansions)
+ - [I’ve never played a Halo, but I met Master Chief through memes](https://www.polygon.com/22770728/halo-memes-master-chief-retrospective-youtube-twitter-tiktok)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
