@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tripadvisor announces CEO Steve Kaufer will step down in 2022 after 20+ years at the company; stock is down 9%+ after hours &lpar;Dennis Schaal/Skift&rpar;](http://www.techmeme.com/211108/p26#a211108p26)
- - [Uber, Twitter among companies giving engineers &#39;fully loaded&#39; M1 Max MacBook Pro](https://appleinsider.com/articles/21/11/08/uber-twitter-among-companies-giving-engineers-fully-loaded-m1-max-macbook-pro?utm_medium=rss)
- - [Final Fantasy XIV Endwalker expansion delayed two weeks](https://www.theverge.com/2021/11/8/22770249/final-fantasy-xiv-endwalker-expansion-delayed-two-weeks)<!-- TECH:END -->
+ - [Robinhood data breach exposes 5M email addresses, personal data](https://appleinsider.com/articles/21/11/08/robinhood-data-breach-exposes-5m-email-addresses-personal-data?utm_medium=rss)
+ - [Motorola Edge 30 Ultra specs leak, could be a Snapdragon 898 flagship](https://www.androidauthority.com/motorola-edge-30-ultra-3055057/)
+ - [An alleged member of the REvil ransomware gang has been arrested in Poland](https://www.theverge.com/2021/11/8/22770701/revil-ransomware-arrest-kaseya-crypto-europol-cybersecurity)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
