@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Turing Test Is Bad For Business](https://www.wired.com/story/artificial-intelligence-turing-test-economics-business)
- - [All Our Favorite Accessories for the Nintendo Switch](https://www.wired.com/gallery/best-nintendo-switch-accessories)
- - [Andrew Ng&#39;s Landing AI, which is developing tools for manufacturers to build and deploy AI systems in factories, raises a $57M Series A led by McRock Capital &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/211108/p6#a211108p6)<!-- TECH:END -->
+ - [What to stream in November 2021 on Netflix, Disney Plus, Hulu, and more](https://www.androidauthority.com/what-to-stream-1161293/)
+ - [15 best Android emulators for PC and Mac of 2021](https://www.androidauthority.com/best-android-emulators-for-pc-655308/)
+ - [The Verge Holiday Gift Guide 2021](https://www.theverge.com/22759813/holiday-gift-guide-best-tech-gadget-unique-ideas)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
