@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Terminator: Dark Fate Didn&#39;t Need an Exploding Airplane](https://www.wired.com/2019/11/geeks-guide-terminator-dark-fate)
  - [Samsung Galaxy S21 FE, S22 launch details leak: Just a month apart?](https://www.androidauthority.com/galaxy-s21-fe-s22-launches-3054286/)
- - [It looks like Pixel 6 phones are accidentally calling random contacts (Update)](https://www.androidauthority.com/google-pixel-6-calling-bug-3052590/)
- - [Spider-Man: No Way Home poster features Green Goblin, Doc Ock and more     - CNET](https://www.cnet.com/news/spider-man-no-way-home-poster-features-green-goblin-doc-ock-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [It looks like Pixel 6 phones are accidentally calling random contacts &lpar;Update&rpar;](https://www.androidauthority.com/google-pixel-6-calling-bug-3052590/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
