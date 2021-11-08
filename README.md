@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Netflix faces more active libel suits than any major news outlet, partly due to its nonfiction fare, often unsuccessfully arguing that it is just a distributor (Eriq Gardner/The Hollywood Reporter)](http://www.techmeme.com/211107/p6#a211107p6)
  - [Hawkeye release schedule: When does episode 1 hit Disney Plus?     - CNET](https://www.cnet.com/news/hawkeye-release-schedule-when-does-episode-1-land-on-disney-plus/#ftag=CAD590a51e)
- - [Vin Diesel appeals to 'little brother' The Rock to return for Fast 10     - CNET](https://www.cnet.com/news/vin-diesel-appeals-to-little-brother-the-rock-to-return-for-fast-10/#ftag=CAD590a51e)
- - [Amazon Prime Video: The 31 best TV shows to watch     - CNET](https://www.cnet.com/news/amazon-prime-video-the-31-best-tv-shows-to-stream-this-week/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Vin Diesel appeals to 'little brother' The Rock to return for Fast 10     - CNET](https://www.cnet.com/news/vin-diesel-appeals-to-little-brother-the-rock-to-return-for-fast-10/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
