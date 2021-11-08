@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This could be the first smartphone with a Snapdragon 898 processor](https://www.androidauthority.com/snapdragon-898-phones-3054356/)
- - [Harvesting energy with space solar panels could power the Earth 24/7     - CNET](https://www.cnet.com/news/harvesting-energy-with-space-solar-panels-could-power-the-earth-247/#ftag=CAD590a51e)
- - [Disney Plus is giving away a month for $2 for new and returning streamers](https://www.theverge.com/2021/11/8/22766153/disney-plus-day-2-subscription-amc-theaters)<!-- TECH:END -->
+ - [Google says unreliable Pixel 6 fingerprint unlock is a feature, not a bug](https://www.androidauthority.com/google-pixel-6-fingerprint-scanner-security-3054470/)
+ - [BrightChamps, an Indian startup teaching programming and other skills to over 100K students in 10 markets including the US, raises $51M, valuing it at ~$500M &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/211108/p2#a211108p2)
+ - [Metal Gear games are temporarily disappearing from digital stores](https://www.theverge.com/2021/11/8/22769724/metal-gear-solid-2-3-sons-of-liberty-snake-eater-licensing-issues-digital-storefronts-removal)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
