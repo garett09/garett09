@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [&lpar;Re&rpar;building the awe-inspiring machines of Horizon Forbidden West](https://blog.playstation.com/2021/11/08/rebuilding-the-awe-inspiring-machines-of-horizon-forbidden-west/)
- - [Black Friday Gaming PC deals 2021: the best prebuilt systems on sale today](https://www.pcgamer.com/black-friday-gaming-pc-deals-2021)
- - [Overwatch esports star Kim &#39;Alarm&#39; Kyeong-Bo dies at 20](https://www.pcgamer.com/overwatch-esports-star-kim-alarm-kyeong-bo-dies-at-20)<!-- GAME:END -->
+ - [Let’s Celebrate Together on the Xbox 20th Anniversary](https://news.xbox.com/en-us/2021/11/08/xbox-20-anniversary-broadcast-tune-in-details/)
+ - [New Mass Effect teaser hints at the return of the geth](https://www.polygon.com/22769946/new-mass-effect-5-teaser-poster-geth-story)
+ - [You can grab Disney Plus for $2 this week](https://www.polygon.com/deals/22769932/disney-plus-two-dollars-deal-streaming-service)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
