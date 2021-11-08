@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fortnite halts sale of Travis Scott emote days after concert tragedy](https://www.theverge.com/2021/11/8/22770312/epic-games-fortnite-halts-sale-travis-scott-emote-astroworld-concert-tragedy)
- - [Ford is already sold out of its electric crate motor but won’t say how many](https://www.theverge.com/2021/11/8/22770302/ford-eluminator-electric-crate-motor-sold-out)
- - [Niantic launches Lightship, a platform to build &quot;real-world metaverse&quot; AR iOS and Android apps, and commits $20M to fund companies building AR apps &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/211108/p17#a211108p17)<!-- TECH:END -->
+ - [Liquid cooling and Tesla valves are coming to smartphones](https://www.androidauthority.com/xiaomi-loop-liquidcool-heat-dissipation-technology-3054927/)
+ - [Peloton finally adds a pause button for its on-demand classes on its bikes](https://www.theverge.com/2021/11/8/22770666/peloton-pause-button-on-demand-classes-bike-plus)
+ - [How to add PCI-E expansion to your new MacBook Pro](https://appleinsider.com/articles/21/11/08/how-to-add-pci-e-expansion-to-your-new-macbook-pro?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
