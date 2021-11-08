@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [40 years old me&hellip; *complains in back pain*](http://9gag.com/gag/ay9pWQX)
- - 🚯 [Czech army camouflage](http://9gag.com/gag/amgLmxV)
- - 🚯 [Nothing but happy vibes when I see these things!](http://9gag.com/gag/aGzVGZn)<!-- MEMES:END -->
+ - 🚖 [Czech army camouflage](http://9gag.com/gag/amgLmxV)
+ - 🚯 [Nothing but happy vibes when I see these things!](http://9gag.com/gag/aGzVGZn)
+ - 🚯 [Ahoy captain, we&#039;re ready to get sail](http://9gag.com/gag/a0ZP68Z)<!-- MEMES:END -->
 
 --- 
 
