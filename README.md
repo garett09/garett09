@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Liquid cooling and Tesla valves are coming to smartphones](https://www.androidauthority.com/xiaomi-loop-liquidcool-heat-dissipation-technology-3054927/)
- - [Peloton finally adds a pause button for its on-demand classes on its bikes](https://www.theverge.com/2021/11/8/22770666/peloton-pause-button-on-demand-classes-bike-plus)
- - [How to add PCI-E expansion to your new MacBook Pro](https://appleinsider.com/articles/21/11/08/how-to-add-pci-e-expansion-to-your-new-macbook-pro?utm_medium=rss)<!-- TECH:END -->
+ - [Ex-Israeli soldiers say the country built a &quot;Facebook for Palestinians&quot; over the last two years to monitor Palestinians through facial recognition tech &lpar;Elizabeth Dwoskin/Washington Post&rpar;](http://www.techmeme.com/211108/p21#a211108p21)
+ - [Controversial Bitcoin tax provision passes Congress with infrastructure bill](https://www.theverge.com/2021/11/8/22770798/biden-infrastructure-cryptocurrency-bitcoin-crypto-tax-irs-treasury)
+ - [Bangalore-based car rental marketplace Zoomcar raises $92M led by SternAegis Ventures, bringing its total funding to $207M, and says its service has 10K+ cars &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/211108/p20#a211108p20)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
