@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The best virus of the world](http://9gag.com/gag/azeLOKB)
- - 🚯 [I need one of those now](http://9gag.com/gag/apgobbM)
- - 🚯 [This is nuts](http://9gag.com/gag/avAZxvZ)<!-- MEMES:END -->
+ - 🚖 [Power Move](http://9gag.com/gag/a31d8V1)
+ - 🚯 [WAAAZZZAAAPPP](http://9gag.com/gag/aogZLV0)
+ - 🚯 [But first, we&amp;#039;ll bang](http://9gag.com/gag/adg6e8D)<!-- MEMES:END -->
 
 --- 
 
