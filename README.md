@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Terminator: Dark Fate Didn&#39;t Need an Exploding Airplane](https://www.wired.com/2019/11/geeks-guide-terminator-dark-fate)
- - [Samsung Galaxy S21 FE, S22 launch details leak: Just a month apart?](https://www.androidauthority.com/galaxy-s21-fe-s22-launches-3054286/)
- - [It looks like Pixel 6 phones are accidentally calling random contacts &lpar;Update&rpar;](https://www.androidauthority.com/google-pixel-6-calling-bug-3052590/)<!-- TECH:END -->
+ - [Disney Plus is giving away a month for $2 for new and returning streamers](https://www.theverge.com/2021/11/8/22766153/disney-plus-day-2-subscription-amc-theaters)
+ - [Get your first month of Disney Plus for just $1.99 thanks to this promo](https://www.androidauthority.com/disney-plus-promo-3054292/)
+ - [The best 2020 flagship phones that are still worth buying today](https://www.androidauthority.com/older-flagships-guide-885551/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
