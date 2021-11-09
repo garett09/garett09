@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Adjarian Khachapuri - Traditional Georgian food. In west people call it Cheese Boat. This picture is from book my wife has worked. It&amp;#039;s very delicious](http://9gag.com/gag/aLvQrrg)
- - 🚯 [May The Schwartz Be With You](http://9gag.com/gag/aDDwP3w)
- - 🚯 [It&amp;#039;s called the heel and it&amp;#039;s a delicacy that I save so my last sandwich is two heels.](http://9gag.com/gag/a71KA9A)<!-- MEMES:END -->
+ - 🚖 [Leaf diver doggo](http://9gag.com/gag/aAGVmQR)
+ - 🚯 [To get rid of under eye bags](http://9gag.com/gag/aDDwPX9)
+ - 🚯 [May The Schwartz Be With You](http://9gag.com/gag/aDDwP3w)<!-- MEMES:END -->
 
 --- 
 
