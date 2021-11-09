@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Zero.](http://9gag.com/gag/aeg3E1Q)
- - 🚯 [Was that a machete..? Real judo skill in action](http://9gag.com/gag/angX05L)
- - 🚯 [So many questions to ask? However he did a amazing job with the towel on.](http://9gag.com/gag/a0ZPGnd)<!-- MEMES:END -->
+ - 🚖 [Adapt. Improvise. Overcome.](http://9gag.com/gag/amgLyn2)
+ - 🚯 [Obviously not my meme but a little company wouldn&amp;acute;t hurt](http://9gag.com/gag/ajg63VQ)
+ - 🚯 [Poland have some problems with Belarus...](http://9gag.com/gag/aZrWKV6)<!-- MEMES:END -->
 
 --- 
 
