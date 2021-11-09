@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Squid Game director confirms season two, says he’s in the ‘planning process’](https://www.theverge.com/2021/11/9/22772170/squid-game-season-two-netflix-director-confirms)
- - [Twitter Blue rolls out to the US for $2.99/month with Scroll&#39;s ad-free articles across 300+ pubs, an undo button, Nuzzel-like &quot;top articles&quot; roundup, and more &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/211109/p24#a211109p24)
- - [iPad, iPad mini, iPad Air, or iPad Pro: Which iPad to buy at any price point](https://appleinsider.com/articles/21/11/09/ipad-ipad-mini-ipad-air-or-ipad-pro-which-ipad-to-buy-at-any-price-point?utm_medium=rss)<!-- TECH:END -->
+ - [Apple issues second developer betas of iOS 15.2, iPadOS 15.2, tvOS 15.2](https://appleinsider.com/articles/21/11/09/apple-issues-second-developer-betas-of-ios-152-ipados-152-tvos-152?utm_medium=rss)
+ - [Apple seeds second developer beta of macOS Monterey 12.1](https://appleinsider.com/articles/21/11/09/apple-seeds-second-developer-beta-of-macos-monterey-121?utm_medium=rss)
+ - [Jony Ive on Why the iPod Was Apple&#39;s First Wearable](https://www.wired.com/story/rewired-2021-jony-ive-anna-wintour)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
