@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Best Borderlands 2 DLC Is Yours For Free](https://kotaku.com/the-best-borderlands-2-dlc-is-yours-for-free-1848025996)
- - [Caitlyn and Jayce arrive in League of Legends: Wild Rift’s new event](https://www.polygon.com/22772432/caitlyn-jayce-league-of-legends-wild-rift-hextech-heist-event)
- - [Thrustmaster’s Boeing yoke really does just work with Microsoft Flight Simulator on Xbox](https://www.polygon.com/reviews/22772510/thrustmaster-tca-yoke-boeing-edition-xbox-review-microsoft-flight-simulator)<!-- GAME:END -->
+ - [Halo Infinite’s New Bad Guy Is A Creepy Little Dude, Devs Say](https://kotaku.com/halo-infinite-s-new-bad-guy-is-a-creepy-little-dude-de-1848026984)
+ - [It’s the Singing Monsters Like You’ve Never Seen Them](https://news.xbox.com/en-us/2021/11/09/its-the-singing-monsters-like-youve-never-seen-them/)
+ - [Forza Horizon 5 players are buying up one crappy jeep by the hundreds to farm money](https://www.pcgamer.com/forza-horizon-5-players-are-buying-up-one-crappy-jeep-by-the-hundreds-to-farm-money)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
