@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Enjoy The Moment!](http://9gag.com/gag/a71KPRb)
- - 🚯 [Hats off to Mr Freeman](http://9gag.com/gag/a419m7m)
- - 🚯 [Nice](http://9gag.com/gag/aLvQVpz)<!-- MEMES:END -->
+ - 🚖 [Obviously not my meme but a little company wouldn&amp;acute;t hurt](http://9gag.com/gag/ajg63VQ)
+ - 🚯 [Was that a machete..? Real judo skill in action](http://9gag.com/gag/angX05L)
+ - 🚯 [Enjoy The Moment!](http://9gag.com/gag/a71KPRb)<!-- MEMES:END -->
 
 --- 
 
