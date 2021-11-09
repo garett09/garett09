@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Unity reports Q3 revenue of $286.3M, up from $200.8M YoY, on net loss of $115.1M, down from $144.5M YoY &lpar;Wallace Witkowski/MarketWatch&rpar;](http://www.techmeme.com/211109/p37#a211109p37)
- - [Unity to acquire Weta Digital&#39;s technology arm for $1.63B](https://appleinsider.com/articles/21/11/09/unity-to-acquire-weta-digitals-technology-arm-for-163b?utm_medium=rss)
- - [DoorDash reports Q3 revenue of $1.2B, up 45% YoY, and says it will acquire European food delivery company Wolt in an all-stock $8B+ deal &lpar;Preetika Rana/Wall Street Journal&rpar;](http://www.techmeme.com/211109/p36#a211109p36)<!-- TECH:END -->
+ - [Apple reduces trade-in values for iPhone, iPad and Mac](https://appleinsider.com/articles/21/11/09/apple-reduces-trade-in-values-for-iphone-ipad-and-mac?utm_medium=rss)
+ - [Iniu power bank 10,000mAh review: Small and solid, but slow](https://www.androidauthority.com/iniu-power-bank-review-3049662/)
+ - [Will these top Steam games support Steam Deck? We ask their developers](https://www.theverge.com/2021/10/5/22709918/valve-steam-deck-supported-games-anti-cheat-proton-eac-battleye-epic)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
