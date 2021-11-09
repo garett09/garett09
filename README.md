@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Animal Crossing: How To Grow Wheat And Other Crops For Food Recipes](https://kotaku.com/animal-crossing-how-to-grow-wheat-and-other-crops-for-1848022912)
- - [Shuttered online adventure game The Tomorrow Children is coming back](https://www.polygon.com/22772031/tomorrow-children-q-games-re-release-sony-ps4)
- - [The Last Time Rockstar Rereleased GTA: San Andreas It Didn’t Go So Well](https://kotaku.com/the-last-time-rockstar-rereleased-gta-san-andreas-it-d-1848020263)<!-- GAME:END -->
+ - [Squid Game is getting a second season, but it&#39;s &#39;too early&#39; to say when it&#39;ll happen](https://www.pcgamer.com/squid-game-is-getting-a-second-season-but-its-too-early-to-say-when-itll-happen)
+ - [Legends of Runeterra’s new single-player mode is fan service at its best](https://www.polygon.com/22771117/legends-of-runeterra-path-of-champions-game-mode)
+ - [Crunchyroll Premium Arrives on Xbox Game Pass Ultimate Perks](https://news.xbox.com/en-us/2021/11/09/crunchyroll-premium-arrives-on-xbox-game-pass-ultimate-perks/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
