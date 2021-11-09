@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Qualcomm’s Snapdragon Spaces try to make it easier to get apps ready for augmented reality](https://www.theverge.com/2021/11/9/22771850/qualcomm-ar-sdk-snapdragon-spaces-mixed-reality-metaverse)
- - [The Verge’s favorite holiday gifts under $50](https://www.theverge.com/22748775/holiday-gift-guide-budget-cheap-tech-gadgets-ideas)
- - [Logitech’s cutesy Pop Keys keyboard is annoyingly form over function](https://www.theverge.com/22771694/logitech-pop-keys-review)<!-- TECH:END -->
+ - [A deep dive into how Discord, an authentic, at-scale user-generated community, has a chance to become the metaverse&#39;s natural social infrastructure &lpar;Packy McCormick/Not Boring&rpar;](http://www.techmeme.com/211109/p21#a211109p21)
+ - [Apple CEO Tim Cook talks Bitcoin, China &amp; side-loading in wide-ranging interview](https://appleinsider.com/articles/21/11/09/apple-ceo-tim-cook-talks-bitcoin-china-side-loading-in-wide-ranging-interview?utm_medium=rss)
+ - [Accelsior 8M2 is the fastest PCIe SSD available for the Mac Pro, says OWC](https://appleinsider.com/articles/21/11/09/accelsior-8m2-is-the-fastest-pcie-ssd-available-for-the-mac-pro-says-owc?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
