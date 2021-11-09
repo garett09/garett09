@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Unpacking some key aspects of what constitutes a metaverse, such as making and owning virtual property, 3D telepresence in a persistent world, and more &lpar;Kyle Orland/Ars Technica&rpar;](http://www.techmeme.com/211108/p31#a211108p31)
  - [SpaceX successfully brings crew of four home from the International Space Station](https://www.theverge.com/2021/11/8/22769970/spacex-crew-2-dragon-capsule-splash-down-success)
- - [Valve says supporting the Steam Deck with BattlEye anti-cheat is as easy as an email](https://www.theverge.com/2021/11/8/22737127/valve-steam-deck-battleye-anti-cheat-pubg-dayz-r6-siege)
- - [Researchers and journalists in Ethiopia say Meta has done little to stop hate speech amid Ethiopia&#39;s civil war, claiming moderation often falls to volunteers &lpar;Nick Robins-Early/VICE&rpar;](http://www.techmeme.com/211108/p30#a211108p30)<!-- TECH:END -->
+ - [Valve says supporting the Steam Deck with BattlEye anti-cheat is as easy as an email](https://www.theverge.com/2021/11/8/22737127/valve-steam-deck-battleye-anti-cheat-pubg-dayz-r6-siege)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
