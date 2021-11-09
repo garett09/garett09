@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple issues second developer betas of iOS 15.2, iPadOS 15.2, tvOS 15.2](https://appleinsider.com/articles/21/11/09/apple-issues-second-developer-betas-of-ios-152-ipados-152-tvos-152?utm_medium=rss)
- - [Apple seeds second developer beta of macOS Monterey 12.1](https://appleinsider.com/articles/21/11/09/apple-seeds-second-developer-beta-of-macos-monterey-121?utm_medium=rss)
- - [Jony Ive on Why the iPod Was Apple&#39;s First Wearable](https://www.wired.com/story/rewired-2021-jony-ive-anna-wintour)<!-- TECH:END -->
+ - [Apparently if a Pixel 6 runs out of battery, it breaks the fingerprint sensor](https://www.androidauthority.com/google-pixel-6-fingerprint-3055692/)
+ - [Netflix Games service is now available on iPhone, iPad](https://appleinsider.com/articles/21/11/09/netflix-games-service-is-now-available-on-iphone-ipad?utm_medium=rss)
+ - [iOS 15.2 beta includes the Communication Safety in Messages feature that Apple announced this summer, as an opt-in feature parents can enable &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/211109/p29#a211109p29)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
