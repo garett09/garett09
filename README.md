@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Nice Ruins You Got Here](https://kotaku.com/nice-ruins-you-got-here-1848020138)
- - [How to get Battlefield 2042 early access and when it unlocks](https://www.pcgamer.com/battlefield-2042-early-access-release-date)
- - [Dark Souls, Only Now It&#39;s Got Halo Guns](https://kotaku.com/dark-souls-only-now-its-got-halo-guns-1848019951)<!-- GAME:END -->
+ - [New Pokémon Airplane Coming To Japan](https://kotaku.com/new-pokemon-airplane-coming-to-japan-1848021102)
+ - [CPU-Z developer says Gigabyte&#39;s 8GHz Alder Lake overclock isn&#39;t possible](https://www.pcgamer.com/cpu-z-developer-says-gigabytes-8ghz-alder-lake-overclock-isnt-possible)
+ - [Microsoft to stop supporting OneDrive on Windows 8 and earlier](https://www.pcgamer.com/microsoft-to-stop-supporting-onedrive-on-windows-8-and-earlier)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
