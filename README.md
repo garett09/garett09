@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Halo Infinite’s New Bad Guy Is A Creepy Little Dude, Devs Say](https://kotaku.com/halo-infinite-s-new-bad-guy-is-a-creepy-little-dude-de-1848026984)
- - [It’s the Singing Monsters Like You’ve Never Seen Them](https://news.xbox.com/en-us/2021/11/09/its-the-singing-monsters-like-youve-never-seen-them/)
- - [Forza Horizon 5 players are buying up one crappy jeep by the hundreds to farm money](https://www.pcgamer.com/forza-horizon-5-players-are-buying-up-one-crappy-jeep-by-the-hundreds-to-farm-money)<!-- GAME:END -->
+ - [Animal Crossing: New Horizons will have a ‘Black Friday’ sale in-game](https://www.polygon.com/22772692/animal-crossing-new-horizons-nintendo-switch-black-friday-sale)
+ - [Todd Howard wants more depth and better AI in future Bethesda games](https://www.pcgamer.com/todd-howard-wants-more-depth-and-better-ai-in-future-bethesda-games)
+ - [Digital Foundry&#39;s YouTube Channel Hacked By Cryptobros, Gets Taken Down](https://kotaku.com/digital-foundrys-youtube-channel-hacked-by-cryptobros-1848027159)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
