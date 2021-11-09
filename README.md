@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Obviously not my meme but a little company wouldn&amp;acute;t hurt](http://9gag.com/gag/ajg63VQ)
- - 🚯 [Was that a machete..? Real judo skill in action](http://9gag.com/gag/angX05L)
- - 🚯 [Enjoy The Moment!](http://9gag.com/gag/a71KPRb)<!-- MEMES:END -->
+ - 🚖 [Did he actually just say that!??](http://9gag.com/gag/arne9qd)
+ - 🚯 [Enjoy The Moment!](http://9gag.com/gag/a71KPRb)
+ - 🚯 [Joker The real MVP, move Morris b*tch](http://9gag.com/gag/aM4bDEW)<!-- MEMES:END -->
 
 --- 
 
