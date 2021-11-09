@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Latest Apple betas include Digital Legacy, unwanted AirTags scan, direct Hide My Email](https://appleinsider.com/articles/21/11/09/latest-apple-betas-include-digital-legacy-unwanted-airtags-scan-direct-hide-my-email?utm_medium=rss)
- - [Meta shares bullying and harassment numbers for the first time, claims the category represents ~0.14% of Facebook content and ~0.05% of Instagram content &lpar;Elizabeth Dwoskin/Washington Post&rpar;](http://www.techmeme.com/211109/p33#a211109p33)
- - [Workhorse’s new CEO admits the startup’s electric van is no workhorse](https://www.theverge.com/2021/11/9/22772169/workhorse-sales-recall-q3-results-new-ceo-investigations)<!-- TECH:END -->
+ - [Unity reports Q3 revenue of $286.3M, up from $200.8M YoY, on net loss of $115.1M, down from $144.5M YoY &lpar;Wallace Witkowski/MarketWatch&rpar;](http://www.techmeme.com/211109/p37#a211109p37)
+ - [Unity to acquire Weta Digital&#39;s technology arm for $1.63B](https://appleinsider.com/articles/21/11/09/unity-to-acquire-weta-digitals-technology-arm-for-163b?utm_medium=rss)
+ - [DoorDash reports Q3 revenue of $1.2B, up 45% YoY, and says it will acquire European food delivery company Wolt in an all-stock $8B+ deal &lpar;Preetika Rana/Wall Street Journal&rpar;](http://www.techmeme.com/211109/p36#a211109p36)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
