@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Nothing better then the smell of petrol !](http://9gag.com/gag/awzbD61)
- - 🚯 [Adapt. Improvise. Overcome.](http://9gag.com/gag/amgLyn2)
+ - 🚖 [Adapt. Improvise. Overcome.](http://9gag.com/gag/amgLyn2)
+ - 🚯 [Was just able to stand up and eat for the first time after brain surgery yesterday.](http://9gag.com/gag/aeg3zDq)
  - 🚯 [How&amp;#039;s it going, world?...](http://9gag.com/gag/a11Z84P)<!-- MEMES:END -->
 
 --- 
