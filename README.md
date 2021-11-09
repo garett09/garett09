@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [That friend...](http://9gag.com/gag/a11ZBZR)
- - 🚯 [Trad](http://9gag.com/gag/aQXpBz2)
- - 🚯 [Did he actually just say that!??](http://9gag.com/gag/arne9qd)<!-- MEMES:END -->
+ - 🚖 [Enjoy The Moment!](http://9gag.com/gag/a71KPRb)
+ - 🚯 [Hats off to Mr Freeman](http://9gag.com/gag/a419m7m)
+ - 🚯 [Nice](http://9gag.com/gag/aLvQVpz)<!-- MEMES:END -->
 
 --- 
 
