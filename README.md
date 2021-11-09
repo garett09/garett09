@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Nice Ruins You Got Here](https://kotaku.com/nice-ruins-you-got-here-1848020138)
  - [How to get Battlefield 2042 early access and when it unlocks](https://www.pcgamer.com/battlefield-2042-early-access-release-date)
- - [Dark Souls, Only Now It&#39;s Got Halo Guns](https://kotaku.com/dark-souls-only-now-its-got-halo-guns-1848019951)
- - [Mass Effect DLC With Lost Source Code Returns To Legendary Edition Via Mod](https://kotaku.com/mass-effect-dlc-with-lost-source-code-returns-to-legend-1848019388)<!-- GAME:END -->
+ - [Dark Souls, Only Now It&#39;s Got Halo Guns](https://kotaku.com/dark-souls-only-now-its-got-halo-guns-1848019951)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
