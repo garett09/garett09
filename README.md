@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Adapt. Improvise. Overcome.](http://9gag.com/gag/amgLyn2)
- - 🚯 [Obviously not my meme but a little company wouldn&amp;acute;t hurt](http://9gag.com/gag/ajg63VQ)
- - 🚯 [Poland have some problems with Belarus...](http://9gag.com/gag/aZrWKV6)<!-- MEMES:END -->
+ - 🚖 [Nothing better then the smell of petrol !](http://9gag.com/gag/awzbD61)
+ - 🚯 [Adapt. Improvise. Overcome.](http://9gag.com/gag/amgLyn2)
+ - 🚯 [How&amp;#039;s it going, world?...](http://9gag.com/gag/a11Z84P)<!-- MEMES:END -->
 
 --- 
 
