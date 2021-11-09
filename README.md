@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Clown World](http://9gag.com/gag/abgqmYL)
- - 🚯 [Ah yes.. the gf.](http://9gag.com/gag/aWg0NjZ)
- - 🚯 [Meet ... Man UTD 2021](http://9gag.com/gag/aPZyp5n)<!-- MEMES:END -->
+ - 🚖 [Cheating wife does surprise pikachu face](http://9gag.com/gag/adg6dr9)
+ - 🚯 [Did you fail NNN?](http://9gag.com/gag/adg6d7Q)
+ - 🚯 [Blimey.. What the hell is that?](http://9gag.com/gag/amgLbpo)<!-- MEMES:END -->
 
 --- 
 
