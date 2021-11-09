@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Oh Deer, Shino Is The Most Popular New Animal Crossing Villager From The Update](https://kotaku.com/oh-deer-shino-is-the-most-popular-new-animal-crossing-1848019101)
- - [Squid Game creator confirms season 2, return of main character Seong Gi-hun](https://www.polygon.com/22771995/squid-game-creator-confirms-season-2-return-seong-gi-hun)
- - [Forza Horizon 5 crashing on startup? Try these fixes](https://www.pcgamer.com/forza-horizon-5-crashing-pc-startup-fix)<!-- GAME:END -->
+ - [Animal Crossing: How To Grow Wheat And Other Crops For Food Recipes](https://kotaku.com/animal-crossing-how-to-grow-wheat-and-other-crops-for-1848022912)
+ - [Shuttered online adventure game The Tomorrow Children is coming back](https://www.polygon.com/22772031/tomorrow-children-q-games-re-release-sony-ps4)
+ - [The Last Time Rockstar Rereleased GTA: San Andreas It Didn’t Go So Well](https://kotaku.com/the-last-time-rockstar-rereleased-gta-san-andreas-it-d-1848020263)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
