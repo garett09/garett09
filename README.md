@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Neon Labs, which aims to create an Ethereum-compatible environment on Solana, raises $40M via a private token sale led by Jump Capital &lpar;Sam Bourgi/Cointelegraph&rpar;](http://www.techmeme.com/211109/p11#a211109p11)
- - [The Long Search for a Computer That Speaks Your Mind](https://www.wired.com/story/the-long-search-for-a-computer-that-speaks-your-mind)
- - [Netflix, Please Add a ‘Watched It’ Button Already](https://www.wired.com/story/streaming-services-netflix-watched-it-rant)<!-- TECH:END -->
+ - [Helsing, which uses AI to integrate data and create live maps of battlefields, raises &amp;euro;100M from Daniel Ek&#39;s European tech investing group &lpar;Financial Times&rpar;](http://www.techmeme.com/211109/p15#a211109p15)
+ - [Astronaut Gear of the Future May Fight Bone and Muscle Loss](https://www.wired.com/story/astronaut-gear-of-the-future-may-fight-bone-and-muscle-loss)
+ - [The Hidden Dangers of &#39;Buy Now, Pay Later&#39; Apps](https://www.wired.com/story/hidden-dangers-buy-now-pay-later-apps)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
