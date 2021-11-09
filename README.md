@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Water bending is a skill that should be taught in schools](http://9gag.com/gag/apgodM8)
- - 🚯 [Clown World](http://9gag.com/gag/abgqmYL)
- - 🚯 [This is the way](http://9gag.com/gag/a21PGdE)<!-- MEMES:END -->
+ - 🚖 [Clown World](http://9gag.com/gag/abgqmYL)
+ - 🚯 [Ah yes.. the gf.](http://9gag.com/gag/aWg0NjZ)
+ - 🚯 [Meet ... Man UTD 2021](http://9gag.com/gag/aPZyp5n)<!-- MEMES:END -->
 
 --- 
 
