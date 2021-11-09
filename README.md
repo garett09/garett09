@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Sinister Shadows Unfold in the Newest Rogue Company Update](https://news.xbox.com/en-us/2021/11/09/sinister-shadows-unfold-in-the-newest-rogue-company-update/)
- - [Among Us’ new update includes roles, a store, and achievements — and it’s live now](https://www.polygon.com/22772616/among-us-cosmicubes-update-engineer-guardian-angel-scientist-shapeshifter-storefront-details)
- - [Unfortunately, the best part about Dexter: New Blood is the killing](https://www.polygon.com/reviews/22772619/dexter-new-blood-review)<!-- GAME:END -->
+ - [The Best Borderlands 2 DLC Is Yours For Free](https://kotaku.com/the-best-borderlands-2-dlc-is-yours-for-free-1848025996)
+ - [Caitlyn and Jayce arrive in League of Legends: Wild Rift’s new event](https://www.polygon.com/22772432/caitlyn-jayce-league-of-legends-wild-rift-hextech-heist-event)
+ - [Thrustmaster’s Boeing yoke really does just work with Microsoft Flight Simulator on Xbox](https://www.polygon.com/reviews/22772510/thrustmaster-tca-yoke-boeing-edition-xbox-review-microsoft-flight-simulator)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
