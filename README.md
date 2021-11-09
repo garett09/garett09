@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How to remove BMW logo from steering wheel...](http://9gag.com/gag/angXGwn)
- - 🚯 [Adjarian Khachapuri - Traditional Georgian food. In west people call it Cheese Boat. This picture is from book my wife has worked. It&amp;#039;s very delicious](http://9gag.com/gag/aLvQrrg)
- - 🚯 [Coolest monke in the zoo](http://9gag.com/gag/aWg0916)<!-- MEMES:END -->
+ - 🚖 [Adjarian Khachapuri - Traditional Georgian food. In west people call it Cheese Boat. This picture is from book my wife has worked. It&amp;#039;s very delicious](http://9gag.com/gag/aLvQrrg)
+ - 🚯 [Coolest monke in the zoo](http://9gag.com/gag/aWg0916)
+ - 🚯 [Did you fail NNN?](http://9gag.com/gag/adg6d7Q)<!-- MEMES:END -->
 
 --- 
 
