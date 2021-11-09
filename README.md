@@ -193,7 +193,7 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It&amp;#039;s called the heel and it&amp;#039;s a delicacy that I save so my last sandwich is two heels.](http://9gag.com/gag/a71KA9A)
+ - 🚖 [Adjarian Khachapuri - Traditional Georgian food. In west people call it Cheese Boat. This picture is from book my wife has worked. It&amp;#039;s very delicious](http://9gag.com/gag/aLvQrrg)
  - 🚯 [Coolest monke in the zoo](http://9gag.com/gag/aWg0916)
  - 🚯 [Dennis Villeneuve about Dune. That, my friends, is how you do art.](http://9gag.com/gag/aBnQod2)<!-- MEMES:END -->
 
