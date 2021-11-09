@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Profile of virtual events startup Hopin, which the rode pandemic-led videoconferencing wave to a $7.8B valuation in August and six acquisitions in the past year &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/211109/p3#a211109p3)
  - [Qupital, a Hong Kong-based startup offering cross-border e-commerce financing, raises a $150M Series B, including a credit securitization facility from Citi &lpar;Eudora Wang/DealStreetAsia&rpar;](http://www.techmeme.com/211109/p2#a211109p2)
- - [Netflix for iOS is rolling out Kids Clips, a TikTok-like feature that shows new daily short videos from its children&#39;s library &lpar;Bloomberg&rpar;](http://www.techmeme.com/211109/p1#a211109p1)
- - [Samsung Galaxy S21 FE: What we know so far &lpar;Updated: Nov. 9&rpar;](https://www.androidauthority.com/samsung-galaxy-s21-fe-1211655/)<!-- TECH:END -->
+ - [Netflix for iOS is rolling out Kids Clips, a TikTok-like feature that shows new daily short videos from its children&#39;s library &lpar;Bloomberg&rpar;](http://www.techmeme.com/211109/p1#a211109p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
