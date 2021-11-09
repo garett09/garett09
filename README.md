@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [All the news about Netflix’s gaming efforts](https://www.theverge.com/22772589/netflix-video-games-app-news-updates)
- - [Netflix Games is available on your iPhone and iPad](https://www.theverge.com/2021/11/9/22772480/netflix-games-apple-iphone-ipad-ios-subscription-app-store)
- - [Apple backpedals on breaking Face ID after third-party iPhone 13 screen replacements, will release a software update to no longer require a microcontroller swap &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/211109/p31#a211109p31)<!-- TECH:END -->
+ - [Latest Apple betas include Digital Legacy, unwanted AirTags scan, direct Hide My Email](https://appleinsider.com/articles/21/11/09/latest-apple-betas-include-digital-legacy-unwanted-airtags-scan-direct-hide-my-email?utm_medium=rss)
+ - [Meta shares bullying and harassment numbers for the first time, claims the category represents ~0.14% of Facebook content and ~0.05% of Instagram content &lpar;Elizabeth Dwoskin/Washington Post&rpar;](http://www.techmeme.com/211109/p33#a211109p33)
+ - [Workhorse’s new CEO admits the startup’s electric van is no workhorse](https://www.theverge.com/2021/11/9/22772169/workhorse-sales-recall-q3-results-new-ceo-investigations)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
