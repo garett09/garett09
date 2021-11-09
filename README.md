@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Squid Game is getting a second season, but it&#39;s &#39;too early&#39; to say when it&#39;ll happen](https://www.pcgamer.com/squid-game-is-getting-a-second-season-but-its-too-early-to-say-when-itll-happen)
- - [Legends of Runeterra’s new single-player mode is fan service at its best](https://www.polygon.com/22771117/legends-of-runeterra-path-of-champions-game-mode)
- - [Crunchyroll Premium Arrives on Xbox Game Pass Ultimate Perks](https://news.xbox.com/en-us/2021/11/09/crunchyroll-premium-arrives-on-xbox-game-pass-ultimate-perks/)<!-- GAME:END -->
+ - [Unpacking players keep mixing a GameCube up with a kitchen appliance](https://www.polygon.com/22772131/unpacking-gamecube-retro-gaming-indie-game-pass)
+ - [Call of Duty: Vanguard review](https://www.pcgamer.com/call-of-duty-vanguard-review)
+ - [Age of Empires IV EMEA Championships](https://news.xbox.com/en-us/2021/11/09/age-of-empires-iv-emea-championships/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
