@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung unveils 14nm, 16GB LPDDR5X DRAM chip for mobile devices, claims data transfer speeds of 8.5Gbps, 1.3x faster than the LPDDR5 and consumes 20% less power &lpar;Pranob Mehrotra/XDA Developers&rpar;](http://www.techmeme.com/211109/p6#a211109p6)
- - [Poll: What do you think of today’s in-display fingerprint sensors?](https://www.androidauthority.com/in-display-fingerprint-sensor-poll-3051479/)
- - [Best Instant Pots of 2021     - CNET](https://www.cnet.com/home/kitchen-and-household/best-instant-pot/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Netflix tests a TikTok-style feed for kids](https://www.theverge.com/2021/11/9/22771727/netflix-kids-clips-tiktok-feed-fast-laughs-ios-app)
+ - [Source: Chinese social e-commerce app Xiaohongshu has raised a new funding round of $500M, led by Temasek and Tencent at a $20B valuation &lpar;Tracy Qu/South China Morning Post&rpar;](http://www.techmeme.com/211109/p8#a211109p8)
+ - [Why Niantic is a dark horse in the metaverse wars](https://www.theverge.com/22771260/niantic-metaverse-meta-facebook-platformer)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
