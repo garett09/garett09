@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best early Black Friday deals you can get right now](https://www.theverge.com/22759214/black-friday-early-deals-best-headphones-laptops-gaming-tvs-tech-sale)
- - [DOJ charges two alleged REvil associates, seizes $6.1M](https://appleinsider.com/articles/21/11/08/doj-charges-two-alleged-revil-associates-seizes-61m?utm_medium=rss)
- - [Will Smith discusses his memoir in Apple TV+ original &#39;The Oprah Conversation&#39;](https://appleinsider.com/articles/21/11/09/will-smith-discusses-his-memoir-in-apple-tv-original-the-oprah-conversation?utm_medium=rss)<!-- TECH:END -->
+ - [Google’s Pet Portraits lets you find art look-alikes for your furry friend](https://www.theverge.com/22771230/google-pet-portrait-machine-learning-art-look-alike-animal-friend-cat-dog-horse)
+ - [Robinhood data breach exposes 5M email addresses, personal data](https://appleinsider.com/articles/21/11/08/robinhood-data-breach-exposes-5m-email-addresses-personal-data?utm_medium=rss)
+ - [Nextdoor closes its first day on the NYSE at $13.01, up 17%, after going public via a SPAC merger which raised $674M and valued it at ~$4.3B &lpar;Meghan Bobrowsky/Wall Street Journal&rpar;](http://www.techmeme.com/211108/p29#a211108p29)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
