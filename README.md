@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Robinhood data breach exposes 5M email addresses, personal data](https://appleinsider.com/articles/21/11/08/robinhood-data-breach-exposes-5m-email-addresses-personal-data?utm_medium=rss)
- - [Motorola Edge 30 Ultra specs leak, could be a Snapdragon 898 flagship](https://www.androidauthority.com/motorola-edge-30-ultra-3055057/)
- - [An alleged member of the REvil ransomware gang has been arrested in Poland](https://www.theverge.com/2021/11/8/22770701/revil-ransomware-arrest-kaseya-crypto-europol-cybersecurity)<!-- TECH:END -->
+ - [AMC boss says company is exploring how to accept Shiba Inu along with other crypto](https://www.theverge.com/2021/11/8/22771149/amc-shiba-inu-cryptocurrency-bitcoin-litecoin-dogecoin)
+ - [Best Black Friday mattress deals: Avocado, Casper, Purple, Helix and more     - CNET](https://www.cnet.com/health/sleep/best-mattress-deals/#ftag=CAD590a51e)
+ - [Best car lifts for home garages in 2021     - Roadshow](https://www.cnet.com/roadshow/news/best-car-lift-for-home-garage/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
