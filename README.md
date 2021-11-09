@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Peloton takes on strength training with its $495 Guide camera system, coming in 2022](https://www.theverge.com/2021/11/9/22771827/peloton-guide-camera-movement-tracking-price-release-date)
- - [Fitbit’s Daily Readiness Score is finally here along with ECG for the Charge 5](https://www.androidauthority.com/daily-readiness-score-3054897/)
- - [Get the Most Out of Your iPad With These Accessories](https://www.wired.com/gallery/best-ipad-accessories)<!-- TECH:END -->
+ - [Qualcomm’s Snapdragon Spaces try to make it easier to get apps ready for augmented reality](https://www.theverge.com/2021/11/9/22771850/qualcomm-ar-sdk-snapdragon-spaces-mixed-reality-metaverse)
+ - [The Verge’s favorite holiday gifts under $50](https://www.theverge.com/22748775/holiday-gift-guide-budget-cheap-tech-gadgets-ideas)
+ - [Logitech’s cutesy Pop Keys keyboard is annoyingly form over function](https://www.theverge.com/22771694/logitech-pop-keys-review)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
