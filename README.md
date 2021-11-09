@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Unpacking players keep mixing a GameCube up with a kitchen appliance](https://www.polygon.com/22772131/unpacking-gamecube-retro-gaming-indie-game-pass)
- - [Call of Duty: Vanguard review](https://www.pcgamer.com/call-of-duty-vanguard-review)
- - [Age of Empires IV EMEA Championships](https://news.xbox.com/en-us/2021/11/09/age-of-empires-iv-emea-championships/)<!-- GAME:END -->
+ - [Our biggest questions after Eternals, and a few key answers](https://www.polygon.com/22772483/eternals-ending-sequel-questions-answers)
+ - [Bring Dinosaurs to Life in Jurassic World Evolution 2, Available Now for Xbox One and Xbox Series X|S](https://news.xbox.com/en-us/2021/11/09/jurassic-world-evolution-2-available-now-for-xbox-one-and-xbox-series-xs/)
+ - [Animal Crossing’s Unofficial Gay Couple Gets Even Gayer After Update](https://kotaku.com/animal-crossing-s-unofficial-gay-couple-gets-even-gayer-1848025029)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
