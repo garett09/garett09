@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Helsing, which uses AI to integrate data and create live maps of battlefields, raises &amp;euro;100M from Daniel Ek&#39;s European tech investing group &lpar;Financial Times&rpar;](http://www.techmeme.com/211109/p15#a211109p15)
- - [Astronaut Gear of the Future May Fight Bone and Muscle Loss](https://www.wired.com/story/astronaut-gear-of-the-future-may-fight-bone-and-muscle-loss)
- - [The Hidden Dangers of &#39;Buy Now, Pay Later&#39; Apps](https://www.wired.com/story/hidden-dangers-buy-now-pay-later-apps)<!-- TECH:END -->
+ - [Peloton takes on strength training with its $495 Guide camera system, coming in 2022](https://www.theverge.com/2021/11/9/22771827/peloton-guide-camera-movement-tracking-price-release-date)
+ - [Fitbit’s Daily Readiness Score is finally here along with ECG for the Charge 5](https://www.androidauthority.com/daily-readiness-score-3054897/)
+ - [Get the Most Out of Your iPad With These Accessories](https://www.wired.com/gallery/best-ipad-accessories)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
