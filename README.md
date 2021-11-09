@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ah yes.. the gf.](http://9gag.com/gag/aWg0NjZ)
- - 🚯 [Lolwat](http://9gag.com/gag/abgqdwr)
- - 🚯 [That friend...](http://9gag.com/gag/a11ZBZR)<!-- MEMES:END -->
+ - 🚖 [Hats off to Mr Freeman](http://9gag.com/gag/a419m7m)
+ - 🚯 [110 Degrees out, he offered him a drink and he decided he wanted a bath instead!](http://9gag.com/gag/a81bXBZ)
+ - 🚯 [Blimey.. What the hell is that?](http://9gag.com/gag/amgLbpo)<!-- MEMES:END -->
 
 --- 
 
