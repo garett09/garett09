@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung unveils 14nm, 16GB LPDDR5X DRAM chip for mobile devices, claims data transfer speeds of 8.5Gbps, 1.3x faster than the LPDDR5 and consumes 20% less power &lpar;Pranob Mehrotra/XDA Developers&rpar;](http://www.techmeme.com/211109/p6#a211109p6)
  - [Poll: What do you think of today’s in-display fingerprint sensors?](https://www.androidauthority.com/in-display-fingerprint-sensor-poll-3051479/)
- - [Samsung Exynos event confirmed: Exynos SoC with AMD GPU coming?](https://www.androidauthority.com/samsung-exynos-amd-event-3055144/)
- - [Documents show LAPD&#39;s new predictive policing effort is similar to surveillance programs PredPol and Operation Laser that were shut down amid public outcry &lpar;Johana Bhuiyan/The Guardian&rpar;](http://www.techmeme.com/211109/p5#a211109p5)<!-- TECH:END -->
+ - [Best Instant Pots of 2021     - CNET](https://www.cnet.com/home/kitchen-and-household/best-instant-pot/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
