@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Get Your $25,000 Pikachu Baccarat Crystal](https://kotaku.com/get-your-25-000-pikachu-baccarat-crystal-1848021088)
- - [AMD&#39;s new compute GPU gives us a glimpse at what next-gen Radeon gaming cards could look like](https://www.pcgamer.com/amds-new-compute-gpu-gives-us-a-glimpse-at-what-next-gen-radeon-gaming-cards-could-look-like)
- - [PlayStation 4 Exclusive The Tomorrow Children Will Be Relaunched](https://kotaku.com/playstation-4-exclusive-the-tomorrow-children-will-be-r-1848021259)<!-- GAME:END -->
+ - [Black Friday 2021: when is it and why you need to shop for PC gaming deals early this year](https://www.pcgamer.com/black-friday-pc-gaming-deals-2021)
+ - [Black Friday gaming keyboard and mouse deals 2021: mechanical switches for less](https://www.pcgamer.com/black-friday-keyboard-mouse-deals-2021)
+ - [Black Friday Gaming PC deals 2021: the best prebuilt systems on sale today](https://www.pcgamer.com/black-friday-gaming-pc-deals-2021)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
