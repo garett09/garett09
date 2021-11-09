@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Researchers and journalists in Ethiopia say Meta has done little to stop hate speech amid Ethiopia&#39;s civil war, claiming moderation often falls to volunteers &lpar;Nick Robins-Early/VICE&rpar;](http://www.techmeme.com/211108/p30#a211108p30)
  - [Google’s Pet Portraits lets you find art look-alikes for your furry friend](https://www.theverge.com/22771230/google-pet-portrait-machine-learning-art-look-alike-animal-friend-cat-dog-horse)
- - [Robinhood data breach exposes 5M email addresses, personal data](https://appleinsider.com/articles/21/11/08/robinhood-data-breach-exposes-5m-email-addresses-personal-data?utm_medium=rss)
- - [Nextdoor closes its first day on the NYSE at $13.01, up 17%, after going public via a SPAC merger which raised $674M and valued it at ~$4.3B &lpar;Meghan Bobrowsky/Wall Street Journal&rpar;](http://www.techmeme.com/211108/p29#a211108p29)<!-- TECH:END -->
+ - [Robinhood data breach exposes 5M email addresses, personal data](https://appleinsider.com/articles/21/11/08/robinhood-data-breach-exposes-5m-email-addresses-personal-data?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
