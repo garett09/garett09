@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Mass Effect DLC With Lost Source Code Returns To Legendary Edition Via Mod](https://kotaku.com/mass-effect-dlc-with-lost-source-code-returns-to-legend-1848019388)
- - [Let the Good Times Roll! Dicey Dungeons Is Coming to Xbox!](https://news.xbox.com/en-us/2021/11/08/let-the-good-times-roll-dicey-dungeons-is-coming-to-xbox/)
- - [Travis Scott&#39;s &#39;Out West&#39; emote removed from Fortnite store following festival tragedy](https://www.pcgamer.com/travis-scotts-out-west-emote-removed-from-fortnite-store-following-festival-tragedy)<!-- GAME:END -->
+ - [How to get Battlefield 2042 early access and when it unlocks](https://www.pcgamer.com/battlefield-2042-early-access-release-date)
+ - [Dark Souls, Only Now It&#39;s Got Halo Guns](https://kotaku.com/dark-souls-only-now-its-got-halo-guns-1848019951)
+ - [Mass Effect DLC With Lost Source Code Returns To Legendary Edition Via Mod](https://kotaku.com/mass-effect-dlc-with-lost-source-code-returns-to-legend-1848019388)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
