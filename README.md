@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [AMC boss says company is exploring how to accept Shiba Inu along with other crypto](https://www.theverge.com/2021/11/8/22771149/amc-shiba-inu-cryptocurrency-bitcoin-litecoin-dogecoin)
- - [Best Black Friday mattress deals: Avocado, Casper, Purple, Helix and more     - CNET](https://www.cnet.com/health/sleep/best-mattress-deals/#ftag=CAD590a51e)
- - [Best car lifts for home garages in 2021     - Roadshow](https://www.cnet.com/roadshow/news/best-car-lift-for-home-garage/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The best early Black Friday deals you can get right now](https://www.theverge.com/22759214/black-friday-early-deals-best-headphones-laptops-gaming-tvs-tech-sale)
+ - [DOJ charges two alleged REvil associates, seizes $6.1M](https://appleinsider.com/articles/21/11/08/doj-charges-two-alleged-revil-associates-seizes-61m?utm_medium=rss)
+ - [Will Smith discusses his memoir in Apple TV+ original &#39;The Oprah Conversation&#39;](https://appleinsider.com/articles/21/11/09/will-smith-discusses-his-memoir-in-apple-tv-original-the-oprah-conversation?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
