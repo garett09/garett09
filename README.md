@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Profile of virtual events startup Hopin, which the rode pandemic-led videoconferencing wave to a $7.8B valuation in August and six acquisitions in the past year &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/211109/p3#a211109p3)
- - [Qupital, a Hong Kong-based startup offering cross-border e-commerce financing, raises a $150M Series B, including a credit securitization facility from Citi &lpar;Eudora Wang/DealStreetAsia&rpar;](http://www.techmeme.com/211109/p2#a211109p2)
- - [Netflix for iOS is rolling out Kids Clips, a TikTok-like feature that shows new daily short videos from its children&#39;s library &lpar;Bloomberg&rpar;](http://www.techmeme.com/211109/p1#a211109p1)<!-- TECH:END -->
+ - [Documents show LAPD&#39;s new predictive policing effort is similar to surveillance programs PredPol and Operation Laser that were shut down amid public outcry &lpar;Johana Bhuiyan/The Guardian&rpar;](http://www.techmeme.com/211109/p5#a211109p5)
+ - [How Christie&#39;s and Sotheby&#39;s are bringing in crypto-rich NFT buyers; NFTs now account for about 5.5% of contemporary art sales at the world&#39;s top auction houses &lpar;Elizabeth Howcroft/Reuters&rpar;](http://www.techmeme.com/211109/p4#a211109p4)
+ - [Profile of virtual events startup Hopin, which rode the pandemic-led videoconferencing wave to a $7.8B valuation in August and six acquisitions in the past year &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/211109/p3#a211109p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
