@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Forza Horizon 5 Available Now with Xbox Game Pass](https://news.xbox.com/en-us/2021/11/09/forza-horizon-5-available-now/)
- - [How to reach the Hall of Fame in Forza Horizon 5](https://www.pcgamer.com/forza-horizon-5-hall-of-fame)
- - [Deathloop director appointed head of Arkane Lyon](https://www.pcgamer.com/deathloop-director-appointed-head-of-arkane-lyon)<!-- GAME:END -->
+ - [Oh Deer, Shino Is The Most Popular New Animal Crossing Villager From The Update](https://kotaku.com/oh-deer-shino-is-the-most-popular-new-animal-crossing-1848019101)
+ - [Squid Game creator confirms season 2, return of main character Seong Gi-hun](https://www.polygon.com/22771995/squid-game-creator-confirms-season-2-return-seong-gi-hun)
+ - [Forza Horizon 5 crashing on startup? Try these fixes](https://www.pcgamer.com/forza-horizon-5-crashing-pc-startup-fix)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
