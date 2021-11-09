@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apparently if a Pixel 6 runs out of battery, it breaks the fingerprint sensor](https://www.androidauthority.com/google-pixel-6-fingerprint-3055692/)
- - [Netflix Games service is now available on iPhone, iPad](https://appleinsider.com/articles/21/11/09/netflix-games-service-is-now-available-on-iphone-ipad?utm_medium=rss)
- - [iOS 15.2 beta includes the Communication Safety in Messages feature that Apple announced this summer, as an opt-in feature parents can enable &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/211109/p29#a211109p29)<!-- TECH:END -->
+ - [All the news about Netflix’s gaming efforts](https://www.theverge.com/22772589/netflix-video-games-app-news-updates)
+ - [Netflix Games is available on your iPhone and iPad](https://www.theverge.com/2021/11/9/22772480/netflix-games-apple-iphone-ipad-ios-subscription-app-store)
+ - [Apple backpedals on breaking Face ID after third-party iPhone 13 screen replacements, will release a software update to no longer require a microcontroller swap &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/211109/p31#a211109p31)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
