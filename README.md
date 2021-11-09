@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Leaf diver doggo](http://9gag.com/gag/aAGVmQR)
- - 🚯 [To get rid of under eye bags](http://9gag.com/gag/aDDwPX9)
- - 🚯 [May The Schwartz Be With You](http://9gag.com/gag/aDDwP3w)<!-- MEMES:END -->
+ - 🚖 [Water bending is a skill that should be taught in schools](http://9gag.com/gag/apgodM8)
+ - 🚯 [Clown World](http://9gag.com/gag/abgqmYL)
+ - 🚯 [This is the way](http://9gag.com/gag/a21PGdE)<!-- MEMES:END -->
 
 --- 
 
