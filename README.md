@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A deep dive into how Discord, an authentic, at-scale user-generated community, has a chance to become the metaverse&#39;s natural social infrastructure &lpar;Packy McCormick/Not Boring&rpar;](http://www.techmeme.com/211109/p21#a211109p21)
- - [Apple CEO Tim Cook talks Bitcoin, China &amp; side-loading in wide-ranging interview](https://appleinsider.com/articles/21/11/09/apple-ceo-tim-cook-talks-bitcoin-china-side-loading-in-wide-ranging-interview?utm_medium=rss)
- - [Accelsior 8M2 is the fastest PCIe SSD available for the Mac Pro, says OWC](https://appleinsider.com/articles/21/11/09/accelsior-8m2-is-the-fastest-pcie-ssd-available-for-the-mac-pro-says-owc?utm_medium=rss)<!-- TECH:END -->
+ - [Squid Game director confirms season two, says he’s in the ‘planning process’](https://www.theverge.com/2021/11/9/22772170/squid-game-season-two-netflix-director-confirms)
+ - [Twitter Blue rolls out to the US for $2.99/month with Scroll&#39;s ad-free articles across 300+ pubs, an undo button, Nuzzel-like &quot;top articles&quot; roundup, and more &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/211109/p24#a211109p24)
+ - [iPad, iPad mini, iPad Air, or iPad Pro: Which iPad to buy at any price point](https://appleinsider.com/articles/21/11/09/ipad-ipad-mini-ipad-air-or-ipad-pro-which-ipad-to-buy-at-any-price-point?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
