@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hats off to Mr Freeman](http://9gag.com/gag/a419m7m)
- - 🚯 [110 Degrees out, he offered him a drink and he decided he wanted a bath instead!](http://9gag.com/gag/a81bXBZ)
- - 🚯 [Blimey.. What the hell is that?](http://9gag.com/gag/amgLbpo)<!-- MEMES:END -->
+ - 🚖 [What girls wants](http://9gag.com/gag/arne9z5)
+ - 🚯 [Lmao my friend has master in educational physics. Still unemployed](http://9gag.com/gag/aNPo8DK)
+ - 🚯 [110 Degrees out, he offered him a drink and he decided he wanted a bath instead!](http://9gag.com/gag/a81bXBZ)<!-- MEMES:END -->
 
 --- 
 
