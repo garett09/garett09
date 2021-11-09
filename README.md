@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [New Pokémon Airplane Coming To Japan](https://kotaku.com/new-pokemon-airplane-coming-to-japan-1848021102)
- - [CPU-Z developer says Gigabyte&#39;s 8GHz Alder Lake overclock isn&#39;t possible](https://www.pcgamer.com/cpu-z-developer-says-gigabytes-8ghz-alder-lake-overclock-isnt-possible)
- - [Microsoft to stop supporting OneDrive on Windows 8 and earlier](https://www.pcgamer.com/microsoft-to-stop-supporting-onedrive-on-windows-8-and-earlier)<!-- GAME:END -->
+ - [Get Your $25,000 Pikachu Baccarat Crystal](https://kotaku.com/get-your-25-000-pikachu-baccarat-crystal-1848021088)
+ - [AMD&#39;s new compute GPU gives us a glimpse at what next-gen Radeon gaming cards could look like](https://www.pcgamer.com/amds-new-compute-gpu-gives-us-a-glimpse-at-what-next-gen-radeon-gaming-cards-could-look-like)
+ - [PlayStation 4 Exclusive The Tomorrow Children Will Be Relaunched](https://kotaku.com/playstation-4-exclusive-the-tomorrow-children-will-be-r-1848021259)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
