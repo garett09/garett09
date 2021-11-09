@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Dennis Villeneuve about Dune. That, my friends, is how you do art.](http://9gag.com/gag/aBnQod2)
- - 🚯 [Managed to fulfil what i&amp;#039;ve been dreaming of as a kid. Became a member of firefighter family!](http://9gag.com/gag/angXVYE)
+ - 🚖 [Maybe someday i can do this with a real orchestra. Feel free to ask anything related.](http://9gag.com/gag/ay9pvGM)
+ - 🚯 [How to remove BMW logo from steering wheel...](http://9gag.com/gag/angXGwn)
  - 🚯 [Coolest monke in the zoo](http://9gag.com/gag/aWg0916)<!-- MEMES:END -->
 
 --- 
