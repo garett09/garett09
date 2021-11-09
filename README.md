@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Did he actually just say that!??](http://9gag.com/gag/arne9qd)
+ - 🚖 [Tom and Jerry, then vs now. Looks like they stopped giving shit. This is just soulless.](http://9gag.com/gag/aLvQVDW)
  - 🚯 [Enjoy The Moment!](http://9gag.com/gag/a71KPRb)
- - 🚯 [Joker The real MVP, move Morris b*tch](http://9gag.com/gag/aM4bDEW)<!-- MEMES:END -->
+ - 🚯 [What girls wants](http://9gag.com/gag/arne9z5)<!-- MEMES:END -->
 
 --- 
 
