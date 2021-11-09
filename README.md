@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Our biggest questions after Eternals, and a few key answers](https://www.polygon.com/22772483/eternals-ending-sequel-questions-answers)
- - [Bring Dinosaurs to Life in Jurassic World Evolution 2, Available Now for Xbox One and Xbox Series X|S](https://news.xbox.com/en-us/2021/11/09/jurassic-world-evolution-2-available-now-for-xbox-one-and-xbox-series-xs/)
- - [Animal Crossing’s Unofficial Gay Couple Gets Even Gayer After Update](https://kotaku.com/animal-crossing-s-unofficial-gay-couple-gets-even-gayer-1848025029)<!-- GAME:END -->
+ - [Sinister Shadows Unfold in the Newest Rogue Company Update](https://news.xbox.com/en-us/2021/11/09/sinister-shadows-unfold-in-the-newest-rogue-company-update/)
+ - [Among Us’ new update includes roles, a store, and achievements — and it’s live now](https://www.polygon.com/22772616/among-us-cosmicubes-update-engineer-guardian-angel-scientist-shapeshifter-storefront-details)
+ - [Unfortunately, the best part about Dexter: New Blood is the killing](https://www.polygon.com/reviews/22772619/dexter-new-blood-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
