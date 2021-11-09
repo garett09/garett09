@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Black Friday 2021: when is it and why you need to shop for PC gaming deals early this year](https://www.pcgamer.com/black-friday-pc-gaming-deals-2021)
- - [Black Friday gaming keyboard and mouse deals 2021: mechanical switches for less](https://www.pcgamer.com/black-friday-keyboard-mouse-deals-2021)
- - [Black Friday Gaming PC deals 2021: the best prebuilt systems on sale today](https://www.pcgamer.com/black-friday-gaming-pc-deals-2021)<!-- GAME:END -->
+ - [Forza Horizon 5 Available Now with Xbox Game Pass](https://news.xbox.com/en-us/2021/11/09/forza-horizon-5-available-now/)
+ - [How to reach the Hall of Fame in Forza Horizon 5](https://www.pcgamer.com/forza-horizon-5-hall-of-fame)
+ - [Deathloop director appointed head of Arkane Lyon](https://www.pcgamer.com/deathloop-director-appointed-head-of-arkane-lyon)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
