@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix tests a TikTok-style feed for kids](https://www.theverge.com/2021/11/9/22771727/netflix-kids-clips-tiktok-feed-fast-laughs-ios-app)
- - [Source: Chinese social e-commerce app Xiaohongshu has raised a new funding round of $500M, led by Temasek and Tencent at a $20B valuation &lpar;Tracy Qu/South China Morning Post&rpar;](http://www.techmeme.com/211109/p8#a211109p8)
- - [Why Niantic is a dark horse in the metaverse wars](https://www.theverge.com/22771260/niantic-metaverse-meta-facebook-platformer)<!-- TECH:END -->
+ - [Neon Labs, which aims to create an Ethereum-compatible environment on Solana, raises $40M via a private token sale led by Jump Capital &lpar;Sam Bourgi/Cointelegraph&rpar;](http://www.techmeme.com/211109/p11#a211109p11)
+ - [The Long Search for a Computer That Speaks Your Mind](https://www.wired.com/story/the-long-search-for-a-computer-that-speaks-your-mind)
+ - [Netflix, Please Add a ‘Watched It’ Button Already](https://www.wired.com/story/streaming-services-netflix-watched-it-rant)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
