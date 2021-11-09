@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Sometimes I want to randomly check on people I used to speak to but I either don&amp;#039;t know how to start the conversation or I&amp;#039;m afraid to be perceived as awkward and/or that I need something from them](http://9gag.com/gag/aXrEGd9)
- - 🚯 [She&amp;#039;s a maneater!](http://9gag.com/gag/angXWQE)
- - 🚯 [Ah yes.. the gf.](http://9gag.com/gag/aWg0NjZ)<!-- MEMES:END -->
+ - 🚖 [Ah yes.. the gf.](http://9gag.com/gag/aWg0NjZ)
+ - 🚯 [Lolwat](http://9gag.com/gag/abgqdwr)
+ - 🚯 [That friend...](http://9gag.com/gag/a11ZBZR)<!-- MEMES:END -->
 
 --- 
 
