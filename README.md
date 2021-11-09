@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Tom and Jerry, then vs now. Looks like they stopped giving shit. This is just soulless.](http://9gag.com/gag/aLvQVDW)
- - 🚯 [Enjoy The Moment!](http://9gag.com/gag/a71KPRb)
- - 🚯 [What girls wants](http://9gag.com/gag/arne9z5)<!-- MEMES:END -->
+ - 🚖 [Zero.](http://9gag.com/gag/aeg3E1Q)
+ - 🚯 [Was that a machete..? Real judo skill in action](http://9gag.com/gag/angX05L)
+ - 🚯 [So many questions to ask? However he did a amazing job with the towel on.](http://9gag.com/gag/a0ZPGnd)<!-- MEMES:END -->
 
 --- 
 
