@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What girls wants](http://9gag.com/gag/arne9z5)
- - 🚯 [Lmao my friend has master in educational physics. Still unemployed](http://9gag.com/gag/aNPo8DK)
- - 🚯 [110 Degrees out, he offered him a drink and he decided he wanted a bath instead!](http://9gag.com/gag/a81bXBZ)<!-- MEMES:END -->
+ - 🚖 [Joker The real MVP, move Morris b*tch](http://9gag.com/gag/aM4bDEW)
+ - 🚯 [Big doge small doge meme](http://9gag.com/gag/aVxQ12n)
+ - 🚯 [That friend...](http://9gag.com/gag/a11ZBZR)<!-- MEMES:END -->
 
 --- 
 
