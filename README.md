@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Mass Effect DLC With Lost Source Code Returns To Legendary Edition Via Mod](https://kotaku.com/mass-effect-dlc-with-lost-source-code-returns-to-legend-1848019388)
  - [Let the Good Times Roll! Dicey Dungeons Is Coming to Xbox!](https://news.xbox.com/en-us/2021/11/08/let-the-good-times-roll-dicey-dungeons-is-coming-to-xbox/)
- - [Travis Scott&#39;s &#39;Out West&#39; emote removed from Fortnite store following festival tragedy](https://www.pcgamer.com/travis-scotts-out-west-emote-removed-from-fortnite-store-following-festival-tragedy)
- - [Digital acting troupe brings Shakespeare&#39;s Macbeth to life in Fallout 76](https://www.pcgamer.com/digital-acting-troupe-brings-shakespeares-macbeth-to-life-in-fallout-76)<!-- GAME:END -->
+ - [Travis Scott&#39;s &#39;Out West&#39; emote removed from Fortnite store following festival tragedy](https://www.pcgamer.com/travis-scotts-out-west-emote-removed-from-fortnite-store-following-festival-tragedy)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
