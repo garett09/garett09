@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Joker The real MVP, move Morris b*tch](http://9gag.com/gag/aM4bDEW)
- - 🚯 [Big doge small doge meme](http://9gag.com/gag/aVxQ12n)
- - 🚯 [That friend...](http://9gag.com/gag/a11ZBZR)<!-- MEMES:END -->
+ - 🚖 [That friend...](http://9gag.com/gag/a11ZBZR)
+ - 🚯 [Trad](http://9gag.com/gag/aQXpBz2)
+ - 🚯 [Did he actually just say that!??](http://9gag.com/gag/arne9qd)<!-- MEMES:END -->
 
 --- 
 
