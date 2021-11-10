@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple reduces trade-in values for iPhone, iPad and Mac](https://appleinsider.com/articles/21/11/09/apple-reduces-trade-in-values-for-iphone-ipad-and-mac?utm_medium=rss)
- - [Iniu power bank 10,000mAh review: Small and solid, but slow](https://www.androidauthority.com/iniu-power-bank-review-3049662/)
- - [Will these top Steam games support Steam Deck? We ask their developers](https://www.theverge.com/2021/10/5/22709918/valve-steam-deck-supported-games-anti-cheat-proton-eac-battleye-epic)<!-- TECH:END -->
+ - [Facebook and Instagram will delete ‘sensitive’ ad targeting groups linked to race, politics](https://www.theverge.com/2021/11/9/22773038/meta-detailed-targeting-ads-facebook-instagram-messenger)
+ - [An internal September 2018 Facebook memo found ~40% of traffic to Pages went to those with plagiarized or recycled content &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/211109/p42#a211109p42)
+ - [How to Watch RE:WIRED 2021](https://www.wired.com/story/how-to-watch-rewired-2021)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
