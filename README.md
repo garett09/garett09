@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [NASA Tries to Save Hubble, Again](https://www.wired.com/story/nasa-tries-to-save-hubble-again)
- - [Your Essential Guide to the Best Tequilas](https://www.wired.com/gallery/best-tequila)
- - [Daily Authority: 💻 “Laptop them kids”](https://www.androidauthority.com/newsletters/daily-authority-%f0%9f%92%bb-laptop-them-kids/)<!-- TECH:END -->
+ - [Motorola Edge 20 Pro review: On the edge of success](https://www.androidauthority.com/motorola-edge-20-pro-review-3045973/)
+ - [Latest iOS beta lets you manually scan for sneaky AirTags](https://www.theverge.com/2021/11/10/22774124/ios-15-2-beta-2-airtag-tracker-scan-privacy-invasion)
+ - [New 14-inch MacBook Pro review: Where the &#39;Pro&#39; starts](https://appleinsider.com/articles/21/11/09/new-14-inch-macbook-pro-review-where-the-pro-starts?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
