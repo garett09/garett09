@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This new $499.99 flight yoke and quadrant is as realistic as it gets](https://www.pcgamer.com/this-new-dollar49999-flight-yoke-and-quadrant-is-as-realistic-as-it-gets)
- - [Noctua&#39;s updated NH-L9i low-profile coolers for 12th Gen look cool as heck](https://www.pcgamer.com/noctuas-updated-nh-l9i-low-profile-coolers-for-12th-gen-look-cool-as-heck)
- - [Eiichiro Oda Gives An Update On Netflix&#39;s Live-Action One Piece Series](https://kotaku.com/eiichiro-oda-gives-an-update-on-netflixs-live-action-on-1848029434)<!-- GAME:END -->
+ - [Stop being mean about Destiny 2&#39;s fashion mag, or Bungie will cancel it](https://www.pcgamer.com/stop-being-mean-about-destiny-2s-fashion-mag-or-bungie-will-cancel-it)
+ - [Where to find the Star 27 mural in Forza Horizon 5](https://www.pcgamer.com/forza-horizon-5-star-27-mural-location-guide)
+ - [Best cheap gaming PC right now](https://www.pcgamer.com/best-cheap-gaming-pc)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
