@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tencent reports Q3 revenue of $22B, up 13% YoY, net profit of $6.18B, up 3% YoY; sales from mobile games rose 9% to ~$6.65B &lpar;Reuters&rpar;](http://www.techmeme.com/211110/p6#a211110p6)
- - [Samsung Exynos event confirmed: New SoC coming? &lpar;Updated: Nope&rpar;](https://www.androidauthority.com/samsung-exynos-amd-event-3055144/)
- - [Grand Theft Auto remaster gameplay footage leaks online](https://www.theverge.com/2021/11/10/22773988/grand-theft-auto-remaster-definitive-edition-gameplay-footage-leak-youtube-reddit)<!-- TECH:END -->
+ - [Google Loses EU Court Fight Over $2.8 Billion Antitrust Fine](https://appleinsider.com/articles/21/11/10/google-loses-eu-court-fight-over-28-billion-antitrust-fine?utm_medium=rss)
+ - [Cryptocurrency exchange Huobi says it will shut down operations in Singapore by March 2022, after exiting China in September &lpar;Helen Partz/Cointelegraph&rpar;](http://www.techmeme.com/211110/p10#a211110p10)
+ - [UK&#39;s Supreme Court dismisses a lawsuit against Google seeking $4B for allegedly tracking iOS Safari users without their consent between 2011 and 2012 &lpar;Ellen Milligan/Bloomberg&rpar;](http://www.techmeme.com/211110/p9#a211110p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
