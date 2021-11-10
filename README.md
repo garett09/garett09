@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Pfff..yeah?](http://9gag.com/gag/awzbp3W)
- - 🚯 [Horrific Climate change](http://9gag.com/gag/aAGV9wL)
- - 🚯 [Chad chaderson &lpar;source : notqualiteaposts&rpar;](http://9gag.com/gag/aPZyqEP)<!-- MEMES:END -->
+ - 🚖 [You&amp;rsquo;re not you when you&amp;rsquo;re hungry p.2](http://9gag.com/gag/aeg38jb)
+ - 🚯 [Jobs to die for !!!](http://9gag.com/gag/aE8G4L9)
+ - 🚯 [Atlanta Security Guard taxes out of control woman.](http://9gag.com/gag/amgLw4j)<!-- MEMES:END -->
 
 --- 
 
