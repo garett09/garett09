@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [GTA 3 cheats: All vehicle, weapon, and player codes for PC](https://www.pcgamer.com/gta-3-cheats-pc)
- - [Discover the rambunctious recipes of Epic Chef, out tomorrow](http://feedproxy.google.com/~r/PSBlog/~3/QULGEziHnZM/)
- - [Discover the rambunctious recipes of Epic Chef, out tomorrow](https://blog.playstation.com/2021/11/10/discover-the-rambunctious-recipes-of-epic-chef-out-tomorrow/)<!-- GAME:END -->
+ - [Big Among Us update adds four new roles, an XP system, and multiple currencies](https://www.pcgamer.com/big-among-us-update-adds-four-new-roles-an-xp-system-and-multiple-currencies)
+ - [Microsoft Flight Simulator Announces Release of the New Aerosoft CRJ 900/1000](https://news.xbox.com/en-us/2021/11/10/microsoft-flight-simulator-new-aerosoft-crj-900-1000/)
+ - [Unity buys Peter Jackson VFX studio Weta Digital for $1.6 billion](https://www.pcgamer.com/unity-buys-peter-jackson-vfx-studio-weta-digital-for-dollar16-billion)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
