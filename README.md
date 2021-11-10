@@ -194,7 +194,7 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [LMFAO: Witness calls out prosecutors for attempting to coerce him into making a false statement&amp;hellip;](http://9gag.com/gag/aVxQrZn)
- - 🚯 [So many questions to ask? However he did a amazing job with the towel on.](http://9gag.com/gag/a0ZPGnd)
+ - 🚯 [Thanks to the OP who posted this last year. This is why we pay for internet.](http://9gag.com/gag/arnew3K)
  - 🚯 [Christmas is coming, time to make a wish](http://9gag.com/gag/aYrp6oq)<!-- MEMES:END -->
 
 --- 
