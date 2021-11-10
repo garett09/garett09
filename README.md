@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best AMD CPU Black Friday deals: save on an AMD Ryzen processor for your PC](https://www.pcgamer.com/amd-cpu-black-friday-deals-2021)
- - [League of Legends gets a rhythm runner from the makers of Bit.Trip](https://www.pcgamer.com/league-of-legends-gets-a-rhythm-runner-from-the-makers-of-bittrip)
- - [New World launches test server with changes to PVP, trading posts, and new enemies](https://www.pcgamer.com/new-world-launches-test-server-with-changes-to-pvp-trading-posts-and-new-enemies)<!-- GAME:END -->
+ - [PlayStation Store: October 2021’s top downloads](http://feedproxy.google.com/~r/PSBlog/~3/2PPOVwvcj5I/)
+ - [PlayStation Store: October 2021’s top downloads](https://blog.playstation.com/2021/11/10/playstation-store-october-2021s-top-downloads/)
+ - [10 Dope-Looking Games Fighting For A Chance To Get Finished](https://kotaku.com/10-dope-looking-games-fighting-for-a-chance-to-get-fini-1848027487)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
