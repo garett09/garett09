@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [YouTube will still let you dislike a video, but the world will never know](https://www.polygon.com/22775015/youtube-dislike-counter-button-change-blog-announcement)
- - [Play a corrupt businessman elected to the highest office in This is the President](https://www.pcgamer.com/play-a-corrupt-businessman-elected-to-the-highest-office-in-this-is-the-president)
- - [The first Elden Ring boss I fought is so freaking weird I thought it was bugged](https://www.pcgamer.com/the-first-elden-ring-boss-i-fought-is-so-freaking-weird-i-thought-it-was-bugged)<!-- GAME:END -->
+ - [Geoff Keighley promises no &#39;NFT stuff&#39; at this year&#39;s Game Awards](https://www.pcgamer.com/geoff-keighley-promises-no-nft-stuff-at-this-years-game-awards)
+ - [Yep, Naruto is coming to Fortnite](https://www.polygon.com/22775204/naruto-fortnite-epic-battle-royale-new-character)
+ - [Celebrate Thanksgiving by cooking mutant rats in the post-apocalypse](https://www.pcgamer.com/celebrate-thanksgiving-by-cooking-mutant-rats-in-the-post-apocalypse)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
