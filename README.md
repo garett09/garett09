@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to teach Siri to pronounce names correctly in iOS 15](https://appleinsider.com/articles/21/11/10/how-to-teach-siri-to-pronounce-names-correctly-in-ios-15?utm_medium=rss)
- - [Amazon Echo Glow review: A fun little smart lamp for all ages](https://www.androidauthority.com/amazon-echo-glow-review-3043928/)
- - [Juiced’s new fat-tire electric bike targets a younger generation of riders](https://www.theverge.com/2021/11/10/22774217/electric-bike-juiced-ripracer-specs-price-young-riders)<!-- TECH:END -->
+ - [Moderna&#39;s CEO on the Fight Over the Covid-19 Vaccine&#39;s Future](https://www.wired.com/story/rewired-2021-stephane-bancel-nahid-bhadelia)
+ - [YouTube removes dislike counts for all videos from the public eye](https://www.androidauthority.com/youtube-removes-dislike-counts-3056509/)
+ - [Twitter is launching a dedicated crypto team, part of its push toward decentralization](https://www.theverge.com/2021/11/10/22774501/twitter-crypto-dedicated-team-dorsey-square-decentralization)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
