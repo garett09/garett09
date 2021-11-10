@@ -194,8 +194,8 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [How&amp;#039;s it going, world?...](http://9gag.com/gag/a11Z84P)
- - 🚯 [Christmas is coming, time to make a wish](http://9gag.com/gag/aYrp6oq)
- - 🚯 [The LA Rams have an assistant coach whose job is to make sure Head Coach Sean McVay doesn&amp;#039;t run into the officials](http://9gag.com/gag/aM4b7YR)<!-- MEMES:END -->
+ - 🚯 [Zero.](http://9gag.com/gag/aeg3E1Q)
+ - 🚯 [Christmas is coming, time to make a wish](http://9gag.com/gag/aYrp6oq)<!-- MEMES:END -->
 
 --- 
 
