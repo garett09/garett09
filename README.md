@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s settlement with Qualcomm precludes it from invalidating patents, court decides](https://appleinsider.com/articles/21/11/10/apples-settlement-with-qualcomm-precludes-it-from-invalidating-patents-court-decides?utm_medium=rss)
- - [Valve delays Steam Deck from December 2021 to February 2022, citing supply chain issues &lpar;Andrew E. Freedman/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/211110/p38#a211110p38)
- - [Spotify makes it easier to block other users](https://www.theverge.com/2021/11/10/22775069/spotify-block-users-harassment-privacy)<!-- TECH:END -->
+ - [How to video capture your screen in macOS Monterey](https://appleinsider.com/articles/21/11/10/how-to-video-capture-your-screen-in-macos-monterey?utm_medium=rss)
+ - [Disney+ hits 118.1M subscribers in two years as growth slows to crawl](https://appleinsider.com/articles/21/11/10/disney-hits-1181m-subscribers-in-two-years-as-growth-slows-to-crawl?utm_medium=rss)
+ - [Withings’ ScanWatch with built-in EKG is finally available in the US](https://www.theverge.com/2021/11/10/22772984/withings-scanwatch-blood-oxygen-sleep-apnea-watch-fda)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
