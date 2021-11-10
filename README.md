@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [After 10 hours with Elden Ring, I&#39;m not sold on the open world](https://www.pcgamer.com/after-10-hours-with-elden-ring-im-not-sold-on-the-open-world)
- - [The biggest innovations Elden Ring brings to a winning formula](http://feedproxy.google.com/~r/PSBlog/~3/6LJdEHPEJVg/)
- - [The biggest innovations Elden Ring brings to a winning formula](https://blog.playstation.com/2021/11/10/the-biggest-innovations-elden-ring-brings-to-a-winning-formula/)<!-- GAME:END -->
+ - [GTA 3 cheats: All vehicle, weapon, and player codes for PC](https://www.pcgamer.com/gta-3-cheats-pc)
+ - [Discover the rambunctious recipes of Epic Chef, out tomorrow](http://feedproxy.google.com/~r/PSBlog/~3/QULGEziHnZM/)
+ - [Discover the rambunctious recipes of Epic Chef, out tomorrow](https://blog.playstation.com/2021/11/10/discover-the-rambunctious-recipes-of-epic-chef-out-tomorrow/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
