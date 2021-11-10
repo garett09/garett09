@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google launches Project Relate, a beta Android app that English speakers with speech impairments can use as a voice assistant, in the US, NZ, Canada, Australia &lpar;Justine Calma/The Verge&rpar;](http://www.techmeme.com/211110/p20#a211110p20)
- - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;Nov. 10&rpar;](https://www.androidauthority.com/wallpaper-wednesday-nov-10-2021-3054843/)
- - [Smart home company Level Home raises a $100M+ Series C led by Cox Communications, and acquires fellow smart home company Dwelo &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/211110/p19#a211110p19)<!-- TECH:END -->
+ - [How to recover a Google account if lost or hacked](https://www.androidauthority.com/recover-google-account-3055551/)
+ - [iPhone 13 Pro vs. Pixel 6 Pro: what 2,000 photos tell us](https://www.theverge.com/22769156/iphone-13-pro-vs-pixel-6-pro-camera-comparison-photos)
+ - [Updating The Verge’s background policy](https://www.theverge.com/press-room/22772113/the-verge-on-background-policy-update)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
