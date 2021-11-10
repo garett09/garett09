@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Stop being mean about Destiny 2&#39;s fashion mag, or Bungie will cancel it](https://www.pcgamer.com/stop-being-mean-about-destiny-2s-fashion-mag-or-bungie-will-cancel-it)
- - [Where to find the Star 27 mural in Forza Horizon 5](https://www.pcgamer.com/forza-horizon-5-star-27-mural-location-guide)
- - [Best cheap gaming PC right now](https://www.pcgamer.com/best-cheap-gaming-pc)<!-- GAME:END -->
+ - [The best AMD CPU Black Friday deals: save on an AMD Ryzen processor for your PC](https://www.pcgamer.com/amd-cpu-black-friday-deals-2021)
+ - [League of Legends gets a rhythm runner from the makers of Bit.Trip](https://www.pcgamer.com/league-of-legends-gets-a-rhythm-runner-from-the-makers-of-bittrip)
+ - [New World launches test server with changes to PVP, trading posts, and new enemies](https://www.pcgamer.com/new-world-launches-test-server-with-changes-to-pvp-trading-posts-and-new-enemies)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
