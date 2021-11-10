@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [You&amp;rsquo;re not you when you&amp;rsquo;re hungry p.2](http://9gag.com/gag/aeg38jb)
- - 🚯 [So this is the stairway to heaven?](http://9gag.com/gag/aM4bovX)
+ - 🚖 [Youtube tech guru is recognized by a young fan while shopping at Bestbuy. The kid has no idea that this encounter is about to change the trajectory of his day.](http://9gag.com/gag/aOQyMDR)
+ - 🚯 [I&amp;#039;m just glad he had fun](http://9gag.com/gag/aLvQ7PV)
  - 🚯 [Seems like I&amp;#039;ll be moving to Portugal](http://9gag.com/gag/arneQ4p)<!-- MEMES:END -->
 
 --- 
