@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Thanks to the OP who posted this last year. This is why we pay for internet.](http://9gag.com/gag/arnew3K)
- - 🚯 [Well you, Sir, are disk-qualified.](http://9gag.com/gag/aqGZwMv)
- - 🚯 [Was just able to stand up and eat for the first time after brain surgery yesterday.](http://9gag.com/gag/aeg3zDq)<!-- MEMES:END -->
+ - 🚖 [Horrific Climate change](http://9gag.com/gag/aAGV9wL)
+ - 🚯 [Rhino blinds](http://9gag.com/gag/azeL3rK)
+ - 🚯 [How they make fried rice on the street](http://9gag.com/gag/a11ZjdY)<!-- MEMES:END -->
 
 --- 
 
