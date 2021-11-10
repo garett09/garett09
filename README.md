@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Journalists and analysts talk of muted reactions to the Facebook Papers over Meta&#39;s failure to stop hate speech and misinformation in the Global South &lpar;Rest of World&rpar;](http://www.techmeme.com/211110/p1#a211110p1)
  - [Samsung Galaxy S22 series: All the rumors in one place &lpar;Updated: Nov. 10&rpar;](https://www.androidauthority.com/samsung-galaxy-s22-1643006/)
- - [Breach and attack simulation startup SafeBreach raises a $53.5M Series D led by Sonae IM and Israel Growth Partners, bringing its total raised to over $106M &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/211109/p49#a211109p49)
- - [Apple denied request to delay App Store changes resulting from Epic lawsuit](https://appleinsider.com/articles/21/11/10/apple-denied-request-to-delay-app-store-changes-resulting-from-epic-lawsuit?utm_medium=rss)<!-- TECH:END -->
+ - [Best period underwear in 2021     - CNET](https://www.cnet.com/health/personal-care/best-period-underwear/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
