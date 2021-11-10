@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Winston joking](http://9gag.com/gag/aOQyLgR)
- - 🚯 [Played this to my cats and they&amp;#039;re all act the same way](http://9gag.com/gag/aqGZo7Y)
- - 🚯 [You&amp;rsquo;re not you when you&amp;rsquo;re hungry p.2](http://9gag.com/gag/aeg38jb)<!-- MEMES:END -->
+ - 🚖 [You&amp;rsquo;re not you when you&amp;rsquo;re hungry p.2](http://9gag.com/gag/aeg38jb)
+ - 🚯 [So this is the stairway to heaven?](http://9gag.com/gag/aM4bovX)
+ - 🚯 [Seems like I&amp;#039;ll be moving to Portugal](http://9gag.com/gag/arneQ4p)<!-- MEMES:END -->
 
 --- 
 
