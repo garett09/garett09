@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Wet](http://9gag.com/gag/a51NOeN)
+ - 🚖 [Chad chaderson &lpar;source : notqualiteaposts&rpar;](http://9gag.com/gag/aPZyqEP)
  - 🚯 [A ruthless air strike by the Italian military, 1938 &lpar;colourised&rpar;](http://9gag.com/gag/aNPoEpv)
- - 🚯 [It&amp;#039;s true you know](http://9gag.com/gag/aLvQEqM)<!-- MEMES:END -->
+ - 🚯 [Only men can relate](http://9gag.com/gag/aKmgM9b)<!-- MEMES:END -->
 
 --- 
 
