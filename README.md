@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Marvel’s The Thing #1 is the work of a master storyteller and longtime fan](https://www.polygon.com/reviews/22774482/the-thing-2021-first-issue-review-walter-mosley-tom-reilly)
- - [2K and Gearbox Release Tiny Tina’s Assault on Dragon Keep: A Wonderlands One-Shot Adventure](https://news.xbox.com/en-us/2021/11/10/2k-and-gearbox-release-tiny-tinas-assault-on-dragon-keep-a-wonderlands-one-shot-adventure/)
- - [Forza Horizon 5 Is Finally Stealing The Show For Microsoft](https://kotaku.com/forza-horizon-5-is-finally-stealing-the-show-for-micros-1848034238)<!-- GAME:END -->
+ - [YouTube will still let you dislike a video, but the world will never know](https://www.polygon.com/22775015/youtube-dislike-counter-button-change-blog-announcement)
+ - [Play a corrupt businessman elected to the highest office in This is the President](https://www.pcgamer.com/play-a-corrupt-businessman-elected-to-the-highest-office-in-this-is-the-president)
+ - [The first Elden Ring boss I fought is so freaking weird I thought it was bugged](https://www.pcgamer.com/the-first-elden-ring-boss-i-fought-is-so-freaking-weird-i-thought-it-was-bugged)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
