@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Reykjavik](http://9gag.com/gag/avAZjYb)
- - 🚯 [Die antwoord](http://9gag.com/gag/aqGZo1Y)
- - 🚯 [Jobs to die for !!!](http://9gag.com/gag/aE8G4L9)<!-- MEMES:END -->
+ - 🚖 [Wet](http://9gag.com/gag/a51NOeN)
+ - 🚯 [A ruthless air strike by the Italian military, 1938 &lpar;colourised&rpar;](http://9gag.com/gag/aNPoEpv)
+ - 🚯 [It&amp;#039;s true you know](http://9gag.com/gag/aLvQEqM)<!-- MEMES:END -->
 
 --- 
 
