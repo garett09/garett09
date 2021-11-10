@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Facebook and Instagram will delete ‘sensitive’ ad targeting groups linked to race, politics](https://www.theverge.com/2021/11/9/22773038/meta-detailed-targeting-ads-facebook-instagram-messenger)
- - [An internal September 2018 Facebook memo found ~40% of traffic to Pages went to those with plagiarized or recycled content &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/211109/p42#a211109p42)
- - [How to Watch RE:WIRED 2021](https://www.wired.com/story/how-to-watch-rewired-2021)<!-- TECH:END -->
+ - [Apple denied request to delay App Store changes resulting from Epic lawsuit](https://appleinsider.com/articles/21/11/10/apple-denied-request-to-delay-app-store-changes-resulting-from-epic-lawsuit?utm_medium=rss)
+ - [How to Watch RE:WIRED 2021](https://www.wired.com/story/how-to-watch-rewired-2021)
+ - [Judge in Epic v. Apple trial says Apple must comply with an order letting developers link to external payment options, denying Apple&#39;s stay request &lpar;Adi Robertson/The Verge&rpar;](http://www.techmeme.com/211109/p43#a211109p43)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
