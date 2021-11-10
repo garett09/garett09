@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Uber discriminates against people with disabilities, new DOJ lawsuit alleges](https://www.theverge.com/2021/11/10/22774771/uber-disabled-discrimination-lawsuit-justice-department)
- - [Apple releases second public betas of iOS 15.2, tvOS 15.2, watchOS 8.3, macOS Monterey 12.1](https://appleinsider.com/articles/21/11/10/apple-releases-second-public-betas-of-ios-152-tvos-152-watchos-83-macos-monterey-121?utm_medium=rss)
- - [How to teach Siri to pronounce names correctly in iOS 15](https://appleinsider.com/articles/21/11/10/how-to-teach-siri-to-pronounce-names-correctly-in-ios-15?utm_medium=rss)<!-- TECH:END -->
+ - [How to Watch RE:WIRED 2021](https://www.wired.com/story/how-to-watch-rewired-2021)
+ - [Instagram is testing a Take a Break feature](https://www.theverge.com/2021/11/10/22774827/instagram-take-a-break-feature-test-meta-facebook)
+ - [Beeple Will Update a New $29M Piece ‘For the Rest of My Life’](https://www.wired.com/story/rewired-2021-beeple-greg-williams)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
