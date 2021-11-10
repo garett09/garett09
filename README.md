@@ -194,8 +194,8 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Pfff..yeah?](http://9gag.com/gag/awzbp3W)
- - 🚯 [How it morphed from a man in a spidey costume to a frog is beyond me.](http://9gag.com/gag/a31dOxe)
- - 🚯 [Weebs](http://9gag.com/gag/awzbpb8)<!-- MEMES:END -->
+ - 🚯 [Horrific Climate change](http://9gag.com/gag/aAGV9wL)
+ - 🚯 [Chad chaderson &lpar;source : notqualiteaposts&rpar;](http://9gag.com/gag/aPZyqEP)<!-- MEMES:END -->
 
 --- 
 
