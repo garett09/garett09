@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Moderna&#39;s CEO on the Fight Over the Covid-19 Vaccine&#39;s Future](https://www.wired.com/story/rewired-2021-stephane-bancel-nahid-bhadelia)
- - [YouTube removes dislike counts for all videos from the public eye](https://www.androidauthority.com/youtube-removes-dislike-counts-3056509/)
- - [Twitter is launching a dedicated crypto team, part of its push toward decentralization](https://www.theverge.com/2021/11/10/22774501/twitter-crypto-dedicated-team-dorsey-square-decentralization)<!-- TECH:END -->
+ - [Uber discriminates against people with disabilities, new DOJ lawsuit alleges](https://www.theverge.com/2021/11/10/22774771/uber-disabled-discrimination-lawsuit-justice-department)
+ - [Apple releases second public betas of iOS 15.2, tvOS 15.2, watchOS 8.3, macOS Monterey 12.1](https://appleinsider.com/articles/21/11/10/apple-releases-second-public-betas-of-ios-152-tvos-152-watchos-83-macos-monterey-121?utm_medium=rss)
+ - [How to teach Siri to pronounce names correctly in iOS 15](https://appleinsider.com/articles/21/11/10/how-to-teach-siri-to-pronounce-names-correctly-in-ios-15?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
