@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elden Ring hands-on: an open world so pretty you won’t mind dying a lot](https://www.theverge.com/2021/11/10/22774836/elden-ring-fromsoftware-hands-on-preview)
- - [Expensify, which offers an expense management app for personal and business use, raises $70.2M in its IPO, with shares closing up 52.07% on its trading debut &lpar;Emily Bary/MarketWatch&rpar;](http://www.techmeme.com/211110/p36#a211110p36)
- - [How to install and manage apps for Messages on iOS 15 and iPadOS 15](https://appleinsider.com/articles/21/11/10/how-to-install-and-manage-apps-for-messages-on-ios-15-and-ipados-15?utm_medium=rss)<!-- TECH:END -->
+ - [Apple&#39;s settlement with Qualcomm precludes it from invalidating patents, court decides](https://appleinsider.com/articles/21/11/10/apples-settlement-with-qualcomm-precludes-it-from-invalidating-patents-court-decides?utm_medium=rss)
+ - [Valve delays Steam Deck from December 2021 to February 2022, citing supply chain issues &lpar;Andrew E. Freedman/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/211110/p38#a211110p38)
+ - [Spotify makes it easier to block other users](https://www.theverge.com/2021/11/10/22775069/spotify-block-users-harassment-privacy)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
