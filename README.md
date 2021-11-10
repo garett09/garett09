@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Horrific Climate change](http://9gag.com/gag/aAGV9wL)
- - 🚯 [Rhino blinds](http://9gag.com/gag/azeL3rK)
- - 🚯 [How they make fried rice on the street](http://9gag.com/gag/a11ZjdY)<!-- MEMES:END -->
+ - 🚖 [Weebs](http://9gag.com/gag/awzbpb8)
+ - 🚯 [This real Stunt From 1924...](http://9gag.com/gag/aVxQ6g8)
+ - 🚯 [Horrific Climate change](http://9gag.com/gag/aAGV9wL)<!-- MEMES:END -->
 
 --- 
 
