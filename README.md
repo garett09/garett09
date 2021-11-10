@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [PlayStation Store: October 2021’s top downloads](http://feedproxy.google.com/~r/PSBlog/~3/2PPOVwvcj5I/)
- - [PlayStation Store: October 2021’s top downloads](https://blog.playstation.com/2021/11/10/playstation-store-october-2021s-top-downloads/)
- - [10 Dope-Looking Games Fighting For A Chance To Get Finished](https://kotaku.com/10-dope-looking-games-fighting-for-a-chance-to-get-fini-1848027487)<!-- GAME:END -->
+ - [After 10 hours with Elden Ring, I&#39;m not sold on the open world](https://www.pcgamer.com/after-10-hours-with-elden-ring-im-not-sold-on-the-open-world)
+ - [The biggest innovations Elden Ring brings to a winning formula](http://feedproxy.google.com/~r/PSBlog/~3/6LJdEHPEJVg/)
+ - [The biggest innovations Elden Ring brings to a winning formula](https://blog.playstation.com/2021/11/10/the-biggest-innovations-elden-ring-brings-to-a-winning-formula/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
