@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Adapt. Improvise. Overcome.](http://9gag.com/gag/amgLyn2)
- - 🚯 [LMFAO: Witness calls out prosecutors for attempting to coerce him into making a false statement&amp;hellip;](http://9gag.com/gag/aVxQrZn)
- - 🚯 [Zero.](http://9gag.com/gag/aeg3E1Q)<!-- MEMES:END -->
+ - 🚖 [How they make fried rice on the street](http://9gag.com/gag/a11ZjdY)
+ - 🚯 [So many questions to ask? However he did a amazing job with the towel on.](http://9gag.com/gag/a0ZPGnd)
+ - 🚯 [That faces](http://9gag.com/gag/aE8G50e)<!-- MEMES:END -->
 
 --- 
 
