@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Judge denies Apple&#39;s request for a stay after Epic trial](https://www.pcgamer.com/judge-denies-apples-request-for-a-stay-after-epic-trial)
  - [Horror Developer Makes &#39;Hostile&#39; Kickstarter Update, Then Apologizes To Fans](https://kotaku.com/horror-developer-makes-hostile-kickstarter-update-then-1848028178)
- - [Cyber Monday 2021 in Australia: as tick follows tock, Cyber Monday deals will follow Black Friday](https://www.pcgamer.com/cyber-monday-2021-in-australia-as-tick-follows-tock-cyber-monday-deals-will-follow-black-friday)
- - [Football Manager 2022 and Football Manager 2022 Xbox Edition Available Now with Xbox Game Pass](https://news.xbox.com/en-us/2021/11/09/football-manager-2022-and-football-manager-2022-xbox-edition-available-now-with-game-pass/)<!-- GAME:END -->
+ - [Cyber Monday 2021 in Australia: as tick follows tock, Cyber Monday deals will follow Black Friday](https://www.pcgamer.com/cyber-monday-2021-in-australia-as-tick-follows-tock-cyber-monday-deals-will-follow-black-friday)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
