@@ -187,7 +187,7 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- TECH:START -->
  - [Apple denied request to delay App Store changes resulting from Epic lawsuit](https://appleinsider.com/articles/21/11/10/apple-denied-request-to-delay-app-store-changes-resulting-from-epic-lawsuit?utm_medium=rss)
- - [How to Watch RE:WIRED 2021](https://www.wired.com/story/how-to-watch-rewired-2021)
+ - [Elizabeth Holmes hired a bunch of experts so she could ignore them](https://www.theverge.com/2021/11/9/22773393/elizabeth-holmes-theranos-fraud-lab-director)
  - [Judge in Epic v. Apple trial says Apple must comply with an order letting developers link to external payment options, denying Apple&#39;s stay request &lpar;Adi Robertson/The Verge&rpar;](http://www.techmeme.com/211109/p43#a211109p43)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
