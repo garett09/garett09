@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Weebs](http://9gag.com/gag/awzbpb8)
- - 🚯 [This real Stunt From 1924...](http://9gag.com/gag/aVxQ6g8)
- - 🚯 [Horrific Climate change](http://9gag.com/gag/aAGV9wL)<!-- MEMES:END -->
+ - 🚖 [Pfff..yeah?](http://9gag.com/gag/awzbp3W)
+ - 🚯 [How it morphed from a man in a spidey costume to a frog is beyond me.](http://9gag.com/gag/a31dOxe)
+ - 🚯 [Weebs](http://9gag.com/gag/awzbpb8)<!-- MEMES:END -->
 
 --- 
 
