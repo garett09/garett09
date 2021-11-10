@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nykaa, an Indian e-commerce company for beauty products, rose 89% in its Indian market debut after raising $721M in its IPO, gaining a valuation of $13B &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/211110/p2#a211110p2)
- - [Microsoft’s latest Surface laptop is its cheapest one yet &lpar;for a reason&rpar;](https://www.androidauthority.com/microsoft-surface-laptop-se-3055911/)
- - [Best MacBook for 2021     - CNET](https://www.cnet.com/tech/computing/best-macbook/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Samsung takes aim at Apple with free cleaning cloth offer](https://www.androidauthority.com/samsung-apple-free-cleaning-cloth-3055949/)
+ - [Consumer advocates say buy now, pay later services like Afterpay and Affirm can be especially confusing for younger users and make it easy to get overextended &lpar;Sidney Fussell/Wired&rpar;](http://www.techmeme.com/211110/p4#a211110p4)
+ - [Datafold, a data reliability startup that automates the most tedious parts of data engineering workflows, raises a $20M Series A led by NEA and Amplify Partners &lpar;Sean Michael Kerner/SearchDataManagement&rpar;](http://www.techmeme.com/211110/p3#a211110p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
