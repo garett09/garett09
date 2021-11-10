@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Horror is Deep Fried in Happy’s Humble Burger Farm](https://news.xbox.com/en-us/2021/11/10/horror-is-deep-fried-in-happys-humble-burger-farm/)
- - [The best show on TV is coming back really soon](https://www.polygon.com/22774614/how-to-with-john-wilson-the-best-show-on-tv)
- - [The best wonderkids in Football Manager 2022](https://www.pcgamer.com/best-fm22-wonderkids-cheap-players-bargains)<!-- GAME:END -->
+ - [Call of Duty: Vanguard players are glitching their way to the most exclusive gun camo](https://www.polygon.com/22774733/call-of-duty-vanguard-atomic-camo-glitch-exploit)
+ - [The Latest Paladins Update Descends on the Realm](https://news.xbox.com/en-us/2021/11/10/the-latest-paladins-update-descends-on-the-realm/)
+ - [Grand Theft Auto: The Trilogy Tracklist Leaks, And It&#39;s Missing Some Classics](https://kotaku.com/grand-theft-auto-the-trilogy-tracklist-leaks-and-its-1848032661)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
