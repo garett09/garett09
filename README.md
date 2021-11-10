@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How&amp;#039;s it going, world?...](http://9gag.com/gag/a11Z84P)
- - 🚯 [Zero.](http://9gag.com/gag/aeg3E1Q)
- - 🚯 [Christmas is coming, time to make a wish](http://9gag.com/gag/aYrp6oq)<!-- MEMES:END -->
+ - 🚖 [Adapt. Improvise. Overcome.](http://9gag.com/gag/amgLyn2)
+ - 🚯 [LMFAO: Witness calls out prosecutors for attempting to coerce him into making a false statement&amp;hellip;](http://9gag.com/gag/aVxQrZn)
+ - 🚯 [Zero.](http://9gag.com/gag/aeg3E1Q)<!-- MEMES:END -->
 
 --- 
 
