@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Journalists and analysts talk of muted reactions to the Facebook Papers over Meta&#39;s failure to stop hate speech and misinformation in the Global South &lpar;Rest of World&rpar;](http://www.techmeme.com/211110/p1#a211110p1)
- - [Samsung Galaxy S22 series: All the rumors in one place &lpar;Updated: Nov. 10&rpar;](https://www.androidauthority.com/samsung-galaxy-s22-1643006/)
- - [Best period underwear in 2021     - CNET](https://www.cnet.com/health/personal-care/best-period-underwear/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Nykaa, an Indian e-commerce company for beauty products, rose 89% in its Indian market debut after raising $721M in its IPO, gaining a valuation of $13B &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/211110/p2#a211110p2)
+ - [Microsoft’s latest Surface laptop is its cheapest one yet &lpar;for a reason&rpar;](https://www.androidauthority.com/microsoft-surface-laptop-se-3055911/)
+ - [Best MacBook for 2021     - CNET](https://www.cnet.com/tech/computing/best-macbook/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
