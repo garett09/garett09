@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to recover a Google account if lost or hacked](https://www.androidauthority.com/recover-google-account-3055551/)
- - [iPhone 13 Pro vs. Pixel 6 Pro: what 2,000 photos tell us](https://www.theverge.com/22769156/iphone-13-pro-vs-pixel-6-pro-camera-comparison-photos)
- - [Updating The Verge’s background policy](https://www.theverge.com/press-room/22772113/the-verge-on-background-policy-update)<!-- TECH:END -->
+ - [Samsung Galaxy S20 lineup getting November security patch](https://www.androidauthority.com/samsung-galaxy-s20-update-1087091/)
+ - [Apple unveils Business Essentials for SMBs, with device management, iCloud storage, and more, starting at $2.99 per month per user and launching in Spring 2022 &lpar;Bradley Chambers/9to5Mac&rpar;](http://www.techmeme.com/211110/p28#a211110p28)
+ - [Every Bluetooth headset should have this setting](https://www.androidauthority.com/bluetooth-headset-switching-3054741/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
