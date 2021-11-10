@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Eiichiro Oda Gives An Update On Netflix&#39;s Live-Action One Piece Series](https://kotaku.com/eiichiro-oda-gives-an-update-on-netflixs-live-action-on-1848029434)
- - [Here&#39;s when the Grand Theft Auto Trilogy unlocks](https://www.pcgamer.com/gta-trilogy-unlock-time)
- - [Judge denies Apple&#39;s request for a stay after Epic trial](https://www.pcgamer.com/judge-denies-apples-request-for-a-stay-after-epic-trial)<!-- GAME:END -->
+ - [This new $499.99 flight yoke and quadrant is as realistic as it gets](https://www.pcgamer.com/this-new-dollar49999-flight-yoke-and-quadrant-is-as-realistic-as-it-gets)
+ - [Noctua&#39;s updated NH-L9i low-profile coolers for 12th Gen look cool as heck](https://www.pcgamer.com/noctuas-updated-nh-l9i-low-profile-coolers-for-12th-gen-look-cool-as-heck)
+ - [Eiichiro Oda Gives An Update On Netflix&#39;s Live-Action One Piece Series](https://kotaku.com/eiichiro-oda-gives-an-update-on-netflixs-live-action-on-1848029434)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
