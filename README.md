@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple denied request to delay App Store changes resulting from Epic lawsuit](https://appleinsider.com/articles/21/11/10/apple-denied-request-to-delay-app-store-changes-resulting-from-epic-lawsuit?utm_medium=rss)
- - [Elizabeth Holmes hired a bunch of experts so she could ignore them](https://www.theverge.com/2021/11/9/22773393/elizabeth-holmes-theranos-fraud-lab-director)
- - [Judge in Epic v. Apple trial says Apple must comply with an order letting developers link to external payment options, denying Apple&#39;s stay request &lpar;Adi Robertson/The Verge&rpar;](http://www.techmeme.com/211109/p43#a211109p43)<!-- TECH:END -->
+ - [Apple mulls cryptocurrency support in Apple Pay as competitors build lead](https://appleinsider.com/articles/21/11/10/apple-mulls-cryptocurrency-support-in-apple-pay-as-competitors-build-lead?utm_medium=rss)
+ - [Threekit, which helps companies create 3D and AR product experiences to let customers visualize items while shopping online, raises a $35M Series B &lpar;Jim Dallke/Chicago Business Journal&rpar;](http://www.techmeme.com/211109/p45#a211109p45)
+ - [VergeSense, which uses computer vision to help companies understand how their office spaces are being used, raises a $60M Series C led by Scale Venture Partners &lpar;Kyle Wiggers/VentureBeat&rpar;](http://www.techmeme.com/211109/p44#a211109p44)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
