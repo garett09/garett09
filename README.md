@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitter Blue launches in US, New Zealand with &#39;Undo Tweet&#39; feature](https://appleinsider.com/articles/21/11/10/twitter-blue-launches-in-us-new-zealand-with-undo-tweet-feature?utm_medium=rss)
- - [Johnson &amp; Johnson CEO Alex Gorsky joins Apple&#39;s board of directors](https://appleinsider.com/articles/21/11/09/johnson-johnson-ceo-alex-gorsky-joins-apples-board-of-directors?utm_medium=rss)
- - [Jumo, a fintech helping entrepreneurs of SMBs in emerging markets gain access to loans, raises $120M led by Fidelity, report says at a $400M valuation &lpar;Tage Kene-Okafor/TechCrunch&rpar;](http://www.techmeme.com/211109/p47#a211109p47)<!-- TECH:END -->
+ - [Samsung Galaxy S22 series: All the rumors in one place &lpar;Updated: Nov. 10&rpar;](https://www.androidauthority.com/samsung-galaxy-s22-1643006/)
+ - [Breach and attack simulation startup SafeBreach raises a $53.5M Series D led by Sonae IM and Israel Growth Partners, bringing its total raised to over $106M &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/211109/p49#a211109p49)
+ - [Apple denied request to delay App Store changes resulting from Epic lawsuit](https://appleinsider.com/articles/21/11/10/apple-denied-request-to-delay-app-store-changes-resulting-from-epic-lawsuit?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
