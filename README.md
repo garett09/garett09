@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Youtube tech guru is recognized by a young fan while shopping at Bestbuy. The kid has no idea that this encounter is about to change the trajectory of his day.](http://9gag.com/gag/aOQyMDR)
- - 🚯 [Teamwork](http://9gag.com/gag/a21P3Xw)
- - 🚯 [Wet](http://9gag.com/gag/a51NOeN)<!-- MEMES:END -->
+ - 🚖 [The new Star Wars is lit](http://9gag.com/gag/a91MoE6)
+ - 🚯 [So basically we&amp;#039;re very smol &lpar;sorry but I couldn&amp;#039;t find an undubbed version, I was busy sucking dicks but not busy enough to add some subs&rpar;](http://9gag.com/gag/aYrp96x)
+ - 🚯 [Teamwork](http://9gag.com/gag/a21P3Xw)<!-- MEMES:END -->
 
 --- 
 
