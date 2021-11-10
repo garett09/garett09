@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How it morphed from a man in a spidey costume to a frog is beyond me.](http://9gag.com/gag/a31dOxe)
- - 🚯 [Jobs to die for !!!](http://9gag.com/gag/aE8G4L9)
- - 🚯 [Oh well](http://9gag.com/gag/aWg0X63)<!-- MEMES:END -->
+ - 🚖 [Reykjavik](http://9gag.com/gag/avAZjYb)
+ - 🚯 [Die antwoord](http://9gag.com/gag/aqGZo1Y)
+ - 🚯 [Jobs to die for !!!](http://9gag.com/gag/aE8G4L9)<!-- MEMES:END -->
 
 --- 
 
