@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Eiichiro Oda Gives An Update On Netflix&#39;s Live-Action One Piece Series](https://kotaku.com/eiichiro-oda-gives-an-update-on-netflixs-live-action-on-1848029434)
  - [Here&#39;s when the Grand Theft Auto Trilogy unlocks](https://www.pcgamer.com/gta-trilogy-unlock-time)
- - [Judge denies Apple&#39;s request for a stay after Epic trial](https://www.pcgamer.com/judge-denies-apples-request-for-a-stay-after-epic-trial)
- - [Horror Developer Makes &#39;Hostile&#39; Kickstarter Update, Then Apologizes To Fans](https://kotaku.com/horror-developer-makes-hostile-kickstarter-update-then-1848028178)<!-- GAME:END -->
+ - [Judge denies Apple&#39;s request for a stay after Epic trial](https://www.pcgamer.com/judge-denies-apples-request-for-a-stay-after-epic-trial)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
