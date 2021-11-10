@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Package thief falls down and injures herself right after taking the package.](http://9gag.com/gag/aDDweyN)
- - 🚯 [Seems like I&amp;#039;ll be moving to Portugal](http://9gag.com/gag/arneQ4p)
- - 🚯 [Her laugh made this video even better](http://9gag.com/gag/awzbwX4)<!-- MEMES:END -->
+ - 🚖 [Youtube tech guru is recognized by a young fan while shopping at Bestbuy. The kid has no idea that this encounter is about to change the trajectory of his day.](http://9gag.com/gag/aOQyMDR)
+ - 🚯 [Teamwork](http://9gag.com/gag/a21P3Xw)
+ - 🚯 [Wet](http://9gag.com/gag/a51NOeN)<!-- MEMES:END -->
 
 --- 
 
