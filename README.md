@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung takes aim at Apple with free cleaning cloth offer](https://www.androidauthority.com/samsung-apple-free-cleaning-cloth-3055949/)
- - [Consumer advocates say buy now, pay later services like Afterpay and Affirm can be especially confusing for younger users and make it easy to get overextended &lpar;Sidney Fussell/Wired&rpar;](http://www.techmeme.com/211110/p4#a211110p4)
- - [Datafold, a data reliability startup that automates the most tedious parts of data engineering workflows, raises a $20M Series A led by NEA and Amplify Partners &lpar;Sean Michael Kerner/SearchDataManagement&rpar;](http://www.techmeme.com/211110/p3#a211110p3)<!-- TECH:END -->
+ - [Anker CEO on EU&#39;s proposed USB-C legislation, Apple&#39;s MFI program, taking bets on new tech like gallium nitride, building a D2C business on Amazon, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/211110/p5#a211110p5)
+ - [The best iPhone 13 Pro Max MagSafe cases you can buy](https://www.androidauthority.com/iphone-13-pro-max-magsafe-cases-3054859/)
+ - [The best Pixel 6 Pro clear cases you can get](https://www.androidauthority.com/best-pixel-6-pro-clear-cases-3052701/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
