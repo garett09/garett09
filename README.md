@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [You&amp;rsquo;re not you when you&amp;rsquo;re hungry p.2](http://9gag.com/gag/aeg38jb)
+ - 🚖 [How it morphed from a man in a spidey costume to a frog is beyond me.](http://9gag.com/gag/a31dOxe)
  - 🚯 [Jobs to die for !!!](http://9gag.com/gag/aE8G4L9)
- - 🚯 [Atlanta Security Guard taxes out of control woman.](http://9gag.com/gag/amgLw4j)<!-- MEMES:END -->
+ - 🚯 [Oh well](http://9gag.com/gag/aWg0X63)<!-- MEMES:END -->
 
 --- 
 
