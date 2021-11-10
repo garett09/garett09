@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How the classic mystery series Columbo influenced Ace Attorney](https://www.polygon.com/videos/22770046/ace-attorney-70s-tv-show-inspiration)
- - [Thunderful World 2021 – New Games Coming to Xbox from Thunderful!](https://news.xbox.com/en-us/2021/11/10/thunderful-world-2021-new-games-coming-to-xbox-from-thunderful/)
- - [These Game Developers Are Choosing To Turn Down NFT Money](https://kotaku.com/these-game-developers-are-choosing-to-turn-down-nft-mon-1848033460)<!-- GAME:END -->
+ - [Marvel’s The Thing #1 is the work of a master storyteller and longtime fan](https://www.polygon.com/reviews/22774482/the-thing-2021-first-issue-review-walter-mosley-tom-reilly)
+ - [2K and Gearbox Release Tiny Tina’s Assault on Dragon Keep: A Wonderlands One-Shot Adventure](https://news.xbox.com/en-us/2021/11/10/2k-and-gearbox-release-tiny-tinas-assault-on-dragon-keep-a-wonderlands-one-shot-adventure/)
+ - [Forza Horizon 5 Is Finally Stealing The Show For Microsoft](https://kotaku.com/forza-horizon-5-is-finally-stealing-the-show-for-micros-1848034238)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
