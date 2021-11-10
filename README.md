@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anker CEO on EU&#39;s proposed USB-C legislation, Apple&#39;s MFI program, taking bets on new tech like gallium nitride, building a D2C business on Amazon, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/211110/p5#a211110p5)
- - [The best iPhone 13 Pro Max MagSafe cases you can buy](https://www.androidauthority.com/iphone-13-pro-max-magsafe-cases-3054859/)
- - [The best Pixel 6 Pro clear cases you can get](https://www.androidauthority.com/best-pixel-6-pro-clear-cases-3052701/)<!-- TECH:END -->
+ - [Tencent reports Q3 revenue of $22B, up 13% YoY, net profit of $6.18B, up 3% YoY; sales from mobile games rose 9% to ~$6.65B &lpar;Reuters&rpar;](http://www.techmeme.com/211110/p6#a211110p6)
+ - [Samsung Exynos event confirmed: New SoC coming? &lpar;Updated: Nope&rpar;](https://www.androidauthority.com/samsung-exynos-amd-event-3055144/)
+ - [Grand Theft Auto remaster gameplay footage leaks online](https://www.theverge.com/2021/11/10/22773988/grand-theft-auto-remaster-definitive-edition-gameplay-footage-leak-youtube-reddit)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
