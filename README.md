@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy S20 lineup getting November security patch](https://www.androidauthority.com/samsung-galaxy-s20-update-1087091/)
- - [Apple unveils Business Essentials for SMBs, with device management, iCloud storage, and more, starting at $2.99 per month per user and launching in Spring 2022 &lpar;Bradley Chambers/9to5Mac&rpar;](http://www.techmeme.com/211110/p28#a211110p28)
- - [Every Bluetooth headset should have this setting](https://www.androidauthority.com/bluetooth-headset-switching-3054741/)<!-- TECH:END -->
+ - [How to teach Siri to pronounce names correctly in iOS 15](https://appleinsider.com/articles/21/11/10/how-to-teach-siri-to-pronounce-names-correctly-in-ios-15?utm_medium=rss)
+ - [Amazon Echo Glow review: A fun little smart lamp for all ages](https://www.androidauthority.com/amazon-echo-glow-review-3043928/)
+ - [Juiced’s new fat-tire electric bike targets a younger generation of riders](https://www.theverge.com/2021/11/10/22774217/electric-bike-juiced-ripracer-specs-price-young-riders)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
