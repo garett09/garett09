@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple mulls cryptocurrency support in Apple Pay as competitors build lead](https://appleinsider.com/articles/21/11/10/apple-mulls-cryptocurrency-support-in-apple-pay-as-competitors-build-lead?utm_medium=rss)
- - [Threekit, which helps companies create 3D and AR product experiences to let customers visualize items while shopping online, raises a $35M Series B &lpar;Jim Dallke/Chicago Business Journal&rpar;](http://www.techmeme.com/211109/p45#a211109p45)
- - [VergeSense, which uses computer vision to help companies understand how their office spaces are being used, raises a $60M Series C led by Scale Venture Partners &lpar;Kyle Wiggers/VentureBeat&rpar;](http://www.techmeme.com/211109/p44#a211109p44)<!-- TECH:END -->
+ - [Twitter Blue launches in US, New Zealand with &#39;Undo Tweet&#39; feature](https://appleinsider.com/articles/21/11/10/twitter-blue-launches-in-us-new-zealand-with-undo-tweet-feature?utm_medium=rss)
+ - [Johnson &amp; Johnson CEO Alex Gorsky joins Apple&#39;s board of directors](https://appleinsider.com/articles/21/11/09/johnson-johnson-ceo-alex-gorsky-joins-apples-board-of-directors?utm_medium=rss)
+ - [Jumo, a fintech helping entrepreneurs of SMBs in emerging markets gain access to loans, raises $120M led by Fidelity, report says at a $400M valuation &lpar;Tage Kene-Okafor/TechCrunch&rpar;](http://www.techmeme.com/211109/p47#a211109p47)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
