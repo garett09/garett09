@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Big Among Us update adds four new roles, an XP system, and multiple currencies](https://www.pcgamer.com/big-among-us-update-adds-four-new-roles-an-xp-system-and-multiple-currencies)
- - [Microsoft Flight Simulator Announces Release of the New Aerosoft CRJ 900/1000](https://news.xbox.com/en-us/2021/11/10/microsoft-flight-simulator-new-aerosoft-crj-900-1000/)
- - [Unity buys Peter Jackson VFX studio Weta Digital for $1.6 billion](https://www.pcgamer.com/unity-buys-peter-jackson-vfx-studio-weta-digital-for-dollar16-billion)<!-- GAME:END -->
+ - [Horror is Deep Fried in Happy’s Humble Burger Farm](https://news.xbox.com/en-us/2021/11/10/horror-is-deep-fried-in-happys-humble-burger-farm/)
+ - [The best show on TV is coming back really soon](https://www.polygon.com/22774614/how-to-with-john-wilson-the-best-show-on-tv)
+ - [The best wonderkids in Football Manager 2022](https://www.pcgamer.com/best-fm22-wonderkids-cheap-players-bargains)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
