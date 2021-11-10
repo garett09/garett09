@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Call of Duty: Vanguard players are glitching their way to the most exclusive gun camo](https://www.polygon.com/22774733/call-of-duty-vanguard-atomic-camo-glitch-exploit)
- - [The Latest Paladins Update Descends on the Realm](https://news.xbox.com/en-us/2021/11/10/the-latest-paladins-update-descends-on-the-realm/)
- - [Grand Theft Auto: The Trilogy Tracklist Leaks, And It&#39;s Missing Some Classics](https://kotaku.com/grand-theft-auto-the-trilogy-tracklist-leaks-and-its-1848032661)<!-- GAME:END -->
+ - [How the classic mystery series Columbo influenced Ace Attorney](https://www.polygon.com/videos/22770046/ace-attorney-70s-tv-show-inspiration)
+ - [Thunderful World 2021 – New Games Coming to Xbox from Thunderful!](https://news.xbox.com/en-us/2021/11/10/thunderful-world-2021-new-games-coming-to-xbox-from-thunderful/)
+ - [These Game Developers Are Choosing To Turn Down NFT Money](https://kotaku.com/these-game-developers-are-choosing-to-turn-down-nft-mon-1848033460)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
