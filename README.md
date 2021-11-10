@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Motorola Edge 20 Pro review: On the edge of success](https://www.androidauthority.com/motorola-edge-20-pro-review-3045973/)
- - [Latest iOS beta lets you manually scan for sneaky AirTags](https://www.theverge.com/2021/11/10/22774124/ios-15-2-beta-2-airtag-tracker-scan-privacy-invasion)
- - [New 14-inch MacBook Pro review: Where the &#39;Pro&#39; starts](https://appleinsider.com/articles/21/11/09/new-14-inch-macbook-pro-review-where-the-pro-starts?utm_medium=rss)<!-- TECH:END -->
+ - [Google launches Project Relate, a beta Android app that English speakers with speech impairments can use as a voice assistant, in the US, NZ, Canada, Australia &lpar;Justine Calma/The Verge&rpar;](http://www.techmeme.com/211110/p20#a211110p20)
+ - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;Nov. 10&rpar;](https://www.androidauthority.com/wallpaper-wednesday-nov-10-2021-3054843/)
+ - [Smart home company Level Home raises a $100M+ Series C led by Cox Communications, and acquires fellow smart home company Dwelo &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/211110/p19#a211110p19)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
