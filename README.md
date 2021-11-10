@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to Watch RE:WIRED 2021](https://www.wired.com/story/how-to-watch-rewired-2021)
- - [Instagram is testing a Take a Break feature](https://www.theverge.com/2021/11/10/22774827/instagram-take-a-break-feature-test-meta-facebook)
- - [Beeple Will Update a New $29M Piece ‘For the Rest of My Life’](https://www.wired.com/story/rewired-2021-beeple-greg-williams)<!-- TECH:END -->
+ - [Elden Ring hands-on: an open world so pretty you won’t mind dying a lot](https://www.theverge.com/2021/11/10/22774836/elden-ring-fromsoftware-hands-on-preview)
+ - [Expensify, which offers an expense management app for personal and business use, raises $70.2M in its IPO, with shares closing up 52.07% on its trading debut &lpar;Emily Bary/MarketWatch&rpar;](http://www.techmeme.com/211110/p36#a211110p36)
+ - [How to install and manage apps for Messages on iOS 15 and iPadOS 15](https://appleinsider.com/articles/21/11/10/how-to-install-and-manage-apps-for-messages-on-ios-15-and-ipados-15?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
