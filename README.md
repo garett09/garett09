@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Chad chaderson &lpar;source : notqualiteaposts&rpar;](http://9gag.com/gag/aPZyqEP)
- - 🚯 [A ruthless air strike by the Italian military, 1938 &lpar;colourised&rpar;](http://9gag.com/gag/aNPoEpv)
- - 🚯 [Only men can relate](http://9gag.com/gag/aKmgM9b)<!-- MEMES:END -->
+ - 🚖 [Winston joking](http://9gag.com/gag/aOQyLgR)
+ - 🚯 [Played this to my cats and they&amp;#039;re all act the same way](http://9gag.com/gag/aqGZo7Y)
+ - 🚯 [You&amp;rsquo;re not you when you&amp;rsquo;re hungry p.2](http://9gag.com/gag/aeg38jb)<!-- MEMES:END -->
 
 --- 
 
