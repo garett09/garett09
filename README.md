@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The new Star Wars is lit](http://9gag.com/gag/a91MoE6)
- - 🚯 [So basically we&amp;#039;re very smol &lpar;sorry but I couldn&amp;#039;t find an undubbed version, I was busy sucking dicks but not busy enough to add some subs&rpar;](http://9gag.com/gag/aYrp96x)
- - 🚯 [Teamwork](http://9gag.com/gag/a21P3Xw)<!-- MEMES:END -->
+ - 🚖 [Still Only Slightly Exaggerated](http://9gag.com/gag/aGzVm90)
+ - 🚯 [So this is the stairway to heaven?](http://9gag.com/gag/aM4bovX)
+ - 🚯 [Nuclear reactor Startup](http://9gag.com/gag/a61dAEL)<!-- MEMES:END -->
 
 --- 
 
