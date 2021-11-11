@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Geoff Keighley promises no &#39;NFT stuff&#39; at this year&#39;s Game Awards](https://www.pcgamer.com/geoff-keighley-promises-no-nft-stuff-at-this-years-game-awards)
- - [Yep, Naruto is coming to Fortnite](https://www.polygon.com/22775204/naruto-fortnite-epic-battle-royale-new-character)
- - [Celebrate Thanksgiving by cooking mutant rats in the post-apocalypse](https://www.pcgamer.com/celebrate-thanksgiving-by-cooking-mutant-rats-in-the-post-apocalypse)<!-- GAME:END -->
+ - [Fortnite Accidentally Gives Away Its Rarest Item, Takes It Back](https://kotaku.com/fortnite-accidentally-gives-away-its-rarest-item-takes-1848035954)
+ - [Let Joe Pera Talks With You teach you the secret of happiness, Austin Powers](https://www.polygon.com/entertainment/22775170/joe-pera-talks-with-you-season-3-interview)
+ - [Bowser Is Scared Of Clowns, But Also Nipples](https://kotaku.com/bowser-is-scared-of-clowns-but-also-nipples-1848035166)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
