@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [You can see Netflix’s new AV1 streaming tech on select TVs and the PS4 Pro](https://www.theverge.com/2021/11/10/22775150/netflix-av1-codec-tv-streaming-ps4-pro)
- - [Defense in Kyle Rittenhouse trial argues Apple &#39;AI&#39; manipulates video footage](https://appleinsider.com/articles/21/11/11/defense-in-kyle-rittenhouse-trial-argues-apple-ai-manipulates-video-footage?utm_medium=rss)
- - [Best STEM toys to keep kids busy in clever ways     - CNET](https://www.cnet.com/news/best-stem-toys-to-keep-kids-busy-in-clever-ways/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Judge buys Rittenhouse lawyer’s inane argument that Apple’s pinch-to-zoom manipulates footage](https://www.theverge.com/2021/11/10/22775580/kyle-rittenhouse-trial-judge-apple-ai-pinch-to-zoom-footage-manipulation-claim)
+ - [SpaceX successfully launches four astronauts on Crew-3 mission to the space station](https://www.theverge.com/2021/11/10/22772552/spacex-crew-3-dragon-launch-nasa-interenational-space-station-success)
+ - [You can see Netflix’s new AV1 streaming tech on select TVs and the PS4 Pro](https://www.theverge.com/2021/11/10/22775150/netflix-av1-codec-tv-streaming-ps4-pro)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
