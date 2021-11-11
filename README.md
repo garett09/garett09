@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 10,000 Faces That Launched an NFT Revolution](https://www.wired.com/story/the-10000-faces-that-launched-an-nft-revolution)
- - [Researcher details how hacker-for-hire group RocketHack infiltrated the email and Telegram accounts of ~3,500 individuals, including politicians and journalists &lpar;Thomas Brewster/Forbes&rpar;](http://www.techmeme.com/211111/p9#a211111p9)
- - [Sources: Sony has cut PS5 production targets from 16M to 15M by March 2022, due to component and logistics constraints, as PS5 first-year sales fall behind PS4 &lpar;Takashi Mochizuki/Bloomberg&rpar;](http://www.techmeme.com/211111/p8#a211111p8)<!-- TECH:END -->
+ - [Something Awful administrator says founder Richard &quot;Lowtax&quot; Kyanka has died at 45; founded in 1999, SA&#39;s influence over the contemporary web has been huge &lpar;Brian Ashcraft/Kotaku&rpar;](http://www.techmeme.com/211111/p12#a211111p12)
+ - [A Vaccine Against Valley Fever Finally Works—for Dogs](https://www.wired.com/story/a-vaccine-against-valley-fever-finally-works-for-dogs)
+ - [Climate Pledges Fall Dangerously Short of the 1.5 °C Target](https://www.wired.com/story/cop26-climate-change-targets)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
