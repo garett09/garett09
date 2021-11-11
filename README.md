@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Happy Independent day 11.11. \u2764](http://9gag.com/gag/angKeqV)
- - 🚯 [Hehe](http://9gag.com/gag/aGzwKVX)
- - 🚯 [Brothers, we must unite once again. Next YT rewind - use this tactic.](http://9gag.com/gag/aKmP4gQ)<!-- MEMES:END -->
+ - 🚖 [Brothers, we must unite once again. Next YT rewind - use this tactic.](http://9gag.com/gag/aKmP4gQ)
+ - 🚯 [Happy Independent day 11.11. \u2764](http://9gag.com/gag/angKeqV)
+ - 🚯 [Ryan Reynolds&amp;#039; advice to Paul Rudd](http://9gag.com/gag/apgoe05)<!-- MEMES:END -->
 
 --- 
 
