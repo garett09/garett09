@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [MSI&#39;s upcoming Z690 Godlike might be the most insane motherboard ever](https://www.pcgamer.com/msis-upcoming-z690-godlike-might-be-the-most-insane-motherboard-ever)
- - [This claims to be the world&#39;s fastest and highest capacity SSD](https://www.pcgamer.com/this-claims-to-be-the-worlds-fastest-and-highest-capacity-ssd)
- - [3DMark introduces a storage benchmark as DLC](https://www.pcgamer.com/3dmark-introduces-a-storage-benchmark-as-dlc)<!-- GAME:END -->
+ - [This Dell G15 Ryzen Edition laptop is over $200 off](https://www.pcgamer.com/this-dell-g15-ryzen-edition-laptop-is-over-dollar200-off)
+ - [MSI&#39;s upcoming Z690 Godlike might be the wildest motherboard ever](https://www.pcgamer.com/msis-upcoming-z690-godlike-might-be-the-most-insane-motherboard-ever)
+ - [This claims to be the world&#39;s fastest and highest capacity SSD](https://www.pcgamer.com/this-claims-to-be-the-worlds-fastest-and-highest-capacity-ssd)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
