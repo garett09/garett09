@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Fortnite Accidentally Gives Away Its Rarest Item, Takes It Back](https://kotaku.com/fortnite-accidentally-gives-away-its-rarest-item-takes-1848035954)
- - [Let Joe Pera Talks With You teach you the secret of happiness, Austin Powers](https://www.polygon.com/entertainment/22775170/joe-pera-talks-with-you-season-3-interview)
- - [Bowser Is Scared Of Clowns, But Also Nipples](https://kotaku.com/bowser-is-scared-of-clowns-but-also-nipples-1848035166)<!-- GAME:END -->
+ - [Forza Horizon 5 Is Full Of Jeeps After Fans Find Exploit](https://kotaku.com/forza-horizon-5-is-full-of-jeeps-after-fans-find-exploi-1848035754)
+ - [YouTube Has Removed The Dislike Counter](https://kotaku.com/youtube-has-removed-the-dislike-counter-1848036246)
+ - [Fortnite Accidentally Gives Away Its Rarest Item, Takes It Back](https://kotaku.com/fortnite-accidentally-gives-away-its-rarest-item-takes-1848035954)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
