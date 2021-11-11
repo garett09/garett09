@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Mozart was a fellow pirate](http://9gag.com/gag/aDD3AwG)
- - 🚯 [Learning to play an instrument is very important!](http://9gag.com/gag/aAGrRpE)
- - 🚯 [Look, Ma! No hands!](http://9gag.com/gag/azeEbgx)<!-- MEMES:END -->
+ - 🚖 [Look, Ma! No hands!](http://9gag.com/gag/azeEbgx)
+ - 🚯 [Another day on London](http://9gag.com/gag/aAGrB0Z)
+ - 🚯 [Cheap marble](http://9gag.com/gag/apg0qP5)<!-- MEMES:END -->
 
 --- 
 
