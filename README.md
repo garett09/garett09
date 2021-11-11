@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Something Awful administrator says founder Richard &quot;Lowtax&quot; Kyanka has died at 45; founded in 1999, SA&#39;s influence over the contemporary web has been huge &lpar;Brian Ashcraft/Kotaku&rpar;](http://www.techmeme.com/211111/p12#a211111p12)
- - [A Vaccine Against Valley Fever Finally Works—for Dogs](https://www.wired.com/story/a-vaccine-against-valley-fever-finally-works-for-dogs)
- - [Climate Pledges Fall Dangerously Short of the 1.5 °C Target](https://www.wired.com/story/cop26-climate-change-targets)<!-- TECH:END -->
+ - [How Google&#39;s Earth Engine is helping nonprofits and researchers manage deforestation, floods, and droughts with its satellite imagery and data analysis tools &lpar;Leslie Kaufman/Bloomberg&rpar;](http://www.techmeme.com/211111/p13#a211111p13)
+ - [The Beats Fit Pro Are Apple&#39;s Best Earbuds Ever](https://www.wired.com/review/beats-fit-pro)
+ - [This Company Tapped AI for Its Website—and Landed in Court](https://www.wired.com/story/company-tapped-ai-website-landed-court)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
