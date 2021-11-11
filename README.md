@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Call Of Duty: Vanguard&#39;s Campaign Is An Insult To Word War II](https://kotaku.com/call-of-duty-vanguards-campaign-is-an-insult-to-word-w-1848042030)
- - [Call of Duty: Vanguard continues the trend of mythmaking and tokenization](https://www.polygon.com/reviews/22776800/call-of-duty-vanguard-review-single-player-ps5-xbox-series-x-pc)
- - [Playdate Handheld Delayed To 2022 Over Battery Life Concerns](https://kotaku.com/playdate-handheld-delayed-to-2022-over-battery-life-con-1848041954)<!-- GAME:END -->
+ - [Cy_Borg will provide the cyberpunk apocalypse our society truly deserves](https://www.polygon.com/22776524/cy-borg-osr-ttrpg-mork-borg-preview-kickstarter)
+ - [Magic’s Innistrad: Crimson Vow will be a party for the ageless](https://www.polygon.com/22749578/magic-the-gathering-innistrad-crimson-vow-release-date)
+ - [Six actually interesting answers from Todd Howard’s Reddit AMA](https://www.polygon.com/22776828/todd-howard-reddit-ama-starfield-fallout-4-underwater-apocalypse-road-jarl-mephala)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
