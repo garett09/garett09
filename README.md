@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Arkansas-based Zenwork, which develops tax and regulatory compliance software, raises $162.5M led by Spectrum Equity and says 100,000+ US SMBs use its services &lpar;Worth Sparkman/Axios&rpar;](http://www.techmeme.com/211111/p1#a211111p1)
  - [Google Pixel 6 series might get face unlock smarts after all](https://www.androidauthority.com/google-pixel-6-face-unlock-3056814/)
- - [Sony reportedly making even fewer PS5s due to component shortage](https://www.theverge.com/2021/11/11/22775829/sony-ps5-supply-chip-shortage-forecast-cut)
- - [Epic&#39;s Tim Sweeney to speak in South Korea amid app store troubles](https://appleinsider.com/articles/21/11/11/epics-tim-sweeney-to-speak-south-korea-amid-app-store-troubles?utm_medium=rss)<!-- TECH:END -->
+ - [Sony reportedly making even fewer PS5s due to component shortage](https://www.theverge.com/2021/11/11/22775829/sony-ps5-supply-chip-shortage-forecast-cut)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
