@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [John Cho and André Nemec on Giving Cowboy Bebop More Soul](https://www.wired.com/story/rewired-2021-john-cho-andre-nemec-cowboy-bebop)
- - [Tom Hanks film &#39;Finch&#39; sets Apple TV+ film premiere record](https://appleinsider.com/articles/21/11/11/tom-hanks-film-finch-sets-apple-tv-film-premiere-record?utm_medium=rss)
- - [Microsoft is emailing out gift cards to its online store](https://www.theverge.com/2021/11/10/22775341/microsoft-store-gift-card-email-promotion)<!-- TECH:END -->
+ - [You can see Netflix’s new AV1 streaming tech on select TVs and the PS4 Pro](https://www.theverge.com/2021/11/10/22775150/netflix-av1-codec-tv-streaming-ps4-pro)
+ - [Defense in Kyle Rittenhouse trial argues Apple &#39;AI&#39; manipulates video footage](https://appleinsider.com/articles/21/11/11/defense-in-kyle-rittenhouse-trial-argues-apple-ai-manipulates-video-footage?utm_medium=rss)
+ - [Best STEM toys to keep kids busy in clever ways     - CNET](https://www.cnet.com/news/best-stem-toys-to-keep-kids-busy-in-clever-ways/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
