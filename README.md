@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Lost Ark is a bizarro action-RPG married to a trad MMO](https://www.pcgamer.com/lost-ark-is-a-bizarro-action-rpg-married-to-a-trad-mmo)
- - [What have you used to make your desk a nicer place?](https://www.pcgamer.com/what-have-you-used-to-make-your-desk-nicer)
- - [GTA Trilogy Definitive Edition radio stations are missing over 40 songs according to Rockstar tracklist](https://www.pcgamer.com/gta-trilogy-definitive-edition-radio-stations-are-missing-over-40-songs)<!-- GAME:END -->
+ - [The next SteamWorld game is 3D, co-op, and called Headhunter](https://www.pcgamer.com/the-next-steamworld-game-is-3d-co-op-and-called-headhunter)
+ - [Elex 2 releases sooner than expected](https://www.pcgamer.com/elex-2-releases-sooner-than-expected)
+ - [Lost Ark is a bizarro action-RPG married to a trad MMO](https://www.pcgamer.com/lost-ark-is-a-bizarro-action-rpg-married-to-a-trad-mmo)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
