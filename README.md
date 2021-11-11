@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [This claims to be the world&#39;s fastest and highest capacity SSD](https://www.pcgamer.com/this-claims-to-be-the-worlds-fastest-and-highest-capacity-ssd)
  - [3DMark introduces a storage benchmark as DLC](https://www.pcgamer.com/3dmark-introduces-a-storage-benchmark-as-dlc)
- - [CPU Coolers and Motherboards are having physical compatibility issues](https://www.pcgamer.com/cpu-coolers-and-motherboards-are-having-physical-compatibility-issues)
- - [The next SteamWorld game is 3D, co-op, and called Headhunter](https://www.pcgamer.com/the-next-steamworld-game-is-3d-co-op-and-called-headhunter)<!-- GAME:END -->
+ - [CPU Coolers and Motherboards are having physical compatibility issues](https://www.pcgamer.com/cpu-coolers-and-motherboards-are-having-physical-compatibility-issues)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
