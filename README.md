@@ -194,8 +194,8 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Bear Grylls putting his life in danger](http://9gag.com/gag/angX6Nb)
- - 🚯 [This Grandma and Grandad reunited in hospital after 3 weeks](http://9gag.com/gag/apgoWBW)
- - 🚯 [So basically we&amp;#039;re very smol &lpar;sorry but I couldn&amp;#039;t find an undubbed version, I was busy sucking dicks but not busy enough to add some subs&rpar;](http://9gag.com/gag/aYrp96x)<!-- MEMES:END -->
+ - 🚯 [So basically we&amp;#039;re very smol &lpar;sorry but I couldn&amp;#039;t find an undubbed version, I was busy sucking dicks but not busy enough to add some subs&rpar;](http://9gag.com/gag/aYrp96x)
+ - 🚯 [Imagine the parents walking by the room and hear this](http://9gag.com/gag/aXrEB96)<!-- MEMES:END -->
 
 --- 
 
