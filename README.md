@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Youtube has became a communist party](http://9gag.com/gag/arne6dK)
- - 🚯 [He is watching you](http://9gag.com/gag/adg63ej)
- - 🚯 [Facts!](http://9gag.com/gag/aOQy6VN)<!-- MEMES:END -->
+ - 🚖 [Books are always better](http://9gag.com/gag/aYrpzXq)
+ - 🚯 [Brothers, we must unite once again. Next YT rewind - use this tactic.](http://9gag.com/gag/aKmP4gQ)
+ - 🚯 [Priorities](http://9gag.com/gag/aE8GebN)<!-- MEMES:END -->
 
 --- 
 
