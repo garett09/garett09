@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Black Friday gaming PC deals 2021: the best prebuilt systems on sale today](https://www.pcgamer.com/black-friday-gaming-pc-deals-2021)
- - [How to complete Flock of Trucks in Forza Horizon 5](https://www.pcgamer.com/forza-horizon-5-flock-of-trucks-daily-challenge-not-working)
- - [Pokémon Trading Card Game Live delayed to next year](https://www.pcgamer.com/pokemon-trading-card-game-live-delayed-to-next-year)<!-- GAME:END -->
+ - [Black Friday Gaming Laptop deals 2021: the best laptop deals for any budget](https://www.pcgamer.com/black-friday-gaming-laptop-deals)
+ - [PC Gamer UK Christmas issue: The future of every Riot game](https://www.pcgamer.com/pc-gamer-uk-christmas-issue-the-future-of-every-riot-game)
+ - [Black Friday gaming PC deals 2021: the best prebuilt systems on sale today](https://www.pcgamer.com/black-friday-gaming-pc-deals-2021)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
