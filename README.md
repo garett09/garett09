@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Arkansas-based Zenwork, which develops tax and regulatory compliance software, raises $162.5M led by Spectrum Equity and says 100,000+ US SMBs use its services &lpar;Worth Sparkman/Axios&rpar;](http://www.techmeme.com/211111/p1#a211111p1)
- - [Google Pixel 6 series might get face unlock smarts after all](https://www.androidauthority.com/google-pixel-6-face-unlock-3056814/)
- - [Sony reportedly making even fewer PS5s due to component shortage](https://www.theverge.com/2021/11/11/22775829/sony-ps5-supply-chip-shortage-forecast-cut)<!-- TECH:END -->
+ - [Poll: What’s the top feature you look for when buying a flagship phone?](https://www.androidauthority.com/top-feature-buying-phone-poll-3055106/)
+ - [Apple AirPods dip to $89, Apple TV 4K on sale for $119 in latest round of early Black Friday deals](https://appleinsider.com/articles/21/11/11/apple-airpods-dip-to-89-apple-tv-4k-on-sale-for-119-in-latest-round-of-early-black-friday-deals?utm_medium=rss)
+ - [Arkansas-based Zenwork, which develops tax and regulatory compliance software, raises $162.5M led by Spectrum Equity and says 100,000+ US SMBs use its services &lpar;Worth Sparkman/Axios&rpar;](http://www.techmeme.com/211111/p1#a211111p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
