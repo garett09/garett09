@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spotify pushes into audiobook business with Findaway purchase](https://appleinsider.com/articles/21/11/11/spotify-pushes-into-audiobook-business-with-findaway-purchase?utm_medium=rss)
- - [Foxconn to buy Lordstown Motors&#39; plant, may help build Endurance pickup     - Roadshow](https://www.cnet.com/roadshow/news/foxconn-lordstown-motors-manufacturing-build-endurance-pickup/#ftag=CAD590a51e)
- - [Spotify acquires audiobook distributor Findaway and says it expects the deal to close in Q4 2021 &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/211111/p28#a211111p28)<!-- TECH:END -->
+ - [User-modified iPhone X with USB-C port sells for $86K](https://appleinsider.com/articles/21/11/11/user-modified-iphone-x-with-usb-c-port-sells-for-86k?utm_medium=rss)
+ - [Today&#39;s top 5 early Black Friday Apple deals on Amazon](https://appleinsider.com/articles/21/11/11/todays-top-5-early-black-friday-apple-deals-on-amazon?utm_medium=rss)
+ - [Otterbox Folding Wireless Power Bank review: Down with the thickness](https://www.androidauthority.com/otterbox-folding-wireless-power-bank-review-3051206/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
