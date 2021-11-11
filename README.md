@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to remove Stocks, Compass and other native apps from your iPhone or iPad in iOS 15](https://appleinsider.com/articles/21/11/11/how-to-remove-stocks-compass-and-other-native-apps-from-your-iphone-or-ipad-in-ios-15?utm_medium=rss)
- - [Discord CEO says the company won’t add a crypto wallet — for now](https://www.theverge.com/2021/11/11/22776422/discord-ceo-crypto-nft-wallet-jason-citron-tweet)
- - [GM is building a prototype for the US military based on the Hummer EV](https://www.theverge.com/2021/11/11/22776324/general-motors-hummer-ev-us-military-prototype-defense)<!-- TECH:END -->
+ - [Hands on with the luxury Hermes Apple Watch Series 7](https://appleinsider.com/articles/21/11/11/hands-on-with-the-luxury-hermes-apple-watch-series-7?utm_medium=rss)
+ - [Twitch is now on the Switch](https://www.theverge.com/2021/11/11/22776560/twitch-app-nintendo-switch-launch)
+ - [Patreon CEO Jack Conte says the service is building native video hosting for creators, which would reduce their reliance on YouTube &lpar;Ashley Carman/The Verge&rpar;](http://www.techmeme.com/211111/p19#a211111p19)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
