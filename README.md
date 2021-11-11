@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Will someone explain what this is?](http://9gag.com/gag/aXrpZPv)
- - 🚯 [Hehe](http://9gag.com/gag/aGzwKVX)
- - 🚯 [*Hums BTF soundtrack*](http://9gag.com/gag/azeEgdj)<!-- MEMES:END -->
+ - 🚖 [Happy Singles&amp;rsquo; day everyone! May the luck &lpar;and the force&rpar; be with us!](http://9gag.com/gag/avAgpeE)
+ - 🚯 [Learning to play an instrument is very important!](http://9gag.com/gag/aAGrRpE)
+ - 🚯 [It&amp;#039;s makes me cry](http://9gag.com/gag/aM4rejG)<!-- MEMES:END -->
 
 --- 
 
