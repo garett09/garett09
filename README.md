@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple TV+ offers first look at &#39;The Shrink Next Door&#39; ahead of Friday debut](https://appleinsider.com/articles/21/11/11/apple-tv-offers-first-look-at-the-shrink-next-door-ahead-of-friday-debut?utm_medium=rss)
- - [Defense in Kyle Rittenhouse trial argues Apple &#39;AI&#39; manipulates video footage](https://appleinsider.com/articles/21/11/11/defense-in-kyle-rittenhouse-trial-argues-apple-ai-manipulates-video-footage?utm_medium=rss)
- - [Judge buys Rittenhouse lawyer’s inane argument that Apple’s pinch-to-zoom manipulates footage](https://www.theverge.com/2021/11/10/22775580/kyle-rittenhouse-trial-judge-apple-ai-pinch-to-zoom-footage-manipulation-claim)<!-- TECH:END -->
+ - [Epic&#39;s Tim Sweeney to speak South Korea amid app store troubles](https://appleinsider.com/articles/21/11/11/epics-tim-sweeney-to-speak-south-korea-amid-app-store-troubles?utm_medium=rss)
+ - [Disney misses Q4 estimates after slower streaming services growth: Disney+ added 2M subscribers to 118M, Hulu added 700K to 39.7M, and ESPN+ added 2.3M to 17.1M &lpar;Alex Weprin/Hollywood Reporter&rpar;](http://www.techmeme.com/211110/p44#a211110p44)
+ - [Online food delivery platform Zomato invests $175M across Indian startups Shiprocket, Curefit, and Magicpin, and plans to invest $1B in startups over two years &lpar;Moneycontrol&rpar;](http://www.techmeme.com/211110/p43#a211110p43)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
