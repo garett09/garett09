@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Google&#39;s Earth Engine is helping nonprofits and researchers manage deforestation, floods, and droughts with its satellite imagery and data analysis tools &lpar;Leslie Kaufman/Bloomberg&rpar;](http://www.techmeme.com/211111/p13#a211111p13)
- - [The Beats Fit Pro Are Apple&#39;s Best Earbuds Ever](https://www.wired.com/review/beats-fit-pro)
- - [This Company Tapped AI for Its Website—and Landed in Court](https://www.wired.com/story/company-tapped-ai-website-landed-court)<!-- TECH:END -->
+ - [Huawei Watch GT 3 review: Endurance, refined](https://www.androidauthority.com/huawei-watch-gt-3-review-3053013/)
+ - [Apple details veterans use of iPad technology to help in trauma medicine](https://appleinsider.com/articles/21/11/11/apple-details-veterans-use-of-ipad-technology-to-help-in-trauma-medicine?utm_medium=rss)
+ - [QuickTake in iOS 15: How to use the upgraded iPhone feature     - CNET](https://www.cnet.com/tech/mobile/quicktake-in-ios-15-how-to-use-the-upgraded-iphone-feature/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
