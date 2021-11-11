@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to video capture your screen in macOS Monterey](https://appleinsider.com/articles/21/11/10/how-to-video-capture-your-screen-in-macos-monterey?utm_medium=rss)
- - [Disney+ hits 118.1M subscribers in two years as growth slows to crawl](https://appleinsider.com/articles/21/11/10/disney-hits-1181m-subscribers-in-two-years-as-growth-slows-to-crawl?utm_medium=rss)
- - [Withings’ ScanWatch with built-in EKG is finally available in the US](https://www.theverge.com/2021/11/10/22772984/withings-scanwatch-blood-oxygen-sleep-apnea-watch-fda)<!-- TECH:END -->
+ - [John Cho and André Nemec on Giving Cowboy Bebop More Soul](https://www.wired.com/story/rewired-2021-john-cho-andre-nemec-cowboy-bebop)
+ - [Tom Hanks film &#39;Finch&#39; sets Apple TV+ film premiere record](https://appleinsider.com/articles/21/11/11/tom-hanks-film-finch-sets-apple-tv-film-premiere-record?utm_medium=rss)
+ - [Microsoft is emailing out gift cards to its online store](https://www.theverge.com/2021/11/10/22775341/microsoft-store-gift-card-email-promotion)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
