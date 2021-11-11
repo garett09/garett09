@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Still Only Slightly Exaggerated](http://9gag.com/gag/aGzVm90)
- - 🚯 [So this is the stairway to heaven?](http://9gag.com/gag/aM4bovX)
- - 🚯 [Nuclear reactor Startup](http://9gag.com/gag/a61dAEL)<!-- MEMES:END -->
+ - 🚖 [Any moment now](http://9gag.com/gag/aAGVoVd)
+ - 🚯 [This Grandma and Grandad reunited in hospital after 3 weeks](http://9gag.com/gag/apgoWBW)
+ - 🚯 [His palms are sweaty, knees weak, arms are heavy](http://9gag.com/gag/a0ZPBqX)<!-- MEMES:END -->
 
 --- 
 
