@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This Dell G15 Ryzen Edition laptop is over $200 off](https://www.pcgamer.com/this-dell-g15-ryzen-edition-laptop-is-over-dollar200-off)
- - [MSI&#39;s upcoming Z690 Godlike might be the wildest motherboard ever](https://www.pcgamer.com/msis-upcoming-z690-godlike-might-be-the-most-insane-motherboard-ever)
- - [This claims to be the world&#39;s fastest and highest capacity SSD](https://www.pcgamer.com/this-claims-to-be-the-worlds-fastest-and-highest-capacity-ssd)<!-- GAME:END -->
+ - [Battlefield 2042 review-in-progress: Portal steals the show, Hazard Zone plays it safe](https://www.pcgamer.com/battlefield-2042-review-in-progress)
+ - [Battlefield 2042 can’t quite reach the franchise’s high points](https://www.polygon.com/22775630/battlefield-2042-early-review-pc-ps5-xbox-series-x-ps4-xbox-one)
+ - [This Dell G15 Ryzen Edition laptop is over $200 off](https://www.pcgamer.com/this-dell-g15-ryzen-edition-laptop-is-over-dollar200-off)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
