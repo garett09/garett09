@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Happy Singles&amp;rsquo; day everyone! May the luck &lpar;and the force&rpar; be with us!](http://9gag.com/gag/avAgpeE)
- - 🚯 [Learning to play an instrument is very important!](http://9gag.com/gag/aAGrRpE)
- - 🚯 [It&amp;#039;s makes me cry](http://9gag.com/gag/aM4rejG)<!-- MEMES:END -->
+ - 🚖 [Something new!](http://9gag.com/gag/a41dKqd)
+ - 🚯 [A California based company is yeeting rockets into space using a giant centrifugal sling with speeds up to 5000 mi/h &lpar;8000 km/h&rpar;](http://9gag.com/gag/aPZ46GP)
+ - 🚯 [Learning to play an instrument is very important!](http://9gag.com/gag/aAGrRpE)<!-- MEMES:END -->
 
 --- 
 
