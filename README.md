@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Cy_Borg will provide the cyberpunk apocalypse our society truly deserves](https://www.polygon.com/22776524/cy-borg-osr-ttrpg-mork-borg-preview-kickstarter)
- - [Magic’s Innistrad: Crimson Vow will be a party for the ageless](https://www.polygon.com/22749578/magic-the-gathering-innistrad-crimson-vow-release-date)
- - [Six actually interesting answers from Todd Howard’s Reddit AMA](https://www.polygon.com/22776828/todd-howard-reddit-ama-starfield-fallout-4-underwater-apocalypse-road-jarl-mephala)<!-- GAME:END -->
+ - [Remembering Skyrim: Our fondest and funniest memories of the legendary RPG](https://www.pcgamer.com/skyrim-10-year-anniversary)
+ - [Bungie’s 30th Anniversary pack will give Destiny 2 players what they want: Exotic buffs](https://www.polygon.com/22777034/destiny-2-bungie-30th-anniversary-event-exotic-weapon-buffs-patch-notes-whisper-witch-queen)
+ - [Microsoft is updating its PC gaming store to make Xbox Game Pass easier to use](https://www.polygon.com/22776946/xbox-app-pc-windows-microsoft-update-improvements-game-pass)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
