@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Books are always better](http://9gag.com/gag/aYrpzXq)
- - 🚯 [Brothers, we must unite once again. Next YT rewind - use this tactic.](http://9gag.com/gag/aKmP4gQ)
- - 🚯 [Priorities](http://9gag.com/gag/aE8GebN)<!-- MEMES:END -->
+ - 🚖 [Happy Independent day 11.11. \u2764](http://9gag.com/gag/angKeqV)
+ - 🚯 [Hehe](http://9gag.com/gag/aGzwKVX)
+ - 🚯 [Brothers, we must unite once again. Next YT rewind - use this tactic.](http://9gag.com/gag/aKmP4gQ)<!-- MEMES:END -->
 
 --- 
 
