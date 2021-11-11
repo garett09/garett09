@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When everything that can go wrong, does go wrong.](http://9gag.com/gag/aQXpY92)
- - 🚯 [I hate winter.](http://9gag.com/gag/aPZyNVG)
- - 🚯 [Security win...](http://9gag.com/gag/aE8Grjx)<!-- MEMES:END -->
+ - 🚖 [Determining the orientation of the brace for gate strength](http://9gag.com/gag/ajg6bRw)
+ - 🚯 [This keeps getting better and better. The people doing the charges are so r3t4r d3d that I&amp;#039;m ashamed for them.](http://9gag.com/gag/avAZ3VM)
+ - 🚯 [When everything that can go wrong, does go wrong.](http://9gag.com/gag/aQXpY92)<!-- MEMES:END -->
 
 --- 
 
