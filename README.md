@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Know Your Flutist...](http://9gag.com/gag/aLvQYYv)
+ - 🚖 [When everything that can go wrong, does go wrong.](http://9gag.com/gag/aQXpY92)
  - 🚯 [I hate winter.](http://9gag.com/gag/aPZyNVG)
- - 🚯 [Whatever your opinion on Kyle Rittenhouse is, those questions were dumb](http://9gag.com/gag/avAZ3jW)<!-- MEMES:END -->
+ - 🚯 [Security win...](http://9gag.com/gag/aE8Grjx)<!-- MEMES:END -->
 
 --- 
 
