@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Girl got some serious HANDS !](http://9gag.com/gag/aM4bpzX)
- - 🚯 [Will someone explain what this is?](http://9gag.com/gag/aXrpZPv)
- - 🚯 [Happy Independent day 11.11. \u2764](http://9gag.com/gag/angKeqV)<!-- MEMES:END -->
+ - 🚖 [Will someone explain what this is?](http://9gag.com/gag/aXrpZPv)
+ - 🚯 [Hehe](http://9gag.com/gag/aGzwKVX)
+ - 🚯 [*Hums BTF soundtrack*](http://9gag.com/gag/azeEgdj)<!-- MEMES:END -->
 
 --- 
 
