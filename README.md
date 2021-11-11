@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Epic&#39;s Tim Sweeney to speak South Korea amid app store troubles](https://appleinsider.com/articles/21/11/11/epics-tim-sweeney-to-speak-south-korea-amid-app-store-troubles?utm_medium=rss)
- - [Disney misses Q4 estimates after slower streaming services growth: Disney+ added 2M subscribers to 118M, Hulu added 700K to 39.7M, and ESPN+ added 2.3M to 17.1M &lpar;Alex Weprin/Hollywood Reporter&rpar;](http://www.techmeme.com/211110/p44#a211110p44)
- - [Online food delivery platform Zomato invests $175M across Indian startups Shiprocket, Curefit, and Magicpin, and plans to invest $1B in startups over two years &lpar;Moneycontrol&rpar;](http://www.techmeme.com/211110/p43#a211110p43)<!-- TECH:END -->
+ - [Google Pixel 6 series might get face unlock smarts after all](https://www.androidauthority.com/google-pixel-6-face-unlock-3056814/)
+ - [Sony reportedly making even fewer PS5s due to component shortage](https://www.theverge.com/2021/11/11/22775829/sony-ps5-supply-chip-shortage-forecast-cut)
+ - [Epic&#39;s Tim Sweeney to speak in South Korea amid app store troubles](https://appleinsider.com/articles/21/11/11/epics-tim-sweeney-to-speak-south-korea-amid-app-store-troubles?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
