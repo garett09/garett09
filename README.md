@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Sony has cut PS5 production targets from 16M to 15M by March 2022, due to component and logistics constraints, as PS5 first-year sales fall behind PS4 &lpar;Takashi Mochizuki/Bloomberg&rpar;](http://www.techmeme.com/211111/p8#a211111p8)
- - [After toning down its Singles&#39; Day marketing, Alibaba says nearly 400 brands reached $15M+ in sales; JD.com says sales reached $48.72B, up from $42.4B last year &lpar;Josh Horwitz/Reuters&rpar;](http://www.techmeme.com/211111/p7#a211111p7)
- - [Uber says it will raise London rates by 10% to increase driver pay, with an additional 15% for some destinations like Heathrow, the first increase since 2017 &lpar;Gwyn Topham/The Guardian&rpar;](http://www.techmeme.com/211111/p6#a211111p6)<!-- TECH:END -->
+ - [The 10,000 Faces That Launched an NFT Revolution](https://www.wired.com/story/the-10000-faces-that-launched-an-nft-revolution)
+ - [Researcher details how hacker-for-hire group RocketHack infiltrated the email and Telegram accounts of ~3,500 individuals, including politicians and journalists &lpar;Thomas Brewster/Forbes&rpar;](http://www.techmeme.com/211111/p9#a211111p9)
+ - [Sources: Sony has cut PS5 production targets from 16M to 15M by March 2022, due to component and logistics constraints, as PS5 first-year sales fall behind PS4 &lpar;Takashi Mochizuki/Bloomberg&rpar;](http://www.techmeme.com/211111/p8#a211111p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
