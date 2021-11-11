@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Steam Deck, Playdate handheld consoles delayed until early 2022](https://appleinsider.com/articles/21/11/11/steam-deck-playdate-handheld-consoles-delayed-until-early-2022?utm_medium=rss)
- - [Here are the best Amazon Echo deals right now](https://www.theverge.com/21546591/best-amazon-echo-deals)
- - [Google researchers found a watering hole attack in August exploiting a macOS zero-day and targeting Hong Kong pro-democracy sites; Apple patched on September 23 &lpar;Lorenzo Franceschi-Bicchierai/VICE&rpar;](http://www.techmeme.com/211111/p21#a211111p21)<!-- TECH:END -->
+ - [Apple celebrates Veterans Day with featured content, highlights medical app](https://appleinsider.com/articles/21/11/11/apple-details-veterans-use-of-ipad-technology-to-help-in-trauma-medicine?utm_medium=rss)
+ - [A look at Binance, which sources say could be worth $300B if it goes public, as its unfettered, unregulated growth comes to an end amid global scrutiny &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/211111/p25#a211111p25)
+ - [Doom’s Creator Goes After ‘Doomscroll’](https://www.wired.com/story/doom-creator-goes-after-doomscroll)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
