@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple details veterans use of iPad technology to help in trauma medicine](https://appleinsider.com/articles/21/11/11/apple-details-veterans-use-of-ipad-technology-to-help-in-trauma-medicine?utm_medium=rss)
- - [Best deals Nov. 11: up to 36% off 4K Samsung TVs, 15% off &#39;The Office&#39; Blu-ray set, and more!](https://appleinsider.com/articles/21/11/11/best-deals-nov-11-up-to-36-off-4k-samsung-tvs-15-off-the-office-blu-ray-set-and-more?utm_medium=rss)
- - [The Best Weighted Blankets for Calm and Comfort](https://www.wired.com/gallery/best-weighted-blankets)<!-- TECH:END -->
+ - [Android 12L: Everything you need to know about Google’s OS for larger screens](https://www.androidauthority.com/android-12l-3047080/)
+ - [Ometria, a CRM service that uses AI to let brands and retailers personalize marketing messages, raises a $40M Series C, bringing its total funding to $75M+ &lpar;Mike Butcher/TechCrunch&rpar;](http://www.techmeme.com/211111/p17#a211111p17)
+ - [AirPods 3 review: An excellent AirPods evolution, but fit can be problematic](https://appleinsider.com/articles/21/11/07/airpods-3-review-an-excellent-airpods-evolution-but-fit-can-be-problematic?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
