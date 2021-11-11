@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Any moment now](http://9gag.com/gag/aAGVoVd)
- - 🚯 [This Grandma and Grandad reunited in hospital after 3 weeks](http://9gag.com/gag/apgoWBW)
- - 🚯 [His palms are sweaty, knees weak, arms are heavy](http://9gag.com/gag/a0ZPBqX)<!-- MEMES:END -->
+ - 🚖 [This Grandma and Grandad reunited in hospital after 3 weeks](http://9gag.com/gag/apgoWBW)
+ - 🚯 [So basically we&amp;#039;re very smol &lpar;sorry but I couldn&amp;#039;t find an undubbed version, I was busy sucking dicks but not busy enough to add some subs&rpar;](http://9gag.com/gag/aYrp96x)
+ - 🚯 [Bear Grylls putting his life in danger](http://9gag.com/gag/angX6Nb)<!-- MEMES:END -->
 
 --- 
 
