@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [In Florian&amp;oacute;polis, Brazil, a puppy &amp;lsquo;signed&amp;rsquo; along with the Mayor a bill that enacts a public policy to finance the treatment of canine leishmaniasis for low-income households](http://9gag.com/gag/a81bPWY)
+ - 🚖 [Know Your Flutist...](http://9gag.com/gag/aLvQYYv)
  - 🚯 [I hate winter.](http://9gag.com/gag/aPZyNVG)
- - 🚯 [Nuclear reactor Startup](http://9gag.com/gag/a61dAEL)<!-- MEMES:END -->
+ - 🚯 [Whatever your opinion on Kyle Rittenhouse is, those questions were dumb](http://9gag.com/gag/avAZ3jW)<!-- MEMES:END -->
 
 --- 
 
