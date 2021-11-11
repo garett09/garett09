@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Skyrim Anniversary Edition &#39;modpocalypse&#39; partially averted by a key modder getting early access](https://www.pcgamer.com/skyrim-anniversary-edition-modpocalypse-partially-averted-by-a-key-modder-getting-early-access)
- - [Story-Driven Culinary Adventure Epic Chef, Out Today!](https://news.xbox.com/en-us/2021/11/11/story-driven-culinary-adventure-epic-chef-out-today/)
- - [All The Features You Can Only Get With Animal Crossing’s Happy Home Paradise DLC](https://kotaku.com/all-the-features-you-can-only-get-with-animal-crossing-1848035273)<!-- GAME:END -->
+ - [Call Of Duty: Vanguard Removes Islamophobic Content Following Criticism](https://kotaku.com/call-of-duty-vanguard-removes-islamophobic-content-fol-1848039333)
+ - [Xbox Design Lab Brings Back Rubberized Grips, Metallic Finishes, and More](https://news.xbox.com/en-us/2021/11/11/xbox-design-lab-rubberized-grips-metallic-finishes-and-more/)
+ - [Resident Evil: Welcome to Raccoon City’s game references run obsessively deep](https://www.polygon.com/22775559/resident-evil-welcome-to-raccoon-city-mansion-easter-eggs)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
