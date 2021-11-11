@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Surprise surprise](http://9gag.com/gag/aVxQNyM)
- - 🚯 [Determining the orientation of the brace for gate strength](http://9gag.com/gag/ajg6bRw)
- - 🚯 [The sound this trowel makes being launched](http://9gag.com/gag/a51NmKV)<!-- MEMES:END -->
+ - 🚖 [In Florian&amp;oacute;polis, Brazil, a puppy &amp;lsquo;signed&amp;rsquo; along with the Mayor a bill that enacts a public policy to finance the treatment of canine leishmaniasis for low-income households](http://9gag.com/gag/a81bPWY)
+ - 🚯 [I hate winter.](http://9gag.com/gag/aPZyNVG)
+ - 🚯 [Nuclear reactor Startup](http://9gag.com/gag/a61dAEL)<!-- MEMES:END -->
 
 --- 
 
