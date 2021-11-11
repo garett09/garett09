@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Black Friday Gaming Laptop deals 2021: the best laptop deals for any budget](https://www.pcgamer.com/black-friday-gaming-laptop-deals)
- - [PC Gamer UK Christmas issue: The future of every Riot game](https://www.pcgamer.com/pc-gamer-uk-christmas-issue-the-future-of-every-riot-game)
- - [Black Friday gaming PC deals 2021: the best prebuilt systems on sale today](https://www.pcgamer.com/black-friday-gaming-pc-deals-2021)<!-- GAME:END -->
+ - [Skyrim Anniversary Edition &#39;modpocalypse&#39; partially averted by a key modder getting early access](https://www.pcgamer.com/skyrim-anniversary-edition-modpocalypse-partially-averted-by-a-key-modder-getting-early-access)
+ - [Story-Driven Culinary Adventure Epic Chef, Out Today!](https://news.xbox.com/en-us/2021/11/11/story-driven-culinary-adventure-epic-chef-out-today/)
+ - [All The Features You Can Only Get With Animal Crossing’s Happy Home Paradise DLC](https://kotaku.com/all-the-features-you-can-only-get-with-animal-crossing-1848035273)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
