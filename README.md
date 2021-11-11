@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [His palms are sweaty, knees weak, arms are heavy](http://9gag.com/gag/a0ZPBqX)
- - 🚯 [Her laugh made this video even better](http://9gag.com/gag/awzbwX4)
- - 🚯 [Surprise surprise](http://9gag.com/gag/aVxQNyM)<!-- MEMES:END -->
+ - 🚖 [Surprise surprise](http://9gag.com/gag/aVxQNyM)
+ - 🚯 [Determining the orientation of the brace for gate strength](http://9gag.com/gag/ajg6bRw)
+ - 🚯 [The sound this trowel makes being launched](http://9gag.com/gag/a51NmKV)<!-- MEMES:END -->
 
 --- 
 
