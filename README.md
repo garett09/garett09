@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Elden Ring Network Test, According To The Most Popular Souls Nerds Around](https://kotaku.com/the-elden-ring-network-test-according-to-the-most-popu-1848041408)
- - [Are the Spider-Men OK?](https://www.polygon.com/22776791/spider-man-no-way-home-tom-holland-andrew-garfield)
- - [Seems Like Marvel, Attack On Titan Might Pop Up In Call Of Duty: Vanguard](https://kotaku.com/seems-like-marvel-attack-on-titan-might-pop-up-in-call-1848041272)<!-- GAME:END -->
+ - [Call Of Duty: Vanguard&#39;s Campaign Is An Insult To Word War II](https://kotaku.com/call-of-duty-vanguards-campaign-is-an-insult-to-word-w-1848042030)
+ - [Call of Duty: Vanguard continues the trend of mythmaking and tokenization](https://www.polygon.com/reviews/22776800/call-of-duty-vanguard-review-single-player-ps5-xbox-series-x-pc)
+ - [Playdate Handheld Delayed To 2022 Over Battery Life Concerns](https://kotaku.com/playdate-handheld-delayed-to-2022-over-battery-life-con-1848041954)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
