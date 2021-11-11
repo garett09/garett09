@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Activision apologizes for ‘insensitive’ depiction of Koran in Call of Duty map](https://www.polygon.com/22776457/call-of-duty-vanguard-koran-pages-apology-islam)
- - [Lin-Manuel Miranda transforms Tick, Tick… Boom! into a powerful ode to his hero](https://www.polygon.com/22776394/tick-tick-boom-review-netflix)
- - [Start Playing Battlefield 2042 on November 12 with Xbox Game Pass Ultimate and EA Play](https://news.xbox.com/en-us/2021/11/11/play-battlefield-2042-november-12-with-xbox-game-pass-ultimate-and-ea-play/)<!-- GAME:END -->
+ - [World of Warcraft: Shadowlands’ final patch is a lore-rich bonanza of death](https://www.polygon.com/22775158/world-of-warcraft-shadowlands-eternitys-end-final-patch-reveal)
+ - [GTA Trilogy Graphics Comparison Shows Off Some Pretty Good Upgrades](https://kotaku.com/gta-trilogy-graphics-comparison-shows-off-some-pretty-g-1848040253)
+ - [Marvel’s Eternals comic hands Thanos a huge victory](https://www.polygon.com/22776309/thanos-eternals-prime-comic)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
