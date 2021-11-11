@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Store app updated with new Saved Items list feature, audio descriptions](https://appleinsider.com/articles/21/11/11/apple-store-app-updated-with-new-saved-items-list-feature-audio-descriptions?utm_medium=rss)
- - [Facebook acquired more than 21 startups in the last three years, per PitchBook, with at least 4 VR acquisitions this year; sources say it paid $500M+ for Within &lpar;Peter Kafka/Vox&rpar;](http://www.techmeme.com/211111/p27#a211111p27)
- - [Spotify is acquiring an audiobook company](https://www.theverge.com/2021/11/11/22776777/spotify-findaway-acquire-audiobooks-podcasts-buy)<!-- TECH:END -->
+ - [Spotify pushes into audiobook business with Findaway purchase](https://appleinsider.com/articles/21/11/11/spotify-pushes-into-audiobook-business-with-findaway-purchase?utm_medium=rss)
+ - [Foxconn to buy Lordstown Motors&#39; plant, may help build Endurance pickup     - Roadshow](https://www.cnet.com/roadshow/news/foxconn-lordstown-motors-manufacturing-build-endurance-pickup/#ftag=CAD590a51e)
+ - [Spotify acquires audiobook distributor Findaway and says it expects the deal to close in Q4 2021 &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/211111/p28#a211111p28)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
