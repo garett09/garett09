@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The next SteamWorld game is 3D, co-op, and called Headhunter](https://www.pcgamer.com/the-next-steamworld-game-is-3d-co-op-and-called-headhunter)
- - [Elex 2 releases sooner than expected](https://www.pcgamer.com/elex-2-releases-sooner-than-expected)
- - [Lost Ark is a bizarro action-RPG married to a trad MMO](https://www.pcgamer.com/lost-ark-is-a-bizarro-action-rpg-married-to-a-trad-mmo)<!-- GAME:END -->
+ - [3DMark introduces a storage benchmark as DLC](https://www.pcgamer.com/3dmark-introduces-a-storage-benchmark-as-dlc)
+ - [CPU Coolers and Motherboards are having physical compatibility issues](https://www.pcgamer.com/cpu-coolers-and-motherboards-are-having-physical-compatibility-issues)
+ - [The next SteamWorld game is 3D, co-op, and called Headhunter](https://www.pcgamer.com/the-next-steamworld-game-is-3d-co-op-and-called-headhunter)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
