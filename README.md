@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [GTA Trilogy Definitive Edition radio stations are missing over 40 songs](https://www.pcgamer.com/gta-trilogy-definitive-edition-radio-stations-are-missing-over-40-songs)
- - [Forza Horizon 5 Is Full Of Jeeps After Fans Find Exploit](https://kotaku.com/forza-horizon-5-is-full-of-jeeps-after-fans-find-exploi-1848035754)
- - [YouTube Has Removed The Dislike Counter](https://kotaku.com/youtube-has-removed-the-dislike-counter-1848036246)<!-- GAME:END -->
+ - [What have you used to make your desk a nicer place?](https://www.pcgamer.com/what-have-you-used-to-make-your-desk-nicer)
+ - [GTA Trilogy Definitive Edition radio stations are missing over 40 songs according to Rockstar tracklist](https://www.pcgamer.com/gta-trilogy-definitive-edition-radio-stations-are-missing-over-40-songs)
+ - [Forza Horizon 5 Is Full Of Jeeps After Fans Find Exploit](https://kotaku.com/forza-horizon-5-is-full-of-jeeps-after-fans-find-exploi-1848035754)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
