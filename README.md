@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [MSI&#39;s upcoming Z690 Godlike might be the most insane motherboard ever](https://www.pcgamer.com/msis-upcoming-z690-godlike-might-be-the-most-insane-motherboard-ever)
  - [This claims to be the world&#39;s fastest and highest capacity SSD](https://www.pcgamer.com/this-claims-to-be-the-worlds-fastest-and-highest-capacity-ssd)
- - [3DMark introduces a storage benchmark as DLC](https://www.pcgamer.com/3dmark-introduces-a-storage-benchmark-as-dlc)
- - [CPU Coolers and Motherboards are having physical compatibility issues](https://www.pcgamer.com/cpu-coolers-and-motherboards-are-having-physical-compatibility-issues)<!-- GAME:END -->
+ - [3DMark introduces a storage benchmark as DLC](https://www.pcgamer.com/3dmark-introduces-a-storage-benchmark-as-dlc)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
