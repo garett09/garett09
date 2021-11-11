@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android 12L: Everything you need to know about Google’s OS for larger screens](https://www.androidauthority.com/android-12l-3047080/)
- - [Ometria, a CRM service that uses AI to let brands and retailers personalize marketing messages, raises a $40M Series C, bringing its total funding to $75M+ &lpar;Mike Butcher/TechCrunch&rpar;](http://www.techmeme.com/211111/p17#a211111p17)
- - [AirPods 3 review: An excellent AirPods evolution, but fit can be problematic](https://appleinsider.com/articles/21/11/07/airpods-3-review-an-excellent-airpods-evolution-but-fit-can-be-problematic?utm_medium=rss)<!-- TECH:END -->
+ - [How to remove Stocks, Compass and other native apps from your iPhone or iPad in iOS 15](https://appleinsider.com/articles/21/11/11/how-to-remove-stocks-compass-and-other-native-apps-from-your-iphone-or-ipad-in-ios-15?utm_medium=rss)
+ - [Discord CEO says the company won’t add a crypto wallet — for now](https://www.theverge.com/2021/11/11/22776422/discord-ceo-crypto-nft-wallet-jason-citron-tweet)
+ - [GM is building a prototype for the US military based on the Hummer EV](https://www.theverge.com/2021/11/11/22776324/general-motors-hummer-ev-us-military-prototype-defense)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
