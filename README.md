@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hands on with the luxury Hermes Apple Watch Series 7](https://appleinsider.com/articles/21/11/11/hands-on-with-the-luxury-hermes-apple-watch-series-7?utm_medium=rss)
- - [Twitch is now on the Switch](https://www.theverge.com/2021/11/11/22776560/twitch-app-nintendo-switch-launch)
- - [Patreon CEO Jack Conte says the service is building native video hosting for creators, which would reduce their reliance on YouTube &lpar;Ashley Carman/The Verge&rpar;](http://www.techmeme.com/211111/p19#a211111p19)<!-- TECH:END -->
+ - [Steam Deck, Playdate handheld consoles delayed until early 2022](https://appleinsider.com/articles/21/11/11/steam-deck-playdate-handheld-consoles-delayed-until-early-2022?utm_medium=rss)
+ - [Here are the best Amazon Echo deals right now](https://www.theverge.com/21546591/best-amazon-echo-deals)
+ - [Google researchers found a watering hole attack in August exploiting a macOS zero-day and targeting Hong Kong pro-democracy sites; Apple patched on September 23 &lpar;Lorenzo Franceschi-Bicchierai/VICE&rpar;](http://www.techmeme.com/211111/p21#a211111p21)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
