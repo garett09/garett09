@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The best Secretlab gaming chair deals: treat yourself to a gaming throne ahead of Black Friday](https://www.pcgamer.com/secretlab-black-friday-deals-2021)
  - [Battlefield 2042 review-in-progress: Portal steals the show, Hazard Zone plays it safe](https://www.pcgamer.com/battlefield-2042-review-in-progress)
- - [Battlefield 2042 can’t quite reach the franchise’s high points](https://www.polygon.com/22775630/battlefield-2042-early-review-pc-ps5-xbox-series-x-ps4-xbox-one)
- - [This Dell G15 Ryzen Edition laptop is over $200 off](https://www.pcgamer.com/this-dell-g15-ryzen-edition-laptop-is-over-dollar200-off)<!-- GAME:END -->
+ - [Battlefield 2042 can’t quite reach the franchise’s high points](https://www.polygon.com/22775630/battlefield-2042-early-review-pc-ps5-xbox-series-x-ps4-xbox-one)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
