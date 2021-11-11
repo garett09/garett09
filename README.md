@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [He is watching you](http://9gag.com/gag/adg63ej)
- - 🚯 [Girl got some serious HANDS !](http://9gag.com/gag/aM4bpzX)
+ - 🚖 [Youtube has became a communist party](http://9gag.com/gag/arne6dK)
+ - 🚯 [He is watching you](http://9gag.com/gag/adg63ej)
  - 🚯 [Facts!](http://9gag.com/gag/aOQy6VN)<!-- MEMES:END -->
 
 --- 
