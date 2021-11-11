@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Huawei Watch GT 3 review: Endurance, refined](https://www.androidauthority.com/huawei-watch-gt-3-review-3053013/)
  - [Apple details veterans use of iPad technology to help in trauma medicine](https://appleinsider.com/articles/21/11/11/apple-details-veterans-use-of-ipad-technology-to-help-in-trauma-medicine?utm_medium=rss)
- - [QuickTake in iOS 15: How to use the upgraded iPhone feature     - CNET](https://www.cnet.com/tech/mobile/quicktake-in-ios-15-how-to-use-the-upgraded-iphone-feature/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best deals Nov. 11: up to 36% off 4K Samsung TVs, 15% off &#39;The Office&#39; Blu-ray set, and more!](https://appleinsider.com/articles/21/11/11/best-deals-nov-11-up-to-36-off-4k-samsung-tvs-15-off-the-office-blu-ray-set-and-more?utm_medium=rss)
+ - [The Best Weighted Blankets for Calm and Comfort](https://www.wired.com/gallery/best-weighted-blankets)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
