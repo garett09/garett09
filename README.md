@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Call Of Duty: Vanguard Removes Islamophobic Content Following Criticism](https://kotaku.com/call-of-duty-vanguard-removes-islamophobic-content-fol-1848039333)
- - [Xbox Design Lab Brings Back Rubberized Grips, Metallic Finishes, and More](https://news.xbox.com/en-us/2021/11/11/xbox-design-lab-rubberized-grips-metallic-finishes-and-more/)
- - [Resident Evil: Welcome to Raccoon City’s game references run obsessively deep](https://www.polygon.com/22775559/resident-evil-welcome-to-raccoon-city-mansion-easter-eggs)<!-- GAME:END -->
+ - [Activision apologizes for ‘insensitive’ depiction of Koran in Call of Duty map](https://www.polygon.com/22776457/call-of-duty-vanguard-koran-pages-apology-islam)
+ - [Lin-Manuel Miranda transforms Tick, Tick… Boom! into a powerful ode to his hero](https://www.polygon.com/22776394/tick-tick-boom-review-netflix)
+ - [Start Playing Battlefield 2042 on November 12 with Xbox Game Pass Ultimate and EA Play](https://news.xbox.com/en-us/2021/11/11/play-battlefield-2042-november-12-with-xbox-game-pass-ultimate-and-ea-play/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
