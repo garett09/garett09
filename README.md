@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple celebrates Veterans Day with featured content, highlights medical app](https://appleinsider.com/articles/21/11/11/apple-details-veterans-use-of-ipad-technology-to-help-in-trauma-medicine?utm_medium=rss)
- - [A look at Binance, which sources say could be worth $300B if it goes public, as its unfettered, unregulated growth comes to an end amid global scrutiny &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/211111/p25#a211111p25)
- - [Doom’s Creator Goes After ‘Doomscroll’](https://www.wired.com/story/doom-creator-goes-after-doomscroll)<!-- TECH:END -->
+ - [Apple Store app updated with new Saved Items list feature, audio descriptions](https://appleinsider.com/articles/21/11/11/apple-store-app-updated-with-new-saved-items-list-feature-audio-descriptions?utm_medium=rss)
+ - [Facebook acquired more than 21 startups in the last three years, per PitchBook, with at least 4 VR acquisitions this year; sources say it paid $500M+ for Within &lpar;Peter Kafka/Vox&rpar;](http://www.techmeme.com/211111/p27#a211111p27)
+ - [Spotify is acquiring an audiobook company](https://www.theverge.com/2021/11/11/22776777/spotify-findaway-acquire-audiobooks-podcasts-buy)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
