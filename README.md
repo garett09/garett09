@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Something new!](http://9gag.com/gag/a41dKqd)
- - 🚯 [A California based company is yeeting rockets into space using a giant centrifugal sling with speeds up to 5000 mi/h &lpar;8000 km/h&rpar;](http://9gag.com/gag/aPZ46GP)
+ - 🚖 [A California based company is yeeting rockets into space using a giant centrifugal sling with speeds up to 5000 mi/h &lpar;8000 km/h&rpar;](http://9gag.com/gag/aPZ46GP)
+ - 🚯 [Something new!](http://9gag.com/gag/a41dKqd)
  - 🚯 [Learning to play an instrument is very important!](http://9gag.com/gag/aAGrRpE)<!-- MEMES:END -->
 
 --- 
