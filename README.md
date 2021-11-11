@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Galaxy S22 vs. Galaxy S21: Rumored differences between Samsung&#39;s flagships     - CNET](https://www.cnet.com/tech/mobile/galaxy-s22-vs-galaxy-s21-rumored-differences-between-samsungs-flagships/#ftag=CAD590a51e)
  - [Poll: What’s the top feature you look for when buying a flagship phone?](https://www.androidauthority.com/top-feature-buying-phone-poll-3055106/)
- - [Apple AirPods dip to $89, Apple TV 4K on sale for $119 in latest round of early Black Friday deals](https://appleinsider.com/articles/21/11/11/apple-airpods-dip-to-89-apple-tv-4k-on-sale-for-119-in-latest-round-of-early-black-friday-deals?utm_medium=rss)
- - [Arkansas-based Zenwork, which develops tax and regulatory compliance software, raises $162.5M led by Spectrum Equity and says 100,000+ US SMBs use its services &lpar;Worth Sparkman/Axios&rpar;](http://www.techmeme.com/211111/p1#a211111p1)<!-- TECH:END -->
+ - [Apple AirPods dip to $89, Apple TV 4K on sale for $119 in latest round of early Black Friday deals](https://appleinsider.com/articles/21/11/11/apple-airpods-dip-to-89-apple-tv-4k-on-sale-for-119-in-latest-round-of-early-black-friday-deals?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
