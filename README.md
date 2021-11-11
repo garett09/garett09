@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [World of Warcraft: Shadowlands’ final patch is a lore-rich bonanza of death](https://www.polygon.com/22775158/world-of-warcraft-shadowlands-eternitys-end-final-patch-reveal)
- - [GTA Trilogy Graphics Comparison Shows Off Some Pretty Good Upgrades](https://kotaku.com/gta-trilogy-graphics-comparison-shows-off-some-pretty-g-1848040253)
- - [Marvel’s Eternals comic hands Thanos a huge victory](https://www.polygon.com/22776309/thanos-eternals-prime-comic)<!-- GAME:END -->
+ - [15 years after Oblivion, Skyrim Anniversary Edition throws in free horse armor](https://www.pcgamer.com/15-years-after-oblivion-skyrim-anniversary-edition-throws-in-free-horse-armor)
+ - [Resident Evil 4 Is Somehow Even Better In VR](https://kotaku.com/resident-evil-4-is-somehow-even-better-in-vr-1848040500)
+ - [Animal Crossing Happy Home Paradise does what all DLC should: make a great game even better](https://www.polygon.com/reviews/22776385/animal-crossing-happy-home-paradise-dlc-home-designing-pure-joy)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
