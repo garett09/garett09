@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best Secretlab gaming chair deals: treat yourself to a gaming throne ahead of Black Friday](https://www.pcgamer.com/secretlab-black-friday-deals-2021)
- - [Battlefield 2042 review-in-progress: Portal steals the show, Hazard Zone plays it safe](https://www.pcgamer.com/battlefield-2042-review-in-progress)
- - [Battlefield 2042 can’t quite reach the franchise’s high points](https://www.polygon.com/22775630/battlefield-2042-early-review-pc-ps5-xbox-series-x-ps4-xbox-one)<!-- GAME:END -->
+ - [Black Friday gaming PC deals 2021: the best prebuilt systems on sale today](https://www.pcgamer.com/black-friday-gaming-pc-deals-2021)
+ - [How to complete Flock of Trucks in Forza Horizon 5](https://www.pcgamer.com/forza-horizon-5-flock-of-trucks-daily-challenge-not-working)
+ - [Pokémon Trading Card Game Live delayed to next year](https://www.pcgamer.com/pokemon-trading-card-game-live-delayed-to-next-year)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
