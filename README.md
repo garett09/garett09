@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Look, Ma! No hands!](http://9gag.com/gag/azeEbgx)
- - 🚯 [Another day on London](http://9gag.com/gag/aAGrB0Z)
- - 🚯 [Cheap marble](http://9gag.com/gag/apg0qP5)<!-- MEMES:END -->
+ - 🚖 [Do something please](http://9gag.com/gag/aeg0Nmb)
+ - 🚯 [Cheap marble](http://9gag.com/gag/apg0qP5)
+ - 🚯 [*Hums BTF soundtrack*](http://9gag.com/gag/azeEgdj)<!-- MEMES:END -->
 
 --- 
 
