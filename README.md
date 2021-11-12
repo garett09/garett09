@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Genshin Impact Version 2.3: Winter camp in Dragonspine](https://blog.playstation.com/2021/11/12/genshin-impact-version-2-3-winter-camp-in-dragonspine/)
- - [Genshin Impact Version 2.3: Winter camp in Dragonspine](https://blog.playstation.com/2021/11/12/genshin-impact-version-2-3-winter-camp-in-dragonspine/)
- - [GTA Trilogy Pulled For PC, Rockstar Launcher Broken](https://kotaku.com/gta-trilogy-pulled-for-pc-rockstar-launcher-broken-1848045434)<!-- GAME:END -->
+ - [Everything we know about Arataki Itto in Genshin Impact](https://www.pcgamer.com/best-genshin-impact-arataki-itto-build-banner)
+ - [Next Week on Xbox: November 15 to 19](https://news.xbox.com/en-us/2021/11/12/next-week-on-xbox-november-15-to-19/)
+ - [Genshin Impact codes: free Primogems and Mora](https://www.pcgamer.com/redeem-genshin-impact-codes)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
