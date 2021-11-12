@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Everything announced as part of Disney Plus Day](https://www.androidauthority.com/disney-plus-day-2021-3058149/)
- - [Blackshark.ai, the Austrian startup that developed the replica-Earth in Microsoft&#39;s Flight Simulator, raises a $20M Series A led by M12 &lpar;Devin Coldewey/TechCrunch&rpar;](http://www.techmeme.com/211112/p15#a211112p15)
- - [Nintendo’s new Game &amp; Watch is the cutest way to play classic Zelda games](https://www.theverge.com/2021/11/12/22778484/nintendo-zelda-game-and-watch-hands-on)<!-- TECH:END -->
+ - [These are the best and worst countries in which to buy a Samsung or Apple phone](https://www.androidauthority.com/buy-samsung-phone-countries-3058291/)
+ - [A look at lawsuits against Amazon over crashes caused by rushing delivery drivers; Amazon denies responsibility, saying one driver worked for a contractor &lpar;Spencer Soper/Bloomberg&rpar;](http://www.techmeme.com/211112/p16#a211112p16)
+ - [Apple’s latest beta fixes macro mode confusion for iPhone 13 Pro](https://www.theverge.com/2021/11/12/22778650/apple-iphone-13-pro-beta-macro-mode-button-auto-switching)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
