@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Daily reminder](http://9gag.com/gag/aE81n8K)
- - 🚯 [Facial reconstruction of Ramesses 2 the greatest pharoah of ancient egypt.&lpar;rules about 3300 years ago&rpar;](http://9gag.com/gag/aNPZnrK)
- - 🚯 [Universal language for guys](http://9gag.com/gag/aKmP3gN)<!-- MEMES:END -->
+ - 🚖 [Just wanna sleep](http://9gag.com/gag/aZrxpB6)
+ - 🚯 [Universal language for guys](http://9gag.com/gag/aKmP3gN)
+ - 🚯 [Daily reminder](http://9gag.com/gag/aE81n8K)<!-- MEMES:END -->
 
 --- 
 
