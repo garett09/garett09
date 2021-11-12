@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Battlefield 2042 won&#39;t have voice chat at launch](https://www.pcgamer.com/battlefield-2042-wont-have-voice-chat-at-launch)
- - [The next level up in performance](https://www.pcgamer.com/the-next-level-up-in-performance)
- - [Synthetik 2 is a sequel to the best tactical shooter you&#39;ve never heard of](https://www.pcgamer.com/synthetik-2-is-a-sequel-to-the-best-tactical-shooter-youve-never-heard-of)<!-- GAME:END -->
+ - [Windows 11&#39;s New HDR Shortcuts Are A Blessing](https://kotaku.com/windows-11s-new-hdr-shortcuts-are-a-blessing-1848037212)
+ - [Bethesda just dropped heaps of new Starfield concept art](https://www.pcgamer.com/bethesda-just-dropped-heaps-of-new-starfield-concept-art)
+ - [Square’s Obscure Street Racing RPG Is Finally Playable In English](https://kotaku.com/square-s-obscure-street-racing-rpg-is-finally-playable-1848043590)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
