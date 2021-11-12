@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Im dying LMAO](http://9gag.com/gag/aog0zge)
- - 🚯 [Stop disliking what we tell you to like](http://9gag.com/gag/angKX35)
- - 🚯 [Fool of A Took](http://9gag.com/gag/aGzwVw6)<!-- MEMES:END -->
+ - 🚖 [How hard emotional support dogs try](http://9gag.com/gag/azeEE5N)
+ - 🚯 [Imagine doing this now](http://9gag.com/gag/awzKrvy)
+ - 🚯 [Cop got your mate in a stranglehold? No prob. Pop that shirt off and throw down.](http://9gag.com/gag/aE811PN)<!-- MEMES:END -->
 
 --- 
 
