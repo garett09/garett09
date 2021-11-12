@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Just wanna sleep](http://9gag.com/gag/aZrxpB6)
- - 🚯 [Do the Zuckerberg dance](http://9gag.com/gag/aVxWP5v)
- - 🚯 [A mango leaf creating oxigen in real time](http://9gag.com/gag/a41dY7v)<!-- MEMES:END -->
+ - 🚖 [Vin Diesel acting skills Starter Pack](http://9gag.com/gag/arn4KWp)
+ - 🚯 [Just wanna sleep](http://9gag.com/gag/aZrxpB6)
+ - 🚯 [Let&amp;#039;s Dance...](http://9gag.com/gag/adgYXv2)<!-- MEMES:END -->
 
 --- 
 
