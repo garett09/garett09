@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [User-modified iPhone X with USB-C port sells for $86K](https://appleinsider.com/articles/21/11/11/user-modified-iphone-x-with-usb-c-port-sells-for-86k?utm_medium=rss)
- - [Today&#39;s top 5 early Black Friday Apple deals on Amazon](https://appleinsider.com/articles/21/11/11/todays-top-5-early-black-friday-apple-deals-on-amazon?utm_medium=rss)
- - [Otterbox Folding Wireless Power Bank review: Down with the thickness](https://www.androidauthority.com/otterbox-folding-wireless-power-bank-review-3051206/)<!-- TECH:END -->
+ - [Biden signs the Secure Equipment Act of 2021, denying FCC licenses to national security threats, effectively banning Huawei and ZTE network equipment in the US &lpar;Campbell Kwan/ZDNet&rpar;](http://www.techmeme.com/211111/p33#a211111p33)
+ - [Apple shares &#39;Foundation&#39; recap ahead of season finale](https://appleinsider.com/articles/21/11/12/apple-shares-foundation-recap-ahead-of-season-finale?utm_medium=rss)
+ - [HTC’s Vive Focus 3 update could free arcades from VR backpacks](https://www.theverge.com/2021/11/11/22777266/htc-vive-focus-3-vr-headset-location-based-entertainment-mode-arcade-update)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
