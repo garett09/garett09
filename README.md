@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;AirPods Pro 2&#39; rumored to launch Q3 2022](https://appleinsider.com/articles/21/11/12/airpods-pro-2-rumored-to-launch-q3-2022?utm_medium=rss)
- - [Huawei’s hopeless US situation somehow got worse](https://www.androidauthority.com/huawei-zte-ban-fcc-3057647/)
- - [Under shareholder pressure, Toshiba says it will split into three companies, focusing on infrastructure, tech devices, and memory chips &lpar;Takashi Mochizuki/Bloomberg&rpar;](http://www.techmeme.com/211112/p3#a211112p3)<!-- TECH:END -->
+ - [How to change your default Google account](https://www.androidauthority.com/change-default-google-account-3056157/)
+ - [China&#39;s JD sold $15.6 million of iPhone 13 in first two seconds of sales event](https://appleinsider.com/articles/21/11/12/chinas-jd-sold-156-million-of-iphone-13-in-first-two-seconds-of-sales-event?utm_medium=rss)
+ - [You told us: You’re deeply torn over today’s in-display fingerprint sensors](https://www.androidauthority.com/in-display-fingerprint-sensor-poll-results-3057651/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
