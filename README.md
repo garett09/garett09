@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple shares &#39;Foundation&#39; recap ahead of season finale](https://appleinsider.com/articles/21/11/12/apple-shares-foundation-recap-ahead-of-season-finale?utm_medium=rss)
- - [Apple details veterans use of iPad technology to help in trauma medicine](https://appleinsider.com/articles/21/11/11/apple-details-veterans-use-of-ipad-technology-to-help-in-trauma-medicine?utm_medium=rss)
- - [Foxconn beats estimates as Q3 net profit rose 20% YoY to $1.33B and warns its smartphone business revenue could slide more than 15% in Q4 &lpar;Reuters&rpar;](http://www.techmeme.com/211112/p2#a211112p2)<!-- TECH:END -->
+ - [&#39;AirPods Pro 2&#39; rumored to launch Q3 2022](https://appleinsider.com/articles/21/11/12/airpods-pro-2-rumored-to-launch-q3-2022?utm_medium=rss)
+ - [Huawei’s hopeless US situation somehow got worse](https://www.androidauthority.com/huawei-zte-ban-fcc-3057647/)
+ - [Under shareholder pressure, Toshiba says it will split into three companies, focusing on infrastructure, tech devices, and memory chips &lpar;Takashi Mochizuki/Bloomberg&rpar;](http://www.techmeme.com/211112/p3#a211112p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
