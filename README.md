@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Just wanna sleep](http://9gag.com/gag/aZrxpB6)
- - 🚯 [Universal language for guys](http://9gag.com/gag/aKmP3gN)
- - 🚯 [Daily reminder](http://9gag.com/gag/aE81n8K)<!-- MEMES:END -->
+ - 🚖 [Picasso Runs Out Of Ideas](http://9gag.com/gag/aLvP9ZA)
+ - 🚯 [Daily reminder](http://9gag.com/gag/aE81n8K)
+ - 🚯 [See below](http://9gag.com/gag/aZrxBMX)<!-- MEMES:END -->
 
 --- 
 
