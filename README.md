@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Star Wars: Obi-Wan Kenobi gets first behind-the-scenes look filled with concept art](https://www.polygon.com/22418119/star-wars-obi-wan-kenobi-behind-the-scenes-trailer)
- - [Sorry, not sorry, Pixar is making a Cars show](https://www.polygon.com/disney-plus/2020/12/10/22168793/pixar-cars-show-up-disney-plus)
- - [Dell S2722DGM gaming monitor review](https://www.pcgamer.com/dell-s2722dgm-gaming-monitor-review)<!-- GAME:END -->
+ - [GTA Trilogy&#39;s San Andreas Now Feels Depressing Without Its Signature Fog](https://kotaku.com/gta-trilogys-san-andreas-now-feels-depressing-without-i-1848047292)
+ - [Marvel reveals first look at Tatiana Maslany’s She-Hulk appendages](https://www.polygon.com/22778120/she-hulk-teaser-trailer-cast-release-date-marvel-tatiana-maslany)
+ - [Ms. Marvel teaser offers a first look at Kamala Khan in action](https://www.polygon.com/disney-plus/22596435/ms-marvel-trailer-kamala-khan-disney-plus)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
