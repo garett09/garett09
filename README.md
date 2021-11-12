@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Marvel Cinematic Universe Phase 4: The full list of release dates     - CNET](https://www.cnet.com/news/marvel-cinematic-universe-phase-4-the-full-list-of-release-dates/#ftag=CAD590a51e)
- - [The best headphone deals of Black Friday 2021](https://www.androidauthority.com/best-headphone-deals-1111467/)
- - [Profile of CryptoPunks, an NFT project founded by two Canadian developers in 2017, which has reached $1.5B in lifetime sales as NFTs explode in popularity &lpar;Sandra Upson/Wired&rpar;](http://www.techmeme.com/211111/p34#a211111p34)<!-- TECH:END -->
+ - [Turkish delivery startup Getir, which promises 10-minute grocery deliveries, launches in Chicago, and plans to roll out in NYC and Boston by the end of 2021 &lpar;Reuters&rpar;](http://www.techmeme.com/211111/p35#a211111p35)
+ - [Glitter is an environmental disaster. So scientists invented an eco-friendly version     - CNET](https://www.cnet.com/news/glitter-is-an-environmental-disaster-so-scientists-invented-an-eco-friendly-version/#ftag=CAD590a51e)
+ - [Acura Integra prototype is an enthusiasts&#39; icon reborn     - Roadshow](https://www.cnet.com/roadshow/news/acura-integra-prototype-revealed/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
