@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Modern problem requires modern solution](http://9gag.com/gag/aNPZZVA)
- - 🚯 [We should try not to use youtube for a few days. I&amp;#039;m sure it&amp;#039;s possible. Enough of their monopoly.](http://9gag.com/gag/aAGrY8L)
- - 🚯 [Stop disliking what we tell you to like](http://9gag.com/gag/angKX35)<!-- MEMES:END -->
+ - 🚖 [Damn aliens took our jobs not taking our good man](http://9gag.com/gag/aWgW0Nn)
+ - 🚯 [Cop got your mate in a stranglehold? No prob. Pop that shirt off and throw down.](http://9gag.com/gag/aE811PN)
+ - 🚯 [Shoutout to this man Ashton Kutcher, who went from being an actor to fighting to end child sex trafficking. His organisation helped find 6000 human trafficking victims. Respect !](http://9gag.com/gag/aRrPg2j)<!-- MEMES:END -->
 
 --- 
 
