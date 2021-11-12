@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Jamf CEO calls Apple Business Essentials a &#39;terrific opportunity&#39;](https://appleinsider.com/articles/21/11/12/jamf-ceo-calls-apple-business-essentials-a-terrific-opportunity?utm_medium=rss)
- - [Black Friday Canada 2021: All the best deals on all the best tech](https://www.androidauthority.com/best-black-friday-deals-canada-1180332/)
- - [Nvidia’s GeForce Now has been quietly capping its founders’ frame rates](https://www.theverge.com/2021/11/12/22778693/nvidia-geforce-now-cloud-gaming-framerate-cap-fps-cyberpunk)<!-- TECH:END -->
+ - [Metaverse, schmetaverse — take me to the Icelandverse](https://www.theverge.com/tldr/2021/11/12/22778984/facebook-meta-metaverse-parody-video-iceland-icelandverse)
+ - [A labor group seeking to organize at Amazon&#39;s Staten Island facility have withdrawn their petition to the NLRB, saying they need more time to collect signatures &lpar;Bloomberg&rpar;](http://www.techmeme.com/211112/p19#a211112p19)
+ - [Canada-based Knak, which offers a codeless campaign creation service for marketing teams, raises a $25M Series A led by Insight Partners &lpar;Shubham Sharma/VentureBeat&rpar;](http://www.techmeme.com/211112/p18#a211112p18)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
