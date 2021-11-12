@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [F**k you Youtube.](http://9gag.com/gag/aVxWXgw)
- - 🚯 [Where fox?](http://9gag.com/gag/azeEV9Z)
- - 🚯 [I&amp;#039;ve never read something so true](http://9gag.com/gag/aGzwRd6)<!-- MEMES:END -->
+ - 🚖 [It&amp;rsquo;s finally Friday](http://9gag.com/gag/a81YMYZ)
+ - 🚯 [I&amp;#039;ve never read something so true](http://9gag.com/gag/aGzwRd6)
+ - 🚯 [Bark at your dog](http://9gag.com/gag/awzKKRy)<!-- MEMES:END -->
 
 --- 
 
