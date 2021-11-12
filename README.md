@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Good old time...](http://9gag.com/gag/a313YvN)
+ - 🚖 [Im dying LMAO](http://9gag.com/gag/aog0zge)
  - 🚯 [Stop disliking what we tell you to like](http://9gag.com/gag/angKX35)
- - 🚯 [Im dying LMAO](http://9gag.com/gag/aog0zge)<!-- MEMES:END -->
+ - 🚯 [Fool of A Took](http://9gag.com/gag/aGzwVw6)<!-- MEMES:END -->
 
 --- 
 
