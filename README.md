@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dell S3222DGM gaming monitor review](https://www.pcgamer.com/dell-s3222dgm-gaming-monitor-review)
- - [PlayStation 5 Turns One Today](https://blog.playstation.com/2021/11/12/playstation-5-turns-one-today/)
- - [PlayStation 5 Turns One Today](https://blog.playstation.com/2021/11/12/playstation-5-turns-one-today/)<!-- GAME:END -->
+ - [Assassin&#39;s Creed Valhalla: How to complete An Honorable Death](https://www.pcgamer.com/assassins-creed-ac-valhalla-an-honorable-death)
+ - [AMD&#39;s Radeon vulnerability haul shows why you should always update your GPU drivers](https://www.pcgamer.com/amds-radeon-vulnerability-haul-shows-why-you-should-always-update-your-gpu-drivers)
+ - [MSI MEG Coreliquid 360 CPU cooler review](https://www.pcgamer.com/msi-meg-coreliquid-s360-cpu-cooler)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
