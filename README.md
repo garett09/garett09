@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [But it is not this day](http://9gag.com/gag/adgYYmQ)
- - 🚯 [Vin Diesel acting skills Starter Pack](http://9gag.com/gag/arn4KWp)
- - 🚯 [The Bond girl that we need](http://9gag.com/gag/azeEVep)<!-- MEMES:END -->
+ - 🚖 [This guy bought a helicopter and wanted to fly it with zero experience](http://9gag.com/gag/a91L7mW)
+ - 🚯 [It&amp;rsquo;s finally Friday](http://9gag.com/gag/a81YMYZ)
+ - 🚯 [A mango leaf creating oxigen in real time](http://9gag.com/gag/a41dY7v)<!-- MEMES:END -->
 
 --- 
 
