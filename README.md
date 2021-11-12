@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to change your default Google account](https://www.androidauthority.com/change-default-google-account-3056157/)
- - [China&#39;s JD sold $15.6 million of iPhone 13 in first two seconds of sales event](https://appleinsider.com/articles/21/11/12/chinas-jd-sold-156-million-of-iphone-13-in-first-two-seconds-of-sales-event?utm_medium=rss)
- - [You told us: You’re deeply torn over today’s in-display fingerprint sensors](https://www.androidauthority.com/in-display-fingerprint-sensor-poll-results-3057651/)<!-- TECH:END -->
+ - [A look at the relationship between Frances Haugen and anti-tech lobbying group Reset, which has guided her EU tour &lpar;Politico&rpar;](http://www.techmeme.com/211112/p6#a211112p6)
+ - [Google 30W USB-C Power Charger review: One for the modern age](https://www.androidauthority.com/google-30w-usb-c-power-charger-review-3056969/)
+ - [The Man, the Myth, and the Metaverse](https://www.wired.com/story/the-man-the-myth-and-the-metaverse)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
