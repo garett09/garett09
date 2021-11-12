@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus 8 and 8T owners can now test out Android 12, but there’s a huge catch](https://www.androidauthority.com/oneplus-8-android-12-3058158/)
- - [Second iOS 15.2 beta adds macro toggle in Camera app for iPhone 13 Pro](https://appleinsider.com/articles/21/11/12/second-ios-152-beta-adds-macro-photography-toggle-for-iphone-13?utm_medium=rss)
- - [Forte, a blockchain-based gaming infrastructure startup, raises a $725M Series B led by Sea Capital and Kora Management, bringing its total funding to $900M &lpar;Tanzeel Akhtar/CoinDesk&rpar;](http://www.techmeme.com/211112/p12#a211112p12)<!-- TECH:END -->
+ - [What Is Imax Enhanced, and Should You Care?](https://www.wired.com/story/what-is-imax-enhanced)
+ - [Native Union AirPods Beanies are a blast from the past for long-time Apple fans](https://appleinsider.com/articles/21/11/12/native-union-airpods-beanies-are-a-blast-from-the-past-for-long-time-apple-fans?utm_medium=rss)
+ - [Web3 notes from a sci-fi writer and &quot;enemy&quot; of the tech: it shows new protocols are still possible, but is expensive, undemocratic, and impedes ephemerality &lpar;Robin Sloan/The Society of the Double Dagger&rpar;](http://www.techmeme.com/211112/p13#a211112p13)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
