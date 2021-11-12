@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Sometimes the only way to breathe life into a board game Kickstarter is to kill it first](https://www.polygon.com/tabletop-games/22778194/thunder-road-kickstarter-canceled-restoration-games-interview)
- - [GTA Trilogy Pours Rain So Hard It’s Nearly Unplayable](https://kotaku.com/gta-trilogy-pours-rain-so-hard-it-s-nearly-unplayable-1848048162)
- - [Boba Fett emerges from the Sarlacc pit to join Fortnite](https://www.pcgamer.com/boba-fett-fortnite)<!-- GAME:END -->
+ - [Netflix’s Red Notice commits a cardinal sin for action blockbusters](https://www.polygon.com/reviews/22762443/red-notice-review-netflix)
+ - [Halo 3: ODST is still unlike any other Halo](https://www.polygon.com/22778185/halo-3-odst-xbox-360-bungie-best-halo-game-story-waypoint-system)
+ - [Less than a year after leaving, Assassin&#39;s Creed Valhalla narrative director returns to Ubisoft](https://www.pcgamer.com/less-than-a-year-after-leaving-assassins-creed-valhalla-narrative-director-returns-to-ubisoft)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
