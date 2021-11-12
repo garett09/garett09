@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hospitals are at a high risk of cyberattacks, but patients don’t realize it](https://www.theverge.com/2021/11/12/22776561/hosptial-cyberattack-ransomware-risk)
- - [Tesla vehicle in ‘Full Self-Driving’ beta mode ‘severely damaged’ after crash in California](https://www.theverge.com/2021/11/12/22778135/tesla-full-self-driving-beta-crash-fsd-california)
- - [New 14-inch MacBook Pro review: Where the &#39;Pro&#39; starts](https://appleinsider.com/articles/21/11/09/new-14-inch-macbook-pro-review-where-the-pro-starts?utm_medium=rss)<!-- TECH:END -->
+ - [Vergecast: How EV startup Rivian achieved a record-breaking IPO](https://www.theverge.com/2021/11/12/22778165/vergecast-podcast-475-rivian-truck-apple-epic-order)
+ - [Secretlab really built its extra-small gamer chair that started as an April Fools’ joke](https://www.theverge.com/2021/11/12/22778267/secretlab-xxs-gamer-chair-real-april-fools-joke)
+ - [In internal memo, Andrew Bosworth says he wants the metaverse to have &quot;almost Disney levels of safety&quot; but that moderation at scale &quot;is practically impossible&quot; &lpar;Hannah Murphy/Financial Times&rpar;](http://www.techmeme.com/211112/p9#a211112p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
