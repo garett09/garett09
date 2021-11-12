@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It&amp;rsquo;s finally Friday](http://9gag.com/gag/a81YMYZ)
- - 🚯 [I&amp;#039;ve never read something so true](http://9gag.com/gag/aGzwRd6)
- - 🚯 [Bark at your dog](http://9gag.com/gag/awzKKRy)<!-- MEMES:END -->
+ - 🚖 [But it is not this day](http://9gag.com/gag/adgYYmQ)
+ - 🚯 [Vin Diesel acting skills Starter Pack](http://9gag.com/gag/arn4KWp)
+ - 🚯 [The Bond girl that we need](http://9gag.com/gag/azeEVep)<!-- MEMES:END -->
 
 --- 
 
