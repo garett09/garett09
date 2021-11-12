@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Target Black Friday deals happening now: $130 off Dyson, big savings on Beats, Keurig, and more     - CNET](https://www.cnet.com/tech/home-entertainment/black-friday-deals-at-target-now-dyson-vacuums-beats-headphones-keurig-coffee-and-more/#ftag=CAD590a51e)
  - [Marvel&#39;s Shang-Chi to &lpar;finally&rpar; stream &#39;free&#39; on Disney Plus tonight     - CNET](https://www.cnet.com/tech/services-and-software/marvels-shang-chi-to-finally-stream-free-on-disney-plus-tonight/#ftag=CAD590a51e)
- - [Black Friday 2021 ad scans: Walmart, Staples, Target, Best Buy and more     - CNET](https://www.cnet.com/home/black-friday-2021-ad-scans-walmart-target-best-buy-and-more/#ftag=CAD590a51e)
- - [Jake Paul vs. Tommy Fury: When and how to watch, weird fight clauses     - CNET](https://www.cnet.com/news/jake-paul-vs-tommy-fury-when-and-how-to-watch-weird-fight-clauses/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Black Friday 2021 ad scans: Walmart, Staples, Target, Best Buy and more     - CNET](https://www.cnet.com/home/black-friday-2021-ad-scans-walmart-target-best-buy-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
