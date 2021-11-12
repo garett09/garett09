@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Turkish delivery startup Getir, which promises 10-minute grocery deliveries, launches in Chicago, and plans to roll out in NYC and Boston by the end of 2021 &lpar;Reuters&rpar;](http://www.techmeme.com/211111/p35#a211111p35)
- - [Glitter is an environmental disaster. So scientists invented an eco-friendly version     - CNET](https://www.cnet.com/news/glitter-is-an-environmental-disaster-so-scientists-invented-an-eco-friendly-version/#ftag=CAD590a51e)
- - [Acura Integra prototype is an enthusiasts&#39; icon reborn     - Roadshow](https://www.cnet.com/roadshow/news/acura-integra-prototype-revealed/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Jake Paul vs. Tommy Fury: When and how to watch, weird fight clauses     - CNET](https://www.cnet.com/news/jake-paul-vs-tommy-fury-when-and-how-to-watch-weird-fight-clauses/#ftag=CAD590a51e)
+ - [Paramount Plus plans Fatal Attraction streaming series starring Lizzy Caplan     - CNET](https://www.cnet.com/news/paramount-plus-plans-fatal-attraction-streaming-series-starring-lizzy-caplan/#ftag=CAD590a51e)
+ - [CoreWeave, which offers a specialized cloud service for GPU-based workloads, raises $50M led by Magnetar Capital &lpar;Matt Przybyla/VentureBeat&rpar;](http://www.techmeme.com/211111/p36#a211111p36)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
