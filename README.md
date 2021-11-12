@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Galaxy Z Flip 4 could pull most of Samsung’s foldable weight next year](https://www.androidauthority.com/samsung-foldable-phones-shipments-2022-3057551/)
- - [Marvel takes you behind the scenes in new Disney Plus documentaries     - CNET](https://www.cnet.com/news/marvel-takes-you-behind-the-scenes-in-new-disney-plus-documentaries/#ftag=CAD590a51e)
- - [Streamers are seeking out unscripted TV, including documentaries and reality TV, as a cheaper and popular alternative to the prestige shows they first produced &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/211112/p1#a211112p1)<!-- TECH:END -->
+ - [Apple shares &#39;Foundation&#39; recap ahead of season finale](https://appleinsider.com/articles/21/11/12/apple-shares-foundation-recap-ahead-of-season-finale?utm_medium=rss)
+ - [Apple details veterans use of iPad technology to help in trauma medicine](https://appleinsider.com/articles/21/11/11/apple-details-veterans-use-of-ipad-technology-to-help-in-trauma-medicine?utm_medium=rss)
+ - [Foxconn beats estimates as Q3 net profit rose 20% YoY to $1.33B and warns its smartphone business revenue could slide more than 15% in Q4 &lpar;Reuters&rpar;](http://www.techmeme.com/211112/p2#a211112p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
