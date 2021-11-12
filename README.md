@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Where to find Casa Bella in Forza Horizon 5](https://www.pcgamer.com/forza-horizon-5-casa-bella-location-photo-challenge)
- - [Microsoft proves it is listening to your feedback with Windows 11&#39;s volume scroll feature](https://www.pcgamer.com/microsoft-proves-it-is-listening-to-your-feedback-with-windows-11s-volume-scroll-feature)
- - [Rockstar Games Launcher keels over and all its PC games are down](https://www.pcgamer.com/rockstar-games-launcher-keels-over-and-all-its-pc-games-are-down)<!-- GAME:END -->
+ - [Genshin Impact Version 2.3: Winter camp in Dragonspine](https://blog.playstation.com/2021/11/12/genshin-impact-version-2-3-winter-camp-in-dragonspine/)
+ - [Genshin Impact Version 2.3: Winter camp in Dragonspine](https://blog.playstation.com/2021/11/12/genshin-impact-version-2-3-winter-camp-in-dragonspine/)
+ - [GTA Trilogy Pulled For PC, Rockstar Launcher Broken](https://kotaku.com/gta-trilogy-pulled-for-pc-rockstar-launcher-broken-1848045434)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
