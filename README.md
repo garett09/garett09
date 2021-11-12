@@ -188,7 +188,7 @@ Windows                  3 hrs 9 mins        ███████████�
 <!-- TECH:START -->
  - [Streamers are seeking out unscripted TV, including documentaries and reality TV, as a cheaper and popular alternative to the prestige shows they first produced &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/211112/p1#a211112p1)
  - [Here are the brands who’ll support Android 12’s wallpaper theming option](https://www.androidauthority.com/android-12-wallpaper-theming-option-manufacturers-3057483/)
- - [Target Black Friday deals happening now: $130 off Dyson, big savings on Beats, Keurig, and more     - CNET](https://www.cnet.com/tech/home-entertainment/black-friday-deals-at-target-now-dyson-vacuums-beats-headphones-keurig-coffee-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best laptop 2021: The 15 laptops we recommend     - CNET](https://www.cnet.com/tech/computing/best-laptop/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
