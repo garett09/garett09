@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This guy bought a helicopter and wanted to fly it with zero experience](http://9gag.com/gag/a91L7mW)
- - 🚯 [It&amp;rsquo;s finally Friday](http://9gag.com/gag/a81YMYZ)
- - 🚯 [A mango leaf creating oxigen in real time](http://9gag.com/gag/a41dY7v)<!-- MEMES:END -->
+ - 🚖 [How dare you](http://9gag.com/gag/aM4rQLM)
+ - 🚯 [Universal language for guys](http://9gag.com/gag/aKmP3gN)
+ - 🚯 [Yesterday, a train with military equipment from the German Bundeswehr was seen in the Polish town of Olsztyn](http://9gag.com/gag/a51PKRE)<!-- MEMES:END -->
 
 --- 
 
