@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Biden’s pick for FDA chief works at Google](https://www.theverge.com/2021/11/12/22778342/califf-fda-head-alphabet-google)
- - [Marvel embraces the Sad Wolverine meme to announce X-Men ‘97, a new animated Disney Plus show](https://www.theverge.com/2021/11/12/22778385/marvel-disney-plus-x-men-animated-series-97-sad-wolverine-meme-2023)
- - [US contract lawyers say remote work surveillance programs, which utilize facial recognition, have become widespread in the industry &lpar;Drew Harwell/Washington Post&rpar;](http://www.techmeme.com/211112/p10#a211112p10)<!-- TECH:END -->
+ - [OnePlus 8 and 8T owners can now test out Android 12, but there’s a huge catch](https://www.androidauthority.com/oneplus-8-android-12-3058158/)
+ - [Second iOS 15.2 beta adds macro toggle in Camera app for iPhone 13 Pro](https://appleinsider.com/articles/21/11/12/second-ios-152-beta-adds-macro-photography-toggle-for-iphone-13?utm_medium=rss)
+ - [Forte, a blockchain-based gaming infrastructure startup, raises a $725M Series B led by Sea Capital and Kora Management, bringing its total funding to $900M &lpar;Tanzeel Akhtar/CoinDesk&rpar;](http://www.techmeme.com/211112/p12#a211112p12)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
