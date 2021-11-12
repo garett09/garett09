@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [These are the best and worst countries in which to buy a Samsung or Apple phone](https://www.androidauthority.com/buy-samsung-phone-countries-3058291/)
- - [A look at lawsuits against Amazon over crashes caused by rushing delivery drivers; Amazon denies responsibility, saying one driver worked for a contractor &lpar;Spencer Soper/Bloomberg&rpar;](http://www.techmeme.com/211112/p16#a211112p16)
- - [Apple’s latest beta fixes macro mode confusion for iPhone 13 Pro](https://www.theverge.com/2021/11/12/22778650/apple-iphone-13-pro-beta-macro-mode-button-auto-switching)<!-- TECH:END -->
+ - [Jamf CEO calls Apple Business Essentials a &#39;terrific opportunity&#39;](https://appleinsider.com/articles/21/11/12/jamf-ceo-calls-apple-business-essentials-a-terrific-opportunity?utm_medium=rss)
+ - [Black Friday Canada 2021: All the best deals on all the best tech](https://www.androidauthority.com/best-black-friday-deals-canada-1180332/)
+ - [Nvidia’s GeForce Now has been quietly capping its founders’ frame rates](https://www.theverge.com/2021/11/12/22778693/nvidia-geforce-now-cloud-gaming-framerate-cap-fps-cyberpunk)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
