@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Netflix’s Red Notice commits a cardinal sin for action blockbusters](https://www.polygon.com/reviews/22762443/red-notice-review-netflix)
- - [Halo 3: ODST is still unlike any other Halo](https://www.polygon.com/22778185/halo-3-odst-xbox-360-bungie-best-halo-game-story-waypoint-system)
- - [Less than a year after leaving, Assassin&#39;s Creed Valhalla narrative director returns to Ubisoft](https://www.pcgamer.com/less-than-a-year-after-leaving-assassins-creed-valhalla-narrative-director-returns-to-ubisoft)<!-- GAME:END -->
+ - [Clever Animal Crossing fans find trick to set villagers’ houses on fire, haunt them](https://www.polygon.com/22778233/animal-crossing-new-horizons-happy-home-dlc-polishing-memes-nintendo-switch)
+ - [Fortnite deathrun codes: the most challenging custom maps](https://www.pcgamer.com/fortnite-deathrun-codes)
+ - [Elden Ring Players Are Already Cheesing Its Dragon Boss](https://kotaku.com/elden-ring-players-are-already-cheesing-its-dragon-boss-1848049327)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
