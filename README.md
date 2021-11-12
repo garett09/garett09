@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Streamers are seeking out unscripted TV, including documentaries and reality TV, as a cheaper and popular alternative to the prestige shows they first produced &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/211112/p1#a211112p1)
- - [Here are the brands who’ll support Android 12’s wallpaper theming option](https://www.androidauthority.com/android-12-wallpaper-theming-option-manufacturers-3057483/)
- - [Best laptop 2021: The 15 laptops we recommend     - CNET](https://www.cnet.com/tech/computing/best-laptop/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Galaxy Z Flip 4 could pull most of Samsung’s foldable weight next year](https://www.androidauthority.com/samsung-foldable-phones-shipments-2022-3057551/)
+ - [Marvel takes you behind the scenes in new Disney Plus documentaries     - CNET](https://www.cnet.com/news/marvel-takes-you-behind-the-scenes-in-new-disney-plus-documentaries/#ftag=CAD590a51e)
+ - [Streamers are seeking out unscripted TV, including documentaries and reality TV, as a cheaper and popular alternative to the prestige shows they first produced &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/211112/p1#a211112p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
