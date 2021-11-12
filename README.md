@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Remembering Skyrim: Our fondest and funniest memories of the legendary RPG](https://www.pcgamer.com/skyrim-10-year-anniversary)
- - [Bungie’s 30th Anniversary pack will give Destiny 2 players what they want: Exotic buffs](https://www.polygon.com/22777034/destiny-2-bungie-30th-anniversary-event-exotic-weapon-buffs-patch-notes-whisper-witch-queen)
- - [Microsoft is updating its PC gaming store to make Xbox Game Pass easier to use](https://www.polygon.com/22776946/xbox-app-pc-windows-microsoft-update-improvements-game-pass)<!-- GAME:END -->
+ - [Battlefield 2042 won&#39;t have voice chat at launch](https://www.pcgamer.com/battlefield-2042-wont-have-voice-chat-at-launch)
+ - [The next level up in performance](https://www.pcgamer.com/the-next-level-up-in-performance)
+ - [Synthetik 2 is a sequel to the best tactical shooter you&#39;ve never heard of](https://www.pcgamer.com/synthetik-2-is-a-sequel-to-the-best-tactical-shooter-youve-never-heard-of)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
