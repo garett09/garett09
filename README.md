@@ -194,8 +194,8 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Cheap marble](http://9gag.com/gag/apg0qP5)
- - 🚯 [How to deal with a cheater](http://9gag.com/gag/azeEL9N)
- - 🚯 [No need for translation.](http://9gag.com/gag/aYrWbYw)<!-- MEMES:END -->
+ - 🚯 [No need for translation.](http://9gag.com/gag/aYrWbYw)
+ - 🚯 [How to deal with a cheater](http://9gag.com/gag/azeEL9N)<!-- MEMES:END -->
 
 --- 
 
