@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Battlefield 2042 skin referencing the Russo-Ukrainian War will be renamed](https://www.pcgamer.com/battlefield-2042-skin-referencing-the-russo-ukrainian-war-will-be-renamed)
- - [Before We Leave Touches Down In Xbox Game Pass Soon](https://news.xbox.com/en-us/2021/11/12/before-we-leave-touches-down-in-xbox-game-pass-soon/)
- - [Battlefield 2042 players are demanding a traditional scoreboard](https://www.pcgamer.com/battlefield-2042-players-are-demanding-a-traditional-scoreboard)<!-- GAME:END -->
+ - [Battlefield 2042 Is Crashing Xbox Consoles, Early Access Players Say](https://kotaku.com/battlefield-2042-is-crashing-xbox-consoles-early-acces-1848050268)
+ - [Classic Mods And Old GTA Games Didn’t Need To Die For These Unfinished Remakes](https://kotaku.com/classic-mods-and-old-gta-games-didn-t-need-to-die-for-t-1848050135)
+ - [Battlefield 2042&#39;s new hovercraft can drive straight up buildings](https://www.pcgamer.com/battlefield-2042s-new-hovercraft-can-climb-straight-up-walls)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
