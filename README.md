@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Damn aliens took our jobs not taking our good man](http://9gag.com/gag/aWgW0Nn)
+ - 🚖 [Shoutout to this man Ashton Kutcher, who went from being an actor to fighting to end child sex trafficking. His organisation helped find 6000 human trafficking victims. Respect !](http://9gag.com/gag/aRrPg2j)
  - 🚯 [Cop got your mate in a stranglehold? No prob. Pop that shirt off and throw down.](http://9gag.com/gag/aE811PN)
- - 🚯 [Shoutout to this man Ashton Kutcher, who went from being an actor to fighting to end child sex trafficking. His organisation helped find 6000 human trafficking victims. Respect !](http://9gag.com/gag/aRrPg2j)<!-- MEMES:END -->
+ - 🚯 [Molds of my teeth before and after braces. Thank you mom and dad!!](http://9gag.com/gag/aLvPPeA)<!-- MEMES:END -->
 
 --- 
 
