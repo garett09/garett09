@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [8 tips for getting started in the Elden Ring Network Test](https://www.pcgamer.com/elden-ring-tips)
- - [How to beat Margit the Fell Omen, the Elden Ring Network Test&#39;s toughest boss](https://www.pcgamer.com/elden-ring-margit-the-fell-omen-guide)
- - [Skyrim Anniversary Edition is causing crashes by running too efficiently](https://www.pcgamer.com/skyrim-anniversary-edition-black-screen-after-loading-bug)<!-- GAME:END -->
+ - [Sylvester Stallone radically recut Rocky IV into another mixed &lpar;punching&rpar; bag](https://www.polygon.com/reviews/22777136/rocky-iv-directors-cut-review-stallone-rocky-vs-drogo)
+ - [Dell Australia, the maniacs, have already kicked off their Black Friday sale](https://www.pcgamer.com/dell-australia-the-maniacs-have-already-kicked-off-their-black-friday-sale)
+ - [8 tips for getting started in the Elden Ring Network Test](https://www.pcgamer.com/elden-ring-tips)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
