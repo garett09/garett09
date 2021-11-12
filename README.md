@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Dell S3222DGM gaming monitor review](https://www.pcgamer.com/dell-s3222dgm-gaming-monitor-review)
  - [PlayStation 5 Turns One Today](https://blog.playstation.com/2021/11/12/playstation-5-turns-one-today/)
- - [PlayStation 5 Turns One Today](https://blog.playstation.com/2021/11/12/playstation-5-turns-one-today/)
- - [“Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles” is Available Now!](https://blog.playstation.com/2021/11/12/20211112-demonslayer/)<!-- GAME:END -->
+ - [PlayStation 5 Turns One Today](https://blog.playstation.com/2021/11/12/playstation-5-turns-one-today/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
