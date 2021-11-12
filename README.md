@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Clever Animal Crossing fans find trick to set villagers’ houses on fire, haunt them](https://www.polygon.com/22778233/animal-crossing-new-horizons-happy-home-dlc-polishing-memes-nintendo-switch)
- - [Fortnite deathrun codes: the most challenging custom maps](https://www.pcgamer.com/fortnite-deathrun-codes)
- - [Elden Ring Players Are Already Cheesing Its Dragon Boss](https://kotaku.com/elden-ring-players-are-already-cheesing-its-dragon-boss-1848049327)<!-- GAME:END -->
+ - [Battlefield 2042 skin referencing the Russo-Ukrainian War will be renamed](https://www.pcgamer.com/battlefield-2042-skin-referencing-the-russo-ukrainian-war-will-be-renamed)
+ - [Before We Leave Touches Down In Xbox Game Pass Soon](https://news.xbox.com/en-us/2021/11/12/before-we-leave-touches-down-in-xbox-game-pass-soon/)
+ - [Battlefield 2042 players are demanding a traditional scoreboard](https://www.pcgamer.com/battlefield-2042-players-are-demanding-a-traditional-scoreboard)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
