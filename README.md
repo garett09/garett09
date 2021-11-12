@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the relationship between Frances Haugen and anti-tech lobbying group Reset, which has guided her EU tour &lpar;Politico&rpar;](http://www.techmeme.com/211112/p6#a211112p6)
- - [Google 30W USB-C Power Charger review: One for the modern age](https://www.androidauthority.com/google-30w-usb-c-power-charger-review-3056969/)
- - [The Man, the Myth, and the Metaverse](https://www.wired.com/story/the-man-the-myth-and-the-metaverse)<!-- TECH:END -->
+ - [The Nintendo Switch is back on top in the US after OLED launch](https://www.theverge.com/2021/11/12/22776640/nintendo-switch-oled-sales-october-2021-doug-bowser-interview)
+ - [Our Favorite Gear for Everyday Sun Protection](https://www.wired.com/gallery/everyday-sun-protection)
+ - [John Doerr Wants to Stop Climate Change—With OKRs](https://www.wired.com/story/plaintext-john-doerr-book-climate-change)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
