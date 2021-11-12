@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How hard emotional support dogs try](http://9gag.com/gag/azeEE5N)
- - 🚯 [I&amp;#039;ve never read something so true](http://9gag.com/gag/aGzwRd6)
- - 🚯 [Where fox?](http://9gag.com/gag/azeEV9Z)<!-- MEMES:END -->
+ - 🚖 [F**k you Youtube.](http://9gag.com/gag/aVxWXgw)
+ - 🚯 [These people doesn&amp;#039;t grit their teeth while jumping the truck, don&amp;#039;t be like them. &lpar;unless you wanna bite your tongue&rpar;](http://9gag.com/gag/axBZZQ1)
+ - 🚯 [I&amp;#039;ve never read something so true](http://9gag.com/gag/aGzwRd6)<!-- MEMES:END -->
 
 --- 
 
