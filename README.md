@@ -194,7 +194,7 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [F**k you Youtube.](http://9gag.com/gag/aVxWXgw)
- - 🚯 [These people doesn&amp;#039;t grit their teeth while jumping the truck, don&amp;#039;t be like them. &lpar;unless you wanna bite your tongue&rpar;](http://9gag.com/gag/axBZZQ1)
+ - 🚯 [Where fox?](http://9gag.com/gag/azeEV9Z)
  - 🚯 [I&amp;#039;ve never read something so true](http://9gag.com/gag/aGzwRd6)<!-- MEMES:END -->
 
 --- 
