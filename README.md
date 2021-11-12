@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How dare you](http://9gag.com/gag/aM4rQLM)
- - 🚯 [Universal language for guys](http://9gag.com/gag/aKmP3gN)
- - 🚯 [Yesterday, a train with military equipment from the German Bundeswehr was seen in the Polish town of Olsztyn](http://9gag.com/gag/a51PKRE)<!-- MEMES:END -->
+ - 🚖 [Just wanna sleep](http://9gag.com/gag/aZrxpB6)
+ - 🚯 [Do the Zuckerberg dance](http://9gag.com/gag/aVxWP5v)
+ - 🚯 [A mango leaf creating oxigen in real time](http://9gag.com/gag/a41dY7v)<!-- MEMES:END -->
 
 --- 
 
