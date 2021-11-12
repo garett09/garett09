@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Everything we know about Arataki Itto in Genshin Impact](https://www.pcgamer.com/best-genshin-impact-arataki-itto-build-banner)
- - [Next Week on Xbox: November 15 to 19](https://news.xbox.com/en-us/2021/11/12/next-week-on-xbox-november-15-to-19/)
- - [Genshin Impact codes: free Primogems and Mora](https://www.pcgamer.com/redeem-genshin-impact-codes)<!-- GAME:END -->
+ - [Star Wars: Obi-Wan Kenobi gets first behind-the-scenes look filled with concept art](https://www.polygon.com/22418119/star-wars-obi-wan-kenobi-behind-the-scenes-trailer)
+ - [Sorry, not sorry, Pixar is making a Cars show](https://www.polygon.com/disney-plus/2020/12/10/22168793/pixar-cars-show-up-disney-plus)
+ - [Dell S2722DGM gaming monitor review](https://www.pcgamer.com/dell-s2722dgm-gaming-monitor-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
