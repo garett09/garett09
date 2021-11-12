@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [GTA Trilogy&#39;s San Andreas Now Feels Depressing Without Its Signature Fog](https://kotaku.com/gta-trilogys-san-andreas-now-feels-depressing-without-i-1848047292)
- - [Marvel reveals first look at Tatiana Maslany’s She-Hulk appendages](https://www.polygon.com/22778120/she-hulk-teaser-trailer-cast-release-date-marvel-tatiana-maslany)
- - [Ms. Marvel teaser offers a first look at Kamala Khan in action](https://www.polygon.com/disney-plus/22596435/ms-marvel-trailer-kamala-khan-disney-plus)<!-- GAME:END -->
+ - [Treasures of the Aegean, a Time Loop Action Adventure, Available Now](https://news.xbox.com/en-us/2021/11/12/treasures-of-the-aegean/)
+ - [Animal Crossing fans are making incredible fortresses with new castle items](https://www.polygon.com/22778347/animal-crossing-update-castle-tower-fans-incredible-fortresses)
+ - [What League of Legends games you should play after watching Arcane](https://www.pcgamer.com/arcane-should-I-play-league-of-legends)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
