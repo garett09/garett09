@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Vin Diesel acting skills Starter Pack](http://9gag.com/gag/arn4KWp)
- - 🚯 [Just wanna sleep](http://9gag.com/gag/aZrxpB6)
- - 🚯 [Let&amp;#039;s Dance...](http://9gag.com/gag/adgYXv2)<!-- MEMES:END -->
+ - 🚖 [Daily reminder](http://9gag.com/gag/aE81n8K)
+ - 🚯 [Facial reconstruction of Ramesses 2 the greatest pharoah of ancient egypt.&lpar;rules about 3300 years ago&rpar;](http://9gag.com/gag/aNPZnrK)
+ - 🚯 [Universal language for guys](http://9gag.com/gag/aKmP3gN)<!-- MEMES:END -->
 
 --- 
 
