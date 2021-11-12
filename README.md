@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Cheap marble](http://9gag.com/gag/apg0qP5)
- - 🚯 [No need for translation.](http://9gag.com/gag/aYrWbYw)
- - 🚯 [How to deal with a cheater](http://9gag.com/gag/azeEL9N)<!-- MEMES:END -->
+ - 🚖 [No need for translation.](http://9gag.com/gag/aYrWbYw)
+ - 🚯 [Good old time...](http://9gag.com/gag/a313YvN)
+ - 🚯 [Damn aliens took our jobs not taking our good man](http://9gag.com/gag/aWgW0Nn)<!-- MEMES:END -->
 
 --- 
 
