@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [What Is Imax Enhanced, and Should You Care?](https://www.wired.com/story/what-is-imax-enhanced)
- - [Native Union AirPods Beanies are a blast from the past for long-time Apple fans](https://appleinsider.com/articles/21/11/12/native-union-airpods-beanies-are-a-blast-from-the-past-for-long-time-apple-fans?utm_medium=rss)
- - [Web3 notes from a sci-fi writer and &quot;enemy&quot; of the tech: it shows new protocols are still possible, but is expensive, undemocratic, and impedes ephemerality &lpar;Robin Sloan/The Society of the Double Dagger&rpar;](http://www.techmeme.com/211112/p13#a211112p13)<!-- TECH:END -->
+ - [Everything announced as part of Disney Plus Day](https://www.androidauthority.com/disney-plus-day-2021-3058149/)
+ - [Blackshark.ai, the Austrian startup that developed the replica-Earth in Microsoft&#39;s Flight Simulator, raises a $20M Series A led by M12 &lpar;Devin Coldewey/TechCrunch&rpar;](http://www.techmeme.com/211112/p15#a211112p15)
+ - [Nintendo’s new Game &amp; Watch is the cutest way to play classic Zelda games](https://www.theverge.com/2021/11/12/22778484/nintendo-zelda-game-and-watch-hands-on)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
