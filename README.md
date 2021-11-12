@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Windows 11&#39;s New HDR Shortcuts Are A Blessing](https://kotaku.com/windows-11s-new-hdr-shortcuts-are-a-blessing-1848037212)
- - [Bethesda just dropped heaps of new Starfield concept art](https://www.pcgamer.com/bethesda-just-dropped-heaps-of-new-starfield-concept-art)
- - [Square’s Obscure Street Racing RPG Is Finally Playable In English](https://kotaku.com/square-s-obscure-street-racing-rpg-is-finally-playable-1848043590)<!-- GAME:END -->
+ - [8 tips for getting started in the Elden Ring Network Test](https://www.pcgamer.com/elden-ring-tips)
+ - [How to beat Margit the Fell Omen, the Elden Ring Network Test&#39;s toughest boss](https://www.pcgamer.com/elden-ring-margit-the-fell-omen-guide)
+ - [Skyrim Anniversary Edition is causing crashes by running too efficiently](https://www.pcgamer.com/skyrim-anniversary-edition-black-screen-after-loading-bug)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
