@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [No need for translation.](http://9gag.com/gag/aYrWbYw)
- - 🚯 [Good old time...](http://9gag.com/gag/a313YvN)
- - 🚯 [Damn aliens took our jobs not taking our good man](http://9gag.com/gag/aWgW0Nn)<!-- MEMES:END -->
+ - 🚖 [Good old time...](http://9gag.com/gag/a313YvN)
+ - 🚯 [Stop disliking what we tell you to like](http://9gag.com/gag/angKX35)
+ - 🚯 [Im dying LMAO](http://9gag.com/gag/aog0zge)<!-- MEMES:END -->
 
 --- 
 
