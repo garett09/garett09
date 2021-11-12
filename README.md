@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Nintendo Switch is back on top in the US after OLED launch](https://www.theverge.com/2021/11/12/22776640/nintendo-switch-oled-sales-october-2021-doug-bowser-interview)
- - [Our Favorite Gear for Everyday Sun Protection](https://www.wired.com/gallery/everyday-sun-protection)
- - [John Doerr Wants to Stop Climate Change—With OKRs](https://www.wired.com/story/plaintext-john-doerr-book-climate-change)<!-- TECH:END -->
+ - [Hospitals are at a high risk of cyberattacks, but patients don’t realize it](https://www.theverge.com/2021/11/12/22776561/hosptial-cyberattack-ransomware-risk)
+ - [Tesla vehicle in ‘Full Self-Driving’ beta mode ‘severely damaged’ after crash in California](https://www.theverge.com/2021/11/12/22778135/tesla-full-self-driving-beta-crash-fsd-california)
+ - [New 14-inch MacBook Pro review: Where the &#39;Pro&#39; starts](https://appleinsider.com/articles/21/11/09/new-14-inch-macbook-pro-review-where-the-pro-starts?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
