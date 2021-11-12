@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Picasso Runs Out Of Ideas](http://9gag.com/gag/aLvP9ZA)
- - 🚯 [Daily reminder](http://9gag.com/gag/aE81n8K)
+ - 🚖 [Daily reminder](http://9gag.com/gag/aE81n8K)
+ - 🚯 [You know you are beautiful when the other girls put that face](http://9gag.com/gag/aDD3jmZ)
  - 🚯 [See below](http://9gag.com/gag/aZrxBMX)<!-- MEMES:END -->
 
 --- 
