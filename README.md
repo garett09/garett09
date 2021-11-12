@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How hard emotional support dogs try](http://9gag.com/gag/azeEE5N)
- - 🚯 [Imagine doing this now](http://9gag.com/gag/awzKrvy)
- - 🚯 [Cop got your mate in a stranglehold? No prob. Pop that shirt off and throw down.](http://9gag.com/gag/aE811PN)<!-- MEMES:END -->
+ - 🚖 [Modern problem requires modern solution](http://9gag.com/gag/aNPZZVA)
+ - 🚯 [We should try not to use youtube for a few days. I&amp;#039;m sure it&amp;#039;s possible. Enough of their monopoly.](http://9gag.com/gag/aAGrY8L)
+ - 🚯 [Stop disliking what we tell you to like](http://9gag.com/gag/angKX35)<!-- MEMES:END -->
 
 --- 
 
