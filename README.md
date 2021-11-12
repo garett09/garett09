@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Biden signs the Secure Equipment Act of 2021, denying FCC licenses to national security threats, effectively banning Huawei and ZTE network equipment in the US &lpar;Campbell Kwan/ZDNet&rpar;](http://www.techmeme.com/211111/p33#a211111p33)
- - [Apple shares &#39;Foundation&#39; recap ahead of season finale](https://appleinsider.com/articles/21/11/12/apple-shares-foundation-recap-ahead-of-season-finale?utm_medium=rss)
- - [HTC’s Vive Focus 3 update could free arcades from VR backpacks](https://www.theverge.com/2021/11/11/22777266/htc-vive-focus-3-vr-headset-location-based-entertainment-mode-arcade-update)<!-- TECH:END -->
+ - [Marvel Cinematic Universe Phase 4: The full list of release dates     - CNET](https://www.cnet.com/news/marvel-cinematic-universe-phase-4-the-full-list-of-release-dates/#ftag=CAD590a51e)
+ - [The best headphone deals of Black Friday 2021](https://www.androidauthority.com/best-headphone-deals-1111467/)
+ - [Profile of CryptoPunks, an NFT project founded by two Canadian developers in 2017, which has reached $1.5B in lifetime sales as NFTs explode in popularity &lpar;Sandra Upson/Wired&rpar;](http://www.techmeme.com/211111/p34#a211111p34)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
