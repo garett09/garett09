@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Treasures of the Aegean, a Time Loop Action Adventure, Available Now](https://news.xbox.com/en-us/2021/11/12/treasures-of-the-aegean/)
- - [Animal Crossing fans are making incredible fortresses with new castle items](https://www.polygon.com/22778347/animal-crossing-update-castle-tower-fans-incredible-fortresses)
- - [What League of Legends games you should play after watching Arcane](https://www.pcgamer.com/arcane-should-I-play-league-of-legends)<!-- GAME:END -->
+ - [Sometimes the only way to breathe life into a board game Kickstarter is to kill it first](https://www.polygon.com/tabletop-games/22778194/thunder-road-kickstarter-canceled-restoration-games-interview)
+ - [GTA Trilogy Pours Rain So Hard It’s Nearly Unplayable](https://kotaku.com/gta-trilogy-pours-rain-so-hard-it-s-nearly-unplayable-1848048162)
+ - [Boba Fett emerges from the Sarlacc pit to join Fortnite](https://www.pcgamer.com/boba-fett-fortnite)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
