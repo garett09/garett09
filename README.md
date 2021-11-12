@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [*Hums BTF soundtrack*](http://9gag.com/gag/azeEgdj)
- - 🚯 [Do something please](http://9gag.com/gag/aeg0Nmb)
- - 🚯 [Cheap marble](http://9gag.com/gag/apg0qP5)<!-- MEMES:END -->
+ - 🚖 [Cheap marble](http://9gag.com/gag/apg0qP5)
+ - 🚯 [How to deal with a cheater](http://9gag.com/gag/azeEL9N)
+ - 🚯 [No need for translation.](http://9gag.com/gag/aYrWbYw)<!-- MEMES:END -->
 
 --- 
 
