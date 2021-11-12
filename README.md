@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Target Black Friday deals happening now: $130 off Dyson, big savings on Beats, Keurig, and more     - CNET](https://www.cnet.com/tech/home-entertainment/black-friday-deals-at-target-now-dyson-vacuums-beats-headphones-keurig-coffee-and-more/#ftag=CAD590a51e)
- - [Marvel&#39;s Shang-Chi to &lpar;finally&rpar; stream &#39;free&#39; on Disney Plus tonight     - CNET](https://www.cnet.com/tech/services-and-software/marvels-shang-chi-to-finally-stream-free-on-disney-plus-tonight/#ftag=CAD590a51e)
- - [Black Friday 2021 ad scans: Walmart, Staples, Target, Best Buy and more     - CNET](https://www.cnet.com/home/black-friday-2021-ad-scans-walmart-target-best-buy-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Streamers are seeking out unscripted TV, including documentaries and reality TV, as a cheaper and popular alternative to the prestige shows they first produced &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/211112/p1#a211112p1)
+ - [Here are the brands who’ll support Android 12’s wallpaper theming option](https://www.androidauthority.com/android-12-wallpaper-theming-option-manufacturers-3057483/)
+ - [Target Black Friday deals happening now: $130 off Dyson, big savings on Beats, Keurig, and more     - CNET](https://www.cnet.com/tech/home-entertainment/black-friday-deals-at-target-now-dyson-vacuums-beats-headphones-keurig-coffee-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
