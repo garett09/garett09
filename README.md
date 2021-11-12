@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Vergecast: How EV startup Rivian achieved a record-breaking IPO](https://www.theverge.com/2021/11/12/22778165/vergecast-podcast-475-rivian-truck-apple-epic-order)
- - [Secretlab really built its extra-small gamer chair that started as an April Fools’ joke](https://www.theverge.com/2021/11/12/22778267/secretlab-xxs-gamer-chair-real-april-fools-joke)
- - [In internal memo, Andrew Bosworth says he wants the metaverse to have &quot;almost Disney levels of safety&quot; but that moderation at scale &quot;is practically impossible&quot; &lpar;Hannah Murphy/Financial Times&rpar;](http://www.techmeme.com/211112/p9#a211112p9)<!-- TECH:END -->
+ - [Biden’s pick for FDA chief works at Google](https://www.theverge.com/2021/11/12/22778342/califf-fda-head-alphabet-google)
+ - [Marvel embraces the Sad Wolverine meme to announce X-Men ‘97, a new animated Disney Plus show](https://www.theverge.com/2021/11/12/22778385/marvel-disney-plus-x-men-animated-series-97-sad-wolverine-meme-2023)
+ - [US contract lawyers say remote work surveillance programs, which utilize facial recognition, have become widespread in the industry &lpar;Drew Harwell/Washington Post&rpar;](http://www.techmeme.com/211112/p10#a211112p10)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
