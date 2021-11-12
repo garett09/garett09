@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Shin Megami Tensei 5 beginner’s guide, tips, and tricks](https://www.polygon.com/guides/22772429/shin-megami-tensei-5-smtv-beginners-tips-tricks-leyline-founts)
  - [Sylvester Stallone radically recut Rocky IV into another mixed &lpar;punching&rpar; bag](https://www.polygon.com/reviews/22777136/rocky-iv-directors-cut-review-stallone-rocky-vs-drogo)
- - [Dell Australia, the maniacs, have already kicked off their Black Friday sale](https://www.pcgamer.com/dell-australia-the-maniacs-have-already-kicked-off-their-black-friday-sale)
- - [8 tips for getting started in the Elden Ring Network Test](https://www.pcgamer.com/elden-ring-tips)<!-- GAME:END -->
+ - [Dell Australia, the maniacs, have already kicked off their Black Friday sale](https://www.pcgamer.com/dell-australia-the-maniacs-have-already-kicked-off-their-black-friday-sale)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
