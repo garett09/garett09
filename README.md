@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OnePlus 10 and 10 Pro: What we hope to see in 2022](https://www.androidauthority.com/oneplus-10-3055636/)
  - [MyFitnessPal, Lose It, Noom, &amp; Weight Watchers: Comparing calorie-counting apps](https://www.androidauthority.com/myfitnesspal-vs-lose-it-vs-noom-vs-weight-watchers-3055837/)
- - [Substack touts itself as an alternative to toxic, ad-driven social media, but many of its top earners are polarizing figures who were deplatformed elsewhere &lpar;Chris Stokel-Walker/Wired UK&rpar;](http://www.techmeme.com/211113/p5#a211113p5)
- - [Gett, which helps companies organize their ride-hailing, taxi, and limousine booking options, is going public via a SPAC merger at a ~$1.1B valuation &lpar;Amrith Ramkumar/Wall Street Journal&rpar;](http://www.techmeme.com/211113/p4#a211113p4)<!-- TECH:END -->
+ - [Substack touts itself as an alternative to toxic, ad-driven social media, but many of its top earners are polarizing figures who were deplatformed elsewhere &lpar;Chris Stokel-Walker/Wired UK&rpar;](http://www.techmeme.com/211113/p5#a211113p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
