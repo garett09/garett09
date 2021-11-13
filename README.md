@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Know your boundaries](http://9gag.com/gag/aDD31EK)
- - 🚯 [Dickmann](http://9gag.com/gag/a0ZLKMX)
- - 🚯 [Damn, kid got skills](http://9gag.com/gag/aM4rjp1)<!-- MEMES:END -->
+ - 🚖 [Is it?](http://9gag.com/gag/aggvXwK)
+ - 🚯 [Damn, kid got skills](http://9gag.com/gag/aM4rjp1)
+ - 🚯 [More ads incoming](http://9gag.com/gag/a71yMPz)<!-- MEMES:END -->
 
 --- 
 
