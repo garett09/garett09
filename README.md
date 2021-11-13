@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This one brings joe](http://9gag.com/gag/arn45G5)
+ - 🚖 [Most epic battle i&amp;#039;ve ever seen](http://9gag.com/gag/aggvY9q)
  - 🚯 [Dinner under lemon trees in Italy](http://9gag.com/gag/aM4rAgX)
- - 🚯 [Good boy alerting low blood sugar](http://9gag.com/gag/aBn380z)<!-- MEMES:END -->
+ - 🚯 [Year 2025, YouTube removed both like and dislike buttons and replaced with &amp;quot;Aladeen&amp;quot;](http://9gag.com/gag/ay90xbW)<!-- MEMES:END -->
 
 --- 
 
