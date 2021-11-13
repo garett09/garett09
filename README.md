@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Someone Snuck a Card Skimmer Into Costco to Nab Shopper Data](https://www.wired.com/story/costco-card-skimmer-nso-group-robinhood-hack-security-news)
- - [The Polish Simulator Company Gamers Love to Hate](https://www.wired.com/story/playway-polish-simulator-game-company)
- - [Glowing Worms Could Shed Light On the Secrets of Regeneration](https://www.wired.com/story/panther-worms-regeneration)<!-- TECH:END -->
+ - [Apple to pay $30M to retail employees for off-the-clock bag, device searches](https://appleinsider.com/articles/21/11/13/apple-to-pay-30m-to-retail-employees-for-off-the-clock-bag-device-searches?utm_medium=rss)
+ - [The early Black Friday tech deals are coming on strong](https://www.theverge.com/good-deals/2021/11/13/22778411/google-nest-audio-smart-speaker-airpods-fully-jarvis-desk-amazon-deal-sale)
+ - [Someone Snuck a Card Skimmer Into Costco to Nab Shopper Data](https://www.wired.com/story/costco-card-skimmer-nso-group-robinhood-hack-security-news)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
