@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-406-3058227/)
- - [Best deals Nov. 13: Save $30 on Second-Gen Apple Pencil, $70 off Powerbeats, and more](https://appleinsider.com/articles/21/11/13/best-deals-nov-13-save-30-on-second-gen-apple-pencil-70-off-powerbeats-and-more?utm_medium=rss)
- - [Hey Android phone makers, can you leave the power button alone already?](https://www.androidauthority.com/power-button-android-3049364/)<!-- TECH:END -->
+ - [Another Samsung Galaxy S21 FE leak shows the device from more angles](https://www.theverge.com/2021/11/13/22779911/samsung-galaxy-s21-fe-leak-shows-device)
+ - [How US cities are deploying drones, robots, and AI to more affordably inspect, diagnose, and repair the country&#39;s aging sewer infrastructure &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/211113/p8#a211113p8)
+ - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-406-3058227/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
