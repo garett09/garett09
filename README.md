@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Some Echo speakers can now detect people](https://www.theverge.com/2021/11/12/22779044/amazon-echo-speakers-ultrasound-people-detection)
- - [AMC Theatres now accepts bitcoin, ether, bitcoin cash, and litecoin for online payments; CEO Adam Aron says dogecoin will be accepted next &lpar;Helen Partz/Cointelegraph&rpar;](http://www.techmeme.com/211112/p20#a211112p20)
- - [Snap sued for misrepresenting impact of Apple privacy changes](https://appleinsider.com/articles/21/11/12/snap-sued-for-misrepresenting-impact-of-apple-privacy-changes?utm_medium=rss)<!-- TECH:END -->
+ - [Galaga Wars+, Kingdom Rush Frontiers TD+ debut on Apple Arcade](https://appleinsider.com/articles/21/11/13/galaga-wars-kingdom-rush-frontiers-td-debut-on-apple-arcade?utm_medium=rss)
+ - [Black Friday 2021: Big savings on phones, wearables, earbuds, and more](https://www.androidauthority.com/black-friday-deals-3049753/)
+ - [The best early Black Friday deals you can get right now](https://www.theverge.com/22759214/black-friday-early-deals-best-headphones-laptops-gaming-tvs-tech-sale)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
