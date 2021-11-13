@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Eight reasons to top your streaming setup with a RØDE NT-USB Mini mic](https://www.pcgamer.com/eight-reasons-to-top-your-streaming-setup-with-a-rode-nt-usb-mini-mic)
  - [What&#39;s the worst internet connection you&#39;ve had?](https://www.pcgamer.com/whats-the-worst-internet-connection-youve-had)
- - [Bibleman, the superhero who presumably does whatever a Bible can](https://www.pcgamer.com/saturday-crapshoot-bibleman)
- - [Here are all the free games you can grab right now](https://www.pcgamer.com/here-are-all-the-free-games-you-can-grab-right-now)<!-- GAME:END -->
+ - [Bibleman, the superhero who presumably does whatever a Bible can](https://www.pcgamer.com/saturday-crapshoot-bibleman)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
