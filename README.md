@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Weekly Authority: Edition #168](https://www.androidauthority.com/newsletters/the-weekly-authority-edition-168/)
- - [Twitter Blue Is for People Who Love Reading the News](https://www.wired.com/story/twitter-blue-is-not-for-everyone)
- - [Randonauting Promised Adventure. It Led to Dumpsters](https://www.wired.com/story/randonautica-social-media)<!-- TECH:END -->
+ - [On Good Authority: Just how bad is the Pixel 6’s fingerprint scanner?](https://www.androidauthority.com/google-pixel-6-fingerprint-scanner-3057192/)
+ - [Which Amazon Echo or Alexa Speaker Is Best for You?](https://www.wired.com/gallery/best-alexa-and-amazon-echo-speakers)
+ - [Early Evidence of How Wildfire Smoke Alters Bird Migration](https://www.wired.com/story/early-evidence-of-how-wildfire-smoke-alters-bird-migration)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
