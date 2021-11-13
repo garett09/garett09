@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Mommy issue...](http://9gag.com/gag/a91LWVD)
- - 🚯 [See below](http://9gag.com/gag/aZrxBMX)
- - 🚯 [Passengers on Canadian airline waiting calmly to exit](http://9gag.com/gag/a11eXVY)<!-- MEMES:END -->
+ - 🚖 [See below](http://9gag.com/gag/aZrxBMX)
+ - 🚯 [Passengers on Canadian airline waiting calmly to exit](http://9gag.com/gag/a11eXVY)
+ - 🚯 [Mommy issue...](http://9gag.com/gag/a91LWVD)<!-- MEMES:END -->
 
 --- 
 
