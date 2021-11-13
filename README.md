@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hey Android phone makers, can you leave the power button alone already?](https://www.androidauthority.com/power-button-android-3049364/)
- - [The remastered GTA Trilogy has been unavailable on PC for over a day](https://www.theverge.com/2021/11/13/22779798/remastered-gta-trilogy-unavailable-pc)
- - [Apple to pay $30M to retail employees for off-the-clock bag, device searches](https://appleinsider.com/articles/21/11/13/apple-to-pay-30m-to-retail-employees-for-off-the-clock-bag-device-searches?utm_medium=rss)<!-- TECH:END -->
+ - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-406-3058227/)
+ - [Best deals Nov. 13: Save $30 on Second-Gen Apple Pencil, $70 off Powerbeats, and more](https://appleinsider.com/articles/21/11/13/best-deals-nov-13-save-30-on-second-gen-apple-pencil-70-off-powerbeats-and-more?utm_medium=rss)
+ - [Hey Android phone makers, can you leave the power button alone already?](https://www.androidauthority.com/power-button-android-3049364/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
