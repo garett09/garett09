@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The 13 best one-season anime you can watch in a weekend](https://www.polygon.com/22762260/best-anime-one-season)
- - [Eight reasons to top your streaming setup with a RØDE NT-USB Mini mic](https://www.pcgamer.com/eight-reasons-to-top-your-streaming-setup-with-a-rode-nt-usb-mini-mic)
- - [What&#39;s the worst internet connection you&#39;ve had?](https://www.pcgamer.com/whats-the-worst-internet-connection-youve-had)<!-- GAME:END -->
+ - [Remastered GTA Trilogy Contains Controversial &#39;Hot Coffee&#39; Sex Code And Supposedly Cut Songs](https://kotaku.com/remastered-gta-trilogy-contains-controversial-hot-coffe-1848052522)
+ - [Why The Harder They Fall’s director would rather hug a horse than a Wookiee](https://www.polygon.com/interviews/22779171/jeymes-samuel-interview-the-harder-they-fall)
+ - [The 13 best one-season anime you can watch in a weekend](https://www.polygon.com/22762260/best-anime-one-season)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
