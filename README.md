@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple to pay $30M to retail employees for off-the-clock bag, device searches](https://appleinsider.com/articles/21/11/13/apple-to-pay-30m-to-retail-employees-for-off-the-clock-bag-device-searches?utm_medium=rss)
- - [The early Black Friday tech deals are coming on strong](https://www.theverge.com/good-deals/2021/11/13/22778411/google-nest-audio-smart-speaker-airpods-fully-jarvis-desk-amazon-deal-sale)
- - [Someone Snuck a Card Skimmer Into Costco to Nab Shopper Data](https://www.wired.com/story/costco-card-skimmer-nso-group-robinhood-hack-security-news)<!-- TECH:END -->
+ - [Hey Android phone makers, can you leave the power button alone already?](https://www.androidauthority.com/power-button-android-3049364/)
+ - [The remastered GTA Trilogy has been unavailable on PC for over a day](https://www.theverge.com/2021/11/13/22779798/remastered-gta-trilogy-unavailable-pc)
+ - [Apple to pay $30M to retail employees for off-the-clock bag, device searches](https://appleinsider.com/articles/21/11/13/apple-to-pay-30m-to-retail-employees-for-off-the-clock-bag-device-searches?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
