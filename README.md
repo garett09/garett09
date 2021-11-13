@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Most epic battle i&amp;#039;ve ever seen](http://9gag.com/gag/aggvY9q)
- - 🚯 [Why do we do this](http://9gag.com/gag/aXrpvP9)
- - 🚯 [A lego bridge layer tank in action](http://9gag.com/gag/apg0Qgn)<!-- MEMES:END -->
+ - 🚖 [This one brings joe](http://9gag.com/gag/arn45G5)
+ - 🚯 [Dinner under lemon trees in Italy](http://9gag.com/gag/aM4rAgX)
+ - 🚯 [Good boy alerting low blood sugar](http://9gag.com/gag/aBn380z)<!-- MEMES:END -->
 
 --- 
 
