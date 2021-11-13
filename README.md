@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Winter is back, finally](http://9gag.com/gag/aggvndn)
- - 🚯 [I still enjoy bagged milk today, if you know what i mean](http://9gag.com/gag/adgYKxB)
- - 🚯 [Lower](http://9gag.com/gag/axBZzPn)<!-- MEMES:END -->
+ - 🚖 [Know your boundaries](http://9gag.com/gag/aDD31EK)
+ - 🚯 [Dickmann](http://9gag.com/gag/a0ZLKMX)
+ - 🚯 [Damn, kid got skills](http://9gag.com/gag/aM4rjp1)<!-- MEMES:END -->
 
 --- 
 
