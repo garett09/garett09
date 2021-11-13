@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Metaverse, schmetaverse — take me to the Icelandverse](https://www.theverge.com/tldr/2021/11/12/22778984/facebook-meta-metaverse-parody-video-iceland-icelandverse)
- - [A labor group seeking to organize at Amazon&#39;s Staten Island facility have withdrawn their petition to the NLRB, saying they need more time to collect signatures &lpar;Bloomberg&rpar;](http://www.techmeme.com/211112/p19#a211112p19)
- - [Canada-based Knak, which offers a codeless campaign creation service for marketing teams, raises a $25M Series A led by Insight Partners &lpar;Shubham Sharma/VentureBeat&rpar;](http://www.techmeme.com/211112/p18#a211112p18)<!-- TECH:END -->
+ - [Some Echo speakers can now detect people](https://www.theverge.com/2021/11/12/22779044/amazon-echo-speakers-ultrasound-people-detection)
+ - [AMC Theatres now accepts bitcoin, ether, bitcoin cash, and litecoin for online payments; CEO Adam Aron says dogecoin will be accepted next &lpar;Helen Partz/Cointelegraph&rpar;](http://www.techmeme.com/211112/p20#a211112p20)
+ - [Snap sued for misrepresenting impact of Apple privacy changes](https://appleinsider.com/articles/21/11/12/snap-sued-for-misrepresenting-impact-of-apple-privacy-changes?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
