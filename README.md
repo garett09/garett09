@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Daily reminder](http://9gag.com/gag/aE81n8K)
+ - 🚖 [This isn&amp;#039;t sports, this is your future](http://9gag.com/gag/aAGrPGE)
  - 🚯 [You know you are beautiful when the other girls put that face](http://9gag.com/gag/aDD3jmZ)
- - 🚯 [See below](http://9gag.com/gag/aZrxBMX)<!-- MEMES:END -->
+ - 🚯 [Are you feeling stupid?](http://9gag.com/gag/ajg0AoG)<!-- MEMES:END -->
 
 --- 
 
