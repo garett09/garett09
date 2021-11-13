@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Rockstar Games Launcher is back online, but The Trilogy is still unavailable &lpar;updated&rpar;](https://www.pcgamer.com/rockstar-games-launcher-keels-over-and-all-its-pc-games-are-down)
- - [GTA Trilogy Definitive Edition is a mess](https://www.pcgamer.com/gta-trilogy-definitive-edition-is-a-mess)
- - [Halo Infinite fans are convinced the multiplayer will surprise launch on Monday](https://www.pcgamer.com/halo-infinite-fans-are-convinced-the-multiplayer-will-surprise-launch-on-monday)<!-- GAME:END -->
+ - [Battlefield 2042 players are joining XP farming servers only to discover that they&#39;re the crops](https://www.pcgamer.com/battlefield-2042-players-are-joining-xp-farming-servers-only-to-discover-that-theyre-the-crops)
+ - [Official PlayStation Podcast Episode 416: Time Flies](https://blog.playstation.com/2021/11/12/356727/)
+ - [Official PlayStation Podcast Episode 416: Time Flies](https://blog.playstation.com/2021/11/12/356727/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
