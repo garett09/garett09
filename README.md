@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Chivalry is drunk](http://9gag.com/gag/aXrpqQ2)
- - 🚯 [A Carpenter&amp;#039;s #1 Fan](http://9gag.com/gag/a81YyOe)
- - 🚯 [Good boy alerting low blood sugar](http://9gag.com/gag/aBn380z)<!-- MEMES:END -->
+ - 🚖 [Here is something you didn&amp;#039;t expect to see today](http://9gag.com/gag/aZrxgjz)
+ - 🚯 [Making garlic-lemon pasta while pretending that it&amp;#039;s medieval era](http://9gag.com/gag/a0ZLbQd)
+ - 🚯 [Nothing to see here...](http://9gag.com/gag/aZrxmA0)<!-- MEMES:END -->
 
 --- 
 
