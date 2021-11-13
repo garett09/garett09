@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Bibleman, the superhero who presumably does whatever a Bible can](https://www.pcgamer.com/saturday-crapshoot-bibleman)
  - [Here are all the free games you can grab right now](https://www.pcgamer.com/here-are-all-the-free-games-you-can-grab-right-now)
- - [Battlefield 2042 players are joining XP farming servers only to discover that they&#39;re the crops](https://www.pcgamer.com/battlefield-2042-players-are-joining-xp-farming-servers-only-to-discover-that-theyre-the-crops)
- - [Official PlayStation Podcast Episode 416: Time Flies](https://blog.playstation.com/2021/11/12/356727/)<!-- GAME:END -->
+ - [Battlefield 2042 players are joining XP farming servers only to discover that they&#39;re the crops](https://www.pcgamer.com/battlefield-2042-players-are-joining-xp-farming-servers-only-to-discover-that-theyre-the-crops)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
