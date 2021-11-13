@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Battlefield 2042 Is Crashing Xbox Consoles, Early Access Players Say](https://kotaku.com/battlefield-2042-is-crashing-xbox-consoles-early-acces-1848050268)
- - [Classic Mods And Old GTA Games Didn’t Need To Die For These Unfinished Remakes](https://kotaku.com/classic-mods-and-old-gta-games-didn-t-need-to-die-for-t-1848050135)
- - [Battlefield 2042&#39;s new hovercraft can drive straight up buildings](https://www.pcgamer.com/battlefield-2042s-new-hovercraft-can-climb-straight-up-walls)<!-- GAME:END -->
+ - [Rockstar Games Launcher is back online, but The Trilogy is still unavailable &lpar;updated&rpar;](https://www.pcgamer.com/rockstar-games-launcher-keels-over-and-all-its-pc-games-are-down)
+ - [GTA Trilogy Definitive Edition is a mess](https://www.pcgamer.com/gta-trilogy-definitive-edition-is-a-mess)
+ - [Halo Infinite fans are convinced the multiplayer will surprise launch on Monday](https://www.pcgamer.com/halo-infinite-fans-are-convinced-the-multiplayer-will-surprise-launch-on-monday)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
