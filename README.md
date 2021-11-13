@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus 10 and 10 Pro: What we hope to see in 2022](https://www.androidauthority.com/oneplus-10-3055636/)
- - [MyFitnessPal, Lose It, Noom, &amp; Weight Watchers: Comparing calorie-counting apps](https://www.androidauthority.com/myfitnesspal-vs-lose-it-vs-noom-vs-weight-watchers-3055837/)
- - [Substack touts itself as an alternative to toxic, ad-driven social media, but many of its top earners are polarizing figures who were deplatformed elsewhere &lpar;Chris Stokel-Walker/Wired UK&rpar;](http://www.techmeme.com/211113/p5#a211113p5)<!-- TECH:END -->
+ - [Telegram could become a powerful vector for lies and vitriol before the 2022 presidential elections in Brazil, where it is installed on 53% of smartphones &lpar;New York Times&rpar;](http://www.techmeme.com/211113/p6#a211113p6)
+ - [That cheap Chromebook may be too good to be true     - CNET](https://www.cnet.com/tech/computing/that-cheap-chromebook-may-be-too-good-to-be-true/#ftag=CAD590a51e)
+ - [OnePlus 10 and 10 Pro: What we hope to see in 2022](https://www.androidauthority.com/oneplus-10-3055636/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
