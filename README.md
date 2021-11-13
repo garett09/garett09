@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [On Good Authority: Just how bad is the Pixel 6’s fingerprint scanner?](https://www.androidauthority.com/google-pixel-6-fingerprint-scanner-3057192/)
- - [Which Amazon Echo or Alexa Speaker Is Best for You?](https://www.wired.com/gallery/best-alexa-and-amazon-echo-speakers)
- - [Early Evidence of How Wildfire Smoke Alters Bird Migration](https://www.wired.com/story/early-evidence-of-how-wildfire-smoke-alters-bird-migration)<!-- TECH:END -->
+ - [Someone Snuck a Card Skimmer Into Costco to Nab Shopper Data](https://www.wired.com/story/costco-card-skimmer-nso-group-robinhood-hack-security-news)
+ - [The Polish Simulator Company Gamers Love to Hate](https://www.wired.com/story/playway-polish-simulator-game-company)
+ - [Glowing Worms Could Shed Light On the Secrets of Regeneration](https://www.wired.com/story/panther-worms-regeneration)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
