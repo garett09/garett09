@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Horrifying roguelike World of Horror&#39;s big update is coming this month](https://www.pcgamer.com/horrifying-roguelike-world-of-horrors-big-update-is-coming-this-month)
  - [Grim and gritty tactics RPG Wartales will be playable next month](https://www.pcgamer.com/grim-and-gritty-tactics-rpg-wartales-will-be-playable-next-month)
- - [Take-Two Interactive Removes More GTA Mods Using DMCA Strikes](https://kotaku.com/take-two-interactive-removes-more-gta-mods-using-dmca-s-1848053219)
- - [The award-winning A Short Hike hits PS4 November 16](https://blog.playstation.com/2021/11/13/the-award-winning-a-short-hike-hits-ps4-november-16/)<!-- GAME:END -->
+ - [Take-Two Interactive Removes More GTA Mods Using DMCA Strikes](https://kotaku.com/take-two-interactive-removes-more-gta-mods-using-dmca-s-1848053219)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
