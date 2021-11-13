@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Monkey meets puppy](http://9gag.com/gag/arn4GBX)
- - 🚯 [Saturday Night](http://9gag.com/gag/aM4rjdx)
- - 🚯 [India style &amp;gt;:D](http://9gag.com/gag/a0ZLK0B)<!-- MEMES:END -->
+ - 🚖 [Winter is back, finally](http://9gag.com/gag/aggvndn)
+ - 🚯 [I still enjoy bagged milk today, if you know what i mean](http://9gag.com/gag/adgYKxB)
+ - 🚯 [Lower](http://9gag.com/gag/axBZzPn)<!-- MEMES:END -->
 
 --- 
 
