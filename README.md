@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Just why ?](http://9gag.com/gag/a21YRne)
- - 🚯 [Monkey meets puppy](http://9gag.com/gag/arn4GBX)
- - 🚯 [Lower](http://9gag.com/gag/axBZzPn)<!-- MEMES:END -->
+ - 🚖 [Lower](http://9gag.com/gag/axBZzPn)
+ - 🚯 [It&amp;#039;s a no brainer. My 8 year old brain tumor was removed for the 2nd time.](http://9gag.com/gag/arn4VV0)
+ - 🚯 [Know your boundaries](http://9gag.com/gag/aDD31EK)<!-- MEMES:END -->
 
 --- 
 
