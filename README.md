@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Nice try.](http://9gag.com/gag/apg0mOB)
- - 🚯 [More ads incoming](http://9gag.com/gag/a71yMPz)
- - 🚯 [Behold a touchscreen in. car from a 1988 &lpar;Buick Reatta&rpar;](http://9gag.com/gag/arn4o3K)<!-- MEMES:END -->
+ - 🚖 [Just why ?](http://9gag.com/gag/a21YRne)
+ - 🚯 [Monkey meets puppy](http://9gag.com/gag/arn4GBX)
+ - 🚯 [Lower](http://9gag.com/gag/axBZzPn)<!-- MEMES:END -->
 
 --- 
 
