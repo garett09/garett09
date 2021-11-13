@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Id Software Is Trying To Stop A Man Who Wants To Name His Band &#39;Doomscroll&#39;](https://kotaku.com/id-software-is-trying-to-stop-a-man-who-wants-to-name-h-1848052851)
  - [Remastered GTA Trilogy Contains Controversial &#39;Hot Coffee&#39; Sex Code And Supposedly Cut Songs](https://kotaku.com/remastered-gta-trilogy-contains-controversial-hot-coffe-1848052522)
- - [Why The Harder They Fall’s director would rather hug a horse than a Wookiee](https://www.polygon.com/interviews/22779171/jeymes-samuel-interview-the-harder-they-fall)
- - [The 13 best one-season anime you can watch in a weekend](https://www.polygon.com/22762260/best-anime-one-season)<!-- GAME:END -->
+ - [Why The Harder They Fall’s director would rather hug a horse than a Wookiee](https://www.polygon.com/interviews/22779171/jeymes-samuel-interview-the-harder-they-fall)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
