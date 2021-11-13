@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best deals on true wireless earbuds right now](https://www.theverge.com/22307388/wireless-earbuds-deals-airpods-galaxy-buds-powerbeats)
- - [AppliedVR, which provides VR-based therapeutics to patients with chronic pain, raises a $36M Series B, bringing its total funding to $71M &lpar;Fred Pennic/hitconsultant.net&rpar;](http://www.techmeme.com/211112/p22#a211112p22)
- - [Galaga Wars+, Kingdom Rush Frontiers TD+ debut on Apple Arcade](https://appleinsider.com/articles/21/11/13/galaga-wars-kingdom-rush-frontiers-td-debut-on-apple-arcade?utm_medium=rss)<!-- TECH:END -->
+ - [Cloud backup service Backblaze climbed 24% in its Nasdaq debut on Thursday and 12% on Friday, after raising $100M in its IPO, giving it a market cap of ~$650M &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/211112/p23#a211112p23)
+ - [The Acura Integra returns as a four-door hatchback     - Roadshow](https://www.cnet.com/roadshow/pictures/acura-integra-prototype/#ftag=CAD590a51e)
+ - [The best deals on true wireless earbuds right now](https://www.theverge.com/22307388/wireless-earbuds-deals-airpods-galaxy-buds-powerbeats)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
