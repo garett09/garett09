@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [You know you are beautiful when the other girls put that face](http://9gag.com/gag/aDD3jmZ)
- - 🚯 [Mommy issue...](http://9gag.com/gag/a91LWVD)
- - 🚯 [Bullfrog hitting the sweet spot](http://9gag.com/gag/azeE8jz)<!-- MEMES:END -->
+ - 🚖 [Mommy issue...](http://9gag.com/gag/a91LWVD)
+ - 🚯 [See below](http://9gag.com/gag/aZrxBMX)
+ - 🚯 [Passengers on Canadian airline waiting calmly to exit](http://9gag.com/gag/a11eXVY)<!-- MEMES:END -->
 
 --- 
 
