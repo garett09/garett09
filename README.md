@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Saturday Night](http://9gag.com/gag/aM4rjdx)
- - 🚯 [He jumped like a pro...](http://9gag.com/gag/aGzwjgw)
+ - 🚖 [Monkey meets puppy](http://9gag.com/gag/arn4GBX)
+ - 🚯 [Saturday Night](http://9gag.com/gag/aM4rjdx)
  - 🚯 [India style &amp;gt;:D](http://9gag.com/gag/a0ZLK0B)<!-- MEMES:END -->
 
 --- 
