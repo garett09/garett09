@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Presto, which provides restaurants with food ordering hardware and analytics, is going public via a SPAC merger at a ~$1B valuation &lpar;Amrith Ramkumar/Wall Street Journal&rpar;](http://www.techmeme.com/211113/p2#a211113p2)
  - [Sources: Intel scrapped plans to make silicon wafers at a Chinese factory to ease US chip shortages, after the Biden admin strongly discouraged the proposal &lpar;Bloomberg&rpar;](http://www.techmeme.com/211113/p1#a211113p1)
- - [Snap sued for misrepresenting impact of Apple privacy changes](https://appleinsider.com/articles/21/11/12/snap-sued-for-misrepresenting-impact-of-apple-privacy-changes?utm_medium=rss)
- - [Galaga Wars+, Kingdom Rush Frontiers TD+ debut on Apple Arcade](https://appleinsider.com/articles/21/11/13/galaga-wars-kingdom-rush-frontiers-td-debut-on-apple-arcade?utm_medium=rss)<!-- TECH:END -->
+ - [Best pillow top mattresses for 2021     - CNET](https://www.cnet.com/health/sleep/best-pillow-top-mattress/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
