@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [\ua7b1\u1d09\u0265sllnq \u0265\u0254nS \u02d9\u01ddlq\u0250\u028c\u01dd\u1d09l\u01ddqu&amp;cap;](http://9gag.com/gag/aOQbBDN)
- - 🚯 [He jumped like a pro...](http://9gag.com/gag/aGzwjgw)
- - 🚯 [Dinner under lemon trees in Italy](http://9gag.com/gag/aM4rAgX)<!-- MEMES:END -->
+ - 🚖 [10 year old girl wins Kent Bazemore&amp;#039;s UNO tournament](http://9gag.com/gag/aYrWg70)
+ - 🚯 [Pubg, Fortnite? Nah - this was the real sh*t](http://9gag.com/gag/a11eKOD)
+ - 🚯 [India style &amp;gt;:D](http://9gag.com/gag/a0ZLK0B)<!-- MEMES:END -->
 
 --- 
 
