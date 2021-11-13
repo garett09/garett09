@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [10 year old girl wins Kent Bazemore&amp;#039;s UNO tournament](http://9gag.com/gag/aYrWg70)
- - 🚯 [Pubg, Fortnite? Nah - this was the real sh*t](http://9gag.com/gag/a11eKOD)
- - 🚯 [India style &amp;gt;:D](http://9gag.com/gag/a0ZLK0B)<!-- MEMES:END -->
+ - 🚖 [When you are repairing something and you lose a screw](http://9gag.com/gag/aZrx3Mz)
+ - 🚯 [Saturday Night](http://9gag.com/gag/aM4rjdx)
+ - 🚯 [Dickmann](http://9gag.com/gag/a0ZLKMX)<!-- MEMES:END -->
 
 --- 
 
