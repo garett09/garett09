@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Chivalry is drunk](http://9gag.com/gag/aXrpqQ2)
- - 🚯 [Big Cat Running Behind House Cat](http://9gag.com/gag/a51PZLy)
- - 🚯 [A Carpenter&amp;#039;s #1 Fan](http://9gag.com/gag/a81YyOe)<!-- MEMES:END -->
+ - 🚖 [A mother and baby potoroo enjoying strawberries together in the sunshine.](http://9gag.com/gag/amg0Yy9)
+ - 🚯 [Bullfrog hitting the sweet spot](http://9gag.com/gag/azeE8jz)
+ - 🚯 [Chivalry is drunk](http://9gag.com/gag/aXrpqQ2)<!-- MEMES:END -->
 
 --- 
 
