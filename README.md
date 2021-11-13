@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Why do we do this](http://9gag.com/gag/aXrpvP9)
- - 🚯 [A lego bridge layer tank in action](http://9gag.com/gag/apg0Qgn)
- - 🚯 [Life is full of surprises!](http://9gag.com/gag/ay90DzX)<!-- MEMES:END -->
+ - 🚖 [Most epic battle i&amp;#039;ve ever seen](http://9gag.com/gag/aggvY9q)
+ - 🚯 [Why do we do this](http://9gag.com/gag/aXrpvP9)
+ - 🚯 [A lego bridge layer tank in action](http://9gag.com/gag/apg0Qgn)<!-- MEMES:END -->
 
 --- 
 
