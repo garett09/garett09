@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This isn&amp;#039;t sports, this is your future](http://9gag.com/gag/aAGrPGE)
- - 🚯 [You know you are beautiful when the other girls put that face](http://9gag.com/gag/aDD3jmZ)
- - 🚯 [Are you feeling stupid?](http://9gag.com/gag/ajg0AoG)<!-- MEMES:END -->
+ - 🚖 [You know you are beautiful when the other girls put that face](http://9gag.com/gag/aDD3jmZ)
+ - 🚯 [Mommy issue...](http://9gag.com/gag/a91LWVD)
+ - 🚯 [Bullfrog hitting the sweet spot](http://9gag.com/gag/azeE8jz)<!-- MEMES:END -->
 
 --- 
 
