@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Most epic battle i&amp;#039;ve ever seen](http://9gag.com/gag/aggvY9q)
- - 🚯 [Dinner under lemon trees in Italy](http://9gag.com/gag/aM4rAgX)
- - 🚯 [Year 2025, YouTube removed both like and dislike buttons and replaced with &amp;quot;Aladeen&amp;quot;](http://9gag.com/gag/ay90xbW)<!-- MEMES:END -->
+ - 🚖 [\ua7b1\u1d09\u0265sllnq \u0265\u0254nS \u02d9\u01ddlq\u0250\u028c\u01dd\u1d09l\u01ddqu&amp;cap;](http://9gag.com/gag/aOQbBDN)
+ - 🚯 [He jumped like a pro...](http://9gag.com/gag/aGzwjgw)
+ - 🚯 [Dinner under lemon trees in Italy](http://9gag.com/gag/aM4rAgX)<!-- MEMES:END -->
 
 --- 
 
