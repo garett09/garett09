@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [See below](http://9gag.com/gag/aZrxBMX)
- - 🚯 [Passengers on Canadian airline waiting calmly to exit](http://9gag.com/gag/a11eXVY)
- - 🚯 [Mommy issue...](http://9gag.com/gag/a91LWVD)<!-- MEMES:END -->
+ - 🚖 [That damn save tho..](http://9gag.com/gag/a81Yyyd)
+ - 🚯 [Mommy issue...](http://9gag.com/gag/a91LWVD)
+ - 🚯 [Big Cat Running Behind House Cat](http://9gag.com/gag/a51PZLy)<!-- MEMES:END -->
 
 --- 
 
