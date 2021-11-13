@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Here is something you didn&amp;#039;t expect to see today](http://9gag.com/gag/aZrxgjz)
- - 🚯 [Making garlic-lemon pasta while pretending that it&amp;#039;s medieval era](http://9gag.com/gag/a0ZLbQd)
- - 🚯 [Nothing to see here...](http://9gag.com/gag/aZrxmA0)<!-- MEMES:END -->
+ - 🚖 [Why do we do this](http://9gag.com/gag/aXrpvP9)
+ - 🚯 [A lego bridge layer tank in action](http://9gag.com/gag/apg0Qgn)
+ - 🚯 [Life is full of surprises!](http://9gag.com/gag/ay90DzX)<!-- MEMES:END -->
 
 --- 
 
