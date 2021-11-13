@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [That damn save tho..](http://9gag.com/gag/a81Yyyd)
- - 🚯 [Mommy issue...](http://9gag.com/gag/a91LWVD)
- - 🚯 [Big Cat Running Behind House Cat](http://9gag.com/gag/a51PZLy)<!-- MEMES:END -->
+ - 🚖 [Chivalry is drunk](http://9gag.com/gag/aXrpqQ2)
+ - 🚯 [Big Cat Running Behind House Cat](http://9gag.com/gag/a51PZLy)
+ - 🚯 [A Carpenter&amp;#039;s #1 Fan](http://9gag.com/gag/a81YyOe)<!-- MEMES:END -->
 
 --- 
 
