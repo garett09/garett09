@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When you are repairing something and you lose a screw](http://9gag.com/gag/aZrx3Mz)
- - 🚯 [Saturday Night](http://9gag.com/gag/aM4rjdx)
- - 🚯 [Dickmann](http://9gag.com/gag/a0ZLKMX)<!-- MEMES:END -->
+ - 🚖 [Saturday Night](http://9gag.com/gag/aM4rjdx)
+ - 🚯 [He jumped like a pro...](http://9gag.com/gag/aGzwjgw)
+ - 🚯 [India style &amp;gt;:D](http://9gag.com/gag/a0ZLK0B)<!-- MEMES:END -->
 
 --- 
 
