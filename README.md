@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Steam Deck: Five big things we learned from Valve’s developer summit](https://www.theverge.com/22779252/steam-deck-things-we-learned-from-valve-developer-summit)
  - [Cloud backup service Backblaze climbed 24% in its Nasdaq debut on Thursday and 12% on Friday, after raising $100M in its IPO, giving it a market cap of ~$650M &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/211112/p23#a211112p23)
- - [The Acura Integra returns as a four-door hatchback     - Roadshow](https://www.cnet.com/roadshow/pictures/acura-integra-prototype/#ftag=CAD590a51e)
- - [The best deals on true wireless earbuds right now](https://www.theverge.com/22307388/wireless-earbuds-deals-airpods-galaxy-buds-powerbeats)<!-- TECH:END -->
+ - [The Acura Integra returns as a four-door hatchback     - Roadshow](https://www.cnet.com/roadshow/pictures/acura-integra-prototype/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
