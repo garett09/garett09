@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android 12 review: It really is all about you](https://www.androidauthority.com/android-12-review-1201890/)
- - [Tesla has reportedly been shipping out some cars without USB ports](https://www.theverge.com/2021/11/13/22780037/tesla-reportedly-shipping-cars-without-usb-ports)
- - [FBI email servers were hacked to send spam email warning about a &quot;sophisticated chain attack&quot;, with a likely goal to discredit security researcher Vinny Troia &lpar;Ionut Ilascu/BleepingComputer&rpar;](http://www.techmeme.com/211113/p9#a211113p9)<!-- TECH:END -->
+ - [Otterbox Wireless Power Pack review: Adventure ready, but heavy](https://www.androidauthority.com/otterbox-wireless-power-pack-review-3053095/)
+ - [Mophie Snap+ PowerStation Stand review: A battery with many tricks](https://appleinsider.com/articles/21/11/13/mophie-snap-powerstation-stand-review-a-battery-with-many-tricks?utm_medium=rss)
+ - [‘Deep regret’: Global climate summit fails developing nations once again](https://www.theverge.com/2021/11/13/22778646/glasgow-global-climate-summit-cop26-adaptation-finance-loss-damage)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
