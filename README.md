@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Steam Deck: Five big things we learned from Valve’s developer summit](https://www.theverge.com/22779252/steam-deck-things-we-learned-from-valve-developer-summit)
- - [Cloud backup service Backblaze climbed 24% in its Nasdaq debut on Thursday and 12% on Friday, after raising $100M in its IPO, giving it a market cap of ~$650M &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/211112/p23#a211112p23)
- - [The Acura Integra returns as a four-door hatchback     - Roadshow](https://www.cnet.com/roadshow/pictures/acura-integra-prototype/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: Intel scrapped plans to make silicon wafers at a Chinese factory to ease US chip shortages, after the Biden admin strongly discouraged the proposal &lpar;Bloomberg&rpar;](http://www.techmeme.com/211113/p1#a211113p1)
+ - [Snap sued for misrepresenting impact of Apple privacy changes](https://appleinsider.com/articles/21/11/12/snap-sued-for-misrepresenting-impact-of-apple-privacy-changes?utm_medium=rss)
+ - [Galaga Wars+, Kingdom Rush Frontiers TD+ debut on Apple Arcade](https://appleinsider.com/articles/21/11/13/galaga-wars-kingdom-rush-frontiers-td-debut-on-apple-arcade?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
