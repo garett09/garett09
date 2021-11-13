@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Galaga Wars+, Kingdom Rush Frontiers TD+ debut on Apple Arcade](https://appleinsider.com/articles/21/11/13/galaga-wars-kingdom-rush-frontiers-td-debut-on-apple-arcade?utm_medium=rss)
- - [Black Friday 2021: Big savings on phones, wearables, earbuds, and more](https://www.androidauthority.com/black-friday-deals-3049753/)
- - [The best early Black Friday deals you can get right now](https://www.theverge.com/22759214/black-friday-early-deals-best-headphones-laptops-gaming-tvs-tech-sale)<!-- TECH:END -->
+ - [The best deals on true wireless earbuds right now](https://www.theverge.com/22307388/wireless-earbuds-deals-airpods-galaxy-buds-powerbeats)
+ - [AppliedVR, which provides VR-based therapeutics to patients with chronic pain, raises a $36M Series B, bringing its total funding to $71M &lpar;Fred Pennic/hitconsultant.net&rpar;](http://www.techmeme.com/211112/p22#a211112p22)
+ - [Galaga Wars+, Kingdom Rush Frontiers TD+ debut on Apple Arcade](https://appleinsider.com/articles/21/11/13/galaga-wars-kingdom-rush-frontiers-td-debut-on-apple-arcade?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
