@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Black Friday 2021 ad scans: Walmart, Staples, Target, Best Buy and more     - CNET](https://www.cnet.com/home/black-friday-2021-ad-scans-walmart-target-best-buy-and-more/#ftag=CAD590a51e)
- - [PS5 Black Friday: Leaked Walmart ad shows first possible deals     - CNET](https://www.cnet.com/tech/gaming/the-best-ps5-black-friday-2021-deals/#ftag=CAD590a51e)
- - [Otterbox Wireless Power Pack review: Adventure ready, but heavy](https://www.androidauthority.com/otterbox-wireless-power-pack-review-3053095/)<!-- TECH:END -->
+ - [5 reasons why Foundation is worth watching on Apple TV Plus](https://www.androidauthority.com/is-foundation-worth-watching-apple-tv-plus-tv-series-3055645/)
+ - [Mercury Research: ARM&#39;s market share in PC chips was about 8% in Q3 2021, up from 2% in Q3 2020 when Apple&#39;s ARM-based M1 Macs weren&#39;t on sale &lpar;Agam Shah/The Register&rpar;](http://www.techmeme.com/211113/p10#a211113p10)
+ - [AEW Full Gear 2021 PPV: Start times, how to watch, full card and Bleacher Report     - CNET](https://www.cnet.com/news/aew-full-gear-2021-ppv-start-times-how-to-watch-full-card-and-bleacher-report/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
