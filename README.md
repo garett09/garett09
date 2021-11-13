@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Telegram could become a powerful vector for lies and vitriol before the 2022 presidential elections in Brazil, where it is installed on 53% of smartphones &lpar;New York Times&rpar;](http://www.techmeme.com/211113/p6#a211113p6)
- - [That cheap Chromebook may be too good to be true     - CNET](https://www.cnet.com/tech/computing/that-cheap-chromebook-may-be-too-good-to-be-true/#ftag=CAD590a51e)
- - [OnePlus 10 and 10 Pro: What we hope to see in 2022](https://www.androidauthority.com/oneplus-10-3055636/)<!-- TECH:END -->
+ - [The Weekly Authority: Edition #168](https://www.androidauthority.com/newsletters/the-weekly-authority-edition-168/)
+ - [Twitter Blue Is for People Who Love Reading the News](https://www.wired.com/story/twitter-blue-is-not-for-everyone)
+ - [Randonauting Promised Adventure. It Led to Dumpsters](https://www.wired.com/story/randonautica-social-media)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
