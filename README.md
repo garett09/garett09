@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Presto, which provides restaurants with food ordering hardware and analytics, is going public via a SPAC merger at a ~$1B valuation &lpar;Amrith Ramkumar/Wall Street Journal&rpar;](http://www.techmeme.com/211113/p2#a211113p2)
- - [Sources: Intel scrapped plans to make silicon wafers at a Chinese factory to ease US chip shortages, after the Biden admin strongly discouraged the proposal &lpar;Bloomberg&rpar;](http://www.techmeme.com/211113/p1#a211113p1)
- - [Best pillow top mattresses for 2021     - CNET](https://www.cnet.com/health/sleep/best-pillow-top-mattress/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Substack touts itself as an alternative to toxic, ad-driven social media, but many of its top earners are polarizing figures who were deplatformed elsewhere &lpar;Chris Stokel-Walker/Wired UK&rpar;](http://www.techmeme.com/211113/p5#a211113p5)
+ - [Gett, which helps companies organize their ride-hailing, taxi, and limousine booking options, is going public via a SPAC merger at a ~$1.1B valuation &lpar;Amrith Ramkumar/Wall Street Journal&rpar;](http://www.techmeme.com/211113/p4#a211113p4)
+ - [An overview of Taproot, an upgrade to bitcoin that should make transactions more private and less expensive, and is expected to go live in the coming days &lpar;Taylor Locke/CNBC&rpar;](http://www.techmeme.com/211113/p3#a211113p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
