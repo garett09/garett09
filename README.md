@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Is it?](http://9gag.com/gag/aggvXwK)
- - 🚯 [Damn, kid got skills](http://9gag.com/gag/aM4rjp1)
- - 🚯 [More ads incoming](http://9gag.com/gag/a71yMPz)<!-- MEMES:END -->
+ - 🚖 [Nice try.](http://9gag.com/gag/apg0mOB)
+ - 🚯 [More ads incoming](http://9gag.com/gag/a71yMPz)
+ - 🚯 [Behold a touchscreen in. car from a 1988 &lpar;Buick Reatta&rpar;](http://9gag.com/gag/arn4o3K)<!-- MEMES:END -->
 
 --- 
 
