@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A mother and baby potoroo enjoying strawberries together in the sunshine.](http://9gag.com/gag/amg0Yy9)
- - 🚯 [Bullfrog hitting the sweet spot](http://9gag.com/gag/azeE8jz)
- - 🚯 [Chivalry is drunk](http://9gag.com/gag/aXrpqQ2)<!-- MEMES:END -->
+ - 🚖 [Chivalry is drunk](http://9gag.com/gag/aXrpqQ2)
+ - 🚯 [A Carpenter&amp;#039;s #1 Fan](http://9gag.com/gag/a81YyOe)
+ - 🚯 [Good boy alerting low blood sugar](http://9gag.com/gag/aBn380z)<!-- MEMES:END -->
 
 --- 
 
