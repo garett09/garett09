@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Otterbox Wireless Power Pack review: Adventure ready, but heavy](https://www.androidauthority.com/otterbox-wireless-power-pack-review-3053095/)
- - [Mophie Snap+ PowerStation Stand review: A battery with many tricks](https://appleinsider.com/articles/21/11/13/mophie-snap-powerstation-stand-review-a-battery-with-many-tricks?utm_medium=rss)
- - [‘Deep regret’: Global climate summit fails developing nations once again](https://www.theverge.com/2021/11/13/22778646/glasgow-global-climate-summit-cop26-adaptation-finance-loss-damage)<!-- TECH:END -->
+ - [Black Friday 2021 ad scans: Walmart, Staples, Target, Best Buy and more     - CNET](https://www.cnet.com/home/black-friday-2021-ad-scans-walmart-target-best-buy-and-more/#ftag=CAD590a51e)
+ - [PS5 Black Friday: Leaked Walmart ad shows first possible deals     - CNET](https://www.cnet.com/tech/gaming/the-best-ps5-black-friday-2021-deals/#ftag=CAD590a51e)
+ - [Otterbox Wireless Power Pack review: Adventure ready, but heavy](https://www.androidauthority.com/otterbox-wireless-power-pack-review-3053095/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
