@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Another Samsung Galaxy S21 FE leak shows the device from more angles](https://www.theverge.com/2021/11/13/22779911/samsung-galaxy-s21-fe-leak-shows-device)
- - [How US cities are deploying drones, robots, and AI to more affordably inspect, diagnose, and repair the country&#39;s aging sewer infrastructure &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/211113/p8#a211113p8)
- - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-406-3058227/)<!-- TECH:END -->
+ - [Can Netflix actually stay on top in the streaming wars?](https://www.androidauthority.com/streaming-wars-3053714/)
+ - [White House shot down Intel plans to increase chip production in China](https://appleinsider.com/articles/21/11/13/white-house-shot-down-intel-plans-to-increase-chip-production-in-china?utm_medium=rss)
+ - [Best Buy Black Friday deals: Wish List Event offers cheap coffee makers, Fitbit Charge 5 and more     - CNET](https://www.cnet.com/tech/computing/best-buy-black-friday-deals-early-wish-list-event-sales/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
