@@ -194,8 +194,8 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Awesome man asks a girl with cerebral palsy to prom.](http://9gag.com/gag/avAg5GZ)
- - 🚯 [A German Shepherd and his kitten](http://9gag.com/gag/aKmP6Bj)
- - 🚯 [My first self made meme is a self burn &lpar;Those are rare&rpar;](http://9gag.com/gag/aeg05Bv)<!-- MEMES:END -->
+ - 🚯 [Gotcha](http://9gag.com/gag/arn4MyX)
+ - 🚯 [He is man of skill, skill and sheer f**king skills...](http://9gag.com/gag/a91LEwj)<!-- MEMES:END -->
 
 --- 
 
