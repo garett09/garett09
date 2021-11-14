@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How can he walk normally with those huge balls?](http://9gag.com/gag/aNPZwY4)
- - 🚯 [A Karen trying to interup a comedy show because she was insulted](http://9gag.com/gag/a41d1M1)
- - 🚯 [So beautiful](http://9gag.com/gag/aAGr0VL)<!-- MEMES:END -->
+ - 🚖 [A Karen trying to interup a comedy show because she was insulted](http://9gag.com/gag/a41d1M1)
+ - 🚯 [A little gratitude](http://9gag.com/gag/avAgA9X)
+ - 🚯 [Howard is a savage](http://9gag.com/gag/a71y1Qr)<!-- MEMES:END -->
 
 --- 
 
