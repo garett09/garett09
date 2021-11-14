@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Eternals’ Hiroshima scene was personal for the writers, and Chloe Zhao fought to keep it](https://www.polygon.com/22771286/eternals-hiroshima-scene-marvel-writers-interview)
- - [Sunday Comics: Dingle Dingle](https://kotaku.com/sunday-comics-dingle-dingle-1848054656)
- - [Watch the 7 movies that inspired Netflix’s live-action Cowboy Bebop](https://www.polygon.com/22771803/netflix-cowboy-bebop-movies-to-watch-inspiration)<!-- GAME:END -->
+ - [This Week in PC Gaming: Battlefield 2042, Grow: Song of the Evertree and Sherlock Holmes Chapter One](https://www.pcgamer.com/this-week-in-pc-gaming-battlefield-2042-grow-song-of-the-evertree-sherlock-holmes-chapter-one)
+ - [Back 4 Blood Devs Say The Game Is &#39;Far More Difficult Than Intended&#39; And Have Plans To Fix It](https://kotaku.com/back-4-blood-devs-say-the-game-is-far-more-difficult-th-1848054870)
+ - [Eternals’ Hiroshima scene was personal for the writers, and Chloe Zhao fought to keep it](https://www.polygon.com/22771286/eternals-hiroshima-scene-marvel-writers-interview)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
