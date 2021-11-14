@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [WSO2, which offers low-code tools to help businesses, hospitals, schools, and public sector organizations build apps, raises $90M from Goldman Sachs &lpar;Angus Loten/Wall Street Journal&rpar;](http://www.techmeme.com/211113/p12#a211113p12)
  - [Apple agrees to pay its CA store workers $29.9M, settling a 2013 lawsuit for time spent in required security bag checks; Apple dropped the policy in 2015 &lpar;Robert Burnson/Bloomberg&rpar;](http://www.techmeme.com/211113/p11#a211113p11)
- - [7 best Hi-Res music streaming services for Android](https://www.androidauthority.com/best-hi-res-music-streaming-services-android-3054797/)
- - [AEW Full Gear 2021: Results, live updates and match ratings     - CNET](https://www.cnet.com/news/aew-full-gear-2021-results-live-updates-and-match-ratings/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [7 best Hi-Res music streaming services for Android](https://www.androidauthority.com/best-hi-res-music-streaming-services-android-3054797/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
