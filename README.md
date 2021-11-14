@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Gonna cry?](http://9gag.com/gag/aeg0DnQ)
- - 🚯 [I&amp;rsquo;m a lamppost I don&amp;rsquo;t care](http://9gag.com/gag/a41d1jp)
- - 🚯 [They said that true friendship no longer exist.](http://9gag.com/gag/aVxW7Av)<!-- MEMES:END -->
+ - 🚖 [They said that true friendship no longer exist.](http://9gag.com/gag/aVxW7Av)
+ - 🚯 [He is man of skill, skill and sheer f**king skills...](http://9gag.com/gag/a91LEwj)
+ - 🚯 [Cuck](http://9gag.com/gag/aQX4Xo8)<!-- MEMES:END -->
 
 --- 
 
