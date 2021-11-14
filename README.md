@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Remembering the origins of the trailblazing PMS Clan](https://www.pcgamer.com/remembering-the-origins-of-the-trailblazing-pms-clan)
  - [Arcane episode 6 recap: Bittersweet reunions](https://www.pcgamer.com/arcane-episode-6-recap-bittersweet-reunions)
- - [Arcane episode 5 recap: Dirty cops, and dirtier deals](https://www.pcgamer.com/arcane-episode-5-recap-dirty-cops-and-dirtier-deals)
- - [Arcane episode 4 recap: Ghosts of the past](https://www.pcgamer.com/arcane-episode-4-recap-ghosts-of-the-past)<!-- GAME:END -->
+ - [Arcane episode 5 recap: Dirty cops, and dirtier deals](https://www.pcgamer.com/arcane-episode-5-recap-dirty-cops-and-dirtier-deals)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
