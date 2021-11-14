@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Gotcha](http://9gag.com/gag/arn4MyX)
- - 🚯 [Exactly](http://9gag.com/gag/apg0NA5)
- - 🚯 [1994 was really a golden year](http://9gag.com/gag/angK4E5)<!-- MEMES:END -->
+ - 🚖 [Gonna cry?](http://9gag.com/gag/aeg0DnQ)
+ - 🚯 [I&amp;rsquo;m a lamppost I don&amp;rsquo;t care](http://9gag.com/gag/a41d1jp)
+ - 🚯 [They said that true friendship no longer exist.](http://9gag.com/gag/aVxW7Av)<!-- MEMES:END -->
 
 --- 
 
