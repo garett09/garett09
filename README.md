@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Horrifying roguelike World of Horror&#39;s big update is coming this month](https://www.pcgamer.com/horrifying-roguelike-world-of-horrors-big-update-is-coming-this-month)
- - [Grim and gritty tactics RPG Wartales will be playable next month](https://www.pcgamer.com/grim-and-gritty-tactics-rpg-wartales-will-be-playable-next-month)
- - [Take-Two Interactive Removes More GTA Mods Using DMCA Strikes](https://kotaku.com/take-two-interactive-removes-more-gta-mods-using-dmca-s-1848053219)<!-- GAME:END -->
+ - [Arcane episode 6 recap: Bittersweet reunions](https://www.pcgamer.com/arcane-episode-6-recap-bittersweet-reunions)
+ - [Arcane episode 5 recap: Dirty cops, and dirtier deals](https://www.pcgamer.com/arcane-episode-5-recap-dirty-cops-and-dirtier-deals)
+ - [Arcane episode 4 recap: Ghosts of the past](https://www.pcgamer.com/arcane-episode-4-recap-ghosts-of-the-past)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
