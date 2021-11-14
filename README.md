@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Forza Horizon 5 Has Some Amazing And Silly Car Horns](https://kotaku.com/forza-horizon-5-has-some-amazing-and-silly-car-horns-1848053481)
- - [This Week in PC Gaming: Battlefield 2042, Grow: Song of the Evertree and Sherlock Holmes Chapter One](https://www.pcgamer.com/this-week-in-pc-gaming-battlefield-2042-grow-song-of-the-evertree-sherlock-holmes-chapter-one)
- - [Back 4 Blood Devs Say The Game Is &#39;Far More Difficult Than Intended&#39; And Have Plans To Fix It](https://kotaku.com/back-4-blood-devs-say-the-game-is-far-more-difficult-th-1848054870)<!-- GAME:END -->
+ - [Free Baba Is You update doubles size of game, adds cross-platform level editor](https://www.pcgamer.com/free-baba-is-you-update-doubles-size-of-game-adds-cross-platform-level-editor)
+ - [Three Days Later, Remastered GTA Trilogy Still Unplayable On PC Even If You Bought It](https://kotaku.com/three-days-later-remastered-gta-trilogy-still-unplayab-1848055316)
+ - [Forza Horizon 5 Has Some Amazing And Silly Car Horns](https://kotaku.com/forza-horizon-5-has-some-amazing-and-silly-car-horns-1848053481)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
