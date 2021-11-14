@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The first Harry Potter movie owes a lot to Home Alone, says director](https://www.polygon.com/22778088/harry-potter-sorcerers-stone-20th-anniversary-home-alone-chris-columbus)
- - [The RPG inspirations of Tiny Tina&#39;s Wonderlands go further than skin-deep](https://www.pcgamer.com/the-rpg-inspirations-of-tiny-tinas-wonderlands-go-further-than-skin-deep)
- - [The PMS Clan blazed a trail for women in competitive gaming](https://www.pcgamer.com/remembering-the-origins-of-the-trailblazing-pms-clan)<!-- GAME:END -->
+ - [Eternals’ Hiroshima scene was personal for the writers, and Chloe Zhao fought to keep it](https://www.polygon.com/22771286/eternals-hiroshima-scene-marvel-writers-interview)
+ - [Sunday Comics: Dingle Dingle](https://kotaku.com/sunday-comics-dingle-dingle-1848054656)
+ - [Watch the 7 movies that inspired Netflix’s live-action Cowboy Bebop](https://www.polygon.com/22771803/netflix-cowboy-bebop-movies-to-watch-inspiration)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
