@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple agrees to pay its CA store workers $29.9M, settling a 2013 lawsuit for time spent in required security bag checks; Apple dropped the policy in 2015 &lpar;Robert Burnson/Bloomberg&rpar;](http://www.techmeme.com/211113/p11#a211113p11)
  - [7 best Hi-Res music streaming services for Android](https://www.androidauthority.com/best-hi-res-music-streaming-services-android-3054797/)
- - [AEW Full Gear 2021: Results, live updates and match ratings     - CNET](https://www.cnet.com/news/aew-full-gear-2021-results-live-updates-and-match-ratings/#ftag=CAD590a51e)
- - [COP26 climate agreement strikes some as &#39;good deal,&#39; others as &#39;blah, blah, blah&#39;     - CNET](https://www.cnet.com/news/cop26-climate-agreement-strikes-some-as-good-deal-others-as-blah-blah-blah/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [AEW Full Gear 2021: Results, live updates and match ratings     - CNET](https://www.cnet.com/news/aew-full-gear-2021-results-live-updates-and-match-ratings/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
