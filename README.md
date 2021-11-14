@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Taproot, the first major upgrade to Bitcoin&#39;s code since the introduction of Segregated Witness in 2017, has been activated &lpar;Wolfie Zhao/The Block&rpar;](http://www.techmeme.com/211114/p4#a211114p4)
  - [Apple, Spotify, and other companies that distribute podcasts have done little to rein in COVID-19 misinformation, escaping the scrutiny social media giants face &lpar;New York Times&rpar;](http://www.techmeme.com/211114/p3#a211114p3)
- - [The best Fitbit for women: Versa 3, Sense, Luxe, Charge 5, and more](https://www.androidauthority.com/best-fitbit-for-women-3053805/)
- - [AMD reveals 50 security flaws affecting EPYC processors and its graphics driver for Windows 10; Intel discloses 25 security flaws in its products including CPUs &lpar;Simon Sharwood/The Register&rpar;](http://www.techmeme.com/211114/p2#a211114p2)<!-- TECH:END -->
+ - [The best Fitbit for women: Versa 3, Sense, Luxe, Charge 5, and more](https://www.androidauthority.com/best-fitbit-for-women-3053805/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
