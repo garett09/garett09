@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Huawei smartwatches you can buy](https://www.androidauthority.com/best-huawei-smartwatches-3048478/)
- - [What is a kernel and why does it matter?](https://www.androidauthority.com/what-is-a-kernel-3040697/)
- - [Taproot, the first major upgrade to Bitcoin&#39;s code since the introduction of Segregated Witness in 2017, has been activated &lpar;Wolfie Zhao/The Block&rpar;](http://www.techmeme.com/211114/p4#a211114p4)<!-- TECH:END -->
+ - [How Togo, a country where few possess a driver&#39;s license or national ID card, built a digital platform to rapidly disburse relief payments to millions of people &lpar;Ted Alcorn/Bloomberg&rpar;](http://www.techmeme.com/211114/p5#a211114p5)
+ - [16 Gifts for PlayStation Lovers](https://www.wired.com/gallery/gift-ideas-for-sony-playstation-owners-2021)
+ - [Everything You Need to Work From Home Like a Pro](https://www.wired.com/story/work-from-home-home-office-gear-guide)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
