@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Today&#39;s top 5 early Black Friday Apple deals on Amazon](https://appleinsider.com/articles/21/11/11/todays-top-5-early-black-friday-apple-deals-on-amazon?utm_medium=rss)
- - [The new MacBooks Pro: Why did Apple backtrack on everything?](https://appleinsider.com/articles/21/11/14/the-new-macbooks-pro-why-did-apple-backtrack-on-everything?utm_medium=rss)
- - [Apple appears to be mystery tenant listed in Boulder property brochure](https://appleinsider.com/articles/21/11/14/apple-appears-to-be-mystery-tenant-listed-in-boulder-property-brochure?utm_medium=rss)<!-- TECH:END -->
+ - [Samsung Galaxy Buds Pro vs Galaxy Buds 2: Which should you buy?](https://www.androidauthority.com/samsung-galaxy-buds-pro-vs-galaxy-buds-2-3050131/)
+ - [Internal documents show Facebook defends algorithmic ranking because its data suggests that its algorithm knows what users want better than they do themselves &lpar;Will Oremus/Washington Post&rpar;](http://www.techmeme.com/211114/p7#a211114p7)
+ - [NYTSTND Quad Tray MagSafe review: bring some class back to nighttime charging](https://appleinsider.com/articles/21/11/14/nytstnd-quad-tray-magsafe-review-bring-some-class-back-to-nighttime-charging?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
