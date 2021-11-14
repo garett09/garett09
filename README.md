@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Seems fair](http://9gag.com/gag/aXrpn92)
- - 🚯 [No shiiit!!!!](http://9gag.com/gag/aBn3dGP)
- - 🚯 [Fack](http://9gag.com/gag/a81Y1Ap)<!-- MEMES:END -->
+ - 🚖 [How can he walk normally with those huge balls?](http://9gag.com/gag/aNPZwY4)
+ - 🚯 [A Karen trying to interup a comedy show because she was insulted](http://9gag.com/gag/a41d1M1)
+ - 🚯 [So beautiful](http://9gag.com/gag/aAGr0VL)<!-- MEMES:END -->
 
 --- 
 
