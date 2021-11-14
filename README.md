@@ -194,7 +194,7 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Failed manna](http://9gag.com/gag/avAgyZZ)
- - 🚯 [Feeding time at an eel farm.](http://9gag.com/gag/ay902Ey)
+ - 🚯 [Go go go&amp;hellip;](http://9gag.com/gag/aWgW4A6)
  - 🚯 [After 26 years, 9 championships, 89 wins, and 199 podiums, Valentino Rossi is farewelled from the MotoGP premier class](http://9gag.com/gag/ajg0P0R)<!-- MEMES:END -->
 
 --- 
