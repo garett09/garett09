@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [What is a kernel and why does it matter?](https://www.androidauthority.com/what-is-a-kernel-3040697/)
  - [Taproot, the first major upgrade to Bitcoin&#39;s code since the introduction of Segregated Witness in 2017, has been activated &lpar;Wolfie Zhao/The Block&rpar;](http://www.techmeme.com/211114/p4#a211114p4)
- - [Apple, Spotify, and other companies that distribute podcasts have done little to rein in COVID-19 misinformation, escaping the scrutiny social media giants face &lpar;New York Times&rpar;](http://www.techmeme.com/211114/p3#a211114p3)
- - [The best Fitbit for women: Versa 3, Sense, Luxe, Charge 5, and more](https://www.androidauthority.com/best-fitbit-for-women-3053805/)<!-- TECH:END -->
+ - [Apple, Spotify, and other companies that distribute podcasts have done little to rein in COVID-19 misinformation, escaping the scrutiny social media giants face &lpar;New York Times&rpar;](http://www.techmeme.com/211114/p3#a211114p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
