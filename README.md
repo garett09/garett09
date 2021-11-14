@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The RPG inspirations of Tiny Tina&#39;s Wonderlands go further than skin-deep](https://www.pcgamer.com/the-rpg-inspirations-of-tiny-tinas-wonderlands-go-further-than-skin-deep)
  - [Remembering the origins of the trailblazing PMS Clan](https://www.pcgamer.com/remembering-the-origins-of-the-trailblazing-pms-clan)
- - [Arcane episode 6 recap: Bittersweet reunions](https://www.pcgamer.com/arcane-episode-6-recap-bittersweet-reunions)
- - [Arcane episode 5 recap: Dirty cops, and dirtier deals](https://www.pcgamer.com/arcane-episode-5-recap-dirty-cops-and-dirtier-deals)<!-- GAME:END -->
+ - [Arcane episode 6 recap: Bittersweet reunions](https://www.pcgamer.com/arcane-episode-6-recap-bittersweet-reunions)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
