@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [First to touch the trashcan loses](http://9gag.com/gag/apg05Ob)
- - 🚯 [Just learned this, too funny not to pass on!](http://9gag.com/gag/a91Lnrm)
- - 🚯 [To the death &lpar;lightsaber fight that makes sense&rpar;](http://9gag.com/gag/a71ywMx)<!-- MEMES:END -->
+ - 🚖 [Yes!](http://9gag.com/gag/amg0vm2)
+ - 🚯 [To the death &lpar;lightsaber fight that makes sense&rpar;](http://9gag.com/gag/a71ywMx)
+ - 🚯 [Just learned this, too funny not to pass on!](http://9gag.com/gag/a91Lnrm)<!-- MEMES:END -->
 
 --- 
 
