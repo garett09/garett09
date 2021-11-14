@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [1994-2021. My wife of 4 months and Girlfriend for 4 years died a few days ago. My only escape from reality is here and I don&amp;rsquo;t feel anything could help me understand this truth. She loved this image and last said she will always smile every-time she see&amp;rsquo;s it on my wallpaper.](http://9gag.com/gag/aDD3D7G)
- - 🚯 [It&amp;#039;s getting harder](http://9gag.com/gag/aNPZP1K)
- - 🚯 [A stranger knocked on Kim&amp;rsquo;s door to her surprise he found her daughters wallet. Credit:ring](http://9gag.com/gag/aYrWov7)<!-- MEMES:END -->
+ - 🚖 [Sadge](http://9gag.com/gag/arn4n1X)
+ - 🚯 [I&amp;rsquo;m a lamppost I don&amp;rsquo;t care](http://9gag.com/gag/a41d1jp)
+ - 🚯 [A Karen trying to interup a comedy show because she was insulted](http://9gag.com/gag/a41d1M1)<!-- MEMES:END -->
 
 --- 
 
