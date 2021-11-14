@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple tightly controlling Apple Wallet digital ID feature, documents show](https://appleinsider.com/articles/21/11/14/apple-tightly-controlling-apple-wallet-digital-id-feature-documents-show?utm_medium=rss)
- - [Do you need a streaming device if you have a smart TV? Absolutely, here’s why.](https://www.androidauthority.com/smart-tv-vs-streaming-device-3051411/)
- - [Best deals Nov. 13: Save $30 on Second-Gen Apple Pencil, $70 off Powerbeats, and more](https://appleinsider.com/articles/21/11/13/best-deals-nov-13-save-30-on-second-gen-apple-pencil-70-off-powerbeats-and-more?utm_medium=rss)<!-- TECH:END -->
+ - [Today&#39;s top 5 early Black Friday Apple deals on Amazon](https://appleinsider.com/articles/21/11/11/todays-top-5-early-black-friday-apple-deals-on-amazon?utm_medium=rss)
+ - [The new MacBooks Pro: Why did Apple backtrack on everything?](https://appleinsider.com/articles/21/11/14/the-new-macbooks-pro-why-did-apple-backtrack-on-everything?utm_medium=rss)
+ - [Apple appears to be mystery tenant listed in Boulder property brochure](https://appleinsider.com/articles/21/11/14/apple-appears-to-be-mystery-tenant-listed-in-boulder-property-brochure?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
