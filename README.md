@@ -194,8 +194,8 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Seems fair](http://9gag.com/gag/aXrpn92)
- - 🚯 [So beautiful](http://9gag.com/gag/aAGr0VL)
- - 🚯 [Cuck](http://9gag.com/gag/aQX4Xo8)<!-- MEMES:END -->
+ - 🚯 [No shiiit!!!!](http://9gag.com/gag/aBn3dGP)
+ - 🚯 [Fack](http://9gag.com/gag/a81Y1Ap)<!-- MEMES:END -->
 
 --- 
 
