@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [AMD reveals 50 security flaws affecting EPYC processors and its graphics driver for Windows 10; Intel discloses 25 security flaws in its products including CPUs &lpar;Simon Sharwood/The Register&rpar;](http://www.techmeme.com/211114/p2#a211114p2)
- - [AEW Full Gear 2021: Results, new AEW Champion, full recap and analysis     - CNET](https://www.cnet.com/news/aew-full-gear-2021-results-new-aew-champion-full-recap-and-analysis/#ftag=CAD590a51e)
- - [US states led by Texas file an amended Google lawsuit, providing more details about &quot;Project Bernanke&quot;, which allegedly gave Google&#39;s own ad-buying an advantage &lpar;Chris Prentice/Reuters&rpar;](http://www.techmeme.com/211114/p1#a211114p1)<!-- TECH:END -->
+ - [Apple, Spotify, and other companies that distribute podcasts have done little to rein in COVID-19 misinformation, escaping the scrutiny social media giants face &lpar;New York Times&rpar;](http://www.techmeme.com/211114/p3#a211114p3)
+ - [The best Fitbit for women: Versa 3, Sense, Luxe, Charge 5, and more](https://www.androidauthority.com/best-fitbit-for-women-3053805/)
+ - [AMD reveals 50 security flaws affecting EPYC processors and its graphics driver for Windows 10; Intel discloses 25 security flaws in its products including CPUs &lpar;Simon Sharwood/The Register&rpar;](http://www.techmeme.com/211114/p2#a211114p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
