@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Everything you need to know about tracking your pregnancy with Garmin](https://www.androidauthority.com/garmin-pregnancy-tracking-1176231/)
  - [Report finds that online child sexual abuse material is increasing in sheer volume, growing more complex, and capitalizing on tech&#39;s blind spots &lpar;Aisha Counts/Protocol&rpar;](http://www.techmeme.com/211114/p8#a211114p8)
- - [Best iPad for 2021     - CNET](https://www.cnet.com/tech/computing/best-ipad/#ftag=CAD590a51e)
- - [Anker PowerCore Slim PD review: Simple, slim, and steady](https://www.androidauthority.com/anker-powercore-slim-pd-review-3051943/)<!-- TECH:END -->
+ - [Best iPad for 2021     - CNET](https://www.cnet.com/tech/computing/best-ipad/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
