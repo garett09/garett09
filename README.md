@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The FBI’s email system was hacked to send out fake cybersecurity warnings](https://www.theverge.com/2021/11/14/22781341/fbi-email-system-hacked-fake-cybersecurity-warnings)
- - [Is the Google Pixel 6 Pro camera actually better than the Pixel 5?](https://www.androidauthority.com/google-pixel-6-vs-pixel-5-camera-test-3051870/)
- - [Agreements between Apple and some states to offer digital IDs in Wallet, show states covering costs of issuing the IDs and Apple approving marketing efforts &lpar;CNBC&rpar;](http://www.techmeme.com/211114/p6#a211114p6)<!-- TECH:END -->
+ - [Apple tightly controlling Apple Wallet digital ID feature, documents show](https://appleinsider.com/articles/21/11/14/apple-tightly-controlling-apple-wallet-digital-id-feature-documents-show?utm_medium=rss)
+ - [Do you need a streaming device if you have a smart TV? Absolutely, here’s why.](https://www.androidauthority.com/smart-tv-vs-streaming-device-3051411/)
+ - [Best deals Nov. 13: Save $30 on Second-Gen Apple Pencil, $70 off Powerbeats, and more](https://appleinsider.com/articles/21/11/13/best-deals-nov-13-save-30-on-second-gen-apple-pencil-70-off-powerbeats-and-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
