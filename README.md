@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Sadge](http://9gag.com/gag/arn4n1X)
- - 🚯 [I&amp;rsquo;m a lamppost I don&amp;rsquo;t care](http://9gag.com/gag/a41d1jp)
- - 🚯 [A Karen trying to interup a comedy show because she was insulted](http://9gag.com/gag/a41d1M1)<!-- MEMES:END -->
+ - 🚖 [Seems fair](http://9gag.com/gag/aXrpn92)
+ - 🚯 [So beautiful](http://9gag.com/gag/aAGr0VL)
+ - 🚯 [Cuck](http://9gag.com/gag/aQX4Xo8)<!-- MEMES:END -->
 
 --- 
 
