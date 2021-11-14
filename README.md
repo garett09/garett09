@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The first Harry Potter movie owes a lot to Home Alone, says director](https://www.polygon.com/22778088/harry-potter-sorcerers-stone-20th-anniversary-home-alone-chris-columbus)
  - [The RPG inspirations of Tiny Tina&#39;s Wonderlands go further than skin-deep](https://www.pcgamer.com/the-rpg-inspirations-of-tiny-tinas-wonderlands-go-further-than-skin-deep)
- - [The PMS Clan blazed a trail for women in competitive gaming](https://www.pcgamer.com/remembering-the-origins-of-the-trailblazing-pms-clan)
- - [Arcane episode 6 recap: Bittersweet reunions](https://www.pcgamer.com/arcane-episode-6-recap-bittersweet-reunions)<!-- GAME:END -->
+ - [The PMS Clan blazed a trail for women in competitive gaming](https://www.pcgamer.com/remembering-the-origins-of-the-trailblazing-pms-clan)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
