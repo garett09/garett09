@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [WSO2, which offers low-code tools to help businesses, hospitals, schools, and public sector organizations build apps, raises $90M from Goldman Sachs &lpar;Angus Loten/Wall Street Journal&rpar;](http://www.techmeme.com/211113/p12#a211113p12)
- - [Apple agrees to pay its CA store workers $29.9M, settling a 2013 lawsuit for time spent in required security bag checks; Apple dropped the policy in 2015 &lpar;Robert Burnson/Bloomberg&rpar;](http://www.techmeme.com/211113/p11#a211113p11)
- - [7 best Hi-Res music streaming services for Android](https://www.androidauthority.com/best-hi-res-music-streaming-services-android-3054797/)<!-- TECH:END -->
+ - [US states led by Texas file an amended Google lawsuit, providing more details about &quot;Project Bernanke&quot;, which allegedly gave Google&#39;s own ad-buying an advantage &lpar;Chris Prentice/Reuters&rpar;](http://www.techmeme.com/211114/p1#a211114p1)
+ - [The person claiming responsibility for the FBI email server hack says they were able to send the messages by abusing poor code in the FBI&#39;s LEEP online portal &lpar;Brian Krebs/Krebs on Security&rpar;](http://www.techmeme.com/211113/p13#a211113p13)
+ - [WSO2, which offers low-code tools to help businesses, hospitals, schools, and public sector organizations build apps, raises $90M from Goldman Sachs &lpar;Angus Loten/Wall Street Journal&rpar;](http://www.techmeme.com/211113/p12#a211113p12)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
