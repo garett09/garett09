@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Best Desktop Gaming PCs We’ve Played With](https://www.wired.com/gallery/best-gaming-desktop-pcs)
- - [Google’s new floodlight camera is bright but not beautiful](https://www.theverge.com/22776184/google-nest-cam-floodlight-review-smart-security-camera)
- - [The best terrible phone clones you can buy on Amazon &lpar;but really shouldn’t&rpar;](https://www.androidauthority.com/phone-clones-amazon-3051695/)<!-- TECH:END -->
+ - [13 fun and ridiculous examples of the Pixel 6’s Magic Eraser](https://www.androidauthority.com/magic-eraser-3056091/)
+ - [Twitter shouldn’t be hiding basic app improvements behind its Blue paywall](https://www.theverge.com/2021/11/14/22778827/twitter-blue-undo-button-paywall-features-paid-free)
+ - [The Best Desktop Gaming PCs We’ve Played With](https://www.wired.com/gallery/best-gaming-desktop-pcs)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
