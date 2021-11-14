@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anker PowerCore Slim PD review: Simple, slim, and steady](https://www.androidauthority.com/anker-powercore-slim-pd-review-3051943/)
- - [Best Black Friday 2021 deals so far: Amazon, Walmart, Target and more     - CNET](https://www.cnet.com/tech/computing/best-black-friday-2021-deals-so-far-amazon-walmart-target-and-more/#ftag=CAD590a51e)
- - [Deals Nov. 14: Save $182 on Sennheiser headphones, $150 on WD SSD, and more](https://appleinsider.com/articles/21/11/14/deals-nov-14-save-182-on-sennheiser-headphones-150-on-wd-ssd-and-more?utm_medium=rss)<!-- TECH:END -->
+ - [Report finds that online child sexual abuse material is increasing in sheer volume, growing more complex, and capitalizing on tech&#39;s blind spots &lpar;Aisha Counts/Protocol&rpar;](http://www.techmeme.com/211114/p8#a211114p8)
+ - [Best iPad for 2021     - CNET](https://www.cnet.com/tech/computing/best-ipad/#ftag=CAD590a51e)
+ - [Anker PowerCore Slim PD review: Simple, slim, and steady](https://www.androidauthority.com/anker-powercore-slim-pd-review-3051943/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
