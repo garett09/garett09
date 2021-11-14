@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best Huawei smartwatches you can buy](https://www.androidauthority.com/best-huawei-smartwatches-3048478/)
  - [What is a kernel and why does it matter?](https://www.androidauthority.com/what-is-a-kernel-3040697/)
- - [Taproot, the first major upgrade to Bitcoin&#39;s code since the introduction of Segregated Witness in 2017, has been activated &lpar;Wolfie Zhao/The Block&rpar;](http://www.techmeme.com/211114/p4#a211114p4)
- - [Apple, Spotify, and other companies that distribute podcasts have done little to rein in COVID-19 misinformation, escaping the scrutiny social media giants face &lpar;New York Times&rpar;](http://www.techmeme.com/211114/p3#a211114p3)<!-- TECH:END -->
+ - [Taproot, the first major upgrade to Bitcoin&#39;s code since the introduction of Segregated Witness in 2017, has been activated &lpar;Wolfie Zhao/The Block&rpar;](http://www.techmeme.com/211114/p4#a211114p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
