@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Lower](http://9gag.com/gag/axBZzPn)
- - 🚯 [It&amp;#039;s a no brainer. My 8 year old brain tumor was removed for the 2nd time.](http://9gag.com/gag/arn4VV0)
- - 🚯 [Know your boundaries](http://9gag.com/gag/aDD31EK)<!-- MEMES:END -->
+ - 🚖 [An Indian Family Welcomes A Puppy As Part Of Their Family](http://9gag.com/gag/azeE9QZ)
+ - 🚯 [Classic Seb](http://9gag.com/gag/awzKBQ1)
+ - 🚯 [First to touch the trashcan loses](http://9gag.com/gag/apg05Ob)<!-- MEMES:END -->
 
 --- 
 
