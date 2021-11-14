@@ -180,7 +180,7 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- GAME:START -->
  - [The RPG inspirations of Tiny Tina&#39;s Wonderlands go further than skin-deep](https://www.pcgamer.com/the-rpg-inspirations-of-tiny-tinas-wonderlands-go-further-than-skin-deep)
- - [Remembering the origins of the trailblazing PMS Clan](https://www.pcgamer.com/remembering-the-origins-of-the-trailblazing-pms-clan)
+ - [The PMS Clan blazed a trail for women in competitive gaming](https://www.pcgamer.com/remembering-the-origins-of-the-trailblazing-pms-clan)
  - [Arcane episode 6 recap: Bittersweet reunions](https://www.pcgamer.com/arcane-episode-6-recap-bittersweet-reunions)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
