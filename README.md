@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A German Shepherd and his kitten](http://9gag.com/gag/aKmP6Bj)
- - 🚯 [Yes!](http://9gag.com/gag/amg0vm2)
- - 🚯 [Just learned this, too funny not to pass on!](http://9gag.com/gag/a91Lnrm)<!-- MEMES:END -->
+ - 🚖 [Awesome man asks a girl with cerebral palsy to prom.](http://9gag.com/gag/avAg5GZ)
+ - 🚯 [A German Shepherd and his kitten](http://9gag.com/gag/aKmP6Bj)
+ - 🚯 [My first self made meme is a self burn &lpar;Those are rare&rpar;](http://9gag.com/gag/aeg05Bv)<!-- MEMES:END -->
 
 --- 
 
