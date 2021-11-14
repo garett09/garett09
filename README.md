@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Togo, a country where few possess a driver&#39;s license or national ID card, built a digital platform to rapidly disburse relief payments to millions of people &lpar;Ted Alcorn/Bloomberg&rpar;](http://www.techmeme.com/211114/p5#a211114p5)
- - [16 Gifts for PlayStation Lovers](https://www.wired.com/gallery/gift-ideas-for-sony-playstation-owners-2021)
- - [Everything You Need to Work From Home Like a Pro](https://www.wired.com/story/work-from-home-home-office-gear-guide)<!-- TECH:END -->
+ - [The best terrible phone clones you can buy on Amazon &lpar;but really shouldn’t&rpar;](https://www.androidauthority.com/phone-clones-amazon-3051695/)
+ - [Gear and Tips to Winter-Proof Your Home](https://www.wired.com/story/gear-to-winter-proof-your-home)
+ - [Sponge Genes Hint at the Origins of Neurons and Other Cells](https://www.wired.com/story/sponge-genes-hint-at-the-origins-of-neurons-and-other-cells)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
