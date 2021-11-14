@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Awesome man asks a girl with cerebral palsy to prom.](http://9gag.com/gag/avAg5GZ)
- - 🚯 [Gotcha](http://9gag.com/gag/arn4MyX)
- - 🚯 [He is man of skill, skill and sheer f**king skills...](http://9gag.com/gag/a91LEwj)<!-- MEMES:END -->
+ - 🚖 [Gotcha](http://9gag.com/gag/arn4MyX)
+ - 🚯 [Exactly](http://9gag.com/gag/apg0NA5)
+ - 🚯 [1994 was really a golden year](http://9gag.com/gag/angK4E5)<!-- MEMES:END -->
 
 --- 
 
