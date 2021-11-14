@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy Buds Pro vs Galaxy Buds 2: Which should you buy?](https://www.androidauthority.com/samsung-galaxy-buds-pro-vs-galaxy-buds-2-3050131/)
- - [Internal documents show Facebook defends algorithmic ranking because its data suggests that its algorithm knows what users want better than they do themselves &lpar;Will Oremus/Washington Post&rpar;](http://www.techmeme.com/211114/p7#a211114p7)
- - [NYTSTND Quad Tray MagSafe review: bring some class back to nighttime charging](https://appleinsider.com/articles/21/11/14/nytstnd-quad-tray-magsafe-review-bring-some-class-back-to-nighttime-charging?utm_medium=rss)<!-- TECH:END -->
+ - [Deals Nov. 14: Save $182 on Sennheiser headphones, $150 on WD SSD, and more](https://appleinsider.com/articles/21/11/14/deals-nov-14-save-182-on-sennheiser-headphones-150-on-wd-ssd-and-more?utm_medium=rss)
+ - [Apple, Meta on &#39;collision course&#39; in wearables, home, and AR markets](https://appleinsider.com/articles/21/11/14/apple-meta-on-collision-course-in-wearables-home-and-ar-markets?utm_medium=rss)
+ - [NYTSTND Quad Tray MagSafe review: night time wireless charging, with class](https://appleinsider.com/articles/21/11/14/nytstnd-quad-tray-magsafe-review-bring-some-class-back-to-nighttime-charging?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
