@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Good old days](http://9gag.com/gag/aQX4gez)
- - 🚯 [Ah yes, the seks](http://9gag.com/gag/azeE5Vx)
- - 🚯 [After 26 years, 9 championships, 89 wins, and 199 podiums, Valentino Rossi is farewelled from the MotoGP premier class](http://9gag.com/gag/ajg0P0R)<!-- MEMES:END -->
+ - 🚖 [1999 in the cinema](http://9gag.com/gag/aDD378Z)
+ - 🚯 [Good old days](http://9gag.com/gag/aQX4gez)
+ - 🚯 [Go go go&amp;hellip;](http://9gag.com/gag/aWgW4A6)<!-- MEMES:END -->
 
 --- 
 
