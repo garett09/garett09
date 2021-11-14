@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A Karen trying to interup a comedy show because she was insulted](http://9gag.com/gag/a41d1M1)
- - 🚯 [A little gratitude](http://9gag.com/gag/avAgA9X)
- - 🚯 [Howard is a savage](http://9gag.com/gag/a71y1Qr)<!-- MEMES:END -->
+ - 🚖 [This one sparks joy](http://9gag.com/gag/a71yo9z)
+ - 🚯 [So beautiful](http://9gag.com/gag/aAGr0VL)
+ - 🚯 [After 26 years, 9 championships, 89 wins, and 199 podiums, Valentino Rossi is farewelled from the MotoGP premier class](http://9gag.com/gag/ajg0P0R)<!-- MEMES:END -->
 
 --- 
 
