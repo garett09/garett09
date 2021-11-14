@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This one sparks joy](http://9gag.com/gag/a71yo9z)
- - 🚯 [So beautiful](http://9gag.com/gag/aAGr0VL)
+ - 🚖 [Failed manna](http://9gag.com/gag/avAgyZZ)
+ - 🚯 [Feeding time at an eel farm.](http://9gag.com/gag/ay902Ey)
  - 🚯 [After 26 years, 9 championships, 89 wins, and 199 podiums, Valentino Rossi is farewelled from the MotoGP premier class](http://9gag.com/gag/ajg0P0R)<!-- MEMES:END -->
 
 --- 
