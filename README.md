@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [They said that true friendship no longer exist.](http://9gag.com/gag/aVxW7Av)
- - 🚯 [Make sense](http://9gag.com/gag/apg0Nyp)
- - 🚯 [It&amp;#039;s getting harder](http://9gag.com/gag/aNPZP1K)<!-- MEMES:END -->
+ - 🚖 [1994-2021. My wife of 4 months and Girlfriend for 4 years died a few days ago. My only escape from reality is here and I don&amp;rsquo;t feel anything could help me understand this truth. She loved this image and last said she will always smile every-time she see&amp;rsquo;s it on my wallpaper.](http://9gag.com/gag/aDD3D7G)
+ - 🚯 [It&amp;#039;s getting harder](http://9gag.com/gag/aNPZP1K)
+ - 🚯 [A stranger knocked on Kim&amp;rsquo;s door to her surprise he found her daughters wallet. Credit:ring](http://9gag.com/gag/aYrWov7)<!-- MEMES:END -->
 
 --- 
 
