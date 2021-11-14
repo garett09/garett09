@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The White House allegedly challenged Intel’s plans to increase chip production in China](https://www.theverge.com/2021/11/13/22780265/intel-white-house-allegedly-challenged-plans-increase-chip-production-china)
- - [5 reasons why Foundation is worth watching on Apple TV Plus](https://www.androidauthority.com/is-foundation-worth-watching-apple-tv-plus-tv-series-3055645/)
- - [Mercury Research: ARM&#39;s market share in PC chips was about 8% in Q3 2021, up from 2% in Q3 2020 when Apple&#39;s ARM-based M1 Macs weren&#39;t on sale &lpar;Agam Shah/The Register&rpar;](http://www.techmeme.com/211113/p10#a211113p10)<!-- TECH:END -->
+ - [7 best Hi-Res music streaming services for Android](https://www.androidauthority.com/best-hi-res-music-streaming-services-android-3054797/)
+ - [AEW Full Gear 2021: Results, live updates and match ratings     - CNET](https://www.cnet.com/news/aew-full-gear-2021-results-live-updates-and-match-ratings/#ftag=CAD590a51e)
+ - [COP26 climate agreement strikes some as &#39;good deal,&#39; others as &#39;blah, blah, blah&#39;     - CNET](https://www.cnet.com/news/cop26-climate-agreement-strikes-some-as-good-deal-others-as-blah-blah-blah/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
