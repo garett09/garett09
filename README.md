@@ -194,8 +194,8 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [They said that true friendship no longer exist.](http://9gag.com/gag/aVxW7Av)
- - 🚯 [He is man of skill, skill and sheer f**king skills...](http://9gag.com/gag/a91LEwj)
- - 🚯 [Cuck](http://9gag.com/gag/aQX4Xo8)<!-- MEMES:END -->
+ - 🚯 [Make sense](http://9gag.com/gag/apg0Nyp)
+ - 🚯 [It&amp;#039;s getting harder](http://9gag.com/gag/aNPZP1K)<!-- MEMES:END -->
 
 --- 
 
