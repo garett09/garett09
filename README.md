@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deals Nov. 14: Save $182 on Sennheiser headphones, $150 on WD SSD, and more](https://appleinsider.com/articles/21/11/14/deals-nov-14-save-182-on-sennheiser-headphones-150-on-wd-ssd-and-more?utm_medium=rss)
- - [Apple, Meta on &#39;collision course&#39; in wearables, home, and AR markets](https://appleinsider.com/articles/21/11/14/apple-meta-on-collision-course-in-wearables-home-and-ar-markets?utm_medium=rss)
- - [NYTSTND Quad Tray MagSafe review: night time wireless charging, with class](https://appleinsider.com/articles/21/11/14/nytstnd-quad-tray-magsafe-review-bring-some-class-back-to-nighttime-charging?utm_medium=rss)<!-- TECH:END -->
+ - [Anker PowerCore Slim PD review: Simple, slim, and steady](https://www.androidauthority.com/anker-powercore-slim-pd-review-3051943/)
+ - [Best Black Friday 2021 deals so far: Amazon, Walmart, Target and more     - CNET](https://www.cnet.com/tech/computing/best-black-friday-2021-deals-so-far-amazon-walmart-target-and-more/#ftag=CAD590a51e)
+ - [Deals Nov. 14: Save $182 on Sennheiser headphones, $150 on WD SSD, and more](https://appleinsider.com/articles/21/11/14/deals-nov-14-save-182-on-sennheiser-headphones-150-on-wd-ssd-and-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
