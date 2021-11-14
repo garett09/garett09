@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [US states led by Texas file an amended Google lawsuit, providing more details about &quot;Project Bernanke&quot;, which allegedly gave Google&#39;s own ad-buying an advantage &lpar;Chris Prentice/Reuters&rpar;](http://www.techmeme.com/211114/p1#a211114p1)
- - [The person claiming responsibility for the FBI email server hack says they were able to send the messages by abusing poor code in the FBI&#39;s LEEP online portal &lpar;Brian Krebs/Krebs on Security&rpar;](http://www.techmeme.com/211113/p13#a211113p13)
- - [WSO2, which offers low-code tools to help businesses, hospitals, schools, and public sector organizations build apps, raises $90M from Goldman Sachs &lpar;Angus Loten/Wall Street Journal&rpar;](http://www.techmeme.com/211113/p12#a211113p12)<!-- TECH:END -->
+ - [AMD reveals 50 security flaws affecting EPYC processors and its graphics driver for Windows 10; Intel discloses 25 security flaws in its products including CPUs &lpar;Simon Sharwood/The Register&rpar;](http://www.techmeme.com/211114/p2#a211114p2)
+ - [AEW Full Gear 2021: Results, new AEW Champion, full recap and analysis     - CNET](https://www.cnet.com/news/aew-full-gear-2021-results-new-aew-champion-full-recap-and-analysis/#ftag=CAD590a51e)
+ - [US states led by Texas file an amended Google lawsuit, providing more details about &quot;Project Bernanke&quot;, which allegedly gave Google&#39;s own ad-buying an advantage &lpar;Chris Prentice/Reuters&rpar;](http://www.techmeme.com/211114/p1#a211114p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
