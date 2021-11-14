@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best terrible phone clones you can buy on Amazon &lpar;but really shouldn’t&rpar;](https://www.androidauthority.com/phone-clones-amazon-3051695/)
- - [Gear and Tips to Winter-Proof Your Home](https://www.wired.com/story/gear-to-winter-proof-your-home)
- - [Sponge Genes Hint at the Origins of Neurons and Other Cells](https://www.wired.com/story/sponge-genes-hint-at-the-origins-of-neurons-and-other-cells)<!-- TECH:END -->
+ - [The Best Desktop Gaming PCs We’ve Played With](https://www.wired.com/gallery/best-gaming-desktop-pcs)
+ - [Google’s new floodlight camera is bright but not beautiful](https://www.theverge.com/22776184/google-nest-cam-floodlight-review-smart-security-camera)
+ - [The best terrible phone clones you can buy on Amazon &lpar;but really shouldn’t&rpar;](https://www.androidauthority.com/phone-clones-amazon-3051695/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
