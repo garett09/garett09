@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Some steering wheels still don&#39;t work in Forza Horizon 5, fix due later this week](https://www.pcgamer.com/some-steering-wheels-still-dont-work-in-forza-horizon-5-fix-due-later-this-week)
- - [Disney’s Encanto is a musical masterpiece](https://www.polygon.com/reviews/22778613/encanto-review-disney-lin-manuel-miranda)
- - [Duke Smoochem 3D has grown into a perfect pastiche of British bleakness](https://www.pcgamer.com/duke-smoochem-3d-has-grown-into-a-perfect-pastiche-of-british-bleakness)<!-- GAME:END -->
+ - [Polygon’s 2021 holiday gift guide for all things entertainment](https://www.polygon.com/22776238/2021-holiday-gift-guide-entertainment-books-movies-blu-ray)
+ - [In Herd Mentality, it pays to be a part of the crowd](https://www.polygon.com/videos/22782879/herd-mentality-polygon-board-game-video-overboard)
+ - [How to watch Microsoft’s Xbox anniversary stream](https://www.polygon.com/22782945/how-to-watch-xbox-20th-anniversary-stream-halo-infinite)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
