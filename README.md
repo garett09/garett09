@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Taxi driver locked suicide bomber in the back of his car to stop him entering a hospital, nearly cost him his life, what a legend - location liverpool England](http://9gag.com/gag/abgy4EB)
- - 🚯 [Hit a milestone this week -100kg lost since August 2020.](http://9gag.com/gag/azeEPNB)
- - 🚯 [Another attempt to mass breach the Polish border from Belarus has started. If anything interesting happens will inform in the comments.](http://9gag.com/gag/avAg61O)<!-- MEMES:END -->
+ - 🚖 [Another attempt to mass breach the Polish border from Belarus has started. If anything interesting happens will inform in the comments.](http://9gag.com/gag/avAg61O)
+ - 🚯 [Interesting...](http://9gag.com/gag/aKmPv61)
+ - 🚯 [How simple it is to make something absolutely bullshit &lpar;0:55&rpar;](http://9gag.com/gag/aog04Wx)<!-- MEMES:END -->
 
 --- 
 
