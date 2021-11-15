@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Go go go&amp;hellip;](http://9gag.com/gag/aWgW4A6)
- - 🚯 [How fast a Master Swordsman can draw his Katana.](http://9gag.com/gag/arn4yZ7)
- - 🚯 [Very strong mag. 6.3 earthquake - 64 km north of Bandar Abbas, Hormozgan, Iran](http://9gag.com/gag/a61yqP8)<!-- MEMES:END -->
+ - 🚖 [Electrical Wiring And Water Pipes In A Brazilian Favela](http://9gag.com/gag/aggvQR6)
+ - 🚯 [Good old days](http://9gag.com/gag/aQX4gez)
+ - 🚯 [Not sure if joke or not](http://9gag.com/gag/aeg0QvO)<!-- MEMES:END -->
 
 --- 
 
