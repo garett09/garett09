@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [School of fish or fishes?](http://9gag.com/gag/aVxWEOd)
- - 🚯 [Cowboy throwing lasso on a strong bull](http://9gag.com/gag/aQX4vG8)
- - 🚯 [An old Toyota commercial](http://9gag.com/gag/avAgeAE)<!-- MEMES:END -->
+ - 🚖 [Interesting...](http://9gag.com/gag/aKmPv61)
+ - 🚯 [An old Toyota commercial](http://9gag.com/gag/avAgeAE)
+ - 🚯 [HolUp baby](http://9gag.com/gag/aDD3nbG)<!-- MEMES:END -->
 
 --- 
 
