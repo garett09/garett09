@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ah yes, the seks](http://9gag.com/gag/azeE5Vx)
- - 🚯 [60$ Game](http://9gag.com/gag/azeE5BB)
+ - 🚖 [Cozy Mornings!](http://9gag.com/gag/a41d6K6)
+ - 🚯 [What are some nice &amp;quot;dying&amp;quot; games?](http://9gag.com/gag/aAGrERE)
  - 🚯 [Life is life](http://9gag.com/gag/aGzw8VX)<!-- MEMES:END -->
 
 --- 
