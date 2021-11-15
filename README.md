@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Beware Animal Crossing’s Beautiful Island ordinance and the flowerpocalypse](https://www.polygon.com/22783189/animal-crossing-new-horizons-update-beautiful-island-ordinance-flower-spam)
- - [Forza Horizon 5 Players Are Making Easy Bank With AFK Exploit](https://kotaku.com/forza-horizon-5-players-are-making-easy-bank-with-afk-e-1848058461)
- - [With Eternals, Marvel shifts from 9/11 to climate change as its big source of conflict](https://www.polygon.com/22783132/eternals-9-11-climate-change)<!-- GAME:END -->
+ - [Watch this 38-minute breakdown of the GTA 3 remaster mess](https://www.polygon.com/22783178/grand-theft-auto-trilogy-3-remaster-issues-digital-foundry-video)
+ - [Classic board game HeroQuest makes its triumphant return to retail, pre-order now](https://www.polygon.com/tabletop-games/22783136/heroquest-board-game-retail-release-date-pre-order-price)
+ - [Save more than the price of an RTX 3060 Ti on this RTX 3060 Ti Alienware gaming PC](https://www.pcgamer.com/black-friday-alienware-aurora-r12-rtx-3070-deal)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
