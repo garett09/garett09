@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Not sure if joke or not](http://9gag.com/gag/aeg0QvO)
+ - 🚖 [&amp;quot;Everything I&amp;#039;ve stepped in, some kuffar has to sit in.&amp;quot;](http://9gag.com/gag/apg01eD)
  - 🚯 [Good old days](http://9gag.com/gag/aQX4gez)
- - 🚯 [Electrical Wiring And Water Pipes In A Brazilian Favela](http://9gag.com/gag/aggvQR6)<!-- MEMES:END -->
+ - 🚯 [This one sparks joy](http://9gag.com/gag/a71yo9z)<!-- MEMES:END -->
 
 --- 
 
