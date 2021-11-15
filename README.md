@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;Fraggle Rock&#39; revival arrives on Apple TV+ on January 21](https://appleinsider.com/articles/21/11/15/fraggle-rock-revival-arrives-on-apple-tv-on-january-21?utm_medium=rss)
- - [Apple quietly buying app ads that funnel users to the App Store, developers claim](https://appleinsider.com/articles/21/11/12/apple-quietly-buying-app-ads-that-funnel-users-to-the-app-store-developers-claim?utm_medium=rss)
- - [Need a new case or screen protector? Check out these Black Friday case deals](https://www.androidauthority.com/black-friday-2021-case-deals-3056065/)<!-- TECH:END -->
+ - [Motorola Moto G Pure review: Affordable déjà vu](https://www.androidauthority.com/motorola-moto-g-pure-review-3054833/)
+ - [ThoughtSpot, a business data analytics startup, raises a $100M Series F at a $4.2B valuation, after pivoting to a cloud-based subscription model last fall &lpar;Kenrick Cai/Forbes&rpar;](http://www.techmeme.com/211115/p26#a211115p26)
+ - [Animal Crossing: New Horizons DLC - How to access Happy Home Paradise     - CNET](https://www.cnet.com/tech/gaming/animal-crossing-new-horizons-dlc-how-to-access-happy-home-paradise/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
