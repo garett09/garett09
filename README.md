@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to watch the Xbox 20th anniversary event](https://www.theverge.com/2021/11/15/22782841/xbox-anniversary-event-live-stream-time-date-watch)
- - [How to use Apple Fitness+ on a Mac](https://appleinsider.com/articles/21/11/15/how-to-use-apple-fitness-on-a-mac?utm_medium=rss)
- - [Deals Nov. 15:  iPhone 11 Pro, Refurbished Apple Watches, cameras, and more!](https://appleinsider.com/articles/21/11/15/deals-nov-15-iphone-11-pro-refurbished-apple-watches-cameras-and-more?utm_medium=rss)<!-- TECH:END -->
+ - [Writer, which offers an automated style guide for Chrome, Word, and other tools, raises a $21M Series A led by Insight Partners &lpar;Devin Coldewey/TechCrunch&rpar;](http://www.techmeme.com/211115/p13#a211115p13)
+ - [Deliveroo partners with French frozen food company Picard to offer express deliveries nationwide, its third deal with a major French food provider &lpar;Benoit Berthelot/Bloomberg&rpar;](http://www.techmeme.com/211115/p12#a211115p12)
+ - [Oura&#39;s Gen3 Launch is Marred by an Unhealthy Business Model](https://www.wired.com/review/oura-ring-gen3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
