@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Antitrust advocate Zephyr Teachout launches bid for New York attorney general](https://www.theverge.com/2021/11/15/22783872/antitrust-big-tech-new-york-attorney-general-zephyr-teachout-facebook-google)
- - [Disney is giving its characters a license to brawl in this Apple-exclusive game](https://www.theverge.com/2021/11/15/22783778/disney-melee-mania-apple-arcade-exclusive-brawl)
- - [T-Mobile hits its goal of 200 million covered by ‘ultra capacity’ 5G a few weeks early](https://www.theverge.com/2021/11/15/22783712/t-mobile-5g-ultra-capacity-mmwave-200-million-coverage)<!-- TECH:END -->
+ - [Apple Head of Home Services departs after two-year tenure](https://appleinsider.com/articles/21/11/15/apple-head-of-home-services-departs-after-two-year-tenure?utm_medium=rss)
+ - [Hyundai’s restomod Grandeur is the perfect EV for a supervillain](https://www.theverge.com/2021/11/15/22783810/hyundai-grandeur-heritge-concept-ev-80s)
+ - [How to change your default browser in Windows 11](https://www.theverge.com/22714629/windows-11-microsoft-browser-edge-chrome-firefox)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
