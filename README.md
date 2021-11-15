@@ -195,7 +195,7 @@ Windows                  3 hrs 9 mins        ███████████�
 <!-- MEMES:START -->
  - 🚖 [Another attempt to mass breach the Polish border from Belarus has started. If anything interesting happens will inform in the comments.](http://9gag.com/gag/avAg61O)
  - 🚯 [Interesting...](http://9gag.com/gag/aKmPv61)
- - 🚯 [How simple it is to make something absolutely bullshit &lpar;0:55&rpar;](http://9gag.com/gag/aog04Wx)<!-- MEMES:END -->
+ - 🚯 [Sad](http://9gag.com/gag/aZrx8Rn)<!-- MEMES:END -->
 
 --- 
 
