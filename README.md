@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best iPhone 13 Pro Max battery cases you can buy](https://www.androidauthority.com/iphone-13-pro-max-battery-cases-3055552/)
- - [Daily Authority: 👏 OnePlus Nord 2 x Pac-Man is actually good](https://www.androidauthority.com/newsletters/da-november-15-2021/)
- - [What is wireless charging? Everything you need to know](https://www.androidauthority.com/wireless-charging-explained-3046765/)<!-- TECH:END -->
+ - [How to watch the Xbox 20th anniversary event](https://www.theverge.com/2021/11/15/22782841/xbox-anniversary-event-live-stream-time-date-watch)
+ - [How to use Apple Fitness+ on a Mac](https://appleinsider.com/articles/21/11/15/how-to-use-apple-fitness-on-a-mac?utm_medium=rss)
+ - [Deals Nov. 15:  iPhone 11 Pro, Refurbished Apple Watches, cameras, and more!](https://appleinsider.com/articles/21/11/15/deals-nov-15-iphone-11-pro-refurbished-apple-watches-cameras-and-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
