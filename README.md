@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Like everytime](http://9gag.com/gag/aeg0x3W)
- - 🚯 [What in the Thailand...](http://9gag.com/gag/aog0xVm)
+ - 🚖 [How simple it is to make something absolutely bullshit &lpar;0:55&rpar;](http://9gag.com/gag/aog04Wx)
+ - 🚯 [Like everytime](http://9gag.com/gag/aeg0x3W)
  - 🚯 [Show your power to engage in intense, fast-paced battles to be the last one standing.](http://9gag.com/gag/aNPZBDA)<!-- MEMES:END -->
 
 --- 
