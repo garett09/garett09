@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Writer, which offers an automated style guide for Chrome, Word, and other tools, raises a $21M Series A led by Insight Partners &lpar;Devin Coldewey/TechCrunch&rpar;](http://www.techmeme.com/211115/p13#a211115p13)
- - [Deliveroo partners with French frozen food company Picard to offer express deliveries nationwide, its third deal with a major French food provider &lpar;Benoit Berthelot/Bloomberg&rpar;](http://www.techmeme.com/211115/p12#a211115p12)
- - [Oura&#39;s Gen3 Launch is Marred by an Unhealthy Business Model](https://www.wired.com/review/oura-ring-gen3)<!-- TECH:END -->
+ - [The Halo-themed Xbox Series X is available today at Best Buy](https://www.theverge.com/2021/11/15/22782931/best-buy-halo-infinite-xbox-series-x-restock)
+ - [Microsoft confirms it will block EdgeDeflector and other tools that offer workarounds to Microsoft forcing Edge in Start menu search results &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/211115/p21#a211115p21)
+ - [The Verge’s 2021 home tech holiday gift guide](https://www.theverge.com/22752612/smart-home-tech-holiday-gift-guide-2021-kitchen-lighting-speakers)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
