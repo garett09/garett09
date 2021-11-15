@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android 12 is here for the Galaxy S21 series: Get One UI 4 today!](https://www.androidauthority.com/samsung-one-ui-4-android-12-3058222/)
- - [This is the OnePlus Nord 2 Pac-Man Edition](https://www.theverge.com/2021/11/15/22778380/oneplus-nord-2-pac-man-edition)
- - [Samsung releases Android 12-powered One UI 4 for Galaxy S21 phones](https://www.theverge.com/2021/11/15/22782772/samsung-one-ui-4-android-12-galaxy-s21-plus-ultra-release-date-features)<!-- TECH:END -->
+ - [The best iPhone 13 Pro Max battery cases you can buy](https://www.androidauthority.com/iphone-13-pro-max-battery-cases-3055552/)
+ - [Daily Authority: 👏 OnePlus Nord 2 x Pac-Man is actually good](https://www.androidauthority.com/newsletters/da-november-15-2021/)
+ - [What is wireless charging? Everything you need to know](https://www.androidauthority.com/wireless-charging-explained-3046765/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
