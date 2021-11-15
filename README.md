@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Head of Home Services departs after two-year tenure](https://appleinsider.com/articles/21/11/15/apple-head-of-home-services-departs-after-two-year-tenure?utm_medium=rss)
- - [Hyundai’s restomod Grandeur is the perfect EV for a supervillain](https://www.theverge.com/2021/11/15/22783810/hyundai-grandeur-heritge-concept-ev-80s)
- - [How to change your default browser in Windows 11](https://www.theverge.com/22714629/windows-11-microsoft-browser-edge-chrome-firefox)<!-- TECH:END -->
+ - [Disney battle arena game to land on Apple Arcade in December](https://appleinsider.com/articles/21/11/15/disney-battle-arena-game-to-land-on-apple-arcade-in-december?utm_medium=rss)
+ - [&#39;Fraggle Rock&#39; revival arrives on Apple TV+ on January 21](https://appleinsider.com/articles/21/11/15/fraggle-rock-revival-arrives-on-apple-tv-on-january-21?utm_medium=rss)
+ - [Faraday Future launches investigation into financial fraud allegations](https://www.theverge.com/2021/11/15/22784038/faraday-future-fraud-investigation-j-capital-short-seller)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
