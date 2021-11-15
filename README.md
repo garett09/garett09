@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Everything you need to know about tracking your pregnancy with Garmin](https://www.androidauthority.com/garmin-pregnancy-tracking-1176231/)
- - [Report finds that online child sexual abuse material is increasing in sheer volume, growing more complex, and capitalizing on tech&#39;s blind spots &lpar;Aisha Counts/Protocol&rpar;](http://www.techmeme.com/211114/p8#a211114p8)
- - [Best iPad for 2021     - CNET](https://www.cnet.com/tech/computing/best-ipad/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Ukraine&#39;s efforts to tackle corruption may be at odds with its aim to become a global crypto hub, as weak governance is part of Ukraine&#39;s allure &lpar;New York Times&rpar;](http://www.techmeme.com/211114/p9#a211114p9)
+ - [Go read this report about how Amazon tries to evade responsibility in delivery vehicle crashes](https://www.theverge.com/2021/11/14/22781896/go-read-this-amazon-tries-evade-responsibility-delivery-vehicle-crashes)
+ - [Netflix: 35 of the absolute best movies to watch     - CNET](https://www.cnet.com/news/netflix-35-of-the-absolute-best-movies-to-stream-this-week/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
