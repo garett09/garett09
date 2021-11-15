@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Not OC](http://9gag.com/gag/awzKmEW)
- - 🚯 [Another attempt to mass breach the Polish border from Belarus has started. If anything interesting happens will inform in the comments.](http://9gag.com/gag/avAg61O)
- - 🚯 [Built a Hot Wheels loop](http://9gag.com/gag/a0ZLVzB)<!-- MEMES:END -->
+ - 🚖 [Taxi driver locked suicide bomber in the back of his car to stop him entering a hospital, nearly cost him his life, what a legend - location liverpool England](http://9gag.com/gag/abgy4EB)
+ - 🚯 [Ravens and Wolves have such an interesting relationship](http://9gag.com/gag/arn4APK)
+ - 🚯 [But i would freak out if a girl want to love me](http://9gag.com/gag/a51PwVO)<!-- MEMES:END -->
 
 --- 
 
