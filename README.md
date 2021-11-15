@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How simple it is to make something absolutely bullshit &lpar;0:55&rpar;](http://9gag.com/gag/aog04Wx)
- - 🚯 [Like everytime](http://9gag.com/gag/aeg0x3W)
+ - 🚖 [Like everytime](http://9gag.com/gag/aeg0x3W)
+ - 🚯 [Just Stop being a Criminal? - Poland shocks with ground breaking idea](http://9gag.com/gag/a21Yy59)
  - 🚯 [Show your power to engage in intense, fast-paced battles to be the last one standing.](http://9gag.com/gag/aNPZBDA)<!-- MEMES:END -->
 
 --- 
