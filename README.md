@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Good old days](http://9gag.com/gag/aQX4gez)
- - 🚯 [This one sparks joy](http://9gag.com/gag/a71yo9z)
+ - 🚖 [&amp;quot;Everything I&amp;#039;ve stepped in, some kuffar has to sit in.&amp;quot;](http://9gag.com/gag/apg01eD)
+ - 🚯 [Cowboy throwing lasso on a strong bull](http://9gag.com/gag/aQX4vG8)
  - 🚯 [This Is True](http://9gag.com/gag/apg036p)<!-- MEMES:END -->
 
 --- 
