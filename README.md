@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [BOING.... is perhaps what you heard in your head.](http://9gag.com/gag/aGzwn5Z)
- - 🚯 [Life is life](http://9gag.com/gag/aGzw8VX)
- - 🚯 [The breakdown of the Academy Award Winning Visual Effects of the film &amp;quot;Who Framed Roger Rabbit &lpar;1988&rpar;&amp;quot;.](http://9gag.com/gag/aeg0OZ5)<!-- MEMES:END -->
+ - 🚖 [The breakdown of the Academy Award Winning Visual Effects of the film &amp;quot;Who Framed Roger Rabbit &lpar;1988&rpar;&amp;quot;.](http://9gag.com/gag/aeg0OZ5)
+ - 🚯 [School of fish or fishes?](http://9gag.com/gag/aVxWEOd)
+ - 🚯 [An old Toyota commercial](http://9gag.com/gag/avAgeAE)<!-- MEMES:END -->
 
 --- 
 
