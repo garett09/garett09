@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ukraine&#39;s efforts to tackle corruption may be at odds with its aim to become a global crypto hub, as weak governance is part of Ukraine&#39;s allure &lpar;New York Times&rpar;](http://www.techmeme.com/211114/p9#a211114p9)
- - [Go read this report about how Amazon tries to evade responsibility in delivery vehicle crashes](https://www.theverge.com/2021/11/14/22781896/go-read-this-amazon-tries-evade-responsibility-delivery-vehicle-crashes)
- - [Netflix: 35 of the absolute best movies to watch     - CNET](https://www.cnet.com/news/netflix-35-of-the-absolute-best-movies-to-stream-this-week/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Pigment, a real-time business planning and forecasting service that integrates data from many platforms including Snowflake and Salesforce, raises $73M Series B &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/211114/p10#a211114p10)
+ - [Amazon Prime Video: The 31 best TV shows to watch     - CNET](https://www.cnet.com/news/amazon-prime-video-the-31-best-tv-shows-to-binge-watch-this-week/#ftag=CAD590a51e)
+ - [Amazon Prime Video: The 27 best movies to watch     - CNET](https://www.cnet.com/news/amazon-prime-video-the-27-best-movies-to-watch-this-week/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
