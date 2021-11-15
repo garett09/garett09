@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Some subscription app developers suspect Apple is buying Google ads that send users to their apps in the App Store, to protect its cut by decreasing web signups &lpar;John Koetsier/Forbes&rpar;](http://www.techmeme.com/211114/p12#a211114p12)
- - [James Bond&#39;s No Time To Die crosses $700 million mark internationally     - CNET](https://www.cnet.com/news/james-bonds-no-time-to-die-crosses-700-million-mark-internationally/#ftag=CAD590a51e)
- - [A look at the brewing rivalry between Meta and Apple over VR and AR headsets, smartwatches, smart home devices, and digital services &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/211114/p11#a211114p11)<!-- TECH:END -->
+ - [South Korean startup Rsquare, which uses its wide-ranging data on commercial real estate to help businesses find and rent office space, raises a $72M Series C &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/211114/p13#a211114p13)
+ - [Why you need to watch the best sci-fi gem on HBO Max     - CNET](https://www.cnet.com/news/why-you-need-to-watch-the-best-sci-fi-gem-on-hbo-max/#ftag=CAD590a51e)
+ - [A lost piece of the moon has been discovered orbiting the Earth and sun     - CNET](https://www.cnet.com/news/a-lost-piece-of-the-moon-has-been-discovered-orbiting-the-earth-and-sun/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
