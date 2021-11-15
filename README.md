@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [&amp;quot;Everything I&amp;#039;ve stepped in, some kuffar has to sit in.&amp;quot;](http://9gag.com/gag/apg01eD)
- - 🚯 [Cowboy throwing lasso on a strong bull](http://9gag.com/gag/aQX4vG8)
- - 🚯 [This Is True](http://9gag.com/gag/apg036p)<!-- MEMES:END -->
+ - 🚖 [Poor Brian &amp;hellip;](http://9gag.com/gag/a21Yw9e)
+ - 🚯 [BOING.... is perhaps what you heard in your head.](http://9gag.com/gag/aGzwn5Z)
+ - 🚯 [1999 in the cinema](http://9gag.com/gag/aDD378Z)<!-- MEMES:END -->
 
 --- 
 
