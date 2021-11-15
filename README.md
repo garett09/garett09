@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The GTA Trilogy is finally playable again  &lpar;updated&rpar;](https://www.pcgamer.com/rockstar-games-launcher-keels-over-and-all-its-pc-games-are-down)
  - [Modders are fixing GTA Trilogy&#39;s rain already](https://www.pcgamer.com/modders-are-fixing-gta-trilogys-rain-already)
- - [Battlefield 2042 Players Join XP Farm Not Knowing They Are The XP](https://kotaku.com/battlefield-players-join-xp-farm-not-knowing-they-are-t-1848055852)
- - [Terraria and Don&#39;t Starve Together will cross over this month](https://www.pcgamer.com/terraria-and-dont-starve-together-will-cross-over-this-month)<!-- GAME:END -->
+ - [Battlefield 2042 Players Join XP Farm Not Knowing They Are The XP](https://kotaku.com/battlefield-players-join-xp-farm-not-knowing-they-are-t-1848055852)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
