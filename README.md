@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Battlefield 2042 Removing &#39;Unintentional&#39; Reference To Russia&#39;s War With Ukraine](https://kotaku.com/battlefield-2042-removing-unintentional-reference-to-ru-1848055505)
- - [Five new Steam games you probably missed &lpar;November 15, 2021&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-november-15-2021)
- - [The Week In Games: Pokèmon Remakes](https://kotaku.com/the-week-in-games-pokemon-remakes-1848055548)<!-- GAME:END -->
+ - [Battlefield 2042 Players Join XP Farm Not Knowing They Are The XP](https://kotaku.com/battlefield-players-join-xp-farm-not-knowing-they-are-t-1848055852)
+ - [Terraria and Don&#39;t Starve Together will cross over this month](https://www.pcgamer.com/terraria-and-dont-starve-together-will-cross-over-this-month)
+ - [I Want To Play The Cat Game Right Now](https://kotaku.com/i-want-to-play-the-cat-game-right-now-1848055567)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
