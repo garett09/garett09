@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Outriders gets new missions and transmog system in major free update](https://www.pcgamer.com/outriders-gets-new-missions-and-transmog-system-in-major-free-update)
  - [Steam servers refuse to buckle as whole world downloads Halo Infinite](https://www.pcgamer.com/halo-infinite-steam-servers-slow)
- - [The Legend of Tianding: The Kotaku Review](https://kotaku.com/the-legend-of-tianding-the-kotaku-review-1848060556)
- - [Playing the technical test has convinced me Halo Infinite is great, actually](https://www.pcgamer.com/playing-the-technical-test-has-convinced-me-halo-infinite-is-great-actually)<!-- GAME:END -->
+ - [The Legend of Tianding: The Kotaku Review](https://kotaku.com/the-legend-of-tianding-the-kotaku-review-1848060556)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
