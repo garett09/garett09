@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Another attempt to mass breach the Polish border from Belarus has started. If anything interesting happens will inform in the comments.](http://9gag.com/gag/avAg61O)
- - 🚯 [Interesting...](http://9gag.com/gag/aKmPv61)
- - 🚯 [Sad](http://9gag.com/gag/aZrx8Rn)<!-- MEMES:END -->
+ - 🚖 [Sad](http://9gag.com/gag/aZrx8Rn)
+ - 🚯 [What men really think about](http://9gag.com/gag/aPZ4ewV)
+ - 🚯 [Show your power to engage in intense, fast-paced battles to be the last one standing.](http://9gag.com/gag/aNPZBDA)<!-- MEMES:END -->
 
 --- 
 
