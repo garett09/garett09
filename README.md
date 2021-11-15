@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Outriders gets new missions and transmog system in major free update](https://www.pcgamer.com/outriders-gets-new-missions-and-transmog-system-in-major-free-update)
- - [Steam servers refuse to buckle as whole world downloads Halo Infinite](https://www.pcgamer.com/halo-infinite-steam-servers-slow)
- - [The Legend of Tianding: The Kotaku Review](https://kotaku.com/the-legend-of-tianding-the-kotaku-review-1848060556)<!-- GAME:END -->
+ - [Elder Scrolls 6 will release for Xbox and PC only](https://www.pcgamer.com/elder-scrolls-6-will-release-for-xbox-and-pc-only)
+ - [Fight trash with even more trash in this steampunk brawler](https://www.polygon.com/22783238/twin-stick-brawler-cell-shade-indie-dev-capybara)
+ - [15 Years Later, Call of Duty Fan Gets Credit For Game-Changing Control Scheme](https://kotaku.com/15-years-later-call-of-duty-fan-gets-credit-for-game-c-1848061829)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
