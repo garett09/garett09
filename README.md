@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Polygon’s 2021 holiday gift guide for all things entertainment](https://www.polygon.com/22776238/2021-holiday-gift-guide-entertainment-books-movies-blu-ray)
- - [In Herd Mentality, it pays to be a part of the crowd](https://www.polygon.com/videos/22782879/herd-mentality-polygon-board-game-video-overboard)
- - [How to watch Microsoft’s Xbox anniversary stream](https://www.polygon.com/22782945/how-to-watch-xbox-20th-anniversary-stream-halo-infinite)<!-- GAME:END -->
+ - [Black Friday gaming headset deals 2021: cacophonous cans for your earholes](https://www.pcgamer.com/black-friday-gaming-headset-deals-2021)
+ - [Streamer Survival Guide](https://www.polygon.com/22774925/streamer-game-streaming-tips-guide)
+ - [Your guide to streaming games and VTubing on a tight budget](https://www.polygon.com/22764495/twitch-youtube-stream-games-budget)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
