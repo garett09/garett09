@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Sad](http://9gag.com/gag/aZrx8Rn)
- - 🚯 [What men really think about](http://9gag.com/gag/aPZ4ewV)
+ - 🚖 [True love](http://9gag.com/gag/aAGr4Lo)
+ - 🚯 [The pressure of meeting the Queen](http://9gag.com/gag/apg067D)
  - 🚯 [Show your power to engage in intense, fast-paced battles to be the last one standing.](http://9gag.com/gag/aNPZBDA)<!-- MEMES:END -->
 
 --- 
