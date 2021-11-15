@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Compared: iPad mini vs Kindle Paperwhite](https://appleinsider.com/articles/21/11/15/compared-ipad-mini-vs-kindle-paperwhite?utm_medium=rss)
- - [Researchers show how attackers can flip bits on modern DRAM devices using a new Rowhammer exploit, defeating manufacturers&#39; hardware mitigations &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/211115/p29#a211115p29)
- - [The remastered GTA Trilogy is back on PC](https://www.theverge.com/2021/11/15/22783286/grand-theft-auto-the-trilogy-pc-hot-coffee-rockstar-games-launcher)<!-- TECH:END -->
+ - [Antitrust advocate Zephyr Teachout launches bid for New York attorney general](https://www.theverge.com/2021/11/15/22783872/antitrust-big-tech-new-york-attorney-general-zephyr-teachout-facebook-google)
+ - [Disney is giving its characters a license to brawl in this Apple-exclusive game](https://www.theverge.com/2021/11/15/22783778/disney-melee-mania-apple-arcade-exclusive-brawl)
+ - [T-Mobile hits its goal of 200 million covered by ‘ultra capacity’ 5G a few weeks early](https://www.theverge.com/2021/11/15/22783712/t-mobile-5g-ultra-capacity-mmwave-200-million-coverage)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
