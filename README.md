@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [South Korean startup Rsquare, which uses its wide-ranging data on commercial real estate to help businesses find and rent office space, raises a $72M Series C &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/211114/p13#a211114p13)
- - [Why you need to watch the best sci-fi gem on HBO Max     - CNET](https://www.cnet.com/news/why-you-need-to-watch-the-best-sci-fi-gem-on-hbo-max/#ftag=CAD590a51e)
- - [A lost piece of the moon has been discovered orbiting the Earth and sun     - CNET](https://www.cnet.com/news/a-lost-piece-of-the-moon-has-been-discovered-orbiting-the-earth-and-sun/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: Huawei is planning to license its smartphone designs to third parties to bypass US sanctions and gain access to critical components &lpar;Bloomberg&rpar;](http://www.techmeme.com/211115/p1#a211115p1)
+ - [Google pushes a fix for Pixel 6 phones’ random calling bug &lpar;Update&rpar;](https://www.androidauthority.com/google-pixel-6-calling-bug-3052590/)
+ - [NASA scientists hope singing trees could help us reach another planet     - CNET](https://www.cnet.com/news/nasa-scientists-hope-singing-trees-could-help-us-reach-another-planet/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
