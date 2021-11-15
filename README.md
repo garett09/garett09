@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the brewing rivalry between Meta and Apple over VR and AR headsets, smartwatches, smart home devices, and digital services &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/211114/p11#a211114p11)
- - [Pigment, a real-time business planning and forecasting service that integrates data from many platforms including Snowflake and Salesforce, raises $73M Series B &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/211114/p10#a211114p10)
- - [Marvel drops first Ms. Marvel teaser for new Disney Plus series     - CNET](https://www.cnet.com/news/marvel-drops-first-ms-marvel-teaser-for-new-disney-plus-series/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Some subscription app developers suspect Apple is buying Google ads that send users to their apps in the App Store, to protect its cut by decreasing web signups &lpar;John Koetsier/Forbes&rpar;](http://www.techmeme.com/211114/p12#a211114p12)
+ - [James Bond&#39;s No Time To Die crosses $700 million mark internationally     - CNET](https://www.cnet.com/news/james-bonds-no-time-to-die-crosses-700-million-mark-internationally/#ftag=CAD590a51e)
+ - [A look at the brewing rivalry between Meta and Apple over VR and AR headsets, smartwatches, smart home devices, and digital services &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/211114/p11#a211114p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
