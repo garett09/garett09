@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Huawei is planning to license its smartphone designs to third parties to bypass US sanctions and gain access to critical components &lpar;Bloomberg&rpar;](http://www.techmeme.com/211115/p1#a211115p1)
- - [Google pushes a fix for Pixel 6 phones’ random calling bug &lpar;Update&rpar;](https://www.androidauthority.com/google-pixel-6-calling-bug-3052590/)
- - [NASA scientists hope singing trees could help us reach another planet     - CNET](https://www.cnet.com/news/nasa-scientists-hope-singing-trees-could-help-us-reach-another-planet/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [IBM debuts 127-qubit Eagle quantum processor coming to select members of the IBM Quantum Network in December, and previews next-gen IBM Quantum System Two &lpar;Larry Dignan/ZDNet&rpar;](http://www.techmeme.com/211115/p2#a211115p2)
+ - [The Redmi Note 11 is tipped to arrive in India soon with a new name](https://www.androidauthority.com/redmi-note-11t-5g-india-3058922/)
+ - [Sources: Huawei is planning to license its smartphone designs to third parties to bypass US sanctions and gain access to critical components &lpar;Bloomberg&rpar;](http://www.techmeme.com/211115/p1#a211115p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
