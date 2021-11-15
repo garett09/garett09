@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Pokémon Fan Makes Epic Paper Dioramas](https://kotaku.com/pokemon-fan-makes-epic-paper-dioramas-1848056499)
  - [Ryzen 5000 CPU support added to Asus and Gigabyte A320 motherboards](https://www.pcgamer.com/ryzen-5000-cpu-support-added-to-asus-and-gigabyte-a320-motherboards)
- - [Microsoft is blocking users from circumventing Edge browser links in Win 11](https://www.pcgamer.com/microsoft-is-blocking-users-from-circumventing-edge-browser-links-in-win-11)
- - [Valve and AMD dropped plenty of new Steam Deck info](https://www.pcgamer.com/valve-and-amd-dropped-plenty-of-new-steam-deck-info)<!-- GAME:END -->
+ - [Microsoft is blocking users from circumventing Edge browser links in Windows 11](https://www.pcgamer.com/microsoft-is-blocking-users-from-circumventing-edge-browser-links-in-win-11)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
