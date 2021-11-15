@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Halo-themed Xbox Series X is available today at Best Buy](https://www.theverge.com/2021/11/15/22782931/best-buy-halo-infinite-xbox-series-x-restock)
- - [Microsoft confirms it will block EdgeDeflector and other tools that offer workarounds to Microsoft forcing Edge in Start menu search results &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/211115/p21#a211115p21)
- - [The Verge’s 2021 home tech holiday gift guide](https://www.theverge.com/22752612/smart-home-tech-holiday-gift-guide-2021-kitchen-lighting-speakers)<!-- TECH:END -->
+ - [iPhone 13 delivery estimates contract but remain higher than iPhone 12](https://appleinsider.com/articles/21/11/15/iphone-13-delivery-estimates-contract-but-remain-higher-than-iphone-12?utm_medium=rss)
+ - [You told us: Charging standards are super important when shopping devices](https://www.androidauthority.com/charging-standards-poll-results-3058935/)
+ - [Black Friday starts now at Adobe: Save up to 70% on Creative Cloud](https://appleinsider.com/articles/21/11/15/black-friday-starts-now-at-adobe-save-up-to-70-on-creative-cloud?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
