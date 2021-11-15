@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Like everytime](http://9gag.com/gag/aeg0x3W)
- - 🚯 [Just Stop being a Criminal? - Poland shocks with ground breaking idea](http://9gag.com/gag/a21Yy59)
+ - 🚖 [Enjoy your weekly dose of nostalgia &lpar;2001&rpar;](http://9gag.com/gag/aggvxWW)
+ - 🚯 [Like everytime](http://9gag.com/gag/aeg0x3W)
  - 🚯 [Show your power to engage in intense, fast-paced battles to be the last one standing.](http://9gag.com/gag/aNPZBDA)<!-- MEMES:END -->
 
 --- 
