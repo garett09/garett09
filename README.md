@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Free Baba Is You update doubles size of game, adds cross-platform level editor](https://www.pcgamer.com/free-baba-is-you-update-doubles-size-of-game-adds-cross-platform-level-editor)
- - [Three Days Later, Remastered GTA Trilogy Still Unplayable On PC Even If You Bought It](https://kotaku.com/three-days-later-remastered-gta-trilogy-still-unplayab-1848055316)
- - [Forza Horizon 5 Has Some Amazing And Silly Car Horns](https://kotaku.com/forza-horizon-5-has-some-amazing-and-silly-car-horns-1848053481)<!-- GAME:END -->
+ - [Battlefield 2042 Removing &#39;Unintentional&#39; Reference To Russia&#39;s War With Ukraine](https://kotaku.com/battlefield-2042-removing-unintentional-reference-to-ru-1848055505)
+ - [Five new Steam games you probably missed &lpar;November 15, 2021&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-november-15-2021)
+ - [The Week In Games: Pokèmon Remakes](https://kotaku.com/the-week-in-games-pokemon-remakes-1848055548)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
