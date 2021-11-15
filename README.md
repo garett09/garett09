@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Watch this 38-minute breakdown of the GTA 3 remaster mess](https://www.polygon.com/22783178/grand-theft-auto-trilogy-3-remaster-issues-digital-foundry-video)
- - [Classic board game HeroQuest makes its triumphant return to retail, pre-order now](https://www.polygon.com/tabletop-games/22783136/heroquest-board-game-retail-release-date-pre-order-price)
- - [Save more than the price of an RTX 3060 Ti on this RTX 3060 Ti Alienware gaming PC](https://www.pcgamer.com/black-friday-alienware-aurora-r12-rtx-3070-deal)<!-- GAME:END -->
+ - [Animal Crossing Players Do Great And Terrible Things With The New Polish Tool](https://kotaku.com/animal-crossing-players-do-great-and-terrible-things-wi-1848059557)
+ - [Xbox gets another 76 backward-compatible games, with enhancements](https://www.polygon.com/22783591/xbox-backward-compatibility-program-new-games-list-series-x)
+ - [Xbox Celebrates 20 Years of Gaming Joy by Making the Halo Infinite Multiplayer Beta Available for Everyone](https://news.xbox.com/en-us/2021/11/15/xbox-20-anniversary-broadcast-recap/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
