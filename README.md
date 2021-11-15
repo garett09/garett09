@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Cowboy Bebop turns a classic anime into a Saturday morning cartoon](https://www.polygon.com/reviews/22778708/cowboy-bebop-review-season-1-netflix-2021)
- - [Woman Allegedly Made $57,000 By Selling Unofficial Demon Slayer...Cakes](https://kotaku.com/woman-allegedly-made-57-000-by-selling-unofficial-demo-1848056567)
- - [Grand Theft Auto Trilogy back on PC after Rockstar removes &#39;unintentionally included&#39; files](https://www.pcgamer.com/grand-theft-auto-trilogy-back-on-pc-after-rockstar-removes-unintentionally-included-files)<!-- GAME:END -->
+ - [Some steering wheels still don&#39;t work in Forza Horizon 5, fix due later this week](https://www.pcgamer.com/some-steering-wheels-still-dont-work-in-forza-horizon-5-fix-due-later-this-week)
+ - [Disney’s Encanto is a musical masterpiece](https://www.polygon.com/reviews/22778613/encanto-review-disney-lin-manuel-miranda)
+ - [Duke Smoochem 3D has grown into a perfect pastiche of British bleakness](https://www.pcgamer.com/duke-smoochem-3d-has-grown-into-a-perfect-pastiche-of-british-bleakness)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
