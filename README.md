@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Ryzen 5000 CPU support added to Asus and Gigabyte A320 motherboards](https://www.pcgamer.com/ryzen-5000-cpu-support-added-to-asus-and-gigabyte-a320-motherboards)
  - [Microsoft is blocking users from circumventing Edge browser links in Win 11](https://www.pcgamer.com/microsoft-is-blocking-users-from-circumventing-edge-browser-links-in-win-11)
- - [Valve and AMD dropped plenty of new Steam Deck info](https://www.pcgamer.com/valve-and-amd-dropped-plenty-of-new-steam-deck-info)
- - [Nvidia&#39;s CEO doesn’t see an end to the chip shortage anytime soon](https://www.pcgamer.com/nvidias-ceo-doesnt-see-an-end-to-the-chip-shortage-anytime-soon)<!-- GAME:END -->
+ - [Valve and AMD dropped plenty of new Steam Deck info](https://www.pcgamer.com/valve-and-amd-dropped-plenty-of-new-steam-deck-info)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
