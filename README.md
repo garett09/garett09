@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Fan Makes Epic Paper Dioramas](https://kotaku.com/pokemon-fan-makes-epic-paper-dioramas-1848056499)
- - [Ryzen 5000 CPU support added to Asus and Gigabyte A320 motherboards](https://www.pcgamer.com/ryzen-5000-cpu-support-added-to-asus-and-gigabyte-a320-motherboards)
- - [Microsoft is blocking users from circumventing Edge browser links in Windows 11](https://www.pcgamer.com/microsoft-is-blocking-users-from-circumventing-edge-browser-links-in-win-11)<!-- GAME:END -->
+ - [Woman Allegedly Made $57,000 By Selling Unofficial Demon Slayer...Cakes](https://kotaku.com/woman-allegedly-made-57-000-by-selling-unofficial-demo-1848056567)
+ - [Grand Theft Auto Trilogy back on PC after Rockstar removes &#39;unintentionally included&#39; files](https://www.pcgamer.com/grand-theft-auto-trilogy-back-on-pc-after-rockstar-removes-unintentionally-included-files)
+ - [Pokémon Fan Makes Epic Paper Dioramas](https://kotaku.com/pokemon-fan-makes-epic-paper-dioramas-1848056499)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
