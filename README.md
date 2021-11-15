@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Electrical Wiring And Water Pipes In A Brazilian Favela](http://9gag.com/gag/aggvQR6)
+ - 🚖 [Not sure if joke or not](http://9gag.com/gag/aeg0QvO)
  - 🚯 [Good old days](http://9gag.com/gag/aQX4gez)
- - 🚯 [Not sure if joke or not](http://9gag.com/gag/aeg0QvO)<!-- MEMES:END -->
+ - 🚯 [Electrical Wiring And Water Pipes In A Brazilian Favela](http://9gag.com/gag/aggvQR6)<!-- MEMES:END -->
 
 --- 
 
