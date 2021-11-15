@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Leak suggests Samsung could kill the audio jack on yet another phone](https://www.androidauthority.com/samsung-galaxy-a33-leak-3059032/)
  - [Netflix&#39;s Cowboy Bebop review: A slick reinvention of a classic anime series     - CNET](https://www.cnet.com/news/netflixs-cowboy-bebop-review-a-slick-reinvention-of-a-classic-anime-series/#ftag=CAD590a51e)
- - [Netflix’s Cowboy Bebop has heart, style, and some rough edges](https://www.theverge.com/22776962/cowboy-bebop-review-netflix)
- - [Interview with Expensify CEO David Barrett on wooing investors for the blockbuster IPO, why the company is focused on SMBs, adapting to the pandemic, and more &lpar;Benjamin Pimentel/Protocol&rpar;](http://www.techmeme.com/211115/p3#a211115p3)<!-- TECH:END -->
+ - [Netflix’s Cowboy Bebop has heart, style, and some rough edges](https://www.theverge.com/22776962/cowboy-bebop-review-netflix)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
