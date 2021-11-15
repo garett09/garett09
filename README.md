@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 13 delivery estimates contract but remain higher than iPhone 12](https://appleinsider.com/articles/21/11/15/iphone-13-delivery-estimates-contract-but-remain-higher-than-iphone-12?utm_medium=rss)
- - [You told us: Charging standards are super important when shopping devices](https://www.androidauthority.com/charging-standards-poll-results-3058935/)
- - [Black Friday starts now at Adobe: Save up to 70% on Creative Cloud](https://appleinsider.com/articles/21/11/15/black-friday-starts-now-at-adobe-save-up-to-70-on-creative-cloud?utm_medium=rss)<!-- TECH:END -->
+ - [&#39;Fraggle Rock&#39; revival arrives on Apple TV+ on January 21](https://appleinsider.com/articles/21/11/15/fraggle-rock-revival-arrives-on-apple-tv-on-january-21?utm_medium=rss)
+ - [Apple quietly buying app ads that funnel users to the App Store, developers claim](https://appleinsider.com/articles/21/11/12/apple-quietly-buying-app-ads-that-funnel-users-to-the-app-store-developers-claim?utm_medium=rss)
+ - [Need a new case or screen protector? Check out these Black Friday case deals](https://www.androidauthority.com/black-friday-2021-case-deals-3056065/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
