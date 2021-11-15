@@ -167,10 +167,10 @@ Windows                  3 hrs 9 mins        ███████████�
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/garett09/Iesu-artisan/issues/1) in [garett09/Iesu-artisan](https://github.com/garett09/Iesu-artisan)
-2. ❗️ Opened issue [#1](https://github.com/garett09/Iesu-artisan/issues/1) in [garett09/Iesu-artisan](https://github.com/garett09/Iesu-artisan)
-3. 🎉 Merged PR [#4](https://github.com/garett09/sandbox-adventure/pull/4) in [garett09/sandbox-adventure](https://github.com/garett09/sandbox-adventure)
-4. 🗣 Commented on [#1](https://github.com/nikkapiel/practicelab2/issues/1) in [nikkapiel/practicelab2](https://github.com/nikkapiel/practicelab2)
+1. 💪 Opened PR [#7](https://github.com/nikkapiel/3ISA-GROUP3/pull/7) in [nikkapiel/3ISA-GROUP3](https://github.com/nikkapiel/3ISA-GROUP3)
+2. 💪 Opened PR [#1](https://github.com/garett09/3ISA-GROUP3/pull/1) in [garett09/3ISA-GROUP3](https://github.com/garett09/3ISA-GROUP3)
+3. ❗️ Closed issue [#1](https://github.com/garett09/Iesu-artisan/issues/1) in [garett09/Iesu-artisan](https://github.com/garett09/Iesu-artisan)
+4. ❗️ Opened issue [#1](https://github.com/garett09/Iesu-artisan/issues/1) in [garett09/Iesu-artisan](https://github.com/garett09/Iesu-artisan)
 5. 💪 Opened PR [#1](https://github.com/nikkapiel/practicelab2/pull/1) in [nikkapiel/practicelab2](https://github.com/nikkapiel/practicelab2)
 <!--END_SECTION:activity-->
 
