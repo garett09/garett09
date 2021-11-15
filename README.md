@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Poor Brian &amp;hellip;](http://9gag.com/gag/a21Yw9e)
- - 🚯 [BOING.... is perhaps what you heard in your head.](http://9gag.com/gag/aGzwn5Z)
- - 🚯 [1999 in the cinema](http://9gag.com/gag/aDD378Z)<!-- MEMES:END -->
+ - 🚖 [Ah yes, the seks](http://9gag.com/gag/azeE5Vx)
+ - 🚯 [60$ Game](http://9gag.com/gag/azeE5BB)
+ - 🚯 [Life is life](http://9gag.com/gag/aGzw8VX)<!-- MEMES:END -->
 
 --- 
 
