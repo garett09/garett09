@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The breakdown of the Academy Award Winning Visual Effects of the film &amp;quot;Who Framed Roger Rabbit &lpar;1988&rpar;&amp;quot;.](http://9gag.com/gag/aeg0OZ5)
- - 🚯 [School of fish or fishes?](http://9gag.com/gag/aVxWEOd)
+ - 🚖 [School of fish or fishes?](http://9gag.com/gag/aVxWEOd)
+ - 🚯 [Cowboy throwing lasso on a strong bull](http://9gag.com/gag/aQX4vG8)
  - 🚯 [An old Toyota commercial](http://9gag.com/gag/avAgeAE)<!-- MEMES:END -->
 
 --- 
