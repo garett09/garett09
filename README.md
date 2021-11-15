@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [&amp;quot;Everything I&amp;#039;ve stepped in, some kuffar has to sit in.&amp;quot;](http://9gag.com/gag/apg01eD)
- - 🚯 [Good old days](http://9gag.com/gag/aQX4gez)
- - 🚯 [This one sparks joy](http://9gag.com/gag/a71yo9z)<!-- MEMES:END -->
+ - 🚖 [Good old days](http://9gag.com/gag/aQX4gez)
+ - 🚯 [This one sparks joy](http://9gag.com/gag/a71yo9z)
+ - 🚯 [This Is True](http://9gag.com/gag/apg036p)<!-- MEMES:END -->
 
 --- 
 
