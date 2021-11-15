@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [True love](http://9gag.com/gag/aAGr4Lo)
- - 🚯 [The pressure of meeting the Queen](http://9gag.com/gag/apg067D)
+ - 🚖 [Like everytime](http://9gag.com/gag/aeg0x3W)
+ - 🚯 [What in the Thailand...](http://9gag.com/gag/aog0xVm)
  - 🚯 [Show your power to engage in intense, fast-paced battles to be the last one standing.](http://9gag.com/gag/aNPZBDA)<!-- MEMES:END -->
 
 --- 
