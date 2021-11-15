@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Black Friday gaming headset deals 2021: cacophonous cans for your earholes](https://www.pcgamer.com/black-friday-gaming-headset-deals-2021)
- - [Streamer Survival Guide](https://www.polygon.com/22774925/streamer-game-streaming-tips-guide)
- - [Your guide to streaming games and VTubing on a tight budget](https://www.polygon.com/22764495/twitch-youtube-stream-games-budget)<!-- GAME:END -->
+ - [Beware Animal Crossing’s Beautiful Island ordinance and the flowerpocalypse](https://www.polygon.com/22783189/animal-crossing-new-horizons-update-beautiful-island-ordinance-flower-spam)
+ - [Forza Horizon 5 Players Are Making Easy Bank With AFK Exploit](https://kotaku.com/forza-horizon-5-players-are-making-easy-bank-with-afk-e-1848058461)
+ - [With Eternals, Marvel shifts from 9/11 to climate change as its big source of conflict](https://www.polygon.com/22783132/eternals-9-11-climate-change)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
