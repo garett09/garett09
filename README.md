@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Playing the technical test has convinced me Halo Infinite is great, actually](https://www.pcgamer.com/playing-the-technical-test-has-convinced-me-halo-infinite-is-great-actually)
- - [Halo Infinite&#39;s big team battles are perfect carnage](https://www.pcgamer.com/halo-infinites-big-team-battles-are-perfect-carnage)
- - [Game Pass Has PC Games Presents: Halo Infinite Tournament](https://news.xbox.com/en-us/2021/11/15/game-pass-has-pc-games-presents-halo-infinite-tournament/)<!-- GAME:END -->
+ - [Steam servers refuse to buckle as whole world downloads Halo Infinite](https://www.pcgamer.com/halo-infinite-steam-servers-slow)
+ - [The Legend of Tianding: The Kotaku Review](https://kotaku.com/the-legend-of-tianding-the-kotaku-review-1848060556)
+ - [Playing the technical test has convinced me Halo Infinite is great, actually](https://www.pcgamer.com/playing-the-technical-test-has-convinced-me-halo-infinite-is-great-actually)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
