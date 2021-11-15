@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Big data analytics service Splunk announces CEO Doug Merritt will be stepping down and replaced by its board chair effective immediately; stock drops 18%+ &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/211115/p28#a211115p28)
- - [Twitter makes big changes for devs as it eyes decentralized future](https://www.theverge.com/2021/11/15/22779149/twitter-api-version-2-official-decentralized)
- - [A look at ConstitutionDAO, which has taken $3M+ in crypto donations to bid at an auction on one of the original copies of the US Constitution, printed in 1787 &lpar;Packy McCormick/Not Boring&rpar;](http://www.techmeme.com/211115/p27#a211115p27)<!-- TECH:END -->
+ - [Compared: iPad mini vs Kindle Paperwhite](https://appleinsider.com/articles/21/11/15/compared-ipad-mini-vs-kindle-paperwhite?utm_medium=rss)
+ - [Researchers show how attackers can flip bits on modern DRAM devices using a new Rowhammer exploit, defeating manufacturers&#39; hardware mitigations &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/211115/p29#a211115p29)
+ - [The remastered GTA Trilogy is back on PC](https://www.theverge.com/2021/11/15/22783286/grand-theft-auto-the-trilogy-pc-hot-coffee-rockstar-games-launcher)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
