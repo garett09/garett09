@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Motorola Moto G Pure review: Affordable déjà vu](https://www.androidauthority.com/motorola-moto-g-pure-review-3054833/)
- - [ThoughtSpot, a business data analytics startup, raises a $100M Series F at a $4.2B valuation, after pivoting to a cloud-based subscription model last fall &lpar;Kenrick Cai/Forbes&rpar;](http://www.techmeme.com/211115/p26#a211115p26)
- - [Animal Crossing: New Horizons DLC - How to access Happy Home Paradise     - CNET](https://www.cnet.com/tech/gaming/animal-crossing-new-horizons-dlc-how-to-access-happy-home-paradise/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Big data analytics service Splunk announces CEO Doug Merritt will be stepping down and replaced by its board chair effective immediately; stock drops 18%+ &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/211115/p28#a211115p28)
+ - [Twitter makes big changes for devs as it eyes decentralized future](https://www.theverge.com/2021/11/15/22779149/twitter-api-version-2-official-decentralized)
+ - [A look at ConstitutionDAO, which has taken $3M+ in crypto donations to bid at an auction on one of the original copies of the US Constitution, printed in 1787 &lpar;Packy McCormick/Not Boring&rpar;](http://www.techmeme.com/211115/p27#a211115p27)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
