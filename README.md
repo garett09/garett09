@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Animal Crossing Players Do Great And Terrible Things With The New Polish Tool](https://kotaku.com/animal-crossing-players-do-great-and-terrible-things-wi-1848059557)
- - [Xbox gets another 76 backward-compatible games, with enhancements](https://www.polygon.com/22783591/xbox-backward-compatibility-program-new-games-list-series-x)
- - [Xbox Celebrates 20 Years of Gaming Joy by Making the Halo Infinite Multiplayer Beta Available for Everyone](https://news.xbox.com/en-us/2021/11/15/xbox-20-anniversary-broadcast-recap/)<!-- GAME:END -->
+ - [Playing the technical test has convinced me Halo Infinite is great, actually](https://www.pcgamer.com/playing-the-technical-test-has-convinced-me-halo-infinite-is-great-actually)
+ - [Halo Infinite&#39;s big team battles are perfect carnage](https://www.pcgamer.com/halo-infinites-big-team-battles-are-perfect-carnage)
+ - [Game Pass Has PC Games Presents: Halo Infinite Tournament](https://news.xbox.com/en-us/2021/11/15/game-pass-has-pc-games-presents-halo-infinite-tournament/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
