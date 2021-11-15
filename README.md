@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Interesting...](http://9gag.com/gag/aKmPv61)
- - 🚯 [An old Toyota commercial](http://9gag.com/gag/avAgeAE)
- - 🚯 [HolUp baby](http://9gag.com/gag/aDD3nbG)<!-- MEMES:END -->
+ - 🚖 [Not OC](http://9gag.com/gag/awzKmEW)
+ - 🚯 [Another attempt to mass breach the Polish border from Belarus has started. If anything interesting happens will inform in the comments.](http://9gag.com/gag/avAg61O)
+ - 🚯 [Built a Hot Wheels loop](http://9gag.com/gag/a0ZLVzB)<!-- MEMES:END -->
 
 --- 
 
