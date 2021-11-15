@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Modders are fixing GTA Trilogy&#39;s rain already](https://www.pcgamer.com/modders-are-fixing-gta-trilogys-rain-already)
  - [Battlefield 2042 Players Join XP Farm Not Knowing They Are The XP](https://kotaku.com/battlefield-players-join-xp-farm-not-knowing-they-are-t-1848055852)
- - [Terraria and Don&#39;t Starve Together will cross over this month](https://www.pcgamer.com/terraria-and-dont-starve-together-will-cross-over-this-month)
- - [I Want To Play The Cat Game Right Now](https://kotaku.com/i-want-to-play-the-cat-game-right-now-1848055567)<!-- GAME:END -->
+ - [Terraria and Don&#39;t Starve Together will cross over this month](https://www.pcgamer.com/terraria-and-dont-starve-together-will-cross-over-this-month)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
