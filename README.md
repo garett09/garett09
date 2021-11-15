@@ -194,8 +194,8 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Taxi driver locked suicide bomber in the back of his car to stop him entering a hospital, nearly cost him his life, what a legend - location liverpool England](http://9gag.com/gag/abgy4EB)
- - 🚯 [Ravens and Wolves have such an interesting relationship](http://9gag.com/gag/arn4APK)
- - 🚯 [But i would freak out if a girl want to love me](http://9gag.com/gag/a51PwVO)<!-- MEMES:END -->
+ - 🚯 [The pressure of meeting the Queen](http://9gag.com/gag/apg067D)
+ - 🚯 [Manager: We&amp;#039;re more than a company, we&amp;#039;re a family](http://9gag.com/gag/aAGrK7L)<!-- MEMES:END -->
 
 --- 
 
