@@ -180,8 +180,8 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- GAME:START -->
  - [Company Of Heroes: The Kotaku Review](https://kotaku.com/company-of-heroes-the-kotaku-review-1848020824)
- - [Skate 2 Servers Killed Just As Game Makes Comeback](https://kotaku.com/skate-2-multiplayer-killed-just-as-its-coming-back-1848062914)
- - [Star Fox Hack Boosts Its Notoriously Choppy Framerate](https://kotaku.com/star-fox-hack-boosts-its-notoriously-choppy-framerate-1848062643)<!-- GAME:END -->
+ - [Best Black Friday PC gaming deals in Australia: discounts on everything from monitors to chairs](https://www.pcgamer.com/black-friday-2021-the-pc-gaming-deals-you-can-expect-in-australia)
+ - [Skate 2 Servers Killed Just As Game Makes Comeback](https://kotaku.com/skate-2-multiplayer-killed-just-as-its-coming-back-1848062914)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
