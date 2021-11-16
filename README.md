@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ssssnnn](http://9gag.com/gag/aVxW2Dd)
- - 🚯 [She prob sneak peaked](http://9gag.com/gag/azeER2B)
+ - 🚖 [Indonesia&amp;#039;s Mount Sinabung volcano has erupted a cloud of hot ash up to 5 kilometers tall](http://9gag.com/gag/aggv20W)
+ - 🚯 [Long before color-sensitive film was invented, Russian photographer Sergey Prokudin-Gorsky took 3 individual black and white photos, each with a filter &lpar;red, blue and green&rpar; to create high quality photos in full color. This self portrait is over 110 years old!](http://9gag.com/gag/ay90RoY)
  - 🚯 [Show your power to engage in intense, fast-paced battles to be the last one standing.](http://9gag.com/gag/aNPZBDA)<!-- MEMES:END -->
 
 --- 
