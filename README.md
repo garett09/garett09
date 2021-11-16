@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A female Gorilla at the Taipei Zoo, trying to figure out an escape plan using a log as a stepping stone](http://9gag.com/gag/a313bDe)
- - 🚯 [Excuse me ... Miss?](http://9gag.com/gag/aWgWRn4)
+ - 🚖 [Another thing that doesn&amp;#039;t work](http://9gag.com/gag/a91LDbD)
+ - 🚯 [Funny how YouTube censorship works when it&amp;#039;s convenient.](http://9gag.com/gag/a21YOOO)
  - 🚯 [Show your power to engage in intense, fast-paced battles to be the last one standing.](http://9gag.com/gag/aNPZBDA)<!-- MEMES:END -->
 
 --- 
