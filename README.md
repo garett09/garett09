@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Japan&#39;s Manga Piracy Crackdown Continues](https://kotaku.com/japans-manga-piracy-crackdown-continues-1848064076)
- - [The Windows 11 Black Screen of Death will become blue again](https://www.pcgamer.com/the-windows-11-black-screen-of-death-will-become-blue-again)
- - [Intel&#39;s plan to increase chip production using Chinese factory discouraged by US Government](https://www.pcgamer.com/intels-plan-to-use-chinese-factory-to-up-chip-production-discouraged-by-us-government)<!-- GAME:END -->
+ - [Japanese Convenience Stores Are Facing A Fried Chicken Shortage](https://kotaku.com/japanese-convenience-stores-are-facing-a-fried-chicken-1848064221)
+ - [Naruto and his ninja pals are now available in Fortnite](https://www.pcgamer.com/fortnite-naruto-skin)
+ - [Japan&#39;s Manga Piracy Crackdown Continues](https://kotaku.com/japans-manga-piracy-crackdown-continues-1848064076)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
