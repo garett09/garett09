@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Elder Scrolls 6 will release for Xbox and PC only](https://www.pcgamer.com/elder-scrolls-6-will-release-for-xbox-and-pc-only)
- - [Fight trash with even more trash in this steampunk brawler](https://www.polygon.com/22783238/twin-stick-brawler-cell-shade-indie-dev-capybara)
- - [15 Years Later, Call of Duty Fan Gets Credit For Game-Changing Control Scheme](https://kotaku.com/15-years-later-call-of-duty-fan-gets-credit-for-game-c-1848061829)<!-- GAME:END -->
+ - [Call Of Duty Cheaters &#39;May&#39; Be Banned From Every Call Of Duty Game Ever Made](https://kotaku.com/call-of-duty-cheaters-may-be-banned-from-every-call-of-1848062403)
+ - [Halo Infinite commits unspeakable crime, launches without a Slayer-only playlist](https://www.pcgamer.com/halo-infinite-commits-unspeakable-crime-launches-without-a-slayer-only-playlist)
+ - [Go behind the scenes of Cowboy Bebop’s music with the singular Yoko Kanno](https://www.polygon.com/22783964/cowboy-bebop-music-yoko-kanno-soundtrack-behind-the-scenes)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
