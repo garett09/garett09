@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Almost as satisfying as it is terrifying](http://9gag.com/gag/avAgdyW)
- - 🚯 [This one sparks joy....and also tears....of happiness.....](http://9gag.com/gag/ajg0Wd0)
+ - 🚖 [Lotta talent here](http://9gag.com/gag/aGzwOYZ)
+ - 🚯 [They had us in the first half.](http://9gag.com/gag/a21YLxw)
  - 🚯 [Show your power to engage in intense, fast-paced battles to be the last one standing.](http://9gag.com/gag/aNPZBDA)<!-- MEMES:END -->
 
 --- 
