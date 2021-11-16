@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [China is warning state firms to exit cryptocurrency mining and is considering punitive measures for those that do not comply &lpar;Bloomberg&rpar;](http://www.techmeme.com/211116/p5#a211116p5)
  - [OnePlus Nord 2 updates: November patch now rolling out](https://www.androidauthority.com/oneplus-nord-2-updates-1648431/)
- - [Google launched a ‘Fortnite Task Force’ after Epic skipped the Play Store](https://www.androidauthority.com/google-epic-fortnite-task-force-3059758/)
- - [The Balmuda Phone is a compact Android phone from a high-end toaster company](https://www.theverge.com/2021/11/16/22784878/balmuda-phone-announced-specs-price-toaster-japan)<!-- TECH:END -->
+ - [Google launched a ‘Fortnite Task Force’ after Epic skipped the Play Store](https://www.androidauthority.com/google-epic-fortnite-task-force-3059758/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
