@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best wired or wireless gaming headsets to buy](https://www.theverge.com/21549510/best-gaming-headset-wired-wireless-features-specs-price-sound-microphone-test-buy)
- - [Epos H3Pro Hybrid review: the complete package](https://www.theverge.com/22784021/epos-h3pro-hybrid-review-features-price-specs)
- - [How to control your Apple Watch hands-free](https://www.theverge.com/22778189/apple-watch-assistive-touch-accessibility)<!-- TECH:END -->
+ - [Sources: Activision CEO failed to inform the board about allegations an employee had been raped by her supervisor in 2016 and 2017, even after a settlement &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/211116/p23#a211116p23)
+ - [Qualcomm’s Arm-based competitor to the Apple M1 has a launch window now](https://www.androidauthority.com/qualcomm-windows-m1-date-3060121/)
+ - [AppleInsider is hiring East and West Coast editors - apply now](https://appleinsider.com/articles/21/11/16/appleinsider-is-hiring-east-and-west-coast-editors---apply-now?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
