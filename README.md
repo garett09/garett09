@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [At the End of the World, It’s Hyperobjects All the Way Down](https://www.wired.com/story/timothy-morton-hyperobjects-all-the-way-down)
- - [Epic&#39;s Tim Sweeney calls Google &#39;crazy,&#39; says &#39;Apple must be stopped&#39;](https://appleinsider.com/articles/21/11/16/epics-tim-sweeney-calls-google-crazy-says-apple-must-be-stopped?utm_medium=rss)
- - [The new MacBook Pro: Why did Apple backtrack on everything?](https://appleinsider.com/articles/21/11/14/the-new-macbooks-pro-why-did-apple-backtrack-on-everything?utm_medium=rss)<!-- TECH:END -->
+ - [UK supermarket Sainsbury&#39;s becomes the first known customer for Amazon&#39;s Just Walk Out tech outside the US, starting with a London store opening November 29 &lpar;Bloomberg&rpar;](http://www.techmeme.com/211116/p10#a211116p10)
+ - [Daily Authority: 🙅‍♂️ Google folds](https://www.androidauthority.com/newsletters/da-november-16-2021/)
+ - [How the Black Girl Gamers Community Became a Lifeline](https://www.wired.com/story/black-girl-gamers-community)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
