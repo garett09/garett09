@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Japanese Convenience Stores Are Facing A Fried Chicken Shortage](https://kotaku.com/japanese-convenience-stores-are-facing-a-fried-chicken-1848064221)
- - [Naruto and his ninja pals are now available in Fortnite](https://www.pcgamer.com/fortnite-naruto-skin)
- - [Japan&#39;s Manga Piracy Crackdown Continues](https://kotaku.com/japans-manga-piracy-crackdown-continues-1848064076)<!-- GAME:END -->
+ - [Thank Alder Lake for last-gen Black Friday gaming PC gems like this RX 6900 XT system](https://www.pcgamer.com/black-friday-ibuypower-rx-6900xt-gaming-pc-newegg)
+ - [Genshin Impact 2.3: Everything we know](https://www.pcgamer.com/genshin-impact-23-release-date-update)
+ - [Among Microsoft&#39;s surprises is that the Halo TV series is real and coming 2022](https://www.pcgamer.com/among-microsofts-surprises-is-that-the-halo-tv-series-is-real-and-coming-2022)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
