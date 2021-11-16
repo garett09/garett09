@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Thank Alder Lake for last-gen Black Friday gaming PC gems like this RX 6900 XT system](https://www.pcgamer.com/black-friday-ibuypower-rx-6900xt-gaming-pc-newegg)
- - [Genshin Impact 2.3: Everything we know](https://www.pcgamer.com/genshin-impact-23-release-date-update)
- - [Among Microsoft&#39;s surprises is that the Halo TV series is real and coming 2022](https://www.pcgamer.com/among-microsofts-surprises-is-that-the-halo-tv-series-is-real-and-coming-2022)<!-- GAME:END -->
+ - [Coming Soon to Xbox Game Pass: Evil Genius 2, Exo One, Undungeon, and More](https://news.xbox.com/en-us/2021/11/16/xbox-game-pass-news-update-november-2021/)
+ - [Microsoft Flight Simulator’s Reno Air Races expansion is utterly terrifying](https://www.polygon.com/22783951/microsoft-flight-simulator-reno-air-races-impressions-release-date-price)
+ - [Sorry, Halo Infinite, but your battle pass sucks](https://www.pcgamer.com/sorry-halo-infinite-but-your-battle-pass-sucks)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
