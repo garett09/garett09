@@ -186,8 +186,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nigeria says 488,000+ people downloaded the wallet for eNaira, its central bank digital currency, and ~78K merchants from 160+ countries enrolled to use it &lpar;Emele Onu/Bloomberg&rpar;](http://www.techmeme.com/211116/p1#a211116p1)
- - [First Bitcoin-linked ETF starts trading on the New York Stock Exchange     - CNET](https://www.cnet.com/news/the-first-bitcoin-linked-etf-starts-trading-on-the-new-york-stock-exchange/#ftag=CAD590a51e)
+ - [Pew: 42% of US users read Twitter primarily for entertainment, 20% for news; one-third of users visit Twitter less than once a week, 66% visit at least weekly &lpar;Rob Pegoraro/PCMag&rpar;](http://www.techmeme.com/211116/p2#a211116p2)
+ - [Apple Card 0% financing extended for confused customers](https://appleinsider.com/articles/21/11/16/apple-card-0-financing-extended-for-confused-customers?utm_medium=rss)
  - [T-Mobile&#39;s 5G network coverage reaches 200M people](https://appleinsider.com/articles/21/11/16/t-mobiles-5g-network-coverage-reaches-200m-people?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
