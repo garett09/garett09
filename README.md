@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Another thing that doesn&amp;#039;t work](http://9gag.com/gag/a91LDbD)
- - 🚯 [Funny how YouTube censorship works when it&amp;#039;s convenient.](http://9gag.com/gag/a21YOOO)
- - 🚯 [Show your power to engage in intense, fast-paced battles to be the last one standing.](http://9gag.com/gag/aNPZBDA)<!-- MEMES:END -->
+ - 🚖 [IF HE ever SAID it...IF it&amp;#039;s true or not, coz this is NICE!](http://9gag.com/gag/aqGNdZP)
+ - 🚯 [The original video](http://9gag.com/gag/aRrPDjM)
+ - 🚯 [It looks like trailer for new &amp;quot;World War Z&amp;quot; movie. &amp;quot;World War Refugee&amp;quot;?](http://9gag.com/gag/adgYRmN)<!-- MEMES:END -->
 
 --- 
 
