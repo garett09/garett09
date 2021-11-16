@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cowboy Bebop review: Netflix&#39;s adaptation is a fun and thrilling romp     - CNET](https://www.cnet.com/news/cowboy-bebop-review-netflixs-adaptation-is-a-fun-and-thrilling-romp/#ftag=CAD590a51e)
- - [HyperDrive&#39;s new Docking Station runs up to 3 screens on a MacBook Pro](https://appleinsider.com/articles/21/11/15/hperdrives-new-docking-station-runs-up-to-3-screens-on-a-macbook-pro?utm_medium=rss)
- - [Why Into The Spider-Verse is still the best superhero movie ever made     - CNET](https://www.cnet.com/news/why-into-the-spider-verse-is-still-the-best-superhero-movie-ever-made/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Nigeria says 488,000+ people downloaded the wallet for eNaira, its central bank digital currency, and ~78K merchants from 160+ countries enrolled to use it &lpar;Emele Onu/Bloomberg&rpar;](http://www.techmeme.com/211116/p1#a211116p1)
+ - [First Bitcoin-linked ETF starts trading on the New York Stock Exchange     - CNET](https://www.cnet.com/news/the-first-bitcoin-linked-etf-starts-trading-on-the-new-york-stock-exchange/#ftag=CAD590a51e)
+ - [T-Mobile&#39;s 5G network coverage reaches 200M people](https://appleinsider.com/articles/21/11/16/t-mobiles-5g-network-coverage-reaches-200m-people?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
