@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Who is the next Thanos?](https://www.polygon.com/22776848/marvel-movie-new-villains)
- - [Enter the Mind of a Villain in Far Cry 6 – Vaas: Insanity DLC Episode](https://news.xbox.com/en-us/2021/11/16/far-cry-6-vaas-insanity-dlc-episode-out-now/)
- - [The Light in the Darkness – An Educational Historical Experience about the Holocaust in France](https://news.xbox.com/en-us/2021/11/16/the-light-in-the-darkness-an-educational-historical-experience-about-the-holocaust-in-france/)<!-- GAME:END -->
+ - [Bobby Kotick must resign](https://www.polygon.com/22785788/bobby-kotick-resign-activision-blizzard-controversy-allegations)
+ - [Where to find paper bomb kunai in Fortnite x Naruto](https://www.pcgamer.com/paper-bomb-kunai-fortnite)
+ - [Who is the next Thanos?](https://www.polygon.com/22776848/marvel-movie-new-villains)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
