@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Activision Blizzard board rallies around embattled CEO hours after damning report](https://www.theverge.com/2021/11/16/22785776/activision-blizzard-board-statement-ceo-bobby-kotick)
- - [New AirPods, AirPods Pro firmware updates are now available](https://appleinsider.com/articles/21/11/16/new-airpods-airpods-pro-firmware-updates-are-now-available?utm_medium=rss)
- - [Meta details a haptic glove prototype that uses air pockets to simulate touching objects in VR and has been in development for seven years &lpar;Adi Robertson/The Verge&rpar;](http://www.techmeme.com/211116/p32#a211116p32)<!-- TECH:END -->
+ - [Logitech reworked its G303 mouse just for Shroud, but you can buy it, too](https://www.theverge.com/2021/11/16/22778099/logitech-g303-wireless-mouse-shroud-edition-price-release-date-design-features)
+ - [Samsung posts official calendar for US rollout of One UI 4 to all devices](https://www.androidauthority.com/samsung-one-ui-4-calendar-us-3060294/)
+ - [AnyDesk, a maker of remote desktop software that averages 900M sessions per month, raises a $70M Series C led by General Atlantic at a $660M+ valuation &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/211116/p36#a211116p36)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
