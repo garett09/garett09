@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Game Pass gets Dead Space, Dragon Age: Origins, and My Friend Pedro in November](https://www.polygon.com/22785259/xbox-game-pass-november-2021-new-games)
- - [Sizing up the 10 most popular things on Netflix right now](https://www.polygon.com/2020/3/10/21167710/10-netflix-movies-shows-most-popular)
- - [Building the blasters of Nerf Legends](https://blog.playstation.com/2021/11/16/building-the-blasters-of-nerf-legends/)<!-- GAME:END -->
+ - [Savathûn revealed – Planting the seeds of the Witch Queen’s deception](https://blog.playstation.com/2021/11/16/savathun-revealed-planting-the-seeds-of-the-witch-queens-deception/)
+ - [Savathûn revealed – Planting the seeds of the Witch Queen’s deception](https://blog.playstation.com/2021/11/16/savathun-revealed-planting-the-seeds-of-the-witch-queens-deception/)
+ - [The Wheel of Time shows us what an adaptation can do](https://www.polygon.com/reviews/22783995/wheel-of-time-review-amazon)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
