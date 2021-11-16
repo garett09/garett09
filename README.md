@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Eternals is Marvel’s Superman movie](https://www.polygon.com/22778781/eternals-superman-marvel-vs-dc-movies)
- - [Company Of Heroes: The Kotaku Review](https://kotaku.com/company-of-heroes-the-kotaku-review-1848020824)
- - [Best Black Friday PC gaming deals in Australia: discounts on everything from monitors to chairs](https://www.pcgamer.com/black-friday-2021-the-pc-gaming-deals-you-can-expect-in-australia)<!-- GAME:END -->
+ - [Intel celebrates 50 years of the 4004, the grand daddy of the modern CPU](https://www.pcgamer.com/intel-celebrates-50-years-of-the-4004-the-grand-daddy-of-the-modern-cpu)
+ - [Nvidia GeForce Now is capping FPS for Priority tier users](https://www.pcgamer.com/nvidia-geforce-now-is-capping-fps-for-priority-tier-users)
+ - [The Eternals is Marvel’s Superman movie](https://www.polygon.com/22778781/eternals-superman-marvel-vs-dc-movies)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
