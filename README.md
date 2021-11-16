@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Call Of Duty Cheaters &#39;May&#39; Be Banned From Every Call Of Duty Game Ever Made](https://kotaku.com/call-of-duty-cheaters-may-be-banned-from-every-call-of-1848062403)
- - [Halo Infinite commits unspeakable crime, launches without a Slayer-only playlist](https://www.pcgamer.com/halo-infinite-commits-unspeakable-crime-launches-without-a-slayer-only-playlist)
- - [Go behind the scenes of Cowboy Bebop’s music with the singular Yoko Kanno](https://www.polygon.com/22783964/cowboy-bebop-music-yoko-kanno-soundtrack-behind-the-scenes)<!-- GAME:END -->
+ - [Company Of Heroes: The Kotaku Review](https://kotaku.com/company-of-heroes-the-kotaku-review-1848020824)
+ - [Skate 2 Servers Killed Just As Game Makes Comeback](https://kotaku.com/skate-2-multiplayer-killed-just-as-its-coming-back-1848062914)
+ - [Star Fox Hack Boosts Its Notoriously Choppy Framerate](https://kotaku.com/star-fox-hack-boosts-its-notoriously-choppy-framerate-1848062643)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
