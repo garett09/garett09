@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta’s sci-fi haptic glove prototype lets you feel VR objects using air pockets](https://www.theverge.com/2021/11/16/22782860/meta-facebook-reality-labs-soft-robotics-haptic-glove-prototype)
- - [Windows 10 on Arm will no longer get x64 app emulation](https://www.theverge.com/2021/11/16/22785453/microsoft-windows-10-on-arm-x64-app-emulation)
- - [Qualcomm CFO says the company expects to supply just 20% of Apple&#39;s modem chips by 2023, supporting rumors that Apple&#39;s modem chips are nearly ready to launch &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/211116/p28#a211116p28)<!-- TECH:END -->
+ - [VR treatment for chronic pain gets FDA authorization](https://www.theverge.com/2021/11/16/22785609/vr-chronic-pain-fda)
+ - [Samsung’s ‘Get It Today’ lets you pick up your online order at Best Buy](https://www.theverge.com/2021/11/16/22785487/samsung-best-buy-get-it-today-pickup-service)
+ - [Qualcomm aims to take on Apple Silicon in nine months](https://appleinsider.com/articles/21/11/16/qualcomm-aims-to-take-on-apple-silicon-in-nine-months?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
