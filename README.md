@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Long before color-sensitive film was invented, Russian photographer Sergey Prokudin-Gorsky took 3 individual black and white photos, each with a filter &lpar;red, blue and green&rpar; to create high quality photos in full color. This self portrait is over 110 years old!](http://9gag.com/gag/ay90RoY)
- - 🚯 [The sad part is, you cant even dislike her](http://9gag.com/gag/aNPZBg3)
+ - 🚖 [These guys really had the new employee collecting the sparks in a bucket](http://9gag.com/gag/aLvPXA6)
+ - 🚯 [Beer is a sin.](http://9gag.com/gag/arn4xZX)
  - 🚯 [Show your power to engage in intense, fast-paced battles to be the last one standing.](http://9gag.com/gag/aNPZBDA)<!-- MEMES:END -->
 
 --- 
