@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [VR treatment for chronic pain gets FDA authorization](https://www.theverge.com/2021/11/16/22785609/vr-chronic-pain-fda)
- - [Samsung’s ‘Get It Today’ lets you pick up your online order at Best Buy](https://www.theverge.com/2021/11/16/22785487/samsung-best-buy-get-it-today-pickup-service)
- - [Qualcomm aims to take on Apple Silicon in nine months](https://appleinsider.com/articles/21/11/16/qualcomm-aims-to-take-on-apple-silicon-in-nine-months?utm_medium=rss)<!-- TECH:END -->
+ - [Activision Blizzard board rallies around embattled CEO hours after damning report](https://www.theverge.com/2021/11/16/22785776/activision-blizzard-board-statement-ceo-bobby-kotick)
+ - [New AirPods, AirPods Pro firmware updates are now available](https://appleinsider.com/articles/21/11/16/new-airpods-airpods-pro-firmware-updates-are-now-available?utm_medium=rss)
+ - [Meta details a haptic glove prototype that uses air pockets to simulate touching objects in VR and has been in development for seven years &lpar;Adi Robertson/The Verge&rpar;](http://www.techmeme.com/211116/p32#a211116p32)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
