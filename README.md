@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What does the N Stand for](http://9gag.com/gag/aKmPLP6)
- - 🚯 [Belarus forces gave migrants stun granades to throw at Polish border. This is really bad.](http://9gag.com/gag/apg08mb)
- - 🚯 [IF HE ever SAID it...IF it&amp;#039;s true or not, coz this is NICE!](http://9gag.com/gag/aqGNdZP)<!-- MEMES:END -->
+ - 🚖 [East Asia in a nutshell](http://9gag.com/gag/adgYbwZ)
+ - 🚯 [Why does my back hurt so bad?](http://9gag.com/gag/a0ZLxez)
+ - 🚯 [If you wiggle your car it gets bigger and bigger](http://9gag.com/gag/aeg0WDO)<!-- MEMES:END -->
 
 --- 
 
