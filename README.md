@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [These guys really had the new employee collecting the sparks in a bucket](http://9gag.com/gag/aLvPXA6)
- - 🚯 [Halal post](http://9gag.com/gag/aWgW2rK)
+ - 🚖 [Ssssnnn](http://9gag.com/gag/aVxW2Dd)
+ - 🚯 [A Japanese soccer player nutmegged &lpar;ball passing between the legs&rpar; four players to score a goal. A once is a life time goal.](http://9gag.com/gag/angKrQL)
  - 🚯 [Show your power to engage in intense, fast-paced battles to be the last one standing.](http://9gag.com/gag/aNPZBDA)<!-- MEMES:END -->
 
 --- 
