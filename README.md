@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Lotta talent here](http://9gag.com/gag/aGzwOYZ)
- - 🚯 [They had us in the first half.](http://9gag.com/gag/a21YLxw)
+ - 🚖 [At the end, why shouldn&amp;rsquo;t i do it](http://9gag.com/gag/aVxWRwP)
+ - 🚯 [&amp;quot;bUt tHEy wORkEd hArD&amp;quot; - yes, but many people work their ass off too but don&amp;#039;t become billionaires because they don&amp;#039;t have daddy&amp;#039;s money.](http://9gag.com/gag/aLvPdVg)
  - 🚯 [Show your power to engage in intense, fast-paced battles to be the last one standing.](http://9gag.com/gag/aNPZBDA)<!-- MEMES:END -->
 
 --- 
