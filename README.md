@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Intel celebrates 50 years of the 4004, the grand daddy of the modern CPU](https://www.pcgamer.com/intel-celebrates-50-years-of-the-4004-the-grand-daddy-of-the-modern-cpu)
- - [Nvidia GeForce Now is capping FPS for Priority tier users](https://www.pcgamer.com/nvidia-geforce-now-is-capping-fps-for-priority-tier-users)
- - [The Eternals is Marvel’s Superman movie](https://www.polygon.com/22778781/eternals-superman-marvel-vs-dc-movies)<!-- GAME:END -->
+ - [The Windows 11 Black Screen of Death will become blue again](https://www.pcgamer.com/the-windows-11-black-screen-of-death-will-become-blue-again)
+ - [Intel&#39;s plan to increase chip production using Chinese factory discouraged by US Government](https://www.pcgamer.com/intels-plan-to-use-chinese-factory-to-up-chip-production-discouraged-by-us-government)
+ - [Intel celebrates 50 years of the 4004, the grand daddy of the modern CPU](https://www.pcgamer.com/intel-celebrates-50-years-of-the-4004-the-grand-daddy-of-the-modern-cpu)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
