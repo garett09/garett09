@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Savathûn revealed – Planting the seeds of the Witch Queen’s deception](https://blog.playstation.com/2021/11/16/savathun-revealed-planting-the-seeds-of-the-witch-queens-deception/)
- - [Savathûn revealed – Planting the seeds of the Witch Queen’s deception](https://blog.playstation.com/2021/11/16/savathun-revealed-planting-the-seeds-of-the-witch-queens-deception/)
- - [The Wheel of Time shows us what an adaptation can do](https://www.polygon.com/reviews/22783995/wheel-of-time-review-amazon)<!-- GAME:END -->
+ - [Kingdom Two Crowns Expands to the Legendary Norse Lands](https://news.xbox.com/en-us/2021/11/16/kingdom-two-crowns-expands-to-norse-lands/)
+ - [Jen Oneal, briefly in charge of Blizzard, expressed no faith in Activision leadership](https://www.polygon.com/22785672/jen-oneal-blizzard-resigns-activision-harassment-lawsuit)
+ - [Game Accessibility Feature Tags are now Available on Microsoft Store for Xbox](https://news.xbox.com/en-us/2021/11/16/game-accessibility-feature-tags-now-available/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
