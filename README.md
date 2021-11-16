@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Excuse me ... Miss?](http://9gag.com/gag/aWgWRn4)
- - 🚯 [Thank you for being friendly now I&amp;rsquo;m just gonna disappear . God bless you](http://9gag.com/gag/aAGrOng)
+ - 🚖 [A female Gorilla at the Taipei Zoo, trying to figure out an escape plan using a log as a stepping stone](http://9gag.com/gag/a313bDe)
+ - 🚯 [Excuse me ... Miss?](http://9gag.com/gag/aWgWRn4)
  - 🚯 [Show your power to engage in intense, fast-paced battles to be the last one standing.](http://9gag.com/gag/aNPZBDA)<!-- MEMES:END -->
 
 --- 
