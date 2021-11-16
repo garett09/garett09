@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [IF HE ever SAID it...IF it&amp;#039;s true or not, coz this is NICE!](http://9gag.com/gag/aqGNdZP)
- - 🚯 [The original video](http://9gag.com/gag/aRrPDjM)
- - 🚯 [It looks like trailer for new &amp;quot;World War Z&amp;quot; movie. &amp;quot;World War Refugee&amp;quot;?](http://9gag.com/gag/adgYRmN)<!-- MEMES:END -->
+ - 🚖 [It looks like trailer for new &amp;quot;World War Z&amp;quot; movie. &amp;quot;World War Refugee&amp;quot;?](http://9gag.com/gag/adgYRmN)
+ - 🚯 [What does the N Stand for](http://9gag.com/gag/aKmPLP6)
+ - 🚯 [IF HE ever SAID it...IF it&amp;#039;s true or not, coz this is NICE!](http://9gag.com/gag/aqGNdZP)<!-- MEMES:END -->
 
 --- 
 
