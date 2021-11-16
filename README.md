@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Get Your Farmer Boots Ready for Farming Simulator 22](https://news.xbox.com/en-us/2021/11/16/get-your-farmer-boots-ready-for-farming-simulator-22/)
- - [The complete ranking of the mainline Halo games](https://www.polygon.com/22772766/halo-ranking-odst-reach-guardians-combat-evolved-list)
- - [Riot announces two more League of Legends spin-off games for 2022](https://www.pcgamer.com/riot-announces-two-more-league-of-legends-spin-off-games-for-2022)<!-- GAME:END -->
+ - [Minecraft x Walt Disney World Magic Kingdom Adventure DLC](https://news.xbox.com/en-us/2021/11/16/minecraft-x-walt-disney-world-magic-kingdom-adventure-dlc/)
+ - [Activision Blizzard workers walk out, call for CEO Bobby Kotick’s resignation](https://www.polygon.com/22786117/activision-blizzard-walk-out-bobby-kotick-resignation-demands)
+ - [Let’s Get the Mansion in Black Desert](https://news.xbox.com/en-us/2021/11/16/lets-get-the-mansion-in-black-desert/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
