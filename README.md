@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ssssnnn](http://9gag.com/gag/aVxW2Dd)
- - 🚯 [A Japanese soccer player nutmegged &lpar;ball passing between the legs&rpar; four players to score a goal. A once is a life time goal.](http://9gag.com/gag/angKrQL)
+ - 🚖 [Shark egg case that washed ashore with a alive embryo inside](http://9gag.com/gag/a11eE7Y)
+ - 🚯 [They had us in the first half.](http://9gag.com/gag/a21YLxw)
  - 🚯 [Show your power to engage in intense, fast-paced battles to be the last one standing.](http://9gag.com/gag/aNPZBDA)<!-- MEMES:END -->
 
 --- 
