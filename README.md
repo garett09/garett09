@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Coming Soon to Xbox Game Pass: Evil Genius 2, Exo One, Undungeon, and More](https://news.xbox.com/en-us/2021/11/16/xbox-game-pass-news-update-november-2021/)
- - [Microsoft Flight Simulator’s Reno Air Races expansion is utterly terrifying](https://www.polygon.com/22783951/microsoft-flight-simulator-reno-air-races-impressions-release-date-price)
- - [Sorry, Halo Infinite, but your battle pass sucks](https://www.pcgamer.com/sorry-halo-infinite-but-your-battle-pass-sucks)<!-- GAME:END -->
+ - [Six Tips to Help You Be a Better Detective in Sherlock Holmes Chapter One](https://news.xbox.com/en-us/2021/11/16/six-tips-to-help-you-be-a-better-detective-in-sherlock-holmes-chapter-one/)
+ - [Dying Light 2 gives its unique parkour a bigger, better city](https://www.polygon.com/22784810/dying-light-2-preview-parkour-city-size-combat-zombies-video)
+ - [Polygon’s 2021 budget gift guide for the holidays](https://www.polygon.com/22776408/2021-holiday-gift-guide-budget)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
