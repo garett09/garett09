@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Seed rounds at $100M post-money valuations, now fairly common, are unlikely to perform well for investors, given dilution and early startups&#39; high failure rate &lpar;Fred Wilson/AVC&rpar;](http://www.techmeme.com/211116/p3#a211116p3)
- - [Thought 120W was fast? A phone with 150W charging could be coming soon.](https://www.androidauthority.com/150w-charging-phone-3056852/)
- - [Pew: 42% of US users read Twitter primarily for entertainment, 20% for news; one-third of users visit Twitter less than once a week, 66% visit at least weekly &lpar;Rob Pegoraro/PCMag&rpar;](http://www.techmeme.com/211116/p2#a211116p2)<!-- TECH:END -->
+ - [Doctors and researchers say social media is contributing to the rise of negative body image issues and eating disorder cases among boys &lpar;Julie Jargon/Wall Street Journal&rpar;](http://www.techmeme.com/211116/p4#a211116p4)
+ - [The Science Museum Wants Their Plastic Samples. They Refused](https://www.wired.com/story/science-museum-microplastics)
+ - [Seed rounds at $100M post-money valuations, now fairly common, are unlikely to perform well for investors, given dilution and early startups&#39; high failure rate &lpar;Fred Wilson/AVC&rpar;](http://www.techmeme.com/211116/p3#a211116p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
