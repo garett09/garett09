@@ -194,7 +194,7 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Enjoy your weekly dose of nostalgia &lpar;2001&rpar;](http://9gag.com/gag/aggvxWW)
- - 🚯 [Like everytime](http://9gag.com/gag/aeg0x3W)
+ - 🚯 [What men really think about](http://9gag.com/gag/aPZ4ewV)
  - 🚯 [Show your power to engage in intense, fast-paced battles to be the last one standing.](http://9gag.com/gag/aNPZBDA)<!-- MEMES:END -->
 
 --- 
