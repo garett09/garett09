@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Bobby Kotick must resign](https://www.polygon.com/22785788/bobby-kotick-resign-activision-blizzard-controversy-allegations)
- - [Where to find paper bomb kunai in Fortnite x Naruto](https://www.pcgamer.com/paper-bomb-kunai-fortnite)
- - [Who is the next Thanos?](https://www.polygon.com/22776848/marvel-movie-new-villains)<!-- GAME:END -->
+ - [Get Your Farmer Boots Ready for Farming Simulator 22](https://news.xbox.com/en-us/2021/11/16/get-your-farmer-boots-ready-for-farming-simulator-22/)
+ - [The complete ranking of the mainline Halo games](https://www.polygon.com/22772766/halo-ranking-odst-reach-guardians-combat-evolved-list)
+ - [Riot announces two more League of Legends spin-off games for 2022](https://www.pcgamer.com/riot-announces-two-more-league-of-legends-spin-off-games-for-2022)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
