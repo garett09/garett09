@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Compared: iPad mini vs Kindle Paperwhite](https://appleinsider.com/articles/21/11/15/compared-ipad-mini-vs-kindle-paperwhite?utm_medium=rss)
- - [Let’s chat about RCS](https://www.theverge.com/2021/11/16/22783220/vergecast-podcast-rcs-explainer-google)
- - [Bose’s new QuietComfort 45 are seeing their first price drop](https://www.theverge.com/good-deals/2021/11/16/22783337/bose-headphones-samsung-frame-mac-mini-acer-chromebook-spin-deal-sale)<!-- TECH:END -->
+ - [The best wired or wireless gaming headsets to buy](https://www.theverge.com/21549510/best-gaming-headset-wired-wireless-features-specs-price-sound-microphone-test-buy)
+ - [Epos H3Pro Hybrid review: the complete package](https://www.theverge.com/22784021/epos-h3pro-hybrid-review-features-price-specs)
+ - [How to control your Apple Watch hands-free](https://www.theverge.com/22778189/apple-watch-assistive-touch-accessibility)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
