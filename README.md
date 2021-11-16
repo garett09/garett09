@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pew: 42% of US users read Twitter primarily for entertainment, 20% for news; one-third of users visit Twitter less than once a week, 66% visit at least weekly &lpar;Rob Pegoraro/PCMag&rpar;](http://www.techmeme.com/211116/p2#a211116p2)
- - [Apple Card 0% financing extended for confused customers](https://appleinsider.com/articles/21/11/16/apple-card-0-financing-extended-for-confused-customers?utm_medium=rss)
- - [T-Mobile&#39;s 5G network coverage reaches 200M people](https://appleinsider.com/articles/21/11/16/t-mobiles-5g-network-coverage-reaches-200m-people?utm_medium=rss)<!-- TECH:END -->
+ - [Seed rounds at $100M post-money valuations, now fairly common, are unlikely to perform well for investors, given dilution and early startups&#39; high failure rate &lpar;Fred Wilson/AVC&rpar;](http://www.techmeme.com/211116/p3#a211116p3)
+ - [Thought 120W was fast? A phone with 150W charging could be coming soon.](https://www.androidauthority.com/150w-charging-phone-3056852/)
+ - [Pew: 42% of US users read Twitter primarily for entertainment, 20% for news; one-third of users visit Twitter less than once a week, 66% visit at least weekly &lpar;Rob Pegoraro/PCMag&rpar;](http://www.techmeme.com/211116/p2#a211116p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
