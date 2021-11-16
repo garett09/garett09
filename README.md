@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Peloton sues rival fitness companies Echelon and iFit, claiming that both violated patents related to its on-demand classes &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/211115/p36#a211115p36)
- - [Amazon agrees to pay $500K to California for concealing COVID-19 case numbers from its workers, the first such action under the state&#39;s new &quot;right to know&quot; law &lpar;Suhauna Hussain/Los Angeles Times&rpar;](http://www.techmeme.com/211115/p35#a211115p35)
- - [Peloton is suing its rivals over its on-demand classes](https://www.theverge.com/2021/11/15/22783952/peloton-fitness-tech-echelon-ifit-nordictrack)<!-- TECH:END -->
+ - [Amazon settles California claims it concealed COVID cases from workers     - CNET](https://www.cnet.com/tech/services-and-software/amazon-settles-california-claims-it-concealed-covid-cases-from-workers/#ftag=CAD590a51e)
+ - [IATSE members vote to ratify contracts that include better streaming pay](https://www.theverge.com/2021/11/15/22784345/iatse-members-ratify-contracts-following-strike-authorization)
+ - [PB Fintech, the parent company of Policybazaar and Paisabazaar, gained ~23% over the IPO price in its Mumbai market debut, giving it a ~$7.26B valuation &lpar;Tushar Deep Singh/The Economic Times&rpar;](http://www.techmeme.com/211115/p38#a211115p38)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
