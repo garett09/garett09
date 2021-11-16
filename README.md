@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bird reports Q3 revenue of $65.4M, up 63% YoY, vs. $65.7M expected, and net loss of $36.9M, down from $43.8M YoY, in first quarterly earnings since going public &lpar;TechCrunch&rpar;](http://www.techmeme.com/211115/p39#a211115p39)
- - [Apple claps back at &#39;secret&#39; app ad purchase claims, says supports more than 100 apps](https://appleinsider.com/articles/21/11/16/apple-claps-back-at-secret-app-ad-purchase-claims-says-supports-more-than-100-apps?utm_medium=rss)
- - [JPMorgan says Tesla owes the bank $162 million](https://www.theverge.com/2021/11/15/22784319/jpmorgan-tesla-lawsuit-162-million-stock-warrants-musk)<!-- TECH:END -->
+ - [Apple updates Final Cut Pro, Dark Sky with bug fixes](https://appleinsider.com/articles/21/11/16/apple-updates-final-cut-pro-dark-sky-with-bug-fixes?utm_medium=rss)
+ - [PS5 Black Friday: Walmart stocking consoles and offering huge savings on games     - CNET](https://www.cnet.com/tech/gaming/the-best-ps5-black-friday-2021-deals/#ftag=CAD590a51e)
+ - [Xbox Black Friday 2021 deals: Series X console restocks coming soon, game bargains live now     - CNET](https://www.cnet.com/tech/gaming/xbox-black-friday-2021-deals-series-x-console-restocks-coming-soon-game-bargains-live-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
