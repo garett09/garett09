@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Disney battle arena game to land on Apple Arcade in December](https://appleinsider.com/articles/21/11/15/disney-battle-arena-game-to-land-on-apple-arcade-in-december?utm_medium=rss)
- - [&#39;Fraggle Rock&#39; revival arrives on Apple TV+ on January 21](https://appleinsider.com/articles/21/11/15/fraggle-rock-revival-arrives-on-apple-tv-on-january-21?utm_medium=rss)
- - [Faraday Future launches investigation into financial fraud allegations](https://www.theverge.com/2021/11/15/22784038/faraday-future-fraud-investigation-j-capital-short-seller)<!-- TECH:END -->
+ - [Peloton sues rival fitness companies Echelon and iFit, claiming that both violated patents related to its on-demand classes &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/211115/p36#a211115p36)
+ - [Amazon agrees to pay $500K to California for concealing COVID-19 case numbers from its workers, the first such action under the state&#39;s new &quot;right to know&quot; law &lpar;Suhauna Hussain/Los Angeles Times&rpar;](http://www.techmeme.com/211115/p35#a211115p35)
+ - [Peloton is suing its rivals over its on-demand classes](https://www.theverge.com/2021/11/15/22783952/peloton-fitness-tech-echelon-ifit-nordictrack)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
