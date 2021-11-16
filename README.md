@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [East Asia in a nutshell](http://9gag.com/gag/adgYbwZ)
- - 🚯 [Why does my back hurt so bad?](http://9gag.com/gag/a0ZLxez)
- - 🚯 [If you wiggle your car it gets bigger and bigger](http://9gag.com/gag/aeg0WDO)<!-- MEMES:END -->
+ - 🚖 [If you wiggle your car it gets bigger and bigger](http://9gag.com/gag/aeg0WDO)
+ - 🚯 [It feels like it was yesterday](http://9gag.com/gag/avAgXn5)
+ - 🚯 [Why does my back hurt so bad?](http://9gag.com/gag/a0ZLxez)<!-- MEMES:END -->
 
 --- 
 
