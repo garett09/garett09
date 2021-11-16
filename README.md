@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [While Twitter users mock NFTs and Web3 believers retaliate, a16z, Meta, and others are investing in the crypto industry to remake the internet in their image &lpar;Ryan Broderick/Garbage Day&rpar;](http://www.techmeme.com/211116/p13#a211116p13)
- - [The 13 Best Subscription Boxes for Gifting](https://www.wired.com/gallery/best-subscription-gift-boxes)
- - [Inside the Lucrative World of Console Resellers](https://www.wired.com/story/gaming-console-sellers)<!-- TECH:END -->
+ - [GlossGenius, which offers payment services and other tools for the spa, studio, and salon industry, raises $16.4M Series A from Bessemer, Tobias L&amp;uuml;tke, and more &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/211116/p16#a211116p16)
+ - [Considering a MacBook? Here Are Our Favorites](https://www.wired.com/story/which-macbook-should-you-buy)
+ - [How Apps Commandeered the Age-Old Idea of Takeout](https://www.wired.com/story/delivery-apps-age-old-idea-takeout)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
