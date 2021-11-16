@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Enjoy your weekly dose of nostalgia &lpar;2001&rpar;](http://9gag.com/gag/aggvxWW)
- - 🚯 [What men really think about](http://9gag.com/gag/aPZ4ewV)
+ - 🚖 [What in the Thailand...](http://9gag.com/gag/aog0xVm)
+ - 🚯 [She prob sneak peaked](http://9gag.com/gag/azeER2B)
  - 🚯 [Show your power to engage in intense, fast-paced battles to be the last one standing.](http://9gag.com/gag/aNPZBDA)<!-- MEMES:END -->
 
 --- 
