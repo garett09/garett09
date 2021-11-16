@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The Eternals is Marvel’s Superman movie](https://www.polygon.com/22778781/eternals-superman-marvel-vs-dc-movies)
  - [Company Of Heroes: The Kotaku Review](https://kotaku.com/company-of-heroes-the-kotaku-review-1848020824)
- - [Best Black Friday PC gaming deals in Australia: discounts on everything from monitors to chairs](https://www.pcgamer.com/black-friday-2021-the-pc-gaming-deals-you-can-expect-in-australia)
- - [Skate 2 Servers Killed Just As Game Makes Comeback](https://kotaku.com/skate-2-multiplayer-killed-just-as-its-coming-back-1848062914)<!-- GAME:END -->
+ - [Best Black Friday PC gaming deals in Australia: discounts on everything from monitors to chairs](https://www.pcgamer.com/black-friday-2021-the-pc-gaming-deals-you-can-expect-in-australia)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
