@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [UK supermarket Sainsbury&#39;s becomes the first known customer for Amazon&#39;s Just Walk Out tech outside the US, starting with a London store opening November 29 &lpar;Bloomberg&rpar;](http://www.techmeme.com/211116/p10#a211116p10)
- - [Daily Authority: 🙅‍♂️ Google folds](https://www.androidauthority.com/newsletters/da-november-16-2021/)
- - [How the Black Girl Gamers Community Became a Lifeline](https://www.wired.com/story/black-girl-gamers-community)<!-- TECH:END -->
+ - [While Twitter users mock NFTs and Web3 believers retaliate, a16z, Meta, and others are investing in the crypto industry to remake the internet in their image &lpar;Ryan Broderick/Garbage Day&rpar;](http://www.techmeme.com/211116/p13#a211116p13)
+ - [The 13 Best Subscription Boxes for Gifting](https://www.wired.com/gallery/best-subscription-gift-boxes)
+ - [Inside the Lucrative World of Console Resellers](https://www.wired.com/story/gaming-console-sellers)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
