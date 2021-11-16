@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [China is warning state firms to exit cryptocurrency mining and is considering punitive measures for those that do not comply &lpar;Bloomberg&rpar;](http://www.techmeme.com/211116/p5#a211116p5)
- - [OnePlus Nord 2 updates: November patch now rolling out](https://www.androidauthority.com/oneplus-nord-2-updates-1648431/)
- - [Google launched a ‘Fortnite Task Force’ after Epic skipped the Play Store](https://www.androidauthority.com/google-epic-fortnite-task-force-3059758/)<!-- TECH:END -->
+ - [At the End of the World, It’s Hyperobjects All the Way Down](https://www.wired.com/story/timothy-morton-hyperobjects-all-the-way-down)
+ - [Epic&#39;s Tim Sweeney calls Google &#39;crazy,&#39; says &#39;Apple must be stopped&#39;](https://appleinsider.com/articles/21/11/16/epics-tim-sweeney-calls-google-crazy-says-apple-must-be-stopped?utm_medium=rss)
+ - [The new MacBook Pro: Why did Apple backtrack on everything?](https://appleinsider.com/articles/21/11/14/the-new-macbooks-pro-why-did-apple-backtrack-on-everything?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
