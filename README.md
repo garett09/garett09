@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon settles California claims it concealed COVID cases from workers     - CNET](https://www.cnet.com/tech/services-and-software/amazon-settles-california-claims-it-concealed-covid-cases-from-workers/#ftag=CAD590a51e)
- - [IATSE members vote to ratify contracts that include better streaming pay](https://www.theverge.com/2021/11/15/22784345/iatse-members-ratify-contracts-following-strike-authorization)
- - [PB Fintech, the parent company of Policybazaar and Paisabazaar, gained ~23% over the IPO price in its Mumbai market debut, giving it a ~$7.26B valuation &lpar;Tushar Deep Singh/The Economic Times&rpar;](http://www.techmeme.com/211115/p38#a211115p38)<!-- TECH:END -->
+ - [Bird reports Q3 revenue of $65.4M, up 63% YoY, vs. $65.7M expected, and net loss of $36.9M, down from $43.8M YoY, in first quarterly earnings since going public &lpar;TechCrunch&rpar;](http://www.techmeme.com/211115/p39#a211115p39)
+ - [Apple claps back at &#39;secret&#39; app ad purchase claims, says supports more than 100 apps](https://appleinsider.com/articles/21/11/16/apple-claps-back-at-secret-app-ad-purchase-claims-says-supports-more-than-100-apps?utm_medium=rss)
+ - [JPMorgan says Tesla owes the bank $162 million](https://www.theverge.com/2021/11/15/22784319/jpmorgan-tesla-lawsuit-162-million-stock-warrants-musk)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
