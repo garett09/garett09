@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Doctors and researchers say social media is contributing to the rise of negative body image issues and eating disorder cases among boys &lpar;Julie Jargon/Wall Street Journal&rpar;](http://www.techmeme.com/211116/p4#a211116p4)
- - [The Science Museum Wants Their Plastic Samples. They Refused](https://www.wired.com/story/science-museum-microplastics)
- - [Seed rounds at $100M post-money valuations, now fairly common, are unlikely to perform well for investors, given dilution and early startups&#39; high failure rate &lpar;Fred Wilson/AVC&rpar;](http://www.techmeme.com/211116/p3#a211116p3)<!-- TECH:END -->
+ - [OnePlus Nord 2 updates: November patch now rolling out](https://www.androidauthority.com/oneplus-nord-2-updates-1648431/)
+ - [Google launched a ‘Fortnite Task Force’ after Epic skipped the Play Store](https://www.androidauthority.com/google-epic-fortnite-task-force-3059758/)
+ - [The Balmuda Phone is a compact Android phone from a high-end toaster company](https://www.theverge.com/2021/11/16/22784878/balmuda-phone-announced-specs-price-toaster-japan)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
