@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It looks like trailer for new &amp;quot;World War Z&amp;quot; movie. &amp;quot;World War Refugee&amp;quot;?](http://9gag.com/gag/adgYRmN)
- - 🚯 [What does the N Stand for](http://9gag.com/gag/aKmPLP6)
+ - 🚖 [What does the N Stand for](http://9gag.com/gag/aKmPLP6)
+ - 🚯 [Belarus forces gave migrants stun granades to throw at Polish border. This is really bad.](http://9gag.com/gag/apg08mb)
  - 🚯 [IF HE ever SAID it...IF it&amp;#039;s true or not, coz this is NICE!](http://9gag.com/gag/aqGNdZP)<!-- MEMES:END -->
 
 --- 
