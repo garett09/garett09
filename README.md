@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Six Tips to Help You Be a Better Detective in Sherlock Holmes Chapter One](https://news.xbox.com/en-us/2021/11/16/six-tips-to-help-you-be-a-better-detective-in-sherlock-holmes-chapter-one/)
- - [Dying Light 2 gives its unique parkour a bigger, better city](https://www.polygon.com/22784810/dying-light-2-preview-parkour-city-size-combat-zombies-video)
- - [Polygon’s 2021 budget gift guide for the holidays](https://www.polygon.com/22776408/2021-holiday-gift-guide-budget)<!-- GAME:END -->
+ - [Xbox Game Pass gets Dead Space, Dragon Age: Origins, and My Friend Pedro in November](https://www.polygon.com/22785259/xbox-game-pass-november-2021-new-games)
+ - [Sizing up the 10 most popular things on Netflix right now](https://www.polygon.com/2020/3/10/21167710/10-netflix-movies-shows-most-popular)
+ - [Building the blasters of Nerf Legends](https://blog.playstation.com/2021/11/16/building-the-blasters-of-nerf-legends/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
