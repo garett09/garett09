@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Kingdom Two Crowns Expands to the Legendary Norse Lands](https://news.xbox.com/en-us/2021/11/16/kingdom-two-crowns-expands-to-norse-lands/)
- - [Jen Oneal, briefly in charge of Blizzard, expressed no faith in Activision leadership](https://www.polygon.com/22785672/jen-oneal-blizzard-resigns-activision-harassment-lawsuit)
- - [Game Accessibility Feature Tags are now Available on Microsoft Store for Xbox](https://news.xbox.com/en-us/2021/11/16/game-accessibility-feature-tags-now-available/)<!-- GAME:END -->
+ - [Who is the next Thanos?](https://www.polygon.com/22776848/marvel-movie-new-villains)
+ - [Enter the Mind of a Villain in Far Cry 6 – Vaas: Insanity DLC Episode](https://news.xbox.com/en-us/2021/11/16/far-cry-6-vaas-insanity-dlc-episode-out-now/)
+ - [The Light in the Darkness – An Educational Historical Experience about the Holocaust in France](https://news.xbox.com/en-us/2021/11/16/the-light-in-the-darkness-an-educational-historical-experience-about-the-holocaust-in-france/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
