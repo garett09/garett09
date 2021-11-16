@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [GlossGenius, which offers payment services and other tools for the spa, studio, and salon industry, raises $16.4M Series A from Bessemer, Tobias L&amp;uuml;tke, and more &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/211116/p16#a211116p16)
- - [Considering a MacBook? Here Are Our Favorites](https://www.wired.com/story/which-macbook-should-you-buy)
- - [How Apps Commandeered the Age-Old Idea of Takeout](https://www.wired.com/story/delivery-apps-age-old-idea-takeout)<!-- TECH:END -->
+ - [Compared: iPad mini vs Kindle Paperwhite](https://appleinsider.com/articles/21/11/15/compared-ipad-mini-vs-kindle-paperwhite?utm_medium=rss)
+ - [Let’s chat about RCS](https://www.theverge.com/2021/11/16/22783220/vergecast-podcast-rcs-explainer-google)
+ - [Bose’s new QuietComfort 45 are seeing their first price drop](https://www.theverge.com/good-deals/2021/11/16/22783337/bose-headphones-samsung-frame-mac-mini-acer-chromebook-spin-deal-sale)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
