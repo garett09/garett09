@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple updates Final Cut Pro, Dark Sky with bug fixes](https://appleinsider.com/articles/21/11/16/apple-updates-final-cut-pro-dark-sky-with-bug-fixes?utm_medium=rss)
- - [PS5 Black Friday: Walmart stocking consoles and offering huge savings on games     - CNET](https://www.cnet.com/tech/gaming/the-best-ps5-black-friday-2021-deals/#ftag=CAD590a51e)
- - [Xbox Black Friday 2021 deals: Series X console restocks coming soon, game bargains live now     - CNET](https://www.cnet.com/tech/gaming/xbox-black-friday-2021-deals-series-x-console-restocks-coming-soon-game-bargains-live-now/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Cowboy Bebop review: Netflix&#39;s adaptation is a fun and thrilling romp     - CNET](https://www.cnet.com/news/cowboy-bebop-review-netflixs-adaptation-is-a-fun-and-thrilling-romp/#ftag=CAD590a51e)
+ - [HyperDrive&#39;s new Docking Station runs up to 3 screens on a MacBook Pro](https://appleinsider.com/articles/21/11/15/hperdrives-new-docking-station-runs-up-to-3-screens-on-a-macbook-pro?utm_medium=rss)
+ - [Why Into The Spider-Verse is still the best superhero movie ever made     - CNET](https://www.cnet.com/news/why-into-the-spider-verse-is-still-the-best-superhero-movie-ever-made/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
