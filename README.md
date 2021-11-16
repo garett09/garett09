@@ -194,7 +194,7 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [These guys really had the new employee collecting the sparks in a bucket](http://9gag.com/gag/aLvPXA6)
- - 🚯 [Beer is a sin.](http://9gag.com/gag/arn4xZX)
+ - 🚯 [Well, that escalated quickly](http://9gag.com/gag/aeg0mWp)
  - 🚯 [Show your power to engage in intense, fast-paced battles to be the last one standing.](http://9gag.com/gag/aNPZBDA)<!-- MEMES:END -->
 
 --- 
