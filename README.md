@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix to release weekly report detailing viewership, most popular content](https://appleinsider.com/articles/21/11/16/netflix-to-release-weekly-report-detailing-viewership-most-popular-content?utm_medium=rss)
- - [PSA: Google Cloud service outage impacting major social, media platforms [u]](https://appleinsider.com/articles/21/11/16/psa-google-cloud-service-outage-impacting-major-social-media-platforms?utm_medium=rss)
- - [Netflix expands its Top 10 lists to display the most-viewed shows and movies, for both English and non-English titles, ranked by aggregate viewing hours &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/211116/p38#a211116p38)<!-- TECH:END -->
+ - [Beats partners with Fragment Design on limited edition Beats Flex](https://appleinsider.com/articles/21/11/16/beats-partners-with-fragment-design-on-limited-edition-beats-flex?utm_medium=rss)
+ - [The best early Black Friday Laptop deals](https://www.androidauthority.com/best-laptop-deals-1109232/)
+ - [Israeli spyware vendor Candiru, recently blacklisted by the US, waged &quot;watering hole&quot; attacks on UK and Middle East websites critical of Saudi Arabia and others &lpar;Lorenzo Franceschi-Bicchierai/VICE&rpar;](http://www.techmeme.com/211116/p41#a211116p41)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
