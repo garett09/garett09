@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Activision CEO failed to inform the board about allegations an employee had been raped by her supervisor in 2016 and 2017, even after a settlement &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/211116/p23#a211116p23)
- - [Qualcomm’s Arm-based competitor to the Apple M1 has a launch window now](https://www.androidauthority.com/qualcomm-windows-m1-date-3060121/)
- - [AppleInsider is hiring East and West Coast editors - apply now](https://appleinsider.com/articles/21/11/16/appleinsider-is-hiring-east-and-west-coast-editors---apply-now?utm_medium=rss)<!-- TECH:END -->
+ - [Meta’s sci-fi haptic glove prototype lets you feel VR objects using air pockets](https://www.theverge.com/2021/11/16/22782860/meta-facebook-reality-labs-soft-robotics-haptic-glove-prototype)
+ - [Windows 10 on Arm will no longer get x64 app emulation](https://www.theverge.com/2021/11/16/22785453/microsoft-windows-10-on-arm-x64-app-emulation)
+ - [Qualcomm CFO says the company expects to supply just 20% of Apple&#39;s modem chips by 2023, supporting rumors that Apple&#39;s modem chips are nearly ready to launch &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/211116/p28#a211116p28)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
