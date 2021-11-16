@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Logitech reworked its G303 mouse just for Shroud, but you can buy it, too](https://www.theverge.com/2021/11/16/22778099/logitech-g303-wireless-mouse-shroud-edition-price-release-date-design-features)
- - [Samsung posts official calendar for US rollout of One UI 4 to all devices](https://www.androidauthority.com/samsung-one-ui-4-calendar-us-3060294/)
- - [AnyDesk, a maker of remote desktop software that averages 900M sessions per month, raises a $70M Series C led by General Atlantic at a $660M+ valuation &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/211116/p36#a211116p36)<!-- TECH:END -->
+ - [Netflix to release weekly report detailing viewership, most popular content](https://appleinsider.com/articles/21/11/16/netflix-to-release-weekly-report-detailing-viewership-most-popular-content?utm_medium=rss)
+ - [PSA: Google Cloud service outage impacting major social, media platforms [u]](https://appleinsider.com/articles/21/11/16/psa-google-cloud-service-outage-impacting-major-social-media-platforms?utm_medium=rss)
+ - [Netflix expands its Top 10 lists to display the most-viewed shows and movies, for both English and non-English titles, ranked by aggregate viewing hours &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/211116/p38#a211116p38)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
