@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Minecraft x Walt Disney World Magic Kingdom Adventure DLC](https://news.xbox.com/en-us/2021/11/16/minecraft-x-walt-disney-world-magic-kingdom-adventure-dlc/)
- - [Activision Blizzard workers walk out, call for CEO Bobby Kotick’s resignation](https://www.polygon.com/22786117/activision-blizzard-walk-out-bobby-kotick-resignation-demands)
- - [Let’s Get the Mansion in Black Desert](https://news.xbox.com/en-us/2021/11/16/lets-get-the-mansion-in-black-desert/)<!-- GAME:END -->
+ - [Xbox Boss Phil Spencer Talks About &#39;Exploitive&#39; NFTs](https://kotaku.com/xbox-boss-phil-spencer-talks-about-exploitive-nfts-1848071039)
+ - [This Skyrim VR mod harnesses your brain signals to boost your spell power](https://www.pcgamer.com/this-skyrim-vr-mod-harnesses-your-brain-signals-to-boost-your-spell-power)
+ - [Halo Infinite&#39;s slow Battle Pass progression is being looked at, says 343 Industries](https://www.pcgamer.com/halo-infinites-slow-battle-pass-progression-is-being-looked-at-says-343-industries)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
