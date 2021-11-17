@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [HaptX says Meta copied its patented design for haptic glove](https://www.theverge.com/2021/11/17/22788052/haptx-haptic-glove-design-meta-facebook-patent-infringement-allegation)
- - [Apple&#39;s &#39;iPhone 14&#39; and AR headset to sport Wi-Fi 6E, says Kuo](https://appleinsider.com/articles/21/11/17/apples-iphone-14-and-ar-headset-to-sport-wi-fi-6e-says-kuo?utm_medium=rss)
- - [Nvidia beats with record Q3 revenue of $7.1B vs. $6.82B estimated, up 50% YoY, Gaming revenue of $3.22B, up 42%, and Data Center revenue of $2.94B, up 55% &lpar;Daniel Howley/Yahoo Finance&rpar;](http://www.techmeme.com/211117/p37#a211117p37)<!-- TECH:END -->
+ - [Marketing management software startup Braze jumps 44% in its Nasdaq debut, after raising $520M in its IPO, at an $8.4B valuation &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/211117/p38#a211117p38)
+ - [Barbie EV mockup debuts, and on an unrelated note, Mattel’s stock is up](https://www.theverge.com/tldr/2021/11/17/22788069/mattel-barbie-toy-car-ev-stock-price-la-auto-show)
+ - [Crypto collective raises $27 million to bid for rare copy of US Constitution](https://www.theverge.com/2021/11/17/22787993/constitutiondao-crypto-buy-us-constitution-copy-sothebys-ethereum)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
