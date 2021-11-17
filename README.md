@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Saints Row delayed, could arrive as late as 2023](https://www.pcgamer.com/saints-row-delayed-could-arrive-as-late-as-2023)
- - [Some Pixel Art From The Team Behind Unpacking](https://kotaku.com/some-pixel-art-from-the-team-behind-unpacking-1848072044)
- - [A brief history of Andrew Garfield swearing he is not in Spider-Man: No Way Home](https://www.polygon.com/22785509/spider-man-no-way-home-andrew-garfield-tobey-maguire-cast)<!-- GAME:END -->
+ - [Saints Row Delayed To August 2022](https://kotaku.com/saints-row-delayed-to-august-2022-1848072546)
+ - [Intel&#39;s Sapphire Rapids HEDT and 13th Gen Raptor Lake CPUs could be coming sooner than expected](https://www.pcgamer.com/intels-sapphire-rapids-hedt-and-13th-gen-raptor-lake-cpus-could-be-coming-sooner-than-expected)
+ - [IBM&#39;s new quantum processor more than doubles qubit capacity](https://www.pcgamer.com/ibms-new-quantum-processor-more-than-doubles-qubit-capacity)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
