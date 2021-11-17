@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Watch Series 7 review: Minute upgrades](https://www.androidauthority.com/apple-watch-series-7-review-3041122/)
- - [Nym Technologies, which provides network-level privacy through its blockchain-based &quot;mixnet&quot;, raises a $13M Series A led by a16z at a $270M valuation &lpar;Nina Bambysheva/Forbes&rpar;](http://www.techmeme.com/211117/p28#a211117p28)
- - [Xbox Cloud Gaming is starting to roll out to Xbox consoles](https://www.theverge.com/2021/11/17/22787396/xbox-cloud-gaming-consoles-series-x-s-one)<!-- TECH:END -->
+ - [Apple Finally Makes It Easier to Fix Your Own iPhone](https://www.wired.com/story/apple-self-service-repair-right-to-repair-iphone-mac)
+ - [Black Friday 2021: Deals on phones, wearables, earbuds, and more](https://www.androidauthority.com/black-friday-deals-3049753/)
+ - [A group of Activision Blizzard shareholders calls for CEO Bobby Kotick and two of its longest serving board members to resign &lpar;Shannon Liao/Washington Post&rpar;](http://www.techmeme.com/211117/p29#a211117p29)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
