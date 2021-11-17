@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google ‘improves’ Pixel 6 fingerprint sensor with surprise mid-month update](https://www.androidauthority.com/pixel-6-mid-november-update-3060511/)
- - [Tiger King 2 Provides More Memes Than Answers](https://www.wired.com/story/tiger-king-2-review)
- - [B&amp;H launches early Black Friday sale: Up to $400 off new MacBooks, iPads, iMacs](https://appleinsider.com/articles/21/11/17/bh-launches-early-black-friday-sale-up-to-400-off-new-macbooks-ipads-imacs?utm_medium=rss)<!-- TECH:END -->
+ - [When is the next Samsung Unpacked event? It could be in January     - CNET](https://www.cnet.com/tech/mobile/when-is-the-next-samsung-unpacked-event-it-could-be-in-january/#ftag=CAD590a51e)
+ - [B&amp;H launches early Black Friday sale: Up to $400 off new MacBooks, iPads, iMacs](https://appleinsider.com/articles/21/11/17/bh-launches-early-black-friday-sale-up-to-400-off-new-macbooks-ipads-imacs?utm_medium=rss)
+ - [Google ‘improves’ Pixel 6 fingerprint sensor with surprise mid-month update](https://www.androidauthority.com/pixel-6-mid-november-update-3060511/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
