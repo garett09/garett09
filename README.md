@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple will offer iPhone parts and instructions for DIY repair](https://www.theverge.com/2021/11/17/22787144/apple-home-repair-iphone-mac-parts-tools-instructions)
- - [Apple announces Self Service Repair, a program starting next year that will publish repair manuals, let customers buy parts and tools, and more &lpar;Ian Sherr/CNET&rpar;](http://www.techmeme.com/211117/p20#a211117p20)
- - [The Witcher Season 2 on Netflix: Release date and more on the fantasy series](https://www.androidauthority.com/the-witcher-season-2-on-netflix-3058393/)<!-- TECH:END -->
+ - [Nissan’s upcoming electric SUV, the 2023 Ariya, will start at $47,125](https://www.theverge.com/2021/11/17/22787170/nissan-ariya-ev-price-specs-trim-reservations-deposit)
+ - [Best deals Nov. 17: AirTag 4-pack for $88, 20% off Razer Kishi, big 4K TV discounts, and more!](https://appleinsider.com/articles/21/11/17/best-deals-nov-17-airtag-4-pack-for-88-20-off-razer-kishi-big-4k-tv-discounts-and-more?utm_medium=rss)
+ - [Source: BlockFi faces SEC scrutiny for offering high interest rates for lending out crypto; Texas, New Jersey, and others are already investigating BlockFi &lpar;Bloomberg&rpar;](http://www.techmeme.com/211117/p23#a211117p23)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
