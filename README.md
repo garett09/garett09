@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A baby chimpanzee and his best friend the baby gorilla](http://9gag.com/gag/aLvPVD6)
- - 🚯 [Mamma Mia](http://9gag.com/gag/a21Yjye)
- - 🚯 [Imagine being this entitled](http://9gag.com/gag/aggvjWv)<!-- MEMES:END -->
+ - 🚖 [Imagine being this entitled](http://9gag.com/gag/aggvjWv)
+ - 🚯 [Russian traffic police use their own vehicle to protect pedestrians](http://9gag.com/gag/aYrWZNx)
+ - 🚯 [A baby chimpanzee and his best friend the baby gorilla](http://9gag.com/gag/aLvPVD6)<!-- MEMES:END -->
 
 --- 
 
