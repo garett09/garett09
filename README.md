@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Micfo CEO Amir Golestan pleads guilty to wire fraud charges after fraudulently acquiring thousands of IP addresses from nonprofit ARIN, a first-of-its-kind case &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/211117/p12#a211117p12)
- - [South African payments gateways service Ozow, which makes online transactions simpler, raises a $48M Series B led by Tencent &lpar;Tage Kene-Okafor/TechCrunch&rpar;](http://www.techmeme.com/211117/p11#a211117p11)
- - [Indian startup GoKwik, which helps e-commerce merchants improve conversions and lower return rates, raises a $15M Series A led by Sequoia Capital India &lpar;The Economic Times&rpar;](http://www.techmeme.com/211117/p10#a211117p10)<!-- TECH:END -->
+ - [18 Analog Gifts For People Who Need a Digital Detox](https://www.wired.com/gallery/analog-gift-guide)
+ - [The US Space Force Wants to Clean Up Junk in Orbit](https://www.wired.com/story/the-us-space-force-wants-to-clean-up-junk-in-orbit)
+ - [How to Increase Your PS5&#39;s Internal Storage Capacity](https://www.wired.com/story/how-to-install-m2-ssd-storage-ps5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
