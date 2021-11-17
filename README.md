@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The ultimate litmus test](http://9gag.com/gag/avAgw2X)
- - 🚯 [Oh picky eaters...](http://9gag.com/gag/aPZ4Lzg)
- - 🚯 [Red pants tried to kick grey pants, dont think that went well.](http://9gag.com/gag/aWgWAb2)<!-- MEMES:END -->
+ - 🚖 [Red pants tried to kick grey pants, dont think that went well.](http://9gag.com/gag/aWgWAb2)
+ - 🚯 [Tha boys knew bout social distancing](http://9gag.com/gag/aVxW5nd)
+ - 🚯 [Who win ?](http://9gag.com/gag/a313gMv)<!-- MEMES:END -->
 
 --- 
 
