@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Here you go](http://9gag.com/gag/awzKev4)
+ - 🚖 [Mamma Mia](http://9gag.com/gag/a21Yjye)
  - 🚯 [IF HE ever SAID it...IF it&amp;#039;s true or not, coz this is NICE!](http://9gag.com/gag/aqGNdZP)
- - 🚯 [A rare opportunity. Kids in bed. Mrs is out. Pizza and Halo.](http://9gag.com/gag/aVxW1qP)<!-- MEMES:END -->
+ - 🚯 [Imagine being this entitled](http://9gag.com/gag/aggvjWv)<!-- MEMES:END -->
 
 --- 
 
