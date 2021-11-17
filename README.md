@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best CPU for gaming in 2021](https://www.pcgamer.com/best-cpu-for-gaming)
- - [The best AMD CPU Black Friday deals: save on an AMD Ryzen processor for your PC](https://www.pcgamer.com/amd-cpu-black-friday-deals-2021)
- - [Halo Infinite&#39;s Brute Choppers can&#39;t stop taking flight](https://www.pcgamer.com/halo-infinites-brute-choppers-cant-stop-taking-flight)<!-- GAME:END -->
+ - [Black Friday SSD deals 2021: the fastest PC storage for the best price](https://www.pcgamer.com/black-friday-ssd-deals-2021)
+ - [Riverdale has found an even more thrilling shark to jump: Midsommar](https://www.polygon.com/22786073/riverdale-midsommar-rivervale-season-6-cult)
+ - [Black Friday gaming monitor deals 2021: the best and brightest screens at great prices](https://www.pcgamer.com/black-friday-gaming-monitor-deals-2021)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
