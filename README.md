@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Analysis: Pakistan-based startups have raised ~$300M in 2021, more than the previous six years combined, with investors from the US, UAE, and Singapore &lpar;Faseeh Mangi/Bloomberg&rpar;](http://www.techmeme.com/211117/p16#a211117p16)
- - [What to do if your Gmail is not receiving emails](https://www.androidauthority.com/gmail-not-receiving-emails-3059172/)
- - [Patient Testimonials Are Unethical And Should Be Banned](https://www.wired.com/story/ban-patient-testimonials-ethics)<!-- TECH:END -->
+ - [Apple will offer iPhone parts and instructions for DIY repair](https://www.theverge.com/2021/11/17/22787144/apple-home-repair-iphone-mac-parts-tools-instructions)
+ - [Apple announces Self Service Repair, a program starting next year that will publish repair manuals, let customers buy parts and tools, and more &lpar;Ian Sherr/CNET&rpar;](http://www.techmeme.com/211117/p20#a211117p20)
+ - [The Witcher Season 2 on Netflix: Release date and more on the fantasy series](https://www.androidauthority.com/the-witcher-season-2-on-netflix-3058393/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
