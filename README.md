@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Empire of Sin expands with a free Precincts Update and premium Make It Count DLC](https://blog.playstation.com/2021/11/17/empire-of-sin-expands-with-a-free-precincts-update-and-premium-make-it-count-dlc/)
- - [Empire of Sin expands with a free Precincts Update and premium Make It Count DLC](https://blog.playstation.com/2021/11/17/empire-of-sin-expands-with-a-free-precincts-update-and-premium-make-it-count-dlc/)
- - [Xbox Cloud Gaming Launches on Xbox Series X|S and Xbox One Consoles](https://news.xbox.com/en-us/2021/11/17/xbox-cloud-gaming-launches-on-console/)<!-- GAME:END -->
+ - [Genshin Impact’s Heartbreaking Inazuma Side Quests Are Far Better Than Its Main Plot](https://kotaku.com/genshin-impact-s-heartbreaking-inazuma-side-quests-are-1848075339)
+ - [November Xbox Update: Color Filters, Audio Settings, Accessibility Feature Tags, and More](https://news.xbox.com/en-us/2021/11/17/november-xbox-update/)
+ - [How to add custom overlays and alerts to your livestream](https://www.polygon.com/22768898/how-to-add-alerts-to-your-twitch-youtube-streams)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
