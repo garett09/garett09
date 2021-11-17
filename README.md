@@ -195,7 +195,7 @@ Windows                  3 hrs 9 mins        ███████████�
 <!-- MEMES:START -->
  - 🚖 [How should I call this?.... Baskheadball ??....](http://9gag.com/gag/a61y3pA)
  - 🚯 [Russian traffic police use their own vehicle to protect pedestrians](http://9gag.com/gag/aYrWZNx)
- - 🚯 [A baby chimpanzee and his best friend the baby gorilla](http://9gag.com/gag/aLvPVD6)<!-- MEMES:END -->
+ - 🚯 [A rare opportunity. Kids in bed. Mrs is out. Pizza and Halo.](http://9gag.com/gag/aVxW1qP)<!-- MEMES:END -->
 
 --- 
 
