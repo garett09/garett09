@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Boss Phil Spencer Talks About &#39;Exploitive&#39; NFTs](https://kotaku.com/xbox-boss-phil-spencer-talks-about-exploitive-nfts-1848071039)
- - [This Skyrim VR mod harnesses your brain signals to boost your spell power](https://www.pcgamer.com/this-skyrim-vr-mod-harnesses-your-brain-signals-to-boost-your-spell-power)
- - [Halo Infinite&#39;s slow Battle Pass progression is being looked at, says 343 Industries](https://www.pcgamer.com/halo-infinites-slow-battle-pass-progression-is-being-looked-at-says-343-industries)<!-- GAME:END -->
+ - [Spider-Man: No Way Home trailer unleashes the multiverse of villains](https://www.polygon.com/22703064/spider-man-no-way-home-trailer)
+ - [New Nvidia driver for Battlefield 2042 available now, doesn&#39;t seem to do a lot](https://www.pcgamer.com/new-nvidia-driver-for-battlefield-2042-available-now-doesnt-seem-to-do-a-lot)
+ - [Xbox Boss Phil Spencer Talks About &#39;Exploitive&#39; NFTs](https://kotaku.com/xbox-boss-phil-spencer-talks-about-exploitive-nfts-1848071039)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
