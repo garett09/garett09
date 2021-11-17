@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [If your iPhone 12 or 13 is having issues with calls, updating iOS may help](https://www.theverge.com/2021/11/17/22787756/iphone-ios-update-15-1-1-call-dropping-issue)
- - [Withings’ ScanWatch takes an extra step to start using its EKG](https://www.theverge.com/2021/11/17/22787159/withings-scanwatch-ekg-review-fda)
- - [Instagram cutting off support to companion app Threads by the end of 2021](https://appleinsider.com/articles/21/11/17/instagram-cutting-off-support-to-companion-app-threads-by-the-end-of-2021?utm_medium=rss)<!-- TECH:END -->
+ - [iFixit calls Apple Self Service Repair program a &#39;total shift in perspective&#39;](https://appleinsider.com/articles/21/11/17/ifixit-calls-apple-self-service-repair-program-a-total-shift-in-perspective?utm_medium=rss)
+ - [PlayStation boss reportedly calls out Activision Blizzard in staff memo](https://www.theverge.com/2021/11/17/22787848/playstation-boss-jim-ryan-calls-out-activision-blizzard-staff-memo)
+ - [Wyze Buds Pro review: budget Bluetooth buds worth buying](https://www.theverge.com/22787814/wyze-buds-pro-review-earbuds-headphones-audio-price)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
