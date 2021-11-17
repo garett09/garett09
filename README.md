@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Some Grab users in Southeast Asia are still reporting problems with the app over a day after outages started; Grab says &quot;core services&quot; have been restored &lpar;Bloomberg&rpar;](http://www.techmeme.com/211116/p49#a211116p49)
- - [Over 100 Activision Blizzard employees staged a walkout on Tuesday, its second in the past four months, demanding CEO Bobby Kotick step down after a WSJ report &lpar;Shannon Liao/Washington Post&rpar;](http://www.techmeme.com/211116/p48#a211116p48)
- - [2023 Nissan Ariya EV reservations open, prices start at $47,125     - Roadshow](https://www.cnet.com/roadshow/news/2023-nissan-ariya-ev-reservations-prices/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Razer’s new Kaira Pro headset will bring the bass to PS5](https://www.theverge.com/2021/11/16/22778012/razer-kaira-pro-wireless-gaming-headset-ps5-bluetooth-usbc-features-price)
+ - [Claris FileMaker Pro updated with Shortcuts support, more](https://appleinsider.com/articles/21/11/17/claris-filemaker-pro-updated-with-shortcuts-support-more?utm_medium=rss)
+ - [Some Grab users in Southeast Asia are still reporting problems with the app over a day after outages started; Grab says &quot;core services&quot; have been restored &lpar;Bloomberg&rpar;](http://www.techmeme.com/211116/p49#a211116p49)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
