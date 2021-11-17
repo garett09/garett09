@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Genshin Impact’s Heartbreaking Inazuma Side Quests Are Far Better Than Its Main Plot](https://kotaku.com/genshin-impact-s-heartbreaking-inazuma-side-quests-are-1848075339)
- - [November Xbox Update: Color Filters, Audio Settings, Accessibility Feature Tags, and More](https://news.xbox.com/en-us/2021/11/17/november-xbox-update/)
- - [How to add custom overlays and alerts to your livestream](https://www.polygon.com/22768898/how-to-add-alerts-to-your-twitch-youtube-streams)<!-- GAME:END -->
+ - [F1 2021: Daniel Ricciardo’s Designed Items Now on Podium Pass Series 3](https://news.xbox.com/en-us/2021/11/17/f1-2021-daniel-ricciardo-designed-items/)
+ - [Splinter Cell Chaos Theory Is Free Right Now On PC](https://kotaku.com/splinter-cell-chaos-theory-is-free-right-now-on-pc-1848075966)
+ - [Atari’s New Collectible Game Cartridges Off To A Rocky Start](https://kotaku.com/atari-s-new-collectible-game-cartridges-off-to-a-rocky-1848075679)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
