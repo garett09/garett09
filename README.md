@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Naturo Fortnite skins allow Sasuke to dab, get sniped by Sakura](https://www.polygon.com/22787685/naturo-fortnite-skins-sasuke-sakura-kakashi-memes)
- - [Transformers Roll Out in the November Smite Update](https://news.xbox.com/en-us/2021/11/17/transformers-roll-out-in-the-november-smite-update/)
- - [Windjammers 2 Is Coming to Xbox One and Xbox Game Pass](https://news.xbox.com/en-us/2021/11/17/windjammers-2-is-coming-to-xbox-one-and-xbox-game-pass/)<!-- GAME:END -->
+ - [Ruined King: A League of Legends Story is Available Now](https://news.xbox.com/en-us/2021/11/17/ruined-king-a-league-of-legends-story-is-available-now/)
+ - [Battlefield 2042&#39;s Prox Sensor disabled because it was somehow causing lag](https://www.pcgamer.com/battlefield-2042s-prox-sensor-disabled-because-it-was-somehow-causing-lag)
+ - [It&#39;s time to clean your PC after 15 months of working from home](https://www.pcgamer.com/its-time-to-clean-your-pc-after-15-months-of-working-from-home)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
