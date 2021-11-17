@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The stuff you can find on the internet](http://9gag.com/gag/a81Yv9O)
- - 🚯 [One is now a spoiled little b*tch and the other is a moody grumpy teenager. *sighs*](http://9gag.com/gag/a0ZLDbX)
- - 🚯 [Asian kids problem](http://9gag.com/gag/aGzwrzG)<!-- MEMES:END -->
+ - 🚖 [Asian kids problem](http://9gag.com/gag/aGzwrzG)
+ - 🚯 [Siblings - true story](http://9gag.com/gag/aQX4Kxe)
+ - 🚯 [The stuff you can find on the internet](http://9gag.com/gag/a81Yv9O)<!-- MEMES:END -->
 
 --- 
 
