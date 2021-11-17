@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Latest Apple Pay promo nets savings on cards from Snapfish](https://appleinsider.com/articles/21/11/17/latest-apple-pay-promo-nets-savings-on-cards-from-snapfish?utm_medium=rss)
- - [The FDA authorizes AppliedVR&#39;s EaseVRx as a prescription VR treatment for chronic lower back pain in adults &lpar;Nicole Wetsman/The Verge&rpar;](http://www.techmeme.com/211116/p47#a211116p47)
- - [Spider-Man: No Way Home’s latest trailer brings back all the bad guys](https://www.theverge.com/2021/11/16/22783510/spider-man-no-way-home-trailer-tom-holland-peter-parker-doctor-strange-villians)<!-- TECH:END -->
+ - [Theranos drained $96 million from an experienced investor — plus some blood](https://www.theverge.com/2021/11/16/22786461/elizabeth-holmes-theranos-trial-brian-grossman-pfm-investor-testimony)
+ - [Activision Blizzard Employees Are Done With CEO Bobby Kotick](https://www.wired.com/story/activision-blizzard-employees-done-with-ceo-bobby-kotick)
+ - [Latest Apple Pay promo nets savings on cards from Snapfish](https://appleinsider.com/articles/21/11/17/latest-apple-pay-promo-nets-savings-on-cards-from-snapfish?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
