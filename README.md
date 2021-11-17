@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Asian kids problem](http://9gag.com/gag/aGzwrzG)
- - 🚯 [Siblings - true story](http://9gag.com/gag/aQX4Kxe)
- - 🚯 [The stuff you can find on the internet](http://9gag.com/gag/a81Yv9O)<!-- MEMES:END -->
+ - 🚖 [The stuff you can find on the internet](http://9gag.com/gag/a81Yv9O)
+ - 🚯 [Red pants tried to kick grey pants, dont think that went well.](http://9gag.com/gag/aWgWAb2)
+ - 🚯 [Happy birthday!](http://9gag.com/gag/aAGrLEE)<!-- MEMES:END -->
 
 --- 
 
