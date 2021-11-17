@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [18 Analog Gifts For People Who Need a Digital Detox](https://www.wired.com/gallery/analog-gift-guide)
- - [The US Space Force Wants to Clean Up Junk in Orbit](https://www.wired.com/story/the-us-space-force-wants-to-clean-up-junk-in-orbit)
- - [How to Increase Your PS5&#39;s Internal Storage Capacity](https://www.wired.com/story/how-to-install-m2-ssd-storage-ps5)<!-- TECH:END -->
+ - [Analysis: Pakistan-based startups have raised ~$300M in 2021, more than the previous six years combined, with investors from the US, UAE, and Singapore &lpar;Faseeh Mangi/Bloomberg&rpar;](http://www.techmeme.com/211117/p16#a211117p16)
+ - [What to do if your Gmail is not receiving emails](https://www.androidauthority.com/gmail-not-receiving-emails-3059172/)
+ - [Patient Testimonials Are Unethical And Should Be Banned](https://www.wired.com/story/ban-patient-testimonials-ethics)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
