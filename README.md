@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Salmon at the end of their lifespan](http://9gag.com/gag/ay90AKp)
- - 🚯 [Ducks rescued a penguin that was being hunted by falcons](http://9gag.com/gag/ay90rEb)
- - 🚯 [Road rage in Saudi Arabia](http://9gag.com/gag/aBn3MXx)<!-- MEMES:END -->
+ - 🚖 [Siblings - true story](http://9gag.com/gag/aQX4Kxe)
+ - 🚯 [This is a feature.](http://9gag.com/gag/arn40r5)
+ - 🚯 [Some peoples ability and lack of fear amaze me.](http://9gag.com/gag/aOQbE2v)<!-- MEMES:END -->
 
 --- 
 
