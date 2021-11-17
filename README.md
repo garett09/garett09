@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Why does my back hurt so bad?](http://9gag.com/gag/a0ZLxez)
- - 🚯 [Yu, mi, hu&amp;hellip;](http://9gag.com/gag/aPZ4non)
+ - 🚖 [Here you go](http://9gag.com/gag/awzKev4)
+ - 🚯 [IF HE ever SAID it...IF it&amp;#039;s true or not, coz this is NICE!](http://9gag.com/gag/aqGNdZP)
  - 🚯 [A rare opportunity. Kids in bed. Mrs is out. Pizza and Halo.](http://9gag.com/gag/aVxW1qP)<!-- MEMES:END -->
 
 --- 
