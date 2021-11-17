@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Oh picky eaters...](http://9gag.com/gag/aPZ4Lzg)
- - 🚯 [Kebab ball](http://9gag.com/gag/abgyoxr)
- - 🚯 [Head to head](http://9gag.com/gag/a21YpWE)<!-- MEMES:END -->
+ - 🚖 [The ultimate litmus test](http://9gag.com/gag/avAgw2X)
+ - 🚯 [Oh picky eaters...](http://9gag.com/gag/aPZ4Lzg)
+ - 🚯 [Red pants tried to kick grey pants, dont think that went well.](http://9gag.com/gag/aWgWAb2)<!-- MEMES:END -->
 
 --- 
 
