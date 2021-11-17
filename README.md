@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Finally Makes It Easier to Fix Your Own iPhone](https://www.wired.com/story/apple-self-service-repair-right-to-repair-iphone-mac)
- - [Black Friday 2021: Deals on phones, wearables, earbuds, and more](https://www.androidauthority.com/black-friday-deals-3049753/)
- - [A group of Activision Blizzard shareholders calls for CEO Bobby Kotick and two of its longest serving board members to resign &lpar;Shannon Liao/Washington Post&rpar;](http://www.techmeme.com/211117/p29#a211117p29)<!-- TECH:END -->
+ - [Discord is quietly building an app empire of bots](https://www.theverge.com/2021/11/17/22787018/discord-bots-app-discovery-platform)
+ - [Hyundai goes really big with its latest electric concept SUV](https://www.theverge.com/2021/11/17/22787672/hyundai-seven-electric-suv-concept-la-auto-show-2021)
+ - [TikTok releases commissioned research into harmful challenges and hoaxes, which often go viral on TikTok, and adds a Safety Center section about such content &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/211117/p31#a211117p31)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
