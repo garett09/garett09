@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Some Pixel Art From The Team Behind Unpacking](https://kotaku.com/some-pixel-art-from-the-team-behind-unpacking-1848072044)
  - [A brief history of Andrew Garfield swearing he is not in Spider-Man: No Way Home](https://www.polygon.com/22785509/spider-man-no-way-home-andrew-garfield-tobey-maguire-cast)
- - [Spider-Man: No Way Home trailer unleashes the multiverse of villains](https://www.polygon.com/22703064/spider-man-no-way-home-trailer)
- - [New Nvidia driver for Battlefield 2042 available now, doesn&#39;t seem to do a lot](https://www.pcgamer.com/new-nvidia-driver-for-battlefield-2042-available-now-doesnt-seem-to-do-a-lot)<!-- GAME:END -->
+ - [Spider-Man: No Way Home trailer unleashes the multiverse of villains](https://www.polygon.com/22703064/spider-man-no-way-home-trailer)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
