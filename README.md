@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Russian traffic police use their own vehicle to protect pedestrians](http://9gag.com/gag/aYrWZNx)
- - 🚯 [Winter on Grinderwald, Switzerland](http://9gag.com/gag/aVxW4on)
- - 🚯 [It feels like it was yesterday](http://9gag.com/gag/avAgXn5)<!-- MEMES:END -->
+ - 🚖 [We are waiting for your response Elon.](http://9gag.com/gag/aOQbAV6)
+ - 🚯 [It feels like it was yesterday](http://9gag.com/gag/avAgXn5)
+ - 🚯 [My friends: getting married, having kids, being social Me at 30:](http://9gag.com/gag/aGzwNE0)<!-- MEMES:END -->
 
 --- 
 
