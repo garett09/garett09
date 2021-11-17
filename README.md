@@ -194,8 +194,8 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [The stuff you can find on the internet](http://9gag.com/gag/a81Yv9O)
- - 🚯 [Red pants tried to kick grey pants, dont think that went well.](http://9gag.com/gag/aWgWAb2)
- - 🚯 [Happy birthday!](http://9gag.com/gag/aAGrLEE)<!-- MEMES:END -->
+ - 🚯 [Man gets hit with flare gun during road rage incident](http://9gag.com/gag/a91L46K)
+ - 🚯 [Sus](http://9gag.com/gag/aGzwrdZ)<!-- MEMES:END -->
 
 --- 
 
