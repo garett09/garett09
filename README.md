@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The perk being the youngest.](http://9gag.com/gag/aBn3bWA)
+ - 🚖 [The stuff you can find on the internet](http://9gag.com/gag/a81Yv9O)
  - 🚯 [One is now a spoiled little b*tch and the other is a moody grumpy teenager. *sighs*](http://9gag.com/gag/a0ZLDbX)
- - 🚯 [Salute to the guy who didn&amp;#039;t hesitate to help the kid.](http://9gag.com/gag/a81Yvwd)<!-- MEMES:END -->
+ - 🚯 [Asian kids problem](http://9gag.com/gag/aGzwrzG)<!-- MEMES:END -->
 
 --- 
 
