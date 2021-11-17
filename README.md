@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Big Tech critic Jonathan Kanter to lead DOJ antitrust division](https://appleinsider.com/articles/21/11/17/big-tech-critic-jonathan-kanter-to-lead-doj-antitrust-division?utm_medium=rss)
- - [Evidence of &#39;SportsKit&#39; framework discovered in iOS and tvOS](https://appleinsider.com/articles/21/11/17/evidence-of-sportskit-framework-discovered-in-ios-and-tvos?utm_medium=rss)
- - [Latest Apple Pay promo nets savings on cards from Snapfish](https://appleinsider.com/articles/21/11/17/latest-apple-pay-promo-nets-savings-on-cards-from-snapfish?utm_medium=rss)<!-- TECH:END -->
+ - [Some Grab users in Southeast Asia are still reporting problems with the app over a day after outages started; Grab says &quot;core services&quot; have been restored &lpar;Bloomberg&rpar;](http://www.techmeme.com/211116/p49#a211116p49)
+ - [Over 100 Activision Blizzard employees staged a walkout on Tuesday, its second in the past four months, demanding CEO Bobby Kotick step down after a WSJ report &lpar;Shannon Liao/Washington Post&rpar;](http://www.techmeme.com/211116/p48#a211116p48)
+ - [Big Tech critic Jonathan Kanter to lead DOJ antitrust division](https://appleinsider.com/articles/21/11/17/big-tech-critic-jonathan-kanter-to-lead-doj-antitrust-division?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
