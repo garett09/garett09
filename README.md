@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The stuff you can find on the internet](http://9gag.com/gag/a81Yv9O)
- - 🚯 [Man gets hit with flare gun during road rage incident](http://9gag.com/gag/a91L46K)
- - 🚯 [Sus](http://9gag.com/gag/aGzwrdZ)<!-- MEMES:END -->
+ - 🚖 [Okay okay](http://9gag.com/gag/ay90myq)
+ - 🚯 [Sus](http://9gag.com/gag/aGzwrdZ)
+ - 🚯 [Salute to the guy who didn&amp;#039;t hesitate to help the kid.](http://9gag.com/gag/a81Yvwd)<!-- MEMES:END -->
 
 --- 
 
