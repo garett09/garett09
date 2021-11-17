@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [If you wiggle your car it gets bigger and bigger](http://9gag.com/gag/aeg0WDO)
- - 🚯 [It feels like it was yesterday](http://9gag.com/gag/avAgXn5)
- - 🚯 [Why does my back hurt so bad?](http://9gag.com/gag/a0ZLxez)<!-- MEMES:END -->
+ - 🚖 [Why does my back hurt so bad?](http://9gag.com/gag/a0ZLxez)
+ - 🚯 [Yu, mi, hu&amp;hellip;](http://9gag.com/gag/aPZ4non)
+ - 🚯 [A rare opportunity. Kids in bed. Mrs is out. Pizza and Halo.](http://9gag.com/gag/aVxW1qP)<!-- MEMES:END -->
 
 --- 
 
