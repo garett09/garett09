@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Mamma Mia](http://9gag.com/gag/a21Yjye)
- - 🚯 [IF HE ever SAID it...IF it&amp;#039;s true or not, coz this is NICE!](http://9gag.com/gag/aqGNdZP)
+ - 🚖 [A baby chimpanzee and his best friend the baby gorilla](http://9gag.com/gag/aLvPVD6)
+ - 🚯 [Mamma Mia](http://9gag.com/gag/a21Yjye)
  - 🚯 [Imagine being this entitled](http://9gag.com/gag/aggvjWv)<!-- MEMES:END -->
 
 --- 
