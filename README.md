@@ -180,8 +180,8 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- GAME:START -->
  - [AMD&#39;s 3D V-cache could be coming not only to CPUs, but GPUs too](https://www.pcgamer.com/amds-3d-v-cache-could-be-coming-not-only-to-cpus-but-gpus-too)
- - [Saints Row Delayed To August 2022](https://kotaku.com/saints-row-delayed-to-august-2022-1848072546)
- - [Intel&#39;s Sapphire Rapids HEDT and 13th Gen Raptor Lake CPUs could be coming sooner than expected](https://www.pcgamer.com/intels-sapphire-rapids-hedt-and-13th-gen-raptor-lake-cpus-could-be-coming-sooner-than-expected)<!-- GAME:END -->
+ - [The Staples Center Will Be Renamed Crypto.com Arena](https://kotaku.com/the-staples-center-will-be-renamed-crypto-com-arena-1848072690)
+ - [Saints Row Delayed To August 2022](https://kotaku.com/saints-row-delayed-to-august-2022-1848072546)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
