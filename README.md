@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [We are waiting for your response Elon.](http://9gag.com/gag/aOQbAV6)
- - 🚯 [It feels like it was yesterday](http://9gag.com/gag/avAgXn5)
- - 🚯 [My friends: getting married, having kids, being social Me at 30:](http://9gag.com/gag/aGzwNE0)<!-- MEMES:END -->
+ - 🚖 [Robbing a place without checking your surroundings](http://9gag.com/gag/a51P9eg)
+ - 🚯 [A baby chimpanzee and his best friend the baby gorilla](http://9gag.com/gag/aLvPVD6)
+ - 🚯 [We are waiting for your response Elon.](http://9gag.com/gag/aOQbAV6)<!-- MEMES:END -->
 
 --- 
 
