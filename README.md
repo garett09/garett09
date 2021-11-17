@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Black Friday SSD deals 2021: the fastest PC storage for the best price](https://www.pcgamer.com/black-friday-ssd-deals-2021)
- - [Riverdale has found an even more thrilling shark to jump: Midsommar](https://www.polygon.com/22786073/riverdale-midsommar-rivervale-season-6-cult)
- - [Black Friday gaming monitor deals 2021: the best and brightest screens at great prices](https://www.pcgamer.com/black-friday-gaming-monitor-deals-2021)<!-- GAME:END -->
+ - [Inside the art design of Heavenly Bodies, launching December 7](https://blog.playstation.com/2021/11/17/inside-the-art-design-of-heavenly-bodies-launching-december-7/)
+ - [Inside the art design of Heavenly Bodies, launching December 7](https://blog.playstation.com/2021/11/17/inside-the-art-design-of-heavenly-bodies-launching-december-7/)
+ - [Pokémon Brilliant Diamond and Shining Pearl recapture the magic of a simpler, better time](https://www.polygon.com/reviews/22785807/pokemon-brilliant-diamond-shining-pearl-review-nintendo-switch)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
