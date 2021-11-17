@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Beats partners with Fragment Design on limited edition Beats Flex](https://appleinsider.com/articles/21/11/16/beats-partners-with-fragment-design-on-limited-edition-beats-flex?utm_medium=rss)
- - [The best early Black Friday Laptop deals](https://www.androidauthority.com/best-laptop-deals-1109232/)
- - [Israeli spyware vendor Candiru, recently blacklisted by the US, waged &quot;watering hole&quot; attacks on UK and Middle East websites critical of Saudi Arabia and others &lpar;Lorenzo Franceschi-Bicchierai/VICE&rpar;](http://www.techmeme.com/211116/p41#a211116p41)<!-- TECH:END -->
+ - [Star Trek: Discovery is leaving Netflix tonight before heading to Paramount Plus](https://www.theverge.com/2021/11/16/22786263/star-trek-discovery-is-leaving-netflix-tonight-before-heading-to-paramount-plus)
+ - [Code in the betas of iOS 15.2 reveals the existence of a private &quot;SportsKit&quot; framework, currently integrated with Apple TV app, Siri, and home screen widgets &lpar;Filipe Esp&amp;oacute;sito/9to5Mac&rpar;](http://www.techmeme.com/211116/p44#a211116p44)
+ - [Microsoft and Uber are leaving the Internet Association; Microsoft says it&#39;s decision to leave was part of a review to &quot;ensure alignment with our policy agenda&quot; &lpar;Ashley Gold/Axios&rpar;](http://www.techmeme.com/211116/p43#a211116p43)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
