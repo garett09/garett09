@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [India is not for beginners](http://9gag.com/gag/a11e8jG)
- - 🚯 [Salmon at the end of their lifespan](http://9gag.com/gag/ay90AKp)
- - 🚯 [Some peoples ability and lack of fear amaze me.](http://9gag.com/gag/aOQbE2v)<!-- MEMES:END -->
+ - 🚖 [Salmon at the end of their lifespan](http://9gag.com/gag/ay90AKp)
+ - 🚯 [Oh picky eaters...](http://9gag.com/gag/aPZ4Lzg)
+ - 🚯 [Ducks rescued a penguin that was being hunted by falcons](http://9gag.com/gag/ay90rEb)<!-- MEMES:END -->
 
 --- 
 
