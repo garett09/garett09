@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Game Pass Has PC Games – PC Builder Series: Forza Horizon 5](https://news.xbox.com/en-us/2021/11/17/game-pass-has-pc-games-pc-builder-series-forza-horizon-5/)
- - [The best gaming monitors in 2021](https://www.pcgamer.com/best-gaming-monitor)
- - [Pixar’s Turning Red transforms a teenager into a giant red panda](https://www.polygon.com/22787153/pixars-turning-red-trailer-release-date)<!-- GAME:END -->
+ - [Empire of Sin expands with a free Precincts Update and premium Make It Count DLC](https://blog.playstation.com/2021/11/17/empire-of-sin-expands-with-a-free-precincts-update-and-premium-make-it-count-dlc/)
+ - [Empire of Sin expands with a free Precincts Update and premium Make It Count DLC](https://blog.playstation.com/2021/11/17/empire-of-sin-expands-with-a-free-precincts-update-and-premium-make-it-count-dlc/)
+ - [Xbox Cloud Gaming Launches on Xbox Series X|S and Xbox One Consoles](https://news.xbox.com/en-us/2021/11/17/xbox-cloud-gaming-launches-on-console/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
