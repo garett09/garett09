@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Siblings - true story](http://9gag.com/gag/aQX4Kxe)
- - 🚯 [This is a feature.](http://9gag.com/gag/arn40r5)
+ - 🚖 [India is not for beginners](http://9gag.com/gag/a11e8jG)
+ - 🚯 [Salmon at the end of their lifespan](http://9gag.com/gag/ay90AKp)
  - 🚯 [Some peoples ability and lack of fear amaze me.](http://9gag.com/gag/aOQbE2v)<!-- MEMES:END -->
 
 --- 
