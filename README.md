@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Power Rangers Dino Charge Villain Poisandra Enters the Grid](https://news.xbox.com/en-us/2021/11/17/power-rangers-dino-charge-villain-poisandra-enters-the-grid/)
- - [Lord of the Rings is helping keep a 50-year-old shade of lipstick alive](https://www.polygon.com/lord-of-the-rings/22787233/clinique-black-honey-tiktok-lord-of-the-rings)
- - [Tiger King 2 struggles to find a pace, a purpose, or a focus](https://www.polygon.com/22788079/tiger-king-2-review-netflix-joe-exotic)<!-- GAME:END -->
+ - [Explore, Leap and Shoot in Tamarin, Available Now](https://news.xbox.com/en-us/2021/11/17/explore-leap-and-shoot-in-tamarin-available-now/)
+ - [How to not suck at Halo Infinite](https://www.pcgamer.com/how-to-not-suck-at-halo-infinite)
+ - [Streamlabs drops ‘OBS’ from company name in response to recent controversy](https://www.polygon.com/22787950/streamlabs-obs-controversy-company-name-change-twitch)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
