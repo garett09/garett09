@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Discord is quietly building an app empire of bots](https://www.theverge.com/2021/11/17/22787018/discord-bots-app-discovery-platform)
- - [Hyundai goes really big with its latest electric concept SUV](https://www.theverge.com/2021/11/17/22787672/hyundai-seven-electric-suv-concept-la-auto-show-2021)
- - [TikTok releases commissioned research into harmful challenges and hoaxes, which often go viral on TikTok, and adds a Safety Center section about such content &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/211117/p31#a211117p31)<!-- TECH:END -->
+ - [If your iPhone 12 or 13 is having issues with calls, updating iOS may help](https://www.theverge.com/2021/11/17/22787756/iphone-ios-update-15-1-1-call-dropping-issue)
+ - [Withings’ ScanWatch takes an extra step to start using its EKG](https://www.theverge.com/2021/11/17/22787159/withings-scanwatch-ekg-review-fda)
+ - [Instagram cutting off support to companion app Threads by the end of 2021](https://appleinsider.com/articles/21/11/17/instagram-cutting-off-support-to-companion-app-threads-by-the-end-of-2021?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
