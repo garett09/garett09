@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Salmon at the end of their lifespan](http://9gag.com/gag/ay90AKp)
- - 🚯 [Oh picky eaters...](http://9gag.com/gag/aPZ4Lzg)
- - 🚯 [Ducks rescued a penguin that was being hunted by falcons](http://9gag.com/gag/ay90rEb)<!-- MEMES:END -->
+ - 🚖 [Oh picky eaters...](http://9gag.com/gag/aPZ4Lzg)
+ - 🚯 [Kebab ball](http://9gag.com/gag/abgyoxr)
+ - 🚯 [Head to head](http://9gag.com/gag/a21YpWE)<!-- MEMES:END -->
 
 --- 
 
