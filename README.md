@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [AMD&#39;s 3D V-cache could be coming not only to CPUs, but GPUs too](https://www.pcgamer.com/amds-3d-v-cache-could-be-coming-not-only-to-cpus-but-gpus-too)
  - [Saints Row Delayed To August 2022](https://kotaku.com/saints-row-delayed-to-august-2022-1848072546)
- - [Intel&#39;s Sapphire Rapids HEDT and 13th Gen Raptor Lake CPUs could be coming sooner than expected](https://www.pcgamer.com/intels-sapphire-rapids-hedt-and-13th-gen-raptor-lake-cpus-could-be-coming-sooner-than-expected)
- - [IBM&#39;s new quantum processor more than doubles qubit capacity](https://www.pcgamer.com/ibms-new-quantum-processor-more-than-doubles-qubit-capacity)<!-- GAME:END -->
+ - [Intel&#39;s Sapphire Rapids HEDT and 13th Gen Raptor Lake CPUs could be coming sooner than expected](https://www.pcgamer.com/intels-sapphire-rapids-hedt-and-13th-gen-raptor-lake-cpus-could-be-coming-sooner-than-expected)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
