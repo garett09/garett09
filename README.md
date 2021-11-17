@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Singapore, which is often portrayed as an aspiring techno-utopia, is edging closer to a surveillance state amid a nationwide move toward constant vigilance &lpar;Peter Guest/Rest of World&rpar;](http://www.techmeme.com/211117/p26#a211117p26)
- - [The best Chromebook for 2021](https://www.theverge.com/21296102/best-chromebooks)
- - [UPS will make deliveries using Waymo’s autonomous Class 8 trucks](https://www.theverge.com/2021/11/17/22787278/ups-waymo-autonomous-truck-freight-texas-deliveries)<!-- TECH:END -->
+ - [Apple Watch Series 7 review: Minute upgrades](https://www.androidauthority.com/apple-watch-series-7-review-3041122/)
+ - [Nym Technologies, which provides network-level privacy through its blockchain-based &quot;mixnet&quot;, raises a $13M Series A led by a16z at a $270M valuation &lpar;Nina Bambysheva/Forbes&rpar;](http://www.techmeme.com/211117/p28#a211117p28)
+ - [Xbox Cloud Gaming is starting to roll out to Xbox consoles](https://www.theverge.com/2021/11/17/22787396/xbox-cloud-gaming-consoles-series-x-s-one)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
