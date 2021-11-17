@@ -193,7 +193,7 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Imagine being this entitled](http://9gag.com/gag/aggvjWv)
+ - 🚖 [How should I call this?.... Baskheadball ??....](http://9gag.com/gag/a61y3pA)
  - 🚯 [Russian traffic police use their own vehicle to protect pedestrians](http://9gag.com/gag/aYrWZNx)
  - 🚯 [A baby chimpanzee and his best friend the baby gorilla](http://9gag.com/gag/aLvPVD6)<!-- MEMES:END -->
 
