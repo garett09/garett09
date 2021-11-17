@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [F1 2021: Daniel Ricciardo’s Designed Items Now on Podium Pass Series 3](https://news.xbox.com/en-us/2021/11/17/f1-2021-daniel-ricciardo-designed-items/)
- - [Splinter Cell Chaos Theory Is Free Right Now On PC](https://kotaku.com/splinter-cell-chaos-theory-is-free-right-now-on-pc-1848075966)
- - [Atari’s New Collectible Game Cartridges Off To A Rocky Start](https://kotaku.com/atari-s-new-collectible-game-cartridges-off-to-a-rocky-1848075679)<!-- GAME:END -->
+ - [Naturo Fortnite skins allow Sasuke to dab, get sniped by Sakura](https://www.polygon.com/22787685/naturo-fortnite-skins-sasuke-sakura-kakashi-memes)
+ - [Transformers Roll Out in the November Smite Update](https://news.xbox.com/en-us/2021/11/17/transformers-roll-out-in-the-november-smite-update/)
+ - [Windjammers 2 Is Coming to Xbox One and Xbox Game Pass](https://news.xbox.com/en-us/2021/11/17/windjammers-2-is-coming-to-xbox-one-and-xbox-game-pass/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
