@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iFixit calls Apple Self Service Repair program a &#39;total shift in perspective&#39;](https://appleinsider.com/articles/21/11/17/ifixit-calls-apple-self-service-repair-program-a-total-shift-in-perspective?utm_medium=rss)
- - [PlayStation boss reportedly calls out Activision Blizzard in staff memo](https://www.theverge.com/2021/11/17/22787848/playstation-boss-jim-ryan-calls-out-activision-blizzard-staff-memo)
- - [Wyze Buds Pro review: budget Bluetooth buds worth buying](https://www.theverge.com/22787814/wyze-buds-pro-review-earbuds-headphones-audio-price)<!-- TECH:END -->
+ - [HaptX says Meta copied its patented design for haptic glove](https://www.theverge.com/2021/11/17/22788052/haptx-haptic-glove-design-meta-facebook-patent-infringement-allegation)
+ - [Apple&#39;s &#39;iPhone 14&#39; and AR headset to sport Wi-Fi 6E, says Kuo](https://appleinsider.com/articles/21/11/17/apples-iphone-14-and-ar-headset-to-sport-wi-fi-6e-says-kuo?utm_medium=rss)
+ - [Nvidia beats with record Q3 revenue of $7.1B vs. $6.82B estimated, up 50% YoY, Gaming revenue of $3.22B, up 42%, and Data Center revenue of $2.94B, up 55% &lpar;Daniel Howley/Yahoo Finance&rpar;](http://www.techmeme.com/211117/p37#a211117p37)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
