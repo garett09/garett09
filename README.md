@@ -186,8 +186,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Theranos drained $96 million from an experienced investor — plus some blood](https://www.theverge.com/2021/11/16/22786461/elizabeth-holmes-theranos-trial-brian-grossman-pfm-investor-testimony)
- - [Activision Blizzard Employees Are Done With CEO Bobby Kotick](https://www.wired.com/story/activision-blizzard-employees-done-with-ceo-bobby-kotick)
+ - [Big Tech critic Jonathan Kanter to lead DOJ antitrust division](https://appleinsider.com/articles/21/11/17/big-tech-critic-jonathan-kanter-to-lead-doj-antitrust-division?utm_medium=rss)
+ - [Evidence of &#39;SportsKit&#39; framework discovered in iOS and tvOS](https://appleinsider.com/articles/21/11/17/evidence-of-sportskit-framework-discovered-in-ios-and-tvos?utm_medium=rss)
  - [Latest Apple Pay promo nets savings on cards from Snapfish](https://appleinsider.com/articles/21/11/17/latest-apple-pay-promo-nets-savings-on-cards-from-snapfish?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
