@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: China is empowering a quasi-government body to certify local suppliers in areas like cloud and semiconductors to reduce reliance on foreign tech &lpar;Bloomberg&rpar;](http://www.techmeme.com/211117/p3#a211117p3)
- - [Porsche debuts track-only 718 Cayman GT4 RS Clubsport at LA Auto Show     - Roadshow](https://www.cnet.com/roadshow/news/porsche-718-cayman-gt4-rs-clubsport-la-auto-show/#ftag=CAD590a51e)
- - [Mozilla launches Firefox Relay, which offers up to five email aliases, out of beta, and introduces a $0.99/month premium tier for unlimited aliases &lpar;Richard Speed/The Register&rpar;](http://www.techmeme.com/211117/p2#a211117p2)<!-- TECH:END -->
+ - [LA&#39;s iconic Staples Center to be renamed as Crypto.com Arena, sources say in a deal worth $700M+ for 20 years &lpar;Sam Dean/Los Angeles Times&rpar;](http://www.techmeme.com/211117/p5#a211117p5)
+ - [Analysis: the top five most-followed accounts on TikTok do not rank in the top 50 on Facebook, YouTube, Twitter, or Instagram &lpar;Axios&rpar;](http://www.techmeme.com/211117/p4#a211117p4)
+ - [LA’s Staples Center will be renamed ‘Crypto.com Arena’](https://www.theverge.com/2021/11/17/22786809/staples-center-arena-los-angeles-renaming-crypto-com)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
