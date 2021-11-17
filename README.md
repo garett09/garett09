@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Online lender Oportun agrees to buy neobank Digit for $212.9M in equity and cash to expand its AI and digital capabilities &lpar;Katherine Chiglinsky/Bloomberg&rpar;](http://www.techmeme.com/211117/p1#a211117p1)
- - [PlanetScale, a serverless database powered by Vitess and MySQL, raises a $50M Series C led by Kleiner Perkins, bringing its total raised to $105M &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/211116/p51#a211116p51)
- - [Best adjustable mattress in 2021     - CNET](https://www.cnet.com/health/sleep/best-adjustable-mattress/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: China is empowering a quasi-government body to certify local suppliers in areas like cloud and semiconductors to reduce reliance on foreign tech &lpar;Bloomberg&rpar;](http://www.techmeme.com/211117/p3#a211117p3)
+ - [Porsche debuts track-only 718 Cayman GT4 RS Clubsport at LA Auto Show     - Roadshow](https://www.cnet.com/roadshow/news/porsche-718-cayman-gt4-rs-clubsport-la-auto-show/#ftag=CAD590a51e)
+ - [Mozilla launches Firefox Relay, which offers up to five email aliases, out of beta, and introduces a $0.99/month premium tier for unlimited aliases &lpar;Richard Speed/The Register&rpar;](http://www.techmeme.com/211117/p2#a211117p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
