@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [UK government orders six-month inquisition into Nvidia&#39;s ARM acquisition](https://www.pcgamer.com/uk-government-orders-six-month-inquisition-into-nvidias-arm-acquisition)
- - [AMD&#39;s 3D V-cache could be coming not only to CPUs, but GPUs too](https://www.pcgamer.com/amds-3d-v-cache-could-be-coming-not-only-to-cpus-but-gpus-too)
- - [The Staples Center Will Be Renamed Crypto.com Arena](https://kotaku.com/the-staples-center-will-be-renamed-crypto-com-arena-1848072690)<!-- GAME:END -->
+ - [The best Intel CPU Black Friday deals: save on an Intel Core processor for your PC](https://www.pcgamer.com/intel-core-cpu-black-friday-deals-2021)
+ - [HyperX is making a new play for the wireless gaming headset crown. This time in 3D](https://www.pcgamer.com/hyperx-is-making-a-new-play-for-the-wireless-gaming-headset-crown-this-time-in-3d)
+ - [UK government orders six-month inquisition into Nvidia&#39;s ARM acquisition](https://www.pcgamer.com/uk-government-orders-six-month-inquisition-into-nvidias-arm-acquisition)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
