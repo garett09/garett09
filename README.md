@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best Intel CPU Black Friday deals: save on an Intel Core processor for your PC](https://www.pcgamer.com/intel-core-cpu-black-friday-deals-2021)
- - [HyperX is making a new play for the wireless gaming headset crown. This time in 3D](https://www.pcgamer.com/hyperx-is-making-a-new-play-for-the-wireless-gaming-headset-crown-this-time-in-3d)
- - [UK government orders six-month inquisition into Nvidia&#39;s ARM acquisition](https://www.pcgamer.com/uk-government-orders-six-month-inquisition-into-nvidias-arm-acquisition)<!-- GAME:END -->
+ - [The best CPU for gaming in 2021](https://www.pcgamer.com/best-cpu-for-gaming)
+ - [The best AMD CPU Black Friday deals: save on an AMD Ryzen processor for your PC](https://www.pcgamer.com/amd-cpu-black-friday-deals-2021)
+ - [Halo Infinite&#39;s Brute Choppers can&#39;t stop taking flight](https://www.pcgamer.com/halo-infinites-brute-choppers-cant-stop-taking-flight)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
