@@ -188,7 +188,7 @@ Windows                  3 hrs 9 mins        ███████████�
 <!-- TECH:START -->
  - [Some Grab users in Southeast Asia are still reporting problems with the app over a day after outages started; Grab says &quot;core services&quot; have been restored &lpar;Bloomberg&rpar;](http://www.techmeme.com/211116/p49#a211116p49)
  - [Over 100 Activision Blizzard employees staged a walkout on Tuesday, its second in the past four months, demanding CEO Bobby Kotick step down after a WSJ report &lpar;Shannon Liao/Washington Post&rpar;](http://www.techmeme.com/211116/p48#a211116p48)
- - [Big Tech critic Jonathan Kanter to lead DOJ antitrust division](https://appleinsider.com/articles/21/11/17/big-tech-critic-jonathan-kanter-to-lead-doj-antitrust-division?utm_medium=rss)<!-- TECH:END -->
+ - [2023 Nissan Ariya EV reservations open, prices start at $47,125     - Roadshow](https://www.cnet.com/roadshow/news/2023-nissan-ariya-ev-reservations-prices/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
