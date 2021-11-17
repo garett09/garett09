@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [LA&#39;s iconic Staples Center to be renamed as Crypto.com Arena, sources say in a deal worth $700M+ for 20 years &lpar;Sam Dean/Los Angeles Times&rpar;](http://www.techmeme.com/211117/p5#a211117p5)
- - [Analysis: the top five most-followed accounts on TikTok do not rank in the top 50 on Facebook, YouTube, Twitter, or Instagram &lpar;Axios&rpar;](http://www.techmeme.com/211117/p4#a211117p4)
- - [LA’s Staples Center will be renamed ‘Crypto.com Arena’](https://www.theverge.com/2021/11/17/22786809/staples-center-arena-los-angeles-renaming-crypto-com)<!-- TECH:END -->
+ - [Google ‘improves’ Pixel 6 fingerprint sensor with surprise mid-month update](https://www.androidauthority.com/pixel-6-mid-november-update-3060511/)
+ - [Tiger King 2 Provides More Memes Than Answers](https://www.wired.com/story/tiger-king-2-review)
+ - [B&amp;H launches early Black Friday sale: Up to $400 off new MacBooks, iPads, iMacs](https://appleinsider.com/articles/21/11/17/bh-launches-early-black-friday-sale-up-to-400-off-new-macbooks-ipads-imacs?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
