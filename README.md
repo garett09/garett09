@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [UK government orders six-month inquisition into Nvidia&#39;s ARM acquisition](https://www.pcgamer.com/uk-government-orders-six-month-inquisition-into-nvidias-arm-acquisition)
  - [AMD&#39;s 3D V-cache could be coming not only to CPUs, but GPUs too](https://www.pcgamer.com/amds-3d-v-cache-could-be-coming-not-only-to-cpus-but-gpus-too)
- - [The Staples Center Will Be Renamed Crypto.com Arena](https://kotaku.com/the-staples-center-will-be-renamed-crypto-com-arena-1848072690)
- - [Saints Row Delayed To August 2022](https://kotaku.com/saints-row-delayed-to-august-2022-1848072546)<!-- GAME:END -->
+ - [The Staples Center Will Be Renamed Crypto.com Arena](https://kotaku.com/the-staples-center-will-be-renamed-crypto-com-arena-1848072690)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
