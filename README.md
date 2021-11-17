@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Saints Row delayed, could arrive as late as 2023](https://www.pcgamer.com/saints-row-delayed-could-arrive-as-late-as-2023)
  - [Some Pixel Art From The Team Behind Unpacking](https://kotaku.com/some-pixel-art-from-the-team-behind-unpacking-1848072044)
- - [A brief history of Andrew Garfield swearing he is not in Spider-Man: No Way Home](https://www.polygon.com/22785509/spider-man-no-way-home-andrew-garfield-tobey-maguire-cast)
- - [Spider-Man: No Way Home trailer unleashes the multiverse of villains](https://www.polygon.com/22703064/spider-man-no-way-home-trailer)<!-- GAME:END -->
+ - [A brief history of Andrew Garfield swearing he is not in Spider-Man: No Way Home](https://www.polygon.com/22785509/spider-man-no-way-home-andrew-garfield-tobey-maguire-cast)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
