@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Robbing a place without checking your surroundings](http://9gag.com/gag/a51P9eg)
- - 🚯 [A baby chimpanzee and his best friend the baby gorilla](http://9gag.com/gag/aLvPVD6)
- - 🚯 [We are waiting for your response Elon.](http://9gag.com/gag/aOQbAV6)<!-- MEMES:END -->
+ - 🚖 [The terrifying wake of this a crocodile](http://9gag.com/gag/aGzw655)
+ - 🚯 [What a nice family trip](http://9gag.com/gag/aOQbA0E)
+ - 🚯 [The perk being the youngest.](http://9gag.com/gag/aBn3bWA)<!-- MEMES:END -->
 
 --- 
 
