@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I love my new hoodie!](http://9gag.com/gag/axBZe0K)
- - 🚯 [Can you hear the theme song?](http://9gag.com/gag/aqGNp3p)
- - 🚯 [One is now a spoiled little b*tch and the other is a moody grumpy teenager. *sighs*](http://9gag.com/gag/a0ZLDbX)<!-- MEMES:END -->
+ - 🚖 [The perk being the youngest.](http://9gag.com/gag/aBn3bWA)
+ - 🚯 [One is now a spoiled little b*tch and the other is a moody grumpy teenager. *sighs*](http://9gag.com/gag/a0ZLDbX)
+ - 🚯 [Salute to the guy who didn&amp;#039;t hesitate to help the kid.](http://9gag.com/gag/a81Yvwd)<!-- MEMES:END -->
 
 --- 
 
