@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [When is the next Samsung Unpacked event? It could be in January     - CNET](https://www.cnet.com/tech/mobile/when-is-the-next-samsung-unpacked-event-it-could-be-in-january/#ftag=CAD590a51e)
- - [B&amp;H launches early Black Friday sale: Up to $400 off new MacBooks, iPads, iMacs](https://appleinsider.com/articles/21/11/17/bh-launches-early-black-friday-sale-up-to-400-off-new-macbooks-ipads-imacs?utm_medium=rss)
- - [Google ‘improves’ Pixel 6 fingerprint sensor with surprise mid-month update](https://www.androidauthority.com/pixel-6-mid-november-update-3060511/)<!-- TECH:END -->
+ - [Sonos finally adds DTS audio support to its home theater lineup](https://www.theverge.com/2021/11/17/22786914/sonos-dts-audio-support-beam-playbar-playbase-arc-amp-battery-saver-mode-13-4-update)
+ - [Miramax sues Quentin Tarantino over copyright infringement for selling NFTs based on Pulp Fiction screenplay excerpts; Miramax says it owns screenplay rights &lpar;Gene Maddaus/Variety&rpar;](http://www.techmeme.com/211117/p8#a211117p8)
+ - [As Moscow Metro introduces Face Pay, digital privacy activists express alarm at the implications of introducing city-wide facial recognition &lpar;Celestine Bohlen/New York Times&rpar;](http://www.techmeme.com/211117/p7#a211117p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
