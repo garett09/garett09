@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How should I call this?.... Baskheadball ??....](http://9gag.com/gag/a61y3pA)
- - 🚯 [Russian traffic police use their own vehicle to protect pedestrians](http://9gag.com/gag/aYrWZNx)
- - 🚯 [A rare opportunity. Kids in bed. Mrs is out. Pizza and Halo.](http://9gag.com/gag/aVxW1qP)<!-- MEMES:END -->
+ - 🚖 [Russian traffic police use their own vehicle to protect pedestrians](http://9gag.com/gag/aYrWZNx)
+ - 🚯 [Winter on Grinderwald, Switzerland](http://9gag.com/gag/aVxW4on)
+ - 🚯 [It feels like it was yesterday](http://9gag.com/gag/avAgXn5)<!-- MEMES:END -->
 
 --- 
 
