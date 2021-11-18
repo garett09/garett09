@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The HyperX Cloud II is a great headset at 20% off](https://www.pcgamer.com/the-hyperx-cloud-ii-is-a-great-headset-at-20-off)
- - [Exclusive Hearthstone card reveal: Ivus, the Forest Lord](https://www.pcgamer.com/exclusive-hearthstone-card-reveal-ivus-the-forest-lord)
- - [Let&#39;s Meet The Board Members Supporting Besieged Activision Blizzard CEO Bobby Kotick](https://kotaku.com/lets-meet-the-board-members-supporting-besieged-activis-1848079283)<!-- GAME:END -->
+ - [Xbox boss Phil Spencer is a bit worried about &#39;exploitative&#39; NFTs](https://www.pcgamer.com/xbox-boss-phil-spencer-is-a-bit-worried-about-exploitative-nfts)
+ - [Halo Infinite&#39;s Battle Pass progression will be changed following widespread criticism](https://www.pcgamer.com/halo-infinites-battle-pass-progression-will-be-changed-following-widespread-criticism)
+ - [Best Black Friday PC gaming deals in Australia: discounts on everything from monitors to chairs](https://www.pcgamer.com/black-friday-2021-the-pc-gaming-deals-you-can-expect-in-australia)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
