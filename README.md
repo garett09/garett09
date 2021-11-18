@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [States attorneys general investigating Instagram&#39;s effects on kids](https://appleinsider.com/articles/21/11/18/states-attorneys-general-investigating-instagrams-effects-on-kids?utm_medium=rss)
- - [Facebook tests giving more control of News Feed content to users again](https://www.theverge.com/2021/11/18/22789969/facebook-tests-control-news-feed-algorithm-preferences)
- - [Early Black Friday deal: Save $150 on Apple&#39;s loaded Mac mini &lpar;M1, 16GB RAM, 1TB&rpar;](https://appleinsider.com/articles/21/11/18/early-black-friday-deal-save-150-on-apples-loaded-mac-mini-m1-16gb-ram-1tb?utm_medium=rss)<!-- TECH:END -->
+ - [Dimensity 9000 revealed: Mediatek takes aim at the Snapdragon 800 series](https://www.androidauthority.com/mediatek-dimensity-9000-3059984/)
+ - [The best early Black Friday deals you can get right now](https://www.theverge.com/22759214/black-friday-early-deals-best-headphones-laptops-gaming-tvs-tech-sale)
+ - [MediaTek’s new Dimensity 9000 flagship could compete with Qualcomm’s top-tier Snapdragon chips](https://www.theverge.com/2021/11/18/22790189/mediatek-dimensity-9000-flagship-chip-qualcomm-snapdragon-competition-arm)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
