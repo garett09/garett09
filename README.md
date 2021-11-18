@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple, Drake and others face $750 million lawsuit over Astroworld deaths](https://appleinsider.com/articles/21/11/18/apple-drake-and-others-face-750-million-lawsuit-over-astroworld-deaths?utm_medium=rss)
- - [Cortex, which helps development teams manage microservices architecture, raises a $15M Series A led by Tiger Global and Sequoia Capital &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/211118/p25#a211118p25)
- - [Best deals Nov. 18: Big Woot Samsung monitor sale, $30 off Microsoft 365 Family, more!](https://appleinsider.com/articles/21/11/18/best-deals-nov-18-big-woot-samsung-monitor-sale-30-off-microsoft-365-family-more?utm_medium=rss)<!-- TECH:END -->
+ - [Farmers Business Network, which makes software for the agricultural industry, raises $300M Series G at a $4B valuation and says it could go public next year &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/211118/p28#a211118p28)
+ - [New OWC miniStack adds storage options, Thunderbolt hub to Mac mini](https://appleinsider.com/articles/21/11/18/owc-unveiles-new-ministack-thunderbolt-4-storage-expansion-hub?utm_medium=rss)
+ - [Comet, which provides tools for data scientists and others to build ML models, raises a $50M Series B led by OpenView, bringing its total funding to almost $70M &lpar;Ron Miller/TechCrunch&rpar;](http://www.techmeme.com/211118/p27#a211118p27)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
