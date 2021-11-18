@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Airwallex, a payments platform for international purchases, raises $100M led by Lone Pine Capital at a $5.5B valuation, adding to its September $200M Series E &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/211117/p43#a211117p43)
- - [That ‘real’ Disney lightsaber? You’ll never get to touch it](https://www.theverge.com/2021/11/17/22788415/disney-star-wars-real-lightsaber-galactic-starcruiser)
- - [AllTrails, an app with 40M+ downloads and 1M+ paid subscribers that provides resources for hikers, bikers, and climbers, raises $150M from Permira &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/211117/p42#a211117p42)<!-- TECH:END -->
+ - [Rittenhouse defense calls for mistrial because Apple Mail compressed a video](https://appleinsider.com/articles/21/11/18/rittenhouse-defense-calls-for-mistrial-after-apple-mail-compresses-video?utm_medium=rss)
+ - [Australia-based Practice Ignition, which offers client engagement and commerce services for businesses, raises a $50M Series C led by JMI Equity &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/211117/p44#a211117p44)
+ - [Airwallex, a payments platform for international purchases, raises $100M led by Lone Pine Capital at a $5.5B valuation, adding to its September $200M Series E &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/211117/p43#a211117p43)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
