@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Xbox November update brings quick controller swaps, lower latency, and accessibility tags](https://www.theverge.com/2021/11/18/22788956/xbox-november-update-controller-firmware-dli-features)
- - [How to use Alexa Household accounts](https://www.androidauthority.com/how-to-use-alexa-household-accounts-3058324/)
- - [Amazon&#39;s Dark Secret: It Has Failed to Protect Your Data](https://www.wired.com/story/amazon-failed-to-protect-your-data-investigation)<!-- TECH:END -->
+ - [Spotify expands real-time lyrics to all users globally in partnership with Musixmatch, after initially launching in 26 markets &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/211118/p11#a211118p11)
+ - [Alibaba misses with Q2 sales of $31.4B, up 29% YoY but below $32.1B estimates, as net income reached $846M &lpar;Coco Liu/Bloomberg&rpar;](http://www.techmeme.com/211118/p10#a211118p10)
+ - [Apple again asks Court of Appeal to stay Epic Games injunction](https://appleinsider.com/articles/21/11/18/apple-again-asks-court-of-appeal-to-stay-epic-games-injunction?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
