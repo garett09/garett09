@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Czech &amp; Slovak Games Week Is in Full Swing](https://news.xbox.com/en-us/2021/11/18/czech-slovak-games-week-is-in-full-swing/)
- - [Inscryption fans solved the game’s wildest puzzles, but it’s just as brilliant without them](https://www.polygon.com/22785437/inscryption-arg-explainer-mystery-lore-gamefuna-scrybes-narrative)
- - [Hundreds of Activision Blizzard employees sign petition demanding Bobby Kotick&#39;s removal](https://www.pcgamer.com/hundreds-of-activision-blizzard-employees-sign-petition-demanding-bobby-koticks-removal)<!-- GAME:END -->
+ - [Earthworm Jim, the cult classic video game hero, is getting a new TV show](https://www.polygon.com/22789404/earthworm-jim-tv-series-animated)
+ - [Xbox Boss &#39;Disturbed&#39; By What&#39;s Going On At Activision Blizzard, Reconsidering Relationship](https://kotaku.com/xbox-boss-disturbed-by-whats-going-on-at-activision-bli-1848085302)
+ - [Bungie details ability changes for Destiny 2’s ‘biggest balance patch ever’](https://www.polygon.com/22789952/destiny-2-bungie-details-ability-changes-30th-anniversary-event-shatterdive)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
