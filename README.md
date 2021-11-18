@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Halo Infinite’s better Battle Pass progression is now live](https://www.theverge.com/2021/11/18/22788990/halo-infinite-battle-pass-progression-xp-changes)
- - [Winklevoss&#39; cryptocurrency exchange Gemini raises $400M led by Morgan Creek Digital at a $7.1B valuation &lpar;Michael del Castillo/Forbes&rpar;](http://www.techmeme.com/211118/p30#a211118p30)
- - [Microsoft Edge is getting price tracking and leaked passwords features](https://www.theverge.com/2021/11/18/22788952/microsoft-edge-price-tracking-leaked-password-features)<!-- TECH:END -->
+ - [FCC votes to let people text ‘988’ to reach the National Suicide Prevention Lifeline starting in July](https://www.theverge.com/2021/11/18/22789388/fcc-text-988-national-suicide-prevention-lifeline)
+ - [Apple ramps up work on fully autonomous &#39;Apple Car,&#39; targets 2025 release](https://appleinsider.com/articles/21/11/18/apple-ramps-up-work-on-fully-autonomous-apple-car-targets-2025-release?utm_medium=rss)
+ - [Belkin’s new $150 3-in-1 charger is the first to get Apple Watch Series 7 fast charging](https://www.theverge.com/2021/11/18/22785707/belkin-apple-watch-series-7-fast-charging-magsafe-charger-boost-charge)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
