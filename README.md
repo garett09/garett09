@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Mogosesti, Romania &lpar;happened today&rpar;](http://9gag.com/gag/aE814OO)
- - 🚯 [Curse you! Nice body!](http://9gag.com/gag/a51PYgO)
- - 🚯 [Head to head](http://9gag.com/gag/a21YpWE)<!-- MEMES:END -->
+ - 🚖 [If at first you don&amp;#039;t succeed...](http://9gag.com/gag/a91LGZo)
+ - 🚯 [Mogosesti, Romania &lpar;happened today&rpar;](http://9gag.com/gag/aE814OO)
+ - 🚯 [Man wins lottery](http://9gag.com/gag/a313Ooe)<!-- MEMES:END -->
 
 --- 
 
