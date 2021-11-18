@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spotify expands real-time lyrics to all users globally in partnership with Musixmatch, after initially launching in 26 markets &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/211118/p11#a211118p11)
- - [Alibaba misses with Q2 sales of $31.4B, up 29% YoY but below $32.1B estimates, as net income reached $846M &lpar;Coco Liu/Bloomberg&rpar;](http://www.techmeme.com/211118/p10#a211118p10)
- - [Apple again asks Court of Appeal to stay Epic Games injunction](https://appleinsider.com/articles/21/11/18/apple-again-asks-court-of-appeal-to-stay-epic-games-injunction?utm_medium=rss)<!-- TECH:END -->
+ - [Flat-edged Apple Watch design revealed in new filing](https://appleinsider.com/articles/21/11/18/flat-edged-apple-watch-design-revealed-in-new-filing?utm_medium=rss)
+ - [Here’s how to measure a TV before you put it in your home](https://www.androidauthority.com/how-to-measure-a-tv-3061349/)
+ - [How to Use Wi-Fi Calling on Your Smartphone](https://www.wired.com/story/how-to-use-wifi-calling)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
