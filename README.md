@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Brave man saves a trapped timber wolf.](http://9gag.com/gag/azeEnqN)
+ - 🚖 [Hey! Butterflies, Can we be Friends?](http://9gag.com/gag/aog0b8x)
  - 🚯 [80/20 rule applied](http://9gag.com/gag/a41dvNm)
- - 🚯 [Goalkeeper of the Iranian women&amp;#039;s national football team accused of being a man after 14 years spent in the national team](http://9gag.com/gag/arn4jKV)<!-- MEMES:END -->
+ - 🚯 [Tirupati India right now. Excuse bad capture](http://9gag.com/gag/angK6gV)<!-- MEMES:END -->
 
 --- 
 
