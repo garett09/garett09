@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [TCL Black Friday sale is on right now with TV and soundbar discounts](https://www.androidauthority.com/tcl-black-friday-2021-3061813/)
- - [New Belkin 3-in-1 charger is first to feature Apple Watch Series 7 fast charging](https://appleinsider.com/articles/21/11/18/new-belkin-3-in-1-charger-is-first-to-feature-apple-watch-series-7-fast-charging?utm_medium=rss)
- - [Over 500 Activision Blizzard employees petition to remove CEO Bobby Kotick](https://www.theverge.com/2021/11/18/22789679/activision-blizzard-ceo-bobby-kotick-employees-petition-removal)<!-- TECH:END -->
+ - [Microsoft Xbox boss Phil Spencer tells staff he’s ‘deeply troubled’ by Activision Blizzard](https://www.theverge.com/2021/11/18/22789881/microsoft-xbox-boss-phil-spencer-deeply-troubled-by-activision-blizzard-bobby-kotick)
+ - [The PS5 and Xbox Series X will be available today for Walmart Plus subscribers](https://www.theverge.com/2021/11/18/22789807/playstation-5-ps5-xbox-series-x-consoles-restock-walmart-plus-availability-order-where-to-buy)
+ - [How to hide photos on the iPhone](https://appleinsider.com/articles/21/11/18/how-to-hide-photos-on-the-iphone?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
