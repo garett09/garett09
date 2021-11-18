@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Marketing management software startup Braze jumps 44% in its Nasdaq debut, after raising $520M in its IPO, at an $8.4B valuation &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/211117/p38#a211117p38)
- - [Barbie EV mockup debuts, and on an unrelated note, Mattel’s stock is up](https://www.theverge.com/tldr/2021/11/17/22788069/mattel-barbie-toy-car-ev-stock-price-la-auto-show)
- - [Crypto collective raises $27 million to bid for rare copy of US Constitution](https://www.theverge.com/2021/11/17/22787993/constitutiondao-crypto-buy-us-constitution-copy-sothebys-ethereum)<!-- TECH:END -->
+ - [#AppleToo organizer Cher Scarlett to leave Apple, drop NLRB complaint after settlement](https://appleinsider.com/articles/21/11/18/appletoo-organizer-cher-scarlett-to-leave-apple-drop-nlrb-complaint-after-settlement?utm_medium=rss)
+ - [The US DOJ will sell $56M worth of cryptocurrency it seized as part of the BitConnect fraud case; victims can apply to be reimbursed &lpar;Dan Mangan/CNBC&rpar;](http://www.techmeme.com/211117/p41#a211117p41)
+ - [Streamlabs will drop ‘OBS’ name after getting called out by open-source app](https://www.theverge.com/2021/11/17/22788051/streamlabs-quickly-drops-obs-name-called-out)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
