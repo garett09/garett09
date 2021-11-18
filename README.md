@@ -195,7 +195,7 @@ Windows                  3 hrs 9 mins        ███████████�
 <!-- MEMES:START -->
  - 🚖 [Mogosesti, Romania &lpar;happened today&rpar;](http://9gag.com/gag/aE814OO)
  - 🚯 [Latrel S2](http://9gag.com/gag/angKPbb)
- - 🚯 [Airbags before and after a car crash](http://9gag.com/gag/aOQbLM2)<!-- MEMES:END -->
+ - 🚯 [Some handmade music for all the autotune kids](http://9gag.com/gag/angKoxV)<!-- MEMES:END -->
 
 --- 
 
