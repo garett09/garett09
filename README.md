@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Capcom Delays Cool-Looking Sci-Fi Game Pragmata To 2023](https://kotaku.com/capcom-delays-cool-looking-sci-fi-game-pragmata-to-2023-1848080969)
- - [Best SSD for gaming in 2021](https://www.pcgamer.com/best-ssd-for-gaming)
- - [Meta&#39;s haptic feedback glove lets you touch things in the metaverse](https://www.pcgamer.com/metas-haptic-feedback-glove-lets-you-touch-things-in-the-metaverse)<!-- GAME:END -->
+ - [Pragmata&#39;s delay announcement is so adorable I don&#39;t even mind](https://www.pcgamer.com/pragmatas-delay-announcement-is-so-adorable-i-dont-even-mind)
+ - [Decades Later, Mariya Takeuchi’s &#39;Plastic Love&#39; Is A Top Ten Hit Song In Japan](https://kotaku.com/decades-later-mariya-takeuchi-s-plastic-love-is-a-top-1848081072)
+ - [Capcom Delays Cool-Looking Sci-Fi Game Pragmata To 2023](https://kotaku.com/capcom-delays-cool-looking-sci-fi-game-pragmata-to-2023-1848080969)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
