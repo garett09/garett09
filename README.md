@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Rittenhouse defense calls for mistrial because Apple Mail compressed a video](https://appleinsider.com/articles/21/11/18/rittenhouse-defense-calls-for-mistrial-after-apple-mail-compresses-video?utm_medium=rss)
- - [Australia-based Practice Ignition, which offers client engagement and commerce services for businesses, raises a $50M Series C led by JMI Equity &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/211117/p44#a211117p44)
- - [Airwallex, a payments platform for international purchases, raises $100M led by Lone Pine Capital at a $5.5B valuation, adding to its September $200M Series E &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/211117/p43#a211117p43)<!-- TECH:END -->
+ - [H1, a social network for health care professionals, raises a $100M Series C led by Altimeter Capital, 11 months after raising a $58M Series B &lpar;Emma Betuel/TechCrunch&rpar;](http://www.techmeme.com/211117/p46#a211117p46)
+ - [Apple&#39;s &#39;iPhone 14&#39; and AR headset to sport Wi-Fi 6E, says Kuo](https://appleinsider.com/articles/21/11/17/apples-iphone-14-and-ar-headset-to-sport-wi-fi-6e-says-kuo?utm_medium=rss)
+ - [Google will begin paying Agence France-Presse for news content in Europe as part of a 5-year partnership, the first with a news agency under a 2019 EU directive &lpar;Agence France-Presse&rpar;](http://www.techmeme.com/211117/p45#a211117p45)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
