@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I wanna play with my RC car in peace alright.](http://9gag.com/gag/aE813vn)
- - 🚯 [Someone tell him](http://9gag.com/gag/apg0435)
- - 🚯 [Jumanji](http://9gag.com/gag/amg0ezv)<!-- MEMES:END -->
+ - 🚖 [Naisu](http://9gag.com/gag/a41dvdA)
+ - 🚯 [Brave man saves a trapped timber wolf.](http://9gag.com/gag/azeEnqN)
+ - 🚯 [Rockstar: Behold, the remas.. Modders: what do you mean remastered? We had better mods than this, rockstar: *shuts down mods* ..tered version of your most favored trilogy](http://9gag.com/gag/aXrpyD9)<!-- MEMES:END -->
 
 --- 
 
