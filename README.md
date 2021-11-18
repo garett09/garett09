@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Bigbang goes brrrrr](http://9gag.com/gag/a61y0oN)
- - 🚯 [Boy almost got handiclapped](http://9gag.com/gag/awzKWW4)
- - 🚯 [Formula 1 Pit Stops 1950 vs Today](http://9gag.com/gag/a71yRRb)<!-- MEMES:END -->
+ - 🚖 [It&amp;#039;s okay little buddy, you keep going](http://9gag.com/gag/avAgMEO)
+ - 🚯 [Bhadla Solar Park in Rajasthan, India. It is spread over an area of 57 sq km/22 sq mi &lpar;slightly smaller than Manhattan Island&rpar;, in which the temperatures normally hover between 46-48&amp;deg; C/115-118&amp;deg; F, and produces 2245 MW &lpar;more than the Hoover Dam&rpar; at a rate of \u20b92.44 &lpar;3.3&amp;cent; US&rpar;/kW&amp;sdot;h](http://9gag.com/gag/angKPpq)
+ - 🚯 [Brazilian server is online and this player couldn&amp;#039;t complete his missing being beat by locals](http://9gag.com/gag/aXrpBEd)<!-- MEMES:END -->
 
 --- 
 
