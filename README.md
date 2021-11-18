@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Microsoft Flight Simulator: Game of the Year Edition Available Today](https://news.xbox.com/en-us/2021/11/18/microsoft-flight-simulator-game-of-the-year-edition-available-today/)
- - [Tom Holland really doesn’t want to be a 30-year-old Spider-Man with back pain](https://www.polygon.com/2021/11/18/22789107/tom-holland-spider-man-recast)
- - [Harry Potter RPG &#39;Accidentally&#39; Added Popular Hentai Porn Expression](https://kotaku.com/harry-potter-rpg-accidentally-added-popular-hentai-porn-1848083440)<!-- GAME:END -->
+ - [More than 700 Activision Blizzard workers sign petition to drop CEO Bobby Kotick](https://www.polygon.com/22789647/activision-blizzard-bobby-kotick-resignation-petition)
+ - [Far Cry 6’s First DLC Is A Weird Little Roguelike Starring Vaas](https://kotaku.com/far-cry-6-s-first-dlc-is-a-weird-little-roguelike-starr-1848083949)
+ - [Train to Busan director takes on God in Netflix’s visceral series Hellbound](https://www.polygon.com/reviews/22789349/hellbound-review-netflix)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
