@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Best villain entrance of all time!](http://9gag.com/gag/aAGro19)
- - 🚯 [I wanna play with my RC car in peace alright.](http://9gag.com/gag/aE813vn)
- - 🚯 [Brave man saves a trapped timber wolf.](http://9gag.com/gag/azeEnqN)<!-- MEMES:END -->
+ - 🚖 [Brave man saves a trapped timber wolf.](http://9gag.com/gag/azeEnqN)
+ - 🚯 [80/20 rule applied](http://9gag.com/gag/a41dvNm)
+ - 🚯 [Goalkeeper of the Iranian women&amp;#039;s national football team accused of being a man after 14 years spent in the national team](http://9gag.com/gag/arn4jKV)<!-- MEMES:END -->
 
 --- 
 
