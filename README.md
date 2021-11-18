@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Pragmata&#39;s delay announcement is so adorable I don&#39;t even mind](https://www.pcgamer.com/pragmatas-delay-announcement-is-so-adorable-i-dont-even-mind)
- - [Decades Later, Mariya Takeuchi’s &#39;Plastic Love&#39; Is A Top Ten Hit Song In Japan](https://kotaku.com/decades-later-mariya-takeuchi-s-plastic-love-is-a-top-1848081072)
- - [Capcom Delays Cool-Looking Sci-Fi Game Pragmata To 2023](https://kotaku.com/capcom-delays-cool-looking-sci-fi-game-pragmata-to-2023-1848080969)<!-- GAME:END -->
+ - [Cyber Monday Gaming Laptop deals 2021: notebook discounts even before the big day](https://www.pcgamer.com/cyber-monday-gaming-laptop-deals-2021)
+ - [Battlefield 2042 patch fixes rubber-banding issues before launch](https://www.pcgamer.com/battlefield-2042-patch-fixes-rubber-banding-issues-before-launch)
+ - [Black Friday gaming laptop deals 2021: the best laptop deals for any budget](https://www.pcgamer.com/black-friday-gaming-laptop-deals)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
