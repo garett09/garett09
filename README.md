@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Meta&#39;s haptic feedback glove lets you touch things in the metaverse](https://www.pcgamer.com/metas-haptic-feedback-glove-lets-you-touch-things-in-the-metaverse)
  - [&lpar;For Southeast Asia&rpar; Let’s Enjoy Local Multiplayer on PlayStation®5!](https://blog.playstation.com/2021/11/18/20211118-ps5/)
- - [&lpar;For Southeast Asia&rpar; Let’s Enjoy Local Multiplayer on PlayStation®5!](https://blog.playstation.com/2021/11/18/20211118-ps5/)
- - [Qualcomm gears up to challenge Intel, AMD and Nvidia](https://www.pcgamer.com/qualcomm-gears-up-to-challenge-intel-amd-and-nvidia)<!-- GAME:END -->
+ - [&lpar;For Southeast Asia&rpar; Let’s Enjoy Local Multiplayer on PlayStation®5!](https://blog.playstation.com/2021/11/18/20211118-ps5/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
