@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Meta&#39;s haptic feedback glove lets you touch things in the metaverse](https://www.pcgamer.com/metas-haptic-feedback-glove-lets-you-touch-things-in-the-metaverse)
- - [&lpar;For Southeast Asia&rpar; Let’s Enjoy Local Multiplayer on PlayStation®5!](https://blog.playstation.com/2021/11/18/20211118-ps5/)
- - [&lpar;For Southeast Asia&rpar; Let’s Enjoy Local Multiplayer on PlayStation®5!](https://blog.playstation.com/2021/11/18/20211118-ps5/)<!-- GAME:END -->
+ - [Capcom Delays Cool-Looking Sci-Fi Game Pragmata To 2023](https://kotaku.com/capcom-delays-cool-looking-sci-fi-game-pragmata-to-2023-1848080969)
+ - [Best SSD for gaming in 2021](https://www.pcgamer.com/best-ssd-for-gaming)
+ - [Meta&#39;s haptic feedback glove lets you touch things in the metaverse](https://www.pcgamer.com/metas-haptic-feedback-glove-lets-you-touch-things-in-the-metaverse)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
