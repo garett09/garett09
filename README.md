@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Introducing Out of Line on Xbox One](https://news.xbox.com/en-us/2021/11/18/introducing-out-of-line-on-xbox-one/)
- - [Cyber Monday Gaming Laptop deals 2021: notebook discounts even before the big day](https://www.pcgamer.com/cyber-monday-gaming-laptop-deals-2021)
- - [Battlefield 2042 patch fixes rubber-banding issues before launch](https://www.pcgamer.com/battlefield-2042-patch-fixes-rubber-banding-issues-before-launch)<!-- GAME:END -->
+ - [PlayStation’s Black Friday Deals 2021](https://blog.playstation.com/2021/11/18/playstations-black-friday-deals-2021/)
+ - [Polygon’s 2021 holiday gift guide](https://www.polygon.com/22776749/2021-holiday-gift-guide-switch-xbox-playstation-pc-books-tabletop-games)
+ - [Let&#39;s Build A Zoo: The Kotaku Review](https://kotaku.com/lets-build-a-zoo-the-kotaku-review-1848081564)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
