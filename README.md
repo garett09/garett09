@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Young Justice’s creators say the characters tell them where to go next](https://www.polygon.com/interviews/22789227/young-justice-interview-season-4-phantoms)
- - [Radiohead explain the story behind the creation of its Kid A Mnesia Exhibition, out today on PS5](https://blog.playstation.com/2021/11/18/radiohead-explain-the-story-behind-the-creation-of-its-kid-a-mnesia-exhibition-out-today-on-ps5/)
- - [Radiohead explain the story behind the creation of its Kid A Mnesia Exhibition, out today on PS5](https://blog.playstation.com/2021/11/18/radiohead-explain-the-story-behind-the-creation-of-its-kid-a-mnesia-exhibition-out-today-on-ps5/)<!-- GAME:END -->
+ - [Sonic the Hedgehog smells of citrus fruit and leather, apparently](https://www.pcgamer.com/sonic-the-hedgehog-smells-of-citrus-fruit-and-leather-apparently)
+ - [Happy Anniversary Xbox Game Pass Ultimate and EA Play](https://news.xbox.com/en-us/2021/11/18/happy-anniversary-xbox-game-pass-ultimate-and-ea-play/)
+ - [What’s the best free software for your livestream?](https://www.polygon.com/22787631/stream-best-software-free-xsplit-obs-streamlabs)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
