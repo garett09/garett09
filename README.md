@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Sounds about right](http://9gag.com/gag/arn4j20)
- - 🚯 [Hey! Butterflies, Can we be Friends?](http://9gag.com/gag/aog0b8x)
- - 🚯 [2021 TV Commercial Starter Pack](http://9gag.com/gag/aWgWrwK)<!-- MEMES:END -->
+ - 🚖 [There is another version of the story.](http://9gag.com/gag/aRrP5L7)
+ - 🚯 [And really .... :&rpar;](http://9gag.com/gag/aXrpB3V)
+ - 🚯 [Goalkeeper of the Iranian women&amp;#039;s national football team accused of being a man after 14 years spent in the national team](http://9gag.com/gag/arn4jKV)<!-- MEMES:END -->
 
 --- 
 
