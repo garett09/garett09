@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [You told us: Here’s how many cases you have for your phone](https://www.androidauthority.com/how-many-phone-cases-poll-results-3060491/)
  - [Q&amp;A: Brian Chesky on how he restructured Airbnb during the pandemic, running a public company, crypto, the metaverse, working with Jony Ive&#39;s LoveFrom, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/211118/p5#a211118p5)
- - [Google confirms our findings: Pixel 6 Pro charging capped at 23W](https://www.androidauthority.com/google-pixel-6-charging-speeds-3061270/)
- - [Best laptop under $500 for 2021     - CNET](https://www.cnet.com/tech/computing/best-laptop-under-500/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google confirms our findings: Pixel 6 Pro charging capped at 23W](https://www.androidauthority.com/google-pixel-6-charging-speeds-3061270/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
