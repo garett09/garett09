@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Sonic the Hedgehog smells of citrus fruit and leather, apparently](https://www.pcgamer.com/sonic-the-hedgehog-smells-of-citrus-fruit-and-leather-apparently)
- - [Happy Anniversary Xbox Game Pass Ultimate and EA Play](https://news.xbox.com/en-us/2021/11/18/happy-anniversary-xbox-game-pass-ultimate-and-ea-play/)
- - [What’s the best free software for your livestream?](https://www.polygon.com/22787631/stream-best-software-free-xsplit-obs-streamlabs)<!-- GAME:END -->
+ - [Microsoft Flight Simulator: Game of the Year Edition Available Today](https://news.xbox.com/en-us/2021/11/18/microsoft-flight-simulator-game-of-the-year-edition-available-today/)
+ - [Tom Holland really doesn’t want to be a 30-year-old Spider-Man with back pain](https://www.polygon.com/2021/11/18/22789107/tom-holland-spider-man-recast)
+ - [Harry Potter RPG &#39;Accidentally&#39; Added Popular Hentai Porn Expression](https://kotaku.com/harry-potter-rpg-accidentally-added-popular-hentai-porn-1848083440)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
