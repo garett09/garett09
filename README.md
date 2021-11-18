@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [#AppleToo organizer Cher Scarlett to leave Apple, drop NLRB complaint after settlement](https://appleinsider.com/articles/21/11/18/appletoo-organizer-cher-scarlett-to-leave-apple-drop-nlrb-complaint-after-settlement?utm_medium=rss)
- - [The US DOJ will sell $56M worth of cryptocurrency it seized as part of the BitConnect fraud case; victims can apply to be reimbursed &lpar;Dan Mangan/CNBC&rpar;](http://www.techmeme.com/211117/p41#a211117p41)
- - [Streamlabs will drop ‘OBS’ name after getting called out by open-source app](https://www.theverge.com/2021/11/17/22788051/streamlabs-quickly-drops-obs-name-called-out)<!-- TECH:END -->
+ - [Airwallex, a payments platform for international purchases, raises $100M led by Lone Pine Capital at a $5.5B valuation, adding to its September $200M Series E &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/211117/p43#a211117p43)
+ - [That ‘real’ Disney lightsaber? You’ll never get to touch it](https://www.theverge.com/2021/11/17/22788415/disney-star-wars-real-lightsaber-galactic-starcruiser)
+ - [AllTrails, an app with 40M+ downloads and 1M+ paid subscribers that provides resources for hikers, bikers, and climbers, raises $150M from Permira &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/211117/p42#a211117p42)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
