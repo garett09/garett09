@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [You told us: Here’s how many cases you have for your phone](https://www.androidauthority.com/how-many-phone-cases-poll-results-3060491/)
- - [Q&amp;A: Brian Chesky on how he restructured Airbnb during the pandemic, running a public company, crypto, the metaverse, working with Jony Ive&#39;s LoveFrom, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/211118/p5#a211118p5)
- - [Google confirms our findings: Pixel 6 Pro charging capped at 23W](https://www.androidauthority.com/google-pixel-6-charging-speeds-3061270/)<!-- TECH:END -->
+ - [Rittenhouse defense calls for mistrial because Apple Mail compressed a video](https://appleinsider.com/articles/21/11/18/rittenhouse-defense-calls-for-mistrial-after-apple-mail-compresses-video?utm_medium=rss)
+ - [How many Google accounts can you have?](https://www.androidauthority.com/how-many-google-accounts-3060971/)
+ - [How to create folders and labels in Gmail](https://www.androidauthority.com/create-folders-labels-gmail-3060876/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
