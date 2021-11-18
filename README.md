@@ -195,7 +195,7 @@ Windows                  3 hrs 9 mins        ███████████�
 <!-- MEMES:START -->
  - 🚖 [Bigbang goes brrrrr](http://9gag.com/gag/a61y0oN)
  - 🚯 [Boy almost got handiclapped](http://9gag.com/gag/awzKWW4)
- - 🚯 [Wholesome Dad](http://9gag.com/gag/aDD3K69)<!-- MEMES:END -->
+ - 🚯 [Formula 1 Pit Stops 1950 vs Today](http://9gag.com/gag/a71yRRb)<!-- MEMES:END -->
 
 --- 
 
