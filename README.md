@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I love watching nat geo](http://9gag.com/gag/angKPnE)
- - 🚯 [Boy almost got handiclapped](http://9gag.com/gag/awzKWW4)
+ - 🚖 [Bigbang goes brrrrr](http://9gag.com/gag/a61y0oN)
+ - 🚯 [A school of stingrays enjoy themselves by riding waves at the beach](http://9gag.com/gag/aeg0nbm)
  - 🚯 [Why even ask?](http://9gag.com/gag/aM4rM3V)<!-- MEMES:END -->
 
 --- 
