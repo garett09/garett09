@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [H1, a social network for health care professionals, raises a $100M Series C led by Altimeter Capital, 11 months after raising a $58M Series B &lpar;Emma Betuel/TechCrunch&rpar;](http://www.techmeme.com/211117/p46#a211117p46)
- - [Apple&#39;s &#39;iPhone 14&#39; and AR headset to sport Wi-Fi 6E, says Kuo](https://appleinsider.com/articles/21/11/17/apples-iphone-14-and-ar-headset-to-sport-wi-fi-6e-says-kuo?utm_medium=rss)
- - [Google will begin paying Agence France-Presse for news content in Europe as part of a 5-year partnership, the first with a news agency under a 2019 EU directive &lpar;Agence France-Presse&rpar;](http://www.techmeme.com/211117/p45#a211117p45)<!-- TECH:END -->
+ - [Ribbon Health, which offers an API data platform for health care companies, raises a $43.5M Series B led by General Catalyst with a16z and others participating &lpar;Heather Landi/FierceHealthcare&rpar;](http://www.techmeme.com/211118/p3#a211118p3)
+ - [Paytm falls ~20% in its trading debut in India, giving it a market valuation of $14.9B, after raising $2.5B in its IPO &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/211118/p2#a211118p2)
+ - [Black Friday Canada 2021: All the best deals on all the best tech](https://www.androidauthority.com/best-black-friday-deals-canada-1180332/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
