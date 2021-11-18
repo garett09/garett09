@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [More than 700 Activision Blizzard workers sign petition to drop CEO Bobby Kotick](https://www.polygon.com/22789647/activision-blizzard-bobby-kotick-resignation-petition)
- - [Far Cry 6’s First DLC Is A Weird Little Roguelike Starring Vaas](https://kotaku.com/far-cry-6-s-first-dlc-is-a-weird-little-roguelike-starr-1848083949)
- - [Train to Busan director takes on God in Netflix’s visceral series Hellbound](https://www.polygon.com/reviews/22789349/hellbound-review-netflix)<!-- GAME:END -->
+ - [Driving vehicles into unwanted places is the definitive Halo experience](https://www.polygon.com/22761364/halo-vehicles-silent-cartographer-tight-fit)
+ - [Pixel Art Sci-Fi RPG Undungeon Available Today with Xbox Game Pass](https://news.xbox.com/en-us/2021/11/18/undungeon-available-today-with-xbox-game-pass/)
+ - [Someone Right-Clicked Every NFT In The Heist Of The Century](https://kotaku.com/someone-right-clicked-every-nft-in-the-heist-of-the-cen-1848084379)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
