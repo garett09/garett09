@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Flat-edged Apple Watch design revealed in new filing](https://appleinsider.com/articles/21/11/18/flat-edged-apple-watch-design-revealed-in-new-filing?utm_medium=rss)
- - [Here’s how to measure a TV before you put it in your home](https://www.androidauthority.com/how-to-measure-a-tv-3061349/)
- - [How to Use Wi-Fi Calling on Your Smartphone](https://www.wired.com/story/how-to-use-wifi-calling)<!-- TECH:END -->
+ - [Ford partners with GlobalFoundries to develop chips, but offers few concrete details &lpar;Mike Colias/Wall Street Journal&rpar;](http://www.techmeme.com/211118/p16#a211118p16)
+ - [Apple celebrates the accomplishments of Today at Apple Creative Studio participants](https://appleinsider.com/articles/21/11/18/apple-celebrates-the-accomplishments-of-today-at-apple-creative-studio-participants?utm_medium=rss)
+ - [Starbucks and Amazon partner to launch Starbucks Pickup with Amazon Go in Manhattan using Amazon&#39;s Just Walk Out tech &lpar;Amelia Lucas/CNBC&rpar;](http://www.techmeme.com/211118/p15#a211118p15)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
