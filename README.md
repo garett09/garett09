@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google explains how Pixel 6 charging works, reveals actual charging speeds](https://www.androidauthority.com/google-pixel-6-charging-speeds-3061270/)
- - [Grammarly, which helps users improve their writing with its AI assistant, raises $200M at a $13B valuation &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/211118/p4#a211118p4)
- - [Mario Kart Live’s 2.0 update makes multiplayer much easier and cheaper](https://www.theverge.com/2021/11/18/22788881/mario-kart-live-splitscreen-multiplayer-update-2-0-released)<!-- TECH:END -->
+ - [Q&amp;A: Brian Chesky on how he restructured Airbnb during the pandemic, running a public company, crypto, the metaverse, working with Jony Ive&#39;s LoveFrom, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/211118/p5#a211118p5)
+ - [Google confirms our findings: Pixel 6 Pro charging capped at 23W](https://www.androidauthority.com/google-pixel-6-charging-speeds-3061270/)
+ - [Best laptop under $500 for 2021     - CNET](https://www.cnet.com/tech/computing/best-laptop-under-500/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
