@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [PlayStation’s Black Friday Deals 2021](https://blog.playstation.com/2021/11/18/playstations-black-friday-deals-2021/)
- - [Polygon’s 2021 holiday gift guide](https://www.polygon.com/22776749/2021-holiday-gift-guide-switch-xbox-playstation-pc-books-tabletop-games)
- - [Let&#39;s Build A Zoo: The Kotaku Review](https://kotaku.com/lets-build-a-zoo-the-kotaku-review-1848081564)<!-- GAME:END -->
+ - [Young Justice’s creators say the characters tell them where to go next](https://www.polygon.com/interviews/22789227/young-justice-interview-season-4-phantoms)
+ - [Radiohead explain the story behind the creation of its Kid A Mnesia Exhibition, out today on PS5](https://blog.playstation.com/2021/11/18/radiohead-explain-the-story-behind-the-creation-of-its-kid-a-mnesia-exhibition-out-today-on-ps5/)
+ - [Radiohead explain the story behind the creation of its Kid A Mnesia Exhibition, out today on PS5](https://blog.playstation.com/2021/11/18/radiohead-explain-the-story-behind-the-creation-of-its-kid-a-mnesia-exhibition-out-today-on-ps5/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
