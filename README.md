@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [There is another version of the story.](http://9gag.com/gag/aRrP5L7)
- - 🚯 [And really .... :&rpar;](http://9gag.com/gag/aXrpB3V)
- - 🚯 [Goalkeeper of the Iranian women&amp;#039;s national football team accused of being a man after 14 years spent in the national team](http://9gag.com/gag/arn4jKV)<!-- MEMES:END -->
+ - 🚖 [Yes](http://9gag.com/gag/a41dDvd)
+ - 🚯 [Wyd if you were this hunter?](http://9gag.com/gag/ay90y8y)
+ - 🚯 [Living lavish](http://9gag.com/gag/a0ZLAML)<!-- MEMES:END -->
 
 --- 
 
