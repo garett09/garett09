@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Flat-edged Apple Watch design revealed in new filing](https://appleinsider.com/articles/21/11/18/flat-edged-apple-watch-design-revealed-in-new-filing?utm_medium=rss)
- - [Shareholder resolution potentially pushed Apple to announce Self Service Repair](https://appleinsider.com/articles/21/11/17/shareholder-resolution-potentially-pushed-apple-to-announce-self-service-repair?utm_medium=rss)
- - [In a staff email, Phil Spencer says he&#39;s evaluating Xbox&#39;s relationship with Activision Blizzard and will make adjustments; PlayStation head sent a similar note &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/211118/p36#a211118p36)<!-- TECH:END -->
+ - [States attorneys general investigating Instagram&#39;s effects on kids](https://appleinsider.com/articles/21/11/18/states-attorneys-general-investigating-instagrams-effects-on-kids?utm_medium=rss)
+ - [Facebook tests giving more control of News Feed content to users again](https://www.theverge.com/2021/11/18/22789969/facebook-tests-control-news-feed-algorithm-preferences)
+ - [Early Black Friday deal: Save $150 on Apple&#39;s loaded Mac mini &lpar;M1, 16GB RAM, 1TB&rpar;](https://appleinsider.com/articles/21/11/18/early-black-friday-deal-save-150-on-apples-loaded-mac-mini-m1-16gb-ram-1tb?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
