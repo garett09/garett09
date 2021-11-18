@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Explore, Leap and Shoot in Tamarin, Available Now](https://news.xbox.com/en-us/2021/11/17/explore-leap-and-shoot-in-tamarin-available-now/)
- - [How to not suck at Halo Infinite](https://www.pcgamer.com/how-to-not-suck-at-halo-infinite)
- - [Streamlabs drops ‘OBS’ from company name in response to recent controversy](https://www.polygon.com/22787950/streamlabs-obs-controversy-company-name-change-twitch)<!-- GAME:END -->
+ - [The HyperX Cloud II is a great headset at 20% off](https://www.pcgamer.com/the-hyperx-cloud-ii-is-a-great-headset-at-20-off)
+ - [Exclusive Hearthstone card reveal: Ivus, the Forest Lord](https://www.pcgamer.com/exclusive-hearthstone-card-reveal-ivus-the-forest-lord)
+ - [Let&#39;s Meet The Board Members Supporting Besieged Activision Blizzard CEO Bobby Kotick](https://kotaku.com/lets-meet-the-board-members-supporting-besieged-activis-1848079283)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
