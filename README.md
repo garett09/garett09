@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Farmers Business Network, which makes software for the agricultural industry, raises $300M Series G at a $4B valuation and says it could go public next year &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/211118/p28#a211118p28)
- - [New OWC miniStack adds storage options, Thunderbolt hub to Mac mini](https://appleinsider.com/articles/21/11/18/owc-unveiles-new-ministack-thunderbolt-4-storage-expansion-hub?utm_medium=rss)
- - [Comet, which provides tools for data scientists and others to build ML models, raises a $50M Series B led by OpenView, bringing its total funding to almost $70M &lpar;Ron Miller/TechCrunch&rpar;](http://www.techmeme.com/211118/p27#a211118p27)<!-- TECH:END -->
+ - [Halo Infinite’s better Battle Pass progression is now live](https://www.theverge.com/2021/11/18/22788990/halo-infinite-battle-pass-progression-xp-changes)
+ - [Winklevoss&#39; cryptocurrency exchange Gemini raises $400M led by Morgan Creek Digital at a $7.1B valuation &lpar;Michael del Castillo/Forbes&rpar;](http://www.techmeme.com/211118/p30#a211118p30)
+ - [Microsoft Edge is getting price tracking and leaked passwords features](https://www.theverge.com/2021/11/18/22788952/microsoft-edge-price-tracking-leaked-password-features)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
