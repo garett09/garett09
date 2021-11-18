@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ribbon Health, which offers an API data platform for health care companies, raises a $43.5M Series B led by General Catalyst with a16z and others participating &lpar;Heather Landi/FierceHealthcare&rpar;](http://www.techmeme.com/211118/p3#a211118p3)
- - [Paytm falls ~20% in its trading debut in India, giving it a market valuation of $14.9B, after raising $2.5B in its IPO &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/211118/p2#a211118p2)
- - [Black Friday Canada 2021: All the best deals on all the best tech](https://www.androidauthority.com/best-black-friday-deals-canada-1180332/)<!-- TECH:END -->
+ - [Google explains how Pixel 6 charging works, reveals actual charging speeds](https://www.androidauthority.com/google-pixel-6-charging-speeds-3061270/)
+ - [Grammarly, which helps users improve their writing with its AI assistant, raises $200M at a $13B valuation &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/211118/p4#a211118p4)
+ - [Mario Kart Live’s 2.0 update makes multiplayer much easier and cheaper](https://www.theverge.com/2021/11/18/22788881/mario-kart-live-splitscreen-multiplayer-update-2-0-released)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
