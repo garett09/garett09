@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox boss Phil Spencer is a bit worried about &#39;exploitative&#39; NFTs](https://www.pcgamer.com/xbox-boss-phil-spencer-is-a-bit-worried-about-exploitative-nfts)
- - [Halo Infinite&#39;s Battle Pass progression will be changed following widespread criticism](https://www.pcgamer.com/halo-infinites-battle-pass-progression-will-be-changed-following-widespread-criticism)
- - [Best Black Friday PC gaming deals in Australia: discounts on everything from monitors to chairs](https://www.pcgamer.com/black-friday-2021-the-pc-gaming-deals-you-can-expect-in-australia)<!-- GAME:END -->
+ - [25 of the best movies on Netflix right now](https://www.polygon.com/21266801/best-movies-on-netflix)
+ - [The Art Of Forza Horizon 5](https://kotaku.com/the-art-of-forza-horizon-5-1848072431)
+ - [Xbox boss Phil Spencer is a bit worried about &#39;exploitative&#39; NFTs](https://www.pcgamer.com/xbox-boss-phil-spencer-is-a-bit-worried-about-exploitative-nfts)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
