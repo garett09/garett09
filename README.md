@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Who win ?](http://9gag.com/gag/a313gMv)
- - 🚯 [Mark Zuckerberg being &amp;quot;born&amp;quot; &lpar;May 14, 1984&rpar;](http://9gag.com/gag/ajg0wOG)
- - 🚯 [Some peoples ability and lack of fear amaze me.](http://9gag.com/gag/aOQbE2v)<!-- MEMES:END -->
+ - 🚖 [Oh picky eaters...](http://9gag.com/gag/aPZ4Lzg)
+ - 🚯 [Poor intern](http://9gag.com/gag/a0ZL3NQ)
+ - 🚯 [Just a quick reminder for next week!](http://9gag.com/gag/axBZKnL)<!-- MEMES:END -->
 
 --- 
 
