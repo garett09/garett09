@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Rittenhouse defense calls for mistrial because Apple Mail compressed a video](https://appleinsider.com/articles/21/11/18/rittenhouse-defense-calls-for-mistrial-after-apple-mail-compresses-video?utm_medium=rss)
- - [How many Google accounts can you have?](https://www.androidauthority.com/how-many-google-accounts-3060971/)
- - [How to create folders and labels in Gmail](https://www.androidauthority.com/create-folders-labels-gmail-3060876/)<!-- TECH:END -->
+ - [Xbox November update brings quick controller swaps, lower latency, and accessibility tags](https://www.theverge.com/2021/11/18/22788956/xbox-november-update-controller-firmware-dli-features)
+ - [How to use Alexa Household accounts](https://www.androidauthority.com/how-to-use-alexa-household-accounts-3058324/)
+ - [Amazon&#39;s Dark Secret: It Has Failed to Protect Your Data](https://www.wired.com/story/amazon-failed-to-protect-your-data-investigation)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
