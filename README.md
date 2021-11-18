@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Mogosesti, Romania &lpar;happened today&rpar;](http://9gag.com/gag/aE814OO)
- - 🚯 [Latrel S2](http://9gag.com/gag/angKPbb)
- - 🚯 [Some handmade music for all the autotune kids](http://9gag.com/gag/angKoxV)<!-- MEMES:END -->
+ - 🚖 [I love watching nat geo](http://9gag.com/gag/angKPnE)
+ - 🚯 [Boy almost got handiclapped](http://9gag.com/gag/awzKWW4)
+ - 🚯 [Why even ask?](http://9gag.com/gag/aM4rM3V)<!-- MEMES:END -->
 
 --- 
 
