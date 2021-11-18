@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Qualcomm gears up to challenge Intel, AMD and Nvidia](https://www.pcgamer.com/qualcomm-gears-up-to-challenge-intel-amd-and-nvidia)
  - [25 of the best movies on Netflix right now](https://www.polygon.com/21266801/best-movies-on-netflix)
- - [The Art Of Forza Horizon 5](https://kotaku.com/the-art-of-forza-horizon-5-1848072431)
- - [Xbox boss Phil Spencer is a bit worried about &#39;exploitative&#39; NFTs](https://www.pcgamer.com/xbox-boss-phil-spencer-is-a-bit-worried-about-exploitative-nfts)<!-- GAME:END -->
+ - [The Art Of Forza Horizon 5](https://kotaku.com/the-art-of-forza-horizon-5-1848072431)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
