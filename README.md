@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Yes](http://9gag.com/gag/a41dDvd)
+ - 🚖 [Sounds about right](http://9gag.com/gag/arn4j20)
  - 🚯 [Hey! Butterflies, Can we be Friends?](http://9gag.com/gag/aog0b8x)
- - 🚯 [Well, that&amp;#039;s why!](http://9gag.com/gag/a313mQe)<!-- MEMES:END -->
+ - 🚯 [2021 TV Commercial Starter Pack](http://9gag.com/gag/aWgWrwK)<!-- MEMES:END -->
 
 --- 
 
