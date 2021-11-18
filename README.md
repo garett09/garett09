@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Qualcomm gears up to challenge Intel, AMD and Nvidia](https://www.pcgamer.com/qualcomm-gears-up-to-challenge-intel-amd-and-nvidia)
- - [25 of the best movies on Netflix right now](https://www.polygon.com/21266801/best-movies-on-netflix)
- - [The Art Of Forza Horizon 5](https://kotaku.com/the-art-of-forza-horizon-5-1848072431)<!-- GAME:END -->
+ - [&lpar;For Southeast Asia&rpar; Let’s Enjoy Local Multiplayer on PlayStation®5!](https://blog.playstation.com/2021/11/18/20211118-ps5/)
+ - [&lpar;For Southeast Asia&rpar; Let’s Enjoy Local Multiplayer on PlayStation®5!](https://blog.playstation.com/2021/11/18/20211118-ps5/)
+ - [Qualcomm gears up to challenge Intel, AMD and Nvidia](https://www.pcgamer.com/qualcomm-gears-up-to-challenge-intel-amd-and-nvidia)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
