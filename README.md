@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hey! Butterflies, Can we be Friends?](http://9gag.com/gag/aog0b8x)
- - 🚯 [80/20 rule applied](http://9gag.com/gag/a41dvNm)
- - 🚯 [Tirupati India right now. Excuse bad capture](http://9gag.com/gag/angK6gV)<!-- MEMES:END -->
+ - 🚖 [Yes](http://9gag.com/gag/a41dDvd)
+ - 🚯 [Hey! Butterflies, Can we be Friends?](http://9gag.com/gag/aog0b8x)
+ - 🚯 [Well, that&amp;#039;s why!](http://9gag.com/gag/a313mQe)<!-- MEMES:END -->
 
 --- 
 
