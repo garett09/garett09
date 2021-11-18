@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ford partners with GlobalFoundries to develop chips, but offers few concrete details &lpar;Mike Colias/Wall Street Journal&rpar;](http://www.techmeme.com/211118/p16#a211118p16)
- - [Apple celebrates the accomplishments of Today at Apple Creative Studio participants](https://appleinsider.com/articles/21/11/18/apple-celebrates-the-accomplishments-of-today-at-apple-creative-studio-participants?utm_medium=rss)
- - [Starbucks and Amazon partner to launch Starbucks Pickup with Amazon Go in Manhattan using Amazon&#39;s Just Walk Out tech &lpar;Amelia Lucas/CNBC&rpar;](http://www.techmeme.com/211118/p15#a211118p15)<!-- TECH:END -->
+ - [Apple, Drake and others face $750 million lawsuit over Astroworld deaths](https://appleinsider.com/articles/21/11/18/apple-drake-and-others-face-750-million-lawsuit-over-astroworld-deaths?utm_medium=rss)
+ - [Cortex, which helps development teams manage microservices architecture, raises a $15M Series A led by Tiger Global and Sequoia Capital &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/211118/p25#a211118p25)
+ - [Best deals Nov. 18: Big Woot Samsung monitor sale, $30 off Microsoft 365 Family, more!](https://appleinsider.com/articles/21/11/18/best-deals-nov-18-big-woot-samsung-monitor-sale-30-off-microsoft-365-family-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
