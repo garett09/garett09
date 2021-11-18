@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft Xbox boss Phil Spencer tells staff he’s ‘deeply troubled’ by Activision Blizzard](https://www.theverge.com/2021/11/18/22789881/microsoft-xbox-boss-phil-spencer-deeply-troubled-by-activision-blizzard-bobby-kotick)
- - [The PS5 and Xbox Series X will be available today for Walmart Plus subscribers](https://www.theverge.com/2021/11/18/22789807/playstation-5-ps5-xbox-series-x-consoles-restock-walmart-plus-availability-order-where-to-buy)
- - [How to hide photos on the iPhone](https://appleinsider.com/articles/21/11/18/how-to-hide-photos-on-the-iphone?utm_medium=rss)<!-- TECH:END -->
+ - [Flat-edged Apple Watch design revealed in new filing](https://appleinsider.com/articles/21/11/18/flat-edged-apple-watch-design-revealed-in-new-filing?utm_medium=rss)
+ - [Shareholder resolution potentially pushed Apple to announce Self Service Repair](https://appleinsider.com/articles/21/11/17/shareholder-resolution-potentially-pushed-apple-to-announce-self-service-repair?utm_medium=rss)
+ - [In a staff email, Phil Spencer says he&#39;s evaluating Xbox&#39;s relationship with Activision Blizzard and will make adjustments; PlayStation head sent a similar note &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/211118/p36#a211118p36)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
