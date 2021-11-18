@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Naisu](http://9gag.com/gag/a41dvdA)
- - 🚯 [Brave man saves a trapped timber wolf.](http://9gag.com/gag/azeEnqN)
- - 🚯 [Rockstar: Behold, the remas.. Modders: what do you mean remastered? We had better mods than this, rockstar: *shuts down mods* ..tered version of your most favored trilogy](http://9gag.com/gag/aXrpyD9)<!-- MEMES:END -->
+ - 🚖 [This is nuts!](http://9gag.com/gag/a61y0Mm)
+ - 🚯 [Rockstar: Behold, the remas.. Modders: what do you mean remastered? We had better mods than this, rockstar: *shuts down mods* ..tered version of your most favored trilogy](http://9gag.com/gag/aXrpyD9)
+ - 🚯 [Oh no](http://9gag.com/gag/aog0vvx)<!-- MEMES:END -->
 
 --- 
 
