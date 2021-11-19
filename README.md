@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Save 36% on a Setapp 1-year subscription, access over 210 Mac apps](https://appleinsider.com/articles/21/11/19/save-36-on-a-setapp-1-year-subscription-access-over-210-mac-apps?utm_medium=rss)
- - [Apple’s new Self Service Repair program is an opportunity to repair relationships](https://www.theverge.com/2021/11/19/22787245/apple-iphone-mac-self-service-program-repair-diy)
- - [The best Black Friday phone deals](https://www.androidauthority.com/best-phone-deals-2-1111885/)<!-- TECH:END -->
+ - [Apple shares close at record high, company regains top market valuation](https://appleinsider.com/articles/21/11/19/apple-shares-close-at-record-high-company-regains-top-market-valuation?utm_medium=rss)
+ - [A hedge fund billionaire outbid crypto investors for a rare copy of the US Constitution](https://www.theverge.com/2021/11/19/22791989/citadel-ceo-ken-griffin-won-constitutiondao-sothebys-auction)
+ - [13 Great Black Friday Deals on Google Devices We Like](https://www.wired.com/story/best-black-friday-google-device-deals-2021)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
