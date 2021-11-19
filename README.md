@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Discord now lets you send up to 10 &lpar;accessible&rpar; memes at a time](https://www.theverge.com/2021/11/19/22791035/discord-alt-text-support-10-image-uploads-at-a-time)
- - [Some of Jabra’s most popular earbuds are on sale right now for Black Friday](https://www.androidauthority.com/jabra-black-friday-deals-3061730/)
- - [New Covid Drugs Are Here—and They Could Change the Pandemic](https://www.wired.com/story/new-covid-drugs-are-here-and-they-could-change-the-pandemic)<!-- TECH:END -->
+ - [&#39;Ted Lasso&#39; cast launch Apple&#39;s new The Grove store](https://appleinsider.com/articles/21/11/19/ted-lasso-cast-launch-apples-new-the-grove-store?utm_medium=rss)
+ - [From audio to smartphones: OnePlus has plenty of Black Friday deals](https://www.androidauthority.com/oneplus-black-friday-2021-3062186/)
+ - [Can Science Fiction Help Solve Our Biggest Problems?](https://www.wired.com/story/gadget-lab-podcast-530)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
