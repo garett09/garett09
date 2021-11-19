@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Save the dollar &amp; donate it yourself [oc]](https://www.reddit.com/r/funny/comments/qxl741/save_the_dollar_donate_it_yourself_oc/)
- - 🚯 [Oh crap](https://www.reddit.com/r/funny/comments/qxkx8g/oh_crap/)
- - 🚯 [Poor toad](https://www.reddit.com/r/memes/comments/qxks99/poor_toad/)<!-- MEMES:END -->
+ - 🚖 [How to troll a redditor](https://www.reddit.com/r/funny/comments/qxnjh4/how_to_troll_a_redditor/)
+ - 🚯 [Papa Elton](https://www.reddit.com/r/funny/comments/qxm6dh/papa_elton/)
+ - 🚯 [This cat deserves an Oscar.](https://www.reddit.com/r/funny/comments/qxm664/this_cat_deserves_an_oscar/)<!-- MEMES:END -->
 
 --- 
 
