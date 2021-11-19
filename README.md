@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Cyclist frees a mountain goat that got its horns trapped around a tree](http://9gag.com/gag/a71bvZr)
- - 🚯 [Wyd if you were this hunter?](http://9gag.com/gag/ay90y8y)
- - 🚯 [The children who were overprotected become those &amp;ldquo;woke&amp;rdquo; freaks](http://9gag.com/gag/aYrW8mV)<!-- MEMES:END -->
+ - 🚖 [Suspicious](http://9gag.com/gag/aNPZybG)
+ - 🚯 [Teamwork](http://9gag.com/gag/azeE63b)
+ - 🚯 [Germany just confirmed that they will legalize and sell weed in the near future!](http://9gag.com/gag/ay90yqM)<!-- MEMES:END -->
 
 --- 
 
