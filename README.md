@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Battlefield 2042 Available Now for Xbox One and Xbox Series X|S](https://news.xbox.com/en-us/2021/11/19/battlefield-2042-available-now-for-xbox-one-and-xbox-series-xs/)
- - [Best Black Friday PC gaming deals: discounts on everything from full PCs to gaming chairs](https://www.pcgamer.com/black-friday-pc-gaming-deals-2021)
- - [Counter-Strike gets stickers for... Battlefield 2042?](https://www.pcgamer.com/counter-strike-gets-stickers-for-battlefield-2042)<!-- GAME:END -->
+ - [Pokémon Brilliant Diamond and Shining Pearl try to fix their fire-type problem](https://www.polygon.com/22785867/pokemon-brilliant-diamond-shining-pearl-pokedex-fire-types-underground-nintendo-switch)
+ - [Next Week on Xbox: November 22 to 26](https://news.xbox.com/en-us/2021/11/19/next-week-on-xbox-november-22-to-26/)
+ - [Halo Infinite’s co-op campaign is coming later than expected](https://www.polygon.com/22791223/halo-infinite-co-op-campaign-release-date-delayed)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
