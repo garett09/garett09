@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Just cats...](http://9gag.com/gag/a81jLed)
- - 🚯 [Typical for Kangaroos in Austria](http://9gag.com/gag/aAGpRZ2)
- - 🚯 [Scam!!!](http://9gag.com/gag/ajgnY7p)<!-- MEMES:END -->
+ - 🚖 [Dude just played along, bravo!](http://9gag.com/gag/aM4Q2bM)
+ - 🚯 [Mark Cuban says _f**k_ during a live broadcast and gets fined $15,000.00, which then gets donated to charity. Mark Cuban responds by saying _f**k_ again to double the donation...](http://9gag.com/gag/aYrwjzm)
+ - 🚯 [Typical for Kangaroos in Austria](http://9gag.com/gag/aAGpRZ2)<!-- MEMES:END -->
 
 --- 
 
