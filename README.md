@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Pokémon Brilliant Diamond and Pokémon Shining Pearl guides](https://www.polygon.com/pokemon-brilliant-diamond-shining-pearl-guide/22784154/beginner-starter-exclusive-strength-weakness-gym-leader-breeding-ev-training-grand-underground)
  - [The Best PlayStations Were Beat To Hell](https://kotaku.com/the-best-playstations-were-beat-to-hell-1848087305)
- - [Best Black Friday PC gaming deals in Australia: discounts on everything from monitors to chairs](https://www.pcgamer.com/black-friday-2021-the-pc-gaming-deals-you-can-expect-in-australia)
- - [Halo Infinite&#39;s Battle Pass now grants you XP for completing a match](https://www.pcgamer.com/halo-infinites-battle-pass-progression-will-be-changed-following-widespread-criticism)<!-- GAME:END -->
+ - [Best Black Friday PC gaming deals in Australia: discounts on everything from monitors to chairs](https://www.pcgamer.com/black-friday-2021-the-pc-gaming-deals-you-can-expect-in-australia)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
