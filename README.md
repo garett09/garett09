@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [International Men’s Day](https://www.reddit.com/r/memes/comments/qxp22r/international_mens_day/)
- - 🚯 [Please read rule 7 before posting!](https://www.reddit.com/r/memes/comments/qxoix8/please_read_rule_7_before_posting/)
- - 🚯 [Watch it till the end](https://www.reddit.com/r/funny/comments/qxo2zb/watch_it_till_the_end/)<!-- MEMES:END -->
+ - 🚖 [Man Stick.](https://www.reddit.com/r/memes/comments/qxr1fs/man_stick/)
+ - 🚯 [Penis Enlargement](https://www.reddit.com/r/funny/comments/qxqdww/penis_enlargement/)
+ - 🚯 [Someone in my neighborhood got a little creative](https://www.reddit.com/r/funny/comments/qxpzip/someone_in_my_neighborhood_got_a_little_creative/)<!-- MEMES:END -->
 
 --- 
 
