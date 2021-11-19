@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netomi, which offers customer-service chatbots, raises a $30M Series B led by WndrCo LLC at a $210M valuation, bringing its total funding to $52M &lpar;Ann-Marie Alc&amp;aacute;ntara/Wall Street Journal&rpar;](http://www.techmeme.com/211119/p1#a211119p1)
- - [Bored Ape Yacht Club: Explaining the NFT collection craze     - CNET](https://www.cnet.com/news/bored-ape-yacht-club-explaining-the-nft-craze/#ftag=CAD590a51e)
- - [Halo: Infinite needs an over 35 &#39;Masters&#39; mode because I&#39;m old and I suck     - CNET](https://www.cnet.com/news/halo-infinite-needs-an-over-35-mode-because-im-old-and-terrible/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Black Friday 2021: Deals on phones, wearables, earbuds, and more](https://www.androidauthority.com/black-friday-deals-3049753/)
+ - [You told us: Most of you think the Huawei ban should be dropped altogether](https://www.androidauthority.com/huawei-ban-survey-results-3062045/)
+ - [Netomi, which offers customer-service chatbots, raises a $30M Series B led by WndrCo LLC at a $210M valuation, bringing its total funding to $52M &lpar;Ann-Marie Alc&amp;aacute;ntara/Wall Street Journal&rpar;](http://www.techmeme.com/211119/p1#a211119p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
