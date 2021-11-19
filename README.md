@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Brilliant Diamond and Shining Pearl try to fix their fire-type problem](https://www.polygon.com/22785867/pokemon-brilliant-diamond-shining-pearl-pokedex-fire-types-underground-nintendo-switch)
- - [Next Week on Xbox: November 22 to 26](https://news.xbox.com/en-us/2021/11/19/next-week-on-xbox-november-22-to-26/)
- - [Halo Infinite’s co-op campaign is coming later than expected](https://www.polygon.com/22791223/halo-infinite-co-op-campaign-release-date-delayed)<!-- GAME:END -->
+ - [Girls Who Code Ends Relationship With Activision Blizzard Following Latest Revelations](https://kotaku.com/girls-who-code-ends-relationship-with-activision-blizza-1848089421)
+ - [Black Friday: Celebrate Play with Xbox Games, Gaming PCs, and Accessories](https://news.xbox.com/en-us/2021/11/19/black-friday-celebrate-play-with-games-and-accessories/)
+ - [Meet the ‘cozy streamers’ of Twitch combating hate on the platform](https://www.polygon.com/22785958/twitch-cozy-streamers-wholesome-games)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
