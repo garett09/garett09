@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Please read rule 7 before posting!](https://www.reddit.com/r/memes/comments/qxoix8/please_read_rule_7_before_posting/)
- - 🚯 [How to troll a redditor](https://www.reddit.com/r/funny/comments/qxnjh4/how_to_troll_a_redditor/)
- - 🚯 [Papa Elton](https://www.reddit.com/r/funny/comments/qxm6dh/papa_elton/)<!-- MEMES:END -->
+ - 🚖 [International Men’s Day](https://www.reddit.com/r/memes/comments/qxp22r/international_mens_day/)
+ - 🚯 [Please read rule 7 before posting!](https://www.reddit.com/r/memes/comments/qxoix8/please_read_rule_7_before_posting/)
+ - 🚯 [Watch it till the end](https://www.reddit.com/r/funny/comments/qxo2zb/watch_it_till_the_end/)<!-- MEMES:END -->
 
 --- 
 
