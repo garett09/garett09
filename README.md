@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [See The CW Batwoman’s take on Poison Ivy in all her glory](https://www.polygon.com/22723696/batwoman-poison-ivy-cast-season-3-photo)
- - [Brilliant Diamond and Shining Pearl’s camera is out of control](https://www.polygon.com/22790286/brilliant-diamond-shining-pearl-remakes-camera-nintendo-switch)
- - [Rockstar apologizes for GTA Definitive Edition issues, will bring back classic PC versions](https://www.polygon.com/22791643/gta-trilogy-definitive-edition-remaster-rockstar-apology-patch-update)<!-- GAME:END -->
+ - [Forza Horizon 5 Is Actually A Bleak Dystopia In Which Humanity Must Flee The Cars](https://kotaku.com/in-forza-horizon-5-cars-have-stolen-the-world-from-hum-1848090276)
+ - [All the Easter eggs in Cowboy Bebop season 1](https://www.polygon.com/22790056/cowboy-bebop-easter-eggs-season-1-netflix)
+ - [Will Smith’s real-life sports drama King Richard is so much more fun than it should be](https://www.polygon.com/reviews/22791505/king-richard-review-will-smith)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
