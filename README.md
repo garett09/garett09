@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The most disappointing beat drop..](http://9gag.com/gag/aqGNvop)
- - 🚯 [I recently played through The Witcher 3 and I can honestly say that it is by far the best game I&amp;#039;ve played. Everything in the game is just perfect](http://9gag.com/gag/arn46xd)
- - 🚯 [Suspicious](http://9gag.com/gag/aNPZybG)<!-- MEMES:END -->
+ - 🚖 [Cyclist frees a mountain goat that got its horns trapped around a tree](http://9gag.com/gag/a71bvZr)
+ - 🚯 [Suspicious](http://9gag.com/gag/aNPZybG)
+ - 🚯 [Wyd if you were this hunter?](http://9gag.com/gag/ay90y8y)<!-- MEMES:END -->
 
 --- 
 
