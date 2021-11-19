@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [NZXT introduces $800 gaming PC with no dedicated GPU](https://www.theverge.com/2021/11/19/22791695/nzxt-foundation-gaming-pc-apu-5600g-scalpers-availibility)
- - [AirPods, Beats Fit Pro battery swaps nearly impossible, iFixit teardown finds](https://appleinsider.com/articles/21/11/19/airpods-beats-fit-pro-battery-swaps-nearly-impossible-ifixit-teardown-finds?utm_medium=rss)
- - [Google questions whether DOJ&#39;s new top antitrust official Jonathan Kanter can be impartial, citing his work with Yelp and the News Media Alliance &lpar;David McCabe/New York Times&rpar;](http://www.techmeme.com/211119/p18#a211119p18)<!-- TECH:END -->
+ - [ITC says it will review its preliminary finding that Google infringed on five patents owned by Sonos; a final decision is scheduled to be issued on January 6 &lpar;Susan Decker/Bloomberg&rpar;](http://www.techmeme.com/211119/p21#a211119p21)
+ - [Apple just provided the perfect example of why you can’t trust App Store review scores](https://www.theverge.com/2021/11/19/22791968/apple-podcasts-star-score-review-prompt)
+ - [Go read this look into how Amazon failed to secure customer personal data](https://www.theverge.com/2021/11/19/22790066/amazon-personal-data-privacy-kanye-west-celebrities)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
