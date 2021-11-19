@@ -194,8 +194,8 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Cyclist frees a mountain goat that got its horns trapped around a tree](http://9gag.com/gag/a71bvZr)
- - 🚯 [Suspicious](http://9gag.com/gag/aNPZybG)
- - 🚯 [Wyd if you were this hunter?](http://9gag.com/gag/ay90y8y)<!-- MEMES:END -->
+ - 🚯 [Wyd if you were this hunter?](http://9gag.com/gag/ay90y8y)
+ - 🚯 [The children who were overprotected become those &amp;ldquo;woke&amp;rdquo; freaks](http://9gag.com/gag/aYrW8mV)<!-- MEMES:END -->
 
 --- 
 
