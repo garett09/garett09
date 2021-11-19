@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Facebook is offering musicians and celebrities, via production companies, tens of thousands of dollars to host sessions on Live Audio Rooms &lpar;The Information&rpar;](http://www.techmeme.com/211118/p45#a211118p45)
- - [Today, a jury got to hear Elizabeth Holmes’ lies for themselves](https://www.theverge.com/2021/11/18/22790541/elizabeth-holmes-fraud-lies-recording)
- - [The NFT Bay asks if you would steal all the JPEGs](https://www.theverge.com/2021/11/18/22790131/nft-bay-pirating-digital-ownership-piracy-crypto-art-right-click)<!-- TECH:END -->
+ - [The best rugged Google Pixel 6 cases](https://www.androidauthority.com/best-rugged-google-pixel-6-cases-3060451/)
+ - [Apple TV+ nets Grateful Dead biopic directed by Martin Scorsese, starring Jonah Hill](https://appleinsider.com/articles/21/11/18/apple-tv-nets-grateful-dead-biopic-directed-by-martin-scorsese-starring-jonah-hill?utm_medium=rss)
+ - [Apple&#39;s Self Service Repair unlikely to impact iPhone upgrade cycle, study finds](https://appleinsider.com/articles/21/11/19/apples-self-service-repair-unlikely-to-impact-iphone-upgrade-cycle-study-finds?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
