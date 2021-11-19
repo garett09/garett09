@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Halo Infinite might just pull off an open world rebirth](https://www.pcgamer.com/halo-infinite-campaign-preview)
  - [Halo Infinite’s campaign is equal parts familiar and surprising, 5 hours in](https://www.polygon.com/22789079/halo-infinite-campaign-preview)
- - [Star Wars: The Old Republic expansion Legacy of the Sith comes out December 14](https://www.pcgamer.com/star-wars-the-old-republic-expansion-legacy-of-the-sith-comes-out-december-14)
- - [Pokémon Brilliant Diamond and Pokémon Shining Pearl guides](https://www.polygon.com/pokemon-brilliant-diamond-shining-pearl-guide/22784154/beginner-starter-exclusive-strength-weakness-gym-leader-breeding-ev-training-grand-underground)<!-- GAME:END -->
+ - [Star Wars: The Old Republic expansion Legacy of the Sith comes out Dec 14](https://www.pcgamer.com/star-wars-the-old-republic-expansion-legacy-of-the-sith-comes-out-december-14)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
