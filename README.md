@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Suspicious](http://9gag.com/gag/aNPZybG)
- - 🚯 [Teamwork](http://9gag.com/gag/azeE63b)
- - 🚯 [Germany just confirmed that they will legalize and sell weed in the near future!](http://9gag.com/gag/ay90yqM)<!-- MEMES:END -->
+ - 🚖 [It still good...](http://9gag.com/gag/a61LrPN)
+ - 🚯 [Henry Cavill is such a cool guy, but his uncle is now a witcher](http://9gag.com/gag/aegpK8m)
+ - 🚯 [What about Call of Duty,Apex Legends,GTA V, Rogue Company and countless other games we aren&amp;rsquo;t safe from the toxic children they were created by Satan](http://9gag.com/gag/aDDmRvG)<!-- MEMES:END -->
 
 --- 
 
