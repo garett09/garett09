@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Halo Infinite might just pull off an open world rebirth](https://www.pcgamer.com/halo-infinite-campaign-preview)
- - [Halo Infinite’s campaign is equal parts familiar and surprising, 5 hours in](https://www.polygon.com/22789079/halo-infinite-campaign-preview)
- - [Star Wars: The Old Republic expansion Legacy of the Sith comes out Dec 14](https://www.pcgamer.com/star-wars-the-old-republic-expansion-legacy-of-the-sith-comes-out-december-14)<!-- GAME:END -->
+ - [Life-Sized Lucario Goes On Sale In Japan For $400](https://kotaku.com/life-sized-lucario-goes-on-sale-in-japan-for-400-1848087932)
+ - [Best gaming keyboards in 2021](https://www.pcgamer.com/best-gaming-keyboard)
+ - [The best gaming mouse in 2021](https://www.pcgamer.com/the-best-gaming-mouse)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
