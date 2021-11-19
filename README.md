@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;Ted Lasso&#39; cast launch Apple&#39;s new The Grove store](https://appleinsider.com/articles/21/11/19/ted-lasso-cast-launch-apples-new-the-grove-store?utm_medium=rss)
- - [From audio to smartphones: OnePlus has plenty of Black Friday deals](https://www.androidauthority.com/oneplus-black-friday-2021-3062186/)
- - [Can Science Fiction Help Solve Our Biggest Problems?](https://www.wired.com/story/gadget-lab-podcast-530)<!-- TECH:END -->
+ - [Apple&#39;s new self-service repair program and the state of Apple software stability on the AppleInsider podcast](https://appleinsider.com/articles/21/11/19/apples-new-self-service-repair-program-and-the-state-of-apple-software-stability-on-the-appleinsider-podcast?utm_medium=rss)
+ - [The Best Wireless Earbuds for Every Need](https://www.wired.com/gallery/best-wirefree-earbuds)
+ - [Netflix’s New Top 10 Lists Feel Like a Grasp for Relevance](https://www.wired.com/story/netflix-top-10-relevance)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
