@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dimensity 9000 revealed: Mediatek takes aim at the Snapdragon 800 series](https://www.androidauthority.com/mediatek-dimensity-9000-3059984/)
- - [The best early Black Friday deals you can get right now](https://www.theverge.com/22759214/black-friday-early-deals-best-headphones-laptops-gaming-tvs-tech-sale)
- - [MediaTek’s new Dimensity 9000 flagship could compete with Qualcomm’s top-tier Snapdragon chips](https://www.theverge.com/2021/11/18/22790189/mediatek-dimensity-9000-flagship-chip-qualcomm-snapdragon-competition-arm)<!-- TECH:END -->
+ - [How to play and share Apple Music on the Apple Watch in watchOS 8](https://appleinsider.com/articles/21/11/17/how-to-play-and-share-apple-music-on-apple-watch?utm_medium=rss)
+ - [How to hide photos in iOS 15 and iPadOS 15](https://appleinsider.com/articles/21/11/18/how-to-hide-photos-on-the-iphone?utm_medium=rss)
+ - [iOttie Velox car charger review: A luxe MagSafe-compatible Qi vent mount](https://appleinsider.com/articles/21/11/18/iottie-velox-car-charger-review-a-luxe-magsafe-compatible-qi-vent-mount?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
