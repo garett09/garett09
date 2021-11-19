@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [When does Battlefield 2042 release in my timezone?](https://www.pcgamer.com/battlefield-2042-release-time-zone)
  - [The woman whose sexy, violent exploitation films are still overlooked](https://www.polygon.com/22788636/great-exploitation-movies-stephanie-rothman)
- - [Battlefield 2042 guns list: the best weapons to get started with](https://www.pcgamer.com/best-battlefild-2042-guns-weapons-list/)
- - [Bethesda is working on a patch for the Skyrim Anniversary Edition update](https://www.pcgamer.com/bethesda-is-working-on-a-patch-for-the-skyrim-anniversary-edition-update)<!-- GAME:END -->
+ - [Battlefield 2042 guns list: the best weapons to get started with](https://www.pcgamer.com/best-battlefild-2042-guns-weapons-list/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
