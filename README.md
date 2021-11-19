@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It still good...](http://9gag.com/gag/a61LrPN)
- - 🚯 [Henry Cavill is such a cool guy, but his uncle is now a witcher](http://9gag.com/gag/aegpK8m)
- - 🚯 [What about Call of Duty,Apex Legends,GTA V, Rogue Company and countless other games we aren&amp;rsquo;t safe from the toxic children they were created by Satan](http://9gag.com/gag/aDDmRvG)<!-- MEMES:END -->
+ - 🚖 [Scam!!!](http://9gag.com/gag/ajgnY7p)
+ - 🚯 [Logic.](http://9gag.com/gag/aPZG63K)
+ - 🚯 [Henry Cavill is such a cool guy, but his uncle is now a witcher](http://9gag.com/gag/aegpK8m)<!-- MEMES:END -->
 
 --- 
 
