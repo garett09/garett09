@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Scam!!!](http://9gag.com/gag/ajgnY7p)
- - 🚯 [Logic.](http://9gag.com/gag/aPZG63K)
- - 🚯 [Henry Cavill is such a cool guy, but his uncle is now a witcher](http://9gag.com/gag/aegpK8m)<!-- MEMES:END -->
+ - 🚖 [Driver : What the...](http://9gag.com/gag/aLvBRL5)
+ - 🚯 [Henry Cavill is such a cool guy, but his uncle is now a witcher](http://9gag.com/gag/aegpK8m)
+ - 🚯 [Mary Jane, Mary Jane, without Spider-Man she&amp;#039;s very plain](http://9gag.com/gag/aDDmALw)<!-- MEMES:END -->
 
 --- 
 
