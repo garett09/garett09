@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [And you?](http://9gag.com/gag/a91L3Wm)
- - 🚯 [Suspicious](http://9gag.com/gag/aNPZybG)
- - 🚯 [I recently played through The Witcher 3 and I can honestly say that it is by far the best game I&amp;#039;ve played. Everything in the game is just perfect](http://9gag.com/gag/arn46xd)<!-- MEMES:END -->
+ - 🚖 [The most disappointing beat drop..](http://9gag.com/gag/aqGNvop)
+ - 🚯 [I recently played through The Witcher 3 and I can honestly say that it is by far the best game I&amp;#039;ve played. Everything in the game is just perfect](http://9gag.com/gag/arn46xd)
+ - 🚯 [Suspicious](http://9gag.com/gag/aNPZybG)<!-- MEMES:END -->
 
 --- 
 
