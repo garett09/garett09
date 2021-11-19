@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best rugged Google Pixel 6 cases](https://www.androidauthority.com/best-rugged-google-pixel-6-cases-3060451/)
- - [Apple TV+ nets Grateful Dead biopic directed by Martin Scorsese, starring Jonah Hill](https://appleinsider.com/articles/21/11/18/apple-tv-nets-grateful-dead-biopic-directed-by-martin-scorsese-starring-jonah-hill?utm_medium=rss)
- - [Apple&#39;s Self Service Repair unlikely to impact iPhone upgrade cycle, study finds](https://appleinsider.com/articles/21/11/19/apples-self-service-repair-unlikely-to-impact-iphone-upgrade-cycle-study-finds?utm_medium=rss)<!-- TECH:END -->
+ - [Digital Currency Group raises $600M in a new credit facility led by Eldridge, two weeks after raising $700M in a secondary stock sale at a $10B+ valuation &lpar;Aoyon Ashraf/CoinDesk&rpar;](http://www.techmeme.com/211118/p48#a211118p48)
+ - [Xbox Game Pass: The best games you need to play     - CNET](https://www.cnet.com/news/best-games-xbox-game-pass/#ftag=CAD590a51e)
+ - [Crypto collective falls short in bid for 1st edition of US Constitution     - CNET](https://www.cnet.com/news/crypto-collective-falls-short-in-bid-for-1st-edition-of-us-constitution/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
