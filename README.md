@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Activision leadership now under fire from Xbox, PlayStation bosses](https://www.polygon.com/22791574/activision-sex-harassment-lawsuit-xbox-playstation-criticism-bobby-kotick)
- - [Share of the Week: Hi-tech](https://blog.playstation.com/2021/11/19/share-of-the-week-hi-tech/)
- - [Share of the Week: Hi-tech](https://blog.playstation.com/2021/11/19/share-of-the-week-hi-tech/)<!-- GAME:END -->
+ - [See The CW Batwoman’s take on Poison Ivy in all her glory](https://www.polygon.com/22723696/batwoman-poison-ivy-cast-season-3-photo)
+ - [Brilliant Diamond and Shining Pearl’s camera is out of control](https://www.polygon.com/22790286/brilliant-diamond-shining-pearl-remakes-camera-nintendo-switch)
+ - [Rockstar apologizes for GTA Definitive Edition issues, will bring back classic PC versions](https://www.polygon.com/22791643/gta-trilogy-definitive-edition-remaster-rockstar-apology-patch-update)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
