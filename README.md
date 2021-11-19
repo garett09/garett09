@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Halo Infinite&#39;s Battle Pass now grants you XP for completing a match](https://www.pcgamer.com/halo-infinites-battle-pass-progression-will-be-changed-following-widespread-criticism)
  - [When does Battlefield 2042 release in my timezone?](https://www.pcgamer.com/battlefield-2042-release-time-zone)
- - [The woman whose sexy, violent exploitation films are still overlooked](https://www.polygon.com/22788636/great-exploitation-movies-stephanie-rothman)
- - [Battlefield 2042 guns list: the best weapons to get started with](https://www.pcgamer.com/best-battlefild-2042-guns-weapons-list/)<!-- GAME:END -->
+ - [The woman whose sexy, violent exploitation films are still overlooked](https://www.polygon.com/22788636/great-exploitation-movies-stephanie-rothman)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
