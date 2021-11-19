@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Girls Who Code Ends Relationship With Activision Blizzard Following Latest Revelations](https://kotaku.com/girls-who-code-ends-relationship-with-activision-blizza-1848089421)
- - [Black Friday: Celebrate Play with Xbox Games, Gaming PCs, and Accessories](https://news.xbox.com/en-us/2021/11/19/black-friday-celebrate-play-with-games-and-accessories/)
- - [Meet the ‘cozy streamers’ of Twitch combating hate on the platform](https://www.polygon.com/22785958/twitch-cozy-streamers-wholesome-games)<!-- GAME:END -->
+ - [Activision leadership now under fire from Xbox, PlayStation bosses](https://www.polygon.com/22791574/activision-sex-harassment-lawsuit-xbox-playstation-criticism-bobby-kotick)
+ - [Share of the Week: Hi-tech](https://blog.playstation.com/2021/11/19/share-of-the-week-hi-tech/)
+ - [Share of the Week: Hi-tech](https://blog.playstation.com/2021/11/19/share-of-the-week-hi-tech/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
