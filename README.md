@@ -187,8 +187,8 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- TECH:START -->
  - [Netomi, which offers customer-service chatbots, raises a $30M Series B led by WndrCo LLC at a $210M valuation, bringing its total funding to $52M &lpar;Ann-Marie Alc&amp;aacute;ntara/Wall Street Journal&rpar;](http://www.techmeme.com/211119/p1#a211119p1)
- - [Stream these movies for free right now &lpar;yes, really&rpar;: Django Unchained, Lady Bird, more     - CNET](https://www.cnet.com/news/free-movies-watch-stream/#ftag=CAD590a51e)
- - [All the Pixar movies ranked, from best to The Good Dinosaur     - CNET](https://www.cnet.com/news/pixar-movies-ranked-best-worst/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Bored Ape Yacht Club: Explaining the NFT collection craze     - CNET](https://www.cnet.com/news/bored-ape-yacht-club-explaining-the-nft-craze/#ftag=CAD590a51e)
+ - [Halo: Infinite needs an over 35 &#39;Masters&#39; mode because I&#39;m old and I suck     - CNET](https://www.cnet.com/news/halo-infinite-needs-an-over-35-mode-because-im-old-and-terrible/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
