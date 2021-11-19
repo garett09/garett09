@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Forza Horizon 5 Is Actually A Bleak Dystopia In Which Humanity Must Flee The Cars](https://kotaku.com/in-forza-horizon-5-cars-have-stolen-the-world-from-hum-1848090276)
- - [All the Easter eggs in Cowboy Bebop season 1](https://www.polygon.com/22790056/cowboy-bebop-easter-eggs-season-1-netflix)
- - [Will Smith’s real-life sports drama King Richard is so much more fun than it should be](https://www.polygon.com/reviews/22791505/king-richard-review-will-smith)<!-- GAME:END -->
+ - [F-Zero Fans Offer $5,000 Bounty For Long-Lost SNES Race Tracks](https://kotaku.com/f-zero-fans-offer-5-000-bounty-for-long-lost-snes-race-1848091673)
+ - [Call of Duty Warzone Pacific: new Caldera map, release date, other details](https://www.polygon.com/guides/22778314/call-of-duty-warzone-pacific-new-map-caldera-release-date-progression-playlists-loadouts)
+ - [Call of Duty: Warzone Pacific launch delayed one week](https://www.polygon.com/22791920/call-of-duty-warzone-pacific-release-date-delayed-vanguard-caldera-map-launch)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
