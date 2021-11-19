@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Open Connect, Netflix&#39;s in-house CDN that launched a decade ago and spans 17,000 servers across 158 countries &lpar;Catie Keck/The Verge&rpar;](http://www.techmeme.com/211119/p2#a211119p2)
- - [Black Friday flash sale: Audible Premium Plus for only $6 a month plus $20 in credits     - CNET](https://www.cnet.com/tech/services-and-software/audible-black-friday-sale-get-audible-premium-plus-for-only-6-a-month/#ftag=CAD590a51e)
- - [Halo Infinite’s Grappleshot helps make the familiar feel new](https://www.theverge.com/2021/11/19/22789035/halo-infinite-campaign-preview)<!-- TECH:END -->
+ - [Apple&#39;s Self Service Repair unlikely to impact iPhone upgrade cycle, study finds](https://appleinsider.com/articles/21/11/19/apples-self-service-repair-unlikely-to-impact-iphone-upgrade-cycle-study-finds?utm_medium=rss)
+ - [Afiniti, which provides call center software, removes its CEO after sexual assault allegations by an ex-employee who testified before the US judiciary committee &lpar;Bloomberg&rpar;](http://www.techmeme.com/211119/p3#a211119p3)
+ - [A look at Open Connect, Netflix&#39;s in-house CDN that launched a decade ago and spans 17,000 servers across 158 countries &lpar;Catie Keck/The Verge&rpar;](http://www.techmeme.com/211119/p2#a211119p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
