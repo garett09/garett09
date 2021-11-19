@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [F-Zero Fans Offer $5,000 Bounty For Long-Lost SNES Race Tracks](https://kotaku.com/f-zero-fans-offer-5-000-bounty-for-long-lost-snes-race-1848091673)
- - [Call of Duty Warzone Pacific: new Caldera map, release date, other details](https://www.polygon.com/guides/22778314/call-of-duty-warzone-pacific-new-map-caldera-release-date-progression-playlists-loadouts)
- - [Call of Duty: Warzone Pacific launch delayed one week](https://www.polygon.com/22791920/call-of-duty-warzone-pacific-release-date-delayed-vanguard-caldera-map-launch)<!-- GAME:END -->
+ - [An Open Thread If You Need To Vent](https://kotaku.com/an-open-thread-if-you-need-to-vent-1848092396)
+ - [GTA Trilogy Fans Say They&#39;ve Found A Clue About GTA 6](https://kotaku.com/gta-trilogy-fans-say-theyve-found-a-clue-about-gta-6-1848091863)
+ - [Battlefield 2042 immediately has thousands of negative reviews on Steam](https://www.pcgamer.com/battlefield-2042-immediately-has-thousands-of-negative-reviews-on-steam)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
