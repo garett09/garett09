@@ -187,8 +187,8 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- TECH:START -->
  - [Rockstar promises fixes for GTA remaster mess, will relist original titles on PC](https://www.theverge.com/2021/11/19/22791656/rockstar-gta-trilogy-remaster-mess-re-list-original-titles-pc)
- - [Benchling, which makes cloud-based software to manage biotech R&amp;D, raises a $100M Series F at a $6.1B valuation; Benchling was last valued at $4B in April &lpar;Michelle F Davis/Bloomberg&rpar;](http://www.techmeme.com/211119/p13#a211119p13)
- - [Save 36% on a Setapp 1-year subscription, access over 210 Mac apps](https://appleinsider.com/articles/21/11/19/save-36-on-a-setapp-1-year-subscription-access-over-210-mac-apps?utm_medium=rss)<!-- TECH:END -->
+ - [6 best Android parental control apps and other methods](https://www.androidauthority.com/best-parental-control-apps-android-1133716/)
+ - [Benchling, which makes cloud-based software to manage biotech R&amp;D, raises a $100M Series F at a $6.1B valuation; Benchling was last valued at $4B in April &lpar;Michelle F Davis/Bloomberg&rpar;](http://www.techmeme.com/211119/p13#a211119p13)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
