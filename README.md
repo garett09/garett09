@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple shares close at record high, company regains top market valuation](https://appleinsider.com/articles/21/11/19/apple-shares-close-at-record-high-company-regains-top-market-valuation?utm_medium=rss)
- - [A hedge fund billionaire outbid crypto investors for a rare copy of the US Constitution](https://www.theverge.com/2021/11/19/22791989/citadel-ceo-ken-griffin-won-constitutiondao-sothebys-auction)
- - [13 Great Black Friday Deals on Google Devices We Like](https://www.wired.com/story/best-black-friday-google-device-deals-2021)<!-- TECH:END -->
+ - [NZXT introduces $800 gaming PC with no dedicated GPU](https://www.theverge.com/2021/11/19/22791695/nzxt-foundation-gaming-pc-apu-5600g-scalpers-availibility)
+ - [AirPods, Beats Fit Pro battery swaps nearly impossible, iFixit teardown finds](https://appleinsider.com/articles/21/11/19/airpods-beats-fit-pro-battery-swaps-nearly-impossible-ifixit-teardown-finds?utm_medium=rss)
+ - [Google questions whether DOJ&#39;s new top antitrust official Jonathan Kanter can be impartial, citing his work with Yelp and the News Media Alliance &lpar;David McCabe/New York Times&rpar;](http://www.techmeme.com/211119/p18#a211119p18)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
