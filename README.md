@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Black Friday tech deals under $50](https://www.theverge.com/22789905/black-friday-2021-tech-deals-under-50-cyber-monday)
- - [In its S-1, Samsara, which makes vehicle fleet management software, says revenue grew ~81% to $216.8M for nine months ended Oct. 30, with net loss of $102.3M &lpar;Reuters&rpar;](http://www.techmeme.com/211119/p9#a211119p9)
- - [17 Best Early Black Friday Deals on Amazon Devices](https://www.wired.com/story/best-black-friday-amazon-device-deals-2021)<!-- TECH:END -->
+ - [Tesla accused of ‘rampant sexual harassment’ in new worker lawsuit](https://www.theverge.com/2021/11/19/22791321/worker-sues-tesla-rampant-sexual-harassment-fremont-elon-musk)
+ - [Netflix’s Cowboy Bebop Fails](https://www.wired.com/story/cowboy-bebop-fails)
+ - [&#39;Apple Car&#39; partnership in 2022 to set stage for 2025 launch, analyst says](https://appleinsider.com/articles/21/11/19/apple-car-partnership-in-2022-to-set-stage-for-2025-launch-analyst-says?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
