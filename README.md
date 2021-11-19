@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [I&#39;m Enjoying Battlefield 2042, But There May Be Something Wrong With Me](https://kotaku.com/im-enjoying-battlefield-2042-but-there-may-be-somethin-1848085935)
- - [Over 1200 Activision Blizzard Employees Sign Petition Demanding CEO Bobby Kotick Quit](https://kotaku.com/over-1200-activision-blizzard-employees-sign-petition-d-1848086536)
- - [Destiny 2 Gets Biggest Balance Patch Ever Next Month](https://kotaku.com/destiny-2-gets-biggest-balance-patch-ever-next-month-1848086349)<!-- GAME:END -->
+ - [The woman whose sexy, violent exploitation films are still overlooked](https://www.polygon.com/22788636/great-exploitation-movies-stephanie-rothman)
+ - [Battlefield 2042 guns list: the best weapons to get started with](https://www.pcgamer.com/best-battlefild-2042-guns-weapons-list/)
+ - [Bethesda is working on a patch for the Skyrim Anniversary Edition update](https://www.pcgamer.com/bethesda-is-working-on-a-patch-for-the-skyrim-anniversary-edition-update)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
