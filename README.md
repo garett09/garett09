@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s Self Service Repair unlikely to impact iPhone upgrade cycle, study finds](https://appleinsider.com/articles/21/11/19/apples-self-service-repair-unlikely-to-impact-iphone-upgrade-cycle-study-finds?utm_medium=rss)
- - [Afiniti, which provides call center software, removes its CEO after sexual assault allegations by an ex-employee who testified before the US judiciary committee &lpar;Bloomberg&rpar;](http://www.techmeme.com/211119/p3#a211119p3)
- - [A look at Open Connect, Netflix&#39;s in-house CDN that launched a decade ago and spans 17,000 servers across 158 countries &lpar;Catie Keck/The Verge&rpar;](http://www.techmeme.com/211119/p2#a211119p2)<!-- TECH:END -->
+ - [Facebook is paying musicians and creators up to $50,000 to use its live audio features](https://www.theverge.com/2021/11/19/22791007/facebook-live-audio-rooms-paying-creators-musicians)
+ - [How Twitter got research right](https://www.theverge.com/2021/11/19/22790174/twitter-research-transparency-published-findings)
+ - [Apple promotes ways of staying connected with new SharePlay feature](https://appleinsider.com/articles/21/11/18/apple-promotes-ways-of-staying-connected-with-new-shareplay-feature?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
