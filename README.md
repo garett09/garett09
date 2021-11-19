@@ -194,7 +194,7 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Temperature scale](http://9gag.com/gag/azeVg0q)
- - 🚯 [Until this day she&amp;#039;s still in shock](http://9gag.com/gag/a41L4dZ)
+ - 🚯 [It is what it is](http://9gag.com/gag/a21qzW9)
  - 🚯 [Customer is the one that pays](http://9gag.com/gag/a51Ke5E)<!-- MEMES:END -->
 
 --- 
