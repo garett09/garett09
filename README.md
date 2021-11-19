@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best deals Nov. 19: $4.99 webcam, $189 AirPods Pro, discounted Eero WiFi](https://appleinsider.com/articles/21/11/19/best-deals-nov-19-499-webcam-189-airpods-pro-discounted-eero-wifi?utm_medium=rss)
- - [&#39;Apple Car&#39; will disrupt auto industry, says Morgan Stanley](https://appleinsider.com/articles/21/11/19/apple-car-will-disrupt-auto-industry-says-morgan-stanley?utm_medium=rss)
- - [A finder’s fee won’t guarantee a PS5 from Amazon, Walmart, or Best Buy this holiday](https://www.theverge.com/2021/11/19/22771984/ps5-restock-xbox-best-buy-walmart-amazon-subscription)<!-- TECH:END -->
+ - [The best Black Friday tech deals under $50](https://www.theverge.com/22789905/black-friday-2021-tech-deals-under-50-cyber-monday)
+ - [In its S-1, Samsara, which makes vehicle fleet management software, says revenue grew ~81% to $216.8M for nine months ended Oct. 30, with net loss of $102.3M &lpar;Reuters&rpar;](http://www.techmeme.com/211119/p9#a211119p9)
+ - [17 Best Early Black Friday Deals on Amazon Devices](https://www.wired.com/story/best-black-friday-amazon-device-deals-2021)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
