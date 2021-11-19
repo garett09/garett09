@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Life-Sized Lucario Goes On Sale In Japan For $400](https://kotaku.com/life-sized-lucario-goes-on-sale-in-japan-for-400-1848087932)
- - [Best gaming keyboards in 2021](https://www.pcgamer.com/best-gaming-keyboard)
- - [The best gaming mouse in 2021](https://www.pcgamer.com/the-best-gaming-mouse)<!-- GAME:END -->
+ - [Best Black Friday PC gaming deals: discounts on everything from full PCs to gaming chairs](https://www.pcgamer.com/black-friday-pc-gaming-deals-2021)
+ - [Deathloop update makes sweeping improvements to enemy AI and PvP exploits](https://www.pcgamer.com/deathloop-update-makes-sweeping-improvements-to-enemy-ai-and-pvp-exploits)
+ - [AMD smooths out Battlefield 2042 crashes with latest Radeon GPU driver update](https://www.pcgamer.com/amd-smooths-out-battlefield-2042-crashes-with-latest-radeon-gpu-driver-update)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
