@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Bring Futurama back](http://9gag.com/gag/a91L3Mj)
- - 🚯 [And you?](http://9gag.com/gag/a91L3Wm)
- - 🚯 [Living lavish](http://9gag.com/gag/a0ZLAML)<!-- MEMES:END -->
+ - 🚖 [The first rule](http://9gag.com/gag/a61yv32)
+ - 🚯 [Living lavish](http://9gag.com/gag/a0ZLAML)
+ - 🚯 [It&amp;#039;s neither a bird or a plane but... a beer](http://9gag.com/gag/aAGrWD2)<!-- MEMES:END -->
 
 --- 
 
