@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Temperature scale](http://9gag.com/gag/azeVg0q)
- - 🚯 [It is what it is](http://9gag.com/gag/a21qzW9)
- - 🚯 [Customer is the one that pays](http://9gag.com/gag/a51Ke5E)<!-- MEMES:END -->
+ - 🚖 [Set of instructions I found in the description box of a fitted bedsheet while browsing through stuff](https://www.reddit.com/r/funny/comments/qxj5bw/set_of_instructions_i_found_in_the_description/)
+ - 🚯 [Never lose a chance](https://www.reddit.com/r/funny/comments/qxipyk/never_lose_a_chance/)
+ - 🚯 [My collection will make me millions.](https://www.reddit.com/r/funny/comments/qxic4b/my_collection_will_make_me_millions/)<!-- MEMES:END -->
 
 --- 
 
