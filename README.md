@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Black Friday 2021: Deals on phones, wearables, earbuds, and more](https://www.androidauthority.com/black-friday-deals-3049753/)
- - [You told us: Most of you think the Huawei ban should be dropped altogether](https://www.androidauthority.com/huawei-ban-survey-results-3062045/)
- - [Netomi, which offers customer-service chatbots, raises a $30M Series B led by WndrCo LLC at a $210M valuation, bringing its total funding to $52M &lpar;Ann-Marie Alc&amp;aacute;ntara/Wall Street Journal&rpar;](http://www.techmeme.com/211119/p1#a211119p1)<!-- TECH:END -->
+ - [Halo Infinite’s Grappleshot helps make the familiar feel new](https://www.theverge.com/2021/11/19/22789035/halo-infinite-campaign-preview)
+ - [The Bold Gamble to Make Halo Infinite Last Forever](https://www.wired.com/story/halo-infinite-interview-live-service)
+ - [Xiaomi 12X leaks: A smaller flagship with a camera upgrade?](https://www.androidauthority.com/xiaomi-12x-3062064/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
