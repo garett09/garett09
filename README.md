@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [And the award for parent of the year goes to…](https://www.reddit.com/r/funny/comments/qxk4ch/and_the_award_for_parent_of_the_year_goes_to/)
- - 🚯 [That’s so NICE](https://www.reddit.com/r/funny/comments/qxj9j1/thats_so_nice/)
- - 🚯 [Set of instructions I found in the description box of a fitted bedsheet while browsing through stuff](https://www.reddit.com/r/funny/comments/qxj5bw/set_of_instructions_i_found_in_the_description/)<!-- MEMES:END -->
+ - 🚖 [Save the dollar &amp; donate it yourself [oc]](https://www.reddit.com/r/funny/comments/qxl741/save_the_dollar_donate_it_yourself_oc/)
+ - 🚯 [I found a bunch of fake cameras at Goodwill](https://www.reddit.com/r/funny/comments/qxkm66/i_found_a_bunch_of_fake_cameras_at_goodwill/)
+ - 🚯 [Cats in a nutshell](https://www.reddit.com/r/funny/comments/qxkm5n/cats_in_a_nutshell/)<!-- MEMES:END -->
 
 --- 
 
