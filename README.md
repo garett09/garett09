@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Digital Currency Group raises $600M in a new credit facility led by Eldridge, two weeks after raising $700M in a secondary stock sale at a $10B+ valuation &lpar;Aoyon Ashraf/CoinDesk&rpar;](http://www.techmeme.com/211118/p48#a211118p48)
- - [Xbox Game Pass: The best games you need to play     - CNET](https://www.cnet.com/news/best-games-xbox-game-pass/#ftag=CAD590a51e)
- - [Crypto collective falls short in bid for 1st edition of US Constitution     - CNET](https://www.cnet.com/news/crypto-collective-falls-short-in-bid-for-1st-edition-of-us-constitution/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Netomi, which offers customer-service chatbots, raises a $30M Series B led by WndrCo LLC at a $210M valuation, bringing its total funding to $52M &lpar;Ann-Marie Alc&amp;aacute;ntara/Wall Street Journal&rpar;](http://www.techmeme.com/211119/p1#a211119p1)
+ - [Stream these movies for free right now &lpar;yes, really&rpar;: Django Unchained, Lady Bird, more     - CNET](https://www.cnet.com/news/free-movies-watch-stream/#ftag=CAD590a51e)
+ - [All the Pixar movies ranked, from best to The Good Dinosaur     - CNET](https://www.cnet.com/news/pixar-movies-ranked-best-worst/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
