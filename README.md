@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Best Black Friday PC gaming deals: discounts on everything from full PCs to gaming chairs](https://www.pcgamer.com/black-friday-pc-gaming-deals-2021)
- - [Deathloop update makes sweeping improvements to enemy AI and PvP exploits](https://www.pcgamer.com/deathloop-update-makes-sweeping-improvements-to-enemy-ai-and-pvp-exploits)
- - [AMD smooths out Battlefield 2042 crashes with latest Radeon GPU driver update](https://www.pcgamer.com/amd-smooths-out-battlefield-2042-crashes-with-latest-radeon-gpu-driver-update)<!-- GAME:END -->
+ - [Black Friday gaming laptop deals 2021: the best laptop deals for any budget](https://www.pcgamer.com/black-friday-gaming-laptop-deals)
+ - [10 mods to make GTA Trilogy a smoother experience](https://www.pcgamer.com/best-gta-trilogy-mods-definitive-edition)
+ - [This RTX 3060 MSI gaming laptop is a smart penny-saver purchase at $850](https://www.pcgamer.com/this-rtx-3060-msi-gaming-laptop-is-a-smart-penny-saver-purchase-at-dollar84999)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
