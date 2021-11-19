@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Facebook is paying musicians and creators up to $50,000 to use its live audio features](https://www.theverge.com/2021/11/19/22791007/facebook-live-audio-rooms-paying-creators-musicians)
- - [How Twitter got research right](https://www.theverge.com/2021/11/19/22790174/twitter-research-transparency-published-findings)
- - [Apple promotes ways of staying connected with new SharePlay feature](https://appleinsider.com/articles/21/11/18/apple-promotes-ways-of-staying-connected-with-new-shareplay-feature?utm_medium=rss)<!-- TECH:END -->
+ - [Discord now lets you send up to 10 &lpar;accessible&rpar; memes at a time](https://www.theverge.com/2021/11/19/22791035/discord-alt-text-support-10-image-uploads-at-a-time)
+ - [Some of Jabra’s most popular earbuds are on sale right now for Black Friday](https://www.androidauthority.com/jabra-black-friday-deals-3061730/)
+ - [New Covid Drugs Are Here—and They Could Change the Pandemic](https://www.wired.com/story/new-covid-drugs-are-here-and-they-could-change-the-pandemic)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
