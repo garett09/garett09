@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Yes](http://9gag.com/gag/a41dDvd)
- - 🚯 [Wyd if you were this hunter?](http://9gag.com/gag/ay90y8y)
+ - 🚖 [Bring Futurama back](http://9gag.com/gag/a91L3Mj)
+ - 🚯 [And you?](http://9gag.com/gag/a91L3Wm)
  - 🚯 [Living lavish](http://9gag.com/gag/a0ZLAML)<!-- MEMES:END -->
 
 --- 
