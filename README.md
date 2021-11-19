@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Halo Infinite&#39;s Battle Pass now grants you XP for completing a match](https://www.pcgamer.com/halo-infinites-battle-pass-progression-will-be-changed-following-widespread-criticism)
- - [When does Battlefield 2042 release in my timezone?](https://www.pcgamer.com/battlefield-2042-release-time-zone)
- - [The woman whose sexy, violent exploitation films are still overlooked](https://www.polygon.com/22788636/great-exploitation-movies-stephanie-rothman)<!-- GAME:END -->
+ - [The Best PlayStations Were Beat To Hell](https://kotaku.com/the-best-playstations-were-beat-to-hell-1848087305)
+ - [Best Black Friday PC gaming deals in Australia: discounts on everything from monitors to chairs](https://www.pcgamer.com/black-friday-2021-the-pc-gaming-deals-you-can-expect-in-australia)
+ - [Halo Infinite&#39;s Battle Pass now grants you XP for completing a match](https://www.pcgamer.com/halo-infinites-battle-pass-progression-will-be-changed-following-widespread-criticism)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
