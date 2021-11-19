@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to play and share Apple Music on the Apple Watch in watchOS 8](https://appleinsider.com/articles/21/11/17/how-to-play-and-share-apple-music-on-apple-watch?utm_medium=rss)
- - [How to hide photos in iOS 15 and iPadOS 15](https://appleinsider.com/articles/21/11/18/how-to-hide-photos-on-the-iphone?utm_medium=rss)
- - [iOttie Velox car charger review: A luxe MagSafe-compatible Qi vent mount](https://appleinsider.com/articles/21/11/18/iottie-velox-car-charger-review-a-luxe-magsafe-compatible-qi-vent-mount?utm_medium=rss)<!-- TECH:END -->
+ - [ConstitutionDAO loses $43 million auction of rare US Constitution copy](https://www.theverge.com/2021/11/18/22790452/constitutiondao-loses-auction-for-rare-us-constitution-copy-sothebys)
+ - [ConstitutionDAO loses Sotheby&#39;s US Constitution auction to an undisclosed winner&#39;s $41M bid, after crowdfunding over $40M &lpar;Abram Brown/Forbes&rpar;](http://www.techmeme.com/211118/p44#a211118p44)
+ - [Apple&#39;s Self Service Repair unlikely to impact iPhone upgrade cycle, study finds](https://appleinsider.com/articles/21/11/19/apples-self-service-repair-unlikely-to-impact-iphone-upgrade-cycle-study-finds?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
