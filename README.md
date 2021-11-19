@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Halo Infinite’s Grappleshot helps make the familiar feel new](https://www.theverge.com/2021/11/19/22789035/halo-infinite-campaign-preview)
- - [The Bold Gamble to Make Halo Infinite Last Forever](https://www.wired.com/story/halo-infinite-interview-live-service)
- - [Xiaomi 12X leaks: A smaller flagship with a camera upgrade?](https://www.androidauthority.com/xiaomi-12x-3062064/)<!-- TECH:END -->
+ - [A look at Open Connect, Netflix&#39;s in-house CDN that launched a decade ago and spans 17,000 servers across 158 countries &lpar;Catie Keck/The Verge&rpar;](http://www.techmeme.com/211119/p2#a211119p2)
+ - [Black Friday flash sale: Audible Premium Plus for only $6 a month plus $20 in credits     - CNET](https://www.cnet.com/tech/services-and-software/audible-black-friday-sale-get-audible-premium-plus-for-only-6-a-month/#ftag=CAD590a51e)
+ - [Halo Infinite’s Grappleshot helps make the familiar feel new](https://www.theverge.com/2021/11/19/22789035/halo-infinite-campaign-preview)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
