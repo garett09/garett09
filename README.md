@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Star Wars: The Old Republic expansion Legacy of the Sith comes out December 14](https://www.pcgamer.com/star-wars-the-old-republic-expansion-legacy-of-the-sith-comes-out-december-14)
  - [Pokémon Brilliant Diamond and Pokémon Shining Pearl guides](https://www.polygon.com/pokemon-brilliant-diamond-shining-pearl-guide/22784154/beginner-starter-exclusive-strength-weakness-gym-leader-breeding-ev-training-grand-underground)
- - [The Best PlayStations Were Beat To Hell](https://kotaku.com/the-best-playstations-were-beat-to-hell-1848087305)
- - [Best Black Friday PC gaming deals in Australia: discounts on everything from monitors to chairs](https://www.pcgamer.com/black-friday-2021-the-pc-gaming-deals-you-can-expect-in-australia)<!-- GAME:END -->
+ - [The Best PlayStations Were Beat To Hell](https://kotaku.com/the-best-playstations-were-beat-to-hell-1848087305)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
