@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The big backstory of Netflix’s musical Tick, Tick… Boom! is as vital as its actual plot](https://www.polygon.com/22776394/tick-tick-boom-review-netflix)
- - [Escape into a beautiful world of gardening, village-building, and giving belly rubs to bugs](https://www.pcgamer.com/escape-into-a-beautiful-world-of-gardening-village-building-and-giving-belly-rubs-to-bugs)
- - [Shin Megami Tensei V&#39;s Demons Are Cheeky Little Bastards](https://kotaku.com/shin-megami-tensei-vs-demons-are-cheeky-little-bastards-1848092492)<!-- GAME:END -->
+ - [The Feast squishes its way through one of the year’s smartest, most sickening horror stories](https://www.polygon.com/reviews/22792235/the-feast-review-horror)
+ - [Sony’s Mark Cerny explains how ‘brutal’ developer meetings influenced the PS5’s design](https://www.polygon.com/22792063/ps5-design-sony-mark-cerny-game-developers)
+ - [Here Are Your Chances Of Finding Shinies In Pokémon Diamond And Pearl Remasters](https://kotaku.com/here-are-your-chances-of-finding-shinies-in-pokemon-dia-1848093242)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
