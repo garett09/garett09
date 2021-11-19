@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [ConstitutionDAO loses $43 million auction of rare US Constitution copy](https://www.theverge.com/2021/11/18/22790452/constitutiondao-loses-auction-for-rare-us-constitution-copy-sothebys)
- - [ConstitutionDAO loses Sotheby&#39;s US Constitution auction to an undisclosed winner&#39;s $41M bid, after crowdfunding over $40M &lpar;Abram Brown/Forbes&rpar;](http://www.techmeme.com/211118/p44#a211118p44)
- - [Apple&#39;s Self Service Repair unlikely to impact iPhone upgrade cycle, study finds](https://appleinsider.com/articles/21/11/19/apples-self-service-repair-unlikely-to-impact-iphone-upgrade-cycle-study-finds?utm_medium=rss)<!-- TECH:END -->
+ - [Sources: Facebook is offering musicians and celebrities, via production companies, tens of thousands of dollars to host sessions on Live Audio Rooms &lpar;The Information&rpar;](http://www.techmeme.com/211118/p45#a211118p45)
+ - [Today, a jury got to hear Elizabeth Holmes’ lies for themselves](https://www.theverge.com/2021/11/18/22790541/elizabeth-holmes-fraud-lies-recording)
+ - [The NFT Bay asks if you would steal all the JPEGs](https://www.theverge.com/2021/11/18/22790131/nft-bay-pirating-digital-ownership-piracy-crypto-art-right-click)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
