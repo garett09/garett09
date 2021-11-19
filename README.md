@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Black Friday gaming laptop deals 2021: the best laptop deals for any budget](https://www.pcgamer.com/black-friday-gaming-laptop-deals)
- - [10 mods to make GTA Trilogy a smoother experience](https://www.pcgamer.com/best-gta-trilogy-mods-definitive-edition)
- - [This RTX 3060 MSI gaming laptop is a smart penny-saver purchase at $850](https://www.pcgamer.com/this-rtx-3060-msi-gaming-laptop-is-a-smart-penny-saver-purchase-at-dollar84999)<!-- GAME:END -->
+ - [Battlefield 2042 Available Now for Xbox One and Xbox Series X|S](https://news.xbox.com/en-us/2021/11/19/battlefield-2042-available-now-for-xbox-one-and-xbox-series-xs/)
+ - [Best Black Friday PC gaming deals: discounts on everything from full PCs to gaming chairs](https://www.pcgamer.com/black-friday-pc-gaming-deals-2021)
+ - [Counter-Strike gets stickers for... Battlefield 2042?](https://www.pcgamer.com/counter-strike-gets-stickers-for-battlefield-2042)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
