@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Halo Infinite has a real shot at reclaiming the series’ multiplayer throne](https://www.polygon.com/22790048/halo-infinite-multiplayer-impressions)
- - [Like a ninja, Sifu gracefully dodges the Elden Ring release date](https://www.pcgamer.com/like-a-ninja-sifu-gracefully-dodges-the-elden-ring-release-date)
- - [The most peculiar, bizarre items in Animal Crossing’s update](https://www.polygon.com/22789656/animal-crossing-new-horizons-update-peculiar-weird-items)<!-- GAME:END -->
+ - [I&#39;m Enjoying Battlefield 2042, But There May Be Something Wrong With Me](https://kotaku.com/im-enjoying-battlefield-2042-but-there-may-be-somethin-1848085935)
+ - [Over 1200 Activision Blizzard Employees Sign Petition Demanding CEO Bobby Kotick Quit](https://kotaku.com/over-1200-activision-blizzard-employees-sign-petition-d-1848086536)
+ - [Destiny 2 Gets Biggest Balance Patch Ever Next Month](https://kotaku.com/destiny-2-gets-biggest-balance-patch-ever-next-month-1848086349)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
