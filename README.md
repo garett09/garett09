@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s new self-service repair program and the state of Apple software stability on the AppleInsider podcast](https://appleinsider.com/articles/21/11/19/apples-new-self-service-repair-program-and-the-state-of-apple-software-stability-on-the-appleinsider-podcast?utm_medium=rss)
- - [The Best Wireless Earbuds for Every Need](https://www.wired.com/gallery/best-wirefree-earbuds)
- - [Netflix’s New Top 10 Lists Feel Like a Grasp for Relevance](https://www.wired.com/story/netflix-top-10-relevance)<!-- TECH:END -->
+ - [Best deals Nov. 19: $4.99 webcam, $189 AirPods Pro, discounted Eero WiFi](https://appleinsider.com/articles/21/11/19/best-deals-nov-19-499-webcam-189-airpods-pro-discounted-eero-wifi?utm_medium=rss)
+ - [&#39;Apple Car&#39; will disrupt auto industry, says Morgan Stanley](https://appleinsider.com/articles/21/11/19/apple-car-will-disrupt-auto-industry-says-morgan-stanley?utm_medium=rss)
+ - [A finder’s fee won’t guarantee a PS5 from Amazon, Walmart, or Best Buy this holiday](https://www.theverge.com/2021/11/19/22771984/ps5-restock-xbox-best-buy-walmart-amazon-subscription)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
