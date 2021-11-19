@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How to troll a redditor](https://www.reddit.com/r/funny/comments/qxnjh4/how_to_troll_a_redditor/)
- - 🚯 [Papa Elton](https://www.reddit.com/r/funny/comments/qxm6dh/papa_elton/)
- - 🚯 [This cat deserves an Oscar.](https://www.reddit.com/r/funny/comments/qxm664/this_cat_deserves_an_oscar/)<!-- MEMES:END -->
+ - 🚖 [Please read rule 7 before posting!](https://www.reddit.com/r/memes/comments/qxoix8/please_read_rule_7_before_posting/)
+ - 🚯 [How to troll a redditor](https://www.reddit.com/r/funny/comments/qxnjh4/how_to_troll_a_redditor/)
+ - 🚯 [Papa Elton](https://www.reddit.com/r/funny/comments/qxm6dh/papa_elton/)<!-- MEMES:END -->
 
 --- 
 
