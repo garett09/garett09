@@ -194,8 +194,8 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Save the dollar &amp; donate it yourself [oc]](https://www.reddit.com/r/funny/comments/qxl741/save_the_dollar_donate_it_yourself_oc/)
- - 🚯 [I found a bunch of fake cameras at Goodwill](https://www.reddit.com/r/funny/comments/qxkm66/i_found_a_bunch_of_fake_cameras_at_goodwill/)
- - 🚯 [Cats in a nutshell](https://www.reddit.com/r/funny/comments/qxkm5n/cats_in_a_nutshell/)<!-- MEMES:END -->
+ - 🚯 [Oh crap](https://www.reddit.com/r/funny/comments/qxkx8g/oh_crap/)
+ - 🚯 [Poor toad](https://www.reddit.com/r/memes/comments/qxks99/poor_toad/)<!-- MEMES:END -->
 
 --- 
 
