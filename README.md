@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hol up, but she&amp;#039;s the creator!](http://9gag.com/gag/aqGNv1L)
- - 🚯 [Living lavish](http://9gag.com/gag/a0ZLAML)
- - 🚯 [And you?](http://9gag.com/gag/a91L3Wm)<!-- MEMES:END -->
+ - 🚖 [And you?](http://9gag.com/gag/a91L3Wm)
+ - 🚯 [Suspicious](http://9gag.com/gag/aNPZybG)
+ - 🚯 [I recently played through The Witcher 3 and I can honestly say that it is by far the best game I&amp;#039;ve played. Everything in the game is just perfect](http://9gag.com/gag/arn46xd)<!-- MEMES:END -->
 
 --- 
 
