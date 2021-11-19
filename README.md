@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [An Open Thread If You Need To Vent](https://kotaku.com/an-open-thread-if-you-need-to-vent-1848092396)
- - [GTA Trilogy Fans Say They&#39;ve Found A Clue About GTA 6](https://kotaku.com/gta-trilogy-fans-say-theyve-found-a-clue-about-gta-6-1848091863)
- - [Battlefield 2042 immediately has thousands of negative reviews on Steam](https://www.pcgamer.com/battlefield-2042-immediately-has-thousands-of-negative-reviews-on-steam)<!-- GAME:END -->
+ - [The big backstory of Netflix’s musical Tick, Tick… Boom! is as vital as its actual plot](https://www.polygon.com/22776394/tick-tick-boom-review-netflix)
+ - [Escape into a beautiful world of gardening, village-building, and giving belly rubs to bugs](https://www.pcgamer.com/escape-into-a-beautiful-world-of-gardening-village-building-and-giving-belly-rubs-to-bugs)
+ - [Shin Megami Tensei V&#39;s Demons Are Cheeky Little Bastards](https://kotaku.com/shin-megami-tensei-vs-demons-are-cheeky-little-bastards-1848092492)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
