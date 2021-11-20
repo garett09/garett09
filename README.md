@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best early Black Friday deals at Best Buy](https://www.theverge.com/22789835/best-buy-black-friday-2021-cyber-monday-tech-deals)
  - [France-based Owkin, which helps medical researchers build and train AI models, raises $180M from pharmaceuticals company Sanofi &lpar;Conor Hale/FierceBiotech&rpar;](http://www.techmeme.com/211120/p12#a211120p12)
- - [10 shows like Succession: What to watch if you’re hooked on the HBO drama](https://www.androidauthority.com/shows-like-succession-hbo-3056679/)
- - [The massive 49-inch Samsung Odyssey G9 gaming monitor is $400 off on Amazon](https://www.theverge.com/2021/11/20/22793196/samsung-odyssey-g9-gaming-monitor-sale)<!-- TECH:END -->
+ - [Best Black Friday monitor deals     - CNET](https://www.cnet.com/tech/computing/best-black-friday-monitor-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
