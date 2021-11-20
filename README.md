@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Free fast travel in Forza Horizon 5 is so worth it](https://www.polygon.com/guides/22791427/forza-horizon-5-free-fast-travel-how-to)
- - [Black Friday gaming chair deals 2021: when and where to find the right chair for you](https://www.pcgamer.com/black-friday-gaming-chair-deals-2021)
- - [Black Friday gaming laptop deals 2021: the best laptop deals for any budget](https://www.pcgamer.com/black-friday-gaming-laptop-deals)<!-- GAME:END -->
+ - [Hextech Mayhem is a creative music game with room to improvise](https://www.polygon.com/reviews/22792029/hextech-mayhem-league-of-legends-riot-forge-game-review)
+ - [20 of the best anime to watch on Netflix right now](https://www.polygon.com/22783137/best-anime-on-netflix)
+ - [Best Black Friday PC gaming deals: discounts on everything from full PCs to gaming chairs](https://www.pcgamer.com/black-friday-pc-gaming-deals-2021)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
