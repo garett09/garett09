@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [What to make of Cowboy Bebop’s ending and odd last-minute character intro](https://www.polygon.com/22791071/cowboy-bebop-ed-red-hair-ending-butterfly-man)
  - [Here&#39;s All The Type Matchups In Pokémon Brilliant Diamond And Shining Pearl](https://kotaku.com/pokemon-type-chart-1848093804)
- - [Games Workshop fights back against fascist hate symbols in the Warhammer 40K community](https://www.pcgamer.com/games-workshop-fights-back-against-fascist-hate-symbols-in-the-warhammer-40k-community)
- - [Battlefield 2042&#39;s next update will fix revives and nerf the monstrous hovercraft](https://www.pcgamer.com/battlefield-2042s-next-update-will-fix-revives-and-nerf-the-monstrous-hovercraft)<!-- GAME:END -->
+ - [Games Workshop fights back against fascist hate symbols in the Warhammer 40K community](https://www.pcgamer.com/games-workshop-fights-back-against-fascist-hate-symbols-in-the-warhammer-40k-community)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
