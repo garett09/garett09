@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Apple Podcasts app&#39;s review score went from 1.8 to 4.6 stars as Apple began prompting users to rate the app, confusing some into rating individual podcasts &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/211120/p3#a211120p3)
- - [SoundHound, which offers voice AI tech to companies like Mercedes-Benz, Snap, and Mastercard, is going public via a SPAC merger at a ~$2.1B valuation &lpar;Gillian Tan/Bloomberg&rpar;](http://www.techmeme.com/211120/p2#a211120p2)
- - [Nomad Black Friday 2021 Sale: Save 30% on iPhone cases, MagSafe chargers, Apple Watch bands](https://appleinsider.com/articles/21/11/20/nomad-black-friday-2021-sale-save-30-on-iphone-cases-magsafe-chargers-apple-watch-bands?utm_medium=rss)<!-- TECH:END -->
+ - [How to delete a Google or Gmail account](https://www.androidauthority.com/how-to-delete-gmail-account-692534/)
+ - [How to delete all emails in Gmail](https://www.androidauthority.com/delete-all-emails-gmail-3061393/)
+ - [How to add a signature in Gmail](https://www.androidauthority.com/add-signature-gmail-3061501/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
