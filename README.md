@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Sand snakes in Iceland](http://9gag.com/gag/aM4Q96x)
- - 🚯 [Pig in trash..](http://9gag.com/gag/azeVrMb)
- - 🚯 [Looking for a breakthrough? Take on a new path and challenge yourself today.](http://9gag.com/gag/aqGNoo7)<!-- MEMES:END -->
+ - 🚖 [Eagle caught a shark](http://9gag.com/gag/aqG2LNP)
+ - 🚯 [Wake Up Call](http://9gag.com/gag/a31LjV1)
+ - 🚯 [Holland after the Covid demonstrations](http://9gag.com/gag/aVxXe78)<!-- MEMES:END -->
 
 --- 
 
