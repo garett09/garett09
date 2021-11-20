@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [ITC says it will review its preliminary finding that Google infringed on five patents owned by Sonos; a final decision is scheduled to be issued on January 6 &lpar;Susan Decker/Bloomberg&rpar;](http://www.techmeme.com/211119/p21#a211119p21)
- - [Apple just provided the perfect example of why you can’t trust App Store review scores](https://www.theverge.com/2021/11/19/22791968/apple-podcasts-star-score-review-prompt)
- - [Go read this look into how Amazon failed to secure customer personal data](https://www.theverge.com/2021/11/19/22790066/amazon-personal-data-privacy-kanye-west-celebrities)<!-- TECH:END -->
+ - [Apple seemingly inflates Podcasts app rating with new review prompt](https://appleinsider.com/articles/21/11/20/apple-seemingly-inflates-podcasts-app-rating-with-new-review-prompt?utm_medium=rss)
+ - [In a surprise move, Elizabeth Holmes is testifying at the Theranos fraud trial](https://www.theverge.com/2021/11/19/22792356/surprise-elizabeth-holmes-testifying-theranos-fraud-trial)
+ - [The best early Black Friday deals on Amazon devices](https://www.theverge.com/22789253/black-friday-2021-amazon-echo-speaker-device-cyber-monday)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
