@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It is… acceptable](https://www.reddit.com/r/funny/comments/qxveh7/it_is_acceptable/)
- - 🚯 [Get em boys](https://www.reddit.com/r/memes/comments/qxtxo5/get_em_boys/)
- - 🚯 [Plotting my death not knowing I can see him on camera](https://www.reddit.com/r/funny/comments/qxtsyq/plotting_my_death_not_knowing_i_can_see_him_on/)<!-- MEMES:END -->
+ - 🚖 [The beacon is lit!](https://www.reddit.com/r/funny/comments/qxwsn9/the_beacon_is_lit/)
+ - 🚯 [Albert Scores](https://www.reddit.com/r/funny/comments/qxvjm0/albert_scores/)
+ - 🚯 [Hell to the Naw to the Naw Naw Naw](https://www.reddit.com/r/funny/comments/qxvi6d/hell_to_the_naw_to_the_naw_naw_naw/)<!-- MEMES:END -->
 
 --- 
 
