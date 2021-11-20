@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Woolnut AirPods Max case review: Functional but pricey](https://appleinsider.com/articles/21/11/20/woolnut-airpods-max-case-review-functional-but-pricey?utm_medium=rss)
- - [Berlin-based neobank N26, which was recently valued at $9B, to exit the US after about two years in the country, following its departure from UK last year &lpar;Dan Ennis/Banking Dive&rpar;](http://www.techmeme.com/211120/p6#a211120p6)
- - [Astra reaches orbit for the first time with LV0007 launch](https://www.theverge.com/2021/11/20/22792942/astra-reaches-orbit-first-time-lv0007-rocket)<!-- TECH:END -->
+ - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-407-3062562/)
+ - [NY city council passed a bill that bans employers from using AI hiring tools unless a yearly bias audit shows they won&#39;t discriminate based on race or gender &lpar;Matt O&#39;brien/Associated Press&rpar;](http://www.techmeme.com/211120/p7#a211120p7)
+ - [Woolnut AirPods Max case review: Functional but pricey](https://appleinsider.com/articles/21/11/20/woolnut-airpods-max-case-review-functional-but-pricey?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
