@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to archive email in Gmail](https://www.androidauthority.com/archive-email-gmail-3062275/)
- - [OnePlus 10 and 10 Pro: All the rumors and what we hope to see](https://www.androidauthority.com/oneplus-10-3055636/)
- - [How to delete a Google or Gmail account](https://www.androidauthority.com/how-to-delete-gmail-account-692534/)<!-- TECH:END -->
+ - [Xperia UI guide: Everything you need to know about Sony’s Android skin](https://www.androidauthority.com/sony-xperia-ui-3058097/)
+ - [Black Friday 2021 deals under $25: These savings will shock you     - CNET](https://www.cnet.com/tech/black-friday-deals-25-and-under/#ftag=CAD590a51e)
+ - [Black Friday 2021 sales under $50: You won&#39;t break the bank for these great deals     - CNET](https://www.cnet.com/tech/black-friday-2021-sales-under-50-you-wont-break-the-bank-for-these-great-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
