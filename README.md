@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Enes Kanter is the Man](http://9gag.com/gag/ay9nL7b)
- - 🚯 [Found this pic in a bike group](http://9gag.com/gag/a21qr4w)
- - 🚯 [Assasinating with a faulty gun in front of the guy&amp;#039;s supporters](http://9gag.com/gag/a71bZAz)<!-- MEMES:END -->
+ - 🚖 [Good Samaritan tries to warn drivers to slow down](http://9gag.com/gag/adgp7Rd)
+ - 🚯 [Assasinating with a faulty gun in front of the guy&amp;#039;s supporters](http://9gag.com/gag/a71bZAz)
+ - 🚯 [Men only want one thing](http://9gag.com/gag/aGzReY7)<!-- MEMES:END -->
 
 --- 
 
