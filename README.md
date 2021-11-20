@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chromebook buyer’s guide: What is a Chromebook, what can and can’t it do?](https://www.androidauthority.com/what-is-a-chromebook-873948/)
- - [JD.com warns of weak consumption demand in China in the second half of its fiscal year, after reporting a 25.5% YoY rise in net Q3 revenue to ~$34B &lpar;Reuters&rpar;](http://www.techmeme.com/211120/p1#a211120p1)
- - [Hulu to add Disney+ and ESPN+ to live TV bundle, hike price by $5](https://appleinsider.com/articles/21/11/19/hulu-to-add-disney-and-espn-to-live-tv-bundle-hike-price-by-5?utm_medium=rss)<!-- TECH:END -->
+ - [SoundHound, which offers voice AI tech to companies like Mercedes-Benz, Snap, and Mastercard, is going public via a SPAC merger at a ~$2.1B valuation &lpar;Gillian Tan/Bloomberg&rpar;](http://www.techmeme.com/211120/p2#a211120p2)
+ - [Nomad Black Friday 2021 Sale: Save 30% on iPhone cases, MagSafe chargers, Apple Watch bands](https://appleinsider.com/articles/21/11/20/nomad-black-friday-2021-sale-save-30-on-iphone-cases-magsafe-chargers-apple-watch-bands?utm_medium=rss)
+ - [Chromebook buyer’s guide: What is a Chromebook, what can and can’t it do?](https://www.androidauthority.com/what-is-a-chromebook-873948/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
