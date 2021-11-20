@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Plotting my death not knowing I can see him on camera](https://www.reddit.com/r/funny/comments/qxtsyq/plotting_my_death_not_knowing_i_can_see_him_on/)
- - 🚯 [Sorry. Wrong sub.](https://www.reddit.com/r/memes/comments/qxsuqi/sorry_wrong_sub/)
- - 🚯 [Now I’m doubly sure the urinal will be there tomorrow morning.](https://www.reddit.com/r/funny/comments/qxsu47/now_im_doubly_sure_the_urinal_will_be_there/)<!-- MEMES:END -->
+ - 🚖 [It is… acceptable](https://www.reddit.com/r/funny/comments/qxveh7/it_is_acceptable/)
+ - 🚯 [Get em boys](https://www.reddit.com/r/memes/comments/qxtxo5/get_em_boys/)
+ - 🚯 [Plotting my death not knowing I can see him on camera](https://www.reddit.com/r/funny/comments/qxtsyq/plotting_my_death_not_knowing_i_can_see_him_on/)<!-- MEMES:END -->
 
 --- 
 
