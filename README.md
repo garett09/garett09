@@ -187,8 +187,8 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- TECH:START -->
  - [PopCase review: Finally a MagSafe case for PopSocket fans](https://appleinsider.com/articles/21/11/20/popcase-review-finally-a-magsafe-case-for-popsocket-fans?utm_medium=rss)
- - [The best phones with 16GB of RAM](https://www.androidauthority.com/best-phones-16gb-ram-3060520/)
- - [Cowboy Bebop’s English voice cast has strong feelings about the movie](https://www.theverge.com/2021/11/20/22792082/cowboy-bebop-english-voice-cast-interview)<!-- TECH:END -->
+ - [Executives at Disney, Qualcomm, Coinbase, and other companies tried to weave their unrelated businesses into the metaverse discussion on their Q3 earnings calls &lpar;Alex Sherman/CNBC&rpar;](http://www.techmeme.com/211120/p10#a211120p10)
+ - [Apple says workers have right to discuss pay, but scrutiny of employee policy intensifies](https://appleinsider.com/articles/21/11/20/apple-says-workers-have-right-to-discuss-pay-but-scrutiny-of-employee-policy-intensifies?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
