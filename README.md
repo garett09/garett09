@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [SpiderMans secret is safe](https://www.reddit.com/r/funny/comments/qxzvch/spidermans_secret_is_safe/)
- - 🚯 [Well hello there...](https://www.reddit.com/r/funny/comments/qxzszw/well_hello_there/)
- - 🚯 [Potatoes?](https://www.reddit.com/r/memes/comments/qxznx6/potatoes/)<!-- MEMES:END -->
+ - 🚖 [Juicy Watertribe ass](http://9gag.com/gag/a41LjQ6)
+ - 🚯 [Riots in Rotterdam, the Netherlands](http://9gag.com/gag/aBnr35x)
+ - 🚯 [Yes Weekend !](http://9gag.com/gag/a81jMNO)<!-- MEMES:END -->
 
 --- 
 
