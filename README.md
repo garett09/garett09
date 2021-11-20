@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Be happy with everything guys](http://9gag.com/gag/aNPKz4v)
- - 🚯 [Wow!](http://9gag.com/gag/azeV87m)
- - 🚯 [Professional Chess streamer Andrea Botez defeated by a nine-year old boy.](http://9gag.com/gag/ajgnNqQ)<!-- MEMES:END -->
+ - 🚖 [Wow!](http://9gag.com/gag/azeV87m)
+ - 🚯 [A little hint](http://9gag.com/gag/aAGpdER)
+ - 🚯 [Uniteds comeback against Watford...](http://9gag.com/gag/aGzR12n)<!-- MEMES:END -->
 
 --- 
 
