@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Battlefield 2042 review](https://www.pcgamer.com/battlefield-2042-review)
- - [What to make of Cowboy Bebop’s ending and odd last-minute character intro](https://www.polygon.com/22791071/cowboy-bebop-ed-red-hair-ending-butterfly-man)
- - [Here&#39;s All The Type Matchups In Pokémon Brilliant Diamond And Shining Pearl](https://kotaku.com/pokemon-type-chart-1848093804)<!-- GAME:END -->
+ - [Report: Activision Took Years To Fire Someone Who Signed Emails &#39;1-800-ALLCOCK&#39;](https://kotaku.com/report-activision-took-years-to-fire-someone-who-signe-1848094825)
+ - [Ghostbusters: Afterlife’s post-credits scenes finally give a neglected hero his due](https://www.polygon.com/22792340/ghostbusters-afterlife-post-credits-scenes)
+ - [Battlefield 2042 review](https://www.pcgamer.com/battlefield-2042-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
