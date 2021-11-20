@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Good Samaritan tries to warn drivers to slow down](http://9gag.com/gag/adgp7Rd)
- - 🚯 [Assasinating with a faulty gun in front of the guy&amp;#039;s supporters](http://9gag.com/gag/a71bZAz)
- - 🚯 [Men only want one thing](http://9gag.com/gag/aGzReY7)<!-- MEMES:END -->
+ - 🚖 [8 years of work in one picture](http://9gag.com/gag/aGzR18X)
+ - 🚯 [Good Samaritan tries to warn drivers to slow down](http://9gag.com/gag/adgp7Rd)
+ - 🚯 [Forget your pain](http://9gag.com/gag/ay9nLYb)<!-- MEMES:END -->
 
 --- 
 
