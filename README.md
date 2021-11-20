@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to find your own game streaming gimmick](https://www.polygon.com/22762296/game-streaming-gimmick-street-fighter-3-3rd-strike)
- - [We asked Dan Aykroyd to explain the origins of Ghostbusters’ ghost lore](https://www.polygon.com/22792064/dan-aykroyd-ghostbusters-interview-galaxy-brains)
- - [Hextech Mayhem is a creative music game with room to improvise](https://www.polygon.com/reviews/22792029/hextech-mayhem-league-of-legends-riot-forge-game-review)<!-- GAME:END -->
+ - [Cowboy Bebop’s flashback episode is the biggest, most crucial departure from the anime](https://www.polygon.com/22789697/cowboy-bebop-julia-episode-9-flashback)
+ - [Kid A Mnesia Exhibition tests the limits of games in fun, simple ways](https://www.polygon.com/22792342/radiohead-kid-a-mnesia-exhibition-not-a-game)
+ - [Advice on how to stay comfortable while streaming](https://www.polygon.com/22789837/streaming-comfort-tips)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
