@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Hextech Mayhem is a creative music game with room to improvise](https://www.polygon.com/reviews/22792029/hextech-mayhem-league-of-legends-riot-forge-game-review)
- - [20 of the best anime to watch on Netflix right now](https://www.polygon.com/22783137/best-anime-on-netflix)
- - [Best Black Friday PC gaming deals: discounts on everything from full PCs to gaming chairs](https://www.pcgamer.com/black-friday-pc-gaming-deals-2021)<!-- GAME:END -->
+ - [How to find your own game streaming gimmick](https://www.polygon.com/22762296/game-streaming-gimmick-street-fighter-3-3rd-strike)
+ - [We asked Dan Aykroyd to explain the origins of Ghostbusters’ ghost lore](https://www.polygon.com/22792064/dan-aykroyd-ghostbusters-interview-galaxy-brains)
+ - [Hextech Mayhem is a creative music game with room to improvise](https://www.polygon.com/reviews/22792029/hextech-mayhem-league-of-legends-riot-forge-game-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
