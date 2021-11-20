@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [8 years of work in one picture](http://9gag.com/gag/aGzR18X)
- - 🚯 [Good Samaritan tries to warn drivers to slow down](http://9gag.com/gag/adgp7Rd)
- - 🚯 [Forget your pain](http://9gag.com/gag/ay9nLYb)<!-- MEMES:END -->
+ - 🚖 [Be happy with everything guys](http://9gag.com/gag/aNPKz4v)
+ - 🚯 [Wow!](http://9gag.com/gag/azeV87m)
+ - 🚯 [Professional Chess streamer Andrea Botez defeated by a nine-year old boy.](http://9gag.com/gag/ajgnNqQ)<!-- MEMES:END -->
 
 --- 
 
