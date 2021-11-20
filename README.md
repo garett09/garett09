@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A rare occassion](https://www.reddit.com/r/funny/comments/qxywib/a_rare_occassion/)
- - 🚯 [An ad for Pudding from 1905... Just pudding, not a specific brand. Oh and ENERGY.](https://www.reddit.com/r/funny/comments/qxx0ex/an_ad_for_pudding_from_1905_just_pudding_not_a/)
- - 🚯 [Sad but true](https://www.reddit.com/r/memes/comments/qxwsux/sad_but_true/)<!-- MEMES:END -->
+ - 🚖 [SpiderMans secret is safe](https://www.reddit.com/r/funny/comments/qxzvch/spidermans_secret_is_safe/)
+ - 🚯 [Well hello there...](https://www.reddit.com/r/funny/comments/qxzszw/well_hello_there/)
+ - 🚯 [Potatoes?](https://www.reddit.com/r/memes/comments/qxznx6/potatoes/)<!-- MEMES:END -->
 
 --- 
 
