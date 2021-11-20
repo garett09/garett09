@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Everyone everywhere](http://9gag.com/gag/ajgnD8G)
- - 🚯 [Sand snakes in Iceland](http://9gag.com/gag/aM4Q96x)
+ - 🚖 [Sand snakes in Iceland](http://9gag.com/gag/aM4Q96x)
+ - 🚯 [Pig in trash..](http://9gag.com/gag/azeVrMb)
  - 🚯 [Looking for a breakthrough? Take on a new path and challenge yourself today.](http://9gag.com/gag/aqGNoo7)<!-- MEMES:END -->
 
 --- 
