@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Pixel 6 second opinion review: Imperfectly wonderful](https://www.androidauthority.com/google-pixel-6-review-second-opinion-3058005/)
- - [Foundation’s first season loses itself in its century-spanning story](https://www.theverge.com/2021/11/20/22791979/foundation-season-1-review-apple-tv-plus)
- - [Tile says AirTags helped its business, still says Apple is &#39;unfair&#39;](https://appleinsider.com/articles/21/11/20/tile-says-airtags-helped-its-business-still-says-apple-is-unfair?utm_medium=rss)<!-- TECH:END -->
+ - [Woolnut AirPods Max case review: Functional but pricey](https://appleinsider.com/articles/21/11/20/woolnut-airpods-max-case-review-functional-but-pricey?utm_medium=rss)
+ - [Berlin-based neobank N26, which was recently valued at $9B, to exit the US after about two years in the country, following its departure from UK last year &lpar;Dan Ennis/Banking Dive&rpar;](http://www.techmeme.com/211120/p6#a211120p6)
+ - [Astra reaches orbit for the first time with LV0007 launch](https://www.theverge.com/2021/11/20/22792942/astra-reaches-orbit-first-time-lv0007-rocket)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
