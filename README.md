@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple seemingly inflates Podcasts app rating with new review prompt](https://appleinsider.com/articles/21/11/20/apple-seemingly-inflates-podcasts-app-rating-with-new-review-prompt?utm_medium=rss)
- - [In a surprise move, Elizabeth Holmes is testifying at the Theranos fraud trial](https://www.theverge.com/2021/11/19/22792356/surprise-elizabeth-holmes-testifying-theranos-fraud-trial)
- - [The best early Black Friday deals on Amazon devices](https://www.theverge.com/22789253/black-friday-2021-amazon-echo-speaker-device-cyber-monday)<!-- TECH:END -->
+ - [Black Friday deals on Apple: $219 Watch SE, price cuts on iPads, MacBooks, AirPods Pro and more     - CNET](https://www.cnet.com/tech/m%C3%B3vil/best-apple-deals/#ftag=CAD590a51e)
+ - [Apple shares behind-the-scenes look at Michel Gondry&#39;s Shot on iPhone short](https://appleinsider.com/articles/21/11/20/apple-shares-behind-the-scenes-look-at-michel-gondrys-shot-on-iphone-short?utm_medium=rss)
+ - [Q&amp;A with Integrity Institute&#39;s Jeff Allen on how Facebook&#39;s algorithm gives preference to engagement baiting, and how to address that from a design perspective &lpar;Gilad Edelman/Wired&rpar;](http://www.techmeme.com/211119/p23#a211119p23)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
