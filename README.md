@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [PopCase review: Finally a MagSafe case for PopSocket fans](https://appleinsider.com/articles/21/11/20/popcase-review-finally-a-magsafe-case-for-popsocket-fans?utm_medium=rss)
- - [Executives at Disney, Qualcomm, Coinbase, and other companies tried to weave their unrelated businesses into the metaverse discussion on their Q3 earnings calls &lpar;Alex Sherman/CNBC&rpar;](http://www.techmeme.com/211120/p10#a211120p10)
- - [Apple says workers have right to discuss pay, but scrutiny of employee policy intensifies](https://appleinsider.com/articles/21/11/20/apple-says-workers-have-right-to-discuss-pay-but-scrutiny-of-employee-policy-intensifies?utm_medium=rss)<!-- TECH:END -->
+ - [10 shows like Succession: What to watch if you’re hooked on the HBO drama](https://www.androidauthority.com/shows-like-succession-hbo-3056679/)
+ - [The massive 49-inch Samsung Odyssey G9 gaming monitor is $400 off on Amazon](https://www.theverge.com/2021/11/20/22793196/samsung-odyssey-g9-gaming-monitor-sale)
+ - [Some Amazon devices are at record-low prices ahead of Black Friday](https://www.androidauthority.com/amazon-black-friday-deals-925192/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
