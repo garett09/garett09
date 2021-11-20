@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Xperia UI guide: Everything you need to know about Sony’s Android skin](https://www.androidauthority.com/sony-xperia-ui-3058097/)
- - [Black Friday 2021 deals under $25: These savings will shock you     - CNET](https://www.cnet.com/tech/black-friday-deals-25-and-under/#ftag=CAD590a51e)
- - [Black Friday 2021 sales under $50: You won&#39;t break the bank for these great deals     - CNET](https://www.cnet.com/tech/black-friday-2021-sales-under-50-you-wont-break-the-bank-for-these-great-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Weekly Authority Edition #169](https://www.androidauthority.com/newsletters/weekly-authority-edition-169/)
+ - [AirTags Are the Best Thing to Happen to Tile](https://www.wired.com/story/tile-trackers-apple-airtags)
+ - [25 Gift Ideas for Outdoorsy People](https://www.wired.com/gallery/outdoors-gift-ideas-2021)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
