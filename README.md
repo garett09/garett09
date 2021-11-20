@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Report: Activision Took Years To Fire Someone Who Signed Emails &#39;1-800-ALLCOCK&#39;](https://kotaku.com/report-activision-took-years-to-fire-someone-who-signe-1848094825)
- - [Ghostbusters: Afterlife’s post-credits scenes finally give a neglected hero his due](https://www.polygon.com/22792340/ghostbusters-afterlife-post-credits-scenes)
- - [Battlefield 2042 review](https://www.pcgamer.com/battlefield-2042-review)<!-- GAME:END -->
+ - [How to make a great RPG character](https://www.pcgamer.com/how-to-make-a-great-rpg-character)
+ - [Looking back at Plumbers Don&#39;t Wear Ties and equally baffling games](https://www.pcgamer.com/saturday-crapshoot-quickies-week)
+ - [Report: Activision Took Years To Fire Someone Who Signed Emails &#39;1-800-ALLCOCK&#39;](https://kotaku.com/report-activision-took-years-to-fire-someone-who-signe-1848094825)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
