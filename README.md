@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [France-based Owkin, which helps medical researchers build and train AI models, raises $180M from pharmaceuticals company Sanofi &lpar;Conor Hale/FierceBiotech&rpar;](http://www.techmeme.com/211120/p12#a211120p12)
  - [10 shows like Succession: What to watch if you’re hooked on the HBO drama](https://www.androidauthority.com/shows-like-succession-hbo-3056679/)
- - [The massive 49-inch Samsung Odyssey G9 gaming monitor is $400 off on Amazon](https://www.theverge.com/2021/11/20/22793196/samsung-odyssey-g9-gaming-monitor-sale)
- - [Some Amazon devices are at record-low prices ahead of Black Friday](https://www.androidauthority.com/amazon-black-friday-deals-925192/)<!-- TECH:END -->
+ - [The massive 49-inch Samsung Odyssey G9 gaming monitor is $400 off on Amazon](https://www.theverge.com/2021/11/20/22793196/samsung-odyssey-g9-gaming-monitor-sale)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
