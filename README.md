@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The beacon is lit!](https://www.reddit.com/r/funny/comments/qxwsn9/the_beacon_is_lit/)
- - 🚯 [Albert Scores](https://www.reddit.com/r/funny/comments/qxvjm0/albert_scores/)
- - 🚯 [Hell to the Naw to the Naw Naw Naw](https://www.reddit.com/r/funny/comments/qxvi6d/hell_to_the_naw_to_the_naw_naw_naw/)<!-- MEMES:END -->
+ - 🚖 [Hahah..ʰᵃʰ... :&lpar;](https://www.reddit.com/r/funny/comments/qxwz0z/hahahʰᵃʰ/)
+ - 🚯 [The beacon is lit!](https://www.reddit.com/r/funny/comments/qxwsn9/the_beacon_is_lit/)
+ - 🚯 [S.I.M.P that&#39;s what I am](https://www.reddit.com/r/memes/comments/qxvsdb/simp_thats_what_i_am/)<!-- MEMES:END -->
 
 --- 
 
