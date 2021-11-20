@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [In Hive Defender you&#39;re the devouring swarm for once](https://www.pcgamer.com/in-hive-defender-youre-the-devouring-swarm-for-once)
  - [Monster Rancher is back, and it&#39;s on Steam](https://www.pcgamer.com/monster-rancher-is-back-and-its-on-steam)
- - [The Nintendo Wii Is Now 15 Years Old](https://kotaku.com/the-nintendo-wii-is-now-15-years-old-1848096650)
- - [$10 Switch Game Currently On Sale For... Uh $250](https://kotaku.com/10-switch-game-currently-on-sale-for-uh-250-1848096501)<!-- GAME:END -->
+ - [The Nintendo Wii Is Now 15 Years Old](https://kotaku.com/the-nintendo-wii-is-now-15-years-old-1848096650)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
