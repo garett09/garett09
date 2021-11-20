@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Pro gamer move](http://9gag.com/gag/aegp6YB)
- - 🚯 [Twitter after kyle rittenhouse found not guilty](http://9gag.com/gag/avALnDd)
+ - 🚖 [Google 2030 be like](http://9gag.com/gag/aZrNMG6)
+ - 🚯 [Sand snakes in Iceland](http://9gag.com/gag/aM4Q96x)
  - 🚯 [Looking for a breakthrough? Take on a new path and challenge yourself today.](http://9gag.com/gag/aqGNoo7)<!-- MEMES:END -->
 
 --- 
