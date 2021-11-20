@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Black Friday gaming chair deals 2021: when and where to find the right chair for you](https://www.pcgamer.com/black-friday-gaming-chair-deals-2021)
  - [Black Friday gaming laptop deals 2021: the best laptop deals for any budget](https://www.pcgamer.com/black-friday-gaming-laptop-deals)
- - [Best Black Friday Secretlab gaming chair deals: treat yourself to a gaming throne](https://www.pcgamer.com/secretlab-black-friday-deals-2021)
- - [How to make a great RPG character](https://www.pcgamer.com/how-to-make-a-great-rpg-character)<!-- GAME:END -->
+ - [Best Black Friday Secretlab gaming chair deals: treat yourself to a gaming throne](https://www.pcgamer.com/secretlab-black-friday-deals-2021)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
