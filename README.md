@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Internal memo: Apple affirms that employees have the right to discuss working conditions and pay internally and externally &lpar;Zoe Schiffer/NBC News&rpar;](http://www.techmeme.com/211119/p25#a211119p25)
- - [In her Theranos fraud case, Elizabeth Holmes is speaking for herself](https://www.theverge.com/2021/11/19/22792606/elizabeth-holmes-fraud-witness-stand-surprise)
- - [Apple CEO Tim Cook greets customers at new The Grove store](https://appleinsider.com/articles/21/11/20/apple-ceo-tim-cook-greets-customers-at-new-the-grove-store?utm_medium=rss)<!-- TECH:END -->
+ - [Chromebook buyer’s guide: What is a Chromebook, what can and can’t it do?](https://www.androidauthority.com/what-is-a-chromebook-873948/)
+ - [JD.com warns of weak consumption demand in China in the second half of its fiscal year, after reporting a 25.5% YoY rise in net Q3 revenue to ~$34B &lpar;Reuters&rpar;](http://www.techmeme.com/211120/p1#a211120p1)
+ - [Hulu to add Disney+ and ESPN+ to live TV bundle, hike price by $5](https://appleinsider.com/articles/21/11/19/hulu-to-add-disney-and-espn-to-live-tv-bundle-hike-price-by-5?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
