@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to make a great RPG character](https://www.pcgamer.com/how-to-make-a-great-rpg-character)
- - [Looking back at Plumbers Don&#39;t Wear Ties and equally baffling games](https://www.pcgamer.com/saturday-crapshoot-quickies-week)
- - [Report: Activision Took Years To Fire Someone Who Signed Emails &#39;1-800-ALLCOCK&#39;](https://kotaku.com/report-activision-took-years-to-fire-someone-who-signe-1848094825)<!-- GAME:END -->
+ - [Black Friday gaming laptop deals 2021: the best laptop deals for any budget](https://www.pcgamer.com/black-friday-gaming-laptop-deals)
+ - [Best Black Friday Secretlab gaming chair deals: treat yourself to a gaming throne](https://www.pcgamer.com/secretlab-black-friday-deals-2021)
+ - [How to make a great RPG character](https://www.pcgamer.com/how-to-make-a-great-rpg-character)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
