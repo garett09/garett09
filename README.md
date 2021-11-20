@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Wake Up Call](http://9gag.com/gag/a31LjV1)
- - 🚯 [He calculated every possibility before he spoke](http://9gag.com/gag/ay9n8Xr)
- - 🚯 [Holland after the Covid demonstrations](http://9gag.com/gag/aVxXe78)<!-- MEMES:END -->
+ - 🚖 [Seeds bro](http://9gag.com/gag/a91PY5Z)
+ - 🚯 [Keeping up with Snoop while he materialize blunts out of thin air](http://9gag.com/gag/apgBrDE)
+ - 🚯 [Assasinating with a faulty gun in front of the guy&amp;#039;s supporters](http://9gag.com/gag/a71bZAz)<!-- MEMES:END -->
 
 --- 
 
