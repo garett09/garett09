@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Man Stick.](https://www.reddit.com/r/memes/comments/qxr1fs/man_stick/)
- - 🚯 [Penis Enlargement](https://www.reddit.com/r/funny/comments/qxqdww/penis_enlargement/)
- - 🚯 [Someone in my neighborhood got a little creative](https://www.reddit.com/r/funny/comments/qxpzip/someone_in_my_neighborhood_got_a_little_creative/)<!-- MEMES:END -->
+ - 🚖 [Why Does He Sound Like That? 🤣](https://www.reddit.com/r/funny/comments/qxrw5s/why_does_he_sound_like_that/)
+ - 🚯 [My Great Dane in his snowsuit - I can&#39;t not laugh at him](https://www.reddit.com/r/funny/comments/qxrsbe/my_great_dane_in_his_snowsuit_i_cant_not_laugh_at/)
+ - 🚯 [Pro tip: don’t walk backwards on a dock](https://www.reddit.com/r/funny/comments/qxrmcc/pro_tip_dont_walk_backwards_on_a_dock/)<!-- MEMES:END -->
 
 --- 
 
