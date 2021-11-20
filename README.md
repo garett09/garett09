@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Black Friday deals on Apple: $219 Watch SE, price cuts on iPads, MacBooks, AirPods Pro and more     - CNET](https://www.cnet.com/tech/m%C3%B3vil/best-apple-deals/#ftag=CAD590a51e)
- - [Apple shares behind-the-scenes look at Michel Gondry&#39;s Shot on iPhone short](https://appleinsider.com/articles/21/11/20/apple-shares-behind-the-scenes-look-at-michel-gondrys-shot-on-iphone-short?utm_medium=rss)
- - [Q&amp;A with Integrity Institute&#39;s Jeff Allen on how Facebook&#39;s algorithm gives preference to engagement baiting, and how to address that from a design perspective &lpar;Gilad Edelman/Wired&rpar;](http://www.techmeme.com/211119/p23#a211119p23)<!-- TECH:END -->
+ - [Disney adds Disney+ and ESPN+ to Hulu + Live TV, and will raise its monthly price by $5 to $70 for the ad-supported tier and $76 for ad-free, starting Dec. 21 &lpar;Dade Hayes/Deadline&rpar;](http://www.techmeme.com/211119/p24#a211119p24)
+ - [Apple CEO Tim Cook greets customers at new The Grove store](https://appleinsider.com/articles/21/11/20/apple-ceo-tim-cook-greets-customers-at-new-the-grove-store?utm_medium=rss)
+ - [Apple shares behind-the-scenes look at Michel Gondry&#39;s Shot on iPhone short](https://appleinsider.com/articles/21/11/20/apple-shares-behind-the-scenes-look-at-michel-gondrys-shot-on-iphone-short?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
