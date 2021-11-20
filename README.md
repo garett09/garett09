@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Juicy Watertribe ass](http://9gag.com/gag/a41LjQ6)
- - 🚯 [Riots in Rotterdam, the Netherlands](http://9gag.com/gag/aBnr35x)
- - 🚯 [Yes Weekend !](http://9gag.com/gag/a81jMNO)<!-- MEMES:END -->
+ - 🚖 [Pro gamer move](http://9gag.com/gag/aegp6YB)
+ - 🚯 [Final fantasy red pilled af](http://9gag.com/gag/a61LQ7m)
+ - 🚯 [Looking for a breakthrough? Take on a new path and challenge yourself today.](http://9gag.com/gag/aqGNoo7)<!-- MEMES:END -->
 
 --- 
 
