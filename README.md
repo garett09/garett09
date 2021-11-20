@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The state of Stadia in 2021: Left behind](https://www.androidauthority.com/state-of-google-stadia-3062134/)
- - [The North Carolina Town Besieged by Armadillos](https://www.wired.com/story/the-north-carolina-town-besieged-by-armadillos)
- - [Why You Gravitate to Puzzles When You’re Depressed](https://www.wired.com/story/puzzle-games-mental-health)<!-- TECH:END -->
+ - [Best deals Nov. 20: $219 Apple Watch SE, $75 Fire HD, $439 AirPods Max](https://appleinsider.com/articles/21/11/20/best-deals-nov-20-219-apple-watch-se-75-fire-hd-439-airpods-max?utm_medium=rss)
+ - [Capture Your Daring Feats With Our Favorite Action Cameras](https://www.wired.com/gallery/best-action-cameras)
+ - [A Canadian Teen Was Arrested in a $36.5M SIM-Swap Heist](https://www.wired.com/story/teen-sim-swap-theft-fbi-email-hack-stripchat-leak-security-news)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
