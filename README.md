@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Weekly Authority Edition #169](https://www.androidauthority.com/newsletters/weekly-authority-edition-169/)
- - [AirTags Are the Best Thing to Happen to Tile](https://www.wired.com/story/tile-trackers-apple-airtags)
- - [25 Gift Ideas for Outdoorsy People](https://www.wired.com/gallery/outdoors-gift-ideas-2021)<!-- TECH:END -->
+ - [The state of Stadia in 2021: Left behind](https://www.androidauthority.com/state-of-google-stadia-3062134/)
+ - [The North Carolina Town Besieged by Armadillos](https://www.wired.com/story/the-north-carolina-town-besieged-by-armadillos)
+ - [Why You Gravitate to Puzzles When You’re Depressed](https://www.wired.com/story/puzzle-games-mental-health)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
