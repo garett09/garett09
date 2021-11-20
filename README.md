@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to delete a Google or Gmail account](https://www.androidauthority.com/how-to-delete-gmail-account-692534/)
- - [How to delete all emails in Gmail](https://www.androidauthority.com/delete-all-emails-gmail-3061393/)
- - [How to add a signature in Gmail](https://www.androidauthority.com/add-signature-gmail-3061501/)<!-- TECH:END -->
+ - [How to archive email in Gmail](https://www.androidauthority.com/archive-email-gmail-3062275/)
+ - [OnePlus 10 and 10 Pro: All the rumors and what we hope to see](https://www.androidauthority.com/oneplus-10-3055636/)
+ - [How to delete a Google or Gmail account](https://www.androidauthority.com/how-to-delete-gmail-account-692534/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
