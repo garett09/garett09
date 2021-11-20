@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Feast squishes its way through one of the year’s smartest, most sickening horror stories](https://www.polygon.com/reviews/22792235/the-feast-review-horror)
- - [Sony’s Mark Cerny explains how ‘brutal’ developer meetings influenced the PS5’s design](https://www.polygon.com/22792063/ps5-design-sony-mark-cerny-game-developers)
- - [Here Are Your Chances Of Finding Shinies In Pokémon Diamond And Pearl Remasters](https://kotaku.com/here-are-your-chances-of-finding-shinies-in-pokemon-dia-1848093242)<!-- GAME:END -->
+ - [Here&#39;s All The Type Matchups In Pokémon Brilliant Diamond And Shining Pearl](https://kotaku.com/pokemon-type-chart-1848093804)
+ - [Games Workshop fights back against fascist hate symbols in the Warhammer 40K community](https://www.pcgamer.com/games-workshop-fights-back-against-fascist-hate-symbols-in-the-warhammer-40k-community)
+ - [Battlefield 2042&#39;s next update will fix revives and nerf the monstrous hovercraft](https://www.pcgamer.com/battlefield-2042s-next-update-will-fix-revives-and-nerf-the-monstrous-hovercraft)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
