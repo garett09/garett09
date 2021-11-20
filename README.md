@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [AirPods are no longer cool, claim people who can&#39;t afford them](https://appleinsider.com/articles/21/11/20/airpods-are-no-longer-cool-claim-people-who-cant-afford-them?utm_medium=rss)
- - [Sao Paulo-based social commerce marketplace Facily raises a $250M Series D at a $850M valuation, bringing its total funding to $366M &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/211120/p8#a211120p8)
- - [Leaked images of the Google Pixel 6A show a more compact device with no headphone jack](https://www.theverge.com/2021/11/20/22793079/google-pixel-6a-leak-compact-mobile-no-headphone-jack)<!-- TECH:END -->
+ - [PopCase review: Finally a MagSafe case for PopSocket fans](https://appleinsider.com/articles/21/11/20/popcase-review-finally-a-magsafe-case-for-popsocket-fans?utm_medium=rss)
+ - [The best phones with 16GB of RAM](https://www.androidauthority.com/best-phones-16gb-ram-3060520/)
+ - [Cowboy Bebop’s English voice cast has strong feelings about the movie](https://www.theverge.com/2021/11/20/22792082/cowboy-bebop-english-voice-cast-interview)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
