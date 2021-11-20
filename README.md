@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best deals Nov. 20: $219 Apple Watch SE, $75 Fire HD, $439 AirPods Max](https://appleinsider.com/articles/21/11/20/best-deals-nov-20-219-apple-watch-se-75-fire-hd-439-airpods-max?utm_medium=rss)
- - [Capture Your Daring Feats With Our Favorite Action Cameras](https://www.wired.com/gallery/best-action-cameras)
- - [A Canadian Teen Was Arrested in a $36.5M SIM-Swap Heist](https://www.wired.com/story/teen-sim-swap-theft-fbi-email-hack-stripchat-leak-security-news)<!-- TECH:END -->
+ - [Google Pixel 6 second opinion review: Imperfectly wonderful](https://www.androidauthority.com/google-pixel-6-review-second-opinion-3058005/)
+ - [Foundation’s first season loses itself in its century-spanning story](https://www.theverge.com/2021/11/20/22791979/foundation-season-1-review-apple-tv-plus)
+ - [Tile says AirTags helped its business, still says Apple is &#39;unfair&#39;](https://appleinsider.com/articles/21/11/20/tile-says-airtags-helped-its-business-still-says-apple-is-unfair?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
