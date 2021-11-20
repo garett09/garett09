@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Eagle caught a shark](http://9gag.com/gag/aqG2LNP)
- - 🚯 [Wake Up Call](http://9gag.com/gag/a31LjV1)
+ - 🚖 [Wake Up Call](http://9gag.com/gag/a31LjV1)
+ - 🚯 [He calculated every possibility before he spoke](http://9gag.com/gag/ay9n8Xr)
  - 🚯 [Holland after the Covid demonstrations](http://9gag.com/gag/aVxXe78)<!-- MEMES:END -->
 
 --- 
