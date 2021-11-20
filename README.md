@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Why Does He Sound Like That? 🤣](https://www.reddit.com/r/funny/comments/qxrw5s/why_does_he_sound_like_that/)
- - 🚯 [My Great Dane in his snowsuit - I can&#39;t not laugh at him](https://www.reddit.com/r/funny/comments/qxrsbe/my_great_dane_in_his_snowsuit_i_cant_not_laugh_at/)
- - 🚯 [Pro tip: don’t walk backwards on a dock](https://www.reddit.com/r/funny/comments/qxrmcc/pro_tip_dont_walk_backwards_on_a_dock/)<!-- MEMES:END -->
+ - 🚖 [Plotting my death not knowing I can see him on camera](https://www.reddit.com/r/funny/comments/qxtsyq/plotting_my_death_not_knowing_i_can_see_him_on/)
+ - 🚯 [Sorry. Wrong sub.](https://www.reddit.com/r/memes/comments/qxsuqi/sorry_wrong_sub/)
+ - 🚯 [Why Does He Sound Like That? 🤣](https://www.reddit.com/r/funny/comments/qxrw5s/why_does_he_sound_like_that/)<!-- MEMES:END -->
 
 --- 
 
