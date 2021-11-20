@@ -194,7 +194,7 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Pro gamer move](http://9gag.com/gag/aegp6YB)
- - 🚯 [Final fantasy red pilled af](http://9gag.com/gag/a61LQ7m)
+ - 🚯 [Twitter after kyle rittenhouse found not guilty](http://9gag.com/gag/avALnDd)
  - 🚯 [Looking for a breakthrough? Take on a new path and challenge yourself today.](http://9gag.com/gag/aqGNoo7)<!-- MEMES:END -->
 
 --- 
