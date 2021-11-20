@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Celebrate something?](http://9gag.com/gag/apgBren)
- - 🚯 [Uniteds comeback against Watford...](http://9gag.com/gag/aGzR12n)
- - 🚯 [A little hint](http://9gag.com/gag/aAGpdER)<!-- MEMES:END -->
+ - 🚖 [Enes Kanter is the Man](http://9gag.com/gag/ay9nL7b)
+ - 🚯 [Found this pic in a bike group](http://9gag.com/gag/a21qr4w)
+ - 🚯 [Assasinating with a faulty gun in front of the guy&amp;#039;s supporters](http://9gag.com/gag/a71bZAz)<!-- MEMES:END -->
 
 --- 
 
