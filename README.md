@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Daddy Issues](http://9gag.com/gag/aDDm13K)
- - 🚯 [Be happy with everything guys](http://9gag.com/gag/aNPKz4v)
- - 🚯 [Doing a back flip and applauding itself](http://9gag.com/gag/aAGpx89)<!-- MEMES:END -->
+ - 🚖 [Someone watched kill bill one too many times](http://9gag.com/gag/aqG27ZP)
+ - 🚯 [Daddy Issues](http://9gag.com/gag/aDDm13K)
+ - 🚯 [Me when I learned that Mr Bean ran for 5 years and only had 15 episodes :](http://9gag.com/gag/a51KMQN)<!-- MEMES:END -->
 
 --- 
 
