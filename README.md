@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [What Cowboy Bebop season 2 could look like, according to the cast and showrunner](https://www.polygon.com/22791644/cowboy-bebop-season-2-cast-what-we-know)
  - [Black Friday gaming PC deals 2021: the best prebuilt systems on sale today](https://www.pcgamer.com/black-friday-gaming-pc-deals-2021)
- - [Black Friday gaming monitor deals 2021: the best and brightest screens at great prices](https://www.pcgamer.com/black-friday-gaming-monitor-deals-2021)
- - [Arcane season 2 is in production](https://www.pcgamer.com/arcane-season-2-is-in-production)<!-- GAME:END -->
+ - [Black Friday gaming monitor deals 2021: the best and brightest screens at great prices](https://www.pcgamer.com/black-friday-gaming-monitor-deals-2021)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
