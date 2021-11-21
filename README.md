@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Wait......what!!!!](http://9gag.com/gag/a0ZY5Vq)
- - 🚯 [Come back from school and there are 2 episodes in a row true happiness](http://9gag.com/gag/aNPK1ZA)
- - 🚯 [Bad luck..](http://9gag.com/gag/aPZGYDG)<!-- MEMES:END -->
+ - 🚖 [Daddy Issues](http://9gag.com/gag/aDDm13K)
+ - 🚯 [Men only want one thing](http://9gag.com/gag/aGzReY7)
+ - 🚯 [Expect the unexpected ;&rpar;](http://9gag.com/gag/a51KnBL)<!-- MEMES:END -->
 
 --- 
 
