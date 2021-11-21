@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [What is Google’s Tensor chip? Everything you need to know](https://www.androidauthority.com/google-tensor-3060818/)
- - [A look at projects like the Voguverse and companies like Pixel Vault that are trying to build media franchises around their NFT collectibles &lpar;Adi Robertson/The Verge&rpar;](http://www.techmeme.com/211121/p7#a211121p7)
- - [iPhone 14 rumors: Yep, we&#39;ve already started rounding them up     - CNET](https://www.cnet.com/tech/mobile/iphone-14-rumors/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Best Early Black Friday Deals on Laptops, TVs, and More](https://www.wired.com/story/early-black-friday-deals-2021-1)
+ - [Body Language Pseudoscience Is Flourishing on YouTube](https://www.wired.com/story/youtube-body-language)
+ - [If you aren&#39;t buying these 4 Black Friday deals, you&#39;re doing it all wrong     - CNET](https://www.cnet.com/tech/dont-do-black-friday-wrong-grab-these-deals-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
