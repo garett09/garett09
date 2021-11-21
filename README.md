@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Zombies have rights](http://9gag.com/gag/a31L1je)
- - 🚯 [Just Visiting](http://9gag.com/gag/aegpDnq)
- - 🚯 [What happens when a black whole destroys a planet](http://9gag.com/gag/a71bEg2)<!-- MEMES:END -->
+ - 🚖 [Spotted hyenas are larger than you think...](http://9gag.com/gag/avALAPZ)
+ - 🚯 [100% of Brain Used](http://9gag.com/gag/angB4dn)
+ - 🚯 [India&amp;#039;s tallest elephant Thechikkottukavu Ramachandran.](http://9gag.com/gag/aXrXoO9)<!-- MEMES:END -->
 
 --- 
 
