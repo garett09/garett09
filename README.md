@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Everything you need to know about Nintendo and its consoles](https://www.androidauthority.com/nintendo-guide-2746221/)
  - [Inside &quot;Bitcoin Week&quot;, a series of events in El Salvador that let industry experts and crypto proponents celebrate their bitcoin allegiance &lpar;Michael D McDonald/Bloomberg&rpar;](http://www.techmeme.com/211121/p6#a211121p6)
- - [El Salvador plans to build a &quot;Bitcoin City&quot; initially funded by a $1B &quot;bitcoin bond&quot;, with $500M to build mining infrastructure and $500M to buy more bitcoin &lpar;Andr&amp;eacute;s Engler/CoinDesk&rpar;](http://www.techmeme.com/211121/p5#a211121p5)
- - [SVT Robotics, which develops software for simplifying robot deployment at warehouses and factories, raises a $25M Series A led by Tiger Global &lpar;Kyle Wiggers/VentureBeat&rpar;](http://www.techmeme.com/211121/p4#a211121p4)<!-- TECH:END -->
+ - [El Salvador plans to build a &quot;Bitcoin City&quot; initially funded by a $1B &quot;bitcoin bond&quot;, with $500M to build mining infrastructure and $500M to buy more bitcoin &lpar;Andr&amp;eacute;s Engler/CoinDesk&rpar;](http://www.techmeme.com/211121/p5#a211121p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
