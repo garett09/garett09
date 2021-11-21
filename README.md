@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Here&#39;s The First Look At The League Of Legends Fighting Game](https://kotaku.com/heres-the-first-look-at-the-league-of-legends-fighting-1848099049)
- - [Sunday Comics: But Now...](https://kotaku.com/sunday-comics-but-now-1848098996)
- - [Ghostbusters: Afterlife director Jason Reitman crossed the streams of reality and sequel lore](https://www.polygon.com/interviews/22792218/ghostbusters-afterlife-casting-story-interview-jason-reitman)<!-- GAME:END -->
+ - [Battlefield 2042 Is Now One Of The Worst Reviewed Games In Steam History](https://kotaku.com/battlefield-2042-is-now-one-of-the-worst-reviewed-games-1848099213)
+ - [Arcane season 2 officially in the works at Netflix](https://www.polygon.com/22794764/arcane-season-2-trailer-league-of-legends-netflix)
+ - [Here&#39;s The First Look At The League Of Legends Fighting Game](https://kotaku.com/heres-the-first-look-at-the-league-of-legends-fighting-1848099049)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
