@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Wow!](http://9gag.com/gag/azeV87m)
- - 🚯 [A little hint](http://9gag.com/gag/aAGpdER)
- - 🚯 [Uniteds comeback against Watford...](http://9gag.com/gag/aGzR12n)<!-- MEMES:END -->
+ - 🚖 [Come back from school and there are 2 episodes in a row true happiness](http://9gag.com/gag/aNPK1ZA)
+ - 🚯 [Someone watched kill bill one too many times](http://9gag.com/gag/aqG27ZP)
+ - 🚯 [I used to hate Cypher, now I get him](http://9gag.com/gag/aRrVjbQ)<!-- MEMES:END -->
 
 --- 
 
