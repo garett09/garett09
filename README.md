@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Professional Chess streamer Andrea Botez defeated by a nine-year old boy.](http://9gag.com/gag/ajgnNqQ)
- - 🚯 [Doing a back flip and applauding itself](http://9gag.com/gag/aAGpx89)
- - 🚯 [I used to hate Cypher, now I get him](http://9gag.com/gag/aRrVjbQ)<!-- MEMES:END -->
+ - 🚖 [Wait......what!!!!](http://9gag.com/gag/a0ZY5Vq)
+ - 🚯 [Come back from school and there are 2 episodes in a row true happiness](http://9gag.com/gag/aNPK1ZA)
+ - 🚯 [Bad luck..](http://9gag.com/gag/aPZGYDG)<!-- MEMES:END -->
 
 --- 
 
