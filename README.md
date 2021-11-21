@@ -194,7 +194,7 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Come back from school and there are 2 episodes in a row true happiness](http://9gag.com/gag/aNPK1ZA)
- - 🚯 [Someone watched kill bill one too many times](http://9gag.com/gag/aqG27ZP)
+ - 🚯 [Imagine walking through a dark forest and all of a sudden this](http://9gag.com/gag/a91Pr8L)
  - 🚯 [I used to hate Cypher, now I get him](http://9gag.com/gag/aRrVjbQ)<!-- MEMES:END -->
 
 --- 
