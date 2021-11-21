@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Jared Leto says releasing Suicide Squad’s #AyerCut is ‘what streaming’s for,’ but do the numbers add up?](https://www.polygon.com/22794693/suicide-squad-hbo-jared-leto-ayer-cut)
- - [Battlefield 2042 Is Now One Of The Worst Reviewed Games In Steam History](https://kotaku.com/battlefield-2042-is-now-one-of-the-worst-reviewed-games-1848099213)
- - [Arcane season 2 officially in the works at Netflix](https://www.polygon.com/22794764/arcane-season-2-trailer-league-of-legends-netflix)<!-- GAME:END -->
+ - [Check out this fever dream of a hand-drawn game](https://www.pcgamer.com/check-out-this-fever-dream-of-a-hand-drawn-game)
+ - [League of Legends Netflix Show, Arcane, Renewed For A Second Season](https://kotaku.com/league-of-legends-netflix-show-arcane-renewed-for-a-s-1848099595)
+ - [Jared Leto says releasing Suicide Squad’s #AyerCut is ‘what streaming’s for,’ but do the numbers add up?](https://www.polygon.com/22794693/suicide-squad-hbo-jared-leto-ayer-cut)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
