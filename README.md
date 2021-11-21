@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Japan-based VR startup Hikky raises a $57M Series A led by NTT Docomo to expand its web-based virtual events platform Vket Cloud &lpar;Ben Lang/Road to VR&rpar;](http://www.techmeme.com/211120/p15#a211120p15)
- - [Best Buy Black Friday deals: Big savings on TVs, Apple Watches, headphones and more     - CNET](https://www.cnet.com/tech/computing/best-buy-black-friday-dont-miss-big-savings-on-tvs-apple-watch-se-headphones-and-more/#ftag=CAD590a51e)
- - [Kettle, a reinsurance startup using ML modeling on weather, satellite imagery, and other data sets to predict climate change risks, raises a $25M Series A &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/211120/p14#a211120p14)<!-- TECH:END -->
+ - [Brazil-based global payments network CloudWalk raises a $150M Series C led by Coatue at a $2.15B valuation, bringing its total funding to $365M &lpar;Niket Nishant/Reuters&rpar;](http://www.techmeme.com/211121/p2#a211121p2)
+ - [Ultraleap, which develops ultrasound-based hand tracking tech and touchless interfaces for VR/XR headsets, raises an $82M Series D from Tencent and others &lpar;Mike Butcher/TechCrunch&rpar;](http://www.techmeme.com/211121/p1#a211121p1)
+ - [Japan-based VR startup Hikky raises a $57M Series A led by NTT Docomo to expand its web-based virtual events platform Vket Cloud &lpar;Ben Lang/Road to VR&rpar;](http://www.techmeme.com/211120/p15#a211120p15)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
