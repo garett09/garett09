@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [You&amp;#039;re welcome](http://9gag.com/gag/aWgOxVx)
- - 🚯 [Moms spaghetti Never forgetti](http://9gag.com/gag/aVxX7Pd)
- - 🚯 [Blast from the past](http://9gag.com/gag/aRrV70Q)<!-- MEMES:END -->
+ - 🚖 [Such a good boy. Pleading face We&amp;#039;ll say it again, what did we do to deserve dogs?](http://9gag.com/gag/a61LENL)
+ - 🚯 [&amp;hellip;and than this bear started to&amp;hellip;](http://9gag.com/gag/aDDmdDw)
+ - 🚯 [Ubisoft](http://9gag.com/gag/aWgOx72)<!-- MEMES:END -->
 
 --- 
 
