@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kettle, a reinsurance startup using ML modeling on weather, satellite imagery, and other data sets to predict climate change risks, raises a $25M Series A &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/211120/p14#a211120p14)
- - [Best Black Friday AirPods deals: AirPods 3 and AirPods Max on sale now, AirPods Pro soon     - CNET](https://www.cnet.com/tech/mobile/best-black-friday-airpods-deals-airpods-pro-walmart-3-2-beats-studio-sale-now/#ftag=CAD590a51e)
- - [Black Friday Amazon Echo deals: Smart speakers, smart displays and more Alexa gadgets     - CNET](https://www.cnet.com/home/smart-home/best-black-friday-amazon-echo-deals-smart-speakers-smart-displays-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Japan-based VR startup Hikky raises a $57M Series A led by NTT Docomo to expand its web-based virtual events platform Vket Cloud &lpar;Ben Lang/Road to VR&rpar;](http://www.techmeme.com/211120/p15#a211120p15)
+ - [Best Buy Black Friday deals: Big savings on TVs, Apple Watches, headphones and more     - CNET](https://www.cnet.com/tech/computing/best-buy-black-friday-dont-miss-big-savings-on-tvs-apple-watch-se-headphones-and-more/#ftag=CAD590a51e)
+ - [Kettle, a reinsurance startup using ML modeling on weather, satellite imagery, and other data sets to predict climate change risks, raises a $25M Series A &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/211120/p14#a211120p14)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
