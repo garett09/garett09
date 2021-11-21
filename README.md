@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Just Visiting](http://9gag.com/gag/aegpDnq)
- - 🚯 [Who drew huge battlefields with stick figures as a kid?](http://9gag.com/gag/awz7MoB)
- - 🚯 [Who drew huge battlefields with stick figures as a kid?](http://9gag.com/gag/awz7oLr)<!-- MEMES:END -->
+ - 🚖 [You&amp;#039;re welcome](http://9gag.com/gag/aWgOxVx)
+ - 🚯 [Moms spaghetti Never forgetti](http://9gag.com/gag/aVxX7Pd)
+ - 🚯 [Blast from the past](http://9gag.com/gag/aRrV70Q)<!-- MEMES:END -->
 
 --- 
 
