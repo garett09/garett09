@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Bad luck..](http://9gag.com/gag/aPZGYDG)
- - 🚯 [Bringing a son&amp;rsquo;s imagination to life.](http://9gag.com/gag/aqG2gm7)
- - 🚯 [Introverted at 30.](http://9gag.com/gag/a31LQ8N)<!-- MEMES:END -->
+ - 🚖 [Introverted at 30.](http://9gag.com/gag/a31LQ8N)
+ - 🚯 [Mejik](http://9gag.com/gag/a71b3NA)
+ - 🚯 [How to sew in a straight line.](http://9gag.com/gag/ajgn5nx)<!-- MEMES:END -->
 
 --- 
 
