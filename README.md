@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Good morning](http://9gag.com/gag/aYrw7dv)
- - 🚯 [Prepare for standards.. and make it double](http://9gag.com/gag/aDDmgO9)
- - 🚯 [No free rides](http://9gag.com/gag/aDDm4XB)<!-- MEMES:END -->
+ - 🚖 [Just Visiting](http://9gag.com/gag/aegpDnq)
+ - 🚯 [Who drew huge battlefields with stick figures as a kid?](http://9gag.com/gag/awz7MoB)
+ - 🚯 [Who drew huge battlefields with stick figures as a kid?](http://9gag.com/gag/awz7oLr)<!-- MEMES:END -->
 
 --- 
 
