@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitter&#39;s AI ethics researchers on getting public feedback about algorithmic bias, why responsible AI is hard, why they think algorithms can be saved, and more &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/211120/p13#a211120p13)
- - [Black Friday 2021 is on at Amazon: Save big on sales happening now     - CNET](https://www.cnet.com/tech/home-entertainment/amazon-black-friday-2021-12-great-deals-happening-ahead-of-the-big-day/#ftag=CAD590a51e)
- - [Black Friday smart home deals: Google&#39;s Nest doorbells, Amazon Echo speakers and more     - CNET](https://www.cnet.com/home/smart-home/black-friday-smart-home-deals-available-now-echo-show-for-60-nest-hub-for-50-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Kettle, a reinsurance startup using ML modeling on weather, satellite imagery, and other data sets to predict climate change risks, raises a $25M Series A &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/211120/p14#a211120p14)
+ - [Best Black Friday AirPods deals: AirPods 3 and AirPods Max on sale now, AirPods Pro soon     - CNET](https://www.cnet.com/tech/mobile/best-black-friday-airpods-deals-airpods-pro-walmart-3-2-beats-studio-sale-now/#ftag=CAD590a51e)
+ - [Black Friday Amazon Echo deals: Smart speakers, smart displays and more Alexa gadgets     - CNET](https://www.cnet.com/home/smart-home/best-black-friday-amazon-echo-deals-smart-speakers-smart-displays-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
