@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [No lie.](http://9gag.com/gag/aegp52W)
- - 🚯 [So, at the ripe old age of 38 I&amp;#039;m finally watching this series and it continues to surprise me with how good it is](http://9gag.com/gag/aBnrgRO)
- - 🚯 [Yeah boi!](http://9gag.com/gag/abgbrqp)<!-- MEMES:END -->
+ - 🚖 [100% of Brain Used](http://9gag.com/gag/angB4dn)
+ - 🚯 [It was a fantastic party...](http://9gag.com/gag/apgBGQb)
+ - 🚯 [Blast from the past](http://9gag.com/gag/aRrV70Q)<!-- MEMES:END -->
 
 --- 
 
