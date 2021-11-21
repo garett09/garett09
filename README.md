@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Spotted hyenas are larger than you think...](http://9gag.com/gag/avALAPZ)
- - 🚯 [100% of Brain Used](http://9gag.com/gag/angB4dn)
- - 🚯 [India&amp;#039;s tallest elephant Thechikkottukavu Ramachandran.](http://9gag.com/gag/aXrXoO9)<!-- MEMES:END -->
+ - 🚖 [Sunday evening pills](http://9gag.com/gag/aM4Q4BG)
+ - 🚯 [India&amp;#039;s tallest elephant Thechikkottukavu Ramachandran.](http://9gag.com/gag/aXrXoO9)
+ - 🚯 [Beneath us in deep clear waters](http://9gag.com/gag/aGzRzj7)<!-- MEMES:END -->
 
 --- 
 
