@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [AMC’s Anna takes an old Star Trek plot to deeper, darker places](https://www.polygon.com/reviews/22790185/anna-review-amc)
- - [Black Friday PC gaming deals UK: the best deals on PC parts and peripherals](https://www.pcgamer.com/black-friday-pc-gaming-deals-uk-2021)
- - [Best Black Friday PC gaming deals: discounts on everything from full PCs to gaming chairs](https://www.pcgamer.com/black-friday-pc-gaming-deals-2021)<!-- GAME:END -->
+ - [Sunday Comics: But Now...](https://kotaku.com/sunday-comics-but-now-1848098996)
+ - [Ghostbusters: Afterlife director Jason Reitman crossed the streams of reality and sequel lore](https://www.polygon.com/interviews/22792218/ghostbusters-afterlife-casting-story-interview-jason-reitman)
+ - [AMC’s Anna takes an old Star Trek plot to deeper, darker places](https://www.polygon.com/reviews/22790185/anna-review-amc)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
