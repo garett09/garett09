@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Here&#39;s The First Look At The League Of Legends Fighting Game](https://kotaku.com/heres-the-first-look-at-the-league-of-legends-fighting-1848099049)
  - [Sunday Comics: But Now...](https://kotaku.com/sunday-comics-but-now-1848098996)
- - [Ghostbusters: Afterlife director Jason Reitman crossed the streams of reality and sequel lore](https://www.polygon.com/interviews/22792218/ghostbusters-afterlife-casting-story-interview-jason-reitman)
- - [AMC’s Anna takes an old Star Trek plot to deeper, darker places](https://www.polygon.com/reviews/22790185/anna-review-amc)<!-- GAME:END -->
+ - [Ghostbusters: Afterlife director Jason Reitman crossed the streams of reality and sequel lore](https://www.polygon.com/interviews/22792218/ghostbusters-afterlife-casting-story-interview-jason-reitman)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
