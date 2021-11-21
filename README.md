@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Review: Belkin BoostCharge Pro Portable Fast Charger for Apple Watch Series 7](https://appleinsider.com/articles/21/11/21/belkin-boostcharge-pro-portable-fast-charger-for-apple-watch-review-finally-a-fast-charge-dock-for-the-series-7?utm_medium=rss)
- - [Best deals Nov. 21: $219 Apple Watch SE, $42 Ring Video Doorbell with Dot, more!](https://appleinsider.com/articles/21/11/21/best-deals-nov-21-4199-ring-video-doorbell-90-wewatch-projector-219-apple-watch-se-more?utm_medium=rss)
- - [$25 and under Black Friday 2021 deals $25: Streaming devices, kitchen essentials and more     - CNET](https://www.cnet.com/tech/black-friday-deals-25-and-under/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to get a $15 Target gift card with a $100 Apple Gift Card purchase](https://appleinsider.com/articles/21/11/21/get-15-extra-with-every-100-apple-gift-card-from-target?utm_medium=rss)
+ - [If you’re buying a cheap streaming device, just make sure it has this one thing](https://www.androidauthority.com/chromecast-with-google-tv-storage-3061235/)
+ - [Head of safety says Meta doesn&#39;t plan to finish the global rollout of e2e encryption by default across all of its messaging services until sometime in 2023 &lpar;Dan Milmo/The Guardian&rpar;](http://www.techmeme.com/211121/p9#a211121p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
