@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The worst mating dance of them all](http://9gag.com/gag/angBMXz)
- - 🚯 [Professional Chess streamer Andrea Botez defeated by a nine-year old boy.](http://9gag.com/gag/ajgnNqQ)
+ - 🚖 [Professional Chess streamer Andrea Botez defeated by a nine-year old boy.](http://9gag.com/gag/ajgnNqQ)
+ - 🚯 [Doing a back flip and applauding itself](http://9gag.com/gag/aAGpx89)
  - 🚯 [I used to hate Cypher, now I get him](http://9gag.com/gag/aRrVjbQ)<!-- MEMES:END -->
 
 --- 
