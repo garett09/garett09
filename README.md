@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best early Black Friday deals at Best Buy](https://www.theverge.com/22789835/best-buy-black-friday-2021-cyber-monday-tech-deals)
- - [France-based Owkin, which helps medical researchers build and train AI models, raises $180M from pharmaceuticals company Sanofi &lpar;Conor Hale/FierceBiotech&rpar;](http://www.techmeme.com/211120/p12#a211120p12)
- - [Best Black Friday monitor deals     - CNET](https://www.cnet.com/tech/computing/best-black-friday-monitor-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Black Friday 2021: Deals on phones, wearables, earbuds, and more](https://www.androidauthority.com/black-friday-deals-3049753/)
+ - [A new DuckDuckGo tool is supposed to prevent apps from tracking Android users](https://www.theverge.com/2021/11/20/22793068/duckduckgo-tool-prevent-apps-tracking-android-users)
+ - [The best early Black Friday deals at Best Buy](https://www.theverge.com/22789835/best-buy-black-friday-2021-cyber-monday-tech-deals)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
