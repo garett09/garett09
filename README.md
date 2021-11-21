@@ -187,8 +187,8 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- TECH:START -->
  - [Twitter&#39;s AI ethics researchers on getting public feedback about algorithmic bias, why responsible AI is hard, why they think algorithms can be saved, and more &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/211120/p13#a211120p13)
- - [7 great, cheap kid-friendly gifts that aren&#39;t video games     - CNET](https://www.cnet.com/news/each-of-these-7-great-gifts-for-kids-costs-20-or-less/#ftag=CAD590a51e)
- - [Black Friday 2021: Deals on phones, wearables, earbuds, and more](https://www.androidauthority.com/black-friday-deals-3049753/)<!-- TECH:END -->
+ - [Black Friday 2021 is on at Amazon: Save big on sales happening now     - CNET](https://www.cnet.com/tech/home-entertainment/amazon-black-friday-2021-12-great-deals-happening-ahead-of-the-big-day/#ftag=CAD590a51e)
+ - [Black Friday smart home deals: Google&#39;s Nest doorbells, Amazon Echo speakers and more     - CNET](https://www.cnet.com/home/smart-home/black-friday-smart-home-deals-available-now-echo-show-for-60-nest-hub-for-50-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
