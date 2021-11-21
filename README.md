@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [New trailers: The Expanse, Ozark, Encounter, and more](https://www.theverge.com/2021/11/21/22787416/new-trailers-the-expanse-ozark-encounter-dont-look-up-netflix-amazon)
- - [Facebook Messenger and Instagram may not get default end-to-end encryption until 2023](https://www.theverge.com/2021/11/21/22794622/messenger-instagram-end-to-end-encryption-default-2023)
- - [How to get a $15 Target gift card with a $100 Apple Gift Card purchase](https://appleinsider.com/articles/21/11/21/get-15-extra-with-every-100-apple-gift-card-from-target?utm_medium=rss)<!-- TECH:END -->
+ - [Spotify stops shuffling albums by default because Adele said so](https://www.theverge.com/2021/11/21/22794838/spotify-adele-stop-shuffling-albums)
+ - [13 of the best Black Friday deals: Discounts on AirPods Pro, Bose headphones and more     - CNET](https://www.cnet.com/tech/mobile/13-black-friday-deals-we-cant-wait-to-buy/#ftag=CAD590a51e)
+ - [Rare 1988 Apple watch &#39;WristMac&#39;  going up for auction](https://appleinsider.com/articles/21/11/21/rare-1988-apple-watch-wristmac-going-up-for-auction?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
