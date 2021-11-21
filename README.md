@@ -194,8 +194,8 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Daddy Issues](http://9gag.com/gag/aDDm13K)
- - 🚯 [Men only want one thing](http://9gag.com/gag/aGzReY7)
- - 🚯 [Expect the unexpected ;&rpar;](http://9gag.com/gag/a51KnBL)<!-- MEMES:END -->
+ - 🚯 [Be happy with everything guys](http://9gag.com/gag/aNPKz4v)
+ - 🚯 [Doing a back flip and applauding itself](http://9gag.com/gag/aAGpx89)<!-- MEMES:END -->
 
 --- 
 
