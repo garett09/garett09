@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Someone watched kill bill one too many times](http://9gag.com/gag/aqG27ZP)
- - 🚯 [Daddy Issues](http://9gag.com/gag/aDDm13K)
- - 🚯 [Me when I learned that Mr Bean ran for 5 years and only had 15 episodes :](http://9gag.com/gag/a51KMQN)<!-- MEMES:END -->
+ - 🚖 [Bottom feeders](http://9gag.com/gag/angB9wV)
+ - 🚯 [Me when I learned that Mr Bean ran for 5 years and only had 15 episodes :](http://9gag.com/gag/a51KMQN)
+ - 🚯 [Introverted at 30.](http://9gag.com/gag/a31LQ8N)<!-- MEMES:END -->
 
 --- 
 
