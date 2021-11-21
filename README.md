@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best smartwatches for men you can buy](https://www.androidauthority.com/best-smartwatches-for-men-3059735/)
  - [Spotify removes the shuffle button from all album pages so that tracks play in the order artists intended, after Adele requests the change &lpar;Jennifer Meierhans/BBC&rpar;](http://www.techmeme.com/211121/p11#a211121p11)
- - [Apple repairing certain iPhone 12 models sold in UAE over sound fault [u]](https://appleinsider.com/articles/21/11/21/apple-recalls-certain-iphone-12-models-sold-in-uae-over-sound-fault?utm_medium=rss)
- - [Rare 1988 Apple Watch predecessor &#39;WristMac&#39; expected to get $25K at auction](https://appleinsider.com/articles/21/11/21/rare-1988-apple-watch-wristmac-going-up-for-auction?utm_medium=rss)<!-- TECH:END -->
+ - [Apple repairing certain iPhone 12 models sold in UAE over sound fault [u]](https://appleinsider.com/articles/21/11/21/apple-recalls-certain-iphone-12-models-sold-in-uae-over-sound-fault?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
