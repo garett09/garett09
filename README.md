@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Ex-Bungie composer Marty O&#39;Donnell says to &#39;destroy&#39; copies of Destiny music](https://www.pcgamer.com/ex-bungie-composer-marty-odonnell-says-to-destroy-copies-of-destiny-music)
  - [Factory Town automates its way out of Early Access](https://www.pcgamer.com/factory-town-automates-its-way-out-of-early-access)
- - [What&#39;s the next upgrade you&#39;ve got planned?](https://www.pcgamer.com/whats-the-next-upgrade-youve-got-planned)
- - [Former Bungie Composer Tells Fans To &#39;Destroy&#39; Destiny Music He Published Against Court Orders](https://kotaku.com/former-bungie-composer-tells-fans-to-destroy-destiny-mu-1848097066)<!-- GAME:END -->
+ - [What&#39;s the next upgrade you&#39;ve got planned?](https://www.pcgamer.com/whats-the-next-upgrade-youve-got-planned)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
