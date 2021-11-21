@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Black Friday 2021: Deals on phones, wearables, earbuds, and more](https://www.androidauthority.com/black-friday-deals-3049753/)
- - [A new DuckDuckGo tool is supposed to prevent apps from tracking Android users](https://www.theverge.com/2021/11/20/22793068/duckduckgo-tool-prevent-apps-tracking-android-users)
- - [The best early Black Friday deals at Best Buy](https://www.theverge.com/22789835/best-buy-black-friday-2021-cyber-monday-tech-deals)<!-- TECH:END -->
+ - [Twitter&#39;s AI ethics researchers on getting public feedback about algorithmic bias, why responsible AI is hard, why they think algorithms can be saved, and more &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/211120/p13#a211120p13)
+ - [7 great, cheap kid-friendly gifts that aren&#39;t video games     - CNET](https://www.cnet.com/news/each-of-these-7-great-gifts-for-kids-costs-20-or-less/#ftag=CAD590a51e)
+ - [Black Friday 2021: Deals on phones, wearables, earbuds, and more](https://www.androidauthority.com/black-friday-deals-3049753/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
