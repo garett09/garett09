@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Introverted at 30.](http://9gag.com/gag/a31LQ8N)
- - 🚯 [Mejik](http://9gag.com/gag/a71b3NA)
- - 🚯 [How to sew in a straight line.](http://9gag.com/gag/ajgn5nx)<!-- MEMES:END -->
+ - 🚖 [A whole new world](http://9gag.com/gag/aLvB00A)
+ - 🚯 [No lie.](http://9gag.com/gag/aegp52W)
+ - 🚯 [#WhereisPengShuai](http://9gag.com/gag/angB9Zz)<!-- MEMES:END -->
 
 --- 
 
