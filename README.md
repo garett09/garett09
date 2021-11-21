@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Here&#39;s a look at Riot&#39;s in-progress fighting game, Project L](https://www.pcgamer.com/heres-a-look-at-riots-in-progress-fighting-game-project-l)
  - [Check out this fever dream of a hand-drawn game](https://www.pcgamer.com/check-out-this-fever-dream-of-a-hand-drawn-game)
- - [League of Legends Netflix Show, Arcane, Renewed For A Second Season](https://kotaku.com/league-of-legends-netflix-show-arcane-renewed-for-a-s-1848099595)
- - [Jared Leto says releasing Suicide Squad’s #AyerCut is ‘what streaming’s for,’ but do the numbers add up?](https://www.polygon.com/22794693/suicide-squad-hbo-jared-leto-ayer-cut)<!-- GAME:END -->
+ - [League of Legends Netflix Show, Arcane, Renewed For A Second Season](https://kotaku.com/league-of-legends-netflix-show-arcane-renewed-for-a-s-1848099595)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
