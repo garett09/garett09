@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple’s self-service repair program sets the bar for Android OEMs](https://www.androidauthority.com/right-to-repair-3061273/)
- - [How Reddit helped keep the Cowboy Bebop community alive](https://www.theverge.com/2021/11/21/22791143/cowboy-bebop-community-reddit-anime-netflix)
- - [Best deals Nov. 21: $41.99 Ring Video Doorbell, $90 WeWatch projector, $219 Apple Watch SE, more!](https://appleinsider.com/articles/21/11/21/best-deals-nov-21-4199-ring-video-doorbell-90-wewatch-projector-219-apple-watch-se-more?utm_medium=rss)<!-- TECH:END -->
+ - [Review: Belkin BoostCharge Pro Portable Fast Charger for Apple Watch Series 7](https://appleinsider.com/articles/21/11/21/belkin-boostcharge-pro-portable-fast-charger-for-apple-watch-review-finally-a-fast-charge-dock-for-the-series-7?utm_medium=rss)
+ - [Best deals Nov. 21: $219 Apple Watch SE, $42 Ring Video Doorbell with Dot, more!](https://appleinsider.com/articles/21/11/21/best-deals-nov-21-4199-ring-video-doorbell-90-wewatch-projector-219-apple-watch-se-more?utm_medium=rss)
+ - [$25 and under Black Friday 2021 deals $25: Streaming devices, kitchen essentials and more     - CNET](https://www.cnet.com/tech/black-friday-deals-25-and-under/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
