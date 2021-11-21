@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best smartwatches for men you can buy](https://www.androidauthority.com/best-smartwatches-for-men-3059735/)
- - [Spotify removes the shuffle button from all album pages so that tracks play in the order artists intended, after Adele requests the change &lpar;Jennifer Meierhans/BBC&rpar;](http://www.techmeme.com/211121/p11#a211121p11)
- - [Apple repairing certain iPhone 12 models sold in UAE over sound fault [u]](https://appleinsider.com/articles/21/11/21/apple-recalls-certain-iphone-12-models-sold-in-uae-over-sound-fault?utm_medium=rss)<!-- TECH:END -->
+ - [The best documentaries on Netflix     - CNET](https://www.cnet.com/news/netflix-the-best-documentaries-to-watch-in-2021/#ftag=CAD590a51e)
+ - [Black Friday 2021 deals: Major discounts on Nintendo Switch bundles, laptops, smartwatches and more available now     - CNET](https://www.cnet.com/tech/computing/black-friday-2021-early-holiday-savings-on-tvs-laptops-airpods-and-more/#ftag=CAD590a51e)
+ - [The best free books on Kindle and Apple Books right now     - CNET](https://www.cnet.com/news/the-best-free-books-to-download-on-kindle-and-apple-books-right-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
