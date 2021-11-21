@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Here&#39;s a look at Riot&#39;s in-progress fighting game, Project L](https://www.pcgamer.com/heres-a-look-at-riots-in-progress-fighting-game-project-l)
- - [Check out this fever dream of a hand-drawn game](https://www.pcgamer.com/check-out-this-fever-dream-of-a-hand-drawn-game)
- - [League of Legends Netflix Show, Arcane, Renewed For A Second Season](https://kotaku.com/league-of-legends-netflix-show-arcane-renewed-for-a-s-1848099595)<!-- GAME:END -->
+ - [The Week In Games: Are You Ready For Farming Simulator 22?](https://kotaku.com/the-week-in-games-are-you-ready-for-farming-simulator-1848099871)
+ - [Resident Evil 4 VR getting Mercenaries mode free next year](https://www.pcgamer.com/resident-evil-4-vr-getting-mercenaries-mode-free-next-year)
+ - [Here&#39;s a look at Riot&#39;s in-progress fighting game, Project L](https://www.pcgamer.com/heres-a-look-at-riots-in-progress-fighting-game-project-l)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
