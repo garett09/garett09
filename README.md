@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [#WhereisPengShuai](http://9gag.com/gag/angB9Zz)
- - 🚯 [I don&amp;#039;t know who needed to see this, but here&amp;#039;s a cat and a.... well, a rodent, being best friends](http://9gag.com/gag/aKmBdjZ)
- - 🚯 [No lie.](http://9gag.com/gag/aegp52W)<!-- MEMES:END -->
+ - 🚖 [Understanding the importance of engineering](http://9gag.com/gag/aNPKYBb)
+ - 🚯 [No lie.](http://9gag.com/gag/aegp52W)
+ - 🚯 [And why would you, anyway?](http://9gag.com/gag/a11YR68)<!-- MEMES:END -->
 
 --- 
 
