@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Brazil-based global payments network CloudWalk raises a $150M Series C led by Coatue at a $2.15B valuation, bringing its total funding to $365M &lpar;Niket Nishant/Reuters&rpar;](http://www.techmeme.com/211121/p2#a211121p2)
- - [Ultraleap, which develops ultrasound-based hand tracking tech and touchless interfaces for VR/XR headsets, raises an $82M Series D from Tencent and others &lpar;Mike Butcher/TechCrunch&rpar;](http://www.techmeme.com/211121/p1#a211121p1)
- - [Japan-based VR startup Hikky raises a $57M Series A led by NTT Docomo to expand its web-based virtual events platform Vket Cloud &lpar;Ben Lang/Road to VR&rpar;](http://www.techmeme.com/211120/p15#a211120p15)<!-- TECH:END -->
+ - [Inside &quot;Bitcoin Week&quot;, a series of events in El Salvador that let industry experts and crypto proponents celebrate their bitcoin allegiance &lpar;Michael D McDonald/Bloomberg&rpar;](http://www.techmeme.com/211121/p6#a211121p6)
+ - [El Salvador plans to build a &quot;Bitcoin City&quot; initially funded by a $1B &quot;bitcoin bond&quot;, with $500M to build mining infrastructure and $500M to buy more bitcoin &lpar;Andr&amp;eacute;s Engler/CoinDesk&rpar;](http://www.techmeme.com/211121/p5#a211121p5)
+ - [SVT Robotics, which develops software for simplifying robot deployment at warehouses and factories, raises a $25M Series A led by Tiger Global &lpar;Kyle Wiggers/VentureBeat&rpar;](http://www.techmeme.com/211121/p4#a211121p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
