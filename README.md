@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to get a $15 Target gift card with a $100 Apple Gift Card purchase](https://appleinsider.com/articles/21/11/21/get-15-extra-with-every-100-apple-gift-card-from-target?utm_medium=rss)
- - [If you’re buying a cheap streaming device, just make sure it has this one thing](https://www.androidauthority.com/chromecast-with-google-tv-storage-3061235/)
- - [Head of safety says Meta doesn&#39;t plan to finish the global rollout of e2e encryption by default across all of its messaging services until sometime in 2023 &lpar;Dan Milmo/The Guardian&rpar;](http://www.techmeme.com/211121/p9#a211121p9)<!-- TECH:END -->
+ - [New trailers: The Expanse, Ozark, Encounter, and more](https://www.theverge.com/2021/11/21/22787416/new-trailers-the-expanse-ozark-encounter-dont-look-up-netflix-amazon)
+ - [Facebook Messenger and Instagram may not get default end-to-end encryption until 2023](https://www.theverge.com/2021/11/21/22794622/messenger-instagram-end-to-end-encryption-default-2023)
+ - [How to get a $15 Target gift card with a $100 Apple Gift Card purchase](https://appleinsider.com/articles/21/11/21/get-15-extra-with-every-100-apple-gift-card-from-target?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
