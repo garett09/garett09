@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [100% of Brain Used](http://9gag.com/gag/angB4dn)
- - 🚯 [It was a fantastic party...](http://9gag.com/gag/apgBGQb)
- - 🚯 [Blast from the past](http://9gag.com/gag/aRrV70Q)<!-- MEMES:END -->
+ - 🚖 [Good morning](http://9gag.com/gag/aYrw7dv)
+ - 🚯 [Prepare for standards.. and make it double](http://9gag.com/gag/aDDmgO9)
+ - 🚯 [No free rides](http://9gag.com/gag/aDDm4XB)<!-- MEMES:END -->
 
 --- 
 
