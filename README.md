@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A whole new world](http://9gag.com/gag/aLvB00A)
- - 🚯 [No lie.](http://9gag.com/gag/aegp52W)
- - 🚯 [#WhereisPengShuai](http://9gag.com/gag/angB9Zz)<!-- MEMES:END -->
+ - 🚖 [#WhereisPengShuai](http://9gag.com/gag/angB9Zz)
+ - 🚯 [I don&amp;#039;t know who needed to see this, but here&amp;#039;s a cat and a.... well, a rodent, being best friends](http://9gag.com/gag/aKmBdjZ)
+ - 🚯 [No lie.](http://9gag.com/gag/aegp52W)<!-- MEMES:END -->
 
 --- 
 
