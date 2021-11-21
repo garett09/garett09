@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Everything you need to know about Nintendo and its consoles](https://www.androidauthority.com/nintendo-guide-2746221/)
- - [8 Chromebook productivity tricks to use if you&#39;re trying to be more efficient     - CNET](https://www.cnet.com/tech/services-and-software/chromebook-productivity-features/#ftag=CAD590a51e)
- - [Inside &quot;Bitcoin Week&quot;, a series of events in El Salvador that let industry experts and crypto proponents celebrate their bitcoin allegiance &lpar;Michael D McDonald/Bloomberg&rpar;](http://www.techmeme.com/211121/p6#a211121p6)<!-- TECH:END -->
+ - [What is Google’s Tensor chip? Everything you need to know](https://www.androidauthority.com/google-tensor-3060818/)
+ - [A look at projects like the Voguverse and companies like Pixel Vault that are trying to build media franchises around their NFT collectibles &lpar;Adi Robertson/The Verge&rpar;](http://www.techmeme.com/211121/p7#a211121p7)
+ - [iPhone 14 rumors: Yep, we&#39;ve already started rounding them up     - CNET](https://www.cnet.com/tech/mobile/iphone-14-rumors/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
