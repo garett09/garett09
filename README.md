@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Such a good boy. Pleading face We&amp;#039;ll say it again, what did we do to deserve dogs?](http://9gag.com/gag/a61LENL)
- - 🚯 [&amp;hellip;and than this bear started to&amp;hellip;](http://9gag.com/gag/aDDmdDw)
- - 🚯 [Ubisoft](http://9gag.com/gag/aWgOx72)<!-- MEMES:END -->
+ - 🚖 [Zombies have rights](http://9gag.com/gag/a31L1je)
+ - 🚯 [Just Visiting](http://9gag.com/gag/aegpDnq)
+ - 🚯 [What happens when a black whole destroys a planet](http://9gag.com/gag/a71bEg2)<!-- MEMES:END -->
 
 --- 
 
