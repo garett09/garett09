@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Come back from school and there are 2 episodes in a row true happiness](http://9gag.com/gag/aNPK1ZA)
- - 🚯 [Imagine walking through a dark forest and all of a sudden this](http://9gag.com/gag/a91Pr8L)
+ - 🚖 [Imagine walking through a dark forest and all of a sudden this](http://9gag.com/gag/a91Pr8L)
+ - 🚯 [Come back from school and there are 2 episodes in a row true happiness](http://9gag.com/gag/aNPK1ZA)
  - 🚯 [I used to hate Cypher, now I get him](http://9gag.com/gag/aRrVjbQ)<!-- MEMES:END -->
 
 --- 
