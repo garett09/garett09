@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Future of Digital Assistants Is Queer](https://www.wired.com/story/digital-assistant-smart-device-gender-identity)
- - [How to Keep Work Notifications From Taking Over Your Life](https://www.wired.com/story/how-to-keep-work-notifications-from-taking-over-your-life)
- - [12 Laptops We’ve Tested and Love](https://www.wired.com/gallery/best-laptops)<!-- TECH:END -->
+ - [Apple’s self-service repair program sets the bar for Android OEMs](https://www.androidauthority.com/right-to-repair-3061273/)
+ - [How Reddit helped keep the Cowboy Bebop community alive](https://www.theverge.com/2021/11/21/22791143/cowboy-bebop-community-reddit-anime-netflix)
+ - [Best deals Nov. 21: $41.99 Ring Video Doorbell, $90 WeWatch projector, $219 Apple Watch SE, more!](https://appleinsider.com/articles/21/11/21/best-deals-nov-21-4199-ring-video-doorbell-90-wewatch-projector-219-apple-watch-se-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
