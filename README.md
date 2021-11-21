@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spotify stops shuffling albums by default because Adele said so](https://www.theverge.com/2021/11/21/22794838/spotify-adele-stop-shuffling-albums)
- - [13 of the best Black Friday deals: Discounts on AirPods Pro, Bose headphones and more     - CNET](https://www.cnet.com/tech/mobile/13-black-friday-deals-we-cant-wait-to-buy/#ftag=CAD590a51e)
- - [Rare 1988 Apple watch &#39;WristMac&#39;  going up for auction](https://appleinsider.com/articles/21/11/21/rare-1988-apple-watch-wristmac-going-up-for-auction?utm_medium=rss)<!-- TECH:END -->
+ - [The Best Early Black Friday Deals on Laptops, TVs, and More](https://www.wired.com/story/early-black-friday-deals-2021-2)
+ - [Rare 1988 Apple watch &#39;WristMac&#39;  going up for auction](https://appleinsider.com/articles/21/11/21/rare-1988-apple-watch-wristmac-going-up-for-auction?utm_medium=rss)
+ - [Apple repairing certain iPhone 12 models sold in UAE over sound fault [u]](https://appleinsider.com/articles/21/11/21/apple-recalls-certain-iphone-12-models-sold-in-uae-over-sound-fault?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
