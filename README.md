@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nintendo’s early Black Friday deals on games and consoles have begun](https://www.theverge.com/2021/11/8/22769909/nintendo-black-friday-deals-2021-switch-ring-fit-adventure-mario-kart-console-sale)
- - [Wear OS 3 deserves a solid update commitment from Google](https://www.androidauthority.com/google-wear-os-3-updates-2736248/)
- - [A New Theory for Systems That Defy Newton’s Third Law](https://www.wired.com/story/a-new-theory-for-systems-that-defy-newtons-third-law)<!-- TECH:END -->
+ - [The Future of Digital Assistants Is Queer](https://www.wired.com/story/digital-assistant-smart-device-gender-identity)
+ - [How to Keep Work Notifications From Taking Over Your Life](https://www.wired.com/story/how-to-keep-work-notifications-from-taking-over-your-life)
+ - [12 Laptops We’ve Tested and Love](https://www.wired.com/gallery/best-laptops)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
