@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Black Friday gaming monitor deals 2021: the best and brightest screens at great prices](https://www.pcgamer.com/black-friday-gaming-monitor-deals-2021)
  - [Arcane season 2 is in production](https://www.pcgamer.com/arcane-season-2-is-in-production)
- - [The mod restoring Wolfenstein: Enemy Territory&#39;s singleplayer is out now](https://www.pcgamer.com/the-mod-restoring-wolfenstein-enemy-territorys-singleplayer-is-out-now)
- - [Ex-Bungie composer Marty O&#39;Donnell says to &#39;destroy&#39; copies of Destiny music](https://www.pcgamer.com/ex-bungie-composer-marty-odonnell-says-to-destroy-copies-of-destiny-music)<!-- GAME:END -->
+ - [The mod restoring Wolfenstein: Enemy Territory&#39;s singleplayer is out now](https://www.pcgamer.com/the-mod-restoring-wolfenstein-enemy-territorys-singleplayer-is-out-now)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
