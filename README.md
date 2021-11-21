@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [What Cowboy Bebop season 2 could look like, according to the cast and showrunner](https://www.polygon.com/22791644/cowboy-bebop-season-2-cast-what-we-know)
- - [Black Friday gaming PC deals 2021: the best prebuilt systems on sale today](https://www.pcgamer.com/black-friday-gaming-pc-deals-2021)
- - [Black Friday gaming monitor deals 2021: the best and brightest screens at great prices](https://www.pcgamer.com/black-friday-gaming-monitor-deals-2021)<!-- GAME:END -->
+ - [AMC’s Anna takes an old Star Trek plot to deeper, darker places](https://www.polygon.com/reviews/22790185/anna-review-amc)
+ - [Black Friday PC gaming deals UK: the best deals on PC parts and peripherals](https://www.pcgamer.com/black-friday-pc-gaming-deals-uk-2021)
+ - [Best Black Friday PC gaming deals: discounts on everything from full PCs to gaming chairs](https://www.pcgamer.com/black-friday-pc-gaming-deals-2021)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
