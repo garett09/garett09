@@ -195,7 +195,7 @@ Windows                  3 hrs 9 mins        ███████████�
 <!-- MEMES:START -->
  - 🚖 [Beneath us in deep clear waters](http://9gag.com/gag/aGzRzj7)
  - 🚯 [Sunday evening pills](http://9gag.com/gag/aM4Q4BG)
- - 🚯 [What happens when a black whole destroys a planet](http://9gag.com/gag/a71bEg2)<!-- MEMES:END -->
+ - 🚯 [The Last One!](http://9gag.com/gag/ajgngoG)<!-- MEMES:END -->
 
 --- 
 
