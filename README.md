@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Praise the Omnissiah and pass the Nuln Oil](http://9gag.com/gag/avAL1AW)
- - 🚯 [Kids going raw](http://9gag.com/gag/ajgn1Rg)
- - 🚯 [Girl doing Macarena during Sinner&amp;rsquo;s Prayer](http://9gag.com/gag/a21qM9p)<!-- MEMES:END -->
+ - 🚖 [Piet&amp;agrave; - Jago](http://9gag.com/gag/aOQmeZN)
+ - 🚯 [He took that personally](http://9gag.com/gag/amg81qy)
+ - 🚯 [I&amp;#039;m not sure how I feel about this](http://9gag.com/gag/aegp4Pp)<!-- MEMES:END -->
 
 --- 
 
