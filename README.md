@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Black Friday gaming headset deals 2021: cacophonous cans for your earholes](https://www.pcgamer.com/black-friday-gaming-headset-deals-2021)
- - [Black Friday Razer gaming laptop deals](https://www.pcgamer.com/the-best-razer-laptop-for-gaming-2019)
- - [Black Friday gaming chair deals 2021: when and where to find the right chair for you](https://www.pcgamer.com/black-friday-gaming-chair-deals-2021)<!-- GAME:END -->
+ - [Earthworm Jim emerges one more time for a new animated show](https://www.pcgamer.com/earthworm-jim-emerges-one-more-time-for-a-new-animated-show)
+ - [How Dungeons &amp; Dragons shaped every corner of PC gaming](https://www.pcgamer.com/how-dungeons-and-dragons-shaped-every-corner-of-pc-gaming)
+ - [Save $750 on this Nvidia RTX 3070-powered Razer Blade 15 Advanced](https://www.pcgamer.com/save-dollar750-on-this-nvidia-rtx-3070-powered-razer-blade-15-advanced)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
