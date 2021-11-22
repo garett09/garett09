@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [8fig, which provides equity-free flexible funding for e-commerce sellers by analyzing their growth, raises a $50M Series A &lpar;CTech&rpar;](http://www.techmeme.com/211121/p13#a211121p13)
- - [Amazon Prime Video: The 32 best TV shows to watch     - CNET](https://www.cnet.com/news/amazon-prime-video-the-32-best-tv-shows-to-stream-this-week/#ftag=CAD590a51e)
- - [Amazon Prime Video: The 27 best movies to watch     - CNET](https://www.cnet.com/news/amazon-prime-video-the-27-best-movies-to-stream-this-week/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources and internal docs show Facebook&#39;s race-blind policies around hate speech left minorities more likely to see derogatory and racist language on the site &lpar;Washington Post&rpar;](http://www.techmeme.com/211121/p14#a211121p14)
+ - [Netflix&#39;s Cowboy Bebop TV series review: A rare success     - CNET](https://www.cnet.com/news/cowboy-bebop-live-action-tv-series-netflix-review/#ftag=CAD590a51e)
+ - [8fig, which provides equity-free flexible funding for e-commerce sellers by analyzing their growth, raises a $50M Series A &lpar;CTech&rpar;](http://www.techmeme.com/211121/p13#a211121p13)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
