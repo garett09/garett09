@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [According to a report, Bobby Kotick says he&#39;ll consider leaving Activision](https://www.pcgamer.com/according-to-a-report-bobby-kotick-says-hell-consider-leaving-activision)
  - [Star Citizen has now raised over $400M](https://www.pcgamer.com/star-citizen-has-now-raised-over-dollar400m)
- - [Best Black Friday Secretlab gaming chair deals in Australia: nab a cheap gaming throne](https://www.pcgamer.com/best-black-friday-secretlab-gaming-chair-deals-in-australia-nab-a-cheap-gaming-throne)
- - [Best Black Friday PC gaming deals in Australia: heaps of early discounts have landed](https://www.pcgamer.com/black-friday-2021-the-pc-gaming-deals-you-can-expect-in-australia)<!-- GAME:END -->
+ - [Best Black Friday Secretlab gaming chair deals in Australia: nab a cheap gaming throne](https://www.pcgamer.com/best-black-friday-secretlab-gaming-chair-deals-in-australia-nab-a-cheap-gaming-throne)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
