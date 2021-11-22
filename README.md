@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hope that this guys life is doing good.](http://9gag.com/gag/aM4QKq6)
+ - 🚖 [Throwing a stone at a stray dog and immediately getting bitten](http://9gag.com/gag/axBGBwW)
  - 🚯 [Beneath us in deep clear waters](http://9gag.com/gag/aGzRzj7)
- - 🚯 [Who drew huge battlefields with stick figures as a kid?](http://9gag.com/gag/awz7MoB)<!-- MEMES:END -->
+ - 🚯 [I&amp;#039;m an early bird and a night owl. More like a sleepy pigeon.](http://9gag.com/gag/aE8zpQG)<!-- MEMES:END -->
 
 --- 
 
