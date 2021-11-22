@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Walmart’s PS5 and Xbox Series X restock is now live for Plus subscribers](https://www.theverge.com/2021/11/22/22796386/walmart-plus-playstation-5-ps5-xbox-series-x-restock-black-friday)
- - [Uber will let users in Ontario, Canada order cannabis on its Uber Eats app, marking its first foray into weed delivery &lpar;Rithika Krishna/Reuters&rpar;](http://www.techmeme.com/211122/p29#a211122p29)
- - [The UK&#39;s NCSC warns over 4,000 online stores that their customers&#39; information is being compromised by attacks exploiting unpatched Magecart software &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/211122/p28#a211122p28)<!-- TECH:END -->
+ - [Apple&#39;s Self Repair Service parts store to be run by third party](https://appleinsider.com/articles/21/11/22/apples-self-repair-service-parts-store-to-be-run-by-third-party?utm_medium=rss)
+ - [The best early Black Friday deals you can get right now](https://www.theverge.com/22759214/black-friday-early-deals-best-headphones-laptops-gaming-tvs-tech-sale)
+ - [ConstitutionDAO faces existential questions as a &quot;core team&quot; makes key decisions; high transaction fees mean ~50% of investors may lose the money they put in &lpar;Jordan Pearson/VICE&rpar;](http://www.techmeme.com/211122/p33#a211122p33)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
