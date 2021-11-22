@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Finally](http://9gag.com/gag/aLvBnLA)
- - 🚯 [He&amp;#039;s a messy eater](http://9gag.com/gag/a21qvME)
- - 🚯 [I&amp;#039;m proud guys,now we can make a little bit less jokes about street shitting Indians.](http://9gag.com/gag/aE8zMdo)<!-- MEMES:END -->
+ - 🚖 [Youre old](http://9gag.com/gag/aQXnzWW)
+ - 🚯 [Enjoy the line suckers&amp;hellip;](http://9gag.com/gag/aDDm2vd)
+ - 🚯 [Drifting away in GTA V](http://9gag.com/gag/aGzRLxX)<!-- MEMES:END -->
 
 --- 
 
