@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Feeling the Love: PlayStation Studios dev teams share their favorite fan interactions](https://blog.playstation.com/2021/11/22/feeling-the-love-playstation-studios-dev-teams-share-their-favorite-fan-interactions/)
- - [Feeling the Love: PlayStation Studios dev teams share their favorite fan interactions](https://blog.playstation.com/2021/11/22/feeling-the-love-playstation-studios-dev-teams-share-their-favorite-fan-interactions/)
- - [Kojima says screw it and finally sets up a movie studio](https://www.pcgamer.com/kojima-says-screw-it-and-finally-sets-up-a-movie-studio)<!-- GAME:END -->
+ - [Grand Theft Auto trilogy’s Definitive Edition misses the point of a remaster](https://www.polygon.com/reviews/22792109/grand-theft-auto-the-trilogy-review-definitive-edition-ps5-ps4-xbox-one-series-x)
+ - [A First Class Trouble love story](https://blog.playstation.com/2021/11/22/a-first-class-trouble-love-story/)
+ - [A First Class Trouble love story](https://blog.playstation.com/2021/11/22/a-first-class-trouble-love-story/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
