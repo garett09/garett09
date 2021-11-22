@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [These Fitbit Black Friday deals can save you as much as 40%](https://www.androidauthority.com/fitbit-black-friday-deals-3063192/)
- - [Sources and internal docs show Facebook&#39;s race-blind policies around hate speech left minorities more likely to see derogatory and racist language on the site &lpar;Washington Post&rpar;](http://www.techmeme.com/211121/p14#a211121p14)
- - [Netflix&#39;s Cowboy Bebop TV series review: A rare success     - CNET](https://www.cnet.com/news/cowboy-bebop-live-action-tv-series-netflix-review/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Early Samsung Black Friday deals are live, and one of them is unbelievable](https://www.androidauthority.com/samsung-black-friday-2021-early-3061000/)
+ - [Spotify&#39;s Findaway acquisition will turn it into an audiobook producer, distributor, and retailer, while making it an all-encompassing audio app &lpar;Ashley Carman/The Verge&rpar;](http://www.techmeme.com/211121/p15#a211121p15)
+ - [These Fitbit Black Friday deals can save you as much as 40%](https://www.androidauthority.com/fitbit-black-friday-deals-3063192/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
