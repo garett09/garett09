@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best fitness tracker deals of Black Friday 2021](https://www.androidauthority.com/best-cheap-fitness-tracker-deals-1113532/)
- - [Over a million GoDaddy WordPress customers had email addresses exposed in latest breach](https://www.theverge.com/2021/11/22/22796729/godaddy-email-addresses-passwords-security-breach-managed-wordpress-ssl-keys)
- - [The best early Black Friday deals on Apple devices](https://www.theverge.com/22787892/apple-black-friday-2021-deals-macbook-ipad-airpods-cyber-monday)<!-- TECH:END -->
+ - [iPhone 13 lead times shorten suggesting supply ramp-up, analyst says](https://appleinsider.com/articles/21/11/22/iphone-13-lead-times-shorten-suggest-supply-ramp-up-analyst-says?utm_medium=rss)
+ - [Oura Ring Generation 3 review: a relationship for the long term](https://www.theverge.com/22789248/oura-ring-3-review-sleep-tracker-fitness-tracker)
+ - [Best Black Friday phone deals: Save $50 on Google Pixel 5A, $100 on Samsung Galaxy Z Flip 3     - CNET](https://www.cnet.com/tech/mobile/best-black-friday-phone-deals-save-50-on-google-pixel-5a-100-on-samsung-galaxy-z-flip-3/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
