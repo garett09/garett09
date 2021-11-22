@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at Spotify&#39;s podcast investments, including its push into advertising and video, as it appears poised to dominate the industry &lpar;Nicole LaPorte/Fast Company&rpar;](http://www.techmeme.com/211122/p5#a211122p5)
  - [We asked, you told us: Here’s how long your phone should ideally take to charge](https://www.androidauthority.com/how-long-phone-charge-poll-results-3063281/)
- - [Singapore-based buy now pay later startup Pace raises a $40M Series A &lpar;Eileen Yu/ZDNet&rpar;](http://www.techmeme.com/211122/p4#a211122p4)
- - [San Francisco-based e-commerce fulfillment and technology startup Deliverr raises $250M led by Tiger Global at a $2B valuation &lpar;Gillian Tan/Bloomberg&rpar;](http://www.techmeme.com/211122/p3#a211122p3)<!-- TECH:END -->
+ - [Singapore-based buy now, pay later startup Pace raises a $40M Series A &lpar;Eileen Yu/ZDNet&rpar;](http://www.techmeme.com/211122/p4#a211122p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
