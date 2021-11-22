@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [LG TVs can now stream games through the Nvidia GeForce Now app](https://www.pcgamer.com/lg-tvs-can-now-stream-games-through-the-nvidia-geforce-now-app)
  - [United States joins list of countries investigating Nvidia&#39;s ARM acquisition](https://www.pcgamer.com/united-states-joins-list-of-countries-investigating-nvidias-arm-acquisition)
- - [The best subscription boxes for gamers](https://www.pcgamer.com/best-gamer-subscription-boxes)
- - [According to a report, Bobby Kotick says he&#39;ll consider leaving Activision](https://www.pcgamer.com/according-to-a-report-bobby-kotick-says-hell-consider-leaving-activision)<!-- GAME:END -->
+ - [The best subscription boxes for gamers](https://www.pcgamer.com/best-gamer-subscription-boxes)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
