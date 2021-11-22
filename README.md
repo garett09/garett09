@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Profile of Manal al-Sharif, a technologist whose social media activism pressured Saudi Arabia to let women drive and who now informs people about digital rights &lpar;Joel Khalili/TechRadar&rpar;](http://www.techmeme.com/211121/p16#a211121p16)
- - [Early Samsung Black Friday deals are live, and one of them is unbelievable](https://www.androidauthority.com/samsung-black-friday-2021-early-3061000/)
- - [Spider-Man: No Way Home drops new TV spot revealing more footage     - CNET](https://www.cnet.com/news/spider-man-no-way-home-drops-new-tv-spot-revealing-more-footage/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [HiMama, a Certified B Corp selling daycare software in Canada and the US that improves parental communication, raises a $70M Series B led by Bain Capital &lpar;Charles Mandel/BetaKit&rpar;](http://www.techmeme.com/211122/p1#a211122p1)
+ - [Survivor Series 2021: Results, full recap and analysis     - CNET](https://www.cnet.com/news/survivor-series-2021-results-full-recap-and-analysis/#ftag=CAD590a51e)
+ - [Amazon Prime Video: Everything coming in December 2021     - CNET](https://www.cnet.com/news/amazon-prime-video-everything-coming-in-december-2021/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
