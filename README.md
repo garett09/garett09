@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Stays in character and everything](http://9gag.com/gag/aXrXLZz)
- - 🚯 [Made not to end](http://9gag.com/gag/aGzRL8G)
- - 🚯 [&amp;ldquo;It&amp;rsquo;s a potato&amp;rdquo;](http://9gag.com/gag/aLvBn1g)<!-- MEMES:END -->
+ - 🚖 [Finally someone noticed it](http://9gag.com/gag/amg8ond)
+ - 🚯 [I&amp;#039;m not sure how I feel about this](http://9gag.com/gag/aegp4Pp)
+ - 🚯 [Hyenas raised by humans are known to be extremely affectionate and cuddly to their caretakers](http://9gag.com/gag/a91PygZ)<!-- MEMES:END -->
 
 --- 
 
