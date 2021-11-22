@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Throwing a stone at a stray dog and immediately getting bitten](http://9gag.com/gag/axBGBwW)
+ - 🚖 [I&amp;#039;m an early bird and a night owl. More like a sleepy pigeon.](http://9gag.com/gag/aE8zpQG)
  - 🚯 [Beneath us in deep clear waters](http://9gag.com/gag/aGzRzj7)
- - 🚯 [I&amp;#039;m an early bird and a night owl. More like a sleepy pigeon.](http://9gag.com/gag/aE8zpQG)<!-- MEMES:END -->
+ - 🚯 [Throwing a stone at a stray dog and immediately getting bitten](http://9gag.com/gag/axBGBwW)<!-- MEMES:END -->
 
 --- 
 
