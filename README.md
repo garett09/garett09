@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Add the le baguette,](http://9gag.com/gag/a41LPw6)
- - 🚯 [Enjoy the line suckers&amp;hellip;](http://9gag.com/gag/aDDm2vd)
- - 🚯 [Stays in character and everything](http://9gag.com/gag/aXrXLZz)<!-- MEMES:END -->
+ - 🚖 [Stays in character and everything](http://9gag.com/gag/aXrXLZz)
+ - 🚯 [Made not to end](http://9gag.com/gag/aGzRL8G)
+ - 🚯 [&amp;ldquo;It&amp;rsquo;s a potato&amp;rdquo;](http://9gag.com/gag/aLvBn1g)<!-- MEMES:END -->
 
 --- 
 
