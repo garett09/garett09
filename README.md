@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Piet&amp;agrave; - Jago](http://9gag.com/gag/aOQmeZN)
- - 🚯 [He took that personally](http://9gag.com/gag/amg81qy)
- - 🚯 [I&amp;#039;m not sure how I feel about this](http://9gag.com/gag/aegp4Pp)<!-- MEMES:END -->
+ - 🚖 [If you are like this, we can be friends.](http://9gag.com/gag/azeVPgp)
+ - 🚯 [Piet&amp;agrave; - Jago](http://9gag.com/gag/aOQmeZN)
+ - 🚯 [Good Boy!!!](http://9gag.com/gag/a51KVgN)<!-- MEMES:END -->
 
 --- 
 
