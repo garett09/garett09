@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Britain launches review of bias in medical devices](https://www.theverge.com/2021/11/22/22796255/britain-review-medical-devices-bias)
- - [UK-based EV retrofitter company looks to grow in the US market](https://www.theverge.com/2021/11/22/22763435/everrati-ev-retrofitter-announces-expansion-us-operations-interview)
- - [Qualcomm confirms Snapdragon chipsets getting rebranded: Here’s what we know](https://www.androidauthority.com/qualcomm-snapdragon-rebrand-2021-3061771/)<!-- TECH:END -->
+ - [Black Friday 2021 smart home tech deals: speakers, cameras, robots, and more](https://www.theverge.com/22789311/black-friday-2021-smart-home-tech-speakers-cameras-cyber-monday)
+ - [Apple gears up to open second retail location in Berlin](https://appleinsider.com/articles/21/11/22/apple-gears-up-to-open-second-retail-location-in-berlin?utm_medium=rss)
+ - [Twitter is the latest social media network to combine shopping and livestreams](https://www.theverge.com/2021/11/22/22796037/twitter-cyber-deals-sunday-shopping-livestream-walmart-jason-derulo)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
