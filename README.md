@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Week In Games: Are You Ready For Farming Simulator 22?](https://kotaku.com/the-week-in-games-are-you-ready-for-farming-simulator-1848099871)
- - [Resident Evil 4 VR getting Mercenaries mode free next year](https://www.pcgamer.com/resident-evil-4-vr-getting-mercenaries-mode-free-next-year)
- - [Here&#39;s a look at Riot&#39;s in-progress fighting game, Project L](https://www.pcgamer.com/heres-a-look-at-riots-in-progress-fighting-game-project-l)<!-- GAME:END -->
+ - [Best Black Friday PC gaming deals in Australia: heaps of early discounts have landed](https://www.pcgamer.com/black-friday-2021-the-pc-gaming-deals-you-can-expect-in-australia)
+ - [It Is 2021. Star Citizen Has Raised $400,000,000, And Is Still Not Out.](https://kotaku.com/it-is-2021-star-citizen-has-raised-400-000-000-and-i-1848099917)
+ - [Report: Activision CEO Bobby Kotick Will &#39;Consider&#39; Quitting If He Can&#39;t &#39;Fix&#39; Company&#39;s Culture](https://kotaku.com/report-activision-ceo-bobby-kotick-will-consider-quitt-1848100036)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
