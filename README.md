@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Hitman 3 is finally getting new maps next year](https://www.polygon.com/22796869/hitman-3-pc-steam-vr-dlc-maps-year-2)
- - [A patch for Skyrim Anniversary Edition is here to fix black screens and break your mods](https://www.pcgamer.com/a-patch-for-skyrim-anniversary-edition-is-here-to-fix-black-screens-and-break-your-mods)
- - [How To Master Every New Weapon In Halo Infinite](https://kotaku.com/how-to-master-every-new-weapon-in-halo-infinite-1848104172)<!-- GAME:END -->
+ - [Two Hundred Ways Out Now on Xbox](https://news.xbox.com/en-us/2021/11/22/two-hundred-ways-out-now-on-xbox/)
+ - [Fresh Off Legal Skirmish, Sony Secures PS5 Plate Patent](https://kotaku.com/fresh-off-legal-skirmish-sony-secures-ps5-plate-patent-1848105094)
+ - [Halo and Destiny’s original composer asks fans to destroy copies of his music](https://www.polygon.com/22797210/destiny-marty-odonnell-lawsuit-music-of-the-spheres-bandcamp-youtube-statement)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
