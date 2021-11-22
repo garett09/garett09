@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [These Fitbit Black Friday deals can save you as much as 40%](https://www.androidauthority.com/fitbit-black-friday-deals-3063192/)
  - [Sources and internal docs show Facebook&#39;s race-blind policies around hate speech left minorities more likely to see derogatory and racist language on the site &lpar;Washington Post&rpar;](http://www.techmeme.com/211121/p14#a211121p14)
- - [Netflix&#39;s Cowboy Bebop TV series review: A rare success     - CNET](https://www.cnet.com/news/cowboy-bebop-live-action-tv-series-netflix-review/#ftag=CAD590a51e)
- - [8fig, which provides equity-free flexible funding for e-commerce sellers by analyzing their growth, raises a $50M Series A &lpar;CTech&rpar;](http://www.techmeme.com/211121/p13#a211121p13)<!-- TECH:END -->
+ - [Netflix&#39;s Cowboy Bebop TV series review: A rare success     - CNET](https://www.cnet.com/news/cowboy-bebop-live-action-tv-series-netflix-review/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
