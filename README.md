@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [HiMama, a Certified B Corp selling daycare software in Canada and the US that improves parental communication, raises a $70M Series B led by Bain Capital &lpar;Charles Mandel/BetaKit&rpar;](http://www.techmeme.com/211122/p1#a211122p1)
- - [Survivor Series 2021: Results, full recap and analysis     - CNET](https://www.cnet.com/news/survivor-series-2021-results-full-recap-and-analysis/#ftag=CAD590a51e)
- - [Amazon Prime Video: Everything coming in December 2021     - CNET](https://www.cnet.com/news/amazon-prime-video-everything-coming-in-december-2021/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Ericsson to buy cloud communications company Vonage for $6.2B, expects the deal to close in the first half of 2022 &lpar;Simon Johnson/Reuters&rpar;](http://www.techmeme.com/211122/p2#a211122p2)
+ - [The OnePlus 10 Pro might not have a periscope zoom camera](https://www.androidauthority.com/oneplus-10-pro-camera-3063225/)
+ - [HiMama, a Certified B Corp selling daycare software in Canada and the US that improves parental communication, raises a $70M Series B led by Bain Capital &lpar;Charles Mandel/BetaKit&rpar;](http://www.techmeme.com/211122/p1#a211122p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
