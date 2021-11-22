@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Spotify&#39;s podcast investments, including its push into advertising and video, as it appears poised to dominate the industry &lpar;Nicole LaPorte/Fast Company&rpar;](http://www.techmeme.com/211122/p5#a211122p5)
- - [We asked, you told us: Here’s how long your phone should ideally take to charge](https://www.androidauthority.com/how-long-phone-charge-poll-results-3063281/)
- - [Singapore-based buy now, pay later startup Pace raises a $40M Series A &lpar;Eileen Yu/ZDNet&rpar;](http://www.techmeme.com/211122/p4#a211122p4)<!-- TECH:END -->
+ - [Rare 1988 Apple Watch predecessor &#39;WristMac&#39; expected to get $25K at auction](https://appleinsider.com/articles/21/11/21/rare-1988-apple-watch-wristmac-going-up-for-auction?utm_medium=rss)
+ - [The best Black Friday UK deals you can check out right now](https://www.androidauthority.com/black-friday-uk-927153/)
+ - [A look at Spotify&#39;s podcast investments, including its push into advertising and video, as it appears poised to dominate the industry &lpar;Nicole LaPorte/Fast Company&rpar;](http://www.techmeme.com/211122/p5#a211122p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
