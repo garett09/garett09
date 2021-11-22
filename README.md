@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 13 lead times shorten suggesting supply ramp-up, analyst says](https://appleinsider.com/articles/21/11/22/iphone-13-lead-times-shorten-suggest-supply-ramp-up-analyst-says?utm_medium=rss)
- - [Oura Ring Generation 3 review: a relationship for the long term](https://www.theverge.com/22789248/oura-ring-3-review-sleep-tracker-fitness-tracker)
- - [Best Black Friday phone deals: Save $50 on Google Pixel 5A, $100 on Samsung Galaxy Z Flip 3     - CNET](https://www.cnet.com/tech/mobile/best-black-friday-phone-deals-save-50-on-google-pixel-5a-100-on-samsung-galaxy-z-flip-3/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Walmart’s PS5 and Xbox Series X restock is now live for Plus subscribers](https://www.theverge.com/2021/11/22/22796386/walmart-plus-playstation-5-ps5-xbox-series-x-restock-black-friday)
+ - [Uber will let users in Ontario, Canada order cannabis on its Uber Eats app, marking its first foray into weed delivery &lpar;Rithika Krishna/Reuters&rpar;](http://www.techmeme.com/211122/p29#a211122p29)
+ - [The UK&#39;s NCSC warns over 4,000 online stores that their customers&#39; information is being compromised by attacks exploiting unpatched Magecart software &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/211122/p28#a211122p28)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
