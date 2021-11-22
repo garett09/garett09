@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best app to convert DVDs to MP4 and store them on your Mac](https://appleinsider.com/articles/21/11/22/the-best-app-to-convert-dvds-to-mp4-and-store-them-on-your-mac?utm_medium=rss)
- - [FAA forced 5G rollout delays despite no proof of harm, claim trade bodies](https://appleinsider.com/articles/21/11/19/faa-forced-5g-rollout-delays-despite-no-proof-of-harm-claim-trade-bodies?utm_medium=rss)
- - [What is Allblk? Here’s everything you need to know about the streaming service](https://www.androidauthority.com/what-is-allblk-3061445/)<!-- TECH:END -->
+ - [Jay Last, a pioneer who founded Fairchild Semiconductor, which laid the technical, financial, and cultural foundation for Silicon Valley, dies at 92 &lpar;Cade Metz/New York Times&rpar;](http://www.techmeme.com/211122/p10#a211122p10)
+ - [Which Streaming Services Are Best For You?](https://www.wired.com/gallery/best-streaming-services)
+ - [Android Messages update handles Apple iMessage reactions properly](https://www.theverge.com/2021/11/22/22796112/google-android-messages-imessage-emoji-reactions-formatting)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
