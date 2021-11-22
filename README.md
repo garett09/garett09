@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Grand Theft Auto trilogy’s Definitive Edition misses the point of a remaster](https://www.polygon.com/reviews/22792109/grand-theft-auto-the-trilogy-review-definitive-edition-ps5-ps4-xbox-one-series-x)
- - [A First Class Trouble love story](https://blog.playstation.com/2021/11/22/a-first-class-trouble-love-story/)
- - [A First Class Trouble love story](https://blog.playstation.com/2021/11/22/a-first-class-trouble-love-story/)<!-- GAME:END -->
+ - [We’ve seen Marvel’s Avengers’ first raid and Spider-Man in action](https://www.polygon.com/22796366/marvels-avengers-spider-man-discordant-sound-raid-preview-impressions)
+ - [Every Horizon Forbidden West Character Will Have Some Kind Of Attitude](https://kotaku.com/every-horizon-forbidden-west-character-will-have-some-k-1848102952)
+ - [Halo Infinite leans into the ‘Craig’ memes that led to the game’s delay](https://www.polygon.com/22796370/halo-infinite-craig-easter-eggs)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
