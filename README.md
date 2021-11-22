@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Prince of Persia](http://9gag.com/gag/a21qKPe)
- - 🚯 [Zombies have rights](http://9gag.com/gag/a31L1je)
- - 🚯 [The Last One!](http://9gag.com/gag/ajgngoG)<!-- MEMES:END -->
+ - 🚖 [Geez kid. Why?!](http://9gag.com/gag/avALQOZ)
+ - 🚯 [The Last One!](http://9gag.com/gag/ajgngoG)
+ - 🚯 [Prince of Persia](http://9gag.com/gag/a21qKPe)<!-- MEMES:END -->
 
 --- 
 
