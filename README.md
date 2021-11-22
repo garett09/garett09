@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [We’ve seen Marvel’s Avengers’ first raid and Spider-Man in action](https://www.polygon.com/22796366/marvels-avengers-spider-man-discordant-sound-raid-preview-impressions)
- - [Every Horizon Forbidden West Character Will Have Some Kind Of Attitude](https://kotaku.com/every-horizon-forbidden-west-character-will-have-some-k-1848102952)
- - [Halo Infinite leans into the ‘Craig’ memes that led to the game’s delay](https://www.polygon.com/22796370/halo-infinite-craig-easter-eggs)<!-- GAME:END -->
+ - [The Mexico civilization joins Age of Empires III: Definitive Edition!](https://news.xbox.com/en-us/2021/11/22/the-mexico-civilization-joins-age-of-empires-iii-definitive-edition/)
+ - [The best Minecraft mansions](https://www.pcgamer.com/minecraft-mansion-woodland-modern-easy-best)
+ - [The best Minecraft seeds for 1.17](https://www.pcgamer.com/best-minecraft-seeds)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
