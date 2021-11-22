@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Youre old](http://9gag.com/gag/aQXnzWW)
+ - 🚖 [Add the le baguette,](http://9gag.com/gag/a41LPw6)
  - 🚯 [Enjoy the line suckers&amp;hellip;](http://9gag.com/gag/aDDm2vd)
- - 🚯 [Drifting away in GTA V](http://9gag.com/gag/aGzRLxX)<!-- MEMES:END -->
+ - 🚯 [Stays in character and everything](http://9gag.com/gag/aXrXLZz)<!-- MEMES:END -->
 
 --- 
 
