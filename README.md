@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Too Many Game Subscription Services? Here’s How to Choose](https://www.wired.com/story/best-game-subscriptions)
- - [Global smartwatch shipments in Q3 2021: Samsung&#39;s share rose to 17% with Galaxy Watch 4 series launch, retaking #2 behind Apple, whose share dropped 10% YoY &lpar;Sujeong Lim/Counterpoint Research&rpar;](http://www.techmeme.com/211122/p14#a211122p14)
- - [Google is rolling out a Messages update that shows iMessage reactions as Emojis &lpar;Kyle Bradshaw/9to5Google&rpar;](http://www.techmeme.com/211122/p13#a211122p13)<!-- TECH:END -->
+ - [Nreal Light review: compact design and relatively affordable, but limited device and app support, inconsistent UX, and the mixed-reality mode is patchy &lpar;Adi Robertson/The Verge&rpar;](http://www.techmeme.com/211122/p20#a211122p20)
+ - [Roku lines up more than 50 new shows for its free channel](https://www.theverge.com/2021/11/22/22795069/roku-originals-new-shows-free-channel-streaming)
+ - [Best deals Nov. 22: $20 off 3 months of Xbox Game Pass Ultimate, $430 70-inch 4K TV, more!](https://appleinsider.com/articles/21/11/22/best-deals-nov-22-20-off-3-months-of-xbox-game-pass-ultimate-430-70-inch-4k-tv-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
