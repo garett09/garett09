@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ericsson to buy cloud communications company Vonage for $6.2B, expects the deal to close in the first half of 2022 &lpar;Simon Johnson/Reuters&rpar;](http://www.techmeme.com/211122/p2#a211122p2)
- - [The OnePlus 10 Pro might not have a periscope zoom camera](https://www.androidauthority.com/oneplus-10-pro-camera-3063225/)
- - [HiMama, a Certified B Corp selling daycare software in Canada and the US that improves parental communication, raises a $70M Series B led by Bain Capital &lpar;Charles Mandel/BetaKit&rpar;](http://www.techmeme.com/211122/p1#a211122p1)<!-- TECH:END -->
+ - [We asked, you told us: Here’s how long your phone should ideally take to charge](https://www.androidauthority.com/how-long-phone-charge-poll-results-3063281/)
+ - [Singapore-based buy now pay later startup Pace raises a $40M Series A &lpar;Eileen Yu/ZDNet&rpar;](http://www.techmeme.com/211122/p4#a211122p4)
+ - [San Francisco-based e-commerce fulfillment and technology startup Deliverr raises $250M led by Tiger Global at a $2B valuation &lpar;Gillian Tan/Bloomberg&rpar;](http://www.techmeme.com/211122/p3#a211122p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
