@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Mexico civilization joins Age of Empires III: Definitive Edition!](https://news.xbox.com/en-us/2021/11/22/the-mexico-civilization-joins-age-of-empires-iii-definitive-edition/)
- - [The best Minecraft mansions](https://www.pcgamer.com/minecraft-mansion-woodland-modern-easy-best)
- - [The best Minecraft seeds for 1.17](https://www.pcgamer.com/best-minecraft-seeds)<!-- GAME:END -->
+ - [Read a brand new excerpt from Leviathan Falls, the final book of The Expanse](https://www.polygon.com/22796464/expanse-leviathan-falls-final-book-excerpt)
+ - [Save $600 on this RTX 3080 gaming PC with a whole 32GB of RAM](https://www.pcgamer.com/save-dollar600-on-an-rtx-3080-gaming-pc-with-a-whole-32gb-of-ram)
+ - [Warhammer developer Games Workshop to hate groups: ‘We don’t want your money’](https://www.polygon.com/22791668/games-workshop-warhammer-40k-hate-groups-imperium-imagery-statement)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
