@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best documentaries on Netflix     - CNET](https://www.cnet.com/news/netflix-the-best-documentaries-to-watch-in-2021/#ftag=CAD590a51e)
- - [Black Friday 2021 deals: Major discounts on Nintendo Switch bundles, laptops, smartwatches and more available now     - CNET](https://www.cnet.com/tech/computing/black-friday-2021-early-holiday-savings-on-tvs-laptops-airpods-and-more/#ftag=CAD590a51e)
- - [The best free books on Kindle and Apple Books right now     - CNET](https://www.cnet.com/news/the-best-free-books-to-download-on-kindle-and-apple-books-right-now/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [To age in their own homes and avoid assisted living facilities, some seniors are embracing smart home tech, often at the cost of their privacy and independence &lpar;Heather Kelly/Washington Post&rpar;](http://www.techmeme.com/211121/p12#a211121p12)
+ - [League of Legends’ 2022 world championship will be a multi-city affair](https://www.theverge.com/2021/11/21/22791688/league-of-legends-2022-wold-championship-new-york-toronto-sf)
+ - [Bobby Kotick is still the CEO of Activision Blizzard, for now](https://www.theverge.com/2021/11/21/22795286/activision-ceo-bobby-kotick-is-not-resigning-yet)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
