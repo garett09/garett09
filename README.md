@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [If you are like this, we can be friends.](http://9gag.com/gag/azeVPgp)
- - 🚯 [Piet&amp;agrave; - Jago](http://9gag.com/gag/aOQmeZN)
- - 🚯 [Good Boy!!!](http://9gag.com/gag/a51KVgN)<!-- MEMES:END -->
+ - 🚖 [Chyna never lie](http://9gag.com/gag/aM4Qmdx)
+ - 🚯 [Kids going raw](http://9gag.com/gag/ajgn1Rg)
+ - 🚯 [Everyone in Japan wearing masks even though mask mandates were never issued.](http://9gag.com/gag/a61LXER)<!-- MEMES:END -->
 
 --- 
 
