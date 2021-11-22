@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Final Fantasy 7 Battle Royale Doesn&#39;t Just Work, It&#39;s Tight](https://kotaku.com/final-fantasy-7-battle-royale-doesnt-just-work-its-tig-1848105694)
- - [Bond is the biggest movie of the year at a weird time for box office](https://www.polygon.com/22796498/2021-box-office-highest-grossing-bond-f9-spider-man)
- - [Nintendo Switch Games Are Actually On Sale For Once](https://kotaku.com/major-nintendo-switch-games-go-on-rare-sale-for-under-1848105691)<!-- GAME:END -->
+ - [Street Fighter’s Ryu and Chun-Li join Ubisoft’s take on Smash Bros., Brawlhalla](https://www.polygon.com/22796703/ubisoft-brawlhalla-street-fighter-ryu-chun-li-akuma)
+ - [This Lightning-Fast Action Game Is Like A Cyberpunk Tomb Raider With Warframe&#39;s Swordplay](https://kotaku.com/this-lightning-fast-action-game-is-like-a-cyberpunk-tom-1848105708)
+ - [Activision’s Kotick raises possibility of leaving as CEO, says WSJ](https://www.polygon.com/22797435/activision-ceo-bobby-kotick-stepping-down-sex-harassment-lawsuit)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
