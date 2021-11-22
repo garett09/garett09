@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Beneath us in deep clear waters](http://9gag.com/gag/aGzRzj7)
- - 🚯 [Sunday evening pills](http://9gag.com/gag/aM4Q4BG)
+ - 🚖 [Prince of Persia](http://9gag.com/gag/a21qKPe)
+ - 🚯 [Zombies have rights](http://9gag.com/gag/a31L1je)
  - 🚯 [The Last One!](http://9gag.com/gag/ajgngoG)<!-- MEMES:END -->
 
 --- 
