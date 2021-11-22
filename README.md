@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Chyna never lie](http://9gag.com/gag/aM4Qmdx)
- - 🚯 [Kids going raw](http://9gag.com/gag/ajgn1Rg)
- - 🚯 [Everyone in Japan wearing masks even though mask mandates were never issued.](http://9gag.com/gag/a61LXER)<!-- MEMES:END -->
+ - 🚖 [The sea around Cura&amp;ccedil;ao is so crystal clear that it looks like this boat is floating above the water](http://9gag.com/gag/aBnrVQO)
+ - 🚯 [Everyone in Japan wearing masks even though mask mandates were never issued.](http://9gag.com/gag/a61LXER)
+ - 🚯 [Chyna never lie](http://9gag.com/gag/aM4Qmdx)<!-- MEMES:END -->
 
 --- 
 
