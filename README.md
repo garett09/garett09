@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hyenas raised by humans are known to be extremely affectionate and cuddly to their caretakers](http://9gag.com/gag/a91PygZ)
+ - 🚖 [Yes yes Yes](http://9gag.com/gag/adgp10Q)
  - 🚯 [Drifting away in GTA V](http://9gag.com/gag/aGzRLxX)
- - 🚯 [He took that personally](http://9gag.com/gag/amg81qy)<!-- MEMES:END -->
+ - 🚯 [One Piece is life](http://9gag.com/gag/aDDm7GB)<!-- MEMES:END -->
 
 --- 
 
