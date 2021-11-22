@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Sunday evening pills](http://9gag.com/gag/aM4Q4BG)
- - 🚯 [India&amp;#039;s tallest elephant Thechikkottukavu Ramachandran.](http://9gag.com/gag/aXrXoO9)
- - 🚯 [Beneath us in deep clear waters](http://9gag.com/gag/aGzRzj7)<!-- MEMES:END -->
+ - 🚖 [Hope that this guys life is doing good.](http://9gag.com/gag/aM4QKq6)
+ - 🚯 [Beneath us in deep clear waters](http://9gag.com/gag/aGzRzj7)
+ - 🚯 [Who drew huge battlefields with stick figures as a kid?](http://9gag.com/gag/awz7MoB)<!-- MEMES:END -->
 
 --- 
 
