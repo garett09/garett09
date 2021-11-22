@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Yes yes Yes](http://9gag.com/gag/adgp10Q)
- - 🚯 [Drifting away in GTA V](http://9gag.com/gag/aGzRLxX)
- - 🚯 [One Piece is life](http://9gag.com/gag/aDDm7GB)<!-- MEMES:END -->
+ - 🚖 [I&amp;#039;m proud guys,now we can make a little bit less jokes about street shitting Indians.](http://9gag.com/gag/aE8zMdo)
+ - 🚯 [Praise the Omnissiah and pass the Nuln Oil](http://9gag.com/gag/avAL1AW)
+ - 🚯 [Made not to end](http://9gag.com/gag/aGzRL8G)<!-- MEMES:END -->
 
 --- 
 
