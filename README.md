@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I&amp;#039;m proud guys,now we can make a little bit less jokes about street shitting Indians.](http://9gag.com/gag/aE8zMdo)
- - 🚯 [Praise the Omnissiah and pass the Nuln Oil](http://9gag.com/gag/avAL1AW)
- - 🚯 [Made not to end](http://9gag.com/gag/aGzRL8G)<!-- MEMES:END -->
+ - 🚖 [Praise the Omnissiah and pass the Nuln Oil](http://9gag.com/gag/avAL1AW)
+ - 🚯 [Kids going raw](http://9gag.com/gag/ajgn1Rg)
+ - 🚯 [Girl doing Macarena during Sinner&amp;rsquo;s Prayer](http://9gag.com/gag/a21qM9p)<!-- MEMES:END -->
 
 --- 
 
