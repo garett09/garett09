@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Finally](http://9gag.com/gag/aLvBnLA)
- - 🚯 [Natural Selection](http://9gag.com/gag/ajgnPEw)
- - 🚯 [This is some 007 gadget shit.](http://9gag.com/gag/azeVxjp)<!-- MEMES:END -->
+ - 🚖 [Better than the tutorials](http://9gag.com/gag/aKmBG3N)
+ - 🚯 [Finally](http://9gag.com/gag/aLvBnLA)
+ - 🚯 [Next Generation](http://9gag.com/gag/a91PqY6)<!-- MEMES:END -->
 
 --- 
 
