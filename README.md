@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Black Friday 2021 smart home tech deals: speakers, cameras, robots, and more](https://www.theverge.com/22789311/black-friday-2021-smart-home-tech-speakers-cameras-cyber-monday)
- - [Apple gears up to open second retail location in Berlin](https://appleinsider.com/articles/21/11/22/apple-gears-up-to-open-second-retail-location-in-berlin?utm_medium=rss)
- - [Twitter is the latest social media network to combine shopping and livestreams](https://www.theverge.com/2021/11/22/22796037/twitter-cyber-deals-sunday-shopping-livestream-walmart-jason-derulo)<!-- TECH:END -->
+ - [Get 12 highly rated Mac apps for $18 in the Limited Edition bundle](https://appleinsider.com/articles/21/11/22/get-12-highly-rated-mac-apps-for-18-in-the-limited-edition-bundle?utm_medium=rss)
+ - [Gizmodo says it will begin responsibly publishing the Facebook Papers with help from partners including NYU, Marquette, and the ACLU in redacting sensitive info &lpar;Gizmodo&rpar;](http://www.techmeme.com/211122/p24#a211122p24)
+ - [The best app to convert DVDs to MP4 and store them on your Mac](https://appleinsider.com/articles/21/11/22/the-best-app-to-convert-dvds-to-mp4-and-store-them-on-your-mac?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
