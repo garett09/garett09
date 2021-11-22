@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Get 12 highly rated Mac apps for $18 in the Limited Edition bundle](https://appleinsider.com/articles/21/11/22/get-12-highly-rated-mac-apps-for-18-in-the-limited-edition-bundle?utm_medium=rss)
- - [Gizmodo says it will begin responsibly publishing the Facebook Papers with help from partners including NYU, Marquette, and the ACLU in redacting sensitive info &lpar;Gizmodo&rpar;](http://www.techmeme.com/211122/p24#a211122p24)
- - [The best app to convert DVDs to MP4 and store them on your Mac](https://appleinsider.com/articles/21/11/22/the-best-app-to-convert-dvds-to-mp4-and-store-them-on-your-mac?utm_medium=rss)<!-- TECH:END -->
+ - [The best fitness tracker deals of Black Friday 2021](https://www.androidauthority.com/best-cheap-fitness-tracker-deals-1113532/)
+ - [Over a million GoDaddy WordPress customers had email addresses exposed in latest breach](https://www.theverge.com/2021/11/22/22796729/godaddy-email-addresses-passwords-security-breach-managed-wordpress-ssl-keys)
+ - [The best early Black Friday deals on Apple devices](https://www.theverge.com/22787892/apple-black-friday-2021-deals-macbook-ipad-airpods-cyber-monday)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
