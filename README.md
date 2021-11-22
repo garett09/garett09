@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nreal Light review: compact design and relatively affordable, but limited device and app support, inconsistent UX, and the mixed-reality mode is patchy &lpar;Adi Robertson/The Verge&rpar;](http://www.techmeme.com/211122/p20#a211122p20)
- - [Roku lines up more than 50 new shows for its free channel](https://www.theverge.com/2021/11/22/22795069/roku-originals-new-shows-free-channel-streaming)
- - [Best deals Nov. 22: $20 off 3 months of Xbox Game Pass Ultimate, $430 70-inch 4K TV, more!](https://appleinsider.com/articles/21/11/22/best-deals-nov-22-20-off-3-months-of-xbox-game-pass-ultimate-430-70-inch-4k-tv-more?utm_medium=rss)<!-- TECH:END -->
+ - [Britain launches review of bias in medical devices](https://www.theverge.com/2021/11/22/22796255/britain-review-medical-devices-bias)
+ - [UK-based EV retrofitter company looks to grow in the US market](https://www.theverge.com/2021/11/22/22763435/everrati-ev-retrofitter-announces-expansion-us-operations-interview)
+ - [Qualcomm confirms Snapdragon chipsets getting rebranded: Here’s what we know](https://www.androidauthority.com/qualcomm-snapdragon-rebrand-2021-3061771/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
