@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [LG TVs can now stream games through the Nvidia GeForce Now app](https://www.pcgamer.com/lg-tvs-can-now-stream-games-through-the-nvidia-geforce-now-app)
- - [United States joins list of countries investigating Nvidia&#39;s ARM acquisition](https://www.pcgamer.com/united-states-joins-list-of-countries-investigating-nvidias-arm-acquisition)
- - [The best subscription boxes for gamers](https://www.pcgamer.com/best-gamer-subscription-boxes)<!-- GAME:END -->
+ - [Black Friday gaming headset deals 2021: cacophonous cans for your earholes](https://www.pcgamer.com/black-friday-gaming-headset-deals-2021)
+ - [Black Friday Razer gaming laptop deals](https://www.pcgamer.com/the-best-razer-laptop-for-gaming-2019)
+ - [Black Friday gaming chair deals 2021: when and where to find the right chair for you](https://www.pcgamer.com/black-friday-gaming-chair-deals-2021)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
