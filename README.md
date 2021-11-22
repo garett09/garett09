@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Finally someone noticed it](http://9gag.com/gag/amg8ond)
- - 🚯 [I&amp;#039;m not sure how I feel about this](http://9gag.com/gag/aegp4Pp)
- - 🚯 [Hyenas raised by humans are known to be extremely affectionate and cuddly to their caretakers](http://9gag.com/gag/a91PygZ)<!-- MEMES:END -->
+ - 🚖 [Hyenas raised by humans are known to be extremely affectionate and cuddly to their caretakers](http://9gag.com/gag/a91PygZ)
+ - 🚯 [Drifting away in GTA V](http://9gag.com/gag/aGzRLxX)
+ - 🚯 [He took that personally](http://9gag.com/gag/amg81qy)<!-- MEMES:END -->
 
 --- 
 
