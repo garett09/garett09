@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Rare 1988 Apple Watch predecessor &#39;WristMac&#39; expected to get $25K at auction](https://appleinsider.com/articles/21/11/21/rare-1988-apple-watch-wristmac-going-up-for-auction?utm_medium=rss)
- - [The best Black Friday UK deals you can check out right now](https://www.androidauthority.com/black-friday-uk-927153/)
- - [A look at Spotify&#39;s podcast investments, including its push into advertising and video, as it appears poised to dominate the industry &lpar;Nicole LaPorte/Fast Company&rpar;](http://www.techmeme.com/211122/p5#a211122p5)<!-- TECH:END -->
+ - [5 best webcam apps to turn your phone into a webcam](https://www.androidauthority.com/webcam-apps-android-3060344/)
+ - [Use of shopping bots that scour retail sites for hard-to-find items soared during the pandemic; one developer is selling such bots for $40 plus a $30/month fee &lpar;Sarah E. Needleman/Wall Street Journal&rpar;](http://www.techmeme.com/211122/p6#a211122p6)
+ - [Poll: What do you most look forward to buying this Black Friday?](https://www.androidauthority.com/black-friday-purchase-poll-3063328/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
