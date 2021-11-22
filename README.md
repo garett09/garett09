@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [5 best webcam apps to turn your phone into a webcam](https://www.androidauthority.com/webcam-apps-android-3060344/)
- - [Use of shopping bots that scour retail sites for hard-to-find items soared during the pandemic; one developer is selling such bots for $40 plus a $30/month fee &lpar;Sarah E. Needleman/Wall Street Journal&rpar;](http://www.techmeme.com/211122/p6#a211122p6)
- - [Poll: What do you most look forward to buying this Black Friday?](https://www.androidauthority.com/black-friday-purchase-poll-3063328/)<!-- TECH:END -->
+ - [The best app to convert DVDs to MP4 and store them on your Mac](https://appleinsider.com/articles/21/11/22/the-best-app-to-convert-dvds-to-mp4-and-store-them-on-your-mac?utm_medium=rss)
+ - [FAA forced 5G rollout delays despite no proof of harm, claim trade bodies](https://appleinsider.com/articles/21/11/19/faa-forced-5g-rollout-delays-despite-no-proof-of-harm-claim-trade-bodies?utm_medium=rss)
+ - [What is Allblk? Here’s everything you need to know about the streaming service](https://www.androidauthority.com/what-is-allblk-3061445/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
