@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Read a brand new excerpt from Leviathan Falls, the final book of The Expanse](https://www.polygon.com/22796464/expanse-leviathan-falls-final-book-excerpt)
- - [Save $600 on this RTX 3080 gaming PC with a whole 32GB of RAM](https://www.pcgamer.com/save-dollar600-on-an-rtx-3080-gaming-pc-with-a-whole-32gb-of-ram)
- - [Warhammer developer Games Workshop to hate groups: ‘We don’t want your money’](https://www.polygon.com/22791668/games-workshop-warhammer-40k-hate-groups-imperium-imagery-statement)<!-- GAME:END -->
+ - [Hitman 3 is finally getting new maps next year](https://www.polygon.com/22796869/hitman-3-pc-steam-vr-dlc-maps-year-2)
+ - [A patch for Skyrim Anniversary Edition is here to fix black screens and break your mods](https://www.pcgamer.com/a-patch-for-skyrim-anniversary-edition-is-here-to-fix-black-screens-and-break-your-mods)
+ - [How To Master Every New Weapon In Halo Infinite](https://kotaku.com/how-to-master-every-new-weapon-in-halo-infinite-1848104172)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
