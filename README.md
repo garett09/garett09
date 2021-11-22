@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Natural Selection](http://9gag.com/gag/ajgnPEw)
- - 🚯 [This is some 007 gadget shit.](http://9gag.com/gag/azeVxjp)
- - 🚯 [Working on a little project where the Trees are starting to protect their beloved forests on their own!](http://9gag.com/gag/aBnrnbx)<!-- MEMES:END -->
+ - 🚖 [Finally](http://9gag.com/gag/aLvBnLA)
+ - 🚯 [Natural Selection](http://9gag.com/gag/ajgnPEw)
+ - 🚯 [This is some 007 gadget shit.](http://9gag.com/gag/azeVxjp)<!-- MEMES:END -->
 
 --- 
 
