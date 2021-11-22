@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I&amp;#039;m an early bird and a night owl. More like a sleepy pigeon.](http://9gag.com/gag/aE8zpQG)
- - 🚯 [Beneath us in deep clear waters](http://9gag.com/gag/aGzRzj7)
- - 🚯 [Throwing a stone at a stray dog and immediately getting bitten](http://9gag.com/gag/axBGBwW)<!-- MEMES:END -->
+ - 🚖 [Beneath us in deep clear waters](http://9gag.com/gag/aGzRzj7)
+ - 🚯 [Sunday evening pills](http://9gag.com/gag/aM4Q4BG)
+ - 🚯 [What happens when a black whole destroys a planet](http://9gag.com/gag/a71bEg2)<!-- MEMES:END -->
 
 --- 
 
