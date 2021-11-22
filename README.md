@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Profile of Manal al-Sharif, a technologist whose social media activism pressured Saudi Arabia to let women drive and who now informs people about digital rights &lpar;Joel Khalili/TechRadar&rpar;](http://www.techmeme.com/211121/p16#a211121p16)
  - [Early Samsung Black Friday deals are live, and one of them is unbelievable](https://www.androidauthority.com/samsung-black-friday-2021-early-3061000/)
- - [Spotify&#39;s Findaway acquisition will turn it into an audiobook producer, distributor, and retailer, while making it an all-encompassing audio app &lpar;Ashley Carman/The Verge&rpar;](http://www.techmeme.com/211121/p15#a211121p15)
- - [These Fitbit Black Friday deals can save you as much as 40%](https://www.androidauthority.com/fitbit-black-friday-deals-3063192/)<!-- TECH:END -->
+ - [Spider-Man: No Way Home drops new TV spot revealing more footage     - CNET](https://www.cnet.com/news/spider-man-no-way-home-drops-new-tv-spot-revealing-more-footage/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
