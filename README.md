@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Best Black Friday PC gaming deals in Australia: heaps of early discounts have landed](https://www.pcgamer.com/black-friday-2021-the-pc-gaming-deals-you-can-expect-in-australia)
- - [It Is 2021. Star Citizen Has Raised $400,000,000, And Is Still Not Out.](https://kotaku.com/it-is-2021-star-citizen-has-raised-400-000-000-and-i-1848099917)
- - [Report: Activision CEO Bobby Kotick Will &#39;Consider&#39; Quitting If He Can&#39;t &#39;Fix&#39; Company&#39;s Culture](https://kotaku.com/report-activision-ceo-bobby-kotick-will-consider-quitt-1848100036)<!-- GAME:END -->
+ - [Star Citizen has now raised over $400M](https://www.pcgamer.com/star-citizen-has-now-raised-over-dollar400m)
+ - [Best Black Friday Secretlab gaming chair deals in Australia: nab a cheap gaming throne](https://www.pcgamer.com/best-black-friday-secretlab-gaming-chair-deals-in-australia-nab-a-cheap-gaming-throne)
+ - [Best Black Friday PC gaming deals in Australia: heaps of early discounts have landed](https://www.pcgamer.com/black-friday-2021-the-pc-gaming-deals-you-can-expect-in-australia)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
