@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Jay Last, a pioneer who founded Fairchild Semiconductor, which laid the technical, financial, and cultural foundation for Silicon Valley, dies at 92 &lpar;Cade Metz/New York Times&rpar;](http://www.techmeme.com/211122/p10#a211122p10)
- - [Which Streaming Services Are Best For You?](https://www.wired.com/gallery/best-streaming-services)
- - [Android Messages update handles Apple iMessage reactions properly](https://www.theverge.com/2021/11/22/22796112/google-android-messages-imessage-emoji-reactions-formatting)<!-- TECH:END -->
+ - [Too Many Game Subscription Services? Here’s How to Choose](https://www.wired.com/story/best-game-subscriptions)
+ - [Global smartwatch shipments in Q3 2021: Samsung&#39;s share rose to 17% with Galaxy Watch 4 series launch, retaking #2 behind Apple, whose share dropped 10% YoY &lpar;Sujeong Lim/Counterpoint Research&rpar;](http://www.techmeme.com/211122/p14#a211122p14)
+ - [Google is rolling out a Messages update that shows iMessage reactions as Emojis &lpar;Kyle Bradshaw/9to5Google&rpar;](http://www.techmeme.com/211122/p13#a211122p13)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
