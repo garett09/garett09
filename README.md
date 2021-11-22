@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Horizon Forbidden West: An authentic world](https://blog.playstation.com/2021/11/22/horizon-forbidden-west-an-authentic-world/)
- - [The Evercade VS Recaptures That Cartridge Game Magic](https://kotaku.com/the-evercade-vs-recaptures-that-cartridge-game-magic-1848089214)
- - [Horizon Forbidden West: An authentic world](https://blog.playstation.com/2021/11/22/horizon-forbidden-west-an-authentic-world/)<!-- GAME:END -->
+ - [Feeling the Love: PlayStation Studios dev teams share their favorite fan interactions](https://blog.playstation.com/2021/11/22/feeling-the-love-playstation-studios-dev-teams-share-their-favorite-fan-interactions/)
+ - [Feeling the Love: PlayStation Studios dev teams share their favorite fan interactions](https://blog.playstation.com/2021/11/22/feeling-the-love-playstation-studios-dev-teams-share-their-favorite-fan-interactions/)
+ - [Kojima says screw it and finally sets up a movie studio](https://www.pcgamer.com/kojima-says-screw-it-and-finally-sets-up-a-movie-studio)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
