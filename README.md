@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [To age in their own homes and avoid assisted living facilities, some seniors are embracing smart home tech, often at the cost of their privacy and independence &lpar;Heather Kelly/Washington Post&rpar;](http://www.techmeme.com/211121/p12#a211121p12)
- - [League of Legends’ 2022 world championship will be a multi-city affair](https://www.theverge.com/2021/11/21/22791688/league-of-legends-2022-wold-championship-new-york-toronto-sf)
- - [Bobby Kotick is still the CEO of Activision Blizzard, for now](https://www.theverge.com/2021/11/21/22795286/activision-ceo-bobby-kotick-is-not-resigning-yet)<!-- TECH:END -->
+ - [8fig, which provides equity-free flexible funding for e-commerce sellers by analyzing their growth, raises a $50M Series A &lpar;CTech&rpar;](http://www.techmeme.com/211121/p13#a211121p13)
+ - [Amazon Prime Video: The 32 best TV shows to watch     - CNET](https://www.cnet.com/news/amazon-prime-video-the-32-best-tv-shows-to-stream-this-week/#ftag=CAD590a51e)
+ - [Amazon Prime Video: The 27 best movies to watch     - CNET](https://www.cnet.com/news/amazon-prime-video-the-27-best-movies-to-stream-this-week/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
