@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Chyna never lie](http://9gag.com/gag/aM4Qmdx)
+ - 🚖 [Every price gets higher but wages...](http://9gag.com/gag/angBnmz)
  - 🚯 [FEELS](http://9gag.com/gag/aLvBzrg)
- - 🚯 [The sea around Cura&amp;ccedil;ao is so crystal clear that it looks like this boat is floating above the water](http://9gag.com/gag/aBnrVQO)<!-- MEMES:END -->
+ - 🚯 [Yes! Good times...](http://9gag.com/gag/aggNO4x)<!-- MEMES:END -->
 
 --- 
 
