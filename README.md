@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Just f**kin do not](http://9gag.com/gag/aRrVZOG)
- - 🚯 [Videogame Giantess](http://9gag.com/gag/aKmBWGj)
- - 🚯 [Eurotruth](http://9gag.com/gag/aVxXKrO)<!-- MEMES:END -->
+ - 🚖 [She played one hell of an amazing character.](http://9gag.com/gag/a51KwXL)
+ - 🚯 [Love in](http://9gag.com/gag/a61LnVL)
+ - 🚯 [How corrupted &amp;amp; stupid your country is? Me:..](http://9gag.com/gag/aqG26VQ)<!-- MEMES:END -->
 
 --- 
 
