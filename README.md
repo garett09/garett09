@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung to reportedly build $17B chip factory in Taylor, Texas](https://appleinsider.com/articles/21/11/23/samsung-to-reportedly-build-17b-chip-factory-in-taylor-texas?utm_medium=rss)
- - [Two former Netflix employees, one who just resigned, at the center of protests over Chappelle&#39;s special have withdrawn their NLRB charge against the company &lpar;Wendy Lee/Los Angeles Times&rpar;](http://www.techmeme.com/211122/p36#a211122p36)
- - [New HomePod mini colors now available in Australia and New Zealand](https://appleinsider.com/articles/21/11/23/new-homepod-mini-colors-now-available-in-australia-and-new-zealand?utm_medium=rss)<!-- TECH:END -->
+ - [[Thread] A former Facebook employee says Meta announced an &quot;absurdly accelerated timeline&quot; for e2ee messaging to preempt antitrust action and generate good PR &lpar;David Thiel/@elegant_wallaby&rpar;](http://www.techmeme.com/211122/p38#a211122p38)
+ - [Sources: Qualcomm has an exclusivity deal with Microsoft for Windows on ARM that is set to expire soon, opening up chip vendor competition &lpar;Rich Woods/XDA Developers&rpar;](http://www.techmeme.com/211122/p37#a211122p37)
+ - [iMessage reaction support rolling out in Google Messages](https://appleinsider.com/articles/21/11/22/imessage-reaction-support-rolling-out-in-google-messages?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
