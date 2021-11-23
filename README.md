@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Epic buys Fuser studio Harmonix to bring music to Fortnite](https://www.pcgamer.com/epic-buys-fuser-studio-harmonix-to-bring-music-to-fortnite)
- - [Will Smith reboots Fresh Prince of Bel-Air with a grittier tone](https://www.polygon.com/22798800/bel-air-reboot-teaser-trailer-peacock-will-smith)
- - [The best builds for Eula in Genshin Impact](https://www.pcgamer.com/best-genshin-impact-eula-build-banner)<!-- GAME:END -->
+ - [Part 2 of Netflix’s He-Man sequel gets real philosophical, and… kinda sexy?](https://www.polygon.com/22797608/masters-of-the-universe-revelation-part-2-review-he-man-netflix)
+ - [Animal Crossing players make stunning balconies using partition illusions](https://www.polygon.com/22798711/animal-crossing-new-horizons-update-balcony-accent-wall-partition-happy-home-paradise-dlc)
+ - [Epic Buys Rock Band Creators To Make ‘Musical Journeys’ For Fortnite](https://kotaku.com/epic-buys-rock-band-creators-to-make-musical-journeys-1848111406)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
