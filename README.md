@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The sea around Cura&amp;ccedil;ao is so crystal clear that it looks like this boat is floating above the water](http://9gag.com/gag/aBnrVQO)
- - 🚯 [This fish without head](http://9gag.com/gag/aRrVMzB)
- - 🚯 [This butcher shop is leaving the leftovers outside so stray dog can have something during the day](http://9gag.com/gag/aVxXmxw)<!-- MEMES:END -->
+ - 🚖 [Somebody crashed the golf cart into the car, so they checked the cameras...](http://9gag.com/gag/aggN8v1)
+ - 🚯 [Not so much a character arc, more of a character 180.](http://9gag.com/gag/aQXnAqw)
+ - 🚯 [Why do so many people have so much faith in the media](http://9gag.com/gag/aPZG8gQ)<!-- MEMES:END -->
 
 --- 
 
