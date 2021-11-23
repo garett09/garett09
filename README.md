@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [He switched the cat out with a lookalike because he hated it](http://9gag.com/gag/a11YEmD)
- - 🚯 [Guess the country](http://9gag.com/gag/a11Y2LG)
- - 🚯 [What](http://9gag.com/gag/a0ZYEOd)<!-- MEMES:END -->
+ - 🚖 [What](http://9gag.com/gag/a0ZYEOd)
+ - 🚯 [The smallest dolphin species. Fish nets have killed almost all of them.](http://9gag.com/gag/aogjYw0)
+ - 🚯 [Most men get flower for the first time only on their funeral](http://9gag.com/gag/a0ZY1qq)<!-- MEMES:END -->
 
 --- 
 
