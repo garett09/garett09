@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Activision&#39;s Damage Control Reaches Sad New Low](https://kotaku.com/activisions-damage-control-reaches-sad-new-low-1848107710)
  - [Best Black Friday PC gaming deals in Australia: heaps of early discounts have landed](https://www.pcgamer.com/black-friday-2021-the-pc-gaming-deals-you-can-expect-in-australia)
- - [Rez Is Now 20, And There Was Nothing Quite Like It](https://kotaku.com/rez-is-now-20-and-there-was-nothing-quite-like-it-1848106449)
- - [Save $150 on this monster 8TB SSD, big enough to contain 32 copies of Call of Duty](https://www.pcgamer.com/save-dollar150-on-this-monster-8tb-ssd-big-enough-to-contain-32-copies-of-call-of-duty)<!-- GAME:END -->
+ - [Rez Is Now 20, And There Was Nothing Quite Like It](https://kotaku.com/rez-is-now-20-and-there-was-nothing-quite-like-it-1848106449)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
