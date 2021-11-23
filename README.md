@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Street Fighter’s Ryu and Chun-Li join Ubisoft’s take on Smash Bros., Brawlhalla](https://www.polygon.com/22796703/ubisoft-brawlhalla-street-fighter-ryu-chun-li-akuma)
- - [This Lightning-Fast Action Game Is Like A Cyberpunk Tomb Raider With Warframe&#39;s Swordplay](https://kotaku.com/this-lightning-fast-action-game-is-like-a-cyberpunk-tom-1848105708)
- - [Activision’s Kotick raises possibility of leaving as CEO, says WSJ](https://www.polygon.com/22797435/activision-ceo-bobby-kotick-stepping-down-sex-harassment-lawsuit)<!-- GAME:END -->
+ - [Save $150 on this monster 8TB SSD, big enough to contain 32 copies of Call of Duty](https://www.pcgamer.com/save-dollar150-on-this-monster-8tb-ssd-big-enough-to-contain-32-copies-of-call-of-duty)
+ - [Conquer your computer cable maelstrom with these cheap solutions](https://www.pcgamer.com/conquer-your-computer-cable-maelstrom-with-these-cheap-solutions)
+ - [Report: Nintendo Of America President Says Activision&#39;s Harassment Stories Are &#39;Distressing And Disturbing&#39;](https://kotaku.com/report-nintendo-finds-activisions-harassment-stories-d-1848106816)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
