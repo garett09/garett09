@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Announcing the 3rd Annual Impy Awards](https://blog.playstation.com/2021/11/23/announcing-the-3rd-annual-impy-awards/)
- - [Announcing the 3rd Annual Impy Awards](https://blog.playstation.com/2021/11/23/announcing-the-3rd-annual-impy-awards/)
- - [Designed for Xbox Winter Gaming Guide](https://news.xbox.com/en-us/2021/11/23/designed-for-xbox-winter-gaming-guide/)<!-- GAME:END -->
+ - [New Games with Gold for December 2021](https://news.xbox.com/en-us/2021/11/23/new-games-with-gold-for-december-2021/)
+ - [Nintendo’s new Zelda handheld feels like a hint at things to come](https://www.polygon.com/reviews/22797180/game-and-watch-zelda-review-links-awakening)
+ - [Black Friday 2021 gaming deals](https://www.polygon.com/22789962/black-friday-2021-gaming-deals-switch-ps5-xbox-series-x-pc-windows)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
