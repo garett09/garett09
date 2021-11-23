@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Shut your mouth](http://9gag.com/gag/a91PmNK)
- - 🚯 [Beards, the makeup for men.](http://9gag.com/gag/ajgnZ8p)
- - 🚯 [No pun intended](http://9gag.com/gag/a41L2Qw)<!-- MEMES:END -->
+ - 🚖 [No pun intended](http://9gag.com/gag/a41L2Qw)
+ - 🚯 [Fully automatic toilet cleaning robot](http://9gag.com/gag/a91P2wj)
+ - 🚯 [Me when I need more than a hint](http://9gag.com/gag/aegpmYj)<!-- MEMES:END -->
 
 --- 
 
