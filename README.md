@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [New HomePod mini colors now available in Australia and New Zealand](https://appleinsider.com/articles/21/11/23/new-homepod-mini-colors-now-available-in-australia-and-new-zealand?utm_medium=rss)
- - [Black Friday $10 and under deals: Lego Minecraft, smartbulbs, board games and more     - CNET](https://www.cnet.com/tech/black-friday-10-and-under-deals-legos-games-movies-puzzles-and-more-stocking-stuffers/#ftag=CAD590a51e)
- - [Apple Watch loses ground to Samsung in Q3](https://appleinsider.com/articles/21/11/23/apple-watch-loses-ground-to-samsung-in-q3?utm_medium=rss)<!-- TECH:END -->
+ - [Samsung to reportedly build $17B chip factory in Taylor, Texas](https://appleinsider.com/articles/21/11/23/samsung-to-reportedly-build-17b-chip-factory-in-taylor-texas?utm_medium=rss)
+ - [Two former Netflix employees, one who just resigned, at the center of protests over Chappelle&#39;s special have withdrawn their NLRB charge against the company &lpar;Wendy Lee/Los Angeles Times&rpar;](http://www.techmeme.com/211122/p36#a211122p36)
+ - [New HomePod mini colors now available in Australia and New Zealand](https://appleinsider.com/articles/21/11/23/new-homepod-mini-colors-now-available-in-australia-and-new-zealand?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
