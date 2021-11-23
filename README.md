@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This gaming laptop is just $680 for Black Friday, and it isn&#39;t awful](https://www.pcgamer.com/this-dollar680-black-friday-gaming-laptop-deal-is)
- - [Gigabyte releases a DRM fix tool for Alder Lake processors](https://www.pcgamer.com/gigabyte-releases-a-drm-fix-tool-for-alder-lake-processors)
- - [AMD may be readying budget RX 6400 and RX 6500 XT graphics cards](https://www.pcgamer.com/amd-may-be-readying-budget-rx-6400-and-rx-6500-xt-graphics-cards)<!-- GAME:END -->
+ - [Intel Meteor Lake test CPUs have been pictured](https://www.pcgamer.com/intel-meteor-lake-test-cpus-have-been-pictured)
+ - [Some GPUs still selling for twice retail price on average in Europe](https://www.pcgamer.com/some-gpus-still-selling-for-twice-retail-price-on-average-in-europe)
+ - [One way to get Tiger Lake on desktop: this wild motherboard](https://www.pcgamer.com/one-way-to-get-tiger-lake-on-desktop-this-wild-motherboard)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
