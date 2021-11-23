@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Every price gets higher but wages...](http://9gag.com/gag/angBnmz)
- - 🚯 [FEELS](http://9gag.com/gag/aLvBzrg)
- - 🚯 [Yes! Good times...](http://9gag.com/gag/aggNO4x)<!-- MEMES:END -->
+ - 🚖 [This fish without head](http://9gag.com/gag/aRrVMzB)
+ - 🚯 [Eurotruth](http://9gag.com/gag/aVxXKrO)
+ - 🚯 [How this horse forgot it&amp;#039;s a herbivore.](http://9gag.com/gag/aegp17q)<!-- MEMES:END -->
 
 --- 
 
