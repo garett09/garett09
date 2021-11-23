@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This butcher shop is leaving the leftovers outside so stray dog can have something during the day](http://9gag.com/gag/aVxXmxw)
- - 🚯 [Manager helps his employee get a raise](http://9gag.com/gag/a61Ln6L)
+ - 🚖 [Concetration](http://9gag.com/gag/aE8zWZx)
+ - 🚯 [Must be a complex design.](http://9gag.com/gag/abgbxYv)
  - 🚯 [What a cool dude](http://9gag.com/gag/a91PmbZ)<!-- MEMES:END -->
 
 --- 
