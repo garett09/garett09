@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [No pun intended](http://9gag.com/gag/a41L2Qw)
- - 🚯 [Fully automatic toilet cleaning robot](http://9gag.com/gag/a91P2wj)
- - 🚯 [Me when I need more than a hint](http://9gag.com/gag/aegpmYj)<!-- MEMES:END -->
+ - 🚖 [When you see your GF removes her bra for the first time..](http://9gag.com/gag/a61LpE9)
+ - 🚯 [Me when I need more than a hint](http://9gag.com/gag/aegpmYj)
+ - 🚯 [The chance to be kiledd by a parrot is low, but never zero](http://9gag.com/gag/awz7dZD)<!-- MEMES:END -->
 
 --- 
 
