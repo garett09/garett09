@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [GTA Trilogy&#39;s San Andreas has an unfinished VR mode](https://www.pcgamer.com/gta-trilogys-san-andreas-has-an-unfinished-vr-mode)
- - [Save $800 on this Nvidia RTX 3070-powered Razer Blade 15 Advanced](https://www.pcgamer.com/save-dollar750-on-this-nvidia-rtx-3070-powered-razer-blade-15-advanced)
- - [Spreading the love in Crusader Kings 3, part 2](https://www.pcgamer.com/spreading-the-love-in-crusader-kings-3-part-2)<!-- GAME:END -->
+ - [Black Friday gaming monitor deals 2021: the best and brightest screens at great prices](https://www.pcgamer.com/black-friday-gaming-monitor-deals-2021)
+ - [Black Friday gaming laptop deals UK: the best mobile bargains right now](https://www.pcgamer.com/black-friday-gaming-laptop-deals-uk)
+ - [Nintendo boss latest to condemn Activision Blizzard&#39;s behaviour around sexual harassment allegations](https://www.pcgamer.com/nintendo-boss-latest-to-condemn-activision-blizzards-behaviour-around-sexual-harassment-allegations)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
