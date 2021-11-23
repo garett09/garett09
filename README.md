@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at the decimalization of meme coins like dogecoin and shiba inu, as retail investors plow money into them because they look cheap &lpar;Michael P. Regan/Bloomberg&rpar;](http://www.techmeme.com/211123/p3#a211123p3)
  - [Payhawk, which offers an all-in-one financial management service for businesses in Europe, raises a $112M Series B led by Greenoaks at a $570M valuation &lpar;Romain Dillet/TechCrunch&rpar;](http://www.techmeme.com/211123/p2#a211123p2)
- - [2022 Nissan Altima goes dark with Midnight Edition Package     - Roadshow](https://www.cnet.com/roadshow/news/2022-nissan-altima-midnight-edition-package-pricing/#ftag=CAD590a51e)
- - [The most popular Android version right now isn’t even Android 11](https://www.androidauthority.com/most-popular-android-version-2021-3064094/)<!-- TECH:END -->
+ - [2022 Nissan Altima goes dark with Midnight Edition Package     - Roadshow](https://www.cnet.com/roadshow/news/2022-nissan-altima-midnight-edition-package-pricing/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
