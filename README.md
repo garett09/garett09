@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Holiday gift idea: Save up to 40% on unique art pieces that showcase Apple&#39;s industrial design](https://appleinsider.com/articles/21/11/23/holiday-gift-idea-save-up-to-40-on-unique-art-pieces-that-showcase-apples-industrial-design?utm_medium=rss)
- - [Apple&#39;s AirPods Pro just dropped to their lowest price ever     - CNET](https://www.cnet.com/tech/mobile/apples-airpods-pro-just-dropped-to-their-lowest-price-ever/#ftag=CAD590a51e)
- - [You can now queue to purchase a PS5 at Sony &lpar;update: sold out&rpar;](https://www.theverge.com/2021/11/22/22714928/sony-ps5-playstation-console-disc-digital-edition-restock-sale)<!-- TECH:END -->
+ - [New HomePod mini colors now available in Australia and New Zealand](https://appleinsider.com/articles/21/11/23/new-homepod-mini-colors-now-available-in-australia-and-new-zealand?utm_medium=rss)
+ - [Black Friday $10 and under deals: Lego Minecraft, smartbulbs, board games and more     - CNET](https://www.cnet.com/tech/black-friday-10-and-under-deals-legos-games-movies-puzzles-and-more-stocking-stuffers/#ftag=CAD590a51e)
+ - [Apple Watch loses ground to Samsung in Q3](https://appleinsider.com/articles/21/11/23/apple-watch-loses-ground-to-samsung-in-q3?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
