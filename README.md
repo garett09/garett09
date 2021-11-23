@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [You can now queue to purchase a PS5 at Sony](https://www.theverge.com/2021/11/22/22714928/sony-ps5-playstation-console-disc-digital-edition-restock-sale)
- - [Tile acquired by location tracking platform Life360 in $205M deal](https://appleinsider.com/articles/21/11/23/tile-acquired-by-location-tracking-platform-life360-in-205m-deal?utm_medium=rss)
- - [The best early Black Friday deals at Walmart](https://www.theverge.com/22784126/walmart-black-friday-2021-tech-cyber-monday-deals)<!-- TECH:END -->
+ - [Holiday gift idea: Save up to 40% on unique art pieces that showcase Apple&#39;s industrial design](https://appleinsider.com/articles/21/11/23/holiday-gift-idea-save-up-to-40-on-unique-art-pieces-that-showcase-apples-industrial-design?utm_medium=rss)
+ - [Apple&#39;s AirPods Pro just dropped to their lowest price ever     - CNET](https://www.cnet.com/tech/mobile/apples-airpods-pro-just-dropped-to-their-lowest-price-ever/#ftag=CAD590a51e)
+ - [You can now queue to purchase a PS5 at Sony &lpar;update: sold out&rpar;](https://www.theverge.com/2021/11/22/22714928/sony-ps5-playstation-console-disc-digital-edition-restock-sale)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
