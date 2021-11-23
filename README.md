@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [FCC approves $6 billion Verizon-Tracfone acquisition](https://www.theverge.com/2021/11/22/22797281/fcc-verizon-tracfone-wireless-5g-deal-approval-lifeline)
- - [Apple&#39;s Self Repair Service parts store to be run by third party](https://appleinsider.com/articles/21/11/22/apples-self-repair-service-parts-store-to-be-run-by-third-party?utm_medium=rss)
- - [The best early Black Friday deals you can get right now](https://www.theverge.com/22759214/black-friday-early-deals-best-headphones-laptops-gaming-tvs-tech-sale)<!-- TECH:END -->
+ - [You can now queue to purchase a PS5 at Sony](https://www.theverge.com/2021/11/22/22714928/sony-ps5-playstation-console-disc-digital-edition-restock-sale)
+ - [Tile acquired by location tracking platform Life360 in $205M deal](https://appleinsider.com/articles/21/11/23/tile-acquired-by-location-tracking-platform-life360-in-205m-deal?utm_medium=rss)
+ - [The best early Black Friday deals at Walmart](https://www.theverge.com/22784126/walmart-black-friday-2021-tech-cyber-monday-deals)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
