@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [You told us: Your current smartphone supports storage expansion](https://www.androidauthority.com/current-phone-storage-expansion-poll-results-3064119/)
- - [Wooting Two HE review: an analog keyboard in a digital world](https://www.theverge.com/22796553/wooting-two-he-review-analog-mechanical-keyboard-lekker-switches-hall-effect)
- - [A look at the decimalization of meme coins like dogecoin and shiba inu, as retail investors plow money into them because they look cheap &lpar;Michael P. Regan/Bloomberg&rpar;](http://www.techmeme.com/211123/p3#a211123p3)<!-- TECH:END -->
+ - [Samsung set to announce new $17 billion advanced chip plant in Texas: report](https://www.theverge.com/2021/11/23/22245325/samsung-building-chipmaking-fab-texas-taylor)
+ - [How to bypass Gmail’s attachment size limit and send large files](https://www.androidauthority.com/bypass-gmail-attachment-size-limit-3063696/)
+ - [Microsoft’s new emoji are now available in Windows 11](https://www.theverge.com/2021/11/23/22798204/microsoft-new-emoji-windows-11-now-available)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
