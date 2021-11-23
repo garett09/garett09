@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tidal taps DistroKid and others to offer direct artist payments, where up to 10% of a user&#39;s HiFi Plus subscription goes to their most-listened-to artists &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/211123/p24#a211123p24)
- - [Black Friday: Expand your HomeKit smart home with these deals](https://appleinsider.com/articles/21/11/23/black-friday-expand-your-homekit-smart-home-with-these-deals?utm_medium=rss)
- - [Exclusive: Automation expert and Apple alum Matthew Cassinelli talks macOS Monterey Shortcuts](https://appleinsider.com/articles/21/11/23/exclusive-macos-monterey-shortcuts-interview-with-matthew-cassinelli-on-the-appleinsider-podcast?utm_medium=rss)<!-- TECH:END -->
+ - [Internal email chain shows over 600 Google employees have signed a document opposing Google&#39;s vaccine mandate, which Google says it firmly stands behind &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/211123/p25#a211123p25)
+ - [Apple sues NSO Group for attacking iPhones with Pegasus spyware](https://www.theverge.com/2021/11/23/22798917/apple-nso-group-spyware-pegasus-cybersecurity-research)
+ - [HyperX Black Friday 2021: The best deals on gaming gear](https://www.androidauthority.com/hyperx-black-friday-2021-3064801/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
