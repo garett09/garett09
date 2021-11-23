@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung set to announce new $17 billion advanced chip plant in Texas: report](https://www.theverge.com/2021/11/23/22245325/samsung-building-chipmaking-fab-texas-taylor)
- - [How to bypass Gmail’s attachment size limit and send large files](https://www.androidauthority.com/bypass-gmail-attachment-size-limit-3063696/)
- - [Microsoft’s new emoji are now available in Windows 11](https://www.theverge.com/2021/11/23/22798204/microsoft-new-emoji-windows-11-now-available)<!-- TECH:END -->
+ - [Kuaishou beats as Q3 revenue rose 33.4% YoY to $3.2B, above $3.15B estimates, with a $1.1B net loss, and Chinese MAUs rose 19.5% YoY to 573M &lpar;Zheping Huang/Bloomberg&rpar;](http://www.techmeme.com/211123/p7#a211123p7)
+ - [Bangalore-based NoBroker, which offers a marketplace for apartment renters, raises a $210M Series E at a $1B valuation led by Tiger Global and others &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/211123/p6#a211123p6)
+ - [Xiaomi reports Q3 revenue rose 8% YoY to $12.2B as net income dropped 84% YoY to $123.5M, driven by component shortages and growing competition in China &lpar;Bloomberg&rpar;](http://www.techmeme.com/211123/p5#a211123p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
