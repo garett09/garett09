@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Polygon’s 2021 mobile gaming gift guide](https://www.polygon.com/22783050/2021-mobile-gamer-gift-guide-ios-android)
- - [Best Black Friday Best Buy deals: the bargains worth looking at for PC gamers](https://www.pcgamer.com/the-top-best-buy-black-friday-deals-the-bargains-worth-looking-at-for-pc-gamers)
- - [Best Black Friday PC gaming deals: discounts on everything from full PCs to gaming chairs](https://www.pcgamer.com/black-friday-pc-gaming-deals-2021)<!-- GAME:END -->
+ - [Announcing the 3rd Annual Impy Awards](https://blog.playstation.com/2021/11/23/announcing-the-3rd-annual-impy-awards/)
+ - [Announcing the 3rd Annual Impy Awards](https://blog.playstation.com/2021/11/23/announcing-the-3rd-annual-impy-awards/)
+ - [Designed for Xbox Winter Gaming Guide](https://news.xbox.com/en-us/2021/11/23/designed-for-xbox-winter-gaming-guide/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
