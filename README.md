@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kuaishou beats as Q3 revenue rose 33.4% YoY to $3.2B, above $3.15B estimates, with a $1.1B net loss, and Chinese MAUs rose 19.5% YoY to 573M &lpar;Zheping Huang/Bloomberg&rpar;](http://www.techmeme.com/211123/p7#a211123p7)
- - [Bangalore-based NoBroker, which offers a marketplace for apartment renters, raises a $210M Series E at a $1B valuation led by Tiger Global and others &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/211123/p6#a211123p6)
- - [Xiaomi reports Q3 revenue rose 8% YoY to $12.2B as net income dropped 84% YoY to $123.5M, driven by component shortages and growing competition in China &lpar;Bloomberg&rpar;](http://www.techmeme.com/211123/p5#a211123p5)<!-- TECH:END -->
+ - [Apple&#39;s Lisa Jackson wants to protect &#39;most vulnerable communities&#39; from climate change](https://appleinsider.com/articles/21/11/23/apples-lisa-jackson-wants-to-protect-most-vulnerable-communities-from-climate-change?utm_medium=rss)
+ - [Apple struggling to make enough iPhones, iPads for Christmas in Asia](https://appleinsider.com/articles/21/11/23/apple-struggling-to-make-enough-iphones-ipads-for-christmas-in-asia?utm_medium=rss)
+ - [The best Samsung storage devices are on offer for Black Friday](https://www.androidauthority.com/samsung-storage-devices-black-friday-3064082/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
