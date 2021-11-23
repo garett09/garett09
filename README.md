@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This fish without head](http://9gag.com/gag/aRrVMzB)
- - 🚯 [Eurotruth](http://9gag.com/gag/aVxXKrO)
- - 🚯 [How this horse forgot it&amp;#039;s a herbivore.](http://9gag.com/gag/aegp17q)<!-- MEMES:END -->
+ - 🚖 [How this horse forgot it&amp;#039;s a herbivore.](http://9gag.com/gag/aegp17q)
+ - 🚯 [This fish without head](http://9gag.com/gag/aRrVMzB)
+ - 🚯 [The sea around Cura&amp;ccedil;ao is so crystal clear that it looks like this boat is floating above the water](http://9gag.com/gag/aBnrVQO)<!-- MEMES:END -->
 
 --- 
 
