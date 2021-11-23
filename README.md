@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: Japan is allocating $5.2B in fiscal 2021 to support semiconductor manufacturers, including $3.5B for TSMC &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/211123/p16#a211123p16)
- - [Google Nest Cam with Floodlight review: Great but overpriced, as usual](https://www.androidauthority.com/google-nest-cam-with-floodlight-review-3060888/)
- - [The best early Black Friday deals on 4K TVs](https://www.theverge.com/22796792/black-friday-tv-deals-2021-sony-lg-vizio-tcl-led-oled-qled-cyber-monday)<!-- TECH:END -->
+ - [Porsche acquires a majority stake in high-end electric bike maker Greyp](https://www.theverge.com/2021/11/23/22798553/porsche-controlling-stake-greyp-ebike-rimac)
+ - [Get 12 key Mac apps for $75 in Unclutter&#39;s Black Friday app bundle](https://appleinsider.com/articles/21/11/23/get-12-key-mac-apps-for-75-in-unclutters-black-friday-app-bundle?utm_medium=rss)
+ - [If Fairphone can update its 6-year-old phone to Android 10, so can other OEMs](https://www.androidauthority.com/fairphone-2-android-10-3064543/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
