@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple plans to notify targets of state-sponsored spyware attacks like NSO&#39;s ForcedEntry and commits $10M to cybersurveillance researchers and advocates &lpar;Apple&rpar;](http://www.techmeme.com/211123/p23#a211123p23)
- - [The best early Black Friday laptop deals 2021](https://www.theverge.com/22790329/black-friday-2021-laptop-deals-gaming-chromebook-cyber-monday)
- - [Apple sues NSO Group for attacking iPhones with Pegasus spyware](https://www.theverge.com/2021/11/23/22798917/apple-nso-group-spyware-pegasus-cybersecurity-research)<!-- TECH:END -->
+ - [Tidal taps DistroKid and others to offer direct artist payments, where up to 10% of a user&#39;s HiFi Plus subscription goes to their most-listened-to artists &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/211123/p24#a211123p24)
+ - [Black Friday: Expand your HomeKit smart home with these deals](https://appleinsider.com/articles/21/11/23/black-friday-expand-your-homekit-smart-home-with-these-deals?utm_medium=rss)
+ - [Exclusive: Automation expert and Apple alum Matthew Cassinelli talks macOS Monterey Shortcuts](https://appleinsider.com/articles/21/11/23/exclusive-macos-monterey-shortcuts-interview-with-matthew-cassinelli-on-the-appleinsider-podcast?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
