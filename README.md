@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Sea of Thieves’ tiniest ship is getting a mighty upgrade for maximum chaos](https://www.polygon.com/22798661/sea-of-thieves-rowboat-cannon-twitter-teaser)
- - [PlayStation Gear’s winter collection launches just in time for the holidays](https://blog.playstation.com/2021/11/23/playstation-gears-winter-collection-launches-just-in-time-for-the-holidays/)
- - [PlayStation Gear’s winter collection launches just in time for the holidays](https://blog.playstation.com/2021/11/23/playstation-gears-winter-collection-launches-just-in-time-for-the-holidays/)<!-- GAME:END -->
+ - [Epic buys Fuser studio Harmonix to bring music to Fortnite](https://www.pcgamer.com/epic-buys-fuser-studio-harmonix-to-bring-music-to-fortnite)
+ - [Will Smith reboots Fresh Prince of Bel-Air with a grittier tone](https://www.polygon.com/22798800/bel-air-reboot-teaser-trailer-peacock-will-smith)
+ - [The best builds for Eula in Genshin Impact](https://www.pcgamer.com/best-genshin-impact-eula-build-banner)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
