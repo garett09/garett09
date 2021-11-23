@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Audi RS E-tron GT review: electric extravagance](https://www.theverge.com/2021/11/23/22798695/audi-rs-etron-gt-review-ev-specs-price)
- - [Best deals Nov. 23: Up to $80 off Samsung portable SSDs, $160 Joule Sous Vide, Mophie powerbank bundles](https://appleinsider.com/articles/21/11/23/best-deals-nov-23-up-to-80-off-samsung-portable-ssds-160-joule-sous-vide-mophie-powerbank-bundles?utm_medium=rss)
- - [Epic scoops up Rock Band creator Harmonix](https://www.theverge.com/2021/11/23/22798851/epic-acquisition-harmonix-rock-band-guitar-hero)<!-- TECH:END -->
+ - [Apple plans to notify targets of state-sponsored spyware attacks like NSO&#39;s ForcedEntry and commits $10M to cybersurveillance researchers and advocates &lpar;Apple&rpar;](http://www.techmeme.com/211123/p23#a211123p23)
+ - [The best early Black Friday laptop deals 2021](https://www.theverge.com/22790329/black-friday-2021-laptop-deals-gaming-chromebook-cyber-monday)
+ - [Apple sues NSO Group for attacking iPhones with Pegasus spyware](https://www.theverge.com/2021/11/23/22798917/apple-nso-group-spyware-pegasus-cybersecurity-research)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
