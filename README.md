@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [New Games with Gold for December 2021](https://news.xbox.com/en-us/2021/11/23/new-games-with-gold-for-december-2021/)
- - [Nintendo’s new Zelda handheld feels like a hint at things to come](https://www.polygon.com/reviews/22797180/game-and-watch-zelda-review-links-awakening)
- - [Black Friday 2021 gaming deals](https://www.polygon.com/22789962/black-friday-2021-gaming-deals-switch-ps5-xbox-series-x-pc-windows)<!-- GAME:END -->
+ - [Sea of Thieves’ tiniest ship is getting a mighty upgrade for maximum chaos](https://www.polygon.com/22798661/sea-of-thieves-rowboat-cannon-twitter-teaser)
+ - [PlayStation Gear’s winter collection launches just in time for the holidays](https://blog.playstation.com/2021/11/23/playstation-gears-winter-collection-launches-just-in-time-for-the-holidays/)
+ - [PlayStation Gear’s winter collection launches just in time for the holidays](https://blog.playstation.com/2021/11/23/playstation-gears-winter-collection-launches-just-in-time-for-the-holidays/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
