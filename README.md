@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Black Friday 2021 smart home tech deals: speakers, cameras, robots, and more](https://www.theverge.com/22789311/black-friday-2021-smart-home-tech-speakers-cameras-cyber-monday)
- - [Pixelmator Pro adds automatic background removal, goes on sale](https://appleinsider.com/articles/21/11/23/pixelmator-pro-adds-automatic-background-removal-goes-on-sale?utm_medium=rss)
- - [Poll: How old is your current smartphone?](https://www.androidauthority.com/poll-how-old-is-your-current-smartphone-3064367/)<!-- TECH:END -->
+ - [What not to do when your podcast app gets acquired](https://www.theverge.com/2021/11/23/22797808/podcast-app-acquire-radiopublic-acast-rss-feed-hot-pod)
+ - [SPOILER ALERT: Spoiler Alerts Are Making Us All Stupid](https://www.wired.com/story/spoiler-alerts-are-making-us-all-stupid)
+ - [Fungi Could Be the Downfall of Humanity](https://www.wired.com/story/fungi-climate-change-medicine-health)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
