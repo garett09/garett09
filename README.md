@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Harvey Weinstein, Jeffrey Epstein, and Ghislaine Maxwell at Prince Andrew&amp;rsquo;s royal party](http://9gag.com/gag/arnRB4p)
- - 🚯 [Silence](http://9gag.com/gag/angBDAz)
- - 🚯 [If Beethoven was born in Arabia](http://9gag.com/gag/azeVZxK)<!-- MEMES:END -->
+ - 🚖 [What did i see](http://9gag.com/gag/aDDmOWZ)
+ - 🚯 [If Beethoven was born in Arabia](http://9gag.com/gag/azeVZxK)
+ - 🚯 [What](http://9gag.com/gag/a0ZYEOd)<!-- MEMES:END -->
 
 --- 
 
