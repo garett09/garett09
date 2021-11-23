@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Internal email chain shows over 600 Google employees have signed a document opposing Google&#39;s vaccine mandate, which Google says it firmly stands behind &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/211123/p25#a211123p25)
- - [Apple sues NSO Group for attacking iPhones with Pegasus spyware](https://www.theverge.com/2021/11/23/22798917/apple-nso-group-spyware-pegasus-cybersecurity-research)
- - [HyperX Black Friday 2021: The best deals on gaming gear](https://www.androidauthority.com/hyperx-black-friday-2021-3064801/)<!-- TECH:END -->
+ - [Apple halts online sales in Turkey as economic crisis worsens](https://appleinsider.com/articles/21/11/23/apple-halts-online-sales-in-turkey-as-economic-crisis-worsens?utm_medium=rss)
+ - [HP beats in Q4 with revenue of $16.7B, up 9.3% YoY, Personal Systems revenue of $11.8B, up 13% YoY, and Commercial PCs revenue up 25% YoY &lpar;Larry Dignan/ZDNet&rpar;](http://www.techmeme.com/211123/p28#a211123p28)
+ - [The best early Black Friday smartwatch deals](https://www.androidauthority.com/best-smartwatch-deals-1107833/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
