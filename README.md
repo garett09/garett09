@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Porsche acquires a majority stake in high-end electric bike maker Greyp](https://www.theverge.com/2021/11/23/22798553/porsche-controlling-stake-greyp-ebike-rimac)
- - [Get 12 key Mac apps for $75 in Unclutter&#39;s Black Friday app bundle](https://appleinsider.com/articles/21/11/23/get-12-key-mac-apps-for-75-in-unclutters-black-friday-app-bundle?utm_medium=rss)
- - [If Fairphone can update its 6-year-old phone to Android 10, so can other OEMs](https://www.androidauthority.com/fairphone-2-android-10-3064543/)<!-- TECH:END -->
+ - [The AirPods Pro with MagSafe hit an all-time low of $159 on an early Black Friday deal](https://www.theverge.com/good-deals/2021/11/23/22798342/apple-airpods-pro-backbone-one-iphone-controller-razer-kishi-black-friday-deal-sale)
+ - [NASA wants to defend Earth from asteroids — so it’s slamming a spacecraft into one](https://www.theverge.com/2021/11/23/22797714/nasa-dart-asteroid-planetary-defense-redirect-crash-course-launch)
+ - [Black Friday: Expand your HomeKit smart home with these deals](https://appleinsider.com/articles/21/11/23/black-friday-expand-your-homekit-smart-home-with-these-deals?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
