@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The AirPods Pro with MagSafe hit an all-time low of $159 on an early Black Friday deal](https://www.theverge.com/good-deals/2021/11/23/22798342/apple-airpods-pro-backbone-one-iphone-controller-razer-kishi-black-friday-deal-sale)
- - [NASA wants to defend Earth from asteroids — so it’s slamming a spacecraft into one](https://www.theverge.com/2021/11/23/22797714/nasa-dart-asteroid-planetary-defense-redirect-crash-course-launch)
- - [Black Friday: Expand your HomeKit smart home with these deals](https://appleinsider.com/articles/21/11/23/black-friday-expand-your-homekit-smart-home-with-these-deals?utm_medium=rss)<!-- TECH:END -->
+ - [Audi RS E-tron GT review: electric extravagance](https://www.theverge.com/2021/11/23/22798695/audi-rs-etron-gt-review-ev-specs-price)
+ - [Best deals Nov. 23: Up to $80 off Samsung portable SSDs, $160 Joule Sous Vide, Mophie powerbank bundles](https://appleinsider.com/articles/21/11/23/best-deals-nov-23-up-to-80-off-samsung-portable-ssds-160-joule-sous-vide-mophie-powerbank-bundles?utm_medium=rss)
+ - [Epic scoops up Rock Band creator Harmonix](https://www.theverge.com/2021/11/23/22798851/epic-acquisition-harmonix-rock-band-guitar-hero)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
