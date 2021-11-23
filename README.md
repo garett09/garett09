@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [She played one hell of an amazing character.](http://9gag.com/gag/a51KwXL)
- - 🚯 [Love in](http://9gag.com/gag/a61LnVL)
- - 🚯 [How corrupted &amp;amp; stupid your country is? Me:..](http://9gag.com/gag/aqG26VQ)<!-- MEMES:END -->
+ - 🚖 [What a cool dude](http://9gag.com/gag/a91PmbZ)
+ - 🚯 [When you correcting your bird](http://9gag.com/gag/aQXnmMw)
+ - 🚯 [This butcher shop is leaving the leftovers outside so stray dog can have something during the day](http://9gag.com/gag/aVxXmxw)<!-- MEMES:END -->
 
 --- 
 
