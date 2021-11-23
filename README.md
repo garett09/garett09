@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Part 2 of Netflix’s He-Man sequel gets real philosophical, and… kinda sexy?](https://www.polygon.com/22797608/masters-of-the-universe-revelation-part-2-review-he-man-netflix)
- - [Animal Crossing players make stunning balconies using partition illusions](https://www.polygon.com/22798711/animal-crossing-new-horizons-update-balcony-accent-wall-partition-happy-home-paradise-dlc)
- - [Epic Buys Rock Band Creators To Make ‘Musical Journeys’ For Fortnite](https://kotaku.com/epic-buys-rock-band-creators-to-make-musical-journeys-1848111406)<!-- GAME:END -->
+ - [Activision Blizzard’s board responds to sex harassment crisis with new committee](https://www.polygon.com/22798997/activision-blizzard-workplace-responsibility-committee)
+ - [Soul-Packed Action Game Unsouled, Now Available via Xbox Game Preview](https://news.xbox.com/en-us/2021/11/23/soul-packed-action-game-unsouled-now-available-via-xbox-game-preview/)
+ - [Here&#39;s one of the cheapest ways to get a RTX 3070 on Black Friday: with a PC built around it](https://www.pcgamer.com/heres-one-of-the-cheapest-ways-to-get-a-rtx-3070-on-black-friday-with-a-pc-built-around-it)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
