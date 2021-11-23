@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When you correcting your bird](http://9gag.com/gag/aQXnmMw)
- - 🚯 [Not a good day to rob a dental clinic when the patient was a cop.](http://9gag.com/gag/a21qDzw)
- - 🚯 [*Laughs in 30 year old*](http://9gag.com/gag/aE8zW4p)<!-- MEMES:END -->
+ - 🚖 [Beards, the makeup for men.](http://9gag.com/gag/ajgnZ8p)
+ - 🚯 [No pun intended](http://9gag.com/gag/a41L2Qw)
+ - 🚯 [What a cool dude](http://9gag.com/gag/a91PmbZ)<!-- MEMES:END -->
 
 --- 
 
