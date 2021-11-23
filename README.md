@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the decimalization of meme coins like dogecoin and shiba inu, as retail investors plow money into them because they look cheap &lpar;Michael P. Regan/Bloomberg&rpar;](http://www.techmeme.com/211123/p3#a211123p3)
- - [Payhawk, which offers an all-in-one financial management service for businesses in Europe, raises a $112M Series B led by Greenoaks at a $570M valuation &lpar;Romain Dillet/TechCrunch&rpar;](http://www.techmeme.com/211123/p2#a211123p2)
- - [2022 Nissan Altima goes dark with Midnight Edition Package     - Roadshow](https://www.cnet.com/roadshow/news/2022-nissan-altima-midnight-edition-package-pricing/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [You told us: Your current smartphone supports storage expansion](https://www.androidauthority.com/current-phone-storage-expansion-poll-results-3064119/)
+ - [Wooting Two HE review: an analog keyboard in a digital world](https://www.theverge.com/22796553/wooting-two-he-review-analog-mechanical-keyboard-lekker-switches-hall-effect)
+ - [A look at the decimalization of meme coins like dogecoin and shiba inu, as retail investors plow money into them because they look cheap &lpar;Michael P. Regan/Bloomberg&rpar;](http://www.techmeme.com/211123/p3#a211123p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
