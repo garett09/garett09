@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Lawn Mowing Simulator’s new expansion gets medieval on your grass](https://www.polygon.com/22799263/lawn-mowing-simulator-dlc-ancient-britain)
- - [Turn On and Tune In to Let’s Sing 2022](https://news.xbox.com/en-us/2021/11/23/turn-on-and-tune-in-to-lets-sing-2022/)
- - [Epic Games Store&#39;s Black Friday sale is live now through Cyber Monday](https://www.pcgamer.com/epic-games-store-black-friday-sale-2021/)<!-- GAME:END -->
+ - [This is how Disney parks’ Fastpass spun completely out of control](https://www.polygon.com/22798637/disney-fastpass-2021-disneyland-disney-world-defunctland)
+ - [Xbox Celebrates 20th Anniversary With A Museum That Might Drag You](https://kotaku.com/xbox-celebrates-20th-anniversary-with-a-museum-that-mig-1848113162)
+ - [The immersive gameplay of psychological thriller Martha Is Dead](https://blog.playstation.com/2021/11/23/the-immersive-gameplay-of-psychological-thriller-martha-is-dead/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
