@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Must be a complex design.](http://9gag.com/gag/abgbxYv)
- - 🚯 [Title here](http://9gag.com/gag/amg8me2)
- - 🚯 [What a cool dude](http://9gag.com/gag/a91PmbZ)<!-- MEMES:END -->
+ - 🚖 [*Laughs in 30 year old*](http://9gag.com/gag/aE8zW4p)
+ - 🚯 [Must be a complex design.](http://9gag.com/gag/abgbxYv)
+ - 🚯 [When you correcting your bird](http://9gag.com/gag/aQXnmMw)<!-- MEMES:END -->
 
 --- 
 
