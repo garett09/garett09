@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When you see your GF removes her bra for the first time..](http://9gag.com/gag/a61LpE9)
- - 🚯 [Me when I need more than a hint](http://9gag.com/gag/aegpmYj)
+ - 🚖 [Harvey Weinstein, Jeffrey Epstein, and Ghislaine Maxwell at Prince Andrew&amp;rsquo;s royal party](http://9gag.com/gag/arnRB4p)
+ - 🚯 [WTF happened to me](http://9gag.com/gag/aGzRG36)
  - 🚯 [The chance to be kiledd by a parrot is low, but never zero](http://9gag.com/gag/awz7dZD)<!-- MEMES:END -->
 
 --- 
