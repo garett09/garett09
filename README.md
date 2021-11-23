@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [What not to do when your podcast app gets acquired](https://www.theverge.com/2021/11/23/22797808/podcast-app-acquire-radiopublic-acast-rss-feed-hot-pod)
- - [SPOILER ALERT: Spoiler Alerts Are Making Us All Stupid](https://www.wired.com/story/spoiler-alerts-are-making-us-all-stupid)
- - [Fungi Could Be the Downfall of Humanity](https://www.wired.com/story/fungi-climate-change-medicine-health)<!-- TECH:END -->
+ - [Source: Japan is allocating $5.2B in fiscal 2021 to support semiconductor manufacturers, including $3.5B for TSMC &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/211123/p16#a211123p16)
+ - [Google Nest Cam with Floodlight review: Great but overpriced, as usual](https://www.androidauthority.com/google-nest-cam-with-floodlight-review-3060888/)
+ - [The best early Black Friday deals on 4K TVs](https://www.theverge.com/22796792/black-friday-tv-deals-2021-sony-lg-vizio-tcl-led-oled-qled-cyber-monday)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
