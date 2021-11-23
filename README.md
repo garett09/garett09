@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [*Laughs in 30 year old*](http://9gag.com/gag/aE8zW4p)
- - 🚯 [Must be a complex design.](http://9gag.com/gag/abgbxYv)
- - 🚯 [When you correcting your bird](http://9gag.com/gag/aQXnmMw)<!-- MEMES:END -->
+ - 🚖 [When you correcting your bird](http://9gag.com/gag/aQXnmMw)
+ - 🚯 [Not a good day to rob a dental clinic when the patient was a cop.](http://9gag.com/gag/a21qDzw)
+ - 🚯 [*Laughs in 30 year old*](http://9gag.com/gag/aE8zW4p)<!-- MEMES:END -->
 
 --- 
 
