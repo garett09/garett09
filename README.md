@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Somebody crashed the golf cart into the car, so they checked the cameras...](http://9gag.com/gag/aggN8v1)
- - 🚯 [Not so much a character arc, more of a character 180.](http://9gag.com/gag/aQXnAqw)
- - 🚯 [Why do so many people have so much faith in the media](http://9gag.com/gag/aPZG8gQ)<!-- MEMES:END -->
+ - 🚖 [Just f**kin do not](http://9gag.com/gag/aRrVZOG)
+ - 🚯 [Videogame Giantess](http://9gag.com/gag/aKmBWGj)
+ - 🚯 [Eurotruth](http://9gag.com/gag/aVxXKrO)<!-- MEMES:END -->
 
 --- 
 
