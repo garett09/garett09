@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What a cool dude](http://9gag.com/gag/a91PmbZ)
- - 🚯 [When you correcting your bird](http://9gag.com/gag/aQXnmMw)
- - 🚯 [This butcher shop is leaving the leftovers outside so stray dog can have something during the day](http://9gag.com/gag/aVxXmxw)<!-- MEMES:END -->
+ - 🚖 [This butcher shop is leaving the leftovers outside so stray dog can have something during the day](http://9gag.com/gag/aVxXmxw)
+ - 🚯 [Manager helps his employee get a raise](http://9gag.com/gag/a61Ln6L)
+ - 🚯 [What a cool dude](http://9gag.com/gag/a91PmbZ)<!-- MEMES:END -->
 
 --- 
 
