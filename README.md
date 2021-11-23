@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Activision&#39;s Damage Control Reaches Sad New Low](https://kotaku.com/activisions-damage-control-reaches-sad-new-low-1848107710)
- - [Best Black Friday PC gaming deals in Australia: heaps of early discounts have landed](https://www.pcgamer.com/black-friday-2021-the-pc-gaming-deals-you-can-expect-in-australia)
- - [Rez Is Now 20, And There Was Nothing Quite Like It](https://kotaku.com/rez-is-now-20-and-there-was-nothing-quite-like-it-1848106449)<!-- GAME:END -->
+ - [This gaming laptop is just $680 for Black Friday, and it isn&#39;t awful](https://www.pcgamer.com/this-dollar680-black-friday-gaming-laptop-deal-is)
+ - [Gigabyte releases a DRM fix tool for Alder Lake processors](https://www.pcgamer.com/gigabyte-releases-a-drm-fix-tool-for-alder-lake-processors)
+ - [AMD may be readying budget RX 6400 and RX 6500 XT graphics cards](https://www.pcgamer.com/amd-may-be-readying-budget-rx-6400-and-rx-6500-xt-graphics-cards)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
