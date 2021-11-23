@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Concetration](http://9gag.com/gag/aE8zWZx)
- - 🚯 [Must be a complex design.](http://9gag.com/gag/abgbxYv)
+ - 🚖 [Must be a complex design.](http://9gag.com/gag/abgbxYv)
+ - 🚯 [Title here](http://9gag.com/gag/amg8me2)
  - 🚯 [What a cool dude](http://9gag.com/gag/a91PmbZ)<!-- MEMES:END -->
 
 --- 
