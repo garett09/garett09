@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple halts online sales in Turkey as economic crisis worsens](https://appleinsider.com/articles/21/11/23/apple-halts-online-sales-in-turkey-as-economic-crisis-worsens?utm_medium=rss)
- - [HP beats in Q4 with revenue of $16.7B, up 9.3% YoY, Personal Systems revenue of $11.8B, up 13% YoY, and Commercial PCs revenue up 25% YoY &lpar;Larry Dignan/ZDNet&rpar;](http://www.techmeme.com/211123/p28#a211123p28)
- - [The best early Black Friday smartwatch deals](https://www.androidauthority.com/best-smartwatch-deals-1107833/)<!-- TECH:END -->
+ - [VMware beats in Q3 with revenue of $3.19B, up 11% YoY, vs estimates of $3.12B, and Subscription and SaaS revenue of $820M, up 21% YoY &lpar;Stephanie Condon/ZDNet&rpar;](http://www.techmeme.com/211123/p31#a211123p31)
+ - [The best Black Friday Samsung Galaxy Tab deals](https://www.androidauthority.com/best-cheap-samsung-galaxy-tab-deals-1119065/)
+ - [Apple’s digital driver’s license has been delayed to next year](https://www.theverge.com/2021/11/23/22799338/apple-digital-driver-license-delay-2022-ios-15)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
