@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [[Thread] A former Facebook employee says Meta announced an &quot;absurdly accelerated timeline&quot; for e2ee messaging to preempt antitrust action and generate good PR &lpar;David Thiel/@elegant_wallaby&rpar;](http://www.techmeme.com/211122/p38#a211122p38)
- - [Sources: Qualcomm has an exclusivity deal with Microsoft for Windows on ARM that is set to expire soon, opening up chip vendor competition &lpar;Rich Woods/XDA Developers&rpar;](http://www.techmeme.com/211122/p37#a211122p37)
- - [iMessage reaction support rolling out in Google Messages](https://appleinsider.com/articles/21/11/22/imessage-reaction-support-rolling-out-in-google-messages?utm_medium=rss)<!-- TECH:END -->
+ - [Best phones under $500 2021: iPhone 11, Pixel 5A 5G, Samsung Galaxy and more     - CNET](https://www.cnet.com/tech/mobile/best-phones-under-500-2021/#ftag=CAD590a51e)
+ - [Best clay bar for 2021     - Roadshow](https://www.cnet.com/roadshow/news/best-clay-bar/#ftag=CAD590a51e)
+ - [13 Black Friday deals you can&#39;t afford to miss     - CNET](https://www.cnet.com/tech/mobile/13-black-friday-deals-we-cant-wait-to-buy/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
