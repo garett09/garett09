@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Former Nintendo Exec Reggie Fils-Aimé Hosts Xbox Event For Microsoft](https://kotaku.com/former-nintendo-exec-reggie-fils-aime-hosts-xbox-event-1848108395)
- - [XxxHolic Manga Getting A Live-Action Film In Japan](https://kotaku.com/xxxholic-manga-getting-a-live-action-film-in-japan-1848108274)
- - [Intel Meteor Lake test CPUs have been pictured](https://www.pcgamer.com/intel-meteor-lake-test-cpus-have-been-pictured)<!-- GAME:END -->
+ - [GTA Trilogy&#39;s San Andreas has an unfinished VR mode](https://www.pcgamer.com/gta-trilogys-san-andreas-has-an-unfinished-vr-mode)
+ - [Save $800 on this Nvidia RTX 3070-powered Razer Blade 15 Advanced](https://www.pcgamer.com/save-dollar750-on-this-nvidia-rtx-3070-powered-razer-blade-15-advanced)
+ - [Spreading the love in Crusader Kings 3, part 2](https://www.pcgamer.com/spreading-the-love-in-crusader-kings-3-part-2)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
