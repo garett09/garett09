@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Beards, the makeup for men.](http://9gag.com/gag/ajgnZ8p)
- - 🚯 [No pun intended](http://9gag.com/gag/a41L2Qw)
- - 🚯 [What a cool dude](http://9gag.com/gag/a91PmbZ)<!-- MEMES:END -->
+ - 🚖 [Shut your mouth](http://9gag.com/gag/a91PmNK)
+ - 🚯 [Beards, the makeup for men.](http://9gag.com/gag/ajgnZ8p)
+ - 🚯 [No pun intended](http://9gag.com/gag/a41L2Qw)<!-- MEMES:END -->
 
 --- 
 
