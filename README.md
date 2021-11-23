@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s Lisa Jackson wants to protect &#39;most vulnerable communities&#39; from climate change](https://appleinsider.com/articles/21/11/23/apples-lisa-jackson-wants-to-protect-most-vulnerable-communities-from-climate-change?utm_medium=rss)
- - [Apple struggling to make enough iPhones, iPads for Christmas in Asia](https://appleinsider.com/articles/21/11/23/apple-struggling-to-make-enough-iphones-ipads-for-christmas-in-asia?utm_medium=rss)
- - [The best Samsung storage devices are on offer for Black Friday](https://www.androidauthority.com/samsung-storage-devices-black-friday-3064082/)<!-- TECH:END -->
+ - [Black Friday 2021 smart home tech deals: speakers, cameras, robots, and more](https://www.theverge.com/22789311/black-friday-2021-smart-home-tech-speakers-cameras-cyber-monday)
+ - [Pixelmator Pro adds automatic background removal, goes on sale](https://appleinsider.com/articles/21/11/23/pixelmator-pro-adds-automatic-background-removal-goes-on-sale?utm_medium=rss)
+ - [Poll: How old is your current smartphone?](https://www.androidauthority.com/poll-how-old-is-your-current-smartphone-3064367/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
