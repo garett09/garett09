@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Arknights Tells A Compelling War Story With, Err, Catgirls](https://kotaku.com/arknights-tells-a-compelling-war-story-with-err-catgi-1848119316)
- - [Grab this CyberPowerPC desktop with a Ryzen 5 3600 and RX 6600 XT for $1000](https://www.pcgamer.com/grab-this-cyberpowerpc-desktop-with-a-ryzen-5-3600-and-rx-6600-xt-for-dollar1000)
- - [Debating if The Lord of the Rings films are Thanksgiving movies or Christmas movies](https://www.polygon.com/lord-of-the-rings/22800515/lord-of-the-rings-movies-watch-thanksgiving-christmas-marathon)<!-- GAME:END -->
+ - [Watch the first trailer for the latest horror series with a confusing title](https://www.polygon.com/22801234/from-horror-series-first-look-trailer)
+ - [How to level up fast in Halo Infinite with challenges and XP boosts](https://www.pcgamer.com/how-to-level-up-fast-in-halo-infinite-with-challenges-and-xp-boosts)
+ - [Arcane season 2 could head to one of these League of Legends locations](https://www.polygon.com/22801096/arcane-season-2-speculation-league-of-legends-locations-lore)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
