@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [EVE Online players stage a riot over newly proposed changes to the game!](https://kotaku.com/the-recent-eve-online-riots-where-thousands-of-fans-bur-1848113326)
- - [The new Resident Evil movie finally embraces horror, but it should be trashier](https://www.polygon.com/reviews/22800657/resident-evil-welcome-to-raccoon-city-review)
- - [This ultrawide monitor deal delivers expansive 144Hz gaming at a genuinely attainable price](https://www.pcgamer.com/this-ultrawide-monitor-deal-delivers-expansive-144hz-gaming-at-a-genuinely-attainable-price)<!-- GAME:END -->
+ - [The longtime Animal Crossing fans that resurfaced with update 2.0](https://www.polygon.com/22799052/animal-crossing-new-horizons-update-2-0-brought-longtime-players-back)
+ - [13 Things I Wish Someone Told Me Before I Started Death’s Door](https://kotaku.com/13-things-i-wish-someone-told-me-before-i-started-death-1848117572)
+ - [Poyo? Kirby Has Been Nominated For A Grammy](https://kotaku.com/poyo-kirby-has-been-nominated-for-a-grammy-1848117463)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
