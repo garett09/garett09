@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Oppo Find X4 Pro specs may have leaked: Where are the upgrades?](https://www.androidauthority.com/oppo-find-x4-pro-specs-3065008/)
- - [Can Alexa play YouTube? Yes, here’s how to.](https://www.androidauthority.com/alexa-youtube-echo-show-3063699/)
- - [Japan&#39;s top banks and 70 other companies are preparing to trial a new digital currency, backed by bank deposits, for large business transactions in H2 2022 &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/211124/p6#a211124p6)<!-- TECH:END -->
+ - [Twitter updates its iOS app to avoid timelines refreshing and causing tweets to disappear, after rolling out the update on web last week &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/211124/p8#a211124p8)
+ - [Walmart Black Friday deals: Save big on AirPods Pro, TVs, smart home tech, fitness trackers and more     - CNET](https://www.cnet.com/tech/home-entertainment/walmart-black-friday-the-best-deals-right-now/#ftag=CAD590a51e)
+ - [Denmark-based podcasting and audio tech startup Podimo raises a $78M Series B led by 83North and Highland Europe &lpar;Mimi Billing/Sifted&rpar;](http://www.techmeme.com/211124/p7#a211124p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
