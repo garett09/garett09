@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Restaurant goes the extra mile to make blind woman&amp;#039;s birthday special](http://9gag.com/gag/aAGpZWR)
- - 🚯 [It Is Wednesday My Dudes](http://9gag.com/gag/aogjnqA)
- - 🚯 [Asian guy defending himself after being harassed](http://9gag.com/gag/aRrVDV7)<!-- MEMES:END -->
+ - 🚖 [Personal Finance](http://9gag.com/gag/aggNjW1)
+ - 🚯 [Fiery but mostly peaceful](http://9gag.com/gag/a71bAVb)
+ - 🚯 [Fascinating behavior](http://9gag.com/gag/ay9nz5p)<!-- MEMES:END -->
 
 --- 
 
