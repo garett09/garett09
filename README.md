@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Is the new 16-inch MacBook Pro a pro-only machine?](https://appleinsider.com/articles/21/11/23/is-the-new-16-inch-macbook-pro-a-pro-only-machine?utm_medium=rss)
- - [Protect your Pixel 6 and Pixel 6 Pro with these unique cases](https://www.theverge.com/22799474/pixel-6-pro-cases-mobile-accessories-android-google)
- - [Ukraine arrests hackers behind Apple phishing schemes](https://appleinsider.com/articles/21/11/24/ukraine-arrests-hackers-behind-apple-phishing-schemes?utm_medium=rss)<!-- TECH:END -->
+ - [Black Friday Mac mini deals: Models w/ 16GB RAM as low as $789, plus $20 off AppleCare](https://appleinsider.com/articles/21/11/24/black-friday-mac-mini-deals-models-w-16gb-ram-as-low-as-789-plus-20-off-applecare?utm_medium=rss)
+ - [Sony Black Friday deals: Record-low prices on headphones and earbuds](https://www.androidauthority.com/sony-black-friday-deals-3064951/)
+ - [Samsung’s new app helps get more out of the S21 Ultra’s telephoto cameras](https://www.theverge.com/2021/11/24/22800655/samsung-expert-raw-app-beta-telephoto-pro-mode)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
