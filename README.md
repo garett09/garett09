@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Game Boy Printer](http://9gag.com/gag/aggNd6w)
- - 🚯 [Restaurant goes the extra mile to make blind woman&amp;#039;s birthday special](http://9gag.com/gag/aAGpZWR)
- - 🚯 [Uhm what about a slap...... Nvm](http://9gag.com/gag/a11Yx1v)<!-- MEMES:END -->
+ - 🚖 [Damn](http://9gag.com/gag/aM4QWDV)
+ - 🚯 [Sorry mate](http://9gag.com/gag/aegpWop)
+ - 🚯 [Game Boy Printer](http://9gag.com/gag/aggNd6w)<!-- MEMES:END -->
 
 --- 
 
