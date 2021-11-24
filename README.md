@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Harley wants the D](http://9gag.com/gag/aYrwRX2)
- - 🚯 [Silence](http://9gag.com/gag/angBDAz)
- - 🚯 [Yes or yes](http://9gag.com/gag/aVxXV9M)<!-- MEMES:END -->
+ - 🚖 [The smallest dolphin species. Fish nets have killed almost all of them.](http://9gag.com/gag/aogjYw0)
+ - 🚯 [Tatau](http://9gag.com/gag/aZrNR53)
+ - 🚯 [Task failed successfully](http://9gag.com/gag/aM4QyrR)<!-- MEMES:END -->
 
 --- 
 
