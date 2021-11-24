@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Battlefield 2042 Details Upcoming ‘We’re Sorry’ Patches](https://kotaku.com/battlefield-2042-details-upcoming-we-re-sorry-patches-1848117122)
- - [This Black Friday SSD deal will put the cherry on top of my new PC build](https://www.pcgamer.com/this-black-friday-ssd-deal-will-put-the-cherry-on-top-of-my-new-pc-build)
- - [Angry Alligator rampages to PS4 and PS5 November 30](https://blog.playstation.com/2021/11/24/angry-alligator-rampages-to-ps4-and-ps5-november-30/)<!-- GAME:END -->
+ - [EVE Online players stage a riot over newly proposed changes to the game!](https://kotaku.com/the-recent-eve-online-riots-where-thousands-of-fans-bur-1848113326)
+ - [The new Resident Evil movie finally embraces horror, but it should be trashier](https://www.polygon.com/reviews/22800657/resident-evil-welcome-to-raccoon-city-review)
+ - [This ultrawide monitor deal delivers expansive 144Hz gaming at a genuinely attainable price](https://www.pcgamer.com/this-ultrawide-monitor-deal-delivers-expansive-144hz-gaming-at-a-genuinely-attainable-price)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
