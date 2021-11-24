@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A little piece of music history](http://9gag.com/gag/amg8RKV)
- - 🚯 [Self KO](http://9gag.com/gag/aGzR7E6)
- - 🚯 [&amp;bdquo;Boxing ? Ok..&amp;ldquo;](http://9gag.com/gag/aAGpOb0)<!-- MEMES:END -->
+ - 🚖 [Harley wants the D](http://9gag.com/gag/aYrwRX2)
+ - 🚯 [Silence](http://9gag.com/gag/angBDAz)
+ - 🚯 [Yes or yes](http://9gag.com/gag/aVxXV9M)<!-- MEMES:END -->
 
 --- 
 
