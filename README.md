@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Nothing wrong with a bit of old fashioned German humor](http://9gag.com/gag/aYrwn6O)
- - 🚯 [I&amp;#039;m aright too ^_^](http://9gag.com/gag/aGzRNZK)
+ - 🚖 [Italians approve](http://9gag.com/gag/a41Lmdw)
+ - 🚯 [The appropriate response](http://9gag.com/gag/aZrNVBX)
  - 🚯 [Jamie Foxx acting like Denzel Washington](http://9gag.com/gag/aBnrNbO)<!-- MEMES:END -->
 
 --- 
