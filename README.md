@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Resilience, a cyber insurer that also offers policyholders services for defending against ransomware, raises a $80M Series C from General Catalyst and others &lpar;Kyle Alspach/VentureBeat&rpar;](http://www.techmeme.com/211123/p38#a211123p38)
- - [The Tolkien estate has smote JRR Token — but the NFTs persist](https://www.theverge.com/22799580/jrr-token-tolkien-estate-cryptocurrency-coin-nft-trademark)
- - [Sources: Apple taps TSMC to mass produce 4nm 5G modem chips for the iPhone in 2023, in an effort to reduce its reliance on Qualcomm &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/211123/p37#a211123p37)<!-- TECH:END -->
+ - [CoreStack, which offers companies AI-powered cloud governance software, raises a $30M Series B led by Avatar Growth Capital, bringing its total funding to $45M &lpar;Taylor Soper/GeekWire&rpar;](http://www.techmeme.com/211124/p3#a211124p3)
+ - [Samsung launches Expert Raw camera app for photo enthusiasts](https://www.androidauthority.com/samsung-expert-raw-camera-app-3064934/)
+ - [Indian government submits a bill to ban most cryptocurrencies and aims to create a framework that would facilitate the creation of a CBDC &lpar;CoinDesk&rpar;](http://www.techmeme.com/211124/p2#a211124p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
