@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Decentraland says it sold a virtual real estate plot for $2.4M in crypto to Tokens.com subsidiary Metaverse Group, claiming it to be its largest transaction &lpar;Elizabeth Howcroft/Reuters&rpar;](http://www.techmeme.com/211123/p35#a211123p35)
- - [Startups like Royal, which helps musicians create and sell NFTs, could potentially upend predatory record deals and further shift power to artists and fans &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/211123/p34#a211123p34)
- - [More people need to check out the best TV show on Netflix     - CNET](https://www.cnet.com/news/the-best-tv-show-on-netflix/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: Apple taps TSMC to mass produce 4nm 5G modem chips for the iPhone in 2023, in an effort to reduce its reliance on Qualcomm &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/211123/p37#a211123p37)
+ - [Luma Health, which helps health care providers centralize and automate scheduling and communication with patients, raises a $130M Series C led by FTV Capital &lpar;Rebecca Torrence/FierceHealthcare&rpar;](http://www.techmeme.com/211123/p36#a211123p36)
+ - [Decentraland says it sold a virtual real estate plot for $2.4M in crypto to Tokens.com subsidiary Metaverse Group, claiming it to be its largest transaction &lpar;Elizabeth Howcroft/Reuters&rpar;](http://www.techmeme.com/211123/p35#a211123p35)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
