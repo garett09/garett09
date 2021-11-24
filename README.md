@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Damn](http://9gag.com/gag/aM4QWDV)
- - 🚯 [Sorry mate](http://9gag.com/gag/aegpWop)
- - 🚯 [Game Boy Printer](http://9gag.com/gag/aggNd6w)<!-- MEMES:END -->
+ - 🚖 [When i start playing skyrim for the fiftieth time](http://9gag.com/gag/amg8dW4)
+ - 🚯 [The appropriate response](http://9gag.com/gag/aZrNVBX)
+ - 🚯 [Uhm what about a slap...... Nvm](http://9gag.com/gag/a11Yx1v)<!-- MEMES:END -->
 
 --- 
 
