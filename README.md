@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Apple taps TSMC to mass produce 4nm 5G modem chips for the iPhone in 2023, in an effort to reduce its reliance on Qualcomm &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/211123/p37#a211123p37)
- - [Luma Health, which helps health care providers centralize and automate scheduling and communication with patients, raises a $130M Series C led by FTV Capital &lpar;Rebecca Torrence/FierceHealthcare&rpar;](http://www.techmeme.com/211123/p36#a211123p36)
- - [Decentraland says it sold a virtual real estate plot for $2.4M in crypto to Tokens.com subsidiary Metaverse Group, claiming it to be its largest transaction &lpar;Elizabeth Howcroft/Reuters&rpar;](http://www.techmeme.com/211123/p35#a211123p35)<!-- TECH:END -->
+ - [Resilience, a cyber insurer that also offers policyholders services for defending against ransomware, raises a $80M Series C from General Catalyst and others &lpar;Kyle Alspach/VentureBeat&rpar;](http://www.techmeme.com/211123/p38#a211123p38)
+ - [The Tolkien estate has smote JRR Token — but the NFTs persist](https://www.theverge.com/22799580/jrr-token-tolkien-estate-cryptocurrency-coin-nft-trademark)
+ - [Sources: Apple taps TSMC to mass produce 4nm 5G modem chips for the iPhone in 2023, in an effort to reduce its reliance on Qualcomm &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/211123/p37#a211123p37)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
