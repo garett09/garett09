@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Men of War 2 announced, coming 2022](https://www.pcgamer.com/men-of-war-2-announced-coming-2022)
- - [The state of Battlefield 2042: tank sniping, buff hovercrafts, and a ghost tower](https://www.pcgamer.com/the-state-of-battlefield-2042-tank-sniping-buff-hovercrafts-and-a-ghost-tower)
- - [Let’s talk about Lisa Trevor in the new Resident Evil movie](https://www.polygon.com/22799018/lisa-trevor-resident-evil-movie)<!-- GAME:END -->
+ - [The best anime of 2021, so far](https://www.polygon.com/22594587/best-anime-2021)
+ - [Dragon Age&#39;s Senior Creative Director Has Left BioWare](https://kotaku.com/dragon-ages-senior-creative-director-has-left-bioware-1848114644)
+ - [Men of War 2 announced, coming 2022](https://www.pcgamer.com/men-of-war-2-announced-coming-2022)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
