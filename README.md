@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When i start playing skyrim for the fiftieth time](http://9gag.com/gag/amg8dW4)
- - 🚯 [The appropriate response](http://9gag.com/gag/aZrNVBX)
- - 🚯 [Uhm what about a slap...... Nvm](http://9gag.com/gag/a11Yx1v)<!-- MEMES:END -->
+ - 🚖 [Damn nature.](http://9gag.com/gag/angBWKL)
+ - 🚯 [I&amp;#039;m aright too ^_^](http://9gag.com/gag/aGzRNZK)
+ - 🚯 [Well you&amp;#039;re not wrong...](http://9gag.com/gag/aRrVy4B)<!-- MEMES:END -->
 
 --- 
 
