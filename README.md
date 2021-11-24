@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chinese state media says a regulator told Tencent to submit any new apps or updates for inspections through December 31; Tencent says its apps remain functional &lpar;Reuters&rpar;](http://www.techmeme.com/211124/p10#a211124p10)
- - [Daily Authority: 💲 Pre-Black Friday pep talk](https://www.androidauthority.com/newsletters/da-november-24-2021/)
- - [The Pixel 5 almost had Google’s custom Tensor processor](https://www.androidauthority.com/google-pixel-5-tensor-3065106/)<!-- TECH:END -->
+ - [How to skip lines at Disney World using Genie+ and Lightning Lane](https://appleinsider.com/articles/21/11/24/how-to-skip-lines-at-disney-world-using-genie-and-lightning-lane?utm_medium=rss)
+ - [Apps to Help Manage Meals for Different Dietary Needs](https://www.wired.com/story/apps-manage-meals-different-dietary-needs)
+ - [The Best Black Friday Deals on Fitness and Outdoor Gear](https://www.wired.com/story/best-black-friday-fitness-deals-outdoors-2021)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
