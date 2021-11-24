@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Most men get flower for the first time only on their funeral](http://9gag.com/gag/a0ZY1qq)
- - 🚯 [Do you identify as black?](http://9gag.com/gag/aPZG16n)
- - 🚯 [After years of hustling and saving up, I finally got a place of my own!](http://9gag.com/gag/aXrXWBg)<!-- MEMES:END -->
+ - 🚖 [Interesting](http://9gag.com/gag/aqG2D5P)
+ - 🚯 [What did i see](http://9gag.com/gag/aDDmOWZ)
+ - 🚯 [He switched the cat out with a lookalike because he hated it](http://9gag.com/gag/a11YEmD)<!-- MEMES:END -->
 
 --- 
 
