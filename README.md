@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Hawkeye’s Kate Bishop plays a pivotal role in every Marvel Universe](https://www.polygon.com/22798331/hawkeye-kate-bishop-marvel)
- - [Sweden wants Europe to ban Bitcoin mining](https://www.pcgamer.com/sweden-wants-europe-to-ban-bitcoin-mining)
- - [Nvidia increased GPU shipments this quarter while AMD and Intel both down](https://www.pcgamer.com/nvidia-increased-gpu-shipments-this-quarter-while-amd-and-intel-both-down)<!-- GAME:END -->
+ - [The RPCS3 PS3 emulator gets a hefty boost on Intel Alder Lake CPUs with AVX-512 enabled](https://www.pcgamer.com/the-rpcs3-ps3-emulator-gets-a-hefty-boost-on-intel-alder-lake-cpus-with-avx-512-enabledenabled)
+ - [This RTX 3070 gaming laptop is on sale for the price of an RTX 3060 laptop](https://www.pcgamer.com/this-rtx-3070-gaming-laptop-is-on-sale-for-the-price-of-an-rtx-3060-laptop)
+ - [Hawkeye’s Kate Bishop plays a pivotal role in every Marvel Universe](https://www.polygon.com/22798331/hawkeye-kate-bishop-marvel)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
