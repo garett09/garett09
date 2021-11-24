@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Animal Crossing Happy Home Paradise is a playground for blursed designs](https://www.polygon.com/22800712/animal-crossing-new-horizons-happy-home-paradise-designs-cursed-blessed)
- - [Bobby Kotick Has Always Been A Siimy Douchebag](https://kotaku.com/bobby-kotick-has-always-been-a-slimy-asshole-1848117723)
- - [Fortnite Chapter Two Ends On December 4 With &#39;The End&#39;](https://kotaku.com/fortnite-chapter-two-ends-on-december-4-with-the-end-1848118083)<!-- GAME:END -->
+ - [Mayhem Brawler Takes You to the Skies with the Air Supremacy Update](https://news.xbox.com/en-us/2021/11/24/mayhem-brawler-takes-you-to-the-skies-with-the-air-supremacy-update/)
+ - [How to unlock the frame rate cap in Farming Simulator 22](https://www.pcgamer.com/farming-simulator-22-unlock-frame-rate-cap)
+ - [Hellbound’s season 1 finale complicates what we know about the supernatural world](https://www.polygon.com/22799439/hellbound-ending-episode-6)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
