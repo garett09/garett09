@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What](http://9gag.com/gag/a0ZYEOd)
- - 🚯 [The smallest dolphin species. Fish nets have killed almost all of them.](http://9gag.com/gag/aogjYw0)
- - 🚯 [Most men get flower for the first time only on their funeral](http://9gag.com/gag/a0ZY1qq)<!-- MEMES:END -->
+ - 🚖 [Most men get flower for the first time only on their funeral](http://9gag.com/gag/a0ZY1qq)
+ - 🚯 [Do you identify as black?](http://9gag.com/gag/aPZG16n)
+ - 🚯 [After years of hustling and saving up, I finally got a place of my own!](http://9gag.com/gag/aXrXWBg)<!-- MEMES:END -->
 
 --- 
 
