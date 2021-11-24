@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What did i see](http://9gag.com/gag/aDDmOWZ)
+ - 🚖 [Self KO](http://9gag.com/gag/aGzR7E6)
  - 🚯 [He switched the cat out with a lookalike because he hated it](http://9gag.com/gag/a11YEmD)
- - 🚯 [It Is Wednesday My Dudes](http://9gag.com/gag/aogjnqA)<!-- MEMES:END -->
+ - 🚯 [&amp;bdquo;Boxing ? Ok..&amp;ldquo;](http://9gag.com/gag/aAGpOb0)<!-- MEMES:END -->
 
 --- 
 
