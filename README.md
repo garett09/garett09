@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Interesting](http://9gag.com/gag/aqG2D5P)
- - 🚯 [What did i see](http://9gag.com/gag/aDDmOWZ)
- - 🚯 [He switched the cat out with a lookalike because he hated it](http://9gag.com/gag/a11YEmD)<!-- MEMES:END -->
+ - 🚖 [What did i see](http://9gag.com/gag/aDDmOWZ)
+ - 🚯 [He switched the cat out with a lookalike because he hated it](http://9gag.com/gag/a11YEmD)
+ - 🚯 [It Is Wednesday My Dudes](http://9gag.com/gag/aogjnqA)<!-- MEMES:END -->
 
 --- 
 
