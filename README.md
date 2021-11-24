@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A classic](http://9gag.com/gag/aegpPNB)
- - 🚯 [Game Boy Printer](http://9gag.com/gag/aggNd6w)
+ - 🚖 [Godlike](http://9gag.com/gag/azeVB5K)
+ - 🚯 [Jamie Foxx acting like Denzel Washington](http://9gag.com/gag/aBnrNbO)
  - 🚯 [Damn nature.](http://9gag.com/gag/angBWKL)<!-- MEMES:END -->
 
 --- 
