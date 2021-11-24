@@ -194,8 +194,8 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [It&amp;rsquo;s like the eraser tool on PaintShop](http://9gag.com/gag/a51K96E)
- - 🚯 [Today Sweden got their first female prime minister appointed and 8 hours, later she resigned.](http://9gag.com/gag/aGzRrnn)
- - 🚯 [Make the best of it](http://9gag.com/gag/a51KyYO)<!-- MEMES:END -->
+ - 🚯 [Those were the golden days](http://9gag.com/gag/aOQmAVy)
+ - 🚯 [My adult life so far](http://9gag.com/gag/aBnrjEN)<!-- MEMES:END -->
 
 --- 
 
