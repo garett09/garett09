@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [WhatsApp now lets you create your own stickers](https://www.androidauthority.com/whatsapp-create-own-stickers-3064976/)
- - [A look at the case of former Facebook engineer Behdad Esfahbod, who was detained in Iran in 2020, the company&#39;s response, lessons for Facebook, and more &lpar;Slate&rpar;](http://www.techmeme.com/211124/p5#a211124p5)
- - [NASA&#39;s mission to crash into an asteroid just launched. Here&#39;s what happens next     - CNET](https://www.cnet.com/news/nasas-mission-to-crash-into-an-asteroid-just-launched-heres-what-happens-next/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Twitter updates iOS app to stop tweets disappearing mid-read](https://www.theverge.com/2021/11/24/22800151/twitter-disappearing-tweets-ios-app-update-fix)
+ - [This ultra-short throw projector can almost replace a TV](https://www.theverge.com/22798489/xgimi-aura-projector-review-price-specs)
+ - [Apple reportedly switching to its own iPhone modem design in 2023](https://www.theverge.com/2021/11/24/22800144/apple-own-iphone-modem-2023-tsmc-4nm)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
