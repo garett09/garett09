@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Fitbit Charge 5 bands you can buy](https://www.androidauthority.com/best-fitbit-charge-5-bands-3063347/)
- - [Fortnite is ending its second chapter with a big event on December 4th](https://www.theverge.com/2021/11/24/22799221/fortnite-chapter-2-end-date)
- - [The Verge’s 2021 fitness and wellness gift guide](https://www.theverge.com/22746889/fitness-wellness-holiday-gift-guide-2021-fitness-trackers-watches)<!-- TECH:END -->
+ - [Is the new 16-inch MacBook Pro a pro-only machine?](https://appleinsider.com/articles/21/11/23/is-the-new-16-inch-macbook-pro-a-pro-only-machine?utm_medium=rss)
+ - [Protect your Pixel 6 and Pixel 6 Pro with these unique cases](https://www.theverge.com/22799474/pixel-6-pro-cases-mobile-accessories-android-google)
+ - [Ukraine arrests hackers behind Apple phishing schemes](https://appleinsider.com/articles/21/11/24/ukraine-arrests-hackers-behind-apple-phishing-schemes?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
