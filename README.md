@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A little piece of music history](http://9gag.com/gag/amg8RKV)
- - 🚯 [Fiery but mostly peaceful](http://9gag.com/gag/a71bAVb)
- - 🚯 [Harley wants the D](http://9gag.com/gag/aYrwRX2)<!-- MEMES:END -->
+ - 🚖 [Task failed successfully](http://9gag.com/gag/aM4QyrR)
+ - 🚯 [Corn](http://9gag.com/gag/aLvBrb6)
+ - 🚯 [Like a boss](http://9gag.com/gag/aGzRbzX)<!-- MEMES:END -->
 
 --- 
 
