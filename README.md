@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Italians approve](http://9gag.com/gag/a41Lmdw)
- - 🚯 [The appropriate response](http://9gag.com/gag/aZrNVBX)
- - 🚯 [Jamie Foxx acting like Denzel Washington](http://9gag.com/gag/aBnrNbO)<!-- MEMES:END -->
+ - 🚖 [Jamie Foxx acting like Denzel Washington](http://9gag.com/gag/aBnrNbO)
+ - 🚯 [Just how I remember it](http://9gag.com/gag/aKmBXBW)
+ - 🚯 [- AAAEEttthhf Credits to scottnolasco](http://9gag.com/gag/adgpWpQ)<!-- MEMES:END -->
 
 --- 
 
