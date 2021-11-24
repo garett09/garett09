@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dragon Age 4&#39;s senior creative director has left BioWare](https://www.pcgamer.com/dragon-age-4s-senior-creative-director-has-left-bioware)
- - [Best gaming laptops in 2021](https://www.pcgamer.com/best-gaming-laptop)
- - [This 27-inch 165Hz curved gaming monitor from Asus is just $240 right now](https://www.pcgamer.com/this-27-inch-165hz-curved-gaming-monitor-from-asus-is-just-dollar240-right-now)<!-- GAME:END -->
+ - [Psychological Thriller Martha Is Dead Is Coming to Xbox on February 24](https://news.xbox.com/en-us/2021/11/24/psychological-thriller-martha-is-dead-is-coming-to-xbox-on-february-24/)
+ - [The Sonic Macy’s Thanksgiving Parade crash: An oral history](https://www.polygon.com/features/22798112/sonic-balloon-macys-thanksgiving-parade-crash-oral-history)
+ - [What we know about the Halo Infinite Yoroi armor set](https://www.pcgamer.com/how-to-get-halo-infinite-yoroi-armor)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
