@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Black Friday UK deals you can check out right now](https://www.androidauthority.com/black-friday-uk-927153/)
- - [Conduktor, which provides an all-in-one GUI that simplifies working with Apache Kafka clusters, services, and applications, raises a $20M Series A led by Accel &lpar;Paul Sawers/VentureBeat&rpar;](http://www.techmeme.com/211124/p4#a211124p4)
- - [CoreStack, which offers companies AI-powered cloud governance software, raises a $30M Series B led by Avatar Growth Capital, bringing its total funding to $45M &lpar;Taylor Soper/GeekWire&rpar;](http://www.techmeme.com/211124/p3#a211124p3)<!-- TECH:END -->
+ - [WhatsApp now lets you create your own stickers](https://www.androidauthority.com/whatsapp-create-own-stickers-3064976/)
+ - [A look at the case of former Facebook engineer Behdad Esfahbod, who was detained in Iran in 2020, the company&#39;s response, lessons for Facebook, and more &lpar;Slate&rpar;](http://www.techmeme.com/211124/p5#a211124p5)
+ - [NASA&#39;s mission to crash into an asteroid just launched. Here&#39;s what happens next     - CNET](https://www.cnet.com/news/nasas-mission-to-crash-into-an-asteroid-just-launched-heres-what-happens-next/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
