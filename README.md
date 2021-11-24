@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hulu’s ad-supported streaming plan costs just $1 per month to join](https://www.theverge.com/good-deals/2021/11/24/22798649/hulu-ad-streaming-plan-app-deal-macbook-air-m1-apple-airpods-sennheiser-sale-black-friday)
- - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;Nov. 24&rpar;](https://www.androidauthority.com/wallpaper-wednesday-nov-24-2021-3063636/)
- - [How to Pick the Right Roku for Your TV](https://www.wired.com/gallery/how-to-pick-the-right-roku)<!-- TECH:END -->
+ - [The best Fitbit Charge 5 bands you can buy](https://www.androidauthority.com/best-fitbit-charge-5-bands-3063347/)
+ - [Fortnite is ending its second chapter with a big event on December 4th](https://www.theverge.com/2021/11/24/22799221/fortnite-chapter-2-end-date)
+ - [The Verge’s 2021 fitness and wellness gift guide](https://www.theverge.com/22746889/fitness-wellness-holiday-gift-guide-2021-fitness-trackers-watches)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
