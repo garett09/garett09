@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Let’s talk about Lisa Trevor in the new Resident Evil movie](https://www.polygon.com/22799018/lisa-trevor-resident-evil-movie)
- - [Please cook Luffy’s Meat on the Bone from One Piece for Thanksgiving](https://www.polygon.com/22797421/one-piece-luffys-meat-on-the-bone-recipe)
- - [The 5 ugly gaming Christmas sweaters we&#39;d actually wear](https://www.pcgamer.com/the-5-ugly-gaming-christmas-sweaters-wed-actually-wear)<!-- GAME:END -->
+ - [Men of War 2 announced, coming 2022](https://www.pcgamer.com/men-of-war-2-announced-coming-2022)
+ - [The state of Battlefield 2042: tank sniping, buff hovercrafts, and a ghost tower](https://www.pcgamer.com/the-state-of-battlefield-2042-tank-sniping-buff-hovercrafts-and-a-ghost-tower)
+ - [Let’s talk about Lisa Trevor in the new Resident Evil movie](https://www.polygon.com/22799018/lisa-trevor-resident-evil-movie)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
