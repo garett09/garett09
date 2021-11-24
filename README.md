@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Baldur&#39;s Gate 3: Everything we know](https://www.pcgamer.com/baldurs-gate-3-everything-we-know)
  - [The best anime of 2021, so far](https://www.polygon.com/22594587/best-anime-2021)
- - [Dragon Age&#39;s Senior Creative Director Has Left BioWare](https://kotaku.com/dragon-ages-senior-creative-director-has-left-bioware-1848114644)
- - [Men of War 2 announced, coming 2022](https://www.pcgamer.com/men-of-war-2-announced-coming-2022)<!-- GAME:END -->
+ - [Dragon Age&#39;s Senior Creative Director Has Left BioWare](https://kotaku.com/dragon-ages-senior-creative-director-has-left-bioware-1848114644)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
