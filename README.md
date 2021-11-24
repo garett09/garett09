@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Black Friday 2021 smart home tech deals: speakers, cameras, robots, and more](https://www.theverge.com/22789311/black-friday-2021-smart-home-tech-speakers-cameras-cyber-monday)
- - [Black Friday 2021: Everything worthwhile from Amazon, Walmart, and Target     - CNET](https://www.cnet.com/tech/best-black-friday-deals/#ftag=CAD590a51e)
- - [Best PC gaming headset for 2021     - CNET](https://www.cnet.com/tech/gaming/best-pc-gaming-headset/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple turns customers away at retail stores in Turkey](https://appleinsider.com/articles/21/11/24/apple-turns-customers-away-at-retail-stores-in-turkey?utm_medium=rss)
+ - [The new pro football NFT marketplace has a name: NFL All Day](https://www.theverge.com/2021/11/24/22801332/nfl-all-day-nft-sports-top-shot-collectible-dapper-labs)
+ - [Almost buying a copy of the Constitution is easy, but giving the money back is hard](https://www.theverge.com/2021/11/24/22800995/constitutiondao-refund-progress-steep-gas-fees-cryptocurrency)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
