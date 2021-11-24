@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Black Friday Mac mini deals: Models w/ 16GB RAM as low as $789, plus $20 off AppleCare](https://appleinsider.com/articles/21/11/24/black-friday-mac-mini-deals-models-w-16gb-ram-as-low-as-789-plus-20-off-applecare?utm_medium=rss)
- - [Sony Black Friday deals: Record-low prices on headphones and earbuds](https://www.androidauthority.com/sony-black-friday-deals-3064951/)
- - [Samsung’s new app helps get more out of the S21 Ultra’s telephoto cameras](https://www.theverge.com/2021/11/24/22800655/samsung-expert-raw-app-beta-telephoto-pro-mode)<!-- TECH:END -->
+ - [The best Black Friday deals on cameras and lenses](https://www.theverge.com/22792032/camera-deals-black-friday-2021-mirrorless-slr-cyber-monday)
+ - [Adam Mosseri agrees to testify about Instagram&#39;s effects on teenage users before a Senate Commerce subcommittee during the week of December 6 &lpar;New York Times&rpar;](http://www.techmeme.com/211124/p15#a211124p15)
+ - [The best smart displays for every home](https://www.theverge.com/22535003/best-smart-displays-alexa-google-echo-nest)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
