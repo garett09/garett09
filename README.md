@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Jamie Foxx acting like Denzel Washington](http://9gag.com/gag/aBnrNbO)
- - 🚯 [Just how I remember it](http://9gag.com/gag/aKmBXBW)
- - 🚯 [- AAAEEttthhf Credits to scottnolasco](http://9gag.com/gag/adgpWpQ)<!-- MEMES:END -->
+ - 🚖 [It&amp;rsquo;s like the eraser tool on PaintShop](http://9gag.com/gag/a51K96E)
+ - 🚯 [Today Sweden got their first female prime minister appointed and 8 hours, later she resigned.](http://9gag.com/gag/aGzRrnn)
+ - 🚯 [Make the best of it](http://9gag.com/gag/a51KyYO)<!-- MEMES:END -->
 
 --- 
 
