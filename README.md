@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The longtime Animal Crossing fans that resurfaced with update 2.0](https://www.polygon.com/22799052/animal-crossing-new-horizons-update-2-0-brought-longtime-players-back)
- - [13 Things I Wish Someone Told Me Before I Started Death’s Door](https://kotaku.com/13-things-i-wish-someone-told-me-before-i-started-death-1848117572)
- - [Poyo? Kirby Has Been Nominated For A Grammy](https://kotaku.com/poyo-kirby-has-been-nominated-for-a-grammy-1848117463)<!-- GAME:END -->
+ - [Animal Crossing Happy Home Paradise is a playground for blursed designs](https://www.polygon.com/22800712/animal-crossing-new-horizons-happy-home-paradise-designs-cursed-blessed)
+ - [Bobby Kotick Has Always Been A Siimy Douchebag](https://kotaku.com/bobby-kotick-has-always-been-a-slimy-asshole-1848117723)
+ - [Fortnite Chapter Two Ends On December 4 With &#39;The End&#39;](https://kotaku.com/fortnite-chapter-two-ends-on-december-4-with-the-end-1848118083)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
