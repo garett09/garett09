@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Nvidia increased GPU shipments this quarter while AMD and Intel both down](https://www.pcgamer.com/nvidia-increased-gpu-shipments-this-quarter-while-amd-and-intel-both-down)
- - [Samsung teases future memory standards](https://www.pcgamer.com/samsung-teases-future-memory-standards)
- - [AMD FidelityFX Super Resolution plugin now available for UE4](https://www.pcgamer.com/amd-fidelityfx-super-resolution-plugin-now-available-for-ue4)<!-- GAME:END -->
+ - [Hawkeye’s Kate Bishop plays a pivotal role in every Marvel Universe](https://www.polygon.com/22798331/hawkeye-kate-bishop-marvel)
+ - [Sweden wants Europe to ban Bitcoin mining](https://www.pcgamer.com/sweden-wants-europe-to-ban-bitcoin-mining)
+ - [Nvidia increased GPU shipments this quarter while AMD and Intel both down](https://www.pcgamer.com/nvidia-increased-gpu-shipments-this-quarter-while-amd-and-intel-both-down)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
