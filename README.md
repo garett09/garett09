@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Psychological Thriller Martha Is Dead Is Coming to Xbox on February 24](https://news.xbox.com/en-us/2021/11/24/psychological-thriller-martha-is-dead-is-coming-to-xbox-on-february-24/)
- - [The Sonic Macy’s Thanksgiving Parade crash: An oral history](https://www.polygon.com/features/22798112/sonic-balloon-macys-thanksgiving-parade-crash-oral-history)
- - [What we know about the Halo Infinite Yoroi armor set](https://www.pcgamer.com/how-to-get-halo-infinite-yoroi-armor)<!-- GAME:END -->
+ - [Black Friday gaming PC deals 2021: RTX 30-series gaming rigs from $870](https://www.pcgamer.com/black-friday-gaming-pc-deals-2021)
+ - [No Man&#39;s Sky expeditions return from tomorrow, giving players another chance to earn Mass Effect&#39;s Normandy SR1](https://www.pcgamer.com/no-mans-sky-expeditions-return-from-tomorrow-giving-players-another-chance-to-earn-mass-effects-normandy-sr1)
+ - [Next Week on Xbox: November 29 to December 3](https://news.xbox.com/en-us/2021/11/24/next-week-on-xbox-november-29-to-december-3/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
