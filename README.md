@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [CoreStack, which offers companies AI-powered cloud governance software, raises a $30M Series B led by Avatar Growth Capital, bringing its total funding to $45M &lpar;Taylor Soper/GeekWire&rpar;](http://www.techmeme.com/211124/p3#a211124p3)
- - [Samsung launches Expert Raw camera app for photo enthusiasts](https://www.androidauthority.com/samsung-expert-raw-camera-app-3064934/)
- - [Indian government submits a bill to ban most cryptocurrencies and aims to create a framework that would facilitate the creation of a CBDC &lpar;CoinDesk&rpar;](http://www.techmeme.com/211124/p2#a211124p2)<!-- TECH:END -->
+ - [The best Black Friday UK deals you can check out right now](https://www.androidauthority.com/black-friday-uk-927153/)
+ - [Conduktor, which provides an all-in-one GUI that simplifies working with Apache Kafka clusters, services, and applications, raises a $20M Series A led by Accel &lpar;Paul Sawers/VentureBeat&rpar;](http://www.techmeme.com/211124/p4#a211124p4)
+ - [CoreStack, which offers companies AI-powered cloud governance software, raises a $30M Series B led by Avatar Growth Capital, bringing its total funding to $45M &lpar;Taylor Soper/GeekWire&rpar;](http://www.techmeme.com/211124/p3#a211124p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
