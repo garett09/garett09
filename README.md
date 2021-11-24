@@ -194,8 +194,8 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Personal Finance](http://9gag.com/gag/aggNjW1)
- - 🚯 [Fiery but mostly peaceful](http://9gag.com/gag/a71bAVb)
- - 🚯 [Fascinating behavior](http://9gag.com/gag/ay9nz5p)<!-- MEMES:END -->
+ - 🚯 [Fascinating behavior](http://9gag.com/gag/ay9nz5p)
+ - 🚯 [Well you&amp;#039;re not wrong...](http://9gag.com/gag/aRrVy4B)<!-- MEMES:END -->
 
 --- 
 
