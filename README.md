@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daniel Dae Kim says Succession and The Squid Game are companion pieces     - CNET](https://www.cnet.com/news/daniel-dae-kim-says-succession-and-the-squid-game-are-companion-pieces/#ftag=CAD590a51e)
- - [US banking regulators are looking to clarify crypto rules in 2022](https://www.theverge.com/2021/11/24/22800740/cryptocurrency-us-banking-regulation-clarification-financial-institutions-stablecoins)
- - [The 47 best kitchen deals for Black Friday: Amazon, Best Buy, Macy&#39;s and more     - CNET](https://www.cnet.com/home/kitchen-and-household/early-black-friday-kitchen-deals-2021/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Black Friday 2021 smart home tech deals: speakers, cameras, robots, and more](https://www.theverge.com/22789311/black-friday-2021-smart-home-tech-speakers-cameras-cyber-monday)
+ - [Black Friday 2021: Everything worthwhile from Amazon, Walmart, and Target     - CNET](https://www.cnet.com/tech/best-black-friday-deals/#ftag=CAD590a51e)
+ - [Best PC gaming headset for 2021     - CNET](https://www.cnet.com/tech/gaming/best-pc-gaming-headset/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
