@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Mayhem Brawler Takes You to the Skies with the Air Supremacy Update](https://news.xbox.com/en-us/2021/11/24/mayhem-brawler-takes-you-to-the-skies-with-the-air-supremacy-update/)
- - [How to unlock the frame rate cap in Farming Simulator 22](https://www.pcgamer.com/farming-simulator-22-unlock-frame-rate-cap)
- - [Hellbound’s season 1 finale complicates what we know about the supernatural world](https://www.polygon.com/22799439/hellbound-ending-episode-6)<!-- GAME:END -->
+ - [Arknights Tells A Compelling War Story With, Err, Catgirls](https://kotaku.com/arknights-tells-a-compelling-war-story-with-err-catgi-1848119316)
+ - [Grab this CyberPowerPC desktop with a Ryzen 5 3600 and RX 6600 XT for $1000](https://www.pcgamer.com/grab-this-cyberpowerpc-desktop-with-a-ryzen-5-3600-and-rx-6600-xt-for-dollar1000)
+ - [Debating if The Lord of the Rings films are Thanksgiving movies or Christmas movies](https://www.polygon.com/lord-of-the-rings/22800515/lord-of-the-rings-movies-watch-thanksgiving-christmas-marathon)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
