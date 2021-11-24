@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to skip lines at Disney World using Genie+ and Lightning Lane](https://appleinsider.com/articles/21/11/24/how-to-skip-lines-at-disney-world-using-genie-and-lightning-lane?utm_medium=rss)
- - [Apps to Help Manage Meals for Different Dietary Needs](https://www.wired.com/story/apps-manage-meals-different-dietary-needs)
- - [The Best Black Friday Deals on Fitness and Outdoor Gear](https://www.wired.com/story/best-black-friday-fitness-deals-outdoors-2021)<!-- TECH:END -->
+ - [Hulu’s ad-supported streaming plan costs just $1 per month to join](https://www.theverge.com/good-deals/2021/11/24/22798649/hulu-ad-streaming-plan-app-deal-macbook-air-m1-apple-airpods-sennheiser-sale-black-friday)
+ - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;Nov. 24&rpar;](https://www.androidauthority.com/wallpaper-wednesday-nov-24-2021-3063636/)
+ - [How to Pick the Right Roku for Your TV](https://www.wired.com/gallery/how-to-pick-the-right-roku)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
