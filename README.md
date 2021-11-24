@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Watch the first trailer for the latest horror series with a confusing title](https://www.polygon.com/22801234/from-horror-series-first-look-trailer)
- - [How to level up fast in Halo Infinite with challenges and XP boosts](https://www.pcgamer.com/how-to-level-up-fast-in-halo-infinite-with-challenges-and-xp-boosts)
- - [Arcane season 2 could head to one of these League of Legends locations](https://www.polygon.com/22801096/arcane-season-2-speculation-league-of-legends-locations-lore)<!-- GAME:END -->
+ - [Official PlayStation Podcast 417: A Gut-Bustin’ Good Time](https://blog.playstation.com/2021/11/24/official-playstation-podcast-417-a-gut-bustin-good-time/)
+ - [Official PlayStation Podcast 417: A Gut-Bustin’ Good Time](https://blog.playstation.com/2021/11/24/official-playstation-podcast-417-a-gut-bustin-good-time/)
+ - [Meet the Genshin Impact player who spent 4 months and $0 grinding a terrible character to max level](https://www.pcgamer.com/meet-the-genshin-impact-player-who-spent-4-months-and-dollar0-grinding-a-terrible-character-to-max-level)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
