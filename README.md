@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Nvidia increased GPU shipments this quarter while AMD and Intel both down](https://www.pcgamer.com/nvidia-increased-gpu-shipments-this-quarter-while-amd-and-intel-both-down)
  - [Samsung teases future memory standards](https://www.pcgamer.com/samsung-teases-future-memory-standards)
- - [AMD FidelityFX Super Resolution plugin now available for UE4](https://www.pcgamer.com/amd-fidelityfx-super-resolution-plugin-now-available-for-ue4)
- - [Miniature Market has miniatures for sale much cheaper than official retailers](https://www.pcgamer.com/miniature-market-has-miniatures-for-sale-much-cheaper-than-official-retailers)<!-- GAME:END -->
+ - [AMD FidelityFX Super Resolution plugin now available for UE4](https://www.pcgamer.com/amd-fidelityfx-super-resolution-plugin-now-available-for-ue4)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
