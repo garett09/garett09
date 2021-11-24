@@ -193,7 +193,7 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Godlike](http://9gag.com/gag/azeVB5K)
+ - 🚖 [Largest Elephant in the world. Approximately 8,000 kg.](http://9gag.com/gag/aggNdeg)
  - 🚯 [Jamie Foxx acting like Denzel Washington](http://9gag.com/gag/aBnrNbO)
  - 🚯 [Damn nature.](http://9gag.com/gag/angBWKL)<!-- MEMES:END -->
 
