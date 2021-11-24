@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Arcades In Japan Keep Closing, Which Sucks](https://kotaku.com/arcades-in-japan-keep-closing-which-sucks-1848115616)
  - [The RPCS3 PS3 emulator gets a hefty boost on Intel Alder Lake CPUs with AVX-512 enabled](https://www.pcgamer.com/the-rpcs3-ps3-emulator-gets-a-hefty-boost-on-intel-alder-lake-cpus-with-avx-512-enabledenabled)
- - [This RTX 3070 gaming laptop is on sale for the price of an RTX 3060 laptop](https://www.pcgamer.com/this-rtx-3070-gaming-laptop-is-on-sale-for-the-price-of-an-rtx-3060-laptop)
- - [Hawkeye’s Kate Bishop plays a pivotal role in every Marvel Universe](https://www.polygon.com/22798331/hawkeye-kate-bishop-marvel)<!-- GAME:END -->
+ - [This RTX 3070 gaming laptop is on sale for the price of an RTX 3060 laptop](https://www.pcgamer.com/this-rtx-3070-gaming-laptop-is-on-sale-for-the-price-of-an-rtx-3060-laptop)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
