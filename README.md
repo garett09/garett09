@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Black Friday deals on noise-canceling headphones 2021](https://www.theverge.com/22796131/black-friday-headphones-2021-deals-cyber-monday)
- - [The US places a dozen Chinese groups developing quantum computing, semiconductor, and aerospace technologies on an entity list, blocking exports to them &lpar;Demetri Sevastopulo/Financial Times&rpar;](http://www.techmeme.com/211124/p17#a211124p17)
- - [Shazam for iOS will listen to songs for longer before giving up](https://appleinsider.com/articles/21/11/24/shazam-for-ios-will-listen-to-songs-for-longer-before-giving-up?utm_medium=rss)<!-- TECH:END -->
+ - [Daniel Dae Kim says Succession and The Squid Game are companion pieces     - CNET](https://www.cnet.com/news/daniel-dae-kim-says-succession-and-the-squid-game-are-companion-pieces/#ftag=CAD590a51e)
+ - [US banking regulators are looking to clarify crypto rules in 2022](https://www.theverge.com/2021/11/24/22800740/cryptocurrency-us-banking-regulation-clarification-financial-institutions-stablecoins)
+ - [The 47 best kitchen deals for Black Friday: Amazon, Best Buy, Macy&#39;s and more     - CNET](https://www.cnet.com/home/kitchen-and-household/early-black-friday-kitchen-deals-2021/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
