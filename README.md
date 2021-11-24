@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitter updates iOS app to stop tweets disappearing mid-read](https://www.theverge.com/2021/11/24/22800151/twitter-disappearing-tweets-ios-app-update-fix)
- - [This ultra-short throw projector can almost replace a TV](https://www.theverge.com/22798489/xgimi-aura-projector-review-price-specs)
- - [Apple reportedly switching to its own iPhone modem design in 2023](https://www.theverge.com/2021/11/24/22800144/apple-own-iphone-modem-2023-tsmc-4nm)<!-- TECH:END -->
+ - [Oppo Find X4 Pro specs may have leaked: Where are the upgrades?](https://www.androidauthority.com/oppo-find-x4-pro-specs-3065008/)
+ - [Can Alexa play YouTube? Yes, here’s how to.](https://www.androidauthority.com/alexa-youtube-echo-show-3063699/)
+ - [Japan&#39;s top banks and 70 other companies are preparing to trial a new digital currency, backed by bank deposits, for large business transactions in H2 2022 &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/211124/p6#a211124p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
