@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elizabeth Holmes admitted to a key part of the case against her](https://www.theverge.com/2021/11/23/22799756/elizabeth-holmes-pfizer-logo-confession)
- - [The best Black Friday deals on AirPods at Amazon, Walmart and Best Buy     - CNET](https://www.cnet.com/tech/mobile/best-black-friday-airpods-deals-airpods-pro-airpods-max/#ftag=CAD590a51e)
- - [Hawkeye review: Hailee Steinfeld steals the show in the latest Disney Plus series     - CNET](https://www.cnet.com/news/hawkeye-brings-free-wheeling-festive-fun-to-disney-plus/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Decentraland says it sold a virtual real estate plot for $2.4M in crypto to Tokens.com subsidiary Metaverse Group, claiming it to be its largest transaction &lpar;Elizabeth Howcroft/Reuters&rpar;](http://www.techmeme.com/211123/p35#a211123p35)
+ - [Startups like Royal, which helps musicians create and sell NFTs, could potentially upend predatory record deals and further shift power to artists and fans &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/211123/p34#a211123p34)
+ - [More people need to check out the best TV show on Netflix     - CNET](https://www.cnet.com/news/the-best-tv-show-on-netflix/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
