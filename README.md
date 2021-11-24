@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Battlefield 2042 bullet spread will be patched this week, DICE considering &#39;legacy features&#39; like scoreboard](https://www.pcgamer.com/battlefield-2042-update-2-changes)
- - [Yahaba and Susamaru invade Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles](https://blog.playstation.com/2021/11/23/yahaba-and-susamaru-invade-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles/)
- - [Yahaba and Susamaru invade Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles](https://blog.playstation.com/2021/11/23/yahaba-and-susamaru-invade-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles/)<!-- GAME:END -->
+ - [Let’s talk about Lisa Trevor in the new Resident Evil movie](https://www.polygon.com/22799018/lisa-trevor-resident-evil-movie)
+ - [Please cook Luffy’s Meat on the Bone from One Piece for Thanksgiving](https://www.polygon.com/22797421/one-piece-luffys-meat-on-the-bone-recipe)
+ - [The 5 ugly gaming Christmas sweaters we&#39;d actually wear](https://www.pcgamer.com/the-5-ugly-gaming-christmas-sweaters-wed-actually-wear)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
