@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Baldur&#39;s Gate 3: Everything we know](https://www.pcgamer.com/baldurs-gate-3-everything-we-know)
- - [The best anime of 2021, so far](https://www.polygon.com/22594587/best-anime-2021)
- - [Dragon Age&#39;s Senior Creative Director Has Left BioWare](https://kotaku.com/dragon-ages-senior-creative-director-has-left-bioware-1848114644)<!-- GAME:END -->
+ - [Samsung teases future memory standards](https://www.pcgamer.com/samsung-teases-future-memory-standards)
+ - [AMD FidelityFX Super Resolution plugin now available for UE4](https://www.pcgamer.com/amd-fidelityfx-super-resolution-plugin-now-available-for-ue4)
+ - [Miniature Market has miniatures for sale much cheaper than official retailers](https://www.pcgamer.com/miniature-market-has-miniatures-for-sale-much-cheaper-than-official-retailers)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
