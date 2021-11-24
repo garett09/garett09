@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best phone to buy right now](https://www.theverge.com/22163811/best-phone)
- - [The best early Black Friday deals at Staples](https://www.theverge.com/22796424/staples-black-friday-2021-tech-cyber-monday-headphones-tablets-smart-displays)
- - [Apple offering gift cards with purchase on Black Friday - but there are better options](https://appleinsider.com/articles/21/11/22/apple-offering-gift-cards-with-purchase-on-black-friday---but-there-are-better-options?utm_medium=rss)<!-- TECH:END -->
+ - [The best Black Friday deals on noise-canceling headphones 2021](https://www.theverge.com/22796131/black-friday-headphones-2021-deals-cyber-monday)
+ - [The US places a dozen Chinese groups developing quantum computing, semiconductor, and aerospace technologies on an entity list, blocking exports to them &lpar;Demetri Sevastopulo/Financial Times&rpar;](http://www.techmeme.com/211124/p17#a211124p17)
+ - [Shazam for iOS will listen to songs for longer before giving up](https://appleinsider.com/articles/21/11/24/shazam-for-ios-will-listen-to-songs-for-longer-before-giving-up?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
