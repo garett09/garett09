@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The immersive gameplay of psychological thriller Martha Is Dead](https://blog.playstation.com/2021/11/23/the-immersive-gameplay-of-psychological-thriller-martha-is-dead/)
- - [The immersive gameplay of psychological thriller Martha Is Dead](https://blog.playstation.com/2021/11/23/the-immersive-gameplay-of-psychological-thriller-martha-is-dead/)
- - [Master Chief’s pee is stored in the suit](https://www.polygon.com/22799364/halo-master-chief-pee-lore-spartans)<!-- GAME:END -->
+ - [Battlefield 2042 bullet spread will be patched this week, DICE considering &#39;legacy features&#39; like scoreboard](https://www.pcgamer.com/battlefield-2042-update-2-changes)
+ - [Yahaba and Susamaru invade Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles](https://blog.playstation.com/2021/11/23/yahaba-and-susamaru-invade-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles/)
+ - [Yahaba and Susamaru invade Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles](https://blog.playstation.com/2021/11/23/yahaba-and-susamaru-invade-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
