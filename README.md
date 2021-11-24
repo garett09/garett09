@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Report: North Korean Man Sentenced To Death For Smuggling Copies Of Squid Game](https://kotaku.com/report-north-korean-man-sentenced-to-death-for-smuggli-1848115736)
- - [Arcades In Japan Keep Closing, Which Sucks](https://kotaku.com/arcades-in-japan-keep-closing-which-sucks-1848115616)
- - [The RPCS3 PS3 emulator gets a hefty boost on Intel Alder Lake CPUs with AVX-512 enabled](https://www.pcgamer.com/the-rpcs3-ps3-emulator-gets-a-hefty-boost-on-intel-alder-lake-cpus-with-avx-512-enabledenabled)<!-- GAME:END -->
+ - [Dragon Age 4&#39;s senior creative director has left BioWare](https://www.pcgamer.com/dragon-age-4s-senior-creative-director-has-left-bioware)
+ - [Best gaming laptops in 2021](https://www.pcgamer.com/best-gaming-laptop)
+ - [This 27-inch 165Hz curved gaming monitor from Asus is just $240 right now](https://www.pcgamer.com/this-27-inch-165hz-curved-gaming-monitor-from-asus-is-just-dollar240-right-now)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
