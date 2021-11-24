@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Black Friday gaming PC deals 2021: RTX 30-series gaming rigs from $870](https://www.pcgamer.com/black-friday-gaming-pc-deals-2021)
- - [No Man&#39;s Sky expeditions return from tomorrow, giving players another chance to earn Mass Effect&#39;s Normandy SR1](https://www.pcgamer.com/no-mans-sky-expeditions-return-from-tomorrow-giving-players-another-chance-to-earn-mass-effects-normandy-sr1)
- - [Next Week on Xbox: November 29 to December 3](https://news.xbox.com/en-us/2021/11/24/next-week-on-xbox-november-29-to-december-3/)<!-- GAME:END -->
+ - [Battlefield 2042 Details Upcoming ‘We’re Sorry’ Patches](https://kotaku.com/battlefield-2042-details-upcoming-we-re-sorry-patches-1848117122)
+ - [This Black Friday SSD deal will put the cherry on top of my new PC build](https://www.pcgamer.com/this-black-friday-ssd-deal-will-put-the-cherry-on-top-of-my-new-pc-build)
+ - [Angry Alligator rampages to PS4 and PS5 November 30](https://blog.playstation.com/2021/11/24/angry-alligator-rampages-to-ps4-and-ps5-november-30/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
