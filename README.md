@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Damn nature.](http://9gag.com/gag/angBWKL)
- - 🚯 [I&amp;#039;m aright too ^_^](http://9gag.com/gag/aGzRNZK)
- - 🚯 [Well you&amp;#039;re not wrong...](http://9gag.com/gag/aRrVy4B)<!-- MEMES:END -->
+ - 🚖 [A classic](http://9gag.com/gag/aegpPNB)
+ - 🚯 [Game Boy Printer](http://9gag.com/gag/aggNd6w)
+ - 🚯 [Damn nature.](http://9gag.com/gag/angBWKL)<!-- MEMES:END -->
 
 --- 
 
