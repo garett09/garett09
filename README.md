@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Personal Finance](http://9gag.com/gag/aggNjW1)
- - 🚯 [Fascinating behavior](http://9gag.com/gag/ay9nz5p)
- - 🚯 [Well you&amp;#039;re not wrong...](http://9gag.com/gag/aRrVy4B)<!-- MEMES:END -->
+ - 🚖 [Game Boy Printer](http://9gag.com/gag/aggNd6w)
+ - 🚯 [Restaurant goes the extra mile to make blind woman&amp;#039;s birthday special](http://9gag.com/gag/aAGpZWR)
+ - 🚯 [Uhm what about a slap...... Nvm](http://9gag.com/gag/a11Yx1v)<!-- MEMES:END -->
 
 --- 
 
