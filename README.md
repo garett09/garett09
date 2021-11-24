@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Task failed successfully](http://9gag.com/gag/aM4QyrR)
- - 🚯 [Corn](http://9gag.com/gag/aLvBrb6)
- - 🚯 [Like a boss](http://9gag.com/gag/aGzRbzX)<!-- MEMES:END -->
+ - 🚖 [Restaurant goes the extra mile to make blind woman&amp;#039;s birthday special](http://9gag.com/gag/aAGpZWR)
+ - 🚯 [It Is Wednesday My Dudes](http://9gag.com/gag/aogjnqA)
+ - 🚯 [Asian guy defending himself after being harassed](http://9gag.com/gag/aRrVDV7)<!-- MEMES:END -->
 
 --- 
 
