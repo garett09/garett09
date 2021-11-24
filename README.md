@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitter updates its iOS app to avoid timelines refreshing and causing tweets to disappear, after rolling out the update on web last week &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/211124/p8#a211124p8)
- - [Walmart Black Friday deals: Save big on AirPods Pro, TVs, smart home tech, fitness trackers and more     - CNET](https://www.cnet.com/tech/home-entertainment/walmart-black-friday-the-best-deals-right-now/#ftag=CAD590a51e)
- - [Denmark-based podcasting and audio tech startup Podimo raises a $78M Series B led by 83North and Highland Europe &lpar;Mimi Billing/Sifted&rpar;](http://www.techmeme.com/211124/p7#a211124p7)<!-- TECH:END -->
+ - [Chinese state media says a regulator told Tencent to submit any new apps or updates for inspections through December 31; Tencent says its apps remain functional &lpar;Reuters&rpar;](http://www.techmeme.com/211124/p10#a211124p10)
+ - [Daily Authority: 💲 Pre-Black Friday pep talk](https://www.androidauthority.com/newsletters/da-november-24-2021/)
+ - [The Pixel 5 almost had Google’s custom Tensor processor](https://www.androidauthority.com/google-pixel-5-tensor-3065106/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
