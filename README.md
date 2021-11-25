@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Is this accurate, my European brothers and sisters?](http://9gag.com/gag/aRrVW1G)
- - 🚯 [ONLY option you have](http://9gag.com/gag/a91P0vZ)
- - 🚯 [I&amp;#039;ve spent a lot of time painting every single beads, hope you like this Tibetan beauty!](http://9gag.com/gag/azeVy3j)<!-- MEMES:END -->
+ - 🚖 [I&amp;#039;ve spent a lot of time painting every single beads, hope you like this Tibetan beauty!](http://9gag.com/gag/azeVy3j)
+ - 🚯 [Harrya Pottey](http://9gag.com/gag/a31Lr25)
+ - 🚯 [Just an idea](http://9gag.com/gag/a21qgBw)<!-- MEMES:END -->
 
 --- 
 
