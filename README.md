@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Black Friday Canada 2021: All the latest deals on all the best tech](https://www.androidauthority.com/best-black-friday-deals-canada-1180332/)
- - [Hawkeye review: A grounded Marvel show show with all-too-human heroes     - CNET](https://www.cnet.com/news/hawkeye-review-marvels-best-grounded-tv-show-since-daredevil/#ftag=CAD590a51e)
- - [Black Friday deal: The best starter 3D printer is only $340 today     - CNET](https://www.cnet.com/tech/black-friday-deal-the-best-starter-3d-printer-is-only-340-today/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Best Black Friday TV and Soundbar Deals](https://www.wired.com/story/best-black-friday-tv-deals-2021)
+ - [Black Friday deals live blog: Thanksgiving sales and more     - CNET](https://www.cnet.com/tech/black-friday-2021-live-blog/#ftag=CAD590a51e)
+ - [The best Black Friday tablet deals](https://www.androidauthority.com/best-tablet-deals-1117141/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
