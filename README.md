@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [For the first time, NASA rover captures wind sounds on Mars !](http://9gag.com/gag/aGzRroG)
- - 🚯 [Can confirm](http://9gag.com/gag/a91PewZ)
- - 🚯 [- AAAEEttthhf Credits to scottnolasco](http://9gag.com/gag/adgpWpQ)<!-- MEMES:END -->
+ - 🚖 [Gotta make them dollas](http://9gag.com/gag/aWgOez4)
+ - 🚯 [Today Sweden got their first female prime minister appointed and 8 hours, later she resigned.](http://9gag.com/gag/aGzRrnn)
+ - 🚯 [In a parallel galaxy, near near by](http://9gag.com/gag/aQXnKrd)<!-- MEMES:END -->
 
 --- 
 
