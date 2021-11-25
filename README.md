@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [WTF os wrong with people.](http://9gag.com/gag/apgB7Ep)
- - 🚯 [Chaos Everywhere](http://9gag.com/gag/aBnrMdP)
- - 🚯 [I&amp;#039;m disliked by a few family members](http://9gag.com/gag/a41LgV6)<!-- MEMES:END -->
+ - 🚖 [I&amp;#039;m disliked by a few family members](http://9gag.com/gag/a41LgV6)
+ - 🚯 [My favourite Pok&amp;eacute;mon.](http://9gag.com/gag/apgB7X5)
+ - 🚯 [Usually I skip this part ..](http://9gag.com/gag/aZrNXyz)<!-- MEMES:END -->
 
 --- 
 
