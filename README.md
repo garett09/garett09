@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I&amp;#039;m disliked by a few family members](http://9gag.com/gag/a41LgV6)
+ - 🚖 [Bitter Sweet Symphony](http://9gag.com/gag/aDDm9pO)
  - 🚯 [My favourite Pok&amp;eacute;mon.](http://9gag.com/gag/apgB7X5)
- - 🚯 [Usually I skip this part ..](http://9gag.com/gag/aZrNXyz)<!-- MEMES:END -->
+ - 🚯 [Results may vary](http://9gag.com/gag/abgbDQv)<!-- MEMES:END -->
 
 --- 
 
