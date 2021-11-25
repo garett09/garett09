@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Nick/ga](http://9gag.com/gag/a81jxyV)
- - 🚯 [Snow globe eye. Asteroid hyalosis is a condition where people have calcium deposits floating around in the eye.](http://9gag.com/gag/aPZGq8R)
- - 🚯 [Stunning indeed](http://9gag.com/gag/abgbn0L)<!-- MEMES:END -->
+ - 🚖 [Don&amp;#039;t try this at home kids](http://9gag.com/gag/avALK8Z)
+ - 🚯 [Overload changes age](http://9gag.com/gag/avALj0E)
+ - 🚯 [I present you, the best video of the internet](http://9gag.com/gag/apgBZm9)<!-- MEMES:END -->
 
 --- 
 
