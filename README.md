@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Video Game Faces Might Finally Start Bridging The Uncanny Valley](https://kotaku.com/video-game-faces-might-finally-start-bridging-the-uncan-1848120656)
  - [Best Black Friday PC gaming deals in Australia: heaps of early discounts have landed](https://www.pcgamer.com/black-friday-2021-the-pc-gaming-deals-you-can-expect-in-australia)
- - [This gaming PC deal puts a Radeon RX 6700 XT under your desk for $1,600](https://www.pcgamer.com/this-gaming-pc-deal-puts-a-radeon-rx-6700-xt-under-your-desk-for-dollar1600)<!-- GAME:END -->
+ - [Sports Game Delayed Over Cover Star&#39;s Dick Pic Scandal](https://kotaku.com/sports-game-delayed-over-cover-stars-dick-pic-scandal-1848120792)
+ - [Video Game Faces Might Finally Start Bridging The Uncanny Valley](https://kotaku.com/video-game-faces-might-finally-start-bridging-the-uncan-1848120656)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
