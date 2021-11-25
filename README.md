@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It&amp;rsquo;s like the eraser tool on PaintShop](http://9gag.com/gag/a51K96E)
- - 🚯 [Those were the golden days](http://9gag.com/gag/aOQmAVy)
- - 🚯 [My adult life so far](http://9gag.com/gag/aBnrjEN)<!-- MEMES:END -->
+ - 🚖 [My adult life so far](http://9gag.com/gag/aBnrjEN)
+ - 🚯 [It&amp;rsquo;s like the eraser tool on PaintShop](http://9gag.com/gag/a51K96E)
+ - 🚯 [Just how I remember it](http://9gag.com/gag/aKmBXBW)<!-- MEMES:END -->
 
 --- 
 
