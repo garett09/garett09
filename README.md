@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy S22 series: All the rumors in one place &lpar;Updated: Nov. 25&rpar;](https://www.androidauthority.com/samsung-galaxy-s22-1643006/)
- - [Apple will alert users exposed to state-sponsored spyware attacks](https://appleinsider.com/articles/21/11/25/apple-will-alert-users-exposed-to-state-sponsored-spyware-attacks?utm_medium=rss)
- - [Black Friday deals: 14&quot; MacBook Pro $1,799, 16&quot; $2,199, $120 to $150 off M1 MacBooks, AppleCare savings](https://appleinsider.com/articles/21/11/25/black-friday-deals-14-macbook-pro-179916-2199-120-to-150-off-m1-macbooks-applecare-savings?utm_medium=rss)<!-- TECH:END -->
+ - [Xiaomi could have its own at-home repair service soon &lpar;Updated: Xiaomi comment&rpar;](https://www.androidauthority.com/xiaomi-repairs-3064692/)
+ - [Q&amp;A with Christie&#39;s head of marketing Neda Whitney on selling NFTs, expanding beyond traditional high-value artwork, the metaverse, and more &lpar;Alexandra Bruell/Wall Street Journal&rpar;](http://www.techmeme.com/211125/p1#a211125p1)
+ - [Future Chromebooks might protect you from screen peekers](https://www.androidauthority.com/chromebooks-screen-snooping-protection-3065803/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
