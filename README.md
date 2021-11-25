@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Creating the new and classic outfits of Marvel’s Guardians of the Galaxy](https://blog.playstation.com/2021/11/25/creating-the-new-and-classic-outfits-of-marvels-guardians-of-the-galaxy/)
- - [Creating the new and classic outfits of Marvel’s Guardians of the Galaxy](https://blog.playstation.com/2021/11/25/creating-the-new-and-classic-outfits-of-marvels-guardians-of-the-galaxy/)
- - [The best D&amp;D campaigns](https://www.polygon.com/22791680/dungeons-dragons-best-campaign-book)<!-- GAME:END -->
+ - [Every James Bond movie is a story of its era](https://www.polygon.com/22801954/james-bond-movie-history)
+ - [The Nintendo Switch Has Crazy Sales On Right Now](https://kotaku.com/the-nintendo-switch-has-crazy-sales-on-right-now-1848122485)
+ - [Black Friday gaming headset deals 2021: cacophonous cans for your earholes](https://www.pcgamer.com/black-friday-gaming-headset-deals-2021)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
