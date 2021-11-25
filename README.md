@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Valheim developer says &#39;it&#39;s possible&#39; the game will get harder difficulty modes](https://www.pcgamer.com/valheim-developer-says-its-possible-the-game-will-get-harder-difficulty-modes)
- - [Black Friday gaming monitor deals 2021: the best and brightest screens at great prices](https://www.pcgamer.com/black-friday-gaming-monitor-deals-2021)
- - [Fire At Super Nintendo World, But Thankfully No One Was Injured](https://kotaku.com/fire-at-super-nintendo-world-but-thankfully-no-one-was-1848121705)<!-- GAME:END -->
+ - [All the Festival Playlist challenges in Forza Horizon 5 Series 1](https://www.pcgamer.com/forza-horizon-5-seasonal-challenges-festival-playlist)
+ - [Get a £350 gaming chair free with select Razer Blade gaming laptops](https://www.pcgamer.com/get-a-pound350-gaming-chair-free-with-select-razer-blade-gaming-laptops)
+ - [Save $650 on this 4K OLED gaming laptop from Gigabyte](https://www.pcgamer.com/save-dollar650-on-this-4k-oeld-gaming-laptop-from-gigabyte)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
