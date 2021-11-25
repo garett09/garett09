@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The RGB variant of our test bench cooler is $40 off and it&#39;s compatible with Alder Lake](https://www.pcgamer.com/the-rgb-variant-of-our-test-bench-cooler-is-dollar40-off-and-its-compatible-with-alder-lake)
- - [AMD Radeon RX 6000 GPU prices are set to rise even further](https://www.pcgamer.com/amd-radeon-rx-6000-gpu-prices-are-set-to-rise-even-further)
- - [Forum Post Sends Splinter Cells Fans Into Ban Panic [Updates]](https://kotaku.com/ubisoft-threatens-splinter-cell-fans-with-bans-if-they-1848121131)<!-- GAME:END -->
+ - [$3.5M Squid Game recreation is about as accurate as you can get without actually shooting anyone](https://www.pcgamer.com/mr-beast-squid-game-real-youtube)
+ - [Bandai Namco Black Friday Sale includes this confounding Dark Souls hoodie](https://www.pcgamer.com/bandai-namco-black-friday-sale-includes-this-confounding-dark-souls-hoodie)
+ - [The RGB variant of our test bench cooler is $40 off and it&#39;s compatible with Alder Lake](https://www.pcgamer.com/the-rgb-variant-of-our-test-bench-cooler-is-dollar40-off-and-its-compatible-with-alder-lake)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
