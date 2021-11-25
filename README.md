@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I&amp;#039;ve spent a lot of time painting every single beads, hope you like this Tibetan beauty!](http://9gag.com/gag/azeVy3j)
- - 🚯 [Harrya Pottey](http://9gag.com/gag/a31Lr25)
- - 🚯 [Just an idea](http://9gag.com/gag/a21qgBw)<!-- MEMES:END -->
+ - 🚖 [Just an idea](http://9gag.com/gag/a21qgBw)
+ - 🚯 [No-rope kazachok](http://9gag.com/gag/a81jO2Z)
+ - 🚯 [But how?](http://9gag.com/gag/aqG2wNP)<!-- MEMES:END -->
 
 --- 
 
