@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [WatchBox, an online marketplace for buying, selling, and trading luxury watches, raises $165M from investors including Michael Jordan and Giannis Antetokounmpo &lpar;Jabari Young/CNBC&rpar;](http://www.techmeme.com/211124/p25#a211124p25)
- - [Pinterest settles lawsuit that alleged racial and gender discrimination](https://www.theverge.com/2021/11/24/22801574/pinterest-racial-gender-discrimination-shareholder-lawsuit-settlement)
- - [Poshmark&#39;s market cap is now $1.4B, a 50%+ drop from its January IPO, as revenue growth slowed to 16% in Q3, down from 42% in Q1, amid Apple&#39;s privacy changes &lpar;Malique Morris/The Information&rpar;](http://www.techmeme.com/211124/p24#a211124p24)<!-- TECH:END -->
+ - [Thanksgiving Deal Zone: Apple&#39;s Intel MacBook Air on sale for $729 &lpar;$270 off&rpar;](https://appleinsider.com/articles/21/11/25/thanksgiving-deal-zone-apples-intel-macbook-air-on-sale-for-729-270-off?utm_medium=rss)
+ - [Google Doodle for Thanksgiving celebrates togetherness     - CNET](https://www.cnet.com/news/google-doodle-for-thanksgiving-celebrates-togetherness/#ftag=CAD590a51e)
+ - [Black Friday: Apple AirPods Pro dropped to their lowest price ever     - CNET](https://www.cnet.com/tech/mobile/apples-airpods-pro-just-dropped-to-their-lowest-price-ever/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
