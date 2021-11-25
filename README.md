@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Can&amp;#039;t tell if she&amp;#039;s into me or just wants ice cream.](http://9gag.com/gag/aNPK5GG)
- - 🚯 [Guess ill die](http://9gag.com/gag/aE8z5qM)
- - 🚯 [ONLY option you have](http://9gag.com/gag/a91P0vZ)<!-- MEMES:END -->
+ - 🚖 [Snow globe eye. Asteroid hyalosis is a condition where people have calcium deposits floating around in the eye.](http://9gag.com/gag/aPZGq8R)
+ - 🚯 [ONLY option you have](http://9gag.com/gag/a91P0vZ)
+ - 🚯 [The show is good, but the game will suck your soul dry.](http://9gag.com/gag/a31Lrw3)<!-- MEMES:END -->
 
 --- 
 
