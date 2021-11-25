@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Fire At Super Nintendo World, But Thankfully No One Was Injured](https://kotaku.com/fire-at-super-nintendo-world-but-thankfully-no-one-was-1848121705)
- - [7.6 Tons Of Fake Pokémon Cards Seized By Chinese Authorities](https://kotaku.com/7-6-tons-of-fake-pokemon-cards-seized-by-chinese-author-1848121674)
- - [This is one of the cheapest ways of getting an RTX 3080 around Black Friday](https://www.pcgamer.com/this-is-one-of-the-cheapest-ways-of-getting-an-rtx-3080-around-black-friday)<!-- GAME:END -->
+ - [Valheim developer says &#39;it&#39;s possible&#39; the game will get harder difficulty modes](https://www.pcgamer.com/valheim-developer-says-its-possible-the-game-will-get-harder-difficulty-modes)
+ - [Black Friday gaming monitor deals 2021: the best and brightest screens at great prices](https://www.pcgamer.com/black-friday-gaming-monitor-deals-2021)
+ - [Fire At Super Nintendo World, But Thankfully No One Was Injured](https://kotaku.com/fire-at-super-nintendo-world-but-thankfully-no-one-was-1848121705)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
