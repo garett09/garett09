@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Don&amp;#039;t try this at home kids](http://9gag.com/gag/avALK8Z)
- - 🚯 [Overload changes age](http://9gag.com/gag/avALj0E)
- - 🚯 [I present you, the best video of the internet](http://9gag.com/gag/apgBZm9)<!-- MEMES:END -->
+ - 🚖 [Well well well.](http://9gag.com/gag/aggNzwK)
+ - 🚯 [Don&amp;#039;t try this at home kids](http://9gag.com/gag/avALK8Z)
+ - 🚯 [Slav level of garlic](http://9gag.com/gag/aRrVpzG)<!-- MEMES:END -->
 
 --- 
 
