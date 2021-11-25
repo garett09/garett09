@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Bitter Sweet Symphony](http://9gag.com/gag/aDDm9pO)
+ - 🚖 [Results may vary](http://9gag.com/gag/abgbDQv)
  - 🚯 [My favourite Pok&amp;eacute;mon.](http://9gag.com/gag/apgB7X5)
- - 🚯 [Results may vary](http://9gag.com/gag/abgbDQv)<!-- MEMES:END -->
+ - 🚯 [Everyone&amp;#039;s favorite teacher](http://9gag.com/gag/aE8zKgN)<!-- MEMES:END -->
 
 --- 
 
