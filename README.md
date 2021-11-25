@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Black Friday 2021: The best Amazon, Walmart, and Target deals available now     - CNET](https://www.cnet.com/tech/best-black-friday-deals/#ftag=CAD590a51e)
- - [Motorola could one up its rivals with first 200MP camera phone](https://www.androidauthority.com/motorola-200mp-camera-phone-3065815/)
- - [Get Back review: Watch The Beatles making magic in their final days     - CNET](https://www.cnet.com/news/get-back-review-the-beatles-making-magic-in-their-final-days/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Baidu says it has won approval to start collecting fares for Apollo Go robotaxis in Beijing&#39;s Yizhuang district, the first such approval in a large Chinese city &lpar;Evelyn Cheng/CNBC&rpar;](http://www.techmeme.com/211125/p2#a211125p2)
+ - [How to connect Apple Music to Alexa](https://www.androidauthority.com/connect-apple-music-alexa-3065437/)
+ - [AMC Plus: Price, platforms, and more for the AMC Networks streaming service](https://www.androidauthority.com/what-is-amc-plus-3062070/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
