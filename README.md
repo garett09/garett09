@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Black Friday deals: 14&quot; MacBook Pro $1,799, 16&quot; $2,199, $120 to $150 off M1 MacBooks, AppleCare savings](https://appleinsider.com/articles/21/11/25/black-friday-deals-14-macbook-pro-179916-2199-120-to-150-off-m1-macbooks-applecare-savings?utm_medium=rss)
- - [Apple turns customers away at retail stores in Turkey](https://appleinsider.com/articles/21/11/24/apple-turns-customers-away-at-retail-stores-in-turkey?utm_medium=rss)
- - [Whistleblower casts doubt on Apple&#39;s claims that it doesn&#39;t silence employees](https://appleinsider.com/articles/21/11/23/whistleblower-casts-doubt-on-apples-claims-that-it-doesnt-silence-employees?utm_medium=rss)<!-- TECH:END -->
+ - [Pinterest settles lawsuit that alleged racial and gender discrimination](https://www.theverge.com/2021/11/24/22801574/pinterest-racial-gender-discrimination-shareholder-lawsuit-settlement)
+ - [Poshmark&#39;s market cap is now $1.4B, a 50%+ drop from its January IPO, as revenue growth slowed to 16% in Q3, down from 42% in Q1, amid Apple&#39;s privacy changes &lpar;Malique Morris/The Information&rpar;](http://www.techmeme.com/211124/p24#a211124p24)
+ - [Black Friday and Cyber Monday: Best Amazon deals on Ring, Echo, Fire TV and more     - CNET](https://www.cnet.com/home/smart-home/black-friday-starts-early-with-lowest-prices-ever-on-many-echo-fire-tablet-and-fire-tv-devices/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
