@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Just an idea](http://9gag.com/gag/a21qgBw)
+ - 🚖 [Harrya Pottey](http://9gag.com/gag/a31Lr25)
  - 🚯 [No-rope kazachok](http://9gag.com/gag/a81jO2Z)
- - 🚯 [But how?](http://9gag.com/gag/aqG2wNP)<!-- MEMES:END -->
+ - 🚯 [Overload changes age](http://9gag.com/gag/avALj0E)<!-- MEMES:END -->
 
 --- 
 
