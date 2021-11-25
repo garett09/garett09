@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Black Friday deals under $25](https://www.theverge.com/22796420/black-friday-2021-under-25-tech-deals-cheap-cyber-monday)
- - [GameStop’s best early Black Friday deals: games, accessories, and more](https://www.theverge.com/22796306/gamestop-black-friday-2021-deals-games-gaming-cyber-monday)
- - [8 Black Friday Apple deals on Amazon you won&#39;t want to miss](https://appleinsider.com/articles/21/11/25/8-black-friday-apple-deals-on-amazon-you-wont-want-to-miss?utm_medium=rss)<!-- TECH:END -->
+ - [Best Black Friday MacBook Pro deals: 14-inch $1,799, 16-inch $2,199, $120-$150 off MacBooks](https://appleinsider.com/articles/21/11/25/black-friday-deals-14-macbook-pro-179916-2199-120-to-150-off-m1-macbooks-applecare-savings?utm_medium=rss)
+ - [8 Black Friday Apple deals on Amazon you won&#39;t want to miss](https://appleinsider.com/articles/21/11/25/8-black-friday-apple-deals-on-amazon-you-wont-want-to-miss?utm_medium=rss)
+ - [The best early Black Friday deals on Apple devices](https://www.theverge.com/22787892/apple-black-friday-2021-deals-macbook-ipad-airpods-cyber-monday)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
