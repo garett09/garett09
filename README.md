@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Upgrading to WiFi 6 has never been cheaper thanks to this Netgear AX1800 access point at just $59](https://www.pcgamer.com/upgrading-to-wifi-6-has-never-been-cheaper-thanks-to-this-netgear-ax1800-access-point-at-just-dollar59)
  - [Nvidia&#39;s next AI can turn words into photorealistic images](https://www.pcgamer.com/nvidias-next-ai-can-turn-words-into-photorealistic-images)
- - [Could AMD switch its manufacturing from TSMC to Samsung?](https://www.pcgamer.com/could-amd-switch-its-manufacturing-from-tsmc-to-samsung)
- - [AMD&#39;s FidelityFX Super Resolution comes to open source engine Godot](https://www.pcgamer.com/amds-fidelityfx-super-resolution-comes-to-open-source-engine-godot)<!-- GAME:END -->
+ - [Could AMD switch its manufacturing from TSMC to Samsung?](https://www.pcgamer.com/could-amd-switch-its-manufacturing-from-tsmc-to-samsung)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
