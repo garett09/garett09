@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Canadian rescue](http://9gag.com/gag/awz7WOr)
+ - 🚖 [&amp;rdquo;Yikes, look at that creep&amp;rdquo;](http://9gag.com/gag/aqG2Eyv)
  - 🚯 [Don&amp;#039;t try this at home kids](http://9gag.com/gag/avALK8Z)
- - 🚯 [&amp;rdquo;Yikes, look at that creep&amp;rdquo;](http://9gag.com/gag/aqG2Eyv)<!-- MEMES:END -->
+ - 🚯 [Nick/ga](http://9gag.com/gag/a81jxyV)<!-- MEMES:END -->
 
 --- 
 
