@@ -187,8 +187,8 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- TECH:START -->
  - [8 Black Friday Apple deals on Amazon you won&#39;t want to miss](https://appleinsider.com/articles/21/11/25/8-black-friday-apple-deals-on-amazon-you-wont-want-to-miss?utm_medium=rss)
- - [Today only: Don’t miss these epic Black Friday SSD deals](https://www.androidauthority.com/black-friday-ssd-deals-3066411/)
- - [Apple&#39;s 2021 16-inch MacBook Pro is $300 off with Black Friday coupon, in stock now](https://appleinsider.com/articles/21/11/25/apples-2021-16-inch-macbook-pro-is-300-off-with-black-friday-coupon-in-stock-now?utm_medium=rss)<!-- TECH:END -->
+ - [Black Friday Mac mini deals: Models w/ 16GB RAM as low as $789, plus $20 off AppleCare](https://appleinsider.com/articles/21/11/24/black-friday-mac-mini-deals-models-w-16gb-ram-as-low-as-789-plus-20-off-applecare?utm_medium=rss)
+ - [Today only: Don’t miss these epic Black Friday SSD deals](https://www.androidauthority.com/black-friday-ssd-deals-3066411/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
