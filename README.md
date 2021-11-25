@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The RGB variant of our test bench cooler is $40 off and it&#39;s compatible with Alder Lake](https://www.pcgamer.com/the-rgb-variant-of-our-test-bench-cooler-is-dollar40-off-and-its-compatible-with-alder-lake)
  - [AMD Radeon RX 6000 GPU prices are set to rise even further](https://www.pcgamer.com/amd-radeon-rx-6000-gpu-prices-are-set-to-rise-even-further)
- - [Ubisoft Threatens Splinter Cell Fans With Bans If They Keep Asking About Multiplayer Servers [Update]](https://kotaku.com/ubisoft-threatens-splinter-cell-fans-with-bans-if-they-1848121131)
- - [Best Black Friday PC gaming deals in Australia: heaps of early discounts have landed](https://www.pcgamer.com/black-friday-2021-the-pc-gaming-deals-you-can-expect-in-australia)<!-- GAME:END -->
+ - [Forum Post Sends Splinter Cells Fans Into Ban Panic [Updates]](https://kotaku.com/ubisoft-threatens-splinter-cell-fans-with-bans-if-they-1848121131)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
