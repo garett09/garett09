@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Well well well.](http://9gag.com/gag/aggNzwK)
- - 🚯 [Don&amp;#039;t try this at home kids](http://9gag.com/gag/avALK8Z)
- - 🚯 [Slav level of garlic](http://9gag.com/gag/aRrVpzG)<!-- MEMES:END -->
+ - 🚖 [Is it too much to ask ?](http://9gag.com/gag/a31LX3N)
+ - 🚯 [Slav level of garlic](http://9gag.com/gag/aRrVpzG)
+ - 🚯 [Don&amp;#039;t try this at home kids](http://9gag.com/gag/avALK8Z)<!-- MEMES:END -->
 
 --- 
 
