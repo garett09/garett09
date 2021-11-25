@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Thanksgiving Deal Zone: Apple&#39;s Intel MacBook Air on sale for $729 &lpar;$270 off&rpar;](https://appleinsider.com/articles/21/11/25/thanksgiving-deal-zone-apples-intel-macbook-air-on-sale-for-729-270-off?utm_medium=rss)
- - [Google Doodle for Thanksgiving celebrates togetherness     - CNET](https://www.cnet.com/news/google-doodle-for-thanksgiving-celebrates-togetherness/#ftag=CAD590a51e)
- - [Black Friday: Apple AirPods Pro dropped to their lowest price ever     - CNET](https://www.cnet.com/tech/mobile/apples-airpods-pro-just-dropped-to-their-lowest-price-ever/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple will alert users exposed to state-sponsored spyware attacks](https://appleinsider.com/articles/21/11/25/apple-will-alert-users-exposed-to-state-sponsored-spyware-attacks?utm_medium=rss)
+ - [Black Friday deals: 14&quot; MacBook Pro $1,799, 16&quot; $2,199, $120 to $150 off M1 MacBooks, AppleCare savings](https://appleinsider.com/articles/21/11/25/black-friday-deals-14-macbook-pro-179916-2199-120-to-150-off-m1-macbooks-applecare-savings?utm_medium=rss)
+ - [AetherSX2 is a promising PS2 emulator for Android &lpar;Updated: PCSX2 team responds&rpar;](https://www.androidauthority.com/aethersx2-ps2-emulator-android-3062418/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
