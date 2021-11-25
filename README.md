@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best early Black Friday deals at Walmart](https://www.theverge.com/22784126/walmart-black-friday-2021-tech-cyber-monday-deals)
- - [Dell Black Friday deals: Laptops and desktops at deep discounts](https://www.androidauthority.com/dell-black-friday-2021-3065696/)
- - [The best early Black Friday deals at Target](https://www.theverge.com/22783434/target-black-friday-2021-deals-cyber-monday-tech-games)<!-- TECH:END -->
+ - [Best Buy&#39;s Black Friday sale has big discounts on OLED TVs, soundbars &amp; much more](https://appleinsider.com/articles/21/11/24/best-buys-black-friday-sale-has-big-discounts-on-oled-tvs-soundbars-much-more?utm_medium=rss)
+ - [Get a 1-year Sam&#39;s Club membership for just $19.99 + free gift card](https://appleinsider.com/articles/21/09/22/deal-alert-1-year-sams-club-membership-discounted-to-1999-free-food?utm_medium=rss)
+ - [Why a toaster from 1949 is still smarter than any sold today](https://www.theverge.com/22801890/sunbeam-radiant-control-toaster-t20-t35-vista)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
