@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Video Game Faces Might Finally Start Bridging The Uncanny Valley](https://kotaku.com/video-game-faces-might-finally-start-bridging-the-uncan-1848120656)
  - [Best Black Friday PC gaming deals in Australia: heaps of early discounts have landed](https://www.pcgamer.com/black-friday-2021-the-pc-gaming-deals-you-can-expect-in-australia)
- - [This gaming PC deal puts a Radeon RX 6700 XT under your desk for $1,600](https://www.pcgamer.com/this-gaming-pc-deal-puts-a-radeon-rx-6700-xt-under-your-desk-for-dollar1600)
- - [Official PlayStation Podcast 417: A Gut-Bustin’ Good Time](https://blog.playstation.com/2021/11/24/official-playstation-podcast-417-a-gut-bustin-good-time/)<!-- GAME:END -->
+ - [This gaming PC deal puts a Radeon RX 6700 XT under your desk for $1,600](https://www.pcgamer.com/this-gaming-pc-deal-puts-a-radeon-rx-6700-xt-under-your-desk-for-dollar1600)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
