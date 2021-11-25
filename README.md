@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: five Democratic senators voice their opposition to crypto critic Saule Omarova, Biden&#39;s pick to lead the OCC, effectively killing her nomination &lpar;Hans Nichols/Axios&rpar;](http://www.techmeme.com/211124/p22#a211124p22)
- - [Battle.net is partially down and Blizzard says it’s a DDoS attack](https://www.theverge.com/2021/11/24/22801521/blizzard-battle-net-down-ddos-attack-warzone-overwatch)
- - [Verizon and AT&amp;T offer to reduce the power coming from 5G towers for six months as the FAA examines possible aircraft interference &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/211124/p21#a211124p21)<!-- TECH:END -->
+ - [Black Friday deals: 14&quot; MacBook Pro $1,799,16&quot; $2,199, $120 to $150 off M1 MacBooks, AppleCare savings](https://appleinsider.com/articles/21/11/25/black-friday-deals-14-macbook-pro-179916-2199-120-to-150-off-m1-macbooks-applecare-savings?utm_medium=rss)
+ - [Check Point details MediaTek DSP firmware vulnerabilities in some Android smartphones that could be exploited to eavesdrop; MediaTek released patches in October &lpar;Nathaniel Mott/PCMag&rpar;](http://www.techmeme.com/211124/p23#a211124p23)
+ - [Black Friday MacBook Pro deals: Grab exclusive savings on 175 configs &lpar;including 2021 models&rpar;](https://appleinsider.com/articles/21/11/23/black-friday-macbook-pro-deals-grab-exclusive-savings-on-175-configs-including-2021-models?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
