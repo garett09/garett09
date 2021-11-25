@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Xiaomi could have its own at-home repair service soon &lpar;Updated: Xiaomi comment&rpar;](https://www.androidauthority.com/xiaomi-repairs-3064692/)
- - [Q&amp;A with Christie&#39;s head of marketing Neda Whitney on selling NFTs, expanding beyond traditional high-value artwork, the metaverse, and more &lpar;Alexandra Bruell/Wall Street Journal&rpar;](http://www.techmeme.com/211125/p1#a211125p1)
- - [Future Chromebooks might protect you from screen peekers](https://www.androidauthority.com/chromebooks-screen-snooping-protection-3065803/)<!-- TECH:END -->
+ - [Black Friday 2021: The best Amazon, Walmart, and Target deals available now     - CNET](https://www.cnet.com/tech/best-black-friday-deals/#ftag=CAD590a51e)
+ - [Motorola could one up its rivals with first 200MP camera phone](https://www.androidauthority.com/motorola-200mp-camera-phone-3065815/)
+ - [Get Back review: Watch The Beatles making magic in their final days     - CNET](https://www.cnet.com/news/get-back-review-the-beatles-making-magic-in-their-final-days/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
