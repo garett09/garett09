@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple turns customers away at retail stores in Turkey](https://appleinsider.com/articles/21/11/24/apple-turns-customers-away-at-retail-stores-in-turkey?utm_medium=rss)
- - [The new pro football NFT marketplace has a name: NFL All Day](https://www.theverge.com/2021/11/24/22801332/nfl-all-day-nft-sports-top-shot-collectible-dapper-labs)
- - [Almost buying a copy of the Constitution is easy, but giving the money back is hard](https://www.theverge.com/2021/11/24/22800995/constitutiondao-refund-progress-steep-gas-fees-cryptocurrency)<!-- TECH:END -->
+ - [Sources: five Democratic senators voice their opposition to crypto critic Saule Omarova, Biden&#39;s pick to lead the OCC, effectively killing her nomination &lpar;Hans Nichols/Axios&rpar;](http://www.techmeme.com/211124/p22#a211124p22)
+ - [Battle.net is partially down and Blizzard says it’s a DDoS attack](https://www.theverge.com/2021/11/24/22801521/blizzard-battle-net-down-ddos-attack-warzone-overwatch)
+ - [Verizon and AT&amp;T offer to reduce the power coming from 5G towers for six months as the FAA examines possible aircraft interference &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/211124/p21#a211124p21)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
