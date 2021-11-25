@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Our Favorite Smartwatches Do Much More Than Just Tell Time](https://www.wired.com/gallery/best-smartwatches)
- - [The snooze button is the best part of the world’s most hated gadget](https://www.theverge.com/22800691/snooze-button-alarm-clock-sleep-gadget-worst-best)
- - [Filings: Google Ireland will pay &amp;euro;218M in backdated corporation tax to Irish authorities; Google Ireland had &amp;euro;48.4B in revenue in 2020, up from &amp;euro;45.7B in 2019 &lpar;Charlie Taylor/The Irish Times&rpar;](http://www.techmeme.com/211125/p7#a211125p7)<!-- TECH:END -->
+ - [The best early Black Friday deals at Walmart](https://www.theverge.com/22784126/walmart-black-friday-2021-tech-cyber-monday-deals)
+ - [Dell Black Friday deals: Laptops and desktops at deep discounts](https://www.androidauthority.com/dell-black-friday-2021-3065696/)
+ - [The best early Black Friday deals at Target](https://www.theverge.com/22783434/target-black-friday-2021-deals-cyber-monday-tech-games)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
