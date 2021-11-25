@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Meet The Minecraft Players Who Beat The Game Without Leaving Spawn](https://kotaku.com/meet-the-minecraft-players-who-beat-the-game-without-le-1848122298)
- - [Black Friday gaming laptop deals 2021: the best laptop deals for any budget](https://www.pcgamer.com/black-friday-gaming-laptop-deals)
- - [The Logitech MX518, my favorite mouse ever, is half price for Black Friday](https://www.pcgamer.com/the-logitech-mx518-my-favorite-mouse-ever-is-half-price-for-black-friday)<!-- GAME:END -->
+ - [Black Panther #1 pushes Wakanda forward but rolls T’challa’s character back](https://www.polygon.com/reviews/22801291/black-panther-comic-series-new-avengers)
+ - [You can knock another 20% off used PC gaming kit thanks to this Amazon Warehouse Black Friday deal](https://www.pcgamer.com/you-can-knock-another-20-off-used-pc-gaming-kit-thanks-to-this-amazon-warehouse-black-friday-deal)
+ - [Black Friday gaming PC deals 2021: RTX 30-series gaming rigs from $870](https://www.pcgamer.com/black-friday-gaming-pc-deals-2021)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
