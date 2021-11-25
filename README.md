@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Black Panther #1 pushes Wakanda forward but rolls T’challa’s character back](https://www.polygon.com/reviews/22801291/black-panther-comic-series-new-avengers)
- - [You can knock another 20% off used PC gaming kit thanks to this Amazon Warehouse Black Friday deal](https://www.pcgamer.com/you-can-knock-another-20-off-used-pc-gaming-kit-thanks-to-this-amazon-warehouse-black-friday-deal)
- - [Black Friday gaming PC deals 2021: RTX 30-series gaming rigs from $870](https://www.pcgamer.com/black-friday-gaming-pc-deals-2021)<!-- GAME:END -->
+ - [This full-size gaming keyboard with RGB lighting and dedicated macro keys is just $20](https://www.pcgamer.com/this-full-size-gaming-keyboard-with-rgb-lighting-and-dedicated-macro-keys-is-just-dollar20)
+ - [Zendaya talks her role in Dune Part 2, a movie Timothée Chalamet can’t wait to see](https://www.polygon.com/22802249/zendaya-dune-part-2)
+ - [Black Panther #1 pushes Wakanda forward but rolls T’challa’s character back](https://www.polygon.com/reviews/22801291/black-panther-comic-series-new-avengers)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
