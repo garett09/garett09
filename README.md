@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Black Friday MacBook Pro deals: 14-inch $1,799, 16-inch $2,199, $120-$150 off MacBooks](https://appleinsider.com/articles/21/11/25/black-friday-deals-14-macbook-pro-179916-2199-120-to-150-off-m1-macbooks-applecare-savings?utm_medium=rss)
  - [8 Black Friday Apple deals on Amazon you won&#39;t want to miss](https://appleinsider.com/articles/21/11/25/8-black-friday-apple-deals-on-amazon-you-wont-want-to-miss?utm_medium=rss)
- - [The best early Black Friday deals on Apple devices](https://www.theverge.com/22787892/apple-black-friday-2021-deals-macbook-ipad-airpods-cyber-monday)<!-- TECH:END -->
+ - [Today only: Don’t miss these epic Black Friday SSD deals](https://www.androidauthority.com/black-friday-ssd-deals-3066411/)
+ - [Apple&#39;s 2021 16-inch MacBook Pro is $300 off with Black Friday coupon, in stock now](https://appleinsider.com/articles/21/11/25/apples-2021-16-inch-macbook-pro-is-300-off-with-black-friday-coupon-in-stock-now?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
