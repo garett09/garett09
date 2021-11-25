@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Powered by the Apocalypse is the best way to get started with tabletop role-playing games](https://www.polygon.com/tabletop-games/22787981/powered-by-the-apocalypse-tabletop-rpg-explainer)
  - [All the Festival Playlist challenges in Forza Horizon 5 Series 1](https://www.pcgamer.com/forza-horizon-5-seasonal-challenges-festival-playlist)
- - [Get a £350 gaming chair free with select Razer Blade gaming laptops](https://www.pcgamer.com/get-a-pound350-gaming-chair-free-with-select-razer-blade-gaming-laptops)
- - [Save $650 on this 4K OLED gaming laptop from Gigabyte](https://www.pcgamer.com/save-dollar650-on-this-4k-oeld-gaming-laptop-from-gigabyte)<!-- GAME:END -->
+ - [Get a £350 gaming chair free with select Razer Blade gaming laptops](https://www.pcgamer.com/get-a-pound350-gaming-chair-free-with-select-razer-blade-gaming-laptops)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
