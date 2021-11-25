@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Top 15 Halo Multiplayer Maps](https://kotaku.com/the-top-15-halo-multiplayer-maps-1848118279)
- - [Black Friday gaming PC deals 2021: RTX 30-series gaming rigs from $870](https://www.pcgamer.com/black-friday-gaming-pc-deals-2021)
- - [Don&#39;t pay more than this for a Black Friday gaming PC deal](https://www.pcgamer.com/dont-pay-more-than-this-for-a-black-friday-gaming-pc-deal)<!-- GAME:END -->
+ - [Creating the new and classic outfits of Marvel’s Guardians of the Galaxy](https://blog.playstation.com/2021/11/25/creating-the-new-and-classic-outfits-of-marvels-guardians-of-the-galaxy/)
+ - [Creating the new and classic outfits of Marvel’s Guardians of the Galaxy](https://blog.playstation.com/2021/11/25/creating-the-new-and-classic-outfits-of-marvels-guardians-of-the-galaxy/)
+ - [The best D&amp;D campaigns](https://www.polygon.com/22791680/dungeons-dragons-best-campaign-book)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
