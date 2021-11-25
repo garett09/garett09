@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best deals Thanksgiving Day: $120 off AirPods Max, $270 off Intel MacBook Air, and more!](https://appleinsider.com/articles/21/11/25/best-deals-thanksgiving-day-120-off-airpods-max-270-off-intel-macbook-air-and-more?utm_medium=rss)
- - [Sources: at least nine state-run Chinese firms, including China Mobile, tell staff to limit use of Tencent&#39;s domestic chat app Weixin, citing security concerns &lpar;Keith Zhai/Wall Street Journal&rpar;](http://www.techmeme.com/211125/p5#a211125p5)
- - [Pinterest settles lawsuit by shareholders over allegations of discrimination by pledging $50M to overhaul its corporate culture and promote diversity &lpar;Michael Levenson/New York Times&rpar;](http://www.techmeme.com/211125/p4#a211125p4)<!-- TECH:END -->
+ - [Our Favorite Smartwatches Do Much More Than Just Tell Time](https://www.wired.com/gallery/best-smartwatches)
+ - [The snooze button is the best part of the world’s most hated gadget](https://www.theverge.com/22800691/snooze-button-alarm-clock-sleep-gadget-worst-best)
+ - [Filings: Google Ireland will pay &amp;euro;218M in backdated corporation tax to Irish authorities; Google Ireland had &amp;euro;48.4B in revenue in 2020, up from &amp;euro;45.7B in 2019 &lpar;Charlie Taylor/The Irish Times&rpar;](http://www.techmeme.com/211125/p7#a211125p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
