@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Passerby doing what the city doesn&amp;#039;t do - unclogging the drain](http://9gag.com/gag/aAGpqNL)
- - 🚯 [For the first time, NASA rover captures wind sounds on Mars !](http://9gag.com/gag/aGzRroG)
- - 🚯 [Chaos Everywhere](http://9gag.com/gag/aBnrMdP)<!-- MEMES:END -->
+ - 🚖 [For the first time, NASA rover captures wind sounds on Mars !](http://9gag.com/gag/aGzRroG)
+ - 🚯 [Automated, concealed living spaces](http://9gag.com/gag/aqG2BRQ)
+ - 🚯 [In a parallel galaxy, near near by](http://9gag.com/gag/aQXnKrd)<!-- MEMES:END -->
 
 --- 
 
