@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Ubisoft Threatens Splinter Cell Fans With Bans If They Keep Asking About Multiplayer Servers](https://kotaku.com/ubisoft-threatens-splinter-cell-fans-with-bans-if-they-1848121131)
  - [Best Black Friday PC gaming deals in Australia: heaps of early discounts have landed](https://www.pcgamer.com/black-friday-2021-the-pc-gaming-deals-you-can-expect-in-australia)
- - [Sports Game Delayed Over Cover Star&#39;s Dick Pic Scandal](https://kotaku.com/sports-game-delayed-over-cover-stars-dick-pic-scandal-1848120792)
- - [Video Game Faces Might Finally Start Bridging The Uncanny Valley](https://kotaku.com/video-game-faces-might-finally-start-bridging-the-uncan-1848120656)<!-- GAME:END -->
+ - [Sports Game Delayed Over Cover Star&#39;s Dick Pic Scandal](https://kotaku.com/sports-game-delayed-over-cover-stars-dick-pic-scandal-1848120792)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
