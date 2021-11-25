@@ -193,7 +193,7 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It&amp;rsquo;s like the eraser tool on PaintShop](http://9gag.com/gag/a51K96E)
+ - 🚖 [For the first time, NASA rover captures wind sounds on Mars !](http://9gag.com/gag/aGzRroG)
  - 🚯 [Just how I remember it](http://9gag.com/gag/aKmBXBW)
  - 🚯 [Passerby doing what the city doesn&amp;#039;t do - unclogging the drain](http://9gag.com/gag/aAGpqNL)<!-- MEMES:END -->
 
