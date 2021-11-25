@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [$3.5M Squid Game recreation is about as accurate as you can get without actually shooting anyone](https://www.pcgamer.com/mr-beast-squid-game-real-youtube)
- - [Bandai Namco Black Friday Sale includes this confounding Dark Souls hoodie](https://www.pcgamer.com/bandai-namco-black-friday-sale-includes-this-confounding-dark-souls-hoodie)
- - [The RGB variant of our test bench cooler is $40 off and it&#39;s compatible with Alder Lake](https://www.pcgamer.com/the-rgb-variant-of-our-test-bench-cooler-is-dollar40-off-and-its-compatible-with-alder-lake)<!-- GAME:END -->
+ - [Nvidia&#39;s next AI can turn words into photorealistic images](https://www.pcgamer.com/nvidias-next-ai-can-turn-words-into-photorealistic-images)
+ - [Could AMD switch its manufacturing from TSMC to Samsung?](https://www.pcgamer.com/could-amd-switch-its-manufacturing-from-tsmc-to-samsung)
+ - [AMD&#39;s FidelityFX Super Resolution comes to open source engine Godot](https://www.pcgamer.com/amds-fidelityfx-super-resolution-comes-to-open-source-engine-godot)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
