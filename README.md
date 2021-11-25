@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Why the Apple Store Black Friday gift card offer isn&#39;t a great deal     - CNET](https://www.cnet.com/tech/mobile/heres-why-the-apple-store-black-friday-gift-card-offer-isnt-a-great-deal/#ftag=CAD590a51e)
- - [Get Hulu for 99 cents a month for a year &lpar;No, that’s not a typo&rpar;](https://www.androidauthority.com/hulu-99-cents-month-year-3065821/)
- - [iPhone 13 models compared: What&#39;s the difference between iPhone 13, Mini, Pro and Pro Max?     - CNET](https://www.cnet.com/tech/mobile/iphone-13-vs-iphone-13-mini-vs-iphone-13-pro-vs-iphone-13-pro-max/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Thanksgiving Deal Zone: Apple&#39;s Intel MacBook Air on sale for $729 &lpar;$270 off&rpar;](https://appleinsider.com/articles/21/11/25/thanksgiving-deal-zone-apples-intel-macbook-air-on-sale-for-729-270-off?utm_medium=rss)
+ - [Oppo Reno 7 Pro debuts with ‘cat-eye’ selfie camera, unique notification light](https://www.androidauthority.com/oppo-reno-7-series-3066019/)
+ - [Get 12 key Mac apps for $75 in Unclutter&#39;s Black Friday app bundle](https://appleinsider.com/articles/21/11/23/get-12-key-mac-apps-for-75-in-unclutters-black-friday-app-bundle?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
