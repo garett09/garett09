@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [New Shouting Game Will Really Boil Your Piss](https://kotaku.com/new-shouting-game-will-really-boil-your-piss-1848119949)
- - [Black Friday gaming keyboard and mouse deals 2021: mechanical switches for less](https://www.pcgamer.com/black-friday-keyboard-mouse-deals-2021)
- - [Black Friday gaming chair deals 2021: when and where to find the right chair for you](https://www.pcgamer.com/black-friday-gaming-chair-deals-2021)<!-- GAME:END -->
+ - [Shop Polygon merch store’s Black Friday Sale](https://www.polygon.com/deals/2021/11/25/22798601/polygon-merch-black-friday-2021-cyber-monday-sale)
+ - [This desktop console is the ultimate buddy for streamers and currently $40 off](https://www.pcgamer.com/this-desktop-console-is-the-ultimate-buddy-for-streamers-and-currently-dollar40-off)
+ - [Black Friday CPU cooler deal: Our favourite all-in-one is at a great price right now](https://www.pcgamer.com/black-friday-cpu-cooler-deal-our-favourite-all-in-one-is-at-a-great-price-right-now)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
