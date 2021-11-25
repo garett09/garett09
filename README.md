@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How one Nigerian university student turned to cybercrime during the pandemic to pay his bills, driven by high unemployment, few well-paying jobs, and boredom &lpar;Olatunji Olaigbe/The Record&rpar;](http://www.techmeme.com/211125/p11#a211125p11)
  - [8 Black Friday Apple deals on Amazon you won&#39;t want to miss](https://appleinsider.com/articles/21/11/25/8-black-friday-apple-deals-on-amazon-you-wont-want-to-miss?utm_medium=rss)
- - [Black Friday Mac mini deals: Models w/ 16GB RAM as low as $789, plus $20 off AppleCare](https://appleinsider.com/articles/21/11/24/black-friday-mac-mini-deals-models-w-16gb-ram-as-low-as-789-plus-20-off-applecare?utm_medium=rss)
- - [Today only: Don’t miss these epic Black Friday SSD deals](https://www.androidauthority.com/black-friday-ssd-deals-3066411/)<!-- TECH:END -->
+ - [Black Friday Mac mini deals: Models w/ 16GB RAM as low as $789, plus $20 off AppleCare](https://appleinsider.com/articles/21/11/24/black-friday-mac-mini-deals-models-w-16gb-ram-as-low-as-789-plus-20-off-applecare?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
