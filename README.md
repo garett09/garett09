@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Gotta make them dollas](http://9gag.com/gag/aWgOez4)
- - 🚯 [Today Sweden got their first female prime minister appointed and 8 hours, later she resigned.](http://9gag.com/gag/aGzRrnn)
- - 🚯 [In a parallel galaxy, near near by](http://9gag.com/gag/aQXnKrd)<!-- MEMES:END -->
+ - 🚖 [In a parallel galaxy, near near by](http://9gag.com/gag/aQXnKrd)
+ - 🚯 [Usually I skip this part ..](http://9gag.com/gag/aZrNXyz)
+ - 🚯 [Sooo my roommate forgot about his pizza and left it in the oven for two weeks, it came to life](http://9gag.com/gag/aegpE3v)<!-- MEMES:END -->
 
 --- 
 
