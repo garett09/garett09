@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Baidu says it has won approval to start collecting fares for Apollo Go robotaxis in Beijing&#39;s Yizhuang district, the first such approval in a large Chinese city &lpar;Evelyn Cheng/CNBC&rpar;](http://www.techmeme.com/211125/p2#a211125p2)
- - [How to connect Apple Music to Alexa](https://www.androidauthority.com/connect-apple-music-alexa-3065437/)
- - [AMC Plus: Price, platforms, and more for the AMC Networks streaming service](https://www.androidauthority.com/what-is-amc-plus-3062070/)<!-- TECH:END -->
+ - [Why the Apple Store Black Friday gift card offer isn&#39;t a great deal     - CNET](https://www.cnet.com/tech/mobile/heres-why-the-apple-store-black-friday-gift-card-offer-isnt-a-great-deal/#ftag=CAD590a51e)
+ - [Get Hulu for 99 cents a month for a year &lpar;No, that’s not a typo&rpar;](https://www.androidauthority.com/hulu-99-cents-month-year-3065821/)
+ - [iPhone 13 models compared: What&#39;s the difference between iPhone 13, Mini, Pro and Pro Max?     - CNET](https://www.cnet.com/tech/mobile/iphone-13-vs-iphone-13-mini-vs-iphone-13-pro-vs-iphone-13-pro-max/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
