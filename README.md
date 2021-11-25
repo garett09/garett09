@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Results may vary](http://9gag.com/gag/abgbDQv)
- - 🚯 [My favourite Pok&amp;eacute;mon.](http://9gag.com/gag/apgB7X5)
- - 🚯 [Everyone&amp;#039;s favorite teacher](http://9gag.com/gag/aE8zKgN)<!-- MEMES:END -->
+ - 🚖 [Is this accurate, my European brothers and sisters?](http://9gag.com/gag/aRrVW1G)
+ - 🚯 [ONLY option you have](http://9gag.com/gag/a91P0vZ)
+ - 🚯 [I&amp;#039;ve spent a lot of time painting every single beads, hope you like this Tibetan beauty!](http://9gag.com/gag/azeVy3j)<!-- MEMES:END -->
 
 --- 
 
