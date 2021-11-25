@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Thanksgiving Deal Zone: Apple&#39;s Intel MacBook Air on sale for $729 &lpar;$270 off&rpar;](https://appleinsider.com/articles/21/11/25/thanksgiving-deal-zone-apples-intel-macbook-air-on-sale-for-729-270-off?utm_medium=rss)
- - [Oppo Reno 7 Pro debuts with ‘cat-eye’ selfie camera, unique notification light](https://www.androidauthority.com/oppo-reno-7-series-3066019/)
- - [Get 12 key Mac apps for $75 in Unclutter&#39;s Black Friday app bundle](https://appleinsider.com/articles/21/11/23/get-12-key-mac-apps-for-75-in-unclutters-black-friday-app-bundle?utm_medium=rss)<!-- TECH:END -->
+ - [Best deals Thanksgiving Day: $120 off AirPods Max, $270 off Intel MacBook Air, and more!](https://appleinsider.com/articles/21/11/25/best-deals-thanksgiving-day-120-off-airpods-max-270-off-intel-macbook-air-and-more?utm_medium=rss)
+ - [Sources: at least nine state-run Chinese firms, including China Mobile, tell staff to limit use of Tencent&#39;s domestic chat app Weixin, citing security concerns &lpar;Keith Zhai/Wall Street Journal&rpar;](http://www.techmeme.com/211125/p5#a211125p5)
+ - [Pinterest settles lawsuit by shareholders over allegations of discrimination by pledging $50M to overhaul its corporate culture and promote diversity &lpar;Michael Levenson/New York Times&rpar;](http://www.techmeme.com/211125/p4#a211125p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
