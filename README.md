@@ -194,8 +194,8 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [For the first time, NASA rover captures wind sounds on Mars !](http://9gag.com/gag/aGzRroG)
- - 🚯 [Automated, concealed living spaces](http://9gag.com/gag/aqG2BRQ)
- - 🚯 [In a parallel galaxy, near near by](http://9gag.com/gag/aQXnKrd)<!-- MEMES:END -->
+ - 🚯 [Can confirm](http://9gag.com/gag/a91PewZ)
+ - 🚯 [- AAAEEttthhf Credits to scottnolasco](http://9gag.com/gag/adgpWpQ)<!-- MEMES:END -->
 
 --- 
 
