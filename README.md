@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Best Black Friday PC gaming deals in Australia: heaps of discounts have landed](https://www.pcgamer.com/black-friday-2021-the-pc-gaming-deals-you-can-expect-in-australia)
- - [Looking for an RTX 3070? This one comes with the rest of a gaming PC for $1,560](https://www.pcgamer.com/looking-for-an-rtx-3070-this-one-comes-with-the-rest-of-a-gaming-pc-for-dollar1560)
- - [Black Friday gaming keyboard deal: Our favourite wireless board is cheaper than ever](https://www.pcgamer.com/black-friday-gaming-keyboard-deal-our-favourite-wireless-board-is-cheaper-than-ever)<!-- GAME:END -->
+ - [New Shouting Game Will Really Boil Your Piss](https://kotaku.com/new-shouting-game-will-really-boil-your-piss-1848119949)
+ - [Black Friday gaming keyboard and mouse deals 2021: mechanical switches for less](https://www.pcgamer.com/black-friday-keyboard-mouse-deals-2021)
+ - [Black Friday gaming chair deals 2021: when and where to find the right chair for you](https://www.pcgamer.com/black-friday-gaming-chair-deals-2021)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
