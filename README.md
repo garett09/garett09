@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Upgrading to WiFi 6 has never been cheaper thanks to this Netgear AX1800 access point at just $59](https://www.pcgamer.com/upgrading-to-wifi-6-has-never-been-cheaper-thanks-to-this-netgear-ax1800-access-point-at-just-dollar59)
- - [Nvidia&#39;s next AI can turn words into photorealistic images](https://www.pcgamer.com/nvidias-next-ai-can-turn-words-into-photorealistic-images)
- - [Could AMD switch its manufacturing from TSMC to Samsung?](https://www.pcgamer.com/could-amd-switch-its-manufacturing-from-tsmc-to-samsung)<!-- GAME:END -->
+ - [Fire At Super Nintendo World, But Thankfully No One Was Injured](https://kotaku.com/fire-at-super-nintendo-world-but-thankfully-no-one-was-1848121705)
+ - [7.6 Tons Of Fake Pokémon Cards Seized By Chinese Authorities](https://kotaku.com/7-6-tons-of-fake-pokemon-cards-seized-by-chinese-author-1848121674)
+ - [This is one of the cheapest ways of getting an RTX 3080 around Black Friday](https://www.pcgamer.com/this-is-one-of-the-cheapest-ways-of-getting-an-rtx-3080-around-black-friday)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
