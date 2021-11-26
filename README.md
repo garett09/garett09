@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Why can&amp;#039;t we have more shows like this? [Drawn Together S01E01]](http://9gag.com/gag/a41Legd)
- - 🚯 [Hail Satan](http://9gag.com/gag/a11YzrR)
- - 🚯 [When you use 1% of your brain](http://9gag.com/gag/azeVN3q)<!-- MEMES:END -->
+ - 🚖 [Ah yes, the Dutch are a remarkable folk.](http://9gag.com/gag/a81jryY)
+ - 🚯 [The one and only... Rattttman](http://9gag.com/gag/aQXnwr2)
+ - 🚯 [Train Me!!!](http://9gag.com/gag/axBGpPn)<!-- MEMES:END -->
 
 --- 
 
