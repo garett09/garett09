@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How to fix holes in clothing](http://9gag.com/gag/a917j5j)
- - 🚯 [4 men and not a woman in sight. Another clear sign of inequality in the work force... Let&amp;#039;s unite for more women in open air, winter time, construction jobs](http://9gag.com/gag/avALYNd)
- - 🚯 [Train Me!!!](http://9gag.com/gag/axBGpPn)<!-- MEMES:END -->
+ - 🚖 [JAFFA! KREE!](http://9gag.com/gag/aqG54rp)
+ - 🚯 [GILF](http://9gag.com/gag/amg8D6V)
+ - 🚯 [You rang?](http://9gag.com/gag/aBnYR8z)<!-- MEMES:END -->
 
 --- 
 
