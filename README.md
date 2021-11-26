@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Cyberpunk 2077 Is Having Its First Good Day](https://kotaku.com/cyberpunk-2077-is-having-its-first-good-day-1848124954)
- - [This mod lets you treat Skyrim Anniversary Edition like a pick-and-choose buffet](https://www.pcgamer.com/this-mod-lets-you-treat-skyrim-anniversary-edition-like-a-pick-and-choose-buffet)
- - [Peter Jackson’s Beatles series Get Back is a feast for one particular kind of fan](https://www.polygon.com/reviews/22803457/the-beatles-get-back-review-documentary)<!-- GAME:END -->
+ - [Best Black Friday Best Buy deals: the bargains worth looking at for PC gamers](https://www.pcgamer.com/the-top-best-buy-black-friday-deals-the-bargains-worth-looking-at-for-pc-gamers)
+ - [Need a big, fast USB Stick and would like to not pay very much for it? I got you](https://www.pcgamer.com/need-a-big-fast-usb-stick-and-would-like-to-not-pay-very-much-for-it-i-got-you)
+ - [Cyberpunk 2077 Is Having Its First Good Day](https://kotaku.com/cyberpunk-2077-is-having-its-first-good-day-1848124954)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
