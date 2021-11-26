@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The one and only... Rattttman](http://9gag.com/gag/aQXnwr2)
- - 🚯 [Ah yes, the Dutch are a remarkable folk.](http://9gag.com/gag/a81jryY)
- - 🚯 [The owner of this bar created a dispenser to sell &amp;quot;cacha&amp;ccedil;a&amp;quot; &lpar;distilled drink very common in Brazil&rpar; and cigarettes automatically even when the bar is closed.](http://9gag.com/gag/aLvBYXM)<!-- MEMES:END -->
+ - 🚖 [Husband: Constantly losing games due to lag. Me downloading RDR2 at 40mb/s in the background:](http://9gag.com/gag/a51KL2g)
+ - 🚯 [Graphic on Easter-European server be like](http://9gag.com/gag/angBAW0)
+ - 🚯 [After decades of alcohol abuse, I&amp;#039;m 100 days sober and I&amp;#039;ve cleaned up my act got a job and bought a 1986 Suzuki SS80/Alto/Fronte. It&amp;#039;s not much, but it&amp;#039;s the car in the middle.](http://9gag.com/gag/a61LWV8)<!-- MEMES:END -->
 
 --- 
 
