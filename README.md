@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [&amp;rdquo;Yikes, look at that creep&amp;rdquo;](http://9gag.com/gag/aqG2Eyv)
- - 🚯 [Don&amp;#039;t try this at home kids](http://9gag.com/gag/avALK8Z)
- - 🚯 [Nick/ga](http://9gag.com/gag/a81jxyV)<!-- MEMES:END -->
+ - 🚖 [Nick/ga](http://9gag.com/gag/a81jxyV)
+ - 🚯 [Stunning indeed](http://9gag.com/gag/abgbn0L)
+ - 🚯 [I present you, the best video of the internet](http://9gag.com/gag/apgBZm9)<!-- MEMES:END -->
 
 --- 
 
