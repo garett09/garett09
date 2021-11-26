@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Shop Polygon merch store’s Black Friday Sale](https://www.polygon.com/deals/2021/11/25/22798601/polygon-merch-black-friday-2021-cyber-monday-sale)
- - [This desktop console is the ultimate buddy for streamers and currently $40 off](https://www.pcgamer.com/this-desktop-console-is-the-ultimate-buddy-for-streamers-and-currently-dollar40-off)
- - [Black Friday CPU cooler deal: Our favourite all-in-one is at a great price right now](https://www.pcgamer.com/black-friday-cpu-cooler-deal-our-favourite-all-in-one-is-at-a-great-price-right-now)<!-- GAME:END -->
+ - [Best Black Friday PC gaming deals in Australia: heaps of discounts have landed](https://www.pcgamer.com/black-friday-2021-the-pc-gaming-deals-you-can-expect-in-australia)
+ - [Woman Steals $680,000 To Spend On Gambling Game That Never Paid Out](https://kotaku.com/woman-steals-680-000-to-spend-on-gambling-game-that-ne-1848107674)
+ - [If you want a beefy laptop and don&#39;t care how much it costs, check out this beast from MSI](https://www.pcgamer.com/if-you-want-a-beefy-laptop-and-dont-care-how-much-it-costs-check-out-this-beast-from-msi)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
