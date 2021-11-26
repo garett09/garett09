@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Black Friday deals you can get right now](https://www.theverge.com/22802145/black-friday-2021-best-deals-tech-laptops-phones-tvs-headphones-gaming)
- - [Tile acquired, mouse vs trackpad, 35 great Mac apps &amp; utilities on the AppleInsider Podcast](https://appleinsider.com/articles/21/11/26/tile-acquired-mouse-vs-trackpad-35-great-mac-apps-utilities-on-the-appleinsider-podcast?utm_medium=rss)
- - [Why Is It So Hard to Believe In Other People’s Pain?](https://www.wired.com/story/pain-belief-and-the-consequences-of-scarrys-axiom)<!-- TECH:END -->
+ - [The best Black Friday deals you can get right now](https://www.theverge.com/22759214/black-friday-early-deals-best-headphones-laptops-gaming-tvs-tech-sale)
+ - [Apple AR headset in 2022 will have M1-level processing power, says Ming-Chi Kuo](https://appleinsider.com/articles/21/11/26/apple-ar-headset-to-feature-m1-mac-levels-of-processing-power-says-analyst?utm_medium=rss)
+ - [Will Nathan Drake Make This Jump in the Uncharted Trailer?](https://www.wired.com/story/will-nathan-drake-make-this-jump-in-the-uncharted-trailer)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
