@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Black Friday deals on 4K TVs](https://www.theverge.com/22796792/black-friday-tv-deals-2021-sony-lg-vizio-tcl-led-oled-qled-cyber-monday)
- - [Kazakhstan plans to ration power over winter to 50 registered crypto miners as illegal miners and mass relocations from China cause blackouts across the country &lpar;Martha Muir/Financial Times&rpar;](http://www.techmeme.com/211126/p10#a211126p10)
- - [8 Black Friday Apple deals on Amazon you won&#39;t want to miss](https://appleinsider.com/articles/21/11/25/8-black-friday-apple-deals-on-amazon-you-wont-want-to-miss?utm_medium=rss)<!-- TECH:END -->
+ - [Four gaming PCs you might actually buy for an RTX 3080, 3070 Ti or 3060 Ti on Black Friday](https://www.theverge.com/2021/11/26/22803778/black-friday-gaming-pc-prebuilt-sales-deals-rtx-3080-3070-3060)
+ - [The 15 Best Black Friday Deals on Coffee and Espresso Gear](https://www.wired.com/story/best-black-friday-coffee-deals-2021)
+ - [The best Black Friday deals you can get right now](https://www.theverge.com/22802145/black-friday-2021-best-deals-tech-laptops-phones-tvs-headphones-gaming)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
