@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Nick/ga](http://9gag.com/gag/a81jxyV)
- - 🚯 [Stunning indeed](http://9gag.com/gag/abgbn0L)
- - 🚯 [I present you, the best video of the internet](http://9gag.com/gag/apgBZm9)<!-- MEMES:END -->
+ - 🚖 [Imagine this happening to you](http://9gag.com/gag/ay9nbvr)
+ - 🚯 [I present you, the best video of the internet](http://9gag.com/gag/apgBZm9)
+ - 🚯 [Feels like I&amp;#039;m watching anime](http://9gag.com/gag/avALMXX)<!-- MEMES:END -->
 
 --- 
 
