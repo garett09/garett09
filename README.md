@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chinese e-commerce company Pinduoduo reports $3.3B in Q3 revenue, up 51% YoY, vs. $4.1B est., and 741.5M MAUs, up 15% YoY; stock is down 18%+ &lpar;Reuters&rpar;](http://www.techmeme.com/211126/p7#a211126p7)
- - [Insane OnePlus 9 Pro deal: Get $269 off the 12GB/256GB model](https://www.androidauthority.com/oneplus-9-pro-deal-black-friday-2021-3067126/)
- - [The best Black Friday deals on Microsoft devices](https://www.theverge.com/22796308/microsoft-black-friday-2021-deals-laptops-cyber-monday)<!-- TECH:END -->
+ - [Black Friday Chromebooks: Don’t miss these amazing deals!](https://www.androidauthority.com/black-friday-chromebooks-2021-3067278/)
+ - [Howard the Duck Is Even Worse than You Remember](https://www.wired.com/2021/11/geeks-guide-howard-the-duck)
+ - [Strange signals on Venus may be coming from an erupting volcano](https://www.theverge.com/2021/11/26/22797017/new-evidence-venus-is-volcanically-active)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
