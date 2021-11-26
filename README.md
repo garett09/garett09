@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Share of the Week: Feast](https://blog.playstation.com/2021/11/26/share-of-the-week-feast-2/)
- - [Share of the Week: Feast](https://blog.playstation.com/2021/11/26/share-of-the-week-feast-2/)
- - [Pick up a Dell curved 32-inch 1440p FreeSync gaming monitor for $330](https://www.pcgamer.com/pick-up-a-dell-curved-32-inch-1440p-freesync-gaming-monitor-for-dollar330)<!-- GAME:END -->
+ - [Cyberpunk 2077 Is Having Its First Good Day](https://kotaku.com/cyberpunk-2077-is-having-its-first-good-day-1848124954)
+ - [This mod lets you treat Skyrim Anniversary Edition like a pick-and-choose buffet](https://www.pcgamer.com/this-mod-lets-you-treat-skyrim-anniversary-edition-like-a-pick-and-choose-buffet)
+ - [Peter Jackson’s Beatles series Get Back is a feast for one particular kind of fan](https://www.polygon.com/reviews/22803457/the-beatles-get-back-review-documentary)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
