@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [WTF in Russia](http://9gag.com/gag/a51KmNO)
- - 🚯 [The one and only... Rattttman](http://9gag.com/gag/aQXnwr2)
- - 🚯 [Shitposting](http://9gag.com/gag/a71bzxL)<!-- MEMES:END -->
+ - 🚖 [Why can&amp;#039;t we have more shows like this? [Drawn Together S01E01]](http://9gag.com/gag/a41Legd)
+ - 🚯 [Hail Satan](http://9gag.com/gag/a11YzrR)
+ - 🚯 [When you use 1% of your brain](http://9gag.com/gag/azeVN3q)<!-- MEMES:END -->
 
 --- 
 
