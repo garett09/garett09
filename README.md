@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When you try to sue a restaurant for no reason and lose](http://9gag.com/gag/azeV09z)
- - 🚯 [Lesbian feminist Norah Vincent after spending 18 months disguised as a man.](http://9gag.com/gag/angBLDE)
- - 🚯 [FINISH HER!](http://9gag.com/gag/ajgnpvG)<!-- MEMES:END -->
+ - 🚖 [Introducing The Young &amp;lsquo;Uns](http://9gag.com/gag/amg8E62)
+ - 🚯 [Lamo](http://9gag.com/gag/a0ZY2wn)
+ - 🚯 [Gamers assemble](http://9gag.com/gag/a81jBqe)<!-- MEMES:END -->
 
 --- 
 
