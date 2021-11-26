@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Feels like I&amp;#039;m watching anime](http://9gag.com/gag/avALMXX)
- - 🚯 [Yeah, wtf Connor, you should be leading the resistance](http://9gag.com/gag/a31L6MN)
- - 🚯 [Instant gender equality](http://9gag.com/gag/axBG5OY)<!-- MEMES:END -->
+ - 🚖 [How to make Parents uncomfortable?](http://9gag.com/gag/avALNwW)
+ - 🚯 [Going back to single player games was the best gaming related decision I have ever made.](http://9gag.com/gag/aNPK7VA)
+ - 🚯 [Moron guy is moron!](http://9gag.com/gag/avALNVW)<!-- MEMES:END -->
 
 --- 
 
