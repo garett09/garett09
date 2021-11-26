@@ -180,8 +180,8 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- GAME:START -->
  - [Best Black Friday PC gaming deals in Australia: heaps of discounts have landed](https://www.pcgamer.com/black-friday-2021-the-pc-gaming-deals-you-can-expect-in-australia)
- - [Woman Steals $680,000 To Spend On Gambling Game That Never Paid Out](https://kotaku.com/woman-steals-680-000-to-spend-on-gambling-game-that-ne-1848107674)
- - [If you want a beefy laptop and don&#39;t care how much it costs, check out this beast from MSI](https://www.pcgamer.com/if-you-want-a-beefy-laptop-and-dont-care-how-much-it-costs-check-out-this-beast-from-msi)<!-- GAME:END -->
+ - [Fanatical&#39;s Black Friday sale includes time-limited flash deals just like Papa Steam used to make](https://www.pcgamer.com/fanaticals-black-friday-sale-includes-time-limited-flash-deals-just-like-papa-steam-used-to-make)
+ - [Best Black Friday PC gaming deals: gaming laptops from $850 and RTX 30-series gaming PCs with serious discounts](https://www.pcgamer.com/black-friday-pc-gaming-deals-2021)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
