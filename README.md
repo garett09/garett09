@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Black Friday gaming chair deals 2021: when and where to find the right chair for you](https://www.pcgamer.com/black-friday-gaming-chair-deals-2021)
- - [Battlefield 2042 update fixes crashing, revives and the OP hovercraft](https://www.pcgamer.com/battlefield-2042-update-fixes-crashing-revives-and-the-op-hovercraft)
- - [Bring cinematic experiences to your home for less with XGIMI projector Black Friday deals](https://www.pcgamer.com/bring-cinematic-experiences-to-your-home-for-less-with-xgimi-projector-black-friday-deals)<!-- GAME:END -->
+ - [Fine-tuning The Last of Us Part II’s interactive guitar](https://blog.playstation.com/2021/11/26/fine-tuning-the-last-of-us-part-iis-interactive-guitar/)
+ - [Fine-tuning The Last of Us Part II’s interactive guitar](https://blog.playstation.com/2021/11/26/fine-tuning-the-last-of-us-part-iis-interactive-guitar/)
+ - [Arcane is great TV even if you do not care about League of Legends](https://www.polygon.com/reviews/22800666/arcane-season-1-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
