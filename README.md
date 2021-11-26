@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Thank Black Friday gaming PC deals for this $1,470 Nvidia RTX 3060 Ti gaming PC](https://www.pcgamer.com/dell-xps-special-edition-black-friday-gaming-pc-deal)
- - [The perfect SSD partner for your Black Friday PS5 purchase is at an all time low price](https://www.pcgamer.com/the-perfect-ssd-partner-for-your-black-friday-ps5-purchase-is-at-an-all-time-low-price)
- - [Best Black Friday Secretlab gaming chair deals: treat yourself to a gaming throne](https://www.pcgamer.com/secretlab-black-friday-deals-2021)<!-- GAME:END -->
+ - [Share of the Week: Feast](https://blog.playstation.com/2021/11/26/share-of-the-week-feast-2/)
+ - [Share of the Week: Feast](https://blog.playstation.com/2021/11/26/share-of-the-week-feast-2/)
+ - [Pick up a Dell curved 32-inch 1440p FreeSync gaming monitor for $330](https://www.pcgamer.com/pick-up-a-dell-curved-32-inch-1440p-freesync-gaming-monitor-for-dollar330)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
