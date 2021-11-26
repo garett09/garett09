@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 32 Best Black Friday Deals for $50 or Less](https://www.wired.com/story/best-black-friday-deals-under-50-2021)
- - [The best headphone deals of Black Friday 2021](https://www.androidauthority.com/best-headphone-deals-1111467/)
- - [Chinese GPU maker Moore Threads raises a $313M Series A co-led by Source Code Capital, Shanghai Guosheng Group, and Bohai Sheng Industrial Fund Management &lpar;Liya Su/DealStreetAsia&rpar;](http://www.techmeme.com/211125/p15#a211125p15)<!-- TECH:END -->
+ - [Black Friday Deal Zone: Mac mini drops to $429 at B&amp;H today](https://appleinsider.com/articles/21/11/26/black-friday-deal-zone-mac-mini-drops-to-429-at-bh-today?utm_medium=rss)
+ - [The 43 Best Black Friday Deals at Amazon This Year](https://www.wired.com/story/best-amazon-black-friday-deals-2021)
+ - [The Best Black Friday Deals on Laptops and Home Office Gear](https://www.wired.com/story/best-black-friday-laptop-deals-2021)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
