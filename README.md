@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best Fallout 4 mods](https://www.pcgamer.com/best-fallout-4-mods)
- - [This ultra portable ASUS TUF gaming laptop is £150 off](https://www.pcgamer.com/this-ultra-portable-asus-tuf-gaming-laptop-is-pound150-off)
- - [The 8bitDo Pro 2 controller is great value at $45](https://www.pcgamer.com/the-8bitdo-pro-2-controller-is-great-value-at-dollar45)<!-- GAME:END -->
+ - [Get 20% off this Corsair 4000D PC Case right now](https://www.pcgamer.com/get-20-off-this-corsair-4000d-pc-case-right-now)
+ - [This Thermaltake Toughair 310 chip chiller is a steal at just $20](https://www.pcgamer.com/this-thermaltake-toughair-310-chip-chiller-is-a-steal-at-just-dollar20)
+ - [Get this RTX 3050 Ti gaming laptop for $435 off](https://www.pcgamer.com/get-this-rtx-3050-ti-gaming-laptop-for-dollar435-off)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
