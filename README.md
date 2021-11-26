@@ -194,7 +194,7 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Imagine this happening to you](http://9gag.com/gag/ay9nbvr)
- - 🚯 [I present you, the best video of the internet](http://9gag.com/gag/apgBZm9)
+ - 🚯 [Dominant species.](http://9gag.com/gag/aE8zmQM)
  - 🚯 [Feels like I&amp;#039;m watching anime](http://9gag.com/gag/avALMXX)<!-- MEMES:END -->
 
 --- 
