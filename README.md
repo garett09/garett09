@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 33 Best Black Friday Deals at Target Today](https://www.wired.com/story/best-target-black-friday-deals-2021)
- - [Exynos chips could land in way more Galaxy phones next year &lpar;Updated&rpar;](https://www.androidauthority.com/samsung-exynos-galaxy-phones-2022-3038627/)
- - [Best Black Friday MacBook Pro deals: 14-inch $1,799, 16-inch $2,199, $120-$150 off MacBooks](https://appleinsider.com/articles/21/11/25/black-friday-deals-14-macbook-pro-179916-2199-120-to-150-off-m1-macbooks-applecare-savings?utm_medium=rss)<!-- TECH:END -->
+ - [Best Black Friday Deals: Save up to $3500 on Macs, iPads, Apple Watch, AirPods, TVs, more](https://appleinsider.com/articles/21/11/26/best-black-friday-deals-save-up-to-3500-on-macs-ipads-apple-watch-airpods-tvs-more?utm_medium=rss)
+ - [Xiaomi Mi 11X review: Compelling value with a few caveats](https://www.androidauthority.com/xiaomi-mi-11x-review-3045278/)
+ - [The Best Black Friday Deals on STEM Toys for Kids](https://www.wired.com/story/best-black-friday-toy-deals-2021)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
