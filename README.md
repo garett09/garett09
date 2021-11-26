@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Wife came out, got divorced, family is toxic. It was a hard first solo holiday but dinner turned out](http://9gag.com/gag/aM4QgO6)
- - 🚯 [Happy thanksgiving!](http://9gag.com/gag/angBodo)
- - 🚯 [Feels like I&amp;#039;m watching anime](http://9gag.com/gag/avALMXX)<!-- MEMES:END -->
+ - 🚖 [Feels like I&amp;#039;m watching anime](http://9gag.com/gag/avALMXX)
+ - 🚯 [Yeah, wtf Connor, you should be leading the resistance](http://9gag.com/gag/a31L6MN)
+ - 🚯 [Instant gender equality](http://9gag.com/gag/axBG5OY)<!-- MEMES:END -->
 
 --- 
 
