@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Movie about life.](http://9gag.com/gag/amg8eV9)
- - 🚯 [How to make Parents uncomfortable?](http://9gag.com/gag/avALNwW)
- - 🚯 [Thanksgiving pie!!](http://9gag.com/gag/adgpEXD)<!-- MEMES:END -->
+ - 🚖 [When you try to sue a restaurant for no reason and lose](http://9gag.com/gag/azeV09z)
+ - 🚯 [Gamers assemble](http://9gag.com/gag/a81jBqe)
+ - 🚯 [Wife came out, got divorced, family is toxic. It was a hard first solo holiday but dinner turned out](http://9gag.com/gag/aM4QgO6)<!-- MEMES:END -->
 
 --- 
 
