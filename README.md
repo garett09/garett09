@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Imagine this happening to you](http://9gag.com/gag/ay9nbvr)
- - 🚯 [Dominant species.](http://9gag.com/gag/aE8zmQM)
+ - 🚖 [Wife came out, got divorced, family is toxic. It was a hard first solo holiday but dinner turned out](http://9gag.com/gag/aM4QgO6)
+ - 🚯 [Happy thanksgiving!](http://9gag.com/gag/angBodo)
  - 🚯 [Feels like I&amp;#039;m watching anime](http://9gag.com/gag/avALMXX)<!-- MEMES:END -->
 
 --- 
