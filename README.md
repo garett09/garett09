@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google agrees that its Privacy Sandbox APIs will be &quot;designed, developed, and implemented with regulatory oversight and input&quot; from UK&#39;s CMA and ICO &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/211126/p3#a211126p3)
- - [Black Friday 2021: Save big on popular Anker charging accessories](https://www.androidauthority.com/anker-chargers-black-friday-3066972/)
- - [Daily Authority: 💲 Best Black Friday deals and doppelganger dogs](https://www.androidauthority.com/newsletters/da-november-26-2021/)<!-- TECH:END -->
+ - [The best Black Friday deals you can get right now](https://www.theverge.com/22802145/black-friday-2021-best-deals-tech-laptops-phones-tvs-headphones-gaming)
+ - [Tile acquired, mouse vs trackpad, 35 great Mac apps &amp; utilities on the AppleInsider Podcast](https://appleinsider.com/articles/21/11/26/tile-acquired-mouse-vs-trackpad-35-great-mac-apps-utilities-on-the-appleinsider-podcast?utm_medium=rss)
+ - [Why Is It So Hard to Believe In Other People’s Pain?](https://www.wired.com/story/pain-belief-and-the-consequences-of-scarrys-axiom)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
