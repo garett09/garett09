@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ah yes, the Dutch are a remarkable folk.](http://9gag.com/gag/a81jryY)
- - 🚯 [The one and only... Rattttman](http://9gag.com/gag/aQXnwr2)
- - 🚯 [Train Me!!!](http://9gag.com/gag/axBGpPn)<!-- MEMES:END -->
+ - 🚖 [The one and only... Rattttman](http://9gag.com/gag/aQXnwr2)
+ - 🚯 [Ah yes, the Dutch are a remarkable folk.](http://9gag.com/gag/a81jryY)
+ - 🚯 [The owner of this bar created a dispenser to sell &amp;quot;cacha&amp;ccedil;a&amp;quot; &lpar;distilled drink very common in Brazil&rpar; and cigarettes automatically even when the bar is closed.](http://9gag.com/gag/aLvBYXM)<!-- MEMES:END -->
 
 --- 
 
