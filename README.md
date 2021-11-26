@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Get 20% off this Corsair 4000D PC Case right now](https://www.pcgamer.com/get-20-off-this-corsair-4000d-pc-case-right-now)
- - [This Thermaltake Toughair 310 chip chiller is a steal at just $20](https://www.pcgamer.com/this-thermaltake-toughair-310-chip-chiller-is-a-steal-at-just-dollar20)
- - [Get this RTX 3050 Ti gaming laptop for $435 off](https://www.pcgamer.com/get-this-rtx-3050-ti-gaming-laptop-for-dollar435-off)<!-- GAME:END -->
+ - [You get a lot of RAM for your dollar with this 32GB kit of G.Skill DDR4-3600 for just $100.](https://www.pcgamer.com/you-get-a-lot-of-ram-for-your-dollar-with-this-32gb-kit-of-gskill-ddr4-3600-for-just-dollar100)
+ - [This ASUS prebuild is the cheapest way to buy an RTX 3070 right now](https://www.pcgamer.com/this-asus-prebuild-is-the-cheapest-way-to-buy-an-rtx-3070-right-now)
+ - [The Seiren Mini is the best entry-level microphone with the best sound and cheaper than ever](https://www.pcgamer.com/the-seiren-mini-is-the-best-entry-level-microphone-with-the-best-sound-and-cheaper-than-ever)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
