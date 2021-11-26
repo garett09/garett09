@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Fine-tuning The Last of Us Part II’s interactive guitar](https://blog.playstation.com/2021/11/26/fine-tuning-the-last-of-us-part-iis-interactive-guitar/)
- - [Fine-tuning The Last of Us Part II’s interactive guitar](https://blog.playstation.com/2021/11/26/fine-tuning-the-last-of-us-part-iis-interactive-guitar/)
- - [Arcane is great TV even if you do not care about League of Legends](https://www.polygon.com/reviews/22800666/arcane-season-1-review)<!-- GAME:END -->
+ - [Animal Crossing: New Horizons Is Getting A Black Friday Event](https://kotaku.com/animal-crossing-new-horizons-is-getting-a-black-friday-1848010843)
+ - [Black Friday gaming monitor deals 2021: the best and brightest screens at great prices](https://www.pcgamer.com/black-friday-gaming-monitor-deals-2021)
+ - [Black Friday gaming PC deals 2021: RTX 30-series gaming rigs from $870](https://www.pcgamer.com/black-friday-gaming-pc-deals-2021)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
