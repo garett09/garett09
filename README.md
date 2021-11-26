@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I know it&amp;#039;s not much. But I managed to save approx. $300 usd for this bike. After years of cycling to go to work in a 3rd world country. Not bragging just sharing my happiness](http://9gag.com/gag/aPZGN3n)
- - 🚯 [JAFFA! KREE!](http://9gag.com/gag/aqG54rp)
- - 🚯 [Graphic on Easter-European server be like](http://9gag.com/gag/angBAW0)<!-- MEMES:END -->
+ - 🚖 [After decades of alcohol abuse, I&amp;#039;m 100 days sober and I&amp;#039;ve cleaned up my act got a job and bought a 1986 Suzuki SS80/Alto/Fronte. It&amp;#039;s not much, but it&amp;#039;s the car in the middle.](http://9gag.com/gag/a61LWV8)
+ - 🚯 [Graphic on Easter-European server be like](http://9gag.com/gag/angBAW0)
+ - 🚯 [How to fix holes in clothing](http://9gag.com/gag/a917j5j)<!-- MEMES:END -->
 
 --- 
 
