@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The 8bitDo Pro 2 controller is great value at $45](https://www.pcgamer.com/the-8bitdo-pro-2-controller-is-great-value-at-dollar45)
- - [Best Black Friday PC gaming deals in Australia: heaps of discounts have landed](https://www.pcgamer.com/black-friday-2021-the-pc-gaming-deals-you-can-expect-in-australia)
- - [Get &#39;Em, Jinx](https://kotaku.com/get-em-jinx-1848107057)<!-- GAME:END -->
+ - [The best Fallout 4 mods](https://www.pcgamer.com/best-fallout-4-mods)
+ - [This ultra portable ASUS TUF gaming laptop is £150 off](https://www.pcgamer.com/this-ultra-portable-asus-tuf-gaming-laptop-is-pound150-off)
+ - [The 8bitDo Pro 2 controller is great value at $45](https://www.pcgamer.com/the-8bitdo-pro-2-controller-is-great-value-at-dollar45)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
