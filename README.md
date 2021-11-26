@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Best Black Friday PC gaming deals in Australia: heaps of discounts have landed](https://www.pcgamer.com/black-friday-2021-the-pc-gaming-deals-you-can-expect-in-australia)
  - [Get &#39;Em, Jinx](https://kotaku.com/get-em-jinx-1848107057)
- - [Windows 11 review: We like it but you shouldn&#39;t be upgrading today](https://www.pcgamer.com/windows-11-review)
- - [Best Black Friday PC gaming deals in Australia: heaps of discounts have landed](https://www.pcgamer.com/black-friday-2021-the-pc-gaming-deals-you-can-expect-in-australia)<!-- GAME:END -->
+ - [Windows 11 review: We like it but you shouldn&#39;t be upgrading today](https://www.pcgamer.com/windows-11-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
