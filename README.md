@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Black Friday iPhone deals going on today](https://appleinsider.com/articles/21/11/26/best-black-friday-iphone-deals-going-on-today?utm_medium=rss)
- - [Sources: Chinese regulators have asked Didi Global&#39;s management to devise a plan to delist from NYSE because of concerns about leakage of sensitive data &lpar;Bloomberg&rpar;](http://www.techmeme.com/211125/p14#a211125p14)
- - [Apple AirPods Pro: This incredible Black Friday deal is now available     - CNET](https://www.cnet.com/tech/black-fridays-unbeatable-airpods-pro-deal-is-now-available/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The 32 Best Black Friday Deals for $50 or Less](https://www.wired.com/story/best-black-friday-deals-under-50-2021)
+ - [The best headphone deals of Black Friday 2021](https://www.androidauthority.com/best-headphone-deals-1111467/)
+ - [Chinese GPU maker Moore Threads raises a $313M Series A co-led by Source Code Capital, Shanghai Guosheng Group, and Bohai Sheng Industrial Fund Management &lpar;Liya Su/DealStreetAsia&rpar;](http://www.techmeme.com/211125/p15#a211125p15)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
