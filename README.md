@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Animal Crossing: New Horizons Is Getting A Black Friday Event](https://kotaku.com/animal-crossing-new-horizons-is-getting-a-black-friday-1848010843)
- - [Black Friday gaming monitor deals 2021: the best and brightest screens at great prices](https://www.pcgamer.com/black-friday-gaming-monitor-deals-2021)
- - [Black Friday gaming PC deals 2021: RTX 30-series gaming rigs from $870](https://www.pcgamer.com/black-friday-gaming-pc-deals-2021)<!-- GAME:END -->
+ - [Thank Black Friday gaming PC deals for this $1,470 Nvidia RTX 3060 Ti gaming PC](https://www.pcgamer.com/dell-xps-special-edition-black-friday-gaming-pc-deal)
+ - [The perfect SSD partner for your Black Friday PS5 purchase is at an all time low price](https://www.pcgamer.com/the-perfect-ssd-partner-for-your-black-friday-ps5-purchase-is-at-an-all-time-low-price)
+ - [Best Black Friday Secretlab gaming chair deals: treat yourself to a gaming throne](https://www.pcgamer.com/secretlab-black-friday-deals-2021)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
