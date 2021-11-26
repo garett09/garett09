@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Black Friday Deal Zone: Mac mini drops to $429 at B&amp;H today](https://appleinsider.com/articles/21/11/26/black-friday-deal-zone-mac-mini-drops-to-429-at-bh-today?utm_medium=rss)
- - [The 43 Best Black Friday Deals at Amazon This Year](https://www.wired.com/story/best-amazon-black-friday-deals-2021)
- - [The Best Black Friday Deals on Laptops and Home Office Gear](https://www.wired.com/story/best-black-friday-laptop-deals-2021)<!-- TECH:END -->
+ - [The 33 Best Black Friday Deals at Target Today](https://www.wired.com/story/best-target-black-friday-deals-2021)
+ - [Exynos chips could land in way more Galaxy phones next year &lpar;Updated&rpar;](https://www.androidauthority.com/samsung-exynos-galaxy-phones-2022-3038627/)
+ - [Best Black Friday MacBook Pro deals: 14-inch $1,799, 16-inch $2,199, $120-$150 off MacBooks](https://appleinsider.com/articles/21/11/25/black-friday-deals-14-macbook-pro-179916-2199-120-to-150-off-m1-macbooks-applecare-savings?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
