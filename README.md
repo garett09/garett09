@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How Deus Ex inspired a Wikipedia-style murder mystery](https://www.pcgamer.com/how-deus-ex-inspired-a-wikipedia-style-murder-mystery)
- - [Black Friday gaming PC deals 2021: RTX 30-series gaming rigs from $870](https://www.pcgamer.com/black-friday-gaming-pc-deals-2021)
- - [Where to get salt in Genshin Impact](https://www.pcgamer.com/genshin-impact-salt-location-sunshine-sprat)<!-- GAME:END -->
+ - [Black Friday gaming chair deals 2021: when and where to find the right chair for you](https://www.pcgamer.com/black-friday-gaming-chair-deals-2021)
+ - [Battlefield 2042 update fixes crashing, revives and the OP hovercraft](https://www.pcgamer.com/battlefield-2042-update-fixes-crashing-revives-and-the-op-hovercraft)
+ - [Bring cinematic experiences to your home for less with XGIMI projector Black Friday deals](https://www.pcgamer.com/bring-cinematic-experiences-to-your-home-for-less-with-xgimi-projector-black-friday-deals)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
