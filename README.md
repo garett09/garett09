@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple AR headset to feature M1 Mac levels of processing power, says analyst](https://appleinsider.com/articles/21/11/26/apple-ar-headset-to-feature-m1-mac-levels-of-processing-power-says-analyst?utm_medium=rss)
- - [We asked, you told us: Your current smartphone is pretty old](https://www.androidauthority.com/current-smartphone-age-survey-results-3066738/)
- - [Clean up nicely and save $125 with this Roomba Black Friday deal](https://www.androidauthority.com/roomba-692-black-friday-2021-3066839/)<!-- TECH:END -->
+ - [Google agrees that its Privacy Sandbox APIs will be &quot;designed, developed, and implemented with regulatory oversight and input&quot; from UK&#39;s CMA and ICO &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/211126/p3#a211126p3)
+ - [Black Friday 2021: Save big on popular Anker charging accessories](https://www.androidauthority.com/anker-chargers-black-friday-3066972/)
+ - [Daily Authority: 💲 Best Black Friday deals and doppelganger dogs](https://www.androidauthority.com/newsletters/da-november-26-2021/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
