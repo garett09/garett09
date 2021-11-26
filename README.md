@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Get Tile trackers for up to 40% off in this Amazon Black Friday deal](https://www.androidauthority.com/tile-trackers-black-friday-deal-3066769/)
- - [The Best Black Friday Vacuuming and Cleaning Deals](https://www.wired.com/story/best-black-friday-vacuum-deals-2021)
- - [25 Best Black Friday Deals on Phones, Tablets, and Smartwatches](https://www.wired.com/story/best-black-friday-phone-deals-tablet-watch-2021)<!-- TECH:END -->
+ - [32 Relaxing Black Friday Beauty and Self-Care Deals](https://www.wired.com/story/best-black-friday-beauty-deals-self-care-2021)
+ - [At 51% off, this Beats Studio 3 Black Friday deal absolutely slaps](https://www.androidauthority.com/beats-studio-3-black-friday-2021-3066813/)
+ - [Black Friday 2021: The latest deals on the greatest devices](https://www.androidauthority.com/black-friday-deals-3049753/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
