@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [14 Fascinating Unknown Indie Games To Play Straight Away](https://kotaku.com/14-fascinating-unknown-indie-games-to-play-right-now-1848124595)
- - [Black Friday SSD deals 2021: the fastest PC storage for the best price](https://www.pcgamer.com/black-friday-ssd-deals-2021)
- - [This RTX 2060 Black Friday gaming PC deal  makes getting a starter ray-tracing rig that little bit cheaper](https://www.pcgamer.com/cyberpower-gaming-pc-rtx-2060-black-friday-deal)<!-- GAME:END -->
+ - [Get a full 32GB of RAM for just $99 with this pair of G.Skill Ripjaws](https://www.pcgamer.com/get-a-full-32gb-of-ram-for-just-dollar99-with-this-pair-of-gskill-ripjaws)
+ - [Revenge of the Squidlike: You can now play Squid Game in CS:GO too](https://www.pcgamer.com/revenge-of-the-squidlike-you-can-now-play-squid-game-in-csgo-too)
+ - [Black Friday gaming PC deals UK: the best prebuilt systems on sale today](https://www.pcgamer.com/black-friday-gaming-pc-deals-uk)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
