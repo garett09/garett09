@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Lesbian feminist Norah Vincent after spending 18 months disguised as a man.](http://9gag.com/gag/angBLDE)
- - 🚯 [Lamo](http://9gag.com/gag/a0ZY2wn)
- - 🚯 [When you try to sue a restaurant for no reason and lose](http://9gag.com/gag/azeV09z)<!-- MEMES:END -->
+ - 🚖 [When you try to sue a restaurant for no reason and lose](http://9gag.com/gag/azeV09z)
+ - 🚯 [Lesbian feminist Norah Vincent after spending 18 months disguised as a man.](http://9gag.com/gag/angBLDE)
+ - 🚯 [FINISH HER!](http://9gag.com/gag/ajgnpvG)<!-- MEMES:END -->
 
 --- 
 
