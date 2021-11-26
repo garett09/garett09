@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Black Friday iPad deals: Save up to $200 instantly](https://appleinsider.com/articles/21/11/26/best-black-friday-ipad-deals-save-up-to-200-instantly?utm_medium=rss)
- - [The Best Black Friday TV and Soundbar Deals](https://www.wired.com/story/best-black-friday-tv-deals-2021)
- - [Apple Black Friday: The best deals we could find](https://www.androidauthority.com/apple-black-friday-2021-3067328/)<!-- TECH:END -->
+ - [You can save $50 on all Samsung Galaxy Watch 4 models at various retailers](https://www.androidauthority.com/samsung-galaxy-watch-black-friday-3067364/)
+ - [The 49 Best Black Friday Deals for $50 or Less](https://www.wired.com/story/best-black-friday-deals-under-50-2021-1)
+ - [Google Black Friday deals: The best savings we could find](https://www.androidauthority.com/google-black-friday-2021-3067390/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
