@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How to make Parents uncomfortable?](http://9gag.com/gag/avALNwW)
- - 🚯 [Going back to single player games was the best gaming related decision I have ever made.](http://9gag.com/gag/aNPK7VA)
- - 🚯 [Moron guy is moron!](http://9gag.com/gag/avALNVW)<!-- MEMES:END -->
+ - 🚖 [Movie about life.](http://9gag.com/gag/amg8eV9)
+ - 🚯 [How to make Parents uncomfortable?](http://9gag.com/gag/avALNwW)
+ - 🚯 [Thanksgiving pie!!](http://9gag.com/gag/adgpEXD)<!-- MEMES:END -->
 
 --- 
 
