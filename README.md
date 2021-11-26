@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Best Black Friday Best Buy deals: the bargains worth looking at for PC gamers](https://www.pcgamer.com/the-top-best-buy-black-friday-deals-the-bargains-worth-looking-at-for-pc-gamers)
- - [Need a big, fast USB Stick and would like to not pay very much for it? I got you](https://www.pcgamer.com/need-a-big-fast-usb-stick-and-would-like-to-not-pay-very-much-for-it-i-got-you)
- - [Cyberpunk 2077 Is Having Its First Good Day](https://kotaku.com/cyberpunk-2077-is-having-its-first-good-day-1848124954)<!-- GAME:END -->
+ - [South Park: Post Covid jumps 40 years into the equally dumb future](https://www.polygon.com/22803478/south-park-post-covid-review-paramount-plus)
+ - [How to make Metroid Dread soup](https://www.polygon.com/videos/22789608/metroid-dread-scary-horror-fusion-soup)
+ - [Zombie company Atari to devour MobyGames](https://www.pcgamer.com/zombie-company-atari-to-devour-mobygames)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
