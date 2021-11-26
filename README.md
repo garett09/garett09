@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Black Friday gaming PC deals UK: the best prebuilt systems on sale today](https://www.pcgamer.com/black-friday-gaming-pc-deals-uk)
- - [Japan Has Black Friday For Some Reason](https://kotaku.com/japan-now-has-black-friday-for-some-reason-1848124118)
- - [Black Friday gaming monitor deals UK: punchy panels for tear-free gaming](https://www.pcgamer.com/black-friday-gaming-monitor-deals-uk)<!-- GAME:END -->
+ - [How Deus Ex inspired a Wikipedia-style murder mystery](https://www.pcgamer.com/how-deus-ex-inspired-a-wikipedia-style-murder-mystery)
+ - [Black Friday gaming PC deals 2021: RTX 30-series gaming rigs from $870](https://www.pcgamer.com/black-friday-gaming-pc-deals-2021)
+ - [Where to get salt in Genshin Impact](https://www.pcgamer.com/genshin-impact-salt-location-sunshine-sprat)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
