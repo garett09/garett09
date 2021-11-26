@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Introducing The Young &amp;lsquo;Uns](http://9gag.com/gag/amg8E62)
- - 🚯 [Moron guy is moron!](http://9gag.com/gag/avALNVW)
+ - 🚖 [Lesbian feminist Norah Vincent after spending 18 months disguised as a man.](http://9gag.com/gag/angBLDE)
+ - 🚯 [Lamo](http://9gag.com/gag/a0ZY2wn)
  - 🚯 [When you try to sue a restaurant for no reason and lose](http://9gag.com/gag/azeV09z)<!-- MEMES:END -->
 
 --- 
