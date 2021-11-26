@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [25 Best Black Friday Deals on Phones, Tablets, and Smartwatches](https://www.wired.com/story/best-black-friday-phone-deals-tablet-watch-2021)
- - [Best Black Friday MacBook Pro deals: 14-inch $1,799, 16-inch $2,199, $120-$150 off MacBooks](https://appleinsider.com/articles/21/11/25/black-friday-deals-14-macbook-pro-179916-2199-120-to-150-off-m1-macbooks-applecare-savings?utm_medium=rss)
- - [Kuo: Apple AR headset to launch in late 2022 with an M1-like chip and no tethering to a Mac or an iPhone; Apple wants to replace the iPhone with AR in 10 years &lpar;Eric Slivka/MacRumors&rpar;](http://www.techmeme.com/211126/p1#a211126p1)<!-- TECH:END -->
+ - [Get Tile trackers for up to 40% off in this Amazon Black Friday deal](https://www.androidauthority.com/tile-trackers-black-friday-deal-3066769/)
+ - [The Best Black Friday Vacuuming and Cleaning Deals](https://www.wired.com/story/best-black-friday-vacuum-deals-2021)
+ - [25 Best Black Friday Deals on Phones, Tablets, and Smartwatches](https://www.wired.com/story/best-black-friday-phone-deals-tablet-watch-2021)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
