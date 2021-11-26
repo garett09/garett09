@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [32 Relaxing Black Friday Beauty and Self-Care Deals](https://www.wired.com/story/best-black-friday-beauty-deals-self-care-2021)
- - [At 51% off, this Beats Studio 3 Black Friday deal absolutely slaps](https://www.androidauthority.com/beats-studio-3-black-friday-2021-3066813/)
- - [Black Friday 2021: The latest deals on the greatest devices](https://www.androidauthority.com/black-friday-deals-3049753/)<!-- TECH:END -->
+ - [Apple AR headset to feature M1 Mac levels of processing power, says analyst](https://appleinsider.com/articles/21/11/26/apple-ar-headset-to-feature-m1-mac-levels-of-processing-power-says-analyst?utm_medium=rss)
+ - [We asked, you told us: Your current smartphone is pretty old](https://www.androidauthority.com/current-smartphone-age-survey-results-3066738/)
+ - [Clean up nicely and save $125 with this Roomba Black Friday deal](https://www.androidauthority.com/roomba-692-black-friday-2021-3066839/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
