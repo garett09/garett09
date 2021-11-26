@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [You can save $50 on all Samsung Galaxy Watch 4 models at various retailers](https://www.androidauthority.com/samsung-galaxy-watch-black-friday-3067364/)
- - [The 49 Best Black Friday Deals for $50 or Less](https://www.wired.com/story/best-black-friday-deals-under-50-2021-1)
- - [Google Black Friday deals: The best savings we could find](https://www.androidauthority.com/google-black-friday-2021-3067390/)<!-- TECH:END -->
+ - [The best Black Friday deals on 4K TVs](https://www.theverge.com/22796792/black-friday-tv-deals-2021-sony-lg-vizio-tcl-led-oled-qled-cyber-monday)
+ - [Kazakhstan plans to ration power over winter to 50 registered crypto miners as illegal miners and mass relocations from China cause blackouts across the country &lpar;Martha Muir/Financial Times&rpar;](http://www.techmeme.com/211126/p10#a211126p10)
+ - [8 Black Friday Apple deals on Amazon you won&#39;t want to miss](https://appleinsider.com/articles/21/11/25/8-black-friday-apple-deals-on-amazon-you-wont-want-to-miss?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
