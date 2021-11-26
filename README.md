@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Black Friday 2021: The latest deals on the greatest devices](https://www.androidauthority.com/black-friday-deals-3049753/)
- - [The Absolute Best Black Friday Deals Online Right Now](https://www.wired.com/story/best-black-friday-deals-2021)
- - [23 Black Friday deals you shouldn&#39;t wait until tomorrow to purchase     - CNET](https://www.cnet.com/tech/dont-wait-to-buy-these-black-friday-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [UMC and Micron agree to withdraw their IP complaints against each other, with UMC paying Micron a one-time undisclosed sum, following a years-long legal battle &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/211125/p13#a211125p13)
+ - [I&#39;ve recommended these 3 Amazon Black Friday deals to so many people     - CNET](https://www.cnet.com/tech/three-black-friday-deals-i-keep-recommending/#ftag=CAD590a51e)
+ - [Black Friday 2021: The latest deals on the greatest devices](https://www.androidauthority.com/black-friday-deals-3049753/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
