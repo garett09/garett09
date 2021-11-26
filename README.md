@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [South Park: Post Covid jumps 40 years into the equally dumb future](https://www.polygon.com/22803478/south-park-post-covid-review-paramount-plus)
- - [How to make Metroid Dread soup](https://www.polygon.com/videos/22789608/metroid-dread-scary-horror-fusion-soup)
- - [Zombie company Atari to devour MobyGames](https://www.pcgamer.com/zombie-company-atari-to-devour-mobygames)<!-- GAME:END -->
+ - [14 Fascinating Unknown Indie Games To Play Straight Away](https://kotaku.com/14-fascinating-unknown-indie-games-to-play-right-now-1848124595)
+ - [Black Friday SSD deals 2021: the fastest PC storage for the best price](https://www.pcgamer.com/black-friday-ssd-deals-2021)
+ - [This RTX 2060 Black Friday gaming PC deal  makes getting a starter ray-tracing rig that little bit cheaper](https://www.pcgamer.com/cyberpower-gaming-pc-rtx-2060-black-friday-deal)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
