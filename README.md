@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Best Black Friday Best Buy deals: the bargains worth looking at for PC gamers](https://www.pcgamer.com/the-top-best-buy-black-friday-deals-the-bargains-worth-looking-at-for-pc-gamers)
- - [Why Lineage2M is the MMO to play over the holidays](https://www.pcgamer.com/why-lineage2m-is-the-mmo-to-play-over-the-holidays)
- - [You get a lot of RAM for your dollar with this 32GB kit of G.Skill DDR4-3600 for just $100.](https://www.pcgamer.com/you-get-a-lot-of-ram-for-your-dollar-with-this-32gb-kit-of-gskill-ddr4-3600-for-just-dollar100)<!-- GAME:END -->
+ - [Black Friday gaming PC deals UK: the best prebuilt systems on sale today](https://www.pcgamer.com/black-friday-gaming-pc-deals-uk)
+ - [Japan Has Black Friday For Some Reason](https://kotaku.com/japan-now-has-black-friday-for-some-reason-1848124118)
+ - [Black Friday gaming monitor deals UK: punchy panels for tear-free gaming](https://www.pcgamer.com/black-friday-gaming-monitor-deals-uk)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
