@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Get a full 32GB of RAM for just $99 with this pair of G.Skill Ripjaws](https://www.pcgamer.com/get-a-full-32gb-of-ram-for-just-dollar99-with-this-pair-of-gskill-ripjaws)
- - [Revenge of the Squidlike: You can now play Squid Game in CS:GO too](https://www.pcgamer.com/revenge-of-the-squidlike-you-can-now-play-squid-game-in-csgo-too)
- - [Black Friday gaming PC deals UK: the best prebuilt systems on sale today](https://www.pcgamer.com/black-friday-gaming-pc-deals-uk)<!-- GAME:END -->
+ - [Black Friday gaming keyboard and mouse deals 2021: mechanical switches for less](https://www.pcgamer.com/black-friday-keyboard-mouse-deals-2021)
+ - [Get $500 off this tricked-out RTX 3070 Ti gaming PC](https://www.pcgamer.com/get-dollar500-off-this-tricked-out-rtx-3070-ti-gaming-pc)
+ - [Gigabyte G5 gaming laptop with a Core i5 CPU and RTX 3050 Ti is down to $849 at Newegg](https://www.pcgamer.com/gigabyte-g5-gaming-laptop-with-a-core-i5-cpu-and-rtx-3050-ti-is-down-to-dollar849-at-newegg)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
