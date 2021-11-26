@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Black Friday Chromebooks: Don’t miss these amazing deals!](https://www.androidauthority.com/black-friday-chromebooks-2021-3067278/)
- - [Howard the Duck Is Even Worse than You Remember](https://www.wired.com/2021/11/geeks-guide-howard-the-duck)
- - [Strange signals on Venus may be coming from an erupting volcano](https://www.theverge.com/2021/11/26/22797017/new-evidence-venus-is-volcanically-active)<!-- TECH:END -->
+ - [Black Friday 2021 PC deals: accessories, headphones, and more](https://www.theverge.com/22792008/black-friday-2021-pc-accessories-computer-cyber-monday)
+ - [Black Friday 2021 smart home tech deals: speakers, cameras, robots, and more](https://www.theverge.com/22789311/black-friday-2021-smart-home-tech-speakers-cameras-cyber-monday)
+ - [Best Black Friday Deals: Save up to $3500 on Macs, iPads, Apple Watch, AirPods, TVs, more](https://appleinsider.com/articles/21/11/26/best-black-friday-deals-save-up-to-3500-on-macs-ipads-apple-watch-airpods-tvs-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
