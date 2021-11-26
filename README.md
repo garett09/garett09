@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Black Friday be like...](http://9gag.com/gag/aegpvQW)
- - 🚯 [Solomon Islands people burnt down their national parliament after its government cut ties with Taiwan in favour of China. Take notes people.](http://9gag.com/gag/aAGpoB0)
- - 🚯 [May Corona Be With You...](http://9gag.com/gag/a0ZYAQq)<!-- MEMES:END -->
+ - 🚖 [WTF in Russia](http://9gag.com/gag/a51KmNO)
+ - 🚯 [The one and only... Rattttman](http://9gag.com/gag/aQXnwr2)
+ - 🚯 [Shitposting](http://9gag.com/gag/a71bzxL)<!-- MEMES:END -->
 
 --- 
 
