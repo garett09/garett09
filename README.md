@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [After decades of alcohol abuse, I&amp;#039;m 100 days sober and I&amp;#039;ve cleaned up my act got a job and bought a 1986 Suzuki SS80/Alto/Fronte. It&amp;#039;s not much, but it&amp;#039;s the car in the middle.](http://9gag.com/gag/a61LWV8)
- - 🚯 [Graphic on Easter-European server be like](http://9gag.com/gag/angBAW0)
- - 🚯 [How to fix holes in clothing](http://9gag.com/gag/a917j5j)<!-- MEMES:END -->
+ - 🚖 [How to fix holes in clothing](http://9gag.com/gag/a917j5j)
+ - 🚯 [4 men and not a woman in sight. Another clear sign of inequality in the work force... Let&amp;#039;s unite for more women in open air, winter time, construction jobs](http://9gag.com/gag/avALYNd)
+ - 🚯 [Train Me!!!](http://9gag.com/gag/axBGpPn)<!-- MEMES:END -->
 
 --- 
 
