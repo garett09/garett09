@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Black Friday deals on Google devices](https://www.theverge.com/22788031/google-black-friday-2021-deals-cyber-monday)
- - [The best Black Friday tech deals under $50](https://www.theverge.com/22789905/black-friday-2021-tech-deals-under-50-cyber-monday)
- - [The Verge’s Guide to Black Friday 2021](https://www.theverge.com/21583092/black-friday-guide-cyber-monday-tech-gadgets)<!-- TECH:END -->
+ - [Chinese e-commerce company Pinduoduo reports $3.3B in Q3 revenue, up 51% YoY, vs. $4.1B est., and 741.5M MAUs, up 15% YoY; stock is down 18%+ &lpar;Reuters&rpar;](http://www.techmeme.com/211126/p7#a211126p7)
+ - [Insane OnePlus 9 Pro deal: Get $269 off the 12GB/256GB model](https://www.androidauthority.com/oneplus-9-pro-deal-black-friday-2021-3067126/)
+ - [The best Black Friday deals on Microsoft devices](https://www.theverge.com/22796308/microsoft-black-friday-2021-deals-laptops-cyber-monday)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
