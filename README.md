@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The 8bitDo Pro 2 controller is great value at $45](https://www.pcgamer.com/the-8bitdo-pro-2-controller-is-great-value-at-dollar45)
  - [Best Black Friday PC gaming deals in Australia: heaps of discounts have landed](https://www.pcgamer.com/black-friday-2021-the-pc-gaming-deals-you-can-expect-in-australia)
- - [Get &#39;Em, Jinx](https://kotaku.com/get-em-jinx-1848107057)
- - [Windows 11 review: We like it but you shouldn&#39;t be upgrading today](https://www.pcgamer.com/windows-11-review)<!-- GAME:END -->
+ - [Get &#39;Em, Jinx](https://kotaku.com/get-em-jinx-1848107057)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
