@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [You get a lot of RAM for your dollar with this 32GB kit of G.Skill DDR4-3600 for just $100.](https://www.pcgamer.com/you-get-a-lot-of-ram-for-your-dollar-with-this-32gb-kit-of-gskill-ddr4-3600-for-just-dollar100)
- - [This ASUS prebuild is the cheapest way to buy an RTX 3070 right now](https://www.pcgamer.com/this-asus-prebuild-is-the-cheapest-way-to-buy-an-rtx-3070-right-now)
- - [The Seiren Mini is the best entry-level microphone with the best sound and cheaper than ever](https://www.pcgamer.com/the-seiren-mini-is-the-best-entry-level-microphone-with-the-best-sound-and-cheaper-than-ever)<!-- GAME:END -->
+ - [Best Black Friday Best Buy deals: the bargains worth looking at for PC gamers](https://www.pcgamer.com/the-top-best-buy-black-friday-deals-the-bargains-worth-looking-at-for-pc-gamers)
+ - [Why Lineage2M is the MMO to play over the holidays](https://www.pcgamer.com/why-lineage2m-is-the-mmo-to-play-over-the-holidays)
+ - [You get a lot of RAM for your dollar with this 32GB kit of G.Skill DDR4-3600 for just $100.](https://www.pcgamer.com/you-get-a-lot-of-ram-for-your-dollar-with-this-32gb-kit-of-gskill-ddr4-3600-for-just-dollar100)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
