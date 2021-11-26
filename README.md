@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [UMC and Micron agree to withdraw their IP complaints against each other, with UMC paying Micron a one-time undisclosed sum, following a years-long legal battle &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/211125/p13#a211125p13)
- - [I&#39;ve recommended these 3 Amazon Black Friday deals to so many people     - CNET](https://www.cnet.com/tech/three-black-friday-deals-i-keep-recommending/#ftag=CAD590a51e)
- - [Black Friday 2021: The latest deals on the greatest devices](https://www.androidauthority.com/black-friday-deals-3049753/)<!-- TECH:END -->
+ - [Best Black Friday iPhone deals going on today](https://appleinsider.com/articles/21/11/26/best-black-friday-iphone-deals-going-on-today?utm_medium=rss)
+ - [Sources: Chinese regulators have asked Didi Global&#39;s management to devise a plan to delist from NYSE because of concerns about leakage of sensitive data &lpar;Bloomberg&rpar;](http://www.techmeme.com/211125/p14#a211125p14)
+ - [Apple AirPods Pro: This incredible Black Friday deal is now available     - CNET](https://www.cnet.com/tech/black-fridays-unbeatable-airpods-pro-deal-is-now-available/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
