@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [JAFFA! KREE!](http://9gag.com/gag/aqG54rp)
- - 🚯 [GILF](http://9gag.com/gag/amg8D6V)
- - 🚯 [You rang?](http://9gag.com/gag/aBnYR8z)<!-- MEMES:END -->
+ - 🚖 [When I hear the new corona variant comes from africa](http://9gag.com/gag/aGzxKKw)
+ - 🚯 [Deaf-made Pizzeria](http://9gag.com/gag/a21mEbE)
+ - 🚯 [Pomegranate it&amp;#039;s a task.](http://9gag.com/gag/a917bMj)<!-- MEMES:END -->
 
 --- 
 
