@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon has PS5 consoles in stock again](https://www.theverge.com/2021/11/27/22798655/sony-ps5-playstation-5-console-restock-amazon)
- - [Microsoft Surface Laptop Studio review: A new machine with familiar flaws](https://www.androidauthority.com/microsoft-surface-laptop-studio-review-3065529/)
- - [The best Black Friday weekend deals on true wireless earbuds](https://www.theverge.com/22792011/black-friday-wireless-earbuds-deals-2021-cyber-monday)<!-- TECH:END -->
+ - [The Best Black Friday Deals on Fitness and Outdoor Gear](https://www.wired.com/story/best-black-friday-fitness-deals-outdoors-2021-1)
+ - [India says not to preorder Starlink until it obtains a license](https://www.theverge.com/2021/11/27/22804830/starlink-india-not-to-subscribe-license)
+ - [The best Black Friday deals you can still get at Best Buy](https://www.theverge.com/22789835/best-buy-black-friday-2021-cyber-monday-tech-deals)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
