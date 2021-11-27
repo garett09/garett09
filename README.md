@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [He not playing Fool.](http://9gag.com/gag/aRrAgzB)
- - 🚯 [Money go brrrr](http://9gag.com/gag/ajgA60Q)
- - 🚯 [A few more hundred meters down.](http://9gag.com/gag/azejbnK)<!-- MEMES:END -->
+ - 🚖 [This is Stormy, the newest member of Alyeska resort&amp;#039;s Mountain Safety team. She will spend the next two years training to become a certified avalanche rescue dog. Just imagine being rescued by that face.](http://9gag.com/gag/aOQVyqM)
+ - 🚯 [Using toaster for the first time.](http://9gag.com/gag/aDDowZN)
+ - 🚯 [He not playing Fool.](http://9gag.com/gag/aRrAgzB)<!-- MEMES:END -->
 
 --- 
 
