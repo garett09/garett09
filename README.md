@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Best Black Friday TV and Soundbar Deals](https://www.wired.com/story/best-black-friday-tv-deals-2021)
  - [The best Black Friday deals you can get right now](https://www.theverge.com/22802145/black-friday-2021-best-deals-tech-laptops-phones-tvs-headphones-gaming)
- - [32 Best Black Friday Deals on Phones, Tablets, and Smartwatches](https://www.wired.com/story/best-black-friday-phone-deals-tablet-watch-2021)
- - [Gartner: global chip makers are projected to spend $146B this year, about 50% higher than before the pandemic and double the amount five years ago &lpar;Jiyoung Sohn/Wall Street Journal&rpar;](http://www.techmeme.com/211126/p11#a211126p11)<!-- TECH:END -->
+ - [32 Best Black Friday Deals on Phones, Tablets, and Smartwatches](https://www.wired.com/story/best-black-friday-phone-deals-tablet-watch-2021)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
