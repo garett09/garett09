@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Black Friday gaming keyboard and mouse deals 2021: mechanical switches for less](https://www.pcgamer.com/black-friday-keyboard-mouse-deals-2021)
- - [Get $500 off this tricked-out RTX 3070 Ti gaming PC](https://www.pcgamer.com/get-dollar500-off-this-tricked-out-rtx-3070-ti-gaming-pc)
- - [Gigabyte G5 gaming laptop with a Core i5 CPU and RTX 3050 Ti is down to $849 at Newegg](https://www.pcgamer.com/gigabyte-g5-gaming-laptop-with-a-core-i5-cpu-and-rtx-3050-ti-is-down-to-dollar849-at-newegg)<!-- GAME:END -->
+ - [A pile of our favorite board games are on sale for Black Friday](https://www.pcgamer.com/best-black-friday-board-game-deals)
+ - [Black Friday gaming laptop deals 2021: the best laptop deals for any budget](https://www.pcgamer.com/black-friday-gaming-laptop-deals)
+ - [The best XLR microphone for streamers is at its best price ever for Black Friday](https://www.pcgamer.com/the-best-xlr-microphone-for-streamers-is-at-its-best-price-ever-for-black-friday)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
