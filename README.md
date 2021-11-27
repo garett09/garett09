@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Razer&#39;s best wireless gaming mouse has never been as cheap as it is today](https://www.pcgamer.com/razer-deathadder-v2-pro-black-friday-deal)
- - [Cyber Monday PC gaming deals UK: the best deals on PCs, components, and peripherals](https://www.pcgamer.com/cyber-monday-pc-gaming-deals-2021-uk)
- - [Best Cyber Monday PC gaming deals: RTX 30-series gaming rigs from $870 and laptops from $784](https://www.pcgamer.com/cyber-monday-pc-deals-2021)<!-- GAME:END -->
+ - [Devs Behind DC Universe Online Are Working On A Marvel MMO](https://kotaku.com/devs-behind-dc-universe-online-are-working-on-a-marvel-1848127046)
+ - [Cyber Monday Gaming PC deals: discounts on RTX 30-series gaming rigs and AMD systems](https://www.pcgamer.com/cyber-monday-gaming-pc-deals)
+ - [Razer&#39;s best wireless gaming mouse has never been as cheap as it is today](https://www.pcgamer.com/razer-deathadder-v2-pro-black-friday-deal)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
