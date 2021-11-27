@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Black Friday gaming PC deals 2021: RTX 30-series gaming rigs from $870](https://www.pcgamer.com/black-friday-gaming-pc-deals-2021)
- - [Best Black Friday PC gaming deals: gaming laptops from $790 and RTX 30-series gaming PCs with deep discounts](https://www.pcgamer.com/black-friday-pc-gaming-deals-2021)
- - [Black Friday SSD deals 2021: the fastest PC storage at the best prices](https://www.pcgamer.com/black-friday-ssd-deals-2021)<!-- GAME:END -->
+ - [Making a weed dispensary in Animal Crossing isn’t just for the high-minded](https://www.polygon.com/22801045/animal-crossing-new-horizons-weed-bong-update-dispensary-whistloid-bongoid)
+ - [16 great movies leaving Netflix, Hulu, and Amazon at the end of November 2021](https://www.polygon.com/2021/11/27/22797393/best-movies-netflix-amazon-hulu-leaving-november-2021)
+ - [NZXT is selling a powerful RTX 3070 Ti gaming PC for cheaper than expected](https://www.pcgamer.com/nzxt-is-selling-a-powerful-rtx-3070-ti-gaming-pc-for-cheaper-than-expected)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
