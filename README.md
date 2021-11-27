@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Deaf-made Pizzeria](http://9gag.com/gag/a21mEbE)
- - 🚯 [When I saw the name of the new Coronavirus variant called Omicron.](http://9gag.com/gag/a31BP51)
- - 🚯 [Pomegranate it&amp;#039;s a task.](http://9gag.com/gag/a917bMj)<!-- MEMES:END -->
+ - 🚖 [World hunger is not an agricultural or overpopulation problem, it is a purely political matter.](http://9gag.com/gag/aVxPzAM)
+ - 🚯 [Pomegranate it&amp;#039;s a task.](http://9gag.com/gag/a917bMj)
+ - 🚯 [Almost. but it&amp;#039;s so silly](http://9gag.com/gag/a21mE3O)<!-- MEMES:END -->
 
 --- 
 
