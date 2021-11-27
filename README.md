@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [43 Best Black Friday Deals on Smart Home Gear and Furniture](https://www.wired.com/story/best-black-friday-home-furniture-deals-2021-1)
- - [Black Friday: The best wireless earbud deals still available today     - CNET](https://www.cnet.com/tech/mobile/black-friday-the-best-wireless-earbuds-deals-available-now/#ftag=CAD590a51e)
- - [Black Friday 2021: Apple&#39;s best deals are still available     - CNET](https://www.cnet.com/news/best-apple-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Our Favorite Local Shops for Small Business Saturday](https://www.wired.com/story/small-business-saturday-2021)
+ - [Not Every Character Needs an Origin Story](https://www.wired.com/story/prequels-film-origin-story)
+ - [Playing Games Has Helped Humans Learn—and Survive](https://www.wired.com/story/games-play-evolution-social-connection)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
