@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [41 Best Black Friday Deals on Phones, Tablets, and Smartwatches](https://www.wired.com/story/best-black-friday-phone-deals-tablet-watch-2021)
- - [Black Friday 2021: The latest deals on the greatest devices](https://www.androidauthority.com/black-friday-deals-3049753/)
- - [The Best Black Friday Vacuuming and Cleaning Deals](https://www.wired.com/story/best-black-friday-vacuum-deals-2021)<!-- TECH:END -->
+ - [Amazon Black Friday sale: Deals on Echo, Ring, Fire Tablets and more are still available     - CNET](https://www.cnet.com/home/smart-home/best-black-friday-amazon-deals-discount-echo-ring-fire-tv/#ftag=CAD590a51e)
+ - [Best Buy Black Friday deals: 4K TVs, Surface laptops, Lovesac and more still on sale     - CNET](https://www.cnet.com/tech/computing/2021-best-buy-black-friday-deals-discounts-on-laptops-gaming-consoles-tvs-and-more/#ftag=CAD590a51e)
+ - [41 Best Black Friday Deals on Phones, Tablets, and Smartwatches](https://www.wired.com/story/best-black-friday-phone-deals-tablet-watch-2021)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
