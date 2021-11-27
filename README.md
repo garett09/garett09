@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [35 Relaxing Black Friday Beauty and Self-Care Deals](https://www.wired.com/story/best-black-friday-beauty-deals-self-care-2021)
- - [The 49 Best Black Friday Deals for $50 or Less](https://www.wired.com/story/best-black-friday-deals-under-50-2021-1)
- - [Black Friday live blog: The best deals right now     - CNET](https://www.cnet.com/tech/black-friday-2021-live-blog/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Best Black Friday Vacuuming and Cleaning Deals](https://www.wired.com/story/best-black-friday-vacuum-deals-2021)
+ - [33 Best Black Friday Deals on Smart Home Gear and Furniture](https://www.wired.com/story/best-black-friday-home-furniture-deals-2021-1)
+ - [Paytm reports Q2 revenue of $144.8M, up 64% YoY, and a net loss of $63M, up 8%+ YoY, in its first post-IPO earnings report &lpar;The Economic Times&rpar;](http://www.techmeme.com/211127/p1#a211127p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
