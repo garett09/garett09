@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How To Easily Complete Some Halo Infinite Challenges Using Bots](https://kotaku.com/how-to-easily-complete-some-halo-infinite-challenges-us-1848127280)
- - [Best Black Friday PC gaming deals: gaming laptops from $790 and RTX 30-series gaming PCs with deep discounts](https://www.pcgamer.com/black-friday-pc-gaming-deals-2021)
- - [GOG brings back flash deals and deep cuts for its big Black Friday sale](https://www.pcgamer.com/gog-brings-back-flash-deals-and-deep-cuts-for-its-big-black-friday-sale)<!-- GAME:END -->
+ - [The best Black Friday monitor deal is this fast 1440p IPS display for $280](https://www.pcgamer.com/best-black-friday-gaming-monitor-2021)
+ - [Buy one of these 3 Black Friday gaming PCs if you want to game at 1440p &amp; 144Hz](https://www.pcgamer.com/best-pc-for-1440p-gaming)
+ - [Black Friday gaming keyboard and mouse deals 2021: mechanical switches for less](https://www.pcgamer.com/black-friday-keyboard-mouse-deals-2021)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
