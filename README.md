@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Best Black Friday Deals on Fitness and Outdoor Gear](https://www.wired.com/story/best-black-friday-fitness-deals-outdoors-2021-1)
- - [India says not to preorder Starlink until it obtains a license](https://www.theverge.com/2021/11/27/22804830/starlink-india-not-to-subscribe-license)
- - [The best Black Friday deals you can still get at Best Buy](https://www.theverge.com/22789835/best-buy-black-friday-2021-cyber-monday-tech-deals)<!-- TECH:END -->
+ - [Now that most video game platforms have a digital-only purchasing option, paying separately for the same video game on each is indefensible &lpar;Vlad Savov/Bloomberg&rpar;](http://www.techmeme.com/211127/p6#a211127p6)
+ - [The best Black Friday deals still at Walmart](https://www.theverge.com/22784126/walmart-black-friday-2021-tech-cyber-monday-deals)
+ - [The best Black Friday deals you can still get at Amazon](https://www.theverge.com/22784145/amazon-black-friday-2021-best-deals-tech-cyber-monday)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
