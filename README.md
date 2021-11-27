@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Our Favorite Local Shops for Small Business Saturday](https://www.wired.com/story/small-business-saturday-2021)
- - [Not Every Character Needs an Origin Story](https://www.wired.com/story/prequels-film-origin-story)
- - [Playing Games Has Helped Humans Learn—and Survive](https://www.wired.com/story/games-play-evolution-social-connection)<!-- TECH:END -->
+ - [A small Android TV projector in my kitchen solved my streaming woes](https://www.androidauthority.com/android-tv-projector-3066278/)
+ - [The Absolute Best Black Friday Deals Online Right Now](https://www.wired.com/story/best-black-friday-deals-2021-1)
+ - [GM shows off new smart features coming to their vehicles](https://www.androidauthority.com/gm-smart-features-3065475/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
