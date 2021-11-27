@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Black Friday live blog: The best deals right now     - CNET](https://www.cnet.com/tech/black-friday-2021-live-blog/#ftag=CAD590a51e)
- - [The Absolute Best Black Friday Deals Online Right Now](https://www.wired.com/story/best-black-friday-deals-2021-1)
- - [Black Friday 2021: Over 100 of the best deals from Amazon, Walmart, Best Buy and more     - CNET](https://www.cnet.com/tech/the-best-black-friday-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Black Friday Deals on Sex Toys, Vibrators, and Lubes](https://www.wired.com/story/best-black-friday-sex-toy-deals-2021)
+ - [21 Best Black Friday Deals on Amazon Devices](https://www.wired.com/story/best-black-friday-amazon-device-deals-2021-1)
+ - [Black Friday live blog: The best deals right now     - CNET](https://www.cnet.com/tech/black-friday-2021-live-blog/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
