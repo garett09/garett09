@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [World hunger is not an agricultural or overpopulation problem, it is a purely political matter.](http://9gag.com/gag/aVxPzAM)
- - 🚯 [Pomegranate it&amp;#039;s a task.](http://9gag.com/gag/a917bMj)
- - 🚯 [Almost. but it&amp;#039;s so silly](http://9gag.com/gag/a21mE3O)<!-- MEMES:END -->
+ - 🚖 [He forgot he is black and thought himself as a white man](http://9gag.com/gag/axBjNVY)
+ - 🚯 [Almost. but it&amp;#039;s so silly](http://9gag.com/gag/a21mE3O)
+ - 🚯 [World hunger is not an agricultural or overpopulation problem, it is a purely political matter.](http://9gag.com/gag/aVxPzAM)<!-- MEMES:END -->
 
 --- 
 
