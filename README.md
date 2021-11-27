@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [He forgot he is black and thought himself as a white man](http://9gag.com/gag/axBjNVY)
- - 🚯 [Almost. but it&amp;#039;s so silly](http://9gag.com/gag/a21mE3O)
+ - 🚖 [Don&amp;#039;t give up](http://9gag.com/gag/a617wyA)
+ - 🚯 [South Park - Why some people are not vaccinated](http://9gag.com/gag/a617rzR)
  - 🚯 [World hunger is not an agricultural or overpopulation problem, it is a purely political matter.](http://9gag.com/gag/aVxPzAM)<!-- MEMES:END -->
 
 --- 
