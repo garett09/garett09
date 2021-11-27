@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [He forgot he is black and thought himself as a white man](http://9gag.com/gag/axBjNVY)
+ - 🚖 [He not playing Fool.](http://9gag.com/gag/aRrAgzB)
  - 🚯 [Money go brrrr](http://9gag.com/gag/ajgA60Q)
- - 🚯 [From the time where you could easily assign colors](http://9gag.com/gag/aqG5mBZ)<!-- MEMES:END -->
+ - 🚯 [A few more hundred meters down.](http://9gag.com/gag/azejbnK)<!-- MEMES:END -->
 
 --- 
 
