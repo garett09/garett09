@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Black Friday gaming keyboard and mouse deals 2021: mechanical switches for less](https://www.pcgamer.com/black-friday-keyboard-mouse-deals-2021)
- - [This Razer gaming monitor is less than half price, now only £299.99](https://www.pcgamer.com/this-razer-gaming-monitor-is-less-than-half-price-now-only-pound29999)
- - [Black Friday SSD deals 2021: the fastest PC storage at the best prices](https://www.pcgamer.com/black-friday-ssd-deals-2021)<!-- GAME:END -->
+ - [The Seagate FireCuda 530 gets a sweet 22% discount this Black Friday weekend](https://www.pcgamer.com/the-seagate-firecuda-530-gets-a-sweet-22-discount-this-black-friday-weekend)
+ - [Get 4TB of Sandisk SSD SATA III storage for $299.99](https://www.pcgamer.com/get-4tb-of-sandisk-ssd-sata-iii-storage-for-dollar29999)
+ - [Black Friday gaming keyboard and mouse deals 2021: mechanical switches for less](https://www.pcgamer.com/black-friday-keyboard-mouse-deals-2021)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
