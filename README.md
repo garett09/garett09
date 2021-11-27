@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pela Apple Watch band review: A sleek, eco-friendly strap with unique lugs](https://appleinsider.com/articles/21/11/27/pela-apple-watch-band-review-a-sleek-eco-friendly-strap-with-unique-lugs?utm_medium=rss)
- - [Indian government tells Starlink to stop &quot;booking/rendering the satellite internet service&quot; as it does not have a license to operate in the country &lpar;Reuters&rpar;](http://www.techmeme.com/211127/p4#a211127p4)
- - [Owlet puts smart baby monitoring socks on hold after FDA warning](https://www.theverge.com/2021/11/27/22804692/owlet-smart-baby-monitoring-socks-on-hold-fda-warning)<!-- TECH:END -->
+ - [Amazon has PS5 consoles in stock again](https://www.theverge.com/2021/11/27/22798655/sony-ps5-playstation-5-console-restock-amazon)
+ - [Microsoft Surface Laptop Studio review: A new machine with familiar flaws](https://www.androidauthority.com/microsoft-surface-laptop-studio-review-3065529/)
+ - [The best Black Friday weekend deals on true wireless earbuds](https://www.theverge.com/22792011/black-friday-wireless-earbuds-deals-2021-cyber-monday)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
