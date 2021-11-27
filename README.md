@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Seagate FireCuda 530 gets a sweet 22% discount this Black Friday weekend](https://www.pcgamer.com/the-seagate-firecuda-530-gets-a-sweet-22-discount-this-black-friday-weekend)
- - [Get 4TB of Sandisk SSD SATA III storage for $299.99](https://www.pcgamer.com/get-4tb-of-sandisk-ssd-sata-iii-storage-for-dollar29999)
- - [Black Friday gaming keyboard and mouse deals 2021: mechanical switches for less](https://www.pcgamer.com/black-friday-keyboard-mouse-deals-2021)<!-- GAME:END -->
+ - [Get this budget gaming monitor for £45 off](https://www.pcgamer.com/get-this-budget-gaming-monitor-for-pound45-off)
+ - [Gigabyte&#39;s G27Q is one of our favorite monitors and it&#39;s on sale for $260](https://www.pcgamer.com/gigabytes-g27q-is-one-of-our-favorite-monitors-and-its-on-sale-for-dollar260)
+ - [The Seagate FireCuda 530 gets a sweet 22% discount this Black Friday weekend](https://www.pcgamer.com/the-seagate-firecuda-530-gets-a-sweet-22-discount-this-black-friday-weekend)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
