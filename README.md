@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [You are what you eat](http://9gag.com/gag/a41YL7Z)
- - 🚯 [True](http://9gag.com/gag/aQX84bK)
- - 🚯 [Poor Lawrence](http://9gag.com/gag/aPZDymn)<!-- MEMES:END -->
+ - 🚖 [&amp;quot;Finally someone who understands me&amp;quot;](http://9gag.com/gag/aegG0yQ)
+ - 🚯 [Serbian police Major removes female protester from road blockade.](http://9gag.com/gag/aKmqBR3)
+ - 🚯 [You are what you eat](http://9gag.com/gag/a41YL7Z)<!-- MEMES:END -->
 
 --- 
 
