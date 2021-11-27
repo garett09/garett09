@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The best gaming headsets in 2021](https://www.pcgamer.com/best-gaming-headset)
  - [A pile of our favorite board games are on sale for Black Friday](https://www.pcgamer.com/best-black-friday-board-game-deals)
- - [Black Friday gaming laptop deals 2021: the best laptop deals for any budget](https://www.pcgamer.com/black-friday-gaming-laptop-deals)
- - [The best XLR microphone for streamers is at its best price ever for Black Friday](https://www.pcgamer.com/the-best-xlr-microphone-for-streamers-is-at-its-best-price-ever-for-black-friday)<!-- GAME:END -->
+ - [Black Friday gaming laptop deals 2021: the best laptop deals for any budget](https://www.pcgamer.com/black-friday-gaming-laptop-deals)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
