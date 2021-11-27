@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [&amp;quot;Finally someone who understands me&amp;quot;](http://9gag.com/gag/aegG0yQ)
- - 🚯 [Serbian police Major removes female protester from road blockade.](http://9gag.com/gag/aKmqBR3)
- - 🚯 [You are what you eat](http://9gag.com/gag/a41YL7Z)<!-- MEMES:END -->
+ - 🚖 [Coconut milk obtained by pressing method.](http://9gag.com/gag/aDDomgx)
+ - 🚯 [Even I feel uncomfortable...](http://9gag.com/gag/angNKrz)
+ - 🚯 [People are blocking roads in Serbia. Police is not happy about it. These guys decided they will not block the road. They will only cross it legally, on the crossing, over and over again.](http://9gag.com/gag/a11MMpw)<!-- MEMES:END -->
 
 --- 
 
