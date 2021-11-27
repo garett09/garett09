@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Encanto’s directors talk the movie’s big mystery](https://www.polygon.com/2021/11/27/22799299/encanto-ending-mirabel-magic)
- - [Cyber Monday Gaming Laptop deals: RTX 30-series notebooks for less than $800](https://www.pcgamer.com/cyber-monday-gaming-laptop-deals-2021)
- - [All the bargains are in... and this is still the best 1TB Black Friday SSD deal today](https://www.pcgamer.com/all-the-bargains-are-in-and-this-is-still-the-best-1tb-black-friday-ssd-deal-today)<!-- GAME:END -->
+ - [How To Easily Complete Some Halo Infinite Challenges Using Bots](https://kotaku.com/how-to-easily-complete-some-halo-infinite-challenges-us-1848127280)
+ - [Best Black Friday PC gaming deals: gaming laptops from $790 and RTX 30-series gaming PCs with deep discounts](https://www.pcgamer.com/black-friday-pc-gaming-deals-2021)
+ - [GOG brings back flash deals and deep cuts for its big Black Friday sale](https://www.pcgamer.com/gog-brings-back-flash-deals-and-deep-cuts-for-its-big-black-friday-sale)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
