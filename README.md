@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [RAGE &lpar;Part 1&rpar;](http://9gag.com/gag/aRrAgpQ)
- - 🚯 [&amp;quot;Finally someone who understands me&amp;quot;](http://9gag.com/gag/aegG0yQ)
- - 🚯 [Imagine getting shot by a toddler](http://9gag.com/gag/aVxPQ62)<!-- MEMES:END -->
+ - 🚖 [Imagine getting shot by a toddler](http://9gag.com/gag/aVxPQ62)
+ - 🚯 [True](http://9gag.com/gag/aQX84bK)
+ - 🚯 [&amp;quot;The Science&amp;quot; is not a thing.](http://9gag.com/gag/aZrMN10)<!-- MEMES:END -->
 
 --- 
 
