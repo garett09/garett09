@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Now that most video game platforms have a digital-only purchasing option, paying separately for the same video game on each is indefensible &lpar;Vlad Savov/Bloomberg&rpar;](http://www.techmeme.com/211127/p6#a211127p6)
- - [The best Black Friday deals still at Walmart](https://www.theverge.com/22784126/walmart-black-friday-2021-tech-cyber-monday-deals)
- - [The best Black Friday deals you can still get at Amazon](https://www.theverge.com/22784145/amazon-black-friday-2021-best-deals-tech-cyber-monday)<!-- TECH:END -->
+ - [Black Friday 2021 weekend smart home tech deals: speakers, cameras, robots, and more](https://www.theverge.com/22789311/black-friday-2021-smart-home-tech-speakers-cameras-cyber-monday)
+ - [B&amp;H issues triple-digit price cuts on Apple&#39;s MacBook Air, 24-inch iMac this weekend only](https://appleinsider.com/articles/21/11/27/bh-issues-triple-digit-price-cuts-on-apples-macbook-air-24-inch-imac-this-weekend-only?utm_medium=rss)
+ - [The best Black Friday weekend deals on true wireless earbuds](https://www.theverge.com/22792011/black-friday-wireless-earbuds-deals-2021-cyber-monday)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
