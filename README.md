@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best Black Friday monitor deal is this fast 1440p IPS display for $280](https://www.pcgamer.com/best-black-friday-gaming-monitor-2021)
- - [Buy one of these 3 Black Friday gaming PCs if you want to game at 1440p &amp; 144Hz](https://www.pcgamer.com/best-pc-for-1440p-gaming)
- - [Black Friday gaming keyboard and mouse deals 2021: mechanical switches for less](https://www.pcgamer.com/black-friday-keyboard-mouse-deals-2021)<!-- GAME:END -->
+ - [Two very different games about politics: Yes, Prime Minister and Floor 13](https://www.pcgamer.com/saturday-crapshoot-british-politics-special-yes-prime-minister-floor-13)
+ - [Someone Replaced The Dinos In Jurassic World Evolution 2 With Uh... Ice Age Characters](https://kotaku.com/someone-replaced-the-dinos-in-jurassic-world-evolution-1848127637)
+ - [Do you vote in the Steam Awards?](https://www.pcgamer.com/do-you-vote-in-the-steam-awards)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
