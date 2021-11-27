@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Don&amp;#039;t give up](http://9gag.com/gag/a617wyA)
- - 🚯 [South Park - Why some people are not vaccinated](http://9gag.com/gag/a617rzR)
- - 🚯 [World hunger is not an agricultural or overpopulation problem, it is a purely political matter.](http://9gag.com/gag/aVxPzAM)<!-- MEMES:END -->
+ - 🚖 [South Park - Why some people are not vaccinated](http://9gag.com/gag/a617rzR)
+ - 🚯 [Don&amp;#039;t give up](http://9gag.com/gag/a617wyA)
+ - 🚯 [You rang?](http://9gag.com/gag/aBnYR8z)<!-- MEMES:END -->
 
 --- 
 
