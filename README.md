@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Imagine getting shot by a toddler](http://9gag.com/gag/aVxPQ62)
+ - 🚖 [You are what you eat](http://9gag.com/gag/a41YL7Z)
  - 🚯 [True](http://9gag.com/gag/aQX84bK)
- - 🚯 [&amp;quot;The Science&amp;quot; is not a thing.](http://9gag.com/gag/aZrMN10)<!-- MEMES:END -->
+ - 🚯 [Poor Lawrence](http://9gag.com/gag/aPZDymn)<!-- MEMES:END -->
 
 --- 
 
