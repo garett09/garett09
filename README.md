@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Making a weed dispensary in Animal Crossing isn’t just for the high-minded](https://www.polygon.com/22801045/animal-crossing-new-horizons-weed-bong-update-dispensary-whistloid-bongoid)
- - [16 great movies leaving Netflix, Hulu, and Amazon at the end of November 2021](https://www.polygon.com/2021/11/27/22797393/best-movies-netflix-amazon-hulu-leaving-november-2021)
- - [NZXT is selling a powerful RTX 3070 Ti gaming PC for cheaper than expected](https://www.pcgamer.com/nzxt-is-selling-a-powerful-rtx-3070-ti-gaming-pc-for-cheaper-than-expected)<!-- GAME:END -->
+ - [Razer&#39;s best wireless gaming mouse has never been as cheap as it is today](https://www.pcgamer.com/razer-deathadder-v2-pro-black-friday-deal)
+ - [Cyber Monday PC gaming deals UK: the best deals on PCs, components, and peripherals](https://www.pcgamer.com/cyber-monday-pc-gaming-deals-2021-uk)
+ - [Best Cyber Monday PC gaming deals: RTX 30-series gaming rigs from $870 and laptops from $784](https://www.pcgamer.com/cyber-monday-pc-deals-2021)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
