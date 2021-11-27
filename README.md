@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [All of Our Favorite Couches are on Sale for Black Friday](https://www.wired.com/story/best-black-friday-couch-deals-2021)
- - [The Galaxy Watch 4 still doesn’t have Google Assistant, 3 months after launch](https://www.androidauthority.com/samsung-galaxy-watch-4-google-assistant-3067275/)
- - [Best deals Nov. 27: Up to $200 off iPad Pro, $160 mini projector, $350 off 70-inch smart TV, more!](https://appleinsider.com/articles/21/11/27/best-deals-nov-27-up-to-200-off-ipad-pro-160-mini-projector-350-off-70-inch-smart-tv-more?utm_medium=rss)<!-- TECH:END -->
+ - [The best Black Friday weekend 2021 phone deals](https://www.theverge.com/22789359/black-friday-2021-best-phone-deals-cyber-monday)
+ - [Best deals you can still get for PS5, Xbox Series X, Nintendo Switch, and PC gaming](https://www.theverge.com/22792017/black-friday-2021-best-game-gaming-console-deals-cyber-monday)
+ - [Black Friday 2021 weekend smart home tech deals: speakers, cameras, robots, and more](https://www.theverge.com/22789311/black-friday-2021-smart-home-tech-speakers-cameras-cyber-monday)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
