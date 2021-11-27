@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-408-3067443/)
- - [The 55 Best Black Friday Deals for $50 or Less](https://www.wired.com/story/best-black-friday-deals-under-50-2021-1)
- - [The best Black Friday weekend deals on noise-canceling headphones 2021](https://www.theverge.com/22796131/black-friday-headphones-2021-deals-cyber-monday)<!-- TECH:END -->
+ - [Pela Apple Watch band review: A sleek, eco-friendly strap with unique lugs](https://appleinsider.com/articles/21/11/27/pela-apple-watch-band-review-a-sleek-eco-friendly-strap-with-unique-lugs?utm_medium=rss)
+ - [Indian government tells Starlink to stop &quot;booking/rendering the satellite internet service&quot; as it does not have a license to operate in the country &lpar;Reuters&rpar;](http://www.techmeme.com/211127/p4#a211127p4)
+ - [Owlet puts smart baby monitoring socks on hold after FDA warning](https://www.theverge.com/2021/11/27/22804692/owlet-smart-baby-monitoring-socks-on-hold-fda-warning)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
