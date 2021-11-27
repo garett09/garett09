@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [GameStop’s best Black Friday deals: games, accessories, and more](https://www.theverge.com/22796306/gamestop-black-friday-2021-deals-games-gaming-cyber-monday)
- - [These Black Friday Apple deals on Amazon are at risk of selling out](https://appleinsider.com/articles/21/11/27/these-black-friday-apple-deals-on-amazon-are-at-risk-of-selling-out?utm_medium=rss)
- - [The best Black Friday streaming deals for Hulu, YouTube TV, and more](https://www.theverge.com/22800858/black-friday-2021-streaming-deals-shows-movies-subscription-cyber-monday)<!-- TECH:END -->
+ - [32 Best Black Friday Deals on Phones, Tablets, and Smartwatches](https://www.wired.com/story/best-black-friday-phone-deals-tablet-watch-2021)
+ - [Gartner: global chip makers are projected to spend $146B this year, about 50% higher than before the pandemic and double the amount five years ago &lpar;Jiyoung Sohn/Wall Street Journal&rpar;](http://www.techmeme.com/211126/p11#a211126p11)
+ - [33 Best Black Friday Video Game and Accessory Deals](https://www.wired.com/story/best-black-friday-video-game-deals-2021-2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
