@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Shopping for Black Friday deals gave us the munchies, so we started foraging for snack deals](https://www.pcgamer.com/shopping-for-black-friday-deals-gave-us-the-munchies-so-we-started-foraging-for-snack-deals)
  - [Black Friday gaming PC deals 2021: RTX 30-series gaming rigs from $870](https://www.pcgamer.com/black-friday-gaming-pc-deals-2021)
- - [The best gaming headsets in 2021](https://www.pcgamer.com/best-gaming-headset)
- - [A pile of our favorite board games are on sale for Black Friday](https://www.pcgamer.com/best-black-friday-board-game-deals)<!-- GAME:END -->
+ - [The best gaming headsets in 2021](https://www.pcgamer.com/best-gaming-headset)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
