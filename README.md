@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Black Friday gaming laptop deals UK: the best mobile bargains right now](https://www.pcgamer.com/black-friday-gaming-laptop-deals-uk)
- - [Get a Philips Hue lighting strip kit for just $50, that&#39;s less than half price](https://www.pcgamer.com/get-a-philips-hue-lighting-strip-kit-for-just-dollar50-thats-less-than-half-price)
- - [This top quality Be Quiet Platinum 650W PSU is $30 off](https://www.pcgamer.com/this-top-quality-be-quiet-platinum-650w-psu-is-dollar30-off)<!-- GAME:END -->
+ - [Black Friday gaming monitor deals UK: punchy panels for tear-free gaming](https://www.pcgamer.com/black-friday-gaming-monitor-deals-uk)
+ - [Black Friday gaming chair deals UK: Your bottom deserves some love this deals season](https://www.pcgamer.com/black-friday-gaming-chair-deals-uk)
+ - [Black Friday PC gaming deals UK: the best deals on PCs, components and peripherals](https://www.pcgamer.com/black-friday-pc-gaming-deals-uk-2021)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
