@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This top quality Be Quiet Platinum 650W PSU is $30 off](https://www.pcgamer.com/this-top-quality-be-quiet-platinum-650w-psu-is-dollar30-off)
- - [Get this budget gaming monitor for £45 off](https://www.pcgamer.com/get-this-budget-gaming-monitor-for-pound45-off)
- - [Gigabyte&#39;s G27Q is one of our favorite monitors and it&#39;s on sale for $260](https://www.pcgamer.com/gigabytes-g27q-is-one-of-our-favorite-monitors-and-its-on-sale-for-dollar260)<!-- GAME:END -->
+ - [Black Friday gaming laptop deals UK: the best mobile bargains right now](https://www.pcgamer.com/black-friday-gaming-laptop-deals-uk)
+ - [Get a Philips Hue lighting strip kit for just $50, that&#39;s less than half price](https://www.pcgamer.com/get-a-philips-hue-lighting-strip-kit-for-just-dollar50-thats-less-than-half-price)
+ - [This top quality Be Quiet Platinum 650W PSU is $30 off](https://www.pcgamer.com/this-top-quality-be-quiet-platinum-650w-psu-is-dollar30-off)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
