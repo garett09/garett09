@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [6 new movies and shows to stream this weekend: Hawkeye, Beatles: Get Back, more](https://www.androidauthority.com/best-new-movies-shows-to-stream-netflix-disney-plus-hbo-max-amazon-prime-3064782/)
- - [The best Black Friday deals under $25](https://www.theverge.com/22796420/black-friday-2021-under-25-tech-deals-cheap-cyber-monday)
- - [All of Our Favorite Couches are on Sale for Black Friday](https://www.wired.com/story/best-black-friday-couch-deals-2021)<!-- TECH:END -->
+ - [GameStop’s best Black Friday deals: games, accessories, and more](https://www.theverge.com/22796306/gamestop-black-friday-2021-deals-games-gaming-cyber-monday)
+ - [These Black Friday Apple deals on Amazon are at risk of selling out](https://appleinsider.com/articles/21/11/27/these-black-friday-apple-deals-on-amazon-are-at-risk-of-selling-out?utm_medium=rss)
+ - [The best Black Friday streaming deals for Hulu, YouTube TV, and more](https://www.theverge.com/22800858/black-friday-2021-streaming-deals-shows-movies-subscription-cyber-monday)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
