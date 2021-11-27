@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Coconut milk obtained by pressing method.](http://9gag.com/gag/aDDomgx)
- - 🚯 [Even I feel uncomfortable...](http://9gag.com/gag/angNKrz)
- - 🚯 [People are blocking roads in Serbia. Police is not happy about it. These guys decided they will not block the road. They will only cross it legally, on the crossing, over and over again.](http://9gag.com/gag/a11MMpw)<!-- MEMES:END -->
+ - 🚖 [&amp;quot;Tonight We Ride in Rail!&amp;quot;](http://9gag.com/gag/aAG116g)
+ - 🚯 [Change is still possible](http://9gag.com/gag/a517KLq)
+ - 🚯 [Protests in Serbia Serbs are protesting against Rio Tinto, polluted air, selling fields to build factories, laws which allows companies to take land feom people. Pray for us!](http://9gag.com/gag/angNB70)<!-- MEMES:END -->
 
 --- 
 
