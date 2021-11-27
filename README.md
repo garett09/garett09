@@ -194,8 +194,8 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Deaf-made Pizzeria](http://9gag.com/gag/a21mEbE)
- - 🚯 [Pomegranate it&amp;#039;s a task.](http://9gag.com/gag/a917bMj)
- - 🚯 [Almost. but it&amp;#039;s so silly](http://9gag.com/gag/a21mE3O)<!-- MEMES:END -->
+ - 🚯 [When I saw the name of the new Coronavirus variant called Omicron.](http://9gag.com/gag/a31BP51)
+ - 🚯 [Pomegranate it&amp;#039;s a task.](http://9gag.com/gag/a917bMj)<!-- MEMES:END -->
 
 --- 
 
