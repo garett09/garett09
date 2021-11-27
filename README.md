@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [World hunger is not an agricultural or overpopulation problem, it is a purely political matter.](http://9gag.com/gag/aVxPzAM)
- - 🚯 [WHO classes new Covid strain &amp;lsquo;variant of concern&amp;rsquo; and names it &amp;lsquo;Omicron&amp;rsquo;](http://9gag.com/gag/abg03Eb)
- - 🚯 [From the time where you could easily assign colors](http://9gag.com/gag/aqG5mBZ)<!-- MEMES:END -->
+ - 🚖 [A few more hundred meters down.](http://9gag.com/gag/azejbnK)
+ - 🚯 [Monica Bellucci in Rome on a Bike, 1990s.](http://9gag.com/gag/amg9XR2)
+ - 🚯 [This is Stormy, the newest member of Alyeska resort&amp;#039;s Mountain Safety team. She will spend the next two years training to become a certified avalanche rescue dog. Just imagine being rescued by that face.](http://9gag.com/gag/aOQVyqM)<!-- MEMES:END -->
 
 --- 
 
