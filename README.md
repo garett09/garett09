@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [South Park - Why some people are not vaccinated](http://9gag.com/gag/a617rzR)
- - 🚯 [Don&amp;#039;t give up](http://9gag.com/gag/a617wyA)
- - 🚯 [You rang?](http://9gag.com/gag/aBnYR8z)<!-- MEMES:END -->
+ - 🚖 [World hunger is not an agricultural or overpopulation problem, it is a purely political matter.](http://9gag.com/gag/aVxPzAM)
+ - 🚯 [WHO classes new Covid strain &amp;lsquo;variant of concern&amp;rsquo; and names it &amp;lsquo;Omicron&amp;rsquo;](http://9gag.com/gag/abg03Eb)
+ - 🚯 [From the time where you could easily assign colors](http://9gag.com/gag/aqG5mBZ)<!-- MEMES:END -->
 
 --- 
 
