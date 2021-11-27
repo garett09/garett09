@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [&amp;quot;I have a dream that one day this nation will rise up&amp;quot;](http://9gag.com/gag/aKmqgQW)
- - 🚯 [RAGE &lpar;Part 1&rpar;](http://9gag.com/gag/aRrAgpQ)
- - 🚯 [Seems like the whole world is playing a COVID-19 Squid Game](http://9gag.com/gag/aWg60jx)<!-- MEMES:END -->
+ - 🚖 [Quite interesting](http://9gag.com/gag/aAG1rrL)
+ - 🚯 [Absolutely Haram](http://9gag.com/gag/apgvoPp)
+ - 🚯 [RAGE &lpar;Part 1&rpar;](http://9gag.com/gag/aRrAgpQ)<!-- MEMES:END -->
 
 --- 
 
