@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Money go brrrr](http://9gag.com/gag/ajgA60Q)
- - 🚯 [Monica Bellucci in Rome on a Bike, 1990s.](http://9gag.com/gag/amg9XR2)
- - 🚯 [Seems like the whole world is playing a COVID-19 Squid Game](http://9gag.com/gag/aWg60jx)<!-- MEMES:END -->
+ - 🚖 [He forgot he is black and thought himself as a white man](http://9gag.com/gag/axBjNVY)
+ - 🚯 [Money go brrrr](http://9gag.com/gag/ajgA60Q)
+ - 🚯 [From the time where you could easily assign colors](http://9gag.com/gag/aqG5mBZ)<!-- MEMES:END -->
 
 --- 
 
