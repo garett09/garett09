@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A few more hundred meters down.](http://9gag.com/gag/azejbnK)
+ - 🚖 [Money go brrrr](http://9gag.com/gag/ajgA60Q)
  - 🚯 [Monica Bellucci in Rome on a Bike, 1990s.](http://9gag.com/gag/amg9XR2)
- - 🚯 [This is Stormy, the newest member of Alyeska resort&amp;#039;s Mountain Safety team. She will spend the next two years training to become a certified avalanche rescue dog. Just imagine being rescued by that face.](http://9gag.com/gag/aOQVyqM)<!-- MEMES:END -->
+ - 🚯 [Seems like the whole world is playing a COVID-19 Squid Game](http://9gag.com/gag/aWg60jx)<!-- MEMES:END -->
 
 --- 
 
