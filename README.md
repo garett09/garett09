@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [He not playing Fool.](http://9gag.com/gag/aRrAgzB)
- - 🚯 [Using toaster for the first time.](http://9gag.com/gag/aDDowZN)
+ - 🚖 [&amp;quot;I have a dream that one day this nation will rise up&amp;quot;](http://9gag.com/gag/aKmqgQW)
+ - 🚯 [RAGE &lpar;Part 1&rpar;](http://9gag.com/gag/aRrAgpQ)
  - 🚯 [Imagine getting shot by a toddler](http://9gag.com/gag/aVxPQ62)<!-- MEMES:END -->
 
 --- 
