@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Black Friday weekend 2021 phone deals](https://www.theverge.com/22789359/black-friday-2021-best-phone-deals-cyber-monday)
- - [Best deals you can still get for PS5, Xbox Series X, Nintendo Switch, and PC gaming](https://www.theverge.com/22792017/black-friday-2021-best-game-gaming-console-deals-cyber-monday)
- - [Black Friday 2021 weekend smart home tech deals: speakers, cameras, robots, and more](https://www.theverge.com/22789311/black-friday-2021-smart-home-tech-speakers-cameras-cyber-monday)<!-- TECH:END -->
+ - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-408-3067443/)
+ - [The 55 Best Black Friday Deals for $50 or Less](https://www.wired.com/story/best-black-friday-deals-under-50-2021-1)
+ - [The best Black Friday weekend deals on noise-canceling headphones 2021](https://www.theverge.com/22796131/black-friday-headphones-2021-deals-cyber-monday)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
