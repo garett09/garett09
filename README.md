@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Curb Your Food Tech Enthusiasm](https://www.wired.com/story/future-of-food-tech)
- - [The Pentagon Set Up a UFO Office](https://www.wired.com/story/defense-department-ufo-office-apple-nso-godaddy-security-news)
- - [The best Black Friday 2021 tech deals still available](https://www.theverge.com/22803553/black-friday-2021-best-tech-deals-still-available-laptops-phones-tvs-headphones-gaming)<!-- TECH:END -->
+ - [All of Our Favorite Couches are on Sale for Black Friday](https://www.wired.com/story/best-black-friday-couch-deals-2021)
+ - [The Galaxy Watch 4 still doesn’t have Google Assistant, 3 months after launch](https://www.androidauthority.com/samsung-galaxy-watch-4-google-assistant-3067275/)
+ - [Best deals Nov. 27: Up to $200 off iPad Pro, $160 mini projector, $350 off 70-inch smart TV, more!](https://appleinsider.com/articles/21/11/27/best-deals-nov-27-up-to-200-off-ipad-pro-160-mini-projector-350-off-70-inch-smart-tv-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
