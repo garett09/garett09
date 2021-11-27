@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Black Friday gaming monitor deals UK: punchy panels for tear-free gaming](https://www.pcgamer.com/black-friday-gaming-monitor-deals-uk)
- - [Black Friday gaming chair deals UK: Your bottom deserves some love this deals season](https://www.pcgamer.com/black-friday-gaming-chair-deals-uk)
- - [Black Friday PC gaming deals UK: the best deals on PCs, components and peripherals](https://www.pcgamer.com/black-friday-pc-gaming-deals-uk-2021)<!-- GAME:END -->
+ - [Black Friday gaming PC deals 2021: RTX 30-series gaming rigs from $870](https://www.pcgamer.com/black-friday-gaming-pc-deals-2021)
+ - [Best Black Friday PC gaming deals: gaming laptops from $790 and RTX 30-series gaming PCs with deep discounts](https://www.pcgamer.com/black-friday-pc-gaming-deals-2021)
+ - [Black Friday SSD deals 2021: the fastest PC storage at the best prices](https://www.pcgamer.com/black-friday-ssd-deals-2021)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
