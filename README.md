@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Quite interesting](http://9gag.com/gag/aAG1rrL)
- - 🚯 [Absolutely Haram](http://9gag.com/gag/apgvoPp)
- - 🚯 [RAGE &lpar;Part 1&rpar;](http://9gag.com/gag/aRrAgpQ)<!-- MEMES:END -->
+ - 🚖 [RAGE &lpar;Part 1&rpar;](http://9gag.com/gag/aRrAgpQ)
+ - 🚯 [&amp;quot;Finally someone who understands me&amp;quot;](http://9gag.com/gag/aegG0yQ)
+ - 🚯 [Imagine getting shot by a toddler](http://9gag.com/gag/aVxPQ62)<!-- MEMES:END -->
 
 --- 
 
