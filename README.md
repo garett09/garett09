@@ -194,8 +194,8 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [What. An. Entrance.](http://9gag.com/gag/axBjjYK)
- - 🚯 [&amp;quot;Tonight We Ride in Rail!&amp;quot;](http://9gag.com/gag/aAG116g)
- - 🚯 [ALMOST HEAVEN](http://9gag.com/gag/a517r6o)<!-- MEMES:END -->
+ - 🚯 [People are blocking roads in Serbia. Police is not happy about it. These guys decided they will not block the road. They will only cross it legally, on the crossing, over and over again.](http://9gag.com/gag/a11MMpw)
+ - 🚯 [Stay away from debt](http://9gag.com/gag/a31BjQ7)<!-- MEMES:END -->
 
 --- 
 
