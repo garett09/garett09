@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at efforts to develop brain-computer interfaces, including Musk&#39;s Neuralink and a DARPA program to build a 64,000-electrode array for brain implants &lpar;Adam Rogers/Wired&rpar;](http://www.techmeme.com/211128/p2#a211128p2)
  - [The Absolute Best Black Friday Deals Online Right Now](https://www.wired.com/story/best-black-friday-deals-2021-2)
- - [Adobe: US consumers spent $8.9B online on Black Friday, down from the record $9B in 2020, the first ever YoY decline &lpar;Lauren Thomas/CNBC&rpar;](http://www.techmeme.com/211128/p1#a211128p1)
- - [Cyber Monday 2021 live blog: Best early deals so far     - CNET](https://www.cnet.com/tech/cyber-monday-2021-live-blog/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Adobe: US consumers spent $8.9B online on Black Friday, down from the record $9B in 2020, the first ever YoY decline &lpar;Lauren Thomas/CNBC&rpar;](http://www.techmeme.com/211128/p1#a211128p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
