@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Cyber Monday gaming chair deals 2021: sitting pretty this holiday season](https://www.pcgamer.com/cyber-monday-gaming-chair-deals-2021)
- - [A major $120 discount on this fast 1TB external SSD makes it hard to resist](https://www.pcgamer.com/a-major-dollar120-discount-on-this-fast-1tb-ssd-makes-it-hard-to-resist)
- - [Cyber Monday gaming PC deals: discounts on RTX 30-series gaming rigs and AMD systems](https://www.pcgamer.com/cyber-monday-gaming-pc-deals)<!-- GAME:END -->
+ - [Cyber Monday gaming monitor deals 2021: pixel perfect panels on offer](https://www.pcgamer.com/cyber-monday-gaming-monitor-deals-2021)
+ - [On Steam, Farming Simulator 22 Has More Active Players Than Battlefield 2042](https://kotaku.com/on-steam-farming-simulator-22-has-more-active-players-1848128969)
+ - [Red Notice is Netflix’s biggest movie of all time, says The Rock, rivaling Avengers: Endgame’s opening viewership](https://www.polygon.com/22806174/red-notice-netflix-viewer-numbers-most-watched-movie-of-all-time)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
