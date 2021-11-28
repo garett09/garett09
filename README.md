@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Razer&#39;s best wireless gaming mouse has never been as cheap as it is today](https://www.pcgamer.com/razer-deathadder-v2-pro-black-friday-deal)
  - [A massive 4TB NVMe SSD is definitely overkill, but for $250 off I&#39;ll consider it](https://www.pcgamer.com/a-massive-4tb-nvme-ssd-is-definitely-overkill-but-for-dollar250-off-ill-consider-it)
- - [Get a full 32GB of RAM for just $99 with this pair of G.Skill Ripjaws](https://www.pcgamer.com/get-a-full-32gb-of-ram-for-just-dollar99-with-this-pair-of-gskill-ripjaws)
- - [These two RTX 3060 Ti gaming PCs are $200 off right now for Cyber Monday](https://www.pcgamer.com/three-abs-master-gaming-pc-deals)<!-- GAME:END -->
+ - [Get a full 32GB of RAM for just $99 with this pair of G.Skill Ripjaws](https://www.pcgamer.com/get-a-full-32gb-of-ram-for-just-dollar99-with-this-pair-of-gskill-ripjaws)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
