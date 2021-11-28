@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The folds are super satisfying!](http://9gag.com/gag/angNy6q)
- - 🚯 [First advent](http://9gag.com/gag/axBjVDD)
- - 🚯 [A most excellent photograph.](http://9gag.com/gag/aZrMmX3)<!-- MEMES:END -->
+ - 🚖 [First advent](http://9gag.com/gag/axBjVDD)
+ - 🚯 [At this time, you know it&amp;#039;ll be another political bullshit to make the world panic.](http://9gag.com/gag/aNPnAx4)
+ - 🚯 [Symmetry in Russian construction](http://9gag.com/gag/aPZD9MG)<!-- MEMES:END -->
 
 --- 
 
