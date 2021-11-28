@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Cursive](http://9gag.com/gag/aDDojQB)
- - 🚯 [Thanks Rockstar](http://9gag.com/gag/aWg6m86)
- - 🚯 [Every tragedy has a lesson to learn.](http://9gag.com/gag/aOQVdLN)<!-- MEMES:END -->
+ - 🚖 [Every tragedy has a lesson to learn.](http://9gag.com/gag/aOQVdLN)
+ - 🚯 [Happy wife happy life](http://9gag.com/gag/a0ZpdWB)
+ - 🚯 [The folds are super satisfying!](http://9gag.com/gag/angNy6q)<!-- MEMES:END -->
 
 --- 
 
