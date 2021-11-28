@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Every tragedy has a lesson to learn.](http://9gag.com/gag/aOQVdLN)
- - 🚯 [Happy wife happy life](http://9gag.com/gag/a0ZpdWB)
- - 🚯 [The folds are super satisfying!](http://9gag.com/gag/angNy6q)<!-- MEMES:END -->
+ - 🚖 [The folds are super satisfying!](http://9gag.com/gag/angNy6q)
+ - 🚯 [First advent](http://9gag.com/gag/axBjVDD)
+ - 🚯 [A most excellent photograph.](http://9gag.com/gag/aZrMmX3)<!-- MEMES:END -->
 
 --- 
 
