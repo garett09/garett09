@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Exclusive look at Fall Guys Season 6 Round, Pipe Dream](https://blog.playstation.com/2021/11/28/exclusive-look-at-fall-guys-season-6-round-pipe-dream/)
- - [Exclusive look at Fall Guys Season 6 Round, Pipe Dream](https://blog.playstation.com/2021/11/28/exclusive-look-at-fall-guys-season-6-round-pipe-dream/)
- - [Cyber Monday Oculus Quest 2 deals: get $50 credit at Amazon and other retailers](https://www.pcgamer.com/oculus-quest-2-black-friday-deals-2021)<!-- GAME:END -->
+ - [The best CPU for gaming in 2021](https://www.pcgamer.com/best-cpu-for-gaming)
+ - [Halo 3 Legendary Edition’s helmet was cat head-sized, for some reason](https://www.polygon.com/22801118/halo-3-legendary-edition-cat-helmet-too-small-spartan)
+ - [The best gaming PC in 2021](https://www.pcgamer.com/best-gaming-pc)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
