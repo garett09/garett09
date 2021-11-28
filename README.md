@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nextcloud and ~30 other EU companies file an antitrust complaint with the European Commission against Microsoft for bundling OneDrive and Teams with Windows &lpar;Steven J. Vaughan-Nichols/ZDNet&rpar;](http://www.techmeme.com/211127/p8#a211127p8)
- - [Cyber Monday 2021 live blog: Best early deals so far     - CNET](https://www.cnet.com/tech/cyber-monday-2021-live-blog/#ftag=CAD590a51e)
- - [How to stream Lifetime Christmas movies](https://www.androidauthority.com/lifetime-christmas-movies-holiday-3064897/)<!-- TECH:END -->
+ - [The Absolute Best Black Friday Deals Online Right Now](https://www.wired.com/story/best-black-friday-deals-2021-2)
+ - [Adobe: US consumers spent $8.9B online on Black Friday, down from the record $9B in 2020, the first ever YoY decline &lpar;Lauren Thomas/CNBC&rpar;](http://www.techmeme.com/211128/p1#a211128p1)
+ - [Cyber Monday 2021 live blog: Best early deals so far     - CNET](https://www.cnet.com/tech/cyber-monday-2021-live-blog/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
