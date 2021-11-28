@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Best Black Friday PC gaming deals in Australia: heaps of deals are still live](https://www.pcgamer.com/black-friday-2021-the-pc-gaming-deals-you-can-expect-in-australia)
- - [Cyber Monday 2021 in Australia: the last day to grab a bargain has arrived](https://www.pcgamer.com/cyber-monday-2021-in-australia-as-tick-follows-tock-cyber-monday-deals-will-follow-black-friday)
- - [Get $160 off this massaging gaming chair that looks like Santa&#39;s elves got drunk in the RGB closet](https://www.pcgamer.com/get-dollar160-off-this-massaging-gaming-chair-that-looks-like-santas-elves-got-drunk-in-the-rgb-closet)<!-- GAME:END -->
+ - [Save $120 on one of the best wireless headsets in this Cyber Monday gaming headset deal](https://www.pcgamer.com/save-dollar120-on-one-of-the-best-wireless-headsets-in-this-cyber-monday-gaming-headset-deal)
+ - [Xbox Halo Infinite players want to opt-out of crossplay to avoid cheaters on PC](https://www.pcgamer.com/xbox-halo-infinite-players-want-to-opt-out-of-crossplay-to-avoid-cheaters-on-pc)
+ - [The Week In Games: It&#39;s Nearly December Already?](https://kotaku.com/the-week-in-games-its-nearly-december-already-1848129167)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
