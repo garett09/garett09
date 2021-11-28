@@ -194,8 +194,8 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [In Tamaulipas &lpar;a Mexican city&rpar; there is a guy who is catching thieves and painting them as the Joker.](http://9gag.com/gag/abg0pPp)
- - 🚯 [Justiiiiiice](http://9gag.com/gag/adgj7oM)
- - 🚯 [A most excellent photograph.](http://9gag.com/gag/aZrMmX3)<!-- MEMES:END -->
+ - 🚯 [Arabian camels were seen swimming in the Arabian Sea to Masirah, an island off the coast of Oman where camels frequently go to forage. They are known to travel back and forth regularly, approximately 10 km each way. Camels are good swimmers and can swim for hours.](http://9gag.com/gag/adgj91j)
+ - 🚯 [..plumps..](http://9gag.com/gag/aVxPqqd)<!-- MEMES:END -->
 
 --- 
 
