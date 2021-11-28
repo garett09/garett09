@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best CPU for gaming in 2021](https://www.pcgamer.com/best-cpu-for-gaming)
- - [Halo 3 Legendary Edition’s helmet was cat head-sized, for some reason](https://www.polygon.com/22801118/halo-3-legendary-edition-cat-helmet-too-small-spartan)
- - [The best gaming PC in 2021](https://www.pcgamer.com/best-gaming-pc)<!-- GAME:END -->
+ - [The Asus ROG Zephyrus G14 is an utter powerhouse and $200 off right now](https://www.pcgamer.com/cyber-monday-gaming-laptop-asus-zephyrus-g14-deal)
+ - [The best gaming headsets in 2021](https://www.pcgamer.com/best-gaming-headset)
+ - [The best CPU for gaming in 2021](https://www.pcgamer.com/best-cpu-for-gaming)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
