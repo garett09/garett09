@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best early Cyber Monday deals under $25](https://www.theverge.com/22796420/black-friday-2021-under-25-tech-deals-cheap-cyber-monday)
- - [Some of these Lenovo Cyber Monday deals are crazy](https://www.androidauthority.com/lenovo-cyber-monday-deals-3067850/)
- - [The best Samsung Galaxy Watch faces for the Galaxy Watch 4, 3, and more](https://www.androidauthority.com/best-samsung-galaxy-watch-faces-3053880/)<!-- TECH:END -->
+ - [Best deals Nov. 28: $100 off 13-inch M1 MacBook Pro, $108 Echo Buds, more!](https://appleinsider.com/articles/21/11/28/best-deals-nov-28-100-off-13-inch-m1-macbook-pro-108-echo-buds-more?utm_medium=rss)
+ - [24 Best Cyber Monday Deals on Coffee Makers and Gear](https://www.wired.com/story/best-cyber-monday-coffee-deals-2021)
+ - [The Best Cyber Monday Deals on Laptops and Home Office Gear](https://www.wired.com/story/best-cyber-monday-laptop-deals-2021)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
