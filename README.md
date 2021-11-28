@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Cyber Monday SSD deals: go solid state or go home this holiday season](https://www.pcgamer.com/cyber-monday-ssd-deals-2021)
- - [Cyber Monday gaming monitor deals 2021: pixel perfect panels on offer](https://www.pcgamer.com/cyber-monday-gaming-monitor-deals-2021)
- - [Cyber Monday gaming keyboard and mouse deals 2021: grab a more responsive setup and save big](https://www.pcgamer.com/cyber-monday-keyboard-mouse-deals-2021)<!-- GAME:END -->
+ - [Cyber Monday gaming chair deals 2021: sitting pretty this holiday season](https://www.pcgamer.com/cyber-monday-gaming-chair-deals-2021)
+ - [Cyber Monday gaming headset deals 2021: find the right pair of cans at a discount today](https://www.pcgamer.com/cyber-monday-gaming-headset-deals-2021)
+ - [Cyber Monday SSD deals: go solid state or go home this holiday season](https://www.pcgamer.com/cyber-monday-ssd-deals-2021)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
