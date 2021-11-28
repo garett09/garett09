@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Practicing nunchaku](http://9gag.com/gag/aPZDGjB)
- - 🚯 [What. An. Entrance.](http://9gag.com/gag/axBjjYK)
- - 🚯 [&amp;quot;Tonight We Ride in Rail!&amp;quot;](http://9gag.com/gag/aAG116g)<!-- MEMES:END -->
+ - 🚖 [What. An. Entrance.](http://9gag.com/gag/axBjjYK)
+ - 🚯 [&amp;quot;Tonight We Ride in Rail!&amp;quot;](http://9gag.com/gag/aAG116g)
+ - 🚯 [ALMOST HEAVEN](http://9gag.com/gag/a517r6o)<!-- MEMES:END -->
 
 --- 
 
