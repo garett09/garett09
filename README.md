@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best early Cyber Monday deals you can get on Google devices](https://www.theverge.com/22788031/google-black-friday-2021-deals-cyber-monday)
- - [The best deals you can still get on Amazon devices](https://www.theverge.com/22789253/black-friday-2021-amazon-echo-speaker-device-cyber-monday)
- - [What is Quick Charge? How does Qualcomm’s fast charging protocol work?](https://www.androidauthority.com/qualcomm-quick-charge-3053750/)<!-- TECH:END -->
+ - [The best early Cyber Monday deals happening now](https://www.theverge.com/22796645/cyber-monday-2021-early-deals-sales-tech-laptops-phones-tvs-headphones-gaming)
+ - [Backbone One gaming controller for the iPhone is $70 today](https://www.theverge.com/2021/11/28/22806494/backbone-one-iphone-gaming-controller-cyber-monday-sale-amazon)
+ - [The 15 Best Cyber Monday Pet Gear and Accessory Deals](https://www.wired.com/story/best-cyber-monday-pet-deals-2021)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
