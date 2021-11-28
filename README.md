@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Our Favorite Mattress Deals for Cyber Monday](https://www.wired.com/story/best-cyber-monday-mattress-deals-2021)
- - [All of Our Favorite Couches are on Sale for Cyber Monday](https://www.wired.com/story/best-cyber-monday-couch-deals-2021)
- - [The best early Cyber Monday deals at Walmart](https://www.theverge.com/22784126/walmart-black-friday-2021-tech-cyber-monday-deals)<!-- TECH:END -->
+ - [The best early Cyber Monday deals you can get on Google devices](https://www.theverge.com/22788031/google-black-friday-2021-deals-cyber-monday)
+ - [The best deals you can still get on Amazon devices](https://www.theverge.com/22789253/black-friday-2021-amazon-echo-speaker-device-cyber-monday)
+ - [What is Quick Charge? How does Qualcomm’s fast charging protocol work?](https://www.androidauthority.com/qualcomm-quick-charge-3053750/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
