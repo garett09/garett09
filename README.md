@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Now its true more than ever](http://9gag.com/gag/apgvQX8)
- - 🚯 [Instincts are important](http://9gag.com/gag/aZrMg69)
- - 🚯 [Arabian camels were seen swimming in the Arabian Sea to Masirah, an island off the coast of Oman where camels frequently go to forage. They are known to travel back and forth regularly, approximately 10 km each way. Camels are good swimmers and can swim for hours.](http://9gag.com/gag/adgj91j)<!-- MEMES:END -->
+ - 🚖 [Elastic thieve&amp;hellip;](http://9gag.com/gag/aAG1xv9)
+ - 🚯 [Arabian camels were seen swimming in the Arabian Sea to Masirah, an island off the coast of Oman where camels frequently go to forage. They are known to travel back and forth regularly, approximately 10 km each way. Camels are good swimmers and can swim for hours.](http://9gag.com/gag/adgj91j)
+ - 🚯 [Europe gas prices be like](http://9gag.com/gag/aM4GjvX)<!-- MEMES:END -->
 
 --- 
 
