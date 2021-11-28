@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Razer&#39;s best wireless gaming mouse has never been as cheap as it is today](https://www.pcgamer.com/razer-deathadder-v2-pro-black-friday-deal)
- - [A massive 4TB NVMe SSD is definitely overkill, but for $250 off I&#39;ll consider it](https://www.pcgamer.com/a-massive-4tb-nvme-ssd-is-definitely-overkill-but-for-dollar250-off-ill-consider-it)
- - [Get a full 32GB of RAM for just $99 with this pair of G.Skill Ripjaws](https://www.pcgamer.com/get-a-full-32gb-of-ram-for-just-dollar99-with-this-pair-of-gskill-ripjaws)<!-- GAME:END -->
+ - [Exclusive look at Fall Guys Season 6 Round, Pipe Dream](https://blog.playstation.com/2021/11/28/exclusive-look-at-fall-guys-season-6-round-pipe-dream/)
+ - [Exclusive look at Fall Guys Season 6 Round, Pipe Dream](https://blog.playstation.com/2021/11/28/exclusive-look-at-fall-guys-season-6-round-pipe-dream/)
+ - [Cyber Monday Oculus Quest 2 deals: get $50 credit at Amazon and other retailers](https://www.pcgamer.com/oculus-quest-2-black-friday-deals-2021)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
