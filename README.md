@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Cheeky little man](http://9gag.com/gag/aXr9qmg)
- - 🚯 [A most excellent photograph.](http://9gag.com/gag/aZrMmX3)
- - 🚯 [Now its true more than ever](http://9gag.com/gag/apgvQX8)<!-- MEMES:END -->
+ - 🚖 [Once you borrow from Chyna.... They take all your sh*t!](http://9gag.com/gag/aDDoz2x)
+ - 🚯 [Now its true more than ever](http://9gag.com/gag/apgvQX8)
+ - 🚯 [Cheese](http://9gag.com/gag/aog91qA)<!-- MEMES:END -->
 
 --- 
 
