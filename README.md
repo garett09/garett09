@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Happy wife happy life](http://9gag.com/gag/a0ZpdWB)
+ - 🚖 [The folds are super satisfying!](http://9gag.com/gag/angNy6q)
  - 🚯 [How to sell a Volkswagen](http://9gag.com/gag/aVxPDM8)
- - 🚯 [Crypto](http://9gag.com/gag/aog92de)<!-- MEMES:END -->
+ - 🚯 [Nothing changes](http://9gag.com/gag/aVxPDPM)<!-- MEMES:END -->
 
 --- 
 
