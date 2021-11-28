@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Black Friday gaming monitor deals 2021: the best and brightest screens at great prices](https://www.pcgamer.com/black-friday-gaming-monitor-deals-2021)
  - [A pile of our favorite board games are on sale for Black Friday](https://www.pcgamer.com/best-black-friday-board-game-deals)
- - [Cyberpunk 2077 rated &#39;very positive&#39; by new user reviews](https://www.pcgamer.com/cyberpunk-2077-rated-very-positive-by-new-user-reviews)
- - [The silent, elegant Define 7 PC case is $50 off right now](https://www.pcgamer.com/the-silent-elegant-define-7-pc-case-is-dollar50-off-right-now)<!-- GAME:END -->
+ - [Cyberpunk 2077 rated &#39;very positive&#39; by new user reviews](https://www.pcgamer.com/cyberpunk-2077-rated-very-positive-by-new-user-reviews)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
