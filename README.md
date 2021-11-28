@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gurman: Apple is still working on a multi-device charger, other short and long-distance wireless chargers, and reverse wireless charging for its devices &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/211128/p5#a211128p5)
- - [Early Cyber Monday smart home tech deals: speakers, cameras, robots, and more](https://www.theverge.com/22789311/black-friday-2021-smart-home-tech-speakers-cameras-cyber-monday)
- - [12 best Material You apps you can try on Android 12](https://www.androidauthority.com/best-material-you-apps-3059631/)<!-- TECH:END -->
+ - [Our Favorite Mattress Deals for Cyber Monday](https://www.wired.com/story/best-cyber-monday-mattress-deals-2021)
+ - [All of Our Favorite Couches are on Sale for Cyber Monday](https://www.wired.com/story/best-cyber-monday-couch-deals-2021)
+ - [The best early Cyber Monday deals at Walmart](https://www.theverge.com/22784126/walmart-black-friday-2021-tech-cyber-monday-deals)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
