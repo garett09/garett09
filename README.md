@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I was king for awhile](http://9gag.com/gag/aDDoGMZ)
- - 🚯 [Building a superconductor at home @madnessvideo](http://9gag.com/gag/aDDoj6K)
- - 🚯 [How to sell a Volkswagen](http://9gag.com/gag/aVxPDM8)<!-- MEMES:END -->
+ - 🚖 [Happy wife happy life](http://9gag.com/gag/a0ZpdWB)
+ - 🚯 [How to sell a Volkswagen](http://9gag.com/gag/aVxPDM8)
+ - 🚯 [Crypto](http://9gag.com/gag/aog92de)<!-- MEMES:END -->
 
 --- 
 
