@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon Cyber Monday deals are live: Up to 70% off Beats, routers, OLED TVs, Apple hardware, Sony headphones](https://appleinsider.com/articles/21/11/28/amazon-cyber-monday-deals-are-live-up-to-70-off-beats-routers-oled-tvs-apple-hardware-sony-headphones?utm_medium=rss)
  - [Best deals Nov. 28: $100 off 13-inch M1 MacBook Pro, $108 Echo Buds, more!](https://appleinsider.com/articles/21/11/28/best-deals-nov-28-100-off-13-inch-m1-macbook-pro-108-echo-buds-more?utm_medium=rss)
- - [24 Best Cyber Monday Deals on Coffee Makers and Gear](https://www.wired.com/story/best-cyber-monday-coffee-deals-2021)
- - [The Best Cyber Monday Deals on Laptops and Home Office Gear](https://www.wired.com/story/best-cyber-monday-laptop-deals-2021)<!-- TECH:END -->
+ - [24 Best Cyber Monday Deals on Coffee Makers and Gear](https://www.wired.com/story/best-cyber-monday-coffee-deals-2021)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
