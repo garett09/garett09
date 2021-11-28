@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best early Cyber Monday 2021 phone deals](https://www.theverge.com/22789359/black-friday-2021-best-phone-deals-cyber-monday)
- - [The best tech deals you can still get under $50](https://www.theverge.com/22789905/black-friday-2021-tech-deals-under-50-cyber-monday)
- - [Why are your favorite streaming TV shows canceled after one season?](https://www.androidauthority.com/streaming-tv-shows-canceled-after-one-season-3060166/)<!-- TECH:END -->
+ - [Early Cyber Monday deals for PS5, Xbox Series X, Nintendo Switch, and PC gaming](https://www.theverge.com/22792017/black-friday-2021-best-game-gaming-console-deals-cyber-monday)
+ - [Apple Car, AR Headset may face long delays between launch and release](https://appleinsider.com/articles/21/11/28/apple-car-ar-headset-may-face-long-delays-between-launch-and-release?utm_medium=rss)
+ - [Report: Raspberry Pi Trading hired investment banks Stifel and Liberum to advice on a London IPO planned for this spring, that would value Raspberry at ~$500M &lpar;Les Pounder/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/211128/p4#a211128p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
