@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The folds are super satisfying!](http://9gag.com/gag/angNy6q)
- - 🚯 [How to sell a Volkswagen](http://9gag.com/gag/aVxPDM8)
- - 🚯 [Nothing changes](http://9gag.com/gag/aVxPDPM)<!-- MEMES:END -->
+ - 🚖 [Queen thingz yuh](http://9gag.com/gag/aZrMBy0)
+ - 🚯 [Every tragedy has a lesson to learn.](http://9gag.com/gag/aOQVdLN)
+ - 🚯 [Interesting hahahahaha](http://9gag.com/gag/aegGb6m)<!-- MEMES:END -->
 
 --- 
 
