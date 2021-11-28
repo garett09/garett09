@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [What Is a Watering Hole Attack?](https://www.wired.com/story/what-is-a-watering-hole-attack-hacking)
- - [Looking for Alien Life? Seek Out Alien Tech](https://www.wired.com/story/aliens-technosignature-biosignature-anthropomorphism-humanity)
- - [Apple&#39;s new 16-inch MacBook Pro is $300 off and in stock for Cyber Monday](https://appleinsider.com/articles/21/11/27/apples-new-16-inch-macbook-pro-is-300-off-and-in-stock-for-cyber-monday?utm_medium=rss)<!-- TECH:END -->
+ - [The best early Cyber Monday 2021 phone deals](https://www.theverge.com/22789359/black-friday-2021-best-phone-deals-cyber-monday)
+ - [The best tech deals you can still get under $50](https://www.theverge.com/22789905/black-friday-2021-tech-deals-under-50-cyber-monday)
+ - [Why are your favorite streaming TV shows canceled after one season?](https://www.androidauthority.com/streaming-tv-shows-canceled-after-one-season-3060166/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
