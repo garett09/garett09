@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What. An. Entrance.](http://9gag.com/gag/axBjjYK)
- - 🚯 [Kids in Germany](http://9gag.com/gag/aog99QA)
- - 🚯 [Protests in Serbia Serbs are protesting against Rio Tinto, polluted air, selling fields to build factories, laws which allows companies to take land feom people. Pray for us!](http://9gag.com/gag/angNB70)<!-- MEMES:END -->
+ - 🚖 [So, any plans for X-mas &amp;amp; NewYear?](http://9gag.com/gag/aOQVvB6)
+ - 🚯 [What. An. Entrance.](http://9gag.com/gag/axBjjYK)
+ - 🚯 [Practicing nunchaku](http://9gag.com/gag/aPZDGjB)<!-- MEMES:END -->
 
 --- 
 
