@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Cyber Monday gaming chair deals 2021: sitting pretty this holiday season](https://www.pcgamer.com/cyber-monday-gaming-chair-deals-2021)
  - [A major $120 discount on this fast 1TB external SSD makes it hard to resist](https://www.pcgamer.com/a-major-dollar120-discount-on-this-fast-1tb-ssd-makes-it-hard-to-resist)
- - [Cyber Monday gaming PC deals: discounts on RTX 30-series gaming rigs and AMD systems](https://www.pcgamer.com/cyber-monday-gaming-pc-deals)
- - [Best Selling Console On Black Friday Wasn&#39;t The Switch Or PS5, But The Xbox Series S](https://kotaku.com/best-selling-console-on-black-friday-wasnt-the-switch-o-1848128635)<!-- GAME:END -->
+ - [Cyber Monday gaming PC deals: discounts on RTX 30-series gaming rigs and AMD systems](https://www.pcgamer.com/cyber-monday-gaming-pc-deals)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
