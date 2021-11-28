@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Queen thingz yuh](http://9gag.com/gag/aZrMBy0)
- - 🚯 [Every tragedy has a lesson to learn.](http://9gag.com/gag/aOQVdLN)
- - 🚯 [Interesting hahahahaha](http://9gag.com/gag/aegGb6m)<!-- MEMES:END -->
+ - 🚖 [Cursive](http://9gag.com/gag/aDDojQB)
+ - 🚯 [Thanks Rockstar](http://9gag.com/gag/aWg6m86)
+ - 🚯 [Every tragedy has a lesson to learn.](http://9gag.com/gag/aOQVdLN)<!-- MEMES:END -->
 
 --- 
 
