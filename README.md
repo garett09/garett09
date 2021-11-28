@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [First advent](http://9gag.com/gag/axBjVDD)
- - 🚯 [At this time, you know it&amp;#039;ll be another political bullshit to make the world panic.](http://9gag.com/gag/aNPnAx4)
- - 🚯 [Symmetry in Russian construction](http://9gag.com/gag/aPZD9MG)<!-- MEMES:END -->
+ - 🚖 [In Tamaulipas &lpar;a Mexican city&rpar; there is a guy who is catching thieves and painting them as the Joker.](http://9gag.com/gag/abg0pPp)
+ - 🚯 [Justiiiiiice](http://9gag.com/gag/adgj7oM)
+ - 🚯 [A most excellent photograph.](http://9gag.com/gag/aZrMmX3)<!-- MEMES:END -->
 
 --- 
 
