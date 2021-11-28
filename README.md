@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [What to Know Before You Take a Job in a Hybrid Workplace](https://www.wired.com/story/what-to-know-new-job-hybrid-workplace-remote-work)
- - [The Android 12 Privacy Settings You Should Update Now](https://www.wired.com/story/android-12-privacy-settings-updates)
- - [Best Black Friday Deals: Save up to $3500 on Macs, iPads, Apple Watch, AirPods, TVs, more](https://appleinsider.com/articles/21/11/26/best-black-friday-deals-save-up-to-3500-on-macs-ipads-apple-watch-airpods-tvs-more?utm_medium=rss)<!-- TECH:END -->
+ - [Recent cyberattacks on Iran&#39;s fuel distribution system and an Israeli LGBTQ dating site show that Iran-Israel cyberwar is impacting civilians on a large scale &lpar;New York Times&rpar;](http://www.techmeme.com/211128/p3#a211128p3)
+ - [The end of smartphones with headphone jacks is nigh, even on budget devices](https://www.androidauthority.com/headphone-jack-3060255/)
+ - [7 Tips to Improve Battery Life on Windows 11](https://www.wired.com/story/7-tips-improve-battery-life-windows-11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
