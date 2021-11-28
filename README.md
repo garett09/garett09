@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Early Cyber Monday deals for PS5, Xbox Series X, Nintendo Switch, and PC gaming](https://www.theverge.com/22792017/black-friday-2021-best-game-gaming-console-deals-cyber-monday)
- - [Apple Car, AR Headset may face long delays between launch and release](https://appleinsider.com/articles/21/11/28/apple-car-ar-headset-may-face-long-delays-between-launch-and-release?utm_medium=rss)
- - [Report: Raspberry Pi Trading hired investment banks Stifel and Liberum to advice on a London IPO planned for this spring, that would value Raspberry at ~$500M &lpar;Les Pounder/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/211128/p4#a211128p4)<!-- TECH:END -->
+ - [Gurman: Apple is still working on a multi-device charger, other short and long-distance wireless chargers, and reverse wireless charging for its devices &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/211128/p5#a211128p5)
+ - [Early Cyber Monday smart home tech deals: speakers, cameras, robots, and more](https://www.theverge.com/22789311/black-friday-2021-smart-home-tech-speakers-cameras-cyber-monday)
+ - [12 best Material You apps you can try on Android 12](https://www.androidauthority.com/best-material-you-apps-3059631/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
