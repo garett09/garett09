@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Cyber Monday gaming chair deals 2021: sitting pretty this holiday season](https://www.pcgamer.com/cyber-monday-gaming-chair-deals-2021)
- - [Cyber Monday gaming headset deals 2021: find the right pair of cans at a discount today](https://www.pcgamer.com/cyber-monday-gaming-headset-deals-2021)
- - [Cyber Monday SSD deals: go solid state or go home this holiday season](https://www.pcgamer.com/cyber-monday-ssd-deals-2021)<!-- GAME:END -->
+ - [A massive 4TB NVMe SSD is definitely overkill, but for $250 off I&#39;ll consider it](https://www.pcgamer.com/a-massive-4tb-nvme-ssd-is-definitely-overkill-but-for-dollar250-off-ill-consider-it)
+ - [Get a full 32GB of RAM for just $99 with this pair of G.Skill Ripjaws](https://www.pcgamer.com/get-a-full-32gb-of-ram-for-just-dollar99-with-this-pair-of-gskill-ripjaws)
+ - [These two RTX 3060 Ti gaming PCs are $200 off right now for Cyber Monday](https://www.pcgamer.com/three-abs-master-gaming-pc-deals)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
