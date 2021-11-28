@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Recent cyberattacks on Iran&#39;s fuel distribution system and an Israeli LGBTQ dating site show that Iran-Israel cyberwar is impacting civilians on a large scale &lpar;New York Times&rpar;](http://www.techmeme.com/211128/p3#a211128p3)
- - [The end of smartphones with headphone jacks is nigh, even on budget devices](https://www.androidauthority.com/headphone-jack-3060255/)
- - [7 Tips to Improve Battery Life on Windows 11](https://www.wired.com/story/7-tips-improve-battery-life-windows-11)<!-- TECH:END -->
+ - [What Is a Watering Hole Attack?](https://www.wired.com/story/what-is-a-watering-hole-attack-hacking)
+ - [Looking for Alien Life? Seek Out Alien Tech](https://www.wired.com/story/aliens-technosignature-biosignature-anthropomorphism-humanity)
+ - [Apple&#39;s new 16-inch MacBook Pro is $300 off and in stock for Cyber Monday](https://appleinsider.com/articles/21/11/27/apples-new-16-inch-macbook-pro-is-300-off-and-in-stock-for-cyber-monday?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
