@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Once you borrow from Chyna.... They take all your sh*t!](http://9gag.com/gag/aDDoz2x)
- - 🚯 [Now its true more than ever](http://9gag.com/gag/apgvQX8)
- - 🚯 [Cheese](http://9gag.com/gag/aog91qA)<!-- MEMES:END -->
+ - 🚖 [Now its true more than ever](http://9gag.com/gag/apgvQX8)
+ - 🚯 [Instincts are important](http://9gag.com/gag/aZrMg69)
+ - 🚯 [Arabian camels were seen swimming in the Arabian Sea to Masirah, an island off the coast of Oman where camels frequently go to forage. They are known to travel back and forth regularly, approximately 10 km each way. Camels are good swimmers and can swim for hours.](http://9gag.com/gag/adgj91j)<!-- MEMES:END -->
 
 --- 
 
