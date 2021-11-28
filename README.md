@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Stay away from debt](http://9gag.com/gag/a31BjQ7)
- - 🚯 [Watched this for an hour](http://9gag.com/gag/aDDojwN)
- - 🚯 [Roster attack and kill a hawk that was trying to grab a hen](http://9gag.com/gag/aYreL9q)<!-- MEMES:END -->
+ - 🚖 [Watched this for an hour](http://9gag.com/gag/aDDojwN)
+ - 🚯 [So, any plans for X-mas &amp;amp; NewYear?](http://9gag.com/gag/aOQVvB6)
+ - 🚯 [The World&amp;rsquo;s Most Successful Forensic Artist](http://9gag.com/gag/aM4G9WG)<!-- MEMES:END -->
 
 --- 
 
