@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [What are NFTs? Are they the next digital revolution or a blatant scam?](https://www.androidauthority.com/non-fungible-tokens-nft-3061350/)
- - [The 43 Best Black Friday Deals at Amazon This Year](https://www.wired.com/story/best-amazon-black-friday-deals-2021-1)
- - [33 Best Black Friday Video Game and Accessory Deals](https://www.wired.com/story/best-black-friday-video-game-deals-2021-2)<!-- TECH:END -->
+ - [Cyber Monday 2021 live blog: Best early deals so far     - CNET](https://www.cnet.com/tech/cyber-monday-2021-live-blog/#ftag=CAD590a51e)
+ - [The 17 Best Pet Gear and Accessory Deals](https://www.wired.com/story/best-black-friday-pet-deals-2021)
+ - [What are NFTs? Are they the next digital revolution or a blatant scam?](https://www.androidauthority.com/non-fungible-tokens-nft-3061350/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
