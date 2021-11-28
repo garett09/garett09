@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Watched this for an hour](http://9gag.com/gag/aDDojwN)
- - 🚯 [So, any plans for X-mas &amp;amp; NewYear?](http://9gag.com/gag/aOQVvB6)
- - 🚯 [The World&amp;rsquo;s Most Successful Forensic Artist](http://9gag.com/gag/aM4G9WG)<!-- MEMES:END -->
+ - 🚖 [I was king for awhile](http://9gag.com/gag/aDDoGMZ)
+ - 🚯 [Building a superconductor at home @madnessvideo](http://9gag.com/gag/aDDoj6K)
+ - 🚯 [How to sell a Volkswagen](http://9gag.com/gag/aVxPDM8)<!-- MEMES:END -->
 
 --- 
 
