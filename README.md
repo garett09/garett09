@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Stay away from debt](http://9gag.com/gag/a31BjQ7)
- - 🚯 [The World&amp;rsquo;s Most Successful Forensic Artist](http://9gag.com/gag/aM4G9WG)
- - 🚯 [Kids in Germany](http://9gag.com/gag/aog99QA)<!-- MEMES:END -->
+ - 🚖 [Almost 40 and decided to start a one man band making music that sounds like the late 90s. All DIY.](http://9gag.com/gag/aE877xo)
+ - 🚯 [Stay away from debt](http://9gag.com/gag/a31BjQ7)
+ - 🚯 [Damn those Omicrons](http://9gag.com/gag/aog995A)<!-- MEMES:END -->
 
 --- 
 
