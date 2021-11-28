@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best deals you can still get on Amazon devices](https://www.theverge.com/22789253/black-friday-2021-amazon-echo-speaker-device-cyber-monday)
- - [The best deals you can still get on Microsoft devices](https://www.theverge.com/22796308/microsoft-black-friday-2021-deals-laptops-cyber-monday)
- - [The best Black Friday 2021 tech deals still available](https://www.theverge.com/22803553/black-friday-2021-best-tech-deals-still-available-laptops-phones-tvs-headphones-gaming)<!-- TECH:END -->
+ - [33 Best Black Friday Video Game and Accessory Deals](https://www.wired.com/story/best-black-friday-video-game-deals-2021-2)
+ - [Spotify confirms it is retiring the Car View mode in its mobile apps, offering no replacement, but says it is working to improve how users listen while driving &lpar;Arol Wright/Android Police&rpar;](http://www.techmeme.com/211127/p7#a211127p7)
+ - [44 Best Black Friday Deals on Phones, Tablets, and Smartwatches](https://www.wired.com/story/best-black-friday-phone-deals-tablet-watch-2021)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
