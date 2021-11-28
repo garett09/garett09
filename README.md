@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Walmart Cyber Monday 2021 sale: The best deals that are already live     - CNET](https://www.cnet.com/tech/walmart-cyber-monday-deals-2021/#ftag=CAD590a51e)
- - [Cyber Monday 2021 live blog: Best early deals you don&#39;t need to wait to buy     - CNET](https://www.cnet.com/tech/cyber-monday-2021-live-blog/#ftag=CAD590a51e)
- - [Best Black Friday Deals on Sex Toys, Vibrators, and Lubes](https://www.wired.com/story/best-black-friday-sex-toy-deals-2021)<!-- TECH:END -->
+ - [What to Know Before You Take a Job in a Hybrid Workplace](https://www.wired.com/story/what-to-know-new-job-hybrid-workplace-remote-work)
+ - [The Android 12 Privacy Settings You Should Update Now](https://www.wired.com/story/android-12-privacy-settings-updates)
+ - [Best Black Friday Deals: Save up to $3500 on Macs, iPads, Apple Watch, AirPods, TVs, more](https://appleinsider.com/articles/21/11/26/best-black-friday-deals-save-up-to-3500-on-macs-ipads-apple-watch-airpods-tvs-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
