@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Black Friday Deals on Sex Toys, Vibrators, and Lubes](https://www.wired.com/story/best-black-friday-sex-toy-deals-2021)
- - [A look at efforts to develop brain-computer interfaces, including Musk&#39;s Neuralink and a DARPA program to build a 64,000-electrode array for brain implants &lpar;Adam Rogers/Wired&rpar;](http://www.techmeme.com/211128/p2#a211128p2)
- - [The Absolute Best Black Friday Deals Online Right Now](https://www.wired.com/story/best-black-friday-deals-2021-2)<!-- TECH:END -->
+ - [Walmart Cyber Monday 2021 sale: The best deals that are already live     - CNET](https://www.cnet.com/tech/walmart-cyber-monday-deals-2021/#ftag=CAD590a51e)
+ - [Cyber Monday 2021 live blog: Best early deals you don&#39;t need to wait to buy     - CNET](https://www.cnet.com/tech/cyber-monday-2021-live-blog/#ftag=CAD590a51e)
+ - [Best Black Friday Deals on Sex Toys, Vibrators, and Lubes](https://www.wired.com/story/best-black-friday-sex-toy-deals-2021)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
