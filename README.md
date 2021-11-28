@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Cyber Monday gaming monitor deals 2021: pixel perfect panels on offer](https://www.pcgamer.com/cyber-monday-gaming-monitor-deals-2021)
- - [On Steam, Farming Simulator 22 Has More Active Players Than Battlefield 2042](https://kotaku.com/on-steam-farming-simulator-22-has-more-active-players-1848128969)
- - [Red Notice is Netflix’s biggest movie of all time, says The Rock, rivaling Avengers: Endgame’s opening viewership](https://www.polygon.com/22806174/red-notice-netflix-viewer-numbers-most-watched-movie-of-all-time)<!-- GAME:END -->
+ - [Best Black Friday PC gaming deals in Australia: heaps of deals are still live](https://www.pcgamer.com/black-friday-2021-the-pc-gaming-deals-you-can-expect-in-australia)
+ - [Cyber Monday 2021 in Australia: the last day to grab a bargain has arrived](https://www.pcgamer.com/cyber-monday-2021-in-australia-as-tick-follows-tock-cyber-monday-deals-will-follow-black-friday)
+ - [Get $160 off this massaging gaming chair that looks like Santa&#39;s elves got drunk in the RGB closet](https://www.pcgamer.com/get-dollar160-off-this-massaging-gaming-chair-that-looks-like-santas-elves-got-drunk-in-the-rgb-closet)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
