@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to stream Lifetime Christmas movies](https://www.androidauthority.com/lifetime-christmas-movies-holiday-3064897/)
  - [Cyber Monday 2021 live blog: Best early deals so far     - CNET](https://www.cnet.com/tech/cyber-monday-2021-live-blog/#ftag=CAD590a51e)
- - [The 17 Best Pet Gear and Accessory Deals](https://www.wired.com/story/best-black-friday-pet-deals-2021)
- - [What are NFTs? Are they the next digital revolution or a blatant scam?](https://www.androidauthority.com/non-fungible-tokens-nft-3061350/)<!-- TECH:END -->
+ - [The 17 Best Pet Gear and Accessory Deals](https://www.wired.com/story/best-black-friday-pet-deals-2021)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
