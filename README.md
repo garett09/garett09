@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Asus ROG Zephyrus G14 is an utter powerhouse and $200 off right now](https://www.pcgamer.com/cyber-monday-gaming-laptop-asus-zephyrus-g14-deal)
- - [The best gaming headsets in 2021](https://www.pcgamer.com/best-gaming-headset)
- - [The best CPU for gaming in 2021](https://www.pcgamer.com/best-cpu-for-gaming)<!-- GAME:END -->
+ - [Best Selling Console On Black Friday Wasn&#39;t The Switch Or PS5, But The Xbox Series S](https://kotaku.com/best-selling-console-on-black-friday-wasnt-the-switch-o-1848128635)
+ - [Cyber Monday gaming keyboard and mouse deals 2021: grab a more responsive setup and save big](https://www.pcgamer.com/cyber-monday-keyboard-mouse-deals-2021)
+ - [The Asus ROG Zephyrus G14 is an utter powerhouse and $200 off right now](https://www.pcgamer.com/cyber-monday-gaming-laptop-asus-zephyrus-g14-deal)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
