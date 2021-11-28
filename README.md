@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Two very different games about politics: Yes, Prime Minister and Floor 13](https://www.pcgamer.com/saturday-crapshoot-british-politics-special-yes-prime-minister-floor-13)
- - [Someone Replaced The Dinos In Jurassic World Evolution 2 With Uh... Ice Age Characters](https://kotaku.com/someone-replaced-the-dinos-in-jurassic-world-evolution-1848127637)
- - [Do you vote in the Steam Awards?](https://www.pcgamer.com/do-you-vote-in-the-steam-awards)<!-- GAME:END -->
+ - [Cyberpunk 2077 rated &#39;very positive&#39; by new user reviews](https://www.pcgamer.com/cyberpunk-2077-rated-very-positive-by-new-user-reviews)
+ - [The silent, elegant Define 7 PC case is $50 off right now](https://www.pcgamer.com/the-silent-elegant-define-7-pc-case-is-dollar50-off-right-now)
+ - [Two very different games about politics: Yes, Prime Minister and Floor 13](https://www.pcgamer.com/saturday-crapshoot-british-politics-special-yes-prime-minister-floor-13)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
