@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Just a Cotton Wool with PVA Glue](http://9gag.com/gag/aegGD4W)
- - 🚯 [In Sochi Russia, Incredible teamwork on mall escalator to free a little girl who caught her hand in the moving staircase](http://9gag.com/gag/aAG1e49)
- - 🚯 [He broke his neck with the power of a million suns lmao](http://9gag.com/gag/axBj9OK)<!-- MEMES:END -->
+ - 🚖 [In Sochi Russia, Incredible teamwork on mall escalator to free a little girl who caught her hand in the moving staircase](http://9gag.com/gag/aAG1e49)
+ - 🚯 [He broke his neck with the power of a million suns lmao](http://9gag.com/gag/axBj9OK)
+ - 🚯 [Salt Wanker](http://9gag.com/gag/a21mWoZ)<!-- MEMES:END -->
 
 --- 
 
