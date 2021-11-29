@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Cyber Monday gaming router and networking deals 2021: the best router and networking deals for any budget](https://www.pcgamer.com/black-friday-gaming-router-and-networking-deals-2021-the-best-router-and-networking-deals-for-any-budget)
- - [Fans Are Bringing PlayStation Home Back To Life](https://kotaku.com/fans-are-bringing-playstation-home-back-to-life-1848129254)
- - [4.1GB of HD models and textures added to Neverwinter Nights Enhanced Edition](https://www.pcgamer.com/41gb-of-hd-models-and-textures-added-to-neverwinter-nights-enhanced-edition)<!-- GAME:END -->
+ - [Find the right monitor for your gaming style](https://www.pcgamer.com/find-the-right-monitor-for-your-gaming-style)
+ - [End of Year Deals promotion comes to PlayStation Store](https://blog.playstation.com/2021/11/28/end-of-year-deals-promotion-comes-to-playstation-store/)
+ - [End of Year Deals promotion comes to PlayStation Store](https://blog.playstation.com/2021/11/28/end-of-year-deals-promotion-comes-to-playstation-store/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
