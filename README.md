@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Cyber Monday streaming deals for Hulu, YouTube TV, and more](https://www.theverge.com/22800858/black-friday-2021-streaming-deals-shows-movies-subscription-cyber-monday)
- - [Q&amp;A with Forte founder and CEO Josh Williams on Forte&#39;s $725M Series B, adding &quot;real purpose&quot; to speculation-fueled tokens via games, potential regulation, more &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/211129/p4#a211129p4)
- - [The Absolute Best Cyber Monday Deals Online Right Now](https://www.wired.com/story/best-cyber-monday-deals-2021-1)<!-- TECH:END -->
+ - [Russia&#39;s Roskomnadzor regulator says its slowdown of Twitter on mobile, in force since March, will continue until all content deemed illegal is removed &lpar;Gleb Stolyarov/Reuters&rpar;](http://www.techmeme.com/211129/p7#a211129p7)
+ - [Intel is stockpiling around 3,000 legacy pieces of its hardware and software, going back about a decade, for security research at a warehouse in Costa Rica &lpar;James Rundle/Wall Street Journal&rpar;](http://www.techmeme.com/211129/p6#a211129p6)
+ - [Cyber Monday 2021: The best tech deals today](https://www.androidauthority.com/black-friday-deals-3049753/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
