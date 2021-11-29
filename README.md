@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I don&amp;rsquo;t understand this trend](http://9gag.com/gag/aNPnYxw)
- - 🚯 [How many more Covid variants will there be?](http://9gag.com/gag/aKmqjWQ)
- - 🚯 [News flash &amp;quot;horses are CANCELLED&amp;quot;](http://9gag.com/gag/aKmqx21)<!-- MEMES:END -->
+ - 🚖 [News flash &amp;quot;horses are CANCELLED&amp;quot;](http://9gag.com/gag/aKmqx21)
+ - 🚯 [I don&amp;rsquo;t understand this trend](http://9gag.com/gag/aNPnYxw)
+ - 🚯 [The struggle is real](http://9gag.com/gag/avAPONZ)<!-- MEMES:END -->
 
 --- 
 
