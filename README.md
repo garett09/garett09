@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [In Sochi Russia, Incredible teamwork on mall escalator to free a little girl who caught her hand in the moving staircase](http://9gag.com/gag/aAG1e49)
- - 🚯 [He broke his neck with the power of a million suns lmao](http://9gag.com/gag/axBj9OK)
- - 🚯 [Salt Wanker](http://9gag.com/gag/a21mWoZ)<!-- MEMES:END -->
+ - 🚖 [*Bonk*](http://9gag.com/gag/a517EDq)
+ - 🚯 [Salt Wanker](http://9gag.com/gag/a21mWoZ)
+ - 🚯 [Two busses protecting courirs from flying away in the strong wind](http://9gag.com/gag/aKmq69Q)<!-- MEMES:END -->
 
 --- 
 
