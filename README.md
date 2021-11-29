@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Good question](http://9gag.com/gag/aPZDj5g)
- - 🚯 [Guys. I really don&amp;rsquo;t care anymore](http://9gag.com/gag/aXr9x5z)
- - 🚯 [Cool Musical Instruments From Around The World! &lpar;3:10&rpar;](http://9gag.com/gag/aBnY01O)<!-- MEMES:END -->
+ - 🚖 [Guys. I really don&amp;rsquo;t care anymore](http://9gag.com/gag/aXr9x5z)
+ - 🚯 [Good question](http://9gag.com/gag/aPZDj5g)
+ - 🚯 [News flash &amp;quot;horses are CANCELLED&amp;quot;](http://9gag.com/gag/aKmqx21)<!-- MEMES:END -->
 
 --- 
 
