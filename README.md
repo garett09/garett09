@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [You told us: Who knew WhatsApp stickers were this popular?](https://www.androidauthority.com/whatsapp-stickers-poll-results-3067953/)
- - [Thought Machine, which helps banks launch cloud-based services, raises a $200M Series C led by Nyca Partners at a $1B+ valuation &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/211129/p2#a211129p2)
- - [Daily Authority: 😬 Spy game foiled?](https://www.androidauthority.com/newsletters/da-november-29-2021/)<!-- TECH:END -->
+ - [The Cyber Monday streaming deals for Hulu, YouTube TV, and more](https://www.theverge.com/22800858/black-friday-2021-streaming-deals-shows-movies-subscription-cyber-monday)
+ - [Q&amp;A with Forte founder and CEO Josh Williams on Forte&#39;s $725M Series B, adding &quot;real purpose&quot; to speculation-fueled tokens via games, potential regulation, more &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/211129/p4#a211129p4)
+ - [The Absolute Best Cyber Monday Deals Online Right Now](https://www.wired.com/story/best-cyber-monday-deals-2021-1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
