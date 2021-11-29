@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Cyber Monday 2021 in Australia: the last day to grab a bargain has arrived](https://www.pcgamer.com/cyber-monday-2021-in-australia-as-tick-follows-tock-cyber-monday-deals-will-follow-black-friday)
- - [Create the mythic history of humanity in this colony builder](https://www.pcgamer.com/create-the-mythic-history-of-humanity-in-this-colony-builder)
- - [Ghostbusters: The Video Game Remastered won&#39;t get multiplayer after all](https://www.pcgamer.com/ghostbusters-the-video-game-remastered-wont-get-multiplayer-after-all)<!-- GAME:END -->
+ - [Steam passes 27M concurrent users to set a new record](https://www.pcgamer.com/steam-passes-27m-concurrent-users-to-set-a-new-high)
+ - [Please Enjoy A Website That Reads Steam Reviews To You](https://kotaku.com/please-enjoy-a-website-that-reads-steam-reviews-to-you-1848129345)
+ - [Cyber Monday 2021 in Australia: the last day to grab a bargain has arrived](https://www.pcgamer.com/cyber-monday-2021-in-australia-as-tick-follows-tock-cyber-monday-deals-will-follow-black-friday)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
