@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [News flash &amp;quot;horses are CANCELLED&amp;quot;](http://9gag.com/gag/aKmqx21)
- - 🚯 [I don&amp;rsquo;t understand this trend](http://9gag.com/gag/aNPnYxw)
- - 🚯 [The struggle is real](http://9gag.com/gag/avAPONZ)<!-- MEMES:END -->
+ - 🚖 [The struggle is real](http://9gag.com/gag/avAPONZ)
+ - 🚯 [Cool Musical Instruments From Around The World! &lpar;3:10&rpar;](http://9gag.com/gag/aBnY01O)
+ - 🚯 [Damn Right!!](http://9gag.com/gag/aRrA18j)<!-- MEMES:END -->
 
 --- 
 
