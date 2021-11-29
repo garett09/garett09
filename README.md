@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Puppy&amp;#039;s first visit to the vet...](http://9gag.com/gag/a617Nz2)
- - 🚯 [What In the KRAKEN IS THAT](http://9gag.com/gag/arnKo5X)
+ - 🚖 [Just a Cotton Wool with PVA Glue](http://9gag.com/gag/aegGD4W)
+ - 🚯 [Omikron has arrived](http://9gag.com/gag/azejmLx)
  - 🚯 [*grabs popcorn*](http://9gag.com/gag/aVxPwXy)<!-- MEMES:END -->
 
 --- 
