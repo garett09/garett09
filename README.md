@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon launches AWS IoT RoboRunner to simplify building management apps for robot fleets and AWS Robotics Startup Accelerator for AWS credits and expert advice &lpar;Kyle Wiggers/VentureBeat&rpar;](http://www.techmeme.com/211129/p14#a211129p14)
- - [12 Cyber Monday Deals the WIRED Gear Team Snapped Up](https://www.wired.com/story/cyber-monday-deals-wired-team-bought-2021)
- - [Samsung Cyber Monday deals: The best sales Sammy has to offer](https://www.androidauthority.com/samsung-cyber-monday-2021-3068578/)<!-- TECH:END -->
+ - [The best Cyber Monday deals at Staples](https://www.theverge.com/22796424/staples-black-friday-2021-tech-cyber-monday-headphones-tablets-smart-displays)
+ - [The best Cyber Monday deals at Walmart](https://www.theverge.com/22784126/walmart-black-friday-2021-tech-cyber-monday-deals)
+ - [The 77 Best Cyber Monday Deals at Amazon This Year](https://www.wired.com/story/best-amazon-cyber-monday-deals-2021)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
