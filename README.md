@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Farmer flips car that was parked on his land](http://9gag.com/gag/avAP5nO)
+ - 🚖 [First movie came out 20 years ago.](http://9gag.com/gag/aVxPbow)
  - 🚯 [Covid-19 waves in Europe](http://9gag.com/gag/apgvgBn)
- - 🚯 [Still haven&amp;#039;t seen a single Xbox in-store..](http://9gag.com/gag/a81M18O)<!-- MEMES:END -->
+ - 🚯 [Too late now](http://9gag.com/gag/aog9M1X)<!-- MEMES:END -->
 
 --- 
 
