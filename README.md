@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 37 Best Cyber Monday Deals at Target Today](https://www.wired.com/story/best-target-cyber-monday-deals-2021)
  - [Cyber Monday Deals: Save up to 70% on Apple MacBooks, AirPods, Amazon devices, software, more](https://appleinsider.com/articles/21/11/29/cyber-monday-deals-save-up-to-70-on-apple-macbooks-airpods-amazon-devices-software-more?utm_medium=rss)
- - [B&amp;H Cyber Monday Sale: Mac hardware as low as $629, 14-inch MacBook Pro $1,799 and in stock, $100 off iPads](https://appleinsider.com/articles/21/11/29/bh-cyber-monday-sale-mac-hardware-as-low-as-629-14-inch-macbook-pro-1799-and-in-stock-100-off-ipads?utm_medium=rss)<!-- TECH:END -->
+ - [The Best Cyber Monday Deals on STEM Toys for Kids](https://www.wired.com/story/best-cyber-monday-toy-deals-2021)
+ - [Mediatek Dimensity 7000 specs leak: A few steps below the Dimensity 9000](https://www.androidauthority.com/mediatek-dimensity-7000-3067935/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
