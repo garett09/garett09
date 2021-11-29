@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [44 Best Cyber Monday Deals on Phones, Tablets, and Smartwatches](https://www.wired.com/story/best-cyber-monday-phone-deals-table-watch-2021)
- - [Cyber Monday Deals: Save up to 70% on Apple MacBooks, AirPods, Amazon devices, software, more](https://appleinsider.com/articles/21/11/29/cyber-monday-deals-save-up-to-70-on-apple-macbooks-airpods-amazon-devices-software-more?utm_medium=rss)
- - [The Best Cyber Monday Deals on STEM Toys for Kids](https://www.wired.com/story/best-cyber-monday-toy-deals-2021)<!-- TECH:END -->
+ - [Poll: How often do you upgrade to a new TV?](https://www.androidauthority.com/how-often-upgrade-tv-poll-3068036/)
+ - [The Best Cyber Monday Vacuuming and Cleaning Deals](https://www.wired.com/story/best-cyber-monday-vacuum-deals-2021)
+ - [Best price ever: Babbel&#39;s Lifetime Language Learning Subscription drops to $179 &lpar;$320 off&rpar;](https://appleinsider.com/articles/21/11/19/best-price-ever-babbels-lifetime-language-learning-subscription-drops-to-179-320-off?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
