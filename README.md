@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Cyber Monday deals at Staples](https://www.theverge.com/22796424/staples-black-friday-2021-tech-cyber-monday-headphones-tablets-smart-displays)
- - [The best Cyber Monday deals at Walmart](https://www.theverge.com/22784126/walmart-black-friday-2021-tech-cyber-monday-deals)
- - [The 77 Best Cyber Monday Deals at Amazon This Year](https://www.wired.com/story/best-amazon-cyber-monday-deals-2021)<!-- TECH:END -->
+ - [51 Best Cyber Monday Deals on Phones, Tablets, and Smartwatches](https://www.wired.com/story/best-cyber-monday-phone-deals-table-watch-2021)
+ - [The Best Cyber Monday Deals for Your Kitchen](https://www.wired.com/story/best-cyber-monday-kitchen-deals-2021)
+ - [The 40 Best Cyber Monday Deals at Target Today](https://www.wired.com/story/best-target-cyber-monday-deals-2021)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
