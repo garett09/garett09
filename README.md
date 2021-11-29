@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Guys. I really don&amp;rsquo;t care anymore](http://9gag.com/gag/aXr9x5z)
+ - 🚖 [Imagine seeing this at night](http://9gag.com/gag/a617O2m)
  - 🚯 [Good question](http://9gag.com/gag/aPZDj5g)
- - 🚯 [News flash &amp;quot;horses are CANCELLED&amp;quot;](http://9gag.com/gag/aKmqx21)<!-- MEMES:END -->
+ - 🚯 [Elastic thieve&amp;hellip;](http://9gag.com/gag/aAG1xv9)<!-- MEMES:END -->
 
 --- 
 
