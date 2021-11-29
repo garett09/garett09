@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Two busses protecting courirs from flying away in the strong wind](http://9gag.com/gag/aKmq69Q)
- - 🚯 [Oh Bother&amp;hellip;.](http://9gag.com/gag/aLv2p2z)
- - 🚯 [Knee replacement](http://9gag.com/gag/aog9gPn)<!-- MEMES:END -->
+ - 🚖 [Oh Bother&amp;hellip;.](http://9gag.com/gag/aLv2p2z)
+ - 🚯 [*Bonk*](http://9gag.com/gag/a517EDq)
+ - 🚯 [Farmer flips car that was parked on his land](http://9gag.com/gag/avAP5nO)<!-- MEMES:END -->
 
 --- 
 
