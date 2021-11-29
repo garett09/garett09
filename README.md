@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Cyber Monday deals happening now](https://www.theverge.com/22796651/cyber-monday-2021-best-deals-sales-tech-gadgets-laptops-phones-tvs-headphones-gaming)
- - [Cyber Monday Apple deal: Save $250 on this 13-inch MacBook Pro with 512GB SSD](https://appleinsider.com/articles/21/11/29/cyber-monday-apple-deal-save-250-on-this-13-inch-macbook-pro-with-512gb-ssd?utm_medium=rss)
- - [Go read this report on how your next food delivery might be cooked up in a parking lot](https://www.theverge.com/2021/11/29/22807607/go-read-ghost-kitchens-uber-eats-doordash)<!-- TECH:END -->
+ - [Amazon launches AWS IoT RoboRunner to simplify building management apps for robot fleets and AWS Robotics Startup Accelerator for AWS credits and expert advice &lpar;Kyle Wiggers/VentureBeat&rpar;](http://www.techmeme.com/211129/p14#a211129p14)
+ - [12 Cyber Monday Deals the WIRED Gear Team Snapped Up](https://www.wired.com/story/cyber-monday-deals-wired-team-bought-2021)
+ - [Samsung Cyber Monday deals: The best sales Sammy has to offer](https://www.androidauthority.com/samsung-cyber-monday-2021-3068578/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
