@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to stream Hallmark holiday movies](https://www.androidauthority.com/stream-hallmark-holiday-movies-christmas-3061828/)
- - [The 53 Best Cyber Monday Deals for $50 or Less](https://www.wired.com/story/best-cyber-monday-deals-under-50-2021)
- - [A look at the challenges spies face with biometrics, smartphones, and surveillance cameras, and how AI sifting through data changes espionage &lpar;Warren P. Strobel/Wall Street Journal&rpar;](http://www.techmeme.com/211128/p11#a211128p11)<!-- TECH:END -->
+ - [The 43 Best Cyber Monday Deals at Amazon This Year](https://www.wired.com/story/best-amazon-cyber-monday-deals-2021)
+ - [Sources: UK&#39;s CMA is expected to force Meta to sell recently-acquired Giphy, the first time the competition watchdog has reversed a Big Tech acquisition &lpar;Financial Times&rpar;](http://www.techmeme.com/211128/p12#a211128p12)
+ - [How to stream Hallmark holiday movies](https://www.androidauthority.com/stream-hallmark-holiday-movies-christmas-3061828/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
