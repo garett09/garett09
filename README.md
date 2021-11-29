@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Cyber Monday PC gaming deals UK: the best deals on PCs, components, and peripherals](https://www.pcgamer.com/cyber-monday-pc-gaming-deals-2021-uk)
- - [Cyber Monday 2021 in Australia: the last day to grab a bargain has arrived](https://www.pcgamer.com/cyber-monday-2021-in-australia-as-tick-follows-tock-cyber-monday-deals-will-follow-black-friday)
- - [Steam passes 27M concurrent users to set a new record](https://www.pcgamer.com/steam-passes-27m-concurrent-users-to-set-a-new-high)<!-- GAME:END -->
+ - [Cyber Monday gaming laptop deals: the latest RTX 30-series notebooks for less](https://www.pcgamer.com/cyber-monday-gaming-laptop-deals-2021)
+ - [Cyber Monday gaming PC deals: discounts on RTX 30-series gaming rigs and AMD systems](https://www.pcgamer.com/cyber-monday-gaming-pc-deals)
+ - [Best Cyber Monday PC gaming deals: RTX 30-series gaming rigs from $870 and laptops from $784](https://www.pcgamer.com/cyber-monday-pc-deals-2021)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
