@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The struggle is real](http://9gag.com/gag/avAPONZ)
- - 🚯 [Cool Musical Instruments From Around The World! &lpar;3:10&rpar;](http://9gag.com/gag/aBnY01O)
- - 🚯 [Damn Right!!](http://9gag.com/gag/aRrA18j)<!-- MEMES:END -->
+ - 🚖 [How Helen Keller learned to talk; the Tadoma Method, a form of communication for deafblind individuals where they place their fingers on the speakers lips to replicate sounds and words. This particular video features Hellen Keller and Annie Sullivan, her teacher, 1929.](http://9gag.com/gag/aRrA0VA)
+ - 🚯 [Damn Right!!](http://9gag.com/gag/aRrA18j)
+ - 🚯 [When girls decide to masturbate](http://9gag.com/gag/a41YQmm)<!-- MEMES:END -->
 
 --- 
 
