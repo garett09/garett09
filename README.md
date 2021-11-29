@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 43 Best Cyber Monday Deals at Amazon This Year](https://www.wired.com/story/best-amazon-cyber-monday-deals-2021)
- - [Sources: UK&#39;s CMA is expected to force Meta to sell recently-acquired Giphy, the first time the competition watchdog has reversed a Big Tech acquisition &lpar;Financial Times&rpar;](http://www.techmeme.com/211128/p12#a211128p12)
- - [How to stream Hallmark holiday movies](https://www.androidauthority.com/stream-hallmark-holiday-movies-christmas-3061828/)<!-- TECH:END -->
+ - [The 37 Best Cyber Monday Deals at Target Today](https://www.wired.com/story/best-target-cyber-monday-deals-2021)
+ - [Cyber Monday Deals: Save up to 70% on Apple MacBooks, AirPods, Amazon devices, software, more](https://appleinsider.com/articles/21/11/29/cyber-monday-deals-save-up-to-70-on-apple-macbooks-airpods-amazon-devices-software-more?utm_medium=rss)
+ - [B&amp;H Cyber Monday Sale: Mac hardware as low as $629, 14-inch MacBook Pro $1,799 and in stock, $100 off iPads](https://appleinsider.com/articles/21/11/29/bh-cyber-monday-sale-mac-hardware-as-low-as-629-14-inch-macbook-pro-1799-and-in-stock-100-off-ipads?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
