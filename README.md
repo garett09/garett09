@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Cyber Monday deals under $25](https://www.theverge.com/22796420/black-friday-2021-under-25-tech-deals-cheap-cyber-monday)
- - [Nissan lays out $17.6 billion plan to electrify its future](https://www.theverge.com/2021/11/29/22807700/nissan-electric-vehicle-investment-plan-concepts)
- - [The best Cyber Monday 2021 phone deals](https://www.theverge.com/22789359/black-friday-2021-best-phone-deals-cyber-monday)<!-- TECH:END -->
+ - [B&amp;H Cyber Monday Apple Sale: Mac hardware as low as $629, , $100 off iPads](https://appleinsider.com/articles/21/11/29/bh-cyber-monday-sale-mac-hardware-as-low-as-629-14-inch-macbook-pro-1799-and-in-stock-100-off-ipads?utm_medium=rss)
+ - [Cyber Monday Apple deal: Save $250 on this 13-inch MacBook Pro with 512GB SSD](https://appleinsider.com/articles/21/11/29/cyber-monday-apple-deal-save-250-on-this-13-inch-macbook-pro-with-512gb-ssd?utm_medium=rss)
+ - [Frances Haugen will testify before Congress again this week](https://www.theverge.com/2021/11/29/22807909/frances-haugen-congress-testify-section-230-facebook-whistleblower)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
