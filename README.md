@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Cyber Monday 2021 in Australia: the last day to grab a bargain has arrived](https://www.pcgamer.com/cyber-monday-2021-in-australia-as-tick-follows-tock-cyber-monday-deals-will-follow-black-friday)
  - [Steam passes 27M concurrent users to set a new record](https://www.pcgamer.com/steam-passes-27m-concurrent-users-to-set-a-new-high)
- - [Please Enjoy A Website That Reads Steam Reviews To You](https://kotaku.com/please-enjoy-a-website-that-reads-steam-reviews-to-you-1848129345)
- - [Cyber Monday 2021 in Australia: the last day to grab a bargain has arrived](https://www.pcgamer.com/cyber-monday-2021-in-australia-as-tick-follows-tock-cyber-monday-deals-will-follow-black-friday)<!-- GAME:END -->
+ - [Please Enjoy A Website That Reads Steam Reviews To You](https://kotaku.com/please-enjoy-a-website-that-reads-steam-reviews-to-you-1848129345)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
