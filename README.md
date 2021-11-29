@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Best Cyber Monday Deals for Your Kitchen](https://www.wired.com/story/best-cyber-monday-kitchen-deals-2021)
- - [Best Cyber Monday Deals on Sex Toys, Vibrators, and Lubes](https://www.wired.com/story/best-cyber-monday-sex-toy-deals-2021-1)
- - [Cyber Monday 2021: The best tech deals today](https://www.androidauthority.com/black-friday-deals-3049753/)<!-- TECH:END -->
+ - [How to stream Hallmark holiday movies](https://www.androidauthority.com/stream-hallmark-holiday-movies-christmas-3061828/)
+ - [The 53 Best Cyber Monday Deals for $50 or Less](https://www.wired.com/story/best-cyber-monday-deals-under-50-2021)
+ - [A look at the challenges spies face with biometrics, smartphones, and surveillance cameras, and how AI sifting through data changes espionage &lpar;Warren P. Strobel/Wall Street Journal&rpar;](http://www.techmeme.com/211128/p11#a211128p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
