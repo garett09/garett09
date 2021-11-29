@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The realization...](http://9gag.com/gag/a0ZpN1z)
- - 🚯 [Knee replacement](http://9gag.com/gag/aog9gPn)
- - 🚯 [Covid-19 waves in Europe](http://9gag.com/gag/apgvgBn)<!-- MEMES:END -->
+ - 🚖 [Two busses protecting courirs from flying away in the strong wind](http://9gag.com/gag/aKmq69Q)
+ - 🚯 [Oh Bother&amp;hellip;.](http://9gag.com/gag/aLv2p2z)
+ - 🚯 [Knee replacement](http://9gag.com/gag/aog9gPn)<!-- MEMES:END -->
 
 --- 
 
