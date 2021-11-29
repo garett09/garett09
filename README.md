@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When you are a total dumbass...](http://9gag.com/gag/aXr9j8d)
- - 🚯 [Thats why I use bing](http://9gag.com/gag/azejmbx)
- - 🚯 [Puppy&amp;#039;s first visit to the vet...](http://9gag.com/gag/a617Nz2)<!-- MEMES:END -->
+ - 🚖 [Puppy&amp;#039;s first visit to the vet...](http://9gag.com/gag/a617Nz2)
+ - 🚯 [What In the KRAKEN IS THAT](http://9gag.com/gag/arnKo5X)
+ - 🚯 [*grabs popcorn*](http://9gag.com/gag/aVxPwXy)<!-- MEMES:END -->
 
 --- 
 
