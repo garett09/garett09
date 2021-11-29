@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [21 Best Cyber Monday Deals on Amazon Devices](https://www.wired.com/story/best-cyber-monday-amazon-device-deals-2021)
- - [20 Best Early Cyber Monday Deals on Cameras and Gear](https://www.wired.com/story/best-cyber-monday-camera-photography-video-deals-2021)
- - [Dune isn&#39;t on HBO Max, but it&#39;s coming to Imax and Blu-ray soon     - CNET](https://www.cnet.com/news/dune-isnt-on-hbo-max-but-its-coming-to-imax-and-blu-ray-soon/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Best Cyber Monday Deals for Your Kitchen](https://www.wired.com/story/best-cyber-monday-kitchen-deals-2021)
+ - [Best Cyber Monday Deals on Sex Toys, Vibrators, and Lubes](https://www.wired.com/story/best-cyber-monday-sex-toy-deals-2021-1)
+ - [Cyber Monday 2021: The best tech deals today](https://www.androidauthority.com/black-friday-deals-3049753/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
