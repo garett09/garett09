@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon Cyber Monday deals are live: Up to 70% off Beats, routers, OLED TVs, Apple hardware, Sony headphones](https://appleinsider.com/articles/21/11/28/amazon-cyber-monday-deals-are-live-up-to-70-off-beats-routers-oled-tvs-apple-hardware-sony-headphones?utm_medium=rss)
- - [Best deals Nov. 28: $100 off 13-inch M1 MacBook Pro, $108 Echo Buds, more!](https://appleinsider.com/articles/21/11/28/best-deals-nov-28-100-off-13-inch-m1-macbook-pro-108-echo-buds-more?utm_medium=rss)
- - [24 Best Cyber Monday Deals on Coffee Makers and Gear](https://www.wired.com/story/best-cyber-monday-coffee-deals-2021)<!-- TECH:END -->
+ - [UK-based Motorway, a second-hand car auction site used by 4K+ car dealers, raises a $190M Series C at a $1B+ valuation after raising a $67.7M Series B in June &lpar;Mike Butcher/TechCrunch&rpar;](http://www.techmeme.com/211128/p10#a211128p10)
+ - [Sky Mavis says its crypto-based game Axie Infinity quadrupled DAUs in under 3 months to 2M in October, as some analysts question Axie&#39;s economic sustainability &lpar;Financial Times&rpar;](http://www.techmeme.com/211128/p9#a211128p9)
+ - [Jam Out To the Best Cyber Monday Headphone and Speaker Deals](https://www.wired.com/story/best-cyber-monday-headphone-deals-speakers-2021)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
