@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [*Bonk*](http://9gag.com/gag/a517EDq)
- - 🚯 [Salt Wanker](http://9gag.com/gag/a21mWoZ)
- - 🚯 [Two busses protecting courirs from flying away in the strong wind](http://9gag.com/gag/aKmq69Q)<!-- MEMES:END -->
+ - 🚖 [The realization...](http://9gag.com/gag/a0ZpN1z)
+ - 🚯 [Two busses protecting courirs from flying away in the strong wind](http://9gag.com/gag/aKmq69Q)
+ - 🚯 [I loled](http://9gag.com/gag/a81MEP6)<!-- MEMES:END -->
 
 --- 
 
