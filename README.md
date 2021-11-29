@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple becomes China&#39;s largest smartphone brand](https://appleinsider.com/articles/21/11/29/apple-becomes-chinas-largest-smartphone-brand?utm_medium=rss)
- - [Samsung Cyber Monday deals: Save stacks on tablets and more](https://www.androidauthority.com/samsung-cyber-monday-deals-2021-3068098/)
- - [The Best Cyber Monday Deals on Fitness and Outdoor Gear](https://www.wired.com/story/best-cyber-monday-fitness-deals-outdoors-2021)<!-- TECH:END -->
+ - [You told us: Who knew WhatsApp stickers were this popular?](https://www.androidauthority.com/whatsapp-stickers-poll-results-3067953/)
+ - [Thought Machine, which helps banks launch cloud-based services, raises a $200M Series C led by Nyca Partners at a $1B+ valuation &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/211129/p2#a211129p2)
+ - [Daily Authority: 😬 Spy game foiled?](https://www.androidauthority.com/newsletters/da-november-29-2021/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
