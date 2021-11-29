@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Russia&#39;s Roskomnadzor regulator says its slowdown of Twitter on mobile, in force since March, will continue until all content deemed illegal is removed &lpar;Gleb Stolyarov/Reuters&rpar;](http://www.techmeme.com/211129/p7#a211129p7)
- - [Intel is stockpiling around 3,000 legacy pieces of its hardware and software, going back about a decade, for security research at a warehouse in Costa Rica &lpar;James Rundle/Wall Street Journal&rpar;](http://www.techmeme.com/211129/p6#a211129p6)
- - [Cyber Monday 2021: The best tech deals today](https://www.androidauthority.com/black-friday-deals-3049753/)<!-- TECH:END -->
+ - [Cyber Monday Apple Deals: Save up to 70% on new MacBook Pros, AirPods, Apple Watch, TVs, accessories](https://appleinsider.com/articles/21/11/29/cyber-monday-deals-save-up-to-70-on-apple-macbooks-airpods-amazon-devices-software-more?utm_medium=rss)
+ - [Here are 2021’s best apps and games according to Google](https://www.androidauthority.com/google-best-apps-games-2021-3065902/)
+ - [Documents: China&#39;s Henan province is asking companies to develop a 3,000-camera surveillance system to track journalists, international students, and others &lpar;Reuters&rpar;](http://www.techmeme.com/211129/p11#a211129p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
