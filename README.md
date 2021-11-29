@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [First movie came out 20 years ago.](http://9gag.com/gag/aVxPbow)
- - 🚯 [Covid-19 waves in Europe](http://9gag.com/gag/apgvgBn)
- - 🚯 [Too late now](http://9gag.com/gag/aog9M1X)<!-- MEMES:END -->
+ - 🚖 [Too late now](http://9gag.com/gag/aog9M1X)
+ - 🚯 [First movie came out 20 years ago.](http://9gag.com/gag/aVxPbow)
+ - 🚯 [I loled](http://9gag.com/gag/a81MEP6)<!-- MEMES:END -->
 
 --- 
 
