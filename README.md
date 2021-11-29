@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Save $120 on one of the best wireless headsets in this Cyber Monday gaming headset deal](https://www.pcgamer.com/save-dollar120-on-one-of-the-best-wireless-headsets-in-this-cyber-monday-gaming-headset-deal)
- - [Xbox Halo Infinite players want to opt-out of crossplay to avoid cheaters on PC](https://www.pcgamer.com/xbox-halo-infinite-players-want-to-opt-out-of-crossplay-to-avoid-cheaters-on-pc)
- - [The Week In Games: It&#39;s Nearly December Already?](https://kotaku.com/the-week-in-games-its-nearly-december-already-1848129167)<!-- GAME:END -->
+ - [Cyber Monday gaming router and networking deals 2021: the best router and networking deals for any budget](https://www.pcgamer.com/black-friday-gaming-router-and-networking-deals-2021-the-best-router-and-networking-deals-for-any-budget)
+ - [Fans Are Bringing PlayStation Home Back To Life](https://kotaku.com/fans-are-bringing-playstation-home-back-to-life-1848129254)
+ - [4.1GB of HD models and textures added to Neverwinter Nights Enhanced Edition](https://www.pcgamer.com/41gb-of-hd-models-and-textures-added-to-neverwinter-nights-enhanced-edition)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
