@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I don&amp;rsquo;t understand this trend](http://9gag.com/gag/aNPnYxw)
- - 🚯 [Imagine seeing this at night](http://9gag.com/gag/a617O2m)
- - 🚯 [Polieren](http://9gag.com/gag/aVxP06M)<!-- MEMES:END -->
+ - 🚖 [When you are a total dumbass...](http://9gag.com/gag/aXr9j8d)
+ - 🚯 [Thats why I use bing](http://9gag.com/gag/azejmbx)
+ - 🚯 [Puppy&amp;#039;s first visit to the vet...](http://9gag.com/gag/a617Nz2)<!-- MEMES:END -->
 
 --- 
 
