@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [UK-based Motorway, a second-hand car auction site used by 4K+ car dealers, raises a $190M Series C at a $1B+ valuation after raising a $67.7M Series B in June &lpar;Mike Butcher/TechCrunch&rpar;](http://www.techmeme.com/211128/p10#a211128p10)
- - [Sky Mavis says its crypto-based game Axie Infinity quadrupled DAUs in under 3 months to 2M in October, as some analysts question Axie&#39;s economic sustainability &lpar;Financial Times&rpar;](http://www.techmeme.com/211128/p9#a211128p9)
- - [Jam Out To the Best Cyber Monday Headphone and Speaker Deals](https://www.wired.com/story/best-cyber-monday-headphone-deals-speakers-2021)<!-- TECH:END -->
+ - [20 Best Early Cyber Monday Deals on Cameras and Gear](https://www.wired.com/story/best-cyber-monday-camera-photography-video-deals-2021)
+ - [The Garmin Black Friday deals are getting even better](https://www.androidauthority.com/black-friday-garmin-3065644/)
+ - [The Absolute Best Cyber Monday Deals Online Right Now](https://www.wired.com/story/best-cyber-monday-deals-2021)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
