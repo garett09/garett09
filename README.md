@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [44 Best Cyber Monday Deals on Phones, Tablets, and Smartwatches](https://www.wired.com/story/best-cyber-monday-phone-deals-table-watch-2021)
  - [Cyber Monday Deals: Save up to 70% on Apple MacBooks, AirPods, Amazon devices, software, more](https://appleinsider.com/articles/21/11/29/cyber-monday-deals-save-up-to-70-on-apple-macbooks-airpods-amazon-devices-software-more?utm_medium=rss)
- - [The Best Cyber Monday Deals on STEM Toys for Kids](https://www.wired.com/story/best-cyber-monday-toy-deals-2021)
- - [Mediatek Dimensity 7000 specs leak: A few steps below the Dimensity 9000](https://www.androidauthority.com/mediatek-dimensity-7000-3067935/)<!-- TECH:END -->
+ - [The Best Cyber Monday Deals on STEM Toys for Kids](https://www.wired.com/story/best-cyber-monday-toy-deals-2021)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
