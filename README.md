@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Good question](http://9gag.com/gag/aPZDj5g)
- - 🚯 [This is Tiernan McCready. This is what a hero looks like. In Bogside he saw three males grab an 18 year old girl and try to get her in their van. He reacted instantly, shouting at the males, led the girl to safety and told his mother to ring the police.](http://9gag.com/gag/aRrA3Yq)
- - 🚯 [Elastic thieve&amp;hellip;](http://9gag.com/gag/aAG1xv9)<!-- MEMES:END -->
+ - 🚖 [I don&amp;rsquo;t understand this trend](http://9gag.com/gag/aNPnYxw)
+ - 🚯 [How many more Covid variants will there be?](http://9gag.com/gag/aKmqjWQ)
+ - 🚯 [News flash &amp;quot;horses are CANCELLED&amp;quot;](http://9gag.com/gag/aKmqx21)<!-- MEMES:END -->
 
 --- 
 
