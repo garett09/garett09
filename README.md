@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [New JoJo&#39;s Bizarre Adventure Anime Opening Uses CG Beautifully](https://kotaku.com/new-jojos-bizarre-adventure-opening-uses-cg-beautifully-1848130067)
- - [Cyber Monday gaming laptop deals: the latest RTX 30-series notebooks for less](https://www.pcgamer.com/cyber-monday-gaming-laptop-deals-2021)
- - [Cyber Monday gaming PC deals: discounts on RTX 30-series gaming rigs and AMD systems](https://www.pcgamer.com/cyber-monday-gaming-pc-deals)<!-- GAME:END -->
+ - [Spider-Man producer says No Way Home isn’t Marvel’s last Spider-Man movie](https://www.polygon.com/22807550/tom-holland-spider-man-4-marvel)
+ - [Cyber Monday SSD deals: go solid state or go home this holiday season](https://www.pcgamer.com/cyber-monday-ssd-deals-2021)
+ - [This RTX 3060 Ti system is right on the money for a bona fide Cyber Monday gaming PC deal](https://www.pcgamer.com/this-rtx-3060-ti-system-is-right-on-the-money-for-a-bona-fide-cyber-monday-gaming-pc-deal)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
