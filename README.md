@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [B&amp;H Cyber Monday Apple Sale: Mac hardware as low as $629, , $100 off iPads](https://appleinsider.com/articles/21/11/29/bh-cyber-monday-sale-mac-hardware-as-low-as-629-14-inch-macbook-pro-1799-and-in-stock-100-off-ipads?utm_medium=rss)
- - [Cyber Monday Apple deal: Save $250 on this 13-inch MacBook Pro with 512GB SSD](https://appleinsider.com/articles/21/11/29/cyber-monday-apple-deal-save-250-on-this-13-inch-macbook-pro-with-512gb-ssd?utm_medium=rss)
- - [Frances Haugen will testify before Congress again this week](https://www.theverge.com/2021/11/29/22807909/frances-haugen-congress-testify-section-230-facebook-whistleblower)<!-- TECH:END -->
+ - [Cyber Monday: Expand your HomeKit smart home with these deals](https://appleinsider.com/articles/21/11/23/black-friday-expand-your-homekit-smart-home-with-these-deals?utm_medium=rss)
+ - [B&amp;H Cyber Monday Apple Sale: Mac hardware as low as $629, 14-inch MacBook Pro $1,799, $100 off iPads](https://appleinsider.com/articles/21/11/29/bh-cyber-monday-sale-mac-hardware-as-low-as-629-14-inch-macbook-pro-1799-and-in-stock-100-off-ipads?utm_medium=rss)
+ - [The best Cyber Monday deals you can get on Apple devices](https://www.theverge.com/22787892/apple-black-friday-2021-deals-macbook-ipad-airpods-cyber-monday)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
