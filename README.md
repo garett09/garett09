@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [38 Relaxing Cyber Monday Beauty and Self-Care Deals](https://www.wired.com/story/best-cyber-monday-beauty-deals-self-care-2021)
- - [Get the Garmin Forerunner 935 for $270 less this Cyber Monday](https://www.androidauthority.com/garmin-cyber-monday-deals-2021-3068037/)
- - [74 Best Cyber Monday Video Game and Accessory Deals](https://www.wired.com/story/best-cyber-monday-video-game-deals-2021-1)<!-- TECH:END -->
+ - [Apple becomes China&#39;s largest smartphone brand](https://appleinsider.com/articles/21/11/29/apple-becomes-chinas-largest-smartphone-brand?utm_medium=rss)
+ - [Samsung Cyber Monday deals: Save stacks on tablets and more](https://www.androidauthority.com/samsung-cyber-monday-deals-2021-3068098/)
+ - [The Best Cyber Monday Deals on Fitness and Outdoor Gear](https://www.wired.com/story/best-cyber-monday-fitness-deals-outdoors-2021)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
