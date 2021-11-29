@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cyber Monday Apple Deals: Save up to 70% on new MacBook Pros, AirPods, Apple Watch, TVs, accessories](https://appleinsider.com/articles/21/11/29/cyber-monday-deals-save-up-to-70-on-apple-macbooks-airpods-amazon-devices-software-more?utm_medium=rss)
- - [Here are 2021’s best apps and games according to Google](https://www.androidauthority.com/google-best-apps-games-2021-3065902/)
- - [Documents: China&#39;s Henan province is asking companies to develop a 3,000-camera surveillance system to track journalists, international students, and others &lpar;Reuters&rpar;](http://www.techmeme.com/211129/p11#a211129p11)<!-- TECH:END -->
+ - [The best Cyber Monday deals under $25](https://www.theverge.com/22796420/black-friday-2021-under-25-tech-deals-cheap-cyber-monday)
+ - [Nissan lays out $17.6 billion plan to electrify its future](https://www.theverge.com/2021/11/29/22807700/nissan-electric-vehicle-investment-plan-concepts)
+ - [The best Cyber Monday 2021 phone deals](https://www.theverge.com/22789359/black-friday-2021-best-phone-deals-cyber-monday)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
