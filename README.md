@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Spider-Man producer says No Way Home isn’t Marvel’s last Spider-Man movie](https://www.polygon.com/22807550/tom-holland-spider-man-4-marvel)
- - [Cyber Monday SSD deals: go solid state or go home this holiday season](https://www.pcgamer.com/cyber-monday-ssd-deals-2021)
- - [This RTX 3060 Ti system is right on the money for a bona fide Cyber Monday gaming PC deal](https://www.pcgamer.com/this-rtx-3060-ti-system-is-right-on-the-money-for-a-bona-fide-cyber-monday-gaming-pc-deal)<!-- GAME:END -->
+ - [This giant 35-inch curved monitor is as cheap as it&#39;s ever been](https://www.pcgamer.com/this-giant-35-inch-curved-monitor-is-as-cheap-as-its-ever-been)
+ - [Love Arcane? Here’s how to get into League of Legends lore](https://www.polygon.com/22799458/arcane-lore-league-of-legends-canon-explainer)
+ - [Cyber Monday gaming monitor deals 2021: pixel perfect panels on offer](https://www.pcgamer.com/cyber-monday-gaming-monitor-deals-2021)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
