@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [51 Best Cyber Monday Deals on Phones, Tablets, and Smartwatches](https://www.wired.com/story/best-cyber-monday-phone-deals-table-watch-2021)
- - [The Best Cyber Monday Deals for Your Kitchen](https://www.wired.com/story/best-cyber-monday-kitchen-deals-2021)
- - [The 40 Best Cyber Monday Deals at Target Today](https://www.wired.com/story/best-target-cyber-monday-deals-2021)<!-- TECH:END -->
+ - [An introduction to Parag Agrawal, Twitter’s new CEO](https://www.theverge.com/2021/11/29/22808756/twitter-ceo-parag-agrawal-jack-dorsey-bluesky-moderation)
+ - [Researchers find Google Play apps downloaded 300K+ times that stole bank credentials, posing as QR and PDF scanners, exercise apps, and cryptocurrency wallets &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/211129/p17#a211129p17)
+ - [The Best Cyber Monday Deals on PC Components](https://www.wired.com/story/cyber-monday-pc-components-2021)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
