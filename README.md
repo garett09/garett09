@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Instincts are important](http://9gag.com/gag/aZrMg69)
- - 🚯 [Europe gas prices be like](http://9gag.com/gag/aM4GjvX)
- - 🚯 [Symmetry in Russian construction](http://9gag.com/gag/aPZD9MG)<!-- MEMES:END -->
+ - 🚖 [Good question](http://9gag.com/gag/aPZDj5g)
+ - 🚯 [Guys. I really don&amp;rsquo;t care anymore](http://9gag.com/gag/aXr9x5z)
+ - 🚯 [Cool Musical Instruments From Around The World! &lpar;3:10&rpar;](http://9gag.com/gag/aBnY01O)<!-- MEMES:END -->
 
 --- 
 
