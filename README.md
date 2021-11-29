@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [New JoJo&#39;s Bizarre Adventure Anime Opening Uses CG Beautifully](https://kotaku.com/new-jojos-bizarre-adventure-opening-uses-cg-beautifully-1848130067)
  - [Cyber Monday gaming laptop deals: the latest RTX 30-series notebooks for less](https://www.pcgamer.com/cyber-monday-gaming-laptop-deals-2021)
- - [Cyber Monday gaming PC deals: discounts on RTX 30-series gaming rigs and AMD systems](https://www.pcgamer.com/cyber-monday-gaming-pc-deals)
- - [Best Cyber Monday PC gaming deals: RTX 30-series gaming rigs from $870 and laptops from $784](https://www.pcgamer.com/cyber-monday-pc-deals-2021)<!-- GAME:END -->
+ - [Cyber Monday gaming PC deals: discounts on RTX 30-series gaming rigs and AMD systems](https://www.pcgamer.com/cyber-monday-gaming-pc-deals)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
