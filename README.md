@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [My current first world problem](http://9gag.com/gag/a31B53r)
- - 🚯 [I park like an idiot, fall like an imbecile](http://9gag.com/gag/aRrAZgA)
- - 🚯 [The real sound of an eagle wil surprise alot of you. Because in movies you always see a eagle but hear the sound of a hawk.](http://9gag.com/gag/a917zNW)<!-- MEMES:END -->
+ - 🚖 [It&amp;#039;s a win win](http://9gag.com/gag/aBnYLKx)
+ - 🚯 [When live TV cant give you an instagram filter](http://9gag.com/gag/arnK3my)
+ - 🚯 [Really messed up commercial](http://9gag.com/gag/amg919d)<!-- MEMES:END -->
 
 --- 
 
