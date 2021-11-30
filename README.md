@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google really is evil, claims ex-employee lawsuit](https://appleinsider.com/articles/21/11/30/google-really-is-evil-claims-ex-employee-lawsuit?utm_medium=rss)
- - [Procedural storytelling is exploding the possibilities of video game narratives](https://www.theverge.com/2021/11/30/22807568/procedural-storytelling-video-games-dwarf-fortress-wildermyth-blaseball)
- - [How to create a mailing list in Gmail](https://www.androidauthority.com/create-group-email-gmail-1118920/)<!-- TECH:END -->
+ - [How to securely show your COVID-19 certificate on your iPhone](https://appleinsider.com/articles/21/11/30/how-to-securely-show-your-covid-19-certificate-on-your-iphone?utm_medium=rss)
+ - [Razer’s Qualcomm-powered handheld console leaks](https://www.theverge.com/2021/11/30/22809800/qualcomm-razer-games-console-handheld-snapdragon-g3x-developer-kit-leak)
+ - [Nokia 9 PureView won’t get Android 11. HMD says to buy a new Nokia instead.](https://www.androidauthority.com/nokia-9-android-11-3069124/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
