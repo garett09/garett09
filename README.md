@@ -195,7 +195,7 @@ Windows                  3 hrs 9 mins        ███████████�
 <!-- MEMES:START -->
  - 🚖 [Knee replacement](http://9gag.com/gag/aog9gPn)
  - 🚯 [First movie came out 20 years ago.](http://9gag.com/gag/aVxPbow)
- - 🚯 [Long hair, don&amp;#039;t care](http://9gag.com/gag/aqG5eAP)<!-- MEMES:END -->
+ - 🚯 [Still haven&amp;#039;t seen a single Xbox in-store..](http://9gag.com/gag/a81M18O)<!-- MEMES:END -->
 
 --- 
 
