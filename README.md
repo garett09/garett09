@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Don&amp;#039;t underestimate the hole your absence would leave.](http://9gag.com/gag/aggVm2v)
- - 🚯 [When you catch up with people from your past and...](http://9gag.com/gag/aZrMZ4n)
- - 🚯 [BYEcycle](http://9gag.com/gag/aegG45j)<!-- MEMES:END -->
+ - 🚖 [Dog stops tornado from forming](http://9gag.com/gag/aNPnL9G)
+ - 🚯 [Lets get retarted](http://9gag.com/gag/aBnYyGZ)
+ - 🚯 [More than enough](http://9gag.com/gag/aGzxyR5)<!-- MEMES:END -->
 
 --- 
 
