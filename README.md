@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Knockout City Season 4 starts December 7: Ride UFOs, brawl across an alien crash site](https://blog.playstation.com/2021/11/30/knockout-city-season-4-starts-december-7-ride-ufos-brawl-across-an-alien-crash-site/)
- - [Knockout City Season 4 starts December 7: Ride UFOs, brawl across an alien crash site](https://blog.playstation.com/2021/11/30/knockout-city-season-4-starts-december-7-ride-ufos-brawl-across-an-alien-crash-site/)
- - [Uncover Some Nefarious Tips and Tricks for Evil Genius 2: World Domination](https://news.xbox.com/en-us/2021/11/30/tips-and-tricks-for-evil-genius-2-world-domination/)<!-- GAME:END -->
+ - [Here&#39;s every location in Call of Duty: Warzone&#39;s new Caldera map](https://www.pcgamer.com/cod-warzone-pacific-map-locations-list-caldera)
+ - [Aliens: Fireteam Elite Available December 14 with Xbox Game Pass](https://news.xbox.com/en-us/2021/11/30/aliens-fireteam-elite-available-december-14-with-xbox-game-pass/)
+ - [Bots Propelled An Old Arcade Game To The Top Of The Steam Charts](https://kotaku.com/bots-propelled-an-old-arcade-game-to-the-top-of-the-ste-1848137984)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
