@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Here&#39;s every location in Call of Duty: Warzone&#39;s new Caldera map](https://www.pcgamer.com/cod-warzone-pacific-map-locations-list-caldera)
- - [Aliens: Fireteam Elite Available December 14 with Xbox Game Pass](https://news.xbox.com/en-us/2021/11/30/aliens-fireteam-elite-available-december-14-with-xbox-game-pass/)
- - [Bots Propelled An Old Arcade Game To The Top Of The Steam Charts](https://kotaku.com/bots-propelled-an-old-arcade-game-to-the-top-of-the-ste-1848137984)<!-- GAME:END -->
+ - [New World Bots Are Stealing All Resources And Tanking The Economy](https://kotaku.com/new-world-bots-are-stealing-all-resources-and-tanking-t-1848138433)
+ - [How The Celeste Speedrunning Community Became Queer As Hell](https://kotaku.com/how-the-celeste-speedrunning-community-became-queer-as-1848120383)
+ - [Wow, Dead Cells Is Still Going Strong, Huh](https://kotaku.com/wow-dead-cells-is-still-going-strong-huh-1848138123)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
