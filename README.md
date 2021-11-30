@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Halo Infinite’s battle pass XP is getting another big upgrade](https://www.polygon.com/22809669/halo-infinite-battle-pass-xp-update-buff-increase-match-reward)
- - [Best SSD for gaming in 2021](https://www.pcgamer.com/best-ssd-for-gaming)
- - [The best CPU for gaming in 2021](https://www.pcgamer.com/best-cpu-for-gaming)<!-- GAME:END -->
+ - [This Month On PC: Forza Horizon 5, Football Manager 22, Insider Updates, and More](https://news.xbox.com/en-us/2021/11/30/this-month-on-pc-november-2021-recap/)
+ - [Rockstar updates GTA Trilogy Definitive Edition to fix tons of visual bugs](https://www.polygon.com/22809777/gta-trilogy-definitive-edition-patch-update-graphics)
+ - [Halo Infinite&#39;s Battle Pass Just Got Way Better](https://kotaku.com/halo-infinites-battle-pass-just-got-way-better-1848136540)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
