@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Karen complaining about adults buying a PS5 which presumably leads to not letting kids have one for Christmas](http://9gag.com/gag/arnKAXK)
+ - 🚖 [Quick, the fries are getting cold ..](http://9gag.com/gag/aZrMwZz)
  - 🚯 [I was there, 3000 years ago...](http://9gag.com/gag/a11M0W6)
- - 🚯 [L&amp;#039;Amour Toujours - Violin and Sax Street Performance](http://9gag.com/gag/azejKVN)<!-- MEMES:END -->
+ - 🚯 [The Voice of Reason - Jimmy Carr](http://9gag.com/gag/azejKNZ)<!-- MEMES:END -->
 
 --- 
 
