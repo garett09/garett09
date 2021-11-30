@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Cyber Monday deals still available](https://www.theverge.com/22796651/cyber-monday-2021-best-deals-sales-tech-gadgets-laptops-phones-tvs-headphones-gaming)
- - [Cyber Monday 2021: The 167 best deals from Amazon, Walmart and more     - CNET](https://www.cnet.com/tech/best-cyber-monday-deals-2021/#ftag=CAD590a51e)
- - [Cyber Monday 2021: The best tech deals today](https://www.androidauthority.com/black-friday-deals-3049753/)<!-- TECH:END -->
+ - [Many T-Mobile customers report they can’t call Verizon, AT&amp;T, or other T-Mobile numbers](https://www.theverge.com/2021/11/29/22808526/t-mobile-outage-verizon-att-call-cant-connect)
+ - [Filing: HashiCorp sets an IPO range of $68-$72 per share at a $13B valuation, reveals $82.2M in revenue, up 49% YoY, and a $22M net loss in its latest quarter &lpar;Ari Levy/CNBC&rpar;](http://www.techmeme.com/211129/p20#a211129p20)
+ - [Spider-Man: No Way Home tickets are being scalped on eBay for ridiculous prices     - CNET](https://www.cnet.com/news/spider-man-no-way-home-tickets-are-being-scalped-on-ebay-for-ridiculous-prices/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
