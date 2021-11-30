@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Levels Health review: optimize your fitness with a $400 glucose tracker](https://www.theverge.com/22794594/levels-health-glucose-fitness-tracker-review)
- - [David Marcus, the co-creator of Diem who spent the last few years building the Novi wallet, is leaving Meta at the end of 2021 to pursue other projects &lpar;Kurt Wagner/Bloomberg&rpar;](http://www.techmeme.com/211130/p29#a211130p29)
- - [Amazon unveils AWS Private 5G, a service providing hardware, software, and SIMs to help deploy private mobile networks quickly without per-device charges &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/211130/p28#a211130p28)<!-- TECH:END -->
+ - [Twitter should consider changing its business model as its ad revenue remains weak, despite its locked-in userbase, indispensability, and impenetrable moat &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/211130/p33#a211130p33)
+ - [Pokemon Go December 2021 events: Raids, Christmas event and more     - CNET](https://www.cnet.com/tech/gaming/pokemon-go-december-2021-events-raids-christmas-event-and-more/#ftag=CAD590a51e)
+ - [Instant Pot deals: Turn your pot into an air fryer with this $50 lid     - CNET](https://www.cnet.com/home/kitchen-and-household/best-instant-pot-deals-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
