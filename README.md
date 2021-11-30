@@ -194,8 +194,8 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [It&amp;#039;s a win win](http://9gag.com/gag/aBnYLKx)
- - 🚯 [When live TV cant give you an instagram filter](http://9gag.com/gag/arnK3my)
- - 🚯 [Really messed up commercial](http://9gag.com/gag/amg919d)<!-- MEMES:END -->
+ - 🚯 [Driving with 3 days of no sleep be like](http://9gag.com/gag/aqG58Mp)
+ - 🚯 [Aren&amp;#039;t there cool African legends and myth to explore?](http://9gag.com/gag/avAPW3d)<!-- MEMES:END -->
 
 --- 
 
