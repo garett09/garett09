@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [New World Bots Are Stealing All Resources And Tanking The Economy](https://kotaku.com/new-world-bots-are-stealing-all-resources-and-tanking-t-1848138433)
- - [How The Celeste Speedrunning Community Became Queer As Hell](https://kotaku.com/how-the-celeste-speedrunning-community-became-queer-as-1848120383)
- - [Wow, Dead Cells Is Still Going Strong, Huh](https://kotaku.com/wow-dead-cells-is-still-going-strong-huh-1848138123)<!-- GAME:END -->
+ - [Cracking the Code to Level Design in Rubber Bandits, Coming To Xbox December 2nd](https://news.xbox.com/en-us/2021/11/30/cracking-the-code-to-level-design-in-rubber-bandits-coming-to-xbox-december-2nd/)
+ - [Generation Zero Now Available with Xbox Game Pass](https://news.xbox.com/en-us/2021/11/30/generation-zero-arrives-today-with-xbox-game-pass/)
+ - [What if Halo had been a Mac exclusive?](https://www.polygon.com/videos/22800811/halo-mac-exclusive-apple-xbox-gta-versus)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
