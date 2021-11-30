@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [All wheel drive in winter be like](http://9gag.com/gag/avAPWEW)
- - 🚯 [Really messed up commercial](http://9gag.com/gag/amg919d)
- - 🚯 [Let it be](http://9gag.com/gag/angNOxb)<!-- MEMES:END -->
+ - 🚖 [Let it be](http://9gag.com/gag/angNOxb)
+ - 🚯 [It&amp;#039;s working](http://9gag.com/gag/a917z2D)
+ - 🚯 [I&amp;#039;m a Wurst](http://9gag.com/gag/aRrA4P5)<!-- MEMES:END -->
 
 --- 
 
