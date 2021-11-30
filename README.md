@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple to overtake Samsung in Q4 2021, 5G iPhone SE coming in 2022](https://appleinsider.com/articles/21/11/30/apple-to-overtake-samsung-in-q4-2021-5g-iphone-se-coming-in-2022?utm_medium=rss)
- - [Best Apple Watch Cyber Monday deals still available: Save $100 on Series 6, $40 on Watch SE     - CNET](https://www.cnet.com/tech/mobile/best-apple-watch-cyber-monday-deals-still-available-save-100-on-series-6-40-on-watch-se/#ftag=CAD590a51e)
- - [Elon Musk says Raptor engine production is a ‘disaster’ that puts SpaceX at risk of bankruptcy](https://www.theverge.com/2021/11/30/22809720/elon-musk-spacex-raptor-engine-crisis-bankruptcy-starship)<!-- TECH:END -->
+ - [Levels Health review: optimize your fitness with a $400 glucose tracker](https://www.theverge.com/22794594/levels-health-glucose-fitness-tracker-review)
+ - [David Marcus, the co-creator of Diem who spent the last few years building the Novi wallet, is leaving Meta at the end of 2021 to pursue other projects &lpar;Kurt Wagner/Bloomberg&rpar;](http://www.techmeme.com/211130/p29#a211130p29)
+ - [Amazon unveils AWS Private 5G, a service providing hardware, software, and SIMs to help deploy private mobile networks quickly without per-device charges &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/211130/p28#a211130p28)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
