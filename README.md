@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It&amp;rsquo;s a good idea.](http://9gag.com/gag/ajgAPxx)
- - 🚯 [It has been remade](http://9gag.com/gag/axBjB52)
- - 🚯 [Lets get retarted](http://9gag.com/gag/aBnYyGZ)<!-- MEMES:END -->
+ - 🚖 [Don&amp;#039;t underestimate the hole your absence would leave.](http://9gag.com/gag/aggVm2v)
+ - 🚯 [It&amp;rsquo;s a good idea.](http://9gag.com/gag/ajgAPxx)
+ - 🚯 [Forza Horizon player banned for 8000 years after sharing this custom design. Unban date is set to 12/31/9999](http://9gag.com/gag/aXr9nKz)<!-- MEMES:END -->
 
 --- 
 
