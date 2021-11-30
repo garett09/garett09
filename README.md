@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Melbourne-based Mr Yum, which lets diners order food and drink using QR codes, raises a $65M Series A led by Tiger Global &lpar;Dominic Powell/The Age&rpar;](http://www.techmeme.com/211130/p6#a211130p6)
- - [Mainframe Industries, which develops cloud-native MMOs, raises a $23M Series B led by Andreessen Horowitz, bringing its total funding to $33.7M &lpar;Kyt Dotson/SiliconANGLE&rpar;](http://www.techmeme.com/211130/p5#a211130p5)
- - [Former Citi exec Matt Zhang announces Hivemind Capital Partners, a $1.5B VC fund to invest in blockchain startups, selects Algorand as a strategic partner &lpar;Brandy Betz/CoinDesk&rpar;](http://www.techmeme.com/211130/p4#a211130p4)<!-- TECH:END -->
+ - [Samsung Galaxy Z Flip updates: December patch lands ahead of time](https://www.androidauthority.com/samsung-galaxy-z-flip-update-1084312/)
+ - [Porsche&#39;s Paint to Sample produces some amazing colors     - Roadshow](https://www.cnet.com/roadshow/pictures/porsche-paint-to-sample-colors/#ftag=CAD590a51e)
+ - [Melbourne-based Mr Yum, which lets diners order food and drink using QR codes, raises a $65M Series A led by Tiger Global &lpar;Dominic Powell/The Age&rpar;](http://www.techmeme.com/211130/p6#a211130p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
