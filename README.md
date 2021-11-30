@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This Alienware x15 Gaming Laptop with an RTX 3070 GPU is $718 off for Cyber Monday](https://www.pcgamer.com/this-alienware-x15-gaming-laptop-with-an-rtx-3070-gpu-is-dollar718-off-for-cyber-monday)
- - [Battlefield 2042 Glitch Lets Players Cancel Smoke Grenades Using Menu Screen](https://kotaku.com/battlefield-2042-glitch-lets-players-cancel-smoke-grena-1848134377)
- - [These 10 gaming laptop deals are the best of the best this Cyber Monday](https://www.pcgamer.com/best-cyber-monday-gaming-laptop-deals-2021)<!-- GAME:END -->
+ - [Halo Infinite’s battle pass XP is getting another big upgrade](https://www.polygon.com/22809669/halo-infinite-battle-pass-xp-update-buff-increase-match-reward)
+ - [Best SSD for gaming in 2021](https://www.pcgamer.com/best-ssd-for-gaming)
+ - [The best CPU for gaming in 2021](https://www.pcgamer.com/best-cpu-for-gaming)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
