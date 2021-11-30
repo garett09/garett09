@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitter employees speculate why Jack Dorsey stepped down and what to expect from Parag Agarwal, who is among the company&#39;s most crypto-focused executives &lpar;Casey Newton/The Verge&rpar;](http://www.techmeme.com/211129/p21#a211129p21)
- - [Best phone to buy in 2021     - CNET](https://www.cnet.com/tech/mobile/best-phone-to-buy-in-2021/#ftag=CAD590a51e)
- - [The Absolute Best Cyber Monday Deals Online Right Now](https://www.wired.com/story/best-cyber-monday-deals-2021-1)<!-- TECH:END -->
+ - [Cyber Monday deals: 14-inch MacBook Pro $1,799; 16-inch MacBook Pro $2,199; $200 off 13-inch model; $150 off Mac mini, MacBook Air](https://appleinsider.com/articles/21/11/28/cyber-monday-deals-14-inch-macbook-pro-1799-16-inch-macbook-pro-2199-200-off-13-inch-model-150-off-mac-mini-macbook-air?utm_medium=rss)
+ - [B&amp;H Cyber Week Apple Sale: Mac hardware as low as $629, 14-inch MacBook Pro $1,799, $100 off iPads, exclusive deals](https://appleinsider.com/articles/21/11/29/bh-cyber-monday-sale-mac-hardware-as-low-as-629-14-inch-macbook-pro-1799-and-in-stock-100-off-ipads?utm_medium=rss)
+ - [Vissles LP85 keyboard review: A mechanical Magic Keyboard replacement     - CNET](https://www.cnet.com/tech/computing/vissles-lp85-keyboard-review-a-mechanical-magic-keyboard-replacement/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
