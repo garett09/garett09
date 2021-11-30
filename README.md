@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Game of Thrones: Dunk and Egg series gets a writer who may or may not follow George R.R. Martin’s ‘template’](https://www.polygon.com/22810213/game-of-thrones-dunk-and-egg-tv-show-writer)
- - [Pringles has Halo-themed flavors and I tried them](https://www.polygon.com/22810365/halo-infinite-pringles-moa-burger-wavy-review)
- - [The Witcher season 2 release date, trailer, cast, and everything else we know](https://www.pcgamer.com/the-witcher-season-2-release-date-episode-recaps-and-more)<!-- GAME:END -->
+ - [Don&#39;t worry, Valve isn&#39;t making any Steam Deck-exclusive games](https://www.pcgamer.com/dont-worry-valve-isnt-making-any-steam-deck-exclusive-games)
+ - [GTA Trilogy Definitive Edition remains cursed, physical releases delayed](https://www.polygon.com/22810570/gta-trilogy-definitive-edition-physical-releases-delayed)
+ - [Congress is yet again trying to stop bots from buying up all the GPUs](https://www.pcgamer.com/congress-is-yet-again-trying-to-stop-bots-from-buying-up-all-the-gpus)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
