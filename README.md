@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Upbound, which created the open-source multi-cloud management project Crossplane, raises a $60M Series B led by Altimeter Capital &lpar;Ron Miller/TechCrunch&rpar;](http://www.techmeme.com/211129/p19#a211129p19)
- - [25 Best Early Cyber Monday Deals on Cameras and Gear](https://www.wired.com/story/best-cyber-monday-camera-photography-video-deals-2021)
- - [44 Relaxing Cyber Monday Beauty and Self-Care Deals](https://www.wired.com/story/best-cyber-monday-beauty-deals-self-care-2021)<!-- TECH:END -->
+ - [Jack steps back](https://www.theverge.com/2021/11/29/22808979/twitter-jack-dorsey-steps-back-platformer)
+ - [Jam Out To the Best Cyber Monday Headphone and Speaker Deals](https://www.wired.com/story/best-cyber-monday-headphone-deals-speakers-2021)
+ - [10 highlights of the Sennheiser Cyber Monday sale](https://www.androidauthority.com/sennheiser-cyber-monday-sale-3068751/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
