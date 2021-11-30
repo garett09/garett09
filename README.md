@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitter should consider changing its business model as its ad revenue remains weak, despite its locked-in userbase, indispensability, and impenetrable moat &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/211130/p33#a211130p33)
- - [Pokemon Go December 2021 events: Raids, Christmas event and more     - CNET](https://www.cnet.com/tech/gaming/pokemon-go-december-2021-events-raids-christmas-event-and-more/#ftag=CAD590a51e)
- - [Instant Pot deals: Turn your pot into an air fryer with this $50 lid     - CNET](https://www.cnet.com/home/kitchen-and-household/best-instant-pot-deals-now/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Cyber Monday spending was reportedly down due to early shopping](https://www.theverge.com/2021/11/30/22810083/cyber-monday-spending-down-early-shopping)
+ - [Amazon announces AWS IoT TwinMaker to help developers create digital twins of real-time systems like buildings, factories, equipment, and product lines &lpar;Kyle Wiggers/VentureBeat&rpar;](http://www.techmeme.com/211130/p35#a211130p35)
+ - [Cyber Monday hits sales high for 2021, with one in three shoppers buying online     - CNET](https://www.cnet.com/news/cyber-monday-hits-sales-high-for-2021-with-one-in-three-shoppers-buying-online/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
