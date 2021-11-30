@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An introduction to Parag Agrawal, Twitter’s new CEO](https://www.theverge.com/2021/11/29/22808756/twitter-ceo-parag-agrawal-jack-dorsey-bluesky-moderation)
- - [Researchers find Google Play apps downloaded 300K+ times that stole bank credentials, posing as QR and PDF scanners, exercise apps, and cryptocurrency wallets &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/211129/p17#a211129p17)
- - [The Best Cyber Monday Deals on PC Components](https://www.wired.com/story/cyber-monday-pc-components-2021)<!-- TECH:END -->
+ - [Upbound, which created the open-source multi-cloud management project Crossplane, raises a $60M Series B led by Altimeter Capital &lpar;Ron Miller/TechCrunch&rpar;](http://www.techmeme.com/211129/p19#a211129p19)
+ - [25 Best Early Cyber Monday Deals on Cameras and Gear](https://www.wired.com/story/best-cyber-monday-camera-photography-video-deals-2021)
+ - [44 Relaxing Cyber Monday Beauty and Self-Care Deals](https://www.wired.com/story/best-cyber-monday-beauty-deals-self-care-2021)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
