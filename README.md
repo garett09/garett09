@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [These transparent Apple prototypes clearly show the greatness of see-through gadgets](https://www.theverge.com/2021/11/30/22810281/transparent-apple-airpods-charging-brick-prototype-nintendo-imac)
- - [Android 101: How to stop location tracking](https://www.theverge.com/21401280/android-101-location-tracking-history-stop-how-to)
- - [Why Red Notice was able to beat Bird Box as Netflix’s biggest movie debut ever](https://www.theverge.com/22808720/red-notice-netflix-bird-box-most-watched-film)<!-- TECH:END -->
+ - [HPE reports Q4 revenue of $7.35B vs estimates of $7.38B, Compute unit revenue of $3.2B, up 1.1% YoY, and Storage revenue of $1.3B, up 3% YoY &lpar;Tiernan Ray/ZDNet&rpar;](http://www.techmeme.com/211130/p40#a211130p40)
+ - [10 best file sharing apps for Android](https://www.androidauthority.com/best-file-sharing-apps-android-3063151/)
+ - [Twitch will use machine learning to detect people evading bans](https://www.theverge.com/2021/11/30/22810180/twitch-machine-learning-suspicious-user-detection-bans)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
