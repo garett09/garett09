@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Quick, the fries are getting cold ..](http://9gag.com/gag/aZrMwZz)
- - 🚯 [I was there, 3000 years ago...](http://9gag.com/gag/a11M0W6)
- - 🚯 [The Voice of Reason - Jimmy Carr](http://9gag.com/gag/azejKNZ)<!-- MEMES:END -->
+ - 🚖 [I was there, 3000 years ago...](http://9gag.com/gag/a11M0W6)
+ - 🚯 [Driving with 3 days of no sleep be like](http://9gag.com/gag/aqG58Mp)
+ - 🚯 [L&amp;#039;Amour Toujours - Violin and Sax Street Performance](http://9gag.com/gag/azejKVN)<!-- MEMES:END -->
 
 --- 
 
