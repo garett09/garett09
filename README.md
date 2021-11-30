@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Dog stops tornado from forming](http://9gag.com/gag/aNPnL9G)
- - 🚯 [Lets get retarted](http://9gag.com/gag/aBnYyGZ)
- - 🚯 [More than enough](http://9gag.com/gag/aGzxyR5)<!-- MEMES:END -->
+ - 🚖 [More than enough](http://9gag.com/gag/aGzxyR5)
+ - 🚯 [BYEcycle](http://9gag.com/gag/aegG45j)
+ - 🚯 [Dog stops tornado from forming](http://9gag.com/gag/aNPnL9G)<!-- MEMES:END -->
 
 --- 
 
