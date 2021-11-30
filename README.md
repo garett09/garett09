@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [16-inch MacBook Pro users reporting MagSafe issues, clamshell mode problems](https://appleinsider.com/articles/21/11/30/16-inch-macbook-pro-users-reporting-magsafe-issues-clamshell-mode-problems?utm_medium=rss)
- - [An AI Finds Superbug-Killing Potential in Human Proteins](https://www.wired.com/story/an-ai-finds-superbug-killing-potential-in-human-proteins)
- - [Europe Went Bananas for Gorillas. Then Its Workers Rose Up](https://www.wired.com/story/gorillas-gig-economy-unions-germany)<!-- TECH:END -->
+ - [Lenovo Flex 5i Chromebook review: Cornering the middle market](https://www.androidauthority.com/lenovo-flex-5i-chromebook-review-3036198/)
+ - [The Watch That Made Everything Now](https://www.wired.com/story/pulsar-digital-watch-design-time-history)
+ - [Think Climate Change Is Messy? Wait Until Geoengineering](https://www.wired.com/story/think-climate-change-is-messy-wait-until-geoengineering)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
