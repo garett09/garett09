@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cyber Monday spending was reportedly down due to early shopping](https://www.theverge.com/2021/11/30/22810083/cyber-monday-spending-down-early-shopping)
- - [Amazon announces AWS IoT TwinMaker to help developers create digital twins of real-time systems like buildings, factories, equipment, and product lines &lpar;Kyle Wiggers/VentureBeat&rpar;](http://www.techmeme.com/211130/p35#a211130p35)
- - [Cyber Monday hits sales high for 2021, with one in three shoppers buying online     - CNET](https://www.cnet.com/news/cyber-monday-hits-sales-high-for-2021-with-one-in-three-shoppers-buying-online/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [These transparent Apple prototypes clearly show the greatness of see-through gadgets](https://www.theverge.com/2021/11/30/22810281/transparent-apple-airpods-charging-brick-prototype-nintendo-imac)
+ - [Android 101: How to stop location tracking](https://www.theverge.com/21401280/android-101-location-tracking-history-stop-how-to)
+ - [Why Red Notice was able to beat Bird Box as Netflix’s biggest movie debut ever](https://www.theverge.com/22808720/red-notice-netflix-bird-box-most-watched-film)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
