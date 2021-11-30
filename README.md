@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Too late now](http://9gag.com/gag/aog9M1X)
+ - 🚖 [Knee replacement](http://9gag.com/gag/aog9gPn)
  - 🚯 [First movie came out 20 years ago.](http://9gag.com/gag/aVxPbow)
- - 🚯 [I loled](http://9gag.com/gag/a81MEP6)<!-- MEMES:END -->
+ - 🚯 [Long hair, don&amp;#039;t care](http://9gag.com/gag/aqG5eAP)<!-- MEMES:END -->
 
 --- 
 
