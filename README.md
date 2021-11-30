@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It&amp;#039;s a win win](http://9gag.com/gag/aBnYLKx)
- - 🚯 [Driving with 3 days of no sleep be like](http://9gag.com/gag/aqG58Mp)
- - 🚯 [Aren&amp;#039;t there cool African legends and myth to explore?](http://9gag.com/gag/avAPW3d)<!-- MEMES:END -->
+ - 🚖 [Aren&amp;#039;t there cool African legends and myth to explore?](http://9gag.com/gag/avAPW3d)
+ - 🚯 [The cat in &amp;quot;It hurts right in my meow meow&amp;quot; meme, just pass away.](http://9gag.com/gag/aKmqAW6)
+ - 🚯 [Volvo Trucks - Emergency braking at its best!](http://9gag.com/gag/a717Oem)<!-- MEMES:END -->
 
 --- 
 
