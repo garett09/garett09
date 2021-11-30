@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This Month On PC: Forza Horizon 5, Football Manager 22, Insider Updates, and More](https://news.xbox.com/en-us/2021/11/30/this-month-on-pc-november-2021-recap/)
- - [Rockstar updates GTA Trilogy Definitive Edition to fix tons of visual bugs](https://www.polygon.com/22809777/gta-trilogy-definitive-edition-patch-update-graphics)
- - [Halo Infinite&#39;s Battle Pass Just Got Way Better](https://kotaku.com/halo-infinites-battle-pass-just-got-way-better-1848136540)<!-- GAME:END -->
+ - [Knockout City Season 4 starts December 7: Ride UFOs, brawl across an alien crash site](https://blog.playstation.com/2021/11/30/knockout-city-season-4-starts-december-7-ride-ufos-brawl-across-an-alien-crash-site/)
+ - [Knockout City Season 4 starts December 7: Ride UFOs, brawl across an alien crash site](https://blog.playstation.com/2021/11/30/knockout-city-season-4-starts-december-7-ride-ufos-brawl-across-an-alien-crash-site/)
+ - [Uncover Some Nefarious Tips and Tricks for Evil Genius 2: World Domination](https://news.xbox.com/en-us/2021/11/30/tips-and-tricks-for-evil-genius-2-world-domination/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
