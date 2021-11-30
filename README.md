@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to securely show your COVID-19 certificate on your iPhone](https://appleinsider.com/articles/21/11/30/how-to-securely-show-your-covid-19-certificate-on-your-iphone?utm_medium=rss)
- - [Razer’s Qualcomm-powered handheld console leaks](https://www.theverge.com/2021/11/30/22809800/qualcomm-razer-games-console-handheld-snapdragon-g3x-developer-kit-leak)
- - [Nokia 9 PureView won’t get Android 11. HMD says to buy a new Nokia instead.](https://www.androidauthority.com/nokia-9-android-11-3069124/)<!-- TECH:END -->
+ - [Apple to overtake Samsung in Q4 2021, 5G iPhone SE coming in 2022](https://appleinsider.com/articles/21/11/30/apple-to-overtake-samsung-in-q4-2021-5g-iphone-se-coming-in-2022?utm_medium=rss)
+ - [Best Apple Watch Cyber Monday deals still available: Save $100 on Series 6, $40 on Watch SE     - CNET](https://www.cnet.com/tech/mobile/best-apple-watch-cyber-monday-deals-still-available-save-100-on-series-6-40-on-watch-se/#ftag=CAD590a51e)
+ - [Elon Musk says Raptor engine production is a ‘disaster’ that puts SpaceX at risk of bankruptcy](https://www.theverge.com/2021/11/30/22809720/elon-musk-spacex-raptor-engine-crisis-bankruptcy-starship)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
