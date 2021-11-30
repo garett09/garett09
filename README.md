@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The cat in &amp;quot;It hurts right in my meow meow&amp;quot; meme, just pass away.](http://9gag.com/gag/aKmqAW6)
- - 🚯 [Volvo Trucks - Emergency braking at its best!](http://9gag.com/gag/a717Oem)
- - 🚯 [I park like an idiot, fall like an imbecile](http://9gag.com/gag/aRrAZgA)<!-- MEMES:END -->
+ - 🚖 [I was there, 3000 years ago...](http://9gag.com/gag/a11M0W6)
+ - 🚯 [&amp;quot;If you don&amp;#039;t read the news you&amp;#039;re un-informed. If you do read the news you&amp;#039;re misinformed.&amp;quot; - Denzel Washington](http://9gag.com/gag/ay9d6qp)
+ - 🚯 [Happy birthday!](http://9gag.com/gag/axBjv9b)<!-- MEMES:END -->
 
 --- 
 
