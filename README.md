@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Forza Horizon player banned for 8000 years after sharing this custom design. Unban date is set to 12/31/9999](http://9gag.com/gag/aXr9nKz)
- - 🚯 [Ah, black Friday indeed](http://9gag.com/gag/a11M19b)
- - 🚯 [When you catch up with people from your past and...](http://9gag.com/gag/aZrMZ4n)<!-- MEMES:END -->
+ - 🚖 [Don&amp;#039;t underestimate the hole your absence would leave.](http://9gag.com/gag/aggVm2v)
+ - 🚯 [When you catch up with people from your past and...](http://9gag.com/gag/aZrMZ4n)
+ - 🚯 [BYEcycle](http://9gag.com/gag/aegG45j)<!-- MEMES:END -->
 
 --- 
 
