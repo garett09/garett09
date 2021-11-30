@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This giant 35-inch curved monitor is as cheap as it&#39;s ever been](https://www.pcgamer.com/this-giant-35-inch-curved-monitor-is-as-cheap-as-its-ever-been)
- - [Love Arcane? Here’s how to get into League of Legends lore](https://www.polygon.com/22799458/arcane-lore-league-of-legends-canon-explainer)
- - [Cyber Monday gaming monitor deals 2021: pixel perfect panels on offer](https://www.pcgamer.com/cyber-monday-gaming-monitor-deals-2021)<!-- GAME:END -->
+ - [This Alienware x15 Gaming Laptop with an RTX 3070 GPU is $718 off for Cyber Monday](https://www.pcgamer.com/this-alienware-x15-gaming-laptop-with-an-rtx-3070-gpu-is-dollar718-off-for-cyber-monday)
+ - [Battlefield 2042 Glitch Lets Players Cancel Smoke Grenades Using Menu Screen](https://kotaku.com/battlefield-2042-glitch-lets-players-cancel-smoke-grena-1848134377)
+ - [These 10 gaming laptop deals are the best of the best this Cyber Monday](https://www.pcgamer.com/best-cyber-monday-gaming-laptop-deals-2021)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
