@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Cracking the Code to Level Design in Rubber Bandits, Coming To Xbox December 2nd](https://news.xbox.com/en-us/2021/11/30/cracking-the-code-to-level-design-in-rubber-bandits-coming-to-xbox-december-2nd/)
- - [Generation Zero Now Available with Xbox Game Pass](https://news.xbox.com/en-us/2021/11/30/generation-zero-arrives-today-with-xbox-game-pass/)
- - [What if Halo had been a Mac exclusive?](https://www.polygon.com/videos/22800811/halo-mac-exclusive-apple-xbox-gta-versus)<!-- GAME:END -->
+ - [Game of Thrones: Dunk and Egg series gets a writer who may or may not follow George R.R. Martin’s ‘template’](https://www.polygon.com/22810213/game-of-thrones-dunk-and-egg-tv-show-writer)
+ - [Pringles has Halo-themed flavors and I tried them](https://www.polygon.com/22810365/halo-infinite-pringles-moa-burger-wavy-review)
+ - [The Witcher season 2 release date, trailer, cast, and everything else we know](https://www.pcgamer.com/the-witcher-season-2-release-date-episode-recaps-and-more)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
