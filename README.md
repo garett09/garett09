@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Lets get retarted](http://9gag.com/gag/aBnYyGZ)
- - 🚯 [Classic](http://9gag.com/gag/aZrMDOX)
- - 🚯 [Long hair, don&amp;#039;t care](http://9gag.com/gag/aqG5eAP)<!-- MEMES:END -->
+ - 🚖 [It&amp;rsquo;s a good idea.](http://9gag.com/gag/ajgAPxx)
+ - 🚯 [It has been remade](http://9gag.com/gag/axBjB52)
+ - 🚯 [Lets get retarted](http://9gag.com/gag/aBnYyGZ)<!-- MEMES:END -->
 
 --- 
 
