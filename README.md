@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lenovo Flex 5i Chromebook review: Cornering the middle market](https://www.androidauthority.com/lenovo-flex-5i-chromebook-review-3036198/)
- - [The Watch That Made Everything Now](https://www.wired.com/story/pulsar-digital-watch-design-time-history)
- - [Think Climate Change Is Messy? Wait Until Geoengineering](https://www.wired.com/story/think-climate-change-is-messy-wait-until-geoengineering)<!-- TECH:END -->
+ - [Native Union Curve Strap review: A lightweight silicone band for Apple Watch](https://appleinsider.com/articles/21/11/30/native-union-curve-strap-review-a-lightweight-silicone-band-for-apple-watch?utm_medium=rss)
+ - [NASA delays spacewalk due to threat of space debris](https://www.theverge.com/2021/11/30/22809544/nasa-spacewalk-delay-debris-space-station)
+ - [Get More From Your Multicooker With These 5 Cookbooks](https://www.wired.com/gallery/best-multicooker-cookbooks)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
