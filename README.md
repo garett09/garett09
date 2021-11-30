@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chinese agencies release rules aimed at regulating the ride-hailing industry to protect drivers and riders, including setting up local supervisory offices &lpar;Coco Liu/Bloomberg&rpar;](http://www.techmeme.com/211130/p10#a211130p10)
- - [Wise reports H1 2021 revenue rose 33% YoY to &amp;pound;256.3M as pre-tax profits dropped to &amp;pound;18.8M from &amp;pound;20M in H1 2020; headcount grew 32% YoY to 2,883 &lpar;Siddharth Venkataramakrishnan/Financial ...&rpar;](http://www.techmeme.com/211130/p9#a211130p9)
- - [Apple unveils third annual Apple Music award winners](https://appleinsider.com/articles/21/11/30/apple-unveils-third-annual-apple-music-award-winners?utm_medium=rss)<!-- TECH:END -->
+ - [16-inch MacBook Pro users reporting MagSafe issues, clamshell mode problems](https://appleinsider.com/articles/21/11/30/16-inch-macbook-pro-users-reporting-magsafe-issues-clamshell-mode-problems?utm_medium=rss)
+ - [An AI Finds Superbug-Killing Potential in Human Proteins](https://www.wired.com/story/an-ai-finds-superbug-killing-potential-in-human-proteins)
+ - [Europe Went Bananas for Gorillas. Then Its Workers Rose Up](https://www.wired.com/story/gorillas-gig-economy-unions-germany)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
