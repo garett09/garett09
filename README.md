@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I was there, 3000 years ago...](http://9gag.com/gag/a11M0W6)
- - 🚯 [&amp;quot;If you don&amp;#039;t read the news you&amp;#039;re un-informed. If you do read the news you&amp;#039;re misinformed.&amp;quot; - Denzel Washington](http://9gag.com/gag/ay9d6qp)
- - 🚯 [Happy birthday!](http://9gag.com/gag/axBjv9b)<!-- MEMES:END -->
+ - 🚖 [Karen complaining about adults buying a PS5 which presumably leads to not letting kids have one for Christmas](http://9gag.com/gag/arnKAXK)
+ - 🚯 [I was there, 3000 years ago...](http://9gag.com/gag/a11M0W6)
+ - 🚯 [L&amp;#039;Amour Toujours - Violin and Sax Street Performance](http://9gag.com/gag/azejKVN)<!-- MEMES:END -->
 
 --- 
 
