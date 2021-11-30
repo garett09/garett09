@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I&amp;#039;m a Wurst](http://9gag.com/gag/aRrA4P5)
- - 🚯 [The cat in &amp;quot;It hurts right in my meow meow&amp;quot; meme, just pass away.](http://9gag.com/gag/aKmqAW6)
- - 🚯 [That Damn smile...](http://9gag.com/gag/a917zOo)<!-- MEMES:END -->
+ - 🚖 [Angry morning noises](http://9gag.com/gag/a21mwWd)
+ - 🚯 [My current first world problem](http://9gag.com/gag/a31B53r)
+ - 🚯 [When live TV cant give you an instagram filter](http://9gag.com/gag/arnK3my)<!-- MEMES:END -->
 
 --- 
 
