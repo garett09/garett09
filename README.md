@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Don&#39;t worry, Valve isn&#39;t making any Steam Deck-exclusive games](https://www.pcgamer.com/dont-worry-valve-isnt-making-any-steam-deck-exclusive-games)
- - [GTA Trilogy Definitive Edition remains cursed, physical releases delayed](https://www.polygon.com/22810570/gta-trilogy-definitive-edition-physical-releases-delayed)
- - [Congress is yet again trying to stop bots from buying up all the GPUs](https://www.pcgamer.com/congress-is-yet-again-trying-to-stop-bots-from-buying-up-all-the-gpus)<!-- GAME:END -->
+ - [Twitch Is Now Using Machine Learning To Target Ban Evaders](https://kotaku.com/twitch-is-using-machine-learning-to-target-assholes-1848140236)
+ - [Capcom Arcade Stadium tops Steam’s charts — for dubious reasons](https://www.polygon.com/22810843/capcom-arcade-stadium-bots-steam-trading-cards-top-10)
+ - [Warframe&#39;s The New War expansion goes live on December 15](https://www.pcgamer.com/warframes-the-new-war-expansion-goes-live-on-december-15)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
