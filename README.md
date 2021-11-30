@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Quinyx, which helps companies with gig work scheduling, raises a $50M Series C led by Battery Ventures at a $550M valuation, bringing its total funding to $89M+ &lpar;Kyle Wiggers/VentureBeat&rpar;](http://www.techmeme.com/211130/p3#a211130p3)
- - [FIFA is trialling limb-tracking tech to catch offside players](https://www.theverge.com/2021/11/30/22809396/fifa-limb-tracking-arab-cup-world-offside-technology)
- - [Twitter&#39;s new CEO has to steer a company that has underperformed the market, haltingly introduced new products, and struggled to moderate harmful content &lpar;Bloomberg&rpar;](http://www.techmeme.com/211130/p2#a211130p2)<!-- TECH:END -->
+ - [Melbourne-based Mr Yum, which lets diners order food and drink using QR codes, raises a $65M Series A led by Tiger Global &lpar;Dominic Powell/The Age&rpar;](http://www.techmeme.com/211130/p6#a211130p6)
+ - [Mainframe Industries, which develops cloud-native MMOs, raises a $23M Series B led by Andreessen Horowitz, bringing its total funding to $33.7M &lpar;Kyt Dotson/SiliconANGLE&rpar;](http://www.techmeme.com/211130/p5#a211130p5)
+ - [Former Citi exec Matt Zhang announces Hivemind Capital Partners, a $1.5B VC fund to invest in blockchain startups, selects Algorand as a strategic partner &lpar;Brandy Betz/CoinDesk&rpar;](http://www.techmeme.com/211130/p4#a211130p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
