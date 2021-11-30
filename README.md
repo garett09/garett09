@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Native Union Curve Strap review: A lightweight silicone band for Apple Watch](https://appleinsider.com/articles/21/11/30/native-union-curve-strap-review-a-lightweight-silicone-band-for-apple-watch?utm_medium=rss)
- - [NASA delays spacewalk due to threat of space debris](https://www.theverge.com/2021/11/30/22809544/nasa-spacewalk-delay-debris-space-station)
- - [Get More From Your Multicooker With These 5 Cookbooks](https://www.wired.com/gallery/best-multicooker-cookbooks)<!-- TECH:END -->
+ - [Google really is evil, claims ex-employee lawsuit](https://appleinsider.com/articles/21/11/30/google-really-is-evil-claims-ex-employee-lawsuit?utm_medium=rss)
+ - [Procedural storytelling is exploding the possibilities of video game narratives](https://www.theverge.com/2021/11/30/22807568/procedural-storytelling-video-games-dwarf-fortress-wildermyth-blaseball)
+ - [How to create a mailing list in Gmail](https://www.androidauthority.com/create-group-email-gmail-1118920/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
