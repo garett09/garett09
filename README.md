@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [No TV Signal is one of the greatest &lpar;EM&rpar; bands of the 20th Century](http://9gag.com/gag/avAPWAd)
- - 🚯 [Dog stops tornado from forming](http://9gag.com/gag/aNPnL9G)
+ - 🚖 [All wheel drive in winter be like](http://9gag.com/gag/avAPWEW)
+ - 🚯 [Really messed up commercial](http://9gag.com/gag/amg919d)
  - 🚯 [Let it be](http://9gag.com/gag/angNOxb)<!-- MEMES:END -->
 
 --- 
