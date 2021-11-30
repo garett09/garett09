@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [HPE reports Q4 revenue of $7.35B vs estimates of $7.38B, Compute unit revenue of $3.2B, up 1.1% YoY, and Storage revenue of $1.3B, up 3% YoY &lpar;Tiernan Ray/ZDNet&rpar;](http://www.techmeme.com/211130/p40#a211130p40)
- - [10 best file sharing apps for Android](https://www.androidauthority.com/best-file-sharing-apps-android-3063151/)
- - [Twitch will use machine learning to detect people evading bans](https://www.theverge.com/2021/11/30/22810180/twitch-machine-learning-suspicious-user-detection-bans)<!-- TECH:END -->
+ - [Amazon faces new pressure over COVID protections in warehouses](https://www.theverge.com/2021/11/30/22810754/amazon-new-york-ag-reinstate-fired-worker-health-safety-covid)
+ - [Qualcomm’s new Snapdragon 8 Gen 1 chip is here to power the Android flagships of 2022](https://www.theverge.com/2021/11/30/22809687/qualcomm-snapdragon-8-gen-1-chip-smartphone-processor-specs-details)
+ - [Apple Music announces its most-streamed songs of 2021](https://appleinsider.com/articles/21/11/30/apple-music-announces-its-most-streamed-songs-of-2021?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
