@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [More than enough](http://9gag.com/gag/aGzxyR5)
- - 🚯 [BYEcycle](http://9gag.com/gag/aegG45j)
- - 🚯 [Dog stops tornado from forming](http://9gag.com/gag/aNPnL9G)<!-- MEMES:END -->
+ - 🚖 [No TV Signal is one of the greatest &lpar;EM&rpar; bands of the 20th Century](http://9gag.com/gag/avAPWAd)
+ - 🚯 [Dog stops tornado from forming](http://9gag.com/gag/aNPnL9G)
+ - 🚯 [Let it be](http://9gag.com/gag/angNOxb)<!-- MEMES:END -->
 
 --- 
 
