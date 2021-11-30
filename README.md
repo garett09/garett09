@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cyber Monday deals: 14-inch MacBook Pro $1,799; 16-inch MacBook Pro $2,199; $200 off 13-inch model; $150 off Mac mini, MacBook Air](https://appleinsider.com/articles/21/11/28/cyber-monday-deals-14-inch-macbook-pro-1799-16-inch-macbook-pro-2199-200-off-13-inch-model-150-off-mac-mini-macbook-air?utm_medium=rss)
- - [B&amp;H Cyber Week Apple Sale: Mac hardware as low as $629, 14-inch MacBook Pro $1,799, $100 off iPads, exclusive deals](https://appleinsider.com/articles/21/11/29/bh-cyber-monday-sale-mac-hardware-as-low-as-629-14-inch-macbook-pro-1799-and-in-stock-100-off-ipads?utm_medium=rss)
- - [Vissles LP85 keyboard review: A mechanical Magic Keyboard replacement     - CNET](https://www.cnet.com/tech/computing/vissles-lp85-keyboard-review-a-mechanical-magic-keyboard-replacement/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Quinyx, which helps companies with gig work scheduling, raises a $50M Series C led by Battery Ventures at a $550M valuation, bringing its total funding to $89M+ &lpar;Kyle Wiggers/VentureBeat&rpar;](http://www.techmeme.com/211130/p3#a211130p3)
+ - [FIFA is trialling limb-tracking tech to catch offside players](https://www.theverge.com/2021/11/30/22809396/fifa-limb-tracking-arab-cup-world-offside-technology)
+ - [Twitter&#39;s new CEO has to steer a company that has underperformed the market, haltingly introduced new products, and struggled to moderate harmful content &lpar;Bloomberg&rpar;](http://www.techmeme.com/211130/p2#a211130p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
