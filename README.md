@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What the f*ck, Angela??](http://9gag.com/gag/aegGRZB)
- - 🚯 [I was today years old](http://9gag.com/gag/a617GoA)
- - 🚯 [Did it cancel out the sugar?](http://9gag.com/gag/aLv2d3g)<!-- MEMES:END -->
+ - 🚖 [I was today years old](http://9gag.com/gag/a617GoA)
+ - 🚯 [An outraged city official called out the mayor for trying to cut off people&amp;rsquo;s power during the Corona pandemic](http://9gag.com/gag/a31Bb83)
+ - 🚯 [What the f*ck, Angela??](http://9gag.com/gag/aegGRZB)<!-- MEMES:END -->
 
 --- 
 
