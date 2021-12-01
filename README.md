@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Adobe: US consumers spent $10.7B online on Cyber Monday, below expectations and down 1.4% from $10.8B in 2020, as many shoppers returned to physical stores &lpar;Lauren Thomas/CNBC&rpar;](http://www.techmeme.com/211130/p49#a211130p49)
- - [Bitcoin mining firm Griid says it will go public via a SPAC in Q1 2022 at a valuation of around $3.3B, including debt &lpar;Frank Chaparro/The Block&rpar;](http://www.techmeme.com/211130/p48#a211130p48)
- - [iPhone 13 Pro case roundup: Protect your shiny new device](https://appleinsider.com/articles/21/09/22/iphone-13-case-roundup-protect-your-device-on-release-day?utm_medium=rss)<!-- TECH:END -->
+ - [Tesla selling $50 Cyberwhistle, Musk mocks $19 Apple polishing cloth](https://appleinsider.com/articles/21/12/01/tesla-selling-50-cyberwhistle-musk-mocks-19-apple-polishing-cloth?utm_medium=rss)
+ - [Oculus rolls out v35, adding a mixed reality camera feature that requires an iPhone XS or above, Messenger Calling in VR, a new cloud backup system, and more &lpar;Jamie Feltham/UploadVR&rpar;](http://www.techmeme.com/211130/p50#a211130p50)
+ - [Cyber Week sale: 20% off solar panels at Goal Zero     - CNET](https://www.cnet.com/home/energy-and-utilities/cyber-week-sale-20-off-solar-panels-at-goal-zero/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
