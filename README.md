@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [PeopleFund, a South Korea-based P2P lending service, raises a $63.4M Series C led by Bain Capital, as it looks to beef up its ML-powered credit scoring system &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/211130/p56#a211130p56)
- - [Jack Dorsey joins other tech leaders who seem to have grown tired of managing their platforms, amid increasing political controversy and hard-to-fix problems &lpar;Kevin Roose/New York Times&rpar;](http://www.techmeme.com/211130/p55#a211130p55)
- - [Simpl, a Bangalore-based buy now, pay later service, raises a $40M Series B led by Valar Ventures and IA Ventures, bringing its total funding to $83M &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/211130/p54#a211130p54)<!-- TECH:END -->
+ - [As the &quot;omicron&quot; crypto token soars in value following news of the COVID variant, it is yet another example of how cryptocurrencies create artificial scarcity &lpar;Matt Levine/Bloomberg&rpar;](http://www.techmeme.com/211201/p2#a211201p2)
+ - [Someone at Amazon forgot to test the Appstore on Android 12 &lpar;Updated: Statement&rpar;](https://www.androidauthority.com/amazon-appstore-android-12-3066697/)
+ - [Qualcomm says it will integrate Google&#39;s Vertex AI NAS into its Neural Processing SDK, starting with Snapdragon 8 Gen 1, to automate the creation of AI models &lpar;Charlie Osborne/ZDNet&rpar;](http://www.techmeme.com/211201/p1#a211201p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
