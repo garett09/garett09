@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple marks World AIDS Day, says customers have raised nearly $270 million](https://appleinsider.com/articles/21/12/01/apple-marks-world-aids-day-says-customers-have-raised-nearly-270-million?utm_medium=rss)
- - [Samsung refreshes two budget A-series phones with 5G and higher prices](https://www.theverge.com/2021/12/1/22810665/samsung-galaxy-a13-5g-a03s-android)
- - [Apple&#39;s November 2021 in review: Right to repair, hardware shortages, and South Korea](https://appleinsider.com/articles/21/12/01/apples-november-2021-in-review-right-to-repair-hardware-shortages-and-south-korea?utm_medium=rss)<!-- TECH:END -->
+ - [Microsoft announces Teams Essentials, a $4/month standalone version of Teams for small businesses with a simplified UI, focus on meetings, and no Office apps &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/211201/p26#a211201p26)
+ - [Jabra Elite 7 Pro review: something’s missing](https://www.theverge.com/22811826/jabra-elite-7-pro-earbuds-review-features-multipoint)
+ - [Don&#39;t get Spotify FOMO -- here&#39;s how to get your Apple Music Replay](https://appleinsider.com/articles/21/12/01/dont-get-spotify-fomo----heres-how-to-get-your-apple-music-replay?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
