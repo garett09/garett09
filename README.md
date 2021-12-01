@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Stardew Valley update &#39;futureproofs the game&#39; with improved modding support](https://www.pcgamer.com/stardew-valley-update-futureproofs-the-game-with-improved-modding-support)
- - [JoJo’s Bizarre Adventure’s best season is also the best place to start with the anime](https://www.polygon.com/22810915/jojos-bizarre-adventure-best-season-stardust-crusaders)
- - [Are you happy with your fireballs? A new D&amp;D spell survey wants to know](https://www.polygon.com/22811818/dungeons-dragons-spell-survey-6th-edition-rumors)<!-- GAME:END -->
+ - [Battlefield 2042’s massive new update is almost all bug fixes and minor improvements](https://www.polygon.com/22812140/battlefield-2042-patch-notes-update-3-bug-fixes)
+ - [Dead by Daylight Delivers Surreal Terror in Portrait of a Murder Chapter](https://news.xbox.com/en-us/2021/12/01/dead-by-daylight-delivers-surreal-terror-in-portrait-of-a-murder-chapter/)
+ - [Solar Ash: The Kotaku Review](https://kotaku.com/solar-ash-the-kotaku-review-1848143937)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
