@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Just another morning at the bakery](http://9gag.com/gag/ay9dRAr)
- - 🚯 [An outraged city official called out the mayor for trying to cut off people&amp;rsquo;s power during the Corona pandemic](http://9gag.com/gag/a31Bb83)
+ - 🚖 [Frog wearing a frog hat](http://9gag.com/gag/aVxPV0P)
+ - 🚯 [400 Musicians play New Divide by Linkin Park](http://9gag.com/gag/aDDoXbd)
  - 🚯 [Relatable](http://9gag.com/gag/aAG1Xn2)<!-- MEMES:END -->
 
 --- 
