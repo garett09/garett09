@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung’s new budget phone packs 50MP camera, 5G smarts for $249](https://www.androidauthority.com/samsung-galaxy-a13-3069483/)
- - [Speak in &lpar;Many&rpar; Tongues With This Pocket Translator](https://www.wired.com/review/pocketalk-plus-voice-translator)
- - [Nintendo’s new Big Brain Academy turns brainteasers into a party game](https://www.theverge.com/2021/12/1/22810735/big-brain-academy-brain-vs-brain-review-nintendo-switch)<!-- TECH:END -->
+ - [Apple marks World AIDS Day, says customers have raised nearly $270 million](https://appleinsider.com/articles/21/12/01/apple-marks-world-aids-day-says-customers-have-raised-nearly-270-million?utm_medium=rss)
+ - [Samsung refreshes two budget A-series phones with 5G and higher prices](https://www.theverge.com/2021/12/1/22810665/samsung-galaxy-a13-5g-a03s-android)
+ - [Apple&#39;s November 2021 in review: Right to repair, hardware shortages, and South Korea](https://appleinsider.com/articles/21/12/01/apples-november-2021-in-review-right-to-repair-hardware-shortages-and-south-korea?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
