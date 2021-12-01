@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Everything we know about Total War: Warhammer 3](https://www.pcgamer.com/everything-we-know-about-total-war-warhammer-3)
- - [The Air Jordan shoe craze is reportedly coming to Fortnite](https://www.pcgamer.com/fortnite-jordan-collab)
- - [Right-Wing Group Wants Bobby Kotick Removed From Coca-Cola&#39;s Board](https://kotaku.com/right-wing-group-wants-bobby-kotick-removed-from-coca-c-1848141069)<!-- GAME:END -->
+ - [Nvidia&#39;s RTX 40 series could be arriving sooner than expected](https://www.pcgamer.com/nvidias-rtx-40-series-could-be-arriving-sooner-than-expected)
+ - [Microsoft&#39;s Minesweeper ugly Xmas sweater has already sold out](https://www.pcgamer.com/microsofts-minesweeper-ugly-xmas-sweater-has-already-sold-out)
+ - [Everything we know about Total War: Warhammer 3](https://www.pcgamer.com/everything-we-know-about-total-war-warhammer-3)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
