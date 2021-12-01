@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Dubai-based iMile, which offers cross-border e-commerce logistics services for emerging markets, raises a $40M Series A at a $350M valuation &lpar;Nicolas Parasie/Bloomberg&rpar;](http://www.techmeme.com/211130/p51#a211130p51)
  - [Tesla selling $50 Cyberwhistle, Musk mocks $19 Apple polishing cloth](https://appleinsider.com/articles/21/12/01/tesla-selling-50-cyberwhistle-musk-mocks-19-apple-polishing-cloth?utm_medium=rss)
- - [Oculus rolls out v35, adding a mixed reality camera feature that requires an iPhone XS or above, Messenger Calling in VR, a new cloud backup system, and more &lpar;Jamie Feltham/UploadVR&rpar;](http://www.techmeme.com/211130/p50#a211130p50)
- - [Cyber Week sale: 20% off solar panels at Goal Zero     - CNET](https://www.cnet.com/home/energy-and-utilities/cyber-week-sale-20-off-solar-panels-at-goal-zero/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Oculus rolls out v35, adding a mixed reality camera feature that requires an iPhone XS or above, Messenger Calling in VR, a new cloud backup system, and more &lpar;Jamie Feltham/UploadVR&rpar;](http://www.techmeme.com/211130/p50#a211130p50)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
