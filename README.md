@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Battlefield 2042’s massive new update is almost all bug fixes and minor improvements](https://www.polygon.com/22812140/battlefield-2042-patch-notes-update-3-bug-fixes)
- - [Dead by Daylight Delivers Surreal Terror in Portrait of a Murder Chapter](https://news.xbox.com/en-us/2021/12/01/dead-by-daylight-delivers-surreal-terror-in-portrait-of-a-murder-chapter/)
- - [Solar Ash: The Kotaku Review](https://kotaku.com/solar-ash-the-kotaku-review-1848143937)<!-- GAME:END -->
+ - [Overwatch gets weird with some over-the-top balance changes designed by players](https://www.polygon.com/22812075/overwatch-experimental-card-balance-changes-fans-design)
+ - [After years of struggling against DDoS attacks, Titanfall is being removed from sale](https://www.pcgamer.com/after-years-of-struggling-against-ddos-attacks-titanfall-is-being-removed-from-sale)
+ - [Rainbow Six Siege Kicks Off New Season, High Calibre, with New Operator and More](https://news.xbox.com/en-us/2021/12/01/rainbow-six-siege-kicks-off-new-season-high-calibre/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
