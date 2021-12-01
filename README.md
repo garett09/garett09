@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The Voice of Reason - Jimmy Carr](http://9gag.com/gag/azejKNZ)
- - 🚯 [Boys when they gather](http://9gag.com/gag/a41YA1d)
- - 🚯 [Ever happend to you ??](http://9gag.com/gag/aegGmjm)<!-- MEMES:END -->
+ - 🚖 [Boys when they gather](http://9gag.com/gag/a41YA1d)
+ - 🚯 [Adorable Bunny Growing up](http://9gag.com/gag/aOQVPoE)
+ - 🚯 [Love your job...](http://9gag.com/gag/axBjOgb)<!-- MEMES:END -->
 
 --- 
 
