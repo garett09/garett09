@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Respawn stops selling the original Titanfall](https://www.theverge.com/2021/12/1/22812187/respawn-titanfall-delisted-apex-legends)
- - [This Drone Uses Piercing Talons to Perch—or Snatch Things](https://www.wired.com/story/this-drone-uses-piercing-talons-to-perch-or-snatch-things)
- - [18 Hours of Omicron Chaos at Schiphol Airport](https://www.wired.com/story/omicron-europe-contact-tracing)<!-- TECH:END -->
+ - [AWS announces SageMaker Studio Lab, a free version of SageMaker to help customers with little experience build, train, and deploy ML models &lpar;Stephanie Condon/ZDNet&rpar;](http://www.techmeme.com/211201/p31#a211201p31)
+ - [Debt collectors can now slide into your DMs on social media     - CNET](https://www.cnet.com/news/debt-collectors-can-now-slide-into-your-dms-on-social-media/#ftag=CAD590a51e)
+ - [In an internal Slack message, Marc Benioff says Salesforce co-CEO Bret Taylor will continue to report to him &lpar;Kevin McLaughlin/The Information&rpar;](http://www.techmeme.com/211201/p30#a211201p30)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
