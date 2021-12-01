@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Foldable smartphone shipments reached a record 2.6M units in Q3, up 480% YoY, with Samsung accounting for 93% of shipments followed by Huawei at 6% &lpar;Ross Young/Display Supply Chain ...&rpar;](http://www.techmeme.com/211201/p6#a211201p6)
- - [WhatsApp, iMessage give the most info to the FBI, new document shows](https://www.androidauthority.com/fbi-document-messaging-apps-3069511/)
- - [Aston Martin confirms V12 Vantage sendoff     - Roadshow](https://www.cnet.com/roadshow/news/aston-martin-v12-vantage-confirmed/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Matrix Is the Best Hacker Movie](https://www.wired.com/story/matrix-best-hacker-movie)
+ - [Welcome to the &lpar;Synthetic&rpar; Meatspace](https://www.wired.com/story/synthetic-meatspace-food-health)
+ - [WIRED Peers Into the Future of Reality](https://www.wired.com/story/future-of-reality-matrix-opener)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
