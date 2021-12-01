@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Removing the dislike button was the shittiest thing youtube could do](http://9gag.com/gag/aKmqY1N)
- - 🚯 [How the turns have tabled](http://9gag.com/gag/a0Zp12z)
- - 🚯 [This tiny dot is you, your family, your friends and enemies. Everything that ever happened in recorded history happened within this tiny dot. Picture of Earth from Saturn, 2013](http://9gag.com/gag/aE87DrN)<!-- MEMES:END -->
+ - 🚖 [Just another morning at the bakery](http://9gag.com/gag/ay9dRAr)
+ - 🚯 [An outraged city official called out the mayor for trying to cut off people&amp;rsquo;s power during the Corona pandemic](http://9gag.com/gag/a31Bb83)
+ - 🚯 [Relatable](http://9gag.com/gag/aAG1Xn2)<!-- MEMES:END -->
 
 --- 
 
