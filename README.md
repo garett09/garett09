@@ -194,7 +194,7 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [I was there, 3000 years ago...](http://9gag.com/gag/a11M0W6)
- - 🚯 [Driving with 3 days of no sleep be like](http://9gag.com/gag/aqG58Mp)
+ - 🚯 [Good thing I live in a shithole country so I can blame the government](http://9gag.com/gag/avAPE4q)
  - 🚯 [L&amp;#039;Amour Toujours - Violin and Sax Street Performance](http://9gag.com/gag/azejKVN)<!-- MEMES:END -->
 
 --- 
