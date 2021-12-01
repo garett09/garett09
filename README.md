@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft announces Teams Essentials, a $4/month standalone version of Teams for small businesses with a simplified UI, focus on meetings, and no Office apps &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/211201/p26#a211201p26)
- - [Jabra Elite 7 Pro review: something’s missing](https://www.theverge.com/22811826/jabra-elite-7-pro-earbuds-review-features-multipoint)
- - [Don&#39;t get Spotify FOMO -- here&#39;s how to get your Apple Music Replay](https://appleinsider.com/articles/21/12/01/dont-get-spotify-fomo----heres-how-to-get-your-apple-music-replay?utm_medium=rss)<!-- TECH:END -->
+ - [A look at Particle, founded by an ex-Christie&#39;s exec and others, which plans to split Banksy&#39;s Love Is in the Air into 10,000 pieces to be sold as NFTs &lpar;Robin Pogrebin/New York Times&rpar;](http://www.techmeme.com/211201/p28#a211201p28)
+ - [Google’s dishing out festive new features to Android, other products this month](https://www.androidauthority.com/google-december-2021-update-3069529/)
+ - [Google announces grab bag of new Android features for the end of 2021](https://www.theverge.com/2021/12/1/22811617/google-android-auto-widgets-assistant-family-bell-updates-december-2021)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
