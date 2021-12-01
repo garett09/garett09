@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This is all I see](http://9gag.com/gag/aE87XBG)
- - 🚯 [Performance Art](http://9gag.com/gag/adgj2e9)
- - 🚯 [Real money tree](http://9gag.com/gag/aBnYXQD)<!-- MEMES:END -->
+ - 🚖 [Removing the dislike button was the shittiest thing youtube could do](http://9gag.com/gag/aKmqY1N)
+ - 🚯 [Giving out stupid prizes in POV](http://9gag.com/gag/aZrM2Y3)
+ - 🚯 [What&amp;#039;s the name of this kitty?](http://9gag.com/gag/aAG12Ko)<!-- MEMES:END -->
 
 --- 
 
