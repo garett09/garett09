@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at China&#39;s extensive tech investments in Africa, including undersea cables, data centers, and fintech apps, as part of its &quot;Digital Silk Road&quot; initiative &lpar;Yinka Adegoke/Rest of World&rpar;](http://www.techmeme.com/211201/p32#a211201p32)
- - [HMD Global backs out of Nokia 9 PureView Android 11 upgrade, blames camera system](https://www.theverge.com/2021/12/1/22811988/hmd-global-nokia-9-pureview-android-11-software)
- - [Facebook removes block on searches for Kyle Rittenhouse](https://www.theverge.com/2021/12/1/22782911/rittenhouse-verdict-policy-facebook-praise-block-page)<!-- TECH:END -->
+ - [10 best digital wellbeing apps for Android](https://www.androidauthority.com/best-digital-wellbeing-apps-android-3063173/)
+ - [Frances Haugen is kicking Congress into gear on 230 reform](https://www.theverge.com/2021/12/1/22812719/frances-haugen-congress-section-230-moderation-reform)
+ - [Jack Dorsey’s Square is changing its name to Block](https://www.theverge.com/2021/12/1/22812752/square-changing-name-block-jack-dorsey-cash-app-tidal-crypto-spiral)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
