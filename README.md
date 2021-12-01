@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Game Pass Is Closing Out 2021 With A Bang](https://kotaku.com/xbox-game-pass-is-closing-out-2021-with-a-bang-1848142933)
- - [Everything we know about Call of Duty: Vanguard and Warzone Pacific Season 1](https://www.pcgamer.com/cod-vanguard-warzone-pacific-season-1-update)
- - [Final Fantasy XIV: PlayStation controller guide for DualSense and DualShock 4 controllers](https://blog.playstation.com/2021/12/01/final-fantasy-xiv-playstation-controller-guide-for-dualsense-and-dualshock-4-controllers/)<!-- GAME:END -->
+ - [Stardew Valley update &#39;futureproofs the game&#39; with improved modding support](https://www.pcgamer.com/stardew-valley-update-futureproofs-the-game-with-improved-modding-support)
+ - [JoJo’s Bizarre Adventure’s best season is also the best place to start with the anime](https://www.polygon.com/22810915/jojos-bizarre-adventure-best-season-stardust-crusaders)
+ - [Are you happy with your fireballs? A new D&amp;D spell survey wants to know](https://www.polygon.com/22811818/dungeons-dragons-spell-survey-6th-edition-rumors)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
