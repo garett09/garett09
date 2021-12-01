@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Here we go](http://9gag.com/gag/a7172wb)
- - 🚯 [Damn, lightpoles are strong in Romania](http://9gag.com/gag/aZrMjXX)
- - 🚯 [A sixteen-year-old Angelina Jolie photographed by Sean Mccall in 1991.](http://9gag.com/gag/aqG5WzP)<!-- MEMES:END -->
+ - 🚖 [This is all I see](http://9gag.com/gag/aE87XBG)
+ - 🚯 [A sixteen-year-old Angelina Jolie photographed by Sean Mccall in 1991.](http://9gag.com/gag/aqG5WzP)
+ - 🚯 [Men will be men](http://9gag.com/gag/abg0BQ8)<!-- MEMES:END -->
 
 --- 
 
