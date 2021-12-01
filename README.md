@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sydney-based Harrison.ai, which uses AI-based tools to help improve the diagnosis process in health care, raises a $92.3M Series B led by Horizons Ventures &lpar;Catherine Shu/TechCrunch&rpar;](http://www.techmeme.com/211201/p3#a211201p3)
- - [Xiaomi 12 series will be first to launch with the Snapdragon 8 Gen 1](https://www.androidauthority.com/xiaomi-12-snapdragon-8-gen-1-3069490/)
- - [The &quot;omicron&quot; crypto token soaring in value following news of the COVID-19 variant is yet another example of how cryptocurrencies create artificial scarcity &lpar;Matt Levine/Bloomberg&rpar;](http://www.techmeme.com/211201/p2#a211201p2)<!-- TECH:END -->
+ - [Sources: China plans to ban companies from going public on foreign markets through variable interest entities, closing a loophole used by its tech companies &lpar;Bloomberg&rpar;](http://www.techmeme.com/211201/p5#a211201p5)
+ - [Q&amp;A with Frances Haugen on becoming a whistleblower, leaving Facebook after moving to Puerto Rico due to health, Meta, plans to run simulated social networks &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/211201/p4#a211201p4)
+ - [Sydney-based Harrison.ai, which uses AI-based tools to help improve the diagnosis process in health care, raises a $92.3M Series B led by Horizons Ventures &lpar;Catherine Shu/TechCrunch&rpar;](http://www.techmeme.com/211201/p3#a211201p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
