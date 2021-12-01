@@ -194,8 +194,8 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [A sixteen-year-old Angelina Jolie photographed by Sean Mccall in 1991.](http://9gag.com/gag/aqG5WzP)
- - 🚯 [Been feeling like this dude a lot lately.](http://9gag.com/gag/azejOpB)
- - 🚯 [It&amp;rsquo;s that time of year again](http://9gag.com/gag/aGzxALG)<!-- MEMES:END -->
+ - 🚯 [Here we go](http://9gag.com/gag/a7172wb)
+ - 🚯 [Mila Kunis smacks down a reporter in Russian](http://9gag.com/gag/aGzxGbn)<!-- MEMES:END -->
 
 --- 
 
