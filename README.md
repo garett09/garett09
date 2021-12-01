@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Frog wearing a frog hat](http://9gag.com/gag/aVxPV0P)
- - 🚯 [400 Musicians play New Divide by Linkin Park](http://9gag.com/gag/aDDoXbd)
- - 🚯 [Relatable](http://9gag.com/gag/aAG1Xn2)<!-- MEMES:END -->
+ - 🚖 [Performance Art](http://9gag.com/gag/adgj2e9)
+ - 🚯 [One step closer to Orwells Nightmare.](http://9gag.com/gag/amg9R22)
+ - 🚯 [Giving out stupid prizes in POV](http://9gag.com/gag/aZrM2Y3)<!-- MEMES:END -->
 
 --- 
 
