@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Twitch Is Now Using Machine Learning To Target Ban Evaders](https://kotaku.com/twitch-is-using-machine-learning-to-target-assholes-1848140236)
- - [Capcom Arcade Stadium tops Steam’s charts — for dubious reasons](https://www.polygon.com/22810843/capcom-arcade-stadium-bots-steam-trading-cards-top-10)
- - [Warframe&#39;s The New War expansion goes live on December 15](https://www.pcgamer.com/warframes-the-new-war-expansion-goes-live-on-december-15)<!-- GAME:END -->
+ - [The Witcher books: reading order and where to start](https://www.pcgamer.com/the-witcher-books)
+ - [Democrats Announce Bill Aimed At Stopping Bots From Buying All Your Consoles &amp; Graphics Cards](https://kotaku.com/democrats-announce-bill-aimed-at-stopping-bots-from-buy-1848139881)
+ - [If you love cool spaceships you should really play Farming Simulator 22](https://www.pcgamer.com/if-you-love-cool-spaceships-you-should-really-play-farming-simulator-22)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
