@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Giving out stupid prizes in POV](http://9gag.com/gag/aZrM2Y3)
+ - 🚖 [What the f*ck, Angela??](http://9gag.com/gag/aegGRZB)
  - 🚯 [I was today years old](http://9gag.com/gag/a617GoA)
- - 🚯 [Whaaaaat](http://9gag.com/gag/a717Ndm)<!-- MEMES:END -->
+ - 🚯 [Did it cancel out the sugar?](http://9gag.com/gag/aLv2d3g)<!-- MEMES:END -->
 
 --- 
 
