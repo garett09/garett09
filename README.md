@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: China plans to ban companies from going public on foreign markets through variable interest entities, closing a loophole used by its tech companies &lpar;Bloomberg&rpar;](http://www.techmeme.com/211201/p5#a211201p5)
- - [Q&amp;A with Frances Haugen on becoming a whistleblower, leaving Facebook after moving to Puerto Rico due to health, Meta, plans to run simulated social networks &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/211201/p4#a211201p4)
- - [Sydney-based Harrison.ai, which uses AI-based tools to help improve the diagnosis process in health care, raises a $92.3M Series B led by Horizons Ventures &lpar;Catherine Shu/TechCrunch&rpar;](http://www.techmeme.com/211201/p3#a211201p3)<!-- TECH:END -->
+ - [Foldable smartphone shipments reached a record 2.6M units in Q3, up 480% YoY, with Samsung accounting for 93% of shipments followed by Huawei at 6% &lpar;Ross Young/Display Supply Chain ...&rpar;](http://www.techmeme.com/211201/p6#a211201p6)
+ - [WhatsApp, iMessage give the most info to the FBI, new document shows](https://www.androidauthority.com/fbi-document-messaging-apps-3069511/)
+ - [Aston Martin confirms V12 Vantage sendoff     - Roadshow](https://www.cnet.com/roadshow/news/aston-martin-v12-vantage-confirmed/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
