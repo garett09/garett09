@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Warframe: The New War Launches December 15](https://news.xbox.com/en-us/2021/12/01/warframe-the-new-war-launches-december-15/)
- - [Always Sunny’s movie parodies are also The Gang’s ultimate delusions](https://www.polygon.com/22812006/its-always-sunny-in-philadelphia-movie-references)
- - [Every new movie and show coming to Disney Plus in December](https://www.polygon.com/disney-plus/22789443/disney-plus-new-movies-tv-watch-december-2021)<!-- GAME:END -->
+ - [Netflix’s relentless Western The Power of the Dog is 2021’s best movie so far](https://www.polygon.com/reviews/22675046/power-of-the-dog-review-benedict-cumberbatch)
+ - [Government Officials Pressuring Activision Blizzard Are Now Threatening The Company&#39;s Profits](https://kotaku.com/government-officials-pressuring-activision-blizzard-are-1848146295)
+ - [This Cozy Game&#39;s Puzzles Are Deliciously Dark](https://kotaku.com/this-cozy-games-puzzles-are-deliciously-dark-1848146211)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
