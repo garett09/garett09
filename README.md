@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Right-Wing Group Wants Bobby Kotick Removed From Coca-Cola&#39;s Board](https://kotaku.com/right-wing-group-wants-bobby-kotick-removed-from-coca-c-1848141069)
  - [The Witcher books reading order: where to start with the short stories and novels](https://www.pcgamer.com/the-witcher-books)
- - [Democrats Announce Bill Aimed At Stopping Bots From Buying All Your Consoles &amp; Graphics Cards](https://kotaku.com/democrats-announce-bill-aimed-at-stopping-bots-from-buy-1848139881)
- - [If you love cool spaceships you should really play Farming Simulator 22](https://www.pcgamer.com/if-you-love-cool-spaceships-you-should-really-play-farming-simulator-22)<!-- GAME:END -->
+ - [Democrats Announce Bill Aimed At Stopping Bots From Buying All Your Consoles &amp; Graphics Cards](https://kotaku.com/democrats-announce-bill-aimed-at-stopping-bots-from-buy-1848139881)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
