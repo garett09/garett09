@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Cyber Week 2021 gaming deals](https://www.polygon.com/22807653/cyber-monday-2021-gaming-deals-switch-ps5-xbox-series-x-pc-windows-tv-gaming-monitors)
- - [The Matrix Resurrections trailer promises changes to everything we know](https://www.polygon.com/22812036/matrix-resurrections-trailer-neo-trinity-change-plot)
- - [Dauntless Now Available on Xbox Series X|S](https://news.xbox.com/en-us/2021/12/01/dauntless-now-available-on-xbox-series-xs/)<!-- GAME:END -->
+ - [Warframe: The New War Launches December 15](https://news.xbox.com/en-us/2021/12/01/warframe-the-new-war-launches-december-15/)
+ - [Always Sunny’s movie parodies are also The Gang’s ultimate delusions](https://www.polygon.com/22812006/its-always-sunny-in-philadelphia-movie-references)
+ - [Every new movie and show coming to Disney Plus in December](https://www.polygon.com/disney-plus/22789443/disney-plus-new-movies-tv-watch-december-2021)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
