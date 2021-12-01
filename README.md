@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A sixteen-year-old Angelina Jolie photographed by Sean Mccall in 1991.](http://9gag.com/gag/aqG5WzP)
- - 🚯 [Here we go](http://9gag.com/gag/a7172wb)
- - 🚯 [Mila Kunis smacks down a reporter in Russian](http://9gag.com/gag/aGzxGbn)<!-- MEMES:END -->
+ - 🚖 [Here we go](http://9gag.com/gag/a7172wb)
+ - 🚯 [Damn, lightpoles are strong in Romania](http://9gag.com/gag/aZrMjXX)
+ - 🚯 [A sixteen-year-old Angelina Jolie photographed by Sean Mccall in 1991.](http://9gag.com/gag/aqG5WzP)<!-- MEMES:END -->
 
 --- 
 
