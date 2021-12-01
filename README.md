@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Boys when they gather](http://9gag.com/gag/a41YA1d)
- - 🚯 [Adorable Bunny Growing up](http://9gag.com/gag/aOQVPoE)
- - 🚯 [Love your job...](http://9gag.com/gag/axBjOgb)<!-- MEMES:END -->
+ - 🚖 [Adorable Bunny Growing up](http://9gag.com/gag/aOQVPoE)
+ - 🚯 [Men will be men](http://9gag.com/gag/abg0BQ8)
+ - 🚯 [Ever happend to you ??](http://9gag.com/gag/aegGmjm)<!-- MEMES:END -->
 
 --- 
 
