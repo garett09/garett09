@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Razer CEO says next gen laptops will see a price hike](https://www.pcgamer.com/razer-ceo-says-next-gen-laptops-will-see-a-price-hike)
  - [Nvidia&#39;s RTX 40 series could be arriving sooner than expected](https://www.pcgamer.com/nvidias-rtx-40-series-could-be-arriving-sooner-than-expected)
- - [Microsoft&#39;s Minesweeper ugly Xmas sweater has already sold out](https://www.pcgamer.com/microsofts-minesweeper-ugly-xmas-sweater-has-already-sold-out)
- - [Everything we know about Total War: Warhammer 3](https://www.pcgamer.com/everything-we-know-about-total-war-warhammer-3)<!-- GAME:END -->
+ - [Microsoft&#39;s Minesweeper ugly Xmas sweater has already sold out](https://www.pcgamer.com/microsofts-minesweeper-ugly-xmas-sweater-has-already-sold-out)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
