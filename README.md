@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Don&#39;t get Spotify FOMO - here&#39;s how to get your Apple Music Replay playlist](https://appleinsider.com/articles/21/12/01/dont-get-spotify-fomo----heres-how-to-get-your-apple-music-replay?utm_medium=rss)
- - [Blink Outdoor review: Security that fits the bill for Alexa](https://www.androidauthority.com/blink-outdoor-camera-review-3046175/)
- - [Renewables see record growth in 2021, but supply chain problems loom](https://www.theverge.com/2021/12/1/22811869/renewable-energy-electricity-record-growth-2021-supply-chain-problems)<!-- TECH:END -->
+ - [Respawn stops selling the original Titanfall](https://www.theverge.com/2021/12/1/22812187/respawn-titanfall-delisted-apex-legends)
+ - [This Drone Uses Piercing Talons to Perch—or Snatch Things](https://www.wired.com/story/this-drone-uses-piercing-talons-to-perch-or-snatch-things)
+ - [18 Hours of Omicron Chaos at Schiphol Airport](https://www.wired.com/story/omicron-europe-contact-tracing)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
