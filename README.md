@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [10 best digital wellbeing apps for Android](https://www.androidauthority.com/best-digital-wellbeing-apps-android-3063173/)
- - [Frances Haugen is kicking Congress into gear on 230 reform](https://www.theverge.com/2021/12/1/22812719/frances-haugen-congress-section-230-moderation-reform)
- - [Jack Dorsey’s Square is changing its name to Block](https://www.theverge.com/2021/12/1/22812752/square-changing-name-block-jack-dorsey-cash-app-tidal-crypto-spiral)<!-- TECH:END -->
+ - [Qualcomm’s new G3x platform could usher in a new wave of Nintendo Switch-alikes](https://www.theverge.com/2021/12/1/22789752/qualcomm-g3x-chip-platform-android-razer-developer-kit)
+ - [Qualcomm’s Snapdragon 8cx Gen 3 is its latest attempt to hit a Windows on Arm home run](https://www.theverge.com/2021/12/1/22811736/qualcomm-snapdragon-8cx-gen-3-announcement-laptop-arm-chip-processor)
+ - [Holiday deals: Apple&#39;s Mac mini with 16GB RAM drops to $789, plus AppleCare sale](https://appleinsider.com/articles/21/12/01/holiday-deals-apples-mac-mini-with-16gb-ram-drops-to-789-plus-applecare-sale?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
