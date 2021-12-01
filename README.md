@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [As the &quot;omicron&quot; crypto token soars in value following news of the COVID variant, it is yet another example of how cryptocurrencies create artificial scarcity &lpar;Matt Levine/Bloomberg&rpar;](http://www.techmeme.com/211201/p2#a211201p2)
- - [Someone at Amazon forgot to test the Appstore on Android 12 &lpar;Updated: Statement&rpar;](https://www.androidauthority.com/amazon-appstore-android-12-3066697/)
- - [Qualcomm says it will integrate Google&#39;s Vertex AI NAS into its Neural Processing SDK, starting with Snapdragon 8 Gen 1, to automate the creation of AI models &lpar;Charlie Osborne/ZDNet&rpar;](http://www.techmeme.com/211201/p1#a211201p1)<!-- TECH:END -->
+ - [Sydney-based Harrison.ai, which uses AI-based tools to help improve the diagnosis process in health care, raises a $92.3M Series B led by Horizons Ventures &lpar;Catherine Shu/TechCrunch&rpar;](http://www.techmeme.com/211201/p3#a211201p3)
+ - [Xiaomi 12 series will be first to launch with the Snapdragon 8 Gen 1](https://www.androidauthority.com/xiaomi-12-snapdragon-8-gen-1-3069490/)
+ - [The &quot;omicron&quot; crypto token soaring in value following news of the COVID-19 variant is yet another example of how cryptocurrencies create artificial scarcity &lpar;Matt Levine/Bloomberg&rpar;](http://www.techmeme.com/211201/p2#a211201p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
