@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Five delightful things to do in Solar Ash, out tomorrow](https://blog.playstation.com/2021/12/01/five-delightful-things-to-do-in-solar-ash-out-tomorrow/)
- - [Five delightful things to do in Solar Ash, out tomorrow](https://blog.playstation.com/2021/12/01/five-delightful-things-to-do-in-solar-ash-out-tomorrow/)
- - [How Relic built Company of Heroes 3&#39;s multiplayer with its community](https://www.pcgamer.com/how-relic-built-company-of-heroes-3s-multiplayer-with-its-community)<!-- GAME:END -->
+ - [Watch the FIA Certified Gran Turismo Championships World Finals this weekend](https://blog.playstation.com/2021/12/01/watch-the-fia-certified-gran-turismo-championships-world-finals-this-weekend/)
+ - [Watch the FIA Certified Gran Turismo Championships World Finals this weekend](https://blog.playstation.com/2021/12/01/watch-the-fia-certified-gran-turismo-championships-world-finals-this-weekend/)
+ - [Coming Soon to Xbox Game Pass: Halo Infinite, Among Us, Stardew Valley, and More](https://news.xbox.com/en-us/2021/12/01/coming-soon-xbox-game-pass-december-2021/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
