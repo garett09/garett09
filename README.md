@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [&amp;quot;If you don&amp;#039;t read the news you&amp;#039;re un-informed. If you do read the news you&amp;#039;re misinformed.&amp;quot; - Denzel Washington](http://9gag.com/gag/ay9d6qp)
- - 🚯 [Good ol Mafia 2...](http://9gag.com/gag/aDDone9)
+ - 🚖 [Demolished](http://9gag.com/gag/aegGV7v)
+ - 🚯 [I&amp;#039;ll have a triple patty stacker with extra cheese and three no. 5s and a diet coke.](http://9gag.com/gag/aAG14B9)
  - 🚯 [Good thing I live in a shithole country so I can blame the government](http://9gag.com/gag/avAPE4q)<!-- MEMES:END -->
 
 --- 
