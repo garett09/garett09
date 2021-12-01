@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Watch the FIA Certified Gran Turismo Championships World Finals this weekend](https://blog.playstation.com/2021/12/01/watch-the-fia-certified-gran-turismo-championships-world-finals-this-weekend/)
- - [Watch the FIA Certified Gran Turismo Championships World Finals this weekend](https://blog.playstation.com/2021/12/01/watch-the-fia-certified-gran-turismo-championships-world-finals-this-weekend/)
- - [Coming Soon to Xbox Game Pass: Halo Infinite, Among Us, Stardew Valley, and More](https://news.xbox.com/en-us/2021/12/01/coming-soon-xbox-game-pass-december-2021/)<!-- GAME:END -->
+ - [Final Fantasy XIV: PlayStation controller guide for DualSense and DualShock 4 controllers](https://blog.playstation.com/2021/12/01/final-fantasy-xiv-playstation-controller-guide-for-dualsense-and-dualshock-4-controllers/)
+ - [Final Fantasy XIV: PlayStation controller guide for DualSense and DualShock 4 controllers](https://blog.playstation.com/2021/12/01/final-fantasy-xiv-playstation-controller-guide-for-dualsense-and-dualshock-4-controllers/)
+ - [Polygon’s PC gamer gift guide 2021](https://www.polygon.com/22789355/2021-pc-gamer-gift-guide-keyboard-mice-gaming-headset-monitors-chair-desk)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
