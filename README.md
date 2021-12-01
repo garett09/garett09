@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The reaction is priceless](http://9gag.com/gag/aNPnBn0)
- - 🚯 [Oh the irony](http://9gag.com/gag/angNvoB)
- - 🚯 [Boys when they gather](http://9gag.com/gag/a41YA1d)<!-- MEMES:END -->
+ - 🚖 [The Voice of Reason - Jimmy Carr](http://9gag.com/gag/azejKNZ)
+ - 🚯 [Boys when they gather](http://9gag.com/gag/a41YA1d)
+ - 🚯 [Ever happend to you ??](http://9gag.com/gag/aegGmjm)<!-- MEMES:END -->
 
 --- 
 
