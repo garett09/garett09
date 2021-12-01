@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon faces new pressure over COVID protections in warehouses](https://www.theverge.com/2021/11/30/22810754/amazon-new-york-ag-reinstate-fired-worker-health-safety-covid)
- - [Qualcomm’s new Snapdragon 8 Gen 1 chip is here to power the Android flagships of 2022](https://www.theverge.com/2021/11/30/22809687/qualcomm-snapdragon-8-gen-1-chip-smartphone-processor-specs-details)
- - [Apple Music announces its most-streamed songs of 2021](https://appleinsider.com/articles/21/11/30/apple-music-announces-its-most-streamed-songs-of-2021?utm_medium=rss)<!-- TECH:END -->
+ - [Adobe: US consumers spent $10.7B online on Cyber Monday, below expectations and down 1.4% from $10.8B in 2020, as many shoppers returned to physical stores &lpar;Lauren Thomas/CNBC&rpar;](http://www.techmeme.com/211130/p49#a211130p49)
+ - [Bitcoin mining firm Griid says it will go public via a SPAC in Q1 2022 at a valuation of around $3.3B, including debt &lpar;Frank Chaparro/The Block&rpar;](http://www.techmeme.com/211130/p48#a211130p48)
+ - [iPhone 13 Pro case roundup: Protect your shiny new device](https://appleinsider.com/articles/21/09/22/iphone-13-case-roundup-protect-your-device-on-release-day?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
