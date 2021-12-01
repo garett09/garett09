@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Razer CEO says next gen laptops will see a price hike](https://www.pcgamer.com/razer-ceo-says-next-gen-laptops-will-see-a-price-hike)
- - [Nvidia&#39;s RTX 40 series could be arriving sooner than expected](https://www.pcgamer.com/nvidias-rtx-40-series-could-be-arriving-sooner-than-expected)
- - [Microsoft&#39;s Minesweeper ugly Xmas sweater has already sold out](https://www.pcgamer.com/microsofts-minesweeper-ugly-xmas-sweater-has-already-sold-out)<!-- GAME:END -->
+ - [Laptop RTX 3080 Ti and Ryzen 6000 APU reportedly coming to an Asus laptop at CES](https://www.pcgamer.com/laptop-rtx-3080-ti-and-ryzen-6000-apu-reportedly-coming-to-an-asus-laptop-at-ces)
+ - [New Chinese GPUs with up to 10 TFLOPs announced](https://www.pcgamer.com/new-chinese-gpus-with-up-to-10-tflops-announced)
+ - [Razer CEO says next gen laptops will see a price hike](https://www.pcgamer.com/razer-ceo-says-next-gen-laptops-will-see-a-price-hike)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
