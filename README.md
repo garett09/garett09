@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Everything we know about Total War: Warhammer 3](https://www.pcgamer.com/everything-we-know-about-total-war-warhammer-3)
  - [The Air Jordan shoe craze is reportedly coming to Fortnite](https://www.pcgamer.com/fortnite-jordan-collab)
- - [Right-Wing Group Wants Bobby Kotick Removed From Coca-Cola&#39;s Board](https://kotaku.com/right-wing-group-wants-bobby-kotick-removed-from-coca-c-1848141069)
- - [The Witcher books reading order: where to start with the short stories and novels](https://www.pcgamer.com/the-witcher-books)<!-- GAME:END -->
+ - [Right-Wing Group Wants Bobby Kotick Removed From Coca-Cola&#39;s Board](https://kotaku.com/right-wing-group-wants-bobby-kotick-removed-from-coca-c-1848141069)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
