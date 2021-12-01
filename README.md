@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Final Fantasy XIV: PlayStation controller guide for DualSense and DualShock 4 controllers](https://blog.playstation.com/2021/12/01/final-fantasy-xiv-playstation-controller-guide-for-dualsense-and-dualshock-4-controllers/)
- - [Final Fantasy XIV: PlayStation controller guide for DualSense and DualShock 4 controllers](https://blog.playstation.com/2021/12/01/final-fantasy-xiv-playstation-controller-guide-for-dualsense-and-dualshock-4-controllers/)
- - [Polygon’s PC gamer gift guide 2021](https://www.polygon.com/22789355/2021-pc-gamer-gift-guide-keyboard-mice-gaming-headset-monitors-chair-desk)<!-- GAME:END -->
+ - [Xbox Game Pass Is Closing Out 2021 With A Bang](https://kotaku.com/xbox-game-pass-is-closing-out-2021-with-a-bang-1848142933)
+ - [Everything we know about Call of Duty: Vanguard and Warzone Pacific Season 1](https://www.pcgamer.com/cod-vanguard-warzone-pacific-season-1-update)
+ - [Final Fantasy XIV: PlayStation controller guide for DualSense and DualShock 4 controllers](https://blog.playstation.com/2021/12/01/final-fantasy-xiv-playstation-controller-guide-for-dualsense-and-dualshock-4-controllers/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
