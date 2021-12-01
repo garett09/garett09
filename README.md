@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Overwatch gets weird with some over-the-top balance changes designed by players](https://www.polygon.com/22812075/overwatch-experimental-card-balance-changes-fans-design)
- - [After years of struggling against DDoS attacks, Titanfall is being removed from sale](https://www.pcgamer.com/after-years-of-struggling-against-ddos-attacks-titanfall-is-being-removed-from-sale)
- - [Rainbow Six Siege Kicks Off New Season, High Calibre, with New Operator and More](https://news.xbox.com/en-us/2021/12/01/rainbow-six-siege-kicks-off-new-season-high-calibre/)<!-- GAME:END -->
+ - [Xbox and Swarovski Celebrate 20 Years of Halo with Two Epic Crystal Collectibles](https://news.xbox.com/en-us/2021/12/01/swarovski-halo-crystal-collectibles/)
+ - [Final Fantasy XIV Maid Outfit Going Gender-Neutral Just In Time For Sexy Bunny Boy Onslaught](https://kotaku.com/final-fantasy-xiv-maid-outfit-going-gender-neutral-just-1848144988)
+ - [The Best Fan-Made Anime Cars In Forza Horizon 5](https://kotaku.com/the-best-fan-made-anime-cars-in-forza-horizon-5-1848144921)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
