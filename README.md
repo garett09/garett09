@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox and Swarovski Celebrate 20 Years of Halo with Two Epic Crystal Collectibles](https://news.xbox.com/en-us/2021/12/01/swarovski-halo-crystal-collectibles/)
- - [Final Fantasy XIV Maid Outfit Going Gender-Neutral Just In Time For Sexy Bunny Boy Onslaught](https://kotaku.com/final-fantasy-xiv-maid-outfit-going-gender-neutral-just-1848144988)
- - [The Best Fan-Made Anime Cars In Forza Horizon 5](https://kotaku.com/the-best-fan-made-anime-cars-in-forza-horizon-5-1848144921)<!-- GAME:END -->
+ - [Cyber Week 2021 gaming deals](https://www.polygon.com/22807653/cyber-monday-2021-gaming-deals-switch-ps5-xbox-series-x-pc-windows-tv-gaming-monitors)
+ - [The Matrix Resurrections trailer promises changes to everything we know](https://www.polygon.com/22812036/matrix-resurrections-trailer-neo-trinity-change-plot)
+ - [Dauntless Now Available on Xbox Series X|S](https://news.xbox.com/en-us/2021/12/01/dauntless-now-available-on-xbox-series-xs/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
