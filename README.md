@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [AWS announces SageMaker Studio Lab, a free version of SageMaker to help customers with little experience build, train, and deploy ML models &lpar;Stephanie Condon/ZDNet&rpar;](http://www.techmeme.com/211201/p31#a211201p31)
- - [Debt collectors can now slide into your DMs on social media     - CNET](https://www.cnet.com/news/debt-collectors-can-now-slide-into-your-dms-on-social-media/#ftag=CAD590a51e)
- - [In an internal Slack message, Marc Benioff says Salesforce co-CEO Bret Taylor will continue to report to him &lpar;Kevin McLaughlin/The Information&rpar;](http://www.techmeme.com/211201/p30#a211201p30)<!-- TECH:END -->
+ - [A look at China&#39;s extensive tech investments in Africa, including undersea cables, data centers, and fintech apps, as part of its &quot;Digital Silk Road&quot; initiative &lpar;Yinka Adegoke/Rest of World&rpar;](http://www.techmeme.com/211201/p32#a211201p32)
+ - [HMD Global backs out of Nokia 9 PureView Android 11 upgrade, blames camera system](https://www.theverge.com/2021/12/1/22811988/hmd-global-nokia-9-pureview-android-11-software)
+ - [Facebook removes block on searches for Kyle Rittenhouse](https://www.theverge.com/2021/12/1/22782911/rittenhouse-verdict-policy-facebook-praise-block-page)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
