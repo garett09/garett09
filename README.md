@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Here Are Japan&#39;s Biggest Selling Manga of 2021](https://kotaku.com/here-are-japans-biggest-selling-manga-of-2021-1848141916)
  - [Laptop RTX 3080 Ti and Ryzen 6000 APU reportedly coming to an Asus laptop at CES](https://www.pcgamer.com/laptop-rtx-3080-ti-and-ryzen-6000-apu-reportedly-coming-to-an-asus-laptop-at-ces)
- - [New Chinese GPUs with up to 10 TFLOPs announced](https://www.pcgamer.com/new-chinese-gpus-with-up-to-10-tflops-announced)
- - [Razer CEO says next gen laptops will see a price hike](https://www.pcgamer.com/razer-ceo-says-next-gen-laptops-will-see-a-price-hike)<!-- GAME:END -->
+ - [New Chinese GPUs with up to 10 TFLOPs announced](https://www.pcgamer.com/new-chinese-gpus-with-up-to-10-tflops-announced)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
