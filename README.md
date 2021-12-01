@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Battlefield 2042 battle royale creator explains how he made a mode that DICE said was impossible](https://www.pcgamer.com/battlefield-2042-battle-royale-creator-explains-how-he-made-a-mode-that-dice-said-was-impossible)
  - [Here Are Japan&#39;s Biggest Selling Manga of 2021](https://kotaku.com/here-are-japans-biggest-selling-manga-of-2021-1848141916)
- - [Laptop RTX 3080 Ti and Ryzen 6000 APU reportedly coming to an Asus laptop at CES](https://www.pcgamer.com/laptop-rtx-3080-ti-and-ryzen-6000-apu-reportedly-coming-to-an-asus-laptop-at-ces)
- - [New Chinese GPUs with up to 10 TFLOPs announced](https://www.pcgamer.com/new-chinese-gpus-with-up-to-10-tflops-announced)<!-- GAME:END -->
+ - [Laptop RTX 3080 Ti and Ryzen 6000 APU reportedly coming to an Asus laptop at CES](https://www.pcgamer.com/laptop-rtx-3080-ti-and-ryzen-6000-apu-reportedly-coming-to-an-asus-laptop-at-ces)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
