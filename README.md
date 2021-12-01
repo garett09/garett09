@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Adorable Bunny Growing up](http://9gag.com/gag/aOQVPoE)
- - 🚯 [Men will be men](http://9gag.com/gag/abg0BQ8)
- - 🚯 [Ever happend to you ??](http://9gag.com/gag/aegGmjm)<!-- MEMES:END -->
+ - 🚖 [A sixteen-year-old Angelina Jolie photographed by Sean Mccall in 1991.](http://9gag.com/gag/aqG5WzP)
+ - 🚯 [Been feeling like this dude a lot lately.](http://9gag.com/gag/azejOpB)
+ - 🚯 [It&amp;rsquo;s that time of year again](http://9gag.com/gag/aGzxALG)<!-- MEMES:END -->
 
 --- 
 
