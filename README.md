@@ -194,8 +194,8 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [I was today years old](http://9gag.com/gag/a617GoA)
- - 🚯 [An outraged city official called out the mayor for trying to cut off people&amp;rsquo;s power during the Corona pandemic](http://9gag.com/gag/a31Bb83)
- - 🚯 [What the f*ck, Angela??](http://9gag.com/gag/aegGRZB)<!-- MEMES:END -->
+ - 🚯 [It do be like that](http://9gag.com/gag/azejYQx)
+ - 🚯 [Berlin 1927](http://9gag.com/gag/a11MwKP)<!-- MEMES:END -->
 
 --- 
 
