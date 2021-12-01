@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Matrix Is the Best Hacker Movie](https://www.wired.com/story/matrix-best-hacker-movie)
- - [Welcome to the &lpar;Synthetic&rpar; Meatspace](https://www.wired.com/story/synthetic-meatspace-food-health)
- - [WIRED Peers Into the Future of Reality](https://www.wired.com/story/future-of-reality-matrix-opener)<!-- TECH:END -->
+ - [Daily Authority: Snappier Snapdragon 8 Gen 1](https://www.androidauthority.com/newsletters/da-december-1-2021/)
+ - [What’s new on HBO Max in December 2021: The Matrix 4 and more](https://www.androidauthority.com/new-on-hbo-max-1153445/)
+ - [Nothing Ear 1 earbuds now come in matte black](https://www.androidauthority.com/nothing-ear-1-black-edition-3068603/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
