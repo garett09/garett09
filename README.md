@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily Authority: Snappier Snapdragon 8 Gen 1](https://www.androidauthority.com/newsletters/da-december-1-2021/)
- - [What’s new on HBO Max in December 2021: The Matrix 4 and more](https://www.androidauthority.com/new-on-hbo-max-1153445/)
- - [Nothing Ear 1 earbuds now come in matte black](https://www.androidauthority.com/nothing-ear-1-black-edition-3068603/)<!-- TECH:END -->
+ - [California is getting its first real autonomous delivery service thanks to Nuro and 7-Eleven](https://www.theverge.com/2021/12/1/22810674/nuro-7-eleven-autonomous-vehicle-delivery-california)
+ - [Tile Pro &lpar;2022&rpar; review: Bigger, but is it better?](https://www.androidauthority.com/tile-pro-2022-review-3056530/)
+ - [Save up to 30% on Logitech&#39;s mice, keyboards and more with this Cyber Week sale     - CNET](https://www.cnet.com/tech/save-up-to-30-on-logitechs-mice-keyboards-and-more-with-this-cyber-week-sale/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
