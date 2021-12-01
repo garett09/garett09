@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Particle, founded by an ex-Christie&#39;s exec and others, which plans to split Banksy&#39;s Love Is in the Air into 10,000 pieces to be sold as NFTs &lpar;Robin Pogrebin/New York Times&rpar;](http://www.techmeme.com/211201/p28#a211201p28)
- - [Google’s dishing out festive new features to Android, other products this month](https://www.androidauthority.com/google-december-2021-update-3069529/)
- - [Google announces grab bag of new Android features for the end of 2021](https://www.theverge.com/2021/12/1/22811617/google-android-auto-widgets-assistant-family-bell-updates-december-2021)<!-- TECH:END -->
+ - [Don&#39;t get Spotify FOMO - here&#39;s how to get your Apple Music Replay playlist](https://appleinsider.com/articles/21/12/01/dont-get-spotify-fomo----heres-how-to-get-your-apple-music-replay?utm_medium=rss)
+ - [Blink Outdoor review: Security that fits the bill for Alexa](https://www.androidauthority.com/blink-outdoor-camera-review-3046175/)
+ - [Renewables see record growth in 2021, but supply chain problems loom](https://www.theverge.com/2021/12/1/22811869/renewable-energy-electricity-record-growth-2021-supply-chain-problems)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
