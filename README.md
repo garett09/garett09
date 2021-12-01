@@ -194,8 +194,8 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Removing the dislike button was the shittiest thing youtube could do](http://9gag.com/gag/aKmqY1N)
- - 🚯 [Giving out stupid prizes in POV](http://9gag.com/gag/aZrM2Y3)
- - 🚯 [What&amp;#039;s the name of this kitty?](http://9gag.com/gag/aAG12Ko)<!-- MEMES:END -->
+ - 🚯 [How the turns have tabled](http://9gag.com/gag/a0Zp12z)
+ - 🚯 [This tiny dot is you, your family, your friends and enemies. Everything that ever happened in recorded history happened within this tiny dot. Picture of Earth from Saturn, 2013](http://9gag.com/gag/aE87DrN)<!-- MEMES:END -->
 
 --- 
 
