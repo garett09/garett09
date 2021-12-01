@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Kedar Deshpande is stepping down as CEO of Zappos, a year after replacing Tony Hsieh; Scott Schaefer, VP of finance, to take over as interim CEO &lpar;Forbes&rpar;](http://www.techmeme.com/211130/p53#a211130p53)
- - [Elizabeth Holmes admits that she was CEO of Theranos, the company she founded](https://www.theverge.com/2021/11/30/22811246/elizabeth-holmes-texts-control-theranos-money)
- - [The NY Federal Reserve launches an innovation center to support the agency&#39;s analysis of digital currencies, including CBDCs, and improve cross-border payments &lpar;Turner Wright/Cointelegraph&rpar;](http://www.techmeme.com/211130/p52#a211130p52)<!-- TECH:END -->
+ - [PeopleFund, a South Korea-based P2P lending service, raises a $63.4M Series C led by Bain Capital, as it looks to beef up its ML-powered credit scoring system &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/211130/p56#a211130p56)
+ - [Jack Dorsey joins other tech leaders who seem to have grown tired of managing their platforms, amid increasing political controversy and hard-to-fix problems &lpar;Kevin Roose/New York Times&rpar;](http://www.techmeme.com/211130/p55#a211130p55)
+ - [Simpl, a Bangalore-based buy now, pay later service, raises a $40M Series B led by Valar Ventures and IA Ventures, bringing its total funding to $83M &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/211130/p54#a211130p54)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
