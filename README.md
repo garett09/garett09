@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Good thing I live in a shithole country so I can blame the government](http://9gag.com/gag/avAPE4q)
- - 🚯 [Boys when they gather](http://9gag.com/gag/a41YA1d)
- - 🚯 [Oh the irony](http://9gag.com/gag/angNvoB)<!-- MEMES:END -->
+ - 🚖 [The reaction is priceless](http://9gag.com/gag/aNPnBn0)
+ - 🚯 [Oh the irony](http://9gag.com/gag/angNvoB)
+ - 🚯 [Boys when they gather](http://9gag.com/gag/a41YA1d)<!-- MEMES:END -->
 
 --- 
 
