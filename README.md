@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dubai-based iMile, which offers cross-border e-commerce logistics services for emerging markets, raises a $40M Series A at a $350M valuation &lpar;Nicolas Parasie/Bloomberg&rpar;](http://www.techmeme.com/211130/p51#a211130p51)
- - [Tesla selling $50 Cyberwhistle, Musk mocks $19 Apple polishing cloth](https://appleinsider.com/articles/21/12/01/tesla-selling-50-cyberwhistle-musk-mocks-19-apple-polishing-cloth?utm_medium=rss)
- - [Oculus rolls out v35, adding a mixed reality camera feature that requires an iPhone XS or above, Messenger Calling in VR, a new cloud backup system, and more &lpar;Jamie Feltham/UploadVR&rpar;](http://www.techmeme.com/211130/p50#a211130p50)<!-- TECH:END -->
+ - [Sources: Kedar Deshpande is stepping down as CEO of Zappos, a year after replacing Tony Hsieh; Scott Schaefer, VP of finance, to take over as interim CEO &lpar;Forbes&rpar;](http://www.techmeme.com/211130/p53#a211130p53)
+ - [Elizabeth Holmes admits that she was CEO of Theranos, the company she founded](https://www.theverge.com/2021/11/30/22811246/elizabeth-holmes-texts-control-theranos-money)
+ - [The NY Federal Reserve launches an innovation center to support the agency&#39;s analysis of digital currencies, including CBDCs, and improve cross-border payments &lpar;Turner Wright/Cointelegraph&rpar;](http://www.techmeme.com/211130/p52#a211130p52)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
