@@ -194,8 +194,8 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [This is all I see](http://9gag.com/gag/aE87XBG)
- - 🚯 [A sixteen-year-old Angelina Jolie photographed by Sean Mccall in 1991.](http://9gag.com/gag/aqG5WzP)
- - 🚯 [Men will be men](http://9gag.com/gag/abg0BQ8)<!-- MEMES:END -->
+ - 🚯 [Performance Art](http://9gag.com/gag/adgj2e9)
+ - 🚯 [Real money tree](http://9gag.com/gag/aBnYXQD)<!-- MEMES:END -->
 
 --- 
 
