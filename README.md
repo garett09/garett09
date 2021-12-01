@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [California is getting its first real autonomous delivery service thanks to Nuro and 7-Eleven](https://www.theverge.com/2021/12/1/22810674/nuro-7-eleven-autonomous-vehicle-delivery-california)
- - [Tile Pro &lpar;2022&rpar; review: Bigger, but is it better?](https://www.androidauthority.com/tile-pro-2022-review-3056530/)
- - [Save up to 30% on Logitech&#39;s mice, keyboards and more with this Cyber Week sale     - CNET](https://www.cnet.com/tech/save-up-to-30-on-logitechs-mice-keyboards-and-more-with-this-cyber-week-sale/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Samsung’s new budget phone packs 50MP camera, 5G smarts for $249](https://www.androidauthority.com/samsung-galaxy-a13-3069483/)
+ - [Speak in &lpar;Many&rpar; Tongues With This Pocket Translator](https://www.wired.com/review/pocketalk-plus-voice-translator)
+ - [Nintendo’s new Big Brain Academy turns brainteasers into a party game](https://www.theverge.com/2021/12/1/22810735/big-brain-academy-brain-vs-brain-review-nintendo-switch)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
