@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hans get the flammenwerfer!](http://9gag.com/gag/awzx9p4)
- - 🚯 [Cheeky](http://9gag.com/gag/aYrevOq)
- - 🚯 [Yes](http://9gag.com/gag/aKmqyVO)<!-- MEMES:END -->
+ - 🚖 [Biker making this lady&amp;rsquo;s day](http://9gag.com/gag/azejvnj)
+ - 🚯 [Yes](http://9gag.com/gag/aKmqyVO)
+ - 🚯 [Just got the job of my dreams and needed to tell someone](http://9gag.com/gag/aVxP9DK)<!-- MEMES:END -->
 
 --- 
 
