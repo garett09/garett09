@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Secretlab announces gaming chair made specially for Lamborghini owners](https://www.pcgamer.com/secretlab-announces-gaming-chair-made-specially-for-lamborghini-owners)
  - [Nvidia confirms the specifications of its upcoming RTX 2060 12GB](https://www.pcgamer.com/nvidia-confirms-the-specifications-of-its-upcoming-rtx-2060-12gb)
- - [Windows 11 Insider update tests fixes for basic Start menu and taskbar functionalities](https://www.pcgamer.com/windows-11-insider-update-tests-fixes-for-basic-start-menu-and-taskbar-functionalities)
- - [A year later, Cyberpunk 2077 has fewer bugs but still feels like it&#39;s in Early Access](https://www.pcgamer.com/a-year-later-cyberpunk-2077-has-fewer-bugs-but-still-feels-like-its-in-early-access)<!-- GAME:END -->
+ - [Windows 11 Insider update tests fixes for basic Start menu and taskbar functionalities](https://www.pcgamer.com/windows-11-insider-update-tests-fixes-for-basic-start-menu-and-taskbar-functionalities)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
