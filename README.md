@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ransomware attack on Planned Parenthood LA exposes info for 400,000 patients](https://www.theverge.com/2021/12/2/22814635/planned-parenthood-ransomware-malware-attack-abortion-rights-data-leak)
- - [FTC sues to block Nvidia&#39;s $40B acquisition of Arm](https://appleinsider.com/articles/21/12/02/ftc-sues-to-block-nvidias-40b-acquisition-of-arm?utm_medium=rss)
- - [Marketers are reacting to privacy laws and Big Tech policy changes with quizzes and other events to collect their own customer info and build detailed profiles &lpar;Suzanne Vranica/Wall Street Journal&rpar;](http://www.techmeme.com/211202/p34#a211202p34)<!-- TECH:END -->
+ - [Zoom might pay you $25 as part of a class-action settlement](https://www.theverge.com/2021/12/2/22814758/zoom-class-action-lawsuit-zoombombing-encryption-settled)
+ - [Crunchbase: investments in crypto-based gaming and commerce startups increased 26x YoY, totaling $3.7B so far in 2021 &lpar;Berber Jin/The Information&rpar;](http://www.techmeme.com/211202/p35#a211202p35)
+ - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
