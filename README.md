@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The beauty of Eastern European architechture](http://9gag.com/gag/arnKrEd)
- - 🚯 [A guy pointing a laser at my airplane window!!](http://9gag.com/gag/a917Zj1)
- - 🚯 [27 people got caught in a snowstorm in IKEA in Denmark and had to spend the night in there. They were given free access to the warehouse and could choose their own bed.](http://9gag.com/gag/aXr9Q06)<!-- MEMES:END -->
+ - 🚖 [27 people got caught in a snowstorm in IKEA in Denmark and had to spend the night in there. They were given free access to the warehouse and could choose their own bed.](http://9gag.com/gag/aXr9Q06)
+ - 🚯 [People always talk about the Biggus Dickus scene from &amp;ldquo;Life of Brian&amp;rdquo; but this scene was always the one that really got me](http://9gag.com/gag/a41Yrg1)
+ - 🚯 [A guy pointing a laser at my airplane window!!](http://9gag.com/gag/a917Zj1)<!-- MEMES:END -->
 
 --- 
 
