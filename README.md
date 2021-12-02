@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Players’ Choice: Vote for November 2021’s best new game](https://blog.playstation.com/2021/12/02/players-choice-vote-for-november-2021s-best-new-game/)
- - [Players’ Choice: Vote for November 2021’s best new game](https://blog.playstation.com/2021/12/02/players-choice-vote-for-november-2021s-best-new-game/)
- - [Deep Rock Galactic Season Two &#39;will be a bit less ambitious and will come out faster&#39;](https://www.pcgamer.com/deep-rock-galactic-season-two-will-be-a-bit-less-ambitious-and-will-come-out-faster)<!-- GAME:END -->
+ - [Final Fantasy 14: Endwalker Error 2002—What it is and what to do about it](https://www.pcgamer.com/final-fantasy-14-endwalker-error-2002what-it-is-and-what-to-do-about-it)
+ - [Dead by Daylight is free on Epic, and here&#39;s a code for 150,000 free Blood Points](https://www.pcgamer.com/dead-by-daylight-is-free-on-epic-and-heres-a-code-for-150000-free-blood-points)
+ - [Tribes of Midgard Season 2: Serpent Saga](https://blog.playstation.com/2021/12/02/tribes-of-midgard-season-2-serpent-saga/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
