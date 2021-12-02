@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Golden Retriever who is weak at curves](http://9gag.com/gag/aQX8NRr)
- - 🚯 [George Jetson is gonna be born on August 27th, 2022. So his parents are having sex this week.](http://9gag.com/gag/aog9dxX)
- - 🚯 [Yeah](http://9gag.com/gag/aE87Ndn)<!-- MEMES:END -->
+ - 🚖 [Just Stefan Holm, 43, jumping his own height](http://9gag.com/gag/aRrAy05)
+ - 🚯 [Keanu](http://9gag.com/gag/aog9qeA)
+ - 🚯 [1472&amp;deg; BBQ Fireproof gloves](http://9gag.com/gag/angNdQb)<!-- MEMES:END -->
 
 --- 
 
