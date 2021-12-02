@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Official Steam gaming support could soon land on a Chromebook near you](https://www.androidauthority.com/steam-on-chromebooks-flags-3070122/)
- - [Apple announces the best apps and games of 2021 across iPhone, iPad, Mac, Apple TV, and Apple Watch, and most downloaded apps of the year &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/211202/p2#a211202p2)
- - [Sources: Instacart is planning to launch a 15-minute-or-less grocery delivery pilot for US customers, from existing partner stores &lpar;Berber Jin/The Information&rpar;](http://www.techmeme.com/211202/p1#a211202p1)<!-- TECH:END -->
+ - [Apple fails to get Australia to drop Epic Games lawsuit](https://appleinsider.com/articles/21/12/02/apple-fails-to-get-australia-to-drop-epic-games-lawsuit?utm_medium=rss)
+ - [The Twitter Wildfire Watcher Who Tracks California’s Blazes](https://www.wired.com/story/california-fire-twitter)
+ - [Tesla announces all-electric $1,900 Cyberquad for kids](https://www.theverge.com/2021/12/2/22813719/tesla-cyberquad-for-kids-pricing-features-availability)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
