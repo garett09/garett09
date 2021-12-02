@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Panther Labs, which helps companies detect and respond to security threats in real time, raises a $120M Series B led by Coatue at a $1.4B valuation &lpar;Mehnaz Yasmin/Reuters&rpar;](http://www.techmeme.com/211202/p33#a211202p33)
- - [The FTC is suing to block Nvidia’s $40 billion purchase of Arm](https://www.theverge.com/2021/12/2/22814633/nvidia-arm-purchase-semiconductor-ftc-40-billion-lawsuit-block-deal)
- - [The FTC sues to block Nvidia&#39;s $40B acquisition of Arm, arguing the chip deal is anticompetitive &lpar;Brent Kendall/Wall Street Journal&rpar;](http://www.techmeme.com/211202/p32#a211202p32)<!-- TECH:END -->
+ - [Ransomware attack on Planned Parenthood LA exposes info for 400,000 patients](https://www.theverge.com/2021/12/2/22814635/planned-parenthood-ransomware-malware-attack-abortion-rights-data-leak)
+ - [FTC sues to block Nvidia&#39;s $40B acquisition of Arm](https://appleinsider.com/articles/21/12/02/ftc-sues-to-block-nvidias-40b-acquisition-of-arm?utm_medium=rss)
+ - [Marketers are reacting to privacy laws and Big Tech policy changes with quizzes and other events to collect their own customer info and build detailed profiles &lpar;Suzanne Vranica/Wall Street Journal&rpar;](http://www.techmeme.com/211202/p34#a211202p34)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
