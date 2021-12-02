@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Plz don&amp;#039;t cancel him](http://9gag.com/gag/aBnYbLD)
- - 🚯 [Yah](http://9gag.com/gag/aPZDzyV)
- - 🚯 [The best way to save a man from killing himself](http://9gag.com/gag/aegGqLb)<!-- MEMES:END -->
+ - 🚖 [True](http://9gag.com/gag/aggVpzw)
+ - 🚯 [Red is red](http://9gag.com/gag/aOQVn4D)
+ - 🚯 [Biker making this lady&amp;rsquo;s day](http://9gag.com/gag/azejvnj)<!-- MEMES:END -->
 
 --- 
 
