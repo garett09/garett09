@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Yah](http://9gag.com/gag/aPZDzyV)
- - 🚯 [Equality](http://9gag.com/gag/aBnYv4D)
- - 🚯 [Keanu](http://9gag.com/gag/aog9qeA)<!-- MEMES:END -->
+ - 🚖 [Jumping into another kind of trench](http://9gag.com/gag/aNPn8er)
+ - 🚯 [I think he&amp;#039;s calling 911](http://9gag.com/gag/amg9bE4)
+ - 🚯 [Omelette du fromage](http://9gag.com/gag/aWg6N9A)<!-- MEMES:END -->
 
 --- 
 
