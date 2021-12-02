@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Jumping into another kind of trench](http://9gag.com/gag/aNPn8er)
- - 🚯 [More like &amp;quot;Chel Dorado&amp;quot;](http://9gag.com/gag/aXr9GGv)
- - 🚯 [A guy pointing a laser at my airplane window!!](http://9gag.com/gag/a917Zj1)<!-- MEMES:END -->
+ - 🚖 [The official release of Ameca EngineeredArts Ltd platform for AI and HRI. Will be on show at ces2022 in Las Vegas this January come and check out humanoid robot interaction](http://9gag.com/gag/aBnYjO2)
+ - 🚯 [A guy pointing a laser at my airplane window!!](http://9gag.com/gag/a917Zj1)
+ - 🚯 [The beauty of Eastern European architechture](http://9gag.com/gag/arnKrEd)<!-- MEMES:END -->
 
 --- 
 
