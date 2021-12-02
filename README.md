@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [A year later, Cyberpunk 2077 has fewer bugs but still feels like it&#39;s in Early Access](https://www.pcgamer.com/a-year-later-cyberpunk-2077-has-fewer-bugs-but-still-feels-like-its-in-early-access)
- - [Valve&#39;s Steam Deck Probably Won&#39;t Get Exclusive Games](https://kotaku.com/valves-steam-deck-probably-wont-get-exclusive-games-1848146499)
- - [The VR Age of Sigmar game isn&#39;t metal enough](https://www.pcgamer.com/the-vr-age-of-sigmar-game-isnt-metal-enough)<!-- GAME:END -->
+ - [Nvidia confirms the specifications of its upcoming RTX 2060 12GB](https://www.pcgamer.com/nvidia-confirms-the-specifications-of-its-upcoming-rtx-2060-12gb)
+ - [Windows 11 Insider update tests fixes for basic Start menu and taskbar functionalities](https://www.pcgamer.com/windows-11-insider-update-tests-fixes-for-basic-start-menu-and-taskbar-functionalities)
+ - [A year later, Cyberpunk 2077 has fewer bugs but still feels like it&#39;s in Early Access](https://www.pcgamer.com/a-year-later-cyberpunk-2077-has-fewer-bugs-but-still-feels-like-its-in-early-access)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
