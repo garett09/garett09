@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Rosenthaler Strasse to open December 2 in Berlin](https://appleinsider.com/articles/21/12/02/apple-rosenthaler-strasse-to-open-december-2-in-berlin?utm_medium=rss)
- - [Qualcomm announces Snapdragon 8cx Gen 3, a 5nm chip with 5G and WiFi 6, promising up to 85% better CPU and up to 60% faster GPU performance compared to Gen 2 &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/211201/p39#a211201p39)
- - [Sounding Board, which operates a marketplace that connects employees with leadership coaches, raises a $30M Series B led by Jazz Venture Partners &lpar;Natasha Mascarenhas/TechCrunch&rpar;](http://www.techmeme.com/211201/p38#a211201p38)<!-- TECH:END -->
+ - [Qualcomm announces Snapdragon 8cx Gen 3, a 5nm chip with 5G and Wi-Fi 6, promising up to 85% better CPU and up to 60% faster GPU performance compared to Gen 2 &lpar;Chaim Gartenberg/The Verge&rpar;](http://www.techmeme.com/211201/p41#a211201p41)
+ - [Federal judge blocks a Texas law that limits large social media platforms&#39; ability to moderate content, saying it violates the platforms&#39; First Amendment rights &lpar;The Verge&rpar;](http://www.techmeme.com/211201/p40#a211201p40)
+ - [Federal court blocks Texas law banning ‘viewpoint discrimination’ on social media](https://www.theverge.com/2021/12/1/22809654/texas-law-blocked-netchoice-ccia-injunction-viewpoint-discrimination)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
