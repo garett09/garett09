@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This is the most satisfying play ever.](http://9gag.com/gag/aNPn3pb)
- - 🚯 [Equality](http://9gag.com/gag/aBnYv4D)
- - 🚯 [Number #1](http://9gag.com/gag/a21mGxp)<!-- MEMES:END -->
+ - 🚖 [Saved up for two years to buy myself a bike. today it was stolen by this thief who broke the rail it was locked to.](http://9gag.com/gag/avAPD0Z)
+ - 🚯 [Bought my first house at 35 and this is the view from my front door today... Beautiful.](http://9gag.com/gag/aBnYo4z)
+ - 🚯 [Remember kids, neurons in the brain are important. Don&amp;#039;t kill them all!](http://9gag.com/gag/azej4BZ)<!-- MEMES:END -->
 
 --- 
 
