@@ -194,8 +194,8 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Jumping into another kind of trench](http://9gag.com/gag/aNPn8er)
- - 🚯 [I think he&amp;#039;s calling 911](http://9gag.com/gag/amg9bE4)
- - 🚯 [Omelette du fromage](http://9gag.com/gag/aWg6N9A)<!-- MEMES:END -->
+ - 🚯 [More like &amp;quot;Chel Dorado&amp;quot;](http://9gag.com/gag/aXr9GGv)
+ - 🚯 [A guy pointing a laser at my airplane window!!](http://9gag.com/gag/a917Zj1)<!-- MEMES:END -->
 
 --- 
 
