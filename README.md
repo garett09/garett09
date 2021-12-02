@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Goldman Sachs is among a handful of tier-one US banks working on ways to use bitcoin as collateral for cash loans to institutions &lpar;Ian Allison/CoinDesk&rpar;](http://www.techmeme.com/211202/p30#a211202p30)
- - [Lexus teases Toyota BZ4X-based RZ EV     - Roadshow](https://www.cnet.com/roadshow/news/lexus-rz-ev-toyota-bz4x/#ftag=CAD590a51e)
- - [Report: Google&#39;s Pixel hardware group is working on the company&#39;s first smartwatch, internally codenamed &quot;Rohan&quot;, which it plans to launch next year &lpar;The Verge&rpar;](http://www.techmeme.com/211202/p29#a211202p29)<!-- TECH:END -->
+ - [Panther Labs, which helps companies detect and respond to security threats in real time, raises a $120M Series B led by Coatue at a $1.4B valuation &lpar;Mehnaz Yasmin/Reuters&rpar;](http://www.techmeme.com/211202/p33#a211202p33)
+ - [The FTC is suing to block Nvidia’s $40 billion purchase of Arm](https://www.theverge.com/2021/12/2/22814633/nvidia-arm-purchase-semiconductor-ftc-40-billion-lawsuit-block-deal)
+ - [The FTC sues to block Nvidia&#39;s $40B acquisition of Arm, arguing the chip deal is anticompetitive &lpar;Brent Kendall/Wall Street Journal&rpar;](http://www.techmeme.com/211202/p32#a211202p32)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
