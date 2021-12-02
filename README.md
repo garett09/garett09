@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I think he&amp;#039;s calling 911](http://9gag.com/gag/amg9bE4)
- - 🚯 [A guy pointing a laser at my airplane window!!](http://9gag.com/gag/a917Zj1)
- - 🚯 [Here, have some karma](http://9gag.com/gag/amg9KgX)<!-- MEMES:END -->
+ - 🚖 [Plz don&amp;#039;t cancel him](http://9gag.com/gag/aBnYbLD)
+ - 🚯 [Yah](http://9gag.com/gag/aPZDzyV)
+ - 🚯 [The best way to save a man from killing himself](http://9gag.com/gag/aegGqLb)<!-- MEMES:END -->
 
 --- 
 
