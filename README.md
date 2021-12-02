@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta expands the eligibility requirements for running crypto ads on Facebook and Instagram, will recognize 27 regulatory licenses from advertisers, up from 3 &lpar;CNBC&rpar;](http://www.techmeme.com/211201/p37#a211201p37)
- - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
- - [Meta will no longer block searches nor remove praise of Kyle Rittenhouse on Facebook and Instagram, after designating him a shooter in a &quot;mass murder&quot; in 2020 &lpar;James Clayton/BBC&rpar;](http://www.techmeme.com/211201/p36#a211201p36)<!-- TECH:END -->
+ - [Apple Rosenthaler Strasse to open December 2 in Berlin](https://appleinsider.com/articles/21/12/02/apple-rosenthaler-strasse-to-open-december-2-in-berlin?utm_medium=rss)
+ - [Qualcomm announces Snapdragon 8cx Gen 3, a 5nm chip with 5G and WiFi 6, promising up to 85% better CPU and up to 60% faster GPU performance compared to Gen 2 &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/211201/p39#a211201p39)
+ - [Sounding Board, which operates a marketplace that connects employees with leadership coaches, raises a $30M Series B led by Jazz Venture Partners &lpar;Natasha Mascarenhas/TechCrunch&rpar;](http://www.techmeme.com/211201/p38#a211201p38)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
