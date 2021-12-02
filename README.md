@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Halo Infinite’s sniper rifle can take down 23 Spartans with one headshot](https://www.polygon.com/22814767/halo-infinite-headshot-23-spartans-trick-multiplayer)
- - [Reminder: Farming Simulator esports are a thing, they&#39;re awesome, and the finals are this weekend](https://www.pcgamer.com/reminder-farming-simulator-esports-are-a-thing-theyre-awesome-and-the-finals-are-this-weekend)
- - [Batman Invades Hot Wheels Unleashed in Latest Expansion Pack](https://news.xbox.com/en-us/2021/12/02/batman-invades-hot-wheels-unleashed/)<!-- GAME:END -->
+ - [After a decade of waiting, one of the most troubled RPGs of all time is getting an expansion](https://www.pcgamer.com/after-a-decade-of-waiting-one-of-the-most-troubled-rpgs-of-all-time-is-getting-an-expansion)
+ - [JoJo’s Bizarre Adventure: Stone Ocean puts the Joestars’ legacy of bad dads front and center](https://www.polygon.com/22814755/jojos-bizarre-adventure-stone-ocean-review-part-1)
+ - [The Battlefield series is now in the hands of Respawn co-founder Vince Zampella](https://www.pcgamer.com/the-battlefield-series-is-now-in-the-hands-of-respawn-co-founder-vince-zampella)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
