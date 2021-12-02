@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Qualcomm announces Snapdragon 8cx Gen 3, a 5nm chip with 5G and Wi-Fi 6, promising up to 85% better CPU and up to 60% faster GPU performance compared to Gen 2 &lpar;Chaim Gartenberg/The Verge&rpar;](http://www.techmeme.com/211201/p41#a211201p41)
- - [Federal judge blocks a Texas law that limits large social media platforms&#39; ability to moderate content, saying it violates the platforms&#39; First Amendment rights &lpar;The Verge&rpar;](http://www.techmeme.com/211201/p40#a211201p40)
- - [Federal court blocks Texas law banning ‘viewpoint discrimination’ on social media](https://www.theverge.com/2021/12/1/22809654/texas-law-blocked-netchoice-ccia-injunction-viewpoint-discrimination)<!-- TECH:END -->
+ - [Apple may have a problem with iPhone demand as well as supply](https://www.theverge.com/2021/12/1/22813347/apple-iphone-demand-suppliers-chip-shortage-report)
+ - [DOJ charges an ex-employee of IoT manufacturer Ubiquiti with data theft and for attempting to extort his employer while posing as a whistleblower and a hacker &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/211201/p45#a211201p45)
+ - [Qualcomm unveils Snapdragon G3x Gen 1 Gaming Platform for Android gaming devices, launches with Razer a handheld dev kit with G3x chip, 6.65&quot; 120Hz OLED display &lpar;Haje Jan Kamps/TechCrunch&rpar;](http://www.techmeme.com/211201/p44#a211201p44)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
