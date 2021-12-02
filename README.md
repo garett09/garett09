@@ -193,7 +193,7 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What the f*ck, Angela??](http://9gag.com/gag/aegGRZB)
+ - 🚖 [Wish us good luck guys!](http://9gag.com/gag/avAPmqX)
  - 🚯 [Number #1](http://9gag.com/gag/a21mGxp)
  - 🚯 [Bought my first house at 35 and this is the view from my front door today... Beautiful.](http://9gag.com/gag/aBnYo4z)<!-- MEMES:END -->
 
