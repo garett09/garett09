@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [True](http://9gag.com/gag/aggVpzw)
- - 🚯 [Red is red](http://9gag.com/gag/aOQVn4D)
- - 🚯 [Biker making this lady&amp;rsquo;s day](http://9gag.com/gag/azejvnj)<!-- MEMES:END -->
+ - 🚖 [&amp;quot;I just can&amp;#039;t get no sleep&amp;quot;](http://9gag.com/gag/avAPVrM)
+ - 🚯 [Doomsday cow](http://9gag.com/gag/aVxP8wM)
+ - 🚯 [Yes](http://9gag.com/gag/aKmqyVO)<!-- MEMES:END -->
 
 --- 
 
