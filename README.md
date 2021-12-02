@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Omelette du fromage](http://9gag.com/gag/aWg6N9A)
- - 🚯 [Don&amp;#039;t think thats how you use a pan](http://9gag.com/gag/aWg6d54)
- - 🚯 [Happened yesterday in Ho Chi Minh city](http://9gag.com/gag/aGzxonK)<!-- MEMES:END -->
+ - 🚖 [Yah](http://9gag.com/gag/aPZDzyV)
+ - 🚯 [Equality](http://9gag.com/gag/aBnYv4D)
+ - 🚯 [Keanu](http://9gag.com/gag/aog9qeA)<!-- MEMES:END -->
 
 --- 
 
