@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Secretlab announces gaming chair made specially for Lamborghini owners](https://www.pcgamer.com/secretlab-announces-gaming-chair-made-specially-for-lamborghini-owners)
- - [Nvidia confirms the specifications of its upcoming RTX 2060 12GB](https://www.pcgamer.com/nvidia-confirms-the-specifications-of-its-upcoming-rtx-2060-12gb)
- - [Windows 11 Insider update tests fixes for basic Start menu and taskbar functionalities](https://www.pcgamer.com/windows-11-insider-update-tests-fixes-for-basic-start-menu-and-taskbar-functionalities)<!-- GAME:END -->
+ - [Fights in Tight Spaces review](https://www.pcgamer.com/fights-in-tight-spaces-review)
+ - [Qualcomm&#39;s Snapdragon 8 Gen 1 SoC looks set to dramatically boost mobile gaming performance](https://www.pcgamer.com/qualcomms-snapdragon-8-gen-1-soc-looks-set-to-dramatically-boost-mobile-gaming-performance)
+ - [Nvidia plans to make Earth 2 in Omniverse for climate modelling](https://www.pcgamer.com/nvidia-plans-to-make-earth-2-in-omniverse-for-climate-modelling)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
