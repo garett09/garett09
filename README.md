@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Square&#39;s Block rebrand comes after years of making crypto integrations mainstream, although Block has downplayed the crypto elements of the rebranding so far &lpar;David Z. Morris/CoinDesk&rpar;](http://www.techmeme.com/211202/p24#a211202p24)
- - [Facebook Will Force More At-Risk Accounts to Use Two-Factor](https://www.wired.com/story/facebook-protect-two-factor-authentication-requirement)
- - [Amazon AWS adds M1 Mac mini to its cloud service](https://appleinsider.com/articles/21/12/02/amazon-aws-adds-m1-mac-mini-to-its-cloud-service?utm_medium=rss)<!-- TECH:END -->
+ - [London-based Glorify, a Christian app that offers audio prayers and more, raises a $40M Series A led by a16z at a $250M valuation &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/211202/p26#a211202p26)
+ - [Zhiyun Smooth 5 review: An average smartphone gimbal priced into irrelevance](https://www.androidauthority.com/zhiyun-smooth-5-review-3063774/)
+ - [These are the most popular emoji characters of 2021](https://appleinsider.com/articles/21/12/02/these-are-the-most-popular-emoji-characters-of-2021?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
