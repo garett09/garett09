@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The quest to make an AI that can play competitive Pokémon](https://www.theverge.com/2021/12/2/22811849/pokemon-competitive-ai-nintendo-game-freak)
- - [Why the metaverse is more than Mark Zuckerberg’s dream](https://www.theverge.com/2021/12/2/22812275/metaverse-meta-facebook-virtual-world-explainer-video)
- - [Sources: as SenseTime prepares for an IPO, its plan to create the world&#39;s first &quot;AI casino&quot; in Genting Singapore is delayed due to technical issues &lpar;Financial Times&rpar;](http://www.techmeme.com/211202/p17#a211202p17)<!-- TECH:END -->
+ - [In a filing in the Epic lawsuit, Apple indicates it intends to collect commission regardless of whether developers use IAP or a competing payments platform &lpar;Benjamin Mayo/9to5Mac&rpar;](http://www.techmeme.com/211202/p21#a211202p21)
+ - [DeFi protocol BadgerDAO confirms &quot;unauthorized withdrawals&quot; after researchers say $120M was stolen from users after its front end was compromised &lpar;Tim Copeland/The Block&rpar;](http://www.techmeme.com/211202/p20#a211202p20)
+ - [New Google search features make it easier to find the right doctor](https://www.theverge.com/2021/12/2/22812570/google-search-doctors-medicare-language)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
