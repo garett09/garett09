@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The official release of Ameca EngineeredArts Ltd platform for AI and HRI. Will be on show at ces2022 in Las Vegas this January come and check out humanoid robot interaction](http://9gag.com/gag/aBnYjO2)
+ - 🚖 [The beauty of Eastern European architechture](http://9gag.com/gag/arnKrEd)
  - 🚯 [A guy pointing a laser at my airplane window!!](http://9gag.com/gag/a917Zj1)
- - 🚯 [The beauty of Eastern European architechture](http://9gag.com/gag/arnKrEd)<!-- MEMES:END -->
+ - 🚯 [27 people got caught in a snowstorm in IKEA in Denmark and had to spend the night in there. They were given free access to the warehouse and could choose their own bed.](http://9gag.com/gag/aXr9Q06)<!-- MEMES:END -->
 
 --- 
 
