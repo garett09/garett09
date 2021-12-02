@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple fails to get Australia to drop Epic Games lawsuit](https://appleinsider.com/articles/21/12/02/apple-fails-to-get-australia-to-drop-epic-games-lawsuit?utm_medium=rss)
- - [The Twitter Wildfire Watcher Who Tracks California’s Blazes](https://www.wired.com/story/california-fire-twitter)
- - [Tesla announces all-electric $1,900 Cyberquad for kids](https://www.theverge.com/2021/12/2/22813719/tesla-cyberquad-for-kids-pricing-features-availability)<!-- TECH:END -->
+ - [This Is What It Will Take to End Deforestation by 2030](https://www.wired.com/story/end-deforestation-2030)
+ - [Why Do Games Still Struggle With Trans Inclusion?](https://www.wired.com/story/trans-enby-representation-video-games)
+ - [David Attenborough’s Unending Mission to Save Our Planet](https://www.wired.com/story/david-attenborough-climate-crisis)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
