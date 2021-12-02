@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Break New Ground in Sea of Thieves Season Five](https://news.xbox.com/en-us/2021/12/02/break-new-ground-in-sea-of-thieves-season-five/)
- - [Pen15’s final season is a punch to the throat](https://www.polygon.com/reviews/22812699/pen15-final-episodes-review-hulu-punch-to-the-throat)
- - [Some Halo Infinite Challenge Swaps And XP Boosts Are Being Held Hostage By Brand Deals](https://kotaku.com/some-halo-infinite-challenge-swaps-and-xp-boosts-are-be-1848150692)<!-- GAME:END -->
+ - [The Ascent Drops First Paid DLC Pack “CyberSec” Today](https://news.xbox.com/en-us/2021/12/02/the-ascent-drops-first-paid-dlc-pack-cybersec-today/)
+ - [Here&#39;s when Icarus unlocks in your time zone](https://www.pcgamer.com/icarus-release-time-date-steam-unlock)
+ - [Stardew Valley ‘future-proofed’ in latest update, with much more to come](https://www.polygon.com/22814557/stardew-valley-patch-mod-support-xna-modding-pathoschild-smapi)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
