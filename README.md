@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I was today years old](http://9gag.com/gag/a617GoA)
- - 🚯 [It do be like that](http://9gag.com/gag/azejYQx)
- - 🚯 [Berlin 1927](http://9gag.com/gag/a11MwKP)<!-- MEMES:END -->
+ - 🚖 [What a shot](http://9gag.com/gag/arnKzO0)
+ - 🚯 [The peel of doom. The plastic actually shocked and killed the case RGB after we finished the build](http://9gag.com/gag/angNG0q)
+ - 🚯 [This is the most satisfying play ever.](http://9gag.com/gag/aNPn3pb)<!-- MEMES:END -->
 
 --- 
 
