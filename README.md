@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It doesn&amp;#039;t make any sense](http://9gag.com/gag/a917DwW)
- - 🚯 [Wish us good luck guys!](http://9gag.com/gag/avAPmqX)
- - 🚯 [One step closer to Orwells Nightmare.](http://9gag.com/gag/amg9R22)<!-- MEMES:END -->
+ - 🚖 [This is the most satisfying play ever.](http://9gag.com/gag/aNPn3pb)
+ - 🚯 [Equality](http://9gag.com/gag/aBnYv4D)
+ - 🚯 [Number #1](http://9gag.com/gag/a21mGxp)<!-- MEMES:END -->
 
 --- 
 
