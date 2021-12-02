@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What a shot](http://9gag.com/gag/arnKzO0)
- - 🚯 [The peel of doom. The plastic actually shocked and killed the case RGB after we finished the build](http://9gag.com/gag/angNG0q)
- - 🚯 [This is the most satisfying play ever.](http://9gag.com/gag/aNPn3pb)<!-- MEMES:END -->
+ - 🚖 [The peel of doom. The plastic actually shocked and killed the case RGB after we finished the build](http://9gag.com/gag/angNG0q)
+ - 🚯 [Bought my first house at 35 and this is the view from my front door today... Beautiful.](http://9gag.com/gag/aBnYo4z)
+ - 🚯 [What the f*ck, Angela??](http://9gag.com/gag/aegGRZB)<!-- MEMES:END -->
 
 --- 
 
