@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Fights in Tight Spaces review](https://www.pcgamer.com/fights-in-tight-spaces-review)
- - [Qualcomm&#39;s Snapdragon 8 Gen 1 SoC looks set to dramatically boost mobile gaming performance](https://www.pcgamer.com/qualcomms-snapdragon-8-gen-1-soc-looks-set-to-dramatically-boost-mobile-gaming-performance)
- - [Nvidia plans to make Earth 2 in Omniverse for climate modelling](https://www.pcgamer.com/nvidia-plans-to-make-earth-2-in-omniverse-for-climate-modelling)<!-- GAME:END -->
+ - [Duplication Glitches Removed From Pokémon Brilliant Diamond And Shining Pearl](https://kotaku.com/duplication-glitches-removed-from-pokemon-brilliant-dia-1848148171)
+ - [Cyberpunk 2077 VR mod &#39;should come out in January&#39; says creator](https://www.pcgamer.com/cyberpunk-2077-vr-mod-should-come-out-in-january-says-creator)
+ - [Fights in Tight Spaces review](https://www.pcgamer.com/fights-in-tight-spaces-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
