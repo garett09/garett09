@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [London-based Glorify, a Christian app that offers audio prayers and more, raises a $40M Series A led by a16z at a $250M valuation &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/211202/p26#a211202p26)
- - [Zhiyun Smooth 5 review: An average smartphone gimbal priced into irrelevance](https://www.androidauthority.com/zhiyun-smooth-5-review-3063774/)
- - [These are the most popular emoji characters of 2021](https://appleinsider.com/articles/21/12/02/these-are-the-most-popular-emoji-characters-of-2021?utm_medium=rss)<!-- TECH:END -->
+ - [Best apps for being productive on your Mac](https://appleinsider.com/articles/21/12/02/best-apps-for-being-productive-on-your-mac?utm_medium=rss)
+ - [Polestar teases its upcoming electric SUV, the Polestar 3, set for release in 2022](https://www.theverge.com/2021/12/2/22814368/polestar-3-electric-suv-tease-volvo)
+ - [Congress Takes Aim at the Algorithms](https://www.wired.com/story/congress-takes-aim-at-algorithms-section-230-reform)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
