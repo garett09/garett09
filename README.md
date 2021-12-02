@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [&amp;quot;I just can&amp;#039;t get no sleep&amp;quot;](http://9gag.com/gag/avAPVrM)
- - 🚯 [Doomsday cow](http://9gag.com/gag/aVxP8wM)
+ - 🚖 [Hans get the flammenwerfer!](http://9gag.com/gag/awzx9p4)
+ - 🚯 [Cheeky](http://9gag.com/gag/aYrevOq)
  - 🚯 [Yes](http://9gag.com/gag/aKmqyVO)<!-- MEMES:END -->
 
 --- 
