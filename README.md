@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple again asks for Apple Watch, Mac Pro tariff exemptions](https://appleinsider.com/articles/21/12/02/apple-again-asks-for-apple-watch-mac-pro-tariff-exemptions?utm_medium=rss)
- - [Shiftsmart, a labor marketplace that matches workers with shifts, raises a $95M Series B led by D1 Capital, bringing its total funding to $117M &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/211202/p9#a211202p9)
- - [Future MacBook Pro screens could automatically open &amp; tilt to suit the user](https://appleinsider.com/articles/21/12/02/future-macbook-pro-screens-could-automatically-open-tilt-to-suit-the-user?utm_medium=rss)<!-- TECH:END -->
+ - [Future MacBook Pro displays could automatically open &amp; tilt to suit the user](https://appleinsider.com/articles/21/12/02/future-macbook-pro-screens-could-automatically-open-tilt-to-suit-the-user?utm_medium=rss)
+ - [Govee’s immersive backlights are an affordable way to make your TV glow](https://www.theverge.com/good-deals/2021/12/2/22811974/govee-light-kit-lenovo-smart-clock-2-airpods-3-sonos-lg-c1-oled-tv-deal-sale)
+ - [As tech founders resign, Congress loses its favorite targets](https://www.theverge.com/2021/12/2/22812641/jack-dorsey-twitter-facebook-amazon-zuckerberg-bezos-congress-resign)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
