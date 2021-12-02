@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best apps for being productive on your Mac](https://appleinsider.com/articles/21/12/02/best-apps-for-being-productive-on-your-mac?utm_medium=rss)
- - [Polestar teases its upcoming electric SUV, the Polestar 3, set for release in 2022](https://www.theverge.com/2021/12/2/22814368/polestar-3-electric-suv-tease-volvo)
- - [Congress Takes Aim at the Algorithms](https://www.wired.com/story/congress-takes-aim-at-algorithms-section-230-reform)<!-- TECH:END -->
+ - [Sources: Goldman Sachs is among a handful of tier-one US banks working on ways to use bitcoin as collateral for cash loans to institutions &lpar;Ian Allison/CoinDesk&rpar;](http://www.techmeme.com/211202/p30#a211202p30)
+ - [Lexus teases Toyota BZ4X-based RZ EV     - Roadshow](https://www.cnet.com/roadshow/news/lexus-rz-ev-toyota-bz4x/#ftag=CAD590a51e)
+ - [Report: Google&#39;s Pixel hardware group is working on the company&#39;s first smartwatch, internally codenamed &quot;Rohan&quot;, which it plans to launch next year &lpar;The Verge&rpar;](http://www.techmeme.com/211202/p29#a211202p29)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
