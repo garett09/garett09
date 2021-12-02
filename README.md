@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [In a filing in the Epic lawsuit, Apple indicates it intends to collect commission regardless of whether developers use IAP or a competing payments platform &lpar;Benjamin Mayo/9to5Mac&rpar;](http://www.techmeme.com/211202/p21#a211202p21)
- - [DeFi protocol BadgerDAO confirms &quot;unauthorized withdrawals&quot; after researchers say $120M was stolen from users after its front end was compromised &lpar;Tim Copeland/The Block&rpar;](http://www.techmeme.com/211202/p20#a211202p20)
- - [New Google search features make it easier to find the right doctor](https://www.theverge.com/2021/12/2/22812570/google-search-doctors-medicare-language)<!-- TECH:END -->
+ - [Square&#39;s Block rebrand comes after years of making crypto integrations mainstream, although Block has downplayed the crypto elements of the rebranding so far &lpar;David Z. Morris/CoinDesk&rpar;](http://www.techmeme.com/211202/p24#a211202p24)
+ - [Facebook Will Force More At-Risk Accounts to Use Two-Factor](https://www.wired.com/story/facebook-protect-two-factor-authentication-requirement)
+ - [Amazon AWS adds M1 Mac mini to its cloud service](https://appleinsider.com/articles/21/12/02/amazon-aws-adds-m1-mac-mini-to-its-cloud-service?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
