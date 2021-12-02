@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Official Steam gaming support could soon land on a Chromebook near you](https://www.androidauthority.com/steam-on-chromebooks-flags-3070122/)
  - [Apple announces the best apps and games of 2021 across iPhone, iPad, Mac, Apple TV, and Apple Watch, and most downloaded apps of the year &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/211202/p2#a211202p2)
- - [Sources: Instacart is planning to launch a 15-minute-or-less grocery delivery pilot for US customers, from existing partner stores &lpar;Berber Jin/The Information&rpar;](http://www.techmeme.com/211202/p1#a211202p1)
- - [Thursday&#39;s date, 12-02-2021, is an 8-digit palindrome     - CNET](https://www.cnet.com/news/thursdays-date-12-02-2021-is-an-8-digit-palindrome/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: Instacart is planning to launch a 15-minute-or-less grocery delivery pilot for US customers, from existing partner stores &lpar;Berber Jin/The Information&rpar;](http://www.techmeme.com/211202/p1#a211202p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
