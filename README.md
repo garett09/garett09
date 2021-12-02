@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [George Jetson is gonna be born on August 27th, 2022. So his parents are having sex this week.](http://9gag.com/gag/aog9dxX)
- - 🚯 [Who took the cakes?](http://9gag.com/gag/aGzx7mG)
- - 🚯 [Saved up for two years to buy myself a bike. today it was stolen by this thief who broke the rail it was locked to.](http://9gag.com/gag/avAPD0Z)<!-- MEMES:END -->
+ - 🚖 [Golden Retriever who is weak at curves](http://9gag.com/gag/aQX8NRr)
+ - 🚯 [George Jetson is gonna be born on August 27th, 2022. So his parents are having sex this week.](http://9gag.com/gag/aog9dxX)
+ - 🚯 [Yeah](http://9gag.com/gag/aE87Ndn)<!-- MEMES:END -->
 
 --- 
 
