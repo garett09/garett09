@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OnePlus 9R November 2021 update now rolling out in India](https://www.androidauthority.com/oneplus-9-update-1212009/)
  - [Samsung Galaxy S21 FE: What we know so far &lpar;Updated: Dec. 2&rpar;](https://www.androidauthority.com/samsung-galaxy-s21-fe-1211655/)
- - [Uber adds ride booking via WhatsApp in India in the northern city of Lucknow, expanding to more locations in the near future &lpar;Bloomberg&rpar;](http://www.techmeme.com/211201/p47#a211201p47)
- - [The CFPB&#39;s rule that lets debt collectors send texts, emails, and private social media messages to debtors, and requires opt-out instructions, goes into effect &lpar;Michelle Singletary/Washington Post&rpar;](http://www.techmeme.com/211201/p46#a211201p46)<!-- TECH:END -->
+ - [Uber adds ride booking via WhatsApp in India in the northern city of Lucknow, expanding to more locations in the near future &lpar;Bloomberg&rpar;](http://www.techmeme.com/211201/p47#a211201p47)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
