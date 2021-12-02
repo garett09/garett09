@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Duplication Glitches Removed From Pokémon Brilliant Diamond And Shining Pearl](https://kotaku.com/duplication-glitches-removed-from-pokemon-brilliant-dia-1848148171)
- - [Cyberpunk 2077 VR mod &#39;should come out in January&#39; says creator](https://www.pcgamer.com/cyberpunk-2077-vr-mod-should-come-out-in-january-says-creator)
- - [Fights in Tight Spaces review](https://www.pcgamer.com/fights-in-tight-spaces-review)<!-- GAME:END -->
+ - [Icarus live-action trailer is all about what happens when things go wrong](https://www.pcgamer.com/icarus-live-action-trailer-is-all-about-what-happens-when-things-go-wrong)
+ - [Here&#39;s when Final Fantasy 14: Endwalker unlocks](https://www.pcgamer.com/ffxiv-final-fantasy-14-endwalker-release-time-unlock)
+ - [Duplication Glitches Removed From Pokémon Brilliant Diamond And Shining Pearl](https://kotaku.com/duplication-glitches-removed-from-pokemon-brilliant-dia-1848148171)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
