@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I like to watch my movies in peace, with a few laughter](http://9gag.com/gag/a917NPZ)
- - 🚯 [Yeah](http://9gag.com/gag/aE87Ndn)
- - 🚯 [To look over the edge](http://9gag.com/gag/aVxPdRy)<!-- MEMES:END -->
+ - 🚖 [Omelette du fromage](http://9gag.com/gag/aWg6N9A)
+ - 🚯 [Don&amp;#039;t think thats how you use a pan](http://9gag.com/gag/aWg6d54)
+ - 🚯 [Happened yesterday in Ho Chi Minh city](http://9gag.com/gag/aGzxonK)<!-- MEMES:END -->
 
 --- 
 
