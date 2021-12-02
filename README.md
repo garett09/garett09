@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Netflix’s relentless Western The Power of the Dog is 2021’s best movie so far](https://www.polygon.com/reviews/22675046/power-of-the-dog-review-benedict-cumberbatch)
- - [Government Officials Pressuring Activision Blizzard Are Now Threatening The Company&#39;s Profits](https://kotaku.com/government-officials-pressuring-activision-blizzard-are-1848146295)
- - [This Cozy Game&#39;s Puzzles Are Deliciously Dark](https://kotaku.com/this-cozy-games-puzzles-are-deliciously-dark-1848146211)<!-- GAME:END -->
+ - [A year later, Cyberpunk 2077 has fewer bugs but still feels like it&#39;s in Early Access](https://www.pcgamer.com/a-year-later-cyberpunk-2077-has-fewer-bugs-but-still-feels-like-its-in-early-access)
+ - [Valve&#39;s Steam Deck Probably Won&#39;t Get Exclusive Games](https://kotaku.com/valves-steam-deck-probably-wont-get-exclusive-games-1848146499)
+ - [The VR Age of Sigmar game isn&#39;t metal enough](https://www.pcgamer.com/the-vr-age-of-sigmar-game-isnt-metal-enough)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
