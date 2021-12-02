@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Qualcomm’s new G3x platform could usher in a new wave of Nintendo Switch-alikes](https://www.theverge.com/2021/12/1/22789752/qualcomm-g3x-chip-platform-android-razer-developer-kit)
- - [Qualcomm’s Snapdragon 8cx Gen 3 is its latest attempt to hit a Windows on Arm home run](https://www.theverge.com/2021/12/1/22811736/qualcomm-snapdragon-8cx-gen-3-announcement-laptop-arm-chip-processor)
- - [Holiday deals: Apple&#39;s Mac mini with 16GB RAM drops to $789, plus AppleCare sale](https://appleinsider.com/articles/21/12/01/holiday-deals-apples-mac-mini-with-16gb-ram-drops-to-789-plus-applecare-sale?utm_medium=rss)<!-- TECH:END -->
+ - [Meta will no longer block searches and remove praise of Kyle Rittenhouse on Facebook and Instagram, after designating him a shooter in a &quot;mass murder&quot; in 2020 &lpar;James Clayton/BBC&rpar;](http://www.techmeme.com/211201/p36#a211201p36)
+ - [Apple’s ‘notebook upgrade program’ could get businesses new M1 Macs for $30 per month](https://www.theverge.com/2021/12/1/22808771/apple-m1-mac-notebook-upgrade-program-small-business)
+ - [Ubiquiti hack may have been an inside job, federal charges suggest](https://www.theverge.com/2021/12/1/22812761/ubiquiti-data-breach-aws-doj-indictment-inside-job)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
