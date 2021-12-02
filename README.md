@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Just Stefan Holm, 43, jumping his own height](http://9gag.com/gag/aRrAy05)
- - 🚯 [Keanu](http://9gag.com/gag/aog9qeA)
- - 🚯 [1472&amp;deg; BBQ Fireproof gloves](http://9gag.com/gag/angNdQb)<!-- MEMES:END -->
+ - 🚖 [I like to watch my movies in peace, with a few laughter](http://9gag.com/gag/a917NPZ)
+ - 🚯 [Yeah](http://9gag.com/gag/aE87Ndn)
+ - 🚯 [To look over the edge](http://9gag.com/gag/aVxPdRy)<!-- MEMES:END -->
 
 --- 
 
