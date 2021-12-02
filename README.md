@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Lawn Mowing Simulator Coming to Game Pass with Brand New Ancient Britain DLC &amp; String Trimmers](https://news.xbox.com/en-us/2021/12/02/lawn-mowing-simulator-coming-to-game-pass-with-brand-new-ancient-britain-dlc-string-trimmers/)
- - [Where to find the Hold Your Horses treasure chest in Forza Horizon 5](https://www.pcgamer.com/forza-horizon-5-treasure-chest-locations)
- - [How to give yourself unlimited money in Farming Simulator 22](https://www.pcgamer.com/farming-simulator-22-money-cheat)<!-- GAME:END -->
+ - [Break New Ground in Sea of Thieves Season Five](https://news.xbox.com/en-us/2021/12/02/break-new-ground-in-sea-of-thieves-season-five/)
+ - [Pen15’s final season is a punch to the throat](https://www.polygon.com/reviews/22812699/pen15-final-episodes-review-hulu-punch-to-the-throat)
+ - [Some Halo Infinite Challenge Swaps And XP Boosts Are Being Held Hostage By Brand Deals](https://kotaku.com/some-halo-infinite-challenge-swaps-and-xp-boosts-are-be-1848150692)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
