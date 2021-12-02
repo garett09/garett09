@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Saved up for two years to buy myself a bike. today it was stolen by this thief who broke the rail it was locked to.](http://9gag.com/gag/avAPD0Z)
- - 🚯 [Bought my first house at 35 and this is the view from my front door today... Beautiful.](http://9gag.com/gag/aBnYo4z)
- - 🚯 [Remember kids, neurons in the brain are important. Don&amp;#039;t kill them all!](http://9gag.com/gag/azej4BZ)<!-- MEMES:END -->
+ - 🚖 [George Jetson is gonna be born on August 27th, 2022. So his parents are having sex this week.](http://9gag.com/gag/aog9dxX)
+ - 🚯 [Who took the cakes?](http://9gag.com/gag/aGzx7mG)
+ - 🚯 [Saved up for two years to buy myself a bike. today it was stolen by this thief who broke the rail it was locked to.](http://9gag.com/gag/avAPD0Z)<!-- MEMES:END -->
 
 --- 
 
