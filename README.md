@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Destiny 2’s space horse raises questions nobody can answer](https://www.polygon.com/22814419/destiny-2-xur-horse-bungie-30th-anniversary-pack)
- - [Diablo Meets Minecraft In This Game Pass Hidden Gem](https://kotaku.com/diablo-meets-minecraft-in-this-game-pass-hidden-gem-1848152135)
- - [An oral history of the iconic ‘Halo 3: Believe’ diorama, including a version fans never saw](https://www.polygon.com/22809986/halo-3-believe-ad-campaign-making-of-unreleased-version)<!-- GAME:END -->
+ - [Halo Infinite’s sniper rifle can take down 23 Spartans with one headshot](https://www.polygon.com/22814767/halo-infinite-headshot-23-spartans-trick-multiplayer)
+ - [Reminder: Farming Simulator esports are a thing, they&#39;re awesome, and the finals are this weekend](https://www.pcgamer.com/reminder-farming-simulator-esports-are-a-thing-theyre-awesome-and-the-finals-are-this-weekend)
+ - [Batman Invades Hot Wheels Unleashed in Latest Expansion Pack](https://news.xbox.com/en-us/2021/12/02/batman-invades-hot-wheels-unleashed/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
