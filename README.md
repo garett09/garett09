@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Ascent Drops First Paid DLC Pack “CyberSec” Today](https://news.xbox.com/en-us/2021/12/02/the-ascent-drops-first-paid-dlc-pack-cybersec-today/)
- - [Here&#39;s when Icarus unlocks in your time zone](https://www.pcgamer.com/icarus-release-time-date-steam-unlock)
- - [Stardew Valley ‘future-proofed’ in latest update, with much more to come](https://www.polygon.com/22814557/stardew-valley-patch-mod-support-xna-modding-pathoschild-smapi)<!-- GAME:END -->
+ - [Destiny 2’s space horse raises questions nobody can answer](https://www.polygon.com/22814419/destiny-2-xur-horse-bungie-30th-anniversary-pack)
+ - [Diablo Meets Minecraft In This Game Pass Hidden Gem](https://kotaku.com/diablo-meets-minecraft-in-this-game-pass-hidden-gem-1848152135)
+ - [An oral history of the iconic ‘Halo 3: Believe’ diorama, including a version fans never saw](https://www.polygon.com/22809986/halo-3-believe-ad-campaign-making-of-unreleased-version)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
