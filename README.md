@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta will no longer block searches and remove praise of Kyle Rittenhouse on Facebook and Instagram, after designating him a shooter in a &quot;mass murder&quot; in 2020 &lpar;James Clayton/BBC&rpar;](http://www.techmeme.com/211201/p36#a211201p36)
- - [Apple’s ‘notebook upgrade program’ could get businesses new M1 Macs for $30 per month](https://www.theverge.com/2021/12/1/22808771/apple-m1-mac-notebook-upgrade-program-small-business)
- - [Ubiquiti hack may have been an inside job, federal charges suggest](https://www.theverge.com/2021/12/1/22812761/ubiquiti-data-breach-aws-doj-indictment-inside-job)<!-- TECH:END -->
+ - [Meta expands the eligibility requirements for running crypto ads on Facebook and Instagram, will recognize 27 regulatory licenses from advertisers, up from 3 &lpar;CNBC&rpar;](http://www.techmeme.com/211201/p37#a211201p37)
+ - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
+ - [Meta will no longer block searches nor remove praise of Kyle Rittenhouse on Facebook and Instagram, after designating him a shooter in a &quot;mass murder&quot; in 2020 &lpar;James Clayton/BBC&rpar;](http://www.techmeme.com/211201/p36#a211201p36)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
