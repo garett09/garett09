@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This Is What It Will Take to End Deforestation by 2030](https://www.wired.com/story/end-deforestation-2030)
- - [Why Do Games Still Struggle With Trans Inclusion?](https://www.wired.com/story/trans-enby-representation-video-games)
- - [David Attenborough’s Unending Mission to Save Our Planet](https://www.wired.com/story/david-attenborough-climate-crisis)<!-- TECH:END -->
+ - [Apple again asks for Apple Watch, Mac Pro tariff exemptions](https://appleinsider.com/articles/21/12/02/apple-again-asks-for-apple-watch-mac-pro-tariff-exemptions?utm_medium=rss)
+ - [Shiftsmart, a labor marketplace that matches workers with shifts, raises a $95M Series B led by D1 Capital, bringing its total funding to $117M &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/211202/p9#a211202p9)
+ - [Future MacBook Pro screens could automatically open &amp; tilt to suit the user](https://appleinsider.com/articles/21/12/02/future-macbook-pro-screens-could-automatically-open-tilt-to-suit-the-user?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
