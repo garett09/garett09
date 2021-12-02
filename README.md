@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Wish us good luck guys!](http://9gag.com/gag/avAPmqX)
- - 🚯 [Number #1](http://9gag.com/gag/a21mGxp)
- - 🚯 [Bought my first house at 35 and this is the view from my front door today... Beautiful.](http://9gag.com/gag/aBnYo4z)<!-- MEMES:END -->
+ - 🚖 [It doesn&amp;#039;t make any sense](http://9gag.com/gag/a917DwW)
+ - 🚯 [Wish us good luck guys!](http://9gag.com/gag/avAPmqX)
+ - 🚯 [One step closer to Orwells Nightmare.](http://9gag.com/gag/amg9R22)<!-- MEMES:END -->
 
 --- 
 
