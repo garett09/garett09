@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [After the Fall: the PS VR co-op shooter’s PvP Tundradome detailed](https://blog.playstation.com/2021/12/02/after-the-fall-the-ps-vr-co-op-shooters-pvp-tundradome-detailed/)
- - [After the Fall: the PS VR co-op shooter’s PvP Tundradome detailed](https://blog.playstation.com/2021/12/02/after-the-fall-the-ps-vr-co-op-shooters-pvp-tundradome-detailed/)
- - [Final Fantasy 14: Endwalker’s biggest changes, including hairstyles for Viera](https://www.polygon.com/22811951/ff14-ffxiv-endwalker-6-0-patch-notes)<!-- GAME:END -->
+ - [Lawn Mowing Simulator Coming to Game Pass with Brand New Ancient Britain DLC &amp; String Trimmers](https://news.xbox.com/en-us/2021/12/02/lawn-mowing-simulator-coming-to-game-pass-with-brand-new-ancient-britain-dlc-string-trimmers/)
+ - [Where to find the Hold Your Horses treasure chest in Forza Horizon 5](https://www.pcgamer.com/forza-horizon-5-treasure-chest-locations)
+ - [How to give yourself unlimited money in Farming Simulator 22](https://www.pcgamer.com/farming-simulator-22-money-cheat)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
