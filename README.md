@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Future MacBook Pro displays could automatically open &amp; tilt to suit the user](https://appleinsider.com/articles/21/12/02/future-macbook-pro-screens-could-automatically-open-tilt-to-suit-the-user?utm_medium=rss)
- - [Govee’s immersive backlights are an affordable way to make your TV glow](https://www.theverge.com/good-deals/2021/12/2/22811974/govee-light-kit-lenovo-smart-clock-2-airpods-3-sonos-lg-c1-oled-tv-deal-sale)
- - [As tech founders resign, Congress loses its favorite targets](https://www.theverge.com/2021/12/2/22812641/jack-dorsey-twitter-facebook-amazon-zuckerberg-bezos-congress-resign)<!-- TECH:END -->
+ - [The quest to make an AI that can play competitive Pokémon](https://www.theverge.com/2021/12/2/22811849/pokemon-competitive-ai-nintendo-game-freak)
+ - [Why the metaverse is more than Mark Zuckerberg’s dream](https://www.theverge.com/2021/12/2/22812275/metaverse-meta-facebook-virtual-world-explainer-video)
+ - [Sources: as SenseTime prepares for an IPO, its plan to create the world&#39;s first &quot;AI casino&quot; in Genting Singapore is delayed due to technical issues &lpar;Financial Times&rpar;](http://www.techmeme.com/211202/p17#a211202p17)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
