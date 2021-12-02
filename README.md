@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple may have a problem with iPhone demand as well as supply](https://www.theverge.com/2021/12/1/22813347/apple-iphone-demand-suppliers-chip-shortage-report)
- - [DOJ charges an ex-employee of IoT manufacturer Ubiquiti with data theft and for attempting to extort his employer while posing as a whistleblower and a hacker &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/211201/p45#a211201p45)
- - [Qualcomm unveils Snapdragon G3x Gen 1 Gaming Platform for Android gaming devices, launches with Razer a handheld dev kit with G3x chip, 6.65&quot; 120Hz OLED display &lpar;Haje Jan Kamps/TechCrunch&rpar;](http://www.techmeme.com/211201/p44#a211201p44)<!-- TECH:END -->
+ - [Uber adds ride booking via WhatsApp in India in the northern city of Lucknow, expanding to more locations in the near future &lpar;Bloomberg&rpar;](http://www.techmeme.com/211201/p47#a211201p47)
+ - [The CFPB&#39;s rule that lets debt collectors send texts, emails, and private social media messages to debtors, and requires opt-out instructions, goes into effect &lpar;Michelle Singletary/Washington Post&rpar;](http://www.techmeme.com/211201/p46#a211201p46)
+ - [Apple may have a problem with iPhone demand as well as supply](https://www.theverge.com/2021/12/1/22813347/apple-iphone-demand-suppliers-chip-shortage-report)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
