@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Super Smash Bros. Ultimate Gets Final Buffs And Nerfs In Update](https://kotaku.com/super-smash-bros-ultimate-gets-final-buffs-and-nerfs-i-1848148309)
- - [Icarus live-action trailer is all about what happens when things go wrong](https://www.pcgamer.com/icarus-live-action-trailer-is-all-about-what-happens-when-things-go-wrong)
- - [Here&#39;s when Final Fantasy 14: Endwalker unlocks](https://www.pcgamer.com/ffxiv-final-fantasy-14-endwalker-release-time-unlock)<!-- GAME:END -->
+ - [Players’ Choice: Vote for November 2021’s best new game](https://blog.playstation.com/2021/12/02/players-choice-vote-for-november-2021s-best-new-game/)
+ - [Players’ Choice: Vote for November 2021’s best new game](https://blog.playstation.com/2021/12/02/players-choice-vote-for-november-2021s-best-new-game/)
+ - [Deep Rock Galactic Season Two &#39;will be a bit less ambitious and will come out faster&#39;](https://www.pcgamer.com/deep-rock-galactic-season-two-will-be-a-bit-less-ambitious-and-will-come-out-faster)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
