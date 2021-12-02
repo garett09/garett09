@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus 9R November 2021 update now rolling out in India](https://www.androidauthority.com/oneplus-9-update-1212009/)
- - [Samsung Galaxy S21 FE: What we know so far &lpar;Updated: Dec. 2&rpar;](https://www.androidauthority.com/samsung-galaxy-s21-fe-1211655/)
- - [Uber adds ride booking via WhatsApp in India in the northern city of Lucknow, expanding to more locations in the near future &lpar;Bloomberg&rpar;](http://www.techmeme.com/211201/p47#a211201p47)<!-- TECH:END -->
+ - [Apple announces the best apps and games of 2021 across iPhone, iPad, Mac, Apple TV, and Apple Watch, and most downloaded apps of the year &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/211202/p2#a211202p2)
+ - [Sources: Instacart is planning to launch a 15-minute-or-less grocery delivery pilot for US customers, from existing partner stores &lpar;Berber Jin/The Information&rpar;](http://www.techmeme.com/211202/p1#a211202p1)
+ - [Thursday&#39;s date, 12-02-2021, is an 8-digit palindrome     - CNET](https://www.cnet.com/news/thursdays-date-12-02-2021-is-an-8-digit-palindrome/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
