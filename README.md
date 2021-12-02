@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Final Fantasy 14: Endwalker Error 2002—What it is and what to do about it](https://www.pcgamer.com/final-fantasy-14-endwalker-error-2002what-it-is-and-what-to-do-about-it)
- - [Dead by Daylight is free on Epic, and here&#39;s a code for 150,000 free Blood Points](https://www.pcgamer.com/dead-by-daylight-is-free-on-epic-and-heres-a-code-for-150000-free-blood-points)
- - [Tribes of Midgard Season 2: Serpent Saga](https://blog.playstation.com/2021/12/02/tribes-of-midgard-season-2-serpent-saga/)<!-- GAME:END -->
+ - [After the Fall: the PS VR co-op shooter’s PvP Tundradome detailed](https://blog.playstation.com/2021/12/02/after-the-fall-the-ps-vr-co-op-shooters-pvp-tundradome-detailed/)
+ - [After the Fall: the PS VR co-op shooter’s PvP Tundradome detailed](https://blog.playstation.com/2021/12/02/after-the-fall-the-ps-vr-co-op-shooters-pvp-tundradome-detailed/)
+ - [Final Fantasy 14: Endwalker’s biggest changes, including hairstyles for Viera](https://www.polygon.com/22811951/ff14-ffxiv-endwalker-6-0-patch-notes)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
