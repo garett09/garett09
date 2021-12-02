@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Super Smash Bros. Ultimate Gets Final Buffs And Nerfs In Update](https://kotaku.com/super-smash-bros-ultimate-gets-final-buffs-and-nerfs-i-1848148309)
  - [Icarus live-action trailer is all about what happens when things go wrong](https://www.pcgamer.com/icarus-live-action-trailer-is-all-about-what-happens-when-things-go-wrong)
- - [Here&#39;s when Final Fantasy 14: Endwalker unlocks](https://www.pcgamer.com/ffxiv-final-fantasy-14-endwalker-release-time-unlock)
- - [Duplication Glitches Removed From Pokémon Brilliant Diamond And Shining Pearl](https://kotaku.com/duplication-glitches-removed-from-pokemon-brilliant-dia-1848148171)<!-- GAME:END -->
+ - [Here&#39;s when Final Fantasy 14: Endwalker unlocks](https://www.pcgamer.com/ffxiv-final-fantasy-14-endwalker-release-time-unlock)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
