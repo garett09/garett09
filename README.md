@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to Use Your Smartphone as a Hot Spot](https://www.wired.com/story/how-to-use-smartphone-as-wifi-hotspot)
- - [2021’s Spotify Wrapped Is a Haunting, Hilarious Time Capsule](https://www.wired.com/story/spotify-wrapped-depressed)
- - [Subscriptions Are Eating My Paycheck!](https://www.wired.com/story/plaintext-subscriptions-eating-my-paycheck)<!-- TECH:END -->
+ - [Best deals Dec. 3: $109 AirPods, $50 off CalDigit TS3 Plus, Intel MacBook Pro sale, more!](https://appleinsider.com/articles/21/12/03/best-deals-dec-3-109-airpods-50-off-caldigit-ts3-plus-intel-macbook-pro-sale-more?utm_medium=rss)
+ - [DocuSign reports Q3 revenue of $545.5M, up 42% YoY, with subscription revenue of $528.6M, up 44%, and 1.11M customers; stock is down 35%+ after weak Q4 guidance &lpar;Ari Levy/CNBC&rpar;](http://www.techmeme.com/211203/p10#a211203p10)
+ - [Jack Dorsey’s Twitter Failed African Countries](https://www.wired.com/story/jack-dorseys-twitter-failed-african-countries)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
