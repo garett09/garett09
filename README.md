@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [In Japan, Snacks Keep Getting Smaller And It Sucks](https://kotaku.com/in-japan-snacks-keep-getting-smaller-and-it-sucks-1848154807)
- - [&lpar;For Southeast Asia&rpar; PlayStation®Partner Awards 2021 Japan Asia Winners Announced!](https://blog.playstation.com/2021/12/03/20211203-pspawards-4/)
- - [&lpar;For Southeast Asia&rpar; PlayStation®Partner Awards 2021 Japan Asia Winners Announced!](https://blog.playstation.com/2021/12/03/20211203-pspawards-4/)<!-- GAME:END -->
+ - [FFXIV Endwalker: Everything we know about the Sage job](https://www.pcgamer.com/final-fantasy-14-ffxiv-sage-job-class-healer)
+ - [The PlayStation 1 Is Now 27 Years Old](https://kotaku.com/the-playstation-1-is-now-27-years-old-1848154939)
+ - [EA sacks off Battlefield 2042 Santa skin following player backlash](https://www.pcgamer.com/ea-sacks-off-battlefield-2042-santa-skin-following-player-backlash)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
