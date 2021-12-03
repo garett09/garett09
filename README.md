@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I said GIT!](http://9gag.com/gag/a81MgRY)
- - 🚯 [Isn&amp;#039;t it true!](http://9gag.com/gag/ay9dKmp)
- - 🚯 [Post titties](http://9gag.com/gag/amg9Zzd)<!-- MEMES:END -->
+ - 🚖 [Me nowadays after a break up.](http://9gag.com/gag/axBjryM)
+ - 🚯 [At least he was wearing a mask](http://9gag.com/gag/aDDoe0G)
+ - 🚯 [I said GIT!](http://9gag.com/gag/a81MgRY)<!-- MEMES:END -->
 
 --- 
 
