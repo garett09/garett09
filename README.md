@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [That&amp;#039;s my boy](http://9gag.com/gag/aWg63LA)
- - 🚯 [That&amp;#039;s me now](http://9gag.com/gag/aDDovnG)
- - 🚯 [3D printing a boat](http://9gag.com/gag/aPZDqXK)<!-- MEMES:END -->
+ - 🚖 [Alex was never invited to a family gathering again](http://9gag.com/gag/ajgAex0)
+ - 🚯 [3D printing a boat](http://9gag.com/gag/aPZDqXK)
+ - 🚯 [D/dx? I need to see the manager](http://9gag.com/gag/ay9dKAp)<!-- MEMES:END -->
 
 --- 
 
