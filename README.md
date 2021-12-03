@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Crazy Athletics Is Available Now for Xbox Series X|S, Xbox One and PC](https://news.xbox.com/en-us/2021/12/03/crazy-athletics-is-available-now-for-xbox-series-xs-xbox-one-and-pc/)
- - [The Game Awards 2021: Everything you need to know](https://www.polygon.com/22816160/game-awards-2021-nominees-what-time-how-to-watch)
- - [GameStop sale offers great deals on board games, D&amp;D books](https://www.polygon.com/deals/22816194/dungeons-and-dragons-board-game-sale-ticket-to-ride-gamestop)<!-- GAME:END -->
+ - [Solar Ash and The Pathless are defining a new kind of open-world game](https://www.polygon.com/gaming/22816264/solar-ash-pathless-open-world-games)
+ - [In the ferocious drama Wolf, one of today’s best young actors unleashes the beast](https://www.polygon.com/reviews/22816376/wolf-review-george-mackay)
+ - [Halo Infinite has a bunch of hidden game modes when you play offline](https://www.pcgamer.com/halo-infinite-has-a-bunch-of-hidden-game-modes-when-you-play-offline)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
