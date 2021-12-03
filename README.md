@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Doomsday cow](http://9gag.com/gag/aVxP8wM)
- - 🚯 [Swimming with my flat mate](http://9gag.com/gag/abg0D9v)
- - 🚯 [Drinks on me everyone, just found out my girlfriend has been cheating with her study buddy](http://9gag.com/gag/ay9dA3Y)<!-- MEMES:END -->
+ - 🚖 [Drinks on me everyone, just found out my girlfriend has been cheating with her study buddy](http://9gag.com/gag/ay9dA3Y)
+ - 🚯 [Champ](http://9gag.com/gag/azejzGx)
+ - 🚯 [Lawless and rowdy.](http://9gag.com/gag/aRrAW5y)<!-- MEMES:END -->
 
 --- 
 
