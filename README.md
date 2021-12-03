@@ -195,7 +195,7 @@ Windows                  3 hrs 9 mins        ███████████�
 <!-- MEMES:START -->
  - 🚖 [Biker making this lady&amp;rsquo;s day](http://9gag.com/gag/azejvnj)
  - 🚯 [Yes](http://9gag.com/gag/aKmqyVO)
- - 🚯 [Just got the job of my dreams and needed to tell someone](http://9gag.com/gag/aVxP9DK)<!-- MEMES:END -->
+ - 🚯 [The best way to save a man from killing himself](http://9gag.com/gag/aegGqLb)<!-- MEMES:END -->
 
 --- 
 
