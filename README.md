@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Clarity AI, whose AI helps fund managers gauge environmental impact of their investments, raised $50M in August, led by Vision Fund 2 at a $450M valuation &lpar;Simon Jessop/Reuters&rpar;](http://www.techmeme.com/211203/p1#a211203p1)
  - [The next N64 game for Nintendo Switch Online is Paper Mario](https://www.theverge.com/2021/12/3/22815382/n64-switch-paper-mario-release-date-announced)
- - [British asset manager Abrdn to buy Interactive Investor, an online investment platform, for $1.98B in cash &lpar;Reuters&rpar;](http://www.techmeme.com/211202/p41#a211202p41)
- - [FTC suit says Nvidia&#39;s $40B Arm acquisition would hurt rival chipmakers     - CNET](https://www.cnet.com/tech/ftc-sues-to-block-nvidias-40b-arm-acquisition/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [British asset manager Abrdn to buy Interactive Investor, an online investment platform, for $1.98B in cash &lpar;Reuters&rpar;](http://www.techmeme.com/211202/p41#a211202p41)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
