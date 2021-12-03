@@ -194,8 +194,8 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Yo mamma](http://9gag.com/gag/aDDoy39)
- - 🚯 [German WWI veteran describes killing a French soldier](http://9gag.com/gag/abg0nG9)
- - 🚯 [Should be a new form of currency](http://9gag.com/gag/a6170r8)<!-- MEMES:END -->
+ - 🚯 [Unnerving](http://9gag.com/gag/aQX8LRw)
+ - 🚯 [My work had a &amp;#039;Christmas Tree&amp;#039; Decorating Contest. This is my submission. I&amp;#039;m quite proud! A few people have expressed that it&amp;#039;s not &amp;#039;Christmasy&amp;#039; enough](http://9gag.com/gag/awzxwQy)<!-- MEMES:END -->
 
 --- 
 
