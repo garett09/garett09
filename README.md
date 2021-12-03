@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [&lpar;For Southeast Asia&rpar; PlayStation®Partner Awards 2021 Japan Asia PARTNER AWARD &amp; SPECIAL AWARD Winners Announced!](https://blog.playstation.com/2021/12/02/20211202-psawards/)
- - [&lpar;For Southeast Asia&rpar; PlayStation®Partner Awards 2021 Japan Asia PARTNER AWARD &amp; SPECIAL AWARD Winners Announced!](https://blog.playstation.com/2021/12/02/20211202-psawards/)
- - [Cyberpunk twin-stick shooter The Ascent gets free transmog](https://www.pcgamer.com/cyberpunk-twin-stick-shooter-the-ascent-gets-free-transmog)<!-- GAME:END -->
+ - [&lpar;For Southeast Asia&rpar; PlayStation®Partner Awards 2021 Japan Asia Winners Announced!](https://blog.playstation.com/2021/12/03/20211203-pspawards-4/)
+ - [&lpar;For Southeast Asia&rpar; PlayStation®Partner Awards 2021 Japan Asia Winners Announced!](https://blog.playstation.com/2021/12/03/20211203-pspawards-4/)
+ - [&lpar;For Southeast Asia&rpar; Genshin Impact Receives PlayStation®Partner Awards 2021 Japan Asia GRAND AWARD!](https://blog.playstation.com/2021/12/03/20211203-pspawards-3/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
