@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Drinks on me everyone, just found out my girlfriend has been cheating with her study buddy](http://9gag.com/gag/ay9dA3Y)
- - 🚯 [Champ](http://9gag.com/gag/azejzGx)
- - 🚯 [Lawless and rowdy.](http://9gag.com/gag/aRrAW5y)<!-- MEMES:END -->
+ - 🚖 [Champ](http://9gag.com/gag/azejzGx)
+ - 🚯 [Zapfenstreich &lpar;&amp;quot;Grand Tattoo&amp;quot;&rpar; ceremony, German Chancellor Merkel receives the formal military goodbye.](http://9gag.com/gag/aPZDLvQ)
+ - 🚯 [They installed a roundabout in Kentucky. It did not go well](http://9gag.com/gag/ay9dAzy)<!-- MEMES:END -->
 
 --- 
 
