@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Last day: Babbel&#39;s Lifetime Language Learning Subscription drops to $179 &lpar;$320 off&rpar;](https://appleinsider.com/articles/21/11/19/best-price-ever-babbels-lifetime-language-learning-subscription-drops-to-179-320-off?utm_medium=rss)
- - [Google says it will not require employees to return to US offices on January 10 as expected, but encourages employees to come in to build &quot;muscle memory&quot; &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/211203/p12#a211203p12)
- - [How to download an old macOS installer](https://appleinsider.com/articles/21/12/03/how-to-download-an-old-macos-installer?utm_medium=rss)<!-- TECH:END -->
+ - [6 new movies and shows to stream this weekend: The Power of the Dog and more](https://www.androidauthority.com/best-new-movies-shows-to-stream-netflix-disney-plus-hbo-max-amazon-prime-3064782/)
+ - [Once you’re done with Arcane, play this League of Legends RPG](https://www.theverge.com/22815884/league-of-legends-ruined-king-rpg)
+ - [Sources: Apple notified at least nine US State Department employees that their iPhones were hacked using NSO&#39;s software in the past several months &lpar;Reuters&rpar;](http://www.techmeme.com/211203/p14#a211203p14)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
