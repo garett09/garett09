@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [New Warzone map: Everything we know](https://www.pcgamer.com/new-warzone-map)
- - [Share of the Week: Glowing](https://blog.playstation.com/2021/12/03/share-of-the-week-glowing/)
- - [Share of the Week: Glowing](https://blog.playstation.com/2021/12/03/share-of-the-week-glowing/)<!-- GAME:END -->
+ - [Exhilarating Space Shooter Chorus is Available Now for Xbox One and Xbox Series X|S](https://news.xbox.com/en-us/2021/12/03/chorus-available-now-xbox-one-and-xbox-series-xs/)
+ - [Marvel’s Secret Invasion is building a cast fit for an Avengers movie](https://www.polygon.com/22814034/secret-invasion-marvel-cast-release)
+ - [Sony has an Xbox Game Pass competitor coming to PS4 and PS5, new report says](https://www.polygon.com/22816084/playstation-plus-spartacus-xbox-game-pass-competitor-ps-now)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
