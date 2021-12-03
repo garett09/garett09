@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [After a decade of waiting, one of the most troubled RPGs of all time is getting an expansion](https://www.pcgamer.com/after-a-decade-of-waiting-one-of-the-most-troubled-rpgs-of-all-time-is-getting-an-expansion)
- - [JoJo’s Bizarre Adventure: Stone Ocean puts the Joestars’ legacy of bad dads front and center](https://www.polygon.com/22814755/jojos-bizarre-adventure-stone-ocean-review-part-1)
- - [The Battlefield series is now in the hands of Respawn co-founder Vince Zampella](https://www.pcgamer.com/the-battlefield-series-is-now-in-the-hands-of-respawn-co-founder-vince-zampella)<!-- GAME:END -->
+ - [The &#39;Dick And Balls&#39; GameCube Controller Is NSFW](https://kotaku.com/the-dick-and-balls-gamecube-controller-is-nsfw-1848153235)
+ - [Valve shows off the Steam Deck&#39;s low-key packaging](https://www.pcgamer.com/valve-shows-off-the-steam-decks-low-key-packaging)
+ - [The Stanley Parable: Ultra Deluxe will be out early 2022, for real this time](https://www.pcgamer.com/the-stanley-parable-ultra-deluxe-will-be-out-early-2022-for-real-this-time)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
