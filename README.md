@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The &#39;Dick And Balls&#39; GameCube Controller Is NSFW](https://kotaku.com/the-dick-and-balls-gamecube-controller-is-nsfw-1848153235)
- - [Valve shows off the Steam Deck&#39;s low-key packaging](https://www.pcgamer.com/valve-shows-off-the-steam-decks-low-key-packaging)
- - [The Stanley Parable: Ultra Deluxe will be out early 2022, for real this time](https://www.pcgamer.com/the-stanley-parable-ultra-deluxe-will-be-out-early-2022-for-real-this-time)<!-- GAME:END -->
+ - [Paper Mario Is The Next Nintendo Switch Online N64 Game](https://kotaku.com/paper-mario-is-the-next-nintendo-switch-online-n64-game-1848153765)
+ - [I Like The Steam Deck&#39;s Box Art](https://kotaku.com/i-like-the-steam-decks-box-art-1848153413)
+ - [Destiny 2&#39;s event for Bungie&#39;s 30th anniversary brings major armor changes that will enable full loadout swapping](https://www.pcgamer.com/destiny-2s-event-for-bungies-30th-anniversary-brings-major-armor-changes-that-will-enable-full-loadout-swapping)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
