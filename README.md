@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Damn Right!](http://9gag.com/gag/aZrM54z)
- - 🚯 [Just buy a new one](http://9gag.com/gag/awzxpNQ)
+ - 🚖 [Lawless and rowdy.](http://9gag.com/gag/aRrAW5y)
+ - 🚯 [That&amp;#039;s me now](http://9gag.com/gag/aDDovnG)
  - 🚯 [Lego engineering](http://9gag.com/gag/aYre507)<!-- MEMES:END -->
 
 --- 
