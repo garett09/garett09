@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Me nowadays after a break up.](http://9gag.com/gag/axBjryM)
- - 🚯 [At least he was wearing a mask](http://9gag.com/gag/aDDoe0G)
- - 🚯 [I said GIT!](http://9gag.com/gag/a81MgRY)<!-- MEMES:END -->
+ - 🚖 [If you know, you know!](http://9gag.com/gag/aDDov4w)
+ - 🚯 [I said GIT!](http://9gag.com/gag/a81MgRY)
+ - 🚯 [German WWI veteran describes killing a French soldier](http://9gag.com/gag/abg0nG9)<!-- MEMES:END -->
 
 --- 
 
