@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [FFXIV Endwalker: Everything we know about the Sage job](https://www.pcgamer.com/final-fantasy-14-ffxiv-sage-job-class-healer)
- - [The PlayStation 1 Is Now 27 Years Old](https://kotaku.com/the-playstation-1-is-now-27-years-old-1848154939)
- - [EA sacks off Battlefield 2042 Santa skin following player backlash](https://www.pcgamer.com/ea-sacks-off-battlefield-2042-santa-skin-following-player-backlash)<!-- GAME:END -->
+ - [Here&#39;s the lowdown on Rainbow Six Siege&#39;s newest operator](https://www.pcgamer.com/heres-the-lowdown-on-rainbow-six-sieges-newest-operator)
+ - [FFXIV Endwalker: Everything we know about the Reaper job](https://www.pcgamer.com/final-fantasy-14-ffxiv-reaper-job-class)
+ - [Teardown&#39;s campaign now complete with flamethrowing robots and tornadoes](https://www.pcgamer.com/teardowns-campaign-now-complete-with-flamethrowing-robots-and-tornadoes)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
