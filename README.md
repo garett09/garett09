@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Yo mamma](http://9gag.com/gag/aDDoy39)
- - 🚯 [Unnerving](http://9gag.com/gag/aQX8LRw)
- - 🚯 [My work had a &amp;#039;Christmas Tree&amp;#039; Decorating Contest. This is my submission. I&amp;#039;m quite proud! A few people have expressed that it&amp;#039;s not &amp;#039;Christmasy&amp;#039; enough](http://9gag.com/gag/awzxwQy)<!-- MEMES:END -->
+ - 🚖 [Unnerving](http://9gag.com/gag/aQX8LRw)
+ - 🚯 [Yo mamma](http://9gag.com/gag/aDDoy39)
+ - 🚯 [The little slaps at the end are the best](http://9gag.com/gag/avAPM75)<!-- MEMES:END -->
 
 --- 
 
