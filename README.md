@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This face](http://9gag.com/gag/aegGwAj)
- - 🚯 [This was beyond evil](http://9gag.com/gag/aE87KON)
- - 🚯 [Woman kicks a random person&amp;#039;s car](http://9gag.com/gag/arnKEqB)<!-- MEMES:END -->
+ - 🚖 [Damn Right!](http://9gag.com/gag/aZrM54z)
+ - 🚯 [Just buy a new one](http://9gag.com/gag/awzxpNQ)
+ - 🚯 [Lego engineering](http://9gag.com/gag/aYre507)<!-- MEMES:END -->
 
 --- 
 
