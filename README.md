@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Alex was never invited to a family gathering again](http://9gag.com/gag/ajgAex0)
- - 🚯 [3D printing a boat](http://9gag.com/gag/aPZDqXK)
- - 🚯 [D/dx? I need to see the manager](http://9gag.com/gag/ay9dKAp)<!-- MEMES:END -->
+ - 🚖 [D/dx? I need to see the manager](http://9gag.com/gag/ay9dKAp)
+ - 🚯 [At least he was wearing a mask](http://9gag.com/gag/aDDoe0G)
+ - 🚯 [Should be a new form of currency](http://9gag.com/gag/a6170r8)<!-- MEMES:END -->
 
 --- 
 
