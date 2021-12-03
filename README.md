@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Just a friendly reminder](http://9gag.com/gag/adgjwNB)
- - 🚯 [Zapfenstreich &lpar;&amp;quot;Grand Tattoo&amp;quot;&rpar; ceremony, German Chancellor Merkel receives the formal military goodbye.](http://9gag.com/gag/aPZDLvQ)
- - 🚯 [This face](http://9gag.com/gag/aegGwAj)<!-- MEMES:END -->
+ - 🚖 [This face](http://9gag.com/gag/aegGwAj)
+ - 🚯 [This was beyond evil](http://9gag.com/gag/aE87KON)
+ - 🚯 [Woman kicks a random person&amp;#039;s car](http://9gag.com/gag/arnKEqB)<!-- MEMES:END -->
 
 --- 
 
