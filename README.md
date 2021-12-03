@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [John Cena’s Peacemaker trailer gives the Suicide Squad member another mission](https://www.polygon.com/22815732/peacemaker-hbo-max-show-trailer-release-date-streaming-john-cena)
- - [Genshin Impact codes: free Primogems and Mora](https://www.pcgamer.com/redeem-genshin-impact-codes)
- - [Jak and Daxter turns 20 – Reflections from PlayStation Studios and friends](https://blog.playstation.com/2021/12/03/jak-and-daxter-turns-20-reflections-from-playstation-studios-and-friends/)<!-- GAME:END -->
+ - [Acclaimed board game Root is a resounding success on Nintendo Switch](https://www.polygon.com/reviews/22814689/root-switch-review-board-game-adaptation)
+ - [This Steam Chart Topper Is A Rare Treat For Western Mech Fans](https://kotaku.com/this-steam-chart-topper-is-a-rare-treat-for-western-mec-1848156228)
+ - [Which job should you choose in Final Fantasy XIV?](https://www.pcgamer.com/ffxiv-classes-jobs-guide)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
