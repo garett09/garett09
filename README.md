@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [If you know, you know!](http://9gag.com/gag/aDDov4w)
- - 🚯 [I said GIT!](http://9gag.com/gag/a81MgRY)
- - 🚯 [German WWI veteran describes killing a French soldier](http://9gag.com/gag/abg0nG9)<!-- MEMES:END -->
+ - 🚖 [That&amp;#039;s my boy](http://9gag.com/gag/aWg63LA)
+ - 🚯 [That&amp;#039;s me now](http://9gag.com/gag/aDDovnG)
+ - 🚯 [3D printing a boat](http://9gag.com/gag/aPZDqXK)<!-- MEMES:END -->
 
 --- 
 
