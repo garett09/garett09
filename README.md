@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the Xbox Series X and PS5 markets, as holiday shoppers navigate a world of &quot;purchase bot&quot; resellers, retail memberships, and social media tips &lpar;New York Times&rpar;](http://www.techmeme.com/211202/p37#a211202p37)
- - [All 53,000 attendees of Anime NYC urged to get tested after one got Omicron](https://www.theverge.com/22814974/anime-nyc-omicron-case-coronavirus-covid-19-superspreader)
- - [Google reportedly re-evaluates January 10th return to office](https://www.theverge.com/2021/12/2/22814879/google-return-to-office-covid-omicron-hybrid-work-plans-2022)<!-- TECH:END -->
+ - [Didi Global says it will begin the process of delisting from the NYSE and listing on the Hong Kong stock exchange &lpar;Reuters&rpar;](http://www.techmeme.com/211202/p38#a211202p38)
+ - [Google will wait until the new year to make more return to office plans](https://www.theverge.com/2021/12/2/22814879/google-return-to-office-covid-omicron-hybrid-work-plans-2022)
+ - [Someone stole $120 million in crypto by hacking a DeFi website](https://www.theverge.com/2021/12/2/22814849/badgerdao-defi-120-million-hack-bitcoin-ethereum)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
