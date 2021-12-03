@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Intel to visit TSMC, looking to outsource 3nm chip production](https://appleinsider.com/articles/21/12/03/intel-to-visit-tsmc-looking-to-outsource-3nm-chip-production?utm_medium=rss)
- - [Poll: What does HMD need to fix most with its Nokia smartphones?](https://www.androidauthority.com/hmd-nokia-smartphones-fix-poll-3070630/)
- - [Some citizens are skeptical of China&#39;s digital yuan, e-CNY, preferring Alipay and WeChat Pay; e-CNY has seen 150M transactions worth nearly $10B so far &lpar;James T. Areddy/Wall Street Journal&rpar;](http://www.techmeme.com/211203/p3#a211203p3)<!-- TECH:END -->
+ - [Journalists and activists worry Twitter&#39;s new privacy policy will be weaponized and make their jobs harder, due to vague terms like &quot;the public interest&quot; &lpar;Mathew Ingram/Columbia Journalism Review&rpar;](http://www.techmeme.com/211203/p5#a211203p5)
+ - [Daily Authority: 💪 FTC sues to keep Nvidia Arm-less](https://www.androidauthority.com/newsletters/da-december-3-2021/)
+ - [Microsoft backtracks on Windows 11’s controversial default browser changes](https://www.theverge.com/2021/12/3/22815209/microsoft-windows-11-default-browser-button-changes)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
