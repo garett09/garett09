@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nest Doorbells will sound a little more melodious this holiday season](https://www.theverge.com/2021/12/3/22816028/google-nest-doorbell-holiday-ringtones-return)
- - [Today I learned you can surf YouTube on old Chromecasts with a hidden phone remote](https://www.theverge.com/2021/12/3/22816424/youtube-chromecast-update-phone-remote-control)
- - [Best gaming laptop in 2021: seven laptops to get your game on](https://www.theverge.com/22295181/best-gaming-laptop)<!-- TECH:END -->
+ - [Sources: Airtable, a developer of cloud-based collaboration software, is finalizing $700M+ in new funding at an $11.7B valuation &lpar;Berber Jin/The Information&rpar;](http://www.techmeme.com/211203/p20#a211203p20)
+ - [Halo Infinite will soon let you stick just to deathmatch](https://www.theverge.com/2021/12/3/22816491/halo-infinite-multiplayer-deathmatch-slayer-dedicated-playlist)
+ - [Meta says it is testing a Split Payments feature for Messenger in the US that lets users share the cost of bills and expenses &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/211203/p19#a211203p19)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
