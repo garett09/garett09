@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [What is a central bank digital currency &lpar;CBDC&rpar;?](https://www.androidauthority.com/what-is-a-cbdc-guide-2730356/)
- - [Netflix is turning viral Thanksgiving Mom tweet into a movie](https://www.theverge.com/2021/12/3/22815541/netflix-thanksgiving-mom-viral-twitter-thread-feature-film)
- - [Signal user? You can now be a Signal Sustainer by donating](https://www.androidauthority.com/signal-app-donate-3070558/)<!-- TECH:END -->
+ - [Intel to visit TSMC, looking to outsource 3nm chip production](https://appleinsider.com/articles/21/12/03/intel-to-visit-tsmc-looking-to-outsource-3nm-chip-production?utm_medium=rss)
+ - [Poll: What does HMD need to fix most with its Nokia smartphones?](https://www.androidauthority.com/hmd-nokia-smartphones-fix-poll-3070630/)
+ - [Some citizens are skeptical of China&#39;s digital yuan, e-CNY, preferring Alipay and WeChat Pay; e-CNY has seen 150M transactions worth nearly $10B so far &lpar;James T. Areddy/Wall Street Journal&rpar;](http://www.techmeme.com/211203/p3#a211203p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
