@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Journalists and activists worry Twitter&#39;s new privacy policy will be weaponized and make their jobs harder, due to vague terms like &quot;the public interest&quot; &lpar;Mathew Ingram/Columbia Journalism Review&rpar;](http://www.techmeme.com/211203/p5#a211203p5)
- - [Daily Authority: 💪 FTC sues to keep Nvidia Arm-less](https://www.androidauthority.com/newsletters/da-december-3-2021/)
- - [Microsoft backtracks on Windows 11’s controversial default browser changes](https://www.theverge.com/2021/12/3/22815209/microsoft-windows-11-default-browser-button-changes)<!-- TECH:END -->
+ - [Verizon Business deals: Get a free phone or save up to $1,200](https://www.androidauthority.com/verizon-business-deals-3070500/)
+ - [Web3 Is Silicon Valley’s Rosy Vision of the Future](https://www.wired.com/story/gadget-lab-podcast-531)
+ - [Meta’s Biggest Encryption Mistake Is What It Promised](https://www.wired.com/story/meta-end-to-end-encryption-delay)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
