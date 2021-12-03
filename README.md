@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Legend of Korra actor Janet Varney reflects on everything she grappled with in playing the Avatar](https://www.polygon.com/22814660/legend-of-korra-janet-varney-avatar-airbender-interview-blu-ray-set)
- - [Take Control of Spectacular Motorsport when Grid Legends Launches February 25](https://news.xbox.com/en-us/2021/12/03/grid-legends-launches-february-25/)
- - [GTA Online’s outlaw biker gang role-players also love a well-kept lawn](https://www.polygon.com/22787651/gta-online-roleplay-new-day-black-lotus-motorcycle-club-mirror-park-hoa)<!-- GAME:END -->
+ - [Crazy Athletics Is Available Now for Xbox Series X|S, Xbox One and PC](https://news.xbox.com/en-us/2021/12/03/crazy-athletics-is-available-now-for-xbox-series-xs-xbox-one-and-pc/)
+ - [The Game Awards 2021: Everything you need to know](https://www.polygon.com/22816160/game-awards-2021-nominees-what-time-how-to-watch)
+ - [GameStop sale offers great deals on board games, D&amp;D books](https://www.polygon.com/deals/22816194/dungeons-and-dragons-board-game-sale-ticket-to-ride-gamestop)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
