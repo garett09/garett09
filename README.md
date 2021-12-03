@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [6 new movies and shows to stream this weekend: The Power of the Dog and more](https://www.androidauthority.com/best-new-movies-shows-to-stream-netflix-disney-plus-hbo-max-amazon-prime-3064782/)
- - [Once you’re done with Arcane, play this League of Legends RPG](https://www.theverge.com/22815884/league-of-legends-ruined-king-rpg)
- - [Sources: Apple notified at least nine US State Department employees that their iPhones were hacked using NSO&#39;s software in the past several months &lpar;Reuters&rpar;](http://www.techmeme.com/211203/p14#a211203p14)<!-- TECH:END -->
+ - [Facebook took down a fake Swiss scientist account that was part of an international misinfo campaign](https://www.theverge.com/2021/12/3/22815906/facebook-meta-instagram-fake-swiss-scientist-account-china-misinformation)
+ - [Walmart’s in-store Gamer Drop might be your best shot at a PS5, Xbox, or Switch OLED](https://www.theverge.com/2021/12/3/22816004/ps5-xbox-series-x-switch-walmart-gamer-drop-restock)
+ - [Sources: Sony plans to launch a subscription service, codenamed Spartacus, next spring that merges PlayStation Plus and Now, to compete with Xbox Game Pass &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/211203/p16#a211203p16)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
