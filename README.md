@@ -193,7 +193,7 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Champ](http://9gag.com/gag/azejzGx)
+ - 🚖 [This face](http://9gag.com/gag/aegGwAj)
  - 🚯 [Zapfenstreich &lpar;&amp;quot;Grand Tattoo&amp;quot;&rpar; ceremony, German Chancellor Merkel receives the formal military goodbye.](http://9gag.com/gag/aPZDLvQ)
  - 🚯 [They installed a roundabout in Kentucky. It did not go well](http://9gag.com/gag/ay9dAzy)<!-- MEMES:END -->
 
