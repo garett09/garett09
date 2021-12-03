@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google TV’s much-requested user profiles feature delayed](https://www.androidauthority.com/google-tv-profiles-delay-3071024/)
- - [Apple hourly workers feel helpless under punishing pressure &amp; mistreatment](https://appleinsider.com/articles/21/12/02/apple-hourly-workers-feel-helpless-under-punishing-pressure-mistreatment?utm_medium=rss)
- - [Twitter CEO Parag Agrawal announces a major reorganization, in which head of engineering Michael Montano and design lead Dantley Davis will step down &lpar;Washington Post&rpar;](http://www.techmeme.com/211203/p18#a211203p18)<!-- TECH:END -->
+ - [Nest Doorbells will sound a little more melodious this holiday season](https://www.theverge.com/2021/12/3/22816028/google-nest-doorbell-holiday-ringtones-return)
+ - [Today I learned you can surf YouTube on old Chromecasts with a hidden phone remote](https://www.theverge.com/2021/12/3/22816424/youtube-chromecast-update-phone-remote-control)
+ - [Best gaming laptop in 2021: seven laptops to get your game on](https://www.theverge.com/22295181/best-gaming-laptop)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
