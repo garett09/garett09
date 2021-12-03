@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [FBI says the &quot;Cuba Ransomware&quot; gang earned about $43.9M from ransom payments and breached at least 49 US critical infrastructure organizations this year &lpar;Catalin Cimpanu/The Record&rpar;](http://www.techmeme.com/211203/p17#a211203p17)
- - [Facebook Messenger is getting a built-in bill splitting feature](https://www.theverge.com/2021/12/3/22815981/facebook-messenger-bill-splitting-feature-meta-group-effects)
- - [Best Mac Mini deals: Save $80 on the 512GB model     - CNET](https://www.cnet.com/tech/computing/best-mac-mini-deals-save-80-on-the-512gb-model/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google TV’s much-requested user profiles feature delayed](https://www.androidauthority.com/google-tv-profiles-delay-3071024/)
+ - [Apple hourly workers feel helpless under punishing pressure &amp; mistreatment](https://appleinsider.com/articles/21/12/02/apple-hourly-workers-feel-helpless-under-punishing-pressure-mistreatment?utm_medium=rss)
+ - [Twitter CEO Parag Agrawal announces a major reorganization, in which head of engineering Michael Montano and design lead Dantley Davis will step down &lpar;Washington Post&rpar;](http://www.techmeme.com/211203/p18#a211203p18)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
