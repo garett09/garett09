@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Records show at least three US federal agencies bought Lorex video surveillance equipment from Chinese firm Dahua Technology despite a government ban &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/211202/p40#a211202p40)
- - [US prosecutors charge two men with running a music royalty scam, collecting $20M+ from YouTube, by falsely claiming rights to 50,000 Spanish language songs &lpar;Lukas I. Alpert/MarketWatch&rpar;](http://www.techmeme.com/211202/p39#a211202p39)
- - [Apple debuts &#39;From Apple Music With Love&#39; featuring exclusive gifts for subscribers](https://appleinsider.com/articles/21/12/03/apple-debuts-from-apple-music-with-love-featuring-exclusive-gifts-for-subscribers?utm_medium=rss)<!-- TECH:END -->
+ - [The next N64 game for Nintendo Switch Online is Paper Mario](https://www.theverge.com/2021/12/3/22815382/n64-switch-paper-mario-release-date-announced)
+ - [British asset manager Abrdn to buy Interactive Investor, an online investment platform, for $1.98B in cash &lpar;Reuters&rpar;](http://www.techmeme.com/211202/p41#a211202p41)
+ - [FTC suit says Nvidia&#39;s $40B Arm acquisition would hurt rival chipmakers     - CNET](https://www.cnet.com/tech/ftc-sues-to-block-nvidias-40b-arm-acquisition/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
