@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [In Japan, Snacks Keep Getting Smaller And It Sucks](https://kotaku.com/in-japan-snacks-keep-getting-smaller-and-it-sucks-1848154807)
  - [&lpar;For Southeast Asia&rpar; PlayStation®Partner Awards 2021 Japan Asia Winners Announced!](https://blog.playstation.com/2021/12/03/20211203-pspawards-4/)
- - [&lpar;For Southeast Asia&rpar; PlayStation®Partner Awards 2021 Japan Asia Winners Announced!](https://blog.playstation.com/2021/12/03/20211203-pspawards-4/)
- - [&lpar;For Southeast Asia&rpar; Genshin Impact Receives PlayStation®Partner Awards 2021 Japan Asia GRAND AWARD!](https://blog.playstation.com/2021/12/03/20211203-pspawards-3/)<!-- GAME:END -->
+ - [&lpar;For Southeast Asia&rpar; PlayStation®Partner Awards 2021 Japan Asia Winners Announced!](https://blog.playstation.com/2021/12/03/20211203-pspawards-4/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
