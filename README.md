@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple debuts &#39;From Apple Music With Love&#39; featuring exclusive gifts for subscribers](https://appleinsider.com/articles/21/12/03/apple-debuts-from-apple-music-with-love-featuring-exclusive-gifts-for-subscribers?utm_medium=rss)
  - [Didi Global says it will begin the process of delisting from the NYSE and listing on the Hong Kong stock exchange &lpar;Reuters&rpar;](http://www.techmeme.com/211202/p38#a211202p38)
- - [Google will wait until the new year to make more return to office plans](https://www.theverge.com/2021/12/2/22814879/google-return-to-office-covid-omicron-hybrid-work-plans-2022)
- - [Someone stole $120 million in crypto by hacking a DeFi website](https://www.theverge.com/2021/12/2/22814849/badgerdao-defi-120-million-hack-bitcoin-ethereum)<!-- TECH:END -->
+ - [Google will wait until the new year to make more return to office plans](https://www.theverge.com/2021/12/2/22814879/google-return-to-office-covid-omicron-hybrid-work-plans-2022)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
