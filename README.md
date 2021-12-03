@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Airtable, a developer of cloud-based collaboration software, is finalizing $700M+ in new funding at an $11.7B valuation &lpar;Berber Jin/The Information&rpar;](http://www.techmeme.com/211203/p20#a211203p20)
- - [Halo Infinite will soon let you stick just to deathmatch](https://www.theverge.com/2021/12/3/22816491/halo-infinite-multiplayer-deathmatch-slayer-dedicated-playlist)
- - [Meta says it is testing a Split Payments feature for Messenger in the US that lets users share the cost of bills and expenses &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/211203/p19#a211203p19)<!-- TECH:END -->
+ - [Disney Plus: What to know about Encanto, Eternals, Hawkeye and everything else     - CNET](https://www.cnet.com/tech/services-and-software/disney-plus-streaming-service-everything-to-know-all-prices-cancel/#ftag=CAD590a51e)
+ - [Google Photos’ Locked Folder is now rolling out to more Android phones](https://www.theverge.com/2021/12/3/22816460/google-photos-locked-folder-sensitive-images-android-phones)
+ - [HBO Max: Movies, shows and whatever happened to its free trial     - CNET](https://www.cnet.com/tech/services-and-software/hbo-max-launch-dates-prices-shows-and-movies-to-expect/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
