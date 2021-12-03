@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Solar Ash and The Pathless are defining a new kind of open-world game](https://www.polygon.com/gaming/22816264/solar-ash-pathless-open-world-games)
- - [In the ferocious drama Wolf, one of today’s best young actors unleashes the beast](https://www.polygon.com/reviews/22816376/wolf-review-george-mackay)
- - [Halo Infinite has a bunch of hidden game modes when you play offline](https://www.pcgamer.com/halo-infinite-has-a-bunch-of-hidden-game-modes-when-you-play-offline)<!-- GAME:END -->
+ - [Quake just got an official Horde Mode, in the year 2021](https://www.polygon.com/22816393/quake-horde-mode-update-remake-first-person-shooter-bethesda)
+ - [Let’s Pick Winners For The 2021 Game Awards](https://kotaku.com/let-s-pick-winners-for-the-2021-game-awards-1848158200)
+ - [Halo Infinite&#39;s Multiplayer Is About To Get Much Better With New Playlists](https://kotaku.com/halo-infinites-multiplayer-is-about-to-get-much-better-1848158876)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
