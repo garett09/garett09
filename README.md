@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Biker making this lady&amp;rsquo;s day](http://9gag.com/gag/azejvnj)
- - 🚯 [Yes](http://9gag.com/gag/aKmqyVO)
- - 🚯 [The best way to save a man from killing himself](http://9gag.com/gag/aegGqLb)<!-- MEMES:END -->
+ - 🚖 [Yes](http://9gag.com/gag/aKmqyVO)
+ - 🚯 [The best way to save a man from killing himself](http://9gag.com/gag/aegGqLb)
+ - 🚯 [Woman kicks a random person&amp;#039;s car](http://9gag.com/gag/arnKEqB)<!-- MEMES:END -->
 
 --- 
 
