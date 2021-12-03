@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Signal user? You can now be a Signal Sustainer by donating](https://www.androidauthority.com/signal-app-donate-3070558/)
- - [Singapore-based LingoAce, which helps students learn Mandarin from native speakers, raises a $105M Series C led by Sequoia Capital India &lpar;Kul Bhushan/Tech in Asia&rpar;](http://www.techmeme.com/211203/p2#a211203p2)
- - [Samsung’s 2019 Galaxy S10 series is getting the One UI 4 beta too](https://www.androidauthority.com/samsung-galaxy-s10-one-ui-4-beta-3070544/)<!-- TECH:END -->
+ - [What is a central bank digital currency &lpar;CBDC&rpar;?](https://www.androidauthority.com/what-is-a-cbdc-guide-2730356/)
+ - [Netflix is turning viral Thanksgiving Mom tweet into a movie](https://www.theverge.com/2021/12/3/22815541/netflix-thanksgiving-mom-viral-twitter-thread-feature-film)
+ - [Signal user? You can now be a Signal Sustainer by donating](https://www.androidauthority.com/signal-app-donate-3070558/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
