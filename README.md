@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Quake just got an official Horde Mode, in the year 2021](https://www.polygon.com/22816393/quake-horde-mode-update-remake-first-person-shooter-bethesda)
- - [Let’s Pick Winners For The 2021 Game Awards](https://kotaku.com/let-s-pick-winners-for-the-2021-game-awards-1848158200)
- - [Halo Infinite&#39;s Multiplayer Is About To Get Much Better With New Playlists](https://kotaku.com/halo-infinites-multiplayer-is-about-to-get-much-better-1848158876)<!-- GAME:END -->
+ - [Halo Infinite getting new multiplayer playlists, including SWAT and Slayer](https://www.polygon.com/22816601/halo-infinite-multiplayer-playlist-update-social-slayer-swat-ffa)
+ - [Get Ready for the Alien Invasion. Timothy vs the Aliens Lands on Xbox One](https://news.xbox.com/en-us/2021/12/03/timothy-vs-the-aliens-lands-on-xbox-one/)
+ - [Final Fantasy 14: Endwalker players are waiting in long lines to go to the moon](https://www.pcgamer.com/final-fantasy-14-endwalker-players-are-waiting-in-long-lines-to-go-to-the-moon)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
