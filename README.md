@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Me nowadays after a break up.](http://9gag.com/gag/axBjryM)
- - 🚯 [D/dx? I need to see the manager](http://9gag.com/gag/ay9dKAp)
- - 🚯 [Savage](http://9gag.com/gag/a5173Ar)<!-- MEMES:END -->
+ - 🚖 [I said GIT!](http://9gag.com/gag/a81MgRY)
+ - 🚯 [Isn&amp;#039;t it true!](http://9gag.com/gag/ay9dKmp)
+ - 🚯 [Post titties](http://9gag.com/gag/amg9Zzd)<!-- MEMES:END -->
 
 --- 
 
