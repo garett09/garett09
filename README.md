@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best deals Dec. 3: $109 AirPods, $50 off CalDigit TS3 Plus, Intel MacBook Pro sale, more!](https://appleinsider.com/articles/21/12/03/best-deals-dec-3-109-airpods-50-off-caldigit-ts3-plus-intel-macbook-pro-sale-more?utm_medium=rss)
- - [DocuSign reports Q3 revenue of $545.5M, up 42% YoY, with subscription revenue of $528.6M, up 44%, and 1.11M customers; stock is down 35%+ after weak Q4 guidance &lpar;Ari Levy/CNBC&rpar;](http://www.techmeme.com/211203/p10#a211203p10)
- - [Jack Dorsey’s Twitter Failed African Countries](https://www.wired.com/story/jack-dorseys-twitter-failed-african-countries)<!-- TECH:END -->
+ - [Last day: Babbel&#39;s Lifetime Language Learning Subscription drops to $179 &lpar;$320 off&rpar;](https://appleinsider.com/articles/21/11/19/best-price-ever-babbels-lifetime-language-learning-subscription-drops-to-179-320-off?utm_medium=rss)
+ - [Google says it will not require employees to return to US offices on January 10 as expected, but encourages employees to come in to build &quot;muscle memory&quot; &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/211203/p12#a211203p12)
+ - [How to download an old macOS installer](https://appleinsider.com/articles/21/12/03/how-to-download-an-old-macos-installer?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
