@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Verizon Business deals: Get a free phone or save up to $1,200](https://www.androidauthority.com/verizon-business-deals-3070500/)
- - [Web3 Is Silicon Valley’s Rosy Vision of the Future](https://www.wired.com/story/gadget-lab-podcast-531)
- - [Meta’s Biggest Encryption Mistake Is What It Promised](https://www.wired.com/story/meta-end-to-end-encryption-delay)<!-- TECH:END -->
+ - [How to Use Your Smartphone as a Hot Spot](https://www.wired.com/story/how-to-use-smartphone-as-wifi-hotspot)
+ - [2021’s Spotify Wrapped Is a Haunting, Hilarious Time Capsule](https://www.wired.com/story/spotify-wrapped-depressed)
+ - [Subscriptions Are Eating My Paycheck!](https://www.wired.com/story/plaintext-subscriptions-eating-my-paycheck)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
