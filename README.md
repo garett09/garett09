@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Unnerving](http://9gag.com/gag/aQX8LRw)
- - 🚯 [Yo mamma](http://9gag.com/gag/aDDoy39)
- - 🚯 [The little slaps at the end are the best](http://9gag.com/gag/avAPM75)<!-- MEMES:END -->
+ - 🚖 [Yo mamma](http://9gag.com/gag/aDDoy39)
+ - 🚯 [The little slaps at the end are the best](http://9gag.com/gag/avAPM75)
+ - 🚯 [What men really want](http://9gag.com/gag/aQX8WAW)<!-- MEMES:END -->
 
 --- 
 
