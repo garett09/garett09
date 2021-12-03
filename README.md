@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Facebook took down a fake Swiss scientist account that was part of an international misinfo campaign](https://www.theverge.com/2021/12/3/22815906/facebook-meta-instagram-fake-swiss-scientist-account-china-misinformation)
- - [Walmart’s in-store Gamer Drop might be your best shot at a PS5, Xbox, or Switch OLED](https://www.theverge.com/2021/12/3/22816004/ps5-xbox-series-x-switch-walmart-gamer-drop-restock)
- - [Sources: Sony plans to launch a subscription service, codenamed Spartacus, next spring that merges PlayStation Plus and Now, to compete with Xbox Game Pass &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/211203/p16#a211203p16)<!-- TECH:END -->
+ - [FBI says the &quot;Cuba Ransomware&quot; gang earned about $43.9M from ransom payments and breached at least 49 US critical infrastructure organizations this year &lpar;Catalin Cimpanu/The Record&rpar;](http://www.techmeme.com/211203/p17#a211203p17)
+ - [Facebook Messenger is getting a built-in bill splitting feature](https://www.theverge.com/2021/12/3/22815981/facebook-messenger-bill-splitting-feature-meta-group-effects)
+ - [Best Mac Mini deals: Save $80 on the 512GB model     - CNET](https://www.cnet.com/tech/computing/best-mac-mini-deals-save-80-on-the-512gb-model/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
