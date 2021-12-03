@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Exhilarating Space Shooter Chorus is Available Now for Xbox One and Xbox Series X|S](https://news.xbox.com/en-us/2021/12/03/chorus-available-now-xbox-one-and-xbox-series-xs/)
- - [Marvel’s Secret Invasion is building a cast fit for an Avengers movie](https://www.polygon.com/22814034/secret-invasion-marvel-cast-release)
- - [Sony has an Xbox Game Pass competitor coming to PS4 and PS5, new report says](https://www.polygon.com/22816084/playstation-plus-spartacus-xbox-game-pass-competitor-ps-now)<!-- GAME:END -->
+ - [Legend of Korra actor Janet Varney reflects on everything she grappled with in playing the Avatar](https://www.polygon.com/22814660/legend-of-korra-janet-varney-avatar-airbender-interview-blu-ray-set)
+ - [Take Control of Spectacular Motorsport when Grid Legends Launches February 25](https://news.xbox.com/en-us/2021/12/03/grid-legends-launches-february-25/)
+ - [GTA Online’s outlaw biker gang role-players also love a well-kept lawn](https://www.polygon.com/22787651/gta-online-roleplay-new-day-black-lotus-motorcycle-club-mirror-park-hoa)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
