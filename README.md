@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Paper Mario Is The Next Nintendo Switch Online N64 Game](https://kotaku.com/paper-mario-is-the-next-nintendo-switch-online-n64-game-1848153765)
- - [I Like The Steam Deck&#39;s Box Art](https://kotaku.com/i-like-the-steam-decks-box-art-1848153413)
- - [Destiny 2&#39;s event for Bungie&#39;s 30th anniversary brings major armor changes that will enable full loadout swapping](https://www.pcgamer.com/destiny-2s-event-for-bungies-30th-anniversary-brings-major-armor-changes-that-will-enable-full-loadout-swapping)<!-- GAME:END -->
+ - [&lpar;For Southeast Asia&rpar; PlayStation®Partner Awards 2021 Japan Asia PARTNER AWARD &amp; SPECIAL AWARD Winners Announced!](https://blog.playstation.com/2021/12/02/20211202-psawards/)
+ - [&lpar;For Southeast Asia&rpar; PlayStation®Partner Awards 2021 Japan Asia PARTNER AWARD &amp; SPECIAL AWARD Winners Announced!](https://blog.playstation.com/2021/12/02/20211202-psawards/)
+ - [Cyberpunk twin-stick shooter The Ascent gets free transmog](https://www.pcgamer.com/cyberpunk-twin-stick-shooter-the-ascent-gets-free-transmog)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
