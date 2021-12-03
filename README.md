@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Zoom might pay you $25 as part of a class-action settlement](https://www.theverge.com/2021/12/2/22814758/zoom-class-action-lawsuit-zoombombing-encryption-settled)
- - [Crunchbase: investments in crypto-based gaming and commerce startups increased 26x YoY, totaling $3.7B so far in 2021 &lpar;Berber Jin/The Information&rpar;](http://www.techmeme.com/211202/p35#a211202p35)
- - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)<!-- TECH:END -->
+ - [A look at the Xbox Series X and PS5 markets, as holiday shoppers navigate a world of &quot;purchase bot&quot; resellers, retail memberships, and social media tips &lpar;New York Times&rpar;](http://www.techmeme.com/211202/p37#a211202p37)
+ - [All 53,000 attendees of Anime NYC urged to get tested after one got Omicron](https://www.theverge.com/22814974/anime-nyc-omicron-case-coronavirus-covid-19-superspreader)
+ - [Google reportedly re-evaluates January 10th return to office](https://www.theverge.com/2021/12/2/22814879/google-return-to-office-covid-omicron-hybrid-work-plans-2022)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
