@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Lawless and rowdy.](http://9gag.com/gag/aRrAW5y)
- - 🚯 [That&amp;#039;s me now](http://9gag.com/gag/aDDovnG)
- - 🚯 [Lego engineering](http://9gag.com/gag/aYre507)<!-- MEMES:END -->
+ - 🚖 [Dont mess with Jesus](http://9gag.com/gag/a717xKw)
+ - 🚯 [Brutal](http://9gag.com/gag/aDDovdd)
+ - 🚯 [Post titties](http://9gag.com/gag/amg9Zzd)<!-- MEMES:END -->
 
 --- 
 
