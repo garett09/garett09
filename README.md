@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [US prosecutors charge two men with running a music royalty scam, collecting $20M+ from YouTube, by falsely claiming rights to 50,000 Spanish language songs &lpar;Lukas I. Alpert/MarketWatch&rpar;](http://www.techmeme.com/211202/p39#a211202p39)
  - [Apple debuts &#39;From Apple Music With Love&#39; featuring exclusive gifts for subscribers](https://appleinsider.com/articles/21/12/03/apple-debuts-from-apple-music-with-love-featuring-exclusive-gifts-for-subscribers?utm_medium=rss)
- - [Didi Global says it will begin the process of delisting from the NYSE and listing on the Hong Kong stock exchange &lpar;Reuters&rpar;](http://www.techmeme.com/211202/p38#a211202p38)
- - [Google will wait until the new year to make more return to office plans](https://www.theverge.com/2021/12/2/22814879/google-return-to-office-covid-omicron-hybrid-work-plans-2022)<!-- TECH:END -->
+ - [Didi Global says it will begin the process of delisting from the NYSE and listing on the Hong Kong stock exchange &lpar;Reuters&rpar;](http://www.techmeme.com/211202/p38#a211202p38)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
