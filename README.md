@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [D/dx? I need to see the manager](http://9gag.com/gag/ay9dKAp)
- - 🚯 [At least he was wearing a mask](http://9gag.com/gag/aDDoe0G)
- - 🚯 [Should be a new form of currency](http://9gag.com/gag/a6170r8)<!-- MEMES:END -->
+ - 🚖 [There are still sane people out there!](http://9gag.com/gag/aE874NO)
+ - 🚯 [That&amp;#039;s my boy](http://9gag.com/gag/aWg63LA)
+ - 🚯 [German WWI veteran describes killing a French soldier](http://9gag.com/gag/abg0nG9)<!-- MEMES:END -->
 
 --- 
 
