@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Acclaimed board game Root is a resounding success on Nintendo Switch](https://www.polygon.com/reviews/22814689/root-switch-review-board-game-adaptation)
- - [This Steam Chart Topper Is A Rare Treat For Western Mech Fans](https://kotaku.com/this-steam-chart-topper-is-a-rare-treat-for-western-mec-1848156228)
- - [Which job should you choose in Final Fantasy XIV?](https://www.pcgamer.com/ffxiv-classes-jobs-guide)<!-- GAME:END -->
+ - [New Warzone map: Everything we know](https://www.pcgamer.com/new-warzone-map)
+ - [Share of the Week: Glowing](https://blog.playstation.com/2021/12/03/share-of-the-week-glowing/)
+ - [Share of the Week: Glowing](https://blog.playstation.com/2021/12/03/share-of-the-week-glowing/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
