@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Users and experts reveal Clubhouse&#39;s content moderation struggles in India, amid a deluge of 18+ rooms, adult content, harassment and bullying on the platform &lpar;Swathi Moorthy/Moneycontrol&rpar;](http://www.techmeme.com/211204/p4#a211204p4)
  - [Babbel&#39;s Lifetime Language Learning Subscription drops to $179 &lpar;$320 off&rpar;](https://appleinsider.com/articles/21/11/19/best-price-ever-babbels-lifetime-language-learning-subscription-drops-to-179-320-off?utm_medium=rss)
- - [Snapdragon 8 Gen 1 vs Dimensity 9000: Battle of the arch-rivals](https://www.androidauthority.com/snapdragon-8-gen-1-vs-dimensity-9000-3068838/)
- - [The best Google Pixel 6 Pro hybrid cases](https://www.androidauthority.com/pixel-6-pro-hybrid-regular-cases-3068761/)<!-- TECH:END -->
+ - [Snapdragon 8 Gen 1 vs Dimensity 9000: Battle of the arch-rivals](https://www.androidauthority.com/snapdragon-8-gen-1-vs-dimensity-9000-3068838/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
