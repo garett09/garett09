@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best Google Pixel 6 Pro hybrid cases](https://www.androidauthority.com/pixel-6-pro-hybrid-regular-cases-3068761/)
  - [Spotify Wrapped&#39;s cultural significance reveals how algorithms influence our self-conception and how we in turn perform for Spotify&#39;s construction of ourselves &lpar;Kelly Pau/Vox&rpar;](http://www.techmeme.com/211204/p3#a211204p3)
- - [Profile of Roblox CEO David Baszucki, aka &quot;builderman&quot; on Roblox, who sees his company playing a significant role in the metaverse &lpar;Bloomberg&rpar;](http://www.techmeme.com/211204/p2#a211204p2)
- - [Biden administration accelerates efforts to fill cybersecurity positions, as a job-tracking database funded by the US Commerce Department shows ~600K openings &lpar;Sophia Cai/Axios&rpar;](http://www.techmeme.com/211204/p1#a211204p1)<!-- TECH:END -->
+ - [Profile of Roblox CEO David Baszucki, aka &quot;builderman&quot; on Roblox, who sees his company playing a significant role in the metaverse &lpar;Bloomberg&rpar;](http://www.techmeme.com/211204/p2#a211204p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
