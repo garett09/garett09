@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Mount Semeru &lpar;Indonesia&rpar;](http://9gag.com/gag/a41YMNp)
- - 🚯 [Mount Semeru; East Java, Indonesia](http://9gag.com/gag/aQX8Yr8)
- - 🚯 [Aiii!](http://9gag.com/gag/amg9Dm2)<!-- MEMES:END -->
+ - 🚖 [Aiii!](http://9gag.com/gag/amg9Dm2)
+ - 🚯 [Crypto Currency](http://9gag.com/gag/aXrwZZ9)
+ - 🚯 [Mount Semeru; East Java, Indonesia](http://9gag.com/gag/aQX8Yr8)<!-- MEMES:END -->
 
 --- 
 
