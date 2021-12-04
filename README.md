@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [&amp;quot;marijuana brings out the worst in people&amp;quot; also... marijuana...](http://9gag.com/gag/azej0Pq)
- - 🚯 [Getting old in a nutshell](http://9gag.com/gag/aOQVwy2)
- - 🚯 [Someone made a mistake and gas was priced at 0.014&amp;euro;/l and some guy filled a 1000l canister in Finland](http://9gag.com/gag/aVxPpOw)<!-- MEMES:END -->
+ - 🚖 [Epic Banjo fight in London train.](http://9gag.com/gag/a0Zp2EZ)
+ - 🚯 [&amp;quot;marijuana brings out the worst in people&amp;quot; also... marijuana...](http://9gag.com/gag/azej0Pq)
+ - 🚯 [Almost 40 and started a one man band writing music for a genre that was popular in the late 90s](http://9gag.com/gag/a917o9K)<!-- MEMES:END -->
 
 --- 
 
