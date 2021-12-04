@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Superman: Al Rajol Al khareq](http://9gag.com/gag/azejNmZ)
- - 🚯 [The right thing to do...](http://9gag.com/gag/abg09PX)
- - 🚯 [Oh I hope she has Botox lips](http://9gag.com/gag/a9179dL)<!-- MEMES:END -->
+ - 🚖 [Best upgrade for old laptops](http://9gag.com/gag/a617vDA)
+ - 🚯 [How happy kiddo gets!](http://9gag.com/gag/a0ZpAMq)
+ - 🚯 [R.I.P. BIDOOF](http://9gag.com/gag/a517m9g)<!-- MEMES:END -->
 
 --- 
 
