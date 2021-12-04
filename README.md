@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Clearview AI wins a US patent for facial recognition technology that the company says is the first to cover a &quot;search engine for faces&quot; &lpar;Alexandra S. Levine/Politico&rpar;](http://www.techmeme.com/211204/p8#a211204p8)
- - [The FTC Sues Nvidia to Block Its Historic Deal With Arm](https://www.wired.com/story/ftc-sues-nvidia-arm-deal)
- - [Profile of eGirl Capital, a VC firm run by 12 anonymous cartoon characters and two &quot;doxxed&quot; individuals, that has so far invested up to $10M in crypto projects &lpar;Ben Munster/Decrypt&rpar;](http://www.techmeme.com/211204/p7#a211204p7)<!-- TECH:END -->
+ - [Spotify removed the work of hundreds of comedians, including John Mulaney and Kevin Hart, amid a fight with royalty administration agency Spoken Giants &lpar;Anne Steele/Wall Street Journal&rpar;](http://www.techmeme.com/211204/p9#a211204p9)
+ - [Twitter reportedly suspended accounts by mistake after extremists abused new private media policy](https://www.theverge.com/2021/12/4/22817386/twitter-suspended-accounts-extremists)
+ - [Clearview AI is set to win a US patent for facial recognition technology that the company says is the first to cover a &quot;search engine for faces&quot; &lpar;Alexandra S. Levine/Politico&rpar;](http://www.techmeme.com/211204/p8#a211204p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
