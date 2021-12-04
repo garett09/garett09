@@ -193,7 +193,7 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Today I open my own business. It&amp;#039;s not much but I&amp;#039;m so happy.](http://9gag.com/gag/azej6xm)
+ - 🚖 [Making a coffee table out of pallet wood, with a plywood base](http://9gag.com/gag/avAnpEd)
  - 🚯 [When you walk into a small town gas station wearing a mask](http://9gag.com/gag/aDDGRLO)
  - 🚯 [Clean your lens girl! We can&amp;#039;t see clearly](http://9gag.com/gag/a51rpMy)<!-- MEMES:END -->
 
