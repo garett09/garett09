@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Google Pixel 6 Pro hybrid cases](https://www.androidauthority.com/pixel-6-pro-hybrid-regular-cases-3068761/)
- - [Spotify Wrapped&#39;s cultural significance reveals how algorithms influence our self-conception and how we in turn perform for Spotify&#39;s construction of ourselves &lpar;Kelly Pau/Vox&rpar;](http://www.techmeme.com/211204/p3#a211204p3)
- - [Profile of Roblox CEO David Baszucki, aka &quot;builderman&quot; on Roblox, who sees his company playing a significant role in the metaverse &lpar;Bloomberg&rpar;](http://www.techmeme.com/211204/p2#a211204p2)<!-- TECH:END -->
+ - [Babbel&#39;s Lifetime Language Learning Subscription drops to $179 &lpar;$320 off&rpar;](https://appleinsider.com/articles/21/11/19/best-price-ever-babbels-lifetime-language-learning-subscription-drops-to-179-320-off?utm_medium=rss)
+ - [Snapdragon 8 Gen 1 vs Dimensity 9000: Battle of the arch-rivals](https://www.androidauthority.com/snapdragon-8-gen-1-vs-dimensity-9000-3068838/)
+ - [The best Google Pixel 6 Pro hybrid cases](https://www.androidauthority.com/pixel-6-pro-hybrid-regular-cases-3068761/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
