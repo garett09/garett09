@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Profile of eGirl Capital, a VC firm run by 12 anonymous cartoon characters and two &quot;doxxed&quot; individuals, that has so far invested up to $10M in crypto projects &lpar;Ben Munster/Decrypt&rpar;](http://www.techmeme.com/211204/p7#a211204p7)
- - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-409-3071021/)
- - [Sonoma State University to hand iPads to students in spring 2022](https://appleinsider.com/articles/21/12/04/sonoma-state-university-to-hand-ipads-to-students-in-spring-2022?utm_medium=rss)<!-- TECH:END -->
+ - [Clearview AI wins a US patent for facial recognition technology that the company says is the first to cover a &quot;search engine for faces&quot; &lpar;Alexandra S. Levine/Politico&rpar;](http://www.techmeme.com/211204/p8#a211204p8)
+ - [The FTC Sues Nvidia to Block Its Historic Deal With Arm](https://www.wired.com/story/ftc-sues-nvidia-arm-deal)
+ - [Profile of eGirl Capital, a VC firm run by 12 anonymous cartoon characters and two &quot;doxxed&quot; individuals, that has so far invested up to $10M in crypto projects &lpar;Ben Munster/Decrypt&rpar;](http://www.techmeme.com/211204/p7#a211204p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
