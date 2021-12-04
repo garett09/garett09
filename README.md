@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Disney Plus: What to know about Encanto, Eternals, Hawkeye and everything else     - CNET](https://www.cnet.com/tech/services-and-software/disney-plus-streaming-service-everything-to-know-all-prices-cancel/#ftag=CAD590a51e)
- - [Google Photos’ Locked Folder is now rolling out to more Android phones](https://www.theverge.com/2021/12/3/22816460/google-photos-locked-folder-sensitive-images-android-phones)
- - [HBO Max: Movies, shows and whatever happened to its free trial     - CNET](https://www.cnet.com/tech/services-and-software/hbo-max-launch-dates-prices-shows-and-movies-to-expect/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Meta must improve its existing content-oblivious harm-reduction mechanisms, limit recommendation engines and discoverability, and more, before implementing e2ee &lpar;David Thiel/Wired&rpar;](http://www.techmeme.com/211203/p22#a211203p22)
+ - [It’s the last Bandcamp Friday of 2021](https://www.theverge.com/2021/12/3/22816519/it-is-bandcamp-friday-but-maybe-not-again-after-today)
+ - [Google TV’s nifty new personalized profiles have been delayed](https://www.theverge.com/2021/12/3/22816719/google-tv-profiles-delayed)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
