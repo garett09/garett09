@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [R.I.P. BIDOOF](http://9gag.com/gag/a517m9g)
- - 🚯 [How happy kiddo gets!](http://9gag.com/gag/a0ZpAMq)
- - 🚯 [Finally a dance move that TikTok cannot copy.](http://9gag.com/gag/a21mB61)<!-- MEMES:END -->
+ - 🚖 [How happy kiddo gets!](http://9gag.com/gag/a0ZpAMq)
+ - 🚯 [Stop horsing around](http://9gag.com/gag/azejNKB)
+ - 🚯 [How an anime was made years ago](http://9gag.com/gag/aKmq0bb)<!-- MEMES:END -->
 
 --- 
 
