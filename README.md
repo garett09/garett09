@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Fortnite island flipped over during Chapter 2’s final event](https://www.theverge.com/2021/12/4/22815391/fortnite-the-end-event-chapter-2-recap-highlights-news)
- - [Activision Blizzard won’t play a part at The Game Awards this year](https://www.theverge.com/2021/12/4/22817651/activision-blizzard-the-game-awards-harassment)
- - [These are the Mac features exclusive to Apple Silicon](https://appleinsider.com/articles/21/12/04/these-are-the-mac-features-exclusive-to-apple-silicon?utm_medium=rss)<!-- TECH:END -->
+ - [What we know about The Marvelous Mrs Maisel Season 4](https://www.androidauthority.com/marvelous-mrs-maisel-season-4-3070384/)
+ - [Best deals Dec. 4: $979 11-inch iPad Pro, $148 Respawn gaming chair, Lego Star Wars Droid, more!](https://appleinsider.com/articles/21/12/04/best-deals-dec-4-979-11-inch-ipad-pro-148-respawn-gaming-chair-lego-star-wars-droid-more?utm_medium=rss)
+ - [The Fortnite island flipped over during Chapter 2’s final event](https://www.theverge.com/2021/12/4/22815391/fortnite-the-end-event-chapter-2-recap-highlights-news)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
