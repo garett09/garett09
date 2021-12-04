@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ah yes, the GF we need](http://9gag.com/gag/aOQV69N)
- - 🚯 [The second I hit 30.](http://9gag.com/gag/aGzDY16)
- - 🚯 [When you walk into a small town gas station wearing a mask](http://9gag.com/gag/aDDGRLO)<!-- MEMES:END -->
+ - 🚖 [Today I open my own business. It&amp;#039;s not much but I&amp;#039;m so happy.](http://9gag.com/gag/azej6xm)
+ - 🚯 [When you walk into a small town gas station wearing a mask](http://9gag.com/gag/aDDGRLO)
+ - 🚯 [Clean your lens girl! We can&amp;#039;t see clearly](http://9gag.com/gag/a51rpMy)<!-- MEMES:END -->
 
 --- 
 
