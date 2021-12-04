@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Jim can&amp;rsquo;t choose](http://9gag.com/gag/angNmr5)
+ - 🚖 [&amp;quot;Alice in Wonderland&amp;quot;, a dessert made by Reynold Poernomo](http://9gag.com/gag/apgvWEp)
  - 🚯 [UFO burger is made in that machine so it is sealed and doesnt spill when you bite into it](http://9gag.com/gag/aDDoyqd)
- - 🚯 [So far&amp;hellip;](http://9gag.com/gag/aegGvMb)<!-- MEMES:END -->
+ - 🚯 [My work had a &amp;#039;Christmas Tree&amp;#039; Decorating Contest. This is my submission. I&amp;#039;m quite proud! A few people have expressed that it&amp;#039;s not &amp;#039;Christmasy&amp;#039; enough](http://9gag.com/gag/awzxwQy)<!-- MEMES:END -->
 
 --- 
 
