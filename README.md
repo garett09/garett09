@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Profile of Twitch streamer Tyler Steinkamp, including the loneliness and rage that comes with streaming game battles and real-world moments for 50 hours a week &lpar;Drew Harwell/Washington Post&rpar;](http://www.techmeme.com/211204/p5#a211204p5)
- - [Snapdragon 8 Gen 1 vs Google Tensor: Is the Pixel 6 outdated already?](https://www.androidauthority.com/snapdragon-8-gen-1-vs-google-tensor-3066318/)
- - [Can Gambia Turn the Tide to Save Its Shrinking Beaches?](https://www.wired.com/story/can-the-gambia-turn-the-tide-to-save-its-shrinking-beaches)<!-- TECH:END -->
+ - [Buy two Nintendo Switch games and get one free at Best Buy](https://www.theverge.com/good-deals/2021/12/4/22816014/nintendo-switch-games-asus-zephyrus-gaming-laptop-apple-ipad-pro-deal-sale)
+ - [How to speed up working on macOS Monterey by making windows snap into position](https://appleinsider.com/articles/21/12/04/how-to-speed-up-working-on-macos-monterey-by-making-windows-snap-into-position?utm_medium=rss)
+ - [BoxLunch BOGO: Buy one, get one 50% off on all things fandom for Cyber Week     - CNET](https://www.cnet.com/news/boxlunch-bogo-buy-one-get-one-50-off-on-all-things-fandom-for-cyber-week/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
