@@ -194,8 +194,8 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Neo and Trinity](http://9gag.com/gag/aeg6jxB)
- - 🚯 [It has been two very difficult years, but I managed to open my small bar/restaurant. You&amp;rsquo;re all invited if you ever come to Costa Rica!](http://9gag.com/gag/ang1Y50)
- - 🚯 [Exact people](http://9gag.com/gag/apgLEjE)<!-- MEMES:END -->
+ - 🚯 [Exact people](http://9gag.com/gag/apgLEjE)
+ - 🚯 [Making a coffee table out of pallet wood, with a plywood base](http://9gag.com/gag/avAnpEd)<!-- MEMES:END -->
 
 --- 
 
