@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Epic Banjo fight in London train.](http://9gag.com/gag/a0Zp2EZ)
- - 🚯 [&amp;quot;marijuana brings out the worst in people&amp;quot; also... marijuana...](http://9gag.com/gag/azej0Pq)
- - 🚯 [&amp;quot;Alice in Wonderland&amp;quot;, a dessert made by Reynold Poernomo](http://9gag.com/gag/apgvWEp)<!-- MEMES:END -->
+ - 🚖 [&amp;quot;marijuana brings out the worst in people&amp;quot; also... marijuana...](http://9gag.com/gag/azej0Pq)
+ - 🚯 [Epic Banjo fight in London train.](http://9gag.com/gag/a0Zp2EZ)
+ - 🚯 [No!!! This is cultural appropriation!](http://9gag.com/gag/ajgApBG)<!-- MEMES:END -->
 
 --- 
 
