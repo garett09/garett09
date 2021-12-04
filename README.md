@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Brotherhood of the Wolf and 10 more great movies new to streaming this month](https://www.polygon.com/2021/12/4/22808673/best-new-movies-netflix-amazon-hbo-december-2021)
  - [The Expanse authors were always building toward Leviathan Falls’ world-altering ending](https://www.polygon.com/22816216/expanse-leviathan-falls-ending-james-sa-corey-interview)
- - [No one is dying in my Unsighted playthrough, and that’s fine by me](https://www.polygon.com/gaming/22816186/unsighted-explorer-mode-easy-death-timer)
- - [Georgian Police, the cop game that makes Police Quest seem normal](https://www.pcgamer.com/saturday-crapshoot-georgian-police)<!-- GAME:END -->
+ - [No one is dying in my Unsighted playthrough, and that’s fine by me](https://www.polygon.com/gaming/22816186/unsighted-explorer-mode-easy-death-timer)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
