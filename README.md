@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Georgian Police, the cop game that makes Police Quest seem normal](https://www.pcgamer.com/saturday-crapshoot-georgian-police)
- - [Battlefield has always been controversial](https://www.pcgamer.com/battlefield-has-always-been-controversial)
- - [Activision studio lets go of at least 12 Call of Duty QA testers](https://www.pcgamer.com/activision-studio-lets-go-of-at-least-12-call-of-duty-qa-testers)<!-- GAME:END -->
+ - [The Expanse authors were always building toward Leviathan Falls’ world-altering ending](https://www.polygon.com/22816216/expanse-leviathan-falls-ending-james-sa-corey-interview)
+ - [No one is dying in my Unsighted playthrough, and that’s fine by me](https://www.polygon.com/gaming/22816186/unsighted-explorer-mode-easy-death-timer)
+ - [Georgian Police, the cop game that makes Police Quest seem normal](https://www.pcgamer.com/saturday-crapshoot-georgian-police)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
