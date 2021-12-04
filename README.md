@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Georgian Police, the cop game that makes Police Quest seem normal](https://www.pcgamer.com/saturday-crapshoot-georgian-police)
  - [Battlefield has always been controversial](https://www.pcgamer.com/battlefield-has-always-been-controversial)
- - [Activision studio lets go of at least 12 Call of Duty QA testers](https://www.pcgamer.com/activision-studio-lets-go-of-at-least-12-call-of-duty-qa-testers)
- - [Call of Duty QA Testers Face Layoffs After Reportedly Being Promised Raises By Activision](https://kotaku.com/call-of-duty-qa-testers-face-layoffs-after-reportedly-b-1848159708)<!-- GAME:END -->
+ - [Activision studio lets go of at least 12 Call of Duty QA testers](https://www.pcgamer.com/activision-studio-lets-go-of-at-least-12-call-of-duty-qa-testers)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
