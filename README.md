@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The Rock Turns Fortnite&#39;s Island Upside-Down In &#39;The End&#39;](https://kotaku.com/the-rock-turns-fortnites-island-upside-down-in-the-end-1848161793)
  - [How much free storage space have you got on your PC?](https://www.pcgamer.com/how-much-free-storage-space-have-you-got-on-your-pc)
- - [Everything we know about Fortnite Chapter 3](https://www.pcgamer.com/fortnite-chapter-3)
- - [Fortnite is down as Chapter 2 comes to close](https://www.polygon.com/22816584/fortnite-down-offline-chapter-2-season-8-end-epic-games-the-rock)<!-- GAME:END -->
+ - [Everything we know about Fortnite Chapter 3](https://www.pcgamer.com/fortnite-chapter-3)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
