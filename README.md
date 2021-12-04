@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Buy two Nintendo Switch games and get one free at Best Buy](https://www.theverge.com/good-deals/2021/12/4/22816014/nintendo-switch-games-asus-zephyrus-gaming-laptop-apple-ipad-pro-deal-sale)
- - [How to speed up working on macOS Monterey by making windows snap into position](https://appleinsider.com/articles/21/12/04/how-to-speed-up-working-on-macos-monterey-by-making-windows-snap-into-position?utm_medium=rss)
- - [BoxLunch BOGO: Buy one, get one 50% off on all things fandom for Cyber Week     - CNET](https://www.cnet.com/news/boxlunch-bogo-buy-one-get-one-50-off-on-all-things-fandom-for-cyber-week/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Samsung Galaxy S20 FE one year later: Is it still worth buying?](https://www.androidauthority.com/samsung-galaxy-s20-fe-long-term-review-3061563/)
+ - [Best holiday shopping deals: Huge savings at Amazon, Target, Walmart and more     - CNET](https://www.cnet.com/tech/best-cyber-monday-deals-still-available/#ftag=CAD590a51e)
+ - [Best deals Dec. 4: $979 11-inch iPad Pro, $148 Respawn gaming chair, Lego Star Wars Droid, more!](https://appleinsider.com/articles/21/12/04/best-deals-dec-4-979-11-inch-ipad-pro-148-respawn-gaming-chair-lego-star-wars-droid-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
