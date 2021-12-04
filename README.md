@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [These are the Mac features exclusive to Apple Silicon](https://appleinsider.com/articles/21/12/04/these-are-the-mac-features-exclusive-to-apple-silicon?utm_medium=rss)
- - [Spotify removes popular comedians’ content over royalties dispute](https://www.theverge.com/2021/12/4/22817537/spotify-comedians-royalties-dispute)
- - [As Web3 takes proliferate, it&#39;s worth noting there are two distinct &quot;is Web3 bullshit?&quot; questions: an open-ended technical question, and whether it will &quot;win&quot; &lpar;Max Read/Read Max&rpar;](http://www.techmeme.com/211204/p10#a211204p10)<!-- TECH:END -->
+ - [The Fortnite island flipped over during Chapter 2’s final event](https://www.theverge.com/2021/12/4/22815391/fortnite-the-end-event-chapter-2-recap-highlights-news)
+ - [Activision Blizzard won’t play a part at The Game Awards this year](https://www.theverge.com/2021/12/4/22817651/activision-blizzard-the-game-awards-harassment)
+ - [These are the Mac features exclusive to Apple Silicon](https://appleinsider.com/articles/21/12/04/these-are-the-mac-features-exclusive-to-apple-silicon?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
