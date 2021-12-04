@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Call of Duty made $3 billion in 2020, so of course Activision Blizzard is laying off QA](https://www.theverge.com/2021/12/3/22816827/raven-software-qa-contractor-layoff-activision-blizzard-call-of-duty)
- - [Best Cyber Monday deals still available: Cyber Week savings at Amazon, Target, Walmart and more     - CNET](https://www.cnet.com/tech/best-cyber-monday-deals-still-available/#ftag=CAD590a51e)
- - [Twitter says it mistakenly suspended a dozen accounts after &quot;coordinated and malicious reports&quot; targeted researchers and journalists, launches a policy review &lpar;Drew Harwell/Washington Post&rpar;](http://www.techmeme.com/211203/p23#a211203p23)<!-- TECH:END -->
+ - [Profile of Roblox CEO David Baszucki, aka &quot;builderman&quot; on Roblox, who sees his company playing a significant role in the metaverse &lpar;Bloomberg&rpar;](http://www.techmeme.com/211204/p2#a211204p2)
+ - [Biden administration accelerates efforts to fill cybersecurity positions, as a job-tracking database funded by the US Commerce Department shows ~600K openings &lpar;Sophia Cai/Axios&rpar;](http://www.techmeme.com/211204/p1#a211204p1)
+ - [Call of Duty made $3 billion in 2020, so of course Activision Blizzard is laying off QA](https://www.theverge.com/2021/12/3/22816827/raven-software-qa-contractor-layoff-activision-blizzard-call-of-duty)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
