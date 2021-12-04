@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Halo Infinite getting new multiplayer playlists, including SWAT and Slayer](https://www.polygon.com/22816601/halo-infinite-multiplayer-playlist-update-social-slayer-swat-ffa)
- - [Get Ready for the Alien Invasion. Timothy vs the Aliens Lands on Xbox One](https://news.xbox.com/en-us/2021/12/03/timothy-vs-the-aliens-lands-on-xbox-one/)
- - [Final Fantasy 14: Endwalker players are waiting in long lines to go to the moon](https://www.pcgamer.com/final-fantasy-14-endwalker-players-are-waiting-in-long-lines-to-go-to-the-moon)<!-- GAME:END -->
+ - [Call of Duty QA Testers Face Layoffs After Reportedly Being Promised Raises By Activision](https://kotaku.com/call-of-duty-qa-testers-face-layoffs-after-reportedly-b-1848159708)
+ - [Call of Duty: Black Ops Cold War’s new patch will set the stage for Vanguard season 1](https://www.polygon.com/call-of-duty/22816495/call-of-duty-black-ops-cold-war-vanguard-warzone-season-1-patch-notes)
+ - [Farming Simulator 22: How to get water to your farm](https://www.pcgamer.com/farming-simulator-22-water-tank-how-to-get-water)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
