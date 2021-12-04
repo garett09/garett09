@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [&amp;quot;marijuana brings out the worst in people&amp;quot; also... marijuana...](http://9gag.com/gag/azej0Pq)
- - 🚯 [Epic Banjo fight in London train.](http://9gag.com/gag/a0Zp2EZ)
- - 🚯 [No!!! This is cultural appropriation!](http://9gag.com/gag/ajgApBG)<!-- MEMES:END -->
+ - 🚖 [Superman: Al Rajol Al khareq](http://9gag.com/gag/azejNmZ)
+ - 🚯 [The right thing to do...](http://9gag.com/gag/abg09PX)
+ - 🚯 [Oh I hope she has Botox lips](http://9gag.com/gag/a9179dL)<!-- MEMES:END -->
 
 --- 
 
