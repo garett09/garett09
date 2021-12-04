@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Battlefield has always been controversial](https://www.pcgamer.com/battlefield-has-always-been-controversial)
  - [Activision studio lets go of at least 12 Call of Duty QA testers](https://www.pcgamer.com/activision-studio-lets-go-of-at-least-12-call-of-duty-qa-testers)
- - [Call of Duty QA Testers Face Layoffs After Reportedly Being Promised Raises By Activision](https://kotaku.com/call-of-duty-qa-testers-face-layoffs-after-reportedly-b-1848159708)
- - [Call of Duty: Black Ops Cold War’s new patch will set the stage for Vanguard season 1](https://www.polygon.com/call-of-duty/22816495/call-of-duty-black-ops-cold-war-vanguard-warzone-season-1-patch-notes)<!-- GAME:END -->
+ - [Call of Duty QA Testers Face Layoffs After Reportedly Being Promised Raises By Activision](https://kotaku.com/call-of-duty-qa-testers-face-layoffs-after-reportedly-b-1848159708)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
