@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Brotherhood of the Wolf and 10 more great movies new to streaming this month](https://www.polygon.com/2021/12/4/22808673/best-new-movies-netflix-amazon-hbo-december-2021)
- - [The Expanse authors were always building toward Leviathan Falls’ world-altering ending](https://www.polygon.com/22816216/expanse-leviathan-falls-ending-james-sa-corey-interview)
- - [No one is dying in my Unsighted playthrough, and that’s fine by me](https://www.polygon.com/gaming/22816186/unsighted-explorer-mode-easy-death-timer)<!-- GAME:END -->
+ - [Netflix’s intense animated manga adaptation The Summit of the Gods is a literal trip](https://www.polygon.com/22817182/the-summit-of-the-gods-review-netflix)
+ - [Fortnite Chapter 3 Trailer Leaks, Revealing Spider-Man And Gears Of War Characters](https://kotaku.com/fortnite-chapter-3-trailer-leaks-revealing-spider-man-1848161056)
+ - [Brotherhood of the Wolf and 10 more great movies new to streaming this month](https://www.polygon.com/2021/12/4/22808673/best-new-movies-netflix-amazon-hbo-december-2021)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
