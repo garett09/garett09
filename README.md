@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Yo mamma](http://9gag.com/gag/aDDoy39)
- - 🚯 [The little slaps at the end are the best](http://9gag.com/gag/avAPM75)
- - 🚯 [What men really want](http://9gag.com/gag/aQX8WAW)<!-- MEMES:END -->
+ - 🚖 [If we have learned anything from that Lego video is that he needs bigger tyres next](http://9gag.com/gag/aGzxmoG)
+ - 🚯 [UFO burger is made in that machine so it is sealed and doesnt spill when you bite into it](http://9gag.com/gag/aDDoyqd)
+ - 🚯 [Almost 40 and started a one man band writing music for a genre that was popular in the late 90s](http://9gag.com/gag/a917o9K)<!-- MEMES:END -->
 
 --- 
 
