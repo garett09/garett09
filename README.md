@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Finally a dance move that TikTok cannot copy.](http://9gag.com/gag/a21mB61)
- - 🚯 [Aiii!](http://9gag.com/gag/amg9Dm2)
- - 🚯 [I love this man](http://9gag.com/gag/abg0PvO)<!-- MEMES:END -->
+ - 🚖 [I love this man](http://9gag.com/gag/abg0PvO)
+ - 🚯 [Bees falling out of the sky when the lights go out](http://9gag.com/gag/aOQV6W3)
+ - 🚯 [Guess it&amp;#039;s not worth it, trying to eat healthy.](http://9gag.com/gag/a41YMKA)<!-- MEMES:END -->
 
 --- 
 
