@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spotify removed the work of hundreds of comedians, including John Mulaney and Kevin Hart, amid a fight with royalty administration agency Spoken Giants &lpar;Anne Steele/Wall Street Journal&rpar;](http://www.techmeme.com/211204/p9#a211204p9)
- - [Twitter reportedly suspended accounts by mistake after extremists abused new private media policy](https://www.theverge.com/2021/12/4/22817386/twitter-suspended-accounts-extremists)
- - [Clearview AI is set to win a US patent for facial recognition technology that the company says is the first to cover a &quot;search engine for faces&quot; &lpar;Alexandra S. Levine/Politico&rpar;](http://www.techmeme.com/211204/p8#a211204p8)<!-- TECH:END -->
+ - [As Web3 takes proliferate, it&#39;s worth noting there are two distinct &quot;is Web3 bullshit?&quot; questions: an open-ended technical question, and whether it will &quot;win&quot; &lpar;Max Read/Read Max&rpar;](http://www.techmeme.com/211204/p10#a211204p10)
+ - [Leaked Fortnite trailer reveals Spider-Man and a new island for Chapter 3](https://www.theverge.com/2021/12/4/22817525/fortnite-chapter-3-leaked-trailer-spider-man-new-island-gears-of-war)
+ - [AirPods with Charging Case drop to $79, the cheapest online price available](https://appleinsider.com/articles/21/12/04/airpods-with-charging-case-drop-to-79-the-cheapest-online-price-available?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
