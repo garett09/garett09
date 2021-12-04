@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Spotify Wrapped&#39;s cultural significance reveals how algorithms influence our self-conception and how we in turn perform for Spotify&#39;s construction of ourselves &lpar;Kelly Pau/Vox&rpar;](http://www.techmeme.com/211204/p3#a211204p3)
  - [Profile of Roblox CEO David Baszucki, aka &quot;builderman&quot; on Roblox, who sees his company playing a significant role in the metaverse &lpar;Bloomberg&rpar;](http://www.techmeme.com/211204/p2#a211204p2)
- - [Biden administration accelerates efforts to fill cybersecurity positions, as a job-tracking database funded by the US Commerce Department shows ~600K openings &lpar;Sophia Cai/Axios&rpar;](http://www.techmeme.com/211204/p1#a211204p1)
- - [Call of Duty made $3 billion in 2020, so of course Activision Blizzard is laying off QA](https://www.theverge.com/2021/12/3/22816827/raven-software-qa-contractor-layoff-activision-blizzard-call-of-duty)<!-- TECH:END -->
+ - [Biden administration accelerates efforts to fill cybersecurity positions, as a job-tracking database funded by the US Commerce Department shows ~600K openings &lpar;Sophia Cai/Axios&rpar;](http://www.techmeme.com/211204/p1#a211204p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
