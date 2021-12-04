@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [As Web3 takes proliferate, it&#39;s worth noting there are two distinct &quot;is Web3 bullshit?&quot; questions: an open-ended technical question, and whether it will &quot;win&quot; &lpar;Max Read/Read Max&rpar;](http://www.techmeme.com/211204/p10#a211204p10)
- - [Leaked Fortnite trailer reveals Spider-Man and a new island for Chapter 3](https://www.theverge.com/2021/12/4/22817525/fortnite-chapter-3-leaked-trailer-spider-man-new-island-gears-of-war)
- - [AirPods with Charging Case drop to $79, the cheapest online price available](https://appleinsider.com/articles/21/12/04/airpods-with-charging-case-drop-to-79-the-cheapest-online-price-available?utm_medium=rss)<!-- TECH:END -->
+ - [These are the Mac features exclusive to Apple Silicon](https://appleinsider.com/articles/21/12/04/these-are-the-mac-features-exclusive-to-apple-silicon?utm_medium=rss)
+ - [Spotify removes popular comedians’ content over royalties dispute](https://www.theverge.com/2021/12/4/22817537/spotify-comedians-royalties-dispute)
+ - [As Web3 takes proliferate, it&#39;s worth noting there are two distinct &quot;is Web3 bullshit?&quot; questions: an open-ended technical question, and whether it will &quot;win&quot; &lpar;Max Read/Read Max&rpar;](http://www.techmeme.com/211204/p10#a211204p10)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
