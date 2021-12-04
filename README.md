@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Aiii!](http://9gag.com/gag/amg9Dm2)
- - 🚯 [Crypto Currency](http://9gag.com/gag/aXrwZZ9)
- - 🚯 [Mount Semeru; East Java, Indonesia](http://9gag.com/gag/aQX8Yr8)<!-- MEMES:END -->
+ - 🚖 [When you walk into a small town gas station wearing a mask](http://9gag.com/gag/aDDGRLO)
+ - 🚯 [Mount Semeru; East Java, Indonesia](http://9gag.com/gag/aQX8Yr8)
+ - 🚯 [Bees falling out of the sky when the lights go out](http://9gag.com/gag/aOQV6W3)<!-- MEMES:END -->
 
 --- 
 
