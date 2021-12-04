@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [If we have learned anything from that Lego video is that he needs bigger tyres next](http://9gag.com/gag/aGzxmoG)
+ - 🚖 [Jim can&amp;rsquo;t choose](http://9gag.com/gag/angNmr5)
  - 🚯 [UFO burger is made in that machine so it is sealed and doesnt spill when you bite into it](http://9gag.com/gag/aDDoyqd)
- - 🚯 [Almost 40 and started a one man band writing music for a genre that was popular in the late 90s](http://9gag.com/gag/a917o9K)<!-- MEMES:END -->
+ - 🚯 [So far&amp;hellip;](http://9gag.com/gag/aegGvMb)<!-- MEMES:END -->
 
 --- 
 
