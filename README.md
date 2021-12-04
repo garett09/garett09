@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Making a coffee table out of pallet wood, with a plywood base](http://9gag.com/gag/avAnpEd)
- - 🚯 [When you walk into a small town gas station wearing a mask](http://9gag.com/gag/aDDGRLO)
- - 🚯 [Clean your lens girl! We can&amp;#039;t see clearly](http://9gag.com/gag/a51rpMy)<!-- MEMES:END -->
+ - 🚖 [Neo and Trinity](http://9gag.com/gag/aeg6jxB)
+ - 🚯 [It has been two very difficult years, but I managed to open my small bar/restaurant. You&amp;rsquo;re all invited if you ever come to Costa Rica!](http://9gag.com/gag/ang1Y50)
+ - 🚯 [Exact people](http://9gag.com/gag/apgLEjE)<!-- MEMES:END -->
 
 --- 
 
