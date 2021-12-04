@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [New YouTuber Ludwig had his livestream interrupted by a copyright warning](https://www.theverge.com/2021/12/4/22817263/ludwig-youtube-livestream-copyright-warning)
- - [How online activists helped close BOO, an MLM scheme that sold $110 bags of dirt as alternative medicine on Facebook, Instagram, and TikTok during the pandemic &lpar;Brandy Zadrozny/NBC News&rpar;](http://www.techmeme.com/211204/p6#a211204p6)
- - [Samsung Galaxy S20 FE one year later: Is it still worth buying?](https://www.androidauthority.com/samsung-galaxy-s20-fe-long-term-review-3061563/)<!-- TECH:END -->
+ - [Profile of eGirl Capital, a VC firm run by 12 anonymous cartoon characters and two &quot;doxxed&quot; individuals, that has so far invested up to $10M in crypto projects &lpar;Ben Munster/Decrypt&rpar;](http://www.techmeme.com/211204/p7#a211204p7)
+ - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-409-3071021/)
+ - [Sonoma State University to hand iPads to students in spring 2022](https://appleinsider.com/articles/21/12/04/sonoma-state-university-to-hand-ipads-to-students-in-spring-2022?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
