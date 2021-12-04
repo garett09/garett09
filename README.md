@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Final Fantasy XIV Has More Than Doubled Its Active Playerbase On Steam Since June](https://kotaku.com/final-fantasy-xiv-hits-over-90k-active-players-on-steam-1848161368)
  - [Netflix’s intense animated manga adaptation The Summit of the Gods is a literal trip](https://www.polygon.com/22817182/the-summit-of-the-gods-review-netflix)
- - [Fortnite Chapter 3 Trailer Leaks, Revealing Spider-Man And Gears Of War Characters](https://kotaku.com/fortnite-chapter-3-trailer-leaks-revealing-spider-man-1848161056)
- - [Brotherhood of the Wolf and 10 more great movies new to streaming this month](https://www.polygon.com/2021/12/4/22808673/best-new-movies-netflix-amazon-hbo-december-2021)<!-- GAME:END -->
+ - [Fortnite Chapter 3 Trailer Leaks, Revealing Spider-Man And Gears Of War Characters](https://kotaku.com/fortnite-chapter-3-trailer-leaks-revealing-spider-man-1848161056)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
