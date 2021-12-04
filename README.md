@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta must improve its existing content-oblivious harm-reduction mechanisms, limit recommendation engines and discoverability, and more, before implementing e2ee &lpar;David Thiel/Wired&rpar;](http://www.techmeme.com/211203/p22#a211203p22)
- - [It’s the last Bandcamp Friday of 2021](https://www.theverge.com/2021/12/3/22816519/it-is-bandcamp-friday-but-maybe-not-again-after-today)
- - [Google TV’s nifty new personalized profiles have been delayed](https://www.theverge.com/2021/12/3/22816719/google-tv-profiles-delayed)<!-- TECH:END -->
+ - [More competition shows should be like this jaw-dropping new Netflix series     - CNET](https://www.cnet.com/news/more-competition-shows-should-be-like-this-jaw-dropping-new-netflix-series/#ftag=CAD590a51e)
+ - [GM won&#39;t restart Bolt production until the end of January at the earliest, report says     - Roadshow](https://www.cnet.com/roadshow/news/gm-chevy-bolt-production-delay-recall-battery/#ftag=CAD590a51e)
+ - [Before implementing e2ee, Meta must improve its existing content-oblivious harm-reduction mechanisms, limit recommendation engines and discoverability, and more &lpar;David Thiel/Wired&rpar;](http://www.techmeme.com/211203/p22#a211203p22)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
