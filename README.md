@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Finally a dance move that TikTok cannot copy.](http://9gag.com/gag/a21mB61)
- - 🚯 [Man gets electrocuted while holding child. Red shirt guy saves the day](http://9gag.com/gag/aDDop7d)
- - 🚯 [How happy kiddo gets!](http://9gag.com/gag/a0ZpAMq)<!-- MEMES:END -->
+ - 🚖 [R.I.P. BIDOOF](http://9gag.com/gag/a517m9g)
+ - 🚯 [How happy kiddo gets!](http://9gag.com/gag/a0ZpAMq)
+ - 🚯 [Finally a dance move that TikTok cannot copy.](http://9gag.com/gag/a21mB61)<!-- MEMES:END -->
 
 --- 
 
