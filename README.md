@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Movie being filmed right in front of this neighborhood](http://9gag.com/gag/a0Zj8vZ)
- - 🚯 [Bees falling out of the sky when the lights go out](http://9gag.com/gag/aOQV6W3)
+ - 🚖 [Ah yes, the GF we need](http://9gag.com/gag/aOQV69N)
+ - 🚯 [The second I hit 30.](http://9gag.com/gag/aGzDY16)
  - 🚯 [When you walk into a small town gas station wearing a mask](http://9gag.com/gag/aDDGRLO)<!-- MEMES:END -->
 
 --- 
