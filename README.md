@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Weekly Authority: Snapdragon 8 Gen 1 and FF14 Endwalker](https://www.androidauthority.com/newsletters/the-weekly-authority-edition-171/)
- - [It’s Never Been More Obvious That You Suck at Video Games](https://www.wired.com/story/its-obvious-you-suck-at-video-games)
- - [Wi-Fi 7 is already on the way: What is it and when will it arrive?](https://www.androidauthority.com/wi-fi-7-802-11be-3069524/)<!-- TECH:END -->
+ - [Profile of Twitch streamer Tyler Steinkamp, including the loneliness and rage that comes with streaming game battles and real-world moments for 50 hours a week &lpar;Drew Harwell/Washington Post&rpar;](http://www.techmeme.com/211204/p5#a211204p5)
+ - [Snapdragon 8 Gen 1 vs Google Tensor: Is the Pixel 6 outdated already?](https://www.androidauthority.com/snapdragon-8-gen-1-vs-google-tensor-3066318/)
+ - [Can Gambia Turn the Tide to Save Its Shrinking Beaches?](https://www.wired.com/story/can-the-gambia-turn-the-tide-to-save-its-shrinking-beaches)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
