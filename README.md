@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy S20 FE one year later: Is it still worth buying?](https://www.androidauthority.com/samsung-galaxy-s20-fe-long-term-review-3061563/)
- - [Best holiday shopping deals: Huge savings at Amazon, Target, Walmart and more     - CNET](https://www.cnet.com/tech/best-cyber-monday-deals-still-available/#ftag=CAD590a51e)
- - [Best deals Dec. 4: $979 11-inch iPad Pro, $148 Respawn gaming chair, Lego Star Wars Droid, more!](https://appleinsider.com/articles/21/12/04/best-deals-dec-4-979-11-inch-ipad-pro-148-respawn-gaming-chair-lego-star-wars-droid-more?utm_medium=rss)<!-- TECH:END -->
+ - [New YouTuber Ludwig had his livestream interrupted by a copyright warning](https://www.theverge.com/2021/12/4/22817263/ludwig-youtube-livestream-copyright-warning)
+ - [How online activists helped close BOO, an MLM scheme that sold $110 bags of dirt as alternative medicine on Facebook, Instagram, and TikTok during the pandemic &lpar;Brandy Zadrozny/NBC News&rpar;](http://www.techmeme.com/211204/p6#a211204p6)
+ - [Samsung Galaxy S20 FE one year later: Is it still worth buying?](https://www.androidauthority.com/samsung-galaxy-s20-fe-long-term-review-3061563/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
