@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When you walk into a small town gas station wearing a mask](http://9gag.com/gag/aDDGRLO)
- - 🚯 [Mount Semeru; East Java, Indonesia](http://9gag.com/gag/aQX8Yr8)
- - 🚯 [Bees falling out of the sky when the lights go out](http://9gag.com/gag/aOQV6W3)<!-- MEMES:END -->
+ - 🚖 [Movie being filmed right in front of this neighborhood](http://9gag.com/gag/a0Zj8vZ)
+ - 🚯 [Bees falling out of the sky when the lights go out](http://9gag.com/gag/aOQV6W3)
+ - 🚯 [When you walk into a small town gas station wearing a mask](http://9gag.com/gag/aDDGRLO)<!-- MEMES:END -->
 
 --- 
 
