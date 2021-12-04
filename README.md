@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Call of Duty made $3 billion in 2020, so of course Activision Blizzard is laying off QA](https://www.theverge.com/2021/12/3/22816827/raven-software-qa-contractor-layoff-activision-blizzard-call-of-duty)
  - [Best Cyber Monday deals still available: Cyber Week savings at Amazon, Target, Walmart and more     - CNET](https://www.cnet.com/tech/best-cyber-monday-deals-still-available/#ftag=CAD590a51e)
- - [Twitter says it mistakenly suspended a dozen accounts after &quot;coordinated and malicious reports&quot; targeted researchers and journalists, launches a policy review &lpar;Drew Harwell/Washington Post&rpar;](http://www.techmeme.com/211203/p23#a211203p23)
- - [Pegasus spyware on State Department phones: What you need to know     - CNET](https://www.cnet.com/tech/mobile/pegasus-spyware-on-state-department-phones-what-you-need-to-know/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Twitter says it mistakenly suspended a dozen accounts after &quot;coordinated and malicious reports&quot; targeted researchers and journalists, launches a policy review &lpar;Drew Harwell/Washington Post&rpar;](http://www.techmeme.com/211203/p23#a211203p23)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
