@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Twitter says it mistakenly suspended a dozen accounts after &quot;coordinated and malicious reports&quot; targeted researchers and journalists, launches a policy review &lpar;Drew Harwell/Washington Post&rpar;](http://www.techmeme.com/211203/p23#a211203p23)
  - [More competition shows should be like this jaw-dropping new Netflix series     - CNET](https://www.cnet.com/news/more-competition-shows-should-be-like-this-jaw-dropping-new-netflix-series/#ftag=CAD590a51e)
- - [GM won&#39;t restart Bolt production until the end of January at the earliest, report says     - Roadshow](https://www.cnet.com/roadshow/news/gm-chevy-bolt-production-delay-recall-battery/#ftag=CAD590a51e)
- - [Before implementing e2ee, Meta must improve its existing content-oblivious harm-reduction mechanisms, limit recommendation engines and discoverability, and more &lpar;David Thiel/Wired&rpar;](http://www.techmeme.com/211203/p22#a211203p22)<!-- TECH:END -->
+ - [GM won&#39;t restart Bolt production until the end of January at the earliest, report says     - Roadshow](https://www.cnet.com/roadshow/news/gm-chevy-bolt-production-delay-recall-battery/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
