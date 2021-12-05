@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Everything we know about Fortnite Chapter 3](https://www.pcgamer.com/fortnite-chapter-3)
- - [Sunday Comics: Winner!](https://kotaku.com/sunday-comics-winner-1848163254)
- - [This week in PC Gaming: Final Fantasy 14: Endwalker, Halo Infinite and Monster Rancher 1 &amp; 2 DX](https://www.pcgamer.com/this-week-in-pc-gaming-final-fantasy-14-endwalker-halo-infinite-monster-rancher-1-2-dx)<!-- GAME:END -->
+ - [Halle Berry has a vision for directing the next Catwoman](https://www.polygon.com/22818725/halle-berry-director-bruised-catwoman)
+ - [The Halo subreddit got so toxic that mods have closed it for the weekend](https://www.pcgamer.com/the-halo-subreddit-got-so-toxic-that-mods-have-closed-it-for-the-weekend)
+ - [Everything we know about Fortnite Chapter 3](https://www.pcgamer.com/fortnite-chapter-3)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
