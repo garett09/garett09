@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Woeeeeeee](http://9gag.com/gag/aE8n7gn)
- - 🚯 [It goes brrrrrrrt](http://9gag.com/gag/axBDGDb)
+ - 🚖 [It goes brrrrrrrt](http://9gag.com/gag/axBDGDb)
+ - 🚯 [If you ever need access to journals](http://9gag.com/gag/ay98n9q)
  - 🚯 [Calling all Dungeon Masters, aspiring writers and gamer masters: It&amp;#039;s time to unleash your creativity.](http://9gag.com/gag/aWgZEOd)<!-- MEMES:END -->
 
 --- 
