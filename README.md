@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [We&amp;#039;ve all been there...](http://9gag.com/gag/aAGP1Bd)
- - 🚯 [Don&amp;#039;t erase the line!](http://9gag.com/gag/aE8nzdp)
+ - 🚖 [Woeeeeeee](http://9gag.com/gag/aE8n7gn)
+ - 🚯 [It goes brrrrrrrt](http://9gag.com/gag/axBDGDb)
  - 🚯 [Calling all Dungeon Masters, aspiring writers and gamer masters: It&amp;#039;s time to unleash your creativity.](http://9gag.com/gag/aWgZEOd)<!-- MEMES:END -->
 
 --- 
