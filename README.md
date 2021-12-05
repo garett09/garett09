@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Representatives of the people are not allowed to know what the people&amp;#039;s money are spent on.](http://9gag.com/gag/a51rr7L)
- - 🚯 [Road rage, female edition, Romania.](http://9gag.com/gag/aM49GX6)
+ - 🚖 [Road rage, female edition, Romania.](http://9gag.com/gag/aM49GX6)
+ - 🚯 [Woeeeeeee](http://9gag.com/gag/aE8n7gn)
  - 🚯 [Calling all Dungeon Masters, aspiring writers and gamer masters: It&amp;#039;s time to unleash your creativity.](http://9gag.com/gag/aWgZEOd)<!-- MEMES:END -->
 
 --- 
