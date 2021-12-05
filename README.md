@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Here’s your first look at Spider-Man: Across the Spider-verse ... Part One](https://www.polygon.com/22776592/spider-man-across-the-spider-verse-part-1-trailer-ccxp-footage-release-cast)
  - [More confirmation Dragon Age 4 will be &#39;single-player focused&#39;](https://www.pcgamer.com/more-confirmation-dragon-age-4-will-be-single-player-focused)
- - [Dwayne &quot;The Rock&quot; Johnson makes his Fortnite debut as Chapter 2 ends](https://www.pcgamer.com/dwayne-the-rock-johnson-makes-his-fortnite-debut-as-chapter-2-ends)
- - [Everything we know about Fortnite Chapter 3](https://www.pcgamer.com/fortnite-chapter-3)<!-- GAME:END -->
+ - [Dwayne &quot;The Rock&quot; Johnson makes his Fortnite debut as Chapter 2 ends](https://www.pcgamer.com/dwayne-the-rock-johnson-makes-his-fortnite-debut-as-chapter-2-ends)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
