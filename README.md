@@ -194,8 +194,8 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [It&amp;rsquo;s over 9000!](http://9gag.com/gag/aQXx4jz)
- - 🚯 [Small steps. Small.](http://9gag.com/gag/a91YLY6)
- - 🚯 [New law of motion](http://9gag.com/gag/aE8n1AO)<!-- MEMES:END -->
+ - 🚯 [New law of motion](http://9gag.com/gag/aE8n1AO)
+ - 🚯 [That time Prince Harry finessed Ussain Bolt.](http://9gag.com/gag/aWgMW2q)<!-- MEMES:END -->
 
 --- 
 
