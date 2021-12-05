@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best deals Dec. 5: $979 49-inch curved Samsung monitor, $60 mini projector, more!](https://appleinsider.com/articles/21/12/05/best-deals-dec-5-979-49-inch-curved-samsung-monitor-60-mini-projector-more?utm_medium=rss)
- - [Apple&#39;s AR headset among expected 2022 launches](https://appleinsider.com/articles/21/12/05/apples-ar-headset-among-expected-2022-launches?utm_medium=rss)
- - [Best cheap true-wireless earbuds in 2021: Top AirPods alternatives for $100 or less     - CNET](https://www.cnet.com/tech/mobile/best-cheap-wireless-earbuds/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google Pixel 6a: All the rumors in one place](https://www.androidauthority.com/google-pixel-6a-3062838/)
+ - [Crime blotter: Rare Apple Store smash-and-grab, AirTag car thefts, more!](https://appleinsider.com/articles/21/12/05/crime-blotter-rare-apple-store-smash-and-grab-in-santa-rosa?utm_medium=rss)
+ - [Apple AR headset, new Mac Pro and more expected in 2022](https://appleinsider.com/articles/21/12/05/apples-ar-headset-among-expected-2022-launches?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
