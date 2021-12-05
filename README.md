@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to slide in Fortnite](https://www.pcgamer.com/how-to-slide-in-fortnite)
- - [After Long Server Queues, Square Enix Will Give Final Fantasy XIV Players Free Game Time](https://kotaku.com/after-long-server-queues-square-enix-will-give-final-f-1848162041)
- - [Halle Berry has a vision for directing the next Catwoman](https://www.polygon.com/22818725/halle-berry-director-bruised-catwoman)<!-- GAME:END -->
+ - [FF14 players will get free game time due to server congestion](https://www.pcgamer.com/ff14-players-will-get-free-game-time-due-to-server-congestion)
+ - [How to get the Fortnite Crown](https://www.pcgamer.com/fortnite-crown)
+ - [How to slide in Fortnite](https://www.pcgamer.com/how-to-slide-in-fortnite)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
