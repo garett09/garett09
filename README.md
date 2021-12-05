@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Why the end of a tape measure moves](http://9gag.com/gag/aeg6Nm5)
- - 🚯 [Fat ops](http://9gag.com/gag/a91YjQ0)
- - 🚯 [You don&amp;#039;t realize how big giant tortoises are until you see them standing next to a person](http://9gag.com/gag/aeg6Nxj)<!-- MEMES:END -->
+ - 🚖 [Hehe](http://9gag.com/gag/a71dKww)
+ - 🚯 [Cat + Rabbit = ?](http://9gag.com/gag/aLv9RmP)
+ - 🚯 [Same for girlfriend...](http://9gag.com/gag/a51rd0E)<!-- MEMES:END -->
 
 --- 
 
