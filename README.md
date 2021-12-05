@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple takes on Russian regulator in court over App Store warning](https://appleinsider.com/articles/21/12/05/apple-takes-on-russian-regulator-in-court-over-app-store-warning?utm_medium=rss)
- - [How to save data by enabling Low Quality Image Mode in iMessage](https://appleinsider.com/articles/21/12/05/how-to-save-data-by-enabling-low-quality-image-mode-in-imessage?utm_medium=rss)
- - [Shows like You: What to watch if you like Netflix’s twisted “romantic” thriller](https://www.androidauthority.com/shows-like-you-netflix-3068738/)<!-- TECH:END -->
+ - [Smart home privacy: What data is collected, and how is it used?](https://www.androidauthority.com/smart-home-privacy-3065661/)
+ - [Apple fighting Russia over alternative App Store payments](https://appleinsider.com/articles/21/12/05/apple-takes-on-russian-regulator-in-court-over-app-store-warning?utm_medium=rss)
+ - [A look at the challenges of developing a mass-market augmented reality headset as Apple reportedly prepares to launch its own mixed reality device in 2022 &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/211205/p6#a211205p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
