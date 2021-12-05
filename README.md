@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Halle Berry has a vision for directing the next Catwoman](https://www.polygon.com/22818725/halle-berry-director-bruised-catwoman)
- - [The Halo subreddit got so toxic that mods have closed it for the weekend](https://www.pcgamer.com/the-halo-subreddit-got-so-toxic-that-mods-have-closed-it-for-the-weekend)
- - [Everything we know about Fortnite Chapter 3](https://www.pcgamer.com/fortnite-chapter-3)<!-- GAME:END -->
+ - [How to slide in Fortnite](https://www.pcgamer.com/how-to-slide-in-fortnite)
+ - [After Long Server Queues, Square Enix Will Give Final Fantasy XIV Players Free Game Time](https://kotaku.com/after-long-server-queues-square-enix-will-give-final-f-1848162041)
+ - [Halle Berry has a vision for directing the next Catwoman](https://www.polygon.com/22818725/halle-berry-director-bruised-catwoman)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
