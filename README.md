@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Never change Skyrim](http://9gag.com/gag/aZrpWeQ)
- - 🚯 [I&amp;#039;m always A though.](http://9gag.com/gag/aAGPVog)
- - 🚯 [More children were shot in Chicago than killed by covid-19](http://9gag.com/gag/aNPWZ13)<!-- MEMES:END -->
+ - 🚖 [Omicron 1,2 and 3 lol](http://9gag.com/gag/a91YMDZ)
+ - 🚯 [More children were shot in Chicago than killed by covid-19](http://9gag.com/gag/aNPWZ13)
+ - 🚯 [That time Prince Harry finessed Ussain Bolt.](http://9gag.com/gag/aWgMW2q)<!-- MEMES:END -->
 
 --- 
 
