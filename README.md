@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Profile of Group-IB CEO Ilya Sachkov, who is charged with treason in Russia, sources say for allegedly giving the US info about Fancy Bear&#39;s 2016 operation &lpar;Bloomberg&rpar;](http://www.techmeme.com/211204/p11#a211204p11)
- - [New Spider-Man: Across the Spider-Verse trailer features another Spider-Man     - CNET](https://www.cnet.com/news/new-spider-man-across-the-spider-verse-trailer-features-a-new-spider-man/#ftag=CAD590a51e)
- - [The first trailer for Spider-Man: Across the Spider-Verse &lpar;Part One&rpar; teases a stunning animated sequel](https://www.theverge.com/2021/12/4/22817957/spider-man-across-the-spider-verse-part-one-sequelanimated-multiverse-miles-morales)<!-- TECH:END -->
+ - [Crypto exchange BitMart says it suffered a hack resulting in the loss of $150M in crypto, after its Ethereum and Binance Smart Chain hot wallets were breached &lpar;Tim Copeland/The Block&rpar;](http://www.techmeme.com/211205/p2#a211205p2)
+ - [Life House, which offers hotel management software, raises a $60M Series C co-led by Kayak and Inovia Capital, bringing its total funding to over $100M &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/211205/p1#a211205p1)
+ - [Can you use Alexa in non-supported countries?](https://www.androidauthority.com/alexa-in-non-supported-countries-3068655/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
