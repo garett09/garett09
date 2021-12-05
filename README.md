@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I love the internet](http://9gag.com/gag/a0ZjPYn)
- - 🚯 [When you do 99% of the job but someone else takes the credit](http://9gag.com/gag/avAn0VW)
- - 🚯 [It has been two very difficult years, but I managed to open my small bar/restaurant. You&amp;rsquo;re all invited if you ever come to Costa Rica!](http://9gag.com/gag/ang1Y50)<!-- MEMES:END -->
+ - 🚖 [Never change Skyrim](http://9gag.com/gag/aZrpWeQ)
+ - 🚯 [I&amp;#039;m always A though.](http://9gag.com/gag/aAGPVog)
+ - 🚯 [More children were shot in Chicago than killed by covid-19](http://9gag.com/gag/aNPWZ13)<!-- MEMES:END -->
 
 --- 
 
