@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony Xperia Pro-I review: Not for ‘normals,’ best left to the pros](https://www.androidauthority.com/sony-xperia-pro-i-review-3061123/)
- - [Best Buy&#39;s Cyber Deals end tonight: Don&#39;t miss your last chance to save big     - CNET](https://www.cnet.com/tech/computing/best-buy-cyber-monday-deals-discounts/#ftag=CAD590a51e)
- - [eBay accidentally suspended ‘a small number’ of users](https://www.theverge.com/2021/12/5/22818588/ebay-suspended-users-glitch)<!-- TECH:END -->
+ - [Best deals Dec. 5: $979 49-inch curved Samsung monitor, $60 mini projector, more!](https://appleinsider.com/articles/21/12/05/best-deals-dec-5-979-49-inch-curved-samsung-monitor-60-mini-projector-more?utm_medium=rss)
+ - [Apple&#39;s AR headset among expected 2022 launches](https://appleinsider.com/articles/21/12/05/apples-ar-headset-among-expected-2022-launches?utm_medium=rss)
+ - [Best cheap true-wireless earbuds in 2021: Top AirPods alternatives for $100 or less     - CNET](https://www.cnet.com/tech/mobile/best-cheap-wireless-earbuds/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
