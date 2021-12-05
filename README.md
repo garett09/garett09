@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Smart home privacy: What data is collected, and how is it used?](https://www.androidauthority.com/smart-home-privacy-3065661/)
- - [Apple fighting Russia over alternative App Store payments](https://appleinsider.com/articles/21/12/05/apple-takes-on-russian-regulator-in-court-over-app-store-warning?utm_medium=rss)
- - [A look at the challenges of developing a mass-market augmented reality headset as Apple reportedly prepares to launch its own mixed reality device in 2022 &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/211205/p6#a211205p6)<!-- TECH:END -->
+ - [Amazon Prime Video: The 32 best TV shows to watch     - CNET](https://www.cnet.com/news/amazon-prime-video-the-32-best-tv-shows-to-stream-right-now/#ftag=CAD590a51e)
+ - [Amazon Prime Video: The 29 best movies to watch     - CNET](https://www.cnet.com/news/amazon-prime-video-the-29-best-movies-to-watch-this-weekend/#ftag=CAD590a51e)
+ - [Netflix: 45 of the absolute best TV shows to watch     - CNET](https://www.cnet.com/news/netflix-45-of-the-absolute-best-tv-shows-to-watch-this-weekend/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
