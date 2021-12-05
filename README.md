@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [FF14 players will get free game time due to server congestion](https://www.pcgamer.com/ff14-players-will-get-free-game-time-due-to-server-congestion)
- - [How to get the Fortnite Crown](https://www.pcgamer.com/fortnite-crown)
- - [How to slide in Fortnite](https://www.pcgamer.com/how-to-slide-in-fortnite)<!-- GAME:END -->
+ - [Fortnite: Where to Discover the Device location guide](https://www.pcgamer.com/discover-the-device-location-fortnite)
+ - [The Week In Games: Master Chief Simulator 2021](https://kotaku.com/the-week-in-games-master-chief-simulator-2021-1848163784)
+ - [Activision Blizzard &#39;will not be a part&#39; of The Game Awards, Geoff Keighley says](https://www.pcgamer.com/activision-blizzard-will-not-be-a-part-of-the-game-awards-geoff-keighley-says)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
