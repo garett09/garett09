@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Fortnite: Chapter 3 officially revealed with new island, Spider-Man, and plenty more changes](https://www.theverge.com/2021/12/5/22817392/fortnite-chapter-3-season-1-spider-man-new-island)
  - [What are video codecs? Everything you need to know about AV1, VP9, H.264, others](https://www.androidauthority.com/what-are-video-codecs-3066257/)
- - [What is Intel XeSS? Intel’s answer to Nvidia DLSS and AMD FSR explained](https://www.androidauthority.com/intel-xess-explained-3060155/)
- - [Crypto exchange BitMart says it suffered a hack resulting in the loss of $150M in crypto, after its Ethereum and Binance Smart Chain hot wallets were breached &lpar;Tim Copeland/The Block&rpar;](http://www.techmeme.com/211205/p2#a211205p2)<!-- TECH:END -->
+ - [What is Intel XeSS? Intel’s answer to Nvidia DLSS and AMD FSR explained](https://www.androidauthority.com/intel-xess-explained-3060155/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
