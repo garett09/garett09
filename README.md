@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Same for girlfriend...](http://9gag.com/gag/a51rd0E)
+ - 🚖 [I&amp;#039;m always A though.](http://9gag.com/gag/aAGPVog)
  - 🚯 [Aww so cute](http://9gag.com/gag/aVxeQXy)
- - 🚯 [Omicron 1,2 and 3 lol](http://9gag.com/gag/a91YMDZ)<!-- MEMES:END -->
+ - 🚯 [I love the internet](http://9gag.com/gag/a0ZjPYn)<!-- MEMES:END -->
 
 --- 
 
