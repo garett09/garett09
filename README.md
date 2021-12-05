@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I would finish all the food first before going anywhere...](http://9gag.com/gag/azeAL0m)
- - 🚯 [When you play too much San Andreas remastered](http://9gag.com/gag/aE8n11M)
- - 🚯 [And also erased the paper](http://9gag.com/gag/arnN47d)<!-- MEMES:END -->
+ - 🚖 [It&amp;rsquo;s over 9000!](http://9gag.com/gag/aQXx4jz)
+ - 🚯 [Small steps. Small.](http://9gag.com/gag/a91YLY6)
+ - 🚯 [New law of motion](http://9gag.com/gag/aE8n1AO)<!-- MEMES:END -->
 
 --- 
 
