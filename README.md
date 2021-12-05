@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Shows like You: What to watch if you like Netflix’s twisted “romantic” thriller](https://www.androidauthority.com/shows-like-you-netflix-3068738/)
- - [The Verizon app might be collecting your browsing history and more](https://www.theverge.com/2021/12/5/22818783/verizon-app-data-collection-browsing-history)
- - [Apple sues Russia&#39;s Federal Antimonopoly Service challenging the order to allow developers to inform App Store users about alternative payment options &lpar;RT&rpar;](http://www.techmeme.com/211205/p5#a211205p5)<!-- TECH:END -->
+ - [Apple takes on Russian regulator in court over App Store warning](https://appleinsider.com/articles/21/12/05/apple-takes-on-russian-regulator-in-court-over-app-store-warning?utm_medium=rss)
+ - [How to save data by enabling Low Quality Image Mode in iMessage](https://appleinsider.com/articles/21/12/05/how-to-save-data-by-enabling-low-quality-image-mode-in-imessage?utm_medium=rss)
+ - [Shows like You: What to watch if you like Netflix’s twisted “romantic” thriller](https://www.androidauthority.com/shows-like-you-netflix-3068738/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
