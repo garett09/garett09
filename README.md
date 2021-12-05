@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Fortnite Chapter 3 brings a new map, Spider-Man, and web-swinging](https://www.polygon.com/fortnite/22816585/fortnite-chapter-3-new-map-trailer-locations-minimap-spider-man)
  - [Animal Crossing’s 2.0 update is perfect for recreating Studio Ghibli movie scenes](https://www.polygon.com/22816289/animal-crossing-new-horizons-update-studio-ghibli-miyazaki-movie-scenes)
- - [Dragon Age 4: Everything we know about the next RPG in Thedas](https://www.pcgamer.com/dragon-age-4-all-the-rumors-and-details-we-know-so-far)
- - [World Land Trust charity bundle gets you over $450 of games for a minimum donation of $5](https://www.pcgamer.com/world-land-trust-charity-bundle-gets-you-over-dollar450-worth-of-games-for-a-minimum-donation-of-dollar5)<!-- GAME:END -->
+ - [Dragon Age 4: Everything we know about the next RPG in Thedas](https://www.pcgamer.com/dragon-age-4-all-the-rumors-and-details-we-know-so-far)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
