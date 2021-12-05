@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Average dip.](http://9gag.com/gag/a215EPO)
- - 🚯 [Making a coffee table out of pallet wood, with a plywood base](http://9gag.com/gag/avAnpEd)
- - 🚯 [Movie being filmed right in front of this neighborhood](http://9gag.com/gag/a0Zj8vZ)<!-- MEMES:END -->
+ - 🚖 [Why the end of a tape measure moves](http://9gag.com/gag/aeg6Nm5)
+ - 🚯 [Fat ops](http://9gag.com/gag/a91YjQ0)
+ - 🚯 [You don&amp;#039;t realize how big giant tortoises are until you see them standing next to a person](http://9gag.com/gag/aeg6Nxj)<!-- MEMES:END -->
 
 --- 
 
