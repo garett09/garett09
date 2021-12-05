@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [You don&amp;#039;t realize how big giant tortoises are until you see them standing next to a person](http://9gag.com/gag/aeg6Nxj)
- - 🚯 [A 3D reenactment of Tiye, the wife of Pharaoh Amenhotep III and Tutankhamun&amp;#039;s grandmother was created by a team of Egyptian and German researchers.](http://9gag.com/gag/a0Zj9PL)
- - 🚯 [Same for girlfriend...](http://9gag.com/gag/a51rd0E)<!-- MEMES:END -->
+ - 🚖 [Same for girlfriend...](http://9gag.com/gag/a51rd0E)
+ - 🚯 [Aww so cute](http://9gag.com/gag/aVxeQXy)
+ - 🚯 [Omicron 1,2 and 3 lol](http://9gag.com/gag/a91YMDZ)<!-- MEMES:END -->
 
 --- 
 
