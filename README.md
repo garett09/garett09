@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [What we know about The Marvelous Mrs Maisel Season 4](https://www.androidauthority.com/marvelous-mrs-maisel-season-4-3070384/)
- - [Forget Great British Bake Off. Netflix&#39;s School of Chocolate raises the bar     - CNET](https://www.cnet.com/news/forget-great-british-bake-off-netflixs-school-of-chocolate-raises-the-bar/#ftag=CAD590a51e)
- - [Best deals Dec. 4: $979 11-inch iPad Pro, $148 Respawn gaming chair, Lego Star Wars Droid, more!](https://appleinsider.com/articles/21/12/04/best-deals-dec-4-979-11-inch-ipad-pro-148-respawn-gaming-chair-lego-star-wars-droid-more?utm_medium=rss)<!-- TECH:END -->
+ - [New Spider-Man: Across the Spider-Verse trailer features another Spider-Man     - CNET](https://www.cnet.com/news/new-spider-man-across-the-spider-verse-trailer-features-a-new-spider-man/#ftag=CAD590a51e)
+ - [The first trailer for Spider-Man: Across the Spider-Verse &lpar;Part One&rpar; teases a stunning animated sequel](https://www.theverge.com/2021/12/4/22817957/spider-man-across-the-spider-verse-part-one-sequelanimated-multiverse-miles-morales)
+ - [The best Google Pixel 6 Pro rugged cases](https://www.androidauthority.com/pixel-6-pro-rugged-cases-3068787/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
