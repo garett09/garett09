@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Why Do People Make &lpar;and Watch&rpar; 5-Hour iCarly Analysis Videos?](https://www.wired.com/story/youtube-5-hour-icarly-analysis-videos)
  - [I wish all smart security cameras had this one feature](https://www.androidauthority.com/security-camera-notification-3056725/)
- - [iPhone privacy features not a lot of people know about yet     - CNET](https://www.cnet.com/tech/mobile/iphone-privacy-features-not-a-lot-of-people-know-about-yet/#ftag=CAD590a51e)
- - [Fortnite: Chapter 3 officially revealed with new island, Spider-Man, and plenty more changes](https://www.theverge.com/2021/12/5/22817392/fortnite-chapter-3-season-1-spider-man-new-island)<!-- TECH:END -->
+ - [iPhone privacy features not a lot of people know about yet     - CNET](https://www.cnet.com/tech/mobile/iphone-privacy-features-not-a-lot-of-people-know-about-yet/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
