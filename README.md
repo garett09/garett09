@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hehe](http://9gag.com/gag/a71dKww)
- - 🚯 [Cat + Rabbit = ?](http://9gag.com/gag/aLv9RmP)
+ - 🚖 [You don&amp;#039;t realize how big giant tortoises are until you see them standing next to a person](http://9gag.com/gag/aeg6Nxj)
+ - 🚯 [A 3D reenactment of Tiye, the wife of Pharaoh Amenhotep III and Tutankhamun&amp;#039;s grandmother was created by a team of Egyptian and German researchers.](http://9gag.com/gag/a0Zj9PL)
  - 🚯 [Same for girlfriend...](http://9gag.com/gag/a51rd0E)<!-- MEMES:END -->
 
 --- 
