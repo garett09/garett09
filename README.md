@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fortnite: Chapter 3 officially revealed with new island, Spider-Man, and plenty more changes](https://www.theverge.com/2021/12/5/22817392/fortnite-chapter-3-season-1-spider-man-new-island)
- - [What are video codecs? Everything you need to know about AV1, VP9, H.264, others](https://www.androidauthority.com/what-are-video-codecs-3066257/)
- - [What is Intel XeSS? Intel’s answer to Nvidia DLSS and AMD FSR explained](https://www.androidauthority.com/intel-xess-explained-3060155/)<!-- TECH:END -->
+ - [I wish all smart security cameras had this one feature](https://www.androidauthority.com/security-camera-notification-3056725/)
+ - [iPhone privacy features not a lot of people know about yet     - CNET](https://www.cnet.com/tech/mobile/iphone-privacy-features-not-a-lot-of-people-know-about-yet/#ftag=CAD590a51e)
+ - [Fortnite: Chapter 3 officially revealed with new island, Spider-Man, and plenty more changes](https://www.theverge.com/2021/12/5/22817392/fortnite-chapter-3-season-1-spider-man-new-island)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
