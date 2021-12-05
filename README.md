@@ -179,8 +179,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Rock Turns Fortnite&#39;s Island Upside-Down In &#39;The End&#39;](https://kotaku.com/the-rock-turns-fortnites-island-upside-down-in-the-end-1848161793)
- - [How much free storage space have you got on your PC?](https://www.pcgamer.com/how-much-free-storage-space-have-you-got-on-your-pc)
+ - [More confirmation Dragon Age 4 will be &#39;single-player focused&#39;](https://www.pcgamer.com/more-confirmation-dragon-age-4-will-be-single-player-focused)
+ - [Dwayne &quot;The Rock&quot; Johnson makes his Fortnite debut as Chapter 2 ends](https://www.pcgamer.com/dwayne-the-rock-johnson-makes-his-fortnite-debut-as-chapter-2-ends)
  - [Everything we know about Fortnite Chapter 3](https://www.pcgamer.com/fortnite-chapter-3)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
