@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Omicron 1,2 and 3 lol](http://9gag.com/gag/a91YMDZ)
- - 🚯 [More children were shot in Chicago than killed by covid-19](http://9gag.com/gag/aNPWZ13)
- - 🚯 [That time Prince Harry finessed Ussain Bolt.](http://9gag.com/gag/aWgMW2q)<!-- MEMES:END -->
+ - 🚖 [More children were shot in Chicago than killed by covid-19](http://9gag.com/gag/aNPWZ13)
+ - 🚯 [YouTube tried to delete this, help preserve this](http://9gag.com/gag/ang1K15)
+ - 🚯 [When you play too much San Andreas remastered](http://9gag.com/gag/aE8n11M)<!-- MEMES:END -->
 
 --- 
 
