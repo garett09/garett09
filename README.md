@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [More children were shot in Chicago than killed by covid-19](http://9gag.com/gag/aNPWZ13)
- - 🚯 [YouTube tried to delete this, help preserve this](http://9gag.com/gag/ang1K15)
- - 🚯 [When you play too much San Andreas remastered](http://9gag.com/gag/aE8n11M)<!-- MEMES:END -->
+ - 🚖 [I would finish all the food first before going anywhere...](http://9gag.com/gag/azeAL0m)
+ - 🚯 [When you play too much San Andreas remastered](http://9gag.com/gag/aE8n11M)
+ - 🚯 [And also erased the paper](http://9gag.com/gag/arnN47d)<!-- MEMES:END -->
 
 --- 
 
