@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Why Do People Make &lpar;and Watch&rpar; 5-Hour iCarly Analysis Videos?](https://www.wired.com/story/youtube-5-hour-icarly-analysis-videos)
- - [I wish all smart security cameras had this one feature](https://www.androidauthority.com/security-camera-notification-3056725/)
- - [iPhone privacy features not a lot of people know about yet     - CNET](https://www.cnet.com/tech/mobile/iphone-privacy-features-not-a-lot-of-people-know-about-yet/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [All the confirmed Snapdragon 8 Gen 1 phones and brands so far](https://www.androidauthority.com/best-snapdragon-8-gen-1-phones-3069667/)
+ - [The Best Laptop Backpacks for Work &lpar;and Life&rpar;](https://www.wired.com/gallery/the-best-backpacks-for-work)
+ - [The Great Neutrino Mystery Could Point to Missing Particles](https://www.wired.com/story/the-great-neutrino-mystery-could-point-to-missing-particles)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
