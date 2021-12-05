@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Neo and Trinity](http://9gag.com/gag/aeg6jxB)
- - 🚯 [Exact people](http://9gag.com/gag/apgLEjE)
- - 🚯 [Making a coffee table out of pallet wood, with a plywood base](http://9gag.com/gag/avAnpEd)<!-- MEMES:END -->
+ - 🚖 [Average dip.](http://9gag.com/gag/a215EPO)
+ - 🚯 [Making a coffee table out of pallet wood, with a plywood base](http://9gag.com/gag/avAnpEd)
+ - 🚯 [Movie being filmed right in front of this neighborhood](http://9gag.com/gag/a0Zj8vZ)<!-- MEMES:END -->
 
 --- 
 
