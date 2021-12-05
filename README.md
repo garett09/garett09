@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Halo Subreddit Temporarily Shutdown Because Angry Gamers Won&#39;t Stop Being Toxic Jerks](https://kotaku.com/halo-subreddit-temporarily-shutdown-because-of-excessiv-1848163039)
- - [Fortnite Chapter 3 brings a new map, Spider-Man, and web-swinging](https://www.polygon.com/fortnite/22816585/fortnite-chapter-3-new-map-trailer-locations-minimap-spider-man)
- - [Animal Crossing’s 2.0 update is perfect for recreating Studio Ghibli movie scenes](https://www.polygon.com/22816289/animal-crossing-new-horizons-update-studio-ghibli-miyazaki-movie-scenes)<!-- GAME:END -->
+ - [Everything we know about Fortnite Chapter 3](https://www.pcgamer.com/fortnite-chapter-3)
+ - [Sunday Comics: Winner!](https://kotaku.com/sunday-comics-winner-1848163254)
+ - [This week in PC Gaming: Final Fantasy 14: Endwalker, Halo Infinite and Monster Rancher 1 &amp; 2 DX](https://www.pcgamer.com/this-week-in-pc-gaming-final-fantasy-14-endwalker-halo-infinite-monster-rancher-1-2-dx)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
