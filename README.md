@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [World Land Trust charity bundle gets you over $450 worth of games for a minimum donation of $5](https://www.pcgamer.com/world-land-trust-charity-bundle-gets-you-over-dollar450-worth-of-games-for-a-minimum-donation-of-dollar5)
- - [Here’s your first look at Spider-Man: Across the Spider-verse ... Part One](https://www.polygon.com/22776592/spider-man-across-the-spider-verse-part-1-trailer-ccxp-footage-release-cast)
- - [More confirmation Dragon Age 4 will be &#39;single-player focused&#39;](https://www.pcgamer.com/more-confirmation-dragon-age-4-will-be-single-player-focused)<!-- GAME:END -->
+ - [Dragon Age 4: Everything we know about the next RPG in Thedas](https://www.pcgamer.com/dragon-age-4-all-the-rumors-and-details-we-know-so-far)
+ - [World Land Trust charity bundle gets you over $450 of games for a minimum donation of $5](https://www.pcgamer.com/world-land-trust-charity-bundle-gets-you-over-dollar450-worth-of-games-for-a-minimum-donation-of-dollar5)
+ - [Here’s your first look at Spider-Man: Across the Spider-verse ... Part One](https://www.polygon.com/22776592/spider-man-across-the-spider-verse-part-1-trailer-ccxp-footage-release-cast)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
