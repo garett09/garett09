@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [If you ever need access to journals](http://9gag.com/gag/ay98n9q)
- - 🚯 [Road rage, female edition, Romania.](http://9gag.com/gag/aM49GX6)
+ - 🚖 [Sneaky sneaky](http://9gag.com/gag/aqGL2B7)
+ - 🚯 [A coffin house in Hong Kong](http://9gag.com/gag/aPZWDLV)
  - 🚯 [Calling all Dungeon Masters, aspiring writers and gamer masters: It&amp;#039;s time to unleash your creativity.](http://9gag.com/gag/aWgZEOd)<!-- MEMES:END -->
 
 --- 
