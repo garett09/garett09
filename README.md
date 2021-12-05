@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [What to stream in December 2021 on Netflix, Disney Plus, HBO Max, and more](https://www.androidauthority.com/what-to-stream-1161293/)
- - [New trailers: Station Eleven, The Matrix Resurrections, The Book of Boba Fett, and more](https://www.theverge.com/2021/12/5/22815989/new-trailers-station-eleven-peacemaker-boba-fett-matrix-foo-fighters-hbo-disney)
- - [Google Pixel 6a: All the rumors in one place](https://www.androidauthority.com/google-pixel-6a-3062838/)<!-- TECH:END -->
+ - [Shows like You: What to watch if you like Netflix’s twisted “romantic” thriller](https://www.androidauthority.com/shows-like-you-netflix-3068738/)
+ - [The Verizon app might be collecting your browsing history and more](https://www.theverge.com/2021/12/5/22818783/verizon-app-data-collection-browsing-history)
+ - [Apple sues Russia&#39;s Federal Antimonopoly Service challenging the order to allow developers to inform App Store users about alternative payment options &lpar;RT&rpar;](http://www.techmeme.com/211205/p5#a211205p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
