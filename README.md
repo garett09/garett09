@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It&amp;rsquo;s over 9000!](http://9gag.com/gag/aQXx4jz)
- - 🚯 [New law of motion](http://9gag.com/gag/aE8n1AO)
- - 🚯 [That time Prince Harry finessed Ussain Bolt.](http://9gag.com/gag/aWgMW2q)<!-- MEMES:END -->
+ - 🚖 [The Mars Rover video and sound. It&amp;#039;s so eerie and yet so interesting/thought-provoking.](http://9gag.com/gag/aYrLWGm)
+ - 🚯 [If you ever need access to journals](http://9gag.com/gag/ay98n9q)
+ - 🚯 [Calling all Dungeon Masters, aspiring writers and gamer masters: It&amp;#039;s time to unleash your creativity.](http://9gag.com/gag/aWgZEOd)<!-- MEMES:END -->
 
 --- 
 
