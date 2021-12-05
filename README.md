@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon Prime Video: The 32 best TV shows to watch     - CNET](https://www.cnet.com/news/amazon-prime-video-the-32-best-tv-shows-to-stream-right-now/#ftag=CAD590a51e)
- - [Amazon Prime Video: The 29 best movies to watch     - CNET](https://www.cnet.com/news/amazon-prime-video-the-29-best-movies-to-watch-this-weekend/#ftag=CAD590a51e)
- - [Netflix: 45 of the absolute best TV shows to watch     - CNET](https://www.cnet.com/news/netflix-45-of-the-absolute-best-tv-shows-to-watch-this-weekend/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The best Google Pixel 6 Pro wallet cases](https://www.androidauthority.com/pixel-6-pro-wallet-cases-3068776/)
+ - [Why you need to watch the most underrated sci-fi thriller on Amazon Prime     - CNET](https://www.cnet.com/news/why-you-need-to-watch-the-most-underrated-sci-fi-thriller-on-amazon-prime/#ftag=CAD590a51e)
+ - [Hotel Engine, an online hotel booking and management service for business travel, raises a $65M Series B at a $1.3B valuation, up from $150M in 2019 &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/211205/p7#a211205p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
