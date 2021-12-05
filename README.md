@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I&amp;#039;m always A though.](http://9gag.com/gag/aAGPVog)
- - 🚯 [Aww so cute](http://9gag.com/gag/aVxeQXy)
- - 🚯 [I love the internet](http://9gag.com/gag/a0ZjPYn)<!-- MEMES:END -->
+ - 🚖 [I love the internet](http://9gag.com/gag/a0ZjPYn)
+ - 🚯 [When you do 99% of the job but someone else takes the credit](http://9gag.com/gag/avAn0VW)
+ - 🚯 [It has been two very difficult years, but I managed to open my small bar/restaurant. You&amp;rsquo;re all invited if you ever come to Costa Rica!](http://9gag.com/gag/ang1Y50)<!-- MEMES:END -->
 
 --- 
 
