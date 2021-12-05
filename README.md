@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [What are video codecs? Everything you need to know about AV1, VP9, H.264, others](https://www.androidauthority.com/what-are-video-codecs-3066257/)
  - [What is Intel XeSS? Intel’s answer to Nvidia DLSS and AMD FSR explained](https://www.androidauthority.com/intel-xess-explained-3060155/)
- - [Crypto exchange BitMart says it suffered a hack resulting in the loss of $150M in crypto, after its Ethereum and Binance Smart Chain hot wallets were breached &lpar;Tim Copeland/The Block&rpar;](http://www.techmeme.com/211205/p2#a211205p2)
- - [Life House, which offers hotel management software, raises a $60M Series C co-led by Kayak and Inovia Capital, bringing its total funding to over $100M &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/211205/p1#a211205p1)<!-- TECH:END -->
+ - [Crypto exchange BitMart says it suffered a hack resulting in the loss of $150M in crypto, after its Ethereum and Binance Smart Chain hot wallets were breached &lpar;Tim Copeland/The Block&rpar;](http://www.techmeme.com/211205/p2#a211205p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
