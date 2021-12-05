@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Profile of Group-IB CEO Ilya Sachkov, who is charged with treason in Russia, sources say for allegedly giving the US info about Fancy Bear&#39;s 2016 operation &lpar;Bloomberg&rpar;](http://www.techmeme.com/211204/p11#a211204p11)
  - [New Spider-Man: Across the Spider-Verse trailer features another Spider-Man     - CNET](https://www.cnet.com/news/new-spider-man-across-the-spider-verse-trailer-features-a-new-spider-man/#ftag=CAD590a51e)
- - [The first trailer for Spider-Man: Across the Spider-Verse &lpar;Part One&rpar; teases a stunning animated sequel](https://www.theverge.com/2021/12/4/22817957/spider-man-across-the-spider-verse-part-one-sequelanimated-multiverse-miles-morales)
- - [The best Google Pixel 6 Pro rugged cases](https://www.androidauthority.com/pixel-6-pro-rugged-cases-3068787/)<!-- TECH:END -->
+ - [The first trailer for Spider-Man: Across the Spider-Verse &lpar;Part One&rpar; teases a stunning animated sequel](https://www.theverge.com/2021/12/4/22817957/spider-man-across-the-spider-verse-part-one-sequelanimated-multiverse-miles-morales)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
