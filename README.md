@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [All the confirmed Snapdragon 8 Gen 1 phones and brands so far](https://www.androidauthority.com/best-snapdragon-8-gen-1-phones-3069667/)
- - [The Best Laptop Backpacks for Work &lpar;and Life&rpar;](https://www.wired.com/gallery/the-best-backpacks-for-work)
- - [The Great Neutrino Mystery Could Point to Missing Particles](https://www.wired.com/story/the-great-neutrino-mystery-could-point-to-missing-particles)<!-- TECH:END -->
+ - [The Serial 1 Is a Ho-Hum Harley Ebike](https://www.wired.com/review/serial-1-rush-cty)
+ - [Crime blotter: Rare Apple Store smash-and-grab in Santa Rosa](https://appleinsider.com/articles/21/12/05/crime-blotter-rare-apple-store-smash-and-grab-in-santa-rosa?utm_medium=rss)
+ - [All the confirmed Snapdragon 8 Gen 1 phones and brands so far](https://www.androidauthority.com/best-snapdragon-8-gen-1-phones-3069667/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
