@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Serial 1 Is a Ho-Hum Harley Ebike](https://www.wired.com/review/serial-1-rush-cty)
- - [Crime blotter: Rare Apple Store smash-and-grab in Santa Rosa](https://appleinsider.com/articles/21/12/05/crime-blotter-rare-apple-store-smash-and-grab-in-santa-rosa?utm_medium=rss)
- - [All the confirmed Snapdragon 8 Gen 1 phones and brands so far](https://www.androidauthority.com/best-snapdragon-8-gen-1-phones-3069667/)<!-- TECH:END -->
+ - [Sony Xperia Pro-I review: Not for ‘normals,’ best left to the pros](https://www.androidauthority.com/sony-xperia-pro-i-review-3061123/)
+ - [Best Buy&#39;s Cyber Deals end tonight: Don&#39;t miss your last chance to save big     - CNET](https://www.cnet.com/tech/computing/best-buy-cyber-monday-deals-discounts/#ftag=CAD590a51e)
+ - [eBay accidentally suspended ‘a small number’ of users](https://www.theverge.com/2021/12/5/22818588/ebay-suspended-users-glitch)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
