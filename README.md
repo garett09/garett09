@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Pixel 6a: All the rumors in one place](https://www.androidauthority.com/google-pixel-6a-3062838/)
- - [Crime blotter: Rare Apple Store smash-and-grab, AirTag car thefts, more!](https://appleinsider.com/articles/21/12/05/crime-blotter-rare-apple-store-smash-and-grab-in-santa-rosa?utm_medium=rss)
- - [Apple AR headset, new Mac Pro and more expected in 2022](https://appleinsider.com/articles/21/12/05/apples-ar-headset-among-expected-2022-launches?utm_medium=rss)<!-- TECH:END -->
+ - [What to stream in December 2021 on Netflix, Disney Plus, HBO Max, and more](https://www.androidauthority.com/what-to-stream-1161293/)
+ - [New trailers: Station Eleven, The Matrix Resurrections, The Book of Boba Fett, and more](https://www.theverge.com/2021/12/5/22815989/new-trailers-station-eleven-peacemaker-boba-fett-matrix-foo-fighters-hbo-disney)
+ - [Google Pixel 6a: All the rumors in one place](https://www.androidauthority.com/google-pixel-6a-3062838/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
