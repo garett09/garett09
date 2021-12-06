@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [China moon rover will investigate cube-shaped &#39;mystery&#39; object on lunar far side     - CNET](https://www.cnet.com/news/china-moon-rover-will-investigate-cube-shaped-mystery-object-on-lunar-far-side/#ftag=CAD590a51e)
- - [Some Amazon sellers are backdating books to fool Amazon&#39;s algorithms into changing where they appear, often allowing the sellers to charge exorbitant prices &lpar;David Streitfeld/New York Times&rpar;](http://www.techmeme.com/211205/p10#a211205p10)
- - [Don&#39;t look for the PS5 and Xbox Series X at Walmart&#39;s in-store Gamer Drop     - CNET](https://www.cnet.com/tech/gaming/dont-look-for-the-ps5-and-xbox-series-x-at-walmarts-in-store-gamer-drop/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Alibaba says it will appoint a new CFO and reorganize its e-commerce businesses under two new divisions, one domestic and one international &lpar;Reuters&rpar;](http://www.techmeme.com/211205/p11#a211205p11)
+ - [See the first look at Harry Potter&#39;s 20th anniversary special on HBO Max     - CNET](https://www.cnet.com/news/see-the-first-look-at-harry-potters-20th-anniversary-special-on-hbo-max/#ftag=CAD590a51e)
+ - [Succession season 3, episode 8 recap: A knife fight in the mud     - CNET](https://www.cnet.com/news/succession-season-3-episode-8-recap-a-knife-fight-in-the-mud/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
