@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Tips for zero-gravity co-op fun in Heavenly Bodies, out tomorrow](https://blog.playstation.com/2021/12/06/tips-for-zero-gravity-co-op-fun-in-heavenly-bodies-out-tomorrow/)
- - [Tips for zero-gravity co-op fun in Heavenly Bodies, out tomorrow](https://blog.playstation.com/2021/12/06/tips-for-zero-gravity-co-op-fun-in-heavenly-bodies-out-tomorrow/)
- - [The best indie tabletop RPGs of 2021](https://www.polygon.com/22812103/best-indie-ttrpg-2021)<!-- GAME:END -->
+ - [The best TV shows of 2021](https://www.polygon.com/22816269/best-shows-2021)
+ - [PlayStation Now games for December: GTA III: The Definitive Edition, John Wick Hex, FF X/X-2 HD Remaster, and Spitlings](https://blog.playstation.com/2021/12/06/playstation-now-games-for-december-gta-iii-the-definitive-edition-john-wick-hex-ff-x-x-2-hd-remaster-and-spitlings/)
+ - [PlayStation Now games for December: GTA III: The Definitive Edition, John Wick Hex, FF X/X-2 HD Remaster, and Spitlings](https://blog.playstation.com/2021/12/06/playstation-now-games-for-december-gta-iii-the-definitive-edition-john-wick-hex-ff-x-x-2-hd-remaster-and-spitlings/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
