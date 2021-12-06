@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony cameras are getting harder to buy due to the chip shortage](https://www.theverge.com/2021/12/6/22820922/sony-digital-camera-chip-shortage)
- - [Apple Configurator update allows for easy device addition from the iPhone](https://appleinsider.com/articles/21/12/06/apple-configurator-update-allows-for-easy-device-addition-from-the-iphone?utm_medium=rss)
- - [Tile buyer Life360 reportedly sells precise user location data to nearly anyone](https://appleinsider.com/articles/21/12/06/tile-buyer-life360-reportedly-sells-precise-user-location-data-to-nearly-anyone?utm_medium=rss)<!-- TECH:END -->
+ - [Microsoft seizes 42 domains allegedly used by a Chinese cyber espionage group that targeted organizations in the US and 28 other countries &lpar;Catalin Cimpanu/The Record&rpar;](http://www.techmeme.com/211206/p31#a211206p31)
+ - [Some SD cards not working with 2021 MacBook Pro, users report](https://appleinsider.com/articles/21/12/06/some-sd-cards-not-working-with-2021-macbook-pro-users-report?utm_medium=rss)
+ - [MongoDB reports Q3 revenue of $227M, up 50% YoY, a net loss of $81.3M, up from $72.7M YoY, and Atlas cloud database revenue up 84%; stock up 17%+ &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/211206/p30#a211206p30)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
