@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Surprised the daughter is decent unlike her Karen mother.](http://9gag.com/gag/a91Yp86)
- - 🚯 [Girl hits boy and wonders why he slapped her back - equality :/](http://9gag.com/gag/a91YAe1)
+ - 🚖 [I don&amp;#039;t usually express emotions in real life so i just wanted to upload it somewhere how happy i am](http://9gag.com/gag/aVxeYey)
+ - 🚯 [Office work in a nutshell](http://9gag.com/gag/aE8n21N)
  - 🚯 [Which element would you choose?](http://9gag.com/gag/azeAqmj)<!-- MEMES:END -->
 
 --- 
