@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Shout out to our super hero dads out there.](http://9gag.com/gag/a71dDLm)
- - 🚯 [Mmmm...](http://9gag.com/gag/aPZWBoK)
- - 🚯 [Calling all Dungeon Masters, aspiring writers and gamer masters: It&amp;#039;s time to unleash your creativity.](http://9gag.com/gag/aWgZEOd)<!-- MEMES:END -->
+ - 🚖 [Kowalski report](http://9gag.com/gag/aDDGWMZ)
+ - 🚯 [Coach&amp;#039;s reaction to watching his goalkeeper play in midfield.](http://9gag.com/gag/amgzYZy)
+ - 🚯 [Which element would you choose?](http://9gag.com/gag/azeAqmj)<!-- MEMES:END -->
 
 --- 
 
