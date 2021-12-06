@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Death Trash patch fixes &#39;a crash caused by Fleshworms eating puke&#39;](https://www.pcgamer.com/death-trash-patch-fixes-a-crash-caused-by-fleshworms-eating-puke)
  - [LA Lakers Release Strange Little Halo Bundle](https://kotaku.com/la-lakers-release-strange-little-halo-bundle-1848163839)
- - [Watch Henry Cavill politely explain Warhammer is not World of Warcraft](https://www.pcgamer.com/watch-henry-cavill-politely-explain-warhammer-is-not-world-of-warcraft)
- - [Fortnite: Receive your next objective in the Joneses and drop off supplies location](https://www.pcgamer.com/joneses-drop-off-supplies-fortnite)<!-- GAME:END -->
+ - [Watch Henry Cavill politely explain that Warhammer is not World of Warcraft](https://www.pcgamer.com/watch-henry-cavill-politely-explain-warhammer-is-not-world-of-warcraft)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
