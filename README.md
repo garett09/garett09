@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Japan&#39;s Biggest YouTuber Bought The $10,000 Gucci Xbox](https://kotaku.com/japans-biggest-youtuber-bought-the-10-000-gucci-xbox-1848164842)
- - [Wait, why are we mad at Cortana? Seven things to remember before you play Halo Infinite](https://www.polygon.com/22814712/halo-infinite-recap-cortana-atriox-banished-story-summary)
- - [Halo Infinite: The Kotaku Review](https://kotaku.com/halo-infinite-the-kotaku-review-1848159022)<!-- GAME:END -->
+ - [Say what you will about Fortnite, but Chapter Three is another extraordinary refresh](https://www.pcgamer.com/say-what-you-will-about-fortnite-but-chapter-three-is-another-extraordinary-refresh)
+ - [11 years after release, FF14 hits its highest-ever Steam player count](https://www.pcgamer.com/11-years-after-release-ff14-hits-its-highest-ever-steam-player-count)
+ - [The best graphics cards in 2021](https://www.pcgamer.com/the-best-graphics-cards)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
