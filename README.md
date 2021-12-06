@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Kowalski report](http://9gag.com/gag/aDDGWMZ)
- - 🚯 [Coach&amp;#039;s reaction to watching his goalkeeper play in midfield.](http://9gag.com/gag/amgzYZy)
+ - 🚖 [Coach&amp;#039;s reaction to watching his goalkeeper play in midfield.](http://9gag.com/gag/amgzYZy)
+ - 🚯 [Ahaaa!!!!](http://9gag.com/gag/a8148ye)
  - 🚯 [Which element would you choose?](http://9gag.com/gag/azeAqmj)<!-- MEMES:END -->
 
 --- 
