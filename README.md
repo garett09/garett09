@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s when you can download the AetherSX2 emulator &lpar;Updated: Out now&rpar;](https://www.androidauthority.com/aethersx2-emulator-release-3068106/)
- - [Verizon, AT&amp;T, and T-Mobile all have programs that collect additional data, like app usage and web history, on their customers, and they are generally opt-out &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/211206/p6#a211206p6)
- - [&#39;Dickinson&#39; creator talks time travel episode](https://appleinsider.com/articles/21/12/06/dickinson-creator-talks-time-travel-episode?utm_medium=rss)<!-- TECH:END -->
+ - [Bond star Ana de Armas replaces Scarlett Johannson in &#39;Ghosted&#39;](https://appleinsider.com/articles/21/12/06/bond-star-ana-de-armas-replaces-scarlett-johannson-in-ghosted?utm_medium=rss)
+ - [TradeDepot, which connects consumer goods brands to retailers, raises a $110M Series B in equity and debt led by the International Finance Corporation &lpar;Tage Kene-Okafor/TechCrunch&rpar;](http://www.techmeme.com/211206/p7#a211206p7)
+ - [Demand for iPhone 13 still healthy as lead times grow](https://appleinsider.com/articles/21/12/06/demand-for-iphone-13-still-healthy-as-lead-times-grow?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
