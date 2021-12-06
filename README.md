@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Duolingo interprets 2021, with TikTok and Squid Game inspiring users to learn new languages](https://www.theverge.com/2021/12/6/22815794/duolingo-interprets-tiktok-squid-game-netflix-year-in-review)
- - [Marvel confirms Charlie Cox will return as Daredevil     - CNET](https://www.cnet.com/news/marvel-confirms-charlie-cox-will-return-as-daredevil/#ftag=CAD590a51e)
- - [Marvel&#39;s Hawkeye release schedule: When does episode 4 hit Disney Plus?     - CNET](https://www.cnet.com/news/marvels-hawkeye-release-schedule-when-does-episode-4-hit-disney-plus/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Behind the scramble to revamp the White House&#39;s plans for the Alliance for the Future of the Internet, meant to rally countries behind a vision for an open web &lpar;Issie Lapowsky/Protocol&rpar;](http://www.techmeme.com/211206/p1#a211206p1)
+ - [November update hits Samsung Galaxy S10 series models in the US](https://www.androidauthority.com/samsung-galaxy-s10-plus-update-969909/)
+ - [Duolingo interprets 2021, with TikTok and Squid Game inspiring users to learn new languages](https://www.theverge.com/2021/12/6/22815794/duolingo-interprets-tiktok-squid-game-netflix-year-in-review)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
