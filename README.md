@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lyft CFO Brian Roberts, who joined the company in 2014 and took it public, departs to become CFO at NFT marketplace OpenSea &lpar;Lucas Matney/TechCrunch&rpar;](http://www.techmeme.com/211206/p26#a211206p26)
- - [Google fixed a ton of bugs with the December 2021 Android security patch](https://www.androidauthority.com/december-2021-android-security-patch-3071761/)
- - [A look at efforts to manage climate data, gathered from satellites, aircraft, and ocean buoys, as US archives are expected to reach 650+ PB over the next decade &lpar;Robert Lee Hotz/Wall Street Journal&rpar;](http://www.techmeme.com/211206/p25#a211206p25)<!-- TECH:END -->
+ - [Toyota will build a $1.29 billion electric vehicle battery factory in North Carolina](https://www.theverge.com/2021/12/6/22820925/toyota-battery-factory-north-carolina-electric-vehicle-ev)
+ - [Sources: Life360, a family safety app with 33M users, has sold users&#39; precise location since 2016 and is one of the location data broker industry&#39;s top sources &lpar;The Markup&rpar;](http://www.techmeme.com/211206/p28#a211206p28)
+ - [NASA announces 10 new astronaut candidates who could fly to the Moon someday](https://www.theverge.com/2021/12/6/22820265/nasa-new-astronaut-candidates-artemis-generation-announcement)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
