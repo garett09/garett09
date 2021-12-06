@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Exo One is a deliriously fun trip through sci-fi dreamscapes](https://www.polygon.com/reviews/22820478/exo-one-review-xbox-series-x-pc-game-pass)
- - [Marvel confirms Shang-Chi 2 is in the works](https://www.polygon.com/22820827/marvel-shang-chi-2-confirmed-disney-plus)
- - [Halo Infinite&#39;s Crystal-Clear Visual Design Puts Its Murky Competitors To Shame](https://kotaku.com/halo-infinites-crystal-clear-visual-design-puts-its-mur-1848167032)<!-- GAME:END -->
+ - [Twitch&#39;s Best Virtual Bartender Wants To Help Viewers With Addiction](https://kotaku.com/twitchs-best-virtual-bartender-wants-to-help-viewers-wi-1848117096)
+ - [Call of Duty’s season 1 content plans for Warzone, Vanguard laid out](https://www.polygon.com/22820910/call-of-duty-vanguard-season-1-roadmap-battle-pass-warzone-pacific-content-price)
+ - [There’s only one MCU Daredevil, Kevin Feige confirms, but actual plans are hazy](https://www.polygon.com/22820545/daredevil-marvel-movies-shows-kevin-feige)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
