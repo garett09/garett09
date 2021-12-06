@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Say what you will about Fortnite, but Chapter Three is another extraordinary refresh](https://www.pcgamer.com/say-what-you-will-about-fortnite-but-chapter-three-is-another-extraordinary-refresh)
- - [11 years after release, FF14 hits its highest-ever Steam player count](https://www.pcgamer.com/11-years-after-release-ff14-hits-its-highest-ever-steam-player-count)
- - [The best graphics cards in 2021](https://www.pcgamer.com/the-best-graphics-cards)<!-- GAME:END -->
+ - [Horizon Forbidden West: outsmart your enemies](https://blog.playstation.com/2021/12/06/horizon-forbidden-west-outsmart-your-enemies/)
+ - [Horizon Forbidden West: outsmart your enemies](https://blog.playstation.com/2021/12/06/horizon-forbidden-west-outsmart-your-enemies/)
+ - [Best gaming laptops in 2021](https://www.pcgamer.com/best-gaming-laptop)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
