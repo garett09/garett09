@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Mmmm...](http://9gag.com/gag/aPZWBoK)
- - 🚯 [I&amp;#039;m seeing you .. seth rogen](http://9gag.com/gag/aAGPwzd)
+ - 🚖 [Shout out to our super hero dads out there.](http://9gag.com/gag/a71dDLm)
+ - 🚯 [Mmmm...](http://9gag.com/gag/aPZWBoK)
  - 🚯 [Calling all Dungeon Masters, aspiring writers and gamer masters: It&amp;#039;s time to unleash your creativity.](http://9gag.com/gag/aWgZEOd)<!-- MEMES:END -->
 
 --- 
