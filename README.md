@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Coach&amp;#039;s reaction to watching his goalkeeper play in midfield.](http://9gag.com/gag/amgzYZy)
- - 🚯 [Ahaaa!!!!](http://9gag.com/gag/a8148ye)
+ - 🚖 [I am like an artist&amp;hellip; an underestimated one&amp;hellip;](http://9gag.com/gag/amgz2g6)
+ - 🚯 [True love.](http://9gag.com/gag/ajgDXx1)
  - 🚯 [Which element would you choose?](http://9gag.com/gag/azeAqmj)<!-- MEMES:END -->
 
 --- 
