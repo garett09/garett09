@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Dogsled survival adventure Arctico leaves Early Access in February](https://www.pcgamer.com/dogsled-survival-adventure-arctico-leaves-early-access-in-february)
  - [The best Australian PC gaming deals this week](https://www.pcgamer.com/best-australian-pc-gaming-deals)
- - [Death Trash patch fixes &#39;a crash caused by Fleshworms eating puke&#39;](https://www.pcgamer.com/death-trash-patch-fixes-a-crash-caused-by-fleshworms-eating-puke)
- - [LA Lakers Release Strange Little Halo Bundle](https://kotaku.com/la-lakers-release-strange-little-halo-bundle-1848163839)<!-- GAME:END -->
+ - [Death Trash patch fixes &#39;a crash caused by Fleshworms eating puke&#39;](https://www.pcgamer.com/death-trash-patch-fixes-a-crash-caused-by-fleshworms-eating-puke)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
