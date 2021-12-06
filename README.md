@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Talent is the best.](http://9gag.com/gag/aWgM17n)
- - 🚯 [It&amp;rsquo;s cold outside](http://9gag.com/gag/a51rnEO)
+ - 🚖 [Happens often with me](http://9gag.com/gag/a31jMA5)
+ - 🚯 [Gold memes nevet die](http://9gag.com/gag/aAGPxNd)
  - 🚯 [Which element would you choose?](http://9gag.com/gag/azeAqmj)<!-- MEMES:END -->
 
 --- 
