@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Nintendo Might Have To Make Pre-Order Refunds Easier After Losing Lawsuit](https://kotaku.com/nintendo-might-have-to-make-pre-order-refunds-easier-af-1848168964)
- - [D&amp;D’s Strixhaven: A Curriculum of Chaos understands what makes college memorable](https://www.polygon.com/reviews/22821170/dungeons-dragons-strixhaven-curriculum-of-chaos-review)
- - [PSA: Here’s when Halo Infinite’s campaign launches](https://www.polygon.com/22821137/when-does-halo-infinite-campaign-come-out-game-pass-release-date)<!-- GAME:END -->
+ - [Colin Farrell to return as The Penguin in a HBO Max spinoff series](https://www.polygon.com/22821314/batman-penguin-colin-farrell-spinoff-hbo-max)
+ - [Holiday 2021 gaming deals](https://www.polygon.com/22807653/holiday-gaming-deals-switch-ps5-xbox-series-x-pc-windows-tv-gaming-monitors)
+ - [The Matrix Awakens tech demo is only releasing on consoles](https://www.pcgamer.com/matrix-awakens-pc)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
