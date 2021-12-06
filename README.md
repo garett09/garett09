@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Welcome to Fortnite Battle Royale Chapter 3 – Season 1: Flipped](https://news.xbox.com/en-us/2021/12/06/welcome-to-fortnite-chapter-3-season-1-flipped/)
- - [Dominant performances seal FIA Certified Gran Turismo Championships 2021 titles](https://blog.playstation.com/2021/12/06/dominant-performances-seal-fia-certified-gran-turismo-championships-2021-titles/)
- - [Dominant performances seal FIA Certified Gran Turismo Championships 2021 titles](https://blog.playstation.com/2021/12/06/dominant-performances-seal-fia-certified-gran-turismo-championships-2021-titles/)<!-- GAME:END -->
+ - [The Boys is getting an Animatrix-style animated spinoff](https://www.polygon.com/22820564/the-boys-diabolical-animated-spinoff)
+ - [Unreal&#39;s Matrix Teaser Has People Debating Whether Keanu Reeves Is Real](https://kotaku.com/unreals-matrix-teaser-has-people-debating-whether-keanu-1848166868)
+ - [How to complete the Sage Council MSQ in FF14: Endwalker](https://www.pcgamer.com/ffxiv-final-fantasy-14-sage-council-troubled-souls)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
