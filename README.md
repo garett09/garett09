@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best TV shows of 2021](https://www.polygon.com/22816269/best-shows-2021)
- - [PlayStation Now games for December: GTA III: The Definitive Edition, John Wick Hex, FF X/X-2 HD Remaster, and Spitlings](https://blog.playstation.com/2021/12/06/playstation-now-games-for-december-gta-iii-the-definitive-edition-john-wick-hex-ff-x-x-2-hd-remaster-and-spitlings/)
- - [PlayStation Now games for December: GTA III: The Definitive Edition, John Wick Hex, FF X/X-2 HD Remaster, and Spitlings](https://blog.playstation.com/2021/12/06/playstation-now-games-for-december-gta-iii-the-definitive-edition-john-wick-hex-ff-x-x-2-hd-remaster-and-spitlings/)<!-- GAME:END -->
+ - [Welcome to Fortnite Battle Royale Chapter 3 – Season 1: Flipped](https://news.xbox.com/en-us/2021/12/06/welcome-to-fortnite-chapter-3-season-1-flipped/)
+ - [Dominant performances seal FIA Certified Gran Turismo Championships 2021 titles](https://blog.playstation.com/2021/12/06/dominant-performances-seal-fia-certified-gran-turismo-championships-2021-titles/)
+ - [Dominant performances seal FIA Certified Gran Turismo Championships 2021 titles](https://blog.playstation.com/2021/12/06/dominant-performances-seal-fia-certified-gran-turismo-championships-2021-titles/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
