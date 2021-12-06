@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Don&#39;t look for the PS5 and Xbox Series X at Walmart&#39;s in-store Gamer Drop     - CNET](https://www.cnet.com/tech/gaming/dont-look-for-the-ps5-and-xbox-series-x-at-walmarts-in-store-gamer-drop/#ftag=CAD590a51e)
- - [Netflix: Every Christmas movie and TV series to watch in 2021     - CNET](https://www.cnet.com/news/netflix-every-christmas-movie-and-tv-series-to-watch-in-2021/#ftag=CAD590a51e)
- - [Newly unearthed dinosaur evolved &#39;large tail weapon&#39; unlike any other     - CNET](https://www.cnet.com/news/newly-unearthed-dinosaur-evolved-large-tail-weapon-unlike-any-other/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [China moon rover will investigate cube-shaped &#39;mystery&#39; object on lunar far side     - CNET](https://www.cnet.com/news/china-moon-rover-will-investigate-cube-shaped-mystery-object-on-lunar-far-side/#ftag=CAD590a51e)
+ - [Some Amazon sellers are backdating books to fool Amazon&#39;s algorithms into changing where they appear, often allowing the sellers to charge exorbitant prices &lpar;David Streitfeld/New York Times&rpar;](http://www.techmeme.com/211205/p10#a211205p10)
+ - [Don&#39;t look for the PS5 and Xbox Series X at Walmart&#39;s in-store Gamer Drop     - CNET](https://www.cnet.com/tech/gaming/dont-look-for-the-ps5-and-xbox-series-x-at-walmarts-in-store-gamer-drop/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
