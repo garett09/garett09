@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Fortnite: Where to Discover the Device location guide](https://www.pcgamer.com/discover-the-device-location-fortnite)
- - [The Week In Games: Master Chief Simulator 2021](https://kotaku.com/the-week-in-games-master-chief-simulator-2021-1848163784)
- - [Activision Blizzard &#39;will not be a part&#39; of The Game Awards, Geoff Keighley says](https://www.pcgamer.com/activision-blizzard-will-not-be-a-part-of-the-game-awards-geoff-keighley-says)<!-- GAME:END -->
+ - [Fortnite: Receive your next objective in the Joneses and drop off supplies location](https://www.pcgamer.com/joneses-drop-off-supplies-fortnite)
+ - [Five new Steam games you probably missed &lpar;December 6, 2021&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-december-6-2021)
+ - [PlayStation Executive Fired After Pedophile Allegation Video Posted Online](https://kotaku.com/playstation-executive-fired-after-pedophile-allegation-1848163907)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
