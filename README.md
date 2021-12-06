@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Twitch&#39;s Best Virtual Bartender Wants To Help Viewers With Addiction](https://kotaku.com/twitchs-best-virtual-bartender-wants-to-help-viewers-wi-1848117096)
- - [Call of Duty’s season 1 content plans for Warzone, Vanguard laid out](https://www.polygon.com/22820910/call-of-duty-vanguard-season-1-roadmap-battle-pass-warzone-pacific-content-price)
- - [There’s only one MCU Daredevil, Kevin Feige confirms, but actual plans are hazy](https://www.polygon.com/22820545/daredevil-marvel-movies-shows-kevin-feige)<!-- GAME:END -->
+ - [A Halo Infinite player is exploiting physics to pull off Breath of the Wild-style trick shots](https://www.polygon.com/22821055/halo-infinite-zelda-botw-trick-shots)
+ - [Designing Gold Rush, a More Free-Form Mode for Stealing and Stealth in Hood: Outlaws and Legends](https://news.xbox.com/en-us/2021/12/06/designing-gold-rush-hood-outlaws-and-legends/)
+ - [Niobe’s connection to The Matrix Resurrections and the larger Matrix story](https://www.polygon.com/22821005/jada-pinkett-smith-matrix-resurrections-niobe)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
