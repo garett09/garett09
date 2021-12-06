@@ -194,7 +194,7 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Surprised the daughter is decent unlike her Karen mother.](http://9gag.com/gag/a91Yp86)
- - 🚯 [They love me](http://9gag.com/gag/aVxe39d)
+ - 🚯 [Girl hits boy and wonders why he slapped her back - equality :/](http://9gag.com/gag/a91YAe1)
  - 🚯 [Which element would you choose?](http://9gag.com/gag/azeAqmj)<!-- MEMES:END -->
 
 --- 
