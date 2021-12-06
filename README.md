@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I don&amp;#039;t usually express emotions in real life so i just wanted to upload it somewhere how happy i am](http://9gag.com/gag/aVxeYey)
- - 🚯 [Office work in a nutshell](http://9gag.com/gag/aE8n21N)
+ - 🚖 [Office work in a nutshell](http://9gag.com/gag/aE8n21N)
+ - 🚯 [Saving the World](http://9gag.com/gag/aQXx1Md)
  - 🚯 [Which element would you choose?](http://9gag.com/gag/azeAqmj)<!-- MEMES:END -->
 
 --- 
