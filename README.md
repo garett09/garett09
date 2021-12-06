@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Google Pixel 6 Pro wallet cases](https://www.androidauthority.com/pixel-6-pro-wallet-cases-3068776/)
- - [Why you need to watch the most underrated sci-fi thriller on Amazon Prime     - CNET](https://www.cnet.com/news/why-you-need-to-watch-the-most-underrated-sci-fi-thriller-on-amazon-prime/#ftag=CAD590a51e)
- - [Hotel Engine, an online hotel booking and management service for business travel, raises a $65M Series B at a $1.3B valuation, up from $150M in 2019 &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/211205/p7#a211205p7)<!-- TECH:END -->
+ - [Sense, whose HR software helps recruit blue-collar workers, raises a $50M Series D led by SoftBank&#39;s Vision Fund 2; source says Sense is now valued at $500M &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/211205/p9#a211205p9)
+ - [Netflix: 37 of the absolute best movies to watch     - CNET](https://www.cnet.com/news/netflix-37-of-the-absolute-best-movies-to-stream-this-evening/#ftag=CAD590a51e)
+ - [The head of US Cyber Command says the US military has &quot;taken actions&quot; against ransomware groups, the first public acknowledgement of the offensive measures &lpar;Julian E. Barnes/New York Times&rpar;](http://www.techmeme.com/211205/p8#a211205p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
