@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Horizon Forbidden West: outsmart your enemies](https://blog.playstation.com/2021/12/06/horizon-forbidden-west-outsmart-your-enemies/)
- - [Horizon Forbidden West: outsmart your enemies](https://blog.playstation.com/2021/12/06/horizon-forbidden-west-outsmart-your-enemies/)
- - [Best gaming laptops in 2021](https://www.pcgamer.com/best-gaming-laptop)<!-- GAME:END -->
+ - [Tips for zero-gravity co-op fun in Heavenly Bodies, out tomorrow](https://blog.playstation.com/2021/12/06/tips-for-zero-gravity-co-op-fun-in-heavenly-bodies-out-tomorrow/)
+ - [Tips for zero-gravity co-op fun in Heavenly Bodies, out tomorrow](https://blog.playstation.com/2021/12/06/tips-for-zero-gravity-co-op-fun-in-heavenly-bodies-out-tomorrow/)
+ - [The best indie tabletop RPGs of 2021](https://www.polygon.com/22812103/best-indie-ttrpg-2021)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
