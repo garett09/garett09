@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [SEC reportedly investigating Tesla over its solar panels’ potential fire risks](https://www.theverge.com/2021/12/6/22820295/tesla-sec-solar-panel-alleged-defects)
- - [Google Pixel’s lock screen Snapchat shortcut is here](https://www.theverge.com/2021/12/6/22820593/google-pixel-december-feature-drop-quick-tap-to-snap-shortcut-ultra-wideband-nearby-share)
- - [You can attend the Game Awards red carpet in the metaverse](https://www.theverge.com/2021/12/6/22820270/the-game-awards-red-carpet-core-metaverse)<!-- TECH:END -->
+ - [Lyft CFO Brian Roberts, who joined the company in 2014 and took it public, departs to become CFO at NFT marketplace OpenSea &lpar;Lucas Matney/TechCrunch&rpar;](http://www.techmeme.com/211206/p26#a211206p26)
+ - [Google fixed a ton of bugs with the December 2021 Android security patch](https://www.androidauthority.com/december-2021-android-security-patch-3071761/)
+ - [A look at efforts to manage climate data, gathered from satellites, aircraft, and ocean buoys, as US archives are expected to reach 650+ PB over the next decade &lpar;Robert Lee Hotz/Wall Street Journal&rpar;](http://www.techmeme.com/211206/p25#a211206p25)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
