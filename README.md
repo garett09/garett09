@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Firefox’s latest security feature is designed to protect itself from buggy code](https://www.theverge.com/2021/12/6/22820045/firefox-rlbox-sandboxing-technology-security-subcomponents-modules)
- - [YouTube reveals millions of videos get hit with incorrect copyright claims](https://www.theverge.com/2021/12/6/22820318/youtube-copyright-claims-transparency-report)
- - [Uber will now let drivers and riders record audio during trips for safety](https://www.theverge.com/2021/12/6/22814616/uber-new-safety-features-ridecheck-audio-recording)<!-- TECH:END -->
+ - [SEC reportedly investigating Tesla over its solar panels’ potential fire risks](https://www.theverge.com/2021/12/6/22820295/tesla-sec-solar-panel-alleged-defects)
+ - [Google Pixel’s lock screen Snapchat shortcut is here](https://www.theverge.com/2021/12/6/22820593/google-pixel-december-feature-drop-quick-tap-to-snap-shortcut-ultra-wideband-nearby-share)
+ - [You can attend the Game Awards red carpet in the metaverse](https://www.theverge.com/2021/12/6/22820270/the-game-awards-red-carpet-core-metaverse)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
