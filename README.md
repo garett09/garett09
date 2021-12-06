@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Toyota will build a $1.29 billion electric vehicle battery factory in North Carolina](https://www.theverge.com/2021/12/6/22820925/toyota-battery-factory-north-carolina-electric-vehicle-ev)
- - [Sources: Life360, a family safety app with 33M users, has sold users&#39; precise location since 2016 and is one of the location data broker industry&#39;s top sources &lpar;The Markup&rpar;](http://www.techmeme.com/211206/p28#a211206p28)
- - [NASA announces 10 new astronaut candidates who could fly to the Moon someday](https://www.theverge.com/2021/12/6/22820265/nasa-new-astronaut-candidates-artemis-generation-announcement)<!-- TECH:END -->
+ - [Meta has a ‘moral obligation’ to make its mental health research transparent, scientists say](https://www.theverge.com/2021/12/6/22820675/open-letter-meta-mental-health-research)
+ - [TikTok considers monetization and creator retention in judging recommendation algorithm](https://www.theverge.com/2021/12/6/22820305/tiktok-algorithm-explained-leak-how-it-works)
+ - [Apple under fire for how it handles Roblox in DOJ antitrust probe](https://appleinsider.com/articles/21/12/06/apple-under-fire-for-how-it-handles-roblox-in-doj-antitrust-probe?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
