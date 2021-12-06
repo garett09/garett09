@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Japan&#39;s Biggest YouTuber Bought The $10,000 Gucci Xbox](https://kotaku.com/japans-biggest-youtuber-bought-the-10-000-gucci-xbox-1848164842)
  - [Wait, why are we mad at Cortana? Seven things to remember before you play Halo Infinite](https://www.polygon.com/22814712/halo-infinite-recap-cortana-atriox-banished-story-summary)
- - [Halo Infinite: The Kotaku Review](https://kotaku.com/halo-infinite-the-kotaku-review-1848159022)
- - [Halo Infinite review](https://www.pcgamer.com/halo-infinite-review)<!-- GAME:END -->
+ - [Halo Infinite: The Kotaku Review](https://kotaku.com/halo-infinite-the-kotaku-review-1848159022)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
