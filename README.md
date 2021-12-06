@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Representatives of the people are not allowed to know what the people&amp;#039;s money are spent on.](http://9gag.com/gag/a51rr7L)
- - 🚯 [The moment of insight.](http://9gag.com/gag/ay98LQM)
+ - 🚖 [Cheap curtains be like&amp;hellip;](http://9gag.com/gag/a71dZzL)
+ - 🚯 [Gang members brutally murder innocent woman for picking someone out in a lineup](http://9gag.com/gag/awzV5D8)
  - 🚯 [Calling all Dungeon Masters, aspiring writers and gamer masters: It&amp;#039;s time to unleash your creativity.](http://9gag.com/gag/aWgZEOd)<!-- MEMES:END -->
 
 --- 
