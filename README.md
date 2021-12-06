@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta has a ‘moral obligation’ to make its mental health research transparent, scientists say](https://www.theverge.com/2021/12/6/22820675/open-letter-meta-mental-health-research)
- - [TikTok considers monetization and creator retention in judging recommendation algorithm](https://www.theverge.com/2021/12/6/22820305/tiktok-algorithm-explained-leak-how-it-works)
- - [Apple under fire for how it handles Roblox in DOJ antitrust probe](https://appleinsider.com/articles/21/12/06/apple-under-fire-for-how-it-handles-roblox-in-doj-antitrust-probe?utm_medium=rss)<!-- TECH:END -->
+ - [Sony cameras are getting harder to buy due to the chip shortage](https://www.theverge.com/2021/12/6/22820922/sony-digital-camera-chip-shortage)
+ - [Apple Configurator update allows for easy device addition from the iPhone](https://appleinsider.com/articles/21/12/06/apple-configurator-update-allows-for-easy-device-addition-from-the-iphone?utm_medium=rss)
+ - [Tile buyer Life360 reportedly sells precise user location data to nearly anyone](https://appleinsider.com/articles/21/12/06/tile-buyer-life360-reportedly-sells-precise-user-location-data-to-nearly-anyone?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
