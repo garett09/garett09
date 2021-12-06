@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Boys is getting an Animatrix-style animated spinoff](https://www.polygon.com/22820564/the-boys-diabolical-animated-spinoff)
- - [Unreal&#39;s Matrix Teaser Has People Debating Whether Keanu Reeves Is Real](https://kotaku.com/unreals-matrix-teaser-has-people-debating-whether-keanu-1848166868)
- - [How to complete the Sage Council MSQ in FF14: Endwalker](https://www.pcgamer.com/ffxiv-final-fantasy-14-sage-council-troubled-souls)<!-- GAME:END -->
+ - [Exo One is a deliriously fun trip through sci-fi dreamscapes](https://www.polygon.com/reviews/22820478/exo-one-review-xbox-series-x-pc-game-pass)
+ - [Marvel confirms Shang-Chi 2 is in the works](https://www.polygon.com/22820827/marvel-shang-chi-2-confirmed-disney-plus)
+ - [Halo Infinite&#39;s Crystal-Clear Visual Design Puts Its Murky Competitors To Shame](https://kotaku.com/halo-infinites-crystal-clear-visual-design-puts-its-mur-1848167032)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
