@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I am like an artist&amp;hellip; an underestimated one&amp;hellip;](http://9gag.com/gag/amgz2g6)
- - 🚯 [True love.](http://9gag.com/gag/ajgDXx1)
+ - 🚖 [Forgive me, Lord](http://9gag.com/gag/aYrL4P0)
+ - 🚯 [Whatever is your native language is, acknowledge the struggle of other people learning it](http://9gag.com/gag/aPZW9Aq)
  - 🚯 [Which element would you choose?](http://9gag.com/gag/azeAqmj)<!-- MEMES:END -->
 
 --- 
