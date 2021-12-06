@@ -181,7 +181,7 @@ Windows                  3 hrs 9 mins        ███████████�
 <!-- GAME:START -->
  - [Wait, why are we mad at Cortana? Seven things to remember before you play Halo Infinite](https://www.polygon.com/22814712/halo-infinite-recap-cortana-atriox-banished-story-summary)
  - [Halo Infinite: The Kotaku Review](https://kotaku.com/halo-infinite-the-kotaku-review-1848159022)
- - [Halo Infinite saves the series by finally doing something different](https://www.polygon.com/reviews/22816261/halo-infinite-review-xbox-series-x-one-pc-game-pass)<!-- GAME:END -->
+ - [Halo Infinite review](https://www.pcgamer.com/halo-infinite-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
