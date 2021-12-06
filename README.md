@@ -193,7 +193,7 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Road rage, female edition, Romania.](http://9gag.com/gag/aM49GX6)
+ - 🚖 [The all new wrangler](http://9gag.com/gag/a91YY9D)
  - 🚯 [Evolution](http://9gag.com/gag/arnNNx7)
  - 🚯 [Calling all Dungeon Masters, aspiring writers and gamer masters: It&amp;#039;s time to unleash your creativity.](http://9gag.com/gag/aWgZEOd)<!-- MEMES:END -->
 
