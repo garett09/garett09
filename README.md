@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [New Eve Thread product leaks &amp; the best smart light switches on HomeKit Insider](https://appleinsider.com/articles/21/12/06/new-eve-thread-product-leaks-the-best-smart-light-switches-on-homekit-insider?utm_medium=rss)
- - [US investigators traced ransomware payments back to companies in Moscow skyscraper Federation Tower East, suggesting Russia tolerates ransomware operators &lpar;Andrew E. Kramer/New York Times&rpar;](http://www.techmeme.com/211206/p17#a211206p17)
- - [Theranos is gone, but ads for shady tests aren’t](https://www.theverge.com/22816112/theranos-lab-developed-test-fda-regulation-everlywell)<!-- TECH:END -->
+ - [You told us: This is what HMD needs to fix most with Nokia smartphones](https://www.androidauthority.com/hmd-nokia-smartphones-fix-poll-results-3071401/)
+ - [The Matrix Awakens is an interactive tech demo for PS5 and Xbox Series X / S](https://www.theverge.com/2021/12/6/22820392/the-matrix-awakens-epic-games-tech-demo-unreal-engine-5)
+ - [Apple&#39;s upgraded 14-inch MacBook Pro is on sale today, plus save $60 on AppleCare](https://appleinsider.com/articles/21/12/06/apples-upgraded-14-inch-macbook-pro-is-on-sale-today-plus-save-60-on-applecare?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
