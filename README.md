@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The all new wrangler](http://9gag.com/gag/a91YY9D)
- - 🚯 [Evolution](http://9gag.com/gag/arnNNx7)
+ - 🚖 [Evolution](http://9gag.com/gag/arnNNx7)
+ - 🚯 [Adult life is stressful, I better not get into it that deep.](http://9gag.com/gag/aDDGGVO)
  - 🚯 [Calling all Dungeon Masters, aspiring writers and gamer masters: It&amp;#039;s time to unleash your creativity.](http://9gag.com/gag/aWgZEOd)<!-- MEMES:END -->
 
 --- 
