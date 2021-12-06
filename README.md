@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon Prime Video: The 29 best movies to watch     - CNET](https://www.cnet.com/news/amazon-prime-video-the-29-best-movies-to-watch-this-evening/#ftag=CAD590a51e)
- - [Netflix: 45 of the absolute best TV shows to watch     - CNET](https://www.cnet.com/news/netflix-45-of-the-absolute-best-tv-shows-to-watch-tonight/#ftag=CAD590a51e)
- - [Sense, whose HR software helps recruit blue-collar workers, raises a $50M Series D led by SoftBank&#39;s Vision Fund 2; source says Sense is now valued at $500M &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/211205/p9#a211205p9)<!-- TECH:END -->
+ - [Don&#39;t look for the PS5 and Xbox Series X at Walmart&#39;s in-store Gamer Drop     - CNET](https://www.cnet.com/tech/gaming/dont-look-for-the-ps5-and-xbox-series-x-at-walmarts-in-store-gamer-drop/#ftag=CAD590a51e)
+ - [Netflix: Every Christmas movie and TV series to watch in 2021     - CNET](https://www.cnet.com/news/netflix-every-christmas-movie-and-tv-series-to-watch-in-2021/#ftag=CAD590a51e)
+ - [Newly unearthed dinosaur evolved &#39;large tail weapon&#39; unlike any other     - CNET](https://www.cnet.com/news/newly-unearthed-dinosaur-evolved-large-tail-weapon-unlike-any-other/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
