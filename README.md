@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Overview of macro tech trends, with a focus on Web3, metaverse, and the move to the cloud, which is just beginning as on-prem IT spend still dwarfs cloud spend &lpar;Benedict Evans/Benedict Evans/Presentations&rpar;](http://www.techmeme.com/211206/p5#a211206p5)
- - [How to combine Spotify playlists](https://www.androidauthority.com/how-to-combine-spotify-playlists-3071093/)
- - [New Galaxy Tab S8 series renders show the Ultra’s tiny notch again](https://www.androidauthority.com/samsung-galaxy-tab-s8-series-3071435/)<!-- TECH:END -->
+ - [Here’s when you can download the AetherSX2 emulator &lpar;Updated: Out now&rpar;](https://www.androidauthority.com/aethersx2-emulator-release-3068106/)
+ - [Verizon, AT&amp;T, and T-Mobile all have programs that collect additional data, like app usage and web history, on their customers, and they are generally opt-out &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/211206/p6#a211206p6)
+ - [&#39;Dickinson&#39; creator talks time travel episode](https://appleinsider.com/articles/21/12/06/dickinson-creator-talks-time-travel-episode?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
