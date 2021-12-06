@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [A Halo Infinite player is exploiting physics to pull off Breath of the Wild-style trick shots](https://www.polygon.com/22821055/halo-infinite-zelda-botw-trick-shots)
- - [Designing Gold Rush, a More Free-Form Mode for Stealing and Stealth in Hood: Outlaws and Legends](https://news.xbox.com/en-us/2021/12/06/designing-gold-rush-hood-outlaws-and-legends/)
- - [Niobe’s connection to The Matrix Resurrections and the larger Matrix story](https://www.polygon.com/22821005/jada-pinkett-smith-matrix-resurrections-niobe)<!-- GAME:END -->
+ - [Nintendo Might Have To Make Pre-Order Refunds Easier After Losing Lawsuit](https://kotaku.com/nintendo-might-have-to-make-pre-order-refunds-easier-af-1848168964)
+ - [D&amp;D’s Strixhaven: A Curriculum of Chaos understands what makes college memorable](https://www.polygon.com/reviews/22821170/dungeons-dragons-strixhaven-curriculum-of-chaos-review)
+ - [PSA: Here’s when Halo Infinite’s campaign launches](https://www.polygon.com/22821137/when-does-halo-infinite-campaign-come-out-game-pass-release-date)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
