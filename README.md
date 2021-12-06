@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Alibaba says it will appoint a new CFO and reorganize its e-commerce businesses under two new divisions, one domestic and one international &lpar;Reuters&rpar;](http://www.techmeme.com/211205/p11#a211205p11)
- - [See the first look at Harry Potter&#39;s 20th anniversary special on HBO Max     - CNET](https://www.cnet.com/news/see-the-first-look-at-harry-potters-20th-anniversary-special-on-hbo-max/#ftag=CAD590a51e)
- - [Succession season 3, episode 8 recap: A knife fight in the mud     - CNET](https://www.cnet.com/news/succession-season-3-episode-8-recap-a-knife-fight-in-the-mud/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Duolingo interprets 2021, with TikTok and Squid Game inspiring users to learn new languages](https://www.theverge.com/2021/12/6/22815794/duolingo-interprets-tiktok-squid-game-netflix-year-in-review)
+ - [Marvel confirms Charlie Cox will return as Daredevil     - CNET](https://www.cnet.com/news/marvel-confirms-charlie-cox-will-return-as-daredevil/#ftag=CAD590a51e)
+ - [Marvel&#39;s Hawkeye release schedule: When does episode 4 hit Disney Plus?     - CNET](https://www.cnet.com/news/marvels-hawkeye-release-schedule-when-does-episode-4-hit-disney-plus/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
