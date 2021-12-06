@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Many customers complain that T-Mobile and Verizon have failed to deliver promised rebates for promoted Apple products in a straightforward manner &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/211206/p2#a211206p2)
  - [Behind the scramble to revamp the White House&#39;s plans for the Alliance for the Future of the Internet, meant to rally countries behind a vision for an open web &lpar;Issie Lapowsky/Protocol&rpar;](http://www.techmeme.com/211206/p1#a211206p1)
- - [November update hits Samsung Galaxy S10 series models in the US](https://www.androidauthority.com/samsung-galaxy-s10-plus-update-969909/)
- - [Duolingo interprets 2021, with TikTok and Squid Game inspiring users to learn new languages](https://www.theverge.com/2021/12/6/22815794/duolingo-interprets-tiktok-squid-game-netflix-year-in-review)<!-- TECH:END -->
+ - [November update hits Samsung Galaxy S10 series models in the US](https://www.androidauthority.com/samsung-galaxy-s10-plus-update-969909/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
