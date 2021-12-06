@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dogsled survival adventure Arctico leaves Early Access in February](https://www.pcgamer.com/dogsled-survival-adventure-arctico-leaves-early-access-in-february)
- - [The best Australian PC gaming deals this week](https://www.pcgamer.com/best-australian-pc-gaming-deals)
- - [Death Trash patch fixes &#39;a crash caused by Fleshworms eating puke&#39;](https://www.pcgamer.com/death-trash-patch-fixes-a-crash-caused-by-fleshworms-eating-puke)<!-- GAME:END -->
+ - [This HyperX microphone and headset bundle is cheaper than ever](https://www.pcgamer.com/this-hyperx-microphone-and-headset-bundle-is-cheaper-than-ever)
+ - [The upcoming Intel Core i3-12100 dominates AMDs budget offerings](https://www.pcgamer.com/the-upcoming-intel-core-i3-12100-dominates-amds-budget-offerings)
+ - [Dogsled survival adventure Arctico leaves Early Access in February](https://www.pcgamer.com/dogsled-survival-adventure-arctico-leaves-early-access-in-february)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
