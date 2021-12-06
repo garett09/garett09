@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Cheap curtains be like&amp;hellip;](http://9gag.com/gag/a71dZzL)
- - 🚯 [Gang members brutally murder innocent woman for picking someone out in a lineup](http://9gag.com/gag/awzV5D8)
+ - 🚖 [Cameraman always survive](http://9gag.com/gag/a814y8Y)
+ - 🚯 [Not complaining. I owe her that much. But Alzheimer&amp;#039;s is a terrible thing](http://9gag.com/gag/aogp2Dn)
  - 🚯 [Calling all Dungeon Masters, aspiring writers and gamer masters: It&amp;#039;s time to unleash your creativity.](http://9gag.com/gag/aWgZEOd)<!-- MEMES:END -->
 
 --- 
