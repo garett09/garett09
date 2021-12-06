@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Fortnite: Receive your next objective in the Joneses and drop off supplies location](https://www.pcgamer.com/joneses-drop-off-supplies-fortnite)
- - [Five new Steam games you probably missed &lpar;December 6, 2021&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-december-6-2021)
- - [PlayStation Executive Fired After Pedophile Allegation Video Posted Online](https://kotaku.com/playstation-executive-fired-after-pedophile-allegation-1848163907)<!-- GAME:END -->
+ - [LA Lakers Release Strange Little Halo Bundle](https://kotaku.com/la-lakers-release-strange-little-halo-bundle-1848163839)
+ - [Watch Henry Cavill politely explain Warhammer is not World of Warcraft](https://www.pcgamer.com/watch-henry-cavill-politely-explain-warhammer-is-not-world-of-warcraft)
+ - [Fortnite: Receive your next objective in the Joneses and drop off supplies location](https://www.pcgamer.com/joneses-drop-off-supplies-fortnite)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
