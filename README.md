@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Happiest day of their lives](http://9gag.com/gag/a0ZjjbL)
- - 🚯 [Not complaining. I owe her that much. But Alzheimer&amp;#039;s is a terrible thing](http://9gag.com/gag/aogp2Dn)
+ - 🚖 [Representatives of the people are not allowed to know what the people&amp;#039;s money are spent on.](http://9gag.com/gag/a51rr7L)
+ - 🚯 [The moment of insight.](http://9gag.com/gag/ay98LQM)
  - 🚯 [Calling all Dungeon Masters, aspiring writers and gamer masters: It&amp;#039;s time to unleash your creativity.](http://9gag.com/gag/aWgZEOd)<!-- MEMES:END -->
 
 --- 
