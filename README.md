@@ -194,7 +194,7 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Forgive me, Lord](http://9gag.com/gag/aYrL4P0)
- - 🚯 [Whatever is your native language is, acknowledge the struggle of other people learning it](http://9gag.com/gag/aPZW9Aq)
+ - 🚯 [When Pixar makes rated R movies](http://9gag.com/gag/a81487V)
  - 🚯 [Which element would you choose?](http://9gag.com/gag/azeAqmj)<!-- MEMES:END -->
 
 --- 
