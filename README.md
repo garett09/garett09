@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [SenseTime seeks to raise between $750M and $767M in its Hong Kong IPO, at a valuation of between $16.5B and $17B; the company previously hoped to raise $2B &lpar;Financial Times&rpar;](http://www.techmeme.com/211206/p4#a211206p4)
- - [You have until the end of the month to get your LG bootloader unlock key](https://www.androidauthority.com/lg-phone-bootloader-unlock-key-3071410/)
- - [The best Garmin watch faces for your Fenix, Forerunner, Venu, and more](https://www.androidauthority.com/garmin-watch-faces-3063702/)<!-- TECH:END -->
+ - [How to block someone on Spotify](https://www.androidauthority.com/how-to-block-someone-on-spotify-3071187/)
+ - [Foldable or rollable? You don’t need to choose with this concept phone.](https://www.androidauthority.com/tcl-foldable-rollable-concept-3071409/)
+ - [SenseTime seeks to raise between $750M and $767M in its Hong Kong IPO, at a valuation of between $16.5B and $17B; the company previously hoped to raise $2B &lpar;Financial Times&rpar;](http://www.techmeme.com/211206/p4#a211206p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
