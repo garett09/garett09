@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best deals Dec. 6: $287 LG 32-inch 4K monitor, $50 photo printer, Philips Hue, more!](https://appleinsider.com/articles/21/12/06/best-deals-dec-6-287-lg-32-inch-4k-monitor-50-photo-printer-philips-hue-more?utm_medium=rss)
- - [DoorDash hires 60 couriers as full-time employees, starting at $15/hour, to launch fast grocery deliveries in New York, shifting from its gig worker model &lpar;Dave Lee/Financial Times&rpar;](http://www.techmeme.com/211206/p13#a211206p13)
- - [Why I Love to Scrounge in Video Games](https://www.wired.com/story/scrounging-looting-video-games)<!-- TECH:END -->
+ - [New Eve Thread product leaks &amp; the best smart light switches on HomeKit Insider](https://appleinsider.com/articles/21/12/06/new-eve-thread-product-leaks-the-best-smart-light-switches-on-homekit-insider?utm_medium=rss)
+ - [US investigators traced ransomware payments back to companies in Moscow skyscraper Federation Tower East, suggesting Russia tolerates ransomware operators &lpar;Andrew E. Kramer/New York Times&rpar;](http://www.techmeme.com/211206/p17#a211206p17)
+ - [Theranos is gone, but ads for shady tests aren’t](https://www.theverge.com/22816112/theranos-lab-developed-test-fda-regulation-everlywell)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
