@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [You told us: This is what HMD needs to fix most with Nokia smartphones](https://www.androidauthority.com/hmd-nokia-smartphones-fix-poll-results-3071401/)
- - [The Matrix Awakens is an interactive tech demo for PS5 and Xbox Series X / S](https://www.theverge.com/2021/12/6/22820392/the-matrix-awakens-epic-games-tech-demo-unreal-engine-5)
- - [Apple&#39;s upgraded 14-inch MacBook Pro is on sale today, plus save $60 on AppleCare](https://appleinsider.com/articles/21/12/06/apples-upgraded-14-inch-macbook-pro-is-on-sale-today-plus-save-60-on-applecare?utm_medium=rss)<!-- TECH:END -->
+ - [Firefox’s latest security feature is designed to protect itself from buggy code](https://www.theverge.com/2021/12/6/22820045/firefox-rlbox-sandboxing-technology-security-subcomponents-modules)
+ - [YouTube reveals millions of videos get hit with incorrect copyright claims](https://www.theverge.com/2021/12/6/22820318/youtube-copyright-claims-transparency-report)
+ - [Uber will now let drivers and riders record audio during trips for safety](https://www.theverge.com/2021/12/6/22814616/uber-new-safety-features-ridecheck-audio-recording)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
