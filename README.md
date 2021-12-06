@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When Pixar makes rated R movies](http://9gag.com/gag/a81487V)
- - 🚯 [It&amp;rsquo;s cold outside](http://9gag.com/gag/a51rnEO)
+ - 🚖 [Forgive me, Lord](http://9gag.com/gag/aYrL4P0)
+ - 🚯 [What men want](http://9gag.com/gag/a215oyd)
  - 🚯 [Which element would you choose?](http://9gag.com/gag/azeAqmj)<!-- MEMES:END -->
 
 --- 
