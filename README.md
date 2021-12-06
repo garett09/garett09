@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This HyperX microphone and headset bundle is cheaper than ever](https://www.pcgamer.com/this-hyperx-microphone-and-headset-bundle-is-cheaper-than-ever)
- - [The upcoming Intel Core i3-12100 dominates AMDs budget offerings](https://www.pcgamer.com/the-upcoming-intel-core-i3-12100-dominates-amds-budget-offerings)
- - [Dogsled survival adventure Arctico leaves Early Access in February](https://www.pcgamer.com/dogsled-survival-adventure-arctico-leaves-early-access-in-february)<!-- GAME:END -->
+ - [Wait, why are we mad at Cortana? Seven things to remember before you play Halo Infinite](https://www.polygon.com/22814712/halo-infinite-recap-cortana-atriox-banished-story-summary)
+ - [Halo Infinite: The Kotaku Review](https://kotaku.com/halo-infinite-the-kotaku-review-1848159022)
+ - [Halo Infinite saves the series by finally doing something different](https://www.polygon.com/reviews/22816261/halo-infinite-review-xbox-series-x-one-pc-game-pass)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
