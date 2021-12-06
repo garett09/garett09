@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to block someone on Spotify](https://www.androidauthority.com/how-to-block-someone-on-spotify-3071187/)
- - [Foldable or rollable? You don’t need to choose with this concept phone.](https://www.androidauthority.com/tcl-foldable-rollable-concept-3071409/)
- - [SenseTime seeks to raise between $750M and $767M in its Hong Kong IPO, at a valuation of between $16.5B and $17B; the company previously hoped to raise $2B &lpar;Financial Times&rpar;](http://www.techmeme.com/211206/p4#a211206p4)<!-- TECH:END -->
+ - [Overview of macro tech trends, with a focus on Web3, metaverse, and the move to the cloud, which is just beginning as on-prem IT spend still dwarfs cloud spend &lpar;Benedict Evans/Benedict Evans/Presentations&rpar;](http://www.techmeme.com/211206/p5#a211206p5)
+ - [How to combine Spotify playlists](https://www.androidauthority.com/how-to-combine-spotify-playlists-3071093/)
+ - [New Galaxy Tab S8 series renders show the Ultra’s tiny notch again](https://www.androidauthority.com/samsung-galaxy-tab-s8-series-3071435/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
