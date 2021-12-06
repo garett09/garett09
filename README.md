@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Forgive me, Lord](http://9gag.com/gag/aYrL4P0)
- - 🚯 [What men want](http://9gag.com/gag/a215oyd)
+ - 🚖 [Talent is the best.](http://9gag.com/gag/aWgM17n)
+ - 🚯 [It&amp;rsquo;s cold outside](http://9gag.com/gag/a51rnEO)
  - 🚯 [Which element would you choose?](http://9gag.com/gag/azeAqmj)<!-- MEMES:END -->
 
 --- 
