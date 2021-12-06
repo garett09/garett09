@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Many customers complain that T-Mobile and Verizon have failed to deliver promised rebates for promoted Apple products in a straightforward manner &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/211206/p2#a211206p2)
- - [Behind the scramble to revamp the White House&#39;s plans for the Alliance for the Future of the Internet, meant to rally countries behind a vision for an open web &lpar;Issie Lapowsky/Protocol&rpar;](http://www.techmeme.com/211206/p1#a211206p1)
- - [November update hits Samsung Galaxy S10 series models in the US](https://www.androidauthority.com/samsung-galaxy-s10-plus-update-969909/)<!-- TECH:END -->
+ - [SenseTime seeks to raise between $750M and $767M in its Hong Kong IPO, at a valuation of between $16.5B and $17B; the company previously hoped to raise $2B &lpar;Financial Times&rpar;](http://www.techmeme.com/211206/p4#a211206p4)
+ - [You have until the end of the month to get your LG bootloader unlock key](https://www.androidauthority.com/lg-phone-bootloader-unlock-key-3071410/)
+ - [The best Garmin watch faces for your Fenix, Forerunner, Venu, and more](https://www.androidauthority.com/garmin-watch-faces-3063702/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
