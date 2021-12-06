@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Everphone, which lends and refurbishes phones for businesses, raises a Series C with $65M in equity and $135M in debt at a $170M valuation led by Cadence Growth &lpar;Bloomberg&rpar;](http://www.techmeme.com/211206/p10#a211206p10)
- - [Should abuse survivors have to disappear from the internet?](https://www.theverge.com/22812890/domestic-abuse-survivors-online-presence-spyware-recommendations)
- - [A document from TikTok&#39;s engineering team in Beijing details the product&#39;s addictive algorithm, which optimizes for &quot;retention&quot; and &quot;time spent&quot; &lpar;Ben Smith/New York Times&rpar;](http://www.techmeme.com/211206/p9#a211206p9)<!-- TECH:END -->
+ - [Best deals Dec. 6: $287 LG 32-inch 4K monitor, $50 photo printer, Philips Hue, more!](https://appleinsider.com/articles/21/12/06/best-deals-dec-6-287-lg-32-inch-4k-monitor-50-photo-printer-philips-hue-more?utm_medium=rss)
+ - [DoorDash hires 60 couriers as full-time employees, starting at $15/hour, to launch fast grocery deliveries in New York, shifting from its gig worker model &lpar;Dave Lee/Financial Times&rpar;](http://www.techmeme.com/211206/p13#a211206p13)
+ - [Why I Love to Scrounge in Video Games](https://www.wired.com/story/scrounging-looting-video-games)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
