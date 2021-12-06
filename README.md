@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The cooler transformers](http://9gag.com/gag/awzV5Vy)
- - 🚯 [Adult life is stressful, I better not get into it that deep.](http://9gag.com/gag/aDDGGVO)
+ - 🚖 [Adult life is stressful, I better not get into it that deep.](http://9gag.com/gag/aDDGGVO)
+ - 🚯 [The cooler transformers](http://9gag.com/gag/awzV5Vy)
  - 🚯 [Calling all Dungeon Masters, aspiring writers and gamer masters: It&amp;#039;s time to unleash your creativity.](http://9gag.com/gag/aWgZEOd)<!-- MEMES:END -->
 
 --- 
