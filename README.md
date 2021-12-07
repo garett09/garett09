@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung merges mobile and consumer electronic divisions into a single business unit led by JH Han, and names Kyehyun Kyung as new CEO of its semiconductor unit &lpar;Cho Mu-Hyun/ZDNet&rpar;](http://www.techmeme.com/211206/p40#a211206p40)
- - [Universe, a mobile-based website builder, raises a $30M Series B led by Addition, and says over 500,000 creators and SMBs have used its app &lpar;Kaya Yurieff/The Information&rpar;](http://www.techmeme.com/211206/p39#a211206p39)
- - [Best iPhone for 2021: Which of Apple&#39;s 8 phones is right for you?     - CNET](https://www.cnet.com/tech/mobile/best-iphone/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Study: AI research regularly reuses a small number of ML datasets by a few institutions like Stanford, Microsoft, Princeton, Meta, Google, Max Planck, and AT&amp;T &lpar;Martin Anderson/Unite.AI&rpar;](http://www.techmeme.com/211207/p1#a211207p1)
+ - [Samsung Galaxy Note 10 series gaining December 2021 patch](https://www.androidauthority.com/samsung-galaxy-note-10-plus-update-1020236/)
+ - [Samsung merges its mobile and consumer electronic divisions into one business unit led by JH Han, and names Kyehyun Kyung as the CEO of its semiconductor unit &lpar;Cho Mu-Hyun/ZDNet&rpar;](http://www.techmeme.com/211206/p40#a211206p40)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
