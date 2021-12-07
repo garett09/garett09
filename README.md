@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Fortnite Chapter 3 gem fragment locations: How to get all Shanta styles](https://www.pcgamer.com/fortnite-collect-gem-fragments-locations)
- - [Xbox Game Pass Adds Another Surprise Game](https://kotaku.com/xbox-game-pass-adds-another-surprise-game-1848174054)
- - [The best comics of 2021](https://www.polygon.com/22821264/best-comics-2021-marvel-dc-manga)<!-- GAME:END -->
+ - [This Holiday Season, Sam &amp; Max Are Going to Hell](https://news.xbox.com/en-us/2021/12/07/this-holiday-season-sam-max-are-going-to-hell/)
+ - [How to get Marcus Fenix and Kait Diaz from Gears of War in Fortnite](https://www.pcgamer.com/fortnite-marcus-fenix-kate-diaz)
+ - [Here are the new Exotics added in Destiny 2’s  new Bungie 30th Anniversary Pack](https://www.polygon.com/22821053/destiny-2-halo-weapons-bungie-30-anniversary-exotics-gjallarhorn-magnum-pistol-forerunner)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
