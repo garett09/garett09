@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The best gaming laptops in Australia for 2021](https://www.pcgamer.com/the-best-gaming-laptops-in-australia-for-2021)
  - [Australian Video Games Industry Is Getting Its Own Union](https://kotaku.com/australian-video-games-industry-is-getting-its-own-unio-1848170347)
- - [Explaining the mysterious &#39;Moon Cube&#39; with videogame theories](https://www.pcgamer.com/moon-cube-explained-by-videogames-china-yutu-2-rover)
- - [Icarus oxygen bladder: Breathe easy with this long-lasting air supply](https://www.pcgamer.com/icarus-oxygen-bladder-oxite-dissolver-guide)<!-- GAME:END -->
+ - [Explaining the mysterious &#39;Moon Cube&#39; with videogame theories](https://www.pcgamer.com/moon-cube-explained-by-videogames-china-yutu-2-rover)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
