@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Every Slavic home ever](http://9gag.com/gag/azeAeYj)
- - 🚯 [Good](http://9gag.com/gag/aWgM44Z)
+ - 🚖 [Guys only want one thing and its f**kin disgusting](http://9gag.com/gag/aOQvx7D)
+ - 🚯 [He&amp;#039;ll always be spiderman](http://9gag.com/gag/arnNmGK)
  - 🚯 [9GAG x Game Taster 2021 Game Of The Year Award - Who wins? You decide!](http://9gag.com/gag/aKm3jWj)<!-- MEMES:END -->
 
 --- 
