@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Intel plans to publicly list shares of its Mobileye unit at a $50B+ valuation; Intel acquired the self-driving car company in 2018 for about $15B &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/211206/p34#a211206p34)
- - [I regret to inform you that Digital Human as a Service &lpar;DHaaS&rpar; is now an acronym](https://www.theverge.com/tldr/22821377/digital-human-as-a-service-kddi-mawari)
- - [Source: Japan&#39;s FSA to propose legislation that would let only banks and wire transfer services issue stablecoins as it plans a yen-based digital currency &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/211206/p33#a211206p33)<!-- TECH:END -->
+ - [Microsoft tells its partners that enterprise customers will be charged 20% more for Office subscriptions if they don&#39;t switch to an annual plan in 2022 &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/211206/p37#a211206p37)
+ - [Halo Infinite won’t let you pick levels to replay — but that’s going to change](https://www.theverge.com/2021/12/6/22821522/halo-infinite-campaign-levels-replay-mission-select-343-industries-microsoft)
+ - [Donald Trump’s media company has a new CEO: soon-to-be-former-Rep. Devin Nunes](https://www.theverge.com/2021/12/6/22821450/devin-nunes-ceo-tmtg-spac-dwac-truth-social-media)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
