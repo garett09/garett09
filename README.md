@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Colin Farrell to return as The Penguin in a HBO Max spinoff series](https://www.polygon.com/22821314/batman-penguin-colin-farrell-spinoff-hbo-max)
- - [Holiday 2021 gaming deals](https://www.polygon.com/22807653/holiday-gaming-deals-switch-ps5-xbox-series-x-pc-windows-tv-gaming-monitors)
- - [The Matrix Awakens tech demo is only releasing on consoles](https://www.pcgamer.com/matrix-awakens-pc)<!-- GAME:END -->
+ - [How to turn off Discord&#39;s annoying &#39;Snowsgiving&#39; alert sounds](https://www.pcgamer.com/discord-snowsgiving-sounds-alerts-turn-off)
+ - [New trailer for The Matrix Resurrections sparks deja vu](https://www.pcgamer.com/matrix-resurrections-trailer-2)
+ - [Netflix’s original anime movie Bubble looks like a dizzying platformer](https://www.polygon.com/22821354/bubble-netflix-anime-trailer)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
