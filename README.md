@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Does Spotify have a sleep timer?](https://www.androidauthority.com/spotify-sleep-timer-3071853/)
- - [Samsung is slowly clawing back Apple’s wearables market lead](https://www.androidauthority.com/samsung-apple-wearables-q3-2021-3071984/)
- - [Incode Technologies, an ID verification and authentication service, raises $220M at a $1.25B valuation led by General Atlantic and SoftBank Latin America Fund &lpar;Gillian Tan/Bloomberg&rpar;](http://www.techmeme.com/211207/p3#a211207p3)<!-- TECH:END -->
+ - [Google partners with Pluto TV to bring 300 free channels to Google TV](https://www.androidauthority.com/google-tv-pluto-tv-3072019/)
+ - [Internal documents: Meta will prioritize selling products directly on Facebook, Instagram, and Messenger in 2022, partially in response to Apple&#39;s ATT changes &lpar;Ashley Stewart/Insider&rpar;](http://www.techmeme.com/211207/p7#a211207p7)
+ - [Atomico: European tech startups will raise a record $121B in 2021, up from $41B in 2020, with &lt;1% going to early-stage; 98 unicorns were created in 2021 &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/211207/p6#a211207p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
