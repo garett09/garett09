@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Getting past Russian Immigration](http://9gag.com/gag/a51rE4E)
- - 🚯 [Well well](http://9gag.com/gag/aAGPGO0)
+ - 🚖 [*Laughs in German*.](http://9gag.com/gag/aAGP0R2)
+ - 🚯 [When you let your girlfriend drive to the mechanic](http://9gag.com/gag/aDDGdyZ)
  - 🚯 [9GAG x Game Taster 2021 Game Of The Year Award - Who wins? You decide!](http://9gag.com/gag/aKm3jWj)<!-- MEMES:END -->
 
 --- 
