@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [And,,, FIFA](http://9gag.com/gag/aZrp0X3)
- - 🚯 [Everything is better with mods](http://9gag.com/gag/a41j14A)
- - 🚯 [Round 3](http://9gag.com/gag/a91YnQ6)<!-- MEMES:END -->
+ - 🚖 [I really am just a memer](http://9gag.com/gag/ang1gQV)
+ - 🚯 [A day to be called as &amp;lsquo;Freeman Day&amp;rsquo;](http://9gag.com/gag/aE8npxp)
+ - 🚯 [Everything is better with mods](http://9gag.com/gag/a41j14A)<!-- MEMES:END -->
 
 --- 
 
