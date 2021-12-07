@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Mental](http://9gag.com/gag/aOQvQnD)
- - 🚯 [Matrix Resurrections...](http://9gag.com/gag/aXrwnzD)
+ - 🚖 [Every Slavic home ever](http://9gag.com/gag/azeAeYj)
+ - 🚯 [Good](http://9gag.com/gag/aWgM44Z)
  - 🚯 [9GAG x Game Taster 2021 Game Of The Year Award - Who wins? You decide!](http://9gag.com/gag/aKm3jWj)<!-- MEMES:END -->
 
 --- 
