@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Alder Lake DRM issue fixed for all but three games](https://www.pcgamer.com/alder-lake-drm-issue-fixed-for-all-but-three-games)
  - [Streamer Has Said &#39;Mario&#39; 345,000 Times Over The Last Few Days](https://kotaku.com/streamer-has-said-mario-345-000-times-over-the-last-few-1848170867)
- - [The best gaming laptops in Australia for 2021](https://www.pcgamer.com/the-best-gaming-laptops-in-australia-for-2021)
- - [Australian Video Games Industry Is Getting Its Own Union](https://kotaku.com/australian-video-games-industry-is-getting-its-own-unio-1848170347)<!-- GAME:END -->
+ - [The best gaming laptops in Australia for 2021](https://www.pcgamer.com/the-best-gaming-laptops-in-australia-for-2021)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
