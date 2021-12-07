@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Seventeen newspapers groups representing ~150 papers have quietly filed complaints in the past year against Google and Facebook for monopolizing the ad market &lpar;Sara Fischer/Yahoo News&rpar;](http://www.techmeme.com/211207/p39#a211207p39)
- - [Iodyne Pro Data workgroup storage enclosure packs 8 Thunderbolt ports, speeds up to 5 GB/s](https://appleinsider.com/articles/21/12/07/iodyne-pro-data-storage-solution-packs-8-thunderbolt-ports-speeds-up-to-5-gbs?utm_medium=rss)
- - [Save up to 30% on Samsung monitors, and more of the latest monitor deals](https://www.androidauthority.com/best-monitor-deals-1114996/)<!-- TECH:END -->
+ - [This 2021 16-inch MacBook Pro is $150 off and in stock right now &lpar;plus save $80 on AppleCare&rpar;](https://appleinsider.com/articles/21/12/07/this-2021-16-inch-macbook-pro-is-150-off-and-in-stock-right-now-plus-save-80-on-applecare?utm_medium=rss)
+ - [Razer Phone Cooler Chroma chills your MagSafe iPhone for $60](https://appleinsider.com/articles/21/12/07/razer-phone-cooler-chroma-chills-your-magsafe-iphone-for-60?utm_medium=rss)
+ - [Final Fantasy XIV: Endwalker’s early access period didn’t provide much access](https://www.theverge.com/2021/12/7/22822793/final-fantasy-14-endwalker-early-access-server-queues)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
