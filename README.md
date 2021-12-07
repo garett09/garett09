@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Well well](http://9gag.com/gag/aAGPGO0)
- - 🚯 [*Laughs in German*.](http://9gag.com/gag/aAGP0R2)
+ - 🚖 [GRRM be smoking shit](http://9gag.com/gag/aYrLVj2)
+ - 🚯 [I really am just a memer](http://9gag.com/gag/ang1gQV)
  - 🚯 [9GAG x Game Taster 2021 Game Of The Year Award - Who wins? You decide!](http://9gag.com/gag/aKm3jWj)<!-- MEMES:END -->
 
 --- 
