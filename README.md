@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft says it took over servers being used by China-based hacking group Nickel](https://www.theverge.com/2021/12/7/22822255/microsoft-hackers-china-nickel-apt15)
- - [Now You Can Blast a Great Gjallarhorn in Destiny 2 and IRL](https://www.wired.com/story/destiny-2-gjallarhorn-rocket-launcher)
- - [iOS 15.2 includes Apple Music Voice Plan, Digital Legacy feature, and more](https://appleinsider.com/articles/21/12/07/ios-152-includes-apple-music-voice-plan-digital-legacy-feature-and-more?utm_medium=rss)<!-- TECH:END -->
+ - [Seventeen newspapers groups representing ~150 papers have quietly filed complaints in the past year against Google and Facebook for monopolizing the ad market &lpar;Sara Fischer/Yahoo News&rpar;](http://www.techmeme.com/211207/p39#a211207p39)
+ - [Iodyne Pro Data workgroup storage enclosure packs 8 Thunderbolt ports, speeds up to 5 GB/s](https://appleinsider.com/articles/21/12/07/iodyne-pro-data-storage-solution-packs-8-thunderbolt-ports-speeds-up-to-5-gbs?utm_medium=rss)
+ - [Save up to 30% on Samsung monitors, and more of the latest monitor deals](https://www.androidauthority.com/best-monitor-deals-1114996/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
