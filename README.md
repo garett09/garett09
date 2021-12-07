@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hellfire](http://9gag.com/gag/a71d1o2)
- - 🚯 [Married life](http://9gag.com/gag/aNPWp36)
- - 🚯 [Every Slavic home ever](http://9gag.com/gag/azeAeYj)<!-- MEMES:END -->
+ - 🚖 [Getting past Russian Immigration](http://9gag.com/gag/a51rE4E)
+ - 🚯 [Well well](http://9gag.com/gag/aAGPGO0)
+ - 🚯 [9GAG x Game Taster 2021 Game Of The Year Award - Who wins? You decide!](http://9gag.com/gag/aKm3jWj)<!-- MEMES:END -->
 
 --- 
 
