@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [PASGHETTI](http://9gag.com/gag/a31jQGr)
- - 🚯 [What men want](http://9gag.com/gag/a215oyd)
+ - 🚖 [Stranded in a bus with windows stuck open during a snowstorm in Norilsk &lpar;artic circle&rpar;, -26 for 40 minutes](http://9gag.com/gag/adgX5w9)
+ - 🚯 [Yeah. So that happened out of no where.](http://9gag.com/gag/aZrpLD3)
  - 🚯 [Which element would you choose?](http://9gag.com/gag/azeAqmj)<!-- MEMES:END -->
 
 --- 
