@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Scuf’s New PS5 Controllers Have Cool Features, Large Price Tags](https://kotaku.com/scuf-s-new-ps5-controllers-have-cool-features-large-pr-1848173625)
- - [Amazon Web Services Outage Affects Several Major Games](https://kotaku.com/amazon-web-services-outage-affects-several-major-games-1848173910)
- - [Best gaming SSD deals heading into the holidays](https://www.pcgamer.com/best-gaming-ssd-deals-headin-into-the-holidays)<!-- GAME:END -->
+ - [Fortnite Chapter 3 gem fragment locations: How to get all Shanta styles](https://www.pcgamer.com/fortnite-collect-gem-fragments-locations)
+ - [Xbox Game Pass Adds Another Surprise Game](https://kotaku.com/xbox-game-pass-adds-another-surprise-game-1848174054)
+ - [The best comics of 2021](https://www.polygon.com/22821264/best-comics-2021-marvel-dc-manga)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
