@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to turn off Discord&#39;s annoying &#39;Snowsgiving&#39; alert sounds](https://www.pcgamer.com/discord-snowsgiving-sounds-alerts-turn-off)
- - [New trailer for The Matrix Resurrections sparks deja vu](https://www.pcgamer.com/matrix-resurrections-trailer-2)
- - [Netflix’s original anime movie Bubble looks like a dizzying platformer](https://www.polygon.com/22821354/bubble-netflix-anime-trailer)<!-- GAME:END -->
+ - [Australian Video Games Industry Is Getting Its Own Union](https://kotaku.com/australian-video-games-industry-is-getting-its-own-unio-1848170347)
+ - [Explaining the mysterious &#39;Moon Cube&#39; with videogame theories](https://www.pcgamer.com/moon-cube-explained-by-videogames-china-yutu-2-rover)
+ - [Icarus oxygen bladder: Breathe easy with this long-lasting air supply](https://www.pcgamer.com/icarus-oxygen-bladder-oxite-dissolver-guide)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
