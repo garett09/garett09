@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I really am just a memer](http://9gag.com/gag/ang1gQV)
- - 🚯 [A day to be called as &amp;lsquo;Freeman Day&amp;rsquo;](http://9gag.com/gag/aE8npxp)
- - 🚯 [Everything is better with mods](http://9gag.com/gag/a41j14A)<!-- MEMES:END -->
+ - 🚖 [Hellfire](http://9gag.com/gag/a71d1o2)
+ - 🚯 [Married life](http://9gag.com/gag/aNPWp36)
+ - 🚯 [Every Slavic home ever](http://9gag.com/gag/azeAeYj)<!-- MEMES:END -->
 
 --- 
 
