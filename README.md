@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Some SD cards not working with 2021 MacBook Pro, users report](https://appleinsider.com/articles/21/12/06/some-sd-cards-not-working-with-2021-macbook-pro-users-report?utm_medium=rss)
- - [Samsung combines mobile and consumer electronics businesses](https://www.theverge.com/2021/12/6/22821590/samsung-ceo-reorganization-ds-set-divisions-leadership)
- - [Blockchain infrastructure technology startup Mysten Labs, founded by four former Facebook crypto engineers, raises a $36M Series A led by Andreessen Horowitz &lpar;Salvador Rodriguez/CNBC&rpar;](http://www.techmeme.com/211206/p38#a211206p38)<!-- TECH:END -->
+ - [Samsung merges mobile and consumer electronic divisions into a single business unit led by JH Han, and names Kyehyun Kyung as new CEO of its semiconductor unit &lpar;Cho Mu-Hyun/ZDNet&rpar;](http://www.techmeme.com/211206/p40#a211206p40)
+ - [Universe, a mobile-based website builder, raises a $30M Series B led by Addition, and says over 500,000 creators and SMBs have used its app &lpar;Kaya Yurieff/The Information&rpar;](http://www.techmeme.com/211206/p39#a211206p39)
+ - [Some SD cards not working with 2021 MacBook Pro, users report](https://appleinsider.com/articles/21/12/06/some-sd-cards-not-working-with-2021-macbook-pro-users-report?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
