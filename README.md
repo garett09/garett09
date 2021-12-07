@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Hammerting review](https://www.pcgamer.com/hammerting-review)
- - [A solo campaign could be just what Battlefield 2042 needs](https://www.pcgamer.com/battlefield-2042-solo-campaign)
- - [The best microphone for streaming, gaming, and podcasting](https://www.pcgamer.com/best-microphone-gaming-streaming)<!-- GAME:END -->
+ - [Uncharted: Legacy of Thieves Collection – Details on the remastered bundle](https://blog.playstation.com/2021/12/07/uncharted-legacy-of-thieves-collection-details-on-the-remastered-bundle/)
+ - [Uncharted: Legacy of Thieves Collection – Details on the remastered bundle](https://blog.playstation.com/2021/12/07/uncharted-legacy-of-thieves-collection-details-on-the-remastered-bundle/)
+ - [Hammerting review](https://www.pcgamer.com/hammerting-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
