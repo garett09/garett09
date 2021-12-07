@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft seizes 42 domains allegedly used by a Chinese cyber espionage group that targeted organizations in the US and 28 other countries &lpar;Catalin Cimpanu/The Record&rpar;](http://www.techmeme.com/211206/p31#a211206p31)
- - [Some SD cards not working with 2021 MacBook Pro, users report](https://appleinsider.com/articles/21/12/06/some-sd-cards-not-working-with-2021-macbook-pro-users-report?utm_medium=rss)
- - [MongoDB reports Q3 revenue of $227M, up 50% YoY, a net loss of $81.3M, up from $72.7M YoY, and Atlas cloud database revenue up 84%; stock up 17%+ &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/211206/p30#a211206p30)<!-- TECH:END -->
+ - [Sources: Intel plans to publicly list shares of its Mobileye unit at a $50B+ valuation; Intel acquired the self-driving car company in 2018 for about $15B &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/211206/p34#a211206p34)
+ - [I regret to inform you that Digital Human as a Service &lpar;DHaaS&rpar; is now an acronym](https://www.theverge.com/tldr/22821377/digital-human-as-a-service-kddi-mawari)
+ - [Source: Japan&#39;s FSA to propose legislation that would let only banks and wire transfer services issue stablecoins as it plans a yen-based digital currency &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/211206/p33#a211206p33)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
