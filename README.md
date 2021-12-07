@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Office work in a nutshell](http://9gag.com/gag/aE8n21N)
- - 🚯 [Saving the World](http://9gag.com/gag/aQXx1Md)
+ - 🚖 [PASGHETTI](http://9gag.com/gag/a31jQGr)
+ - 🚯 [What men want](http://9gag.com/gag/a215oyd)
  - 🚯 [Which element would you choose?](http://9gag.com/gag/azeAqmj)<!-- MEMES:END -->
 
 --- 
