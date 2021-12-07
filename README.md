@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Mom in hospital, Dad with dementia... Me trying to take care of both alone with no money and court order in 2 weeks due to so many unpaid bills :&rpar;](http://9gag.com/gag/aNPWgM0)
- - 🚯 [Puddle](http://9gag.com/gag/a41jE7Z)
+ - 🚖 [Wonder how many years he&amp;rsquo;s been doing this](http://9gag.com/gag/axBDMZL)
+ - 🚯 [When you arrive late to your Kong fu class and your teacher is mad](http://9gag.com/gag/ay98eYX)
  - 🚯 [Which element would you choose?](http://9gag.com/gag/azeAqmj)<!-- MEMES:END -->
 
 --- 
