@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [New Jurassic World board game is the perfect match for a legacy-style campaign](https://www.polygon.com/tabletop-games/22821038/jurassic-world-legacy-of-isla-nublar-preview-kickstarter-launch-date-price)
- - [Uncharted 4’s PlayStation 5 upgrade will arrive in January](https://www.polygon.com/22822155/uncharted-4-ps5-pc-legacy-of-thieves-collection-lost-legacy-release-date)
- - [What The Oracle turned out to be in the original Matrix movies](https://www.polygon.com/22820567/oracle-matrix-movies-explained)<!-- GAME:END -->
+ - [All I want for Christmas is this fancy Pac-Man book](https://www.polygon.com/22822228/pac-man-book-review-christmas-gift)
+ - [Destiny 2: Bungie’s 30th Anniversary Event Begins](https://news.xbox.com/en-us/2021/12/07/bungies-30th-anniversary-begins/)
+ - [Discord’s new premium memberships give content creators VIP features](https://www.polygon.com/22821129/discord-premium-memberships-beta-price-tiers-customization-announcement)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
