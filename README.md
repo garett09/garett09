@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google partners with Pluto TV to bring 300 free channels to Google TV](https://www.androidauthority.com/google-tv-pluto-tv-3072019/)
- - [Internal documents: Meta will prioritize selling products directly on Facebook, Instagram, and Messenger in 2022, partially in response to Apple&#39;s ATT changes &lpar;Ashley Stewart/Insider&rpar;](http://www.techmeme.com/211207/p7#a211207p7)
- - [Atomico: European tech startups will raise a record $121B in 2021, up from $41B in 2020, with &lt;1% going to early-stage; 98 unicorns were created in 2021 &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/211207/p6#a211207p6)<!-- TECH:END -->
+ - [Apple aims to sell over 300 million iPhones in 2022](https://appleinsider.com/articles/21/12/07/apple-aims-to-sell-over-300-million-iphones-in-2022?utm_medium=rss)
+ - [Instagram to introduce parental control features next year](https://www.theverge.com/2021/12/7/22821955/instagram-parental-controls-teenage-safety-features-take-a-break-nudge)
+ - [Sources: Thomas Bravo is raising $35B for tech company buyouts; in 2021, the PE firm acquired RealPage for $10.2B and Proofpoint for $12.3B &lpar;Antoine Gara/Financial Times&rpar;](http://www.techmeme.com/211207/p9#a211207p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
