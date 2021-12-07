@@ -187,8 +187,8 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- TECH:START -->
  - [Apple aims to sell over 300 million iPhones in 2022](https://appleinsider.com/articles/21/12/07/apple-aims-to-sell-over-300-million-iphones-in-2022?utm_medium=rss)
- - [Instagram to introduce parental control features next year](https://www.theverge.com/2021/12/7/22821955/instagram-parental-controls-teenage-safety-features-take-a-break-nudge)
- - [Sources: Thomas Bravo is raising $35B for tech company buyouts; in 2021, the PE firm acquired RealPage for $10.2B and Proofpoint for $12.3B &lpar;Antoine Gara/Financial Times&rpar;](http://www.techmeme.com/211207/p9#a211207p9)<!-- TECH:END -->
+ - [I Tried Running in a Robotic Exoskeleton So You Don&#39;t Have To](https://www.wired.com/review/sportsmate-5-fitness-exoskeleton)
+ - [Your Very First Fisher-Price Phone Now Works With Bluetooth](https://www.wired.com/story/fisher-price-chatter-phone-bluetooth-rave)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
