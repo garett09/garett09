@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Four Months progress! Still A Long way to go! Damn Proud!](http://9gag.com/gag/aAGPGWR)
- - 🚯 [Guys only want one thing and its f**kin disgusting](http://9gag.com/gag/aOQvx7D)
+ - 🚖 [Mental](http://9gag.com/gag/aOQvQnD)
+ - 🚯 [Matrix Resurrections...](http://9gag.com/gag/aXrwnzD)
  - 🚯 [9GAG x Game Taster 2021 Game Of The Year Award - Who wins? You decide!](http://9gag.com/gag/aKm3jWj)<!-- MEMES:END -->
 
 --- 
