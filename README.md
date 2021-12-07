@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best laptop you can buy in 2021](https://www.theverge.com/21250695/best-laptops)
- - [Station Eleven review: HBO&#39;s adaptation feels eerily like art imitating life     - CNET](https://www.cnet.com/news/station-eleven-review-hbo-adaptation-feels-eerily-like-art-imitating-life/#ftag=CAD590a51e)
- - [The global chip shortage is partially to blame for Final Fantasy XIV’s long queues](https://www.theverge.com/2021/12/7/22822825/final-fantasy-xiv-14-endwalker-global-chip-shortage-server-queue)<!-- TECH:END -->
+ - [AWS announces the launch of its second Top Secret Region, AWS Top Secret-West, designed for gov. workloads requiring Top Secret US security classification level &lpar;Ron Miller/TechCrunch&rpar;](http://www.techmeme.com/211207/p45#a211207p45)
+ - [Get the LG 65-inch 4K UHD Smart 80 TV for just $697, and more top 4K TV deals](https://www.androidauthority.com/best-4k-tv-deals-1126026/)
+ - [Blizzard employee will detail studio’s ‘alcohol-soaked culture’ in press conference](https://www.theverge.com/2021/12/7/22822948/harvey-weinstein-lawyer-lisa-bloom-press-conference-activision-blizzard-harassment-victim)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
