@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Icarus beginner&#39;s guide: Which blueprints to unlock during your first 10 levels](https://www.pcgamer.com/icarus-survival-game-beginner-tips)
- - [Ring in the Polished Paragon Update and Celebrate in Trove’s Snowfest Event](https://news.xbox.com/en-us/2021/12/07/polished-paragon-update-and-celebrate-trove-snowfest/)
- - [Voice of Tails to voice Tails in Sonic movie sequel](https://www.polygon.com/22822889/sonic-the-hedgehog-movie-2-tails-voice-cast)<!-- GAME:END -->
+ - [Halo Infinite won&#39;t let you replay story missions at launch, but the feature is coming](https://www.pcgamer.com/halo-infinite-has-ditched-the-ability-to-replay-story-missions)
+ - [AK-47 maker denies accusation that it stole a gun design from a videogame](https://www.pcgamer.com/ak-47-maker-denies-accusation-that-it-stole-a-gun-design-from-a-videogame)
+ - [This TikToker reloads mundane household objects like they’re FPS weapons](https://www.polygon.com/22821278/kommanderkarl-tiktok-reloading-things-video-game-series)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
