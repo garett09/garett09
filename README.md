@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Social credit - 100000](http://9gag.com/gag/a41jER6)
- - 🚯 [Wonder how many years he&amp;rsquo;s been doing this](http://9gag.com/gag/axBDMZL)
- - 🚯 [Whole fam in the car too&amp;hellip;](http://9gag.com/gag/a41jErw)<!-- MEMES:END -->
+ - 🚖 [BOINK](http://9gag.com/gag/aRreXrj)
+ - 🚯 [Getting past Russian Immigration](http://9gag.com/gag/a51rE4E)
+ - 🚯 [Puddle](http://9gag.com/gag/a41jE7Z)<!-- MEMES:END -->
 
 --- 
 
