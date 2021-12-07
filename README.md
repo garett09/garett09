@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The truth is out there](http://9gag.com/gag/a0ZjN5d)
- - 🚯 [Saving the World](http://9gag.com/gag/aQXx1Md)
+ - 🚖 [No more mexican food](http://9gag.com/gag/aYrLybV)
+ - 🚯 [F**k with 8-5 job, I&amp;rsquo;m opening my own cafe. Still in progress](http://9gag.com/gag/ay98Boy)
  - 🚯 [Which element would you choose?](http://9gag.com/gag/azeAqmj)<!-- MEMES:END -->
 
 --- 
