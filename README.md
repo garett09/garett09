@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Alder Lake DRM issue fixed for all but three games](https://www.pcgamer.com/alder-lake-drm-issue-fixed-for-all-but-three-games)
- - [Streamer Has Said &#39;Mario&#39; 345,000 Times Over The Last Few Days](https://kotaku.com/streamer-has-said-mario-345-000-times-over-the-last-few-1848170867)
- - [The best gaming laptops in Australia for 2021](https://www.pcgamer.com/the-best-gaming-laptops-in-australia-for-2021)<!-- GAME:END -->
+ - [AMD SMCA patches could point to hybrid Alder Lake-like CPUs](https://www.pcgamer.com/amd-smca-patches-could-point-to-hybrid-alder-lake-like-cpus)
+ - [AMD &#39;will highlight upcoming computing and graphics solutions&#39; at CES on January 4](https://www.pcgamer.com/amd-will-highlight-upcoming-computing-and-graphics-solutions-at-ces-on-january-4)
+ - [Alder Lake DRM issue fixed for all but three games](https://www.pcgamer.com/alder-lake-drm-issue-fixed-for-all-but-three-games)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
