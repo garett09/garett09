@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [AMD SMCA patches could point to hybrid Alder Lake-like CPUs](https://www.pcgamer.com/amd-smca-patches-could-point-to-hybrid-alder-lake-like-cpus)
- - [AMD &#39;will highlight upcoming computing and graphics solutions&#39; at CES on January 4](https://www.pcgamer.com/amd-will-highlight-upcoming-computing-and-graphics-solutions-at-ces-on-january-4)
- - [Alder Lake DRM issue fixed for all but three games](https://www.pcgamer.com/alder-lake-drm-issue-fixed-for-all-but-three-games)<!-- GAME:END -->
+ - [Nvidia&#39;s ARM acquisition takes another hit, with EU investigations delayed](https://www.pcgamer.com/nvidias-arm-acquisition-takes-another-hit-with-eu-investigations-delayed)
+ - [Nvidia RTX 2060 12GB listed early on French retailer](https://www.pcgamer.com/nvidia-rtx-2060-12gb-listed-early-on-french-retailer)
+ - [Firefox 95.0 update comes with beefed up sandbox security](https://www.pcgamer.com/firefox-950-update-comes-with-beefed-up-sandbox-security)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
