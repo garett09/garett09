@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Liqid, which develops adaptive resource management tools for data centers, raises a $100M Series C from and Lightrock and DH Capital &lpar;Tim Keary/VentureBeat&rpar;](http://www.techmeme.com/211207/p24#a211207p24)
- - [Apple made secret 5-year $275B deal with Chinese government](https://appleinsider.com/articles/21/12/07/apple-made-secret-5-year-275b-deal-with-chinese-government?utm_medium=rss)
- - [YipitData, which analyzes alternative data for Wall Street and corporate clients, raises up to $475M Series E from Carlyle Group at a $1B+ valuation &lpar;Patrick Clark/Bloomberg&rpar;](http://www.techmeme.com/211207/p23#a211207p23)<!-- TECH:END -->
+ - [Bungie celebrates its 30th Anniversary in Destiny 2 with off-brand Halo gear](https://www.theverge.com/2021/12/7/22822240/bungie-30th-anniversary-destiny-2-halo-guns-armor-gear)
+ - [You told us: You prefer the Dimensity 9000 &lpar;!&rpar; over the Snapdragon 8 Gen 1](https://www.androidauthority.com/dimensity-9000-snapdragon-8-gen-1-poll-results-3071966/)
+ - [Discord’s new Premium Memberships let creators monetize servers](https://www.theverge.com/2021/12/7/22822042/discord-premium-memberships-creators-monetize-servers-feature)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
