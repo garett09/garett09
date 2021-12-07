@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A deer fought with another deer, and in doing so killed it. His antlers got stuck with his opponent, and now he carries his opponent&amp;#039;s skull wherever he goes.](http://9gag.com/gag/apgL55B)
- - 🚯 [Wanna wrestle, bro?](http://9gag.com/gag/aPZW7XK)
+ - 🚖 [No more mexican food](http://9gag.com/gag/aYrLybV)
+ - 🚯 [Mom in hospital, Dad with dementia... Me trying to take care of both alone with no money and court order in 2 weeks due to so many unpaid bills :&rpar;](http://9gag.com/gag/aNPWgM0)
  - 🚯 [Which element would you choose?](http://9gag.com/gag/azeAqmj)<!-- MEMES:END -->
 
 --- 
