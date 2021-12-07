@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [British Cold War Tanks Arrive in World of Tanks](https://news.xbox.com/en-us/2021/12/07/british-cold-war-tanks-arrive-in-world-of-tanks/)
- - [Tracks – The Train Set Game: Free Advent Calendar Update Brings Holiday Joy](https://news.xbox.com/en-us/2021/12/07/tracks-free-advent-calendar-update-brings-holiday-joy/)
- - [Fights in Tight Spaces stuffs a lot of good into a small package](https://www.polygon.com/reviews/22822622/fights-in-tight-spaces-strategy-fighting-grid-rpg-review)<!-- GAME:END -->
+ - [Icarus beginner&#39;s guide: Which blueprints to unlock during your first 10 levels](https://www.pcgamer.com/icarus-survival-game-beginner-tips)
+ - [Ring in the Polished Paragon Update and Celebrate in Trove’s Snowfest Event](https://news.xbox.com/en-us/2021/12/07/polished-paragon-update-and-celebrate-trove-snowfest/)
+ - [Voice of Tails to voice Tails in Sonic movie sequel](https://www.polygon.com/22822889/sonic-the-hedgehog-movie-2-tails-voice-cast)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
