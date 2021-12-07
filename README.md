@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Streamer Has Said &#39;Mario&#39; 345,000 Times Over The Last Few Days](https://kotaku.com/streamer-has-said-mario-345-000-times-over-the-last-few-1848170867)
  - [The best gaming laptops in Australia for 2021](https://www.pcgamer.com/the-best-gaming-laptops-in-australia-for-2021)
- - [Australian Video Games Industry Is Getting Its Own Union](https://kotaku.com/australian-video-games-industry-is-getting-its-own-unio-1848170347)
- - [Explaining the mysterious &#39;Moon Cube&#39; with videogame theories](https://www.pcgamer.com/moon-cube-explained-by-videogames-china-yutu-2-rover)<!-- GAME:END -->
+ - [Australian Video Games Industry Is Getting Its Own Union](https://kotaku.com/australian-video-games-industry-is-getting-its-own-unio-1848170347)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
