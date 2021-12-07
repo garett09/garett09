@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the impact of a COVID-19 outbreak at a STMicroelectronics chipmaking factory in Malaysia, as pressure to increase production overrode safety concerns &lpar;Bloomberg&rpar;](http://www.techmeme.com/211207/p16#a211207p16)
- - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
- - [Samsung shakes up leadership, merges mobile and consumer divisions](https://appleinsider.com/articles/21/12/07/samsung-shakes-up-leadership-merges-mobile-and-consumer-divisions?utm_medium=rss)<!-- TECH:END -->
+ - [Springboard: The Secret History of the First Real Smartphone is out now](https://www.theverge.com/2021/10/7/22711230/springboard-handspring-documentary-secret-history-first-real-smartphone)
+ - [The Verge is now on your smart TV](https://www.theverge.com/22680029/verge-tv-app-android-amazon-fire-roku-apple)
+ - [New Eve Room air quality monitor with Thread support debuts](https://appleinsider.com/articles/21/12/07/new-eve-room-air-quality-monitor-with-thread-support-debuts?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
