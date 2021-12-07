@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple issues fifth developer beta of macOS Monterey 12.1](https://appleinsider.com/articles/21/12/07/apple-issues-fifth-developer-beta-of-macos-monterey-121?utm_medium=rss)
- - [Alphabet sues two Russians it claims help run a botnet that&#39;s infected 1M+ devices and has command-and-control server addresses stored on Bitcoin&#39;s blockchain &lpar;Jamie Tarabay/Bloomberg&rpar;](http://www.techmeme.com/211207/p36#a211207p36)
- - [The best Chrome extensions of the year, as chosen by Google](https://www.androidauthority.com/best-chrome-extensions-2021-3072158/)<!-- TECH:END -->
+ - [Microsoft says it took over servers being used by China-based hacking group Nickel](https://www.theverge.com/2021/12/7/22822255/microsoft-hackers-china-nickel-apt15)
+ - [Now You Can Blast a Great Gjallarhorn in Destiny 2 and IRL](https://www.wired.com/story/destiny-2-gjallarhorn-rocket-launcher)
+ - [iOS 15.2 includes Apple Music Voice Plan, Digital Legacy feature, and more](https://appleinsider.com/articles/21/12/07/ios-152-includes-apple-music-voice-plan-digital-legacy-feature-and-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
