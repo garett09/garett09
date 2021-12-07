@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This 2021 16-inch MacBook Pro is $150 off and in stock right now &lpar;plus save $80 on AppleCare&rpar;](https://appleinsider.com/articles/21/12/07/this-2021-16-inch-macbook-pro-is-150-off-and-in-stock-right-now-plus-save-80-on-applecare?utm_medium=rss)
- - [Razer Phone Cooler Chroma chills your MagSafe iPhone for $60](https://appleinsider.com/articles/21/12/07/razer-phone-cooler-chroma-chills-your-magsafe-iphone-for-60?utm_medium=rss)
- - [Final Fantasy XIV: Endwalker’s early access period didn’t provide much access](https://www.theverge.com/2021/12/7/22822793/final-fantasy-14-endwalker-early-access-server-queues)<!-- TECH:END -->
+ - [The best laptop you can buy in 2021](https://www.theverge.com/21250695/best-laptops)
+ - [Station Eleven review: HBO&#39;s adaptation feels eerily like art imitating life     - CNET](https://www.cnet.com/news/station-eleven-review-hbo-adaptation-feels-eerily-like-art-imitating-life/#ftag=CAD590a51e)
+ - [The global chip shortage is partially to blame for Final Fantasy XIV’s long queues](https://www.theverge.com/2021/12/7/22822825/final-fantasy-xiv-14-endwalker-global-chip-shortage-server-queue)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
