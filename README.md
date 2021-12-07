@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple aims to sell over 300 million iPhones in 2022](https://appleinsider.com/articles/21/12/07/apple-aims-to-sell-over-300-million-iphones-in-2022?utm_medium=rss)
- - [I Tried Running in a Robotic Exoskeleton So You Don&#39;t Have To](https://www.wired.com/review/sportsmate-5-fitness-exoskeleton)
- - [Your Very First Fisher-Price Phone Now Works With Bluetooth](https://www.wired.com/story/fisher-price-chatter-phone-bluetooth-rave)<!-- TECH:END -->
+ - [A look at the impact of a COVID-19 outbreak at a STMicroelectronics chipmaking factory in Malaysia, as pressure to increase production overrode safety concerns &lpar;Bloomberg&rpar;](http://www.techmeme.com/211207/p16#a211207p16)
+ - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
+ - [Samsung shakes up leadership, merges mobile and consumer divisions](https://appleinsider.com/articles/21/12/07/samsung-shakes-up-leadership-merges-mobile-and-consumer-divisions?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
