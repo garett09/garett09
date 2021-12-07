@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Incode Technologies, an ID verification and authentication service, raises $220M at a $1.25B valuation led by General Atlantic and SoftBank Latin America Fund &lpar;Gillian Tan/Bloomberg&rpar;](http://www.techmeme.com/211207/p3#a211207p3)
  - [WeLab, which a offers suite of consumer fintech products across Asia, raises $240M and buys an Indonesian commercial bank, Bank Jasa Jakarta &lpar;Rita Liao/TechCrunch&rpar;](http://www.techmeme.com/211207/p2#a211207p2)
- - [Here’s how long the chip shortage will last, according to Samsung](https://www.androidauthority.com/samsung-chip-shortage-3071399/)
- - [Xiaomi 12 series: Everything we know so far &lpar;Updated: Dec. 7&rpar;](https://www.androidauthority.com/xiaomi-12-2737874/)<!-- TECH:END -->
+ - [Samsung replaces all 3 CEOs, merges units in management restructuring     - CNET](https://www.cnet.com/tech/mobile/samsung-replaces-all-3-ceos-merges-units-in-management-restructuring/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
