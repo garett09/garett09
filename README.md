@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft tells its partners that enterprise customers will be charged 20% more for Office subscriptions if they don&#39;t switch to an annual plan in 2022 &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/211206/p37#a211206p37)
- - [Halo Infinite won’t let you pick levels to replay — but that’s going to change](https://www.theverge.com/2021/12/6/22821522/halo-infinite-campaign-levels-replay-mission-select-343-industries-microsoft)
- - [Donald Trump’s media company has a new CEO: soon-to-be-former-Rep. Devin Nunes](https://www.theverge.com/2021/12/6/22821450/devin-nunes-ceo-tmtg-spac-dwac-truth-social-media)<!-- TECH:END -->
+ - [Some SD cards not working with 2021 MacBook Pro, users report](https://appleinsider.com/articles/21/12/06/some-sd-cards-not-working-with-2021-macbook-pro-users-report?utm_medium=rss)
+ - [Samsung combines mobile and consumer electronics businesses](https://www.theverge.com/2021/12/6/22821590/samsung-ceo-reorganization-ds-set-divisions-leadership)
+ - [Blockchain infrastructure technology startup Mysten Labs, founded by four former Facebook crypto engineers, raises a $36M Series A led by Andreessen Horowitz &lpar;Salvador Rodriguez/CNBC&rpar;](http://www.techmeme.com/211206/p38#a211206p38)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
