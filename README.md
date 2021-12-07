@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Ever Forward Brings a Mysterious Puzzle Adventure Today to Xbox](https://news.xbox.com/en-us/2021/12/07/ever-forward-comes-to-xbox_today/)
  - [Nvidia&#39;s ARM acquisition takes another hit, with EU investigations delayed](https://www.pcgamer.com/nvidias-arm-acquisition-takes-another-hit-with-eu-investigations-delayed)
- - [Nvidia RTX 2060 12GB listed early on French retailer](https://www.pcgamer.com/nvidia-rtx-2060-12gb-listed-early-on-french-retailer)
- - [Firefox 95.0 update comes with beefed up sandbox security](https://www.pcgamer.com/firefox-950-update-comes-with-beefed-up-sandbox-security)<!-- GAME:END -->
+ - [Nvidia RTX 2060 12GB listed early on French retailer](https://www.pcgamer.com/nvidia-rtx-2060-12gb-listed-early-on-french-retailer)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
