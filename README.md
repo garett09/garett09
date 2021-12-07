@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bungie celebrates its 30th Anniversary in Destiny 2 with off-brand Halo gear](https://www.theverge.com/2021/12/7/22822240/bungie-30th-anniversary-destiny-2-halo-guns-armor-gear)
- - [You told us: You prefer the Dimensity 9000 &lpar;!&rpar; over the Snapdragon 8 Gen 1](https://www.androidauthority.com/dimensity-9000-snapdragon-8-gen-1-poll-results-3071966/)
- - [Discord’s new Premium Memberships let creators monetize servers](https://www.theverge.com/2021/12/7/22822042/discord-premium-memberships-creators-monetize-servers-feature)<!-- TECH:END -->
+ - [An AWS outage that began around 10:45am ET has led to disruptions for many services including Disney+, Tinder, Roku, Coinbase, Cash App, Amazon Music, and Venmo &lpar;Richard Lawler/The Verge&rpar;](http://www.techmeme.com/211207/p33#a211207p33)
+ - [Q&amp;A with Julien Codorniou, Meta&#39;s outgoing head of Workplace, on expanding into enterprise services, maintaining privacy, the future of Workplace, and more &lpar;Lizzy Lawrence/Protocol&rpar;](http://www.techmeme.com/211207/p32#a211207p32)
+ - [An Amazon server outage is causing problems for Alexa, Ring, Disney Plus, and others](https://www.theverge.com/2021/12/7/22822332/amazon-server-aws-down-disney-plus-ring-outage)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
