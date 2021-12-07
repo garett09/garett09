@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [No more mexican food](http://9gag.com/gag/aYrLybV)
- - 🚯 [Mom in hospital, Dad with dementia... Me trying to take care of both alone with no money and court order in 2 weeks due to so many unpaid bills :&rpar;](http://9gag.com/gag/aNPWgM0)
+ - 🚖 [Mom in hospital, Dad with dementia... Me trying to take care of both alone with no money and court order in 2 weeks due to so many unpaid bills :&rpar;](http://9gag.com/gag/aNPWgM0)
+ - 🚯 [Puddle](http://9gag.com/gag/a41jE7Z)
  - 🚯 [Which element would you choose?](http://9gag.com/gag/azeAqmj)<!-- MEMES:END -->
 
 --- 
