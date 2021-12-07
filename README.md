@@ -188,7 +188,7 @@ Windows                  3 hrs 9 mins        ███████████�
 <!-- TECH:START -->
  - [Samsung merges mobile and consumer electronic divisions into a single business unit led by JH Han, and names Kyehyun Kyung as new CEO of its semiconductor unit &lpar;Cho Mu-Hyun/ZDNet&rpar;](http://www.techmeme.com/211206/p40#a211206p40)
  - [Universe, a mobile-based website builder, raises a $30M Series B led by Addition, and says over 500,000 creators and SMBs have used its app &lpar;Kaya Yurieff/The Information&rpar;](http://www.techmeme.com/211206/p39#a211206p39)
- - [Some SD cards not working with 2021 MacBook Pro, users report](https://appleinsider.com/articles/21/12/06/some-sd-cards-not-working-with-2021-macbook-pro-users-report?utm_medium=rss)<!-- TECH:END -->
+ - [Best iPhone for 2021: Which of Apple&#39;s 8 phones is right for you?     - CNET](https://www.cnet.com/tech/mobile/best-iphone/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
