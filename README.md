@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [All I want for Christmas is this fancy Pac-Man book](https://www.polygon.com/22822228/pac-man-book-review-christmas-gift)
- - [Destiny 2: Bungie’s 30th Anniversary Event Begins](https://news.xbox.com/en-us/2021/12/07/bungies-30th-anniversary-begins/)
- - [Discord’s new premium memberships give content creators VIP features](https://www.polygon.com/22821129/discord-premium-memberships-beta-price-tiers-customization-announcement)<!-- GAME:END -->
+ - [They thought they got their dream job at Riot Games — but it was a scam](https://www.polygon.com/22822273/riot-games-job-recruiting-scam-lawsuit)
+ - [Forging the Horn – Behind the scenes of Gjallarhorn’s return in Destiny 2](https://blog.playstation.com/2021/12/07/forging-the-horn-behind-the-scenes-of-gjallarhorns-return-in-destiny-2/)
+ - [Forging the Horn – Behind the scenes of Gjallarhorn’s return in Destiny 2](https://blog.playstation.com/2021/12/07/forging-the-horn-behind-the-scenes-of-gjallarhorns-return-in-destiny-2/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
