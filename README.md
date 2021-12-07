@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Springboard: The Secret History of the First Real Smartphone is out now](https://www.theverge.com/2021/10/7/22711230/springboard-handspring-documentary-secret-history-first-real-smartphone)
- - [The Verge is now on your smart TV](https://www.theverge.com/22680029/verge-tv-app-android-amazon-fire-roku-apple)
- - [New Eve Room air quality monitor with Thread support debuts](https://appleinsider.com/articles/21/12/07/new-eve-room-air-quality-monitor-with-thread-support-debuts?utm_medium=rss)<!-- TECH:END -->
+ - [Liqid, which develops adaptive resource management tools for data centers, raises a $100M Series C from and Lightrock and DH Capital &lpar;Tim Keary/VentureBeat&rpar;](http://www.techmeme.com/211207/p24#a211207p24)
+ - [Apple made secret 5-year $275B deal with Chinese government](https://appleinsider.com/articles/21/12/07/apple-made-secret-5-year-275b-deal-with-chinese-government?utm_medium=rss)
+ - [YipitData, which analyzes alternative data for Wall Street and corporate clients, raises up to $475M Series E from Carlyle Group at a $1B+ valuation &lpar;Patrick Clark/Bloomberg&rpar;](http://www.techmeme.com/211207/p23#a211207p23)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
