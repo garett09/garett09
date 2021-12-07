@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [An AWS outage that began around 10:45am ET has led to disruptions for many services including Disney+, Tinder, Roku, Coinbase, Cash App, Amazon Music, and Venmo &lpar;Richard Lawler/The Verge&rpar;](http://www.techmeme.com/211207/p33#a211207p33)
- - [Q&amp;A with Julien Codorniou, Meta&#39;s outgoing head of Workplace, on expanding into enterprise services, maintaining privacy, the future of Workplace, and more &lpar;Lizzy Lawrence/Protocol&rpar;](http://www.techmeme.com/211207/p32#a211207p32)
- - [An Amazon server outage is causing problems for Alexa, Ring, Disney Plus, and others](https://www.theverge.com/2021/12/7/22822332/amazon-server-aws-down-disney-plus-ring-outage)<!-- TECH:END -->
+ - [Apple issues fifth developer beta of macOS Monterey 12.1](https://appleinsider.com/articles/21/12/07/apple-issues-fifth-developer-beta-of-macos-monterey-121?utm_medium=rss)
+ - [Alphabet sues two Russians it claims help run a botnet that&#39;s infected 1M+ devices and has command-and-control server addresses stored on Bitcoin&#39;s blockchain &lpar;Jamie Tarabay/Bloomberg&rpar;](http://www.techmeme.com/211207/p36#a211207p36)
+ - [The best Chrome extensions of the year, as chosen by Google](https://www.androidauthority.com/best-chrome-extensions-2021-3072158/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
