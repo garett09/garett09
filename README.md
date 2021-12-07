@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [BOINK](http://9gag.com/gag/aRreXrj)
- - 🚯 [Getting past Russian Immigration](http://9gag.com/gag/a51rE4E)
- - 🚯 [Puddle](http://9gag.com/gag/a41jE7Z)<!-- MEMES:END -->
+ - 🚖 [And,,, FIFA](http://9gag.com/gag/aZrp0X3)
+ - 🚯 [Everything is better with mods](http://9gag.com/gag/a41j14A)
+ - 🚯 [Round 3](http://9gag.com/gag/a91YnQ6)<!-- MEMES:END -->
 
 --- 
 
