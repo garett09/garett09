@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When you arrive late to your Kong fu class and your teacher is mad](http://9gag.com/gag/ay98eYX)
- - 🚯 [That&amp;#039;s awesome](http://9gag.com/gag/a51rR1L)
+ - 🚖 [A deer fought with another deer, and in doing so killed it. His antlers got stuck with his opponent, and now he carries his opponent&amp;#039;s skull wherever he goes.](http://9gag.com/gag/apgL55B)
+ - 🚯 [Wanna wrestle, bro?](http://9gag.com/gag/aPZW7XK)
  - 🚯 [Which element would you choose?](http://9gag.com/gag/azeAqmj)<!-- MEMES:END -->
 
 --- 
