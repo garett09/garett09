@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [This Holiday Season, Sam &amp; Max Are Going to Hell](https://news.xbox.com/en-us/2021/12/07/this-holiday-season-sam-max-are-going-to-hell/)
- - [How to get Marcus Fenix and Kait Diaz from Gears of War in Fortnite](https://www.pcgamer.com/fortnite-marcus-fenix-kate-diaz)
- - [Here are the new Exotics added in Destiny 2’s  new Bungie 30th Anniversary Pack](https://www.polygon.com/22821053/destiny-2-halo-weapons-bungie-30-anniversary-exotics-gjallarhorn-magnum-pistol-forerunner)<!-- GAME:END -->
+ - [British Cold War Tanks Arrive in World of Tanks](https://news.xbox.com/en-us/2021/12/07/british-cold-war-tanks-arrive-in-world-of-tanks/)
+ - [Tracks – The Train Set Game: Free Advent Calendar Update Brings Holiday Joy](https://news.xbox.com/en-us/2021/12/07/tracks-free-advent-calendar-update-brings-holiday-joy/)
+ - [Fights in Tight Spaces stuffs a lot of good into a small package](https://www.polygon.com/reviews/22822622/fights-in-tight-spaces-strategy-fighting-grid-rpg-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
