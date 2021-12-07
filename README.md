@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [No more mexican food](http://9gag.com/gag/aYrLybV)
- - 🚯 [F**k with 8-5 job, I&amp;rsquo;m opening my own cafe. Still in progress](http://9gag.com/gag/ay98Boy)
+ - 🚖 [When you arrive late to your Kong fu class and your teacher is mad](http://9gag.com/gag/ay98eYX)
+ - 🚯 [That&amp;#039;s awesome](http://9gag.com/gag/a51rR1L)
  - 🚯 [Which element would you choose?](http://9gag.com/gag/azeAqmj)<!-- MEMES:END -->
 
 --- 
