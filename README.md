@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [They thought they got their dream job at Riot Games — but it was a scam](https://www.polygon.com/22822273/riot-games-job-recruiting-scam-lawsuit)
- - [Forging the Horn – Behind the scenes of Gjallarhorn’s return in Destiny 2](https://blog.playstation.com/2021/12/07/forging-the-horn-behind-the-scenes-of-gjallarhorns-return-in-destiny-2/)
- - [Forging the Horn – Behind the scenes of Gjallarhorn’s return in Destiny 2](https://blog.playstation.com/2021/12/07/forging-the-horn-behind-the-scenes-of-gjallarhorns-return-in-destiny-2/)<!-- GAME:END -->
+ - [Scuf’s New PS5 Controllers Have Cool Features, Large Price Tags](https://kotaku.com/scuf-s-new-ps5-controllers-have-cool-features-large-pr-1848173625)
+ - [Amazon Web Services Outage Affects Several Major Games](https://kotaku.com/amazon-web-services-outage-affects-several-major-games-1848173910)
+ - [Best gaming SSD deals heading into the holidays](https://www.pcgamer.com/best-gaming-ssd-deals-headin-into-the-holidays)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
