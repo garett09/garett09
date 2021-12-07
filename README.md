@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best gaming PC in 2021](https://www.pcgamer.com/best-gaming-pc)
- - [Sony Shows The Future Of Next-Gen VR With Prototype Headset](https://kotaku.com/sony-shows-the-future-of-next-gen-vr-with-prototype-hea-1848171408)
- - [Best gaming laptop deals heading into the holidays](https://www.pcgamer.com/best-gaming-laptop-deals-heading-into-the-holidays)<!-- GAME:END -->
+ - [Hammerting review](https://www.pcgamer.com/hammerting-review)
+ - [A solo campaign could be just what Battlefield 2042 needs](https://www.pcgamer.com/battlefield-2042-solo-campaign)
+ - [The best microphone for streaming, gaming, and podcasting](https://www.pcgamer.com/best-microphone-gaming-streaming)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
