@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [GRRM be smoking shit](http://9gag.com/gag/aYrLVj2)
- - 🚯 [I really am just a memer](http://9gag.com/gag/ang1gQV)
+ - 🚖 [Four Months progress! Still A Long way to go! Damn Proud!](http://9gag.com/gag/aAGPGWR)
+ - 🚯 [Guys only want one thing and its f**kin disgusting](http://9gag.com/gag/aOQvx7D)
  - 🚯 [9GAG x Game Taster 2021 Game Of The Year Award - Who wins? You decide!](http://9gag.com/gag/aKm3jWj)<!-- MEMES:END -->
 
 --- 
