@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Japanese Anime Fans Are Baffled By Demon Slayer Season 2&#39;s English Title](https://kotaku.com/japanese-anime-fans-are-baffled-by-demon-slayer-season-1848171293)
  - [Ever Forward Brings a Mysterious Puzzle Adventure Today to Xbox](https://news.xbox.com/en-us/2021/12/07/ever-forward-comes-to-xbox_today/)
- - [Nvidia&#39;s ARM acquisition takes another hit, with EU investigations delayed](https://www.pcgamer.com/nvidias-arm-acquisition-takes-another-hit-with-eu-investigations-delayed)
- - [Nvidia RTX 2060 12GB listed early on French retailer](https://www.pcgamer.com/nvidia-rtx-2060-12gb-listed-early-on-french-retailer)<!-- GAME:END -->
+ - [Nvidia&#39;s ARM acquisition takes another hit, with EU investigations delayed](https://www.pcgamer.com/nvidias-arm-acquisition-takes-another-hit-with-eu-investigations-delayed)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
