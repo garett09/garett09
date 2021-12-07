@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Study: AI research regularly reuses a small number of ML datasets by a few institutions like Stanford, Microsoft, Princeton, Meta, Google, Max Planck, and AT&amp;T &lpar;Martin Anderson/Unite.AI&rpar;](http://www.techmeme.com/211207/p1#a211207p1)
- - [Samsung Galaxy Note 10 series gaining December 2021 patch](https://www.androidauthority.com/samsung-galaxy-note-10-plus-update-1020236/)
- - [Samsung merges its mobile and consumer electronic divisions into one business unit led by JH Han, and names Kyehyun Kyung as the CEO of its semiconductor unit &lpar;Cho Mu-Hyun/ZDNet&rpar;](http://www.techmeme.com/211206/p40#a211206p40)<!-- TECH:END -->
+ - [WeLab, which a offers suite of consumer fintech products across Asia, raises $240M and buys an Indonesian commercial bank, Bank Jasa Jakarta &lpar;Rita Liao/TechCrunch&rpar;](http://www.techmeme.com/211207/p2#a211207p2)
+ - [Here’s how long the chip shortage will last, according to Samsung](https://www.androidauthority.com/samsung-chip-shortage-3071399/)
+ - [Xiaomi 12 series: Everything we know so far &lpar;Updated: Dec. 7&rpar;](https://www.androidauthority.com/xiaomi-12-2737874/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
