@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Epic vs. Apple App Store changes will wait until after the appeal](https://appleinsider.com/articles/21/12/08/apple-convinces-court-to-stay-app-store-changes-ruling?utm_medium=rss)
- - [Amazon’s excellent Smart Thermostat is even more affordable today](https://www.theverge.com/good-deals/2021/12/8/22822289/amazon-thermostat-sonos-samsung-980-pro-razer-kishi-airpods-govee-deal-sale)
- - [Holiday Apple deals on Amazon: Save on AirPods, MacBooks, Apple Watch, MagSafe accessories, more](https://appleinsider.com/articles/21/12/06/holiday-apple-deals-on-amazon-save-up-to-250-on-airpods-macbooks-apple-watch-more?utm_medium=rss)<!-- TECH:END -->
+ - [NASA looks into unusual Mars helicopter communications hiccup during flight     - CNET](https://www.cnet.com/news/nasa-looks-into-unusual-mars-helicopter-communications-hiccup-during-flight/#ftag=CAD590a51e)
+ - [BrightDrop opens its first dealership near Los Angeles     - Roadshow](https://www.cnet.com/roadshow/news/brightdrop-opens-first-dealership-los-angeles/#ftag=CAD590a51e)
+ - [Better.com CEO Vishal Garg apologizes for how he handled firing ~900 employees, ~9% of staff, over Zoom, as a report says Better.com is delaying its SPAC &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/211208/p38#a211208p38)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
