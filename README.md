@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Budget graphics cards from Nvidia, AMD, and Intel may finally materialise in 2022](https://www.pcgamer.com/budget-graphics-cards-from-nvidia-amd-and-intel-may-finally-materialise-in-2022)
- - [Everything we know about Call of Duty: Vanguard and Warzone Pacific Season 1](https://www.pcgamer.com/cod-vanguard-warzone-pacific-season-1-update)
- - [YouTuber Hit With 150 Copyright Claims For Reviews Featuring Anime Footage](https://kotaku.com/youtuber-hit-with-150-copyright-claims-for-reviews-feat-1848178180)<!-- GAME:END -->
+ - [Bowser bashed with a further $10 million fine in Nintendo piracy lawsuit](https://www.pcgamer.com/bowser-bashed-with-a-further-dollar10-million-fine-in-nintendo-piracy-lawsuit)
+ - [Stardew Valley briefly broke itself after performance hotfix crashed the game](https://www.pcgamer.com/stardew-valley-briefly-broke-itself-after-performance-hotfix-crashed-the-game)
+ - [Nvidia expects RTX 2060 12GB stock to &#39;ramp end of December through January&#39; as retailers remain barren](https://www.pcgamer.com/nvidia-rtx-2060-12gb-stock-availability)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
