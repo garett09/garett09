@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Support for hotel keys in Apple Wallet being added by Hyatt starting Wednesday](https://appleinsider.com/articles/21/12/08/support-for-hotel-keys-in-apple-wallet-being-added-by-hyatt-starting-wednesday?utm_medium=rss)
- - [How to encrypt email in Gmail like a secret agent](https://www.androidauthority.com/encrypt-email-gmail-3072797/)
- - [Poll: What’s your smartphone dealbreaker?](https://www.androidauthority.com/smartphone-dealbreakers-poll-3072605/)<!-- TECH:END -->
+ - [You can now grab the first Android 12L beta on supported Pixels](https://www.androidauthority.com/android-12l-beta-3072490/)
+ - [Google releases first Android 12L beta for large-screen devices](https://www.theverge.com/2021/12/8/22824287/google-android-12-beta-1-release-large-screen-devices-tablet-pixel)
+ - [Instagram chief to testify before Congress about kids&#39; mental health: How to watch Wednesday     - CNET](https://www.cnet.com/news/instagram-chief-to-testify-before-congress-about-childrens-mental-health-how-to-watch/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
