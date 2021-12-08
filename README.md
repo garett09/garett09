@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Malaysia also has the smallest deer family member known as the Lesser mouse-deer.](http://9gag.com/gag/ang1ny5)
- - 🚯 [This made me laugh](http://9gag.com/gag/abgZ1jE)
- - 🚯 [Thingy](http://9gag.com/gag/aeg61zm)<!-- MEMES:END -->
+ - 🚖 [Lol am first](http://9gag.com/gag/aOQv4p2)
+ - 🚯 [Thingy](http://9gag.com/gag/aeg61zm)
+ - 🚯 [Their greatest enemy? The sea.](http://9gag.com/gag/adgXONB)<!-- MEMES:END -->
 
 --- 
 
