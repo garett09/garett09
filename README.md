@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [AWS announces the launch of its second Top Secret Region, AWS Top Secret-West, designed for gov. workloads requiring Top Secret US security classification level &lpar;Ron Miller/TechCrunch&rpar;](http://www.techmeme.com/211207/p45#a211207p45)
- - [Get the LG 65-inch 4K UHD Smart 80 TV for just $697, and more top 4K TV deals](https://www.androidauthority.com/best-4k-tv-deals-1126026/)
- - [Blizzard employee will detail studio’s ‘alcohol-soaked culture’ in press conference](https://www.theverge.com/2021/12/7/22822948/harvey-weinstein-lawyer-lisa-bloom-press-conference-activision-blizzard-harassment-victim)<!-- TECH:END -->
+ - [Sources: Parag Agrawal was Jack Dorsey&#39;s only serious candidate to replace him as Twitter CEO and Elliott Management did not demand that Dorsey resign &lpar;Kurt Wagner/Bloomberg&rpar;](http://www.techmeme.com/211207/p48#a211207p48)
+ - [Twitter’s new CEO wants the company to move a lot faster](https://www.theverge.com/2021/12/7/22823093/twitter-new-ceo-parag-agrawal-move-faster-interview)
+ - [An Amazon server outage caused problems for Alexa, Ring, Disney Plus, and deliveries](https://www.theverge.com/2021/12/7/22822332/amazon-server-aws-down-disney-plus-ring-outage)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
