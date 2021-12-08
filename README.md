@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elizabeth Holmes smiles on the stand as her trial nears an end](https://www.theverge.com/2021/12/7/22823361/elizabeth-holmes-theranos-fraud-trial-cross-examination)
- - [Twitter is testing a new process for reporting harmful tweets that lets US users describe what happened, and will use this data to improve its responses &lpar;Taylor Hatmaker/TechCrunch&rpar;](http://www.techmeme.com/211207/p51#a211207p51)
- - [Halo Infinite: 10 things to know before starting     - CNET](https://www.cnet.com/tech/gaming/halo-infinite-10-things-to-know-before-starting/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Uber is being challenged on multiple fronts in Europe, as European Commission proposals and a UK High Court decision threaten to drive up labor costs &lpar;Financial Times&rpar;](http://www.techmeme.com/211207/p53#a211207p53)
+ - [Hong Kong-listed shares of Weibo opened down 6% in their trading debut, after the company raised ~$385M in its secondary listing &lpar;Saheli Roy Choudhury/CNBC&rpar;](http://www.techmeme.com/211207/p52#a211207p52)
+ - [Elizabeth Holmes smiles on the stand as her trial nears an end](https://www.theverge.com/2021/12/7/22823361/elizabeth-holmes-theranos-fraud-trial-cross-examination)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
