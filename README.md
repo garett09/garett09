@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Destiny 2: How to unlock the Gjallarhorn exotic rocket launcher and its catalyst](https://www.pcgamer.com/destiny-2-how-to-unlock-the-gjallarhorn-exotic-rocket-launcher-and-its-catalyst)
  - [Star Wars: The Old Republic expansion delayed into next year](https://www.pcgamer.com/star-wars-the-old-republic-expansion-delayed-into-next-year)
- - [Indie Game Says Kalashnikov Stole Their Weapon Design, Turned It Into A Real Shotgun](https://kotaku.com/indie-game-says-kalashnikov-stole-their-shotgun-design-1848176543)
- - [&lpar;For Southeast Asia&rpar; Uncharted: Legacy of Thieves Collection – Details on the remastered bundle](https://blog.playstation.com/2021/12/07/20211207-uncharted/)<!-- GAME:END -->
+ - [Indie Game Says Kalashnikov Stole Their Weapon Design, Turned It Into A Real Shotgun](https://kotaku.com/indie-game-says-kalashnikov-stole-their-shotgun-design-1848176543)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
