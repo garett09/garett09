@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Henry Cavill politely explains that Warhammer is not World of Warcraft](http://9gag.com/gag/a814qLe)
- - 🚯 [He&amp;#039;ll always be spiderman](http://9gag.com/gag/arnNmGK)
+ - 🚖 [Daryasar, Mazandaran, Iran](http://9gag.com/gag/aeg69oq)
+ - 🚯 [Very edgy](http://9gag.com/gag/amgzo42)
  - 🚯 [9GAG x Game Taster 2021 Game Of The Year Award - Who wins? You decide!](http://9gag.com/gag/aKm3jWj)<!-- MEMES:END -->
 
 --- 
