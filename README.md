@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [PlayStation Store: November 2021’s top downloads](https://blog.playstation.com/2021/12/08/playstation-store-november-2021s-top-downloads/)
- - [GTA Online getting new single-player content starring Franklin and Dr. Dre](https://www.polygon.com/22823917/gta-online-dr-dre-single-player-dlc-release-date-contract)
- - [PlayStation Store: November 2021’s top downloads](https://blog.playstation.com/2021/12/08/playstation-store-november-2021s-top-downloads/)<!-- GAME:END -->
+ - [Bungie’s making a Nerf Gjallarhorn, here’s how to get it](https://www.polygon.com/22824009/nerf-gjallarhorn-destiny-2-bungie-pre-order)
+ - [Hawkeye’s Black Widow assassin was set up in a post-credits scene](https://www.polygon.com/22823969/hawkeye-episode-4-yelena-florence-pugh)
+ - [GTA Online update will debut new Dr. Dre music, bring back Franklin](https://www.pcgamer.com/gta-online-update-will-debut-new-dr-dre-music-bring-back-franklin)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
