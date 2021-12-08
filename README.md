@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Gg wp](http://9gag.com/gag/ang1vBV)
- - 🚯 [Time to get fitness guys](http://9gag.com/gag/aWgMvyd)
- - 🚯 [I&amp;#039;m glad he&amp;#039;s finally been exposed as the fraud he&amp;#039;s always been](http://9gag.com/gag/a91Y8Bm)<!-- MEMES:END -->
+ - 🚖 [Economics in a nutshell.](http://9gag.com/gag/a814DBO)
+ - 🚯 [IT support is hard](http://9gag.com/gag/aWgMv84)
+ - 🚯 [Time to get fitness guys](http://9gag.com/gag/aWgMvyd)<!-- MEMES:END -->
 
 --- 
 
