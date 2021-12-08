@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Starting from scratch after every mission in Icarus isn&#39;t nearly the grind I expected](https://www.pcgamer.com/starting-from-scratch-after-every-mission-in-icarus-isnt-nearly-the-grind-i-expected)
- - [Chris Pratt now voices Mario in this Super Mario Bros. hack](https://www.polygon.com/22824572/chris-pratt-mario-browser-game-nintendo-movie)
- - [Every photo from the 2001 Lord of the Rings media blitz is a priceless work of art](https://www.polygon.com/lord-of-the-rings/22822965/lord-of-the-rings-cast-photos-fellowship-of-the-ring-premiere)<!-- GAME:END -->
+ - [The new Bond will be a British man — but the prerequisites stop there, says producer](https://www.polygon.com/22824347/new-bond-cast-british-man-barbara-broccoli)
+ - [Rounding up Call of Duty: Warzone Pacific bugs, glitches and their potential solutions](https://www.pcgamer.com/warzone-pacific-bugs-crashing-glitches-fix)
+ - [Hilarious Halo Infinite Glitch Turns Warthogs Into Go-Karts](https://kotaku.com/hilarious-halo-infinite-glitch-turns-warthogs-into-go-k-1848181438)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
