@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [UFC 269 Charles Oliveira vs. Dustin Poirier: Start time, how to watch or stream online, full fight card     - CNET](https://www.cnet.com/news/ufc-269-charles-oliveira-vs-dustin-poirier-start-time-how-to-watch-or-stream-online-full-fight-card/#ftag=CAD590a51e)
- - [Bill Gates says 2021 was the hardest year of his life     - CNET](https://www.cnet.com/news/bill-gates-says-2021-was-the-hardest-year-of-his-life/#ftag=CAD590a51e)
- - [Apple debuts new Open Source website, will release projects on GitHub](https://appleinsider.com/articles/21/12/08/apple-debuts-new-open-source-website-will-release-projects-on-github?utm_medium=rss)<!-- TECH:END -->
+ - [Destiny brings back Gjallarhorn, immediately Nerfs it](https://www.theverge.com/2021/12/8/22824897/destiny-gjallarhorn-nerf-blaster-hasbro-bungie)
+ - [The Bouqs Co. holiday deals: Get more bloom for your buck on flower arrangements     - CNET](https://www.cnet.com/home/the-bouqs-holiday-deals-get-more-bloom-for-your-buck-on-flower-arrangements/#ftag=CAD590a51e)
+ - [Gloomhaven savings: Get the Jaws of the Lion expansion adventure for $27     - CNET](https://www.cnet.com/news/score-a-copy-of-gloomhaven-jaws-of-the-lion-for-46-less-today/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
