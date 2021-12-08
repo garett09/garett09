@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kuo: Apple&#39;s first AR headset will go to mass production in late Q4 2022, and Apple is working on a second gen headset with a lighter design for launch in 2024 &lpar;Sami Fathi/MacRumors&rpar;](http://www.techmeme.com/211208/p6#a211208p6)
- - [Oppo teases retractable rear camera for phones](https://www.theverge.com/2021/12/8/22823689/oppo-retractable-phone-camera-teaser-inno-day-2021)
- - [A look at Trump Media &amp; Technology Group, which lacks a product, users, publicly identified executives, and revenue, and its merger with DWAC, valued at $1.85B &lpar;Judd Legum/Popular Information&rpar;](http://www.techmeme.com/211208/p5#a211208p5)<!-- TECH:END -->
+ - [French financial super app Lydia raises a $100M Series C at a $1B+ valuation &lpar;Romain Dillet/TechCrunch&rpar;](http://www.techmeme.com/211208/p7#a211208p7)
+ - [You told us: The Samsung Galaxy S20 FE is still worth buying in 2021](https://www.androidauthority.com/samsung-galaxy-s20-fe-long-term-review-poll-results-3072478/)
+ - [Kuo: Apple&#39;s first AR headset will go to mass production in late Q4 2022, and Apple is working on a second gen headset with a lighter design for launch in 2024 &lpar;Sami Fathi/MacRumors&rpar;](http://www.techmeme.com/211208/p6#a211208p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
