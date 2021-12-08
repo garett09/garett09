@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [You can now grab the first Android 12L beta on supported Pixels](https://www.androidauthority.com/android-12l-beta-3072490/)
- - [Google releases first Android 12L beta for large-screen devices](https://www.theverge.com/2021/12/8/22824287/google-android-12-beta-1-release-large-screen-devices-tablet-pixel)
- - [Instagram chief to testify before Congress about kids&#39; mental health: How to watch Wednesday     - CNET](https://www.cnet.com/news/instagram-chief-to-testify-before-congress-about-childrens-mental-health-how-to-watch/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Twitter tests turning its in-app explore page into a TikTok-like feed with For You and Trending tabs, amid similar experiments from Netflix, Spotify, and Reddit &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/211208/p33#a211208p33)
+ - [Apple has renewed sci-fi original drama &#39;Invasion&#39; for a second season](https://appleinsider.com/articles/21/12/08/apple-has-renewed-sci-fi-original-drama-invasion-for-a-second-season?utm_medium=rss)
+ - [Get the Roku Premiere for just $24.99, and more cheap Roku deals](https://www.androidauthority.com/best-cheap-roku-deals-1115065/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
