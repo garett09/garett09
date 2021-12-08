@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Researchers discover cybercrime forums acting as an informal court system on the Dark Web, where criminals can file grievances and settle disputes with peers &lpar;Analyst1&rpar;](http://www.techmeme.com/211208/p8#a211208p8)
- - [How to find your Spotify username](https://www.androidauthority.com/how-to-find-spotify-username-3071901/)
- - [French financial super app Lydia raises a $100M Series C at a $1B+ valuation &lpar;Romain Dillet/TechCrunch&rpar;](http://www.techmeme.com/211208/p7#a211208p7)<!-- TECH:END -->
+ - [Easol, which offers event management tools, raises a $25M Series A led by Tiger Global &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/211208/p11#a211208p11)
+ - [FAA outlines flight restrictions, including restricting bad weather automated landing systems, to avoid interference with the C-band 5G spectrum from January 5 &lpar;Andrew Tangel/Wall Street Journal&rpar;](http://www.techmeme.com/211208/p10#a211208p10)
+ - [How Snap is sidestepping the metaverse](https://www.theverge.com/2021/12/8/22823248/how-snap-is-sidestepping-the-metaverse)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
