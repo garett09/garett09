@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [All my neighbours know this ancient secret](http://9gag.com/gag/a91Yv46)
- - 🚯 [What a weird cato](http://9gag.com/gag/aqGL6b7)
- - 🚯 [Ouch&amp;hellip;](http://9gag.com/gag/a61Q9Wm)<!-- MEMES:END -->
+ - 🚖 [Well you are not a fish](http://9gag.com/gag/aYrLDMw)
+ - 🚯 [Hehehe](http://9gag.com/gag/aQXxQgw)
+ - 🚯 [Gg wp](http://9gag.com/gag/ang1vBV)<!-- MEMES:END -->
 
 --- 
 
