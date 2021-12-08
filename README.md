@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Helmut Newton - Winnie of the coast of Cannes 1975 &lpar;colored&rpar;](http://9gag.com/gag/a31jAY3)
+ - 🚖 [Malaysia also has the smallest deer family member known as the Lesser mouse-deer.](http://9gag.com/gag/ang1ny5)
  - 🚯 [This made me laugh](http://9gag.com/gag/abgZ1jE)
- - 🚯 [The most Canadian thing you&amp;#039;ll see today](http://9gag.com/gag/a31jAwe)<!-- MEMES:END -->
+ - 🚯 [Thingy](http://9gag.com/gag/aeg61zm)<!-- MEMES:END -->
 
 --- 
 
