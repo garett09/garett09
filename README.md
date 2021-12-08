@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Well you are not a fish](http://9gag.com/gag/aYrLDMw)
- - 🚯 [Hehehe](http://9gag.com/gag/aQXxQgw)
- - 🚯 [Gg wp](http://9gag.com/gag/ang1vBV)<!-- MEMES:END -->
+ - 🚖 [Hehehe](http://9gag.com/gag/aQXxQgw)
+ - 🚯 [Well you are not a fish](http://9gag.com/gag/aYrLDMw)
+ - 🚯 [IT support is hard](http://9gag.com/gag/aWgMv84)<!-- MEMES:END -->
 
 --- 
 
