@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitter tests turning its in-app explore page into a TikTok-like feed with For You and Trending tabs, amid similar experiments from Netflix, Spotify, and Reddit &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/211208/p33#a211208p33)
- - [Apple has renewed sci-fi original drama &#39;Invasion&#39; for a second season](https://appleinsider.com/articles/21/12/08/apple-has-renewed-sci-fi-original-drama-invasion-for-a-second-season?utm_medium=rss)
- - [Get the Roku Premiere for just $24.99, and more cheap Roku deals](https://www.androidauthority.com/best-cheap-roku-deals-1115065/)<!-- TECH:END -->
+ - [Epic vs. Apple App Store changes will wait until after the appeal](https://appleinsider.com/articles/21/12/08/apple-convinces-court-to-stay-app-store-changes-ruling?utm_medium=rss)
+ - [Amazon’s excellent Smart Thermostat is even more affordable today](https://www.theverge.com/good-deals/2021/12/8/22822289/amazon-thermostat-sonos-samsung-980-pro-razer-kishi-airpods-govee-deal-sale)
+ - [Holiday Apple deals on Amazon: Save on AirPods, MacBooks, Apple Watch, MagSafe accessories, more](https://appleinsider.com/articles/21/12/06/holiday-apple-deals-on-amazon-save-up-to-250-on-airpods-macbooks-apple-watch-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
