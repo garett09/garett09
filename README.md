@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Halo Infinite Available Now with Xbox Game Pass](https://news.xbox.com/en-us/2021/12/08/halo-infinite-available-now-with-xbox-game-pass/)
- - [Halo Infinite beginner’s guide, tips, and tricks](https://www.polygon.com/halo-infinite-guide-walkthrough/22809979/beginners-tips-tricks-weapons-scanner-upgrade-grappleshot-explore-fast-travel-fobs)
- - [27 Things I Wish I Knew Before Starting Halo Infinite’s Campaign](https://kotaku.com/27-things-i-wish-i-knew-before-starting-halo-infinite-s-1848179027)<!-- GAME:END -->
+ - [Halo Infinite Is Harder Than You’d Expect, And That&#39;s By Design](https://kotaku.com/halo-infinite-is-harder-than-you-d-expect-and-thats-by-1848179993)
+ - [Assassin’s Creed Valhalla update forces reinstall to save storage space](https://www.polygon.com/22824443/assassins-creed-valhalla-update-storage-space-ubisoft)
+ - [Sexually Harassed Activision Blizzard Employee Holds Press Conference To Demand Apologies, Money](https://kotaku.com/sexually-harassed-activision-blizzard-employee-holds-pr-1848180146)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
