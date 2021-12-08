@@ -187,8 +187,8 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- TECH:START -->
  - [Amazon Web Services was having problems, so the Internet did too](https://appleinsider.com/articles/21/12/07/amazon-web-services-is-having-problems-so-the-internet-is-too?utm_medium=rss)
- - [Equinix acquires West African data center company MainOne, which services businesses in more than 10 African countries, for $320M &lpar;Tage Kene-Okafor/TechCrunch&rpar;](http://www.techmeme.com/211207/p50#a211207p50)
- - [Global app purchases up 20% over last year, App Store still beats out Google Play](https://appleinsider.com/articles/21/12/08/global-app-purchases-up-20-over-last-year-app-store-still-beats-out-google-play?utm_medium=rss)<!-- TECH:END -->
+ - [Wide-eyed kid from Popeye&#39;s meme is now a state football champ     - CNET](https://www.cnet.com/news/wide-eyed-kid-from-popeyes-meme-is-now-a-state-football-champ/#ftag=CAD590a51e)
+ - [Equinix acquires West African data center company MainOne, which services businesses in more than 10 African countries, for $320M &lpar;Tage Kene-Okafor/TechCrunch&rpar;](http://www.techmeme.com/211207/p50#a211207p50)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
