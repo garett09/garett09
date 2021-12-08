@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The BIS, an umbrella group for central banks, says DeFi is built on a &quot;decentralization illusion&quot; and should be &quot;properly regulated&quot; to safeguard investors &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/211208/p2#a211208p2)
- - [As Indian IT firm Infosys ramps up hiring of US workers, some are paid to do nothing for an extended period of time while they wait for a project assignment &lpar;Emma Rindlisbacher/The Verge&rpar;](http://www.techmeme.com/211208/p1#a211208p1)
- - [Meta&#39;s head of research says Meta is restructuring its research department, bringing ~50 employees from teams like WhatsApp and Instagram into a central group &lpar;Bloomberg&rpar;](http://www.techmeme.com/211207/p55#a211207p55)<!-- TECH:END -->
+ - [Australian startup Finder, which helps clients invest and save money, raises ~$20M at a $485M valuation led by Future Now Capital &lpar;Bloomberg&rpar;](http://www.techmeme.com/211208/p3#a211208p3)
+ - [Telegram update brings several features that WhatsApp should copy](https://www.androidauthority.com/telegram-december-2021-update-3071953/)
+ - [The BIS, an umbrella group for central banks, says DeFi is built on a &quot;decentralization illusion&quot; and should be &quot;properly regulated&quot; to safeguard investors &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/211208/p2#a211208p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
