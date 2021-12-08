@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The new Bond will be a British man — but the prerequisites stop there, says producer](https://www.polygon.com/22824347/new-bond-cast-british-man-barbara-broccoli)
- - [Rounding up Call of Duty: Warzone Pacific bugs, glitches and their potential solutions](https://www.pcgamer.com/warzone-pacific-bugs-crashing-glitches-fix)
- - [Hilarious Halo Infinite Glitch Turns Warthogs Into Go-Karts](https://kotaku.com/hilarious-halo-infinite-glitch-turns-warthogs-into-go-k-1848181438)<!-- GAME:END -->
+ - [Halo’s best story happened way before Master Chief](https://www.polygon.com/22822480/halo-book-story-forerunners-precursors)
+ - [Destiny 2: How to get Eyasluna and the other Grasp of Avarice weapons](https://www.pcgamer.com/destiny-2-eyasluna-how-to-get-guide)
+ - [Assassin&#39;s Creed Valhalla will require a full re-download with next week&#39;s title update](https://www.pcgamer.com/assassins-creed-valhalla-will-require-a-full-re-download-with-next-weeks-title-update)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
