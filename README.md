@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Australian startup Finder, which helps clients invest and save money, raises ~$20M at a $485M valuation led by Future Now Capital &lpar;Bloomberg&rpar;](http://www.techmeme.com/211208/p3#a211208p3)
- - [Telegram update brings several features that WhatsApp should copy](https://www.androidauthority.com/telegram-december-2021-update-3071953/)
- - [The BIS, an umbrella group for central banks, says DeFi is built on a &quot;decentralization illusion&quot; and should be &quot;properly regulated&quot; to safeguard investors &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/211208/p2#a211208p2)<!-- TECH:END -->
+ - [Kuo: Apple&#39;s first AR headset will go to mass production in late Q4 2022, and Apple is working on a second gen headset with a lighter design for launch in 2024 &lpar;Sami Fathi/MacRumors&rpar;](http://www.techmeme.com/211208/p6#a211208p6)
+ - [Oppo teases retractable rear camera for phones](https://www.theverge.com/2021/12/8/22823689/oppo-retractable-phone-camera-teaser-inno-day-2021)
+ - [A look at Trump Media &amp; Technology Group, which lacks a product, users, publicly identified executives, and revenue, and its merger with DWAC, valued at $1.85B &lpar;Judd Legum/Popular Information&rpar;](http://www.techmeme.com/211208/p5#a211208p5)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
