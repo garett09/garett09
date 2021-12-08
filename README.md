@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I turn 35 next month and this is the first time I&amp;rsquo;ve ever felt independent.](http://9gag.com/gag/abgZeAO)
- - 🚯 [Garbage being dumped directly into the Amazon river in Tingo Maria, Peru...Person that took video &lpar;Martin Hutchinson&rpar; threatened by the Government and forced to flee the country.](http://9gag.com/gag/ang1OYB)
+ - 🚖 [Garbage being dumped directly into the Amazon river in Tingo Maria, Peru...Person that took video &lpar;Martin Hutchinson&rpar; threatened by the Government and forced to flee the country.](http://9gag.com/gag/ang1OYB)
+ - 🚯 [Daryasar, Mazandaran, Iran](http://9gag.com/gag/aeg69oq)
  - 🚯 [9GAG x Game Taster 2021 Game Of The Year Award - Who wins? You decide!](http://9gag.com/gag/aKm3jWj)<!-- MEMES:END -->
 
 --- 
