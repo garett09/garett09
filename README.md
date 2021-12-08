@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Bungie’s making a Nerf Gjallarhorn, here’s how to get it](https://www.polygon.com/22824009/nerf-gjallarhorn-destiny-2-bungie-pre-order)
- - [Hawkeye’s Black Widow assassin was set up in a post-credits scene](https://www.polygon.com/22823969/hawkeye-episode-4-yelena-florence-pugh)
- - [GTA Online update will debut new Dr. Dre music, bring back Franklin](https://www.pcgamer.com/gta-online-update-will-debut-new-dr-dre-music-bring-back-franklin)<!-- GAME:END -->
+ - [Destiny 2 Debuts Gjallarhorn With Powerful New Perk](https://kotaku.com/destiny-2-debuts-gjallarhorn-with-powerful-new-perk-1848179766)
+ - [One Hawkeye spinoff starring Kate Bishop’s cat lady movie star aunt, please](https://www.polygon.com/22824138/hawkeye-moira-brandon-kate-bishop-aunt)
+ - [Polygon draws their own Master Chiefsonas](https://www.polygon.com/22788239/halo-infinite-master-chief-polygon-draws-spartan)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
