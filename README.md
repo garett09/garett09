@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [French financial super app Lydia raises a $100M Series C at a $1B+ valuation &lpar;Romain Dillet/TechCrunch&rpar;](http://www.techmeme.com/211208/p7#a211208p7)
- - [You told us: The Samsung Galaxy S20 FE is still worth buying in 2021](https://www.androidauthority.com/samsung-galaxy-s20-fe-long-term-review-poll-results-3072478/)
- - [Kuo: Apple&#39;s first AR headset will go to mass production in late Q4 2022, and Apple is working on a second gen headset with a lighter design for launch in 2024 &lpar;Sami Fathi/MacRumors&rpar;](http://www.techmeme.com/211208/p6#a211208p6)<!-- TECH:END -->
+ - [Researchers discover cybercrime forums acting as an informal court system on the Dark Web, where criminals can file grievances and settle disputes with peers &lpar;Analyst1&rpar;](http://www.techmeme.com/211208/p8#a211208p8)
+ - [How to find your Spotify username](https://www.androidauthority.com/how-to-find-spotify-username-3071901/)
+ - [French financial super app Lydia raises a $100M Series C at a $1B+ valuation &lpar;Romain Dillet/TechCrunch&rpar;](http://www.techmeme.com/211208/p7#a211208p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
