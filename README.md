@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta&#39;s head of research says Meta is restructuring its research department, bringing ~50 employees from teams like WhatsApp and Instagram into a central group &lpar;Bloomberg&rpar;](http://www.techmeme.com/211207/p55#a211207p55)
- - [Researchers discover 27 vulnerabilities in the Eltima SDK, a library used by numerous cloud providers including AWS to remotely mount a local USB device &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/211207/p54#a211207p54)
- - [Uber is being challenged on multiple fronts in Europe, as European Commission proposals and a UK High Court decision threaten to drive up labor costs &lpar;Financial Times&rpar;](http://www.techmeme.com/211207/p53#a211207p53)<!-- TECH:END -->
+ - [The BIS, an umbrella group for central banks, says DeFi is built on a &quot;decentralization illusion&quot; and should be &quot;properly regulated&quot; to safeguard investors &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/211208/p2#a211208p2)
+ - [As Indian IT firm Infosys ramps up hiring of US workers, some are paid to do nothing for an extended period of time while they wait for a project assignment &lpar;Emma Rindlisbacher/The Verge&rpar;](http://www.techmeme.com/211208/p1#a211208p1)
+ - [Meta&#39;s head of research says Meta is restructuring its research department, bringing ~50 employees from teams like WhatsApp and Instagram into a central group &lpar;Bloomberg&rpar;](http://www.techmeme.com/211207/p55#a211207p55)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
