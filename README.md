@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Parag Agrawal was Jack Dorsey&#39;s only serious candidate to replace him as Twitter CEO and Elliott Management did not demand that Dorsey resign &lpar;Kurt Wagner/Bloomberg&rpar;](http://www.techmeme.com/211207/p48#a211207p48)
- - [Twitter’s new CEO wants the company to move a lot faster](https://www.theverge.com/2021/12/7/22823093/twitter-new-ceo-parag-agrawal-move-faster-interview)
- - [An Amazon server outage caused problems for Alexa, Ring, Disney Plus, and deliveries](https://www.theverge.com/2021/12/7/22822332/amazon-server-aws-down-disney-plus-ring-outage)<!-- TECH:END -->
+ - [Amazon Web Services was having problems, so the Internet did too](https://appleinsider.com/articles/21/12/07/amazon-web-services-is-having-problems-so-the-internet-is-too?utm_medium=rss)
+ - [Equinix acquires West African data center company MainOne, which services businesses in more than 10 African countries, for $320M &lpar;Tage Kene-Okafor/TechCrunch&rpar;](http://www.techmeme.com/211207/p50#a211207p50)
+ - [Global app purchases up 20% over last year, App Store still beats out Google Play](https://appleinsider.com/articles/21/12/08/global-app-purchases-up-20-over-last-year-app-store-still-beats-out-google-play?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
