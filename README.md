@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Halo Infinite won&#39;t let you replay story missions at launch, but the feature is coming](https://www.pcgamer.com/halo-infinite-has-ditched-the-ability-to-replay-story-missions)
- - [AK-47 maker denies accusation that it stole a gun design from a videogame](https://www.pcgamer.com/ak-47-maker-denies-accusation-that-it-stole-a-gun-design-from-a-videogame)
- - [This TikToker reloads mundane household objects like they’re FPS weapons](https://www.polygon.com/22821278/kommanderkarl-tiktok-reloading-things-video-game-series)<!-- GAME:END -->
+ - [Farming Simulator 22 review](https://www.pcgamer.com/farming-simulator-22-review)
+ - [Here&#39;s when Ricochet Anti-Cheat is coming to Call of Duty: Warzone](https://www.pcgamer.com/cod-warzone-ricochet-release-time-anti-cheat)
+ - [Halo Infinite won&#39;t let you replay story missions at launch, but the feature is coming](https://www.pcgamer.com/halo-infinite-has-ditched-the-ability-to-replay-story-missions)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
