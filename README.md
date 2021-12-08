@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Economics in a nutshell.](http://9gag.com/gag/a814DBO)
- - 🚯 [IT support is hard](http://9gag.com/gag/aWgMv84)
+ - 🚖 [Kiddo packed inside Inuit mom&amp;#039;s coat](http://9gag.com/gag/adgXxRQ)
+ - 🚯 [How funny is that?](http://9gag.com/gag/a11XVEb)
  - 🚯 [Time to get fitness guys](http://9gag.com/gag/aWgMvyd)<!-- MEMES:END -->
 
 --- 
