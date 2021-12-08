@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Don&amp;#039;t be an idiot](http://9gag.com/gag/avAn1rZ)
- - 🚯 [Helmut Newton - Winnie of the coast of Cannes 1975 &lpar;colored&rpar;](http://9gag.com/gag/a31jAY3)
- - 🚯 [Really interesting people](http://9gag.com/gag/ay9833p)<!-- MEMES:END -->
+ - 🚖 [Helmut Newton - Winnie of the coast of Cannes 1975 &lpar;colored&rpar;](http://9gag.com/gag/a31jAY3)
+ - 🚯 [This made me laugh](http://9gag.com/gag/abgZ1jE)
+ - 🚯 [The most Canadian thing you&amp;#039;ll see today](http://9gag.com/gag/a31jAwe)<!-- MEMES:END -->
 
 --- 
 
