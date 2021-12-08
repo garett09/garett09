@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to recover deleted files on Mac with 4DDiG Mac Data Recovery Software](https://appleinsider.com/articles/21/12/08/how-to-recover-deleted-files-on-mac-with-4ddig-mac-data-recovery-software?utm_medium=rss)
- - [How to free up iPhone storage without deleting your apps or photographs](https://appleinsider.com/articles/21/12/08/how-to-free-up-iphone-storage-without-deleting-your-apps-or-photographs?utm_medium=rss)
- - [How to keep some of your Twitter data away from advertisers](https://www.theverge.com/22534733/twitter-ads-advertisers-privacy-safety-how-to-data-privacy)<!-- TECH:END -->
+ - [A look at the proliferation of &quot;dark stores&quot;, mini-warehouses in urban retail spaces used by fast grocery delivery companies, and their impact on community life &lpar;Bloomberg&rpar;](http://www.techmeme.com/211208/p26#a211208p26)
+ - [Masahiro Sakurai on the future of Smash: ‘I’ve been doing too much of the work myself’](https://www.theverge.com/22823897/masahiro-sakurai-interview-super-smash-bros-ultimate-nintendo-switch)
+ - [GTA Online’s next big update brings back Franklin and adds Dr. Dre](https://www.theverge.com/2021/12/8/22823997/gta-online-update-story-missions-franklin-dr-dre-music-missions)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
