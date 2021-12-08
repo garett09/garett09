@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Destiny 2 Debuts Gjallarhorn With Powerful New Perk](https://kotaku.com/destiny-2-debuts-gjallarhorn-with-powerful-new-perk-1848179766)
- - [One Hawkeye spinoff starring Kate Bishop’s cat lady movie star aunt, please](https://www.polygon.com/22824138/hawkeye-moira-brandon-kate-bishop-aunt)
- - [Polygon draws their own Master Chiefsonas](https://www.polygon.com/22788239/halo-infinite-master-chief-polygon-draws-spartan)<!-- GAME:END -->
+ - [Halo Infinite Available Now with Xbox Game Pass](https://news.xbox.com/en-us/2021/12/08/halo-infinite-available-now-with-xbox-game-pass/)
+ - [Halo Infinite beginner’s guide, tips, and tricks](https://www.polygon.com/halo-infinite-guide-walkthrough/22809979/beginners-tips-tricks-weapons-scanner-upgrade-grappleshot-explore-fast-travel-fobs)
+ - [27 Things I Wish I Knew Before Starting Halo Infinite’s Campaign](https://kotaku.com/27-things-i-wish-i-knew-before-starting-halo-infinite-s-1848179027)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
