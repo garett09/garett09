@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Halo Infinite Is Harder Than You’d Expect, And That&#39;s By Design](https://kotaku.com/halo-infinite-is-harder-than-you-d-expect-and-thats-by-1848179993)
- - [Assassin’s Creed Valhalla update forces reinstall to save storage space](https://www.polygon.com/22824443/assassins-creed-valhalla-update-storage-space-ubisoft)
- - [Sexually Harassed Activision Blizzard Employee Holds Press Conference To Demand Apologies, Money](https://kotaku.com/sexually-harassed-activision-blizzard-employee-holds-pr-1848180146)<!-- GAME:END -->
+ - [Marvel’s Daredevil crossover is everything event comics should be, but rarely are](https://www.polygon.com/reviews/22824351/daredevil-matt-mudock-devils-reign-marvel)
+ - [Watch this amazing concept video for Ico the devs unearthed for its 20th anniversary](https://www.pcgamer.com/watch-this-amazing-concept-video-for-ico-the-devs-unearthed-for-its-20th-anniversary)
+ - [The VTuber Isn&#39;t The Human, It&#39;s The Talking Cat On Her Shoulder](https://kotaku.com/the-vtuber-isnt-the-human-its-the-talking-cat-on-her-s-1848180234)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
