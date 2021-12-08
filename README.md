@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Uber is being challenged on multiple fronts in Europe, as European Commission proposals and a UK High Court decision threaten to drive up labor costs &lpar;Financial Times&rpar;](http://www.techmeme.com/211207/p53#a211207p53)
- - [Hong Kong-listed shares of Weibo opened down 6% in their trading debut, after the company raised ~$385M in its secondary listing &lpar;Saheli Roy Choudhury/CNBC&rpar;](http://www.techmeme.com/211207/p52#a211207p52)
- - [Elizabeth Holmes smiles on the stand as her trial nears an end](https://www.theverge.com/2021/12/7/22823361/elizabeth-holmes-theranos-fraud-trial-cross-examination)<!-- TECH:END -->
+ - [Meta&#39;s head of research says Meta is restructuring its research department, bringing ~50 employees from teams like WhatsApp and Instagram into a central group &lpar;Bloomberg&rpar;](http://www.techmeme.com/211207/p55#a211207p55)
+ - [Researchers discover 27 vulnerabilities in the Eltima SDK, a library used by numerous cloud providers including AWS to remotely mount a local USB device &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/211207/p54#a211207p54)
+ - [Uber is being challenged on multiple fronts in Europe, as European Commission proposals and a UK High Court decision threaten to drive up labor costs &lpar;Financial Times&rpar;](http://www.techmeme.com/211207/p53#a211207p53)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
