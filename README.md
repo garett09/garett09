@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What a weird cato](http://9gag.com/gag/aqGL6b7)
- - 🚯 [The most Canadian thing you&amp;#039;ll see today](http://9gag.com/gag/a31jAwe)
- - 🚯 [Do you have the same problem guys?](http://9gag.com/gag/aNPWvY3)<!-- MEMES:END -->
+ - 🚖 [Do you have the same problem guys?](http://9gag.com/gag/aNPWvY3)
+ - 🚯 [What a weird cato](http://9gag.com/gag/aqGL6b7)
+ - 🚯 [Ouch&amp;hellip;](http://9gag.com/gag/a61Q9Wm)<!-- MEMES:END -->
 
 --- 
 
