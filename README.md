@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [&lpar;For Southeast Asia&rpar; Virtua Fighter 5 Ultimate Showdown. The Yakuza Series Collaboration pack is finally here!](https://blog.playstation.com/2021/12/08/20211208-vf5us/)
- - [&lpar;For Southeast Asia&rpar; Virtua Fighter 5 Ultimate Showdown. The Yakuza Series Collaboration pack is finally here!](https://blog.playstation.com/2021/12/08/20211208-vf5us/)
- - [AMD&#39;s 4800S desktop kit may deliver a salvaged Xbox or PlayStation chip to PC builders](https://www.pcgamer.com/amds-4800s-desktop-kit-may-deliver-a-salvaged-xbox-or-playstation-chip-to-pc-builders)<!-- GAME:END -->
+ - [Budget graphics cards from Nvidia, AMD, and Intel may finally materialise in 2022](https://www.pcgamer.com/budget-graphics-cards-from-nvidia-amd-and-intel-may-finally-materialise-in-2022)
+ - [Everything we know about Call of Duty: Vanguard and Warzone Pacific Season 1](https://www.pcgamer.com/cod-vanguard-warzone-pacific-season-1-update)
+ - [YouTuber Hit With 150 Copyright Claims For Reviews Featuring Anime Footage](https://kotaku.com/youtuber-hit-with-150-copyright-claims-for-reviews-feat-1848178180)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
