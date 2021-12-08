@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Reddit launches Spotify Wrapped-style annual usage statistics for users, including time spent and popular content; users created 366M posts in 2021, up 19% YoY &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/211208/p17#a211208p17)
  - [Time Machine backups causing issues for some Apple Silicon Mac users](https://appleinsider.com/articles/21/12/08/time-machine-backups-causing-issues-for-some-apple-silicon-mac-users?utm_medium=rss)
- - [Sources: Meta, Snap, and other iOS developers continue to collect anonymized and aggregated data on users for targeted ads, despite Apple&#39;s ATT changes &lpar;Patrick McGee/Financial Times&rpar;](http://www.techmeme.com/211208/p14#a211208p14)
- - [Apple crafting &#39;new application paradigm&#39; for AR and VR experiences](https://appleinsider.com/articles/21/12/08/apple-crafting-new-application-paradigm-for-ar-and-vr-experiences?utm_medium=rss)<!-- TECH:END -->
+ - [Apple planning 2022 iPhone SE upgrade, followed by larger screen in 2023](https://appleinsider.com/articles/21/12/08/minor-2022-iphone-se-upgrade-followed-by-one-with-a-larger-screen-in-2023?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
