@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gaming hardware company NZXT raises $100M led by Francisco Partners, its first outside funding since launching in 2004 &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/211208/p31#a211208p31)
- - [Synthesia, which uses AI to create virtual avatars, raises a $50M Series B led by Kleiner Perkins, bringing its total funding to $66.5M &lpar;Kyle Wiggers/VentureBeat&rpar;](http://www.techmeme.com/211208/p30#a211208p30)
- - [Apple&#39;s privacy rules can&#39;t stop wireless carriers from tracking users](https://appleinsider.com/articles/21/12/08/apples-privacy-rules-cant-stop-carriers-tracking-users?utm_medium=rss)<!-- TECH:END -->
+ - [Support for hotel keys in Apple Wallet being added by Hyatt starting Wednesday](https://appleinsider.com/articles/21/12/08/support-for-hotel-keys-in-apple-wallet-being-added-by-hyatt-starting-wednesday?utm_medium=rss)
+ - [How to encrypt email in Gmail like a secret agent](https://www.androidauthority.com/encrypt-email-gmail-3072797/)
+ - [Poll: What’s your smartphone dealbreaker?](https://www.androidauthority.com/smartphone-dealbreakers-poll-3072605/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
