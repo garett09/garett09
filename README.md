@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Intel and TSMC CEO&#39;s needle each other over US based chipmaking](https://www.pcgamer.com/intel-and-tsmc-ceos-needle-each-other-over-us-based-chipmaking)
  - [Destiny 2: How to unlock the Gjallarhorn exotic rocket launcher and its catalyst](https://www.pcgamer.com/destiny-2-how-to-unlock-the-gjallarhorn-exotic-rocket-launcher-and-its-catalyst)
- - [Star Wars: The Old Republic expansion delayed into next year](https://www.pcgamer.com/star-wars-the-old-republic-expansion-delayed-into-next-year)
- - [Indie Game Says Kalashnikov Stole Their Weapon Design, Turned It Into A Real Shotgun](https://kotaku.com/indie-game-says-kalashnikov-stole-their-shotgun-design-1848176543)<!-- GAME:END -->
+ - [Star Wars: The Old Republic expansion delayed into next year](https://www.pcgamer.com/star-wars-the-old-republic-expansion-delayed-into-next-year)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
