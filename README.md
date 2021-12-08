@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Bowser bashed with a further $10 million fine in Nintendo piracy lawsuit](https://www.pcgamer.com/bowser-bashed-with-a-further-dollar10-million-fine-in-nintendo-piracy-lawsuit)
- - [Stardew Valley briefly broke itself after performance hotfix crashed the game](https://www.pcgamer.com/stardew-valley-briefly-broke-itself-after-performance-hotfix-crashed-the-game)
- - [Nvidia expects RTX 2060 12GB stock to &#39;ramp end of December through January&#39; as retailers remain barren](https://www.pcgamer.com/nvidia-rtx-2060-12gb-stock-availability)<!-- GAME:END -->
+ - [PlayStation Store: November 2021’s top downloads](https://blog.playstation.com/2021/12/08/playstation-store-november-2021s-top-downloads/)
+ - [GTA Online getting new single-player content starring Franklin and Dr. Dre](https://www.polygon.com/22823917/gta-online-dr-dre-single-player-dlc-release-date-contract)
+ - [PlayStation Store: November 2021’s top downloads](https://blog.playstation.com/2021/12/08/playstation-store-november-2021s-top-downloads/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
