@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Lol am first](http://9gag.com/gag/aOQv4p2)
- - 🚯 [Thingy](http://9gag.com/gag/aeg61zm)
- - 🚯 [Their greatest enemy? The sea.](http://9gag.com/gag/adgXONB)<!-- MEMES:END -->
+ - 🚖 [That laugh...](http://9gag.com/gag/aBn1Lv1)
+ - 🚯 [Their greatest enemy? The sea.](http://9gag.com/gag/adgXONB)
+ - 🚯 [Ouch&amp;hellip;](http://9gag.com/gag/a61Q9Wm)<!-- MEMES:END -->
 
 --- 
 
