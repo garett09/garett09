@@ -194,7 +194,7 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Chances are slim but never zero](http://9gag.com/gag/amgz19X)
- - 🚯 [Thingy](http://9gag.com/gag/aeg61zm)
+ - 🚯 [Elephants react to seeing beloved caretaker for first time in over a year &lpar;warning: loud!&rpar;](http://9gag.com/gag/a41j6qA)
  - 🚯 [9GAG x Game Taster 2021 Game Of The Year Award - Who wins? You decide!](http://9gag.com/gag/aKm3jWj)<!-- MEMES:END -->
 
 --- 
