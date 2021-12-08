@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Reddit launches Spotify Wrapped-style annual usage statistics for users, including time spent and popular content; users created 366M posts in 2021, up 19% YoY &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/211208/p17#a211208p17)
- - [Time Machine backups causing issues for some Apple Silicon Mac users](https://appleinsider.com/articles/21/12/08/time-machine-backups-causing-issues-for-some-apple-silicon-mac-users?utm_medium=rss)
- - [Apple planning 2022 iPhone SE upgrade, followed by larger screen in 2023](https://appleinsider.com/articles/21/12/08/minor-2022-iphone-se-upgrade-followed-by-one-with-a-larger-screen-in-2023?utm_medium=rss)<!-- TECH:END -->
+ - [How to recover deleted files on Mac with 4DDiG Mac Data Recovery Software](https://appleinsider.com/articles/21/12/08/how-to-recover-deleted-files-on-mac-with-4ddig-mac-data-recovery-software?utm_medium=rss)
+ - [How to free up iPhone storage without deleting your apps or photographs](https://appleinsider.com/articles/21/12/08/how-to-free-up-iphone-storage-without-deleting-your-apps-or-photographs?utm_medium=rss)
+ - [How to keep some of your Twitter data away from advertisers](https://www.theverge.com/22534733/twitter-ads-advertisers-privacy-safety-how-to-data-privacy)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
