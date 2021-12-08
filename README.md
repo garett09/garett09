@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Daryasar, Mazandaran, Iran](http://9gag.com/gag/aeg69oq)
- - 🚯 [Good](http://9gag.com/gag/aWgM44Z)
+ - 🚖 [In other news: Water is wet and the absence of light causes darkness.](http://9gag.com/gag/aPZWAQK)
+ - 🚯 [Chances are slim but never zero](http://9gag.com/gag/amgz19X)
  - 🚯 [9GAG x Game Taster 2021 Game Of The Year Award - Who wins? You decide!](http://9gag.com/gag/aKm3jWj)<!-- MEMES:END -->
 
 --- 
