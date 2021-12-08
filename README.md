@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Intel and TSMC CEO&#39;s needle each other over US based chipmaking](https://www.pcgamer.com/intel-and-tsmc-ceos-needle-each-other-over-us-based-chipmaking)
- - [Destiny 2: How to unlock the Gjallarhorn exotic rocket launcher and its catalyst](https://www.pcgamer.com/destiny-2-how-to-unlock-the-gjallarhorn-exotic-rocket-launcher-and-its-catalyst)
- - [Star Wars: The Old Republic expansion delayed into next year](https://www.pcgamer.com/star-wars-the-old-republic-expansion-delayed-into-next-year)<!-- GAME:END -->
+ - [&lpar;For Southeast Asia&rpar; Virtua Fighter 5 Ultimate Showdown. The Yakuza Series Collaboration pack is finally here!](https://blog.playstation.com/2021/12/08/20211208-vf5us/)
+ - [&lpar;For Southeast Asia&rpar; Virtua Fighter 5 Ultimate Showdown. The Yakuza Series Collaboration pack is finally here!](https://blog.playstation.com/2021/12/08/20211208-vf5us/)
+ - [AMD&#39;s 4800S desktop kit may deliver a salvaged Xbox or PlayStation chip to PC builders](https://www.pcgamer.com/amds-4800s-desktop-kit-may-deliver-a-salvaged-xbox-or-playstation-chip-to-pc-builders)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
