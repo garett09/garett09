@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Last of Us HBO Show Casts Perfect Grump Bill With Grump Nick Offerman](https://kotaku.com/last-of-us-hbo-show-casts-perfect-grump-bill-with-grump-1848175919)
- - [Garfield&#39;s Gonna Kick Monday&#39;s Ass In The Nickelodeon Fighting Game](https://kotaku.com/garfields-gonna-kick-mondays-ass-in-the-nickelodeon-fig-1848176086)
- - [Ubisoft First Major Pub To Befoul Own Game With NFTs](https://kotaku.com/ubisoft-first-major-pub-to-befoul-own-game-with-nfts-1848176813)<!-- GAME:END -->
+ - [Indie Game Says Kalashnikov Stole Their Shotgun Design, Turned It Into A Real Gun](https://kotaku.com/indie-game-says-kalashnikov-stole-their-shotgun-design-1848176543)
+ - [&lpar;For Southeast Asia&rpar; Uncharted: Legacy of Thieves Collection – Details on the remastered bundle](https://blog.playstation.com/2021/12/07/20211207-uncharted/)
+ - [Attack on Titan Director&#39;s Netflix Anime Looks Like A Post-Apocalyptic Mirror&#39;s Edge](https://kotaku.com/attack-on-titan-directors-netflix-anime-looks-like-a-po-1848174733)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
