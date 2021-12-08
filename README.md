@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [NASA looks into unusual Mars helicopter communications hiccup during flight     - CNET](https://www.cnet.com/news/nasa-looks-into-unusual-mars-helicopter-communications-hiccup-during-flight/#ftag=CAD590a51e)
- - [BrightDrop opens its first dealership near Los Angeles     - Roadshow](https://www.cnet.com/roadshow/news/brightdrop-opens-first-dealership-los-angeles/#ftag=CAD590a51e)
- - [Better.com CEO Vishal Garg apologizes for how he handled firing ~900 employees, ~9% of staff, over Zoom, as a report says Better.com is delaying its SPAC &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/211208/p38#a211208p38)<!-- TECH:END -->
+ - [UFC 269 Charles Oliveira vs. Dustin Poirier: Start time, how to watch or stream online, full fight card     - CNET](https://www.cnet.com/news/ufc-269-charles-oliveira-vs-dustin-poirier-start-time-how-to-watch-or-stream-online-full-fight-card/#ftag=CAD590a51e)
+ - [Bill Gates says 2021 was the hardest year of his life     - CNET](https://www.cnet.com/news/bill-gates-says-2021-was-the-hardest-year-of-his-life/#ftag=CAD590a51e)
+ - [Apple debuts new Open Source website, will release projects on GitHub](https://appleinsider.com/articles/21/12/08/apple-debuts-new-open-source-website-will-release-projects-on-github?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
