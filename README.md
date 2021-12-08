@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon Web Services was having problems, so the Internet did too](https://appleinsider.com/articles/21/12/07/amazon-web-services-is-having-problems-so-the-internet-is-too?utm_medium=rss)
- - [Wide-eyed kid from Popeye&#39;s meme is now a state football champ     - CNET](https://www.cnet.com/news/wide-eyed-kid-from-popeyes-meme-is-now-a-state-football-champ/#ftag=CAD590a51e)
- - [Equinix acquires West African data center company MainOne, which services businesses in more than 10 African countries, for $320M &lpar;Tage Kene-Okafor/TechCrunch&rpar;](http://www.techmeme.com/211207/p50#a211207p50)<!-- TECH:END -->
+ - [Elizabeth Holmes smiles on the stand as her trial nears an end](https://www.theverge.com/2021/12/7/22823361/elizabeth-holmes-theranos-fraud-trial-cross-examination)
+ - [Twitter is testing a new process for reporting harmful tweets that lets US users describe what happened, and will use this data to improve its responses &lpar;Taylor Hatmaker/TechCrunch&rpar;](http://www.techmeme.com/211207/p51#a211207p51)
+ - [Halo Infinite: 10 things to know before starting     - CNET](https://www.cnet.com/tech/gaming/halo-infinite-10-things-to-know-before-starting/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
