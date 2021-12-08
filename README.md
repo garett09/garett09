@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I&amp;#039;m glad he&amp;#039;s finally been exposed as the fraud he&amp;#039;s always been](http://9gag.com/gag/a91Y8Bm)
- - 🚯 [Old meme lol](http://9gag.com/gag/apgL6zE)
- - 🚯 [Never knew that crab could be like this](http://9gag.com/gag/aE8nAgN)<!-- MEMES:END -->
+ - 🚖 [When you try those self defense techniques in real life](http://9gag.com/gag/a814DDV)
+ - 🚯 [But wait, there&amp;rsquo;s more!](http://9gag.com/gag/awzVLz4)
+ - 🚯 [I&amp;#039;m glad he&amp;#039;s finally been exposed as the fraud he&amp;#039;s always been](http://9gag.com/gag/a91Y8Bm)<!-- MEMES:END -->
 
 --- 
 
