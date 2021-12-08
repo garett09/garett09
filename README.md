@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Farming Simulator 22 review](https://www.pcgamer.com/farming-simulator-22-review)
- - [Here&#39;s when Ricochet Anti-Cheat is coming to Call of Duty: Warzone](https://www.pcgamer.com/cod-warzone-ricochet-release-time-anti-cheat)
- - [Halo Infinite won&#39;t let you replay story missions at launch, but the feature is coming](https://www.pcgamer.com/halo-infinite-has-ditched-the-ability-to-replay-story-missions)<!-- GAME:END -->
+ - [Last of Us HBO Show Casts Perfect Grump Bill With Grump Nick Offerman](https://kotaku.com/last-of-us-hbo-show-casts-perfect-grump-bill-with-grump-1848175919)
+ - [Garfield&#39;s Gonna Kick Monday&#39;s Ass In The Nickelodeon Fighting Game](https://kotaku.com/garfields-gonna-kick-mondays-ass-in-the-nickelodeon-fig-1848176086)
+ - [Ubisoft First Major Pub To Befoul Own Game With NFTs](https://kotaku.com/ubisoft-first-major-pub-to-befoul-own-game-with-nfts-1848176813)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
