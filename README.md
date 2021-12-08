@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Easol, which offers event management tools, raises a $25M Series A led by Tiger Global &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/211208/p11#a211208p11)
- - [FAA outlines flight restrictions, including restricting bad weather automated landing systems, to avoid interference with the C-band 5G spectrum from January 5 &lpar;Andrew Tangel/Wall Street Journal&rpar;](http://www.techmeme.com/211208/p10#a211208p10)
- - [How Snap is sidestepping the metaverse](https://www.theverge.com/2021/12/8/22823248/how-snap-is-sidestepping-the-metaverse)<!-- TECH:END -->
+ - [Time Machine backups causing issues for some Apple Silicon Mac users](https://appleinsider.com/articles/21/12/08/time-machine-backups-causing-issues-for-some-apple-silicon-mac-users?utm_medium=rss)
+ - [Sources: Meta, Snap, and other iOS developers continue to collect anonymized and aggregated data on users for targeted ads, despite Apple&#39;s ATT changes &lpar;Patrick McGee/Financial Times&rpar;](http://www.techmeme.com/211208/p14#a211208p14)
+ - [Apple crafting &#39;new application paradigm&#39; for AR and VR experiences](https://appleinsider.com/articles/21/12/08/apple-crafting-new-application-paradigm-for-ar-and-vr-experiences?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
