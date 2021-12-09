@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [At a congressional hearing with six crypto executives, committee members voiced concern about stablecoins and exchanges but showed a warming reception to crypto &lpar;Kollen Post/The Block&rpar;](http://www.techmeme.com/211208/p46#a211208p46)
- - [Is your cat a psychopath? Take this online test to find out     - CNET](https://www.cnet.com/news/is-your-cat-a-psychopath-use-this-test-to-find-out/#ftag=CAD590a51e)
- - [Best adjustable mattress in 2021     - CNET](https://www.cnet.com/health/sleep/best-adjustable-mattress/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [DeepMind claims its AI called RETRO matches the performance of neural networks 25 times its size, cutting the time and cost of training large language models &lpar;Will Douglas Heaven/MIT Technology Review&rpar;](http://www.techmeme.com/211208/p48#a211208p48)
+ - [How to not fall for gift card scams](https://appleinsider.com/articles/21/12/09/how-to-not-fall-for-gift-card-scams?utm_medium=rss)
+ - [HashiCorp raises $1.2B in its IPO after pricing shares at $80 each, up from a marketed range of $68 to $72, giving it a valuation of $14B &lpar;Crystal Tse/Bloomberg&rpar;](http://www.techmeme.com/211208/p47#a211208p47)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
