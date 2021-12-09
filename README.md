@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon says it will shut down Alexa.com, its global website ranking system, on May 1, 2022, after 25 years of operation &lpar;Mayank Parmar/BleepingComputer&rpar;](http://www.techmeme.com/211209/p1#a211209p1)
  - [DeepMind claims its AI called RETRO matches the performance of neural networks 25 times its size, cutting the time and cost of training large language models &lpar;Will Douglas Heaven/MIT Technology Review&rpar;](http://www.techmeme.com/211208/p48#a211208p48)
- - [How to not fall for gift card scams](https://appleinsider.com/articles/21/12/09/how-to-not-fall-for-gift-card-scams?utm_medium=rss)
- - [HashiCorp raises $1.2B in its IPO after pricing shares at $80 each, up from a marketed range of $68 to $72, giving it a valuation of $14B &lpar;Crystal Tse/Bloomberg&rpar;](http://www.techmeme.com/211208/p47#a211208p47)<!-- TECH:END -->
+ - [How to not fall for gift card scams](https://appleinsider.com/articles/21/12/09/how-to-not-fall-for-gift-card-scams?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
