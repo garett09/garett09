@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Static Electricity Classroom Demonstration](http://9gag.com/gag/aeg67Kj)
- - 🚯 [A stick is a stick](http://9gag.com/gag/a0ZjEzd)
- - 🚯 [Most evil thing I can imagine](http://9gag.com/gag/aeg62Vm)<!-- MEMES:END -->
+ - 🚖 [Pilot claims to see fleet of UFOs over the pacific](http://9gag.com/gag/aXrw2YD)
+ - 🚯 [I drew manga art in engraving style, damn it was tiring](http://9gag.com/gag/a51rj4V)
+ - 🚯 [Magic Glasses](http://9gag.com/gag/adgXoXD)<!-- MEMES:END -->
 
 --- 
 
