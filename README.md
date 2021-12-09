@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Kiddo packed inside Inuit mom&amp;#039;s coat](http://9gag.com/gag/adgXxRQ)
- - 🚯 [How funny is that?](http://9gag.com/gag/a11XVEb)
+ - 🚖 [I can relate](http://9gag.com/gag/ay98Wvy)
+ - 🚯 [Kiddo packed inside Inuit mom&amp;#039;s coat](http://9gag.com/gag/adgXxRQ)
  - 🚯 [Time to get fitness guys](http://9gag.com/gag/aWgMvyd)<!-- MEMES:END -->
 
 --- 
