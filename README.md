@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Scotland&amp;rsquo;s baby box. Free essentials for every newborn to give them the best start.](http://9gag.com/gag/aZrpjN0)
- - 🚯 [Get in shape for summer, starting now.](http://9gag.com/gag/ay98RPY)
- - 🚯 [Always](http://9gag.com/gag/aWgMoE6)<!-- MEMES:END -->
+ - 🚖 [I&amp;rsquo;ve got enough Amazon boxes to build a small fort&amp;hellip; and I will](http://9gag.com/gag/aAGP2AZ)
+ - 🚯 [Pilot claims to see fleet of UFOs over the pacific](http://9gag.com/gag/aXrw2YD)
+ - 🚯 [*SNU SNU INTENSIFIES*](http://9gag.com/gag/aogp8VA)<!-- MEMES:END -->
 
 --- 
 
