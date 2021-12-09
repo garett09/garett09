@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Scuf Gaming&#39;s new controllers could be a great alternative to the PlayStation 5 DualSense for PC](https://www.pcgamer.com/scuf-gamings-pricey-new-controllers-could-be-a-great-alternative-to-the-playstation-5-dualsense-for-pc)
- - [TMSC&#39;s 3nm chip process may have been delayed longer than expected, giving Intel a rare chance to catch up](https://www.pcgamer.com/tmscs-3nm-chip-process-may-have-been-delayed-longer-than-expected-giving-intel-a-rare-chance-to-catch-up)
- - [GTA III&#39;s Definitive Edition is a reminder that great driving games are about chases, not races](https://www.pcgamer.com/gta-3-vigilante)<!-- GAME:END -->
+ - [Halo Infinite ending and post-credits scene explained](https://www.pcgamer.com/halo-infinite-ending-post-credit-scene)
+ - [The Hello Kitty Gaming Chair Was Bound To Happen](https://kotaku.com/the-hello-kitty-gaming-chair-was-bound-to-happen-1848184311)
+ - [PC Gamer UK January issue: It&#39;s STALKER 2 time, baby!](https://www.pcgamer.com/pc-gamer-uk-january-issue-its-stalker-2-time-baby)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
