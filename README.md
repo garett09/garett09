@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [ViacomCBS announces partnership with Wattpad to adapt originals](https://www.theverge.com/2021/12/8/22825153/wattpad-webtoon-originals-paramount-plus-viacomcbs)
- - [Robin Healthcare, which offers an AI-powered smart speaker to record patients&#39; talks with providers and help with administrative tasks, raises a $50M Series B &lpar;Rebecca Torrence/FierceHealthcare&rpar;](http://www.techmeme.com/211208/p43#a211208p43)
- - [Kickstarter says it’s switching to crowdfunding via the blockchain](https://www.theverge.com/2021/12/8/22825086/kickstarter-crowdfunding-blockchain-open-source-protocol-cleo)<!-- TECH:END -->
+ - [Google confirms a bug preventing some Android users from calling 911 if Microsoft Teams is installed but they are not logged in, says a permanent fix is coming &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/211208/p45#a211208p45)
+ - [Adobe agrees to acquire ContentCal, which helps creators automate social media publishing and reporting tasks, sources say for more than $100M in cash &lpar;Ivan Levingston/Bloomberg&rpar;](http://www.techmeme.com/211208/p44#a211208p44)
+ - [Three more &#39;Apple Car&#39; engineers leave for aviation startups](https://appleinsider.com/articles/21/12/09/three-more-apple-car-engineers-leave-for-aviation-startups?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
