@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Checkmate, N&amp;hellip;](http://9gag.com/gag/abgZBNB)
- - 🚯 [Normandy beach before D-Day&lpar;circa 1944&rpar;](http://9gag.com/gag/aE8nXDG)
+ - 🚖 [I drew manga art in engraving style, damn it was tiring](http://9gag.com/gag/a51rj4V)
+ - 🚯 [No pain no gain](http://9gag.com/gag/aLv9X6P)
  - 🚯 [A stick is a stick](http://9gag.com/gag/a0ZjEzd)<!-- MEMES:END -->
 
 --- 
