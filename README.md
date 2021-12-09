@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Secrets to Success in Halo Infinite’s Vast World](https://news.xbox.com/en-us/2021/12/09/secrets-to-success-in-halo-infinite-vast-world/)
- - [The best STG44 loadouts for Warzone](https://www.pcgamer.com/best-stg44-warzone-loadout)
- - [AMD&#39;s gaming laptop GPUs could be in for an overhaul on TSMC&#39;s 6nm process](https://www.pcgamer.com/amds-gaming-laptop-gpus-could-be-in-for-an-overhaul-on-tsmcs-6nm-process)<!-- GAME:END -->
+ - [Cobra Kai season 4 trailer sets up a clash of styles](https://www.polygon.com/22826060/cobra-kai-season-4-trailer-release-dates-netflix)
+ - [Free Play Days – Chivalry 2, Trailmakers, and Black Desert](https://news.xbox.com/en-us/2021/12/09/free-play-days-chivalry-2-trailmakers-and-black-desert/)
+ - [NES and SNES creator Masayuki Uemura dies at 78](https://www.polygon.com/22825994/nes-snes-famicom-creator-masayuki-uemura-death)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
