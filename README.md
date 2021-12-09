@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The Intouchables - Beautiful music for a wholesome ending](http://9gag.com/gag/aqGLDdj)
- - 🚯 [Arigato gozaimasu](http://9gag.com/gag/aWgMR4K)
- - 🚯 [Why tho ..](http://9gag.com/gag/abgZQ9O)<!-- MEMES:END -->
+ - 🚖 [If you don&amp;rsquo;t get up and create a queue in aisle immediately after aircraft is landed, it may fly back where you came from](http://9gag.com/gag/a215L3O)
+ - 🚯 [There you go](http://9gag.com/gag/ang1V5B)
+ - 🚯 [The Intouchables - Beautiful music for a wholesome ending](http://9gag.com/gag/aqGLDdj)<!-- MEMES:END -->
 
 --- 
 
