@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [MagSafe Charger firmware update now available](https://appleinsider.com/articles/21/12/09/magsafe-charger-firmware-update-now-available?utm_medium=rss)
- - [Cher Scarlett, a leader of #AppleToo, says she is no longer withdrawing her NLRB complaint against Apple after it failed to execute a settlement in good faith &lpar;Angel Au-Yeung/Forbes&rpar;](http://www.techmeme.com/211209/p33#a211209p33)
- - [Ford stops taking reservations for the F-150 Lightning](https://www.theverge.com/2021/12/9/22826469/ford-f150-lightning-ev-deposits-reservations-closed)<!-- TECH:END -->
+ - [Coinbase launches a DeFi yield product for non-US customers in over 70 countries, after US regulators effectively killed its Lend program plans in September &lpar;Bloomberg&rpar;](http://www.techmeme.com/211209/p35#a211209p35)
+ - [Best Buy pulls TCL Google TVs amid complaints of slow, buggy software](https://www.theverge.com/2021/12/9/22826619/tcl-6-5-series-google-tv-best-buy-removal-os-bugs-slow)
+ - [Former Apple employee says she won’t withdraw her labor board complaint](https://www.theverge.com/2021/12/9/22826620/apple-labor-cher-scarlett-settlement-nlrb-complaint)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
