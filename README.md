@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple could hit $3T market cap in 2022 on iPhone, AR glasses, analyst says](https://appleinsider.com/articles/21/12/09/apple-could-hit-3t-market-cap-in-2022-on-iphone-ar-glasses-analyst-says?utm_medium=rss)
- - [Best deals Dec. 9: discounted AirPods, $100 off Samsung 4K TV, $85 1TB external SSD, more!](https://appleinsider.com/articles/21/12/09/best-deals-dec-9-discounted-airpods-100-off-samsung-4k-tv-85-1tb-external-ssd-more?utm_medium=rss)
- - [iPhones will be able to give owners a detailed history of what parts were replaced](https://www.theverge.com/2021/12/9/22824733/apple-iphone-part-service-history-ios-15-2)<!-- TECH:END -->
+ - [SellerX, which buys and grows businesses on Amazon&#39;s marketplace, raises $500M in debt and equity at a $1B valuation, bringing its total funding to $750M &lpar;Ivan Levingston/Bloomberg&rpar;](http://www.techmeme.com/211209/p24#a211209p24)
+ - [The best Chromebook for 2021](https://www.theverge.com/21296102/best-chromebooks)
+ - [Apple&#39;s 2022 iPhone 14 Pro predicted to have hole-punch display](https://appleinsider.com/articles/21/12/09/apples-2022-iphone-14-pro-predicted-to-have-hole-punch-display?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
