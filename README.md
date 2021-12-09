@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox and the LA Clippers Tip Off with the Xbox High Five Program](https://news.xbox.com/en-us/2021/12/09/xbox-and-la-clippers-tip-off-with-the-xbox-high-five/)
- - [Login Hassles Aside, Final Fantasy XIV: Endwalker Is Off To A Fantastic Start](https://kotaku.com/login-hassles-aside-final-fantasy-xiv-endwalker-is-of-1848186771)
- - [Gears of War heroes Marcus Fenix and Kait Diaz come to Fortnite today](https://www.polygon.com/fortnite/22826268/gears-of-war-fortnite-marcus-fenix-kait-diaz-skin-items)<!-- GAME:END -->
+ - [The Legion of Doom Invades DC Universe Online](https://news.xbox.com/en-us/2021/12/09/the-legion-of-doom-invades-dc-universe-online/)
+ - [Find Your Next Hunting Adventure in Mississippi Acres Preserve, Out Today for theHunter: Call of the Wild](https://news.xbox.com/en-us/2021/12/09/find-your-next-hunting-adventure-in-mississippi-acres/)
+ - [Halo Infinite&#39;s Campaign Opening Is Awful](https://kotaku.com/halo-infinites-campaign-opening-is-awful-1848187233)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
