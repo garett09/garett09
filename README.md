@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I drew manga art in engraving style, damn it was tiring](http://9gag.com/gag/a51rj4V)
- - 🚯 [No pain no gain](http://9gag.com/gag/aLv9X6P)
- - 🚯 [A stick is a stick](http://9gag.com/gag/a0ZjEzd)<!-- MEMES:END -->
+ - 🚖 [Static Electricity Classroom Demonstration](http://9gag.com/gag/aeg67Kj)
+ - 🚯 [A stick is a stick](http://9gag.com/gag/a0ZjEzd)
+ - 🚯 [Most evil thing I can imagine](http://9gag.com/gag/aeg62Vm)<!-- MEMES:END -->
 
 --- 
 
