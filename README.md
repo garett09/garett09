@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Cobra Kai season 4 trailer sets up a clash of styles](https://www.polygon.com/22826060/cobra-kai-season-4-trailer-release-dates-netflix)
- - [Free Play Days – Chivalry 2, Trailmakers, and Black Desert](https://news.xbox.com/en-us/2021/12/09/free-play-days-chivalry-2-trailmakers-and-black-desert/)
- - [NES and SNES creator Masayuki Uemura dies at 78](https://www.polygon.com/22825994/nes-snes-famicom-creator-masayuki-uemura-death)<!-- GAME:END -->
+ - [Earth’s alien problem is getting worse in this new look at the Invasion finale](https://www.polygon.com/22825955/invasion-episode-10-season-1-finale-preview)
+ - [Celebrate the Season of Xbox with Big Discounts, Special Rewards, and More](https://news.xbox.com/en-us/2021/12/09/celebrate-the-season-of-xbox/)
+ - [$199 off the Razer Iskur voids our main gripe with the snekky gaming chair](https://www.pcgamer.com/dollar199-off-the-razer-iskur-voids-our-main-gripe-with-the-snekky-gaming-chair)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
