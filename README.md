@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [MapmyIndia, which provides mapping data to Apple, Amazon, McDonald&#39;s, and others, aims to raise up to $137M in its IPO; the company has raised $41.3M &lpar;Ganesh Nagarajan/Bloomberg&rpar;](http://www.techmeme.com/211209/p14#a211209p14)
- - [Microsoft is bringing back the weather widget on the Windows 11 taskbar](https://www.theverge.com/2021/12/9/22825760/microsoft-windows-11-weather-widget-taskbar-voice-access-features)
- - [Kuo: Apple&#39;s AR headset will include four sets of 3D sensors to offer hand gesture controls and object detection &lpar;MacRumors&rpar;](http://www.techmeme.com/211209/p13#a211209p13)<!-- TECH:END -->
+ - [The Office Is an Efficiency Trap](https://www.wired.com/story/office-efficiency-trap)
+ - [17 Holiday Gifts for Your Stressed Best Friend](https://www.wired.com/gallery/best-stress-relieving-gifts-2021)
+ - [Who’s Buying and Selling Artfully Folded Ham on Facebook?](https://www.wired.com/story/facebook-marketplace-graze-boxes)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
