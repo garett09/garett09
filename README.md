@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The Intouchables - Beautiful music for a wholesome ending](http://9gag.com/gag/aqGLDdj)
- - 🚯 [A classic](http://9gag.com/gag/a61QGGb)
+ - 🚖 [A classic](http://9gag.com/gag/a61QGGb)
+ - 🚯 [Cosplay costume made primarily with duct tape and foam](http://9gag.com/gag/a215Gg9)
  - 🚯 [A Polish forest officer met a lynx in a hunting pulpit](http://9gag.com/gag/ang1Vgz)<!-- MEMES:END -->
 
 --- 
