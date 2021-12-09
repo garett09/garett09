@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [China orders another 106 smartphone apps, including popular social network Douban and karaoke app Changba, to be removed from app stores, citing data practices &lpar;South China Morning Post&rpar;](http://www.techmeme.com/211209/p27#a211209p27)
- - [Motorola Moto Edge 5G UW &lpar;2021&rpar; review: Pixel envy](https://www.theverge.com/22824763/motorola-moto-edge-5g-uw-2021-review-google-pixel-6-android-mobile-verizon)
- - [Instagram launches Playback so you can relive your favorite Stories from 2021](https://www.theverge.com/2021/12/9/22825888/instagram-playback-end-year-stories-2021)<!-- TECH:END -->
+ - [NASA launches new X-ray mission to study black holes and exploding stars](https://www.theverge.com/2021/12/9/22825940/spacex-nasa-ixpe-telescope-launch-mission-space)
+ - [The Chevy Silverado EV pickup truck will go into production early 2023](https://www.theverge.com/2021/12/9/22826236/chevy-silverado-ev-truck-production-sale-date)
+ - [How to transfer Spotify playlists to Apple Music](https://www.androidauthority.com/transfer-spotify-playlists-apple-music-3073455/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
