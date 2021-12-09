@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ah yes, the million dollars](http://9gag.com/gag/a814wRV)
- - 🚯 [Halo infinite players: Grapple hook goes brrrrrr](http://9gag.com/gag/a91YO2K)
- - 🚯 [*SNU SNU INTENSIFIES*](http://9gag.com/gag/aogp8VA)<!-- MEMES:END -->
+ - 🚖 [Oh shit](http://9gag.com/gag/a51rqBV)
+ - 🚯 [Geralt: Hmmmm](http://9gag.com/gag/aZrpzEp)
+ - 🚯 [When?](http://9gag.com/gag/aXrwKEb)<!-- MEMES:END -->
 
 --- 
 
