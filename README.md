@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Oppo Find N foldable teaser shows a compact Galaxy Z Fold 3 rival](https://www.androidauthority.com/oppo-find-n-3073112/)
- - [According to the Department of Health and Human Services, data breaches in 2021 exposed the health information of 40M+ people in the US, up from 26M in 2020 &lpar;Nicole Wetsman/The Verge&rpar;](http://www.techmeme.com/211209/p4#a211209p4)
- - [Weird Pixel 911 calling bug caused by Microsoft Teams, fix incoming](https://www.androidauthority.com/google-pixel-microsoft-teams-911-calling-bug-3073107/)<!-- TECH:END -->
+ - [Danish startup Pleo, which builds expense management tools for SMBs, raises $200M at a $4.7B valuation led by Coatue Management, bringing its Series C to $350M &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/211209/p7#a211209p7)
+ - [Apple’s AR headset reportedly uses 3D sensors for hand tracking](https://www.theverge.com/2021/12/9/22825675/apple-ar-headset-hand-tracking-controllers-kuo-report)
+ - [A look at the ethical minefield of VCs making personal startup bets ahead of follow-up investments from their VC firms, like at GV, BlackRock, DST, and others &lpar;Bloomberg&rpar;](http://www.techmeme.com/211209/p6#a211209p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
