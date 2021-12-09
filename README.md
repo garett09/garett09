@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Kiddo packed inside Inuit mom&amp;#039;s coat](http://9gag.com/gag/adgXxRQ)
+ - 🚖 [Get in shape for summer, starting now.](http://9gag.com/gag/ay98RPY)
  - 🚯 [Just enjoying to be an adult &lpar;and forgetting the stress for a moment&rpar;](http://9gag.com/gag/aOQvPq2)
- - 🚯 [Cat fishing :D](http://9gag.com/gag/arnNqpV)<!-- MEMES:END -->
+ - 🚯 [Did you make your bed today?](http://9gag.com/gag/aGzDG1w)<!-- MEMES:END -->
 
 --- 
 
