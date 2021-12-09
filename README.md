@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Get in shape for summer, starting now.](http://9gag.com/gag/ay98RPY)
- - 🚯 [Just enjoying to be an adult &lpar;and forgetting the stress for a moment&rpar;](http://9gag.com/gag/aOQvPq2)
- - 🚯 [Did you make your bed today?](http://9gag.com/gag/aGzDG1w)<!-- MEMES:END -->
+ - 🚖 [Just enjoying to be an adult &lpar;and forgetting the stress for a moment&rpar;](http://9gag.com/gag/aOQvPq2)
+ - 🚯 [How funny is that?](http://9gag.com/gag/a11XVEb)
+ - 🚯 [How videos on youtube look like now](http://9gag.com/gag/ajgDZeR)<!-- MEMES:END -->
 
 --- 
 
