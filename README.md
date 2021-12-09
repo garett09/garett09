@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Danish startup Pleo, which builds expense management tools for SMBs, raises $200M at a $4.7B valuation led by Coatue Management, bringing its Series C to $350M &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/211209/p7#a211209p7)
- - [Apple’s AR headset reportedly uses 3D sensors for hand tracking](https://www.theverge.com/2021/12/9/22825675/apple-ar-headset-hand-tracking-controllers-kuo-report)
- - [A look at the ethical minefield of VCs making personal startup bets ahead of follow-up investments from their VC firms, like at GV, BlackRock, DST, and others &lpar;Bloomberg&rpar;](http://www.techmeme.com/211209/p6#a211209p6)<!-- TECH:END -->
+ - [You told us: Your phone’s bootloader isn’t unlocked, or you aren’t sure](https://www.androidauthority.com/phone-bootloader-unlocked-poll-3073109/)
+ - [Best office chairs of 2021     - CNET](https://www.cnet.com/home/kitchen-and-household/best-office-chairs/#ftag=CAD590a51e)
+ - [Danish startup Pleo, which builds expense management tools for SMBs, raises $200M at a $4.7B valuation led by Coatue Management, bringing its Series C to $350M &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/211209/p7#a211209p7)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
