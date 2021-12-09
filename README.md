@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Best external hard drives in 2021](https://www.pcgamer.com/best-external-hard-drives)
- - [Halo Infinite ending and post-credits scene explained](https://www.pcgamer.com/halo-infinite-ending-post-credit-scene)
- - [The Hello Kitty Gaming Chair Was Bound To Happen](https://kotaku.com/the-hello-kitty-gaming-chair-was-bound-to-happen-1848184311)<!-- GAME:END -->
+ - [How to watch The Game Awards 2021](https://www.polygon.com/22825317/game-awards-2021-time-date-how-to-watch-streaming-start)
+ - [How to Add Pizzazz to Your Shots in SnowRunner’s New Photo Mode](https://news.xbox.com/en-us/2021/12/09/snowrunners-new-photo-mode/)
+ - [The extremely specific content creators we discovered this year](https://www.polygon.com/22824473/most-specific-best-content-creators-polygon-follows-tiktok-youtube)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
