@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Just enjoying to be an adult &lpar;and forgetting the stress for a moment&rpar;](http://9gag.com/gag/aOQvPq2)
- - 🚯 [Kiddo packed inside Inuit mom&amp;#039;s coat](http://9gag.com/gag/adgXxRQ)
- - 🚯 [Scotland&amp;rsquo;s baby box. Free essentials for every newborn to give them the best start.](http://9gag.com/gag/aZrpjN0)<!-- MEMES:END -->
+ - 🚖 [Kiddo packed inside Inuit mom&amp;#039;s coat](http://9gag.com/gag/adgXxRQ)
+ - 🚯 [Just enjoying to be an adult &lpar;and forgetting the stress for a moment&rpar;](http://9gag.com/gag/aOQvPq2)
+ - 🚯 [Cat fishing :D](http://9gag.com/gag/arnNqpV)<!-- MEMES:END -->
 
 --- 
 
