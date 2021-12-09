@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to watch The Game Awards 2021](https://www.polygon.com/22825317/game-awards-2021-time-date-how-to-watch-streaming-start)
- - [How to Add Pizzazz to Your Shots in SnowRunner’s New Photo Mode](https://news.xbox.com/en-us/2021/12/09/snowrunners-new-photo-mode/)
- - [The extremely specific content creators we discovered this year](https://www.polygon.com/22824473/most-specific-best-content-creators-polygon-follows-tiktok-youtube)<!-- GAME:END -->
+ - [The Secrets to Success in Halo Infinite’s Vast World](https://news.xbox.com/en-us/2021/12/09/secrets-to-success-in-halo-infinite-vast-world/)
+ - [The best STG44 loadouts for Warzone](https://www.pcgamer.com/best-stg44-warzone-loadout)
+ - [AMD&#39;s gaming laptop GPUs could be in for an overhaul on TSMC&#39;s 6nm process](https://www.pcgamer.com/amds-gaming-laptop-gpus-could-be-in-for-an-overhaul-on-tsmcs-6nm-process)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
