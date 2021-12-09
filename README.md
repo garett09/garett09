@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [One Of The Best Cowboy Games Ever Made Is Now Free On Steam](https://kotaku.com/one-of-the-best-cowboy-games-ever-made-is-now-free-on-s-1848188448)
- - [US government wants to know why the hell Tesla owners can play videogames while driving now](https://www.pcgamer.com/us-government-wants-to-know-why-the-hell-tesla-owners-can-play-videogames-while-driving-now)
- - [Halo Infinite’s Quick Resume can lock you out of cosmetics, warns 343](https://www.polygon.com/22826634/halo-infinite-cosmetics-343-quick-resume-armor-lockers)<!-- GAME:END -->
+ - [It’s a Wonderful Life shouldn’t need Christmas to be considered a classic](https://www.polygon.com/22826177/its-a-wonderful-life-watch-75-anniversary)
+ - [Inside The Revolt That Led To Activision Blizzard Workers&#39; Historic Unionization Push](https://kotaku.com/inside-the-revolt-that-led-to-activision-blizzard-worke-1848189333)
+ - [Dead by Daylight’s seasonal event introduces jolly snowmen](https://www.polygon.com/22826734/dead-by-daylight-bone-chill-event-christmas-2021-details)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
