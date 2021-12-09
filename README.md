@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Destiny brings back Gjallarhorn, immediately Nerfs it](https://www.theverge.com/2021/12/8/22824897/destiny-gjallarhorn-nerf-blaster-hasbro-bungie)
- - [The Bouqs Co. holiday deals: Get more bloom for your buck on flower arrangements     - CNET](https://www.cnet.com/home/the-bouqs-holiday-deals-get-more-bloom-for-your-buck-on-flower-arrangements/#ftag=CAD590a51e)
- - [Gloomhaven savings: Get the Jaws of the Lion expansion adventure for $27     - CNET](https://www.cnet.com/news/score-a-copy-of-gloomhaven-jaws-of-the-lion-for-46-less-today/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [ViacomCBS announces partnership with Wattpad to adapt originals](https://www.theverge.com/2021/12/8/22825153/wattpad-webtoon-originals-paramount-plus-viacomcbs)
+ - [Robin Healthcare, which offers an AI-powered smart speaker to record patients&#39; talks with providers and help with administrative tasks, raises a $50M Series B &lpar;Rebecca Torrence/FierceHealthcare&rpar;](http://www.techmeme.com/211208/p43#a211208p43)
+ - [Kickstarter says it’s switching to crowdfunding via the blockchain](https://www.theverge.com/2021/12/8/22825086/kickstarter-crowdfunding-blockchain-open-source-protocol-cleo)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
