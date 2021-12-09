@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A classic](http://9gag.com/gag/a61QGGb)
- - 🚯 [Cosplay costume made primarily with duct tape and foam](http://9gag.com/gag/a215Gg9)
+ - 🚖 [Cosplay costume made primarily with duct tape and foam](http://9gag.com/gag/a215Gg9)
+ - 🚯 [Sanna Marin prime minister of Finland, in the night club after she contacted with Covid+ member of parliament. All those lockdown measures exist only for ordinary people. P.s. she apologized saying she left her work phone at office and missed the text saying she cant attend pp.](http://9gag.com/gag/aGzD7gX)
  - 🚯 [A Polish forest officer met a lynx in a hunting pulpit](http://9gag.com/gag/ang1Vgz)<!-- MEMES:END -->
 
 --- 
