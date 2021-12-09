@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Pilot claims to see fleet of UFOs over the pacific](http://9gag.com/gag/aXrw2YD)
- - 🚯 [I drew manga art in engraving style, damn it was tiring](http://9gag.com/gag/a51rj4V)
- - 🚯 [Magic Glasses](http://9gag.com/gag/adgXoXD)<!-- MEMES:END -->
+ - 🚖 [Ah yes, the million dollars](http://9gag.com/gag/a814wRV)
+ - 🚯 [Halo infinite players: Grapple hook goes brrrrrr](http://9gag.com/gag/a91YO2K)
+ - 🚯 [*SNU SNU INTENSIFIES*](http://9gag.com/gag/aogp8VA)<!-- MEMES:END -->
 
 --- 
 
