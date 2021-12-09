@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Office Is an Efficiency Trap](https://www.wired.com/story/office-efficiency-trap)
- - [17 Holiday Gifts for Your Stressed Best Friend](https://www.wired.com/gallery/best-stress-relieving-gifts-2021)
- - [Who’s Buying and Selling Artfully Folded Ham on Facebook?](https://www.wired.com/story/facebook-marketplace-graze-boxes)<!-- TECH:END -->
+ - [EU proposals could give millions of gig workers employment rights](https://www.theverge.com/2021/12/9/22825827/european-union-comission-gig-workers-employees-benefits)
+ - [Winning the war on ransomware](https://www.theverge.com/22822884/us-government-department-of-justice-ransomware-digital-extortion-task-force-report-2021)
+ - [Vivaldi 5.0 Makes Web Browsing on Android Tablets Fun Again](https://www.wired.com/story/vivaldi-5-review)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
