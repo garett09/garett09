@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [You told us: Your phone’s bootloader isn’t unlocked, or you aren’t sure](https://www.androidauthority.com/phone-bootloader-unlocked-poll-3073109/)
- - [Best office chairs of 2021     - CNET](https://www.cnet.com/home/kitchen-and-household/best-office-chairs/#ftag=CAD590a51e)
- - [Danish startup Pleo, which builds expense management tools for SMBs, raises $200M at a $4.7B valuation led by Coatue Management, bringing its Series C to $350M &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/211209/p7#a211209p7)<!-- TECH:END -->
+ - [Italy&#39;s competition authority fines Amazon &amp;euro;1.13B for allegedly abusing its market position and harming competitors in e-commerce logistics &lpar;Politico&rpar;](http://www.techmeme.com/211209/p8#a211209p8)
+ - [This New Tech Cuts Through Rock Without Grinding Into It](https://www.wired.com/story/new-tech-cuts-rock-without-grinding-it)
+ - [Oppo teases its first foldable, the Find N](https://www.theverge.com/2021/12/9/22825716/oppo-find-n-foldable-inno-day-2021)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
