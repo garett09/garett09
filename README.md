@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Skyrim&#39;s werewolves were originally just going to be &#39;people with dog heads&#39;](https://www.pcgamer.com/skyrims-werewolves-were-originally-just-going-to-be-people-with-dog-heads)
  - [First look HBO’s Harry Potter reunion brings the Golden Trio back to Hogwarts](https://www.polygon.com/22824906/harry-potter-reunion-special-cast-photo-emma-watson-daniel-radcliffe)
- - [Discord Server Gets Over 1,000,000 Members For The First Time Ever](https://kotaku.com/discord-server-gets-over-1-000-000-members-for-the-firs-1848182911)
- - [What happened to all the color in Call of Duty: Warzone&#39;s Pacific map?](https://www.pcgamer.com/what-happened-to-all-the-color-in-call-of-duty-warzones-pacific-map)<!-- GAME:END -->
+ - [Discord Server Gets Over 1,000,000 Members For The First Time Ever](https://kotaku.com/discord-server-gets-over-1-000-000-members-for-the-firs-1848182911)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
