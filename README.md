@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Italy&#39;s competition authority fines Amazon &amp;euro;1.13B for allegedly abusing its market position and harming competitors in e-commerce logistics &lpar;Politico&rpar;](http://www.techmeme.com/211209/p8#a211209p8)
- - [This New Tech Cuts Through Rock Without Grinding Into It](https://www.wired.com/story/new-tech-cuts-rock-without-grinding-it)
- - [Oppo teases its first foldable, the Find N](https://www.theverge.com/2021/12/9/22825716/oppo-find-n-foldable-inno-day-2021)<!-- TECH:END -->
+ - [MapmyIndia, which provides mapping data to Apple, Amazon, McDonald&#39;s, and others, aims to raise up to $137M in its IPO; the company has raised $41.3M &lpar;Ganesh Nagarajan/Bloomberg&rpar;](http://www.techmeme.com/211209/p14#a211209p14)
+ - [Microsoft is bringing back the weather widget on the Windows 11 taskbar](https://www.theverge.com/2021/12/9/22825760/microsoft-windows-11-weather-widget-taskbar-voice-access-features)
+ - [Kuo: Apple&#39;s AR headset will include four sets of 3D sensors to offer hand gesture controls and object detection &lpar;MacRumors&rpar;](http://www.techmeme.com/211209/p13#a211209p13)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
