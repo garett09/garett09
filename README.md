@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Just enjoying to be an adult &lpar;and forgetting the stress for a moment&rpar;](http://9gag.com/gag/aOQvPq2)
- - 🚯 [How funny is that?](http://9gag.com/gag/a11XVEb)
- - 🚯 [How videos on youtube look like now](http://9gag.com/gag/ajgDZeR)<!-- MEMES:END -->
+ - 🚖 [Scotland&amp;rsquo;s baby box. Free essentials for every newborn to give them the best start.](http://9gag.com/gag/aZrpjN0)
+ - 🚯 [Get in shape for summer, starting now.](http://9gag.com/gag/ay98RPY)
+ - 🚯 [Always](http://9gag.com/gag/aWgMoE6)<!-- MEMES:END -->
 
 --- 
 
