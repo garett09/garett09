@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [GTA III&#39;s Definitive Edition is a reminder that great driving games are about chases, not races](https://www.pcgamer.com/gta-3-vigilante)
- - [Skyrim&#39;s werewolves were originally just going to be &#39;people with dog heads&#39;](https://www.pcgamer.com/skyrims-werewolves-were-originally-just-going-to-be-people-with-dog-heads)
- - [First look HBO’s Harry Potter reunion brings the Golden Trio back to Hogwarts](https://www.polygon.com/22824906/harry-potter-reunion-special-cast-photo-emma-watson-daniel-radcliffe)<!-- GAME:END -->
+ - [Scuf Gaming&#39;s new controllers could be a great alternative to the PlayStation 5 DualSense for PC](https://www.pcgamer.com/scuf-gamings-pricey-new-controllers-could-be-a-great-alternative-to-the-playstation-5-dualsense-for-pc)
+ - [TMSC&#39;s 3nm chip process may have been delayed longer than expected, giving Intel a rare chance to catch up](https://www.pcgamer.com/tmscs-3nm-chip-process-may-have-been-delayed-longer-than-expected-giving-intel-a-rare-chance-to-catch-up)
+ - [GTA III&#39;s Definitive Edition is a reminder that great driving games are about chases, not races](https://www.pcgamer.com/gta-3-vigilante)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
