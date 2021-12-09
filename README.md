@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When?](http://9gag.com/gag/aXrwKEb)
- - 🚯 [It do be like that, everytime](http://9gag.com/gag/aXrwK69)
- - 🚯 [Geralt: Hmmmm](http://9gag.com/gag/aZrpzEp)<!-- MEMES:END -->
+ - 🚖 [Magic Glasses](http://9gag.com/gag/adgXoXD)
+ - 🚯 [Trabant quality check](http://9gag.com/gag/axBDY2D)
+ - 🚯 [It do be like that, everytime](http://9gag.com/gag/aXrwK69)<!-- MEMES:END -->
 
 --- 
 
