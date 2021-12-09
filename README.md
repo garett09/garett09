@@ -194,7 +194,7 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [I&amp;rsquo;ve got enough Amazon boxes to build a small fort&amp;hellip; and I will](http://9gag.com/gag/aAGP2AZ)
- - 🚯 [Pilot claims to see fleet of UFOs over the pacific](http://9gag.com/gag/aXrw2YD)
+ - 🚯 [Maybe the one&amp;rsquo;s asking is extrovert too](http://9gag.com/gag/abgZBnB)
  - 🚯 [*SNU SNU INTENSIFIES*](http://9gag.com/gag/aogp8VA)<!-- MEMES:END -->
 
 --- 
