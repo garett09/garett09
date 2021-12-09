@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Halo’s best story happened way before Master Chief](https://www.polygon.com/22822480/halo-book-story-forerunners-precursors)
- - [Destiny 2: How to get Eyasluna and the other Grasp of Avarice weapons](https://www.pcgamer.com/destiny-2-eyasluna-how-to-get-guide)
- - [Assassin&#39;s Creed Valhalla will require a full re-download with next week&#39;s title update](https://www.pcgamer.com/assassins-creed-valhalla-will-require-a-full-re-download-with-next-weeks-title-update)<!-- GAME:END -->
+ - [Sandbox Game Removed From Steam After Allegations Of Code Theft](https://kotaku.com/sandbox-game-removed-from-steam-after-allegations-of-co-1848182536)
+ - [Ubisoft&#39;s NFT Announcement Has Been Intensely Disliked](https://kotaku.com/ubisofts-nft-announcement-has-been-intensely-disliked-1848182203)
+ - [Skyrim&#39;s werewolves were originally just going to be &#39;people with dog heads&#39;](https://www.pcgamer.com/skyrims-werewolves-were-originally-just-going-to-be-people-with-dog-heads)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
