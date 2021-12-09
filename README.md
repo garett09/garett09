@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Earth’s alien problem is getting worse in this new look at the Invasion finale](https://www.polygon.com/22825955/invasion-episode-10-season-1-finale-preview)
- - [Celebrate the Season of Xbox with Big Discounts, Special Rewards, and More](https://news.xbox.com/en-us/2021/12/09/celebrate-the-season-of-xbox/)
- - [$199 off the Razer Iskur voids our main gripe with the snekky gaming chair](https://www.pcgamer.com/dollar199-off-the-razer-iskur-voids-our-main-gripe-with-the-snekky-gaming-chair)<!-- GAME:END -->
+ - [Xbox and the LA Clippers Tip Off with the Xbox High Five Program](https://news.xbox.com/en-us/2021/12/09/xbox-and-la-clippers-tip-off-with-the-xbox-high-five/)
+ - [Login Hassles Aside, Final Fantasy XIV: Endwalker Is Off To A Fantastic Start](https://kotaku.com/login-hassles-aside-final-fantasy-xiv-endwalker-is-of-1848186771)
+ - [Gears of War heroes Marcus Fenix and Kait Diaz come to Fortnite today](https://www.polygon.com/fortnite/22826268/gears-of-war-fortnite-marcus-fenix-kait-diaz-skin-items)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
