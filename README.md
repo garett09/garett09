@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Arigato gozaimasu](http://9gag.com/gag/aWgMR4K)
- - 🚯 [Halo infinite players: Grapple hook goes brrrrrr](http://9gag.com/gag/a91YO2K)
- - 🚯 [I think i came](http://9gag.com/gag/aXrwKgP)<!-- MEMES:END -->
+ - 🚖 [The Intouchables - Beautiful music for a wholesome ending](http://9gag.com/gag/aqGLDdj)
+ - 🚯 [Arigato gozaimasu](http://9gag.com/gag/aWgMR4K)
+ - 🚯 [Why tho ..](http://9gag.com/gag/abgZQ9O)<!-- MEMES:END -->
 
 --- 
 
