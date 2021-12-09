@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to use Gmail without a phone number](https://www.androidauthority.com/gmail-without-phone-number-3072889/)
- - [Tinder makes it easier to see if you vibe with someone’s Spotify taste](https://www.theverge.com/2021/12/9/22824594/tinder-anthem-music-mode-spotify-dating)
- - [Get 12 key Mac apps for $75 in Unclutter&#39;s Black Friday app bundle](https://appleinsider.com/articles/21/11/23/get-12-key-mac-apps-for-75-in-unclutters-black-friday-app-bundle?utm_medium=rss)<!-- TECH:END -->
+ - [Apple could hit $3T market cap in 2022 on iPhone, AR glasses, analyst says](https://appleinsider.com/articles/21/12/09/apple-could-hit-3t-market-cap-in-2022-on-iphone-ar-glasses-analyst-says?utm_medium=rss)
+ - [Best deals Dec. 9: discounted AirPods, $100 off Samsung 4K TV, $85 1TB external SSD, more!](https://appleinsider.com/articles/21/12/09/best-deals-dec-9-discounted-airpods-100-off-samsung-4k-tv-85-1tb-external-ssd-more?utm_medium=rss)
+ - [iPhones will be able to give owners a detailed history of what parts were replaced](https://www.theverge.com/2021/12/9/22824733/apple-iphone-part-service-history-ios-15-2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
