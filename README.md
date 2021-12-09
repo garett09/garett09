@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [SushiSwap CTO Joseph Delong resigns after reports of project infighting and a 50% drop in the token price over the last month &lpar;Andrew Thurman/CoinDesk&rpar;](http://www.techmeme.com/211209/p3#a211209p3)
- - [A look at the impact of data centers in Europe, including high electricity and water usage, as Big Tech gets tax breaks, subsidized energy and agricultural land &lpar;Marietje Schaake/Financial Times&rpar;](http://www.techmeme.com/211209/p2#a211209p2)
- - [Amazon says it will shut down Alexa.com, its global website ranking system, on May 1, 2022, after 25 years of operation &lpar;Mayank Parmar/BleepingComputer&rpar;](http://www.techmeme.com/211209/p1#a211209p1)<!-- TECH:END -->
+ - [Oppo Find N foldable teaser shows a compact Galaxy Z Fold 3 rival](https://www.androidauthority.com/oppo-find-n-3073112/)
+ - [According to the Department of Health and Human Services, data breaches in 2021 exposed the health information of 40M+ people in the US, up from 26M in 2020 &lpar;Nicole Wetsman/The Verge&rpar;](http://www.techmeme.com/211209/p4#a211209p4)
+ - [Weird Pixel 911 calling bug caused by Microsoft Teams, fix incoming](https://www.androidauthority.com/google-pixel-microsoft-teams-911-calling-bug-3073107/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
