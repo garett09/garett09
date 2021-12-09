@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Klobuchar defends bill that would bar Big Tech from preferring their own services](https://appleinsider.com/articles/21/12/09/klobuchar-defends-bill-that-would-bar-big-tech-from-preferring-their-own-services?utm_medium=rss)
- - [Comcast now sells Xfinity Flex users internet cable TV from YouTube](https://www.theverge.com/2021/12/9/22826856/comcast-xfinity-flex-youtube-tv)
- - [Boost introduces unlimited data plan for $25     - CNET](https://www.cnet.com/tech/mobile/boost-introduces-unlimited-data-plan-for-25/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Go read this investigation on the environmental racism of Amazon warehouses](https://www.theverge.com/2021/12/9/22826615/investigation-environmental-racism-amazon-warehouses)
+ - [Oracle beats in Q2 with revenue of $10.36B, vs. $10.21B expected and up 6% YoY, cloud services and license support revenue of $7.55B, up 6% YoY; stock up 10%+ &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/211209/p40#a211209p40)
+ - [Tim Berners-Lee&#39;s Inrupt, which aims to build a platform to give users control of their data, raises a $30M Series A led by Forte Ventures &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/211209/p39#a211209p39)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
