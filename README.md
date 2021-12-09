@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I&amp;rsquo;ve got enough Amazon boxes to build a small fort&amp;hellip; and I will](http://9gag.com/gag/aAGP2AZ)
- - 🚯 [Maybe the one&amp;rsquo;s asking is extrovert too](http://9gag.com/gag/abgZBnB)
- - 🚯 [*SNU SNU INTENSIFIES*](http://9gag.com/gag/aogp8VA)<!-- MEMES:END -->
+ - 🚖 [Checkmate, N&amp;hellip;](http://9gag.com/gag/abgZBNB)
+ - 🚯 [Normandy beach before D-Day&lpar;circa 1944&rpar;](http://9gag.com/gag/aE8nXDG)
+ - 🚯 [A stick is a stick](http://9gag.com/gag/a0ZjEzd)<!-- MEMES:END -->
 
 --- 
 
