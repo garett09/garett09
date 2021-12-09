@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [If you don&amp;rsquo;t get up and create a queue in aisle immediately after aircraft is landed, it may fly back where you came from](http://9gag.com/gag/a215L3O)
- - 🚯 [There you go](http://9gag.com/gag/ang1V5B)
- - 🚯 [The Intouchables - Beautiful music for a wholesome ending](http://9gag.com/gag/aqGLDdj)<!-- MEMES:END -->
+ - 🚖 [The Intouchables - Beautiful music for a wholesome ending](http://9gag.com/gag/aqGLDdj)
+ - 🚯 [$200k+ for an Ape Drawing, seriously?](http://9gag.com/gag/amgzpVv)
+ - 🚯 [A classic](http://9gag.com/gag/a61QGGb)<!-- MEMES:END -->
 
 --- 
 
