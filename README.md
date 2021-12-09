@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Legion of Doom Invades DC Universe Online](https://news.xbox.com/en-us/2021/12/09/the-legion-of-doom-invades-dc-universe-online/)
- - [Find Your Next Hunting Adventure in Mississippi Acres Preserve, Out Today for theHunter: Call of the Wild](https://news.xbox.com/en-us/2021/12/09/find-your-next-hunting-adventure-in-mississippi-acres/)
- - [Halo Infinite&#39;s Campaign Opening Is Awful](https://kotaku.com/halo-infinites-campaign-opening-is-awful-1848187233)<!-- GAME:END -->
+ - [Elite Dangerous players get their first new ground vehicle since 2015](https://www.polygon.com/22826609/elite-dangerous-odyssey-new-srv-scorpion-release-date-price)
+ - [Early Cretaceous Pack Out Now for Jurassic World Evolution 2](https://news.xbox.com/en-us/2021/12/09/early-cretaceous-pack-out-now-jurassic-world-evolution-2/)
+ - [Wytchwood, a Spell-Crafting Adventure Game, is Available Now on Xbox](https://news.xbox.com/en-us/2021/12/09/wytchwood-is-available-now-on-xbox/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
