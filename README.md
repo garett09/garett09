@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google confirms a bug preventing some Android users from calling 911 if Microsoft Teams is installed but they are not logged in, says a permanent fix is coming &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/211208/p45#a211208p45)
- - [Adobe agrees to acquire ContentCal, which helps creators automate social media publishing and reporting tasks, sources say for more than $100M in cash &lpar;Ivan Levingston/Bloomberg&rpar;](http://www.techmeme.com/211208/p44#a211208p44)
- - [Three more &#39;Apple Car&#39; engineers leave for aviation startups](https://appleinsider.com/articles/21/12/09/three-more-apple-car-engineers-leave-for-aviation-startups?utm_medium=rss)<!-- TECH:END -->
+ - [At a congressional hearing with six crypto executives, committee members voiced concern about stablecoins and exchanges but showed a warming reception to crypto &lpar;Kollen Post/The Block&rpar;](http://www.techmeme.com/211208/p46#a211208p46)
+ - [Is your cat a psychopath? Take this online test to find out     - CNET](https://www.cnet.com/news/is-your-cat-a-psychopath-use-this-test-to-find-out/#ftag=CAD590a51e)
+ - [Best adjustable mattress in 2021     - CNET](https://www.cnet.com/health/sleep/best-adjustable-mattress/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
