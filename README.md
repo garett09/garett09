@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [SellerX, which buys and grows businesses on Amazon&#39;s marketplace, raises $500M in debt and equity at a $1B valuation, bringing its total funding to $750M &lpar;Ivan Levingston/Bloomberg&rpar;](http://www.techmeme.com/211209/p24#a211209p24)
- - [The best Chromebook for 2021](https://www.theverge.com/21296102/best-chromebooks)
- - [Apple&#39;s 2022 iPhone 14 Pro predicted to have hole-punch display](https://appleinsider.com/articles/21/12/09/apples-2022-iphone-14-pro-predicted-to-have-hole-punch-display?utm_medium=rss)<!-- TECH:END -->
+ - [China orders another 106 smartphone apps, including popular social network Douban and karaoke app Changba, to be removed from app stores, citing data practices &lpar;South China Morning Post&rpar;](http://www.techmeme.com/211209/p27#a211209p27)
+ - [Motorola Moto Edge 5G UW &lpar;2021&rpar; review: Pixel envy](https://www.theverge.com/22824763/motorola-moto-edge-5g-uw-2021-review-google-pixel-6-android-mobile-verizon)
+ - [Instagram launches Playback so you can relive your favorite Stories from 2021](https://www.theverge.com/2021/12/9/22825888/instagram-playback-end-year-stories-2021)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
