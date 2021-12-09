@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Halo Infinite’s Quick Resume can lock you out of cosmetics, warns 343](https://www.polygon.com/22826634/halo-infinite-cosmetics-343-quick-resume-armor-lockers)
  - [Elite Dangerous players get their first new ground vehicle since 2015](https://www.polygon.com/22826609/elite-dangerous-odyssey-new-srv-scorpion-release-date-price)
- - [Early Cretaceous Pack Out Now for Jurassic World Evolution 2](https://news.xbox.com/en-us/2021/12/09/early-cretaceous-pack-out-now-jurassic-world-evolution-2/)
- - [Wytchwood, a Spell-Crafting Adventure Game, is Available Now on Xbox](https://news.xbox.com/en-us/2021/12/09/wytchwood-is-available-now-on-xbox/)<!-- GAME:END -->
+ - [Early Cretaceous Pack Out Now for Jurassic World Evolution 2](https://news.xbox.com/en-us/2021/12/09/early-cretaceous-pack-out-now-jurassic-world-evolution-2/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
