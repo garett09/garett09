@@ -194,8 +194,8 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [The Intouchables - Beautiful music for a wholesome ending](http://9gag.com/gag/aqGLDdj)
- - 🚯 [$200k+ for an Ape Drawing, seriously?](http://9gag.com/gag/amgzpVv)
- - 🚯 [A classic](http://9gag.com/gag/a61QGGb)<!-- MEMES:END -->
+ - 🚯 [A classic](http://9gag.com/gag/a61QGGb)
+ - 🚯 [A Polish forest officer met a lynx in a hunting pulpit](http://9gag.com/gag/ang1Vgz)<!-- MEMES:END -->
 
 --- 
 
