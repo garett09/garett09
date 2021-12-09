@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Sandbox Game Removed From Steam After Allegations Of Code Theft](https://kotaku.com/sandbox-game-removed-from-steam-after-allegations-of-co-1848182536)
- - [Ubisoft&#39;s NFT Announcement Has Been Intensely Disliked](https://kotaku.com/ubisofts-nft-announcement-has-been-intensely-disliked-1848182203)
- - [Skyrim&#39;s werewolves were originally just going to be &#39;people with dog heads&#39;](https://www.pcgamer.com/skyrims-werewolves-were-originally-just-going-to-be-people-with-dog-heads)<!-- GAME:END -->
+ - [First look HBO’s Harry Potter reunion brings the Golden Trio back to Hogwarts](https://www.polygon.com/22824906/harry-potter-reunion-special-cast-photo-emma-watson-daniel-radcliffe)
+ - [Discord Server Gets Over 1,000,000 Members For The First Time Ever](https://kotaku.com/discord-server-gets-over-1-000-000-members-for-the-firs-1848182911)
+ - [What happened to all the color in Call of Duty: Warzone&#39;s Pacific map?](https://www.pcgamer.com/what-happened-to-all-the-color-in-call-of-duty-warzones-pacific-map)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
