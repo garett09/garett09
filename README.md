@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Magic Glasses](http://9gag.com/gag/adgXoXD)
- - 🚯 [Trabant quality check](http://9gag.com/gag/axBDY2D)
- - 🚯 [It do be like that, everytime](http://9gag.com/gag/aXrwK69)<!-- MEMES:END -->
+ - 🚖 [Arigato gozaimasu](http://9gag.com/gag/aWgMR4K)
+ - 🚯 [Halo infinite players: Grapple hook goes brrrrrr](http://9gag.com/gag/a91YO2K)
+ - 🚯 [I think i came](http://9gag.com/gag/aXrwKgP)<!-- MEMES:END -->
 
 --- 
 
