@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Best external hard drives in 2021](https://www.pcgamer.com/best-external-hard-drives)
  - [Halo Infinite ending and post-credits scene explained](https://www.pcgamer.com/halo-infinite-ending-post-credit-scene)
- - [The Hello Kitty Gaming Chair Was Bound To Happen](https://kotaku.com/the-hello-kitty-gaming-chair-was-bound-to-happen-1848184311)
- - [PC Gamer UK January issue: It&#39;s STALKER 2 time, baby!](https://www.pcgamer.com/pc-gamer-uk-january-issue-its-stalker-2-time-baby)<!-- GAME:END -->
+ - [The Hello Kitty Gaming Chair Was Bound To Happen](https://kotaku.com/the-hello-kitty-gaming-chair-was-bound-to-happen-1848184311)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
