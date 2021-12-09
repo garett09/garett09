@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Coinbase launches a DeFi yield product for non-US customers in over 70 countries, after US regulators effectively killed its Lend program plans in September &lpar;Bloomberg&rpar;](http://www.techmeme.com/211209/p35#a211209p35)
- - [Best Buy pulls TCL Google TVs amid complaints of slow, buggy software](https://www.theverge.com/2021/12/9/22826619/tcl-6-5-series-google-tv-best-buy-removal-os-bugs-slow)
- - [Former Apple employee says she won’t withdraw her labor board complaint](https://www.theverge.com/2021/12/9/22826620/apple-labor-cher-scarlett-settlement-nlrb-complaint)<!-- TECH:END -->
+ - [Klobuchar defends bill that would bar Big Tech from preferring their own services](https://appleinsider.com/articles/21/12/09/klobuchar-defends-bill-that-would-bar-big-tech-from-preferring-their-own-services?utm_medium=rss)
+ - [Comcast now sells Xfinity Flex users internet cable TV from YouTube](https://www.theverge.com/2021/12/9/22826856/comcast-xfinity-flex-youtube-tv)
+ - [Boost introduces unlimited data plan for $25     - CNET](https://www.cnet.com/tech/mobile/boost-introduces-unlimited-data-plan-for-25/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
