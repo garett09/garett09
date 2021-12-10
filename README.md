@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This is what I call a bro](http://9gag.com/gag/aAGPA39)
- - 🚯 [Share your best meme.](http://9gag.com/gag/aYrLB77)
- - 🚯 [Happening right now](http://9gag.com/gag/aWgMe44)<!-- MEMES:END -->
+ - 🚖 [B*tch noone even recognises that i exist.](http://9gag.com/gag/aOQvEDE)
+ - 🚯 [Jack Black feat. James Hetfield](http://9gag.com/gag/abgZDrp)
+ - 🚯 [This is what I call a bro](http://9gag.com/gag/aAGPA39)<!-- MEMES:END -->
 
 --- 
 
