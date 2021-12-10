@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [All the Ways Tech Saved Us This Year](https://www.wired.com/story/gadget-lab-podcast-532)
- - [How I Accidentally Hacked A Peruvian Crime Ring](https://www.wired.com/story/i-accidentally-hacked-a-peruvian-crime-ring)
- - [To See Proteins Change in Quadrillionths of a Second, Use AI](https://www.wired.com/story/to-see-proteins-change-in-quadrillionths-of-a-second-use-ai)<!-- TECH:END -->
+ - [Refinance rates for Dec. 10, 2021: Rates ratchet higher     - CNET](https://www.cnet.com/news/refinance-rates-for-dec-10-2021-rates-ratchet-higher/#ftag=CAD590a51e)
+ - [How to &lpar;hopefully&rpar; restore your Gmail account if you lose access](https://www.theverge.com/22601959/gmail-google-password-restore-blocked-account)
+ - [Here are today&#39;s mortgage rates on Dec. 10, 2021: Rates increased     - CNET](https://www.cnet.com/news/here-are-todays-mortgage-rates-on-dec-10-2021-rates-increased/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
