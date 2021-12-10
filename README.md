@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Back to the Frontline: Introducing Sniper Elite 5](https://news.xbox.com/en-us/2021/12/10/introducing-sniper-elite-5/)
- - [Aluna: Sentinel of the Shards – a Kick Ass Latina Heroine Jumps from the Comics to the Xbox](https://news.xbox.com/en-us/2021/12/10/aluna-sentinel-of-the-shards-a-kick-ass-latina-heroine-jumps-from-the-comics-to-the-xbox/)
- - [Bungie CEO apologizes following in-depth report into sexism and toxicity at the studio](https://www.pcgamer.com/bungie-ceo-apologizes-following-in-depth-report-into-sexism-and-toxicity-at-the-studio)<!-- GAME:END -->
+ - [Bungie Joins Growing List Of Major Studios Who Should Definitely Unionize](https://kotaku.com/bungie-joins-growing-list-of-major-studios-who-should-d-1848197154)
+ - [The Game Awards is becoming the biggest single gaming event of the year](https://www.pcgamer.com/the-game-awards-is-becoming-the-biggest-single-gaming-event-of-the-year)
+ - [Dear Evan Hansen, The Unforgivable, and every new movie you can stream at home this weekend](https://www.polygon.com/2021/12/10/22822972/new-movies-watch-netflix-unforgivable-dear-evan-hansen)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
