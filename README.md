@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hamilton - Oops! &amp;hellip; I Did It Again](http://9gag.com/gag/a0ZjDjQ)
+ - 🚖 [%100](http://9gag.com/gag/aGzDrB0)
  - 🚯 [Some people just don&amp;#039;t get it](http://9gag.com/gag/adgXWLN)
- - 🚯 [898 now, Feel old yet?](http://9gag.com/gag/avAn4Bd)<!-- MEMES:END -->
+ - 🚯 [It seems like @boiko5008 has passed away yesterday after two months from his last post here, even tho we didn&amp;#039;t know you personally but you were and will still be in our thoughts and prayers](http://9gag.com/gag/aQXxDge)<!-- MEMES:END -->
 
 --- 
 
