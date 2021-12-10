@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Berlin-based instant grocery startup Flink raises a $750M Series B led by DoorDash at a $2.85B post-money valuation &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/211210/p3#a211210p3)
- - [Best apps for managing To Do lists on your iPhone and iPad](https://appleinsider.com/articles/21/12/09/best-apps-for-managing-to-do-lists-on-your-iphone-and-ipad?utm_medium=rss)
- - [How Syrian human rights group Mnemonic used AI trained on synthetic data to analyze videos for evidence that &quot;cluster&quot; weapon RBK-250 was used against civilians &lpar;Financial Times&rpar;](http://www.techmeme.com/211210/p2#a211210p2)<!-- TECH:END -->
+ - [Firefox 95 for Mac improves security, reduces power consumption](https://appleinsider.com/articles/21/12/10/firefox-95-for-mac-improves-security-reduces-power-consumption?utm_medium=rss)
+ - [Analysis: English Premier League soccer fans have spent &amp;pound;262M+ on crypto-based fan tokens, often offered by Socios, as critics worry about fans being exploited &lpar;BBC&rpar;](http://www.techmeme.com/211210/p4#a211210p4)
+ - [Taking a ‘Flexible Job’? Beware the Never-Ending Workday](https://www.wired.com/story/asynchronous-job-never-ending-workday)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
