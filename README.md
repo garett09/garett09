@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Game Pass for PC is now PC Game Pass](https://www.polygon.com/22828048/xbox-game-pass-new-name)
- - [There sure was a lot of horror at The Game Awards this year](https://www.polygon.com/22827861/the-game-awards-2021-horror-game-reveals-slitterhead-alan-wake-gollum)
- - [Steven Spielberg’s West Side Story is a radical act of fervent fandom](https://www.polygon.com/reviews/22827455/west-side-story-review-steven-spielberg)<!-- GAME:END -->
+ - [‘Jenshin Impact’ Fans Are Having Fun With Last Night’s Game Awards Mispronunciation](https://kotaku.com/jenshin-impact-fans-are-having-fun-with-last-night-s-1848194838)
+ - [Polygon’s Best of 2021](https://www.polygon.com/22822200/polygons-best-of-2021-video-games-tv-movies-tabletop)
+ - [CrossfireX: Becoming a Legendary Mercenary](https://news.xbox.com/en-us/2021/12/10/crossfirex-becoming-a-legendary-mercenary/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
