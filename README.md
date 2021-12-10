@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [898 now, Feel old yet?](http://9gag.com/gag/avAn4Bd)
- - 🚯 [Lord Of The Jails brought him back](http://9gag.com/gag/arnN9x7)
- - 🚯 [Some whisky](http://9gag.com/gag/ay98Vgb)<!-- MEMES:END -->
+ - 🚖 [Govt](http://9gag.com/gag/axBDQ3b)
+ - 🚯 [Boss isn&amp;rsquo;t gonna be happy with that one](http://9gag.com/gag/aGzD6En)
+ - 🚯 [I guess they know](http://9gag.com/gag/aQXxBKw)<!-- MEMES:END -->
 
 --- 
 
