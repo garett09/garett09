@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The Japanese Internet Reacts To Netflix&#39;s Cowboy Bebop Cancellation](https://kotaku.com/the-japanese-internet-reacts-to-netflixs-cowboy-bebop-c-1848191680)
  - [The Witcher season 2 review: It&#39;s all about dads](https://www.pcgamer.com/the-witcher-season-2-review)
- - [The Matrix Awakens contains 38,146 driveable cars, of which we can drive none](https://www.pcgamer.com/the-matrix-awakens-contains-38146-driveable-cars-of-which-we-can-drive-zero)
- - [It Takes Two wins Game Of The Year at The Game Awards](https://www.pcgamer.com/it-takes-two-wins-game-of-the-year-at-the-game-awards)<!-- GAME:END -->
+ - [The Matrix Awakens contains 38,146 driveable cars, of which we can drive none](https://www.pcgamer.com/the-matrix-awakens-contains-38146-driveable-cars-of-which-we-can-drive-zero)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
