@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [New Star Trek game revealed by former Telltale Games talent](https://www.polygon.com/22826519/star-trek-resurgence-release-date-dramatic-labs-telltale-games)
- - [After a decade of waiting, Warhammer 40,000: Space Marine is getting a sequel](https://www.pcgamer.com/after-a-decade-of-waiting-warhammer-40000-space-marine-is-getting-a-sequel)
- - [Forspoken tapped for May launch date](https://www.polygon.com/22827308/forspoken-release-date-the-game-awards-2021-trailer)<!-- GAME:END -->
+ - [Down the Rabbit Hole with The Matrix Awakens: An Unreal Engine 5 Experience](https://news.xbox.com/en-us/2021/12/09/matrix-awakens-unreal-engine-5-experience/)
+ - [The Matrix Awakens: An Unreal Engine 5 Experience hits PS5 today](https://blog.playstation.com/2021/12/09/the-matrix-awakens-an-unreal-engine-5-experience-hits-ps5-today/)
+ - [It Takes Two Wins Game Of The Year At The 2021 Game Awards](https://kotaku.com/it-takes-two-wins-game-of-the-year-at-the-2021-game-awa-1848067354)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
