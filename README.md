@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Foldable Oppo Find N leaks in full, looks like a smol boi](https://www.androidauthority.com/oppo-find-n-design-3073998/)
- - [Meta launches new tools for creators and says it is testing live chat help for some English-speaking users globally who are locked out of their accounts &lpar;Richard Lawler/The Verge&rpar;](http://www.techmeme.com/211210/p6#a211210p6)
- - [Best midsize cars for 2021     - Roadshow](https://www.cnet.com/roadshow/news/best-midsize-car/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sandisk Professional G-Drive SSD review - Fast enough, secure, and durable](https://appleinsider.com/articles/21/12/10/sandisk-professional-g-drive-ssd-review---fast-enough-secure-and-durable?utm_medium=rss)
+ - [Robust Intelligence, which helps businesses stress test their AI models, raises a $30M Series B led by Tiger Global &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/211210/p7#a211210p7)
+ - [Hawkeye episode 4 recap: Clint and Kate encounter a Marvel movie assassin     - CNET](https://www.cnet.com/news/hawkeye-episode-4-recap-clint-and-kate-encounter-a-marvel-movie-assassin/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
