@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [‘Jenshin Impact’ Fans Are Having Fun With Last Night’s Game Awards Mispronunciation](https://kotaku.com/jenshin-impact-fans-are-having-fun-with-last-night-s-1848194838)
- - [Polygon’s Best of 2021](https://www.polygon.com/22822200/polygons-best-of-2021-video-games-tv-movies-tabletop)
- - [CrossfireX: Becoming a Legendary Mercenary](https://news.xbox.com/en-us/2021/12/10/crossfirex-becoming-a-legendary-mercenary/)<!-- GAME:END -->
+ - [Final Fantasy 7 Remake coming to PC — with $69.99 console game pricing](https://www.polygon.com/22827986/final-fantasy-7-remake-intergrade-pc-release-date-price)
+ - [The Sequel To BotW Started Trending Because It Still Doesn’t Have A Name](https://kotaku.com/the-sequel-to-botw-started-trending-because-it-still-do-1848195157)
+ - [Keanu Reeves Is Super Excited You All Tried To Mod Cyberpunk 2077 To Bone Him](https://kotaku.com/keanu-reeves-is-super-excited-you-all-tried-to-mod-cybe-1848195000)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
