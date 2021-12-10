@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The PC Gamer 2021 Holiday Gift Guide](https://www.pcgamer.com/the-pc-gamer-2021-holiday-gift-guide)
- - [Starfield Steam page appears as Bethesda cranks up the marketing machine](https://www.pcgamer.com/starfield-steam-page-appears-as-bethesda-cranks-up-the-marketing-machine)
- - [New King Of Fighter Character Looks Like Fighter That Vanished Mysteriously](https://kotaku.com/new-king-of-fighter-character-looks-like-fighter-that-v-1848191964)<!-- GAME:END -->
+ - [PUBG: Battlegrounds goes free-to-play January 12](https://blog.playstation.com/2021/12/10/pubg-battlegrounds-goes-free-to-play-january-12/)
+ - [PUBG: Battlegrounds goes free-to-play January 12](https://blog.playstation.com/2021/12/10/pubg-battlegrounds-goes-free-to-play-january-12/)
+ - [Next Week on Xbox: December 13 to 17](https://news.xbox.com/en-us/2021/12/10/next-week-on-xbox-december-13-to-17/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
