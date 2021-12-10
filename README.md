@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Refinance rates for Dec. 10, 2021: Rates ratchet higher     - CNET](https://www.cnet.com/news/refinance-rates-for-dec-10-2021-rates-ratchet-higher/#ftag=CAD590a51e)
- - [How to &lpar;hopefully&rpar; restore your Gmail account if you lose access](https://www.theverge.com/22601959/gmail-google-password-restore-blocked-account)
- - [Here are today&#39;s mortgage rates on Dec. 10, 2021: Rates increased     - CNET](https://www.cnet.com/news/here-are-todays-mortgage-rates-on-dec-10-2021-rates-increased/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Foldable Oppo Find N leaks in full, looks like a smol boi](https://www.androidauthority.com/oppo-find-n-design-3073998/)
+ - [Meta launches new tools for creators and says it is testing live chat help for some English-speaking users globally who are locked out of their accounts &lpar;Richard Lawler/The Verge&rpar;](http://www.techmeme.com/211210/p6#a211210p6)
+ - [Best midsize cars for 2021     - Roadshow](https://www.cnet.com/roadshow/news/best-midsize-car/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
