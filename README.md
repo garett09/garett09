@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Circa 1924: Metropolitan Museum of Art showcases the impressive Mobility of Authentic European Armour](http://9gag.com/gag/aogpG73)
- - 🚯 [Only slavs will understand](http://9gag.com/gag/aDDGLzd)
- - 🚯 [It seems like @boiko5008 has passed away yesterday after two months from his last post here, even tho we didn&amp;#039;t know you personally but you were and will still be in our thoughts and prayers](http://9gag.com/gag/aQXxDge)<!-- MEMES:END -->
+ - 🚖 [It seems like @boiko5008 has passed away yesterday after two months from his last post here, even tho we didn&amp;#039;t know you personally but you were and will still be in our thoughts and prayers](http://9gag.com/gag/aQXxDge)
+ - 🚯 [Share your best meme.](http://9gag.com/gag/aYrLB77)
+ - 🚯 [Circa 1924: Metropolitan Museum of Art showcases the impressive Mobility of Authentic European Armour](http://9gag.com/gag/aogpG73)<!-- MEMES:END -->
 
 --- 
 
