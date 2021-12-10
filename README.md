@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Leaker claims the Galaxy S22 Ultra could have a Note-inspired name instead](https://www.androidauthority.com/samsung-galaxy-s22-ultra-s22-note-3073743/)
  - [The Witcher season 2 gets a little too serious on its quest to answer some big questions](https://www.theverge.com/2021/12/10/22826460/witcher-season-2-review-netflix)
- - [More rumors point to OnePlus Pad coming, India launch window tipped](https://www.androidauthority.com/oneplus-pad-india-3073717/)
- - [Boston-based conversational AI startup Posh Technologies raises a $27.5M Series A led by Canapi Ventures to fuel call center automation &lpar;Kyle Wiggers/VentureBeat&rpar;](http://www.techmeme.com/211210/p1#a211210p1)<!-- TECH:END -->
+ - [More rumors point to OnePlus Pad coming, India launch window tipped](https://www.androidauthority.com/oneplus-pad-india-3073717/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
