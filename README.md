@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix’s live-action Cowboy Bebop is canceled](https://www.theverge.com/2021/12/9/22827010/cowboy-bebop-netflix-live-action-cancel)
- - [The Game Awards: Winners, live updates and new trailers     - CNET](https://www.cnet.com/news/the-game-awards-winners-live-updates-and-new-trailers/#ftag=CAD590a51e)
- - [In a letter, Sen. Warren asks the US DOJ and SEC to investigate whether Meta executives knew the company inflated a key metric measuring an ad&#39;s potential reach &lpar;Cat Zakrzewski/Washington Post&rpar;](http://www.techmeme.com/211209/p41#a211209p41)<!-- TECH:END -->
+ - [Idris Elba failed to make Knuckles not sound sexy in the first Sonic the Hedgehog 2 trailer](https://www.theverge.com/2021/12/9/22826714/sonic-the-hedgehog-2-movie-trailer-the-game-awards)
+ - [Monolith is making a Wonder Woman game](https://www.theverge.com/2021/12/9/22827161/wonder-woman-game-warner-bros-monolith-productions-the-game-awards)
+ - [Best Buy pulls TCL Google TVs amid complaints of slow, buggy software](https://www.theverge.com/2021/12/9/22826619/tcl-6-5-series-google-tv-best-buy-removal-os-bugs-slow)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
