@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I guess they know](http://9gag.com/gag/aQXxBKw)
- - 🚯 [Laugh like a pirate...](http://9gag.com/gag/aVxe4G8)
- - 🚯 [Me an introvert at basically every party](http://9gag.com/gag/ajgDGmG)<!-- MEMES:END -->
+ - 🚖 [Hamilton - Oops! &amp;hellip; I Did It Again](http://9gag.com/gag/a0ZjDjQ)
+ - 🚯 [Some people just don&amp;#039;t get it](http://9gag.com/gag/adgXWLN)
+ - 🚯 [898 now, Feel old yet?](http://9gag.com/gag/avAn4Bd)<!-- MEMES:END -->
 
 --- 
 
