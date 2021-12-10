@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Idris Elba failed to make Knuckles not sound sexy in the first Sonic the Hedgehog 2 trailer](https://www.theverge.com/2021/12/9/22826714/sonic-the-hedgehog-2-movie-trailer-the-game-awards)
- - [Monolith is making a Wonder Woman game](https://www.theverge.com/2021/12/9/22827161/wonder-woman-game-warner-bros-monolith-productions-the-game-awards)
- - [Best Buy pulls TCL Google TVs amid complaints of slow, buggy software](https://www.theverge.com/2021/12/9/22826619/tcl-6-5-series-google-tv-best-buy-removal-os-bugs-slow)<!-- TECH:END -->
+ - [Sonic Frontiers teases an ‘open-zone’ redemption for the franchise’s 3D legacy](https://www.theverge.com/2021/12/9/22826807/sonic-frontiers-game-awards-2021-trailer-gameplay-reveal)
+ - [Cuphead’s years-in-the-making DLC will finally release in June](https://www.theverge.com/2021/12/9/22816788/cuphead-the-delicious-last-course-dlc-ms-chalice-release-date)
+ - [The original PUBG is going free-to-play](https://www.theverge.com/2021/12/9/22821220/pubg-playerunknowns-battlegrounds-free-to-play-release-date)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
