@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Expanse deserved more space to wrap up](https://www.polygon.com/reviews/22826180/expanse-season-6-review)
- - [PUBG: Battlegrounds goes free-to-play January 12](https://blog.playstation.com/2021/12/10/pubg-battlegrounds-goes-free-to-play-january-12/)
- - [PUBG: Battlegrounds goes free-to-play January 12](https://blog.playstation.com/2021/12/10/pubg-battlegrounds-goes-free-to-play-january-12/)<!-- GAME:END -->
+ - [Behold! 15 Albums Of Persona Music In One Gorgeous $400 Box Set](https://kotaku.com/behold-15-albums-of-persona-music-in-one-gorgeous-400-1848193613)
+ - [Five things you’ll dig in Shovel Knight Pocket Dungeon](https://blog.playstation.com/2021/12/10/five-things-youll-dig-in-shovel-knight-pocket-dungeon/)
+ - [Five things you’ll dig in Shovel Knight Pocket Dungeon](https://blog.playstation.com/2021/12/10/five-things-youll-dig-in-shovel-knight-pocket-dungeon/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
