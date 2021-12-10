@@ -194,8 +194,8 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Cosplay costume made primarily with duct tape and foam](http://9gag.com/gag/a215Gg9)
- - 🚯 [Ever wonder what creates traffic? This guy....](http://9gag.com/gag/a91YDwm)
- - 🚯 [KGB defector Yuri Bezmenov explains the true mission of the KGB.](http://9gag.com/gag/aDDGNoB)<!-- MEMES:END -->
+ - 🚯 [Jussie Smollett is definitely trashy](http://9gag.com/gag/aDDGN19)
+ - 🚯 [Let the circumcisions begin!](http://9gag.com/gag/axBD4D2)<!-- MEMES:END -->
 
 --- 
 
