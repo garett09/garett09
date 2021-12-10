@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The Witcher season 2 review: It&#39;s all about dads](https://www.pcgamer.com/the-witcher-season-2-review)
  - [The Matrix Awakens contains 38,146 driveable cars, of which we can drive none](https://www.pcgamer.com/the-matrix-awakens-contains-38146-driveable-cars-of-which-we-can-drive-zero)
- - [It Takes Two wins Game Of The Year at The Game Awards](https://www.pcgamer.com/it-takes-two-wins-game-of-the-year-at-the-game-awards)
- - [Every trailer at The Game Awards 2021](https://www.pcgamer.com/game-awards-trailers-reveals-2021)<!-- GAME:END -->
+ - [It Takes Two wins Game Of The Year at The Game Awards](https://www.pcgamer.com/it-takes-two-wins-game-of-the-year-at-the-game-awards)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
