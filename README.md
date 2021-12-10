@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sandisk Professional G-Drive SSD review - Fast enough, secure, and durable](https://appleinsider.com/articles/21/12/10/sandisk-professional-g-drive-ssd-review---fast-enough-secure-and-durable?utm_medium=rss)
- - [Robust Intelligence, which helps businesses stress test their AI models, raises a $30M Series B led by Tiger Global &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/211210/p7#a211210p7)
- - [Hawkeye episode 4 recap: Clint and Kate encounter a Marvel movie assassin     - CNET](https://www.cnet.com/news/hawkeye-episode-4-recap-clint-and-kate-encounter-a-marvel-movie-assassin/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best deals Dec. 10: $150 2021 Apple TV 4K, $160 Apple Watch Series 3, and more!](https://appleinsider.com/articles/21/12/10/best-deals-dec-10-150-2021-apple-tv-4k-160-apple-watch-series-3-and-more?utm_medium=rss)
+ - [A vulnerability in the Apache log4j Java logging library allows for remote code execution, with Steam, iCloud, Minecraft, and other services affected &lpar;LunaSec Blog&rpar;](http://www.techmeme.com/211210/p8#a211210p8)
+ - [Best apps for reading PDF files on your iPad](https://appleinsider.com/articles/21/12/10/best-apps-for-reading-pdf-files-on-your-ipad?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
