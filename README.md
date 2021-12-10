@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Alan Wake 2 revealed, will be Remedy’s first survival horror game](https://www.polygon.com/22827224/alan-wake-2-release-date-trailer-remedy-entertainment)
- - [Wonder Woman announced at The Game Awards](https://www.polygon.com/22827136/wonder-woman-game-new-dc-warner-bros-the-game-awards)
- - [Idris Elba steals the show as Knuckles in first Sonic the Hedgehog 2 trailer](https://www.polygon.com/22823056/sonic-the-hedgehog-2-trailer-release-date)<!-- GAME:END -->
+ - [League of Legends’ new music is an ambient album based on Diana](https://www.polygon.com/22824756/league-of-legends-sessions-diana-riot-games-music-game-awards)
+ - [Slitterhead is a new horror game by Silent Hill creator Keiichiro Toyama](https://www.pcgamer.com/slitterhead-is-a-new-horror-game-by-silent-hill-creator-keiichiro-toyama)
+ - [Sonic Frontiers sends the hedgehog on a new 3D adventure](https://www.polygon.com/22824831/sonic-frontiers-sega-3d-mainline-game-awards)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
