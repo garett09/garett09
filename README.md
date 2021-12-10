@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [New King Of Fighter Character Looks Like Fighter That Vanished Mysteriously](https://kotaku.com/new-king-of-fighter-character-looks-like-fighter-that-v-1848191964)
- - [The Japanese Internet Reacts To Netflix&#39;s Cowboy Bebop Cancellation](https://kotaku.com/the-japanese-internet-reacts-to-netflixs-cowboy-bebop-c-1848191680)
- - [The Witcher season 2 review: It&#39;s all about dads](https://www.pcgamer.com/the-witcher-season-2-review)<!-- GAME:END -->
+ - [The PC Gamer 2021 Holiday Gift Guide](https://www.pcgamer.com/the-pc-gamer-2021-holiday-gift-guide)
+ - [Starfield Steam page appears as Bethesda cranks up the marketing machine](https://www.pcgamer.com/starfield-steam-page-appears-as-bethesda-cranks-up-the-marketing-machine)
+ - [New King Of Fighter Character Looks Like Fighter That Vanished Mysteriously](https://kotaku.com/new-king-of-fighter-character-looks-like-fighter-that-v-1848191964)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
