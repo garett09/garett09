@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Cosplay costume made primarily with duct tape and foam](http://9gag.com/gag/a215Gg9)
- - 🚯 [Jussie Smollett is definitely trashy](http://9gag.com/gag/aDDGN19)
- - 🚯 [Let the circumcisions begin!](http://9gag.com/gag/axBD4D2)<!-- MEMES:END -->
+ - 🚖 [Jussie Smollett is definitely trashy](http://9gag.com/gag/aDDGN19)
+ - 🚯 [Al Capone is the reason we have expiration dates on milk bottles; After his niece became extremely ill from bad milk, the powerful Chicago gangster lobbied aggressively for expiration dates to be added for the safety of children and pregnant women](http://9gag.com/gag/ay98V48)
+ - 🚯 [Overcooked](http://9gag.com/gag/a814X6V)<!-- MEMES:END -->
 
 --- 
 
