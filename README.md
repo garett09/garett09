@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Discover Dying Light 2 Stay Human CGI Trailer, New Pre-Order Bonus, and Techland’s Special Anniversary Offers](https://news.xbox.com/en-us/2021/12/10/discover-dying-light-2-stay-human-new-trailer/)
- - [Activision Exec To Organizing Workers: Pwease Don’t Unionize 😞🥺](https://kotaku.com/activision-exec-to-organizing-workers-pwease-don-t-uni-1848196177)
- - [&#39;Streaming isn&#39;t work,&#39; says one of the most successful streamers in the world](https://www.pcgamer.com/streaming-isnt-work-says-one-of-the-most-successful-streamers-in-the-world)<!-- GAME:END -->
+ - [Back to the Frontline: Introducing Sniper Elite 5](https://news.xbox.com/en-us/2021/12/10/introducing-sniper-elite-5/)
+ - [Aluna: Sentinel of the Shards – a Kick Ass Latina Heroine Jumps from the Comics to the Xbox](https://news.xbox.com/en-us/2021/12/10/aluna-sentinel-of-the-shards-a-kick-ass-latina-heroine-jumps-from-the-comics-to-the-xbox/)
+ - [Bungie CEO apologizes following in-depth report into sexism and toxicity at the studio](https://www.pcgamer.com/bungie-ceo-apologizes-following-in-depth-report-into-sexism-and-toxicity-at-the-studio)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
