@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The Expanse deserved more space to wrap up](https://www.polygon.com/reviews/22826180/expanse-season-6-review)
  - [PUBG: Battlegrounds goes free-to-play January 12](https://blog.playstation.com/2021/12/10/pubg-battlegrounds-goes-free-to-play-january-12/)
- - [PUBG: Battlegrounds goes free-to-play January 12](https://blog.playstation.com/2021/12/10/pubg-battlegrounds-goes-free-to-play-january-12/)
- - [Next Week on Xbox: December 13 to 17](https://news.xbox.com/en-us/2021/12/10/next-week-on-xbox-december-13-to-17/)<!-- GAME:END -->
+ - [PUBG: Battlegrounds goes free-to-play January 12](https://blog.playstation.com/2021/12/10/pubg-battlegrounds-goes-free-to-play-january-12/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
