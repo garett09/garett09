@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [US journalist asks a Korean native why is he living in Asia and insists he&amp;#039;s trying to evade US regulation](http://9gag.com/gag/arnNDZp)
- - 🚯 [%100](http://9gag.com/gag/aGzDrB0)
- - 🚯 [Some people just don&amp;#039;t get it](http://9gag.com/gag/adgXWLN)<!-- MEMES:END -->
+ - 🚖 [Mia?](http://9gag.com/gag/aDDGqmd)
+ - 🚯 [It&amp;#039;s finally Friday after a week of 50+ hours of work!](http://9gag.com/gag/a91YZe0)
+ - 🚯 [2022 here we come](http://9gag.com/gag/aWgMAQd)<!-- MEMES:END -->
 
 --- 
 
