@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the impact of supercomputers on chess, as world champion Magnus Carlsen, who boasts of being the least influenced by a computer, wins another title &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/211210/p15#a211210p15)
- - [2022 Mercedes-Benz EQS recalled for infotainment issue     - Roadshow](https://www.cnet.com/roadshow/news/2022-mercedes-benz-eqs-recalled-for-infotainment-issue/#ftag=CAD590a51e)
- - [Go read this story explaining in detail the scary Teams bug that blocked a 911 call](https://www.theverge.com/2021/12/10/22828234/microsoft-teams-android-bug-blocked-911-call-go-read-this)<!-- TECH:END -->
+ - [Apple’s concessions in China reportedly include a secret $275 billion deal and one odd change in Maps](https://www.theverge.com/2021/12/10/22826695/apple-china-mou-275-billion-tim-cook-icloud)
+ - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)
+ - [OnePlus pulls buggy OxygenOS 12 update](https://www.theverge.com/2021/12/10/22828553/oneplus-buggy-oxygenos-android-12-update-9-pro)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
