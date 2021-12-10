@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [B*tch noone even recognises that i exist.](http://9gag.com/gag/aOQvEDE)
- - 🚯 [Jack Black feat. James Hetfield](http://9gag.com/gag/abgZDrp)
- - 🚯 [Yeah very funny. Only empty people laugh who do not have any hobbies themselves and spend every free moment in front of the TV with a beer in hand](http://9gag.com/gag/a0ZjGQv)<!-- MEMES:END -->
+ - 🚖 [Jack Black feat. James Hetfield](http://9gag.com/gag/abgZDrp)
+ - 🚯 [Yeah very funny. Only empty people laugh who do not have any hobbies themselves and spend every free moment in front of the TV with a beer in hand](http://9gag.com/gag/a0ZjGQv)
+ - 🚯 [This is what I call a bro](http://9gag.com/gag/aAGPA39)<!-- MEMES:END -->
 
 --- 
 
