@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Lord Of The Jails brought him back](http://9gag.com/gag/arnN9x7)
- - 🚯 [Dog refuses to leave the bed then proceeds to fall asleep while looking after the little one](http://9gag.com/gag/aM49DA1)
- - 🚯 [Being Dutch in Japan](http://9gag.com/gag/aRreyqQ)<!-- MEMES:END -->
+ - 🚖 [898 now, Feel old yet?](http://9gag.com/gag/avAn4Bd)
+ - 🚯 [Lord Of The Jails brought him back](http://9gag.com/gag/arnN9x7)
+ - 🚯 [Some whisky](http://9gag.com/gag/ay98Vgb)<!-- MEMES:END -->
 
 --- 
 
