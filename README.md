@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Snap, Facebook using loopholes to bypass App Tracking Transparency](https://appleinsider.com/articles/21/12/10/snap-facebook-using-loopholes-to-bypass-app-tracking-transparency?utm_medium=rss)
- - [Nintendo will sell you the Switch OLED’s dock with built-in ethernet](https://www.theverge.com/2021/12/10/22828362/nintendo-switch-oled-dock-built-in-ethernet-for-sale-replacement-upgrade)
- - [‘Extremely bad’ vulnerability found in widely used logging system](https://www.theverge.com/2021/12/10/22828303/log4j-library-vulnerability-log4shell-zero-day-exploit)<!-- TECH:END -->
+ - [A look at the impact of supercomputers on chess, as world champion Magnus Carlsen, who boasts of being the least influenced by a computer, wins another title &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/211210/p15#a211210p15)
+ - [2022 Mercedes-Benz EQS recalled for infotainment issue     - Roadshow](https://www.cnet.com/roadshow/news/2022-mercedes-benz-eqs-recalled-for-infotainment-issue/#ftag=CAD590a51e)
+ - [Go read this story explaining in detail the scary Teams bug that blocked a 911 call](https://www.theverge.com/2021/12/10/22828234/microsoft-teams-android-bug-blocked-911-call-go-read-this)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
