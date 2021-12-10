@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Mia?](http://9gag.com/gag/aDDGqmd)
- - 🚯 [It&amp;#039;s finally Friday after a week of 50+ hours of work!](http://9gag.com/gag/a91YZe0)
- - 🚯 [2022 here we come](http://9gag.com/gag/aWgMAQd)<!-- MEMES:END -->
+ - 🚖 [Circa 1924: Metropolitan Museum of Art showcases the impressive Mobility of Authentic European Armour](http://9gag.com/gag/aogpG73)
+ - 🚯 [Only slavs will understand](http://9gag.com/gag/aDDGLzd)
+ - 🚯 [It seems like @boiko5008 has passed away yesterday after two months from his last post here, even tho we didn&amp;#039;t know you personally but you were and will still be in our thoughts and prayers](http://9gag.com/gag/aQXxDge)<!-- MEMES:END -->
 
 --- 
 
