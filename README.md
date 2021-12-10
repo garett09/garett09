@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [It’s a Wonderful Life shouldn’t need Christmas to be considered a classic](https://www.polygon.com/22826177/its-a-wonderful-life-watch-75-anniversary)
- - [Inside The Revolt That Led To Activision Blizzard Workers&#39; Historic Unionization Push](https://kotaku.com/inside-the-revolt-that-led-to-activision-blizzard-worke-1848189333)
- - [Dead by Daylight’s seasonal event introduces jolly snowmen](https://www.polygon.com/22826734/dead-by-daylight-bone-chill-event-christmas-2021-details)<!-- GAME:END -->
+ - [The adorable Zelda-like with a heroic fox, Tunic, launches in March](https://www.polygon.com/22826639/tunic-game-release-date-game-awards)
+ - [The Game Awards 2021: All the news and announcements](https://www.polygon.com/22826335/the-game-awards-2021-news-announcements-stream)
+ - [Watch The Game Awards live here](https://www.polygon.com/22825317/game-awards-2021-time-date-how-to-watch-streaming-start)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
