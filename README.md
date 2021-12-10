@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Final Fantasy 7 Remake coming to PC — with $69.99 console game pricing](https://www.polygon.com/22827986/final-fantasy-7-remake-intergrade-pc-release-date-price)
- - [The Sequel To BotW Started Trending Because It Still Doesn’t Have A Name](https://kotaku.com/the-sequel-to-botw-started-trending-because-it-still-do-1848195157)
- - [Keanu Reeves Is Super Excited You All Tried To Mod Cyberpunk 2077 To Bone Him](https://kotaku.com/keanu-reeves-is-super-excited-you-all-tried-to-mod-cybe-1848195000)<!-- GAME:END -->
+ - [Game Pass Has PC Games – PC Builder Series: Halo Infinite](https://news.xbox.com/en-us/2021/12/10/game-pass-has-pc-games-pc-builder-series-halo-infinite/)
+ - [Kyle Mooney’s Saturday Morning All Star Hits! is a specific nostalgia rush](https://www.polygon.com/22826878/saturday-morning-all-star-hits-netflix-impression)
+ - [Skyrim modders replace boring, basic locks with beautiful and bizarre new ones](https://www.pcgamer.com/skyrim-modders-replace-boring-basic-locks-with-beautiful-and-bizarre-new-ones)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
