@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Go read this investigation on the environmental racism of Amazon warehouses](https://www.theverge.com/2021/12/9/22826615/investigation-environmental-racism-amazon-warehouses)
- - [Oracle beats in Q2 with revenue of $10.36B, vs. $10.21B expected and up 6% YoY, cloud services and license support revenue of $7.55B, up 6% YoY; stock up 10%+ &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/211209/p40#a211209p40)
- - [Tim Berners-Lee&#39;s Inrupt, which aims to build a platform to give users control of their data, raises a $30M Series A led by Forte Ventures &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/211209/p39#a211209p39)<!-- TECH:END -->
+ - [Netflix’s live-action Cowboy Bebop is canceled](https://www.theverge.com/2021/12/9/22827010/cowboy-bebop-netflix-live-action-cancel)
+ - [The Game Awards: Winners, live updates and new trailers     - CNET](https://www.cnet.com/news/the-game-awards-winners-live-updates-and-new-trailers/#ftag=CAD590a51e)
+ - [In a letter, Sen. Warren asks the US DOJ and SEC to investigate whether Meta executives knew the company inflated a key metric measuring an ad&#39;s potential reach &lpar;Cat Zakrzewski/Washington Post&rpar;](http://www.techmeme.com/211209/p41#a211209p41)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
