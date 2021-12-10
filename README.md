@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Down the Rabbit Hole with The Matrix Awakens: An Unreal Engine 5 Experience](https://news.xbox.com/en-us/2021/12/09/matrix-awakens-unreal-engine-5-experience/)
- - [The Matrix Awakens: An Unreal Engine 5 Experience hits PS5 today](https://blog.playstation.com/2021/12/09/the-matrix-awakens-an-unreal-engine-5-experience-hits-ps5-today/)
- - [It Takes Two Wins Game Of The Year At The 2021 Game Awards](https://kotaku.com/it-takes-two-wins-game-of-the-year-at-the-2021-game-awa-1848067354)<!-- GAME:END -->
+ - [Homeworld 3 Shows First Gameplay, Looks Great](https://kotaku.com/homeworld-3-shows-first-gameplay-looks-great-1848191188)
+ - [Dune: Spice Wars Is A New Real-Time PC Game](https://kotaku.com/dune-spice-wars-is-a-new-real-time-pc-game-1848191140)
+ - [New clip for The Matrix Resurrections is twist after twist](https://www.polygon.com/22827137/the-matrix-resurrections-trailer-footage-game-awards)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
