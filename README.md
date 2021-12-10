@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Behold! 15 Albums Of Persona Music In One Gorgeous $400 Box Set](https://kotaku.com/behold-15-albums-of-persona-music-in-one-gorgeous-400-1848193613)
- - [Five things you’ll dig in Shovel Knight Pocket Dungeon](https://blog.playstation.com/2021/12/10/five-things-youll-dig-in-shovel-knight-pocket-dungeon/)
- - [Five things you’ll dig in Shovel Knight Pocket Dungeon](https://blog.playstation.com/2021/12/10/five-things-youll-dig-in-shovel-knight-pocket-dungeon/)<!-- GAME:END -->
+ - [Xbox Game Pass for PC is now PC Game Pass](https://www.polygon.com/22828048/xbox-game-pass-new-name)
+ - [There sure was a lot of horror at The Game Awards this year](https://www.polygon.com/22827861/the-game-awards-2021-horror-game-reveals-slitterhead-alan-wake-gollum)
+ - [Steven Spielberg’s West Side Story is a radical act of fervent fandom](https://www.polygon.com/reviews/22827455/west-side-story-review-steven-spielberg)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
