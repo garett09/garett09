@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Govt](http://9gag.com/gag/axBDQ3b)
- - 🚯 [Boss isn&amp;rsquo;t gonna be happy with that one](http://9gag.com/gag/aGzD6En)
- - 🚯 [I guess they know](http://9gag.com/gag/aQXxBKw)<!-- MEMES:END -->
+ - 🚖 [I guess they know](http://9gag.com/gag/aQXxBKw)
+ - 🚯 [Laugh like a pirate...](http://9gag.com/gag/aVxe4G8)
+ - 🚯 [Me an introvert at basically every party](http://9gag.com/gag/ajgDGmG)<!-- MEMES:END -->
 
 --- 
 
