@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [This is BTS’s Twitter world, and we are living in it](https://www.theverge.com/2021/12/10/22828058/bts-twitter-2021-domination)
- - [TCL pulls its entire Google TV lineup from Best Buy over software and performance issues &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/211210/p12#a211210p12)
- - [A Log4J Vulnerability Has Set the Internet &#39;On Fire&#39;](https://www.wired.com/story/log4j-flaw-hacking-internet)<!-- TECH:END -->
+ - [Snap, Facebook using loopholes to bypass App Tracking Transparency](https://appleinsider.com/articles/21/12/10/snap-facebook-using-loopholes-to-bypass-app-tracking-transparency?utm_medium=rss)
+ - [Nintendo will sell you the Switch OLED’s dock with built-in ethernet](https://www.theverge.com/2021/12/10/22828362/nintendo-switch-oled-dock-built-in-ethernet-for-sale-replacement-upgrade)
+ - [‘Extremely bad’ vulnerability found in widely used logging system](https://www.theverge.com/2021/12/10/22828303/log4j-library-vulnerability-log4shell-zero-day-exploit)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
