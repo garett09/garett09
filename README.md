@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The biggest news and trailers from the 2021 Game Awards](https://www.theverge.com/2021/12/9/22815755/the-game-awards-2021-trailers-news-announcements)
  - [Neo visits his past in new Matrix Resurrections clip](https://www.theverge.com/2021/12/9/22823119/the-matrix-resurrections-trailer-clip-the-game-awards-neo)
- - [Rumbleverse Adds a Melee Twist to the Battle Royale](https://www.wired.com/story/rumbleverse-melee-battle-royale-epic-games)
- - [Keanu Reeves and Carrie-Anne Moss on making The Matrix Awakens with Epic Games](https://www.theverge.com/22825102/keanu-reeves-carrie-anne-moss-interview-matrix-awakens-epic-games)<!-- TECH:END -->
+ - [Rumbleverse Adds a Melee Twist to the Battle Royale](https://www.wired.com/story/rumbleverse-melee-battle-royale-epic-games)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
