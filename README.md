@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [3 things men want for Christmas](http://9gag.com/gag/a0ZjOmd)
- - 🚯 [Cosplay costume made primarily with duct tape and foam](http://9gag.com/gag/a215Gg9)
- - 🚯 [Ever wonder what creates traffic? This guy....](http://9gag.com/gag/a91YDwm)<!-- MEMES:END -->
+ - 🚖 [Cosplay costume made primarily with duct tape and foam](http://9gag.com/gag/a215Gg9)
+ - 🚯 [Ever wonder what creates traffic? This guy....](http://9gag.com/gag/a91YDwm)
+ - 🚯 [KGB defector Yuri Bezmenov explains the true mission of the KGB.](http://9gag.com/gag/aDDGNoB)<!-- MEMES:END -->
 
 --- 
 
