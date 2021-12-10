@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hop is good](http://9gag.com/gag/aDDGMK7)
- - 🚯 [A Polish forest officer met a lynx in a hunting pulpit](http://9gag.com/gag/ang1Vgz)
- - 🚯 [Cosplay costume made primarily with duct tape and foam](http://9gag.com/gag/a215Gg9)<!-- MEMES:END -->
+ - 🚖 [3 things men want for Christmas](http://9gag.com/gag/a0ZjOmd)
+ - 🚯 [Cosplay costume made primarily with duct tape and foam](http://9gag.com/gag/a215Gg9)
+ - 🚯 [This evacuation system can save 800 people from a sinking ship](http://9gag.com/gag/aogpdG0)<!-- MEMES:END -->
 
 --- 
 
