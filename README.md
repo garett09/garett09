@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [NASA astronaut Randy Bresnik during a spacewalk outside the International Space Station.](http://9gag.com/gag/aeg6dZm)
- - 🚯 [Tom and Jerry live action](http://9gag.com/gag/aeg6PBW)
- - 🚯 [This evacuation system can save 800 people from a sinking ship](http://9gag.com/gag/aogpdG0)<!-- MEMES:END -->
+ - 🚖 [Putting up xmas decorations](http://9gag.com/gag/aYrLZjN)
+ - 🚯 [This evacuation system can save 800 people from a sinking ship](http://9gag.com/gag/aogpdG0)
+ - 🚯 [This couldn&amp;rsquo;t be more accurate](http://9gag.com/gag/ay98ZdV)<!-- MEMES:END -->
 
 --- 
 
