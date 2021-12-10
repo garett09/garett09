@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Moderna data shows mRNA isn’t a quick fix for the flu vaccine](https://www.theverge.com/2021/12/10/22828042/moderna-mrna-flu-shot)
- - [Severe flaw in Java library impacts iCloud, Amazon, Steam, and more](https://appleinsider.com/articles/21/12/10/severe-flaw-in-java-library-impacts-icloud-amazon-steam-and-more?utm_medium=rss)
- - [Best Buy&#39;s Flash Sale knocks up to $500 off Macs, OLED TVs, headphones, more](https://appleinsider.com/articles/21/12/10/best-buys-flash-sale-knocks-up-to-500-off-macs-oled-tvs-headphones-more?utm_medium=rss)<!-- TECH:END -->
+ - [This is BTS’s Twitter world, and we are living in it](https://www.theverge.com/2021/12/10/22828058/bts-twitter-2021-domination)
+ - [TCL pulls its entire Google TV lineup from Best Buy over software and performance issues &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/211210/p12#a211210p12)
+ - [A Log4J Vulnerability Has Set the Internet &#39;On Fire&#39;](https://www.wired.com/story/log4j-flaw-hacking-internet)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
