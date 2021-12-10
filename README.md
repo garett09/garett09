@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Homeworld 3 Shows First Gameplay, Looks Great](https://kotaku.com/homeworld-3-shows-first-gameplay-looks-great-1848191188)
- - [Dune: Spice Wars Is A New Real-Time PC Game](https://kotaku.com/dune-spice-wars-is-a-new-real-time-pc-game-1848191140)
- - [New clip for The Matrix Resurrections is twist after twist](https://www.polygon.com/22827137/the-matrix-resurrections-trailer-footage-game-awards)<!-- GAME:END -->
+ - [The Matrix Awakens contains 38,146 driveable cars, of which we can drive none](https://www.pcgamer.com/the-matrix-awakens-contains-38146-driveable-cars-of-which-we-can-drive-zero)
+ - [It Takes Two wins Game Of The Year at The Game Awards](https://www.pcgamer.com/it-takes-two-wins-game-of-the-year-at-the-game-awards)
+ - [Every trailer at The Game Awards 2021](https://www.pcgamer.com/game-awards-trailers-reveals-2021)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
