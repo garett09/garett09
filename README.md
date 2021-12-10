@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [%100](http://9gag.com/gag/aGzDrB0)
- - 🚯 [Beeing an apprentice requests to know whats a real task and whats a joke](http://9gag.com/gag/aGzDrjw)
- - 🚯 [It seems like @boiko5008 has passed away yesterday after two months from his last post here, even tho we didn&amp;#039;t know you personally but you were and will still be in our thoughts and prayers](http://9gag.com/gag/aQXxDge)<!-- MEMES:END -->
+ - 🚖 [US journalist asks a Korean native why is he living in Asia and insists he&amp;#039;s trying to evade US regulation](http://9gag.com/gag/arnNDZp)
+ - 🚯 [%100](http://9gag.com/gag/aGzDrB0)
+ - 🚯 [Some people just don&amp;#039;t get it](http://9gag.com/gag/adgXWLN)<!-- MEMES:END -->
 
 --- 
 
