@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [League of Legends’ new music is an ambient album based on Diana](https://www.polygon.com/22824756/league-of-legends-sessions-diana-riot-games-music-game-awards)
- - [Slitterhead is a new horror game by Silent Hill creator Keiichiro Toyama](https://www.pcgamer.com/slitterhead-is-a-new-horror-game-by-silent-hill-creator-keiichiro-toyama)
- - [Sonic Frontiers sends the hedgehog on a new 3D adventure](https://www.polygon.com/22824831/sonic-frontiers-sega-3d-mainline-game-awards)<!-- GAME:END -->
+ - [New Star Trek game revealed by former Telltale Games talent](https://www.polygon.com/22826519/star-trek-resurgence-release-date-dramatic-labs-telltale-games)
+ - [After a decade of waiting, Warhammer 40,000: Space Marine is getting a sequel](https://www.pcgamer.com/after-a-decade-of-waiting-warhammer-40000-space-marine-is-getting-a-sequel)
+ - [Forspoken tapped for May launch date](https://www.polygon.com/22827308/forspoken-release-date-the-game-awards-2021-trailer)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
