@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Putting up xmas decorations](http://9gag.com/gag/aYrLZjN)
- - 🚯 [This evacuation system can save 800 people from a sinking ship](http://9gag.com/gag/aogpdG0)
- - 🚯 [This couldn&amp;rsquo;t be more accurate](http://9gag.com/gag/ay98ZdV)<!-- MEMES:END -->
+ - 🚖 [We could sure use a little Chad Varah today](http://9gag.com/gag/aLv9V95)
+ - 🚯 [This couldn&amp;rsquo;t be more accurate](http://9gag.com/gag/ay98ZdV)
+ - 🚯 [Overcooked](http://9gag.com/gag/a814X6V)<!-- MEMES:END -->
 
 --- 
 
