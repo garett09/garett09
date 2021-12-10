@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [New King Of Fighter Character Looks Like Fighter That Vanished Mysteriously](https://kotaku.com/new-king-of-fighter-character-looks-like-fighter-that-v-1848191964)
  - [The Japanese Internet Reacts To Netflix&#39;s Cowboy Bebop Cancellation](https://kotaku.com/the-japanese-internet-reacts-to-netflixs-cowboy-bebop-c-1848191680)
- - [The Witcher season 2 review: It&#39;s all about dads](https://www.pcgamer.com/the-witcher-season-2-review)
- - [The Matrix Awakens contains 38,146 driveable cars, of which we can drive none](https://www.pcgamer.com/the-matrix-awakens-contains-38146-driveable-cars-of-which-we-can-drive-zero)<!-- GAME:END -->
+ - [The Witcher season 2 review: It&#39;s all about dads](https://www.pcgamer.com/the-witcher-season-2-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
