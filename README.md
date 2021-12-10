@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [6 new streaming movies and shows for the weekend: The Expanse season 6 and more!](https://www.androidauthority.com/best-new-movies-shows-to-stream-the-expanse-season-6-and-just-like-that-3072998/)
- - [Verizon 5G Home adds three more cities to its coverage area     - CNET](https://www.cnet.com/home/verizon-5g-home-adds-three-more-cities-to-its-coverage-area/#ftag=CAD590a51e)
- - [OnePlus pulls bug-ridden Oxygen OS 12 update for the OnePlus 9](https://www.androidauthority.com/oneplus-oxygen-os-12-update-pulled-3074090/)<!-- TECH:END -->
+ - [Moderna data shows mRNA isn’t a quick fix for the flu vaccine](https://www.theverge.com/2021/12/10/22828042/moderna-mrna-flu-shot)
+ - [Severe flaw in Java library impacts iCloud, Amazon, Steam, and more](https://appleinsider.com/articles/21/12/10/severe-flaw-in-java-library-impacts-icloud-amazon-steam-and-more?utm_medium=rss)
+ - [Best Buy&#39;s Flash Sale knocks up to $500 off Macs, OLED TVs, headphones, more](https://appleinsider.com/articles/21/12/10/best-buys-flash-sale-knocks-up-to-500-off-macs-oled-tvs-headphones-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
