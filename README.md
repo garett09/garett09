@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The adorable Zelda-like with a heroic fox, Tunic, launches in March](https://www.polygon.com/22826639/tunic-game-release-date-game-awards)
- - [The Game Awards 2021: All the news and announcements](https://www.polygon.com/22826335/the-game-awards-2021-news-announcements-stream)
- - [Watch The Game Awards live here](https://www.polygon.com/22825317/game-awards-2021-time-date-how-to-watch-streaming-start)<!-- GAME:END -->
+ - [Alan Wake 2 revealed, will be Remedy’s first survival horror game](https://www.polygon.com/22827224/alan-wake-2-release-date-trailer-remedy-entertainment)
+ - [Wonder Woman announced at The Game Awards](https://www.polygon.com/22827136/wonder-woman-game-new-dc-warner-bros-the-game-awards)
+ - [Idris Elba steals the show as Knuckles in first Sonic the Hedgehog 2 trailer](https://www.polygon.com/22823056/sonic-the-hedgehog-2-trailer-release-date)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
