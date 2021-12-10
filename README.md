@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google is bringing Android games to Windows in 2022](https://www.theverge.com/2021/12/9/22827037/google-android-games-windows-pc-google-play-games)
- - [Google Play Games is coming to Windows PCs in 2022](https://www.androidauthority.com/android-games-on-windows-3073627/)
- - [After a lengthy wait, Rocksteady’s Suicide Squad finally has a gameplay trailer](https://www.theverge.com/2021/12/9/22826586/suicide-squad-video-game-gameplay-trailer-the-game-awards)<!-- TECH:END -->
+ - [Neo visits his past in new Matrix Resurrections clip](https://www.theverge.com/2021/12/9/22823119/the-matrix-resurrections-trailer-clip-the-game-awards-neo)
+ - [Rumbleverse Adds a Melee Twist to the Battle Royale](https://www.wired.com/story/rumbleverse-melee-battle-royale-epic-games)
+ - [Keanu Reeves and Carrie-Anne Moss on making The Matrix Awakens with Epic Games](https://www.theverge.com/22825102/keanu-reeves-carrie-anne-moss-interview-matrix-awakens-epic-games)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
