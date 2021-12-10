@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I bet someone put that there](http://9gag.com/gag/awzVvq1)
- - 🚯 [NASA astronaut Randy Bresnik during a spacewalk outside the International Space Station.](http://9gag.com/gag/aeg6dZm)
- - 🚯 [&amp;#039;The Lovely Bones&amp;#039; writer who falsely accused man, lied in court and put him in prison for 16 years says she&amp;#039;s &amp;quot;really sorry&amp;quot; after getting caught. No punishment for her of course because women are the real victims. #BelieveAllWomen](http://9gag.com/gag/a0ZjwbQ)<!-- MEMES:END -->
+ - 🚖 [NASA astronaut Randy Bresnik during a spacewalk outside the International Space Station.](http://9gag.com/gag/aeg6dZm)
+ - 🚯 [Tom and Jerry live action](http://9gag.com/gag/aeg6PBW)
+ - 🚯 [This evacuation system can save 800 people from a sinking ship](http://9gag.com/gag/aogpdG0)<!-- MEMES:END -->
 
 --- 
 
