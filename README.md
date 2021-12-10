@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Game dev known for cursing at The Game Awards curses at The Game Awards while winning game awards](https://www.theverge.com/2021/12/10/22826987/josef-fares-hazelight-studios-it-takes-two-game-of-the-year)
- - [The Game Awards 2021: Every result, winner, announcement, trailer and more     - CNET](https://www.cnet.com/news/the-game-awards-2021-every-result-winner-announcement-trailer-and-more/#ftag=CAD590a51e)
- - [The biggest news and trailers from the 2021 Game Awards](https://www.theverge.com/2021/12/9/22815755/the-game-awards-2021-trailers-news-announcements)<!-- TECH:END -->
+ - [More rumors point to OnePlus Pad coming, India launch window tipped](https://www.androidauthority.com/oneplus-pad-india-3073717/)
+ - [Boston-based conversational AI startup Posh Technologies raises a $27.5M Series A led by Canapi Ventures to fuel call center automation &lpar;Kyle Wiggers/VentureBeat&rpar;](http://www.techmeme.com/211210/p1#a211210p1)
+ - [Star Wars: Eclipse, a new Star Wars game, has been unveiled at The Game Awards     - CNET](https://www.cnet.com/news/star-wars-eclipse-unveiled-at-the-game-awards/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
