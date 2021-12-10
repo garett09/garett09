@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Firefox 95 for Mac improves security, reduces power consumption](https://appleinsider.com/articles/21/12/10/firefox-95-for-mac-improves-security-reduces-power-consumption?utm_medium=rss)
- - [Analysis: English Premier League soccer fans have spent &amp;pound;262M+ on crypto-based fan tokens, often offered by Socios, as critics worry about fans being exploited &lpar;BBC&rpar;](http://www.techmeme.com/211210/p4#a211210p4)
- - [Taking a ‘Flexible Job’? Beware the Never-Ending Workday](https://www.wired.com/story/asynchronous-job-never-ending-workday)<!-- TECH:END -->
+ - [All the Ways Tech Saved Us This Year](https://www.wired.com/story/gadget-lab-podcast-532)
+ - [How I Accidentally Hacked A Peruvian Crime Ring](https://www.wired.com/story/i-accidentally-hacked-a-peruvian-crime-ring)
+ - [To See Proteins Change in Quadrillionths of a Second, Use AI](https://www.wired.com/story/to-see-proteins-change-in-quadrillionths-of-a-second-use-ai)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
