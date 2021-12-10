@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Game Pass Has PC Games – PC Builder Series: Halo Infinite](https://news.xbox.com/en-us/2021/12/10/game-pass-has-pc-games-pc-builder-series-halo-infinite/)
- - [Kyle Mooney’s Saturday Morning All Star Hits! is a specific nostalgia rush](https://www.polygon.com/22826878/saturday-morning-all-star-hits-netflix-impression)
- - [Skyrim modders replace boring, basic locks with beautiful and bizarre new ones](https://www.pcgamer.com/skyrim-modders-replace-boring-basic-locks-with-beautiful-and-bizarre-new-ones)<!-- GAME:END -->
+ - [Discover Dying Light 2 Stay Human CGI Trailer, New Pre-Order Bonus, and Techland’s Special Anniversary Offers](https://news.xbox.com/en-us/2021/12/10/discover-dying-light-2-stay-human-new-trailer/)
+ - [Activision Exec To Organizing Workers: Pwease Don’t Unionize 😞🥺](https://kotaku.com/activision-exec-to-organizing-workers-pwease-don-t-uni-1848196177)
+ - [&#39;Streaming isn&#39;t work,&#39; says one of the most successful streamers in the world](https://www.pcgamer.com/streaming-isnt-work-says-one-of-the-most-successful-streamers-in-the-world)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
