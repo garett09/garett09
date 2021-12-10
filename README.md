@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sonic Frontiers teases an ‘open-zone’ redemption for the franchise’s 3D legacy](https://www.theverge.com/2021/12/9/22826807/sonic-frontiers-game-awards-2021-trailer-gameplay-reveal)
- - [Cuphead’s years-in-the-making DLC will finally release in June](https://www.theverge.com/2021/12/9/22816788/cuphead-the-delicious-last-course-dlc-ms-chalice-release-date)
- - [The original PUBG is going free-to-play](https://www.theverge.com/2021/12/9/22821220/pubg-playerunknowns-battlegrounds-free-to-play-release-date)<!-- TECH:END -->
+ - [Google is bringing Android games to Windows in 2022](https://www.theverge.com/2021/12/9/22827037/google-android-games-windows-pc-google-play-games)
+ - [Google Play Games is coming to Windows PCs in 2022](https://www.androidauthority.com/android-games-on-windows-3073627/)
+ - [After a lengthy wait, Rocksteady’s Suicide Squad finally has a gameplay trailer](https://www.theverge.com/2021/12/9/22826586/suicide-squad-video-game-gameplay-trailer-the-game-awards)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
