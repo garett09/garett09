@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best deals Dec. 10: $150 2021 Apple TV 4K, $160 Apple Watch Series 3, and more!](https://appleinsider.com/articles/21/12/10/best-deals-dec-10-150-2021-apple-tv-4k-160-apple-watch-series-3-and-more?utm_medium=rss)
- - [A vulnerability in the Apache log4j Java logging library allows for remote code execution, with Steam, iCloud, Minecraft, and other services affected &lpar;LunaSec Blog&rpar;](http://www.techmeme.com/211210/p8#a211210p8)
- - [Best apps for reading PDF files on your iPad](https://appleinsider.com/articles/21/12/10/best-apps-for-reading-pdf-files-on-your-ipad?utm_medium=rss)<!-- TECH:END -->
+ - [6 new streaming movies and shows for the weekend: The Expanse season 6 and more!](https://www.androidauthority.com/best-new-movies-shows-to-stream-the-expanse-season-6-and-just-like-that-3072998/)
+ - [Verizon 5G Home adds three more cities to its coverage area     - CNET](https://www.cnet.com/home/verizon-5g-home-adds-three-more-cities-to-its-coverage-area/#ftag=CAD590a51e)
+ - [OnePlus pulls bug-ridden Oxygen OS 12 update for the OnePlus 9](https://www.androidauthority.com/oneplus-oxygen-os-12-update-pulled-3074090/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
