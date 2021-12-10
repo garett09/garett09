@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Leaker claims the Galaxy S22 Ultra could have a Note-inspired name instead](https://www.androidauthority.com/samsung-galaxy-s22-ultra-s22-note-3073743/)
- - [The Witcher season 2 gets a little too serious on its quest to answer some big questions](https://www.theverge.com/2021/12/10/22826460/witcher-season-2-review-netflix)
- - [More rumors point to OnePlus Pad coming, India launch window tipped](https://www.androidauthority.com/oneplus-pad-india-3073717/)<!-- TECH:END -->
+ - [Best apps for managing To Do lists on your iPhone and iPad](https://appleinsider.com/articles/21/12/09/best-apps-for-managing-to-do-lists-on-your-iphone-and-ipad?utm_medium=rss)
+ - [How Syrian human rights group Mnemonic used AI trained on synthetic data to analyze videos for evidence that &quot;cluster&quot; weapon RBK-250 was used against civilians &lpar;Financial Times&rpar;](http://www.techmeme.com/211210/p2#a211210p2)
+ - [You’ve seen rollable phones, but how about a rollable smartwatch?](https://www.androidauthority.com/samsung-rollable-smartwatch-3073774/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
