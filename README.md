@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The biggest news and trailers from the 2021 Game Awards](https://www.theverge.com/2021/12/9/22815755/the-game-awards-2021-trailers-news-announcements)
- - [Neo visits his past in new Matrix Resurrections clip](https://www.theverge.com/2021/12/9/22823119/the-matrix-resurrections-trailer-clip-the-game-awards-neo)
- - [Rumbleverse Adds a Melee Twist to the Battle Royale](https://www.wired.com/story/rumbleverse-melee-battle-royale-epic-games)<!-- TECH:END -->
+ - [Game dev known for cursing at The Game Awards curses at The Game Awards while winning game awards](https://www.theverge.com/2021/12/10/22826987/josef-fares-hazelight-studios-it-takes-two-game-of-the-year)
+ - [The Game Awards 2021: Every result, winner, announcement, trailer and more     - CNET](https://www.cnet.com/news/the-game-awards-2021-every-result-winner-announcement-trailer-and-more/#ftag=CAD590a51e)
+ - [The biggest news and trailers from the 2021 Game Awards](https://www.theverge.com/2021/12/9/22815755/the-game-awards-2021-trailers-news-announcements)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
