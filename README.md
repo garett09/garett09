@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Creepy](http://9gag.com/gag/a91YGbW)
- - 🚯 [Finally have a set of legs after 2.5 years of trying to get them](http://9gag.com/gag/aqGLwOL)
+ - 🚖 [Finder&amp;#039;s keeper, Shut up!! &lpar;Probably the funniest stand up I ever watch&rpar;](http://9gag.com/gag/aeg6BZW)
+ - 🚯 [Anthony Mackie&amp;#039;s take on modern entertainment](http://9gag.com/gag/adgXwvd)
  - 🚯 [To delete, or not to delete, that is the question.](http://9gag.com/gag/ang1ogV)<!-- MEMES:END -->
 
 --- 
