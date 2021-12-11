@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Zhiyun Smooth 5 Gimbal review: sturdy, strong, and made for pros](https://appleinsider.com/articles/21/12/11/zhiyun-smooth-5-gimbal-review-sturdy-strong-and-made-for-pros?utm_medium=rss)
- - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-410-3074196/)
- - [Best SUVs on sale for 2021     - Roadshow](https://www.cnet.com/roadshow/news/best-suv-sale/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Blue Origin&#39;s 3rd crewed launch sends TV&#39;s Michael Strahan to space and back     - CNET](https://www.cnet.com/news/blue-origins-3rd-crewed-launch-sends-tvs-michael-strahan-to-space-and-back/#ftag=CAD590a51e)
+ - [10 holiday deals on Amazon devices still going strong     - CNET](https://www.cnet.com/tech/8-amazon-deals-still-at-black-friday-prices/#ftag=CAD590a51e)
+ - [AWS blames its Tuesday outage on network devices overloading, says it will revamp its status page after complaints about support inquiries during the outage &lpar;CNBC&rpar;](http://www.techmeme.com/211211/p8#a211211p8)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
