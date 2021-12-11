@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This is what I call a bro](http://9gag.com/gag/aAGPA39)
- - 🚯 [Noise in bed.](http://9gag.com/gag/a91YexZ)
+ - 🚖 [How the mortar works](http://9gag.com/gag/aVxe5zy)
+ - 🚯 [Today, 20 years ago this masterpiece has had its theatrical release.](http://9gag.com/gag/a31jrZ3)
  - 🚯 [On purpose 99% of the time](http://9gag.com/gag/amgzwr4)<!-- MEMES:END -->
 
 --- 
