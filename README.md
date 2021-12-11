@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Matter could bring universal casting that actually works](https://www.theverge.com/2021/12/9/22824559/matter-tv-streaming-devices-smart-home-casting-protocol-support)
  - [If you can find it on sale, buy the Apple Watch Series 6 instead of the Series 7](https://www.androidauthority.com/apple-watch-series-6-vs-series-7-3070299/)
- - [Investigation finds that a site providing directions on how to die is linked to ~45 suicides, as Google deflects responsibility for steering users to the site &lpar;New York Times&rpar;](http://www.techmeme.com/211211/p9#a211211p9)
- - [Amazon warehouse hit by tornado, 2 confirmed dead, report says     - CNET](https://www.cnet.com/tech/amazon-warehouse-hit-by-tornado-2-confirmed-dead-report-says/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Investigation: a site providing directions on how to die is linked to at least ~45 suicides, as Google and Bing refuse to remove it absent a legal requirement &lpar;New York Times&rpar;](http://www.techmeme.com/211211/p9#a211211p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
