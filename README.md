@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Trust your British overlords.](http://9gag.com/gag/a91YGwj)
- - 🚯 [A lot of them getting cheated on](http://9gag.com/gag/aqGLw0v)
+ - 🚖 [Keanu laughing at the concept of NFTs](http://9gag.com/gag/axBDw8W)
+ - 🚯 [We will own nothing and like it](http://9gag.com/gag/aOQv562)
  - 🚯 [Finder&amp;#039;s keeper, Shut up!! &lpar;Probably the funniest stand up I ever watch&rpar;](http://9gag.com/gag/aeg6BZW)<!-- MEMES:END -->
 
 --- 
