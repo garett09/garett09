@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Binance is in talks to set up a cryptocurrency exchange in Indonesia with PT Bank Central Asia, owned by the Hartonos, Indonesia&#39;s richest family &lpar;Bloomberg&rpar;](http://www.techmeme.com/211210/p17#a211210p17)
- - [5 ways to give kids money and teach personal finance during the holidays     - CNET](https://www.cnet.com/news/5-ways-to-give-kids-money-and-teach-personal-finance/#ftag=CAD590a51e)
- - [Sony planned PlayStation Now gaming service for the iPhone &amp; Android](https://appleinsider.com/articles/21/12/10/sony-planned-playstation-now-gaming-service-for-the-iphone-android?utm_medium=rss)<!-- TECH:END -->
+ - [Here are the best Amazon Echo deals right now](https://www.theverge.com/21546591/best-amazon-echo-deals)
+ - [Adam Mosseri explains how Instagram is bringing back the chronological feed](https://www.theverge.com/2021/12/10/22828773/instagram-chronological-feed-details-mosseri-two-versions)
+ - [Brazil&#39;s Ministry of Health suffers a major ransomware attack, resulting in the unavailability of millions of COVID-19 certificates and the loss of 50TB of data &lpar;Angelica Mari/ZDNet&rpar;](http://www.techmeme.com/211210/p18#a211210p18)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
