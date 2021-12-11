@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Take Your Tunes Anywhere With Our Fave Bluetooth Speakers](https://www.wired.com/gallery/best-bluetooth-speakers)
  - [The MacBook Pro &lpar;2021&rpar; is proof the customer is always right](https://www.androidauthority.com/apple-macbook-pro-2021-review-3065561/)
- - [Fleeing Global Warming? ‘Climate Havens’ Aren’t Ready Yet](https://www.wired.com/story/fleeing-global-warming-climate-havens-arent-ready-yet)
- - [The Best Discord Bots for Your Server](https://www.wired.com/story/best-discord-bots)<!-- TECH:END -->
+ - [Best Target holiday deals: Big savings on Beats earbuds, Apple Watch 7 and more are right around the corner     - CNET](https://www.cnet.com/tech/mobile/best-target-holiday-deals-big-savings-on-beats-earbuds-apple-watch-7-and-more-are-right-around-the-corner/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
