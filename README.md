@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [My grandfather died from covid last week. He left me his pride and joy and my first bike.](http://9gag.com/gag/aQXxbjq)
- - 🚯 [Sounds about right](http://9gag.com/gag/a71dg3b)
- - 🚯 [When in Rome...](http://9gag.com/gag/avAnVMq)<!-- MEMES:END -->
+ - 🚖 [Creepy](http://9gag.com/gag/a91YGbW)
+ - 🚯 [Finally have a set of legs after 2.5 years of trying to get them](http://9gag.com/gag/aqGLwOL)
+ - 🚯 [To delete, or not to delete, that is the question.](http://9gag.com/gag/ang1ogV)<!-- MEMES:END -->
 
 --- 
 
