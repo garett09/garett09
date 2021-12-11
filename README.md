@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [King of the Nerds](http://9gag.com/gag/amgzZj9)
- - 🚯 [Crusty Adulting](http://9gag.com/gag/ajgDzXQ)
+ - 🚖 [You should find a girl who you can believe when she tells you that you are the only man for her.](http://9gag.com/gag/a71dYqz)
+ - 🚯 [Damn!](http://9gag.com/gag/aWgM3YZ)
  - 🚯 [Choose your own heroes to fight the darkness in Call Of Antia.](http://9gag.com/gag/amgzOGo)<!-- MEMES:END -->
 
 --- 
