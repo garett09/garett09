@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [New tool enables technicians to manually update AirPods Pro](https://appleinsider.com/articles/21/12/11/new-tool-enables-technicians-to-manually-update-airpods-pro?utm_medium=rss)
  - [Some trans and nonbinary drivers say Uber banned their accounts after it treated their documents as fraudulent; Uber says it&#39;s working to restore the accounts &lpar;Suhauna Hussain/Los Angeles Times&rpar;](http://www.techmeme.com/211210/p19#a211210p19)
- - [FDA approves eye drops that can treat age-related blurry vision     - CNET](https://www.cnet.com/health/medical/fda-approves-eye-drops-that-can-treat-age-related-blurry-vision/#ftag=CAD590a51e)
- - [Here are the best Amazon Echo deals right now](https://www.theverge.com/21546591/best-amazon-echo-deals)<!-- TECH:END -->
+ - [FDA approves eye drops that can treat age-related blurry vision     - CNET](https://www.cnet.com/health/medical/fda-approves-eye-drops-that-can-treat-age-related-blurry-vision/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
