@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The 2021 tech that impressed us the most     - CNET](https://www.cnet.com/tech/best-tech-products-of-2021/#ftag=CAD590a51e)
  - [The best Apple Watch cases you can get](https://www.androidauthority.com/best-apple-watch-cases-3071354/)
- - [Profile of the Coalition for App Fairness, a group created by Epic, Spotify, Match Group, and others, seeking to open Google and Apple app stores to competition &lpar;Ben Brody/Protocol&rpar;](http://www.techmeme.com/211211/p4#a211211p4)
- - [The best apps and skills for the Echo Show family](https://www.androidauthority.com/best-apps-and-skills-for-echo-show-3069818/)<!-- TECH:END -->
+ - [Profile of the Coalition for App Fairness, a group created by Epic, Spotify, Match Group, and others, seeking to open Google and Apple app stores to competition &lpar;Ben Brody/Protocol&rpar;](http://www.techmeme.com/211211/p4#a211211p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
