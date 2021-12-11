@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Save it, Forget about it](http://9gag.com/gag/aBn1A12)
- - 🚯 [I paint this. Please look at it then go have a nice day](http://9gag.com/gag/azeApQZ)
+ - 🚖 [Well, they made it](http://9gag.com/gag/aGzDm7X)
+ - 🚯 [Save it, Forget about it](http://9gag.com/gag/aBn1A12)
  - 🚯 [Choose your own heroes to fight the darkness in Call Of Antia.](http://9gag.com/gag/amgzOGo)<!-- MEMES:END -->
 
 --- 
