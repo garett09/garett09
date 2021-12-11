@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [UFC 269 Charles Oliveira vs. Dustin Poirier: Start time, how to watch or stream online     - CNET](https://www.cnet.com/news/ufc-269-charles-oliveira-vs-dustin-poirier-start-time-how-to-watch-or-stream-online/#ftag=CAD590a51e)
  - [My UX guide: Everything you need to know about Motorola’s Android skin](https://www.androidauthority.com/motorola-my-ux-3070897/)
- - [Assembly, a new blockchain under the IOTA network focused on DeFi, NFTs, and crypto game development, raises $100M and plans to launch its token next year &lpar;Gertrude Chavez-dreyfuss/Reuters&rpar;](http://www.techmeme.com/211211/p10#a211211p10)
- - [Former Apple employee says she won’t withdraw her labor board complaint](https://www.theverge.com/2021/12/9/22826620/apple-labor-cher-scarlett-settlement-nlrb-complaint)<!-- TECH:END -->
+ - [Assembly, a new blockchain under the IOTA network focused on DeFi, NFTs, and crypto game development, raises $100M and plans to launch its token next year &lpar;Gertrude Chavez-dreyfuss/Reuters&rpar;](http://www.techmeme.com/211211/p10#a211211p10)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
