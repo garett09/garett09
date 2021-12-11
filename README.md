@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Bungie Joins Growing List Of Major Studios Who Should Definitely Unionize](https://kotaku.com/bungie-joins-growing-list-of-major-studios-who-should-d-1848197154)
- - [The Game Awards is becoming the biggest single gaming event of the year](https://www.pcgamer.com/the-game-awards-is-becoming-the-biggest-single-gaming-event-of-the-year)
- - [Dear Evan Hansen, The Unforgivable, and every new movie you can stream at home this weekend](https://www.polygon.com/2021/12/10/22822972/new-movies-watch-netflix-unforgivable-dear-evan-hansen)<!-- GAME:END -->
+ - [Activision Blizzard reacts to unionization talk with anti-unionization talk](https://www.pcgamer.com/activision-blizzard-reacts-to-unionization-talk-with-anti-unionization-talk)
+ - [How Final Fantasy 14: Endwalker players are dealing with painful queues: Anime, tears, and keychains](https://www.pcgamer.com/how-final-fantasy-14-endwalker-players-are-dealing-with-painful-queues-anime-tears-and-keychains)
+ - [Keiko Nobumoto, Writer For Cowboy Bebop And Tokyo Godfathers, Dies At 57](https://kotaku.com/keiko-nobumoto-writer-for-cowboy-bebop-and-tokyo-godfa-1848197485)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
