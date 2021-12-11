@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Halo Infinite Finally Getting A Slayer Playlist Next Week](https://kotaku.com/halo-infinite-finally-getting-a-slayer-playlist-next-we-1848200110)
  - [The new Cities: Skylines expansion is all about big modular airports](https://www.pcgamer.com/the-new-cities-skylines-expansion-is-all-about-big-modular-airports)
- - [Assassin&#39;s Creed Valhalla&#39;s Next Big DLC Leaked Ahead Of Official Reveal](https://kotaku.com/assassins-creed-valhallas-next-big-dlc-leaked-ahead-of-1848199977)
- - [All Hail The Giant Sandwich, Halo Infinite&#39;s Weirdest Easter Egg](https://kotaku.com/all-hail-the-giant-sandwich-halo-infinites-weirdest-ea-1848199525)<!-- GAME:END -->
+ - [Assassin&#39;s Creed Valhalla&#39;s Next Big DLC Leaked Ahead Of Official Reveal](https://kotaku.com/assassins-creed-valhallas-next-big-dlc-leaked-ahead-of-1848199977)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
