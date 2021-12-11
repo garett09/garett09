@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Master Chief’s laconic nature makes him the perfect video game action hero](https://www.polygon.com/interviews/22827503/master-chief-halo-infinite-2-combat-evolved-quiet-interview-frank-oconnor-joseph-staten)
- - [The Best Shooters Of 2021](https://kotaku.com/the-best-shooters-of-2021-1848196915)
- - [Watch the world&#39;s greatest spreadsheet sorcerers throw down in the World Cup of Microsoft Excel](https://www.pcgamer.com/watch-the-worlds-greatest-spreadsheet-sorcerers-throw-down-in-the-world-cup-of-microsoft-excel)<!-- GAME:END -->
+ - [All Hail The Giant Sandwich, Halo Infinite&#39;s Weirdest Easter Egg](https://kotaku.com/all-hail-the-giant-sandwich-halo-infinites-weirdest-ea-1848199525)
+ - [Netflix canceling Cowboy Bebop after one season wastes all of its promise](https://www.polygon.com/22828127/cowboy-bebop-canceled-netflix-before-season-2)
+ - [Master Chief’s laconic nature makes him the perfect video game action hero](https://www.polygon.com/interviews/22827503/master-chief-halo-infinite-2-combat-evolved-quiet-interview-frank-oconnor-joseph-staten)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
