@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Take Your Tunes Anywhere With Our Fave Bluetooth Speakers](https://www.wired.com/gallery/best-bluetooth-speakers)
- - [The MacBook Pro &lpar;2021&rpar; is proof the customer is always right](https://www.androidauthority.com/apple-macbook-pro-2021-review-3065561/)
- - [Best Target holiday deals: Big savings on Beats earbuds, Apple Watch 7 and more are right around the corner     - CNET](https://www.cnet.com/tech/mobile/best-target-holiday-deals-big-savings-on-beats-earbuds-apple-watch-7-and-more-are-right-around-the-corner/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The most underrated phones of 2021](https://www.androidauthority.com/underrated-phones-2021-3071475/)
+ - [Apple’s Invasion feels like the first chapter of a sci-fi epic](https://www.theverge.com/2021/12/11/22828386/invasion-season-1-review-apple-tv-plus)
+ - [Apple’s latest AirPods are selling for just $140 at Amazon](https://www.theverge.com/good-deals/2021/12/11/22827785/apple-airpods-third-gen-wireless-earbuds-xbox-series-s-surface-pro-8-gaming-laptop-deal-sale)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
