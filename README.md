@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Riz Ahmed elevates Amazon’s new blunt sci-fi drama Encounter](https://www.polygon.com/reviews/22828930/encounter-review-amazon-riz-ahmed)
- - [Activision Blizzard reacts to unionization talk with anti-unionization talk](https://www.pcgamer.com/activision-blizzard-reacts-to-unionization-talk-with-anti-unionization-talk)
- - [How Final Fantasy 14: Endwalker players are dealing with painful queues: Anime, tears, and keychains](https://www.pcgamer.com/how-final-fantasy-14-endwalker-players-are-dealing-with-painful-queues-anime-tears-and-keychains)<!-- GAME:END -->
+ - [Master Chief’s laconic nature makes him the perfect video game action hero](https://www.polygon.com/interviews/22827503/master-chief-halo-infinite-2-combat-evolved-quiet-interview-frank-oconnor-joseph-staten)
+ - [The Best Shooters Of 2021](https://kotaku.com/the-best-shooters-of-2021-1848196915)
+ - [Watch the world&#39;s greatest spreadsheet sorcerers throw down in the World Cup of Microsoft Excel](https://www.pcgamer.com/watch-the-worlds-greatest-spreadsheet-sorcerers-throw-down-in-the-world-cup-of-microsoft-excel)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
