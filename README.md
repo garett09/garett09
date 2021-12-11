@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Flawless](http://9gag.com/gag/amgz4By)
- - 🚯 [In different languages](http://9gag.com/gag/aZrpOVW)
+ - 🚖 [Crazy Russian Mofo breaks inner window of plane](http://9gag.com/gag/aE8nmVG)
+ - 🚯 [Transfer of Power in Germany](http://9gag.com/gag/aOQvLN2)
  - 🚯 [Choose your own heroes to fight the darkness in Call Of Antia.](http://9gag.com/gag/amgzOGo)<!-- MEMES:END -->
 
 --- 
