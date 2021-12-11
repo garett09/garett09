@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [WWI Documentary about shell shock &lpar;PTSD&rpar;. Most of thesr prople were executed by the military, thinking that they were cowering.](http://9gag.com/gag/aE8n96x)
- - 🚯 [It&amp;#039;s not geh](http://9gag.com/gag/aM49gVG)
+ - 🚖 [You might be old but are you this old?](http://9gag.com/gag/aQXxLx7)
+ - 🚯 [WWI Documentary about shell shock &lpar;PTSD&rpar;. Most of thesr prople were executed by the military, thinking that they were cowering.](http://9gag.com/gag/aE8n96x)
  - 🚯 [Choose your own heroes to fight the darkness in Call Of Antia.](http://9gag.com/gag/amgzOGo)<!-- MEMES:END -->
 
 --- 
