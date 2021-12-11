@@ -194,7 +194,7 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [WWI Documentary about shell shock &lpar;PTSD&rpar;. Most of thesr prople were executed by the military, thinking that they were cowering.](http://9gag.com/gag/aE8n96x)
- - 🚯 [Day in the life of a cosplay photographer](http://9gag.com/gag/a814xed)
+ - 🚯 [It&amp;#039;s not geh](http://9gag.com/gag/aM49gVG)
  - 🚯 [Choose your own heroes to fight the darkness in Call Of Antia.](http://9gag.com/gag/amgzOGo)<!-- MEMES:END -->
 
 --- 
