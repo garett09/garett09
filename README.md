@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [On purpose 99% of the time](http://9gag.com/gag/amgzwr4)
- - 🚯 [A lot of them getting cheated on](http://9gag.com/gag/aqGLw0v)
- - 🚯 [My grandfather died from covid last week. He left me his pride and joy and my first bike.](http://9gag.com/gag/aQXxbjq)<!-- MEMES:END -->
+ - 🚖 [My grandfather died from covid last week. He left me his pride and joy and my first bike.](http://9gag.com/gag/aQXxbjq)
+ - 🚯 [Sounds about right](http://9gag.com/gag/a71dg3b)
+ - 🚯 [When in Rome...](http://9gag.com/gag/avAnVMq)<!-- MEMES:END -->
 
 --- 
 
