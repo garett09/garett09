@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Blue Origin&#39;s 3rd crewed launch sends TV&#39;s Michael Strahan to space and back     - CNET](https://www.cnet.com/news/blue-origins-3rd-crewed-launch-sends-tvs-michael-strahan-to-space-and-back/#ftag=CAD590a51e)
- - [10 holiday deals on Amazon devices still going strong     - CNET](https://www.cnet.com/tech/8-amazon-deals-still-at-black-friday-prices/#ftag=CAD590a51e)
- - [AWS blames its Tuesday outage on network devices overloading, says it will revamp its status page after complaints about support inquiries during the outage &lpar;CNBC&rpar;](http://www.techmeme.com/211211/p8#a211211p8)<!-- TECH:END -->
+ - [If you can find it on sale, buy the Apple Watch Series 6 instead of the Series 7](https://www.androidauthority.com/apple-watch-series-6-vs-series-7-3070299/)
+ - [Investigation finds that a site providing directions on how to die is linked to ~45 suicides, as Google deflects responsibility for steering users to the site &lpar;New York Times&rpar;](http://www.techmeme.com/211211/p9#a211211p9)
+ - [Amazon warehouse hit by tornado, 2 confirmed dead, report says     - CNET](https://www.cnet.com/tech/amazon-warehouse-hit-by-tornado-2-confirmed-dead-report-says/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
