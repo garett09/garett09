@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Crazy Russian Mofo breaks inner window of plane](http://9gag.com/gag/aE8nmVG)
- - 🚯 [Transfer of Power in Germany](http://9gag.com/gag/aOQvLN2)
+ - 🚖 [King of the Nerds](http://9gag.com/gag/amgzZj9)
+ - 🚯 [Crusty Adulting](http://9gag.com/gag/ajgDzXQ)
  - 🚯 [Choose your own heroes to fight the darkness in Call Of Antia.](http://9gag.com/gag/amgzOGo)<!-- MEMES:END -->
 
 --- 
