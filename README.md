@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 2021 tech that impressed us the most     - CNET](https://www.cnet.com/tech/best-tech-products-of-2021/#ftag=CAD590a51e)
- - [The best Apple Watch cases you can get](https://www.androidauthority.com/best-apple-watch-cases-3071354/)
- - [Profile of the Coalition for App Fairness, a group created by Epic, Spotify, Match Group, and others, seeking to open Google and Apple app stores to competition &lpar;Ben Brody/Protocol&rpar;](http://www.techmeme.com/211211/p4#a211211p4)<!-- TECH:END -->
+ - [What is Google Play Pass and is it worth it?](https://www.androidauthority.com/what-is-google-play-pass-3072477/)
+ - [Watch as Blue Origin plans to launch its first crew of six to space, with Michael Strahan on board](https://www.theverge.com/2021/12/11/22827900/blue-origin-new-shepard-launch-michael-strahan-faa-investigation-watch-live)
+ - [LG C1 OLED vs. Samsung Odyssey Neo G9: the perfect monitor doesn’t exist](https://www.theverge.com/2021/12/11/22815110/lg-c1-48-oled-samsung-odyssey-neo-g9-review-monitor-tv)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
