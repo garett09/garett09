@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here are the best Amazon Echo deals right now](https://www.theverge.com/21546591/best-amazon-echo-deals)
- - [Adam Mosseri explains how Instagram is bringing back the chronological feed](https://www.theverge.com/2021/12/10/22828773/instagram-chronological-feed-details-mosseri-two-versions)
- - [Brazil&#39;s Ministry of Health suffers a major ransomware attack, resulting in the unavailability of millions of COVID-19 certificates and the loss of 50TB of data &lpar;Angelica Mari/ZDNet&rpar;](http://www.techmeme.com/211210/p18#a211210p18)<!-- TECH:END -->
+ - [Some trans and nonbinary drivers say Uber banned their accounts after it treated their documents as fraudulent; Uber says it&#39;s working to restore the accounts &lpar;Suhauna Hussain/Los Angeles Times&rpar;](http://www.techmeme.com/211210/p19#a211210p19)
+ - [FDA approves eye drops that can treat age-related blurry vision     - CNET](https://www.cnet.com/health/medical/fda-approves-eye-drops-that-can-treat-age-related-blurry-vision/#ftag=CAD590a51e)
+ - [Here are the best Amazon Echo deals right now](https://www.theverge.com/21546591/best-amazon-echo-deals)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
