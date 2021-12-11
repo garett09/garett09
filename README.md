@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How to lose customers.](http://9gag.com/gag/aogp7Rw)
- - 🚯 [Damn nature you scary!](http://9gag.com/gag/a11X6z6)
+ - 🚖 [Flawless](http://9gag.com/gag/amgz4By)
+ - 🚯 [In different languages](http://9gag.com/gag/aZrpOVW)
  - 🚯 [Choose your own heroes to fight the darkness in Call Of Antia.](http://9gag.com/gag/amgzOGo)<!-- MEMES:END -->
 
 --- 
