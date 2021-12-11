@@ -193,7 +193,7 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Albert&amp;rsquo;s squirrel, confidently coming to trade dried seeds for some nuts&amp;hellip; super cute.](http://9gag.com/gag/adgXDjd)
+ - 🚖 [How to lose customers.](http://9gag.com/gag/aogp7Rw)
  - 🚯 [Damn nature you scary!](http://9gag.com/gag/a11X6z6)
  - 🚯 [Choose your own heroes to fight the darkness in Call Of Antia.](http://9gag.com/gag/amgzOGo)<!-- MEMES:END -->
 
