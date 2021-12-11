@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [What is Google Play Pass and is it worth it?](https://www.androidauthority.com/what-is-google-play-pass-3072477/)
- - [Watch as Blue Origin plans to launch its first crew of six to space, with Michael Strahan on board](https://www.theverge.com/2021/12/11/22827900/blue-origin-new-shepard-launch-michael-strahan-faa-investigation-watch-live)
- - [LG C1 OLED vs. Samsung Odyssey Neo G9: the perfect monitor doesn’t exist](https://www.theverge.com/2021/12/11/22815110/lg-c1-48-oled-samsung-odyssey-neo-g9-review-monitor-tv)<!-- TECH:END -->
+ - [How a bug in Microsoft Teams and Android 10 and above, triggered by the user not being logged in to the Teams app, may have caused 911 call fails &lpar;Mishaal Rahman&rpar;](http://www.techmeme.com/211211/p5#a211211p5)
+ - [10 Great Tech Books to Gift &lpar;or Keep for Yourself&rpar;](https://www.wired.com/gallery/best-tech-books-to-gift)
+ - [This Digital Bank Is Designed for the LGBTQ+ Community](https://www.wired.com/story/daylight-fintech-lgbtq)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
