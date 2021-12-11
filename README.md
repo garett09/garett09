@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [What&#39;s the most frustrating puzzle you ever got stuck on?](https://www.pcgamer.com/whats-the-most-frustrating-puzzle-you-ever-got-stuck-on)
  - [Halo Infinite Finally Getting A Slayer Playlist Next Week](https://kotaku.com/halo-infinite-finally-getting-a-slayer-playlist-next-we-1848200110)
- - [The new Cities: Skylines expansion is all about big modular airports](https://www.pcgamer.com/the-new-cities-skylines-expansion-is-all-about-big-modular-airports)
- - [Assassin&#39;s Creed Valhalla&#39;s Next Big DLC Leaked Ahead Of Official Reveal](https://kotaku.com/assassins-creed-valhallas-next-big-dlc-leaked-ahead-of-1848199977)<!-- GAME:END -->
+ - [The new Cities: Skylines expansion is all about big modular airports](https://www.pcgamer.com/the-new-cities-skylines-expansion-is-all-about-big-modular-airports)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
