@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best Apple Watch cases you can get](https://www.androidauthority.com/best-apple-watch-cases-3071354/)
  - [Profile of the Coalition for App Fairness, a group created by Epic, Spotify, Match Group, and others, seeking to open Google and Apple app stores to competition &lpar;Ben Brody/Protocol&rpar;](http://www.techmeme.com/211211/p4#a211211p4)
- - [The best apps and skills for the Echo Show family](https://www.androidauthority.com/best-apps-and-skills-for-echo-show-3069818/)
- - [ServiceTrade, which offers SaaS applications to commercial service contractors, raises $85M in a round led by JMI Equity &lpar;Zachery Eanes/Raleigh News &amp; Observer&rpar;](http://www.techmeme.com/211211/p3#a211211p3)<!-- TECH:END -->
+ - [The best apps and skills for the Echo Show family](https://www.androidauthority.com/best-apps-and-skills-for-echo-show-3069818/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
