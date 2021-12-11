@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Keanu laughing at the concept of NFTs](http://9gag.com/gag/axBDw8W)
- - 🚯 [We will own nothing and like it](http://9gag.com/gag/aOQv562)
- - 🚯 [Finder&amp;#039;s keeper, Shut up!! &lpar;Probably the funniest stand up I ever watch&rpar;](http://9gag.com/gag/aeg6BZW)<!-- MEMES:END -->
+ - 🚖 [Albert&amp;rsquo;s squirrel, confidently coming to trade dried seeds for some nuts&amp;hellip; super cute.](http://9gag.com/gag/adgXDjd)
+ - 🚯 [Damn nature you scary!](http://9gag.com/gag/a11X6z6)
+ - 🚯 [Choose your own heroes to fight the darkness in Call Of Antia.](http://9gag.com/gag/amgzOGo)<!-- MEMES:END -->
 
 --- 
 
