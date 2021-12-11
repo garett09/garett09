@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [New tool enables technicians to manually update AirPods Pro](https://appleinsider.com/articles/21/12/11/new-tool-enables-technicians-to-manually-update-airpods-pro?utm_medium=rss)
- - [Some trans and nonbinary drivers say Uber banned their accounts after it treated their documents as fraudulent; Uber says it&#39;s working to restore the accounts &lpar;Suhauna Hussain/Los Angeles Times&rpar;](http://www.techmeme.com/211210/p19#a211210p19)
- - [FDA approves eye drops that can treat age-related blurry vision     - CNET](https://www.cnet.com/health/medical/fda-approves-eye-drops-that-can-treat-age-related-blurry-vision/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Save 91% on a Lifetime Learning Bundle with Rosetta Stone, now on sale for $161](https://appleinsider.com/articles/21/12/11/save-91-on-a-lifetime-learning-bundle-with-rosetta-stone-now-on-sale-for-161?utm_medium=rss)
+ - [The Matrix Awakens didn’t blow my mind, but it convinced me next-gen gaming is nigh](https://www.theverge.com/22828860/the-matrix-awakens-ps5-xbox-series-x-free-next-gen)
+ - [New tool enables technicians to manually update AirPods Pro](https://appleinsider.com/articles/21/12/11/new-tool-enables-technicians-to-manually-update-airpods-pro?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
