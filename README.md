@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Riz Ahmed elevates Amazon’s new blunt sci-fi drama Encounter](https://www.polygon.com/reviews/22828930/encounter-review-amazon-riz-ahmed)
  - [Activision Blizzard reacts to unionization talk with anti-unionization talk](https://www.pcgamer.com/activision-blizzard-reacts-to-unionization-talk-with-anti-unionization-talk)
- - [How Final Fantasy 14: Endwalker players are dealing with painful queues: Anime, tears, and keychains](https://www.pcgamer.com/how-final-fantasy-14-endwalker-players-are-dealing-with-painful-queues-anime-tears-and-keychains)
- - [Keiko Nobumoto, Writer For Cowboy Bebop And Tokyo Godfathers, Dies At 57](https://kotaku.com/keiko-nobumoto-writer-for-cowboy-bebop-and-tokyo-godfa-1848197485)<!-- GAME:END -->
+ - [How Final Fantasy 14: Endwalker players are dealing with painful queues: Anime, tears, and keychains](https://www.pcgamer.com/how-final-fantasy-14-endwalker-players-are-dealing-with-painful-queues-anime-tears-and-keychains)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
