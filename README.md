@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [You should find a girl who you can believe when she tells you that you are the only man for her.](http://9gag.com/gag/a71dYqz)
- - 🚯 [Damn!](http://9gag.com/gag/aWgM3YZ)
+ - 🚖 [Save it, Forget about it](http://9gag.com/gag/aBn1A12)
+ - 🚯 [I paint this. Please look at it then go have a nice day](http://9gag.com/gag/azeApQZ)
  - 🚯 [Choose your own heroes to fight the darkness in Call Of Antia.](http://9gag.com/gag/amgzOGo)<!-- MEMES:END -->
 
 --- 
