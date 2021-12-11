@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [ServiceTrade, which offers SaaS applications to commercial service contractors, raises $85M in a round led by JMI Equity &lpar;Zachery Eanes/Raleigh News &amp; Observer&rpar;](http://www.techmeme.com/211211/p3#a211211p3)
  - [The heavily indebted Chinese chip conglomerate Tsinghua Unigroup says a consortium led by two state-backed VC firms would become its strategic investor &lpar;Yang Jie/Wall Street Journal&rpar;](http://www.techmeme.com/211211/p2#a211211p2)
- - [Best bread machines for home bakers in 2021     - CNET](https://www.cnet.com/home/kitchen-and-household/best-bread-machines/#ftag=CAD590a51e)
- - [Best over-ear headphones for 2021     - CNET](https://www.cnet.com/tech/mobile/best-over-ear-headphones/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best bread machines for home bakers in 2021     - CNET](https://www.cnet.com/home/kitchen-and-household/best-bread-machines/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
