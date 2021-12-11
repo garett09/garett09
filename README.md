@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Anthony Mackie&amp;#039;s take on modern entertainment](http://9gag.com/gag/adgXwvd)
- - 🚯 [Finder&amp;#039;s keeper, Shut up!! &lpar;Probably the funniest stand up I ever watch&rpar;](http://9gag.com/gag/aeg6BZW)
- - 🚯 [A lot of them getting cheated on](http://9gag.com/gag/aqGLw0v)<!-- MEMES:END -->
+ - 🚖 [Trust your British overlords.](http://9gag.com/gag/a91YGwj)
+ - 🚯 [A lot of them getting cheated on](http://9gag.com/gag/aqGLw0v)
+ - 🚯 [Finder&amp;#039;s keeper, Shut up!! &lpar;Probably the funniest stand up I ever watch&rpar;](http://9gag.com/gag/aeg6BZW)<!-- MEMES:END -->
 
 --- 
 
