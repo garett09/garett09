@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How the mortar works](http://9gag.com/gag/aVxe5zy)
- - 🚯 [Today, 20 years ago this masterpiece has had its theatrical release.](http://9gag.com/gag/a31jrZ3)
- - 🚯 [On purpose 99% of the time](http://9gag.com/gag/amgzwr4)<!-- MEMES:END -->
+ - 🚖 [Today, 20 years ago this masterpiece has had its theatrical release.](http://9gag.com/gag/a31jrZ3)
+ - 🚯 [On purpose 99% of the time](http://9gag.com/gag/amgzwr4)
+ - 🚯 [My grandfather died from covid last week. He left me his pride and joy and my first bike.](http://9gag.com/gag/aQXxbjq)<!-- MEMES:END -->
 
 --- 
 
