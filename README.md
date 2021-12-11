@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Matter could bring universal casting that actually works](https://www.theverge.com/2021/12/9/22824559/matter-tv-streaming-devices-smart-home-casting-protocol-support)
- - [If you can find it on sale, buy the Apple Watch Series 6 instead of the Series 7](https://www.androidauthority.com/apple-watch-series-6-vs-series-7-3070299/)
- - [Investigation: a site providing directions on how to die is linked to at least ~45 suicides, as Google and Bing refuse to remove it absent a legal requirement &lpar;New York Times&rpar;](http://www.techmeme.com/211211/p9#a211211p9)<!-- TECH:END -->
+ - [My UX guide: Everything you need to know about Motorola’s Android skin](https://www.androidauthority.com/motorola-my-ux-3070897/)
+ - [Assembly, a new blockchain under the IOTA network focused on DeFi, NFTs, and crypto game development, raises $100M and plans to launch its token next year &lpar;Gertrude Chavez-dreyfuss/Reuters&rpar;](http://www.techmeme.com/211211/p10#a211211p10)
+ - [Former Apple employee says she won’t withdraw her labor board complaint](https://www.theverge.com/2021/12/9/22826620/apple-labor-cher-scarlett-settlement-nlrb-complaint)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
