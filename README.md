@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android phones should have a private “repair mode”](https://www.androidauthority.com/android-repair-mode-3073331/)
- - [Best portable mini Bluetooth speaker for 2021: JBL, Bose, Sony and more     - CNET](https://www.cnet.com/tech/home-entertainment/best-portable-mini-bluetooth-speaker/#ftag=CAD590a51e)
- - [TrueNorth, a logistics service for independent truckers, raises a $50M Series B co-led by the Altman brothers and Lachy Groom, bringing total funding to $61.8M &lpar;Connie Loizos/TechCrunch&rpar;](http://www.techmeme.com/211211/p6#a211211p6)<!-- TECH:END -->
+ - [Zhiyun Smooth 5 Gimbal review: sturdy, strong, and made for pros](https://appleinsider.com/articles/21/12/11/zhiyun-smooth-5-gimbal-review-sturdy-strong-and-made-for-pros?utm_medium=rss)
+ - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-410-3074196/)
+ - [Best SUVs on sale for 2021     - Roadshow](https://www.cnet.com/roadshow/news/best-suv-sale/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
