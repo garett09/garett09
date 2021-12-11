@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I have no words](http://9gag.com/gag/arnNYr6)
- - 🚯 [Looking at you, Netflix.](http://9gag.com/gag/avAnNjW)
+ - 🚖 [Influencers..](http://9gag.com/gag/a11Xy8Y)
+ - 🚯 [Santa came a little early this year!](http://9gag.com/gag/a11XGRR)
  - 🚯 [Choose your own heroes to fight the darkness in Call Of Antia.](http://9gag.com/gag/amgzOGo)<!-- MEMES:END -->
 
 --- 
