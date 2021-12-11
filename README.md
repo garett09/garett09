@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How a bug in Microsoft Teams and Android 10 and above, triggered by the user not being logged in to the Teams app, may have caused 911 call fails &lpar;Mishaal Rahman&rpar;](http://www.techmeme.com/211211/p5#a211211p5)
- - [10 Great Tech Books to Gift &lpar;or Keep for Yourself&rpar;](https://www.wired.com/gallery/best-tech-books-to-gift)
- - [This Digital Bank Is Designed for the LGBTQ+ Community](https://www.wired.com/story/daylight-fintech-lgbtq)<!-- TECH:END -->
+ - [The MacBook Pro &lpar;2021&rpar; is proof the customer is always right](https://www.androidauthority.com/apple-macbook-pro-2021-review-3065561/)
+ - [Fleeing Global Warming? ‘Climate Havens’ Aren’t Ready Yet](https://www.wired.com/story/fleeing-global-warming-climate-havens-arent-ready-yet)
+ - [The Best Discord Bots for Your Server](https://www.wired.com/story/best-discord-bots)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
