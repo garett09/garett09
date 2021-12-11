@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [UFC 269 Charles Oliveira vs. Dustin Poirier: Start time, how to watch or stream online     - CNET](https://www.cnet.com/news/ufc-269-charles-oliveira-vs-dustin-poirier-start-time-how-to-watch-or-stream-online/#ftag=CAD590a51e)
- - [My UX guide: Everything you need to know about Motorola’s Android skin](https://www.androidauthority.com/motorola-my-ux-3070897/)
- - [Assembly, a new blockchain under the IOTA network focused on DeFi, NFTs, and crypto game development, raises $100M and plans to launch its token next year &lpar;Gertrude Chavez-dreyfuss/Reuters&rpar;](http://www.techmeme.com/211211/p10#a211211p10)<!-- TECH:END -->
+ - [Dune: The Sisterhood: Everything we know about the HBO Max series](https://www.androidauthority.com/dune-the-sisterhood-tv-series-3070982/)
+ - [At least two workers were confirmed dead at an Amazon warehouse hit by tornadoes in Illinois as rescuers search for other trapped workers &lpar;Reuters&rpar;](http://www.techmeme.com/211211/p11#a211211p11)
+ - [UFC 269 Charles Oliveira vs. Dustin Poirier: Start time, how to watch or stream online     - CNET](https://www.cnet.com/news/ufc-269-charles-oliveira-vs-dustin-poirier-start-time-how-to-watch-or-stream-online/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
