@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple’s concessions in China reportedly include a secret $275 billion deal and one odd change in Maps](https://www.theverge.com/2021/12/10/22826695/apple-china-mou-275-billion-tim-cook-icloud)
- - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)
- - [OnePlus pulls buggy OxygenOS 12 update](https://www.theverge.com/2021/12/10/22828553/oneplus-buggy-oxygenos-android-12-update-9-pro)<!-- TECH:END -->
+ - [Sources: Binance is in talks to set up a cryptocurrency exchange in Indonesia with PT Bank Central Asia, owned by the Hartonos, Indonesia&#39;s richest family &lpar;Bloomberg&rpar;](http://www.techmeme.com/211210/p17#a211210p17)
+ - [5 ways to give kids money and teach personal finance during the holidays     - CNET](https://www.cnet.com/news/5-ways-to-give-kids-money-and-teach-personal-finance/#ftag=CAD590a51e)
+ - [Sony planned PlayStation Now gaming service for the iPhone &amp; Android](https://appleinsider.com/articles/21/12/10/sony-planned-playstation-now-gaming-service-for-the-iphone-android?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
