@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [That stare... that Damnnnn stare](http://9gag.com/gag/a71dQYx)
- - 🚯 [Got my lights up!](http://9gag.com/gag/aM49RDV)
+ - 🚖 [Massive Tornado South Missouri](http://9gag.com/gag/aVxenKn)
+ - 🚯 [Burn that devil](http://9gag.com/gag/azeANjj)
  - 🚯 [Choose your own heroes to fight the darkness in Call Of Antia.](http://9gag.com/gag/amgzOGo)<!-- MEMES:END -->
 
 --- 
