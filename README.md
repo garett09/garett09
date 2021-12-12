@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Apple Watch alternatives you can buy](https://www.androidauthority.com/apple-watch-alternatives-3072670/)
- - [This 2021 16-inch MacBook Pro is $150 off and in stock right now &lpar;plus save $80 on AppleCare&rpar;](https://appleinsider.com/articles/21/12/07/this-2021-16-inch-macbook-pro-is-150-off-and-in-stock-right-now-plus-save-80-on-applecare?utm_medium=rss)
- - [You should consider switching to a Google Pixel     - CNET](https://www.cnet.com/tech/mobile/you-should-consider-switching-to-a-google-pixel/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [iOS 15.2 to get nudity detection for Messages, macro lens toggle, better privacy controls, and more; no digital IDs in Wallet or Universal Control for macOS yet &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/211212/p5#a211212p5)
+ - [TSMC talks to Germany about potential new chip plant](https://appleinsider.com/articles/21/12/12/tsmc-talks-to-germany-about-potential-new-chip-plant?utm_medium=rss)
+ - [Lowest price yet on the Apple Watch Series 7, and more great smartwatch deals](https://www.androidauthority.com/best-smartwatch-deals-1107833/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
