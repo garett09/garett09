@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [DraftKings signs up real NFL players to use in ‘gamified NFT collections’ next season](https://www.theverge.com/2021/12/12/22829795/nft-game-gambling-draftkings-nflpa-polygon)
- - [Super-powered Android gaming consoles are on the way, but do we need them?](https://www.androidauthority.com/android-gaming-consoles-3073935/)
- - [iPhone 11 vs. 11 Pro vs. 11 Pro Max: They&#39;re still worth it in 2021     - CNET](https://www.cnet.com/tech/mobile/apple-iphone-11-vs-iphone-11-pro-vs-iphone-11-pro-max-compared-major-differences/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Change my mind: MagSafe is awesome](https://www.androidauthority.com/magsafe-3070893/)
+ - [How to stop Alexa from ruining holiday surprises](https://www.theverge.com/22828561/how-to-stop-alexa-from-announcing-packages)
+ - [Your new iPhone 13 doesn&#39;t need a case 24/7     - CNET](https://www.cnet.com/tech/mobile/your-new-iphone-13-doesnt-need-a-case-247/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
