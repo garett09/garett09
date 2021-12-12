@@ -194,7 +194,7 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [How pills are filled with medicine](http://9gag.com/gag/adgqy4V)
- - 🚯 [My chair](http://9gag.com/gag/aog2m82)
+ - 🚯 [A man from TN India saves an injured monkey by doing CPR](http://9gag.com/gag/aGz090Z)
  - 🚯 [Some say he&amp;rsquo;s still combing&amp;hellip;](http://9gag.com/gag/aGz0YRG)<!-- MEMES:END -->
 
 --- 
