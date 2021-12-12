@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This idea has a lot of potential &lpar;energy&rpar;](http://9gag.com/gag/aqGLvYL)
- - 🚯 [Wolf scritches](http://9gag.com/gag/a51ZpNL)
- - 🚯 [Oh no. Oh no. Oh no no no no nooo](http://9gag.com/gag/aAGwBDR)<!-- MEMES:END -->
+ - 🚖 [Formu\u0142a 1 Champion 2021](http://9gag.com/gag/aAGwReL)
+ - 🚯 [Some say he&amp;rsquo;s still combing&amp;hellip;](http://9gag.com/gag/aGz0YRG)
+ - 🚯 [Indeed](http://9gag.com/gag/avAr26E)<!-- MEMES:END -->
 
 --- 
 
