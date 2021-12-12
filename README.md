@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dune: The Sisterhood: Everything we know about the HBO Max series](https://www.androidauthority.com/dune-the-sisterhood-tv-series-3070982/)
- - [At least two workers were confirmed dead at an Amazon warehouse hit by tornadoes in Illinois as rescuers search for other trapped workers &lpar;Reuters&rpar;](http://www.techmeme.com/211211/p11#a211211p11)
- - [UFC 269 Charles Oliveira vs. Dustin Poirier: Start time, how to watch or stream online     - CNET](https://www.cnet.com/news/ufc-269-charles-oliveira-vs-dustin-poirier-start-time-how-to-watch-or-stream-online/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Narendra Modi&#39;s Twitter account was briefly compromised, with a tweet claiming that India adopted bitcoin as legal tender and linking to a sketchy website &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/211211/p12#a211211p12)
+ - [Halo Infinite is getting four new playlists on December 14th — including Slayer](https://www.theverge.com/2021/12/11/22829744/halo-infinite-playlists-slayer)
+ - [Coalition for App Fairness profile reveals organizational efforts against Apple](https://appleinsider.com/articles/21/12/11/coalition-for-app-fairness-profile-reveals-organizational-efforts-against-apple?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
