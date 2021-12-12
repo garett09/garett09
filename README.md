@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Details of Assassin&#39;s Creed Valhalla DLC leak via Chinese store](https://www.pcgamer.com/details-of-assassins-creed-valhalla-dlc-leak-via-chinese-store)
- - [Here are all the free games you can grab right now](https://www.pcgamer.com/here-are-all-the-free-games-you-can-grab-right-now)
- - [Call of Juarez: Gunslinger is free-to-keep on Steam for a limited time](https://www.pcgamer.com/call-of-juarez-gunslinger-is-free-to-keep-on-steam-for-a-limited-time)<!-- GAME:END -->
+ - [The 11 Best Anime Of 2021](https://kotaku.com/the-11-best-anime-of-2021-1848196754)
+ - [The best science fiction and fantasy books of 2021](https://www.polygon.com/22822439/best-fantasy-books-sci-fi-2021)
+ - [Details of Assassin&#39;s Creed Valhalla DLC leak via Chinese store](https://www.pcgamer.com/details-of-assassins-creed-valhalla-dlc-leak-via-chinese-store)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
