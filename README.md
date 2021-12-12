@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best queen mattress in 2021     - CNET](https://www.cnet.com/health/sleep/best-queen-mattress/#ftag=CAD590a51e)
  - [UFC 269 Charles Oliveira vs. Dustin Poirier: Live updates, results     - CNET](https://www.cnet.com/news/ufc-269-charles-oliveira-vs-dustin-poirier-live-updates-results/#ftag=CAD590a51e)
- - [Best Buy&#39;s new holiday flash sale offers $13 headphones, cheap 4K TVs and more     - CNET](https://www.cnet.com/tech/home-entertainment/best-buys-new-holiday-flash-sale-offers-13-headphones-cheap-4k-tvs-and-more/#ftag=CAD590a51e)
- - [How to find the best M.2 SSD for expanding PS5 storage     - CNET](https://www.cnet.com/tech/gaming/these-m-2-ssds-will-all-work-inside-your-ps5/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [12 great gifts under $100 that you can buy now. Seriously, don&#39;t wait     - CNET](https://www.cnet.com/home/great-gifts-under-100/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
