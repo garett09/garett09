@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The 11 Best Anime Of 2021](https://kotaku.com/the-11-best-anime-of-2021-1848196754)
- - [Sunday Comics: ATTACK!!!](https://kotaku.com/sunday-comics-attack-1848201722)
- - [The best science fiction and fantasy books of 2021](https://www.polygon.com/22822439/best-fantasy-books-sci-fi-2021)<!-- GAME:END -->
+ - [Peter Molyneux&#39;s Next Game Is A &#39;Blockchain Business Sim&#39; Featuring NFTs Because The Future Sucks](https://kotaku.com/peter-molyneuxs-next-game-is-a-blockchain-business-sim-1848201920)
+ - [This week in PC Gaming: The Witcher Season 2](https://www.pcgamer.com/this-week-in-pc-gaming-the-witcher-season-2)
+ - [The 11 Best Anime Of 2021](https://kotaku.com/the-11-best-anime-of-2021-1848196754)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
