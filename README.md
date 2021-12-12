@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [What&#39;s the most frustrating puzzle you ever got stuck on?](https://www.pcgamer.com/whats-the-most-frustrating-puzzle-you-ever-got-stuck-on)
- - [Halo Infinite Finally Getting A Slayer Playlist Next Week](https://kotaku.com/halo-infinite-finally-getting-a-slayer-playlist-next-we-1848200110)
- - [The new Cities: Skylines expansion is all about big modular airports](https://www.pcgamer.com/the-new-cities-skylines-expansion-is-all-about-big-modular-airports)<!-- GAME:END -->
+ - [Here are all the free games you can grab right now](https://www.pcgamer.com/here-are-all-the-free-games-you-can-grab-right-now)
+ - [Call of Juarez: Gunslinger is free-to-keep on Steam for a limited time](https://www.pcgamer.com/call-of-juarez-gunslinger-is-free-to-keep-on-steam-for-a-limited-time)
+ - [Castle Knatterfels: Curse of the Zombie Krauts was Wolfenstein with boobs and a terrible FPS](https://www.pcgamer.com/saturday-crapshoot-castle-knatterfels-curse-of-the-zombie-krauts)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
