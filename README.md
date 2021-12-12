@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Oh no. Oh no. Oh no no no no nooo](http://9gag.com/gag/aAGwBDR)
- - 🚯 [On ya, Pete!](http://9gag.com/gag/aAGPn6o)
- - 🚯 [Sorry kiddo you need to have that experience](http://9gag.com/gag/avAr2Z5)<!-- MEMES:END -->
+ - 🚖 [Indeed](http://9gag.com/gag/avAr26E)
+ - 🚯 [Sorry kiddo you need to have that experience](http://9gag.com/gag/avAr2Z5)
+ - 🚯 [Git gud](http://9gag.com/gag/a215QOp)<!-- MEMES:END -->
 
 --- 
 
