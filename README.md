@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Demon Slayer Season 2: How to watch in the US, everything to know     - CNET](https://www.cnet.com/news/demon-slayer-season-2-how-to-watch-in-the-us-everything-to-know/#ftag=CAD590a51e)
- - [UFC 269: Amanda Nunes loses in shock upset, Oliveira defeats Poirier     - CNET](https://www.cnet.com/news/ufc-269-amanda-nunes-loses-in-shock-upset-oliveira-defeats-poirier/#ftag=CAD590a51e)
- - [Anker 637 Magnetic Charging Station &lpar;MagGo&rpar; review: Thunder ball](https://www.androidauthority.com/anker-637-magnetic-charging-station-maggo-review-3068487/)<!-- TECH:END -->
+ - [Texas Chainsaw Massacre &lpar;2022&rpar;: What we know about Leatherface’s Netflix return](https://www.androidauthority.com/texas-chainsaw-massacre-netflix-3071746/)
+ - [NFTs explained: Why people are spending millions of dollars on JPEGs     - CNET](https://www.cnet.com/news/nfts-explained-why-people-are-spending-millions-of-dollars-on-jpegs/#ftag=CAD590a51e)
+ - [And just like that… Peloton releases new ad with Ryan Reynolds after Sex and the City death     - CNET](https://www.cnet.com/news/and-just-like-that-peloton-releases-new-ad-with-ryan-reynolds-after-sex-and-the-city-death/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
