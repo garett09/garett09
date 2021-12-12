@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Details of Assassin&#39;s Creed Valhalla DLC leak via Chinese store](https://www.pcgamer.com/details-of-assassins-creed-valhalla-dlc-leak-via-chinese-store)
  - [Here are all the free games you can grab right now](https://www.pcgamer.com/here-are-all-the-free-games-you-can-grab-right-now)
- - [Call of Juarez: Gunslinger is free-to-keep on Steam for a limited time](https://www.pcgamer.com/call-of-juarez-gunslinger-is-free-to-keep-on-steam-for-a-limited-time)
- - [Castle Knatterfels: Curse of the Zombie Krauts was Wolfenstein with boobs and a terrible FPS](https://www.pcgamer.com/saturday-crapshoot-castle-knatterfels-curse-of-the-zombie-krauts)<!-- GAME:END -->
+ - [Call of Juarez: Gunslinger is free-to-keep on Steam for a limited time](https://www.pcgamer.com/call-of-juarez-gunslinger-is-free-to-keep-on-steam-for-a-limited-time)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
