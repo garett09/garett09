@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [And frogs on wednesday](http://9gag.com/gag/aE8neoK)
- - 🚯 [I know salary isn&amp;#039;t allways the thing what&amp;#039;s motivates worker, but most of the time quality = salary request.](http://9gag.com/gag/aRrexdM)
+ - 🚖 [Wolf scritches](http://9gag.com/gag/a51ZpNL)
+ - 🚯 [School isnt for everyone...](http://9gag.com/gag/aNPdmm3)
  - 🚯 [Death by snusnu](http://9gag.com/gag/aE8nej9)<!-- MEMES:END -->
 
 --- 
