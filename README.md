@@ -194,8 +194,8 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [How pills are filled with medicine](http://9gag.com/gag/adgqy4V)
- - 🚯 [Some say he&amp;rsquo;s still combing&amp;hellip;](http://9gag.com/gag/aGz0YRG)
- - 🚯 [My chair](http://9gag.com/gag/aog2m82)<!-- MEMES:END -->
+ - 🚯 [My chair](http://9gag.com/gag/aog2m82)
+ - 🚯 [Some say he&amp;rsquo;s still combing&amp;hellip;](http://9gag.com/gag/aGz0YRG)<!-- MEMES:END -->
 
 --- 
 
