@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Supply Chain Container Ships Have a Size Problem](https://www.wired.com/story/supply-chain-shipping-logistics)
- - [The Best Kindles to Take Your Library Anywhere](https://www.wired.com/gallery/best-kindle)
- - [How to Guard Against Smishing Attacks on Your Phone](https://www.wired.com/story/smishing-sms-phishing-attack-phone)<!-- TECH:END -->
+ - [Super-powered Android gaming consoles are on the way, but do we need them?](https://www.androidauthority.com/android-gaming-consoles-3073935/)
+ - [The Best Mobile Controllers for Gaming on the Go](https://www.wired.com/gallery/best-mobile-game-controllers-for-iphone-android)
+ - [Gravitational Waves Should Permanently Distort Spacetime](https://www.wired.com/story/gravitational-waves-should-permanently-distort-space-time)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
