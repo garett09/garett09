@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A man from TN India saves an injured monkey by doing CPR](http://9gag.com/gag/aGz090Z)
- - 🚯 [This is awful, but....he deserved it](http://9gag.com/gag/awz50x8)
- - 🚯 [&amp;ldquo;Toto, it&amp;rsquo;s called a motor race!&amp;rdquo; - Michael](http://9gag.com/gag/awz50nR)<!-- MEMES:END -->
+ - 🚖 [How ?!](http://9gag.com/gag/axBgNN1)
+ - 🚯 [A man from TN India saves an injured monkey by doing CPR](http://9gag.com/gag/aGz090Z)
+ - 🚯 [A normal meal in a mountain village](http://9gag.com/gag/a91WMb0)<!-- MEMES:END -->
 
 --- 
 
