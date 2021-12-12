@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Oof size high](http://9gag.com/gag/aVxDjx8)
- - 🚯 [I know salary isn&amp;#039;t allways the thing what&amp;#039;s motivates worker, but most of the time quality = salary request.](http://9gag.com/gag/aRrexdM)
- - 🚯 [Sorry kiddo you need to have that experience](http://9gag.com/gag/avAr2Z5)<!-- MEMES:END -->
+ - 🚖 [This idea has a lot of potential &lpar;energy&rpar;](http://9gag.com/gag/aqGLvYL)
+ - 🚯 [Wolf scritches](http://9gag.com/gag/a51ZpNL)
+ - 🚯 [Oh no. Oh no. Oh no no no no nooo](http://9gag.com/gag/aAGwBDR)<!-- MEMES:END -->
 
 --- 
 
