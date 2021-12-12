@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [iOS 15.2 to get nudity detection for Messages, macro lens toggle, better privacy controls, and more; no digital IDs in Wallet or Universal Control for macOS yet &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/211212/p5#a211212p5)
- - [TSMC talks to Germany about potential new chip plant](https://appleinsider.com/articles/21/12/12/tsmc-talks-to-germany-about-potential-new-chip-plant?utm_medium=rss)
- - [Lowest price yet on the Apple Watch Series 7, and more great smartwatch deals](https://www.androidauthority.com/best-smartwatch-deals-1107833/)<!-- TECH:END -->
+ - [Anker 637 Magnetic Charging Station &lpar;MagGo&rpar; review: Thunder ball](https://www.androidauthority.com/anker-637-magnetic-charging-station-maggo-review-3068487/)
+ - [Wow, this $45 fitness tracker is impressive     - CNET](https://www.cnet.com/tech/mobile/wow-this-45-fitness-tracker-is-impressive/#ftag=CAD590a51e)
+ - [Succession season 3, episode 8 cliffhanger: What happened to Kendall?     - CNET](https://www.cnet.com/news/succession-season-3-episode-8-cliffhanger-what-happened-to-kendall/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
