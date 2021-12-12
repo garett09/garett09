@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [DraftKings signs up real NFL players to use in ‘gamified NFT collections’ next season](https://www.theverge.com/2021/12/12/22829795/nft-game-gambling-draftkings-nflpa-polygon)
  - [Super-powered Android gaming consoles are on the way, but do we need them?](https://www.androidauthority.com/android-gaming-consoles-3073935/)
- - [The Best Mobile Controllers for Gaming on the Go](https://www.wired.com/gallery/best-mobile-game-controllers-for-iphone-android)
- - [Gravitational Waves Should Permanently Distort Spacetime](https://www.wired.com/story/gravitational-waves-should-permanently-distort-space-time)<!-- TECH:END -->
+ - [iPhone 11 vs. 11 Pro vs. 11 Pro Max: They&#39;re still worth it in 2021     - CNET](https://www.cnet.com/tech/mobile/apple-iphone-11-vs-iphone-11-pro-vs-iphone-11-pro-max-compared-major-differences/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
