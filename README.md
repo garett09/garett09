@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tesla hit with another lawsuit alleging sexual harassment, and retaliation by management](https://www.theverge.com/2021/12/12/22830673/tesla-sued-lawsuit-sexual-harassment-allegations)
- - [Streaming censorship: If The Beatles can swear, why can’t Harley Quinn?](https://www.androidauthority.com/streaming-censorship-3071744/)
- - [Why most people should buy a Chromebook     - CNET](https://www.cnet.com/tech/computing/why-most-people-should-buy-a-chromebook/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sony WF-C500 earbuds review: basic ain’t bad](https://www.theverge.com/22828293/sony-wf-c500-earbuds-review-features-price)
+ - [Multiple deaths confirmed after tornado hits Amazon warehouse](https://www.theverge.com/2021/12/11/22829363/amazon-warehouse-tornado-collapse-edwardsville-illinois)
+ - [Samsung names its newly merged smartphone, consumer electronics, and home appliances businesses as the DX &lpar;Device eXperience&rpar; Division &lpar;Heejin Kim/Bloomberg&rpar;](http://www.techmeme.com/211212/p4#a211212p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
