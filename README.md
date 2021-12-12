@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Indeed](http://9gag.com/gag/avAr26E)
- - 🚯 [Sorry kiddo you need to have that experience](http://9gag.com/gag/avAr2Z5)
- - 🚯 [Git gud](http://9gag.com/gag/a215QOp)<!-- MEMES:END -->
+ - 🚖 [Oof size high](http://9gag.com/gag/aVxDjx8)
+ - 🚯 [I know salary isn&amp;#039;t allways the thing what&amp;#039;s motivates worker, but most of the time quality = salary request.](http://9gag.com/gag/aRrexdM)
+ - 🚯 [Sorry kiddo you need to have that experience](http://9gag.com/gag/avAr2Z5)<!-- MEMES:END -->
 
 --- 
 
