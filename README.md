@@ -193,7 +193,7 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Yo ho !](http://9gag.com/gag/aWgMK1Z)
+ - 🚖 [It&amp;#039;s not geh](http://9gag.com/gag/aM49gVG)
  - 🚯 [Definition of the boys](http://9gag.com/gag/aVxeNRw)
  - 🚯 [Choose your own heroes to fight the darkness in Call Of Antia.](http://9gag.com/gag/amgzOGo)<!-- MEMES:END -->
 
