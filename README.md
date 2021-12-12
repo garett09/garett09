@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony WF-C500 earbuds review: basic ain’t bad](https://www.theverge.com/22828293/sony-wf-c500-earbuds-review-features-price)
- - [Multiple deaths confirmed after tornado hits Amazon warehouse](https://www.theverge.com/2021/12/11/22829363/amazon-warehouse-tornado-collapse-edwardsville-illinois)
- - [Samsung names its newly merged smartphone, consumer electronics, and home appliances businesses as the DX &lpar;Device eXperience&rpar; Division &lpar;Heejin Kim/Bloomberg&rpar;](http://www.techmeme.com/211212/p4#a211212p4)<!-- TECH:END -->
+ - [The best Apple Watch alternatives you can buy](https://www.androidauthority.com/apple-watch-alternatives-3072670/)
+ - [This 2021 16-inch MacBook Pro is $150 off and in stock right now &lpar;plus save $80 on AppleCare&rpar;](https://appleinsider.com/articles/21/12/07/this-2021-16-inch-macbook-pro-is-150-off-and-in-stock-right-now-plus-save-80-on-applecare?utm_medium=rss)
+ - [You should consider switching to a Google Pixel     - CNET](https://www.cnet.com/tech/mobile/you-should-consider-switching-to-a-google-pixel/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
