@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Yeet the bard](http://9gag.com/gag/aDDGBwB)
- - 🚯 [One big ooooffff](http://9gag.com/gag/abgZPj8)
+ - 🚖 [Got my lights up!](http://9gag.com/gag/aM49RDV)
+ - 🚯 [With added music for effect.](http://9gag.com/gag/apgLePW)
  - 🚯 [Choose your own heroes to fight the darkness in Call Of Antia.](http://9gag.com/gag/amgzOGo)<!-- MEMES:END -->
 
 --- 
