@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best cheap smartwatches: Apple Watch SE, Garmin Venu Sq, and more](https://www.androidauthority.com/best-cheap-smartwatches-3071195/)
  - [Analysis of 166 tech IPOs from 2010 to 2019: the 30 most valuable startups raised half as much capital and produced nearly 4X the value as the 30 most funded &lpar;Founder Collective&rpar;](http://www.techmeme.com/211212/p2#a211212p2)
- - [Is Wi-Fi 6 worth the upgrade?](https://www.androidauthority.com/should-i-upgrade-wi-fi-6-3069980/)
- - [Reveleer, which lets US government-sponsored health care payers analyze member and provider data, raises $65M led by Oak HC/FT &lpar;Rebecca Torrence/FierceHealthcare&rpar;](http://www.techmeme.com/211212/p1#a211212p1)<!-- TECH:END -->
+ - [Is Wi-Fi 6 worth the upgrade?](https://www.androidauthority.com/should-i-upgrade-wi-fi-6-3069980/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
