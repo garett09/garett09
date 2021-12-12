@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How pills are filled with medicine](http://9gag.com/gag/adgqy4V)
- - 🚯 [A man from TN India saves an injured monkey by doing CPR](http://9gag.com/gag/aGz090Z)
- - 🚯 [Some say he&amp;rsquo;s still combing&amp;hellip;](http://9gag.com/gag/aGz0YRG)<!-- MEMES:END -->
+ - 🚖 [Some say he&amp;rsquo;s still combing&amp;hellip;](http://9gag.com/gag/aGz0YRG)
+ - 🚯 [&amp;quot;It&amp;#039;s called racing Toto&amp;quot; - Michael Masi](http://9gag.com/gag/azerg8q)
+ - 🚯 [A man from TN India saves an injured monkey by doing CPR](http://9gag.com/gag/aGz090Z)<!-- MEMES:END -->
 
 --- 
 
