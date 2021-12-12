@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [In his defense, he did stay in character](http://9gag.com/gag/ang1LLL)
- - 🚯 [Definition of the boys](http://9gag.com/gag/aVxeNRw)
+ - 🚖 [I know what you&amp;#039;re doing.](http://9gag.com/gag/a71dz82)
+ - 🚯 [In his defense, he did stay in character](http://9gag.com/gag/ang1LLL)
  - 🚯 [Choose your own heroes to fight the darkness in Call Of Antia.](http://9gag.com/gag/amgzOGo)<!-- MEMES:END -->
 
 --- 
