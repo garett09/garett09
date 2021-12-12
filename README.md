@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to professionalize the role of Open Source maintainers as the maintainer who fixed the log4j vulnerability says he works on the project in his spare time &lpar;Filippo Valsorda/Filippo.io&rpar;](http://www.techmeme.com/211211/p13#a211211p13)
- - [6 best wine apps for Android for the wine aficionado](https://www.androidauthority.com/best-wine-apps-android-3063957/)
- - [Best showerhead for 2021     - CNET](https://www.cnet.com/home/kitchen-and-household/best-showerhead/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [UFC 269 Charles Oliveira vs. Dustin Poirier: Live updates, results     - CNET](https://www.cnet.com/news/ufc-269-charles-oliveira-vs-dustin-poirier-live-updates-results/#ftag=CAD590a51e)
+ - [Best Buy&#39;s new holiday flash sale offers $13 headphones, cheap 4K TVs and more     - CNET](https://www.cnet.com/tech/home-entertainment/best-buys-new-holiday-flash-sale-offers-13-headphones-cheap-4k-tvs-and-more/#ftag=CAD590a51e)
+ - [How to find the best M.2 SSD for expanding PS5 storage     - CNET](https://www.cnet.com/tech/gaming/these-m-2-ssds-will-all-work-inside-your-ps5/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
