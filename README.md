@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Narendra Modi&#39;s Twitter account was briefly compromised, with a tweet claiming that India adopted bitcoin as legal tender and linking to a sketchy website &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/211211/p12#a211211p12)
- - [Halo Infinite is getting four new playlists on December 14th — including Slayer](https://www.theverge.com/2021/12/11/22829744/halo-infinite-playlists-slayer)
- - [Coalition for App Fairness profile reveals organizational efforts against Apple](https://appleinsider.com/articles/21/12/11/coalition-for-app-fairness-profile-reveals-organizational-efforts-against-apple?utm_medium=rss)<!-- TECH:END -->
+ - [How to professionalize the role of Open Source maintainers as the maintainer who fixed the log4j vulnerability says he works on the project in his spare time &lpar;Filippo Valsorda/Filippo.io&rpar;](http://www.techmeme.com/211211/p13#a211211p13)
+ - [6 best wine apps for Android for the wine aficionado](https://www.androidauthority.com/best-wine-apps-android-3063957/)
+ - [Best showerhead for 2021     - CNET](https://www.cnet.com/home/kitchen-and-household/best-showerhead/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
