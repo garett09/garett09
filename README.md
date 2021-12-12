@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Got my lights up!](http://9gag.com/gag/aM49RDV)
- - 🚯 [With added music for effect.](http://9gag.com/gag/apgLePW)
- - 🚯 [Choose your own heroes to fight the darkness in Call Of Antia.](http://9gag.com/gag/amgzOGo)<!-- MEMES:END -->
+ - 🚖 [Gold from the archives &lpar;watch till the end&rpar;](http://9gag.com/gag/aZrpAGn)
+ - 🚯 [And frogs on wednesday](http://9gag.com/gag/aE8neoK)
+ - 🚯 [This is sportsmanship](http://9gag.com/gag/aogprYw)<!-- MEMES:END -->
 
 --- 
 
