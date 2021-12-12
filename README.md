@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best queen mattress in 2021     - CNET](https://www.cnet.com/health/sleep/best-queen-mattress/#ftag=CAD590a51e)
+ - [Reveleer, which lets US government-sponsored health care payers analyze member and provider data, raises $65M led by Oak HC/FT &lpar;Rebecca Torrence/FierceHealthcare&rpar;](http://www.techmeme.com/211212/p1#a211212p1)
  - [UFC 269 Charles Oliveira vs. Dustin Poirier: Live updates, results     - CNET](https://www.cnet.com/news/ufc-269-charles-oliveira-vs-dustin-poirier-live-updates-results/#ftag=CAD590a51e)
- - [12 great gifts under $100 that you can buy now. Seriously, don&#39;t wait     - CNET](https://www.cnet.com/home/great-gifts-under-100/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best OBD2 scanners for 2021     - Roadshow](https://www.cnet.com/roadshow/news/best-obd2-scanners/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
