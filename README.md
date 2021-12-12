@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best deals Dec. 12: $25 AirTag, $50 Echo Show and Blink bundle, and more!](https://appleinsider.com/articles/21/12/12/best-deals-dec-12-25-airtag-50-echo-show-and-blink-bundle-and-more?utm_medium=rss)
- - [Salesforce Chief Revenue Officer admits the MuleSoft unit is &quot;going through a bit of a rough patch&quot;, amid a wave of high-level departures, sales growth slowdown &lpar;Joe Williams/Bloomberg&rpar;](http://www.techmeme.com/211212/p3#a211212p3)
- - [Change my mind: MagSafe is awesome](https://www.androidauthority.com/magsafe-3070893/)<!-- TECH:END -->
+ - [Tesla hit with another lawsuit alleging sexual harassment, and retaliation by management](https://www.theverge.com/2021/12/12/22830673/tesla-sued-lawsuit-sexual-harassment-allegations)
+ - [Streaming censorship: If The Beatles can swear, why can’t Harley Quinn?](https://www.androidauthority.com/streaming-censorship-3071744/)
+ - [Why most people should buy a Chromebook     - CNET](https://www.cnet.com/tech/computing/why-most-people-should-buy-a-chromebook/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
