@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Gold from the archives &lpar;watch till the end&rpar;](http://9gag.com/gag/aZrpAGn)
- - 🚯 [And frogs on wednesday](http://9gag.com/gag/aE8neoK)
- - 🚯 [This is sportsmanship](http://9gag.com/gag/aogprYw)<!-- MEMES:END -->
+ - 🚖 [And frogs on wednesday](http://9gag.com/gag/aE8neoK)
+ - 🚯 [I know salary isn&amp;#039;t allways the thing what&amp;#039;s motivates worker, but most of the time quality = salary request.](http://9gag.com/gag/aRrexdM)
+ - 🚯 [Death by snusnu](http://9gag.com/gag/aE8nej9)<!-- MEMES:END -->
 
 --- 
 
