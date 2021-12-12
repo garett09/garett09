@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [A Decade Ago, Epic Announced Fortnite And A Lot Has Changed Since Then](https://kotaku.com/a-decade-ago-epic-announced-fortnite-and-a-lot-has-cha-1848199915)
- - [The biomechanical terrors of Scorn will release next fall](https://www.pcgamer.com/the-biomechanical-terrors-of-scorn-will-release-next-fall)
- - [We Live In Hell And This Ubisoft NFT That Requires You To Play 600+ Hours Of Ghost Recon Is Proof](https://kotaku.com/we-live-in-hell-and-this-ubisoft-nft-that-requires-you-1848202326)<!-- GAME:END -->
+ - [The Week In Games: Yay, More Shovel Knight](https://kotaku.com/the-week-in-games-yay-more-shovel-knight-1848202777)
+ - [Co-op horror shooter GTFO reaches a skin-crawling, claustrophobic release](https://www.pcgamer.com/co-op-horror-shooter-gtfo-reaches-a-skin-crawling-claustrophobic-release)
+ - [The original GTA&#39;s tank was a pedestrian bolted onto a car](https://www.pcgamer.com/the-original-gtas-tank-was-a-pedestrian-bolted-onto-a-car)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
