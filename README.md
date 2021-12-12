@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Details of Assassin&#39;s Creed Valhalla DLC leak via Chinese store](https://www.pcgamer.com/details-of-assassins-creed-valhalla-dlc-leak-via-chinese-store)
- - [Here are all the free games you can grab right now](https://www.pcgamer.com/here-are-all-the-free-games-you-can-grab-right-now)
- - [Call of Juarez: Gunslinger is free-to-keep on Steam for a limited time](https://www.pcgamer.com/call-of-juarez-gunslinger-is-free-to-keep-on-steam-for-a-limited-time)<!-- GAME:END -->
+ - [Halo Infinite Finally Getting A Slayer Playlist Next Week](https://kotaku.com/halo-infinite-finally-getting-a-slayer-playlist-next-we-1848200110)
+ - [Assassin&#39;s Creed Valhalla&#39;s Next Big DLC Leaked Ahead Of Official Reveal](https://kotaku.com/assassins-creed-valhallas-next-big-dlc-leaked-ahead-of-1848199977)
+ - [All Hail The Giant Sandwich, Halo Infinite&#39;s Weirdest Easter Egg](https://kotaku.com/all-hail-the-giant-sandwich-halo-infinites-weirdest-ea-1848199525)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
