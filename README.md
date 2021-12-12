@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dyson’s new air purifier convinced me that sometimes it’s worth paying a premium](https://www.androidauthority.com/dyson-pure-hot-and-cool-hp07-review-3069607/)
- - [A $45 fitness tracker that checks almost all the boxes     - CNET](https://www.cnet.com/tech/mobile/45-dollar-mi-band-6-fitness-tracker-checks-almost-boxes/#ftag=CAD590a51e)
- - [The best cheap smartwatches: Apple Watch SE, Garmin Venu Sq, and more](https://www.androidauthority.com/best-cheap-smartwatches-3071195/)<!-- TECH:END -->
+ - [Supply Chain Container Ships Have a Size Problem](https://www.wired.com/story/supply-chain-shipping-logistics)
+ - [The Best Kindles to Take Your Library Anywhere](https://www.wired.com/gallery/best-kindle)
+ - [How to Guard Against Smishing Attacks on Your Phone](https://www.wired.com/story/smishing-sms-phishing-attack-phone)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
