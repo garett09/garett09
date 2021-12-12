@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Dyson’s new air purifier convinced me that sometimes it’s worth paying a premium](https://www.androidauthority.com/dyson-pure-hot-and-cool-hp07-review-3069607/)
  - [A $45 fitness tracker that checks almost all the boxes     - CNET](https://www.cnet.com/tech/mobile/45-dollar-mi-band-6-fitness-tracker-checks-almost-boxes/#ftag=CAD590a51e)
- - [The best cheap smartwatches: Apple Watch SE, Garmin Venu Sq, and more](https://www.androidauthority.com/best-cheap-smartwatches-3071195/)
- - [Analysis of 166 tech IPOs from 2010 to 2019: the 30 most valuable startups raised half as much capital and produced nearly 4X the value as the 30 most funded &lpar;Founder Collective&rpar;](http://www.techmeme.com/211212/p2#a211212p2)<!-- TECH:END -->
+ - [The best cheap smartwatches: Apple Watch SE, Garmin Venu Sq, and more](https://www.androidauthority.com/best-cheap-smartwatches-3071195/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
