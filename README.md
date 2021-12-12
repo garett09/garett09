@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [We Live In Hell And This Ubisoft NFT That Requires You To Play 600+ Hours Of Ghost Recon Is Proof](https://kotaku.com/we-live-in-hell-and-this-ubisoft-nft-that-requires-you-1848202326)
  - [Peter Molyneux&#39;s Next Game Is A &#39;Blockchain Business Sim&#39; Featuring NFTs Because The Future Sucks](https://kotaku.com/peter-molyneuxs-next-game-is-a-blockchain-business-sim-1848201920)
- - [This week in PC Gaming: The Witcher Season 2](https://www.pcgamer.com/this-week-in-pc-gaming-the-witcher-season-2)
- - [The 11 Best Anime Of 2021](https://kotaku.com/the-11-best-anime-of-2021-1848196754)<!-- GAME:END -->
+ - [This week in PC Gaming: The Witcher Season 2](https://www.pcgamer.com/this-week-in-pc-gaming-the-witcher-season-2)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
