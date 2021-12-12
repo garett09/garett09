@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [We Live In Hell And This Ubisoft NFT That Requires You To Play 600+ Hours Of Ghost Recon Is Proof](https://kotaku.com/we-live-in-hell-and-this-ubisoft-nft-that-requires-you-1848202326)
- - [Peter Molyneux&#39;s Next Game Is A &#39;Blockchain Business Sim&#39; Featuring NFTs Because The Future Sucks](https://kotaku.com/peter-molyneuxs-next-game-is-a-blockchain-business-sim-1848201920)
- - [The 11 Best Anime Of 2021](https://kotaku.com/the-11-best-anime-of-2021-1848196754)<!-- GAME:END -->
+ - [A Decade Ago, Epic Announced Fortnite And A Lot Has Changed Since Then](https://kotaku.com/a-decade-ago-epic-announced-fortnite-and-a-lot-has-cha-1848199915)
+ - [The biomechanical terrors of Scorn will release next fall](https://www.pcgamer.com/the-biomechanical-terrors-of-scorn-will-release-next-fall)
+ - [We Live In Hell And This Ubisoft NFT That Requires You To Play 600+ Hours Of Ghost Recon Is Proof](https://kotaku.com/we-live-in-hell-and-this-ubisoft-nft-that-requires-you-1848202326)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
