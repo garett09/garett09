@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Looking at you, Netflix.](http://9gag.com/gag/avAnNjW)
- - 🚯 [I know what you&amp;#039;re doing.](http://9gag.com/gag/a71dz82)
+ - 🚖 [Yo ho !](http://9gag.com/gag/aWgMK1Z)
+ - 🚯 [Definition of the boys](http://9gag.com/gag/aVxeNRw)
  - 🚯 [Choose your own heroes to fight the darkness in Call Of Antia.](http://9gag.com/gag/amgzOGo)<!-- MEMES:END -->
 
 --- 
