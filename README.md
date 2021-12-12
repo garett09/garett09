@@ -180,8 +180,8 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- GAME:START -->
  - [The 11 Best Anime Of 2021](https://kotaku.com/the-11-best-anime-of-2021-1848196754)
- - [The best science fiction and fantasy books of 2021](https://www.polygon.com/22822439/best-fantasy-books-sci-fi-2021)
- - [Details of Assassin&#39;s Creed Valhalla DLC leak via Chinese store](https://www.pcgamer.com/details-of-assassins-creed-valhalla-dlc-leak-via-chinese-store)<!-- GAME:END -->
+ - [Sunday Comics: ATTACK!!!](https://kotaku.com/sunday-comics-attack-1848201722)
+ - [The best science fiction and fantasy books of 2021](https://www.polygon.com/22822439/best-fantasy-books-sci-fi-2021)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
