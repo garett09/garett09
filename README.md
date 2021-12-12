@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Wolf scritches](http://9gag.com/gag/a51ZpNL)
- - 🚯 [School isnt for everyone...](http://9gag.com/gag/aNPdmm3)
- - 🚯 [Death by snusnu](http://9gag.com/gag/aE8nej9)<!-- MEMES:END -->
+ - 🚖 [Oh no. Oh no. Oh no no no no nooo](http://9gag.com/gag/aAGwBDR)
+ - 🚯 [On ya, Pete!](http://9gag.com/gag/aAGPn6o)
+ - 🚯 [Sorry kiddo you need to have that experience](http://9gag.com/gag/avAr2Z5)<!-- MEMES:END -->
 
 --- 
 
