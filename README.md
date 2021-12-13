@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Karma!!!](http://9gag.com/gag/aegYpPj)
- - 🚯 [Why](http://9gag.com/gag/aegYGQB)
- - 🚯 [Going places](http://9gag.com/gag/aWg8ObA)<!-- MEMES:END -->
+ - 🚖 [The way this digital painting is made](http://9gag.com/gag/aVxDPyP)
+ - 🚯 [Remebering The Harlem Globetrotters,](http://9gag.com/gag/a71ZbYw)
+ - 🚯 [She did not expect this guy to be such a chad](http://9gag.com/gag/aggqVR1)<!-- MEMES:END -->
 
 --- 
 
