@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Best TV Streaming Devices for Cord Cutters](https://www.wired.com/gallery/best-4k-streaming-devices)
- - [Existing laws and the threat of regulation can force tech giants to open up, as recent right to repair-related changes by Apple and Microsoft show &lpar;Zephyr Teachout/New Republic&rpar;](http://www.techmeme.com/211213/p2#a211213p2)
- - [5 best Kakuro games for Android](https://www.androidauthority.com/best-kakuro-games-android-3071257/)<!-- TECH:END -->
+ - [Learn about your dog&#39;s DNA with these discounted testing kits at Chewy     - CNET](https://www.cnet.com/home/kitchen-and-household/learn-about-your-dogs-dna-with-these-discounted-testing-kits-at-chewy/#ftag=CAD590a51e)
+ - [You told us: The Oppo Find N smartphone display is a winner](https://www.androidauthority.com/oppo-find-n-smartphone-display-poll-results-3074615/)
+ - [Peloton responds to surprise death in And Just Like That... with new commercial](https://www.theverge.com/2021/12/13/22831861/peloton-and-just-like-that-big-commercial-response)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
