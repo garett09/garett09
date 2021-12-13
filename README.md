@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Jennifer Connelly, 51 years old today](http://9gag.com/gag/arnOp97)
- - 🚯 [Let&amp;#039;s see who is old enough](http://9gag.com/gag/aYrKpqV)
- - 🚯 [Vampires](http://9gag.com/gag/a91WLA1)<!-- MEMES:END -->
+ - 🚖 [Audi idiot vs river](http://9gag.com/gag/aE8RG5M)
+ - 🚯 [Congratulations Max Verstappen](http://9gag.com/gag/aWg8Zz2)
+ - 🚯 [Blaming the victim](http://9gag.com/gag/aGz0wgn)<!-- MEMES:END -->
 
 --- 
 
