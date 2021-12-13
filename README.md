@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Critical &#39;Log4J&#39; Java flaw being used to deliver malware, crypto-miners](https://appleinsider.com/articles/21/12/13/critical-log4j-java-flaw-being-used-to-deliver-malware-crypto-miners?utm_medium=rss)
- - [$300,000 Bored Ape NFT sold for $3,000 because of misplaced decimal point](https://www.theverge.com/2021/12/13/22832146/bored-ape-nft-accidentally-sold-300000-fat-finger)
- - [Save 91% on a Lifetime Learning Bundle with Rosetta Stone, now on sale for $161](https://appleinsider.com/articles/21/12/11/save-91-on-a-lifetime-learning-bundle-with-rosetta-stone-now-on-sale-for-161?utm_medium=rss)<!-- TECH:END -->
+ - [Apple TV+ orders first Russian-language series &#39;Container&#39;](https://appleinsider.com/articles/21/12/13/apple-tv-orders-first-russian-language-series-container?utm_medium=rss)
+ - [Adobe launches Creative Cloud Express, a mobile and web app to help create social media content, available for free or $9.99/month with more advanced templates &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/211213/p15#a211213p15)
+ - [How to sign a PDF on a Mac](https://appleinsider.com/articles/21/01/04/how-to-sign-a-pdf-on-a-mac?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
