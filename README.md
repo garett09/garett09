@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Researchers spot waves of attacks targeting unpatched Apache servers with the Log4j bug, exfiltrating data, spreading botnets, installing crypto miners, more &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/211212/p7#a211212p7)
- - [Toyota is going to make you pay to start your car with your key fob](https://www.theverge.com/2021/12/12/22831105/toyota-subscription-remote-start-key-fob)
- - [Nuvocargo, a logistics software startup focused on moving cargo between Mexico and the US, raises $20.5M at a $180M post-money valuation, up from $70M in April &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/211212/p6#a211212p6)<!-- TECH:END -->
+ - [What do Alexa’s colored rings mean?](https://www.androidauthority.com/what-do-alexa-colored-rings-mean-3069985/)
+ - [Best movies 2021: No Time to Die, Coda, King Richard, more     - CNET](https://www.cnet.com/news/best-movies-2021-no-time-to-die-coda-king-richard-more/#ftag=CAD590a51e)
+ - [Best Buy&#39;s holiday flash sale final hours: Save on headphones, laptops, 4K TVs and more     - CNET](https://www.cnet.com/tech/home-entertainment/best-buys-new-holiday-flash-sale-offers-13-headphones-cheap-4k-tvs-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
