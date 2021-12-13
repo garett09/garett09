@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Assassin’s Creed Valhalla expansion sends Eivor into a war of flame and ice](https://www.polygon.com/22832496/assassins-creed-valhalla-dawn-of-ragnarok-eivor-dlc-expansion-ubisoft-odyssey)
- - [Call of Duty celebrates the holidays with Festive Fervor starting December 17](https://blog.playstation.com/2021/12/13/call-of-duty-celebrates-the-holidays-with-festive-fervor-starting-december-17/)
- - [Call of Duty celebrates the holidays with Festive Fervor starting December 17](https://blog.playstation.com/2021/12/13/call-of-duty-celebrates-the-holidays-with-festive-fervor-starting-december-17/)<!-- GAME:END -->
+ - [YouTubers Are Making Roblox Sound Even Shadier Than Before](https://kotaku.com/youtubers-are-making-roblox-sound-even-shadier-than-bef-1848206464)
+ - [Henry Cavill &#39;dreaming&#39; of starring in a live-action Warhammer adaptation](https://www.pcgamer.com/henry-cavill-dreaming-of-starring-in-a-live-action-warhammer-adaptation)
+ - [Assassin’s Creed Valhalla expansion sends Eivor into a war of flame and ice](https://www.polygon.com/22832496/assassins-creed-valhalla-dawn-of-ragnarok-eivor-dlc-expansion-ubisoft-odyssey)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
