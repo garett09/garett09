@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When you forget who you came with](http://9gag.com/gag/aM4wGrV)
- - 🚯 [Assassin&amp;#039;s Creed India....](http://9gag.com/gag/aBnwrrD)
- - 🚯 [Karma!!!](http://9gag.com/gag/aegYpPj)<!-- MEMES:END -->
+ - 🚖 [Best Ref in Sports the Man Event Himself, Steve Willis](http://9gag.com/gag/axBgjd1)
+ - 🚯 [Karma!!!](http://9gag.com/gag/aegYpPj)
+ - 🚯 [Close call..](http://9gag.com/gag/a71Zbrm)<!-- MEMES:END -->
 
 --- 
 
