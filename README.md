@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What more could you want?](http://9gag.com/gag/a0ZdjvZ)
- - 🚯 [She did not expect this guy to be such a chad](http://9gag.com/gag/aggqVR1)
- - 🚯 [Surprise mf](http://9gag.com/gag/a11dMgD)<!-- MEMES:END -->
+ - 🚖 [I wanna play!!!](http://9gag.com/gag/aOQdV0E)
+ - 🚯 [Surprise mf](http://9gag.com/gag/a11dMgD)
+ - 🚯 [Very satisfying](http://9gag.com/gag/aZrBMB6)<!-- MEMES:END -->
 
 --- 
 
