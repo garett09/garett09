@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Texas Chainsaw Massacre &lpar;2022&rpar;: What we know about Leatherface’s Netflix return](https://www.androidauthority.com/texas-chainsaw-massacre-netflix-3071746/)
- - [NFTs explained: Why people are spending millions of dollars on JPEGs     - CNET](https://www.cnet.com/news/nfts-explained-why-people-are-spending-millions-of-dollars-on-jpegs/#ftag=CAD590a51e)
- - [And just like that… Peloton releases new ad with Ryan Reynolds after Sex and the City death     - CNET](https://www.cnet.com/news/and-just-like-that-peloton-releases-new-ad-with-ryan-reynolds-after-sex-and-the-city-death/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Researchers spot waves of attacks targeting unpatched Apache servers with the Log4j bug, exfiltrating data, spreading botnets, installing crypto miners, more &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/211212/p7#a211212p7)
+ - [Toyota is going to make you pay to start your car with your key fob](https://www.theverge.com/2021/12/12/22831105/toyota-subscription-remote-start-key-fob)
+ - [Nuvocargo, a logistics software startup focused on moving cargo between Mexico and the US, raises $20.5M at a $180M post-money valuation, up from $70M in April &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/211212/p6#a211212p6)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
