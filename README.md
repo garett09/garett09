@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Week In Games: Yay, More Shovel Knight](https://kotaku.com/the-week-in-games-yay-more-shovel-knight-1848202777)
- - [Co-op horror shooter GTFO reaches a skin-crawling, claustrophobic release](https://www.pcgamer.com/co-op-horror-shooter-gtfo-reaches-a-skin-crawling-claustrophobic-release)
- - [The original GTA&#39;s tank was a pedestrian bolted onto a car](https://www.pcgamer.com/the-original-gtas-tank-was-a-pedestrian-bolted-onto-a-car)<!-- GAME:END -->
+ - [Final Fantasy 7 Remake Intergrade system requirements](https://www.pcgamer.com/final-fantasy-7-remake-intergrade-system-requirements)
+ - [Top-Seeded Halo Pro Accused Of Cheating, Suspended](https://kotaku.com/top-seeded-halo-pro-accused-of-cheating-suspended-1848202966)
+ - [The Razer BlackShark V2 X is 50 percent off at Amazon Australia](https://www.pcgamer.com/the-razer-blackshark-v2-x-is-50-percent-off-at-amazon-australia)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
