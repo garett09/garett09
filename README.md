@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Google pushes back against a 1 million strong botnet](https://www.pcgamer.com/google-pushes-back-against-a-1-million-strong-botnet)
  - [GPU maker PowerColor joins forces with Ducky for new keyboard](https://www.pcgamer.com/gpu-maker-powercolor-joins-forces-with-ducky-for-new-keyboard)
- - [Microsoft is trying to entice pirates to turn towards the light](https://www.pcgamer.com/microsoft-is-trying-to-entice-pirates-to-turn-towards-the-light)
- - [Windows 11 insider preview brings dark mode to notepad](https://www.pcgamer.com/windows-11-insider-preview-brings-dark-mode-to-notepad)<!-- GAME:END -->
+ - [Microsoft is trying to entice pirates to turn towards the light](https://www.pcgamer.com/microsoft-is-trying-to-entice-pirates-to-turn-towards-the-light)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
