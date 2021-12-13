@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Lenovo inadvertently lists the AMD RX 6500 XT](https://www.pcgamer.com/lenovo-inadvertently-lists-the-amd-rx-6500-xt)
- - [Google pushes back against a 1 million strong botnet](https://www.pcgamer.com/google-pushes-back-against-a-1-million-strong-botnet)
- - [GPU maker PowerColor joins forces with Ducky for new keyboard](https://www.pcgamer.com/gpu-maker-powercolor-joins-forces-with-ducky-for-new-keyboard)<!-- GAME:END -->
+ - [Shin Ultraman Will Beam Into Japanese Theaters In May 2022](https://kotaku.com/shin-ultraman-will-beam-into-japanese-theaters-in-may-2-1848204009)
+ - [This weird disk robot moves like a beached magikarp](https://www.pcgamer.com/this-weird-disk-robot-moves-like-a-beached-magikarp)
+ - [Lenovo inadvertently lists the AMD RX 6500 XT](https://www.pcgamer.com/lenovo-inadvertently-lists-the-amd-rx-6500-xt)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
