@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I was at grocery store when I ...](http://9gag.com/gag/a91WWP0)
- - 🚯 [True dat](http://9gag.com/gag/aegYY9b)
- - 🚯 [It ain&amp;#039;t much but it&amp;#039;s s honest life](http://9gag.com/gag/amgrrxX)<!-- MEMES:END -->
+ - 🚖 [True dat](http://9gag.com/gag/aegYY9b)
+ - 🚯 [He has a point&amp;hellip;](http://9gag.com/gag/aPZMBwq)
+ - 🚯 [Get it grandma](http://9gag.com/gag/a71ZZnm)<!-- MEMES:END -->
 
 --- 
 
