@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [&lpar;For Southeast Asia&rpar; New DualSense wireless controller colors arrive next month, followed by new PS5 console covers](https://blog.playstation.com/2021/12/13/20211213-ps5/)
- - [New DualSense wireless controller colors arrive next month, followed by new PS5 console covers](https://blog.playstation.com/2021/12/13/new-dualsense-wireless-controller-colors-arrive-next-month-followed-by-new-ps5-console-covers/)
- - [The best high refresh rate monitors](https://www.pcgamer.com/best-high-refresh-rate-monitor-for-gaming)<!-- GAME:END -->
+ - [Power On: The Story of Xbox Releases Today](https://news.xbox.com/en-us/2021/12/13/xbox-docuseries-power-on-release/)
+ - [Unsighted is an exquisite fight for survival](https://www.polygon.com/22828102/unsighted-game-of-the-year-goty-exquisite-fight-for-survival-metroidvania-switch)
+ - [Forspoken makes spellcasting look magical for once](https://www.pcgamer.com/forspoken-makes-spellcasting-look-magical-for-once)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
