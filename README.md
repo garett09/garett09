@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft is now selling an Xbox Red Ring of Death poster for $24.99](https://www.theverge.com/2021/12/13/22832667/microsoft-xbox-red-ring-of-death-poster-power-on-docuseries)
- - [New Apple Card promotion will give $75 to new users, nothing to referrers](https://appleinsider.com/articles/21/12/13/apple-to-give-75-to-new-apple-card-holders-referred-by-current-users?utm_medium=rss)
- - [Bill Nye on embracing scientific reasoning: &#39;We would be done with this pandemic&#39;     - CNET](https://www.cnet.com/news/bill-nye-on-embracing-scientific-reasoning-we-would-be-done-with-this-pandemic/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: Apple management-training chief Joel Podolny, who worked with Steve Jobs to create Apple University, left earlier this year to join a startup &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/211213/p21#a211213p21)
+ - [Apple releases iOS 15.2 with App Privacy Report, Digital Legacy, and more](https://www.theverge.com/2021/12/13/22828226/apple-ios-15-2-iphone-update-digital-legacy-music-macro-app-privacy)
+ - [TikTok’s 2021 music recap says it’s getting even better at creating billion-listen megahits](https://www.theverge.com/2021/12/13/22832231/tiktok-2021-roundup-music-songs)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
