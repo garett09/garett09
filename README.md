@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OSHA opens investigation into fatal Amazon warehouse collapse in Illinois](https://www.theverge.com/2021/12/13/22833012/amazon-fatal-warehouse-collapse-osha-investigation-illinois-tornado)
- - [The best gaming keyboards you can buy](https://www.androidauthority.com/best-gaming-keyboards-3057475/)
- - [Instagram’s new Reels Visual Replies are just another feature copied from TikTok](https://www.theverge.com/2021/12/13/22832529/instagram-reels-visual-replies-feature-tiktok-copy)<!-- TECH:END -->
+ - [Meta says it has acquired the worldwide trademark assets of US regional bank Meta Financial Group for $60M in cash through a company called Beige Key &lpar;Reuters&rpar;](http://www.techmeme.com/211213/p26#a211213p26)
+ - [Apple releases iOS 15.2 &amp; iPadOS 15.2 with legacy contacts, Apple Music Voice, more](https://appleinsider.com/articles/21/12/13/apple-releases-ios-152-ipados-152-with-airtag-privacy-features-apple-music-voice-and-more?utm_medium=rss)
+ - [Sources: Amazon&#39;s Instacart rival, internally called Fresh Marketplace, will expand to the US and Europe in 2022 following its recent UK debut &lpar;The Information&rpar;](http://www.techmeme.com/211213/p25#a211213p25)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
