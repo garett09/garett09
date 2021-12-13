@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Old-school potato slicer at a hotdog joint in Chicago](http://9gag.com/gag/a91WMN1)
- - 🚯 [How strong is a Wild Boar](http://9gag.com/gag/aOQdyQr)
+ - 🚖 [Vampires](http://9gag.com/gag/a91WLA1)
+ - 🚯 [A normal meal in a mountain village](http://9gag.com/gag/a91WMb0)
  - 🚯 [Max Verstappen as a child with his idol, Michael Schumacher.](http://9gag.com/gag/aE8RGMx)<!-- MEMES:END -->
 
 --- 
