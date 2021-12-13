@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The 13 best holiday gifts for dads in 2021     - CNET](https://www.cnet.com/home/2021-holiday-gifts-for-dads/#ftag=CAD590a51e)
  - [MGM Resorts aims to reduce staff churn by having job seekers try out roles with VR, even simulations with tough customers, starting in Jan. with Strivr headsets &lpar;Grace Dean/Insider&rpar;](http://www.techmeme.com/211212/p8#a211212p8)
- - [Disney Plus: 10 of the absolute best Christmas movies to watch     - CNET](https://www.cnet.com/news/disney-plus-10-of-the-absolute-best-christmas-movies-to-watch/#ftag=CAD590a51e)
- - [The absolute best Christmas movie that most people haven&#39;t seen     - CNET](https://www.cnet.com/news/the-absolute-best-christmas-movie-that-most-people-havent-seen/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [18 holiday gifts under $25: Stuff your stockings without going broke     - CNET](https://www.cnet.com/news/stocking-stuffers-15-great-gifts-for-25-or-less/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
