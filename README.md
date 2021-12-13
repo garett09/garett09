@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [In an interview, Meta&#39;s Andrew Bosworth says political and COVID-19 misinformation are societal problems, not issues that have been magnified by social networks &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/211213/p13#a211213p13)
- - [Green Monday deals: M1 Mac mini $569, Apple Watch sale, MacBook Pro discounts, iMac bargains](https://appleinsider.com/articles/21/12/13/green-monday-deals-m1-mac-mini-569-apple-watch-sale-macbook-pro-discounts-imac-bargains?utm_medium=rss)
- - [Microsoft’s Surface Laptop Studio is $200 off for the first time at Best Buy](https://www.theverge.com/good-deals/2021/12/13/22831972/microsoft-surface-laptop-studio-best-buy-samsung-qled-neo-qled-tv-laptop-deal-sale)<!-- TECH:END -->
+ - [Critical &#39;Log4J&#39; Java flaw being used to deliver malware, crypto-miners](https://appleinsider.com/articles/21/12/13/critical-log4j-java-flaw-being-used-to-deliver-malware-crypto-miners?utm_medium=rss)
+ - [$300,000 Bored Ape NFT sold for $3,000 because of misplaced decimal point](https://www.theverge.com/2021/12/13/22832146/bored-ape-nft-accidentally-sold-300000-fat-finger)
+ - [Save 91% on a Lifetime Learning Bundle with Rosetta Stone, now on sale for $161](https://appleinsider.com/articles/21/12/11/save-91-on-a-lifetime-learning-bundle-with-rosetta-stone-now-on-sale-for-161?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
