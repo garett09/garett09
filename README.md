@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Final Fantasy VII Remake Is $70 On PC And People Are Freaking Out](https://kotaku.com/final-fantasy-vii-remake-is-70-on-pc-and-people-are-fr-1848207946)
- - [Wonder Woman has a girlfriend, but needs one in canon](https://www.polygon.com/2021/12/13/22827920/wonder-woman-gay-supergirl-dc-comics)
- - [Assassin&#39;s Creed Valhalla: Dawn of Ragnarok is confirmed for March](https://www.pcgamer.com/details-of-assassins-creed-valhalla-dlc-leak-via-chinese-store)<!-- GAME:END -->
+ - [Netflix&#39;s Next Live-Action Victim Is Mega Man](https://kotaku.com/netflixs-next-live-action-victim-is-mega-man-1848208454)
+ - [Square Enix’s Forspoken sends a New Yorker to a Final Fantasy-like world](https://www.polygon.com/22665475/square-enix-forspoken-preview)
+ - [Game Pass Ruled 2021, Giving Us A Glimpse Of An Xbox-Less Future](https://kotaku.com/game-pass-ruled-2021-giving-us-a-glimpse-of-an-xbox-le-1848207698)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
