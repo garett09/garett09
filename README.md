@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I wanna play!!!](http://9gag.com/gag/aOQdV0E)
- - 🚯 [Surprise mf](http://9gag.com/gag/a11dMgD)
- - 🚯 [Very satisfying](http://9gag.com/gag/aZrBMB6)<!-- MEMES:END -->
+ - 🚖 [I was at grocery store when I ...](http://9gag.com/gag/a91WWP0)
+ - 🚯 [True dat](http://9gag.com/gag/aegYY9b)
+ - 🚯 [It ain&amp;#039;t much but it&amp;#039;s s honest life](http://9gag.com/gag/amgrrxX)<!-- MEMES:END -->
 
 --- 
 
