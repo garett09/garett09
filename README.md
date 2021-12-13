@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Game Awards 2021, fast becoming a major industry event, saw stars from gaming and Hollywood assemble for a long-delayed reunion on December 9 &lpar;Kellen Browning/New York Times&rpar;](http://www.techmeme.com/211213/p8#a211213p8)
- - [Eve Room, Rio Arc review, and the best doorbell cameras on HomeKit Insider](https://appleinsider.com/articles/21/12/13/eve-room-rio-arc-review-and-the-best-doorbell-cameras-on-homekit-insider?utm_medium=rss)
- - [DJI&#39;s Excellent Mavic 3 Is on Another Plane](https://www.wired.com/review/dji-mavic-3)<!-- TECH:END -->
+ - [In an interview, Meta&#39;s Andrew Bosworth says political and COVID-19 misinformation are societal problems, not issues that have been magnified by social networks &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/211213/p13#a211213p13)
+ - [Green Monday deals: M1 Mac mini $569, Apple Watch sale, MacBook Pro discounts, iMac bargains](https://appleinsider.com/articles/21/12/13/green-monday-deals-m1-mac-mini-569-apple-watch-sale-macbook-pro-discounts-imac-bargains?utm_medium=rss)
+ - [Microsoft’s Surface Laptop Studio is $200 off for the first time at Best Buy](https://www.theverge.com/good-deals/2021/12/13/22831972/microsoft-surface-laptop-studio-best-buy-samsung-qled-neo-qled-tv-laptop-deal-sale)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
