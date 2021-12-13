@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [World shattered](http://9gag.com/gag/a71Zbbr)
- - 🚯 [That time Brock Lesnar shook hands with the kid who beat his son in a wrestling match](http://9gag.com/gag/a71ZbwL)
+ - 🚖 [That time Brock Lesnar shook hands with the kid who beat his son in a wrestling match](http://9gag.com/gag/a71ZbwL)
+ - 🚯 [Instant regret....](http://9gag.com/gag/a81pYg3)
  - 🚯 [I wish i was a spaghetti](http://9gag.com/gag/a41ZLYd)<!-- MEMES:END -->
 
 --- 
