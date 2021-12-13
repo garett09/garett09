@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [When you forget who you came with](http://9gag.com/gag/aM4wGrV)
- - 🚯 [What more could you want?](http://9gag.com/gag/a0ZdjvZ)
- - 🚯 [They see me rollin...](http://9gag.com/gag/a317Lm8)<!-- MEMES:END -->
+ - 🚖 [Seat Positions](http://9gag.com/gag/a81p4bd)
+ - 🚯 [They see me rollin...](http://9gag.com/gag/a317Lm8)
+ - 🚯 [What more could you want?](http://9gag.com/gag/a0ZdjvZ)<!-- MEMES:END -->
 
 --- 
 
