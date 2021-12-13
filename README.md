@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Learn about your dog&#39;s DNA with these discounted testing kits at Chewy     - CNET](https://www.cnet.com/home/kitchen-and-household/learn-about-your-dogs-dna-with-these-discounted-testing-kits-at-chewy/#ftag=CAD590a51e)
- - [You told us: The Oppo Find N smartphone display is a winner](https://www.androidauthority.com/oppo-find-n-smartphone-display-poll-results-3074615/)
- - [Peloton responds to surprise death in And Just Like That... with new commercial](https://www.theverge.com/2021/12/13/22831861/peloton-and-just-like-that-big-commercial-response)<!-- TECH:END -->
+ - [Honda shows new Civic Type R testing at Suzuka     - Roadshow](https://www.cnet.com/roadshow/news/honda-civic-type-r-hatchback-testing-suzuka/#ftag=CAD590a51e)
+ - [This Marvel Game Soundtrack Has an Epic Origin Story](https://www.wired.com/story/guardians-of-the-galaxy-marvel-game-soundtrack)
+ - [Upside Foods Sues an Ex-Employee Over Secret Lab-Grown Meat Tech](https://www.wired.com/story/upside-foods-blue-sky-trade-secrets-lawsuit)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
