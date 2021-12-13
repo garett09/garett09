@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [What do Alexa’s colored rings mean?](https://www.androidauthority.com/what-do-alexa-colored-rings-mean-3069985/)
- - [Best movies 2021: No Time to Die, Coda, King Richard, more     - CNET](https://www.cnet.com/news/best-movies-2021-no-time-to-die-coda-king-richard-more/#ftag=CAD590a51e)
- - [Best Buy&#39;s holiday flash sale final hours: Save on headphones, laptops, 4K TVs and more     - CNET](https://www.cnet.com/tech/home-entertainment/best-buys-new-holiday-flash-sale-offers-13-headphones-cheap-4k-tvs-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Disney Plus: 10 of the absolute best Christmas movies to watch     - CNET](https://www.cnet.com/news/disney-plus-10-of-the-absolute-best-christmas-movies-to-watch/#ftag=CAD590a51e)
+ - [The absolute best Christmas movie that most people haven&#39;t seen     - CNET](https://www.cnet.com/news/the-absolute-best-christmas-movie-that-most-people-havent-seen/#ftag=CAD590a51e)
+ - [Best TV shows 2021: Starstruck, The North Water, It&#39;s a Sin, more     - CNET](https://www.cnet.com/news/best-tv-shows-2021-starstruck-the-north-water-its-a-sin-more/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
