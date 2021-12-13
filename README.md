@@ -194,8 +194,8 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Seat Positions](http://9gag.com/gag/a81p4bd)
- - 🚯 [They see me rollin...](http://9gag.com/gag/a317Lm8)
- - 🚯 [What more could you want?](http://9gag.com/gag/a0ZdjvZ)<!-- MEMES:END -->
+ - 🚯 [What more could you want?](http://9gag.com/gag/a0ZdjvZ)
+ - 🚯 [60.000 new sources of protein](http://9gag.com/gag/aQXMxV7)<!-- MEMES:END -->
 
 --- 
 
