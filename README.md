@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Apple management-training chief Joel Podolny, who worked with Steve Jobs to create Apple University, left earlier this year to join a startup &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/211213/p21#a211213p21)
- - [Apple releases iOS 15.2 with App Privacy Report, Digital Legacy, and more](https://www.theverge.com/2021/12/13/22828226/apple-ios-15-2-iphone-update-digital-legacy-music-macro-app-privacy)
- - [TikTok’s 2021 music recap says it’s getting even better at creating billion-listen megahits](https://www.theverge.com/2021/12/13/22832231/tiktok-2021-roundup-music-songs)<!-- TECH:END -->
+ - [CISA Director Jen Easterly says the Log4j flaw likely affects hundreds of millions of devices and may be the most serious bug she has seen in her career &lpar;Tim Starks/CyberScoop&rpar;](http://www.techmeme.com/211213/p22#a211213p22)
+ - [The MacBook Air with M1 processor is back down to $800 for today only](https://www.theverge.com/good-deals/2021/12/13/22832836/apple-macbook-air-m1-processor-cpu-lowest-price-deal-sale)
+ - [The PS5 Darkplates made me want to grab Sony’s upcoming black faceplates](https://www.theverge.com/2021/12/13/22832727/ps5-playstation-5-darkplates-2-0-dbrand-design)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
