@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [UK&#39;s GCHQ head says that state-sponsored digital currencies, like China&#39;s digital yuan, pose a threat for surveillance and control over citizens&#39; transactions &lpar;Financial Times&rpar;](http://www.techmeme.com/211213/p1#a211213p1)
- - [Sources: Alibaba fired a female employee who accused a supervisor of rape, allegations that triggered widespread debate in July over workplace sexual misconduct &lpar;Sha Hua/Wall Street Journal&rpar;](http://www.techmeme.com/211212/p9#a211212p9)
- - [GMA&#39;s Michael Strahan goes to space and back: Almost like an out-of-body experience&#39;     - CNET](https://www.cnet.com/news/gmas-michael-strahan-goes-to-space-and-back-almost-like-an-out-of-body-experience/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Weird Pixel 911 calling bug caused by Microsoft Teams &lpar;Updated: Fix now out&rpar;](https://www.androidauthority.com/google-pixel-microsoft-teams-911-calling-bug-3073107/)
+ - [Interview with UK&#39;s GCHQ head about agency&#39;s soon to be published cyber strategy, issues with state-sponsored digital currencies, hacking firms like NSO, more &lpar;Financial Times&rpar;](http://www.techmeme.com/211213/p1#a211213p1)
+ - [Sources: Alibaba fired a female employee who accused a supervisor of rape, allegations that triggered widespread debate in July over workplace sexual misconduct &lpar;Sha Hua/Wall Street Journal&rpar;](http://www.techmeme.com/211212/p9#a211212p9)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
