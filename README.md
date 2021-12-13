@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Seat Positions](http://9gag.com/gag/a81p4bd)
- - 🚯 [What more could you want?](http://9gag.com/gag/a0ZdjvZ)
- - 🚯 [60.000 new sources of protein](http://9gag.com/gag/aQXMxV7)<!-- MEMES:END -->
+ - 🚖 [What more could you want?](http://9gag.com/gag/a0ZdjvZ)
+ - 🚯 [She did not expect this guy to be such a chad](http://9gag.com/gag/aggqVR1)
+ - 🚯 [Surprise mf](http://9gag.com/gag/a11dMgD)<!-- MEMES:END -->
 
 --- 
 
