@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Karma!!!](http://9gag.com/gag/aegYpPj)
- - 🚯 [Name the country !](http://9gag.com/gag/ajgq0Gq)
- - 🚯 [When you don&amp;#039;t live rent-free](http://9gag.com/gag/aLvMBGz)<!-- MEMES:END -->
+ - 🚖 [When you forget who you came with](http://9gag.com/gag/aM4wGrV)
+ - 🚯 [Assassin&amp;#039;s Creed India....](http://9gag.com/gag/aBnwrrD)
+ - 🚯 [Karma!!!](http://9gag.com/gag/aegYpPj)<!-- MEMES:END -->
 
 --- 
 
