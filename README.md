@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [That time Brock Lesnar shook hands with the kid who beat his son in a wrestling match](http://9gag.com/gag/a71ZbwL)
- - 🚯 [Instant regret....](http://9gag.com/gag/a81pYg3)
+ - 🚖 [Remebering The Harlem Globetrotters,](http://9gag.com/gag/a71ZbYw)
+ - 🚯 [Jamal Shead for cleaning up after his squad following a loss to Alabama. Common practice for Japanese but rare sight for us here](http://9gag.com/gag/angyK8V)
  - 🚯 [I wish i was a spaghetti](http://9gag.com/gag/a41ZLYd)<!-- MEMES:END -->
 
 --- 
