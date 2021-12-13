@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Windows 11 insider preview brings dark mode to notepad](https://www.pcgamer.com/windows-11-insider-preview-brings-dark-mode-to-notepad)
- - [The Succession season 3 finale leaves Kendall Roy and actor Jeremy Strong in opposite places](https://www.polygon.com/22830859/kendall-succession-season-3-episode-9-jeremy-strong-profile-reactions)
- - [&lpar;For Southeast Asia&rpar;“Horizon Forbidden West” Physical Editions Pre-Order starts from 14th December 2021](https://blog.playstation.com/2021/12/12/20211212-horizon/)<!-- GAME:END -->
+ - [GPU maker PowerColor joins forces with Ducky for new keyboard](https://www.pcgamer.com/gpu-maker-powercolor-joins-forces-with-ducky-for-new-keyboard)
+ - [Microsoft is trying to entice pirates to turn towards the light](https://www.pcgamer.com/microsoft-is-trying-to-entice-pirates-to-turn-towards-the-light)
+ - [Windows 11 insider preview brings dark mode to notepad](https://www.pcgamer.com/windows-11-insider-preview-brings-dark-mode-to-notepad)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
