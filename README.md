@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Adobe Creative Cloud Express has drag and drop tools for quick and easy creation](https://appleinsider.com/articles/21/12/13/adobe-creative-cloud-express-has-drag-and-drop-tools-for-quick-and-easy-creation?utm_medium=rss)
- - [Apple releases iOS 15.2 &amp; iPadOS 15.2 with legacy contacts, Apple Music Voice, more](https://appleinsider.com/articles/21/12/13/apple-releases-ios-152-ipados-152-with-airtag-privacy-features-apple-music-voice-and-more?utm_medium=rss)
- - [Apple releases macOS Monterey 12.1 with SharePlay](https://appleinsider.com/articles/21/12/13/apple-releases-macos-monterey-121-with-shareplay?utm_medium=rss)<!-- TECH:END -->
+ - [Microsoft is now selling an Xbox Red Ring of Death poster for $24.99](https://www.theverge.com/2021/12/13/22832667/microsoft-xbox-red-ring-of-death-poster-power-on-docuseries)
+ - [New Apple Card promotion will give $75 to new users, nothing to referrers](https://appleinsider.com/articles/21/12/13/apple-to-give-75-to-new-apple-card-holders-referred-by-current-users?utm_medium=rss)
+ - [Bill Nye on embracing scientific reasoning: &#39;We would be done with this pandemic&#39;     - CNET](https://www.cnet.com/news/bill-nye-on-embracing-scientific-reasoning-we-would-be-done-with-this-pandemic/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
