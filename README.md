@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox’s Red Ring of Death poster a perfect gift for masochists](https://www.polygon.com/22832783/xbox-360-red-ring-of-death-poster-microsoft-store)
- - [The best tabletop games that we played in 2021](https://www.polygon.com/tabletop-games/22791281/best-board-games-rpgs-tabletop-2021)
- - [Best B550 motherboard for gaming](https://www.pcgamer.com/best-b550-motherboard-for-gaming-amd-ryzen)<!-- GAME:END -->
+ - [Final Fantasy VII Remake Is $70 On PC And People Are Freaking Out](https://kotaku.com/final-fantasy-vii-remake-is-70-on-pc-and-people-are-fr-1848207946)
+ - [Wonder Woman has a girlfriend, but needs one in canon](https://www.polygon.com/2021/12/13/22827920/wonder-woman-gay-supergirl-dc-comics)
+ - [Assassin&#39;s Creed Valhalla: Dawn of Ragnarok is confirmed for March](https://www.pcgamer.com/details-of-assassins-creed-valhalla-dlc-leak-via-chinese-store)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
