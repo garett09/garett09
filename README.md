@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Existing laws and the threat of regulation can force tech giants to open up, as recent right to repair-related changes by Apple and Microsoft show &lpar;Zephyr Teachout/New Republic&rpar;](http://www.techmeme.com/211213/p2#a211213p2)
  - [5 best Kakuro games for Android](https://www.androidauthority.com/best-kakuro-games-android-3071257/)
- - [The OnePlus Nord 2 CE specs may have just leaked](https://www.androidauthority.com/oneplus-nord-2-ce-3074603/)
- - [Weird Pixel 911 calling bug caused by Microsoft Teams &lpar;Updated: Fix now out&rpar;](https://www.androidauthority.com/google-pixel-microsoft-teams-911-calling-bug-3073107/)<!-- TECH:END -->
+ - [The OnePlus Nord 2 CE specs may have just leaked](https://www.androidauthority.com/oneplus-nord-2-ce-3074603/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
