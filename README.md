@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The way this digital painting is made](http://9gag.com/gag/aVxDPyP)
- - 🚯 [Remebering The Harlem Globetrotters,](http://9gag.com/gag/a71ZbYw)
- - 🚯 [She did not expect this guy to be such a chad](http://9gag.com/gag/aggqVR1)<!-- MEMES:END -->
+ - 🚖 [When you forget who you came with](http://9gag.com/gag/aM4wGrV)
+ - 🚯 [What more could you want?](http://9gag.com/gag/a0ZdjvZ)
+ - 🚯 [They see me rollin...](http://9gag.com/gag/a317Lm8)<!-- MEMES:END -->
 
 --- 
 
