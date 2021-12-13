@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Assassin’s Creed Valhalla Ventures Deeper into Mythology with Dawn of Ragnarok](https://news.xbox.com/en-us/2021/12/13/assassins-creed-valhalla-ventures-deeper-into-mythology-with-dawn-of-ragnarok/)
- - [The Logitech G502 wireless is a god amongst gaming mice and $50 off](https://www.pcgamer.com/the-logitech-g502-wireless-is-a-god-amongst-gaming-mice-and-dollar50-off)
- - [Spiritfarer: Farewell Edition launches today on PS4](https://blog.playstation.com/2021/12/13/spiritfarer-farewell-edition-launches-today-on-ps4/)<!-- GAME:END -->
+ - [Assassin’s Creed Valhalla expansion sends Eivor into a war of flame and ice](https://www.polygon.com/22832496/assassins-creed-valhalla-dawn-of-ragnarok-eivor-dlc-expansion-ubisoft-odyssey)
+ - [Call of Duty celebrates the holidays with Festive Fervor starting December 17](https://blog.playstation.com/2021/12/13/call-of-duty-celebrates-the-holidays-with-festive-fervor-starting-december-17/)
+ - [Call of Duty celebrates the holidays with Festive Fervor starting December 17](https://blog.playstation.com/2021/12/13/call-of-duty-celebrates-the-holidays-with-festive-fervor-starting-december-17/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
