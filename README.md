@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Weird Pixel 911 calling bug caused by Microsoft Teams &lpar;Updated: Fix now out&rpar;](https://www.androidauthority.com/google-pixel-microsoft-teams-911-calling-bug-3073107/)
- - [Interview with UK&#39;s GCHQ head about agency&#39;s soon to be published cyber strategy, issues with state-sponsored digital currencies, hacking firms like NSO, more &lpar;Financial Times&rpar;](http://www.techmeme.com/211213/p1#a211213p1)
- - [Sources: Alibaba fired a female employee who accused a supervisor of rape, allegations that triggered widespread debate in July over workplace sexual misconduct &lpar;Sha Hua/Wall Street Journal&rpar;](http://www.techmeme.com/211212/p9#a211212p9)<!-- TECH:END -->
+ - [5 best Kakuro games for Android](https://www.androidauthority.com/best-kakuro-games-android-3071257/)
+ - [The OnePlus Nord 2 CE specs may have just leaked](https://www.androidauthority.com/oneplus-nord-2-ce-3074603/)
+ - [Weird Pixel 911 calling bug caused by Microsoft Teams &lpar;Updated: Fix now out&rpar;](https://www.androidauthority.com/google-pixel-microsoft-teams-911-calling-bug-3073107/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
