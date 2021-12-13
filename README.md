@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Aeterna Noctis — The King of Darkness’s weapons and abilities](https://blog.playstation.com/2021/12/13/aeterna-noctis-the-king-of-darknesss-weapons-and-abilities/)
- - [Aeterna Noctis — The King of Darkness’s weapons and abilities](https://blog.playstation.com/2021/12/13/aeterna-noctis-the-king-of-darknesss-weapons-and-abilities/)
- - [Halo Infinite’s new multiplayer playlists —  including Slayer — coming Tuesday](https://www.polygon.com/22832099/halo-infinite-playlists-slayer-swat-ffa-fiesta)<!-- GAME:END -->
+ - [Analogue Pocket review: it’s real and it rules](https://www.polygon.com/reviews/22830919/analogue-pocket-review-game-boy)
+ - [The next Critical Role comic tells the story of half-orc Fjord Stone](https://www.polygon.com/22832122/critical-role-fjord-stone-comic-dark-horse-release-date-price)
+ - [Analogue Pocket: The Kotaku Review](https://kotaku.com/analogue-pocket-the-kotaku-review-1848204961)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
