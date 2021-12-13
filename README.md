@@ -194,8 +194,8 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Vampires](http://9gag.com/gag/a91WLA1)
- - 🚯 [A normal meal in a mountain village](http://9gag.com/gag/a91WMb0)
- - 🚯 [Max Verstappen as a child with his idol, Michael Schumacher.](http://9gag.com/gag/aE8RGMx)<!-- MEMES:END -->
+ - 🚯 [Christmas is almost here. Time to educate your children about being nice](http://9gag.com/gag/aXrAEQ9)
+ - 🚯 [Let&amp;#039;s see who is old enough](http://9gag.com/gag/aYrKpqV)<!-- MEMES:END -->
 
 --- 
 
