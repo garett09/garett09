@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Wooting Two HE gaming keyboard review](https://www.pcgamer.com/wooting-two-he-review)
- - [CD Projekt Red has made a great RPG since The Witcher 3—it&#39;s just not Cyberpunk 2077](https://www.pcgamer.com/cd-projekt-red-has-made-a-great-rpg-since-the-witcher-3its-just-not-cyberpunk-2077)
- - [Longtime Super Robot Wars Producer Has Left Bandai Namco](https://kotaku.com/longtime-super-robot-wars-producer-has-left-bandai-namc-1848204034)<!-- GAME:END -->
+ - [&lpar;For Southeast Asia&rpar; New DualSense wireless controller colors arrive next month, followed by new PS5 console covers](https://blog.playstation.com/2021/12/13/20211213-ps5/)
+ - [New DualSense wireless controller colors arrive next month, followed by new PS5 console covers](https://blog.playstation.com/2021/12/13/new-dualsense-wireless-controller-colors-arrive-next-month-followed-by-new-ps5-console-covers/)
+ - [The best high refresh rate monitors](https://www.pcgamer.com/best-high-refresh-rate-monitor-for-gaming)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
