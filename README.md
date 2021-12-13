@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Best TV Streaming Devices for Cord Cutters](https://www.wired.com/gallery/best-4k-streaming-devices)
  - [Existing laws and the threat of regulation can force tech giants to open up, as recent right to repair-related changes by Apple and Microsoft show &lpar;Zephyr Teachout/New Republic&rpar;](http://www.techmeme.com/211213/p2#a211213p2)
- - [5 best Kakuro games for Android](https://www.androidauthority.com/best-kakuro-games-android-3071257/)
- - [The OnePlus Nord 2 CE specs may have just leaked](https://www.androidauthority.com/oneplus-nord-2-ce-3074603/)<!-- TECH:END -->
+ - [5 best Kakuro games for Android](https://www.androidauthority.com/best-kakuro-games-android-3071257/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
