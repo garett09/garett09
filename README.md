@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How ?!](http://9gag.com/gag/axBgNN1)
- - 🚯 [A man from TN India saves an injured monkey by doing CPR](http://9gag.com/gag/aGz090Z)
- - 🚯 [A normal meal in a mountain village](http://9gag.com/gag/a91WMb0)<!-- MEMES:END -->
+ - 🚖 [Ordering ice with drink](http://9gag.com/gag/aRrKgjM)
+ - 🚯 [How strong is a Wild Boar](http://9gag.com/gag/aOQdyQr)
+ - 🚯 [Motivation](http://9gag.com/gag/ajgqrAx)<!-- MEMES:END -->
 
 --- 
 
