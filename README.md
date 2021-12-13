@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Honda shows new Civic Type R testing at Suzuka     - Roadshow](https://www.cnet.com/roadshow/news/honda-civic-type-r-hatchback-testing-suzuka/#ftag=CAD590a51e)
- - [This Marvel Game Soundtrack Has an Epic Origin Story](https://www.wired.com/story/guardians-of-the-galaxy-marvel-game-soundtrack)
- - [Upside Foods Sues an Ex-Employee Over Secret Lab-Grown Meat Tech](https://www.wired.com/story/upside-foods-blue-sky-trade-secrets-lawsuit)<!-- TECH:END -->
+ - [How to set parental controls on iPhone or iPad](https://appleinsider.com/articles/21/01/08/how-to-set-parental-controls-on-iphone-or-ipad?utm_medium=rss)
+ - [Shang-Chi director wants to open minds even as he takes you on a wild MCU ride     - CNET](https://www.cnet.com/news/shang-chi-director-wants-to-open-minds-even-as-he-takes-you-on-a-wild-mcu-ride/#ftag=CAD590a51e)
+ - [The best home COVID-19 tests     - CNET](https://www.cnet.com/health/medical/the-best-home-covid-19-tests/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
