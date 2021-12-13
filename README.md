@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [YouTubers Are Making Roblox Sound Even Shadier Than Before](https://kotaku.com/youtubers-are-making-roblox-sound-even-shadier-than-bef-1848206464)
- - [Henry Cavill &#39;dreaming&#39; of starring in a live-action Warhammer adaptation](https://www.pcgamer.com/henry-cavill-dreaming-of-starring-in-a-live-action-warhammer-adaptation)
- - [Assassin’s Creed Valhalla expansion sends Eivor into a war of flame and ice](https://www.polygon.com/22832496/assassins-creed-valhalla-dawn-of-ragnarok-eivor-dlc-expansion-ubisoft-odyssey)<!-- GAME:END -->
+ - [Xbox’s Red Ring of Death poster a perfect gift for masochists](https://www.polygon.com/22832783/xbox-360-red-ring-of-death-poster-microsoft-store)
+ - [The best tabletop games that we played in 2021](https://www.polygon.com/tabletop-games/22791281/best-board-games-rpgs-tabletop-2021)
+ - [Best B550 motherboard for gaming](https://www.pcgamer.com/best-b550-motherboard-for-gaming-amd-ryzen)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
