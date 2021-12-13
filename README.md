@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Best Ref in Sports the Man Event Himself, Steve Willis](http://9gag.com/gag/axBgjd1)
- - 🚯 [Karma!!!](http://9gag.com/gag/aegYpPj)
- - 🚯 [Close call..](http://9gag.com/gag/a71Zbrm)<!-- MEMES:END -->
+ - 🚖 [Karma!!!](http://9gag.com/gag/aegYpPj)
+ - 🚯 [Why](http://9gag.com/gag/aegYGQB)
+ - 🚯 [Going places](http://9gag.com/gag/aWg8ObA)<!-- MEMES:END -->
 
 --- 
 
