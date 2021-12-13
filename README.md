@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple TV+ orders first Russian-language series &#39;Container&#39;](https://appleinsider.com/articles/21/12/13/apple-tv-orders-first-russian-language-series-container?utm_medium=rss)
- - [Adobe launches Creative Cloud Express, a mobile and web app to help create social media content, available for free or $9.99/month with more advanced templates &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/211213/p15#a211213p15)
- - [How to sign a PDF on a Mac](https://appleinsider.com/articles/21/01/04/how-to-sign-a-pdf-on-a-mac?utm_medium=rss)<!-- TECH:END -->
+ - [Adobe Creative Cloud Express has drag and drop tools for quick and easy creation](https://appleinsider.com/articles/21/12/13/adobe-creative-cloud-express-has-drag-and-drop-tools-for-quick-and-easy-creation?utm_medium=rss)
+ - [Apple releases iOS 15.2 &amp; iPadOS 15.2 with legacy contacts, Apple Music Voice, more](https://appleinsider.com/articles/21/12/13/apple-releases-ios-152-ipados-152-with-airtag-privacy-features-apple-music-voice-and-more?utm_medium=rss)
+ - [Apple releases macOS Monterey 12.1 with SharePlay](https://appleinsider.com/articles/21/12/13/apple-releases-macos-monterey-121-with-shareplay?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
