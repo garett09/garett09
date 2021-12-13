@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Netflix&#39;s Next Live-Action Victim Is Mega Man](https://kotaku.com/netflixs-next-live-action-victim-is-mega-man-1848208454)
- - [Square Enix’s Forspoken sends a New Yorker to a Final Fantasy-like world](https://www.polygon.com/22665475/square-enix-forspoken-preview)
- - [Game Pass Ruled 2021, Giving Us A Glimpse Of An Xbox-Less Future](https://kotaku.com/game-pass-ruled-2021-giving-us-a-glimpse-of-an-xbox-le-1848207698)<!-- GAME:END -->
+ - [Red Rocket is the ultimate hangout with the ultimate dirtbag](https://www.polygon.com/reviews/22832914/red-rocket-review)
+ - [PlayStation 4 Jailbroken, Exploit May Work On PS5 Too](https://kotaku.com/playstation-4-jailbroken-exploit-may-work-on-ps5-too-1848208755)
+ - [This Zelda-like RPG makes overworld exploration a breeze](https://www.polygon.com/22832766/zelda-rpg-overworld-like-indie-dev-side-scroller)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
