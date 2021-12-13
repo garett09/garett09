@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [MGM Resorts aims to reduce staff churn by having job seekers try out roles with VR, even simulations with tough customers, starting in Jan. with Strivr headsets &lpar;Grace Dean/Insider&rpar;](http://www.techmeme.com/211212/p8#a211212p8)
  - [Disney Plus: 10 of the absolute best Christmas movies to watch     - CNET](https://www.cnet.com/news/disney-plus-10-of-the-absolute-best-christmas-movies-to-watch/#ftag=CAD590a51e)
- - [The absolute best Christmas movie that most people haven&#39;t seen     - CNET](https://www.cnet.com/news/the-absolute-best-christmas-movie-that-most-people-havent-seen/#ftag=CAD590a51e)
- - [Best TV shows 2021: Starstruck, The North Water, It&#39;s a Sin, more     - CNET](https://www.cnet.com/news/best-tv-shows-2021-starstruck-the-north-water-its-a-sin-more/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The absolute best Christmas movie that most people haven&#39;t seen     - CNET](https://www.cnet.com/news/the-absolute-best-christmas-movie-that-most-people-havent-seen/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
