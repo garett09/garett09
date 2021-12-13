@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Remebering The Harlem Globetrotters,](http://9gag.com/gag/a71ZbYw)
- - 🚯 [Jamal Shead for cleaning up after his squad following a loss to Alabama. Common practice for Japanese but rare sight for us here](http://9gag.com/gag/angyK8V)
- - 🚯 [I wish i was a spaghetti](http://9gag.com/gag/a41ZLYd)<!-- MEMES:END -->
+ - 🚖 [Karma!!!](http://9gag.com/gag/aegYpPj)
+ - 🚯 [Name the country !](http://9gag.com/gag/ajgq0Gq)
+ - 🚯 [When you don&amp;#039;t live rent-free](http://9gag.com/gag/aLvMBGz)<!-- MEMES:END -->
 
 --- 
 
