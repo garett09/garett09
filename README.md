@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Shin Ultraman Will Beam Into Japanese Theaters In May 2022](https://kotaku.com/shin-ultraman-will-beam-into-japanese-theaters-in-may-2-1848204009)
- - [This weird disk robot moves like a beached magikarp](https://www.pcgamer.com/this-weird-disk-robot-moves-like-a-beached-magikarp)
- - [Lenovo inadvertently lists the AMD RX 6500 XT](https://www.pcgamer.com/lenovo-inadvertently-lists-the-amd-rx-6500-xt)<!-- GAME:END -->
+ - [Wooting Two HE gaming keyboard review](https://www.pcgamer.com/wooting-two-he-review)
+ - [CD Projekt Red has made a great RPG since The Witcher 3—it&#39;s just not Cyberpunk 2077](https://www.pcgamer.com/cd-projekt-red-has-made-a-great-rpg-since-the-witcher-3its-just-not-cyberpunk-2077)
+ - [Longtime Super Robot Wars Producer Has Left Bandai Namco](https://kotaku.com/longtime-super-robot-wars-producer-has-left-bandai-namc-1848204034)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
