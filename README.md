@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 13 best holiday gifts for dads in 2021     - CNET](https://www.cnet.com/home/2021-holiday-gifts-for-dads/#ftag=CAD590a51e)
- - [MGM Resorts aims to reduce staff churn by having job seekers try out roles with VR, even simulations with tough customers, starting in Jan. with Strivr headsets &lpar;Grace Dean/Insider&rpar;](http://www.techmeme.com/211212/p8#a211212p8)
- - [18 holiday gifts under $25: Stuff your stockings without going broke     - CNET](https://www.cnet.com/news/stocking-stuffers-15-great-gifts-for-25-or-less/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: Alibaba fired a female employee who accused a supervisor of rape, allegations that triggered widespread debate in July over workplace sexual misconduct &lpar;Sha Hua/Wall Street Journal&rpar;](http://www.techmeme.com/211212/p9#a211212p9)
+ - [GMA&#39;s Michael Strahan goes to space and back: Almost like an out-of-body experience&#39;     - CNET](https://www.cnet.com/news/gmas-michael-strahan-goes-to-space-and-back-almost-like-an-out-of-body-experience/#ftag=CAD590a51e)
+ - [Bored Ape Yacht Club: Someone accidentally sold a $300k NFT for $3K     - CNET](https://www.cnet.com/news/bored-ape-yacht-club-someone-accidentally-sold-a-300k-nft-for-3k/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
