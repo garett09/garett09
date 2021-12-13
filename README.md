@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to set parental controls on iPhone or iPad](https://appleinsider.com/articles/21/01/08/how-to-set-parental-controls-on-iphone-or-ipad?utm_medium=rss)
- - [Shang-Chi director wants to open minds even as he takes you on a wild MCU ride     - CNET](https://www.cnet.com/news/shang-chi-director-wants-to-open-minds-even-as-he-takes-you-on-a-wild-mcu-ride/#ftag=CAD590a51e)
- - [The best home COVID-19 tests     - CNET](https://www.cnet.com/health/medical/the-best-home-covid-19-tests/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Game Awards 2021, fast becoming a major industry event, saw stars from gaming and Hollywood assemble for a long-delayed reunion on December 9 &lpar;Kellen Browning/New York Times&rpar;](http://www.techmeme.com/211213/p8#a211213p8)
+ - [Eve Room, Rio Arc review, and the best doorbell cameras on HomeKit Insider](https://appleinsider.com/articles/21/12/13/eve-room-rio-arc-review-and-the-best-doorbell-cameras-on-homekit-insider?utm_medium=rss)
+ - [DJI&#39;s Excellent Mavic 3 Is on Another Plane](https://www.wired.com/review/dji-mavic-3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
