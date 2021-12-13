@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [CISA Director Jen Easterly says the Log4j flaw likely affects hundreds of millions of devices and may be the most serious bug she has seen in her career &lpar;Tim Starks/CyberScoop&rpar;](http://www.techmeme.com/211213/p22#a211213p22)
- - [The MacBook Air with M1 processor is back down to $800 for today only](https://www.theverge.com/good-deals/2021/12/13/22832836/apple-macbook-air-m1-processor-cpu-lowest-price-deal-sale)
- - [The PS5 Darkplates made me want to grab Sony’s upcoming black faceplates](https://www.theverge.com/2021/12/13/22832727/ps5-playstation-5-darkplates-2-0-dbrand-design)<!-- TECH:END -->
+ - [OSHA opens investigation into fatal Amazon warehouse collapse in Illinois](https://www.theverge.com/2021/12/13/22833012/amazon-fatal-warehouse-collapse-osha-investigation-illinois-tornado)
+ - [The best gaming keyboards you can buy](https://www.androidauthority.com/best-gaming-keyboards-3057475/)
+ - [Instagram’s new Reels Visual Replies are just another feature copied from TikTok](https://www.theverge.com/2021/12/13/22832529/instagram-reels-visual-replies-feature-tiktok-copy)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
