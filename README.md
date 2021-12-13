@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Audi idiot vs river](http://9gag.com/gag/aE8RG5M)
- - 🚯 [Congratulations Max Verstappen](http://9gag.com/gag/aWg8Zz2)
- - 🚯 [Blaming the victim](http://9gag.com/gag/aGz0wgn)<!-- MEMES:END -->
+ - 🚖 [World shattered](http://9gag.com/gag/a71Zbbr)
+ - 🚯 [That time Brock Lesnar shook hands with the kid who beat his son in a wrestling match](http://9gag.com/gag/a71ZbwL)
+ - 🚯 [I wish i was a spaghetti](http://9gag.com/gag/a41ZLYd)<!-- MEMES:END -->
 
 --- 
 
