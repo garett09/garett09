@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Power On: The Story of Xbox Releases Today](https://news.xbox.com/en-us/2021/12/13/xbox-docuseries-power-on-release/)
- - [Unsighted is an exquisite fight for survival](https://www.polygon.com/22828102/unsighted-game-of-the-year-goty-exquisite-fight-for-survival-metroidvania-switch)
- - [Forspoken makes spellcasting look magical for once](https://www.pcgamer.com/forspoken-makes-spellcasting-look-magical-for-once)<!-- GAME:END -->
+ - [Aeterna Noctis — The King of Darkness’s weapons and abilities](https://blog.playstation.com/2021/12/13/aeterna-noctis-the-king-of-darknesss-weapons-and-abilities/)
+ - [Aeterna Noctis — The King of Darkness’s weapons and abilities](https://blog.playstation.com/2021/12/13/aeterna-noctis-the-king-of-darknesss-weapons-and-abilities/)
+ - [Halo Infinite’s new multiplayer playlists —  including Slayer — coming Tuesday](https://www.polygon.com/22832099/halo-infinite-playlists-slayer-swat-ffa-fiesta)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
