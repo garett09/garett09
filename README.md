@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Get &#39;Em Princess](https://kotaku.com/get-em-princess-1848203077)
- - [Final Fantasy 7 Remake Intergrade system requirements](https://www.pcgamer.com/final-fantasy-7-remake-intergrade-system-requirements)
- - [Top-Seeded Halo Pro Accused Of Cheating, Suspended](https://kotaku.com/top-seeded-halo-pro-accused-of-cheating-suspended-1848202966)<!-- GAME:END -->
+ - [The Succession season 3 finale leaves Kendall Roy and actor Jeremy Strong in opposite places](https://www.polygon.com/22830859/kendall-succession-season-3-episode-9-jeremy-strong-profile-reactions)
+ - [&lpar;For Southeast Asia&rpar;“Horizon Forbidden West” Physical Editions Pre-Order starts from 14th December 2021](https://blog.playstation.com/2021/12/12/20211212-horizon/)
+ - [&lpar;For Southeast Asia&rpar;“Horizon Forbidden West” Physical Editions Pre-Order starts from 14th December 2021](https://blog.playstation.com/2021/12/12/20211212-horizon/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
