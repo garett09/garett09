@@ -194,8 +194,8 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Old-school potato slicer at a hotdog joint in Chicago](http://9gag.com/gag/a91WMN1)
- - 🚯 [Max Verstappen as a child with his idol, Michael Schumacher.](http://9gag.com/gag/aE8RGMx)
- - 🚯 [How strong is a Wild Boar](http://9gag.com/gag/aOQdyQr)<!-- MEMES:END -->
+ - 🚯 [How strong is a Wild Boar](http://9gag.com/gag/aOQdyQr)
+ - 🚯 [Max Verstappen as a child with his idol, Michael Schumacher.](http://9gag.com/gag/aE8RGMx)<!-- MEMES:END -->
 
 --- 
 
