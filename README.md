@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Vampires](http://9gag.com/gag/a91WLA1)
- - 🚯 [Christmas is almost here. Time to educate your children about being nice](http://9gag.com/gag/aXrAEQ9)
- - 🚯 [Let&amp;#039;s see who is old enough](http://9gag.com/gag/aYrKpqV)<!-- MEMES:END -->
+ - 🚖 [Jennifer Connelly, 51 years old today](http://9gag.com/gag/arnOp97)
+ - 🚯 [Let&amp;#039;s see who is old enough](http://9gag.com/gag/aYrKpqV)
+ - 🚯 [Vampires](http://9gag.com/gag/a91WLA1)<!-- MEMES:END -->
 
 --- 
 
