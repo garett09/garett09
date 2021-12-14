@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [RIP me](http://9gag.com/gag/aLvM8NV)
- - 🚯 [Austrian trains](http://9gag.com/gag/aLvM87A)
- - 🚯 [Worse than 2020 imo](http://9gag.com/gag/aVxD3XK)<!-- MEMES:END -->
+ - 🚖 [Austrian trains](http://9gag.com/gag/aLvM87A)
+ - 🚯 [Life so far.](http://9gag.com/gag/aRrKjZ5)
+ - 🚯 [Sank you!](http://9gag.com/gag/azerqRp)<!-- MEMES:END -->
 
 --- 
 
