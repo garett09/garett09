@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Dance of the Nokias](http://9gag.com/gag/a51ZbwO)
- - 🚯 [True](http://9gag.com/gag/avArG2E)
- - 🚯 [60.000 new sources of protein](http://9gag.com/gag/aQXMxV7)<!-- MEMES:END -->
+ - 🚖 [True](http://9gag.com/gag/avArG2E)
+ - 🚯 [Dance of the Nokias](http://9gag.com/gag/a51ZbwO)
+ - 🚯 [Wait... Those aren&amp;#039;t dolphins!](http://9gag.com/gag/aAGwd1d)<!-- MEMES:END -->
 
 --- 
 
