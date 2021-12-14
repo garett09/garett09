@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Everything Everywhere All At Once stars Michelle Yeoh at the epicenter of the multiverse](https://www.polygon.com/22834124/everything-everywhere-all-at-once-trailer-michelle-yeoh)
- - [During A Preview, Forspoken Devs Described Their Black Protag In Cringe-Inducing Ways](https://kotaku.com/during-a-preview-forspoken-devs-described-their-black-1848212148)
- - [The New, Chill Xbox Game Pass Titles You’ll Probably Download Over Winter Break](https://kotaku.com/the-new-chill-xbox-game-pass-titles-you-ll-probably-do-1848212232)<!-- GAME:END -->
+ - [Genshin Impact Condoms Are Real And Fans Want Them](https://kotaku.com/genshin-impact-condoms-are-real-and-fans-want-them-1848213050)
+ - [Death’s Door balances a grim world with never-ending charm](https://www.polygon.com/22832888/deaths-door-details-game-of-the-year-goty)
+ - [Socialist Twitch Streamer Banned For Calling White People ‘Cracker’](https://kotaku.com/socialist-twitch-streamer-banned-for-calling-white-peop-1848213042)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
