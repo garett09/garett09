@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to Transfer WhatsApp Data from Android to iPhone in 2021](https://appleinsider.com/articles/21/12/14/how-to-transfer-whatsapp-data-from-android-to-iphone-in-2021?utm_medium=rss)
- - [Medal.tv raises $60M to expand its platform for short gaming clips, bringing its total funding to $70M, and says it has nearly 1M DAUs &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/211214/p28#a211214p28)
- - [Snap says it paid out over $250M to more than 12,000 creators through its Snapchat Spotlight programs in 2021 &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/211214/p27#a211214p27)<!-- TECH:END -->
+ - [New Sonnet Echo 5 hub has three downstream Thunderbolt 4 ports, one USB-A](https://appleinsider.com/articles/21/12/14/new-sonnet-echo-5-hub-has-three-downstream-thunderbolt-4-ports-one-usb-a?utm_medium=rss)
+ - [PwC report details the ransomware attack on Ireland&#39;s public health system in May 2021 and finds that IT admins failed to respond to multiple warning signs &lpar;Brian Krebs/Krebs on Security&rpar;](http://www.techmeme.com/211214/p29#a211214p29)
+ - [The first trailer for Everything Everywhere All At Once reveals what we all want: a Michelle Yeoh multiverse](https://www.theverge.com/2021/12/14/22834049/michelle-yeoh-everything-everywhere-all-at-once-trailer)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
