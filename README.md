@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Jackal Fights Back in Rogue Company’s Newest Update](https://news.xbox.com/en-us/2021/12/14/jackal-fights-back-rogue-company-newest-update/)
- - [Not even Master Chief could eat this giant sandwich](https://www.polygon.com/22832298/halo-infinite-sandwich-easter-egg-master-chief)
- - [Halo Infinite Players Keep Jumping Off The Map To Win Oddball](https://kotaku.com/halo-infinite-players-keep-jumping-off-the-edge-to-win-1848214260)<!-- GAME:END -->
+ - [Axe-Wielding Man Locked People Inside Arcade, Smashed Games In Two-Day Rampage](https://kotaku.com/axe-wielding-man-locked-people-inside-arcade-smashed-g-1848214957)
+ - [NHL 22 Partners with IIHF](https://news.xbox.com/en-us/2021/12/14/nhl-22-partners-with-iihf/)
+ - [Animal Crossing players explain how to make the perfect Snowboy](https://www.polygon.com/22834483/animal-crossing-new-horizons-how-to-make-perfect-snowboy-players-tips)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
