@@ -194,8 +194,8 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Just one more](http://9gag.com/gag/avAr88X)
- - 🚯 [Molten Aluminum!!!](http://9gag.com/gag/aegYrrW)
- - 🚯 [Japanese Voice Actress shows her range... Which one is your favourite?](http://9gag.com/gag/a21dore)<!-- MEMES:END -->
+ - 🚯 [Meanwhile you know where...](http://9gag.com/gag/amgr7p9)
+ - 🚯 [What movie character are you? Screenshot to find out!](http://9gag.com/gag/a91Wp06)<!-- MEMES:END -->
 
 --- 
 
