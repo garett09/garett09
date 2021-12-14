@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Minecraft Dungeons First Seasonal Adventure is Here with the Free Cloudy Climb Update](https://news.xbox.com/en-us/2021/12/14/minecraft-dungeons-first-seasonal-adventure-is-here-with-the-free-cloudy-climb-update/)
- - [All the recipes and ingredients in Destiny 2&#39;s The Dawning 2021](https://www.pcgamer.com/destiny-2-the-dawning-recipes-2021)
- - [The 10 &lpar;or 11&rpar; best documentaries of 2021](https://www.polygon.com/22833214/best-documentaries-2021-movies)<!-- GAME:END -->
+ - [Jackal Fights Back in Rogue Company’s Newest Update](https://news.xbox.com/en-us/2021/12/14/jackal-fights-back-rogue-company-newest-update/)
+ - [Not even Master Chief could eat this giant sandwich](https://www.polygon.com/22832298/halo-infinite-sandwich-easter-egg-master-chief)
+ - [Halo Infinite Players Keep Jumping Off The Map To Win Oddball](https://kotaku.com/halo-infinite-players-keep-jumping-off-the-edge-to-win-1848214260)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
