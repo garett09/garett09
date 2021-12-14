@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Documents and interviews reveal Apache developers&#39; efforts to patch the Log4j vulnerability, after an Alibaba employee alerted them of the flaw on November 24 &lpar;Bloomberg&rpar;](http://www.techmeme.com/211213/p32#a211213p32)
  - [Apple releases Xcode 13.2, new features hint toward Swift Playgrounds 4](https://appleinsider.com/articles/21/12/14/apple-releases-xcode-132-new-features-hint-toward-swift-playgrounds-4?utm_medium=rss)
- - [Apple Silicon iMac Pro coming Spring 2022, no &#39;iPhone Fold&#39; until 2023 analyst says](https://appleinsider.com/articles/21/12/13/27-inch-imac-pro-coming-spring-2022-no-iphone-fold-until-2023-analyst-says?utm_medium=rss)
- - [Nike just bought a virtual shoe company that makes NFTs and sneakers ‘for the metaverse’](https://www.theverge.com/22833369/nike-rtfkt-nft-sneaker-shoe-metaverse-company)<!-- TECH:END -->
+ - [Apple Silicon iMac Pro coming Spring 2022, no &#39;iPhone Fold&#39; until 2023 analyst says](https://appleinsider.com/articles/21/12/13/27-inch-imac-pro-coming-spring-2022-no-iphone-fold-until-2023-analyst-says?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
