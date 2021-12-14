@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [LinkedIn launches InCareer, a mobile and web app to help professionals in China find jobs, two months after Microsoft shut down the Chinese version of LinkedIn &lpar;Mohak Shroff/Official LinkedIn Blog&rpar;](http://www.techmeme.com/211213/p34#a211213p34)
- - [Netflix slashes all its price tiers in India, with the Basic plan now starting at $2.60/month, down from $6.60/month, amid intense competition &lpar;Vikas Sn/Moneycontrol&rpar;](http://www.techmeme.com/211213/p33#a211213p33)
- - [Labor Department investigating Apple over #AppleToo employee complaints](https://appleinsider.com/articles/21/12/14/labor-department-investigating-apple-over-appletoo-employee-complaints?utm_medium=rss)<!-- TECH:END -->
+ - [The Huawei P50 Pocket is coming next week: Is this a Galaxy Z Flip rival?](https://www.androidauthority.com/huawei-p50-pocket-3075177/)
+ - [A look at a &quot;smart city&quot; project near Busan, as the South Korean government normalizes surveillance by repurposing its &quot;smart city&quot; systems to battle COVID-19 &lpar;Victoria Kim/Los Angeles Times&rpar;](http://www.techmeme.com/211214/p1#a211214p1)
+ - [Best keyboard for 2021     - CNET](https://www.cnet.com/tech/computing/best-keyboard/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
