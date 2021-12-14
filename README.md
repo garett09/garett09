@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Atlas, Titan of the Cosmos, is Available Now in Earth-moving Smite Update](https://news.xbox.com/en-us/2021/12/14/atlas-available-now-smite-update/)
- - [Ubisoft Devs Don’t Understand Company’s NFT Push, Either](https://kotaku.com/ubisoft-devs-don-t-understand-company-s-nft-push-eithe-1848215633)
- - [Axe-Wielding Man Locked People Inside Arcade, Smashed Games In Two-Day Rampage](https://kotaku.com/axe-wielding-man-locked-people-inside-arcade-smashed-g-1848214957)<!-- GAME:END -->
+ - [UFC star Robert Whittaker is now a fully-voiced Skyrim companion](https://www.pcgamer.com/ufc-star-robert-whittaker-is-now-a-fully-voiced-skyrim-companion)
+ - [Dr. Disrespect launches &#39;AAA game studio&#39; with Call of Duty and Halo veterans](https://www.pcgamer.com/dr-disrespect-launches-aaa-game-studio-with-call-of-duty-and-halo-veterans)
+ - [Halo Infinite&#39;s Battle Pass Is Adding Better Challenges That Are Perfect For The New Playlists](https://kotaku.com/halo-infinites-battle-pass-is-adding-better-challenges-1848215525)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
