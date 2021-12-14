@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Game Pass brings Mortal Kombat 11, Firewatch, and more in December](https://www.polygon.com/22834005/xbox-game-pass-december-2021-games-list-pc-cloud-android-ios-mortal-kombat)
- - [A backstage tour of Freddy Fazbear’s Mega Pizzaplex in Five Nights Freddy’s: Security Breach](https://blog.playstation.com/2021/12/14/a-backstage-tour-of-freddy-fazbears-mega-pizzaplex-in-five-nights-freddys-security-breach/)
- - [A backstage tour of Freddy Fazbear’s Mega Pizzaplex in Five Nights Freddy’s: Security Breach](https://blog.playstation.com/2021/12/14/a-backstage-tour-of-freddy-fazbears-mega-pizzaplex-in-five-nights-freddys-security-breach/)<!-- GAME:END -->
+ - [Everything Everywhere All At Once stars Michelle Yeoh at the epicenter of the multiverse](https://www.polygon.com/22834124/everything-everywhere-all-at-once-trailer-michelle-yeoh)
+ - [During A Preview, Forspoken Devs Described Their Black Protag In Cringe-Inducing Ways](https://kotaku.com/during-a-preview-forspoken-devs-described-their-black-1848212148)
+ - [The New, Chill Xbox Game Pass Titles You’ll Probably Download Over Winter Break](https://kotaku.com/the-new-chill-xbox-game-pass-titles-you-ll-probably-do-1848212232)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
