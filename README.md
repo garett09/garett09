@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I can&amp;#039;t get no... More satisfaction!](http://9gag.com/gag/aNPdddG)
- - 🚯 [Wait... Those aren&amp;#039;t dolphins!](http://9gag.com/gag/aAGwd1d)
+ - 🚖 [Get it grandma](http://9gag.com/gag/a71ZZnm)
+ - 🚯 [True](http://9gag.com/gag/avArG2E)
  - 🚯 [60.000 new sources of protein](http://9gag.com/gag/aQXMxV7)<!-- MEMES:END -->
 
 --- 
