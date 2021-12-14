@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Snap launches a preview of Story Studio, a standalone video editing app for iOS, aimed at users who make more professional content, like Spotlight creators &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/211214/p33#a211214p33)
- - [Apple brings back mask requirement to all U.S. Apple Stores](https://appleinsider.com/articles/21/12/14/apple-brings-back-mask-requirement-to-all-us-apple-stores?utm_medium=rss)
- - [Google’s Android 12 Go brings privacy and speed boosts to low-powered phones](https://www.androidauthority.com/android-12-go-edition-3075493/)<!-- TECH:END -->
+ - [How to set up Legacy Contacts in iOS 15](https://appleinsider.com/articles/21/12/14/how-to-set-up-legacy-contacts-on-ios-15?utm_medium=rss)
+ - [Last-minute gift ideas: Here&#39;s what to get family and friends when you&#39;re short on time](https://appleinsider.com/articles/21/12/14/last-minute-gift-ideas-heres-what-to-get-family-and-friends-when-youre-short-on-time?utm_medium=rss)
+ - [Apple TV+ drama &#39;Servant&#39; renewed for its fourth &amp; final season](https://appleinsider.com/articles/21/12/14/apple-tv-drama-servant-renewed-for-its-fourth-final-season?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
