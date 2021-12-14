@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Solana&#39;s early backers including 500 Startups, Slow Ventures, Multicoin Capital, and angels David Quiec and Chris McCann, who have $1B+ stakes &lpar;Hannah Miller/The Information&rpar;](http://www.techmeme.com/211214/p37#a211214p37)
- - [Twitter is rolling out automatic captions for videos](https://www.theverge.com/2021/12/14/22834366/twitter-automatic-live-captions-videos)
- - [Adobe updates Photoshop for iPad with new Smudge, Sponge tools](https://appleinsider.com/articles/21/12/14/adobe-updates-photoshop-for-ipad-with-new-smudge-sponge-tools?utm_medium=rss)<!-- TECH:END -->
+ - [Inscryption mod makes the game’s best part endlessly replayable](https://www.theverge.com/2021/12/14/22834612/inscryption-kaycees-mod-goty-2021-steam-pc)
+ - [Judge denies California’s attempt to intervene in Activision Blizzard settlement](https://www.theverge.com/2021/12/14/22834691/judge-denies-california-dfeh-block-activision-blizzard-eeoc-lawsuit-settlement)
+ - [Save $320 on the Surface Pro X, and more great Microsoft Surface deals](https://www.androidauthority.com/best-cheap-surface-pro-deals-1112075/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
