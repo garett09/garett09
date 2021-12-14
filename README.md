@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Inscryption mod makes the game’s best part endlessly replayable](https://www.theverge.com/2021/12/14/22834612/inscryption-kaycees-mod-goty-2021-steam-pc)
- - [Judge denies California’s attempt to intervene in Activision Blizzard settlement](https://www.theverge.com/2021/12/14/22834691/judge-denies-california-dfeh-block-activision-blizzard-eeoc-lawsuit-settlement)
- - [Save $320 on the Surface Pro X, and more great Microsoft Surface deals](https://www.androidauthority.com/best-cheap-surface-pro-deals-1112075/)<!-- TECH:END -->
+ - [Rising temperatures are causing an unprecedented transformation in the Arctic](https://www.theverge.com/2021/12/14/22834760/arctic-rising-temperatures-noaa-climate-change)
+ - [Instagram reportedly hit 2 billion active users but probably won’t admit it](https://www.theverge.com/2021/12/14/22834571/instagram-2-billion-active-users)
+ - [T-Mobile’s not-Chromecast Google TV dongle adds an ethernet jack](https://www.theverge.com/2021/12/14/22834584/t-mobile-tvision-hub-google-tv-chromecast-dongle-ethernet)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
