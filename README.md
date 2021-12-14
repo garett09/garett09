@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The Assassin&#39;s Creed Expansions Just Keep Coming](https://kotaku.com/the-assassins-creed-expansions-just-keep-coming-1848209166)
  - [Commemorate Xbox&#39;s most iconic failure with this $25 Red Ring of Death poster](https://www.pcgamer.com/commemorate-xboxs-most-iconic-failure-with-this-dollar25-red-ring-of-death-poster)
- - [Battlefield 2042: The Kotaku Review](https://kotaku.com/battlefield-2042-the-kotaku-review-1848123654)
- - [Best CPU air coolers](https://www.pcgamer.com/best-cpu-air-coolers)<!-- GAME:END -->
+ - [Battlefield 2042: The Kotaku Review](https://kotaku.com/battlefield-2042-the-kotaku-review-1848123654)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
