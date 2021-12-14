@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Get £50 off this Oculus Quest 2 elite bundle](https://www.pcgamer.com/get-pound50-off-this-oculus-quest-2-elite-bundle)
- - [EVGA releases a vBIOS that improves RTX 3080 Ti mining performance](https://www.pcgamer.com/evga-releases-a-vbios-that-improves-rtx-3080-ti-mining-performance)
- - [HDMI 2.0 cables can be labelled as HDMI 2.1 with no enhancements](https://www.pcgamer.com/hdmi-20-cables-can-be-labelled-as-hdmi-21-with-no-enhancements)<!-- GAME:END -->
+ - [Intel is poised to build a $7bn manufacturing facility in Penang, Malaysia](https://www.pcgamer.com/intel-is-poised-to-build-a-dollar7bn-manufacturing-facility-in-penang-malaysia)
+ - [Nvidia&#39;s new studio driver increases render speeds in apps like Blender](https://www.pcgamer.com/nvidias-new-studio-driver-increases-render-speeds-in-apps-like-blender)
+ - [Get £50 off this Oculus Quest 2 elite bundle](https://www.pcgamer.com/get-pound50-off-this-oculus-quest-2-elite-bundle)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
