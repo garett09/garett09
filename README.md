@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It&amp;#039;s getting harder and harder for foreigners to study English nowadays](http://9gag.com/gag/a91WRKL)
- - 🚯 [I wonder how many people will feel this.](http://9gag.com/gag/aE8R2pM)
+ - 🚖 [North Koreans&amp;#039; first time seeing Korien POP .&amp;gt;&amp;gt;](http://9gag.com/gag/azerm1K)
+ - 🚯 [It&amp;#039;s getting harder and harder for foreigners to study English nowadays](http://9gag.com/gag/a91WRKL)
  - 🚯 [What movie character are you? Screenshot to find out!](http://9gag.com/gag/a91Wp06)<!-- MEMES:END -->
 
 --- 
