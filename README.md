@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to set up Legacy Contacts in iOS 15](https://appleinsider.com/articles/21/12/14/how-to-set-up-legacy-contacts-on-ios-15?utm_medium=rss)
- - [Last-minute gift ideas: Here&#39;s what to get family and friends when you&#39;re short on time](https://appleinsider.com/articles/21/12/14/last-minute-gift-ideas-heres-what-to-get-family-and-friends-when-youre-short-on-time?utm_medium=rss)
- - [Apple TV+ drama &#39;Servant&#39; renewed for its fourth &amp; final season](https://appleinsider.com/articles/21/12/14/apple-tv-drama-servant-renewed-for-its-fourth-final-season?utm_medium=rss)<!-- TECH:END -->
+ - [Last call: Up to $300 off 14-inch and 16-inch MacBook Pros, Mac mini 16GB RAM for $789, $200 off 13-inch MacBook Pro, $150 off MacBook Air](https://appleinsider.com/articles/21/12/14/last-call-up-to-300-off-14-inch-and-16-inch-macbook-pros-mac-mini-16gb-ram-for-789-200-off-13-inch-macbook-pro-150-off-macbook-air?utm_medium=rss)
+ - [Opal’s C1 offers DSLR-rivaling video quality in a small form factor](https://www.theverge.com/22834196/opal-c1-webcam-camera-dslr-video-quality-performance-review-price)
+ - [Pony.ai’s permit to test driverless vehicles in California is suspended after crash](https://www.theverge.com/2021/12/14/22834496/pony-ai-av-test-permit-suspend-california-dmv-crash)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
