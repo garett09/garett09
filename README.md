@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Just saw this dude cruising down the road by himself in a Tesla](http://9gag.com/gag/ay9LDXX)
- - 🚯 [Get it grandma](http://9gag.com/gag/a71ZZnm)
- - 🚯 [It ain&amp;#039;t much but it&amp;#039;s s honest life](http://9gag.com/gag/amgrrxX)<!-- MEMES:END -->
+ - 🚖 [I can&amp;#039;t get no... More satisfaction!](http://9gag.com/gag/aNPdddG)
+ - 🚯 [Wait... Those aren&amp;#039;t dolphins!](http://9gag.com/gag/aAGwd1d)
+ - 🚯 [60.000 new sources of protein](http://9gag.com/gag/aQXMxV7)<!-- MEMES:END -->
 
 --- 
 
