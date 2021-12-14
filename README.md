@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Little brother can&amp;rsquo;t believe his eyes.](http://9gag.com/gag/aqGrrRM)
- - 🚯 [Wait... Those aren&amp;#039;t dolphins!](http://9gag.com/gag/aAGwd1d)
- - 🚯 [Dance of the Nokias](http://9gag.com/gag/a51ZbwO)<!-- MEMES:END -->
+ - 🚖 [Some looney tunes shit](http://9gag.com/gag/aVxDMWO)
+ - 🚯 [Dance of the Nokias](http://9gag.com/gag/a51ZbwO)
+ - 🚯 [How to Cheer up a guy.](http://9gag.com/gag/a91WAy0)<!-- MEMES:END -->
 
 --- 
 
