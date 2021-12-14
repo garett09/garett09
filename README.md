@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [That&amp;#039;s just bad writing](http://9gag.com/gag/aDDjgVd)
- - 🚯 [It&amp;#039;s getting harder and harder for foreigners to study English nowadays](http://9gag.com/gag/a91WRKL)
+ - 🚖 [It&amp;#039;s getting harder and harder for foreigners to study English nowadays](http://9gag.com/gag/a91WRKL)
+ - 🚯 [I wonder how many people will feel this.](http://9gag.com/gag/aE8R2pM)
  - 🚯 [What movie character are you? Screenshot to find out!](http://9gag.com/gag/a91Wp06)<!-- MEMES:END -->
 
 --- 
