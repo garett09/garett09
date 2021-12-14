@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Dinosaur Nuggets](http://9gag.com/gag/aE8Rgde)
- - 🚯 [They don&amp;#039;t make them as they used to](http://9gag.com/gag/aBnw03z)
+ - 🚖 [They don&amp;#039;t make them as they used to](http://9gag.com/gag/aBnw03z)
+ - 🚯 [You can&amp;#039;t prove that my lobbyists bribed politicians!!!!!!!!](http://9gag.com/gag/a81po9Y)
  - 🚯 [What movie character are you? Screenshot to find out!](http://9gag.com/gag/a91Wp06)<!-- MEMES:END -->
 
 --- 
