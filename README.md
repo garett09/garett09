@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [New Cloning Glitch Found In Pokémon Brilliant Diamond And Shining Pearl](https://kotaku.com/new-cloning-glitch-found-in-pokemon-brilliant-diamond-a-1848211175)
  - [Intel is poised to build a $7bn manufacturing facility in Penang, Malaysia](https://www.pcgamer.com/intel-is-poised-to-build-a-dollar7bn-manufacturing-facility-in-penang-malaysia)
- - [Nvidia&#39;s new studio driver increases render speeds in apps like Blender](https://www.pcgamer.com/nvidias-new-studio-driver-increases-render-speeds-in-apps-like-blender)
- - [Get £50 off this Oculus Quest 2 elite bundle](https://www.pcgamer.com/get-pound50-off-this-oculus-quest-2-elite-bundle)<!-- GAME:END -->
+ - [Nvidia&#39;s new studio driver increases render speeds in apps like Blender](https://www.pcgamer.com/nvidias-new-studio-driver-increases-render-speeds-in-apps-like-blender)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
