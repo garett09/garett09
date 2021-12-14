@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Watch this Halo Infinite grunt dab over Master Chief&#39;s lifeless corpse](https://www.pcgamer.com/watch-this-halo-infinite-grunt-dab-over-master-chiefs-lifeless-corpse)
- - [These drag clicking mice from ROCCAT can boost your Minecraft CPS](https://www.pcgamer.com/these-drag-clicking-mice-from-roccat-can-boost-your-minecraft-cps)
- - [Another Cloning Glitch Found In Pokémon Brilliant Diamond And Shining Pearl](https://kotaku.com/new-cloning-glitch-found-in-pokemon-brilliant-diamond-a-1848211175)<!-- GAME:END -->
+ - [System Shock remake is coming in 2022, so here&#39;s 15 all-new screens](https://www.pcgamer.com/system-shock-remake-is-coming-next-year-so-heres-15-all-new-screens)
+ - [Dragon Ball Voice Actor And Narrator Joji Yanami Dies At 90](https://kotaku.com/dragon-ball-voice-actor-and-narrator-joji-yanami-dies-a-1848211342)
+ - [Celebrating ROCCAT Vulcan keyboards&#39; marriage of technology and style](https://www.pcgamer.com/celebrating-roccat-vulcan-keyboards-marriage-of-technology-and-style)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
