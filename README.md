@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I think the texture of quiche is fine..](http://9gag.com/gag/a41ZGxA)
- - 🚯 [Some looney tunes shit](http://9gag.com/gag/aVxDMWO)
- - 🚯 [Easter europian thing](http://9gag.com/gag/aVxDMNv)<!-- MEMES:END -->
+ - 🚖 [RIP me](http://9gag.com/gag/aLvM8NV)
+ - 🚯 [Austrian trains](http://9gag.com/gag/aLvM87A)
+ - 🚯 [Worse than 2020 imo](http://9gag.com/gag/aVxD3XK)<!-- MEMES:END -->
 
 --- 
 
