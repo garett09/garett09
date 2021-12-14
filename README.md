@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How do you pronounce it!?](http://9gag.com/gag/aegYeB5)
- - 🚯 [Letters ruined maths.](http://9gag.com/gag/a61MooA)
- - 🚯 [They don&amp;#039;t make them as they used to](http://9gag.com/gag/aBnw03z)<!-- MEMES:END -->
+ - 🚖 [Just one more](http://9gag.com/gag/avAr88X)
+ - 🚯 [Molten Aluminum!!!](http://9gag.com/gag/aegYrrW)
+ - 🚯 [Japanese Voice Actress shows her range... Which one is your favourite?](http://9gag.com/gag/a21dore)<!-- MEMES:END -->
 
 --- 
 
