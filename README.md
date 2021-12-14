@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to make a Spotify playlist public](https://www.androidauthority.com/make-spotify-playlist-public-3075538/)
- - [Nomad&#39;s new Base Station Hub adds magnetic alignment, charges four devices](https://appleinsider.com/articles/21/12/14/nomads-new-base-station-hub-adds-magnetic-alignment-charges-four-devices?utm_medium=rss)
- - [The King&#39;s Man is a deranged spy movie kicking history in the face     - CNET](https://www.cnet.com/news/the-kings-man-is-a-deranged-spy-movie-which-kicks-history-in-the-face/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Snap launches a preview of Story Studio, a standalone video editing app for iOS, aimed at users who make more professional content, like Spotlight creators &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/211214/p33#a211214p33)
+ - [Apple brings back mask requirement to all U.S. Apple Stores](https://appleinsider.com/articles/21/12/14/apple-brings-back-mask-requirement-to-all-us-apple-stores?utm_medium=rss)
+ - [Google’s Android 12 Go brings privacy and speed boosts to low-powered phones](https://www.androidauthority.com/android-12-go-edition-3075493/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
