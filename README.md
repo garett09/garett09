@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Vox buying Group Nine, forming one of the largest online publishers](https://appleinsider.com/articles/21/12/14/vox-buying-group-nine-forming-one-of-the-largest-online-publishers?utm_medium=rss)
- - [Daily Authority: 😎 AR = Assisted Reality?](https://www.androidauthority.com/newsletters/da-december-14-2021/)
- - [YouTube TV warns subscribers it could lose Disney’s channels later this week](https://www.theverge.com/2021/12/14/22833849/youtube-tv-disney-carrier-dispute-abc-news-espn-december-17)<!-- TECH:END -->
+ - [Mesh Payments, which helps companies track employee expenses, raises a $50M Series B led by Tiger Global, bringing its total raised to $63M &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/211214/p18#a211214p18)
+ - [Apple TV+ beats Netflix in auction for Colin Farrell drama &#39;Sugar&#39;](https://appleinsider.com/articles/21/12/14/apple-tv-beats-netflix-in-auction-for-colin-farrell-drama-sugar?utm_medium=rss)
+ - [The Best VR Headsets and Games to Explore the Metaverse](https://www.wired.com/gallery/best-vr-headsets-in-this-reality)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
