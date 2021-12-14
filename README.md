@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [HDMI 2.0 cables can be labelled as HDMI 2.1 with no enhancements](https://www.pcgamer.com/hdmi-20-cables-can-be-labelled-as-hdmi-21-with-no-enhancements)
- - [The Assassin&#39;s Creed Expansions Just Keep Coming](https://kotaku.com/the-assassins-creed-expansions-just-keep-coming-1848209166)
- - [Commemorate Xbox&#39;s most iconic failure with this $25 Red Ring of Death poster](https://www.pcgamer.com/commemorate-xboxs-most-iconic-failure-with-this-dollar25-red-ring-of-death-poster)<!-- GAME:END -->
+ - [Get £50 off this Oculus Quest 2 elite bundle](https://www.pcgamer.com/get-pound50-off-this-oculus-quest-2-elite-bundle)
+ - [EVGA releases a vBIOS that improves RTX 3080 Ti mining performance](https://www.pcgamer.com/evga-releases-a-vbios-that-improves-rtx-3080-ti-mining-performance)
+ - [HDMI 2.0 cables can be labelled as HDMI 2.1 with no enhancements](https://www.pcgamer.com/hdmi-20-cables-can-be-labelled-as-hdmi-21-with-no-enhancements)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
