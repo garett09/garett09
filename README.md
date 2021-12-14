@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [US OSHA says it is investigating the deadly collapse of an Amazon warehouse in Illinois caused by a tornado; six workers died, one was injured, 45 were rescued &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/211214/p5#a211214p5)
- - [Google staffs up to build OS for unknown ‘innovative AR device’](https://www.theverge.com/2021/12/14/22833801/google-augmented-reality-operating-system-ar-os-team-mark-lucovsky)
- - [Oppo channels Google Glass with its latest ‘assisted reality’ glasses](https://www.androidauthority.com/oppo-air-glass-3073120/)<!-- TECH:END -->
+ - [German company Software AG, which offers tools to manage data used by 50% of the Fortune 500, raises &amp;euro;344M from Silver Lake &lpar;Jan-Henrik Foerster/Bloomberg&rpar;](http://www.techmeme.com/211214/p13#a211214p13)
+ - [Deplatforming Trump didn’t work](https://www.theverge.com/2021/12/14/22833467/deplatforming-trump-didnt-work)
+ - [Apple delays macOS Monterey&#39;s Universal Control until spring 2022, after saying it would launch in the fall &lpar;Sami Fathi/MacRumors&rpar;](http://www.techmeme.com/211214/p12#a211214p12)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
