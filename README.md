@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Spider-Man: No Way Home: our spoiler-lite review](https://www.polygon.com/reviews/22833733/spider-man-no-way-home-review)
- - [Windjammers 2 comes to PS4 on January 20](https://blog.playstation.com/2021/12/14/windjammers-2-comes-to-ps4-on-january-20/)
- - [Windjammers 2 comes to PS4 on January 20](https://blog.playstation.com/2021/12/14/windjammers-2-comes-to-ps4-on-january-20/)<!-- GAME:END -->
+ - [Xbox Game Pass brings Mortal Kombat 11, Firewatch, and more in December](https://www.polygon.com/22834005/xbox-game-pass-december-2021-games-list-pc-cloud-android-ios-mortal-kombat)
+ - [A backstage tour of Freddy Fazbear’s Mega Pizzaplex in Five Nights Freddy’s: Security Breach](https://blog.playstation.com/2021/12/14/a-backstage-tour-of-freddy-fazbears-mega-pizzaplex-in-five-nights-freddys-security-breach/)
+ - [A backstage tour of Freddy Fazbear’s Mega Pizzaplex in Five Nights Freddy’s: Security Breach](https://blog.playstation.com/2021/12/14/a-backstage-tour-of-freddy-fazbears-mega-pizzaplex-in-five-nights-freddys-security-breach/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
