@@ -194,8 +194,8 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Austrian trains](http://9gag.com/gag/aLvM87A)
- - 🚯 [Life so far.](http://9gag.com/gag/aRrKjZ5)
- - 🚯 [Sank you!](http://9gag.com/gag/azerqRp)<!-- MEMES:END -->
+ - 🚯 [Demonstrates how he went through that small hole](http://9gag.com/gag/azerqrB)
+ - 🚯 [Worse than 2020 imo](http://9gag.com/gag/aVxD3XK)<!-- MEMES:END -->
 
 --- 
 
