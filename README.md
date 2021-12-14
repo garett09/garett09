@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [11 best graphing calculator apps and emulators for Android](https://www.androidauthority.com/best-graphing-calculator-apps-emulators-android-3071269/)
  - [A look at South Korea&#39;s antitrust battles with local tech firms Kakao and Naver, as regulators balance protectionism with the companies&#39; global ambitions &lpar;Steven Borowiec/Rest of World&rpar;](http://www.techmeme.com/211214/p3#a211214p3)
- - [Netflix gets massive price cuts across the board in India](https://www.androidauthority.com/netflix-india-price-cuts-3075195/)
- - [Cadence, a digital health care startup that specializes in virtual patient monitoring, raises $100M led by Coatue Management at a $1B valuation &lpar;Gillian Tan/Bloomberg&rpar;](http://www.techmeme.com/211214/p2#a211214p2)<!-- TECH:END -->
+ - [Netflix gets massive price cuts across the board in India](https://www.androidauthority.com/netflix-india-price-cuts-3075195/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
