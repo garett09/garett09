@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Last call: Up to $300 off 14-inch and 16-inch MacBook Pros, Mac mini 16GB RAM for $789, $200 off 13-inch MacBook Pro, $150 off MacBook Air](https://appleinsider.com/articles/21/12/14/last-call-up-to-300-off-14-inch-and-16-inch-macbook-pros-mac-mini-16gb-ram-for-789-200-off-13-inch-macbook-pro-150-off-macbook-air?utm_medium=rss)
- - [Opal’s C1 offers DSLR-rivaling video quality in a small form factor](https://www.theverge.com/22834196/opal-c1-webcam-camera-dslr-video-quality-performance-review-price)
- - [Pony.ai’s permit to test driverless vehicles in California is suspended after crash](https://www.theverge.com/2021/12/14/22834496/pony-ai-av-test-permit-suspend-california-dmv-crash)<!-- TECH:END -->
+ - [A look at Solana&#39;s early backers including 500 Startups, Slow Ventures, Multicoin Capital, and angels David Quiec and Chris McCann, who have $1B+ stakes &lpar;Hannah Miller/The Information&rpar;](http://www.techmeme.com/211214/p37#a211214p37)
+ - [Twitter is rolling out automatic captions for videos](https://www.theverge.com/2021/12/14/22834366/twitter-automatic-live-captions-videos)
+ - [Adobe updates Photoshop for iPad with new Smudge, Sponge tools](https://appleinsider.com/articles/21/12/14/adobe-updates-photoshop-for-ipad-with-new-smudge-sponge-tools?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
