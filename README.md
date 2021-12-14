@@ -194,7 +194,7 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Just one more](http://9gag.com/gag/avAr88X)
- - 🚯 [Meanwhile you know where...](http://9gag.com/gag/amgr7p9)
+ - 🚯 [Jackie Chan](http://9gag.com/gag/arnOGoV)
  - 🚯 [What movie character are you? Screenshot to find out!](http://9gag.com/gag/a91Wp06)<!-- MEMES:END -->
 
 --- 
