@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [He has a point&amp;hellip;](http://9gag.com/gag/aPZMBwq)
- - 🚯 [Just saw this dude cruising down the road by himself in a Tesla](http://9gag.com/gag/ay9LDXX)
- - 🚯 [Wanna join them](http://9gag.com/gag/adgqqRV)<!-- MEMES:END -->
+ - 🚖 [I think the texture of quiche is fine..](http://9gag.com/gag/a41ZGxA)
+ - 🚯 [Some looney tunes shit](http://9gag.com/gag/aVxDMWO)
+ - 🚯 [Easter europian thing](http://9gag.com/gag/aVxDMNv)<!-- MEMES:END -->
 
 --- 
 
