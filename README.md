@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [New Sonnet Echo 5 hub has three downstream Thunderbolt 4 ports, one USB-A](https://appleinsider.com/articles/21/12/14/new-sonnet-echo-5-hub-has-three-downstream-thunderbolt-4-ports-one-usb-a?utm_medium=rss)
- - [PwC report details the ransomware attack on Ireland&#39;s public health system in May 2021 and finds that IT admins failed to respond to multiple warning signs &lpar;Brian Krebs/Krebs on Security&rpar;](http://www.techmeme.com/211214/p29#a211214p29)
- - [The first trailer for Everything Everywhere All At Once reveals what we all want: a Michelle Yeoh multiverse](https://www.theverge.com/2021/12/14/22834049/michelle-yeoh-everything-everywhere-all-at-once-trailer)<!-- TECH:END -->
+ - [How to make a Spotify playlist public](https://www.androidauthority.com/make-spotify-playlist-public-3075538/)
+ - [Nomad&#39;s new Base Station Hub adds magnetic alignment, charges four devices](https://appleinsider.com/articles/21/12/14/nomads-new-base-station-hub-adds-magnetic-alignment-charges-four-devices?utm_medium=rss)
+ - [The King&#39;s Man is a deranged spy movie kicking history in the face     - CNET](https://www.cnet.com/news/the-kings-man-is-a-deranged-spy-movie-which-kicks-history-in-the-face/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
