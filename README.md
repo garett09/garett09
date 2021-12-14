@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix slashes its prices across all tiers in India, with the Basic plan now starting at $2.60/month, down from $6.60/month, amid intense competition &lpar;Vikas Sn/Moneycontrol&rpar;](http://www.techmeme.com/211213/p33#a211213p33)
- - [Labor Department investigating Apple over #AppleToo employee complaints](https://appleinsider.com/articles/21/12/14/labor-department-investigating-apple-over-appletoo-employee-complaints?utm_medium=rss)
- - [Documents and interviews reveal Apache developers&#39; efforts to patch the Log4j vulnerability, after an Alibaba employee alerted them of the flaw on November 24 &lpar;Bloomberg&rpar;](http://www.techmeme.com/211213/p32#a211213p32)<!-- TECH:END -->
+ - [LinkedIn launches InCareer, a mobile and web app to help professionals in China find jobs, two months after Microsoft shut down the Chinese version of LinkedIn &lpar;Mohak Shroff/Official LinkedIn Blog&rpar;](http://www.techmeme.com/211213/p34#a211213p34)
+ - [Netflix slashes all its price tiers in India, with the Basic plan now starting at $2.60/month, down from $6.60/month, amid intense competition &lpar;Vikas Sn/Moneycontrol&rpar;](http://www.techmeme.com/211213/p33#a211213p33)
+ - [Labor Department investigating Apple over #AppleToo employee complaints](https://appleinsider.com/articles/21/12/14/labor-department-investigating-apple-over-appletoo-employee-complaints?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
