@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta says it has acquired the worldwide trademark assets of US regional bank Meta Financial Group for $60M in cash through a company called Beige Key &lpar;Reuters&rpar;](http://www.techmeme.com/211213/p26#a211213p26)
- - [Apple releases iOS 15.2 &amp; iPadOS 15.2 with legacy contacts, Apple Music Voice, more](https://appleinsider.com/articles/21/12/13/apple-releases-ios-152-ipados-152-with-airtag-privacy-features-apple-music-voice-and-more?utm_medium=rss)
- - [Sources: Amazon&#39;s Instacart rival, internally called Fresh Marketplace, will expand to the US and Europe in 2022 following its recent UK debut &lpar;The Information&rpar;](http://www.techmeme.com/211213/p25#a211213p25)<!-- TECH:END -->
+ - [Research: Big Tech companies leverage outdated SEC reporting rules to obscure how they monetize data across platforms; tech-specific 10K disclosures are needed &lpar;Rana Foroohar/Financial Times&rpar;](http://www.techmeme.com/211213/p28#a211213p28)
+ - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
+ - [Save up to $250 on Apple&#39;s MacBook Pro, Mac mini and iMac, plus free expedited shipping](https://appleinsider.com/articles/21/12/14/save-up-to-250-on-apples-macbook-pro-mac-mini-and-imac-plus-free-expedited-shipping?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
