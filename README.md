@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [True dat](http://9gag.com/gag/aegYY9b)
- - 🚯 [He has a point&amp;hellip;](http://9gag.com/gag/aPZMBwq)
- - 🚯 [Get it grandma](http://9gag.com/gag/a71ZZnm)<!-- MEMES:END -->
+ - 🚖 [Just saw this dude cruising down the road by himself in a Tesla](http://9gag.com/gag/ay9LDXX)
+ - 🚯 [Get it grandma](http://9gag.com/gag/a71ZZnm)
+ - 🚯 [It ain&amp;#039;t much but it&amp;#039;s s honest life](http://9gag.com/gag/amgrrxX)<!-- MEMES:END -->
 
 --- 
 
