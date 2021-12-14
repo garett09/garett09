@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Research: Big Tech companies leverage outdated SEC reporting rules to obscure how they monetize data across platforms; tech-specific 10K disclosures are needed &lpar;Rana Foroohar/Financial Times&rpar;](http://www.techmeme.com/211213/p28#a211213p28)
- - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
- - [Save up to $250 on Apple&#39;s MacBook Pro, Mac mini and iMac, plus free expedited shipping](https://appleinsider.com/articles/21/12/14/save-up-to-250-on-apples-macbook-pro-mac-mini-and-imac-plus-free-expedited-shipping?utm_medium=rss)<!-- TECH:END -->
+ - [Nike just bought a virtual shoe company that makes NFTs and sneakers ‘for the metaverse’](https://www.theverge.com/22833369/nike-rtfkt-nft-sneaker-shoe-metaverse-company)
+ - [Don’t buy a monitor or TV just for HDMI 2.1 — read the fine print or you might get fooled](https://www.theverge.com/2021/12/13/22833233/hdmi-2-1-fake-marketing-brand-frl-vrr-allm-bandwidth)
+ - [The Log4J Vulnerability Will Haunt the Internet for Years](https://www.wired.com/story/log4j-log4shell)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
