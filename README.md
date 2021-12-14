@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Austrian trains](http://9gag.com/gag/aLvM87A)
- - 🚯 [Demonstrates how he went through that small hole](http://9gag.com/gag/azerqrB)
- - 🚯 [Worse than 2020 imo](http://9gag.com/gag/aVxD3XK)<!-- MEMES:END -->
+ - 🚖 [Easter europian thing](http://9gag.com/gag/aVxDMNv)
+ - 🚯 [Letters ruined maths.](http://9gag.com/gag/a61MooA)
+ - 🚯 [We need to start the Art Deco movement back up again.](http://9gag.com/gag/axBg1Rn)<!-- MEMES:END -->
 
 --- 
 
