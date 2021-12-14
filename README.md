@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Genshin Impact Condoms Are Real And Fans Want Them](https://kotaku.com/genshin-impact-condoms-are-real-and-fans-want-them-1848213050)
- - [Death’s Door balances a grim world with never-ending charm](https://www.polygon.com/22832888/deaths-door-details-game-of-the-year-goty)
- - [Socialist Twitch Streamer Banned For Calling White People ‘Cracker’](https://kotaku.com/socialist-twitch-streamer-banned-for-calling-white-peop-1848213042)<!-- GAME:END -->
+ - [Minecraft Dungeons First Seasonal Adventure is Here with the Free Cloudy Climb Update](https://news.xbox.com/en-us/2021/12/14/minecraft-dungeons-first-seasonal-adventure-is-here-with-the-free-cloudy-climb-update/)
+ - [All the recipes and ingredients in Destiny 2&#39;s The Dawning 2021](https://www.pcgamer.com/destiny-2-the-dawning-recipes-2021)
+ - [The 10 &lpar;or 11&rpar; best documentaries of 2021](https://www.polygon.com/22833214/best-documentaries-2021-movies)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
