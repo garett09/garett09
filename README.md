@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cadence, a digital health care startup that specializes in virtual patient monitoring, raises $100M led by Coatue Management at a $1B valuation &lpar;Gillian Tan/Bloomberg&rpar;](http://www.techmeme.com/211214/p2#a211214p2)
- - [The Huawei P50 Pocket is coming next week: Is this a Galaxy Z Flip rival?](https://www.androidauthority.com/huawei-p50-pocket-3075177/)
- - [A look at a &quot;smart city&quot; project near Busan, as the South Korean government normalizes surveillance by repurposing its &quot;smart city&quot; systems to battle COVID-19 &lpar;Victoria Kim/Los Angeles Times&rpar;](http://www.techmeme.com/211214/p1#a211214p1)<!-- TECH:END -->
+ - [A look at South Korea&#39;s antitrust battles with local tech firms Kakao and Naver, as regulators balance protectionism with the companies&#39; global ambitions &lpar;Steven Borowiec/Rest of World&rpar;](http://www.techmeme.com/211214/p3#a211214p3)
+ - [Netflix gets massive price cuts across the board in India](https://www.androidauthority.com/netflix-india-price-cuts-3075195/)
+ - [Cadence, a digital health care startup that specializes in virtual patient monitoring, raises $100M led by Coatue Management at a $1B valuation &lpar;Gillian Tan/Bloomberg&rpar;](http://www.techmeme.com/211214/p2#a211214p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
