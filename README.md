@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [System Shock remake is coming in 2022, so here&#39;s 15 all-new screens](https://www.pcgamer.com/system-shock-remake-is-coming-next-year-so-heres-15-all-new-screens)
- - [Dragon Ball Voice Actor And Narrator Joji Yanami Dies At 90](https://kotaku.com/dragon-ball-voice-actor-and-narrator-joji-yanami-dies-a-1848211342)
- - [Celebrating ROCCAT Vulcan keyboards&#39; marriage of technology and style](https://www.pcgamer.com/celebrating-roccat-vulcan-keyboards-marriage-of-technology-and-style)<!-- GAME:END -->
+ - [Spider-Man: No Way Home: our spoiler-lite review](https://www.polygon.com/reviews/22833733/spider-man-no-way-home-review)
+ - [Windjammers 2 comes to PS4 on January 20](https://blog.playstation.com/2021/12/14/windjammers-2-comes-to-ps4-on-january-20/)
+ - [Windjammers 2 comes to PS4 on January 20](https://blog.playstation.com/2021/12/14/windjammers-2-comes-to-ps4-on-january-20/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
