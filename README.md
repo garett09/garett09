@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Easter europian thing](http://9gag.com/gag/aVxDMNv)
+ - 🚖 [Just another No Way Home spoiler](http://9gag.com/gag/aVxD3Yw)
  - 🚯 [Letters ruined maths.](http://9gag.com/gag/a61MooA)
- - 🚯 [We need to start the Art Deco movement back up again.](http://9gag.com/gag/axBg1Rn)<!-- MEMES:END -->
+ - 🚯 [How do you pronounce it!?](http://9gag.com/gag/aegYeB5)<!-- MEMES:END -->
 
 --- 
 
