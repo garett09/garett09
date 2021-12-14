@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mesh Payments, which helps companies track employee expenses, raises a $50M Series B led by Tiger Global, bringing its total raised to $63M &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/211214/p18#a211214p18)
- - [Apple TV+ beats Netflix in auction for Colin Farrell drama &#39;Sugar&#39;](https://appleinsider.com/articles/21/12/14/apple-tv-beats-netflix-in-auction-for-colin-farrell-drama-sugar?utm_medium=rss)
- - [The Best VR Headsets and Games to Explore the Metaverse](https://www.wired.com/gallery/best-vr-headsets-in-this-reality)<!-- TECH:END -->
+ - [Best deals Dec. 14: $1,049 512GB M1 MacBook Air, $280 Anker mini projector, more!](https://appleinsider.com/articles/21/12/14/best-deals-dec-14-1049-512gb-m1-macbook-air-280-anker-mini-projector-more?utm_medium=rss)
+ - [Analysis: Log4j attacks rose from a few thousand on Dec. 10 to over 800K within 72 hours; exploits have been attempted on 40%+ of corporate networks globally &lpar;Tal Eisner/Check Point Software&rpar;](http://www.techmeme.com/211214/p22#a211214p22)
+ - [Apple TV+ beats Netflix in auction for Colin Farrell drama &#39;Sugar&#39;](https://appleinsider.com/articles/21/12/14/apple-tv-beats-netflix-in-auction-for-colin-farrell-drama-sugar?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
