@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [North Koreans&amp;#039; first time seeing Korien POP .&amp;gt;&amp;gt;](http://9gag.com/gag/azerm1K)
- - 🚯 [It&amp;#039;s getting harder and harder for foreigners to study English nowadays](http://9gag.com/gag/a91WRKL)
+ - 🚖 [Convict Steven Sandison tells judge how he killed child molester inmate](http://9gag.com/gag/ay9LBYy)
+ - 🚯 [North Koreans&amp;#039; first time seeing Korien POP .&amp;gt;&amp;gt;](http://9gag.com/gag/azerm1K)
  - 🚯 [What movie character are you? Screenshot to find out!](http://9gag.com/gag/a91Wp06)<!-- MEMES:END -->
 
 --- 
