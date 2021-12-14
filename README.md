@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Just another No Way Home spoiler](http://9gag.com/gag/aVxD3Yw)
+ - 🚖 [How do you pronounce it!?](http://9gag.com/gag/aegYeB5)
  - 🚯 [Letters ruined maths.](http://9gag.com/gag/a61MooA)
- - 🚯 [How do you pronounce it!?](http://9gag.com/gag/aegYeB5)<!-- MEMES:END -->
+ - 🚯 [They don&amp;#039;t make them as they used to](http://9gag.com/gag/aBnw03z)<!-- MEMES:END -->
 
 --- 
 
