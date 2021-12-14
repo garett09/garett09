@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [German company Software AG, which offers tools to manage data used by 50% of the Fortune 500, raises &amp;euro;344M from Silver Lake &lpar;Jan-Henrik Foerster/Bloomberg&rpar;](http://www.techmeme.com/211214/p13#a211214p13)
- - [Deplatforming Trump didn’t work](https://www.theverge.com/2021/12/14/22833467/deplatforming-trump-didnt-work)
- - [Apple delays macOS Monterey&#39;s Universal Control until spring 2022, after saying it would launch in the fall &lpar;Sami Fathi/MacRumors&rpar;](http://www.techmeme.com/211214/p12#a211214p12)<!-- TECH:END -->
+ - [Vox buying Group Nine, forming one of the largest online publishers](https://appleinsider.com/articles/21/12/14/vox-buying-group-nine-forming-one-of-the-largest-online-publishers?utm_medium=rss)
+ - [Daily Authority: 😎 AR = Assisted Reality?](https://www.androidauthority.com/newsletters/da-december-14-2021/)
+ - [YouTube TV warns subscribers it could lose Disney’s channels later this week](https://www.theverge.com/2021/12/14/22833849/youtube-tv-disney-carrier-dispute-abc-news-espn-december-17)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
