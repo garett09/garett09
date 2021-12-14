@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Just one more](http://9gag.com/gag/avAr88X)
- - 🚯 [Jackie Chan](http://9gag.com/gag/arnOGoV)
+ - 🚖 [Dinosaur Nuggets](http://9gag.com/gag/aE8Rgde)
+ - 🚯 [They don&amp;#039;t make them as they used to](http://9gag.com/gag/aBnw03z)
  - 🚯 [What movie character are you? Screenshot to find out!](http://9gag.com/gag/a91Wp06)<!-- MEMES:END -->
 
 --- 
