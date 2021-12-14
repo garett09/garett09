@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Some looney tunes shit](http://9gag.com/gag/aVxDMWO)
- - 🚯 [Dance of the Nokias](http://9gag.com/gag/a51ZbwO)
- - 🚯 [How to Cheer up a guy.](http://9gag.com/gag/a91WAy0)<!-- MEMES:END -->
+ - 🚖 [He has a point&amp;hellip;](http://9gag.com/gag/aPZMBwq)
+ - 🚯 [Just saw this dude cruising down the road by himself in a Tesla](http://9gag.com/gag/ay9LDXX)
+ - 🚯 [Wanna join them](http://9gag.com/gag/adgqqRV)<!-- MEMES:END -->
 
 --- 
 
