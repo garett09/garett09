@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [UFC star Robert Whittaker is now a fully-voiced Skyrim companion](https://www.pcgamer.com/ufc-star-robert-whittaker-is-now-a-fully-voiced-skyrim-companion)
- - [Dr. Disrespect launches &#39;AAA game studio&#39; with Call of Duty and Halo veterans](https://www.pcgamer.com/dr-disrespect-launches-aaa-game-studio-with-call-of-duty-and-halo-veterans)
- - [Halo Infinite&#39;s Battle Pass Is Adding Better Challenges That Are Perfect For The New Playlists](https://kotaku.com/halo-infinites-battle-pass-is-adding-better-challenges-1848215525)<!-- GAME:END -->
+ - [Twitch&#39;s &#39;Pay-To-Win&#39; Boost Feature Doesn&#39;t Actually Help People, Surprising No One](https://kotaku.com/twitchs-pay-to-win-boost-feature-doesnt-actually-help-p-1848216696)
+ - [Among Us Is out now on Xbox One, Xbox Series X|S, and with Xbox Game Pass](https://news.xbox.com/en-us/2021/12/14/among-us-is-out-now-on-xbox-one-xbox-series-xs-and-with-xbox-game-pass/)
+ - [The Witcher season 1 recap: what you need to know before watching season 2](https://www.pcgamer.com/witcher-season-1-recap-netflix)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
