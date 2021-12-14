@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Red Rocket is the ultimate hangout with the ultimate dirtbag](https://www.polygon.com/reviews/22832914/red-rocket-review)
- - [PlayStation 4 Jailbroken, Exploit May Work On PS5 Too](https://kotaku.com/playstation-4-jailbroken-exploit-may-work-on-ps5-too-1848208755)
- - [This Zelda-like RPG makes overworld exploration a breeze](https://www.polygon.com/22832766/zelda-rpg-overworld-like-indie-dev-side-scroller)<!-- GAME:END -->
+ - [Commemorate Xbox&#39;s most iconic failure with this $25 Red Ring of Death poster](https://www.pcgamer.com/commemorate-xboxs-most-iconic-failure-with-this-dollar25-red-ring-of-death-poster)
+ - [Battlefield 2042: The Kotaku Review](https://kotaku.com/battlefield-2042-the-kotaku-review-1848123654)
+ - [Best CPU air coolers](https://www.pcgamer.com/best-cpu-air-coolers)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
