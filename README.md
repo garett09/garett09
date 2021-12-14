@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best deals Dec. 14: $1,049 512GB M1 MacBook Air, $280 Anker mini projector, more!](https://appleinsider.com/articles/21/12/14/best-deals-dec-14-1049-512gb-m1-macbook-air-280-anker-mini-projector-more?utm_medium=rss)
- - [Analysis: Log4j attacks rose from a few thousand on Dec. 10 to over 800K within 72 hours; exploits have been attempted on 40%+ of corporate networks globally &lpar;Tal Eisner/Check Point Software&rpar;](http://www.techmeme.com/211214/p22#a211214p22)
- - [Apple TV+ beats Netflix in auction for Colin Farrell drama &#39;Sugar&#39;](https://appleinsider.com/articles/21/12/14/apple-tv-beats-netflix-in-auction-for-colin-farrell-drama-sugar?utm_medium=rss)<!-- TECH:END -->
+ - [How to Transfer WhatsApp Data from Android to iPhone in 2021](https://appleinsider.com/articles/21/12/14/how-to-transfer-whatsapp-data-from-android-to-iphone-in-2021?utm_medium=rss)
+ - [Medal.tv raises $60M to expand its platform for short gaming clips, bringing its total funding to $70M, and says it has nearly 1M DAUs &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/211214/p28#a211214p28)
+ - [Snap says it paid out over $250M to more than 12,000 creators through its Snapchat Spotlight programs in 2021 &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/211214/p27#a211214p27)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
