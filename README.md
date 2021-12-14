@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [11 best graphing calculator apps and emulators for Android](https://www.androidauthority.com/best-graphing-calculator-apps-emulators-android-3071269/)
- - [A look at South Korea&#39;s antitrust battles with local tech firms Kakao and Naver, as regulators balance protectionism with the companies&#39; global ambitions &lpar;Steven Borowiec/Rest of World&rpar;](http://www.techmeme.com/211214/p3#a211214p3)
- - [Netflix gets massive price cuts across the board in India](https://www.androidauthority.com/netflix-india-price-cuts-3075195/)<!-- TECH:END -->
+ - [US OSHA says it is investigating the deadly collapse of an Amazon warehouse in Illinois caused by a tornado; six workers died, one was injured, 45 were rescued &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/211214/p5#a211214p5)
+ - [Google staffs up to build OS for unknown ‘innovative AR device’](https://www.theverge.com/2021/12/14/22833801/google-augmented-reality-operating-system-ar-os-team-mark-lucovsky)
+ - [Oppo channels Google Glass with its latest ‘assisted reality’ glasses](https://www.androidauthority.com/oppo-air-glass-3073120/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
