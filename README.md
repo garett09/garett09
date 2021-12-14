@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Axe-Wielding Man Locked People Inside Arcade, Smashed Games In Two-Day Rampage](https://kotaku.com/axe-wielding-man-locked-people-inside-arcade-smashed-g-1848214957)
- - [NHL 22 Partners with IIHF](https://news.xbox.com/en-us/2021/12/14/nhl-22-partners-with-iihf/)
- - [Animal Crossing players explain how to make the perfect Snowboy](https://www.polygon.com/22834483/animal-crossing-new-horizons-how-to-make-perfect-snowboy-players-tips)<!-- GAME:END -->
+ - [Atlas, Titan of the Cosmos, is Available Now in Earth-moving Smite Update](https://news.xbox.com/en-us/2021/12/14/atlas-available-now-smite-update/)
+ - [Ubisoft Devs Don’t Understand Company’s NFT Push, Either](https://kotaku.com/ubisoft-devs-don-t-understand-company-s-nft-push-eithe-1848215633)
+ - [Axe-Wielding Man Locked People Inside Arcade, Smashed Games In Two-Day Rampage](https://kotaku.com/axe-wielding-man-locked-people-inside-arcade-smashed-g-1848214957)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
