@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [VRam boosted RTX 30-series cards likely shelved, RTX 3090 Ti reportedly forging ahead](https://www.pcgamer.com/vram-boosted-rtx-30-series-cards-likely-shelved-rtx-3090-ti-reportedly-forging-ahead)
- - [These are the first Intel Alder Lake CPUs without Efficient Cores](https://www.pcgamer.com/these-are-the-first-intel-alder-lake-cpus-without-efficient-cores)
- - [Hey, an actual RTX 2060 12GB is in stock and, uh oh, it&#39;s £515](https://www.pcgamer.com/hey-an-actual-rtx-2060-12gb-is-in-stock-and-uh-oh-its-pound515)<!-- GAME:END -->
+ - [AMD&#39;s CES show will highlight upcoming Ryzen processors and Radeon graphics](https://www.pcgamer.com/amds-ces-show-will-highlight-upcoming-ryzen-processors-and-radeon-graphics)
+ - [Dell&#39;s Concept Luna is a sustainable, repairable laptop](https://www.pcgamer.com/dells-concept-luna-is-a-sustainable-repairable-laptop)
+ - [VRam boosted RTX 30-series cards likely shelved, RTX 3090 Ti reportedly forging ahead](https://www.pcgamer.com/vram-boosted-rtx-30-series-cards-likely-shelved-rtx-3090-ti-reportedly-forging-ahead)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
