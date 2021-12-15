@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Crusader Kings 3: Royal Court makes a great RPG even better](https://www.pcgamer.com/crusader-kings-3-royal-court-makes-a-great-rpg-even-better)
- - [North America has its first video game union at Vodeo Games](https://www.polygon.com/22834924/vodeo-games-first-video-game-union-north-america-code-cwa)
- - [Hitman 3 is absurd and hilarious, like trying to return a dead parrot](https://www.polygon.com/22834929/hitman-3-game-of-the-year-dead-goty-parrot-monty-python)<!-- GAME:END -->
+ - [Great Houses of Calderia is a fantasy grand strategy that aims to topple Crusader Kings](https://www.pcgamer.com/great-houses-of-calderia-is-a-fantasy-grand-strategy-that-aims-to-topple-crusader-kings)
+ - [Get Ready for Family Game Night with Xbox Game Pass and Ben 10, Transformers, the PAW Patrol, and Ryan’s World](https://news.xbox.com/en-us/2021/12/15/family-game-night-with-xbox-game-pass/)
+ - [Deathloop Redefines Blackness In Video Games](https://kotaku.com/deathloop-redefines-blackness-in-video-games-1848214453)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
