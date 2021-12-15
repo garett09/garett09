@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Minecraft crosses 1 trillion views on YouTube, most popular game ever on platform     - CNET](https://www.cnet.com/tech/gaming/minecraft-crosses-1-trillion-views-on-youtube-most-popular-game-ever-on-platform/#ftag=CAD590a51e)
- - [Dell thinks the future of work is detachable webcams and digital notepads     - CNET](https://www.cnet.com/tech/computing/dell-thinks-the-future-of-work-is-detachable-webcams-and-digital-notepads/#ftag=CAD590a51e)
- - [The US Department of Homeland Security launches &quot;Hack DHS&quot;, a bug bounty program that will pay hackers $500 to $5,000 for finding vulnerabilities in its systems &lpar;Martin Matishak/The Record&rpar;](http://www.techmeme.com/211214/p45#a211214p45)<!-- TECH:END -->
+ - [Here’s what Wear OS 3 looks like without Samsung’s skin](https://www.androidauthority.com/wear-os-3-no-skin-3075925/)
+ - [Leaked memo: Google tells employees they must comply with vaccine policies by January 18 or lose pay and eventually be fired &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/211215/p1#a211215p1)
+ - [B&amp;H&#39;s Holiday Sale knocks up to $270 off MacBooks, Mac mini, iPads, iMacs](https://appleinsider.com/articles/21/12/15/bhs-holiday-sale-knocks-up-to-270-off-macbooks-mac-mini-ipads-imacs?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
