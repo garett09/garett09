@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What&amp;#039;s in the box](http://9gag.com/gag/ay9Le4r)
- - 🚯 [North Koreans&amp;#039; first time seeing Korien POP .&amp;gt;&amp;gt;](http://9gag.com/gag/azerm1K)
+ - 🚖 [Big badaboom!](http://9gag.com/gag/a41Z3WQ)
+ - 🚯 [Still want to go to war?](http://9gag.com/gag/aOQd0r3)
  - 🚯 [What movie character are you? Screenshot to find out!](http://9gag.com/gag/a91Wp06)<!-- MEMES:END -->
 
 --- 
