@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Dead By Daylight&#39;s Next Chapter Will Feature The Ring](https://kotaku.com/dead-by-daylights-next-chapter-will-feature-the-ring-1848218407)
  - [AMD&#39;s CES show will highlight upcoming Ryzen processors and Radeon graphics](https://www.pcgamer.com/amds-ces-show-will-highlight-upcoming-ryzen-processors-and-radeon-graphics)
- - [Dell&#39;s Concept Luna is a sustainable, repairable laptop](https://www.pcgamer.com/dells-concept-luna-is-a-sustainable-repairable-laptop)
- - [VRAM boosted RTX 30-series cards likely shelved, RTX 3090 Ti reportedly forging ahead](https://www.pcgamer.com/vram-boosted-rtx-30-series-cards-likely-shelved-rtx-3090-ti-reportedly-forging-ahead)<!-- GAME:END -->
+ - [Dell&#39;s Concept Luna is a sustainable, repairable laptop](https://www.pcgamer.com/dells-concept-luna-is-a-sustainable-repairable-laptop)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
