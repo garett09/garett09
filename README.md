@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [WhatsApp immediately crashing upon opening for many iPhone users](https://appleinsider.com/articles/21/12/15/whatsapp-immediately-crashing-upon-opening-for-many-iphone-users?utm_medium=rss)
- - [Leaked documents link Huawei to China’s domestic spying in Xinjiang](https://www.theverge.com/2021/12/14/22834860/huawei-leaked-documents-xinjiang-region-uyghur-facial-recognition-prisons-surveillance)
- - [Six more women file lawsuits against Tesla, allege sexual harassment worsened by Musk’s tweets](https://www.theverge.com/2021/12/14/22835181/tesla-lawsuit-sexual-harassment-six-women)<!-- TECH:END -->
+ - [The Verge’s 2021 holiday gift guide for creators](https://www.theverge.com/22746670/holiday-gift-ideas-2021-creators-content-artists-tech-gadgets-creative)
+ - [Best Samsung phones to buy in 2021     - CNET](https://www.cnet.com/tech/mobile/best-samsung-phones/#ftag=CAD590a51e)
+ - [NASA delays launch of James Webb Space Telescope again     - CNET](https://www.cnet.com/tech/nasa-delays-launch-of-james-webb-space-telescope-again/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
