@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Only one actor can play as Nicholas Cage](http://9gag.com/gag/adgqP0Q)
- - 🚯 [Desert map in games exist The music :](http://9gag.com/gag/aAGwGmR)
+ - 🚖 [Casual shoplifting at a target in L.A.](http://9gag.com/gag/apgrgKW)
+ - 🚯 [Yes](http://9gag.com/gag/aAGwGOE)
  - 🚯 [What movie character are you? Screenshot to find out!](http://9gag.com/gag/a91Wp06)<!-- MEMES:END -->
 
 --- 
