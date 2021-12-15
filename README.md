@@ -193,7 +193,7 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [He has broken several female swimming records. What a great guy.](http://9gag.com/gag/avArAbE)
+ - 🚖 [Name all of them and yours favorit from 8bit era! Mine was that cat and turtles :&rpar; Kid 35 y.o. &rpar;](http://9gag.com/gag/aBnwyex)
  - 🚯 [2000 cartoon network just hit different](http://9gag.com/gag/aXrAPP2)
  - 🚯 [Vote for the best games of the year for a chance to win OnePlus mobile phones, Nanoleaf smart lights and US$500 cash prizes!](http://9gag.com/gag/aqGLDGp)<!-- MEMES:END -->
 
