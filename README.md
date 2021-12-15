@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at Chinese fast fashion online retailer Shein, as 2020 sales reportedly hit $10B thanks to knockoff items, a nimble supply chain, and social media &lpar;Rest of World&rpar;](http://www.techmeme.com/211215/p4#a211215p4)
  - [How China helps foreign influencers in the country who spread pro-China messages, funding their travel and generating lucrative, likely inauthentic, traffic &lpar;New York Times&rpar;](http://www.techmeme.com/211215/p3#a211215p3)
- - [Oppo’s retractable camera delivers 2X zoom, smaller camera bump &lpar;Updated&rpar;](https://www.androidauthority.com/oppo-retractable-camera-3072059/)
- - [The Huawei P50 Pocket is coming next week &lpar;Updated: First official images&rpar;](https://www.androidauthority.com/huawei-p50-pocket-3075177/)<!-- TECH:END -->
+ - [Oppo’s retractable camera delivers 2X zoom, smaller camera bump &lpar;Updated&rpar;](https://www.androidauthority.com/oppo-retractable-camera-3072059/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
