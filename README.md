@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Big badaboom!](http://9gag.com/gag/a41Z3WQ)
- - 🚯 [Time for family picture!](http://9gag.com/gag/aog2Mzx)
+ - 🚖 [Cat who lost her kids is given an astray kitten.](http://9gag.com/gag/avArAGX)
+ - 🚯 [How tinder is for a man - end 2021](http://9gag.com/gag/aGz0pm5)
  - 🚯 [What movie character are you? Screenshot to find out!](http://9gag.com/gag/a91Wp06)<!-- MEMES:END -->
 
 --- 
