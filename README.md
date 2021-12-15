@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How tinder is for a man - end 2021](http://9gag.com/gag/aGz0pm5)
- - 🚯 [Totally agree](http://9gag.com/gag/a317E9e)
+ - 🚖 [Ah yes the good ol&amp;#039; Ketosaurus Rex](http://9gag.com/gag/angygRo)
+ - 🚯 [Lmaoo](http://9gag.com/gag/a81pEPp)
  - 🚯 [What movie character are you? Screenshot to find out!](http://9gag.com/gag/a91Wp06)<!-- MEMES:END -->
 
 --- 
