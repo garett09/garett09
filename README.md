@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [343 tweaks Halo Infinite challenges for speedier battle pass progression](https://www.polygon.com/22837628/halo-infinite-battle-pass-progression-challenge-update)
- - [Exciting 2022 brawler Sifu is as tough as I&#39;d hoped](https://www.pcgamer.com/exciting-2022-brawler-sifu-is-as-challenging-as-id-hoped)
- - [Indie Studio Forms First Video Game Union In The Country](https://kotaku.com/indie-studio-forms-first-video-game-union-in-the-countr-1848219725)<!-- GAME:END -->
+ - [YouTube Celebrates the Minecraft Community](https://news.xbox.com/en-us/2021/12/15/youtube-celebrates-the-minecraft-community/)
+ - [Resident Evil Village is a greatest hits of video game horror](https://www.polygon.com/22834725/resident-evil-village-game-of-the-year-goty-survival-horror)
+ - [STALKER 2 makers to auction NFTs for in-game NPC appearance](https://www.polygon.com/22837762/stalker-2-nfts-npc-auction-platform-blockchain)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
