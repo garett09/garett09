@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Ah yes the good ol&amp;#039; Ketosaurus Rex](http://9gag.com/gag/angygRo)
- - 🚯 [Lmaoo](http://9gag.com/gag/a81pEPp)
+ - 🚖 [Why is it taking so long to announce him as the next Bond?](http://9gag.com/gag/aLvMwqv)
+ - 🚯 [So the Americans know the difference...](http://9gag.com/gag/aPZM3LQ)
  - 🚯 [What movie character are you? Screenshot to find out!](http://9gag.com/gag/a91Wp06)<!-- MEMES:END -->
 
 --- 
