@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Rumble gives an underdog sports story a monster-packed makeover](https://www.polygon.com/22838388/rumble-review-wwe-paramount-plus)
- - [How to get Spider-Man&#39;s web shooters in Fortnite, and how to use them](https://www.pcgamer.com/fortnite-spider-man-web-shooters)
- - [Modders Hack Elden Ring Demo, Sprinkle In Some GTA San Andreas](https://kotaku.com/modders-hack-elden-ring-demo-sprinkle-in-some-gta-san-1848222673)<!-- GAME:END -->
+ - [Halo Infinite Fans Don’t Wanna Shell Out $18 For A Set Of Old Armor](https://kotaku.com/halo-infinite-fans-don-t-wanna-shell-out-18-for-a-set-1848223609)
+ - [Let claymation Ted Lasso soothe your holiday worries](https://www.polygon.com/entertainment/22838529/ted-lasso-christmas-claymation)
+ - [Lamar Is Still Roasting Franklin In New GTA Online Missions](https://kotaku.com/lamar-is-still-roasting-franklin-in-new-gta-online-miss-1848223380)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
