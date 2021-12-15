@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Casual shoplifting at a target in L.A.](http://9gag.com/gag/apgrgKW)
- - 🚯 [Yes](http://9gag.com/gag/aAGwGOE)
+ - 🚖 [How huge is the queen ant](http://9gag.com/gag/aRrKErj)
+ - 🚯 [We are all broke now!](http://9gag.com/gag/avArAVW)
  - 🚯 [What movie character are you? Screenshot to find out!](http://9gag.com/gag/a91Wp06)<!-- MEMES:END -->
 
 --- 
