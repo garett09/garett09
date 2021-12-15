@@ -181,7 +181,7 @@ Windows                  3 hrs 9 mins        ███████████�
 <!-- GAME:START -->
  - [AMD&#39;s CES show will highlight upcoming Ryzen processors and Radeon graphics](https://www.pcgamer.com/amds-ces-show-will-highlight-upcoming-ryzen-processors-and-radeon-graphics)
  - [Dell&#39;s Concept Luna is a sustainable, repairable laptop](https://www.pcgamer.com/dells-concept-luna-is-a-sustainable-repairable-laptop)
- - [VRam boosted RTX 30-series cards likely shelved, RTX 3090 Ti reportedly forging ahead](https://www.pcgamer.com/vram-boosted-rtx-30-series-cards-likely-shelved-rtx-3090-ti-reportedly-forging-ahead)<!-- GAME:END -->
+ - [VRAM boosted RTX 30-series cards likely shelved, RTX 3090 Ti reportedly forging ahead](https://www.pcgamer.com/vram-boosted-rtx-30-series-cards-likely-shelved-rtx-3090-ti-reportedly-forging-ahead)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
