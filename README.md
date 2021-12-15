@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Chinese fast fashion online retailer Shein, as 2020 sales reportedly hit $10B thanks to knockoff items, a nimble supply chain, and social media &lpar;Rest of World&rpar;](http://www.techmeme.com/211215/p4#a211215p4)
- - [How China helps foreign influencers in the country who spread pro-China messages, funding their travel and generating lucrative, likely inauthentic, traffic &lpar;New York Times&rpar;](http://www.techmeme.com/211215/p3#a211215p3)
- - [Oppo’s retractable camera delivers 2X zoom, smaller camera bump &lpar;Updated&rpar;](https://www.androidauthority.com/oppo-retractable-camera-3072059/)<!-- TECH:END -->
+ - [Alexa’s latest celebrity voice is Santa Claus himself](https://www.theverge.com/2021/12/15/22837163/alexa-hey-santa-claus-skill-christmas)
+ - [Oppo just launched a more compact Galaxy Z Fold 3 for $1,200](https://www.androidauthority.com/oppo-find-n-3073112/)
+ - [Oppo’s Find N is an impressive first folding phone](https://www.theverge.com/2021/12/15/22837149/oppo-find-n-hands-on-announcement-specs-price)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
