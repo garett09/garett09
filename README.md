@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Some Mac users not receiving macOS 12.1 download prompt](https://appleinsider.com/articles/21/12/15/some-mac-users-not-receiving-macos-121-download-prompt?utm_medium=rss)
- - [Sources: the Internet Association plans to announce it&#39;s dissolving as soon as Wednesday, amid financial struggles &lpar;Emily Birnbaum/Politico&rpar;](http://www.techmeme.com/211214/p41#a211214p41)
- - [18 great gift ideas for $50 or less     - CNET](https://www.cnet.com/tech/computing/best-gifts-for-50-or-less/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sweep, a France-based software startup helping companies monitor their carbon footprints, raises a $22M Series A led by Balderton Capital &lpar;Paul Sawers/VentureBeat&rpar;](http://www.techmeme.com/211214/p44#a211214p44)
+ - [Anchorage Digital, which offers institutions digital asset services for secure crypto custody, trading, and more, raises $350M led by KKR at a $3B valuation &lpar;Gertrude Chavez-Dreyfuss/Reuters&rpar;](http://www.techmeme.com/211214/p43#a211214p43)
+ - [Deals: Save up to $200 on Apple&#39;s MacBook Air, MacBook Pro; units in stock &amp; ready to ship](https://appleinsider.com/articles/21/12/15/deals-save-up-to-200-on-apples-macbook-air-macbook-pro-units-in-stock-ready-to-ship?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
