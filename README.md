@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dead by Daylight’s next chapter comes from Ringu](https://www.polygon.com/22834879/dead-by-daylight-ringu-chapter-23-trailer-release-date)
- - [Reloading Everyday Stuff Like Video Game Weapons Is Immensely Satisfying](https://kotaku.com/reloading-everyday-stuff-like-video-game-weapons-is-imm-1848216139)
- - [The best easter eggs in Halo Infinite](https://www.pcgamer.com/the-best-easter-eggs-in-halo-infinite)<!-- GAME:END -->
+ - [Broken Arrow Is Trying The Whole Modern RTS Thing Again](https://kotaku.com/broken-arrow-is-trying-the-whole-modern-rts-thing-again-1848216458)
+ - [Succession and On Cinema show how sad media’s ‘alpha males’ are](https://www.polygon.com/22832955/succession-and-on-cinema-media)
+ - [Put Arthur to work as a bartender, dockworker, and deliveryman in this Red Dead Redemption 2 mod](https://www.pcgamer.com/rdr2-mod)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
