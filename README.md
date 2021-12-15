@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Twitch&#39;s &#39;Pay-To-Win&#39; Boost Feature Doesn&#39;t Actually Help People, Surprising No One](https://kotaku.com/twitchs-pay-to-win-boost-feature-doesnt-actually-help-p-1848216696)
- - [Among Us Is out now on Xbox One, Xbox Series X|S, and with Xbox Game Pass](https://news.xbox.com/en-us/2021/12/14/among-us-is-out-now-on-xbox-one-xbox-series-xs-and-with-xbox-game-pass/)
- - [The Witcher season 1 recap: what you need to know before watching season 2](https://www.pcgamer.com/witcher-season-1-recap-netflix)<!-- GAME:END -->
+ - [Dead by Daylight’s next chapter comes from Ringu](https://www.polygon.com/22834879/dead-by-daylight-ringu-chapter-23-trailer-release-date)
+ - [Reloading Everyday Stuff Like Video Game Weapons Is Immensely Satisfying](https://kotaku.com/reloading-everyday-stuff-like-video-game-weapons-is-imm-1848216139)
+ - [The best easter eggs in Halo Infinite](https://www.pcgamer.com/the-best-easter-eggs-in-halo-infinite)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
