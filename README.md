@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The PlayStation 5 Got Some Great Games In 2021 But Not Much Else](https://kotaku.com/the-playstation-5-got-some-great-games-in-2021-but-not-1848222383)
- - [Warframe’s The New War is a long-awaited quest to save Space Mom](https://www.polygon.com/interviews/22837840/warframe-the-new-war-rebecca-ford-interview-lotus-sentinels-story)
- - [The Ten Biggest Kotaku Posts Of 2021](https://kotaku.com/the-ten-biggest-kotaku-posts-of-2021-1848221548)<!-- GAME:END -->
+ - [Rumble gives an underdog sports story a monster-packed makeover](https://www.polygon.com/22838388/rumble-review-wwe-paramount-plus)
+ - [How to get Spider-Man&#39;s web shooters in Fortnite, and how to use them](https://www.pcgamer.com/fortnite-spider-man-web-shooters)
+ - [Modders Hack Elden Ring Demo, Sprinkle In Some GTA San Andreas](https://kotaku.com/modders-hack-elden-ring-demo-sprinkle-in-some-gta-san-1848222673)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
