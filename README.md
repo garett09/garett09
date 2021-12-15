@@ -194,7 +194,7 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Truer words have never been spoken](http://9gag.com/gag/adgqvw9)
- - 🚯 [Just Indian things](http://9gag.com/gag/a91WzDD)
+ - 🚯 [Swedish torch fire cooking](http://9gag.com/gag/a0ZdopX)
  - 🚯 [Vote for the best games of the year for a chance to win OnePlus mobile phones, Nanoleaf smart lights and US$500 cash prizes!](http://9gag.com/gag/aqGLDGp)<!-- MEMES:END -->
 
 --- 
