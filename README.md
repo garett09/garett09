@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [How to start The Contract in GTA Online](https://www.pcgamer.com/gta-online-how-to-start-the-contract)
- - [A behind the scenes look at OlliOlli World, out February 8](https://blog.playstation.com/2021/12/15/a-behind-the-scenes-look-at-olliolli-world-out-february-8/)
- - [A behind the scenes look at OlliOlli World, out February 8](https://blog.playstation.com/2021/12/15/a-behind-the-scenes-look-at-olliolli-world-out-february-8/)<!-- GAME:END -->
+ - [Predator: Hunting Grounds introduces the Hunting Party](https://blog.playstation.com/2021/12/15/predator-hunting-grounds-introduces-the-hunting-party/)
+ - [Predator: Hunting Grounds introduces the Hunting Party](https://blog.playstation.com/2021/12/15/predator-hunting-grounds-introduces-the-hunting-party/)
+ - [Riders Republic Launches Season 1: Winter Bash](https://news.xbox.com/en-us/2021/12/15/riders-republic-launches-season-1-winter-bash/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
