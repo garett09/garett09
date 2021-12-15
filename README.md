@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [These people](http://9gag.com/gag/aog2KLX)
- - 🚯 [This is future old maaan](http://9gag.com/gag/aegYQgW)
- - 🚯 [On and off relationship&amp;hellip;](http://9gag.com/gag/aog2y5A)<!-- MEMES:END -->
+ - 🚖 [He has broken several female swimming records. What a great guy.](http://9gag.com/gag/avArAbE)
+ - 🚯 [2000 cartoon network just hit different](http://9gag.com/gag/aXrAPP2)
+ - 🚯 [Vote for the best games of the year for a chance to win OnePlus mobile phones, Nanoleaf smart lights and US$500 cash prizes!](http://9gag.com/gag/aqGLDGp)<!-- MEMES:END -->
 
 --- 
 
