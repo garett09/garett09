@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Hitman 3 is absurd and hilarious, like trying to return a dead parrot](https://www.polygon.com/22834929/hitman-3-game-of-the-year-dead-goty-parrot-monty-python)
- - [Here are all the new cars in the GTA The Contract update](https://www.pcgamer.com/gta-online-the-contract-cars-list)
- - [Dota 2 gets 4-player co-op and gamepad support for Christmas](https://www.pcgamer.com/dota-2-gets-4-player-co-op-and-gamepad-support-for-christmas)<!-- GAME:END -->
+ - [Crusader Kings 3: Royal Court makes a great RPG even better](https://www.pcgamer.com/crusader-kings-3-royal-court-makes-a-great-rpg-even-better)
+ - [North America has its first video game union at Vodeo Games](https://www.polygon.com/22834924/vodeo-games-first-video-game-union-north-america-code-cwa)
+ - [Hitman 3 is absurd and hilarious, like trying to return a dead parrot](https://www.polygon.com/22834929/hitman-3-game-of-the-year-dead-goty-parrot-monty-python)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
