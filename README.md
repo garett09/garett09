@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Huawei P50 Pocket is coming next week &lpar;Updated: First official images&rpar;](https://www.androidauthority.com/huawei-p50-pocket-3075177/)
- - [Sources: the US will ban eight Chinese companies, including DJI, for their alleged involvement in the surveillance of Uyghur Muslims &lpar;Financial Times&rpar;](http://www.techmeme.com/211215/p2#a211215p2)
- - [These are the best gifts for gamers you can get right now](https://www.androidauthority.com/best-gifts-for-gamers-814973/)<!-- TECH:END -->
+ - [How China helps foreign influencers in the country who spread pro-China messages, funding their travel and generating lucrative, likely inauthentic, traffic &lpar;New York Times&rpar;](http://www.techmeme.com/211215/p3#a211215p3)
+ - [Oppo’s retractable camera delivers 2X zoom, smaller camera bump &lpar;Updated&rpar;](https://www.androidauthority.com/oppo-retractable-camera-3072059/)
+ - [The Huawei P50 Pocket is coming next week &lpar;Updated: First official images&rpar;](https://www.androidauthority.com/huawei-p50-pocket-3075177/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
