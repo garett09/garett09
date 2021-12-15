@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [LA-based Papaya, which helps users pay bills using its app, raises a $50M Series B led by Bessemer Venture Partners, bringing its total funding to $65M &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/211215/p15#a211215p15)
- - [India approves a $10B plan to attract semiconductor and display manufacturers; source says Foxconn and others want to set up semiconductor factories in India &lpar;Sankalp Phartiyal/Reuters&rpar;](http://www.techmeme.com/211215/p14#a211215p14)
- - [Did Climate Change Make That Freak Weather Even Worse?](https://www.wired.com/story/did-climate-change-make-that-freak-weather-even-worse)<!-- TECH:END -->
+ - [Samsung Galaxy Tab A8 is official: A good tablet with plenty of storage](https://www.androidauthority.com/samsung-galaxy-tab-a8-3075735/)
+ - [Refi rates on Dec. 15, 2021: Rates move higher     - CNET](https://www.cnet.com/news/refi-rates-on-dec-15-2021-rates-move-higher/#ftag=CAD590a51e)
+ - [Mortgage interest rates for Dec. 15, 2021: Rates tick up     - CNET](https://www.cnet.com/news/mortgage-interest-rates-for-dec-15-2021-rates-tick-up/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
