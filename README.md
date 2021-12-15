@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta adds Messenger support to Ray-Ban Stories via a software update, letting users send and receive messages, make calls, and have messages read aloud &lpar;Mitchell Clark/The Verge&rpar;](http://www.techmeme.com/211215/p36#a211215p36)
- - [Amazon Luna runs on Windows — and yet it’s hiring Linux gaming engineers](https://www.theverge.com/2021/12/15/22827185/amazon-luna-linux-windows-proton-cloud-gaming-jobs-hiring)
- - [Disney+ adds support for SharePlay on iPhone, iPad, and Apple TV](https://appleinsider.com/articles/21/12/15/disney-adds-support-for-shareplay-on-iphone-ipad-and-apple-tv?utm_medium=rss)<!-- TECH:END -->
+ - [The Verge’s favorite holiday gifts under $50](https://www.theverge.com/22748775/holiday-gift-guide-under-50-cheap-tech-gadgets-best-ideas)
+ - [The best Spider-Man movies: Ranked from worst to best before No Way Home](https://www.androidauthority.com/best-spider-man-movies-ranked-3075678/)
+ - [We didn’t need an AR version of Snake, but AT&amp;T just gave us one anyway](https://www.theverge.com/2021/12/15/22837902/att-5g-ar-snake-warp-speed-worm-messenger-instagram)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
