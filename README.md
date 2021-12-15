@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Alexa’s latest celebrity voice is Santa Claus himself](https://www.theverge.com/2021/12/15/22837163/alexa-hey-santa-claus-skill-christmas)
- - [Oppo just launched a more compact Galaxy Z Fold 3 for $1,200](https://www.androidauthority.com/oppo-find-n-3073112/)
- - [Oppo’s Find N is an impressive first folding phone](https://www.theverge.com/2021/12/15/22837149/oppo-find-n-hands-on-announcement-specs-price)<!-- TECH:END -->
+ - [Sources: Swiss company Mitto, which offers text message services to companies, tells clients co-founder Ilja Gorelik has departed after surveillance accusations &lpar;Ryan Gallagher/Bloomberg&rpar;](http://www.techmeme.com/211215/p9#a211215p9)
+ - [Microsoft to make Windows Terminal the default Windows 11 command line experience](https://www.theverge.com/2021/12/15/22837218/microsoft-windows-terminal-default-windows-11-changes)
+ - [WhatsApp finally lets you preview voice notes before sending them](https://www.androidauthority.com/whatsapp-preview-voice-notes-3076002/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
