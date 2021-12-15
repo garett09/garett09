@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sweep, a France-based software startup helping companies monitor their carbon footprints, raises a $22M Series A led by Balderton Capital &lpar;Paul Sawers/VentureBeat&rpar;](http://www.techmeme.com/211214/p44#a211214p44)
- - [Anchorage Digital, which offers institutions digital asset services for secure crypto custody, trading, and more, raises $350M led by KKR at a $3B valuation &lpar;Gertrude Chavez-Dreyfuss/Reuters&rpar;](http://www.techmeme.com/211214/p43#a211214p43)
- - [Deals: Save up to $200 on Apple&#39;s MacBook Air, MacBook Pro; units in stock &amp; ready to ship](https://appleinsider.com/articles/21/12/15/deals-save-up-to-200-on-apples-macbook-air-macbook-pro-units-in-stock-ready-to-ship?utm_medium=rss)<!-- TECH:END -->
+ - [Minecraft crosses 1 trillion views on YouTube, most popular game ever on platform     - CNET](https://www.cnet.com/tech/gaming/minecraft-crosses-1-trillion-views-on-youtube-most-popular-game-ever-on-platform/#ftag=CAD590a51e)
+ - [Dell thinks the future of work is detachable webcams and digital notepads     - CNET](https://www.cnet.com/tech/computing/dell-thinks-the-future-of-work-is-detachable-webcams-and-digital-notepads/#ftag=CAD590a51e)
+ - [The US Department of Homeland Security launches &quot;Hack DHS&quot;, a bug bounty program that will pay hackers $500 to $5,000 for finding vulnerabilities in its systems &lpar;Martin Matishak/The Record&rpar;](http://www.techmeme.com/211214/p45#a211214p45)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
