@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Swiss company Mitto, which offers text message services to companies, tells clients co-founder Ilja Gorelik has departed after surveillance accusations &lpar;Ryan Gallagher/Bloomberg&rpar;](http://www.techmeme.com/211215/p9#a211215p9)
- - [Microsoft to make Windows Terminal the default Windows 11 command line experience](https://www.theverge.com/2021/12/15/22837218/microsoft-windows-terminal-default-windows-11-changes)
- - [WhatsApp finally lets you preview voice notes before sending them](https://www.androidauthority.com/whatsapp-preview-voice-notes-3076002/)<!-- TECH:END -->
+ - [How to set an alarm on iOS 15 without scrolling the wheel](https://appleinsider.com/articles/21/10/11/how-to-set-an-alarm-on-ios-15-without-scrolling-the-wheel?utm_medium=rss)
+ - [Corporate catering marketplace ezCater raises $100M at a $1.6B valuation led by Vision Fund 2, up from $1.2B in 2019; ezCater laid off half its workers in 2020 &lpar;Bloomberg&rpar;](http://www.techmeme.com/211215/p11#a211215p11)
+ - [Sysdig, which offers tools to secure containers and apps, raises a $350M Series G at a $2.5B valuation, after raising $188M at a $1.19B valuation in April &lpar;Chris Metinko/Crunchbase News&rpar;](http://www.techmeme.com/211215/p10#a211215p10)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
