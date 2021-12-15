@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Predator: Hunting Grounds introduces the Hunting Party](https://blog.playstation.com/2021/12/15/predator-hunting-grounds-introduces-the-hunting-party/)
- - [Predator: Hunting Grounds introduces the Hunting Party](https://blog.playstation.com/2021/12/15/predator-hunting-grounds-introduces-the-hunting-party/)
- - [Riders Republic Launches Season 1: Winter Bash](https://news.xbox.com/en-us/2021/12/15/riders-republic-launches-season-1-winter-bash/)<!-- GAME:END -->
+ - [Overwatch fans finally get the Christmas skin they’ve wanted for 4 years](https://www.polygon.com/22838097/overwatch-winter-wonderland-2021-orisa-reindeer-skin)
+ - [The original Splinter Cell is getting a full remake](https://www.pcgamer.com/splinter-cell-remake-announced)
+ - [Introducing The Contract, a New GTA Online Story Featuring Franklin Clinton and Friends](https://news.xbox.com/en-us/2021/12/15/new-gta-online-story-featuring-franklin-clinton-and-friends/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
