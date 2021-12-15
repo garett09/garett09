@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dead By Daylight&#39;s Next Chapter Will Feature The Ring](https://kotaku.com/dead-by-daylights-next-chapter-will-feature-the-ring-1848218407)
- - [AMD&#39;s CES show will highlight upcoming Ryzen processors and Radeon graphics](https://www.pcgamer.com/amds-ces-show-will-highlight-upcoming-ryzen-processors-and-radeon-graphics)
- - [Dell&#39;s Concept Luna is a sustainable, repairable laptop](https://www.pcgamer.com/dells-concept-luna-is-a-sustainable-repairable-laptop)<!-- GAME:END -->
+ - [The best PC cases in 2021](https://www.pcgamer.com/best-pc-case)
+ - [Makoto Shinkai&#39;s New Movie Revealed](https://kotaku.com/makoto-shinkais-new-movie-revealed-1848218556)
+ - [The best PC controller in 2021](https://www.pcgamer.com/best-controller-for-pc-gaming)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
