@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Great Houses of Calderia is a fantasy grand strategy that aims to topple Crusader Kings](https://www.pcgamer.com/great-houses-of-calderia-is-a-fantasy-grand-strategy-that-aims-to-topple-crusader-kings)
- - [Get Ready for Family Game Night with Xbox Game Pass and Ben 10, Transformers, the PAW Patrol, and Ryan’s World](https://news.xbox.com/en-us/2021/12/15/family-game-night-with-xbox-game-pass/)
- - [Deathloop Redefines Blackness In Video Games](https://kotaku.com/deathloop-redefines-blackness-in-video-games-1848214453)<!-- GAME:END -->
+ - [343 tweaks Halo Infinite challenges for speedier battle pass progression](https://www.polygon.com/22837628/halo-infinite-battle-pass-progression-challenge-update)
+ - [Exciting 2022 brawler Sifu is as tough as I&#39;d hoped](https://www.pcgamer.com/exciting-2022-brawler-sifu-is-as-challenging-as-id-hoped)
+ - [Indie Studio Forms First Video Game Union In The Country](https://kotaku.com/indie-studio-forms-first-video-game-union-in-the-countr-1848219725)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
