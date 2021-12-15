@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [My precious time](http://9gag.com/gag/aNPdPXr)
- - 🚯 [This enough](http://9gag.com/gag/a317Z0m)
- - 🚯 [What movie character are you? Screenshot to find out!](http://9gag.com/gag/a91Wp06)<!-- MEMES:END -->
+ - 🚖 [OMG](http://9gag.com/gag/a11d1gP)
+ - 🚯 [Only one actor can play as Nicholas Cage](http://9gag.com/gag/adgqP0Q)
+ - 🚯 [This is future old maaan](http://9gag.com/gag/aegYQgW)<!-- MEMES:END -->
 
 --- 
 
