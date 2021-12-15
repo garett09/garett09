@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to set an alarm on iOS 15 without scrolling the wheel](https://appleinsider.com/articles/21/10/11/how-to-set-an-alarm-on-ios-15-without-scrolling-the-wheel?utm_medium=rss)
- - [Corporate catering marketplace ezCater raises $100M at a $1.6B valuation led by Vision Fund 2, up from $1.2B in 2019; ezCater laid off half its workers in 2020 &lpar;Bloomberg&rpar;](http://www.techmeme.com/211215/p11#a211215p11)
- - [Sysdig, which offers tools to secure containers and apps, raises a $350M Series G at a $2.5B valuation, after raising $188M at a $1.19B valuation in April &lpar;Chris Metinko/Crunchbase News&rpar;](http://www.techmeme.com/211215/p10#a211215p10)<!-- TECH:END -->
+ - [LA-based Papaya, which helps users pay bills using its app, raises a $50M Series B led by Bessemer Venture Partners, bringing its total funding to $65M &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/211215/p15#a211215p15)
+ - [India approves a $10B plan to attract semiconductor and display manufacturers; source says Foxconn and others want to set up semiconductor factories in India &lpar;Sankalp Phartiyal/Reuters&rpar;](http://www.techmeme.com/211215/p14#a211215p14)
+ - [Did Climate Change Make That Freak Weather Even Worse?](https://www.wired.com/story/did-climate-change-make-that-freak-weather-even-worse)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
