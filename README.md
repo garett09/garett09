@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to get a refund from the App Store on your iPhone, iPad, or iPod Touch](https://appleinsider.com/articles/21/01/07/how-to-get-a-refund-from-the-app-store-on-your-iphone-ipad-or-ipod-touch?utm_medium=rss)
- - [API security startup Cequence raises a $60M Series C led by Menlo Ventures, bringing its total funding to $89.5M &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/211215/p27#a211215p27)
- - [Apple TV+ thriller &#39;Suspicion,&#39; starring Uma Thurman, debuts Feb. 4](https://appleinsider.com/articles/21/12/15/apple-tv-thriller-suspicion-starring-uma-thurman-debuts-feb-4?utm_medium=rss)<!-- TECH:END -->
+ - [Amazon is still having another server outage, but Twitch is back up](https://www.theverge.com/2021/12/15/22837637/aws-west-is-down-twitch-outage-amazon)
+ - [Disney+ adds support for SharePlay on iPhone, iPad, and Apple TV](https://appleinsider.com/articles/21/12/15/disney-adds-support-for-shareplay-on-iphone-ipad-and-apple-tv?utm_medium=rss)
+ - [Sifu’s stunning martial arts combat will appeal to a generation of kung fu fans](https://www.theverge.com/2021/12/15/22837639/sifu-preview-sloclap-games-playstation-epic-games-store)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
