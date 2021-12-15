@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy Tab A8 is official: A good tablet with plenty of storage](https://www.androidauthority.com/samsung-galaxy-tab-a8-3075735/)
- - [Refi rates on Dec. 15, 2021: Rates move higher     - CNET](https://www.cnet.com/news/refi-rates-on-dec-15-2021-rates-move-higher/#ftag=CAD590a51e)
- - [Mortgage interest rates for Dec. 15, 2021: Rates tick up     - CNET](https://www.cnet.com/news/mortgage-interest-rates-for-dec-15-2021-rates-tick-up/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to get a refund from the App Store on your iPhone, iPad, or iPod Touch](https://appleinsider.com/articles/21/01/07/how-to-get-a-refund-from-the-app-store-on-your-iphone-ipad-or-ipod-touch?utm_medium=rss)
+ - [API security startup Cequence raises a $60M Series C led by Menlo Ventures, bringing its total funding to $89.5M &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/211215/p27#a211215p27)
+ - [Apple TV+ thriller &#39;Suspicion,&#39; starring Uma Thurman, debuts Feb. 4](https://appleinsider.com/articles/21/12/15/apple-tv-thriller-suspicion-starring-uma-thurman-debuts-feb-4?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
