@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Name all of them and yours favorit from 8bit era! Mine was that cat and turtles :&rpar; Kid 35 y.o. &rpar;](http://9gag.com/gag/aBnwyex)
- - 🚯 [2000 cartoon network just hit different](http://9gag.com/gag/aXrAPP2)
+ - 🚖 [2000 cartoon network just hit different](http://9gag.com/gag/aXrAPP2)
+ - 🚯 [Swedish torch fire cooking](http://9gag.com/gag/a0ZdopX)
  - 🚯 [Vote for the best games of the year for a chance to win OnePlus mobile phones, Nanoleaf smart lights and US$500 cash prizes!](http://9gag.com/gag/aqGLDGp)<!-- MEMES:END -->
 
 --- 
