@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Why is it taking so long to announce him as the next Bond?](http://9gag.com/gag/aLvMwqv)
- - 🚯 [So the Americans know the difference...](http://9gag.com/gag/aPZM3LQ)
+ - 🚖 [Only one actor can play as Nicholas Cage](http://9gag.com/gag/adgqP0Q)
+ - 🚯 [Desert map in games exist The music :](http://9gag.com/gag/aAGwGmR)
  - 🚯 [What movie character are you? Screenshot to find out!](http://9gag.com/gag/a91Wp06)<!-- MEMES:END -->
 
 --- 
