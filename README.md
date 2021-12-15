@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Rising temperatures are causing an unprecedented transformation in the Arctic](https://www.theverge.com/2021/12/14/22834760/arctic-rising-temperatures-noaa-climate-change)
- - [Instagram reportedly hit 2 billion active users but probably won’t admit it](https://www.theverge.com/2021/12/14/22834571/instagram-2-billion-active-users)
- - [T-Mobile’s not-Chromecast Google TV dongle adds an ethernet jack](https://www.theverge.com/2021/12/14/22834584/t-mobile-tvision-hub-google-tv-chromecast-dongle-ethernet)<!-- TECH:END -->
+ - [WhatsApp immediately crashing upon opening for many iPhone users](https://appleinsider.com/articles/21/12/15/whatsapp-immediately-crashing-upon-opening-for-many-iphone-users?utm_medium=rss)
+ - [Leaked documents link Huawei to China’s domestic spying in Xinjiang](https://www.theverge.com/2021/12/14/22834860/huawei-leaked-documents-xinjiang-region-uyghur-facial-recognition-prisons-surveillance)
+ - [Six more women file lawsuits against Tesla, allege sexual harassment worsened by Musk’s tweets](https://www.theverge.com/2021/12/14/22835181/tesla-lawsuit-sexual-harassment-six-women)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
