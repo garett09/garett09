@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [2000 cartoon network just hit different](http://9gag.com/gag/aXrAPP2)
- - 🚯 [Swedish torch fire cooking](http://9gag.com/gag/a0ZdopX)
+ - 🚖 [Nokia 6600 ad from 2003.](http://9gag.com/gag/aGz0Lnz)
+ - 🚯 [2 ton Mustang](http://9gag.com/gag/aWg84g6)
  - 🚯 [Vote for the best games of the year for a chance to win OnePlus mobile phones, Nanoleaf smart lights and US$500 cash prizes!](http://9gag.com/gag/aqGLDGp)<!-- MEMES:END -->
 
 --- 
