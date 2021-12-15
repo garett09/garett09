@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s what Wear OS 3 looks like without Samsung’s skin](https://www.androidauthority.com/wear-os-3-no-skin-3075925/)
- - [Leaked memo: Google tells employees they must comply with vaccine policies by January 18 or lose pay and eventually be fired &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/211215/p1#a211215p1)
- - [B&amp;H&#39;s Holiday Sale knocks up to $270 off MacBooks, Mac mini, iPads, iMacs](https://appleinsider.com/articles/21/12/15/bhs-holiday-sale-knocks-up-to-270-off-macbooks-mac-mini-ipads-imacs?utm_medium=rss)<!-- TECH:END -->
+ - [The Huawei P50 Pocket is coming next week &lpar;Updated: First official images&rpar;](https://www.androidauthority.com/huawei-p50-pocket-3075177/)
+ - [Sources: the US will ban eight Chinese companies, including DJI, for their alleged involvement in the surveillance of Uyghur Muslims &lpar;Financial Times&rpar;](http://www.techmeme.com/211215/p2#a211215p2)
+ - [These are the best gifts for gamers you can get right now](https://www.androidauthority.com/best-gifts-for-gamers-814973/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
