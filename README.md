@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best PC cases in 2021](https://www.pcgamer.com/best-pc-case)
- - [Makoto Shinkai&#39;s New Movie Revealed](https://kotaku.com/makoto-shinkais-new-movie-revealed-1848218556)
- - [The best PC controller in 2021](https://www.pcgamer.com/best-controller-for-pc-gaming)<!-- GAME:END -->
+ - [Hitman 3 is absurd and hilarious, like trying to return a dead parrot](https://www.polygon.com/22834929/hitman-3-game-of-the-year-dead-goty-parrot-monty-python)
+ - [Here are all the new cars in the GTA The Contract update](https://www.pcgamer.com/gta-online-the-contract-cars-list)
+ - [Dota 2 gets 4-player co-op and gamepad support for Christmas](https://www.pcgamer.com/dota-2-gets-4-player-co-op-and-gamepad-support-for-christmas)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
