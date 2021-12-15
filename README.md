@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dell’s Concept Stanza converts your chicken scratch to digital text](https://www.theverge.com/2021/12/15/22837685/dell-concept-stanza-tablet-digital-text-stylus-writing-notes)
- - [People spent 15 hours roleplaying a McDonald’s drive-thru on Twitter Spaces](https://www.theverge.com/2021/12/15/22837711/twitter-spaces-mcdonalds-roleplay)
- - [Apple scrubs controversial CSAM detection feature from webpage but says plans haven’t changed](https://www.theverge.com/2021/12/15/22837631/apple-csam-detection-child-safety-feature-webpage-removal-delay)<!-- TECH:END -->
+ - [Google Warns That NSO Hacking Rivals Elite Nation-State Spies](https://www.wired.com/story/nso-group-forcedentry-pegasus-spyware-analysis)
+ - [GM teases upcoming GMC Sierra Denali electric pickup truck](https://www.theverge.com/2021/12/15/22837827/gmc-sierra-denali-ev-electric-pickup-truck-tease)
+ - [Meta updates its bug bounty program to pay researchers who find anti-scraping loopholes, reward those who find scraped Facebook data with donations to charity &lpar;Catalin Cimpanu/The Record&rpar;](http://www.techmeme.com/211215/p30#a211215p30)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
