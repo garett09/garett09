@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [YouTube Celebrates the Minecraft Community](https://news.xbox.com/en-us/2021/12/15/youtube-celebrates-the-minecraft-community/)
- - [Resident Evil Village is a greatest hits of video game horror](https://www.polygon.com/22834725/resident-evil-village-game-of-the-year-goty-survival-horror)
- - [STALKER 2 makers to auction NFTs for in-game NPC appearance](https://www.polygon.com/22837762/stalker-2-nfts-npc-auction-platform-blockchain)<!-- GAME:END -->
+ - [How to start The Contract in GTA Online](https://www.pcgamer.com/gta-online-how-to-start-the-contract)
+ - [A behind the scenes look at OlliOlli World, out February 8](https://blog.playstation.com/2021/12/15/a-behind-the-scenes-look-at-olliolli-world-out-february-8/)
+ - [A behind the scenes look at OlliOlli World, out February 8](https://blog.playstation.com/2021/12/15/a-behind-the-scenes-look-at-olliolli-world-out-february-8/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
