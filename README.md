@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon is still having another server outage, but Twitch is back up](https://www.theverge.com/2021/12/15/22837637/aws-west-is-down-twitch-outage-amazon)
- - [Disney+ adds support for SharePlay on iPhone, iPad, and Apple TV](https://appleinsider.com/articles/21/12/15/disney-adds-support-for-shareplay-on-iphone-ipad-and-apple-tv?utm_medium=rss)
- - [Sifu’s stunning martial arts combat will appeal to a generation of kung fu fans](https://www.theverge.com/2021/12/15/22837639/sifu-preview-sloclap-games-playstation-epic-games-store)<!-- TECH:END -->
+ - [Dell’s Concept Stanza converts your chicken scratch to digital text](https://www.theverge.com/2021/12/15/22837685/dell-concept-stanza-tablet-digital-text-stylus-writing-notes)
+ - [People spent 15 hours roleplaying a McDonald’s drive-thru on Twitter Spaces](https://www.theverge.com/2021/12/15/22837711/twitter-spaces-mcdonalds-roleplay)
+ - [Apple scrubs controversial CSAM detection feature from webpage but says plans haven’t changed](https://www.theverge.com/2021/12/15/22837631/apple-csam-detection-child-safety-feature-webpage-removal-delay)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
