@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [VR workrooms app Spatial is now an NFT art platform](https://www.theverge.com/2021/12/15/22834652/spatial-vr-nft-virtual-world-galleries-pivot)
- - [Just how small is the Oppo Find N? Here are some comparison pics!](https://www.androidauthority.com/oppo-find-n-size-3076355/)
- - [Apple closes three retail locations in the US &amp; Canada due to Covid-19 surge](https://appleinsider.com/articles/21/12/15/apple-closes-three-retail-locations-in-the-us-canada-due-to-covid-19-surge?utm_medium=rss)<!-- TECH:END -->
+ - [Ray-Ban Stories get software update adding Facebook Messenger support](https://www.theverge.com/2021/12/15/22838234/ray-bans-stories-meta-facebook-messenger-read-send-texts-volume-control)
+ - [Apple subsidiary Claris apologizes for hours-long FileMaker Cloud outage](https://appleinsider.com/articles/21/12/15/apple-subsidiary-claris-apologizes-for-hours-long-filemaker-cloud-outage?utm_medium=rss)
+ - [Deep dive into an NSO zero-click iMessage exploit, captured in the wild by Citizen Lab and one of the most sophisticated Google&#39;s Project Zero has seen &lpar;Project Zero&rpar;](http://www.techmeme.com/211215/p34#a211215p34)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
