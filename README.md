@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ray-Ban Stories get software update adding Facebook Messenger support](https://www.theverge.com/2021/12/15/22838234/ray-bans-stories-meta-facebook-messenger-read-send-texts-volume-control)
- - [Apple subsidiary Claris apologizes for hours-long FileMaker Cloud outage](https://appleinsider.com/articles/21/12/15/apple-subsidiary-claris-apologizes-for-hours-long-filemaker-cloud-outage?utm_medium=rss)
- - [Deep dive into an NSO zero-click iMessage exploit, captured in the wild by Citizen Lab and one of the most sophisticated Google&#39;s Project Zero has seen &lpar;Project Zero&rpar;](http://www.techmeme.com/211215/p34#a211215p34)<!-- TECH:END -->
+ - [Meta adds Messenger support to Ray-Ban Stories via a software update, letting users send and receive messages, make calls, and have messages read aloud &lpar;Mitchell Clark/The Verge&rpar;](http://www.techmeme.com/211215/p36#a211215p36)
+ - [Amazon Luna runs on Windows — and yet it’s hiring Linux gaming engineers](https://www.theverge.com/2021/12/15/22827185/amazon-luna-linux-windows-proton-cloud-gaming-jobs-hiring)
+ - [Disney+ adds support for SharePlay on iPhone, iPad, and Apple TV](https://appleinsider.com/articles/21/12/15/disney-adds-support-for-shareplay-on-iphone-ipad-and-apple-tv?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
