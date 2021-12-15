@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Some Mac users not receiving macOS 12.1 download prompt](https://appleinsider.com/articles/21/12/15/some-mac-users-not-receiving-macos-121-download-prompt?utm_medium=rss)
  - [Sources: the Internet Association plans to announce it&#39;s dissolving as soon as Wednesday, amid financial struggles &lpar;Emily Birnbaum/Politico&rpar;](http://www.techmeme.com/211214/p41#a211214p41)
- - [The Verge’s 2021 holiday gift guide for creators](https://www.theverge.com/22746670/holiday-gift-ideas-2021-creators-content-artists-tech-gadgets-creative)
- - [Best Samsung phones to buy in 2021     - CNET](https://www.cnet.com/tech/mobile/best-samsung-phones/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [18 great gift ideas for $50 or less     - CNET](https://www.cnet.com/tech/computing/best-gifts-for-50-or-less/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
