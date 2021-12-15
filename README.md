@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Buy&#39;s Holiday Sale knocks up to $500 off MacBooks, TVs, AeroGarden, more](https://appleinsider.com/articles/21/12/15/best-buys-holiday-sale-knocks-up-to-500-off-macbooks-tvs-aerogarden-more?utm_medium=rss)
- - [Google really wanted Pixel phone owners to know about storm in Philippines](https://www.androidauthority.com/pixel-alert-philippines-3076290/)
- - [Pokemon Go December 2021 events: Raids, Christmas event and more     - CNET](https://www.cnet.com/tech/gaming/pokemon-go-december-2021-events-raids-christmas-event-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [VR workrooms app Spatial is now an NFT art platform](https://www.theverge.com/2021/12/15/22834652/spatial-vr-nft-virtual-world-galleries-pivot)
+ - [Just how small is the Oppo Find N? Here are some comparison pics!](https://www.androidauthority.com/oppo-find-n-size-3076355/)
+ - [Apple closes three retail locations in the US &amp; Canada due to Covid-19 surge](https://appleinsider.com/articles/21/12/15/apple-closes-three-retail-locations-in-the-us-canada-due-to-covid-19-surge?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
