@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Overwatch fans finally get the Christmas skin they’ve wanted for 4 years](https://www.polygon.com/22838097/overwatch-winter-wonderland-2021-orisa-reindeer-skin)
- - [The original Splinter Cell is getting a full remake](https://www.pcgamer.com/splinter-cell-remake-announced)
- - [Introducing The Contract, a New GTA Online Story Featuring Franklin Clinton and Friends](https://news.xbox.com/en-us/2021/12/15/new-gta-online-story-featuring-franklin-clinton-and-friends/)<!-- GAME:END -->
+ - [The PlayStation 5 Got Some Great Games In 2021 But Not Much Else](https://kotaku.com/the-playstation-5-got-some-great-games-in-2021-but-not-1848222383)
+ - [Warframe’s The New War is a long-awaited quest to save Space Mom](https://www.polygon.com/interviews/22837840/warframe-the-new-war-rebecca-ford-interview-lotus-sentinels-story)
+ - [The Ten Biggest Kotaku Posts Of 2021](https://kotaku.com/the-ten-biggest-kotaku-posts-of-2021-1848221548)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
