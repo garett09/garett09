@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [OMG](http://9gag.com/gag/a11d1gP)
- - 🚯 [Only one actor can play as Nicholas Cage](http://9gag.com/gag/adgqP0Q)
- - 🚯 [This is future old maaan](http://9gag.com/gag/aegYQgW)<!-- MEMES:END -->
+ - 🚖 [These people](http://9gag.com/gag/aog2KLX)
+ - 🚯 [This is future old maaan](http://9gag.com/gag/aegYQgW)
+ - 🚯 [On and off relationship&amp;hellip;](http://9gag.com/gag/aog2y5A)<!-- MEMES:END -->
 
 --- 
 
