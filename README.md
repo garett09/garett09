@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Warns That NSO Hacking Rivals Elite Nation-State Spies](https://www.wired.com/story/nso-group-forcedentry-pegasus-spyware-analysis)
- - [GM teases upcoming GMC Sierra Denali electric pickup truck](https://www.theverge.com/2021/12/15/22837827/gmc-sierra-denali-ev-electric-pickup-truck-tease)
- - [Meta updates its bug bounty program to pay researchers who find anti-scraping loopholes, reward those who find scraped Facebook data with donations to charity &lpar;Catalin Cimpanu/The Record&rpar;](http://www.techmeme.com/211215/p30#a211215p30)<!-- TECH:END -->
+ - [Best Buy&#39;s Holiday Sale knocks up to $500 off MacBooks, TVs, AeroGarden, more](https://appleinsider.com/articles/21/12/15/best-buys-holiday-sale-knocks-up-to-500-off-macbooks-tvs-aerogarden-more?utm_medium=rss)
+ - [Google really wanted Pixel phone owners to know about storm in Philippines](https://www.androidauthority.com/pixel-alert-philippines-3076290/)
+ - [Pokemon Go December 2021 events: Raids, Christmas event and more     - CNET](https://www.cnet.com/tech/gaming/pokemon-go-december-2021-events-raids-christmas-event-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
