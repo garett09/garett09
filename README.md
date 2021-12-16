@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Nikeland on Roblox: Discover a World Where Sport Has No Rules](https://news.xbox.com/en-us/2021/12/16/nikeland-on-roblox-discover-a-world-where-sport-has-no-rules/)
- - [Mushroom Wars 2 Returns to Big Screens](https://news.xbox.com/en-us/2021/12/16/mushroom-wars-2-returns-to-big-screens/)
- - [Overwatch Winter Wonderland 2021 is live, with a perfect Wrecking Ball skin](https://www.polygon.com/22839920/overwatch-winter-wonderland-2021-event-start-time-date-skins)<!-- GAME:END -->
+ - [Sliding and web-slinging make Fortnite feel fresh again](https://www.polygon.com/fortnite/22840039/fortnite-chapter-3-how-to-slide-web-shooter-update)
+ - [A Sekiro-inspired 2D platformer is coming from the creators of Devotion](https://www.polygon.com/22839629/red-candle-games-nine-sols-sekiro-platformer)
+ - [Halo Infinite fulfills promises that were two decades in the making](https://www.polygon.com/22837535/halo-infinite-goty-game-best-games-of-2021-xbox-series-x-pc)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
