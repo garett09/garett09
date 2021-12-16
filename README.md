@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [A battle royale where you fight to the death with words, not bullets](https://www.polygon.com/22839555/battle-babble-royale-scrabble-steam)
- - [The Best Video Game Surprises Of 2021](https://kotaku.com/the-best-video-game-surprises-of-2021-1848226625)
- - [Creating the “Disruptive” Battlefield 2042 Soundtrack](https://news.xbox.com/en-us/2021/12/16/creating-the-disruptive-battlefield-2042-soundtrack/)<!-- GAME:END -->
+ - [Nikeland on Roblox: Discover a World Where Sport Has No Rules](https://news.xbox.com/en-us/2021/12/16/nikeland-on-roblox-discover-a-world-where-sport-has-no-rules/)
+ - [Mushroom Wars 2 Returns to Big Screens](https://news.xbox.com/en-us/2021/12/16/mushroom-wars-2-returns-to-big-screens/)
+ - [Overwatch Winter Wonderland 2021 is live, with a perfect Wrecking Ball skin](https://www.polygon.com/22839920/overwatch-winter-wonderland-2021-event-start-time-date-skins)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
