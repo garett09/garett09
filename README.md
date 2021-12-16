@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Shittiest design award goes to...](http://9gag.com/gag/aPZMQRV)
- - 🚯 [GF broke up with me last week. Family forgot it. Happy birthday my dudes..](http://9gag.com/gag/aGz0Myz)
- - 🚯 [Rediscovered after 15 years. And it&amp;#039;s just as good as it was then. Childhood flashback](http://9gag.com/gag/angyE5n)<!-- MEMES:END -->
+ - 🚖 [The office](http://9gag.com/gag/a61M29A)
+ - 🚯 [Pick up the juice](http://9gag.com/gag/a11dVGb)
+ - 🚯 [Shittiest design award goes to...](http://9gag.com/gag/aPZMQRV)<!-- MEMES:END -->
 
 --- 
 
