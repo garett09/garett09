@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The Wandering Swordsman](https://kotaku.com/the-wandering-swordsman-1848224060)
  - [Diablo 2 is getting its first class balance changes in 11 years](https://www.pcgamer.com/diablo-2-is-getting-its-first-class-balance-changes-in-11-years)
- - [Ben Affleck is done with Batman, IP movies, theatrical releases, traditions in general](https://www.polygon.com/22837950/ben-affleck-batman-future-movies)
- - [Someone mixed Scrabble with battle royale, and by god it works](https://www.pcgamer.com/someone-mixed-scrabble-with-battle-royale-and-by-god-it-works)<!-- GAME:END -->
+ - [Ben Affleck is done with Batman, IP movies, theatrical releases, traditions in general](https://www.polygon.com/22837950/ben-affleck-batman-future-movies)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
