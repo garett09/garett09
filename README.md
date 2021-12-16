@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Reddit files to take the company public](https://www.theverge.com/2021/12/15/22838901/reddit-going-public-sec-s-1-filing-confidential)
- - [Amazon says it will reduce its Alexa skills commission from 30% to 20% for developers who earn less than $1M per year, starting in Q2 2022 &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/211215/p45#a211215p45)
- - [Reddit confidentially files its S-1 with the SEC for an IPO; the number of shares to be offered and the price range have yet to be determined &lpar;Reddit&rpar;](http://www.techmeme.com/211215/p44#a211215p44)<!-- TECH:END -->
+ - [Best rowing machines of 2022     - CNET](https://www.cnet.com/health/fitness/best-rowing-machine/#ftag=CAD590a51e)
+ - [Best jack stands for 2021     - Roadshow](https://www.cnet.com/roadshow/news/best-jack-stands/#ftag=CAD590a51e)
+ - [Reddit files to take the company public](https://www.theverge.com/2021/12/15/22838901/reddit-going-public-sec-s-1-filing-confidential)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
