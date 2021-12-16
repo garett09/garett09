@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Halo Infinite Fans Don’t Wanna Shell Out $18 For A Set Of Old Armor](https://kotaku.com/halo-infinite-fans-don-t-wanna-shell-out-18-for-a-set-1848223609)
- - [Let claymation Ted Lasso soothe your holiday worries](https://www.polygon.com/entertainment/22838529/ted-lasso-christmas-claymation)
- - [Lamar Is Still Roasting Franklin In New GTA Online Missions](https://kotaku.com/lamar-is-still-roasting-franklin-in-new-gta-online-miss-1848223380)<!-- GAME:END -->
+ - [Ben Affleck is done with Batman, IP movies, theatrical releases, traditions in general](https://www.polygon.com/22837950/ben-affleck-batman-future-movies)
+ - [Someone mixed Scrabble with battle royale, and by god it works](https://www.pcgamer.com/someone-mixed-scrabble-with-battle-royale-and-by-god-it-works)
+ - [Video Game Publisher Wants To Buy Board Game Giant Asmodee For Over $3 Billion](https://kotaku.com/video-game-publisher-wants-to-buy-board-game-giant-asmo-1848223720)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
