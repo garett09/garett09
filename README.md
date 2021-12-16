@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Square Enix suspends Final Fantasy 14 sales because Endwalker is too popular](https://www.polygon.com/22839463/ff14-endwalker-servers-square-enix-game-time-patch)
- - [Free Play Days: Assassin’s Creed Odyssey and Olympic Games Tokyo 2020 – The Official Video Game](https://news.xbox.com/en-us/2021/12/16/free-play-days-assassins-creed-odyssey-and-olympic-games-tokyo-2020/)
- - [The best UPS battery backup for PC gaming in 2021](https://www.pcgamer.com/the-best-uninterruptible-power-supplies-ups-for-pc)<!-- GAME:END -->
+ - [A battle royale where you fight to the death with words, not bullets](https://www.polygon.com/22839555/battle-babble-royale-scrabble-steam)
+ - [The Best Video Game Surprises Of 2021](https://kotaku.com/the-best-video-game-surprises-of-2021-1848226625)
+ - [Creating the “Disruptive” Battlefield 2042 Soundtrack](https://news.xbox.com/en-us/2021/12/16/creating-the-disruptive-battlefield-2042-soundtrack/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
