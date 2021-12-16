@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US Is Gently Discouraging States From Building New Highways](https://www.wired.com/story/us-gently-discouraging-states-building-new-highways)
- - [Spotify’s latest acquisition is about making money off radio shows turned into podcasts](https://www.theverge.com/2021/12/16/22840024/spotify-whooshkaa-acquisition-tech-megaphone-hosting)
- - [Latin America-based Nowports, which lets importers and exporters ship goods directly through its service, raises a $60M Series B led by Tiger Global &lpar;Andrea Navarro/Bloomberg&rpar;](http://www.techmeme.com/211216/p39#a211216p39)<!-- TECH:END -->
+ - [Apple and other tech companies file amicus brief supporting DACA](https://appleinsider.com/articles/21/12/16/apple-and-other-tech-companies-file-amicus-brief-supporting-daca?utm_medium=rss)
+ - [The US bans investing in eight Chinese companies, including DJI and Megvii, for their alleged involvement in surveilling Uyghurs and other minority groups &lpar;Zachary Basu/Axios&rpar;](http://www.techmeme.com/211216/p42#a211216p42)
+ - [Sidewalk Labs will be folded into Google as CEO steps down for health reasons](https://www.theverge.com/2021/12/16/22840028/sidewalk-labs-google-doctoroff-health-toronto-quayside)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
