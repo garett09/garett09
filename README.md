@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Best Games Hidden Inside Other Games](https://kotaku.com/the-best-games-hidden-inside-other-games-1848227658)
- - [Get Your Exclusive Look at Super Animal Royale’s “Busy Busy” Season 2](https://news.xbox.com/en-us/2021/12/16/exclusive-look-at-super-animal-royales-busy-busy-season-2/)
- - [The Witcher&#39;s first season let us see sides of Yennefer the books and games haven&#39;t](https://www.pcgamer.com/yennefer-witcher-netflix)<!-- GAME:END -->
+ - [Sled Into Rocket League’s Frosty Fest Today](https://news.xbox.com/en-us/2021/12/16/sled-into-rocket-leagues-frosty-fest-today/)
+ - [GTA Online’s New Update Finally Confirms What Happened To Michael After GTA V](https://kotaku.com/gta-online-s-new-update-finally-confirms-what-happened-1848230375)
+ - [The Best Toys Of 2021](https://kotaku.com/the-best-toys-of-2021-1848230030)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
