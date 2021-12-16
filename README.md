@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Perfect](http://9gag.com/gag/aZrBQOp)
- - 🚯 [I love milk](http://9gag.com/gag/aXrAVdv)
- - 🚯 [Eey..](http://9gag.com/gag/abg6W1b)<!-- MEMES:END -->
+ - 🚖 [Cleaning the filter of an agricultural machine](http://9gag.com/gag/a11d5pY)
+ - 🚯 [Patriots](http://9gag.com/gag/aWg8nPx)
+ - 🚯 [Best death scene of all time!](http://9gag.com/gag/awz5L4r)<!-- MEMES:END -->
 
 --- 
 
