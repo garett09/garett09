@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Possibilities](http://9gag.com/gag/aqGr6Lj)
- - 🚯 [Highland Cow and her human](http://9gag.com/gag/aegYOLW)
+ - 🚖 [The best feeling ever](http://9gag.com/gag/aGz08bw)
+ - 🚯 [In the months before his sudden death, Grant Imahara built a fully animatronic Baby Yoda to cheer up sick kids. He spent three months of his personal time designing, programming, and 3D-printing the project, and he had planned to tour children&amp;#039;s hospitals with it.](http://9gag.com/gag/aGz0BzX)
  - 🚯 [Vote for the best games of the year for a chance to win OnePlus mobile phones, Nanoleaf smart lights and US$500 cash prizes!](http://9gag.com/gag/aqGLDGp)<!-- MEMES:END -->
 
 --- 
