@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Billionaire Goes To Space And Reviews A Manga](https://kotaku.com/billionaire-goes-to-space-and-reviews-a-manga-1848225539)
- - [Final Fantasy 14 is once again so popular it has been temporarily removed from sale](https://www.pcgamer.com/final-fantasy-14-is-once-again-so-popular-it-has-been-temporarily-removed-from-sale)
- - [Watch new Apex Legend Ash, and the CAR SMG, take on trios alone and win](https://www.pcgamer.com/watch-new-apex-legend-ash-and-the-car-smg-take-on-trios-alone-and-win)<!-- GAME:END -->
+ - [Nvidia is giving away three Matrix-inspired PCs, just to make me jealous](https://www.pcgamer.com/nvidia-is-giving-away-three-matrix-inspired-pcs-just-to-make-me-jealous)
+ - [The Witcher season 1 was 100 billion years ago, so it’s time for a refresher before season 2](https://www.polygon.com/22838013/the-witcher-season-2-watch-guide-geralt-ciri-yennefer-season-1)
+ - [Billionaire Goes To Space And Reviews A Manga](https://kotaku.com/billionaire-goes-to-space-and-reviews-a-manga-1848225539)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
