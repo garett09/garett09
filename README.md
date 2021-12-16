@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Interview with Nick Clegg, Meta&#39;s VP of global affairs, on moving from politics to Meta, the impact of Haugen&#39;s leaks, and the decision to ban Trump &lpar;Henry Mance/Financial Times&rpar;](http://www.techmeme.com/211216/p4#a211216p4)
- - [We just got our best look yet at the Huawei P50 Pocket](https://www.androidauthority.com/huawei-p50-pocket-design-3076488/)
- - [ShareChat, a social network offered in 15 Indian languages, raises $266M led by Alkeon Capital at a $3.7B valuation &lpar;Aditya Kalra/Reuters&rpar;](http://www.techmeme.com/211216/p3#a211216p3)<!-- TECH:END -->
+ - [Deals: High-end MacBook Air $1,249; Apple Pencil $79; $100 off AirPods Max, Mac mini; up to $350 off 13-inch MacBook Pro](https://appleinsider.com/articles/21/12/16/deals-high-end-macbook-air-1249-apple-pencil-79-100-off-airpods-max-mac-mini-up-to-350-off-13-inch-macbook-pro?utm_medium=rss)
+ - [Redditors grieve as Reddit sunsets its beloved annual Secret Santa exchange platform Reddit Gifts, which facilitated anonymous giving between users globally &lpar;Yasemin Craggs Mersinoglu/Financial Times&rpar;](http://www.techmeme.com/211216/p5#a211216p5)
+ - [The Dimensity 9000 will land inside two high-profile flagship lines](https://www.androidauthority.com/dimensity-9000-phones-3076507/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
