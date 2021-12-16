@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deals: High-end MacBook Air $1,249; Apple Pencil $79; $100 off AirPods Max, Mac mini; up to $350 off 13-inch MacBook Pro](https://appleinsider.com/articles/21/12/16/deals-high-end-macbook-air-1249-apple-pencil-79-100-off-airpods-max-mac-mini-up-to-350-off-13-inch-macbook-pro?utm_medium=rss)
- - [Redditors grieve as Reddit sunsets its beloved annual Secret Santa exchange platform Reddit Gifts, which facilitated anonymous giving between users globally &lpar;Yasemin Craggs Mersinoglu/Financial Times&rpar;](http://www.techmeme.com/211216/p5#a211216p5)
- - [The Dimensity 9000 will land inside two high-profile flagship lines](https://www.androidauthority.com/dimensity-9000-phones-3076507/)<!-- TECH:END -->
+ - [The OnePlus 10 Pro could have slower charging than first rumored](https://www.androidauthority.com/oneplus-10-pro-charging-3076519/)
+ - [Adidas is launching an NFT collection with exclusive access to streetwear drops](https://www.theverge.com/2021/12/16/22822143/adidas-nft-launch-into-the-metaverse-price-release-date)
+ - [2022 smartphones people are already getting excited about     - CNET](https://www.cnet.com/tech/mobile/2022-smartphones-people-already-excited-about/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
