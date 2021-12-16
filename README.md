@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [In the months before his sudden death, Grant Imahara built a fully animatronic Baby Yoda to cheer up sick kids. He spent three months of his personal time designing, programming, and 3D-printing the project, and he had planned to tour children&amp;#039;s hospitals with it.](http://9gag.com/gag/aGz0BzX)
- - 🚯 [Possibilities](http://9gag.com/gag/aqGr6Lj)
+ - 🚖 [Couch Surfing 2.0](http://9gag.com/gag/aKm2vwb)
+ - 🚯 [I love milk](http://9gag.com/gag/aXrAVdv)
  - 🚯 [Vote for the best games of the year for a chance to win OnePlus mobile phones, Nanoleaf smart lights and US$500 cash prizes!](http://9gag.com/gag/aqGLDGp)<!-- MEMES:END -->
 
 --- 
