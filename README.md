@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [After 21 years Google Toolbar is finally gone, so we installed it one last time](https://www.theverge.com/2021/12/16/22835641/google-shut-down-toolbar-internet-explorer)
- - [Amazon Echo Show 15 review: Alexa’s on your wall](https://www.theverge.com/22839220/amazon-echo-show-15-review-wall-mounted-alexa-tablet-kitchen-tv)
- - [10 best drawing apps for Android](https://www.androidauthority.com/best-drawing-apps-android-748179/)<!-- TECH:END -->
+ - [The Verge’s 2021 holiday gift guide for dads](https://www.theverge.com/22752556/holiday-gift-ideas-dad-2021-unique-tech-gadgets)
+ - [Apple expanding Southern California office for in-house wireless chip development](https://appleinsider.com/articles/21/12/16/apple-expanding-southern-california-office-for-in-house-wireless-chip-development?utm_medium=rss)
+ - [Job listings show Apple is hiring engineers for a new office in Irvine, California to develop wireless chips that could replace Broadcom and Skyworks components &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/211216/p36#a211216p36)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
