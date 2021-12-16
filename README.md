@@ -193,7 +193,7 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Well well well](http://9gag.com/gag/aYrKO2x)
+ - 🚖 [Possibilities](http://9gag.com/gag/aqGr6Lj)
  - 🚯 [Highland Cow and her human](http://9gag.com/gag/aegYOLW)
  - 🚯 [Vote for the best games of the year for a chance to win OnePlus mobile phones, Nanoleaf smart lights and US$500 cash prizes!](http://9gag.com/gag/aqGLDGp)<!-- MEMES:END -->
 
