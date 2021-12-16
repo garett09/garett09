@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Nvidia is giving away three Matrix-inspired PCs, just to make me jealous](https://www.pcgamer.com/nvidia-is-giving-away-three-matrix-inspired-pcs-just-to-make-me-jealous)
- - [The Witcher season 1 was 100 billion years ago, so it’s time for a refresher before season 2](https://www.polygon.com/22838013/the-witcher-season-2-watch-guide-geralt-ciri-yennefer-season-1)
- - [Billionaire Goes To Space And Reviews A Manga](https://kotaku.com/billionaire-goes-to-space-and-reviews-a-manga-1848225539)<!-- GAME:END -->
+ - [A closer look at Horizon Forbidden West’s new Slitherfang, Rollerback, and Sunwing Machines](https://blog.playstation.com/2021/12/16/a-closer-look-at-horizon-forbidden-wests-new-slitherfang-rollerback-and-sunwing-machines/)
+ - [A closer look at Horizon Forbidden West’s new Slitherfang, Rollerback, and Sunwing Machines](https://blog.playstation.com/2021/12/16/a-closer-look-at-horizon-forbidden-wests-new-slitherfang-rollerback-and-sunwing-machines/)
+ - [Get Frosty in Fortnite’s Winterfest 2021](https://news.xbox.com/en-us/2021/12/16/get-frosty-in-fortnite-winterfest-2021/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
