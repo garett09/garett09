@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with CEO John Hanke on Niantic&#39;s Lightship platform for building AR apps, why VR is an easier tech problem to solve than AR, the metaverse, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/211216/p1#a211216p1)
- - [Google&#39;s Manifest V3 rules for Chrome extensions won&#39;t stop malware, but will hurt innovation, reduce capabilities, and harm performance &lpar;Electronic Frontier Foundation&rpar;](http://www.techmeme.com/211215/p46#a211215p46)
- - [Best video doorbell cameras for 2021: From Ring to Arlo and beyond     - CNET](https://www.cnet.com/home/security/best-video-doorbell-cameras/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Interview with Nick Clegg, Meta&#39;s VP of global affairs, on moving from politics to Meta, the impact of Haugen&#39;s leaks, and the decision to ban Trump &lpar;Henry Mance/Financial Times&rpar;](http://www.techmeme.com/211216/p4#a211216p4)
+ - [We just got our best look yet at the Huawei P50 Pocket](https://www.androidauthority.com/huawei-p50-pocket-design-3076488/)
+ - [ShareChat, a social network offered in 15 Indian languages, raises $266M led by Alkeon Capital at a $3.7B valuation &lpar;Aditya Kalra/Reuters&rpar;](http://www.techmeme.com/211216/p3#a211216p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
