@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [With vajayjay does not come bigger pay](http://9gag.com/gag/aGz0LMX)
- - 🚯 [Monster he just destroyed a happy family.](http://9gag.com/gag/aNPd9gb)
+ - 🚖 [Yo mama](http://9gag.com/gag/adgq1wd)
+ - 🚯 [Nokia 6600 ad from 2003.](http://9gag.com/gag/aGz0Lnz)
  - 🚯 [Vote for the best games of the year for a chance to win OnePlus mobile phones, Nanoleaf smart lights and US$500 cash prizes!](http://9gag.com/gag/aqGLDGp)<!-- MEMES:END -->
 
 --- 
