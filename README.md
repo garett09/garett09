@@ -194,8 +194,8 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Memories](http://9gag.com/gag/abg6x5b)
- - 🚯 [Giant magnifying lens demonstration.](http://9gag.com/gag/a11dV9b)
- - 🚯 [My mannn](http://9gag.com/gag/aQXMAqK)<!-- MEMES:END -->
+ - 🚯 [A buffalo flipping over a tortoise](http://9gag.com/gag/aQXMmd2)
+ - 🚯 [And that&amp;lsquo;s a fact&amp;hellip;](http://9gag.com/gag/aVxDZBn)<!-- MEMES:END -->
 
 --- 
 
