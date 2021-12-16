@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Sliding and web-slinging make Fortnite feel fresh again](https://www.polygon.com/fortnite/22840039/fortnite-chapter-3-how-to-slide-web-shooter-update)
- - [A Sekiro-inspired 2D platformer is coming from the creators of Devotion](https://www.polygon.com/22839629/red-candle-games-nine-sols-sekiro-platformer)
- - [Halo Infinite fulfills promises that were two decades in the making](https://www.polygon.com/22837535/halo-infinite-goty-game-best-games-of-2021-xbox-series-x-pc)<!-- GAME:END -->
+ - [Warframe: The New War is Here and the Origin System Will Never Be the Same](https://news.xbox.com/en-us/2021/12/16/warframe-the-new-war-is-here/)
+ - [Despite Breaking Records, Ludwig And Other Streamers Who Jumped Ship Aren&#39;t In Twitch&#39;s 2021 Recap](https://kotaku.com/despite-breaking-records-ludwig-and-other-streamers-wh-1848229321)
+ - [Stephen Colbert’s star-studded Lord of the Rings rap is the peak of his obsession](https://www.polygon.com/22839782/stephen-colbert-lord-of-the-rings-rap-lotr-cast)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
