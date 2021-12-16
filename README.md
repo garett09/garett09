@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nintendo Switch &quot;year in review&quot; site shows your most played games and other stats     - CNET](https://www.cnet.com/tech/gaming/nintendo-switch-year-in-review-site-shows-your-most-played-games-and-other-stats/#ftag=CAD590a51e)
- - [An Afghan refugee who drove for Uber was killed in San Francisco — his family is seeking answers](https://www.theverge.com/2021/12/16/22837475/afghan-refugee-uber-killed-san-francisco-family)
- - [Google Chrome’s last-minute holiday shopping tools track prices and abandoned carts](https://www.theverge.com/2021/12/16/22839681/christmas-shopping-chrome-price-drop-tracker-your-carts-tab)<!-- TECH:END -->
+ - [After 21 years Google Toolbar is finally gone, so we installed it one last time](https://www.theverge.com/2021/12/16/22835641/google-shut-down-toolbar-internet-explorer)
+ - [Amazon Echo Show 15 review: Alexa’s on your wall](https://www.theverge.com/22839220/amazon-echo-show-15-review-wall-mounted-alexa-tablet-kitchen-tv)
+ - [10 best drawing apps for Android](https://www.androidauthority.com/best-drawing-apps-android-748179/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
