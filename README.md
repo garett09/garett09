@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [SiriusXM offering one year of Apple Music to Platinum VIP subscribers](https://appleinsider.com/articles/21/12/16/siriusxm-offering-one-year-of-apple-music-for-platinum-vip-subscribers?utm_medium=rss)
- - [Popular photo editing app Pixelmator Photo makes its debut on iPhone](https://appleinsider.com/articles/21/12/16/popular-photo-editing-app-pixelmator-photo-makes-its-debut-on-iphone?utm_medium=rss)
- - [You can soon rate your favorite podcast on Spotify](https://www.theverge.com/2021/12/16/22839449/spotify-podcast-star-ratings-update-review)<!-- TECH:END -->
+ - [Uber says it plans to launch a driverless food-delivery pilot in Santa Monica next year in partnership with Motional, a joint venture between Hyundai and Aptiv &lpar;Jackie Davalos/Bloomberg&rpar;](http://www.techmeme.com/211216/p30#a211216p30)
+ - [The House is a creepy stop-motion anthology coming to Netflix in January](https://www.theverge.com/2021/12/16/22839548/the-house-netflix-trailer-stop-motion-anthology)
+ - [Save up to 60% on iPhone cases and more during Moment&#39;s holiday sale     - CNET](https://www.cnet.com/tech/mobile/save-up-to-60-on-iphone-cases-and-more-during-moments-holiday-sale/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
