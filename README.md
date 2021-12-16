@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Memories](http://9gag.com/gag/abg6x5b)
- - 🚯 [A buffalo flipping over a tortoise](http://9gag.com/gag/aQXMmd2)
- - 🚯 [And that&amp;lsquo;s a fact&amp;hellip;](http://9gag.com/gag/aVxDZBn)<!-- MEMES:END -->
+ - 🚖 [Best death scene of all time!](http://9gag.com/gag/awz5L4r)
+ - 🚯 [Pick up the juice](http://9gag.com/gag/a11dVGb)
+ - 🚯 [Go full caveman, can save your life.](http://9gag.com/gag/aYrKqjq)<!-- MEMES:END -->
 
 --- 
 
