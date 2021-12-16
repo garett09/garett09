@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mavrck, a service that helps connect brands and influencers and offers an &quot;Influencer Index&quot;, raises $120M from Summit Partners &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/211216/p17#a211216p17)
- - [Rokt, which helps e-commerce companies make personalized marketing offers, raises a $325M Series E at a $1.95B valuation led by Tiger Global ahead of an IPO &lpar;Megan Graham/Wall Street Journal&rpar;](http://www.techmeme.com/211216/p16#a211216p16)
- - [Poll: Do you plan to buy a new phone next year?](https://www.androidauthority.com/buy-new-phone-2022-poll-3076620/)<!-- TECH:END -->
+ - [OnePlus Buds Z2: Affordable buds get better &lpar;Update: US and Canada availability&rpar;](https://www.androidauthority.com/oneplus-buds-z2-3038512/)
+ - [LaTurbo Avedon Is Way Ahead of the Metaverse](https://www.wired.com/story/laturbo-avedon-digital-art)
+ - [Smartphones Are a New Tax on the Poor](https://www.wired.com/story/phones-connectivity-tax-policy)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
