@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Verge’s 2021 holiday gift guide for dads](https://www.theverge.com/22752556/holiday-gift-ideas-dad-2021-unique-tech-gadgets)
- - [Apple expanding Southern California office for in-house wireless chip development](https://appleinsider.com/articles/21/12/16/apple-expanding-southern-california-office-for-in-house-wireless-chip-development?utm_medium=rss)
- - [Job listings show Apple is hiring engineers for a new office in Irvine, California to develop wireless chips that could replace Broadcom and Skyworks components &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/211216/p36#a211216p36)<!-- TECH:END -->
+ - [The US Is Gently Discouraging States From Building New Highways](https://www.wired.com/story/us-gently-discouraging-states-building-new-highways)
+ - [Spotify’s latest acquisition is about making money off radio shows turned into podcasts](https://www.theverge.com/2021/12/16/22840024/spotify-whooshkaa-acquisition-tech-megaphone-hosting)
+ - [Latin America-based Nowports, which lets importers and exporters ship goods directly through its service, raises a $60M Series B led by Tiger Global &lpar;Andrea Navarro/Bloomberg&rpar;](http://www.techmeme.com/211216/p39#a211216p39)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
