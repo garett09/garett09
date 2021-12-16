@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best rowing machines of 2022     - CNET](https://www.cnet.com/health/fitness/best-rowing-machine/#ftag=CAD590a51e)
- - [Best jack stands for 2021     - Roadshow](https://www.cnet.com/roadshow/news/best-jack-stands/#ftag=CAD590a51e)
- - [Reddit files to take the company public](https://www.theverge.com/2021/12/15/22838901/reddit-going-public-sec-s-1-filing-confidential)<!-- TECH:END -->
+ - [Google&#39;s Manifest V3 rules for Chrome extensions won&#39;t stop malware, but will hurt innovation, reduce capabilities, and harm performance &lpar;Electronic Frontier Foundation&rpar;](http://www.techmeme.com/211215/p46#a211215p46)
+ - [Best video doorbell cameras for 2021: From Ring to Arlo and beyond     - CNET](https://www.cnet.com/home/security/best-video-doorbell-cameras/#ftag=CAD590a51e)
+ - [Best rowing machines of 2022     - CNET](https://www.cnet.com/health/fitness/best-rowing-machine/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
