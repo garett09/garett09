@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus Buds Z2: Affordable buds get better &lpar;Update: US and Canada availability&rpar;](https://www.androidauthority.com/oneplus-buds-z2-3038512/)
- - [LaTurbo Avedon Is Way Ahead of the Metaverse](https://www.wired.com/story/laturbo-avedon-digital-art)
- - [Smartphones Are a New Tax on the Poor](https://www.wired.com/story/phones-connectivity-tax-policy)<!-- TECH:END -->
+ - [SiriusXM offering one year of Apple Music to Platinum VIP subscribers](https://appleinsider.com/articles/21/12/16/siriusxm-offering-one-year-of-apple-music-for-platinum-vip-subscribers?utm_medium=rss)
+ - [Popular photo editing app Pixelmator Photo makes its debut on iPhone](https://appleinsider.com/articles/21/12/16/popular-photo-editing-app-pixelmator-photo-makes-its-debut-on-iphone?utm_medium=rss)
+ - [You can soon rate your favorite podcast on Spotify](https://www.theverge.com/2021/12/16/22839449/spotify-podcast-star-ratings-update-review)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
