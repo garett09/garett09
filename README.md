@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Yo mama](http://9gag.com/gag/adgq1wd)
- - 🚯 [Nokia 6600 ad from 2003.](http://9gag.com/gag/aGz0Lnz)
+ - 🚖 [Nokia 6600 ad from 2003.](http://9gag.com/gag/aGz0Lnz)
+ - 🚯 [Truer words have never been spoken](http://9gag.com/gag/adgqvw9)
  - 🚯 [Vote for the best games of the year for a chance to win OnePlus mobile phones, Nanoleaf smart lights and US$500 cash prizes!](http://9gag.com/gag/aqGLDGp)<!-- MEMES:END -->
 
 --- 
