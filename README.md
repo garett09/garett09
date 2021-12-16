@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Q&amp;A with CEO John Hanke on Niantic&#39;s Lightship platform for building AR apps, why VR is an easier tech problem to solve than AR, the metaverse, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/211216/p1#a211216p1)
  - [Google&#39;s Manifest V3 rules for Chrome extensions won&#39;t stop malware, but will hurt innovation, reduce capabilities, and harm performance &lpar;Electronic Frontier Foundation&rpar;](http://www.techmeme.com/211215/p46#a211215p46)
- - [Best video doorbell cameras for 2021: From Ring to Arlo and beyond     - CNET](https://www.cnet.com/home/security/best-video-doorbell-cameras/#ftag=CAD590a51e)
- - [Best rowing machines of 2022     - CNET](https://www.cnet.com/health/fitness/best-rowing-machine/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best video doorbell cameras for 2021: From Ring to Arlo and beyond     - CNET](https://www.cnet.com/home/security/best-video-doorbell-cameras/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
