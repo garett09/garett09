@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Cleaning the filter of an agricultural machine](http://9gag.com/gag/a11d5pY)
- - 🚯 [Patriots](http://9gag.com/gag/aWg8nPx)
- - 🚯 [Best death scene of all time!](http://9gag.com/gag/awz5L4r)<!-- MEMES:END -->
+ - 🚖 [Memories](http://9gag.com/gag/abg6x5b)
+ - 🚯 [Giant magnifying lens demonstration.](http://9gag.com/gag/a11dV9b)
+ - 🚯 [My mannn](http://9gag.com/gag/aQXMAqK)<!-- MEMES:END -->
 
 --- 
 
