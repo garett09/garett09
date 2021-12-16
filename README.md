@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Babble Royale turns Scrabble into Fortnite](https://www.theverge.com/2021/12/16/22839745/babble-royale-scrabble-fortnite)
- - [The Verge’s 2021 holiday gift guide for kids](https://www.theverge.com/22759900/holiday-gift-ideas-kids-children-2021-unique-tech-gadgets)
- - [GameStop is selling PlayStation 5 console bundles in-store on December 17th](https://www.theverge.com/2021/12/16/22839972/gamestop-sony-ps5-playstation-5-restock-availability-retail-store)<!-- TECH:END -->
+ - [Read the S.T.A.L.K.E.R. 2 developer’s deleted explanation for why you’re getting NFTs](https://www.theverge.com/2021/12/16/22840383/stalker-2-developer-explain-nfts-gsc-game-world-deleted-tweet)
+ - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
+ - [Tested: MagSafe charging speed versus Qi, USB-C, and USB-A](https://appleinsider.com/articles/21/12/16/tested-magsafe-charging-speed-versus-qi-usb-c-and-usb-a?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
