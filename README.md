@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google launches Qaya, its latest project from in-house incubator Area 120, which helps US creators set up online storefronts to sell directly to customers &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/211215/p40#a211215p40)
- - [Spider-Man: No Way Home -- that ending explained and all your questions answered     - CNET](https://www.cnet.com/news/spider-man-no-way-home-that-ending-explained-and-all-your-questions-answered/#ftag=CAD590a51e)
- - [Pokemon Go Reshiram raid guide: Best counters, weaknesses and moves     - CNET](https://www.cnet.com/tech/gaming/pokemon-go-reshiram-raid-guide-best-counters-weaknesses-and-moves/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Here’s where you can buy a Nintendo Switch](https://www.theverge.com/21257643/nintendo-switch-lite-oled-how-to-buy-in-stock)
+ - [Sources: dbt Labs, which develops an open source data analytics tool, is in talks to raise a Series D at a $6B valuation, following a $1.5B valuation in June &lpar;Kenrick Cai/Forbes&rpar;](http://www.techmeme.com/211215/p42#a211215p42)
+ - [Best headphones for 2021     - CNET](https://www.cnet.com/tech/mobile/best-headphones/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
