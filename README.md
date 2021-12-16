@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple and other tech companies file amicus brief supporting DACA](https://appleinsider.com/articles/21/12/16/apple-and-other-tech-companies-file-amicus-brief-supporting-daca?utm_medium=rss)
- - [The US bans investing in eight Chinese companies, including DJI and Megvii, for their alleged involvement in surveilling Uyghurs and other minority groups &lpar;Zachary Basu/Axios&rpar;](http://www.techmeme.com/211216/p42#a211216p42)
- - [Sidewalk Labs will be folded into Google as CEO steps down for health reasons](https://www.theverge.com/2021/12/16/22840028/sidewalk-labs-google-doctoroff-health-toronto-quayside)<!-- TECH:END -->
+ - [Babble Royale turns Scrabble into Fortnite](https://www.theverge.com/2021/12/16/22839745/babble-royale-scrabble-fortnite)
+ - [The Verge’s 2021 holiday gift guide for kids](https://www.theverge.com/22759900/holiday-gift-ideas-kids-children-2021-unique-tech-gadgets)
+ - [GameStop is selling PlayStation 5 console bundles in-store on December 17th](https://www.theverge.com/2021/12/16/22839972/gamestop-sony-ps5-playstation-5-restock-availability-retail-store)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
