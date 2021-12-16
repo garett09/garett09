@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Stocktwits, a social network used by traders and investors, raises $30M, source says at a $210M valuation, led by Alameda Research and says it has 1M MAUs &lpar;Gillian Tan/Bloomberg&rpar;](http://www.techmeme.com/211216/p9#a211216p9)
- - [German startup financing service Re:cap, which helps convert ARR into non-dilutive investment, raises a $111.5M seed &lpar;Mike Butcher/TechCrunch&rpar;](http://www.techmeme.com/211216/p8#a211216p8)
- - [Uber expands its same-day local delivery business to more cities](https://www.theverge.com/2021/12/16/22838302/uber-connect-cities-same-day-delivery-expand)<!-- TECH:END -->
+ - [Sources: Indian edtech company Byju&#39;s is in advanced talks to go public via SPAC on the NYSE, raising around $4B and valuing it at about $48B &lpar;Bloomberg&rpar;](http://www.techmeme.com/211216/p13#a211216p13)
+ - [Cockroach Labs, which makes the SQL database CockroachDB, raises a $278M Series F at a $5B valuation, after raising $160M at a $2B valuation in January &lpar;Ron Miller/TechCrunch&rpar;](http://www.techmeme.com/211216/p12#a211216p12)
+ - [How Apple could remove the notch on the iPhone 14 Pro for good     - CNET](https://www.cnet.com/tech/mobile/how-apple-could-remove-the-notch-on-the-iphone-14-pro-for-good/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
