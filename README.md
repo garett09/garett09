@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Facts](http://9gag.com/gag/a41ZNBd)
- - 🚯 [Cleaning the filter of an agricultural machine](http://9gag.com/gag/a11d5pY)
- - 🚯 [Vote for the best games of the year for a chance to win OnePlus mobile phones, Nanoleaf smart lights and US$500 cash prizes!](http://9gag.com/gag/aqGLDGp)<!-- MEMES:END -->
+ - 🚖 [Terry Crew finally receives his star on the sidewalk of fame in Hollywood](http://9gag.com/gag/arnOX5d)
+ - 🚯 [Quick history lesson](http://9gag.com/gag/aNPdQ9r)
+ - 🚯 [I love milk](http://9gag.com/gag/aXrAVdv)<!-- MEMES:END -->
 
 --- 
 
