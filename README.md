@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Warframe: The New War is Here and the Origin System Will Never Be the Same](https://news.xbox.com/en-us/2021/12/16/warframe-the-new-war-is-here/)
- - [Despite Breaking Records, Ludwig And Other Streamers Who Jumped Ship Aren&#39;t In Twitch&#39;s 2021 Recap](https://kotaku.com/despite-breaking-records-ludwig-and-other-streamers-wh-1848229321)
- - [Stephen Colbert’s star-studded Lord of the Rings rap is the peak of his obsession](https://www.polygon.com/22839782/stephen-colbert-lord-of-the-rings-rap-lotr-cast)<!-- GAME:END -->
+ - [The Best Games Hidden Inside Other Games](https://kotaku.com/the-best-games-hidden-inside-other-games-1848227658)
+ - [Get Your Exclusive Look at Super Animal Royale’s “Busy Busy” Season 2](https://news.xbox.com/en-us/2021/12/16/exclusive-look-at-super-animal-royales-busy-busy-season-2/)
+ - [The Witcher&#39;s first season let us see sides of Yennefer the books and games haven&#39;t](https://www.pcgamer.com/yennefer-witcher-netflix)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
