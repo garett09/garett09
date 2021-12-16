@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Here&#39;s when The Witcher season 2 releases](https://www.pcgamer.com/witcher-season-2-release-time-date)
  - [Intel&#39;s upcoming i5 12400 could be the king of budget CPUs](https://www.pcgamer.com/intels-upcoming-i5-12400-could-be-the-king-of-budget-cpus)
- - [Get EVGA GeForce RTX 3060 Ti, 3060 XC, 2060, and 3090 graphics cards in these bundles](https://www.pcgamer.com/get-evga-geforce-rtx-3060-ti-3060-xc-2060-and-3090-graphics-cards-in-these-bundles)
- - [Bungie&#39;s HR Head Steps Down, Had Reported Executive For Abuse](https://kotaku.com/bungies-hr-head-steps-down-had-reported-executive-for-1848224936)<!-- GAME:END -->
+ - [Get EVGA GeForce RTX 3060 Ti, 3060 XC, 2060, and 3090 graphics cards in these bundles](https://www.pcgamer.com/get-evga-geforce-rtx-3060-ti-3060-xc-2060-and-3090-graphics-cards-in-these-bundles)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
