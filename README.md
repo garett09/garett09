@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [A closer look at Horizon Forbidden West’s new Slitherfang, Rollerback, and Sunwing Machines](https://blog.playstation.com/2021/12/16/a-closer-look-at-horizon-forbidden-wests-new-slitherfang-rollerback-and-sunwing-machines/)
- - [A closer look at Horizon Forbidden West’s new Slitherfang, Rollerback, and Sunwing Machines](https://blog.playstation.com/2021/12/16/a-closer-look-at-horizon-forbidden-wests-new-slitherfang-rollerback-and-sunwing-machines/)
- - [Get Frosty in Fortnite’s Winterfest 2021](https://news.xbox.com/en-us/2021/12/16/get-frosty-in-fortnite-winterfest-2021/)<!-- GAME:END -->
+ - [Wield magic and a giant hammer fit for Thor in Tiny Tina’s Wonderlands](https://www.polygon.com/22838210/tiny-tinas-wonderlands-new-trailer-classes-gearbox-borderlands)
+ - [Nintendo fixes Animal Crossing’s naked villager glitch](https://www.polygon.com/22839427/animal-crossing-new-horizons-naked-villager-dlc-glitch)
+ - [Complete holiday quests, battle with unvaulted items, and more in Fortnite’s 2021 Winterfest](https://blog.playstation.com/2021/12/16/complete-holiday-quests-battle-with-unvaulted-items-and-more-in-fortnites-2021-winterfest/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
