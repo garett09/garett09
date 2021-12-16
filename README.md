@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Couch Surfing 2.0](http://9gag.com/gag/aKm2vwb)
- - 🚯 [I love milk](http://9gag.com/gag/aXrAVdv)
+ - 🚖 [I love milk](http://9gag.com/gag/aXrAVdv)
+ - 🚯 [A deserted ghost town in 20 years](http://9gag.com/gag/ay9L6gW)
  - 🚯 [Vote for the best games of the year for a chance to win OnePlus mobile phones, Nanoleaf smart lights and US$500 cash prizes!](http://9gag.com/gag/aqGLDGp)<!-- MEMES:END -->
 
 --- 
