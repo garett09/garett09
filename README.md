@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [TikTok tests PC game streaming app that could let it take on Twitch](https://www.theverge.com/2021/12/16/22839213/tiktok-live-studio-desktop-live-streaming-twitch)
- - [Apple AirPods Pro 2 rumors: 2022 release date, new design and everything else we&#39;ve heard     - CNET](https://www.cnet.com/tech/mobile/apple-airpods-pro-2-rumors-2022-release-date-new-design-and-everything-else-weve-heard/#ftag=CAD590a51e)
- - [Galaxy S21 FE: Will we see Samsung&#39;s next affordable phone in January?     - CNET](https://www.cnet.com/tech/mobile/samsung-galaxy-s21-fe-rumors/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Stocktwits, a social network used by traders and investors, raises $30M, source says at a $210M valuation, led by Alameda Research and says it has 1M MAUs &lpar;Gillian Tan/Bloomberg&rpar;](http://www.techmeme.com/211216/p9#a211216p9)
+ - [German startup financing service Re:cap, which helps convert ARR into non-dilutive investment, raises a $111.5M seed &lpar;Mike Butcher/TechCrunch&rpar;](http://www.techmeme.com/211216/p8#a211216p8)
+ - [Uber expands its same-day local delivery business to more cities](https://www.theverge.com/2021/12/16/22838302/uber-connect-cities-same-day-delivery-expand)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
