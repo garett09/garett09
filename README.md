@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [You have become the very thing you swore to destroy](http://9gag.com/gag/a11d73D)
- - 🚯 [Monster he just destroyed a happy family.](http://9gag.com/gag/aNPd9gb)
+ - 🚖 [New Season](http://9gag.com/gag/angynbL)
+ - 🚯 [Yo mama](http://9gag.com/gag/adgq1wd)
  - 🚯 [Vote for the best games of the year for a chance to win OnePlus mobile phones, Nanoleaf smart lights and US$500 cash prizes!](http://9gag.com/gag/aqGLDGp)<!-- MEMES:END -->
 
 --- 
