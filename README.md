@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Terry Crew finally receives his star on the sidewalk of fame in Hollywood](http://9gag.com/gag/arnOX5d)
- - 🚯 [Quick history lesson](http://9gag.com/gag/aNPdQ9r)
- - 🚯 [I love milk](http://9gag.com/gag/aXrAVdv)<!-- MEMES:END -->
+ - 🚖 [Perfect](http://9gag.com/gag/aZrBQOp)
+ - 🚯 [I love milk](http://9gag.com/gag/aXrAVdv)
+ - 🚯 [Eey..](http://9gag.com/gag/abg6W1b)<!-- MEMES:END -->
 
 --- 
 
