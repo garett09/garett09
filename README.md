@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The OnePlus 10 Pro could have slower charging than first rumored](https://www.androidauthority.com/oneplus-10-pro-charging-3076519/)
- - [Adidas is launching an NFT collection with exclusive access to streetwear drops](https://www.theverge.com/2021/12/16/22822143/adidas-nft-launch-into-the-metaverse-price-release-date)
- - [2022 smartphones people are already getting excited about     - CNET](https://www.cnet.com/tech/mobile/2022-smartphones-people-already-excited-about/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [TikTok tests PC game streaming app that could let it take on Twitch](https://www.theverge.com/2021/12/16/22839213/tiktok-live-studio-desktop-live-streaming-twitch)
+ - [Apple AirPods Pro 2 rumors: 2022 release date, new design and everything else we&#39;ve heard     - CNET](https://www.cnet.com/tech/mobile/apple-airpods-pro-2-rumors-2022-release-date-new-design-and-everything-else-weve-heard/#ftag=CAD590a51e)
+ - [Galaxy S21 FE: Will we see Samsung&#39;s next affordable phone in January?     - CNET](https://www.cnet.com/tech/mobile/samsung-galaxy-s21-fe-rumors/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
