@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Watch new Apex Legend Ash, and the CAR SMG, take on trios alone and win](https://www.pcgamer.com/watch-new-apex-legend-ash-and-the-car-smg-take-on-trios-alone-and-win)
- - [Four top tactics to help you stay alive on Apex Legends&#39; new Storm Point map](https://www.pcgamer.com/four-top-tactics-to-help-you-stay-alive-on-apex-legends-new-storm-point-map)
- - [Escape to Apex Legends Season 11 and meet the new hero Ash](https://www.pcgamer.com/escape-to-apex-legends-season-11-and-meet-the-new-hero-ash)<!-- GAME:END -->
+ - [Billionaire Goes To Space And Reviews A Manga](https://kotaku.com/billionaire-goes-to-space-and-reviews-a-manga-1848225539)
+ - [Final Fantasy 14 is once again so popular it has been temporarily removed from sale](https://www.pcgamer.com/final-fantasy-14-is-once-again-so-popular-it-has-been-temporarily-removed-from-sale)
+ - [Watch new Apex Legend Ash, and the CAR SMG, take on trios alone and win](https://www.pcgamer.com/watch-new-apex-legend-ash-and-the-car-smg-take-on-trios-alone-and-win)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
