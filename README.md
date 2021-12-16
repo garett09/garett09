@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Wield magic and a giant hammer fit for Thor in Tiny Tina’s Wonderlands](https://www.polygon.com/22838210/tiny-tinas-wonderlands-new-trailer-classes-gearbox-borderlands)
- - [Nintendo fixes Animal Crossing’s naked villager glitch](https://www.polygon.com/22839427/animal-crossing-new-horizons-naked-villager-dlc-glitch)
- - [Complete holiday quests, battle with unvaulted items, and more in Fortnite’s 2021 Winterfest](https://blog.playstation.com/2021/12/16/complete-holiday-quests-battle-with-unvaulted-items-and-more-in-fortnites-2021-winterfest/)<!-- GAME:END -->
+ - [Square Enix suspends Final Fantasy 14 sales because Endwalker is too popular](https://www.polygon.com/22839463/ff14-endwalker-servers-square-enix-game-time-patch)
+ - [Free Play Days: Assassin’s Creed Odyssey and Olympic Games Tokyo 2020 – The Official Video Game](https://news.xbox.com/en-us/2021/12/16/free-play-days-assassins-creed-odyssey-and-olympic-games-tokyo-2020/)
+ - [The best UPS battery backup for PC gaming in 2021](https://www.pcgamer.com/the-best-uninterruptible-power-supplies-ups-for-pc)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
