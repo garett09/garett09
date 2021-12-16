@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Uber says it plans to launch a driverless food-delivery pilot in Santa Monica next year in partnership with Motional, a joint venture between Hyundai and Aptiv &lpar;Jackie Davalos/Bloomberg&rpar;](http://www.techmeme.com/211216/p30#a211216p30)
- - [The House is a creepy stop-motion anthology coming to Netflix in January](https://www.theverge.com/2021/12/16/22839548/the-house-netflix-trailer-stop-motion-anthology)
- - [Save up to 60% on iPhone cases and more during Moment&#39;s holiday sale     - CNET](https://www.cnet.com/tech/mobile/save-up-to-60-on-iphone-cases-and-more-during-moments-holiday-sale/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Nintendo Switch &quot;year in review&quot; site shows your most played games and other stats     - CNET](https://www.cnet.com/tech/gaming/nintendo-switch-year-in-review-site-shows-your-most-played-games-and-other-stats/#ftag=CAD590a51e)
+ - [An Afghan refugee who drove for Uber was killed in San Francisco — his family is seeking answers](https://www.theverge.com/2021/12/16/22837475/afghan-refugee-uber-killed-san-francisco-family)
+ - [Google Chrome’s last-minute holiday shopping tools track prices and abandoned carts](https://www.theverge.com/2021/12/16/22839681/christmas-shopping-chrome-price-drop-tracker-your-carts-tab)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
