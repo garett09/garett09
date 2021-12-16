@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Best death scene of all time!](http://9gag.com/gag/awz5L4r)
- - 🚯 [Pick up the juice](http://9gag.com/gag/a11dVGb)
- - 🚯 [Go full caveman, can save your life.](http://9gag.com/gag/aYrKqjq)<!-- MEMES:END -->
+ - 🚖 [Shittiest design award goes to...](http://9gag.com/gag/aPZMQRV)
+ - 🚯 [GF broke up with me last week. Family forgot it. Happy birthday my dudes..](http://9gag.com/gag/aGz0Myz)
+ - 🚯 [Rediscovered after 15 years. And it&amp;#039;s just as good as it was then. Childhood flashback](http://9gag.com/gag/angyE5n)<!-- MEMES:END -->
 
 --- 
 
