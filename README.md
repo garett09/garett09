@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Bungie&#39;s HR Head Steps Down, Had Reported Executive For Abuse](https://kotaku.com/bungies-hr-head-steps-down-had-reported-executive-for-1848224936)
  - [Following report into sexism and toxicity, Bungie head of HR steps down](https://www.pcgamer.com/following-report-into-sexism-and-toxicity-bungie-head-of-hr-steps-down)
- - [The Wandering Swordsman](https://kotaku.com/the-wandering-swordsman-1848224060)
- - [Diablo 2 is getting its first class balance changes in 11 years](https://www.pcgamer.com/diablo-2-is-getting-its-first-class-balance-changes-in-11-years)<!-- GAME:END -->
+ - [The Wandering Swordsman](https://kotaku.com/the-wandering-swordsman-1848224060)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
