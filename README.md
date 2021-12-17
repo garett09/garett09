@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Halo Infinite’s Big Team Battle matchmaking causing errors, fix coming in January](https://www.polygon.com/22841644/halo-infinite-big-team-battle-playlist-update-matchmaking)
- - [The best gaming headsets 2021](https://www.polygon.com/22462939/best-gaming-headset-ps5-pc-xbox-switch-budget-mic-glasses-big-small)
- - [Beadle &amp; Grimm’s announces a new high-end line of accessories for Magic: The Gathering](https://www.polygon.com/22841519/beadle-grimms-magic-kamigawa-neon-dynasty-platinum-silver-edition-release-date-price)<!-- GAME:END -->
+ - [Daredevil’s wild history of representing Spider-Man and other Marvel heroes as a lawyer](https://www.polygon.com/22840234/daredevil-marvel-lawyer-spider-man)
+ - [Official PlayStation Podcast Episode 418: Holiday Cheers and Game of the Years](https://blog.playstation.com/2021/12/17/official-playstation-podcast-episode-418-holiday-cheers-and-game-of-the-years/)
+ - [Official PlayStation Podcast Episode 418: Holiday Cheers and Game of the Years](https://blog.playstation.com/2021/12/17/official-playstation-podcast-episode-418-holiday-cheers-and-game-of-the-years/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
