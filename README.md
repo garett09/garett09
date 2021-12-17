@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Shittiest design award goes to...](http://9gag.com/gag/aPZMQRV)
+ - 🚖 [MRW I see](http://9gag.com/gag/a3172Kr)
  - 🚯 [It&amp;rsquo;s just a fart*](http://9gag.com/gag/a91WXmW)
- - 🚯 [MRW I see](http://9gag.com/gag/a3172Kr)<!-- MEMES:END -->
+ - 🚯 [Imagine being white](http://9gag.com/gag/aAGwXbR)<!-- MEMES:END -->
 
 --- 
 
