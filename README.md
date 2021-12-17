@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Collaborates with Riddell to Create Commemorative SpeedFlex Helmet Inspired by Master Chief](https://news.xbox.com/en-us/2021/12/17/riddell-speedflex-helmet-inspired-by-master-chief/)
- - [12 Games Killed In 2021 That Prove Preservation Is Vital](https://kotaku.com/12-games-killed-in-2021-that-prove-preservation-is-vita-1848230336)
- - [Halo Infinite skull locations guide](https://www.pcgamer.com/halo-infinite-skull-locations-guide)<!-- GAME:END -->
+ - [Seasons greetings from PlayStation.Blog and friends](https://blog.playstation.com/2021/12/17/seasons-greetings-from-playstation-blog-and-friends/)
+ - [Seasons greetings from PlayStation.Blog and friends](https://blog.playstation.com/2021/12/17/seasons-greetings-from-playstation-blog-and-friends/)
+ - [Chicory: A Colorful Tale showed us how to color outside the lines](https://www.polygon.com/22841181/chicory-a-colorful-tale-best-video-games-2021-goty-polygon-nintendo-switch-windows-playstation-4)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
