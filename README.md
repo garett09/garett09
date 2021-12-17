@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Seasons greetings from PlayStation.Blog and friends](https://blog.playstation.com/2021/12/17/seasons-greetings-from-playstation-blog-and-friends/)
- - [Seasons greetings from PlayStation.Blog and friends](https://blog.playstation.com/2021/12/17/seasons-greetings-from-playstation-blog-and-friends/)
- - [Chicory: A Colorful Tale showed us how to color outside the lines](https://www.polygon.com/22841181/chicory-a-colorful-tale-best-video-games-2021-goty-polygon-nintendo-switch-windows-playstation-4)<!-- GAME:END -->
+ - [Share of the Week – The Matrix Awakens: An Unreal Engine 5 Experience](https://blog.playstation.com/2021/12/17/share-of-the-week-the-matrix-awakens-an-unreal-engine-5-experience/)
+ - [Share of the Week – The Matrix Awakens: An Unreal Engine 5 Experience](https://blog.playstation.com/2021/12/17/share-of-the-week-the-matrix-awakens-an-unreal-engine-5-experience/)
+ - [Aspire: Ina’s Tale – A Beautiful Yet Delicately Twisted 2D Adventure – is Available Now](https://news.xbox.com/en-us/2021/12/17/aspire-inas-tale-a-beautiful-yet-delicately-twisted-2d-adventure-is-available-now/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
