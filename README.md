@@ -179,7 +179,7 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Witcher season 2, episode 2 recap: The beast in Kaer Morhen](https://www.pcgamer.com/the-witcher-season-2-episode-2-recap)
+ - [BTS Just Performed &#39;Butter&#39; And &#39;Permission to Dance&#39; In Minecraft](https://kotaku.com/bts-just-performed-butter-and-permission-to-dance-in-mi-1848232546)
  - [The Witcher season 2, episode 6 recap: The Temple of Melitele](https://www.pcgamer.com/the-witcher-season-2-episode-6-recap)
  - [The Witcher season 2, episode 5: The Child of Destiny](https://www.pcgamer.com/the-witcher-season-2-episode-5-recap)<!-- GAME:END -->
 
