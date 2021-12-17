@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: California&#39;s civil rights regulator is investigating Google&#39;s treatment of Black female workers following allegations of harassment and discrimination &lpar;Paresh Dave/Reuters&rpar;](http://www.techmeme.com/211217/p11#a211217p11)
- - [Vergecast: James Webb Space Telescope’s launch next week, cool gadgets launched this week](https://www.theverge.com/2021/12/17/22841227/vergecast-podcast-479-jwst-launch-sony-glass-speaker-opal-c1)
- - [Apple unveils &#39;Wild Things: Siegfried &amp; Roy&#39; podcast for Apple TV+](https://appleinsider.com/articles/21/12/17/apple-unveils-wild-things-siegfried-roy-podcast-for-apple-tv?utm_medium=rss)<!-- TECH:END -->
+ - [Clockwork Aquario brings a long-lost arcade game back to life](https://www.theverge.com/2021/12/17/22841146/clockwork-aquario-arcade-game-nintendo-switch-ps4)
+ - [Dedrone, which lets airports, stadiums, correctional facilities, and others detect and track drones, raises a $30.5M Series C led by Axon &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/211217/p12#a211217p12)
+ - [H&amp;R Block is suing Block, formerly Square, over its new name](https://www.theverge.com/2021/12/17/22841182/square-block-hr-block-trademark-lawsuit-jack-dorsey)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
