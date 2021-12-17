@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The office](http://9gag.com/gag/a61M29A)
- - 🚯 [Pick up the juice](http://9gag.com/gag/a11dVGb)
- - 🚯 [Shittiest design award goes to...](http://9gag.com/gag/aPZMQRV)<!-- MEMES:END -->
+ - 🚖 [Flareman](http://9gag.com/gag/aYrKMMw)
+ - 🚯 [The true action hero of all time!](http://9gag.com/gag/a81p2z6)
+ - 🚯 [Rediscovered after 15 years. And it&amp;#039;s just as good as it was then. Childhood flashback](http://9gag.com/gag/angyE5n)<!-- MEMES:END -->
 
 --- 
 
