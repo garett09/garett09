@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Garmin Venu 2 Plus renders leak: How do you improve on a great watch?](https://www.androidauthority.com/garmin-venu-2-plus-3077076/)
  - [TikTok launches a Discord server with five moderators, as brands use the messaging tool to forge a sense of community, including Wendy&#39;s with 60K+ Discord users &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/211217/p1#a211217p1)
- - [Sony’s new  camera tech promises wider dynamic range, reduced noise](https://www.androidauthority.com/sony-stacked-camera-sensor-smartphones-3076490/)
- - [Google Doodle honors French mathematician Émilie du Châtelet     - CNET](https://www.cnet.com/news/google-doodle-honors-french-mathematician-emilie-du-chatelet/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sony’s new  camera tech promises wider dynamic range, reduced noise](https://www.androidauthority.com/sony-stacked-camera-sensor-smartphones-3076490/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
