@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Paytm closed at ~$17, a record low, after dropping 16%+ this week, including 8% on Wednesday as a post-IPO lockup expired; Paytm is down 39% from its IPO price &lpar;Nupur Acharya/Bloomberg&rpar;](http://www.techmeme.com/211217/p5#a211217p5)
- - [Palantir plans to shift UK data processing from the US to the UK, hire 250 UK-based employees, and open an England office in 2022 &lpar;Madhumita Murgia/Financial Times&rpar;](http://www.techmeme.com/211217/p4#a211217p4)
- - [The 7 Best Cookbooks of 2021](https://www.wired.com/gallery/best-cookbooks-of-2021)<!-- TECH:END -->
+ - [Best Apple Watch apps, iOS 15.2 features, and leaked Apple monitors on the AppleInsider Podcast](https://appleinsider.com/articles/21/12/17/best-apple-watch-apps-ios-152-features-and-leaked-apple-monitors-on-the-appleinsider-podcast?utm_medium=rss)
+ - [Here&#39;s our first test of Verizon&#39;s faster, wider-reaching 5G network     - CNET](https://www.cnet.com/tech/mobile/heres-our-first-test-of-verizons-faster-wider-reaching-5g-network/#ftag=CAD590a51e)
+ - [The Velocity Invitational wants to be America&#39;s Goodwood Revival     - Roadshow](https://www.cnet.com/roadshow/news/2021-velocity-invitational-classic-cars-vintage-racing-laguna-seca/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
