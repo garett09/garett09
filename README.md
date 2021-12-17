@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Imagine being white](http://9gag.com/gag/aAGwXbR)
- - 🚯 [Giant magnifying lens demonstration.](http://9gag.com/gag/a11dV9b)
- - 🚯 [The true action hero of all time!](http://9gag.com/gag/a81p2z6)<!-- MEMES:END -->
+ - 🚖 [The true action hero of all time!](http://9gag.com/gag/a81p2z6)
+ - 🚯 [Go full caveman, can save your life.](http://9gag.com/gag/aYrKqjq)
+ - 🚯 [Shittiest design award goes to...](http://9gag.com/gag/aPZMQRV)<!-- MEMES:END -->
 
 --- 
 
