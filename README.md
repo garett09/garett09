@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Friyaaaayeeeeeey !!!](http://9gag.com/gag/abg6dOp)
- - 🚯 [Great investiment](http://9gag.com/gag/a11dxEb)
- - 🚯 [Everything under control](http://9gag.com/gag/axBg4L1)<!-- MEMES:END -->
+ - 🚖 [Great investiment](http://9gag.com/gag/a11dxEb)
+ - 🚯 [Unlimited joy&amp;hellip;](http://9gag.com/gag/aNPd213)
+ - 🚯 [The exorcism of Duglas](http://9gag.com/gag/abg6EVp)<!-- MEMES:END -->
 
 --- 
 
