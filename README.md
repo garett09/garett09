@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Sled Into Rocket League’s Frosty Fest Today](https://news.xbox.com/en-us/2021/12/16/sled-into-rocket-leagues-frosty-fest-today/)
- - [GTA Online’s New Update Finally Confirms What Happened To Michael After GTA V](https://kotaku.com/gta-online-s-new-update-finally-confirms-what-happened-1848230375)
- - [The Best Toys Of 2021](https://kotaku.com/the-best-toys-of-2021-1848230030)<!-- GAME:END -->
+ - [CD Projekt Settles Cyberpunk 2077 Lawsuit, Will Pay $1.85 Million](https://kotaku.com/cd-projekt-settles-cyberpunk-2077-lawsuit-will-pay-1-1848230221)
+ - [The Steam Deck is still &#39;on track&#39; for February launch, Valve says](https://www.pcgamer.com/the-steam-deck-is-still-on-track-for-february-launch-valve-says)
+ - [Stalker 2 developer cancels NFT plans following backlash](https://www.pcgamer.com/stalker-2-nft-cancelled)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
