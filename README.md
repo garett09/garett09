@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [LG unveils new 27-inch OLED Pro display that could rival Pro Display XDR](https://appleinsider.com/articles/21/12/17/lg-unveils-new-27-inch-oled-pro-display-that-could-rival-pro-display-xdr?utm_medium=rss)
- - [TikTok says it is removing &quot;alarmist warnings&quot; about a supposed day of school violence that prompted some US districts to cancel classes on Friday &lpar;Kim Lyons/The Verge&rpar;](http://www.techmeme.com/211217/p13#a211217p13)
- - [6 new streaming movies and shows this weekend: The Witcher Season 2 and more](https://www.androidauthority.com/best-new-movies-shows-to-stream-the-witcher-season-2-3076838/)<!-- TECH:END -->
+ - [Chipotle hides the assembly line, testing new online-order-only ‘Digital Kitchen’](https://www.theverge.com/2021/12/17/22840498/chipotle-digital-kitchen-app-delivery-only-ohio)
+ - [How Amazon grew its business in China, including partnering with a government propaganda arm for a books section on Amazon US, AWS-related concessions, and more &lpar;Reuters&rpar;](http://www.techmeme.com/211217/p14#a211217p14)
+ - [Best Apple gifts you can get before Christmas &lpar;while saving up to $300&rpar;](https://appleinsider.com/articles/21/12/17/best-apple-gifts-you-can-get-before-christmas-while-saving-up-to-300?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
