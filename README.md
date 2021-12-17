@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The Worst Games Of 2021 According To Metacritic](https://kotaku.com/the-worst-games-of-2021-according-to-metacritic-1848234861)
- - [How to get every Witcher 3 ending](https://www.pcgamer.com/all-witcher-3-endings-ciri-blood-and-wine-how-many)
- - [GTA 6: What we know about Rockstar&#39;s next crime adventure](https://www.pcgamer.com/gta-6-all-the-rumours-in-one-place)<!-- GAME:END -->
+ - [Halo Infinite’s Big Team Battle matchmaking causing errors, fix coming in January](https://www.polygon.com/22841644/halo-infinite-big-team-battle-playlist-update-matchmaking)
+ - [The best gaming headsets 2021](https://www.polygon.com/22462939/best-gaming-headset-ps5-pc-xbox-switch-budget-mic-glasses-big-small)
+ - [Beadle &amp; Grimm’s announces a new high-end line of accessories for Magic: The Gathering](https://www.polygon.com/22841519/beadle-grimms-magic-kamigawa-neon-dynasty-platinum-silver-edition-release-date-price)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
