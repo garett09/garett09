@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Perfectly balanced](http://9gag.com/gag/aGz07A7)
- - 🚯 [No more NFTs in S.T.A.L.K.E.R. 2 after community backlash.](http://9gag.com/gag/awz5e41)
- - 🚯 [Wait!](http://9gag.com/gag/axBgm92)<!-- MEMES:END -->
+ - 🚖 [This &amp;#039;device&amp;#039; that was created aiming to develop leg muscles](http://9gag.com/gag/aGz0bD7)
+ - 🚯 [Another week, another company-wide email.](http://9gag.com/gag/a317Nb8)
+ - 🚯 [Playing this level in Medal of Honour: Allied Assault back when I was 13... This was the most epic shit I ever experienced](http://9gag.com/gag/aqGrDM7)<!-- MEMES:END -->
 
 --- 
 
