@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Girls, We boys are just innocent little puppies.](http://9gag.com/gag/a41ZwQQ)
+ - 🚖 [Nice catch](http://9gag.com/gag/a91WDqZ)
  - 🚯 [Playing this level in Medal of Honour: Allied Assault back when I was 13... This was the most epic shit I ever experienced](http://9gag.com/gag/aqGrDM7)
- - 🚯 [Nice catch](http://9gag.com/gag/a91WDqZ)<!-- MEMES:END -->
+ - 🚯 [Way to ruin a song](http://9gag.com/gag/adgqR02)<!-- MEMES:END -->
 
 --- 
 
