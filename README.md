@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Playing this level in Medal of Honour: Allied Assault back when I was 13... This was the most epic shit I ever experienced](http://9gag.com/gag/aqGrDM7)
- - 🚯 [Time will tell](http://9gag.com/gag/ajgqyRp)
- - 🚯 [Sir Lewis](http://9gag.com/gag/aZrBdL9)<!-- MEMES:END -->
+ - 🚖 [Great investiment](http://9gag.com/gag/a11dxEb)
+ - 🚯 [That&amp;#039;s how PSP commercial looked 15 years ago](http://9gag.com/gag/arnOzW7)
+ - 🚯 [How to get weed on a plane](http://9gag.com/gag/axBgAN2)<!-- MEMES:END -->
 
 --- 
 
