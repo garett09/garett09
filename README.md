@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Galaxy S22 rumors: Everything we expect from Samsung&#39;s new flagship     - CNET](https://www.cnet.com/tech/mobile/samsung-galaxy-s22-rumors/#ftag=CAD590a51e)
- - [Garmin Venu 2 Plus renders leak: How do you improve on a great watch?](https://www.androidauthority.com/garmin-venu-2-plus-3077076/)
- - [TikTok launches a Discord server with five moderators, as brands use the messaging tool to forge a sense of community, including Wendy&#39;s with 60K+ Discord users &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/211217/p1#a211217p1)<!-- TECH:END -->
+ - [Microsoft is pushing the Control Panel aside in its latest Windows 11 updates](https://www.theverge.com/2021/12/17/22841028/microsoft-windows-11-control-panel-changes)
+ - [Mediatek benchmarks show Dimensity 9000 rivals Snapdragon 8 Gen 1](https://www.androidauthority.com/mediatek-dimensity-9000-benchmarks-3077109/)
+ - [A look at Germany&#39;s &quot;Silicon Saxony&quot;, which accounts for one in three chips made in Europe, as the EU aims to double its global chip market share to 20% by 2030 &lpar;Joe Miller/Financial Times&rpar;](http://www.techmeme.com/211217/p2#a211217p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
