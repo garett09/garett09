@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Another week, another company-wide email.](http://9gag.com/gag/a317Nb8)
- - 🚯 [Ice cream man funeral](http://9gag.com/gag/a61MG68)
- - 🚯 [New times...](http://9gag.com/gag/amgrR8o)<!-- MEMES:END -->
+ - 🚖 [Girls, We boys are just innocent little puppies.](http://9gag.com/gag/a41ZwQQ)
+ - 🚯 [Playing this level in Medal of Honour: Allied Assault back when I was 13... This was the most epic shit I ever experienced](http://9gag.com/gag/aqGrDM7)
+ - 🚯 [Nice catch](http://9gag.com/gag/a91WDqZ)<!-- MEMES:END -->
 
 --- 
 
