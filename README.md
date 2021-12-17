@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [TikTok launches a Discord server with five moderators, as brands use the messaging tool to forge a sense of community, including Wendy&#39;s with 60K+ Discord users &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/211217/p1#a211217p1)
  - [Sony’s new  camera tech promises wider dynamic range, reduced noise](https://www.androidauthority.com/sony-stacked-camera-sensor-smartphones-3076490/)
- - [Google Doodle honors French mathematician Émilie du Châtelet     - CNET](https://www.cnet.com/news/google-doodle-honors-french-mathematician-emilie-du-chatelet/#ftag=CAD590a51e)
- - [Apple hosts premiere of &#39;The Tragedy of Macbeth&#39; in Los Angeles](https://appleinsider.com/articles/21/12/17/apple-hosts-premiere-of-the-tragedy-of-macbeth-in-los-angeles?utm_medium=rss)<!-- TECH:END -->
+ - [Google Doodle honors French mathematician Émilie du Châtelet     - CNET](https://www.cnet.com/news/google-doodle-honors-french-mathematician-emilie-du-chatelet/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
