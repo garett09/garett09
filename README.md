@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [It is almost over thanks God](http://9gag.com/gag/aDDjOBN)
- - 🚯 [For some people, life ends at 25, but for some, it is just the beginning](http://9gag.com/gag/a61MpP2)
- - 🚯 [Sometimes I feel like I&amp;#039;m taking crazy pills.](http://9gag.com/gag/a21dL69)<!-- MEMES:END -->
+ - 🚖 [New times...](http://9gag.com/gag/amgrR8o)
+ - 🚯 [What is today?](http://9gag.com/gag/angyrnL)
+ - 🚯 [I am Surprised this is not from a Indian movie !](http://9gag.com/gag/aOQdRRv)<!-- MEMES:END -->
 
 --- 
 
