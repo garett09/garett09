@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft is pushing the Control Panel aside in its latest Windows 11 updates](https://www.theverge.com/2021/12/17/22841028/microsoft-windows-11-control-panel-changes)
- - [Mediatek benchmarks show Dimensity 9000 rivals Snapdragon 8 Gen 1](https://www.androidauthority.com/mediatek-dimensity-9000-benchmarks-3077109/)
- - [A look at Germany&#39;s &quot;Silicon Saxony&quot;, which accounts for one in three chips made in Europe, as the EU aims to double its global chip market share to 20% by 2030 &lpar;Joe Miller/Financial Times&rpar;](http://www.techmeme.com/211217/p2#a211217p2)<!-- TECH:END -->
+ - [Paytm closed at ~$17, a record low, after dropping 16%+ this week, including 8% on Wednesday as a post-IPO lockup expired; Paytm is down 39% from its IPO price &lpar;Nupur Acharya/Bloomberg&rpar;](http://www.techmeme.com/211217/p5#a211217p5)
+ - [Palantir plans to shift UK data processing from the US to the UK, hire 250 UK-based employees, and open an England office in 2022 &lpar;Madhumita Murgia/Financial Times&rpar;](http://www.techmeme.com/211217/p4#a211217p4)
+ - [The 7 Best Cookbooks of 2021](https://www.wired.com/gallery/best-cookbooks-of-2021)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
