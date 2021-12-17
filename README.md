@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon driver was warned she’d be fired for returning with packages during a tornado](https://www.theverge.com/2021/12/17/22841667/amazon-delivery-driver-illinois-tornado-warehouse-destruction)
- - [Sources: Google delayed the US launch of News Showcase, live in 14 countries, to at least Q1 2022 as pubs find the offers underwhelming and doubt its efficacy &lpar;William Turvill/Press Gazette&rpar;](http://www.techmeme.com/211217/p17#a211217p17)
- - [Your must-read guide to Spider-Man&#39;s villains before No Way Home     - CNET](https://www.cnet.com/news/your-must-read-guide-to-marvel-spider-mans-villains-before-no-way-home/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Roku update that broke AirPlay, HomeKit has yet to be fixed weeks later](https://appleinsider.com/articles/21/12/17/roku-update-that-broke-airplay-homekit-has-yet-to-be-fixed-weeks-later?utm_medium=rss)
+ - [Deals: High-end MacBook Air $1,249; Apple Pencil $79; $100 off AirPods Max, Mac mini; up to $350 off 13-inch MacBook Pro](https://appleinsider.com/articles/21/12/16/deals-high-end-macbook-air-1249-apple-pencil-79-100-off-airpods-max-mac-mini-up-to-350-off-13-inch-macbook-pro?utm_medium=rss)
+ - [Best VPN service for Amazon Fire TV Stick in 2022     - CNET](https://www.cnet.com/tech/services-and-software/best-vpn-for-firestick/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
