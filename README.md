@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Zing](http://9gag.com/gag/aYrKADm)
- - 🚯 [B*tthurt? Apply some Nivea!](http://9gag.com/gag/aZrBz2X)
- - 🚯 [Play of the Day](http://9gag.com/gag/aDDjOLO)<!-- MEMES:END -->
+ - 🚖 [It is almost over thanks God](http://9gag.com/gag/aDDjOBN)
+ - 🚯 [For some people, life ends at 25, but for some, it is just the beginning](http://9gag.com/gag/a61MpP2)
+ - 🚯 [Sometimes I feel like I&amp;#039;m taking crazy pills.](http://9gag.com/gag/a21dL69)<!-- MEMES:END -->
 
 --- 
 
