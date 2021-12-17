@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple hosts premiere of &#39;The Tragedy of Macbeth&#39; in Los Angeles](https://appleinsider.com/articles/21/12/17/apple-hosts-premiere-of-the-tragedy-of-macbeth-in-los-angeles?utm_medium=rss)
- - [Pakistan-based CreditBook, a bookkeeping app for small merchants, raises an $11M pre-Series A led by Tiger Global, the firm&#39;s first investment in the country &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/211216/p53#a211216p53)
- - [LG refreshes its pricey Pro OLED monitors for 2022 and adds a 27-inch option](https://www.theverge.com/2021/12/16/22840813/lg-ultrafine-oled-pro-monitor-2022-ces)<!-- TECH:END -->
+ - [Sony’s new  camera tech promises wider dynamic range, reduced noise](https://www.androidauthority.com/sony-stacked-camera-sensor-smartphones-3076490/)
+ - [Google Doodle honors French mathematician Émilie du Châtelet     - CNET](https://www.cnet.com/news/google-doodle-honors-french-mathematician-emilie-du-chatelet/#ftag=CAD590a51e)
+ - [Apple hosts premiere of &#39;The Tragedy of Macbeth&#39; in Los Angeles](https://appleinsider.com/articles/21/12/17/apple-hosts-premiere-of-the-tragedy-of-macbeth-in-los-angeles?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
