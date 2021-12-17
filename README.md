@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chipotle hides the assembly line, testing new online-order-only ‘Digital Kitchen’](https://www.theverge.com/2021/12/17/22840498/chipotle-digital-kitchen-app-delivery-only-ohio)
- - [How Amazon grew its business in China, including partnering with a government propaganda arm for a books section on Amazon US, AWS-related concessions, and more &lpar;Reuters&rpar;](http://www.techmeme.com/211217/p14#a211217p14)
- - [Best Apple gifts you can get before Christmas &lpar;while saving up to $300&rpar;](https://appleinsider.com/articles/21/12/17/best-apple-gifts-you-can-get-before-christmas-while-saving-up-to-300?utm_medium=rss)<!-- TECH:END -->
+ - [GSC Game World decides to &quot;cancel anything NFT-related&quot; in its game Stalker 2 after fans criticize its plans for in-game NFTs in partnership with DMarket &lpar;Luke Plunkett/Kotaku&rpar;](http://www.techmeme.com/211217/p16#a211217p16)
+ - [TikTok partners with Virtual Dining Concepts to launch TikTok Kitchen, a food delivery service based on viral trends, starting with 300 US locations in March &lpar;Kate Krader/Bloomberg&rpar;](http://www.techmeme.com/211217/p15#a211217p15)
+ - [Chipotle hides the assembly line, testing new online-order-only ‘Digital Kitchen’](https://www.theverge.com/2021/12/17/22840498/chipotle-digital-kitchen-app-delivery-only-ohio)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
