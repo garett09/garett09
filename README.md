@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Valve is updating Half-Life, CS:GO, and more of its games to play better on the Steam Deck](https://www.pcgamer.com/valve-is-updating-half-life-csgo-and-more-of-its-games-to-play-better-on-the-steam-deck)
- - [CD Projekt Settles Cyberpunk 2077 Lawsuit, Will Pay $1.85 Million](https://kotaku.com/cd-projekt-settles-cyberpunk-2077-lawsuit-will-pay-1-1848230221)
- - [The Steam Deck is still &#39;on track&#39; for February launch, Valve says](https://www.pcgamer.com/the-steam-deck-is-still-on-track-for-february-launch-valve-says)<!-- GAME:END -->
+ - [The best Australian PC gaming deals this week](https://www.pcgamer.com/best-australian-pc-gaming-deals)
+ - [The Witcher comics ranked from worst to best](https://www.pcgamer.com/the-witcher-comics-ranked-from-worst-to-best)
+ - [Valve is updating Half-Life, CS:GO, and more of its games to play better on the Steam Deck](https://www.pcgamer.com/valve-is-updating-half-life-csgo-and-more-of-its-games-to-play-better-on-the-steam-deck)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
