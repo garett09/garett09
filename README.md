@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [FTC opens antitrust probe into Meta’s purchase of VR fitness app Supernatural](https://www.theverge.com/2021/12/16/22840635/ftc-opens-antitrust-probe-meta-deal-vr-fitness-app-supernatural)
- - [GM&#39;s Cruise says CEO Dan Ammann is leaving the company &quot;to pursue other opportunities&quot;, and Cruise co-founder and CTO Kyle Vogt will take over as interim CEO &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/211216/p50#a211216p50)
- - [Sources say the FTC has opened an in-depth probe into Meta&#39;s acquisition of Within, the company behind VR fitness game Supernatural &lpar;Josh Sisco/The Information&rpar;](http://www.techmeme.com/211216/p49#a211216p49)<!-- TECH:END -->
+ - [Jake Paul vs. Tyron Woodley: Start time, how to watch or stream, new $500,000 belt     - CNET](https://www.cnet.com/news/jake-paul-vs-tyron-woodley-start-time-how-to-watch-or-stream-new-500000-belt/#ftag=CAD590a51e)
+ - [The absolute best Christmas movie that most people haven&#39;t seen     - CNET](https://www.cnet.com/news/the-absolute-best-christmas-movie-that-most-people-havent-seen-family-stone/#ftag=CAD590a51e)
+ - [The Star Wars Christmas content you should be watching immediately     - CNET](https://www.cnet.com/news/the-star-wars-christmas-content-you-should-be-watching-immediately/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
