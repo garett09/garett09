@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Clockwork Aquario brings a long-lost arcade game back to life](https://www.theverge.com/2021/12/17/22841146/clockwork-aquario-arcade-game-nintendo-switch-ps4)
- - [Dedrone, which lets airports, stadiums, correctional facilities, and others detect and track drones, raises a $30.5M Series C led by Axon &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/211217/p12#a211217p12)
- - [H&amp;R Block is suing Block, formerly Square, over its new name](https://www.theverge.com/2021/12/17/22841182/square-block-hr-block-trademark-lawsuit-jack-dorsey)<!-- TECH:END -->
+ - [LG unveils new 27-inch OLED Pro display that could rival Pro Display XDR](https://appleinsider.com/articles/21/12/17/lg-unveils-new-27-inch-oled-pro-display-that-could-rival-pro-display-xdr?utm_medium=rss)
+ - [TikTok says it is removing &quot;alarmist warnings&quot; about a supposed day of school violence that prompted some US districts to cancel classes on Friday &lpar;Kim Lyons/The Verge&rpar;](http://www.techmeme.com/211217/p13#a211217p13)
+ - [6 new streaming movies and shows this weekend: The Witcher Season 2 and more](https://www.androidauthority.com/best-new-movies-shows-to-stream-the-witcher-season-2-3076838/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
