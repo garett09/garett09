@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Read the S.T.A.L.K.E.R. 2 developer’s deleted explanation for why you’re getting NFTs](https://www.theverge.com/2021/12/16/22840383/stalker-2-developer-explain-nfts-gsc-game-world-deleted-tweet)
- - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
- - [Tested: MagSafe charging speed versus Qi, USB-C, and USB-A](https://appleinsider.com/articles/21/12/16/tested-magsafe-charging-speed-versus-qi-usb-c-and-usb-a?utm_medium=rss)<!-- TECH:END -->
+ - [Sources say the FTC has opened an in-depth probe into Meta&#39;s acquisition of Within, the company behind VR fitness game Supernatural &lpar;Josh Sisco/The Information&rpar;](http://www.techmeme.com/211216/p49#a211216p49)
+ - [Sources: Oracle is in talks to acquire electronic medical records company Cerner, in a deal that could be worth ~$30B &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/211216/p48#a211216p48)
+ - [Cerebral, an app-based mental health service provider that recently raised $300M at a $4.8B valuation, has made some staff health insurance contingent on quotas &lpar;Katie Jennings/Forbes&rpar;](http://www.techmeme.com/211216/p47#a211216p47)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
