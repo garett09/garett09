@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Daredevil’s wild history of representing Spider-Man and other Marvel heroes as a lawyer](https://www.polygon.com/22840234/daredevil-marvel-lawyer-spider-man)
- - [Official PlayStation Podcast Episode 418: Holiday Cheers and Game of the Years](https://blog.playstation.com/2021/12/17/official-playstation-podcast-episode-418-holiday-cheers-and-game-of-the-years/)
- - [Official PlayStation Podcast Episode 418: Holiday Cheers and Game of the Years](https://blog.playstation.com/2021/12/17/official-playstation-podcast-episode-418-holiday-cheers-and-game-of-the-years/)<!-- GAME:END -->
+ - [Ubisoft Boss Tells Employees That NFTs Are Just The Beginning](https://kotaku.com/ubisoft-boss-tells-employees-that-nfts-are-just-the-beg-1848236987)
+ - [Let’s Talk About Those Spider-Man: No Way Home Post-Credits Scenes](https://kotaku.com/let-s-talk-about-those-spider-man-no-way-home-post-cre-1848236860)
+ - [Aggretsuko season 4 should inspire everyone to unionize their workplace](https://www.polygon.com/22841879/aggretsuko-season-4-review-labor-unions)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
