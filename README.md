@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Apple Watch apps, iOS 15.2 features, and leaked Apple monitors on the AppleInsider Podcast](https://appleinsider.com/articles/21/12/17/best-apple-watch-apps-ios-152-features-and-leaked-apple-monitors-on-the-appleinsider-podcast?utm_medium=rss)
- - [Here&#39;s our first test of Verizon&#39;s faster, wider-reaching 5G network     - CNET](https://www.cnet.com/tech/mobile/heres-our-first-test-of-verizons-faster-wider-reaching-5g-network/#ftag=CAD590a51e)
- - [The Velocity Invitational wants to be America&#39;s Goodwood Revival     - Roadshow](https://www.cnet.com/roadshow/news/2021-velocity-invitational-classic-cars-vintage-racing-laguna-seca/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [I Thought Tech Would Take a Pandemic Hit. I Was Wrong](https://www.wired.com/story/plaintext-technology-pandemic-consumption)
+ - [The Best iPhone 13 Cases and Accessories](https://www.wired.com/gallery/best-iphone-13-cases-and-accessories)
+ - [The Best Holiday Movie Is the One You Want to Watch](https://www.wired.com/story/best-holiday-movie)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
