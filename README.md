@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [I Thought Tech Would Take a Pandemic Hit. I Was Wrong](https://www.wired.com/story/plaintext-technology-pandemic-consumption)
- - [The Best iPhone 13 Cases and Accessories](https://www.wired.com/gallery/best-iphone-13-cases-and-accessories)
- - [The Best Holiday Movie Is the One You Want to Watch](https://www.wired.com/story/best-holiday-movie)<!-- TECH:END -->
+ - [Corellium, which makes Android and iOS virtualization software, over which it is being sued by Apple, raises a $25M Series A from Cisco Investments and others &lpar;Thomas Brewster/Forbes&rpar;](http://www.techmeme.com/211217/p9#a211217p9)
+ - [Amazon shareholders are calling for independent audit of how the company treats workers](https://www.theverge.com/2021/12/17/22832447/amazon-shareholders-independent-audit-company-worker-treatment)
+ - [Best deals Dec. 17: $800 21.5-inch iMac, $80 Apple Pencil, $20 off Nanoleaf products, more!](https://appleinsider.com/articles/21/12/17/best-deals-dec-17-800-215-inch-imac-80-apple-pencil-20-off-nanoleaf-products-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
