@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Flareman](http://9gag.com/gag/aYrKMMw)
- - 🚯 [The true action hero of all time!](http://9gag.com/gag/a81p2z6)
- - 🚯 [Rediscovered after 15 years. And it&amp;#039;s just as good as it was then. Childhood flashback](http://9gag.com/gag/angyE5n)<!-- MEMES:END -->
+ - 🚖 [Imagine being white](http://9gag.com/gag/aAGwXbR)
+ - 🚯 [Giant magnifying lens demonstration.](http://9gag.com/gag/a11dV9b)
+ - 🚯 [The true action hero of all time!](http://9gag.com/gag/a81p2z6)<!-- MEMES:END -->
 
 --- 
 
