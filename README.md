@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources say the FTC has opened an in-depth probe into Meta&#39;s acquisition of Within, the company behind VR fitness game Supernatural &lpar;Josh Sisco/The Information&rpar;](http://www.techmeme.com/211216/p49#a211216p49)
- - [Sources: Oracle is in talks to acquire electronic medical records company Cerner, in a deal that could be worth ~$30B &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/211216/p48#a211216p48)
- - [Cerebral, an app-based mental health service provider that recently raised $300M at a $4.8B valuation, has made some staff health insurance contingent on quotas &lpar;Katie Jennings/Forbes&rpar;](http://www.techmeme.com/211216/p47#a211216p47)<!-- TECH:END -->
+ - [FTC opens antitrust probe into Meta’s purchase of VR fitness app Supernatural](https://www.theverge.com/2021/12/16/22840635/ftc-opens-antitrust-probe-meta-deal-vr-fitness-app-supernatural)
+ - [GM&#39;s Cruise says CEO Dan Ammann is leaving the company &quot;to pursue other opportunities&quot;, and Cruise co-founder and CTO Kyle Vogt will take over as interim CEO &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/211216/p50#a211216p50)
+ - [Sources say the FTC has opened an in-depth probe into Meta&#39;s acquisition of Within, the company behind VR fitness game Supernatural &lpar;Josh Sisco/The Information&rpar;](http://www.techmeme.com/211216/p49#a211216p49)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
