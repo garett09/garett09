@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [MRW I see](http://9gag.com/gag/a3172Kr)
- - 🚯 [It&amp;rsquo;s just a fart*](http://9gag.com/gag/a91WXmW)
- - 🚯 [Imagine being white](http://9gag.com/gag/aAGwXbR)<!-- MEMES:END -->
+ - 🚖 [The perfect way of getting rid of wasps](http://9gag.com/gag/aYrK1pN)
+ - 🚯 [Imagine being white](http://9gag.com/gag/aAGwXbR)
+ - 🚯 [It&amp;rsquo;s just a fart*](http://9gag.com/gag/a91WXmW)<!-- MEMES:END -->
 
 --- 
 
