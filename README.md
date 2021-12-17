@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The true action hero of all time!](http://9gag.com/gag/a81p2z6)
- - 🚯 [Go full caveman, can save your life.](http://9gag.com/gag/aYrKqjq)
- - 🚯 [Shittiest design award goes to...](http://9gag.com/gag/aPZMQRV)<!-- MEMES:END -->
+ - 🚖 [Shittiest design award goes to...](http://9gag.com/gag/aPZMQRV)
+ - 🚯 [It&amp;rsquo;s just a fart*](http://9gag.com/gag/a91WXmW)
+ - 🚯 [MRW I see](http://9gag.com/gag/a3172Kr)<!-- MEMES:END -->
 
 --- 
 
