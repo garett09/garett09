@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Great investiment](http://9gag.com/gag/a11dxEb)
- - 🚯 [That&amp;#039;s how PSP commercial looked 15 years ago](http://9gag.com/gag/arnOzW7)
- - 🚯 [How to get weed on a plane](http://9gag.com/gag/axBgAN2)<!-- MEMES:END -->
+ - 🚖 [Friyaaaayeeeeeey !!!](http://9gag.com/gag/abg6dOp)
+ - 🚯 [Great investiment](http://9gag.com/gag/a11dxEb)
+ - 🚯 [Everything under control](http://9gag.com/gag/axBg4L1)<!-- MEMES:END -->
 
 --- 
 
