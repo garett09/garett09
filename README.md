@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Play of the Day](http://9gag.com/gag/aDDjOLO)
- - 🚯 [Wait!](http://9gag.com/gag/axBgm92)
- - 🚯 [Their demons.](http://9gag.com/gag/axBgY6n)<!-- MEMES:END -->
+ - 🚖 [Perfectly balanced](http://9gag.com/gag/aGz07A7)
+ - 🚯 [No more NFTs in S.T.A.L.K.E.R. 2 after community backlash.](http://9gag.com/gag/awz5e41)
+ - 🚯 [Wait!](http://9gag.com/gag/axBgm92)<!-- MEMES:END -->
 
 --- 
 
