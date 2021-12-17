@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [BTS Just Performed &#39;Butter&#39; And &#39;Permission to Dance&#39; In Minecraft](https://kotaku.com/bts-just-performed-butter-and-permission-to-dance-in-mi-1848232546)
- - [The Witcher season 2, episode 6 recap: The Temple of Melitele](https://www.pcgamer.com/the-witcher-season-2-episode-6-recap)
- - [The Witcher season 2, episode 5: The Child of Destiny](https://www.pcgamer.com/the-witcher-season-2-episode-5-recap)<!-- GAME:END -->
+ - [Dead Cells&#39; next DLC adds a Metroid Dread-style biome and throwable shark](https://www.pcgamer.com/dead-cells-next-dlc-adds-a-metroid-dread-style-biome-and-throwable-shark)
+ - [How long to set the timer in Final Fantasy 7 Remake](https://www.pcgamer.com/final-fantasy-7-remake-timer-20-or-30-bomb)
+ - [The Japanese Internet Reacts To Square Enix&#39;s Stopping FFXIV Sales](https://kotaku.com/the-japanese-internet-reacts-to-square-enixs-stopping-f-1848232590)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
