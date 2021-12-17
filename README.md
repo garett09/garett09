@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [GSC Game World decides to &quot;cancel anything NFT-related&quot; in its game Stalker 2 after fans criticize its plans for in-game NFTs in partnership with DMarket &lpar;Luke Plunkett/Kotaku&rpar;](http://www.techmeme.com/211217/p16#a211217p16)
- - [TikTok partners with Virtual Dining Concepts to launch TikTok Kitchen, a food delivery service based on viral trends, starting with 300 US locations in March &lpar;Kate Krader/Bloomberg&rpar;](http://www.techmeme.com/211217/p15#a211217p15)
- - [Chipotle hides the assembly line, testing new online-order-only ‘Digital Kitchen’](https://www.theverge.com/2021/12/17/22840498/chipotle-digital-kitchen-app-delivery-only-ohio)<!-- TECH:END -->
+ - [Amazon driver was warned she’d be fired for returning with packages during a tornado](https://www.theverge.com/2021/12/17/22841667/amazon-delivery-driver-illinois-tornado-warehouse-destruction)
+ - [Sources: Google delayed the US launch of News Showcase, live in 14 countries, to at least Q1 2022 as pubs find the offers underwhelming and doubt its efficacy &lpar;William Turvill/Press Gazette&rpar;](http://www.techmeme.com/211217/p17#a211217p17)
+ - [Your must-read guide to Spider-Man&#39;s villains before No Way Home     - CNET](https://www.cnet.com/news/your-must-read-guide-to-marvel-spider-mans-villains-before-no-way-home/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
