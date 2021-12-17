@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Do U speak Canadian buddy?](http://9gag.com/gag/aBnwOKA)
- - 🚯 [It&amp;rsquo;s just a fart*](http://9gag.com/gag/a91WXmW)
- - 🚯 [When a husky smells a Durian](http://9gag.com/gag/aGz02VZ)<!-- MEMES:END -->
+ - 🚖 [Addiction in a nutshell.](http://9gag.com/gag/a71ZNDm)
+ - 🚯 [Zing](http://9gag.com/gag/aYrKADm)
+ - 🚯 [What happened to the curve?](http://9gag.com/gag/a11dLVG)<!-- MEMES:END -->
 
 --- 
 
