@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Addiction in a nutshell.](http://9gag.com/gag/a71ZNDm)
- - 🚯 [Zing](http://9gag.com/gag/aYrKADm)
- - 🚯 [What happened to the curve?](http://9gag.com/gag/a11dLVG)<!-- MEMES:END -->
+ - 🚖 [Zing](http://9gag.com/gag/aYrKADm)
+ - 🚯 [B*tthurt? Apply some Nivea!](http://9gag.com/gag/aZrBz2X)
+ - 🚯 [Play of the Day](http://9gag.com/gag/aDDjOLO)<!-- MEMES:END -->
 
 --- 
 
