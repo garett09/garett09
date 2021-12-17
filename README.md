@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Corellium, which makes Android and iOS virtualization software, over which it is being sued by Apple, raises a $25M Series A from Cisco Investments and others &lpar;Thomas Brewster/Forbes&rpar;](http://www.techmeme.com/211217/p9#a211217p9)
- - [Amazon shareholders are calling for independent audit of how the company treats workers](https://www.theverge.com/2021/12/17/22832447/amazon-shareholders-independent-audit-company-worker-treatment)
- - [Best deals Dec. 17: $800 21.5-inch iMac, $80 Apple Pencil, $20 off Nanoleaf products, more!](https://appleinsider.com/articles/21/12/17/best-deals-dec-17-800-215-inch-imac-80-apple-pencil-20-off-nanoleaf-products-more?utm_medium=rss)<!-- TECH:END -->
+ - [Sources: California&#39;s civil rights regulator is investigating Google&#39;s treatment of Black female workers following allegations of harassment and discrimination &lpar;Paresh Dave/Reuters&rpar;](http://www.techmeme.com/211217/p11#a211217p11)
+ - [Vergecast: James Webb Space Telescope’s launch next week, cool gadgets launched this week](https://www.theverge.com/2021/12/17/22841227/vergecast-podcast-479-jwst-launch-sony-glass-speaker-opal-c1)
+ - [Apple unveils &#39;Wild Things: Siegfried &amp; Roy&#39; podcast for Apple TV+](https://appleinsider.com/articles/21/12/17/apple-unveils-wild-things-siegfried-roy-podcast-for-apple-tv?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
