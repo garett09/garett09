@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Dead Cells&#39; next DLC adds a Metroid Dread-style biome and throwable shark](https://www.pcgamer.com/dead-cells-next-dlc-adds-a-metroid-dread-style-biome-and-throwable-shark)
- - [How long to set the timer in Final Fantasy 7 Remake](https://www.pcgamer.com/final-fantasy-7-remake-timer-20-or-30-bomb)
- - [The Japanese Internet Reacts To Square Enix&#39;s Stopping FFXIV Sales](https://kotaku.com/the-japanese-internet-reacts-to-square-enixs-stopping-f-1848232590)<!-- GAME:END -->
+ - [Xbox Collaborates with Riddell to Create Commemorative SpeedFlex Helmet Inspired by Master Chief](https://news.xbox.com/en-us/2021/12/17/riddell-speedflex-helmet-inspired-by-master-chief/)
+ - [12 Games Killed In 2021 That Prove Preservation Is Vital](https://kotaku.com/12-games-killed-in-2021-that-prove-preservation-is-vita-1848230336)
+ - [Halo Infinite skull locations guide](https://www.pcgamer.com/halo-infinite-skull-locations-guide)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
