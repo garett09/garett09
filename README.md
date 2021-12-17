@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Share of the Week – The Matrix Awakens: An Unreal Engine 5 Experience](https://blog.playstation.com/2021/12/17/share-of-the-week-the-matrix-awakens-an-unreal-engine-5-experience/)
- - [Share of the Week – The Matrix Awakens: An Unreal Engine 5 Experience](https://blog.playstation.com/2021/12/17/share-of-the-week-the-matrix-awakens-an-unreal-engine-5-experience/)
- - [Aspire: Ina’s Tale – A Beautiful Yet Delicately Twisted 2D Adventure – is Available Now](https://news.xbox.com/en-us/2021/12/17/aspire-inas-tale-a-beautiful-yet-delicately-twisted-2d-adventure-is-available-now/)<!-- GAME:END -->
+ - [The Worst Games Of 2021 According To Metacritic](https://kotaku.com/the-worst-games-of-2021-according-to-metacritic-1848234861)
+ - [How to get every Witcher 3 ending](https://www.pcgamer.com/all-witcher-3-endings-ciri-blood-and-wine-how-many)
+ - [GTA 6: What we know about Rockstar&#39;s next crime adventure](https://www.pcgamer.com/gta-6-all-the-rumours-in-one-place)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
