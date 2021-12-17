@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [New times...](http://9gag.com/gag/amgrR8o)
- - 🚯 [What is today?](http://9gag.com/gag/angyrnL)
- - 🚯 [I am Surprised this is not from a Indian movie !](http://9gag.com/gag/aOQdRRv)<!-- MEMES:END -->
+ - 🚖 [In Finland, you are given a top hat and sword when you get a PhD diploma.](http://9gag.com/gag/a81pK7Q)
+ - 🚯 [Play of the Day](http://9gag.com/gag/aDDjOLO)
+ - 🚯 [Nice catch](http://9gag.com/gag/a91WDqZ)<!-- MEMES:END -->
 
 --- 
 
