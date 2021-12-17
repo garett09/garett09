@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This &amp;#039;device&amp;#039; that was created aiming to develop leg muscles](http://9gag.com/gag/aGz0bD7)
- - 🚯 [Another week, another company-wide email.](http://9gag.com/gag/a317Nb8)
- - 🚯 [Playing this level in Medal of Honour: Allied Assault back when I was 13... This was the most epic shit I ever experienced](http://9gag.com/gag/aqGrDM7)<!-- MEMES:END -->
+ - 🚖 [Another week, another company-wide email.](http://9gag.com/gag/a317Nb8)
+ - 🚯 [Ice cream man funeral](http://9gag.com/gag/a61MG68)
+ - 🚯 [New times...](http://9gag.com/gag/amgrR8o)<!-- MEMES:END -->
 
 --- 
 
