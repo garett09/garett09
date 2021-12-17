@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [The best Australian PC gaming deals this week](https://www.pcgamer.com/best-australian-pc-gaming-deals)
- - [The Witcher comics ranked from worst to best](https://www.pcgamer.com/the-witcher-comics-ranked-from-worst-to-best)
- - [Valve is updating Half-Life, CS:GO, and more of its games to play better on the Steam Deck](https://www.pcgamer.com/valve-is-updating-half-life-csgo-and-more-of-its-games-to-play-better-on-the-steam-deck)<!-- GAME:END -->
+ - [The best gaming laptops in Australia for 2021](https://www.pcgamer.com/the-best-gaming-laptops-in-australia-for-2021)
+ - [Kickstarter Announces Blockchain Future, Doubles Down After Users Say &#39;No Thank You&#39;](https://kotaku.com/kickstarter-announces-blockchain-future-doubles-down-a-1848231993)
+ - [The best Australian PC gaming deals this week](https://www.pcgamer.com/best-australian-pc-gaming-deals)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
