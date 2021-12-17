@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [LG refreshes its pricey Pro OLED monitors for 2022 and adds a 27-inch option](https://www.theverge.com/2021/12/16/22840813/lg-ultrafine-oled-pro-monitor-2022-ces)
- - [A look at the cycles of decentralization and recentralization, and why we won&#39;t understand what Web3 consists of until after the next bubble pops &lpar;Tim O&#39;Reilly/O&#39;Reilly Media&rpar;](http://www.techmeme.com/211216/p52#a211216p52)
- - [Jake Paul vs. Tyron Woodley: Start time, how to watch or stream, new $500,000 belt     - CNET](https://www.cnet.com/news/jake-paul-vs-tyron-woodley-start-time-how-to-watch-or-stream-new-500000-belt/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple hosts premiere of &#39;The Tragedy of Macbeth&#39; in Los Angeles](https://appleinsider.com/articles/21/12/17/apple-hosts-premiere-of-the-tragedy-of-macbeth-in-los-angeles?utm_medium=rss)
+ - [Pakistan-based CreditBook, a bookkeeping app for small merchants, raises an $11M pre-Series A led by Tiger Global, the VC&#39;s first investment in the country &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/211216/p53#a211216p53)
+ - [LG refreshes its pricey Pro OLED monitors for 2022 and adds a 27-inch option](https://www.theverge.com/2021/12/16/22840813/lg-ultrafine-oled-pro-monitor-2022-ces)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
