@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [The perfect way of getting rid of wasps](http://9gag.com/gag/aYrK1pN)
- - 🚯 [Imagine being white](http://9gag.com/gag/aAGwXbR)
- - 🚯 [It&amp;rsquo;s just a fart*](http://9gag.com/gag/a91WXmW)<!-- MEMES:END -->
+ - 🚖 [Do U speak Canadian buddy?](http://9gag.com/gag/aBnwOKA)
+ - 🚯 [It&amp;rsquo;s just a fart*](http://9gag.com/gag/a91WXmW)
+ - 🚯 [When a husky smells a Durian](http://9gag.com/gag/aGz02VZ)<!-- MEMES:END -->
 
 --- 
 
