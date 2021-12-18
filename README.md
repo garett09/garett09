@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Great investiment](http://9gag.com/gag/a11dxEb)
- - 🚯 [Unlimited joy&amp;hellip;](http://9gag.com/gag/aNPd213)
- - 🚯 [The exorcism of Duglas](http://9gag.com/gag/abg6EVp)<!-- MEMES:END -->
+ - 🚖 [Owl city](http://9gag.com/gag/aE8REXo)
+ - 🚯 [Everything under control](http://9gag.com/gag/axBg4L1)
+ - 🚯 [Gary Sinise is a truly great man](http://9gag.com/gag/aDDjN2N)<!-- MEMES:END -->
 
 --- 
 
