@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: China is expanding its practice of taking minority stakes in private Chinese tech companies to include firms possessing large amounts of key data &lpar;Reuters&rpar;](http://www.techmeme.com/211218/p6#a211218p6)
  - [US software executives have cashed in hundreds of millions of dollars of stock this year, as the SEC looks to tighten rules around sales by insiders &lpar;Financial Times&rpar;](http://www.techmeme.com/211218/p5#a211218p5)
- - [ByteDance launches Douyin Box, a fashion-focused shopping app in China akin to its Fanno app in Europe, betting on the Gen Z trend of buying on influencer tips &lpar;Coco Feng/South China Morning Post&rpar;](http://www.techmeme.com/211218/p4#a211218p4)
- - [India&#39;s antitrust watchdog CCI suspends Amazon&#39;s $200M investment in Future Group and fines Amazon ~$27M for concealing facts while seeking regulatory approval &lpar;Aditya Kalra/Reuters&rpar;](http://www.techmeme.com/211218/p3#a211218p3)<!-- TECH:END -->
+ - [ByteDance launches Douyin Box, a fashion-focused shopping app in China akin to its Fanno app in Europe, betting on the Gen Z trend of buying on influencer tips &lpar;Coco Feng/South China Morning Post&rpar;](http://www.techmeme.com/211218/p4#a211218p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
