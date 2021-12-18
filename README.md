@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [2021 Was Both A Great And Terrible Year For GTA Fans](https://kotaku.com/2021-was-both-a-great-and-terrible-year-for-gta-fans-1848236913)
- - [The Witcher season 2’s meta Jaskier timeline joke was for the fans and haters](https://www.polygon.com/22841820/witcher-season-2-episode-4-jaskier-joke)
- - [Why everyone hates Witchers in The Witcher](https://www.polygon.com/22840017/witcher-mutagen-kaer-morhen-explained-vesemir)<!-- GAME:END -->
+ - [10 lesser-known Christmas movies to unwrap this season](https://www.polygon.com/22836987/underrated-christmas-movies-to-watch)
+ - [Amiga A500 Mini Launches March 2022 With 25 Games](https://kotaku.com/amiga-a500-mini-launches-march-2022-with-25-games-1848240040)
+ - [2021 Was Both A Great And Terrible Year For GTA Fans](https://kotaku.com/2021-was-both-a-great-and-terrible-year-for-gta-fans-1848236913)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
