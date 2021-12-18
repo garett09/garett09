@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [WSJ’s deep dive into eating disorder rabbit holes on TikTok explains a sudden policy change](https://www.theverge.com/2021/12/18/22843606/tiktok-wsj-algorithm-change-eating-disorder)
- - [AI language models like GPT-3 can achieve up to 97% accuracy on some Winograd schemas, but understanding language doesn&#39;t equate to understanding the world &lpar;Melanie Mitchell/Quanta Magazine&rpar;](http://www.techmeme.com/211218/p8#a211218p8)
- - [Best deals Dec. 18: $65 4TB WD Red hard drive, $76 Meshforce Wi-Fi pack, more!](https://appleinsider.com/articles/21/12/18/best-deals-dec-18-65-4tb-wd-red-hard-drive-76-meshforce-wi-fi-pack-more?utm_medium=rss)<!-- TECH:END -->
+ - [You can save $10 on any game over $15 during Epic Games’ Winter Sale](https://www.theverge.com/good-deals/2021/12/18/22841966/epic-games-store-winter-sale-logitech-razer-gaming-mouse-keyboard-microsoft-surface-pro-8-deal-sale)
+ - [Best Apple gifts you can get before Christmas &lpar;while saving up to $300&rpar;](https://appleinsider.com/articles/21/12/17/best-apple-gifts-you-can-get-before-christmas-while-saving-up-to-300?utm_medium=rss)
+ - [WSJ’s deep dive into eating disorder rabbit holes on TikTok explains a sudden policy change](https://www.theverge.com/2021/12/18/22843606/tiktok-wsj-algorithm-change-eating-disorder)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
