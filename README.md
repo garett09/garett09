@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Bleach: Thousand-Year Blood War anime arriving for the fall 2022 season](https://www.polygon.com/22842985/bleach-thousand-year-blood-war-anime-release-date)
- - [The Matrix Online may have died in 2009, but there&#39;s still a ghost in the machine](https://www.pcgamer.com/the-matrix-online-may-have-died-in-2009-but-theres-still-a-ghost-in-the-machine)
- - [The Magic of Christmas: Why Darkside Loves a Good Christmas Case](https://news.xbox.com/en-us/2021/12/17/the-magic-of-christmas-why-darkside-loves-a-good-christmas-case/)<!-- GAME:END -->
+ - [PC Gamer&#39;s Game of the Year Awards 2021](https://www.pcgamer.com/pc-gamers-game-of-the-year-awards-2021)
+ - [Best Ongoing Game 2021: Apex Legends](https://www.pcgamer.com/best-ongoing-game-2021-apex-legends)
+ - [Bleach: Thousand-Year Blood War anime arriving for the fall 2022 season](https://www.polygon.com/22842985/bleach-thousand-year-blood-war-anime-release-date)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
