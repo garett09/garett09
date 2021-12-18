@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [BandLab, a Singapore-based music creation platform enabling artists to collaborate and engage with fans, raises a $53M Series B at a $303M post-money valuation &lpar;Jonathan Burgos/Forbes&rpar;](http://www.techmeme.com/211218/p1#a211218p1)
- - [LG’s new flagship soundbar shoots voices up in the air so you can hear](https://www.theverge.com/2021/12/17/22841919/lg-s95qr-soundbar-ces-2022-with-upward-firing-center-channel)
- - [Ophelia, whose telemedicine platform helps treat people struggling with opioid addiction, raises $50M led by Tiger Global at a $275M valuation &lpar;Manas Mishra/Reuters&rpar;](http://www.techmeme.com/211217/p24#a211217p24)<!-- TECH:END -->
+ - [India&#39;s antitrust watchdog CCI suspends Amazon&#39;s 2019 deal with Future Group and fines Amazon ~$27M for concealing facts while seeking regulatory approval &lpar;Aditya Kalra/Reuters&rpar;](http://www.techmeme.com/211218/p3#a211218p3)
+ - [Disney fails to reach a deal with YouTube TV, removing 17+ channels including ABC, Disney, ESPN, Freeform, and FX; YouTube TV drops its price to $49.99/month &lpar;The Streamable&rpar;](http://www.techmeme.com/211218/p2#a211218p2)
+ - [YouTube TV loses ESPN, other Disney networks after failing to reach new deal](https://www.theverge.com/2021/12/18/22836949/disney-youtube-tv-channels-deal)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
