@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [TSMC unveils N4X, a fab process it says enables 15% improved performance over N5 and tailored for high-performance computing, especially server CPUs and SoCs &lpar;Anton Shilov/AnandTech&rpar;](http://www.techmeme.com/211217/p20#a211217p20)
- - [Here are 65 last-minute gifts that will arrive in time for the holidays](https://www.theverge.com/22840189/christmas-gifts-best-last-minute-tech-gaming-gadgets-shipping)
- - [Movie theaters are breaking records thanks to Spider-Man, even as omicron spreads](https://www.theverge.com/2021/12/17/22843051/movie-theaters-spider-man-no-way-home-records-amc-regal-cinemark)<!-- TECH:END -->
+ - [JPMorgan Chase will pay $125M to the SEC and $75M to the CFTC for letting some employees use WhatsApp and other unapproved methods to conduct official business &lpar;UPI&rpar;](http://www.techmeme.com/211217/p21#a211217p21)
+ - [Adidas sold more than $22 million in NFTs, but it hit a few snags along the way](https://www.theverge.com/2021/12/17/22843104/adidas-nfts-metaverse-sold-bored-ape)
+ - [The story of Elizabeth Holmes now belongs to the jury](https://www.theverge.com/2021/12/17/22843225/elizabeth-holmes-theranos-trial-jury-deliberations)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
