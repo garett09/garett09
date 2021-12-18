@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Thats why they say the aliens did it.](http://9gag.com/gag/aQXMDVw)
- - 🚯 [No, i don&amp;#039;t have more pixels. And this is the truth..](http://9gag.com/gag/a91W4p1)
+ - 🚖 [Nothing better than morning sex, unless you&amp;rsquo;re in prison..](http://9gag.com/gag/arnOD86)
+ - 🚯 [So you choose death](http://9gag.com/gag/angy09n)
  - 🚯 [Hunter of the year](http://9gag.com/gag/aog2Gqm)<!-- MEMES:END -->
 
 --- 
