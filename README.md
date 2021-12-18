@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kokoon NightBuds review: Sleep-tracking headphones built for side-sleepers](https://appleinsider.com/articles/21/12/18/kokoon-nightbuds-review-sleep-tracking-headphones-built-for-side-sleepers?utm_medium=rss)
- - [Investigation: a dozen automated TikTok accounts, registered as 13-year-olds, were shown tens of thousands of weight-loss videos within a few weeks of joining &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/211218/p9#a211218p9)
- - [Get two glasses for the price of one with this epic deal from Liingo Eyewear     - CNET](https://www.cnet.com/health/personal-care/get-two-glasses-for-the-price-of-one-with-this-epic-deal-from-liingo-eyewear/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [1883: When and how to watch the Yellowstone spinoff](https://www.androidauthority.com/1883-yellowstone-spinoff-3076930/)
+ - [Amazon’s Appstore update is supposed to fix issues with Android 12](https://www.theverge.com/2021/12/18/22843977/amazon-appstore-android-12)
+ - [Kokoon NightBuds review: Sleep-tracking headphones built for side-sleepers](https://appleinsider.com/articles/21/12/18/kokoon-nightbuds-review-sleep-tracking-headphones-built-for-side-sleepers?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
