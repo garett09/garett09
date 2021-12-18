@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [You can save $10 on any game over $15 during Epic Games’ Winter Sale](https://www.theverge.com/good-deals/2021/12/18/22841966/epic-games-store-winter-sale-logitech-razer-gaming-mouse-keyboard-microsoft-surface-pro-8-deal-sale)
- - [Best Apple gifts you can get before Christmas &lpar;while saving up to $300&rpar;](https://appleinsider.com/articles/21/12/17/best-apple-gifts-you-can-get-before-christmas-while-saving-up-to-300?utm_medium=rss)
- - [WSJ’s deep dive into eating disorder rabbit holes on TikTok explains a sudden policy change](https://www.theverge.com/2021/12/18/22843606/tiktok-wsj-algorithm-change-eating-disorder)<!-- TECH:END -->
+ - [GM starts delivering electric Hummer pickup trucks to customers](https://www.theverge.com/2021/12/18/22843805/gm-ev-hummer-pickup-truck-delivery)
+ - [Giving a tablet to my toddler was both genius and a disaster](https://www.androidauthority.com/ipad-toddler-3073530/)
+ - [Final day: High-end MacBook Air $1,249; Apple Pencil $79; $100 off AirPods Max, Mac mini; up to $350 off 13-inch MacBook Pro](https://appleinsider.com/articles/21/12/16/deals-high-end-macbook-air-1249-apple-pencil-79-100-off-airpods-max-mac-mini-up-to-350-off-13-inch-macbook-pro?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
