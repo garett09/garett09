@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The Witcher season 2’s meta Jaskier timeline joke was for the fans and haters](https://www.polygon.com/22841820/witcher-season-2-episode-4-jaskier-joke)
  - [Why everyone hates Witchers in The Witcher](https://www.polygon.com/22840017/witcher-mutagen-kaer-morhen-explained-vesemir)
- - [A spoilery look at how Spider-Man: No Way Home asks what it means to be Peter Parker](https://www.polygon.com/22840068/spider-man-no-way-home-spoilers-review)
- - [A Couple Of Hours With The First Big Five Nights At Freddy&#39;s Since Scott Cawthon&#39;s Retirement](https://kotaku.com/a-couple-of-hours-with-the-first-big-five-nights-at-fre-1848237180)<!-- GAME:END -->
+ - [A spoilery look at how Spider-Man: No Way Home asks what it means to be Peter Parker](https://www.polygon.com/22840068/spider-man-no-way-home-spoilers-review)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
