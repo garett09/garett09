@@ -194,7 +194,7 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Omg, those times :&amp;#039;&rpar;](http://9gag.com/gag/abg6mV8)
- - 🚯 [Don&amp;#039;t do that. Don&amp;#039;t give me hope.](http://9gag.com/gag/aPZMnLP)
+ - 🚯 [Sir Lewis](http://9gag.com/gag/aZrBdL9)
  - 🚯 [Gary Sinise is a truly great man](http://9gag.com/gag/aDDjN2N)<!-- MEMES:END -->
 
 --- 
