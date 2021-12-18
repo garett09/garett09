@@ -194,8 +194,8 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Gamers, assemble.](http://9gag.com/gag/a0ZdgLz)
- - 🚯 [Former Blizzard designer about its current state](http://9gag.com/gag/aGz0vRK)
- - 🚯 [It doesn&amp;rsquo;t get any better](http://9gag.com/gag/aBnwMvD)<!-- MEMES:END -->
+ - 🚯 [It doesn&amp;rsquo;t get any better](http://9gag.com/gag/aBnwMvD)
+ - 🚯 [So this is how they did it back then](http://9gag.com/gag/a11dgdD)<!-- MEMES:END -->
 
 --- 
 
