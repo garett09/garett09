@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ye’s Stem Player has soft skin and all of the lights](https://www.theverge.com/2021/12/18/22841567/kanye-west-ye-stem-player-kano-computing-music-gadget)
  - [A look at Russia&#39;s efforts to censor Western social media with fines and takedown requests, as most posts Russia wanted removed in 2021 were pro-Navalny content &lpar;BBC&rpar;](http://www.techmeme.com/211218/p7#a211218p7)
- - [Google Pixel 6 Pro vs Sony Xperia Pro-I camera shootout: Brains vs brawn](https://www.androidauthority.com/google-pixel-6-pro-vs-sony-xperia-pro-i-camera-test-3070817/)
- - [Battlefield 2042 Turns the Climate Crisis Into a Playground](https://www.wired.com/story/battlefield-2042-climate-change-playground)<!-- TECH:END -->
+ - [Google Pixel 6 Pro vs Sony Xperia Pro-I camera shootout: Brains vs brawn](https://www.androidauthority.com/google-pixel-6-pro-vs-sony-xperia-pro-i-camera-test-3070817/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
