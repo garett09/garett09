@@ -194,8 +194,8 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Old generation can relate](http://9gag.com/gag/a0ZdzNv)
- - 🚯 [Gary Sinise is a truly great man](http://9gag.com/gag/aDDjN2N)
- - 🚯 [Back to sleep.](http://9gag.com/gag/aegYPom)<!-- MEMES:END -->
+ - 🚯 [The awkwardness is so hilarious you can hear danny devito loosing his shit behind the camera.](http://9gag.com/gag/aDDjrYK)
+ - 🚯 [Unlimited joy&amp;hellip;](http://9gag.com/gag/aNPd213)<!-- MEMES:END -->
 
 --- 
 
