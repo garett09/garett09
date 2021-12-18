@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ye’s Stem Player has soft skin and all of the lights](https://www.theverge.com/2021/12/18/22841567/kanye-west-ye-stem-player-kano-computing-music-gadget)
- - [A look at Russia&#39;s efforts to censor Western social media with fines and takedown requests, as most posts Russia wanted removed in 2021 were pro-Navalny content &lpar;BBC&rpar;](http://www.techmeme.com/211218/p7#a211218p7)
- - [Google Pixel 6 Pro vs Sony Xperia Pro-I camera shootout: Brains vs brawn](https://www.androidauthority.com/google-pixel-6-pro-vs-sony-xperia-pro-i-camera-test-3070817/)<!-- TECH:END -->
+ - [Android Authority’s pick for best phone of 2021: Editor’s Choice](https://www.androidauthority.com/best-smartphone-2021-editors-choice-3077120/)
+ - [YouTube TV loses Disney networks as Google fails to make a deal](https://appleinsider.com/articles/21/12/18/youtube-tv-loses-disney-networks-as-google-fails-to-make-a-deal?utm_medium=rss)
+ - [How to manage notifications in iOS 15 and iPadOS 15](https://appleinsider.com/articles/21/11/01/how-to-manage-notifications-in-ios-15-and-ipados-15?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
