@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Continued Xbox Shortages Force Microsoft To Use Dev Kits In Latest Halo Tournament](https://kotaku.com/continued-xbox-shortages-force-microsoft-to-use-dev-kit-1848240181)
  - [10 lesser-known Christmas movies to unwrap this season](https://www.polygon.com/22836987/underrated-christmas-movies-to-watch)
- - [Amiga A500 Mini Launches March 2022 With 25 Games](https://kotaku.com/amiga-a500-mini-launches-march-2022-with-25-games-1848240040)
- - [2021 Was Both A Great And Terrible Year For GTA Fans](https://kotaku.com/2021-was-both-a-great-and-terrible-year-for-gta-fans-1848236913)<!-- GAME:END -->
+ - [Amiga A500 Mini Launches March 2022 With 25 Games](https://kotaku.com/amiga-a500-mini-launches-march-2022-with-25-games-1848240040)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
