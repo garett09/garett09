@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Unlimited joy&amp;hellip;](http://9gag.com/gag/aNPd213)
- - 🚯 [F# king legend!](http://9gag.com/gag/avAr4dn)
- - 🚯 [Life ain&amp;#039;t Netflix, and you ain&amp;#039;t the main character to get away with doing stupid shit](http://9gag.com/gag/aqGrpgY)<!-- MEMES:END -->
+ - 🚖 [Playing &amp;quot;River Flows in You&amp;quot; before the piano gets destroyed by the flood brought by the typhoon](http://9gag.com/gag/ajgqG7R)
+ - 🚯 [Feels like they&amp;#039;re copying Gorillaz](http://9gag.com/gag/aRrKNwj)
+ - 🚯 [Back to sleep.](http://9gag.com/gag/aegYPom)<!-- MEMES:END -->
 
 --- 
 
