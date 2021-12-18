@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [macOS 12.2 is getting a better Apple Music app, and you can test it now](https://www.theverge.com/2021/12/17/22843024/apple-music-web-views-macos-monterey-streaming-itunes)
- - [This cute EV off-road buggy concept arrived just in time for the weekend](https://www.theverge.com/2021/12/17/22841560/electric-vehicle-off-road-my-ami-buggy-citroen-mobility)
- - [Roku update that broke AirPlay &amp; HomeKit has yet to be fixed weeks later](https://appleinsider.com/articles/21/12/17/roku-update-that-broke-airplay-homekit-has-yet-to-be-fixed-weeks-later?utm_medium=rss)<!-- TECH:END -->
+ - [TSMC unveils N4X, a fab process it says enables 15% improved performance over N5 and tailored for high-performance computing, especially server CPUs and SoCs &lpar;Anton Shilov/AnandTech&rpar;](http://www.techmeme.com/211217/p20#a211217p20)
+ - [Here are 65 last-minute gifts that will arrive in time for the holidays](https://www.theverge.com/22840189/christmas-gifts-best-last-minute-tech-gaming-gadgets-shipping)
+ - [Movie theaters are breaking records thanks to Spider-Man, even as omicron spreads](https://www.theverge.com/2021/12/17/22843051/movie-theaters-spider-man-no-way-home-records-amc-regal-cinemark)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
