@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android Authority’s pick for best phone of 2021: Editor’s Choice](https://www.androidauthority.com/best-smartphone-2021-editors-choice-3077120/)
- - [YouTube TV loses Disney networks as Google fails to make a deal](https://appleinsider.com/articles/21/12/18/youtube-tv-loses-disney-networks-as-google-fails-to-make-a-deal?utm_medium=rss)
- - [How to manage notifications in iOS 15 and iPadOS 15](https://appleinsider.com/articles/21/11/01/how-to-manage-notifications-in-ios-15-and-ipados-15?utm_medium=rss)<!-- TECH:END -->
+ - [Best deals Dec. 18: $65 4TB WD Red hard drive, $76 Meshforce Wi-Fi pack, more!](https://appleinsider.com/articles/21/12/18/best-deals-dec-18-65-4tb-wd-red-hard-drive-76-meshforce-wi-fi-pack-more?utm_medium=rss)
+ - [You still have time for these 14 Amazon Prime deals to be delivered by Christmas     - CNET](https://www.cnet.com/news/you-still-have-time-for-these-amazon-prime-deals-to-be-delivered-by-christmas/#ftag=CAD590a51e)
+ - [Android Authority’s pick for best phone of 2021: Editor’s Choice](https://www.androidauthority.com/best-smartphone-2021-editors-choice-3077120/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
