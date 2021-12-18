@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Owl city](http://9gag.com/gag/aE8REXo)
- - 🚯 [Everything under control](http://9gag.com/gag/axBg4L1)
+ - 🚖 [Omg, those times :&amp;#039;&rpar;](http://9gag.com/gag/abg6mV8)
+ - 🚯 [Don&amp;#039;t do that. Don&amp;#039;t give me hope.](http://9gag.com/gag/aPZMnLP)
  - 🚯 [Gary Sinise is a truly great man](http://9gag.com/gag/aDDjN2N)<!-- MEMES:END -->
 
 --- 
