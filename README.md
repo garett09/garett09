@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [If you’re shooting in Halo Infinite, you’re doing it wrong](https://www.polygon.com/22841987/halo-infinite-no-shooting-melee-only-explosives)
  - [PC Gamer&#39;s Game of the Year Awards 2021](https://www.pcgamer.com/pc-gamers-game-of-the-year-awards-2021)
- - [Best Ongoing Game 2021: Apex Legends](https://www.pcgamer.com/best-ongoing-game-2021-apex-legends)
- - [Bleach: Thousand-Year Blood War anime arriving for the fall 2022 season](https://www.polygon.com/22842985/bleach-thousand-year-blood-war-anime-release-date)<!-- GAME:END -->
+ - [Best Ongoing Game 2021: Apex Legends](https://www.pcgamer.com/best-ongoing-game-2021-apex-legends)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
