@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [The Matrix Online may have died in 2009, but there&#39;s still a ghost in the machine](https://www.pcgamer.com/the-matrix-online-may-have-died-in-2009-but-theres-still-a-ghost-in-the-machine)
  - [The Magic of Christmas: Why Darkside Loves a Good Christmas Case](https://news.xbox.com/en-us/2021/12/17/the-magic-of-christmas-why-darkside-loves-a-good-christmas-case/)
- - [Steam&#39;s new Store Hubs make browsing for games a whole lot more pleasant](https://www.pcgamer.com/steams-new-store-hubs-make-browsing-for-games-a-whole-lot-more-pleasant)
- - [A cinematic history of all the villains in Spider-Man: No Way Home](https://www.polygon.com/22841570/spider-man-no-way-home-green-goblin-villains)<!-- GAME:END -->
+ - [Steam&#39;s new Store Hubs make browsing for games a whole lot more pleasant](https://www.pcgamer.com/steams-new-store-hubs-make-browsing-for-games-a-whole-lot-more-pleasant)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
