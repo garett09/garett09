@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Who wouldn&amp;#039;t](http://9gag.com/gag/aLvMO2P)
- - 🚯 [Tell me that this isn&amp;#039;t also *exactly* what&amp;#039;s happening in the gaming industry](http://9gag.com/gag/amgry8X)
- - 🚯 [Pure Life](http://9gag.com/gag/aGz0qVG)<!-- MEMES:END -->
+ - 🚖 [Tell me that this isn&amp;#039;t also *exactly* what&amp;#039;s happening in the gaming industry](http://9gag.com/gag/amgry8X)
+ - 🚯 [Pure Life](http://9gag.com/gag/aGz0qVG)
+ - 🚯 [I&amp;rsquo;m famished](http://9gag.com/gag/a11d8q2)<!-- MEMES:END -->
 
 --- 
 
