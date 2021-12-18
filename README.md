@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Do you like bad guys who talk a lot?](https://www.pcgamer.com/do-you-like-bad-guys-who-talk-a-lot)
  - [The sexy FMV mess that was Riana Rouge](https://www.pcgamer.com/saturday-video-crapshoot-riana-rouge)
- - [God help us all, Cookie Clicker has Steam Workshop now](https://www.pcgamer.com/god-help-us-all-cookie-clicker-has-steam-workshop-now)
- - [Continued Xbox Shortages Force Microsoft To Use Dev Kits In Latest Halo Tournament](https://kotaku.com/continued-xbox-shortages-force-microsoft-to-use-dev-kit-1848240181)<!-- GAME:END -->
+ - [God help us all, Cookie Clicker has Steam Workshop now](https://www.pcgamer.com/god-help-us-all-cookie-clicker-has-steam-workshop-now)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
