@@ -193,7 +193,7 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Omg, those times :&amp;#039;&rpar;](http://9gag.com/gag/abg6mV8)
+ - 🚖 [Old generation can relate](http://9gag.com/gag/a0ZdzNv)
  - 🚯 [Gary Sinise is a truly great man](http://9gag.com/gag/aDDjN2N)
  - 🚯 [Back to sleep.](http://9gag.com/gag/aegYPom)<!-- MEMES:END -->
 
