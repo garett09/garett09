@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Never let go](http://9gag.com/gag/aog2opX)
- - 🚯 [A shirtless drunk takes on a man twice his size](http://9gag.com/gag/apgrXxM)
- - 🚯 [Sniffing](http://9gag.com/gag/aRrKWj2)<!-- MEMES:END -->
+ - 🚖 [Bye...](http://9gag.com/gag/aggqb2v)
+ - 🚯 [Sniffing](http://9gag.com/gag/aRrKWj2)
+ - 🚯 [Octopus, magnificent creature](http://9gag.com/gag/aWg8A9x)<!-- MEMES:END -->
 
 --- 
 
