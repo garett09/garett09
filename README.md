@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [World Of Warcraft Turmoil Around Sudden Appearance Of People Of Color Is Surprisingly Complex](https://kotaku.com/world-of-warcraft-turmoil-around-sudden-appearance-of-p-1848237345)
- - [If you’re shooting in Halo Infinite, you’re doing it wrong](https://www.polygon.com/22841987/halo-infinite-no-shooting-melee-only-explosives)
- - [PC Gamer&#39;s Game of the Year Awards 2021](https://www.pcgamer.com/pc-gamers-game-of-the-year-awards-2021)<!-- GAME:END -->
+ - [Why everyone hates Witchers in The Witcher](https://www.polygon.com/22840017/witcher-mutagen-kaer-morhen-explained-vesemir)
+ - [A spoilery look at how Spider-Man: No Way Home asks what it means to be Peter Parker](https://www.polygon.com/22840068/spider-man-no-way-home-spoilers-review)
+ - [A Couple Of Hours With The First Big Five Nights At Freddy&#39;s Since Scott Cawthon&#39;s Retirement](https://kotaku.com/a-couple-of-hours-with-the-first-big-five-nights-at-fre-1848237180)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
