@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon issues an update to its Appstore to fix the issues that left customers unable to use their downloaded apps on Android 12 &lpar;Igor Bonifacic/Engadget&rpar;](http://www.techmeme.com/211218/p10#a211218p10)
- - [Prince Charles, Jony Ive discuss Terra Carta&#39;s sustainability push](https://appleinsider.com/articles/21/12/18/prince-charles-jony-ive-discuss-terra-cartas-sustainability-push?utm_medium=rss)
- - [Biden COVID-19 vaccine mandate reinstated by federal appeals court     - CNET](https://www.cnet.com/health/biden-covid-19-vaccine-mandate-reinstated-by-federal-appeals-court/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best deals Dec. 18: $65 4TB WD Red hard drive, $76 Meshforce Wi-Fi pack, more!](https://appleinsider.com/articles/21/12/18/best-deals-dec-18-65-4tb-wd-red-hard-drive-76-meshforce-wi-fi-pack-more?utm_medium=rss)
+ - [The best smart TVs to buy in 2021](https://www.androidauthority.com/best-smart-tvs-3067048/)
+ - [YouTube TV loses Disney-owned channels, slashes its monthly price to $50](https://www.androidauthority.com/youtube-tv-loses-disney-3077663/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
