@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Playing &amp;quot;River Flows in You&amp;quot; before the piano gets destroyed by the flood brought by the typhoon](http://9gag.com/gag/ajgqG7R)
- - 🚯 [Feels like they&amp;#039;re copying Gorillaz](http://9gag.com/gag/aRrKNwj)
- - 🚯 [Back to sleep.](http://9gag.com/gag/aegYPom)<!-- MEMES:END -->
+ - 🚖 [How do you do fellow kids](http://9gag.com/gag/aKm2nrW)
+ - 🚯 [Playing &amp;quot;River Flows in You&amp;quot; before the piano gets destroyed by the flood brought by the typhoon](http://9gag.com/gag/ajgqG7R)
+ - 🚯 [Who wouldn&amp;#039;t](http://9gag.com/gag/aLvMO2P)<!-- MEMES:END -->
 
 --- 
 
