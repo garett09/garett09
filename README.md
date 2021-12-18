@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [2021 Was Both A Great And Terrible Year For GTA Fans](https://kotaku.com/2021-was-both-a-great-and-terrible-year-for-gta-fans-1848236913)
  - [The Witcher season 2’s meta Jaskier timeline joke was for the fans and haters](https://www.polygon.com/22841820/witcher-season-2-episode-4-jaskier-joke)
- - [Why everyone hates Witchers in The Witcher](https://www.polygon.com/22840017/witcher-mutagen-kaer-morhen-explained-vesemir)
- - [A spoilery look at how Spider-Man: No Way Home asks what it means to be Peter Parker](https://www.polygon.com/22840068/spider-man-no-way-home-spoilers-review)<!-- GAME:END -->
+ - [Why everyone hates Witchers in The Witcher](https://www.polygon.com/22840017/witcher-mutagen-kaer-morhen-explained-vesemir)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
