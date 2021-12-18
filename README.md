@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [He&amp;#039;s right you know.](http://9gag.com/gag/aWg8P5n)
- - 🚯 [Spring legs](http://9gag.com/gag/aQXMDe7)
- - 🚯 [Starz Warz Epizode 13 : F U Bloody Blastard](http://9gag.com/gag/aggqpnn)<!-- MEMES:END -->
+ - 🚖 [Thats why they say the aliens did it.](http://9gag.com/gag/aQXMDVw)
+ - 🚯 [No, i don&amp;#039;t have more pixels. And this is the truth..](http://9gag.com/gag/a91W4p1)
+ - 🚯 [Hunter of the year](http://9gag.com/gag/aog2Gqm)<!-- MEMES:END -->
 
 --- 
 
