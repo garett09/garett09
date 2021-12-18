@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Tell me that this isn&amp;#039;t also *exactly* what&amp;#039;s happening in the gaming industry](http://9gag.com/gag/amgry8X)
- - 🚯 [Pure Life](http://9gag.com/gag/aGz0qVG)
- - 🚯 [I&amp;rsquo;m famished](http://9gag.com/gag/a11d8q2)<!-- MEMES:END -->
+ - 🚖 [This pillar was straight last week. This is the first floor of a seven-floor building.](http://9gag.com/gag/aDDjL5N)
+ - 🚯 [Max out spreading, when most are infected increase deadliness and then fight the cure. EZ PZ strats](http://9gag.com/gag/azervDz)
+ - 🚯 [It doesn&amp;rsquo;t get any better](http://9gag.com/gag/aBnwMvD)<!-- MEMES:END -->
 
 --- 
 
