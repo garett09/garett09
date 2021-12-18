@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Nothing better than morning sex, unless you&amp;rsquo;re in prison..](http://9gag.com/gag/arnOD86)
- - 🚯 [So you choose death](http://9gag.com/gag/angy09n)
- - 🚯 [Hunter of the year](http://9gag.com/gag/aog2Gqm)<!-- MEMES:END -->
+ - 🚖 [For around 120 Euro &lpar;135$titlerpar; you can rent a cinema in Germany for 4 hours. Worth every penny.](http://9gag.com/gag/amgrOBd)
+ - 🚯 [Pure Life](http://9gag.com/gag/aGz0qVG)
+ - 🚯 [Who wouldn&amp;#039;t](http://9gag.com/gag/aLvMO2P)<!-- MEMES:END -->
 
 --- 
 
