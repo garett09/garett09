@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [1883: When and how to watch the Yellowstone spinoff](https://www.androidauthority.com/1883-yellowstone-spinoff-3076930/)
- - [Amazon’s Appstore update is supposed to fix issues with Android 12](https://www.theverge.com/2021/12/18/22843977/amazon-appstore-android-12)
- - [Kokoon NightBuds review: Sleep-tracking headphones built for side-sleepers](https://appleinsider.com/articles/21/12/18/kokoon-nightbuds-review-sleep-tracking-headphones-built-for-side-sleepers?utm_medium=rss)<!-- TECH:END -->
+ - [Amazon issues an update to its Appstore to fix the issues that left customers unable to use their downloaded apps on Android 12 &lpar;Igor Bonifacic/Engadget&rpar;](http://www.techmeme.com/211218/p10#a211218p10)
+ - [Prince Charles, Jony Ive discuss Terra Carta&#39;s sustainability push](https://appleinsider.com/articles/21/12/18/prince-charles-jony-ive-discuss-terra-cartas-sustainability-push?utm_medium=rss)
+ - [Biden COVID-19 vaccine mandate reinstated by federal appeals court     - CNET](https://www.cnet.com/health/biden-covid-19-vaccine-mandate-reinstated-by-federal-appeals-court/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
