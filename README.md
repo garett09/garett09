@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [For around 120 Euro &lpar;135$titlerpar; you can rent a cinema in Germany for 4 hours. Worth every penny.](http://9gag.com/gag/amgrOBd)
- - 🚯 [Pure Life](http://9gag.com/gag/aGz0qVG)
- - 🚯 [Who wouldn&amp;#039;t](http://9gag.com/gag/aLvMO2P)<!-- MEMES:END -->
+ - 🚖 [Who wouldn&amp;#039;t](http://9gag.com/gag/aLvMO2P)
+ - 🚯 [Tell me that this isn&amp;#039;t also *exactly* what&amp;#039;s happening in the gaming industry](http://9gag.com/gag/amgry8X)
+ - 🚯 [Pure Life](http://9gag.com/gag/aGz0qVG)<!-- MEMES:END -->
 
 --- 
 
