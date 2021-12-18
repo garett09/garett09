@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Continued Xbox Shortages Force Microsoft To Use Dev Kits In Latest Halo Tournament](https://kotaku.com/continued-xbox-shortages-force-microsoft-to-use-dev-kit-1848240181)
- - [10 lesser-known Christmas movies to unwrap this season](https://www.polygon.com/22836987/underrated-christmas-movies-to-watch)
- - [Amiga A500 Mini Launches March 2022 With 25 Games](https://kotaku.com/amiga-a500-mini-launches-march-2022-with-25-games-1848240040)<!-- GAME:END -->
+ - [The sexy FMV mess that was Riana Rouge](https://www.pcgamer.com/saturday-video-crapshoot-riana-rouge)
+ - [God help us all, Cookie Clicker has Steam Workshop now](https://www.pcgamer.com/god-help-us-all-cookie-clicker-has-steam-workshop-now)
+ - [Continued Xbox Shortages Force Microsoft To Use Dev Kits In Latest Halo Tournament](https://kotaku.com/continued-xbox-shortages-force-microsoft-to-use-dev-kit-1848240181)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
