@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Old generation can relate](http://9gag.com/gag/a0ZdzNv)
- - 🚯 [The awkwardness is so hilarious you can hear danny devito loosing his shit behind the camera.](http://9gag.com/gag/aDDjrYK)
- - 🚯 [Unlimited joy&amp;hellip;](http://9gag.com/gag/aNPd213)<!-- MEMES:END -->
+ - 🚖 [Unlimited joy&amp;hellip;](http://9gag.com/gag/aNPd213)
+ - 🚯 [F# king legend!](http://9gag.com/gag/avAr4dn)
+ - 🚯 [Life ain&amp;#039;t Netflix, and you ain&amp;#039;t the main character to get away with doing stupid shit](http://9gag.com/gag/aqGrpgY)<!-- MEMES:END -->
 
 --- 
 
