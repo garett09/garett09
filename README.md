@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Thoma Bravo agrees to acquire, and take private, business payments company Bottomline Technologies, in an all-cash deal valuing it at about $2.6B &lpar;Reuters&rpar;](http://www.techmeme.com/211217/p22#a211217p22)
- - [5 ways to give kids money during the holidays     - CNET](https://www.cnet.com/news/5-ways-to-give-kids-money-and-teach-personal-finance/#ftag=CAD590a51e)
- - [Biden vaccine mandate reinstated by federal appeals court     - CNET](https://www.cnet.com/health/biden-vaccine-mandate-reinstated-by-federal-appeals-court/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [BandLab, a Singapore-based music creation platform enabling artists to collaborate and engage with fans, raises a $53M Series B at a $303M post-money valuation &lpar;Jonathan Burgos/Forbes&rpar;](http://www.techmeme.com/211218/p1#a211218p1)
+ - [LG’s new flagship soundbar shoots voices up in the air so you can hear](https://www.theverge.com/2021/12/17/22841919/lg-s95qr-soundbar-ces-2022-with-upward-firing-center-channel)
+ - [Ophelia, whose telemedicine platform helps treat people struggling with opioid addiction, raises $50M led by Tiger Global at a $275M valuation &lpar;Manas Mishra/Reuters&rpar;](http://www.techmeme.com/211217/p24#a211217p24)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
