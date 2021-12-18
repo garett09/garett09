@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [World Of Warcraft Turmoil Around Sudden Appearance Of People Of Color Is Surprisingly Complex](https://kotaku.com/world-of-warcraft-turmoil-around-sudden-appearance-of-p-1848237345)
  - [If you’re shooting in Halo Infinite, you’re doing it wrong](https://www.polygon.com/22841987/halo-infinite-no-shooting-melee-only-explosives)
- - [PC Gamer&#39;s Game of the Year Awards 2021](https://www.pcgamer.com/pc-gamers-game-of-the-year-awards-2021)
- - [Best Ongoing Game 2021: Apex Legends](https://www.pcgamer.com/best-ongoing-game-2021-apex-legends)<!-- GAME:END -->
+ - [PC Gamer&#39;s Game of the Year Awards 2021](https://www.pcgamer.com/pc-gamers-game-of-the-year-awards-2021)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
