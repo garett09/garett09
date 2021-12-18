@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How do you do fellow kids](http://9gag.com/gag/aKm2nrW)
- - 🚯 [Playing &amp;quot;River Flows in You&amp;quot; before the piano gets destroyed by the flood brought by the typhoon](http://9gag.com/gag/ajgqG7R)
- - 🚯 [Who wouldn&amp;#039;t](http://9gag.com/gag/aLvMO2P)<!-- MEMES:END -->
+ - 🚖 [Spring legs](http://9gag.com/gag/aQXMDe7)
+ - 🚯 [Germany soon](http://9gag.com/gag/a0ZdWyq)
+ - 🚯 [He&amp;#039;s right you know.](http://9gag.com/gag/aWg8P5n)<!-- MEMES:END -->
 
 --- 
 
