@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Gamers, assemble.](http://9gag.com/gag/a0ZdgLz)
- - 🚯 [It doesn&amp;rsquo;t get any better](http://9gag.com/gag/aBnwMvD)
- - 🚯 [So this is how they did it back then](http://9gag.com/gag/a11dgdD)<!-- MEMES:END -->
+ - 🚖 [Sniffing](http://9gag.com/gag/aRrKWj2)
+ - 🚯 [Who&amp;#039;s Smart now?](http://9gag.com/gag/aDDjL0O)
+ - 🚯 [A shirtless drunk takes on a man twice his size](http://9gag.com/gag/apgrXxM)<!-- MEMES:END -->
 
 --- 
 
