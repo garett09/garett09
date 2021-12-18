@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [JPMorgan Chase will pay $125M to the SEC and $75M to the CFTC for letting some employees use WhatsApp and other unapproved methods to conduct official business &lpar;UPI&rpar;](http://www.techmeme.com/211217/p21#a211217p21)
- - [Adidas sold more than $22 million in NFTs, but it hit a few snags along the way](https://www.theverge.com/2021/12/17/22843104/adidas-nfts-metaverse-sold-bored-ape)
- - [The story of Elizabeth Holmes now belongs to the jury](https://www.theverge.com/2021/12/17/22843225/elizabeth-holmes-theranos-trial-jury-deliberations)<!-- TECH:END -->
+ - [Thoma Bravo agrees to acquire, and take private, business payments company Bottomline Technologies, in an all-cash deal valuing it at about $2.6B &lpar;Reuters&rpar;](http://www.techmeme.com/211217/p22#a211217p22)
+ - [Biden vaccine mandate reinstated by federal appeals court     - CNET](https://www.cnet.com/health/biden-vaccine-mandate-reinstated-by-federal-appeals-court/#ftag=CAD590a51e)
+ - [JPMorgan Chase will pay $125M to the SEC and $75M to the CFTC for letting some employees use WhatsApp and other unapproved methods to conduct official business &lpar;UPI&rpar;](http://www.techmeme.com/211217/p21#a211217p21)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
