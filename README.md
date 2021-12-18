@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Sniffing](http://9gag.com/gag/aRrKWj2)
- - 🚯 [Who&amp;#039;s Smart now?](http://9gag.com/gag/aDDjL0O)
- - 🚯 [A shirtless drunk takes on a man twice his size](http://9gag.com/gag/apgrXxM)<!-- MEMES:END -->
+ - 🚖 [Never let go](http://9gag.com/gag/aog2opX)
+ - 🚯 [A shirtless drunk takes on a man twice his size](http://9gag.com/gag/apgrXxM)
+ - 🚯 [Sniffing](http://9gag.com/gag/aRrKWj2)<!-- MEMES:END -->
 
 --- 
 
