@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: China is expanding its practice of taking minority stakes in private Chinese tech companies to include firms possessing large amounts of key data &lpar;Reuters&rpar;](http://www.techmeme.com/211218/p6#a211218p6)
- - [US software executives have cashed in hundreds of millions of dollars of stock this year, as the SEC looks to tighten rules around sales by insiders &lpar;Financial Times&rpar;](http://www.techmeme.com/211218/p5#a211218p5)
- - [ByteDance launches Douyin Box, a fashion-focused shopping app in China akin to its Fanno app in Europe, betting on the Gen Z trend of buying on influencer tips &lpar;Coco Feng/South China Morning Post&rpar;](http://www.techmeme.com/211218/p4#a211218p4)<!-- TECH:END -->
+ - [Move Over Amazon. Other Retailers Are Catching Up](https://www.wired.com/story/move-over-amazon-catching-up-macys-target)
+ - [7 Rapid At-Home Covid-19 Tests—and Where to Find Them](https://www.wired.com/story/best-rapid-at-home-covid-19-test-kits)
+ - [Patek Has Shoehorned a Gramophone Into Its Latest Watch](https://www.wired.com/story/patek-philippe-minute-repeater-reference-5750)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
