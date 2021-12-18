@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Bye...](http://9gag.com/gag/aggqb2v)
- - 🚯 [Sniffing](http://9gag.com/gag/aRrKWj2)
- - 🚯 [Octopus, magnificent creature](http://9gag.com/gag/aWg8A9x)<!-- MEMES:END -->
+ - 🚖 [Octopus, magnificent creature](http://9gag.com/gag/aWg8A9x)
+ - 🚯 [First photo of Linkin Park &lpar;1996&rpar;.](http://9gag.com/gag/a61M622)
+ - 🚯 [Sniffing](http://9gag.com/gag/aRrKWj2)<!-- MEMES:END -->
 
 --- 
 
