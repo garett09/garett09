@@ -187,8 +187,8 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- TECH:START -->
  - [Thoma Bravo agrees to acquire, and take private, business payments company Bottomline Technologies, in an all-cash deal valuing it at about $2.6B &lpar;Reuters&rpar;](http://www.techmeme.com/211217/p22#a211217p22)
- - [Biden vaccine mandate reinstated by federal appeals court     - CNET](https://www.cnet.com/health/biden-vaccine-mandate-reinstated-by-federal-appeals-court/#ftag=CAD590a51e)
- - [JPMorgan Chase will pay $125M to the SEC and $75M to the CFTC for letting some employees use WhatsApp and other unapproved methods to conduct official business &lpar;UPI&rpar;](http://www.techmeme.com/211217/p21#a211217p21)<!-- TECH:END -->
+ - [5 ways to give kids money during the holidays     - CNET](https://www.cnet.com/news/5-ways-to-give-kids-money-and-teach-personal-finance/#ftag=CAD590a51e)
+ - [Biden vaccine mandate reinstated by federal appeals court     - CNET](https://www.cnet.com/health/biden-vaccine-mandate-reinstated-by-federal-appeals-court/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
