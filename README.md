@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Spring legs](http://9gag.com/gag/aQXMDe7)
- - 🚯 [Germany soon](http://9gag.com/gag/a0ZdWyq)
- - 🚯 [He&amp;#039;s right you know.](http://9gag.com/gag/aWg8P5n)<!-- MEMES:END -->
+ - 🚖 [He&amp;#039;s right you know.](http://9gag.com/gag/aWg8P5n)
+ - 🚯 [Spring legs](http://9gag.com/gag/aQXMDe7)
+ - 🚯 [Starz Warz Epizode 13 : F U Bloody Blastard](http://9gag.com/gag/aggqpnn)<!-- MEMES:END -->
 
 --- 
 
