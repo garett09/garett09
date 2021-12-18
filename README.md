@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Move Over Amazon. Other Retailers Are Catching Up](https://www.wired.com/story/move-over-amazon-catching-up-macys-target)
- - [7 Rapid At-Home Covid-19 Tests—and Where to Find Them](https://www.wired.com/story/best-rapid-at-home-covid-19-test-kits)
- - [Patek Has Shoehorned a Gramophone Into Its Latest Watch](https://www.wired.com/story/patek-philippe-minute-repeater-reference-5750)<!-- TECH:END -->
+ - [A look at Russia&#39;s efforts to censor Western social media with fines and takedown requests, as most posts Russia wanted removed in 2021 were pro-Navalny content &lpar;BBC&rpar;](http://www.techmeme.com/211218/p7#a211218p7)
+ - [Google Pixel 6 Pro vs Sony Xperia Pro-I camera shootout: Brains vs brawn](https://www.androidauthority.com/google-pixel-6-pro-vs-sony-xperia-pro-i-camera-test-3070817/)
+ - [Battlefield 2042 Turns the Climate Crisis Into a Playground](https://www.wired.com/story/battlefield-2042-climate-change-playground)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
