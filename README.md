@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This pillar was straight last week. This is the first floor of a seven-floor building.](http://9gag.com/gag/aDDjL5N)
- - 🚯 [Max out spreading, when most are infected increase deadliness and then fight the cure. EZ PZ strats](http://9gag.com/gag/azervDz)
+ - 🚖 [Gamers, assemble.](http://9gag.com/gag/a0ZdgLz)
+ - 🚯 [Former Blizzard designer about its current state](http://9gag.com/gag/aGz0vRK)
  - 🚯 [It doesn&amp;rsquo;t get any better](http://9gag.com/gag/aBnwMvD)<!-- MEMES:END -->
 
 --- 
