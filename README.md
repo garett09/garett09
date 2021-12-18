@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best deals Dec. 18: $65 4TB WD Red hard drive, $76 Meshforce Wi-Fi pack, more!](https://appleinsider.com/articles/21/12/18/best-deals-dec-18-65-4tb-wd-red-hard-drive-76-meshforce-wi-fi-pack-more?utm_medium=rss)
- - [You still have time for these 14 Amazon Prime deals to be delivered by Christmas     - CNET](https://www.cnet.com/news/you-still-have-time-for-these-amazon-prime-deals-to-be-delivered-by-christmas/#ftag=CAD590a51e)
- - [Android Authority’s pick for best phone of 2021: Editor’s Choice](https://www.androidauthority.com/best-smartphone-2021-editors-choice-3077120/)<!-- TECH:END -->
+ - [WSJ’s deep dive into eating disorder rabbit holes on TikTok explains a sudden policy change](https://www.theverge.com/2021/12/18/22843606/tiktok-wsj-algorithm-change-eating-disorder)
+ - [AI language models like GPT-3 can achieve up to 97% accuracy on some Winograd schemas, but understanding language doesn&#39;t equate to understanding the world &lpar;Melanie Mitchell/Quanta Magazine&rpar;](http://www.techmeme.com/211218/p8#a211218p8)
+ - [Best deals Dec. 18: $65 4TB WD Red hard drive, $76 Meshforce Wi-Fi pack, more!](https://appleinsider.com/articles/21/12/18/best-deals-dec-18-65-4tb-wd-red-hard-drive-76-meshforce-wi-fi-pack-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
