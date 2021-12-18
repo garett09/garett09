@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [GM starts delivering electric Hummer pickup trucks to customers](https://www.theverge.com/2021/12/18/22843805/gm-ev-hummer-pickup-truck-delivery)
- - [Giving a tablet to my toddler was both genius and a disaster](https://www.androidauthority.com/ipad-toddler-3073530/)
- - [Final day: High-end MacBook Air $1,249; Apple Pencil $79; $100 off AirPods Max, Mac mini; up to $350 off 13-inch MacBook Pro](https://appleinsider.com/articles/21/12/16/deals-high-end-macbook-air-1249-apple-pencil-79-100-off-airpods-max-mac-mini-up-to-350-off-13-inch-macbook-pro?utm_medium=rss)<!-- TECH:END -->
+ - [Kokoon NightBuds review: Sleep-tracking headphones built for side-sleepers](https://appleinsider.com/articles/21/12/18/kokoon-nightbuds-review-sleep-tracking-headphones-built-for-side-sleepers?utm_medium=rss)
+ - [Investigation: a dozen automated TikTok accounts, registered as 13-year-olds, were shown tens of thousands of weight-loss videos within a few weeks of joining &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/211218/p9#a211218p9)
+ - [Get two glasses for the price of one with this epic deal from Liingo Eyewear     - CNET](https://www.cnet.com/health/personal-care/get-two-glasses-for-the-price-of-one-with-this-epic-deal-from-liingo-eyewear/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
