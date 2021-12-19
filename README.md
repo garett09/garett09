@@ -193,7 +193,7 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [I respect Gandalf vs Saruman, but this has been the most epic magic duel in history.](http://9gag.com/gag/aBnwA9A)
+ - 🚖 [Lies...all lies&amp;hellip;](http://9gag.com/gag/amgre4v)
  - 🚯 [She had just one job](http://9gag.com/gag/angymq0)
  - 🚯 [Passenger screams in the face of a screaming kid](http://9gag.com/gag/a51ZOwN)<!-- MEMES:END -->
 
