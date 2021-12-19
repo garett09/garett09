@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Final Fantasy 7 Remake files and folders reference a Steam release](https://www.pcgamer.com/final-fantasy-7-remake-files-and-folders-reference-a-steam-release)
  - [Here are all the free games you can grab right now](https://www.pcgamer.com/here-are-all-the-free-games-you-can-grab-right-now)
- - [What&#39;s free on the Epic Games Store right now?](https://www.pcgamer.com/epic-games-store-free-games-list)
- - [The Witcher season 2 has another song that deserves to go viral](https://www.pcgamer.com/the-witcher-season-2-has-another-song-that-deserves-to-go-viral)<!-- GAME:END -->
+ - [What&#39;s free on the Epic Games Store right now?](https://www.pcgamer.com/epic-games-store-free-games-list)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
