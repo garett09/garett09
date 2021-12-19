@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best ultrawide monitors you can buy](https://www.androidauthority.com/best-ultrawide-monitors-3072446/)
- - [Big Data May Not Know Your Name. But It Knows Everything Else](https://www.wired.com/story/big-data-may-not-know-your-name-but-it-knows-everything-else)
- - [Cosmologists Close in on Logical Laws for the Big Bang](https://www.wired.com/story/cosmologists-close-in-on-logical-laws-for-the-big-bang)<!-- TECH:END -->
+ - [Autonomous Weapons Are Here, but the World Isn’t Ready for Them](https://www.wired.com/story/autonomous-weapons-here-world-isnt-ready)
+ - [5 Apps That Are Better on the Desktop Than in Your Browser](https://www.wired.com/story/5-apps-better-desktop-than-browser)
+ - [12 Walmart deals you can still get in time for Christmas     - CNET](https://www.cnet.com/tech/mobile/12-walmart-deals-you-can-still-get-in-time-for-christmas/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
