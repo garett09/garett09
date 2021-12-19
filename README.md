@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Saturday Night not-so-live: Omicron variant means SNL looked weird     - CNET](https://www.cnet.com/news/saturday-night-not-so-live-omicron-variant-means-snl-looked-weird/#ftag=CAD590a51e)
- - [Jake Paul knocks out Tyron Woodley with a huge, monster punch     - CNET](https://www.cnet.com/news/jake-paul-vs-tyron-woodley-results-watch-paul-ko-woodley-with-a-huge-right-hand/#ftag=CAD590a51e)
- - [Madrid-based Playtomic, an app for booking tennis and padel courts and connecting 1M+ active players in 34 countries, raises a &amp;euro;56M Series C led by GP Bullhound &lpar;Patricia Allen/EU-Startups&rpar;](http://www.techmeme.com/211219/p1#a211219p1)<!-- TECH:END -->
+ - [Saturday Night not-so-live: Omicron variant makes for a weird SNL     - CNET](https://www.cnet.com/news/saturday-night-not-so-live-omicron-variant-makes-for-a-weird-snl/#ftag=CAD590a51e)
+ - [Interview with Jameel Jaffer of the Knight First Amendment Institute on how Congress can regulate social media platforms while abiding by the First Amendment &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/211219/p3#a211219p3)
+ - [Profile of Tether CEO Jean-Louis van der Velde, who previously ran a company in China that faced lawsuits over unpaid bills and fines for late tax payments &lpar;Financial Times&rpar;](http://www.techmeme.com/211219/p2#a211219p2)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
