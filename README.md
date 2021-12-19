@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [A modder just added a fully useable Metro System to Cyberpunk 2077, with 19 handbuilt stations where you wait for the train.](http://9gag.com/gag/aM4wox6)
- - 🚯 [Robe and Axe of Giovanni Battista Bugatti, who was the official executioner for the Papal States from 1796 to 1864. During his tenure, he executed 514 people.](http://9gag.com/gag/a41ZXdA)
- - 🚯 [I respect Gandalf vs Saruman, but this has been the most epic magic duel in history.](http://9gag.com/gag/aBnwA9A)<!-- MEMES:END -->
+ - 🚖 [I respect Gandalf vs Saruman, but this has been the most epic magic duel in history.](http://9gag.com/gag/aBnwA9A)
+ - 🚯 [She had just one job](http://9gag.com/gag/angymq0)
+ - 🚯 [Passenger screams in the face of a screaming kid](http://9gag.com/gag/a51ZOwN)<!-- MEMES:END -->
 
 --- 
 
