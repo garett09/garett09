@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Which is the King of all Weapons?](http://9gag.com/gag/a11d6X6)
- - 🚯 [Hello Peter...](http://9gag.com/gag/aDDjv6O)
- - 🚯 [First photo of Linkin Park &lpar;1996&rpar;.](http://9gag.com/gag/a61M622)<!-- MEMES:END -->
+ - 🚖 [Omg](http://9gag.com/gag/aLvMEGg)
+ - 🚯 [Which is the King of all Weapons?](http://9gag.com/gag/a11d6X6)
+ - 🚯 [Hello Peter...](http://9gag.com/gag/aDDjv6O)<!-- MEMES:END -->
 
 --- 
 
