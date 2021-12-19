@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nokia X100 review: Familiar face, new smile](https://www.androidauthority.com/nokia-x100-review-3069188/)
- - [TikTok Kitchens will bring viral culinary creations to fans](https://www.theverge.com/2021/12/19/22845154/tiktok-kitchens-viral-food-ghost-kitchens)
- - [The least surprising news of 2021: Facebook voted the worst company in America](https://appleinsider.com/articles/21/12/19/the-least-surprising-news-of-2021-facebook-voted-the-worst-company-in-america?utm_medium=rss)<!-- TECH:END -->
+ - [Best Apple gifts you can get before Christmas &lpar;while saving up to $150&rpar;](https://appleinsider.com/articles/21/12/17/best-apple-gifts-you-can-get-before-christmas-while-saving-up-to-300?utm_medium=rss)
+ - [Report: chipmakers are on track to spend $152B on new fabs and production equipment in 2021, up 34% YoY, which is the strongest YoY growth since 2017 &lpar;Anton Shilov/AnandTech&rpar;](http://www.techmeme.com/211219/p7#a211219p7)
+ - [Nokia X100 review: Familiar face, new smile](https://www.androidauthority.com/nokia-x100-review-3069188/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
