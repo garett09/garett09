@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google strikes deal to restore Disney networks to YouTube TV](https://appleinsider.com/articles/21/12/19/google-strikes-deal-to-restore-disney-networks-to-youtube-tv?utm_medium=rss)
- - [USPS taking Apple Pay for online payments - but still not in post offices](https://appleinsider.com/articles/21/12/19/usps-taking-apple-pay-for-online-payments---but-still-not-in-post-offices?utm_medium=rss)
- - [The best RTX 3050 laptops you can buy](https://www.androidauthority.com/rtx-3050-laptops-3075828/)<!-- TECH:END -->
+ - [Berlin-based Vay, a startup that uses remote operators to drive rental cars to a customer&#39;s pick-up spot and from their drop-off site, raises a $95M Series B &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/211219/p9#a211219p9)
+ - [The least surprising news of 2021: Facebook voted the worst company in America](https://appleinsider.com/articles/21/12/19/the-least-surprising-news-of-2021-facebook-voted-the-worst-company-in-america?utm_medium=rss)
+ - [Is Spider-Man: No Way Home coming to Disney Plus? What you need to know     - CNET](https://www.cnet.com/news/is-spider-man-no-way-home-coming-to-disney-plus-everything-you-need-to-know-marvel-release/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
