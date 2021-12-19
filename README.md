@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This anime with a solarpunk future](http://9gag.com/gag/aLvMx5V)
- - 🚯 [I will pour these water on Mar, Mercury and Venus](http://9gag.com/gag/aAGw8Kg)
- - 🚯 [Passenger screams in the face of a screaming kid](http://9gag.com/gag/a51ZOwN)<!-- MEMES:END -->
+ - 🚖 [Hope they got the refund for the lessons](http://9gag.com/gag/aNPd7pA)
+ - 🚯 [Passenger screams in the face of a screaming kid](http://9gag.com/gag/a51ZOwN)
+ - 🚯 [A Hubble image of the Whirlpool Galaxy](http://9gag.com/gag/a21d3vp)<!-- MEMES:END -->
 
 --- 
 
