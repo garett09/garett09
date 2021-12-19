@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Octopus, magnificent creature](http://9gag.com/gag/aWg8A9x)
- - 🚯 [First photo of Linkin Park &lpar;1996&rpar;.](http://9gag.com/gag/a61M622)
- - 🚯 [Sniffing](http://9gag.com/gag/aRrKWj2)<!-- MEMES:END -->
+ - 🚖 [Outplayed](http://9gag.com/gag/aOQd5wr)
+ - 🚯 [This guy is an ODU professor and he said that](http://9gag.com/gag/aYrKB0V)
+ - 🚯 [Guy demonstrates how to create a custom ambigram](http://9gag.com/gag/a81pO0Q)<!-- MEMES:END -->
 
 --- 
 
