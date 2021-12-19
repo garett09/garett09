@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Autonomous Weapons Are Here, but the World Isn’t Ready for Them](https://www.wired.com/story/autonomous-weapons-here-world-isnt-ready)
- - [5 Apps That Are Better on the Desktop Than in Your Browser](https://www.wired.com/story/5-apps-better-desktop-than-browser)
- - [12 Walmart deals you can still get in time for Christmas     - CNET](https://www.cnet.com/tech/mobile/12-walmart-deals-you-can-still-get-in-time-for-christmas/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [What was the best phone of 2021? Vote for your Reader’s Choice winner!](https://www.androidauthority.com/best-smartphone-2021-readers-choice-voting-3077675/)
+ - [AI Dungeon’s creators are launching an experimental AI-powered game platform](https://www.theverge.com/2021/12/19/22836418/latitude-ai-dungeon-voyage-ai-powered-game-platform-launch)
+ - [Lower-priced Apple external display rumored to be on the way](https://appleinsider.com/articles/21/12/19/lower-priced-apple-external-display-rumored-to-be-on-the-way?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
