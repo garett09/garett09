@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Here are all the free games you can grab right now](https://www.pcgamer.com/here-are-all-the-free-games-you-can-grab-right-now)
  - [Every Halo Game, Ranked From Worst To Best](https://kotaku.com/every-halo-game-ranked-from-worst-to-best-1848242182)
- - [Hades Wins A Hugo Award, Making History As First Video Game To Ever Do So](https://kotaku.com/hades-wins-a-hugo-award-making-history-as-first-video-1848242324)
- - [The Lord of the Rings trilogy turns 20, and we have so much to say](https://www.polygon.com/22845042/lord-of-the-rings-trilogy-20th-anniversary-watch-guide)<!-- GAME:END -->
+ - [Hades Wins A Hugo Award, Making History As First Video Game To Ever Do So](https://kotaku.com/hades-wins-a-hugo-award-making-history-as-first-video-1848242324)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
