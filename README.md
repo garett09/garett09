@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [12 great gifts under $100 that you can buy now. Seriously, don&#39;t wait     - CNET](https://www.cnet.com/home/great-gifts-under-100/#ftag=CAD590a51e)
  - [Saturday Night not-so-live: Omicron variant makes for a weird SNL     - CNET](https://www.cnet.com/news/saturday-night-not-so-live-omicron-variant-makes-for-a-weird-snl/#ftag=CAD590a51e)
- - [Interview with Jameel Jaffer of the Knight First Amendment Institute on how Congress can regulate social media platforms while abiding by the First Amendment &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/211219/p3#a211219p3)
- - [Profile of Tether CEO Jean-Louis van der Velde, who previously ran a company in China that faced lawsuits over unpaid bills and fines for late tax payments &lpar;Financial Times&rpar;](http://www.techmeme.com/211219/p2#a211219p2)<!-- TECH:END -->
+ - [Interview with Jameel Jaffer of the Knight First Amendment Institute on how Congress can regulate social media platforms while abiding by the First Amendment &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/211219/p3#a211219p3)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
