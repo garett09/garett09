@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Self-improvement in a nutshell](http://9gag.com/gag/awz5WOx)
- - 🚯 [That&amp;#039;s it...we f**ked up](http://9gag.com/gag/aRrKqqy)
+ - 🚖 [Comes with a license in the UK](http://9gag.com/gag/azerpnm)
+ - 🚯 [This will be war in 2121](http://9gag.com/gag/avArKD5)
  - 🚯 [Robe and Axe of Giovanni Battista Bugatti, who was the official executioner for the Papal States from 1796 to 1864. During his tenure, he executed 514 people.](http://9gag.com/gag/a41ZXdA)<!-- MEMES:END -->
 
 --- 
