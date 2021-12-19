@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nvidia’s new RTX 2050 laptop GPU could potentially power more affordable laptops](https://www.theverge.com/2021/12/18/22844091/nvidia-rtx-2050-laptop-gpu-chip-shortage)
  - [Best deals Dec. 18: $65 4TB WD Red hard drive, $76 Meshforce Wi-Fi pack, more!](https://appleinsider.com/articles/21/12/18/best-deals-dec-18-65-4tb-wd-red-hard-drive-76-meshforce-wi-fi-pack-more?utm_medium=rss)
- - [The best smart TVs to buy in 2021](https://www.androidauthority.com/best-smart-tvs-3067048/)
- - [YouTube TV loses Disney-owned channels, slashes its monthly price to $50](https://www.androidauthority.com/youtube-tv-loses-disney-3077663/)<!-- TECH:END -->
+ - [The best smart TVs to buy in 2021](https://www.androidauthority.com/best-smart-tvs-3067048/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
