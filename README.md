@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Honestly, I&amp;rsquo;d watch that movie.](http://9gag.com/gag/angyPVo)
- - 🚯 [This will be war in 2121](http://9gag.com/gag/avArKD5)
- - 🚯 [Brudar](http://9gag.com/gag/aDDjeZw)<!-- MEMES:END -->
+ - 🚖 [Merry Xmas!](http://9gag.com/gag/aE8RmjK)
+ - 🚯 [Don&amp;#039;t be a Jake. Call your loved ones](http://9gag.com/gag/aM4wMBG)
+ - 🚯 [Get a job!](http://9gag.com/gag/aKm2oKZ)<!-- MEMES:END -->
 
 --- 
 
