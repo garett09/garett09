@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Lepaya, an Amsterdam-based power skills training provider helping companies upskill their workforce via its app, raises a $40M Series B led by Target Global &lpar;Dan Taylor/Tech.eu&rpar;](http://www.techmeme.com/211218/p12#a211218p12)
  - [Jake Paul vs. Tyron Woodley: Live updates, results     - CNET](https://www.cnet.com/news/jake-paul-vs-tyron-woodley-live-updates-results/#ftag=CAD590a51e)
- - [Best credit cards for fair and average credit for December 2021     - CNET](https://www.cnet.com/personal-finance/credit-cards/best-credit-cards-for-fair-and-average-credit/#ftag=CAD590a51e)
- - [Malaysia passes a bill to imprison illegal streaming pirates, primarily those involved in the provision or facilitation of illegal streams, for up to 20 years &lpar;Andy Maxwell/TorrentFreak&rpar;](http://www.techmeme.com/211218/p11#a211218p11)<!-- TECH:END -->
+ - [Best credit cards for fair and average credit for December 2021     - CNET](https://www.cnet.com/personal-finance/credit-cards/best-credit-cards-for-fair-and-average-credit/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
