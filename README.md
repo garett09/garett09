@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Malaysia passes a bill to imprison illegal streaming pirates, primarily those involved in the provision or facilitation of illegal streams, for up to 20 years &lpar;Andy Maxwell/TorrentFreak&rpar;](http://www.techmeme.com/211218/p11#a211218p11)
  - [Jake Paul vs. Tyron Woodley: Live updates, results     - CNET](https://www.cnet.com/news/jake-paul-vs-tyron-woodley-live-updates-results/#ftag=CAD590a51e)
- - [Nvidia’s new RTX 2050 laptop GPU could potentially power more affordable laptops](https://www.theverge.com/2021/12/18/22844091/nvidia-rtx-2050-laptop-gpu-chip-shortage)<!-- TECH:END -->
+ - [Best credit cards for fair and average credit for December 2021     - CNET](https://www.cnet.com/personal-finance/credit-cards/best-credit-cards-for-fair-and-average-credit/#ftag=CAD590a51e)
+ - [Malaysia passes a bill to imprison illegal streaming pirates, primarily those involved in the provision or facilitation of illegal streams, for up to 20 years &lpar;Andy Maxwell/TorrentFreak&rpar;](http://www.techmeme.com/211218/p11#a211218p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
