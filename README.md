@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Resident Evil Village And Metroid Dread Were The Most Completed Games In 2021](https://kotaku.com/resident-evil-village-and-metroid-dread-were-the-most-c-1848240645)
  - [Superliminal has co-op now, for ever more confusing perspective puzzling](https://www.pcgamer.com/superliminal-has-co-op-now-for-ever-more-confusing-perspective-puzzling)
- - [Sunday Comics: Nice Sword!](https://kotaku.com/sunday-comics-nice-sword-1848241943)
- - [I was a teenage transgender supersoldier](https://www.polygon.com/22841693/halo-infinite-queer-trans-representation-analysis-xbox)<!-- GAME:END -->
+ - [Sunday Comics: Nice Sword!](https://kotaku.com/sunday-comics-nice-sword-1848241943)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
