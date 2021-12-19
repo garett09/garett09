@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Resident Evil Village And Metroid Dread Were The Most Completed Games In 2021](https://kotaku.com/resident-evil-village-and-metroid-dread-were-the-most-c-1848240645)
- - [Superliminal has co-op now, for ever more confusing perspective puzzling](https://www.pcgamer.com/superliminal-has-co-op-now-for-ever-more-confusing-perspective-puzzling)
- - [Sunday Comics: Nice Sword!](https://kotaku.com/sunday-comics-nice-sword-1848241943)<!-- GAME:END -->
+ - [Hades Wins A Hugo Award, Making History As First Video Game To Ever Do So](https://kotaku.com/hades-wins-a-hugo-award-making-history-as-first-video-1848242324)
+ - [The Lord of the Rings trilogy turns 20, and we have so much to say](https://www.polygon.com/22845042/lord-of-the-rings-trilogy-20th-anniversary-watch-guide)
+ - [Cyberpunk 2077 gets a metro thanks to modders](https://www.pcgamer.com/cyberpunk-2077-gets-a-metro-thanks-to-modders)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
