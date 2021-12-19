@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Some Halo Infinite players have to use dev kits at first major tournament](https://www.theverge.com/2021/12/19/22844958/halo-infinite-tournament-dev-kits-raleigh)
- - [AppleInsider&#39;s favorite cases for the iPhone 13](https://appleinsider.com/articles/21/12/19/appleinsiders-favorite-cases-for-the-iphone-13-so-far?utm_medium=rss)
- - [Crime blotter: $18K in iPhones lifted from Temecula Apple Store, knife gang iPhone theft, more](https://appleinsider.com/articles/21/12/19/crime-blotter-roof-based-best-buy-robbery-knife-gang-iphone-theft-more?utm_medium=rss)<!-- TECH:END -->
+ - [USPS taking Apple Pay for online payments - but still not in post offices](https://appleinsider.com/articles/21/12/19/usps-taking-apple-pay-for-online-payments---but-still-not-in-post-offices?utm_medium=rss)
+ - [Inside Intel&#39;s Ronler complex in Hillsboro, Oregon, where it conducts its most advanced research and houses the company&#39;s most important chip manufacturing site &lpar;Max A. Cherney/Protocol&rpar;](http://www.techmeme.com/211219/p6#a211219p6)
+ - [Apple blames business rivals for India App Store antitrust filing](https://appleinsider.com/articles/21/12/19/apple-blames-business-rivals-for-india-app-store-antitrust-filing?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
