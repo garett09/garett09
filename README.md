@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Are Tesla drivers the new Bmw drivers?](http://9gag.com/gag/ajgqoDG)
+ - 🚖 [Fish](http://9gag.com/gag/apgrWzn)
  - 🚯 [The Sombrero galaxy by Hubble.](http://9gag.com/gag/azerWxb)
- - 🚯 [Huge street cleaning vacuum in action](http://9gag.com/gag/aWg8wYq)<!-- MEMES:END -->
+ - 🚯 [Unrealistic historical standards](http://9gag.com/gag/aLvMx3z)<!-- MEMES:END -->
 
 --- 
 
