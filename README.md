@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Incorgnito](http://9gag.com/gag/a61MRRL)
- - 🚯 [Living in the Netherlands](http://9gag.com/gag/aQXM5p7)
- - 🚯 [We need to go back](http://9gag.com/gag/aAGw932)<!-- MEMES:END -->
+ - 🚖 [Omg](http://9gag.com/gag/aLvMEGg)
+ - 🚯 [Hmm... not sure](http://9gag.com/gag/aPZM2qQ)
+ - 🚯 [Outplayed](http://9gag.com/gag/aOQd5wr)<!-- MEMES:END -->
 
 --- 
 
