@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Chinese Wikipedia volunteers fighting censorship, threats, arrest, and violence expose the challenges to the Wikimedia Foundation&#39;s free-knowledge mission &lpar;Alex Pasternack/Fast Company&rpar;](http://www.techmeme.com/211219/p4#a211219p4)
- - [16 Great Deals on Home Goods, Office Gear, and Kitchen Tools](https://www.wired.com/story/deals-december-19-2021)
- - [How to Use Discord: A Beginner’s Guide](https://www.wired.com/story/how-to-use-discord)<!-- TECH:END -->
+ - [The best ultrawide monitors you can buy](https://www.androidauthority.com/best-ultrawide-monitors-3072446/)
+ - [Big Data May Not Know Your Name. But It Knows Everything Else](https://www.wired.com/story/big-data-may-not-know-your-name-but-it-knows-everything-else)
+ - [Cosmologists Close in on Logical Laws for the Big Bang](https://www.wired.com/story/cosmologists-close-in-on-logical-laws-for-the-big-bang)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
