@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Merry Xmas!](http://9gag.com/gag/aE8RmjK)
- - 🚯 [Don&amp;#039;t be a Jake. Call your loved ones](http://9gag.com/gag/aM4wMBG)
- - 🚯 [Get a job!](http://9gag.com/gag/aKm2oKZ)<!-- MEMES:END -->
+ - 🚖 [Get a job!](http://9gag.com/gag/aKm2oKZ)
+ - 🚯 [Merry Xmas!](http://9gag.com/gag/aE8RmjK)
+ - 🚯 [What are you](http://9gag.com/gag/arnO7Kd)<!-- MEMES:END -->
 
 --- 
 
