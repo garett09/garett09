@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lepaya, an Amsterdam-based power skills training provider helping companies upskill their workforce via its app, raises a $40M Series B led by Target Global &lpar;Dan Taylor/Tech.eu&rpar;](http://www.techmeme.com/211218/p12#a211218p12)
- - [Jake Paul vs. Tyron Woodley: Live updates, results     - CNET](https://www.cnet.com/news/jake-paul-vs-tyron-woodley-live-updates-results/#ftag=CAD590a51e)
- - [Best credit cards for fair and average credit for December 2021     - CNET](https://www.cnet.com/personal-finance/credit-cards/best-credit-cards-for-fair-and-average-credit/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Saturday Night not-so-live: Omicron variant means SNL looked weird     - CNET](https://www.cnet.com/news/saturday-night-not-so-live-omicron-variant-means-snl-looked-weird/#ftag=CAD590a51e)
+ - [Jake Paul knocks out Tyron Woodley with a huge, monster punch     - CNET](https://www.cnet.com/news/jake-paul-vs-tyron-woodley-results-watch-paul-ko-woodley-with-a-huge-right-hand/#ftag=CAD590a51e)
+ - [Madrid-based Playtomic, an app for booking tennis and padel courts and connecting 1M+ active players in 34 countries, raises a &amp;euro;56M Series C led by GP Bullhound &lpar;Patricia Allen/EU-Startups&rpar;](http://www.techmeme.com/211219/p1#a211219p1)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
