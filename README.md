@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Best Co-op Game 2021: Back 4 Blood](https://www.pcgamer.com/best-co-op-game-2021-back-4-blood)
  - [Hades is the first videogame to win a Hugo Award](https://www.pcgamer.com/hades-is-the-first-videogame-to-win-a-hugo-award)
- - [Historical CRPG Expeditions: Rome has a demo](https://www.pcgamer.com/historical-crpg-expeditions-rome-has-a-demo)
- - [Final Fantasy 7 Remake files and folders reference a Steam release](https://www.pcgamer.com/final-fantasy-7-remake-files-and-folders-reference-a-steam-release)<!-- GAME:END -->
+ - [Historical CRPG Expeditions: Rome has a demo](https://www.pcgamer.com/historical-crpg-expeditions-rome-has-a-demo)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
