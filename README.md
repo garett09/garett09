@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best RTX 3050 laptops you can buy](https://www.androidauthority.com/rtx-3050-laptops-3075828/)
- - [YouTube TV reaches a deal with Disney to bring back 17+ channels including ABC, Disney, ESPN, Freeform, FX, and National Geographic &lpar;Ben Bowman/The Streamable&rpar;](http://www.techmeme.com/211219/p8#a211219p8)
- - [Disney and YouTube TV cut a deal to bring back ESPN, FX, and other channels](https://www.theverge.com/2021/12/19/22845373/youtube-tv-disney-espn-channel-fx-abc-restored)<!-- TECH:END -->
+ - [Google strikes deal to restore Disney networks to YouTube TV](https://appleinsider.com/articles/21/12/19/google-strikes-deal-to-restore-disney-networks-to-youtube-tv?utm_medium=rss)
+ - [USPS taking Apple Pay for online payments - but still not in post offices](https://appleinsider.com/articles/21/12/19/usps-taking-apple-pay-for-online-payments---but-still-not-in-post-offices?utm_medium=rss)
+ - [The best RTX 3050 laptops you can buy](https://www.androidauthority.com/rtx-3050-laptops-3075828/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
