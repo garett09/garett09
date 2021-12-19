@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [What was the best phone of 2021? Vote for your Reader’s Choice winner!](https://www.androidauthority.com/best-smartphone-2021-readers-choice-voting-3077675/)
- - [AI Dungeon’s creators are launching an experimental AI-powered game platform](https://www.theverge.com/2021/12/19/22836418/latitude-ai-dungeon-voyage-ai-powered-game-platform-launch)
- - [Lower-priced Apple external display rumored to be on the way](https://appleinsider.com/articles/21/12/19/lower-priced-apple-external-display-rumored-to-be-on-the-way?utm_medium=rss)<!-- TECH:END -->
+ - [Some Halo Infinite players have to use dev kits at first major tournament](https://www.theverge.com/2021/12/19/22844958/halo-infinite-tournament-dev-kits-raleigh)
+ - [AppleInsider&#39;s favorite cases for the iPhone 13](https://appleinsider.com/articles/21/12/19/appleinsiders-favorite-cases-for-the-iphone-13-so-far?utm_medium=rss)
+ - [Crime blotter: $18K in iPhones lifted from Temecula Apple Store, knife gang iPhone theft, more](https://appleinsider.com/articles/21/12/19/crime-blotter-roof-based-best-buy-robbery-knife-gang-iphone-theft-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
