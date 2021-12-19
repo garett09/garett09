@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kindle features wishlist: 6 things we want Amazon to add to its e-readers](https://www.androidauthority.com/amazon-kindle-features-wishlist-3071542/)
- - [12 great gifts under $100 that you can buy now. Seriously, don&#39;t wait     - CNET](https://www.cnet.com/home/great-gifts-under-100/#ftag=CAD590a51e)
- - [Saturday Night not-so-live: Omicron variant makes for a weird SNL     - CNET](https://www.cnet.com/news/saturday-night-not-so-live-omicron-variant-makes-for-a-weird-snl/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How Chinese Wikipedia volunteers fighting censorship, threats, arrest, and violence expose the challenges to the Wikimedia Foundation&#39;s free-knowledge mission &lpar;Alex Pasternack/Fast Company&rpar;](http://www.techmeme.com/211219/p4#a211219p4)
+ - [16 Great Deals on Home Goods, Office Gear, and Kitchen Tools](https://www.wired.com/story/deals-december-19-2021)
+ - [How to Use Discord: A Beginner’s Guide](https://www.wired.com/story/how-to-use-discord)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
