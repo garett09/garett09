@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Inscryption is the best video game of 2021](https://www.polygon.com/22843002/inscryption-best-video-game-2021-polygon-goty)
- - [That big Witcher reveal plays out very differently in the books](https://www.polygon.com/22839424/witcher-emhyr-duny-ciri-father)
- - [Why does everyone in The Witcher keep talking about the Wild Hunt?](https://www.polygon.com/22838575/witcher-wild-hunt-explained)<!-- GAME:END -->
+ - [I was a teenage transgender supersoldier](https://www.polygon.com/22841693/halo-infinite-queer-trans-representation-analysis-xbox)
+ - [The Witcher season 2, episode 8 recap: Family matters](https://www.pcgamer.com/the-witcher-season-2-episode-8-recap)
+ - [Inscryption is the best video game of 2021](https://www.polygon.com/22843002/inscryption-best-video-game-2021-polygon-goty)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
