@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Bri ish things](http://9gag.com/gag/aQXM5VK)
- - 🚯 [Balkan](http://9gag.com/gag/a51Zg8o)
+ - 🚖 [Balkan](http://9gag.com/gag/a51Zg8o)
+ - 🚯 [Bri ish things](http://9gag.com/gag/aQXM5VK)
  - 🚯 [Guy demonstrates how to create a custom ambigram](http://9gag.com/gag/a81pO0Q)<!-- MEMES:END -->
 
 --- 
