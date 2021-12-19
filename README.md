@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Best Co-op Game 2021: Back 4 Blood](https://www.pcgamer.com/best-co-op-game-2021-back-4-blood)
- - [Hades is the first videogame to win a Hugo Award](https://www.pcgamer.com/hades-is-the-first-videogame-to-win-a-hugo-award)
- - [Historical CRPG Expeditions: Rome has a demo](https://www.pcgamer.com/historical-crpg-expeditions-rome-has-a-demo)<!-- GAME:END -->
+ - [Why does everyone in The Witcher keep talking about the Wild Hunt?](https://www.polygon.com/22838575/witcher-wild-hunt-explained)
+ - [WW2 shooter Hell Let Loose is only made better by diehard roleplayers](https://www.pcgamer.com/ww2-shooter-hell-let-loose-is-only-made-better-by-diehard-roleplayers)
+ - [40 games later, I&#39;m amazed Jackbox Party Packs are still this good](https://www.pcgamer.com/40-games-later-im-amazed-jackbox-party-packs-are-still-this-good)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
