@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Why does everyone in The Witcher keep talking about the Wild Hunt?](https://www.polygon.com/22838575/witcher-wild-hunt-explained)
- - [WW2 shooter Hell Let Loose is only made better by diehard roleplayers](https://www.pcgamer.com/ww2-shooter-hell-let-loose-is-only-made-better-by-diehard-roleplayers)
- - [40 games later, I&#39;m amazed Jackbox Party Packs are still this good](https://www.pcgamer.com/40-games-later-im-amazed-jackbox-party-packs-are-still-this-good)<!-- GAME:END -->
+ - [Inscryption is the best video game of 2021](https://www.polygon.com/22843002/inscryption-best-video-game-2021-polygon-goty)
+ - [That big Witcher reveal plays out very differently in the books](https://www.polygon.com/22839424/witcher-emhyr-duny-ciri-father)
+ - [Why does everyone in The Witcher keep talking about the Wild Hunt?](https://www.polygon.com/22838575/witcher-wild-hunt-explained)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
