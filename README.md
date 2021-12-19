@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hope they got the refund for the lessons](http://9gag.com/gag/aNPd7pA)
- - 🚯 [Passenger screams in the face of a screaming kid](http://9gag.com/gag/a51ZOwN)
- - 🚯 [A Hubble image of the Whirlpool Galaxy](http://9gag.com/gag/a21d3vp)<!-- MEMES:END -->
+ - 🚖 [Are Tesla drivers the new Bmw drivers?](http://9gag.com/gag/ajgqoDG)
+ - 🚯 [Huge street cleaning vacuum in action](http://9gag.com/gag/aWg8wYq)
+ - 🚯 [Tiger Woods watching his son&amp;#039;s mannerisms](http://9gag.com/gag/a11dyz2)<!-- MEMES:END -->
 
 --- 
 
