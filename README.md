@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The least surprising news of 2021: Facebook voted the worst company in America](https://appleinsider.com/articles/21/12/19/the-least-surprising-news-of-2021-facebook-voted-the-worst-company-in-america?utm_medium=rss)
- - [Yes, you should probably just buy a Chromebook     - CNET](https://www.cnet.com/tech/computing/yes-you-should-probably-just-buy-a-chromebook/#ftag=CAD590a51e)
- - [Best deals Dec. 19: $18 Tile tracker, $88 1TB SK Hynix SSD, $160 portable monitor, more!](https://appleinsider.com/articles/21/12/19/best-deals-dec-19-18-tile-tracker-88-1tb-sk-hynix-ssd-160-portable-monitor-more?utm_medium=rss)<!-- TECH:END -->
+ - [Nokia X100 review: Familiar face, new smile](https://www.androidauthority.com/nokia-x100-review-3069188/)
+ - [TikTok Kitchens will bring viral culinary creations to fans](https://www.theverge.com/2021/12/19/22845154/tiktok-kitchens-viral-food-ghost-kitchens)
+ - [The least surprising news of 2021: Facebook voted the worst company in America](https://appleinsider.com/articles/21/12/19/the-least-surprising-news-of-2021-facebook-voted-the-worst-company-in-america?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
