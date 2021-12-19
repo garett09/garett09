@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Get a job!](http://9gag.com/gag/aKm2oKZ)
+ - 🚖 [Return to monke](http://9gag.com/gag/a317X0N)
  - 🚯 [Merry Xmas!](http://9gag.com/gag/aE8RmjK)
- - 🚯 [What are you](http://9gag.com/gag/arnO7Kd)<!-- MEMES:END -->
+ - 🚯 [She had just one job](http://9gag.com/gag/angymq0)<!-- MEMES:END -->
 
 --- 
 
