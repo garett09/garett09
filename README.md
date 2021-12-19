@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [USPS taking Apple Pay for online payments - but still not in post offices](https://appleinsider.com/articles/21/12/19/usps-taking-apple-pay-for-online-payments---but-still-not-in-post-offices?utm_medium=rss)
- - [Inside Intel&#39;s Ronler complex in Hillsboro, Oregon, where it conducts its most advanced research and houses the company&#39;s most important chip manufacturing site &lpar;Max A. Cherney/Protocol&rpar;](http://www.techmeme.com/211219/p6#a211219p6)
- - [Apple blames business rivals for India App Store antitrust filing](https://appleinsider.com/articles/21/12/19/apple-blames-business-rivals-for-india-app-store-antitrust-filing?utm_medium=rss)<!-- TECH:END -->
+ - [The least surprising news of 2021: Facebook voted the worst company in America](https://appleinsider.com/articles/21/12/19/the-least-surprising-news-of-2021-facebook-voted-the-worst-company-in-america?utm_medium=rss)
+ - [Yes, you should probably just buy a Chromebook     - CNET](https://www.cnet.com/tech/computing/yes-you-should-probably-just-buy-a-chromebook/#ftag=CAD590a51e)
+ - [Best deals Dec. 19: $18 Tile tracker, $88 1TB SK Hynix SSD, $160 portable monitor, more!](https://appleinsider.com/articles/21/12/19/best-deals-dec-19-18-tile-tracker-88-1tb-sk-hynix-ssd-160-portable-monitor-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
