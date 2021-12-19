@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Dumb Karen ruined guy&amp;rsquo;s food](http://9gag.com/gag/aAGw5KE)
- - 🚯 [Hmm... not sure](http://9gag.com/gag/aPZM2qQ)
- - 🚯 [Outplayed](http://9gag.com/gag/aOQd5wr)<!-- MEMES:END -->
+ - 🚖 [Omg](http://9gag.com/gag/aLvMEGg)
+ - 🚯 [Wait for the gift](http://9gag.com/gag/aE8R4yp)
+ - 🚯 [We need to go back](http://9gag.com/gag/aAGw932)<!-- MEMES:END -->
 
 --- 
 
