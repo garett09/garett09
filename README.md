@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Lies...all lies&amp;hellip;](http://9gag.com/gag/amgre4v)
- - 🚯 [She had just one job](http://9gag.com/gag/angymq0)
+ - 🚖 [This anime with a solarpunk future](http://9gag.com/gag/aLvMx5V)
+ - 🚯 [I will pour these water on Mar, Mercury and Venus](http://9gag.com/gag/aAGw8Kg)
  - 🚯 [Passenger screams in the face of a screaming kid](http://9gag.com/gag/a51ZOwN)<!-- MEMES:END -->
 
 --- 
