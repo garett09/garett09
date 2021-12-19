@@ -194,8 +194,8 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Are Tesla drivers the new Bmw drivers?](http://9gag.com/gag/ajgqoDG)
- - 🚯 [Huge street cleaning vacuum in action](http://9gag.com/gag/aWg8wYq)
- - 🚯 [Tiger Woods watching his son&amp;#039;s mannerisms](http://9gag.com/gag/a11dyz2)<!-- MEMES:END -->
+ - 🚯 [The Sombrero galaxy by Hubble.](http://9gag.com/gag/azerWxb)
+ - 🚯 [Huge street cleaning vacuum in action](http://9gag.com/gag/aWg8wYq)<!-- MEMES:END -->
 
 --- 
 
