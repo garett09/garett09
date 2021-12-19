@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Hades is the first videogame to win a Hugo Award](https://www.pcgamer.com/hades-is-the-first-videogame-to-win-a-hugo-award)
  - [Historical CRPG Expeditions: Rome has a demo](https://www.pcgamer.com/historical-crpg-expeditions-rome-has-a-demo)
- - [Final Fantasy 7 Remake files and folders reference a Steam release](https://www.pcgamer.com/final-fantasy-7-remake-files-and-folders-reference-a-steam-release)
- - [Here are all the free games you can grab right now](https://www.pcgamer.com/here-are-all-the-free-games-you-can-grab-right-now)<!-- GAME:END -->
+ - [Final Fantasy 7 Remake files and folders reference a Steam release](https://www.pcgamer.com/final-fantasy-7-remake-files-and-folders-reference-a-steam-release)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
