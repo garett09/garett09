@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [I was a teenage transgender supersoldier](https://www.polygon.com/22841693/halo-infinite-queer-trans-representation-analysis-xbox)
- - [The Witcher season 2, episode 8 recap: Family matters](https://www.pcgamer.com/the-witcher-season-2-episode-8-recap)
- - [Inscryption is the best video game of 2021](https://www.polygon.com/22843002/inscryption-best-video-game-2021-polygon-goty)<!-- GAME:END -->
+ - [Superliminal has co-op now, for ever more confusing perspective puzzling](https://www.pcgamer.com/superliminal-has-co-op-now-for-ever-more-confusing-perspective-puzzling)
+ - [Sunday Comics: Nice Sword!](https://kotaku.com/sunday-comics-nice-sword-1848241943)
+ - [I was a teenage transgender supersoldier](https://www.polygon.com/22841693/halo-infinite-queer-trans-representation-analysis-xbox)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
