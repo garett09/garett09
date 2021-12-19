@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Omg](http://9gag.com/gag/aLvMEGg)
- - 🚯 [Which is the King of all Weapons?](http://9gag.com/gag/a11d6X6)
- - 🚯 [Hello Peter...](http://9gag.com/gag/aDDjv6O)<!-- MEMES:END -->
+ - 🚖 [Incorgnito](http://9gag.com/gag/a61MRRL)
+ - 🚯 [Living in the Netherlands](http://9gag.com/gag/aQXM5p7)
+ - 🚯 [We need to go back](http://9gag.com/gag/aAGw932)<!-- MEMES:END -->
 
 --- 
 
