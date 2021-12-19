@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Apple gifts you can get before Christmas &lpar;while saving up to $150&rpar;](https://appleinsider.com/articles/21/12/17/best-apple-gifts-you-can-get-before-christmas-while-saving-up-to-300?utm_medium=rss)
- - [Report: chipmakers are on track to spend $152B on new fabs and production equipment in 2021, up 34% YoY, which is the strongest YoY growth since 2017 &lpar;Anton Shilov/AnandTech&rpar;](http://www.techmeme.com/211219/p7#a211219p7)
- - [Nokia X100 review: Familiar face, new smile](https://www.androidauthority.com/nokia-x100-review-3069188/)<!-- TECH:END -->
+ - [The best RTX 3050 laptops you can buy](https://www.androidauthority.com/rtx-3050-laptops-3075828/)
+ - [YouTube TV reaches a deal with Disney to bring back 17+ channels including ABC, Disney, ESPN, Freeform, FX, and National Geographic &lpar;Ben Bowman/The Streamable&rpar;](http://www.techmeme.com/211219/p8#a211219p8)
+ - [Disney and YouTube TV cut a deal to bring back ESPN, FX, and other channels](https://www.theverge.com/2021/12/19/22845373/youtube-tv-disney-espn-channel-fx-abc-restored)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
