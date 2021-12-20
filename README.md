@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Forcing Final Fantasy Remake 7 to run in DirectX 11 might help with stuttering](https://www.pcgamer.com/final-fantasy-7-remake-stuttering-fix)
- - [Nice Owl](https://kotaku.com/nice-owl-1848242903)
- - [Congratulations To George R.R. Martin On Completing A Blog Post About Elden Ring](https://kotaku.com/congratulations-to-george-r-r-martin-on-completing-a-b-1848242813)<!-- GAME:END -->
+ - [Intel once again warns of chip shortage continuing until 2023](https://www.pcgamer.com/intel-once-again-warns-of-chip-shortage-continuing-until-2023)
+ - [Scientists taught a petri dish of brain cells to play pong faster than an AI](https://www.pcgamer.com/scientists-taught-a-petri-dish-of-brain-cells-to-play-pong-faster-than-an-ai)
+ - [Forcing Final Fantasy Remake 7 to run in DirectX 11 might help with stuttering](https://www.pcgamer.com/final-fantasy-7-remake-stuttering-fix)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
