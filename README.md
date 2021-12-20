@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Spider-Man breaks records while every other movie bombs](https://www.polygon.com/22846503/spider-man-no-way-home-box-office-opening-weekend)
- - [The Latest Chainsaw Man Anime Trailer Looks Hype](https://kotaku.com/the-latest-chainsaw-man-anime-trailer-looks-hype-1848247250)
- - [Michelle Yeoh kicks ass in the first teaser for The Witcher spin-off series Blood Origin](https://www.pcgamer.com/michelle-yeoh-kicks-ass-in-the-first-teaser-for-the-witcher-spin-off-series-blood-origin)<!-- GAME:END -->
+ - [Ranking Super Smash Bros. Ultimate&#39;s New Character Introductions Over The Last 5 Years](https://kotaku.com/ranking-super-smash-bros-ultimates-new-character-intro-1848247989)
+ - [Ubisoft facing developer ‘exodus,’ according to new report](https://www.polygon.com/22847176/ubisoft-developer-exodus-axios-report)
+ - [Diablo 4 is bringing back Diablo 3&#39;s Paragon system, but with some major changes](https://www.pcgamer.com/diablo-4-is-bringing-back-diablo-3s-paragon-system-but-with-some-major-changes)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
