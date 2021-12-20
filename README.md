@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Hannibal](http://9gag.com/gag/ajgXQ50)
- - 🚯 [Stonks](http://9gag.com/gag/awz5qGy)
- - 🚯 [Gun Toting Criminals &amp;amp; One SLy A$ Cashier...](http://9gag.com/gag/aNPdyRb)<!-- MEMES:END -->
+ - 🚖 [Futurama episode in 1999.](http://9gag.com/gag/aDDWRo9)
+ - 🚯 [Atleast the camera were safe](http://9gag.com/gag/aDDWRqw)
+ - 🚯 [Just like magic](http://9gag.com/gag/aKm2bbQ)<!-- MEMES:END -->
 
 --- 
 
