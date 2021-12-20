@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Our favourite gaming chair manufacturer is releasing an official Witcher gaming chair](https://www.pcgamer.com/our-favourite-gaming-chair-manufacturer-is-releasing-an-official-witcher-gaming-chair)
- - [Here comes the RTX 2050, only three years late](https://www.pcgamer.com/here-comes-the-rtx-2050-only-three-years-late)
- - [Corsair&#39;s new DDR5 RAM clocks in at 6.4GHz](https://www.pcgamer.com/corsairs-new-ddr5-ram-clocks-in-at-64ghz)<!-- GAME:END -->
+ - [Please Tell Me! Galko-chan Manga Creator Arrested Over Child Pornography](https://kotaku.com/please-tell-me-galko-chan-manga-creator-arrested-over-1848243961)
+ - [Best Multiplayer Game 2021: Chivalry 2](https://www.pcgamer.com/best-multiplayer-game-2021-chivalry-2)
+ - [Our favourite gaming chair manufacturer is releasing an official Witcher gaming chair](https://www.pcgamer.com/our-favourite-gaming-chair-manufacturer-is-releasing-an-official-witcher-gaming-chair)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
