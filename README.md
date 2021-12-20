@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Twitch Suspends An Amazon Prime Video Channel, Likely For NSFW Reasons](https://kotaku.com/twitch-suspends-an-amazon-prime-video-channel-1848243059)
- - [The Week In Games: A Mostly Quiet Winter Week](https://kotaku.com/the-week-in-games-a-mostly-quiet-winter-week-1848242927)
- - [The post-apocalyptic Timberborn beavers can make water go up now](https://www.pcgamer.com/the-post-apocalyptic-timberborn-beavers-can-make-water-go-up-now)<!-- GAME:END -->
+ - [Congratulations To George R.R. Martin On Completing A Blog Post About Elden Ring](https://kotaku.com/congratulations-to-george-r-r-martin-on-completing-a-b-1848242813)
+ - [Looks like the next Mass Effect will be made in Unreal](https://www.pcgamer.com/looks-like-the-next-mass-effect-will-be-made-in-unreal)
+ - [Twitch Suspends An Amazon Prime Video Channel, Likely For NSFW Reasons](https://kotaku.com/twitch-suspends-an-amazon-prime-video-channel-1848243059)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
