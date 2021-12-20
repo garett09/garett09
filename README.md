@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Don’t like glasstic? Leaker says all Galaxy S22 phones have glass backs](https://www.androidauthority.com/samsung-galaxy-s22-series-glass-back-3077822/)
- - [LG’s ‘first gaming laptop’ has an RTX 3080 and 11th Gen Intel CPU](https://www.theverge.com/2021/12/20/22846139/lg-ultragear-17g90q-rtx-3080-gpu-11th-gen-intel-cpu-storage-gaming-laptop)
- - [Decoding cryptocurrency: A comprehensive glossary](https://www.androidauthority.com/cryptocurrency-terms-glossary-2739859/)<!-- TECH:END -->
+ - [Google strikes deal to restore Disney networks to YouTube TV](https://appleinsider.com/articles/21/12/19/google-strikes-deal-to-restore-disney-networks-to-youtube-tv?utm_medium=rss)
+ - [How to get $10 in Amazon credit with the purchase of a $100 Apple Gift Card](https://appleinsider.com/articles/21/11/28/black-friday-deal-get-15-in-amazon-credit-with-100-apple-gift-card?utm_medium=rss)
+ - [Hypebeasts With Bots Have Ruined Christmas](https://www.wired.com/story/bots-ps5-christmas-toys)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
