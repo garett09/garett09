@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cars 24, an India-based marketplace for used cars, raises a $400M Series G, including $100M debt and $300M equity, led by Alpha Wave Global at a $3.3B valuation &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/211220/p4#a211220p4)
- - [The Galaxy S22 Ultra could get more detailed 108MP shots with this new mode](https://www.androidauthority.com/galaxy-s22-ultra-detail-enhancer-108mp-3077796/)
- - [Microsoft&#39;s Phil Spencer says the success and growth of games like Minecraft show the ingredients required for the metaverse to shed its dystopian roots &lpar;Nick Statt/Protocol&rpar;](http://www.techmeme.com/211220/p3#a211220p3)<!-- TECH:END -->
+ - [Decoding cryptocurrency: A comprehensive glossary](https://www.androidauthority.com/cryptocurrency-terms-glossary-2739859/)
+ - [Tom Brady’s best throw of the night destroys Microsoft tablet](https://www.theverge.com/2021/12/20/22846124/tom-brady-destroy-microsoft-surface-tablet)
+ - [Cars 24, an India-based marketplace for used cars, raises a $400M Series G, including $100M debt and $300M equity, led by Alpha Wave Global at a $3.3B valuation &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/211220/p4#a211220p4)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
