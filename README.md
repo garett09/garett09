@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Just like magic](http://9gag.com/gag/aKm2bbQ)
- - 🚯 [By 2050 they&amp;#039;ll require 7 foot guys Thank God I&amp;#039;m 5&amp;#039;4&amp;quot; so it&amp;#039;s over for me for a long time now](http://9gag.com/gag/aVxqj18)
- - 🚯 [Every day it gets easier, but you gotta do every day. That&amp;#039;s the hard part..](http://9gag.com/gag/aDDWRm9)<!-- MEMES:END -->
+ - 🚖 [Worker spraying the streets to prevent Covid 19. This is the most cyberpunk picture I&amp;#039;ve ever seen](http://9gag.com/gag/abgp3YX)
+ - 🚯 [1 Euro is now worth 20 Turkish lira, diminishing its value by %50 in just 3 months. Turks in Turkey are facing poverty that hasnt been seen in over 50 years. Meanwhile the Turks living in Europe:](http://9gag.com/gag/aLvD6q5)
+ - 🚯 [C&amp;#039;mon Margie, you&amp;#039;re not *that* big...](http://9gag.com/gag/avAG2Y5)<!-- MEMES:END -->
 
 --- 
 
