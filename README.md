@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Fish](http://9gag.com/gag/apgrWzn)
- - 🚯 [The Sombrero galaxy by Hubble.](http://9gag.com/gag/azerWxb)
- - 🚯 [Unrealistic historical standards](http://9gag.com/gag/aLvMx3z)<!-- MEMES:END -->
+ - 🚖 [The grandiose of the great pyramids](http://9gag.com/gag/aVxDNRd)
+ - 🚯 [Typical slavic cellar with potato for winter and homemade conservation &lpar;jam, compote, pickles, etc&rpar;](http://9gag.com/gag/aAGwWPE)
+ - 🚯 [Fish](http://9gag.com/gag/apgrWzn)<!-- MEMES:END -->
 
 --- 
 
