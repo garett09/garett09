@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [New World is getting exclusive Wheel of Time gear through Twitch drops](https://www.theverge.com/2021/12/20/22846372/new-world-wheel-of-time-gear-twitch-drops-amazon-corporate-synergy)
- - [EPA issues new rule to curb tailpipe pollution, fight climate change](https://www.theverge.com/2021/12/20/22846556/epa-rule-tailpipe-carbon-emissions-biden)
- - [How to use the new AR directions in Apple Maps](https://appleinsider.com/articles/21/10/13/how-to-use-the-new-ar-directions-in-apple-maps?utm_medium=rss)<!-- TECH:END -->
+ - [Apple sued for $7.5M over alleged LED, mini LED patent infringement](https://appleinsider.com/articles/21/12/20/apple-sued-for-75m-for-alleged-led-mini-led-patent-infringement?utm_medium=rss)
+ - [Apple doubled its smart speaker market share in 2021 thanks to HomePod mini](https://appleinsider.com/articles/21/12/20/apple-doubled-its-smart-speaker-market-share-in-2021-thanks-to-homepod-mini?utm_medium=rss)
+ - [Here are 65 last-minute gifts that will arrive in time for the holidays](https://www.theverge.com/22840189/christmas-gifts-best-last-minute-tech-gaming-gadgets-shipping)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
