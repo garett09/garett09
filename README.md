@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix: 45 of the absolute best TV shows to watch     - CNET](https://www.cnet.com/news/netflix-45-of-the-absolute-best-tv-shows-to-binge-this-week/#ftag=CAD590a51e)
- - [Netflix: 38 of the absolute best movies to watch     - CNET](https://www.cnet.com/news/netflix-38-of-the-absolute-best-movies-to-stream-this-week/#ftag=CAD590a51e)
- - [How to manage notifications in iOS 15 and iPadOS 15](https://appleinsider.com/articles/21/11/01/how-to-manage-notifications-in-ios-15-and-ipados-15?utm_medium=rss)<!-- TECH:END -->
+ - [Prime Video: The 32 best TV shows to watch     - CNET](https://www.cnet.com/news/amazon-prime-video-the-32-best-tv-series-to-stream-this-week/#ftag=CAD590a51e)
+ - [Prime Video: The 29 best movies to watch     - CNET](https://www.cnet.com/news/amazon-prime-video-the-29-best-movies-to-binge/#ftag=CAD590a51e)
+ - [Netflix: 45 of the absolute best TV shows to watch     - CNET](https://www.cnet.com/news/netflix-45-of-the-absolute-best-tv-shows-to-binge-this-week/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
