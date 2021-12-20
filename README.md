@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Please Tell Me! Galko-chan Manga Creator Arrested Over Child Pornography](https://kotaku.com/please-tell-me-galko-chan-manga-creator-arrested-over-1848243961)
- - [Best Multiplayer Game 2021: Chivalry 2](https://www.pcgamer.com/best-multiplayer-game-2021-chivalry-2)
- - [Our favourite gaming chair manufacturer is releasing an official Witcher gaming chair](https://www.pcgamer.com/our-favourite-gaming-chair-manufacturer-is-releasing-an-official-witcher-gaming-chair)<!-- GAME:END -->
+ - [Voice Actor Sayaka Kanda Dies At Age 35](https://kotaku.com/voice-actor-sayaka-kanda-dies-at-age-35-1848243984)
+ - [Warframe&#39;s The New War update delivers spectacle, twists, and personal stakes in style](https://www.pcgamer.com/warframes-the-new-war-update-delivers-spectacle-twists-and-personal-stakes-in-style)
+ - [The My Hero Academia Manga Could Finish In A Year](https://kotaku.com/the-my-hero-academia-manga-could-finish-in-a-year-1848243975)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
