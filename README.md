@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [5 new things Blizzard just revealed about Diablo 4](https://www.polygon.com/22846550/diablo-4-blog-legendary-paragon-occultist-skill-class-farm)
- - [How Stranger of Paradise Final Fantasy Origin takes Final Fantasy back to its beginnings](https://blog.playstation.com/2021/12/20/how-stranger-of-paradise-final-fantasy-origin-takes-final-fantasy-back-to-its-beginnings/)
- - [How Stranger of Paradise Final Fantasy Origin takes Final Fantasy back to its beginnings](https://blog.playstation.com/2021/12/20/how-stranger-of-paradise-final-fantasy-origin-takes-final-fantasy-back-to-its-beginnings/)<!-- GAME:END -->
+ - [Spider-Man: No Way Home’s ending lifts a twist from Marvel Comics — but what happened next?](https://www.polygon.com/22839425/spider-man-no-way-home-ending-spoilers-sequels)
+ - [No One’s Buying Ubisoft’s Garbage Ghost Recon NFTs](https://kotaku.com/no-one-s-buying-ubisoft-s-garbage-ghost-recon-nfts-1848246084)
+ - [Henry Cavill rewrote Witcher season 2’s heart-wrenching Roach scene](https://www.polygon.com/22846536/the-witcher-roach-season-2-scene-henry-cavill)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
