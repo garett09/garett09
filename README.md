@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Here are all the free games you can grab right now](https://www.pcgamer.com/here-are-all-the-free-games-you-can-grab-right-now)
- - [Every Halo Game, Ranked From Worst To Best](https://kotaku.com/every-halo-game-ranked-from-worst-to-best-1848242182)
- - [Hades Wins A Hugo Award, Making History As First Video Game To Ever Do So](https://kotaku.com/hades-wins-a-hugo-award-making-history-as-first-video-1848242324)<!-- GAME:END -->
+ - [Twitch Suspends An Amazon Prime Video Channel, Likely For NSFW Reasons](https://kotaku.com/twitch-suspends-an-amazon-prime-video-channel-1848243059)
+ - [The Week In Games: A Mostly Quiet Winter Week](https://kotaku.com/the-week-in-games-a-mostly-quiet-winter-week-1848242927)
+ - [The post-apocalyptic Timberborn beavers can make water go up now](https://www.pcgamer.com/the-post-apocalyptic-timberborn-beavers-can-make-water-go-up-now)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
