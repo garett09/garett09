@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [Nvidia&#39;s festive Minecraft map packs an RTX-powered wonderland into a snowglobe](https://www.pcgamer.com/nvidias-festive-minecraft-map-packs-an-rtx-powered-wonderland-into-a-snowglobe)
  - [In a fraught year, Outer Wilds: Echoes of the Eye reminds you what matters most](https://www.pcgamer.com/in-a-fraught-year-outer-wilds-echoes-of-the-eye-reminds-you-what-matters-most)
- - [Voice Actor Sayaka Kanda Dies At Age 35](https://kotaku.com/voice-actor-sayaka-kanda-dies-at-age-35-1848243984)
- - [Warframe&#39;s The New War update delivers spectacle, twists, and personal stakes in style](https://www.pcgamer.com/warframes-the-new-war-update-delivers-spectacle-twists-and-personal-stakes-in-style)<!-- GAME:END -->
+ - [Voice Actor Sayaka Kanda Dies At Age 35](https://kotaku.com/voice-actor-sayaka-kanda-dies-at-age-35-1848243984)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
