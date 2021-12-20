@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Huge street cleaning vacuum in action](http://9gag.com/gag/aWg8wYq)
- - 🚯 [This anime with a solarpunk future](http://9gag.com/gag/aLvMx5V)
- - 🚯 [Typical slavic cellar with potato for winter and homemade conservation &lpar;jam, compote, pickles, etc&rpar;](http://9gag.com/gag/aAGwWPE)<!-- MEMES:END -->
+ - 🚖 [Typical slavic cellar with potato for winter and homemade conservation &lpar;jam, compote, pickles, etc&rpar;](http://9gag.com/gag/aAGwWPE)
+ - 🚯 [For the tenth year in a row, in my opinion one of the best &lpar;mini&rpar;series ever.](http://9gag.com/gag/aegYv1q)
+ - 🚯 [Traditions](http://9gag.com/gag/aYrK8X2)<!-- MEMES:END -->
 
 --- 
 
