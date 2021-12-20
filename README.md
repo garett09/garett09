@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Aim training: How to improve your FPS aim](https://www.pcgamer.com/aim-training)
- - [Elden Ring: Everything we know about FromSoftware&#39;s next game](https://www.pcgamer.com/elden-ring-everything-we-know)
- - [MTV’s bizarre attempt to give Tobey Maguire’s Spider-Man a multiverse](https://www.polygon.com/22843080/spider-man-animated-series)<!-- GAME:END -->
+ - [5 new things Blizzard just revealed about Diablo 4](https://www.polygon.com/22846550/diablo-4-blog-legendary-paragon-occultist-skill-class-farm)
+ - [How Stranger of Paradise Final Fantasy Origin takes Final Fantasy back to its beginnings](https://blog.playstation.com/2021/12/20/how-stranger-of-paradise-final-fantasy-origin-takes-final-fantasy-back-to-its-beginnings/)
+ - [How Stranger of Paradise Final Fantasy Origin takes Final Fantasy back to its beginnings](https://blog.playstation.com/2021/12/20/how-stranger-of-paradise-final-fantasy-origin-takes-final-fantasy-back-to-its-beginnings/)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
