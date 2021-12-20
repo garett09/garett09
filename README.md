@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Background Sounds: Fall asleep, study or drown out your neighbors with this iOS 15 feature     - CNET](https://www.cnet.com/tech/services-and-software/background-sounds-fall-asleep-study-or-drown-out-your-neighbors-with-this-ios-15-feature/#ftag=CAD590a51e)
- - [Chargeasap Flash Pro Plus Review: one power bank to rule them all](https://appleinsider.com/articles/21/12/20/chargeasap-flash-pro-plus-review-one-power-bank-to-rule-them-all?utm_medium=rss)
- - [Alibaba suspends China&#39;s biggest shopping celebrity Huang Wei from Taobao after she was fined ~$210M for tax evasion, in a blow to Alibaba&#39;s livestream shopping &lpar;Eleanor Olcott/Financial Times&rpar;](http://www.techmeme.com/211220/p18#a211220p18)<!-- TECH:END -->
+ - [New World is getting exclusive Wheel of Time gear through Twitch drops](https://www.theverge.com/2021/12/20/22846372/new-world-wheel-of-time-gear-twitch-drops-amazon-corporate-synergy)
+ - [EPA issues new rule to curb tailpipe pollution, fight climate change](https://www.theverge.com/2021/12/20/22846556/epa-rule-tailpipe-carbon-emissions-biden)
+ - [How to use the new AR directions in Apple Maps](https://appleinsider.com/articles/21/10/13/how-to-use-the-new-ar-directions-in-apple-maps?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
