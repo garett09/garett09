@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google strikes deal to restore Disney networks to YouTube TV](https://appleinsider.com/articles/21/12/19/google-strikes-deal-to-restore-disney-networks-to-youtube-tv?utm_medium=rss)
- - [How to get $10 in Amazon credit with the purchase of a $100 Apple Gift Card](https://appleinsider.com/articles/21/11/28/black-friday-deal-get-15-in-amazon-credit-with-100-apple-gift-card?utm_medium=rss)
- - [Hypebeasts With Bots Have Ruined Christmas](https://www.wired.com/story/bots-ps5-christmas-toys)<!-- TECH:END -->
+ - [Taptap Send, which provides cross-border remittances for underserved markets, raises a $65M Series B led by Spark Capital, following a $13.4M Series A in June &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/211220/p7#a211220p7)
+ - [Apple Silicon chips expected to be refreshed on an 18 month cycle](https://appleinsider.com/articles/21/12/20/apple-silicon-chips-expected-to-be-refreshed-on-an-18-month-cycle?utm_medium=rss)
+ - [The Best Coffee Subscription Boxes We&#39;ve Savored](https://www.wired.com/story/best-coffee-subscriptions)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
