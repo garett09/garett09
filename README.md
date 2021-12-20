@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Bangalore-based Razorpay, a top payment processor in India whose products resemble Stripe&#39;s, raises a $375M Series F at a $7.5B valuation, up from $3B in April &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/211220/p2#a211220p2)
  - [The Amazon Appstore is finally working on Android 12](https://www.androidauthority.com/amazon-appstore-android-12-working-3077063/)
- - [No, tardigrades have not been quantum entangled with a qubit     - CNET](https://www.cnet.com/news/no-tardigrades-have-not-been-quantum-entangled-with-a-qubit/#ftag=CAD590a51e)
- - [Chinese AI company SenseTime, which focuses on computer vision, relaunches its $767M Hong Kong IPO, a week after the US investor ban and pulling the IPO listing &lpar;Scott Murdoch/Reuters&rpar;](http://www.techmeme.com/211220/p1#a211220p1)<!-- TECH:END -->
+ - [No, tardigrades have not been quantum entangled with a qubit     - CNET](https://www.cnet.com/news/no-tardigrades-have-not-been-quantum-entangled-with-a-qubit/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
