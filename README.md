@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple sued for $7.5M over alleged LED, mini LED patent infringement](https://appleinsider.com/articles/21/12/20/apple-sued-for-75m-for-alleged-led-mini-led-patent-infringement?utm_medium=rss)
- - [Apple doubled its smart speaker market share in 2021 thanks to HomePod mini](https://appleinsider.com/articles/21/12/20/apple-doubled-its-smart-speaker-market-share-in-2021-thanks-to-homepod-mini?utm_medium=rss)
- - [Here are 65 last-minute gifts that will arrive in time for the holidays](https://www.theverge.com/22840189/christmas-gifts-best-last-minute-tech-gaming-gadgets-shipping)<!-- TECH:END -->
+ - [The best weather apps for iPhone and iPad](https://appleinsider.com/articles/21/12/20/the-best-weather-apps-for-iphone-and-ipad?utm_medium=rss)
+ - [Zepto, which offers a &quot;10-minute&quot; grocery delivery service in five Indian cities, raises a $100M Series C led by YC Continuity Fund at a $570M valuation &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/211220/p22#a211220p22)
+ - [How to add, manage and remove someone from a WhatsApp group](https://www.androidauthority.com/add-manage-remove-whatsapp-group-3078123/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
