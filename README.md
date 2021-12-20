@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [This is Sparta](http://9gag.com/gag/amgrjm6)
- - 🚯 [Stonks](http://9gag.com/gag/awz5qGy)
+ - 🚖 [Every game i start](http://9gag.com/gag/aLvMqV6)
+ - 🚯 [Just like magic](http://9gag.com/gag/aKm2bbQ)
  - 🚯 [Time to buy a ps2](http://9gag.com/gag/avArbAM)<!-- MEMES:END -->
 
 --- 
