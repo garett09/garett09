@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How to get women](http://9gag.com/gag/ajgXYxp)
- - 🚯 [Atleast the camera were safe](http://9gag.com/gag/aDDWRqw)
- - 🚯 [&amp;quot;Hey nice new President you elected there. Would be a shame if something would happen to him.&amp;quot;](http://9gag.com/gag/adg7yWZ)<!-- MEMES:END -->
+ - 🚖 [Working life](http://9gag.com/gag/aze8g2x)
+ - 🚯 [Homemade Roasted Cherry Tomato Gobarotta Spaghetti](http://9gag.com/gag/arnb1DB)
+ - 🚯 [What do we say to Xitler and vachina?](http://9gag.com/gag/ajgXYd1)<!-- MEMES:END -->
 
 --- 
 
