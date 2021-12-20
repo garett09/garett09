@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Negate](http://9gag.com/gag/angyAqq)
- - 🚯 [Yee to the haw](http://9gag.com/gag/aRrK5KA)
- - 🚯 [Why is it that girls can kiss, touch and hug eachother however they like, and when a guy says something small to a friend like: your hair looks cool, they automatically look at you like you asked if you could impregnate his sister](http://9gag.com/gag/aVxDnYn)<!-- MEMES:END -->
+ - 🚖 [Why is it that girls can kiss, touch and hug eachother however they like, and when a guy says something small to a friend like: your hair looks cool, they automatically look at you like you asked if you could impregnate his sister](http://9gag.com/gag/aVxDnYn)
+ - 🚯 [Negate](http://9gag.com/gag/angyAqq)
+ - 🚯 [Not a meme](http://9gag.com/gag/awz569r)<!-- MEMES:END -->
 
 --- 
 
