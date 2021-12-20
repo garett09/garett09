@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Futurama episode in 1999.](http://9gag.com/gag/aDDWRo9)
- - 🚯 [Atleast the camera were safe](http://9gag.com/gag/aDDWRqw)
- - 🚯 [Just like magic](http://9gag.com/gag/aKm2bbQ)<!-- MEMES:END -->
+ - 🚖 [Just like magic](http://9gag.com/gag/aKm2bbQ)
+ - 🚯 [By 2050 they&amp;#039;ll require 7 foot guys Thank God I&amp;#039;m 5&amp;#039;4&amp;quot; so it&amp;#039;s over for me for a long time now](http://9gag.com/gag/aVxqj18)
+ - 🚯 [Every day it gets easier, but you gotta do every day. That&amp;#039;s the hard part..](http://9gag.com/gag/aDDWRm9)<!-- MEMES:END -->
 
 --- 
 
