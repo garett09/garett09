@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Nvidia&#39;s festive Minecraft map packs an RTX-powered wonderland into a snowglobe](https://www.pcgamer.com/nvidias-festive-minecraft-map-packs-an-rtx-powered-wonderland-into-a-snowglobe)
- - [In a fraught year, Outer Wilds: Echoes of the Eye reminds you what matters most](https://www.pcgamer.com/in-a-fraught-year-outer-wilds-echoes-of-the-eye-reminds-you-what-matters-most)
- - [Voice Actor Sayaka Kanda Dies At Age 35](https://kotaku.com/voice-actor-sayaka-kanda-dies-at-age-35-1848243984)<!-- GAME:END -->
+ - [Marvel Comics announces the ‘culmination’ of the Punisher’s journey](https://www.polygon.com/22843011/punisher-marvel-new-series-jason-aaron)
+ - [Halo Infinite multiplayer: Winter Contingency start time, rewards list, and more](https://www.pcgamer.com/halo-infinite-winter-contingency-start-time-rewards)
+ - [Nvidia&#39;s festive Minecraft map packs an RTX-powered wonderland into a snowglobe](https://www.pcgamer.com/nvidias-festive-minecraft-map-packs-an-rtx-powered-wonderland-into-a-snowglobe)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
