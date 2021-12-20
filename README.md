@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Aged like fine wine](http://9gag.com/gag/aGz03d0)
- - 🚯 [3rd shift sucks](http://9gag.com/gag/aOQd6KN)
+ - 🚖 [Negate](http://9gag.com/gag/angyAqq)
+ - 🚯 [Yee to the haw](http://9gag.com/gag/aRrK5KA)
  - 🚯 [Why is it that girls can kiss, touch and hug eachother however they like, and when a guy says something small to a friend like: your hair looks cool, they automatically look at you like you asked if you could impregnate his sister](http://9gag.com/gag/aVxDnYn)<!-- MEMES:END -->
 
 --- 
