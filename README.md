@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to manage notifications in iOS 15 and iPadOS 15](https://appleinsider.com/articles/21/11/01/how-to-manage-notifications-in-ios-15-and-ipados-15?utm_medium=rss)
- - [Spider-Man: No Way Home had the 3rd biggest opening weekend in cinema     - CNET](https://www.cnet.com/news/spider-man-no-way-home-had-the-3rd-biggest-opening-weekend-in-cinema/#ftag=CAD590a51e)
- - [First &#39;true&#39; millipede with over 1,000 legs discovered deep below Earth&#39;s surface     - CNET](https://www.cnet.com/news/first-true-millipede-with-over-1000-legs-discovered-deep-below-earths-surface/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Netflix: 45 of the absolute best TV shows to watch     - CNET](https://www.cnet.com/news/netflix-45-of-the-absolute-best-tv-shows-to-binge-this-week/#ftag=CAD590a51e)
+ - [Netflix: 38 of the absolute best movies to watch     - CNET](https://www.cnet.com/news/netflix-38-of-the-absolute-best-movies-to-stream-this-week/#ftag=CAD590a51e)
+ - [How to manage notifications in iOS 15 and iPadOS 15](https://appleinsider.com/articles/21/11/01/how-to-manage-notifications-in-ios-15-and-ipados-15?utm_medium=rss)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
