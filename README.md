@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Happened to me this one time when I was in school...](http://9gag.com/gag/a61brLq)
- - 🚯 [Worker spraying the streets to prevent Covid 19. This is the most cyberpunk picture I&amp;#039;ve ever seen](http://9gag.com/gag/abgp3YX)
- - 🚯 [Tell me something that feels illegal, but isn&amp;#039;t.](http://9gag.com/gag/aVxDn1P)<!-- MEMES:END -->
+ - 🚖 [Hannibal](http://9gag.com/gag/ajgXQ50)
+ - 🚯 [Stonks](http://9gag.com/gag/awz5qGy)
+ - 🚯 [Gun Toting Criminals &amp;amp; One SLy A$ Cashier...](http://9gag.com/gag/aNPdyRb)<!-- MEMES:END -->
 
 --- 
 
