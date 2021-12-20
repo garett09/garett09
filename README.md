@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Spider-Man: No Way Home’s ending lifts a twist from Marvel Comics — but what happened next?](https://www.polygon.com/22839425/spider-man-no-way-home-ending-spoilers-sequels)
- - [No One’s Buying Ubisoft’s Garbage Ghost Recon NFTs](https://kotaku.com/no-one-s-buying-ubisoft-s-garbage-ghost-recon-nfts-1848246084)
- - [Henry Cavill rewrote Witcher season 2’s heart-wrenching Roach scene](https://www.polygon.com/22846536/the-witcher-roach-season-2-scene-henry-cavill)<!-- GAME:END -->
+ - [We Are OFK is what I want from episodic video games](https://www.polygon.com/22846896/we-are-ofk-pc-ps4-ps5-release-date)
+ - [Critical Role animated series will premiere earlier than expected](https://www.polygon.com/22846929/critical-role-animated-series-premiere-date-legend-of-vox-machina)
+ - [The best gaming controller for most systems: The 8BitDo Pro 2](https://www.polygon.com/deals/22839917/best-gaming-controller-pc-switch-mac-os-android-ios-8bitdo-pro-2)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
