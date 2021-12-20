@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Berlin-based Vay, a startup that uses remote operators to drive rental cars to a customer&#39;s pick-up spot and from their drop-off site, raises a $95M Series B &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/211219/p9#a211219p9)
- - [The least surprising news of 2021: Facebook voted the worst company in America](https://appleinsider.com/articles/21/12/19/the-least-surprising-news-of-2021-facebook-voted-the-worst-company-in-america?utm_medium=rss)
- - [Is Spider-Man: No Way Home coming to Disney Plus? What you need to know     - CNET](https://www.cnet.com/news/is-spider-man-no-way-home-coming-to-disney-plus-everything-you-need-to-know-marvel-release/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to manage notifications in iOS 15 and iPadOS 15](https://appleinsider.com/articles/21/11/01/how-to-manage-notifications-in-ios-15-and-ipados-15?utm_medium=rss)
+ - [Spider-Man: No Way Home had the 3rd biggest opening weekend in cinema     - CNET](https://www.cnet.com/news/spider-man-no-way-home-had-the-3rd-biggest-opening-weekend-in-cinema/#ftag=CAD590a51e)
+ - [First &#39;true&#39; millipede with over 1,000 legs discovered deep below Earth&#39;s surface     - CNET](https://www.cnet.com/news/first-true-millipede-with-over-1000-legs-discovered-deep-below-earths-surface/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
