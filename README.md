@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Chinese AI company SenseTime, which focuses on computer vision, relaunches its $767M Hong Kong IPO, a week after the US investor ban and pulling the IPO listing &lpar;Scott Murdoch/Reuters&rpar;](http://www.techmeme.com/211220/p1#a211220p1)
  - [Sources estimate ~20% of the world&#39;s bitcoin miners remain in China, moving operations underground and evading detection after the country&#39;s crypto mining ban &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/211219/p12#a211219p12)
- - [South Korea-based online grocery startup Kurly, which says it plans to IPO in H1 2022 at a ~$5.8B valuation, raises $210M at a $3.3B valuation &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/211219/p11#a211219p11)
- - [Prime Video: The 32 best TV shows to watch     - CNET](https://www.cnet.com/news/amazon-prime-video-the-32-best-tv-series-to-stream-this-week/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [South Korea-based online grocery startup Kurly, which says it plans to IPO in H1 2022 at a ~$5.8B valuation, raises $210M at a $3.3B valuation &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/211219/p11#a211219p11)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
