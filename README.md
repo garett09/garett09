@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Congratulations To George R.R. Martin On Completing A Blog Post About Elden Ring](https://kotaku.com/congratulations-to-george-r-r-martin-on-completing-a-b-1848242813)
- - [Looks like the next Mass Effect will be made in Unreal](https://www.pcgamer.com/looks-like-the-next-mass-effect-will-be-made-in-unreal)
- - [Twitch Suspends An Amazon Prime Video Channel, Likely For NSFW Reasons](https://kotaku.com/twitch-suspends-an-amazon-prime-video-channel-1848243059)<!-- GAME:END -->
+ - [Forcing Final Fantasy Remake 7 to run in DirectX 11 might help with stuttering](https://www.pcgamer.com/final-fantasy-7-remake-stuttering-fix)
+ - [Nice Owl](https://kotaku.com/nice-owl-1848242903)
+ - [Congratulations To George R.R. Martin On Completing A Blog Post About Elden Ring](https://kotaku.com/congratulations-to-george-r-r-martin-on-completing-a-b-1848242813)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
