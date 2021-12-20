@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Inside Ubisoft&#39;s unprecedented &quot;exodus&quot; of devs over the past 18 months, including at least five of the top 25-credited people from Far Cry 6, its top 2021 game &lpar;Stephen Totilo/Axios&rpar;](http://www.techmeme.com/211220/p25#a211220p25)
- - [Former head of Sonic Team releases new self-made mobile game](https://www.theverge.com/2021/12/20/22846465/yuji-naka-sega-sonic-team-shot2048-iphone-android)
- - [How to add a background to Safari in iOS 15](https://www.theverge.com/22846740/safari-iphone-ios-15-apple-mobile)<!-- TECH:END -->
+ - [The Matrix Resurrections won’t hit HBO Max until 3AM ET on December 22nd](https://www.theverge.com/2021/12/20/22847124/the-matrix-resurrections-release-date-time-hbo-max-streaming-december-22nd)
+ - [Meta cracks down on phishing scams that use its trademarks](https://www.theverge.com/2021/12/20/22846952/meta-lawsuit-phishing-attacks)
+ - [Google will end support for OnHub, launched in 2015 for $200 as a router and smart home hub, offering its owners a 40% discount on the latest Nest WiFi router &lpar;Taylor Kerns/Android Police&rpar;](http://www.techmeme.com/211220/p27#a211220p27)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
