@@ -194,8 +194,8 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Good boi - was scanning old super 8 videos and found a clip of Gosi &lpar;Joker&rpar;, my dog, recorded 52 years ago.](http://9gag.com/gag/angbYdz)
- - 🚯 [The English fears only one of them](http://9gag.com/gag/aE8YwNK)
- - 🚯 [What do we say to Xitler and vachina?](http://9gag.com/gag/ajgXYd1)<!-- MEMES:END -->
+ - 🚯 [Look mom. Food!](http://9gag.com/gag/aggL0vv)
+ - 🚯 [WHAT AN ABSOLUTE CHAD!](http://9gag.com/gag/aze8gVb)<!-- MEMES:END -->
 
 --- 
 
