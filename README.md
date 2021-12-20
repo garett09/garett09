@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Mel Brooks explains why George Lucas signed off on Spaceballs — with one giant caveat](https://www.polygon.com/22845048/mel-brooks-book-spaceballs-george-lucas)
- - [Watch the trailer for The Witcher: Blood Origin, Netflix’s apocalyptic prequel](https://www.polygon.com/22692726/witcher-blood-origin-trailer-cast-netflix)
- - [Halo Infinite: When and where to find the Scorpion Gun](https://www.pcgamer.com/halo-infinite-scorpion-gun-location)<!-- GAME:END -->
+ - [Aim training: How to improve your FPS aim](https://www.pcgamer.com/aim-training)
+ - [Elden Ring: Everything we know about FromSoftware&#39;s next game](https://www.pcgamer.com/elden-ring-everything-we-know)
+ - [MTV’s bizarre attempt to give Tobey Maguire’s Spider-Man a multiverse](https://www.polygon.com/22843080/spider-man-animated-series)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
