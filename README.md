@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Airlines begin preparing for potential FAA flight limits in around 46 large American metro areas, as a new 5G wireless service goes live on January 5 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/211220/p10#a211220p10)
- - [What to do when you find an AirTag, or are told by your iPhone that one is following you](https://appleinsider.com/articles/21/05/04/what-to-do-when-you-find-an-airtag?utm_medium=rss)
- - [2021 Was Bound to Be a Year of Pop Culture Disappointments](https://www.wired.com/story/2021-year-of-cultural-disappointments)<!-- TECH:END -->
+ - [FCC settles with AT&amp;T, Verizon, Intrado, and CenturyLink over failed 911 calls during network outages in 2020; the companies will pay $6M collectively &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/211220/p16#a211220p16)
+ - [6 best Android parental control apps and other methods](https://www.androidauthority.com/best-parental-control-apps-android-1133716/)
+ - [Missing in action: The smartphones we didn’t see in 2021](https://www.androidauthority.com/missing-phones-2021-3073282/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
