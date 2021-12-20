@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Decoding cryptocurrency: A comprehensive glossary](https://www.androidauthority.com/cryptocurrency-terms-glossary-2739859/)
- - [Tom Brady’s best throw of the night destroys Microsoft tablet](https://www.theverge.com/2021/12/20/22846124/tom-brady-destroy-microsoft-surface-tablet)
- - [Cars 24, an India-based marketplace for used cars, raises a $400M Series G, including $100M debt and $300M equity, led by Alpha Wave Global at a $3.3B valuation &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/211220/p4#a211220p4)<!-- TECH:END -->
+ - [Don’t like glasstic? Leaker says all Galaxy S22 phones have glass backs](https://www.androidauthority.com/samsung-galaxy-s22-series-glass-back-3077822/)
+ - [LG’s ‘first gaming laptop’ has an RTX 3080 and 11th Gen Intel CPU](https://www.theverge.com/2021/12/20/22846139/lg-ultragear-17g90q-rtx-3080-gpu-11th-gen-intel-cpu-storage-gaming-laptop)
+ - [Decoding cryptocurrency: A comprehensive glossary](https://www.androidauthority.com/cryptocurrency-terms-glossary-2739859/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
