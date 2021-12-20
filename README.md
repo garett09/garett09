@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [FCC settles with AT&amp;T, Verizon, Intrado, and CenturyLink over failed 911 calls during network outages in 2020; the companies will pay $6M collectively &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/211220/p16#a211220p16)
- - [6 best Android parental control apps and other methods](https://www.androidauthority.com/best-parental-control-apps-android-1133716/)
- - [Missing in action: The smartphones we didn’t see in 2021](https://www.androidauthority.com/missing-phones-2021-3073282/)<!-- TECH:END -->
+ - [Background Sounds: Fall asleep, study or drown out your neighbors with this iOS 15 feature     - CNET](https://www.cnet.com/tech/services-and-software/background-sounds-fall-asleep-study-or-drown-out-your-neighbors-with-this-ios-15-feature/#ftag=CAD590a51e)
+ - [Chargeasap Flash Pro Plus Review: one power bank to rule them all](https://appleinsider.com/articles/21/12/20/chargeasap-flash-pro-plus-review-one-power-bank-to-rule-them-all?utm_medium=rss)
+ - [Alibaba suspends China&#39;s biggest shopping celebrity Huang Wei from Taobao after she was fined ~$210M for tax evasion, in a blow to Alibaba&#39;s livestream shopping &lpar;Eleanor Olcott/Financial Times&rpar;](http://www.techmeme.com/211220/p18#a211220p18)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
