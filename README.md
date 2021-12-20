@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best weather apps for iPhone and iPad](https://appleinsider.com/articles/21/12/20/the-best-weather-apps-for-iphone-and-ipad?utm_medium=rss)
- - [Zepto, which offers a &quot;10-minute&quot; grocery delivery service in five Indian cities, raises a $100M Series C led by YC Continuity Fund at a $570M valuation &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/211220/p22#a211220p22)
- - [How to add, manage and remove someone from a WhatsApp group](https://www.androidauthority.com/add-manage-remove-whatsapp-group-3078123/)<!-- TECH:END -->
+ - [How to add a background to Safari in iOS 15](https://www.theverge.com/22846740/safari-iphone-ios-15-apple-mobile)
+ - [Save on top tech with 15% off refurbished devices at Decluttr     - CNET](https://www.cnet.com/tech/save-on-top-tech-with-15-off-refurbished-devices-at-decluttr/#ftag=CAD590a51e)
+ - [Best organic mattress 2021     - CNET](https://www.cnet.com/health/sleep/best-organic-mattress/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
