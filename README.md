@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Every game i start](http://9gag.com/gag/aLvMqV6)
- - 🚯 [Just like magic](http://9gag.com/gag/aKm2bbQ)
- - 🚯 [Time to buy a ps2](http://9gag.com/gag/avArbAM)<!-- MEMES:END -->
+ - 🚖 [When you apply a 90 percent coupon on your haircut](http://9gag.com/gag/aNPAmo0)
+ - 🚯 [Happened to me this one time when I was in school...](http://9gag.com/gag/a61brLq)
+ - 🚯 [Pathetic](http://9gag.com/gag/a317owv)<!-- MEMES:END -->
 
 --- 
 
