@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Matrix Resurrections won’t hit HBO Max until 3AM ET on December 22nd](https://www.theverge.com/2021/12/20/22847124/the-matrix-resurrections-release-date-time-hbo-max-streaming-december-22nd)
- - [Meta cracks down on phishing scams that use its trademarks](https://www.theverge.com/2021/12/20/22846952/meta-lawsuit-phishing-attacks)
- - [Google will end support for OnHub, launched in 2015 for $200 as a router and smart home hub, offering its owners a 40% discount on the latest Nest WiFi router &lpar;Taylor Kerns/Android Police&rpar;](http://www.techmeme.com/211220/p27#a211220p27)<!-- TECH:END -->
+ - [Apple rolls out new updated 3D maps for Philadelphia](https://appleinsider.com/articles/21/12/20/apple-rolls-out-new-updated-3d-maps-for-philadelphia?utm_medium=rss)
+ - [Free next day delivery on MacBooks, iPads &lpar;plus save up to $200&rpar;](https://appleinsider.com/articles/21/12/20/free-next-day-delivery-on-macbooks-ipads-plus-save-up-to-200?utm_medium=rss)
+ - [Google says the &quot;number of users engaging with Android apps&quot; on Chrome OS is up 50% YoY; in May, it said Chrome OS grew 92%+ YoY, 5X faster than the PC market &lpar;chromeOS.dev&rpar;](http://www.techmeme.com/211220/p29#a211220p29)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
