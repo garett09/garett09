@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Marvel Comics announces the ‘culmination’ of the Punisher’s journey](https://www.polygon.com/22843011/punisher-marvel-new-series-jason-aaron)
- - [Halo Infinite multiplayer: Winter Contingency start time, rewards list, and more](https://www.pcgamer.com/halo-infinite-winter-contingency-start-time-rewards)
- - [Nvidia&#39;s festive Minecraft map packs an RTX-powered wonderland into a snowglobe](https://www.pcgamer.com/nvidias-festive-minecraft-map-packs-an-rtx-powered-wonderland-into-a-snowglobe)<!-- GAME:END -->
+ - [Mel Brooks explains why George Lucas signed off on Spaceballs — with one giant caveat](https://www.polygon.com/22845048/mel-brooks-book-spaceballs-george-lucas)
+ - [Watch the trailer for The Witcher: Blood Origin, Netflix’s apocalyptic prequel](https://www.polygon.com/22692726/witcher-blood-origin-trailer-cast-netflix)
+ - [Halo Infinite: When and where to find the Scorpion Gun](https://www.pcgamer.com/halo-infinite-scorpion-gun-location)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
