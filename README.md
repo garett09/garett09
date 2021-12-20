@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [We Are OFK is what I want from episodic video games](https://www.polygon.com/22846896/we-are-ofk-pc-ps4-ps5-release-date)
- - [Critical Role animated series will premiere earlier than expected](https://www.polygon.com/22846929/critical-role-animated-series-premiere-date-legend-of-vox-machina)
- - [The best gaming controller for most systems: The 8BitDo Pro 2](https://www.polygon.com/deals/22839917/best-gaming-controller-pc-switch-mac-os-android-ios-8bitdo-pro-2)<!-- GAME:END -->
+ - [Spider-Man breaks records while every other movie bombs](https://www.polygon.com/22846503/spider-man-no-way-home-box-office-opening-weekend)
+ - [The Latest Chainsaw Man Anime Trailer Looks Hype](https://kotaku.com/the-latest-chainsaw-man-anime-trailer-looks-hype-1848247250)
+ - [Michelle Yeoh kicks ass in the first teaser for The Witcher spin-off series Blood Origin](https://www.pcgamer.com/michelle-yeoh-kicks-ass-in-the-first-teaser-for-the-witcher-spin-off-series-blood-origin)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
