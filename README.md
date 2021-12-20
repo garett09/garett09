@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [1 Euro is now worth 20 Turkish lira, diminishing its value by %50 in just 3 months. Turks in Turkey are facing poverty that hasnt been seen in over 50 years. Meanwhile the Turks living in Europe:](http://9gag.com/gag/aLvD6q5)
+ - 🚖 [How to get women](http://9gag.com/gag/ajgXYxp)
  - 🚯 [Atleast the camera were safe](http://9gag.com/gag/aDDWRqw)
- - 🚯 [Working life](http://9gag.com/gag/aze8g2x)<!-- MEMES:END -->
+ - 🚯 [&amp;quot;Hey nice new President you elected there. Would be a shame if something would happen to him.&amp;quot;](http://9gag.com/gag/adg7yWZ)<!-- MEMES:END -->
 
 --- 
 
