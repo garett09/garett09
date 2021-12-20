@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Why is it that girls can kiss, touch and hug eachother however they like, and when a guy says something small to a friend like: your hair looks cool, they automatically look at you like you asked if you could impregnate his sister](http://9gag.com/gag/aVxDnYn)
- - 🚯 [Negate](http://9gag.com/gag/angyAqq)
- - 🚯 [Not a meme](http://9gag.com/gag/awz569r)<!-- MEMES:END -->
+ - 🚖 [This is Sparta](http://9gag.com/gag/amgrjm6)
+ - 🚯 [Stonks](http://9gag.com/gag/awz5qGy)
+ - 🚯 [Time to buy a ps2](http://9gag.com/gag/avArbAM)<!-- MEMES:END -->
 
 --- 
 
