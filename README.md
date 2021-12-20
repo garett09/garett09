@@ -194,7 +194,7 @@ Windows                  3 hrs 9 mins        ███████████�
 
 <!-- MEMES:START -->
  - 🚖 [Huge street cleaning vacuum in action](http://9gag.com/gag/aWg8wYq)
- - 🚯 [This is Sparta](http://9gag.com/gag/amgrjm6)
+ - 🚯 [This anime with a solarpunk future](http://9gag.com/gag/aLvMx5V)
  - 🚯 [Typical slavic cellar with potato for winter and homemade conservation &lpar;jam, compote, pickles, etc&rpar;](http://9gag.com/gag/aAGwWPE)<!-- MEMES:END -->
 
 --- 
