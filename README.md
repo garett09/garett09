@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Intel once again warns of chip shortage continuing until 2023](https://www.pcgamer.com/intel-once-again-warns-of-chip-shortage-continuing-until-2023)
- - [Scientists taught a petri dish of brain cells to play pong faster than an AI](https://www.pcgamer.com/scientists-taught-a-petri-dish-of-brain-cells-to-play-pong-faster-than-an-ai)
- - [Forcing Final Fantasy Remake 7 to run in DirectX 11 might help with stuttering](https://www.pcgamer.com/final-fantasy-7-remake-stuttering-fix)<!-- GAME:END -->
+ - [Our favourite gaming chair manufacturer is releasing an official Witcher gaming chair](https://www.pcgamer.com/our-favourite-gaming-chair-manufacturer-is-releasing-an-official-witcher-gaming-chair)
+ - [Here comes the RTX 2050, only three years late](https://www.pcgamer.com/here-comes-the-rtx-2050-only-three-years-late)
+ - [Corsair&#39;s new DDR5 RAM clocks in at 6.4GHz](https://www.pcgamer.com/corsairs-new-ddr5-ram-clocks-in-at-64ghz)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
