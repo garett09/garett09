@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Fish](http://9gag.com/gag/apgrWzn)
- - 🚯 [Huge street cleaning vacuum in action](http://9gag.com/gag/aWg8wYq)
- - 🚯 [Why is it that girls can kiss, touch and hug eachother however they like, and when a guy says something small to a friend like: your hair looks cool, they automatically look at you like you asked if you could impregnate his sister](http://9gag.com/gag/aVxDnYn)<!-- MEMES:END -->
+ - 🚖 [Huge street cleaning vacuum in action](http://9gag.com/gag/aWg8wYq)
+ - 🚯 [This is Sparta](http://9gag.com/gag/amgrjm6)
+ - 🚯 [Typical slavic cellar with potato for winter and homemade conservation &lpar;jam, compote, pickles, etc&rpar;](http://9gag.com/gag/aAGwWPE)<!-- MEMES:END -->
 
 --- 
 
