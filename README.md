@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Good boi - was scanning old super 8 videos and found a clip of Gosi &lpar;Joker&rpar;, my dog, recorded 52 years ago.](http://9gag.com/gag/angbYdz)
- - 🚯 [Look mom. Food!](http://9gag.com/gag/aggL0vv)
- - 🚯 [WHAT AN ABSOLUTE CHAD!](http://9gag.com/gag/aze8gVb)<!-- MEMES:END -->
+ - 🚖 [Nothing lasts forever, enjoy your youth.](http://9gag.com/gag/aAGdVQg)
+ - 🚯 [He is Kevin Hart](http://9gag.com/gag/aPZBv4g)
+ - 🚯 [The English fears only one of them](http://9gag.com/gag/aE8YwNK)<!-- MEMES:END -->
 
 --- 
 
