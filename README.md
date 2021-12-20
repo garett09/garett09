@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Tesla](http://9gag.com/gag/apgpE25)
- - 🚯 [Italian cuisine is simply amazing!](http://9gag.com/gag/a31qvqm)
- - 🚯 [1 Euro is now worth 20 Turkish lira, diminishing its value by %50 in just 3 months. Turks in Turkey are facing poverty that hasnt been seen in over 50 years. Meanwhile the Turks living in Europe:](http://9gag.com/gag/aLvD6q5)<!-- MEMES:END -->
+ - 🚖 [Today I bought the cheapest laptop I could afford and started playing Doom on ultra low settings at 1366x768 resolution for the first time. What a game! I&amp;#039;m glad I upgraded from YouTube.](http://9gag.com/gag/aAGdR59)
+ - 🚯 [1 Euro is now worth 20 Turkish lira, diminishing its value by %50 in just 3 months. Turks in Turkey are facing poverty that hasnt been seen in over 50 years. Meanwhile the Turks living in Europe:](http://9gag.com/gag/aLvD6q5)
+ - 🚯 [C&amp;#039;mon Margie, you&amp;#039;re not *that* big...](http://9gag.com/gag/avAG2Y5)<!-- MEMES:END -->
 
 --- 
 
