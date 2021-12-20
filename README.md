@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Worker spraying the streets to prevent Covid 19. This is the most cyberpunk picture I&amp;#039;ve ever seen](http://9gag.com/gag/abgp3YX)
- - 🚯 [1 Euro is now worth 20 Turkish lira, diminishing its value by %50 in just 3 months. Turks in Turkey are facing poverty that hasnt been seen in over 50 years. Meanwhile the Turks living in Europe:](http://9gag.com/gag/aLvD6q5)
- - 🚯 [C&amp;#039;mon Margie, you&amp;#039;re not *that* big...](http://9gag.com/gag/avAG2Y5)<!-- MEMES:END -->
+ - 🚖 [Tesla](http://9gag.com/gag/apgpE25)
+ - 🚯 [Italian cuisine is simply amazing!](http://9gag.com/gag/a31qvqm)
+ - 🚯 [1 Euro is now worth 20 Turkish lira, diminishing its value by %50 in just 3 months. Turks in Turkey are facing poverty that hasnt been seen in over 50 years. Meanwhile the Turks living in Europe:](http://9gag.com/gag/aLvD6q5)<!-- MEMES:END -->
 
 --- 
 
