@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Ranking Super Smash Bros. Ultimate&#39;s New Character Introductions Over The Last 5 Years](https://kotaku.com/ranking-super-smash-bros-ultimates-new-character-intro-1848247989)
- - [Ubisoft facing developer ‘exodus,’ according to new report](https://www.polygon.com/22847176/ubisoft-developer-exodus-axios-report)
- - [Diablo 4 is bringing back Diablo 3&#39;s Paragon system, but with some major changes](https://www.pcgamer.com/diablo-4-is-bringing-back-diablo-3s-paragon-system-but-with-some-major-changes)<!-- GAME:END -->
+ - [Krampus Is Destroying Call Of Duty Players And They Aren’t Happy About It](https://kotaku.com/krampus-is-destroying-call-of-duty-players-and-they-are-1848248331)
+ - [Yennefer and Ciri are lost in the big picture of The Witcher season 2](https://www.polygon.com/22847167/witcher-season-2-ciri-yennefer-books-changes)
+ - [Ranking Super Smash Bros. Ultimate&#39;s New Character Introductions Over The Last 5 Years](https://kotaku.com/ranking-super-smash-bros-ultimates-new-character-intro-1848247989)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
