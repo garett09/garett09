@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Taptap Send, which provides cross-border remittances for underserved markets, raises a $65M Series B led by Spark Capital, following a $13.4M Series A in June &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/211220/p7#a211220p7)
- - [Apple Silicon chips expected to be refreshed on an 18 month cycle](https://appleinsider.com/articles/21/12/20/apple-silicon-chips-expected-to-be-refreshed-on-an-18-month-cycle?utm_medium=rss)
- - [The Best Coffee Subscription Boxes We&#39;ve Savored](https://www.wired.com/story/best-coffee-subscriptions)<!-- TECH:END -->
+ - [Airlines begin preparing for potential FAA flight limits in around 46 large American metro areas, as a new 5G wireless service goes live on January 5 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/211220/p10#a211220p10)
+ - [What to do when you find an AirTag, or are told by your iPhone that one is following you](https://appleinsider.com/articles/21/05/04/what-to-do-when-you-find-an-airtag?utm_medium=rss)
+ - [2021 Was Bound to Be a Year of Pop Culture Disappointments](https://www.wired.com/story/2021-year-of-cultural-disappointments)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
