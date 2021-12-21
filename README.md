@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Any day](http://9gag.com/gag/aAGdPjR)
- - 🚯 [How to parallel park perfectly](http://9gag.com/gag/aNPAnR3)
+ - 🚖 [What&amp;rsquo;s going on here](http://9gag.com/gag/aKmV3pW)
+ - 🚯 [Any day](http://9gag.com/gag/aAGdPjR)
  - 🚯 [Seriously wtf??](http://9gag.com/gag/apgpLp8)<!-- MEMES:END -->
 
 --- 
