@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Biden plan will send out 500 million coronavirus tests to try to tackle the omicron surge](https://www.theverge.com/2021/12/21/22848070/biden-plan-coronavirus-tests-omicron-variant-testing-vaccine)
- - [Sources detail Amazon&#39;s increasingly close relationship with the DOJ and FBI, as it tips off the agencies about employees and third-party sellers &lpar;Politico&rpar;](http://www.techmeme.com/211221/p18#a211221p18)
- - [2021 smartphone mega shootout: This year’s best camera phones tested](https://www.androidauthority.com/best-camera-phone-2021-3072813/)<!-- TECH:END -->
+ - [Save up to $400 on modern furniture from Burrow     - CNET](https://www.cnet.com/home/kitchen-and-household/save-up-to-400-on-modern-furniture-from-burrow/#ftag=CAD590a51e)
+ - [Last-minute Amazon deals: Here are the best sales you can still get delivered in time     - CNET](https://www.cnet.com/news/you-still-have-time-for-these-amazon-prime-deals-to-be-delivered-by-christmas/#ftag=CAD590a51e)
+ - [Need a last-minute gift? Best Buy&#39;s new sale has you covered right now     - CNET](https://www.cnet.com/tech/best-buys-new-last-minute-savings-event-has-deals-you-can-pick-up-in-store-or-curbside/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
