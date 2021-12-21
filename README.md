@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Jack Dorsey says VCs really own Web3 &lpar;and Web3 boosters are pretty mad about it&rpar;](https://www.theverge.com/2021/12/21/22848162/jack-dorsey-web3-criticism-a16z-ownership-venture-capital-twitter)
- - [New analysis further links Pegasus spyware to Jamal Khashoggi murder](https://www.theverge.com/2021/12/21/22848485/pegasus-spyware-jamal-khashoggi-murder-nso-hanan-elatr-new-analysis)
- - [TikTok.com was the most popular domain globally between August and December 2021, after surpassing Google, Facebook, Microsoft, Apple, and Amazon during 2021 &lpar;The Cloudflare Blog&rpar;](http://www.techmeme.com/211221/p22#a211221p22)<!-- TECH:END -->
+ - [Here are 63 last-minute gifts that will arrive in time for the holidays](https://www.theverge.com/22840189/christmas-gifts-best-last-minute-tech-gaming-gadgets-shipping)
+ - [Deal alert: Apple&#39;s Mac mini with 16GB RAM is discounted to $799, in stock](https://appleinsider.com/articles/21/12/21/deal-alert-apples-mac-mini-with-16gb-ram-is-discounted-to-799-in-stock?utm_medium=rss)
+ - [72 Last-Minute Christmas Gifts on Sale Now](https://www.wired.com/story/last-minute-deals-and-christmas-gifts-2021)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
