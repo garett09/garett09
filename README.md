@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [And probably overcharge for home brew beer](http://9gag.com/gag/ay9D0mb)
- - 🚯 [It&amp;#039;s peaceful](http://9gag.com/gag/axBVZWD)
- - 🚯 [Nothing lasts forever, enjoy your youth.](http://9gag.com/gag/aAGdVQg)<!-- MEMES:END -->
+ - 🚖 [What in the name of all demons is that?](http://9gag.com/gag/aZrmxmz)
+ - 🚯 [See this too often on dating apps](http://9gag.com/gag/arnbe9y)
+ - 🚯 [And probably overcharge for home brew beer](http://9gag.com/gag/ay9D0mb)<!-- MEMES:END -->
 
 --- 
 
