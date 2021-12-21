@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Nothing lasts forever, enjoy your youth.](http://9gag.com/gag/aAGdVQg)
- - 🚯 [He is Kevin Hart](http://9gag.com/gag/aPZBv4g)
- - 🚯 [The English fears only one of them](http://9gag.com/gag/aE8YwNK)<!-- MEMES:END -->
+ - 🚖 [Today I bought the cheapest laptop I could afford and started playing Doom on ultra low settings at 1366x768 resolution for the first time. What a game! I&amp;#039;m glad I upgraded from YouTube.](http://9gag.com/gag/aAGdR59)
+ - 🚯 [Best friend forever...](http://9gag.com/gag/aRrmQmB)
+ - 🚯 [See this too often on dating apps](http://9gag.com/gag/arnbe9y)<!-- MEMES:END -->
 
 --- 
 
