@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
+ - [EKWB covers an ITX mobo with a water block and it looks awesome](https://www.pcgamer.com/ekwb-covers-an-itx-mobo-with-a-water-block-and-it-looks-awesome)
  - [This audiophile optimised SSD is designed to make your audio sound better](https://www.pcgamer.com/this-audiophile-optimised-ssd-is-designed-to-make-your-audio-sound-better)
- - [The Witcher TV Series Needs A Map](https://kotaku.com/the-witcher-tv-series-needs-a-map-1848243209)
- - [Give the gift of gaming this holiday season with Razer](https://www.pcgamer.com/give-the-gift-of-gaming-this-holiday-season-with-razer)<!-- GAME:END -->
+ - [The Witcher TV Series Needs A Map](https://kotaku.com/the-witcher-tv-series-needs-a-map-1848243209)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
