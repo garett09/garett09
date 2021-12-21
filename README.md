@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [How men respond to attractive vs unattractive females](http://9gag.com/gag/aDDWoex)
- - 🚯 [Know it](http://9gag.com/gag/aAGd1Mo)
- - 🚯 [Elon musk oppinion on vaccination](http://9gag.com/gag/a51bK4r)<!-- MEMES:END -->
+ - 🚖 [Elon musk oppinion on vaccination](http://9gag.com/gag/a51bK4r)
+ - 🚯 [I mean... Yes?](http://9gag.com/gag/aze8Agx)
+ - 🚯 [[old language]](http://9gag.com/gag/aegbG1O)<!-- MEMES:END -->
 
 --- 
 
