@@ -193,9 +193,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [What&amp;rsquo;s going on here](http://9gag.com/gag/aKmV3pW)
+ - 🚖 [Here are some of my favs. Recommend me some animation?](http://9gag.com/gag/aKmVqL6)
  - 🚯 [Any day](http://9gag.com/gag/aAGdPjR)
- - 🚯 [Seriously wtf??](http://9gag.com/gag/apgpLp8)<!-- MEMES:END -->
+ - 🚯 [How men respond to attractive vs unattractive females](http://9gag.com/gag/aDDWoex)<!-- MEMES:END -->
 
 --- 
 
