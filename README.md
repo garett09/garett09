@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Save up to $400 on modern furniture from Burrow     - CNET](https://www.cnet.com/home/kitchen-and-household/save-up-to-400-on-modern-furniture-from-burrow/#ftag=CAD590a51e)
- - [Last-minute Amazon deals: Here are the best sales you can still get delivered in time     - CNET](https://www.cnet.com/news/you-still-have-time-for-these-amazon-prime-deals-to-be-delivered-by-christmas/#ftag=CAD590a51e)
- - [Need a last-minute gift? Best Buy&#39;s new sale has you covered right now     - CNET](https://www.cnet.com/tech/best-buys-new-last-minute-savings-event-has-deals-you-can-pick-up-in-store-or-curbside/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Log4j software bug: What you need to know     - CNET](https://www.cnet.com/tech/services-and-software/log4j-software-bug-cisa-issues-emergency-directive-to-federal-agencies/#ftag=CAD590a51e)
+ - [Nintendo Switch &#39;year in review&#39; site shows your most played games and other stats     - CNET](https://www.cnet.com/tech/gaming/nintendo-switch-year-in-review-site-shows-your-most-played-games-and-other-stats/#ftag=CAD590a51e)
+ - [On Good Authority: Our favorite video games of 2021](https://www.androidauthority.com/best-games-2021-3074692/)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
