@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple rolls out new updated 3D maps for Philadelphia](https://appleinsider.com/articles/21/12/20/apple-rolls-out-new-updated-3d-maps-for-philadelphia?utm_medium=rss)
- - [Free next day delivery on MacBooks, iPads &lpar;plus save up to $200&rpar;](https://appleinsider.com/articles/21/12/20/free-next-day-delivery-on-macbooks-ipads-plus-save-up-to-200?utm_medium=rss)
- - [Google says the &quot;number of users engaging with Android apps&quot; on Chrome OS is up 50% YoY; in May, it said Chrome OS grew 92%+ YoY, 5X faster than the PC market &lpar;chromeOS.dev&rpar;](http://www.techmeme.com/211220/p29#a211220p29)<!-- TECH:END -->
+ - [TikTok faces allegations that it copied code from broadcast app OBS Studio and other open source projects for Live Studio without adhering to licensing terms &lpar;Janko Roettgers/Protocol&rpar;](http://www.techmeme.com/211220/p31#a211220p31)
+ - [Google is turning off the controls for OnHub routers at the end of 2022](https://www.theverge.com/2021/12/20/22847277/google-onhub-router-shutdown-2022-nest-wifi-replacement)
+ - [Before dinosaurs, millipedes larger than you crawled the Earth     - CNET](https://www.cnet.com/news/before-dinosaurs-millipedes-larger-than-you-crawled-the-earth/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
