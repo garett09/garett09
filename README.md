@@ -179,9 +179,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Game news for the hour
 
 <!-- GAME:START -->
- - [Krampus Is Destroying Call Of Duty Players And They Aren’t Happy About It](https://kotaku.com/krampus-is-destroying-call-of-duty-players-and-they-are-1848248331)
- - [Yennefer and Ciri are lost in the big picture of The Witcher season 2](https://www.polygon.com/22847167/witcher-season-2-ciri-yennefer-books-changes)
- - [Ranking Super Smash Bros. Ultimate&#39;s New Character Introductions Over The Last 5 Years](https://kotaku.com/ranking-super-smash-bros-ultimates-new-character-intro-1848247989)<!-- GAME:END -->
+ - [The Epic Games Store Is Giving Away Loop Hero And Other Great Games For Free](https://kotaku.com/the-epic-games-store-is-giving-away-loop-hero-and-other-1848248757)
+ - [So Many Ubisoft Employees Have Quit That They&#39;re Calling It &#39;The Great Exodus&#39;](https://kotaku.com/so-many-ubisoft-employees-have-quit-that-theyre-calling-1848248999)
+ - [Krampus Is Destroying Call Of Duty Players And They Aren’t Happy About It](https://kotaku.com/krampus-is-destroying-call-of-duty-players-and-they-are-1848248331)<!-- GAME:END -->
 
 ### 📣 Tech news for the hour
 
