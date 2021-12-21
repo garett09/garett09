@@ -193,8 +193,8 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Memes of the hour
 
 <!-- MEMES:START -->
- - 🚖 [Elon musk oppinion on vaccination](http://9gag.com/gag/a51bK4r)
- - 🚯 [I mean... Yes?](http://9gag.com/gag/aze8Agx)
+ - 🚖 [Wtf is up with sound in movies nowadays](http://9gag.com/gag/avAGnLq)
+ - 🚯 [Quarantine in Finland haha](http://9gag.com/gag/aDDWop9)
  - 🚯 [[old language]](http://9gag.com/gag/aegbG1O)<!-- MEMES:END -->
 
 --- 
