@@ -186,9 +186,9 @@ Windows                  3 hrs 9 mins        ███████████�
 ### 📣 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best home COVID-19 tests     - CNET](https://www.cnet.com/health/medical/the-best-home-covid-19-tests/#ftag=CAD590a51e)
- - [Today I learned double-pressing Ctrl can become a powerful Windows 11 shortcut for finding your mouse](https://www.theverge.com/2021/12/20/22847428/how-to-find-my-mouse-cursor-pointer-windows-11-powertoys-til)
- - [Saudi Arabia-based Sary, a B2B e-commerce marketplace that connects small retailers with a network of wholesalers and manufacturers, raises a $75M Series C &lpar;Wamda&rpar;](http://www.techmeme.com/211220/p32#a211220p32)<!-- TECH:END -->
+ - [T-Mobile says it blocked 21B scam, spam, and unwanted robocalls in 2021 via its Scam Shield service, as scam call traffic rose 116%+ YoY to 425M calls per week &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/211220/p33#a211220p33)
+ - [Spider-Man: No Way Home ending explained and all your questions answered     - CNET](https://www.cnet.com/news/spider-man-no-way-home-ending-explained-and-all-your-questions-answered/#ftag=CAD590a51e)
+ - [What is Wordle and why is everyone tweeting about it?     - CNET](https://www.cnet.com/news/what-is-wordle-and-why-is-everyone-tweeting-about-it/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 📣 Memes of the hour
 
